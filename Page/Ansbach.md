@@ -1,4 +1,4 @@
-Former building Gewerbevereins Ansbach De_Merian_Frankoniae_108.jpg ANSBACH (; ) is a city in the German state of Bavaria. It is the capital of the administrative region of Middle Franconia. Ansbach is southwest of Nuremberg and north of Munich, on the Fränkische Rezat (Rezat River), a tributary of the Main river. In 2004, its population was 40,723.
+ANSBACH (; ) is a city in the German state of Bavaria. It is the capital of the administrative region of Middle Franconia. Ansbach is southwest of Nuremberg and north of Munich, on the Fränkische Rezat (Rezat River), a tributary of the Main river. In 2004, its population was 40,723.
 
 Developed in the 8th century as a Benedictine monastery, it became the seat of the Hohenzollern family in 1331. In 1460, the Margraves of Brandenburg-Ansbach lived here. The city has a castle known as Margrafen–Schloss, built between 1704–1738. It was not badly damaged during the World Wars and hence retains its original historical baroque sheen. Ansbach is now home to a US military base and to the Ansbach University of Applied Sciences.
 
@@ -95,8 +95,6 @@ Ansbach lies on the Treuchtlingen-Würzburg railway.
 
 Notable people
 
-Kaspar_hauser.jpg
-
 -   Frederick I, Margrave of Brandenburg-Ansbach (1460–1536).
 -   Albert of Prussia (1490–1568), Grand Master of the Teutonic Order and the first duke of Prussia.
 -   In the late 16th century, the physician to margrave Georg Friedrich was the famous botanist, Leonhart Fuchs (1501–1566).
@@ -122,8 +120,6 @@ Born in Ansbach
 -   Walter Brandmüller, (born 1929), theologian and church historian, president of the Pontifical Committee for Historical Sciences.
 -   George H. Brickner, (1834–1904), U.S. Representative from Wisconsin.
 -   Danilo Dittrich (born 1995), football player.
-
-Theodor_Escherich.jpg
 
 -   Theodor Escherich, (1857–1911), pediatrician and bacteriologist.
 -   Hermann Fegelein, (1906–1945), General of the Waffen-SS, was married to the sister of Eva Braun.

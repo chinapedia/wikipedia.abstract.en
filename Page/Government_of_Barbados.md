@@ -19,7 +19,7 @@ There is an established non-political civil service. Also, there are separate co
 
 History
 
-Simplification_of_govt_structure_of_Barbados.gif The government has been chosen by elections since 1961 elections, when Barbados achieved full self-governance. Before then, the government was a Crown colony consisting of either colonial administration solely (such as the Executive Council), or a mixture of colonial rule and a partially elected assembly, such as the Legislative Council.
+The government has been chosen by elections since 1961 elections, when Barbados achieved full self-governance. Before then, the government was a Crown colony consisting of either colonial administration solely (such as the Executive Council), or a mixture of colonial rule and a partially elected assembly, such as the Legislative Council.
 
 Since independence the Democratic Labour Party (DLP) held office 1966 to 1976, from 1986 to 1994, and from January 2008 to 2018. The Barbados Labour Party (BLP) governed from 1976 to 1986, from September 1994 – 2008 and has formed the government from 2018-Present.
 

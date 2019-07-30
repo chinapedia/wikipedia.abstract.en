@@ -11,7 +11,7 @@ The history of cinema in Germany can be traced back to the years shortly after t
 
 In its earliest days, the cinematograph was perceived as an attraction for upper class audiences, but the novelty of moving pictures did not last long. Soon, trivial short films were being shown as fairground attractions aimed at the working class and lower-middle class. The booths in which these films were shown were known in Germany somewhat disparagingly as _Kintopps_. Film-makers with an artistic bent attempted to counter this view of cinema with longer movies based on literary models, and the first German "artistic" films began to be produced from around 1910, an example being the Edgar Allan Poe adaptation _The Student of Prague_ (1913) which was co-directed by Paul Wegener and Stellan Rye, photographed by Guido Seeber and starring actors from Max Reinhardt's company.
 
-Filmstudio_Babelsberg_Eingang.jpg near Berlin was the first large-scale film studio in the world (founded 1912) and the forerunner to Hollywood. It still produces global blockbusters every year.]]
+near Berlin was the first large-scale film studio in the world (founded 1912) and the forerunner to Hollywood. It still produces global blockbusters every year.]]
 
 Early film theorists in Germany began to write about the significance of _Schaulust_, or "visual pleasure", for the audience, including the Dada movement writer Walter Serner: "If one looks to where cinema receives its ultimate power, into these strangely flickering eyes that point far back into human history, suddenly it stands there in all its massiveness: visual pleasure."[3] Visually striking sets and makeup were key to the style of the expressionist films that were produced shortly after World War I.
 
@@ -23,17 +23,17 @@ The outbreak of World War I and the subsequent boycott of, for example, French f
 
 1918–1933 Weimar Republic
 
-Bundesarchiv_Bild_183-1991-0109-502,_Berlin,_Aufnahmegelände_der_Ufa_in_Tempelhof.jpg in Berlin-Tempelhof, 1920]]
+in Berlin-Tempelhof, 1920]]
 
 The German film industry, which was protected during the war by the ban on foreign films import, became exposed at the end of the war to the international film industry while having to face an embargo, this time on its own films. Many countries banned the import of German films and audiences themselves were resisting anything that was "German".[7] In addition, the economic situation was unstable and the devaluation of the currency made it difficult for the smaller production companies to function. Film industry financing was a fragile business and expensive productions occasionally led to bankruptcy. In 1925 UFA itself was forced to go into a disadvantageous partnership called Parufamet with the American studios Paramount and MGM, before being taken over by the nationalist industrialist and newspaper owner Alfred Hugenberg in 1927.[8]
 
-Maria_from_metropolis.JPG'' by Fritz Lang was the first feature length science fiction film in history.[9] It was produced at Studio Babelsberg, Germany.]]
+'' by Fritz Lang was the first feature length science fiction film in history.[9] It was produced at Studio Babelsberg, Germany.]]
 
 Nevertheless, the German film industry enjoyed an unprecedented development – during the 14 years which comprise the Weimar period, an average of 250 film were being produced each year, a total of 3,500 full-feature films.[10] Apart from UFA, about 230 film companies were active in Berlin alone. This industry was attracting producers and directors from all over Europe. The fact that the films were silent and language was not a factor, enabled even foreign actors, like the Danish film star Asta Nielsen or the American Louise Brooks, to be hired even for leading roles. This period can also be noted for new technological developments in film making and experimentation in set design and lighting, led by UFA. Babelsberg studio, which was incorporated into UFA, expanded massively and gave the German film industry a highly developed infrastructure. Babelsberg remained the centre of German filmmaking for many years, became the largest film studio in Europe and produced most of the films in this "golden era" of German cinema.[11] In essence it was "the German equivalent to Hollywood".[12]
 
 Due to the unstable economic condition and in an attempt to deal with modest production budgets, filmmakers were trying to reach the largest audience possible and in that, to maximize their revenues. This led to films being made in a vast array of genres and styles.[13]
 
-CABINETOFDRCALIGARI-poster.jpg'' (1920), directed by Robert Wiene.]]
+'' (1920), directed by Robert Wiene.]]
 
 One of the main film genres associated with the Weimar Republic cinema is German Expressionism which was inspired by the expressionist movement in art. Expressionist movies relied heavily on symbolism and artistic imagery rather than stark realism to tell their stories. Given the grim mood in post-WWI, it was not surprising that these films focused heavily on crime and horror. The film usually credited with sparking the popularity of expressionism is Robert Wiene's _The Cabinet of Dr. Caligari_ (1920), produced by Erich Pommer. The film tells the story of a demented hypnotist who is using a sleepwalker to perform a series of murders. The film featured a dark and twisted visual style - the set was unrealistic with geometric images painted on the floor and shapes in light and shadow cast on walls, the acting was exaggerated and the costumes bizarre. These stylistic elements became trademarks of this cinematic movement. Other notable works of Expressionism are Friedrich Wilhelm Murnau's _Nosferatu_ (1922), Carl Boese and Paul Wegener's _The Golem: How He Came Into the World_ (1920) and _Metropolis_ (1927) directed by Fritz Lang. The Expressionist movement began to wane during the mid-1920s, but perhaps the fact that its main creators moved to Hollywood, California, allowed this style to remain influential in world cinema for years to come, particularly in American horror films and film noir and in the works of European directors such as Jean Cocteau and Ingmar Bergman.[14]
 
@@ -59,7 +59,7 @@ In addition to developments in the industry itself, the Weimar period saw the bi
 
 The uncertain economic and political situation in Weimar Germany had already led to a number of film-makers and performers leaving the country, primarily for the United States; Ernst Lubitsch moved to Hollywood as early as 1923, the Hungarian-born Michael Curtiz in 1926. Some 1,500 directors, producers, actors and other film professionals emigrated in the years after the Nazis came to power. Among them were such key figures as the producer Erich Pommer, the studio head of Ufa, stars Marlene Dietrich and Peter Lorre, and director Fritz Lang. Lang's exodus to America is legendary; it is said that _Metropolis_ so greatly impressed Joseph Goebbels that he asked Lang to become the head of his propaganda film unit. Lang fled to America instead, where he had a long and prosperous career. Many up-and-coming German directors also fled to the U.S., having a major influence on American film as a result. A number of the Universal Horror films of the 1930s were directed by German emigrees, including Karl Freund, Joe May and Robert Siodmak. Directors Edgar Ulmer and Douglas Sirk and the Austrian-born screenwriter (and later director) Billy Wilder also emigrated from Nazi Germany to Hollywood success. Not all those in the film industry threatened by the Nazi regime were able to escape; the actor and director Kurt Gerron, for example, perished in a concentration camp.
 
-Titania-Palast_bei_Nacht_2.jpg, an Art Deco style movie theater opened in 1928]]
+, an Art Deco style movie theater opened in 1928]]
 
 Within weeks of the _Machtergreifung_, Alfred Hugenberg had effectively turned over Ufa to the ends of the Nazis, excluding Jews from employment in the company in March 1933, several months before the foundation in June of the _Reichsfilmkammer_ (Reich Chamber of Film), the body of the Nazi state charged with control of the film industry, which marked the official exclusion of Jews and foreigners from employment in the German film industry. As part of the process of _Gleichschaltung_ all film production in Germany was subordinate to the _Reichsfilmkammer_, which was directly responsible to Goebbel's Propaganda ministry, and all those employed in the industry had to be members of the _Reichsfachschaft Film_. "Non-Aryan" film professionals and those whose politics or personal life were unacceptable to the Nazis were excluded from the _Reichsfachschaft_ and thus denied employment in the industry. Some 3,000 individuals were affected by this employment ban. In addition, as journalists were also organised as a division of the Propaganda Ministry, Goebbels was able to abolish film criticism in 1936 and replace it with _Filmbeobachtung_ (film observation); journalists could only report on the content of a film, not offer judgement on its artistic or other worth.
 
@@ -103,7 +103,7 @@ The international significance of the West German film industry of the 1950s cou
 
 1960–1970 cinema in crisis
 
-Klaus_Kinski_-_Per_un_pugno_di_dollari.JPG]]
+]]
 
 In the late 1950s, the growth in cinema attendance of the preceding decade first stagnated and then went into freefall throughout the 1960s. By 1969 West German cinema attendance at 172.2 million visits per year was less than a quarter of its 1956 post-war peak.[38] As a consequence of this, numerous German production and distribution companies went out of business in the 1950s and 1960s and cinemas across the Federal Republic closed their doors; the number of screens in West Germany almost halved between the beginning and the end of the decade.
 
@@ -131,8 +131,6 @@ German production companies have been quite commonly involved in expensive Frenc
 
 1980–1989 popular productions
 
-Boulevard-der-stars-IMG_1461x.JPG
-
 Having achieved some of its goals, among them the establishment of state funding for the film industry and renewed international recognition for German films, the New German Cinema had begun to show signs of fatigue by the 1980s, even though many of its proponents continued to enjoy individual success.
 
 Among the commercial successes for German films of the 1980s were the _Otto_ film series beginning in 1985 starring comedian Otto Waalkes, Wolfgang Petersen's adaptation of _The NeverEnding Story_ (1984), and the internationally successful _Das Boot_ (1981), which still holds the record for most Academy Award nominations for a German film (six). Other notable film-makers who came to prominence in the 1980s include producer Bernd Eichinger and directors Doris Dörrie, Uli Edel, and Loriot.
@@ -143,7 +141,7 @@ From the mid-1980s the spread of videocassette recorders and the arrival of priv
 
 1990–Modern Germany
 
-John_Rabe_filming.jpg'' (2009), directed by Florian Gallenberger, filming on location in Shanghai harbour.]]
+'' (2009), directed by Florian Gallenberger, filming on location in Shanghai harbour.]]
 
 Today's biggest German production studios include Babelsberg Studio, Bavaria Film, Constantin Film and UFA. Film releases such as _Run Lola Run_ by Tom Tykwer, _Good Bye Lenin!_ by Wolfgang Becker, _Head-On_ by Fatih Akin, _Perfume_ by Tom Tykwer and _The Lives of Others_ by Florian Henckel von Donnersmarck, have arguably managed to recapture a provocative and innovative nature. Movies like _The Baader Meinhof Complex_ produced by Bernd Eichinger achieved some popular success.
 
@@ -197,7 +195,7 @@ Since 2005, the winners of the Deutscher Filmpreis, also known as the _Lolas_ ar
 
 Festivals
 
-Journalists_during_the_Berlin_Film_Festival_in_2008.jpg, also known as Berlinale.]]
+, also known as Berlinale.]]
 
 The Berlin International Film Festival, also called _Berlinale_, is one of the world's leading film festivals and most reputable media events.[43] It is held in Berlin, Germany.[44] Founded in West Berlin in 1951, the festival has been celebrated annually in February since 1978. With 274,000 tickets sold and 487,000 admissions it is considered the largest publicly attended film festival worldwide.[45][46] Up to 400 films are shown in several sections, representing a comprehensive array of the cinematic world. Around twenty films compete for the awards called the Golden and Silver Bears. Since 2001 the director of the festival has been Dieter Kosslick.[47][48]
 
@@ -213,7 +211,7 @@ In 2015 the Federal Ministry for Economic Affairs and Energy (Bundesministerium 
 
 Film schools
 
-Staatliches_Museum_Ägyptischer_Kunst_und_HFF.jpg]]
+]]
 
 Several institutions, both government run and private, provide formal education in various aspects of filmmaking.
 

@@ -5,13 +5,11 @@ American and American Eagle operates out of ten hubs, with Dallas/Fort Worth bei
 
 History
 
-N124AA_LAX_(26109389861).jpg at Los Angeles International Airport in 2015]]
+at Los Angeles International Airport in 2015]]
 
 American Airlines was started in 1930 via a union of more than eighty small airlines.[5]
 
 The two organizations from which American Airlines was originated were Robertson Aircraft Corporation and Colonial Air Transport. The former was first created in Missouri in 1921, with both being merged in 1929 into holding company The Aviation Corporation. This in turn, was made in 1930 into an operating company and rebranded as American Airways. In 1934, when new laws and attrition of mail contracts forced many airlines to reorganize, the corporation redid its routes into a connected system, and was renamed American Airlines. Between 1970 and 2000, the company grew into being an international carrier, purchasing Trans World Airlines in 2001.
-
-Passenger_cabin_of_the_Flagship_Knoxville,_a_fully_restored_DC-3_aircraft_at_the_American_Airlines_C.R._Smith_Museum_on_the_campus_of_the_American_Airlines_Flight_Academy,_at_the_southern_end_of_DFW_LCCN2015630849.tif
 
 American had a direct role in the development of the DC-3, which resulted from a marathon telephone call from American Airlines CEO C. R. Smith to Donald Douglas, when Smith persuaded a reluctant Douglas to design a sleeper aircraft based on the DC-2 to replace American's Curtiss Condor II biplanes. (The existing DC-2's cabin was wide, too narrow for side-by-side berths.) Douglas agreed to go ahead with development only after Smith informed him of American's intention to purchase 20 aircraft. The prototype DST (Douglas Sleeper Transport) first flew on December 17, 1935, (the 32nd anniversary of the Wright Brothers' flight at Kitty Hawk). Its cabin was wide, and a version with 21 seats instead of the 14–16 sleeping berths of the DST was given the designation DC-3. There was no prototype DC-3; the first DC-3 built followed seven DSTs off the production line and was delivered to American Airlines.[6] American Airlines inaugurated passenger service on June 26, 1936, with simultaneous flights from Newark, New Jersey and Chicago, Illinois.[7]
 
@@ -22,11 +20,11 @@ Destinations and hubs
 
 Destinations
 
-N834AA_taking_off_from_Sydney_Airport_July_2018.jpg taking off from Sydney Airport in July 2018]] American_Airlines_aircraft_at_PHX_(N657AW,_N837AW,_N604AW,_N845NN)_-_Quintin_Soloviev.jpg As of December 2018, American Airlines flies to 95 domestic destinations and 95 international destinations in 55 countries in five continents.[9]
+taking off from Sydney Airport in July 2018]] As of December 2018, American Airlines flies to 95 domestic destinations and 95 international destinations in 55 countries in five continents.[9]
 
 Hubs
 
-American_Hubs.gif American currently operates ten hubs.[10]
+American currently operates ten hubs.[10]
 
 -   Charlotte – American's hub for the Southeast.[11] About 42 million passengers fly through CLT on American every year, or about 115,000 people per day.[12] American has about 91% of the market share at CLT, making it the airport's largest airline.[13]
 -   Chicago–O'Hare – American's hub for the Midwest.[14] About 28 million passengers fly on American through O'Hare every year, or about 77,000 people per day.[15] American has about 35% of the market share at O'Hare, making it the airport's second-largest airline after United.[16]
@@ -83,12 +81,10 @@ In addition to the above codeshares, American has entered into joint ventures wi
 -   Japan Airlines
 -   Qantas
 
-American_DC-3.jpg
-
 
 Fleet
 
-Boeing_777-323(ER)_American_Airlines_N718AN,_LHR_London,_England_(Heathrow_Airport),_United_Kingdom_PP1367675556.jpg landing at London Heathrow Airport in 2013.]] On July 20, 2011, American announced an order for 460 narrowbody jets including 260 Airbus A320s.[52] The order broke Boeing's monopoly with the airline and forced Boeing into the re-engined 737 MAX.[53] As this sale included a Most-Favoured-Customer Clause.[54]
+landing at London Heathrow Airport in 2013.]] On July 20, 2011, American announced an order for 460 narrowbody jets including 260 Airbus A320s.[52] The order broke Boeing's monopoly with the airline and forced Boeing into the re-engined 737 MAX.[53] As this sale included a Most-Favoured-Customer Clause.[54]
 
 On April 6, 2018, adding to its previous order for 42, American has ordered an additional 47 Boeing 787 which includes 22 787-8 and 25 787-9, for over $12 billion at list prices.[55]
 
@@ -102,8 +98,6 @@ Its wide-body aircraft are mainly Boeing airliners. It is the third-largest oper
 
 
 Cabins
-
-American_Airlines_777-200ER_First_Class.jpg
 
 Flagship First
 
@@ -130,8 +124,6 @@ Main Cabin Extra
 American's economy plus product (not to be confused with premium economy), Main Cabin Extra, is available on most of the mainline fleet and American Eagle regional aircraft with more than 50 seats. Main Cabin Extra seats include greater pitch than is available in Main Cabin,[64] along with free alcoholic beverages.[65] American retained Main Cabin Extra when the new Premium Economy product entered service in late 2016.[66]
 
 Main Cabin
-
-American_Airlines.Boeing_737-800.Cabin.2010.JPG
 
 Main Cabin is American's economy product, and is found on all mainline and regional aircraft in its fleet. Seats range from in width and have of pitch.[67]
 
@@ -196,7 +188,7 @@ The airline considered developing a new headquarters in Irving, Texas on the old
 
 Branding
 
-American_Airlines_logo.svg In 1931, Goodrich Murphy, an American employee, designed the AA logo.[111] The logo was redesigned by Massimo Vignelli in 1967.[112][113] Thirty years later, in 1997, American Airlines was able to make its logo Internet-compatible by buying the domain AA.com. _AA_ is also American's two-letter IATA airline designator.[114]
+In 1931, Goodrich Murphy, an American employee, designed the AA logo.[111] The logo was redesigned by Massimo Vignelli in 1967.[112][113] Thirty years later, in 1997, American Airlines was able to make its logo Internet-compatible by buying the domain AA.com. _AA_ is also American's two-letter IATA airline designator.[114]
 
 On January 17, 2013, American launched a new rebranding and marketing campaign with FutureBrand dubbed, "A New American". This included a new logo replacing the logo used since 1967. American Airlines calls the new logo the "Flight Symbol, incorporating the eagle, star, and the letter “A” of the classic logo.[115]
 
@@ -204,13 +196,11 @@ American Airlines faced difficulty obtaining copyright registration for their 20
 
 American's early liveries varied widely, but a common livery was adopted in the 1930s, featuring an eagle painted on the fuselage.[121] The eagle became a symbol of the company and inspired the name of American Eagle Airlines. Propeller aircraft featured an international orange lightning bolt running down the length of the fuselage, which was replaced by a simpler orange stripe with the introduction of jets.
 
-American_Airlines_Astrojet_N951AA.jpg
-
 In the late 1960s, American commissioned designer Massimo Vignelli to develop a new livery. The original design called for a red, white, and blue stripe on the fuselage, and a simple "AA" logo, without an eagle, on the tail; instead, Vignelli created a highly stylized eagle, which remained the company's logo until January 16, 2013. In 1999, American painted a new Boeing 757 (N679AN) in its 1959 international orange livery. One Boeing 777 and one Boeing 757 were painted in standard livery with a pink ribbon on the sides and on the tail, in support of Susan G. Komen for the Cure. One Boeing 757 is painted with a yellow ribbon on the tailfin on the aircraft and on the side of the body says "Flagship Freedom". American Eagle, the airline's regional airline has the same special livery on ERJ-145 aircraft.
 
-AA_Flagship_Freedom.JPG, labeled with a "yellow awareness ribbon" symbol, representing support of the United States Armed Forces overseas operations.]] On January 17, 2013, American unveiled a new livery.[122] Before then, American had been the only major U.S. airline to leave most of its aircraft surfaces unpainted. This was because C. R. Smith would not say he liked painted aircraft, and refused to use any liveries that involved painting the entire plane. Robert "Bob" Crandall later justified the distinctive natural metal finish by noting that less paint reduced the aircraft's weight, thus saving on fuel costs.[123]
+, labeled with a "yellow awareness ribbon" symbol, representing support of the United States Armed Forces overseas operations.]] On January 17, 2013, American unveiled a new livery.[122] Before then, American had been the only major U.S. airline to leave most of its aircraft surfaces unpainted. This was because C. R. Smith would not say he liked painted aircraft, and refused to use any liveries that involved painting the entire plane. Robert "Bob" Crandall later justified the distinctive natural metal finish by noting that less paint reduced the aircraft's weight, thus saving on fuel costs.[123]
 
-US_Airways_A319-112_LAS_N717UW.jpg livery]]
+livery]]
 
 In January 2013, American launched a new rebranding and marketing campaign dubbed, "The New American". In addition to a new logo, American Airlines introduced a new livery for its fleet. The airline calls the new livery and branding "a clean and modern update".[124] The current design features an abstract American flag on the tail, along with a silver-painted fuselage, as a throw-back to the old livery. The new design was painted by Leading Edge Aviation Services in California.[125] Doug Parker, the incoming CEO indicated that the new livery could be short-lived, stating that "maybe we need to do something slightly different than that ... The only reason this is an issue now is because they just did it right in the middle, which kind of makes it confusing, so that gives us an opportunity, actually, to decide if we are going to do something different because we have so many airplanes to paint".[126] The current logo and livery have had mixed criticism, with _Design Shack_ editor Joshua Johnson writing that they 'boldly and proudly communicate the concepts of American pride and freedom wrapped into a shape that instantly makes you think about an airplane'[127], and _AskThePilot.com_ author Patrick Smith describing the logo as 'a linoleum knife poking through a shower curtain'.[128]
 

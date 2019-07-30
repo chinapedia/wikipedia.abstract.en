@@ -5,7 +5,7 @@ Formation and description
 
 Technically a drowned valley, like the other waterways around New York City,[5] the strait was formed approximately 11,000 years ago at the end of the Wisconsin glaciation.[6] The distinct change in the shape of the strait between the lower and upper portions is evidence of this glacial activity. The upper portion (from Long Island Sound to Hell Gate), running largely perpendicular to the glacial motion, is wide, meandering, and has deep narrow bays on both banks, scoured out by the glacier's movement. The lower portion (from Hell Gate to New York Bay) runs north-south, parallel to the glacial motion. It is much narrower, with straight banks. The bays that exist, as well as those that used to exist before being filled in by human activity, are largely wide and shallow.
 
-PSM_V28_D451_Hell_gate_new_york.jpg from c.1885, after many of the obstructions had been removed.]]
+from c.1885, after many of the obstructions had been removed.]]
 
 The section known as "Hell Gate" – from the Dutch name _Hellegat_ meaning either "bright strait" or "clear opening, given to the entire river in 1614 by explorer Adriaen Block when he passed through it in his ship _Tyger_[7][8] – is a narrow, turbulent, and particularly treacherous stretch of the river. Tides from the Long Island Sound, New York Harbor and the Harlem River meet there, making it difficult to navigate, especially because of the number of rocky islets which once dotted it, with names such as "Frying Pan", "Pot, Bread and Cheese", "Hen and Chicken", "Nigger Head", "Heel Top"; "Flood"; and "Gridiron", roughly 12 islets and reefs in all,[9] all of which led to a number of shipwrecks, including the British frigate _Hussar_ which sank in 1780 while carrying gold and silver intended to pay British troops. The stretch has since been cleared of rocks and widened.[10] Washington Irving wrote of Hell Gate that the current sounded "like a bull bellowing for more drink" at half tide, whilte at full tide it slept "as soundly as an alderman after dinner." He said it was like "a peaceable fellow enough when he has no liquor at all, or when he has a skinful, but who, when half-seas over, plays the very devil."[11] The tidal regime is complex, with the two major tides – from the Long Island Sound and from the Atlantic Ocean – separated by about two hours; and this is without consideration of the tidal influence of the Harlem River, all of which creates a "dangerous cataract", as one ship's captain put it.[12]
 
@@ -18,8 +18,6 @@ Islands
 In the stretch of the river between Manhattan Island and the borough of Queens, lies Roosevelt Island, a narrow (maximum width ) long island consisting of . Politically part of Manhattan, it begins at around the level of East 46th Street of that borough and runs up to around East 86th Street. Formerly called Blackwell's Island and Welfare Island, and now named after President Franklin Delano Roosevelt, it was the site of a penitentiary, and a number of hospitals, but now consists primarily of apartment buildings, park land, and the ruins of older buildings. It is connected to Queens by the Roosevelt Island Bridge, to Manhattan by the Roosevelt Island Tramway, and to both by a subway station. The Queensboro Bridge runs across Roosevelt Island, but no longer has a passenger elevator connection to it, as it did in the past. The abrupt termination of the island on its north end is due to an extension of the 125th Street Fault.[16]
 
 Other islands in the river are U Thant Island – formerly Belmont Island – south of Roosevelt Island, which was named after U Thant, the former Secretary-General of the United Nations; and Mill Rock, Wards and Randalls Islands, which have been joined together by landfill, and are used as park land, for a stadium, and to support the Triborough Bridge and the Hell Gate Bridge, Rikers Island, a small island bought by the city in 1884 to be a prison farm and expanded with landfill[17] from under to over ,[18] which is currently the site of the city's primary jail, and North and South Brother Islands, all of which lie north of Roosevelt Island.[19]
-
-Manhattan1781.jpg
 
 Tributaries
 
@@ -40,7 +38,7 @@ Narrowing the river
 
 Historically, the lower portion of the strait, which separates Manhattan from Brooklyn, was one of the busiest and most important channels in the world, particularly during the first three centuries of New York City's history. Because the water along the lower Manhattan shoreline was too shallow for large boats to tie up and unload their goods, from 1686 on – after the signing of the Dongan Charter, which allowed intertidal land to be owned and sold – the shoreline was "wharfed out" to the high-water mark by building retaining walls that were filled in with every conceivable kind of landfill: excrement, dead animals, ships deliberately sunk in place, ship ballast, and muck dredged from the bottom of the river. On the new land were built warehouses and other structures necessary for the burgeoning sea trade. Many of the "water-lot" grants went to the rich and powerful families of the merchant class, although some went to tradesmen. By 1700, the Manhattan bank of the river has been "wharfed-out" up to around Whitehall Street, narrowing the strait of the river.[25]
 
-Birds_eye_view_New_York_City_crop.jpeg and the East River are in the foreground, the Hudson River and New York Bay in the background]]
+and the East River are in the foreground, the Hudson River and New York Bay in the background]]
 
 After the signing of the Montgomerie Charter in the late 1720s, another 127 acres of land along the Manhattan shore of the East River was authorized to be filled-in, this time to a point 400 feet beyond the low-water mark; the parts that had already been expanded to the low water mark – much of which had been devastated by a coastal storm in the early 1720s and a nor'easter in 1723 – were also expanded, narrowing the channel even further. What had been quiet beach land was to become new streets and buildings, and the core of the city's sea-borne trade. This infilling went as far north as Corlear's Hook. In addition, the city was given control of the western shore of the river from Wallabout Bay south.[26]
 
@@ -56,8 +54,6 @@ After the war, East River waterfront development continued once more. New York S
 
 One result of the narrowing of the East River along the shoreline of Manhattan and, later, Brooklyn – which continued until the mid-19th century when the state put a stop to it – was an increase in the speed of its current. Buttermilk Channel, the strait that divides Governors Island from Red Hook in Brooklyn, and which is located directly south of the "mouth" of the East River, was in the early 17th century a fordable waterway across which cattle could be driven. Further investigation by Colonel Jonathan Williams determined that the channel was by 1776 three fathoms deep (), five fathoms deep () in the same spot by 1798, and when surveyed by Williams in 1807 had deepened to 7 fathoms () at low tide. What had been almost a bridge between two landforms which were once connected had become a fully navigable channel, thanks to the constriction of the East River and the increased flow it caused. Soon, the current in the East River had become so strong that larger ships had to use auxiliary steam power in order to turn.[30] The continued narrowing of the channel on both side may have been the reasoning behind the suggestion of one New York State Senator, who wanted to fill in the East River and annex Brooklyn, with the cost of doing so being covered by selling the newly made land.[31] Others proposed a dam at Roosevelt Island (then Blackwell's Island) to create a wet basin for shipping.[32]
 
-New_York_and_Vicinity_as_Proposed_to_be_Remodeled_crop.png
-
 Filling in the river
 
 Filling in part of the river was also proposed in 1867 by engineer James E. Serrell, later a city surveyor, but with emphasis on solving the problem of Hell Gate. Serrell proposed filling in Hell Gate and build a "New East River" through Queens with an extension to Westchester County.[33][34][35] Serrell's plan – which he publicized with maps, essay and lectures as well as presentations to the city, state and federal governments – would have filled in the river from 14th Street to 125th Street. The New East River through Queens would be about three times the average width of the existing one at an even throughout, and would run as straight as an arrow for five miles. The new land, and the portions of Queens which would become part of Manhattan, adding , would be covered with an extension of the existing street grid of Manhattan.[36]
@@ -69,8 +65,6 @@ Clearing Hell Gate
 Periodically, merchants and other interested parties would try to get something done about the difficulty of navigating through Hell Gate. In 1832, the New York State legislature was presented with a petition for a canal to be built through nearby Hallet's Point, thus avoiding Hell Gate altogether. Instead, the legislature responded by providing ships with pilots trained to navigate the shoals for the next 15 years.[38]
 
 In 1849, a French engineer whose specialty was underwater blasting, Benjamin Maillefert, had cleared some of the rocks which, along with the mix of tides, made the Hell Gate stretch of the river so dangerous to navigate. Ebenezer Meriam had organized a subscription to pay Maillefert $6,000 to, for instance, reduce "Pot Rock" to provide of depth at low-mean water. While ships continued to run aground (in the 1850s about 2% of ships did so) and petitions continued to call for action, the federal government undertook surveys of the area which ended in 1851 with a detailed and accurate map.[39] By then Maillefert had cleared the rock "Baldheaded Billy", and it was reported that Pot Rock had been reduced to , which encouraged the United States Congress to appropriate $20,000 for further clearing of the strait. However, a more accurate survey showed that the depth of Pot Rock was actually a little more than , and eventually Congress withdrew its funding.[40]
-
-PSM_V28_D454_Hallet_point_excavations_and_tunnel_7.jpg
 
 With the main shipping channels through The Narrows into the harbor silting up with sand due to littoral drift, thus providing ships with less depth, and a new generation of larger ships coming online – epitomized by Isambard Kingdom Brunel's SS _Great Eastern_, popularly known as "Leviathan" – New York began to be concerned that it would start to lose its status as a great port if a "back door" entrance into the harbor was not created.[41] In the 1850s the depth continued to lessen – the harbor commission said in 1850 that the mean water low was and the extreme water low was – while the draft required by the new ships continued to increase, meaning it was only safe for them to enter the harbor at high tide.[42]
 
@@ -100,8 +94,6 @@ The Brooklyn Bridge, completed in 1883, was the first bridge to span the East Ri
 
 Philanthropist John D. Rockefeller founded what is now Rockefeller University in 1901, between 63rd and 64th Streets on the river side of York Avenue, overlooking the river. The university is a research university for doctoral and post-doctoral scholars, primarily in the fields of medicine and biological science. North of it is one of the major medical centers in the city, NewYork Presbyterian / Weill Cornell Medical Center, which is associated with the medical schools of both Columbia University and Cornell University. Although it can trace its history back to 1771, the center on York Avenue, much of which overlooks the river, was built in 1932.[63]
 
-General_slocum_burning.jpg
-
 The East River was the site of one of the greatest disasters in the history of New York City when, in June 1904, the PS _General Slocum_ sank near North Brother Island due to a fire. It was carrying 1,400 German-Americans to a picnic site on Long Island for an annual outing. There were only 321 survivors of the disaster, one of the worst losses of life in the city's long history, and a devastating blow to the Little Germany neighborhood on the Lower East Side. The captain of the ship and the managers of the company that owned it were indicted, but only the captain was convicted; he spent 3 and a half years of his 10-year sentence at Sing Sing Prison before being released by a Federal parole board, and then pardoned by President William Howard Taft.[64][65]
 
 Beginning in 1934, and then again from 1948–1966, the Manhattan shore of the river became the location for the limited-access East River Drive, which was later renamed after Franklin Delano Roosevelt, and is universally known by New Yorkers as the "FDR Drive". The road in sometimes at grade, sometimes runs under locations such as the site of the Headquarters of the United Nations and Carl Schurz Park and Gracie Mansion – the mayor's official residence, and is at time double-decked, because Hell Gate provides no room for more landfill.[66] It begins at Battery Park, runs past the Brooklyn, Manhattan, Williamsburg and Queensboro Bridges, and the Ward's Island Footbridge, and terminates just before the Robert F. Kennedy Triboro Bridge when it connects to the Harlem River Drive. Between most of the FDR Drive and the River is the East River Greenway, part of the Manhattan Waterfront Greenway. The East River Greenway was primarily built in connection with the building of the FDR Drive, although some portions were built as recently as 2002, and other sections are still incomplete.[67][68][69]
@@ -116,7 +108,7 @@ In February 2012 the federal government announced an agreement with Verdant Powe
 
 On May 7, 2017, the catastrophic failure of a Con Edison substation in Brooklyn caused a spill into the river of over of dielectric fluid, a synthetic mineral oil used to cool electrical equipment and prevent electrical discharges. (See below.)
 
-Astoria_Park_Panorama_of_Triborough_and_Hell's_Gate_Bridges.jpg (left) and the Hell Gate Bridge (right), as seen from Astoria Park in Queens]]
+(left) and the Hell Gate Bridge (right), as seen from Astoria Park in Queens]]
 
 
 Ecosystem collapse, pollution and health
@@ -162,7 +154,7 @@ Crossings
 +------------------------------------------------------------------+-----------------------------------------------------+----------+-------------+--------------+
 | City Tunnel #1                                                   | water                                               |          |             | 1917         |
 +------------------------------------------------------------------+-----------------------------------------------------+----------+-------------+--------------+
-| Brooklyn-Battery Tunnel TBTA_BROOKLYN_BATTERY_TUNNEL.svg         | (unsigned)                                          |          |             | 1950         |
+| Brooklyn-Battery Tunnel                                          | (unsigned)                                          |          |             | 1950         |
 +------------------------------------------------------------------+-----------------------------------------------------+----------+-------------+--------------+
 | Joralemon Street Tunnel                                          |                                                     |          |             | 1908         |
 +------------------------------------------------------------------+-----------------------------------------------------+----------+-------------+--------------+
@@ -187,9 +179,9 @@ Crossings
 | Manhattan — Queens                                               |                                                     |          |             |              |
 +------------------------------------------------------------------+-----------------------------------------------------+----------+-------------+--------------+
 | East River Tunnels                                               | Amtrak Northeast Corridor                           |          |             | 1910         |
-|                                                                  | MTA_NYC_logo.svg Long Island Rail Road              |          |             |              |
+|                                                                  | Long Island Rail Road                               |          |             |              |
 +------------------------------------------------------------------+-----------------------------------------------------+----------+-------------+--------------+
-| Queens Midtown Tunnel TBTA_QUEENS-MIDTOWN_TUNNEL.svg             |                                                     |          |             | 1940         |
+| Queens Midtown Tunnel                                            |                                                     |          |             | 1940         |
 +------------------------------------------------------------------+-----------------------------------------------------+----------+-------------+--------------+
 | Steinway Tunnel                                                  |                                                     |          |             | 1915         |
 +------------------------------------------------------------------+-----------------------------------------------------+----------+-------------+--------------+
@@ -220,7 +212,7 @@ Crossings
 | Throgs Neck Bridge                                               |                                                     |          |             | 1961         |
 +------------------------------------------------------------------+-----------------------------------------------------+----------+-------------+--------------+
 
-Eastriverandbrooklynbridge1903-snd.ogg PostcardJamestownPennaRailroadSystemAtJamestownExpo1907.jpg East_River_Park_painting_IMG_3773.JPG' 1902 painting of East River Park, in the Brooklyn Museum]]
+' 1902 painting of East River Park, in the Brooklyn Museum]]
 
 
 In popular culture

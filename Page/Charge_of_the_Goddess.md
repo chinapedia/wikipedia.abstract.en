@@ -11,7 +11,7 @@ Several different versions of a Wiccan _Charge of the God_ have since been creat
 
 Themes
 
-Isis_Musei_Capitolini_MC744.jpg, holding a sistrum and oinochoe.]] The opening paragraph names a collection of goddesses, some derived from Greek or Roman mythology, others from Celtic or Arthurian legends, affirming a belief that these various figures represent a single Great Mother:
+, holding a sistrum and oinochoe.]] The opening paragraph names a collection of goddesses, some derived from Greek or Roman mythology, others from Celtic or Arthurian legends, affirming a belief that these various figures represent a single Great Mother:
 
     _Listen to the words of the Great Mother; she who of old was also called among men Artemis, Astarte, Athene, Dione, Melusine, Aphrodite, Cerridwen, Dana, Arianrhod, Isis, Bride, and by many other names._
 

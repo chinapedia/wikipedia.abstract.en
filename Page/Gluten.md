@@ -1,17 +1,15 @@
-Gluten_Sources.png
-
 GLUTEN (from Latin _gluten_, "glue") is a group of proteins, called prolamins and glutelins,[1] which occur with starch in the endosperm of various cereal grains. This protein complex comprises 75–85% of the total protein in bread wheat.[2][3] It is found in related wheat species and hybrids, (such as spelt, khorasan, emmer, einkorn, and triticale), barley, rye, and oats,[4] as well as products derived from these grains, such as breads and malts.
 
 Glutens, especially Triticeae glutens, have unique viscoelastic and adhesive properties, which give dough its elasticity, helping it rise and keep its shape and often leaving the final product with a chewy texture.[5][6][7] These properties and its relative low cost are the reasons why gluten is so widely demanded by the food industry and for non-food uses.[8]
 
 Prolamins in wheat are called gliadins; in barley, hordeins; in rye, secalins; and in oats, avenins. These protein classes are collectively referred to as gluten.[9] Wheat glutelins are called glutenin.[10] True gluten is limited to these four grains.[11] (The storage proteins in maize and rice are sometimes called glutens, but they differ from true gluten.[12])
 
-Pain_sans_gluten_à_la_farine_de_châtaigne_et_charcuterie_corse.jpg Gluten can trigger adverse inflammatory, immunological and autoimmune reactions in some people. Gluten can produce a broad spectrum of gluten-related disorders, including coeliac disease in 1–2% of the general population, non-coeliac gluten sensitivity in 6–10% of the general population, dermatitis herpetiformis, gluten ataxia and other neurological disorders.[13][14][15][16] These disorders are treated by a gluten-free diet.[17]
+Gluten can trigger adverse inflammatory, immunological and autoimmune reactions in some people. Gluten can produce a broad spectrum of gluten-related disorders, including coeliac disease in 1–2% of the general population, non-coeliac gluten sensitivity in 6–10% of the general population, dermatitis herpetiformis, gluten ataxia and other neurological disorders.[13][14][15][16] These disorders are treated by a gluten-free diet.[17]
 
 
 Uses
 
-Wheat_field.jpg, a prime source of gluten]]
+, a prime source of gluten]]
 
 Bread products
 
@@ -30,8 +28,6 @@ In industrial production, a slurry of wheat flour is kneaded vigorously by machi
 This flour-like powder, when added to ordinary flour dough, may help improve the dough's ability to increase in volume. The resulting mixture also increases the bread's structural stability and chewiness.[31] Gluten-added dough must be worked vigorously to induce it to rise to its full capacity; an automatic bread machine or food processor may be required for high-gluten kneading.[32] Generally, higher gluten levels are associated with higher overall protein content.[33]
 
 Imitation meats
-
-Wheat_gluten_(vegetarian_mock_duck)_2007.jpg
 
 Gluten, especially wheat gluten, is often the basis for imitation meats resembling beef, chicken, duck (see mock duck), fish and pork. When cooked in broth, gluten absorbs some of the surrounding liquid (including the flavor) and becomes firm to the bite.[34][35] This use of gluten is a popular means of adding supplemental protein to many vegetarian diets. In home or restaurant cooking, wheat gluten is prepared from flour by kneading the flour under water, agglomerating the gluten into an elastic network known as a dough, and then washing out the starch.[36]
 
@@ -67,7 +63,7 @@ Incidence
 
 Celiac disease
 
-Inflammed_mucous_layer_of_the_intestinal_villi_depicting_Celiac_disease.jpg Celiac disease (CD) is a chronic, multiple-organ autoimmune disorder primarily affecting the small intestine caused by the ingestion of wheat, barley, rye, oats, and derivatives, that appears in genetically predisposed people of all ages. CD is not only a gastrointestinal disease, because it may involve several organs and cause an extensive variety of non-gastrointestinal symptoms, and most importantly, it may be apparently asymptomatic.[73][74] Many asymptomatic people actually are not, but have become accustomed to living with a chronic bad health status as if it were normal, and they are able to recognize that they actually had symptoms related to celiac disease after starting the gluten-free diet and improvement is evident, in contrast to the situation prior to the diet.[75][76][77] Added difficulties for diagnosis are the fact that serological markers (anti-tissue transglutaminase [TG2]) are not always present[78] and many people may have minor mucosal lesions, without atrophy of the intestinal villi.[79]
+Celiac disease (CD) is a chronic, multiple-organ autoimmune disorder primarily affecting the small intestine caused by the ingestion of wheat, barley, rye, oats, and derivatives, that appears in genetically predisposed people of all ages. CD is not only a gastrointestinal disease, because it may involve several organs and cause an extensive variety of non-gastrointestinal symptoms, and most importantly, it may be apparently asymptomatic.[73][74] Many asymptomatic people actually are not, but have become accustomed to living with a chronic bad health status as if it were normal, and they are able to recognize that they actually had symptoms related to celiac disease after starting the gluten-free diet and improvement is evident, in contrast to the situation prior to the diet.[75][76][77] Added difficulties for diagnosis are the fact that serological markers (anti-tissue transglutaminase [TG2]) are not always present[78] and many people may have minor mucosal lesions, without atrophy of the intestinal villi.[79]
 
 CD affects approximately 1–2% of the general population,[80] but most cases remain unrecognized, undiagnosed and untreated, and at risk for serious long-term health complications.[81][82][83][84] People may suffer severe disease symptoms and be subjected to extensive investigations for many years, before a proper diagnosis is achieved.[85] Untreated CD may cause malabsorption, reduced quality of life, iron deficiency, osteoporosis, an increased risk of intestinal lymphomas, and greater mortality.[86] CD is associated with some other autoimmune diseases, such as diabetes mellitus type 1, thyroiditis,[87] gluten ataxia, psoriasis, vitiligo, autoimmune hepatitis, dermatitis herpetiformis, primary sclerosing cholangitis, and more.[88]
 
@@ -90,8 +86,6 @@ Wheat allergy
 People can also experience adverse effects of wheat as result of a wheat allergy.[125] As with most allergies, a wheat allergy causes the immune system to abnormally respond to a component of wheat that it treats as a threatening foreign body. This immune response is often time-limited and does not cause lasting harm to body tissues.[126] Wheat allergy and celiac disease are different disorders.[127][128] Gastrointestinal symptoms of wheat allergy are similar to those of celiac disease and non-celiac gluten sensitivity, but there is a different interval between exposure to wheat and onset of symptoms. An allergic reaction to wheat has a fast onset (from minutes to hours) after the consumption of food containing wheat and could include anaphylaxis.[129]
 
 Gluten ataxia
-
-Gluten_ataxia_eng.ogg
 
 Gluten ataxia is an autoimmune disease triggered by the ingestion of gluten.[130] With gluten ataxia, damage takes place in the cerebellum, the balance center of the brain that controls coordination and complex movements like walking, speaking and swallowing, with loss of Purkinje cells. People with gluten ataxia usually present gait abnormality or incoordination and tremor of the upper limbs. Gaze-evoked nystagmus and other ocular signs of cerebellar dysfunction are common. Myoclonus, palatal tremor, and opsoclonus-myoclonus may also appear.[131]
 

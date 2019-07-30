@@ -1,4 +1,4 @@
-The_republic_of_Finland._An_economic_and_financial_survey_(1920)_(14761156091).jpg and telegraph lines marked.]] FINLAND has excellent COMMUNICATIONS, and is considered one of the most advanced information societies in the world.[1]
+and telegraph lines marked.]] FINLAND has excellent COMMUNICATIONS, and is considered one of the most advanced information societies in the world.[1]
 
 
 Telephones

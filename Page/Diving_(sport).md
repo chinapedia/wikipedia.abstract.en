@@ -1,4 +1,4 @@
-Diving}} Zweefduik_Swallow_dive.jpg DIVING is the sport of jumping or falling into water from a platform or springboard, usually while performing acrobatics. Diving is an internationally recognized sport that is part of the Olympic Games. In addition, unstructured and non-competitive diving is a recreational pastime.
+Diving}} DIVING is the sport of jumping or falling into water from a platform or springboard, usually while performing acrobatics. Diving is an internationally recognized sport that is part of the Olympic Games. In addition, unstructured and non-competitive diving is a recreational pastime.
 
 Diving is one of the most popular Olympic sports with spectators. Competitors possess many of the same characteristics as gymnasts and dancers, including strength, flexibility, kinaesthetic judgment and air awareness. Some professional divers were originally gymnasts or dancers as both the sports have similar characteristics to diving. Dmitri Sautin holds the record for most Olympic diving medals won, by winning eight medals in total between 1992 and 2008.[1]
 
@@ -7,7 +7,7 @@ History
 
 Plunging
 
-The_Plunge_Sinclair_1893.jpg Although diving has been a popular pastime across the world since ancient times, the first modern diving competitions were held in England in the 1880s. The exact origins of the sport are unclear, though it likely derives from the act of diving at the start of swimming races.[2][3] The 1904 book _Swimming_ by Ralph Thomas notes English reports of plunging records dating back to at least 1865.[4] The 1877 edition to _British Rural Sports_ by John Henry Walsh makes note of a "Mr. Young" plunging 56 feet in 1870, and also states that 25 years prior, a swimmer named Drake could cover 53 feet.[5]
+Although diving has been a popular pastime across the world since ancient times, the first modern diving competitions were held in England in the 1880s. The exact origins of the sport are unclear, though it likely derives from the act of diving at the start of swimming races.[2][3] The 1904 book _Swimming_ by Ralph Thomas notes English reports of plunging records dating back to at least 1865.[4] The 1877 edition to _British Rural Sports_ by John Henry Walsh makes note of a "Mr. Young" plunging 56 feet in 1870, and also states that 25 years prior, a swimmer named Drake could cover 53 feet.[5]
 
 The English Amateur Swimming Association (at the time called the Swimming Association of Great Britain) first started a "plunging championship" in 1883.[6][7] The Plunging Championship was discontinued in 1937.
 
@@ -21,7 +21,7 @@ It was at this event that the Swedish tradition of fancy diving was introduced t
 
 Olympic era
 
-Diver2.jpg at the 1908 Olympic Games from the fourth Olympiad.]] Plain diving was first introduced into the Olympics at the 1904 event. The 1908 Olympics in London added 'fancy diving' and introduced elastic boards rather than fixed platforms. Women were first allowed to participate in the diving events for the 1912 Olympics in Stockholm.[10]
+at the 1908 Olympic Games from the fourth Olympiad.]] Plain diving was first introduced into the Olympics at the 1904 event. The 1908 Olympics in London added 'fancy diving' and introduced elastic boards rather than fixed platforms. Women were first allowed to participate in the diving events for the 1912 Olympics in Stockholm.[10]
 
 In the 1928 Olympics, 'plain' and 'fancy' diving was amalgamated into one event – 'Highboard Diving'. The diving event was first held indoors in the Empire Pool for the 1934 British Empire Games and 1948 Summer Olympics in London.
 
@@ -30,13 +30,11 @@ Competitive diving
 
 Most diving competitions consist of three disciplines: 1 m and 3 m springboards, and the platform. Competitive athletes are divided by gender, and often by age group. In platform events, competitors are allowed to perform their dives on either the five, seven and a half (generally just called seven), nine, or ten meter towers. In major diving meets, including the Olympic Games and the World Championships, platform diving is from the 10 meter height.
 
-Diving_off_a_deck_into_the_Great_South_Bay_of_Long_Island.jpg of Long Island.|left]] Divers have to perform a set number of dives according to established requirements, including somersaults and twists. Divers are judged on whether and how well they completed all aspects of the dive, the conformance of their body to the requirements of the dive, and the amount of splash created by their entry to the water. A possible score out of ten is broken down into three points for the takeoff (meaning the hurdle), three for the flight (the actual dive), and three for the entry (how the diver hits the water), with one more available to give the judges flexibility.
+of Long Island.|left]] Divers have to perform a set number of dives according to established requirements, including somersaults and twists. Divers are judged on whether and how well they completed all aspects of the dive, the conformance of their body to the requirements of the dive, and the amount of splash created by their entry to the water. A possible score out of ten is broken down into three points for the takeoff (meaning the hurdle), three for the flight (the actual dive), and three for the entry (how the diver hits the water), with one more available to give the judges flexibility.
 
 The raw score is multiplied by a degree of difficulty factor, derived from the number and combination of movements attempted. The diver with the highest total score after a sequence of dives is declared the winner.
 
 Synchronized diving
-
-Salto_ornamental_-_UnB.jpg
 
 Synchronized diving was adopted as an Olympic sport in 2000. Two divers form a team and perform dives simultaneously. The dives are identical. It used to be possible to dive opposites, also known as a pinwheel, but this is no longer part of competitive synchronized diving. For example, one diver would perform a forward dive and the other an inward dive in the same position, or one would do a reverse and the other a back movement. In these events, the diving would be judged both on the quality of execution and the synchronicity – in timing of take-off and entry, height and forward travel.
 
@@ -77,7 +75,7 @@ The judges may also disqualify the diver for certain violations during the dive,
 
 Competitive strategy
 
-Greglouganis.jpg]] To win dive meets, divers create a dive list in advance of the meet. To win the meet the diver must accumulate more points than other divers. Often, simple dives with low DDs will look good to spectators but will not win meets. The competitive diver will attempt the highest DD dives possible with which they can achieve consistent, high scores. If divers are scoring 8 or 9 on most dives, it may be a sign of their extreme skill, or it may be a sign that their dive list is not competitive, and they may lose the meet to a diver with higher DDs and lower scores.
+]] To win dive meets, divers create a dive list in advance of the meet. To win the meet the diver must accumulate more points than other divers. Often, simple dives with low DDs will look good to spectators but will not win meets. The competitive diver will attempt the highest DD dives possible with which they can achieve consistent, high scores. If divers are scoring 8 or 9 on most dives, it may be a sign of their extreme skill, or it may be a sign that their dive list is not competitive, and they may lose the meet to a diver with higher DDs and lower scores.
 
 In competition, divers must submit their lists beforehand, and once past a deadline (usually when the event is announced or shortly before it begins) they cannot change their dives. If they fail to perform the dive announced, even if they physically cannot execute the dive announced or if they perform a more difficult dive, they will receive a score of zero. Under exceptional circumstances, a redive may be granted, but these are exceedingly rare (usually for very young divers just learning how to compete, or if some event outside the diver's control has caused them to be unable to perform-such as a loud noise).
 
@@ -107,7 +105,7 @@ In the United States scholastic diving is almost always part of the school's swi
 
 Safety
 
-Nodiving.jpg, Washington]] Despite the apparent risk, the statistical incidence of injury in supervised training and competition is extremely low.[12]
+, Washington]] Despite the apparent risk, the statistical incidence of injury in supervised training and competition is extremely low.[12]
 
 The majority of accidents that are classified as 'diving-related' are incidents caused by individuals jumping from structures such as bridges or piers into water of inadequate depth. Many accidents also occur when divers do not account for rocks and logs in the water. Because of this many beaches and pools prohibit diving in shallow waters or when a lifeguard is not on duty.
 
@@ -135,7 +133,7 @@ Points on pool depths in connection with safety:
 
 Dive groups
 
-Reverse_5391.JPG There are six "groups" into which dives are classified: _Forward, Back, Inward, Reverse, Twist,_ and _Armstand_. The latter applies only to Platform competitions, whereas the other five apply to both Springboard and Platform.
+There are six "groups" into which dives are classified: _Forward, Back, Inward, Reverse, Twist,_ and _Armstand_. The latter applies only to Platform competitions, whereas the other five apply to both Springboard and Platform.
 
 -   in the Forward Group (Group 1), the diver takes off facing forward and rotates forward
 -   in the Back Group (2), the diver takes off with their back to the water and rotates backward
@@ -204,7 +202,7 @@ Until the mid-1990s the tariff was decided by the FINA diving committee, and div
 
 Mechanics of diving
 
-The_Tomb_of_the_Diver_-_Paestum_-_Italy.JPG, Paestum, Italy, a Greek fresco dated 470 BC]] At the moment of take-off, two critical aspects of the dive are determined, and cannot subsequently be altered during the execution. One is the trajectory of the dive, and the other is the magnitude of the angular momentum.
+, Paestum, Italy, a Greek fresco dated 470 BC]] At the moment of take-off, two critical aspects of the dive are determined, and cannot subsequently be altered during the execution. One is the trajectory of the dive, and the other is the magnitude of the angular momentum.
 
 The speed of rotation – and therefore the total amount of rotation – may be varied from moment to moment by changing the shape of the body, in accordance with the law of conservation of angular momentum.
 
@@ -236,7 +234,7 @@ The opening of the body for the entry does not stop the rotation, but merely slo
 
 Twisting
 
-N657815313_2283069_8370.jpg Dives with multiple twists and somersaults are some of the most spectacular movements, as well as the most challenging to perform.
+Dives with multiple twists and somersaults are some of the most spectacular movements, as well as the most challenging to perform.
 
 The rules state that twisting 'must not be generated manifestly on take-off'. Consequently, divers must use some of the somersaulting angular momentum to generate twisting movements. The physics of twisting can be explained by looking at the components of the angular momentum vector.
 
@@ -259,7 +257,7 @@ By country
 
 Canada
 
-Diving_Plongeon_Canada.svgIn Canada, elite competitive diving is regulated by DPC (Diving Plongeon Canada), although the individual provinces also have organizational bodies. The main competitive season runs from February to July, although some competitions may be held in January or December, and many divers (particularly international level athletes) will train and compete year round.
+In Canada, elite competitive diving is regulated by DPC (Diving Plongeon Canada), although the individual provinces also have organizational bodies. The main competitive season runs from February to July, although some competitions may be held in January or December, and many divers (particularly international level athletes) will train and compete year round.
 
 Most provincial level competitions consist of events for 6 age groups (Groups A, B, C, D, E, and Open) for both genders on each of the three board levels. These age groups roughly correspond to those standardized by FINA, with the addition of a youngest age group for divers 9 and younger, Group E, which does not compete nationally and does not have a tower event (although divers of this age may choose to compete in Group D). The age group Open is so called because divers of any age, including those over 18, may compete in these events, so long as their dives meet a minimum standard of difficulty.
 
@@ -310,7 +308,7 @@ AAU Diving sanctions one national event per year in the summer. AAU competes on 
 
 College diving
 
-University_of_Houston_Natatorium.jpg's CRWC Natatorium is home to the United States' largest collegiate swimming pool]] In the United States scholastic diving at the college level requires one and three meter diving. Scores from the one and three meter competition contribute to the swim team's overall meet score. College divers interested in tower diving may compete in the NCAA separate from swim team events. NCAA Divisions II and III do not usually compete platform; if a diver wishes to compete platform in college, he or she must attend a Division I school.
+'s CRWC Natatorium is home to the United States' largest collegiate swimming pool]] In the United States scholastic diving at the college level requires one and three meter diving. Scores from the one and three meter competition contribute to the swim team's overall meet score. College divers interested in tower diving may compete in the NCAA separate from swim team events. NCAA Divisions II and III do not usually compete platform; if a diver wishes to compete platform in college, he or she must attend a Division I school.
 
 Each division also has rules on the number of dives in each competition. Division II schools compete with 10 dives in competition whereas Division III schools compete with 11. Division I schools only compete with 6 dives in competition. These 6 dives consist of either 5 optionals and 1 voluntary, or 6 optionals. If the meet is a 5 optional meet, then the divers will perform 1 optional from each category (Front, Back, Inward, Reverse, and Twister) and then 1 voluntary from the category of their choice. The voluntary in this type of meet is always worth a DD (Degree of Difficulty) of 2.0 even if the real DD is worth more or less on a DD sheet. In a 6 optional meet, the divers will yet again perform one dive from each category, but this time they will perform a 6th optional from the category of their choosing, which is worth its actual DD from the DD sheet.
 
@@ -348,9 +346,9 @@ Famous divers
 
 Non-competitive diving
 
-cliffjumping.jpg, Glide, Oregon.]] Diving is also popular as a non-competitive activity. Such diving usually emphasizes the airborne experience, and the height of the dive, but does not emphasize what goes on once the diver enters the water. The ability to dive underwater can be a useful emergency skill, and is an important part of watersport and navy safety training. Entering water from a height is an enjoyable leisure activity, as is underwater swimming.
+, Glide, Oregon.]] Diving is also popular as a non-competitive activity. Such diving usually emphasizes the airborne experience, and the height of the dive, but does not emphasize what goes on once the diver enters the water. The ability to dive underwater can be a useful emergency skill, and is an important part of watersport and navy safety training. Entering water from a height is an enjoyable leisure activity, as is underwater swimming.
 
-ManDiving.jpg.]]
+.]]
 
 Such non-competitive diving can occur indoors and outdoors. Outdoor diving typically takes place from cliffs or other rock formations either into fresh or salt water. However, man-made diving platforms are sometimes constructed in popular swimming destinations. Outdoor diving requires knowledge of the water depth and currents as conditions can be dangerous. On occasion, the diver will inadvertently belly flop, entering the water horizontally or nearly so. The diver typically displaces a larger than usual amount of water.
 

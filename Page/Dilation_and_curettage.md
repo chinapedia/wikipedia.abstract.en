@@ -5,7 +5,7 @@ D&C normally refers to a procedure involving a curette, also called _sharp curet
 
 Procedure
 
-Dilation_&_curettage.svg The woman is typically put under monitored anesthesia care (MAC) before the procedure begins. The first step in a D&C is to dilate the cervix. This can be done with Hegar dilators. A curette, a metal rod with a handle on one end and a sharp loop on the other, is then inserted into the uterus through the dilated cervix. The curette is used to gently scrape the lining of the uterus and remove the tissue in the uterus. This tissue is examined for completeness (in the case of abortion or miscarriage treatment) or by pathology for abnormalities (in the case of treatment for abnormal bleeding).[6]
+The woman is typically put under monitored anesthesia care (MAC) before the procedure begins. The first step in a D&C is to dilate the cervix. This can be done with Hegar dilators. A curette, a metal rod with a handle on one end and a sharp loop on the other, is then inserted into the uterus through the dilated cervix. The curette is used to gently scrape the lining of the uterus and remove the tissue in the uterus. This tissue is examined for completeness (in the case of abortion or miscarriage treatment) or by pathology for abnormalities (in the case of treatment for abnormal bleeding).[6]
 
 
 Clinical uses

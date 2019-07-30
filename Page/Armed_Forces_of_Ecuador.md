@@ -15,7 +15,7 @@ The new administration at the Defence Ministry launched a deep restructuring pro
 
 History
 
-Ecuador-peru-land-claims-01.png and Peru, settled only in 1998. (in Spanish)]]
+and Peru, settled only in 1998. (in Spanish)]]
 
 Ecuador's military history dates far back to its first attempt to secure freedom from Spain in 1811. In 1822 Ecuadorian troops, alongside other rebel forces, scored a decisive victory over the Spanish royalist army at the Battle of Pichincha. Although assisted by Peruvian troops, it would fight these only a few years later in 1828, as a member of the Confederation of Gran Colombia. Confederation forces, fewer than half of which were Ecuadorians, defeated a much larger Peruvian force near Cuenca, at the Battle of Tarqui. Eventually, Civil War would plunge the country and the army into disorder. In 1941 the Ecuadorian Military found itself weak and disorganized; the by now long-lasting territorial dispute with Peru escalated into a major conflict, the Ecuadorian–Peruvian War of 1941. A much larger and better equipped Peruvian force quickly overwhelmed the Ecuadorian forces, driving them back and invading the Ecuadorian territory. Ecuador had no choice but to accept Peru's territorial claims and signed Peace treaty in 1942. However, the treaty of 1942 failed to settle the border dispute and occasional clashes occurred in a then still non-demarcated border area between the nations. These clashes flared into another outbreak of serious fighting in January 1981 called the Paquisha War; similar incidents occurred in 1983 and again in 1984. The last military conflict with Peru occurred in 1995, during the Cenepa War, in which both sides claimed to be fighting inside their own territory until the signing of a ceasefire and the eventual separation of forces. The longest-running source of armed international conflict in the Western Hemisphere had ended.[10]
 
@@ -65,8 +65,6 @@ Branches
 
 Army
 
-Coat_of_Arms_of_Ecuador_Army.svg
-
 The ECUADORIAN ARMY (_Ejército Ecuatoriano_) is the land component of the Armed Forces. Its 24,135[11] soldiers are deployed in relation to its military doctrine. The contemporary Ecuadorian Army has a large component of jungle and special forces infantry units implemented within its structure. It operates around 130 Tanks, 200 IFV's and 60 aircraft, their standard rifle is the Heckler & Koch HK33. Recently acquired material include:
 
 -   30 4x4 vehicles[12][13][14]
@@ -80,8 +78,6 @@ The ECUADORIAN ARMY (_Ejército Ecuatoriano_) is the land component of the Armed
 -   107 Humvee [21]
 
 Air Force
-
-Seal_of_the_Ecuadorian_Air_Force.svg
 
 The present day ECUADORIAN AIR FORCE (_Fuerza Aérea Ecuatoriana_) saw combat-action several times in 1981 and 1995 when it gained valuable experiences against the Peruvian Air Force. Today the FAE has a personnel of 6,055[22] and focuses mainly on border-control but faces also the war on drugs, guerrilla insurgency as well as humanitarian missions. Since 2009 the FAE is going through some major changes and modernisation plans are still ongoing whilst new projects are considered to bolster the country's defence capacities. Recent and ongoing orders:
 
@@ -98,8 +94,6 @@ The present day ECUADORIAN AIR FORCE (_Fuerza Aérea Ecuatoriana_) saw combat-ac
 -   3 EADS CASA C-295 Tactical military transport aircraft.[30]
 
 Navy
-
-Ecuadorian_Navy_Seal.svg
 
 The present day ECUADORIAN NAVY or (_Armada del Ecuador_) is a compact, efficient and well-balanced force. However, limited funds hinder any major acquisitions and the chances of maintaining a strong force within the Pacific Ocean. Since end 2009, the Navy's structure became simplified. The Ecuadorian Naval-Zone became one and measures, of the Pacific Coast and 6,720 km² of the Pacific Ocean, (including the Galápagos Islands). Most sea-going assets are based at Guayaquil. The Navy focuses mainly on the border-control and illegal immigration. The Navy operates around 20 major vessels (including two submarines) and 25 aircraft. It has a personnel of 7,258.[31] To increase its operational capabilities it acquired recently:
 

@@ -4,6 +4,4 @@ The lake was built in the 1930s to store water for an electricity generator (cen
 
 It is now a tourist destination.
 
-Gavoi_-_Lago_di_Gusana_(02).JPG
-
 Category:Lakes of Sardinia

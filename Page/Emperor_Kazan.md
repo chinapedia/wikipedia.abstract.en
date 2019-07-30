@@ -12,7 +12,7 @@ Morasada was the eldest son of Emperor Reizei. The prince's mother was Fujiwara 
 
 Events of Kazan's life
 
-Tennō_Kazan.jpg Prince Morasada was seventeen years of age at the time of the succession.[6]
+Prince Morasada was seventeen years of age at the time of the succession.[6]
 
 -   OCTOBER 6, 984 (_Eikan 1, 27th day of the 8th month_) : In the 15th year of Emperor En'yu's reign (円融天皇十五年), he abdicated; and the succession (_senso_) was received by a nephew. Shortly thereafter, Emperor Kazan is said to have acceded to the throne (_sokui_).[7]
 
@@ -33,7 +33,7 @@ It is said that the first site of the pilgrimage was the Sugimoto-dera in Kamaku
 
 It is suggested by many scholars that the mental health of Kazan, particularly in later life, was not stable; and therefore, living as a monk may have caused deteriorating behavior.
 
-Go-shichi_no_kiri_crest_2.svg. Kazan is amongst six other emperors entombed near what had been the residence of Hosokawa Katsumoto before the Ōnin War.]]_Daijō-tennō_ Kazan died at the age of 41 on the 8th day of the 2nd month of the fifth year of _Kankō_ (1008).[12]
+. Kazan is amongst six other emperors entombed near what had been the residence of Hosokawa Katsumoto before the Ōnin War.]]_Daijō-tennō_ Kazan died at the age of 41 on the 8th day of the 2nd month of the fifth year of _Kankō_ (1008).[12]
 
 The actual site of Kazan's grave is known.[13] This emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Kyoto.
 
@@ -97,7 +97,7 @@ Ancestry
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

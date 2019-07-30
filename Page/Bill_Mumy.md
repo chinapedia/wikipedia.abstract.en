@@ -16,7 +16,7 @@ Television and film career
 
 Among Mumy's earliest television roles was six-year-old Willy in the "Donald's Friend" (1960) episode of the NBC-TV family drama series, _National Velvet_, starring Lori Martin. He starred in three episodes of CBS-TV's original _Twilight Zone_: "It's a Good Life" (November 1961), as a child who terrorizes his town with psychic powers (a role he later reprised along with his daughter Liliana in the _It's Still a Good Life_ episode of the second revival series); "In Praise of Pip" (September 1963), as a vision of Jack Klugman's long-neglected dying son; and "Long Distance Call" (March 1961) as Billy Bayles, who talks to his dead grandmother through a toy telephone.
 
-Alfred_Hitchcock_Presents_Billy_Mumy_1961.jpg In 1961, Billy was cast on CBS-TV's _Alfred Hitchcock Presents_ series in "The Door Without a Key", featuring John Larch, who played his father in "It's a Good Life". The same year, Mumy starred as little Jackie in the episode "Bang! You're Dead", featuring Marta Kristen, who would later play his sister Judy on _Lost in Space_. Mumy was cast as Mark Murdock in the "Keep an Eye on Santa Claus" (1962) episode of the ABC-TV drama series _Going My Way_, starring Gene Kelly. His fellow guest stars were Cloris Leachman (who played his mother in "It's a Good Life"), Steve Brodie, and Frank McHugh.[5]
+In 1961, Billy was cast on CBS-TV's _Alfred Hitchcock Presents_ series in "The Door Without a Key", featuring John Larch, who played his father in "It's a Good Life". The same year, Mumy starred as little Jackie in the episode "Bang! You're Dead", featuring Marta Kristen, who would later play his sister Judy on _Lost in Space_. Mumy was cast as Mark Murdock in the "Keep an Eye on Santa Claus" (1962) episode of the ABC-TV drama series _Going My Way_, starring Gene Kelly. His fellow guest stars were Cloris Leachman (who played his mother in "It's a Good Life"), Steve Brodie, and Frank McHugh.[5]
 
 At age eight, Mumy appeared in Jack Palance's ABC-TV circus drama _The Greatest Show on Earth_ (1963); he was cast as Miles, a parentless boy, in the _Perry Mason_ episode "The Case of the Shifty Shoebox" (1963); and he portrayed Freddy in the "End of an Image" (1963) episode of NBC-TV's modern Western series _Empire_, starring Richard Egan.
 
@@ -26,7 +26,7 @@ Mumy was reportedly the first choice to portray Eddie Munster in the 1964 CBS si
 
 Mumy guest starred in an episode of NBC-TV's _I Dream of Jeannie_, "Whatever Became of Baby Custer?" (1965). That same year, he also appeared in an episode of _Bewitched_ entitled "Junior Executive" (1965), in which he played a young Darrin Stevens.
 
-Brigitte_Bardot_-_1965.jpg in _Dear Brigitte_, 1965.]] Mumy starred in _Dear Brigitte_ (1965), a film adaptation of the novel _Erasmus with Freckles_, as Erasmus Leaf, a child mathematical genius who develops a crush on Brigitte Bardot (played by herself in the film). His parents, played by James Stewart and Glynis Johns, attempt to manage his obsession.[6]
+in _Dear Brigitte_, 1965.]] Mumy starred in _Dear Brigitte_ (1965), a film adaptation of the novel _Erasmus with Freckles_, as Erasmus Leaf, a child mathematical genius who develops a crush on Brigitte Bardot (played by herself in the film). His parents, played by James Stewart and Glynis Johns, attempt to manage his obsession.[6]
 
 _Lost in Space_ and beyond
 
@@ -77,8 +77,6 @@ Mumy, his wife, Eileen, and their two acting children, Seth (b. 1989) and Lilian
 
 
 Television and filmography
-
-Dear_Brigitte_Billy_Mumy_1965.jpg
 
 +---------+--------------------------------------------+--------------------------------+--------------------------------------------+
 | Year    | Film/Television                            | Role                           | Notes                                      |

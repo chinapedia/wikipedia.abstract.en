@@ -1,4 +1,4 @@
-Smalltalk-76.png)]]
+)]]
 
 The GRAPHICAL USER INTERFACE (GUI [1][2]) is a form of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation. GUIs were introduced in reaction to the perceived steep learning curve of command-line interfaces (CLIs),[3][4][5] which require commands to be typed on a computer keyboard.
 
@@ -7,7 +7,7 @@ The actions in a GUI are usually performed through direct manipulation of the gr
 
 User interface and interaction design
 
-Linux_kernel_INPUT_OUPUT_evdev_gem_USB_framebuffer.svgs popular on small mobile devices are an overlay of the visual output to the visual input.]]
+s popular on small mobile devices are an overlay of the visual output to the visual input.]]
 
 Designing the visual composition and temporal behavior of a GUI is an important part of software application programming in the area of human–computer interaction. Its goal is to enhance the efficiency and ease of use for the underlying logical design of a stored program, a design discipline named _usability_. Methods of user-centered design are used to ensure that the visual language introduced in the design is well-tailored to the tasks.
 
@@ -25,7 +25,7 @@ File:GNOME 3.32.1.png|GNOME Shell File:KDE Plasma 5.16.png|KDE Plasma 5 File:Ubu
 
 Components
 
-Schema_of_the_layers_of_the_graphical_user_interface.svg]] A GUI uses a combination of technologies and devices to provide a platform that users can interact with, for the tasks of gathering and producing information.
+]] A GUI uses a combination of technologies and devices to provide a platform that users can interact with, for the tasks of gathering and producing information.
 
 A series of elements conforming a visual language have evolved to represent information stored in computers. This makes it easier for people with few computer skills to work with and use computer software. The most common combination of such elements in GUIs is the _windows, icons, menus, pointer_ (WIMP) paradigm, especially in personal computers.
 
@@ -52,7 +52,7 @@ History
 
 Early efforts
 
-Ivan Sutherland developed Sketchpad in 1963, widely held as the first graphical computer-aided design program. It used a light pen to create and manipulate objects in engineering drawings in realtime with coordinated graphics. In the late 1960s, researchers at the Stanford Research Institute, led by Douglas Engelbart, developed the On-Line System (NLS), which used text-based hyperlinks manipulated with a then new device: the mouse. In the 1970s, Engelbart's ideas were further refined and extended to graphics by researchers at Xerox PARC and specifically Alan Kay, who went beyond text-based hyperlinks and used a GUI as the main interface for the Smalltalk programming language, which ran on the Xerox Alto computer, released in 1973. Most modern general-purpose GUIs are derived from this system.Xerox_Star_8010_workstations.jpg workstation introduced the first commercial GUI.]]
+Ivan Sutherland developed Sketchpad in 1963, widely held as the first graphical computer-aided design program. It used a light pen to create and manipulate objects in engineering drawings in realtime with coordinated graphics. In the late 1960s, researchers at the Stanford Research Institute, led by Douglas Engelbart, developed the On-Line System (NLS), which used text-based hyperlinks manipulated with a then new device: the mouse. In the 1970s, Engelbart's ideas were further refined and extended to graphics by researchers at Xerox PARC and specifically Alan Kay, who went beyond text-based hyperlinks and used a GUI as the main interface for the Smalltalk programming language, which ran on the Xerox Alto computer, released in 1973. Most modern general-purpose GUIs are derived from this system. workstation introduced the first commercial GUI.]]
 
 The Xerox PARC user interface consisted of graphical elements such as windows, menus, radio buttons, and check boxes. The concept of icons was later introduced by David Canfield Smith, who had written a thesis on the subject under the guidance of Kay.[16][17][18] The PARC user interface employs a pointing device along with a keyboard. These aspects can be emphasized by using the alternative term and acronym for _windows, icons, menus, pointing device_ (WIMP). This effort culminated in the 1973 Xerox Alto, the first computer with a GUI, though the system never reached commercial production.
 
@@ -60,7 +60,7 @@ The first commercially available computer with a GUI was the 1979 PERQ workstati
 
 Apple, Digital Research, IBM and Microsoft used many of Xerox's ideas to develop products, and IBM's Common User Access specifications formed the basis of the user interfaces used in Microsoft Windows, IBM OS/2 Presentation Manager, and the Unix Motif toolkit and window manager. These ideas evolved to create the interface found in current versions of Microsoft Windows, and in various desktop environments for Unix-like operating systems, such as macOS and Linux. Thus most current GUIs have largely common idioms.
 
-Macintosh_128k_transparency.png, the first Macintosh (1984)]]
+, the first Macintosh (1984)]]
 
 Popularization
 
@@ -79,7 +79,7 @@ Comparison to other interfaces
 
 Command-line interfaces
 
-Bash_screenshot.png Since the commands available in command line interfaces can be many, complex operations can be performed using a short sequence of words and symbols. This allows greater efficiency and productivity once many commands are learned,[35][36][37] but reaching this level takes some time because the command words may not be easily discoverable or mnemonic. Also, using the command line can become slow and error-prone when users must enter long commands comprising many parameters or several different filenames at once. However, _windows, icons, menus, pointer_ (WIMP) interfaces present users with many widgets that represent and can trigger some of the system's available commands.
+Since the commands available in command line interfaces can be many, complex operations can be performed using a short sequence of words and symbols. This allows greater efficiency and productivity once many commands are learned,[35][36][37] but reaching this level takes some time because the command words may not be easily discoverable or mnemonic. Also, using the command line can become slow and error-prone when users must enter long commands comprising many parameters or several different filenames at once. However, _windows, icons, menus, pointer_ (WIMP) interfaces present users with many widgets that represent and can trigger some of the system's available commands.
 
 GUIs can be made quite hard when dialogs are buried deep in a system, or moved about to different places during redesigns. Also, icons and dialog boxes are usually harder for users to script.
 

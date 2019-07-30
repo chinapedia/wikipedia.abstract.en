@@ -33,7 +33,7 @@ St. Clair was a member of the Pennsylvania Council of Censors in 1783, and was e
 
 Northwest Territory
 
-St_Clair_Narrative_1812.jpg]] Under the Northwest Ordinance of 1787, which created the Northwest Territory, General St. Clair was appointed governor of what is now Ohio, Indiana, Illinois, Michigan, along with parts of Wisconsin and Minnesota. He named Cincinnati, Ohio, after the Society of the Cincinnati, and it was there that he established his home.
+]] Under the Northwest Ordinance of 1787, which created the Northwest Territory, General St. Clair was appointed governor of what is now Ohio, Indiana, Illinois, Michigan, along with parts of Wisconsin and Minnesota. He named Cincinnati, Ohio, after the Society of the Cincinnati, and it was there that he established his home.
 
 As Governor, he formulated Maxwell's Code (named after its printer, William Maxwell), the first written laws of the territory. He also sought to end Native American claims to Ohio land and clear the way for white settlement. In 1789, he succeeded in getting certain Indians to sign the Treaty of Fort Harmar, but many native leaders had not been invited to participate in the negotiations, or had refused to do so. Rather than settling the Indians' claims, the treaty provoked them to further resistance in what is also sometimes known as the "Northwest Indian War" (or "Little Turtle's War"). Mutual hostilities led to a campaign by General Josiah Harmar, whose 1,500 militiamen were defeated by the Indians in October 1790.
 
@@ -43,7 +43,7 @@ One month later, near modern-day Fort Recovery, his force advanced to the locati
 
 Although an investigation exonerated him, St. Clair resigned his army commission in March 1792 at the request of President Washington, but he continued to serve as Governor of the Northwest Territory.[7][8][9]
 
-ST.CLAIR,_Arthur_(signed_check).jpg A Federalist, St. Clair hoped to see two states made of the Ohio Territory in order to increase Federalist power in Congress. However, he was opposed by Ohio Democratic-Republicans for what were perceived as his partisanship, high-handedness, and arrogance in office. In 1802, St. Clair remarked the U.S. Congress had no power to interfere in the affairs of those in the Ohio Territory. He also stated the people of the territory "are no more bound by an act of Congress than we would be bound by an edict of the first consul of France." This led President Thomas Jefferson to remove him from office as territorial governor.[10] He thus played no part in the organizing of the state of Ohio in 1803.
+A Federalist, St. Clair hoped to see two states made of the Ohio Territory in order to increase Federalist power in Congress. However, he was opposed by Ohio Democratic-Republicans for what were perceived as his partisanship, high-handedness, and arrogance in office. In 1802, St. Clair remarked the U.S. Congress had no power to interfere in the affairs of those in the Ohio Territory. He also stated the people of the territory "are no more bound by an act of Congress than we would be bound by an edict of the first consul of France." This led President Thomas Jefferson to remove him from office as territorial governor.[10] He thus played no part in the organizing of the state of Ohio in 1803.
 
 The first Ohio Constitution provided for a weak governor and a strong legislature, in part as a reaction to St. Clair's method of governance.
 

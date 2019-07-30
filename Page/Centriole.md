@@ -2,7 +2,7 @@ In cell biology a CENTRIOLE is a cylindrical organelle composed mainly of a prot
 
 Centrioles are present in the cells of most eukaryotes, for example those of animals. However, they are absent from conifers (pinophyta), flowering plants (angiosperms) and most fungi, and are only present in the male gametes of charophytes, bryophytes, seedless vascular plants, cycads, and ginkgo.[3][4]
 
-Centrioles are typically made up of nine sets of short microtubule triplets, arranged in a cylinder. Deviations from this structure include crabs and _Drosophila melanogaster_ embryos, with nine doublets, and _Caenorhabditis elegans_ sperm cells and early embryos, with nine singlets.[5][6] Cross-section of a centriole showing its microtubule triplets|200px|right
+Centrioles are typically made up of nine sets of short microtubule triplets, arranged in a cylinder. Deviations from this structure include crabs and _Drosophila melanogaster_ embryos, with nine doublets, and _Caenorhabditis elegans_ sperm cells and early embryos, with nine singlets.[5][6]
 
 The main function of centrioles is to produce cilia during interphase and the aster and the spindle during cell division.
 
@@ -14,14 +14,12 @@ Edouard van Beneden made the first observation of centrosomes in 1883.[7] In 189
 
 Role in cell division
 
-Centriole-en.svg]] Centrioles are involved in the organization of the mitotic spindle and in the completion of cytokinesis.[12] Centrioles were previously thought to be required for the formation of a mitotic spindle in animal cells. However, more recent experiments have demonstrated that cells whose centrioles have been removed via laser ablation can still progress through the G₁ stage of interphase before centrioles can be synthesized later in a de novo fashion.[13] Additionally, mutant flies lacking centrioles develop normally, although the adult flies' cells lack flagella and cilia and as a result, they die shortly after birth.[14] The centrioles can self replicate during cell division.
+]] Centrioles are involved in the organization of the mitotic spindle and in the completion of cytokinesis.[12] Centrioles were previously thought to be required for the formation of a mitotic spindle in animal cells. However, more recent experiments have demonstrated that cells whose centrioles have been removed via laser ablation can still progress through the G₁ stage of interphase before centrioles can be synthesized later in a de novo fashion.[13] Additionally, mutant flies lacking centrioles develop normally, although the adult flies' cells lack flagella and cilia and as a result, they die shortly after birth.[14] The centrioles can self replicate during cell division.
 
 
 Cellular organization
 
 Centrioles are a very important part of centrosomes, which are involved in organizing microtubules in the cytoplasm.[15][16] The position of the centriole determines the position of the nucleus and plays a crucial role in the spatial arrangement of the cell.
-
-Blausen_0214_Centrioles.png
 
 
 Fertility
@@ -36,7 +34,7 @@ In flagellates and ciliates, the position of the flagellum or cilium is determin
 
 Animal development
 
-Spindle_centriole_-_embryonic_brain_mouse_-_TEM.jpg Proper orientation of cilia via centriole positioning toward the posterior of embryonic node cells is critical for establishing left–right asymmetry during mammalian development.[19]
+Proper orientation of cilia via centriole positioning toward the posterior of embryonic node cells is critical for establishing left–right asymmetry during mammalian development.[19]
 
 
 Centriole duplication

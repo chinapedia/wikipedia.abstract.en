@@ -15,8 +15,6 @@ Either a period of less than nine months contained three "years" (some seasons),
 
 Ōjin was traditionally identified as the father of Emperor Nintoku, who acceded after Ōjin's death.[9] Ōjin has been deified as Hachiman Daimyōjin, regarded as the guardian of warriors. The Hata clan considered him their guardian Kami.
 
-Eganomofushinookanomisasagi.jpg
-
 The actual site of Ōjin's grave is not known.[10] The Emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Osaka.
 
 The Imperial Household Agency designates this location as Ōjin's mausoleum. It is formally named _Eega no Mofushi no oka no misasagi_.[11]
@@ -88,7 +86,7 @@ See also
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

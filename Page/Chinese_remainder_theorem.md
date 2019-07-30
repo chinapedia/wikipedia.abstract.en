@@ -1,5 +1,3 @@
-Sun_Tzu_Chinese_remainder_theorem.svg
-
 The CHINESE REMAINDER THEOREM is a theorem of number theory, which states that if one knows the remainders of the Euclidean division of an integer _n_ by several integers, then one can determine uniquely the remainder of the division of _n_ by the product of these integers, under the condition that the divisors are pairwise coprime.
 
 The earliest known statement of the theorem is by the Chinese mathematician Sunzi in _Sunzi Suanjing_ in the 3rd century AD.
@@ -15,7 +13,7 @@ The earliest known statement of the theorem, as a problem with specific numbers,
 
 Sunzi's work contains neither a proof nor a full algorithm.[2] What amounts to an algorithm for solving this problem was described by Aryabhata (6th century).[3] Special cases of the Chinese remainder theorem were also known to Brahmagupta (7th century), and appear in Fibonacci's Liber Abaci (1202).[4] The result was later generalized with a complete solution called _Dayanshu_ () in Qin Jiushao's 1247 _Mathematical Treatise in Nine Sections_ (, _Shushu Jiuzhang_).[5]
 
-Disqvisitiones-800.jpg's 1801 book _Disquisitiones Arithmeticae_.[6]]]
+'s 1801 book _Disquisitiones Arithmeticae_.[6]]]
 
 The notion of congruences was first introduced and used by Gauss in his _Disquisitiones Arithmeticae_ of 1801.[7] Gauss illustrates the Chinese remainder theorem on a problem involving calendars, namely, "to find the years that have a certain period number with respect to the solar and lunar cycle and the Roman indiction."[8] Gauss introduces a procedure for solving the problem that had already been used by Euler but was in fact an ancient method that had appeared several times.[9]
 

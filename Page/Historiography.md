@@ -1,4 +1,4 @@
-Jacob_de_Wit_-_Allegorie_op_het_schrijven_van_de_geschiedenis_1754.jpg (1754). An almost naked Truth keeps an eye on the writer of history. Pallas Athena (Wisdom) on left gives advice.]]
+(1754). An almost naked Truth keeps an eye on the writer of history. Pallas Athena (Wisdom) on left gives advice.]]
 
 HISTORIOGRAPHY is the study of the methods of historians in developing history as an academic discipline, and by extension is any body of historical work on a particular subject. The historiography of a specific topic covers how historians have studied that topic using particular sources, techniques, and theoretical approaches. Scholars discuss historiography by topic—such as the historiography of the United Kingdom, that of WWII, the British Empire, early Islam, and China—and different approaches and genres, such as political history and social history. Beginning in the nineteenth century, with the development of academic history, there developed a body of historiographic literature. The extent to which historians are influenced by their own groups and loyalties—such as to their nation state—remains a debated question.[1]
 
@@ -22,7 +22,7 @@ East Asia
 
 China
 
-Shiji.jpg''.]]
+''.]]
 
 One of the Confucian Five Classics, the _Shang Shu_ 尚書, has conventionally been given the English title _Classic of History_. This terminology is misleading as the book is a collection of speeches and anecdotes about ancient worthies, which while arranged in rough chronological order lacks any attempt to integrate them into a coherent narrative or indicate exactly how much time has passed between two incidents. The purpose of the book is less about recording history and more about imparting moral lessons.
 
@@ -44,11 +44,9 @@ Europe
 
 Greece
 
-Thucydides_Manuscript.jpg's _History of the Peloponnesian War_.]]
+'s _History of the Peloponnesian War_.]]
 
 The earliest known systematic historical thought emerged in ancient Greece, a development which would be an important influence on the writing of history elsewhere around the Mediterranean region. Greek historians greatly contributed to the development of historical methodology. The earliest known critical historical works were _The Histories_, composed by Herodotus of Halicarnassus (484–425 BCE) who became known as the "father of history".[11] Herodotus attempted to distinguish between more and less reliable accounts, and personally conducted research by travelling extensively, giving written accounts of various Mediterranean cultures. Although Herodotus' overall emphasis lay on the actions and characters of men, he also attributed an important role to divinity in the determination of historical events.
-
-Thucydides-bust-cutout_ROM.jpg
 
 The generation following Herodotus witnessed a spate of local histories of the individual city-states (_poleis_), written by the first of the local historians who employed the written archives of city and sanctuary. Dionysius of Halicarnassus characterized these historians as the forerunners of Thucydides,[12] and these local histories continued to be written into Late Antiquity, as long as the city-states survived. Two early figures stand out: Hippias of Elis, who produced the lists of winners in the Olympic Games that provided the basic chronological framework as long as the pagan classical tradition lasted, and Hellanicus of Lesbos, who compiled more than two dozen histories from civic records, all of them now lost.
 
@@ -60,7 +58,7 @@ The Chaldean priest Berossus () composed a Greek-language _History of Babylonia_
 
 Rome
 
-Marco_Porcio_Caton_Major.jpg of historian Cato the Elder]]
+of historian Cato the Elder]]
 
 The Romans adopted the Greek tradition, writing at first in Greek, but eventually chronicling their history in a freshly non-Greek language. While early Roman works were still written in Greek, the _Origines_, composed by the Roman statesman Cato the Elder (), was written in Latin, in a conscious effort to counteract Greek cultural influence. It marked the beginning of Latin historical writings. Hailed for its lucid style, Julius Caesar's () _de Bello Gallico_ exemplifies autobiographical war coverage. The politician and orator Cicero () introduced rhetorical elements in his political writings.
 
@@ -73,7 +71,7 @@ Middle Ages to Renaissance
 
 Christendom
 
-Beda_Petersburgiensis_f3v.jpg's _Ecclesiastical History of the English People_]]
+'s _Ecclesiastical History of the English People_]]
 
 Christian historiography began early, perhaps as early as Luke-Acts, which is the primary source for the Apostolic Age, though its historical reliability is disputed. In the first Christian centuries, the New Testament canon was developed. The growth of Christianity and its enhanced status in the Roman Empire after Constantine I (see State church of the Roman Empire) led to the development of a distinct Christian historiography, influenced by both Christian theology and the nature of the Christian Bible, encompassing new areas of study and views of history. The central role of the Bible in Christianity is reflected in the preference of Christian historians for written sources, compared to the classical historians' preference for oral sources and is also reflected in the inclusion of politically unimportant people. Christian historians also focused on development of religion and society. This can be seen in the extensive inclusion of written sources in the _Ecclesiastical History_ written by Eusebius of Caesarea around 324 and in the subjects it covers.[14] Christian theology considered time as linear, progressing according to divine plan. As God's plan encompassed everyone, Christian histories in this period had a universal approach. For example, Christian writers often included summaries of important historical events prior to the period covered by the work.[15]
 
@@ -81,7 +79,7 @@ Writing history was popular among Christian monks and clergy in the Middle Ages.
 
 During the Renaissance, history was written about states or nations. The study of history changed during the Enlightenment and Romanticism. Voltaire described the history of certain ages that he considered important, rather than describing events in chronological order. History became an independent discipline. It was not called _philosophia historiae_ anymore, but merely history (_historia_).
 
-Ibn_khaldun_writting-ms.jpg, pioneer of historiography, cultural history, and the philosophy of history.]]
+, pioneer of historiography, cultural history, and the philosophy of history.]]
 
 Islamic world
 
@@ -106,7 +104,7 @@ The great Song Neo-Confucian Zhu Xi found the Mirror to be overly long for the a
 
 Enlightenment
 
-Buste_de_Voltaire.jpg's works of history are an excellent example of Enlightenment era advances in accuracy.]]
+'s works of history are an excellent example of Enlightenment era advances in accuracy.]]
 
 During the Age of Enlightenment, the modern development of historiography through the application of scrupulous methods began. Among the many Italians who contributed to this were Leonardo Bruni (c. 1370–1444), Francesco Guicciardini (1483–1540), and Cesare Baronio (1538–1607).
 
@@ -128,7 +126,7 @@ He also argued that the quest for liberty was the highest standard for judging t
 
 Edward Gibbon
 
-Edward_Gibbon_by_Henry_Walton_cleaned.jpg's _Decline of the Roman Empire_ (1776) was a masterpiece of late 18th-century history writing.]]
+'s _Decline of the Roman Empire_ (1776) was a masterpiece of late 18th-century history writing.]]
 
 The apex of Enlightenment history was reached with Edward Gibbon's monumental six-volume work, _The History of the Decline and Fall of the Roman Empire_, published on 17 February 1776. Because of its relative objectivity and heavy use of primary sources, its methodology became a model for later historians. This has led to Gibbon being called the first "modern historian".[33] The book sold impressively, earning its author a total of about £9000. Biographer Leslie Stephen wrote that thereafter, "His fame was as rapid as it has been lasting."
 
@@ -139,7 +137,7 @@ Gibbon's work has been praised for its style, its piquant epigrams and its effec
 
 19th century
 
-Carlyle_manuscript_burning_Japan_cph.3g10399.tif's horror at the burning of his manuscript _The French Revolution: A History_.]]
+'s horror at the burning of his manuscript _The French Revolution: A History_.]]
 
 The tumultuous events surrounding the French Revolution inspired much of the historiography and analysis of the early 19th century. Interest in the 1688 Glorious Revolution was also rekindled by the Great Reform Act of 1832 in England.
 
@@ -148,8 +146,6 @@ Thomas Carlyle
 Thomas Carlyle published his three-volume _The French Revolution: A History_, in 1837. The first volume was accidentally burned by John Stuart Mill's maid. Carlyle rewrote it from scratch.[38] Carlyle's style of historical writing stressed the immediacy of action, often using the present tense. He emphasised the role of forces of the spirit in history and thought that chaotic events demanded what he called 'heroes' to take control over the competing forces erupting within society. He considered the dynamic forces of history as being the hopes and aspirations of people that took the form of ideas, and were often ossified into ideologies. Carlyle's _The French Revolution_ was written in a highly unorthodox style, far removed from the neutral and detached tone of the tradition of Gibbon. Carlyle presented the history as dramatic events unfolding in the present as though he and the reader were participants on the streets of Paris at the famous events. Carlyle's invented style was epic poetry combined with philosophical treatise. It is rarely read or cited in the last century.[39][40]
 
 French historians: Michelet and Taine
-
-Jules_Michelet_portrait_older.jpg Hippolyte_taine.jpg
 
 In his main work _Histoire de France_ (1855), French historian Jules Michelet (1798–1874) coined the term Renaissance (meaning "rebirth" in French), as a period in Europe's cultural history that represented a break from the Middle Ages, creating a modern understanding of humanity and its place in the world.[41] The 19-volume work covered French history from Charlemagne to the outbreak of the French Revolution. His inquiry into manuscript and printed authorities was most laborious, but his lively imagination, and his strong religious and political prejudices, made him regard all things from a singularly personal point of view.[42]
 
@@ -169,7 +165,7 @@ By the mid-19th century, scholars were beginning to analyse the history of insti
 
 Von Ranke and professionalization in Germany
 
-Leopold_Von_Ranke_1877.jpg established history as a professional academic discipline in Germany.]]
+established history as a professional academic discipline in Germany.]]
 
 The modern academic study of history and methods of historiography were pioneered in 19th-century German universities, especially the University of Göttingen. Leopold von Ranke (1795–1886) at Berlin was a pivotal influence in this regard, and was the founder of modern source-based history.[50][51] According to Caroline Hoefferle, "Ranke was probably the most important historian to shape historical profession as it emerged in Europe and the United States in the late 19th century."[52][53]
 
@@ -187,7 +183,7 @@ Previous historians had focused on cyclical events of the rise and decline of ru
 
 Macaulay and Whig history
 
-Thomas_Babington_Macaulay,_Baron_Macaulay.jpg was the most influential exponent of the Whig history]]
+was the most influential exponent of the Whig history]]
 
 Thomas Macaulay produced his most famous work of history, _The History of England from the Accession of James the Second_, in 1848. His writings are famous for their ringing prose and for their confident, sometimes dogmatic, emphasis on a progressive model of British history, according to which the country threw off superstition, autocracy and confusion to create a balanced constitution and a forward-looking culture combined with freedom of belief and expression. This model of human progress has been called the Whig interpretation of history.[58]
 
@@ -208,7 +204,7 @@ This consensus was steadily undermined during the post-World War I re-evaluation
 
 France: _Annales_ school
 
-Marc_Bloch.jpg's focus on social history rather than traditional political history.]]
+'s focus on social history rather than traditional political history.]]
 
 The French _Annales_ school radically changed the focus of historical research in France during the 20th century by stressing long-term social history, rather than political or diplomatic themes. The school emphasized the use of quantification and the paying of special attention to geography.[69][70]
 

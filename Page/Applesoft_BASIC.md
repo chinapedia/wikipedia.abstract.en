@@ -89,7 +89,7 @@ Applesoft BASIC programs are stored as a linked list of lines; a GOTO or GOSUB t
 
 Sample code
 
-Applesoft_BASIC.png, with inverse video and bell character, run then listed]] Hello World in Applesoft BASIC can be entered as the following:
+, with inverse video and bell character, run then listed]] Hello World in Applesoft BASIC can be entered as the following:
 
      10TEXT:HOME
      20?"HELLO WORLD"

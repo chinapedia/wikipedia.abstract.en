@@ -9,7 +9,7 @@ History
 
 Context
 
-Chrysler_Building_2005_4.jpg, both erected as part of New York City's 1920s building boom]]
+, both erected as part of New York City's 1920s building boom]]
 
 In the mid-1920s, New York's metropolitan area surpassed London's as the world's most populous metropolitan area[4] and its population exceeded ten million by the early 1930s.[5] The era was characterized by profound social and technological changes. Consumer goods such as radio, cinema, and the automobile—whose use grew exponentially in the 1920s—became widespread.[6] In 1927, Walter Chrysler's automotive company, the Chrysler Corporation, became the third-largest car manufacturer in the United States, behind Ford and General Motors.[7][8] The following year, Chrysler was named _Time_ magazine's "Person of the Year".[9][10]
 
@@ -19,7 +19,7 @@ The land on which the Chrysler Building stands was donated to The Cooper Union f
 
 Planning
 
-Chryslerbldng42st.jpg Originally, the Chrysler Building was to be the Reynolds Building, a project of real estate developer and former New York State Senator William H. Reynolds.[23] Prior to his involvement in planning the building, Reynolds was best known for developing Coney Island's Dreamland amusement park. When the amusement park was destroyed by fire in 1911, Reynolds turned his attention to Manhattan real estate, where he set out to build the tallest building in the world.[24]
+Originally, the Chrysler Building was to be the Reynolds Building, a project of real estate developer and former New York State Senator William H. Reynolds.[23] Prior to his involvement in planning the building, Reynolds was best known for developing Coney Island's Dreamland amusement park. When the amusement park was destroyed by fire in 1911, Reynolds turned his attention to Manhattan real estate, where he set out to build the tallest building in the world.[24]
 
 In 1921, Reynolds rented a large plot of land at the corner of Lexington Avenue and 42nd Street with the intention of building a tall building on the site.[25] In 1927, after several years of delays, Reynolds hired the architect William Van Alen to build a forty-story building there.[26]
 
@@ -37,7 +37,7 @@ Construction and finalization of plans
 
 With the design complete, groundbreaking for the Reynolds Building took place on September 19, 1928,[41] but Reynolds did not have the means to carry on construction.[42] Reynolds sold the plot, lease, plans, and architect's services to Walter Chrysler for $2 million on October 15, 1928.[43] That same day, the Goodwin Construction Company began demolition of what had been built.[44] A contract was awarded on October 28,[45] and demolition was completed on November 9. Chrysler's initial plans for the building were similar to Reynolds's, but with the 808-foot building having 68 floors instead of 67. The plans entailed a ground-floor pedestrian arcade, a facade of stone below the fifth floor, a brick-and-terracotta facade above, and a "three-story observation dome" with "bronze and glass" at the top.[46] However, Chrysler wanted a more progressive design, and he worked with Van Alen to redesign the skyscraper to be tall.[47] At the new height, Chrysler's building would be taller than the Woolworth Building, a building in lower Manhattan that was the world's tallest at the time.[48][49]
 
-New_York_City_Chrysler_Building_02.jpg From late 1928 to early 1929, modifications to the design of the dome continued.[50] In March 1929, the press published details of an "artistic dome" that had the shape of a giant thirty-pointed star, which would be crowned by a sculpture five meters high.[51][52] The final design of the dome included several arches and triangular windows.[53] Lower down, the design was affected by Walter Chrysler's intention to make the building the Chrysler Corporation's headquarters, and as such, various architectural details were modeled after Chrysler automobile products, such as the hood ornaments of the Plymouth (see ).[54][55] The building's gargoyles on the 31st floor and the eagles on the 61st floor, were designed to signify flight, and to exemplify the machine age of the 1920s.[56][57] Even the topmost needle was built using a process similar to one Chrysler used to manufacture his cars, with precise "hand craftmanship". In his autobiography, Chrysler says he suggested that his building be taller than the Eiffel Tower.[58]
+From late 1928 to early 1929, modifications to the design of the dome continued.[50] In March 1929, the press published details of an "artistic dome" that had the shape of a giant thirty-pointed star, which would be crowned by a sculpture five meters high.[51][52] The final design of the dome included several arches and triangular windows.[53] Lower down, the design was affected by Walter Chrysler's intention to make the building the Chrysler Corporation's headquarters, and as such, various architectural details were modeled after Chrysler automobile products, such as the hood ornaments of the Plymouth (see ).[54][55] The building's gargoyles on the 31st floor and the eagles on the 61st floor, were designed to signify flight, and to exemplify the machine age of the 1920s.[56][57] Even the topmost needle was built using a process similar to one Chrysler used to manufacture his cars, with precise "hand craftmanship". In his autobiography, Chrysler says he suggested that his building be taller than the Eiffel Tower.[58]
 
 Meanwhile, excavation of the new building's foundation began in mid-November 1928 and was completed in mid-January 1929, when bedrock was reached. A total of of rock and of soil was excavated for the foundation, equal to 63% of the future building's weight. Construction of the building proper began on January 21, 1929. The Carnegie Steel Company provided the steel beams, the first of which was installed on March 27; and by April 9, the first upright beams had been set into place. The steel structure was "a few floors" high by June 1929, 35 floors high by early August, and completed by September.[59] Despite a frantic steelwork construction pace of about four floors per week,[60] no workers died during the construction of the skyscraper's steelwork.[61][62] Chrysler lauded this achievement, saying, "It is the first time that any structure in the world has reached such a height, yet the entire steel construction was accomplished without loss of life".[63] In total, 391,881 rivets were used, and approximately 3,826,000 bricks were manually laid[64] to create the non-loadbearing walls of the skyscraper. Walter Chrysler personally financed the construction with his income from his car company.[65] The Chrysler Building's height officially surpassed the Woolworth's on October 16, 1929, thereby becoming the world's tallest structure.[66]
 
@@ -52,8 +52,6 @@ The steel tip brought the Chrysler Building to a height of , greatly exceeding 4
 Chrysler realized that his tower's height would exceed the Empire State Building's as well, having ordered Van Alen to change the Chrysler's original roof from a stubby Romanesque dome to the narrow steel spire. However, the Empire State's developer John J. Raskob reviewed the plans and realized that he could add five more floors and a spire of his own to his 80-story building, and subsequently acquired the nearby plots needed to support that building's height extension.[75] Two days later, the Empire State Building's co-developer, former Governor Al Smith, announced the updated plans for that skyscraper, with an observation deck on the 86th-floor roof at a height of , higher than the Chrysler's 71st-floor observation deck.
 
 Completion
-
-Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg
 
 In January 1930, it was announced that the Chrysler Corporation would maintain offices in the Chrysler Building during Automobile Show Week,[76] and the first leases by outside tenants were announced in April 1930, before the building was officially completed.[77] The building was formally opened on May 27, 1930, in a ceremony that coincided with the 42nd Street Property Owners and Merchants Association's meeting that year. In the lobby of the building, a bronze plaque that read "in recognition of Mr. Chrysler's contribution to civic advancement" was unveiled. Former Governor Smith, former Assemblyman Martin G. McCue, and 42nd Street Association president George W. Sweeney were among those in attendance.[78] By June, it was reported that 65% of the available space had been leased.[79] By August, the building was declared complete, but the New York City Department of Construction did not mark it as finished until February 1932.
 
@@ -71,8 +69,6 @@ Contrary to popular belief, the Chrysler Corporation was never involved in the c
 
  Later history
 
-NYCbyPinHt_update.jpg
-
 The Chrysler family inherited the property after the death of Walter Chrysler in 1940, with the property being under the ownership of W.P. Chrysler Building Corporation. In 1944, the corporation filed plans to build a 38-story annex to the east of the building, at 666 Third Avenue.[101] In 1949, this was revised to a 32-story annex costing $9 million.[102] The annex building, designed by Reinhard, Hofmeister & Walquist,[103][104] had a facade similar to that of the original Chrysler Building. The stone for the original building was no longer manufactured, and had to be specially replicated.[105] Construction started on the annex in June 1950,[106] and the first tenants started leasing in June 1951.[107] The building itself was completed by 1952,[108] and a sky bridge connecting the two buildings' seventh floors was built in 1959.[109]
 
 The family sold the building in 1953 to William Zeckendorf[110] for its assessed price of $18 million. The 1953 deal included the annex and the nearby Graybar Building, which along with the Chrysler Building sold for a combined $52 million.[111][112] In 1957, the Chrysler Building, its annex, and the nearby Graybar Building, across 43rd Street, was sold for $66 million in what was reported to be the largest real estate sale at the time.[113] In 1960, the complex was purchased by Sol Goldman and Alex DiLorenzo,[114] who received a mortgage from the Massachusetts Mutual Life Insurance Company.[115] In 1961, the building's stainless steel elements, including the needle, crown, gargoyles, and entrance doors, were polished for the first time.[116] A group of ten workers steam-cleaned the facade below the 30th floor, and manually cleaned the portion of the tower above the 30th floor, for a cost of about $200,000.[117]
@@ -89,8 +85,6 @@ The Abu Dhabi Investment Council and Tishman Speyer put the Chrysler Building on
 
 
 Architecture
-
-Chrysler_building-_top.jpg
 
 The Chrysler Building is considered a leading example of Art Deco architecture.[146] It is constructed of a steel frame in-filled with masonry, with areas of decorative metal cladding. The structure contains 3,862 exterior windows.[147] Approximately fifty metal ornaments protrude at the building's corners on five floors reminiscent of gargoyles on Gothic cathedrals. The 31st-floor contains gargoyles and replicas of the 1929 Chrysler radiator caps,[148] the 61st eagles, a nod to America's national bird.
 
@@ -144,8 +138,6 @@ The basement also had a "hydrozone water bottling unit" that would filter tap wa
 
 Above the 60th floor
 
-Chrysler_Building_Office_North_Facing_Window.jpg
-
 Cloud Club
 
 The private Cloud Club formerly occupied the 66th through 68th floors.[181] It opened in July 1930 with some three hundred members, all wealthy males who formed the city's elite.[182][183] Its creation was spurred by Texaco's wish for a proper restaurant for its executives prior to renting fourteen floors in the building. The Cloud Club was a compromise between William van Alen's modern style and Walter Chrysler's stately and traditional tastes.[184] A member had to be elected, and if accepted, paid an initial fee of $200, plus a $150 to $300 annual fee.
@@ -166,15 +158,13 @@ After the observatory closed it was used to house radio and television broadcast
 
 Crown
 
-Chrysler_Building_detail.jpg
-
 The Chrysler Building is renowned for, and recognized by, its terraced crown, which is an extension of the main tower. Composed of seven radiating terraced arches, Van Alen's design of the crown is a cruciform groin vault of seven concentric members with transitioning setbacks, mounted one behind another.[214] The entire crown is clad with Nirosta steel, ribbed and riveted in a radiating sunburst pattern with many triangular vaulted windows, transitioning into smaller segments of the seven narrow setbacks of the terraced crown.[215] Due to the curved shape of the dome, the Nirosta sheets had to be measured on site, so most of the work was carried out in workshops on the building's 67th and 75th floors.[216]
 
 According to Robinson, "Its 'dormers', each smaller and higher than the previous one, continue the wedding-cake layering of the building itself. This concept is carried forward from the 61st floor, whose eagle gargoyles echo the treatment of the 31st, to the spire, which extends the concept of 'higher and narrower' forward to infinite height and infinitesimal width. This unique treatment emphasizes the building's height, giving it an other worldly atmosphere reminiscent of the fantastic architecture of Coney Island or the Far East."
 
 Spire
 
-Chrysler_Building_at_night.JPG Above the 71st floor, the stories of the building are designed mostly for exterior appearance, functioning mainly as landings for the stairway to the spire and do not contain office space. They are very narrow, have low and sloping roofs, and are only used to house radio transmitters and other mechanical and electrical equipment.[217] For example, the 73rd floor houses the motors of the elevators and a water tank, of which are reserved for extinguishing fires.[218]
+Above the 71st floor, the stories of the building are designed mostly for exterior appearance, functioning mainly as landings for the stairway to the spire and do not contain office space. They are very narrow, have low and sloping roofs, and are only used to house radio transmitters and other mechanical and electrical equipment.[217] For example, the 73rd floor houses the motors of the elevators and a water tank, of which are reserved for extinguishing fires.[218]
 
 Television station WCBS-TV (Channel 2) originated its transmission from the top of the Chrysler Building in 1938.[219] WCBS-TV transmissions were shifted to the Empire State Building in 1960[220] in response to competition from RCA's transmitter on that building.[221] For many years WPAT-FM and WTFM (now WKTU) also transmitted from the Chrysler Building, but their move to the Empire State Building by the 1970s ended commercial broadcasting from the structure.[222]
 

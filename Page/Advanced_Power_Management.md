@@ -5,7 +5,7 @@ Revision 1.2 was the last version of the APM specification, released in 1996. AC
 
 Overview
 
-APM-Layers.svg APM uses a layered approach to manage devices. APM-aware applications (which include device drivers) talk to an OS-specific APM driver. This driver communicates to the APM-aware BIOS, which controls the hardware. There is the ability to opt out of APM control on a device-by-device basis, which can be used if a driver wants to communicate directly with a hardware device.
+APM uses a layered approach to manage devices. APM-aware applications (which include device drivers) talk to an OS-specific APM driver. This driver communicates to the APM-aware BIOS, which controls the hardware. There is the ability to opt out of APM control on a device-by-device basis, which can be used if a driver wants to communicate directly with a hardware device.
 
 Communication occurs both ways; power management events are sent from the BIOS to the APM driver, and the APM driver sends information and requests to the BIOS via function calls. In this way the APM driver is an intermediary between the BIOS and the operating system.
 

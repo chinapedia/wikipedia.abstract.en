@@ -1,4 +1,4 @@
-Colonne_distillazione.jpgs pictured)]]
+s pictured)]]
 
 CHEMICAL ENGINEERING is a branch of engineering that uses principles of chemistry, physics, mathematics, biology, and economics to efficiently use, produce, design, transport and transform energy and materials. The work of chemical engineers can range from the utilisation of nano-technology and nano-materials in the laboratory to large-scale industrial processes that convert chemicals, raw materials, living cells, microorganisms, and energy into useful forms and products.
 
@@ -9,7 +9,7 @@ Chemical engineers typically hold a degree in Chemical Engineering or Process En
 
 Etymology
 
-Davis_GE.jpg]]
+]]
 
 A 1996 _British Journal for the History of Science_ article cites James F. Donnelly for mentioning an 1839 reference to chemical engineering in relation to the production of sulfuric acid. In the same paper however, George E. Davis, an English consultant, was credited for having coined the term. Davis also tried to found a _Society of Chemical Engineering_, but instead it was named the Society of Chemical Industry (1881), with Davis as its first Secretary.[1][2] The _History of Science in United States: An Encyclopedia_ puts the use of the term around 1890. "Chemical engineering", describing the use of mechanical equipment in the chemical industry, became common vocabulary in England after 1850. By 1910, the profession, "chemical engineer," was already in common use in Britain and the United States.
 
@@ -18,13 +18,11 @@ History
 
 Chemical engineering emerged upon the development of unit operations, a fundamental concept of the discipline of chemical engineering. Most authors agree that Davis invented the concept of unit operations if not substantially developed it. He gave a series of lectures on unit operations at the Manchester Technical School (later part of the University of Manchester) in 1887, considered to be one of the earliest such about chemical engineering. Three years before Davis' lectures, Henry Edward Armstrong taught a degree course in chemical engineering at the City and Guilds of London Institute. Armstrong's course failed simply because its graduates were not especially attractive to employers. Employers of the time would have rather hired chemists and mechanical engineers. Courses in chemical engineering offered by Massachusetts Institute of Technology (MIT) in the United States, Owens College in Manchester, England, and University College London suffered under similar circumstances.
 
-MIT_Industrial_Chemistry_Lab.gif
-
 Starting from 1888, Lewis M. Norton taught at MIT the first chemical engineering course in the United States. Norton's course was contemporaneous and essentially similar to Armstrong's course. Both courses, however, simply merged chemistry and engineering subjects along with product design. "Its practitioners had difficulty convincing engineers that they were engineers and chemists that they were not simply chemists." Unit operations was introduced into the course by William Hultz Walker in 1905. By the early 1920s, unit operations became an important aspect of chemical engineering at MIT and other US universities, as well as at Imperial College London. The American Institute of Chemical Engineers (AIChE), established in 1908, played a key role in making chemical engineering considered an independent science, and unit operations central to chemical engineering. For instance, it defined chemical engineering to be a "science of itself, the basis of which is ... unit operations" in a 1922 report; and with which principle, it had published a list of academic institutions which offered "satisfactory" chemical engineering courses. Meanwhile, promoting chemical engineering as a distinct science in Britain led to the establishment of the Institution of Chemical Engineers (IChemE) in 1922. IChemE likewise helped make unit operations considered essential to the discipline.
 
 New concepts and innovations
 
-Fuel_cell_NASA_p48600ac.jpg. The actual fuel cell stack is the layered cube shape in the center of the image]] In 1940s, it became clear that unit operations alone were insufficient in developing chemical reactors. While the predominance of unit operations in chemical engineering courses in Britain and the United States continued until the 1960s, transport phenomena started to experience greater focus. Along with other novel concepts, such as process systems engineering (PSE), a "second paradigm" was defined. Transport phenomena gave an analytical approach to chemical engineering while PSE focused on its synthetic elements, such as control system and process design. Developments in chemical engineering before and after World War II were mainly incited by the petrochemical industry, however, advances in other fields were made as well. Advancements in biochemical engineering in the 1940s, for example, found application in the pharmaceutical industry, and allowed for the mass production of various antibiotics, including penicillin and streptomycin. Meanwhile, progress in polymer science in the 1950s paved way for the "age of plastics".
+. The actual fuel cell stack is the layered cube shape in the center of the image]] In 1940s, it became clear that unit operations alone were insufficient in developing chemical reactors. While the predominance of unit operations in chemical engineering courses in Britain and the United States continued until the 1960s, transport phenomena started to experience greater focus. Along with other novel concepts, such as process systems engineering (PSE), a "second paradigm" was defined. Transport phenomena gave an analytical approach to chemical engineering while PSE focused on its synthetic elements, such as control system and process design. Developments in chemical engineering before and after World War II were mainly incited by the petrochemical industry, however, advances in other fields were made as well. Advancements in biochemical engineering in the 1940s, for example, found application in the pharmaceutical industry, and allowed for the mass production of various antibiotics, including penicillin and streptomycin. Meanwhile, progress in polymer science in the 1950s paved way for the "age of plastics".
 
 Safety and hazard developments
 
@@ -59,8 +57,6 @@ Modeling and analysis of transport phenomena is essential for many industrial ap
 
 
 Applications and practice
-
-Chemengg.jpg Bundesarchiv_Bild_183-1986-0205-015,_Chemiekombinat_Bitterfeld,_Produktion_von_Weißtönern.jpg
 
 Chemical engineers "develop economic ways of using materials and energy". Chemical engineers use chemistry and engineering to turn raw materials into usable products, such as medicine, petrochemicals and plastics on a large-scale, industrial setting. They are also involved in waste management and research. Both applied and research facets could make extensive use of computers.
 

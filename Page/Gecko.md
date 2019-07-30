@@ -1,4 +1,4 @@
-GECKOS are lizards belonging to the infraorder Gekkota, found in warm climates throughout the world. They range from 1.6 to 60 cm (0.64 to 24 inches). Most geckos cannot blink, but they often lick their eyes to keep them clean and moist. They have a fixed lens within each iris that enlarges in darkness to let in more light. Ptenopus_carpi_Carp's_barking_gecko_licking_eye_Chantelle_Bosch.png licking its cornea to clear it of dust
+GECKOS are lizards belonging to the infraorder Gekkota, found in warm climates throughout the world. They range from 1.6 to 60 cm (0.64 to 24 inches). Most geckos cannot blink, but they often lick their eyes to keep them clean and moist. They have a fixed lens within each iris that enlarges in darkness to let in more light. licking its cornea to clear it of dust
 
 ]]
 
@@ -15,17 +15,15 @@ The largest species, the kawekaweau, is only known from a single, stuffed specim
 
 Common traits
 
-Gecko_in_amber.jpg-era gecko trapped in amber]] Like other reptiles, geckos are ectothermic,[9] producing very little metabolic heat. Essentially, a gecko's body temperature is dependent on its environment. Also, to accomplish their main functions—such as locomotion, feeding, reproduction, etc.—geckos must have a relatively elevated temperature.[10]
+-era gecko trapped in amber]] Like other reptiles, geckos are ectothermic,[9] producing very little metabolic heat. Essentially, a gecko's body temperature is dependent on its environment. Also, to accomplish their main functions—such as locomotion, feeding, reproduction, etc.—geckos must have a relatively elevated temperature.[10]
 
 Shedding or molting
-
-Leopard_Gecko_Shedding_Skin.ogv
 
 All geckos shed their skin at fairly regular intervals, with species differing in timing and method. Leopard geckos shed at about two- to four-week intervals. The presence of moisture aids in the shedding. When shedding begins, the gecko speeds the process by detaching the loose skin from its body and eating it.[11] For young geckos, shedding occurs more frequently, once a week, but when they are fully grown, they shed once every one to two months.[12]
 
 Adhesion ability
 
-Gecko_foot_on_glass.JPG Gecko_on_window.jpg About 60% of gecko species have adhesive toe pads that allow them to adhere to most surfaces without the use of liquids or surface tension. Such pads have been gained and lost repeatedly over the course of gecko evolution.[13] Adhesive toepads evolved independently in about 11 different gecko lineages and were lost in at least 9 lineages.[14]
+About 60% of gecko species have adhesive toe pads that allow them to adhere to most surfaces without the use of liquids or surface tension. Such pads have been gained and lost repeatedly over the course of gecko evolution.[13] Adhesive toepads evolved independently in about 11 different gecko lineages and were lost in at least 9 lineages.[14]
 
 The spatula-shaped setae arranged in lamellae on gecko footpads enable attractive van der Waals' forces (the weakest of the weak chemical forces) between the β-keratin lamellae/setae/spatulae structures and the surface.[15][16] These van der Waals interactions involve no fluids; in theory, a boot made of synthetic setae would adhere as easily to the surface of the International Space Station as it would to a living-room wall, although adhesion varies with humidity.[17][18]
 
@@ -37,7 +35,7 @@ Gecko adhesion is typically improved by higher humidity,[24][25][26][27][28] eve
 
 Gecko toes seem to be "double jointed", but this is a misnomer and is properly called digital hyperextension.[37] Gecko toes can hyperextend in the opposite direction from human fingers and toes. This allows them to overcome the van der Waals force by peeling their toes off surfaces from the tips inward. In essence, by this peeling action, the gecko separates spatula by spatula from the surface, so for each spatula separation, only some force necessary. (The process is similar to removing Scotch Tape from a surface.)
 
-Geckos' toes operate well below their full attractive capabilities most of the time because the margin for error is great depending upon the surface roughness, and therefore the number of setae in contact with that surface. Uroplatus_fimbriatus_(3).jpg'' clinging to glass]]
+Geckos' toes operate well below their full attractive capabilities most of the time because the margin for error is great depending upon the surface roughness, and therefore the number of setae in contact with that surface. '' clinging to glass]]
 
 Use of small van der Waals force requires very large surface areas; every square millimeter of a gecko's footpad contains about 14,000 hair-like setae. Each seta has a diameter of 5 μm. Human hair varies from 18 to 180 μm, so the cross-sectional area of a human hair is equivalent to 12 to 1300 setae. Each seta is in turn tipped with between 100 and 1,000 spatulae.[38] Each spatula is 0.2 μm long[39] (one five-millionth of a meter), or just below the wavelength of visible light.[40]
 
@@ -62,8 +60,6 @@ Geckos are polyphyodonts and able to replace each of their 100 teeth every 3 to 
 
 Taxonomy and classification
 
-LizardFemoralPoresRooij.png
-
 The infraorder Gekkota is divided into seven families, containing about 125 genera of geckos, including the snake-like (legless) pygopods.[53][54][55][56][57]
 
 -   Family Carphodactylidae
@@ -74,12 +70,12 @@ The infraorder Gekkota is divided into seven families, containing about 125 gene
 -   Family Pygopodidae
 -   Family Sphaerodactylidae
 
-Dwarf_Yellow-headed_gecko_edit.jpg, in Dar es Salaam, Tanzania]]
+, in Dar es Salaam, Tanzania]]
 
 
 Species
 
-Mediterranean_house_gecko.JPG]] Japanese_gecko_(Gekko_japonicus).webm in Tokyo, Japan]]
+]] in Tokyo, Japan]]
 
 More than 1,850 species of geckos occur worldwide,[58] including these familiar species:
 

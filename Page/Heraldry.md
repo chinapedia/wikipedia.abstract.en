@@ -1,4 +1,4 @@
-Hyghalmen_Roll_Late_1400s.jpg'' was made in the late 15th century and illustrates the German practice of repeating themes from the arms in the crest. (See Roll of arms).]] HERALDRY () is a broad term, encompassing the design, display, and study of armorial bearings (known as _armory_), as well as related disciplines, such as vexillology, together with the study of ceremony, rank, and pedigree.[1][2][3] Armory, the best-known branch of heraldry, concerns the design and transmission of the heraldic achievement. The achievement, or armorial bearings usually includes a coat of arms on an shield, helmet, and crest, together with any accompanying devices, such as supporters, badges, heraldic banners, and mottoes.[4]
+'' was made in the late 15th century and illustrates the German practice of repeating themes from the arms in the crest. (See Roll of arms).]] HERALDRY () is a broad term, encompassing the design, display, and study of armorial bearings (known as _armory_), as well as related disciplines, such as vexillology, together with the study of ceremony, rank, and pedigree.[1][2][3] Armory, the best-known branch of heraldry, concerns the design and transmission of the heraldic achievement. The achievement, or armorial bearings usually includes a coat of arms on an shield, helmet, and crest, together with any accompanying devices, such as supporters, badges, heraldic banners, and mottoes.[4]
 
 Although the use of various devices to signify individuals and groups goes back to antiquity, both the form and use of such devices varied widely, and the concept of regular, hereditary designs, constituting the distinguishing feature of heraldry, did not develop until the High Middle Ages.[5] It is very often claimed that the use of helmets with face guards during this period made it difficult to recognize one's commanders in the field when large armies gathered together for extended periods, necessitating the development of heraldry as a symbolic language but there is very little actual support for this view.[6][7]
 
@@ -19,7 +19,7 @@ File:Narmer Palette serpopard side.jpg|Reverse of the Narmer Palette, _circa_ 31
 
 Origins of modern heraldry
 
-Geoffrey_of_Anjou_Monument.jpg, one of the earliest depictions of modern heraldry.]] The development of the modern heraldic language cannot be attributed to a single individual, time, or place. Although certain designs that are now considered heraldic were evidently in use during the eleventh century, most accounts and depictions of shields up to the beginning of the twelfth century contain little or no evidence of their heraldic character. For example, the Bayeux Tapestry, illustrating the Norman invasion of England in 1066, and probably commissioned about 1077, when the cathedral of Bayeux was rebuilt, depicts a number of shields of various shapes and designs, many of which are plain, while others are decorated with dragons, crosses, or other typically heraldic figures. Yet no individual is depicted twice bearing the same arms, nor are any of the descendants of the various persons depicted known to have borne devices resembling those in the tapestry.[18][19]
+, one of the earliest depictions of modern heraldry.]] The development of the modern heraldic language cannot be attributed to a single individual, time, or place. Although certain designs that are now considered heraldic were evidently in use during the eleventh century, most accounts and depictions of shields up to the beginning of the twelfth century contain little or no evidence of their heraldic character. For example, the Bayeux Tapestry, illustrating the Norman invasion of England in 1066, and probably commissioned about 1077, when the cathedral of Bayeux was rebuilt, depicts a number of shields of various shapes and designs, many of which are plain, while others are decorated with dragons, crosses, or other typically heraldic figures. Yet no individual is depicted twice bearing the same arms, nor are any of the descendants of the various persons depicted known to have borne devices resembling those in the tapestry.[18][19]
 
 Similarly, an account of the French knights at the court of the Byzantine emperor Alexius I at the beginning of the twelfth century describes their shields of polished metal, utterly devoid of heraldic design. A Spanish manuscript from 1109 describes both plain and decorated shields, none of which appears to have been heraldic.[20] The Abbey of St. Denis contained a window commemorating the knights who embarked on the Second Crusade in 1147, and was probably made soon after the event; but Montfaucon's illustration of the window before it was destroyed shows no heraldic design on any of the shields.[21][22]
 
@@ -35,7 +35,7 @@ Heralds and heraldic authorities
 
 The spread of armorial bearings across Europe soon gave rise to a new occupation: the herald, originally a type of messenger employed by noblemen, assumed the responsibility of learning and knowing the rank, pedigree, and heraldic devices of various knights and lords, as well as the rules and protocols governing the design and description, or _blazoning_ of arms, and the precedence of their bearers.[36] As early as the late thirteenth century, certain heralds in the employ of monarchs were given the title "King of Heralds", which eventually became "King of Arms."[37]
 
-Pursuivant.JPGs, Windsor Castle, 2006.]] In the earliest period, arms were assumed by their bearers without any need for heraldic authority. However, by the middle of the fourteenth century, the principle that only a single individual was entitled to bear a particular coat of arms was generally accepted, and disputes over the ownership of arms seems to have led to gradual establishment of heraldic authorities to regulate their use. The earliest known work of heraldic jurisprudence, _De Insigniis et Armis_, was written about 1350 by Bartolus de Saxoferrato, a professor of law at the University of Padua.[38][39] The most celebrated armorial dispute in English heraldry is that of _Scrope v Grosvenor_ (1390), in which two different men claimed the right to bear _azure, a bend or_.[40] The continued proliferation of arms, and the number of disputes arising from different men assuming the same arms, led Henry V to issue a proclamation in 1419, forbidding all those who had not borne arms at the Battle of Agincourt from assuming arms, except by inheritance or a grant from the crown.[41][42]
+s, Windsor Castle, 2006.]] In the earliest period, arms were assumed by their bearers without any need for heraldic authority. However, by the middle of the fourteenth century, the principle that only a single individual was entitled to bear a particular coat of arms was generally accepted, and disputes over the ownership of arms seems to have led to gradual establishment of heraldic authorities to regulate their use. The earliest known work of heraldic jurisprudence, _De Insigniis et Armis_, was written about 1350 by Bartolus de Saxoferrato, a professor of law at the University of Padua.[38][39] The most celebrated armorial dispute in English heraldry is that of _Scrope v Grosvenor_ (1390), in which two different men claimed the right to bear _azure, a bend or_.[40] The continued proliferation of arms, and the number of disputes arising from different men assuming the same arms, led Henry V to issue a proclamation in 1419, forbidding all those who had not borne arms at the Battle of Agincourt from assuming arms, except by inheritance or a grant from the crown.[41][42]
 
 Beginning in the reign of Henry VIII of England, the English Kings of Arms were commanded to make _visitations_, in which they traveled about the country, recording arms borne under proper authority, and requiring those who bore arms without authority either to obtain authority for them, or cease their use. Arms borne improperly were to be taken down and defaced. The first such visitation began in 1530, and the last was carried out in 1700, although no new commissions to carry out visitations were made after the accession of William III in 1689.[43][44]. There is very little evidence that Scots herald ever went on visitations.
 
@@ -96,8 +96,6 @@ The field of a shield, or less often a charge or crest, is sometimes made up of 
 
 Divisions of the field
 
-Varpaisjärvi.vaakuna.svg
-
 The field of a shield in heraldry can be divided into more than one tincture, as can the various heraldic charges. Many coats of arms consist simply of a division of the field into two contrasting tinctures. These are considered divisions of a shield, so the rule of tincture can be ignored. For example, a shield divided azure and gules would be perfectly acceptable. A line of partition may be straight or it may be varied. The variations of partition lines can be wavy, indented, embattled, engrailed, nebuly, or made into myriad other forms; see Line (heraldry).[97]
 
 Ordinaries
@@ -118,7 +116,7 @@ In English heraldry the crescent, mullet, martlet, annulet, fleur-de-lis, and ro
 
 Marshalling
 
-Stowe_Armorial.svg Armorial at Stowe.]]
+Armorial at Stowe.]]
 
 To _marshal_ two or more coats of arms is to combine them in one shield, to express inheritance, claims to property, or the occupation of an office. This can be done in a number of ways, of which the simplest is impalement: dividing the field _per pale_ and putting one whole coat in each half. Impalement replaced the earlier dimidiation – combining the dexter half of one coat with the sinister half of another – because dimidiation can create ambiguity between, for example, a bend and a chevron. "Dexter" (from Latin _dextra_, right) means to the right from the viewpoint of the bearer of the arms and "sinister" (from Latin _sinistra_, left) means to the left. The dexter side is considered the side of greatest honour (see also Dexter and sinister).
 
@@ -132,7 +130,7 @@ In German heraldry, animate charges in combined coats usually turn to face the c
 
 Helm and crest
 
-Wappen_Deutsches_Reich_-_Herzogtum_Sachsen-Altenburg_(Grosses).png featuring a total of seven crests. Some thaler coins display as many as fifteen.]]
+featuring a total of seven crests. Some thaler coins display as many as fifteen.]]
 
 In English the word "crest" is commonly (but erroneously) used to refer to an entire heraldic achievement of armorial bearings. The technical use of the heraldic term crest refers to just one component of a complete achievement. The crest rests on top of a helmet which itself rests on the most important part of the achievement: the shield.
 
@@ -150,7 +148,7 @@ An armorial motto is a phrase or collection of words intended to describe the mo
 
 Supporters and other insignia
 
-Coat_of_Arms_of_Baldomero_Espartero,_Prince_of_Vergara.svg.]]
+.]]
 
 Supporters are human or animal figures or, very rarely, inanimate objects, usually placed on either side of a coat of arms as though supporting it. In many traditions, these have acquired strict guidelines for use by certain social classes. On the European continent, there are often fewer restrictions on the use of supporters.[107] In the United Kingdom, only peers of the realm, a few baronets, senior members of orders of knighthood, and some corporate bodies are granted supporters. Often, these can have local significance or a historical link to the armiger.
 
@@ -197,7 +195,7 @@ Trees are frequent charges in Latin arms. Charged bordures, including bordures i
 
 Central and Eastern European heraldry
 
-Turiec.jpg county in Slovakia.]] Eastern European heraldry is in the traditions developed in Belarus, Bulgaria, Serbia, Croatia, Hungary, Romania, Lithuania, Poland, Slovakia, Ukraine, and Russia. Eastern coats of arms are characterized by a pronounced, territorial, clan system – often, entire villages or military groups were granted the same coat of arms irrespective of family relationships. In Poland, nearly six hundred unrelated families are known to bear the same Jastrzębiec coat of arms. Marks of cadency are almost unknown, and shields are generally very simple, with only one charge. Many heraldic shields derive from ancient house marks. At the least, fifteen per cent of all Hungarian personal arms bear a severed Turk's head, referring to their wars against the Ottoman Empire.[127][128]
+county in Slovakia.]] Eastern European heraldry is in the traditions developed in Belarus, Bulgaria, Serbia, Croatia, Hungary, Romania, Lithuania, Poland, Slovakia, Ukraine, and Russia. Eastern coats of arms are characterized by a pronounced, territorial, clan system – often, entire villages or military groups were granted the same coat of arms irrespective of family relationships. In Poland, nearly six hundred unrelated families are known to bear the same Jastrzębiec coat of arms. Marks of cadency are almost unknown, and shields are generally very simple, with only one charge. Many heraldic shields derive from ancient house marks. At the least, fifteen per cent of all Hungarian personal arms bear a severed Turk's head, referring to their wars against the Ottoman Empire.[127][128]
 
 
 Quasi-heraldic emblems
@@ -233,7 +231,7 @@ Every sultan of the Ottoman Empire had his own monogram, called the tughra, whic
 
 Modern heraldry
 
-Stenungsund_vapen.svg 052-ADA-Rgmt-COA.png Heraldry flourishes in the modern world; institutions, companies, and private persons continue using coats of arms as their pictorial identification. In the United Kingdom and Ireland, the English Kings of Arms, Scotland's Lord Lyon King of Arms, and the Chief Herald of Ireland continue making grants of arms.[137] There are heraldic authorities in Canada,[138] South Africa, Spain, and Sweden that grant or register coats of arms. In South Africa, the right to armorial bearings is also determined by Roman Dutch law, due to its origins as a 17th-century colony of the Netherlands.[139]
+Heraldry flourishes in the modern world; institutions, companies, and private persons continue using coats of arms as their pictorial identification. In the United Kingdom and Ireland, the English Kings of Arms, Scotland's Lord Lyon King of Arms, and the Chief Herald of Ireland continue making grants of arms.[137] There are heraldic authorities in Canada,[138] South Africa, Spain, and Sweden that grant or register coats of arms. In South Africa, the right to armorial bearings is also determined by Roman Dutch law, due to its origins as a 17th-century colony of the Netherlands.[139]
 
 Heraldic societies abound in Africa, Asia, Australasia, the Americas and Europe. Heraldry aficionados participate in the Society for Creative Anachronism, medieval revivals, micronations and other related projects. Modern armigers use heraldry to express ancestral and personal heritage as well as professional, academic, civic, and national pride. Little is left of class identification in modern heraldry, where the emphasis is more than ever on expression of identity.[140]
 

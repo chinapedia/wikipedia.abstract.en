@@ -1,4 +1,4 @@
-Trimyristin-3D-vdW.png, molecule. Note the three fatty acid chains attached to the central glycerol portion of the molecule.|alt=A space-filling model of an unsaturated triglyceride.]] Fat_composition_in_foods.png
+, molecule. Note the three fatty acid chains attached to the central glycerol portion of the molecule.|alt=A space-filling model of an unsaturated triglyceride.]]
 
 FATS are one of the three main macronutrients, along with carbohydrates and proteins.[1] Fat molecules consist of primarily carbon and hydrogen atoms and are therefore hydrophobic and are soluble in organic solvents and insoluble in water. Examples include cholesterol, phospholipids, and triglycerides.
 
@@ -15,7 +15,7 @@ Saturated fats can stack themselves in a closely packed arrangement, so they can
 
 Chemical structure
 
-Triglyceride_Structural_Formulae_V.1.png within the carbon chain (GREEN highlighted). The third fatty acid (a polyunsaturated fatty acid, highlighted in RED) contains three double bonds within the carbon chain. All carbon-carbon double bonds shown are _cis_ isomers. ]]
+within the carbon chain (GREEN highlighted). The third fatty acid (a polyunsaturated fatty acid, highlighted in RED) contains three double bonds within the carbon chain. All carbon-carbon double bonds shown are _cis_ isomers. ]]
 
 There are many different kinds of fats, but each is a variation on the same chemical structure. All fats are derivatives of fatty acids and glycerol. Most fats are glycerides, particularly triglycerides (triesters of glycerol). One chain of fatty acid is bonded to each of the three -OH groups of the glycerol by the reaction of the carboxyl end of the fatty acid (-COOH) with the alcohol; I.e. three chains per molecule. Water is eliminated and the carbons are linked by an -O- bond through dehydration synthesis. This process is called esterification and fats are therefore esters. As a simple visual illustration, if the kinks and angles of these chains were straightened out, the molecule would have the shape of a capital letter E. The fatty acids would each be a horizontal line; the glycerol "backbone" would be the vertical line that joins the horizontal lines. Fats therefore have "ester" bonds.
 
@@ -23,7 +23,7 @@ The properties of any specific fat molecule depend on the particular fatty acids
 
   _trans_ Unsaturated (Example shown: Elaidic acid)                                                                    _cis_ Unsaturated (Example shown: Oleic acid)                                 Saturated (Example shown: Stearic acid)
   -------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Elaidic-acid-3D-balls.png                                                                                            Oleic-acid-3D-ball-&-stick.png                                                Stearic-acid-3D-balls.png
+
   Elaidic acid is the principal _trans_ unsaturated fatty acid often found in partially hydrogenated vegetable oils.   Oleic acid is a _cis_ unsaturated fatty acid making up 55–80% of olive oil.   Stearic acid is a saturated fatty acid found in animal fats and is the intended product in full hydrogenation. Stearic acid is neither _cis_ nor _trans_ because it has no carbon-carbon double bonds.
 
   : Examples of fatty acids.
@@ -44,7 +44,7 @@ Fats are also sources of essential fatty acids, an important dietary requirement
 
 Adipose tissue
 
-Fatmouse.jpg mouse on the left has large stores of adipose tissue. For comparison, a mouse with a normal amount of adipose tissue is shown on the right.]] In animals, adipose tissue, or fatty tissue is the body's means of storing metabolic energy over extended periods of time. Adipocytes (fat cells) store fat derived from the diet and from liver metabolism. Under energy stress these cells may degrade their stored fat to supply fatty acids and also glycerol to the circulation. These metabolic activities are regulated by several hormones (e.g., insulin, glucagon and epinephrine). Adipose tissue also secretes the hormone leptin. [6]
+mouse on the left has large stores of adipose tissue. For comparison, a mouse with a normal amount of adipose tissue is shown on the right.]] In animals, adipose tissue, or fatty tissue is the body's means of storing metabolic energy over extended periods of time. Adipocytes (fat cells) store fat derived from the diet and from liver metabolism. Under energy stress these cells may degrade their stored fat to supply fatty acids and also glycerol to the circulation. These metabolic activities are regulated by several hormones (e.g., insulin, glucagon and epinephrine). Adipose tissue also secretes the hormone leptin. [6]
 
 The location of the tissue determines its metabolic profile: visceral fat is located within the abdominal wall (i.e., beneath the wall of abdominal muscle) whereas "subcutaneous fat" is located beneath the skin (and includes fat that is located in the abdominal area beneath the skin but _above_ the abdominal muscle wall). Visceral fat was recently discovered to be a significant producer of signaling chemicals (i.e., hormones), among which several are involved in inflammatory tissue responses. One of these is resistin which has been linked to obesity, insulin resistance, and Type 2 diabetes. This latter result is currently controversial, and there have been reputable studies supporting all sides on the issue.
 

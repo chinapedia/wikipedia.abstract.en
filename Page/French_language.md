@@ -13,7 +13,7 @@ Geographic distribution
 
 Europe
 
-Knowledge_French_EU_map.svg and candidate countries[18]]] Spoken by 19.71% of the European Union's population, French is the third most widely spoken mother tongue or foreign language in the EU after English and German.[19][20]
+and candidate countries[18]]] Spoken by 19.71% of the European Union's population, French is the third most widely spoken mother tongue or foreign language in the EU after English and German.[19][20]
 
 Under the Constitution of France, French has been the official language of the Republic since 1992[21] (although the ordinance of Villers-Cotterêts made it mandatory for legal documents in 1539). France mandates the use of French in official government publications, public education except in specific cases (though these dispositions are often ignored) and legal contracts; advertisements must bear a translation of foreign words.
 
@@ -31,13 +31,13 @@ Sub-Saharan Africa is the region where the French language is most likely to exp
 
 Americas
 
-Arret.jpg (French for "stop") are used in Canada while the English _stop,_ which is also a valid French word, is used in France as well as other French-speaking countries and regions.]] French is the second most common language in Canada, after English, and both are official languages at the federal level. It is the first language of 9.5 million people or 29% and the second language for 2.07 million or 6% of the entire population of Canada.[38] French is the sole official language in the province of Quebec, being the mother tongue for some 7 million people, or almost 80% (2006 Census) of the province. About 95% of the people of Quebec speak French as either their first or second language, and for some as their third language. Quebec is also home to the city of Montreal, which is the world's 4th-largest French-speaking city, by number of first language speakers.[39] New Brunswick and Manitoba are the only officially bilingual provinces, though full bilingualism is enacted only in New Brunswick, where about one third of the population is Francophone. French is also an official language of all of the territories (Northwest Territories, Nunavut, and Yukon). Out of the three, Yukon has the most French speakers, comprising just under 4% of the population.[40] Furthermore, while French is not an official language in Ontario, the French Language Services Act ensures that provincial services are to be available in the language. The Act applies to areas of the province where there are significant Francophone communities, namely Eastern Ontario and Northern Ontario. Elsewhere, sizable French-speaking minorities are found in southern Manitoba, Nova Scotia, Prince Edward Island and the Port au Port Peninsula in Newfoundland and Labrador, where the unique Newfoundland French dialect was historically spoken. Smaller pockets of French speakers exist in all other provinces. The city of Ottawa, the Canadian capital, is also effectively bilingual, as it is on the other side of a river from Quebec, opposite the major city of Gatineau, and is required to offer governmental services in French as well as English.
+(French for "stop") are used in Canada while the English _stop,_ which is also a valid French word, is used in France as well as other French-speaking countries and regions.]] French is the second most common language in Canada, after English, and both are official languages at the federal level. It is the first language of 9.5 million people or 29% and the second language for 2.07 million or 6% of the entire population of Canada.[38] French is the sole official language in the province of Quebec, being the mother tongue for some 7 million people, or almost 80% (2006 Census) of the province. About 95% of the people of Quebec speak French as either their first or second language, and for some as their third language. Quebec is also home to the city of Montreal, which is the world's 4th-largest French-speaking city, by number of first language speakers.[39] New Brunswick and Manitoba are the only officially bilingual provinces, though full bilingualism is enacted only in New Brunswick, where about one third of the population is Francophone. French is also an official language of all of the territories (Northwest Territories, Nunavut, and Yukon). Out of the three, Yukon has the most French speakers, comprising just under 4% of the population.[40] Furthermore, while French is not an official language in Ontario, the French Language Services Act ensures that provincial services are to be available in the language. The Act applies to areas of the province where there are significant Francophone communities, namely Eastern Ontario and Northern Ontario. Elsewhere, sizable French-speaking minorities are found in southern Manitoba, Nova Scotia, Prince Edward Island and the Port au Port Peninsula in Newfoundland and Labrador, where the unique Newfoundland French dialect was historically spoken. Smaller pockets of French speakers exist in all other provinces. The city of Ottawa, the Canadian capital, is also effectively bilingual, as it is on the other side of a river from Quebec, opposite the major city of Gatineau, and is required to offer governmental services in French as well as English.
 
-French_in_the_United_States.png are not included.]] According to the United States Census Bureau (2011), French is the fourth[41] most-spoken language in the United States after English, Spanish, and Chinese, when all forms of French are considered together and all dialects of Chinese are similarly combined. French remains the second most-spoken language in the states of Louisiana, Maine, Vermont and New Hampshire. Louisiana is home to many distinct dialects, collectively known as Louisiana French. According to the 2000 United States Census, there are over 194,000 people in Louisiana who speak French at home, the most of any state if Creole French is excluded.[42] New England French, essentially a variant of Canadian French, is spoken in parts of New England. Missouri French was historically spoken in Missouri and Illinois (formerly known as Upper Louisiana), but is nearly extinct today.[43] French also survived in isolated pockets along the Gulf Coast of what was previously French Lower Louisiana, such as Mon Louis Island, Alabama and DeLisle, Mississippi (the latter only being discovered by linguists in the 1990s) but these varieties are severely endangered or presumed extinct.
+are not included.]] According to the United States Census Bureau (2011), French is the fourth[41] most-spoken language in the United States after English, Spanish, and Chinese, when all forms of French are considered together and all dialects of Chinese are similarly combined. French remains the second most-spoken language in the states of Louisiana, Maine, Vermont and New Hampshire. Louisiana is home to many distinct dialects, collectively known as Louisiana French. According to the 2000 United States Census, there are over 194,000 people in Louisiana who speak French at home, the most of any state if Creole French is excluded.[42] New England French, essentially a variant of Canadian French, is spoken in parts of New England. Missouri French was historically spoken in Missouri and Illinois (formerly known as Upper Louisiana), but is nearly extinct today.[43] French also survived in isolated pockets along the Gulf Coast of what was previously French Lower Louisiana, such as Mon Louis Island, Alabama and DeLisle, Mississippi (the latter only being discovered by linguists in the 1990s) but these varieties are severely endangered or presumed extinct.
 
 French is one of Haiti's two official languages. It is the principal language of writing, school instruction, and administrative use. It is spoken by all educated Haitians and is used in the business sector. It is also used for ceremonial events such as weddings, graduations and church masses. About 70–80% of the country's population have Haitian Creole as their first language; the rest speak French as a first language. The second official language is the recently standardized Haitian Creole, which virtually the entire population of Haiti speaks. Haitian Creole is one of the French-based creole languages, drawing the large majority of its vocabulary from French, with influences from West African languages, as well as several European languages. Haitian Creole is closely related to Louisiana Creole and the creole from the Lesser Antilles.[44]
 
-French is the official language of both French Guiana on the South American continent,[45] and of Saint Pierre and Miquelon,[46] an archipelago off the coast of Newfoundland in North America. France_colonial_Empire10.png
+French is the official language of both French Guiana on the South American continent,[45] and of Saint Pierre and Miquelon,[46] an archipelago off the coast of Newfoundland in North America.
 
 Asia
 
@@ -49,7 +49,7 @@ Middle East
 
 Lebanon
 
-Bienvenue_a_Rechmaya.jpg and French at the entrance of Rechmaya in Lebanon.]]
+and French at the entrance of Rechmaya in Lebanon.]]
 
 A former French mandate, Lebanon designates Arabic as the sole official language, while a special law regulates cases when French can be publicly used. Article 11 of Lebanon's Constitution states that "Arabic is the official national language. A law determines the cases in which the French language is to be used".[50] The French language in Lebanon is a widespread second language among the Lebanese people, and is taught in many schools along with Arabic and English. French is used on Lebanese pound bank notes, on road signs, on Lebanese license plates, and on official buildings (alongside Arabic).
 
@@ -65,7 +65,7 @@ The UAE has the status in the Organisation internationale de la Francophonie as 
 
 Oceania and Australasia
 
-CFP_500_recto.jpg (€4.20; US$4.70) banknote, used in French Polynesia, New Caledonia and Wallis and Futuna.]] French is an official language of the Pacific Island nation of Vanuatu, where 45% of the population can speak it.[54] In the French special collectivity of New Caledonia, 97% of the population can speak, read and write French[55] while in French Polynesia this figure is 95%,[56] and in the French collectivity of Wallis and Futuna, it is 84%.[57]
+(€4.20; US$4.70) banknote, used in French Polynesia, New Caledonia and Wallis and Futuna.]] French is an official language of the Pacific Island nation of Vanuatu, where 45% of the population can speak it.[54] In the French special collectivity of New Caledonia, 97% of the population can speak, read and write French[55] while in French Polynesia this figure is 95%,[56] and in the French collectivity of Wallis and Futuna, it is 84%.[57]
 
 In French Polynesia and to a lesser extent Wallis and Futuna, where oral and written knowledge of the French language has become almost nearly universal (95% and 84% respectively), French increasingly tends to displace the native Polynesian languages as the language most spoken at home. In French Polynesia, the percentage of the population who reported that French was the language they use the most at home rose from 67% at the 2007 census to 74% at the 2017 census.[58][59] In Wallis and Futuna, the percentage of the population who reported that French was the language they use the most at home rose from 10% at the 2008 census to 13% at the 2018 census.[60][61]
 
@@ -96,8 +96,6 @@ Dialects
 -   Swiss French
 -   Vietnamese French
 -   West Indian French
-
-Dialects_of_the_french_language.png
 
 
 History
@@ -147,8 +145,6 @@ The future of the French language is often discussed in the news. For example, i
 
 
 Phonology
-
-10-07-2013_-_Mary_Robinson_juge_«_inacceptables_»_les_violences_faites_aux_femmes_en_RDC_-_VOA.ogg
 
 Although there are many French regional accents, foreign learners normally use only one variety of the language.
 

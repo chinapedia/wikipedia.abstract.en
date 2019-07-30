@@ -1,4 +1,4 @@
-150_deg_water_contact_angle.png Dew_2.jpg drop on a hydrophobic leaf surface]] Cutting_a_water_droplet_using_a_superhydrophobic_knife_on_superhydrophobic_surfaces.ogv using a superhydrophobic knife on superhydrophobic surfaces]] Drops_I.jpg
+drop on a hydrophobic leaf surface]] using a superhydrophobic knife on superhydrophobic surfaces]]
 
 In chemistry, HYDROPHOBICITY is the physical property of a molecule (known as a HYDROPHOBE) that is seemingly repelled from a mass of water.[1] (Strictly speaking, there is no repulsive force involved; it is an absence of attraction.) In contrast, hydrophiles are attracted to water.
 
@@ -18,13 +18,11 @@ The hydrophobic interaction is mostly an entropic effect originating from the di
 
 Superhydrophobicity
 
-DropConnectionAngel.jpg SUPERHYDROPHOBIC surfaces, such as the leaves of the lotus plant, are those that are extremely difficult to wet. The contact angles of a water droplet exceeds 150°.[6] This is referred to as the lotus effect, and is primarily a physical property related to interfacial tension, rather than a chemical property.
+SUPERHYDROPHOBIC surfaces, such as the leaves of the lotus plant, are those that are extremely difficult to wet. The contact angles of a water droplet exceeds 150°.[6] This is referred to as the lotus effect, and is primarily a physical property related to interfacial tension, rather than a chemical property.
 
 Theory
 
 In 1805, Thomas Young defined the contact angle _θ_ by analyzing the forces acting on a fluid droplet resting on a solid surface surrounded by a gas.[7]
-
-Contact_angle.svg Contact_angle_microstates.svg
 
 _γ__(SG)  = _γ__(SL) + _γ__(LG)cos _θ_ 
 where
@@ -62,8 +60,6 @@ Contact angle is a measure of static hydrophobicity, and contact angle hysteresi
 
 
 Research and development
-
-A-simple-and-fast-fabrication-of-a-both-self-cleanable-and-deep-UV-antireflective-quartz-1556-276X-7-430-S1.ogv Hydrophoby2.webm
 
 Dettre and Johnson discovered in 1964 that the superhydrophobic lotus effect phenomenon was related to rough hydrophobic surfaces, and they developed a theoretical model based on experiments with glass beads coated with paraffin or TFE telomer. The self-cleaning property of superhydrophobic micro-nanostructured surfaces was reported in 1977.[15] Perfluoroalkyl, perfluoropolyether, and RF plasma -formed superhydrophobic materials were developed, used for electrowetting and commercialized for bio-medical applications between 1986 and 1995.[16][17][18][19] Other technology and applications have emerged since the mid 1990s.[20] A durable superhydrophobic hierarchical composition, applied in one or two steps, was disclosed in 2002 comprising nano-sized particles ≤ 100 nanometers overlaying a surface having micrometer-sized features or particles ≤ 100 micrometers. The larger particles were observed to protect the smaller particles from mechanical abrasion.[21]
 

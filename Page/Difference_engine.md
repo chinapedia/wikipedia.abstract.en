@@ -1,4 +1,4 @@
-Babbage_Difference_Engine.jpg's difference engine, the first one actually built from Babbage's design. The design has the same precision on all columns, but when calculating polynomials, the precision on the higher-order columns could be lower.]]
+'s difference engine, the first one actually built from Babbage's design. The design has the same precision on all columns, but when calculating polynomials, the precision on the higher-order columns could be lower.]]
 
 A DIFFERENCE ENGINE, first created by Charles Babbage, is an automatic mechanical calculator designed to tabulate polynomial functions. Its name is derived from the method of divided differences, a way to interpolate or tabulate functions by using a small set of polynomial coefficients. Most mathematical functions commonly used by engineers, scientists and navigators, including logarithmic and trigonometric functions, can be approximated by polynomials, so a difference engine can compute many useful tables of numbers.
 
@@ -7,7 +7,7 @@ The historical difficulty in producing error-free tables by teams of mathematici
 
 History
 
-LondonScienceMuseumsReplicaDifferenceEngine.jpg Difference_engine_Scheutz.jpg The notion of a mechanical calculator for mathematical functions can be traced back to the Antikythera mechanism of the 2nd century BC, while early modern examples are attributed to Pascal and Leibniz in the 17th century. In 1784 J. H. Müller, an engineer in the Hessian army, devised and built an adding machine and described the basic principles of a difference machine in a book published in 1786 (the first written reference to a difference machine is dated to 1784), but he was unable to obtain funding to progress with the idea.[1][2][3]
+The notion of a mechanical calculator for mathematical functions can be traced back to the Antikythera mechanism of the 2nd century BC, while early modern examples are attributed to Pascal and Leibniz in the 17th century. In 1784 J. H. Müller, an engineer in the Hessian army, devised and built an adding machine and described the basic principles of a difference machine in a book published in 1786 (the first written reference to a difference machine is dated to 1784), but he was unable to obtain funding to progress with the idea.[1][2][3]
 
 Charles Babbage's difference engines
 
@@ -60,8 +60,6 @@ It has since been transferred to Intellectual Ventures in Seattle where it is on
 
 Operation
 
-Babbage_Engine_Demonstration_pt._3.webm
-
 The difference engine consists of a number of columns, numbered from 1 to _N_. The machine is able to store one decimal number in each column. The machine can only add the value of a column _n_ + 1 to column _n_ to produce the new value of _n_. Column _N_ can only store a constant, column 1 displays (and possibly prints) the value of the calculation on the current iteration.
 
 The engine is programmed by setting initial values to the columns. Column 1 is set to the value of the polynomial at the start of computation. Column 2 is set to a value derived from the first and higher derivatives of the polynomial at the same value of _X_. Each of the columns from 3 to _N_ is set to a value derived from the (n − 1) first and higher derivatives of the polynomial.
@@ -95,7 +93,7 @@ The engine represents negative numbers as ten's complements. Subtraction amounts
 
 Method of differences
 
-Difference_engine.JPG in Mountain View, California]] The principle of a difference engine is Newton's method of divided differences. If the initial value of a polynomial (and of its finite differences) is calculated by some means for some value of _X_, the difference engine can calculate any number of nearby values, using the method generally known as the METHOD OF FINITE DIFFERENCES. For example, consider the quadratic polynomial
+in Mountain View, California]] The principle of a difference engine is Newton's method of divided differences. If the initial value of a polynomial (and of its finite differences) is calculated by some means for some value of _X_, the difference engine can calculate any number of nearby values, using the method generally known as the METHOD OF FINITE DIFFERENCES. For example, consider the quadratic polynomial
 
     p(x) = 2x² − 3x + 2 
 

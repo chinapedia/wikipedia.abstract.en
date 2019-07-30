@@ -18,7 +18,7 @@ The cult of the deity spread to other parts of the Roman Empire in the 2nd centu
 
 Rise to power
 
-L'agonie_(1902)_Elagabalus_conduisant_un_char_a_seize_chevaux_blancs,_ou,_sur_un_autel_de_pierreries,_reposait_le_cone_de_pierre_noire.jpg behind him, as illustrated by Auguste Leroux for the 1902 edition of the novel _L'Agonie_ by Jean Lombard.]] When the Emperor Macrinus came to power, he suppressed the threat against his reign from the family of his assassinated predecessor, Caracalla, by exiling them—Julia Maesa, her two daughters, and her eldest grandson Elagabalus—to their estate at Emesa in Syria.[18] Almost upon arrival in Syria, Maesa began a plot with her advisor and Elagabalus' tutor, Gannys, to overthrow Macrinus and elevate the fourteen-year-old Elagabalus to the imperial throne.[19][20]
+behind him, as illustrated by Auguste Leroux for the 1902 edition of the novel _L'Agonie_ by Jean Lombard.]] When the Emperor Macrinus came to power, he suppressed the threat against his reign from the family of his assassinated predecessor, Caracalla, by exiling them—Julia Maesa, her two daughters, and her eldest grandson Elagabalus—to their estate at Emesa in Syria.[18] Almost upon arrival in Syria, Maesa began a plot with her advisor and Elagabalus' tutor, Gannys, to overthrow Macrinus and elevate the fourteen-year-old Elagabalus to the imperial throne.[19][20]
 
 His mother publicly declared that he was the illegitimate son of Caracalla, and therefore deserving the loyalty of Roman soldiers and senators who had sworn allegiance to Caracalla.[21][22] After Julia Maesa displayed her wealth to the Third Legion at Raphana they swore allegiance to Elagabalus. At sunrise on 16 May 218, Publius Valerius Comazon, commander of the legion, declared him emperor.[23] To strengthen his legitimacy Elagabalus assumed Caracalla's names, _Marcus Aurelius Antoninus_.[24][25]
 
@@ -35,7 +35,7 @@ The senators responded by acknowledging Elagabalus as emperor and accepting his 
 
 Emperor (218–222)
 
-Elagabalus_Denarius_Fortuna_Head.png commissioned by Elagabalus, bearing his likeness. INscription: IMP. ANTONINVS PIVS AVG.]]
+commissioned by Elagabalus, bearing his likeness. INscription: IMP. ANTONINVS PIVS AVG.]]
 
 Elagabalus and his entourage spent the winter of 218 in Bithynia at Nicomedia,[41] where the emperor's religious beliefs first presented themselves as a problem. The contemporary historian Cassius Dio suggests that Gannys was in fact killed by the new emperor because he pressured Elagabalus to live "temperately and prudently".[42] To help Romans adjust to having an oriental priest as emperor, Julia Maesa had a painting of Elagabalus in priestly robes sent to Rome and hung over a statue of the goddess Victoria in the Senate House.[43] This placed senators in the awkward position of having to make offerings to Elagabalus whenever they made offerings to Victoria.[44]
 
@@ -49,7 +49,7 @@ The relationships between Julia Maesa, Julia Soaemias, and Elagabalus were stron
 
 Religious controversy
 
-Elagabalus_Aureus_Sol_Invictus.png depicting Elagabalus. The reverse reads _Sanct(o) Deo Soli Elagabal(o)_ (_To the Holy Sun God Elagabalus_), and depicts a four-horse, gold chariot carrying the holy stone of the Emesa temple. Inscription: IMP. C. M. AVR. ANTONINVS P. F. AVG. / SANCT DEO SOLI - ELAGABAL]]
+depicting Elagabalus. The reverse reads _Sanct(o) Deo Soli Elagabal(o)_ (_To the Holy Sun God Elagabalus_), and depicts a four-horse, gold chariot carrying the holy stone of the Emesa temple. Inscription: IMP. C. M. AVR. ANTONINVS P. F. AVG. / SANCT DEO SOLI - ELAGABAL]]
 
 Since the reign of Septimius Severus, sun worship had increased throughout the Empire.[57] Elagabalus saw this as an opportunity to install Elagabal as the chief deity of the Roman pantheon. The god was renamed _Deus Sol Invictus_, meaning _God the Undefeated Sun_, and honored above Jupiter.[58]
 
@@ -65,7 +65,7 @@ The most sacred relics from the Roman religion were transferred from their respe
 
 Sexuality and gender controversy
 
-Aquilia_Severa_coin_obverse.png, the second wife of Elagabalus. The marriage caused a public outrage because Aquilia was a Vestal Virgin, sworn by Roman law to celibacy for 30 years. Inscription: IVLIA AQVILIA SEVERA AVG.]]
+, the second wife of Elagabalus. The marriage caused a public outrage because Aquilia was a Vestal Virgin, sworn by Roman law to celibacy for 30 years. Inscription: IVLIA AQVILIA SEVERA AVG.]]
 
 The question of Elagabalus' sexual orientation is confused, owing to salacious and unreliable sources. Elagabalus married and divorced five women,[69] three of whom are known. His first wife was Julia Cornelia Paula;[70] the second was the Vestal Virgin Julia Aquilia Severa.[71][72]
 
@@ -85,7 +85,7 @@ Following the failure of various attempts on Alexander's life, Elagabalus stripp
 
 Assassination
 
-Napoli,_museo_archeologico_(18330093110).jpg, Naples]] The Emperor complied and on 11 March 222 he publicly presented his cousin along with his own mother, Julia Soaemias. On their arrival the soldiers started cheering Alexander while ignoring Elagabalus, who ordered the summary arrest and execution of anyone who had taken part in this display of insubordination.[91] In response, members of the Praetorian Guard attacked Elagabalus and his mother:
+, Naples]] The Emperor complied and on 11 March 222 he publicly presented his cousin along with his own mother, Julia Soaemias. On their arrival the soldiers started cheering Alexander while ignoring Elagabalus, who ordered the summary arrest and execution of anyone who had taken part in this display of insubordination.[91] In response, members of the Praetorian Guard attacked Elagabalus and his mother:
 
 Following his assassination, many associates of Elagabalus were killed or deposed, including his lover Hierocles.[92] His religious edicts were reversed and the stone of Elagabal was sent back to Emesa.[93] Women were again barred from attending meetings of the Senate.[94][95] The practice of _damnatio memoriae_—erasing from the public record a disgraced personage formerly of note—was systematically applied in his case.[96] Several images, including an over-life-size statue of him as Hercules that is now in Naples, were re-carved with the face of Alexander Severus.[97]
 
@@ -106,7 +106,7 @@ Furthermore, the political climate in the aftermath of Elagabalus' reign, as wel
 
 Herodian
 
-Medal_of_Elagabalus.jpg. Inscription: IMP. ANTONINVS PIVS AVG.]]
+. Inscription: IMP. ANTONINVS PIVS AVG.]]
 
 Another contemporary of Elagabalus' was Herodian, a minor Roman civil servant who lived from c. 170 until 240. His work, _History of the Roman Empire since Marcus Aurelius_, commonly abbreviated as _Roman History_, is an eyewitness account of the reign of Commodus until the beginning of the reign of Gordian III. His work largely overlaps with Dio's own _Roman History_, but the texts, written independently of each other, agree more often than not about the emperor and his short but eventful reign .[106]
 
@@ -125,7 +125,7 @@ Some recent historians paint a more favorable picture of the emperor's rule. Mar
 
 Legacy
 
-Elagabalus_Forchtenstein.jpg ]] Due to the ancient tradition about him, Elagabalus became something of an (anti-)hero in the Decadent movement of the late 19th century.[114] He often appears in literature and other creative media as the epitome of a young, amoral aesthete. His life and character have informed or at least inspired many famous works of art, by Decadents, even by contemporary artists. The most notable of these works include:[115]
+]] Due to the ancient tradition about him, Elagabalus became something of an (anti-)hero in the Decadent movement of the late 19th century.[114] He often appears in literature and other creative media as the epitome of a young, amoral aesthete. His life and character have informed or at least inspired many famous works of art, by Decadents, even by contemporary artists. The most notable of these works include:[115]
 
 Fiction
 
@@ -159,7 +159,7 @@ Music
 
 Paintings
 
-The_Roses_of_Heliogabalus.jpg'' (1888), Lawrence Alma-Tadema.]]
+'' (1888), Lawrence Alma-Tadema.]]
 
 -   _Heliogabalus, High Priest of the Sun_ (1866), by Pre-Raphaelite Simeon Solomon
 -   One of the most notorious incidents laid to his account[123] is immortalized in the 19th-century painting _The Roses of Heliogabalus_ (1888), by the Anglo-Dutch academician Sir Lawrence Alma-Tadema. It shows guests at one of his extravagant dinner parties smothered under a mass of "violets and other flowers" dropped from above.

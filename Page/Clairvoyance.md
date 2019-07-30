@@ -1,4 +1,4 @@
-Paul_Sedir_-_Les_Miroirs_Magiques_-_1907_p22_Clairvoyance.gif CLAIRVOYANCE (; from French _clair_ meaning "clear" and _voyance_ meaning "vision") is the alleged ability to gain information about an object, person, location, or physical event through extrasensory perception.[1][2] Any person who is claimed to have such ability is said accordingly to be a CLAIRVOYANT ()[3] ("one who sees clearly").
+CLAIRVOYANCE (; from French _clair_ meaning "clear" and _voyance_ meaning "vision") is the alleged ability to gain information about an object, person, location, or physical event through extrasensory perception.[1][2] Any person who is claimed to have such ability is said accordingly to be a CLAIRVOYANT ()[3] ("one who sees clearly").
 
 Claims for the existence of paranormal and psychic abilities such as clairvoyance have not been supported by scientific evidence published in high impact factor peer reviewed journals.[4] Parapsychology explores this possibility, but the existence of the paranormal is not accepted by the scientific community.
 
@@ -35,8 +35,6 @@ Parapsychology
 Early research
 
 The earliest record of somnambulistic clairvoyance is credited to the Marquis de Puységur, a follower of Franz Mesmer, who in 1784 was treating a local dull-witted peasant named Victor Race. During treatment, Race reportedly would go into trance and undergo a personality change, becoming fluent and articulate, and giving diagnosis and prescription for his own disease as well as those of others.[11] Clairvoyance was a reported ability of some mediums during the spiritualist period of the late 19th and early 20th centuries, and psychics of many descriptions have claimed clairvoyant ability up to the present day.[12]
-
-Character_reader_and_Clairvoyant.jpg
 
 Early researchers of clairvoyance included William Gregory, Gustav Pagenstecher, and Rudolf Tischner.[13] Clairvoyance experiments were reported in 1884 by Charles Richet. Playing cards were enclosed in envelopes and a subject put under hypnosis attempted to identify them. The subject was reported to have been successful in a series of 133 trials but the results dropped to chance level when performed before a group of scientists in Cambridge. J. M. Peirce and E. C. Pickering reported a similar experiment in which they tested 36 subjects over 23,384 trials which did not obtain above chance scores.[14]
 

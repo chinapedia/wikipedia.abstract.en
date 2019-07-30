@@ -56,8 +56,6 @@ Quantum computers have gained widespread interest because some problems of pract
 
 Relationship to other complexity classes
 
-BQP_complexity_class_diagram.svg
-
 This class is defined for a quantum computer and its natural corresponding class for an ordinary computer (or a Turing machine plus a source of randomness) is BPP. Just like P and BPP, BQP is low for itself, which means BQP^(BQP) = BQP[7]. Informally, this is true because polynomial time algorithms are closed under composition. If a polynomial time algorithm calls as a subroutine polynomially many polynomial time algorithms, the resulting algorithm is still polynomial time.
 
 BQP contains P and BPP and is contained in AWPP,[8] PP[9] and PSPACE.[10] In fact, BQP is low for PP, meaning that a PP machine achieves no benefit from being able to solve BQP problems instantly, an indication of the possible difference in power between these similar classes. The known relationships with classic complexity classes are:

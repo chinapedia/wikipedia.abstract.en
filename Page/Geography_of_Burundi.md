@@ -1,4 +1,4 @@
-Burundi_Topography.png BURUNDI is located in central Africa, to the east of the Democratic Republic of the Congo, at the coordinates .
+BURUNDI is located in central Africa, to the east of the Democratic Republic of the Congo, at the coordinates .
 
 
 Physical geography
@@ -11,7 +11,7 @@ Burundi in general has a tropical highland climate, with a considerable daily te
 
 Terrain
 
-Haut_plateau.jpg The terrain of Burundi is hilly and mountainous, dropping to a plateau in the east. The southern and eastern plains have been categorised by the World Wildlife Fund as part of the Central Zambezian Miombo woodlands ecoregion.
+The terrain of Burundi is hilly and mountainous, dropping to a plateau in the east. The southern and eastern plains have been categorised by the World Wildlife Fund as part of the Central Zambezian Miombo woodlands ecoregion.
 
 The lowest point in the country is at Lake Tanganyika, at , with the highest point being on Mount Heha, at .[1] Natural hazards are posed in Burundi by flooding and landslides.
 

@@ -16,8 +16,6 @@ Article Four of the United States Constitution also states that the Congress has
 
 Judicial branch
 
-US_Court_of_Appeals_and_District_Court_map.svg
-
 The American legal system includes both state courts and federal courts. State courts hear cases involving state law, and such federal laws as are not restricted to hearing in federal courts. Federal courts may only hear cases where federal jurisdiction can be established. Specifically, the court must have both subject-matter jurisdiction over the matter of the claim and personal jurisdiction over the parties.
 
 The Federal Courts are courts of limited jurisdiction, meaning that they only exercise powers granted to them by the Constitution and Federal Laws. There are several forms of subject-matter jurisdiction, but the two most commonly appealed to are federal-question jurisdiction and diversity jurisdiction. Federal question jurisdiction is available when the plaintiff raises a claim that arises under the laws, treaties, or Constitution of the United States, as opposed to claims arising under state law.[2] By the "Well-Pleaded Complaint" rule, federal question jurisdiction is not available if the federal issue arises only as a defense to a state-law claim.[3] Diversity jurisdiction, on the other hand, is available regarding state-law claims if every plaintiff is from a different state from every defendant (the requirement for so-called complete or total diversity) and the amount in controversy exceeds $75,000.[4]

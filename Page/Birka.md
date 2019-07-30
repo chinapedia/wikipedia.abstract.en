@@ -5,7 +5,7 @@ The archaeological sites of Birka and Hovgården, on the neighbouring island of 
 
 History
 
-Björkö_in_Sweden.png Birka_hus_2008a.JPG Birka_Boot_2008.JPG Birka_Karte_2008.jpg Suecia_1-069_;_Björkö.jpg. Engraving by Willem Swidde.]]
+. Engraving by Willem Swidde.]]
 
 Birka was founded around AD 750 by either a king in order to control and expand trade or it emerged from a seasonal trading place around.[5] It is one of the earliest urban settlements in Scandinavia. Birka was the Baltic link in the river and portage route through Ladoga (Aldeigja) and Novgorod (Holmsgard) to the Byzantine Empire and the Abbasid Califate.[6] Birka was also important as the site of the first known Christian congregation in Sweden, founded in 831 by Saint Ansgar.
 
@@ -72,7 +72,7 @@ The exiled Swedish King Anund Uppsale confirms that either one of the churches w
 
 Probable fortress
 
-Entry_in_a_defensive_wall_on_Birka_September_2015.jpg Danes attacked Birka, accompanied with the deposed king Anund, which caused great distress in the town.
+Danes attacked Birka, accompanied with the deposed king Anund, which caused great distress in the town.
 
   Being in great difficulty they fled to a neighbouring city (ad civitatem, quæ iuxta erat, confugerunt) and began to promise and offer to their gods—But inasmuch as the city was not strong and there were few to offer resistance, they sent messengers to the Danes and asked for friendship and alliance. —Hergeir, the faithful servant of the Lord, was angry with them and said, "They will lead away your wives and sons as captives, they will burn our city (urbs) and town (vicus)"[16] and will destroy you with the sword (Chapter XIX)
 
@@ -160,7 +160,7 @@ The remark does not make it clear if Adalvard found the city destroyed or if tha
 
 Björkö archaeological site
 
-Birka_Svarta_jorden_1991.jpg BirkaExcavation2.png The exact location of Birka was also lost during the centuries, leading to speculation from Swedish historians. However, the island of Björkö was first claimed to have been Birka already about 1450 in the so-called "Chronicle of Sweden" (_Prosaiska krönikan_):
+The exact location of Birka was also lost during the centuries, leading to speculation from Swedish historians. However, the island of Björkö was first claimed to have been Birka already about 1450 in the so-called "Chronicle of Sweden" (_Prosaiska krönikan_):
 
   And there were three capitals in Sweden two of which were not long away from Uppsala (Vpsala). The one was called Sigtuna (siktuna) and the other Birka (birka). Birka was on an island in Lake Mälaren (mälar) that is called Björkö (birköö). The third was in Westgötaland (westergötlandh) and was called Skara (skara).[23]
 

@@ -16,7 +16,7 @@ There are different theories as to the origin of the name Aruba:[3]
 
 History
 
-Oranjestad.jpg]]
+]]
 
 Aruba's first inhabitants are thought to have been Caquetío Amerindians from the Arawak tribe, who migrated there from Venezuela to escape attacks by the Caribs. Fragments of the earliest known Indian settlements date back to 1000 AD. As sea currents made canoe travel to other Caribbean islands difficult, Caquetio culture remained more closely associated with that of mainland South America.
 
@@ -53,7 +53,7 @@ After his death in 1986, Croes was proclaimed _Libertador di Aruba_. At a conven
 
 Geography
 
-Aruba_map.png Aruba_-_Encyclopaedie_van_Nederlandsch_West-Indië-Antilles_part_1,_right.gif.'']] 197306_aruba_naturalbridge.jpg
+.'']]
 
 Aruba is a generally flat, riverless island in the Leeward Antilles island arc of the Lesser Antilles in the southern part of the Caribbean. It has white sandy beaches on the western and southern coasts of the island, relatively sheltered from fierce ocean currents.[12] This is where most tourist development has occurred.[13] The northern and eastern coasts, lacking this protection, are considerably more battered by the sea and have been left largely untouched by humans.
 
@@ -76,11 +76,9 @@ The island, with a population of just over 100,000 inhabitants, does not have ma
 
 Fauna
 
-The island of Aruba, being isolated from the main land of South America, has fostered the evolution of multiple endemic animals. The island provides a habitat for the endemic Aruban Whiptail and Aruba Rattlesnake, as well as an endemic subspecies of Burrowing Owl and Brown-throated Parakeet. Natural_Pool_in_Aruba-July_4,_2018.jpg The rattlesnake and the owl are printed on the Aruban currency.
+The island of Aruba, being isolated from the main land of South America, has fostered the evolution of multiple endemic animals. The island provides a habitat for the endemic Aruban Whiptail and Aruba Rattlesnake, as well as an endemic subspecies of Burrowing Owl and Brown-throated Parakeet. The rattlesnake and the owl are printed on the Aruban currency.
 
 Flora
-
-Aruba_Cacti.jpg
 
 The flora of Aruba differs from the typical tropical island vegetation. Xeric scrublands are common, with various forms of cacti, thorny shrubs, and evergreens. The most known plant is the Aloe vera, which has a place on the Coat of Arms of Aruba.
 
@@ -91,7 +89,7 @@ By the Köppen climate classification, Aruba has a hot semi-arid climate (Köppe
 
 Demographics
 
-Aruba-demography.png in 2005; number of inhabitants given in thousands]] In terms of country of birth, the population is estimated to be 66% Aruban, 9.1% Colombian, 4.3% Dutch, 4.1% Dominican, 3.2% Venezuelan, 2.2% Curaçaoan, 1.5% Haitian, 1.1% Peruvian, 1.1% Chinese, 6.2% other.[18]
+in 2005; number of inhabitants given in thousands]] In terms of country of birth, the population is estimated to be 66% Aruban, 9.1% Colombian, 4.3% Dutch, 4.1% Dominican, 3.2% Venezuelan, 2.2% Curaçaoan, 1.5% Haitian, 1.1% Peruvian, 1.1% Chinese, 6.2% other.[18]
 
 In terms of ethnic composition, the population is estimated to be 75% mixed European/Amerindian/African, 15% Black and 10% other ethnicities. The Arawak heritage is stronger on Aruba than on most Caribbean islands, and a quite big portion of Arubans who claim their ethnicity as Dutch possess Arawak blood. Although no full-blooded Aboriginals remain, the features of the islanders clearly indicate their genetic Arawak heritage. Most of the population is descended from Caquetio Indians and Dutch and to a lesser extent of Africans, Spanish, Portuguese, English, French, and Sephardic Jewish ancestors.
 
@@ -145,7 +143,7 @@ For census purposes, Aruba is divided into eight regions, which have no administ
 
 Government
 
-EU_OCT_and_OMR_map_en.png]] Willem-Alexander,_Prince_of_Orange.jpg is the head of state of Aruba]] Parlamentodiaruba.jpg]]
+]] is the head of state of Aruba]] ]]
 
 As a constituent country of the Kingdom of the Netherlands, Aruba's politics take place within a framework of a 21-member Parliament and an eight-member Cabinet. The governor of Aruba is appointed for a six-year term by the monarch, and the prime minister and deputy prime minister are elected by the Staten (Parliament) for four-year terms. The Staten is made up of 21 members elected by direct, popular vote to serve a four-year term.[23]
 
@@ -173,8 +171,6 @@ There are two medical schools, Aureus University School of Medicine and Xavier U
 
 Economy
 
-Aruba_export_map.png
-
 Aruba has one of the highest standards of living in the Caribbean region. There is a low unemployment rate.[34]
 
 The GDP per capita for Aruba was estimated to be $28,924 in 2014; among the highest in the Caribbean and the Americas.[35] Its main trading partners are Colombia, the United States, Venezuela, and the Netherlands.
@@ -184,8 +180,6 @@ The island's economy has been dominated by three main industries: tourism, aloe 
 The official exchange rate of the Aruban florin is pegged to the US dollar at 1.79 florins to US$1.[36][37] Because of this fact, and due to a large number of American tourists, many businesses operate using US dollars instead of florins, especially in the hotel and resort districts.
 
 Tourism
-
-RIU_Palace_Antillas_-_Aruba.jpg
 
 About three quarters of the Aruban gross national product is earned through tourism or related activities.[38] Aruba's tourism industry is large and well-developed; in 2018 it received 1.082.000 stay-over tourists. Most tourists are from North-America, with a market-share of 73,3%, which is followed by Latin-America with 15.2% and Europe with 8,3%.[39] The largest tourist-generating countries for Aruba are the United States (predominantly from the north-east US), Canada, the Netherlands and in South America, mainly Venezuela and Colombia.
 
@@ -201,11 +195,11 @@ Defense on Aruba is the responsibility of the Kingdom of the Netherlands. The Ne
 
 Culture
 
-Centrum_Oranjestad.jpg]]
+]]
 
 On 18 March, Aruba celebrates its National Day. In 1976, Aruba presented its National Anthem (Aruba Dushi Tera) and Flag.
 
-Aruba has a varied culture. According to the _Bureau Burgelijke Stand en Bevolkingsregister_ (BBSB), in 2005 there were ninety-two different nationalities living on the island. Dutch influence can still be seen, as in the celebration of "Sinterklaas" on 5 and 6 December and other national holidays like 27 April, when in Aruba and the rest of the Kingdom of the Netherlands the King's birthday or "Dia di Rey" (Koningsdag) is celebrated. Iguanas_Aruba.JPGs on a rooftop in Aruba]]
+Aruba has a varied culture. According to the _Bureau Burgelijke Stand en Bevolkingsregister_ (BBSB), in 2005 there were ninety-two different nationalities living on the island. Dutch influence can still be seen, as in the celebration of "Sinterklaas" on 5 and 6 December and other national holidays like 27 April, when in Aruba and the rest of the Kingdom of the Netherlands the King's birthday or "Dia di Rey" (Koningsdag) is celebrated. s on a rooftop in Aruba]]
 
 Christmas and New Year's Eve are celebrated with the typical music and songs for gaitas for Christmas and the Dande for New Year, and _ayaca_, _ponche crema_, ham, and other typical foods and drinks. Millions of florins worth of fireworks are burnt at midnight on New Year's Eve. On 25 January, Betico Croes' birthday is celebrated. Dia di San Juan is celebrated on 24 June.
 
@@ -217,8 +211,6 @@ Tourism from the United States has recently increased the visibility of American
 
 
 Infrastructure
-
-Aruba_Palm_Beach.JPG
 
 Aruba's Queen Beatrix International Airport is located near Oranjestad. According to the Aruba Airport Authority, almost 1.7 million travelers used the airport in 2005, 61% of whom were Americans.
 
@@ -238,8 +230,6 @@ There are two telecommunications providers: Setar, a government-based company an
 
 
 Places of interest
-
-CHAPEL_OF_OUR_LADY_OF_ALTO_VISTA_-_ARUBA.JPG
 
 Beaches
 

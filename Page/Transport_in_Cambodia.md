@@ -1,11 +1,11 @@
-MapCambodiaByFussi.png National_highway_No_1.JPG, Kandal Province.]] Cambodia_Main_Road.jpg
+, Kandal Province.]]
 
 The system of TRANSPORT IN CAMBODIA, rudimentary at the best of times, was severely damaged in the chaos that engulfed the nation in the latter half of the 20th century. The country's weak transport infrastructure hindered emergency relief efforts, exacerbating the logistical issues of procurement of supplies in general and their distribution. Cambodia received Soviet technical assistance and equipment to support the maintenance of the transportation network.
 
 
 Road transport
 
-Bottles_of_gasoline_Bbang.jpg.]]
+.]]
 
 
 Highway network
@@ -66,7 +66,7 @@ According to the Ministry of Communications, Transport, and Post, Cambodia's mai
 
 Seaports and harbors
 
-Ferry_across_the_Mekong_River_in_Neak_Leung.jpg to Neak Leung town]]
+to Neak Leung town]]
 
 Cambodia has two major ports, Phnom Penh Port and Sihanoukville Port, also known as _Kampong Som_, and five minor ports. Phnom Penh, at the junction of the Bassac, the Mekong, and the Tonle Sap Rivers, is the only river port capable of receiving 8,000-ton ships during the wet season and 5,000-ton ships during the dry season. In 2018 the port received 205,000 TEUs totalling 2.9 million tonnes. Its 2018 profits were US$7.35 million, up 36% from 2017.[4]
 
@@ -81,7 +81,7 @@ Merchant marine
 
 Airports
 
-Siem_reap_airport.JPG.]]
+.]]
 
 The country possesses twenty-six airfields, of which only thirteen were usable in the mid-1980s. Eight airfields had permanent-surface runways. Phnom Penh International Airport in Phnom Penh is the largest airport; it also serves as the main base for the renascent Cambodian Air Force.
 

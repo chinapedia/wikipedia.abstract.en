@@ -109,8 +109,6 @@ Foreign relations
 
 Overview
 
-BiH_diplomatic_relations.png
-
 Bosnia and Herzegovina has no diplomatic relations with:[30][31]
 
 -   Bahamas, Saint Lucia, Saint Kitts and Nevis, Dominica, Grenada, Barbados, Guyana,

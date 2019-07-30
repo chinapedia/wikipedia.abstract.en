@@ -1,5 +1,3 @@
-Wfm_cape_breton_island_pseudocolour.jpg
-
 CAPE BRETON ISLAND (—formerly __; or __; ; or simply _Cape Breton_) is an island on the Atlantic coast of North America and part of the province of Nova Scotia, Canada.[1]
 
 The island accounts for 18.7% of Nova Scotia's total area. Although the island is physically separated from the Nova Scotia peninsula by the Strait of Canso, the long rock-fill Canso Causeway connects it to mainland Nova Scotia. The island is east-northeast of the mainland with its northern and western coasts fronting on the Gulf of Saint Lawrence; its western coast also forms the eastern limits of the Northumberland Strait. The eastern and southern coasts front the Atlantic Ocean; its eastern coast also forms the western limits of the Cabot Strait. Its landmass slopes upward from south to north, culminating in the highlands of its northern cape. One of the world's larger salt water lakes, ("Arm of Gold" in French), dominates the island's centre.

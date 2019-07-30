@@ -13,7 +13,7 @@ Kernighan has been a Professor in the Computer Science Department of Princeton U
 
 Early life and education
 
-Brian_Kernighan_in_2012_at_Bell_Labs_3.jpg in 2012 at Bell Labs.]] Kernighan was born in Toronto. He attended the University of Toronto between 1960 and 1964, earning his Bachelor's degree in engineering physics.[5] He received his PhD in electrical engineering from Princeton University in 1969 for research supervised by Peter Weiner.[6]
+in 2012 at Bell Labs.]] Kernighan was born in Toronto. He attended the University of Toronto between 1960 and 1964, earning his Bachelor's degree in engineering physics.[5] He received his PhD in electrical engineering from Princeton University in 1969 for research supervised by Peter Weiner.[6]
 
 
 Career and research

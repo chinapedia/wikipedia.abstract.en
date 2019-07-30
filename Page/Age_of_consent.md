@@ -9,8 +9,6 @@ There are many "grey areas" in this area of law, some regarding unspecific and u
 
 Age of consent by continent
 
-Age of consent for heterosexual sex in various countries
-
 Africa
 
 -   Ages of consent in Africa
@@ -58,7 +56,7 @@ Reforms in the 19th and 20th century
 
 A general shift in social and legal attitudes toward issues of sex occurred during the modern era. Attitudes on the appropriate age of permission for females to engage in sexual activity drifted toward adulthood. While ages from ten to thirteen years were typically regarded as acceptable ages for sexual consent in Western countries during the mid-19th century,[17] by the end of the 19th century changing attitudes towards sexuality and childhood resulted in the raising of the age of consent.[18]
 
-William_Thomas_Stead.jpg in the late 19th century on the issue of child prostitution in London led to public outrage and ultimately to the raising of the age of consent to sixteen.]]
+in the late 19th century on the issue of child prostitution in London led to public outrage and ultimately to the raising of the age of consent to sixteen.]]
 
 English common law had traditionally set the age of consent within the range of ten to twelve years old, but the Offences Against the Person Act 1875 raised this to thirteen in Great Britain and Ireland. Early feminists of the Social Purity movement, such as Josephine Butler and others, instrumental in securing the repeal of the Contagious Diseases Acts, began to turn towards the problem of child prostitution by the end of the 1870s. Sensational media revelations about the scourge of child prostitution in London in the 1880s then caused outrage among the respectable middle-classes, leading to pressure for the age of consent to be raised again.
 

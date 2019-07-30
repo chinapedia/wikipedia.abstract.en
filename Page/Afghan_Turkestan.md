@@ -1,4 +1,4 @@
-AfghanTurk.PNG.]]
+.]]
 
 AFGHAN TURKESTAN (Persian/Uzbek/Turkmen/Pashto: ) is a region in northern Afghanistan, on the border with the former Soviet republics of Turkmenistan, Uzbekistan and Tajikistan. In the 19th century there was a province in Afghanistan named Turkestan Province until abolished by Abdur Rahman,[1] and was centred on Mazari Sharif and included territory in the modern provinces of Balkh, Kunduz, Jowzjan, Sar-e Pol, and Faryab. The whole territory, from the junction of the Kokcha river with the Amu Darya on the north-east to the province of Herat on the south-west, was some in length, with an average width from the Russian frontier to the Hindu Kush of 114 miles (183 km). It thus comprised about or roughly two-ninths of the former Kingdom of Afghanistan.
 

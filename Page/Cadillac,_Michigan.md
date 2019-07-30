@@ -23,8 +23,6 @@ City of Cadillac
 
 In 1878, Ephraim Shay perfected his Shay locomotive, which was particularly effective in its ability to climb steep grades, maneuver sharp turns, and accommodate imperfections in railroad tracks. Cadillac was home to the Michigan Iron Works Company, which manufactured the Shay locomotive for a short time in the early 1880s.[11] The lumber industry continued to dominate the city, attracting a large immigrant labor force, most of whom were Swedish. (Later Cadillac made sister city arrangements with Mölnlycke, Sweden, and Rovaniemi, Finland).
 
-Cadillac_City_Park.jpg
-
 In 1899, the Cadillac Club formed, the forerunner of the Cadillac Area Chamber of Commerce.[12] Gradually, various manufacturing firms found success in Cadillac.
 
 By the early 20th century, with the lumber depleted, the timber industry was in decline. Industrial development soon dominated the local economy, and it continues to do so today. Cadillac's range of industries includes the manufacture of pleasure boats, automotive parts, water-well components, vacuum cleaners, and rubber products.[13]
@@ -36,8 +34,6 @@ In the summer, tourists travel to the city and region for boating, fishing, hiki
 Thirsty's, a gas station on M-55 west of Cadillac, was the home of Samantha or "Sam The Bear" from the 1970s through the late 1990s, when Sam died of old age. Sam was the only brown bear in captivity in the US at the time to hibernate naturally. Sam lived in a large cage in front of the gas station and was fed ice cream cones by tourists every summer.
 
 In October 1975 the rock group Kiss visited Cadillac and performed at the Cadillac High School gymnasium. They played the concert to honor the Cadillac High School football team. In previous years, the team had compiled a record of sixteen consecutive victories, but the 1974 squad opened the season with two losses. The assistant coach, Jim Neff, an English teacher and rock'n'roll fan, thought to inspire the team by playing Kiss music in the locker room. He also connected the team's game plan, K-I-S-S or "Keep It Simple Stupid", with the band. The team went on to win seven straight games and their conference co-championship. After learning of their association with the team's success, the band decided to visit the school and play for the homecoming game.[21][22]
-
-Shay_Locomotive.jpg
 
 Historic landmarks
 
@@ -111,7 +107,7 @@ Manufacturing has been the greatest employer in Cadillac since the logging indus
 
 Major manufacturers include Four Winns, AAR Manufacturing, Avon Rubber, FIAMM Technologies, Michigan Rubber Products and Rexair.
 
-Cadillac_Lakeside_District.jpg The center of the city is generally perceived to have a "small-town-feel."[46] In the summer, the downtown fills with tourists, many from southern Michigan. The city center is one block from Lake Cadillac. For visitors by boat who dock at the public docks, it is nearly as accessible by boat as it is by car. The city's immediate proximity to two lakes, as well as Manistee National Forest, Pere Marquette State Forest, Mitchell State Park and a number of major highways, has established tourism as a significant sector of the local economy.[47]
+The center of the city is generally perceived to have a "small-town-feel."[46] In the summer, the downtown fills with tourists, many from southern Michigan. The city center is one block from Lake Cadillac. For visitors by boat who dock at the public docks, it is nearly as accessible by boat as it is by car. The city's immediate proximity to two lakes, as well as Manistee National Forest, Pere Marquette State Forest, Mitchell State Park and a number of major highways, has established tourism as a significant sector of the local economy.[47]
 
 During the winter months, Lake Cadillac and Lake Mitchell freeze over and the city becomes covered with snow. Cadillac is connected to a number of trail systems popular with winter recreation enthusiasts. The city integrates unusually well into the corridors of travel created by snowmobilers. [48]
 

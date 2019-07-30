@@ -20,7 +20,7 @@ In 1605, Sinan Pasha marched to take Tabriz, but the army was undermined by Kös
 
 War with the Habsburgs: 1604–06
 
-The Long Turkish War between the Ottomans and the Habsburg Monarchy had been going on for over a decade by the time Ahmed ascended the throne. Grand Vizier Malkoç Ali Pasha marched to the western front from Constantinople on 3 June 1604 and arrived in Belgrade, but died there, so Lala Mehmed Pasha was appointed as the Grand Vizier and the commander of the western army. Under Mehmed Pasha, the western army recaptured Pest and Vác, but failed to capture Esztergom as the siege was lifted due to unfavourable weather and the objections of the soldiers. Meanwhile, the Prince of Transylvania, Stephen Bocskay, who struggled for the region's independence and had formerly supported the Habsburgs, sent a messenger to the Porte asking for help. Upon the promise of help, his forces also joined the Ottoman forces in Belgrade. With this help, the Ottoman army besieged Esztergom and captured it on 4 November 1605. Bocskai, with Ottoman help, captured Nové Zámky (Uyvar) and forces under Tiryaki Hasan Pasha took Veszprém and Palota. Sarhoş İbrahim Pasha, the Beylerbey of Nagykanizsa (Kanije), attacked the Austrian region of Istria.[8] Sultan_Ahmed_I.jpg of Ahmed I. ]] However, with Jelali revolts in Anatolia more dangerous than ever and a defeat in the eastern front, Mehmed Pasha was called to Constantinople. Mehmed Pasha suddenly died there, whilst preparing to leave for the east. Kuyucu Murad Pasha then negotiated the Peace of Zsitvatorok, which abolished the tribute of 30,000 ducats paid by Austria and addressed the Habsburg emperor as the equal of the Ottoman sultan. The Jelali revolts were a strong factor in the Ottomans' acceptance of the terms. This signaled the end of Ottoman growth in Europe.[9]
+The Long Turkish War between the Ottomans and the Habsburg Monarchy had been going on for over a decade by the time Ahmed ascended the throne. Grand Vizier Malkoç Ali Pasha marched to the western front from Constantinople on 3 June 1604 and arrived in Belgrade, but died there, so Lala Mehmed Pasha was appointed as the Grand Vizier and the commander of the western army. Under Mehmed Pasha, the western army recaptured Pest and Vác, but failed to capture Esztergom as the siege was lifted due to unfavourable weather and the objections of the soldiers. Meanwhile, the Prince of Transylvania, Stephen Bocskay, who struggled for the region's independence and had formerly supported the Habsburgs, sent a messenger to the Porte asking for help. Upon the promise of help, his forces also joined the Ottoman forces in Belgrade. With this help, the Ottoman army besieged Esztergom and captured it on 4 November 1605. Bocskai, with Ottoman help, captured Nové Zámky (Uyvar) and forces under Tiryaki Hasan Pasha took Veszprém and Palota. Sarhoş İbrahim Pasha, the Beylerbey of Nagykanizsa (Kanije), attacked the Austrian region of Istria.[8] of Ahmed I. ]] However, with Jelali revolts in Anatolia more dangerous than ever and a defeat in the eastern front, Mehmed Pasha was called to Constantinople. Mehmed Pasha suddenly died there, whilst preparing to leave for the east. Kuyucu Murad Pasha then negotiated the Peace of Zsitvatorok, which abolished the tribute of 30,000 ducats paid by Austria and addressed the Habsburg emperor as the equal of the Ottoman sultan. The Jelali revolts were a strong factor in the Ottomans' acceptance of the terms. This signaled the end of Ottoman growth in Europe.[9]
 
 Jelali revolts
 
@@ -32,7 +32,7 @@ Due to the widespread violence of the Jelali revolts, a great number of people h
 
 Ottoman-Safavid War: Peace and continuation
 
-Savary_Franco_Ottoman_Capitulations_1615.jpg between Ahmed I and Henry IV of France, published by François Savary de Brèves in 1615[13]]]
+between Ahmed I and Henry IV of France, published by François Savary de Brèves in 1615[13]]]
 
 The new Grand Vizier, Nasuh Pasha, did not want to fight with the Safavids. The Safavid Shah also sent a letter saying that he was willing to sign a peace, with which he would have to send 200 loads of silk every year to Constantinople. On 20 November 1612, the Treaty of Nasuh Pasha was signed, which ceded all the lands the Ottoman Empire had gained in the war of 1578–90 back to Persia and reinstated the 1555 boundaries.[14]
 
@@ -44,11 +44,9 @@ Ahmed I renewed trade treaties with England, France and Venice. In July 1612, th
 
 Architect and service to Islam
 
-Madina_trip_200.jpg
-
 Sultan Ahmed constructed the Sultan Ahmed Mosque, the magnum opus of the Ottoman architecture, across from the Hagia Sophia. The sultan attended the breaking of the ground with a golden pickaxe to begin the construction of the mosque complex. An incident nearly broke out after the sultan discovered that the Blue Mosque contained the same number of minarets as the grand mosque of Mecca. Ahmed became furious at this fault and became remorseful until the Shaykh-ul-Islam recommended that he should erect another minaret at the grand mosque of Mecca and the matter was solved.
 
-Blue_Mosque.jpg]]
+]]
 
 Ahmed became delightedly involved in the eleventh comprehensive renovations of the Kaaba, which had just been damaged by flooding. He sent craftsmen from Constantinople, and the golden rain gutter that kept rain from collecting on the roof of the Ka’ba was successfully renewed. It was again during the era of Sultan Ahmed that an iron web was placed inside the Zamzam Well in Mecca. The placement of this web about three feet below the water level was a response to lunatics who jumped into the well, imagining a promise of a heroic death.
 
@@ -68,7 +66,7 @@ He was responsible for the destruction of the musical clock organ that Elizabeth
 
 Death
 
-Istanbul_-_Tomba_Ahmet_I.JPG]]
+]]
 
 Ahmed I died of typhus and gastric bleeding on 22 November 1617 at the Topkapı Palace, Istanbul. He was buried in Ahmed I Mausoleum, Sultan Ahmed Mosque. He was succeeded by his younger brother Şehzade Mustafa as Sultan Mustafa I. Later three of Ahmed's sons ascended to the throne: Osman II (r. 1618–22), Murad IV (r. 1623–40) and Ibrahim (r. 1640–48).
 

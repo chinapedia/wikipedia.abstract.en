@@ -54,7 +54,7 @@ The current diagnostic and statistical manual of mental diseases (DSM-IV) has in
 
 Ultrasonography
 
-Ultrasonography_of_dilated_penile_sinusoids_during_erection.jpg Penile ultrasonography with doppler can be used to examine the penis in erected state. Most cases of ED of organic causes are related to changes in blood flow in the corpora cavernosa, represented by occlusive artery disease, most often of atherosclerotic origin, or due to failure of the veno-occlusive mechanism. Preceding the ultrasound examination with Doppler, the penis should be examined in B mode, in order to identify possible tumors, fibrotic plaques, calcifications, or hematomas, as well as to evaluate the appearance of the cavernous arteries, which can be tortuous or atheromatous.[40]
+Penile ultrasonography with doppler can be used to examine the penis in erected state. Most cases of ED of organic causes are related to changes in blood flow in the corpora cavernosa, represented by occlusive artery disease, most often of atherosclerotic origin, or due to failure of the veno-occlusive mechanism. Preceding the ultrasound examination with Doppler, the penis should be examined in B mode, in order to identify possible tumors, fibrotic plaques, calcifications, or hematomas, as well as to evaluate the appearance of the cavernous arteries, which can be tortuous or atheromatous.[40]
 
 Erection can be induced by injecting 10-20 µg of prostaglandin E1, with evaluations of the arterial flow every five minutes for 25-30 min (see image). The use of prostaglandin E1 is contraindicated in patients with a predisposition to priapism (e.g., those with sickle cell anemia), as well as in those with an anatomical deformity of the penis or a penile implant. Phentolamine (2 mg) is often added. Visual and tactile stimulation produces better results. Some authors recommend the use of sildenafil by mouth to replace the injectable drugs in cases of contraindications, although the efficacy of such medication is controversial.[41]
 
@@ -100,7 +100,7 @@ The Food and Drug Administration (FDA) does not recommend alternative therapies 
 
 History
 
-Zibik.jpg about her husband's impotence. Ottoman miniature.]] Attempts to treat ED date back well over 1,000 years. In the 8th century, men of Ancient Rome and Greece wore talismans of rooster and goat genitalia, believing these talismans would serve as an aphrodisiac and promote sexual function.[64] In the 13th century Albertus Magnus recommended ingesting roasted wolf penis as a remedy for impotence.[65]
+about her husband's impotence. Ottoman miniature.]] Attempts to treat ED date back well over 1,000 years. In the 8th century, men of Ancient Rome and Greece wore talismans of rooster and goat genitalia, believing these talismans would serve as an aphrodisiac and promote sexual function.[64] In the 13th century Albertus Magnus recommended ingesting roasted wolf penis as a remedy for impotence.[65]
 
 During the late 16th and 17th centuries in France, male impotence was considered a crime, as well as legal grounds for a divorce. The practice, which involved inspection of the complainants by court experts, was declared obscene in 1677.[66][67]
 

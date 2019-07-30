@@ -31,7 +31,7 @@ After Ptolemy was defeated, Alexander had approached Cleopatra. Bowing before he
 
 Transjordan and coastal conquest
 
-Judea_Alexander_Janneüs.PNG Alexander captured Gadara and fought to capture the strong fortress of Amathus in the Transjordan region but was defeated. Alexander was more successful in his expedition against the coastal cities, capturing Raphia and Anthedon. In 96 BC, Jannaeus defeated the inhabitants of Gaza. This victory gained Judean control over the Mediterranean outlet of the Nabatean trade routes. Alexander initially returned his focus back to the Transjordan region, avenging his previous defeat, he destroyed Amathus.
+Alexander captured Gadara and fought to capture the strong fortress of Amathus in the Transjordan region but was defeated. Alexander was more successful in his expedition against the coastal cities, capturing Raphia and Anthedon. In 96 BC, Jannaeus defeated the inhabitants of Gaza. This victory gained Judean control over the Mediterranean outlet of the Nabatean trade routes. Alexander initially returned his focus back to the Transjordan region, avenging his previous defeat, he destroyed Amathus.
 
 Battle of Gaza
 
@@ -44,7 +44,7 @@ Judean Civil War
 
 War with Obodas I
 
-WillemSwiddeAlexanderJannaeus.jpg, seventeenth century]] The Judean Civil War initially began after the conquest of Gaza around 99 BC. Due to Jannaeus's victory at Gaza, the Nabatean kingdom no longer had access to the Mediterranean Sea. Alexander soon captured Gadara, which caused the Nabateans to lose their main trade routes leading to Rome and Damascus. After losing Gadara, the Nabatean king Obodas I launched an attack against Alexander in a steep valley in Gadara where Alexander barely managed to escape. After Jannaeus was defeated in the Battle of Gadara against the Nabataeans, he returned to Jerusalem only to be met with fierce Jewish opposition.
+, seventeenth century]] The Judean Civil War initially began after the conquest of Gaza around 99 BC. Due to Jannaeus's victory at Gaza, the Nabatean kingdom no longer had access to the Mediterranean Sea. Alexander soon captured Gadara, which caused the Nabateans to lose their main trade routes leading to Rome and Damascus. After losing Gadara, the Nabatean king Obodas I launched an attack against Alexander in a steep valley in Gadara where Alexander barely managed to escape. After Jannaeus was defeated in the Battle of Gadara against the Nabataeans, he returned to Jerusalem only to be met with fierce Jewish opposition.
 
 Feast of Tabernacles
 

@@ -1,4 +1,4 @@
-CornwallBasaltGraniteMap.jpg RoughTor.jpg]] BODMIN MOOR ()[1] is a granite moorland in northeastern Cornwall, England. It is in size, and dates from the Carboniferous period of geological history. It includes Brown Willy, the highest point in Cornwall, and Rough Tor, a slightly lower peak. Many of Cornwall's rivers have their sources here. It has been inhabited since at least the Neolithic era, when primitive farmers started clearing trees and farming the land. They left their megalithic monuments, hut circles and cairns, and the Bronze Age culture that followed left further cairns, and more stone circles and stone rows. By medieval and modern times, nearly all the forest was gone and livestock rearing predominated.
+]] BODMIN MOOR ()[1] is a granite moorland in northeastern Cornwall, England. It is in size, and dates from the Carboniferous period of geological history. It includes Brown Willy, the highest point in Cornwall, and Rough Tor, a slightly lower peak. Many of Cornwall's rivers have their sources here. It has been inhabited since at least the Neolithic era, when primitive farmers started clearing trees and farming the land. They left their megalithic monuments, hut circles and cairns, and the Bronze Age culture that followed left further cairns, and more stone circles and stone rows. By medieval and modern times, nearly all the forest was gone and livestock rearing predominated.
 
 The name Bodmin Moor is relatively recent. An early mention is in the _Royal Cornwall Gazette_ of 28 November 1812.[2] The upland area was formerly known as FOWEY MOOR after the River Fowey, which rises within it.[3]
 
@@ -13,7 +13,7 @@ The moor contains about 500 holdings with around 10,000 beef cows, 55,000 breedi
 
 Rivers and inland waters
 
-Top_of_Siblyback_Lake_-_geograph.org.uk_-_222320.jpg]] Stream_below_Garrow_Tor_-_geograph.org.uk_-_29683.jpg at Garrow Tor]] Bodmin Moor is the source of several of Cornwall's rivers: they are mentioned here anti-clockwise from the south.
+]] at Garrow Tor]] Bodmin Moor is the source of several of Cornwall's rivers: they are mentioned here anti-clockwise from the south.
 
 The River Fowey rises at a height of and flows through Lostwithiel and into the Fowey estuary.[13]
 
@@ -30,7 +30,7 @@ File:FoweyLooeRiversMapCornwallUK.gif%7CRivers south of Bodmin Moor File:MapRive
 
 Parishes
 
-St_Neot_Church.jpg]] The parishes on the moor are as follows:
+]] The parishes on the moor are as follows:
 
 +-----------------+----------------+
 | -   Advent      | -   North Hill |
@@ -48,7 +48,7 @@ History and antiquities
 
 Prehistoric times
 
-King_arthurs_hall.JPG]] Kilmar Tor|thumb 10,000 years ago, in the Mesolithic period, hunter-gatherers wandered the area when it was wooded. There are several documented cases of flint scatters being discovered by archaeologists, indicating that these hunter-gatherers practised flint knapping in the region.[20]
+]] 10,000 years ago, in the Mesolithic period, hunter-gatherers wandered the area when it was wooded. There are several documented cases of flint scatters being discovered by archaeologists, indicating that these hunter-gatherers practised flint knapping in the region.[20]
 
 During the Neolithic era, from about 4,500 to 2,300 BC, people began clearing trees and farming the land. It was also in this era that the production of various megalithic monuments began, predominantly long cairns (three of which have currently been identified, at Louden, Catshole and Bearah) and stone circles (sixteen of which have been identified). It was also likely that the naturally forming tors were also viewed in a similar manner to the manmade ceremonial sites.[21]
 
@@ -58,7 +58,7 @@ King Arthur's Hall, thought to be a late Neolithic or early Bronze Age ceremonia
 
 Medieval and modern times
 
-Hawk's_Tor.jpg, west of North Hill]] Where practicable, areas of the moor were used for pasture by herdsmen from the parishes surrounding the moor. Granite boulders were also taken from the moor and used for stone posts and to a certain extent for building (such material is known as moorstone).[26] Granite quarrying only became reasonably productive when gunpowder became available.
+, west of North Hill]] Where practicable, areas of the moor were used for pasture by herdsmen from the parishes surrounding the moor. Granite boulders were also taken from the moor and used for stone posts and to a certain extent for building (such material is known as moorstone).[26] Granite quarrying only became reasonably productive when gunpowder became available.
 
 The moor gave its name (Foweymore) to one of the medieval districts called stannaries which administered tin mining: the boundaries of these were never defined precisely. Until the establishment of a turnpike road through the moor (the present A30) in the 1770s the size of the moorland area made travel within Cornwall very difficult.[27]
 
@@ -93,8 +93,6 @@ See also
 
 
 References
-
-The Cheesewring, a granite tor on the southern edge of Bodmin Moor|thumb A wild horse on Bodmin Moor
 
 -   Weatherhill, Craig (1995) _Cornish Place Names & Language_. Wilmslow: Sigma Leisure
 

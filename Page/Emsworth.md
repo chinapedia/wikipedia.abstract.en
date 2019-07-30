@@ -13,19 +13,15 @@ Emsworth's name came from Anglo Saxon _Æmeles worþ_ = "a man called Æmele's e
 
 Emsworth grew to be larger and more important: in 1239 Emsworth was granted the right to hold a market, and there was also an annual fair[5] In 1332 Emsworth (_Empnesworth_) was one of Hampshire's four Customs Ports.[6]
 
-St_James'_Church,_Emsworth,_Hampshire.JPG
-
 18th and 19th centuries
 
 During the 18th and 19th centuries, Emsworth was still a port. Emsworth was known for shipbuilding, boat building and rope making. Grain from the area was ground into flour by tidal mills and transported by ship to places such as London and Portsmouth. Timber from the area was also exported in the 18th and 19th centuries.[7] The River Ems, which is named after the town (not, as often believed, the town being named after the river), flows into the Slipper millpond. The mill itself is now used as offices.
 
-Emsworth's_old_flour_mill._-_panoramio.jpg In the 19th century Emsworth had as many as 30 pubs and beer houses; today, only nine remain.
+In the 19th century Emsworth had as many as 30 pubs and beer houses; today, only nine remain.
 
 At the beginning of the 19th century, Emsworth had a population of less than 1,200 but it was still considered a large village for the time. By the end of the 18th century, it became fashionable for wealthy people to spend the summer by the sea. In 1805 a bathing house was built where people could have a bath in seawater.
 
 The parish Church of St James was built in 1840. Queen Victoria visited Emsworth in 1842, resulting in Queen Street and Victoria Road being named after her. In 1847 the London, Brighton and South Coast Railway (now the West Coastway line) came to Emsworth, with a railway station built to serve the town.[8]
-
-Emsworth6.JPG
 
 Modern Emsworth
 
@@ -33,11 +29,11 @@ By 1901 the population of Emsworth was about 2,000. It grew rapidly during the 2
 
 In 1902 the once famous Emsworth oyster industry went into rapid decline. This was after many of the guests at mayoral banquets in Southampton and Winchester became seriously ill and four died after consuming oysters. The infection was due to oysters sourced from Emsworth, as the oyster beds had been contaminated with raw sewage.[9][10] Fishing oysters at Emsworth was subsequently halted until new sewers were dug, though the industry never completely recovered.[11]Recently, Emsworth's last remaining oyster boat, _The Terror,_ was restored and is now sailing again.[12]
 
-A_soldier_from_101st_Light_Anti-Aircraft_Regiment_prepares_for_D-Day_by_reading_his_French_handbook_at_a_camp_near_Portsmouth,_29_May_1944._H38831.jpg During the Second World War, nearby Thorney Island was used as a Royal Air Force station, playing a role in defence in the Battle of Britain. The north of Emsworth at this time was used for growing flowers and further north was woodland (today Hollybank Woods).[13] In the run up to D-Day, the Canadian Army used these woods as one of their pre-invasion assembly points for men and material.[14] Today the foundations of their barracks can still be seen. In the 1960s large parts of this area were developed with a mix of bungalow and terraced housing.
+During the Second World War, nearby Thorney Island was used as a Royal Air Force station, playing a role in defence in the Battle of Britain. The north of Emsworth at this time was used for growing flowers and further north was woodland (today Hollybank Woods).[13] In the run up to D-Day, the Canadian Army used these woods as one of their pre-invasion assembly points for men and material.[14] Today the foundations of their barracks can still be seen. In the 1960s large parts of this area were developed with a mix of bungalow and terraced housing.
 
-Elegant_bus_shelter_in_Emsworth_Town_Centre_-_geograph.org.uk_-_805167.jpg For a few years (2001 to 2007), Emsworth held a food festival.[15] It was the largest event of its type in the UK, with more than 50,000 visitors in 2007. The festival was cancelled due to numerous complaints of disruption to residents and businesses in the proximity.[16]
+For a few years (2001 to 2007), Emsworth held a food festival.[15] It was the largest event of its type in the UK, with more than 50,000 visitors in 2007. The festival was cancelled due to numerous complaints of disruption to residents and businesses in the proximity.[16]
 
-Quay_Mill,_Emsworth,_West_Sussex_(geograph_5803415).jpg The harbour is now used almost exclusively for recreational sailing. The town has two sailing clubs, Emsworth Sailing Club (established in 1919) and Emsworth Slipper Sailing Club (in 1921), the latter based at Quay Mill, a former tide mill. Both clubs organise a programme of racing and social events during the sailing season.
+The harbour is now used almost exclusively for recreational sailing. The town has two sailing clubs, Emsworth Sailing Club (established in 1919) and Emsworth Slipper Sailing Club (in 1921), the latter based at Quay Mill, a former tide mill. Both clubs organise a programme of racing and social events during the sailing season.
 
 Emsworth Sailing Club
 

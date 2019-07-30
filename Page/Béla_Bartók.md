@@ -1,5 +1,3 @@
-Bartók_Béla_1927.jpg
-
 BÉLA VIKTOR JÁNOS BARTÓK (; , ; 25 March 1881 – 26 September 1945) was a Hungarian composer, pianist, and ethnomusicologist. He is considered one of the most important composers of the 20th century; he and Franz Liszt are regarded as Hungary's greatest composers . Through his collection and analytical study of folk music, he was one of the founders of comparative musicology, which later became ethnomusicology.
 
 
@@ -18,8 +16,6 @@ Béla was a small and sickly child and suffered from severe eczema until the age
 He gave his first public recital aged 11 in Nagyszőlős, to a warm critical reception . Among the pieces he played was his own first composition, written two years previously: a short piece called "The Course of the Danube" . Shortly thereafter László Erkel accepted him as a pupil .
 
 Early musical career (1899–1908)
-
-Bartok_tablo.jpg
 
 From 1899 to 1903, Bartók studied piano under István Thomán, a former student of Franz Liszt, and composition under János Koessler at the Royal Academy of Music in Budapest . There he met Zoltán Kodály, who made a strong impression on him and became a lifelong friend and colleague . In 1903, Bartók wrote his first major orchestral work, _Kossuth_, a symphonic poem which honored Lajos Kossuth, hero of the Hungarian Revolution of 1848 .
 
@@ -45,7 +41,7 @@ In 1911, Bartók wrote what was to be his only opera, _Bluebeard's Castle_, dedi
 
 Folk music and composition
 
-Bartok_recording_folk_music.jpg to record folk songs sung by peasants in what is now Slovakia]]
+to record folk songs sung by peasants in what is now Slovakia]]
 
 After his disappointment over the Fine Arts Commission competition, Bartók wrote little for two or three years, preferring to concentrate on collecting and arranging folk music. He collected first in the Carpathian Basin (then the Kingdom of Hungary), where he notated Hungarian, Slovak, Romanian, and Bulgarian folk music. He also collected in Moldavia, Wallachia, and (in 1913) Algeria. The outbreak of World War I forced him to stop the expeditions, but he returned to composing with a ballet called _The Wooden Prince_ (1914–16) and the String Quartet No. 2 in (1915–17), both influenced by Debussy.
 
@@ -69,7 +65,7 @@ The first symptoms of his health problems began late in 1940, when his right sho
 
 As his body slowly failed, Bartók found more creative energy, and he produced a final set of masterpieces, partly thanks to the violinist Joseph Szigeti and the conductor Fritz Reiner (Reiner had been Bartók's friend and champion since his days as Bartók's student at the Royal Academy). Bartók's last work might well have been the String Quartet No. 6 but for Serge Koussevitzky's commission for the Concerto for Orchestra. Koussevitsky's Boston Symphony Orchestra premièred the work in December 1944 to highly positive reviews. The Concerto for Orchestra quickly became Bartók's most popular work, although he did not live to see its full impact. In 1944, he was also commissioned by Yehudi Menuhin to write a Sonata for Solo Violin. In 1945, Bartók composed his Piano Concerto No. 3, a graceful and almost neo-classical work, as a surprise 42nd birthday present for Ditta, but he died just over a month before her birthday, with the scoring not quite finished. He had also sketched his Viola Concerto, but had barely started the scoring at his death, leaving completed only the viola part and sketches of the orchestral part.
 
-HUF_1000_1983_obverse.jpg banknote (printed between 1983 and 1992; no longer in circulation)]] Béla Bartók died at age 64 in a hospital in New York City from complications of leukemia (specifically, of secondary polycythemia) on 26 September 1945. His funeral was attended by only ten people. Among them were his wife Ditta, their son Péter, and his pianist friend György Sándor .
+banknote (printed between 1983 and 1992; no longer in circulation)]] Béla Bartók died at age 64 in a hospital in New York City from complications of leukemia (specifically, of secondary polycythemia) on 26 September 1945. His funeral was attended by only ten people. Among them were his wife Ditta, their son Péter, and his pianist friend György Sándor .
 
 Bartók's body was initially interred in Ferncliff Cemetery in Hartsdale, New York. During the final year of communist Hungary in the late 1980s, the Hungarian government, along with his two sons, Béla III and Péter, requested that his remains be exhumed and transferred back to Budapest for burial, where Hungary arranged a state funeral for him on 7 July 1988. He was reinterred at Budapest's Farkasréti Cemetery, next to the remains of Ditta, who died in 1982, the year after his centenary .
 
@@ -80,7 +76,7 @@ Concurrently, Peter Bartók, in association with Argentinian musician Nelson Del
 
 Statues
 
-Statue_of_Béla_Bartók.JPG, Hungary]]
+, Hungary]]
 
 -   A statue of Bartók stands in Brussels, Belgium, near the central train station in a public square, _Spanjeplein-Place d'Espagne_ (; )
 -   A statue stands outside Malvern Court, south of South Kensington Underground Station, and just north of 7 Sydney Place, where he stayed when performing in London. An English Heritage blue plaque, unveiled in 1997, now commemorates Bartók at 7 Sydney Place (; ).
@@ -137,13 +133,13 @@ Bartók also made a lasting contribution to the literature for younger students:
 
 Musical analysis
 
-Bartok_Bela_Baja.jpg]] Musik_Meile_Wien,_Béla_Bartók_(30).jpg Paul Wilson lists as the most prominent characteristics of Bartók's music from late 1920s onwards the influence of the Carpathian basin and European art music, and his changing attitude toward (and use of) tonality, but without the use of the traditional harmonic functions associated with major and minor scales .
+]] Paul Wilson lists as the most prominent characteristics of Bartók's music from late 1920s onwards the influence of the Carpathian basin and European art music, and his changing attitude toward (and use of) tonality, but without the use of the traditional harmonic functions associated with major and minor scales .
 
 Although Bartók claimed in his writings that his music was always tonal, he rarely uses the chords or scales of tonality, and so the descriptive resources of tonal theory are of limited use. George and Elliott focus on alternative methods of signaling tonal centers, via axes of inversional symmetry. Others view Bartók's axes of symmetry in terms of atonal analytic protocols. Richard argues that inversional symmetry is often a byproduct of another atonal procedure, the formation of chords from transpositionally related dyads. Atonal pitch-class theory also furnishes the resources for exploring polymodal chromaticism, projected sets, privileged patterns, and large set types used as source sets such as the equal tempered twelve tone aggregate, octatonic scale (and alpha chord), the diatonic and _heptatonia secunda_ seven-note scales, and less often the whole tone scale and the primary pentatonic collection .
 
 He rarely used the simple aggregate actively to shape musical structure, though there are notable examples such as the second theme from the first movement of his Second Violin Concerto, commenting that he "wanted to show Schoenberg that one can use all twelve tones and still remain tonal" . More thoroughly, in the first eight measures of the last movement of his Second Quartet, all notes gradually gather with the twelfth (G) sounding for the first time on the last beat of measure 8, marking the end of the first section. The aggregate is partitioned in the opening of the Third String Quartet with C–D–D–E in the accompaniment (strings) while the remaining pitch classes are used in the melody (violin 1) and more often as 7–35 (diatonic or "white-key" collection) and 5–35 (pentatonic or "black-key" collection) such as in no. 6 of the _Eight Improvisations_. There, the primary theme is on the black keys in the left hand, while the right accompanies with triads from the white keys. In measures 50–51 in the third movement of the Fourth Quartet, the first violin and cello play black-key chords, while the second violin and viola play stepwise diatonic lines . On the other hand, from as early as the Suite for piano, Op. 14 (1914), he occasionally employed a form of serialism based on compound interval cycles, some of which are maximally distributed, multi-aggregate cycles (; ).
 
-Bartok_-_Sonata_for_two_pianos_and_percussion,_3rd_mov._fibonacci.png intervals (counting in semitones) in Bartók's Sonata for Two Pianos and Percussion, 3rd mov. (1937) (, citing ) ]] Ernő Lendvai (1971) analyses Bartók's works as being based on two opposing tonal systems, that of the acoustic scale and the axis system, as well as using the golden section as a structural principle.
+intervals (counting in semitones) in Bartók's Sonata for Two Pianos and Percussion, 3rd mov. (1937) (, citing ) ]] Ernő Lendvai (1971) analyses Bartók's works as being based on two opposing tonal systems, that of the acoustic scale and the axis system, as well as using the golden section as a structural principle.
 
 Milton Babbitt, in his 1949 critique of Bartók's string quartets, criticized Bartók for using tonality and non tonal methods unique to each piece. Babbitt noted that "Bartók's solution was a specific one, it cannot be duplicated" . Bartók's use of "two organizational principles"—tonality for large scale relationships and the piece-specific method for moment to moment thematic elements—was a problem for Babbitt, who worried that the "highly attenuated tonality" requires extreme non-harmonic methods to create a feeling of closure .
 

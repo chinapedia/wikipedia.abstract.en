@@ -1,5 +1,3 @@
-Gregorio_Allegri_Romano01.jpg
-
 GREGORIO ALLEGRI ()[1][2] was a Roman Catholic priest and Italian composer of the Roman School and brother of Domenico Allegri; he was also a singer. He was born[3] and died in Rome.
 
 

@@ -58,7 +58,7 @@ Dyson favors the dual origin theory: that life first formed as cells, then enzym
 
 There is no direct evidence for the dual origin theory, because once genes developed, they took over, obliterating all traces of the earlier forms of life. In the first origin, the cells were probably just drops of water held together by surface tension, teeming with enzymes and chemical reactions, and having a primitive kind of growth or replication. When the liquid drop became too big, it split into two drops. Many complex molecules formed in these "little city economies" and the probability that genes would eventually develop in them was much greater than in the prebiotic environment.[44]
 
-Dyson_rings.PNG, or "Dyson sphere"]]
+, or "Dyson sphere"]]
 
 Dyson sphere
 
@@ -92,7 +92,7 @@ Dyson series
 
 The Dyson series, the formal solution of an explicitly time-dependent Schrödinger equation by iteration, and the corresponding Dyson time-ordering operator 𝒯 , an entity of basic importance in the mathematical formulation of quantum mechanics, are also named after Dyson.
 
-Freeman_dyson.jpg ]]
+]]
 
 Quantum physics and prime numbers
 
@@ -102,7 +102,7 @@ There are in nature one, two, and three dimensional quasicrystals. Mathematician
 
 Rank of a partition
 
-Rank_of_a_partition.svg]] In number theory and combinatorics rank of a partition of a positive integer is a certain integer associated with the partition. Dyson introduced the concept in a paper published in the journal _Eureka_.[52] It was presented in the context of a study of certain congruence properties of the partition function discovered by the mathematician Srinivasa Ramanujan. A different concept, sharing the same name, is used in combinatorics, where the rank is taken to be the size of the Durfee square of the partition.
+]] In number theory and combinatorics rank of a partition of a positive integer is a certain integer associated with the partition. Dyson introduced the concept in a paper published in the journal _Eureka_.[52] It was presented in the context of a study of certain congruence properties of the partition function discovered by the mathematician Srinivasa Ramanujan. A different concept, sharing the same name, is used in combinatorics, where the rank is taken to be the size of the Durfee square of the partition.
 
 Crank of a partition
 
@@ -117,7 +117,7 @@ Projects Dyson collaborated on
 
 Lumpers and splitters
 
-JohnvonNeumann-LosAlamos.gif Dyson has suggested that philosophers can be broadly, if simplistically, divided into splitters and lumpers. These roughly correspond to materialists, who imagine the world divided into atoms, and Platonists, who regard it as made up of ideas.[55]
+Dyson has suggested that philosophers can be broadly, if simplistically, divided into splitters and lumpers. These roughly correspond to materialists, who imagine the world divided into atoms, and Platonists, who regard it as made up of ideas.[55]
 
 
 Helios

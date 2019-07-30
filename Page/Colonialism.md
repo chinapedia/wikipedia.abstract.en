@@ -1,4 +1,4 @@
-_Musee-de-lArmee-IMG_0976.jpg, an icon of colonialism in tropical lands. This one was used during the Second French colonial empire.]] COLONIALISM is the policy of a nation seeking to extend or retain its authority over other people or territories,[1] generally with the aim of economic dominance[2]. The colonising country seeks to benefit from the colonised country or land mass. In the process, colonisers imposed their religion, economics, and medicinal practices on the natives. Colonialism is largely regarded as a relationship of domination of an indigenous majority by a minority of foreign invaders where the latter rule in pursuit of its interests.[3]
+, an icon of colonialism in tropical lands. This one was used during the Second French colonial empire.]] COLONIALISM is the policy of a nation seeking to extend or retain its authority over other people or territories,[1] generally with the aim of economic dominance[2]. The colonising country seeks to benefit from the colonised country or land mass. In the process, colonisers imposed their religion, economics, and medicinal practices on the natives. Colonialism is largely regarded as a relationship of domination of an indigenous majority by a minority of foreign invaders where the latter rule in pursuit of its interests.[3]
 
 Early records of colonisation go as far back as Phoenicians, an enterprising maritime trading culture that spread across the Mediterranean from 1550 BC to 300 BC and later the Greeks and Persians continued on this line of setting up colonies. The Romans would soon follow, setting up colonies throughout the Mediterranean, Northern Africa, and Western Asia. In the 9th century a new wave of Mediterranean colonisation had begun between competing states such as the Venetians, Genovese and Amalfians, invading the wealthy previously Byzantine or Eastern Roman islands and lands. Venice began with the conquest of Dalmatia and reached its greatest nominal extent at the conclusion of the Fourth Crusade in 1204, with the declaration of the acquisition of three octaves of the Byzantine Empire.
 
@@ -9,7 +9,7 @@ At first, European colonising countries followed policies of mercantilism, in or
 
 Definitions
 
-Fundacion_de_Santiago.jpg founding Santiago de Chile]]
+founding Santiago de Chile]]
 
 _Collins English Dictionary_ defines colonialism as "the policy and practice of a power in extending control over weaker peoples or areas".[5] _Webster's Encyclopedic Dictionary_ defines colonialism as "the system or policy of a nation seeking to extend or retain its authority over other people or territories".[6] The _Merriam-Webster Dictionary_ offers four definitions, including "something characteristic of a colony" and "control by one power over a dependent area or people".[7]
 
@@ -20,7 +20,7 @@ In his preface to Jürgen Osterhammel's _Colonialism: A Theoretical Overview_, R
 
 Types of colonialism
 
-COLLECTIE_TROPENMUSEUM_Rijsttafel_TMnr_60053682.jpg, 1927]] Historians often distinguish between various overlapping forms of colonialism, which are classified into four types: settler colonialism, exploitation colonialism, surrogate colonialism, and internal colonialism.[11]
+, 1927]] Historians often distinguish between various overlapping forms of colonialism, which are classified into four types: settler colonialism, exploitation colonialism, surrogate colonialism, and internal colonialism.[11]
 
 -   Settler colonialism involves large-scale immigration, often motivated by religious, political, or economic reasons. It pursues to replace the original population. Here, a large number of people emigrate to the colony for the purpose of staying and cultivating the land.[12] Australia, Canada, and the United States are all examples of settler colonial societies.[13][14][15]
 -   Exploitation colonialism involves fewer colonists and focuses on the exploitation of natural resources or population as labour, typically to the benefit of the metropole. This category includes trading posts as well as larger colonies where colonists would constitute much of the political and economic administration. Prior to the end of the slave trade and widespread abolition, when indigenous labour was unavailable, slaves were often imported to the Americas, first by the Portuguese Empire, and later by the Spanish, Dutch, French and British.
@@ -51,7 +51,7 @@ The spread of colonial empires was reduced in the late 18th and early 19th centu
 
 The Russian Empire, Ottoman Empire and Austrian Empire existed at the same time as the above empires but did not expand over oceans. Rather, these empires expanded through the more traditional route of the conquest of neighbouring territories. There was, though, some Russian colonisation of the Americas across the Bering Strait. The Empire of Japan modelled itself on European colonial empires. The United States of America gained overseas territories after the Spanish–American War for which the term "American Empire" was coined.
 
-_Arthur_Mees_Flags_of_A_Free_Empire_1910_Cornell_CUL_PJM_1167_01.jpg (as of 1910)]]
+(as of 1910)]]
 
 After the First World War, the victorious allies divided up the German colonial empire and much of the Ottoman Empire between themselves as League of Nations mandates. These territories were divided into three classes according to how quickly it was deemed that they would be ready for independence.
 
@@ -63,7 +63,7 @@ In 1962 the United Nations set up a Special Committee on Decolonisation, often c
 
 European empires in the 20th century
 
-The major European empires consisted of the following colonies at the start of World War I (former colonies of the Spanish Empire became independent before 1914 and are not listed; former colonies of other European empires that previously became independent, such as the former French colony Haiti, are not listed). Seychelles_Governor_inspection_1972.jpg inspecting police guard of honour in 1972]] Isandhlwana.jpg during the Anglo-Zulu War of 1879]]
+The major European empires consisted of the following colonies at the start of World War I (former colonies of the Spanish Empire became independent before 1914 and are not listed; former colonies of other European empires that previously became independent, such as the former French colony Haiti, are not listed). inspecting police guard of honour in 1972]] during the Anglo-Zulu War of 1879]]
 
 The world's colonial population at the time of the First World War totalled about 560 million people, of whom 70% were in British domains, 10% in French, 9% in Dutch, 4% in Japanese, 2% in German, 2% in American, 2% in Portuguese, 1% in Belgian and 1/2 of 1% in Italian possessions. The home domains of the colonial powers had a total population of about 370 million people.[20]
 
@@ -71,7 +71,7 @@ Asking whether colonies paid, economic historian Grover Clark argues an emphatic
 
 British colonies and protectorates
 
-Hakewill,_A_Picturesque_Tour_of_the_Island_of_Jamaica,_Plate_04.jpg, c. 1820]]
+, c. 1820]]
 
 -   Aden
 -   Anglo-Egyptian Sudan
@@ -96,9 +96,9 @@ Hakewill,_A_Picturesque_Tour_of_the_Island_of_Jamaica,_Plate_04.jpg, c. 1820]]
     -   British Virgin Islands
     -   Dominica
     -   Montserrat
-    -   Nevis Procession1877.jpg of 1877: the proclamation of Queen Victoria as Empress of India]]
+    -   Nevis of 1877: the proclamation of Queen Victoria as Empress of India]]
     -   Saint Kitts
--   British Malaya Battle_of_ferozeshah(H_Martens).jpg, 1845–46]]
+-   British Malaya , 1845–46]]
     -   Federated Malay States
     -   Straits Settlements
     -   Unfederated Malay States
@@ -123,7 +123,7 @@ Hakewill,_A_Picturesque_Tour_of_the_Island_of_Jamaica,_Plate_04.jpg, c. 1820]]
 -   Ceylon
 -   Christmas Island
 -   Cocos (Keeling) Islands
--   Cyprus (including Akrotiri and Dhekelia)Resa_del_bacino_del_Brandewater.jpg was the annexation of the Boer Republics to the British Empire in 1902]]
+-   Cyprus (including Akrotiri and Dhekelia) was the annexation of the Boer Republics to the British Empire in 1902]]
 -   Egypt
 -   Falkland Islands
 -   Falkland Islands Dependencies
@@ -136,7 +136,7 @@ Hakewill,_A_Picturesque_Tour_of_the_Island_of_Jamaica,_Plate_04.jpg, c. 1820]]
 -   Gambia
 -   Gibraltar
 -   Gold Coast
--   India (including what is today Pakistan and Bangladesh) A_view_of_shops_with_anti-British_and_pro-Independence_signs,_possibly_on_Kings_Street,_Valetta,_Malta_(5074435957).jpg, c. 1960]]
+-   India (including what is today Pakistan and Bangladesh) , c. 1960]]
 -   Heard Island and McDonald Islands
 -   Ireland
 -   Jamaica
@@ -149,7 +149,7 @@ Hakewill,_A_Picturesque_Tour_of_the_Island_of_Jamaica,_Plate_04.jpg, c. 1820]]
 -   Norfolk Island
 -   Nigeria
 -   Northern Rhodesia
--   Nyasaland Gibraltar_National_Day_027_(9719742224)_(2).jpg in British-controlled Gibraltar]]
+-   Nyasaland in British-controlled Gibraltar]]
 -   Seychelles
 -   Sierra Leone
 -   Southern Rhodesia
@@ -161,7 +161,7 @@ Hakewill,_A_Picturesque_Tour_of_the_Island_of_Jamaica,_Plate_04.jpg, c. 1820]]
 -   Uganda
 -   Tonga
 
-Flag_of_New_Hebrides.svg of the New Hebrides]]
+of the New Hebrides]]
 
 French colonies
 
@@ -169,7 +169,7 @@ French colonies
 -   Algeria
 -   Canada
 -   Clipperton Island
--   Comoros Islands (including Mayotte)Expeditionconstantine.jpg.]]
+-   Comoros Islands (including Mayotte).]]
 -   Corsica
 -   French Guiana
 -   French Equatorial Africa
@@ -179,7 +179,7 @@ French colonies
     -   Gabon
 -   French India (Pondichéry, Chandernagor, Karikal, Mahé and Yanaon)
 -   French Indochina
-    -   Annam Hocquard_and_Tonkinese.jpg, 1884]]
+    -   Annam , 1884]]
     -   Tonkin
     -   Cochinchina
     -   Cambodia
@@ -190,7 +190,7 @@ French colonies
 -   French West Africa
     -   Ivory Coast
     -   Dahomey
-    -   Guinea LeCommandantMarchand.jpg's trek across Africa in 1898]]
+    -   Guinea 's trek across Africa in 1898]]
     -   French Sudan
     -   Mauritania
     -   Niger
@@ -214,7 +214,7 @@ French colonies
 
 Russian colonies and protectorates
 
-Russian_Sloop-of-War_Neva.jpg), Russian America, 1814]]
+), Russian America, 1814]]
 
 -   European Russia
     -   Åland Islands
@@ -234,7 +234,7 @@ Russian_Sloop-of-War_Neva.jpg), Russian America, 1814]]
     -   Kabardino-Balkaria
     -   Kalmykia
     -   Karachay–Cherkessia
-    -   Komi CircassianCoastBattle.JPG strike on a Russian military fort in Caucasus, 1840]]
+    -   Komi strike on a Russian military fort in Caucasus, 1840]]
     -   Lithuania Governorate
     -   Mari El
     -   Mordovia
@@ -246,7 +246,7 @@ Russian_Sloop-of-War_Neva.jpg), Russian America, 1814]]
     -   Altai
     -   Armenia
     -   Azerbaijan
-    -   Buryatia PG_-_Semireche_Cossack.jpg, Semirechye (present-day Kyrgyzstan and Kazakhstan), 1911]]
+    -   Buryatia , Semirechye (present-day Kyrgyzstan and Kazakhstan), 1911]]
     -   Chukotka
     -   Emirate of Bukhara
     -   Georgia
@@ -268,7 +268,7 @@ Russian_Sloop-of-War_Neva.jpg), Russian America, 1814]]
 
 German colonies
 
-Victoria_(Cameroon).jpg (by R. Hellgrewe, 1908)]]
+(by R. Hellgrewe, 1908)]]
 
 -   Bismarck Archipelago
 -   Cameroon
@@ -285,7 +285,7 @@ Victoria_(Cameroon).jpg (by R. Hellgrewe, 1908)]]
 
 Italian colonies and protectorates
 
-Italian_aircraft_attacking_Ottoman_forces_in_Libya_1911_or_1912.jpg during the Italo-Turkish War, 1911]]
+during the Italo-Turkish War, 1911]]
 
 -   Italian Aegean Islands
 -   Italian protectorate of Albania
@@ -301,7 +301,7 @@ Italian_aircraft_attacking_Ottoman_forces_in_Libya_1911_or_1912.jpg during the I
 
 Dutch colonies
 
-Nicolaas_Pieneman_-_The_Submission_of_Prince_Dipo_Negoro_to_General_De_Kock.jpg to General De Kock at the end of the Java War in 1830]]
+to General De Kock at the end of the Java War in 1830]]
 
 -   Dutch Brazil
 -   Dutch Ceylon
@@ -319,7 +319,7 @@ Nicolaas_Pieneman_-_The_Submission_of_Prince_Dipo_Negoro_to_General_De_Kock.jpg 
 
 Portuguese colonies
 
-1600gora.jpg, India, 16th century]]
+, India, 16th century]]
 
 -   Azores
 -   Portuguese Africa
@@ -348,7 +348,7 @@ Portuguese colonies
 
 Spanish colonies
 
-Mestizo.jpg painting from New Spain shows a Spanish man and his indigenous wife.]] 093_La_batalla_de_Tetuan,_de_Marià_Fortuny_(detall).jpg, 1860, by Marià Fortuny]] Entrada_triunfal_de_Arsenio_Martínez_Campos_en_La_Habana,_1878.jpg in Havana, Colonial Cuba, 1878]]
+painting from New Spain shows a Spanish man and his indigenous wife.]] , 1860, by Marià Fortuny]] in Havana, Colonial Cuba, 1878]]
 
 -   Canary Islands
 -   Cape Juby
@@ -385,7 +385,7 @@ Mestizo.jpg painting from New Spain shows a Spanish man and his indigenous wife.
 
 Austro-Hungarian colonies
 
-Sarajevo_1878..jpg resistance during the battle of Sarajevo in 1878 against the Austro-Hungarian occupation]]
+resistance during the battle of Sarajevo in 1878 against the Austro-Hungarian occupation]]
 
 -   Bosnia and Herzegovina
 -   Tianjin
@@ -396,7 +396,7 @@ Sarajevo_1878..jpg resistance during the battle of Sarajevo in 1878 against the 
 
 Danish colonies
 
-EU_OCT_and_OMR_map_en.png and Outermost Regions.]]
+and Outermost Regions.]]
 
 -   Andaman and Nicobar Islands
 -   Danish West Indies (now United States Virgin Islands)
@@ -443,7 +443,7 @@ Norwegian Overseas Territories
 -   Queen Maud Land
 -   Peter I Island
 
-====Numbers of European settlers in the colonies (1500–1914)==== Emigrants_Leave_Ireland_by_Henry_Doyle_1868.jpg left Ireland for Canada and U.S. following the Great Famine in the 1840s]]
+====Numbers of European settlers in the colonies (1500–1914)==== left Ireland for Canada and U.S. following the Great Famine in the 1840s]]
 
 By 1914, Europeans had migrated to the colonies in the millions. Some intended to remain in the colonies as temporary settlers, mainly as military personnel or on business. Others went to the colonies as immigrants. British people were by far the most numerous population to migrate to the colonies: 2.5 million settled in Canada; 1.5 million in Australia; 750,000 in New Zealand; 450,000 in the Union of South Africa; and 200,000 in India. French citizens also migrated in large numbers, mainly to the colonies in the north African Maghreb region: 1.3 million settled in Algeria; 200,000 in Morocco; 100,000 in Tunisia; while only 20,000 migrated to French Indochina. Dutch and German colonies saw relatively scarce European migration, since Dutch and German colonial expansion focused on commercial goals rather than settlement. Portugal sent 150,000 settlers to Angola, 80,000 to Mozambique, and 20,000 to Goa. During the Spanish Empire, approximately 550,000 Spanish settlers migrated to Latin America.[22]
 
@@ -462,7 +462,7 @@ Australian protectorate
 
 New Zealand dependencies
 
-Cook_Islands_Annexation_Ceremony.jpg reading the annexation proclamation to Queen Makea on 7 October 1900.]]
+reading the annexation proclamation to Queen Makea on 7 October 1900.]]
 
 -   Cook Islands
 -   Niue
@@ -474,7 +474,7 @@ Cook_Islands_Annexation_Ceremony.jpg reading the annexation proclamation to Quee
 
 United States colonies and protectorates
 
-Taft_Addressing_First_Philippine_Assembly_1907.jpg addressing the audience at the Philippine Assembly in the Manila Grand Opera House]]
+addressing the audience at the Philippine Assembly in the Manila Grand Opera House]]
 
 -   Alaska
 -   American Samoa
@@ -497,7 +497,7 @@ Taft_Addressing_First_Philippine_Assembly_1907.jpg addressing the audience at th
 
 Japanese colonies and protectorates
 
--   Bonin Islands Martial_law,_Korea_1900s.jpg shot for pulling up rails as a protest against seizure of land without payment by the Japanese]]
+-   Bonin Islands shot for pulling up rails as a protest against seizure of land without payment by the Japanese]]
 -   Karafuto
 -   Korea
 -   Kuril Islands
@@ -513,7 +513,7 @@ Japanese colonies and protectorates
 
 Chinese colonies and protectorates
 
-Pacification_of_the_Dzungars.jpg in 1688.]]
+in 1688.]]
 
 -   Guangxi
 -   Hainan
@@ -560,7 +560,7 @@ Colombian colonies
 
 Argentine colonies and protectorates
 
-Base_Marambio_y_el_Hercules.jpg and control tower, Marambio Airport]]
+and control tower, Marambio Airport]]
 
 -   Protectorate of Peru (1820–1822)
 -   Tierra del Fuego
@@ -592,7 +592,7 @@ Bolivian colonies
 
 Brazil colonies
 
-Tropas_brasileiras_1825.jpg in 1825.]]
+in 1825.]]
 
 -   Acre
 -   Cisplatina
@@ -612,7 +612,7 @@ Moroccan colonies
 
 Siam colonies
 
-Siamese_Army_in_Laos_1893.jpg in 1893.]]
+in 1893.]]
 
 -   Kingdom of Vientiane (1778–1828)
 -   Kingdom of Luang Prabang (1778–1893)
@@ -631,7 +631,7 @@ The term neocolonialism has been used to refer to a variety of contexts since de
 
 Impact of colonialism and colonisation
 
-Nieuws_uit_Indonesië,_het_werk_van_de_Nederlandse_dienst_voor_Volksgezondheid_Weeknummer_46-21_-_Open_Beelden_-_16742.ogv, May 1946]]
+, May 1946]]
 
 The impacts of colonisation are immense and pervasive.[24] Various effects, both immediate and protracted, include the spread of virulent diseases, unequal social relations, detribalization, exploitation, enslavement, medical advances, the creation of new institutions, abolitionism,[25] improved infrastructure,[26] and technological progress.[27] Colonial practices also spur the spread of colonist languages, literature and cultural institutions, while endangering or obliterating those of native peoples. The native cultures of the colonised peoples can also have a powerful influence on the imperial country.
 
@@ -639,7 +639,7 @@ Economy, trade and commerce
 
 Economic expansion, sometimes described as the colonial surplus, has accompanied imperial expansion since ancient times. Greek trade networks spread throughout the Mediterranean region while Roman trade expanded with the primary goal of directing tribute from the colonised areas towards the Roman metropole. According to Strabo, by the time of emperor Augustus, up to 120 Roman ships would set sail every year from Myos Hormos in Roman Egypt to India.[28] With the development of trade routes under the Ottoman Empire,
 
-Aztec civilisation developed into an extensive empire that, much like the Roman Empire, had the goal of exacting tribute from the conquered colonial areas. For the Aztecs, a significant tribute was the acquisition of sacrificial victims for their religious rituals.[29] A_Castro,_Lorenzo_-_A_Dutch_East-Indiaman_off_Hoorn_-_Google_Art_Project.jpg was the first-ever multinational corporation, financed by shares that established the first modern stock exchange.]] On the other hand, European colonial empires sometimes attempted to channel, restrict and impede trade involving their colonies, funneling activity through the metropole and taxing accordingly.
+Aztec civilisation developed into an extensive empire that, much like the Roman Empire, had the goal of exacting tribute from the conquered colonial areas. For the Aztecs, a significant tribute was the acquisition of sacrificial victims for their religious rituals.[29] was the first-ever multinational corporation, financed by shares that established the first modern stock exchange.]] On the other hand, European colonial empires sometimes attempted to channel, restrict and impede trade involving their colonies, funneling activity through the metropole and taxing accordingly.
 
 Despite the general trend of economic expansion, the economic performance of former European colonies varies significantly. In "Institutions as a Fundamental Cause of Long-run Growth", economists Daron Acemoglu, Simon Johnson and James A. Robinson compare the economic influences of the European colonists on different colonies and study what could explain the huge discrepancies in previous European colonies, for example, between West African colonies like Sierra Leone and Hong Kong and Singapore.[30]
 
@@ -655,13 +655,13 @@ Within a colony, the presence of extractive colonial institutions in a given are
 
 Slavery and indentured servitude
 
-Slave_memorial_Zanzibar.jpg. The Sultan of Zanzibar complied with British demands that slavery be banned in Zanzibar and that all the slaves be freed.]]
+. The Sultan of Zanzibar complied with British demands that slavery be banned in Zanzibar and that all the slaves be freed.]]
 
 European nations entered their imperial projects with the goal of enriching the European metropole. Exploitation of non-Europeans and other Europeans to support imperial goals was acceptable to the colonisers. Two outgrowths of this imperial agenda were slavery and indentured servitude. In the 17th century, nearly two-thirds of English settlers came to North America as indentured servants.[37]
 
 European slave traders brought large numbers of African slaves to the Americas by sail. Spain and Portugal had brought African slaves to work at African colonies such as Cape Verde and the Azores, and then Latin America, by the 16th century. The British, French and Dutch joined in the slave trade in subsequent centuries. Ultimately, around 11 million Africans were taken to the Caribbean and North and South America as slaves by European colonisers.[38]
 
-Marchands_d'esclaves_de_Gorée-Jacques_Grasset_de_Saint-Sauveur_mg_8526.jpg, 18th century]]
+, 18th century]]
 
   European empire     Colonial destination    Number of slaves imported[39]
   ------------------- ----------------------- -------------------------------
@@ -680,19 +680,19 @@ Following the Scramble for Africa, an early but secondary focus for most colonia
 
 Military innovation
 
-Aschanti_Gefecht_11_july_1824_300dpi.jpg, 1823–31]] Imperial expansion follows military conquest in most instances. Imperial armies therefore have a long history of military innovation in order to gain an advantage over the armies of the people they aim to conquer. Greeks developed the phalanx system, which enabled their military units to present themselves to their enemies as a wall, with foot soldiers using shields to cover one another during their advance on the battlefield. Under Philip II of Macedon, they were able to organise thousands of soldiers into a formidable battle force, bringing together carefully trained infantry and cavalry regiments.[42] Alexander the Great exploited this military foundation further during his conquests.
+, 1823–31]] Imperial expansion follows military conquest in most instances. Imperial armies therefore have a long history of military innovation in order to gain an advantage over the armies of the people they aim to conquer. Greeks developed the phalanx system, which enabled their military units to present themselves to their enemies as a wall, with foot soldiers using shields to cover one another during their advance on the battlefield. Under Philip II of Macedon, they were able to organise thousands of soldiers into a formidable battle force, bringing together carefully trained infantry and cavalry regiments.[42] Alexander the Great exploited this military foundation further during his conquests.
 
 The Spanish Empire held a major advantage over Mesoamerican warriors through the use of weapons made of stronger metal, predominantly iron, which was able to shatter the blades of axes used by the Aztec civilisation and others. The European development of firearms using gunpowder cemented their military advantage over the peoples they sought to subjugate in the Americas and elsewhere.
 
 The end of empire
 
-Lord_Pethic-Lawrence_and_Gandhi.jpg with Lord Pethwick-Lawrence, British Secretary of State for India, after a meeting on 18 April 1946]] The populations of some colonial territories, such as Canada, enjoyed relative peace and prosperity as part of a European power, at least among the majority; however, minority populations such as First Nations peoples and French-Canadians experienced marginalisation and resented colonial practises. Francophone residents of Quebec, for example, were vocal in opposing conscription into the armed services to fight on behalf of Britain during World War I, resulting in the Conscription crisis of 1917. Other European colonies had much more pronounced conflict between European settlers and the local population. Rebellions broke out in the later decades of the imperial era, such as India's Sepoy Rebellion.
+with Lord Pethwick-Lawrence, British Secretary of State for India, after a meeting on 18 April 1946]] The populations of some colonial territories, such as Canada, enjoyed relative peace and prosperity as part of a European power, at least among the majority; however, minority populations such as First Nations peoples and French-Canadians experienced marginalisation and resented colonial practises. Francophone residents of Quebec, for example, were vocal in opposing conscription into the armed services to fight on behalf of Britain during World War I, resulting in the Conscription crisis of 1917. Other European colonies had much more pronounced conflict between European settlers and the local population. Rebellions broke out in the later decades of the imperial era, such as India's Sepoy Rebellion.
 
 The territorial boundaries imposed by European colonisers, notably in central Africa and South Asia, defied the existing boundaries of native populations that had previously interacted little with one another. European colonisers disregarded native political and cultural animosities, imposing peace upon people under their military control. Native populations were often relocated at the will of the colonial administrators. Once independence from European control was achieved, civil war erupted in some former colonies, as native populations fought to capture territory for their own ethnic, cultural or political group. The Partition of India, a 1947 civil war that came in the aftermath of India's independence from Britain, became a conflict with 500,000 killed. Fighting erupted between Hindu, Sikh and Muslim communities as they fought for territorial dominance. Muslims fought for an independent country to be partitioned where they would not be a religious minority, resulting in the creation of Pakistan.[43]
 
 Post-independence population movement
 
-Notting_Hill_Carnival_2002_large.jpg in London is a celebration led by the Trinidadian and Tobagonian British community.]]
+in London is a celebration led by the Trinidadian and Tobagonian British community.]]
 
 In a reversal of the migration patterns experienced during the modern colonial era, post-independence era migration followed a route back towards the imperial country. In some cases, this was a movement of settlers of European origin returning to the land of their birth, or to an ancestral birthplace. 900,000 French colonists (known as the _Pied-Noirs_) resettled in France following Algeria's independence in 1962. A significant number of these migrants were also of Algerian descent. 800,000 people of Portuguese origin migrated to Portugal after the independence of former colonies in Africa between 1974 and 1979; 300,000 settlers of Dutch origin migrated to the Netherlands from the Dutch West Indies after Dutch military control of the colony ended.[44]
 
@@ -706,7 +706,7 @@ Migration from former colonies has proven to be problematic for European countri
 
 Introduced diseases
 
-Florentinoviruela.JPG" 1540–85)]]
+" 1540–85)]]
 
 Encounters between explorers and populations in the rest of the world often introduced new diseases, which sometimes caused local epidemics of extraordinary virulence.[49] For example, smallpox, measles, malaria, yellow fever, and others were unknown in pre-Columbian America.[50]
 
@@ -733,7 +733,7 @@ Roman universalism was characterised by cultural and religious tolerance and a f
 
 Colonialism and geography
 
-The_National_Archives_UK_-_CO_1069-99-01.jpg in 1953]]
+in 1953]]
 
 Settlers acted as the link between indigenous populations and the imperial hegemony, thus bridging the geographical, ideological and commercial gap between the colonisers and colonised. While the extent in which geography as an academic study is implicated in colonialism is contentious, geographical tools such as cartography, shipbuilding, navigation, mining and agricultural productivity were instrumental in European colonial expansion. Colonisers' awareness of the Earth's surface and abundance of practical skills provided colonisers with a knowledge that, in turn, created power.[70]
 
@@ -749,7 +749,7 @@ David Livingstone stresses "that geography has meant different things at differe
 
 Colonialism and imperialism
 
-Félix_Éboué_and_Charles_DeGaulle.jpg welcomes Charles de Gaulle to Chad]]
+welcomes Charles de Gaulle to Chad]]
 
 A colony is a part of an empire and so colonialism is closely related to imperialism. Assumptions are that colonialism and imperialism are interchangeable, however Robert J. C. Young suggests that imperialism is the concept while colonialism is the practice. Colonialism is based on an imperial outlook, thereby creating a consequential relationship. Through an empire, colonialism is established and capitalism is expanded, on the other hand a capitalist economy naturally enforces an empire. In the next section Marxists make a case for this mutually reinforcing relationship.
 
@@ -781,7 +781,7 @@ Within the former European colonies, non-Europeans and women sometimes faced inv
 
 The Other
 
-The_East_offering_its_riches_to_Britannia_-_Roma_Spiridone,_1778_-_BL_Foster_245.jpg for the boardroom of the British East India Company ]]
+for the boardroom of the British East India Company ]]
 
 "The Other", or "othering" is the process of creating a separate entity to persons or groups who are labelled as different or non-normal due to the repetition of characteristics.[103] Othering is the creation of those who discriminate, to distinguish, label, categorise those who do not fit in the societal norm. Several scholars in recent decades developed the notion of the "other" as an epistemological concept in social theory.[104] For example, postcolonial scholars, believed that colonising powers explained an "other" who were there to dominate, civilise, and extract resources through colonisation of land.[105]
 
@@ -789,7 +789,7 @@ Political geographers explain how colonial/imperial powers (countries, groups of
 
 Post-colonialism
 
-HK_Queen_Victoria_Street_The_Central_Market.jpg in the former British colony of Hong Kong]] Post-colonialism (or post-colonial theory) can refer to a set of theories in philosophy and literature that grapple with the legacy of colonial rule. In this sense, one can regard post-colonial literature as a branch of postmodern literature concerned with the political and cultural independence of peoples formerly subjugated in colonial empires. Many practitioners take Edward Saïd's book _Orientalism_ (1978) as the theory's founding work (although French theorists such as Aimé Césaire (1913–2008) and Frantz Fanon (1925–1961) made similar claims decades before Saïd).
+in the former British colony of Hong Kong]] Post-colonialism (or post-colonial theory) can refer to a set of theories in philosophy and literature that grapple with the legacy of colonial rule. In this sense, one can regard post-colonial literature as a branch of postmodern literature concerned with the political and cultural independence of peoples formerly subjugated in colonial empires. Many practitioners take Edward Saïd's book _Orientalism_ (1978) as the theory's founding work (although French theorists such as Aimé Césaire (1913–2008) and Frantz Fanon (1925–1961) made similar claims decades before Saïd).
 
 Saïd analyzed the works of Balzac, Baudelaire and Lautréamont, arguing that they helped to shape a societal fantasy of European racial superiority. Writers of post-colonial fiction interact with the traditional colonial discourse, but modify or subvert it; for instance by retelling a familiar story from the perspective of an oppressed minor character in the story. Gayatri Chakravorty Spivak's _Can the Subaltern Speak?_ (1998) gave its name to Subaltern Studies.
 
@@ -813,9 +813,9 @@ The 2014 YouGov survey found that British people are mostly proud of colonialism
 
 Colonial migrations
 
-European_Ancestry_Large.svg Nations and regions outside Europe with significant populations of European ancestry[113]
+Nations and regions outside Europe with significant populations of European ancestry[113]
 
-Boerfamily1886.jpg family in South Africa, 1886]]
+family in South Africa, 1886]]
 
 -   AFRICA (see Europeans in Africa)
     -   South Africa (European South African): 16.6% of the population[114]
@@ -840,7 +840,7 @@ Swaziland: People: Ethnic Groups. World Factbook of CIA
 
 -   -   Tunisia (European Tunisians)[122]
 
-Prokudin-Gorskii_Russians_in_Central_Asia.jpg, present-day Kazakhstan, 1911]]
+, present-day Kazakhstan, 1911]]
 
 -   ASIA
     -   Siberia (Russians, Germans and Ukrainians)[123][124]
@@ -863,7 +863,7 @@ HK Census". _Statistical Table_. Retrieved on 2007-03-08.
     -   People's Republic of China (Russians in China)
     -   Indian subcontinent (Anglo-Indians)
 
--   LATIN AMERICA (see White Latin American) Italians_Sao_Paulo.jpg, Brazil, c. 1890]]
+-   LATIN AMERICA (see White Latin American) , Brazil, c. 1890]]
     -   Argentina (European Immigration to Argentina): 97% of the population
 
 Argentina: People: Ethnic Groups. World Factbook of CIA
@@ -898,7 +898,7 @@ Mexico: People: Ethnic Groups. World Factbook of CIA[143]
 Peru: People: Ethnic Groups. World Factbook of CIA
 
 -   -   Paraguay: approx. 20% of the population[147]
-    -   Uruguay: 88% of the population[148]Menonite_Children.JPG of German descent in Belize ]]
+    -   Uruguay: 88% of the population[148] of German descent in Belize ]]
     -   Venezuela (White Venezuelan): 42% of the population[149]
 
 -   Rest of the AMERICAS
@@ -911,7 +911,7 @@ Peru: People: Ethnic Groups. World Factbook of CIA
     -   Greenland: 12% of the population[155]
     -   Martinique: 5% of the population[156]
     -   Saint Barthélemy[157]
-    -   Trinidad and Tobago:[158] 1% of the populationPortuguese_immigrant_family_in_Hawaii_during_the_19th_century.jpg immigrant family in Hawaii during the 19th century]]
+    -   Trinidad and Tobago:[158] 1% of the population immigrant family in Hawaii during the 19th century]]
     -   United States (European American): 72% of the population, including Hispanic and Non-Hispanic Whites.
 -   OCEANIA (see Europeans in Oceania)
     -   Australia: 89% of the population

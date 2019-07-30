@@ -5,8 +5,6 @@ Blood alcohol concentration is usually expressed as a percentage of ethanol in t
 
 Effects by blood alcohol content
 
-Relative_risk_of_an_accident_based_on_blood_alcohol_levels_(linear_scale).jpg
-
 +-----------------+----------------------------------------------+------------------------------------------------------------+
 | BAC (% by vol.) | Behavior                                     | Impairment                                                 |
 +=================+==============================================+============================================================+
@@ -183,8 +181,6 @@ There are several different units in use around the world for defining blood alc
 
 
 Legal limits
-
-Map_of_European_countries_by_maximum_blood_alcohol_level.svg
 
 For purposes of law enforcement, blood alcohol content is used to define intoxication and provides a rough measure of impairment. Although the degree of impairment may vary among individuals with the same blood alcohol content, it can be measured objectively and is therefore legally useful and difficult to contest in court. Most countries disallow operation of motor vehicles and heavy machinery above prescribed levels of blood alcohol content. Operation of boats and aircraft is also regulated.
 

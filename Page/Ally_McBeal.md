@@ -23,8 +23,6 @@ Fox canceled Ally McBeal after five seasons. In addition to being the lowest-rat
 
 Main cast
 
-Ally_mcbeal_season_4_cast.jpg 14_Beacon_Street_(Fish,_Cage,_&_McBeal)_(7183315650).jpg
-
 +-----------------------+--------------------+-------------+
 | Actor                 | Character          | Seasons     |
 +=======================+====================+=============+

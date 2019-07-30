@@ -7,7 +7,7 @@ Fictional history
 
 Golden and Silver Age
 
-TorontoStar3.jpg, demolished in 1972, was Shuster's model for the _Daily Planet_ building.]] Daily_Planet.jpg When Superman first appeared in comics (specifically 1938's _Action Comics_ #1), his alter ego Clark Kent worked for a newspaper named the _Daily Star_, under editor George Taylor. Superman co-creator Joe Shuster named the _Daily Star_ after the _Toronto Daily Star_ newspaper in Toronto, Ontario, which had been the newspaper that Shuster's parents received and for which Shuster had worked as a newsboy. It was not until later years that the fictional paper became the _Daily Planet._ (The real-world newspaper was called the _Evening Star_ prior to 1899, the _Toronto Daily Star_ is now known as the _Toronto Star_.)[3]
+, demolished in 1972, was Shuster's model for the _Daily Planet_ building.]] When Superman first appeared in comics (specifically 1938's _Action Comics_ #1), his alter ego Clark Kent worked for a newspaper named the _Daily Star_, under editor George Taylor. Superman co-creator Joe Shuster named the _Daily Star_ after the _Toronto Daily Star_ newspaper in Toronto, Ontario, which had been the newspaper that Shuster's parents received and for which Shuster had worked as a newsboy. It was not until later years that the fictional paper became the _Daily Planet._ (The real-world newspaper was called the _Evening Star_ prior to 1899, the _Toronto Daily Star_ is now known as the _Toronto Star_.)[3]
 
 While choosing a name for the fictitious newspaper, consideration was given to combining the names of _The Globe and Mail_ and the _Daily Star_ to become _The Daily Globe_. But when the comic strip appeared, the newspaper's name was permanently made the _Daily Planet_ to avoid a name conflict with real newspapers. In _Superman_ (volume 1) #5 (Summer 1940), the publisher of the _Daily Planet_ is shown to be Burt Mason, a man who is determined to print the truth even when corrupt politician Alex Evell threatens him. In _Superman_ #6 (September–October 1940), Mason gives free printing equipment to _The Gateston Gazette_ after its editor, Jim Tirrell, is killed and its equipment is destroyed by racketeers that Tirrell insisted on reporting.
 
@@ -62,8 +62,6 @@ In virtually every incarnation of the era inhabited by the Legion of Super-Heroe
 
 Fictional employees
 
-Daily_Planet-Staff.jpg
-
 _Daily Planet's_ staff at various times included:
 
 -   Clark Kent - Reporter
@@ -85,7 +83,7 @@ The _Daily Planet_ has been featured in all adaptations of _Superman_ to other m
 
 Live-action television
 
-Daily_Planet_2.JPG'', a CGI enhanced building.|upright]]
+'', a CGI enhanced building.|upright]]
 
 -   During most of the 1950s television series _Adventures of Superman_, the _Daily Planet_ exterior was Los Angeles City Hall. In season one, the E. Clem Wilson Building was used for exterior shots of the Planet building.
 -   _Lois and Clark: The New Adventures of Superman_ introduced the idea of a smaller globe above the building's entrance (the rooftop was never shown). At the end of the first season the paper was bought and closed down by Luthor (as would later happen in the comics). Its relaunch was funded by Metropolis businessman Franklin Stern.

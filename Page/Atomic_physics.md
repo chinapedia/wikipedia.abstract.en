@@ -16,7 +16,7 @@ Electronic configuration
 
 Electrons form notional shells around the nucleus. These are normally in a ground state but can be excited by the absorption of energy from light (photons), magnetic fields, or interaction with a colliding particle (typically ions or other electrons).
 
-Bohr_atom_model.svg Electrons that populate a shell are said to be in a bound state. The energy necessary to remove an electron from its shell (taking it to infinity) is called the binding energy. Any quantity of energy absorbed by the electron in excess of this amount is converted to kinetic energy according to the conservation of energy. The atom is said to have undergone the process of ionization.
+Electrons that populate a shell are said to be in a bound state. The energy necessary to remove an electron from its shell (taking it to infinity) is called the binding energy. Any quantity of energy absorbed by the electron in excess of this amount is converted to kinetic energy according to the conservation of energy. The atom is said to have undergone the process of ionization.
 
 If the electron absorbs a quantity of energy less than the binding energy, it will be transferred to an excited state. After a certain time, the electron in an excited state will "jump" (undergo a transition) to a lower state. In a neutral atom, the system will emit a photon of the difference in energy, since energy is conserved.
 

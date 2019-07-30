@@ -17,13 +17,13 @@ The word _hockey_ itself has no clear origin. One belief is that it was recorded
 
 The modern game grew from English public schools in the early 19th century. The first club was in 1849 at Blackheath in south-east London, but the modern rules grew out of a version played by Middlesex cricket clubs for winter game. Teddington Hockey Club formed the modern game by introducing the striking circle and changing the ball to a sphere from a rubber cube.[16] The Hockey Association was founded in 1886. The first international competition took place in 1895 (Ireland 3, Wales 0), and the International Rules Board was founded in 1900.
 
-London_1908_Hockey.jpg Field hockey was played at the Summer Olympics in 1908 and 1920. It was dropped in 1924, leading to the foundation of the Fédération Internationale de Hockey sur Gazon (FIH) as an international governing body by seven continental European nations; and hockey was reinstated as an Olympic game in 1928. Men's hockey united under the FIH in 1970.
+Field hockey was played at the Summer Olympics in 1908 and 1920. It was dropped in 1924, leading to the foundation of the Fédération Internationale de Hockey sur Gazon (FIH) as an international governing body by seven continental European nations; and hockey was reinstated as an Olympic game in 1928. Men's hockey united under the FIH in 1970.
 
 The two oldest trophies are the Irish Senior Cup, which dates back to 1894, and the Irish Junior Cup, a second XI-only competition instituted in 1895.[17]
 
 In India, the Beighton Cup and the Aga Khan tournament commenced within ten years. Entering the Olympics in 1928, India won all five games without conceding a goal, and won from 1932 until 1956 and then in 1964 and 1980. Pakistan won in 1960, 1968 and 1984.
 
-Dhyan_Chand_1936_final.jpg won Olympic gold medals for his team in 1928, 1932 and 1936.[18] Photo shows him scoring a goal against Germany in the 1936 Olympics hockey final.]] In the early 1970s, artificial turf began to be used. Synthetic pitches changed most aspects of field hockey, gaining speed. New tactics and techniques such as the Indian dribble developed, followed by new rules to take account. The switch to synthetic surfaces ended Indian and Pakistani domination because artificial turf was too expensive in developing countries. Since the 1970s, Australia, the Netherlands, Pakistan and Germany have dominated at the Olympics and World Cup stages.
+won Olympic gold medals for his team in 1928, 1932 and 1936.[18] Photo shows him scoring a goal against Germany in the 1936 Olympics hockey final.]] In the early 1970s, artificial turf began to be used. Synthetic pitches changed most aspects of field hockey, gaining speed. New tactics and techniques such as the Indian dribble developed, followed by new rules to take account. The switch to synthetic surfaces ended Indian and Pakistani domination because artificial turf was too expensive in developing countries. Since the 1970s, Australia, the Netherlands, Pakistan and Germany have dominated at the Olympics and World Cup stages.
 
 Women's field hockey was first played at British universities and schools. The first club, the Molesey Ladies, was founded in 1887.[19] The first national association was the Irish Ladies Hockey Union in 1894, and though rebuffed by the Hockey Association, women's field hockey grew rapidly around the world. This led to the International Federation of Women's Hockey Association (IFWHA) in 1927, though this did not include many continental European countries where women played as sections of men's associations and were affiliated to the FIH. The IFWHA held conferences every three years, and tournaments associated with these were the primary IFWHA competitions. These tournaments were non-competitive until 1975.
 
@@ -38,7 +38,7 @@ The game of field hockey is also very present in the United States. Many high sc
 
 Field of play
 
-Hockey_field_metric.svg Most hockey field dimensions were originally fixed using whole numbers of imperial measures. Nevertheless, metric measurements are now the official dimensions as laid down by the International Hockey Federation (FIH) in the "Rules of Hockey"[24]. The pitch is a rectangular field. At each end is a goal high and wide, as well as lines across the field from each end-line (generally referred to as the 23-metre lines or the 25-yard lines) and in the center of the field. A spot in diameter, called the penalty spot or stroke mark, is placed with its centre from the centre of each goal. The shooting circle is from the base line.
+Most hockey field dimensions were originally fixed using whole numbers of imperial measures. Nevertheless, metric measurements are now the official dimensions as laid down by the International Hockey Federation (FIH) in the "Rules of Hockey"[24]. The pitch is a rectangular field. At each end is a goal high and wide, as well as lines across the field from each end-line (generally referred to as the 23-metre lines or the 25-yard lines) and in the center of the field. A spot in diameter, called the penalty spot or stroke mark, is placed with its centre from the centre of each goal. The shooting circle is from the base line.
 
 Playing surface
 
@@ -69,7 +69,7 @@ A match ordinarily consists of two periods of 35 minutes and a halftime interval
 
 Positions
 
-UVA_field_hockey.jpg field player passing the ball]] When hockey positions are discussed, notions of fluidity are very common. Each team can be fielded with a maximum of 11 players and will typically arrange themselves into forwards, midfielders, and defensive players (fullbacks) with players frequently moving between these lines with the flow of play. Each team may also play with:
+field player passing the ball]] When hockey positions are discussed, notions of fluidity are very common. Each team can be fielded with a maximum of 11 players and will typically arrange themselves into forwards, midfielders, and defensive players (fullbacks) with players frequently moving between these lines with the flow of play. Each team may also play with:
 
 _* a goalkeeper who wears a different color shirt and full protective equipment comprising at least headgear, leg guards and kickers; this player is referred to in the rules as a goalkeeper; or_
 
@@ -97,7 +97,7 @@ General play
 
 For the purposes of the rules, all players on the team in possession of the ball are attackers, and those on the team without the ball are defenders, yet throughout the game being played you are always "defending" your goal and "attacking" the opposite goal.[31]
 
-Brenda256.jpg The match is officiated by two field umpires. Traditionally each umpire generally controls half of the field, divided roughly diagonally. These umpires are often assisted by a technical bench including a timekeeper and record keeper.
+The match is officiated by two field umpires. Traditionally each umpire generally controls half of the field, divided roughly diagonally. These umpires are often assisted by a technical bench including a timekeeper and record keeper.
 
 Prior to the start of the game, a coin is tossed and the winning captain can choose a starting end or whether to start with the ball. Since 2017 the game consists of four periods of 15 minutes with a 2-minute break after every period, and a 15-minute break at half time before changing ends. At the start of each period, as well as after goals are scored, play is started with a pass from the centre of the field. All players must start in their defensive half (apart from the player making the pass), but the ball may be played in any direction along the floor. Each team starts with the ball in one half, and the team that conceded the goal has possession for the restart. Teams trade sides at halftime.
 
@@ -131,7 +131,7 @@ A free hit from the quarter line is awarded to the attacking team if the ball go
 
 Penalty corner
 
-The short or penalty corner is awarded: Fieldhockey_shortcorner_defense.jpg
+The short or penalty corner is awarded:
 
 1.  for an offence by a defender in the circle which does not prevent the probable scoring of a goal;
 2.  for an intentional offence in the circle by a defender against an opponent who does not have possession of the ball or an opportunity to play the ball;
@@ -175,7 +175,7 @@ Warnings and suspensions
 
 Grüne Karte Hockey.JPG|green card (warning with 2 min suspension) Gelbe Karte Hockey.JPG|yellow card (suspension of 5 / 10 mins depending on intensity of foul) Rote Karte Hockey.JPG|red card (permanent suspension)
 
-Hockey uses a three-tier penalty card system of warnings and suspensions: Indiana_(80)_(5028145116).jpg player receives a green card.]]
+Hockey uses a three-tier penalty card system of warnings and suspensions: player receives a green card.]]
 
 -   When shown a GREEN CARD, the player may have to leave the field for two minutes, depending on national regulations, though at international standards the player has to leave the field for two minutes, but any further infractions will result in a yellow or red card.
 -   A YELLOW CARD is an official suspension similar to the penalty box in ice hockey. The duration is decided by the umpire issuing the card and the player must go to a pre-defined area of the pitch as chosen by the umpires, or by the local/state/national association of that country; in this case generally it will be in the rule book where that player must go to, at the beginning of the match. Most umpires will opt for a minimum of five minutes' duration without substitution; the maximum time is at the discretion of the umpire, depending on the seriousness of the offence; for example the second yellow to the same player or the first for danger might be given ten minutes. (In some modes, including indoor, shorter periods of suspension are applied, dependent on local rules.) However it is possible to send a player off for the remainder of the match if the penalty time is longer than the time remaining in the match.
@@ -220,7 +220,7 @@ Equipment
 
 Field hockey stick
 
-Splice_Handle_Head.jpg Each player carries a "stick" that normally measures between 80–95 cm (31–38"); shorter or longer sticks are available. Sticks were traditionally made of wood, but are now often made also with fibreglass, kevlar or carbon fibre composites. Metal is forbidden from use in field hockey sticks, due to the risk of injury from sharp edges if the stick were to break. The stick has a rounded handle, has a J-shaped hook at the bottom, and is flattened on the left side (when looking down the handle with the hook facing upwards). All sticks must be right-handed; left-handed ones are prohibited.
+Each player carries a "stick" that normally measures between 80–95 cm (31–38"); shorter or longer sticks are available. Sticks were traditionally made of wood, but are now often made also with fibreglass, kevlar or carbon fibre composites. Metal is forbidden from use in field hockey sticks, due to the risk of injury from sharp edges if the stick were to break. The stick has a rounded handle, has a J-shaped hook at the bottom, and is flattened on the left side (when looking down the handle with the hook facing upwards). All sticks must be right-handed; left-handed ones are prohibited.
 
 There was traditionally a slight curve (called the bow, or rake) from the top to bottom of the face side of the stick and another on the 'heel' edge to the top of the handle (usually made according to the angle at which the handle part was inserted into the splice of the head part of the stick), which assisted in the positioning of the stick head in relation to the ball and made striking the ball easier and more accurate.
 
@@ -232,11 +232,11 @@ It was recently discovered that increasing the depth of the face bow made it eas
 
 Field hockey ball
 
-Balle_de_hockey_sur_gazon_avec_pièce_de_5_francs.jpg Standard field hockey balls are hard spherical balls, made of plastic (sometimes over a cork core), and are usually white, although they can be any colour as long as they contrast with the playing surface. The balls have a diameter of and a mass of . The ball is often covered with indentations to reduce aquaplaning that can cause an inconsistent ball speed on wet surfaces. HockyBallsPuck.JPG
+Standard field hockey balls are hard spherical balls, made of plastic (sometimes over a cork core), and are usually white, although they can be any colour as long as they contrast with the playing surface. The balls have a diameter of and a mass of . The ball is often covered with indentations to reduce aquaplaning that can cause an inconsistent ball speed on wet surfaces.
 
 Goalkeeping equipment
 
-M060519_vit_vipers-dragons_0071.JPG The 2007 rulebook has seen major changes regarding goalkeepers. A fully equipped goalkeeper must wear a helmet, leg guards and kickers. Usually the field hockey goalkeepers must wear extensive additional protective equipment including chest guards, padded shorts, heavily padded hand protectors, groin protectors, neck guards, arm guards, and like all players, they must carry a stick. A goalie may not cross the 23 m line, the sole exception to this being if the goalkeeper is to take a penalty stroke at the other end of the field, when the clock is stopped. The goalkeeper can also remove their helmet for this action. However, if the goalkeeper elects to wear only a helmet (and a different colored shirt), they may cross the 23 m line if they have removed their helmet (and placed it safely off the field of play). If play returns to the circle without them having opportunity to replace the helmet, this player still has "goalkeeping privileges", that is, they are not limited to using their stick to play the ball whilst it is in the circle, and the helmet must be worn whilst defending penalty corners and penalty strokes but the best thing to do would be to wear it at all times. While goaltenders are allowed to use their feet and hands to clear the ball, they too are only allowed to use one side of their stick. Slide tackling is permitted as long as it is with the intention of clearing the ball, not aimed at a player.
+The 2007 rulebook has seen major changes regarding goalkeepers. A fully equipped goalkeeper must wear a helmet, leg guards and kickers. Usually the field hockey goalkeepers must wear extensive additional protective equipment including chest guards, padded shorts, heavily padded hand protectors, groin protectors, neck guards, arm guards, and like all players, they must carry a stick. A goalie may not cross the 23 m line, the sole exception to this being if the goalkeeper is to take a penalty stroke at the other end of the field, when the clock is stopped. The goalkeeper can also remove their helmet for this action. However, if the goalkeeper elects to wear only a helmet (and a different colored shirt), they may cross the 23 m line if they have removed their helmet (and placed it safely off the field of play). If play returns to the circle without them having opportunity to replace the helmet, this player still has "goalkeeping privileges", that is, they are not limited to using their stick to play the ball whilst it is in the circle, and the helmet must be worn whilst defending penalty corners and penalty strokes but the best thing to do would be to wear it at all times. While goaltenders are allowed to use their feet and hands to clear the ball, they too are only allowed to use one side of their stick. Slide tackling is permitted as long as it is with the intention of clearing the ball, not aimed at a player.
 
 It is now also even possible for teams to have a full eleven outfield players and no goalkeeper at all. No player may wear a helmet or other goalkeeping equipment, neither will any player be able to play the ball with any other part of the body than with their stick. This may be used to offer a tactical advantage, or to allow for play to commence if no goalkeeper or kit is available.
 
@@ -260,7 +260,7 @@ With the 2009 changes to the rules regarding free hits in the attacking 23m area
 
 International competition
 
-GB_v_Argentina_2016_CT_(27151811463).jpg match.]]
+match.]]
 
 The biggest two field hockey tournaments are the Olympic Games tournament, and the Hockey World Cup, which is also held every 4 years. Apart from this, there is the Champions Trophy held each year for the six top-ranked teams. Field hockey has also been played at the Commonwealth Games since 1998. Amongst the men, India lead in Olympic competition, having won 8 golds (6 successive in row). Amongst the women, Australia and Netherlands have 3 Olympic golds while Netherlands has clinched the World Cup 6 times. The Sultan Azlan Shah Hockey Tournament and Sultan Ibrahim Ismail Hockey Tournament for the junior team, both tournaments held annually in Malaysia, are becoming prominent field hockey tournaments where teams from around the world participate to win the cup.
 

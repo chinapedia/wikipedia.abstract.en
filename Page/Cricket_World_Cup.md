@@ -21,7 +21,7 @@ In the late 1970s, Kerry Packer established the rival World Series Cricket (WSC)
 
 Prudential World Cups (1975–1983)
 
-Prudential_Cup.jpg The inaugural Cricket World Cup was hosted in 1975 by England, the only nation able to put forward the resources to stage an event of such magnitude at the time. The 1975 tournament started on 7 June.[10] The first three events were held in England and officially known as the Prudential Cup after the sponsors Prudential plc. The matches consisted of 60 six-ball overs per team, played during the daytime in traditional form, with the players wearing cricket whites and using red cricket balls.[11]
+The inaugural Cricket World Cup was hosted in 1975 by England, the only nation able to put forward the resources to stage an event of such magnitude at the time. The 1975 tournament started on 7 June.[10] The first three events were held in England and officially known as the Prudential Cup after the sponsors Prudential plc. The matches consisted of 60 six-ball overs per team, played during the daytime in traditional form, with the players wearing cricket whites and using red cricket balls.[11]
 
 Eight teams participated in the first tournament: Australia, England, India, New Zealand, Pakistan, and the West Indies (the six Test nations at the time), together with Sri Lanka and a composite team from East Africa.[12] One notable omission was South Africa, who were banned from international cricket due to apartheid. The tournament was won by the West Indies, who defeated Australia by 17 runs in the final at Lord's.[13]Roy Fredricks of West Indies was the first batsmen who got hit-wicket in ODI during the 1975 World Cup final.[14]
 
@@ -39,7 +39,7 @@ The 1996 championship was held in the Indian subcontinent for a second time, wit
 
 Australian treble (1999–2007)
 
-In 1999 the event was hosted by England, with some matches also being held in Scotland, Ireland, Wales and the Netherlands.[29][30] Twelve teams contested the World Cup. Australia qualified for the semi-finals after reaching their target in their Super 6 match against South Africa off the final over of the match.[31] They then proceeded to the final with a tied match in the semi-final also against South Africa where a mix-up between South African batsmen Lance Klusener and Allan Donald saw Donald drop his bat and stranded mid-pitch to be run out. In the final, Australia dismissed Pakistan for 132 and then reached the target in less than 20 overs and with eight wickets in hand.[32] Australian_World_Cup_treble.jpg – Martin Place, Sydney.]] South Africa, Zimbabwe and Kenya hosted the 2003 World Cup. The number of teams participating in the event increased from twelve to fourteen. Kenya's victories over Sri Lanka and Zimbabwe, among others – and a forfeit by the New Zealand team, which refused to play in Kenya because of security concerns – enabled Kenya to reach the semi-finals, the best result by an associate.[33] In the final, Australia made 359 runs for the loss of two wickets, the largest ever total in a final, defeating India by 125 runs.[34][35]
+In 1999 the event was hosted by England, with some matches also being held in Scotland, Ireland, Wales and the Netherlands.[29][30] Twelve teams contested the World Cup. Australia qualified for the semi-finals after reaching their target in their Super 6 match against South Africa off the final over of the match.[31] They then proceeded to the final with a tied match in the semi-final also against South Africa where a mix-up between South African batsmen Lance Klusener and Allan Donald saw Donald drop his bat and stranded mid-pitch to be run out. In the final, Australia dismissed Pakistan for 132 and then reached the target in less than 20 overs and with eight wickets in hand.[32]  – Martin Place, Sydney.]] South Africa, Zimbabwe and Kenya hosted the 2003 World Cup. The number of teams participating in the event increased from twelve to fourteen. Kenya's victories over Sri Lanka and Zimbabwe, among others – and a forfeit by the New Zealand team, which refused to play in Kenya because of security concerns – enabled Kenya to reach the semi-finals, the best result by an associate.[33] In the final, Australia made 359 runs for the loss of two wickets, the largest ever total in a final, defeating India by 125 runs.[34][35]
 
 In 2007 the tournament was hosted by the West Indies and expanded to sixteen teams.[36] Following Pakistan's upset loss to World Cup debutants Ireland in the group stage, Pakistani coach Bob Woolmer was found dead in his hotel room.[37] Jamaican police had initially launched a murder investigation into Woolmer's death but later confirmed that he died of heart failure.[38] Australia defeated Sri Lanka in the final by 53 runs (D/L) in farcical light conditions, and extended their undefeated run in the World Cup to 29 matches and winning three straight championships.[39]
 
@@ -71,7 +71,7 @@ PROCESS SUMMARY IN CHRONOLOGICAL ORDER (2011–2014):
 
 Tournament
 
-ICC_CWC_2007_team_captains.jpg The format of the Cricket World Cup has changed greatly over the course of its history. Each of the first four tournaments was played by eight teams, divided into two groups of four.[52] The competition consisted of two stages, a group stage and a knock-out stage. The four teams in each group played each other in the round-robin group stage, with the top two teams in each group progressing to the semi-finals. The winners of the semi-finals played against each other in the final. With South Africa returning in the fifth tournament in 1992 as a result of the end of the apartheid boycott, nine teams played each other once in the group phase, and the top four teams progressed to the semi-finals.[53] The tournament was further expanded in 1996, with two groups of six teams.[54] The top four teams from each group progressed to quarter-finals and semi-finals.
+The format of the Cricket World Cup has changed greatly over the course of its history. Each of the first four tournaments was played by eight teams, divided into two groups of four.[52] The competition consisted of two stages, a group stage and a knock-out stage. The four teams in each group played each other in the round-robin group stage, with the top two teams in each group progressing to the semi-finals. The winners of the semi-finals played against each other in the final. With South Africa returning in the fifth tournament in 1992 as a result of the end of the apartheid boycott, nine teams played each other once in the group phase, and the top four teams progressed to the semi-finals.[53] The tournament was further expanded in 1996, with two groups of six teams.[54] The top four teams from each group progressed to quarter-finals and semi-finals.
 
 A distinct format was used for the 1999 and 2003 World Cups. The teams were split into two pools, with the top three teams in each pool advancing to the _Super 6_.[55] The _Super 6_ teams played the three other teams that advanced from the other group. As they advanced, the teams carried their points forward from previous matches against other teams advancing alongside them, giving them an incentive to perform well in the group stages.[56] The top four teams from the _Super 6_ stage progressed to the semi-finals, with the winners playing in the final.
 
@@ -91,7 +91,7 @@ The current trophy is made from silver and gilt, and features a golden globe hel
 
 Media coverage
 
-Mello2.jpg The tournament is one of the world's most-viewed sporting events.[64] The 2011 Cricket World Cup final was televised in over 200 countries to over 2.2 billion television viewers.[65][66][67] Television rights, mainly for the 2011 and 2015 World Cup, were sold for over US$1.1 billion,[68] and sponsorship rights were sold for a further US$500 million.[69] The 2003 Cricket World Cup matches were attended by 626,845 people,[70] while the 2007 Cricket World Cup sold more than 672,000 tickets. The 2015 World Cup Sold over 1.1 million tickets which was a Record .[71][72]
+The tournament is one of the world's most-viewed sporting events.[64] The 2011 Cricket World Cup final was televised in over 200 countries to over 2.2 billion television viewers.[65][66][67] Television rights, mainly for the 2011 and 2015 World Cup, were sold for over US$1.1 billion,[68] and sponsorship rights were sold for a further US$500 million.[69] The 2003 Cricket World Cup matches were attended by 626,845 people,[70] while the 2007 Cricket World Cup sold more than 672,000 tickets. The 2015 World Cup Sold over 1.1 million tickets which was a Record .[71][72]
 
 Successive World Cup tournaments have generated increasing media attention as One-Day International cricket has become more established. The 2003 World Cup in South Africa was the first to sport a mascot, Dazzler the zebra.[73] An orange mongoose known as _Mello_ was the mascot for the 2007 Cricket World Cup.[74] Stumpy, a blue elephant was the mascot for the 2011 World Cup.[75]
 
@@ -102,7 +102,7 @@ Due to England making the 2019 Final, it was domestically picked up for terrestr
 
 Selection of hosts
 
-Civic_Centre-2003_CWC.jpg The International Cricket Council's executive committee votes for the hosts of the tournament after examining the bids made by the nations keen to hold a Cricket World Cup.[78]
+The International Cricket Council's executive committee votes for the hosts of the tournament after examining the bids made by the nations keen to hold a Cricket World Cup.[78]
 
 England hosted the first three competitions. The ICC decided that England should host the first tournament because it was ready to devote the resources required to organising the inaugural event.[79] India volunteered to host the third Cricket World Cup, but most ICC members preferred England as the longer period of daylight in England in June meant that a match could be completed in one day.[80] The 1987 Cricket World Cup was held in India and Pakistan, the first hosted outside England.[81]
 
@@ -183,35 +183,35 @@ LEGEND
 
 Debutant teams
 
-+------+----------------------------------------------------------------+
-| Year | Teams                                                          |
-+======+================================================================+
-| 1975 | , East_Africa_Cricket_Team_Flag.png East Africa^(†), , , , , , |
-+------+----------------------------------------------------------------+
-| 1979 |                                                                |
-+------+----------------------------------------------------------------+
-| 1983 |                                                                |
-+------+----------------------------------------------------------------+
-| 1987 | _none_                                                         |
-+------+----------------------------------------------------------------+
-| 1992 |                                                                |
-+------+----------------------------------------------------------------+
-| 1996 | , ,                                                            |
-+------+----------------------------------------------------------------+
-| 1999 | ,                                                              |
-+------+----------------------------------------------------------------+
-| 2003 |                                                                |
-+------+----------------------------------------------------------------+
-| 2007 | ,                                                              |
-+------+----------------------------------------------------------------+
-| 2011 | _none_                                                         |
-+------+----------------------------------------------------------------+
-| 2015 |                                                                |
-+------+----------------------------------------------------------------+
-| 2019 | _none_                                                         |
-+------+----------------------------------------------------------------+
-| 2023 | TBD                                                            |
-+------+----------------------------------------------------------------+
++------+------------------------------+
+| Year | Teams                        |
++======+==============================+
+| 1975 | , East Africa^(†), , , , , , |
++------+------------------------------+
+| 1979 |                              |
++------+------------------------------+
+| 1983 |                              |
++------+------------------------------+
+| 1987 | _none_                       |
++------+------------------------------+
+| 1992 |                              |
++------+------------------------------+
+| 1996 | , ,                          |
++------+------------------------------+
+| 1999 | ,                            |
++------+------------------------------+
+| 2003 |                              |
++------+------------------------------+
+| 2007 | ,                            |
++------+------------------------------+
+| 2011 | _none_                       |
++------+------------------------------+
+| 2015 |                              |
++------+------------------------------+
+| 2019 | _none_                       |
++------+------------------------------+
+| 2023 | TBD                          |
++------+------------------------------+
 
 †Disbanded in 1989.
 
@@ -219,56 +219,56 @@ Overview
 
 The table below provides an overview of the performances of teams over past World Cups, as of the end of the 2019 tournament. Teams are sorted by best performance, then by appearances, total number of wins, total number of games, and alphabetical order respectively.
 
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | Appearances |       | Statistics |
-+===================================================+=============+=======+============+
-| Team                                              | Total       | First | Latest     |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 12          | 1975  | 2019       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 12          | |1975 | 2019       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 12          | |1975 | 2019       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 12          | |1975 | 2019       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 12          | |1975 | 2019       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 12          | |1975 | 2019       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 12          | |1975 | 2019       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 8           | |1992 | 2019       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 5           | |1996 | 2011       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 9           | |1983 | 2015       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 6           | |1999 | 2019       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 3           | |2007 | 2015       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 4           | |1996 | 2011       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 4           | |1979 | 2011       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 3           | |1999 | 2015       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 2           | |2015 | 2019       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 2           | |1996 | 2015       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 1           | |2003 | 2003       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   | 1           | |2007 | 2007       |
-+---------------------------------------------------+-------------+-------+------------+
-| East_Africa_Cricket_Team_Flag.png East Africa^(†) | 1           | |1975 | 1975       |
-+---------------------------------------------------+-------------+-------+------------+
-|                                                   |             |       |            |
-+---------------------------------------------------+-------------+-------+------------+
-| Last Updated: 14 July 2019                        |             |       |            |
-| Source: ESPNcricinfo                              |             |       |            |
-+---------------------------------------------------+-------------+-------+------------+
++----------------------------+-------------+-------+------------+
+|                            | Appearances |       | Statistics |
++============================+=============+=======+============+
+| Team                       | Total       | First | Latest     |
++----------------------------+-------------+-------+------------+
+|                            | 12          | 1975  | 2019       |
++----------------------------+-------------+-------+------------+
+|                            | 12          | |1975 | 2019       |
++----------------------------+-------------+-------+------------+
+|                            | 12          | |1975 | 2019       |
++----------------------------+-------------+-------+------------+
+|                            | 12          | |1975 | 2019       |
++----------------------------+-------------+-------+------------+
+|                            | 12          | |1975 | 2019       |
++----------------------------+-------------+-------+------------+
+|                            | 12          | |1975 | 2019       |
++----------------------------+-------------+-------+------------+
+|                            | 12          | |1975 | 2019       |
++----------------------------+-------------+-------+------------+
+|                            | 8           | |1992 | 2019       |
++----------------------------+-------------+-------+------------+
+|                            | 5           | |1996 | 2011       |
++----------------------------+-------------+-------+------------+
+|                            | 9           | |1983 | 2015       |
++----------------------------+-------------+-------+------------+
+|                            | 6           | |1999 | 2019       |
++----------------------------+-------------+-------+------------+
+|                            | 3           | |2007 | 2015       |
++----------------------------+-------------+-------+------------+
+|                            | 4           | |1996 | 2011       |
++----------------------------+-------------+-------+------------+
+|                            | 4           | |1979 | 2011       |
++----------------------------+-------------+-------+------------+
+|                            | 3           | |1999 | 2015       |
++----------------------------+-------------+-------+------------+
+|                            | 2           | |2015 | 2019       |
++----------------------------+-------------+-------+------------+
+|                            | 2           | |1996 | 2015       |
++----------------------------+-------------+-------+------------+
+|                            | 1           | |2003 | 2003       |
++----------------------------+-------------+-------+------------+
+|                            | 1           | |2007 | 2007       |
++----------------------------+-------------+-------+------------+
+| East Africa^(†)            | 1           | |1975 | 1975       |
++----------------------------+-------------+-------+------------+
+|                            |             |       |            |
++----------------------------+-------------+-------+------------+
+| Last Updated: 14 July 2019 |             |       |            |
+| Source: ESPNcricinfo       |             |       |            |
++----------------------------+-------------+-------+------------+
 
 † No longer exists.
 
@@ -339,7 +339,7 @@ There were no Man of the Tournament awards before 1992 but Man of the Match awar
 
 Tournament records
 
-Sachin_Tendulkar_at_MRF_Promotion_Event.jpg, the leading run-scorer in World Cup history.]]
+, the leading run-scorer in World Cup history.]]
 
   World Cup records[92]
   --------------------------------------------

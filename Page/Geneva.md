@@ -18,7 +18,7 @@ The name takes various forms in modern languages, _Geneva_ in English, ,[16] , ,
 
 History
 
-DV307_no.80_From_Vile_Rousean,_Geneva_Aug_4_1858.png, 4 August 1858]] Escalade-battle-2.jpg, the failed surprise-attack of 12 December 1602 made by troops sent by Charles Emmanuel I, Duke of Savoy, to take Geneva]] Geneva was an Allobrogian border town, fortified against the Helvetii tribe,[17] when the Romans took it in 121 BC. It became Christian under the Late Roman Empire, and acquired its first bishop in the 5th century, having been connected to the Bishopric of Vienne in the 4th.
+, 4 August 1858]] , the failed surprise-attack of 12 December 1602 made by troops sent by Charles Emmanuel I, Duke of Savoy, to take Geneva]] Geneva was an Allobrogian border town, fortified against the Helvetii tribe,[17] when the Romans took it in 121 BC. It became Christian under the Late Roman Empire, and acquired its first bishop in the 5th century, having been connected to the Bishopric of Vienne in the 4th.
 
 In the Middle Ages, Geneva was ruled by a count under the Holy Roman Empire until the late 14th century, when it was granted a charter giving it a high degree of self-governance. Around this time, the House of Savoy came to at least nominally dominate the city. In the 15th century, an oligarchic republican government emerged with the creation of the Grand Council. In the first half of the 16th century, the Protestant Reformation reached the city, causing religious strife, during which Savoy rule was thrown off and Geneva allied itself with the Swiss Confederacy. In 1541, with Protestantism on the rise, John Calvin, the Protestant Reformer and proponent of Calvinism, became the spiritual leader of the city and established the Republic of Geneva. By the 18th century, Geneva had come under the influence of Catholic France, which cultivated the city as its own. France tended to be at odds with the ordinary townsfolk, which inspired the failed Geneva Revolution of 1782, an attempt to win representation in the government for men of modest means. In 1798, revolutionary France under the Directory annexed Geneva. At the end of the Napoleonic Wars, on 1June 1814, Geneva was admitted to the Swiss Confederation. In 1907, the separation of Church and State was adopted. Geneva flourished in the 19th and 20th centuries, becoming the seat of many international organizations.[18]
 
@@ -27,17 +27,17 @@ Geography
 
 Topography
 
-Geneva_by_Sentinel-2.jpg Geneva is located at 46°12' North, 6°09' East, at the south-western end of Lake Geneva, where the Rhône flows out. It is surrounded by three mountain chains, each belonging to the Jura: the Jura main range lies north-westward, the Vuache southward, and the Salève south-eastward.
+Geneva is located at 46°12' North, 6°09' East, at the south-western end of Lake Geneva, where the Rhône flows out. It is surrounded by three mountain chains, each belonging to the Jura: the Jura main range lies north-westward, the Vuache southward, and the Salève south-eastward.
 
-Genève_vue_du_Salève.jpg The city covers an area of , while the area of the canton is , including the two small exclaves of Céligny in Vaud. The part of the lake that is attached to Geneva has an area of and is sometimes referred to as _petit lac_ (small lake). The canton has only a border with the rest of Switzerland. Of of border, 103 are shared with France, the Département de l'Ain to the north and west and the Département de la Haute-Savoie to the south and east.
+The city covers an area of , while the area of the canton is , including the two small exclaves of Céligny in Vaud. The part of the lake that is attached to Geneva has an area of and is sometimes referred to as _petit lac_ (small lake). The canton has only a border with the rest of Switzerland. Of of border, 103 are shared with France, the Département de l'Ain to the north and west and the Département de la Haute-Savoie to the south and east.
 
 Of the land in the city, , or 1.5%, is used for agricultural purposes, while , or 3.1%, is forested. The rest of the land, , or 91.8%, is built up (buildings or roads), , or 3.1%, is either rivers or lakes and , or 0.1%, is wasteland.[19]
 
-Of the built up area, industrial buildings made up 3.4%, housing and buildings made up 46.2% and transportation infrastructure 25.8%, while parks, green belts and sports fields made up 15.7%. Of the agricultural land, 0.3% is used for growing crops. Of the water in the municipality, 0.2% is composed of lakes and 2.9% is rivers and streams.[20] Confluence_Rhône_et_Arve.JPG The altitude of Geneva is , and corresponds to the altitude of the largest of the Pierres du Niton, two large rocks emerging from the lake which date from the last ice age. This rock was chosen by General Guillaume Henri Dufour as the reference point for surveying in Switzerland.[21] The second main river of Geneva is the Arve, which flows into the Rhône just west of the city centre. Mont Blanc can be seen from Geneva and is an hour's drive from the city.
+Of the built up area, industrial buildings made up 3.4%, housing and buildings made up 46.2% and transportation infrastructure 25.8%, while parks, green belts and sports fields made up 15.7%. Of the agricultural land, 0.3% is used for growing crops. Of the water in the municipality, 0.2% is composed of lakes and 2.9% is rivers and streams.[20] The altitude of Geneva is , and corresponds to the altitude of the largest of the Pierres du Niton, two large rocks emerging from the lake which date from the last ice age. This rock was chosen by General Guillaume Henri Dufour as the reference point for surveying in Switzerland.[21] The second main river of Geneva is the Arve, which flows into the Rhône just west of the city centre. Mont Blanc can be seen from Geneva and is an hour's drive from the city.
 
 Climate
 
-Average_Temp_and_Precipitation_Geneva.png The climate of Geneva is warm-temperate, more specifically oceanic (Köppen: _Cfb_). Winters are cool, usually with light frosts at night and thawing conditions during the day. Summers are relatively warm. Precipitation is adequate and is relatively well-distributed throughout the year, although autumn is slightly wetter than other seasons. Ice storms near Lac Léman are normal in the winter: Geneva can be affected by the Bise, a north-easterly wind. This can lead to severe icing in winter.[22]
+The climate of Geneva is warm-temperate, more specifically oceanic (Köppen: _Cfb_). Winters are cool, usually with light frosts at night and thawing conditions during the day. Summers are relatively warm. Precipitation is adequate and is relatively well-distributed throughout the year, although autumn is slightly wetter than other seasons. Ice storms near Lac Léman are normal in the winter: Geneva can be affected by the Bise, a north-easterly wind. This can lead to severe icing in winter.[22]
 
 In summer, many people swim in the lake and patronise public beaches such as Genève Plage and the Bains des Pâquis. The city, in certain years, receives snow during colder months. The nearby mountains are subject to substantial snowfall and are suitable for skiing. Many world-renowned ski resorts such as Verbier and Crans-Montana are less than three hours away by car. Mont Salève (), just across the border in France, dominates the southerly view from the city centre, and Mont Blanc, the highest of the Alpine range, is visible from most of the city, towering high above Chamonix, which, along with Morzine, Le Grand Bornand, La Clusaz, and resorts of the Grand Massif such as Samoens, Morillon, and Flaine, are the closest French skiing destinations to Geneva.
 
@@ -50,7 +50,7 @@ Politics
 
 Coat of arms
 
-Coat_of_arms_of_Geneva.jpg, 2013]]
+, 2013]]
 
 Administrative divisions
 
@@ -58,7 +58,7 @@ The city is divided into eight _quartiers_, or districts, sometimes composed of 
 
 Government
 
-Geneva_city_insignia.gif The Administrative Council (CONSEIL ADMINISTRATIF) constitutes the executive government of the City of Geneva and operates as a collegiate authority. It is composed of five councilors (), each presiding over a department. The president of the executive department acts as mayor (_la maire/le maire_). In the governmental year 2019–2020, the Administrative Council is presided over by _Madame la maire de Genève_ Sandrine Salerno. Departmental tasks, coordination measures and implementation of laws decreed by the Municipal Council are carried out by the Administrative Council. Elections for the Administrative Council are held every five years. The current term of (_la législature_) is from 1June 2015 to 31May 2020. The delegates are elected by means of a system of Majorz. The mayor changes each year, while the heads of the other departments are assigned by the collegiate. The executive body holds its meetings in the Palais Eynard, near the Parc des Bastions.[24]
+The Administrative Council (CONSEIL ADMINISTRATIF) constitutes the executive government of the City of Geneva and operates as a collegiate authority. It is composed of five councilors (), each presiding over a department. The president of the executive department acts as mayor (_la maire/le maire_). In the governmental year 2019–2020, the Administrative Council is presided over by _Madame la maire de Genève_ Sandrine Salerno. Departmental tasks, coordination measures and implementation of laws decreed by the Municipal Council are carried out by the Administrative Council. Elections for the Administrative Council are held every five years. The current term of (_la législature_) is from 1June 2015 to 31May 2020. The delegates are elected by means of a system of Majorz. The mayor changes each year, while the heads of the other departments are assigned by the collegiate. The executive body holds its meetings in the Palais Eynard, near the Parc des Bastions.[24]
 
 , Geneva's Administrative Council is made up of two representatives of the Social Democratic Party (PS), and one member each of: the Green Party (PES); _Ensemble à Gauche_ (an alliance of left-wing parties); the Swiss Party of Labour; solidaritéS); and the Christian Democratic Party (PDC). This gives the left-wing parties four out of the five seats. The last election was held on 19April 2015. All previous members were re-elected.[25]
 
@@ -102,7 +102,7 @@ Demographics
 
 Population
 
-Horloge_Fleurie_au_Quai_du_Général-Guisan_(Jardin_Anglais)_Genève.JPG at the Quai du Général-Guisan (Jardin anglais), during the 2012 Geneva Festival]] Rue_Pierre-Fatio,_Genève.jpg Geneva has a population () of . The city of Geneva is at the centre of the Geneva metropolitan area, known as _Grand Genève_ in French (Greater Geneva). Greater Geneva includes the Canton of Geneva in its entirety as well as the District of Nyon in the Canton of Vaud and several areas in the neighbouring French departments of Haute-Savoie and Ain. In 2011, the _agglomération franco-valdo-genevoise_ had 915,000 inhabitants, two-thirds of whom lived on Swiss soil and one-third on French soil.[34] The Geneva metropolitan area is experiencing steady demographic growth of 1.2% a year and the population of the _agglomération franco-valdo-genevoise_ is expected to reach a total of one million people in the near future.[35]
+at the Quai du Général-Guisan (Jardin anglais), during the 2012 Geneva Festival]] Geneva has a population () of . The city of Geneva is at the centre of the Geneva metropolitan area, known as _Grand Genève_ in French (Greater Geneva). Greater Geneva includes the Canton of Geneva in its entirety as well as the District of Nyon in the Canton of Vaud and several areas in the neighbouring French departments of Haute-Savoie and Ain. In 2011, the _agglomération franco-valdo-genevoise_ had 915,000 inhabitants, two-thirds of whom lived on Swiss soil and one-third on French soil.[34] The Geneva metropolitan area is experiencing steady demographic growth of 1.2% a year and the population of the _agglomération franco-valdo-genevoise_ is expected to reach a total of one million people in the near future.[35]
 
 The official language of Geneva (both the city and the canton) is French. English is also common due to the high number of anglophone expatriates and foreigners working in international institutions and in the bank sector. 128,622 or 72.3% of the population speaks French as a first language, with English being the second most common (7,853 or 4.4%) language. 7,462 inhabitants speak Spanish (or 4.2%), 7,320 speak Italian (4.1%), 7,050 speak German (4.0%) and 113 people who speak Romansh.[36] As a result of immigration flows in the 1960s and 1980s, Italian, Portuguese and Spanish are also spoken by a considerable proportion of the population.
 
@@ -118,7 +118,7 @@ In , there were 1,147 live births to Swiss citizens and 893 births to non-Swiss 
 
 , there were 86,231 private households in the municipality, and an average of 1.9 persons per household.[44] There were 44,373 households that consist of only one person and 2,549 households with five or more people. Out of a total of 89,269 households that answered this question, 49.7% were households made up of just one person and there were 471 adults who lived with their parents. Of the rest of the households, there are 17,429 married couples without children, 16,607 married couples with children. There were 5,499 single parents with a child or children. There were 1,852 households that were made up of unrelated people and 3,038 households that were made up of some sort of institution or another collective housing.[45]
 
-Geneva_-_Quartier_des_Grottes.jpg Geneva-aerial-view.JPG Geneva_and_Lake_Geneva_View.jpg , there were 743 single family homes (or 10.6% of the total) out of a total of 6,990 inhabited buildings. There were 2,758 multi-family buildings (39.5%), along with 2,886 multi-purpose buildings that were mostly used for housing (41.3%) and 603 other use buildings (commercial or industrial) that also had some housing (8.6%). Of the single family homes, 197 were built before 1919, while 20 were built between 1990 and 2000. The greatest number of single family homes (277) were built between 1919 and 1945.[46]
+, there were 743 single family homes (or 10.6% of the total) out of a total of 6,990 inhabited buildings. There were 2,758 multi-family buildings (39.5%), along with 2,886 multi-purpose buildings that were mostly used for housing (41.3%) and 603 other use buildings (commercial or industrial) that also had some housing (8.6%). Of the single family homes, 197 were built before 1919, while 20 were built between 1990 and 2000. The greatest number of single family homes (277) were built between 1919 and 1945.[46]
 
 , there were 101,794 apartments in the municipality. The most common apartment size was 3 rooms of which there were 27,084. There were 21,889 single room apartments and 11,166 apartments with five or more rooms. Of these apartments, a total of 85,330 apartments (83.8% of the total) were permanently occupied, while 13,644 apartments (13.4%) were seasonally occupied and 2,820 apartments (2.8%) were empty.[47] , the construction rate of new housing units was 1.3 new units per 1000 residents.[48]
 
@@ -228,7 +228,7 @@ The World Council of Churches and the Lutheran World Federation both have their 
 
 Protestant Rome
 
-ReformationsdenkmalGenf1.jpg in Geneva; from left to right: William Farel, John Calvin, Theodore Beza, and John Knox]] Prior to the Protestant Reformation the city was _de jure_ and _de facto_ Roman Catholic. Reaction to the new movement varied across Switzerland. John Calvin went to Geneva in 1536 after William Farel encouraged him to do so. In Geneva, the Catholic bishop had been obliged to seek exile in 1532. Geneva became a stronghold of Calvinism. Some of the tenets created there influenced Protestantism as a whole. St. Pierre Cathedral was where Calvin and his Protestant reformers preached. It constituted the epicentre of the newly developing Protestant thought that would later become known as the Reformed tradition. Many prominent Reformed theologians operated there, including William Farel and Theodore Beza, Calvin's successor who progressed Reformed thought after his death.
+in Geneva; from left to right: William Farel, John Calvin, Theodore Beza, and John Knox]] Prior to the Protestant Reformation the city was _de jure_ and _de facto_ Roman Catholic. Reaction to the new movement varied across Switzerland. John Calvin went to Geneva in 1536 after William Farel encouraged him to do so. In Geneva, the Catholic bishop had been obliged to seek exile in 1532. Geneva became a stronghold of Calvinism. Some of the tenets created there influenced Protestantism as a whole. St. Pierre Cathedral was where Calvin and his Protestant reformers preached. It constituted the epicentre of the newly developing Protestant thought that would later become known as the Reformed tradition. Many prominent Reformed theologians operated there, including William Farel and Theodore Beza, Calvin's successor who progressed Reformed thought after his death.
 
 Geneva was a shelter for Calvinists, but at the same time it persecuted Roman Catholics and others considered heretics. The case of Michael Servetus, an early Nontrinitarian, is notable. Condemned by Catholics and Protestants alike, he was arrested in Geneva and burnt at the stake as a heretic by order of the city's Protestant governing council. John Calvin and his followers denounced him, and possibly contributed to his sentence.
 
@@ -279,7 +279,7 @@ As this is one of the world's oldest records of a plant's reaction to climatic c
 
 Music and festivals
 
-Fireworks_at_the_Fêtes_de_Genève_2012_-_panoramio_(54).jpg The opera house, the Grand Théâtre de Genève, which officially opened in 1876, was partly destroyed by a fire in 1951 and reopened in 1962. It has the largest stage in Switzerland. It features opera and dance performances, recitals, concerts and, occasionally, theatre. The Victoria Hall is used for classical music concerts. It is the home of the Orchestre de la Suisse Romande.
+The opera house, the Grand Théâtre de Genève, which officially opened in 1876, was partly destroyed by a fire in 1951 and reopened in 1962. It has the largest stage in Switzerland. It features opera and dance performances, recitals, concerts and, occasionally, theatre. The Victoria Hall is used for classical music concerts. It is the home of the Orchestre de la Suisse Romande.
 
 Every summer the Fêtes de Genève (Geneva Festival) are organised in Geneva. According to Radio Télévision Suisse in 2013 hundreds of thousands of people came to Geneva to see the annual hour-long grand firework display of the Fêtes de Genève.[63]
 
@@ -288,13 +288,13 @@ An annual music festival takes place in June. Groups of artists perform in diffe
 
 Education
 
-Maison_de_la_paix_petals_1_and_2.jpg]] The Canton of Geneva's public school system has _écoles primaires_ (ages 4–12) and _cycles d'orientation_ (ages 12–15). Students can leave school at 15, but secondary education is provided by _collèges_ (ages 15–19), the oldest of which is the Collège Calvin, which could be considered one of the oldest public schools in the world,[65][66] _écoles de culture générale_ (15-18/19) and the _écoles professionnelles_ (15-18/19). The _écoles professionnelles_ offer full-time courses and part-time study as part of an apprenticeship. Geneva also has a number of private schools.[67]
+]] The Canton of Geneva's public school system has _écoles primaires_ (ages 4–12) and _cycles d'orientation_ (ages 12–15). Students can leave school at 15, but secondary education is provided by _collèges_ (ages 15–19), the oldest of which is the Collège Calvin, which could be considered one of the oldest public schools in the world,[65][66] _écoles de culture générale_ (15-18/19) and the _écoles professionnelles_ (15-18/19). The _écoles professionnelles_ offer full-time courses and part-time study as part of an apprenticeship. Geneva also has a number of private schools.[67]
 
 In 2011 89,244 (37.0%) of the population had completed non-mandatory upper secondary education, and 107,060 or (44.3%) had completed additional higher education (either university or a Fachhochschule). Of the 107,060 who completed tertiary schooling, 32.5% were Swiss men, 31.6% were Swiss women, 18.1% were non-Swiss men and 17.8% were non-Swiss women.
 
 During the 2011–2012 school year, there were a total of 92,311 students in the Geneva school system (primary to university). The education system in the Canton of Geneva has eight years of primary school, with 32,716 students. The secondary school program consists of three lower, obligatory years of schooling, followed by three to five years of optional, advanced study. There were 13,146 lower-secondary students who attended schools in Geneva. There were 10,486 upper-secondary students from the municipality along with 10,330 students who were in a professional, non-university track program. An additional 11,797 students were attending private schools.[68]
 
-university_Geneva.jpg.]] Geneva is home to the University of Geneva. In 1559 John Calvin founded the Geneva Academy, a theological and humanist seminary. In the 19th century the Academy lost its ecclesiastic links and in 1873, with the addition of a medical faculty, it became the University of Geneva. In 2011 it was ranked European university.[69]
+.]] Geneva is home to the University of Geneva. In 1559 John Calvin founded the Geneva Academy, a theological and humanist seminary. In the 19th century the Academy lost its ecclesiastic links and in 1873, with the addition of a medical faculty, it became the University of Geneva. In 2011 it was ranked European university.[69]
 
 The Graduate Institute of International and Development Studies was among the first academic institutions in the World to teach international relations. It is one of Europe's most prestigious institutions, offering MA and PhD programmes in law, political science, history, economics, international affairs, and development studies.
 
@@ -307,7 +307,7 @@ Geneva is home to five major libraries, the _Bibliothèques municipales Genève_
 
 Economy
 
-IntAutoSalonGenf08.JPG, 2008]] Geneva's economy is services oriented. The city has an important and long-established finance sector, which specialises in private banking, managing assets of about US$1 trillion, and the financing of international trade. In the September 2017 Global Financial Centres Index, Geneva was ranked as being the 15th most competitive financial centre in the world (up from 20th in March 2017) and the fifth most competitive in Europe (after London, Zürich, Frankfurt, and Luxembourg).[71]
+, 2008]] Geneva's economy is services oriented. The city has an important and long-established finance sector, which specialises in private banking, managing assets of about US$1 trillion, and the financing of international trade. In the September 2017 Global Financial Centres Index, Geneva was ranked as being the 15th most competitive financial centre in the world (up from 20th in March 2017) and the fifth most competitive in Europe (after London, Zürich, Frankfurt, and Luxembourg).[71]
 
 Geneva hosts the international headquarters of companies such as Japan Tobacco International, Mediterranean Shipping Company, Vitol, Gunvor, Mercuria Energy Group. Merck Serono,[72] SITA, Société Générale de Surveillance, STMicroelectronics, and Weatherford International.[73] Many other multinational companies such as Caterpillar, DuPont, and Cargill have their international headquarters in the city; Take Two Interactive, Electronic Arts, INVISTA, Procter & Gamble and Oracle Corporation have their European headquarters in the city. Hewlett Packard has its Europe, Africa, and Middle East headquarters in Meyrin, near Geneva,[74][75] as does PrivatAir.[76][77]
 
@@ -343,15 +343,15 @@ Infrastructure
 
 Transportation
 
-Gare_de_Geneve_2236_Michelides.jpg TCMC_(Tramway_Cornavin_-_Meyrin_-_CERN).JPG The city is served by the Geneva Cointrin International Airport. It is connected by Geneva Airport railway station () to both the Swiss Federal Railways network and the French SNCF network, including links to Paris, Lyon, Marseille and Montpellier by TGV. Geneva is connected to the motorway systems of both Switzerland (A1 motorway) and France.
+The city is served by the Geneva Cointrin International Airport. It is connected by Geneva Airport railway station () to both the Swiss Federal Railways network and the French SNCF network, including links to Paris, Lyon, Marseille and Montpellier by TGV. Geneva is connected to the motorway systems of both Switzerland (A1 motorway) and France.
 
 Public transport by bus, trolleybus or tram is provided by _Transports Publics Genevois_. In addition to an extensive coverage of the city centre, the network extends to most of the municipalities of the Canton, with a few lines reaching into France. Public transport by boat is provided by the Mouettes Genevoises, which link the two banks of the lake within the city, and by the _Compagnie Générale de Navigation sur le lac Léman_ which serves more distant destinations such as Nyon, Yvoire, Thonon, Évian, Lausanne and Montreux using both modern diesel vessels and vintage paddle steamers.
 
-Train_Station_Geneva_2006_808.JPG Trains operated by Swiss Federal Railways connect the airport to the main station of Cornavin in six minutes. Regional train services are being developed towards Coppet and Bellegarde. At the city limits two new railway stations have been opened since 2002: Genève-Sécheron (close to the UN and the Botanical Gardens) and Lancy-Pont-Rouge.
+Trains operated by Swiss Federal Railways connect the airport to the main station of Cornavin in six minutes. Regional train services are being developed towards Coppet and Bellegarde. At the city limits two new railway stations have been opened since 2002: Genève-Sécheron (close to the UN and the Botanical Gardens) and Lancy-Pont-Rouge.
 
 In 2011 work started on the CEVA rail (Cornavin – Eaux-Vives – Annemasse) project, first planned in 1884, which will connect Cornavin with the Cantonal hospital, Eaux-Vives railway station and Annemasse, in France. The link between the main railway station and the classification yard of La Praille already exists; from there, the line will go mostly underground to the Hospital and Eaux-Vives, where it will link to the existing line to France.
 
-TOSA_Bus_at_PALEXPO_with_flag.jpg In May 2013, the demonstrator electric bus system[93] with a capacity of 133 passengers commenced between Geneva Airport and Palexpo. The project aims to introduce a new system of mass transport with electric "flash" recharging of the buses at selected stops while passengers are disembarking and embarking.[94]
+In May 2013, the demonstrator electric bus system[93] with a capacity of 133 passengers commenced between Geneva Airport and Palexpo. The project aims to introduce a new system of mass transport with electric "flash" recharging of the buses at selected stops while passengers are disembarking and embarking.[94]
 
 Taxis in Geneva can be difficult to find, and may need to be booked in advance, especially in the early morning or at peak hours. Taxis can refuse to take babies and children because of seating legislation.[95]
 
@@ -364,7 +364,7 @@ Water, natural gas and electricity are provided to the municipalities of the Can
 
 International organisations
 
-WIPO3.JPG.]] ONU_Geneva_mainroom.jpg.]]
+.]] .]]
 
 Geneva is the European headquarters of the United Nations, in the Palace of Nations building, which was also the headquarters of the former League of Nations. Several agencies are headquartered at Geneva, including the United Nations High Commissioner for Refugees, the UN Office of the High Commissioner for Human Rights, the World Health Organization, the International Labour Organization , International Telecommunication Union, the International Baccalaureate Organization and the World Intellectual Property Organization.
 
@@ -382,8 +382,6 @@ The World Organization of the Scout Movement and the World Scout Bureau Central 
 Notable people
 
 A–C
-
-GustaveAdor.jpg Valais_Cup_2013_-_OM-FC_Porto_13-07-2013_-_Marion_Bartoli.jpg Christiane_Brunner.jpg MCC-31320_Portret_van_Johannes_Calvijn_(1509-1564)-uitsnede.jpg Isaac_Casaubon_from_NPG.jpg
 
 -   Alfredo Aceto (born 1991) a visual artist
 -   Gustave Ador (1845–1928) statesman, President of the Red Cross (ICRC) [100]
@@ -433,8 +431,6 @@ GustaveAdor.jpg Valais_Cup_2013_-_OM-FC_Porto_13-07-2013_-_Marion_Bartoli.jpg Ch
 
 D–G
 
-Michel_Decastel.JPG Jean_Henri_Dunant.jpg Kat_Graham_during_an_interview_in_June_2017_01.png
-
 -   Maryam d'Abo (born 1960) English film and TV actress and Bond girl [124]
 -   Jacques-Antoine Dassier (1715–1759) a Genevan medallist, active in London [125]
 -   Michel Decastel (born 1955) football manager and midfielder, 314 club caps, 19 for Switzerland
@@ -470,8 +466,6 @@ Michel_Decastel.JPG Jean_Henri_Dunant.jpg Kat_Graham_during_an_interview_in_June
 -   Romain Grosjean (born 1986) racing driver, currently racing for the Haas F1 Team
 
 H–M
-
-Francois-huber-(1750-1831).jpg Paul_Lachenal.jpg LeninEnSuizaMarzo1916--barbaroussovietr00mcbr.png Amelie_Mauresmo_at_the_Aegon_Championships_2014.jpg
 
 -   Admiral of the Fleet Lord John Hay GCB (1827–1916) Royal Navy officer and politician
 -   Abraham Hermanjat (1862–1932) painter who worked in the Fauvist and Divisionist styles
@@ -515,8 +509,6 @@ Francois-huber-(1750-1831).jpg Paul_Lachenal.jpg LeninEnSuizaMarzo1916--barbarou
 
 N-R
 
-Maury_Pasquier_Liliane.jpg Physicist_Pierre_Prévost.jpg Rousseau_in_later_life.jpg
-
 -   Jacques Necker (1732–1804), banker and finance minister for Louis XVI of France [157]
 -   Louis Albert Necker (1786–1861) a crystallographer and geographer, devised the Necker cube
 -   Felix Neff (1798–1829) Protestant divine and philanthropist [158]
@@ -546,8 +538,6 @@ Maury_Pasquier_Liliane.jpg Physicist_Pierre_Prévost.jpg Rousseau_in_later_life.
 -   Xavier Ruiz (born 1970), film producer and director [171]
 
 S–Z
-
-Ferdinand_de_Saussure_by_Jullien.png Salzburger_Festspiele_2012_-_Szene_aus_"Das_Labyrinth".jpg Michel_Simon_in_The_Train_(1964)_trailer.jpg Vogel061115.jpg Voltaire3.jpg
 
 -   Ferdinand de Saussure (1857–1913) a linguist and semiotician
 -   Horace Bénédict de Saussure (1740–1799) geologist, meteorologist, physicist, and Alpine explorer [172]

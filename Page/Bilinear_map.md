@@ -40,7 +40,7 @@ A first immediate consequence of the definition is that whenever or . This may b
 
 The set of all bilinear maps is a linear subspace of the space (viz. vector space, module) of all maps from into _X_.
 
-FourfacesofBilinaearmaps.PNG of this are taken to the other three possibilities using duality and the musical isomorphism]]
+of this are taken to the other three possibilities using duality and the musical isomorphism]]
 
 If _V_, _W_, _X_ are finite-dimensional, then so is . For , i.e. bilinear forms, the dimension of this space is (while the space of _linear_ forms is of dimension ). To see this, choose a basis for _V_ and _W_; then each bilinear map can be uniquely represented by the matrix , and vice versa. Now, if _X_ is a space of higher dimension, we obviously have .
 

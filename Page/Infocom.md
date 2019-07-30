@@ -16,7 +16,7 @@ History
 
 The beginning
 
-Zork_I_screenshot_video_game_Gargoyle_interpreter_on_Ubuntu_Linux.png'' was Infocom's first product. This screenshot of _Zork I_ is representative of the sort of interaction a player has with Infocom's interactive fiction titles. Here it is depicted running on a modern Z-machine interpreter.]]
+'' was Infocom's first product. This screenshot of _Zork I_ is representative of the sort of interaction a player has with Infocom's interactive fiction titles. Here it is depicted running on a modern Z-machine interpreter.]]
 
 Inspired by _Colossal Cave_, Marc Blank and Dave Lebling created what was to become the first Infocom game, _Zork_, in 1977 at MIT's Laboratory for Computer Science. Despite the development of a revolutionary virtual memory system that allowed games to be much larger than the average personal computer's normal capacity, the enormous mainframe-developed game had to be split into three roughly equal parts. _Zork I_ was released originally for the TRS-80 in 1980.[4] Infocom was founded on June 22, 1979; the founding members were Tim Anderson, Joel Berez, Marc Blank, Mike Broos, Scott Cutler, Stu Galley, Dave Lebling, J. C. R. Licklider, Chris Reeve and Al Vezza.[5]
 

@@ -18,7 +18,7 @@ Between 1960 and 1964, Topol performed with the _Batzal Yarok_ ("Green Onion") s
 
 Early film career
 
-Chaim_Topol_as_Sallah_Shabati,_drawing_by_Chaim_Topol.JPG'']] Topol's first film appearance was in the 1961 film _I Like Mike_, followed by the 1963 Israeli film _El Dorado_.[16][17] His breakthrough role came as the lead character in the 1964 film _Sallah Shabati_.[18] Adapted for the screen by Ephraim Kishon from his original play, the social satire depicts the hardships of a Mizrahi Jewish immigrant family in Israel in the 1950s, satirizing "just about every pillar of Israeli society: the Ashkenazi establishment, the pedantic bureaucracy, corrupt political parties, rigid kibbutz ideologues and ... the Jewish National Fund's tree-planting program".[19][20] Topol, who was 29 during the filming,[21] was familiar playing the role of the family patriarch, having performed skits from the play with his Nahal entertainment troupe during his army years.[22][23] He contributed his own ideas for the part, playing the character as a more universal Sephardi Jew instead of specifically a Yemenite, Iraqi, or Moroccan Jew, and asking Kishon to change the character's first name from Saadia (a recognizably Yemenite name) to Sallah (a more general Mizrahi name).[24]
+'']] Topol's first film appearance was in the 1961 film _I Like Mike_, followed by the 1963 Israeli film _El Dorado_.[16][17] His breakthrough role came as the lead character in the 1964 film _Sallah Shabati_.[18] Adapted for the screen by Ephraim Kishon from his original play, the social satire depicts the hardships of a Mizrahi Jewish immigrant family in Israel in the 1950s, satirizing "just about every pillar of Israeli society: the Ashkenazi establishment, the pedantic bureaucracy, corrupt political parties, rigid kibbutz ideologues and ... the Jewish National Fund's tree-planting program".[19][20] Topol, who was 29 during the filming,[21] was familiar playing the role of the family patriarch, having performed skits from the play with his Nahal entertainment troupe during his army years.[22][23] He contributed his own ideas for the part, playing the character as a more universal Sephardi Jew instead of specifically a Yemenite, Iraqi, or Moroccan Jew, and asking Kishon to change the character's first name from Saadia (a recognizably Yemenite name) to Sallah (a more general Mizrahi name).[24]
 
 The film won the Golden Globe Award for Best Foreign Language Film, and Topol won the 1964 Golden Gate Award for Best Actor at the San Francisco International Film Festival and the 1965 Golden Globe for Most Promising Newcomer—Male.[25][26] _Sallah Shabati_ was nominated for the Academy Award for Best Foreign Language Film, losing to the Italian-language _Yesterday, Today and Tomorrow_.[27]
 
@@ -66,7 +66,7 @@ A baritone,[65] Topol recorded several singles and albums, including film soundt
 
 Author and illustrator
 
-Shimon_Peres_by_Chaim_Topol.JPG by Topol]] His autobiography, _Topol by Topol_, was published in London by Weindenfel and Nicholson (1981).[67] He also authored _To Life!_ (1994) and _Topol's Treasury of Jewish Humor, Wit and Wisdom_ (1995).[68]
+by Topol]] His autobiography, _Topol by Topol_, was published in London by Weindenfel and Nicholson (1981).[67] He also authored _To Life!_ (1994) and _Topol's Treasury of Jewish Humor, Wit and Wisdom_ (1995).[68]
 
 Topol has illustrated approximately 25 books in both Hebrew and English.[69] He has also produced drawings of Israeli national figures. His sketches of Israeli presidents were reproduced in a 2013 stamp series issued by the Israel Philatelic Federation,[70] as was his self-portrait as Tevye for a 2014 commemorative stamp marking the 50th anniversary of the Broadway debut of _Fiddler on the Roof_.[71]
 
@@ -78,7 +78,7 @@ In 1967, Topol founded Variety Israel, an organization serving children with spe
 
 Other awards
 
-Recipients_of_Kinor_David_1964.jpg award in arts and entertainment, 1964]] Topol was a recipient of Israel's Kinor David award in arts and entertainment in 1964.[76] He received a Best Actor award from the San Sebastián International Film Festival for his performance in the 1972 film _Follow Me!_[77] In 2008, he was named an Outstanding Member of the Israel Festival for his contribution to Israeli culture.[78][79]
+award in arts and entertainment, 1964]] Topol was a recipient of Israel's Kinor David award in arts and entertainment in 1964.[76] He received a Best Actor award from the San Sebastián International Film Festival for his performance in the 1972 film _Follow Me!_[77] In 2008, he was named an Outstanding Member of the Israel Festival for his contribution to Israeli culture.[78][79]
 
 In 2014, the University of Haifa conferred upon Topol an honorary degree in recognition of his 50 years of activity in Israel's cultural and public life.[80] In 2015, he received the Israel Prize for lifetime achievement.[81][82]
 

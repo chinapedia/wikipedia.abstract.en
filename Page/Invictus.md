@@ -15,7 +15,7 @@ Poem
 
 Importance
 
-Portrait_of_William_Ernest_Henley.jpg]] When Henley was 16 years old, his left leg required amputation due to complications arising from tuberculosis.[16] In the early 1870s, after seeking treatment for problems with his other leg at Margate, he was told that it would require a similar procedure. In August 1873 he chose instead to travel to Edinburgh to enlist the services of the distinguished English surgeon Joseph Lister,[17][18] who was able to save Henley's remaining leg after multiple surgical interventions on the foot.[19] While recovering in the infirmary, he was moved to write the verses that became "Invictus". A memorable evocation of Victorian stoicism—the "stiff upper lip" of self-discipline and fortitude in adversity, which popular culture rendered into a British character trait—"Invictus" remains a cultural touchstone.[20]
+]] When Henley was 16 years old, his left leg required amputation due to complications arising from tuberculosis.[16] In the early 1870s, after seeking treatment for problems with his other leg at Margate, he was told that it would require a similar procedure. In August 1873 he chose instead to travel to Edinburgh to enlist the services of the distinguished English surgeon Joseph Lister,[17][18] who was able to save Henley's remaining leg after multiple surgical interventions on the foot.[19] While recovering in the infirmary, he was moved to write the verses that became "Invictus". A memorable evocation of Victorian stoicism—the "stiff upper lip" of self-discipline and fortitude in adversity, which popular culture rendered into a British character trait—"Invictus" remains a cultural touchstone.[20]
 
 
 Sources

@@ -7,7 +7,7 @@ Dense grasslands extend beyond the Congo River in the north. High mountains of t
 
 Climate
 
-Koppen-Geiger_Map_COD_present.svg The Democratic Republic of the Congo lies on the equator, with one-third of the country to the north and two-thirds to the south. The climate is hot and humid in the river basin and cool and dry in the southern highlands, with a cold, alpine climate in the Rwenzori Mountains.
+The Democratic Republic of the Congo lies on the equator, with one-third of the country to the north and two-thirds to the south. The climate is hot and humid in the river basin and cool and dry in the southern highlands, with a cold, alpine climate in the Rwenzori Mountains.
 
 South of the equator, the rainy season lasts from October to May and north of the Equator, from April to November. Along the Equator, rainfall is fairly regular throughout the year. During the wet season, thunderstorms often are violent but seldom last more than a few hours. The average rainfall for the entire country is about .
 
@@ -37,7 +37,7 @@ MARITIME CLAIMS:
 _territorial sea:_
 _exclusive economic zone:_ boundaries with neighbors
 
-CLIMATE: tropical; hot and humid in equatorial river basin; cooler and drier in southern highlands; cooler-cold and wetter in eastern highlands and the Ruwenzori Range; north of Equator - wet season April to October, dry season December to February; south of Equator - wet season November to March, dry season April to October LocationDRCongo.png
+CLIMATE: tropical; hot and humid in equatorial river basin; cooler and drier in southern highlands; cooler-cold and wetter in eastern highlands and the Ruwenzori Range; north of Equator - wet season April to October, dry season December to February; south of Equator - wet season November to March, dry season April to October
 
 TERRAIN: vast central plateau covered by tropical rainforest, surrounded by mountains in the west, plains and savanna in the south/southwest, and grasslands in the north. The high mountains of the Ruwenzori Range on the eastern borders.
 

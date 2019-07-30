@@ -1,4 +1,4 @@
-stcyprian.jpg, who urged diligence in the process of canonization]]
+, who urged diligence in the process of canonization]]
 
 CANONIZATION is the act by which a Christian church declares that a person who has died was a saint, upon which declaration the person is included in the list of recognized saints, called the "canon". Originally, a person was recognized as a saint without any formal process. Later, different processes were developed, such as those used today in the Roman Catholic Church, the Eastern Orthodox Church, Oriental Orthodox Church and the Anglican Communion.
 
@@ -35,7 +35,7 @@ In the Catholic Church, canonization is a decree that allows universal veneratio
 
 Procedure prior to reservation to the Apostolic See
 
-Pintoricchio_018_detail.jpg canonizes Catherine of Siena]]
+canonizes Catherine of Siena]]
 
 For several centuries the Bishops, or in some places only the Primates and Patriarchs,[3] could grant martyrs and confessors public ecclesiastical honor; such honor, however, was always decreed only for the local territory of which the grantors had jurisdiction. Only acceptance of the _cultus_ by the Pope made the _cultus_ universal, because he alone can rule the universal Catholic Church.[4] Abuses, however, crept into this discipline, due as well to indiscretions of popular fervor as to the negligence of some bishops in inquiring into the lives of those whom they permitted to be honoured as saints.
 
@@ -121,7 +121,7 @@ Pope Francis added Saints:
 
 Eastern Orthodox Church
 
-Пиотровский._батакская_резня._1889_год.jpeg (1876). On 3 April 2011, Batak massacre victims were canonized as saints.]] Smyrna-massacre_greeks-killed_line.jpg of the Church of Greece unanimously declared christians that were tortured and massacred by the Turks in the Great fire of Smyrna in 1922 as saints.[25][26]]]
+(1876). On 3 April 2011, Batak massacre victims were canonized as saints.]] of the Church of Greece unanimously declared christians that were tortured and massacred by the Turks in the Great fire of Smyrna in 1922 as saints.[25][26]]]
 
 The following terms are used for canonization by the autocephalous national Orthodox Churches: канонизация[27] or прославление[28] "glorification"[29] (Russian Orthodox Church), კანონიზაცია _kanonizats’ia_ (Georgian Orthodox Church), канонизација (Serbian Orthodox Church), _canonizare_ (Romanian Orthodox Church), and Канонизация (Bulgarian Orthodox Church). The following terms are used for canonization by other autocephalous Orthodox Churches: αγιοκατάταξη[30] (Katharevousa: ἁγιοκατάταξις) _agiokatataxi/agiokatataxis_, "ranking among saints" (Ecumenical Patriarchate of Constantinople, Church of Cyprus, Church of Greece), _kanonizim_ (Albanian Orthodox Church), _kanonizacja_ (Polish Orthodox Church), and _kanonizace/kanonizácia_ (Czech and Slovak Orthodox Church).
 

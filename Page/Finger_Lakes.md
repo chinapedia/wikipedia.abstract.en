@@ -10,7 +10,7 @@ The origin of the name _Finger Lakes_ is uncertain.[5] Currently, the oldest kno
 
 Lakes
 
-Fingerlakesmap.png The 11 Finger Lakes, from east to west, are:
+The 11 Finger Lakes, from east to west, are:
 
 -   Otisco Lake
 -   Skaneateles Lake
@@ -26,7 +26,7 @@ Fingerlakesmap.png The 11 Finger Lakes, from east to west, are:
 
 Onondaga Lake to the east, although smaller, is sometimes called "the 12th Finger Lake", because it is similar in shape. It is in Appalachian hill terrain, with a historic village linked to other Finger Lakes by US 20. It may have been formed in the same manner as the Finger Lakes, as satellite photos show three valleys similar in character and spacing to the Finger Lakes east of Otisco Lake. The first is the Tully Valley, which includes a chain of small lakes at the south end that could be a "Finger Lake" that never formed because of a terminal moraine. The moraine caused the Tioughnioga River to flow south instead of north, the opposite of the Finger Lakes' waters. The next two valleys to the east contain Butternut Creek, which flows north, and the East Branch of the Tioughnioga River, which flows south. The next valley contains Limestone Creek, which flows north. The next valley after that contains Cazenovia Lake.
 
-Overview_of_the_Great_Lakes_from_orbit.jpg (upper left), Lake Huron (upper right), and Lake Ontario (lower right) are three of the Great Lakes]] Oneida Lake, to the northeast of Syracuse, is sometimes included as the "thumb", although it is shallow and somewhat different in character from the rest. As with Onondaga and Cazenovia Lakes, it drains into Lake Ontario and the St. Lawrence River. Chautauqua Lake, Findley Lake and Kinzua Lake to the west are not considered Finger Lakes; all three drain into the Allegheny River and eventually into the Gulf of Mexico, and in the case of Kinzua and Findley, the lakes are the artificial creation of dams.
+(upper left), Lake Huron (upper right), and Lake Ontario (lower right) are three of the Great Lakes]] Oneida Lake, to the northeast of Syracuse, is sometimes included as the "thumb", although it is shallow and somewhat different in character from the rest. As with Onondaga and Cazenovia Lakes, it drains into Lake Ontario and the St. Lawrence River. Chautauqua Lake, Findley Lake and Kinzua Lake to the west are not considered Finger Lakes; all three drain into the Allegheny River and eventually into the Gulf of Mexico, and in the case of Kinzua and Findley, the lakes are the artificial creation of dams.
 
 Conesus, Hemlock, Canadice, Honeoye, and Otisco are considered the minor Finger Lakes. Other, smaller lakes, including Silver, Waneta, and Lamoka lakes, dot this region. Silver Lake, west of Conesus Lake, would seem to qualify because it is in the Great Lakes watershed, but Waneta and Lamoka lakes are part of the Susquehanna River watershed as they drain into a tributary of the Chemung River.
 
@@ -37,7 +37,7 @@ The muckland of a valley in Potter, New York, which is part of Torrey Farms, was
 
 Geology
 
-S._Main_Bench.jpg.]] These glacial finger lakes originated as a series of northward-flowing streams. Around two million years ago, the first of many continental glaciers of the Laurentide Ice Sheet moved southward from the Hudson Bay area, initiating the Pleistocene glaciation. These scouring glaciers widened, deepened, and accentuated the existing river valleys. Glacial debris, possibly terminal moraine left behind by the receding ice, acted as dams, allowing lakes to form. Despite the deep erosion of the valleys, the surrounding uplands show little evidence of glaciation, suggesting the ice was thin, or at least unable to cause much erosion at these higher altitudes. The deep cutting by the ice left some tributaries hanging high above the lakes—both Seneca and Cayuga have tributaries hanging as much as 120 m above the valley floors.[10]
+.]] These glacial finger lakes originated as a series of northward-flowing streams. Around two million years ago, the first of many continental glaciers of the Laurentide Ice Sheet moved southward from the Hudson Bay area, initiating the Pleistocene glaciation. These scouring glaciers widened, deepened, and accentuated the existing river valleys. Glacial debris, possibly terminal moraine left behind by the receding ice, acted as dams, allowing lakes to form. Despite the deep erosion of the valleys, the surrounding uplands show little evidence of glaciation, suggesting the ice was thin, or at least unable to cause much erosion at these higher altitudes. The deep cutting by the ice left some tributaries hanging high above the lakes—both Seneca and Cayuga have tributaries hanging as much as 120 m above the valley floors.[10]
 
 Detailed studies of Marine Isotope Stage 3 and 4 age sediments exposed at a locality called GREAT GULLY on the eastern flank of the Cayuga Lake, near Union Springs, New York, record the presence of a paleolake that existed prior to Cayuga Lake. This paleolake, which is called GLACIAL LAKE NANETTE, was a proglacial lake that filled the bedrock valley currently occupied by Cayuga Lake from about 50,000 BP calibrated until it was overridden by a glacial readvance that occurred prior to 30,000 BP calibrated and buried it beneath younger glacial till. This research shows that bedrock valleys, in which the Finger lakes lie, existed prior to the Last Glacial Maximum and developed over multiple glaciations. [11][12]
 
@@ -48,7 +48,7 @@ Much of the Finger Lakes area lies upon the Marcellus Shale and the Utica Shale,
 
 History
 
-Bluffpoint.jpg Granger_Homestead.jpg]]
+]]
 
 The Finger Lakes region contains evidence of pre-Iroquois habitation, such as The Bluff Point Stoneworks, but little is known about who may have constructed these enigmatic structures.
 
@@ -65,8 +65,6 @@ Roughly the western half of the Finger Lakes region comprised the Phelps and Gor
 
 Notable places
 
-Canadice_Lake_in_the_Finger_Lakes.jpg
-
 The Finger Lakes region, together with the Genesee Country of Western New York, has been referred to as the burned-over district.[15] There, in the 19th century, the Second Great Awakening was a revival of Christianity; some new religions were also formed.
 
 The region was active in reform and utopian movements. Many of its Underground Railroad sites have been documented. For example, the Harriet Tubman Home at Auburn recalls the life and work of the African-American "Moses of her people."
@@ -75,7 +73,7 @@ On the northern end of the Finger Lakes are also Seneca Falls, the birthplace of
 
 Hammondsport was the home of aviation pioneer Glenn Curtiss, and favorable air currents make the area a popular spot for glider pilots. Elmira, just to the south, was the home of Mark Twain in his later life, and the site of an infamous Civil War prison. Corning is most noted as the home of Corning Glass Works and the Corning Museum of Glass. Hornell, just southwest of the Finger Lakes, was a major railroad center; locomotives were repaired there until recently. Conesus remains the home of the oldest producer of pure grape sacramental wine in the Western hemisphere.
 
-Finger_Lakes_Hemlock_Lake.jpg Notable among the historic buildings of the region (most linked below) is the Granger Homestead (1816), a large village house in Federal Style at Canandaigua, New York. Another example of the Federal Style is the Prouty-Chew House (1829) at Geneva, portions of which were altered at various times in new fashions.
+Notable among the historic buildings of the region (most linked below) is the Granger Homestead (1816), a large village house in Federal Style at Canandaigua, New York. Another example of the Federal Style is the Prouty-Chew House (1829) at Geneva, portions of which were altered at various times in new fashions.
 
 Three Greek Revival mansions are situated near three lakes: The Richard DeZeng House, Skaneateles (1839); Rose Hill, Geneva (1839); and Esperanza, Penn Yan (1838). The latter two are open to the public.
 
@@ -87,8 +85,6 @@ Hemlock Lake is home to the state's oldest nesting bald eagle site, dating back 
 
 Wine
 
-Sunrise_overlooking_a_vineyard_in_the_Finger_Lakes.jpg
-
 The Finger Lakes area is New York's largest wine-producing region. Over 100 wineries and vineyards are around Seneca, Cayuga, Canandaigua, Keuka, Conesus, and Hemlock Lakes. Because of the lakes' great depth, they provide a lake effect to the lush vineyards that flank their shores. Retaining residual summer warmth in the winter, and winter's cold in the spring, the grapes are protected from disastrous spring frost during shoot growth, and early frost before the harvest. The main grape varieties grown are Chardonnay, Riesling, Gewürztraminer, Pinot noir, Cabernet Franc, Vidal blanc, Seyval blanc and many _Vitis labrusca_ (American native) varieties or cultivars.
 
 With the passage of the Farm Winery Act in 1976, numerous wineries are now open to visitors. Wineries are a growth industry of the region, contributing through their production and by attracting visitors. The Finger Lakes American Viticulture Area (AVA) includes two of America's oldest wineries, O-Neh-Da Vineyard (1872) on Hemlock Lake and The Pleasant Valley Wine Company (1860) on Keuka Lake.
@@ -99,7 +95,7 @@ Aside from wine, the craft beer industry has exploded in the region, with the nu
 
 Educational institutions
 
-WellsCollegeTower600R.jpg, Aurora]]
+, Aurora]]
 
 The area is also known for education; the largest institution is Cornell University in Ithaca. Other notable schools are Ithaca College, also in Ithaca; the University of Rochester, Nazareth College, St. John Fisher College, Roberts Wesleyan College and Rochester Institute of Technology in Rochester; Elmira College in Elmira; Corning Community College in Corning; Tompkins Cortland Community College in Dryden, Ithaca, and Cortland; Wells College in Aurora; Hobart and William Smith Colleges in Geneva; Keuka College in Keuka Park; Finger Lakes Community College in Canandaigua and Geneva; and The State University of New York at Cortland in Cortland; New York Chiropractic College in Seneca Falls; Cayuga Community College in Auburn; and The State University of New York at Geneseo in Geneseo.
 

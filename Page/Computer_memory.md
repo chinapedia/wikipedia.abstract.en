@@ -6,12 +6,8 @@ Most semiconductor memory is organized into memory cells or bistable flip-flops,
 
 Typical secondary storage devices are hard disk drives and solid-state drives.
 
-RAM_Module_(SDRAM-DDR4).jpg
-
 
 History
-
-ENIAC_Penn2.jpg
 
 In the early 1940s, memory technology often permitted a capacity of a few bytes. The first electronic programmable digital computer, the ENIAC, using thousands of octal-base radio vacuum tubes, could perform simple calculations involving 20 numbers of ten decimal digits which were held in the vacuum tube accumulators.
 
@@ -34,8 +30,6 @@ Developments in technology and economies of scale have made possible so-called V
 
 Volatile memory
 
-Kinds-of-RAM.JPG
-
 Volatile memory is computer memory that requires power to maintain the stored information. Most modern semiconductor volatile memory is either static RAM (SRAM) or dynamic RAM (DRAM). SRAM retains its contents as long as the power is connected and is easy for interfacing, but uses six transistors per bit. Dynamic RAM is more complicated for interfacing and control, needing regular refresh cycles to prevent losing its contents, but uses only one transistor and one capacitor per bit, allowing it to reach much higher densities and much cheaper per-bit costs.
 
 SRAM is not worthwhile for desktop system memory, where DRAM dominates, but is used for their cache memories. SRAM is commonplace in small embedded systems, which might only need tens of kilobytes or less. Forthcoming volatile memory technologies that aim at replacing or competing with SRAM and DRAM include Z-RAM and A-RAM.
@@ -43,7 +37,7 @@ SRAM is not worthwhile for desktop system memory, where DRAM dominates, but is u
 
 Non-volatile memory
 
-Intel_X25-M_Solid-State_Drive.jpgs are one example of non-volatile memory.]]
+s are one example of non-volatile memory.]]
 
 Non-volatile memory is computer memory that can retain the stored information even when not powered. Examples of non-volatile memory include read-only memory (see ROM), flash memory, most types of magnetic computer storage devices (e.g. hard disk drives, floppy disks and magnetic tape), optical discs, and early computer storage methods such as paper tape and punched cards.
 

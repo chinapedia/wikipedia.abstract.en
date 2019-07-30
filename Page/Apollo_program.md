@@ -2,7 +2,7 @@ The APOLLO PROGRAM, also known as PROJECT APOLLO, was the third United States hu
 
 Kennedy's goal was accomplished on the Apollo 11 mission when astronauts Neil Armstrong and Buzz Aldrin landed their Apollo Lunar Module (LM) on July 20, 1969, and walked on the lunar surface, while Michael Collins remained in lunar orbit in the command and service module (CSM), and all three landed safely on Earth on July 24. Five subsequent Apollo missions also landed astronauts on the Moon, the last in December 1972. In these six spaceflights, twelve men walked on the Moon.
 
-Aldrin_Apollo_11_original.jpg (pictured) walked on the Moon with Neil Armstrong, on Apollo 11, July 20–21, 1969|alt=Astronaut Buzz Aldrin stands on the Moon]] NASA-Apollo8-Dec24-Earthrise.jpg'', an iconic image from the 1968 Apollo 8 mission, taken by astronaut William Anders]] Apollo ran from 1961 to 1972, with the first crewed flight in 1968. It achieved its goal of crewed lunar landing, despite the major setback of a 1967 Apollo 1 cabin fire that killed the entire crew during a prelaunch test. After the first landing, sufficient flight hardware remained for nine follow-on landings with a plan for extended lunar geological and astrophysical exploration. Budget cuts forced the cancellation of three of these. Five of the remaining six missions achieved successful landings, but the Apollo 13 landing was prevented by an oxygen tank explosion in transit to the Moon, which destroyed the service module's capability to provide electrical power, crippling the CSM's propulsion and life support systems. The crew returned to Earth safely by using the lunar module as a "lifeboat" for these functions. Apollo used Saturn family rockets as launch vehicles, which were also used for an Apollo Applications Program, which consisted of Skylab, a space station that supported three crewed missions in 1973–74, and the Apollo–Soyuz Test Project, a joint US-Soviet Union Earth-orbit mission in 1975.
+(pictured) walked on the Moon with Neil Armstrong, on Apollo 11, July 20–21, 1969|alt=Astronaut Buzz Aldrin stands on the Moon]] '', an iconic image from the 1968 Apollo 8 mission, taken by astronaut William Anders]] Apollo ran from 1961 to 1972, with the first crewed flight in 1968. It achieved its goal of crewed lunar landing, despite the major setback of a 1967 Apollo 1 cabin fire that killed the entire crew during a prelaunch test. After the first landing, sufficient flight hardware remained for nine follow-on landings with a plan for extended lunar geological and astrophysical exploration. Budget cuts forced the cancellation of three of these. Five of the remaining six missions achieved successful landings, but the Apollo 13 landing was prevented by an oxygen tank explosion in transit to the Moon, which destroyed the service module's capability to provide electrical power, crippling the CSM's propulsion and life support systems. The crew returned to Earth safely by using the lunar module as a "lifeboat" for these functions. Apollo used Saturn family rockets as launch vehicles, which were also used for an Apollo Applications Program, which consisted of Skylab, a space station that supported three crewed missions in 1973–74, and the Apollo–Soyuz Test Project, a joint US-Soviet Union Earth-orbit mission in 1975.
 
 Apollo set several major human spaceflight milestones. It stands alone in sending crewed missions beyond low Earth orbit. Apollo 8 was the first crewed spacecraft to orbit another celestial body, while the final Apollo 17 mission marked the sixth Moon landing and the ninth crewed mission beyond low Earth orbit. The program returned of lunar rocks and soil to Earth, greatly contributing to the understanding of the Moon's composition and geological history. The program laid the foundation for NASA's subsequent human spaceflight capability and funded construction of its Johnson Space Center and Kennedy Space Center. Apollo also spurred advances in many areas of technology incidental to rocketry and human spaceflight, including avionics, telecommunications, and computers.
 
@@ -23,7 +23,7 @@ In November 1960, John F. Kennedy was elected president after a campaign that pr
 
 On April 12, 1961, Soviet cosmonaut Yuri Gagarin became the first person to fly in space, reinforcing American fears about being left behind in a technological competition with the Soviet Union. At a meeting of the US House Committee on Science and Astronautics one day after Gagarin's flight, many congressmen pledged their support for a crash program aimed at ensuring that America would catch up.[8] Kennedy was circumspect in his response to the news, refusing to make a commitment on America's response to the Soviets.[9]
 
-Kennedy_Giving_Historic_Speech_to_Congress_-_GPN-2000-001658.jpg Kennedy delivers his proposal to put a man on the Moon before a joint session of Congress, May 25, 1961|alt=President John F. Kennedy addresses a joint session of Congress, with Vice President Lyndon B. Johnson and House Speaker Sam Rayburn seated behind him]] On April 20, Kennedy sent a memo to Vice President Lyndon B. Johnson, asking Johnson to look into the status of America's space program, and into programs that could offer NASA the opportunity to catch up.[10][11] Johnson responded approximately one week later, concluding that "we are neither making maximum effort nor achieving results necessary if this country is to reach a position of leadership."[12][13] His memo concluded that a crewed Moon landing was far enough in the future that it was likely the United States would achieve it first.[14]
+Kennedy delivers his proposal to put a man on the Moon before a joint session of Congress, May 25, 1961|alt=President John F. Kennedy addresses a joint session of Congress, with Vice President Lyndon B. Johnson and House Speaker Sam Rayburn seated behind him]] On April 20, Kennedy sent a memo to Vice President Lyndon B. Johnson, asking Johnson to look into the status of America's space program, and into programs that could offer NASA the opportunity to catch up.[10][11] Johnson responded approximately one week later, concluding that "we are neither making maximum effort nor achieving results necessary if this country is to reach a position of leadership."[12][13] His memo concluded that a crewed Moon landing was far enough in the future that it was likely the United States would achieve it first.[14]
 
 On May 25, 1961, twenty days after the first US crewed spaceflight _Freedom 7_, Kennedy proposed the crewed Moon landing in a _Special Message to the Congress on Urgent National Needs_:
 
@@ -45,7 +45,7 @@ Manned Spacecraft Center
 
 It became clear that managing the Apollo program would exceed the capabilities of Robert R. Gilruth's Space Task Group, which had been directing the nation's crewed space program from NASA's Langley Research Center. So Gilruth was given authority to grow his organization into a new NASA center, the Manned Spacecraft Center (MSC). A site was chosen in Houston, Texas, on land donated by Rice University, and Administrator Webb announced the conversion on September 19, 1961.[22] It was also clear NASA would soon outgrow its practice of controlling missions from its Cape Canaveral Air Force Station launch facilities in Florida, so a new Mission Control Center would be included in the MSC.[23]
 
-President_Kennedy_speech_on_the_space_effort_at_Rice_University,_September_12,_1962.ogv, September 12, 1962 (17 min, 47 sec)]] In September 1962, by which time two Project Mercury astronauts had orbited the Earth, Gilruth had moved his organization to rented space in Houston, and construction of the MSC facility was under way, Kennedy visited Rice to reiterate his challenge in a famous speech:
+, September 12, 1962 (17 min, 47 sec)]] In September 1962, by which time two Project Mercury astronauts had orbited the Earth, Gilruth had moved his organization to rented space in Houston, and construction of the MSC facility was under way, Kennedy visited Rice to reiterate his challenge in a famous speech:
 
 The MSC was completed in September 1963. It was renamed by the US Congress in honor of Lyndon Johnson soon after his death in 1973.[24]
 
@@ -53,7 +53,7 @@ Launch Operations Center
 
 It also became clear that Apollo would outgrow the Canaveral launch facilities in Florida. The two newest launch complexes were already being built for the Saturn I and IB rockets at the northernmost end: LC-34 and LC-37. But an even bigger facility would be needed for the mammoth rocket required for the crewed lunar mission, so land acquisition was started in July 1961 for a Launch Operations Center (LOC) immediately north of Canaveral at Merritt Island. The design, development and construction of the center was conducted by Kurt H. Debus, a member of Dr. Wernher von Braun's original V-2 rocket engineering team. Debus was named the LOC's first Director.[25] Construction began in November 1962. Upon Kennedy's death, President Johnson issued an executive order on November 29, 1963, to rename the LOC and Cape Canaveral in honor of Kennedy.[26]
 
-VonBraunMuellerReesSA6.jpg, Wernher von Braun, and Eberhard Rees watch the AS-101 launch from the firing room.]] The LOC included Launch Complex 39, a Launch Control Center, and a 130 million cubic foot (3.7 million cubic meter) Vertical Assembly Building (VAB) in which the space vehicle (launch vehicle and spacecraft) would be assembled on a Mobile Launcher Platform and then moved by a transporter to one of several launch pads. Although at least three pads were planned, only two, designated A and B, were completed in October 1965. The LOC also included an Operations and Checkout Building (OCB) to which Gemini and Apollo spacecraft were initially received prior to being mated to their launch vehicles. The Apollo spacecraft could be tested in two vacuum chambers capable of simulating atmospheric pressure at altitudes up to , which is nearly a vacuum.[27][28]
+, Wernher von Braun, and Eberhard Rees watch the AS-101 launch from the firing room.]] The LOC included Launch Complex 39, a Launch Control Center, and a 130 million cubic foot (3.7 million cubic meter) Vertical Assembly Building (VAB) in which the space vehicle (launch vehicle and spacecraft) would be assembled on a Mobile Launcher Platform and then moved by a transporter to one of several launch pads. Although at least three pads were planned, only two, designated A and B, were completed in October 1965. The LOC also included an Operations and Checkout Building (OCB) to which Gemini and Apollo spacecraft were initially received prior to being mated to their launch vehicles. The Apollo spacecraft could be tested in two vacuum chambers capable of simulating atmospheric pressure at altitudes up to , which is nearly a vacuum.[27][28]
 
 Organization
 
@@ -64,7 +64,7 @@ Based on his industry experience on Air Force missile projects, Mueller realized
 
 Choosing a mission mode
 
-John_C._Houbolt_-_GPN-2000-001274.jpg explaining the LOR concept]] Apollo_Direct_Ascent.png and Earth Orbit Rendezvous, 1961]]
+explaining the LOR concept]] and Earth Orbit Rendezvous, 1961]]
 
 Once Kennedy had defined a goal, the Apollo mission planners were faced with the challenge of designing a spacecraft that could meet it while minimizing risk to human life, cost, and demands on technology and astronaut skill. Four possible mission modes were considered:
 
@@ -88,11 +88,11 @@ The LOR method had the advantage of allowing the lander spacecraft to be used as
 
 Spacecraft
 
-_Winslow-Meteor_Crater-_Apollo_Test_Capsule.jpg command module is on exhibit in the Meteor Crater Visitor Center in Winslow, Arizona.]] Faget's preliminary Apollo design employed a cone-shaped command module, supported by one of several service modules providing propulsion and electrical power, sized appropriately for the space station, cislunar, and lunar landing missions. Once Kennedy's Moon landing goal became official, detailed design began of a _command and service Module_ (CSM) in which the crew would spend the entire direct-ascent mission and lift off from the lunar surface for the return trip, after being soft-landed by a larger landing propulsion module. The final choice of lunar orbit rendezvous changed the CSM's role to the translunar ferry used to transport the crew, along with a new spacecraft, the _Lunar Excursion Module_ (LEM, later shortened to _Lunar Module_, LM, but still pronounced "lem") which would take two men to the lunar surface and return them to the CSM.[45]
+command module is on exhibit in the Meteor Crater Visitor Center in Winslow, Arizona.]] Faget's preliminary Apollo design employed a cone-shaped command module, supported by one of several service modules providing propulsion and electrical power, sized appropriately for the space station, cislunar, and lunar landing missions. Once Kennedy's Moon landing goal became official, detailed design began of a _command and service Module_ (CSM) in which the crew would spend the entire direct-ascent mission and lift off from the lunar surface for the return trip, after being soft-landed by a larger landing propulsion module. The final choice of lunar orbit rendezvous changed the CSM's role to the translunar ferry used to transport the crew, along with a new spacecraft, the _Lunar Excursion Module_ (LEM, later shortened to _Lunar Module_, LM, but still pronounced "lem") which would take two men to the lunar surface and return them to the CSM.[45]
 
 Command and service module
 
-Apollo_CSM_lunar_orbit.jpg CSM in lunar orbit|alt=The cone-shaped command module, attached to the cylindrical service module, orbits the Moon with a panel removed, exposing the scientific instrument module]]
+CSM in lunar orbit|alt=The cone-shaped command module, attached to the cylindrical service module, orbits the Moon with a panel removed, exposing the scientific instrument module]]
 
 The command module (CM) was the conical crew cabin, designed to carry three astronauts from launch to lunar orbit and back to an Earth ocean landing. It was the only component of the Apollo spacecraft to survive without major configuration changes as the program evolved from the early Apollo study designs. Its exterior was covered with an ablative heat shield, and had its own reaction control system (RCS) engines to control its attitude and steer its atmospheric entry path. Parachutes were carried to slow its descent to splashdown. The module was tall, in diameter, and weighed approximately .[46]
 
@@ -102,14 +102,14 @@ North American Aviation won the contract to build the CSM, and also the second s
 
 Apollo Lunar Module
 
-Apollo_11_Lunar_Lander_-_5927_NASA.jpg Lunar Module _Eagle_ on the Moon, photographed by Neil Armstrong]]
+Lunar Module _Eagle_ on the Moon, photographed by Neil Armstrong]]
 
 The Apollo Lunar Module (LM) was designed to descend from lunar orbit to land two astronauts on the Moon and take them back to orbit to rendezvous with the command module. Not designed to fly through the Earth's atmosphere or return to Earth, its fuselage was designed totally without aerodynamic considerations and was of an extremely lightweight construction. It consisted of separate descent and ascent stages, each with its own engine. The descent stage contained storage for the descent propellant, surface stay consumables, and surface exploration equipment. The ascent stage contained the crew cabin, ascent propellant, and a reaction control system. The initial LM model weighed approximately , and allowed surface stays up to around 34 hours. An extended lunar module weighed over , and allowed surface stays of over 3 days.[50] The contract for design and construction of the lunar module was awarded to Grumman Aircraft Engineering Corporation, and the project was overseen by Thomas J. Kelly.[51]
 
 
 Launch vehicles
 
-Saturnsandlittlejoe2.gif, Saturn I, Saturn IB, and Saturn V]]
+, Saturn I, Saturn IB, and Saturn V]]
 
 Before the Apollo program began, Wernher von Braun and his team of rocket engineers had started work on plans for very large launch vehicles, the Saturn series, and the even larger Nova series. In the midst of these plans, von Braun was transferred from the Army to NASA and was made Director of the Marshall Space Flight Center. The initial direct ascent plan to send the three-person Apollo command and service module directly to the lunar surface, on top of a large descent rocket stage, would require a Nova-class launcher, with a lunar payload capability of over .[52] The June 11, 1962, decision to use lunar orbit rendezvous enabled the Saturn V to replace the Nova, and the MSFC proceeded to develop the Saturn rocket family for Apollo.[53]
 
@@ -121,7 +121,7 @@ Since Apollo, like Mercury, would require a launch escape system (LES) in case o
 
 Saturn I
 
-Apollo_7_launch2.jpg, 1968]]
+, 1968]]
 
 Saturn I, the first US heavy lift launch vehicle, was initially planned to launch partially equipped CSMs in low Earth orbit tests. The S-I first stage burned RP-1 with liquid oxygen (LOX) oxidizer in eight clustered Rocketdyne H-1 engines, to produce of thrust. The S-IV second stage used six liquid hydrogen-fueled Pratt & Whitney RL-10 engines with of thrust. A planned Centaur (S-V) third stage with two RL-10 engines never flew on Saturn I.[57]
 
@@ -135,20 +135,20 @@ The Saturn IB was an upgraded version of the Saturn I. The S-IB first stage incr
 
 Saturn V
 
-Apollo_11_Launch_-_GPN-2000-000630.jpg launches Apollo 11 in 1969]]
+launches Apollo 11 in 1969]]
 
 Saturn V launch vehicles and flights were designated with an AS-500 series number, "AS" indicating "Apollo Saturn" and the "5" indicating Saturn V.[64] The three-stage Saturn V was designed to send a fully fueled CSM and LM to the Moon. It was in diameter and stood tall with its lunar payload. Its capability grew to for the later advanced lunar landings. The S-IC first stage burned RP-1/LOX for a rated thrust of , which was upgraded to . The second and third stages burned liquid hydrogen, and the third stage was a modified version of the S-IVB, with thrust increased to and capability to restart the engine for translunar injection after reaching a parking orbit.[65]
 
 
 Astronauts
 
-Apollo_1_Prime_Crew_-_GPN-2000-001159.jpg crew: Ed White, command pilot Gus Grissom, and Roger Chaffee]]
+crew: Ed White, command pilot Gus Grissom, and Roger Chaffee]]
 
 NASA's director of flight crew operations during the Apollo program was Donald K. "Deke" Slayton, one of the original Mercury Seven astronauts who was medically grounded in September 1962 due to a heart murmur. Slayton was responsible for making all Gemini and Apollo crew assignments.[66]
 
 Thirty-two astronauts were assigned to fly missions in the Apollo program. Twenty-four of these left Earth's orbit and flew around the Moon between December 1968 and December 1972 (three of them twice). Half of the 24 walked on the Moon's surface, though none of them returned to it after landing once. One of the moonwalkers was a trained geologist. Of the 32, Gus Grissom, Ed White, and Roger Chaffee were killed during a ground test in preparation for the Apollo 1 mission.[67]
 
-apollo_11.jpg, Command Module Pilot Michael Collins, and Lunar Module Pilot Buzz Aldrin]] The Apollo astronauts were chosen from the Project Mercury and Gemini veterans, plus from two later astronaut groups. All missions were commanded by Gemini or Mercury veterans. Crews on all development flights (except the Earth orbit CSM development flights) through the first two landings on Apollo 11 and Apollo 12, included at least two (sometimes three) Gemini veterans. Dr. Harrison Schmitt, a geologist, was the first NASA scientist astronaut to fly in space, and landed on the Moon on the last mission, Apollo 17. Schmitt participated in the lunar geology training of all of the Apollo landing crews.[68]
+, Command Module Pilot Michael Collins, and Lunar Module Pilot Buzz Aldrin]] The Apollo astronauts were chosen from the Project Mercury and Gemini veterans, plus from two later astronaut groups. All missions were commanded by Gemini or Mercury veterans. Crews on all development flights (except the Earth orbit CSM development flights) through the first two landings on Apollo 11 and Apollo 12, included at least two (sometimes three) Gemini veterans. Dr. Harrison Schmitt, a geologist, was the first NASA scientist astronaut to fly in space, and landed on the Moon on the last mission, Apollo 17. Schmitt participated in the lunar geology training of all of the Apollo landing crews.[68]
 
 NASA awarded all 32 of these astronauts its highest honor, the Distinguished Service Medal, given for "distinguished service, ability, or courage", and personal "contribution representing substantial progress to the NASA mission". The medals were awarded posthumously to Grissom, White, and Chaffee in 1969, then to the crews of all missions from Apollo 8 onward. The crew that flew the first Earth orbital test mission Apollo 7, Walter M. Schirra, Donn Eisele, and Walter Cunningham, were awarded the lesser NASA Exceptional Service Medal, because of discipline problems with the flight director's orders during their flight. The NASA Administrator in October, 2008, decided to award them the Distinguished Service Medals, by this time posthumously to Schirra and Eisele.[69]
 
@@ -199,15 +199,13 @@ The problems with North American were severe enough in late 1965 to cause Manned
 
 Apollo 1 fire
 
-Apollo_1_fire.jpg
-
 Grissom, White, and Chaffee decided to name their flight Apollo 1 as a motivational focus on the first crewed flight. They trained and conducted tests of their spacecraft at North American, and in the altitude chamber at the Kennedy Space Center. A "plugs-out" test was planned for January, which would simulate a launch countdown on LC-34 with the spacecraft transferring from pad-supplied to internal power. If successful, this would be followed by a more rigorous countdown simulation test closer to the February 21 launch, with both spacecraft and launch vehicle fueled.[90]
 
 The plugs-out test began on the morning of January 27, 1967, and immediately was plagued with problems. First, the crew noticed a strange odor in their spacesuits which delayed the sealing of the hatch. Then, communications problems frustrated the astronauts and forced a hold in the simulated countdown. During this hold, an electrical fire began in the cabin and spread quickly in the high pressure, 100% oxygen atmosphere. Pressure rose high enough from the fire that the cabin inner wall burst, allowing the fire to erupt onto the pad area and frustrating attempts to rescue the crew. The astronauts were asphyxiated before the hatch could be opened.[91]
 
 NASA immediately convened an accident review board, overseen by both houses of Congress. While the determination of responsibility for the accident was complex, the review board concluded that "deficiencies existed in command module design, workmanship and quality control."[92] At the insistence of NASA Administrator Webb, North American removed Harrison Storms as command module program manager.[93] Webb also reassigned Apollo Spacecraft Program Office (ASPO) Manager Joseph Francis Shea, replacing him with George Low.[94]
 
-Irwin_i_Bull_testują_kombinezony_kosmiczne_S68-15931.jpg To remedy the causes of the fire, changes were made in the Block II spacecraft and operational procedures, the most important of which were use of a nitrogen/oxygen mixture instead of pure oxygen before and during launch, and removal of flammable cabin and space suit materials.[95] The Block II design already called for replacement of the Block I plug-type hatch cover with a quick-release, outward opening door.[96] NASA discontinued the crewed Block I program, using the Block I spacecraft only for uncrewed Saturn V flights. Crew members would also exclusively wear modified, fire-resistant A7L Block II space suits, and would be designated by the Block II titles, regardless of whether a LM was present on the flight or not.[97]
+To remedy the causes of the fire, changes were made in the Block II spacecraft and operational procedures, the most important of which were use of a nitrogen/oxygen mixture instead of pure oxygen before and during launch, and removal of flammable cabin and space suit materials.[95] The Block II design already called for replacement of the Block I plug-type hatch cover with a quick-release, outward opening door.[96] NASA discontinued the crewed Block I program, using the Block I spacecraft only for uncrewed Saturn V flights. Crew members would also exclusively wear modified, fire-resistant A7L Block II space suits, and would be designated by the Block II titles, regardless of whether a LM was present on the flight or not.[97]
 
 Uncrewed Saturn V and LM tests
 
@@ -225,7 +223,7 @@ Crewed development missions
 
 File:Apollo manned development missions insignia.png|thumb|right|upright=1.15|Apollo crewed development mission patches. Click on a patch to read the main article about that mission|alt=Composite image of 6 crewed Apollo development mission patches, from Apollo 1 to Apollo 11. rect 0 0 595 600 Apollo 1 unsuccessful first crewed CSM test rect 596 0 1376 600 Apollo 7 first crewed CSM test rect 1377 0 2076 600 Apollo 8 first crewed flight to the Moon rect 0 601 595 1200 Apollo 9 crewed Earth orbital LM test rect 596 601 1376 1200 Apollo 10 crewed lunar orbital LM test rect 1377 601 2076 1200 Apollo 11 first crewed Moon landing
 
-Apollo_11_first_step.jpg descends the LM's ladder in preparation for the first steps on the lunar surface, as televised live on July 20, 1969]] Apollo 7, launched from LC-34 on October 11, 1968, was the C mission, crewed by Schirra, Eisele, and Cunningham. It was an 11-day Earth-orbital flight which tested the CSM systems.[103]
+descends the LM's ladder in preparation for the first steps on the lunar surface, as televised live on July 20, 1969]] Apollo 7, launched from LC-34 on October 11, 1968, was the C mission, crewed by Schirra, Eisele, and Cunningham. It was an 11-day Earth-orbital flight which tested the CSM systems.[103]
 
 Apollo 8 was planned to be the D mission in December 1968, crewed by McDivitt, Scott and Schweickart, launched on a Saturn V instead of two Saturn IBs.[104] In the summer it had become clear that the LM would not be ready in time. Rather than waste the Saturn V on another simple Earth-orbiting mission, ASPO Manager George Low suggested the bold step of sending Apollo 8 to orbit the Moon instead, deferring the D mission to the next mission in March 1969, and eliminating the E mission. This would keep the program on track. The Soviet Union had sent two tortoises, mealworms, wine flies, and other lifeforms around the Moon on September 15, 1968, aboard Zond 5, and it was believed they might soon repeat the feat with human cosmonauts.[105][106] The decision was not announced publicly until successful completion of Apollo 7. Gemini veterans Frank Borman and Jim Lovell, and rookie William Anders captured the world's attention by making ten lunar orbits in 20 hours, transmitting television pictures of the lunar surface on Christmas Eve, and returning safely to Earth.[107]
 
@@ -237,7 +235,7 @@ Production lunar landings
 
 File:Apollo lunar landing missions insignia.png|thumb|right|upright=1.15|Apollo production crewed lunar landing mission patches. Click on a patch to read the main article about that mission|alt=Composite image of 6 production crewed Apollo lunar landing mission patches, from Apollo 12 to Apollo 17. rect 0 0 602 600 Apollo 12 second crewed Moon landing rect 603 0 1205 600 Apollo 13 unsuccessful Moon landing attempt rect 1206 0 1885 600 Apollo 14 third crewed Moon landing rect 0 601 602 1200 Apollo 15 fourth crewed Moon landing rect 603 601 1205 1200 Apollo 16 fifth crewed Moon landing rect 1206 601 1885 1200 Apollo 17 sixth crewed Moon landing
 
-Apollo_landing_sites.jpg In November 1969, Gemini veteran Charles "Pete" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 uncrewed lunar probe, which had landed in April 1967 on the Ocean of Storms. The command module pilot was Gemini veteran Richard F. Gordon Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. They made two EVAs totaling 7 hours and 45 minutes.[112] On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth.[113]
+In November 1969, Gemini veteran Charles "Pete" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 uncrewed lunar probe, which had landed in April 1967 on the Ocean of Storms. The command module pilot was Gemini veteran Richard F. Gordon Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. They made two EVAs totaling 7 hours and 45 minutes.[112] On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth.[113]
 
 The success of the first two landings allowed the remaining missions to be crewed with a single veteran as commander, with two rookies. Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the service module and forcing the crew to use the LM as a "lifeboat" to return to Earth. Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications.[114] Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.[115]
 
@@ -255,7 +253,7 @@ In August 1971, just after conclusion of the Apollo 15 mission, President Richar
 
 Extended missions
 
-Apollo_15_Lunar_Rover_and_Irwin.jpg used on Apollos 15–17]] A17-plaque.JPG]]
+used on Apollos 15–17]] ]]
 
 Apollo 15 was launched on July 26, 1971, with David Scott, Alfred Worden and James Irwin. Scott and Irwin landed on July 30 near Hadley Rille, and spent just under two days, 19 hours on the surface. In over 18 hours of EVA, they collected about of lunar material.[124]
 
@@ -386,7 +384,7 @@ The Apollo-Soyuz Test Project also used Apollo hardware for the first joint nati
 
 Recent observations
 
-Apollo11-LRO-March2012.jpg, imaged in March 2012 by the Lunar Reconnaissance Orbiter]]
+, imaged in March 2012 by the Lunar Reconnaissance Orbiter]]
 
 In 2008, Japan Aerospace Exploration Agency's SELENE probe observed evidence of the halo surrounding the Apollo 15 Lunar Module blast crater while orbiting above the lunar surface.[149]
 
@@ -403,7 +401,7 @@ The Apollo program has been called the greatest technological achievement in hum
 
 Cultural impact
 
-The_Earth_seen_from_Apollo_17.jpg'' photograph taken on December 7, 1972, during Apollo 17. "We went to explore the Moon, and in fact discovered the Earth." –Eugene Cernan ]] The crew of Apollo 8 sent the first live televised pictures of the Earth and the Moon back to Earth, and read from the creation story in the Book of Genesis, on Christmas Eve 1968.[156] An estimated one quarter of the population of the world saw—either live or delayed—the Christmas Eve transmission during the ninth orbit of the Moon,[157] and an estimated one fifth of the population of the world watched the live transmission of the Apollo 11 moonwalk.[158]
+'' photograph taken on December 7, 1972, during Apollo 17. "We went to explore the Moon, and in fact discovered the Earth." –Eugene Cernan ]] The crew of Apollo 8 sent the first live televised pictures of the Earth and the Moon back to Earth, and read from the creation story in the Book of Genesis, on Christmas Eve 1968.[156] An estimated one quarter of the population of the world saw—either live or delayed—the Christmas Eve transmission during the ninth orbit of the Moon,[157] and an estimated one fifth of the population of the world watched the live transmission of the Apollo 11 moonwalk.[158]
 
 The Apollo program also affected environmental activism in the 1970s due to photos taken by the astronauts. The most well known include _Earthrise_, taken by William Anders on Apollo 8, and _The Blue Marble_, taken by the Apollo 17 astronauts. _The Blue Marble_ was released during a surge in environmentalism, and became a symbol of the environmental movement as a depiction of Earth's frailty, vulnerability, and isolation amid the vast expanse of space.[159]
 

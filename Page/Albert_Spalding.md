@@ -1,4 +1,4 @@
-1871_Albert_Spalding_Baseball-card-Boston_Red_Stockings.jpg Boston Red Stockings baseball card.]]
+Boston Red Stockings baseball card.]]
 
 ALBERT GOODWILL SPALDING (September 2, 1849 – September 9, 1915) was an American pitcher, manager, and executive in the early years of professional baseball, and the co-founder of A.G. Spalding sporting goods company. He was born and raised in Byron, Illinois yet graduated from Rockford Central High School in Rockford, Illinois. He played major league baseball between 1871 and 1878. Spalding set a trend when he started wearing a baseball glove.
 

@@ -75,8 +75,6 @@ The 1980 Montevideo Treaty is open to the accession of any Latin-American countr
 
 Institutional Structure
 
-ALADI_-_Institutional_Structure.png
-
 Council of Ministers of Foreign Affairs
 
 The Council of Ministers is the supreme body of the ALADI, and adopts the decisions for the superior political management of the integration process. It is constituted by the Ministers of Foreign Affairs of the member countries. Notwithstanding, when one of such member countries assigns the competence of the integration affairs to a different Minister or Secretary of State, the member countries may be represented, with full powers, by the respective Minister or Secretary. It is convened by the Committee of Representatives, meets and makes decisions with the presence of all the member countries.
@@ -93,7 +91,7 @@ General Secretariat
 
 It is the technical body of the ALADI, and it may propose, evaluate, study and manage for the fulfillment of the objectives of the ALADI. It is composed of technical and administrative personnel, and directed by a Secretary-General, who has the support of two Undersecretaries, elected for a three-year period, renewable for the same term.
 
-ALADI_Fachada.jpg, ALADI's site.]]
+, ALADI's site.]]
 
 
 Secretaries General

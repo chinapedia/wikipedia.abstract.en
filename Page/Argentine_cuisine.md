@@ -1,4 +1,4 @@
-Asado_2005.jpg (grill).]] ARGENTINE CUISINE is described as a cultural blending of Mediterranean influences (such as those created by Italian, Spanish and French populations) with and very small inflows (mainly in border areas), Indigenous, within the wide scope of agricultural products that are abundant in the country. Argentine annual consumption of beef has averaged 100 kg (220 lbs) per capita,[1] approaching 180 kg (396 lbs) per capita during the 19th century; consumption averaged 67.7 kg (149 lbs) in 2007.[2] Beyond _asado_ (the Argentine barbecue), no other dish more genuinely matches the national identity. Nevertheless, the country's vast area, and its cultural diversity, have led to a local cuisine of various dishes.[3][4] The great immigratory waves consequently imprinted a large influence in the Argentine cuisine, after all Argentina was the second country in the world with the most immigrants with 6.6 million, only second to the United States with 27 million, and ahead of other immigratory receptor countries such as Canada, Brazil, Australia, etc.[5][6]
+(grill).]] ARGENTINE CUISINE is described as a cultural blending of Mediterranean influences (such as those created by Italian, Spanish and French populations) with and very small inflows (mainly in border areas), Indigenous, within the wide scope of agricultural products that are abundant in the country. Argentine annual consumption of beef has averaged 100 kg (220 lbs) per capita,[1] approaching 180 kg (396 lbs) per capita during the 19th century; consumption averaged 67.7 kg (149 lbs) in 2007.[2] Beyond _asado_ (the Argentine barbecue), no other dish more genuinely matches the national identity. Nevertheless, the country's vast area, and its cultural diversity, have led to a local cuisine of various dishes.[3][4] The great immigratory waves consequently imprinted a large influence in the Argentine cuisine, after all Argentina was the second country in the world with the most immigrants with 6.6 million, only second to the United States with 27 million, and ahead of other immigratory receptor countries such as Canada, Brazil, Australia, etc.[5][6]
 
 Argentine people have a reputation for their love of eating.[7] Social gatherings are commonly centered on sharing a meal. Invitations to have dinner at home is generally viewed as a symbol of friendship, warmth, and integration. Sunday family lunch is considered the most significant meal of the week, whose highlights often include asado or pasta.[8]
 
@@ -14,7 +14,7 @@ Native Americans lived in Argentina thousands of years before the European explo
 
 Typical foods
 
-Dulce_de_leche_2007.jpg, a popular national spread used to fill cakes and pancakes, eaten over toast, and as an ice cream flavor.]] Empanadas_salteñas_1.jpgs.]]
+, a popular national spread used to fill cakes and pancakes, eaten over toast, and as an ice cream flavor.]] s.]]
 
 Most regions of Argentina are known for their beef-oriented diet. Grilled meat from the _asado_ (barbecue) is a staple, with steak and beef ribs especially common. The term asado itself refers to long strips of flank-cut beef ribs. Popular items such as _Chorizo_ (pork sausage), _morcilla_ (blood sausage), _chinchulines_ (chitterlings), _mollejas_ (sweetbread), and other parts of the animal are also enjoyed. In Patagonia, however, lamb and chivito (goat) are eaten more frequently than beef. Whole lambs and goats are traditionally cooked over an open fire in a technique known as asado a la estaca.
 
@@ -52,13 +52,13 @@ Argentine cuisine is heavily influenced by its European roots and has regional v
 
 Central region and la Pampa
 
-Pizza_over_Fainá.jpg'', a common combination.]] Puchero_argentino_servido.JPG]] For long periods, urban areas such as Buenos Aires, Rosario, and Córdoba welcomed European immigrants, including, above all, those of Italian and Spanish descent. Nevertheless, there was also a migratory flow of German, Swiss, and Middle-Eastern immigrants arriving in Argentina. Among the countless changes this melting pot brought was the enrichment of the culinary art. Dishes such as pasta, pizza, pucheros (stews), croquetas (fritter)s, sauces, embutidos (sausages), and chicken and meat courses brought a wider scope of options to daily menus. Furthermore, the bread-making, dessert, pastry, and dairy industries have achieved considerable development in this region.
+'', a common combination.]] ]] For long periods, urban areas such as Buenos Aires, Rosario, and Córdoba welcomed European immigrants, including, above all, those of Italian and Spanish descent. Nevertheless, there was also a migratory flow of German, Swiss, and Middle-Eastern immigrants arriving in Argentina. Among the countless changes this melting pot brought was the enrichment of the culinary art. Dishes such as pasta, pizza, pucheros (stews), croquetas (fritter)s, sauces, embutidos (sausages), and chicken and meat courses brought a wider scope of options to daily menus. Furthermore, the bread-making, dessert, pastry, and dairy industries have achieved considerable development in this region.
 
 The above-mentioned dishes have developed a distinctively Argentine nuance. That is why, for example, Argentine pasta includes a wide variety of dishes ranging from spaghetti, fusiles (fusilli), ñoquis (gnocchi), ravioli, cintas (pasta ribbons), and lasagne to the Argentine-made sorrentinos, agnolottis (agnolotti), canelones (cannelloni), and fetuchines (fettuccine).
 
 Pizza—made with very thin, and sometimes thick, high-rising doughs, with or without cheese, cooked in the oven or _a la piedra_ (on a stone oven), and stuffed with numerous ingredients -— is a dish which can be found in nearly every corner of the country. Buenos Aires, Rosario, and Córdoba also serve it with fainá, which is a chick pea-flour dough placed over the piece of pizza. People say that what makes the Argentine pizza unique is the blending of Italian and Spanish cultures. At the turn of the 19th century, immigrants from Naples and Genoa opened the first pizza bars, though Spanish residents subsequently owned most of the pizza businesses.
 
-Alfajores_de_Argentina.jpg covered with meringue), dulce de leche, and regional variants of Alfajores (from Mar del Plata, Córdoba, Tucumán, among others).]]
+covered with meringue), dulce de leche, and regional variants of Alfajores (from Mar del Plata, Córdoba, Tucumán, among others).]]
 
 Bread products are consumed all around the country. The deeply rooted bread, pastry, and dessert-making tradition derives from blending the above nationalities' products. Bakeries sell not only a wide scope of breads, cookies, and cakes, but also pastries. The latter resembles a sort of roll pastry whose main dough ingredient is either butter or fat and which may be simple or stuffed with dulce de leche, milk, jam, crema pastelera, or quince or apple jelly, among other fillings. The most popular type of pastry is said to be that of _mediaslunas_ (singular: _medialuna,_ literally half moon, that is to say, crescent), based upon French croissants. Furthermore, sandwiches de miga are another type of bread products; they are made only with thin layers of white bread (generally referred to as crustless bread) and stuffed with food items ranging from ham and cheese to other more sophisticated combinations such as raw ham, tomatoes, olives, hard boiled eggs, tuna, lettuce, red pepper, and the like.
 
@@ -68,7 +68,7 @@ Although asado is eaten all over the country, its origin may be traced back to t
 
 Northwest and Cuyo
 
-Locro.jpg'' stew, a traditional standby in northwestern Argentina.]]
+'' stew, a traditional standby in northwestern Argentina.]]
 
 This region is regarded as perhaps the one most influenced by Native Americans, and its foods are closely linked to the Andean-Incan tradition. When preparing regional dishes, potatoes and corn or wheat are almost always used, including quinoa (a cereal typically used in Incan cuisine), peppers, squashes and tomatoes. The most celebrated dishes are humita and tamal, in which the corn husk is stuffed with the corn filling itself, seasonings or meat.
 
@@ -78,7 +78,7 @@ Stews such as locro, carbonada, pollo al disco, and cazuelas (casseroles) are al
 
 Mesopotamia
 
-Kaa_mate.JPG, the northeastern region's best-known contribution to Argentine cuisine.]]
+, the northeastern region's best-known contribution to Argentine cuisine.]]
 
 The humid and verdant area of north-east Argentina known as Mesopotamia, comprising the provinces of Corrientes, Misiones and Entre Ríos is another area influenced by Native Americans, particularly by the Guaraní tribe. Abounding in rivers and shores, it offers a wide diversity of fish species, such as dorado, pacú, surubi, boga and silverside.
 
@@ -92,7 +92,7 @@ Foods produced in the large southern region of Patagonia include fish and seafoo
 
 Marine species such as salmon, spider crabs, squid and other shellfish and molluscs may be caught in the Atlantic Ocean. There are trout in the rivers.
 
-Tortas_en_San_Martín_de_los_Andes.JPG'' cakes and other regional favorites in a San Martín de los Andes, Neuquén shop.]] The many berries grown in the area include cherries, bilberries, strawberries, rosa mosqueta and elders, which are made into jams.
+'' cakes and other regional favorites in a San Martín de los Andes, Neuquén shop.]] The many berries grown in the area include cherries, bilberries, strawberries, rosa mosqueta and elders, which are made into jams.
 
 The Northern and Central European settlements in this region have built up large-scale production of chocolate and its by-products. Viennese and German cuisine and pastries are also typically associated with this region.
 
@@ -116,7 +116,7 @@ There are many artisanally produced liqueurs (distilled, flavored alcoholic beve
 
 Non-alcoholic specialties
 
-Tortoni_3_008.jpg, one of the many coffehouses in Buenos Aires. The consumption of coffee is very common (141 cups per capita, annually).[23]]] Mediaslunas,_café_en_jarrito_y_agua_mineral_en_Café_El_Gato_Negro.JPG. _Medialunas_ (croissants), _café en jarrito_ (a double espresso coffee) and a little glass of mineral water.]] Argentines enjoy a wide variety of non-alcoholic infusions (although now and then both "families" are mixed; the _yerbiao_ for example, is mate mixed with _caña_ or gin). Among these, _mate_ has long been the most widely enjoyed; in 2006, over 700,000 metric tons were harvested in Argentina, mostly for domestic consumption.[24]
+, one of the many coffehouses in Buenos Aires. The consumption of coffee is very common (141 cups per capita, annually).[23]]] . _Medialunas_ (croissants), _café en jarrito_ (a double espresso coffee) and a little glass of mineral water.]] Argentines enjoy a wide variety of non-alcoholic infusions (although now and then both "families" are mixed; the _yerbiao_ for example, is mate mixed with _caña_ or gin). Among these, _mate_ has long been the most widely enjoyed; in 2006, over 700,000 metric tons were harvested in Argentina, mostly for domestic consumption.[24]
 
 The fact that mate is so prevalent in the _Southern Cone_, however, should not necessarily make visitors think that other infusions are rare in the region; in Argentina especially, given the strong European cultural imprint, the consumption of coffee is very common (141 cups per capita, annually).[25] Chocolate infusions are also popular (the eating of chocolate is a Spanish influence, although the plant originated in Mesoamerica). This consumption grows during autumn and winter, or in the cold regions of the country; there are two dates where consumption of chocolate infusions is traditional in the primary educational centres: 25 May and 9 July, that is, the two national dates of Argentina.
 
@@ -127,7 +127,7 @@ Medicinal herbs are common in the whole country; among the most popular are: cha
 
 Popular short-order dishes
 
-BarBritanico.JPG "pubs" and are popular at lunchtime.]] Common _restoranes_ or _restaurantes_ and _rotiserias_ (grill restaurants) nearly anywhere in Argentina today serve (into the small hours) quickly prepared meals that in the course of the 20th century came to be known as _minutas_, "short-order dishes." Some of the dishes included in the category of _minutas_ are _milanesas_, _churrascos_, _bifes_ (beefsteaks), _escalopes_, _tallarines_, _ravioles_ (ravioli), _ñoquis_ (gnocchi), although some are very typical of locations that sell food: "_bifes_" and "_milanesas_" are served "_a caballo_" ("on horseback", with fried egg on top), "_milanesa completa_" (a _milanesa_ with two fried eggs and French fries), "_revuelto Gramajo_", "_colchón de arvejas_" (an omelette made with peas), "_suprema de pollo_" (chicken supreme, usually breaded as a _milanesa_), _matambres_, "_lengua a la vinagreta_" (pickled tongue), and "sandwiches" (sandwiches de miga) are made with sliced white bread, rather than, say, rolls.
+"pubs" and are popular at lunchtime.]] Common _restoranes_ or _restaurantes_ and _rotiserias_ (grill restaurants) nearly anywhere in Argentina today serve (into the small hours) quickly prepared meals that in the course of the 20th century came to be known as _minutas_, "short-order dishes." Some of the dishes included in the category of _minutas_ are _milanesas_, _churrascos_, _bifes_ (beefsteaks), _escalopes_, _tallarines_, _ravioles_ (ravioli), _ñoquis_ (gnocchi), although some are very typical of locations that sell food: "_bifes_" and "_milanesas_" are served "_a caballo_" ("on horseback", with fried egg on top), "_milanesa completa_" (a _milanesa_ with two fried eggs and French fries), "_revuelto Gramajo_", "_colchón de arvejas_" (an omelette made with peas), "_suprema de pollo_" (chicken supreme, usually breaded as a _milanesa_), _matambres_, "_lengua a la vinagreta_" (pickled tongue), and "sandwiches" (sandwiches de miga) are made with sliced white bread, rather than, say, rolls.
 
 The most common sandwiches are those made of _milanesa_, baked ham and cheese, 'pan de miga'', toast, _pebetes_, _panchos_ (hot dogs), _choripanes_, _morcipanes_, etc.; from Montevideo comes a different species of sandwich called the _chivito_, even though it contains no goat meat.
 

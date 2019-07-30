@@ -41,8 +41,6 @@ Stability
 
 Helices observed in proteins can range from four to over forty residues long, but a typical helix contains about ten amino acids (about three turns). In general, short polypeptides do not exhibit much α-helical structure in solution, since the entropic cost associated with the folding of the polypeptide chain is not compensated for by a sufficient amount of stabilizing interactions. In general, the backbone hydrogen bonds of α-helices are considered slightly weaker than those found in β-sheets, and are readily attacked by the ambient water molecules. However, in more hydrophobic environments such as the plasma membrane, or in the presence of co-solvents such as trifluoroethanol (TFE), or isolated from solvent in the gas phase,[19] oligopeptides readily adopt stable α-helical structure. Furthermore, crosslinks can be incorporated into peptides to conformationally stabilize helical folds. Crosslinks stabilize the helical state by entropically destabilizing the unfolded state and by removing enthalpically stabilized "decoy" folds that compete with the fully helical state.[20] It has been shown that α-helices are more stable, robust to mutations and designable than β-strands in natural proteins,[21] and also in artificial designed proteins.[22]
 
-Helix_electron_density_myoglobin_2nrl_17-32.jpg
-
 
 Experimental determination
 
@@ -87,14 +85,14 @@ Changes in binding orientation also occur for facially-organized oligopeptides. 
 
 Larger-scale assemblies
 
-1GZX_Haemoglobin.png molecule has four heme-binding subunits, each made largely of α-helices.]] Myoglobin and hemoglobin, the first two proteins whose structures were solved by X-ray crystallography, have very similar folds made up of about 70% α-helix, with the rest being non-repetitive regions, or "loops" that connect the helices. In classifying proteins by their dominant fold, the Structural Classification of Proteins database maintains a large category specifically for all-α proteins.
+molecule has four heme-binding subunits, each made largely of α-helices.]] Myoglobin and hemoglobin, the first two proteins whose structures were solved by X-ray crystallography, have very similar folds made up of about 70% α-helix, with the rest being non-repetitive regions, or "loops" that connect the helices. In classifying proteins by their dominant fold, the Structural Classification of Proteins database maintains a large category specifically for all-α proteins.
 
 Hemoglobin then has an even larger-scale quaternary structure, in which the functional oxygen-binding molecule is made up of four subunits.
 
 
 Functional roles
 
-Coiled-coil_TF_Max_on_DNA.jpg: transcription factor Max (PDB file 1HLO)]] 1gzm_opm.png file 1GZM), with a bundle of seven helices crossing the membrane (membrane surfaces marked by horizontal lines)]]
+: transcription factor Max (PDB file 1HLO)]] file 1GZM), with a bundle of seven helices crossing the membrane (membrane surfaces marked by horizontal lines)]]
 
 DNA binding
 
@@ -121,7 +119,7 @@ Homopolymers of amino acids (such as polylysine) can adopt α-helical structure 
 
 In art
 
-AlphaHelixForLinusPauling.jpg's _Alpha Helix for Linus Pauling_ (2004), powder coated steel, height . The sculpture stands in front of Pauling's childhood home on 3945 SE Hawthorne Boulevard in Portland, Oregon, USA.]]
+'s _Alpha Helix for Linus Pauling_ (2004), powder coated steel, height . The sculpture stands in front of Pauling's childhood home on 3945 SE Hawthorne Boulevard in Portland, Oregon, USA.]]
 
 At least five artists have made explicit reference to the α-helix in their work: Julie Newdoll in painting and Julian Voss-Andreae, Bathsheba Grossman, Byron Rubin, and Mike Tyka in sculpture.
 

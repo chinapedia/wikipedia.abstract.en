@@ -32,7 +32,7 @@ Record temperatures range from a high of on July 17, 1925, to a low of on Decemb
 
 Neighborhoods
 
-Davis is internally divided by two freeways (Interstate 80 and State Route 113), a north–south railroad (California Northern), an east-west mainline (Union Pacific) and several major streets. The city is unofficially divided into six main districts made up of smaller neighborhoods (often originally named as housing subdivisions): Davisca.jpg
+Davis is internally divided by two freeways (Interstate 80 and State Route 113), a north–south railroad (California Northern), an east-west mainline (Union Pacific) and several major streets. The city is unofficially divided into six main districts made up of smaller neighborhoods (often originally named as housing subdivisions):
 
 -   Central Davis, north of Fifth Street and Russell Boulevard, south of Covell Blvd., east of SR 113, and west of the railroad tracks running along G Street. Within these boundaries is the officially denoted neighborhood of Old North Davis, which is sometimes also considered part of Downtown.[11]
 -   Downtown Davis, roughly the numbered-and-lettered grid north of I-80, south of Fifth Street, east of A Street, and west of the railroad tracks, including the Aggie Village and Olive Drive areas.
@@ -117,11 +117,11 @@ A community currency scheme is in use in Davis, called _Davis Dollars_.[23]
 
 Bicycling
 
-Davisbikes.jpg]] Bicycling has been a popular mode of transportation in Davis for decades, particularly among school-age children and UC Davis students. In 2010, Davis became the new home of the United States Bicycling Hall of Fame. Davis_Bike_Rack.jpg
+]] Bicycling has been a popular mode of transportation in Davis for decades, particularly among school-age children and UC Davis students. In 2010, Davis became the new home of the United States Bicycling Hall of Fame.
 
 Bicycle infrastructure became a political issue in the 1960s, culminating in the election of a pro-bicycle majority to the City Council in 1966.[24] By the early 1970s, Davis became a pioneer in the implementation of cycling facilities. As the city expands, new facilities are usually mandated. As a result, Davis residents today enjoy an extensive network of bike lanes, bike paths, and grade-separated bicycle crossings.[25][26][27] The flat terrain and temperate climate are also conducive to bicycling.
 
-Covell_bike_overpass.jpg In 2005 the Bicycle-Friendly Community program of the League of American Bicyclists recognized Davis as the first Platinum Level city in the US[28][29] In March 2006, _Bicycling Magazine_ named Davis the best small town for cycling in its compilation of "America's Best Biking Cities."[30] Bicycling appears to be declining among Davis residents: from 1990 to 2000, the US Census Bureau reported a decline in the fraction of commuters traveling by bicycle, from 22 percent to 15 percent.[31] This resulted in the reestablishment of the city's Bicycle Advisory Commission and creation of advocate groups such as "Davis Bicycles!". In 2016, Fifth Street, a main road in Davis was converted from four lanes to two lanes to allow for bicycle lanes and encourage more bicycling.
+In 2005 the Bicycle-Friendly Community program of the League of American Bicyclists recognized Davis as the first Platinum Level city in the US[28][29] In March 2006, _Bicycling Magazine_ named Davis the best small town for cycling in its compilation of "America's Best Biking Cities."[30] Bicycling appears to be declining among Davis residents: from 1990 to 2000, the US Census Bureau reported a decline in the fraction of commuters traveling by bicycle, from 22 percent to 15 percent.[31] This resulted in the reestablishment of the city's Bicycle Advisory Commission and creation of advocate groups such as "Davis Bicycles!". In 2016, Fifth Street, a main road in Davis was converted from four lanes to two lanes to allow for bicycle lanes and encourage more bicycling.
 
 In 1996, 2001, 2006, and 2009 the UC Davis "Cal Aggie Cycling" Team won the national road cycling competition.[32] The team also competes off-road and on the track, and has competed in the national competitions of these disciplines. In 2007, UC Davis also organized a record breaking bicycle parade numbering 822 bicycles.[33]
 
@@ -170,7 +170,7 @@ Davis has one daily newspaper, _The Davis Enterprise_,[38] founded in 1897. UC D
 
 Toad Tunnel
 
-toadhotel.jpg Davis' TOAD TUNNEL is a wildlife crossing that was constructed in 1995 and has drawn much attention over the years, including a mention on _The Daily Show_. Because of the building of an overpass, animal lovers worried about toads being killed by cars commuting from South Davis to North Davis, since the toads hopped from one side of a dirt lot (which the overpass replaced) to the reservoir at the other end. After much controversy, a decision was made to build a toad tunnel, which runs beneath the Pole Line Road overpass which crosses Interstate 80. The project cost $14,000. The tunnel is 21 inches (53 cm) wide and 18 inches (46 cm) high.
+Davis' TOAD TUNNEL is a wildlife crossing that was constructed in 1995 and has drawn much attention over the years, including a mention on _The Daily Show_. Because of the building of an overpass, animal lovers worried about toads being killed by cars commuting from South Davis to North Davis, since the toads hopped from one side of a dirt lot (which the overpass replaced) to the reservoir at the other end. After much controversy, a decision was made to build a toad tunnel, which runs beneath the Pole Line Road overpass which crosses Interstate 80. The project cost $14,000. The tunnel is 21 inches (53 cm) wide and 18 inches (46 cm) high.
 
 The tunnel has created problems of its own. The toads originally refused to use the tunnel and so the tunnel was lit to encourage its use. The toads then died from the heat of the lamps inside the tunnel. Once through the tunnel, the toads also had to contend with birds who grew wise to the toad-producing hole in the ground. The exit to the toad tunnel has been decorated by the Postmaster to resemble a toad town.
 
@@ -191,7 +191,7 @@ The University of California, Davis, or UC Davis, a campus of the University of 
 
 D-Q University
 
-D-q_university_entrance.jpg Also known as DEGANAWIDAH-QUETZALCOATL UNIVERSITY and much smaller than UC Davis, D-Q University was a two-year institution located on Road 31 in Yolo County 6.7 miles (11 km) west of State Route 113. This is just west of Davis near the Yolo County Airport. About four miles (6 km) to the west, the Road 31 exit from Interstate 505 is marked with cryptic signage, "DQU." The site is about 100 feet (30 m) above mean sea level (AMSL). NAD83 coordinates for the campus are
+Also known as DEGANAWIDAH-QUETZALCOATL UNIVERSITY and much smaller than UC Davis, D-Q University was a two-year institution located on Road 31 in Yolo County 6.7 miles (11 km) west of State Route 113. This is just west of Davis near the Yolo County Airport. About four miles (6 km) to the west, the Road 31 exit from Interstate 505 is marked with cryptic signage, "DQU." The site is about 100 feet (30 m) above mean sea level (AMSL). NAD83 coordinates for the campus are
 
 The college closed in 2005. The curriculum was said to include heritage and traditional American Indian ceremonies. The and 5 buildings were formerly a military reservation according to a National Park Service publication, _Five Views._ The full name of the school is included here so that readers can accurately identify the topic. According to some tribal members, use of the spelled-out name of the university can be offensive. People who want to be culturally respectful refer to the institution as _D-Q University_. Tribal members in appropriate circumstances may use the full name.
 

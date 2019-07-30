@@ -1,4 +1,4 @@
-upright=0.9 and the Sovereign Military Order of Malta]] upright=0.9 to the United States, in Washington D.C.]] Ambassade_des_pays_nordiques_(Berlin)_(6298294868).jpg, Finland, Iceland, Norway, and Sweden to Germany in Berlin]]
+upright=0.9 and the Sovereign Military Order of Malta]] upright=0.9 to the United States, in Washington D.C.]] , Finland, Iceland, Norway, and Sweden to Germany in Berlin]]
 
 A DIPLOMATIC MISSION or FOREIGN MISSION[1] is a group of people from one state or an organisation present in another state to represent the sending state/organisation officially in the receiving state. In practice, the phrase _diplomatic mission_ usually denotes the resident mission, namely the EMBASSY, which is the main office of a country's diplomatic representatives to another country; this is usually, but not necessarily, in the receiving state's capital city. Consulates, on the other hand, are smaller diplomatic missions which are normally located in major cities of the receiving state (but can be located in the capital, usually when the sending country has no embassy in the receiving state). As well as being a diplomatic mission to the country in which it is situated, it may also be a non-resident permanent mission to one or more other countries. There are thus resident and non-resident embassies.[2][3][4][5]
 
@@ -36,7 +36,7 @@ In cases of dispute, it is common for a country to recall its head of mission as
 
 Extraterritoriality
 
-Diplomatic_Corps_seal_-_Corps_Diplomatique_emblem_logo.png]] Contrary to popular belief, most diplomatic missions do not enjoy full extraterritorial status and – in those cases – are not sovereign territory of the represented state.[12] Rather, the premises of diplomatic missions usually remain under the jurisdiction of the host state while being afforded special privileges (such as immunity from most local laws) by the Vienna Convention on Diplomatic Relations. Diplomats themselves still retain full diplomatic immunity, and (as an adherent to the Vienna Convention) the host country may not enter the premises of the mission without permission of the represented country, even to put out a fire.[13] International rules designate an attack on an embassy as an attack on the country it represents. The term "extraterritoriality" is often applied to diplomatic missions, but normally only in this broader sense.
+]] Contrary to popular belief, most diplomatic missions do not enjoy full extraterritorial status and – in those cases – are not sovereign territory of the represented state.[12] Rather, the premises of diplomatic missions usually remain under the jurisdiction of the host state while being afforded special privileges (such as immunity from most local laws) by the Vienna Convention on Diplomatic Relations. Diplomats themselves still retain full diplomatic immunity, and (as an adherent to the Vienna Convention) the host country may not enter the premises of the mission without permission of the represented country, even to put out a fire.[13] International rules designate an attack on an embassy as an attack on the country it represents. The term "extraterritoriality" is often applied to diplomatic missions, but normally only in this broader sense.
 
 As the host country may not enter the representing country's embassy without permission, embassies are sometimes used by refugees escaping from either the host country or a third country. For example, North Korean nationals, who would be arrested and deported from China upon discovery, have sought sanctuary at various third-country embassies in China. Once inside the embassy, diplomatic channels can be used to solve the issue and send the refugees to another country. See the list of people who took refuge in a diplomatic mission for a list of some notable cases.
 
@@ -45,7 +45,7 @@ Notable violations of embassy extraterritoriality include repeated invasions of 
 
 Role
 
-Embassy_of_Nicaragua.JPG.]]The Vienna Convention states:
+.]]The Vienna Convention states:
 
   The functions of a diplomatic mission consist, _inter alia_, in representing the sending State in the receiving State; protecting in the receiving State the interests of the sending State and of its nationals, within the limits permitted by international law; negotiating with the Government of the receiving State; ascertaining by all lawful means conditions and developments in the receiving State, and reporting thereon to the Government of the sending State; promoting friendly relations between the sending State and the receiving State, and developing their economic, cultural and scientific relations.[15]
 

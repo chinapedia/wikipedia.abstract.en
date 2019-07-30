@@ -43,8 +43,6 @@ On 25 April 2019, the 2020 US presidential campaign team for Joe Biden disclosed
 
 Later career
 
-2014_Anita_Hill.jpg
-
 Hill continued to teach at the University of Oklahoma, though she spent two years as a visiting professor in California. She resigned her post in October 1996 and finished her final semester of teaching there.[83] In her final semester, she taught a law school seminar on civil rights. An endowed chair was created in her name, but was later defunded without ever having been filled.[84]
 
 Hill accepted a position as a visiting scholar at the Institute for the Study of Social Change at University of California, Berkeley in January 1997,[85] but soon joined the faculty of Brandeis University—first at the Women's Studies Program, later moving to the Heller School for Social Policy and Management. In 2011, she also took a counsel position with the Civil Rights & Employment Practice group of the plaintiffs' law firm Cohen Milstein Sellers & Toll.[86]

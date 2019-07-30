@@ -1,4 +1,4 @@
-MoS2_antisites&vacancies.jpg of molybdenum disulfide. Scale bar: 1 nm.[1]]]
+of molybdenum disulfide. Scale bar: 1 nm.[1]]]
 
 Crystalline solids exhibit a periodic crystal structure. The positions of atoms or molecules occur on repeating fixed distances, determined by the unit cell parameters. However, the arrangement of atoms or molecules in most crystalline materials is not perfect. The regular patterns are interrupted by CRYSTALLOGRAPHIC DEFECTS.[2][3][4][5]
 
@@ -10,15 +10,11 @@ Point defects are defects that occur only at or around a single lattice point. T
 -   Vacancy defects are lattice sites which would be occupied in a perfect crystal, but are vacant. If a neighboring atom moves to occupy the vacant site, the vacancy moves in the opposite direction to the site which used to be occupied by the moving atom. The stability of the surrounding crystal structure guarantees that the neighboring atoms will not simply collapse around the vacancy. In some materials, neighboring atoms actually move away from a vacancy, because they experience attraction from atoms in the surroundings. A vacancy (or pair of vacancies in an ionic solid) is sometimes called a Schottky defect.
 -   Interstitial defects are atoms that occupy a site in the crystal structure at which there is usually not an atom. They are generally high energy configurations. Small atoms (mostly impurities) in some crystals can occupy interstices without high energy, such as hydrogen in palladium.
 
-defecttypes.png
-
 -   A nearby pair of a vacancy and an interstitial is often called a Frenkel defect or Frenkel pair. This is caused when an ion moves into an interstitial site and creates a vacancy.
 
 -   Due to fundamental limitations of material purification methods, materials are never 100% pure, which by definition induces defects in crystal structure. In the case of an impurity, the atom is often incorporated at a regular atomic site in the crystal structure. This is neither a vacant site nor is the atom on an interstitial site and it is called a _substitutional_ defect. The atom is not supposed to be anywhere in the crystal, and is thus an impurity. In some cases where the radius of the substitutional atom (ion) is substantially smaller than that of the atom (ion) it is replacing, its equilibrium position can be shifted away from the lattice site. These types of substitutional defects are often referred to as off-center ions. There are two different types of substitutional defects: Isovalent substitution and aliovalent substitution. Isovalent substitution is where the ion that is substituting the original ion is of the same oxidation state as the ion it is replacing. Aliovalent substitution is where the ion that is substituting the original ion is of a different oxidation state than the ion it is replacing. Aliovalent substitutions change the overall charge within the ionic compound, but the ionic compound must be neutral. Therefore, a charge compensation mechanism is required. Hence either one of the metals is partially or fully oxidised or reduced, or ion vacancies are created.
 -   ANTISITE DEFECTS[6][7] occur in an ordered alloy or compound when atoms of different type exchange positions. For example, some alloys have a regular structure in which every other atom is a different species; for illustration assume that type A atoms sit on the corners of a cubic lattice, and type B atoms sit in the center of the cubes. If one cube has an A atom at its center, the atom is on a site usually occupied by a B atom, and is thus an antisite defect. This is neither a vacancy nor an interstitial, nor an impurity.
 -   Topological defects are regions in a crystal where the normal chemical bonding environment is topologically different from the surroundings. For instance, in a perfect sheet of graphite (graphene) all atoms are in rings containing six atoms. If the sheet contains regions where the number of atoms in a ring is different from six, while the total number of atoms remains the same, a topological defect has formed. An example is the Stone Wales defect in nanotubes, which consists of two adjacent 5-membered and two 7-membered atom rings.
-
-compounddefects.png
 
 -   Also amorphous solids may contain defects. These are naturally somewhat hard to define, but sometimes their nature can be quite easily understood. For instance, in ideally bonded amorphous silica all Si atoms have 4 bonds to O atoms and all O atoms have 2 bonds to Si atom. Thus e.g. an O atom with only one Si bond (a dangling bond) can be considered a defect in silica.[8] Moreover, defects can also be defined in amorphous solids based on empty or densely packed local atomic neighbourhoods, and the properties of such 'defects' can be shown to be similar to normal vacancies and interstitials in crystals.[9][10][11]
 -   Complexes can form between different kinds of point defects. For example, if a vacancy encounters an impurity, the two may bind together if the impurity is too large for the lattice. Interstitials can form 'split interstitial' or 'dumbbell' structures where two atoms effectively share an atomic site, resulting in neither atom actually occupying the site.
@@ -31,8 +27,6 @@ Line defects
 Line defects can be described by gauge theories.
 
 Dislocations are linear defects, around which the atoms of the crystal lattice are misaligned.[13] There are two basic types of dislocations, the _edge_ dislocation and the _screw_ dislocation. "Mixed" dislocations, combining aspects of both types, are also common.
-
-Dislocation_edge_d2.svg
 
 Edge dislocations are caused by the termination of a plane of atoms in the middle of a crystal. In such a case, the adjacent planes are not straight, but instead bend around the edge of the terminating plane so that the crystal structure is perfectly ordered on either side. The analogy with a stack of paper is apt: if a half a piece of paper is inserted in a stack of paper, the defect in the stack is only noticeable at the edge of the half sheet.
 
@@ -50,8 +44,6 @@ Disclinations are line defects corresponding to "adding" or "subtracting" an ang
 
 
 Planar defects
-
-Schema_fcc_hcp.png
 
 -   Grain boundaries occur where the crystallographic direction of the lattice abruptly changes. This usually occurs when two crystals begin growing separately and then meet.
 -   Antiphase boundaries occur in ordered alloys: in this case, the crystallographic direction remains the same, but each side of the boundary has an opposite phase: For example, if the ordering is usually ABABABAB (hexagonal close-packed crystal), an antiphase boundary takes the form of ABABBABA.

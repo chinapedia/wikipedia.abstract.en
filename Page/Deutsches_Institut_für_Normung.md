@@ -1,4 +1,4 @@
-DIN-Logo.svg DIN-Sitz_Berlin.jpg.]]
+.]]
 
 __ (DIN; in English, the GERMAN INSTITUTE FOR STANDARDIZATION) is the German national organization for standardization and is the German ISO member body. DIN is a German Registered Association (_e.V._) headquartered in Berlin. There are currently around thirty thousand DIN Standards, covering nearly every field of technology.
 

@@ -1,4 +1,4 @@
-Hector_brought_back_to_Troy.jpg, from a Roman sarcophagus, 180–200 AD]] Ilium-02.jpg, 177–192 AD; Obverse: Bust of Commodus; Reverse: Hector, brandishing shield and spear, on a two-horse chariot; () inscribed above, (, "Troy") in exergue]] Bronze_coin_struck_in_350–300_BC_in_Ophryneion.jpg, which was considered to be the site of the Tomb of Hector. Obverse depicts bearded Hector wearing triple crested helmet and reverse depicts infant Dionysos.]]
+, from a Roman sarcophagus, 180–200 AD]] , 177–192 AD; Obverse: Bust of Commodus; Reverse: Hector, brandishing shield and spear, on a two-horse chariot; () inscribed above, (, "Troy") in exergue]] , which was considered to be the site of the Tomb of Hector. Obverse depicts bearded Hector wearing triple crested helmet and reverse depicts infant Dionysos.]]
 
 In Greek mythology and Roman mythology, HECTOR (; , ) was a Trojan prince and the greatest fighter for Troy in the Trojan War. He acted as leader of the Trojans and their allies in the defence of Troy, "killing 31,000 Greek fighters", offers Hyginus.[1]
 
@@ -19,7 +19,7 @@ Mythology
 
 Greatest warrior of Troy
 
-Hektor_wirft_Paris_seine_Weichlichkeit_vor_(Tischbein).jpg (1751–1828)]]
+(1751–1828)]]
 
 According to the _Iliad_, Hector did not approve of war between the Greeks and the Trojans.
 
@@ -31,7 +31,7 @@ Duel with Protesilaus
 
 In the _Iliad_, Hector's exploits in the war prior to the events of the book are recapitulated. He had fought the Greek champion Protesilaus in single combat at the start of the war and killed him. A prophecy had stated that the first Greek to land on Trojan soil would die. Thus, Protesilaus, Ajax, and Odysseus would not land. Finally, Odysseus threw his shield out and landed on that, and Protesilaus jumped next from his own ship. In the ensuing fight, Hector killed him, fulfilling the prophecy.
 
-Ajax_and_Hector_exchange_gifts.jpg in Andreas Alciatus, _Emblematum libellus_, 1591).]]
+in Andreas Alciatus, _Emblematum libellus_, 1591).]]
 
 Duel with Ajax
 
@@ -43,7 +43,7 @@ Duel with Achilles
 
 Another mention of Hector's exploits in the early years of war was given in the Iliad in book IX. During the embassy to Achilles, Odysseus, Phoenix and Ajax all try to persuade Achilles to rejoin the fight. In his response, Achilles points out that while Hector was terrorizing the Greek forces now, and that while he himself had fought in their front lines, Hector had 'no wish' to take his force far beyond the walls and out from the Skiaian Gate and nearby oak tree. He then claims, 'There he stood up to me alone one day, and he barely escaped my onslaught.' Another duel that took place, although Hector received help from Aeneas (his cousin[8]) and Deiphobus, was when Hector rushed to try to save his brother Troilus from Achilles' hands. But he came too late and Troilus had already perished. All Hector could do was to take the lifeless body of Troilus while Achilles escaped after he fought his way through from the Trojans reinforcement.
 
-Hector_Astyanax_MN_Jatta.jpg, and infant son Astyanax, startled by his father's helmet (Apulian red-figure vase, 370–360 BC)]]
+, and infant son Astyanax, startled by his father's helmet (Apulian red-figure vase, 370–360 BC)]]
 
 In the tenth year of the war, observing Paris avoiding combat with Menelaus, Hector upbraids him with having brought trouble on his whole country and now refusing to fight. Paris therefore proposes single combat between himself and Menelaus, with Helen to go to the victor, ending the war.[9] The duel, however, leads to inconclusive results due to intervention by Aphrodite who leads Paris off the field. After Pandarus wounds Menelaus with an arrow the fight begins again.
 
@@ -55,7 +55,7 @@ Zeus weighs the fates of the two armies in the balance, and that of the Greeks s
 
 The next day Agamemnon rallies the Greeks and drives the Trojans Hector refrains from battle until Agamemnon leaves the field, wounded in the arm by a spear. Then Hector rallies the Trojans: Diomedes and Odysseus hinder Hector and win the Greeks some time to retreat, but the Trojans sweep down upon the wall and rain blows upon it. The Greeks in the camp contest the gates to secure entrance for their fleeing warriors. The Trojans try to pull down the ramparts while the Greeks rain arrows upon them. Hector smashes open a gate with a large stone, clears the gate and calls on the Trojans to scale the wall, which they do, and
 
-THAM-Battle_at_the_ships_sarcophagus.jpg sarcophagus, 225–250 AD]]
+sarcophagus, 225–250 AD]]
 
 The battle rages inside the camp. Hector goes down, hit by a stone thrown by Ajax, but Apollo arrives from Olympus and infuses strength into "the shepherd of the people", who orders a chariot attack, with Apollo clearing the way. Many combats, deaths, boasts, threats, epithets, figures of speech, stories, lines of poetry and books of the Iliad later, Hector lays hold of Protesilaus' ship and calls for fire. The Trojans cannot bring it to him, as Ajax kills everyone who tries. Eventually, Hector breaks Ajax' spear with his sword, forcing him to give ground, and he sets the ship on fire.[12]
 
@@ -67,7 +67,7 @@ Hector strips the armor of Achilles off the fallen Patroclus and gives it to his
 
 The next day, the enraged Achilles renounces the wrath that kept him out of action and routs the Trojans, forcing them back to the city. Hector chooses to remain outside the gates of Troy to face Achilles, partly because had he listened to Polydamas and retreated with his troops the previous night, Achilles would not have killed so many Trojans. When he sees Achilles, however, Hector is seized by fear and turns to flee. Achilles chases him around the city three times before Hector masters his fear and turns to face Achilles. But Athena, in the disguise of Hector's brother Deiphobus, has deluded Hector. He requests from Achilles that the victor should return the other's body after the duel, (though Hector himself made it clear he planned to throw the body of Patroclus to the dogs) but Achilles refuses. Achilles hurls his spear at Hector, who dodges it, but Athena brings it back to Achilles' hands without Hector noticing. Hector then throws his own spear at Achilles; it hits his shield and does no injury. When Hector turns to face his supposed brother to retrieve another spear, he sees no one there. At that moment he realizes that he is doomed. Hector decides that he will go down fighting and that men will talk about his bravery in years to come. The desire to achieve ever-lasting honor was one of the most fierce for soldiers living in the timocratic (honor-based) society of the age.
 
-Triumph_of_Achilles_in_Corfu_Achilleion.jpg. (A fresco in the Achilleion, Corfu)]] Hector pulls out his sword, now his only weapon, and charges. But Achilles grabbed his thrown spears that were delivered to him by the unseen Athena who wore the Hades helmet. Achilles then aimed his spear and pierced the collar bone section of Hector, the only part of the stolen Armor of Achilles that did not protect Hector. The wound was fatal yet allowed Hector to speak to Achilles. In his final moments, Hector begs Achilles for an honorable funeral, but Achilles replies that he will let the dogs and vultures devour Hector's flesh. (Throughout the Homeric poems, several references are made to dogs, vultures, and other creatures that devour the dead. It can be seen as another way of saying one will die.) Hector dies, prophesying that Achilles' death will follow soon:
+. (A fresco in the Achilleion, Corfu)]] Hector pulls out his sword, now his only weapon, and charges. But Achilles grabbed his thrown spears that were delivered to him by the unseen Athena who wore the Hades helmet. Achilles then aimed his spear and pierced the collar bone section of Hector, the only part of the stolen Armor of Achilles that did not protect Hector. The wound was fatal yet allowed Hector to speak to Achilles. In his final moments, Hector begs Achilles for an honorable funeral, but Achilles replies that he will let the dogs and vultures devour Hector's flesh. (Throughout the Homeric poems, several references are made to dogs, vultures, and other creatures that devour the dead. It can be seen as another way of saying one will die.) Hector dies, prophesying that Achilles' death will follow soon:
 
   Be careful now; for I might be made into the gods' curse ... upon you, on that day when Paris and Phoibos Apollo...destroy you in the Skainan gates, for all your valor.[14]
 
@@ -91,7 +91,7 @@ The pseudepigraphical writer Dares Phrygius states that Hector "spoke with a sli
 
 In literature
 
-Jacques-Louis_David-_Andromache_Mourning_Hector.JPG]]
+]]
 
 -   In Dante Alighieri's _Inferno_ (part of the _Divine Comedy_ series), Hector and his family are placed in Limbo, the outer circle wherein the virtuous non-Christians dwell.
 -   Roland's sword in early 12th-century French poem _Song of Roland_ was named Durendal. According to Ludovico Ariosto's _Orlando Furioso_, it once belonged to Hector of Troy, and was given to Roland by Malagigi (Maugris).

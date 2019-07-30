@@ -26,7 +26,7 @@ In 1833, Thomas Auld took Douglass back from Hugh ("[a]s a means of punishing Hu
 
 From slavery to freedom
 
-Douglass first tried to escape from Freeland, who had hired him out from his owner Colonel Lloyd, but was unsuccessful. In 1836, he tried to escape from his new master Covey, but failed again. In 1837, Douglass met and fell in love with Anna Murray, a free black woman in Baltimore about five years older than he. Her free status strengthened his belief in the possibility of gaining his own freedom. Murray encouraged him and supported his efforts by aid and money.[35] Anna_Murray-Douglass.jpg, Douglass's wife for 44 years, portrait ca. 1860.]] On September 3, 1838, Douglass successfully escaped by boarding a train from the newly merged Philadelphia, Wilmington and Baltimore Railroad (P.W.& B.) railroad line to the great Northern cities. The area where he boarded was a short distance east of the previous temporary P.W.& B. train depot in a recently developed neighborhood between the modern neighborhoods of Harbor East and Little Italy. The depot was located at President and Fleet streets, east of "The Basin" of the Baltimore harbor, on the Northwest Branch of the Patapsco River. (This depot was replaced by the historic President Street Station, constructed 1849–1850; it was noted as a site of other slave escapes along one of many routes of the famous "Underground Railroad" and during the Civil War.)
+Douglass first tried to escape from Freeland, who had hired him out from his owner Colonel Lloyd, but was unsuccessful. In 1836, he tried to escape from his new master Covey, but failed again. In 1837, Douglass met and fell in love with Anna Murray, a free black woman in Baltimore about five years older than he. Her free status strengthened his belief in the possibility of gaining his own freedom. Murray encouraged him and supported his efforts by aid and money.[35] , Douglass's wife for 44 years, portrait ca. 1860.]] On September 3, 1838, Douglass successfully escaped by boarding a train from the newly merged Philadelphia, Wilmington and Baltimore Railroad (P.W.& B.) railroad line to the great Northern cities. The area where he boarded was a short distance east of the previous temporary P.W.& B. train depot in a recently developed neighborhood between the modern neighborhoods of Harbor East and Little Italy. The depot was located at President and Fleet streets, east of "The Basin" of the Baltimore harbor, on the Northwest Branch of the Patapsco River. (This depot was replaced by the historic President Street Station, constructed 1849–1850; it was noted as a site of other slave escapes along one of many routes of the famous "Underground Railroad" and during the Civil War.)
 
 Young Douglass reached Havre de Grace, Maryland, in Harford County, in the northeast corner of the state, along the southwest shore of the Susquehanna River, which flowed into the Chesapeake Bay. Although this placed him some 20 miles from the free state of Pennsylvania, it was easier to travel through Delaware, another slave state. Dressed in a sailor's uniform provided to him by Murray, who also gave him part of her savings to cover his travel costs, he carried identification papers and protection papers that he had obtained from a free black seaman.[36][37][38] Douglass crossed the wide Susquehanna River by the railroad's steam-ferry at Havre de Grace to Perryville on the opposite shore in Cecil County, then continued by train across the state line to Wilmington, Delaware, a large port at the head of the Delaware Bay. From there, because the rail line was not yet completed, he went by steamboat along the Delaware River further northeast to the "Quaker City" of Philadelphia, Pennsylvania, an anti-slavery stronghold. He continued to the safe house of noted abolitionist David Ruggles in New York City. His entire journey to freedom took less than 24 hours.[39] Frederick Douglass later wrote of his arrival in New York City:
 
@@ -35,13 +35,13 @@ Once Douglass had arrived, he sent for Murray to follow him north to New York. S
 
 Abolitionist and preacher
 
-FrederickDouglass-1848.jpg The couple settled in New Bedford, Massachusetts, in 1838, later moving to Lynn, Massachusetts in 1841.[43] After meeting and staying with Nathan and Mary Johnson, they adopted Douglass as their married name:[44] Douglass had grown up using his mother's surname of Bailey; after escaping slavery he had changed his surname first to Stanley and then to Johnson. In New Bedford the latter was such a common name that he wanted one that was more distinctive, and asked Nathan Johnson to choose a suitable surname. Nathan Johnson had been reading the poem _The Lady of the Lake_, and suggested "Douglass",[45] (two of the principal characters in Walter Scott's poem have the surname "Douglas").[46]
+The couple settled in New Bedford, Massachusetts, in 1838, later moving to Lynn, Massachusetts in 1841.[43] After meeting and staying with Nathan and Mary Johnson, they adopted Douglass as their married name:[44] Douglass had grown up using his mother's surname of Bailey; after escaping slavery he had changed his surname first to Stanley and then to Johnson. In New Bedford the latter was such a common name that he wanted one that was more distinctive, and asked Nathan Johnson to choose a suitable surname. Nathan Johnson had been reading the poem _The Lady of the Lake_, and suggested "Douglass",[45] (two of the principal characters in Walter Scott's poem have the surname "Douglas").[46]
 
-Johnson_Properties,_New_Bedford,_MA.jpg of the Johnsons, where Douglass and his wife lived in New Bedford, Massachusetts]] Douglass thought of joining a white Methodist Church but from the beginning, he was disappointed when he saw it was segregated. Later he joined the African Methodist Episcopal Zion Church, an independent black denomination first established in New York City, which counted among its members Sojourner Truth and Harriet Tubman.[47] He became a licensed preacher in 1839,[48] and this helped him hone his oratorical skills. He held various positions, including steward, Sunday School superintendent, and sexton. In 1840, Douglass delivered a speech in Elmira, New York, then a station on the Underground Railroad. (Years later, a black congregation formed there and by 1940 it became the region's largest church.)[49]
+of the Johnsons, where Douglass and his wife lived in New Bedford, Massachusetts]] Douglass thought of joining a white Methodist Church but from the beginning, he was disappointed when he saw it was segregated. Later he joined the African Methodist Episcopal Zion Church, an independent black denomination first established in New York City, which counted among its members Sojourner Truth and Harriet Tubman.[47] He became a licensed preacher in 1839,[48] and this helped him hone his oratorical skills. He held various positions, including steward, Sunday School superintendent, and sexton. In 1840, Douglass delivered a speech in Elmira, New York, then a station on the Underground Railroad. (Years later, a black congregation formed there and by 1940 it became the region's largest church.)[49]
 
 Douglass also joined several organizations in New Bedford, and regularly attended abolitionist meetings. He subscribed to William Lloyd Garrison's weekly journal _The Liberator_. Inspired by Garrison, Douglass later said, "no face and form ever impressed me with such sentiments [of the hatred of slavery] as did those of William Lloyd Garrison." So deep was this influence that in his last biography, Douglass confessed "his paper took a place in my heart second only to The Bible."[50] Garrison was likewise impressed with Douglass, and had written about his anti-colonialism stance in _The Liberator_ as early as 1839. In 1841, Douglass first heard Garrison speak at a meeting of the Bristol Anti-Slavery Society. At another meeting, Douglass was unexpectedly invited to speak. After telling his story, Douglass was encouraged to become an anti-slavery lecturer. A few days later Douglass spoke at the Massachusetts Anti-Slavery Society's annual convention in Nantucket. Then 23 years old, Douglass conquered his nervousness and gave an eloquent speech about his rough life as a slave.
 
-Garrison-william-lloyd-loc.jpg, abolitionist and one of Douglass's first friends in the North]]
+, abolitionist and one of Douglass's first friends in the North]]
 
 While living in Lynn, Douglass engaged in early protest against the segregation in transportation. In September 1841 at Lynn Central Square station, Douglass and friend James N. Buffum were thrown off an Eastern Railroad train because Douglass refused to sit in the segregated railroad coach.[51][52][53][54]
 
@@ -55,7 +55,7 @@ Douglass published three versions of his autobiography during his lifetime (and 
 
 Travels to Ireland and Great Britain
 
-Unidentified_Artist_-_Frederick_Douglass_-_Google_Art_Project-restore.png Douglass' friends and mentors feared that the publicity would draw the attention of his ex-owner, Hugh Auld, who might try to get his "property" back. They encouraged Douglass to tour Ireland, as many former slaves had done. Douglass set sail on the _Cambria_ for Liverpool on August 16, 1845. He traveled in Ireland as the Irish Potato Famine was beginning.
+Douglass' friends and mentors feared that the publicity would draw the attention of his ex-owner, Hugh Auld, who might try to get his "property" back. They encouraged Douglass to tour Ireland, as many former slaves had done. Douglass set sail on the _Cambria_ for Liverpool on August 16, 1845. He traveled in Ireland as the Irish Potato Famine was beginning.
 
 The feeling of freedom from American racial discrimination amazed Douglass:
 
@@ -71,7 +71,7 @@ In the 21st century, historical plaques were installed on buildings in Cork and 
 
 Return to the United States
 
-Frederick_Douglass_by_Samuel_J_Miller,_1847-52.png After returning to the U.S. in 1847, Douglass started publishing his first abolitionist newspaper, the _North Star_, from the basement of the Memorial AME Zion Church in Rochester, New York.[68] The _North Star_'s motto was "Right is of no Sex – Truth is of no Color – God is the Father of us all, and we are all brethren." The AME Church and _North Star_ vigorously opposed the mostly white American Colonization Society and its proposal to send blacks back to Africa. This and Douglass's later abolitionist newspapers were mainly funded by English supporters, who gave Douglass five hundred pounds to use as he chose.[69] Douglass also soon split with Garrison, perhaps because the _North Star_ competed with Garrison's _National Anti-Slavery Standard_ and Marius Robinson's _Anti-Slavery Bugle_. Besides publishing the _North Star_ and delivering speeches, Douglass also participated in the Underground Railroad. He and his wife provided lodging and resources in their home to more than four hundred escaped slaves.[70]
+After returning to the U.S. in 1847, Douglass started publishing his first abolitionist newspaper, the _North Star_, from the basement of the Memorial AME Zion Church in Rochester, New York.[68] The _North Star_'s motto was "Right is of no Sex – Truth is of no Color – God is the Father of us all, and we are all brethren." The AME Church and _North Star_ vigorously opposed the mostly white American Colonization Society and its proposal to send blacks back to Africa. This and Douglass's later abolitionist newspapers were mainly funded by English supporters, who gave Douglass five hundred pounds to use as he chose.[69] Douglass also soon split with Garrison, perhaps because the _North Star_ competed with Garrison's _National Anti-Slavery Standard_ and Marius Robinson's _Anti-Slavery Bugle_. Besides publishing the _North Star_ and delivering speeches, Douglass also participated in the Underground Railroad. He and his wife provided lodging and resources in their home to more than four hundred escaped slaves.[70]
 
 Douglass also came to consider Garrison too radical. Earlier Douglass had agreed with Garrison's position that the Constitution was pro-slavery, because of its compromises related to apportionment of Congressional seats, based on partial counting of slave populations with state totals; and protection of the international slave trade through 1807. Garrison had burned copies of the Constitution to express his opinion. But, Lysander Spooner published _The Unconstitutionality of Slavery_ (1846), which explored the United States Constitution as an anti-slavery document. Douglass's change of opinion about the Constitution and his splitting from Garrison around 1847 became one of the abolitionist movement's most notable divisions. Douglass angered Garrison by saying that the Constitution could and should be used as an instrument in the fight against slavery.[71]
 
@@ -95,13 +95,13 @@ Douglass thought such a strategy was too risky, that there was barely enough sup
 
 Douglass refines his ideology
 
-Motto_frederick_douglass_2.jpg Meanwhile, in 1851, Douglass merged the _North Star_ with Gerrit Smith's _Liberty Party Paper_ to form _Frederick Douglass' Paper_, which was published until 1860.
+Meanwhile, in 1851, Douglass merged the _North Star_ with Gerrit Smith's _Liberty Party Paper_ to form _Frederick Douglass' Paper_, which was published until 1860.
 
 On July 5, 1852, Douglass delivered an address to the ladies of the Rochester Anti-Slavery Sewing Society. This speech eventually became known as "What to the Slave Is the Fourth of July?"; one biographer called it "perhaps the greatest antislavery oration ever given."[86] In 1853, he was a prominent attendee of the radical abolitionist National African American Convention in Rochester. His was one of 5 names attached to the address of the convention to the people of the United States published under the title, _The Claims of Our Common Cause_, along with Amos Noë Freeman, James Monroe Whitfield, Henry O. Wagoner, and George Boyer Vashon.[87]
 
 Like many abolitionists, Douglass believed that education would be crucial for African Americans to improve their lives. This led Douglass to become an early advocate for school desegregation. In the 1850s, Douglass observed that New York's facilities and instruction for African-American children were vastly inferior to those for whites. Douglass called for court action to open all schools to all children. He said that full inclusion within the educational system was a more pressing need for African Americans than political issues such as suffrage.
 
-Douglass_argued_against_John_Brown's_plan_to_attack_the_arsenal_at_Harpers_Ferry_-_NARA_-_559102.jpg]]
+]]
 
 On March 12, 1859, Douglass met with radical abolitionists John Brown, George DeBaptiste, and others at William Webb's house in Detroit to discuss emancipation.[88] Douglass met Brown again, when Brown visited his home two months before leading the raid on the federal armory in Harpers Ferry, Virginia. However, Douglass disapproved of Brown's plan to start an armed slave rebellion in the South. Douglass believed that attacking federal property would enrage the American public. After the raid, Douglass fled for a time to Canada, fearing guilt by association as well as arrest as a co-conspirator. Years later, Douglass shared a stage in Harpers Ferry with Andrew Hunter, the prosecutor who secured Brown's conviction and execution.
 
@@ -138,7 +138,7 @@ By the time of the Civil War, Douglass was one of the most famous black men in t
 
 Fight for emancipation and suffrage
 
-Men_of_Color_Civil_War_Recruitment_Broadside_1863.png Douglass and the abolitionists argued that because the aim of the Civil War was to end slavery, African Americans should be allowed to engage in the fight for their freedom. Douglass publicized this view in his newspapers and several speeches. In August 1861, Douglass published an account of the First Battle of Bull Run that noted that there were some blacks already in the Confederate ranks.[105] A few weeks later, Douglass brought the subject up again, quoting a witness to the battle who said they saw black Confederates "with muskets on their shoulders and bullets in their pockets."[106] Douglass conferred with President Abraham Lincoln in 1863 on the treatment of black soldiers,[107] and with President Andrew Johnson on the subject of black suffrage.[108]
+Douglass and the abolitionists argued that because the aim of the Civil War was to end slavery, African Americans should be allowed to engage in the fight for their freedom. Douglass publicized this view in his newspapers and several speeches. In August 1861, Douglass published an account of the First Battle of Bull Run that noted that there were some blacks already in the Confederate ranks.[105] A few weeks later, Douglass brought the subject up again, quoting a witness to the battle who said they saw black Confederates "with muskets on their shoulders and bullets in their pockets."[106] Douglass conferred with President Abraham Lincoln in 1863 on the treatment of black soldiers,[107] and with President Andrew Johnson on the subject of black suffrage.[108]
 
 President Lincoln's Emancipation Proclamation, which took effect on January 1, 1863, declared the freedom of all slaves in Confederate-held territory.[109] (Slaves in Union-held areas and Northern states were freed with the adoption of the 13th Amendment on December 6, 1865.) Douglass described the spirit of those awaiting the proclamation: "We were waiting and listening as for a bolt from the sky ... we were watching ... by the dim light of the stars for the dawn of a new day ... we were longing for the answer to the agonizing prayers of centuries."[110]
 
@@ -157,15 +157,13 @@ The crowd, roused by his speech, gave Douglass a standing ovation. Lincoln's wid
 
 Reconstruction era
 
-George_Kendall_Warren_-_Frederick_Douglass_-_Google_Art_Project.jpg
-
 After the Civil War, Douglass continued to work for equality for African-Americans and women. Due to his prominence and activism during the war, Douglass received several political appointments. He served as president of the Reconstruction-era Freedman's Savings Bank.[116] Douglass also became chargé d'affaires for the Dominican Republic, but resigned that position after two years because of disagreements with U.S. government policy.[117]
 
 Meanwhile, white insurgents had quickly arisen in the South after the war, organizing first as secret vigilante groups, including the Ku Klux Klan. Armed insurgency took different forms. Powerful paramilitary groups included the White League and the Red Shirts, both active during the 1870s in the Deep South. They operated as "the military arm of the Democratic Party", turning out Republican officeholders and disrupting elections.[118] Starting 10 years after the end of the war, Democrats regained political power in every state of the former Confederacy and began to reassert white supremacy. They enforced this by a combination of violence, late 19th-century laws imposing segregation and a concerted effort to disfranchise African Americans. New labor and criminal laws also limited their freedom.[119]
 
 In an effort to combat these efforts, Douglass supported the presidential campaign of Ulysses S. Grant in 1868. In 1870, Douglass started his last newspaper, the _New National Era_, attempting to hold his country to its commitment to equality.[120] President Grant sent a Congressionally sponsored commission, accompanied by Douglass, on a mission to the West Indies to investigate if the annexation of Santo Domingo would be good for the United States. Grant believed annexation would help relieve the violent situation in the South allowing African Americans their own state. Douglass and the commission favored annexation, however, Congress remained opposed to annexation. Douglass criticized Senator Charles Sumner, who opposed annexation, stating if Sumner continued to oppose annexation he would "regard him as the worst foe the colored race has on this continent."[121]
 
-2000-2008_17th_Street,_NW.JPG of Washington, D.C. He built 2000–2004 17th Street, N.W., in 1875.]]
+of Washington, D.C. He built 2000–2004 17th Street, N.W., in 1875.]]
 
 After the midterm elections, Grant signed the Civil Rights Act of 1871 (also known as the Klan Act), and the second and third Enforcement Acts. Grant used their provisions vigorously, suspending _habeas corpus_ in South Carolina and sending troops there and into other states. Under his leadership over 5,000 arrests were made. Grant's vigor in disrupting the Klan made him unpopular among many whites, but earned Douglass's praise. An associate of Douglass wrote of Grant that African Americans "will ever cherish a grateful remembrance of his name, fame and great services."
 
@@ -178,7 +176,7 @@ Throughout the Reconstruction era, Douglass continued speaking, and emphasized t
 
 Family life
 
-Douglass_Helen_Eva_Frederick.jpg (sitting). The woman standing is her sister Eva Pitts.]] Douglass and Anna had five children: Rosetta Douglass, Lewis Henry Douglass, Frederick Douglass Jr., Charles Remond Douglass, and Annie Douglass (died at the age of ten). Charles and Rosetta helped produce his newspapers.
+(sitting). The woman standing is her sister Eva Pitts.]] Douglass and Anna had five children: Rosetta Douglass, Lewis Henry Douglass, Frederick Douglass Jr., Charles Remond Douglass, and Annie Douglass (died at the age of ten). Charles and Rosetta helped produce his newspapers.
 
 Anna Douglass remained a loyal supporter of her husband's public work. His relationships with Julia Griffiths and Ottilie Assing, two women with whom he was professionally involved, caused recurring speculation and scandals.[130] Assing was a young German woman who interviewed Douglass in 1856 and "fell passionately in love with him."[131] She introduced Douglass to her nation's poetry, philosophy, and wide range of culture.[132]
 
@@ -191,7 +189,7 @@ Final years in Washington, D.C.
 
 The Freedman's Savings Bank went bankrupt on June 29, 1874,[136] just a few months after Douglass became its president in late March.[137] During that same economic crisis, his final newspaper, _The New National Era_, failed in September.[138] When Republican Rutherford B. Hayes was elected President, Douglass accepted an appointment as United States Marshal for the District of Columbia, which helped assure his family's financial security.[139]
 
-Frederick_Douglass_House.jpg'', Douglass' house in the Anacostia neighborhood of Washington, D.C., is preserved as a National Historic Site.]]
+'', Douglass' house in the Anacostia neighborhood of Washington, D.C., is preserved as a National Historic Site.]]
 
 In 1877, Douglass visited Thomas Auld, who was by then on his deathbed, and the two men reconciled. Douglass had met Auld's daughter, Amanda Auld Sears, some years prior; she had requested the meeting and had subsequently attended and cheered one of Douglass' speeches. Her father complimented her for reaching out to Douglass. The visit also appears to have brought closure to Douglass, although some criticized his effort.[140]
 
@@ -203,7 +201,7 @@ Douglass also continued his speaking engagements and travel, both in the United 
 
 In addition to his travel abroad during these years, he also lectured in small towns in the United States. On Dec. 28, 1885, the aging orator spoke to the literary society in Rising Sun, a town in northeastern Maryland a couple of miles below the Mason–Dixon line.[141] The program, "The Self-Made Man," attracted a large audience including students from Lincoln University in Chester County, PA, the Oxford Press reported. "Mr. Douglass is growing old and has lost much of his fire and vigor of mind as well as body, but he is still able to interest an audience. He is a remarkable man and is a bright example of the capability of the colored race, even under the blighting influence of slavery, from which he emerged and became one of the distinguished citizens of the country," the Chester County PA newspaper remarked.[142]
 
-Frederick_Douglass_gravestone_(2018).jpg]]
+]]
 
 At the 1888 Republican National Convention, Douglass became the first African American to receive a vote for President of the United States in a major party's roll call vote.[143][144][145] That year, Douglass spoke at Claflin College, a historically black college in Orangeburg, South Carolina, and the oldest such institution in the state.[146]
 
@@ -224,8 +222,6 @@ Douglass' coffin was transported back to Rochester, New York, where he had lived
 
 
 Legacy and honors
-
-FREDERICK_DOUGLASS_-_STATESMAN,_ABOLITIONIST,_CHAMPION_OF_THE_PEOPLE_-_NARA_-_535673.jpg America-the-Beautiful-Quarters-Frederick-Douglass-District-of-Columbia.jpg
 
 Roy Finkenbine argues:
 
@@ -257,7 +253,7 @@ The Episcopal Church (USA) remembers Douglass annually on its liturgical calenda
 
 In arts and literature
 
-Frederickdouglass.jpg]]
+]]
 
 -   In the third episode of the first season in the miniseries _North and South_, Robert Guillaume portrayed Douglass during a speech about the American slave trade.
 -   The 1989 film _Glory_ featured Frederick Douglass as a friend of Francis George Shaw. He was played by Raymond St. Jacques.

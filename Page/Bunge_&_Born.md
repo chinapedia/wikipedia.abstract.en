@@ -1,5 +1,3 @@
-Old_&_New_Buildings_in_Buenos_Aires.jpg
-
 BUNGE Y BORN was a multinational corporation based in Buenos Aires, Argentina, whose diverse interests included food processing and international trade in grains and oilseeds. It is now known as Bunge Limited.
 
 

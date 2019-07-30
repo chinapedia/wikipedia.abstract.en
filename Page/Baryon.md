@@ -32,7 +32,7 @@ Properties
 
 Isospin and charge
 
-Combinations of three U, D or S quarks forming baryons with a spin- form the _uds baryon decuplet_ Baryon-octet-small.svg, d''' or S quarks forming baryons with a spin- form the _uds baryon octet_]]
+, d''' or S quarks forming baryons with a spin- form the _uds baryon octet_]]
 
 The concept of isospin was first proposed by Werner Heisenberg in 1932 to explain the similarities between protons and neutrons under the strong interaction.[9] Although they had different electric charges, their masses were so similar that physicists believed they were the same particle. The different electric charges were explained as being the result of some unknown excitation similar to spin. This unknown excitation was later dubbed _isospin_ by Eugene Wigner in 1937.[10]
 

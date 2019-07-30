@@ -25,7 +25,7 @@ Acting career
 
 Broadway
 
-Killers001.jpg in _The Killers_ (1946)]] Lancaster returned to New York after his Army service. Although initially unenthusiastic about acting, Lancaster was encouraged to audition for a Broadway play by a producer who saw him while he was visiting his then-girlfriend at work. The audition was successful and Lancaster was cast in Harry Brown's _A Sound of Hunting_ (1945). The show only ran three weeks, but his performance attracted the interest of a Hollywood agent, Harold Hecht. Lancaster had other offers but Hecht promised him the opportunity to produce their own movies within five years of hitting Hollywood.
+in _The Killers_ (1946)]] Lancaster returned to New York after his Army service. Although initially unenthusiastic about acting, Lancaster was encouraged to audition for a Broadway play by a producer who saw him while he was visiting his then-girlfriend at work. The audition was successful and Lancaster was cast in Harry Brown's _A Sound of Hunting_ (1945). The show only ran three weeks, but his performance attracted the interest of a Hollywood agent, Harold Hecht. Lancaster had other offers but Hecht promised him the opportunity to produce their own movies within five years of hitting Hollywood.
 
 Through Hecht, Lancaster was brought to the attention of producer Hal B. Wallis, who signed him to a non-exclusive eight-movie contract.
 
@@ -105,7 +105,7 @@ The Hecht-Hill-Lancaster Productions company dissolved in 1960 after Hill ruptur
 
 Hecht and Lancaster
 
-Burt_Lancaster_1960.jpg]] Lancaster played the title role in _Elmer Gantry_ (1960), written and directed by Richard Brooks for United Artists. The film received five Academy Award nominations, including Best Picture and Best Actor. Lancaster won the 1960 Academy Award for Best Actor, a Golden Globe Award, and the New York Film Critics Award for his performance.
+]] Lancaster played the title role in _Elmer Gantry_ (1960), written and directed by Richard Brooks for United Artists. The film received five Academy Award nominations, including Best Picture and Best Actor. Lancaster won the 1960 Academy Award for Best Actor, a Golden Globe Award, and the New York Film Critics Award for his performance.
 
 Hecht and Lancaster worked together on _The Young Savages_ (1961), directed by John Frankenheimer and produced by Hecht. Sydney Pollack worked as a dialogue coach.
 
@@ -127,7 +127,7 @@ In 1966 at the age of 52, Lancaster appeared nude in director Frank Perry's film
 
 Norlan Productions
 
-Burt_Lancaster_-_Audrey_Hepburn_-_1960.JPG in _The Unforgiven_ (1960)]] In 1967, Lancaster formed a new partnership with Roland Kibbee, who had already worked as a writer on five Lancaster projects; _Ten Tall Men_, _The Crimson Pirate_, _Three Sailors and a Girl_ (in which Lancaster made a cameo appearance), _Vera Cruz_ and _The Devil's Disciple_. Through Norlan Productions, Lancaster and Kibbee produced _The Scalphunters_ (1968), directed by Sydney Pollack.
+in _The Unforgiven_ (1960)]] In 1967, Lancaster formed a new partnership with Roland Kibbee, who had already worked as a writer on five Lancaster projects; _Ten Tall Men_, _The Crimson Pirate_, _Three Sailors and a Girl_ (in which Lancaster made a cameo appearance), _Vera Cruz_ and _The Devil's Disciple_. Through Norlan Productions, Lancaster and Kibbee produced _The Scalphunters_ (1968), directed by Sydney Pollack.
 
 Lancaster followed it with another film from Pollack, _Castle Keep_ (1969), which was a big flop. So was _The Gypsy Moths_ (1969] for Frankenheimer.[39]
 
@@ -169,7 +169,7 @@ For his contribution to the motion picture industry, Lancaster has a star on the
 
 Frequent collaborators
 
-Judgment_at_Nuremberg-Burt_Lancaster_2.jpg'' (1961)]] Ланкастер,_Покрышкин.jpg in the documentary television series _The Unknown War_, episode 9, "War in the Air". Moscow, USSR, 1978.]]
+'' (1961)]] in the documentary television series _The Unknown War_, episode 9, "War in the Air". Moscow, USSR, 1978.]]
 
 Lancaster appeared in a total of 17 films produced by his agent Harold Hecht. Eight of these were co-produced by James Hill. He also appeared in eight films produced by Hal B. Wallis and two with producer Mark Hellinger. Although Lancaster's work alongside Kirk Douglas was mostly known as a successful pair of actors, Douglas, in fact, produced four films for the pair, through his production companies Bryna Productions and Joel Productions. Roland Kibbee also produced three Lancaster films. Lancaster was also cast in two Stanley Kramer productions.
 
@@ -180,7 +180,7 @@ Roland Kibbee wrote for seven Lancaster films. Lancaster used make-up veteran Ro
 
 Personal life
 
-Bill_Lancaster_1967.JPG in _The Big Valley_ (1967)]]
+in _The Big Valley_ (1967)]]
 
 Marriages and relationships
 
@@ -208,7 +208,7 @@ As Lancaster grew older he became increasingly wracked with atherosclerosis, and
 
 Death
 
-Burt_Lancaster_grave_at_Westwood_Village_Memorial_Park_Cemetery_in_Brentwood,_California.JPG Lancaster died at his apartment in Century City, California, after suffering a third heart attack at 4:50 am on October 20, 1994, at the age of 80.[57] His body was cremated, and his ashes were scattered under a large oak tree in Westwood Memorial Park which is located in Westwood Village, California. A small, square ground plaque amidst several others, only inscribed with "BURT LANCASTER 1913–1994", marks the location. Upon his death, as he had previously requested, no memorial or funeral service was held for him.
+Lancaster died at his apartment in Century City, California, after suffering a third heart attack at 4:50 am on October 20, 1994, at the age of 80.[57] His body was cremated, and his ashes were scattered under a large oak tree in Westwood Memorial Park which is located in Westwood Village, California. A small, square ground plaque amidst several others, only inscribed with "BURT LANCASTER 1913–1994", marks the location. Upon his death, as he had previously requested, no memorial or funeral service was held for him.
 
 
 Filmography and awards

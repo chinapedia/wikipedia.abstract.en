@@ -259,7 +259,7 @@ A presidential election was held on October 15 and November 26, 2006. Rafael Cor
 
 Current officeholders
 
-Carondelet_-_Quito.JPG, seats the executive power.]] CENA_LENIN_MORENO_(16217113764)_(cropped).jpg]] |President |Lenín Moreno |Alianza País |24 May 2017 |- |Vice President |Otto Sonnenholzner |Independent |11 December 2018 |}
+, seats the executive power.]] ]] |President |Lenín Moreno |Alianza País |24 May 2017 |- |Vice President |Otto Sonnenholzner |Independent |11 December 2018 |}
 
 
 Legislative branch

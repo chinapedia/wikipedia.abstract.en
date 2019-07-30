@@ -19,7 +19,7 @@ In the Middle Ages, countries in Central Europe adopted Magdeburg rights.
 
 Before World War I
 
-Central_Europe_1902.PNG (1902):[25] ]] Before 1870, the industrialization that had developed in Western and Central Europe and the United States did not extend in any significant way to the rest of the world. Even in Eastern Europe, industrialization lagged far behind. Russia, for example, remained largely rural and agricultural, and its autocratic rulers kept the peasants in serfdom.[26] The concept of Central Europe was already known at the beginning of the 19th century,[27] but its real life began in the 20th century and immediately became an object of intensive interest. However, the very first concept mixed science, politics and economy – it was strictly connected with intensively growing German economy and its aspirations to dominate a part of European continent called _Mitteleuropa_. The German term denoting Central Europe was so fashionable that other languages started referring to it when indicating territories from Rhine to Vistula, or even Dnieper, and from the Baltic Sea to the Balkans.[28] An example of that-time vision of Central Europe may be seen in J. Partsch's book of 1903.[29]
+(1902):[25] ]] Before 1870, the industrialization that had developed in Western and Central Europe and the United States did not extend in any significant way to the rest of the world. Even in Eastern Europe, industrialization lagged far behind. Russia, for example, remained largely rural and agricultural, and its autocratic rulers kept the peasants in serfdom.[26] The concept of Central Europe was already known at the beginning of the 19th century,[27] but its real life began in the 20th century and immediately became an object of intensive interest. However, the very first concept mixed science, politics and economy – it was strictly connected with intensively growing German economy and its aspirations to dominate a part of European continent called _Mitteleuropa_. The German term denoting Central Europe was so fashionable that other languages started referring to it when indicating territories from Rhine to Vistula, or even Dnieper, and from the Baltic Sea to the Balkans.[28] An example of that-time vision of Central Europe may be seen in J. Partsch's book of 1903.[29]
 
 On 21 January 1904, _Mitteleuropäischer Wirtschaftsverein_ (Central European Economic Association) was established in Berlin with economic integration of Germany and Austria–Hungary (with eventual extension to Switzerland, Belgium and the Netherlands) as its main aim. Another time, the term Central Europe became connected to the German plans of political, economic and cultural domination. The "bible" of the concept was Friedrich Naumann's book _Mitteleuropa_[30] in which he called for an economic federation to be established after World War I. Naumann's idea was that the federation would have at its centre Germany and the Austro-Hungarian Empire but would also include all European nations outside the Triple Entente.[31] The concept failed after the German defeat in World War I and the dissolution of Austria-Hungary. The revival of the idea may be observed during the Hitler era.
 
@@ -45,7 +45,7 @@ The term "Mitteleuropa" conjures up negative historical associations among some 
 
 Central Europe behind the Iron Curtain
 
-Politically_independent_Central_European_states_during_Cold_war.png: Finland, Austria, Yugoslavia[46] }}]] Following World War II, large parts of Europe that were culturally and historically Western became part of the Eastern bloc. Czech author Milan Kundera (emigrant to France) thus wrote in 1984 about the "Tragedy of Central Europe" in the New York Review of Books.[47] Consequently, the English term _Central Europe_ was increasingly applied only to the westernmost former Warsaw Pact countries (East Germany, Poland, Czechoslovakia, Hungary) to specify them as communist states that were culturally tied to Western Europe.[48] This usage continued after the end of the Warsaw Pact when these countries started to undergo transition.
+: Finland, Austria, Yugoslavia[46] }}]] Following World War II, large parts of Europe that were culturally and historically Western became part of the Eastern bloc. Czech author Milan Kundera (emigrant to France) thus wrote in 1984 about the "Tragedy of Central Europe" in the New York Review of Books.[47] Consequently, the English term _Central Europe_ was increasingly applied only to the westernmost former Warsaw Pact countries (East Germany, Poland, Czechoslovakia, Hungary) to specify them as communist states that were culturally tied to Western Europe.[48] This usage continued after the end of the Warsaw Pact when these countries started to undergo transition.
 
 The post-World War II period brought blocking of research on Central Europe in the Eastern Bloc countries, as its every result proved the dissimilarity of Central Europe, which was inconsistent with the Stalinist doctrine. On the other hand, the topic became popular in Western Europe and the United States, much of the research being carried out by immigrants from Central Europe.[49] At the end of communism, publicists and historians in Central Europe, especially the anti-communist opposition, returned to their research.[50]
 
@@ -56,7 +56,7 @@ According to _Meyers Enzyklopädisches Lexikon_,[52] Central Europe is a part of
 
 Current views
 
-Geopolitical_Challenges.jpg Rather than a physical entity, Central Europe is a concept of shared history which contrasts with that of the surrounding regions. The issue of how to name and define the Central European region is subject to debates. Very often, the definition depends on the nationality and historical perspective of its author.
+Rather than a physical entity, Central Europe is a concept of shared history which contrasts with that of the surrounding regions. The issue of how to name and define the Central European region is subject to debates. Very often, the definition depends on the nationality and historical perspective of its author.
 
 Main propositions, gathered by Jerzy Kłoczowski, include:[53]
 
@@ -64,7 +64,7 @@ Main propositions, gathered by Jerzy Kłoczowski, include:[53]
 -   Central Europe as the area of cultural heritage of the Polish–Lithuanian Commonwealth – Ukrainian, Belarusian and Lithuanian historians, in cooperation (since 1990) with Polish historians, insist on the importance of the concept.
 -   Central Europe as a region connected to the Western civilisation for a very long time, including countries such as the Polish–Lithuanian Commonwealth, Kingdom of Croatia, Holy Roman Empire, later German Empire and the Habsburg Monarchy, the Kingdom of Hungary and the Crown of Bohemia. Central Europe understood in this way borders on Russia and South-Eastern Europe, but the exact frontier of the region is difficult to determine.
 
-Growth_of_Habsburg_territories.jpg]]
+]]
 
 -   Central Europe as the area of cultural heritage of the Habsburg Empire (later Austria-Hungary) – a concept which is popular in regions along the Danube River: Austria, the Czech Republic and Slovakia, Slovenia, large parts of Croatia, Romania and Serbia, also smaller parts of Poland and Ukraine. In Hungary, the narrowing of Central Europe into former Habsburg lands is not popular.
 -   A concept underlining the links connecting Belarus and Ukraine with Russia and treating the Russian Empire together with the whole Slavic Orthodox population as one entity – this position is taken by the Russian historiography.
@@ -130,7 +130,7 @@ Geography
 
 Geography defines Central Europe's natural borders with the neighbouring regions to the North across the Baltic Sea, namely Northern Europe (or Scandinavia), and to the South across the Alps, the Apennine peninsula (or Italy), and the Balkan peninsula[115] across the Soča-Krka-Sava-Danube line. The borders to Western Europe and Eastern Europe are geographically less defined and for this reason the cultural and historical boundaries migrate more easily West-East than South-North. The Rhine river which runs South-North through Western Germany is an exception.
 
-Danubemap.jpg river watercourse system throughout Central and Southeastern Europe]]
+river watercourse system throughout Central and Southeastern Europe]]
 
 Southwards, the Pannonian Plain is bounded by the rivers Sava and Danube- and their respective floodplains.[116] The Pannonian Plain stretches over the following countries: Austria, Croatia, Hungary, Romania, Serbia, Slovakia and Slovenia, and touches borders of Bosnia and Herzegovina (Republika Srpska) and Ukraine ("peri- Pannonian states").
 
@@ -184,7 +184,7 @@ Human Development Index
 
 Globalisation
 
-Globalization_Index.svg The index of globalization in Central European countries (2015 data):[132]
+The index of globalization in Central European countries (2015 data):[132]
 
 -   Austria: 89.83 (ranked 4)
 -   Switzerland: 87.01 (ranked 5)
@@ -247,7 +247,7 @@ Industrialisation occurred early in Central Europe. That caused construction of 
 
 Rail
 
-Rail_density_map.svg Central Europe contains the continent's earliest railway systems, whose greatest expansion was recorded in Austro-Hungarian and German territories between 1860-1870s.[136] By the mid-19th century Berlin, Vienna, and Buda/Pest were focal points for network lines connecting industrial areas of Saxony, Silesia, Bohemia, Moravia and Lower Austria with the Baltic (Kiel, Szczecin) and Adriatic (Rijeka, Trieste).[137] Rail infrastructure in Central Europe remains the densest in the world. Railway density, with total length of lines operated (km) per 1,000 km2, is the highest in the Czech Republic (198.6), Poland (121.0), Slovenia (108.0), Germany (105.5), Hungary (98.7), Serbia (87.3), Slovakia (73.9) and Croatia (72.5).[138][139] when compared with most of Europe and the rest of the world.[140][141]
+Central Europe contains the continent's earliest railway systems, whose greatest expansion was recorded in Austro-Hungarian and German territories between 1860-1870s.[136] By the mid-19th century Berlin, Vienna, and Buda/Pest were focal points for network lines connecting industrial areas of Saxony, Silesia, Bohemia, Moravia and Lower Austria with the Baltic (Kiel, Szczecin) and Adriatic (Rijeka, Trieste).[137] Rail infrastructure in Central Europe remains the densest in the world. Railway density, with total length of lines operated (km) per 1,000 km2, is the highest in the Czech Republic (198.6), Poland (121.0), Slovenia (108.0), Germany (105.5), Hungary (98.7), Serbia (87.3), Slovakia (73.9) and Croatia (72.5).[138][139] when compared with most of Europe and the rest of the world.[140][141]
 
 River transport and canals
 
@@ -449,7 +449,7 @@ Central European architecture has been shaped by major European styles including
 
 Religion
 
-Catholic_Church_by_Country_in_Europe.PNG (map) as well as large Protestant populations]]Juden_1881.JPG Central European countries are mostly Catholic (Austria, Croatia, Czech Republic, Hungary, Liechtenstein, Luxembourg, Poland, Slovakia, Slovenia) or mixed Catholic and Protestant, (Germany and Switzerland). Large Protestant groups include Lutheran and Calvinist. Significant populations of Eastern Catholicism and Old Catholicism are also prevalent throughout Central Europe. Central Europe has been a centre of Protestantism in the past; however, it has been mostly eradicated by the Counterreformation.[179][180][181] The Czech Republic (Bohemia) was historically the first Protestant country, then violently recatholised, and now overwhelmingly non-religious, nevertheless the largest number of religious people are Catholic (10.3%). Romania and Serbia are mostly Eastern Orthodox with significant Protestant and Catholic minorities.
+(map) as well as large Protestant populations]] Central European countries are mostly Catholic (Austria, Croatia, Czech Republic, Hungary, Liechtenstein, Luxembourg, Poland, Slovakia, Slovenia) or mixed Catholic and Protestant, (Germany and Switzerland). Large Protestant groups include Lutheran and Calvinist. Significant populations of Eastern Catholicism and Old Catholicism are also prevalent throughout Central Europe. Central Europe has been a centre of Protestantism in the past; however, it has been mostly eradicated by the Counterreformation.[179][180][181] The Czech Republic (Bohemia) was historically the first Protestant country, then violently recatholised, and now overwhelmingly non-religious, nevertheless the largest number of religious people are Catholic (10.3%). Romania and Serbia are mostly Eastern Orthodox with significant Protestant and Catholic minorities.
 
 Before the Holocaust (1941–45), there was also a sizeable Ashkenazi Jewish community in the region, numbering approximately 16.7 million people.[182]
 
@@ -481,7 +481,7 @@ Regional writing tradition revolves around the turbulent history of the region, 
 
 Media
 
-Press_freedom_2018.svg There is a whole spectrum of media active in the region: newspapers, television and internet channels, radio channels, internet websites etc. Central European media are regarded as free, according to the Press Freedom Index, although the situation in Poland, Hungary and Croatia is described as "problematic". Some of the top scoring countries in Press Freedom Index are in Central Europe include:[195]
+There is a whole spectrum of media active in the region: newspapers, television and internet channels, radio channels, internet websites etc. Central European media are regarded as free, according to the Press Freedom Index, although the situation in Poland, Hungary and Croatia is described as "problematic". Some of the top scoring countries in Press Freedom Index are in Central Europe include:[195]
 
 -   Switzerland (position 7)
 -   Austria (position 11)
@@ -527,7 +527,7 @@ File:CEI members.svg|Central European Initiative File:CEDC.svg|Central European 
 
 Democracy Index
 
-Economist_Intelligence_Unit_Democracy_index.svg Democracy index map for 2016, with greener colours representing more democratic countries]] Central Europe is a home to some of world's oldest democracies. However, most of them have been impacted by totalitarianism, particularly Fascism and Nazism. Germany and Italy occupied all Central European countries, except Switzerland. In all occupied countries, the Axis powers suspended democracy and installed puppet regimes loyal to the occupation forces. Also, they forced conquered countries to aplly racial laws and formed military forces for helping German and Italian struggle against Communists. After World War II, almost the whole of Central Europe (the Eastern and Middle part) was occupied by Communists. Communism also banned democracy and free elections, and human rights did not exist in Communist countries. Most of Central Europe had been occupied and later allied with the Soviet Union, often against their will through forged referendum (e.g., Polish people's referendum in 1946) or force (northeast Germany, Poland, Hungary et alia). Nevertheless, these experiences have been dealt in most of them. Most of Central European countries score very highly in the Democracy Index:[200]
+Democracy index map for 2016, with greener colours representing more democratic countries]] Central Europe is a home to some of world's oldest democracies. However, most of them have been impacted by totalitarianism, particularly Fascism and Nazism. Germany and Italy occupied all Central European countries, except Switzerland. In all occupied countries, the Axis powers suspended democracy and installed puppet regimes loyal to the occupation forces. Also, they forced conquered countries to aplly racial laws and formed military forces for helping German and Italian struggle against Communists. After World War II, almost the whole of Central Europe (the Eastern and Middle part) was occupied by Communists. Communism also banned democracy and free elections, and human rights did not exist in Communist countries. Most of Central Europe had been occupied and later allied with the Soviet Union, often against their will through forged referendum (e.g., Polish people's referendum in 1946) or force (northeast Germany, Poland, Hungary et alia). Nevertheless, these experiences have been dealt in most of them. Most of Central European countries score very highly in the Democracy Index:[200]
 
 -   Switzerland (position 6)
 -   Germany (position 13)
@@ -543,7 +543,7 @@ Economist_Intelligence_Unit_Democracy_index.svg Democracy index map for 2016, wi
 
 Global Peace Index
 
-Global_Peace_Index.svg In spite of its turbulent history, Central Europe is currently one of world's safest regions. Most Central European countries are in top 20%:[201]
+In spite of its turbulent history, Central Europe is currently one of world's safest regions. Most Central European countries are in top 20%:[201]
 
 -   Austria (position 3)
 -   Switzerland (position 5)
@@ -560,7 +560,7 @@ Global_Peace_Index.svg In spite of its turbulent history, Central Europe is curr
 
 Central European Time
 
-Time_zones_of_Europe.svg The time zone used in most parts of the European Union is a standard time which is 1 hour ahead of Coordinated Universal Time. It is commonly called Central European Time because it has been first adopted in central Europe (by year):
+The time zone used in most parts of the European Union is a standard time which is 1 hour ahead of Coordinated Universal Time. It is commonly called Central European Time because it has been first adopted in central Europe (by year):
 
 -   Hungary
 -   Slovakia

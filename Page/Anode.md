@@ -1,4 +1,4 @@
-Zinc_anode_2.svg anode in a galvanic cell. Note how electrons move out of the cell, and the conventional current moves into it in the opposite direction.]]
+anode in a galvanic cell. Note how electrons move out of the cell, and the conventional current moves into it in the opposite direction.]]
 
 An ANODE is an electrode through which the conventional current enters into a polarized electrical device. This contrasts with a cathode, an electrode through which conventional current leaves an electrical device. A common mnemonic is ACID for "anode current into device".[1] The direction of conventional current (the flow of positive charges) in a circuit is opposite to the direction of electron flow, so (negatively charged) electrons flow out the anode into the outside circuit. In a galvanic cell, the anode is the electrode at which the oxidation reaction occurs.
 
@@ -17,8 +17,6 @@ The definition of anode and cathode is slightly different for electrical devices
 Examples
 
 The polarity of voltage on an anode with respect to an associated cathode varies depending on the device type and on its operating mode. In the following examples, the anode is negative in a device that provides power, and positive in a device that consumes power:
-
-Fig_bat_Discharge_Charge3.png
 
 In a discharging battery or galvanic cell (diagram at right), the anode is the negative terminal because it is where conventional current flows into "the device" (i.e. the battery cell). This inward current is carried externally by electrons moving outwards, negative charge flowing in one direction being electrically equivalent to positive charge flowing in the opposite direction.
 
@@ -47,24 +45,22 @@ This process is widely used in metals refining. For example, in copper refining,
 
 Battery or galvanic cell anode
 
-Galvanic_cell_with_no_cation_flow.png In a battery or galvanic cell, the anode is the negative electrode from which electrons flow out towards the external part of the circuit. Internally the positively charged cations are flowing away from the anode (even though it is negative and therefore would be expected to attract them, this is due to electrode potential relative to the electrolyte solution being different for the anode and cathode metal/electrolyte systems); but, external to the cell in the circuit, electrons are being pushed out through the negative contact and thus through the circuit by the voltage potential as would be expected. Note: in a galvanic cell, contrary to what occurs in an electrolytic cell, no anions flow to the anode, the internal current being entirely accounted for by the cations flowing away from it (cf drawing). Charge_discharge_secondary_batterie.png In the United States, many battery manufacturers regard the positive electrode as the anode, particularly in their technical literature. Though technically incorrect, it does resolve the problem of which electrode is the anode in a secondary (or rechargeable) cell. Using the traditional definition, the anode switches ends between charge and discharge cycles.
+In a battery or galvanic cell, the anode is the negative electrode from which electrons flow out towards the external part of the circuit. Internally the positively charged cations are flowing away from the anode (even though it is negative and therefore would be expected to attract them, this is due to electrode potential relative to the electrolyte solution being different for the anode and cathode metal/electrolyte systems); but, external to the cell in the circuit, electrons are being pushed out through the negative contact and thus through the circuit by the voltage potential as would be expected. Note: in a galvanic cell, contrary to what occurs in an electrolytic cell, no anions flow to the anode, the internal current being entirely accounted for by the cations flowing away from it (cf drawing). In the United States, many battery manufacturers regard the positive electrode as the anode, particularly in their technical literature. Though technically incorrect, it does resolve the problem of which electrode is the anode in a secondary (or rechargeable) cell. Using the traditional definition, the anode switches ends between charge and discharge cycles.
 
 
 Vacuum tube anode
-
-Triode-english-text.svg
 
 In electronic vacuum devices such as a cathode ray tube, the anode is the positively charged electron collector. In a tube, the anode is a charged positive plate that collects the electrons emitted by the cathode through electric attraction. It also accelerates the flow of these electrons.
 
 
 Diode anode
 
-In a semiconductor diode, the anode is the P-doped layer which initially supplies _holes_ to the junction. In the junction region, the holes supplied by the anode combine with electrons supplied from the N-doped region, creating a depleted zone. As the P-doped layer supplies holes to the depleted region, negative dopant ions are left behind in the P-doped layer ('P' for positive charge-carrier ions). This creates a base negative charge on the anode. When a positive voltage is applied to anode of the diode from the circuit, more _holes_ are able to be transferred to the depleted region, and this causes the diode to become conductive, allowing current to flow through the circuit. The terms anode and cathode should not be applied to a Zener diode, since it allows flow in either direction, depending on the polarity of the applied potential (i.e. voltage). Diode symbol
+In a semiconductor diode, the anode is the P-doped layer which initially supplies _holes_ to the junction. In the junction region, the holes supplied by the anode combine with electrons supplied from the N-doped region, creating a depleted zone. As the P-doped layer supplies holes to the depleted region, negative dopant ions are left behind in the P-doped layer ('P' for positive charge-carrier ions). This creates a base negative charge on the anode. When a positive voltage is applied to anode of the diode from the circuit, more _holes_ are able to be transferred to the depleted region, and this causes the diode to become conductive, allowing current to flow through the circuit. The terms anode and cathode should not be applied to a Zener diode, since it allows flow in either direction, depending on the polarity of the applied potential (i.e. voltage).
 
 
 Sacrificial anode
 
-Anodes-on-jacket.jpg In cathodic protection, a metal anode that is more reactive to the corrosive environment of the system to be protected is electrically linked to the protected system, and partially corrodes or dissolves, which protects the metal of the system it is connected to. As an example, an iron or steel ship's hull may be protected by a zinc sacrificial anode, which will dissolve into the seawater and prevent the hull from being corroded. Sacrificial anodes are particularly needed for systems where a static charge is generated by the action of flowing liquids, such as pipelines and watercraft. Sacrificial anodes are also generally used in tank-type water heaters.
+In cathodic protection, a metal anode that is more reactive to the corrosive environment of the system to be protected is electrically linked to the protected system, and partially corrodes or dissolves, which protects the metal of the system it is connected to. As an example, an iron or steel ship's hull may be protected by a zinc sacrificial anode, which will dissolve into the seawater and prevent the hull from being corroded. Sacrificial anodes are particularly needed for systems where a static charge is generated by the action of flowing liquids, such as pipelines and watercraft. Sacrificial anodes are also generally used in tank-type water heaters.
 
 In 1824 to reduce the impact of this destructive electrolytic action on ships hulls, their fastenings and underwater equipment, the scientist-engineer Sir Humphry Davy, developed the first and still most widely used marine electrolysis protection system. Davy installed sacrificial anodes made from a more electrically reactive (less noble) metal attached to the vessel hull and electrically connected to form a cathodic protection circuit.
 

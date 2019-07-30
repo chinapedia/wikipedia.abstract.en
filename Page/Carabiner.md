@@ -1,5 +1,3 @@
-Assorted_Biners.jpg Benutzung_eines_Karabiners.gif
-
 A CARABINER () or KARABINER is a specialized type of shackle, a metal loop with a spring-loaded gate[1] used to quickly and reversibly connect components, most notably in safety-critical systems. The word is a shortened form of _Karabinerhaken_ (or also short _Karabiner_), a German phrase for a "spring hook"[2] used by a carbine rifleman, or carabinier, to attach items to a belt or bandolier.
 
 
@@ -42,7 +40,7 @@ Locking
 
 Life supporting carabiners such as those used in tree climbing need to be strong (thus strength ratings), but also secure against unintentional opening under use. All carabiners with a spring loaded gate are "self closing" (single action). Several are also "self locking" (double action), some even "self double locking" (triple action).
 
-Locking carabiners have the same general shape as non-locking carabiners, but have an additional mechanism securing the gate. These mechanisms may be either threaded sleeves ("screw-lock"), spring-loaded sleeves ("twist-lock"), magnetic levers ("Magnetron"), other spring loaded unlocking levers or opposing double spring loaded gates ("Twin-Gate").Sicherheitskarabiner.jpg and arborist work.]]
+Locking carabiners have the same general shape as non-locking carabiners, but have an additional mechanism securing the gate. These mechanisms may be either threaded sleeves ("screw-lock"), spring-loaded sleeves ("twist-lock"), magnetic levers ("Magnetron"), other spring loaded unlocking levers or opposing double spring loaded gates ("Twin-Gate"). and arborist work.]]
 
 -   Screw-lock (or screw gate): Have a threaded sleeve over the gate which must be engaged and disengaged manually. They have fewer moving parts than spring-loaded mechanisms, are less prone to malfunctioning due to contamination or component fatigue, and are easier to employ one-handed. They, however, require more total effort and are more time-consuming than pull-lock, twist-lock or lever-lock.
 -   Twist-lock, push-lock, twist-and-push-lock: Have a security sleeve over the gate which must be manually rotated and/or pulled to disengage, but which springs automatically to locked position upon release. They offer the advantage of re-engaging without additional user input, but being spring-loaded are prone to both spring fatigue and their more complex mechanisms becoming balky from dirt, ice, or other contamination. They are also difficult to open one-handed and with gloves on.

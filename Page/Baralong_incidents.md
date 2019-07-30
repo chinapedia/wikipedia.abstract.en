@@ -19,8 +19,6 @@ Meanwhile, about south of Queenstown, , commanded by _Kapitänleutnant_ Bernd We
 
 _U-27_ was lying off _Nicosian_{{'}}s port quarter and firing into it when _Baralong_ appeared on the scene, flying the ensign of the United States as a false flag. When she was half a mile away, _Baralong_ ran up a signal flag indicating that she was going to rescue _Nicosian_{{'}}s crew. Wegener acknowledged the signal, then ordered his men to cease firing, and took _U-27_ along the port side of _Nicosian_ to intercept _Baralong_. As the submarine disappeared behind the steamship, Herbert steered _Baralong_ on a parallel course along _Nicosian_{{'}}s starboard side.[7]
 
-HMS_Baralong_vs_SM_U-27.jpg
-
 Before _U-27_ came round _Nicosian_{{'}}s bow, _Baralong_ hauled down the American flag, hoisted the Royal Navy's White Ensign, and unmasked her guns. As _U-27_ came into view from behind _Nicosian_, _Baralong_ opened fire with her three 12-pounder guns at a range of , firing 34 rounds for only a single shot from the submarine. _U-27_ rolled over and began to sink.[8][9]
 
 According to Tony Bridgland;

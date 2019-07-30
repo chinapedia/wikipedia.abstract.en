@@ -1,4 +1,4 @@
-Hopfendolde-mit-hopfengarten.jpg, Germany]] Cross-section_of_hop_cone.svg Hops_on_the_Yakima_Reservation.jpg ready for harvest on the Yakama Indian Reservation]] Decorative_Hops.jpg HOPS are the flowers (also called seed cones or strobiles) of the hop plant _Humulus lupulus._[1] They are used primarily as a bittering, flavouring, and stability agent in beer, to which, in addition to bitterness, they impart floral, fruity, or citrus flavours and aromas.[2] Hops are also used for various purposes in other beverages and herbal medicine. The hop plant is a vigorous, climbing, herbaceous perennial, usually trained to grow up strings in a field called a hopfield, hop garden (nomenclature in the South of England), or hop yard (in the West Country and US) when grown commercially. Many different varieties of hops are grown by farmers around the world, with different types used for particular styles of beer.
+, Germany]] ready for harvest on the Yakama Indian Reservation]] HOPS are the flowers (also called seed cones or strobiles) of the hop plant _Humulus lupulus._[1] They are used primarily as a bittering, flavouring, and stability agent in beer, to which, in addition to bitterness, they impart floral, fruity, or citrus flavours and aromas.[2] Hops are also used for various purposes in other beverages and herbal medicine. The hop plant is a vigorous, climbing, herbaceous perennial, usually trained to grow up strings in a field called a hopfield, hop garden (nomenclature in the South of England), or hop yard (in the West Country and US) when grown commercially. Many different varieties of hops are grown by farmers around the world, with different types used for particular styles of beer.
 
 The first documented use of hops in beer is from the 9th century, though Hildegard of Bingen, 300 years later, is often cited as the earliest documented source.[3] Before this period, brewers used a "gruit", composed of a wide variety of bitter herbs and flowers, including dandelion, burdock root, marigold, horehound (the old German name for horehound, _Berghopfen_, means "mountain hops"), ground ivy, and heather.[4] Early documents include mention of a hop garden in the will of Charlemagne's father, Pepin III.[5]
 
@@ -33,7 +33,7 @@ Hops production is concentrated in moist temperate climates, with much of the wo
 
 Important production centres today are the Hallertau in Germany,[20] the Žatec (Saaz) in the Czech Republic, the Yakima (Washington) and Willamette (Oregon) valleys, and western Canyon County, Idaho (including the communities of Parma, Wilder, Greenleaf, and Notus).[21] The principal production centres in the UK are in Kent (which produces Kent Goldings hops), Herefordshire, and Worcestershire.[22][23] Essentially all of the harvested hops are used in beer making.
 
-Yakima-Valley-Hop-Yard.jpg of Washington with Mount Adams in the distance]]
+of Washington with Mount Adams in the distance]]
 
   Hop producing country   2017 hop output in tonnes (t)[24]
   ----------------------- -----------------------------------
@@ -51,7 +51,7 @@ Yakima-Valley-Hop-Yard.jpg of Washington with Mount Adams in the distance]]
 
 Cultivation and harvest
 
-Chmelnice.jpgs]]
+s]]
 
 Although hops are grown in most of the continental United States and Canada,[25] cultivation of hops for commercial production requires a particular environment. As hops are a climbing plant, they are trained to grow up trellises made from strings or wires that support the plants and allow them significantly greater growth with the same sunlight profile. In this way, energy that would have been required to build structural cells is also freed for crop growth.[26]
 
@@ -65,7 +65,7 @@ Hop cones contain different oils, such as lupulin, a yellowish, waxy substance, 
 
 Migrant labor and social impact
 
-Kratky,_Frantisek_-_Sklizen_chmele_(ca_1898).jpg (1898)]] NMA.0063746_Humleplockning_mellan_Vånga_och_Näsum.jpg, Sweden in 1937]]
+(1898)]] , Sweden in 1937]]
 
 The need for massed labor at harvest time meant hop-growing had a big social impact. Around the world, the labor-intensive harvesting work involved large numbers of migrant workers who would travel for the annual hop harvest. Whole families would participate and live in hoppers' huts, with even the smallest children helping in the fields.[30][31] The final chapters of W. Somerset Maugham's _Of Human Bondage_ and a large part of George Orwell's _A Clergyman's Daughter_ contain a vivid description of London families participating in this annual hops harvest. In England, many of those picking hops in Kent were from eastern areas of London. This provided a break from urban conditions that was spent in the countryside. People also came from Birmingham and other Midlands cities to pick hops in the Malvern area of Worcestershire. Some photographs have been preserved.[32]
 
@@ -80,13 +80,9 @@ In addition to water, cellulose, and various proteins, the chemical composition 
 
 Alpha acids
 
-Reaction-degradation-humulone.png
-
 Probably the most important chemical compound within hops are the alpha acids or humulones. During wort boiling, the humulones are thermally isomerized into iso-alpha acids or _isohumulones_, which are responsible for the bitter taste of beer.[37]
 
 Beta acids
-
-Lupulone.svg
 
 Hops contain beta acids or lupulones. These are desirable for their aroma contributions to beer.
 
@@ -96,14 +92,10 @@ The main components of hops essential oils are terpene hydrocarbons consisting o
 
 Flavonoids
 
-8-Prenylnaringenin.svg
-
 Xanthohumol is the principal flavonoid in hops. The other well-studied prenylflavonoids are 8-prenylnaringenin and isoxanthohumol. Xanthohumol is under basic research for its potential properties, while 8-prenylnaringenin is a potent phytoestrogen.[40][41]
 
 
 Brewing
-
-Hops_are_used_for_beer_brewing.JPG
 
 Hops are usually dried in an oast house before they are used in the brewing process.[42] Undried or "wet" hops are sometimes (since ca.1990) used.[43][44]
 
@@ -114,8 +106,6 @@ The effect of hops on the finished beer varies by type and use, though there are
 The degree of bitterness imparted by hops depends on the degree to which alpha acids are isomerized during the boil, and the impact of a given amount of hops is specified in International Bitterness Units. Unboiled hops are only mildly bitter. On the other hand, the nonbitter flavour and aroma of hops come from the essential oils, which evaporate during the boil.
 
 Aroma hops are typically added to the wort later to prevent the evaporation of the essential oils, to impart "hop taste" (if during the final 30 minutes of boil) or "hop aroma" (if during the final 10 minutes, or less, of boil). Aroma hops are often added after the wort has cooled and while the beer ferments, a technique known as "dry hopping", which contributes to the hop aroma. Farnesene is a major component in some hops.[46] The composition of hop essential oils can differ between varieties and between years in the same variety, having a significant influence on flavour and aroma.[47]
-
-Hops_Lupulin_Macro.jpg
 
 Today, a substantial amount of "dual-use" hops are used, as well. These have high concentrations of alpha acids and good aromatic properties. These can be added to the boil at any time, depending on the desired effect.[48] Hop acids also contribute to and stabilize the foam qualities of beer.[49]
 
@@ -140,8 +130,6 @@ Hops from New Zealand, such as Pacific Gem, Motueka and Nelson Sauvin, are used 
 
 Noble hops
 
-Hopfengarten.jpg
-
 The term "noble hops" is a marketing term that traditionally refers to varieties of hops low in bitterness and high in aroma.[56] They are the European cultivars or races Hallertau, Tettnanger, Spalt, and Saaz.[57] Some proponents assert that the English varieties Fuggle, East Kent Goldings and Goldings might qualify as "noble hops" due to the similar composition, but such terms never applied to English varieties. Their low relative bitterness, but strong aroma, are often distinguishing characteristics of European-style lagers, such as Pilsener, Dunkel, and Oktoberfest/Märzen. In beer, they are considered aroma hops (as opposed to bittering hops);[58] see Pilsner Urquell as a classic example of the Bohemian Pilsener style, which showcases noble hops.
 
 As with grapes, the location where hops are grown affects the hops' characteristics. Much as Dortmunder beer may within the EU be labelled "Dortmunder" only if it has been brewed in Dortmund, noble hops may officially be considered "noble" only if they were grown in the areas for which the hop varieties (races) were named.
@@ -155,8 +143,6 @@ Noble hops are characterized through analysis as having an aroma quality resulti
 
 
 Other uses
-
-2-methyl-3-buten-2-ol.svg
 
 In addition to beer, hops are used in herbal teas and in soft drinks. These soft drinks include Julmust (a carbonated beverage similar to soda that is popular in Sweden during December), Malta (a Latin American soft drink) and kvass. Hops can be eaten, the young shoots of the vine are edible and can be cooked similar to asparagus.[62][63]
 

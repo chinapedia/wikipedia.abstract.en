@@ -14,7 +14,7 @@ Ezekiel has the broad three-fold structure found in a number of the prophetic bo
 
 Summary
 
-Flemish_-_Ezekiel's_Vision_of_the_Sign_"Tau"_(Ezekiel_IX_-2-7)_-_Walters_44616.jpg piece of copperwork depicting Ezekiel's Vision of the Sign "Tau" from Ezekiel IX:2–7. The item is currently held by the Walters Museum.]] The book opens with a vision of YHWH (). The book moves on to anticipate the destruction of Jerusalem and the Temple, explains this as God's punishment, and closes with the promise of a new beginning and a new Temple.[1]
+piece of copperwork depicting Ezekiel's Vision of the Sign "Tau" from Ezekiel IX:2–7. The item is currently held by the Walters Museum.]] The book opens with a vision of YHWH (). The book moves on to anticipate the destruction of Jerusalem and the Temple, explains this as God's punishment, and closes with the promise of a new beginning and a new Temple.[1]
 
 1.  Inaugural vision Ezekiel 1:1–3:27: God approaches Ezekiel as the divine warrior, riding in his battle chariot. The chariot is drawn by four living creatures, each having four faces (those of a man, a lion, an ox, and an eagle) and four wings. Beside each "living creature" is a "wheel within a wheel", with "tall and awesome" rims full of eyes all around. God commissions Ezekiel as a prophet and as a "watchman" in Israel: "Son of man, I am sending you to the Israelites." (2:3)
 2.  Judgment on Jerusalem and Judah[2] and on the nations:[3] God warns of the certain destruction of Jerusalem and of the devastation of the nations that have troubled his people: the Ammonites, Moabites, Edomites and Philistines, the Phoenician cities of Tyre and Sidon, and Egypt.
@@ -49,7 +49,7 @@ The first half of the 20th century saw several attempts to deny the authorship a
 
 Themes
 
-Yad_Vashem_Memorial_to_survivors_by_David_Shankbone.jpg at Yad Vashem in Jerusalem; the quote is Ezekiel 37:14]]
+at Yad Vashem in Jerusalem; the quote is Ezekiel 37:14]]
 
 As a priest, Ezekiel is fundamentally concerned with the _Kavod YHWH_, a technical phrase meaning the presence (shekhinah) of YHWH (i.e., one of the Names of God) among the people, in the Tabernacle, and in the Temple, and normally translated as "glory of God". In Ezekiel the phrase describes God mounted on his throne-chariot as he departs from the Temple in chapters 1–11 and returns to what Marvin Sweeney describes as a portrayal of "the establishment of the new temple in Zion as YHWH returns to the temple, which then serves as the center for a new creation with the tribes of Israel arrayed around it" in chapters 40–48. The vision in chapters 1:4–28 reflects common mythological/Biblical themes and the imagery of the Temple: God appears in a cloud from the north – the north being the usual home of God/the gods in ancient mythology and Biblical literature – with four living creatures corresponding to the two cherubim above the Mercy Seat of the Ark of the Covenant and the two in the Holy of Holies, the innermost chamber of the Temple; the burning coals of fire between the creatures perhaps represents the fire on the sacrificial altar, and the famous "wheel within a wheel" may represent the rings by which the Levites carried the Ark, or the wheels of the cart.
 

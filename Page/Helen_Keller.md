@@ -5,7 +5,7 @@ A prolific author, Keller was well-traveled and outspoken in her convictions. A 
 
 Early childhood and illness
 
-Helen_Keller_Birthplace_House.jpg Helen_Keller_with_Anne_Sullivan_in_July_1888.jpg vacationing on Cape Cod in July 1888]] Helen Adams Keller was born on June 27, 1880, in Tuscumbia, Alabama.[3] Her family lived on a homestead, Ivy Green,[4] that Helen's grandfather had built decades earlier.[5] She had four siblings; two full siblings, Mildred Campbell (Keller) Tyson and Phillip Brooks Keller, and two older half-brothers from her father's prior marriage, James McDonald Keller and William Simpson Keller.[6][7]
+vacationing on Cape Cod in July 1888]] Helen Adams Keller was born on June 27, 1880, in Tuscumbia, Alabama.[3] Her family lived on a homestead, Ivy Green,[4] that Helen's grandfather had built decades earlier.[5] She had four siblings; two full siblings, Mildred Campbell (Keller) Tyson and Phillip Brooks Keller, and two older half-brothers from her father's prior marriage, James McDonald Keller and William Simpson Keller.[6][7]
 
 Her father, Arthur Henley Keller (1836–1896),[8] spent many years as an editor of the Tuscumbia _North Alabamian_ and had served as a captain in the Confederate Army.[9][10] Her mother, Catherine Everett (Adams) Keller (1856–1921), known as "Kate",[11] was the daughter of Charles W. Adams, a Confederate general. Her paternal lineage was traced to Casper Keller, a native of Switzerland.[12][13] One of Helen's Swiss ancestors was the first teacher for the deaf in Zurich. Keller reflected on this irony in her first autobiography, stating "that there is no king who has not had a slave among his ancestors, and no slave who has not had a king among his."[14]
 
@@ -42,7 +42,7 @@ When part of the account was reprinted in the January 20, 2016, edition of the p
 
 Companions
 
-PSM_V63_D081_Helen_keller_and_miss_sullivan.png at his School of Vocal Physiology and Mechanics of Speech.]] Anne Sullivan stayed as a companion to Helen Keller long after she taught her. Sullivan married John Macy in 1905, and her health started failing around 1914. Polly Thomson (February 20, 1885[34] – March 21, 1960) was hired to keep house. She was a young woman from Scotland who had no experience with deaf or blind people. She progressed to working as a secretary as well, and eventually became a constant companion to Keller.[35]
+at his School of Vocal Physiology and Mechanics of Speech.]] Anne Sullivan stayed as a companion to Helen Keller long after she taught her. Sullivan married John Macy in 1905, and her health started failing around 1914. Polly Thomson (February 20, 1885[34] – March 21, 1960) was hired to keep house. She was a young woman from Scotland who had no experience with deaf or blind people. She progressed to working as a secretary as well, and eventually became a constant companion to Keller.[35]
 
 Keller moved to Forest Hills, Queens, together with Sullivan and Macy, and used the house as a base for her efforts on behalf of the American Foundation for the Blind.[36] "While in her thirties Helen had a love affair, became secretly engaged, and defied her teacher and family by attempting an elopement with the man she loved."[37] He was "Peter Fagan, a young Boston Herald reporter who was sent to Helen's home to act as her private secretary when lifelong companion, Anne, fell ill."
 
@@ -51,7 +51,7 @@ Anne Sullivan died in 1936 after a coma as a result of coronary thrombosis,[38] 
 
 Political activities
 
-Helen_KellerA.jpg for "medical and cosmetic reasons".[41]]]
+for "medical and cosmetic reasons".[41]]]
 
 Keller went on to become a world-famous speaker and author. She is remembered as an advocate for people with disabilities, amid numerous other causes. The deaf community was widely impacted by her. She traveled to twenty-five different countries giving motivational speeches about Deaf people's conditions.[42] She was a suffragette, pacifist, radical socialist, birth control supporter, and opponent of Woodrow Wilson. In 1915 she and George A. Kessler founded the Helen Keller International (HKI) organization. This organization is devoted to research in vision, health and nutrition. In 1920, she helped to found the American Civil Liberties Union (ACLU). Keller traveled to over 40 countries with Sullivan, making several trips to Japan and becoming a favorite of the Japanese people. Keller met every U.S. President from Grover Cleveland to Lyndon B. Johnson and was friends with many famous figures, including Alexander Graham Bell, Charlie Chaplin and Mark Twain. Keller and Twain were both considered radicals at the beginning of the 20th century, and as a consequence, their political views have been forgotten or glossed over in the popular mind.[43]
 
@@ -68,7 +68,7 @@ Keller supported eugenics. In 1915 she wrote in favor of refusing life-saving me
 
 Writings
 
-Helen_Keller13.jpg Keller wrote a total of 12 published books and several articles.
+Keller wrote a total of 12 published books and several articles.
 
 One of her earliest pieces of writing, at age 11, was _The Frost King_ (1891). There were allegations that this story had been plagiarized from _The Frost Fairies_ by Margaret Canby. An investigation into the matter revealed that Keller may have experienced a case of cryptomnesia, which was that she had Canby's story read to her but forgot about it, while the memory remained in her subconscious.[54]
 
@@ -103,11 +103,11 @@ Keller devoted much of her later life to raising funds for the American Foundati
 
 Portrayals
 
-Anne_Sullivan_-_Helen_Keller_memorial_-_Tewksbury,_Massachusetts_-_DSC00072.JPG – Helen Keller Memorial"—a bronze sculpture in Tewksbury, Massachusetts]] Keller's life has been interpreted many times. She appeared in a silent film, _Deliverance_ (1919), which told her story in a melodramatic, allegorical style.[66]
+ – Helen Keller Memorial"—a bronze sculpture in Tewksbury, Massachusetts]] Keller's life has been interpreted many times. She appeared in a silent film, _Deliverance_ (1919), which told her story in a melodramatic, allegorical style.[66]
 
 She was also the subject of the documentaries _Helen Keller in Her Story_, narrated by her friend and noted theatrical actress Katharine Cornell, and _The Story of Helen Keller_, part of the Famous Americans series produced by Hearst Entertainment.
 
-_The Miracle Worker_ is a cycle of dramatic works ultimately derived from her autobiography, _The Story of My Life_. The various dramas each describe the relationship between Keller and Sullivan, depicting how the teacher led her from a state of almost feral wildness into education, activism, and intellectual celebrity. The common title of the cycle echoes Mark Twain's description of Sullivan as a "miracle worker." Its first realization was the 1957 _Playhouse 90_ teleplay of that title by William Gibson. He adapted it for a Broadway production in 1959 and an Oscar-winning feature film in 1962, starring Anne Bancroft and Patty Duke. It was remade for television in 1979 and 2000. Helen_keller_patty_duke.jpg, who portrayed Keller in both the play and film _The Miracle Worker_ (1962). In a 1979 remake, Patty Duke played Anne Sullivan.]] In 1984, Keller's life story was made into a TV movie called _The Miracle Continues_.[67] This film, a semi-sequel to _The Miracle Worker_, recounts her college years and her early adult life. None of the early movies hint at the social activism that would become the hallmark of Keller's later life, although a Disney version produced in 2000 states in the credits that she became an activist for social equality.
+_The Miracle Worker_ is a cycle of dramatic works ultimately derived from her autobiography, _The Story of My Life_. The various dramas each describe the relationship between Keller and Sullivan, depicting how the teacher led her from a state of almost feral wildness into education, activism, and intellectual celebrity. The common title of the cycle echoes Mark Twain's description of Sullivan as a "miracle worker." Its first realization was the 1957 _Playhouse 90_ teleplay of that title by William Gibson. He adapted it for a Broadway production in 1959 and an Oscar-winning feature film in 1962, starring Anne Bancroft and Patty Duke. It was remade for television in 1979 and 2000. , who portrayed Keller in both the play and film _The Miracle Worker_ (1962). In a 1979 remake, Patty Duke played Anne Sullivan.]] In 1984, Keller's life story was made into a TV movie called _The Miracle Continues_.[67] This film, a semi-sequel to _The Miracle Worker_, recounts her college years and her early adult life. None of the early movies hint at the social activism that would become the hallmark of Keller's later life, although a Disney version produced in 2000 states in the credits that she became an activist for social equality.
 
 The Bollywood movie _Black_ (2005) was largely based on Keller's story, from her childhood to her graduation.[68]
 
@@ -123,8 +123,6 @@ A painting titled _The Advocate: Tribute to Helen Keller_ was created by three a
 
 
 Posthumous honors
-
-Alabama_quarter,_reverse_side,_2003.jpg
 
 A preschool for the deaf and hard of hearing in Mysore, India, was originally named after Helen Keller by its founder, K. K. Srinivasan.[75] In 1999, Keller was listed in Gallup's Most Widely Admired People of the 20th century.
 

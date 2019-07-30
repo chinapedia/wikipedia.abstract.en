@@ -3,8 +3,6 @@ EDWIN HOWARD ARMSTRONG (December 18, 1890[1] – February 1, 1954[2]) was an Ame
 
 Early life
 
-EdwinHArmstrongHouse_c1975.jpg
-
 Armstrong was born in the Chelsea district of New York City, the oldest of John and Emily (Smith) Armstrong's three children.[3] His father began working at a young age at the American branch of the Oxford University Press, which published bibles and standard classical works, eventually advancing to the position of vice president.[4] His parents first met at the North Presbyterian Church, located at 31st Street and Ninth Avenue. His mother's family had strong ties to Chelsea, and an active role in church functions.[5] When the church moved north, the Smiths and Armstrongs followed, and in 1895 the Armstrong family moved from their brownstone row house at 347 West 29th Street to a similar house at 26 West 97th Street in the Upper West Side.[6] The family was comfortably middle class.
 
 At the age of eight, Armstrong contracted Sydenham's chorea (then known as St. Vitus' Dance), an infrequent but serious neurological disorder precipitated by rheumatic fever. For the rest of his life, Armstrong was afflicted with a physical tic exacerbated by excitement or stress. Due to this illness, he withdrew from public school and was home-tutored for two years.[7] To improve his health, the Armstrong family moved to a house overlooking the Hudson River, at 1032 Warburton Avenue in Yonkers. The Smith family subsequently moved next door.[8] Armstrong's tic and the time missed from school led him to become socially withdrawn.
@@ -26,8 +24,6 @@ Early work
 
 Regenerative circuit
 
-Armstrong_circuit.png
-
 Armstrong began working on his first major invention while still an undergraduate at Columbia. In late 1906, Lee de Forest had invented the three-element (triode) "grid Audion" vacuum-tube. How vacuum tubes worked was not understood at the time. De Forest's initial Audions did not have a high vacuum and developed a blue glow at modest plate voltages; De Forest improved the vacuum for Federal Telegraph.[17] By 1912, vacuum tube operation was understood, and regenerative circuits using high vacuum tubes were appreciated.
 
 While growing up, Armstrong had experimented with the early temperamental, "gassy" Audions. Spurred by the later discoveries, he developed a keen interest in gaining a detailed scientific understanding of how vacuum-tubes worked. In conjunction with Professor Morecroft he used an oscillograph to conduct comprehensive studies.[18] His breakthrough discovery was determining that employing positive feedback (also known as "regeneration") produced amplification hundreds of times greater than previously attained, with the amplified signals now strong enough so that receivers could use loudspeakers instead of headphones. Further investigation revealed that when the feedback was increased beyond a certain level a vacuum-tube would go into oscillation, thus could also be used as a continuous-wave radio transmitter.
@@ -42,7 +38,7 @@ In response to the second Supreme Court decision upholding de Forest as the inve
 
 Superheterodyne circuit
 
-Edwin_H_Armstrong_in_WWI_1922.png uniform during World War I]] The United States entered into World War I in April 1917, and later that year Armstrong was commissioned as a Captain in the U.S. Army Signal Corps, and assigned to a laboratory in Paris, France to help develop radio communication for the Allied war effort. He returned to the United States in the fall of 1919, after being promoted to the rank of Major.[25] (During both world wars, Armstrong gave the U.S. military free use of his patents.)
+uniform during World War I]] The United States entered into World War I in April 1917, and later that year Armstrong was commissioned as a Captain in the U.S. Army Signal Corps, and assigned to a laboratory in Paris, France to help develop radio communication for the Allied war effort. He returned to the United States in the fall of 1919, after being promoted to the rank of Major.[25] (During both world wars, Armstrong gave the U.S. military free use of his patents.)
 
 During this period Armstrong's most significant accomplishment was the development of a "supersonic heterodyne" – soon shortened to "superheterodyne" – radio receiver circuit.[26] This circuit made radio receivers more sensitive and selective and is still extensively used today. The key feature of the superheterodyne approach is the mixing of the incoming radio signal with a locally generated, different frequency signal within a radio set. This circuit is typically referred to as the mixer. The end result is a fixed, unchanging intermediate frequency, or I.F. signal which is more easily amplified and detected by subsequent circuit stages that follow the mixer. In 1919, Armstrong filed an application for a U.S. patent of the superheterodyne circuit which was issued the next year. This patent was subsequently sold to Westinghouse.[27] The patent would be challenged, however, triggering yet another patent office interference hearing.[28] Armstrong ultimately lost this patent battle; although the outcome was less controversial than that involving the regeneration proceedings.[29]
 
@@ -52,7 +48,7 @@ Although most early radio receivers used regeneration Armstrong approached RCA's
 
 Super-regeneration circuit
 
-Edwin_Armstrong_at_blackboard.jpg The regeneration legal battle had one serendipitous outcome for Armstrong. While he was preparing apparatus to counteract a claim made by a patent attorney, he "accidentally ran into the phenomenon of super-regeneration", where, by rapidly "quenching" the vacuum-tube oscillations, he was able to achieve even greater levels of amplification. A year later, in 1922, Armstrong sold his super-regeneration patent to RCA for $200,000 plus 60,000 shares of corporation stock, which was later increased to 80,000 shares in payment for consulting services. This made Armstrong RCA's largest shareholder, and he noted that "The sale of that invention was to net me more than the sale of the regenerative circuit and the superheterodyne combined".[33] RCA envisioned selling a line of super-regenerative receivers until superheterodyne sets could be perfected for general sales, but it turned out the circuit was not selective enough to make it practical for broadcast receivers.
+The regeneration legal battle had one serendipitous outcome for Armstrong. While he was preparing apparatus to counteract a claim made by a patent attorney, he "accidentally ran into the phenomenon of super-regeneration", where, by rapidly "quenching" the vacuum-tube oscillations, he was able to achieve even greater levels of amplification. A year later, in 1922, Armstrong sold his super-regeneration patent to RCA for $200,000 plus 60,000 shares of corporation stock, which was later increased to 80,000 shares in payment for consulting services. This made Armstrong RCA's largest shareholder, and he noted that "The sale of that invention was to net me more than the sale of the regenerative circuit and the superheterodyne combined".[33] RCA envisioned selling a line of super-regenerative receivers until superheterodyne sets could be perfected for general sales, but it turned out the circuit was not selective enough to make it practical for broadcast receivers.
 
 
 Wide-band FM radio
@@ -107,7 +103,7 @@ Armstrong has been called "the most prolific and influential inventor in radio h
 
 Personal life
 
-First_portable_radio,_1923_-b.jpg in Palm Beach in 1923. The radio is a portable superheterodyne that Armstrong built as a present for her.]]
+in Palm Beach in 1923. The radio is a portable superheterodyne that Armstrong built as a present for her.]]
 
 In 1923, combining his love for high places with courtship rituals, Armstrong climbed the WJZ (now WABC) antenna located atop a twenty-story building in New York City, where he reportedly did a handstand, and when a witness asked him what motivated him to "do these damnfool things", Armstrong replied "I do it because the spirit moves me."[68] Armstrong had arranged to have photographs taken, which he had delivered to David Sarnoff's secretary, Marion MacInnis.[69] Armstrong and MacInnis married later that year.[70] Armstrong bought a Hispano-Suiza motor car before the wedding, which he kept until his death, and which he drove to Palm Beach, Florida for their honeymoon. A publicity photograph was made of him presenting Marion with the world's first portable superheterodyne radio as a wedding gift.[71]
 
@@ -120,7 +116,7 @@ Among Armstrong's living descendants are Steven McGrath, of Cape Elizabeth, Main
 
 Honors
 
-Philohall.JPEG at Columbia University, which housed the basement laboratory where Armstrong developed FM radio.]] In 1917, Armstrong was the first recipient of the IRE's (now IEEE) Medal of Honor.[75]
+at Columbia University, which housed the basement laboratory where Armstrong developed FM radio.]] In 1917, Armstrong was the first recipient of the IRE's (now IEEE) Medal of Honor.[75]
 
 For his wartime work on radio, the French government gave him the Legion of Honor in 1919.[76] He was awarded the 1941 Franklin Medal, and in 1942 received the AIEEs Edison Medal "for distinguished contributions to the art of electric communication, notably the regenerative circuit, the superheterodyne, and frequency modulation."[77] The ITU added him to its roster of great inventors of electricity in 1955.
 

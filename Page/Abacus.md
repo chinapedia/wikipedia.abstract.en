@@ -1,4 +1,4 @@
-Abacı|the medieval book|Liber Abaci}} Boulier1.JPG'']] Houghton_Typ_520.03.736_-_Margarita_philosophica.jpg: _Margarita Philosophica_, 1503. The woodcut shows _Arithmetica_ instructing an algorist and an abacist (inaccurately represented as Boethius and Pythagoras). There was keen competition between the two from the introduction of the _Algebra_ into Europe in the 12th century until its triumph in the 16th.[1]]]
+Abacı|the medieval book|Liber Abaci}} '']] : _Margarita Philosophica_, 1503. The woodcut shows _Arithmetica_ instructing an algorist and an abacist (inaccurately represented as Boethius and Pythagoras). There was keen competition between the two from the introduction of the _Algebra_ into Europe in the 12th century until its triumph in the 16th.[1]]]
 
 The ABACUS (_plural_ ABACI or ABACUSES), also called a COUNTING FRAME, is a calculating tool that was in use in Europe, China and Russia, centuries before the adoption of the written Hindu–Arabic numeral system.[2] The exact origin of the abacus is still unknown. Today, abacuses are often constructed as a bamboo frame with beads sliding on wires, but originally they were beans or stones moved in grooves in sand or on tablets of wood, stone, or metal.
 
@@ -32,13 +32,13 @@ During the Achaemenid Empire, around 600 BC the Persians first began to use the 
 
 Greek
 
-Salaminische_Tafel_Salamis_Tablet_nach_Wilhelm_Kubitschek_Numismatische_Zeitschrift_Bd_31_Wien_1899_p._394_ff.jpg The earliest archaeological evidence for the use of the Greek abacus dates to the 5th century BC.[20] Also Demosthenes (384 BC–322 BC) talked of the need to use pebbles for calculations too difficult for your head.[21][22] A play by Alexis from the 4th century BC mentions an abacus and pebbles for accounting, and both Diogenes and Polybius mention men that sometimes stood for more and sometimes for less, like the pebbles on an abacus.[23] The Greek abacus was a table of wood or marble, pre-set with small counters in wood or metal for mathematical calculations. This Greek abacus saw use in Achaemenid Persia, the Etruscan civilization, Ancient Rome and, until the French Revolution, the Western Christian world.
+The earliest archaeological evidence for the use of the Greek abacus dates to the 5th century BC.[20] Also Demosthenes (384 BC–322 BC) talked of the need to use pebbles for calculations too difficult for your head.[21][22] A play by Alexis from the 4th century BC mentions an abacus and pebbles for accounting, and both Diogenes and Polybius mention men that sometimes stood for more and sometimes for less, like the pebbles on an abacus.[23] The Greek abacus was a table of wood or marble, pre-set with small counters in wood or metal for mathematical calculations. This Greek abacus saw use in Achaemenid Persia, the Etruscan civilization, Ancient Rome and, until the French Revolution, the Western Christian world.
 
 A tablet found on the Greek island Salamis in 1846 AD (the Salamis Tablet), dates back to 300 BC, making it the oldest counting board discovered so far. It is a slab of white marble long, wide, and thick, on which are 5 groups of markings. In the center of the tablet is a set of 5 parallel lines equally divided by a vertical line, capped with a semicircle at the intersection of the bottom-most horizontal line and the single vertical line. Below these lines is a wide space with a horizontal crack dividing it. Below this crack is another group of eleven parallel lines, again divided into two sections by a line perpendicular to them, but with the semicircle at the top of the intersection; the third, sixth and ninth of these lines are marked with a cross where they intersect with the vertical line.[24] Also from this time frame the _Darius Vase_ was unearthed in 1851. It was covered with pictures including a "treasurer" holding a wax tablet in one hand while manipulating counters on a table with the other.[25]
 
 Chinese
 
-abacus_6.png'') (the number represented in the picture is 6,302,715,408)]] The earliest known written documentation of the Chinese abacus dates to the 2nd century BC.[26]
+'') (the number represented in the picture is 6,302,715,408)]] The earliest known written documentation of the Chinese abacus dates to the 2nd century BC.[26]
 
 The Chinese abacus, known as the _suanpan_ (算盤, lit. "calculating tray"), is typically tall and comes in various widths depending on the operator. It usually has more than seven rods. There are two beads on each rod in the upper deck and five beads each in the bottom. The beads are usually rounded and made of a hardwood. The beads are counted by moving them up or down towards the beam; beads moved toward the beam are counted, while those moved away from it are not.[27] The _suanpan_ can be reset to the starting position instantly by a quick movement along the horizontal axis to spin all the beads away from the horizontal beam at the center.
 
@@ -58,7 +58,7 @@ Another possible source of the _suanpan_ is Chinese counting rods, which operate
 
 Roman
 
-RomanAbacusRecon.jpg]] The normal method of calculation in ancient Rome, as in Greece, was by moving counters on a smooth table. Originally pebbles (_calculi_) were used. Later, and in medieval Europe, jetons were manufactured. Marked lines indicated units, fives, tens etc. as in the Roman numeral system. This system of 'counter casting' continued into the late Roman empire and in medieval Europe, and persisted in limited use into the nineteenth century.[28] Due to Pope Sylvester II's reintroduction of the abacus with modifications, it became widely used in Europe once again during the 11th century[29][30] This abacus used beads on wires, unlike the traditional Roman counting boards, which meant the abacus could be used much faster.[31]
+]] The normal method of calculation in ancient Rome, as in Greece, was by moving counters on a smooth table. Originally pebbles (_calculi_) were used. Later, and in medieval Europe, jetons were manufactured. Marked lines indicated units, fives, tens etc. as in the Roman numeral system. This system of 'counter casting' continued into the late Roman empire and in medieval Europe, and persisted in limited use into the nineteenth century.[28] Due to Pope Sylvester II's reintroduction of the abacus with modifications, it became widely used in Europe once again during the 11th century[29][30] This abacus used beads on wires, unlike the traditional Roman counting boards, which meant the abacus could be used much faster.[31]
 
 Writing in the 1st century BC, Horace refers to the wax abacus, a board covered with a thin layer of black wax on which columns and figures were inscribed using a stylus.[32]
 
@@ -72,7 +72,7 @@ The _Abhidharmakośabhāṣya_ of Vasubandhu (316-396), a Sanskrit work on Buddh
 
 Japanese
 
-Soroban.JPG]] In Japanese, the abacus is called _soroban_ (, lit. "Counting tray"), imported from China in the 14th century.[36] It was probably in use by the working class a century or more before the ruling class started, as the class structure did not allow for devices used by the lower class to be adopted or used by the ruling class.[37] The 1/4 abacus, which is suited to decimal calculation popular appeared circa 1930, and became widespread as the Japanese abandoned hexadecimal weight calculation which was still common in China.
+]] In Japanese, the abacus is called _soroban_ (, lit. "Counting tray"), imported from China in the 14th century.[36] It was probably in use by the working class a century or more before the ruling class started, as the class structure did not allow for devices used by the lower class to be adopted or used by the ruling class.[37] The 1/4 abacus, which is suited to decimal calculation popular appeared circa 1930, and became widespread as the Japanese abandoned hexadecimal weight calculation which was still common in China.
 
 Today's Japanese abacus is a 1:4 type, four-bead abacus was introduced from China in the Muromachi era. It adopts the form of the upper deck one bead and the bottom four beads. The top bead on the upper deck was equal to five and the bottom one is equal to one like the Chinese or Korean abacus, and the decimal number can be expressed, so the abacus is designed as one four abacus. The beads are always in the shape of a diamond. The quotient division is generally used instead of the division method; at the same time, in order to make the multiplication and division digits consistently use the division multiplication. Later, Japan had a 3:5 abacus called天三算盤, which is now the Ize Rongji collection of Shansi Village in Yamagata City. There were also had 2:5 beads abacus. With the four-bead abacus spread, it is also common to use Japanese abacus around the world. There are also improved Japanese abacus in various places. One of the Japanese-made abacus made in China is an aluminum frame plastic bead abacus. The file is next to the four beads, and the "clearing" button, press the clearing button, immediately put the upper bead to the upper position, the lower bead is dialed to the lower position, immediately clearing, easy to use.
 
@@ -84,7 +84,7 @@ The Chinese abacus migrated from China to Korea around 1400 AD.[39][40][41] Kore
 
 Native American
 
-Quipu.png quipu]] Yupana_1.png as used by the Incas.]] Some sources mention the use of an abacus called a _nepohualtzintzin_ in ancient Aztec culture.[43] This Mesoamerican abacus used a 5-digit base-20 system.[44] The word Nepōhualtzintzin comes from Nahuatl and it is formed by the roots; _Ne_ – personal -; _pōhual_ or _pōhualli_ – the account -; and _tzintzin_ – small similar elements. Its complete meaning was taken as: counting with small similar elements by somebody. Its use was taught in the Calmecac to the _temalpouhqueh_ , who were students dedicated to take the accounts of skies, from childhood.
+quipu]] as used by the Incas.]] Some sources mention the use of an abacus called a _nepohualtzintzin_ in ancient Aztec culture.[43] This Mesoamerican abacus used a 5-digit base-20 system.[44] The word Nepōhualtzintzin comes from Nahuatl and it is formed by the roots; _Ne_ – personal -; _pōhual_ or _pōhualli_ – the account -; and _tzintzin_ – small similar elements. Its complete meaning was taken as: counting with small similar elements by somebody. Its use was taught in the Calmecac to the _temalpouhqueh_ , who were students dedicated to take the accounts of skies, from childhood.
 
 The Nepōhualtzintzin was divided in two main parts separated by a bar or intermediate cord. In the left part there were four beads, which in the first row have unitary values (1, 2, 3, and 4), and in the right side there are three beads with values of 5, 10, and 15 respectively. In order to know the value of the respective beads of the upper rows, it is enough to multiply by 20 (by each row), the value of the corresponding account in the first row.
 
@@ -98,7 +98,7 @@ The quipu of the Incas was a system of colored knotted cords used to record nume
 
 Russian
 
-Schoty_abacus.jpg The Russian abacus, the _schoty_ (, plural from , counting), usually has a single slanted deck, with ten beads on each wire (except one wire, usually positioned near the user, with four beads for quarter-ruble fractions). Older models have another 4-bead wire for quarter-kopeks, which were minted until 1916. The Russian abacus is often used vertically, with wires from left to right in the manner of a book. The wires are usually bowed to bulge upward in the center, to keep the beads pinned to either of the two sides. It is cleared when all the beads are moved to the right. During manipulation, beads are moved to the left. For easy viewing, the middle 2 beads on each wire (the 5th and 6th bead) usually are of a different color from the other eight beads. Likewise, the left bead of the thousands wire (and the million wire, if present) may have a different color.
+The Russian abacus, the _schoty_ (, plural from , counting), usually has a single slanted deck, with ten beads on each wire (except one wire, usually positioned near the user, with four beads for quarter-ruble fractions). Older models have another 4-bead wire for quarter-kopeks, which were minted until 1916. The Russian abacus is often used vertically, with wires from left to right in the manner of a book. The wires are usually bowed to bulge upward in the center, to keep the beads pinned to either of the two sides. It is cleared when all the beads are moved to the right. During manipulation, beads are moved to the left. For easy viewing, the middle 2 beads on each wire (the 5th and 6th bead) usually are of a different color from the other eight beads. Likewise, the left bead of the thousands wire (and the million wire, if present) may have a different color.
 
 As a simple, cheap and reliable device, the Russian abacus was in use in all shops and markets throughout the former Soviet Union, and the usage of it was taught in most schools until the 1990s.[49][50] Even the 1874 invention of mechanical calculator, Odhner arithmometer, had not replaced them in Russia and likewise the mass production of Felix arithmometers since 1924 did not significantly reduce their use in the Soviet Union.[51] The Russian abacus began to lose popularity only after the mass production of microcalculators had started in the Soviet Union in 1974. Today it is regarded as an archaism and replaced by the handheld calculator.
 
@@ -107,7 +107,7 @@ The Russian abacus was brought to France around 1820 by the mathematician Jean-V
 
 School abacus
 
-Kugleramme.jpg Telraam.JPG Around the world, abacuses have been used in pre-schools and elementary schools as an aid in teaching the numeral system and arithmetic.
+Around the world, abacuses have been used in pre-schools and elementary schools as an aid in teaching the numeral system and arithmetic.
 
 In Western countries, a bead frame similar to the Russian abacus but with straight wires and a vertical frame has been common (see image). It is still often seen as a plastic or wooden toy.
 
@@ -135,7 +135,7 @@ Although blind students have benefited from talking calculators, the abacus is s
 
 Binary abacus
 
-Bbinary_Abacus_002.jpg The binary abacus is used to explain how computers manipulate numbers.[64] The abacus shows how numbers, letters, and signs can be stored in a binary system on a computer, or via ASCII. The device consists of a series of beads on parallel wires arranged in three separate rows. The beads represent a switch on the computer in either an "on" or "off" position.
+The binary abacus is used to explain how computers manipulate numbers.[64] The abacus shows how numbers, letters, and signs can be stored in a binary system on a computer, or via ASCII. The device consists of a series of beads on parallel wires arranged in three separate rows. The beads represent a switch on the computer in either an "on" or "off" position.
 
 
 See also

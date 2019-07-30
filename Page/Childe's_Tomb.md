@@ -1,5 +1,3 @@
-Childe's_tomb_2.jpg Child's_Tomb_from_Carrington's_Dartmoor.jpg
-
 CHILDE'S TOMB is a granite cross on Dartmoor, Devon, England. Although not in its original form, it is more elaborate than most of the crosses on Dartmoor, being raised upon a constructed base, and it is known that a kistvaen is underneath.
 
 A well-known legend attached to the site, first recorded in 1630 by Tristram Risdon, concerns a wealthy hunter, Childe, who became lost in a snow storm and supposedly died there despite disembowelling his horse and climbing into its body for protection. The legend relates that Childe left a note of some sort saying that whoever found and buried his body would inherit his lands at Plymstock. After a race between the monks of Tavistock Abbey and the men of Plymstock, the Abbey won.
@@ -18,7 +16,7 @@ Today the cross, which is a replacement, is about tall and across at the crosspi
 
 Destruction
 
-Ruins_of_Foxtor_Farm_-_geograph.org.uk_-_635099.jpg In the early 19th century there was much interest in enclosing and "improving" the open moorland on Dartmoor, encouraged by Sir Thomas Tyrwhitt's early successes at Tor Royal near Princetown.[7] Enclosure was aided by the greatly enhanced access provided by the construction of the first turnpike roads over the moor: the road between Ashburton and Two Bridges opened in around 1800, for instance.[8] In February 1809 one Thomas Windeatt, from Bridgetown, Totnes, took over the lease of a plot of land (a "newtake") of about 582 acres in the valley of the River Swincombe. In 1812 Windeatt started to build a farmhouse, Fox Tor Farm, on his land and his workmen robbed the nearby Childe's Tomb of most of its stones for the building and its doorsteps.[9][10]
+In the early 19th century there was much interest in enclosing and "improving" the open moorland on Dartmoor, encouraged by Sir Thomas Tyrwhitt's early successes at Tor Royal near Princetown.[7] Enclosure was aided by the greatly enhanced access provided by the construction of the first turnpike roads over the moor: the road between Ashburton and Two Bridges opened in around 1800, for instance.[8] In February 1809 one Thomas Windeatt, from Bridgetown, Totnes, took over the lease of a plot of land (a "newtake") of about 582 acres in the valley of the River Swincombe. In 1812 Windeatt started to build a farmhouse, Fox Tor Farm, on his land and his workmen robbed the nearby Childe's Tomb of most of its stones for the building and its doorsteps.[9][10]
 
 In 1902 William Crossing wrote that he had been told by an old moorman that some of the granite blocks from the tomb's pedestal had also been used to make a clapper bridge across a stream flowing into the River Swincombe near the farm. The moorman also said that they had lettering on their undersides.[11] This encouraged Crossing to arrange to lift the clapper bridge, but no inscription was found. However, he did locate nine out of the twelve stones that had made up the pedestal, as well as the broken socket stone for the cross.[12]
 
@@ -32,7 +30,7 @@ J. Brooking Rowe, writing in 1895, states that the tomb was re-erected in 1890 u
 
 Childe the Hunter
 
-Childe's_tomb_1.jpg According to legend, the cross was erected over the kistvaen ('chest-stone' i.e. burial chamber) of Childe the Hunter, who was Ordulf, son of Ordgar, an Anglo-Saxon Earl of Devon in the 11th century. The name _Childe_ is probably derived from the Old English word _cild_ which was used as a title of honour.[18]
+According to legend, the cross was erected over the kistvaen ('chest-stone' i.e. burial chamber) of Childe the Hunter, who was Ordulf, son of Ordgar, an Anglo-Saxon Earl of Devon in the 11th century. The name _Childe_ is probably derived from the Old English word _cild_ which was used as a title of honour.[18]
 
 Legend has it that Childe was in a party hunting on the moor when they were caught in some changeable weather. Childe became separated from the main party and was lost. In order to save himself from dying of exposure, he killed his horse, disembowelled it and crept inside the warm carcass for shelter. He nevertheless froze to death, but before he died, he wrote a note to the effect that whoever should find him and bury him in their church should inherit his Plymstock estate.
 

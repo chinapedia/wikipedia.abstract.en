@@ -1,5 +1,3 @@
-Alien_and_Sedition_Acts_(1798).png Sedition_Act_(1798).png
-
 The ALIEN AND SEDITION ACTS were four laws passed by the Federalist-dominated 5th United States Congress and signed into law by President John Adams in 1798.[1][2] They made it harder for an immigrant to become a citizen (Naturalization Act), allowed the president to imprison and deport non-citizens who were deemed dangerous (Alien Friends Act of 1798)[3] or who were from a hostile nation (Alien Enemy Act of 1798),[4] and criminalized making false statements that were critical of the federal government (Sedition Act of 1798).[5]
 
 The Federalists argued that the bills strengthened national security during the Quasi-War, an undeclared naval war with France from 1798 to 1800. Critics argued that they were primarily an attempt to suppress voters who disagreed with the Federalist party and its teachings, and violated the right of freedom of speech in the First Amendment.[6]

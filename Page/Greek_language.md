@@ -6,7 +6,7 @@ During antiquity, Greek was a widely spoken lingua franca in the Mediterranean w
 
 Greek roots are often used to coin new words for other languages; Greek and Latin are the predominant sources of international scientific vocabulary.
 
-Homer_British_Museum.jpg]]
+]]
 
 
 History
@@ -15,7 +15,7 @@ Greek has been spoken in the Balkan peninsula since around the 3rd millennium BC
 
 Periods
 
-Proto_Greek_Area_reconstruction.png-speaking area according to linguist Vladimir I. Georgiev]]
+-speaking area according to linguist Vladimir I. Georgiev]]
 
 The Greek language is conventionally divided into the following periods:
 
@@ -24,7 +24,7 @@ The Greek language is conventionally divided into the following periods:
 -   ANCIENT GREEK: in its various dialects, the language of the Archaic and Classical periods of the ancient Greek civilisation. It was widely known throughout the Roman Empire. Ancient Greek fell into disuse in western Europe in the Middle Ages, but remained officially in use in the Byzantine world and was reintroduced to the rest of Europe with the Fall of Constantinople and Greek migration to western Europe.
 -   KOINE GREEK: The fusion of Ionian with Attic, the dialect of Athens, began the process that resulted in the creation of the first common Greek dialect, which became a lingua franca across the Eastern Mediterranean and Near East. Koine Greek can be initially traced within the armies and conquered territories of Alexander the Great and after the Hellenistic colonization of the known world, it was spoken from Egypt to the fringes of India. After the Roman conquest of Greece, an unofficial bilingualism of Greek and Latin was established in the city of Rome and Koine Greek became a first or second language in the Roman Empire. The origin of Christianity can also be traced through Koine Greek, because the Apostles used this form of the language to spread Christianity. It is also known as HELLENISTIC GREEK, NEW TESTAMENT GREEK, and sometimes BIBLICAL GREEK because it was the original language of the New Testament and the Old Testament was translated into the same language via the Septuagint.
 
-Anatolian_Greek_dialects.png, 1910. Demotic in yellow. Pontic in orange. Cappadocian Greek in green, with green dots indicating individual Cappadocian Greek villages.[8]]]
+, 1910. Demotic in yellow. Pontic in orange. Cappadocian Greek in green, with green dots indicating individual Cappadocian Greek villages.[8]]]
 
 -   MEDIEVAL GREEK, also known as BYZANTINE GREEK: the continuation of Koine Greek, up to the demise of the Byzantine Empire in the 15th century. _Medieval Greek_ is a cover phrase for a whole continuum of different speech and writing styles, ranging from vernacular continuations of spoken Koine that were already approaching Modern Greek in many respects, to highly learned forms imitating classical Attic. Much of the written Greek that was used as the official language of the Byzantine Empire was an eclectic middle-ground variety based on the tradition of written Koine.
 -   MODERN GREEK (Neo-Hellenic):[9] Stemming from Medieval Greek, Modern Greek usages can be traced in the Byzantine period, as early as the 11th century. It is the language used by the modern Greeks, and, apart from Standard Modern Greek, there are several dialects of it.
@@ -35,14 +35,10 @@ In the modern era, the Greek language entered a state of diglossia: the coexiste
 
 Historical unity
 
-Modern_Greek_dialects_en.svg
-
 The historical unity and continuing identity between the various stages of the Greek language is often emphasised. Although Greek has undergone morphological and phonological changes comparable to those seen in other languages, never since classical antiquity has its cultural, literary, and orthographic tradition been interrupted to the extent that one can speak of a new language emerging. Greek speakers today still tend to regard literary works of ancient Greek as part of their own rather than a foreign language.[11] It is also often stated that the historical changes have been relatively slight compared with some other languages. According to one estimation, "Homeric Greek is probably closer to demotic than 12-century Middle English is to modern spoken English,"[12] (Greek has seen fewer changes in 2700 years than English has in 900 years).
 
 
 Geographic distribution
-
-A27_Motorway,_Greece_-_Section_Kozani-Ptolemaida_-_Kozani-North_interchange_(A2)_-_02.jpg Greek_USC2000_PHS.svg
 
 Greek is spoken by at least 13 million people, mainly in Greece, Albania and Cyprus, but also worldwide by the large Greek diaspora. Historically, there were traditional Greek-speaking settlements and regions in the neighbouring countries of Albania, Bulgaria, and Turkey, as well as in several countries in the Black Sea area, such as Ukraine, Russia, Romania, Georgia, Armenia, and Azerbaijan, and around the Mediterranean Sea, Southern Italy, Syria, Israel, Egypt, Lebanon, Libya and ancient coastal towns along the Levant. Particularly in Albania due to the immigration wave towards Greece today a significant percentage of the population can speak the Greek language, or at least has some basic knowledge of it. The language is also spoken by Greek emigrant communities in many countries in Western Europe, especially the United Kingdom and Germany, Canada, the United States, Australia, Argentina, Brazil, Chile, South Africa and others.
 
@@ -57,7 +53,7 @@ The phonology, morphology, syntax and vocabulary of the language show both conse
 
 Phonology
 
-Seferisrede.ogg]]
+]]
 
 Across its history, the syllabic structure of Greek has varied little: Greek shows a mixed syllable structure, permitting complex syllabic onsets but very restricted codas. It has only oral vowels and a fairly stable set of consonantal contrasts. The main phonological changes occurred during the Hellenistic and Roman period (see Koine Greek phonology for details):
 
@@ -113,11 +109,11 @@ Linear B, attested as early as the late 15th century BC, was the first script us
 
 Cypriot syllabary
 
-Cypriot_syllabic_inscription_600-500BC.jpg Another similar system used to write the Greek language was the Cypriot syllabary (also a descendant of Linear A via the intermediate Cypro-Minoan syllabary), which is closely related to Linear B but uses somewhat different syllabic conventions to represent phoneme sequences. The Cypriot syllabary is attested in Cyprus from the 11th century BC until its gradual abandonment in the late Classical period, in favor of the standard Greek alphabet.[31]
+Another similar system used to write the Greek language was the Cypriot syllabary (also a descendant of Linear A via the intermediate Cypro-Minoan syllabary), which is closely related to Linear B but uses somewhat different syllabic conventions to represent phoneme sequences. The Cypriot syllabary is attested in Cyprus from the 11th century BC until its gradual abandonment in the late Classical period, in favor of the standard Greek alphabet.[31]
 
 Greek alphabet
 
-Greek_alphabet_variants.png, Ionia, Athens, and Corinth comparing to modern Greek]]
+, Ionia, Athens, and Corinth comparing to modern Greek]]
 
 Greek has been written in the Greek alphabet since approximately the 9th century BC. It was created by modifying the Phoenician alphabet, with the innovation of adopting certain letters to represent the vowels. The variant of the alphabet in use today is essentially the late Ionic variant, introduced for writing classical Attic in 403 BC. In classical Greek, as in classical Latin, only upper-case letters existed. The lower-case Greek letters were developed much later by medieval scribes to permit a faster, more convenient cursive writing style with the use of ink and quill.
 

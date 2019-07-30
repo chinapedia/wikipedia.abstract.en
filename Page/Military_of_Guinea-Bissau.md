@@ -1,4 +1,4 @@
-Hastear_da_bandeira_da_Guiné_Bissau_após_o_arrear_da_de_Portugal.jpg raise the flag of Guinea-Bissau in 1974.]] The REVOLUTIONARY ARMED FORCES OF THE PEOPLE () or FARP are the national military of Guinea-Bissau. They consist of an Army, Navy, Air Force and paramilitary forces. A 2008 United Nations Development Programme census estimated that there were around 4,000 personnel in the Armed Forces.[1] An earlier CIA World Fact Book figure was 9,250. The World Fact Book also estimated military expenditure as $9.46 million, and military spending as a percentage of GDP as 3.1%.
+raise the flag of Guinea-Bissau in 1974.]] The REVOLUTIONARY ARMED FORCES OF THE PEOPLE () or FARP are the national military of Guinea-Bissau. They consist of an Army, Navy, Air Force and paramilitary forces. A 2008 United Nations Development Programme census estimated that there were around 4,000 personnel in the Armed Forces.[1] An earlier CIA World Fact Book figure was 9,250. The World Fact Book also estimated military expenditure as $9.46 million, and military spending as a percentage of GDP as 3.1%.
 
 The World Fact Book also reports that the military service age and obligation is 18–25 years of age for selective compulsory military service; 16 years of age or younger with parental consent, for voluntary service (2009).
 
@@ -83,7 +83,7 @@ Army equipment
 
 Air Force
 
-On leaving Bissalanca by 1973-74, the Portuguese Air Force left three North American T-6Gs.[9] Roundel_of_Guinea-Bissau.svg After achieving independence from Portugal, the air force was formed by officers returning from training in Cuba and the USSR. The FAGB was re-equipped by the Soviet Union with a limited aid package in which its first combat aircraft were introduced. Five MIG-17s and two MiG-15UTI trainers entered service with a single Mi-8 helicopter.
+On leaving Bissalanca by 1973-74, the Portuguese Air Force left three North American T-6Gs.[9] After achieving independence from Portugal, the air force was formed by officers returning from training in Cuba and the USSR. The FAGB was re-equipped by the Soviet Union with a limited aid package in which its first combat aircraft were introduced. Five MIG-17s and two MiG-15UTI trainers entered service with a single Mi-8 helicopter.
 
 In 1978 France provided more aircraft aid in the form of a Reims-cessna FTB.337 for coastal patrol and a surplus Alouette III. A Dassault Falcon 20F was donated by the Angolan government but was soon sold to the USA. In the late 1980s a similar number of MiG 21s replaced the MiG 17s, also delivered an AN-24, a YAK-40 and another Mi-8 helicopter. In the early 90s they received ex-polish PZL-Mielec Lim-6 Fresco fighter bombers from Poland and East Germany.
 

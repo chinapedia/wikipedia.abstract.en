@@ -22,7 +22,7 @@ History
 
 Early history
 
-Parku_Arkeologjik_i_Apollonisë_04.jpg was an important Greek colony on the Illyrian coast along the Adriatic Sea and one of the western points of the Via Egnatia route, that connected Rome and Constantinople.]]
+was an important Greek colony on the Illyrian coast along the Adriatic Sea and one of the western points of the Via Egnatia route, that connected Rome and Constantinople.]]
 
 The first traces of human presence in Albania, dating to the Middle Paleolithic and Upper Paleolithic eras, were found in the village of Xarrë close to Sarandë and Dajti near Tiranë.[18] The objects found in a cave near Xarrë include flint and jasper objects and fossilized animal bones, while those found at Mount Dajt comprise bone and stone tools similar to those of the Aurignacian culture. The Paleolithic finds of Albania show great similarities with objects of the same era found at Crvena Stijena in Montenegro and north-western Greece.[19]
 
@@ -30,7 +30,7 @@ Several Bronze Age artefacts from tumulus burials have been unearthed in central
 
 In ancient times, the territory of modern Albania was mainly inhabited by a number of Illyrian tribes. The Illyrian tribes never collectively regarded themselves as 'Illyrians', and it is unlikely that they used any collective nomenclature for themselves.[23] The name Illyrians seems to be the name applied to a specific Illyrian tribe, which was the first to come in contact with the ancient Greeks during the Bronze Age, causing the name Illyrians to be applied _pars pro toto_ to all people of similar language and customs.[24][25]
 
-Butrint_-_Ancient_amphitheatre_(by_Pudelek).JPG.]]
+.]]
 
 The territory known as Illyria corresponded roughly to the area east of the Adriatic sea, extending in the south to the mouth of the Vjosë river.[26][27] The first account of the Illyrian groups comes from _Periplus of the Euxine Sea_, an ancient Greek text written in the middle of the 4th century BC.[28] The south was inhabited by the Greek tribe of the Chaonians,[29] whose capital was at Phoenice, while numerous colonies, such as Apollonia, Epidamnos and Amantia, were established by Greek city-states on the coast by the 7th century BC.[30] The west was inhabited by the Thracian tribe of the Bryges.
 
@@ -38,13 +38,13 @@ The Illyrian tribe of the Ardiaei centered in Montenegro ruled over much of nowa
 
 Middle Ages
 
-Krujë-KrujaAlbania_2016.jpg was the capital of the Principality of Arbanon.]]
+was the capital of the Principality of Arbanon.]]
 
 After the Roman Empire was divided into East and West in the 4th century, the territory of Albania remained within the Eastern Roman Empire.[36] In the centuries that followed, the Balkan Peninsula suffered from the Barbarian invasions. The Illyrians are mentioned for the last time in a text from the 7th century.[37] Towards the end of the 12th and beginning of the 13th centuries, Serbs and Venetians started to take possession over the territory.[38]
 
 The ethnogenesis of the Albanians is uncertain however the first undisputed mention of Albanians dates back in historical records from 1079 or 1080 in a work by Michael Attaliates, who referred to the Albanoi as having taken part in a revolt against Constantinople.[39] At this point the Albanians were fully christianized.
 
-Venezia_-_Ex_Scola_degli_albanesi_(sec._XV)_-_Foto_Giovanni_Dall%27Orto,_12-Aug-2007_-_11_-_Maometto_II_assedia_Scutari.jpg commemorating the Siege of Shkodra. It illustrates Sultan Mehmet II laying siege to the Albanian town of Scutari then part of Venetian Empire.]]
+commemorating the Siege of Shkodra. It illustrates Sultan Mehmet II laying siege to the Albanian town of Scutari then part of Venetian Empire.]]
 
 The first semi-autonomous Albanian polity was formed in 1190, when archon Progon of Kruja established the Principality of Arbanon with the capital in Krujë within the Byzantine Empire. Progon, was succeeded by his sons Gjin and Dhimitri, the latter which attained the height of the realm. Following the death of Dhimiter, the last member of the Progon family, the principality came under the Albanian-Greek Gregory Kamonas and later Golem of Kruja.[40][41][42] In the 13th century, the principality was dissolved.[43][44][45] Arbanon is considered to be the first sketch of an Albanian state, that retained a semi-autonomous status as the western extremity of the Byzantine Empire, under the Byzantine Doukai of Epirus or Laskarids of Nicaea.[46]
 
@@ -52,7 +52,7 @@ Few years after the dissolution of Arbanon, Charles of Anjou concluded an agreem
 
 Albania under the Ottoman Empire
 
-Gjergj_Kastrioti.jpg for nearly 20 years, Gjergj Kastrioti Skanderbeg deserted and began a rebellion against the empire that halted Ottoman advance into Europe for 25 years.]]
+for nearly 20 years, Gjergj Kastrioti Skanderbeg deserted and began a rebellion against the empire that halted Ottoman advance into Europe for 25 years.]]
 
 The Ottoman invasion of the territory of Albania marked a new era in its history and introduced enormous changes in the political and cultural environment of the area. The Ottomans erected their garrisons across the south of Albania in 1415 and occupied the majority in 1431 although they reached Albanian coast for first time at 1385.[49][50] Upon their arrival, Islam was introduced in the country as a second religion resulting a massive emigration of Christian Albanians to other Christian European countries such as the Arbëreshë to Italy while Muslim Albanians gradually settled to Turkey and other part of the Ottoman Empire such as Algeria, Egypt and Iraq.[51][52]
 
@@ -60,7 +60,7 @@ In 1443, a great and longstanding revolt broke out under the lead of Gjergj Kast
 
 Skanderbeg pursued relentlessly but rather unsuccessfully to create a European coalition against the Ottomans. He thwarted every attempt by the Ottomans to regain Albania which they envisioned as a springboard for the invasion of Italy and Western Europe. His unequal fight against the mightiest power of the time, won the esteem of Europe as well as some financial and military aid from Naples, Venice, Sicily and the Papacy.[53]
 
-Ali_Pasha_Tepelena,_Oil_paint_of_Agim_Sulaj.jpg was one of the most powerful autonomous Muslim Albanian rulers reigning over Yanina and even attempted to rival the Dey of Algiers in the seas.]]
+was one of the most powerful autonomous Muslim Albanian rulers reigning over Yanina and even attempted to rival the Dey of Algiers in the seas.]]
 
 When the Ottomans were gaining a firm foothold in the region, Albanian towns were organised into four principal sanjaks. The government fostered trade by settling a sizeable Jewish colony of refugees fleeing persecution in Spain. The city of Vlorë saw passing through its ports imported merchandise from Europe such as velvets, cotton goods, mohairs, carpets, spices and leather from Bursa and Constantinople. Some citizens of Vlorë even had business associates throughout Europe.[54]
 
@@ -72,13 +72,13 @@ Mainly Catholic Albanians converted in the 17th century, while the Orthodox Alba
 
 Rilindja
 
-NaumVeqilharxhi.jpg was among the most important figures of the early National Renaissance.]]
+was among the most important figures of the early National Renaissance.]]
 
 The origins of the Albanian Renaissance can be traced back to around the 19th century that was a very difficult period for Albania. During the period, the modern culture of Albania flourished especially in literature and art as well inspired by romanticism and enlightenment.
 
 The victory of Russia over the Ottoman Empire following the Russian-Ottoman War resulted the execution of the Treaty of San Stefano that overlooked to assign Albanian-populated regions to the Slavic neighbors. The United Kingdom as well as Austria-Hungary consequently, blocked the arrangement and caused the Treaty of Berlin. At this point, Albanians started to organize themselves with the aim to protect and unite the Albanian-populated regions into a unitary nation. This led to the formation of the League of Prizren in the old town of Prizren.
 
-Dora_d%27Istria.jpg feminist, Dora d'Istria, was the main advocate in Europe for the Albanian cause.[59]]]
+feminist, Dora d'Istria, was the main advocate in Europe for the Albanian cause.[59]]]
 
 At first the Ottoman authorities supported the League, whose initial position was based on the religious solidarity of Muslim landlords and people connected with the Ottoman administration. The Ottomans favoured and protected the Muslim solidarity and called for defense of Muslim lands, including present-day Bosnia and Herzegovina. This was the reason for naming the league _The Committee of the Real Muslims_.[60]
 
@@ -86,7 +86,7 @@ The league issued a decree known as Kararname that contained a proclamation that
 
 Independence
 
-Flag_of_Albanian_Provisional_Government_(1912-1914).svg from 1912 to 1914.]]
+from 1912 to 1914.]]
 
 The independence of Albania from the Ottoman Empire was proclaimed on 28 November 1912 by Ismail Qemali in Vlorë. Immediately after, the leaders of the Assembly of Vlorë established the senate as well as the first government of the country on 4 December 1912 that consisted of only ten members.[64][65][66][67]
 
@@ -94,7 +94,7 @@ The country's independence was recognized by the Conference of London on 29 July
 
 Headquartered in Vlorë, the International Commission of Control was established on 15 October 1913 to take care of the administration of newly established Albania, until its own political institutions were in order.[69][70] The International Gendarmerie was established as the first law enforcement agency of the Principality of Albania. In November, the first gendarmerie members arrived in the country. Prince of Albania Wilhelm of Wied _(Princ Vilhelm Vidi)_ was selected as the first prince of the principality.[71] On 7 March, he arrived in the provisional capital of Durrës and started to organise his government, appointing Turhan Pasha Përmeti to form the first Albanian cabinet.
 
-Flag_of_Koritsa.svg that was supported by French forces.]]
+that was supported by French forces.]]
 
 In November 1913, the Albanian pro-Ottoman forces had offered the throne of Albania to the Ottoman war Minister of Albanian origin, Ahmed Izzet Pasha.[72] The pro-Ottoman peasants believed that, the new regime of the Principality of Albania was a tool of the six Christian Great Powers and local landowners, that owned half of the arable land.[73]
 
@@ -102,7 +102,7 @@ In February 1914, the Autonomous Republic of Northern Epirus was proclaimed in G
 
 First Republic
 
-Galeazzo-Ciano.jpg with Italian Foreign Minister, Galeazzo Ciano in 1937.]]
+with Italian Foreign Minister, Galeazzo Ciano in 1937.]]
 
 Following the end of the government of Fan Noli, the parliament adopted a new constitution and proclaimed the country as a parliamentary republic in which Zog I of Albania served as the head of state for a seven years term. Immediately after, Tirana was endorsed officially as the country's permanent capital.[81]
 
@@ -110,7 +110,7 @@ The politics of Zogu was authoritarian and conservative with the primary aim of 
 
 In an attempt at social modernization, the custom of adding one's region to one's name was dropped. He also made donations of land to international organisations for the building of schools and hospitals. The armed forces were trained and supervised by instructors from Italy, as a counterweight, he kept British officers in the Gendarmerie despite strong Italian pressure to remove them.
 
-Jewish_Families_Kavajë.png family in Kavajë. During the Holocaust, predominantly Muslim Albanians saved almost 2000 Jews from deportation to the concentration camps during World War II.[83]]]
+family in Kavajë. During the Holocaust, predominantly Muslim Albanians saved almost 2000 Jews from deportation to the concentration camps during World War II.[83]]]
 
 After being militarily occupied by Italy from 1939 until 1943, the Kingdom of Albania was a protectorate and a dependency of the Kingdom of Italy governed by Victor Emmanuel III and his government. In October 1940, Albania served as a staging ground for an unsuccessful Italian invasion of Greece. A counterattack resulted in a sizable portion of southern Albania coming under Greek military control until April 1941 when Greece capitulated during the German invasion. In April 1941, territories of Yugoslavia with substantial Albanian population were annexed to Albania inclusively western Macedonia, a strip of eastern Montenegro, the town of Tutin in central Serbia and most of Kosovo.[84]
 
@@ -122,7 +122,7 @@ By the end of the Second World War, the main military and political force of the
 
 Communism
 
-HODŽA_druhá_míza_crop.jpg served as Prime Minister and First Secretary of the Party of Labour of Albania.]]
+served as Prime Minister and First Secretary of the Party of Labour of Albania.]]
 
 In the aftermath of World War II and the defeat of Nazi Germany, the country became initially a satellite state of the Soviet Union and Enver Hoxha emerged consequently as the leader of the newly established People's Republic of Albania.[90] Soviet-Albanian relations began to deteriorate after Stalin's death in 1953. At this point, the country started to develop foreign relations with other communist countries among others with the People's Republic of China.
 
@@ -132,7 +132,7 @@ The new land reform laws were passed granting ownership of the land to the worke
 
 The average annual increase in the country's national income was 29% and 56% higher than the world and European average, respectively.[94]. The nation incurred large debts initially with Yugoslavia until 1948, then the Soviet Union until 1961 and China from the middle of the 1950s.[95] The constitution of the communist regime did not allow taxes on individuals, instead, taxes were imposed on cooperatives and other organizations, with much the same effect.[96]
 
-Bunker_in_Albanian_Alps.jpg overlooking the Albanian Alps. By 1983, approximately 173,371 concrete bunkers were counted across the country.[97]]]
+overlooking the Albanian Alps. By 1983, approximately 173,371 concrete bunkers were counted across the country.[97]]]
 
 Today a secular state without any official religion, religious freedoms and practices were severely curtailed during the communist era with all forms of worship being outlawed. In 1945, the Agrarian Reform Law meant that large swaths of property owned by religious groups were nationalized, mostly the waqfs along with the estates of mosques, tekkes, monasteries and dioceses. Many believers, along with the ulema and many priests, were arrested and executed. In 1949, a new Decree on Religious Communities required that all their activities be sanctioned by the state alone.[98]
 
@@ -142,7 +142,7 @@ Nonetheless, many Albanians continued to practice their beliefs secretly. The an
 
 Fourth Republic
 
-Tirana_Square_1988.jpg of Tirana.]]
+of Tirana.]]
 
 After forty years of communism and isolation as well as the revolutions of 1989, people and most notably students started to become politically active and consequently to campaign against the government that led to the transformation of the existing order. Following the popular support in the first multi-party elections of 1991,[102] the communists retained a stronghold in the parliament until the victory in the general elections of 1992 led by the Democratic Party.
 
@@ -154,7 +154,7 @@ The crisis led both Aleksandër Meksi and Sali Berisha to resign from office in 
 
 Contemporary
 
-Mimi_Kodheli_(cropped).jpg was the first female to serve as the Defence Minister of Albania.]]
+was the first female to serve as the Defence Minister of Albania.]]
 
 When the communist system collapsed in 1990, Albania rediscovered foreign policy after decades of isolationism and began to develop closer ties considerably with other countries of Western Europe and the United States. At this point, its top foreign policy ambition was achieving integration into modern economic and security organizations.
 
@@ -167,13 +167,13 @@ On 23 June 2013, the eighth parliamentary elections took place, won by Edi Rama 
 
 Geography
 
-Valbona_nga_Kukaj.jpg are an extension of the Dinaric Alps.]]
+are an extension of the Dinaric Alps.]]
 
 Albania is defined in an area of and located on the Balkan Peninsula in South and Southeast Europe.[113] Its coastline faces the Adriatic Sea to the northwest and the Ionian Sea to the southwest within the Mediterranean Sea.
 
 The country lies mostly between latitudes 42° and 39° N, and longitudes 21° and 19° E. Its northernmost point is Vërmosh at 42° 35' 34" northern latitude; the southernmost is Konispol at 39° 40' 0" northern latitude; the westernmost point is Sazan Island at 19° 16' 50" eastern longitude; and the easternmost point is Vërnik at 21° 1' 26" eastern longitude.[114] The highest point of the country is Mount Korab at above the Adriatic. The lowest point is the Adriatic Sea at . The distance from the east to west is only , while from the north to south about .
 
-Gjipe_beach,_Albania.JPG is located on the confluence of the Adriatic and Ionian Sea.]]
+is located on the confluence of the Adriatic and Ionian Sea.]]
 
 For a small country, much of Albania rises into mountains and hills that run in different directions across the length and breadth of the country. The most extensive mountain ranges are the Albanian Alps in the north, the Korab Mountains in the east, the Pindus Mountains in the southeast, the Ceraunian Mountains in the southwest and the Skanderbeg Mountains in the center.
 
@@ -183,13 +183,13 @@ Rivers originate mostly in the east of Albania and discharge into the Adriatic S
 
 Climate
 
-Ksamill-1.jpg in the south has a mediterranean climate.]]
+in the south has a mediterranean climate.]]
 
 The climate in the country is highly variable and diverse owing to the differences in latitude, longitude and altitude.[118][119] Albania experiences predominantly a mediterranean and continental climate, with four distinct seasons.[120] Defined by the Köppen classification, it accommodates five major climatic types ranging from mediterranean and subtropical in the western half to oceanic, continental and subarctic in the eastern half of Albania.
 
 The warmest areas of the country are immediately located along the Adriatic and Ionian Sea Coasts. On the contrary, the coldest areas are positioned within the northern and eastern highlands.[121] The mean monthly temperature ranges between in winter to in summer. The highest temperature of was recorded in Kuçovë on 18 July 1973. The lowest temperature of was registered in the village of Shtyllë, Librazhd on 9 January 2017.[122][123]
 
-Maja_e_Thatë_(2406_m)_in_the_Albanian_Alps.jpg in the north enjoy a subarctic climate.]]
+in the north enjoy a subarctic climate.]]
 
 Rainfall varies from season to season and from year to year. The country receives most of precipitation in winter months and less in summer months.[124] The average precipitation is about .[125] The mean annual precipitation ranges between and depending on geographical location.[126] The northwestern and southeastern highlands receive the higher amount of precipitation, whilst the northeastern and southwestern highlands as well as the western lowlands the smaller amount.[127]
 
@@ -199,7 +199,7 @@ Snowfall occurs regularly in winter in the highlands of the country, particularl
 
 Biodiversity
 
-Golden_eagle_(13434882845).jpg is the national symbol and animal of Albania.]]
+is the national symbol and animal of Albania.]]
 
 A biodiversity hotspot, Albania possesses an exceptionally rich and contrasting biodiversity thanks to its geographical location at the center of the Mediterranean Sea and the great diversity in its climatic, geological and hydrological conditions.[130][131] Its biodiversity is conserved in 14 national parks, 1 marine park, 4 ramsar sites, 1 biosphere reserve and 786 protected areas of different categories.[132]
 
@@ -207,7 +207,7 @@ Due to remoteness, the mountains and hills are endowed with forests, trees and g
 
 The estuaries, wetlands and lakes are particularly important for the greater flamingo, pygmy cormorant and the extremely rare and perhaps the most iconic bird of the country, the dalmatian pelican.[137] Of particular importance are the mediterranean monk seal, loggerhead sea turtle and green sea turtle that use to nest on the country's coastal waters and shores.
 
-Gjiri_Skaloma_Beget._Karaburun.jpg has a coastline on the Adriatic and Ionian Sea.]]
+has a coastline on the Adriatic and Ionian Sea.]]
 
 In terms of phytogeography, Albania is part of the Boreal Kingdom and stretches specifically within the Illyrian province of the Circumboreal and Mediterranean Region. Its territory can be conventionally subdivided into four terrestrial ecoregions of the Palearctic ecozone inclusively the Illyrian deciduous forests, Balkan mixed forests, Pindus Mountains mixed forests and Dinaric Mountains mixed forests.[138][139]
 
@@ -224,38 +224,38 @@ The counties were created on 31 July 2000 to replace the 36 former districts.[14
 
 The largest county in Albania, by population, is Tirana County with over 800,000 people followed by Fier County with over 300,000 people. The smallest county, by population, is Gjirokastër County with over 70,000 people. The largest in the county, by area, is Korçë County encompassing of the southeast of Albania followed by Shkodër County with in the northwest of Albania. The smallest county, by area, is Durrës County with an area of in the west of Albania.
 
-+-------------------------------------------------+-----------------+
-| Harta_Administrative_e_Shqip%C3%ABris%C3%AB.svg | 1.  Shkodër     |
-|                                                 |                 |
-|                                                 | 2.  Kukës       |
-|                                                 |                 |
-|                                                 | 3.  Lezhë       |
-|                                                 |                 |
-|                                                 | 4.  Dibër       |
-|                                                 |                 |
-|                                                 | 5.  Durrës      |
-|                                                 |                 |
-|                                                 | 6.  Tiranë      |
-|                                                 |                 |
-|                                                 | 7.  Elbasan     |
-|                                                 |                 |
-|                                                 | 8.  Korçë       |
-|                                                 |                 |
-|                                                 | 9.  Fier        |
-|                                                 |                 |
-|                                                 | 10. Berat       |
-|                                                 |                 |
-|                                                 | 11. Vlorë       |
-|                                                 |                 |
-|                                                 | 12. Gjirokastër |
-+-------------------------------------------------+-----------------+
++--+-----------------+
+|  | 1.  Shkodër     |
+|  |                 |
+|  | 2.  Kukës       |
+|  |                 |
+|  | 3.  Lezhë       |
+|  |                 |
+|  | 4.  Dibër       |
+|  |                 |
+|  | 5.  Durrës      |
+|  |                 |
+|  | 6.  Tiranë      |
+|  |                 |
+|  | 7.  Elbasan     |
+|  |                 |
+|  | 8.  Korçë       |
+|  |                 |
+|  | 9.  Fier        |
+|  |                 |
+|  | 10. Berat       |
+|  |                 |
+|  | 11. Vlorë       |
+|  |                 |
+|  | 12. Gjirokastër |
++--+-----------------+
 
 
 Politics
 
 Government
 
-Tirana,_consiglio_dei_ministri,_02.JPG, the official workplace of the Prime Minister of Albania located in Tirana.]]
+, the official workplace of the Prime Minister of Albania located in Tirana.]]
 
 Albania is a parliamentary constitutional republic and sovereign state whose politics operate under a framework laid out in the constitution wherein the president functions as the head of state and the prime minister as the head of government.[154] The sovereignty is vested in the Albanian people and exercised by the Albanian people through their representatives or directly.[155]
 
@@ -267,7 +267,7 @@ The executive power is exercised by the president and prime minister whereby the
 
 Foreign relations
 
-Artigianato_Arberesh.jpg and Albania, an official application for the inclusion of the Arbëreshës in the list of UNESCO Intangible Cultural Heritage is being prepared.[161]]]
+and Albania, an official application for the inclusion of the Arbëreshës in the list of UNESCO Intangible Cultural Heritage is being prepared.[161]]]
 
 In the time since the end of communism and isolationism, Albania has extended its responsibilities and position in continental and international affairs, developing and establishing friendly relations with other countries around the world. Its main objectives are the accession into the European Union, the international recognition of Kosovo and the expulsion of Cham Albanians as well as helping and protecting the rights of the Albanians in Kosovo, Montenegro, North Macedonia, Greece, Serbia, Italy and Diaspora.[162]
 
@@ -281,7 +281,7 @@ Albania has been an active member of the United Nations since 1955. They country
 
 Military
 
-Albanian_special_operations_forces,_provide_security_as_Afghan_Border_Police_(ABP)_break_ground_on_a_new_checkpoint_in_the_district_of_Spin_Boldak,_Kandahar_province,_Afghanistan,_March_25,_2013_130325-A-MX357-127.jpg in the Province of Kandahar, Afghanistan.]]
+in the Province of Kandahar, Afghanistan.]]
 
 The Albanian Armed Forces consist of Land, Air and Naval Forces and constitute the military and paramilitary forces of the country. They are led by a commander-in-chief under the supervision of the Ministry of Defense and by the President as the supreme commander during wartime however, in times of peace its powers are executed through the Prime Minister and the Defence Minister.[167]
 
@@ -294,7 +294,7 @@ Albania reduced the number of active troops from 65,000 in 1988 to 14,500 in 200
 
 Economy
 
-Toptani_Shopping_Mall_Tirana_2016.jpg is the economic hub of the country. It is home to major domestic and foreign companies operating in the country.]]
+is the economic hub of the country. It is home to major domestic and foreign companies operating in the country.]]
 
 The transition from a socialist planned economy to a capitalist mixed economy in Albania has been largely successful.[177] The country has a developing mixed economy classified by the World Bank as an upper-middle income economy. In 2016, it had the 4th lowest unemployment rate in the Balkans with an estimated value of 14.7%. Its largest trading partners are Italy, Greece, China, Spain, Kosovo and the United States. The lek (ALL) is the country's currency and is pegged at approximately 132,51 lek per euro.
 
@@ -304,7 +304,7 @@ In 2012, Albania's GDP per capita stood at 30% of the European Union average, wh
 
 Primary sector
 
-Berat_kale_-_panoramio.jpg. Due to the mediterranean climate, wine, olives and citrus fruits are mostly produced in Southern Albania.]]
+. Due to the mediterranean climate, wine, olives and citrus fruits are mostly produced in Southern Albania.]]
 
 Agriculture in the country is based on small to medium-sized family-owned dispersed units. It remains a significant sector of the economy of Albania. It employs 41%[183] of the population, and about 24.31% of the land is used for agricultural purposes. One of the earliest farming sites in Europe has been found in the southeast of the country.[184] As part of the pre-accession process of Albania to the European Union, farmers are being aided through IPA funds to improve Albanian agriculture standards.[185]
 
@@ -314,7 +314,7 @@ Albania has one of Europe's longest histories of viticulture.[187] The today's r
 
 Secondary sector
 
-Something_in_Albania_(10759257413).jpg factory in Fushë-Krujë]]
+factory in Fushë-Krujë]]
 
 The secondary sector of Albania have undergone many changes and diversification, since the collapse of the communist regime in the country. It is very diversified, from electronics, manufacturing,[191] textiles, to food, cement, mining,[192] and energy. The Antea Cement plant in Fushë-Krujë is considered as one of the largest industrial greenfield investments in the country.[193] Albanian oil and gas is represents of the most promising albeit strictly regulated sectors of its economy. Albania has the second largest oil deposits in the Balkan peninsula after Romania, and the largest oil reserves[194] in Europe. The Albpetrol company is owned by the Albanian state and monitors the state petroleum agreements in the country. The textile industry has seen an extensive expansion by approaching companies from the European Union (EU) in Albania. According to the Institute of Statistics (INSTAT) , the textile production marked an annual growth of 5.3% and an annual turnover of around 1.5 billion euros.[195]
 
@@ -322,7 +322,7 @@ Albania is a significant minerals producer and is ranked among the world's leadi
 
 Tertiary sector
 
-Ksamil_Albania_._Albanian_Riviera.jpg in the south of the Albanian Ionian Sea Coast.]]
+in the south of the Albanian Ionian Sea Coast.]]
 
 The tertiary sector represents the fastest growing sector of the country's economy. 36% of the population work in the service sector which contributes to 65% of the country's GDP.[198] Ever since the end of the 20th century, the banking industry is a major component of the tertiary sector and remains in good conditions overall due to privatization and the commendable monetary policy.[199][200]
 
@@ -330,7 +330,7 @@ Previously one of the most isolated and controlled countries in the world, telec
 
 Tourism is recognised as an industry of national importance and has been steadily increasing since the beginnings of the 21st century.[202][203] It directly accounted for 8.4% of GDP in 2016 though including indirect contributions pushes the proportion to 26%.[204] In the same year, the country received approximately 4.74 million visitors mostly from across Europe and the United States as well.[205]
 
-Lake_Koman_Albania_2016.jpg, within the Albanian Alps, remind sometimes of the Scandinavian fjords.]]
+, within the Albanian Alps, remind sometimes of the Scandinavian fjords.]]
 
 The increase of foreign visitors has been dramatic. Albania had only 500,000 visitors in 2005, while in 2012 had an estimated 4.2 million, an increase of 740 percent in only 7 years. In 2015, tourism in summer increased by 25 percent in contrast the previous year according to the country's tourism agency.[206] In 2011, Lonely Planet named as a top travel destination,[207] while The New York Times placed Albania as number 4 global touristic destination in 2014.[208]
 
@@ -338,17 +338,17 @@ The bulk of the tourist industry is concentrated along the Adriatic and Ionian S
 
 Transport
 
-Mali_i_Gjallices_nga_Kalimashi.jpg connects the Adriatic Sea in the southwest with the Albanian Alps in the northeast.]]
+connects the Adriatic Sea in the southwest with the Albanian Alps in the northeast.]]
 
 Transportation in Albania has undergone significant changes and improvements in the past two decades. Improvements to the public transport, road and rail infrastructure, water and air travel have all led to a vast improvement in transportation.
 
 The international airport of Tirana serves as the premier gateway to the country and carries almost 2.5 million passengers per year with connections to many destinations in different countries around Europe.[211][212] The country plans to increase the number of airports especially in the south with possible locations in Sarandë, Gjirokastër and Vlorë.[213]
 
-Terminal_jashte.jpg is named in honour of the Albanian nun and missionary Mother Teresa.]]
+is named in honour of the Albanian nun and missionary Mother Teresa.]]
 
 The roads of Albania are well maintained and still under construction. The A1 is the longest motorway of the country and represents a major transportation corridor in Albania. It will prospectively link Durrës on the Adriatic Sea across Pristina in Kosovo with the Pan-European Corridor X in Serbia.[214][215] The A2 is part of the Adriatic–Ionian Corridor as well as the Pan-European Corridor VIII and connects Fier with Vlorë.[216] The A3 is currently under construction and will connect, after its completion, Tirana and Elbasan with the Pan-European Corridor VIII. When all three corridors are completed, Albania will have an estimated of highway linking it with all of its neighboring countries.
 
-Panorama_of_Durres_Port.jpg makes its port the busiest in Albania and among the largest in the Adriatic Sea.]]
+makes its port the busiest in Albania and among the largest in the Adriatic Sea.]]
 
 Durrës is the busiest and largest seaport in the country followed by Vlorë, Shëngjin and Sarandë. , it is as one of the largest passenger ports on the Adriatic Sea with annual passenger volume of approximately 1.5 million. The ports serve a system of ferries connecting numerous islands and coastal cities in Croatia, Greece and Italy.
 
@@ -359,7 +359,7 @@ Infrastructure
 
 Education
 
-Akademia_e_arteve_Ergys_Veliu_Photography.jpg is the largest higher education institute dedicated to the study of arts.]]
+is the largest higher education institute dedicated to the study of arts.]]
 
 In the country, education is secular, free, compulsory and based on three levels of education which is segmented in primary, secondary and tertiary education.[219][220] The academic year is apportioned into two semesters beginning in September or October and ending in June or July. The use of the Albanian language serves as the primary language of instruction in all educational institutions across the country.[221]
 
@@ -371,7 +371,7 @@ The study of a first foreign language is mandatory and are taught most often at 
 
 Energy
 
-Lake_komani_2016_Albania.jpg was formed as a result of the construction of the Koman Hydroelectric Power Station in 1985.]]
+was formed as a result of the construction of the Koman Hydroelectric Power Station in 1985.]]
 
 Albania is mostly dependent on hydroelectricity.[230] Almost 94.8% of the country's electricity consumption comes from hydroelectrical stations and ranks 7th in the world by percentage.[231][232] There are six hydroelectric power stations, including Fierza, Koman, Skavica and Vau i Dejës situated within the Drin River. Further, there are two stations under construction, namely Banjë and Moglicë located in the Devoll River. Both are expected to be completed between 2016 and 2018.
 
@@ -383,7 +383,7 @@ Further, Albania and Croatia have discussed the possibility of jointly building 
 
 Technology and media
 
-Skeda-Ahmet-Zogu.jpg and Queen Geraldine launched Radio Televizioni Shqiptar.]]
+and Queen Geraldine launched Radio Televizioni Shqiptar.]]
 
 With the political and economic changings in 1993, human resources in sciences and technology have drastically decreased. As of various reports, during 1991 to 2005 approximately 50% of the professors and scientists of the universities and science institutions in the country have left Albania.[239] In 2009, the government approved the National Strategy for Science, Technology and Innovation in Albania covering the period 2009 to 2015.[240] It aims to triple public spending on research and development to 0.6% of GDP and augment the share of GDE from foreign sources, including the framework programmes for research of the European Union, to the point where it covers 40% of research spending, among others.
 
@@ -391,7 +391,7 @@ Albania has an estimated 257 media outlets, including 66 radio stations and 67 t
 
 Health
 
-Olive-oil-1412361_1920.jpg, which is characterized by the use of fruits, vegetables and olive oil, contributes to the good nutrition of the country's population.[242]]]
+, which is characterized by the use of fruits, vegetables and olive oil, contributes to the good nutrition of the country's population.[242]]]
 
 The constitution of Albania guarantees equal, free and universal health care for all its citizens.[243] The health care system of the country is currently organized in three levels, among others primary, secondary and tertiary healthcare, and is in a process of modernisation and development.[244][245]
 
@@ -404,7 +404,7 @@ In 2009, the country had a fruit and vegetable supply of 886 grams per capita pe
 
 Demography
 
-Albania_demography.svg development in the last sixty years]]
+development in the last sixty years]]
 
 The population of Albania, as defined by Institute of Statistics, was estimated in 2016 to be approximately 2,886,026.[256] The country's total fertility rate of 1.51 children born per woman is one of the lowest in the world.[257] Its population density stands at 259 inhabitants per square kilometre. The overall life expectancy at birth is 78.5 years; 75.8 years for males and 81.4 years for females.[258] The country is the 8th most populous country in the Balkans and ranks as the 137th most populous country in the world. The population of the country rose steadily from 2,5 million in 1979 until 1989, when it peaked at 3.1 million.[259] It is forecasted that the population should not reach its peak number of 1989 until 2031, depending on the actual birth rate and the level of net migration.[260]
 
@@ -416,10 +416,6 @@ About 53.4% of the country's population is living in cities. The three largest c
 | The country's largest urban areas by population .[266] |
 +========================================================+
 | rowspan=23 width:130|                                  |
-|                                                        |
-| Tirana_from_South.jpg                                  |
-|                                                        |
-| Amphitheatre_of_durres_albania_2016.jpg                |
 +--------------------------------------------------------+
 | 1                                                      |
 +--------------------------------------------------------+
@@ -458,7 +454,7 @@ Greek representatives form part of the Albanian parliament and the government ha
 
 Language
 
-Dialect_map_albania.png.]]
+.]]
 
 Albanian is the official language of the Republic of Albania. Its standard spoken and written form is revised and merged from the two main dialects, Gheg and Tosk, though it is notably based more on the Tosk dialect. The Shkumbin river is the rough dividing line between the two dialects. Also a dialect of Greek that preserves features now lost in standard modern Greek is spoken in areas inhabited by the Greek minority. Other languages spoken by ethnic minorities in Albania include Aromanian, Serbian, Macedonian, Bosnian, Bulgarian, Gorani, and Roma.[291] Macedonian is official in the Pustec Municipality in East Albania. According to the 2011 population census, 2,765,610 or 98.767% of the population declared Albanian as their mother tongue (_mother tongue is defined as the first or main language spoken at home during childhood_).[292]
 
@@ -468,19 +464,19 @@ The young people have shown a growing interest in German language in recent year
 
 Religion
 
-Great_Mosque_of_Durres_2016_Albania.jpg of Durrës. Islam is the majority faith and arrived mostly during the Ottoman period.]]
+of Durrës. Islam is the majority faith and arrived mostly during the Ottoman period.]]
 
 Albania is a secular state without an official religion, with the freedom of religion being a constitutional right.[306] The 2011 census, for the first time since 1930, included an optional open-ended question on religion; the census recorded a majority of Muslims (58.79%), which include Sunni (56.70%) and Bektashi Muslims (2.09%).[307] Christians, making up 16.92% of the population, include Catholics (10.03%), Orthodox (6.75%) and evangelical Protestants (0.14%).[308] Atheists accounted for 2.5% of the population and 5.49% were non-affiliated believers, while 13.79% preferred not to answer.[309]
 
 The preliminary results of the 2011 census seemed to give widely different results, with 70% of respondents refusing to declare belief in any of the listed faiths.[310][311] The Albanian Orthodox Church officially refused to recognize the results, claiming that 24% of the total population adhered to its faith.[312][313] Some Muslim Community officials expressed unhappiness with the data claiming that many Muslims were not counted and that the number of adherents numbered some 70% of the Albanian population.[314][315] The Albanian Catholic Bishops Conference also cast doubts on the census, complaining that many of its believers were not contacted.[316] The Muslim Albanians are spread throughout the country. Orthodox and Bektashis are mostly found in the south, whereas Catholics mainly live in the north.[317] In 2008, there were 694 Catholic churches and 425 orthodox churches, 568 mosques and 70 bektashi tekkes in the country.[318][319]
 
-Orthodox_Church_Tirana_2016_albania.jpg of Tirana is the third largest Orthodox church in Europe. Eastern orthodoxy was first introduced during the Roman period.]]
+of Tirana is the third largest Orthodox church in Europe. Eastern orthodoxy was first introduced during the Roman period.]]
 
 Religious tolerance is one of the most important values of the tradition of the Albanians. It is widely accepted that Albanians generally value a peaceful coexistence among the believers of different religious communities in the country.[320][321] During an official visit in Tirana, Pope Francis hailed Albania as model of religious harmony, due to the long tradition of religious coexistence and tolerance.[322] The country is ranked among the least religious countries in the world.[323] Furthermore, religion plays an important role in the lives of only 39% of the country's population.[324] In the WIN/Gallup International Report of 2016, 56% of the Albanian people considered themselves religious, 30% considered themselves non-religious, while 9% defined themselves as convinced atheists; 80% believed in God and 40% believed in life after death. However, 40% believed in hell, while 42% believed in heaven.[325]
 
 During classical times, there are thought to have been about seventy Christian families in Durrës, as early as the time of the Apostles.[326] The Archbishopric of Durrës was purportedly founded by Paul the Apostle, while preaching in Illyria and Epirus.[327][328] Meanwhile, in medieval times, the Albanian people first appeared within historical records from the Byzantines. At this point, they were mostly Christianized. Islam arrived for the first time in the late 9th century to the region, when Arabs raided parts of the eastern banks of the Adriatic Sea.[329] It later emerged as the majority religion, during the centuries of Ottoman Period,[330] though a significant Christian minority remained.
 
-During modern times, the Albanian republican, monarchic and later communist regimes followed a systematic policy of separating religion from official functions and cultural life. The country has never had an official religion either as a republic or as a kingdom. Kisha_e_Manastirit_Te_Rubikut_03.jpg was constructed between 1166.]] In the 20th century, the clergy of all faiths was weakened under the monarchy and ultimately eradicated during the 1950s and 1960s, under the state policy of obliterating all organized religion from the territories of Albania. The communist regime persecuted and suppressed religious observance and institutions and entirely banned religion. The country was then officially declared to be the world's first atheist state. Although, the country's religious freedom has returned, since the end of communism.
+During modern times, the Albanian republican, monarchic and later communist regimes followed a systematic policy of separating religion from official functions and cultural life. The country has never had an official religion either as a republic or as a kingdom. was constructed between 1166.]] In the 20th century, the clergy of all faiths was weakened under the monarchy and ultimately eradicated during the 1950s and 1960s, under the state policy of obliterating all organized religion from the territories of Albania. The communist regime persecuted and suppressed religious observance and institutions and entirely banned religion. The country was then officially declared to be the world's first atheist state. Although, the country's religious freedom has returned, since the end of communism.
 
 Islam survived communist era persecution and reemerged in the modern era as a practiced religion in Albania.[331] Some smaller Christian sects in Albania include Evangelicals and several Protestant communities including Seventh-day Adventist Church, Church of Jesus Christ of Latter-day Saints and Jehovah's Witnesses.[332][333][334][335] The first recorded Protestant of Albania was Said Toptani, who traveled around Europe and returned to Tirana in 1853, where he preached Protestantism. Due to that, he was arrested and imprisoned by the Ottoman authorities in 1864. First evangelical Protestants appeared in the 19th century and the Evangelical Alliance was founded in 1892. Nowadays, it has 160 member congregations from different Protestant denominations.
 
@@ -491,7 +487,7 @@ Culture
 
 Symbols
 
-Mak.jpg of Albania is the red poppy and is found everywhere throughout the landscapes of the country.]]
+of Albania is the red poppy and is found everywhere throughout the landscapes of the country.]]
 
 Albania shares many symbols associated with its history, culture and belief. These include the colours red and black, animals such as the golden eagle living across the country, costumes such as the fustanella, plis and opinga which are worn to special events and celebrations, plants such as the olive and red poppy growing as well across the country.
 
@@ -503,19 +499,19 @@ The duart e kryqëzuara, also referred to as the eagle gesture, is a gesture per
 
 Cuisine
 
-4Gambas.jpgs are one of the favoured dishes among the Albanians on the Albanian Adriatic and Ionian Coasts.]]
+s are one of the favoured dishes among the Albanians on the Albanian Adriatic and Ionian Coasts.]]
 
 In the course of the centuries, Albanian cuisine has been widely influenced by the culture, geography and history of Albania and therefore different parts of the country have a specific regional cuisine. The cooking traditions vary especially between the north and the south owing to differing topography and climate that contribute to the excellent growth conditions for a wide array of herbs, fruits and vegetables.[347]
 
 Albanians produces and uses many varieties of fruits such as lemons, oranges, figs and most notably olives which are perhaps the most important element of Albanian cooking. Spices and other herbs such as basil, lavender, mint, oregano, rosemary and thyme are widely used, as are vegetables such as garlics, onions, peppers, potatoes and tomatoes as well as legumes of all types.
 
-Albanian_cuisine_-_Pite_dhe_Speca.jpgs served with Pite, a traditional and prominent layered Albanian pie.]]
+s served with Pite, a traditional and prominent layered Albanian pie.]]
 
 While having a coastline along the Adriatic and Ionian Sea of the Mediterranean Sea, fish, crustaceans and seafood are a popular and an integral part of the Albanian diet. Otherwise lamb is the traditional meat for different holidays and religious festivals for both Christians and Muslims, and poultry, beef, and pork are also in plentiful supply.
 
 Tavë Kosi is a national dish in Albania and consists of garlicky lamb and rice baked under a thick, tart veil of yogurt. Fërgesë is another national dish in the country and is made up with peppers, tomatoes and cottage cheese. Another beloved dish is Pite which is generally a filled and baked pastry with a filling of a mixture of spinach and gjizë or mish as it is known in Albania.
 
-Bukë_kollomoqe,_bukë_misri.JPG is a staple on the Albanian table.]]
+is a staple on the Albanian table.]]
 
 Petulla, a traditionally fried dough, is as well a popular speciality and is served with powdered sugar or feta cheese and different sorts of fruit jams. Also popular is Flia consisting of multiple crepe-like layers brushed with cream and served with sour cream. Krofne, similar to Berliner, are filled with jam, or chocolate and often eaten during the cold winter months.
 
@@ -527,19 +523,19 @@ Wine drinking is popular throughout the Albanians. The country has a long and an
 
 Arts
 
-Amphitheatre_of_Butrint_2009.jpg has been included in the UNESCO list of World Heritage Sites since 1992.]]
+has been included in the UNESCO list of World Heritage Sites since 1992.]]
 
 The artistic history of Albania has been particularly influenced by a multitude of ancient and medieval people, traditions and religions. It covers a broad spectrum with mediums and disciplines that include painting, pottery, sculpture, ceramics and architecture all of them exemplifying a great variety in style and shape, in different regions and period.
 
 The rise of the Byzantine and Ottoman Empire in the Middle Ages was accompanied by a corresponding growth in Christian and Islamic art in the lands of Albania which are apparent in examples of architecture and mosaics throughout the country.[351][352] Centuries later, the Albanian Renaissance proved crucial to the emancipation of the modern Albanian culture and saw unprecedented developments in all fields of literature and art whereas artists sought to return to the ideals of Impressionism and Romanticism.[353] However, Onufri, Kolë Idromeno, David Selenica, Kostandin Shpataraku and the Zografi Brothers are the most eminent representatives of Albanian art.
 
-Codex_Beratinus_0011b.jpg are eminently important for the global community and the development of ancient biblical, liturgical and hagiographical literature.[354] In 2005, it was inscribed on the UNESCO's Memory of the World Register.]]
+are eminently important for the global community and the development of ancient biblical, liturgical and hagiographical literature.[354] In 2005, it was inscribed on the UNESCO's Memory of the World Register.]]
 
 The architecture of Albania reflects the legacy of various civilizations tracing back to the classical antiquity. Major cities in Albania have evolved from within the castle to include dwellings, religious and commercial structures, with constant redesigning of town squares and evolution of building techniques. Nowadays, the cities and towns reflect a whole spectrum of various architectural styles. In the 20th century, many historical as well as sacred buildings bearing the ancient influence were demolished during the communist era.[355]
 
 Ancient architecture is found throughout Albania and most visible in Byllis, Amantia, Phoenice, Apollonia, Butrint, Antigonia, Shkodër and Durrës. Considering the long period of rule of the Byzantine Empire, they introduced castles, citadels, churches and monasteries with spectacular wealth of visible murals and frescos. Perhaps the best known examples can be found in the southern Albanian cities and surroundings of Korçë, Berat, Voskopojë and Gjirokastër. Involving the introduction of Ottoman architecture there was a development of mosques and other Islamic buildings, particularly seen in Berat and Gjirokastër.
 
-Castle_of_Bashtov%C3%AB.jpg is on the tentative list for inscribing it as a UNESCO World Heritage Site.[356]]]
+is on the tentative list for inscribing it as a UNESCO World Heritage Site.[356]]]
 
 A productive period of Historicism, Art Nouveau and Neoclassicism merged into the 19th century, best exemplified in Korçë. The 20th century brought new architectural styles such as the modern Italian style, which is present in Tirana such as the Skanderbeg Square and Ministries. It is also present in Shkodër, Vlorë, Sarandë and Durrës. Moreover, other towns received their present-day Albania-unique appearance through various cultural or economic influences.
 
@@ -549,13 +545,13 @@ Three Albanian archaeological sites are included in the list of UNESCO World Her
 
 Music
 
-A_traditional_male_folk_group_from_Skrapar.JPG is UNESCO's Masterpiece of the Oral and Intangible Heritage of Humanity.[359]]]
+is UNESCO's Masterpiece of the Oral and Intangible Heritage of Humanity.[359]]]
 
 The Albanian folk music is a prominent section of the national identity and continues to play a major part in Albanian music. Although, it can be divided into two stylistic groups, as performed by the northern Ghegs and southern Labs and Tosks. The northern and southern traditions are contrasted by the rugged tone of the north and the relaxed form of the south.
 
 Many of the songs are about events from history and culture, including the traditional themes about honour, hospitality, treachery and revenge. The first compilation of Albanian folk music was made by two Himariot musicians Neço Muka and Koço Çakali in Paris, during their interpretations with the song Diva Tefta Tashko Koço. Several gramophone compilations were recorded in those years by this genial trio of artists which eventually led to the recognition of the Himariot Isopolyphonic Music as an UNESCO World Cultural Heritage.[360]
 
-Les_Danseurs_Albanais_by_Alexandre-Gabriel_Decamps_(c._1835).jpg wearing Fustanellas, the national costume of Albania]]
+wearing Fustanellas, the national costume of Albania]]
 
 The contemporary music artists Rita Ora, Bebe Rexha, Era Istrefi, Dua Lipa, Bleona, Elvana Gjata, Ermonela Jaho and Inva Mula have achieved international recognition for their music.[361] Sporano Ermonela Jaho has been described by The Economist as the World's most acclaimed Soprano.[362] One widely recognized musician from Elbasan is Saimir Pirgu, an Albanian international opera singer. He was nominated for the 2017 Grammy Award.[363]
 
@@ -563,7 +559,7 @@ Every cultural and geographical region of Albania has its own specific variety o
 
 Literature
 
-Meshari.jpg _(The Missal)_ written by Gjon Buzuku. (1555)]]
+_(The Missal)_ written by Gjon Buzuku. (1555)]]
 
 The Albanian language comprises its own branch of the Indo-European language family. The language is considered an isolate within the Indo-European. The only other languages that are the sole surviving member of a branch of Indo-European are Armenian and Greek. It was proved to be an Indo-European language in 1854 by the German philologist Franz Bopp. Albanian is often held to be related to the Illyrian languages, a language spoken in the Balkans during classical times. Scholars argue that Albanian derives from Illyrian[365] while some others[366] claim that it derives from Daco-Thracian. (Illyrian and Daco-Thracian, however, might have been closely related languages; see Thraco-Illyrian.)
 
@@ -575,7 +571,7 @@ During the 16th and the 17th centuries, the catechism (_E mbësuame krishterë_)
 
 Cinema
 
-Eliza_Dushku_(3756552915).jpg actress Eliza Dushku produced the documentary Dear Albania[367] with a crew from Travel Channel and Lonely Planet, promoting tourism in Albania.]]
+actress Eliza Dushku produced the documentary Dear Albania[367] with a crew from Travel Channel and Lonely Planet, promoting tourism in Albania.]]
 
 Cinematography became popular in the 20th century, when foreign films and documentaries were shown in the cities of Shkodër and Korçë.[368] The first public showing to occur in Albania was a little-known title, Paddy the Reliable a comical story.
 

@@ -7,7 +7,7 @@ Hispaniola is the site of the first permanent European settlement in the America
 
 History
 
-Hispaniola_Vinckeboons4.jpg, c. 1639.]]
+, c. 1639.]]
 
 Etymology
 
@@ -29,11 +29,9 @@ The Arawak/Taíno people traveled often and used hollowed canoes with paddles wh
 
 Post-Columbian
 
-Columbus_landing_on_Hispaniola_adj.jpg
-
 Christopher Columbus inadvertently landed on the island during his first voyage across the Atlantic in 1492, where his flagship, the _Santa Maria_, sank after running aground on December 25. A contingent of men were left at an outpost christened La Navidad, on the north coast of present-day Puerto Plata. On his return the following year,[44] Columbus quickly established a second compound farther east in present-day Dominican Republic, La Isabela after the destruction of La Navidad.
 
-The island was inhabited by the Taíno, one of the indigenous Arawak peoples. The Taíno helped Columbus construct La Navidad on what is now Môle-Saint-Nicolas, Haiti, in December 1492. European colonization of the island began in earnest the following year, when 1,300 men arrived from Spain under the watch of Bartolomeo Columbus. In 1496, the town of Nueva Isabela was founded. After being destroyed by a hurricane, it was rebuilt on the opposite side of the Ozama River and called Santo Domingo. It is the oldest permanent European settlement in the Americas.[45] Copia_de_Cacicazgos_de_la_Hispaniola.png]]
+The island was inhabited by the Taíno, one of the indigenous Arawak peoples. The Taíno helped Columbus construct La Navidad on what is now Môle-Saint-Nicolas, Haiti, in December 1492. European colonization of the island began in earnest the following year, when 1,300 men arrived from Spain under the watch of Bartolomeo Columbus. In 1496, the town of Nueva Isabela was founded. After being destroyed by a hurricane, it was rebuilt on the opposite side of the Ozama River and called Santo Domingo. It is the oldest permanent European settlement in the Americas.[45] ]]
 
 Harsh enslavement by Spanish colonists, as well as redirection of food supplies and labor, had a devastating impact on both mortality and fertility of the Taíno population over the first quarter century.[46] Colonial administrators and Dominican and Hyeronimite priests observed that the search for gold and agrarian enslavement through the encomienda system were depressing population.[47] Demographic data from two provinces in 1514 shows a low birth rate consistent with a 3.5% annual population decline. In 1503 the colony began to import African slaves after a charter was passed in 1501 allowing the import of slaves by Ferdinand and Isabel. The Spanish believed Africans would be more capable of performing physical labor. From 1519 to 1533, the indigenous uprising known as Enriquillo's Revolt, after the Taíno cacique who lead them, ensued, resulting from escaped African slaves on the island possibly working with the Taíno people.[48]
 
@@ -49,7 +47,7 @@ Christopher Columbus brought sugar cane on his second voyage to the island. Mola
 
 As Spain conquered new regions on the mainland of the Americas (Spanish Main), its interest in Hispaniola waned, and the colony’s population grew slowly. By the early 17th century, the island and its smaller neighbors (notably Tortuga) became regular stopping points for Caribbean pirates. In 1606, the government of Philip III ordered all inhabitants of Hispaniola to move close to Santo Domingo, to avoid interaction with pirates. Rather than secure the island, his action meant that French, English and Dutch pirates established their own bases on the abandoned north and west coasts of the island.
 
-Map_of_Hispaniola.JPG In 1665, French colonization of the island was officially recognized by King Louis XIV. The French colony was given the name Saint-Domingue. In the 1697 Treaty of Ryswick, Spain formally ceded the western third of the island to France.[63][64] Saint-Domingue quickly came to overshadow the east in both wealth and population. Nicknamed the "Pearl of the Antilles", it became the richest and most prosperous colony in the West Indies, with a system of human enslavement used to grow and harvest sugar cane during a time when sugar demand was high in Europe. Slavery kept prices low and profit was maximized. It was an important port in the Americas for goods and products flowing to and from France and Europe.
+In 1665, French colonization of the island was officially recognized by King Louis XIV. The French colony was given the name Saint-Domingue. In the 1697 Treaty of Ryswick, Spain formally ceded the western third of the island to France.[63][64] Saint-Domingue quickly came to overshadow the east in both wealth and population. Nicknamed the "Pearl of the Antilles", it became the richest and most prosperous colony in the West Indies, with a system of human enslavement used to grow and harvest sugar cane during a time when sugar demand was high in Europe. Slavery kept prices low and profit was maximized. It was an important port in the Americas for goods and products flowing to and from France and Europe.
 
 European colonists often died young due to tropical fevers, as well as from violent slave resistance in the late eighteenth century. In 1791, during the French Revolution, a major slave revolt broke out on Saint-Domingue. When the French Republic abolished slavery in the colonies on February 4, 1794, it was a European first[65]. The ex-slave army joined forces with France in its war against its European neighbors. In the second 1795 Treaty of Basel (July 22), Spain ceded the eastern two-thirds of the island of Hispaniola, later to become the Dominican Republic. French settlers had begun to colonize some areas in the Spanish side of the territory.
 
@@ -58,7 +56,7 @@ Under Napoleon, France reimposed slavery in most of its Caribbean islands in 180
 
 Geography
 
-Hispaniola_lrg.jpg Hispaniola is the second-largest island in the Caribbean (after Cuba), with an area of , [69] of which is under the sovereignty of the Dominican Republic occupying the eastern portion and [70] under the sovereignty of Haiti occupying the western portion.
+Hispaniola is the second-largest island in the Caribbean (after Cuba), with an area of , [69] of which is under the sovereignty of the Dominican Republic occupying the eastern portion and [70] under the sovereignty of Haiti occupying the western portion.
 
 The island of Cuba lies to the northwest across the Windward Passage; 190 km to the southwest lies Jamaica, separated by the Jamaica Channel. Puerto Rico lies 130 km east of Hispaniola across the Mona Passage. The Bahamas and Turks and Caicos Islands lie to the north. Its westernmost point is known as Cap Carcasse. Cuba, Hispaniola, Jamaica, and Puerto Rico are collectively known as the Greater Antilles.
 
@@ -76,7 +74,7 @@ There are many bird species in Hispaniola, and the island's amphibian species ar
 
 Flora
 
-The island has four distinct ecoregions. The Hispaniolan moist forests ecoregion covers approximately 50% of the island, especially the northern and eastern portions, predominantly in the lowlands but extending up to elevation. The Hispaniolan dry forests ecoregion occupies approximately 20% of the island, lying in the rain shadow of the mountains in the southern and western portion of the island and in the Cibao valley in the center-north of the island. The Hispaniolan pine forests occupy the mountainous 15% of the island, above elevation. The flooded grasslands and savannas ecoregion in the south central region of the island surrounds a chain of lakes and lagoons in which the most notable include that of Lake Azuei and Trou Caïman in Haiti and the nearby Lake Enriquillo in the Dominican Republic Haiti_deforestation.jpg (left) and the Dominican Republic (right)]]
+The island has four distinct ecoregions. The Hispaniolan moist forests ecoregion covers approximately 50% of the island, especially the northern and eastern portions, predominantly in the lowlands but extending up to elevation. The Hispaniolan dry forests ecoregion occupies approximately 20% of the island, lying in the rain shadow of the mountains in the southern and western portion of the island and in the Cibao valley in the center-north of the island. The Hispaniolan pine forests occupy the mountainous 15% of the island, above elevation. The flooded grasslands and savannas ecoregion in the south central region of the island surrounds a chain of lakes and lagoons in which the most notable include that of Lake Azuei and Trou Caïman in Haiti and the nearby Lake Enriquillo in the Dominican Republic (left) and the Dominican Republic (right)]]
 
 In Haiti, deforestation has long been cited by scientists as a source of ecological crisis; the timber industry dates back to French colonial rule. Haiti has seen a dramatic reduction of forests due to the excessive and increasing use of charcoal as fuel for cooking. Various media outlets have suggested that the country has just 2% forest cover, but this has not been substantiated by research.[76]
 
@@ -86,9 +84,9 @@ In the Dominican Republic, the forest cover has increased. In 2003, the Dominica
 
 Climate
 
-Cordillera_Central.jpg, Dominican Republic]] Owing to its mountainous topography, Hispaniola’s climate shows considerable variation over short distances, and is the most varied of all the Antilles.[79]
+, Dominican Republic]] Owing to its mountainous topography, Hispaniola’s climate shows considerable variation over short distances, and is the most varied of all the Antilles.[79]
 
-Except in the Northern Hemisphere summer season, the predominant winds over Hispaniola are the northeast trade winds. As in Jamaica and Cuba, these winds deposit their moisture on the northern mountains, and create a distinct rain shadow on the southern coast, where some areas receive as little as of rainfall, and have semi-arid climates. Annual rainfall under also occurs on the southern coast of Haiti’s northwest peninsula and in the central Azúa region of the Plaine du Cul-de-Sac. In these regions, moreover, there is generally little rainfall outside hurricane season from August to October, and droughts are by no means uncommon when hurricanes do not come.[80] View_of_Haitian_Landscape_hispaniola.jpg, Sud, Haiti]]
+Except in the Northern Hemisphere summer season, the predominant winds over Hispaniola are the northeast trade winds. As in Jamaica and Cuba, these winds deposit their moisture on the northern mountains, and create a distinct rain shadow on the southern coast, where some areas receive as little as of rainfall, and have semi-arid climates. Annual rainfall under also occurs on the southern coast of Haiti’s northwest peninsula and in the central Azúa region of the Plaine du Cul-de-Sac. In these regions, moreover, there is generally little rainfall outside hurricane season from August to October, and droughts are by no means uncommon when hurricanes do not come.[80] , Sud, Haiti]]
 
 On the northern coast, in contrast, rainfall may peak between December and February, though some rain falls in all months of the year. Annual amounts typically range from on the northern coastal lowlands;[81] there is probably much more in the Cordillera Septentrional, though no data exist.
 
@@ -126,7 +124,7 @@ The estimated annual per capita income is US$1,300 in Haiti and US$8,200 in Domi
 
 The divergence between the level of economic development between Haiti and Dominican Republic makes its border the higher contrast of all western land borders and is evident that the Dominican Republic has one of the highest migration issues in the Americas.[88]
 
-Geologic_Map_Dominican_Republic.png of Hispaniola. Mzb are Mesozoic amphibolites and associated metasedimentary rocks, Ki are Cretaceous plutons, Kv are Cretaceous volcanic rocks, uK are Upper Cretaceous marine strata, Ku are Cretaceous sedimentary and volcanic rocks, K are Cretaceous marine strata, IT are Eocene and/or Paleocene marine strata, uT are Post-Eocene marine strata, T are Tertiary marine strata, V are volcanic rocks, and Q are Quaternary alluvium. The black triangles indicate the Late Eocene Hatillo Thrust fault.]]
+of Hispaniola. Mzb are Mesozoic amphibolites and associated metasedimentary rocks, Ki are Cretaceous plutons, Kv are Cretaceous volcanic rocks, uK are Upper Cretaceous marine strata, Ku are Cretaceous sedimentary and volcanic rocks, K are Cretaceous marine strata, IT are Eocene and/or Paleocene marine strata, uT are Post-Eocene marine strata, T are Tertiary marine strata, V are volcanic rocks, and Q are Quaternary alluvium. The black triangles indicate the Late Eocene Hatillo Thrust fault.]]
 
 The island also has an economic history and current day interest and involvement in precious metals. In 1860, it was observed that the island contained a large supply of gold, of which the early Spaniards had hardly developed.[89] By 1919, Condit and Ross noted that much of the island was covered by government granted concessions for mining different types of minerals. Besides gold, these minerals included silver, manganese, copper, magnetite, iron and nickel.[90]
 

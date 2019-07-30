@@ -20,7 +20,7 @@ The 11th Duke, John Spencer-Churchill died in 2014, having assumed the title in 
 
 Family seat
 
-Blenheim_Palace_IMG_3675.JPG.]] The family seat is Blenheim Palace in Woodstock, Oxfordshire.
+.]] The family seat is Blenheim Palace in Woodstock, Oxfordshire.
 
 After his leadership in the victory against the French in the Battle of Blenheim on 13 August 1704, the 1st Duke was honoured by Queen Anne granting him the royal manor of Woodstock, and building him a house at her expense to be called Blenheim. Construction started in 1705 and the house was completed in 1722, the year of the 1st Duke's death. Blenheim Palace has since remained in the Churchill and Spencer-Churchill family.
 
@@ -73,19 +73,19 @@ The fourth surviving line is represented by the Earl of Chichester and his famil
 
 Line of succession
 
--   Coronet_of_a_British_Duke.svg _John Churchill, 1st Duke of Marlborough (1650–1722)_
-    -   Coronet_of_a_British_Duke.svg _Henrietta Godolphin, 2nd Duchess of Marlborough (1681–1733)_
+-   _John Churchill, 1st Duke of Marlborough (1650–1722)_
+    -   _Henrietta Godolphin, 2nd Duchess of Marlborough (1681–1733)_
     -   _Anne Spencer, Countess of Sunderland (1683–1716)_
-        -   Coronet_of_a_British_Duke.svg _Charles Spencer, 3rd Duke of Marlborough (1706–1758)_
-            -   Coronet_of_a_British_Duke.svg _George Spencer, 4th Duke of Marlborough (1739–1817)_
-                -   Coronet_of_a_British_Duke.svg _George Spencer-Churchill, 5th Duke of Marlborough (1766–1840)_
-                    -   Coronet_of_a_British_Duke.svg _George Spencer-Churchill, 6th Duke of Marlborough (1793–1857)_
-                        -   Coronet_of_a_British_Duke.svg _John Spencer-Churchill, 7th Duke of Marlborough (1822–1883)_
-                            -   Coronet_of_a_British_Duke.svg _George Spencer-Churchill, 8th Duke of Marlborough (1844–1892)_
-                                -   Coronet_of_a_British_Duke.svg _Charles Spencer-Churchill, 9th Duke of Marlborough (1871–1934)_
-                                    -   Coronet_of_a_British_Duke.svg _John Spencer-Churchill, 10th Duke of Marlborough (1897–1972)_
-                                        -   Coronet_of_a_British_Duke.svg _John Spencer-Churchill, 11th Duke of Marlborough (1926–2014)_
-                                            -   Coronet_of_a_British_Duke.svg James Spencer-Churchill, 12th Duke of Marlborough (b. 1955)
+        -   _Charles Spencer, 3rd Duke of Marlborough (1706–1758)_
+            -   _George Spencer, 4th Duke of Marlborough (1739–1817)_
+                -   _George Spencer-Churchill, 5th Duke of Marlborough (1766–1840)_
+                    -   _George Spencer-Churchill, 6th Duke of Marlborough (1793–1857)_
+                        -   _John Spencer-Churchill, 7th Duke of Marlborough (1822–1883)_
+                            -   _George Spencer-Churchill, 8th Duke of Marlborough (1844–1892)_
+                                -   _Charles Spencer-Churchill, 9th Duke of Marlborough (1871–1934)_
+                                    -   _John Spencer-Churchill, 10th Duke of Marlborough (1897–1972)_
+                                        -   _John Spencer-Churchill, 11th Duke of Marlborough (1926–2014)_
+                                            -   James Spencer-Churchill, 12th Duke of Marlborough (b. 1955)
                                                 -   (1) George Spencer-Churchill, Marquess of Blandford (b. 1992)
                                                 -   (2) Lord Caspar Spencer-Churchill (b. 2008)
                                             -   (3) Lord Edward Spencer-Churchill (b. 1974)
@@ -107,11 +107,11 @@ Line of succession
                                             -   (13) John Spencer-Churchill (b. 1975)
                                                 -   (14) Edward Spencer-Churchill (b. 2008)
                                                 -   (15) Alexander Spencer-Churchill (b. 2014)
-                -   Coronet_of_a_British_Baron.svg _Francis Spencer, 1st Baron Churchill (1779–1845)_
+                -   _Francis Spencer, 1st Baron Churchill (1779–1845)_
                     -   Augustus Spencer (1807–1893)''
                         -   _Augustus Spencer (1851–1912)_
                             -   _Richard Spencer (1888–1956)_
-                                -   (16) Coronet_of_a_British_Baron.svg Richard Spencer, 6th Baron Churchill (b. 1926)
+                                -   (16) Richard Spencer, 6th Baron Churchill (b. 1926)
                                     -   (18) Michael Spencer (b. 1960)
                                     -   (19) David Spencer (b. 1970)
                                 -   (20) Charles Spencer (b. 1928)
@@ -138,29 +138,29 @@ Line of succession
                                 -   _Charles Spencer (1909–1963)_
                                     -   (26) Piers Spencer (b. 1963)''
         -   _John Spencer (1708–1746)_
-            -   Coronet_of_a_British_Earl.svg _John Spencer, 1st Earl Spencer (1734–1783)_
-                -   Coronet_of_a_British_Earl.svg _George Spencer, 2nd Earl Spencer (1758–1834)_
-                    -   Coronet_of_a_British_Earl.svg _John Spencer, 3rd Earl Spencer (1782–1845)_
-                    -   Coronet_of_a_British_Earl.svg _Frederick Spencer, 4th Earl Spencer (1798–1857)_
-                        -   Coronet_of_a_British_Earl.svg _John Spencer, 5th Earl Spencer (1835–1910)_
-                        -   Coronet_of_a_British_Earl.svg _Charles Spencer, 6th Earl Spencer (1857–1922)_
-                            -   Coronet_of_a_British_Earl.svg _Albert Spencer, 7th Earl Spencer (1892–1975)_
-                                -   Coronet_of_a_British_Earl.svg _John Spencer, 8th Earl Spencer (1924–1992)_
-                                    -   (27) Coronet_of_a_British_Earl.svg Charles Spencer, 9th Earl Spencer (b. 1964)
+            -   _John Spencer, 1st Earl Spencer (1734–1783)_
+                -   _George Spencer, 2nd Earl Spencer (1758–1834)_
+                    -   _John Spencer, 3rd Earl Spencer (1782–1845)_
+                    -   _Frederick Spencer, 4th Earl Spencer (1798–1857)_
+                        -   _John Spencer, 5th Earl Spencer (1835–1910)_
+                        -   _Charles Spencer, 6th Earl Spencer (1857–1922)_
+                            -   _Albert Spencer, 7th Earl Spencer (1892–1975)_
+                                -   _John Spencer, 8th Earl Spencer (1924–1992)_
+                                    -   (27) Charles Spencer, 9th Earl Spencer (b. 1964)
                                         -   (28) Louis Spencer, Viscount Althorp (b. 1994)
                                         -   (29) Edmund Spencer (b. 2003)
                             -   _George Spencer (1903–1982)_
                                 -   (30) George Spencer (b. 1932)
     -   _Lady Elizabeth Churchill (1687–1714)_
         -   _Lady Anne Egerton (1705–1762)_
-            -   Coronet_of_a_British_Earl.svg _George Villiers, 4th Earl of Jersey (1735–1805)_
-                -   Coronet_of_a_British_Earl.svg _George Child Villiers, 5th Earl of Jersey (1773–1859)_
-                    -   Coronet_of_a_British_Earl.svg _George Child Villiers, 6th Earl of Jersey (1808–1859)_
-                        -   Coronet_of_a_British_Earl.svg _Victor Child Villiers, 7th Earl of Jersey (1845–1915)_
-                            -   Coronet_of_a_British_Earl.svg _George Child Villiers, 8th Earl of Jersey (1873–1923)_
-                                -   Coronet_of_a_British_Earl.svg _George Child Villiers, 9th Earl of Jersey (1910–1998)_
+            -   _George Villiers, 4th Earl of Jersey (1735–1805)_
+                -   _George Child Villiers, 5th Earl of Jersey (1773–1859)_
+                    -   _George Child Villiers, 6th Earl of Jersey (1808–1859)_
+                        -   _Victor Child Villiers, 7th Earl of Jersey (1845–1915)_
+                            -   _George Child Villiers, 8th Earl of Jersey (1873–1923)_
+                                -   _George Child Villiers, 9th Earl of Jersey (1910–1998)_
                                     -   _George Child-Villiers, Viscount Villiers (1948–1998)_
-                                        -   Coronet_of_a_British_Earl.svg (31) William Child-Villiers, 10th Earl of Jersey (b. 1976)
+                                        -   (31) William Child-Villiers, 10th Earl of Jersey (b. 1976)
                                             -   (32) George Child-Villiers, Viscount Villiers (b. 2015)
                                         -   (33) Jamie Child-Villiers (b. 1994)
                                 -   _Edward Child-Villiers (1913–1980)_
@@ -244,7 +244,7 @@ Earls of Marlborough, second creation (1689)
 
 Dukes of Marlborough (1702)
 
-John_Churchill,_Marquis_of_Blandford_(1686-1703),_studio_of_Godfrey_Kneller.jpg (1686–1703)]]
+(1686–1703)]]
 
     _Other titles: Marquess of Blandford (England 1702), Earl of Marlborough, in the county of Wiltshire (En 1689) and Baron Churchill of Sandridge, in the county of Hertford (England 1685)_
     _Other titles (1st Duke): Lord Churchill of Eyemouth, in the county of Berwick (Scotland 1682)_
@@ -272,8 +272,6 @@ The heir apparent to the dukedom is George John Godolphin Spencer-Churchill, Mar
 
 
 Family tree
-
-The_1st_Duke_of_Marlborough's_genealogy.PNG
 
 
 References

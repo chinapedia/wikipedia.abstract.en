@@ -41,7 +41,7 @@ With the 19th century, Gothenburg evolved into a modern industrial city that con
 
 Geography
 
-Göteborg_in_moon_light.jpg Gothenburg is located on the west coast, in southwestern Sweden, about halfway between the capitals Copenhagen, Denmark, and Oslo, Norway. The location at the mouth of the Göta älv, which feeds into Kattegatt, an arm of the North Sea, has helped the city grow in significance as a trading city. The archipelago of Gothenburg consists of rough, barren rocks and cliffs, which also is typical for the coast of Bohuslän.[37] Due to the Gulf Stream, the city has a mild climate and moderately heavy precipitation.[38] It is the second-largest city in Sweden after the capital Stockholm.[39]
+Gothenburg is located on the west coast, in southwestern Sweden, about halfway between the capitals Copenhagen, Denmark, and Oslo, Norway. The location at the mouth of the Göta älv, which feeds into Kattegatt, an arm of the North Sea, has helped the city grow in significance as a trading city. The archipelago of Gothenburg consists of rough, barren rocks and cliffs, which also is typical for the coast of Bohuslän.[37] Due to the Gulf Stream, the city has a mild climate and moderately heavy precipitation.[38] It is the second-largest city in Sweden after the capital Stockholm.[39]
 
 The Gothenburg Metropolitan Area (_Stor-Göteborg_) has 982,360 inhabitants and extends to the municipalities of Ale, Alingsås, Göteborg, Härryda, Kungälv, Lerum, Lilla Edet, Mölndal, Partille, Stenungsund, Tjörn, Öckerö within Västra Götaland County, and Kungsbacka within Halland County.[40]
 
@@ -57,7 +57,7 @@ Summers are warm and pleasant with average high temperatures of and lows of , bu
 
 Parks and nature
 
-BotDSCF3134.jpg Gothenburg has several parks and nature reserves ranging in size from tens of square metres to hundreds of hectares. It also has many green areas that are not designated as parks or reserves.
+Gothenburg has several parks and nature reserves ranging in size from tens of square metres to hundreds of hectares. It also has many green areas that are not designated as parks or reserves.
 
 Selection of parks:
 
@@ -76,7 +76,7 @@ Selection of parks:
 
 Architecture
 
-Gothenburgcity.jpg Very few houses are left from the 17th century when the city was founded, since all but the military and royal houses were built of wood.[60] A rare exception is the Skansen Kronan.[61]
+Very few houses are left from the 17th century when the city was founded, since all but the military and royal houses were built of wood.[60] A rare exception is the Skansen Kronan.[61]
 
 The first major architecturally interesting period is the 18th century when the East India Company made Gothenburg an important trade city. Imposing stone houses in Neo-Classical style were erected around the canals. One example from this period is the East India House, which today houses the Göteborg City Museum.[62]
 
@@ -94,11 +94,11 @@ Gustaf Adolf Square is a town square located in central Gothenburg. Noted buildi
 
 Characteristic buildings
 
-Barken_Viking_i_Göteborg.JPG The Gothenburg Central Station is in the centre of the city, next to Nordstan and Drottningtorget.[75] The building has been renovated and expanded numerous times since the grand opening in October 1858. In 2003, a major reconstruction was finished which brought the 19th-century building into the 21st century expanding the capacity for trains, travellers, and shopping.[76] Not far from the central station is the Skanskaskrapan, or more commonly known as "The Lipstick". It is high with 22 floors and coloured in red-white stripes. The skyscraper was designed by Ralph Erskine and built by Skanska in the late 1980s as the headquarters for the company.[77]
+The Gothenburg Central Station is in the centre of the city, next to Nordstan and Drottningtorget.[75] The building has been renovated and expanded numerous times since the grand opening in October 1858. In 2003, a major reconstruction was finished which brought the 19th-century building into the 21st century expanding the capacity for trains, travellers, and shopping.[76] Not far from the central station is the Skanskaskrapan, or more commonly known as "The Lipstick". It is high with 22 floors and coloured in red-white stripes. The skyscraper was designed by Ralph Erskine and built by Skanska in the late 1980s as the headquarters for the company.[77]
 
 By the shore of the Göta Älv at Lilla Bommen is The Göteborg Opera. It was completed in 1994. The architect Jan Izikowitz was inspired by the landscape and described his vision as "Something that makes your mind float over the squiggling landscape like the wings of a seagull."[78]
 
-Feskekörka-1.jpg Feskekörka, or _Fiskhallen_, is an indoor fishmarket by the Rosenlundskanalen in central Gothenburg. Feskekörkan was opened on 1November 1874 and its name from the building's resemblance to a Gothic church.[79] The Gothenburg city hall is in the Beaux-Arts architectural style. The Gothenburg Synagogue at Stora Nygatan, near Drottningtorget, was built in 1855 according to the designs of the German architect August Krüger.[80]
+Feskekörka, or _Fiskhallen_, is an indoor fishmarket by the Rosenlundskanalen in central Gothenburg. Feskekörkan was opened on 1November 1874 and its name from the building's resemblance to a Gothic church.[79] The Gothenburg city hall is in the Beaux-Arts architectural style. The Gothenburg Synagogue at Stora Nygatan, near Drottningtorget, was built in 1855 according to the designs of the German architect August Krüger.[80]
 
 The Gunnebo House is a country house located to the south of Gothenburg, in Mölndal. It was built in a neoclassical architecture towards the end of the 18th century.[81] Created in the early 1900s was the Vasa Church. It is located in Vasastan and is built of granite in a neo-Romanesque style.[82]
 
@@ -107,7 +107,7 @@ Another noted construction is Brudaremossen TV Tower, one of the few partially g
 
 Culture
 
-Poseidon_statue.jpg The sea, trade, and industrial history of the city is evident in the cultural life of Gothenburg. It is also a popular destination for tourists on the Swedish west coast.
+The sea, trade, and industrial history of the city is evident in the cultural life of Gothenburg. It is also a popular destination for tourists on the Swedish west coast.
 
 Museums
 
@@ -117,13 +117,13 @@ Universeum is a public science centre that opened in 2001, the largest of its ki
 
 Leisure and entertainment
 
-Lisebergsentrén.jpg The most noted attraction is the amusement park Liseberg, located in the central part of the city. It is the largest amusement park in Scandinavia by number of rides,[92] and was chosen as one of the top ten amusement parks in the world (2005) by _Forbes_.[93] It is the most popular attraction in Sweden by number of visitors per year (more than 3 million).[94]
+The most noted attraction is the amusement park Liseberg, located in the central part of the city. It is the largest amusement park in Scandinavia by number of rides,[92] and was chosen as one of the top ten amusement parks in the world (2005) by _Forbes_.[93] It is the most popular attraction in Sweden by number of visitors per year (more than 3 million).[94]
 
 There are a number of independent theatre ensembles in the city, besides institutions such as Gothenburg City Theatre, Backa Theatre (youth theatre), and Folkteatern.[95]
 
 The main boulevard is called Kungsportsavenyn (commonly known as _Avenyn_, "The Avenue"). It is about long and starts at Götaplatsen – which is the location of the Gothenburg Museum of Art, the city's theatre, and the city library, as well as the concert hall – and stretches all the way to Kungsportsplatsen in the old city centre of Gothenburg, crossing a canal and a small park.[96] The _Avenyn_ was created in the 1860s and 1870s as a result of an international architecture contest, and is the product of a period of extensive town planning and remodelling.[97] _Avenyn_ has Gothenburg's highest concentration of pubs and clubs. Gothenburg's largest shopping centre (8th largest in Sweden), Nordstan, is located in central Gothenburg.[98]
 
-Haganygata.jpg Gothenburg's Haga district is known for its picturesque wooden houses[99] and its cafés serving the well-known _Haga bulle_ – a large cinnamon roll similar to the _kanelbulle_.[100]
+Gothenburg's Haga district is known for its picturesque wooden houses[99] and its cafés serving the well-known _Haga bulle_ – a large cinnamon roll similar to the _kanelbulle_.[100]
 
 Five Gothenburg restaurants have a star in the 2008 _Michelin Guide_: 28 +, Basement, Fond, Kock & Vin, Fiskekrogen, and Sjömagasinet.[101] The city has a number of star chefs – over the past decade, seven of the Swedish Chef of the Year awards have been won by people from Gothenburg.[102]
 
@@ -133,7 +133,7 @@ One of Gothenburg's most popular natural tourist attractions is the southern Got
 
 Festivals and fairs
 
-Goteborg_Gothia_Towers_4.jpg]] The annual Gothenburg Film Festival, is the largest film festival in Scandinavia.[105] The Gothenburg Book Fair, held each year in September.[106] It is the largest literary festival in Scandinavia, and the second largest book fair in Europe.[107]
+]] The annual Gothenburg Film Festival, is the largest film festival in Scandinavia.[105] The Gothenburg Book Fair, held each year in September.[106] It is the largest literary festival in Scandinavia, and the second largest book fair in Europe.[107]
 
 The International Science Festival in Gothenburg is an annual festival since April 1997, in central Gothenburg with thought-provoking science activities for the public. The festival is visited by about people each year.[108] This makes it the largest popular-science event in Sweden[109] and one of the leading popular-science events in Europe.[110]
 
@@ -141,7 +141,7 @@ Citing the financial crisis, the International Federation of Library Association
 
 Music
 
-Way_out_west-entrance.jpg Gothenburg has a diverse music community—the Gothenburg Symphony Orchestra is the best-known in classical music.[112] Gothenburg also was the birthplace of the Swedish composer Kurt Atterberg.[113] The first internationally successfully Swedish group, instrumental rock group The Spotnicks came from Gothenburg.[114] Bands such as The Soundtrack of Our Lives[115] and Ace of Base are well-known pop representatives of the city. During the 1970s, Gothenburg had strong roots in the Swedish progressive movement (progg) with such groups as Nationalteatern, Nynningen, and Motvind. The record company Nacksving and the editorial office for the magazine Musikens Makt which also were part of the progg movement was located in Gothenburg during this time as well.[116] There is also an active indie scene in Gothenburg. For example, the musician Jens Lekman was born in the suburb of Angered[117] and named his 2007 release _Night Falls Over Kortedala_ after another suburb, Kortedala.[118] Other internationally acclaimed indie artists include the electro pop duos Studio,[119] The Knife,[120] Air France,[121] The Tough Alliance,[122] songwriter José González,[123] and pop singer El Perro del Mar,[124] as well as genre-bending quartet Little Dragon fronted by vocalist Yukimi Nagano.[125] Another son of the city is one of Sweden's most popular singers, Håkan Hellström, who often includes many places from the city in his songs.[126][127] The glam rock group Supergroupies derives from Gothenburg.[128]
+Gothenburg has a diverse music community—the Gothenburg Symphony Orchestra is the best-known in classical music.[112] Gothenburg also was the birthplace of the Swedish composer Kurt Atterberg.[113] The first internationally successfully Swedish group, instrumental rock group The Spotnicks came from Gothenburg.[114] Bands such as The Soundtrack of Our Lives[115] and Ace of Base are well-known pop representatives of the city. During the 1970s, Gothenburg had strong roots in the Swedish progressive movement (progg) with such groups as Nationalteatern, Nynningen, and Motvind. The record company Nacksving and the editorial office for the magazine Musikens Makt which also were part of the progg movement was located in Gothenburg during this time as well.[116] There is also an active indie scene in Gothenburg. For example, the musician Jens Lekman was born in the suburb of Angered[117] and named his 2007 release _Night Falls Over Kortedala_ after another suburb, Kortedala.[118] Other internationally acclaimed indie artists include the electro pop duos Studio,[119] The Knife,[120] Air France,[121] The Tough Alliance,[122] songwriter José González,[123] and pop singer El Perro del Mar,[124] as well as genre-bending quartet Little Dragon fronted by vocalist Yukimi Nagano.[125] Another son of the city is one of Sweden's most popular singers, Håkan Hellström, who often includes many places from the city in his songs.[126][127] The glam rock group Supergroupies derives from Gothenburg.[128]
 
 Gothenburg's own commercially successful At the Gates, In Flames, and Dark Tranquillity are credited with pioneering melodic death metal.[129] Other well-known bands of the Gothenburg scene are thrash metal band The Haunted,[130] progressive power metal band Evergrey,[131] and power metal bands HammerFall and Dream Evil.[132]
 
@@ -149,7 +149,7 @@ Many music festivals take place in the city every year. The Metaltown Festival i
 
 Sports
 
-Fyrverkeri_på_Gothia.jpg As in all of Sweden, a variety of sports are followed, including football, ice hockey, basketball, handball, baseball, and figure skating. A varied amateur and professional sports clubs scene exists.[137]
+As in all of Sweden, a variety of sports are followed, including football, ice hockey, basketball, handball, baseball, and figure skating. A varied amateur and professional sports clubs scene exists.[137]
 
 Gothenburg is the birthplace of football in Sweden as the first football match in Sweden was played there in 1892.[138] The city's three major football clubs, IFK Göteborg, Örgryte IS, and GAIS[139] share a total of 34 Swedish championships between them.[140] IFK has also won the UEFA Cup twice.[141] Other notable clubs include BK Häcken (football),[142] Pixbo Wallenstam IBK (floorball),[143] multiple national handball champion Redbergslids IK,[144] and four-time national ice hockey champion Frölunda HC,[145] Gothenburg had a professional basketball team, Gothia Basket, until 2010 when it ceased.[146] The bandy department of GAIS, GAIS Bandy, played the first season in the highest division Elitserien last season. The group stage match between the main rivals Sweden and Russia in the 2013 Bandy World Championship was played at Arena Heden in central Gothenburg.[147]
 
@@ -159,7 +159,7 @@ The 2003 World Allround Speed Skating Championships were held in Rudhallen, Swed
 
 The only Swedish heavyweight champion of the world in boxing, Ingemar Johansson, who took the title from Floyd Paterson in 1959, was from Gothenburg.[152]
 
-Båtar_vid_Saltholmen.jpg Gothenburg has hosted a number of international sporting events including the 1958 FIFA World Cup,[153] the 1983 European Cup Winners' Cup Final,[154] an NFL preseason game on 14August 1988 between the Chicago Bears and the Minnesota Vikings,[155] the 1992 European Football Championship, the 1993[156] and the 2002 World Men's Handball Championship,[157] the 1995 World Championships in Athletics,[158] the 1997 World Championships in Swimming (short track),[159] the 2002 Ice Hockey World Championships,[160] the 2004 UEFA Cup final,[161] the 2006 European Championships in Athletics,[162] and the 2008 World Figure Skating Championships.[163] Annual events held in the city are the Gothia Cup[164] and the Göteborgsvarvet.[165] The annual Gothia Cup, is the world's largest football tournament with regards to the number of participants: in 2011, a total of 35,200 players from 1,567 teams and 72 nations participated.
+Gothenburg has hosted a number of international sporting events including the 1958 FIFA World Cup,[153] the 1983 European Cup Winners' Cup Final,[154] an NFL preseason game on 14August 1988 between the Chicago Bears and the Minnesota Vikings,[155] the 1992 European Football Championship, the 1993[156] and the 2002 World Men's Handball Championship,[157] the 1995 World Championships in Athletics,[158] the 1997 World Championships in Swimming (short track),[159] the 2002 Ice Hockey World Championships,[160] the 2004 UEFA Cup final,[161] the 2006 European Championships in Athletics,[162] and the 2008 World Figure Skating Championships.[163] Annual events held in the city are the Gothia Cup[164] and the Göteborgsvarvet.[165] The annual Gothia Cup, is the world's largest football tournament with regards to the number of participants: in 2011, a total of 35,200 players from 1,567 teams and 72 nations participated.
 
 Gothenburg hosted the XIII FINA World Masters Championships in 2010.[166] Diving, swimming, synchronized swimming and open-water competitions were held on 28July to 7August. The water polo events were played on the neighboring city of Borås.[167]
 
@@ -172,7 +172,7 @@ The Gothenburg Amateur Diving Club (Göteborgs amatördykarklubb) Has been opera
 
 Economy
 
-Wingquist_bearing00.jpg Due to Gothenburg's advantageous location in the centre of Scandinavia, trade and shipping have always played a major role in the city's economic history, and they continue to do so. Gothenburg port has come to be the largest harbour in Scandinavia.[172]
+Due to Gothenburg's advantageous location in the centre of Scandinavia, trade and shipping have always played a major role in the city's economic history, and they continue to do so. Gothenburg port has come to be the largest harbour in Scandinavia.[172]
 
 Apart from trade, the second pillar of Gothenburg has traditionally been manufacturing and industry, which significantly contributes to the city's wealth.[173] Major companies operating plants in the area include SKF, Volvo (both cars and trucks), and Ericsson. Volvo Cars is the largest employer in Gothenburg, not including jobs in supply companies. The blue-collar industries which have dominated the city for long are still important factors in the city's economy, but they are being gradually replaced by high-tech industries.[174][175]
 
@@ -232,7 +232,7 @@ Transport
 
 Public transport
 
-Tram_2_at_Brunnsparken.jpg With over of double track, the Gothenburg tram network covers most of the city and is the largest tram/light rail network in Scandinavia. Gothenburg also has a bus network. Boat and ferry services connect the Gothenburg archipelago to the mainland. The lack of a subway is due to the soft ground on which Gothenburg is situated. Tunneling is very expensive in such conditions.[196] The Gothenburg commuter rail with three lines services some nearby cities and towns.[197]
+With over of double track, the Gothenburg tram network covers most of the city and is the largest tram/light rail network in Scandinavia. Gothenburg also has a bus network. Boat and ferry services connect the Gothenburg archipelago to the mainland. The lack of a subway is due to the soft ground on which Gothenburg is situated. Tunneling is very expensive in such conditions.[196] The Gothenburg commuter rail with three lines services some nearby cities and towns.[197]
 
 Rail and intercity bus
 
@@ -248,7 +248,7 @@ The second airport in the area, Göteborg City Airport , is closed. On 13January
 
 Sea
 
-Gothenburg,_Sweden,_from_the_Älsborgs_Bridge.jpg and to the right MS _Stena Scandinavica_ (1983).]] The Swedish company Stena Line operates between Gothenburg/Frederikshavn in Denmark and Gothenburg/Kiel in Germany.[205]
+and to the right MS _Stena Scandinavica_ (1983).]] The Swedish company Stena Line operates between Gothenburg/Frederikshavn in Denmark and Gothenburg/Kiel in Germany.[205]
 
 The "England ferry" (_Englandsfärjan_) to Newcastle via Kristiansand (run by the Danish company DFDS Seaways) ceased at the end of October 2006,[206] after being a Gothenburg institution since the 19th century.[207] DFDS Seaways' sister company, DFDS Tor Line, continues to run scheduled cargo ships between Gothenburg and several English ports, and these used to have limited capacity for passengers and their private vehicles. Also freight ships to North America and East Asia leave from the port.[208]
 
@@ -259,7 +259,7 @@ Gothenburg is an intermodal logistics hub and Gothenburg harbour has access to S
 
 Notable people
 
-Staty_Kal_ada_Lisebergs_entré.jpg Two of the noted people from Gothenburg are fictional, but have become synonymous with "people from Gothenburg". They are a working class couple called Kal and Ada, featured in "Gothenburg jokes" (_göteborgsvitsar_), songs, plays and names of events.[210][211] Each year two persons who have significantly contributed to culture in the city are given the honorary titles of "Kal and Ada".[212] A bronze statue of the couple made by Svenrobert Lundquist, was placed outside the entrance to Liseberg in 1995.[213]
+Two of the noted people from Gothenburg are fictional, but have become synonymous with "people from Gothenburg". They are a working class couple called Kal and Ada, featured in "Gothenburg jokes" (_göteborgsvitsar_), songs, plays and names of events.[210][211] Each year two persons who have significantly contributed to culture in the city are given the honorary titles of "Kal and Ada".[212] A bronze statue of the couple made by Svenrobert Lundquist, was placed outside the entrance to Liseberg in 1995.[213]
 
 Some of the noted people from Gothenburg are Academy Award Winning actress Alicia Vikander, cookbook author Sofia von Porat, footballer Gunnar Gren, artist Evert Taube, golfer Helen Alfredsson, industrialist Victor Hasselblad, singer-songwriter Björn Ulvaeus, diplomat Jan Eliasson, British Open Winner and professional golfer Henrik Stenson, and YouTuber PewDiePie.
 

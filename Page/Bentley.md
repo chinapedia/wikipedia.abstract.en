@@ -1,5 +1,3 @@
-Bentley_badge_and_hood_ornament-BW.jpg
-
 BENTLEY MOTORS LIMITED () is a British manufacturer and marketer of luxury cars and SUVs—and a subsidiary of the Volkswagen Group since 1998.[1]
 
 Headquartered in Crewe, England, the company was founded as Bentley Motors Limited by W. O. Bentley in 1919 in Cricklewood, North London—and became widely known for winning the 24 Hours of Le Mans in 1924, 1927, 1928, 1929, 1930, and 2003.
@@ -29,7 +27,7 @@ The Bentley enterprise was always underfunded, but inspired by the 1924 Le Mans 
 
 The Bentley Boys
 
-1929_Bentley_front_34_right.jpg The Bentley Boys were a group of British motoring enthusiasts that included Barnato, Sir Henry "Tim" Birkin, steeple chaser George Duller, aviator Glen Kidston, automotive journalist S.C.H. "Sammy" Davis, and Dudley Benjafield. The Bentley Boys favoured Bentley cars. Many were independently wealthy and many had a military background. They kept the marque's reputation for high performance alive; Bentley was noted for its four consecutive victories at the 24 Hours of Le Mans, from 1927 to 1930.
+The Bentley Boys were a group of British motoring enthusiasts that included Barnato, Sir Henry "Tim" Birkin, steeple chaser George Duller, aviator Glen Kidston, automotive journalist S.C.H. "Sammy" Davis, and Dudley Benjafield. The Bentley Boys favoured Bentley cars. Many were independently wealthy and many had a military background. They kept the marque's reputation for high performance alive; Bentley was noted for its four consecutive victories at the 24 Hours of Le Mans, from 1927 to 1930.
 
 In 1929, Birkin developed the 4½-litre, lightweight Blower Bentley at Welwyn Garden City and produced five racing specials, starting with Bentley Blower No.1 which was optimised for the Brooklands racing circuit. Birkin overruled Bentley and put the model on the market before it was fully developed. As a result, it was unreliable.
 
@@ -39,7 +37,7 @@ Barnato drove his H.J. Mulliner–bodied formal saloon in the race against the B
 
 Cricklewood Bentleys
 
-Bentley_Berline_8_liter_pic2.JPG 4-door sports saloon]]
+4-door sports saloon]]
 
 -   1921–1929 3-litre
 -   1926–1930 4½-litre & "Blower Bentley"
@@ -56,7 +54,7 @@ The new eight-litre was such a success that when Barnato's money seemed to run o
 
 Performance at Le Mans
 
-Bentley_6,5-Litre_Speed_Six_Tourer.jpg]]
+]]
 
 24 hours of Le Mans Grand Prix d'Endurance
 
@@ -84,7 +82,7 @@ Rolls-Royce (1931–1970)
 
 Derby
 
-1935-bentley-archives.jpg Rolls-Royce took over the assets of Bentley Motors (1919) Ltd and formed a subsidiary, Bentley Motors (1931) Ltd. Rolls-Royce had acquired the Bentley showrooms in Cork Street, the service station at Kingsbury, the complex at Cricklewood and the services of Bentley himself. This last was disputed by Napier in court without success. Bentley had neglected to register their trademark so Rolls-Royce immediately did so. They also sold the Cricklewood factory in 1932. Production stopped for two years,[17] before resuming at the Rolls-Royce works in Derby. Unhappy with his role at Rolls-Royce, when his contract expired at the end of April 1935 W. O. Bentley left to join Lagonda.
+Rolls-Royce took over the assets of Bentley Motors (1919) Ltd and formed a subsidiary, Bentley Motors (1931) Ltd. Rolls-Royce had acquired the Bentley showrooms in Cork Street, the service station at Kingsbury, the complex at Cricklewood and the services of Bentley himself. This last was disputed by Napier in court without success. Bentley had neglected to register their trademark so Rolls-Royce immediately did so. They also sold the Cricklewood factory in 1932. Production stopped for two years,[17] before resuming at the Rolls-Royce works in Derby. Unhappy with his role at Rolls-Royce, when his contract expired at the end of April 1935 W. O. Bentley left to join Lagonda.
 
 When the new Bentley 3½ litre appeared in 1933, it was a sporting variant of the Rolls-Royce 20/25, which disappointed some traditional customers yet was well received by many others. W. O. Bentley was reported as saying, "Taking all things into consideration, I would rather own this Bentley than any other car produced under that name".[18] Rolls-Royce's advertisements for the  Litre called it "the silent sports car",[19] a slogan Rolls-Royce continued to use for Bentley cars until the 1950s.[20]
 
@@ -103,15 +101,15 @@ In preparation for war, Rolls-Royce and the British Government searched for a lo
 
 Standard Steel saloons
 
-Bentley_MK_VI_DE-14-32_pic3.JPG standard steel saloon, the first Bentley supplied by Rolls-Royce with a standard all-steel body]] Until some time after World War II, most high-end motorcar manufacturers like Bentley and Rolls-Royce did not supply complete cars. They sold rolling chassis, near-complete from the instrument panel forward. Each chassis was delivered to the coach builder of the buyer's choice. The biggest specialist car dealerships had coachbuilders build standard designs for them which were held in stock awaiting potential buyers.
+standard steel saloon, the first Bentley supplied by Rolls-Royce with a standard all-steel body]] Until some time after World War II, most high-end motorcar manufacturers like Bentley and Rolls-Royce did not supply complete cars. They sold rolling chassis, near-complete from the instrument panel forward. Each chassis was delivered to the coach builder of the buyer's choice. The biggest specialist car dealerships had coachbuilders build standard designs for them which were held in stock awaiting potential buyers.
 
-Bentley_MK_VI_project_4951122539.jpg To meet post-war demand, particularly UK Government pressure to export and earn overseas currency, Rolls-Royce developed an all steel body using pressings made by Pressed Steel to create a "standard" ready-to-drive complete saloon car. The first steel-bodied model produced was the Bentley Mark VI: these started to emerge from the newly reconfigured Crewe factory early in 1946.[27][28] Some years later, initially only for export, the Rolls-Royce Silver Dawn was introduced, a standard steel Bentley but with a Rolls-Royce radiator grille for a small extra charge, and this convention continued.
+To meet post-war demand, particularly UK Government pressure to export and earn overseas currency, Rolls-Royce developed an all steel body using pressings made by Pressed Steel to create a "standard" ready-to-drive complete saloon car. The first steel-bodied model produced was the Bentley Mark VI: these started to emerge from the newly reconfigured Crewe factory early in 1946.[27][28] Some years later, initially only for export, the Rolls-Royce Silver Dawn was introduced, a standard steel Bentley but with a Rolls-Royce radiator grille for a small extra charge, and this convention continued.
 
 Chassis remained available to coachbuilders until the end of production of the Bentley S3, which was replaced for October 1965 by the chassis-less monocoque construction T series.
 
 Bentley Continental
 
-Bentley_SI_Continental_Fastback_Coupe_Mulliner.jpg The Continental fastback coupé was aimed at the UK market, most cars, 164 plus a prototype, being right-hand drive. The chassis was produced at the Crewe factory and shared many components with the standard R type. Other than the R-Type standard steel saloon, R-Type Continentals were delivered as rolling chassis to the coachbuilder of choice. Coachwork for most of these cars was completed by H. J. Mulliner & Co. who mainly built them in fastback coupe form. Other coachwork came from Park Ward (London) who built six, later including a drophead coupe version. Franay (Paris) built five, Graber (Wichtrach, Switzerland) built three, one of them later altered by Köng (Basel, Switzerland), and Pininfarina made one. James Young (London) built in 1954 a Sports Saloon for the owner of James Young's, James Barclay.
+The Continental fastback coupé was aimed at the UK market, most cars, 164 plus a prototype, being right-hand drive. The chassis was produced at the Crewe factory and shared many components with the standard R type. Other than the R-Type standard steel saloon, R-Type Continentals were delivered as rolling chassis to the coachbuilder of choice. Coachwork for most of these cars was completed by H. J. Mulliner & Co. who mainly built them in fastback coupe form. Other coachwork came from Park Ward (London) who built six, later including a drophead coupe version. Franay (Paris) built five, Graber (Wichtrach, Switzerland) built three, one of them later altered by Köng (Basel, Switzerland), and Pininfarina made one. James Young (London) built in 1954 a Sports Saloon for the owner of James Young's, James Barclay.
 
 The early R Type Continental has essentially the same engine as the standard R Type, but with modified carburation, induction and exhaust manifolds along with higher gear ratios.[29] After July 1954 the car was fitted with an engine, having now a larger bore of 94.62 mm (3.7 in) with a total displacement of . The compression ratio was raised to 7.25:1.
 
@@ -138,13 +136,13 @@ File:1951 Bentley MK VI HJM 2-door saloon 8160965887.jpg |"The silent sports car
 
 Vickers (1970–1998)
 
-Bentley_Logo_on_White_Car.jpg The problems of Bentley's owner with Rolls-Royce aero engine development, the RB211, brought about the financial collapse of its business in 1970.
+The problems of Bentley's owner with Rolls-Royce aero engine development, the RB211, brought about the financial collapse of its business in 1970.
 
 The motorcar division was made a separate business, Rolls-Royce Motors Limited, which remained independent until bought by Vickers plc in August 1980. By the 1970s and early 1980s Bentley sales had fallen badly; at one point less than 5% of combined production carried the Bentley badge.[30] Under Vickers, Bentley set about regaining its high-performance heritage, typified by the 1980 Mulsanne. Bentley's restored sporting image created a renewed interest in the name and Bentley sales as a proportion of output began to rise. By 1986 the Bentley:Rolls-Royce ratio had reached 40:60; by 1991 it achieved parity.[31]
 
 Crewe Vickers Bentleys
 
-Bentley_Mulsanne_Blue_NEC.JPG]] Bentley_Brooklands.JPG]]
+]] ]]
 
 -   1984–1995 Continental: convertible
     -   1992–1995 Continental Turbo
@@ -174,13 +172,13 @@ Volkswagen (1998–present)
 
 In October 1997, Vickers announced that it had decided to sell Rolls-Royce Motors. BMW AG seemed to be a logical purchaser because BMW already supplied engines and other components for Bentley and Rolls-Royce branded cars and because of BMW and Vickers joint efforts in building aircraft engines. BMW made a final offer of £340m, but was outbid by Volkswagen AG, which offered £430m. Volkswagen AG acquired the vehicle designs, model nameplates, production and administrative facilities, the Spirit of Ecstasy and Rolls-Royce grille shape trademarks, but not the rights to the use of the Rolls-Royce name or logo, which are owned by Rolls-Royce Holdings plc. In 1998, BMW started supplying components for the new range of Rolls-Royce and Bentley cars—notably V8 engines for the Bentley Arnage and V12 engines for the Rolls-Royce Silver Seraph, however, the supply contract allowed BMW to terminate its supply deal with Rolls-Royce with 12 months' notice, which would not be enough time for Volkswagen to re-engineer the cars.
 
-bentleyazure.JPG Mulliner 2003 Final Series]] BMW paid Rolls-Royce plc £40m to license the Rolls-Royce name and logo. After negotiations, BMW and Volkswagen AG agreed that, from 1998 to 2002, BMW would continue to supply engines and components and would allow Volkswagen temporary use of the Rolls-Royce name and logo. All BMW engine supply ended in 2003 with the end of Silver Seraph production.
+Mulliner 2003 Final Series]] BMW paid Rolls-Royce plc £40m to license the Rolls-Royce name and logo. After negotiations, BMW and Volkswagen AG agreed that, from 1998 to 2002, BMW would continue to supply engines and components and would allow Volkswagen temporary use of the Rolls-Royce name and logo. All BMW engine supply ended in 2003 with the end of Silver Seraph production.
 
 From 1 January 2003 forward, Volkswagen AG would be the sole provider of cars with the "Bentley" marque. BMW established a new legal entity, Rolls-Royce Motor Cars Limited, and built a new administrative headquarters and production facility for Rolls-Royce branded vehicles in Goodwood, West Sussex, England.
 
 Investment and company development
 
-SC06_Three_Modern_Bentleys.jpg, Continental GT, and Arnage]] 2002_Bentley_State_Limousine.jpg's Bentley State Limousine]] Bentley_Bentayga_2015_-_front.jpg Bentley_Arnage_T_(1998).jpg Bentley_Continental_Flying_Spur.jpg Bentley_Continental_GT_(II)_-_Frontansicht_(1),_30._August_2011,_Düsseldorf_newbg.jpg Bentley_Continental_GTC_Top_Marques_2019_IMG_1078.jpg
+, Continental GT, and Arnage]] 's Bentley State Limousine]]
 
 After acquiring the business, Volkswagen spent GBP500 million (about US$845 million) to modernise the Crewe factory and increase production capacity.[32] As of early 2010, there are about 3,500 working at Crewe, compared with about 1,500 in 1998 before being taken over by Volkswagen.[33] It was reported that Volkswagen invested a total of nearly US$2 billion in Bentley and its revival.[34] As a result of upgrading facilities at Crewe the bodywork now arrives fully painted at the Crewe facility for final assembly, with the parts coming from Germany—similarly Rolls-Royce body shells are painted and shipped to the UK for assembly only.
 
@@ -234,7 +232,7 @@ Unsold cars: During the years 2011 and 2012 production exceeded deliveries by 1,
 
 Crewe Volkswagen Bentleys
 
-Geneva_International_Motor_Show_2018,_Le_Grand-Saconnex_(1X7A0019).jpg presents the Bentayga Hybrid at Geneva International Motor Show 2018]]
+presents the Bentayga Hybrid at Geneva International Motor Show 2018]]
 
 Car models in current production
 

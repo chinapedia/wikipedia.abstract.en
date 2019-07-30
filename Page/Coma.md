@@ -115,7 +115,7 @@ Assessment of the brainstem and cortical function through special reflex tests s
 |                                            | -   Those in comatose states will often demonstrate poor gag reflexes if there has been damage to their glossopharyngeal (CN 9) or vagus nerve (CN 10).[30]                                                                                                                                                    |
 +--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Decorticate.PNG, indicating a lesion at the red nucleus or above. This positioning is stereotypical for upper brain stem, or cortical damage. The other variant is decerebrate posturing, not seen in this picture.]]
+, indicating a lesion at the red nucleus or above. This positioning is stereotypical for upper brain stem, or cortical damage. The other variant is decerebrate posturing, not seen in this picture.]]
 
 Assessment of posture and physique is the next step. It involves general observation about the patient's positioning. There are often two stereotypical postures seen in comatose patients. Decorticate posturing is a stereotypical posturing in which the patient has arms flexed at the elbow, and arms adducted toward the body, with both legs extended. Decerebrate posturing is a stereotypical posturing in which the legs are similarly extended (stretched), but the arms are also stretched (extended at the elbow). The posturing is critical since it indicates where the damage is in the central nervous system. A decorticate posturing indicates a lesion (a point of damage) at or above the red nucleus, whereas a decerebrate posturing indicates a lesion at or below the red nucleus. In other words, a decorticate lesion is closer to the cortex, as opposed to a decerebrate posturing which indicates that the lesion is closer to the brainstem.
 
@@ -125,10 +125,10 @@ Pupil assessment is often a critical portion of a comatose examination, as it ca
 
   Pupil sizes (left eye vs. right eye)   Possible interpretation
   -------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Darkblue.jpg                           Normal eye with two pupils equal in size and reactive to light. This means that the patient is probably not in a coma and is probably lethargic, under influence of a drug, or sleeping.
-  Myosis_due_to_opiate_use.jpg           "Pinpoint" pupils indicate heroin or opiate overdose, which can be responsible for a patient's coma. The pinpoint pupils are still reactive to light, bilaterally (in both eyes, not just one). Another possibility is the damage of the pons.[32]
-  Anizokoria.JPG                         One pupil is dilated and unreactive, while the other is normal (in this case, the right eye is dilated, while the left eye is normal in size). This could mean a damage to the oculomotor nerve (cranial nerve number 3, CN III) on the right side, or possibility of vascular involvement.
-  Cyclopentolate_1_percent_Pupils.jpg    Both pupils are dilated and unreactive to light. This could be due to overdose of certain medications, hypothermia or severe anoxia (lack of oxygen).
+                                         Normal eye with two pupils equal in size and reactive to light. This means that the patient is probably not in a coma and is probably lethargic, under influence of a drug, or sleeping.
+                                         "Pinpoint" pupils indicate heroin or opiate overdose, which can be responsible for a patient's coma. The pinpoint pupils are still reactive to light, bilaterally (in both eyes, not just one). Another possibility is the damage of the pons.[32]
+                                         One pupil is dilated and unreactive, while the other is normal (in this case, the right eye is dilated, while the left eye is normal in size). This could mean a damage to the oculomotor nerve (cranial nerve number 3, CN III) on the right side, or possibility of vascular involvement.
+                                         Both pupils are dilated and unreactive to light. This could be due to overdose of certain medications, hypothermia or severe anoxia (lack of oxygen).
 
 Severity
 
@@ -297,7 +297,7 @@ Category:Intensive care medicine Category:Emergency medicine Category:Symptoms a
 
 [47]
 
-[48]  CC-BY_icon.svg Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
+[48]  Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
 
 [49]
 

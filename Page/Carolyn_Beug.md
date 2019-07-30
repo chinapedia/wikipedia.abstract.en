@@ -13,7 +13,7 @@ Beug lived in a Tudor-style home in the North 25th Street neighborhood. She host
 
 Death and legacy
 
-12.6.11CarolynBeugPanelN-1ByLuigiNovi2.jpg’s North Pool, with those of other passengers of Flight 11]] Beug was killed at the age of 48 in the crash of American Airlines Flight 11 in the September 11, 2001 attacks. At the time of her death, Carolyn Beug was working on a children's book about Noah's Ark which was to be told from Noah's wife's point of view. On the plane with her was her mother, Mary Alice Wahlstrom. Beug was survived by her twin eighteen-year-old daughters Lauren and Lindsey Mayer-Beug, her 13-year-old son, Nick, and her husband, John Beug, a senior vice president in charge of filmed production for Warner Brothers' record division. She was returning home from taking her daughters to college at the Rhode Island School of Design.[4]
+’s North Pool, with those of other passengers of Flight 11]] Beug was killed at the age of 48 in the crash of American Airlines Flight 11 in the September 11, 2001 attacks. At the time of her death, Carolyn Beug was working on a children's book about Noah's Ark which was to be told from Noah's wife's point of view. On the plane with her was her mother, Mary Alice Wahlstrom. Beug was survived by her twin eighteen-year-old daughters Lauren and Lindsey Mayer-Beug, her 13-year-old son, Nick, and her husband, John Beug, a senior vice president in charge of filmed production for Warner Brothers' record division. She was returning home from taking her daughters to college at the Rhode Island School of Design.[4]
 
 At the National 9/11 Memorial, Beug is memorialized at the North Pool, on Panel N-1.[5]
 

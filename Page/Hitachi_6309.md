@@ -1,13 +1,9 @@
-HD63C09EP.jpg
-
 The 6309 is Hitachi's CMOS version of the Motorola 6809 microprocessor. While in "Emulation Mode" it is fully compatible with the 6809. To the 6809 specifications it adds higher clock rates, enhanced features, new instructions, and additional registers. Most new instructions were added to support the additional registers, as well as up to 32-bit math, hardware division, bit manipulations, and block transfers. The 6309 is generally 30% faster in native mode than the 6809.
 
 Surprisingly, this information was never published by Hitachi. The April 1988 issue of _Oh! FM_, a Japanese magazine for Fujitsu personal computer users, contained the first description of the 6309's additional capabilities. Later, Hirotsugu Kakugawa posted details of the 6309's new features and instructions to comp.sys.m6809. This led to the development of NitrOS9 for the Tandy Color Computer 3.
 
 
 Programming Model
-
-6309programmingmodel.png
 
 
 Differences from the Motorola 6809

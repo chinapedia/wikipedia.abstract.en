@@ -1,4 +1,4 @@
-Silver_denarius_of_Clodius_Macer_68_CE.jpg issued for the anti-Neronian rebel Clodius Macer in 68 AD]] CLODIUS is an alternate form of the Roman _nomen_ Claudius, a patrician _gens_ that was traditionally regarded as Sabine in origin. The alternation of _o_ and _au_ is characteristic of the Sabine dialect. The feminine form is CLODIA.
+issued for the anti-Neronian rebel Clodius Macer in 68 AD]] CLODIUS is an alternate form of the Roman _nomen_ Claudius, a patrician _gens_ that was traditionally regarded as Sabine in origin. The alternation of _o_ and _au_ is characteristic of the Sabine dialect. The feminine form is CLODIA.
 
 
 Republican era
@@ -21,7 +21,7 @@ In addition to Clodius, Clodii from the Republican era include:
 
 Imperial era
 
-Rilievo_funerario_di_p._clodius_philonicus,_70-100_dc..JPG for Publius Clodius Philonicus, 70-100 AD]] People using the name _Clodius_ during the period of the Roman Empire include:
+for Publius Clodius Philonicus, 70-100 AD]] People using the name _Clodius_ during the period of the Roman Empire include:
 
 -   Caius Clodius Vestalis, possible builder of the Via Clodia
 -   Publius Clodius Thrasea Paetus, senator and philosopher during the reign of Nero

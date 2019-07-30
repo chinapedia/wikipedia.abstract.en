@@ -1,4 +1,4 @@
-Carl_XCH-4.jpg _XCH-4_, with hydrofoils clearly lifting the hull out of the water]] A HYDROFOIL is a lifting surface, or foil, that operates in water. They are similar in appearance and purpose to aerofoils used by aeroplanes. Boats that use hydrofoil technology are also simply termed hydrofoils. As a hydrofoil craft gains speed, the hydrofoils lift the boat's hull out of the water, decreasing drag and allowing greater speeds.
+_XCH-4_, with hydrofoils clearly lifting the hull out of the water]] A HYDROFOIL is a lifting surface, or foil, that operates in water. They are similar in appearance and purpose to aerofoils used by aeroplanes. Boats that use hydrofoil technology are also simply termed hydrofoils. As a hydrofoil craft gains speed, the hydrofoils lift the boat's hull out of the water, decreasing drag and allowing greater speeds.
 
 
 Description
@@ -9,8 +9,6 @@ Wider adoption of hydrofoils is prevented by the increased complexity of buildin
 
 
 Hydrodynamic mechanics
-
-Hydrofoil_types.svg
 
 Since air and water are governed by similar fluid equations—albeit with different levels of viscosity, density, and compressibility—the hydrofoil and airfoil (both types of foil) create lift in identical ways. The foil shape moves smoothly through the water, deflecting the flow downward, which, following the Euler equations, exerts an upward force on the foil. This turning of the water creates higher pressure on the bottom of the foil and reduced pressure on the top. This pressure difference is accompanied by a velocity difference, via Bernoulli's principle, so the resulting flow field about the foil has a higher average velocity on one side than the other.
 
@@ -23,7 +21,7 @@ Early hydrofoils used V-shaped foils. Hydrofoils of this type are known as "surf
 
 History
 
-Forlanini_Idroplano-Forlani_Hydrofoil_1910.jpg hydrofoil over Lake Maggiore, 1906]]
+hydrofoil over Lake Maggiore, 1906]]
 
 Prototypes
 
@@ -31,15 +29,13 @@ The first evidence of a hydrofoil on a vessel appears on a British patent grante
 
 Between 1899 and 1901, British boat designer John Thornycroft worked on a series of models with a stepped hull and single bow foil. In 1909 his company built the full scale long boat, _Miranda III_. Driven by a engine, it rode on a bowfoil and flat stern. The subsequent _Miranda IV_ was credited with a speed of .[6]
 
-Bell_HD-4.jpg's _HD-4_ on a test run, c.1919]]
+'s _HD-4_ on a test run, c.1919]]
 
 A March 1906 Scientific American article by American hydrofoil pioneer William E. Meacham explained the basic principle of hydrofoils. Alexander Graham Bell considered the invention of the hydroplane a very significant achievement, and after reading the article began to sketch concepts of what is now called a hydrofoil boat. With his chief engineer Casey Baldwin, Bell began hydrofoil experiments in the summer of 1908. Baldwin studied the work of the Italian inventor Enrico Forlanini and began testing models based on those designs, which led to the development of hydrofoil watercraft. During Bell's world tour of 1910–1911, Bell and Baldwin met with Forlanini in Italy, where they rode in his hydrofoil boat over Lake Maggiore. Baldwin described it as being as smooth as flying.
 
 On returning to Bell's large laboratory at his Beinn Bhreagh estate near Baddeck, Nova Scotia, they experimented with a number of designs, culminating in Bell's _HD-4_. Using Renault engines, a top speed of was achieved, accelerating rapidly, taking waves without difficulty, steering well and showing good stability. Bell's report to the United States Navy permitted him to obtain two 260 kW (350 hp) engines. On 9 September 1919 the _HD-4_ set a world marine speed record of , which stood for two decades.[7] A full-scale replica of the _HD-4_ is viewable at the Alexander Graham Bell National Historic Site museum in Baddeck, Nova Scotia.
 
 In the early 1950s an English couple built the _White Hawk_, a jet-powered hydrofoil water craft, in an attempt to beat the absolute water speed record.[8] However, in tests, _White Hawk_ could barely top the record breaking speed of the 1919 _HD-4_. The designers had faced an engineering phenomenon that limits the top speed of even modern hydrofoils: cavitation disturbs the lift created by the foils as they move through the water at speed above , bending the lifting foil.[9]
-
-Fully_submerged_hydrofoils_self-stabilizing_system.svg
 
 First passenger boats
 
@@ -54,7 +50,7 @@ In 1961, SRI International issued a study on "The Economic Feasibility of Passen
 
 Military usage
 
-BTK_pr.206M2.jpg.]] Sparviero_DN-ST-84-03940.jpg Aerial_port_beam_view_of_USS_Aquila_(PHM-4)_underway_US_Navy_DN-SC-87-07089.jpg, a military hydrofoil. The T-shaped foils are visible just below the water.]] HMCS_Bras_d'Or_03.jpg
+.]] , a military hydrofoil. The T-shaped foils are visible just below the water.]]
 
 A 17-ton German craft _VS-6 Hydrofoil_ was designed and constructed in 1940, completed in 1941 for use as a mine layer, it was tested in the Baltic Sea, producing speeds of 47 knots. Tested against a standard E-boat over the next three years it performed well but was not brought into production. Being faster it could carry a higher payload and was capable of travelling over minefields but was prone to damage and noisier.[12]
 
@@ -84,16 +80,16 @@ Hobie Sailboats produced a production foiling trimaran, the Hobie Trifoiler, the
 
 A new kayak design, called Flyak, has hydrofoils that lift the kayak enough to significantly reduce drag, allowing speeds of up to . Some surfers have developed surfboards with hydrofoils called foilboards, specifically aimed at surfing big waves further out to sea.[19]
 
-Quadrofoil.jpg Quadrofoil Q2 is a two-seater, four-foiled hydrofoil electrical leisure watercraft. Its initial design was set in 2012 and it has been available commercially since the end of 2016. Powered by a 5.2-kWh lithium-ion battery pack and propelled by a 5.5 kW motor, it reaches the top speed of 40 km/h and has 80 km of range.[20][21][22]
+Quadrofoil Q2 is a two-seater, four-foiled hydrofoil electrical leisure watercraft. Its initial design was set in 2012 and it has been available commercially since the end of 2016. Powered by a 5.2-kWh lithium-ion battery pack and propelled by a 5.5 kW motor, it reaches the top speed of 40 km/h and has 80 km of range.[20][21][22]
 
 The Manta5 Hydrofoiler XE-1 is a Hydrofoil E-bike, designed and built in New Zealand. Initially designed in secret by Guy Howard-Willis in 2011, it has since been available commercially for pre-order in New Zealand since late 2017 [23] Propelled by a 400 watt motor, it can reach speeds exceeding 14 km/h with a weight of 22 kg. A single charge of the battery lasts an hour for a rider weighing 85kg. [24]
 
-Draagvleugelboot_Karla.jpg on the North Sea Canal, the Netherlands]] 20091105-TurboJET_Urzela.jpg's _Urzela_ JetFoil on West Lamma Channel, Hong Kong]] 20091109-TurboJET_Barca.jpg's _Barca_ Foilcat]]
+on the North Sea Canal, the Netherlands]] 's _Urzela_ JetFoil on West Lamma Channel, Hong Kong]] 's _Barca_ Foilcat]]
 
 
 Modern passenger boats
 
-MV_Flying_Poseidon_(1982)_and_Bodrum_Lines_Kometas_at_Rhodes_with_MV_Costa_Fortuna_11am_5-8-2011.jpg from Fethiye when the sister _Kometas_ hydrofoil[25] from Bodrum also arrived from Turkey in 2011.]]
+from Fethiye when the sister _Kometas_ hydrofoil[25] from Bodrum also arrived from Turkey in 2011.]]
 
 Soviet-built Voskhods are one of the most successful passenger hydrofoil designs. Manufactured in Russia and Ukraine, they are in service in more than 20 countries. The most recent model, Voskhod-2M FFF, also known as Eurofoil, was built in Feodosiya for the Dutch public transport operator Connexxion.[26]
 
@@ -111,7 +107,7 @@ Current operators of hydrofoils include:
 -   _Polesye_ service between Mozyr and Turov on the Pripyat River (Belarus).
 -   _Meteor_ service between Saint Petersburg, Russia and the Peterhof Palace, a summer palace of Russian tsars.
 
-St._Petersburg_Russia_Hydrofoil_boat.jpg, Russia from a run to Peterhof Palace.]] Hydrofoil_near_Piraeus.JPG, Greece.]]
+, Russia from a run to Peterhof Palace.]] , Greece.]]
 
 -   _Meteor_ service between Saint Petersburg, Russia and the Kronstadt, a strongly fortified Russian seaport town, located on Kotlin Island, near the head of the Gulf of Finland. It lies thirty kilometers west of Saint Petersburg. Since 2012 replaced by a catamaran _Mercury_.
 -   _Meteor_, _Raketa_ and _Voskhod_ hydrofoil types operate all over Volga, Don and Kama Rivers in Russia. Also the Lena River and Amur River.

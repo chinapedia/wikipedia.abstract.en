@@ -1,18 +1,18 @@
-New_Forest_calf.jpg, England]] A CALF (plural, CALVES) is the young of domestic cattle. Calves are reared to become adult cattle, or are slaughtered for their meat, called veal, and for their calfskin.
+, England]] A CALF (plural, CALVES) is the young of domestic cattle. Calves are reared to become adult cattle, or are slaughtered for their meat, called veal, and for their calfskin.
 
 The term "calf" is also used for some other species. See "Other animals" below.
 
 
 Terminology
 
-Cow_giving_birth,_in_Laos_(step_by_step).jpg "Calf" is the term used from birth to weaning, when it becomes known as a _weaner_ or _weaner calf_, though in some areas the term "calf" may be used until the animal is a yearling. The birth of a calf is known as _calving_. A calf that has lost its mother is an orphan calf, also known as a _poddy_ or _poddy-calf_ in British English. _Bobby calves_ are young calves which are to be slaughtered for human consumption.[1] A _vealer_ is a fat calf weighing less than about which is at about eight to nine months of age.[2] A young female calf from birth until she has had a calf of her own is called a _heifer_[3] (). In the American Old West, a motherless or small, runty calf was sometimes referred to as a _dogie,_ (pronounced with a long "o") .[4]
+"Calf" is the term used from birth to weaning, when it becomes known as a _weaner_ or _weaner calf_, though in some areas the term "calf" may be used until the animal is a yearling. The birth of a calf is known as _calving_. A calf that has lost its mother is an orphan calf, also known as a _poddy_ or _poddy-calf_ in British English. _Bobby calves_ are young calves which are to be slaughtered for human consumption.[1] A _vealer_ is a fat calf weighing less than about which is at about eight to nine months of age.[2] A young female calf from birth until she has had a calf of her own is called a _heifer_[3] (). In the American Old West, a motherless or small, runty calf was sometimes referred to as a _dogie,_ (pronounced with a long "o") .[4]
 
 The term "calf" is also used for some other species. See "Other animals" below.
 
 
 Early development
 
-Veau_nouveau-nébis.jpg Embryo_transfered_calves.JPG calves which were transferred, as embryos, into their Angus and Hereford recipient mothers.]] Calves may be produced by natural means, or by artificial breeding using artificial insemination or embryo transfer.[5]
+calves which were transferred, as embryos, into their Angus and Hereford recipient mothers.]] Calves may be produced by natural means, or by artificial breeding using artificial insemination or embryo transfer.[5]
 
 Calves are born after a gestation of nine months. They usually stand within a few minutes of calving, and suckle within an hour. However, for the first few days they are not easily able to keep up with the rest of the herd, so young calves are often left hidden by their mothers, who visit them several times a day to suckle them. By a week old the calf is able to follow the mother all the time.
 
@@ -34,7 +34,7 @@ Veal calves may be reared entirely on milk formula and killed at about 18 or 20 
 
 Growth
 
-Vaca.JPGged calf and cow in Andorra.]] Calf_suckling_at_a_meadow_near_Vrachesh,_Bulgaria.webm]] A commercial steer or bull calf is expected to put on about per month. A nine-month-old steer or bull is therefore expected to weigh about . Heifers will weigh at least at eight months of age.
+ged calf and cow in Andorra.]] ]] A commercial steer or bull calf is expected to put on about per month. A nine-month-old steer or bull is therefore expected to weigh about . Heifers will weigh at least at eight months of age.
 
 Calves are usually weaned at about eight to nine months of age, but depending on the season and condition of the dam, they might be weaned earlier. They may be paddock weaned, often next to their mothers, or weaned in stockyards. The latter system is preferred by some as it accustoms the weaners to the presence of people and they are trained to take feed other than grass.[7] Small numbers may also be weaned with their dams with the use of weaning nose rings or nosebands which results in the mothers rejecting the calves' attempts to suckle. Many calves are also weaned when they are taken to the large weaner auction sales that are conducted in the south eastern states of Australia. Victoria and New South Wales have yardings of up to 8,000 weaners (calves) for auction sale in one day.[8] The best of these weaners may go to the butchers. Others will be purchased by re-stockers to grow out and fatten on grass or as potential breeders. In the United States these weaners may be known as _feeders_ and would be placed directly into feedlots.
 

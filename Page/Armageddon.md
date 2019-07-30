@@ -1,4 +1,4 @@
-תל_מגידו.JPG site in northern Israel]] JPF-TelMegiddo.JPG
+site in northern Israel]]
 
 According to the Book of Revelation in the New Testament of the Bible, ARMAGEDDON (, from _Harmagedōn_,[1][2] Late Latin: ,[3] from Hebrew: Har Megiddo) is the prophesied location of a gathering of armies for a battle during the end times, variously interpreted as either a literal or a symbolic location. The term is also used in a generic sense to refer to any end of the world scenario.
 
@@ -12,7 +12,7 @@ The word _Armageddon_ appears only once in the Greek New Testament, in . The wor
 
 Christianity
 
-Johannes_op_Patmos_Saint_John_on_Patmos_Berlin,_Staatlichen_Museen_zu_Berlin,_Gemaldegalerie_HR.jpg (1505).]]
+(1505).]]
 
 Megiddo is mentioned twelve times in the Old Testament, ten times in reference to the ancient city of Megiddo, and twice with reference to "the plain of Megiddo", most probably simply meaning "the plain next to the city".[8] None of these Old Testament passages describes the city of Megiddo as being associated with any particular prophetic beliefs. The one New Testament reference to the city of Armageddon found in also makes no specific mention of any armies being predicted to one day gather in this city, but instead seems to predict only that "they (will gather) the kings together to .... Armageddon".[9] The text does however seem to imply, based on the text from the earlier passage of Revelation 16:14, that the purpose of this gathering of kings in the "place called Armageddon" is "for the war of the great day of God, the Almighty".  Because of the seemingly highly symbolic and even cryptic language of this one New Testament passage, some Christian scholars conclude that Mount Armageddon must be an idealized location.[10] R. J. Rushdoony says, "There are no mountains of Megiddo, only the Plains of Megiddo. This is a deliberate destruction of the vision of any literal reference to the place."[11] Other scholars, including C. C. Torrey, Kline and Jordan argue that the word is derived from the Hebrew _moed_ (), meaning "assembly".  Thus, "Armageddon" would mean "Mountain of Assembly," which Jordan says is "a reference to the assembly at Mount Sinai, and to its replacement, Mount Zion."[12]
 
@@ -53,7 +53,7 @@ The religion's current teaching on Armageddon originated in 1925 with former Wat
 
 Seventh-day Adventist
 
-Armageddon_flowchart.png understanding of Revelation 13-22]] The teachings of the Seventh-day Adventist Church state that the terms "Armageddon", "Day of the Lord" and "The Second Coming of Christ" all describe the same event.[37] Seventh-day Adventists further teach that the current religious movements taking place in the world are setting the stage for Armageddon, and they are concerned by an anticipated unity between spiritualism, American Protestantism and Roman Catholicism. A further significant difference in Seventh-day Adventist theology is the teaching that the events of Armageddon will leave the earth desolate for the duration of the millennium.[38] They teach that the righteous will be taken to heaven while the rest of humanity will be destroyed, leaving Satan with no one to tempt and effectively "bound."[39] The final re-creation of a "new heaven and a new earth."[40] then follows the millennium.
+understanding of Revelation 13-22]] The teachings of the Seventh-day Adventist Church state that the terms "Armageddon", "Day of the Lord" and "The Second Coming of Christ" all describe the same event.[37] Seventh-day Adventists further teach that the current religious movements taking place in the world are setting the stage for Armageddon, and they are concerned by an anticipated unity between spiritualism, American Protestantism and Roman Catholicism. A further significant difference in Seventh-day Adventist theology is the teaching that the events of Armageddon will leave the earth desolate for the duration of the millennium.[38] They teach that the righteous will be taken to heaven while the rest of humanity will be destroyed, leaving Satan with no one to tempt and effectively "bound."[39] The final re-creation of a "new heaven and a new earth."[40] then follows the millennium.
 
 Christadelphians
 

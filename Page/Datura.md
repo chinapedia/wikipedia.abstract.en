@@ -23,7 +23,7 @@ The larvae of some Lepidoptera (butterfly and moth) species, including _Hypercom
 
 Species and cultivars
 
-Datura_FR_2012.jpg It is difficult to classify _Datura_ as to its species, and it often happens that the descriptions of new species are accepted prematurely. Later, these "new species" are found to be simply varieties that have evolved due to conditions at a specific location. They usually disappear in a few years. Contributing to the confusion is the fact that various species, such as _D. wrightii_ and _D. inoxia_, are very similar in appearance, and the variation within a species can be extreme. For example, _Datura_ species can change size of plant, leaf, and flowers, all depending on location. The same species, when growing in a half-shady, damp location can develop into a flowering bush half as tall as an adult human of average height, but when growing in a very dry location, will only grow into a thin plant not much more than ankle-high, with tiny flowers and a few miniature leaves.[8]
+It is difficult to classify _Datura_ as to its species, and it often happens that the descriptions of new species are accepted prematurely. Later, these "new species" are found to be simply varieties that have evolved due to conditions at a specific location. They usually disappear in a few years. Contributing to the confusion is the fact that various species, such as _D. wrightii_ and _D. inoxia_, are very similar in appearance, and the variation within a species can be extreme. For example, _Datura_ species can change size of plant, leaf, and flowers, all depending on location. The same species, when growing in a half-shady, damp location can develop into a flowering bush half as tall as an adult human of average height, but when growing in a very dry location, will only grow into a thin plant not much more than ankle-high, with tiny flowers and a few miniature leaves.[8]
 
 Today, experts classify only nine species of _Datura_:[9]
 
@@ -50,7 +50,7 @@ Past classified species
 
 Cultivation
 
-Datura_fruit.jpg Datura_innoxia_fruit_split_open.jpg _Datura_ species are usually planted annually from the seed produced in the spiny pods, but with care, plants can be overwintered. Most species are suited to being planted outside or in containers. As a rule, they need warm, sunny places and soil that will keep their roots dry. When grown outdoors in good locations, the plants tend to reseed themselves and may become invasive. In containers, they should have porous, aerated potting soil with adequate drainage. The plants are susceptible to fungi in the root area, so anaerobic organic enrichment such as anaerobically composted organic matter or manure, should be avoided.[11]
+_Datura_ species are usually planted annually from the seed produced in the spiny pods, but with care, plants can be overwintered. Most species are suited to being planted outside or in containers. As a rule, they need warm, sunny places and soil that will keep their roots dry. When grown outdoors in good locations, the plants tend to reseed themselves and may become invasive. In containers, they should have porous, aerated potting soil with adequate drainage. The plants are susceptible to fungi in the root area, so anaerobic organic enrichment such as anaerobically composted organic matter or manure, should be avoided.[11]
 
 
 Toxicity

@@ -1,4 +1,4 @@
-Vibrating_drum_Bessel_function.gif BESSEL FUNCTIONS, first defined by the mathematician Daniel Bernoulli and then generalized by Friedrich Bessel, are canonical solutions of Bessel's differential equation
+BESSEL FUNCTIONS, first defined by the mathematician Daniel Bernoulli and then generalized by Friedrich Bessel, are canonical solutions of Bessel's differential equation
 
     $x^2 \frac{d^2 y}{dx^2} + x \frac{dy}{dx} + \left(x^2 - \alpha^2 \right)y = 0$
 
@@ -44,8 +44,6 @@ $$J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma(m+\alpha+1)} {\left(\f
 
 where is the gamma function, a shifted generalization of the factorial function to non-integer values. The Bessel function of the first kind is an entire function if is an integer, otherwise it is a multivalued function with singularity at zero. The graphs of Bessel functions look roughly like oscillating sine or cosine functions that decay proportionally to $x^{-\frac{1}{2}}$ (see also their asymptotic forms below), although their roots are not generally periodic, except asymptotically for large . (The series indicates that is the derivative of , much like is the derivative of ; more generally, the derivative of can be expressed in terms of by the identities below.)
 
-Bessel_Functions_(1st_Kind,_n=0,1,2).svg
-
 For non-integer , the functions and are linearly independent, and are therefore the two solutions of the differential equation. On the other hand, for integer order , the following relationship is valid (note that the gamma function has simple poles at each of the non-positive integers):[4]
 
 _J__( − _n_)(_x_) = ( − 1)^(_n_)_J__(_n_)(_x_).
@@ -83,8 +81,6 @@ $$\frac{J_\alpha(x)}{\left( \frac{x}{2}\right)^\alpha} = \frac{e^{-t}}{\Gamma(\a
 Bessel functions of the second kind:
 
 The Bessel functions of the second kind, denoted by , occasionally denoted instead by , are solutions of the Bessel differential equation that have a singularity at the origin ( 0}}) and are multivalued. These are sometimes called WEBER FUNCTIONS, as they were introduced by , and also NEUMANN FUNCTIONS after Carl Neumann.[14]
-
-Bessel_Functions_(2nd_Kind,_n=0,1,2).svg
 
 For non-integer , is related to by
 
@@ -191,7 +187,7 @@ Unlike the ordinary Bessel functions, which are oscillating as functions of a re
 
     {|
 
-|- | BesselI_Functions_(1st_Kind,_n=0,1,2,3).svg | BesselK_Functions_(n=0,1,2,3).svg |}
+|- | | |}
 
 Two integral formulas for the modified Bessel functions are (for ):[26]
 
@@ -221,8 +217,6 @@ The MODIFIED BESSEL FUNCTION OF THE SECOND KIND has also been called by the foll
 -   MACDONALD FUNCTION after Hector Munro Macdonald
 
 Spherical Bessel functions: ,
-
-Spherical_Bessel_j_Functions_(n=0,1,2).svg Spherical_Bessel_y_Functions_(n=0,1,2).svg
 
 When solving the Helmholtz equation in spherical coordinates by separation of variables, the radial equation has the form
 

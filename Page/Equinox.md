@@ -1,4 +1,4 @@
-Sun_at_moment_of_spring_equinox_2019.jpg An EQUINOX is commonly regarded as the instant of time when the plane (extended indefinitely in all directions) of Earth's equator passes through the center of the Sun.[1][2] This occurs twice each year: around 20 March and 23 September. In other words, it is the moment at which the center of the visible Sun is directly above the Equator.
+An EQUINOX is commonly regarded as the instant of time when the plane (extended indefinitely in all directions) of Earth's equator passes through the center of the Sun.[1][2] This occurs twice each year: around 20 March and 23 September. In other words, it is the moment at which the center of the visible Sun is directly above the Equator.
 
 The word is derived from the Latin __, from __ (equal) and __ (genitive __) (night). On the day of an equinox, daytime and nighttime are of approximately equal duration all over the planet. They are not exactly equal, however, due to the angular size of the Sun, atmospheric refraction, and the rapidly changing duration of the length of day that occurs at most latitudes around the equinoxes. Long before conceiving this equality, primitive cultures noted the day when the Sun rises due East and sets due West, and indeed this happens on the day closest to the astronomically defined event.
 
@@ -6,7 +6,7 @@ In the northern hemisphere, the equinox in March is called the Vernal or Spring 
 
 Because the Moon (and to a lesser extent the planets) cause the motion of the Earth to vary from a perfect ellipse, the equinox is now officially defined by the Sun's more regular ecliptic longitude rather than by its declination. The instants of the equinoxes are currently defined to be when the apparent geocentric longitude of the Sun is 0° and 180°.[4]
 
-Equinozio_da_Pizzo_Vento,tramonto_fondachelli_fantina,_sicilia.JPG, Fondachelli-Fantina, Sicily]]
+, Fondachelli-Fantina, Sicily]]
 
 
 Equinoxes on Earth
@@ -43,8 +43,6 @@ Names
 -   First Point of Aries and first point of Libra: names referring to the astrological signs the Sun is entering. Due to the precession of the equinoxes, however, the constellations where the equinoxes are currently located are Pisces and Virgo, respectively.[15]
 
 Length of equinoctial day and night
-
-Hours_of_daylight_vs_latitude_vs_day_of_year_cmglee.svg GOES_East_Captures_View_of_Vernal_Equinox_(47418902822).jpg
 
 Day is usually defined as the period when sunlight reaches the ground in the absence of local obstacles. On the date of the equinox, the center of the Sun spends a roughly equal amount of time above and below the horizon at every location on the Earth, so night and day are about the same length. Sunrise and sunset can be defined in several ways, but a widespread definition is the time that the top limb of the Sun is level with the horizon.[16] With this definition, the day is longer than the night at the equinoxes:[17]
 
@@ -96,7 +94,7 @@ The March equinox occurs about when the Sun appears to cross the celestial equat
 -   in the ecliptic coordinate system, the vernal point is the origin of the ecliptic longitude;
 -   in the equatorial coordinate system, the vernal point is the origin of the right ascension.
 
-Equinox_diagram.svg being zero and the Sun's declination being zero. The Sun's celestial latitude never exceeds 1.2 arcseconds, but is exaggerated in this diagram.]]
+being zero and the Sun's declination being zero. The Sun's celestial latitude never exceeds 1.2 arcseconds, but is exaggerated in this diagram.]]
 
 Strictly speaking, at the equinox, the Sun's ecliptic longitude is zero. Its latitude will not be exactly zero, since Earth is not exactly in the plane of the ecliptic. Its declination will not be exactly zero either. The mean ecliptic is defined by the barycenter of Earth and the Moon combined, so the Earth wanders slightly above and below the ecliptic due to the orbital tilt of the Moon. The modern definition of equinox is the instants when the Sun's apparent geocentric longitude is 0° (northward equinox) or 180° (southward equinox).[23][24][25] See the adjacent diagram.
 
@@ -123,7 +121,7 @@ Satellites in geostationary orbit also experience difficulties maintaining power
 
 Equinoxes on other planets
 
-Saturn,_its_rings,_and_a_few_of_its_moons.jpg is at equinox, its rings reflect little sunlight, as seen in this image by _Cassini_ in 2009.]]
+is at equinox, its rings reflect little sunlight, as seen in this image by _Cassini_ in 2009.]]
 
 Equinoxes occur on any planet with a tilted rotational axis. A dramatic example is Saturn, where the equinox places its ring system edge-on facing the Sun. As a result, they are visible only as a thin line when seen from Earth. When seen from above – a view seen during an equinox for the first time from the _Cassini_ space probe in 2009 – they receive very little sunshine, indeed more planetshine than light from the Sun.[30] This phenomenon occurs once every 14.7 years on average, and can last a few weeks before and after the exact equinox. Saturn's most recent equinox was on 11 August 2009, and its next will take place on 6 May 2025.[31]
 

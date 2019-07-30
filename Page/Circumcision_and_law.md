@@ -24,7 +24,7 @@ In 1967 all religion in Communist Albania was banned, along with the practice of
 
 Modern law
 
-Prevalence of circumcision by country (2015). Whereas child custody regulations have been applied to cases involving circumcision, there seems to be no state which currently unequivocally bans infant male circumcision for non-therapeutic reasons, albeit the legality of such circumcision is disputed in some legislations.
+Whereas child custody regulations have been applied to cases involving circumcision, there seems to be no state which currently unequivocally bans infant male circumcision for non-therapeutic reasons, albeit the legality of such circumcision is disputed in some legislations.
 
 Overview
 
@@ -185,7 +185,7 @@ In June 2017, Nottinghamshire Police arrested three people on suspicion of "cons
 
 United States
 
-Intact_America_logo.jpg is one of the groups campaigning for a ban on non-medical nonconsensual circumcision of minors.]] Circumcision of adults who grant personal informed consent for the surgical operation is legal.
+is one of the groups campaigning for a ban on non-medical nonconsensual circumcision of minors.]] Circumcision of adults who grant personal informed consent for the surgical operation is legal.
 
 In the United States, non-therapeutic circumcision of male children has long been assumed to be lawful in every jurisdiction provided that one parent grants surrogate informed consent. Adler (2013) has recently challenged the validity of this assumption.[159] As with every country, doctors who circumcise children must take care that all applicable rules regarding informed consent and safety are satisfied.[160]
 

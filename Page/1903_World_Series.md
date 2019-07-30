@@ -26,18 +26,16 @@ One significant point about this agreement was that it was an arrangement primar
 
 The teams
 
-1903_World_Series_Pittsburgh_Pirates.jpg The Pirates won their third straight pennant in 1903 thanks to a powerful line-up that included legendary shortstop Honus Wagner, who hit .355 and drove in 101 runs, player-manager Fred Clarke, who hit .351, and Ginger Beaumont, who hit .341 and led the league in hits and runs. The Pirates' pitching was weaker than it had been in previous years but boasted 24-game winner Deacon Phillippe and 25-game winner Sam Leever.[8]
+The Pirates won their third straight pennant in 1903 thanks to a powerful line-up that included legendary shortstop Honus Wagner, who hit .355 and drove in 101 runs, player-manager Fred Clarke, who hit .351, and Ginger Beaumont, who hit .341 and led the league in hits and runs. The Pirates' pitching was weaker than it had been in previous years but boasted 24-game winner Deacon Phillippe and 25-game winner Sam Leever.[8]
 
 The Americans had a strong pitching staff, led by Cy Young, who went 28–9 in 1903 and became the all-time wins leader that year. Bill Dinneen and Long Tom Hughes, right-handers like Young, had won 21 games and 20 games each. The Boston outfield, featuring Chick Stahl (.274), Buck Freeman (.287, 104 RBIs) and Patsy Dougherty (.331, 101 runs scored) was considered excellent.[9]
 
-1903_World_Series_-_Boston_Americans.jpg Although the Pirates had dominated their league for the previous three years, they went into the series riddled with injuries and plagued by bizarre misfortunes. Otto Krueger, the team's only utility player, was beaned on September 19 and never fully played in the series. 16-game winner Ed Doheny left the team three days later, exhibiting signs of paranoia; he was committed to an insane asylum the following month.[10] Leever had been battling an injury to his pitching arm (which he made worse by entering a trapshooting competition). Worst of all, Wagner, who had a sore thumb throughout the season, injured his right leg in September and was never 100 percent for the post-season.[11]
+Although the Pirates had dominated their league for the previous three years, they went into the series riddled with injuries and plagued by bizarre misfortunes. Otto Krueger, the team's only utility player, was beaned on September 19 and never fully played in the series. 16-game winner Ed Doheny left the team three days later, exhibiting signs of paranoia; he was committed to an insane asylum the following month.[10] Leever had been battling an injury to his pitching arm (which he made worse by entering a trapshooting competition). Worst of all, Wagner, who had a sore thumb throughout the season, injured his right leg in September and was never 100 percent for the post-season.[11]
 
 Some sources say Boston were heavy underdogs. Boston bookies actually gave even odds to the teams (and only because Dreyfuss and other "sports" were alleged to have bet on Pittsburgh to bring down the odds).[12] The teams were generally thought to be evenly matched, with the Americans credited with stronger pitching and the Pirates with superior offense and fielding. The outcome, many believed, hinged on Wagner's health. "If Wagner does not play, bet your money at two to one on Boston", said the _Sporting News_, "but if he does play, place your money at two to one on Pittsburg."[13]
 
 
 Summary
-
-1903WorldSeries.png
 
 
 Matchups
@@ -59,8 +57,6 @@ Game 3
 Saturday, October 3, 1903, at Huntington Avenue Baseball Grounds in Boston, Massachusetts
 
 Phillippe, pitching after only a single day of rest, started Game 3 for the Pirates and didn't let them down, hurling his second complete game victory of the Series to put Pittsburgh up two games to one.
-
-Exposition_Park_Pittsburgh_1903.jpg
 
 Game 4
 

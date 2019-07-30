@@ -3,7 +3,7 @@ TRANSPORT INFRASTRUCTURE in Brazil is characterized by strong regional differenc
 
 Railroads
 
-Rodovia_dos_Imigrantes_1.jpg]]
+]]
 
 -   TOTAL ACTUAL NETWORK: 29,303 km
 
@@ -17,7 +17,7 @@ Rodovia_dos_Imigrantes_1.jpg]]
 
 Cities with metros
 
-TUE_TRENSURB_113.JPG]]
+]]
 
 +------------------------------+--+---------------------------------+
 | -   Belo Horizonte (28.2 km) |  | -   Juazeiro do Norte (13.9 km) |
@@ -43,7 +43,7 @@ A high-speed rail connecting São Paulo and Rio de Janeiro is currently under de
 
 Highways
 
-Rodovias_Duplicadas_do_Brasil,_Junho_de_2019.jpg highlighted in red. The São Paulo state, which has state control of most federal roads in its territory, made its road network the most extensive one in the country, thanks to this fact.
+highlighted in red. The São Paulo state, which has state control of most federal roads in its territory, made its road network the most extensive one in the country, thanks to this fact.
 
 ]] __ Brazil has 1,751,868 kilometers of roads, 96,353 km of them paved and 1,655,515 km unpaved. That means that only 5.5% of the roads are paved and that 94.5% are unpaved. The most important highway of the country is BR-116 and the second is BR-101.
 
@@ -68,7 +68,7 @@ Seaports and harbors
 
 Atlantic Ocean
 
-JaceguaiNatal2009.jpg]]
+]]
 
 +------------------+--+--------------------+--+--------------------------+
 | -   Fortaleza    |  | -   Recife         |  | -   São Francisco do Sul |
@@ -106,7 +106,7 @@ _ships by type:_ (1999 est.)
 
 Airports
 
-ViewfromAir-SaoPaulo.jpg.]] Rio_de_Janeiro-Galeão_International_Airport.December.01.2011.JPG.]] Most international flights must go to São Paulo–Guarulhos International Airport or Rio de Janeiro–Galeão International Airport. Belo Horizonte is the main international airport outside Rio de Janeiro and São Paulo. A few go to Brasília, Recife, Natal, and just recently Fortaleza has accepted international flights. With South American integration, more airports can be expected to open to international flights.
+.]] .]] Most international flights must go to São Paulo–Guarulhos International Airport or Rio de Janeiro–Galeão International Airport. Belo Horizonte is the main international airport outside Rio de Janeiro and São Paulo. A few go to Brasília, Recife, Natal, and just recently Fortaleza has accepted international flights. With South American integration, more airports can be expected to open to international flights.
 
 In 2013 Brazil had the sixth largest passenger air market in the world.[13]
 

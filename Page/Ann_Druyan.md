@@ -36,7 +36,7 @@ She is a member of the advisory board of The Carl Sagan Institute.[23]
 
 Work in film and television
 
-Dr_Neil_deGrasse_Tyson_and_Ann_Druyan_in_Sydney.JPG and Ann Druyan in Sydney]]
+and Ann Druyan in Sydney]]
 
 Druyan wrote and produced the 1987 PBS _NOVA_ episode "Confessions of a Weaponeer" on the life of President Eisenhower's Science Advisor, George Kistiakowsky.[24]
 

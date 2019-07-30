@@ -10,7 +10,7 @@ This decoration takes precedence over the Distinguished Service Medals of the se
 
 Appearance
 
-DSM_presented_to_Guy_Phillipe,_Haitian_commander,_2004.jpg The medal is gold in color and on the obverse it features a medium blue enameled pentagon (point up). Superimposed on this is an American bald eagle with wings outspread facing left grasping three crossed arrows in its talons and on its breast is a shield of the United States. The pentagon and eagle are enclosed within a gold pieced circle consisting, in the upper half of 13 five-pointed stars and in the lower half, a wreath of laurel on the left and olive on the right. At the top is a suspender of five graduated gold rays. The reverse of the medal has the inscription "_For Distinguished Service_" at the top in raised letters, and within the pentagon the inscription "_From The Secretary of Defense To,_" all in raised letters.
+The medal is gold in color and on the obverse it features a medium blue enameled pentagon (point up). Superimposed on this is an American bald eagle with wings outspread facing left grasping three crossed arrows in its talons and on its breast is a shield of the United States. The pentagon and eagle are enclosed within a gold pieced circle consisting, in the upper half of 13 five-pointed stars and in the lower half, a wreath of laurel on the left and olive on the right. At the top is a suspender of five graduated gold rays. The reverse of the medal has the inscription "_For Distinguished Service_" at the top in raised letters, and within the pentagon the inscription "_From The Secretary of Defense To,_" all in raised letters.
 
 Additional awards of the Defense Distinguished Service Medal are denoted by oak leaf clusters.
 

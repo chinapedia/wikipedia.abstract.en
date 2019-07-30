@@ -1,11 +1,9 @@
-Agostino_Carracci_(1557-1602)_-_Zelfportret_met_uurwerk_-_Bologna_Museo_della_storia_di_Bologna_29-04-2012_15-24-24.JPG'']]
+'']]
 
 AGOSTINO CARRACCI (or CARACCI) (16 August 1557 – 22 March 1602) was an Italian painter, printmaker, tapestry designer, and art teacher. He was, together with his brother, Annibale Carracci, and cousin, Ludovico Carracci, one of the founders of the Accademia degli Incamminati (Academy of the Progressives) in Bologna. This teaching academy promoted the Carracci emphasized drawing from life. It promoted progressive tendencies in art and was a reaction to the Mannerist distortion of anatomy and space.[1] The academy helped propel painters of the School of Bologna to prominence.
 
 
 Life
-
-Bust-Length_Portrait_of_a_Woman_(recto);_Bust-Length_Study_of_a_Girl_(verso)_MET_DP808290.jpg 'Pieta'_by_Agostino_Carracci,_The_Hermitage.JPG
 
 Agostino Carracci was born in Bologna as the son of a tailor. he was the elder brother of Annibale Carracci and the cousin of Ludovico Carracci. He initially trained as a goldsmith. He later studied painting, first with Prospero Fontana, who had been Lodovico's master, and later with Bartolomeo Passarotti. He traveled to Parma to study the works of Correggio. Accompanied by his brother Annibale, he spent a long time in Venice, where he trained as an engraver under the renowned Cornelis Cort.[2] Starting from 1574 he worked as a reproductive engraver, copying works of 16th century masters such as Federico Barocci, Tintoretto, Antonio Campi, Veronese and Correggio. He also produced some original prints, including two etchings.
 

@@ -1,4 +1,4 @@
-Group_homomorphism_ver.2.svg of N.]]
+of N.]]
 
 In mathematics, given two groups, (_G_, ∗) and (_H_, ·), a GROUP HOMOMORPHISM from (_G_, ∗) to (_H_, ·) is a function _h_ : _G_ → _H_ such that for all _u_ and _v_ in _G_ it holds that
 

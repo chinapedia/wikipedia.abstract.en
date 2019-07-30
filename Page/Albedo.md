@@ -1,4 +1,4 @@
-Albedo-e_hg.svg sunlight relative to various surface conditions]]
+sunlight relative to various surface conditions]]
 
 ALBEDO () (, meaning 'whiteness') is the measure of the diffuse reflection of solar radiation out of the total solar radiation received by an astronomical body (e.g. a planet like Earth). It is dimensionless and measured on a scale from 0 (corresponding to a black body that absorbs all incident radiation) to 1 (corresponding to a body that reflects all incident radiation).
 
@@ -45,7 +45,7 @@ Terrestrial albedo
 
 Any albedo in visible light falls within a range of about 0.9 for fresh snow to about 0.04 for charcoal, one of the darkest substances. Deeply shadowed cavities can achieve an effective albedo approaching the zero of a black body. When seen from a distance, the ocean surface has a low albedo, as do most forests, whereas desert areas have some of the highest albedos among landforms. Most land areas are in an albedo range of 0.1 to 0.4.[12] The average albedo of Earth is about 0.3.[13] This is far higher than for the ocean primarily because of the contribution of clouds.
 
-Ceres_2003_2004_clear_sky_total_sky_albedo.png Earth's surface albedo is regularly estimated via Earth observation satellite sensors such as NASA's MODIS instruments on board the Terra and Aqua satellites, and the CERES instrument on the Suomi NPP and JPSS. As the amount of reflected radiation is only measured for a single direction by satellite, not all directions, a mathematical model is used to translate a sample set of satellite reflectance measurements into estimates of directional-hemispherical reflectance and bi-hemispherical reflectance (e.g.,[14]). These calculations are based on the bidirectional reflectance distribution function (BRDF), which describes how the reflectance of a given surface depends on the view angle of the observer and the solar angle. BDRF can facilitate translations of observations of reflectance into albedo.
+Earth's surface albedo is regularly estimated via Earth observation satellite sensors such as NASA's MODIS instruments on board the Terra and Aqua satellites, and the CERES instrument on the Suomi NPP and JPSS. As the amount of reflected radiation is only measured for a single direction by satellite, not all directions, a mathematical model is used to translate a sample set of satellite reflectance measurements into estimates of directional-hemispherical reflectance and bi-hemispherical reflectance (e.g.,[14]). These calculations are based on the bidirectional reflectance distribution function (BRDF), which describes how the reflectance of a given surface depends on the view angle of the observer and the solar angle. BDRF can facilitate translations of observations of reflectance into albedo.
 
 Earth's average surface temperature due to its albedo and the greenhouse effect is currently about 15 °C. If Earth were frozen entirely (and hence be more reflective), the average temperature of the planet would drop below −40 °C.[15] If only the continental land masses became covered by glaciers, the mean temperature of the planet would drop to about 0 °C.[16] In contrast, if the entire Earth was covered by water — a so-called ocean planet — the average temperature on the planet would rise to almost 27 °C.[17]
 
@@ -139,7 +139,7 @@ Studies by the Hadley Centre have investigated the relative (generally warming) 
 
 Water
 
-water_reflectivity.jpg Water reflects light very differently from typical terrestrial materials. The reflectivity of a water surface is calculated using the Fresnel equations (see graph).
+Water reflects light very differently from typical terrestrial materials. The reflectivity of a water surface is calculated using the Fresnel equations (see graph).
 
 At the scale of the wavelength of light even wavy water is always smooth so the light is reflected in a locally specular manner (not diffusely). The glint of light off water is a commonplace effect of this. At small angles of incident light, waviness results in reduced reflectivity because of the steepness of the reflectivity-vs.-incident-angle curve and a locally increased average incident angle.[57]
 

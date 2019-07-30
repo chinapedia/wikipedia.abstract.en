@@ -1,5 +1,3 @@
-Berest1.jpg
-
 The BATTLE OF BERESTECHKO (; ) was fought between the Ukrainian Cossacks, led by Hetman Bohdan Khmelnytsky, aided by their Crimean Tatar allies, and a Polish army under King John II Casimir. It was a battle of a Cossack rebellion in Ukraine that took place in the years 1648–1657 after the expiration of a two-year truce.[1] Fought from 28 to 30 June 1651, the battle took place in the province of Volhynia, on the hilly plain south of the Styr River.[2] The Polish camp was on the river opposite Berestechko and faced south, towards the Cossack army about two kilometers away, whose right flank was against the River Pliashivka (Pliashova) and the Tatar army on their left flank.[3] It is considered to have been among the largest European land battles of the 17th century.[4][5]
 
 
@@ -52,12 +50,10 @@ The Polish army and Cossack camp exchanged artillery fire for ten days while bot
 
 Schematic map of the battle
 
-Bitwa_pod_Beresteczkiem.jpg
-
 
 Aftermath
 
-As the battle ended, King John Casimir made the error of not pressing even harder the pursuit of the fleeing Cossacks, "the first several days following ... defeat of the enemy were so blatantly wasted" but there "was the unwillingness of the nobility's levée en masse to proceed into Ukraine" plus "rainy weather and a lack of food and fodder, coupled with epidemics and diseases that were becoming active in the army, were generally undercutting any energy for war".[31] The "king left the whole army to Potocki" on 17 July [N.S.] and returned "to Warsaw to celebrate his victories over the Cossacks".[32] After making promises of a pecuniary nature, Khmelnytsky was soon released by the Tatar Khan. He was then able to reassemble the Cossack host, which was able to present a substantial army to confront the Poles at the Battle of Bila Tserkva (1651). Poland and "the bulk of the rebels make peace in the Treaty of Bila Tserkva" on 28 September 1651, which "reduces the number of registered Cossacks from 40,000 to 20,000 and deprives them of the right to settle in or control various provinces of Ukraine previously allowed to them under the Treaty of Zboriv".[33] The Ukrainian revolt, far from ending, would continue for several more years under Khmelnytsky.[34] Battle_of_Beresteczko_1651.jpg Battle_of_Beresteczko_1651_1.PNG
+As the battle ended, King John Casimir made the error of not pressing even harder the pursuit of the fleeing Cossacks, "the first several days following ... defeat of the enemy were so blatantly wasted" but there "was the unwillingness of the nobility's levée en masse to proceed into Ukraine" plus "rainy weather and a lack of food and fodder, coupled with epidemics and diseases that were becoming active in the army, were generally undercutting any energy for war".[31] The "king left the whole army to Potocki" on 17 July [N.S.] and returned "to Warsaw to celebrate his victories over the Cossacks".[32] After making promises of a pecuniary nature, Khmelnytsky was soon released by the Tatar Khan. He was then able to reassemble the Cossack host, which was able to present a substantial army to confront the Poles at the Battle of Bila Tserkva (1651). Poland and "the bulk of the rebels make peace in the Treaty of Bila Tserkva" on 28 September 1651, which "reduces the number of registered Cossacks from 40,000 to 20,000 and deprives them of the right to settle in or control various provinces of Ukraine previously allowed to them under the Treaty of Zboriv".[33] The Ukrainian revolt, far from ending, would continue for several more years under Khmelnytsky.[34]
 
 
 Legacy

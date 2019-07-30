@@ -12,7 +12,7 @@ The conventional theory is that the name _Hazara_ derives from the Persian word 
 
 Origin
 
-Ghazan_et_Öldjeïtu.jpg depicting Ghazan and his brother Öljaitü.]] Wullie_Mohammed_a_Dahzungi_Hazara_1879.jpg Hazara.]] The origins of the Hazara have not been fully reconstructed. Significant inner Asian descent—in historical context, Turkic and Mongol—is impossible to rule out because the Hazara's physical attributes,[15] facial bone structures and parts of their culture and language resemble those of Mongolians and Central Asian Turks. Genetic analysis of the Hazara indicate partial Mongolian ancestry.[16] Invading Mongols and Turco-Mongols mixed with the local Iranian population, forming a distinct group. For example, Nikudari Mongols settled in what is now Afghanistan and mixed with native populations who spoke Dari Persian. A second wave of mostly Chagatai Mongols came from Central Asia and were followed by other Mongolic groups, associated with the Ilkhanate and the Timurids, all of whom settled in Hazarajat and mixed with the local, mostly Dari-speaking population, forming a distinct group.
+depicting Ghazan and his brother Öljaitü.]] Hazara.]] The origins of the Hazara have not been fully reconstructed. Significant inner Asian descent—in historical context, Turkic and Mongol—is impossible to rule out because the Hazara's physical attributes,[15] facial bone structures and parts of their culture and language resemble those of Mongolians and Central Asian Turks. Genetic analysis of the Hazara indicate partial Mongolian ancestry.[16] Invading Mongols and Turco-Mongols mixed with the local Iranian population, forming a distinct group. For example, Nikudari Mongols settled in what is now Afghanistan and mixed with native populations who spoke Dari Persian. A second wave of mostly Chagatai Mongols came from Central Asia and were followed by other Mongolic groups, associated with the Ilkhanate and the Timurids, all of whom settled in Hazarajat and mixed with the local, mostly Dari-speaking population, forming a distinct group.
 
 
 History
@@ -35,7 +35,7 @@ The 1888–1893 Uprisings of Hazaras occurred when the Treaty of Gandomak was si
 
 In 1901, Habibullah Khan, Abdur Rahman's successor, granted amnesty to all people who were exiled by his predecessor. However, the division between the Afghan government and the Hazara people was already made too deep under Abdur Rahman. Hazara continued to face severe social, economic and political discrimination through most of the 20th century. In 1933 King Mohammed Nadir Khan was assassinated by Abdul Khaliq Hazara. The Afghan government captured and executed him later, along with several of his innocent family members.[23]
 
-Mistrust of the central government by the Hazaras and local uprisings continued. In particular, in the 1940s, during Zahir Shah's rule, a revolt took place against new taxes that were exclusively imposed on the Hazara. The Kuchi nomads meanwhile not only were exempted from taxes, but also received allowances from the Afghan government.[24] The angry rebels began capturing and killing government officials. In response, the central government sent a force to subdue the region and later removed the taxes. Mazari.jpg, leader of the Hizbe-Wahdat party during and following the Soviet–Afghan War.]] During the Soviet–Afghan War, the Hazarajat region did not see as much heavy fighting as other regions of Afghanistan. However, rival Hazara political factions fought. The division was between the _Tanzáim-i nasl-i naw-i Hazara_, a party based in Quetta, of Hazara nationalists and secular intellectuals, and the Islamist parties in Hazarajat.[25] By 1979, the Hazara-Islamist groups liberated Hazarajat from the central Soviet-backed Afghan government and later took entire control of Hazarajat away from the secularists. By 1984, after severe fighting, the secularist groups lost all their power to the Islamists. Bamyan_Valley_in_2012.jpg, the site of the Buddhas of Bamiyan.]] As the Soviets withdrew in 1989, the Islamist groups felt the need to broaden their political appeal and turned their focus to Hazara ethnic nationalism.[26] This led to establishment of the Hizb-i-Wahdat, an alliance of all the Hazara resistance groups (except the _Harakat-i Islami_). In 1992 with the fall of Kabul, the _Harakat-i Islami_ took sides with Burhanuddin Rabbani's government while the Hizb-i-Wahdat took sides with the opposition. The Hizb-i-Wahdat was eventually forced out of Kabul in 1995 when the Taliban movement captured and killed their leader Abdul Ali Mazari. With the Taliban's capture of Kabul in 1996, all the Hazara groups united with the new Northern Alliance against the common new enemy. However, it was too late and despite the fierce resistance Hazarajat fell to the Taliban by 1998. The Taliban had Hazarajat totally isolated from the rest of the world going as far as not allowing the United Nations to deliver food to the provinces of Bamiyan, Ghor, Wardak, and Daykundi.[27]
+Mistrust of the central government by the Hazaras and local uprisings continued. In particular, in the 1940s, during Zahir Shah's rule, a revolt took place against new taxes that were exclusively imposed on the Hazara. The Kuchi nomads meanwhile not only were exempted from taxes, but also received allowances from the Afghan government.[24] The angry rebels began capturing and killing government officials. In response, the central government sent a force to subdue the region and later removed the taxes. , leader of the Hizbe-Wahdat party during and following the Soviet–Afghan War.]] During the Soviet–Afghan War, the Hazarajat region did not see as much heavy fighting as other regions of Afghanistan. However, rival Hazara political factions fought. The division was between the _Tanzáim-i nasl-i naw-i Hazara_, a party based in Quetta, of Hazara nationalists and secular intellectuals, and the Islamist parties in Hazarajat.[25] By 1979, the Hazara-Islamist groups liberated Hazarajat from the central Soviet-backed Afghan government and later took entire control of Hazarajat away from the secularists. By 1984, after severe fighting, the secularist groups lost all their power to the Islamists. , the site of the Buddhas of Bamiyan.]] As the Soviets withdrew in 1989, the Islamist groups felt the need to broaden their political appeal and turned their focus to Hazara ethnic nationalism.[26] This led to establishment of the Hizb-i-Wahdat, an alliance of all the Hazara resistance groups (except the _Harakat-i Islami_). In 1992 with the fall of Kabul, the _Harakat-i Islami_ took sides with Burhanuddin Rabbani's government while the Hizb-i-Wahdat took sides with the opposition. The Hizb-i-Wahdat was eventually forced out of Kabul in 1995 when the Taliban movement captured and killed their leader Abdul Ali Mazari. With the Taliban's capture of Kabul in 1996, all the Hazara groups united with the new Northern Alliance against the common new enemy. However, it was too late and despite the fierce resistance Hazarajat fell to the Taliban by 1998. The Taliban had Hazarajat totally isolated from the rest of the world going as far as not allowing the United Nations to deliver food to the provinces of Bamiyan, Ghor, Wardak, and Daykundi.[27]
 
 Though Hazara played a role in the anti-Soviet movement, other Hazara participated in the new communist government, which actively courted Afghan minorities. Sultan Ali Kishtmand, a Hazara, served as prime minister of Afghanistan from 1981–1990 (with one brief interruption in 1988).[28] The Ismaili Hazara of Baghlan Province likewise supported the communists, and their _pir_ (religious leader) Jaffar Naderi led a pro-Communist militia in the region.[29]
 
@@ -71,7 +71,7 @@ A recent study shows that the Uyghurs are closely related to the Hazara and that
 
 Geographic distribution
 
-US_Army_ethnolinguistic_map_of_Afghanistan_--_circa_2001-09.jpg groups in Afghanistan]]
+groups in Afghanistan]]
 
 The vast majority of Hazaras live in central Afghanistan, and significant numbers are also found in major cities and towns. Many Hazara men leave Hazarjat to work in cities, including in neighboring countries or abroad. The latest World Factbook estimates show that Hazara make up nine percent of the total Afghan population but some sources claim that they are about 20 percent.[51][52] However, they fail to cite a reference. In the 1970s, they were estimated by Louis Dupree at approximately 1,000,000.[53]
 
@@ -81,7 +81,7 @@ Alessandro Monsutti argues, in his recent anthropological book,[54] that migrati
 
 Hazara in Pakistan
 
-General_Musa,_Circa_1935_in_a_British_Uniform.jpg Musa Khan Hazara from Quetta, Pakistan. He served the army chief of Pakistan Army in 1960–66.]]
+Musa Khan Hazara from Quetta, Pakistan. He served the army chief of Pakistan Army in 1960–66.]]
 
 During the British expansion in the 19th century, Hazaras worked during the winter months in coal mines, road construction and in other menial labor jobs in some cities of what is now Pakistan. The earliest record of Hazara in the areas of Pakistan is found in Broadfoot's Sappers company from 1835 in Quetta. This company had also participated in the First Anglo-Afghan War. Some Hazara also worked in the agriculture farms in Sindh and construction of Sukkur barrage. Haider Ali Karmal Jaghori was a prominent political thinker of the Hazara people in Pakistan, writing about the political history of Hazara people. His work _Hazaraha wa Hazarajat Bastan Dar Aiyna-i-Tarikh_ was published in Quetta in 1992, and another work by Aziz Tughyan Hazara _Tarikh Milli Hazara_ was published in 1984 in Quetta.
 
@@ -98,7 +98,7 @@ They have complained of discrimination in Iran. In March 2011, _Eurasia Daily Mo
 
 Culture
 
-Girls_in_Ghazni.jpgs sitting next to Tajik and Pashtun girls in Ghazni, Afghanistan.]]
+s sitting next to Tajik and Pashtun girls in Ghazni, Afghanistan.]]
 
 The Hazara, outside of Hazarajat, have adopted the cultures of the cities where they dwell, and in many cases they have become Pashtunized and Persianized, resembling customs and traditions of the Afghan Tajiks and Pashtuns. Traditionally the Hazara are highland farmers and although sedentary, in the Hazarajat, they have retained many of their own customs and traditions, some of which are more closely related to those of Central Asia than to those of the Afghan Tajiks. For instance, many Hazara musicians are widely hailed as being skilled in playing the dambura, a regional and native instrument, a lute instrument similarly found in other Central Asian nations such as Tajikistan, Uzbekistan and Kazakhstan. The Hazara live in houses rather than tents; Aimaqs and Aimaq Hazaras in tents rather than houses.[64]
 
@@ -114,7 +114,7 @@ Many of the urban Hazara in the larger cities such as Kabul and Mazar-i-Sharif n
 
 Religion
 
-Blue_mosaic,_Kabul.jpg in Kabul during construction in 2008, which is the largest Shia mosque in Afghanistan.[73]]]
+in Kabul during construction in 2008, which is the largest Shia mosque in Afghanistan.[73]]]
 
 Hazara are predominantly Shi'a Muslims, mostly of the Twelver sect[74] and some Ismaili.[75] Since the majority of Afghans practice Sunni Islam, this may have contributed to the discrimination against the Hazara.[76] Hazara probably converted to Shi'ism during the first part of the 16th century, in the early days of the Safavid Dynasty.[77] Nonetheless, a small number of Hazara are Sunni, such as the Aimaq Hazaras.[78] Sunni Hazara have been attached to non-Hazara tribes (such as Taimuris), while the Ismaili Hazara have always been kept separate from the rest of the Hazara on account of religious beliefs and political purposes.
 
@@ -126,7 +126,7 @@ The Hazara people have been organized by various tribes. The Daizangi are the la
 
 Sports
 
-Rohullah_Nikpai_speaking_in_2012.jpg, two-time Olympic bronze medalist in the sport of Taekwondo.]]
+, two-time Olympic bronze medalist in the sport of Taekwondo.]]
 
 Many Hazara are engaged in different sports. Rohullah Nikpai won a bronze medal in Taekwondo in the Beijing Olympics 2008, beating world champion Juan Antonio Ramos of Spain 4–1 in a play-off final. It was Afghanistan's first-ever Olympic medal. He then won a second Olympic medal for Afghanistan in the London 2012 games. Afghanistan's first female Olympic athlete Friba Razayee competed in judo at the 2004 Athens Olympics, but was eliminated in the first round of competition.
 

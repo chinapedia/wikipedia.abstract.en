@@ -35,7 +35,7 @@ During his absence John was deposed by the council, and upon his return he was t
 
 Death and burial
 
-Grabmaljohannes13.jpg.]]
+.]]
 
 Cossa was again imprisoned in Germany. He was freed in 1418 after a heavy ransom was paid by the Medici.[11] He went to Florence, where he submitted to Martin V, who made him Cardinal Bishop of Frascati. Cossa died only a few months later.
 

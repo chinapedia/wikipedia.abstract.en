@@ -1,4 +1,4 @@
-2011_Oct_01_Iao_Needle_(Crop).jpg.|alt=Photo of vegetation-covered lava promontory]] Japanese_sugarcane_workers_1.jpg
+.|alt=Photo of vegetation-covered lava promontory]]
 
 IAO VALLEY (Hawaiian: _Ī-ao_: "cloud supreme", pronounced similar to "EE-ow") is a lush, stream-cut valley in West Maui, Hawaii, located west of Wailuku. Because of its natural environment and history, it has become a tourist location. It was designated a National Natural Landmark in 1972.[1]
 

@@ -11,8 +11,6 @@ Differences from common hydrogen (protium)
 
 Chemical symbol
 
-Deuterium_discharge_tube.jpg
-
 Deuterium is frequently represented by the chemical symbol D. Since it is an isotope of hydrogen with mass number 2, it is also represented by . IUPAC allows both D and , although is preferred.[8] A distinct chemical symbol is used for convenience because of the isotope's common use in various scientific processes. Also, its large mass difference with protium (¹H) (deuterium has a mass of , compared to the mean hydrogen atomic weight of , and protium's mass of ) confers non-negligible chemical dissimilarities with protium-containing compounds, whereas the isotope weight ratios within other chemical elements are largely insignificant in this regard.
 
 Spectroscopy
@@ -137,7 +135,7 @@ Deuterium has a number of commercial and scientific uses. These include:
 
 Nuclear reactors
 
-Deuterium_Ionized.JPG reactor giving off its characteristic pinkish-red glow]] Deuterium is used in heavy water moderated fission reactors, usually as liquid D₂O, to slow neutrons without the high neutron absorption of ordinary hydrogen.[30] This is a common commercial use for larger amounts of deuterium.
+reactor giving off its characteristic pinkish-red glow]] Deuterium is used in heavy water moderated fission reactors, usually as liquid D₂O, to slow neutrons without the high neutron absorption of ordinary hydrogen.[30] This is a common commercial use for larger amounts of deuterium.
 
 In research reactors, liquid D₂ is used in cold sources to moderate neutrons to very low energies and wavelengths appropriate for scattering experiments.
 
@@ -145,7 +143,7 @@ Experimentally, deuterium is the most common nuclide used in nuclear fusion reac
 
 NMR spectroscopy
 
-Deuterium_lamp_1.png]] Deuterium is most commonly used in hydrogen nuclear magnetic resonance spectroscopy (proton NMR) in the following way. NMR ordinarily requires compounds of interest to be analyzed as dissolved in solution. Because of deuterium's nuclear spin properties which differ from the light hydrogen usually present in organic molecules, NMR spectra of hydrogen/protium are highly differentiable from that of deuterium, and in practice deuterium is not "seen" by an NMR instrument tuned for light-hydrogen. Deuterated solvents (including heavy water, but also compounds like deuterated chloroform, CDCl₃) are therefore routinely used in NMR spectroscopy, in order to allow only the light-hydrogen spectra of the compound of interest to be measured, without solvent-signal interference.
+]] Deuterium is most commonly used in hydrogen nuclear magnetic resonance spectroscopy (proton NMR) in the following way. NMR ordinarily requires compounds of interest to be analyzed as dissolved in solution. Because of deuterium's nuclear spin properties which differ from the light hydrogen usually present in organic molecules, NMR spectra of hydrogen/protium are highly differentiable from that of deuterium, and in practice deuterium is not "seen" by an NMR instrument tuned for light-hydrogen. Deuterated solvents (including heavy water, but also compounds like deuterated chloroform, CDCl₃) are therefore routinely used in NMR spectroscopy, in order to allow only the light-hydrogen spectra of the compound of interest to be measured, without solvent-signal interference.
 
 Nuclear magnetic resonance spectroscopy can also be used to obtain information about the deuteron's environment in isotopically labelled samples (Deuterium NMR). For example, the flexibility in the tail, which is a long hydrocarbon chains, in deuterium-labelled lipid molecules can be quantified using solid state deuterium NMR.[31]
 
@@ -184,7 +182,7 @@ The existence of nonradioactive isotopes of lighter elements had been suspected 
 
 Deuterium detected
 
-Urey.jpg It was first detected spectroscopically in late 1931 by Harold Urey, a chemist at Columbia University. Urey's collaborator, Ferdinand Brickwedde, distilled five liters of cryogenically produced liquid hydrogen to of liquid, using the low-temperature physics laboratory that had recently been established at the National Bureau of Standards in Washington, D.C. (now the National Institute of Standards and Technology). The technique had previously been used to isolate heavy isotopes of neon. The cryogenic boiloff technique concentrated the fraction of the mass-2 isotope of hydrogen to a degree that made its spectroscopic identification unambiguous.[45][46]
+It was first detected spectroscopically in late 1931 by Harold Urey, a chemist at Columbia University. Urey's collaborator, Ferdinand Brickwedde, distilled five liters of cryogenically produced liquid hydrogen to of liquid, using the low-temperature physics laboratory that had recently been established at the National Bureau of Standards in Washington, D.C. (now the National Institute of Standards and Technology). The technique had previously been used to isolate heavy isotopes of neon. The cryogenic boiloff technique concentrated the fraction of the mass-2 isotope of hydrogen to a degree that made its spectroscopic identification unambiguous.[45][46]
 
 Naming of the isotope and Nobel Prize
 
@@ -202,7 +200,7 @@ After World War II ended, the Allies discovered that Germany was not putting as 
 
 In thermonuclear weapons
 
-Ivy_Mike_Sausage_device.jpg hydrogen bomb, with its instrumentation and cryogenic equipment attached. This bomb held a cryogenic Dewar flask containing room for as much as 160 kilograms of liquid deuterium. The bomb was 20 feet tall. Note the seated man at the right of the photo for the scale.]]
+hydrogen bomb, with its instrumentation and cryogenic equipment attached. This bomb held a cryogenic Dewar flask containing room for as much as 160 kilograms of liquid deuterium. The bomb was 20 feet tall. Note the seated man at the right of the photo for the scale.]]
 
 The 62-ton Ivy Mike device built by the United States and exploded on 1 November 1952, was the first fully successful "hydrogen bomb" or thermonuclear bomb. In this context, it was the first bomb in which most of the energy released came from nuclear reaction stages that followed the primary nuclear fission stage of the atomic bomb. The Ivy Mike bomb was a factory-like building, rather than a deliverable weapon. At its center, a very large cylindrical, insulated vacuum flask or cryostat, held cryogenic liquid deuterium in a volume of about 1000 liters (160 kilograms in mass, if this volume had been completely filled). Then, a conventional atomic bomb (the "primary") at one end of the bomb was used to create the conditions of extreme temperature and pressure that were needed to set off the thermonuclear reaction.
 

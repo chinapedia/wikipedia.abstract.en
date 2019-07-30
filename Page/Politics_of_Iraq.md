@@ -7,7 +7,7 @@ Government
 
 Federal government
 
-Baghdad_Convention_Center.jpg]]
+]]
 
 The federal government of Iraq is defined under the current constitution as an Islamic,[2] democratic, federal parliamentary republic.[3] The federal government is composed of the executive, legislative, and judicial branches, as well as numerous independent commissions.
 
@@ -27,7 +27,7 @@ Under the law, a region can be created out of one or more existing governorates 
 
 Provinces
 
-Iraqi_Governorates.svg Iraq is divided into 18 governorates, which are further divided into districts:
+Iraq is divided into 18 governorates, which are further divided into districts:
 
 
 Political parties
@@ -99,7 +99,7 @@ Elections
 
 Iraqi parliamentary election, January 2005
 
-Iraqi_voters_inked_fingers.jpg police officers hold up their index fingers marked with purple indelible ink, a security measure to prevent double voting.]] Elections for the National Assembly of Iraq were held on January 30, 2005 in Iraq. The 275-member National Assembly was a parliament created under the Transitional Law during the Occupation of Iraq. The newly elected transitional Assembly was given a mandate to write the new and permanent Constitution of Iraq and exercised legislative functions until the new Constitution came into effect, and resulted in the formation of the Iraqi Transitional Government.
+police officers hold up their index fingers marked with purple indelible ink, a security measure to prevent double voting.]] Elections for the National Assembly of Iraq were held on January 30, 2005 in Iraq. The 275-member National Assembly was a parliament created under the Transitional Law during the Occupation of Iraq. The newly elected transitional Assembly was given a mandate to write the new and permanent Constitution of Iraq and exercised legislative functions until the new Constitution came into effect, and resulted in the formation of the Iraqi Transitional Government.
 
 The United Iraqi Alliance, tacitly backed by Shia Grand Ayatollah Ali al-Sistani, led with some 48% of the vote. The Democratic Patriotic Alliance of Kurdistan was in second place with some 26% of the vote. Prime Minister Ayad Allawi's party, the Iraqi List, came third with some 14%. In total, twelve parties received enough votes to win a seat in the assembly.
 
@@ -107,7 +107,7 @@ Low Arab Sunni turnout threatened the legitimacy of the election, which was as l
 
 Iraqi parliamentary election, December 2005
 
-husaybah_vote.jpg, wait in lines to vote during the national election.]] Following the ratification of the Constitution of Iraq on 15 October 2005, a general election was held on 15 December to elect the permanent 275-member Iraqi Council of Representatives.
+, wait in lines to vote during the national election.]] Following the ratification of the Constitution of Iraq on 15 October 2005, a general election was held on 15 December to elect the permanent 275-member Iraqi Council of Representatives.
 
 The elections took place under a list system, whereby voters chose from a list of parties and coalitions. 230 seats were apportioned among Iraq's 18 governorates based on the number of registered voters in each as of the January 2005 elections, including 59 seats for Baghdad Governorate.[17] The seats within each governorate were allocated to lists through a system of Proportional Representation. An additional 45 "compensatory" seats were allocated to those parties whose percentage of the national vote total (including out of country votes) exceeds the percentage of the 275 total seats that they have been allocated. Women were required to occupy 25% of the 275 seats.[18] The change in the voting system gave more weight to Arab Sunni voters, who make up most of the voters in several provinces. It was expected that these provinces would thus return mostly Sunni Arab representatives, after most Sunnis boycotted the last election.
 

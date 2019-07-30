@@ -1,4 +1,4 @@
-Atomic_number_depiction.jpg Bohr_atom_model.svg ( 1}}) or a hydrogen-like ion (). In this model it is an essential feature that the photon energy (or frequency) of the electromagnetic radiation emitted (shown) when an electron jumps from one orbital to another be proportional to the mathematical square of atomic charge (). Experimental measurement by Henry Moseley of this radiation for many elements (from 13 to 92}}) showed the results as predicted by Bohr. Both the concept of atomic number and the Bohr model were thereby given scientific credence.]]
+( 1}}) or a hydrogen-like ion (). In this model it is an essential feature that the photon energy (or frequency) of the electromagnetic radiation emitted (shown) when an electron jumps from one orbital to another be proportional to the mathematical square of atomic charge (). Experimental measurement by Henry Moseley of this radiation for many elements (from 13 to 92}}) showed the results as predicted by Bohr. Both the concept of atomic number and the Bohr model were thereby given scientific credence.]]
 
 The ATOMIC NUMBER or PROTON NUMBER (symbol _Z_ ) of a chemical element is the number of protons found in the nucleus of every atom of that element. The atomic number uniquely identifies a chemical element. It is identical to the charge number of the nucleus. In an uncharged atom, the atomic number is also equal to the number of electrons.
 
@@ -13,13 +13,13 @@ History
 
 The periodic table and a natural number for each element
 
-DIMendeleevCab.jpg, creator of the periodic table.]] Loosely speaking, the existence or construction of a periodic table of elements creates an ordering of the elements, and so they can be numbered in order.
+, creator of the periodic table.]] Loosely speaking, the existence or construction of a periodic table of elements creates an ordering of the elements, and so they can be numbered in order.
 
 Dmitri Mendeleev claimed that he arranged his first periodic tables (first published on March 6, 1869) in order of atomic weight ("Atomgewicht").[1] However, in consideration of the elements' observed chemical properties, he changed the order slightly and placed tellurium (atomic weight 127.6) ahead of iodine (atomic weight 126.9).[2][3] This placement is consistent with the modern practice of ordering the elements by proton number, _Z_, but that number was not known or suspected at the time.
 
 A simple numbering based on periodic table position was never entirely satisfactory, however. Besides the case of iodine and tellurium, later several other pairs of elements (such as argon and potassium, cobalt and nickel) were known to have nearly identical or reversed atomic weights, thus requiring their placement in the periodic table to be determined by their chemical properties. However the gradual identification of more and more chemically similar lanthanide elements, whose atomic number was not obvious, led to inconsistency and uncertainty in the periodic numbering of elements at least from lutetium (element 71) onward (hafnium was not known at this time).
 
-Niels_Bohr.jpg, creator of the Bohr model.]]
+, creator of the Bohr model.]]
 
 The Rutherford-Bohr model and van den Broek
 
@@ -27,7 +27,7 @@ In 1911, Ernest Rutherford gave a model of the atom in which a central core held
 
 Moseley's 1913 experiment
 
-Henry_Moseley.jpg in his lab.]] The experimental position improved dramatically after research by Henry Moseley in 1913.[4] Moseley, after discussions with Bohr who was at the same lab (and who had used Van den Broek's hypothesis in his Bohr model of the atom), decided to test Van den Broek's and Bohr's hypothesis directly, by seeing if spectral lines emitted from excited atoms fitted the Bohr theory's postulation that the frequency of the spectral lines be proportional to the square of _Z_.
+in his lab.]] The experimental position improved dramatically after research by Henry Moseley in 1913.[4] Moseley, after discussions with Bohr who was at the same lab (and who had used Van den Broek's hypothesis in his Bohr model of the atom), decided to test Van den Broek's and Bohr's hypothesis directly, by seeing if spectral lines emitted from excited atoms fitted the Bohr theory's postulation that the frequency of the spectral lines be proportional to the square of _Z_.
 
 To do this, Moseley measured the wavelengths of the innermost photon transitions (K and L lines) produced by the elements from aluminum (_Z_ = 13) to gold (_Z_ = 79) used as a series of movable anodic targets inside an x-ray tube.[5] The square root of the frequency of these photons increased from one target to the next in an arithmetic progression. This led to the conclusion (Moseley's law) that the atomic number does closely correspond (with an offset of one unit for K-lines, in Moseley's work) to the calculated electric charge of the nucleus, i.e. the element number _Z_. Among other things, Moseley demonstrated that the lanthanide series (from lanthanum to lutetium inclusive) must have 15 members—no fewer and no more—which was far from obvious from the chemistry at that time.
 

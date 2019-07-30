@@ -26,7 +26,7 @@ She was a resident of Great Falls, Virginia.
 
 Death and legacy
 
-12.6.11BarbaraOlsonPanelS-70ByLuigiNovi2.jpg’s South Pool, along with those of other passengers of Flight 77.]] Olson was a passenger on American Airlines Flight 77 on her way to a taping of _Politically Incorrect_ in Los Angeles, when it was flown into the Pentagon in the September 11 attacks. Her original plan had been to fly to California on September 10, but she waited until the next day so that she could wake up with her husband on his birthday, September 11.[6] Bill Maher, host of _Politically Incorrect_, left a panel chair empty for a week in her memory. At the National September 11 Memorial, Olson's name is located on Panel S-70 of the South Pool, along with those of other passengers of Flight 77.[7]
+’s South Pool, along with those of other passengers of Flight 77.]] Olson was a passenger on American Airlines Flight 77 on her way to a taping of _Politically Incorrect_ in Los Angeles, when it was flown into the Pentagon in the September 11 attacks. Her original plan had been to fly to California on September 10, but she waited until the next day so that she could wake up with her husband on his birthday, September 11.[6] Bill Maher, host of _Politically Incorrect_, left a panel chair empty for a week in her memory. At the National September 11 Memorial, Olson's name is located on Panel S-70 of the South Pool, along with those of other passengers of Flight 77.[7]
 
 
 Books

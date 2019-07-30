@@ -1,4 +1,4 @@
-Rigvedic_geography.jpg; the extent of the Swat and Cemetery H cultures are indicated.]] Indo-Iranian_origins.pngs (after EIEC). The Andronovo, BMAC and Yaz cultures have often been associated with Indo-Iranian migrations. The GGC (Swat), Cemetery H, Copper Hoard and PGW cultures are candidates for cultures associated with Indo-Aryan migrations.]] Cemetery_H_Pottery.png
+; the extent of the Swat and Cemetery H cultures are indicated.]] s (after EIEC). The Andronovo, BMAC and Yaz cultures have often been associated with Indo-Iranian migrations. The GGC (Swat), Cemetery H, Copper Hoard and PGW cultures are candidates for cultures associated with Indo-Aryan migrations.]]
 
 The CEMETERY H CULTURE was a Bronze Age culture in the Punjab region in the northern part of the Indian subcontinent, from about 1900 BCE until about 1300 BCE. It was a regional form of the late phase of the Harappan (Indus Valley) civilisation (alongside the Jhukar culture of Sindh and Rangpur culture of Gujarat).
 

@@ -5,7 +5,7 @@ Each league's award is voted on by members of the Baseball Writers' Association 
 
 History
 
-Cy_Young_by_Conlon,_1911-crop.jpg, for whom the award is named]]
+, for whom the award is named]]
 
 The Cy Young Award was first introduced in 1956 by Commissioner of Baseball Ford C. Frick in honor of Hall of Fame pitcher Cy Young, who died in 1955.[6] The award would be given to pitchers only. Originally given to the single best pitcher in the major leagues, the award changed its format over time. From 1956 to 1966, the award was given to one pitcher in Major League Baseball. After Frick retired in 1967, William Eckert became the new Commissioner of Baseball. Due to fan requests, Eckert announced that the Cy Young Award would be given out both in the American League and the National League.[7] From 1956 to 1958, a pitcher was not allowed to win the award on more than one occasion; this rule was eliminated in 1959. After a tie in the 1969 voting for the Cy Young Award, the process was changed, in which each writer was to vote for three different pitchers: the first-place vote received five points, the second-place vote received three points, and the third-place vote received one point.[8]
 
@@ -34,7 +34,7 @@ Winners
 
 Major Leagues combined (1956–1966)
 
-Don_Newcombe_1955.png, the first winner]]
+, the first winner]]
 
 +------+---------+--------------------------+--------+-------+------+-----+
 | Year | Pitcher | Team                     | Record | Saves | ERA  | K's |
@@ -64,7 +64,7 @@ Don_Newcombe_1955.png, the first winner]]
 
 National League (1967–present)
 
-D7K_4969_Roy_Halladay.jpg, one of only six pitchers in baseball history to win the Cy Young in both leagues; in 2003 with the Toronto Blue Jays and in 2010 with the Philadelphia Phillies]] Clayton_Kershaw_2010_(1).jpg, three-time winner]] Lincecum_pitch.jpg won consecutively in his first two full seasons, an MLB Record]] MG_4618_R._A._Dickey.jpg, the first knuckleball pitcher to win the award]]
+, one of only six pitchers in baseball history to win the Cy Young in both leagues; in 2003 with the Toronto Blue Jays and in 2010 with the Philadelphia Phillies]] , three-time winner]] won consecutively in his first two full seasons, an MLB Record]] , the first knuckleball pitcher to win the award]]
 
 +------+---------+-----------------------+--------------------------------+-------+------+-----+
 | Year | Pitcher | Team                  | data-sort-type="number"|Record | Saves | ERA  | K's |
@@ -176,7 +176,7 @@ D7K_4969_Roy_Halladay.jpg, one of only six pitchers in baseball history to win t
 
 American League (1967–present)
 
-CC_Sabathia.jpg, one-time winner]] Pedro's_return.jpg, three-time winner]] Justin_Verlander_2008.jpg won the AL Cy Young, AL Pitching Triple Crown, and AL MVP in 2011.]] Johan_Santana_20060602.jpg, two-time winner]] Zack_Greinke_on_July_29,_2009.jpg, one-time winner]] Corey_Kluber_on_June_27,_2013.jpg, two-time winner]] MG_2010_Max_Scherzer.jpg, three-time winner]]
+, one-time winner]] , three-time winner]] won the AL Cy Young, AL Pitching Triple Crown, and AL MVP in 2011.]] , two-time winner]] , one-time winner]] , two-time winner]] , three-time winner]]
 
 +------+---------+--------------------+--------------------------------+-------+------+---------------------+
 | Year | Pitcher | Team               | data-sort-type="number"|Record | Saves | ERA  | K's                 |
@@ -288,7 +288,7 @@ CC_Sabathia.jpg, one-time winner]] Pedro's_return.jpg, three-time winner]] Justi
 
 Multiple winners
 
-Roger_clemens_2004.jpg has the most Cy Young Awards.]] Big_Unit_2009.jpg, five-time winner]] Nineteen pitchers have won the award multiple times. Roger Clemens currently holds the record for the most awards won, with seven - his first and last wins separated by eighteen years. Greg Maddux (1992–1995) and Randy Johnson (1999–2002) share the record for the most consecutive awards won. Clemens, Johnson, Pedro Martínez, Gaylord Perry, Roy Halladay and Max Scherzer are the only pitchers to have won the award in both the American League and National League; Sandy Koufax is the only pitcher who won multiple awards during the period when only one award was presented for all of Major League Baseball. Roger Clemens was the youngest pitcher to win a second Cy Young Award, while Tim Lincecum is the youngest pitcher to do so in the National League and Clayton Kershaw is the youngest left-hander to do so. Clayton Kershaw is the youngest pitcher to win a third Cy Young Award.
+has the most Cy Young Awards.]] , five-time winner]] Nineteen pitchers have won the award multiple times. Roger Clemens currently holds the record for the most awards won, with seven - his first and last wins separated by eighteen years. Greg Maddux (1992–1995) and Randy Johnson (1999–2002) share the record for the most consecutive awards won. Clemens, Johnson, Pedro Martínez, Gaylord Perry, Roy Halladay and Max Scherzer are the only pitchers to have won the award in both the American League and National League; Sandy Koufax is the only pitcher who won multiple awards during the period when only one award was presented for all of Major League Baseball. Roger Clemens was the youngest pitcher to win a second Cy Young Award, while Tim Lincecum is the youngest pitcher to do so in the National League and Clayton Kershaw is the youngest left-hander to do so. Clayton Kershaw is the youngest pitcher to win a third Cy Young Award.
 
   Pitcher           # of Awards   Years
   ----------------- ------------- ------------------------------------------

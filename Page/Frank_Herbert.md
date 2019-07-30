@@ -1,4 +1,4 @@
-Fantastic_196002.jpg" was the cover story for the February 1960 issue of _Fantastic_]]
+" was the cover story for the February 1960 issue of _Fantastic_]]
 
 FRANKLIN PATRICK HERBERT JR. (October 8, 1920 – February 11, 1986) was an American science fiction author best known for the 1965 novel _Dune_ and its five sequels. Though he became famous for his novels, he also wrote short stories and worked as a newspaper journalist, photographer, book reviewer, ecological consultant, and lecturer.
 
@@ -27,7 +27,7 @@ Herbert's first science fiction story, "Looking for Something", was published in
 
 _Dune_
 
-USA_Oregon_Dunes.jpg, near Florence, Oregon, served as an inspiration for the _Dune_ saga.]] Herbert began researching _Dune_ in 1959. He was able to devote himself wholeheartedly to his writing career because his wife returned to work full-time as an advertising writer for department stores, becoming the breadwinner during the 1960s. He later told Willis E. McNelly that the novel originated when he was supposed to do a magazine article on sand dunes in the Oregon Dunes near Florence, Oregon. He became too involved and ended up with far more raw material than needed for an article. The article was never written, but instead planted the seed that led to _Dune_.
+, near Florence, Oregon, served as an inspiration for the _Dune_ saga.]] Herbert began researching _Dune_ in 1959. He was able to devote himself wholeheartedly to his writing career because his wife returned to work full-time as an advertising writer for department stores, becoming the breadwinner during the 1960s. He later told Willis E. McNelly that the novel originated when he was supposed to do a magazine article on sand dunes in the Oregon Dunes near Florence, Oregon. He became too involved and ended up with far more raw material than needed for an article. The article was never written, but instead planted the seed that led to _Dune_.
 
 _Dune_ took six years of research and writing to complete and it was much longer than commercial science fiction of the time was supposed to be. _Analog_ (the renamed _Astounding_, still edited by John W. Campbell) published it in two parts comprising eight installments, "Dune World" from December 1963 and "Prophet of Dune" in 1965.[12] It was then rejected by nearly twenty book publishers. One editor prophetically wrote, "I might be making the mistake of the decade, but ...".[13]
 

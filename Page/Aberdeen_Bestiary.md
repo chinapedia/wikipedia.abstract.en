@@ -5,7 +5,7 @@ Information about its origins and patron are circumstantial. It probably comes f
 
 Creation
 
-AberdeenBestiaryFolio005rAdamNamesAnimalsDetail.jpg names the animals.]] AberdeenBestiaryFolio008rTigerDetail.jpg (_Tigris_).]] AberdeenBestiaryFolio008vLeopardDetail.jpg (_Pardus_).]] AberdeenBestiaryFolio009rPantherDetail.jpg (_Panther_).]] F11v-aberdeen-best-detail.jpg (_Yena_).]] F13r-aberdeen-best.jpg (_Satyrs_).]] F15r-aberdeen-best-detail.jpg (_Monoceros_).]] Aberdeen_ram.jpg (_Aries_).]] Aberdeen_Lamb.jpg (_Agnus_).]] Aberdeen_Bestiary_-_Owl.JPG (_Nicticorax_).]] Phoenix_rising_from_its_ashes.jpg (_Fenix_) rising from its ashes.]] Phoenix_detail_from_Aberdeen_Bestiary.jpg (_Fenix_).]] Perindens.jpg (_Perindens_).]]
+names the animals.]] (_Tigris_).]] (_Pardus_).]] (_Panther_).]] (_Yena_).]] (_Satyrs_).]] (_Monoceros_).]] (_Aries_).]] (_Agnus_).]] (_Nicticorax_).]] (_Fenix_) rising from its ashes.]] (_Fenix_).]] (_Perindens_).]]
 
 -   Folio 1 (i.e., leaf) recto: Creation of heaven and earth (_Genesis_, 1: 1-5).
 -   Folio 1 verso: Creation of the waters and the firmament (_Genesis_, 1: 6-8).

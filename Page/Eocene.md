@@ -106,7 +106,7 @@ Antarctica, which began the Eocene fringed with a warm temperate to sub-tropical
 
 Fauna
 
-Crassostrea_gigantissima_(Finch,_1824).JPG]] Nummulitids.jpgns showing microspheric and megalospheric individuals; Eocene of the United Arab Emirates; scale in mm.]] The oldest known fossils of most of the modern mammal orders appear within a brief period during the early Eocene. At the beginning of the Eocene, several new mammal groups arrived in North America. These modern mammals, like artiodactyls, perissodactyls and primates, had features like long, thin legs, feet and hands capable of grasping, as well as differentiated teeth adapted for chewing. Dwarf forms reigned. All the members of the new mammal orders were small, under 10 kg; based on comparisons of tooth size, Eocene mammals were only 60% of the size of the primitive Palaeocene mammals that preceded them. They were also smaller than the mammals that followed them. It is assumed that the hot Eocene temperatures favored smaller animals that were better able to manage the heat.
+]] ns showing microspheric and megalospheric individuals; Eocene of the United Arab Emirates; scale in mm.]] The oldest known fossils of most of the modern mammal orders appear within a brief period during the early Eocene. At the beginning of the Eocene, several new mammal groups arrived in North America. These modern mammals, like artiodactyls, perissodactyls and primates, had features like long, thin legs, feet and hands capable of grasping, as well as differentiated teeth adapted for chewing. Dwarf forms reigned. All the members of the new mammal orders were small, under 10 kg; based on comparisons of tooth size, Eocene mammals were only 60% of the size of the primitive Palaeocene mammals that preceded them. They were also smaller than the mammals that followed them. It is assumed that the hot Eocene temperatures favored smaller animals that were better able to manage the heat.
 
 Both groups of modern ungulates (hoofed animals) became prevalent because of a major radiation between Europe and North America, along with carnivorous ungulates like _Mesonyx_. Early forms of many other modern mammalian orders appeared, including bats, proboscidians (elephants), primates, rodents and marsupials. Older primitive forms of mammals declined in variety and importance. Important Eocene land fauna fossil remains have been found in western North America, Europe, Patagonia, Egypt and southeast Asia. Marine fauna are best known from South Asia and the southeast United States.
 
@@ -116,7 +116,7 @@ Several rich fossil insect faunas are known from the Eocene, notably the Baltic 
 
 Oceans
 
-Basilosaurus_BW.jpg Prorastomus_BW.jpg'', an early sirenian]] The Eocene oceans were warm and teeming with fish and other sea life. The first carcharinid sharks evolved, as did early marine mammals, including _Basilosaurus_, an early species of whale that is thought to be descended from land animals that existed earlier in the Eocene. The first sirenians, relatives of the elephants, also evolved at this time.
+'', an early sirenian]] The Eocene oceans were warm and teeming with fish and other sea life. The first carcharinid sharks evolved, as did early marine mammals, including _Basilosaurus_, an early species of whale that is thought to be descended from land animals that existed earlier in the Eocene. The first sirenians, relatives of the elephants, also evolved at this time.
 
 
 Eocene–Oligocene extinction

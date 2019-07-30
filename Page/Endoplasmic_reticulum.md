@@ -1,4 +1,4 @@
-Clara_cell_lung_-_TEM.jpg (shown in lower right-hand side of the picture). Dark small circles in the network are mitochondria.]]
+(shown in lower right-hand side of the picture). Dark small circles in the network are mitochondria.]]
 
 The ENDOPLASMIC RETICULUM (ER) is a type of organelle found in eukaryotic cells that forms an interconnected network of flattened, membrane-enclosed sacs or tube-like structures known as cisternae. The membranes of the ER are continuous with the outer nuclear membrane. The endoplasmic reticulum occurs in most types of eukaryotic cells, but is absent from red blood cells and spermatozoa.
 
@@ -12,9 +12,7 @@ The ER was observed with light microscope by Garnier in 1897, who coined the ter
 
 Structure
 
-Nucleus_ER_golgi.svg 2 Nuclear pore 3 Rough endoplasmic reticulum (RER) 4 Smooth endoplasmic reticulum (SER) 5 Ribosome on the rough ER 6 Proteins that are transported 7 Transport vesicle 8 Golgi apparatus 9 Cis face of the Golgi apparatus 10 Trans face of the Golgi apparatus 11 Cisternae of the Golgi apparatus]]
-
-Blausen_0350_EndoplasmicReticulum.png
+2 Nuclear pore 3 Rough endoplasmic reticulum (RER) 4 Smooth endoplasmic reticulum (SER) 5 Ribosome on the rough ER 6 Proteins that are transported 7 Transport vesicle 8 Golgi apparatus 9 Cis face of the Golgi apparatus 10 Trans face of the Golgi apparatus 11 Cisternae of the Golgi apparatus]]
 
 The general structure of the endoplasmic reticulum is a network of membranes called cisternae. These sac-like structures are held together by the cytoskeleton. The phospholipid membrane encloses the cisternal space (or lumen), which is continuous with the perinuclear space but separate from the cytosol. The functions of the endoplasmic reticulum can be summarized as the synthesis and export of proteins and membrane lipids, but varies between ER and cell type and cell function. The quantity of both rough and smooth endoplasmic reticulum in a cell can slowly interchange from one type to the other, depending on the changing metabolic activities of the cell. Transformation can include embedding of new proteins in membrane as well as structural changes. Changes in protein content may occur without noticeable structural changes.[6][7]
 
@@ -38,13 +36,11 @@ The rough endoplasmic reticulum is key in multiple functions:
 
 Smooth endoplasmic reticulum
 
-0313_Endoplasmic_Reticulum_c_labeled.png
-
 In most cells the smooth endoplasmic reticulum (abbreviated SER) is scarce. Instead there are areas where the ER is partly smooth and partly rough, this area is called the transitional ER. The transitional ER gets its name because it contains ER exit sites. These are areas where the transport vesicles that contain lipids and proteins made in the ER, detach from the ER and start moving to the Golgi apparatus. Specialized cells can have a lot of smooth endoplasmic reticulum and in these cells the smooth ER has many functions.[18] It synthesizes lipids, phospholipids, and steroids. Cells which secrete these products, such as those in the testes, ovaries, and sebaceous glands have an abundance of smooth endoplasmic reticulum.[19] It also carries out the metabolism of carbohydrates, detoxification of natural metabolism products and of alcohol and drugs, attachment of receptors on cell membrane proteins, and steroid metabolism.[20] In muscle cells, it regulates calcium ion concentration. Smooth endoplasmic reticulum is found in a variety of cell types (both animal and plant), and it serves different functions in each. The smooth endoplasmic reticulum also contains the enzyme glucose-6-phosphatase, which converts glucose-6-phosphate to glucose, a step in gluconeogenesis. It is connected to the nuclear envelope and consists of tubules that are located near the cell periphery. These tubes sometimes branch forming a network that is reticular in appearance.[21] In some cells, there are dilated areas like the sacs of rough endoplasmic reticulum. The network of smooth endoplasmic reticulum allows for an increased surface area to be devoted to the action or storage of key enzymes and the products of these enzymes.
 
 Sarcoplasmic reticulum
 
-Blausen_0801_SkeletalMuscle.png fiber, with sarcoplasmic reticulum colored in blue.]]
+fiber, with sarcoplasmic reticulum colored in blue.]]
 
 The sarcoplasmic reticulum (SR), from the Greek σάρξ _sarx_ ("flesh"), is smooth ER found in myocytes. The only structural difference between this organelle and the smooth endoplasmic reticulum is the medley of proteins they have, both bound to their membranes and drifting within the confines of their lumens. This fundamental difference is indicative of their functions: The endoplasmic reticulum synthesizes molecules, while the sarcoplasmic reticulum stores calcium ions and pumps them out into the sarcoplasm when the muscle fiber is stimulated.[22][23] After their release from the sarcoplasmic reticulum, calcium ions interact with contractile proteins that utilize ATP to shorten the muscle fiber. The sarcoplasmic reticulum plays a major role in excitation-contraction coupling.[24]
 

@@ -15,7 +15,7 @@ The Neils and Mackenzie settled in Kingston, Ontario. The limestone in the area 
 
 Mackenzie married Helen Neil (1826–52) in 1845 and with her had three children, with only one girl, Mary, surviving infancy. Helen and he moved to Sarnia, Ontario (known as Canada West) in 1847 and Mary was born in 1848. They were soon joined from Scotland by the rest of Mackenzie's brothers and his mother. He began working as a general contractor, earning a reputation for being a hard-working, honest man, as well as having a working man's view on fiscal policy. Mackenzie helped construct many courthouses and jails across southern Ontario. A number of these still stand today, including the Sandwich Courthouse and Jail now known as the Mackenzie Hall Cultural Centre in Windsor, Ontario, and the Kent County Courthouse and Jail in Chatham, Ontario. He even bid, unsuccessfully, on the construction of the Parliament buildings in Ottawa in 1859. Helen died in 1852, finally succumbing to the effects of excessive doses of mercury-based calomel used to treat a fever while in Kingston. In 1853, he married Jane Sym (1825–93).
 
-Mason_overseer.jpg'' cartoon shows Mackenzie the Mason and Governor General Lord Dufferin the Overseer.]]
+'' cartoon shows Mackenzie the Mason and Governor General Lord Dufferin the Overseer.]]
 
 
 Early political involvement
@@ -35,7 +35,7 @@ For a man of Mackenzie's humble origins to attain such a position was unusual in
 
 Mackenzie served concurrently as Minister of Public Works and oversaw the completion of the Parliament buildings. While drawing up the plans for the West Block, he included a circular staircase leading directly from his office to the outside of the building, which allowed him to escape the patronage-seekers waiting for him in his ante-chamber. Proving Dufferin's reflections on his character to be true, Mackenzie disliked intensely the patronage inherent in politics. Nevertheless, he found it a necessary evil to maintain party unity and ensure the loyalty of his fellow Liberals.
 
-Alexander_Mackenzie_Statue.jpg]] In keeping with his democratic ideals, Mackenzie refused the offer of a knighthood three times, and was thus the only one of Canada's first eight Prime Ministers not to be knighted. He also declined appointment to the UK Privy Council and hence does not bear the title "Right Honourable". His pride in his working class origins never left him. Once, while touring Fort Henry as prime minister, he asked the soldier accompanying him if he knew the thickness of the wall beside them. The embarrassed escort confessed that he didn't and Mackenzie replied, "I do. It is five feet, ten inches. I know, because I built it myself!"[2]
+]] In keeping with his democratic ideals, Mackenzie refused the offer of a knighthood three times, and was thus the only one of Canada's first eight Prime Ministers not to be knighted. He also declined appointment to the UK Privy Council and hence does not bear the title "Right Honourable". His pride in his working class origins never left him. Once, while touring Fort Henry as prime minister, he asked the soldier accompanying him if he knew the thickness of the wall beside them. The embarrassed escort confessed that he didn't and Mackenzie replied, "I do. It is five feet, ten inches. I know, because I built it myself!"[2]
 
 As Prime Minister, Alexander Mackenzie strove to reform and simplify the machinery of government, achieving a remarkable record of reform legislation. He introduced the secret ballot; advised the creation of the Supreme Court of Canada; the establishment of the Royal Military College of Canada in Kingston in 1874; and the creation of the Office of the Auditor General in 1878. He completed the Intercolonial Railway, but struggled to progress on the national railway due to a worldwide economic depression, almost coming to blows with the then Governor General Lord Dufferin over imperial interference. Mackenzie stood up for the rights of Canada as a nation and fought for the supremacy of Parliament and honesty in government. Above all else, he was known and loved for his honesty and integrity.
 
@@ -43,7 +43,7 @@ However, his term was marked by economic depression that had grown out of the Pa
 
 Supreme Court appointments
 
-Alexander_Mackenzie.jpg Mackenzie chose the following jurists to be appointed as justices of the Supreme Court of Canada by the Governor General:
+Mackenzie chose the following jurists to be appointed as justices of the Supreme Court of Canada by the Governor General:
 
 -   Sir William Buell Richards (Chief Justice) – September 30, 1875
 -   Télesphore Fournier – September 30, 1875
@@ -74,7 +74,7 @@ In their 1999 study of the Prime Ministers of Canada, which included the results
 
 Namesakes
 
-RMC_1880.jpg]] The following are named in honour of Alexander Mackenzie:
+]] The following are named in honour of Alexander Mackenzie:
 
 -   The Mackenzie Mountain Range in the Yukon and Northwest Territories
 -   The Mackenzie Building, and the use of the Mackenzie tartan by the bands at the Royal Military College of Canada in Kingston, Ontario, "Alexander Mackenzie", the Royal Military College of Canada March for bagpipes, was composed in his honour by Pipe Major Don M. Carrigan, who was the College Pipe Major 1973 to 1985.[29]

@@ -13,7 +13,7 @@ Little is known about Nahum's personal history. His name means "comforter", and 
 
 Historical context
 
-Nineveh_map_city_walls_&_gates.JPG, showing city wall and location of gateways.]] The subject of Nahum's prophecy is the approaching complete and final destruction of Nineveh, the capital of the great and at that time flourishing Assyrian empire. Ashurbanipal was at the height of his glory. Nineveh was a city of vast extent, and was then the center of the civilization and commerce of the world, according to Nahum a "bloody city all full of lies and robbery" (), a reference to the Neo-Assyrian Empire's military campaigns and demand of tribute and plunder from conquered cities.
+, showing city wall and location of gateways.]] The subject of Nahum's prophecy is the approaching complete and final destruction of Nineveh, the capital of the great and at that time flourishing Assyrian empire. Ashurbanipal was at the height of his glory. Nineveh was a city of vast extent, and was then the center of the civilization and commerce of the world, according to Nahum a "bloody city all full of lies and robbery" (), a reference to the Neo-Assyrian Empire's military campaigns and demand of tribute and plunder from conquered cities.
 
 Jonah had already uttered his message of warning, and Nahum was followed by Zephaniah, who also predicted (Zephaniah ) the destruction of the city.
 
@@ -37,7 +37,7 @@ Themes
 
 The fall of Nineveh
 
-Naum_e_Nínive_destruída_(Biblioteca_Nacional_de_Portugal_ALC.455,_fl.300).png and the destruction of Nineveh; Illuminated Bible from the 1220s, National Library of Portugal]] Nahum's prophecy carries a particular warning to the Ninevites of coming events, although he is partly in favor of the destruction.[19] One might even say that the book of Nahum is "a celebration of the fall of Assyria."[20] And this is not just a warning or speaking positively of the destruction of Nineveh, it is also a positive encouragement and "message of comfort for Israel, Judah, and others who had experienced the "endless cruelty" (Nahum 3:19) of the Assyrians."[21] The prophet Jonah shows us where God shows concern for the people of Nineveh, while Nahum's writing testifies to his belief in the righteousness/justice of God[22] and how God dealt with those Assyrians in punishment according to "their cruelty" (Nahum 3:19). The Assyrians had been used as God's "rod of […] anger, and the staff in their hand [as] indignation." (Isaiah 10:5)
+and the destruction of Nineveh; Illuminated Bible from the 1220s, National Library of Portugal]] Nahum's prophecy carries a particular warning to the Ninevites of coming events, although he is partly in favor of the destruction.[19] One might even say that the book of Nahum is "a celebration of the fall of Assyria."[20] And this is not just a warning or speaking positively of the destruction of Nineveh, it is also a positive encouragement and "message of comfort for Israel, Judah, and others who had experienced the "endless cruelty" (Nahum 3:19) of the Assyrians."[21] The prophet Jonah shows us where God shows concern for the people of Nineveh, while Nahum's writing testifies to his belief in the righteousness/justice of God[22] and how God dealt with those Assyrians in punishment according to "their cruelty" (Nahum 3:19). The Assyrians had been used as God's "rod of […] anger, and the staff in their hand [as] indignation." (Isaiah 10:5)
 
 The nature of God
 

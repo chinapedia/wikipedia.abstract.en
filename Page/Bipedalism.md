@@ -1,4 +1,4 @@
-Struthio_camelus_in_Serengeti_crop.jpg, the fastest extant biped[1] at [2]]] Muybridge_runner.jpg]] BIPEDALISM is a form of terrestrial locomotion where an organism moves by means of its two rear limbs or legs. An animal or machine that usually moves in a BIPEDAL manner is known as a BIPED , meaning "two feet" (from the Latin _bis_ for "double" and _pes_ for "foot"). Types of bipedal movement include walking, running, or hopping.
+, the fastest extant biped[1] at [2]]] ]] BIPEDALISM is a form of terrestrial locomotion where an organism moves by means of its two rear limbs or legs. An animal or machine that usually moves in a BIPEDAL manner is known as a BIPED , meaning "two feet" (from the Latin _bis_ for "double" and _pes_ for "foot"). Types of bipedal movement include walking, running, or hopping.
 
 Few modern species are habitual bipeds whose normal method of locomotion is two-legged. Within mammals, habitual bipedalism has evolved multiple times, with the macropods, kangaroo rats and mice, springhare,[3] hopping mice, pangolins and hominin apes (australopithecines and humans) as well as various other extinct groups evolving the trait independently. In the Triassic period some groups of archosaurs (a group that includes crocodiles and dinosaurs) developed bipedalism; among the dinosaurs, all the early forms and many later groups were habitual or exclusive bipeds; the birds are members of a clade of exclusively bipedal dinosaurs, the Theropods.
 
@@ -192,7 +192,7 @@ A biped has the ability to breathe while running, without strong coupling to str
 
 Bipedal robots
 
-Asimo.jpg - a bipedal robot]] For nearly the whole of the 20th century, bipedal robots were very difficult to construct and robot locomotion involved only wheels, treads, or multiple legs. Recent cheap and compact computing power has made two-legged robots more feasible. Some notable biped robots are ASIMO, HUBO, MABEL and QRIO. Recently, spurred by the success of creating a fully passive, un-powered bipedal walking robot,[93] those working on such machines have begun using principles gleaned from the study of human and animal locomotion, which often relies on passive mechanisms to minimize power consumption.
+- a bipedal robot]] For nearly the whole of the 20th century, bipedal robots were very difficult to construct and robot locomotion involved only wheels, treads, or multiple legs. Recent cheap and compact computing power has made two-legged robots more feasible. Some notable biped robots are ASIMO, HUBO, MABEL and QRIO. Recently, spurred by the success of creating a fully passive, un-powered bipedal walking robot,[93] those working on such machines have begun using principles gleaned from the study of human and animal locomotion, which often relies on passive mechanisms to minimize power consumption.
 
 
 See also

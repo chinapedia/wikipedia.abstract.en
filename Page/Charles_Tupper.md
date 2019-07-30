@@ -22,7 +22,7 @@ Tupper set himself up as a physician in Amherst, Nova Scotia and opened a drugst
 
 Early years in Nova Scotia politics, 1855–1864
 
-Charles_Tupper_By_John_Gardiner.png, Province House (Nova Scotia)]]
+, Province House (Nova Scotia)]]
 
 The leader of the Conservative Party of Nova Scotia, James William Johnston, a fellow Baptist and family friend of the Tuppers, encouraged Charles Tupper to enter politics.[16] In 1855 Tupper ran against the prominent Liberal politician Joseph Howe for the Cumberland County seat in the Nova Scotia House of Assembly.[17] Joseph Howe would be Tupper's political opponent several times in years to come.
 
@@ -57,7 +57,7 @@ In the run-up to the 1859 Nova Scotia election, Tupper had been unwilling to com
 
 Charlottetown Conference, September 1864
 
-CharlottetownConference1864.jpg on the steps of Government House, September 1864]] With the outbreak of the American Civil War in 1861, Tupper worried that a victorious North would turn northward and conquer the British North American provinces.[61] This caused him to redouble his commitment to union, which he now saw as essential to protecting the British colonies against American aggression.[62] Since he thought that full union among the British North American colonies would be unachievable for many years, on March 28, 1864, Tupper instead proposed a Maritime Union which would unite the Maritime provinces in advance of a projected future union with the Province of Canada.[63] A conference to discuss the proposed union of Nova Scotia, New Brunswick and Prince Edward Island was scheduled to be held in Charlottetown in September 1864.[64]
+on the steps of Government House, September 1864]] With the outbreak of the American Civil War in 1861, Tupper worried that a victorious North would turn northward and conquer the British North American provinces.[61] This caused him to redouble his commitment to union, which he now saw as essential to protecting the British colonies against American aggression.[62] Since he thought that full union among the British North American colonies would be unachievable for many years, on March 28, 1864, Tupper instead proposed a Maritime Union which would unite the Maritime provinces in advance of a projected future union with the Province of Canada.[63] A conference to discuss the proposed union of Nova Scotia, New Brunswick and Prince Edward Island was scheduled to be held in Charlottetown in September 1864.[64]
 
 Tupper was pleasantly surprised when the Premier of the Province of Canada, John A. Macdonald, asked to be allowed to attend the Charlottetown Conference.[65] The Conference, which was co-chaired by Tupper and New Brunswick Premier Samuel Leonard Tilley, welcomed the Canadian delegation and asked them to join the conference.[66] The conference proved to be a smashing success, and resulted in an agreement-in-principle to form a union of the four colonies.[67]
 
@@ -67,7 +67,7 @@ The Quebec Conference was held on October 10, as a follow-up to the Charlottetow
 
 Concerned that a united legislature would be dominated by the Province of Canada, Tupper pushed for regional representation in the upper house of the confederated colonies (a goal which would be achieved in the makeup of the Senate of Canada).[74]
 
-On the topic of which level of government would control customs in the union, Tupper ultimately agreed to accept the formula by which the federal government controlled customs in exchange for an annual subsidy of 80 cents a year for each Nova Scotian.[75] This deal was ultimately not good for Nova Scotia, which had historically received most of its government revenue from customs, and as a result, Nova Scotia entered Confederation with a deficit.[76] YoungTupper2.JPG
+On the topic of which level of government would control customs in the union, Tupper ultimately agreed to accept the formula by which the federal government controlled customs in exchange for an annual subsidy of 80 cents a year for each Nova Scotian.[75] This deal was ultimately not good for Nova Scotia, which had historically received most of its government revenue from customs, and as a result, Nova Scotia entered Confederation with a deficit.[76]
 
 Aftermath of the Quebec Conference
 
@@ -94,13 +94,13 @@ Fighting the Anti-Confederates, 1867–1869
 
 The first elections for the new House of Commons of Canada were held in August–September 1867. Tupper ran as a member for the new federal riding of Cumberland and won his seat.[89] However, he was the only pro-Confederation candidate to win a seat from Nova Scotia in the 1st Canadian Parliament, with Joseph Howe and the Anti-Confederates winning every other seat.[90]
 
-CharlesTupper1870.jpg As an ally of Sir John A. Macdonald and the Liberal-Conservative Party, it was widely believed that Tupper would have a place in the first Cabinet of Canada.[91] However, when Macdonald ran into difficulties in organizing this cabinet, Tupper stepped aside in favour of Edward Kenny.[92] Instead, Tupper set up a medical practice in Ottawa and was elected as the first president of the new Canadian Medical Association, a position he held until 1870.[93]
+As an ally of Sir John A. Macdonald and the Liberal-Conservative Party, it was widely believed that Tupper would have a place in the first Cabinet of Canada.[91] However, when Macdonald ran into difficulties in organizing this cabinet, Tupper stepped aside in favour of Edward Kenny.[92] Instead, Tupper set up a medical practice in Ottawa and was elected as the first president of the new Canadian Medical Association, a position he held until 1870.[93]
 
 In the November 1867 provincial elections in Nova Scotia, the pro-Confederation Hiram Blanchard was defeated by the leader of the Anti-Confederation Party, William Annand. Given the unpopularity of Confederation within Nova Scotia, Joseph Howe traveled to London in 1868 to attempt to persuade the British government (headed by the Earl of Derby, and then after February 1868 by Benjamin Disraeli) to allow Nova Scotia to secede from Confederation.[94] Tupper followed Howe to London where he successfully lobbied British politicians against allowing Nova Scotia to secede.[95]
 
 Following his victory in London, Tupper proposed a reconciliation with Howe: in exchange for Howe's agreeing to stop fighting against the union, Tupper and Howe would be allies in the fight to protect Nova Scotia's interests within Confederation.[96] Howe agreed to Tupper's proposal and in January 1869 entered the Canadian cabinet as President of the Queen's Privy Council for Canada.[97]
 
-With the outbreak of the Red River Rebellion in 1869, Tupper was distressed to find that his daughter Emma's husband was being held hostage by Louis Riel and the rebels.[98] He rushed to the northwest to rescue his son-in-law.[99] TupperWorking1871.jpg
+With the outbreak of the Red River Rebellion in 1869, Tupper was distressed to find that his daughter Emma's husband was being held hostage by Louis Riel and the rebels.[98] He rushed to the northwest to rescue his son-in-law.[99]
 
 President of the Queen's Privy Council for Canada, 1870–1872
 
@@ -116,7 +116,7 @@ Tupper led the Nova Scotia campaign for the Liberal-Conservative party during th
 
 Minister of Customs, 1873–1874
 
-CharlesTupper1873.jpg In February 1873, Tupper was shifted from Inland Revenue to become Minister of Customs, and in this position he was successful in having British weights and measures adopted as the uniform standard for the united colonies.[107]
+In February 1873, Tupper was shifted from Inland Revenue to become Minister of Customs, and in this position he was successful in having British weights and measures adopted as the uniform standard for the united colonies.[107]
 
 He would not hold this post for long, however, as Macdonald's government was rocked by the Pacific Scandal throughout 1873. In November 1873, the 1st Canadian Ministry was forced to resign and was replaced by the 2nd Canadian Ministry headed by Liberal Alexander Mackenzie.
 
@@ -148,7 +148,7 @@ Tupper traveled to London in summer 1879 to attempt to persuade the British gove
 
 1879 also saw Tupper made a Knight Commander of the Order of St Michael and St George, and thus entitled to use the postnominal letters "KCMG".[128]
 
-Tupper1881.jpg In 1880, George Stephen approached Tupper on behalf of a syndicate and asked to be allowed to take over construction of the railway.[129] Convinced that Stephen's syndicate was up to the task, Tupper convinced the cabinet to back the plan at a meeting in June 1880 and, together with Macdonald, negotiated a contract with the syndicate in October.[130] The syndicate successfully created the Canadian Pacific Railway in February 1881 and assumed construction of the railway shortly thereafter.[131]
+In 1880, George Stephen approached Tupper on behalf of a syndicate and asked to be allowed to take over construction of the railway.[129] Convinced that Stephen's syndicate was up to the task, Tupper convinced the cabinet to back the plan at a meeting in June 1880 and, together with Macdonald, negotiated a contract with the syndicate in October.[130] The syndicate successfully created the Canadian Pacific Railway in February 1881 and assumed construction of the railway shortly thereafter.[131]
 
 In the following years Tupper was a vocal supporter of the CPR during its competition with the Grand Trunk Railway.[132] In December 1883 he worked out a rescue plan for the CPR after it faced financial difficulties and persuaded his party and Parliament to accept the plan.[133]
 
@@ -195,7 +195,7 @@ Following the long conclusion of these negotiations, Tupper decided to return to
 
 Later years as High Commissioner, 1888–1895
 
-The_Old_Flag!_The_Old_Guard_and_the_Old_Principle!.jpg]] For Tupper's work on the Joint Commission, Joseph Chamberlain arranged for Tupper to become a baronet of the United Kingdom, and the Tupper Baronetcy was created on September 13, 1888.[172]
+]] For Tupper's work on the Joint Commission, Joseph Chamberlain arranged for Tupper to become a baronet of the United Kingdom, and the Tupper Baronetcy was created on September 13, 1888.[172]
 
 In 1889, tensions were high between the U.S. and Canada when the U.S. banned Canadians from engaging in the seal hunt in the Bering Sea as part of the ongoing Bering Sea Dispute between the U.S. and Britain.[173] Tupper traveled to Washington, D.C. to represent Canadian interests during the negotiations and was something of an embarrassment to the British diplomats.[174]
 
@@ -203,7 +203,7 @@ When, in 1890, the provincial secretary of Newfoundland, Robert Bond, negotiated
 
 Tupper remained an active politician during his time as High Commissioner, which was controversial because diplomats are traditionally expected to be nonpartisan.[176] (Tupper's successor as High Commissioner, Donald Smith would succeed in turning the High Commissioner's office into a nonpartisan office.) As such, Tupper returned to Canada to campaign on behalf of the Conservatives' National Policy during the 1891 election.[177]
 
-Tupperfamily.jpg and his grandson, March 1891]] Tupper continued to be active in the Imperial Federation League, though after 1887, the League was split over the issue of regular colonial contribution to imperial defense.[178] As a result, the League was dissolved in 1893, for which some people blamed Tupper.[179]
+and his grandson, March 1891]] Tupper continued to be active in the Imperial Federation League, though after 1887, the League was split over the issue of regular colonial contribution to imperial defense.[178] As a result, the League was dissolved in 1893, for which some people blamed Tupper.[179]
 
 With respect to the British Empire, Tupper advocated a system of mutual preferential trading. In a series of articles in _Nineteenth Century_ in 1891 and 1892, Tupper denounced the position that Canada should unilaterally reduce its tariff on British goods.[180] Rather, he argued that any such tariff reduction should only come as part of a wider trade agreement in which tariffs on Canadian goods would also be reduced at the same time.[181]
 
@@ -212,7 +212,7 @@ Sir John A. Macdonald's death in 1891 opened the possibility of Tupper's replaci
 
 Tupper becomes prime minister, 1895–1896
 
-Sir John Thompson died suddenly in office in December 1894. Many observers expected the Governor General of Canada, Lord Aberdeen, to invite Tupper to return to Canada to become prime minister.[184] However, Lord Aberdeen disliked Tupper and instead invited Sir Mackenzie Bowell to replace Thompson as prime minister.[185] TupperCartoon.jpg from February 1896]]
+Sir John Thompson died suddenly in office in December 1894. Many observers expected the Governor General of Canada, Lord Aberdeen, to invite Tupper to return to Canada to become prime minister.[184] However, Lord Aberdeen disliked Tupper and instead invited Sir Mackenzie Bowell to replace Thompson as prime minister.[185] from February 1896]]
 
 The greatest challenge facing Bowell as prime minister was the Manitoba Schools Question. The Conservative Party was bitterly divided on how to handle the Manitoba Schools Question, and as a result, on January 4, 1896, seven cabinet ministers resigned, demanding the return of Tupper.[186] As a result, Bowell and Aberdeen were forced to invite Tupper to join the 6th Canadian Ministry and on January 15 Tupper became Secretary of State for Canada, with the understanding that he would become prime minister following the dissolution of the 7th Canadian Parliament.[187]
 
@@ -225,7 +225,7 @@ In 1895 the Judicial Committee of the Privy Council ruled that the Canadian fede
 
 Prime Minister, May–July 1896
 
-Sir_charles_tupper.jpg Parliament was dissolved on April 24, 1896, and the 7th Canadian Ministry with Tupper as prime minister was sworn in on May 1[197] making him, with John Turner and Kim Campbell, one of the only three prime ministers to never sit in Parliament while in office as Prime Minister. Tupper remains the oldest person ever to become Canadian prime minister, at age 74.
+Parliament was dissolved on April 24, 1896, and the 7th Canadian Ministry with Tupper as prime minister was sworn in on May 1[197] making him, with John Turner and Kim Campbell, one of the only three prime ministers to never sit in Parliament while in office as Prime Minister. Tupper remains the oldest person ever to become Canadian prime minister, at age 74.
 
 Throughout the 1896 election campaign, Tupper argued that the real issue of the election was the future of Canadian industry, and insisted that Conservatives needed to unite to defeat the Patrons of Industry.[198] However, the Conservatives were so bitterly divided over the Manitoba Schools Question that wherever he spoke, he was faced with a barrage of criticism, most notably at a two-hour address he gave at Massey Hall in Toronto, which was constantly interrupted by the crowd.[199]
 
@@ -240,7 +240,7 @@ Tupper's 68 days is the shortest term of all prime ministers. His government nev
 
 Leader of the Opposition, 1896–1900
 
-CharlesandLadyTupper.jpg, October 1896]]
+, October 1896]]
 
 As Leader of the Opposition during the 8th Canadian Parliament, Tupper attempted to regain the loyalty of those Conservatives who had deserted the party over the Manitoba Schools Question.[206] He played up loyalty to the British Empire.[207] Tupper strongly supported Canadian participation in the Second Boer War, which broke out in 1899, and criticized Laurier for not doing enough to support Britain in the war.[208]
 
@@ -251,7 +251,7 @@ Later years, 1901–1915
 
 Following his defeat in the 1900 election, Tupper and his wife settled with their daughter Emma in Bexleyheath in north-west Kent.[213] He continued to make frequent trips to Canada to visit his sons Charles Hibbert Tupper and William Johnston Tupper, both of whom were Canadian politicians.[214]
 
-TupperCrownLife.jpg in Toronto, ca 1900]] On November 9, 1907, Tupper became a member of the British Privy Council.[215] He was also promoted to the rank of Knight Grand Cross of the Order of St Michael and St George, which entitled him to use the postnominal letters "GCMG".[216]
+in Toronto, ca 1900]] On November 9, 1907, Tupper became a member of the British Privy Council.[215] He was also promoted to the rank of Knight Grand Cross of the Order of St Michael and St George, which entitled him to use the postnominal letters "GCMG".[216]
 
 Tupper remained interested in imperial politics, and particularly with promoting Canada's place within the British Empire. He sat on the executive committee of the British Empire League and advocated closer economic ties between Canada and Britain, while continuing to oppose Imperial Federation and requests for Canada to make a direct contribution to imperial defense costs (though he supported Borden's decision to voluntarily make an emergency contribution of dreadnoughts to the Royal Navy in 1912).[217]
 
@@ -261,8 +261,6 @@ Tupper's wife, Lady Tupper died in May 1912.[220] His eldest son Orin died in Ap
 
 
 Legacy and recognition
-
-Coat_of_arms_of_Charles_Tupper.svg
 
 Tupper will be most remembered as a Father of Confederation, and his long career as a federal cabinet minister, rather than his brief time as Prime Minister. As the Premier of Nova Scotia from 1864 to 1867, he led Nova Scotia into Confederation and persuaded Joseph Howe to join the new federal government, bringing an end to the anti-Confederation movement in Nova Scotia.
 

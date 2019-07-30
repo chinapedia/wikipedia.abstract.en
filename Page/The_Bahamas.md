@@ -16,7 +16,7 @@ The word _The_ constitutes an integral part of the short form of the name and is
 
 History
 
-Landing_of_Columbus_(2).jpg for Spain in caravels; the _Niña_ and the _Pinta_, on Watling Island, an island of The Bahamas that the natives called Guanahani and that he named _San Salvador_, on 12 October 1492.[6]]] Taino people moved into the uninhabited southern Bahamas from Hispaniola and Cuba around the 11th century, having migrated there from South America. They came to be known as the Lucayan people. An estimated 30,000 Lucayans inhabited the Bahamas at the time of Christopher Columbus's arrival in 1492.
+for Spain in caravels; the _Niña_ and the _Pinta_, on Watling Island, an island of The Bahamas that the natives called Guanahani and that he named _San Salvador_, on 12 October 1492.[6]]] Taino people moved into the uninhabited southern Bahamas from Hispaniola and Cuba around the 11th century, having migrated there from South America. They came to be known as the Lucayan people. An estimated 30,000 Lucayans inhabited the Bahamas at the time of Christopher Columbus's arrival in 1492.
 
 Columbus's first landfall in the New World was on an island he named San Salvador (known to the Lucayans as _Guanahani_). Some researchers believe this site to be present-day San Salvador Island (formerly known as Watling's Island), situated in the southeastern Bahamas. An alternative theory holds that Columbus landed to the southeast on Samana Cay, according to calculations made in 1986 by _National Geographic_ writer and editor Joseph Judge, based on Columbus's log. Evidence in support of this remains inconclusive. On the landfall island, Columbus made first contact with the Lucayans and exchanged goods with them.
 
@@ -28,7 +28,7 @@ In 1670, King Charles II granted the islands to the Lords Proprietors of the Car
 
 18th–19th centuries
 
-Escaping_To_Freedom_In_The_Bahamas_sign_01.jpg commemorating hundreds of African-American slaves who escaped to freedom in the early 1820s in the Bahamas]] Beaches_in_Nassau,_Bahamas.jpg.]] Great_Isaac_Cay,_Bahamas.jpg.]] During proprietary rule, the Bahamas became a haven for pirates, including Blackbeard (_circa_ 1680–1718). To put an end to the 'Pirates' republic' and restore orderly government, Great Britain made the Bahamas a crown colony in 1718 under the royal governorship of Woodes Rogers. After a difficult struggle, he succeeded in suppressing piracy.[10] In 1720, Rogers led local militia to drive off a Spanish attack.
+commemorating hundreds of African-American slaves who escaped to freedom in the early 1820s in the Bahamas]] .]] .]] During proprietary rule, the Bahamas became a haven for pirates, including Blackbeard (_circa_ 1680–1718). To put an end to the 'Pirates' republic' and restore orderly government, Great Britain made the Bahamas a crown colony in 1718 under the royal governorship of Woodes Rogers. After a difficult struggle, he succeeded in suppressing piracy.[10] In 1720, Rogers led local militia to drive off a Spanish attack.
 
 During the US War of Independence in the late 18th century, the islands became a target for US naval forces under the command of Commodore Esek Hopkins. US Marines occupied the capital of Nassau for a fortnight or 2 weeks.
 
@@ -50,7 +50,7 @@ These incidents, in which a total of 447 slaves belonging to US nationals were f
 
 20th century
 
-The_Duke_of_Windsor_(1945).jpg and Governor of the Bahamas from 1940 to 1945]] In August 1940, the Duke of Windsor was appointed governor of the Bahamas. He arrived in the colony with his wife, the Duchess. Although disheartened at the condition of Government House, they "tried to make the best of a bad situation".[23] He did not enjoy the position, and referred to the islands as "a third-class British colony".[24]
+and Governor of the Bahamas from 1940 to 1945]] In August 1940, the Duke of Windsor was appointed governor of the Bahamas. He arrived in the colony with his wife, the Duchess. Although disheartened at the condition of Government House, they "tried to make the best of a bad situation".[23] He did not enjoy the position, and referred to the islands as "a third-class British colony".[24]
 
 He opened the small local parliament on 29 October 1940. The couple visited the "Out Islands" that November, on Axel Wenner-Gren's yacht, which caused controversy;[25] the British Foreign Office strenuously objected because they had been advised (mistakenly) by United States intelligence that Wenner-Gren was a close friend of the Luftwaffe commander Hermann Göring of Nazi Germany.[26][27]
 
@@ -60,7 +60,7 @@ The Duke resigned from the post on 16 March 1945.[30][31]
 
 Post-Second World War
 
-Sir._Roland_Symonette_Park_Sign.jpg district commemorating Sir Roland Theodore Symonette, the Bahamas' first Premier]] Modern political development began after the Second World War. The first political parties were formed in the 1950s. The British Parliament authorised the islands as internally self-governing in 1964, with Sir Roland Symonette, of the United Bahamian Party, as the first Premier.
+district commemorating Sir Roland Theodore Symonette, the Bahamas' first Premier]] Modern political development began after the Second World War. The first political parties were formed in the 1950s. The British Parliament authorised the islands as internally self-governing in 1964, with Sir Roland Symonette, of the United Bahamian Party, as the first Premier.
 
 A new constitution granting the Bahamas internal autonomy went into effect on 7 January 1964.[32] In 1967, Lynden Pindling of the Progressive Liberal Party, became the first black Premier of the Bahamian colony; in 1968 the title of the position was changed to prime minister. In 1968, Pindling announced that the Bahamas would seek full independence.[33] A new constitution giving the Bahamas increased control over its own affairs was adopted in 1968.[34]
 
@@ -73,13 +73,13 @@ The University of The Bahamas (UB) is the national higher education/tertiary sys
 
 Geography
 
-Bahamas_2009.jpg Aqua satellite image, 2009]] The country lies between latitudes 20° and 28°N, and longitudes 72° and 80°W.
+Aqua satellite image, 2009]] The country lies between latitudes 20° and 28°N, and longitudes 72° and 80°W.
 
 In 1864, the governor of the Bahamas reported that there were 29 islands, 661 cays, and 2,387 rocks in the colony.[40]
 
 The closest island to the United States is Bimini, which is also known as the gateway to the Bahamas. The island of Abaco is to the east of Grand Bahama. The southeasternmost island is Inagua. The largest island is Andros Island. Other inhabited islands include Eleuthera, Cat Island, Rum Cay, Long Island, San Salvador Island, Ragged Island, Acklins, Crooked Island, Exuma, Berry Islands and Mayaguana. Nassau, capital city of the Bahamas, lies on the island of New Providence.
 
-All the islands are low and flat, with ridges that usually rise no more than . The highest point in the country is Mount Alvernia (formerly Como Hill) on Cat Island. It has an elevation of . Hurricane_wilma_devastation.jpg in 2005]] To the southeast, the Turks and Caicos Islands, and three more extensive submarine features called Mouchoir Bank, Silver Bank and Navidad Bank, are geographically a continuation of the Bahamas.
+All the islands are low and flat, with ridges that usually rise no more than . The highest point in the country is Mount Alvernia (formerly Como Hill) on Cat Island. It has an elevation of . in 2005]] To the southeast, the Turks and Caicos Islands, and three more extensive submarine features called Mouchoir Bank, Silver Bank and Navidad Bank, are geographically a continuation of the Bahamas.
 
 Castaway Cay
 
@@ -87,7 +87,7 @@ Disney has its own private island in the Bahamas called Castaway Cay. It is loca
 
 Climate
 
-Koppen-Geiger_Map_BHS_present.svgThe climate of the Bahamas is mostly tropical savannah climate or _Aw_ according to Köppen climate classification. The low latitude, warm tropical Gulf Stream, and low elevation give the Bahamas a warm and winterless climate. The Bahamas have been free of snowfall, with the exception of snow mixed with rain reported in Freeport on the island of Grand Bahama on 19 January 1977.[41] Although every few decades low temperatures can fall below for a few hours when a severe cold outbreak comes off the North American mainland, there is only a 7 °C difference between the warmest month and coolest month in most of the Bahama islands. As with most tropical climates, seasonal rainfall follows the sun, and summer is the wettest season. The Bahamas are often sunny and dry for long periods of time, and average more than 3,000 hours or 340 days[42] of sunlight annually.
+The climate of the Bahamas is mostly tropical savannah climate or _Aw_ according to Köppen climate classification. The low latitude, warm tropical Gulf Stream, and low elevation give the Bahamas a warm and winterless climate. The Bahamas have been free of snowfall, with the exception of snow mixed with rain reported in Freeport on the island of Grand Bahama on 19 January 1977.[41] Although every few decades low temperatures can fall below for a few hours when a severe cold outbreak comes off the North American mainland, there is only a 7 °C difference between the warmest month and coolest month in most of the Bahama islands. As with most tropical climates, seasonal rainfall follows the sun, and summer is the wettest season. The Bahamas are often sunny and dry for long periods of time, and average more than 3,000 hours or 340 days[42] of sunlight annually.
 
 Tropical storms and hurricanes can on occasion impact the Bahamas. In 1992, Hurricane Andrew passed over the northern portions of the islands, and Hurricane Floyd passed near the eastern portions of the islands in 1999.
 
@@ -100,7 +100,7 @@ Tropical storms and hurricanes can on occasion impact the Bahamas. In 1992, Hurr
 
 Geology
 
-Dean_Blue_Hole_Long_Island_Bahamas_20110210.JPG in Clarence Town on Long Island, Bahamas.]] Blue_Lagoon.JPG, Bahamas.]] The Bahamas is part of the Lucayan Archipelago, which continues into the Turks and Caicos Islands, the Mouchoir Bank, the Silver Bank, and the Navidad Bank.[43]
+in Clarence Town on Long Island, Bahamas.]] , Bahamas.]] The Bahamas is part of the Lucayan Archipelago, which continues into the Turks and Caicos Islands, the Mouchoir Bank, the Silver Bank, and the Navidad Bank.[43]
 
 The Bahamas Platform, which includes the Bahamas, Southern Florida, Northern Cuba, the Turks and Caicos, and the Blake Plateau, formed about 150 Ma, not long after the formation of the North Atlantic. The 6.4 km thick limestones, which predominately make up The Bahamas, date back to the Cretaceous. These limestones would have been deposited in shallow seas, assumed to be a stretched and thinned portion of the North American continental crust. Sediments were forming at about the same rate as the crust below was sinking due to the added weight. Thus, the entire area consisted of a large marine plain with some islands. Then, at about 80 Ma, the area became flooded by the Gulf Stream. This resulted in the drowning of the Blake Plateau, the separation of The Bahamas from Cuba and Florida, the separation of the southeastern Bahamas into separate banks, the creation of the Cay Sal Bank, plus the Little and Great Bahama Banks. Sedimentation from the "carbonate factory" of each bank, or atoll, continues today at the rate of about 2 cm per kyr. Coral reefs form the "retaining walls" of these atolls, within which oolites and pellets form.[44]
 
@@ -115,7 +115,7 @@ The stratigraphy of the islands consists of the Middle Pleistocene Owl's Hole Fo
 
 Government and politics
 
-BahamianParliamentPanorama.jpg, located in Nassau]]
+, located in Nassau]]
 
 The Bahamas is a parliamentary constitutional monarchy. The queen of the Bahamas is Elizabeth II. Political and legal traditions closely follow those of the United Kingdom and the Westminster system. The Bahamas is a member of the Commonwealth of Nations and shares its head of state with other Commonwealth realms. The monarch is represented by a governor-general.
 
@@ -135,13 +135,13 @@ The Bahamas has strong bilateral relationships with the United States and the Un
 
 Armed forces
 
-Hmbsnassau.jpg The Bahamanian military is the Royal Bahamas Defence Force (RBDF), the navy of the Bahamas which includes a land unit called Commando Squadron (Regiment) and an Air Wing (Air Force). Under the Defence Act, the RBDF has been mandated, in the name of the Queen, to defend the Bahamas, protect its territorial integrity, patrol its waters, provide assistance and relief in times of disaster, maintain order in conjunction with the law enforcement agencies of the Bahamas, and carry out any such duties as determined by the National Security Council. The Defence Force is also a member of the Caribbean Community (CARICOM)'s Regional Security Task Force.
+The Bahamanian military is the Royal Bahamas Defence Force (RBDF), the navy of the Bahamas which includes a land unit called Commando Squadron (Regiment) and an Air Wing (Air Force). Under the Defence Act, the RBDF has been mandated, in the name of the Queen, to defend the Bahamas, protect its territorial integrity, patrol its waters, provide assistance and relief in times of disaster, maintain order in conjunction with the law enforcement agencies of the Bahamas, and carry out any such duties as determined by the National Security Council. The Defence Force is also a member of the Caribbean Community (CARICOM)'s Regional Security Task Force.
 
 The RBDF came into existence on 31 March 1980. Their duties include defending the Bahamas, stopping drug smuggling, illegal immigration and poaching, and providing assistance to mariners. The Defence Force has a fleet of 26 coastal and inshore patrol craft along with 3 aircraft and over 1,100 personnel including 65 officers and 74 women.
 
 Administrative divisions
 
-Districts_of_the_Bahamas_(Labeled).png The districts of the Bahamas provide a system of local government everywhere except New Providence (which holds 70% of the national population), whose affairs are handled directly by the central government. In 1996, the Bahamian Parliament passed the "Local Government Act" to facilitate the establishment of Family Island Administrators, Local Government Districts, Local District Councillors and Local Town Committees for the various island communities. The overall goal of this act is to allow the various elected leaders to govern and oversee the affairs of their respective districts without the interference of Central Government. In total, there are 32 districts, with elections being held every five years. There are 110 Councillors and 281 Town Committee members are elected to represent the various districts.[50]
+The districts of the Bahamas provide a system of local government everywhere except New Providence (which holds 70% of the national population), whose affairs are handled directly by the central government. In 1996, the Bahamian Parliament passed the "Local Government Act" to facilitate the establishment of Family Island Administrators, Local Government Districts, Local District Councillors and Local Town Committees for the various island communities. The overall goal of this act is to allow the various elected leaders to govern and oversee the affairs of their respective districts without the interference of Central Government. In total, there are 32 districts, with elections being held every five years. There are 110 Councillors and 281 Town Committee members are elected to represent the various districts.[50]
 
 Each Councillor or Town Committee member is responsible for the proper use of public funds for the maintenance and development of their constituency.
 
@@ -151,11 +151,9 @@ The districts other than New Providence are:
 
 National flag
 
-Bahamas_Flag.svg The Bahamian flag was adopted in 1973. Its colours symbolise the strength of the Bahamian people; its design reflects aspects of the natural environment (sun and sea) and economic and social development. The flag is a black equilateral triangle against the mast, superimposed on a horizontal background made up of three equal stripes of aquamarine, gold and aquamarine.
+The Bahamian flag was adopted in 1973. Its colours symbolise the strength of the Bahamian people; its design reflects aspects of the natural environment (sun and sea) and economic and social development. The flag is a black equilateral triangle against the mast, superimposed on a horizontal background made up of three equal stripes of aquamarine, gold and aquamarine.
 
 Coat of arms
-
-Coat_of_arms_of_Bahamas.svg
 
 The coat of arms of the Bahamas contains a shield with the national symbols as its focal point. The shield is supported by a marlin and a flamingo, which are the national animals of the Bahamas. The flamingo is located on the land, and the marlin on the sea, indicating the geography of the islands.
 
@@ -178,7 +176,7 @@ By the terms of GDP per capita, the Bahamas is one of the richest countries in t
 
 Tourism
 
-Atlantis_paradise.jpg in Nassau]] The Bahamas relies on tourism to generate most of its economic activity. Tourism as an industry not only accounts for over 60% of the Bahamian GDP, but provides jobs for more than half the country's workforce.[55] The Bahamas attracted 5.8 million visitors in 2012, more than 70% of whom were cruise visitors.
+in Nassau]] The Bahamas relies on tourism to generate most of its economic activity. Tourism as an industry not only accounts for over 60% of the Bahamian GDP, but provides jobs for more than half the country's workforce.[55] The Bahamas attracted 5.8 million visitors in 2012, more than 70% of whom were cruise visitors.
 
 Financial services
 
@@ -186,7 +184,7 @@ After tourism, the next most important economic sector is banking and offshore i
 
 The government has adopted incentives to encourage foreign financial business, and further banking and finance reforms are in progress. The government plans to merge the regulatory functions of key financial institutions, including the Central Bank of the Bahamas (CBB) and the Securities and Exchange Commission. The Central Bank administers restrictions and controls on capital and money market instruments. The Bahamas International Securities Exchange consists of 19 listed public companies. Reflecting the relative soundness of the banking system (mostly populated by Canadian banks), the impact of the global financial crisis on the financial sector has been limited.
 
-Tree_map_export_2009_Bahamas.jpeg The economy has a very competitive tax regime (classified as a tax haven). The government derives its revenue from import tariffs, VAT, licence fees, property and stamp taxes, but there is no income tax, corporate tax, capital gains tax, or wealth tax. Payroll taxes fund social insurance benefits and amount to 3.9% paid by the employee and 5.9% paid by the employer.[56] In 2010, overall tax revenue as a percentage of GDP was 17.2%.[57]
+The economy has a very competitive tax regime (classified as a tax haven). The government derives its revenue from import tariffs, VAT, licence fees, property and stamp taxes, but there is no income tax, corporate tax, capital gains tax, or wealth tax. Payroll taxes fund social insurance benefits and amount to 3.9% paid by the employee and 5.9% paid by the employer.[56] In 2010, overall tax revenue as a percentage of GDP was 17.2%.[57]
 
 Agriculture
 
@@ -201,7 +199,7 @@ The most populous islands are New Providence, where Nassau, the capital and larg
 
 Racial and ethnic groups
 
-According to the 99% response rate obtained from the race question on the 2010 Census questionnaire, 90.6% of the population identified themselves as being Black, 4.7% White and 2.1% of a mixed race (African and European).[62] Three centuries prior, in 1722 when the first official census of the Bahamas was taken, 74% of the population was native European and 26% native African.[63] Gary_White_Visits_Local_Schools_-_Bahamas.JPG children at a local school]]
+According to the 99% response rate obtained from the race question on the 2010 Census questionnaire, 90.6% of the population identified themselves as being Black, 4.7% White and 2.1% of a mixed race (African and European).[62] Three centuries prior, in 1722 when the first official census of the Bahamas was taken, 74% of the population was native European and 26% native African.[63] children at a local school]]
 
 Since the colonial era of plantations, Africans or Afro-Bahamians have been the largest ethnic group in the Bahamas, whose primary ancestry was based in West Africa. The first Africans to arrive to the Bahamas were freed slaves from Bermuda; they arrived with the Eleutheran Adventurers looking for new lives.
 
@@ -224,7 +222,7 @@ According to International Religious Freedom Report 2008 prepared by United Stat
 
 Culture
 
-Junkanoo.jpg celebration in Nassau]] In the less developed outer islands (or Family Islands), handicrafts include basketry made from palm fronds. This material, commonly called "straw", is plaited into hats and bags that are popular tourist items. Another use is for so-called "Voodoo dolls", even though such dolls are the result of foreign influences and not based in historic fact.[79]
+celebration in Nassau]] In the less developed outer islands (or Family Islands), handicrafts include basketry made from palm fronds. This material, commonly called "straw", is plaited into hats and bags that are popular tourist items. Another use is for so-called "Voodoo dolls", even though such dolls are the result of foreign influences and not based in historic fact.[79]
 
 A form of folk magic (obeah) is practised by some Bahamians, mainly in the Family Islands (out-islands) of the Bahamas.[80] The practice of obeah is illegal in the Bahamas and punishable by law.[81]
 

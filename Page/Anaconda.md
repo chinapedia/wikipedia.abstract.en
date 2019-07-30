@@ -10,14 +10,12 @@ Etymology
 
 The South American names _anacauchoa_ and _anacaona_ were suggested in an account by Peter Martyr d'Anghiera but the idea of a South American origin was questioned by Henry Walter Bates who, in his travels in South America, failed to find any similar name in use. The word anaconda is derived from the name of a snake from Ceylon (Sri Lanka) that John Ray described in Latin in his _Synopsis Methodica Animalium_ (1693) as _serpens indicus bubalinus anacandaia zeylonibus, ides bubalorum aliorumque jumentorum membra conterens_.[1] Ray used a catalogue of snakes from the Leyden museum supplied by Dr. Tancred Robinson, but the description of its habit was based on Andreas Cleyer who in 1684 described a gigantic snake that crushed large animals by coiling around their bodies and crushing their bones.[2] Henry Yule in his Hobson-Jobson notes that the word became more popular due to a piece of fiction published in 1768 in the Scots Magazine by a certain R. Edwin. Edwin described a 'tiger' being crushed to death by an anaconda, when there actually never were any tigers in Sri Lanka. Yule and Frank Wall noted that the snake was in fact a python and suggested a Tamil origin _anai-kondra_ meaning elephant killer.[3] A Sinhalese origin was also suggested by Donald Ferguson who pointed out that the word _Henakandaya_ (_hena_ lightning/large and _kanda_ stem/trunk) was used in Sri Lanka for the small whip snake (_Ahaetulla pulverulenta_)[4] and somehow got misapplied to the python before myths were created.[5][6][7]
 
-The name commonly used for the anaconda in Brazil is _sucuri_, _sucuriju_ or _sucuriuba_.[8]Anaconda_Redpath_museum.jpg]] Anaconda_and_Squamata_skeletons.jpg alongside other species for comparison.]] {{-}}
+The name commonly used for the anaconda in Brazil is _sucuri_, _sucuriju_ or _sucuriuba_.[8]]] alongside other species for comparison.]] {{-}}
 
 
 Species and other uses of the term "anaconda"
 
 The term "anaconda" has been used to refer to:
-
-Eunectes_murinus_-_Flickr_-_Dick_Culbert.jpg
 
 -   Any member of the genus _Eunectes_, a group of large, aquatic snakes found in South America:
     -   _Eunectes murinus_, the green anaconda – the largest species, found east of the Andes in Colombia, Venezuela, the Guianas, Ecuador, Peru, Bolivia, Brazil and Trinidad and Tobago

@@ -15,7 +15,7 @@ In Rajput times, the main piece of equipment was iron or chain-mail armour, a ro
 
 China
 
-Warring_States_or_Western_Han_crossbow.jpg (475-221 BCE)]] The states of China raised armies for at least 1000 years before the Spring and Autumn Annals. By the Warring States period, the crossbow had been perfected enough to become a military secret, with bronze bolts which could pierce any armor. Thus any political power of a state rested on the armies and their organization. China underwent political consolidation of the states of Han (韓), Wei (魏), Chu (楚), Yan (燕), Zhao (趙) and Qi (齊), until by 221 BCE, Qin Shi Huang (秦始皇帝), the first emperor of the Qin dynasty, attained absolute power. This first emperor of China could command the creation of a Terracotta Army to guard his tomb in the city of Xi'an (西安), as well as a realignment of the Great Wall of China to strengthen his empire against insurrection, invasion and incursion.
+(475-221 BCE)]] The states of China raised armies for at least 1000 years before the Spring and Autumn Annals. By the Warring States period, the crossbow had been perfected enough to become a military secret, with bronze bolts which could pierce any armor. Thus any political power of a state rested on the armies and their organization. China underwent political consolidation of the states of Han (韓), Wei (魏), Chu (楚), Yan (燕), Zhao (趙) and Qi (齊), until by 221 BCE, Qin Shi Huang (秦始皇帝), the first emperor of the Qin dynasty, attained absolute power. This first emperor of China could command the creation of a Terracotta Army to guard his tomb in the city of Xi'an (西安), as well as a realignment of the Great Wall of China to strengthen his empire against insurrection, invasion and incursion.
 
 Sun Tzu's _The Art of War_ remains one of China's Seven Military Classics, even though it is two thousand years old.[5] Since no political figure could exist without an army, measures were taken to ensure only the most capable leaders could control the armies.[6] Civil bureaucracies (士大夫) arose to control the productive power of the states, and their military power.[7]
 
@@ -27,7 +27,7 @@ This allowed the Spartans to field a full-time army with a campaign season that 
 
 Ancient Rome
 
-Relief_Kolumna_Trajana2.jpg]]
+]]
 
 The Roman Army had its origins in the citizen army of the Republic, which was staffed by citizens serving mandatory duty for Rome. Reforms turned the army into a professional organization which was still largely filled by citizens, but these citizens served continuously for 25 years before being discharged.[8]
 
@@ -35,7 +35,7 @@ The Romans were also noted for making use of auxiliary troops, non-Romans who se
 
 Medieval Europe
 
-Belagerung_von_Calais_1346-1347.JPG, and hired footsoldiers]] In the earliest Middle Ages it was the obligation of every aristocrat to respond to the call to battle with his own equipment, archers, and infantry. This decentralized system was necessary due to the social order of the time, but could lead to motley forces with variable training, equipment and abilities. The more resources the noble had access to, the better his troops would be.
+, and hired footsoldiers]] In the earliest Middle Ages it was the obligation of every aristocrat to respond to the call to battle with his own equipment, archers, and infantry. This decentralized system was necessary due to the social order of the time, but could lead to motley forces with variable training, equipment and abilities. The more resources the noble had access to, the better his troops would be.
 
 Initially, the words "knight" and "noble" were used interchangeably as there was not generally a distinction between them. While the nobility did fight upon horseback, they were also supported by lower class citizens – and mercenaries and criminals – whose only purpose was participating in warfare because, most often than not, they held brief employment during their lord's engagement.[9] As the Middle Ages progressed and feudalism developed in a legitimate social and economic system, knights started to develop into their own class with a minor caveat: they were still in debt to their lord. No longer primarily driven by economic need, the newly established vassal class were, instead, driven by fealty and chivalry.
 
@@ -51,7 +51,7 @@ In 1439 the French legislature, known as the Estates General (French: _états g�
 
 Early modern
 
-Marignano.jpg and German Landsknechts fighting for glory, fame and money at the Battle of Marignan (1515). The bulk of the Renaissance armies was composed of mercenaries.]]
+and German Landsknechts fighting for glory, fame and money at the Battle of Marignan (1515). The bulk of the Renaissance armies was composed of mercenaries.]]
 
 First nation states lacked the funds needed to maintain standing forces, so they tended to hire mercenaries to serve in their armies during wartime. Such mercenaries typically formed at the ends of periods of conflict, when men-at-arms were no longer needed by their respective governments.
 
@@ -67,7 +67,7 @@ However, aristocrats continued to monopolise the officer corps of almost all ear
 
 As any man could be quickly trained in the use of a musket, it became far easier to form massive armies. The inaccuracy of the weapons necessitated large groups of massed soldiers. This led to a rapid swelling of the size of armies. For the first time huge masses of the population could enter combat, rather than just the highly skilled professionals.
 
-Battle-of-Fontenoy.jpg and British guards politely discussing who should fire first at the Battle of Fontenoy (1745).[12] An example of "lace war".]]
+and British guards politely discussing who should fire first at the Battle of Fontenoy (1745).[12] An example of "lace war".]]
 
 It has been argued that the drawing of men from across the nation into an organized corps helped breed national unity and patriotism, and during this period the modern notion of the nation state was born. However, this would only become apparent after the French Revolutionary Wars. At this time, the _levée en masse_ and conscription would become the defining paradigm of modern warfare.
 
@@ -81,7 +81,7 @@ After the American Revolutionary War the Continental Army was quickly disbanded 
 
 Until 1733 the common soldiers of Prussian Army consisted largely of peasantry recruited or impressed from Brandenburg–Prussia, leading many to flee to neighboring countries.[13] To halt this trend, Frederick William I divided Prussia into regimental cantons. Every youth was required to serve as a soldier in these recruitment districts for three months each year; this met agrarian needs and added extra troops to bolster the regular ranks.[14]
 
-MoshkovVI_SrazhLeypcigomGRM.jpg (1813), marked the transition between aristocratic armies and national armies.[15] Masses replace hired professionals and national hatred overrides dynastic conflicts. An early example of total wars.]]
+(1813), marked the transition between aristocratic armies and national armies.[15] Masses replace hired professionals and national hatred overrides dynastic conflicts. An early example of total wars.]]
 
 Russian tsars before Peter I of Russia maintained professional hereditary musketeer corps (streltsy in Russian) that were highly unreliable and undisciplined. In times of war the armed forces were augmented by peasants. Peter I introduced a modern regular army built on German model, but with a new aspect: officers not necessarily from nobility, as talented commoners were given promotions that eventually included a noble title at the attainment of an officer's rank. Conscription of peasants and townspeople was based on quota system, per settlement. Initially it was based on the number of households, later it was based on the population numbers.[16] The term of service in the 18th century was for life. In 1793 it was reduced to 25 years. In 1834 it was reduced to 20 years plus 5 years in reserve and in 1855 to 12 years plus 3 years of reserve.[17]
 
@@ -93,7 +93,7 @@ China organized the Manchu people into the Eight Banner system in the early 17th
 
 Late modern
 
-Operation_Crusader.jpg in Egypt, 1941]] Conscription allowed the French Republic to form the _Grande Armée_, what Napoleon Bonaparte called "the nation in arms", which successfully battled European professional armies.
+in Egypt, 1941]] Conscription allowed the French Republic to form the _Grande Armée_, what Napoleon Bonaparte called "the nation in arms", which successfully battled European professional armies.
 
 Conscription, particularly when the conscripts are being sent to foreign wars that do not directly affect the security of the nation, has historically been highly politically contentious in democracies.
 
@@ -119,8 +119,6 @@ Field army
 A field army is composed of a headquarters, army troops, a variable number of corps, typically between three and four, and a variable number of divisions, also between three and four. A battle is influenced at the Field Army level by transferring divisions and reinforcements from one corps to another to increase the pressure on the enemy at a critical point. Field armies are controlled by a general or lieutenant general.
 
 Formations
-
-Army_Nato.svg
 
 A particular army can be named or numbered to distinguish it from military land forces in general. For example, the First United States Army and the Army of Northern Virginia. In the British Army it is normal to spell out the ordinal number of an army (e.g. First Army), whereas lower formations use figures (e.g. 1st Division).
 

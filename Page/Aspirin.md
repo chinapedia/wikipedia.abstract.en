@@ -13,7 +13,7 @@ Aspirin is used in the treatment of a number of conditions, including fever, pai
 
 Pain
 
-Aspirin1.jpg Aspirine_macro_shot.jpg, consisting of about 90% acetylsalicylic acid, along with a minor amount of inert fillers and binders]] Aspirin is an effective analgesic for acute pain, although it is generally considered inferior to ibuprofen because aspirin is more likely to cause gastrointestinal bleeding.[38] Aspirin is generally ineffective for those pains caused by muscle cramps, bloating, gastric distension, or acute skin irritation.[39] As with other NSAIDs, combinations of aspirin and caffeine provide slightly greater pain relief than aspirin alone.[40] Effervescent formulations of aspirin relieve pain faster than aspirin in tablets,[41] which makes them useful for the treatment of migraines.[42] Topical aspirin may be effective for treating some types of neuropathic pain.[43]
+, consisting of about 90% acetylsalicylic acid, along with a minor amount of inert fillers and binders]] Aspirin is an effective analgesic for acute pain, although it is generally considered inferior to ibuprofen because aspirin is more likely to cause gastrointestinal bleeding.[38] Aspirin is generally ineffective for those pains caused by muscle cramps, bloating, gastric distension, or acute skin irritation.[39] As with other NSAIDs, combinations of aspirin and caffeine provide slightly greater pain relief than aspirin alone.[40] Effervescent formulations of aspirin relieve pain faster than aspirin in tablets,[41] which makes them useful for the treatment of migraines.[42] Topical aspirin may be effective for treating some types of neuropathic pain.[43]
 
 Headache
 
@@ -73,7 +73,7 @@ For some people, aspirin does not have as strong an effect on platelets as for o
 
 Dosage
 
-Regular_strength_enteric_coated_aspirin_tablets.jpg 5_grain_aspirin.jpg Adult aspirin tablets are produced in standardised sizes, which vary slightly from country to country, for example 300mg in Britain and 325mg (or 5 grains) in the United States. Smaller doses are based on these standards, _e.g._, 75mg and 81mg tablets. The tablets are commonly called "baby aspirin" or "baby-strength", because they were originallybut no longerintended to be administered to infants and children.[102] No medical significance occurs due to the slight difference in dosage between the 75mg and the 81mg tablets. The dose required for benefit appears to depend on a person's weight.[103] For those weighing less than , low dose is effective for preventing cardiovascular disease; for patients above this weight, higher doses are required.[104]
+Adult aspirin tablets are produced in standardised sizes, which vary slightly from country to country, for example 300mg in Britain and 325mg (or 5 grains) in the United States. Smaller doses are based on these standards, _e.g._, 75mg and 81mg tablets. The tablets are commonly called "baby aspirin" or "baby-strength", because they were originallybut no longerintended to be administered to infants and children.[102] No medical significance occurs due to the slight difference in dosage between the 75mg and the 81mg tablets. The dose required for benefit appears to depend on a person's weight.[103] For those weighing less than , low dose is effective for preventing cardiovascular disease; for patients above this weight, higher doses are required.[104]
 
 In general, for adults, doses are taken four times a day for fever or arthritis,[105] with doses near the maximal daily dose used historically for the treatment of rheumatic fever.[106] For the prevention of myocardial infarction (MI) in someone with documented or suspected coronary artery disease, much lower doses are taken once daily.[107]
 
@@ -90,7 +90,7 @@ Aspirin should not be taken by people who are allergic to ibuprofen or naproxen,
 
 Gastrointestinal
 
-Bayer_Aspirin_Pills.jpg Aspirin use has been shown to increase the risk of gastrointestinal bleeding.[125] Although some enteric-coated formulations of aspirin are advertised as being "gentle to the stomach", in one study, enteric coating did not seem to reduce this risk.[126] Combining aspirin with other NSAIDs has also been shown to further increase this risk.[127] Using aspirin in combination with clopidogrel or warfarin also increases the risk of upper gastrointestinal bleeding.[128]
+Aspirin use has been shown to increase the risk of gastrointestinal bleeding.[125] Although some enteric-coated formulations of aspirin are advertised as being "gentle to the stomach", in one study, enteric coating did not seem to reduce this risk.[126] Combining aspirin with other NSAIDs has also been shown to further increase this risk.[127] Using aspirin in combination with clopidogrel or warfarin also increases the risk of upper gastrointestinal bleeding.[128]
 
 Blockade of COX-1 by aspirin apparently results in the upregulation of COX-2 as part of a gastric defense[129] and that taking COX-2 inhibitors concurrently with aspirin increases the gastric mucosal erosion.[130] Therefore, caution should be exercised if combining aspirin with any "natural" supplements with COX-2-inhibiting properties, such as garlic extracts, curcumin, bilberry, pine bark, ginkgo, fish oil, resveratrol, genistein, quercetin, resorcinol, and others.
 
@@ -145,10 +145,10 @@ Synthesis
 
 The synthesis of aspirin is classified as an esterification reaction. Salicylic acid is treated with acetic anhydride, an acid derivative, causing a chemical reaction that turns salicylic acid's hydroxyl group into an ester group (R-OH → R-OCOCH₃). This process yields aspirin and acetic acid, which is considered a byproduct of this reaction. Small amounts of sulfuric acid (and occasionally phosphoric acid) are almost always used as a catalyst. This method is commonly employed in undergraduate teaching labs.[165]
 
-    Aspirin_synthesis.png
+
 
 Reaction mechanism
-    Acetylation of salicylic acid, mechanism
+
 
 Formulations containing high concentrations of aspirin often smell like vinegar[166] because aspirin can decompose through hydrolysis in moist conditions, yielding salicylic and acetic acids.[167]
 
@@ -204,7 +204,7 @@ Salicylates are excreted mainly by the kidneys as salicyluric acid (75%), free s
 
 History
 
-Aspirine-1923.jpg Medicines made from willow and other salicylate-rich plants appear in clay tablets from ancient Sumer as well as the Ebers Papyrus from ancient Egypt.[205][206] Hippocrates referred to their use of salicylic tea to reduce fevers around 400 BC, and were part of the pharmacopoeia of Western medicine in classical antiquity and the Middle Ages.[207] Willow bark extract became recognized for its specific effects on fever, pain and inflammation in the mid-eighteenth century.[208] By the nineteenth century pharmacists were experimenting with and prescribing a variety of chemicals related to salicylic acid, the active component of willow extract.[209]
+Medicines made from willow and other salicylate-rich plants appear in clay tablets from ancient Sumer as well as the Ebers Papyrus from ancient Egypt.[205][206] Hippocrates referred to their use of salicylic tea to reduce fevers around 400 BC, and were part of the pharmacopoeia of Western medicine in classical antiquity and the Middle Ages.[207] Willow bark extract became recognized for its specific effects on fever, pain and inflammation in the mid-eighteenth century.[208] By the nineteenth century pharmacists were experimenting with and prescribing a variety of chemicals related to salicylic acid, the active component of willow extract.[209]
 
 In 1853, chemist Charles Frédéric Gerhardt treated sodium salicylate with acetyl chloride to produce acetylsalicylic acid for the first time;[210] in the second half of the nineteenth century, other academic chemists established the compound's chemical structure and devised more efficient methods of synthesis. In 1897, scientists at the drug and dye firm Bayer began investigating acetylsalicylic acid as a less-irritating replacement for standard common salicylate medicines, and identified a new way to synthesize it.[211] By 1899, Bayer had dubbed this drug Aspirin and was selling it around the world.[212] The word _Aspirin_ was Bayer's brand name, rather than the generic name of the drug; however, Bayer's rights to the trademark were lost or sold in many countries. Aspirin's popularity grew over the first half of the twentieth century leading to fierce competition with the proliferation of aspirin brands and products.[213]
 

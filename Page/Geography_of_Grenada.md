@@ -7,7 +7,7 @@ Grenada and its largely uninhabited outlying territories are the most southerly 
 
 Terrain
 
-Grenada.png Part of the volcanic chain in the Lesser Antilles arc, Grenada and its possessions generally vary in elevation from under 300 meters to over 600 meters above sea level. Grenada is more rugged and densely foliated than its outlying possessions, but other geographical conditions are more similar. Grenada's landmass rises from a narrow, coastal plain in a generally north-south trending axis of ridges and narrow valleys. Mount St. Catherine is the highest peak at 840 meters.
+Part of the volcanic chain in the Lesser Antilles arc, Grenada and its possessions generally vary in elevation from under 300 meters to over 600 meters above sea level. Grenada is more rugged and densely foliated than its outlying possessions, but other geographical conditions are more similar. Grenada's landmass rises from a narrow, coastal plain in a generally north-south trending axis of ridges and narrow valleys. Mount St. Catherine is the highest peak at 840 meters.
 
 Although many of the rocks and soils are of volcanic origin, the volcanic cones dotting Grenada are long dormant. The only known active volcano in the area is Kick 'em Jenny, just north between Grenada and Carriacou. Some of the drainage features on Grenada remain from its volcanic past. There are a few crater lakes, the largest of which is Grand Etang. The swift upper reaches of rivers, which occasionally overflow and cause flooding and landslides, generally cut deeply into the conic slopes. By contrast, many of the water courses in the lowlands tend to be sluggish and meandering.
 

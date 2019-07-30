@@ -47,7 +47,7 @@ Arizona continued to take control of the Series with the strong pitching perform
 
 Game 3
 
-2001_World_Series_first_pitch.jpg fleece, with a bulletproof vest underneath, President Bush tosses out the ceremonial first pitch.]]
+fleece, with a bulletproof vest underneath, President Bush tosses out the ceremonial first pitch.]]
 
 The game was opened in New York by President George W. Bush, who threw the ceremonial first pitch, a strike to Yankees backup catcher Todd Greene. Bush became the first incumbent U.S. president to throw a World Series first pitch since Jimmy Carter in . He also threw the baseball from the mound where the pitcher would be set (unlike most ceremonial first pitches which are from in front of the mound) and threw it for a strike. Chants of _"U-S-A, U-S-A"_ rang throughout Yankee Stadium. Yankees starter Roger Clemens allowed only three hits and struck out nine in seven innings of work. Yankees closer Mariano Rivera pitched two innings for the save.
 

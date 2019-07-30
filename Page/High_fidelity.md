@@ -1,5 +1,3 @@
-Audiovisual.jpg
-
 HIGH FIDELITY (often shortened to HI-FI or HIFI) is a term used by listeners, audiophiles and home audio enthusiasts to refer to high-quality reproduction of sound.[1] This is in contrast to the lower quality sound produced by inexpensive audio equipment, or the inferior quality of sound reproduction that can be heard in recordings made until the late 1940s.
 
 Ideally, high-fidelity equipment has inaudible noise and distortion, and a flat (neutral, uncolored) frequency response within the human hearing range.[2]
@@ -42,7 +40,7 @@ In addition to spatial realism, the playback of music must be subjectively free 
 
 Modularity
 
-HK_AVR_245.jpg and Harman Kardon]] _Integrated_, _mini_, or _lifestyle_ systems (also known by the older terms _music centre_ or _midi system_[15][16]) contain one or more sources such as a CD player, a tuner, or a cassette deck together with a preamplifier and a power amplifier in one box. Although some high-end manufacturers do produce integrated systems, such products are generally disparaged by audiophiles, who prefer to build a system from _separates_ (or _components_), often with each item from a different manufacturer specialising in a particular component. This provides the most flexibility for piece-by-piece upgrades and repairs.
+and Harman Kardon]] _Integrated_, _mini_, or _lifestyle_ systems (also known by the older terms _music centre_ or _midi system_[15][16]) contain one or more sources such as a CD player, a tuner, or a cassette deck together with a preamplifier and a power amplifier in one box. Although some high-end manufacturers do produce integrated systems, such products are generally disparaged by audiophiles, who prefer to build a system from _separates_ (or _components_), often with each item from a different manufacturer specialising in a particular component. This provides the most flexibility for piece-by-piece upgrades and repairs.
 
 For slightly less flexibility in upgrades, a preamplifier and a power amplifier in one box is called an _integrated amplifier_; with a tuner, it is a _receiver_. A monophonic power amplifier, which is called a _monoblock_, is often used for powering a subwoofer. Other modules in the system may include components like cartridges, tonearms, hi-fi turntables, Digital Media Players, digital audio players, DVD players that play a wide variety of discs including CDs, CD recorders, MiniDisc recorders, hi-fi videocassette recorders (VCRs) and reel-to-reel tape recorders. Signal modification equipment can include equalizers and signal processors.
 

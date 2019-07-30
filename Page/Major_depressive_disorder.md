@@ -4,12 +4,12 @@ The cause is believed to be a combination of genetic, environmental, and psychol
 
 Typically, people are treated with counseling and antidepressant medication.[21] Medication appears to be effective, but the effect may only be significant in the most severely depressed.[22][23] It is unclear whether medications affect the risk of suicide.[24] Types of counseling used include cognitive behavioral therapy (CBT) and interpersonal therapy.[25][26] If other measures are not effective, electroconvulsive therapy (ECT) may be considered.[27] Hospitalization may be necessary in cases with a risk of harm to self and may occasionally occur against a person's wishes.[28]
 
-Major depressive disorder affected approximately 216 million people (3% of the world's population) in 2015.[29] The percentage of people who are affected at one point in their life varies from 7% in Japan to 21% in France.[30] Lifetime rates are higher in the developed world (15%) compared to the developing world (11%).[31] It causes the second-most years lived with disability, after lower back pain.[32] The most common time of onset is in a person's 20s and 30s.[33][34] Females are affected about twice as often as males.[35][36] The American Psychiatric Association added "major depressive disorder" to the _Diagnostic and Statistical Manual of Mental Disorders_ (DSM-III) in 1980.[37] It was a split of the previous depressive neurosis in the DSM-II, which also encompassed the conditions now known as dysthymia and adjustment disorder with depressed mood.[38] Those currently or previously affected may be stigmatized.[39] Wikipedia-VideoWiki-Major_depressive_disorder_overview.webm)]]
+Major depressive disorder affected approximately 216 million people (3% of the world's population) in 2015.[29] The percentage of people who are affected at one point in their life varies from 7% in Japan to 21% in France.[30] Lifetime rates are higher in the developed world (15%) compared to the developing world (11%).[31] It causes the second-most years lived with disability, after lower back pain.[32] The most common time of onset is in a person's 20s and 30s.[33][34] Females are affected about twice as often as males.[35][36] The American Psychiatric Association added "major depressive disorder" to the _Diagnostic and Statistical Manual of Mental Disorders_ (DSM-III) in 1980.[37] It was a split of the previous depressive neurosis in the DSM-II, which also encompassed the conditions now known as dysthymia and adjustment disorder with depressed mood.[38] Those currently or previously affected may be stigmatized.[39] )]]
 
 
 Signs and symptoms
 
-A_woman_diagnosed_as_suffering_from_melancholia._Colour_lith_Wellcome_L0026686.jpg Major depression significantly affects a person's family and personal relationships, work or school life, sleeping and eating habits, and general health.[40] Its impact on functioning and well-being has been compared to that of other chronic medical conditions, such as diabetes.[41]
+Major depression significantly affects a person's family and personal relationships, work or school life, sleeping and eating habits, and general health.[40] Its impact on functioning and well-being has been compared to that of other chronic medical conditions, such as diabetes.[41]
 
 A person having a major depressive episode usually exhibits a very low mood, which pervades all aspects of life, and an inability to experience pleasure in activities that were formerly enjoyed. Depressed people may be preoccupied with, or ruminate over, thoughts and feelings of worthlessness, inappropriate guilt or regret, helplessness, hopelessness, and self-hatred.[42] In severe cases, depressed people may have symptoms of psychosis. These symptoms include delusions or, less commonly, hallucinations, usually unpleasant.[43] Other symptoms of depression include poor concentration and memory (especially in those with melancholic or psychotic features),[44] withdrawal from social situations and activities, reduced sex drive, irritability,[45] and thoughts of death or suicide. Insomnia is common among the depressed. In the typical pattern, a person wakes very early and cannot get back to sleep.[46] Hypersomnia, or oversleeping, can also happen.[47] Some antidepressants may also cause insomnia due to their stimulating effect.[48]
 
@@ -28,7 +28,7 @@ Depression is also associated with a 1.5- to 2-fold increased risk of cardiovasc
 
 Cause
 
-Diathesis_stress_model_cup_analogy.svg that under the same amount of stressors, person 2 is more vulnerable than person 1, because of their predisposition.[72]]] The cause of major depressive disorder is unknown. The biopsychosocial model proposes that biological, psychological, and social factors all play a role in causing depression.[73][74] The diathesis–stress model specifies that depression results when a preexisting vulnerability, or diathesis, is activated by stressful life events. The preexisting vulnerability can be either genetic,[75][76] implying an interaction between nature and nurture, or schematic, resulting from views of the world learned in childhood.[77]
+that under the same amount of stressors, person 2 is more vulnerable than person 1, because of their predisposition.[72]]] The cause of major depressive disorder is unknown. The biopsychosocial model proposes that biological, psychological, and social factors all play a role in causing depression.[73][74] The diathesis–stress model specifies that depression results when a preexisting vulnerability, or diathesis, is activated by stressful life events. The preexisting vulnerability can be either genetic,[75][76] implying an interaction between nature and nurture, or schematic, resulting from views of the world learned in childhood.[77]
 
 Childhood abuse, either physical, sexual or psychological, are all risk factors for depression, among other psychiatric issues that co-occur such as anxiety and drug abuse. Childhood trauma also correlates with severity of depression, lack of response to treatment and length of illness. However, some are more susceptible to developing mental illness such as depression after trauma, and various genes have been suggested to control susceptibility.[78]
 
@@ -171,7 +171,7 @@ Psychoanalysis is a school of thought, founded by Sigmund Freud, which emphasize
 
 Antidepressants
 
-Zoloft_bottles.jpg (Zoloft) is used primarily to treat major depression in adults.]] Conflicting results have arisen from studies that look at the effectiveness of antidepressants in people with acute, mild to moderate depression.[231] Stronger evidence supports the usefulness of antidepressants in the treatment of depression that is chronic (dysthymia) or severe.
+(Zoloft) is used primarily to treat major depression in adults.]] Conflicting results have arisen from studies that look at the effectiveness of antidepressants in people with acute, mild to moderate depression.[231] Stronger evidence supports the usefulness of antidepressants in the treatment of depression that is chronic (dysthymia) or severe.
 
 While small benefits were found, researchers Irving Kirsch and Thomas Moore state they may be due to issues with the trials rather than a true effect of the medication.[232] In a later publication, Kirsch concluded that the overall effect of new-generation antidepressant medication is below recommended criteria for clinical significance.[233] Similar results were obtained in a meta-analysis by Fornier.[234]
 
@@ -233,7 +233,7 @@ Depression is often associated with unemployment and poverty.[321] Major depress
 
 Epidemiology
 
-Unipolar_depressive_disorders_world_map_-_DALY_-_WHO2004.svg for unipolar depressive disorders per 100,000 inhabitants in 2004.[324] ]]
+for unipolar depressive disorders per 100,000 inhabitants in 2004.[324] ]]
 
 Major depressive disorder affects approximately 216 million people in 2015 (3% of the global population).[325] The percentage of people who are affected at one point in their life varies from 7% in Japan to 21% in France.[326] In most countries the number of people who have depression during their lives falls within an 8–18% range.[327] In North America, the probability of having a major depressive episode within a year-long period is 3–5% for males and 8–10% for females.[328][329] Major depression is about twice as common in women as in men, although it is unclear why this is so, and whether factors unaccounted for are contributing to this.[330] The relative increase in occurrence is related to pubertal development rather than chronological age, reaches adult ratios between the ages of 15 and 18, and appears associated with psychosocial more than hormonal factors.[331] Depression is a major cause of disability worldwide.[332]
 
@@ -242,13 +242,13 @@ People are most likely to develop their first depressive episode between the age
 
 History
 
-Hippocrates_pushkin02.jpg]]
+]]
 
 The Ancient Greek physician Hippocrates described a syndrome of melancholia as a distinct disease with particular mental and physical symptoms; he characterized all "fears and despondencies, if they last a long time" as being symptomatic of the ailment.[339] It was a similar but far broader concept than today's depression; prominence was given to a clustering of the symptoms of sadness, dejection, and despondency, and often fear, anger, delusions and obsessions were included.[340]
 
 The term _depression_ itself was derived from the Latin verb _deprimere_, "to press down".[341] From the 14th century, "to depress" meant to subjugate or to bring down in spirits. It was used in 1665 in English author Richard Baker's _Chronicle_ to refer to someone having "a great depression of spirit", and by English author Samuel Johnson in a similar sense in 1753.[342] The term also came into use in physiology and economics. An early usage referring to a psychiatric symptom was by French psychiatrist Louis Delasiauve in 1856, and by the 1860s it was appearing in medical dictionaries to refer to a physiological and metaphorical lowering of emotional function.[343] Since Aristotle, melancholia had been associated with men of learning and intellectual brilliance, a hazard of contemplation and creativity. The newer concept abandoned these associations and through the 19th century, became more associated with women.[344]
 
-A_wretched_man_with_an_approaching_depression;_represented_b_Wellcome_V0011145.jpg Although _melancholia_ remained the dominant diagnostic term, _depression_ gained increasing currency in medical treatises and was a synonym by the end of the century; German psychiatrist Emil Kraepelin may have been the first to use it as the overarching term, referring to different kinds of melancholia as _depressive states_.[345]
+Although _melancholia_ remained the dominant diagnostic term, _depression_ gained increasing currency in medical treatises and was a synonym by the end of the century; German psychiatrist Emil Kraepelin may have been the first to use it as the overarching term, referring to different kinds of melancholia as _depressive states_.[345]
 
 Sigmund Freud likened the state of melancholia to mourning in his 1917 paper _Mourning and Melancholia_. He theorized that objective loss, such as the loss of a valued relationship through death or a romantic break-up, results in subjective loss as well; the depressed individual has identified with the object of affection through an unconscious, narcissistic process called the _libidinal cathexis_ of the ego. Such loss results in severe melancholic symptoms more profound than mourning; not only is the outside world viewed negatively but the ego itself is compromised.[346] The patient's decline of self-perception is revealed in his belief of his own blame, inferiority, and unworthiness.[347] He also emphasized early life experiences as a predisposing factor.[348] Adolf Meyer put forward a mixed social and biological framework emphasizing _reactions_ in the context of an individual's life, and argued that the term _depression_ should be used instead of _melancholia_.[349] The first version of the DSM (DSM-I, 1952) contained _depressive reaction_ and the DSM-II (1968) _depressive neurosis_, defined as an excessive reaction to internal conflict or an identifiable event, and also included a depressive type of manic-depressive psychosis within Major affective disorders.[350]
 
@@ -263,7 +263,7 @@ The new definitions of depression were widely accepted, albeit with some conflic
 
 Society and culture
 
-Abraham_Lincoln_O-60_by_Brady,_1862.jpg Abraham Lincoln had "melancholy", a condition that now may be referred to as clinical depression.[361]]]
+Abraham Lincoln had "melancholy", a condition that now may be referred to as clinical depression.[361]]]
 
 Terminology
 

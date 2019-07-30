@@ -35,7 +35,7 @@ After Rousseff's impeachment, Brazil reconnecting with his western allies. When 
 
 Regional policy
 
-Mercosul-04-jul-2005.jpeg, a regional trade bloc between Argentina, Brazil, Paraguay, Uruguay, and Venezuela.]]
+, a regional trade bloc between Argentina, Brazil, Paraguay, Uruguay, and Venezuela.]]
 
 Over the past decade, Brazil has firmly established itself as a regional power.[18] It has traditionally been a leader in the inter-American community and played an important role in collective security efforts, as well as in economic cooperation in the Western Hemisphere.[19] Brazilian foreign policy supports economic and political integration efforts in order to reinforce long-standing relationships with its neighbors.[20] It is a founding member of the Organization of American States (OAS) and the Inter-American Treaty of Reciprocal Assistance (Rio Treaty).[21] It has given high priority to expanding relations with its South American neighbors and strengthening regional bodies such as the Latin American Integration Association (ALADI), the Union of South American Nations (UNASUR) and Mercosur.[22] Although integration is the primary purpose of these organizations, they also serve as forums in which Brazil can exercise its leadership and develop consensus around its positions on regional and global issues.[23] Most scholars agree that by promoting integration through organizations like Mercosur and UNASUR, Brazil has been able to solidify its role as a regional power.[24] In addition to consolidating its power within South America, Brazil has sought to expand its influence in the broader region by increasing its engagement in the Caribbean and Central America.,[25] although some think this is still a fragile, ongoing process, that can be thwarted by secondary regional powers in South America.1
 
@@ -44,7 +44,7 @@ Brazil regularly extends export credits and university scholarships to its Latin
 
 Diplomatic relations
 
-Diplomatic_missions_of_Brazil.png Brazil has a large global network of diplomatic missions, and maintains diplomatic relations with every United Nations member state, in addition to UN observer states Palestine and the Holy See.[31] As of 2011, Brazil's diplomatic network consisted of 179 overseas posts.[32]
+Brazil has a large global network of diplomatic missions, and maintains diplomatic relations with every United Nations member state, in addition to UN observer states Palestine and the Holy See.[31] As of 2011, Brazil's diplomatic network consisted of 179 overseas posts.[32]
 
 Relations with non-U.N. member or observer states:
 

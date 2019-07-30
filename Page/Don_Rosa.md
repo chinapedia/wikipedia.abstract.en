@@ -20,7 +20,7 @@ Career
 
 In 1969 while still in college, Rosa won an award as "best political cartoonist in the nation in a college paper".[4] "I'm not really an editorial cartoonist. I'd much rather be doing comedy adventure. But I must have done something right, for at one point _The Journal of Higher Education_ named me one of the five or six best college newspaper cartoonists in the nation."[5]
 
-DonRosa-2.jpg Rosa's first published comic (besides the spot illustrations in his grade school and high school newspapers) was a comic strip featuring his own character, Lancelot Pertwillaby, titled _The Pertwillaby Papers_. He created the strip in 1971 for _The Kentucky Kernel_, a college newspaper of the University of Kentucky, which wanted the strip to focus on political satire.
+Rosa's first published comic (besides the spot illustrations in his grade school and high school newspapers) was a comic strip featuring his own character, Lancelot Pertwillaby, titled _The Pertwillaby Papers_. He created the strip in 1971 for _The Kentucky Kernel_, a college newspaper of the University of Kentucky, which wanted the strip to focus on political satire.
 
 Rosa later switched the strip to comedy-adventure, his favorite style of comics, and drew the story _Lost in (an alternative section of) the Andes_. (The title is a reference to _Lost in the Andes!_, a Donald Duck story by Carl Barks, first published in April, 1949.) The so-called _Pertwillaby Papers_ included 127 published episodes by the time Rosa graduated in 1973.
 
@@ -82,7 +82,7 @@ Rosa also grows exotic chili plants and tends nearly 30 acres of a private natur
 
 Work
 
-Don_Rosa_at_Helsinki_Book_Fair_2014.jpg 2014.]] In Europe, Rosa is recognized as one of the best Disney comics creators. Carl Barks and Rosa are among the few artists who have their name written on the covers of Disney magazines when their stories are published. Rosa enjoys including subtle references to his movies and comic as well as his own previous work. He normally uses about 12 panels per page, instead of the more common eight. He needs to use the extra panels, because his plot ideas usually are too long to be published if he does not condense them.
+2014.]] In Europe, Rosa is recognized as one of the best Disney comics creators. Carl Barks and Rosa are among the few artists who have their name written on the covers of Disney magazines when their stories are published. Rosa enjoys including subtle references to his movies and comic as well as his own previous work. He normally uses about 12 panels per page, instead of the more common eight. He needs to use the extra panels, because his plot ideas usually are too long to be published if he does not condense them.
 
 Rosa has an especially large following in Finland, and in 1999, he created a special 32-page adventure featuring Scrooge McDuck for his Finnish fans called; _Sammon Salaisuus_ (translates to _The secret of the Sampo_, but it is officially named _The Quest for Kalevala_[20] in English), based on the Finnish national epic, the Kalevala. The publication of this story created a national sensation in Finland where Donald Duck and the Kalevala are important aspects of culture. It was published in many other countries as well. The cover for the comic book was a spoof of a famous painting by Akseli Gallen-Kallela.
 
@@ -110,7 +110,7 @@ Barks either created most of the characters used by Rosa or is credited for grea
 
 As most of the characters Rosa uses were created by Barks, and because Rosa considers Scrooge rather than Donald to be the main character of the Duck universe, he does not regard himself as a pure Disney artist, nor the characters really as Disney's. "Rosa prefers to say that the characters he uses are Barks's, Barks having reshaped Donald Duck's personality and creating everything else we know of Duckburg while working as a freelancer in 1942–1967 for an independent licensed publisher (Dell/Western Comics). Barks even claimed to have also created Huey, Dewey and Louie while working as a writer on Donald Duck animated cartoons in 1937." Because of his idolization of Barks, he repeatedly discourages his fans to use an absolutist way of saying his clearly different drawing style would be better than Barks's, and he found that notion confirmed when Barks himself spoke about Rosa's style in a critical tone though it is uncertain whether those comments were Barks's or those of his temporary "business managers" who filtered his communications.
 
-DonRosa_faces.jpg, Rosa uses a lot of funny, bizarre faces and slapstick in his stories. Sequence from _Incident at McDuck Tower_ (_Donald and Scrooge #1_, 1991, INDUCKS story code D+90345).]]
+, Rosa uses a lot of funny, bizarre faces and slapstick in his stories. Sequence from _Incident at McDuck Tower_ (_Donald and Scrooge #1_, 1991, INDUCKS story code D+90345).]]
 
   _"I usually don't like my stories. I mean I try really hard, but I know I don't draw that well. I know people like it because it's got lots of extra details, but art directors know good artwork, and they know mine is not good artwork. Now, people always say, 'You're being too modest, you're being too modest', and I say, 'What?' They just have to ask me the right question. I know it's not good artwork and I don't know if it's well-drawn, but I know it's entertaining."_ – Don Rosa, Torino Comics Festival, April 2011[26]
 
@@ -144,7 +144,7 @@ In _The Quest for Kalevala_ this running gag can be seen on the original, Akseli
 
 Awards
 
-Don_Rosa_Dragon_Con_2009.JPG, in 2009|270px]] His work has won Rosa a good deal of recognition in the industry, including nominations for the Comics' Buyer's Guide Award for Favorite Writer in 1997, 1998, and 1999. Heidi MacDonald of Comics Buyer's Guide also mentioned Rosa's 1994 story _Guardians of the Lost Library_ as _"possibly the greatest comic book story of all time"_.
+, in 2009|270px]] His work has won Rosa a good deal of recognition in the industry, including nominations for the Comics' Buyer's Guide Award for Favorite Writer in 1997, 1998, and 1999. Heidi MacDonald of Comics Buyer's Guide also mentioned Rosa's 1994 story _Guardians of the Lost Library_ as _"possibly the greatest comic book story of all time"_.
 
 In 1995 Rosa was awarded the Eisner Award for "Best Serialized Story" for _The Life and Times of Scrooge McDuck_. In 1997 he won an Eisner for "Best Artist/Writer – Humor Category".
 

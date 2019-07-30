@@ -20,7 +20,7 @@ By 1944, Peleliu Island was occupied by about 11,000 Japanese of the 14th Infant
 
 After their losses in the Solomons, Gilberts, Marshalls and Marianas, the Imperial Army assembled a research team to develop new island-defense tactics. They chose to abandon the old strategy of stopping the enemy at the beach. The new tactics would only disrupt the landings at the water's edge and depend on an in-depth defense farther inland. Colonel Nakagawa used the rough terrain to his advantage, by constructing a system of heavily fortified bunkers, caves and underground positions all interlocked into a "honeycomb" system. The old "banzai charge" attack was also discontinued as being both wasteful of men and ineffective. These changes would force the Americans into a war of attrition requiring increasingly more resources.
 
-Peleliu-defense-194409.jpg Nakagawa's defenses were based at Peleliu's highest point, Umurbrogol Mountain, a collection of hills and steep ridges located at the center of Peleliu overlooking a large portion of the island, including the crucial airfield. The Umurbrogol contained some 500 limestone caves, interconnected by tunnels. Many of these were former mine shafts that were turned into defense positions. Engineers added sliding armored steel doors with multiple openings to serve both artillery and machine guns. Cave entrances were built slanted as a defense against grenade and flamethrower attacks. The caves and bunkers were connected to a vast system throughout central Peleliu, which allowed the Japanese to evacuate or reoccupy positions as needed, and to take advantage of shrinking interior lines.
+Nakagawa's defenses were based at Peleliu's highest point, Umurbrogol Mountain, a collection of hills and steep ridges located at the center of Peleliu overlooking a large portion of the island, including the crucial airfield. The Umurbrogol contained some 500 limestone caves, interconnected by tunnels. Many of these were former mine shafts that were turned into defense positions. Engineers added sliding armored steel doors with multiple openings to serve both artillery and machine guns. Cave entrances were built slanted as a defense against grenade and flamethrower attacks. The caves and bunkers were connected to a vast system throughout central Peleliu, which allowed the Japanese to evacuate or reoccupy positions as needed, and to take advantage of shrinking interior lines.
 
 The Japanese were well armed with {{convert and {{converts and {{convert anti-aircraft cannons, backed by a light tank unit and an anti-aircraft detachment.
 
@@ -106,9 +106,7 @@ Battle
 
 Landing
 
-Battle_of_Peleliu_map.jpg
-
-U.S. Marines landed on Peleliu at 08:32, on September 15, the 1st Marines to the north on White Beach 1 and 2 and the 5th and 7th Marines to the center and south on Orange Beach 1, 2, and 3.[12] As the other landing craft approached the beaches, the Marines were caught in a crossfire when the Japanese opened the steel doors guarding their positions and fired artillery. The positions on the coral promontories guarding each flank fired on the Marines with 47 mm guns and 20 mm cannons. By 09:30, the Japanese had destroyed 60 LVTs and DUKWs. Orange_Beach_2_-_Peleliu.jpg on Orange Beach]]
+U.S. Marines landed on Peleliu at 08:32, on September 15, the 1st Marines to the north on White Beach 1 and 2 and the 5th and 7th Marines to the center and south on Orange Beach 1, 2, and 3.[12] As the other landing craft approached the beaches, the Marines were caught in a crossfire when the Japanese opened the steel doors guarding their positions and fired artillery. The positions on the coral promontories guarding each flank fired on the Marines with 47 mm guns and 20 mm cannons. By 09:30, the Japanese had destroyed 60 LVTs and DUKWs. on Orange Beach]]
 
 The 1st Marines were quickly bogged down by heavy fire from the extreme left flank and a 30-foot-high coral ridge, "The Point".[13] Colonel Chesty Puller narrowly escaped death when a dud high velocity artillery round struck his LVT. His communications section was destroyed on its way to the beach by a hit from a 47 mm round. The 7th Marines faced a cluttered Orange Beach 3, with natural and man-made obstacles, forcing the Amtracs to approach in column.[14]
 
@@ -118,7 +116,7 @@ At the end of the first day, the Americans held their stretch of landing beaches
 
 The airfield/South Peleliu
 
-Wounded_Marine_on_Peleliu.jpg.]]
+.]]
 
 On the second day, the 5th Marines moved to capture the airfield and push toward the eastern shore.[19] They ran across the airfield, enduring heavy artillery fire from the highlands to the north, suffering heavy casualties in the process. After capturing the airfield, they rapidly advanced to the eastern end of Peleliu, leaving the island's southern defenders to be destroyed by the 7th Marines.[20]
 
@@ -130,8 +128,6 @@ The time from liftoff to the target area for the Corsairs based on Peleliu Airfi
 
 The Point
 
-Skull_and_danger_sign_on_Peleliu.jpg
-
 The fortress at the end of the southern landing beaches (a.k.a. “The Point”) continued to cause heavy Marine casualties due to enfilading fire from Japanese heavy machine guns and anti-tank artillery across the landing beaches. Puller ordered Captain George P. Hunt, commander of K Company, 3rd Battalion, 1st Marines, to capture the position. Hunt's company approached The Point short on supplies, having lost most of its machine guns while approaching the beaches. Hunt's second platoon was pinned down for nearly a day in an anti-tank trench between fortifications. The rest of his company was endangered when the Japanese cut a hole in their line, surrounding his company and leaving his right flank cut off.[25]
 
 However, a rifle platoon began knocking out the Japanese gun positions one by one. Using smoke grenades for concealment, the platoon swept through each hole, destroying the positions with rifle grenades and close-quarters combat. After knocking out the six machine gun positions, the Marines faced the 47 mm gun cave. A lieutenant blinded the 47 mm gunner's visibility with a smoke grenade, allowing Corporal Henry W. Hahn to launch a grenade through the cave's aperture. The grenade detonated the 47 mm's shells, forcing the cave's occupants out with their bodies lit aflame as well as their ammunition belts exploding around their waists. A Marine fire team was positioned on the flank of the cave where the former occupants were shot down.
@@ -140,23 +136,21 @@ K Company had captured The Point, but Nakagawa counterattacked. The next 30 hour
 
 Ngesebus Island
 
-Digging-peleliu-l.jpg
-
 The 5th Marines—after having secured the airfield—were sent to capture Ngesebus Island, just north of Peleliu. Ngesebus was occupied by many Japanese artillery positions, and was the site of an airfield still under construction. The tiny island was connected to Peleliu by a small causeway, but 5th Marines commander Harris opted instead to make a shore-to-shore amphibious landing, predicting the causeway to be an obvious target for the island's defenders.[27]
 
 Harris coordinated a pre-landing bombardment of the island on September 28, carried out by Army guns, naval guns, howitzers from the 11th Marines, strafing runs from VMF-114's Corsairs, and fire from the approaching LVTs.[28] Unlike the Navy's bombardment of Peleliu, Harris' assault on Ngesebus successfully killed most of the Japanese defenders. The Marines still faced opposition in the ridges and caves, but the island fell quickly, with relatively light casualties for the 5th Marines. They had suffered 15 killed and 33 wounded, and inflicted 470 casualties on the Japanese.
 
 Bloody Nose Ridge
 
-Marines_wait_in_their_foxholes_-_Peleliu.jpg]]
+]]
 
 After capturing The Point, the 1st Marines moved north into the Umurbrogol pocket,[29] named "Bloody Nose Ridge" by the Marines. Puller led his men in numerous assaults, but every one brought on severe casualties by the Japanese. The 1st Marines were trapped within the narrow paths between the ridges, with each ridge fortification supporting the other with deadly crossfire.
 
-Corsair_attacks_jap_bunker_on_Peleliu.jpg The Marines took increasingly high casualties as they slowly advanced through the ridges. The Japanese again showed unusual fire discipline, striking only when they could inflict maximum casualties. As casualties mounted, Japanese snipers began to take aim at stretcher bearers, knowing that if two stretcher bearers were injured or killed, more would have to return to replace them, and the snipers could steadily pick off more and more Marines. The Japanese infiltrated the American lines at night to attack the Marines in their fighting holes. The Marines built two-man fighting holes, so one Marine could sleep while the other kept watch for infiltrators.
+The Marines took increasingly high casualties as they slowly advanced through the ridges. The Japanese again showed unusual fire discipline, striking only when they could inflict maximum casualties. As casualties mounted, Japanese snipers began to take aim at stretcher bearers, knowing that if two stretcher bearers were injured or killed, more would have to return to replace them, and the snipers could steadily pick off more and more Marines. The Japanese infiltrated the American lines at night to attack the Marines in their fighting holes. The Marines built two-man fighting holes, so one Marine could sleep while the other kept watch for infiltrators.
 
 One particularly bloody battle on Bloody Nose came when the 1st Battalion, 1st Marines—under the command of Major Raymond Davis—attacked Hill 100. Over six days of fighting, the battalion suffered 71% casualties. Captain Everett Pope and his company penetrated deep into the ridges, leading his remaining 90 men to seize what he thought was Hill 100. It took a day's fighting to reach what he thought was the crest of the hill, which was in fact another ridge occupied by more Japanese defenders.
 
-Resting_on_Peleliu_Island.jpg in his lap, while he and Pfc. Gerald Thursby Sr. take a cigarette break, during mopping up operations on Peleliu on 15 September 1944.]] Trapped at the base of the ridge, Captain Pope set up a small defense perimeter, which was attacked relentlessly by the Japanese throughout the night. The Marines soon ran out of ammunition, and had to fight the attackers with knives and fists, even resorting to throwing coral rock and empty ammunition boxes at the Japanese. Pope and his men managed to hold out until dawn came, which brought on more deadly fire. When they evacuated the position, only nine men remained. Pope later received the Medal of Honor for the action. (Picture of the Peleliu Memorial dedicated on the 50th anniversary of the landing on Peleliu with Captain Pope's name)
+in his lap, while he and Pfc. Gerald Thursby Sr. take a cigarette break, during mopping up operations on Peleliu on 15 September 1944.]] Trapped at the base of the ridge, Captain Pope set up a small defense perimeter, which was attacked relentlessly by the Japanese throughout the night. The Marines soon ran out of ammunition, and had to fight the attackers with knives and fists, even resorting to throwing coral rock and empty ammunition boxes at the Japanese. Pope and his men managed to hold out until dawn came, which brought on more deadly fire. When they evacuated the position, only nine men remained. Pope later received the Medal of Honor for the action. (Picture of the Peleliu Memorial dedicated on the 50th anniversary of the landing on Peleliu with Captain Pope's name)
 
 The Japanese eventually inflicted 70% casualties on Puller's 1st Marines, or 1,749 men.[30] After six days of fighting in the ridges of Umurbrogol, General Roy Geiger, commander of the III Amphibious Corps, sent elements of U.S. Army's 81st Infantry Division to Peleliu to relieve the regiment.[31] The 321st Regiment Combat Team landed on the western beaches of Peleliu—at the northern end of Umurbrogol mountain—on 23 September. The 321st and the 7th Marines encircled The Pocket by 24 Sept., D+9.[32]
 
@@ -168,8 +162,6 @@ A Japanese lieutenant with twenty-six 2nd Infantry soldiers and eight 45th Guard
 
 
 Aftermath
-
-Soldiers_wounded_in_battle_of_peleliu.jpg
 
 The reduction of the Japanese pocket around Umurbrogol mountain has been called the most difficult fight that the U.S. military encountered in the entire war.[39] The 1st Marine Division was severely mauled and it remained out of action until the invasion of Okinawa began on April 1, 1945. In total, the 1st Marine Division suffered over 6,500 casualties during their month on Peleliu, over one third of their entire division. The 81st Infantry Division also suffered heavy losses with 3,300 casualties during their tenure on the island.
 
@@ -211,8 +203,6 @@ For heroism:
 
 United States
 
-Kraus_RE.jpg
-
 Medal of Honor recipients
 
 -   Captain Everett P. Pope – 1st Battalion, 1st Marines
@@ -226,8 +216,6 @@ Medal of Honor recipients
 
 
 Unit citations
-
-"Peleliu_Island...Marines_move_through_the_trenches_on_the_beach_during_the_battle.",_09-15-1944_-_NARA_-_532535.jpg
 
 -   Presidential Unit Citation:
     -   1st Marine Division, September 15 to 29, 1944[48]

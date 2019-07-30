@@ -5,7 +5,7 @@ Early life
 
 Disposition
 
-Tsarevitch_Alexander_later_Alexander_III_1865_by_Sergei_Levitsky.jpg, by Sergei Lvovich Levitsky, 1865]]
+, by Sergei Lvovich Levitsky, 1865]]
 
 Grand Duke Alexander Alexandrovich was born on 10 March 1845 at the Winter Palace in Saint Petersburg, Russian Empire, the second son and third child of Emperor Alexander II and his first wife Maria Alexandrovna (née Princess Marie of Hesse).
 
@@ -21,7 +21,7 @@ Though he was destined to be a strongly counter-reforming emperor, Alexander had
 
 As Tsarevich
 
-Alexander_III_and_Maria_Fedorovna's_coronation_by_G.Becker_(1888,_Hermitage).jpg, which took place on at the Uspensky Sobor of the Moscow Kremlin. On the left of the dais can be seen his young son and heir, the Tsarevich Nicholas, and behind Nicholas can be seen a young Grand Duke George.]] Alexander became Tsarevich upon Nicholas's sudden death in 1865; it was then that he began to study the principles of law and administration under Konstantin Pobedonostsev, then a professor of civil law at Moscow State University and later (from 1880) chief procurator of the Holy Synod of the Orthodox Church in Russia. Pobedonostsev instilled into the young man's mind the belief that zeal for Russian Orthodox thought was an essential factor of Russian patriotism to be cultivated by every right-minded emperor. While he was heir apparent from 1865 to 1881 Alexander did not play a prominent part in public affairs, but allowed it to become known that he had ideas which did not coincide with the principles of the existing government.
+, which took place on at the Uspensky Sobor of the Moscow Kremlin. On the left of the dais can be seen his young son and heir, the Tsarevich Nicholas, and behind Nicholas can be seen a young Grand Duke George.]] Alexander became Tsarevich upon Nicholas's sudden death in 1865; it was then that he began to study the principles of law and administration under Konstantin Pobedonostsev, then a professor of civil law at Moscow State University and later (from 1880) chief procurator of the Holy Synod of the Orthodox Church in Russia. Pobedonostsev instilled into the young man's mind the belief that zeal for Russian Orthodox thought was an essential factor of Russian patriotism to be cultivated by every right-minded emperor. While he was heir apparent from 1865 to 1881 Alexander did not play a prominent part in public affairs, but allowed it to become known that he had ideas which did not coincide with the principles of the existing government.
 
 On his deathbed the previous tsesarevich was said to have expressed the wish that his fiancée, Princess Dagmar of Denmark, should marry his successor. This wish was swiftly realized when on in the Grand Church of the Winter Palace in St. Petersburg, Alexander wed Dagmar, who converted to Orthodox Christianity and took the name Maria Feodorovna. The union proved a happy one to the end; unlike his father's, there was no adultery in his marriage. The couple spent their wedding night at the Tsarevich's private dacha known as "My Property".
 
@@ -36,13 +36,13 @@ Alexander III disliked the extravagance of the rest of his family. It was also e
 
 Domestic policies
 
-Alexander-Maria.jpg on holiday in Copenhagen in 1893]]
+on holiday in Copenhagen in 1893]]
 
 On the day of his assassination Alexander II had signed an ukaz setting up consultative commissions to advise the monarch. On ascending to the throne, however, Alexander III took Pobedonostsev's advice and canceled the policy before its publication. He made it clear that his autocracy would not be limited.
 
 All of Alexander III's internal reforms aimed to reverse the liberalization that had occurred in his father's reign. The new Emperor believed that remaining true to Russian Orthodoxy, Autocracy, and Nationality (the ideology introduced by his grandfather, emperor Nicholas I) would save Russia from revolutionary agitation. Alexander's political ideal was a nation composed of a single nationality, language, and religion, as well as one form of administration. He attempted to realize this by the institution of mandatory teaching of the Russian language throughout the empire, including to his German, Polish, and other non-Russian subjects (with the exception of the Finns), by the patronization of Eastern Orthodoxy, by the destruction of the remnants of German, Polish, and Swedish institutions in the respective provinces, and by the weakening of Judaism through persecution of the Jews. The latter policy was implemented in the "May Laws" of 1882, which banned Jews from inhabiting rural areas and shtetls (even within the Pale of Settlement) and restricted the occupations in which they could engage.[7]
 
-Alexander_III_reception_by_Repin.jpg in Moscow; painting by Ilya Repin]]
+in Moscow; painting by Ilya Repin]]
 
 Alexander weakened the power of the _zemstvo_ (elective local administrative bodies resembling British parish councils) and placed the administration of peasant communes under the supervision of land-owning proprietors appointed by his government. These "land captains" (_zemskiye nachalniki_) were feared and resented throughout the Empire's peasant communities. These acts weakened the nobility and the peasantry and brought Imperial administration under the Emperor's personal control.
 
@@ -54,7 +54,7 @@ The famine of 1891–1892 and the ensuing cholera epidemic permitted some libera
 
 Foreign policy
 
-Borki_cathedral.jpg In foreign affairs Alexander III was a man of peace, but not at any price, and held that the best means of averting war is to be well-prepared for it. Diplomat Nikolay Girs, scion of a rich and powerful family of Scandinavian descent, served as his Foreign Minister from 1882 to 1895 and established the peaceful policies for which Alexander has been given credit. Girs was an architect of the Franco-Russian Alliance of 1891, which was later expanded into the Triple Entente with the addition of Great Britain. That alliance brought France out of diplomatic isolation, and moved Russia from the German orbit to a coalition with France, that was strongly supported by French financial assistance to Russia's economic modernization. Girs was in charge of a diplomacy that featured numerous negotiated settlements, treaties and conventions. These agreements defined Russian boundaries and restored equilibrium to dangerously unstable situations. The most dramatic success came in 1885, settling long-standing tensions with Great Britain, which was fearful that Russian expansion to the South would be a threat to India.[8] Girs was usually successful in restraining the aggressive inclinations of Tsar Alexander convincing him that the very survival of the czarist system depended on avoiding major wars. With a deep insight into the tsar's moods and views, Girs was usually able to shape the final decisions by outmaneuvering hostile journalists, ministers, and even the czarina, as well as his own ambassadors. His Russia fought no wars.[9]
+In foreign affairs Alexander III was a man of peace, but not at any price, and held that the best means of averting war is to be well-prepared for it. Diplomat Nikolay Girs, scion of a rich and powerful family of Scandinavian descent, served as his Foreign Minister from 1882 to 1895 and established the peaceful policies for which Alexander has been given credit. Girs was an architect of the Franco-Russian Alliance of 1891, which was later expanded into the Triple Entente with the addition of Great Britain. That alliance brought France out of diplomatic isolation, and moved Russia from the German orbit to a coalition with France, that was strongly supported by French financial assistance to Russia's economic modernization. Girs was in charge of a diplomacy that featured numerous negotiated settlements, treaties and conventions. These agreements defined Russian boundaries and restored equilibrium to dangerously unstable situations. The most dramatic success came in 1885, settling long-standing tensions with Great Britain, which was fearful that Russian expansion to the South would be a threat to India.[8] Girs was usually successful in restraining the aggressive inclinations of Tsar Alexander convincing him that the very survival of the czarist system depended on avoiding major wars. With a deep insight into the tsar's moods and views, Girs was usually able to shape the final decisions by outmaneuvering hostile journalists, ministers, and even the czarina, as well as his own ambassadors. His Russia fought no wars.[9]
 
 Though Alexander was indignant at the conduct of German chancellor Otto von Bismarck towards Russia, he avoided an open rupture with Germany—even reviving the League of Three Emperors for a period of time—and in 1887, signed the Reinsurance Treaty with the Germans. However, in 1890, the expiration of the treaty coincided with the dismissal of Bismarck by the new German emperor, Kaiser Wilhelm II (for whom the Tsar had an immense dislike), and the unwillingness of Wilhelm II's government to renew the treaty.[10] In response Alexander III then began cordial relations with France, eventually entering into an alliance with the French in 1892.
 
@@ -63,8 +63,6 @@ Despite chilly relations with Berlin, the Tsar nevertheless confined himself to 
 In Central Asian affairs he followed the traditional policy of gradually extending Russian domination without provoking conflict with the United Kingdom (see Panjdeh Incident), and he never allowed the bellicose partisans of a forward policy to get out of hand. His reign cannot be regarded as an eventful period of Russian history; but under his hard rule the country made considerable progress.
 
 Alexander and his wife regularly spent their summers at Langinkoski manor near Kotka on the Finnish coast, where their children were immersed in a Scandinavian lifestyle of relative modesty.
-
-5_Roubles_à_l'effigie_du_Tsar_d'Alexandre_III,_1888.jpg
 
 Alexander deprecated foreign influence, German influence in particular, thus the adoption of local national principles was off in all spheres of official activity, with a view to realizing his ideal of a Russia homogeneous in language, administration and religion. These ideas conflicted with those of his father, who had German sympathies despite being a patriot; Alexander II often used the German language in his private relations, occasionally ridiculed the Slavophiles and based his foreign policy on the Prussian alliance.
 
@@ -76,7 +74,7 @@ The Tsesarevich could refer to these results as confirmation of the views he had
 
 Family life
 
-Tzar_Alexander_III_and_members_of_the_Royal_family.jpg), Marie Feodorovna, Maria of Greece, Tsesarevich Nicholas (Later Emperor Nicholas II of Russia). Probably taken on the imperial yacht near Denmark, 1893.]]
+), Marie Feodorovna, Maria of Greece, Tsesarevich Nicholas (Later Emperor Nicholas II of Russia). Probably taken on the imperial yacht near Denmark, 1893.]]
 
 Following his father's assassination, Alexander III was advised that it would be difficult for him to be kept safe at the Winter Palace. As a result, Alexander relocated his family to the Gatchina Palace, located twenty miles south of St. Petersburg, making it his primary residence. Under heavy guard he would make occasional visits into St. Petersburg, but even then he would stay in the Anichkov Palace, as opposed to the Winter Palace.
 
@@ -84,7 +82,7 @@ In the 1860s Alexander fell madly in love with his mother's lady-in-waiting, Pri
 
 Alexander soon grew fond of Dagmar and had six children by her, five of whom survived into adulthood: Nicholas (b. 1868), George (b. 1871), Xenia (b. 1875), Michael (b. 1878) and Olga (b. 1882). Of his five surviving children, he was closest to his youngest two. In 1885 it was Alexander who commissioned Peter Carl Fabergé to produce the first of what were to become a series of jeweled Easter eggs (now called "Fabergé eggs") for her as an Easter gift, the First Hen egg, which delighted her immensely and became an annual Easter tradition for Alexander and, upon his succession, for his son Nicholas as well.
 
-Marble_Palace_(oriental_frontage).jpg, shows the Emperor sitting heavily on the back of a ponderous horse]]
+, shows the Emperor sitting heavily on the back of a ponderous horse]]
 
 Each summer his parents-in-law, King Christian IX and Queen Louise, held family reunions at the Danish royal palaces of Fredensborg and Bernstorff, bringing Alexander, Maria and their children to Denmark.[11] His sister-in-law, the Princess of Wales, would come from Great Britain with some of her children, and his brother-in-law, King George I of Greece, his wife, Queen Olga, who was a first cousin of Alexander and a Romanov Grand Duchess by birth, came with their children from Athens.[12] In contrast to the strict security observed in Russia, Alexander and Maria revelled in the relative freedom that they enjoyed in Denmark, Alexander once commenting to the Prince and Princess of Wales near the end of a visit that he envied them being able to return to a happy home in England, while he was returning to his Russian prison.[13] In Denmark, he was able to enjoy joining his children in muddy ponds looking for tadpoles, sneaking into his father-in-law's orchard to steal apples, and playing pranks, such as turning a water hose on the visiting King Oscar II of Sweden.[14]
 
@@ -97,12 +95,10 @@ On the Imperial train derailed in an accident at Borki. At the moment of the cra
 
 Illness and death
 
-Valentin_Serov_-_Alexander_III_in_Danish_Royal_Life_Guards_Uniform.jpg In 1894, Alexander III became ill with terminal kidney disease (nephritis). Maria Fyodorovna's sister-in-law, Queen Olga of Greece, offered her villa of Mon Repos, on the island of Corfu, in the hope that it might improve the Tsar's condition.[18] By the time that they reached Crimea, they stayed at the Maly Palace in Livadia, as Alexander was too weak to travel any further.[19] Recognizing that the Tsar's days were numbered, various imperial relatives began to descend on Livadia. Even the famed clergyman John of Kronstadt paid a visit and administered Communion to the Tsar.[20] On 21 October, Alexander received Nicholas's fiancée, Princess Alix, who had come from her native Darmstadt to receive the Tsar's blessing.[21] Despite being exceedingly weak, Alexander insisted on receiving Alix in full dress uniform, an event that left him exhausted.[22] Soon after, his health began to deteriorate more rapidly. He died in the arms of his wife, and in the presence of his physician, Ernst Viktor von Leyden, at Maly Palace in Livadia on the afternoon of at the age of forty-nine, and was succeeded by his eldest son Tsesarevich Nicholas, who took the throne as Nicholas II. After leaving Livadia on 6 November and traveling to St. Petersburg by way of Moscow, his remains were interred on 18 November at the Peter and Paul Fortress.
+In 1894, Alexander III became ill with terminal kidney disease (nephritis). Maria Fyodorovna's sister-in-law, Queen Olga of Greece, offered her villa of Mon Repos, on the island of Corfu, in the hope that it might improve the Tsar's condition.[18] By the time that they reached Crimea, they stayed at the Maly Palace in Livadia, as Alexander was too weak to travel any further.[19] Recognizing that the Tsar's days were numbered, various imperial relatives began to descend on Livadia. Even the famed clergyman John of Kronstadt paid a visit and administered Communion to the Tsar.[20] On 21 October, Alexander received Nicholas's fiancée, Princess Alix, who had come from her native Darmstadt to receive the Tsar's blessing.[21] Despite being exceedingly weak, Alexander insisted on receiving Alix in full dress uniform, an event that left him exhausted.[22] Soon after, his health began to deteriorate more rapidly. He died in the arms of his wife, and in the presence of his physician, Ernst Viktor von Leyden, at Maly Palace in Livadia on the afternoon of at the age of forty-nine, and was succeeded by his eldest son Tsesarevich Nicholas, who took the throne as Nicholas II. After leaving Livadia on 6 November and traveling to St. Petersburg by way of Moscow, his remains were interred on 18 November at the Peter and Paul Fortress.
 
 
 Issue
-
-1888._Семья_императора_Александра_III.jpg
 
 Alexander III had six children (five of whom survived to adulthood) of his marriage with Princess Dagmar of Denmark, also known as Marie Feodorovna.
 
@@ -123,7 +119,7 @@ Ancestors
 
 Monuments
 
-The_monument_of_Russian_Emperor_Alexander_III.jpg]] In 1909, a bronze equestrian statue of Alexander III sculpted by Paolo Troubetzkoy was placed in Znamenskaya Square in front of the Moscow Rail Terminal in St. Petersburg. Both the horse and rider were sculpted in massive form, leading to the nickname of "hippopotamus". Troubetzkoy envisioned the statue as a caricature, jesting that he wished "to portray an animal atop another animal", and it was quite controversial at the time, with many, including the members of the Imperial Family, opposed to the design, but it was approved because the Empress Dowager unexpectedly liked the monument. Following the Revolution of 1917 the statue remained in place as a symbol of tsarist autocracy until 1937 when it was placed in storage. In 1994 it was again put on public display, in front of the Marble Palace.[23] Another memorial is located in the city of Irkutsk at the Angara embankment.
+]] In 1909, a bronze equestrian statue of Alexander III sculpted by Paolo Troubetzkoy was placed in Znamenskaya Square in front of the Moscow Rail Terminal in St. Petersburg. Both the horse and rider were sculpted in massive form, leading to the nickname of "hippopotamus". Troubetzkoy envisioned the statue as a caricature, jesting that he wished "to portray an animal atop another animal", and it was quite controversial at the time, with many, including the members of the Imperial Family, opposed to the design, but it was approved because the Empress Dowager unexpectedly liked the monument. Following the Revolution of 1917 the statue remained in place as a symbol of tsarist autocracy until 1937 when it was placed in storage. In 1994 it was again put on public display, in front of the Marble Palace.[23] Another memorial is located in the city of Irkutsk at the Angara embankment.
 
 On 18 November 2017, Vladimir Putin unveiled a bronze monument to Alexander III on the site of the former Maly Livadia Palace in Crimea. The four-meter monument by Russian sculptor Andrey Kovalchuk depicts Alexander III sitting on a stump, his stretched arms resting on a sabre. An inscription repeats his alleged saying “_Russia has only two allies: the Army and the Navy._”[24]
 
@@ -152,8 +148,6 @@ Domestic
 Foreign[25]
 
 Arms
-
-Lesser_CoA_of_the_empire_of_Russia.svg
 
 
 See also

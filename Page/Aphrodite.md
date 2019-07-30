@@ -48,7 +48,7 @@ Worship
 
 Classical period
 
-The_Temple_of_Aphrodite,_built_in_the_Ionic_order_in_stages_during_the_Roman_period_(from_1st_century_BC_to_2nd_century_AD)_and_later_converted_into_a_Christian_basilica,_Aphrodisias,_Caria,_Turkey_(20487630885).jpg at Aphrodisias]]
+at Aphrodisias]]
 
 Aphrodite's main festival, the Aphrodisia, was celebrated across Greece, but particularly in Athens and Corinth. In Athens, the Aphrodisia was celebrated on the fourth day of the month of Hekatombaion in honor of Aphrodite's role in the unification of Attica. During this festival, the priests of Aphrodite would purify the temple of Aphrodite Pandemos on the southwestern slope of the Acropolis with the blood of a sacrificed dove. Next, the altars would be anointed and the cult statues of Aphrodite Pandemos and Peitho would be escorted in a majestic procession to a place where they would be ritually bathed. Aphrodite was also honored in Athens as part of the Arrhephoria festival. The fourth day of every month was sacred to Aphrodite.
 
@@ -60,7 +60,7 @@ Scholars in the nineteenth and twentieth centuries believed that the cult of Aph
 
 Hellenistic and Roman periods
 
-Anquises_y_Afrodita_-_Afrodisias.jpg stands beside her. Carlos Delgado; CC-BY-SA.]]
+stands beside her. Carlos Delgado; CC-BY-SA.]]
 
 During the Hellenistic period, the Greeks identified Aphrodite with the ancient Egyptian goddesses Hathor and Isis.[12] Aphrodite was the patron goddess of the Lagid queens and Queen Arsinoe II was identified as her mortal incarnation. Aphrodite was worshipped in Alexandria and had numerous temples in and around the city. Arsinoe II introduced the cult of Adonis to Alexandria and many of the women there partook in it. The Tessarakonteres, a gigantic catamaran galley designed by Archimedes for Ptolemy IV Philopator, had a circular temple to Aphrodite on it with a marble statue of the goddess herself. In the second century BC, Ptolemy VIII Physcon and his wives Cleopatra II and Cleopatra III dedicated a temple to Aphrodite Hathor at Philae. Statuettes of Aphrodite for personal devotion became common in Egypt starting in the early Ptolemaic times and extending until long after Egypt became a Roman province.
 
@@ -81,7 +81,7 @@ In the _Iliad_,[16] Aphrodite is described as the daughter of Zeus and Dione. Di
 
 Marriage
 
-Ares_e_Afrodite.JPG]] Aphrodite is consistently portrayed as a nubile, infinitely desirable adult, having had no childhood. She is often depicted nude. In the _Iliad_, Aphrodite is the apparently unmarried consort of Ares, the god of war, and the wife of Hephaestus is a different goddess named Charis. Likewise, in Hesiod's _Theogony_, Aphrodite is unmarried and the wife of Hephaestus is Aglaea, the youngest of the three Charites.
+]] Aphrodite is consistently portrayed as a nubile, infinitely desirable adult, having had no childhood. She is often depicted nude. In the _Iliad_, Aphrodite is the apparently unmarried consort of Ares, the god of war, and the wife of Hephaestus is a different goddess named Charis. Likewise, in Hesiod's _Theogony_, Aphrodite is unmarried and the wife of Hephaestus is Aglaea, the youngest of the three Charites.
 
 In Book Eight of the _Odyssey_, however, the blind singer Demodocus describes Aphrodite as the wife of Hephaestus and tells how she committed adultery with Ares during the Trojan War. The sun-god Helios saw Aphrodite and Ares having sex in Hephaestus's bed and warned Hephaestus, who fashioned a net of gold. The next time Ares and Aphrodite had sex together, the net trapped them both. Hephaestus brought all the gods into the bedchamber to laugh at the captured adulterers, but Apollo, Hermes, and Poseidon had sympathy for Ares and Poseidon agreed to pay Hephaestus for Ares's release. Humiliated, Aphrodite returned to Cyprus, where she was attended by the Charites. This narrative probably originated as a Greek folk tale, originally independent of the _Odyssey_.
 
@@ -97,7 +97,7 @@ The fertility god Priapus was usually considered to be Aphrodite's son by Dionys
 
 Anchises
 
-William_Blake_Richmond_-_Venus_and_Anchises_-_Google_Art_Project.jpg]] The _First Homeric Hymn to Aphrodite_ (Hymn 5), which was probably composed sometime in the mid-seventh century BC, describes how Zeus once became annoyed with Aphrodite for causing deities to fall in love with mortals, so he caused her to fall in love with Anchises, a handsome mortal shepherd who lived in the foothills beneath Mount Ida near the city of Troy. Aphrodite appears to Anchises in the form of a tall, beautiful, mortal virgin while he is alone in his home. Anchises sees her dressed in bright clothing and gleaming jewelry, with her breasts shining with divine radiance. He asks her if she is Aphrodite and promises to build her an altar on top of the mountain if she will bless him and his family.
+]] The _First Homeric Hymn to Aphrodite_ (Hymn 5), which was probably composed sometime in the mid-seventh century BC, describes how Zeus once became annoyed with Aphrodite for causing deities to fall in love with mortals, so he caused her to fall in love with Anchises, a handsome mortal shepherd who lived in the foothills beneath Mount Ida near the city of Troy. Aphrodite appears to Anchises in the form of a tall, beautiful, mortal virgin while he is alone in his home. Anchises sees her dressed in bright clothing and gleaming jewelry, with her breasts shining with divine radiance. He asks her if she is Aphrodite and promises to build her an altar on top of the mountain if she will bless him and his family.
 
 Aphrodite lies and tells him that she is not a goddess, but the daughter of one of the noble families of Phrygia. She claims to be able to understand the Trojan language because she had a Trojan nurse as a child and says that she found herself on the mountainside after she was snatched up by Hermes while dancing in a celebration in honor of Artemis, the goddess of virginity. Aphrodite tells Anchises that she is still a virgin and begs him to take her to his parents. Anchises immediately becomes overcome with mad lust for Aphrodite and swears that he will have sex with her. Anchises takes Aphrodite, with her eyes cast downwards, to his bed, which is covered in the furs of lions and bears. He then strips her naked and makes love to her.
 
@@ -115,7 +115,7 @@ The myth of Adonis is associated with the festival of the Adonia, which was cele
 
 Divine favoritism
 
-Pygmalion_(Raoux).jpg'' (1717) by Jean Raoux, showing Aphrodite bringing the statue to life]] In Hesiod's _Works and Days_, Zeus orders Aphrodite to make Pandora, the first woman, physically beautiful and sexually attractive, so that she may become "an evil men will love to embrace". Aphrodite "spills grace" over Pandora's head and equips her with "painful desire and knee-weakening anguish", thus making her the perfect vessel for evil to enter the world. Aphrodite's attendants, Peitho, the Charites, and the Horae, adorn Pandora with gold and jewelry.
+'' (1717) by Jean Raoux, showing Aphrodite bringing the statue to life]] In Hesiod's _Works and Days_, Zeus orders Aphrodite to make Pandora, the first woman, physically beautiful and sexually attractive, so that she may become "an evil men will love to embrace". Aphrodite "spills grace" over Pandora's head and equips her with "painful desire and knee-weakening anguish", thus making her the perfect vessel for evil to enter the world. Aphrodite's attendants, Peitho, the Charites, and the Horae, adorn Pandora with gold and jewelry.
 
 According to one myth, Aphrodite aided Hippomenes, a noble youth who wished to marry Atalanta, a maiden who was renowned throughout the land for her beauty, but who refused to marry any man unless he could outrun her in a footrace. Atalanta was an exceedingly swift runner and she beheaded all of the men who lost to her. Aphrodite gave Hippomenes three golden apples from the Garden of the Hesperides and instructed him to toss them in front of Atalanta as he raced her. Hippomenes obeyed Aphrodite's order and Atalanta, seeing the beautiful, golden fruits, bent down to pick up each one, allowing Hippomenes to outrun her. In the version of the story from Ovid's _Metamorphoses_, Hippomenes forgets to repay Aphrodite for her aid, so she causes the couple to become inflamed with lust while they are staying at the temple of Cybele. The couple desecrate the temple by having sex in it, leading Cybele to turn them into lions as punishment.
 
@@ -123,7 +123,7 @@ The myth of Pygmalion is first mentioned by the third-century BC Greek writer Ph
 
 Anger myths
 
-Hippolytus_and_Phaedra,_fresco_from_Pompeii.JPG spurning the advances of his stepmother Phaedra, whom Aphrodite caused to fall in love with him in order to bring about his tragic death.]]
+spurning the advances of his stepmother Phaedra, whom Aphrodite caused to fall in love with him in order to bring about his tragic death.]]
 
 Aphrodite generously rewarded those who honored her, but also punished those who disrespected her, often quite brutally. A myth described in Apollonius of Rhodes's _Argonautica_ and later summarized in the _Bibliotheca_ of Pseudo-Apollodorus tells how, when the women of the island of Lemnos refused to sacrifice to Aphrodite, the goddess cursed them to stink horribly so that their husbands would never have sex with them. Instead, their husbands started having sex with their Thracian slave-girls. In anger, the women of Lemnos murdered the entire male population of the island, as well as all the Thracian slaves. When Jason and his crew of Argonauts arrived on Lemnos, they mated with the sex-starved women under Aphrodite's approval and repopulated the island. From then on, the women of Lemnos never disrespected Aphrodite again.
 
@@ -133,7 +133,7 @@ Glaucus of Corinth angered Aphrodite by refusing to let his horses for chariot r
 
 Judgment of Paris and Trojan War
 
-Judgement_Paris_Antioch_Louvre_Ma3443.jpg dating to the second century AD, depicting the Judgement of Paris]]
+dating to the second century AD, depicting the Judgement of Paris]]
 
 The myth of the Judgement of Paris is mentioned briefly in the _Iliad_, but is described in depth in an epitome of the _Cypria_, a lost poem of the Epic Cycle, which records that all the gods and goddesses as well as various mortals were invited to the marriage of Peleus and Thetis (the eventual parents of Achilles). Only Eris, goddess of discord, was not invited. She was annoyed at this, so she arrived with a golden apple inscribed with the word καλλίστῃ (kallistēi, "for the fairest"), which she threw among the goddesses. Aphrodite, Hera, and Athena all claimed to be the fairest, and thus the rightful owner of the apple.
 
@@ -148,7 +148,7 @@ In Book V, Aphrodite charges into battle to rescue her son Aeneas from the Greek
 
 Lovers and children
 
-Napoli_BW_2013-05-16_16-32-51_DxO.jpg in a bikini", from the house of Julia Felix, Pompeii, Italy actually depicts her Greek counterpart Aphrodite as she is about to untie her sandal, with a small Eros squatting beneath her left arm, 1st-century AD]]
+in a bikini", from the house of Julia Felix, Pompeii, Italy actually depicts her Greek counterpart Aphrodite as she is about to untie her sandal, with a small Eros squatting beneath her left arm, 1st-century AD]]
 
 +---------------------------+----------------------------------------+----------------------+----------------------+-----------+
 | Consort                   | Offspring                              |                      | Consort              | Offspring |
@@ -227,7 +227,7 @@ File:Ludovisi throne Altemps Inv8570.jpg|The Ludovisi Throne (possibly BC) is be
 
 Post-classical culture
 
-Othea's_Epistle_(Queen's_Manuscript)_07.jpg of Venus, sitting on a rainbow, with her devotees offering her their hearts]]
+of Venus, sitting on a rainbow, with her devotees offering her their hearts]]
 
 Middle Ages
 
@@ -249,7 +249,7 @@ File:Venus and Adonis. Francois Lemoyne.jpg|_Venus and Adonis_ (1729) by Franço
 
 Literature
 
-Edouard_Zier_illustration_for_Pierre_Louys_Aphrodite.jpg's 1896 erotic novel _Aphrodite: mœurs antiques_]]
+'s 1896 erotic novel _Aphrodite: mœurs antiques_]]
 
 William Shakespeare's erotic narrative poem _Venus and Adonis_ (1593), a retelling of the courtship of Aphrodite and Adonis from Ovid's _Metamorphoses_, was the most popular of all his works published within his own lifetime. Six editions of it were published before Shakespeare's death (more than any of his other works) and it enjoyed particularly strong popularity among young adults. In 1605, Richard Barnfield lauded it, declaring that the poem had placed Shakespeare's name "in fames immortall Booke". Despite this, the poem has received mixed reception from modern critics; Samuel Taylor Coleridge defended it, but Samuel Butler complained that it bored him and C. S. Lewis described an attempted reading of it as "suffocating".
 

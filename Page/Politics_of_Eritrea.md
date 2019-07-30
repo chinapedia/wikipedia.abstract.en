@@ -78,7 +78,7 @@ With regard to the legal profession, according to a 2015 source,[9] there is not
 
 Administrative divisions
 
-Eritrea_regions_numbered.png]]
+]]
 
 Eritrea is divided into 6 regions (or _zoba_s) and subdivided into approximately 55 districts or sub-zobas. The regions are based on the hydrological properties of area. This has the dual effect of providing each administration with ample control over its agricultural capacity and eliminating historical intra-regional conflicts.
 

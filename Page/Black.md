@@ -240,7 +240,7 @@ File:Flag of Albania.svg|The FLAG of ALBANIA is a red FLAG with a silhouetted bl
 
 Military
 
-Knoe02_von_Reutsch_Husaren.jpg on the mirliton (ger. Flügelmütze).]] Black has been a traditional color of cavalry and armoured or mechanized troops. German armoured troops (Panzerwaffe) traditionally wore black uniforms, and even in others, a black beret is common. In Finland, black is the symbolic color for both armoured troops and combat engineers, and military units of these specialities have black flags and unit insignia.
+on the mirliton (ger. Flügelmütze).]] Black has been a traditional color of cavalry and armoured or mechanized troops. German armoured troops (Panzerwaffe) traditionally wore black uniforms, and even in others, a black beret is common. In Finland, black is the symbolic color for both armoured troops and combat engineers, and military units of these specialities have black flags and unit insignia.
 
 The black beret and the color black is also a symbol of special forces in many countries. Soviet and Russian OMON special police and Russian naval infantry wear a black beret. A black beret is also worn by military police in the Canadian, Czech, Croatian, Portuguese, Spanish and Serbian armies.
 
@@ -248,7 +248,7 @@ The silver-on-black skull and crossbones symbol or Totenkopf and a black uniform
 
 Religion
 
-Chancel_of_Trinity_Lutheran_Church_on_Holy_Saturday.jpg of a Lutheran church on Holy Saturday is adorned with black paraments, as black is the liturgical color of Good Friday and Holy Saturday in the Lutheran Churches.]]
+of a Lutheran church on Holy Saturday is adorned with black paraments, as black is the liturgical color of Good Friday and Holy Saturday in the Lutheran Churches.]]
 
 -   In Christian theology, black was the color of the universe before God created light. In many religious cultures, from Mesoamerica to Oceania to India and Japan, the world was created out of a primordial darkness.[73] In the Bible the light of faith and Christianity is often contrasted with the darkness of ignorance and paganism.
 
@@ -270,8 +270,6 @@ Sports
 -   A large number of teams have uniforms designed with black colors—many feeling the color sometimes imparts a psychological advantage in its wearers. Black is used by numerous professional and collegiate sports teams
 
 Idioms and expressions
-
-Hebridean_ram.jpg
 
 -   In the United States, "Black Friday" (the day after Thanksgiving Day, the fourth Thursday in November) is traditionally the busiest shopping day of the year. Many Americans are on holiday because of Thanksgiving, and many retailers open earlier and close later than normal, and offer special prices. The day's name originated in Philadelphia sometime before 1961, and originally was used to describe the heavy and disruptive downtown pedestrian and vehicle traffic which would occur on that day.[79][80] Later an alternative explanation began to be offered: that "Black Friday" indicates the point in the year that retailers begin to turn a profit, or are "in the black", because of the large volume of sales on that day.[81][82]
 -   "In the black" means profitable. Accountants originally used black ink in ledgers to indicate profit, and red ink to indicate a loss.

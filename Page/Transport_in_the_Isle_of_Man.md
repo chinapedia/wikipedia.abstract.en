@@ -3,8 +3,6 @@ There are a number of TRANSPORT SERVICES AROUND THE ISLE OF MAN, mostly consisti
 
 Roads
 
-Isle_of_Man_map_of_roads.png
-
 The island has a total of of public roads,[1] all of which are paved. Roads are numbered using a numbering scheme similar to the numbering schemes of Great Britain and Northern Ireland; each road is assigned a letter, which represents the road's category, followed by a 1 or 2 digit number. _A_ roads are the main roads of the island whilst roads labelled _B_, _C_, _D_ or _U_ decrease in size and/or quality. (The C, D and U numbers are not marked on most maps or on signposts.) There is no national speed limit - some roads may be driven at any speed which is safe and appropriate. Careless and dangerous driving laws still apply, so one may not drive at absolutely any speed, and there are local speed limits on many roads. Many unrestricted roads have frequent bends which even the most experienced driver cannot see round. Measured travel speeds (see table below) are often relatively low. Drivers are limited to in the first full year after passing their driving test (Isle of Man citizens are permitted to start driving at the age of sixteen)[2] and some are not used to having to make progress in the same way as on a larger road network such as that in the UK: even a cautious driver can get from anywhere in the island to anywhere else in no more than sixty minutes).
 
 Set against this is a strong culture of motor sport enthusiasm (pinnacled in the TT, but there are many events during the year) and many residents familiar with the roads are well used to traversing country roads at speeds illegal on similar roads elsewhere. This leads to a very diverse spread of both driving competence and speed. In an official survey in 2006 the introduction of blanket speed limits was refused by the population,[3] suggesting that a large number appreciate the freedom.
@@ -84,7 +82,7 @@ The Isle of Man Aircraft Register became operational on 1 May 2007. The register
 
 Ports and harbours
 
-Douglas_Sea_Terminal_-_Isle_of_Man_-_kingsley_-_20-APR-09.jpg at Douglas Harbour]] There are ports at Castletown, Douglas, Peel, Port St Mary and Ramsey. Douglas is served by frequent ferries to/from England and occasional ferries to/from Ireland; the sole operator is the Isle of Man Steam Packet Company, with exclusive use of the Isle of Man Sea Terminal and the Douglas port linkspans under the conditions of the user agreement with the Isle of Man Government.
+at Douglas Harbour]] There are ports at Castletown, Douglas, Peel, Port St Mary and Ramsey. Douglas is served by frequent ferries to/from England and occasional ferries to/from Ireland; the sole operator is the Isle of Man Steam Packet Company, with exclusive use of the Isle of Man Sea Terminal and the Douglas port linkspans under the conditions of the user agreement with the Isle of Man Government.
 
 
 Merchant marine

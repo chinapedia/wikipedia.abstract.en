@@ -11,7 +11,7 @@ The battlefield is located in the municipalities of Braine-l'Alleud and Lasne, a
 
 Prelude
 
-Strategic_Situation_of_Western_Europe_1815.jpg. Napoleon was forced to leave 20,000 men in Western France to reduce a royalist insurrection.]]
+. Napoleon was forced to leave 20,000 men in Western France to reduce a royalist insurrection.]]
 
 On 13 March 1815, six days before Napoleon reached Paris, the powers at the Congress of Vienna declared him an outlaw. Four days later, the United Kingdom, Russia, Austria, and Prussia mobilised armies to defeat Napoleon. Critically outnumbered, Napoleon knew that once his attempts at dissuading one or more members of the Seventh Coalition from invading France had failed, his only chance of remaining in power was to attack before the coalition mobilised.
 
@@ -21,7 +21,7 @@ An additional consideration for Napoleon was that a French victory might cause F
 
 The initial dispositions of British commander Arthur Wellesley, 1st Duke of Wellington, were intended to counter the threat of Napoleon enveloping the Coalition armies by moving through Mons to the south-west of Brussels. This would have pushed Wellington closer to the Prussian forces, led by Gebhard Leberecht von Blücher, but might have cut Wellington's communications with his base at Ostend. In order to delay Wellington's deployment, Napoleon spread false intelligence which suggested that Wellington's supply chain from the channel ports would be cut.
 
-Napoleon_crop.jpg strategy was to isolate the Anglo-allied and Prussian armies and annihilate each one separately.]] Lord_Arthur_Wellesley_the_Duke_of_Wellington.jpg, commander of the Anglo-allied army]] Blücher_(nach_Gebauer).jpg, who had led one of the coalition armies defeating Napoleon at the Battle of Leipzig, commanded the Prussian army]]
+strategy was to isolate the Anglo-allied and Prussian armies and annihilate each one separately.]] , commander of the Anglo-allied army]] , who had led one of the coalition armies defeating Napoleon at the Battle of Leipzig, commanded the Prussian army]]
 
 By June, Napoleon had raised a total army strength of about 300,000 men. The force at his disposal at Waterloo was less than one third that size, but the rank and file were nearly all loyal and experienced soldiers. Napoleon divided his army into a left wing commanded by Marshal Ney, a right wing commanded by Marshal Grouchy and a reserve under his command (although all three elements remained close enough to support one another). Crossing the frontier near Charleroi before dawn on 15 June, the French rapidly overran Coalition outposts, securing Napoleon's "central position" between Wellington's and Blücher's armies. He hoped this would prevent them from combining, and he would be able to destroy first the Prussian's army, then Wellington's.
 
@@ -67,13 +67,13 @@ After Ligny, the Prussian army, although defeated, was able to realign its suppl
 
 Battlefield
 
-Belgium-6773_-_Battlefield_View_(14152126362).jpg.]]
+.]]
 
 The Waterloo position was a strong one. It consisted of a long ridge running east-west, perpendicular to, and bisected by, the main road to Brussels. Along the crest of the ridge ran the Ohain road, a deep sunken lane. Near the crossroads with the Brussels road was a large elm tree that was roughly in the centre of Wellington's position and served as his command post for much of the day. Wellington deployed his infantry in a line just behind the crest of the ridge following the Ohain road.
 
 Using the reverse slope, as he had many times previously, Wellington concealed his strength from the French, with the exception of his skirmishers and artillery. The length of front of the battlefield was also relatively short at . This allowed Wellington to draw up his forces in depth, which he did in the centre and on the right, all the way towards the village of Braine-l'Alleud, in the expectation that the Prussians would reinforce his left during the day.
 
-Waterloo.1816.02.jpg]]
+]]
 
 In front of the ridge, there were three positions that could be fortified. On the extreme right were the château, garden, and orchard of Hougoumont. This was a large and well-built country house, initially hidden in trees. The house faced north along a sunken, covered lane (usually described by the British as "the hollow-way") along which it could be supplied. On the extreme left was the hamlet of Papelotte.
 
@@ -85,14 +85,10 @@ The French army formed on the slopes of another ridge to the south. Napoleon cou
 
 In the right rear of the French position was the substantial village of Plancenoit, and at the extreme right, the _Bois de Paris_ wood. Napoleon initially commanded the battle from Rossomme farm, where he could see the entire battlefield, but moved to a position near _La Belle Alliance_ early in the afternoon. Command on the battlefield (which was largely hidden from his view) was delegated to Ney.
 
-Panorama_waterloo_v2.jpg
-
 
 Battle
 
 Preparation
-
-Waterloo_Campaign_map-alt3.svg
 
 Wellington rose at around 02:00 or 03:00 on 18 June, and wrote letters until dawn. He had earlier written to Blücher confirming that he would give battle at Mont-Saint-Jean if Blücher could provide him with at least one corps; otherwise he would retreat towards Brussels. At a late-night council, Blücher's chief of staff, August Neidhardt von Gneisenau, had been distrustful of Wellington's strategy, but Blücher persuaded him that they should march to join Wellington's army. In the morning Wellington duly received a reply from Blücher, promising to support him with three corps.
 
@@ -102,7 +98,7 @@ Napoleon breakfasted off silver plate at _Le Caillou_, the house where he had sp
 
 Napoleon's seemingly dismissive remark may have been strategic, given his maxim "in war, morale is everything". He had acted similarly in the past, and on the morning of the battle of Waterloo may have been responding to the pessimism and objections of his chief of staff and senior generals.
 
-Napoleon.Waterloo.jpg]]
+]]
 
 Later on, being told by his brother, Jerome, of some gossip overheard by a waiter between British officers at lunch at the 'King of Spain' inn in Genappe that the Prussians were to march over from Wavre, Napoleon declared that the Prussians would need at least two days to recover and would be dealt with by Grouchy. Surprisingly, Jerome's overheard gossip aside, the French commanders present at the pre-battle conference at _Le Caillou_ had no information about the alarming proximity of the Prussians and did not suspect that Blücher's men would start erupting onto the field of battle in great numbers just five hours later.
 
@@ -112,7 +108,7 @@ At 11:00, Napoleon drafted his general order: Reille's Corps on the left and d'E
 
 Hougoumont
 
-Nassau_-_Hougoumont_-_Papendrecht.jpg 800px-North_gate_Hougoumont.jpg'' Legros]]
+'' Legros]]
 
 The historian Andrew Roberts notes that "It is a curious fact about the Battle of Waterloo that no one is absolutely certain when it actually began". Wellington recorded in his dispatches that at "about ten o'clock [Napoleon] commenced a furious attack upon our post at Hougoumont". Other sources state that the attack began around 11:30. The house and its immediate environs were defended by four light companies of Guards, and the wood and park by Hanoverian _Jäger_ and the 1/2nd Nassau.
 
@@ -123,8 +119,6 @@ Fighting continued around Hougoumont all afternoon. Its surroundings were heavil
 The fighting at Hougoumont has often been characterised as a diversionary attack to draw in Wellington's reserves which escalated into an all-day battle and drew in French reserves instead. In fact there is a good case to believe that both Napoleon and Wellington thought that holding Hougoumont was key to winning the battle. Hougoumont was a part of the battlefield that Napoleon could see clearly, and he continued to direct resources towards it and its surroundings all afternoon (33 battalions in all, 14,000 troops). Similarly, though the house never contained a large number of troops, Wellington devoted 21 battalions (12,000 troops) over the course of the afternoon in keeping the hollow way open to allow fresh troops and ammunition to reach the buildings. He moved several artillery batteries from his hard-pressed centre to support Hougoumont, and later stated that "the success of the battle turned upon closing the gates at Hougoumont".
 
 The Grand Battery starts its bombardment
-
-Battle_of_Waterloo.svg
 
 The 80 guns of Napoleon's _grande batterie_ drew up in the centre. These opened fire at 11:50, according to Lord Hill (commander of the Anglo-allied II Corps), while other sources put the time between noon and 13:30. The _grande batterie_ was too far back to aim accurately, and the only other troops they could see were skirmishers of the regiments of Kempt and Pack, and Perponcher's 2nd Dutch division (the others were employing Wellington's characteristic "reverse slope defence"). Nevertheless, the bombardment caused a large number of casualties. Although some projectiles buried themselves in the soft soil, most found their marks on the reverse slope of the ridge. The bombardment forced the cavalry of the Union Brigade (in third line) to move to its left, as did the Scots Greys, to reduce their casualty rate.
 
@@ -146,7 +140,7 @@ At about 13:30, d'Erlon started to advance his three other divisions, some 14,00
 
 At the moment these skirmishers were rejoining their parent battalions, the brigade was ordered to its feet and started to return fire. On the left of the brigade, where the 7th Dutch Militia stood, a "few files were shot down and an opening in the line thus occurred".[3] The battalion had no reserves and was unable to close the gap. D'Erlon's troops pushed through this gap in the line and the remaining battalions in the Bylandt brigade (8th Dutch Militia and Belgian 7th Line Battalion) were forced to retreat to the square of the 5th Dutch Militia, which was in reserve between Picton's troops, about 100 paces to the rear. There they regrouped under the command of Colonel Van Zuylen van Nijevelt. A moment later the Prince of Orange ordered a counterattack, which actually occurred around 10 minutes later. Bylandt was wounded and retired off the field, passing command of the brigade to Lt. Kol. De Jongh.
 
-Andrieux_-_La_bataille_de_Waterloo.jpg]]
+]]
 
 D'Erlon's men ascended the slope and advanced on the sunken road, _Chemin d'Ohain_, that ran from behind La Haye Sainte and continued east. It was lined on both sides by thick hedges, with Bylandt's brigade just across the road while the British brigades had been lying down some 100 yards back from the road, Pack's to Bylandt's left and Kempt's to Bylandt's right. Kempt's 1,900 men were engaged by Bourgeois' brigade of 1,900 men of Quiot's division. In the centre, Donzelot's division had pushed back Bylandt's brigade. On the right of the French advance was Marcognet's division led by Grenier's brigade consisting of the _45e Régiment de Ligne_ and followed by the _25e Régiment de Ligne_, somewhat less than 2,000 men, and behind them, Nogue's brigade of the _21e_ and _45e_ regiments. Opposing them on the other side of the road was Pack's 9th Brigade consisting of the 44th Foot and three Scottish regiments: the Royal Scots, the 42nd Black Watch, and the 92nd Gordons, totalling something over 2,000 men. A very even fight between British and French infantry was about to occur.
 
@@ -156,17 +150,15 @@ Reports from Baron von Muffling, the Prussian liaison officer attached to Wellin
 
 Charge of the British heavy cavalry
 
-Scotland_Forever!.jpg]]
+]]
 
 At this crucial juncture, Uxbridge ordered his two brigades of British heavy cavalry—formed unseen behind the ridge—to charge in support of the hard-pressed infantry. The 1st Brigade, known as the Household Brigade, commanded by Major-General Lord Edward Somerset, consisted of guards regiments: the 1st and 2nd Life Guards, the Royal Horse Guards (the Blues), and the 1st (King's) Dragoon Guards. The 2nd Brigade, also known as the Union Brigade, commanded by Major-General Sir William Ponsonby, was so called as it consisted of an English, the 1st (The Royals); a Scottish, 2nd ('Scots Greys'); and an Irish, 6th (Inniskilling); regiment of heavy dragoons.
-
-Knötel_IV,_04.jpg
 
 More than 20 years of warfare had eroded the numbers of suitable cavalry mounts available on the European continent; this resulted in the British heavy cavalry entering the 1815 campaign with the finest horses of any contemporary cavalry arm. British cavalry troopers also received excellent mounted swordsmanship training. They were, however, inferior to the French in manoeuvring in large formations, cavalier in attitude, and unlike the infantry some units had scant experience of warfare. The Scots Greys, for example, had not been in action since 1795. According to Wellington, though they were superior individual horsemen, they were inflexible and lacked tactical ability. "I considered one squadron a match for two French, I didn't like to see four British opposed to four French: and as the numbers increased and order, of course, became more necessary I was the more unwilling to risk our men without having a superiority in numbers".
 
 The two brigades had a combined field strength of about 2,000 (2,651 official strength); they charged with the 47-year-old Uxbridge leading them and a very inadequate number of squadrons held in reserve. There is evidence that Uxbridge gave an order, the morning of the battle, to all cavalry brigade commanders to commit their commands on their own initiative, as direct orders from himself might not always be forthcoming, and to "support movements to their front". It appears that Uxbridge expected the brigades of Sir John Ormsby Vandeleur, Hussey Vivian and the Dutch cavalry to provide support to the British heavies. Uxbridge later regretted leading the charge in person, saying "I committed a great mistake", when he should have been organising an adequate reserve to move forward in support.
 
-Richard_Ansdell_—_The_Fight_For_The_Standard.jpg of the Scots Greys capturing the eagle of the _45ème Ligne_ in _The Fight For The Standard_ by Richard Ansdell]]
+of the Scots Greys capturing the eagle of the _45ème Ligne_ in _The Fight For The Standard_ by Richard Ansdell]]
 
 The Household Brigade crossed the crest of the Anglo-allied position and charged downhill. The cuirassiers guarding d'Erlon's left flank were still dispersed, and so were swept over the deeply sunken main road and then routed.
 
@@ -174,15 +166,13 @@ Continuing their attack, the squadrons on the left of the Household Brigade then
 
 To their left, the Union Brigade suddenly swept through the infantry lines, giving rise to the legend that some of the 92nd Gordon Highland Regiment clung onto their stirrups and accompanied them into the charge. From the centre leftwards, the Royal Dragoons destroyed Bourgeois' brigade, capturing the eagle of the 105th _Ligne_. The Inniskillings routed the other brigade of Quoit's division, and the Scots Greys came upon the lead French regiment, 45th _Ligne_, as it was still reforming after having crossed the sunken road and broken through the hedge row in pursuit of the British infantry. The Greys captured the eagle of the 45th _Ligne_ and overwhelmed Grenier's brigade. These would be the only two French eagles captured by the British during the battle. On Wellington's extreme left, Durutte's division had time to form squares and fend off groups of Greys.
 
-Napoleon_French_Lancer_by_Bellange.jpg
-
 As with the Household Cavalry, the officers of the Royals and Inniskillings found it very difficult to rein back their troops, who lost all cohesion. Having taken casualties, and still trying to reorder themselves, the Scots Greys and the rest of the Union Brigade found themselves before the main French lines. Their horses were blown, and they were still in disorder without any idea of what their next collective objective was. Some attacked nearby gun batteries of the Grande Battery. Although the Greys had neither the time nor means to disable the cannon or carry them off, they put very many out of action as the gun crews were killed or fled the battlefield. Sergeant Major Dickinson of the Greys stated that his regiment was rallied before going on to attack the French artillery: Hamilton, the regimental commander, rather than holding them back cried out to his men "Charge, charge the guns!".
 
-Napoleon promptly responded by ordering a counter-attack by the cuirassier brigades of Farine and Travers and Jaquinot's two Chevau-léger (lancer) regiments in the I Corps light cavalry division. Disorganized and milling about the bottom of the valley between Hougoumont and La Belle Alliance, the Scots Greys and the rest of the British heavy cavalry were taken by surprise by the countercharge of Milhaud's cuirassiers, joined by lancers from Baron Jaquinot's 1st Cavalry Division. Alphonse+Lalauze-P.+Eugene+Of.jpg As Ponsonby tried to rally his men against the French cuirassers, he was attacked by Jaquinot's lancers and captured. A nearby party of Scots Greys saw the capture and attempted to rescue their brigade commander. However, the French lancer who had captured Ponsonby killed him and then used his lance to kill three of the Scots Greys who had attempted the rescue. By the time Ponsonby died, the momentum had entirely returned in favour of the French. Milhaud's and Jaquinot's cavalrymen drove the Union Brigade from the valley. The result was very heavy losses for the British cavalry. A countercharge, by British light dragoons under Major-General Vandeleur and Dutch–Belgian light dragoons and hussars under Major-General Ghigny on the left wing, and Dutch–Belgian _carabiniers_ under Major-General Trip in the centre, repelled the French cavalry.
+Napoleon promptly responded by ordering a counter-attack by the cuirassier brigades of Farine and Travers and Jaquinot's two Chevau-léger (lancer) regiments in the I Corps light cavalry division. Disorganized and milling about the bottom of the valley between Hougoumont and La Belle Alliance, the Scots Greys and the rest of the British heavy cavalry were taken by surprise by the countercharge of Milhaud's cuirassiers, joined by lancers from Baron Jaquinot's 1st Cavalry Division. As Ponsonby tried to rally his men against the French cuirassers, he was attacked by Jaquinot's lancers and captured. A nearby party of Scots Greys saw the capture and attempted to rescue their brigade commander. However, the French lancer who had captured Ponsonby killed him and then used his lance to kill three of the Scots Greys who had attempted the rescue. By the time Ponsonby died, the momentum had entirely returned in favour of the French. Milhaud's and Jaquinot's cavalrymen drove the Union Brigade from the valley. The result was very heavy losses for the British cavalry. A countercharge, by British light dragoons under Major-General Vandeleur and Dutch–Belgian light dragoons and hussars under Major-General Ghigny on the left wing, and Dutch–Belgian _carabiniers_ under Major-General Trip in the centre, repelled the French cavalry.
 
 All figures quoted for the losses of the cavalry brigades as a result of this charge are estimates, as casualties were only noted down after the day of the battle and were for the battle as a whole.[4] Some historians, Barbero for example, believe the official rolls tend to overestimate the number of cavalrymen present in their squadrons on the field of battle and that the proportionate losses were, as a result, considerably higher than the numbers on paper might suggest. The Union Brigade lost heavily in both officers and men killed (including its commander, William Ponsonby, and Colonel Hamilton of the Scots Greys) and wounded. The 2nd Life Guards and the King's Dragoon Guards of the Household Brigade also lost heavily (with Colonel Fuller, commander of the King's DG, killed). However, the 1st Life Guards, on the extreme right of the charge, and the Blues, who formed a reserve, had kept their cohesion and consequently suffered significantly fewer casualties.[5] On the rolls the official, or paper strength, for both Brigades is given as 2,651 while Barbero and others estimate the actual strength at around 2,000 and the official recorded losses for the two heavy cavalry brigades during the battle was 1,205 troopers and 1,303 horses.
 
-De_Slag_bij_Waterloo_Rijksmuseum_SK-A-1115.jpeg's _The Battle of Waterloo_ (1824). Duke of Wellington, centre, flanked on his left by Lord Uxbridge in hussar uniform. On the image's far left, Cpl. Styles of the Royal Dragoons flourishes the eagle of the 105_eme_ _Ligne_. The wounded Prince of Orange is carried from the field in the foreground.]]
+'s _The Battle of Waterloo_ (1824). Duke of Wellington, centre, flanked on his left by Lord Uxbridge in hussar uniform. On the image's far left, Cpl. Styles of the Royal Dragoons flourishes the eagle of the 105_eme_ _Ligne_. The wounded Prince of Orange is carried from the field in the foreground.]]
 
 Some historians, such as Chandler and Weller and Uffindell and Corum, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge. Barbero states that the Scots Greys were practically wiped out and that the other two regiments of the Union Brigade suffered comparable losses. Other historians, such as Clark-Kennedy and Wood, citing British eyewitness accounts, describe the continuing role of the heavy cavalry after their charge. The heavy brigades, far from being ineffective, continued to provide valuable services. They countercharged French cavalry numerous times (both brigades), halted a combined cavalry and infantry attack (Household Brigade only), were used to bolster the morale of those units in their vicinity at times of crisis, and filled gaps in the Anglo-allied line caused by high casualties in infantry formations (both brigades). This service was rendered at a very high cost, as close combat with French cavalry, carbine fire, infantry musketry and—more deadly than all of these—artillery fire steadily eroded the number of effectives in the two brigades. At 6 o'clock in the afternoon the whole Union Brigade could field only 3 squadrons, though these countercharged French cavalry, losing half their number in the process. At the end of the fighting the two brigades, by this time combined, could muster one squadron.
 
@@ -190,9 +180,9 @@ Some historians, such as Chandler and Weller and Uffindell and Corum, assert tha
 
 The French cavalry attack
 
-Marechal_Ney_à_Waterloo.jpg leading the French cavalry charge, from Louis Dumoulin's _Panorama of the Battle of Waterloo_]] A little before 16:00, Ney noted an apparent exodus from Wellington's centre. He mistook the movement of casualties to the rear for the beginnings of a retreat, and sought to exploit it. Following the defeat of d'Erlon's Corps, Ney had few infantry reserves left, as most of the infantry had been committed either to the futile Hougoumont attack or to the defence of the French right. Ney therefore tried to break Wellington's centre with cavalry alone. Initially Milhaud's reserve cavalry corps of cuirassiers and Lefebvre-Desnoëttes' light cavalry division of the Imperial Guard, some 4,800 sabres, were committed. When these were repulsed, Kellermann's heavy cavalry corps and Guyot's heavy cavalry of the Guard were added to the massed assault, a total of around 9,000 cavalry in 67 squadrons. When Napoleon saw the charge he said it was an hour too soon.
+leading the French cavalry charge, from Louis Dumoulin's _Panorama of the Battle of Waterloo_]] A little before 16:00, Ney noted an apparent exodus from Wellington's centre. He mistook the movement of casualties to the rear for the beginnings of a retreat, and sought to exploit it. Following the defeat of d'Erlon's Corps, Ney had few infantry reserves left, as most of the infantry had been committed either to the futile Hougoumont attack or to the defence of the French right. Ney therefore tried to break Wellington's centre with cavalry alone. Initially Milhaud's reserve cavalry corps of cuirassiers and Lefebvre-Desnoëttes' light cavalry division of the Imperial Guard, some 4,800 sabres, were committed. When these were repulsed, Kellermann's heavy cavalry corps and Guyot's heavy cavalry of the Guard were added to the massed assault, a total of around 9,000 cavalry in 67 squadrons. When Napoleon saw the charge he said it was an hour too soon.
 
-French_cuirassiers_vs_Nassauers.jpgs'', by Louis Dumoulin]]
+s'', by Louis Dumoulin]]
 
 Wellington's infantry responded by forming squares (hollow box-formations four ranks deep). Squares were much smaller than usually depicted in paintings of the battle—a 500-man battalion square would have been no more than in length on a side. Squares that stood their ground were deadly to cavalry, as cavalry could not engage with soldiers behind a hedge of bayonets, but were themselves vulnerable to fire from the squares. Horses would not charge a square, nor could they be outflanked, but they were vulnerable to artillery or infantry. Wellington ordered his artillery crews to take shelter within the squares as the cavalry approached, and to return to their guns and resume fire as they retreated.
 
@@ -200,23 +190,19 @@ Witnesses in the British infantry recorded as many as 12 assaults, though this 
 
 A British eyewitness of the first French cavalry attack, an officer in the Foot Guards, recorded his impressions very lucidly and somewhat poetically:
 
-Artillery_in_Battle_of_Waterloo_by_Jones.jpg).]]
+).]]
 
 In essence this type of massed cavalry attack relied almost entirely on psychological shock for effect. Close artillery support could disrupt infantry squares and allow cavalry to penetrate; at Waterloo, however, co-operation between the French cavalry and artillery was not impressive. The French artillery did not get close enough to the Anglo-allied infantry in sufficient numbers to be decisive. Artillery fire between charges did produce mounting casualties, but most of this fire was at relatively long range and was often indirect, at targets beyond the ridge. If infantry being attacked held firm in their square defensive formations, and were not panicked, cavalry on their own could do very little damage to them. The French cavalry attacks were repeatedly repelled by the steadfast infantry squares, the harrying fire of British artillery as the French cavalry recoiled down the slopes to regroup, and the decisive countercharges of Wellington's light cavalry regiments, the Dutch heavy cavalry brigade, and the remaining effectives of the Household Cavalry. At least one artillery officer disobeyed Wellington's order to seek shelter in the adjacent squares during the charges. Captain Mercer, who commanded 'G' Troop, Royal Horse Artillery, thought the Brunswick troops on either side of him so shaky that he kept his battery of six nine-pounders in action against the cavalry throughout, to great effect.
-
-Charge_of_the_French_Cuirassiers_at_Waterloo.jpg
 
 For reasons that remain unclear, no attempt was made to spike other Anglo-allied guns while they were in French possession. In line with Wellington's orders, gunners were able to return to their pieces and fire into the French cavalry as they withdrew after each attack. After numerous costly but fruitless attacks on the Mont-Saint-Jean ridge, the French cavalry was spent. Their casualties cannot easily be estimated. Senior French cavalry officers, in particular the generals, experienced heavy losses. Four divisional commanders were wounded, nine brigadiers wounded, and one killed—testament to their courage and their habit of leading from the front. Illustratively, Houssaye reports that the _Grenadiers à Cheval_ numbered 796 of all ranks on 15 June, but just 462 on 19 June, while the Empress Dragoons lost 416 of 816 over the same period. Overall Guyot's Guard heavy cavalry division lost 47% of its strength.
 
 Second French infantry attack
 
-Charge_des_lanciers_de_la_Garde_à_Waterloo_(détail_du_Panorama_de_Waterloo).jpg with the _Grenadiers à Cheval_ in support]] Eventually it became obvious, even to Ney, that cavalry alone were achieving little. Belatedly, he organised a combined-arms attack, using Bachelu's division and Tissot's regiment of Foy's division from Reille's II Corps (about 6,500 infantrymen) plus those French cavalry that remained in a fit state to fight. This assault was directed along much the same route as the previous heavy cavalry attacks (between Hougoumont and La Haye Sainte). It was halted by a charge of the Household Brigade cavalry led by Uxbridge. The British cavalry were unable, however, to break the French infantry, and fell back with losses from musketry fire.
+with the _Grenadiers à Cheval_ in support]] Eventually it became obvious, even to Ney, that cavalry alone were achieving little. Belatedly, he organised a combined-arms attack, using Bachelu's division and Tissot's regiment of Foy's division from Reille's II Corps (about 6,500 infantrymen) plus those French cavalry that remained in a fit state to fight. This assault was directed along much the same route as the previous heavy cavalry attacks (between Hougoumont and La Haye Sainte). It was halted by a charge of the Household Brigade cavalry led by Uxbridge. The British cavalry were unable, however, to break the French infantry, and fell back with losses from musketry fire.
 
 Uxbridge recorded that he tried to lead the Dutch Carabiniers, under Major-General Trip, to renew the attack and that they refused to follow him. Other members of the British cavalry staff also commented on this occurrence. However, there is no support for this incident in Dutch or Belgian sources. Meanwhile, Bachelu's and Tissot's men and their cavalry supports were being hard hit by fire from artillery and from Adam's infantry brigade, and they eventually fell back. Although the French cavalry caused few direct casualties to Wellington's centre, artillery fire onto his infantry squares caused many. Wellington's cavalry, except for Sir John Vandeleur's and Sir Hussey Vivian's brigades on the far left, had all been committed to the fight, and had taken significant losses. The situation appeared so desperate that the Cumberland Hussars, the only Hanoverian cavalry regiment present, fled the field spreading alarm all the way to Brussels.
 
 French capture of La Haye Sainte
-
-Knotel_-_The_storming_of_La_Haye_Sainte.jpg
 
 At approximately the same time as Ney's combined-arms assault on the centre-right of Wellington's line, rallied elements of D'Erlon's I Corps, spearheaded by the 13th _Légère,_ renewed the attack on La Haye Sainte and this time were successful, partly because the King's German Legion's ammunition ran out. However, the Germans had held the centre of the battlefield for almost the entire day, and this had stalled the French advance.
 
@@ -234,7 +220,7 @@ During this time many of Wellington's generals and aides were killed or wounded 
 
 Arrival of the Prussian IV Corps: Plancenoit
 
-Prussian_Attack_Plancenoit_by_Adolf_Northern.jpg painted by Adolph Northen]]
+painted by Adolph Northen]]
 
 The Prussian IV Corps (Bülow's) was the first to arrive in strength. Bülow's objective was Plancenoit, which the Prussians intended to use as a springboard into the rear of the French positions. Blücher intended to secure his right upon the Châteaux Frichermont using the Bois de Paris road. Blücher and Wellington had been exchanging communications since 10:00 and had agreed to this advance on Frichermont if Wellington's centre was under attack. General Bülow noted that the way to Plancenoit lay open and that the time was 16:30.
 
@@ -243,8 +229,6 @@ At about this time, the Prussian 15th Brigade () was sent to link up with the Na
 Napoleon had dispatched all eight battalions of the Young Guard to reinforce Lobau, who was now seriously pressed. The Young Guard counter-attacked and, after very hard fighting, secured Plancenoit, but were themselves counter-attacked and driven out. Napoleon sent two battalions of the Middle/Old Guard into Plancenoit and after ferocious bayonet fighting—they did not deign to fire their muskets—this force recaptured the village.
 
 Zieten's flank march
-
-Battle_of_Waterloo_map.jpg
 
 Throughout the late afternoon, the Prussian I Corps (Zieten's) had been arriving in greater strength in the area just north of La Haie. General Müffling, the Prussian liaison to Wellington, rode to meet Zieten.
 
@@ -258,21 +242,19 @@ The Prussian 24th Regiment linked up with a Highlander battalion on its far righ
 
 Attack of the Imperial Guard
 
-Crofts-Napoleon's_last_grand_attack_at_Waterloo.jpg as it prepares to attack the Anglo-allied centre at Waterloo.]]
+as it prepares to attack the Anglo-allied centre at Waterloo.]]
 
 Meanwhile, with Wellington's centre exposed by the fall of La Haye Sainte and the Plancenoit front temporarily stabilised, Napoleon committed his last reserve, the hitherto-undefeated Imperial Guard infantry. This attack, mounted at around 19:30, was intended to break through Wellington's centre and roll up his line away from the Prussians. Although it is one of the most celebrated passages of arms in military history, it had been unclear which units actually participated. It appears that it was mounted by five battalions of the Middle Guard, and not by the grenadiers or chasseurs of the Old Guard. Three Old Guard battalions did move forward and formed the attack's second line, though they remained in reserve and did not directly assault the Anglo-allied line.
 
-Soldat-der-Alten-Garde.png of the Old Guard in _Le Grenadier_ by Édouard Detaille]]
+of the Old Guard in _Le Grenadier_ by Édouard Detaille]]
 
 Napoleon himself oversaw the initial deployment of the Middle and Old Guard. The Middle Guard formed in battalion squares, each about 550 men strong, with the 1st/3rd Grenadiers, led by Generals Friant and Poret de Morvan, on the right along the road, to their left and rear was General Harlet leading the square of the 4th Grenadiers, then the 1st/3rd Chasseurs under General Michel, next the 2nd/3rd Chasseurs and finally the large single square of two battalions of 800 soldiers of the 4th Chasseurs led by General Henrion. Two batteries of Imperial Guard Horse Artillery accompanied them with sections of two guns between the squares. Each square was led by a general and Marshal Ney, mounted on his 5th horse of the day, led the advance. Behind them, in reserve, were the three battalions of the Old Guard, right to left 1st/2nd Grenadiers, 2nd/2nd Chasseurs and 1st/2nd Chasseurs. Napoleon left Ney to conduct the assault, however Ney led the Middle Guard on an oblique towards the Anglo-allied centre right instead of attacking straight up the centre. Napoleon sent Ney's senior ADC Colonel Crabbé to order Ney to adjust, but Crabbé was unable to get there in time.
 
 Other troops rallied to support the advance of the Guard. On the left infantry from Reille's corps that was not engaged with Hougoumont and cavalry advanced. On the right all the now rallied elements of D'Érlon's corps once again ascended the ridge and engaged the Anglo-allied line. Of these, Pégot's brigade broke into skirmish order and moved north and west of La Haye Sainte and provided fire support to Ney, once again unhorsed, and Friant's 1st/3rd Grenadiers. The Guards first received fire from some Brunswick battalions, but the return fire of the grenadiers forced them to retire. Next, Colin Halket's brigade front line consisting of the 30th Foot and 73rd traded fire but they were driven back in confusion into the 33rd and 69th regiments, Halket was shot in the face and seriously wounded and the whole brigade retreated in a mob. Other Anglo-allied troops began to give way as well. A counterattack by the Nassauers and the remains of Kielmansegge's brigade from the Anglo-allied second line, led by the Prince of Orange, was also thrown back and the Prince of Orange was seriously wounded. General Harlet brought up the 4th Grenadiers and the Anglo-allied centre was now in serious danger of breaking.
 
-General_D_H_Chassé.jpg]]
+]]
 
 It was at this moment that the timely arrival of the Dutch General Chassé turned the tide in favour of the Anglo-allied army. Chassé's relatively fresh Dutch division was sent against them, led by a battery of Dutch horse-artillery commanded by Captain Krahmer de Bichin. The battery opened a destructive fire into the 1st/3rd Grenadiers' flank.[6] This still did not stop the Guard's advance, so Chassé ordered his first brigade, commanded by Colonel Hendrik Detmers, to charge the outnumbered French with the bayonet; the French grenadiers then faltered and broke.[7] The 4th Grenadiers, seeing their comrades retreat and having suffered heavy casualties themselves, now wheeled right about and retired.
-
-Plas_Newydd_(Anglesey)_-_Waterloo_1.jpg
 
 To the left of the 4th Grenadiers were the two squares of the 1st/ and 2nd/3rd Chasseurs who angled further to the west and had suffered more from artillery fire than the grenadiers. But as their advance mounted the ridge they found it apparently abandoned and covered with dead. Suddenly 1,500 British Foot Guards under Maitland who had been lying down to protect themselves from the French artillery rose and devastated them with point-blank volleys. The chasseurs deployed to answer the fire, but some 300 fell from the first volley, including Colonel Mallet and General Michel, and both battalion commanders. A bayonet charge by the Foot Guards then broke the leaderless squares, which fell back onto the following column. The 4th Chasseurs battalion, 800 strong, now came up onto the exposed battalions of British Foot Guards, who lost all cohesion and dashed back up the slope as a disorganized crowd with the chasseurs in pursuit. At the crest the chasseurs came upon the battery that had caused severe casualties on the 1st and 2nd/3rd Chasseurs. They opened fire and swept away the gunners. The left flank of their square now came under fire from a heavy formation of British skirmishers, which the chasseurs drove back. But the skirmishers were replaced by the 52nd Light Infantry, led by John Colborne, which wheeled in line onto the chasseurs' flank and poured a devastating fire into them. The chasseurs returned a very sharp fire which killed or wounded some 150 men of the 52nd. The 52nd then charged, and under this onslaught, the chasseurs broke.
 
@@ -282,17 +264,17 @@ The surviving Imperial Guard rallied on their three reserve battalions (some sou
 
 Prussian capture of Plancenoit
 
-Ludwig_Elsholtz_Erstürmung_von_Planchenois.jpg]] At about the same time, the Prussian 5th, 14th, and 16th Brigades were starting to push through Plancenoit, in the third assault of the day. The church was by now on fire, while its graveyard—the French centre of resistance—had corpses strewn about "as if by a whirlwind". Five Guard battalions were deployed in support of the Young Guard, virtually all of which was now committed to the defence, along with remnants of Lobau's corps. The key to the Plancenoit position proved to be the Chantelet woods to the south. Pirch's II Corps had arrived with two brigades and reinforced the attack of IV Corps, advancing through the woods.
+]] At about the same time, the Prussian 5th, 14th, and 16th Brigades were starting to push through Plancenoit, in the third assault of the day. The church was by now on fire, while its graveyard—the French centre of resistance—had corpses strewn about "as if by a whirlwind". Five Guard battalions were deployed in support of the Young Guard, virtually all of which was now committed to the defence, along with remnants of Lobau's corps. The key to the Plancenoit position proved to be the Chantelet woods to the south. Pirch's II Corps had arrived with two brigades and reinforced the attack of IV Corps, advancing through the woods.
 
 The 25th Regiment's musketeer battalions threw the 1/2e Grenadiers (Old Guard) out of the Chantelet woods, outflanking Plancenoit and forcing a retreat. The Old Guard retreated in good order until they met the mass of troops retreating in panic, and became part of that rout. The Prussian IV Corps advanced beyond Plancenoit to find masses of French retreating in disorder from British pursuit. The Prussians were unable to fire for fear of hitting Wellington's units. This was the fifth and final time that Plancenoit changed hands.
 
 French forces not retreating with the Guard were surrounded in their positions and eliminated, neither side asking for nor offering quarter. The French Young Guard Division reported 96 per cent casualties, and two-thirds of Lobau's Corps ceased to exist.[8]
 
-Cuirass_holed_by_a_canonball_at_Waterloo_Antoine_Fauveau_18Juin_1815.jpg'' cuirass holed by a cannonball at Waterloo, belonging to Antoine Fauveau (Musée de l'Armée)]]
+'' cuirass holed by a cannonball at Waterloo, belonging to Antoine Fauveau (Musée de l'Armée)]]
 
 French disintegration
 
-Dernier_carre_de_la_Garde_-_gen_Hill.png invites the last remnants of the French Imperial Guard to surrender, painted by Robert Alexander Hillingford.]]
+invites the last remnants of the French Imperial Guard to surrender, painted by Robert Alexander Hillingford.]]
 
 The French right, left, and centre had all now failed. The last cohesive French force consisted of two battalions of the Old Guard stationed around _La Belle Alliance_; they had been so placed to act as a final reserve and to protect Napoleon in the event of a French retreat. He hoped to rally the French army behind them, but as retreat turned into rout, they too were forced to withdraw, one on either side of _La Belle Alliance_, in square as protection against Coalition cavalry. Until persuaded that the battle was lost and he should leave, Napoleon commanded the square to the left of the inn. Adam's Brigade charged and forced back this square, while the Prussians engaged the other.
 
@@ -303,17 +285,15 @@ Other sources agree that the meeting of the commanders took place near _La Belle
 
 Aftermath
 
-Morgen_nach_der_Schlacht967b.jpg, 1816]]
+, 1816]]
 
 Waterloo cost Wellington around 15,000 dead or wounded and Blücher some 7,000 (810 of which were suffered by just one unit: the 18th Regiment, which served in Bülow's 15th Brigade, had fought at both Frichermont and Plancenoit, and won 33 Iron Crosses). Napoleon's losses were 24,000 to 26,000 killed or wounded and included 6,000 to 7,000 captured with an additional 15,000 deserting subsequent to the battle and over the following days.
-
-Invasion_of_France_in_1815.jpg
 
 At 10:30 on 19 June General Grouchy, still following his orders, defeated General Thielemann at Wavre and withdrew in good order—though at the cost of 33,000 French troops that never reached the Waterloo battlefield. Wellington sent his official dispatch describing the battle to England on 19 June 1815; it arrived in London on 21 June 1815 and was published as a _London Gazette Extraordinary_ on 22 June.[9] Wellington, Blücher and other Coalition forces advanced upon Paris.
 
 Napoleon announced his second abdication on 24 June 1815. In the final skirmish of the Napoleonic Wars, Marshal Davout, Napoleon's minister of war, was defeated by Blücher at Issy on 3 July 1815. Allegedly, Napoleon tried to escape to North America, but the Royal Navy was blockading French ports to forestall such a move. He finally surrendered to Captain Frederick Maitland of HMS _Bellerophon_ on 15 July. There was a campaign against French fortresses that still held out; Longwy capitulated on 13 September 1815, the last to do so. Louis XVIII was restored to the throne of France and Napoleon was exiled to Saint Helena, where he died in 1821. The Treaty of Paris was signed on 20 November 1815.
 
-David_Wilkie_Chelsea_Pensioners_Reading_the_Waterloo_Dispatch.jpg, _The Chelsea Pensioners reading the Waterloo Dispatch_, 1822]]
+, _The Chelsea Pensioners reading the Waterloo Dispatch_, 1822]]
 
 Maitland's 1st Foot Guards, who had defeated the Chasseurs of the Guard, were thought to have defeated the Grenadiers, although they had only faced Chasseurs of the newly raised Middle Guard. They were nevertheless awarded the title of Grenadier Guards in recognition of their feat and adopted bearskins in the style of the Grenadiers. Britain's Household Cavalry likewise adopted the cuirass in 1821 in recognition of their success against their armoured French counterparts. The effectiveness of the lance was noted by all participants and this weapon subsequently became more widespread throughout Europe; the British converted their first light cavalry regiment to lancers in 1816, their uniforms, of Polish origin, were based on those of the Imperial Guard lancers.
 
@@ -343,7 +323,7 @@ An alternative view is that towards the end of the battle Wellington's Anglo-all
 
 Battlefield today
 
-0_Braine-l'Alleud_051012_(1).JPG at Waterloo]]
+at Waterloo]]
 
 Some portions of the terrain on the battlefield have been altered from their 1815 appearance. Tourism began the day after the battle, with Captain Mercer noting that on 19 June "a carriage drove on the ground from Brussels, the inmates of which, alighting, proceeded to examine the field". In 1820, the Netherlands' King William I ordered the construction of a monument. The Lion's Mound, a giant artificial hill, was constructed here using of earth taken from the ridge at the centre of the British line, effectively removing the southern bank of Wellington's sunken road.
 

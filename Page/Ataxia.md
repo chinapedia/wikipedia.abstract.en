@@ -85,7 +85,7 @@ Wilson's disease is an autosomal-recessive gene disorder whereby an alteration o
 
 Gluten ataxia
 
-Gluten_ataxia_eng.ogg Gluten ataxia is an autoimmune disease triggered by the ingestion of gluten.[35][36] Early diagnosis and treatment with a gluten-free diet can improve ataxia and prevent its progression. The effectiveness of the treatment depends on the elapsed time from the onset of the ataxia until diagnosis, because the death of neurons in the cerebellum as a result of gluten exposure is irreversible.[37][38] It accounts for 40% of ataxias of unknown origin and 15% of all ataxias.[39] Less than 10% of people with gluten ataxia present any gastrointestinal symptom, yet about 40% have intestinal damage.[40][41]
+Gluten ataxia is an autoimmune disease triggered by the ingestion of gluten.[35][36] Early diagnosis and treatment with a gluten-free diet can improve ataxia and prevent its progression. The effectiveness of the treatment depends on the elapsed time from the onset of the ataxia until diagnosis, because the death of neurons in the cerebellum as a result of gluten exposure is irreversible.[37][38] It accounts for 40% of ataxias of unknown origin and 15% of all ataxias.[39] Less than 10% of people with gluten ataxia present any gastrointestinal symptom, yet about 40% have intestinal damage.[40][41]
 
 Sodium-potassium pump
 

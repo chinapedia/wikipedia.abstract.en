@@ -1,4 +1,4 @@
-Digitalis_lutea_100705.jpg'']] Common-foxglove-285364_960_720.jpg _DIGITALIS_ ([1] or [2]) is a genus of about 20 species of herbaceous perennials, shrubs, and biennials commonly called FOXGLOVES.
+'']] _DIGITALIS_ ([1] or [2]) is a genus of about 20 species of herbaceous perennials, shrubs, and biennials commonly called FOXGLOVES.
 
 This genus was traditionally placed in the figwort family Scrophulariaceae, but recent phylogenetic research has placed it in the much enlarged family Plantaginaceae.[3] This genus is native to western and southwestern Europe,[4] western and central Asia and northwestern Africa. The scientific name means "finger-like" and refers to the ease with which a flower of _Digitalis purpurea_ can be fitted over a human fingertip. The flowers are produced on a tall spike, are tubular, and vary in colour with species, from purple to pink, white, and yellow. The best-known species is the common foxglove, _Digitalis purpurea_. This biennial plant is often grown as an ornamental plant due to its vivid flowers which range in colour from various purple tints through pink, light grey, and purely white. The flowers can also possess various marks and spottings. The first year of growth produces only the stem with its long, basal leaves. During the second year of the plant's life, a long, leafy stem from 50 to 255 centimetres tall grows atop the roots of healthy plants.
 
@@ -22,7 +22,7 @@ Henry Fox Talbot (1847) proposed _folks' glove_, where _folk_ means fairy.[9] Si
 
 Habitat
 
-Digitalis_purpurea_patch_in_Seattle.jpg and Digitalis lutea in Seattle, WA.]] _Digitalis_ species thrive in acidic soils, in partial sunlight to deep shade, in a range of habitats, including open woods, woodland clearings, moorland and heath margins, sea-cliffs, rocky mountain slopes and hedge banks.[11][12] It is commonly found on sites where the ground has been disturbed, such as recently cleared woodland, or where the vegetation has been burnt.[13]
+and Digitalis lutea in Seattle, WA.]] _Digitalis_ species thrive in acidic soils, in partial sunlight to deep shade, in a range of habitats, including open woods, woodland clearings, moorland and heath margins, sea-cliffs, rocky mountain slopes and hedge banks.[11][12] It is commonly found on sites where the ground has been disturbed, such as recently cleared woodland, or where the vegetation has been burnt.[13]
 
 
 Medicinal uses
@@ -33,7 +33,7 @@ A group of medicines extracted from foxglove plants are called digitalin. The us
 
 Variations
 
-Foxglove_-_Digitalis_purpurea.jpg A group of pharmacologically active compounds are extracted mostly from the leaves of the second year's growth, and in pure form are referred to by common chemical names, such as digitoxin or digoxin, or by brand names such as Crystodigin and Lanoxin, respectively. The two drugs differ in that digoxin has an additional hydroxyl group at the C-3 position on the B-ring (adjacent to the pentane). Both molecules include a lactone and a triple-repeating sugar called a glycoside.
+A group of pharmacologically active compounds are extracted mostly from the leaves of the second year's growth, and in pure form are referred to by common chemical names, such as digitoxin or digoxin, or by brand names such as Crystodigin and Lanoxin, respectively. The two drugs differ in that digoxin has an additional hydroxyl group at the C-3 position on the B-ring (adjacent to the pentane). Both molecules include a lactone and a triple-repeating sugar called a glycoside.
 
 Mechanism of action
 
@@ -42,7 +42,7 @@ Digitalis works by inhibiting sodium-potassium ATPase. This results in an increa
 
 Toxicity
 
-Digitalis_purpurea_Koehler_drawing.jpg]]
+]]
 
 Digitalis toxicity (also known as digitalis intoxication and digitalism) results from an overdose of digitalis and causes nausea, vomiting and diarrhea, as well as sometimes resulting in xanthopsia (jaundiced or yellow vision) and the appearance of blurred outlines (halos), drooling, abnormal heart rate, cardiac arrhythmias, weakness, collapse, dilated pupils, tremors, seizures, and even death. Bradycardia also occurs. Because a frequent side effect of digitalis is reduction of appetite, some individuals have used the drug as a weight-loss aid.
 

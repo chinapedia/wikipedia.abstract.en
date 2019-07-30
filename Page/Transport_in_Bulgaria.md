@@ -1,4 +1,4 @@
-Desiro_on_the_Sofia-Lakatnik_line,_14_February_2012.jpg train on the Sofia–Lakatnik line]]
+train on the Sofia–Lakatnik line]]
 
 TRANSPORT IN BULGARIA is dominated by road transport, despite nearly half of all paved roads belonging to the lowest category of roads. As of December 2015, the country had 774 kilometers of highways.
 
@@ -20,7 +20,7 @@ In the past aviation compared with road and railroad transport used to be a mino
 
 Railways
 
-BDZ_Baureihe_9452.JPG Desiro train]] In 2005 Bulgaria had some 6,238 kilometers of open access track owned by the state company "National Company Railway Infrastructure", including a 125 kilometers long 760 mm narrow gauge railway - the Septemvri-Dobrinishte narrow gauge line and 4,316 km were considered main lines.[13] Sofia, Plovdiv and Gorna Oriahovitsa are the hubs of the domestic system and of international rail connections.[14] Railway_map_of_Bulgaria.png Bulgaria's rail system has not expanded since the 1980s, in 2014 there were 4,023 kilometers of main lines.[15] There are upgrading projects underway.[16] After the completion of the Plovdiv - Dimitrovgrad high-speed line on 1 July 2012 the top operating speed was raised to 200 km/h and the national top speed record of 197 km/h set between Iskar and Elin Pelin with a leased Siemens Taurus electric locomotive is soon expected to be broken.[17] There are also plans for upgrading for high speed operation and doubling (where needed) of the Plovdiv - Burgas railway. By the end of 2013, a total of 461 km of high-speed lines were expected to be built.[18][19][20]
+Desiro train]] In 2005 Bulgaria had some 6,238 kilometers of open access track owned by the state company "National Company Railway Infrastructure", including a 125 kilometers long 760 mm narrow gauge railway - the Septemvri-Dobrinishte narrow gauge line and 4,316 km were considered main lines.[13] Sofia, Plovdiv and Gorna Oriahovitsa are the hubs of the domestic system and of international rail connections.[14] Bulgaria's rail system has not expanded since the 1980s, in 2014 there were 4,023 kilometers of main lines.[15] There are upgrading projects underway.[16] After the completion of the Plovdiv - Dimitrovgrad high-speed line on 1 July 2012 the top operating speed was raised to 200 km/h and the national top speed record of 197 km/h set between Iskar and Elin Pelin with a leased Siemens Taurus electric locomotive is soon expected to be broken.[17] There are also plans for upgrading for high speed operation and doubling (where needed) of the Plovdiv - Burgas railway. By the end of 2013, a total of 461 km of high-speed lines were expected to be built.[18][19][20]
 
 In the mid-2000s, railways remained a major mode of freight transportation, but with increasing problems with the maintenance of the infrastructure and lowering speeds, highways carried a progressively larger share of freight.[21] The national passenger and freight operator is called Bulgarian State Railways, but there are also a number of private operators including Bulgarian Railway Company and DB Schenker Rail Bulgaria.
 
@@ -28,7 +28,7 @@ In 2014 the Bulgarian railways carried 14,225,000 tons of freight[22] and 21,433
 
 Sofia Metro
 
-Лъвов_мост.jpg In 1998 the first six kilometres of an often-interrupted 52 km standard gauge subway project (the Sofia Metro) opened in Sofia.[24] Additional stations were later built, and in 2012 a second line opened.[25] By April 2015 the total length was 36 km with 31 stations and Line 1 serving Sofia Airport. In 2016 the expansion of the network continued, as construction works on the third line commenced, and the system reached a total length of 40 km, with 35 stations along its two lines.[26]
+In 1998 the first six kilometres of an often-interrupted 52 km standard gauge subway project (the Sofia Metro) opened in Sofia.[24] Additional stations were later built, and in 2012 a second line opened.[25] By April 2015 the total length was 36 km with 31 stations and Line 1 serving Sofia Airport. In 2016 the expansion of the network continued, as construction works on the third line commenced, and the system reached a total length of 40 km, with 35 stations along its two lines.[26]
 
 
 Road transport
@@ -39,32 +39,30 @@ Long-term plans call for upgrading higher-quality roads and integrating the road
 
 Motorways and expressways
 
-Bulgaria_Highways_EN.svg
-
--   Mw_A1_BG.svg Trakia motorway - Sofia - Plovdiv - Stara Zagora - Yambol - Karnobat - Burgas _(completed)_
--   Mw_A2_BG.svg Hemus motorway - Sofia - Yablanitsa - Shumen - Varna _(Yablanitsa to Shumen remaining)_
--   Mw_A3_BG.svg Struma motorway - Sofia - Pernik - Blagoevgrad - Kulata (Greece) _(under construction)_
--   Mw_A4_BG.svg Maritsa motorway - Chirpan to Kapitan Andreevo (Turkey) _(_completed_)_
--   Mw_A5_BG.svg Cherno More motorway - Varna to Burgas _(planned)_
--   Mw_A6_BG.svg Europe motorway - Sofia - Kalotina (Serbia) _(planned)_
+-   Trakia motorway - Sofia - Plovdiv - Stara Zagora - Yambol - Karnobat - Burgas _(completed)_
+-   Hemus motorway - Sofia - Yablanitsa - Shumen - Varna _(Yablanitsa to Shumen remaining)_
+-   Struma motorway - Sofia - Pernik - Blagoevgrad - Kulata (Greece) _(under construction)_
+-   Maritsa motorway - Chirpan to Kapitan Andreevo (Turkey) _(_completed_)_
+-   Cherno More motorway - Varna to Burgas _(planned)_
+-   Europe motorway - Sofia - Kalotina (Serbia) _(planned)_
 -   Veliko Tarnovo–Ruse motorway Veliko Tarnovo - Rousse (Romania) _(planned)_
 
 Major roads
 
--   Nat_road_1_BG.svg I-1 road
--   Nat_road_2_BG.svg I-2 road
--   Nat_road_3_BG.svg I-3 road
--   Nat_road_4_BG.svg I-4 road
--   Nat_road_5_BG.svg I-5 road
--   Nat_road_6_BG.svg I-6 road
--   Nat_road_7_BG.svg I-7 road
--   Nat_road_8_BG.svg I-8 road
--   Nat_road_9_BG.svg I-9 road
--   Nat_road_18_BG.svg Sofia ring road
+-   I-1 road
+-   I-2 road
+-   I-3 road
+-   I-4 road
+-   I-5 road
+-   I-6 road
+-   I-7 road
+-   I-8 road
+-   I-9 road
+-   Sofia ring road
 
 Long-distance public transport
 
-Central_Bus_Station_Sofia_2012_PD_08_03.jpg Buses are frequently used in Bulgaria for long-distance travel. Long-distance coaches depart from Sofia from the Central, West and South Bus Stations, international routes are served by the Serdika Station. Besides public buses, coaches are also operated by private companies, like Union-Ivkoni, Biomet or Etap-Grup. Tickets can be purchased at the offices of these companies, at stations and from the bus driver. Some companies offer online booking. International destinations include Saloniki, Istanbul, Bucharest, Skopje and Belgrad.[33][34] Share taxis called _marshrutka_ operate in Sofia, and in the countryside between smaller settlements.[35]
+Buses are frequently used in Bulgaria for long-distance travel. Long-distance coaches depart from Sofia from the Central, West and South Bus Stations, international routes are served by the Serdika Station. Besides public buses, coaches are also operated by private companies, like Union-Ivkoni, Biomet or Etap-Grup. Tickets can be purchased at the offices of these companies, at stations and from the bus driver. Some companies offer online booking. International destinations include Saloniki, Istanbul, Bucharest, Skopje and Belgrad.[33][34] Share taxis called _marshrutka_ operate in Sofia, and in the countryside between smaller settlements.[35]
 
 
 Waterways
@@ -121,7 +119,7 @@ See also
 
 References
 
-PD-icon.svg ''This article incorporates public domain material from
+ ''This article incorporates public domain material from
 
 
 External links

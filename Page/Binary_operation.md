@@ -1,4 +1,4 @@
-Binary_operations_as_black_box.svg In mathematics, a BINARY OPERATION or DYADIC OPERATION is a calculation that combines two elements (called operands) to produce another element. More formally, a binary operation is an operation of arity two.
+In mathematics, a BINARY OPERATION or DYADIC OPERATION is a calculation that combines two elements (called operands) to produce another element. More formally, a binary operation is an operation of arity two.
 
 More specifically, a binary operation _on a set_ is a binary operation whose two domains and the codomain are the same set. Examples include the familiar arithmetic operations of addition, subtraction, multiplication. Other examples are readily found in different areas of mathematics, such as vector addition, matrix multiplication and conjugation in groups.
 

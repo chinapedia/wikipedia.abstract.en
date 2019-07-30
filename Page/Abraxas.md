@@ -42,8 +42,6 @@ It is uncertain what the actual role and function of Abraxas was in the Basilidi
 
 As an Archon
 
-Abraxas3.jpg
-
 In the system described by Irenaeus, "the Unbegotten Father" is the progenitor of _Nous_, and from _Nous Logos_, from _Logos Phronesis_, from _Phronesis Sophia_ and _Dynamis_, from _Sophia_ and _Dynamis_ principalities, powers, and angels, the last of whom create "the first heaven." They in turn originate a second series, who create a second heaven. The process continues in like manner until 365 heavens are in existence, the angels of the last or visible heaven being the authors of our world.[6] "The ruler" [_principem, i.e._, probably _ton archonta_] of the 365 heavens "is Abraxas, and for this reason he contains within himself 365 numbers."
 
 The name occurs in the _Refutation of all Heresies_ (vii. 26) by Hippolytus, who appears in these chapters to have followed the _Exegetica_ of Basilides. After describing the manifestation of the Gospel in the Ogdoad and Hebdomad, he adds that the Basilidians have a long account of the innumerable creations and powers in the several 'stages' of the upper world (_diastemata_), in which they speak of 365 heavens and say that "their great archon" is Abrasax, because his name contains the number 365, the number of the days in the year; i.e. the sum of the numbers denoted by the Greek letters in ΑΒΡΑΣΑΞ according to the rules of isopsephy is 365:
@@ -62,7 +60,7 @@ It is evident from these particulars that Abrasax was the name of the first of t
 
 As an Aeon
 
-Abraxas_Infernal_Dictionary.png With the availability of primary sources, such as those in the Nag Hammadi library, the identity of Abrasax remains unclear. The _Holy Book of the Great Invisible Spirit_, for instance, refers to Abrasax as an Aeon dwelling with Sophia and other Aeons of the Pleroma in the light of the luminary Eleleth. In several texts, the luminary Eleleth is the last of the luminaries (Spiritual Lights) that come forward, and it is the Aeon Sophia, associated with Eleleth, who encounters darkness and becomes involved in the chain of events that leads to the Demiurge's rule of this world, and the salvage effort that ensues. As such, the role of Aeons of Eleleth, including Abraxas, Sophia, and others, pertains to this outer border of the Pleroma that encounters the ignorance of the world of Lack and interacts to rectify the error of ignorance in the world of materiality.
+With the availability of primary sources, such as those in the Nag Hammadi library, the identity of Abrasax remains unclear. The _Holy Book of the Great Invisible Spirit_, for instance, refers to Abrasax as an Aeon dwelling with Sophia and other Aeons of the Pleroma in the light of the luminary Eleleth. In several texts, the luminary Eleleth is the last of the luminaries (Spiritual Lights) that come forward, and it is the Aeon Sophia, associated with Eleleth, who encounters darkness and becomes involved in the chain of events that leads to the Demiurge's rule of this world, and the salvage effort that ensues. As such, the role of Aeons of Eleleth, including Abraxas, Sophia, and others, pertains to this outer border of the Pleroma that encounters the ignorance of the world of Lack and interacts to rectify the error of ignorance in the world of materiality.
 
 As a demon
 
@@ -73,7 +71,7 @@ Abrasax stones
 
 A vast number of engraved stones are in existence, to which the name "Abrasax-stones" has long been given. One particularly fine example was included as part of the Thetford treasure from fourth century Norfolk, UK. The subjects are mythological, and chiefly grotesque, with various inscriptions, in which ΑΒΡΑΣΑΞ often occurs, alone or with other words. Sometimes the whole space is taken up with the inscription. In certain obscure magical writings of Egyptian origin ἀβραξάς or ἀβρασάξ is found associated with other names which frequently accompany it on gems;[10] it is also found on the Greek metal _tesseræ_ among other mystic words. The meaning of the legends is seldom intelligible: but some of the gems are amulets; and the same may be the case with nearly all.
 
-Montfaucon_358_Abraxas.xcf's _L'antiquité expliquée et représentée en figures_ (Band 2,2 page 358 ff plaque 144) with different images of Abraxas.]]
+'s _L'antiquité expliquée et représentée en figures_ (Band 2,2 page 358 ff plaque 144) with different images of Abraxas.]]
 
 -   THE ABRASAX-IMAGE ALONE, WITHOUT EXTERNAL ICONISMS, AND EITHER WITHOUT, OR BUT A SIMPLE, INSCRIPTION. The Abrasax-imago proper is usually found with a shield, a sphere or wreath and whip, a sword or sceptre, a cock's head, the body clad with armor, and a serpent's tail. There are, however, innumerable modifications of these figures: Lions', hawks', and eagles' skins, with or without mottos, with or without a trident and star, and with or without reverses.
 -   ABRASAX _COMBINED_ WITH OTHER GNOSTIC POWERS. If, in a single instance, this supreme being was represented in connection with powers of subordinate rank, nothing could have been more natural than to represent it also in combination with its emanations, the seven superior spirits, the thirty Aeons, and the three hundred and sixty-five cosmical Genii; and yet this occurs upon none of the relics as yet discovered, whilst those with Powers not belonging to the Gnostic system are frequently met with.
@@ -96,7 +94,7 @@ File:Montfaucon 358 Abraxas.xcf|Plaque 144 File:Montfaucon Abraxas Plaque 145.xc
 
 Anguipede
 
-Abraxas,_Nordisk_familjebok.png In a great majority of instances the name Abrasax is associated with a singular composite figure, having a Chimera-like appearance somewhat resembling a basilisk or the Greek primordial god Chronos (not to be confused with the Greek titan Cronus). According to E. A. Wallis Budge, "as a Pantheus, i.e. All-God, he appears on the amulets with the head of a cock (Phœbus) or of a lion (Ra or Mithras), the body of a man, and his legs are serpents which terminate in scorpions, types of the Agathodaimon. In his right hand he grasps a club, or a flail, and in his left is a round or oval shield." This form was also referred to as the Anguipede. Budge surmised that Abrasax was "a form of the Adam Kadmon of the Kabbalists and the Primal Man whom God made in His own image."[13]
+In a great majority of instances the name Abrasax is associated with a singular composite figure, having a Chimera-like appearance somewhat resembling a basilisk or the Greek primordial god Chronos (not to be confused with the Greek titan Cronus). According to E. A. Wallis Budge, "as a Pantheus, i.e. All-God, he appears on the amulets with the head of a cock (Phœbus) or of a lion (Ra or Mithras), the body of a man, and his legs are serpents which terminate in scorpions, types of the Agathodaimon. In his right hand he grasps a club, or a flail, and in his left is a round or oval shield." This form was also referred to as the Anguipede. Budge surmised that Abrasax was "a form of the Adam Kadmon of the Kabbalists and the Primal Man whom God made in His own image."[13]
 
 Some parts at least of the figure mentioned above are solar symbols, and the Basilidian Abrasax is manifestly connected with the sun. J. J. Bellermann has speculated that "the whole represents the Supreme Being, with his Five great Emanations, each one pointed out by means of an expressive emblem. Thus, from the human body, the usual form assigned to the Deity, forasmuch as it is written that God created man in his own image, issue the two supporters, _Nous_ and _Logos_, symbols of the inner sense and the quickening understanding, as typified by the serpents, for the same reason that had induced the old Greeks to assign this reptile for an attribute to Pallas. His head—a cock's—represents _Phronesis_, the fowl being emblematical of foresight and vigilance. His two hands bear the badges of _Sophia_ and _Dynamis_, the shield of Wisdom, and the scourge of Power."[14]
 
@@ -134,8 +132,6 @@ The magic word "Ablanathanalba," which reads in Greek the same backward as forwa
 
 
 In literature
-
-Abraxas_Artistic_representationi.jpg
 
 -   In the 1516 novel _Utopia_ by Thomas More, the island called Utopia once had the name "Abraxa", which scholars have suggested is a related use.[37]
 -   Abrasax is invoked in Aleister Crowley's 1913 work, "The Gnostic Mass" of Ecclesia Gnostica Catholica:

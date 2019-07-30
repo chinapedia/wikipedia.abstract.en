@@ -24,9 +24,9 @@ Stone tool evidence indicates humans sporadically frequented the Monte Verde val
 
 Spanish colonization
 
-Lautaro_(de_Pedro_Subercaseaux).jpg, _toqui_ and hero of the Arauco war]]
+, _toqui_ and hero of the Arauco war]]
 
-In 1520, while attempting to circumnavigate the globe, Ferdinand Magellan discovered the southern passage now named after him (the Strait of Magellan) thus becoming the first European to set foot on what is now Chile. The next Europeans to reach Chile were Diego de Almagro and his band of Spanish conquistadors, who came from Peru in 1535 seeking gold. The Spanish encountered various cultures that supported themselves principally through slash-and-burn agriculture and hunting.[27] Pedro_de_Valdivia.jpg, conqueror of Chile]] The conquest of Chile began in earnest in 1540 and was carried out by Pedro de Valdivia, one of Francisco Pizarro's lieutenants, who founded the city of Santiago on 12 February 1541. Although the Spanish did not find the extensive gold and silver they sought, they recognized the agricultural potential of Chile's central valley, and Chile became part of the Spanish Empire.[28]
+In 1520, while attempting to circumnavigate the globe, Ferdinand Magellan discovered the southern passage now named after him (the Strait of Magellan) thus becoming the first European to set foot on what is now Chile. The next Europeans to reach Chile were Diego de Almagro and his band of Spanish conquistadors, who came from Peru in 1535 seeking gold. The Spanish encountered various cultures that supported themselves principally through slash-and-burn agriculture and hunting.[27] , conqueror of Chile]] The conquest of Chile began in earnest in 1540 and was carried out by Pedro de Valdivia, one of Francisco Pizarro's lieutenants, who founded the city of Santiago on 12 February 1541. Although the Spanish did not find the extensive gold and silver they sought, they recognized the agricultural potential of Chile's central valley, and Chile became part of the Spanish Empire.[28]
 
 Conquest took place gradually, and the Europeans suffered repeated setbacks. A massive Mapuche insurrection that began in 1553 resulted in Valdivia's death and the destruction of many of the colony's principal settlements. Subsequent major insurrections took place in 1598 and in 1655. Each time the Mapuche and other native groups revolted, the southern border of the colony was driven northward. The abolition of slavery by the Spanish crown in 1683 was done in recognition that enslaving the Mapuche intensified resistance rather than cowing them into submission. Despite royal prohibitions, relations remained strained from continual colonialist interference.[29]
 
@@ -38,7 +38,7 @@ The Diocese of Concepción conducted a census in areas south of the Maule river 
 
 Independence and nation building
 
-Ohiggins.jpg, _Libertador_ and the Supreme Director of Chile]] In 1808, Napoleon's enthronement of his brother Joseph as the Spanish King precipitated the drive by the colony for independence from Spain. A national junta in the name of Ferdinand – heir to the deposed king – was formed on 18 September 1810. The Government Junta of Chile proclaimed Chile an autonomous republic within the Spanish monarchy (in memory of this day, Chile celebrates its National Day on 18 September each year).
+, _Libertador_ and the Supreme Director of Chile]] In 1808, Napoleon's enthronement of his brother Joseph as the Spanish King precipitated the drive by the colony for independence from Spain. A national junta in the name of Ferdinand – heir to the deposed king – was formed on 18 September 1810. The Government Junta of Chile proclaimed Chile an autonomous republic within the Spanish monarchy (in memory of this day, Chile celebrates its National Day on 18 September each year).
 
 After these events, a movement for total independence, under the command of José Miguel Carrera (one of the most renowned patriots) and his two brothers Juan José and Luis Carrera, soon gained a wider following. Spanish attempts to re-impose arbitrary rule during what was called the Reconquista led to a prolonged struggle, including infighting from Bernardo O'Higgins, who challenged Carrera's leadership.
 
@@ -46,7 +46,7 @@ Intermittent warfare continued until 1817. With Carrera in prison in Argentina, 
 
 Chile slowly started to expand its influence and to establish its borders. By the Tantauco Treaty, the archipelago of Chiloé was incorporated in 1826. The economy began to boom due to the discovery of silver ore in Chañarcillo, and the growing trade of the port of Valparaíso, which led to conflict over maritime supremacy in the Pacific with Peru. At the same time, attempts were made to strengthen sovereignty in southern Chile intensifying penetration into Araucanía and colonizing Llanquihue with German immigrants in 1848. Through the founding of Fort Bulnes by the Schooner Ancud under the command of John Williams Wilson, the Magallanes region joined the country in 1843, while the Antofagasta region, at the time part of Bolivia, began to fill with people.
 
-Sinking_of_the_Esmeralda_during_the_battle_of_Iquique.jpg on 21 May 1879. The victory of Chile in the War of the Pacific allowed its expansion into new territories.]]
+on 21 May 1879. The victory of Chile in the War of the Pacific allowed its expansion into new territories.]]
 
 Toward the end of the 19th century, the government in Santiago consolidated its position in the south by the Occupation of Araucanía. The Boundary treaty of 1881 between Chile and Argentina confirmed Chilean sovereignty over the Strait of Magellan. As a result of the War of the Pacific with Peru and Bolivia (1879–83), Chile expanded its territory northward by almost one-third, eliminating Bolivia's access to the Pacific, and acquired valuable nitrate deposits, the exploitation of which led to an era of national affluence. Chile had joined the stand as one of the high-income countries in South America by 1870.[33]
 
@@ -54,7 +54,7 @@ The 1891 Chilean Civil War brought about a redistribution of power between the P
 
 20th century
 
-Chilean_battleship_Almirante_Latorre.jpg in 1921]] The Chilean economy partially degenerated into a system protecting the interests of a ruling oligarchy. By the 1920s, the emerging middle and working classes were powerful enough to elect a reformist president, Arturo Alessandri, whose program was frustrated by a conservative congress. In the 1920s, Marxist groups with strong popular support arose.[34]
+in 1921]] The Chilean economy partially degenerated into a system protecting the interests of a ruling oligarchy. By the 1920s, the emerging middle and working classes were powerful enough to elect a reformist president, Arturo Alessandri, whose program was frustrated by a conservative congress. In the 1920s, Marxist groups with strong popular support arose.[34]
 
 A military coup led by General Luis Altamirano in 1924 set off a period of political instability that lasted until 1932. Of the ten governments that held power in that period, the longest lasting was that of General Carlos Ibáñez del Campo, who briefly held power in 1925 and then again between 1927 and 1931 in what was a de facto dictatorship (although not really comparable in harshness or corruption to the type of military dictatorship that has often bedeviled the rest of Latin America).[35][36]
 
@@ -62,7 +62,7 @@ By relinquishing power to a democratically elected successor, Ibáñez del Campo
 
 The 1964 presidential election of Christian Democrat Eduardo Frei Montalva by an absolute majority initiated a period of major reform. Under the slogan "Revolution in Liberty", the Frei administration embarked on far-reaching social and economic programs, particularly in education, housing, and agrarian reform, including rural unionization of agricultural workers. By 1967, however, Frei encountered increasing opposition from leftists, who charged that his reforms were inadequate, and from conservatives, who found them excessive. At the end of his term, Frei had not fully achieved his party's ambitious goals.[37]
 
-Salvador_Allende_Gossens-.jpg]]
+]]
 
 In the 1970 election, Senator Salvador Allende of the Socialist Party of Chile (then part of the "Popular Unity" coalition which included the Communists, Radicals, Social-Democrats, dissident Christian Democrats, the Popular Unitary Action Movement, and the Independent Popular Action),[38] achieved a partial majority in a plurality of votes in a three-way contest, followed by candidates Radomiro Tomic for the Christian Democrat Party and Jorge Alessandri for the Conservative Party. Allende was not elected with an absolute majority, receiving fewer than 35 percent of votes.
 
@@ -78,15 +78,15 @@ The economic problems were also exacerbated by Allende's public spending which w
 
 Pinochet era (1973–1990)
 
-Golpe_de_Estado_1973.jpg bombing the Presidential Palace of _La Moneda_ during the Chilean coup of 1973]] A military coup overthrew Allende on 11 September 1973. As the armed forces bombarded the presidential palace, Allende apparently committed suicide.[57][58] After the coup, Henry Kissinger told U.S. president Richard Nixon that the United States had "helped" the coup.[59]
+bombing the Presidential Palace of _La Moneda_ during the Chilean coup of 1973]] A military coup overthrew Allende on 11 September 1973. As the armed forces bombarded the presidential palace, Allende apparently committed suicide.[57][58] After the coup, Henry Kissinger told U.S. president Richard Nixon that the United States had "helped" the coup.[59]
 
-A military junta, led by General Augusto Pinochet, took control of the country. The first years of the regime were marked by human rights violations. Chile actively participated in Operation Condor.[60] On October 1973, at least 72 people were murdered by the Caravan of Death.[61] According to the Rettig Report and Valech Commission, at least 2,115 were killed,[62] and at least 27,265[63] were tortured (including 88 children younger than 12 years old).[64] In 2011, Chile recognized an additional 9,800 victims, bringing the total number of killed, tortured or imprisoned for political reasons to 40,018.[65] At the national stadium, filled with detainees, one of those tortured and killed was internationally known poet-singer Víctor Jara (see "Music and Dance", below). The stadium was renamed for Jara in 2003. Augusto_Pinochet_foto_oficial.jpg]] A new Constitution was approved by a controversial plebiscite on 11 September 1980, and General Pinochet became president of the republic for an eight-year term. After Pinochet obtained rule of the country, several hundred committed Chilean revolutionaries joined the Sandinista army in Nicaragua, guerrilla forces in Argentina or training camps in Cuba, Eastern Europe and Northern Africa.[66]
+A military junta, led by General Augusto Pinochet, took control of the country. The first years of the regime were marked by human rights violations. Chile actively participated in Operation Condor.[60] On October 1973, at least 72 people were murdered by the Caravan of Death.[61] According to the Rettig Report and Valech Commission, at least 2,115 were killed,[62] and at least 27,265[63] were tortured (including 88 children younger than 12 years old).[64] In 2011, Chile recognized an additional 9,800 victims, bringing the total number of killed, tortured or imprisoned for political reasons to 40,018.[65] At the national stadium, filled with detainees, one of those tortured and killed was internationally known poet-singer Víctor Jara (see "Music and Dance", below). The stadium was renamed for Jara in 2003. ]] A new Constitution was approved by a controversial plebiscite on 11 September 1980, and General Pinochet became president of the republic for an eight-year term. After Pinochet obtained rule of the country, several hundred committed Chilean revolutionaries joined the Sandinista army in Nicaragua, guerrilla forces in Argentina or training camps in Cuba, Eastern Europe and Northern Africa.[66]
 
 In the late 1980s, largely as a result of events such as the 1982 economic collapse[67] and mass civil resistance in 1983–88, the government gradually permitted greater freedom of assembly, speech, and association, to include trade union and political activity.[68] The government launched market-oriented reforms with Hernán Büchi as Minister of Finance. Chile moved toward a free market economy that saw an increase in domestic and foreign private investment, although the copper industry and other important mineral resources were not opened for competition. In a plebiscite on 5 October 1988, Pinochet was denied a second eight-year term as president (56% against 44%). Chileans elected a new president and the majority of members of a bicameral congress on 14 December 1989. Christian Democrat Patricio Aylwin, the candidate of a coalition of 17 political parties called the _Concertación_, received an absolute majority of votes (55%).[69] President Aylwin served from 1990 to 1994, in what was considered a transition period.
 
 21st century
 
-Izamiento_de_la_Gran_Bandera_Nacional_-_Presidentes_de_Chile.jpg (1990–2018), celebrating the Bicentennial of Chile]] In December 1993, Christian Democrat Eduardo Frei Ruiz-Tagle, the son of previous president Eduardo Frei Montalva, led the Concertación coalition to victory with an absolute majority of votes (58%).[70] Frei Ruiz-Tagle was succeeded in 2000 by Socialist Ricardo Lagos, who won the presidency in an unprecedented runoff election against Joaquín Lavín of the rightist Alliance for Chile.[71] In January 2006, Chileans elected their first female president, Michelle Bachelet Jeria, of the Socialist Party, defeating Sebastián Piñera, of the National Renewal party, extending the _Concertación_ governance for another four years.[72][73] In January 2010, Chileans elected Sebastián Piñera as the first rightist President in 20 years, defeating former President Eduardo Frei Ruiz-Tagle of the _Concertación_, for a four-year term succeeding Bachelet. Due to term limits, Sebastián Piñera did not stand for re-election in 2013, and his term expired in March 2014 resulting in Michelle Bachelet returning to office.
+(1990–2018), celebrating the Bicentennial of Chile]] In December 1993, Christian Democrat Eduardo Frei Ruiz-Tagle, the son of previous president Eduardo Frei Montalva, led the Concertación coalition to victory with an absolute majority of votes (58%).[70] Frei Ruiz-Tagle was succeeded in 2000 by Socialist Ricardo Lagos, who won the presidency in an unprecedented runoff election against Joaquín Lavín of the rightist Alliance for Chile.[71] In January 2006, Chileans elected their first female president, Michelle Bachelet Jeria, of the Socialist Party, defeating Sebastián Piñera, of the National Renewal party, extending the _Concertación_ governance for another four years.[72][73] In January 2010, Chileans elected Sebastián Piñera as the first rightist President in 20 years, defeating former President Eduardo Frei Ruiz-Tagle of the _Concertación_, for a four-year term succeeding Bachelet. Due to term limits, Sebastián Piñera did not stand for re-election in 2013, and his term expired in March 2014 resulting in Michelle Bachelet returning to office.
 
 On 27 February 2010, Chile was struck by an 8.8 earthquake, the fifth largest ever recorded at the time. More than 500 people died (most from the ensuing tsunami) and over a million people lost their homes. The earthquake was also followed by multiple aftershocks.[74] Initial damage estimates were in the range of US$15–30 billion, around 10 to 15 percent of Chile's real gross domestic product.[75]
 
@@ -95,11 +95,11 @@ Chile achieved global recognition for the successful rescue of 33 trapped miners
 
 Government and politics
 
-Palacio_de_la_Moneda_desde_Plaza_de_la_Constitución.jpg in downtown Santiago ]] 2017_Santiago_de_Chile_-_Fachada_del_edificio_de_los_Tribunales_de_Justicia.jpg in Santiago]] The current Constitution of Chile was approved in a national plebiscite—regarded as "highly irregular" by some observers[77]—in September 1980, under the military government of Augusto Pinochet. It entered into force in March 1981. After Pinochet's defeat in the 1988 plebiscite, the constitution was amended to ease provisions for future amendments to the Constitution. In September 2005, President Ricardo Lagos signed into law several constitutional amendments passed by Congress. These include eliminating the positions of appointed senators and senators for life, granting the President authority to remove the commanders-in-chief of the armed forces, and reducing the presidential term from six to four years.[78]
+in downtown Santiago ]] in Santiago]] The current Constitution of Chile was approved in a national plebiscite—regarded as "highly irregular" by some observers[77]—in September 1980, under the military government of Augusto Pinochet. It entered into force in March 1981. After Pinochet's defeat in the 1988 plebiscite, the constitution was amended to ease provisions for future amendments to the Constitution. In September 2005, President Ricardo Lagos signed into law several constitutional amendments passed by Congress. These include eliminating the positions of appointed senators and senators for life, granting the President authority to remove the commanders-in-chief of the armed forces, and reducing the presidential term from six to four years.[78]
 
 The Congress of Chile has a 38-seat Senate and a 120-member Chamber of Deputies. Senators serve for eight years with staggered terms, while deputies are elected every 4 years. The last congressional elections were held on 17 November 2013, concurrently with the presidential election. The current Senate has a 21–15 split in favor of the governing coalition and 2 independents. The current lower house, the Chamber of Deputies, contains 67 members of the governing center-left coalition, 48 from the center-right opposition and 5 from small parties or independents. The Congress is located in the port city of Valparaíso, about west of the capital, Santiago.
 
-Congresschile.jpg building in Valparaíso]]
+building in Valparaíso]]
 
 Chile's congressional elections are governed by a binomial system that, for the most part, rewards the two largest representations equally, often regardless of their relative popular support. Parties are thus forced to form wide coalitions and, historically, the two largest coalitions (Concertación and Alianza) split most of the seats. Only if the leading coalition ticket out-polls the second place coalition by a margin of more than 2-to-1 does the winning coalition gain both seats, which tends to lock the legislature in a roughly 50–50 split.
 
@@ -193,8 +193,6 @@ The northern Atacama Desert contains great mineral wealth, primarily copper and 
 
 Climate
 
-Chile_Köppen.png
-
 The diverse climate of Chile ranges from the world's driest desert in the north—the Atacama Desert—through a Mediterranean climate in the center, humid subtropical in Easter Island, to an oceanic climate, including alpine tundra and glaciers in the east and south.[118] According to the Köppen system, Chile within its borders hosts at least ten major climatic subtypes. There are four seasons in most of the country: summer (December to February), autumn (March to May), winter (June to August), and spring (September to November).
 
 Biodiversity
@@ -203,11 +201,9 @@ The flora and fauna of Chile are characterized by a high degree of endemism, due
 
 Flora and fauna
 
-Araucaria_araucana_-_Parque_Nacional_Conguillío_por_lautaroj_-_001.jpg Zorrito_Chile.JPG
-
 The native flora of Chile consists of relatively fewer species compared to the flora of other South American countries. The northernmost coastal and central region is largely barren of vegetation, approaching the most absolute desert in the world.[119] On the slopes of the Andes, in addition to the scattered tola desert brush, grasses are found. The central valley is characterized by several species of cacti, the hardy espinos, the Chilean pine, the southern beeches and the copihue, a red bell-shaped flower that is Chile's national flower.[120]
 
-In southern Chile, south of the Biobío River, heavy precipitation has produced dense forests of laurels, magnolias, and various species of conifers and beeches, which become smaller and more stunted to the south.[121] The cold temperatures and winds of the extreme south preclude heavy forestation. Grassland is found in Atlantic Chile (in Patagonia). Much of the Chilean flora is distinct from that of neighboring Argentina, indicating that the Andean barrier existed during its formation.[122] Colca-condor-c07.jpg (_Vultur gryphus_), the national bird of Chile.]] Some of Chile's flora has an Antarctic origin due to land bridges which formed during the Cretaceous ice ages, allowing plants to migrate from Antarctica to South America.[123]
+In southern Chile, south of the Biobío River, heavy precipitation has produced dense forests of laurels, magnolias, and various species of conifers and beeches, which become smaller and more stunted to the south.[121] The cold temperatures and winds of the extreme south preclude heavy forestation. Grassland is found in Atlantic Chile (in Patagonia). Much of the Chilean flora is distinct from that of neighboring Argentina, indicating that the Andean barrier existed during its formation.[122] (_Vultur gryphus_), the national bird of Chile.]] Some of Chile's flora has an Antarctic origin due to land bridges which formed during the Cretaceous ice ages, allowing plants to migrate from Antarctica to South America.[123]
 
 Just over 3,000 species of fungi are recorded in Chile,[124][125] but this number is far from complete. The true total number of fungal species occurring in Chile is likely to be far higher, given the generally accepted estimate that only about 7 percent of all fungi worldwide have so far been discovered.[126] Although the amount of available information is still very small, a first effort has been made to estimate the number of fungal species endemic to Chile, and 1995 species have been tentatively identified as possible endemics of the country.[127]
 
@@ -217,7 +213,7 @@ There are many species of small birds, but most of the larger common Latin Ameri
 
 Topography
 
-Chile_topo_en.jpg topographic relief of the country, see here.]] Majestic_Ojos_del_Salado_volcano_(4320230217).jpg from the Chilean side.]]
+topographic relief of the country, see here.]] from the Chilean side.]]
 
 Chile is located along a highly seismic and volcanic zone, part of the Pacific Ring of Fire, due to the subduction of the Nazca and Antarctic plates in the South American plate.
 
@@ -225,7 +221,7 @@ Late Paleozoic, 251 million years ago, Chile belonged to the continental block c
 
 The Chilean relief consists of the central depression, which crosses the country longitudinally, flanked by two mountain ranges that make up about 80% of the territory: the Andes mountains to the east-natural border with Bolivia and Argentina in the region of Atacama and the Coastal Range west-minor height from the Andes. Chile's highest peak is the Nevado Ojos del Salado, at 6891.3 m, which is also the highest volcano in the world. The highest point of the Coastal Range is Vicuña Mackenna, at 3114 meters, located in the Sierra Vicuña Mackenna, the south of Antofagasta. Among the coastal mountains and the Pacific is a series of coastal plains, of variable length, which allow the settlement of coastal towns and big ports. Some areas of the plains territories encompass territory east of the Andes, and the Patagonian steppes and Magellan, or are high plateaus surrounded by high mountain ranges, such as the Altiplano or Puna de Atacama.
 
-The Far North is the area between the northern boundary of the country and the parallel 26° S, covering the first three regions. It is characterized by the presence of the Atacama desert, the most arid in the world. The desert is fragmented by streams that originate in the area known as the pampas Tamarugal. The Andes, split in two and whose eastern arm runs Bolivia, has a high altitude and volcanic activity, which has allowed the formation of the Andean altiplano and salt structures as the Salar de Atacama, due to the gradual accumulation of sediments over time. Volcano_Osorno_and_Petrohué_waterfalls.JPG and the Petrohué River]] Glaciar_y_laguna_Nef,_afluente_Baker,.JPG and the Plomo Lake]]
+The Far North is the area between the northern boundary of the country and the parallel 26° S, covering the first three regions. It is characterized by the presence of the Atacama desert, the most arid in the world. The desert is fragmented by streams that originate in the area known as the pampas Tamarugal. The Andes, split in two and whose eastern arm runs Bolivia, has a high altitude and volcanic activity, which has allowed the formation of the Andean altiplano and salt structures as the Salar de Atacama, due to the gradual accumulation of sediments over time. and the Petrohué River]] and the Plomo Lake]]
 
 To the south is the Norte Chico, extending to the Aconcagua river. Los Andes begin to decrease its altitude to the south and closer to the coast, reaching 90 km away at the height of Illapel, the narrowest part of the Chilean territory. The two mountain ranges intersect, virtually eliminating the intermediate depression. The existence of rivers flowing through the territory allows the formation of transverse valleys, where agriculture has developed strongly in recent times, while the coastal plains begin to expand.
 
@@ -241,7 +237,7 @@ In the middle of the Pacific, the country has sovereignty over several islands o
 
 Hydrography
 
-Lago_General_Carrera_-_Camino_a_Capilla_de_Mármol.JPG, the largest in the country.]]
+, the largest in the country.]]
 
 Due to the characteristics of the territory, Chile is crossed by numerous rivers generally short in length and with low torrential flow. They commonly extend from the Andes to the Pacific Ocean, flowing in an East to West.
 
@@ -252,13 +248,11 @@ In the center-north of the country, the number of rivers that form valleys of ag
 
 Demographics
 
-Chile-demography.png
-
 Chile's 2017 census reported a population of 17,574,003. Its rate of population growth has been decreasing since 1990, due to a declining birth rate.[134] By 2050 the population is expected to reach approximately 20.2 million people.[135] About 85 percent of the country's population lives in urban areas, with 40 percent living in Greater Santiago. The largest agglomerations according to the 2002 census are Greater Santiago with 5.6 million people, Greater Concepción with 861,000 and Greater Valparaíso with 824,000.[136]
 
 Ancestry and ethnicity
 
-Ministro_Osorio_entrega_terreno_a_Comunidad_Mapuche_Lorenzo_Quintrileo_de_Tirúa.jpg]] 1951_settler_families.JPG
+]]
 
 The 1907 census reported 101,118 Natives, or 3.1% of the total population. Only those that practiced their native culture or spoke their native language were considered to be Natives, irrespective of their "racial purity".[137]
 
@@ -276,7 +270,7 @@ Due in part to its economic fortunes, Chile has recently become a new magnet for
 
 Religion
 
-Catedral_Metropolitana_de_Santiago.jpg]] , 66.6%[162] of Chilean population over 15 years of age claimed to adhere to the Roman Catholic church, a decrease from the 70%[163] reported in the 2002 census. In the same census of 2012, 17% of Chileans reported adherence to an Evangelical church ("Evangelical" in the census referred to all Christian denominations other than the Roman Catholic and Orthodox—Greek, Persian, Serbian, Ukrainian, and Armenian—churches, The Church of Jesus Christ of Latter-day Saints or Mormons, Seventh-day Adventists, and Jehovah's Witnesses: essentially, those denominations generally still termed "Protestant" in most English-speaking lands, although Adventism is often considered an Evangelical denomination as well). Approximately 90% of Evangelical Christians are Pentecostal. but Wesleyan, Lutheran, Anglican, Episcopalian, Presbyterian, other Reformed, Baptist, and Methodist churches also are present amongst Chilean Evangelical churches.[164] Irreligious people, atheists, and agnostics account for around 12% of the population.
+]] , 66.6%[162] of Chilean population over 15 years of age claimed to adhere to the Roman Catholic church, a decrease from the 70%[163] reported in the 2002 census. In the same census of 2012, 17% of Chileans reported adherence to an Evangelical church ("Evangelical" in the census referred to all Christian denominations other than the Roman Catholic and Orthodox—Greek, Persian, Serbian, Ukrainian, and Armenian—churches, The Church of Jesus Christ of Latter-day Saints or Mormons, Seventh-day Adventists, and Jehovah's Witnesses: essentially, those denominations generally still termed "Protestant" in most English-speaking lands, although Adventism is often considered an Evangelical denomination as well). Approximately 90% of Evangelical Christians are Pentecostal. but Wesleyan, Lutheran, Anglican, Episcopalian, Presbyterian, other Reformed, Baptist, and Methodist churches also are present amongst Chilean Evangelical churches.[164] Irreligious people, atheists, and agnostics account for around 12% of the population.
 
 By 2015, the major religion in Chile remained Christianity (68%), with an estimated 55% of Chileans belonging to the Roman Catholic church, 13% to various Evangelical churches, and just 7% adhering to any other religion. Agnostics and atheist were estimated at 25% of the population.[165]
 
@@ -286,7 +280,7 @@ The Constitution guarantees the right to freedom of religion, and other laws and
 
 Church and state are officially separate in Chile. A 1999 law on religion prohibits religious discrimination. However, the Roman Catholic church for mostly historical and social reasons enjoys a privileged status and occasionally receives preferential treatment. Government officials attend Roman Catholic events as well as major Evangelical and Jewish ceremonies.[168]
 
-Vista_de_la_ciudad_desde_los_jardines.png The Chilean government treats the religious holidays of Christmas, Good Friday, the Feast of the Virgin of Carmen, the Feast of Saints Peter and Paul, the Feast of the Assumption, All Saints' Day, and the Feast of the Immaculate Conception as national holidays.[169] Recently, the government declared 31 October, Reformation Day, to be an additional national holiday, in honor of the Evangelical churches of the country.[170][171]
+The Chilean government treats the religious holidays of Christmas, Good Friday, the Feast of the Virgin of Carmen, the Feast of Saints Peter and Paul, the Feast of the Assumption, All Saints' Day, and the Feast of the Immaculate Conception as national holidays.[169] Recently, the government declared 31 October, Reformation Day, to be an additional national holiday, in honor of the Evangelical churches of the country.[170][171]
 
 The patron saints of Chile are Our Lady of Mount Carmel and Saint James the Greater (_Santiago_).[172] In 2005, Pope Benedict XVI canonized Alberto Hurtado, who became the country's second native Roman Catholic saint after Teresa de los Andes.[173]
 
@@ -316,14 +310,14 @@ Upon successful graduation of secondary school, students may continue into highe
 
 Health
 
-Fonasa.jpg The Ministry of Health (_Minsal_) is the cabinet-level administrative office in charge of planning, directing, coordinating, executing, controlling and informing the public health policies formulated by the President of Chile. The National Health Fund (_Fonasa_), created in 1979, is the financial entity entrusted to collect, manage and distribute state funds for health in Chile. It is funded by the public. All employees pay 7 percent of their monthly income to the fund.
+The Ministry of Health (_Minsal_) is the cabinet-level administrative office in charge of planning, directing, coordinating, executing, controlling and informing the public health policies formulated by the President of Chile. The National Health Fund (_Fonasa_), created in 1979, is the financial entity entrusted to collect, manage and distribute state funds for health in Chile. It is funded by the public. All employees pay 7 percent of their monthly income to the fund.
 
 Fonasa is part of the NHSS and has executive power through the Ministry of Health (Chile). Its headquarters are in Santiago and decentralized public service is conducted by various Regional Offices. More than 12 million beneficiaries benefit from Fonasa. Beneficiaries can also opt for more costly private insurance through Isapre. Hospitals in Chile are mainly located in the Santiago Metropolitan Region.
 
 
 Economy
 
-Chile_and_Latin_America_GDP_Average.png (1980–2017)]] Gran_Torre_Santiago_(39693576311).jpg Bolsa_2.JPG]] Chuquicamata-003.jpg, the largest open pit copper mine in the world]] The Central Bank of Chile in Santiago serves as the central bank for the country. The Chilean currency is the Chilean peso (CLP). Chile is one of South America's most stable and prosperous nations,[182] leading Latin American nations in human development, competitiveness, income per capita, globalization, economic freedom, and low perception of corruption.[183] Since July 2013, Chile is considered by the World Bank as a "high-income economy".[184][185][186]
+(1980–2017)]] ]] , the largest open pit copper mine in the world]] The Central Bank of Chile in Santiago serves as the central bank for the country. The Chilean currency is the Chilean peso (CLP). Chile is one of South America's most stable and prosperous nations,[182] leading Latin American nations in human development, competitiveness, income per capita, globalization, economic freedom, and low perception of corruption.[183] Since July 2013, Chile is considered by the World Bank as a "high-income economy".[184][185][186]
 
 Chile has the highest degree of economic freedom in South America (ranking 7th worldwide), owing to its independent and efficient judicial system and prudent public finance management.[187] In May 2010 Chile became the first South American country to join the OECD.[188] In 2006, Chile became the country with the highest nominal GDP per capita in Latin America.[189]
 
@@ -349,11 +343,11 @@ Chile is rich in mineral resources, especially copper and lithium. It is thought
 
 Agriculture
 
-Vista_general_de_Valle_de_Casablanca.jpg]] Agriculture in Chile encompasses a wide range of different activities due to its particular geography, climate and geology and human factors. Historically agriculture is one of the bases of Chile's economy. Now agriculture and allied sectors like forestry, logging and fishing account for only 4.9% of the GDP and employ 13.6% of the country's labor force. Some major agriculture products of Chile include grapes, apples, pears, onions, wheat, corn, oats, peaches, garlic, asparagus, beans, beef, poultry, wool, fish, timber and hemp.[1] Due to its geographical isolation and strict customs policies Chile is free from diseases such as Mad Cow Disease, fruit fly and Phylloxera. This, its location in the Southern Hemisphere, which has quite different harvesting times from the Northern Hemisphere, and its wide range of agriculture conditions are considered Chile's main comparative advantages. However, Chile's mountainous landscape limits the extent and intensity of agriculture so that arable land corresponds only to 2.62% of the total territory. Chile currently utilizes 14,015 Hectares of agricultural land.[223]
+]] Agriculture in Chile encompasses a wide range of different activities due to its particular geography, climate and geology and human factors. Historically agriculture is one of the bases of Chile's economy. Now agriculture and allied sectors like forestry, logging and fishing account for only 4.9% of the GDP and employ 13.6% of the country's labor force. Some major agriculture products of Chile include grapes, apples, pears, onions, wheat, corn, oats, peaches, garlic, asparagus, beans, beef, poultry, wool, fish, timber and hemp.[1] Due to its geographical isolation and strict customs policies Chile is free from diseases such as Mad Cow Disease, fruit fly and Phylloxera. This, its location in the Southern Hemisphere, which has quite different harvesting times from the Northern Hemisphere, and its wide range of agriculture conditions are considered Chile's main comparative advantages. However, Chile's mountainous landscape limits the extent and intensity of agriculture so that arable land corresponds only to 2.62% of the total territory. Chile currently utilizes 14,015 Hectares of agricultural land.[223]
 
 Tourism
 
-Salar_de_Atacama.jpg in the Atacama Desert]] Valle_del_Elqui,_La_Serena-Chile.JPG, wine and pisco region]] Cerro_Concepcion.jpg]] Puerto_Varas_Osorno.jpg]]
+in the Atacama Desert]] , wine and pisco region]] ]] ]]
 
 Tourism in Chile has experienced sustained growth over the last few decades. In 2005, tourism grew by 13.6 percent, generating more than 4.5 billion dollars of which 1.5 billion was attributed to foreign tourists. According to the National Service of Tourism (Sernatur), 2 million people a year visit the country. Most of these visitors come from other countries in the American continent, mainly Argentina; followed by a growing number from the United States, Europe, and Brazil with a growing number of Asians from South Korea and PR China.[224]
 
@@ -372,13 +366,13 @@ Infrastructure
 
 Transport
 
-Mataveri_Airport_Easter_Island_Chile.jpg in Easter Island]]
+in Easter Island]]
 
-Due to Chile's topography a functioning transport network is vital to its economy. Buses are now the main means of long distance transportation in Chile, following the decline of its railway network.[227] The bus system covers the entire country, from Arica to Santiago (a 30-hour journey) and from Santiago to Punta Arenas (about 40 hours, with a change at Osorno). CAF_en_Hernando_de_Magallanes.jpg is South America's most extensive metro system[228]]] Chile has a total of 372 runways (62 paved and 310 unpaved). Important airports in Chile include Chacalluta International Airport (Arica), Diego Aracena International Airport (Iquique), Andrés Sabella Gálvez International Airport (Antofagasta), Carriel Sur International Airport (Concepción), El Tepual International Airport (Puerto Montt), Presidente Carlos Ibáñez del Campo International Airport (Punta Arenas), La Araucanía International Airport (Temuco), Mataveri International Airport (Easter Island), the most remote airport in the world, and the Comodoro Arturo Merino Benítez International Airport (Santiago) with a traffic of 12,105,524 passengers in 2011. Santiago is headquarters of Latin America's largest airline holding company and Chilean flag carrier LAN Airlines.
+Due to Chile's topography a functioning transport network is vital to its economy. Buses are now the main means of long distance transportation in Chile, following the decline of its railway network.[227] The bus system covers the entire country, from Arica to Santiago (a 30-hour journey) and from Santiago to Punta Arenas (about 40 hours, with a change at Osorno). is South America's most extensive metro system[228]]] Chile has a total of 372 runways (62 paved and 310 unpaved). Important airports in Chile include Chacalluta International Airport (Arica), Diego Aracena International Airport (Iquique), Andrés Sabella Gálvez International Airport (Antofagasta), Carriel Sur International Airport (Concepción), El Tepual International Airport (Puerto Montt), Presidente Carlos Ibáñez del Campo International Airport (Punta Arenas), La Araucanía International Airport (Temuco), Mataveri International Airport (Easter Island), the most remote airport in the world, and the Comodoro Arturo Merino Benítez International Airport (Santiago) with a traffic of 12,105,524 passengers in 2011. Santiago is headquarters of Latin America's largest airline holding company and Chilean flag carrier LAN Airlines.
 
 Telecommunications
 
-Andes_y_Torre_Entel.jpg in Santiago de Chile, with the Andes mountains in the background]] Chile has a telecommunication system which covers much of the country, including Chilean insular and Antarctic bases. Privatization of the telephone system began in 1988; Chile has one of the most advanced telecommunications infrastructure in South America with a modern system based on extensive microwave radio relay facilities and domestic satellite system with 3 earth stations.[229] In 2012, there were 3.276 million main lines in use and 24.13 million mobile cellular telephone subscribers.[230] According to a 2012 database of the International Telecommunications Union (ITU), 61.42% of the Chilean population uses the internet, making Chile the country with the highest internet penetration in South America.[231] The Chilean internet country code is ".cl".
+in Santiago de Chile, with the Andes mountains in the background]] Chile has a telecommunication system which covers much of the country, including Chilean insular and Antarctic bases. Privatization of the telephone system began in 1988; Chile has one of the most advanced telecommunications infrastructure in South America with a modern system based on extensive microwave radio relay facilities and domestic satellite system with 3 earth stations.[229] In 2012, there were 3.276 million main lines in use and 24.13 million mobile cellular telephone subscribers.[230] According to a 2012 database of the International Telecommunications Union (ITU), 61.42% of the Chilean population uses the internet, making Chile the country with the highest internet penetration in South America.[231] The Chilean internet country code is ".cl".
 
 
 Culture
@@ -387,7 +381,7 @@ From the period between early agricultural settlements and up to the late pre-Hi
 
 Music and dance
 
-Zamacueca-Chile.jpg Music in Chile ranges from folkloric, popular and classical music. Its large geography generates different musical styles in the north, center and south of the country, including also Easter Island and Mapuche music.[237] The national dance is the cueca. Another form of traditional Chilean song, though not a dance, is the tonada. Arising from music imported by the Spanish colonists, it is distinguished from the cueca by an intermediate melodic section and a more prominent melody.
+Music in Chile ranges from folkloric, popular and classical music. Its large geography generates different musical styles in the north, center and south of the country, including also Easter Island and Mapuche music.[237] The national dance is the cueca. Another form of traditional Chilean song, though not a dance, is the tonada. Arising from music imported by the Spanish colonists, it is distinguished from the cueca by an intermediate melodic section and a more prominent melody.
 
 Between 1950 and 1970 appears a rebirth in folk music leading by groups such as Los de Ramón, Los Cuatro Huasos and Los Huasos Quincheros, among others[238] with composers such as Raúl de Ramón, Violeta Parra and others. In the mid-1960s native musical forms were revitalized by the Parra family with the Nueva canción Chilena, which was associated with political activists and reformers such as Víctor Jara, Inti-Illimani, and Quilapayún. Other important folk singer and researcher on folklore and Chilean ethnography, is Margot Loyola. Also many Chilean rock bands like Los Jaivas, Los Prisioneros, La Ley, and Los Tres have reached international success. In February, annual music festivals are held in Viña del Mar.[239]
 
@@ -399,7 +393,7 @@ Among the list of other Chilean poets are Carlos Pezoa Véliz, Vicente Huidobro,
 
 Cuisine
 
-Asado_chileno_-_Flickr_-_Marieloreto.jpg'' (Barbecue) and _Marraqueta_]]
+'' (Barbecue) and _Marraqueta_]]
 
 Chilean cuisine is a reflection of the country's topographical variety, featuring an assortment of seafood, beef, fruits, and vegetables. Traditional recipes include asado, cazuela, empanadas, humitas, pastel de choclo, pastel de papas, curanto and sopaipillas.[246] Crudos is an example of the mixture of culinary contributions from the various ethnic influences in Chile. The raw minced llama, heavy use of shellfish and rice bread were taken from native Quechua Andean cuisine, (although now beef brought to Chile by Europeans is also used in place of the llama meat), lemon and onions were brought by the Spanish colonists, and the use of mayonnaise and yogurt was introduced by German immigrants, as was beer.
 
@@ -419,7 +413,7 @@ Film production originated in Valparaíso on 26 May 1902 with the premiere of th
 
 Sports
 
-Estadio_Nacional_de_Chile_2.jpg]]
+]]
 
 Chile's most popular sport is association football. Chile has appeared in nine FIFA World Cups which includes hosting the 1962 FIFA World Cup where the national football team finished third. Other results achieved by the national football team include two Copa América titles (2015 and 2016), and two runners up positions, one silver and two bronze medals at the Pan American Games, a bronze medal at the 2000 Summer Olympics and two third places finishes in the FIFA under-17 and under-20 youth tournaments. The top league in the Chilean football league system is the Chilean Primera División, which is named by the IFFHS as the ninth strongest national football league in the world.[247]
 
@@ -429,7 +423,7 @@ Tennis is Chile's most successful sport. Its national team won the World Team Cu
 
 At the Summer Olympic Games Chile boasts a total of two gold medals (tennis), seven silver medals (athletics, equestrian, boxing, shooting and tennis) and four bronze medals (tennis, boxing and football). In 2012, Chile won its first Paralympic Games medal (gold in Athletics).
 
-15_Abril_2015,_Ministro_Álvaro_Elizalde_junto_a_la_Presidenta_Michelle_Bachelet_reciben_al_Equipo_Campeón_Mundial_de_Polo_en_La_Moneda._(17160926755).jpg and the trophy of the 2015 World Polo Championship.]]
+and the trophy of the 2015 World Polo Championship.]]
 
 Rodeo is the country's national sport and is practiced in the more rural areas of the nation. A sport similar to hockey called _chueca_ was played by the Mapuche people during the Spanish conquest. Skiing and snowboarding are practiced at ski centers located in the Central Andes, and in southern ski centers near to cities as Osorno, Puerto Varas, Temuco and Punta Arenas. surfing is popular at some coastal towns. Polo is professionally practiced within Chile, with the country achieving top prize in the 2008 and 2015 World Polo Championship.
 
@@ -437,7 +431,7 @@ Basketball is a popular sport in which Chile has earned a bronze medal in the fi
 
 Cultural heritage
 
-Cerro_Concepcion.jpg The cultural heritage of Chile consists, first, of their intangible heritage, composed of various cultural events, such as visual arts, crafts, dances, holidays, cuisine, games, music and traditions, and, secondly, by its tangible, consists of those buildings, objects and sites of archaeological, architectural, traditional, artistic, ethnographic, folkloric, historical, religious or technological scattered through Chilean territory, among them, those goods are declared World Heritage Site by UNESCO, in accordance with the provisions of the Convention concerning the Protection of World Cultural and Natural Heritage of 1972, ratified by Chile in 1980. These cultural sites are the Rapa Nui National Park (1995), the Churches of Chiloé (2000), the historical district of the port city of Valparaíso (2003), Humberstone and Santa Laura Saltpeter Works (2005) and the mining city Sewell (2006).
+The cultural heritage of Chile consists, first, of their intangible heritage, composed of various cultural events, such as visual arts, crafts, dances, holidays, cuisine, games, music and traditions, and, secondly, by its tangible, consists of those buildings, objects and sites of archaeological, architectural, traditional, artistic, ethnographic, folkloric, historical, religious or technological scattered through Chilean territory, among them, those goods are declared World Heritage Site by UNESCO, in accordance with the provisions of the Convention concerning the Protection of World Cultural and Natural Heritage of 1972, ratified by Chile in 1980. These cultural sites are the Rapa Nui National Park (1995), the Churches of Chiloé (2000), the historical district of the port city of Valparaíso (2003), Humberstone and Santa Laura Saltpeter Works (2005) and the mining city Sewell (2006).
 
 In 1999 the _Cultural Heritage Day_ was established as a way to honour and commemorate Chiles cultural heritage. It is an official national event celebrated in May every year.
 

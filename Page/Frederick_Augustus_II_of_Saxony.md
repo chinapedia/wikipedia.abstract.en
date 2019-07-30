@@ -1,4 +1,4 @@
-Gartered_arms_of_Frederick_Augustus_II,_King_of_Saxony.png FREDERICK AUGUSTUS II (full name: _Frederick Augustus Albert Maria Clemens Joseph Vincenz Aloys Nepomuk Johann Baptista Nikolaus Raphael Peter Xavier Franz de Paula Venantius Felix_) ( 18 May 1797 in Dresden – 9 August 1854 in Brennbüchel, Karrösten, Tyrol) was King of Saxony and a member of the House of Wettin.
+FREDERICK AUGUSTUS II (full name: _Frederick Augustus Albert Maria Clemens Joseph Vincenz Aloys Nepomuk Johann Baptista Nikolaus Raphael Peter Xavier Franz de Paula Venantius Felix_) ( 18 May 1797 in Dresden – 9 August 1854 in Brennbüchel, Karrösten, Tyrol) was King of Saxony and a member of the House of Wettin.
 
 He was the eldest son of Maximilian, Prince of Saxony — younger son of the Elector Frederick Christian of Saxony — by his first wife, Caroline of Bourbon, Princess of Parma.
 

@@ -9,7 +9,7 @@ The communist regime collapsed in 1990, and the former communist Party of Labour
 
 Prehistory
 
-Shpella_e_zeze_-_Pellumbas.jpg, was used as a settlement for ancient humans during the middle paleolithic period.]]
+, was used as a settlement for ancient humans during the middle paleolithic period.]]
 
 The first traces of human presence in Albania, dating to the Middle Paleolithic and Upper Paleolithic eras, were found in the village of Xarrë, near Sarandë and Mount Dajt near Tiranë.[2] The objects found in a cave near Xarrë include flint and jasper objects and fossilized animal bones, while those found at Mount Dajt comprise bone and stone tools similar to those of the Aurignacian culture. The Paleolithic finds of Albania show great similarities with objects of the same era found at Crvena Stijena in Montenegro and north-western Greece.[3]
 
@@ -24,17 +24,17 @@ Antiquity
 
 Illyrians
 
-Face_of_King_Gentius_on_Ancient_Illyrian_coin.jpg, The last ruler of the Ardiaean dynasty.]] The Illyrians were a group of tribes who inhabited the western Balkans during the classical times. The territory the tribes covered came to be known as Illyria to Greek and Roman authors, corresponding roughly to the area between the Adriatic sea in the west, the Drava river in the north, the Morava river in the east and the mouth of Vjosë river in the south.[14][15] The first account of the Illyrian peoples comes from the Coastal Passage written by Periplus, an ancient Greek text of the middle of the 4th century BC.[16]
+, The last ruler of the Ardiaean dynasty.]] The Illyrians were a group of tribes who inhabited the western Balkans during the classical times. The territory the tribes covered came to be known as Illyria to Greek and Roman authors, corresponding roughly to the area between the Adriatic sea in the west, the Drava river in the north, the Morava river in the east and the mouth of Vjosë river in the south.[14][15] The first account of the Illyrian peoples comes from the Coastal Passage written by Periplus, an ancient Greek text of the middle of the 4th century BC.[16]
 
 Several Illyrian tribes that resided in the region of Albania were the Ardiaei, Taulantii and Albanoi[17] in central Albania,[18] the Parthini, the Abri and the Caviii in the north, the Enchelei in the east,[19] the Bylliones in the south and several others. In the westernmost parts of the territory of Albania, along with the Illyrian tribes, lived the Bryges,[20] a Phrygian people, and in the south[21][22] lived the Greek tribe of the Chaonians.[23][24][25]
 
-Queen_Teuta_orders_the_murder_of_Roman_ambassadors.jpg of the Ardieai orders the Roman ambassadors to be killed.]] In the 4th century BC, the Illyrian king Bardylis united several Illyrian tribes and engaged in conflicts with Macedon to the south-east, but was defeated. Bardyllis was succeeded by Grabos,[26] then by Bardylis II,[27] and then by Cleitus the Illyrian,[28] who was defeated by Alexander the Great. Around 230 BC, the Ardiaei briefly attained military might under the reign of king Agron. Agron extended his rule over other neighbouring tribes as well.[29] He raided parts of Epirus, Epidamnus, and the islands of Corcyra and Pharos. His state stretched from Narona in Dalmatia south to the river Aoos and Corcyra. During his reign, the Ardiaean Kingdom reached the height of its power. The Ardiaean army and fleet made it a major regional power in the Balkans and the southern Adriatic. The king regained control of the Adriatic with his warships (_lembi_), a domination once enjoyed by the Liburnians. None of his neighbours were nearly as powerful. Agron divorced his (first) wife. Around 231 BC, Agron suddenly died after his triumph over the Aetolians. Agron's (second) wife was Queen Teuta, who acted as regent after Agron's death. According to Polybius, she ruled "by women's reasoning".[30] Teuta started to address the neighbouring states malevolently, supporting the piratical raids of her subjects. After capturing Dyrrhachium and Phoenice, Teuta's forces extended their operations further southward into the Ionian Sea, defeating the combined Achaean and Aetolian fleet in the Battle of Paxos and capturing the island of Corcyra. Later on, in 229 BC, she clashed with the Romans and initiated the Illyrian Wars. These wars, which were spread out over 60 years, eventually resulted in defeat for the Illyrians by 168 BC and the end of Illyrian independence when King Gentius was defeated by a Roman army after heavy clashes with Rome and Roman allied cities such as Apollonia and Dyrrhachium under Anicius Gallus. After his defeat, the Romans split the region into three administrative divisions,[31] called _meris_.[32]
+of the Ardieai orders the Roman ambassadors to be killed.]] In the 4th century BC, the Illyrian king Bardylis united several Illyrian tribes and engaged in conflicts with Macedon to the south-east, but was defeated. Bardyllis was succeeded by Grabos,[26] then by Bardylis II,[27] and then by Cleitus the Illyrian,[28] who was defeated by Alexander the Great. Around 230 BC, the Ardiaei briefly attained military might under the reign of king Agron. Agron extended his rule over other neighbouring tribes as well.[29] He raided parts of Epirus, Epidamnus, and the islands of Corcyra and Pharos. His state stretched from Narona in Dalmatia south to the river Aoos and Corcyra. During his reign, the Ardiaean Kingdom reached the height of its power. The Ardiaean army and fleet made it a major regional power in the Balkans and the southern Adriatic. The king regained control of the Adriatic with his warships (_lembi_), a domination once enjoyed by the Liburnians. None of his neighbours were nearly as powerful. Agron divorced his (first) wife. Around 231 BC, Agron suddenly died after his triumph over the Aetolians. Agron's (second) wife was Queen Teuta, who acted as regent after Agron's death. According to Polybius, she ruled "by women's reasoning".[30] Teuta started to address the neighbouring states malevolently, supporting the piratical raids of her subjects. After capturing Dyrrhachium and Phoenice, Teuta's forces extended their operations further southward into the Ionian Sea, defeating the combined Achaean and Aetolian fleet in the Battle of Paxos and capturing the island of Corcyra. Later on, in 229 BC, she clashed with the Romans and initiated the Illyrian Wars. These wars, which were spread out over 60 years, eventually resulted in defeat for the Illyrians by 168 BC and the end of Illyrian independence when King Gentius was defeated by a Roman army after heavy clashes with Rome and Roman allied cities such as Apollonia and Dyrrhachium under Anicius Gallus. After his defeat, the Romans split the region into three administrative divisions,[31] called _meris_.[32]
 
 Greeks and Romans
 
-Dyrrachium_coin.jpg coin of Dyrrachium.]] Beginning in the 7th century BC, Greek colonies were established on the Illyrian coast. The most important were Apollonia, Aulon (modern-day Vlorë), Epidamnos (modern-day Durrës), and Lissus (modern-day Lezhë). The rediscovered Greek city of Buthrotum () (modern-day Butrint), a UNESCO World Heritage Site, is probably more significant today than it was when Julius Caesar used it as a provisions depot for his troops during his campaigns in the 1st century BC. At that time, it was considered an unimportant outpost, overshadowed by Apollonia and Epidamnos.[33]
+coin of Dyrrachium.]] Beginning in the 7th century BC, Greek colonies were established on the Illyrian coast. The most important were Apollonia, Aulon (modern-day Vlorë), Epidamnos (modern-day Durrës), and Lissus (modern-day Lezhë). The rediscovered Greek city of Buthrotum () (modern-day Butrint), a UNESCO World Heritage Site, is probably more significant today than it was when Julius Caesar used it as a provisions depot for his troops during his campaigns in the 1st century BC. At that time, it was considered an unimportant outpost, overshadowed by Apollonia and Epidamnos.[33]
 
-Amphitheatre_of_durres_albania_2016.jpg is one of the largest amphitheatres in the Balkan peninsula, once having a capacity of 20,000 people.]] The lands comprising modern-day Albania were incorporated into the Roman Empire as part of the province of Illyricum above the river Drin, and Roman Macedonia (specifically as Epirus Nova) below it. The western part of the Via Egnatia ran inside modern Albania, ending at Dyrrachium. Illyricum was later divided into the provinces of Dalmatia and Pannonia.
+is one of the largest amphitheatres in the Balkan peninsula, once having a capacity of 20,000 people.]] The lands comprising modern-day Albania were incorporated into the Roman Empire as part of the province of Illyricum above the river Drin, and Roman Macedonia (specifically as Epirus Nova) below it. The western part of the Via Egnatia ran inside modern Albania, ending at Dyrrachium. Illyricum was later divided into the provinces of Dalmatia and Pannonia.
 
 The Roman province of _Illyricum_ or[34][35] _Illyris Romana_ or _Illyris Barbara_ or _Illyria Barbara_ replaced most of the region of Illyria. It stretched from the Drilon River in modern Albania to Istria (Croatia) in the west and to the Sava River (Bosnia and Herzegovina) in the north. Salona (near modern Split in Croatia) functioned as its capital. The regions which it included changed through the centuries though a great part of ancient Illyria remained part of Illyricum.
 
@@ -42,7 +42,7 @@ South Illyria became Epirus Nova, part of the Roman province of Macedonia. In 35
 
 Christianization
 
-Labova_e_Kryqit3.jpg in Labovë e Kryqit. The foundation of the Church dates back to the 6th century at the reign of Byzantine Emperor Justinian from 527 to 565 AD. Justinian erected the church in memory of his mother.|210px]]
+in Labovë e Kryqit. The foundation of the Church dates back to the 6th century at the reign of Byzantine Emperor Justinian from 527 to 565 AD. Justinian erected the church in memory of his mother.|210px]]
 
 Christianity came to Epirus nova, then part of the Roman province of Macedonia.[36] Since the 3rd and 4th century AD, Christianity had become the established religion in Byzantium, supplanting pagan polytheism and eclipsing for the most part the humanistic world outlook and institutions inherited from the Greek and Roman civilizations. The Durrës Amphitheatre _(Albanian: Amfiteatri i Durrësit)_ is a historic monument from the time period located in Durrës, Albania, that was used to preach Christianity to civilians during that time.
 
@@ -55,7 +55,7 @@ Middle Ages
 
 Early Middle Ages
 
-Balkans_6th_century.svg Berat_UNESCO_2016_Albania.jpg became part of the unstable frontier of the Byzantine Empire following the fall of the Roman Empire and along with much of the rest of the Balkan peninsula.]]
+became part of the unstable frontier of the Byzantine Empire following the fall of the Roman Empire and along with much of the rest of the Balkan peninsula.]]
 
 After the region fell to the Romans in 168 BC it became part of Epirus nova that was, in turn, part of the Roman province of Macedonia. When the Roman Empire was divided into East and West in 395, the territories of modern Albania became part of the Byzantine Empire. Beginning in the first decades of Byzantine rule (until 461), the region suffered devastating raids by Visigoths, Huns, and Ostrogoths. In the 6th and 7th centuries, the region experienced an influx of Slavs.
 
@@ -67,7 +67,7 @@ In the Middle Ages, the name Arberia began to be increasingly applied to the reg
 
 Principality of Arbër
 
-Krujë-KrujaAlbania_2016.jpg became the capital of the first autonomous Albanian state in the middle ages, the Principality of Arbër.]]
+became the capital of the first autonomous Albanian state in the middle ages, the Principality of Arbër.]]
 
 In 1190, the Principality of Arbër (Arbanon) was founded by archon Progon in the region of Krujë. Progon was succeeded by Gjin Progoni and then Dhimitër Progoni. Arbanon extended over the modern districts of central Albania, with its capital located at Krujë. Throughout its existence, the principality was an autonomous dependency of its neighbouring powers, first Byzantium and after the Fourth Crusade, its successor, the Despotate of Epirus, while it also maintained close relations with Serbia.[39]
 
@@ -77,17 +77,17 @@ During the conflicts between Michael II Komnenos Doukas of Epirus and Emperor Jo
 
 High Middle Ages
 
-Palazzo_Reale_di_Napoli_-_Carlo_I_d%27Angiò.jpg established REGNUM ALBANIAE (Kingdom of Albania) after he conquered a part the Despotate of Epirus.]] Kingdom_of_Albania.png.]]
+established REGNUM ALBANIAE (Kingdom of Albania) after he conquered a part the Despotate of Epirus.]] .]]
 
 After the weakening of the Byzantine Empire and the Bulgarian Empire in the middle and late 13th century, most of the territory of present-day Albania became part of the Serbian state: firstly, as part of Rashka and later as part of the Serbian Empire. The southern part was governed by the semi-independent, Serbian ruled Despotate of Epiros. According to some scholars, Progon's realm was the first Albanian state during the Middle Ages.[46]
 
-Along with the Serbian ruled Albania, there was also the Principality of Arbër, and later the Angevin Kingdom of Albania. These three entities cover the history of Albania between the late 12th century, until the half of the 14th century, when Albanian Principalities were created through all Albania. Europe_1360.jpg After the failure of the Eighth Crusade, Charles of Anjou turned his attention to Albania. He began contacting local Albanian leaders through the local Catholic clergy, using two priests as negotiators. During 1271 they made several trips between Albania and Italy eventually succeeding in their mission. Charles convened an assembly in February 1272 and was proclaimed the "King of Albania" "by common consent of the bishops, counts, barons, soldiers and citizens" promising to protect them and to honour the privileges they had from the Byzantine Empire.[47] The kingdom extended from the region of Dyrrhachium (Durrës) south along the coast to Butrint.[48] King Charles sought to launch an expedition against Constantinople, and in 1272–73 sent large provisions to Durrës and Vlorë. This alarmed Byzantine Emperor Michael VIII Palaiologos, who tried to convince Albanian nobility to switch sides. However, the Albanian nobles remained loyal, and throughout the existence of the kingdom there was a conflict with the Byzantine Empire. By 1282 the Angevins were weakened by the Sicilian Vespers but held control of the nominal parts of Albania and even recaptured some and held out until 1368 when the kingdom's territory was reduced to a small area in Durrës. Karl Topia, who declared himself an Angevin descendant, captured Durrës and established the Principality of Albania.
+Along with the Serbian ruled Albania, there was also the Principality of Arbër, and later the Angevin Kingdom of Albania. These three entities cover the history of Albania between the late 12th century, until the half of the 14th century, when Albanian Principalities were created through all Albania. After the failure of the Eighth Crusade, Charles of Anjou turned his attention to Albania. He began contacting local Albanian leaders through the local Catholic clergy, using two priests as negotiators. During 1271 they made several trips between Albania and Italy eventually succeeding in their mission. Charles convened an assembly in February 1272 and was proclaimed the "King of Albania" "by common consent of the bishops, counts, barons, soldiers and citizens" promising to protect them and to honour the privileges they had from the Byzantine Empire.[47] The kingdom extended from the region of Dyrrhachium (Durrës) south along the coast to Butrint.[48] King Charles sought to launch an expedition against Constantinople, and in 1272–73 sent large provisions to Durrës and Vlorë. This alarmed Byzantine Emperor Michael VIII Palaiologos, who tried to convince Albanian nobility to switch sides. However, the Albanian nobles remained loyal, and throughout the existence of the kingdom there was a conflict with the Byzantine Empire. By 1282 the Angevins were weakened by the Sicilian Vespers but held control of the nominal parts of Albania and even recaptured some and held out until 1368 when the kingdom's territory was reduced to a small area in Durrës. Karl Topia, who declared himself an Angevin descendant, captured Durrës and established the Principality of Albania.
 
 During Angevin rule, Catholicism saw rapid spread among the population which affected the society as well as architecture. A Western type of feudalism was introduced and it replaced the Byzantine Pronoia.
 
 Principalities and League of Lezhë
 
-Vues_iv41056.jpg in Shkodër, was the focal point of the Siege of Shkodra.]] Coa_Kastrioti_Family.svg of the noble House of Kastrioti. According to records, Skanderbeg raised a red flag with the black double head eagle over Krujë.]]
+in Shkodër, was the focal point of the Siege of Shkodra.]] of the noble House of Kastrioti. According to records, Skanderbeg raised a red flag with the black double head eagle over Krujë.]]
 
 In 1355 the Serbian Empire was dissolved and several Albanian principalities were formed including the Balsha, Kastrioti, Thopia and Shpata as the major ones. In the late 14th and the early 15th century the Ottoman Empire conquered parts of south and central Albania. The Albanians regained control of their territories in 1444 when the League of Lezhë was established, under the rule of George Kastrioti Skanderbeg, the Albanian national hero. The League was a military alliance of feudal lords in Albania forged in Lezhë on 2 March 1444, initiated and organised under Venetian patronage[49] with Skanderbeg as leader of the regional Albanian and Serbian chieftains united against the Ottoman Empire.[50] The main members of the league were the Arianiti, Balšić, Dukagjini, Muzaka, Spani, Thopia and Crnojevići. For 25 years, from 1443–1468, Skanderbeg's 10,000 man army marched through Ottoman territory winning against consistently larger and better supplied Ottoman forces.[51] Threatened by Ottoman advances in their homeland, Hungary, and later Naples and Venice – their former enemies – provided the financial backbone and support for Skanderbeg's army.[52] By 1450 it had certainly ceased to function as originally intended, and only the core of the alliance under Skanderbeg and Araniti Comino continued to fight on.[53] After Skanderbeg's death in 1468, the sultan "easily subdued Albania," but Skanderbeg's death did not end the struggle for independence,[54] and fighting continued until the Ottoman siege of Shkodra in 1478–79, a siege ending when the Republic of Venice ceded Shkodra to the Ottomans in the peace treaty of 1479.
 
@@ -101,13 +101,13 @@ During the early phases of the revolt, many land (timar) holders were killed or 
 
 Ottoman-Albanian Wars
 
-Gjergj_Kastrioti.jpg, the National Hero of the Albanians successfully rebelled against the Ottomans for 25 years.]]
+, the National Hero of the Albanians successfully rebelled against the Ottomans for 25 years.]]
 
 Many Albanians had been recruited into the Janissary corps, including the feudal heir George Kastrioti who was renamed Skanderbeg (Iskandar Bey) by his Turkish officers at Edirne. After the Ottoman defeat in the Battle of Niš at the hands of the Hungarians, Skanderbeg deserted in November 1443 and began a rebellion against the Ottoman Empire.[58]
 
 After his desertion, Skanderbeg re-converted to Christianity and declared war against the Ottoman Empire,[59] which he led from 1443 to 1468. Skanderbeg summoned the Albanian princes to the Venetian-controlled town of Lezhë where they formed the League of Lezhë.[60] Gibbon reports that the "Albanians, a martial race, were unanimous to live and die with their hereditary prince", and that "in the assembly of the states of Epirus, Skanderbeg was elected general of the Turkish war and each of the allies engaged to furnish his respective proportion of men and money".[61] Under a red flag bearing Skanderbeg's heraldic emblem, an Albanian force held off Ottoman campaigns for twenty-five years and overcame a number of the major sieges: Siege of Krujë (1450), Second Siege of Krujë (1466–67), Third Siege of Krujë (1467) against forces led by the Ottoman sultans Murad II and Mehmed II. For 25 years Skanderbeg's army of around 10,000 men marched through Ottoman territory winning against consistently larger and better supplied Ottoman forces.[62]
 
-Muzeum_Skanderbega_w_Kruji_2.jpg was the center of Skanderbeg's battle against the Ottomans.]]
+was the center of Skanderbeg's battle against the Ottomans.]]
 
 Throughout his rebellion, Skanderbeg defeated the Ottomans in a number of battles, including Torvioll, Oranik, Otonetë, Modric, Ohrid and Mokra; with his most brilliant being in Albulena. However, Skanderbeg did not receive any of the help which had been promised to him by the popes or the Italian states, Venice, Naples and Milan. He died in 1468, leaving no clear successor. After his death the rebellion continued, but without its former success. The loyalties and alliances created and nurtured by Skanderbeg faltered and fell apart and the Ottomans reconquered the territory of Albania, culminating with the siege of Shkodra in 1479. However, some territories in Northern Albania remained under Venetian control. Shortly after the fall of the castles of northern Albania, many Albanians fled to neighbouring Italy, giving rise to the Arbëreshë communities still living in that country.
 
@@ -115,7 +115,7 @@ Skanderbeg's long struggle to keep Albania free became highly significant to the
 
 Late Ottoman period
 
-Ali_Pasha_Tepelena,_Oil_paint_of_Agim_Sulaj.jpg was notably one of the most powerful Muslim Albanian rulers. He ruled over the Pashalik of Yanina and even attempted to rival the Dey of Algiers from 1788 to 1822.]]
+was notably one of the most powerful Muslim Albanian rulers. He ruled over the Pashalik of Yanina and even attempted to rival the Dey of Algiers from 1788 to 1822.]]
 
 Upon the Ottomans return in 1479, a large number of Albanians fled to Italy, Egypt and other parts of the Ottoman Empire and Europe and maintained their Arbëresh identity. Many Albanians won fame and fortune as soldiers, administrators, and merchants in far-flung parts of the Empire. As the centuries passed, however, Ottoman rulers lost the capacity to command the loyalty of local pashas, which threatened stability in the region. The Ottoman rulers of the 19th century struggled to shore up central authority, introducing reforms aimed at harnessing unruly pashas and checking the spread of nationalist ideas. Albania would be a part of the Ottoman Empire until the early 20th century.
 
@@ -134,7 +134,7 @@ In the 1870s, the Sublime Porte's reforms aimed at checking the Ottoman Empire's
 
 League of Prizren
 
-Albanski_vilajet.png Kompleksi_Monumental_i_Lidhjes_Shqiptare_të_Prizrenit_9384n.jpg building in Prizren from inside the courtyard.]]
+building in Prizren from inside the courtyard.]]
 
 In the second quarter of the 19th century, after the fall of the Albanian pashaliks and the Massacre of the Albanian Beys, an Albanian National Awakening took place and many revolts against the Ottoman Empire were organized. These revolts included the Albanian Revolts of 1833–1839, the Revolt of 1843–44, and the Revolt of 1847. A culmination of the Albanian National Awakening was the League of Prizren. The league was formed at a meeting of 47 Ottoman beys in Prizren on 18 June 1878. An initial position of the league was presented in a document known as Kararname. Through this document Albanian leaders emphasized their intention to preserve and maintain the territorial integrity of the Ottoman Empire in the Balkans by supporting the porte, and "to struggle in arms to defend the wholeness of the territories of Albania". In this early period, the League participated in battles against Montenegro and successfully wrestled control over Plav and Gusinje after brutal warfare with Montenegrin troops. In August 1878, the Congress of Berlin ordered a commission to determine the border between the Ottoman Empire and Montenegro. Finally, the Great Powers blockaded Ulcinj by sea and pressured the Ottoman authorities to bring the Albanians under control. Albanian diplomatic and military efforts were successful in wresting control of Epirus, however some lands were still ceded to Greece by 1881.
 
@@ -142,7 +142,7 @@ The League's founding figure Abdyl Frashëri influenced the League to demand aut
 
 Independence
 
-28nentor.jpg and his cabinet during the celebration of the first anniversary of independence in Vlorë on 28 November 1912.|210px]]
+and his cabinet during the celebration of the first anniversary of independence in Vlorë on 28 November 1912.|210px]]
 
 The initial sparks of the first Balkan war in 1912 were ignited by the Albanian uprising between 1908 and 1910, which had the aim of opposing the Young Turk policies of consolidation of the Ottoman Empire.[67] Following the eventual weakening of the Ottoman Empire in the Balkans, Serbia, Greece, and Bulgaria declared war, seizing the remaining Ottoman territory in Europe. The territory of Albania was occupied by Serbia in the north and Greece in the south, leaving only a patch of land around the southern coastal city of Vlora. The unsuccessful uprising of 1910, 1911 and the successful and final Albanian revolt in the Ottoman Empire in 1912, as well as the Serbian and Greek occupation and attempts to incorporate the land into their respective countries, led to a proclamation of independence by Ismail Qemali in Vlorë on 28 November 1912. The same day, Ismail Qemali waved the national flag of Albania, from the balcony of the Assembly of Vlorë, in the presence of hundreds of Albanians. This flag was sewn after Skanderbeg's principality flag, which had been used more than 500 years earlier.
 
@@ -153,8 +153,6 @@ At the same time, an uprising in the country's south by local Greeks led to the 
 
 Principality of Albania
 
-Flag_of_Albania_(1914-1920).svg
-
 In supporting the independence of Albania, the Great Powers were assisted by Aubrey Herbert, a British MP who passionately advocated the Albanian cause in London. As a result, Herbert was offered the crown of Albania, but was dissuaded by the British Prime Minister, H. H. Asquith, from accepting. Instead the offer went to William of Wied, a German prince who accepted and became sovereign of the new Principality of Albania.[74]
 
 The Principality was established on 21 February 1914. The Great Powers selected Prince William of Wied, a nephew of Queen Elisabeth of Romania to become the sovereign of the newly independent Albania. A formal offer was made by 18 Albanian delegates representing the 18 districts of Albania on 21 February 1914, an offer which he accepted. Outside of Albania William was styled prince, but in Albania he was referred to as Mbret (King) so as not to seem inferior to the King of Montenegro.This is the period when Albanian religions gained independence. The ecumenical patriarch of Constantinople recognized the autocephaly of the Albanian Orthodox Church after a meeting of the country's Albanian Orthodox congregations in Berat in August 1922. The most energetic reformers in Albania came from the Orthodox population who wanted to see Albania move quickly away from its Turkish-ruled past, during which Christians made up the underclass. Albania's conservative Sunni Muslim community broke its last ties with Constantinople in 1923, formally declaring that there had been no caliph since Muhammad himself and that Muslim Albanians pledged primary allegiance to their native country. The Muslims also banned polygamy and allowed women to choose whether or not they wanted to wear a veil. Upon termination of Albania from Turkey in 1912, as in all other fields, the customs administration continued its operation under legislation approved specifically for the procedure. After the new laws were issued for the operation of customs, its duty was 11% of the value of goods imported and 1% on the value of those exported.
@@ -162,8 +160,6 @@ The Principality was established on 21 February 1914. The Great Powers selected 
 The security was to be provided by a Gendarmerie commanded by Dutch officers. William left Albania on 3 September 1914 following a pan-Islamic revolt initiated by Essad Pasha Toptani and later headed by Haji Kamil, the latter the military commander of the "Muslim State of Central Albania" centered in Tirana. William never renounced his claim to the throne.
 
 World War I
-
-1914_albania_en.svg
 
 World War I interrupted all government activities in Albania, while the country was split in a number of regional governments.[75] Political chaos engulfed Albania after the outbreak of World War I. The Albanian people split along religious and tribal lines after the prince's departure. Muslims demanded a Muslim prince and looked to Turkey as the protector of the privileges they had enjoyed. Other Albanians looked to Italy and Serbia for support. Still others, including many beys and clan chiefs, recognized no superior authority.
 
@@ -181,7 +177,7 @@ When the war ended on 11 November 1918, Italy's army had occupied most of Albani
 
 Projects of partition in 1919–1920
 
-Lufta_e_Vlorës.jpg,1920.
+,1920.
 
 ]]
 
@@ -213,7 +209,7 @@ Zogu's party handily won elections for a National Assembly in early 1924. Zogu s
 
 June Revolution
 
-Fan_S._Noli.jpg|160px]] Noli's supporters blamed the Rustemi murder on Zogu's Mati clansmen, who continued to practice blood vengeance. After the walkout, discontent mounted, and in June 1924 a peasant-backed insurgency had won control of Tirana. Noli became prime minister, and Zogu fled to Yugoslavia.
+|160px]] Noli's supporters blamed the Rustemi murder on Zogu's Mati clansmen, who continued to practice blood vengeance. After the walkout, discontent mounted, and in June 1924 a peasant-backed insurgency had won control of Tirana. Noli became prime minister, and Zogu fled to Yugoslavia.
 
 Fan Noli, an idealist, rejected demands for new elections on the grounds that Albania needed a "paternal" government. In a manifesto describing his government's program, Noli called for abolishing feudalism, resisting Italian domination, and establishing a Western-style constitutional government. Scaling back the bureaucracy, strengthening local government, assisting peasants, throwing Albania open to foreign investment, and improving the country's bleak transportation, public health, and education facilities filled out the Noli government's overly ambitious agenda. Noli encountered resistance to his program from people who had helped him oust Zogu, and he never attracted the foreign aid necessary to carry out his reform plans. Noli criticized the League of Nations for failing to settle the threat facing Albania on its land borders.
 
@@ -224,7 +220,7 @@ On 13 December 1924, Zogu's Yugoslav-backed army crossed into Albanian territory
 
 First Republic
 
-Ahmet-Zogu-1895---1961.jpg President Zog of Albania.]]
+President Zog of Albania.]]
 
 In 1924 Ahmed Bey Zogu, regained power from an internal political power struggle against Prime Minister, Fan Noli using Yugoslav military assistance.
 
@@ -268,7 +264,7 @@ As Nazi Germany annexed Austria and moved against Czechoslovakia, Italy saw itse
 
 Italian invasion
 
-Map_of_Albania_during_WWII.png during WWII.]]
+during WWII.]]
 
 On 7 April Mussolini's troops invaded Albania. The operation was led by General Alfredo Guzzoni. The invasion force was divided into three groups, which were to land successively. The most important was the first group, which was divided in four columns, each assigned to a landing area at a harbor and an inland target on which to advance. Despite some stubborn resistance by some patriots, especially at Durrës, the Italians made short work of the Albanians.[99] Durrës was captured on 7 April, Tirana the following day, Shkodër and Gjirokastër on 9 April, and almost the entire country by 10 April.
 
@@ -278,7 +274,7 @@ The parliament elected Albania's largest landowner, Shefqet Bej Verlaci, as Prim
 
 Albania under Italy
 
-Flag_of_Albania_(1939-1943).svg]] Shefqet_Verlaci.jpg]]
+]] ]]
 
 While Victor Emmanuel ruled as king, Shefqet Bej Verlaci served as the Prime Minister. Shefqet Verlaci controlled the day-to-day activities of the Italian protectorate. On 3 December 1941, Shefqet Bej Verlaci was replaced as Prime Minister and Head of State by Mustafa Merlika Kruja.[101]
 
@@ -291,8 +287,6 @@ But, soon after the Italian invasion, the Greeks counter-attacked and a sizeable
 After the fall of Yugoslavia and Greece in April 1941, the Italian Fascists added to the territory of the Kingdom of Albania most of the Albanian-inhabited areas that had been previously given to the Kingdom of Yugoslavia. The Albanian fascists claimed in May 1941 that nearly all the Albanian populated territories were united to Albania (see map). Even areas of northern Greece (Chameria) were administered by Albanians.[102] But this was even a consequence of borders that Italy and Germany agreed on when dividing their spheres of influence. Some small portions of territories with Albanian majority remained outside the new borders and contact between the two parts was practically impossible: the Albanian population under the Bulgarian rule was heavily oppressed.
 
 Albania under Germany
-
-Bundesarchiv_Bild_101I-203-1691-20,_Albanien,_deutsche_Soldaten,_italienischer_Panzer.jpg
 
 After the surrender of the Italian Army in September 1943, Albania was occupied by the Germans.
 
@@ -310,8 +304,6 @@ The National Liberation War of the Albanian people started with the Italian inva
 
 Communist resistance
 
-Albanian_Partisans.JPG
-
 In October 1941, the small Albanian communist groups established in Tirana an Albanian Communist Party of 130 members under the leadership of Hoxha and an eleven-man Central Committee. The Albanian communists supported the Molotov–Ribbentrop Pact, and did not participate in the antifascist struggle until Germany invaded the Soviet Union in 1941. The party at first had little mass appeal, and even its youth organization netted recruits. In mid-1942, however, party leaders increased their popularity by calling the young peoples to fight for the liberation of their country, that was occupied by Fascist Italy.
 
 This propaganda increased the number of new recruits by many young peoples eager for freedom. In September 1942, the party organized a popular front organization, the National Liberation Movement (NLM), from a number of resistance groups, including several that were strongly anticommunist. During the war, the NLM's communist-dominated partisans, in the form of the National Liberation Army, did not heed warnings from the Italian occupiers that there would be reprisals for guerrilla attacks. Partisan leaders, on the contrary, counted on using the lust for revenge such reprisals would elicit to win recruits.
@@ -326,7 +318,7 @@ A nationalist resistance to the Italian occupiers emerged in November 1942. Ali 
 
 Communist revolution in Albania (1944)
 
-Tirana_Albania_1944-11-20.jpg marching in Tirana, November 29, 1944.]]
+marching in Tirana, November 29, 1944.]]
 
 The communist partisans regrouped and gained control of southern Albania in January 1944. In May they called a congress of members of the National Liberation Front (NLF), as the movement was by then called, at Përmet, which chose an Anti-Fascist Council of National Liberation to act as Albania's administration and legislature. Hoxha became the chairman of the council's executive committee and the National Liberation Army's supreme commander.
 
@@ -343,15 +335,13 @@ Second Republic
 
 Communism
 
-HODŽA_druhá_míza.jpg.]]
+.]]
 
 A collection of communists moved quickly after the second World War to subdue all potential political enemies in Albania, break the country's landowners and minuscule middle class, and isolate Albania from western powers in order to establish the People's Republic of Albania. In 1945, the communists had liquidated, discredited, or driven into exile most of the country's interwar elite. The Internal Affairs Minister, Koçi Xoxe, a pro-Yugoslav erstwhile tinsmith, presided over the trial and the execution of thousands of opposition politicians, clan chiefs, and members of former Albanian governments who were condemned as "war criminals."
 
 Thousands of their family members were imprisoned for years in work camps and jails and later exiled for decades to miserable state farms built on reclaimed marshlands. The communists' consolidation of control also produced a shift in political power in Albania from the northern Ghegs to the southern Tosks. Most communist leaders were middle-class Tosks, Vlachs and Orthodox, and the party drew most of its recruits from Tosk-inhabited areas, while the Ghegs, with their centuries-old tradition of opposing authority, distrusted the new Albanian rulers and their alien Marxist doctrines.
 
 In December 1945, Albanians elected a new People's Assembly, but only candidates from the Democratic Front (previously the National Liberation Movement then the National Liberation Front) appeared on the electoral lists, and the communists used propaganda and terror tactics to gag the opposition. Official ballot tallies showed that 92% of the electorate voted and that 93% of the voters chose the Democratic Front ticket. The assembly convened in January 1946, annulled the monarchy, and transformed Albania into a "people's republic."
-
-Annual_Rate_of_National_Income_Increase_of_the_People's_Republic_of_Albania.png
 
 Enver Hoxha and Mehmet Shehu emerged as communist leaders in Albania, and are recognized by most western nations. They began to concentrate primarily on securing and maintaining their power base by killing all their political adversaries, and secondarily on preserving Albania's independence and reshaping the country according to the precepts of Stalinism so they could remain in power. Political executions were common with between 5,000 and 25,000 killed in total under the communist regime.[109][110][111] Albania became an ally of the Soviet Union, but this came to an end after 1956 over the advent of de-Stalinization, causing the Soviet-Albanian split. A strong political alliance with China followed, leading to several billion dollars in aid, which was curtailed after 1974, causing the Sino-Albanian split. China cut off aid in 1978 when Albania attacked its policies after the death of Chinese leader Mao Zedong. Large-scale purges of officials occurred during the 1970s.
 
@@ -363,7 +353,7 @@ In 1967, the authorities conducted a violent campaign to extinguish religious pr
 
 Albania and Yugoslavia
 
-Comecon.svg (Comecon).]]
+(Comecon).]]
 
 Until Yugoslavia's expulsion from the Cominform in 1948, Albania acted like a Yugoslav satellite and the President of Yugoslavia, Josip Broz Tito aimed to use his choke hold on the Albanian party to incorporate the entire country into Yugoslavia. After Germany's withdrawal from Kosovo in late 1944, Yugoslavia's communist partisans took possession of the province and committed retaliatory massacres against Albanians. Before the second World War, the Communist Party of Yugoslavia had supported transferring Kosovo to Albania, but Yugoslavia's postwar communist regime insisted on preserving the country's prewar borders.
 
@@ -375,7 +365,7 @@ In 1947, Yugoslavia's leaders engineered an all-out offensive against anti-Yugos
 
 Albania and the Soviet Union
 
-Ships_at_Pashaliman.jpg was the only Soviet base in the Mediterranean during the cold war.]]
+was the only Soviet base in the Mediterranean during the cold war.]]
 
 Albania became dependent on Soviet aid and know-how after the break with Yugoslavia in 1948. In February 1949, Albania gained membership in the communist bloc's organization for coordinating economic planning, the Council for Mutual Economic Assistance. Tirana soon entered into trade agreements with Poland, Czechoslovakia, Hungary, Romania, and the Soviet Union. Soviet and central European technical advisers took up residence in Albania, and the Soviet Union also sent Albania military advisers and built a submarine installation on Sazan Island.
 
@@ -409,7 +399,7 @@ Fourth Republic
 
 Transition
 
-EPP_Congress_Marseille_6007_(6472666909).jpg of the Democratic Party became the second President of the Republic.]]
+of the Democratic Party became the second President of the Republic.]]
 
 In 1991, Ramiz Alia became the first President of Albania. Alia tried to follow in Enver Hoxha's footsteps, but the changes had already started and the collapse of communism throughout Europe led to widespread changes within the society of Albania. Mikhail Gorbachev had appeared in the Soviet Union with new rules and policies (glasnost and perestroika). However, Alia took similar steps, signing the Helsinki Agreement and allowing pluralism under pressure from students and workers.[119] Afterwards, the first multi-party elections took place since the communists assumed power in Albania. The Socialist Party led by Ramiz Alia won the 1991 elections.[120] Nevertheless, it was clear that the change would not be stopped. Pursuant to a 29 April 1991 interim basic law, Albanians ratified a constitution on 28 November 1998, establishing a democratic system of government based upon the rule of law and guaranteeing the protection of fundamental human rights.
 
@@ -417,7 +407,7 @@ Furthermore, the Communists retained support and governmental control in the fir
 
 Democratization
 
-Tirana_from_South.jpg, with many new exclusive flats and apartments.]]
+, with many new exclusive flats and apartments.]]
 
 The Democratic Party took control after winning the second multi-party elections, deposing the Communist Party. Afterwards, Sali Berisha became the second President. Today, Berisha is the longest-serving and the only President of Albania elected to a second term. In 1995, Albania became the 35th member of the Council of Europe and requested membership in North Atlantic Treaty Organisation (NATO).[122] The people of Albania has continued to emigrate to western European countries, especially to Greece and Italy but also to the United States.
 
@@ -427,7 +417,7 @@ In 2001, Albania has made strides toward democratic reform and maintaining the r
 
 Present
 
-NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_at_NATO_headquarters_in_Brussels_2010.jpg summit in Brussels.]]
+summit in Brussels.]]
 
 On 23 June 2013, the eighth parliamentary elections took place, won by Edi Rama of the Socialist Party. During his tenure as 33rd Prime Minister, Albania has implemented numerous reforms focused on the modernizing the economy and democratizing of state institutions like the judiciary and law enforcement. Additionally, unemployment has been steadily reduced to the 4th lowest unemployment rate in the Balkans.[124]
 

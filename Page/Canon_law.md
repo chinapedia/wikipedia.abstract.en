@@ -13,7 +13,7 @@ The _Apostolic Canons_[4] or _Ecclesiastical Canons of the Same Holy Apostles_[5
 
 Catholic Church
 
-Extract_from_Burchard_of_Worms'_Decretum.jpg In the Catholic Church, canon law is the system of laws and legal principles made and enforced by the Church's hierarchical authorities to regulate its external organization and government and to order and direct the activities of Catholics toward the mission of the Church.[7]
+In the Catholic Church, canon law is the system of laws and legal principles made and enforced by the Church's hierarchical authorities to regulate its external organization and government and to order and direct the activities of Catholics toward the mission of the Church.[7]
 
 In the Latin Church, positive ecclesiastical laws, based directly or indirectly upon immutable divine law or natural law, derive formal authority in the case of universal laws from the supreme legislator (i.e., the Supreme Pontiff), who possesses the totality of legislative, executive, and judicial power in his person,[8] while particular laws derive formal authority from a legislator inferior to the supreme legislator. The actual subject material of the canons is not just doctrinal or moral in nature, but all-encompassing of the human condition.[9]
 

@@ -1,4 +1,4 @@
-Calico_Sample.JPG shown against a centimetre scale.]] CALICO (; in British usage since 1505)[1] is a plain-woven textile made from unbleached and often not fully processed cotton. It may contain unseparated husk parts, for example. The fabric is far less fine than muslin, but less coarse and thick than canvas or denim, but it is still very cheap owing to its unfinished and undyed appearance.
+shown against a centimetre scale.]] CALICO (; in British usage since 1505)[1] is a plain-woven textile made from unbleached and often not fully processed cotton. It may contain unseparated husk parts, for example. The fabric is far less fine than muslin, but less coarse and thick than canvas or denim, but it is still very cheap owing to its unfinished and undyed appearance.
 
 The fabric was originally from the city of Calicut in southwestern India. It was made by the traditional weavers called cāliyans. The raw fabric was dyed and printed in bright hues, and calico prints became popular in Europe.
 
@@ -21,7 +21,7 @@ In 1764, of cotton-wool were imported.[11] This change in consumption patterns, 
 
 Calico printing
 
-Calico_sample_Crum_&_Co..jpg, _Dyeing and Calico Printing_ (1878).]]
+, _Dyeing and Calico Printing_ (1878).]]
 
 Early Indian chintz, that is, glazed calico with a large floral pattern, was primarily produced using painting techniques.[13] Later, the hues were applied by wooden blocks, and the cloth manufacturers in Britain printed calico using wooden block printing. Calico printers at work are depicted in one of the stained glass windows made by Stephen Adam for the Maryhill Burgh Halls, Glasgow. Confusingly, linen and silk printed this way were known as _linen calicoes_ and _silk calicoes_. Early European calicoes (1680) were cheap plain weave white cotton fabric, or cream or unbleached cotton, with a design block-printed using a single alizarin dye fixed with two mordants, giving a red and black pattern. Polychromatic prints were possible, using two sets of blocks and an additional blue dye. The Indian taste was for dark printed backgrounds, while the European market preferred a pattern on a cream base. As the century progressed the European preference moved from the large chintz patterns to smaller, tighter patterns.[14]
 
@@ -32,7 +32,7 @@ The trade association remained in operation until 1954, when the arrangement was
 
 Terminology
 
-Calico_printing_Wellcome_L0011294.jpg In the UK, Australia and New Zealand:
+In the UK, Australia and New Zealand:
 
 -   Calico – simple, cheap equal weft and warp plain weave fabric in white, cream or unbleached cotton.
 -   Muslin – a very fine, light plain weave cotton fabric.

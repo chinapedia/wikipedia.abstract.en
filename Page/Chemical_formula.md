@@ -40,7 +40,7 @@ A molecular formula shows the number of elements in a molecule, and determines w
 
 Condensed formula
 
-Isobutane_numbered_2D.svg structural formula
+structural formula
 Molecular formula: C₄H₁₀
 Condensed or semi-structural chemical formula: (CH₃)₃CH]]
 
@@ -91,7 +91,7 @@ A left-hand subscript is sometimes used redundantly to indicate the atomic numbe
 
 Trapped atoms
 
-Endohedral_fullerene.png The @ symbol (at sign) indicates an atom or molecule trapped inside a cage but not chemically bound to it. For example, a buckminsterfullerene (C₆₀) with an atom (M) would simply be represented as MC₆₀ regardless of whether M was inside the fullerene without chemical bonding or outside, bound to one of the carbon atoms. Using the @ symbol, this would be denoted M@C₆₀ if M was inside the carbon network. A non-fullerene example is [As@Ni₁₂As₂₀]^(3−), an ion in which one As atom is trapped in a cage formed by the other 32 atoms.
+The @ symbol (at sign) indicates an atom or molecule trapped inside a cage but not chemically bound to it. For example, a buckminsterfullerene (C₆₀) with an atom (M) would simply be represented as MC₆₀ regardless of whether M was inside the fullerene without chemical bonding or outside, bound to one of the carbon atoms. Using the @ symbol, this would be denoted M@C₆₀ if M was inside the carbon network. A non-fullerene example is [As@Ni₁₂As₂₀]^(3−), an ion in which one As atom is trapped in a cage formed by the other 32 atoms.
 
 This notation was proposed in 1991[2] with the discovery of fullerene cages (endohedral fullerenes), which can trap atoms such as La to form, for example, La@C₆₀ or La@C₈₂. The choice of the symbol has been explained by the authors as being concise, readily printed and transmitted electronically (the at sign is included in ASCII, which most modern character encoding schemes are based on), and the visual aspects suggesting the structure of an endohedral fullerene.
 
@@ -147,7 +147,7 @@ External links
 
 Chemical_formulas Category:Chemical nomenclature Category:Notation
 
-[1]  CC-BY-SA_icon.svg This material is available under a Creative Commons Attribution-Share Alike 3.0 license.
+[1]  This material is available under a Creative Commons Attribution-Share Alike 3.0 license.
 
 [2]
 

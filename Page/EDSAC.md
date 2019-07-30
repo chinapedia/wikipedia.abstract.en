@@ -21,7 +21,7 @@ John Lindley (diploma student 1958–1959) mentioned "the incredible difficulty 
 
 Memory and instructions
 
-EDSAC_(12).jpg and Bill Renwick in front of the complete EDSAC]] The EDSAC's main memory consisted of 1024 locations, though only 512 locations were initially installed. Each contained 18 bits, but the topmost bit was always unavailable due to timing problems, so only 17 bits were used. An instruction consisted of a five-bit instruction code, one spare bit, a ten bit operand (usually a memory address), and a length bit to control whether the instruction used a 17-bit or a 35-bit operand (two consecutive words, little-endian). All instruction codes were by design represented by one mnemonic letter, so that the _Add_ instruction, for example, used the EDSAC character code for the letter A.
+and Bill Renwick in front of the complete EDSAC]] The EDSAC's main memory consisted of 1024 locations, though only 512 locations were initially installed. Each contained 18 bits, but the topmost bit was always unavailable due to timing problems, so only 17 bits were used. An instruction consisted of a five-bit instruction code, one spare bit, a ten bit operand (usually a memory address), and a length bit to control whether the instruction used a 17-bit or a 35-bit operand (two consecutive words, little-endian). All instruction codes were by design represented by one mnemonic letter, so that the _Add_ instruction, for example, used the EDSAC character code for the letter A.
 
 Internally, the EDSAC used two's complement, binary numbers. Numbers were either 17 bits (one word) or 35 bits (two words) long. Unusually, the multiplier was designed to treat numbers as fixed-point fractions in the range −1 ≤ _x_ < 1, i.e. the binary point was immediately to the right of the sign. The accumulator could hold 71 bits, including the sign, allowing two long (35-bit) numbers to be multiplied without losing any precision.
 
@@ -88,7 +88,7 @@ In the mid-1960s, a successor to the EDSAC 2 was planned, but the move was inste
 
 EDSAC Replica Project
 
-EDSAC_replica.JPG On 13 January 2011, the Computer Conservation Society announced that it planned to build a working replica of EDSAC, at the National Museum of Computing (TNMoC) in Bletchley Park supervised by Andrew Herbert, who studied under Maurice Wilkes.[24] The first parts of the recreation were switched on in November 2014.[25][26] The ongoing project is open to visitors of the museum. As of November 2016, commissioning of the fully completed and operational state of the replica was estimated to be the autumn of 2017.[27] However, project delays have postponed its opening (as of May 2018) to summer of 2018.[28]
+On 13 January 2011, the Computer Conservation Society announced that it planned to build a working replica of EDSAC, at the National Museum of Computing (TNMoC) in Bletchley Park supervised by Andrew Herbert, who studied under Maurice Wilkes.[24] The first parts of the recreation were switched on in November 2014.[25][26] The ongoing project is open to visitors of the museum. As of November 2016, commissioning of the fully completed and operational state of the replica was estimated to be the autumn of 2017.[27] However, project delays have postponed its opening (as of May 2018) to summer of 2018.[28]
 
 
 See also

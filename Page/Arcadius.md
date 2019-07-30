@@ -13,7 +13,7 @@ After Eutropius' fall, Gainas joined the rebel Ostrogoths, and forced Arcadius t
 
 Eudoxia's influence was strongly opposed by John Chrysostom, the Patriarch of Constantinople, who felt that she had used her family's wealth to gain control over the Emperor. Eudoxia used her influence to have Chrysostom deposed in 404, but she died later that year. Eudoxia gave to Arcadius four children: three daughters, Pulcheria, Arcadia and Marina, and one son, Theodosius, the future Emperor Theodosius II.
 
-Arcadius was dominated for the rest of his rule by Anthemius, the Praetorian Prefect, who made peace with Stilicho in the West. Arcadius himself was more concerned with appearing to be a pious Christian than he was with political or military matters, and he died, only nominally in control of his Empire, in 408. Arcadius_gold_multiple_CdM_Paris_Beistegui_239.jpg of Arcadius.]]
+Arcadius was dominated for the rest of his rule by Anthemius, the Praetorian Prefect, who made peace with Stilicho in the West. Arcadius himself was more concerned with appearing to be a pious Christian than he was with political or military matters, and he died, only nominally in control of his Empire, in 408. of Arcadius.]]
 
 
 Character and works

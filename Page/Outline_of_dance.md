@@ -105,7 +105,7 @@ Geography of dance (by region)
 
 
 
-        WEST AFRICA LocationWesternAfrica.png
+        WEST AFRICA
 
 
 
@@ -113,7 +113,7 @@ Geography of dance (by region)
 
 
 
-        NORTH AFRICA LocationNorthernAfrica.png
+        NORTH AFRICA
 
 
 
@@ -121,7 +121,7 @@ Geography of dance (by region)
 
 
 
-        CENTRAL AFRICA LocationCentralMiddleAfrica.png
+        CENTRAL AFRICA
 
 
 
@@ -129,7 +129,7 @@ Geography of dance (by region)
 
 
 
-        EAST AFRICA LocationEasternAfrica.png
+        EAST AFRICA
 
 
 
@@ -137,7 +137,7 @@ Geography of dance (by region)
 
 
 
-        SOUTHERN AFRICA LocationSouthernAfrica.png
+        SOUTHERN AFRICA
 
 
 
@@ -213,7 +213,7 @@ Geography of dance (by region)
 
             Georgia (including disputed Abkhazia, South Ossetia) • Armenia • Azerbaijan (including disputed Nagorno-Karabakh Republic)
 
-    EUROPE Europe_location.png
+    EUROPE
 
         Akrotiri and Dhekelia • Åland • Albania • Andorra • Armenia • Austria • Azerbaijan • Belarus • Belgium • Bosnia and Herzegovina • Bulgaria • Croatia • Cyprus • Czech Republic • Denmark • Estonia • Faroe Islands • Finland • France • Georgia • Germany • Gibraltar • Greece • Guernsey • Hungary • Iceland • Ireland • Isle of Man • Italy • Jersey • Kazakhstan • Kosovo • Latvia • Liechtenstein • Lithuania • Luxembourg • Macedonia • Malta • Moldova (including disputed Transnistria) • Monaco • Montenegro • Netherlands • Poland • Portugal • Romania • Russia • San Marino • Serbia • Slovakia • Slovenia •
         Norway
@@ -237,7 +237,7 @@ Geography of dance (by region)
 
     NORTH AMERICA
 
-        CANADA LocationCanadaAmerica.png
+        CANADA
 
             PROVINCES OF CANADA: • Alberta • British Columbia • Manitoba • New Brunswick • Newfoundland and Labrador • Nova Scotia • Ontario (Toronto) • Prince Edward Island • Quebec • Saskatchewan
             TERRITORIES OF CANADA: Northwest Territories • Nunavut • Yukon
@@ -248,11 +248,11 @@ Geography of dance (by region)
 
 
 
-        UNITED STATES Location_USA_in_America.PNG
+        UNITED STATES
 
 
 
-        MEXICO Location_mexico_in_america.jpg
+        MEXICO
 
     CENTRAL AMERICA
 
@@ -270,7 +270,7 @@ Geography of dance (by region)
 
         AUSTRALASIA
 
-            Australia Location_Australia.svg
+            Australia
 
                 DEPENDENCIES/TERRITORIES OF AUSTRALIA
 
@@ -290,7 +290,7 @@ Geography of dance (by region)
 
             American Samoa (USA) • Chatham Islands (NZ) • Cook Islands (NZ) • Easter Island (Chile) • French Polynesia (France) • Hawaii (USA) • Loyalty Islands (France) • Niue (NZ) • Pitcairn Islands (UK) • Adamstown • Samoa • Tokelau (NZ) • Tonga • Tuvalu • Wallis and Futuna (France)
 
-    SOUTH AMERICA Location_of_South_America.svg
+    SOUTH AMERICA
 
         Argentina • Bolivia • Brazil • Chile • Colombia • Ecuador • Falkland Islands • Guyana • Paraguay • Peru • Suriname • Uruguay • Venezuela
 

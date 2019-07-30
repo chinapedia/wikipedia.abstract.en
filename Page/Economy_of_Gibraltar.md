@@ -63,7 +63,7 @@ The UK's Ministry of Defence was originally the mainstay of Gibraltar's economy 
 
 Economy in detail
 
-Gibraltar_Exports_Treemap_(2009).jpg Gibraltar benefits from an extensive shipping trade, a well regulated international finance center, tourism, and has become a global leader in the virtual gaming industry.[34][35]
+Gibraltar benefits from an extensive shipping trade, a well regulated international finance center, tourism, and has become a global leader in the virtual gaming industry.[34][35]
 
 Self-sufficient Gibraltar benefits from an extensive shipping trade, offshore banking, and its position as an international conference center. The British military presence has been sharply reduced and now contributes about 7% to the local economy, compared with 60% in 1984. The financial sector, tourism (almost 5 million visitors in 1998), shipping services fees, and duties on consumer goods also generate revenue. The financial sector, the shipping sector, and tourism each contribute 25%-30% of GDP. Telecommunications accounts for another 10%. In recent years, Gibraltar has seen major structural change from a public to a private sector economy, but changes in government spending still have a major impact on the level of employment.
 

@@ -1,4 +1,4 @@
-Arvid_Liljelund_-_Man_Singing_Hymn_-_A_I_187_-_Finnish_National_Gallery.jpg A HYMN is a type of song, usually religious, specifically written for the purpose of adoration or prayer, and typically addressed to a deity or deities, or to a prominent figure or personification. The word _hymn_ derives from Greek (_hymnos_), which means "a song of praise". A writer of hymns is known as a hymnodist. The singing or composition of hymns is called HYMNODY. Collections of hymns are known as hymnals or hymn books. Hymns may or may not include instrumental accompaniment.
+A HYMN is a type of song, usually religious, specifically written for the purpose of adoration or prayer, and typically addressed to a deity or deities, or to a prominent figure or personification. The word _hymn_ derives from Greek (_hymnos_), which means "a song of praise". A writer of hymns is known as a hymnodist. The singing or composition of hymns is called HYMNODY. Collections of hymns are known as hymnals or hymn books. Hymns may or may not include instrumental accompaniment.
 
 Although most familiar to speakers of English in the context of Christianity, hymns are also a fixture of other world religions, especially on the Indian subcontinent. Hymns also survive from antiquity, especially from Egyptian and Greek cultures. Some of the oldest surviving examples of notated music are hymns with Greek texts.
 
@@ -34,7 +34,7 @@ Since there is a lack of musical notation in early writings,[5] the actual music
 
 Western church
 
-St_Paul's_Cathedral_South_Organ,_London,_UK_-_Diliff.jpg music]] Later hymnody in the Western church introduced four-part vocal harmony as the norm, adopting major and minor keys, and came to be led by organ and choir. It shares many elements with classical music.
+music]] Later hymnody in the Western church introduced four-part vocal harmony as the norm, adopting major and minor keys, and came to be led by organ and choir. It shares many elements with classical music.
 
 Today, except for choirs, more musically inclined congregations and _a cappella_ congregations, hymns are typically sung in unison. In some cases complementary full settings for organ are also published, in others organists and other accompanists are expected to transcribe the four-part vocal score for their instrument of choice.
 

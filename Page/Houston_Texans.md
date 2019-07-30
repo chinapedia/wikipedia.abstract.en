@@ -199,7 +199,7 @@ Spanish-language radio broadcasts of the team's games are aired on KGOL ESPN Dep
 
 Radio affiliates
 
-Houston_Texans_radio_affiliates.png Texans Radio Affiliates
+Texans Radio Affiliates
 
   City              Call sign                           Frequency
   ----------------- ----------------------------------- -----------

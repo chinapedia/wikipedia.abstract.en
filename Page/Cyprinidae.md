@@ -7,7 +7,7 @@ Cyprinids are stomachless fish with toothless jaws. Even so, food can be effecti
 
 Hearing is a well-developed sense in the cyprinids since they have the Weberian organ, three specialized vertebral processes that transfer motion of the gas bladder to the inner ear. The vertebral processes of the Weberian organ also permit a cyprinid to detect changes in motion of the gas bladder due to atmospheric conditions or depth changes. The cyprinids are considered physostomes because the pneumatic duct is retained in adult stages and the fish are able to gulp air to fill the gas bladder, or they can dispose of excess gas to the gut.
 
-Giant_Barb.jpgs (_Catlocarpio siamensis_) are the largest members of this family.]] Cyprinids are native to North America, Africa, and Eurasia. The largest known cyprinid is the giant barb (_Catlocarpio siamensis_), which may grow up to in length and in weight.[7] Other very large species that can surpass are the golden mahseer (_Tor putitora_) and mangar (_Luciobarbus esocinus_).[8][9] The largest North American species is the Colorado pikeminnow (_Ptychocheilus lucius_), which can reach up to in length.[10] Conversely, many species are smaller than . The smallest known fish is _Paedocypris progenetica_, reaching at the longest.[11]
+s (_Catlocarpio siamensis_) are the largest members of this family.]] Cyprinids are native to North America, Africa, and Eurasia. The largest known cyprinid is the giant barb (_Catlocarpio siamensis_), which may grow up to in length and in weight.[7] Other very large species that can surpass are the golden mahseer (_Tor putitora_) and mangar (_Luciobarbus esocinus_).[8][9] The largest North American species is the Colorado pikeminnow (_Ptychocheilus lucius_), which can reach up to in length.[10] Conversely, many species are smaller than . The smallest known fish is _Paedocypris progenetica_, reaching at the longest.[11]
 
 All fish in this family are egg-layers and most do not guard their eggs; however, a few species build nests and/or guard the eggs. The bitterlings of subfamily Acheilognathinae are notable for depositing their eggs in bivalve molluscs, where the young develop until able to fend for themselves.
 
@@ -19,8 +19,6 @@ Unlike most fish species, cyprinids generally increase in abundance in eutrophic
 
 
 Relationship with humans
-
-Cyprinids_wild_capture.png
 
 Cyprinids are highly important food fish; they are fished and farmed across Eurasia. In land-locked countries in particular, cyprinids are often the major species of fish eaten because they make the largest part of biomass in most water types except for fast-flowing rivers. In Eastern Europe, they are often prepared with traditional methods such as drying and salting. The prevalence of inexpensive frozen fish products made this less important now than it was in earlier times. Nonetheless, in certain places, they remain popular for food, as well as recreational fishing, and have been deliberately stocked in ponds and lakes for centuries for this reason.[12]
 
@@ -57,7 +55,7 @@ Phylogeny
 
 Subfamilies and genera
 
-Fransenlipper.JPG, _Epalzeorhynchos frenatum_, a somewhat aggressive aquarium fish]] Acheilognathus_longipinnis2.jpg'': Acheilognathinae]] Danio_kerri.jpg, _Danio kerri_: Danioninae]] Pseudogobio_esocinus(Hamamatsu,Shizuoka,Japan).jpg'' , Gobioninae]] Hypophthalmichthys_molitrix_adult.jpg, _Hypophthalmichthys molitrix_: Xenocyprinae, alternatively Hypophthalmichthyinae]] Labeo_rohita.JPG, _Labeo rohita_, of the disputed Labeoninae]] FemaleTench1.JPG, _Tinca tinca_, is of unclear affiliations and often placed in a subfamily of its own.]]
+, _Epalzeorhynchos frenatum_, a somewhat aggressive aquarium fish]] '': Acheilognathinae]] , _Danio kerri_: Danioninae]] '' , Gobioninae]] , _Hypophthalmichthys molitrix_: Xenocyprinae, alternatively Hypophthalmichthyinae]] , _Labeo rohita_, of the disputed Labeoninae]] , _Tinca tinca_, is of unclear affiliations and often placed in a subfamily of its own.]]
 
 SUBFAMILY PROBARBINAE
 
@@ -298,7 +296,7 @@ SUBFAMILY LEPTOBARBINAE
 
 -   _Leptobarbus_
 
-Hemitremia_flammea.jpg _Hemitremia flammea_, one of the chubs in the Leuciscinae)]] Aland.jpg, _Leuciscus idus_ , one of the Eurasian daces]] Notropis_hypselopterus.jpg, _Notropis hypselopterus_, a small and colorful shiner of the Leuciscinae]] Phoxinus_oxycephalus_jouyi1.jpg_, a minnow related to some North American daces]] Rutilus_rubilio.jpg_, a European roach]] Trigonostigma_somphongsi.jpg'', a rasbora, a relative of the blue danio above]] Mylopharyngodon_piceus.jpg, _Mylopharyngodon piceus_: Squaliobarbinae]]
+_Hemitremia flammea_, one of the chubs in the Leuciscinae)]] , _Leuciscus idus_ , one of the Eurasian daces]] , _Notropis hypselopterus_, a small and colorful shiner of the Leuciscinae]] _, a minnow related to some North American daces]] _, a European roach]] '', a rasbora, a relative of the blue danio above]] , _Mylopharyngodon piceus_: Squaliobarbinae]]
 
 SUBFAMILY XENOCYPRIDINAE [incl. Cultrinae & Squaliobarbinae]
 
@@ -534,7 +532,7 @@ SUBFAMILY LEUCISCINAE [incl. Alburninae]
 
 _Incertae sedis_
 
-Hemigrammocypris_rasborella(Fujieda-shi,Shizuoka-ken,Japan).jpg'', of uncertain relationship:
+'', of uncertain relationship:
 Possibly related to _Aphyocypris_.]]
 
 -   _Acanthalburnus_ (bleaks)

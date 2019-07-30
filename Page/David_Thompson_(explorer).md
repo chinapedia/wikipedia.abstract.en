@@ -17,8 +17,6 @@ In 1790, with his apprenticeship nearing its end, Thompson requested a set of su
 
 North West Company
 
-David_Thompson_(explorer).jpg
-
 Thompson's decision to defect to the North West Company (NWC) in 1797 without providing the customary one-year notice was not well received by his former employers. But the North West Company was more supportive of Thompson pursuing his interest in surveying and work on mapping the interior of what was to become Canada, as they judged it in the company's long-term interest. In 1797, Thompson was sent south by his employers to survey part of the Canada-US boundary along the water routes from Lake Superior to Lake of the Woods to satisfy unresolved questions of territory arising from the Jay Treaty between Great Britain and the United States after the American Revolutionary War.
 
 By 1798 Thompson had completed a survey of from Grand Portage, through Lake Winnipeg, to the headwaters of the Assiniboine and Mississippi rivers, as well as two sides of Lake Superior.[10] In 1798, the company sent him to Red Deer Lake (Lac La Biche in present-day Alberta) to establish a trading post. (The English translation of Lac la Biche: Red Deer Lake, was first recorded on the Mackenzie map of 1793.)[11] Thompson spent the next few seasons trading based in Fort George (now in Alberta), and during this time led several expeditions into the Rocky Mountains.
@@ -43,7 +41,7 @@ In his published journals, Thompson recorded seeing large footprints near what i
 
 Appearance and personality
 
-DavidThompson.png In 1820, the English geologist, John Jeremiah Bigsby, attended a dinner party given by The Hon. William McGillivray at his home, Chateau St. Antoine, one of the early estates in Montreal's Golden Square Mile. He describes the party and some of the guests in his entertaining book _The Shoe and Canoe_, giving an excellent description of David Thompson:
+In 1820, the English geologist, John Jeremiah Bigsby, attended a dinner party given by The Hon. William McGillivray at his home, Chateau St. Antoine, one of the early estates in Montreal's Golden Square Mile. He describes the party and some of the guests in his entertaining book _The Shoe and Canoe_, giving an excellent description of David Thompson:
 
 
 Marriage and children
@@ -53,7 +51,7 @@ On 10 June 1799 at Île-à-la-Crosse, Thompson married Charlotte Small, a thirte
 
 Later years
 
-1814ThompsonMap.jpg on the west to Lake Superior on the east. By David Thompson, 1814.]] Upon his arrival back in Montreal, Thompson retired with a generous pension from the North West Company. He settled in nearby Terrebonne and worked on completing his great map, a summary of his lifetime of exploring and surveying the interior of North America. The map covered the wide area stretching from Lake Superior to the Pacific, and was given by Thompson to the North West Company. Thompson's 1814 map, his greatest achievement, was so accurate that 100 years later it was still the basis for many of the maps issued by the Canadian government. It now resides in the Archives of Ontario.[20]
+on the west to Lake Superior on the east. By David Thompson, 1814.]] Upon his arrival back in Montreal, Thompson retired with a generous pension from the North West Company. He settled in nearby Terrebonne and worked on completing his great map, a summary of his lifetime of exploring and surveying the interior of North America. The map covered the wide area stretching from Lake Superior to the Pacific, and was given by Thompson to the North West Company. Thompson's 1814 map, his greatest achievement, was so accurate that 100 years later it was still the basis for many of the maps issued by the Canadian government. It now resides in the Archives of Ontario.[20]
 
 In 1815, Thompson moved his family to Williamstown, Upper Canada, and a few years later was employed to survey the newly established borders with the United States from Lake of the Woods to the Eastern Townships of Quebec, established by Treaty of Ghent after the War of 1812. In 1843 Thompson completed his atlas of the region from Hudson Bay to the Pacific Ocean.
 
@@ -62,13 +60,11 @@ Afterwards, Thompson returned to a life as a land owner, but soon financial misf
 
 Death and afterward
 
-Stamp-Thompson-1957.jpg
-
 The land mass mapped by Thompson amounted to of wilderness (one-fifth of the continent). His contemporary, the great explorer Alexander Mackenzie, remarked that Thompson did more in ten months than he would have thought possible in two years.[21]
 
 Despite these significant achievements, Thompson died in Montreal in near obscurity on February 10, 1857, his accomplishments almost unrecognised. He never finished the book of his 28 years in the fur trade, based on his 77 field notebooks, before he died.[22] In the 1890s geologist J.B. Tyrrell resurrected Thompson's notes and in 1916 published them as _David Thompson's Narrative_, as part of the General Series of the Champlain Society.[23] Further editions and re-examinations of Thompson's life and works were published in 1962 by Richard Glover, in 1971 by Victor Hopwood, and in 2015 by William Moreau.[24]
 
-LLB_Thompson_statue.jpg, where he landed on 4 October 1798.]] Thompson's body was interred in Montreal's Mount Royal Cemetery in an unmarked grave. It was not until 1926 that efforts by J.B. Tyrrell and the Canadian Historical Society resulted in the placing of a tombstone to mark his grave. The next year, Thompson was named a National Historic Person by the federal government, one of the earliest such designations.[25] A federal plaque reflecting that status is located at Jasper National Park, Alberta. Meantime, Thompson's achievements are central reasons for other national historic designations:
+, where he landed on 4 October 1798.]] Thompson's body was interred in Montreal's Mount Royal Cemetery in an unmarked grave. It was not until 1926 that efforts by J.B. Tyrrell and the Canadian Historical Society resulted in the placing of a tombstone to mark his grave. The next year, Thompson was named a National Historic Person by the federal government, one of the earliest such designations.[25] A federal plaque reflecting that status is located at Jasper National Park, Alberta. Meantime, Thompson's achievements are central reasons for other national historic designations:
 
 -   David Thompson on the Columbia River National Historic Event, marked at Castlegar, BC
 -   Athabasca Pass National Historic Site (NHS), at Jasper National Park
@@ -77,13 +73,11 @@ LLB_Thompson_statue.jpg, where he landed on 4 October 1798.]] Thompson's body wa
 -   Kootenae House NHS, BC
 -   Rocky Mountain House NHS, Alberta
 
-David_n_Charlotte_Thompson_grave_Montreal_QC_IMG_6598.jpg
-
 In 1957, one hundred years after his death, Canada's post office department honoured him with his image on a postage stamp. The David Thompson Highway in Alberta was named in his honour, along with David Thompson High School situated on the side of the highway near Leslieville, Alberta. His prowess as a geographer is now well-recognized. He has been called "the greatest land geographer that the world has produced."[26][27]
 
 There is a monument dedicated to David Thompson (maintained by the state of North Dakota) near the former town site of the ghost town, Verendrye, North Dakota, located approximately north and west of Karlsruhe, North Dakota. Thompson Falls, Montana, and British Columbia's Thompson River are also named after the explorer.
 
-David_Thompson_Monument.JPG The year 2007 marked the 150th year of Thompson's death and the 200th anniversary of his first crossing of the Rocky Mountains. Commemorative events and exhibits were planned across Canada and the United States from 2007 to 2011 as a celebration of his accomplishments.[28]
+The year 2007 marked the 150th year of Thompson's death and the 200th anniversary of his first crossing of the Rocky Mountains. Commemorative events and exhibits were planned across Canada and the United States from 2007 to 2011 as a celebration of his accomplishments.[28]
 
 In 2007, a commemorative plaque was placed on a wall at the Grey Coat Hospital, the school for the disadvantaged of Westminster David Thompson attended as a boy, by English author and TV presenter Ray Mears.[29][30]
 

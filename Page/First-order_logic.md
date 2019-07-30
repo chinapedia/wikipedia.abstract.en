@@ -293,7 +293,7 @@ where A₁, ..., A_(_n_), B₁, ..., B_(_k_) are formulas and the turnstile symb
 
 Tableaux method
 
-Prop-tableau-4.svg formula ]]
+formula ]]
 
 Unlike the methods just described, the derivations in the tableaux method are not lists of formulas. Instead, a derivation is a tree of formulas. To show that a formula A is provable, the tableaux method attempts to demonstrate that the negation of A is unsatisfiable. The tree of the derivation has ¬A at its root; the tree branches in a way that reflects the structure of the formula. For example, to show that C ∨ D is unsatisfiable requires showing that C and D are each unsatisfiable; this corresponds to a branching point in the tree with parent C ∨ D and children C and D.
 

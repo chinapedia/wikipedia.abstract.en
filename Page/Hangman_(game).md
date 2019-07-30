@@ -1,4 +1,4 @@
-Hangman_game.jpg HANGMAN is a paper and pencil guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters or numbers, within a certain number of guesses.
+HANGMAN is a paper and pencil guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters or numbers, within a certain number of guesses.
 
 
 Overview
@@ -10,7 +10,7 @@ The player guessing the word may, at any time, attempt to guess the whole word. 
 
 Variants
 
-Classroom_game_of_hangman.jpg As the name of the game suggests, the diagram is designed to look like a hanging man. Although debates have arisen about the questionable taste of this picture,[1] it is still in use today. A common alternative for teachers is to draw an apple tree with ten apples, erasing or crossing out the apples as the guesses are used up.
+As the name of the game suggests, the diagram is designed to look like a hanging man. Although debates have arisen about the questionable taste of this picture,[1] it is still in use today. A common alternative for teachers is to draw an apple tree with ten apples, erasing or crossing out the apples as the guesses are used up.
 
 The exact nature of the diagram differs; some players draw the gallows before play and draw parts of the man's body (traditionally the head, then the torso, then the arms and legs one by one). Some players begin with no diagram at all, and drawing the individual elements of the gallows as part of the game, effectively giving the guessing players more chances. The amount of detail on the man can also vary, affecting the number of chances. Some players include a face on the head, either all at once or one feature at a time.
 

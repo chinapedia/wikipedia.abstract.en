@@ -16,7 +16,7 @@ Ferdinand Sommer's original name for the instrument was the _euphonion_.[6] It i
 
 History and development
 
-Serpent_groves.jpg, the oldest ancestor of all low brass instruments]]
+, the oldest ancestor of all low brass instruments]]
 
 As a baritone-voiced brass instrument, the euphonium traces its ancestry to the ophicleide and ultimately back to the serpent. The search for a satisfactory foundational wind instrument that could support massed sound above its pitch took many years. While the serpent was used for over two centuries dating back to the late Renaissance, it was notoriously difficult to control its pitch and tone quality due to its disproportionately small open finger holes. The ophicleide, which was used in bands and orchestras for a few decades in the early to mid-19th century, used a system of keys and was an improvement over the serpent but was still unreliable, especially in the high register.
 
@@ -32,8 +32,6 @@ Construction and general characteristics
 The euphonium, like the tenor trombone, is pitched in concert B. For a valved brass instrument like the euphonium, this means that when no valves are in use the instrument will produce partials of the B harmonic series. It is generally orchestrated as a non-transposing instrument like the trombone, written at concert pitch in the bass clef with higher passages in the tenor clef. Treble clef euphonium parts transposing down a major ninth are included in much concert band music:[10] in the British-style brass band tradition, euphonium music is always written this way. In continental European band music, parts for the euphonium may be written in the bass clef as a B transposing instrument sounding a major second lower than written.
 
 Professional models have three top-action valves, played with the first three fingers of the right hand, plus a "compensating" fourth valve, generally found midway down the right side of the instrument, played with the left index finger; such an instrument is shown at the top of this page. Beginner models often have only the three top-action valves, while some intermediate "student" models may have a fourth top-action valve, played with the fourth finger of the right hand. Compensating systems are expensive to build, and there is in general a substantial difference in price between compensating and non-compensating models. For a thorough discussion of the valves and the compensation system, see the article on brass instruments.
-
-EuphoniumAndTuba_wb.jpg
 
 The euphonium has an extensive range, comfortably from E₂ to about E₄ for intermediate players (using scientific pitch notation). In professional hands this may extend from B₀ to as high as B₅. The lowest notes obtainable depend on the valve set-up of the instrument. All instruments are chromatic down to E₂, but four-valved instruments extend that down to at least C₂. Non-compensating four-valved instruments suffer from intonation problems from E₂ down to C₂ and cannot produce the low B₁; compensating instruments do not have such intonation problems and can play the low B₁.[11] From B₁ down lies the "pedal range", i.e., the fundamentals of the instrument's harmonic series. They are easily produced on the euphonium as compared to other brass instruments, and the extent of the range depends on the make of the instrument in exactly the same way as just described. Thus, on a compensating four-valved instrument, the lowest note possible is B₀, sometimes called double pedal B, which is six ledger lines below the bass clef.
 
@@ -52,7 +50,7 @@ Double-bell
 
 A creation unique to the United States was the double-bell euphonium, featuring a second smaller bell in addition to the main one; the player could switch bells for certain passages or even for individual notes by use of an additional valve, operated with the left hand. Ostensibly, the smaller bell was intended to emulate the sound of a trombone (it was cylindrical-bore) and was possibly intended for performance situations in which trombones were not available. The extent to which the difference in sound and timbre was apparent to the listener, however, is up for debate. _Harry Whittier_ of the Patrick S. Gilmore band introduced the instrument in 1888, and it was used widely in both school and service bands for several decades. _Harold Brasch_ (see "List of important players" below) brought the British-style compensating euphonium to the United States c. 1939, but the double-belled euphonium may have remained in common use even into the 1950s and 1960s. In any case, they have become rare (they were last in Conn's advertisements in the 1940s, and King's catalog in the 1960s),[13] and are generally unknown to younger players. They are chiefly known now through their mention in the song "Seventy-Six Trombones" from the musical _The Music Man_ by Meredith Willson.
 
-Marchingeuph.jpg marching euphonium]]
+marching euphonium]]
 
 Marching
 
@@ -121,7 +119,7 @@ The EUPHONIUM REPERTOIRE consists of solo literature and orchestral, or, more co
 
 In the current age, there has been a huge number of new commissions and repertoire development and promotion through Steven Mead's World of the Euphonium Series and the Beyond the Horizon series from Euphonium.com. There has also been a vast number of new commissions by more and more players and a proliferation of large scale Consortium Commissions that are occurring including current ones in 2008 and 2009 organized by Brian Meixner (Libby Larson), Adam Frey (The Euphonium Foundation Consortium), and Jason Ham (David Gillingham).
 
-Amilcareponchielli.jpg, composer of the first original euphonium solo]]
+, composer of the first original euphonium solo]]
 
 Upon its invention, it was clear that the euphonium had, compared to its predecessors the serpent and ophicleide, a wide range and had a consistently rich, pleasing sound throughout that range. It was flexible both in tone quality and intonation and could blend well with a variety of ensembles, gaining it immediate popularity with composers and conductors as the principal tenor-voices solo instrument in brass band settings, especially in Britain. It is no surprise, then, that when British composers – some of the same ones who were writing for brass bands – began to write serious, original music for the concert band in the early 20th century, they used the euphonium in a very similar role.
 

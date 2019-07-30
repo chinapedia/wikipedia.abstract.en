@@ -24,27 +24,17 @@ How ClearType works
 
 Normally, the software in a computer treats the computer’s display screen as a rectangular array of square, indivisible pixels, each of which has an intensity and color that are determined by the blending of three primary colors: red, green, and blue. However, actual display hardware usually implements each pixel as a group of three adjacent, independent _subpixels,_ each of which displays a different primary color. Thus, on a real computer display, each pixel is actually composed of separate red, green, and blue subpixels. For example, if a flat-panel display is examined under a magnifying glass, the pixels may appear as follows:
 
-27_subpixels.svg
-
 In the illustration above, there are nine pixels but 27 subpixels.
 
 If the computer controlling the display knows the exact position and color of all the subpixels on the screen, it can take advantage of this to improve the apparent resolution in certain situations. If each pixel on the display actually contains three rectangular subpixels of red, green, and blue, in that fixed order, then things on the screen that are smaller than one full pixel in size can be rendered by lighting only one or two of the subpixels. For example, if a diagonal line with a width smaller than a full pixel must be rendered, then this can be done by lighting only the subpixels that the line actually touches. If the line passes through the leftmost portion of the pixel, only the red subpixel is lit; if it passes through the rightmost portion of the pixel, only the blue subpixel is lit. This effectively triples the horizontal resolution of the image at normal viewing distances; the drawback is that the line thus drawn will show color fringes (at some points it might look green, at other points it might look red or blue).
-
-Antialias-vrs-Cromapixel.svg
 
 ClearType uses this method to improve the smoothness of text. When the elements of a type character are smaller than a full pixel, ClearType lights only the appropriate subpixels of each full pixel in order to more closely follow the outlines of that character. Text rendered with ClearType looks “smoother” than text rendered without it, provided that the pixel layout of the display screen exactly matches what ClearType expects.
 
 The following picture shows a 4× enlargement of the word _Wikipedia_ rendered using ClearType. The word was originally rendered using a Times New Roman 12 pt font.
 
-Wikipedia_ClearType.png
-
 In this magnified view, it becomes clear that, while the overall smoothness of the text seems to improve, there is also color fringing of the text.
 
-ClearTypePixels.svg
-
 An extreme close-up of a color display shows (a) text rendered without ClearType and (b) text rendered with ClearType. Note the changes in subpixel intensity that are used to increase effective resolution when ClearType is enabled without ClearType, all sub-pixels of a given pixel have the same intensity.
-
-Cleartype-vs-Standard-Antialiasing.gif
 
 In the above lines of text, when the orange circle is shown, all the text in the frame is rendered using ClearType (RGB subpixel rendering); when the orange circle is absent all the text is rendered using normal (full pixel greyscale) anti-aliasing.
 
@@ -58,8 +48,6 @@ Expert opinion
 In a MSDN article, Microsoft acknowledges that "[te]xt that is rendered with ClearType can also appear significantly different when viewed by individuals with varying levels of color sensitivity. Some individuals can detect slight differences in color better than others."[7] This opinion is shared by font designer Thomas Phinney (Vice President of FontLab and formerly with Adobe Systems[8]): "There is also considerable variation between individuals in their sensitivity to color fringing. Some people just notice it and are bothered by it a lot more than others."[9] Software developer Melissa Elliot has written about finding ClearType rendering uncomfortable to read, saying that "instead of seeing black text, I see blue text, and rendered over it but offset by a pixel or two, I see orange text, and someone reached into a bag of purple pixel glitter and just tossed it on...I’m not the only person in the world with this problem, and yet, every time it comes up, people are quick to assure me it works for them as if that’s supposed to make me feel better."[10]
 
 Hinting expert Beat Stamm, who worked on ClearType at Microsoft,[11] agrees that ClearType may look blurry at 96 dpi, which was a typical[12] resolution for LCDs in 2008, but adds that higher resolution displays improve on this aspect: "WPF [Windows Presentation Foundation] uses method C [ClearType with fractional pixel positioning[13]], but few display devices have a sufficiently high resolution to make the potential blur a moot point for everybody. . . . Some people are ok with the blur in Method C, some aren’t. Anecdotal evidence suggests that some people are fine with Method C when reading continuous text at 96 dpi (e.g. Times Reader, etc.) but not in UI scenarios. Many people are fine with the colors of ClearType, even at 96 dpi, but a few aren’t… To my eyes and at 96 dpi, Method C doesn’t read as well as Method A. It reads “blurrily” to me. Conversely, at 144 dpi, I don’t see a problem with Method C. It looks and reads just fine to me."[14] One illustration of the potential problem is the following image:
-
-FontSmoothingExample.gif
 
 In the above block of text, the same portion of text is shown in the upper half without and in the lower half with ClearType rendering (as opposed to Standard and ClearType in the previous image). This and the previous example with the orange circle demonstrate the blurring introduced.
 

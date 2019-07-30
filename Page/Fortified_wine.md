@@ -1,9 +1,9 @@
-Port_wine.jpg, a fortified wine]] Vermouth_Bottles.jpg and quinquina bottles, including Noilly Prat Extra Dry, Lillet Blanc, Dolin Rouge, and Martini & Rossi Rosso]] FORTIFIED WINE is a wine to which a distilled spirit, usually brandy, is added.[1] Many different styles of fortified wine have been developed, including Port, Sherry, Madeira, Marsala, Commandaria wine, and the aromatised wine Vermouth.[2]
+, a fortified wine]] and quinquina bottles, including Noilly Prat Extra Dry, Lillet Blanc, Dolin Rouge, and Martini & Rossi Rosso]] FORTIFIED WINE is a wine to which a distilled spirit, usually brandy, is added.[1] Many different styles of fortified wine have been developed, including Port, Sherry, Madeira, Marsala, Commandaria wine, and the aromatised wine Vermouth.[2]
 
 
 Production
 
-ValdiviaJerez65.jpg barrels aging]]
+barrels aging]]
 
 One reason for fortifying wine was to preserve it, since ethanol is a natural antiseptic. Even though other preservation methods now exist, fortification continues to be used because the process can add distinct flavors to the finished product.[3][4]
 
@@ -22,11 +22,11 @@ Varieties
 
 Commandaria wine
 
-Commandaria_Cyprus.jpg Commandaria is made in Cyprus' unique AOC region north of Limassol from high altitude vines of Mavro and Xynisteri, sun dried and aged in oak barrels. Recent developments have produced different styles of Commandaria, some of which are not fortified.
+Commandaria is made in Cyprus' unique AOC region north of Limassol from high altitude vines of Mavro and Xynisteri, sun dried and aged in oak barrels. Recent developments have produced different styles of Commandaria, some of which are not fortified.
 
 Madeira wine
 
-Justino_Henriques_Madeira_wine,_colheita_1996.JPG ]] Madeira is a fortified wine made in the Madeira Islands. The wine is produced in a variety of styles ranging from dry wines which can be consumed on their own as an aperitif, to sweet wines more usually consumed with dessert. Madeira is deliberately heated and oxidised as part of its maturation process, resulting in distinctive flavours and an unusually long lifespan once a bottle is opened.
+]] Madeira is a fortified wine made in the Madeira Islands. The wine is produced in a variety of styles ranging from dry wines which can be consumed on their own as an aperitif, to sweet wines more usually consumed with dessert. Madeira is deliberately heated and oxidised as part of its maturation process, resulting in distinctive flavours and an unusually long lifespan once a bottle is opened.
 
 Marsala wine
 
@@ -42,11 +42,11 @@ Moscatel de Setúbal is a Portuguese wine produced around the Setúbal Municipal
 
 Port wine
 
-10_yr_Tawny_port.jpg Port wine (also known simply as Port) is a fortified wine from the Douro Valley in the northern provinces of Portugal.[14] It is typically a sweet red wine, but also comes in dry, semi-dry and white varieties.
+Port wine (also known simply as Port) is a fortified wine from the Douro Valley in the northern provinces of Portugal.[14] It is typically a sweet red wine, but also comes in dry, semi-dry and white varieties.
 
 Sherry
 
-CataJerez.jpg ]] Sherry is a fortified wine made from white grapes that are grown near the town of Jerez, Spain. The word "sherry" itself is an anglicisation of Jerez. In earlier times, sherry was known as _sack_ (from the Spanish _saca_, meaning "a removal from the solera"). In the European Union "sherry" is a protected designation of origin; therefore, all wine labelled as "sherry" must legally come from the Sherry Triangle, which is an area in the province of Cádiz between Jerez de la Frontera, Sanlúcar de Barrameda and El Puerto de Santa María.[15]
+]] Sherry is a fortified wine made from white grapes that are grown near the town of Jerez, Spain. The word "sherry" itself is an anglicisation of Jerez. In earlier times, sherry was known as _sack_ (from the Spanish _saca_, meaning "a removal from the solera"). In the European Union "sherry" is a protected designation of origin; therefore, all wine labelled as "sherry" must legally come from the Sherry Triangle, which is an area in the province of Cádiz between Jerez de la Frontera, Sanlúcar de Barrameda and El Puerto de Santa María.[15]
 
 After fermentation is complete, sherry is fortified with brandy. Because the fortification takes place after fermentation, most sherries are initially dry, with any sweetness being added later. In contrast, port wine (for example) is fortified halfway through its fermentation, which stops the process so that not all of the sugar is turned into alcohol.
 
@@ -54,11 +54,11 @@ Sherry is produced in a variety of styles, ranging from dry, light versions such
 
 Vermouth
 
-Martini_Bianco.JPG Bianco, an Italian vermouth]] Vermouth is a fortified wine flavoured with aromatic herbs and spices ("aromatised" in the trade) using closely guarded recipes (trade secrets). Some of the herbs and spices used may include cardamom, cinnamon, marjoram and chamomile.[16] Some vermouth is sweetened; however, unsweetened or dry, vermouth tends to be bitter. The person credited with the second vermouth recipe, Antonio Benedetto Carpano from Turin, Italy, chose to name his concoction "vermouth" in 1786 because he was inspired by a German wine flavoured with wormwood, an herb most famously used in distilling absinthe. However, wine flavoured with wormwood goes back to ancient Rome. The modern German word _Wermut_ (_Wermuth_ in the spelling of Carpano's time) means both _wormwood_ and _vermouth_. The herbs were originally used to mask raw flavours of cheaper wines,[17] imparting a slightly medicinal "tonic" flavor.
+Bianco, an Italian vermouth]] Vermouth is a fortified wine flavoured with aromatic herbs and spices ("aromatised" in the trade) using closely guarded recipes (trade secrets). Some of the herbs and spices used may include cardamom, cinnamon, marjoram and chamomile.[16] Some vermouth is sweetened; however, unsweetened or dry, vermouth tends to be bitter. The person credited with the second vermouth recipe, Antonio Benedetto Carpano from Turin, Italy, chose to name his concoction "vermouth" in 1786 because he was inspired by a German wine flavoured with wormwood, an herb most famously used in distilling absinthe. However, wine flavoured with wormwood goes back to ancient Rome. The modern German word _Wermut_ (_Wermuth_ in the spelling of Carpano's time) means both _wormwood_ and _vermouth_. The herbs were originally used to mask raw flavours of cheaper wines,[17] imparting a slightly medicinal "tonic" flavor.
 
 Vins doux naturels
 
-Rasteau_vdn.jpg Vins doux naturels are lightly fortified wines typically made from white Muscat grapes or red Grenache grapes in the south of France. The production of vins doux naturels was perfected by Arnaud de Villeneuve at the University of Montpellier in the 13th century and they are now quite common in the Languedoc-Roussillon region of southern France.
+Vins doux naturels are lightly fortified wines typically made from white Muscat grapes or red Grenache grapes in the south of France. The production of vins doux naturels was perfected by Arnaud de Villeneuve at the University of Montpellier in the 13th century and they are now quite common in the Languedoc-Roussillon region of southern France.
 
 As the name suggests, Muscat de Beaumes-de-Venise, Muscat de Rivesaltes and Muscat de Frontignan are all made from the white Muscat grape, whilst Banyuls and Maury are made from red Grenache. Regardless of the grape, fermentation is stopped by the addition of up to 10% of a 190 proof (95%) grape spirit.[18] The Grenache vins doux naturels can be made in an oxidised or unoxidised style whereas the Muscat wines are protected from oxidation to retain their freshness.[19]
 

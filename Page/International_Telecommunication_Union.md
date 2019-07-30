@@ -1,4 +1,4 @@
-ITU_monument,_Bern.jpg, Switzerland]] Union_Internationale_des_Télécommunications,_Genève.jpg
+, Switzerland]]
 
 The INTERNATIONAL TELECOMMUNICATION UNION (ITU; (UIT)), originally the INTERNATIONAL TELEGRAPH UNION (), is a specialized agency of the United Nations (UN) that is responsible for issues that concern information and communication technologies.[1] It is the oldest among all the 15 specialised agencies of UN.
 
@@ -26,7 +26,7 @@ A permanent GENERAL SECRETARIAT, headed by the Secretary General, manages the da
 
 Legal framework of ITU
 
-International_Telecommunication_Union_11c_1965_issue_U.S._stamp.jpg 1990_CPA_6190.jpg 1977,_Libya_Postage_Stamp.jpg Stamps_of_Azerbaijan,_2015-1223.jpg, 2015.]]
+, 2015.]]
 
 The basic texts of the ITU[12] are adopted by the ITU Plenipotentiary Conference.[13] The founding document of the ITU was the 1865 International Telegraph Convention, which has since been amended several times and is now entitled the "Constitution and Convention of the International Telecommunication Union". In addition to the Constitution and Convention, the consolidated basic texts include the Optional Protocol on the settlement of disputes, the Decisions, Resolutions and Recommendations in force, as well as the General Rules of Conferences, Assemblies and Meetings of the Union.
 
@@ -66,8 +66,6 @@ Directors and Secretaries-General of ITU
 
 
 Membership
-
-Member_states_of_the_International_Telecommunication_Union.png
 
 Membership of ITU is open to only Member States of the United Nations, which may join the Union as Member States, as well as to private organizations like carriers, equipment manufacturers, funding bodies, research and development organizations and international and regional telecommunication organizations, which may join ITU as non-voting Sector Members.[18]
 

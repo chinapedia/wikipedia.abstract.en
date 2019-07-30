@@ -34,7 +34,7 @@ An imaginary number can be added to a real number to form a complex number of th
 
 History
 
-Complex_conjugate_picture.svg Although Greek mathematician and engineer Heron of Alexandria is noted as the first to have conceived these numbers,[8][9] Rafael Bombelli first set down the rules for multiplication of complex numbers in 1572. The concept had appeared in print earlier, for instance in work by Gerolamo Cardano. At the time imaginary numbers, as well as negative numbers, were poorly understood and regarded by some as fictitious or useless, much as zero once was. Many other mathematicians were slow to adopt the use of imaginary numbers, including René Descartes, who wrote about them in his _La Géométrie_, where the term _imaginary_ was used and meant to be derogatory.[10][11] The use of imaginary numbers was not widely accepted until the work of Leonhard Euler (1707–1783) and Carl Friedrich Gauss (1777–1855). The geometric significance of complex numbers as points in a plane was first described by Caspar Wessel (1745–1818).[12]
+Although Greek mathematician and engineer Heron of Alexandria is noted as the first to have conceived these numbers,[8][9] Rafael Bombelli first set down the rules for multiplication of complex numbers in 1572. The concept had appeared in print earlier, for instance in work by Gerolamo Cardano. At the time imaginary numbers, as well as negative numbers, were poorly understood and regarded by some as fictitious or useless, much as zero once was. Many other mathematicians were slow to adopt the use of imaginary numbers, including René Descartes, who wrote about them in his _La Géométrie_, where the term _imaginary_ was used and meant to be derogatory.[10][11] The use of imaginary numbers was not widely accepted until the work of Leonhard Euler (1707–1783) and Carl Friedrich Gauss (1777–1855). The geometric significance of complex numbers as points in a plane was first described by Caspar Wessel (1745–1818).[12]
 
 In 1843 William Rowan Hamilton extended the idea of an axis of imaginary numbers in the plane to a four-dimensional space of quaternion imaginaries, in which three of the dimensions are analogous to the imaginary numbers in the complex field.
 
@@ -42,8 +42,6 @@ With the development of quotient rings of polynomial rings, the concept behind a
 
 
 Geometric interpretation
-
-Rotations_on_the_complex_plane.svg
 
 Geometrically, imaginary numbers are found on the vertical axis of the complex number plane, allowing them to be presented perpendicular to the real axis. One way of viewing imaginary numbers is to consider a standard number line, positively increasing in magnitude to the right, and negatively increasing in magnitude to the left. At 0 on this -axis, a -axis can be drawn with "positive" direction going up; "positive" imaginary numbers then increase in magnitude upwards, and "negative" imaginary numbers increase in magnitude downwards. This vertical axis is often called the "imaginary axis" and is denoted , $\scriptstyle\mathbb{I}$, or .
 

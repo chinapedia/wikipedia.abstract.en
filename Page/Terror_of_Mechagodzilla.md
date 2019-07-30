@@ -23,7 +23,7 @@ Production
 
 Development
 
-tomg_shinto_ceremony.jpg The original screenplay that Yukiko Takayama created after winning Toho's story contest for the next establishment in the Godzilla series, was picked by assistant producer Kenji Tokoro and was submitted for approval on July 1, 1974, less than four months after _Godzilla vs. Mechagodzilla_ (1974) was released.
+The original screenplay that Yukiko Takayama created after winning Toho's story contest for the next establishment in the Godzilla series, was picked by assistant producer Kenji Tokoro and was submitted for approval on July 1, 1974, less than four months after _Godzilla vs. Mechagodzilla_ (1974) was released.
 
 The original concept is similar to the finished version of _Terror of Mechagodzilla_, with many of the changes being budgetary in nature. The most obvious alteration is the removal of the two monsters called the Titans, which merged to become Titanosaurus in the first draft. It was an interesting concept, although something that was also underexplained considering the magnitude of such an occurrence of the creatures merging. Another noticeable change to the script is that of the final battle, which doesn't move to the countryside but instead would have reduced Tokyo to rubble during the ensuing conflict between the three monsters.
 
@@ -40,7 +40,7 @@ Kensho Yamashita was the chief assistant director on the project. He notes, thou
 
 English version
 
-TerrorofGodzilla.jpg''.[1]]]
+''.[1]]]
 
 Toho titled its English version of the film _Terror of Mechagodzilla_ and had it dubbed into English in Hong Kong. This “international version” has never seen wide release in the United States but has been issued on VHS in the United Kingdom by PolyGram Video Ltd.[2] and on DVD in Taiwan by Power Multimedia.[3]
 

@@ -8,8 +8,6 @@ Carina was once a part of Argo Navis, the great ship of Jason and the Argonauts 
 
 Notable features
 
-Constellation_Carina.jpg
-
 Stars
 
 Carina contains Canopus, a white-hued supergiant that is the second brightest star in the night sky at magnitude −0.72, 313 light-years from Earth. Alpha Carinae, as Canopus is formally designated, is a variable star that varies by approximately 0.1 magnitudes. Its traditional name comes from the mythological Canopus, who was a navigator for Menelaus, king of Sparta.
@@ -50,7 +48,7 @@ Polynesian peoples had no name for the constellation in particular, though they 
 
 Future
 
-SouthStar.gif Carina is located in the southern sky near the south celestial pole, making it circumpolar for most of the southern hemisphere. Due to precession of Earth's axis, by the year 4700 the south celestial pole will be located in Carina. Three bright stars in Carina will come within 1 degree of the southern celestial pole and take turns as the southern pole star: Omega Carinae (mag 3.29) in 5600, Upsilon Carinae (mag 2.97) in 6700, and Iota Carinae (mag 2.21) in 7900. About 13860, the bright Canopus (-0.7) will be less than 8 degrees from the Celestial Pole, making it circumpolar in Bali. [4]
+Carina is located in the southern sky near the south celestial pole, making it circumpolar for most of the southern hemisphere. Due to precession of Earth's axis, by the year 4700 the south celestial pole will be located in Carina. Three bright stars in Carina will come within 1 degree of the southern celestial pole and take turns as the southern pole star: Omega Carinae (mag 3.29) in 5600, Upsilon Carinae (mag 2.97) in 6700, and Iota Carinae (mag 2.21) in 7900. About 13860, the bright Canopus (-0.7) will be less than 8 degrees from the Celestial Pole, making it circumpolar in Bali. [4]
 
 
 Namesakes

@@ -1,4 +1,4 @@
-PICT0111.JPG plasma (violet) enhances the growth of carbon nanotubes in laboratory-scale PECVD apparatus]]
+plasma (violet) enhances the growth of carbon nanotubes in laboratory-scale PECVD apparatus]]
 
 CHEMICAL VAPOR DEPOSITION (CVD) is a vacuum deposition method used to produce high quality, high-performance, solid materials. The process is often used in the semiconductor industry to produce thin films.
 
@@ -8,8 +8,6 @@ Microfabrication processes widely use CVD to deposit materials in various forms,
 
 
 Types
-
-ThermalCVD.PNG PlasmaCVD.PNG
 
 CVD is practiced in a variety of formats. These processes generally differ in the means by which chemical reactions are initiated.
 
@@ -169,7 +167,7 @@ In spite of graphene's exciting electronic and thermal properties, it is unsuita
 
 Diamond
 
-Single-crystal_CVD_diamond_disc.jpg Apollo_synthetic_diamond.jpg CVD can be used to produce a synthetic diamond by creating the circumstances necessary for carbon atoms in a gas to settle on a substrate in crystalline form. CVD of diamonds has received much attention in the materials sciences because it allows many new applications that had previously been considered too expensive. CVD diamond growth typically occurs under low pressure (1–27 kPa; 0.145–3.926 psi; 7.5–203 Torr) and involves feeding varying amounts of gases into a chamber, energizing them and providing conditions for diamond growth on the substrate. The gases always include a carbon source, and typically include hydrogen as well, though the amounts used vary greatly depending on the type of diamond being grown. Energy sources include hot filament, microwave power, and arc discharges, among others. The energy source is intended to generate a plasma in which the gases are broken down and more complex chemistries occur. The actual chemical process for diamond growth is still under study and is complicated by the very wide variety of diamond growth processes used.
+CVD can be used to produce a synthetic diamond by creating the circumstances necessary for carbon atoms in a gas to settle on a substrate in crystalline form. CVD of diamonds has received much attention in the materials sciences because it allows many new applications that had previously been considered too expensive. CVD diamond growth typically occurs under low pressure (1–27 kPa; 0.145–3.926 psi; 7.5–203 Torr) and involves feeding varying amounts of gases into a chamber, energizing them and providing conditions for diamond growth on the substrate. The gases always include a carbon source, and typically include hydrogen as well, though the amounts used vary greatly depending on the type of diamond being grown. Energy sources include hot filament, microwave power, and arc discharges, among others. The energy source is intended to generate a plasma in which the gases are broken down and more complex chemistries occur. The actual chemical process for diamond growth is still under study and is complicated by the very wide variety of diamond growth processes used.
 
 Using CVD, films of diamond can be grown over large areas of substrate with control over the properties of the diamond produced. In the past, when high pressure high temperature (HPHT) techniques were used to produce a diamond, the result was typically very small free standing diamonds of varying sizes. With CVD diamond growth areas of greater than fifteen centimeters (six inches) diameter have been achieved and much larger areas are likely to be successfully coated with diamond in the future. Improving this process is key to enabling several important applications.
 

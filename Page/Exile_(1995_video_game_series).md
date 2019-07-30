@@ -12,8 +12,6 @@ Magic is divided into Mage and Priest spell types. Spells for attacking can be o
 
 Games
 
-Exile_shot.png
-
 _Exile I: Escape from the Pit_
 
 The first game of the _Exile_ trilogy released in January 1995 sees a party of newly created characters thrown from the world above into the subterranean world known as Exile.[2] Once here, the party discovers a civilization formed from the outcasts of the Empire above, a culture beset by constant warfare and monsters galore. The party meets with many of those who wish to get revenge on the Empire for the wrongs it has done to the peoples of Exile.
@@ -31,8 +29,6 @@ _Exile III: Ruined World_
 The final release in the _Exile_ trilogy takes place some time after _Exile II_, released in January 1997.[4] The Linux version was ported by Boutell.com in Summer, 2000.[5] A lot of preparation has taken place and now the Exiles are ready to send a selected few back into the light of the surface. However, while the members of the expedition are at first stunned by the sheer beauty of the land around them, they begin to notice that things are not as perfect as they seem. The slimes the party encounters are only the first part of what becomes a series of monsters and terrible occurrences that are blighting the Empire and laying it to waste.
 
 While scouting the land, as were the expedition members' orders from the nation of Exile, the members are asked by the Empire to help save the surface from its blight. They bring the Exiles and the Empire together as allies trying to find the cause of the destruction.
-
-BOEcombat1.GIF
 
 _Blades of Exile_
 

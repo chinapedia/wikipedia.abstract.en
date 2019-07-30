@@ -1,4 +1,4 @@
-Milk-bottle.jpg CREAM is a dairy product composed of the higher-butterfat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, eventually rises to the top. In the industrial production of cream, this process is accelerated by using centrifuges called "separators". In many countries, it is sold in several grades depending on the total butterfat content. It can be dried to a powder for shipment to distant markets, and contains high levels of saturated fat.[1][2]
+CREAM is a dairy product composed of the higher-butterfat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, eventually rises to the top. In the industrial production of cream, this process is accelerated by using centrifuges called "separators". In many countries, it is sold in several grades depending on the total butterfat content. It can be dried to a powder for shipment to distant markets, and contains high levels of saturated fat.[1][2]
 
 Cream skimmed from milk may be called "sweet cream" to distinguish it from cream skimmed from whey, a by-product of cheese-making. Whey cream has a lower fat content and tastes more salty, tangy and "cheesy".[3] In many countries, cream is usually sold partially fermented: sour cream, crème fraîche, and so on. Both forms have many culinary uses in sweet, bitter, salty and tangy dishes.
 
@@ -7,7 +7,7 @@ Cream produced by cattle (particularly Jersey cattle) grazing on natural pasture
 
 Cuisine
 
-Pumpkin_Pie.JPG topped with a whipped cream rose]] Cream is used as an ingredient in many foods, including ice cream, many sauces, soups, stews, puddings, and some custard bases, and is also used for cakes. Whipped cream is served as a topping on ice cream sundaes, milkshakes, lassi, eggnog, sweet pies, strawberries, blueberries or peaches. Irish cream is an alcoholic liqueur which blends cream with whiskey, and often honey, wine, or coffee. Cream is also used in Indian curries such as masala dishes.
+topped with a whipped cream rose]] Cream is used as an ingredient in many foods, including ice cream, many sauces, soups, stews, puddings, and some custard bases, and is also used for cakes. Whipped cream is served as a topping on ice cream sundaes, milkshakes, lassi, eggnog, sweet pies, strawberries, blueberries or peaches. Irish cream is an alcoholic liqueur which blends cream with whiskey, and often honey, wine, or coffee. Cream is also used in Indian curries such as masala dishes.
 
 Cream (usually light/single cream or half and half) is often added to coffee in the US and Canada.
 
@@ -18,7 +18,7 @@ The French word _crème_ denotes not only dairy cream, but also other thick liqu
 
 Types
 
-Stewed_nectarines.JPGs and heavy cream]]
+s and heavy cream]]
 
 Different grades of cream are distinguished by their fat content, whether they have been heat-treated, whipped, and so on. In many jurisdictions, there are regulations for each type.
 
@@ -79,7 +79,7 @@ In France, the use of the term "cream" for food products is defined by the decre
 
 Japan
 
-Meiji_brand_fresh_cream.JPG whipping cream]] In Japan, cream sold in supermarkets is usually between 35% and 48% butterfat.
+whipping cream]] In Japan, cream sold in supermarkets is usually between 35% and 48% butterfat.
 
 Russia
 
@@ -179,8 +179,6 @@ Other processing may be carried out. For example, cream has a tendency to produc
 
 
 Other cream products
-
-Milkproducts_v2.svg
 
 by churning cream to separate the butterfat and buttermilk. This can be done by hand or by machine.
 

@@ -15,7 +15,7 @@ File:Porto Ajacio.JPG|Ajaccio Marina File:Baie_Ajaccio_voilier.jpg%7CThe Bay Fil
 
 Urbanism
 
-2016_Ajaccio_(1).jpg Although the commune of Ajaccio has a large area (82.03 km²), only a small portion of this is urbanized. Therefore, the urban area of Ajaccio is located in the east of the commune on a narrow coastal strip forming a densely populated arc. The rest of the territory is natural with habitation of little importance and spread thinly. Suburbanization occurs north and east of the main urban area.
+Although the commune of Ajaccio has a large area (82.03 km²), only a small portion of this is urbanized. Therefore, the urban area of Ajaccio is located in the east of the commune on a narrow coastal strip forming a densely populated arc. The rest of the territory is natural with habitation of little importance and spread thinly. Suburbanization occurs north and east of the main urban area.
 
 The original urban core, close to the old marshy plain of _Cannes_ was abandoned in favour of the current city which was built near the _Punta della Lechia_. It has undergone various improvements, particularly under Napoleon, who originated the two current major structural arteries (the _Cours Napoleon_ oriented north-south and the _Cours Grandval_ oriented east-west).
 
@@ -39,8 +39,6 @@ Several hypotheses have been advanced as to the etymology of the name _Ajaccio_ 
 
 
 History
-
-Ajaccio_Bon_Pl_JPG.jpg Ex Grand Hôtel Continental (now office of the _Collectivité territoriale de Corse_)
 
 Antiquity
 
@@ -66,7 +64,7 @@ It has been established that after the 8th century the city, like most other Cor
 
 Towards the end of the 15th century, the Genoese were eager to assert their dominance in the south of the island and decided to rebuild the city of Ajaccio. Several sites were considered: the _Pointe de la Parata_ (not chosen because it was too exposed to the wind), the ancient city (finally considered unsafe because of the proximity of the salt ponds), and finally the _Punta della Lechia_ which was finally selected.
 
-Work began on the town on 21 April 1492 south of the Christian village by the Bank of Saint George at Genoa, who sent Cristoforo of Gandini, an architect, to build it. He began with a castle on Capo di Bolo, around which he constructed residences for several hundred people.[15] Tour_sanguinaires.jpg
+Work began on the town on 21 April 1492 south of the Christian village by the Bank of Saint George at Genoa, who sent Cristoforo of Gandini, an architect, to build it. He began with a castle on Capo di Bolo, around which he constructed residences for several hundred people.[15]
 
 The new city was essentially a colony of Genoa. The Corsicans were restricted from the city for some years.
 
@@ -84,7 +82,7 @@ Corsica was formally annexed to France in 1780.
 
 Napoleon I
 
-Napoleon Bonaparte (born as Nabulione Buonaparte) was born at Ajaccio in the same year as the Battle of Ponte Novu, 1769. The Bonapartes at the time had a modest four-story home in town (now a museum known as Maison Bonaparte) and a rarely used country home in the hills north of the city (now site of the Arboretum des Milelli). The father of the family, attorney Charles-Marie Buonaparte, was secretary to Pasquale Paoli during the Corsican Republic. 2016_Ajaccio_-_Napoleondenkmal.jpg
+Napoleon Bonaparte (born as Nabulione Buonaparte) was born at Ajaccio in the same year as the Battle of Ponte Novu, 1769. The Bonapartes at the time had a modest four-story home in town (now a museum known as Maison Bonaparte) and a rarely used country home in the hills north of the city (now site of the Arboretum des Milelli). The father of the family, attorney Charles-Marie Buonaparte, was secretary to Pasquale Paoli during the Corsican Republic.
 
 After the defeat of Paoli, the Comte de Marbeuf began to meet with some leading Corsicans to outline the shape of the future and enlist their assistance. The Comte was among a delegation from Ajaccio in 1769, offered his loyalty and was appointed assessor.
 
@@ -92,11 +90,11 @@ Marbeuf also offered Charles-Marie Buonaparte an appointment for one of his sons
 
 At Brienne Napoleon concentrated on studies. He wrote a boyish history of Corsica. He did not share his father's views but held Pasquale Paoli in high esteem and was at heart a Corsican nationalist. The top students were encouraged to go into the artillery. After graduation and a brief sojourn at the Military School of Paris Napoleon applied for a second-lieutenancy in the artillery regiment of La Fère at Valence and after a time was given the position. Meanwhile, his father died and his mother was cast into poverty in Corsica, still having four children to support. Her only income was Napoleon's meagre salary.
 
-The regiment was in Auxonne when the revolution broke out in the summer of 1789. Napoleon returned on leave to Ajaccio in October, became a Jacobin and began to work for the revolution. The National Assembly in Paris united Corsica to France and pardoned its exiles. Paoli returned in 1790 after 21 years and kissed the soil on which he stood. He and Napoleon met and toured the battlefield of Paoli's defeat. A national assembly at Orezza created the department of Corsica and Paoli was subsequently elected president. He commanded the national guard raised by Napoleon. After a brief return to his regiment Napoleon was promoted to First Lieutenant and came home again on leave in 1791. The death of a rich uncle relieved the family's poverty. Ajaccio_citadelle_echauguette.jpg All officers were recalled from leave in 1792, intervention threatened and war with Austria (Marie-Antoinette's homeland) began. Napoleon returned to Paris for review, was exonerated, then promoted to Captain and given leave to escort his sister, a schoolgirl, back to Corsica at state expense. His family was prospering; his estate increased.
+The regiment was in Auxonne when the revolution broke out in the summer of 1789. Napoleon returned on leave to Ajaccio in October, became a Jacobin and began to work for the revolution. The National Assembly in Paris united Corsica to France and pardoned its exiles. Paoli returned in 1790 after 21 years and kissed the soil on which he stood. He and Napoleon met and toured the battlefield of Paoli's defeat. A national assembly at Orezza created the department of Corsica and Paoli was subsequently elected president. He commanded the national guard raised by Napoleon. After a brief return to his regiment Napoleon was promoted to First Lieutenant and came home again on leave in 1791. The death of a rich uncle relieved the family's poverty. All officers were recalled from leave in 1792, intervention threatened and war with Austria (Marie-Antoinette's homeland) began. Napoleon returned to Paris for review, was exonerated, then promoted to Captain and given leave to escort his sister, a schoolgirl, back to Corsica at state expense. His family was prospering; his estate increased.
 
 Napoleon became a Lieutenant-Colonel in the Corsican National Guard. Paoli sent him off on an expedition to Sardinia, ordered by France, under Paolis's nephew but the nephew had secret orders from Paoli to make sure the expedition failed.[18] Paoli was now a conservative, opposing the execution of the king and supporting an alliance with Great Britain. Returning from Sardinia Napoleon with his family and all his supporters were instrumental in getting Paoli denounced at the National Convention in Paris in 1793. Napoleon earned the hatred of the Paolists by pretending to support Paoli and then turning against him (payment, one supposes, for Sardinia).
 
-Paoli was convicted in absentia, a warrant was issued for his arrest (which could not be served) and Napoleon was dispatched to Corsica as Inspector General of Artillery to take the citadel of Ajaccio from the royalists who had held it since 1789. The Paolists combining with the royalists defeated the French in two pitched battles and Napoleon and his family went on the run, hiding by day, while the Paolists burned their estate. Napoleon and his mother, Laetitia, were taken out by ship in June 1793, by friends while two of the girls found refuge with other friends. They landed in Toulon with only Napoleon's pay for their support. 2016_Napoleon_Totenmaske.jpg of Napoleon]] The Bonapartes moved to Marseille but in August Toulon offered itself to the British and received the protection of a fleet under Admiral Hood. The Siege of Toulon began in September under revolutionary officers mainly untrained in the art of war. Napoleon happened to present socially one evening and during a casual conversation over a misplaced 24-pounder explained the value of artillery. Taken seriously he was allowed to bring up over 100 guns from coastal emplacements but his plan for the taking of Toulon was set aside as one incompetent officer superseded another. By December they decided to try his plan and made him a Colonel. Placing the guns at close range he used them to keep the British fleet away while he battered down the walls of Toulon. As soon as the Committee of Public Safety heard of the victory Napoleon became a Brigadier General, the start of his meteoric rise to power.
+Paoli was convicted in absentia, a warrant was issued for his arrest (which could not be served) and Napoleon was dispatched to Corsica as Inspector General of Artillery to take the citadel of Ajaccio from the royalists who had held it since 1789. The Paolists combining with the royalists defeated the French in two pitched battles and Napoleon and his family went on the run, hiding by day, while the Paolists burned their estate. Napoleon and his mother, Laetitia, were taken out by ship in June 1793, by friends while two of the girls found refuge with other friends. They landed in Toulon with only Napoleon's pay for their support. of Napoleon]] The Bonapartes moved to Marseille but in August Toulon offered itself to the British and received the protection of a fleet under Admiral Hood. The Siege of Toulon began in September under revolutionary officers mainly untrained in the art of war. Napoleon happened to present socially one evening and during a casual conversation over a misplaced 24-pounder explained the value of artillery. Taken seriously he was allowed to bring up over 100 guns from coastal emplacements but his plan for the taking of Toulon was set aside as one incompetent officer superseded another. By December they decided to try his plan and made him a Colonel. Placing the guns at close range he used them to keep the British fleet away while he battered down the walls of Toulon. As soon as the Committee of Public Safety heard of the victory Napoleon became a Brigadier General, the start of his meteoric rise to power.
 
 The Bonapartes were back in Ajaccio in 1797 under the protection of General Napoleon. Soon after Napoleon became First Consul and then emperor, using his office to spread revolution throughout Europe. In 1811 he made Ajaccio the capital of the new Department of Corsica. Despite his subsequent defeat by the Prussians, Russians, and British, his exile and his death, no victorious power reversed that decision or tried to remove Corsica from France. Among the natives, though Corsican nationalism is strong, and feeling often runs high in favour of a union with Italy; loyalty to France, however, as evidenced by elections, remains stronger.
 
@@ -108,8 +106,6 @@ The first prison in France for children was built in Ajaccio in 1855: the Hortic
 
 Contemporary history
 
-Mairie_Ajaccio.jpg
-
 On 9 September 1943, the people of Ajaccio rose up against the Nazi occupiers[20] and became the first French town to be liberated from the domination of the Germans. General Charles de Gaulle went to Ajaccio on 8 October 1943 and said: "We owe it to the field of battle the lesson of the page of history that was written in French Corsica. Corsica to her fortune and honour is the first morsel of France to be liberated; which was done intentionally and willingly, in the light of its liberation, this demonstrates that these are the intentions and the will of the whole nation."
 
 Throughout this period, no Jew was executed or deported from Corsica through the protection afforded by its people and its government. This event now allows Corsica to aspire to the title "righteous among the nations", as no region except for the commune Le Chambon-sur-Lignon in Haute-Loire carries this title. Their case is being investigated .[21]
@@ -118,8 +114,6 @@ Since the middle of the 20th century, Ajaccio has seen significant development. 
 
 
 Economy
-
-Ajaccio_Cité1JPG.jpg Ajaccio-congrés-1.JPG
 
 The city is, with Bastia, the economic, commercial and administrative centre of Corsica. Its urban area of nearly 90,000 inhabitants is spread over a large part of the Corse-du-Sud, on either side of the Gulf of Ajaccio and up the valley of the Gravona. Its business is primarily oriented towards the services sector.
 
@@ -142,8 +136,6 @@ Transport
 
 Road access
 
-Ajaccio_-_rue_cardinal_Fesch.jpg
-
 By road, the city is accessible from National Route NR194 from Bastia and NR193 via NR196 from Bonifacio.
 
 These two main axes, as well as the roads leading to suburban villages, connect Ajaccio from the north - the site of Ajaccio forming a dead end blocked by the sea to the south. Only the _Cours Napoleon_ and the _Boulevard du Roi Jerome_ cross the city.
@@ -160,19 +152,15 @@ In addition, the municipality has introduced a Tramway between Mezzana station i
 
 Airport
 
-Aéroport_Ajaccio_Corse.jpg The city is served by an Ajaccio Napoleon Bonaparte Airport which is the headquarters of Air Corsica, a Corsican airline. It connects Ajaccio to a number of cities in mainland France (including Paris, Marseille, Nice, and Brive) and to places in Europe to serve the tourist industry.
+The city is served by an Ajaccio Napoleon Bonaparte Airport which is the headquarters of Air Corsica, a Corsican airline. It connects Ajaccio to a number of cities in mainland France (including Paris, Marseille, Nice, and Brive) and to places in Europe to serve the tourist industry.
 
 The airline CCM Airlines also has its head office on the grounds of the Airport.[28]
 
 Port
 
-Ajaccio_Port_JPG2.jpg The port of Ajaccio is connected to the French mainland on an almost daily basis (Marseille, Toulon, Nice). There are also occasional links to the Italian mainland (Livorno) and to Sardinia, as well as a seasonal service serving Calvi and Propriano.[29] The two major shipping companies providing these links are SNCM and Corsica Ferries.
-
-Port_Ajaccio_ferries.jpg
+The port of Ajaccio is connected to the French mainland on an almost daily basis (Marseille, Toulon, Nice). There are also occasional links to the Italian mainland (Livorno) and to Sardinia, as well as a seasonal service serving Calvi and Propriano.[29] The two major shipping companies providing these links are SNCM and Corsica Ferries.
 
 Ajaccio has also become a stopover for cruises with a total of 418,086 passengers in 2007by far the largest in Corsica and the second-largest in France (after Marseille, but ahead of Nice/Villefranche-sur-Mer and Cannes). The goal is for Ajaccio to eventually become the premier French port for cruises as well as being a main departure point.[30]
-
-PSajaccio8629.jpg
 
 The Port function of the city is also served by the commercial, pleasure craft, and artisanal fisheries (3 ports).[31]
 
@@ -187,8 +175,6 @@ There are two optional stops:
 
 
 Administration
-
-Hôtel_de_préfecture_de_Corse-du-Sud.jpg
 
 Ajaccio was successively:
 
@@ -362,7 +348,7 @@ Ajaccio has a varied tourism potential, with both a cultural framework in the ce
 
 Civil heritage
 
-Ajaccio_Maison_de_naissance_de_Napoléon.jpg The commune has many buildings and structures that are registered as historical monuments:
+The commune has many buildings and structures that are registered as historical monuments:
 
 -   The MONUMENT TO GENERAL ABBATUCCI in the Place Abbatucci (1854)[39]
 -   The MONUMENT TO NAPOLEON I in the Place d'Austerlitz (20th century)[40]
@@ -401,7 +387,7 @@ Other sites of interest
 
 Religious heritage
 
-Ajaccio_cathedrale_barque.jpg]]
+]]
 
 The town is the seat of a bishopric dating at least from the 7th century. It has tribunals of first instance and of commerce, training colleges, a communal college, a museum and a library; the three latter are established in the Palais Fesch, founded by Cardinal Fesch, who was born at Ajaccio in 1763.[61]
 
@@ -415,8 +401,6 @@ The commune has several religious buildings and structures that are registered a
 -   The CHAPEL OF THE GREEKS on the Route des Sanguiunaires (1619)[68]
 -   The Early Christian BAPTISTERY OF SAINT JOHN (6th century)[69]
 -   The IMPERIAL CHAPEL (1857)[70] houses the graves of Napoleon's parents and his brothers and sisters.
-
-Chiesa_di_Saint-Roch_ad_Ajaccio.jpg
 
 Other religious sites of interest
 
@@ -454,7 +438,7 @@ Films made in Ajaccio
 
 Sports
 
-Stade_François-Coty.jpg fans at the Stade François Coty]] There are various sports facilities developed throughout the city.
+fans at the Stade François Coty]] There are various sports facilities developed throughout the city.
 
 -   AC Ajaccio is a French Ligue 2 football club which plays at the Stade François Coty (13,500 seats) in the north-east of the city
 -   Gazélec Football Club Ajaccio, in Ligue 2, football club which plays at the Stade Ange Casanova located at _Mezzavia_, 2,900 seats.
@@ -466,7 +450,7 @@ Stade_François-Coty.jpg fans at the Stade François Coty]] There are various sp
 
 Notable people linked to the commune
 
-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg were born in Ajaccio, including Napoleon]]
+were born in Ajaccio, including Napoleon]]
 
 -   Carlo Buonaparte (1746–1785), politician, father of Napoleon Bonaparte.
 -   Joseph Fesch (1763–1839), cardinal.

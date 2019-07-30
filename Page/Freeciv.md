@@ -9,8 +9,6 @@ History
 
 At the computer science department at Aarhus University, three students, avid players of XPilot and of Sid Meier's _Civilization_, which was a stand-alone PC game for MS-DOS, decided to find out whether the two could be fused into an X-based multiplayer Civilization-like strategy game.[3] The students—Peter Unold, Claus Leth Gregersen and Allan Ove Kjeldbjerg—started development in November 1995;[4] the first playable version was released in January 1996, with bugfixing and small enhancements until April.[5][6] The rules of the game were close to Civilization, while the client/server architecture was basically that of XPilot.
 
-Bigshot.png
-
 For the developers, Freeciv 1.0 was a successful proof of concept, but a rather boring game, so they went back to XPilot.[7][8] Other players and developers took over; they made the game available on many other operating systems, including Linux, Solaris, Ultrix, Amiga OS, and Microsoft Windows. Linux distributions started to include Freeciv.[9]
 
 The main development goal remained to make a Civilization-like game playable over the Internet, with participants on different continents, even when connected with 14400 bit/s modems. Freeciv achieved this by using an asynchronous client-server protocol: during each turn, human users play concurrently, and their actions are sent to the server for processing without awaiting the results. This kept the game playable with network latency up to a few hundreds of milliseconds.
@@ -52,7 +50,7 @@ The user can also start a game directly from the client: this automatically star
 
 Features
 
-Freeciv2_1-beta1-zh.png in version 2.1]]
+in version 2.1]]
 
 Freeciv's graphics system is configurable: originally, map display was always in overhead mode (like in _Civ I_).[16] Isometric mode (like in _Civ II_ and _III_) and optionally hexagonal tiling (like in _Civ V_ and _VI_) were added later. In both modes, look can be further customized by switching to an alternative set of graphics (called a _tileset_). The sounds can be replaced as well.
 
@@ -62,7 +60,7 @@ In releases before 2.0, AI players could not engage in diplomatic relationships 
 
 Version 2.2.0 included a map editor, termed Civworld. It can create new scenarios, as well as edit the map currently being played. Basic scripting is available with Freeciv, but is not available in Civworld.[17] Version 2.3 increased the limit of players from 30 to 126.
 
-CullamBruce-Lockhart--Dawning_Fanfare.oga There are different clients available SDL, GTK+ (version3) and Xaw3D[18] A Qt client was added in version 2.5. The Freeciv interface is available in over 30 different languages.[19] The addition of Gaelic was covered on BBC TV.[20]
+There are different clients available SDL, GTK+ (version3) and Xaw3D[18] A Qt client was added in version 2.5. The Freeciv interface is available in over 30 different languages.[19] The addition of Gaelic was covered on BBC TV.[20]
 
 
 Ports and variants
@@ -73,7 +71,7 @@ As of version 2.4, Mac OS X, and as of version 2.3, Windows versions older than 
 
 Freeciv WebGL 3D and Freeciv-web
 
-Freeciv-webgl-3d-screenshot.jpg Freeciv-web is a version of Freeciv playable online in any modern web browser. It supports 2D isometric graphics or 3D graphics using WebGL. The 3D version is referred to as Freeciv WebGL 3D. The game is a fork of the Freeciv project, with the goal of redesigning the desktop game into a version which can be played online. Freeciv-web introduced several new features, such as play-by-email support[23] freely available to anyone online, and support for playing the game on any real-world map location by choosing a map using Mapbox, which is not available in commercial games in the genre.[24] The game's default settings are closest to _Civilization II_, both in gameplay and graphics (including the units and the isometric grid). The proposal to create a web-version of Freeciv was made 6 April 2007 on the Freeciv mailing lists, and documented on the Freeciv.org wiki.[25] Freeciv-web was originally created by Andreas Røsdal, but is now maintained by several Freeciv developers on Github.[26]
+Freeciv-web is a version of Freeciv playable online in any modern web browser. It supports 2D isometric graphics or 3D graphics using WebGL. The 3D version is referred to as Freeciv WebGL 3D. The game is a fork of the Freeciv project, with the goal of redesigning the desktop game into a version which can be played online. Freeciv-web introduced several new features, such as play-by-email support[23] freely available to anyone online, and support for playing the game on any real-world map location by choosing a map using Mapbox, which is not available in commercial games in the genre.[24] The game's default settings are closest to _Civilization II_, both in gameplay and graphics (including the units and the isometric grid). The proposal to create a web-version of Freeciv was made 6 April 2007 on the Freeciv mailing lists, and documented on the Freeciv.org wiki.[25] Freeciv-web was originally created by Andreas Røsdal, but is now maintained by several Freeciv developers on Github.[26]
 
 Freeciv-web is free and open source software. The Freeciv C server is released under the GNU General Public License, while the Freeciv-web client is released under the GNU Affero General Public License. Freeciv-web supports human-to-human multiplayer gameplay and artificial intelligence (AI) computer players. Its features are similar to the Freeciv C client, although not all of the user-interface has been ported from the C client yet.
 
@@ -83,7 +81,7 @@ Freeciv-web was formerly playable on play.freeciv.org. On March 3, 2018, play.fr
 
 Longturn variants
 
-Freeciv_Greatturn_Earth_world_replay_-_match_GT05.ogv Freeciv _Longturn_ is a specialized variant of Freeciv featuring daylong game turns with large amounts of human opponents per map, allowing for optimal timing to build up strategic plans and readapt them to the circumstances of each turn. Matches can last anytime from a few weeks to months, and commonly involve 20 to 30 players in each one.[30]
+Freeciv _Longturn_ is a specialized variant of Freeciv featuring daylong game turns with large amounts of human opponents per map, allowing for optimal timing to build up strategic plans and readapt them to the circumstances of each turn. Matches can last anytime from a few weeks to months, and commonly involve 20 to 30 players in each one.[30]
 
 Longturn's first game, now called LT0, started around 2004 on the Polish Civilization fanpage civ.org.pl and is now conducted at Longturn.net. It was decided that the game is a bit too slow paced, so a new "3X movement" ruleset was devised – basically, all units had their movement points and vision radius tripled.[31] As of July 2019, the latest game was LT47.[32] Changes to settings or rulesets are discussed in the Longturn forum.[33]
 
@@ -97,8 +95,6 @@ Reception and impact
 In 2000 CNN placed Freeciv among the _"Top 10 Linux games for the holidays"_.[38] In 2005, in a O'Reilly article on "Open Source Mac Gaming", Freeciv was recommended.[39] In 2008 APCMag.com named Freeciv among the _Top 5 best (free) open source games_.[40] Linux Format selected it as "HotPick" in April 2010 and in October 2014.[41][42]
 
 Freeciv was described as an example in _The Art of Unix Programming_ by Eric S. Raymond.[43] Studies and courses have used Freeciv as a platform for experimenting with the design and programming of intelligent agents.[44][45][46][47][48] In 2016 Freeciv was used as a challenge after Chess and Go for a commercial AI.[49]
-
-Freeciv_v2.00b1_hexa.jpg
 
 
 See also

@@ -1,4 +1,4 @@
-BNF_Fr_4274_8v_knight_detail.jpg).]] Slovakia_Oravsky_Podzamok.jpg – a traditional symbol of a feudal society (Orava Castle in Slovakia).]]
+).]] – a traditional symbol of a feudal society (Orava Castle in Slovakia).]]
 
 FEUDALISM was a combination of legal and military customs in medieval Europe that flourished between the 9th and 15th centuries. Broadly defined, it was a way of structuring society around relationships derived from the holding of land in exchange for service or labour. Although derived from the Latin word _feodum_ or _feudum_ (fief),[1] then in use, the term _feudalism_ and the system it describes were not conceived of as a formal political system by the people living in the Middle Ages.[2] In its classic definition, by François-Louis Ganshof (1944),[3] _feudalism_ describes a set of reciprocal legal and military obligations among the warrior nobility revolving around the three key concepts of lords, vassals and fiefs.[4]
 
@@ -20,7 +20,7 @@ The term _feudalism_ has also been applied—often inappropriately or pejorative
 
 Etymology
 
-Codex_Manesse_Reinmar_von_Zweter.jpg, a 13th-century Minnesinger, was depicted with his noble arms in Codex Manesse.]] The term "féodal" was used in 17th-century French legal treatises (1614)[22][23] and translated into English legal treatises as an adjective, such as "feodal government".
+, a 13th-century Minnesinger, was depicted with his noble arms in Codex Manesse.]] The term "féodal" was used in 17th-century French legal treatises (1614)[22][23] and translated into English legal treatises as an adjective, such as "feodal government".
 
 In the 18th century, Adam Smith, seeking to describe economic systems, effectively coined the forms "feudal government" and "feudal system" in his book _Wealth of Nations_ (1776).[24] In the 19th century the adjective "feudal" evolved into a noun: "feudalism".[25] The term _feudalism_ is recent, first appearing in French in 1823, Italian in 1827, English in 1839, and in German in the second half of the 19th century.[26]
 
@@ -45,11 +45,11 @@ The classic François-Louis Ganshof version of feudalism[50][51] describes a set
 
 Vassalage
 
-Hommage_du_comté_de_Clermont-en-Beauvaisis.png of Clermont-en-Beauvaisis]] Before a lord could grant land (a fief) to someone, he had to make that person a vassal. This was done at a formal and symbolic ceremony called a commendation ceremony, which was composed of the two-part act of homage and oath of fealty. During homage, the lord and vassal entered into a contract in which the vassal promised to fight for the lord at his command, whilst the lord agreed to protect the vassal from external forces. _Fealty_ comes from the Latin _fidelitas_ and denotes the fidelity owed by a vassal to his feudal lord. "Fealty" also refers to an oath that more explicitly reinforces the commitments of the vassal made during homage. Such an oath follows homage.[53]
+of Clermont-en-Beauvaisis]] Before a lord could grant land (a fief) to someone, he had to make that person a vassal. This was done at a formal and symbolic ceremony called a commendation ceremony, which was composed of the two-part act of homage and oath of fealty. During homage, the lord and vassal entered into a contract in which the vassal promised to fight for the lord at his command, whilst the lord agreed to protect the vassal from external forces. _Fealty_ comes from the Latin _fidelitas_ and denotes the fidelity owed by a vassal to his feudal lord. "Fealty" also refers to an oath that more explicitly reinforces the commitments of the vassal made during homage. Such an oath follows homage.[53]
 
 Once the commendation ceremony was complete, the lord and vassal were in a feudal relationship with agreed obligations to one another. The vassal's principal obligation to the lord was to "aid", or military service. Using whatever equipment the vassal could obtain by virtue of the revenues from the fief, the vassal was responsible to answer calls to military service on behalf of the lord. This security of military help was the primary reason the lord entered into the feudal relationship. In addition, the vassal could have other obligations to his lord, such as attendance at his court, whether manorial, baronial, both termed court baron, or at the king's court.[54]
 
-Map_France_1477-en.svg It could also involve the vassal providing "counsel", so that if the lord faced a major decision he would summon all his vassals and hold a council. At the level of the manor this might be a fairly mundane matter of agricultural policy, but also included sentencing by the lord for criminal offences, including capital punishment in some cases. Concerning the king's feudal court, such deliberation could include the question of declaring war. These are examples; depending on the period of time and location in Europe, feudal customs and practices varied; see examples of feudalism.
+It could also involve the vassal providing "counsel", so that if the lord faced a major decision he would summon all his vassals and hold a council. At the level of the manor this might be a fairly mundane matter of agricultural policy, but also included sentencing by the lord for criminal offences, including capital punishment in some cases. Concerning the king's feudal court, such deliberation could include the question of declaring war. These are examples; depending on the period of time and location in Europe, feudal customs and practices varied; see examples of feudalism.
 
 The "Feudal Revolution" in France
 
@@ -68,7 +68,7 @@ Originally the peasants were supposed to pay for the release of seigneurial dues
 
 Feudal society
 
-Reeve_and_Serfs.jpg on the royal demesne in feudal England, c. 1310]] The phrase "feudal society" as defined by Marc Bloch[66] offers a wider definition than Ganshof's and includes within the feudal structure not only the warrior aristocracy bound by vassalage, but also the peasantry bound by manorialism, and the estates of the Church. Thus the feudal order embraces society from top to bottom, though the "powerful and well-differentiated social group of the urban classes" came to occupy a distinct position to some extent outside the classical feudal hierarchy.
+on the royal demesne in feudal England, c. 1310]] The phrase "feudal society" as defined by Marc Bloch[66] offers a wider definition than Ganshof's and includes within the feudal structure not only the warrior aristocracy bound by vassalage, but also the peasantry bound by manorialism, and the estates of the Church. Thus the feudal order embraces society from top to bottom, though the "powerful and well-differentiated social group of the urban classes" came to occupy a distinct position to some extent outside the classical feudal hierarchy.
 
 
 Historiography

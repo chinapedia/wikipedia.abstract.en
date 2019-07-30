@@ -17,7 +17,7 @@ Definition
 
 Orbital angular momentum in two dimensions
 
-Ang_mom_2d.png of the particle _m_ with respect to the origin _O_ can be resolved into components parallel to (_v__(∥)) and perpendicular to (_v__(⊥)) the radius vector _r_. The ANGULAR MOMENTUM of _m_ is proportional to the perpendicular component _v__(⊥) of the velocity, or equivalently, to the perpendicular distance _r__(⊥) from the origin.]]
+of the particle _m_ with respect to the origin _O_ can be resolved into components parallel to (_v__(∥)) and perpendicular to (_v__(⊥)) the radius vector _r_. The ANGULAR MOMENTUM of _m_ is proportional to the perpendicular component _v__(⊥) of the velocity, or equivalently, to the perpendicular distance _r__(⊥) from the origin.]]
 
 Angular momentum is a vector quantity (more precisely, a pseudovector) that represents the product of a body's rotational inertia and rotational velocity (in radians/sec) about a particular axis. However, if the particle's trajectory lies in a single plane, it is sufficient to discard the vector nature of angular momentum, and treat it as a scalar (more precisely, a pseudoscalar).[2] Angular momentum can be considered a rotational analog of linear momentum. Thus, where linear momentum p is proportional to mass m and linear speed
 
@@ -65,7 +65,7 @@ $$p_\phi = \frac{\partial \mathcal{L}}{\partial \dot{\phi}} = ma^2 \dot{\phi} = 
 
 Orbital angular momentum in three dimensions
 
-Torque_animation.gif (F), torque (Τ), momentum (P), and angular momentum (L) vectors in a rotating system. R is the position vector.]]
+(F), torque (Τ), momentum (P), and angular momentum (L) vectors in a rotating system. R is the position vector.]]
 
 To completely define orbital angular momentum in three dimensions, it is required to know the rate at which the position vector sweeps out angle, the direction perpendicular to the instantaneous plane of angular displacement, and the mass involved, as well as how this mass is distributed in space[6]. By retaining this vector nature of angular momentum, the general nature of the equations is also retained, and can describe any sort of three-dimensional motion about the center of rotation – circular, linear, or otherwise. In vector notation, the orbital angular momentum of a point particle in motion about the origin can be expressed as:
 
@@ -141,7 +141,7 @@ r \times m \times v &= L\\
 
 is the _angular momentum_, sometimes called, as here, the _moment of momentum_ of the particle versus that particular center point. The equation L = rmv combines a moment (a mass m turning moment arm r) with a linear (straight-line equivalent) speed v. Linear speed referred to the central point is simply the product of the distance r and the angular speed ω versus the point: v = rω, another moment. Hence, angular momentum contains a double moment: L = rmrω. Simplifying slightly, L = r²mω, the quantity r²m is the particle's moment of inertia, sometimes called the second moment of mass. It is a measure of rotational inertia.[8]
 
-Moment_of_inertia_examples.gif (shown here), and therefore angular momentum, is different for every possible configuration of mass and axis of rotation.]]
+(shown here), and therefore angular momentum, is different for every possible configuration of mass and axis of rotation.]]
 
 Because moment of inertia is a crucial part of the spin angular momentum, the latter necessarily includes all of the complications of the former, which is calculated by multiplying elementary bits of the mass by the squares of their distances from the center of rotation.[9] Therefore, the total moment of inertia, and the angular momentum, is a complex function of the configuration of the matter about the center of rotation and the orientation of the rotation for the various bits.
 
@@ -188,7 +188,7 @@ This is the rotational analog of Newton's Second Law. Note that the torque is no
 
 Conservation of angular momentum
 
-Cup_of_Russia_2010_-_Yuko_Kawaguti_(2).jpg conserves angular momentum – her rotational speed increases as her moment of inertia decreases by drawing in her arms and legs.]]
+conserves angular momentum – her rotational speed increases as her moment of inertia decreases by drawing in her arms and legs.]]
 
 A rotational analog of Newton's third law of motion might be written, "In a closed system, no torque can be exerted on any matter without the exertion on some other matter of an equal and opposite torque."[17] Hence, _angular momentum can be exchanged between objects in a closed system, but total angular momentum before and after an exchange remains constant (is conserved)._[18]
 
@@ -198,7 +198,7 @@ The conservation of angular momentum is used in analyzing _central force motion_
 
 For a planet, angular momentum is distributed between the spin of the planet and its revolution in its orbit, and these are often exchanged by various mechanisms. The conservation of angular momentum in the Earth–Moon system results in the transfer of angular momentum from Earth to Moon, due to tidal torque the Moon exerts on the Earth. This in turn results in the slowing down of the rotation rate of Earth, at about 65.7 nanoseconds per day,[21] and in gradual increase of the radius of Moon's orbit, at about 3.82 centimeters per year.[22]
 
-PrecessionOfATop.svg caused by the two opposing forces F_(g) and −F_(g) causes a change in the angular momentum L in the direction of that torque (since torque is the time derivative of angular momentum). This causes the top to precess.]]
+caused by the two opposing forces F_(g) and −F_(g) causes a change in the angular momentum L in the direction of that torque (since torque is the time derivative of angular momentum). This causes the top to precess.]]
 
 The conservation of angular momentum explains the angular acceleration of an ice skater as she brings her arms and legs close to the vertical axis of rotation. By bringing part of the mass of her body closer to the axis, she decreases her body's moment of inertia. Because angular momentum is the product of moment of inertia and angular velocity, if the angular momentum remains constant (is conserved), then the angular velocity (rotational speed) of the skater must increase.
 
@@ -230,8 +230,6 @@ In the derivation which follows, integrals similar to this can replace the sums 
 Collection of particles
 
 Center of mass
-
-Ang_mom_vector_diagram.png
 
 For a collection of particles in motion about an arbitrary origin, it is informative to develop the equation of angular momentum by resolving their motion into components about their own center of mass and about the origin. Given,
 
@@ -355,7 +353,7 @@ L = ∑_(_i_)R_(_i_) × _m__(_i_)V_(_i_) = ∑_(_i_)_I__(_i_)Ω_(_i_
 
 Angular momentum (modern definition)
 
-Angular_momentum_bivector_and_pseudovector.svg (plane element) and axial vector, of a particle of mass _m_ with instantaneous 3-position X and 3-momentum P.]]
+(plane element) and axial vector, of a particle of mass _m_ with instantaneous 3-position X and 3-momentum P.]]
 
 In modern (20th century) theoretical physics, angular momentum (not including any intrinsic angular momentum – see below) is described using a different formalism, instead of a classical pseudovector. In this formalism, angular momentum is the 2-form Noether charge associated with rotational invariance. As a result, angular momentum is not conserved for general curved spacetimes, unless it happens to be asymptotically rotationally invariant.
 
@@ -395,8 +393,6 @@ Angular momentum in quantum mechanics differs in many profound respects from ang
 
 Spin, orbital, and total angular momentum
 
-Angular momenta of a _classical_ object.
-
 The classical definition of angular momentum as L = R × P can be carried over to quantum mechanics, by reinterpreting R as the quantum position operator and P as the quantum momentum operator. L is then an operator, specifically called the _orbital angular momentum operator_. The components of the angular momentum operator satisfy the commutation relations of the Lie algebra so(3). Indeed, these operators are precisely the infinitesimal action of the rotation group on the quantum Hilbert space.[28] (See also the discussion below of the angular momentum operators as the generators of rotations.)
 
 However, in quantum physics, there is another type of angular momentum, called _spin angular momentum_, represented by the spin operator S. Almost all elementary particles have spin. Spin is often depicted as a particle literally spinning around an axis, but this is a misleading and inaccurate picture: spin is an intrinsic property of a particle, unrelated to any sort of motion in space and fundamentally different from orbital angular momentum. All elementary particles have a characteristic spin, for example electrons have "spin 1/2" (this actually means "spin ħ/2") while photons have "spin 1" (this actually means "spin ħ").
@@ -418,7 +414,7 @@ In quantum mechanics, angular momentum is quantized – that is, it cannot vary 
   S² or J²                       [ℏ²n(n+1)], where $n = 0, \frac{1}{2}, 1, \frac{3}{2}, \ldots$
   ------------------------------ --------------------------------------------------------------------------------------------------------------
 
-Circular_Standing_Wave.gif on a circular string, the circle is broken into exactly 8 wavelengths. A standing wave like this can have 0,1,2, or any integer number of wavelengths around the circle, but it _cannot_ have a non-integer number of wavelengths like 8.3. In quantum mechanics, angular momentum is quantized for a similar reason.]] (There are additional restrictions as well, see angular momentum operator for details.)
+ on a circular string, the circle is broken into exactly 8 wavelengths. A standing wave like this can have 0,1,2, or any integer number of wavelengths around the circle, but it _cannot_ have a non-integer number of wavelengths like 8.3. In quantum mechanics, angular momentum is quantized for a similar reason.]] (There are additional restrictions as well, see angular momentum operator for details.)
 
 The reduced Planck constant ℏ is tiny by everyday standards, about 10^(−34) J s, and therefore this quantization does not noticeably affect the angular momentum of macroscopic objects. However, it is very important in the microscopic world. For example, the structure of electron shells and subshells in chemistry is significantly affected by the quantization of angular momentum.
 
@@ -481,8 +477,6 @@ However, his geometric proof of the law of areas is an outstanding example of Ne
 The Law of Areas
 
 Newton's derivation
-
-Newton_area_law_derivation.gif
 
 As a planet orbits the Sun, the line between the Sun and the planet sweeps out equal areas in equal intervals of time. This had been known since Kepler expounded his second law of planetary motion. Newton derived a unique geometric proof, and went on to show that the attractive force of the Sun's gravity was the cause of all of Kepler's laws.
 

@@ -1,4 +1,4 @@
-Bezier_curve.svg Bezier_basis.svgs on the range for cubic Bézier curves: (1 − _t_)³}}, 3(1 − _t_)² _t_}}, 3(1 − _t_) _t_²}}, and _t_³}}.]] A BÉZIER CURVE ( )[1] is a parametric curve used in computer graphics and related fields.[2] The curve, which is related to the Bernstein polynomial, is named after Pierre Bézier, who used it in the 1960s for designing curves for the bodywork of Renault cars.[3] Other uses include the design of computer fonts and animation.[4] Bézier curves can be combined to form a Bézier spline, or generalized to higher dimensions to form Bézier surfaces.[5] The Bézier triangle is a special case of the latter.
+s on the range for cubic Bézier curves: (1 − _t_)³}}, 3(1 − _t_)² _t_}}, 3(1 − _t_) _t_²}}, and _t_³}}.]] A BÉZIER CURVE ( )[1] is a parametric curve used in computer graphics and related fields.[2] The curve, which is related to the Bernstein polynomial, is named after Pierre Bézier, who used it in the 1960s for designing curves for the bodywork of Renault cars.[3] Other uses include the design of computer fonts and animation.[4] Bézier curves can be combined to form a Bézier spline, or generalized to higher dimensions to form Bézier surfaces.[5] The Bézier triangle is a special case of the latter.
 
 In vector graphics, Bézier curves are used to model smooth curves that can be scaled indefinitely. "Paths", as they are commonly referred to in image manipulation programs,[6] are combinations of linked Bézier curves. Paths are not bound by the limits of rasterized images and are intuitive to modify.
 
@@ -22,7 +22,7 @@ and is equivalent to linear interpolation.
 
 Quadratic Bézier curves
 
-Quadratic_Beziers_in_string_art.svg A quadratic Bézier curve is the path traced by the function B(_t_), given points P₀, P₁, and P₂,
+A quadratic Bézier curve is the path traced by the function B(_t_), given points P₀, P₁, and P₂,
 
     B(t) = (1 − t)[(1 − t)P₀ + tP₁] + t[(1 − t)P₁ + tP₂] , 0 ≤ t ≤ 1,
 
@@ -155,8 +155,6 @@ Properties
 
 Second order curve is a parabolic segment
 
-Quadratic_Bezier_parabola_equivalence.svg
-
 A quadratic Bézier curve is also a segment of a parabola. As a parabola is a conic section, some sources refer to quadratic Béziers as "conic arcs".[13] With reference to the figure on the right, the important features of the parabola can be derived as follows:[14]
 
 1.  Tangents to the parabola at the end-points of the curve (A and B) intersect at its control point (C).
@@ -178,7 +176,7 @@ Linear curves
 The _t_ in the function for a linear Bézier curve can be thought of as describing how far B(_t_) is from P₀ to P₁. For example, when _t=0.25_, B(_t_) is one quarter of the way from point P₀ to P₁. As _t_ varies from 0 to 1, B(_t_) describes a straight line from P₀ to P₁.
 
   --------------------------------------------------
-  Bézier_1_big.gif]
+  ]
   Animation of a linear Bézier curve, _t_ in [0,1]
   --------------------------------------------------
 
@@ -191,7 +189,7 @@ For quadratic Bézier curves one can construct intermediate points Q₀ and Q₁
 -   Point B(_t_) is interpolated linearly between Q₀(_t_) to Q₁(_t_) and describes a quadratic Bézier curve.
 
   ------------------------------------------ -- -----------------------------------------------------
-  Bézier_2_big.svg                              Bézier_2_big.gif]
+                                                ]
   Construction of a quadratic Bézier curve      Animation of a quadratic Bézier curve, _t_ in [0,1]
   ------------------------------------------ -- -----------------------------------------------------
 
@@ -200,21 +198,20 @@ Higher-order curves
 For higher-order curves one needs correspondingly more intermediate points. For cubic curves one can construct intermediate points Q₀, Q₁, and Q₂ that describe linear Bézier curves, and points R₀ & R₁ that describe quadratic Bézier curves:
 
   -------------------------------------- -- -------------------------------------------------
-  Bézier_3_big.svg                          Bézier_3_big.gif]
+                                            ]
   Construction of a cubic Bézier curve      Animation of a cubic Bézier curve, _t_ in [0,1]
   -------------------------------------- -- -------------------------------------------------
 
 For fourth-order curves one can construct intermediate points Q₀, Q₁, Q₂ & Q₃ that describe linear Bézier curves, points R₀, R₁ & R₂ that describe quadratic Bézier curves, and points S₀ & S₁ that describe cubic Bézier curves:
 
   ---------------------------------------- -- ---------------------------------------------------
-  Bézier_4_big.svg                            Bézier_4_big.gif]
+                                              ]
   Construction of a quartic Bézier curve      Animation of a quartic Bézier curve, _t_ in [0,1]
   ---------------------------------------- -- ---------------------------------------------------
 
 For fifth-order curves, one can construct similar intermediate points.
 
   ------------------------------------------------------------------------------------------------------------------------------
-  BezierCurve.gif
   Animation of a fifth-order Bézier curve, _t_ in [0,1] in red. The Bézier curves for each of the lower orders are also shown.
   ------------------------------------------------------------------------------------------------------------------------------
 
@@ -271,7 +268,7 @@ LIM_(R → ∞)R_(R) = B
 
 Rational Bézier curves
 
-Rational_Bezier_curve-conic_sections.svg The rational Bézier curve adds adjustable weights to provide closer approximations to arbitrary shapes. The numerator is a weighted Bernstein-form Bézier curve and the denominator is a weighted sum of Bernstein polynomials. Rational Bézier curves can, among other uses, be used to represent segments of conic sections exactly, including circular arcs.[23]
+The rational Bézier curve adds adjustable weights to provide closer approximations to arbitrary shapes. The numerator is a weighted Bernstein-form Bézier curve and the denominator is a weighted sum of Bernstein polynomials. Rational Bézier curves can, among other uses, be used to represent segments of conic sections exactly, including circular arcs.[23]
 
 Given _n_ + 1 control points P_(_i_), the rational Bézier curve can be described by:
 
@@ -297,7 +294,7 @@ Applications
 
 Computer graphics
 
-Bézier_curve_in_Adobe_Illustrator_CS2.png]] Bézier curves are widely used in computer graphics to model smooth curves. As the curve is completely contained in the convex hull of its control points, the points can be graphically displayed and used to manipulate the curve intuitively. Affine transformations such as translation and rotation can be applied on the curve by applying the respective transform on the control points of the curve.
+]] Bézier curves are widely used in computer graphics to model smooth curves. As the curve is completely contained in the convex hull of its control points, the points can be graphically displayed and used to manipulate the curve intuitively. Affine transformations such as translation and rotation can be applied on the curve by applying the respective transform on the control points of the curve.
 
 Quadratic and cubic Bézier curves are most common. Higher degree curves are more computationally expensive to evaluate. When more complex shapes are needed, low order Bézier curves are patched together, producing a composite Bézier curve. A composite Bézier curve is commonly referred to as a "path" in vector graphics languages (like PostScript), vector graphics standards (like SVG) and vector graphics programs (like Artline, Timeworks Publisher, Adobe Illustrator, CorelDraw and Inkscape). To guarantee smoothness (_C_¹ continuity), the control point at which two curves meet must be on the line between the two control points on either side.
 

@@ -1,5 +1,3 @@
-Bose-Einstein_Condensation.ogv
-
 A BOSE–EINSTEIN CONDENSATE (BEC) is a state of matter of a dilute gas of low densities called bosons cooled to temperatures very close to absolute zero (-273.15 °C). Under such conditions, a large fraction of bosons occupy the lowest quantum state, at which point microscopic quantum phenomena, particularly wavefunction interference, become apparent macroscopically. A BEC is formed by cooling a gas of extremely low density, about one-hundred-thousandth(1/100000) the density of normal air, to ultra-low temperatures.
 
 This state was first predicted, generally, in 1924–1925 by Albert Einstein following a paper written by Satyendra Nath Bose. Although Bose came up with the pioneering paper on the new statistics, it was Einstein, not Bose, who actually predicted the new state of matter.[1]
@@ -7,7 +5,7 @@ This state was first predicted, generally, in 1924–1925 by Albert Einstein fol
 
 History
 
-Bose_Einstein_condensate.png atoms, confirming the discovery of a new phase of matter, the Bose–Einstein condensate. before the appearance of a Bose–Einstein condensate. after the appearance of the condensate. further evaporation, leaving a sample of nearly pure condensate.]]
+atoms, confirming the discovery of a new phase of matter, the Bose–Einstein condensate. before the appearance of a Bose–Einstein condensate. after the appearance of the condensate. further evaporation, leaving a sample of nearly pure condensate.]]
 
 Satyendra Nath Bose first sent a paper to Einstein on the quantum statistics of light quanta (now called photons), in which he derived Planck's quantum radiation law without any reference to classical physics. Einstein was impressed, translated the paper himself from English to German and submitted it for Bose to the _Zeitschrift für Physik_, which published it in 1924.[2] (The Einstein manuscript, once believed to be lost, was found in a library at Leiden University in 2005.[3]). Einstein then extended Bose's ideas to matter in two other papers.[4][5] The result of their efforts is the concept of a Bose gas, governed by Bose–Einstein statistics, which describes the statistical distribution of identical particles with integer spin, now called bosons. Bosons, which include the photon as well as atoms such as helium-4 (), are allowed to share a quantum state. Einstein proposed that cooling bosonic atoms to a very low temperature would cause them to fall (or "condense") into the lowest accessible quantum state, resulting in a new form of matter.
 

@@ -1,5 +1,3 @@
-TBIpwave.jpg
-
 HYDROSTATIC SHOCK is the controversial concept that a penetrating projectile (such as a bullet) can produce a pressure wave that causes "remote neural damage", "subtle damage in neural tissues" and/or "rapid incapacitating effects" in living targets.[1][2][3] It has also been suggested that pressure wave effects can cause indirect bone fractures at a distance from the projectile path, although it was later demonstrated that indirect bone fractures are caused by temporary cavity effects (strain placed on the bone by the radial tissue displacement produced by the temporary cavity formation).[4]
 
 Proponents of the concept argue that hydrostatic shock can produce remote neural damage and produce incapacitation more quickly than blood loss effects.[5] In arguments about the differences in stopping power between calibers and between cartridge models, proponents of cartridges that are "light and fast" (such as the 9×19mm Parabellum) versus cartridges that are "slow and heavy" (such as the .45 ACP) often refer to this phenomenon.
@@ -49,7 +47,7 @@ An 8-month study in Iraq performed in 2010 and published in 2011 reports on auto
 
 Inferences from blast pressure wave observations
 
-hydrostatic.jpg A shock wave can be created when fluid is rapidly displaced by an explosive or projectile. Tissue behaves similarly enough to water that a sonic pressure wave can be created by a bullet impact, generating pressures in excess of .[31]
+A shock wave can be created when fluid is rapidly displaced by an explosive or projectile. Tissue behaves similarly enough to water that a sonic pressure wave can be created by a bullet impact, generating pressures in excess of .[31]
 
 Duncan MacPherson, a former member of the International Wound Ballistics Association and author of the book, Bullet Penetration, claimed that shock waves cannot result from bullet impacts with tissue.[32] In contrast, Brad Sturtevant, a leading researcher in shock wave physics at Caltech for many decades, found that shock waves can result from handgun bullet impacts in tissue.[33] Other sources indicate that ballistic impacts can create shock waves in tissue.[34][35][36]
 
@@ -61,8 +59,6 @@ For example, Ibolja Cernak, a leading researcher in blast wave injury at the App
 
 
 Physics of ballistic pressure waves
-
-Harvey_Ballistic_Pressure_Wave.jpg
 
 A number of papers describe the physics of ballistic pressure waves created when a high-speed projectile enters a viscous medium.[42][43][44] These results show that ballistic impacts produce pressure waves that propagate at close to the speed of sound.
 

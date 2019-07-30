@@ -1,4 +1,4 @@
-Particles_and_antiparticles.svgs (left) and antiparticles (right). From top to bottom; electron/positron, proton/antiproton, neutron/antineutron.]]
+s (left) and antiparticles (right). From top to bottom; electron/positron, proton/antiproton, neutron/antineutron.]]
 
 In particle physics, every type of particle has an associated ANTIPARTICLE with the same mass but with opposite physical charges (such as electric charge). For example, the antiparticle of the electron is the antielectron (which is often referred to as _positron_). While the electron has a negative electric charge, the positron has a positive electric charge, and is produced naturally in certain types of radioactive decay. The opposite is also true: the antiparticle of the positron is the electron.
 
@@ -32,7 +32,7 @@ Within Dirac's theory, the problem of infinite charge of the universe remains. S
 
 Particle–antiparticle annihilation
 
-kkbar_had.svg pair that influences the propagation of a kaon, causing a neutral kaon to _mix_ with the antikaon. This is an example of renormalization in quantum field theory— the field theory being necessary because of the change in particle number.]]
+pair that influences the propagation of a kaon, causing a neutral kaon to _mix_ with the antikaon. This is an example of renormalization in quantum field theory— the field theory being necessary because of the change in particle number.]]
 
 If a particle and antiparticle are in the appropriate quantum states, then they can annihilate each other and produce other particles. Reactions such as  +  →   +  (the two-photon annihilation of an electron-positron pair) are an example. The single-photon annihilation of an electron-positron pair,  +  → , cannot occur in free space because it is impossible to conserve energy and momentum together in this process. However, in the Coulomb field of a nucleus the translational invariance is broken and single-photon annihilation may occur.[4] The reverse reaction (in free space, without an atomic nucleus) is also impossible for this reason. In quantum field theory, this process is allowed only as an intermediate quantum state for times short enough that the violation of energy conservation can be accommodated by the uncertainty principle. This opens the way for virtual pair production or annihilation in which a one particle quantum state may _fluctuate_ into a two particle state and back. These processes are important in the vacuum state and renormalization of a quantum field theory. It also opens the way for neutral particle mixing through processes such as the one pictured here, which is a complicated example of mass renormalization.
 

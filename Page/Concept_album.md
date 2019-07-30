@@ -1,4 +1,4 @@
-Bundesarchiv_Bild_183-1990-0722-401,_Berlin,_Aufführung_der_Rockoper_"The_Wall".jpg's _The Wall_ (1979) is one of the best-known concept albums of all time.[1] Pictured is Roger Waters leading a 1990 performance of the whole album.]]
+'s _The Wall_ (1979) is one of the best-known concept albums of all time.[1] Pictured is Roger Waters leading a 1990 performance of the whole album.]]
 
 A CONCEPT ALBUM is an album in which its tracks hold a larger purpose or meaning collectively than they do individually. This is typically achieved through a single central narrative or theme, which can be instrumental, compositional, or lyrical. Sometimes the term is applied to albums considered to be of "uniform excellence" rather than an LP with an explicit musical or lyrical motif. There is no consensus among music critics as to the specific criteria for what a "concept album" is.[2]
 
@@ -20,13 +20,13 @@ History
 
 Rick Wakeman, keyboardist from the band Yes, considers the first concept album to be Woody Guthrie's 1940 album _Dust Bowl Ballads_.[8] _The Independent_ regards it as "perhaps" one of the first concept albums, consisting exclusively of semi-autobiographical songs about the hardships of American migrant labourers during the 1930s.[9] In the late 1940s, the LP record was introduced, with space age pop composers producing concept albums soon after. Themes included exploring wild life and dealing with emotions, with some albums meant to be played while dining or relaxing. This was accompanied in the mid 1950s with the invention of the gatefold, which allowed room for liner notes to explain the concept.
 
-Frank_Sinatra_Metronome_magazine_November_1950.JPG, 1950]]
+, 1950]]
 
 Singer Frank Sinatra recorded several concept albums prior to the 1960s rock era, including _In the Wee Small Hours_ (1955) and _Frank Sinatra Sings for Only the Lonely_ (1958). Sinatra is occasionally credited as the inventor of the concept album, beginning with _The Voice of Frank Sinatra_ (1946), which led to similar work by Bing Crosby. According to biographer Will Friedwald, Sinatra "sequenced the songs so that the lyrics created a flow from track to track, affording an impression of a narrative, as in musical comedy or opera. ... [He was the] first pop singer to bring a consciously artistic attitude to recording."
 
 1960s: Rock and country music
 
-The_Beatles_magical_mystery_tour.jpg, 1967]]
+, 1967]]
 
 In the early 1960s, concept albums began featuring highly in American country music, however the fact went largely unacknowledged by rock/pop fans and critics who would only begin noting "concept albums" as a phenomenon later in the decade, when albums became closely aligned with countercultural ideology, resulting in a recognised "album era" and the introduction of the rock concept album. The author Carys Wyn Jones writes that the Beach Boys' _Pet Sounds_ (1966), the Beatles' _Revolver_ (1966) and _Sgt. Pepper's Lonely Hearts Club Band_ (1967), and the Who's _Tommy_ (1969) are variously cited as "the first concept album", usually for their "uniform excellence rather than some lyrical theme or underlying musical motif".
 
@@ -36,7 +36,7 @@ Other records have been claimed as "early" or "first" concept albums. _The 100 G
 
 1960s–70s: Rock operas and progressive rock
 
-Genesis_live_1974-11-20.jpg recreating their concept album _The Lamb Lies Down on Broadway_ (1974) for a live performance. Band member Peter Gabriel is wearing a costume for one of the album's characters.]]
+recreating their concept album _The Lamb Lies Down on Broadway_ (1974) for a live performance. Band member Peter Gabriel is wearing a costume for one of the album's characters.]]
 
 Author Bill Martin relates the assumed concept albums of the 1960s to progressive rock:
 

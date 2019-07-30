@@ -32,8 +32,6 @@ Corinth is a major industrial hub at a national level. The Corinth Refinery is o
 
 Transport
 
-Corinth_Isthmus_rail_road_bridge.jpg
-
 Roads
 
 Corinth is a major road hub. The A7 toll motorway for Tripoli and Kalamata, (and Sparta via A71 toll), branches off the A8/European route E94 toll motorway from Athens at Corinth. Corinth is the main entry point to the Peloponnesian peninsula, the southernmost area of continental Greece.
@@ -56,11 +54,11 @@ Within the port operates a customs office facility and a Hellenic Coast Guard po
 
 Ferries
 
-There was formerly a ferry link to Catania, Sicily and Genoa in Italy. Port_of_Corinth.jpg
+There was formerly a ferry link to Catania, Sicily and Genoa in Italy.
 
 Canal
 
-Corinth_Canal_by_Frank_van_Mierlo.jpg The Corinth Canal, carrying ship traffic between the western Mediterranean Sea and the Aegean Sea, is about east of the city, cutting through the Isthmus of Corinth that connects the Peloponnesian peninsula to the Greek mainland, thus effectively making the former an island. The builders dug the canal through the Isthmus at sea level; no locks are employed. It is in length and only wide at its base, making it impassable for most modern ships. It now has little economic importance.
+The Corinth Canal, carrying ship traffic between the western Mediterranean Sea and the Aegean Sea, is about east of the city, cutting through the Isthmus of Corinth that connects the Peloponnesian peninsula to the Greek mainland, thus effectively making the former an island. The builders dug the canal through the Isthmus at sea level; no locks are employed. It is in length and only wide at its base, making it impassable for most modern ships. It now has little economic importance.
 
 The canal was mooted in classical times and an abortive effort was made to build it in the 1st century AD. Julius Caesar and Caligula both considered digging the canal but died before starting the construction.[9] The emperor Nero was the first to attempt to construct the canal. The Roman workforce responsible for the initial digging consisted of 6,000 Jewish prisoners of war. Modern construction started in 1882, after Greece gained independence from the Ottoman Empire, but was hampered by geological and financial problems that bankrupted the original builders. It was completed in 1893, but due to the canal's narrowness, navigational problems and periodic closures to repair landslips from its steep walls, it failed to attract the level of traffic anticipated by its operators. It is now used mainly for tourist traffic.
 

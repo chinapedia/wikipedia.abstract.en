@@ -1,4 +1,4 @@
-8denarii.jpg, A.D 73 Vespasian, A.D 161 Marcus Aurelius, A.D 194 Septimius Severus;
+, A.D 73 Vespasian, A.D 161 Marcus Aurelius, A.D 194 Septimius Severus;
 Second row left to right: A.D 199 Caracalla, A.D 200 Julia Domna, A.D 219 Elagabalus, A.D 236 Maximinus Thrax]] The DENARIUS (, DĒNĀRIĪ ) was the standard Roman silver coin from its introduction in the Second Punic War c. 211 BC[1] to the reign of Gordian III (AD 238–244), when it was gradually replaced by the Antoninianus. It continued to be minted in very small quantities, likely for ceremonial purposes, until and through the tetrarchy (293–313).[2]
 
 The word _dēnārius_ is derived from the Latin _dēnī_ "containing ten", as its value was originally of 10 assēs.[3] The word for "money" descends from it in Italian (_denaro_), Slovene (_denar_), Portuguese (_dinheiro_), and Spanish (_dinero_). Its name also survives in the dinar currency.
@@ -8,7 +8,7 @@ Its symbol is represented in Unicode as 𐆖 (U+10196), however it can also be r
 
 History
 
-Fineness_of_early_Roman_Imperial_silver_coins.png in AD 64, the Romans continuously debased their silver coins until, by the end of the 3rd century AD, hardly any silver was left.]] A predecessor of the _denarius_ was first struck in 267 BC, five years before the First Punic War,[4] with an average weight of 6.81 grams, or of a Roman pound. Contact with the Greeks prompted a need for silver coinage in addition to the bronze currency that the Romans were using at that time. The predecessor of the _denarius_ was a Greek-styled silver coin called the _didrachm_ which was struck in Neapolis and other Greek cities in southern Italy.[5] These coins were inscribed for Rome but closely resemble their Greek counterparts. They were most likely used for trade purposes and were seldom used in Rome.
+in AD 64, the Romans continuously debased their silver coins until, by the end of the 3rd century AD, hardly any silver was left.]] A predecessor of the _denarius_ was first struck in 267 BC, five years before the First Punic War,[4] with an average weight of 6.81 grams, or of a Roman pound. Contact with the Greeks prompted a need for silver coinage in addition to the bronze currency that the Romans were using at that time. The predecessor of the _denarius_ was a Greek-styled silver coin called the _didrachm_ which was struck in Neapolis and other Greek cities in southern Italy.[5] These coins were inscribed for Rome but closely resemble their Greek counterparts. They were most likely used for trade purposes and were seldom used in Rome.
 
 The first distinctively Roman silver coin appeared around 226 BC.[6] Classical historians sometimes called these coins _denarii_, but they are classified by modern numismatists as _quadrigati_, which is derived from the quadriga, or four-horse chariot, on the reverse, and which with a two-horse chariot or _biga_ was the prototype for the most common designs used on Roman silver coins for the next 150 years.[7][8][9]
 
@@ -72,7 +72,7 @@ Debasement and evolution
 
 Comparisons and silver content
 
-Denarius-Domitilla-RIC_0137.jpg, wife of Vespasian and mother of Titus and Domitian.]]
+, wife of Vespasian and mother of Titus and Domitian.]]
 
 It is difficult to give even rough comparative values for money from before the 20th century, as the range of products and services available for purchase was so different. Classical historians often say that in the late Roman Republic and early Roman Empire (~27 BC) the daily wage for an unskilled laborer and common soldier was 1 denarius (with no tax deductions) or about US$20 in bread.[15] During the republic (509–27 BC), legionary pay was 112.5 denarii per year (0.3 per day), later doubled by Julius Caesar to 225 denarii (0.6 per day), with soldiers having to pay for their own food and arms. Centurions received considerably higher pay: under Augustus, the lowest rank of centurion was paid 3,750 denarii per year, and the highest rank, 15,000 denarii.
 
@@ -92,7 +92,7 @@ Even after the _denarius_ was no longer regularly issued, it continued to be use
 
 Value
 
-Antonia1.jpg (c. 82–83 BC)]]
+(c. 82–83 BC)]]
 
 1 gold aureus = 2 gold quinarii = 25 silver denarii = 50 silver quinarii = 100 bronze sestertii = 200 bronze dupondii = 400 copper asses = 800 copper semisses = 1600 copper quadrantes
 

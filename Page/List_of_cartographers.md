@@ -3,7 +3,7 @@ Cartography is the study of map making and CARTOGRAPHERS are map makers.
 
 Before 1400
 
-Anaximander_world_map-en.svg's 6th century BC world map]] PtolemyWorldMap.jpg's 150 CE world map (as redrawn in the 15th century)]]
+'s 6th century BC world map]] 's 150 CE world map (as redrawn in the 15th century)]]
 
 -   Anaximander, Greek Anatolia (610 BC–546 BC), first to attempt making a map of the known world
 -   Hecataeus of Miletus, Greek Anatolia (550 BC–476 BC), geographer, cartographer, and early ethnographer
@@ -27,7 +27,7 @@ Anaximander_world_map-en.svg's 6th century BC world map]] PtolemyWorldMap.jpg's 
 
 15th century
 
-Piri_reis_world_map_01.jpg]] Carte_behaim.JPG's 1492 world map]]
+]] 's 1492 world map]]
 
 -   Jacobus Angelus, Florence, translated Ptolemy into Latin
 -   Martin Behaim (Germany, 1436–1507)
@@ -50,7 +50,7 @@ Piri_reis_world_map_01.jpg]] Carte_behaim.JPG's 1492 world map]]
 
 16th century
 
-1544_Battista_Agnese_Worldmap.jpg Leo_Belgicus.jpg' _Leo Belgicus_ (1611)]] Mercator_World_Map.jpg's 1587 world map]] OrteliusWorldMap.jpeg'' by Abraham Ortelius]]
+' _Leo Belgicus_ (1611)]] 's 1587 world map]] '' by Abraham Ortelius]]
 
 -   Giovanni Battista Agnese (c. 1500–1564), Genoese, cartographer, author of numerous nautical atlases
 -   Hacı Ahmet, Tunisian cartographer, translated 16th c. map into Turkish for the Ottoman Empire.
@@ -94,7 +94,7 @@ Piri_reis_world_map_01.jpg]] Carte_behaim.JPG's 1492 world map]]
 
 17th century
 
-1606_-26_Nova_Blaeu_mr.jpg and Johannes Blaeu's 1606–26 world map]] Moll_-_A_new_map_of_the_whole_world_with_the_trade_winds.png's _A new map of the whole world with the trade winds_ (1736)]] 1670_Nova_Orbis_de_Wit.JPG's 1670 world map]]
+and Johannes Blaeu's 1606–26 world map]] 's _A new map of the whole world with the trade winds_ (1736)]] 's 1670 world map]]
 
 -   Pieter van der Aa (Netherlands, 1659–1733)
 -   João Teixeira Albernaz I (Portugal, died c. 1664), prolific cartographer, son of Luís Teixeira
@@ -136,7 +136,7 @@ Piri_reis_world_map_01.jpg]] Carte_behaim.JPG's 1492 world map]]
 
 18th century
 
-Bellin_-_Carte_reduite_de_l'ocean_septentrional.png: _Carte réduite de l'océan septentrional..._, from: _L'hydrographie françoise_, Paris 1766]] Anville_-_Troisieme_partie_de_la_carte_d'Asie.jpg: _Troisième partie de la carte d'Asie, contenant la Sibérie, et quelques autres parties de la Tartarie_, Paris (1753)]] Plan_du_Jardin_et_Vue_des_Maisons_de_Chiswick.jpg V&A Museum no. E.352-1944]] (A_chart_of_Boston_Bay)_(2674893303).jpg from Atlantic Neptune by Colonel Joseph Frederick Wallet DesBarres]]
+: _Carte réduite de l'océan septentrional..._, from: _L'hydrographie françoise_, Paris 1766]] : _Troisième partie de la carte d'Asie, contenant la Sibérie, et quelques autres parties de la Tartarie_, Paris (1753)]] V&A Museum no. E.352-1944]] from Atlantic Neptune by Colonel Joseph Frederick Wallet DesBarres]]
 
 -   John Senex (1690–1740), engraver, publisher, surveyor and geographer to Queen Anne[5]
 -   John Lodge Cowley, cartographer, mathematician and geographer
@@ -194,7 +194,7 @@ Bellin_-_Carte_reduite_de_l'ocean_septentrional.png: _Carte réduite de l'océan
 
 19th century
 
-Monmouthshire_Hundreds.jpg of Monmouthshire, c. 1831]] Russian_Empire_Map.jpg]]
+of Monmouthshire, c. 1831]] ]]
 
 -   John James Abert (United States, 1788–1863), headed the Corps of Topographical Engineers for 32 years and organized the mapping of the American West
 -   John Arrowsmith (England, 1790–1873), member of the Arrowsmith family of geographers
@@ -246,7 +246,7 @@ Monmouthshire_Hundreds.jpg of Monmouthshire, c. 1831]] Russian_Empire_Map.jpg]]
 
 20th century
 
-Southampton_Island_1913.jpg's 1913 map of Southampton Island]] robinson-projection.jpg of the Earth]]
+'s 1913 map of Southampton Island]] of the Earth]]
 
 -   Jacques Bertin (France, 1918–2010)
 -   Josef Breu (Austria, 1914–1998)

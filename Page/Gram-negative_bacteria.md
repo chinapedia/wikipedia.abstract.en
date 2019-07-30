@@ -1,4 +1,4 @@
-Pseudomonas_aeruginosa_Gram.jpg'' bacteria (pink-red rods)]]
+'' bacteria (pink-red rods)]]
 
 GRAM-NEGATIVE BACTERIA are bacteria that do not retain the crystal violet stain used in the gram-staining method of bacterial differentiation.[1] They are characterized by their cell envelopes, which are composed of a thin peptidoglycan cell wall sandwiched between an inner cytoplasmic cell membrane and a bacterial outer membrane.
 
@@ -9,7 +9,7 @@ Several classes of antibiotics have been designed to target gram-negative bacter
 
 Characteristics
 
-Gram_negative_cell_wall.svg Gram-Cell-wall.svg structure]]
+structure]]
 
 Gram-negative bacteria display :
 

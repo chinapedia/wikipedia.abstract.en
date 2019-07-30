@@ -3,7 +3,7 @@ _AMARYLLIS_ ([1]) is the only genus in the subtribe Amaryllidinae (tribe Amaryll
 
 Description
 
-Amaryllis_belladonna_flowers.jpg _Amaryllis_ is a bulbous plant, with each bulb being in diameter. It has several strap-shaped, green leaves, long and broad, arranged in two rows.
+_Amaryllis_ is a bulbous plant, with each bulb being in diameter. It has several strap-shaped, green leaves, long and broad, arranged in two rows.
 
 Each bulb produces one or two leafless stems 30–60 cm tall, each of which bears a cluster of two to twelve funnel-shaped flowers at their tops. Each flower is diameter with six tepals (three outer sepals, three inner petals, with similar appearance to each other). The usual color is white with crimson veins, but pink or purple also occur naturally.
 
@@ -41,7 +41,7 @@ The plant has a symbiotic relationship with carpenter bees. It is also visited b
 
 Cultivation
 
-Flore_des_serres_v14_053a.jpg _Amaryllis belladonna_ was introduced into cultivation at the beginning of the eighteenth century. It reproduces slowly by either bulb division or seeds and has gradually naturalized from plantings in urban and suburban areas throughout the lower elevations and coastal areas in much of the West Coast of the USA since these environments mimic their native South African habitat. Hardiness zones 6-8.[11] It is also naturalized in Australia.[12]
+_Amaryllis belladonna_ was introduced into cultivation at the beginning of the eighteenth century. It reproduces slowly by either bulb division or seeds and has gradually naturalized from plantings in urban and suburban areas throughout the lower elevations and coastal areas in much of the West Coast of the USA since these environments mimic their native South African habitat. Hardiness zones 6-8.[11] It is also naturalized in Australia.[12]
 
 There is an _Amaryllis belladonna_ hybrid which was bred in the 1800s in Australia. No one knows the exact species it was crossed with to produce color variations of white, cream, peach, magenta and nearly red hues. The hybrids were crossed back onto the original _Amaryllis belladonna_ and with each other to produce naturally seed-bearing crosses that come in a very wide range of flower sizes, shapes, stem heights and intensities of pink. Pure white varieties with bright green stems were bred as well. The hybrids are quite distinct in that the many shades of pink also have stripes, veining, darkened edges, white centers and light yellow centers, also setting them apart from the original light pink. In addition, the hybrids often produce flowers in a fuller circle rather than the "side-facing" habit of the "old-fashioned" pink. The hybrids are able to adapt to year-round watering and fertilization but can also tolerate completely dry summer conditions if need be.
 

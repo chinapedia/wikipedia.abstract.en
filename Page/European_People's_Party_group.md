@@ -21,8 +21,6 @@ In the 7th European Parliament the EPP Group remains the largest parliamentary g
 
 After 12 member parties in the EPP called for Fidesz's expulsion or suspension, Fidesz's membership was suspended.[23]
 
-EPP-ED_logo.svg
-
 Membership at formation
 
 The 38 members in the group on 11 September 1952 were as follows:
@@ -418,7 +416,7 @@ Activities performed by the group in the period between June 2004 and June 2008 
 
 Parliamentary activity profile
 
-Motions_for_resolutions_put_to_the_vote_in_plenary_in_the_European_Parliament_August_1_2004_to_August_1_2008.PNG for sources).
+for sources).
 ]]
 
 The debates and votes in the European Parliament are tracked by its website[91] and categorized by the groups that participate in them and the rule of procedure that they fall into. The results give a profile for each group by category and the total indicates the group's level of participation in Parliamentary debates. The activity profile for each group for the period 1 August 2004 to 1 August 2008 in the Sixth Parliament is given on the diagram on the right. The group is denoted in blue.

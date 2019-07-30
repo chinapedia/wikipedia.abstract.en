@@ -40,7 +40,7 @@ Space walk
 
 Objectives
 
-Gemini_X_Ultraviolet_Lens.jpg Gemini 10 established that radiation at high altitude was not a problem. After docking with their Agena booster in low orbit, Young and Collins used it to climb temporarily to . After leaving the first Agena, they then rendezvoused with the derelict Agena left over from the aborted Gemini 8 flight—thus executing the program's first double rendezvous. With no electricity on board the second Agena, the rendezvous was accomplished with eyes only—no radar.
+Gemini 10 established that radiation at high altitude was not a problem. After docking with their Agena booster in low orbit, Young and Collins used it to climb temporarily to . After leaving the first Agena, they then rendezvoused with the derelict Agena left over from the aborted Gemini 8 flight—thus executing the program's first double rendezvous. With no electricity on board the second Agena, the rendezvous was accomplished with eyes only—no radar.
 
 After the rendezvous, Collins spacewalked over to the dormant Agena at the end of a tether, making him the first person to meet another spacecraft in orbit. Collins then retrieved a cosmic dust-collecting panel from the side of the Agena. As he was concentrating on keeping his tether clear of the Gemini and Agena, Collins' Hasselblad camera worked itself free and drifted away, so he was unable to take photographs during the spacewalk.
 
@@ -117,8 +117,6 @@ The crew also tried to perform D-5, a navigation experiment. They were only able
 
 Re-entry
 
-Gemini_10_Splashdown_-_GPN-2000-000995.jpg
-
 The last day of the mission was short and retrofire came at 70 hours and 10 minutes into the mission. They landed only away from the intended landing site and were recovered by .
 
 The Gemini 10 mission was supported by the following U.S. Department of Defense resources: 9,067 personnel, 78 aircraft and 13 ships.
@@ -126,12 +124,12 @@ The Gemini 10 mission was supported by the following U.S. Department of Defense 
 
 Insignia
 
-Gemini_10_Flown_Fliteline_Gold-Colored_Medallion.jpg]] The patch is simple in design but highly symbolic. The main feature is a large X with a Gemini and Agena orbiting around it. The two stars have a variety of meanings: the two rendezvous attempts, Castor and Pollux in Gemini or the two crew members. This is one of the few crew patches without the crew's name. It is able to be displayed "upside down" but is correctly shown with the spacecraft to the right. It was designed by Young's first wife, Barbara.
+]] The patch is simple in design but highly symbolic. The main feature is a large X with a Gemini and Agena orbiting around it. The two stars have a variety of meanings: the two rendezvous attempts, Castor and Pollux in Gemini or the two crew members. This is one of the few crew patches without the crew's name. It is able to be displayed "upside down" but is correctly shown with the spacecraft to the right. It was designed by Young's first wife, Barbara.
 
 
 Spacecraft location
 
-Gemini_X_Capsule.jpg in Kansas]] For many years the spacecraft was the centerpiece of a space exhibition at Norsk Teknisk Museum, Oslo, Norway. It was returned on request in 2002.
+in Kansas]] For many years the spacecraft was the centerpiece of a space exhibition at Norsk Teknisk Museum, Oslo, Norway. It was returned on request in 2002.
 
 The spacecraft is currently on display at the Cosmosphere in Hutchinson, Kansas.
 

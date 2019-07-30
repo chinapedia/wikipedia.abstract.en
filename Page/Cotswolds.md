@@ -16,7 +16,7 @@ The name Cotswold is popularly attributed the meaning "sheep enclosure in rollin
 
 Geography
 
-Bibury_Cottages_in_the_Cotswolds_-_June_2007.jpg, a typical Cotswold village]]
+, a typical Cotswold village]]
 
 The spine of the Cotswolds runs southwest to northeast through six counties, particularly Gloucestershire, west Oxfordshire and south western Warwickshire. The northern and western edges of the Cotswolds are marked by steep escarpments down to the Severn valley and the Warwickshire Avon. This feature, known as the Cotswold escarpment, or sometimes the Cotswold Edge, is a result of the uplifting (tilting) of the limestone layer, exposing its broken edge.[23] This is a cuesta, in geological terms. The dip slope is to the southeast. On the eastern boundary lies the city of Oxford and on the west is Stroud. To the southeast, the upper reaches of the Thames Valley and towns such as Lechlade, Tetbury and Fairford are often considered to mark the limit of this region. To the south the Cotswolds, with the characteristic uplift of the Cotswold Edge, reach beyond Bath, and towns such as Chipping Sodbury and Marshfield share elements of Cotswold character.
 
@@ -29,7 +29,7 @@ The nearly of the Cotswolds, roughly 80% farmlands,[28] contains over of footpat
 
 Economy
 
-Broadway_row_b_8294.jpg; the quaint buildings of the village attract numerous tourists]] A 2017 report on employment within the Area of Outstanding Natural Beauty, stated that the main sources of income were real estate, renting and business activities, manufacturing and wholesale & retail trade repairs. Some 44% of residents were employed in these sectors.[30] Agriculture is also important. Some 86% of the land in the AONB is used for this purpose. The primary crops include barley, beans, rape seed oil and wheat, while the raising of sheep is also important; cows and pigs are also reared. The livestock sector has been declining since 2002, however.[31]
+; the quaint buildings of the village attract numerous tourists]] A 2017 report on employment within the Area of Outstanding Natural Beauty, stated that the main sources of income were real estate, renting and business activities, manufacturing and wholesale & retail trade repairs. Some 44% of residents were employed in these sectors.[30] Agriculture is also important. Some 86% of the land in the AONB is used for this purpose. The primary crops include barley, beans, rape seed oil and wheat, while the raising of sheep is also important; cows and pigs are also reared. The livestock sector has been declining since 2002, however.[31]
 
 According to the 2011 Census data for the Cotswolds,[32] the wholesale and retail trade was the largest employer (15.8% of the workforce), followed by education (9.7%) and health and social work (9.3%). The report also indicates that a relatively higher proportion of residents were working in agriculture, forestry and fishing, accommodation and food services as well as in professional, scientific and technical activities.[33]
 
@@ -62,9 +62,7 @@ In August 2018, the final decision was made for a Local Plan that would lead to 
 
 Cotswold stone
 
-Stanton_cottage_8348.jpg
-
-Cotswold stone is a yellow oolitic Jurassic limestone. This limestone is rich in fossils, particularly of fossilised sea urchins. When weathered, the colour of buildings made or faced with this stone is often described as honey or golden.[45] Thatch_and_slate_roof,_Stretton-on-Fosse,_Cotswolds_165445.jpg
+Cotswold stone is a yellow oolitic Jurassic limestone. This limestone is rich in fossils, particularly of fossilised sea urchins. When weathered, the colour of buildings made or faced with this stone is often described as honey or golden.[45]
 
 The stone varies in colour from north to south, being honey-coloured in the north and north east of the region, as shown in Cotswold villages such as Stanton and Broadway; golden-coloured in the central and southern areas, as shown in Dursley and Cirencester; and pearly white in Bath.[46] The rock outcrops at places on the Cotswold Edge; small quarries are common. The exposures are rarely sufficiently compact to be good for rock-climbing, but an exception is Castle Rock, on Cleeve Hill, near Cheltenham. Due to the rapid expansion of the Cotswolds in order for nearby areas to capitalize on increased house prices, well known ironstone villages, such as Hook Norton, have even been claimed by some to be in the Cotswolds despite lacking key features of Cotswolds villages such as Cotswold stone and are instead built using a deep red/orange ironstone, known locally as Horton Stone.[47]
 
@@ -90,7 +88,7 @@ The Cotswold Way is a long-distance footpath, just over long, running the length
 
 Places of interest
 
-Sudeley_Castle_Secret_Garden.jpg Pictured right is the Garden of Sudeley Castle at Winchcombe. The present structure was built in the 15th century and may have been on the site of a 12th-century castle.[62] It is situated north of the Spa town of Cheltenham which has much Georgian architecture of some merit. Close by on the A4135 in Beaverston village is the ancient fortress known as Beverston Castle founded in 1229 by Maurice de Gaunt.[63] Within the Cotswold area lies Calcot Manor which can be accessed on the A4135 road from Beaverston and is located some west of Tetbury.[64] The Manor house building was established in about 1300 AD by Henry of Kingswood as a tithe barn.[65]
+Pictured right is the Garden of Sudeley Castle at Winchcombe. The present structure was built in the 15th century and may have been on the site of a 12th-century castle.[62] It is situated north of the Spa town of Cheltenham which has much Georgian architecture of some merit. Close by on the A4135 in Beaverston village is the ancient fortress known as Beverston Castle founded in 1229 by Maurice de Gaunt.[63] Within the Cotswold area lies Calcot Manor which can be accessed on the A4135 road from Beaverston and is located some west of Tetbury.[64] The Manor house building was established in about 1300 AD by Henry of Kingswood as a tithe barn.[65]
 
 Tetbury Market House was built in 1655.[66] During the Middle Ages, Tetbury became an important market for Cotswold wool and yarn. Chavenage House is an Elizabethan-era manor house northwest of Tetbury.[67] Of some interest is Chedworth Roman Villa. Recent excavations have revealed more of the structure and mosaics, which are now excellently presented. It is located just off the Roman road known as the Fosse Way, and north of the important town of Corinium Dobunnorum (Cirencester). Cirencester Abbey was founded as an Augustinian monastery in 1117[68] and Malmesbury Abbey was one of the few English houses with a continual history from the 7th century through to the Dissolution of the Monasteries.[69]
 
@@ -116,8 +114,6 @@ According to users of the worldwide TripAdvisor travel site, the following are a
 
 
 Transport
-
-Cotswold_roads_1933.jpg
 
 The Cotswolds lie between the M5, M40 and M4 motorways. The main A-roads through the area are the A46: Bath – Stroud – Cheltenham; the A419: Swindon – Cirencester – Stroud; the A429: Cirencester – Stow-on-the-Wold – Moreton-in-Marsh; and the A40: Oxford – Burford – Cheltenham. These all roughly follow the routes of ancient roads, some laid down by the Romans, such as Ermin Way and the Fosse Way.
 

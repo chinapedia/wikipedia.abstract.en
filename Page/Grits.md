@@ -1,5 +1,3 @@
-Grits_with_cheese,_bacon,_green_onion_and_poached_egg.jpg
-
 GRITS is a food made from a dish of boiled cornmeal. HOMINY GRITS are a type of grits made from hominy – corn that has been treated with an alkali in a process called nixtamalization with the pericarp removed. Grits are often served with other flavorings[1] as a breakfast dish, usually savory. The dish originated in the Southern United States but now is available nationwide, and is popular as the dinner entrée shrimp and grits, served primarily in the South.[2] Grits should not be confused with boiled ground corn, which makes "hasty pudding" or "mush" or may be made into polenta using coarse ground corn, or with the "mush" made from more finely ground corn meal.
 
 Grits is of Native American origin and is similar to other thick maize-based porridges from around the world, such as polenta and mieliepap. The word "grits" is derived from the Old English word , meaning coarse meal.[3]
@@ -16,7 +14,7 @@ Three-quarters of grits sold in the U.S. are bought in the South, in an area str
 
 Preparation
 
-Gritsonly.jpg Whole kernel grits is prepared by adding four to five parts boiling water or milk (seasoned with salt—1/4 tsp for each cup of liquid) to one part grits. Cover and cook for 20 to 45 minutes over medium low, stirring regularly. Grits expand when cooked and need stirring to prevent sticking, and lumps from forming. They are not done until they have absorbed four and one quarter times their volume. Whole grain grits require much longer to become soft than do "quick grits". Some people serve grits with sugar, while others object to sweetened grits. They are often served with butter. They are served with grated cheese, sausage, bacon, or salt and pepper, or red-eye gravy. Extra, _i.e._, left-over, grits can be put into a glass tumbler or loaf pan, chilled until needed, sliced, and fried either plain or with a breading. In this form they are denominated "fried grits", "fried hominy", or "grit cakes".
+Whole kernel grits is prepared by adding four to five parts boiling water or milk (seasoned with salt—1/4 tsp for each cup of liquid) to one part grits. Cover and cook for 20 to 45 minutes over medium low, stirring regularly. Grits expand when cooked and need stirring to prevent sticking, and lumps from forming. They are not done until they have absorbed four and one quarter times their volume. Whole grain grits require much longer to become soft than do "quick grits". Some people serve grits with sugar, while others object to sweetened grits. They are often served with butter. They are served with grated cheese, sausage, bacon, or salt and pepper, or red-eye gravy. Extra, _i.e._, left-over, grits can be put into a glass tumbler or loaf pan, chilled until needed, sliced, and fried either plain or with a breading. In this form they are denominated "fried grits", "fried hominy", or "grit cakes".
 
 
 Grits dishes

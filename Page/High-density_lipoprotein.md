@@ -23,7 +23,7 @@ HDL transports cholesterol mostly to the liver or steroidogenic organs such as a
 
 The cholesterol delivered to the liver is excreted into the bile and, hence, intestine either directly or indirectly after conversion into bile acids. Delivery of HDL cholesterol to adrenals, ovaries, and testes is important for the synthesis of steroid hormones.
 
-hdl1.svg Several steps in the metabolism of HDL can participate in the transport of cholesterol from lipid-laden macrophages of atherosclerotic arteries, termed foam cells, to the liver for secretion into the bile. This pathway has been termed _reverse cholesterol transport_ and is considered as the classical protective function of HDL toward atherosclerosis.
+Several steps in the metabolism of HDL can participate in the transport of cholesterol from lipid-laden macrophages of atherosclerotic arteries, termed foam cells, to the liver for secretion into the bile. This pathway has been termed _reverse cholesterol transport_ and is considered as the classical protective function of HDL toward atherosclerosis.
 
 HDL carries many lipid and protein species, several of which have very low concentrations but are biologically very active. For example, HDL and its protein and lipid constituents help to inhibit oxidation, inflammation, activation of the endothelium, coagulation, and platelet aggregation. All these properties may contribute to the ability of HDL to protect from atherosclerosis, and it is not yet known which are the most important. In addition, a small subfraction of HDL lends protection against the protozoan parasite _Trypanosoma brucei brucei_. This HDL subfraction, termed trypanosome lytic factor (TLF), contains specialized proteins that, while very active, are unique to the TLF molecule.[10]
 

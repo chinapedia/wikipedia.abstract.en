@@ -17,7 +17,7 @@ Classification
 These families are recognized in the APG III system[3] as members of the Ericales:
 
 -   Family Actinidiaceae (kiwifruit family)
--   Family Balsaminaceae (balsam family)Balsam_I_IMG_9566.jpg'' from the Balsaminaceae ]]
+-   Family Balsaminaceae (balsam family)'' from the Balsaminaceae ]]
 -   Family Clethraceae (clethra family)
 -   Family Cyrillaceae (cyrilla family)
 -   Family Diapensiaceae
@@ -29,7 +29,7 @@ These families are recognized in the APG III system[3] as members of the Ericale
 -   Family Mitrastemonaceae
 -   Family Pentaphylacaceae
 -   Family Polemoniaceae (phlox family)
--   Family Primulaceae (primrose and snowbell family) Primula_rosea_I_IMG_7210.jpg'' from the Primulaceae ]]
+-   Family Primulaceae (primrose and snowbell family) '' from the Primulaceae ]]
 -   Family Roridulaceae
 -   Family Sapotaceae (sapodilla family)
 -   Family Sarraceniaceae (American pitcher plant family)

@@ -15,7 +15,7 @@ In 1971, Stoiber joined the Bavarian State Ministry of Development and Environme
 
 Political career
 
-Bundesarchiv_B_145_Bild-F061782-0032,_Hamburg,_CDU-Bundesparteitag,_Blüm,_Stoiber.jpg and Edmund Stoiber in 1981]]
+and Edmund Stoiber in 1981]]
 
 In 1978 Stoiber was elected secretary general of the CSU, a post he held until 1982/83. In this capacity, he served as campaign manager of Franz-Josef Strauss, the first Bavarian leader to run for the chancellorship, in the 1980 national elections.[4] From 1982 to 1986 he served as deputy to the Bavarian secretary of the state and then, in the position of State Minister, led the State Chancellery from 1982 to 1988. From 1988 to 1993 he served as State Minister of the Interior.
 
@@ -70,7 +70,7 @@ Political positions
 
 Foreign policy
 
-Vladimir_Putin_with_Edmund_Stoiber-1.jpg]] In his capacity as Minister-President, Stoiber made 58 foreign trips, including to China (1995, 2003), Israel (2001), Egypt (2001), India (2004, 2007) and South Korea (2007).[17]
+]] In his capacity as Minister-President, Stoiber made 58 foreign trips, including to China (1995, 2003), Israel (2001), Egypt (2001), India (2004, 2007) and South Korea (2007).[17]
 
 In 2002, Stoiber publicly expressed support for the United States in their policy toward Iraq. During his election campaign, he made clear his opposition to war, and his support for the introduction of weapons inspectors to Iraq without preconditions as a way of avoiding war, and he criticized Schröder for harming the German-American alliance by not calling President George W. Bush and discussing the issue privately.[18] He also attacked German Foreign Minister Joschka Fischer for his criticism of the U.S. position.[19]
 
@@ -130,8 +130,6 @@ In his youth, he played for local football side BCF Wolfratshausen.[35]
 
 
 Honours and awards
-
-Edmund_Stoiber.jpg
 
 -   1984: Bavarian Order of Merit
 -   1996:

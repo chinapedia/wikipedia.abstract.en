@@ -60,7 +60,7 @@ In January 2015 the 2015 Congolese protests broke out in the country's capital f
 
 Legislative branch
 
-Palais_du_peuple_de_la_RDC.jpg, seat of the parliament in Kinshasa]]
+, seat of the parliament in Kinshasa]]
 
 Under the Transition Constitution
 

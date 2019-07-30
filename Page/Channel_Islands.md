@@ -9,8 +9,6 @@ The term "Channel Islands" began to be used around 1830, possibly first by the R
 
 Geography
 
-Channel_Islands.svg
-
 The two major islands are Jersey and Guernsey. They make up 99% of the population and 92% of the area.
 
 List of islands
@@ -82,7 +80,7 @@ The highest point in the islands is Les Platons in Jersey at 143 metres (469 ft
 
 History
 
-La_Gran'mère_du_Chimquière_Guernsey.jpg, Saint Martin, Guernsey|upright]]
+, Saint Martin, Guernsey|upright]]
 
 Prehistory
 
@@ -118,11 +116,11 @@ In the late eighteenth century, the Islands were dubbed "the French Isles". Weal
 
 20th century
 
-Bunker_in_Alderney.JPGs, built during the Second World War, are presently scattered throughout the landscape of the Channel Islands]]
+s, built during the Second World War, are presently scattered throughout the landscape of the Channel Islands]]
 
 World War II
 
-VEGA_Royal_Square_Jersey.jpg, a stonemason repairing the paving of the Royal Square incorporated a V for victory under the noses of the occupiers. This was later amended to refer to the Red Cross ship _Vega_. The addition of the date 1945 and a more recent frame has transformed it into a monument.]]
+, a stonemason repairing the paving of the Royal Square incorporated a V for victory under the noses of the occupiers. This was later amended to refer to the Red Cross ship _Vega_. The addition of the date 1945 and a more recent frame has transformed it into a monument.]]
 
 The islands were the only part of the British Isles to be occupied by the German Army during World War II.
 
@@ -130,7 +128,7 @@ The British Government demilitarised the islands in June 1940, and the lieutenan
 
 Before German troops landed, between 30 June and 4 July 1940, evacuation took place. Many young men had already left to join the Allied armed forces, as volunteers. 6,600 out of 50,000 left Jersey while 17,000 out of 42,000 left Guernsey.[14] Thousands of children were evacuated with their schools to England and Scotland.
 
-Channel_Islands_Liberated-_the_End_of_German_Occupation,_Channel_Islands,_UK,_1945_D24599.jpg in 1945]]
+in 1945]]
 
 The population of Sark largely remained where they were;[15] but in Alderney, the entire population, save for six persons, left. In Alderney, the occupying Germans built four camps in which over 700 people out of a total worker population of about 6,000 died. Due to the destruction of documents, it is impossible to state how many forced workers died in the other islands.[16] Alderney had the only Nazi concentration camps on British soil.[17][18]
 
@@ -158,8 +156,6 @@ A bailiwick is a territory administered by a bailiff. Although the words derive 
 In the early part of the twenty-first century, the existence of governmental offices such as the bailiffs' which incorporate multiple roles straddling the different branches of Government came under increased scrutiny for their apparent contravention of the doctrine of separation of powers—most notably in the Guernsey case of _McGonnell -v- United Kingdom_ (2000) 30 EHRR 289, which following final judgement at the European Court of Human Rights became part of the impetus for much recent constitutional change, particularly the Constitutional Reform Act 2005 (2005 c.4) in the UK itself, including the separation of the roles of the Lord Chancellor, the abolition of the House of Lords' judicial role, and its replacement by the UK Supreme Court. The Islands' bailiffs, however, still retain their historic roles.
 
 The systems of government in the Islands date from Norman times, which accounts for the names of the legislatures, the States, derived from the Norman 'États' or 'estates' (i.e. the Crown, the Church, and the people). The States have evolved over the centuries into democratic parliaments.
-
-States_Chamber_public_entrance_Jersey.jpg
 
 The UK Parliament has power to legislate for the Islands, but Acts of Parliament do not extend to the Islands automatically. Usually, the Act gives power to extend the application of the Act to the Islands by an Order in Council, after consultation. For the most part the Islands legislate for themselves.[33] Each island has its own primary legislature, known as the States of Guernsey and the States of Jersey, with Chief Pleas in Sark and the States of Alderney – the Channel Islands are not represented in the UK Parliament. Laws passed by the States are given royal assent by The Queen in Council, to whom the islands' governments are responsible.[34]
 
@@ -207,7 +203,7 @@ Ferry services to Normandy are operated by Manche Îles Express, and services be
 
 The Isle of Sark Shipping Company operates small ferries to Sark.
 
-On 20 August 2013, Huelin-Renouf, which had operated a "lift-on lift-off" container service for 80 years between the Port of Southampton and the Port of Jersey, ceased trading.[40] Senator Alan Maclean, a Jersey politician, had previously tried to save the 90-odd jobs furnished by the company to no avail.[41] On 20 September, it was announced that Channel Island Lines would continue this service, and would purchase the MV Huelin Dispatch from Associated British Ports who in turn had purchased them from the receiver in the bankruptcy.[42] The new operator was to be funded by Rockayne Limited, a closely held association of Jersey businesspeople.[43] ATR_42-500_of_Aurigny_Air_Services_(G-HUET)_takes_off_from_Bristol_Airport,_England_8Sept2016_arp.jpg of Aurigny Air Services]]
+On 20 August 2013, Huelin-Renouf, which had operated a "lift-on lift-off" container service for 80 years between the Port of Southampton and the Port of Jersey, ceased trading.[40] Senator Alan Maclean, a Jersey politician, had previously tried to save the 90-odd jobs furnished by the company to no avail.[41] On 20 September, it was announced that Channel Island Lines would continue this service, and would purchase the MV Huelin Dispatch from Associated British Ports who in turn had purchased them from the receiver in the bankruptcy.[42] The new operator was to be funded by Rockayne Limited, a closely held association of Jersey businesspeople.[43] of Aurigny Air Services]]
 
 Air
 
@@ -238,7 +234,7 @@ The two Bailiwicks each have their own internet domain, .GG (Guernsey, Alderney,
 
 Culture
 
-Fête_d'la_Maïr_Guernesy.jpg]]
+]]
 
 The Norman language predominated in the islands until the nineteenth century, when increasing influence from English-speaking settlers and easier transport links led to Anglicisation.[45] There are four main dialects/languages of Norman in the islands, Auregnais (Alderney, extinct in late twentieth century), Dgèrnésiais (Guernsey), Jèrriais (Jersey) and Sercquiais (Sark, an offshoot of Jèrriais).[46]
 
@@ -252,7 +248,7 @@ Channel Island sportsmen and women compete in the Commonwealth Games for their r
 
 Guernsey's traditional colour for sporting and other purposes is green and Jersey's is red.[52]
 
-Crapaud_St_Helier_Jersey.jpg'' (toad) in St Helier represents the traditional nickname for Jersey people]]
+'' (toad) in St Helier represents the traditional nickname for Jersey people]]
 
 The main islanders have traditional animal nicknames:[53][54]
 

@@ -7,7 +7,7 @@ Debian has been developed openly and distributed freely according to the princip
 
 Features
 
-Debian_9.8_installer_boot_menu.png Debian_7_Installer_Language_Selection.png ]] Debian_Installer_graphical_etch.png Debian_6.0_Console_Login.png
+]]
 
 Debian has access to online repositories that contain over 51,000 packages[6] Debian officially contains only free software, but non-free software can be downloaded and installed from the Debian repositories.[7] Debian includes popular free programs such as LibreOffice,[8] Firefox web browser, Evolution mail, K3b disc burner, VLC media player, GIMP image editor, and Evince document viewer.[9] Debian is a popular choice for servers, for example as the operating system component of a LAMP stack.[10][11]
 
@@ -18,8 +18,6 @@ Debian supports Linux officially, having offered kFreeBSD for version 7 but not 
 Several flavors of the Linux kernel exist for each port. For example, the i386 port has flavors for IA-32 PCs supporting Physical Address Extension and real-time computing, for older PCs, and for x86-64 PCs.[16] The Linux kernel does not officially contain firmware without sources, although such firmware is available in non-free packages and alternative installation media.[17][18]
 
 Desktop environments
-
-XFCE_4.12.3_on_Debian_9.3.png
 
 Debian offers CD images specifically built for Xfce, the default desktop on CD, and DVD images for GNOME, KDE and others.[19] MATE is officially supported,[20] while Cinnamon support was added with Debian 8.0 Jessie.[21] Less common window managers such as Enlightenment, Openbox, Fluxbox, IceWM, Window Maker and others are available.[22]
 
@@ -77,13 +75,11 @@ Some events disturbed the project while working on Sarge, as Debian servers were
 
 Sarge and later releases (2005–present)
 
-Debian_Etch-ja.png The 3.1 Sarge release was made in June 2005. This release updated 73% of the software and included over 9,000 new packages. A new installer with a modular design, Debian-Installer, allowed installations with RAID, XFS and LVM support, improved hardware detection, made installations easier for novice users, and was translated into almost forty languages. An installation manual and release notes were in ten and fifteen languages respectively. The efforts of Skolelinux, Debian-Med and Debian-Accessibility raised the number of packages that were educational, had a medical affiliation, and ones made for people with disabilities.[77][78]
+The 3.1 Sarge release was made in June 2005. This release updated 73% of the software and included over 9,000 new packages. A new installer with a modular design, Debian-Installer, allowed installations with RAID, XFS and LVM support, improved hardware detection, made installations easier for novice users, and was translated into almost forty languages. An installation manual and release notes were in ten and fifteen languages respectively. The efforts of Skolelinux, Debian-Med and Debian-Accessibility raised the number of packages that were educational, had a medical affiliation, and ones made for people with disabilities.[77][78]
 
-Iceweasel_icon.svg logo]] In 2006, as a result of a much-publicized dispute, Mozilla software was rebranded in Debian, with Firefox forked as Iceweasel and Thunderbird as Icedove. The Mozilla Corporation stated that software with unapproved modifications could not be distributed under the Firefox trademark. Two reasons that Debian modifies the Firefox software are to change the non-free artwork and to provide security patches.[79][80] In February 2016, it was announced that Mozilla and Debian had reached an agreement and Iceweasel would revert to the name Firefox; similar agreement was anticipated for Icedove/Thunderbird.[81]
+logo]] In 2006, as a result of a much-publicized dispute, Mozilla software was rebranded in Debian, with Firefox forked as Iceweasel and Thunderbird as Icedove. The Mozilla Corporation stated that software with unapproved modifications could not be distributed under the Firefox trademark. Two reasons that Debian modifies the Firefox software are to change the non-free artwork and to provide security patches.[79][80] In February 2016, it was announced that Mozilla and Debian had reached an agreement and Iceweasel would revert to the name Firefox; similar agreement was anticipated for Icedove/Thunderbird.[81]
 
 A fund-raising experiment, Dunc-Tank, was created to solve the release cycle problem and release managers were paid to work full-time;[82] in response, unpaid developers slowed down their work and the release was delayed.[83] Debian 4.0 (Etch) was released in April 2007, featuring the x86-64 port and a graphical installer.[84] Debian 5.0 (Lenny) was released in February 2009, supporting Marvell's Orion platform and netbooks such as the Asus Eee PC.[85] The release was dedicated to Thiemo Seufer, a developer who died in a car crash.[86]
-
-Debian_6.0.2.1.png
 
 In July 2009, the policy of time-based development freezes on a two-year cycle was announced. Time-based freezes are intended to blend the predictability of time based releases with Debian's policy of feature based releases, and to reduce overall freeze time.[87] The Squeeze cycle was going to be especially short; however, this initial schedule was abandoned.[88] In September 2010, the backports service became official, providing more recent versions of some software for the stable release.[89]
 
@@ -102,7 +98,7 @@ dpkg provides the low-level infrastructure for package management.[103] The dpkg
 
 APT tools
 
-Debian_7_Aptitude_Package_Details.png to view Debian package details]] Debian-aptitude.png An Advanced Packaging Tool (APT) tool allows administering an installed Debian system to retrieve and resolve package dependencies from repositories. APT tools share dependency information and cached packages.[105]
+to view Debian package details]] An Advanced Packaging Tool (APT) tool allows administering an installed Debian system to retrieve and resolve package dependencies from repositories. APT tools share dependency information and cached packages.[105]
 
 -   The apt command itself is intended as an end user interface and enables some options better suited for interactive usage by default compared to more specialized APT tools like apt-get and apt-cache explained below.
 -   apt-get and apt-cache are command tools of the standard apt package. apt-get installs and removes packages, and apt-cache is used for searching packages and displaying package information.[106]
@@ -124,8 +120,6 @@ Richard Stallman and the Free Software Foundation have criticized the Debian pro
 
 
 Branches
-
-Debian-cd-cover1.png
 
 Three branches of Debian (also called _releases_, _distributions_ or _suites_) are regularly maintained:[127]
 
@@ -174,7 +168,7 @@ Debian Pure Blends are subsets of a Debian release configured out-of-the-box for
 
 Logo
 
-Debian-OpenLogo.svg.]] The Debian "swirl" logo was designed by Raul Silva[158][159] in 1999 as part of a contest to replace the semi-official logo that had been used.[160] The winner of the contest received an @debian.org email address, and a set of Debian 2.1 install CDs for the architecture of their choice. There has been no official statement from the Debian project on the logo's meaning, but at the time of the logo's selection, it was suggested that the logo represented the magic smoke ( or the genie ) that made computers work.[161][162][163]
+.]] The Debian "swirl" logo was designed by Raul Silva[158][159] in 1999 as part of a contest to replace the semi-official logo that had been used.[160] The winner of the contest received an @debian.org email address, and a set of Debian 2.1 install CDs for the architecture of their choice. There has been no official statement from the Debian project on the logo's meaning, but at the time of the logo's selection, it was suggested that the logo represented the magic smoke ( or the genie ) that made computers work.[161][162][163]
 
 One theory about the origin of the Debian logo is that Buzz Lightyear, the chosen character for the first named Debian release, has a swirl in his chin.[164] Stefano Zacchiroli also suggested that this swirl is the Debian one. Buzz Lightyear's swirl is a more likely candidate as the codenames for Debian are names of Toy Story characters. The developer of Debian also used to work for Pixar.[165]
 
@@ -203,7 +197,7 @@ It is possible to run graphical user interfaces on older or low-end systems, but
 
 Architecture ports
 
-HP-HP9000-C110-Workstation_21.jpg C110 PA-RISC workstation booting Debian Lenny]]
+C110 PA-RISC workstation booting Debian Lenny]]
 
 Official ports
 

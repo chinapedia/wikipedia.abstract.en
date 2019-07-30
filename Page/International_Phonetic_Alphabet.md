@@ -18,8 +18,6 @@ Extensions to the International Phonetic Alphabet for speech pathology were crea
 
 Description
 
-IPA_chart_2018.pdf
-
 The general principle of the IPA is to provide one letter for each distinctive sound (speech segment), although this practice is not followed if the sound itself is complex.[20] This means that:
 
 -   It does not normally use combinations of letters to represent single sounds, the way English does with , and , or single letters to represent multiple sounds the way represents or in English.

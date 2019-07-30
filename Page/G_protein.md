@@ -1,4 +1,4 @@
-1b9x_opm.png- transducin beta-gamma complex. Beta and gamma subunits of G-protein are shown by blue and red, respectively.]] Guanosindiphosphat_protoniert.svg]] Guanosintriphosphat_protoniert.svg]]
+- transducin beta-gamma complex. Beta and gamma subunits of G-protein are shown by blue and red, respectively.]] ]] ]]
 
 G PROTEINS, also known as GUANINE NUCLEOTIDE-BINDING PROTEINS, are a family of proteins that act as molecular switches inside cells, and are involved in transmitting signals from a variety of stimuli outside a cell to its interior. Their activity is regulated by factors that control their ability to bind to and hydrolyze guanosine triphosphate (GTP) to guanosine diphosphate (GDP). When they are bound to GTP, they are 'on', and, when they are bound to GDP, they are 'off'. G proteins belong to the larger group of enzymes called GTPases.
 
@@ -35,7 +35,7 @@ Whereas G proteins are activated by G protein-coupled receptors, they are inacti
 
 Diversity
 
-Human_Ga_protein_phylogeny.png All eukaryotes use G proteins for signaling and has evolved a large diversity of G proteins. For instance, humans encode 18 different G_(α) proteins, 5 G_(β) proteins, and 12 G_(γ) proteins.[16]
+All eukaryotes use G proteins for signaling and has evolved a large diversity of G proteins. For instance, humans encode 18 different G_(α) proteins, 5 G_(β) proteins, and 12 G_(γ) proteins.[16]
 
 
 Signaling
@@ -48,7 +48,7 @@ Different types of heterotrimeric G proteins share a common mechanism. They are 
 
 Common mechanism
 
-GPCR-Zyklus.png Receptor-activated G proteins are bound to the inner surface of the cell membrane. They consist of the G_(α) and the tightly associated G_(βγ) subunits. There are many classes of G_(α) subunits: G_(s)α (G stimulatory), G_(i)α (G inhibitory), G_(o)α (G other), G_(q/11)α, and G_(12/13)α are some examples. They behave differently in the recognition of the effector molecule, but share a similar mechanism of activation.
+Receptor-activated G proteins are bound to the inner surface of the cell membrane. They consist of the G_(α) and the tightly associated G_(βγ) subunits. There are many classes of G_(α) subunits: G_(s)α (G stimulatory), G_(i)α (G inhibitory), G_(o)α (G other), G_(q/11)α, and G_(12/13)α are some examples. They behave differently in the recognition of the effector molecule, but share a similar mechanism of activation.
 
 Activation
 

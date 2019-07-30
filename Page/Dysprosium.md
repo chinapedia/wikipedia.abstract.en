@@ -7,7 +7,7 @@ Characteristics
 
 Physical properties
 
-Dysprosium.jpg Dysprosium is a rare earth element that has a metallic, bright silver luster. It is quite soft, and can be machined without sparking if overheating is avoided. Dysprosium's physical characteristics can be greatly affected by even small amounts of impurities.[1]
+Dysprosium is a rare earth element that has a metallic, bright silver luster. It is quite soft, and can be machined without sparking if overheating is avoided. Dysprosium's physical characteristics can be greatly affected by even small amounts of impurities.[1]
 
 Dysprosium and holmium have the highest magnetic strengths of the elements,[2] especially at low temperatures.[3] Dysprosium has a simple ferromagnetic ordering at temperatures below . Above , it turns into a helical antiferromagnetic state in which all of the atomic moments in a particular basal plane layer are parallel, and oriented at a fixed angle to the moments of adjacent layers. This unusual antiferromagnetism transforms into a disordered (paramagnetic) state at .[4]
 
@@ -36,7 +36,7 @@ The resulting compound, dysprosium(III) sulfate, is noticeably paramagnetic.
 
 Compounds
 
-Dysprosium-sulfate.jpg Dysprosium halides, such as DyF₃ and DyBr₃, tend to take on a yellow color. Dysprosium oxide, also known as dysprosia, is a white powder that is highly magnetic, more so than iron oxide.[6]
+Dysprosium halides, such as DyF₃ and DyBr₃, tend to take on a yellow color. Dysprosium oxide, also known as dysprosia, is a white powder that is highly magnetic, more so than iron oxide.[6]
 
 Dysprosium combines with various non-metals at high temperatures to form binary compounds with varying composition and oxidation states +3 and sometimes +2, such as DyN, DyP, DyH₂ and DyH₃; DyS, DyS₂, Dy₂S₃ and Dy₅S₇; DyB₂, DyB₄, DyB₆ and DyB₁₂, as well as Dy₃C and Dy₂C₃.[7]
 
@@ -58,7 +58,7 @@ Due to its role in permanent magnets used for wind turbines, it has been argued 
 
 Occurrence
 
-Xenotímio1.jpeg While dysprosium is never encountered as a free element, it is found in many minerals, including xenotime, fergusonite, gadolinite, euxenite, polycrase, blomstrandine, monazite and bastnäsite, often with erbium and holmium or other rare earth elements. No dysprosium-dominant mineral (that is, with dysprosium prevailing over other rare earths in the composition) has yet been found.[15]
+While dysprosium is never encountered as a free element, it is found in many minerals, including xenotime, fergusonite, gadolinite, euxenite, polycrase, blomstrandine, monazite and bastnäsite, often with erbium and holmium or other rare earth elements. No dysprosium-dominant mineral (that is, with dysprosium prevailing over other rare earths in the composition) has yet been found.[15]
 
 In the high-yttrium version of these, dysprosium happens to be the most abundant of the heavy lanthanides, comprising up to 7–8% of the concentrate (as compared to about 65% for yttrium).[16][17] The concentration of Dy in the Earth's crust is about 5.2 mg/kg and in sea water 0.9 ng/L.[18]
 

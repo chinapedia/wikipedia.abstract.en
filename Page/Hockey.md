@@ -12,7 +12,7 @@ The word _hockey_ itself is of unknown origin. One supposition is that it is a d
 
 History
 
-Antiek_hockey.JPG]]
+]]
 
 Games played with curved sticks and a ball can be found in the histories of many cultures. In Egypt, 4000-year-old carvings feature teams with sticks and a projectile, hurling dates to before 1272 BC in Ireland, and there is a depiction from approximately 600 BC in Ancient Greece, where the game may have been called _kerētízein_ or (κερητίζειν) because it was played with a horn or horn-like stick (_kéras_, κέρας).[8] In Inner Mongolia, the Daur people have been playing _beikou_, a game similar to modern field hockey, for about 1,000 years.[9]
 
@@ -59,7 +59,7 @@ Based on ice sledge hockey, inline sledge hockey is played to the same rules as 
 
 Roller hockey (inline)
 
-Argentin_player_during_2007_rink_hockey_world_championship.jpg Inline hockey is a variation of roller hockey very similar to ice hockey, from which it is derived. Inline hockey is played by two teams, consisting of four skaters and one goalie, on a dry rink divided into two halves by a center line, with one net at each end of the rink. The game is played in three 15-minute periods with a variation of the ice hockey off-side rule. Icings are also called, but are usually referred to as illegal clearing.[18] The governing body is the IIHF, as for ice hockey, but some leagues and competitions do not follow the IIHF regulations, in particular USA Inline and Canada Inline.
+Inline hockey is a variation of roller hockey very similar to ice hockey, from which it is derived. Inline hockey is played by two teams, consisting of four skaters and one goalie, on a dry rink divided into two halves by a center line, with one net at each end of the rink. The game is played in three 15-minute periods with a variation of the ice hockey off-side rule. Icings are also called, but are usually referred to as illegal clearing.[18] The governing body is the IIHF, as for ice hockey, but some leagues and competitions do not follow the IIHF regulations, in particular USA Inline and Canada Inline.
 
 Roller hockey (quad)
 
@@ -72,7 +72,7 @@ Also known as road hockey, this is a dry-land variant of ice and roller hockey p
 
 Other forms of hockey
 
-Mapuche_Chueca-Alonso_Ovalle.jpgs playing palín, shown in _Histórica Relación del Reino de Chile_ by Alonso de Ovalle, Rome, 1646]] Other games derived from hockey or its predecessors include the following: Boxhockey1935.jpg
+s playing palín, shown in _Histórica Relación del Reino de Chile_ by Alonso de Ovalle, Rome, 1646]] Other games derived from hockey or its predecessors include the following:
 
 -   Air hockey is played indoors with a puck on an air-cushion table.
 -   Beach hockey, a variation of street hockey, is a common sight on Southern California beaches.

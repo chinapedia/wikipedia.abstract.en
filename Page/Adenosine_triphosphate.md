@@ -20,7 +20,7 @@ Chemical properties
 
 Salts of ATP can be isolated as colorless solids.[9]
 
-ATP is stable in aqueous solutions between pH 6.8 and 7.4, in the absence of catalysts. At more extreme pHs, it rapidly hydrolyses to ADP and phosphate. Living cells maintain the ratio of ATP to ADP at a point ten orders of magnitude from equilibrium, with ATP concentrations fivefold higher than the concentration of ADP.[10][11] In the context of biochemical reactions, the P-O-P bonds are frequently referred to as _high-energy bonds_.[12] ATP-ADP.svg
+ATP is stable in aqueous solutions between pH 6.8 and 7.4, in the absence of catalysts. At more extreme pHs, it rapidly hydrolyses to ADP and phosphate. Living cells maintain the ratio of ATP to ADP at a point ten orders of magnitude from equilibrium, with ATP concentrations fivefold higher than the concentration of ADP.[10][11] In the context of biochemical reactions, the P-O-P bonds are frequently referred to as _high-energy bonds_.[12]
 
 The hydrolysis of ATP into ADP and inorganic phosphate releases 30.5 kJ/mol of enthalpy, with a change in free energy of 3.4 kJ/mol.[13] The energy released by cleaving either a phosphate (P_(i)) or pyrophosphate (PP_(i)) unit from ATP at standard state of 1 M are:[14]
 
@@ -32,7 +32,7 @@ These abbreviated equations can be written more explicitly (R = adenosyl):
     [RO-P(O)₂-O-P(O)₂-O-PO₃]^(4−) + → [RO-P(O)₂-O-PO₃]^(3−) + [PO₄]^(3−) + 2 H⁺
     [RO-P(O)₂-O-P(O)₂-O-PO₃]^(4−) + → [RO-PO₃]^(2−) + [O₃P-O-PO₃]^(4−) + 2 H⁺
 
-MgATP2-small.gif-ATP chelate with a charge of −2. The anion was optimized at the UB3LYP/6-311++G(d,p) theoretical level and the atomic connectivity modified by the human optimizer to reflect the probable electronic structure.]]
+-ATP chelate with a charge of −2. The anion was optimized at the UB3LYP/6-311++G(d,p) theoretical level and the atomic connectivity modified by the human optimizer to reflect the probable electronic structure.]]
 
 
 Production from AMP and ADP
@@ -113,7 +113,7 @@ The total quantity of ATP in the human body is about 0.2 moles. The majority of
 
 The energy used by human cells requires the hydrolysis of 100 to 150 moles of ATP daily, which is around 50 to 75 kg. A human will typically use up his or her body weight of ATP over the course of the day. Each equivalent of ATP is recycled 500-750 times during a single day ( 500}}).
 
-Rossmann-fold-1g5q.png of a decarboxylase enzyme from the bacterium _Staphylococcus epidermidis_ () with a bound flavin mononucleotide cofactor.]]
+of a decarboxylase enzyme from the bacterium _Staphylococcus epidermidis_ () with a bound flavin mononucleotide cofactor.]]
 
 
 Biochemical functions

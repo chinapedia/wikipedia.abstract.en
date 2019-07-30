@@ -1,4 +1,4 @@
-_Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg]] The DECLARATION OF THE RIGHTS OF MAN AND OF THE CITIZEN (), set by France's National Constituent Assembly in 1789, is a human civil rights document from the French Revolution.[1]
+]] The DECLARATION OF THE RIGHTS OF MAN AND OF THE CITIZEN (), set by France's National Constituent Assembly in 1789, is a human civil rights document from the French Revolution.[1]
 
 The Declaration was drafted by the Abbé Sieyès and the Marquis de Lafayette, in consultation with Thomas Jefferson.[2] Influenced by the doctrine of "natural right", the rights of man are held to be universal: valid at all times and in every place, pertaining to human nature itself. It became the basis for a nation of free individuals protected equally by the law. It is included in the beginning of the constitutions of both the Fourth French Republic (1946) and Fifth Republic (1958) and is still current. Inspired by the Enlightenment philosophers, the Declaration was a core statement of the values of the French Revolution and had a major impact on the development of freedom and democracy in Europe and worldwide.[3]
 
@@ -14,7 +14,7 @@ The last article of the Declaration of the Rights of Man and the Citizen was ado
 
 Philosophical and theoretical context
 
-Déclaration_des_droits_de_l'Homme_-_Musée_de_la_Révolution_française.jpg)]]
+)]]
 
 The concepts in the Declaration come from the philosophical and political duties of the Enlightenment, such as individualism, the social contract as theorized by the Genevan philosopher Rousseau, and the separation of powers espoused by the Baron de Montesquieu. As can be seen in the texts, the French declaration was heavily influenced by the political philosophy of the Enlightenment and principles of human rights as was the U.S. Declaration of Independence which preceded it (4 July 1776).
 

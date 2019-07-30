@@ -41,8 +41,6 @@ A number of theories have been proposed regarding Avicenna's madhab (school of t
 
 Adulthood
 
-Avicenna.jpg
-
 Avicenna's first appointment was that of physician to the emir, Nuh II, who owed him his recovery from a dangerous illness (997). Ibn Sina's chief reward for this service was access to the royal library of the Samanids, well-known patrons of scholarship and scholars. When the library was destroyed by fire not long after, the enemies of Ibn Sina accused him of burning it, in order for ever to conceal the sources of his knowledge. Meanwhile, he assisted his father in his financial labors, but still found time to write some of his earliest works.[38]
 
 At 22 years old, Avicenna lost his father. The Samanid dynasty came to its end in December 1004. Avicenna seems to have declined the offers of Mahmud of Ghazni, and proceeded westwards to Urgench in modern Turkmenistan, where the vizier, regarded as a friend of scholars, gave him a small monthly stipend. The pay was small, however, so Ibn Sina wandered from place to place through the districts of Nishapur and Merv to the borders of Khorasan, seeking an opening for his talents. Qabus, the generous ruler of Tabaristan, himself a poet and a scholar, with whom Ibn Sina had expected to find asylum, was on about that date (1012) starved to death by his troops who had revolted. Avicenna himself was at this time stricken by a severe illness. Finally, at Gorgan, near the Caspian Sea, Avicenna met with a friend, who bought a dwelling near his own house in which Avicenna lectured on logic and astronomy. Several of his treatises were written for this patron; and the commencement of his _Canon of Medicine_ also dates from his stay in Hyrcania.[39]
@@ -53,7 +51,7 @@ Meanwhile, he had written to Abu Ya'far, the prefect of the dynamic city of Isfa
 
 Later life and death
 
-Avicenna_canon_1597.jpg Gravestone_of_Avicenna.jpg, Iran]] The remaining ten or twelve years of Ibn Sīnā's life were spent in the service of the Kakuyid ruler Muhammad ibn Rustam Dushmanziyar (also known as Ala al-Dawla), whom he accompanied as physician and general literary and scientific adviser, even in his numerous campaigns.[42]
+, Iran]] The remaining ten or twelve years of Ibn Sīnā's life were spent in the service of the Kakuyid ruler Muhammad ibn Rustam Dushmanziyar (also known as Ala al-Dawla), whom he accompanied as physician and general literary and scientific adviser, even in his numerous campaigns.[42]
 
 During these years he began to study literary matters and philology, instigated, it is asserted, by criticisms on his style. A severe colic, which seized him on the march of the army against Hamadan, was checked by remedies so violent that Ibn Sina could scarcely stand. On a similar occasion the disease returned; with difficulty he reached Hamadan, where, finding the disease gaining ground, he refused to keep up the regimen imposed, and resigned himself to his fate.[43]
 
@@ -109,7 +107,7 @@ However, Avicenna posited the brain as the place where reason interacts with sen
 
 _The Canon of Medicine_
 
-IbnSinaCanon1.jpg.]] Avicenna authored a five-volume medical encyclopedia: _The Canon of Medicine_ (_Al-Qanun fi't-Tibb_). It was used as the standard medical textbook in the Islamic world and Europe up to the 18th century.[78][79] The _Canon_ still plays an important role in Unani medicine.[80]
+.]] Avicenna authored a five-volume medical encyclopedia: _The Canon of Medicine_ (_Al-Qanun fi't-Tibb_). It was used as the standard medical textbook in the Islamic world and Europe up to the 18th century.[78][79] The _Canon_ still plays an important role in Unani medicine.[80]
 
 
 _Liber Primus Naturalium_
@@ -181,7 +179,7 @@ Legacy
 
 Middle Ages and Renaissance
 
-Avicenna_Mausoleum_interior.jpg in 1945–1950]]
+in 1945–1950]]
 
 As early as the 13th century when Dante Alighieri depicted him in Limbo alongside the virtuous non-Christian thinkers in his _Divine Comedy_ such as Virgil, Averroes, Homer, Horace, Ovid, Lucan, Socrates, Plato, and Saladin. Avicenna has been recognized by both East and West, as one of the great figures in intellectual history.
 
@@ -191,15 +189,15 @@ Along with Rhazes, Abulcasis, Ibn al-Nafis, and al-Ibadi, Ibn Sīnā is consider
 
 Modern reception
 
-In present-day Iran, Afghanistan and Tajikistan, he is considered a national icon, and is often regarded as among the greatest Persians. A monument was erected outside the Bukhara museum. The Avicenna Mausoleum and Museum in Hamadan was built in 1952. Bu-Ali Sina University in Hamadan (Iran), the biotechnology Avicenna Research Institute in Tehran (Iran), the _ibn Sīnā_ Tajik State Medical University in Dushanbe, Ibn Sina Academy of Medieval Medicine and Sciences at Aligarh, India, Avicenna School in Karachi and Avicenna Medical College in Lahore, Pakistan,[120] Ibne Sina Balkh Medical School in his native province of Balkh in Afghanistan, Ibni Sina Faculty Of Medicine of Ankara University Ankara, Turkey, the main classroom building (the Avicenna Building) of the Sharif University of Technology, and Ibn Sina Integrated School in Marawi City (Philippines) are all named in his honour. His portrait hangs in the Hall of the Avicenna Faculty of Medicine in the University of Paris. There is a crater on the Moon named Avicenna and a mangrove genus _Avicennia_. Monument_Avicenna_in_Qakh.JPG, Azerbaijan]] Avicenna_statue.jpg, Tehran, Iran]]
+In present-day Iran, Afghanistan and Tajikistan, he is considered a national icon, and is often regarded as among the greatest Persians. A monument was erected outside the Bukhara museum. The Avicenna Mausoleum and Museum in Hamadan was built in 1952. Bu-Ali Sina University in Hamadan (Iran), the biotechnology Avicenna Research Institute in Tehran (Iran), the _ibn Sīnā_ Tajik State Medical University in Dushanbe, Ibn Sina Academy of Medieval Medicine and Sciences at Aligarh, India, Avicenna School in Karachi and Avicenna Medical College in Lahore, Pakistan,[120] Ibne Sina Balkh Medical School in his native province of Balkh in Afghanistan, Ibni Sina Faculty Of Medicine of Ankara University Ankara, Turkey, the main classroom building (the Avicenna Building) of the Sharif University of Technology, and Ibn Sina Integrated School in Marawi City (Philippines) are all named in his honour. His portrait hangs in the Hall of the Avicenna Faculty of Medicine in the University of Paris. There is a crater on the Moon named Avicenna and a mangrove genus _Avicennia_. , Azerbaijan]] , Tehran, Iran]]
 
 In 1980, the Soviet Union, which then ruled his birthplace Bukhara, celebrated the thousandth anniversary of Avicenna's birth by circulating various commemorative stamps with artistic illustrations, and by erecting a bust of Avicenna based on anthropological research by Soviet scholars.[121] Near his birthplace in Qishlak Afshona, some north of Bukhara, a training college for medical staff has been named for him. On the grounds is a museum dedicated to his life, times and work.[122]
 
-TajikistanP17-20Somoni-1999(2000)-donatedsb_f.jpg]] The Avicenna Prize, established in 2003, is awarded every two years by UNESCO and rewards individuals and groups for their achievements in the field of ethics in science.[123] The aim of the award is to promote ethical reflection on issues raised by advances in science and technology, and to raise global awareness of the importance of ethics in science.
+]] The Avicenna Prize, established in 2003, is awarded every two years by UNESCO and rewards individuals and groups for their achievements in the field of ethics in science.[123] The aim of the award is to promote ethical reflection on issues raised by advances in science and technology, and to raise global awareness of the importance of ethics in science.
 
 The Avicenna Directories (2008–15; now the World Directory of Medical Schools) list universities and schools where doctors, public health practitioners, pharmacists and others, are educated. The original project team stated "Why Avicenna? Avicenna ... was ... noted for his synthesis of knowledge from both east and west. He has had a lasting influence on the development of medicine and health sciences. The use of Avicenna's name symbolises the worldwide partnership that is needed for the promotion of health services of high quality."[124]
 
-Persian_Scholar_pavilion_in_Viena_UN_(Avicenna).jpg as a part of the Persian Scholars Pavilion donated by Iran]] In June 2009, Iran donated a "Persian Scholars Pavilion" to United Nations Office in Vienna which is placed in the central Memorial Plaza of the Vienna International Center.[125] The "Persian Scholars Pavilion" at United Nations in Vienna, Austria is featuring the statues of four prominent Iranian figures. Highlighting the Iranian architectural features, the pavilion is adorned with Persian art forms and includes the statues of renowned Iranian scientists Avicenna, Al-Biruni, Zakariya Razi (Rhazes) and Omar Khayyam.[126][127]
+as a part of the Persian Scholars Pavilion donated by Iran]] In June 2009, Iran donated a "Persian Scholars Pavilion" to United Nations Office in Vienna which is placed in the central Memorial Plaza of the Vienna International Center.[125] The "Persian Scholars Pavilion" at United Nations in Vienna, Austria is featuring the statues of four prominent Iranian figures. Highlighting the Iranian architectural features, the pavilion is adorned with Persian art forms and includes the statues of renowned Iranian scientists Avicenna, Al-Biruni, Zakariya Razi (Rhazes) and Omar Khayyam.[126][127]
 
 The 1982 Soviet film _Youth of Genius_ () by recounts Avicenna's younger years. The film is set in Bukhara at the turn of the millennium.[128]
 

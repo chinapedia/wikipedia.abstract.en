@@ -7,7 +7,7 @@ History
 
 Foundation
 
-Heinz_Baked_Beans_with_Tomato_Sauce_trade_card_back.jpgCommercial._For_Heinz_Company._Tousignant_&_Frère,_4835,_rue_Wellington_BAnQ_P48S1P10257.jpg, 1944]]
+, 1944]]
 
 Heinz was founded by and is named for Henry J. Heinz, who was born in the United States to German immigrants. His father was originally from Kallstadt (then in Bavaria, now part of Rhineland-Palatinate). His mother Anna was also from Bavaria, and they met in Pittsburgh.
 
@@ -33,7 +33,7 @@ In 1959, long-time Heinz employee Frank Armour Jr. was elected president[20] and
 
 In 1969, Tony O'Reilly joined the company's UK subsidiary, soon becoming its managing director. He moved to Pittsburgh in 1971 when he was promoted to Senior Vice President for the North America and Pacific region. By 1973, board members Robert Burt Gookin and Jack Heinz selected him as COO and President. He became CEO in 1979 and chairman in 1987.
 
-Heinz_oven-baked_beans_newspaper.png Between 1981 and 1991, Heinz returned 28% annually, doubling the Standard & Poor's average annual return for those years.[22] By 2000, the consolidation of grocery store chains, the spread of retailers such as Walmart, and growth of private-label brands caused competition for shelf space, and put price pressure on the company's products.[23] The decline was also attributed to an inadequate response to broad demographic changes in the United States, particularly the growth in population among Hispanic and increased spending power of African Americans.[24]
+Between 1981 and 1991, Heinz returned 28% annually, doubling the Standard & Poor's average annual return for those years.[22] By 2000, the consolidation of grocery store chains, the spread of retailers such as Walmart, and growth of private-label brands caused competition for shelf space, and put price pressure on the company's products.[23] The decline was also attributed to an inadequate response to broad demographic changes in the United States, particularly the growth in population among Hispanic and increased spending power of African Americans.[24]
 
 On April 4, 1991, former U.S. Senator Henry John Heinz III, the third-generation successor to the Heinz fortune, and six other people were killed when a Bell 412 helicopter and a Piper Aerostar with Heinz aboard collided in mid-air above Merion Elementary School in Lower Merion Township, Pennsylvania.[25] His fortune passed to his wife, Teresa Heinz.
 
@@ -93,7 +93,7 @@ In 2000, seven retailers, including Walmart, Albertsons, and Safeway, comprised 
 
 Australia
 
-Heinz-Watties_factory_in_Bomen.jpg, New South Wales.]] Heinz Australia's head office is located in Melbourne.[47] Products include canned baked beans in tomato sauce (popularized in the "beanz meanz Heinz" advertising campaign), spaghetti in a similar sauce, and canned soup, condensed soup, and "ready to eat" soups.[48]
+, New South Wales.]] Heinz Australia's head office is located in Melbourne.[47] Products include canned baked beans in tomato sauce (popularized in the "beanz meanz Heinz" advertising campaign), spaghetti in a similar sauce, and canned soup, condensed soup, and "ready to eat" soups.[48]
 
 Heinz manufactures "Big Red" tomato sauce, and a number of flavored baked bean varieties, as well as canned meals. Heinz also markets the Wattie's brand of canned foods, which are made in New Zealand.
 
@@ -105,7 +105,7 @@ On January 6, 2012, Heinz closed its tomato sauce factory in Girgarre as announc
 
 Canada
 
-Highbury_Canco_Leamington_01.jpg Heinz was established in Canada in 1908 in a former tobacco factory in Leamington, Ontario (known as the Tomato Capital of Canada). Most products shipped from Leamington have bilingual English and French labels for distribution throughout Canada, but a substantial amount of product is sent from there to the US. Ketchup is the main product produced there, and the city has been a center of tomato production. The factory also produces Canada Fancy (Grade A) tomato juice, mustard, vinegar, baby food, barbecue sauces, canned pastas, beans, pasta sauces, gravies and soups. Heinz Canada is the major supplier of single-serving and flexible-packaging condiments for most fast food chains in Canada. Leamington is the largest tomato-processing region per acreage in the world. The Leamington plant usually processes more than 250,000 tons of tomatoes per year. Heinz Canada's head office is in North York, Ontario; it also has operations in St. Marys, Ontario; Montreal, Quebec; and Calgary, Alberta.
+Heinz was established in Canada in 1908 in a former tobacco factory in Leamington, Ontario (known as the Tomato Capital of Canada). Most products shipped from Leamington have bilingual English and French labels for distribution throughout Canada, but a substantial amount of product is sent from there to the US. Ketchup is the main product produced there, and the city has been a center of tomato production. The factory also produces Canada Fancy (Grade A) tomato juice, mustard, vinegar, baby food, barbecue sauces, canned pastas, beans, pasta sauces, gravies and soups. Heinz Canada is the major supplier of single-serving and flexible-packaging condiments for most fast food chains in Canada. Leamington is the largest tomato-processing region per acreage in the world. The Leamington plant usually processes more than 250,000 tons of tomatoes per year. Heinz Canada's head office is in North York, Ontario; it also has operations in St. Marys, Ontario; Montreal, Quebec; and Calgary, Alberta.
 
 On November 14, 2013, Heinz announced that the Leamington facility, the second-largest in the company, would close sometime in May 2014. Ketchup processing operations were to be consolidated at the company's US locations. Over 800 local jobs were lost due to the town's largest employer ending operations there. A local effort began in an attempt to save the 105-year-old Leamington plant, and it included creating a Facebook page to gather support.[58] On February 27, 2014 the Highbury Canco Corporation signed a letter of intent to acquire and operate the facility.[59] In April it was reported that Highbury Canco Corporation had received a one-year license to process tomatoes at the facility, saving some 250 jobs.[60]
 
@@ -117,7 +117,7 @@ Heinz Ketchup is available in India in two varieties, the standard Tomato Ketchu
 
 Indonesia
 
-ABC_Sambal_Asli.jpg H. J. Heinz Company entered Indonesia in 1999, when it acquired 65 percent share of PT. ABC Central Food, for US$70 million, and formed PT. Heinz ABC Indonesia.[67][68] The company is based in Jakarta, and manufactures sauces, condiments, juices and syrups.[69]
+H. J. Heinz Company entered Indonesia in 1999, when it acquired 65 percent share of PT. ABC Central Food, for US$70 million, and formed PT. Heinz ABC Indonesia.[67][68] The company is based in Jakarta, and manufactures sauces, condiments, juices and syrups.[69]
 
 Serving demand from Indonesia's large population and growing economy, in the early 21st century PT. Heinz ABC Indonesia is the largest Heinz's business in Asia, and one of the largest in the world. It employs 3000 employees, has 3 production facilities, 8 packing facilities, and an extensive distribution network in Java and other parts of Indonesia.[70] Their leading products are Syrup ABC (fruit syrup), Kecap ABC (sweet soy sauce), and Sambal ABC (hot chili sauce).[71]
 
@@ -127,7 +127,7 @@ Heinz sells many products in the Netherlands; the Elst factory in Gelderland is 
 
 United Kingdom
 
-Cape_Cornwall_(Judithili)_edit.jpg, visible in the centre) commemorates the purchase of Cape Cornwall for the nation by H. J. Heinz Company. The ruins of St. Helens Oratory can be seen on the left, with the two offshore rocks called.The Brisons in the distance.]]
+, visible in the centre) commemorates the purchase of Cape Cornwall for the nation by H. J. Heinz Company. The ruins of St. Helens Oratory can be seen on the left, with the two offshore rocks called.The Brisons in the distance.]]
 
 The UK headquarters moved from Hayes to the Shard in London. After opening its first overseas office in London in 1896, the company opened its first UK factory in Peckham, south London in 1905. This was followed by a factory at Harlesden, north-west London in 1919. Bombed twice in World War 2, this factory remained in production until 2000.[75] Production was started at a former munitions factory at Standish near Wigan in 1946, before the new factory at Kitt Green, near Wigan, opened in 1959. Heinz also had an infant food factory in Kendal, Cumbria. The site specialized in baby milks, previously under the brand of Farley's, but then manufactured under the name Heinz Nurture.
 

@@ -13,14 +13,14 @@ Almonds begin bearing an economic crop in the third year after planting. Trees r
 
 Drupe
 
-Almonds_from_Le_petit_jardin_(3).jpg The almond fruit is long. In botanical terms, it is not a nut but a drupe. The outer covering or exocarp, fleshy in other members of _Prunus_ such as the plum and cherry, is instead a thick, leathery, grey-green coat (with a downy exterior), called the hull. Inside the hull is a reticulated, hard, woody shell (like the outside of a peach pit) called the endocarp. Inside the shell is the edible seed, commonly called a nut. Generally, one seed is present, but occasionally two occur. After the fruit matures, the hull splits and separates from the shell, and an abscission layer forms between the stem and the fruit so that the fruit can fall from the tree.[10]
+The almond fruit is long. In botanical terms, it is not a nut but a drupe. The outer covering or exocarp, fleshy in other members of _Prunus_ such as the plum and cherry, is instead a thick, leathery, grey-green coat (with a downy exterior), called the hull. Inside the hull is a reticulated, hard, woody shell (like the outside of a peach pit) called the endocarp. Inside the shell is the edible seed, commonly called a nut. Generally, one seed is present, but occasionally two occur. After the fruit matures, the hull splits and separates from the shell, and an abscission layer forms between the stem and the fruit so that the fruit can fall from the tree.[10]
 
 File:Green almonds.jpg|Green almonds File:Mandel Gr 99.jpg|Almond in shell and shelled File:Blanched_almonds.jpg|Blanched almonds File:Almond shelled-01.JPG|Shelled Almond File:Almond goodies.JPG|Almond confections
 
 
 Origin and history
 
-Baburnama_illustration.jpg depiction of the almond harvest at Qand-i Badam, Fergana Valley (16th Century)[11]]] The almond is native to Iran and surrounding countries[12][13][14] as well as Central Asia.[15] It was spread by humans in ancient times along the shores of the Mediterranean into northern Africa and southern Europe, and more recently transported to other parts of the world, notably California, United States.[16] The wild form of domesticated almond grows in parts of the Levant.[17]
+depiction of the almond harvest at Qand-i Badam, Fergana Valley (16th Century)[11]]] The almond is native to Iran and surrounding countries[12][13][14] as well as Central Asia.[15] It was spread by humans in ancient times along the shores of the Mediterranean into northern Africa and southern Europe, and more recently transported to other parts of the world, notably California, United States.[16] The wild form of domesticated almond grows in parts of the Levant.[17]
 
 Selection of the sweet type from the many bitter types in the wild marked the beginning of almond domestication.[18] It is unclear as to which wild ancestor of the almond created the domesticated species. The species _Prunus fenzliana_ may be the most likely wild ancestor of the almond in part because it is native of Armenia and western Azerbaijan where it was apparently domesticated. Wild almond species were grown by early farmers, "at first unintentionally in the garbage heaps, and later intentionally in their orchards".[19]
 
@@ -106,8 +106,6 @@ Australia is the largest almond production region in the Southern Hemisphere. Mo
 
 Sweet and bitter almonds
 
-Almond_blossom02_aug_2007.jpg Rose_ringed_Parakeet_in_bitter_Almond.jpg
-
 The seeds of _Prunus dulcis_ var. _dulcis_ are predominantly sweet[50][51] but some individual trees produce seeds that are somewhat more bitter. The genetic basis for bitterness involves a single gene, the bitter flavor furthermore being recessive,[52][53] both aspects making this trait easier to domesticate. The fruits from _Prunus dulcis_ var. _amara_ are always bitter, as are the kernels from other species of genus _Prunus_, such as apricot, peach and cherry (although to a lesser extent).
 
 Amygdalin and cyanide
@@ -120,8 +118,6 @@ All commercially grown almonds sold as food in the United States are sweet culti
 
 
 Culinary uses
-
-Smoked_almonds.JPG Almond-Badam-001.jpg Marzipanfrüchte.jpg
 
 While the almond is often eaten on its own, raw or toasted, it is also a component of various dishes. Almonds are available in many forms, such as whole, sliced (flaked, slivered), and as flour. Almond pieces around 2–3 mm in size, called "nibs", are used for special purposes such as decoration.[62] Almonds yield almond oil and can also be made into almond butter or almond milk. These products can be used in both sweet and savoury dishes.
 
@@ -172,8 +168,6 @@ Almonds may cause allergy or intolerance. Cross-reactivity is common with peach 
 
 
 Oils
-
-SweetAlmondOil.png
 
 Almonds are a rich source of oil, with 50% of kernel dry mass as fat (whole almond nutrition table). In relation to total dry mass of the kernel, almond oil contains 32% monounsaturated oleic acid (an omega-9 fatty acid), 13% linoleic acid (a polyunsaturated omega-6 essential fatty acid), and 10% saturated fatty acid (mainly as palmitic acid, USDA link in table). Linolenic acid, a polyunsaturated omega-3 fat, is not present (table). Almond oil is a rich source of vitamin E, providing 261% of the Daily Value per 100 ml (table).
 

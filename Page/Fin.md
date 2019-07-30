@@ -1,4 +1,4 @@
-Trailing_edge_NACA_0012.svg that provide lift or thrust, or provide the ability to steer or stabilize motion in water or air}}]]
+that provide lift or thrust, or provide the ability to steer or stabilize motion in water or air}}]]
 
 A FIN is a thin component or appendage attached to a larger body or structure. Fins typically function as foils that produce lift or thrust, or provide the ability to steer or stabilize motion while traveling in water, air, or other fluids. Fins are also used to increase surface areas for heat transfer purposes, or simply as ornamentation.[1][2]
 
@@ -18,13 +18,13 @@ Fish use multiple fins, so it is possible that a given fin can have a hydrodynam
 
 Controlling motion
 
-Orca_porpoising.jpg, to generate thrust and control the subsequent motion [16][17]
+, to generate thrust and control the subsequent motion [16][17]
 
 ]]
 
 Once motion has been established, the motion itself can be controlled with the use of other fins.[18][19][20] Boats control direction (yaw) with fin-like rudders, and roll with stabilizer fins and keel fins.[21] Airplanes achieve similar results with small specialised fins that change the shape of their wings and tail fins.[22]
 
-Great_white_shark,_Carcharodon_carcharias.jpg]]
+]]
 
 Stabilising fins are used as fletching on arrows and some darts,[23] and at the rear of some bombs, missiles, rockets, and self-propelled torpedoes.[24][25] These are typically planar and shaped like small wings, although grid fins are sometimes used.[26] Static fins have also been used for one satellite, GOCE.
 
@@ -45,7 +45,6 @@ The bodies of reef fishes are often shaped differently from open water fishes. O
 
 Evolution of fins
 
-Lampanyctodes_hectoris_(fins).png
 (1) pectoral fins (paired), (2) pelvic fins (paired), (3) dorsal fin, (4) adipose fin, (5) anal fin, (6) caudal (tail) fin
 
 ]]
@@ -54,7 +53,7 @@ There is an old theory, which has been often disregarded in science textbooks, "
 
 Fish are the ancestors of all mammals, reptiles, birds and amphibians.[41] In particular, terrestrial tetrapods (four-legged animals) evolved from fish and made their first forays onto land 400 million years ago. They used paired pectoral and pelvic fins for locomotion. The pectoral fins developed into forelegs (arms in the case of humans) and the pelvic fins developed into hind legs.[42] Much of the genetic machinery that builds a walking limb in a tetrapod is already present in the swimming fin of a fish.[43][44]
 
-Crossopterygii_fins_tetrapod_legs.svg and B) the walking leg of a tetrapod. Bones considered to correspond with each other have the same color.]] Ichthyosaurus_BW.jpg'' developed fins (or flippers) very similar to fish (or dolphins)]]
+and B) the walking leg of a tetrapod. Bones considered to correspond with each other have the same color.]] '' developed fins (or flippers) very similar to fish (or dolphins)]]
 
 In 2011, researchers at Monash University in Australia used primitive but still living lungfish "to trace the evolution of pelvic fin muscles to find out how the load-bearing hind limbs of the tetrapods evolved."[45][46] Further research at the University of Chicago found bottom-walking lungfishes had already evolved characteristics of the walking gaits of terrestrial tetrapods.[47][48]
 
@@ -71,7 +70,7 @@ The biologist Stephen Jay Gould said the ichthyosaur was his favorite example of
 
 Robotic fins
 
-RobotFishCharlie.jpg built a robotic catfish called _Charlie_ to test the feasibility of unmanned underwater vehicles]]
+built a robotic catfish called _Charlie_ to test the feasibility of unmanned underwater vehicles]]
 
 The use of fins for the propulsion of aquatic animals can be remarkably effective. It has been calculated that some fish can achieve a propulsive efficiency greater than 90%.[59] Fish can accelerate and maneuver much more effectively than boats or submarine, and produce less water disturbance and noise. This has led to biomimetic studies of underwater robots which attempt to emulate the locomotion of aquatic animals.[60] An example is the Robot Tuna built by the Institute of Field Robotics, to analyze and mathematically model thunniform motion.[61] In 2005, the Sea Life London Aquarium displayed three robotic fish created by the computer science department at the University of Essex. The fish were designed to be autonomous, swimming around and avoiding obstacles like real fish. Their creator claimed that he was trying to combine "the speed of tuna, acceleration of a pike, and the navigating skills of an eel."[62][63][64]
 

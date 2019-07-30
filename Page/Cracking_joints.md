@@ -7,7 +7,7 @@ The cracking mechanism and the resulting sound is caused by carbon dioxide cavit
 
 Causes
 
-Real-Time-Visualization-of-Joint-Cavitation-pone.0119470.s002.ogv of a cracking finger joint, visualizing cavitation.]]
+of a cracking finger joint, visualizing cavitation.]]
 
 For many decades, the physical mechanism that causes the cracking sound as a result of bending, twisting, or compressing joints was uncertain. Suggested causes included:
 

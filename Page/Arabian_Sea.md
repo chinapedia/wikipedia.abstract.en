@@ -5,17 +5,15 @@ The Arabian Sea has been crossed by many important marine trade routes since the
 
 Geography
 
-Arabian_Sea_-_October_2012.jpg The Arabian Sea's surface area is about .[3] The maximum width of the Sea is approximately , and its maximum depth is . The biggest river flowing into the Sea is the Indus River.
+The Arabian Sea's surface area is about .[3] The maximum width of the Sea is approximately , and its maximum depth is . The biggest river flowing into the Sea is the Indus River.
 
 The Arabian Sea has two important branches — the Gulf of Aden in the southwest, connecting with the Red Sea through the strait of Bab-el-Mandeb; and the Gulf of Oman to the northwest, connecting with the Persian Gulf. There are also the gulfs of Khambhat and Kutch on the Indian Coast.
 
-PeriplusAncientMap.jpg The countries with coastlines on the Arabian Sea are Somalia, Yemen, Oman, Pakistan, India and the Maldives. There are several large cities on the sea's coast including Male, Kavaratti, Cape Comorin (Kanyakumari), Colachel, Kovalam, Thiruvananthapuram, Kollam, Alappuzha, Kochi, Kozhikode, Kannur, Kasaragod, Mangalore, Bhatkal, Karwar, Vasco, Panjim, Malvan, Ratnagiri, Alibag, Mumbai, Daman, Valsad, Surat, Bharuch, Khambhat, Bhavnagar, Diu, Somnath, Mangrol, Porbandar, Dwarka, Okha, Jamnagar, Kandla, Gandhidham, Mundra, Koteshwar, Keti Bandar, Karachi, Ormara, Pasni, Gwadar, Chabahar, Muscat, Duqm, Salalah, Al Ghaydah, Aden, Bargal, and Hafun.
+The countries with coastlines on the Arabian Sea are Somalia, Yemen, Oman, Pakistan, India and the Maldives. There are several large cities on the sea's coast including Male, Kavaratti, Cape Comorin (Kanyakumari), Colachel, Kovalam, Thiruvananthapuram, Kollam, Alappuzha, Kochi, Kozhikode, Kannur, Kasaragod, Mangalore, Bhatkal, Karwar, Vasco, Panjim, Malvan, Ratnagiri, Alibag, Mumbai, Daman, Valsad, Surat, Bharuch, Khambhat, Bhavnagar, Diu, Somnath, Mangrol, Porbandar, Dwarka, Okha, Jamnagar, Kandla, Gandhidham, Mundra, Koteshwar, Keti Bandar, Karachi, Ormara, Pasni, Gwadar, Chabahar, Muscat, Duqm, Salalah, Al Ghaydah, Aden, Bargal, and Hafun.
 
-Mumbai_03-2016_46_evening_at_Marine_Drive.jpg at evening]]
+at evening]]
 
-Bekalfortbeach.JPG, Kerala]]
-
-Ormara_West_Beach.jpg
+, Kerala]]
 
 Limits
 
@@ -34,13 +32,13 @@ The Arabian Sea historically and geographically has been referred to by many dif
 
 Trade routes
 
-The Arabian Sea has been an important marine trade route since the era of the _coastal sailing vessels_ from possibly as early as the 3rd millennium BCE, certainly the late 2nd millennium BCE through the later days known as the Age of Sail. By the time of Julius Caesar, several well-established combined land-sea trade routes depended upon water transport through the Sea around the rough inland terrain features to its north. Periplous_of_the_Erythraean_Sea.svg These routes usually began in the Far East or down river from Madhya Pradesh with transshipment via historic Bharuch (Bharakuccha), traversed past the inhospitable coast of today's Iran then split around Hadhramaut into two streams north into the Gulf of Aden and thence into the Levant, or south into Alexandria via Red Sea ports such as Axum. Each major route involved transhipping to pack animal caravan, travel through desert country and risk of bandits and extortionate tolls by local potentates.
+The Arabian Sea has been an important marine trade route since the era of the _coastal sailing vessels_ from possibly as early as the 3rd millennium BCE, certainly the late 2nd millennium BCE through the later days known as the Age of Sail. By the time of Julius Caesar, several well-established combined land-sea trade routes depended upon water transport through the Sea around the rough inland terrain features to its north. These routes usually began in the Far East or down river from Madhya Pradesh with transshipment via historic Bharuch (Bharakuccha), traversed past the inhospitable coast of today's Iran then split around Hadhramaut into two streams north into the Gulf of Aden and thence into the Levant, or south into Alexandria via Red Sea ports such as Axum. Each major route involved transhipping to pack animal caravan, travel through desert country and risk of bandits and extortionate tolls by local potentates.
 
 This southern coastal route past the rough country in the southern Arabian Peninsula (Yemen and Oman today) was significant, and the Egyptian Pharaohs built several shallow canals to service the trade, one more or less along the route of today's Suez canal, and another from the Red Sea to the Nile River, both shallow works that were swallowed up by huge sand storms in antiquity. Later the kingdom of Axum arose in Ethiopia to rule a mercantile empire rooted in the trade with Europe via Alexandria.
 
 Major ports
 
-Container_terminal.JPG located on the south-west coast of India is the nearest Indian port to the international shipping routes, as well as one of the largest and busiest ports serving the Arabian Sea. Seen here is the International Container Transshipment Terminal, the only such facility in India.]]
+located on the south-west coast of India is the nearest Indian port to the international shipping routes, as well as one of the largest and busiest ports serving the Arabian Sea. Seen here is the International Container Transshipment Terminal, the only such facility in India.]]
 
 The Port of Karachi is Pakistan's largest and busiest seaport. It is located between the Karachi towns of Kiamari and Saddar.
 
@@ -59,7 +57,7 @@ The Lakshadweep Islands (formerly known as the Laccadive, Minicoy, and Aminidivi
 
 Astola Island, also known as _Jezira Haft Talar_ in Balochi, or 'Island of the Seven Hills', is a small, uninhabited island in the northern tip of the Arabian Sea in Pakistan's territorial waters.
 
-Socotra_satview.jpg, a Yemeni island.]] Socotra also spelled _Soqotra_ is the largest island, being part of a small archipelago of four islands. It lies some east of the Horn of Africa and south of the Arabian Peninsula.
+, a Yemeni island.]] Socotra also spelled _Soqotra_ is the largest island, being part of a small archipelago of four islands. It lies some east of the Horn of Africa and south of the Arabian Peninsula.
 
 Masirah is an island off the East coast of Oman.
 

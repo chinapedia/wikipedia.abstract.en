@@ -1,4 +1,4 @@
-Haiti-demographie.png Although Haiti averages approximately 255 people per square kilometer (650 per sq. mi.), its population is concentrated most heavily in urban areas, coastal plains, and valleys. The majority of Haitians, 70%, are of predominantly African descent.[1] The remaining of the population is primarily mulattoes, Europeans, Asians and Arabs. Hispanic residents in Haiti are mostly Cuban and Dominican. About two thirds of the Haitian population live in rural areas.
+Although Haiti averages approximately 255 people per square kilometer (650 per sq. mi.), its population is concentrated most heavily in urban areas, coastal plains, and valleys. The majority of Haitians, 70%, are of predominantly African descent.[1] The remaining of the population is primarily mulattoes, Europeans, Asians and Arabs. Hispanic residents in Haiti are mostly Cuban and Dominican. About two thirds of the Haitian population live in rural areas.
 
 Although there was a national census taken in Haiti in 2003, much of that data has not been released to the public. Several demographic studies, including those by social work researcher Athena Kolbe, have shed light on the current status of urban residents. In 2006, households averaged 4.5 members. The median age was 25 years with a mean average age of 27 years. People aged 15 and younger counted for roughly a third of the population. Overall, 52.7 percent of the population was female.[2][3]
 
@@ -233,8 +233,6 @@ Ethnic groups
     black 95%, mixed and white 5%
 
 Age structure
-
-Haitipop.svg
 
     _0-14 years:_ 32.27% (male 1,733,920 /female 1,747,387)
     _15-24 years:_ 21.11% (male 1,139,188 /female 1,137,754)

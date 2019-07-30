@@ -55,7 +55,7 @@ The Divine Comedy also contributed most of the show's original music, including 
 
 Location
 
-Father_Ted's_House_(2016).jpg which was used for external shots of the parochial house (pictured in 2016)]] Location work for _Father Ted_ was done mostly in County Clare, including locations at Corofin, Ennis, Kilfenora, Ennistymon, and Kilnaboy. The Parochial House is McCormack's at Glenquin, on the Boston road from Kilnaboy.[16][17] The cinema featured in "The Passion of St Tibulus" was the Ormonde Cinema, Greystones, County Wicklow[18] and "The Field", the location for Funland in "'Good Luck, Father Ted'", is in Portrane, North County Dublin. The 'Very Dark Caves' featured in "The Mainland" were the Aillwee caves in the Burren, County Clare.
+which was used for external shots of the parochial house (pictured in 2016)]] Location work for _Father Ted_ was done mostly in County Clare, including locations at Corofin, Ennis, Kilfenora, Ennistymon, and Kilnaboy. The Parochial House is McCormack's at Glenquin, on the Boston road from Kilnaboy.[16][17] The cinema featured in "The Passion of St Tibulus" was the Ormonde Cinema, Greystones, County Wicklow[18] and "The Field", the location for Funland in "'Good Luck, Father Ted'", is in Portrane, North County Dublin. The 'Very Dark Caves' featured in "The Mainland" were the Aillwee caves in the Burren, County Clare.
 
 Some exterior shots for the episode "And God Created Woman" were filmed in Dún Laoghaire, South County Dublin. The opening sequence (including shots of the _Plassy_ shipwreck) were filmed over Inisheer — the smallest of the Aran Islands. The interior scenes were recorded at the London Studios in front of a live studio audience.
 

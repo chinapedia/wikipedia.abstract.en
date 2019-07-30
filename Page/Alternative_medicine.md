@@ -11,7 +11,7 @@ Definitions and terminology
 
 The terms _alternative medicine_, _complementary medicine_, _integrative medicine,_ _holistic medicine_, _natural medicine_, _unorthodox medicine_, _fringe medicine_, _unconventional medicine_, and _new age medicine_ are used interchangeably as having the same meaning, and are almost synonymous in most contexts.[1][2][3][4] Terminology has shifted over time, reflecting the preferred branding of practitioners.[5] For example, the United States National Institutes of Health department studying alternative medicine, currently named the National Center for Complementary and Integrative Health (NCCIH), was established as the _Office of Alternative Medicine_ (OAM) and was renamed the _National Center for Complementary and Alternative Medicine_ (NCCAM) before obtaining its current name. Therapies are often framed as "natural" or "holistic", implicitly and intentionally suggesting that conventional medicine is "artificial" and "narrow in scope".[6][7]
 
-Marcia.angell.jpg: "There cannot be two kinds of medicine – conventional and alternative".]]
+: "There cannot be two kinds of medicine – conventional and alternative".]]
 
 The meaning of the term "alternative" in the expression "alternative medicine", is not that it is an effective alternative to medical science, although some alternative medicine promoters may use the loose terminology to give the appearance of effectiveness.[8][9] Loose terminology may also be used to suggest meaning that a dichotomy exists when it does not, e.g., the use of the expressions "Western medicine" and "Eastern medicine" to suggest that the difference is a cultural difference between the Asiatic east and the European west, rather than that the difference is between evidence-based medicine and treatments that do not work.[10]
 
@@ -53,11 +53,11 @@ Alternative medicine, such as using naturopathy or homeopathy in place of conven
   Naturopathy   Naturopathic medicine is based on a belief that the body heals itself using a supernatural vital energy that guides bodily processes.[66]   In conflict with the paradigm of evidence-based medicine.[67] Many naturopaths have opposed vaccination,[68] and "scientific evidence does not support claims that naturopathic medicine can cure cancer or any other disease".[69]
   Homeopathy    A belief that a substance that causes the symptoms of a disease in healthy people cures similar symptoms in sick people.                    Developed before knowledge of atoms and molecules, or of basic chemistry, which shows that repeated dilution as practiced in homeopathy produces only water, and that homeopathy is not scientifically valid.[70][71][72][73]
 
-A_person_discovering_that_they_have_been_transformed_into_se_Wellcome_V0011124.jpg, an alternative medicine supplement.]]
+, an alternative medicine supplement.]]
 
 Traditional ethnic systems
 
-Xi'an_traditionnal_medecine_market_(18).JPG mixture|right|200x200px]]
+mixture|right|200x200px]]
 
 Alternative medical systems may be based on traditional medicine practices, such as traditional Chinese medicine (TCM), Ayurveda in India, or practices of other cultures around the world.[74] Some useful applications of traditional medicines have been researched and accepted within ordinary medicine, however the underlying belief systems are seldom scientific and are not accepted.
 
@@ -79,11 +79,11 @@ Bases of belief may include belief in existence of supernatural energies undetec
   Chiropractic                 Spinal manipulation aims to treat "vertebral subluxations" which are claimed to put pressure on nerves.                                                                                                                             Chiropractic was developed in the belief that manipulating the spine affects the flow of a supernatural vital energy and thereby affects health and disease. Vertebral subluxation is a pseudoscientific concept and has not been proven to exist.
   Reiki                        Practitioners place their palms on the patient near Chakras that they believe are centers of supernatural energies in the belief that these supernatural energies can transfer from the practitioner's palms to heal the patient.   Lacks credible scientific evidence.[90]
 
-Acupuncture1-1.jpg involves insertion of needles in the body.]]
+ involves insertion of needles in the body.]]
 
 Herbal remedies and other substances
 
-Substance based practices use substances found in nature such as herbs, foods, non-vitamin supplements and megavitamins, animal and fungal products, and minerals, including use of these products in traditional medical practices that may also incorporate other methods.[91][92][93] Examples include healing claims for nonvitamin supplements, fish oil, Omega-3 fatty acid, glucosamine, echinacea, flaxseed oil, and ginseng.[94] Herbal medicine, or phytotherapy, includes not just the use of plant products, but may also include the use of animal and mineral products.[95] It is among the most commercially successful branches of alternative medicine, and includes the tablets, powders and elixirs that are sold as "nutritional supplements".[96] Only a very small percentage of these have been shown to have any efficacy, and there is little regulation as to standards and safety of their contents.[97] This may include use of known toxic substances, such as use of the poison lead in traditional Chinese medicine.[98]Chiropractic_spinal_adjustment.jpg "adjusting" the spine.]]
+Substance based practices use substances found in nature such as herbs, foods, non-vitamin supplements and megavitamins, animal and fungal products, and minerals, including use of these products in traditional medical practices that may also incorporate other methods.[91][92][93] Examples include healing claims for nonvitamin supplements, fish oil, Omega-3 fatty acid, glucosamine, echinacea, flaxseed oil, and ginseng.[94] Herbal medicine, or phytotherapy, includes not just the use of plant products, but may also include the use of animal and mineral products.[95] It is among the most commercially successful branches of alternative medicine, and includes the tablets, powders and elixirs that are sold as "nutritional supplements".[96] Only a very small percentage of these have been shown to have any efficacy, and there is little regulation as to standards and safety of their contents.[97] This may include use of known toxic substances, such as use of the poison lead in traditional Chinese medicine.[98] "adjusting" the spine.]]
 
 Religion, faith healing, and prayer
 
@@ -177,15 +177,13 @@ In addition to the social-cultural underpinnings of the popularity of alternativ
 
 Marketing
 
-Edzard_ernst.jpg, a leading authority on scientific study of alternative treatments and diagnoses, and the first university professor of Complementary and Alternative Medicine. Here in 2012, promoting his book _Trick or Treatment_ co-written with Simon Singh.]]
+, a leading authority on scientific study of alternative treatments and diagnoses, and the first university professor of Complementary and Alternative Medicine. Here in 2012, promoting his book _Trick or Treatment_ co-written with Simon Singh.]]
 
 Alternative medicine is a highly profitable industry, with a strong lobby. This fact is often overlooked by media or intentionally kept hidden, with alternative practice being portrayed positively when compared to "big pharma".[189]
 
 The popularity of complementary & alternative medicine (CAM) may be related to other factors that Edzard Ernst mentioned in an interview in _The Independent_:
 
 Paul Offit proposed that "alternative medicine becomes quackery" in four ways: by recommending against conventional therapies that are helpful, promoting potentially harmful therapies without adequate warning, draining patients' bank accounts, or by promoting "magical thinking."[190] Promoting alternative medicine has been called dangerous and unethical.[191]
-
-Lemon-906141.jpg
 
 Social factors
 
@@ -227,7 +225,7 @@ Complementary therapies are often used in palliative care or by practitioners at
 
 Regulation
 
-Use_Caution_With_Ayurvedic_Products_(FDA_October_16,_2008).djvu, warn the public about unsafe products.]]
+, warn the public about unsafe products.]]
 
 The alternative medicine lobby has successfully pushed for alternative therapies to be subject to far less regulation than conventional medicine.[239] Some professions of complementary/traditional/alternative medicine, such as chiropractic, have achieved full regulation in North America and other parts of the world and are regulated in a manner similar to that governing science-based medicine. In contrast, other approaches may be partially recognized and others have no regulation at all. In some cases, promotion of alternative therapies is allowed when there is demonstrably no effect, only a tradition of use. Despite laws making it illegal to market or promote alternative therapies for use in cancer treatment, many practitioners promote them.[240][241]
 

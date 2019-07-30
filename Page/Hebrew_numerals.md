@@ -13,7 +13,7 @@ Numbers
 
 The Hebrew language has names for common numbers that range from zero to one million. Letters of the Hebrew alphabet are used to represent numbers in a few traditional contexts, for example in calendars. In other situations Arabic numerals are used. Cardinal and ordinal numbers must agree in gender with the noun they are describing. If there is no such noun (e.g. telephone numbers), the feminine form is used. For ordinal numbers greater than ten the cardinal is used and numbers above the value 20 have no gender.
 
-Hohe_Synagoge_Prag_1.jpg building in Prague, with Hebrew numerals in counterclockwise order.]] Pocket_watches_with_Hebrew_numerals.JPG).]]
+building in Prague, with Hebrew numerals in counterclockwise order.]] ).]]
 
 Ordinal values
 
@@ -177,7 +177,7 @@ The ordinary forms for 500 to 900 are: ת״ק (500‎), ת״ר (600‎), ת״ש 
 
 Gershayim
 
-Baiersdorf_Juedischer_Friedhof_025_(cropped).JPG, Germany, reading: נפטר ביום כׄ אייר ונקבר ביום כׄגׄ אייר שנת תׄרׄצׄהׄ לפׄק In English: _Passed away on day 20 Iyar And buried on day 23 Iyar Year 695 without the thousands [i.e. year 5695]_ Note the dots above each letter in each number.]] Gershayim (U+05F4 in Unicode, and resembling a double quote mark) (sometimes erroneously referred to as _merkha'ot_, which is Hebrew for double quote) are inserted before (to the right of) the last (leftmost) letter to indicate that the sequence of letters represents a number rather than a word. This is used in the case where a number is represented by two or more Hebrew numerals (_e.g.,_ 28 → כ״ח).
+, Germany, reading: נפטר ביום כׄ אייר ונקבר ביום כׄגׄ אייר שנת תׄרׄצׄהׄ לפׄק In English: _Passed away on day 20 Iyar And buried on day 23 Iyar Year 695 without the thousands [i.e. year 5695]_ Note the dots above each letter in each number.]] Gershayim (U+05F4 in Unicode, and resembling a double quote mark) (sometimes erroneously referred to as _merkha'ot_, which is Hebrew for double quote) are inserted before (to the right of) the last (leftmost) letter to indicate that the sequence of letters represents a number rather than a word. This is used in the case where a number is represented by two or more Hebrew numerals (_e.g.,_ 28 → כ״ח).
 
 Similarly, a single Geresh (U+05F3 in Unicode, and resembling a single quote mark) is appended after (to the left of) a single letter to indicate that the letter represents a number rather than a (one-letter) word. This is used in the case where a number is represented by a single Hebrew numeral (_e.g.,_ 100 → ק׳).
 

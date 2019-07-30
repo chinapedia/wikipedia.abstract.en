@@ -20,7 +20,7 @@ In the '60s and early '70s, the book publishing industry began to persuade major
 
 Regional and cultural implications
 
-Lydia_Canaan_in_Concert.jpg, first rock star of the Middle East]]
+, first rock star of the Middle East]]
 
 Cultures and regions with a significant population may have their own independent celebrity systems, with distinct hierarchies. For example, the Canadian province of Quebec, which is French-speaking, has its own system of French-speaking television, movie and music celebrities. A person who garners a degree of fame in one culture may be considered less famous or obscure in another. Some nationwide celebrities might command some attention outside their own nation; for example, the singer Lara Fabian is widely known in the French-speaking world, but only had a couple of _Billboard_ hits in the U.S., whereas the francophone Canadian singer Celine Dion is well known in both the French-speaking world and in the United States.
 
@@ -43,7 +43,7 @@ The same phenomenon is true for fictional characters. Sherlock Holmes, Dracula, 
 
 Becoming a celebrity
 
-The_Chief_Guest_and_renowned_actor_Shahrukh_Khan_addressing_at_the_inauguration_of_the_38th_International_Film_Festival_of_India_(IFFI-2007)_at_Panaji,_Goa_on_November_23,_2007.jpg is an Indian actor, producer, businessman, investor, author, philanthropist, activist, host and much more. ]] People may become celebrities in a wide range of ways; from their professions, following appearances in the media, or by complete accident. The term "instant celebrity" describes someone who becomes a celebrity in a very short period of time. Someone who achieves a small amount of transient fame (through, say, hype or mass media) may become labeled a "B-grade celebrity". Often, the generalization extends to someone who falls short of mainstream or persistent fame but who seeks to extend or exploit it.
+is an Indian actor, producer, businessman, investor, author, philanthropist, activist, host and much more. ]] People may become celebrities in a wide range of ways; from their professions, following appearances in the media, or by complete accident. The term "instant celebrity" describes someone who becomes a celebrity in a very short period of time. Someone who achieves a small amount of transient fame (through, say, hype or mass media) may become labeled a "B-grade celebrity". Often, the generalization extends to someone who falls short of mainstream or persistent fame but who seeks to extend or exploit it.
 
 Success
 
@@ -55,7 +55,7 @@ Outside of the sports and entertainment sphere, the top inventors, professionals
 
 Difficulty
 
-David_Letterman_2.jpg, comedian and former American late night talk show host]]
+, comedian and former American late night talk show host]]
 
 A number of athletes who are unable to turn professional take a second job or even sometimes abandon their athletic aspirations in order to make ends meet. A small percentage of entertainers and athletes are able to make a decent living but a vast majority will spend their careers toiling from hard work, determination, rejection, and frequent unemployment. For minor league to amateur athletes, earnings are usually on the lower end of the pay-scale. Many of them take second jobs on the side or even venture into other occupations within the field of sports such as coaching, general management, refereeing, or recruiting and scouting up-and-coming athletes.[16]
 
@@ -78,7 +78,7 @@ For instance, Forbes ranked media mogul and talk show host, Oprah Winfrey as the
 
 Entrepreneurship and endorsements
 
-LeBron_James_(1).jpg has endorsement contracts with Nike, Sprite, Glacéau, Bubblicious, Upper Deck, McDonald's and State Farm[26][27]]]
+has endorsement contracts with Nike, Sprite, Glacéau, Bubblicious, Upper Deck, McDonald's and State Farm[26][27]]]
 
 Celebrity endorsements have proven very successful around the world where, due to increasing consumerism, an individual is considered to own a status symbol when they purchase a celebrity-endorsed product. Although it has become commonplace for celebrities to place their name with endorsements onto products just for quick money, some celebrities have gone beyond merely using their names and have put their entrepreneurial spirit to work by becoming entrepreneurs by attaching themselves in the business aspects of entertainment and building their own business brand beyond their traditional salaried activities. Along with investing their salaried wages into growing business endeavors, a number of celebrities have become innovative business leaders in their respective industries, gaining the admiration of their peers and contributing to the country's economy.
 
@@ -106,7 +106,7 @@ Although some celebrities have achieved additional financial success from variou
 
 As a mass media phenomenon
 
-Kim_Kardashian_2017_(cropped).png, reality TV star]]
+, reality TV star]]
 
 Celebrities often have fame comparable to royalty. As a result, there is a strong public curiosity about their private affairs. The release of Kim Kardashian's sex tape with rapper Ray J in 2003 brought her to a new level of fame, leading to magazine covers, book deals, and reality TV series.[49][50]
 
@@ -115,7 +115,7 @@ Celebrities may be resented for their accolades, and the public may have a love/
 
 Famous for being famous
 
-Paris_Hilton_2009.jpg Paris Hilton was one of the first celebrities to be described as 'famous for being famous', she has since expanded her brand into a multibillion-dollar empire]] Famous for being famous, in popular culture terminology, refers to someone who attains celebrity status for no particular identifiable reason, or who achieves fame through association with a celebrity.[53] The term is a pejorative, suggesting that the individual has no particular talents or abilities.[54] Even when their fame arises from a particular talent or action on their part, the term will sometimes still apply if their fame is perceived as disproportionate to what they earned through their own talent or work.
+Paris Hilton was one of the first celebrities to be described as 'famous for being famous', she has since expanded her brand into a multibillion-dollar empire]] Famous for being famous, in popular culture terminology, refers to someone who attains celebrity status for no particular identifiable reason, or who achieves fame through association with a celebrity.[53] The term is a pejorative, suggesting that the individual has no particular talents or abilities.[54] Even when their fame arises from a particular talent or action on their part, the term will sometimes still apply if their fame is perceived as disproportionate to what they earned through their own talent or work.
 
 The coinages "famesque" and "celebutante" are of similar pejorative gist.
 
@@ -155,7 +155,7 @@ Cult of celebrity
 
 15 minutes of fame
 
-Andy_Warhol_1975.jpg coined the phrase "15 minutes of fame"]]
+coined the phrase "15 minutes of fame"]]
 
 Andy Warhol famously coined the phrase "15 minutes of fame" in reference to a short-lived publicity. Certain "15 minutes of fame" celebrities can be average people seen with an A-list celebrity, who are sometimes noticed on entertainment news channels such as E! News. These persons are ordinary people becoming celebrities, often based on the ridiculous things they do. "In fact, many reality show contestants fall into this category: the only thing that qualifies them to be on TV is that they're real."[62]
 

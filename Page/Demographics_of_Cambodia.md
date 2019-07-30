@@ -9,8 +9,6 @@ In 1959, about 45% of the population was under 15 years of age. By 1962, this ha
 
 Population and age distribution[1]
 
-Pyramide_Cambodge.PNG
-
          Total population (thousands)   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
   ------ ------------------------------ -------------------------- --------------------------- -------------------------
   1950   4 346                          42.2                       55.1                        2.7
@@ -164,8 +162,6 @@ Source: _UN World Population Prospects_[13]
 
 
 Ethnic groups
-
-Cambodia_ethnic_map.svg
 
 The largest of the ethnic groups in Cambodia are the Khmer, who comprise approximately 90% of the total population and primarily inhabit the lowland Mekong subregion and the central plains.
 

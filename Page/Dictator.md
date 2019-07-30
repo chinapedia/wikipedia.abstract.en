@@ -1,4 +1,4 @@
-Hitlermusso2_edit_cropped.JPG, dictator of Italy from 1922 to 1943 and Adolf Hitler, dictator of Germany from 1933 to 1945]] A DICTATOR is a political leader who possesses absolute power. A state which is ruled by a dictator is called a dictatorship. The word originated as the title of a magistrate in the Roman Republic appointed by the Senate to rule the republic in times of emergency (see Roman dictator and _justitium_).[1]
+, dictator of Italy from 1922 to 1943 and Adolf Hitler, dictator of Germany from 1933 to 1945]] A DICTATOR is a political leader who possesses absolute power. A state which is ruled by a dictator is called a dictatorship. The word originated as the title of a magistrate in the Roman Republic appointed by the Senate to rule the republic in times of emergency (see Roman dictator and _justitium_).[1]
 
 Like the term "tyrant" (which was originally a non-pejorative Ancient Greek title), and to a lesser degree "autocrat", "dictator" came to be used almost exclusively as a non-titular term for oppressive rule. Thus, in modern usage, the term "dictator" is generally used to describe a leader who holds or abuses an extraordinary amount of personal power. Dictatorships are often characterised by some of the following: suspension of elections and civil liberties; proclamation of a state of emergency; rule by decree; repression of political opponents; not abiding by the rule of law procedures, and cult of personality. Dictatorships are often one-party or dominant-party states.[2][3]
 
@@ -7,7 +7,7 @@ A wide variety of leaders coming to power in different kinds of regimes, such as
 
 Etymology
 
-0092_-_Wien_-_Kunsthistorisches_Museum_-_Gaius_Julius_Caesar-edit.jpg, dictator of Rome]] Originally an emergency legal appointment in the Roman Republic, the term "Dictator" did not have the negative meaning it has now. A Dictator was a magistrate given sole power for a limited duration. At the end of the term, the Dictator's power was returned to normal Consular rule whereupon a dictator provided accountability, though not all dictators accepted a return to power sharing.
+, dictator of Rome]] Originally an emergency legal appointment in the Roman Republic, the term "Dictator" did not have the negative meaning it has now. A Dictator was a magistrate given sole power for a limited duration. At the end of the term, the Dictator's power was returned to normal Consular rule whereupon a dictator provided accountability, though not all dictators accepted a return to power sharing.
 
 The term started to get its modern negative meaning with Cornelius Sulla's ascension to the dictatorship following Sulla's second civil war, making himself the first Dictator in Rome in more than a century (during which the office was ostensibly abolished) as well as _de facto_ eliminating the time limit and need of senatorial acclamation. He avoided a major constitutional crisis by resigning the office after about one year, dying a few years later. Julius Caesar followed Sulla's example in 49 BC and in February 44 BC was proclaimed _Dictator perpetuo_, "Dictator in perpetuity", officially doing away with any limitations on his power, which he kept until his assassination the following month.
 
@@ -31,7 +31,7 @@ Some dictators have been masters of crowd manipulation, such as Mussolini and Hi
 
 Modern usage in formal titles
 
-Ritratto_di_Giuseppe_Garibaldi_-_Salvatore_Lo_Forte.jpg proclaimed himself dictator of Sicily in 1860. It is one of the few cases in which the word "dictator" has a positive meaning]] Gen_Aguinaldo.jpg, Dictator of the Philippines, 1889]] Because of its negative and pejorative connotations, modern authoritarian leaders very rarely (if ever) use the term _dictator_ in their formal titles, instead they most often simply have title of president. In the 19th century, however, its official usage was more common:
+proclaimed himself dictator of Sicily in 1860. It is one of the few cases in which the word "dictator" has a positive meaning]] , Dictator of the Philippines, 1889]] Because of its negative and pejorative connotations, modern authoritarian leaders very rarely (if ever) use the term _dictator_ in their formal titles, instead they most often simply have title of president. In the 19th century, however, its official usage was more common:
 
 -   Hungary
     -   Artúr Görgei was styled Dictator from 11 August 13 August 1849, during the last days of the Hungarian Revolution of 1848.
@@ -56,11 +56,11 @@ Russia during their Civil War
 
 Human rights abuses
 
-Mao,_Bulganin,_Stalin,_Ulbricht_Tsedenbal.jpeg (left), dictator of China from 1949 to 1976; Joseph Stalin (middle), dictator of the Soviet Union from 1929 to 1953 and Walter Ulbricht (right), dictator of East Germany from 1950 to 1971.]] Under the Soviet leaders Vladimir Lenin and Joseph Stalin, government policy was enforced by extrajudicial killings, secret police (originally known as the _Cheka_) and the notorious Gulag system of concentration camps. Most Gulag inmates were not political prisoners, although significant numbers of political prisoners could be found in the camps at any one time. Data collected from Soviet archives gives the death toll from Gulags at 1,053,829.[14] Other human rights abuses by the Soviet state included human experimentation, the use of psychiatry as a political weapon and the denial of freedoms of religion, assembly, speech and association.
+(left), dictator of China from 1949 to 1976; Joseph Stalin (middle), dictator of the Soviet Union from 1929 to 1953 and Walter Ulbricht (right), dictator of East Germany from 1950 to 1971.]] Under the Soviet leaders Vladimir Lenin and Joseph Stalin, government policy was enforced by extrajudicial killings, secret police (originally known as the _Cheka_) and the notorious Gulag system of concentration camps. Most Gulag inmates were not political prisoners, although significant numbers of political prisoners could be found in the camps at any one time. Data collected from Soviet archives gives the death toll from Gulags at 1,053,829.[14] Other human rights abuses by the Soviet state included human experimentation, the use of psychiatry as a political weapon and the denial of freedoms of religion, assembly, speech and association.
 
 Pol Pot became dictator of Cambodia in 1975. In all, an estimated 1.7 million people (out of a population of 7 million) died due to the policies of his four-year dictatorship.[15] As a result, Pol Pot is sometimes described as "the Hitler of Cambodia" and "a genocidal tyrant".[16]
 
-Teodoro_Obiang_Nguema_Mbasogo_at_the_White_House_in_2014.jpg's President Teodoro Obiang Nguema Mbasogo. According to the BBC, Obiang Nguema "has been described by rights organisations as one [of] Africa's most brutal dictators."[17]]] The International Criminal Court issued an arrest warrant for Sudan's military dictator Omar al-Bashir over alleged war crimes in Darfur.[18]
+'s President Teodoro Obiang Nguema Mbasogo. According to the BBC, Obiang Nguema "has been described by rights organisations as one [of] Africa's most brutal dictators."[17]]] The International Criminal Court issued an arrest warrant for Sudan's military dictator Omar al-Bashir over alleged war crimes in Darfur.[18]
 
 
 In game theory

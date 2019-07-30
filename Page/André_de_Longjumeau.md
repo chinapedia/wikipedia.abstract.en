@@ -3,7 +3,7 @@ ANDRÉ DE LONGJUMEAU (also known as ANDREW OF LONGJUMEAU in English) was a 13th-
 
 Mission for the holy Crown of Thorns
 
-HolyCrown.JPG bought by Louis IX from Baldwin II. It is preserved today in a 19th-century reliquary, in Notre-Dame Cathedral, Paris.]] Andrew's first mission to the East was when he was asked by the French king Louis IX to go and fetch the Crown of Thorns which had been sold to him by the Latin Emperor of Constantinople Baldwin II in 1238, who was anxious to obtain support for his tottering empire.[2] Andrew was accompanied on this mission by brother Jacques.
+bought by Louis IX from Baldwin II. It is preserved today in a 19th-century reliquary, in Notre-Dame Cathedral, Paris.]] Andrew's first mission to the East was when he was asked by the French king Louis IX to go and fetch the Crown of Thorns which had been sold to him by the Latin Emperor of Constantinople Baldwin II in 1238, who was anxious to obtain support for his tottering empire.[2] Andrew was accompanied on this mission by brother Jacques.
 
 
 Papal mission to the Mongols (1245–1247)

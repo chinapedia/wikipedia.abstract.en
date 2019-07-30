@@ -41,7 +41,7 @@ The Bronze Star Medal with the "V" device to denote heroism is the fourth highes
 
 History
 
-Monica_Beltran's_Bronze_Star_Medal_with_Valor_certificate.jpg Sergeant_Monica_Beltran_of_the_Virginia_ARNG_in_2012.jpg alongside the Purple Heart.]] Colonel Russell P. "Red" Reeder conceived the idea of the Bronze Star Medal in 1943; he believed it would aid morale if captains of companies or of batteries could award a medal to deserving people serving under them. Reeder felt another medal was needed as a ground equivalent of the Air Medal, and suggested calling the proposed new award the "Ground Medal".[17] The idea eventually rose through the military bureaucracy and gained supporters. General George C. Marshall, in a memorandum to President Franklin D. Roosevelt dated 3 February 1944, wrote
+alongside the Purple Heart.]] Colonel Russell P. "Red" Reeder conceived the idea of the Bronze Star Medal in 1943; he believed it would aid morale if captains of companies or of batteries could award a medal to deserving people serving under them. Reeder felt another medal was needed as a ground equivalent of the Air Medal, and suggested calling the proposed new award the "Ground Medal".[17] The idea eventually rose through the military bureaucracy and gained supporters. General George C. Marshall, in a memorandum to President Franklin D. Roosevelt dated 3 February 1944, wrote
 
 The Air Medal had been adopted two years earlier to raise airmen's morale. President Roosevelt authorized the Bronze Star Medal by Executive Order 9419 dated 4 February 1944, retroactive to 7 December 1941. This authorization was announced in War Department Bulletin No. 3, dated 10 February 1944.
 

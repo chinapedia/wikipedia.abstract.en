@@ -9,9 +9,9 @@ History
 
 AOL Instant Messenger was initially integrated into AOL Desktop and later also released as a stand-alone download by America Online (AOL) in May 1997 for Microsoft Windows.[5] AIM was an outgrowth of "online messages" in the original platform written in PL/1 on a Stratus computer by Dave Brown. The software, maintained by AOL, Inc., at one time had the largest share of the instant messaging market in North America, especially in the United States (with 52% of the total reported ).[6] This does not include other instant messaging software related to or developed by AOL, such as ICQ and iChat.
 
-AIM_4.7_screenshot.png Its main competitors during its heyday were ICQ (although AOL acquired it in 1998), Yahoo! Messenger and MSN Messenger. AOL particularly had a rivalry or "chat war" with rival Microsoft starting in 1999. There were several attempts from Microsoft to simultaneously log into their own and AIM's protocol servers. AOL were not happy about this and started blocking MSN Messenger from being able to access AIM.[7][8]
+Its main competitors during its heyday were ICQ (although AOL acquired it in 1998), Yahoo! Messenger and MSN Messenger. AOL particularly had a rivalry or "chat war" with rival Microsoft starting in 1999. There were several attempts from Microsoft to simultaneously log into their own and AIM's protocol servers. AOL were not happy about this and started blocking MSN Messenger from being able to access AIM.[7][8]
 
-AIM_6.8_screenshot.png Official mobile versions of AIM appeared as early as 2001 on Palm OS through the AOL application.[9] Third-party applications allowed it to be used in 2002 for the Sidekick.[10] A version for Symbian OS was announced in 2003[11] and others for BlackBerry[12] and Windows Mobile[13]
+Official mobile versions of AIM appeared as early as 2001 on Palm OS through the AOL application.[9] Third-party applications allowed it to be used in 2002 for the Sidekick.[10] A version for Symbian OS was announced in 2003[11] and others for BlackBerry[12] and Windows Mobile[13]
 
 After 2012, stand-alone official AIM client software includes advertisements and was available for Microsoft Windows, Windows Mobile, Classic Mac OS, macOS, Android, iOS, BlackBerry OS.[14]
 
@@ -26,7 +26,7 @@ On March 3, 2012, AOL ended employment of AIM's development staff while leaving 
 
 The "Running Man"
 
-Farm-Fresh_aol_messenger.png The AIM mascot was designed by JoRoan Lazaro and was implemented in the first release in 1997. This was a yellow stickman-like figure, often called the "Running Man". The mascot appeared on all AIM logos and most wordmarks, and always appeared at the top of the buddy list. AIM's popularity in the late 1990s and the 2000s led to the "Running Man" becoming a familiar brand on the Internet. After over 14 years, the iconic logo finally disappeared as part of the AIM rebranding in 2011. However, in August 2013, the "Running Man" once again returned.[22]
+The AIM mascot was designed by JoRoan Lazaro and was implemented in the first release in 1997. This was a yellow stickman-like figure, often called the "Running Man". The mascot appeared on all AIM logos and most wordmarks, and always appeared at the top of the buddy list. AIM's popularity in the late 1990s and the 2000s led to the "Running Man" becoming a familiar brand on the Internet. After over 14 years, the iconic logo finally disappeared as part of the AIM rebranding in 2011. However, in August 2013, the "Running Man" once again returned.[22]
 
 In 2014, a _Complex_ editor called it a "symbol of America".[23] In April 2015 the Running Man was officially featured in the Virgin London Marathon, dressed by a person for the AOL-partnered Free The Children charity.[24]
 

@@ -10,8 +10,6 @@ In the early 1950s, when Eritrea was awarded to Ethiopia, it possessed a far mor
 
 Gross domestic product (GDP)
 
-Tree_map_exports_2009_Eritrea.jpeg
-
 Eritrea's GDP, estimated at $4.037 billion in 2011, is 8.7 percent above the GDP in 2010. The growth was due to increased agricultural output and the expansion of the mining industry along with increasing gold prices. Breakdowns of the Eritrean economy by sector are not readily available; however, according to some estimates, in 2011 services accounted for 55 percent of the GDP, industry for 34 percent, and agriculture for the remaining 11 percent.[7] The growth of the GDP, however, is compromised by the ongoing and tensions with the country's borders.
 
 
@@ -47,8 +45,6 @@ Energy
 
 Households consume more than 80 percent of total energy production. Electricity production in 2001 was estimated at 220.5 million kilowatt-hours. Consumption for that year was estimated at 205.1-kilowatt hours. An 88-megawatt electricity plant funded by Saudi Arabia, Kuwait, and Abu Dhabi was completed just south of Massawa in 2003, its completion delayed nearly three years by the war with Ethiopia. Annual consumption of petroleum in 2001 was estimated at 370,000 tons. Eritrea has no domestic petroleum production; the Eritrean Petroleum Corporation conducts purchases through international competitive tender. According to the U.S. Department of Commerce, opportunities exist for both on- and offshore oil and natural gas exploration; however, these prospects have yet to come to fruition. The use of Wind energy and solar power have slightly increased, due to the growth of solar power manufacturing companies in the country. The Eritrean government has expressed interest in developing alternative energy sources, including geothermal, solar, and wind power.[12]
 
-Asmara,_cinema_impero,_01.JPG
-
 Services
 
 In 2011, services accounted for 55 percent of gross domestic product. Financial services, the bulk of the services sector, are principally rendered by the National Bank of Eritrea (the nation's central bank), the Commercial Bank of Eritrea, the Housing and Commerce Bank of Eritrea, the Agricultural and Industrial Bank of Eritrea, the Eritrean Investment and Development Bank, and the National Insurance Corporation of Eritrea.[13]
@@ -73,7 +69,7 @@ The official currency is the Eritrean nakfa (ERN), introduced in November 1997. 
 
 Inflation continues to be a problem in Eritrea, particularly as years of drought push grain prices higher and defense expenditures remain high. The International Monetary Fund estimates that in 2003 (the most recent year for which figures are available) average inflation reached 23 percent.[17]
 
-Massawa_Highway_(8527952867).jpg program.]]
+program.]]
 
 
 Government Budget

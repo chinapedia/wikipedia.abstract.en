@@ -38,7 +38,7 @@ A year later, (in 672) Tenji died and Prince Ōtomo ascended to the throne as Em
 
 As might be expected, Emperor Tenmu was no less active than former-Emperor Tenji in improving the Taika military institutions. Tenmu's reign brought many changes, such as: (1) a centralized war department was organized; (2) the defenses of the Inner Country near the Capital were strengthened; (3) forts and castles were built near Capital and in the western parts of Honshū—and in Kyushu; (4) troops were reviewed; and all provincial governors were ordered to complete the collection of arms and to study tactics.[9]
 
-TenmuJitoTomb.jpg In 673 Tenmu moved the capital back to Yamato on the Kiymihara plain, naming his new capital Asuka. The _Man'yōshū_ includes a poem written after the Jinshin War ended:
+In 673 Tenmu moved the capital back to Yamato on the Kiymihara plain, naming his new capital Asuka. The _Man'yōshū_ includes a poem written after the Jinshin War ended:
 
 At Asuka, Emperor Tenmu was enthroned. He elevated Unonosarara to be his empress. Events of his reign include:
 
@@ -53,7 +53,7 @@ In 675 Emperor Tenmu banned the consumption of domesticated animal meat (horse, 
 
 Politics
 
-Nihon_Shoki_15_April_683.jpg entry of April 15, 683 CE (Tenmu 12th year), mandates the use of copper coins instead of silver, suggesting that Japanese currency predates his reign. Excerpt of the 11th century edition.]] Tomimotosen_Tobishimaike_end_of_7th_century_copper_and_antimony.jpg: _Fuhonsen_ coins (富本銭), found in Tobishimaike (飛島池), thought to have been minted during the reign of Emperor Tenmu, end of 7th century, copper and antimony. Currency Museum of the Bank of Japan.]] In the _Nihon Shoki_, Tenmu is described as a great innovator, but the neutrality of this description is doubtful, since the work was written under the control of his descendants. It seems clear, however, that Tenmu strengthened the power of the emperor and appointed his sons to the highest offices of his government, reducing the traditional influence of powerful clans such as the Ōtomo and Soga clans. He renewed the system of _kabane_, the hereditary titles of duty and rank, but with alterations, including the abolition of some titles. Omi and Muraji, the highest kabane in the earlier period, were reduced in value in the new hierarchy, which consisted of eight kinds of kabane. Each clan received a new kabane according to its closeness to the imperial bloodline and its loyalty to Tenmu.
+entry of April 15, 683 CE (Tenmu 12th year), mandates the use of copper coins instead of silver, suggesting that Japanese currency predates his reign. Excerpt of the 11th century edition.]] : _Fuhonsen_ coins (富本銭), found in Tobishimaike (飛島池), thought to have been minted during the reign of Emperor Tenmu, end of 7th century, copper and antimony. Currency Museum of the Bank of Japan.]] In the _Nihon Shoki_, Tenmu is described as a great innovator, but the neutrality of this description is doubtful, since the work was written under the control of his descendants. It seems clear, however, that Tenmu strengthened the power of the emperor and appointed his sons to the highest offices of his government, reducing the traditional influence of powerful clans such as the Ōtomo and Soga clans. He renewed the system of _kabane_, the hereditary titles of duty and rank, but with alterations, including the abolition of some titles. Omi and Muraji, the highest kabane in the earlier period, were reduced in value in the new hierarchy, which consisted of eight kinds of kabane. Each clan received a new kabane according to its closeness to the imperial bloodline and its loyalty to Tenmu.
 
 Tenmu attempted to keep a balance of power among his sons. Once he traveled to Yoshino together with his sons, and there had them swear to cooperate and not to make war on each other. This turned out to be ineffective: one of his sons, Prince Ōtsu, was later executed for treason after the death of Tenmu.
 
@@ -155,7 +155,7 @@ See also
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

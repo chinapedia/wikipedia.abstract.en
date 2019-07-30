@@ -1,5 +1,3 @@
-Armenia_map_of_Köppen_climate_classification.svg Satellite_image_of_Armenia_in_May_2003.jpg
-
 Armenia is a landlocked country in the Transcaucasia region, between the Black and Caspian Seas, bordered on the north and east by Georgia and Azerbaijan and on the south and west by Iran and Turkey.
 
 The terrain is mostly mountainous and flat, with fast flowing rivers and few forests but with many trees. The climate is highland continental: hot summers and cold winters. The land rises to 4,095 m above sea-level at Mount Aragats.
@@ -13,16 +11,16 @@ GEOGRAPHIC COORDINATES:
 
 Physical environment
 
-Armenia_2002_CIA_map.jpg Armenia is located in southern Transcaucasia, the region southwest of Russia between the Black Sea and the Caspian Sea. Modern Armenia occupies part of historical Armenia, whose ancient centres were in the valley of the Araks River and the region around Lake Van in Turkey. Armenia is bordered on the north by Georgia, on the east by Azerbaijan, on the southwest by the Nagorno-Karabagh, on the south by Iran, and on the west by Turkey.
+Armenia is located in southern Transcaucasia, the region southwest of Russia between the Black Sea and the Caspian Sea. Modern Armenia occupies part of historical Armenia, whose ancient centres were in the valley of the Araks River and the region around Lake Van in Turkey. Armenia is bordered on the north by Georgia, on the east by Azerbaijan, on the southwest by the Nagorno-Karabagh, on the south by Iran, and on the west by Turkey.
 
 
 Topography and drainage
 
-Armenia_Topography.png Twenty-five million years ago, a geological upheaval pushed up the Earth's crust to form the Armenian Plateau, creating the complex topography of modern Armenia. The Lesser Caucasus range extends through northern Armenia, runs southeast between Lake Sevan and Azerbaijan, then passes roughly along the Armenian-Azerbaijani border to Iran. Thus situated, the mountains make travel from north to south difficult. Geological turmoil continues in the form of devastating earthquakes, which have plagued Armenia. In December 1988, the second largest city in the republic, Leninakan (now Gyumri), was heavily damaged by a massive quake that killed more than 25,000 people.
+Twenty-five million years ago, a geological upheaval pushed up the Earth's crust to form the Armenian Plateau, creating the complex topography of modern Armenia. The Lesser Caucasus range extends through northern Armenia, runs southeast between Lake Sevan and Azerbaijan, then passes roughly along the Armenian-Azerbaijani border to Iran. Thus situated, the mountains make travel from north to south difficult. Geological turmoil continues in the form of devastating earthquakes, which have plagued Armenia. In December 1988, the second largest city in the republic, Leninakan (now Gyumri), was heavily damaged by a massive quake that killed more than 25,000 people.
 
 About half of Armenia's area of approximately has an elevation of at least , and only 3% of the country lies below . The lowest points are in the valleys of the Araks River and the Debet River in the far north, which have elevations of , respectively. Elevations in the Lesser Caucasus vary between . To the southwest of the range is the Armenian Plateau, which slopes southwestward toward the Araks River on the Turkish border. The plateau is masked by intermediate mountain ranges and extinct volcanoes. The largest of these, Mount Aragats, high, is also the highest point in Armenia. Most of the population lives in the western and northwestern parts of the country, where the two major cities, Yerevan and Gyumri (which was called Aleksandropol' during the tsarist period), are located.
 
-The valleys of the Debet and Akstafa rivers form the chief routes into Armenia from the north as they pass through the mountains. Lake Sevan, across at its widest point and long, is by far the largest lake. It lies above sea level on the plateau. Terrain is most rugged in the extreme southeast, which is drained by the Bargushat River, and most moderate in the Araks River valley to the extreme southwest. Most of Armenia is drained by the Araks or its tributary, the Hrazdan, which flows from Lake Sevan. The Araks forms most of Armenia's border with Turkey and Iran while the Zangezur Mountains form the border between Armenia's southern province of Syunik and Azerbaijan's adjacent Nakhchivan Autonomous Republic. Armenian_terrain.jpg
+The valleys of the Debet and Akstafa rivers form the chief routes into Armenia from the north as they pass through the mountains. Lake Sevan, across at its widest point and long, is by far the largest lake. It lies above sea level on the plateau. Terrain is most rugged in the extreme southeast, which is drained by the Bargushat River, and most moderate in the Araks River valley to the extreme southwest. Most of Armenia is drained by the Araks or its tributary, the Hrazdan, which flows from Lake Sevan. The Araks forms most of Armenia's border with Turkey and Iran while the Zangezur Mountains form the border between Armenia's southern province of Syunik and Azerbaijan's adjacent Nakhchivan Autonomous Republic.
 
 
 Climate

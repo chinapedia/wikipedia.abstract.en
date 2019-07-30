@@ -11,8 +11,6 @@ In other words, the natural projection φ is universal among homomorphisms on _G
 
 The situation is described by the following commutative diagram:
 
-File:Fundamental Homomorphism Theorem.svg
-
 By setting _K_ = ker(_f_) we immediately get the first isomorphism theorem.
 
 

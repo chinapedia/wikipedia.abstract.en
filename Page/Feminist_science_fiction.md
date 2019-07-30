@@ -3,7 +3,7 @@ FEMINIST SCIENCE FICTION is a subgenre of science fiction (abbreviated "SF") foc
 
 History
 
-Frankenstein.1831.inside-cover.jpg's _Frankenstein_ (1818)]]
+'s _Frankenstein_ (1818)]]
 
 Feminist science fiction (SF) distinguishes between _female_ SF authors and _feminist_ SF authors.[2] Both female and feminist SF authors are historically significant to the feminist SF subgenre, as female writers have increased women's visibility and perspectives in SF literary traditions, while the feminist writers have foregrounded political themes and tropes in their works.[3] Because distinctions between female and feminist can be blurry, whether a work is considered feminist can be debatable, but there are generally agreed-upon canonical texts, which help define the subgenre.
 

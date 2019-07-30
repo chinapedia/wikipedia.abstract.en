@@ -1,4 +1,4 @@
-David_-_Napoleon_crossing_the_Alps_-_Malmaison2.jpg, an exemplary great man, who determined the "Napoleonic" era of history]] The GREAT MAN THEORY is a 19th-century idea according to which history can be largely explained by the impact of great men, or heroes; highly influential and unique individuals who, due to their natural attributes, such as superior intellect, heroic courage, or divine inspiration, have a decisive historical effect. The theory is primarily attributed to the Scottish philosopher and essayist Thomas Carlyle who gave a series of lectures on heroism in 1840, later published as On Heroes, Hero-Worship, and The Heroic in History, in which he states:
+, an exemplary great man, who determined the "Napoleonic" era of history]] The GREAT MAN THEORY is a 19th-century idea according to which history can be largely explained by the impact of great men, or heroes; highly influential and unique individuals who, due to their natural attributes, such as superior intellect, heroic courage, or divine inspiration, have a decisive historical effect. The theory is primarily attributed to the Scottish philosopher and essayist Thomas Carlyle who gave a series of lectures on heroism in 1840, later published as On Heroes, Hero-Worship, and The Heroic in History, in which he states:
 
 
 Overview
@@ -20,7 +20,7 @@ Hegel, proceeding from providentialist theory, argued that "what is real is reas
 
 Responses
 
-Herbert_Spencer.jpg was a contemporary critic of Carlyle's great man theory.]]
+was a contemporary critic of Carlyle's great man theory.]]
 
 Herbert Spencer's Criticism
 
@@ -28,7 +28,7 @@ One of the most forceful critics of Carlyle's formulation of the great man theor
 
 William James' Defence
 
-William_James_b1842c.jpg was a 19th century philosopher and psychologist.]]
+was a 19th century philosopher and psychologist.]]
 
 William James, in his 1880 lecture "Great Men, Great Thoughts, and the Environment",[14] published in the Atlantic Monthly, powerfully defended Carlyle and refuted Spencer, dismantling his "impudent", "vague", and "dogmatic" argument, by reversing his thesis:
 

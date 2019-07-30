@@ -1,4 +1,4 @@
-HippocraticOath.jpg''
+''
 A collection of early medical works may be associated with Hippocrates]] The HISTORY OF MEDICINE shows how societies have changed in their approach to illness and disease from ancient times to the present. Early medical traditions include those of Babylon, China, Egypt and India. The Indians introduced the concepts of medical diagnosis, prognosis, and advanced medical ethics. The Hippocratic Oath was written in ancient Greece in the 5th century BCE, and is a direct inspiration for oaths of office that physicians swear upon entry into the profession today. In the Middle Ages, surgical practices inherited from the ancient masters were improved and then systematized in Rogerius's _The Practice of Surgery_. Universities began systematic training of physicians around 1220 CE in Italy.
 
 Invention of the microscope was a consequence of improved understanding, during the Renaissance. Prior to the 19th century, humorism (also known as humoralism) was thought to explain the cause of disease but it was gradually replaced by the germ theory of disease, leading to effective treatments and even cures for many infectious diseases. Military doctors advanced the methods of trauma treatment and surgery. Public health measures were developed especially in the 19th century as the rapid growth of cities required systematic sanitary measures. Advanced research centers opened in the early 20th century, often connected with major hospitals. The mid-20th century was characterized by new biological treatments, such as antibiotics. These advancements, along with developments in chemistry, genetics, and radiography led to modern medicine. Medicine was heavily professionalized in the 20th century, and new careers opened to women as nurses (from the 1870s) and as physicians (especially after 1970).
@@ -13,7 +13,7 @@ Early civilizations
 
 Mesopotamia
 
-Medical_recipe_concerning_poisoning._Terracotta_tablet,_from_Nippur,_Iraq,_18th_century_BCE._Ancient_Orient_Museum,_Istanbul.jpg Illustrerad_Verldshistoria_band_I_Ill_032.jpg in the Assyrian city of Kalhu, believed by some experts to be a representation of an _āšipu_, or exorcist-priest,[6] who functioned as a kind of healer and primitive doctor[7]]] The ancient Mesopotamians had no distinction between "rational science" and magic.[8][9][10] When a person became ill, doctors would prescribe both magical formulas to be recited as well as medicinal treatments.[11][12][13][14] The earliest medical prescriptions appear in Sumerian during the Third Dynasty of Ur ( 2112 BC – 2004 BC).[15] The oldest Babylonian texts on medicine date back to the Old Babylonian period in the first half of the 2nd millennium BCE.[16] The most extensive Babylonian medical text, however, is the _Diagnostic Handbook_ written by the _ummânū_, or chief scholar, Esagil-kin-apli of Borsippa,[17][18] during the reign of the Babylonian king Adad-apla-iddina (1069–1046 BCE).[19] Along with the Egyptians, the Babylonians introduced the practice of diagnosis, prognosis, physical examination, and remedies. In addition, the _Diagnostic Handbook_ introduced the methods of therapy and cause. The text contains a list of medical symptoms and often detailed empirical observations along with logical rules used in combining observed symptoms on the body of a patient with its diagnosis and prognosis.[20] The _Diagnostic Handbook_ was based on a logical set of axioms and assumptions, including the modern view that through the examination and inspection of the symptoms of a patient, it is possible to determine the patient's disease, its cause and future development, and the chances of the patient's recovery. The symptoms and diseases of a patient were treated through therapeutic means such as bandages, herbs and creams.[21]
+in the Assyrian city of Kalhu, believed by some experts to be a representation of an _āšipu_, or exorcist-priest,[6] who functioned as a kind of healer and primitive doctor[7]]] The ancient Mesopotamians had no distinction between "rational science" and magic.[8][9][10] When a person became ill, doctors would prescribe both magical formulas to be recited as well as medicinal treatments.[11][12][13][14] The earliest medical prescriptions appear in Sumerian during the Third Dynasty of Ur ( 2112 BC – 2004 BC).[15] The oldest Babylonian texts on medicine date back to the Old Babylonian period in the first half of the 2nd millennium BCE.[16] The most extensive Babylonian medical text, however, is the _Diagnostic Handbook_ written by the _ummânū_, or chief scholar, Esagil-kin-apli of Borsippa,[17][18] during the reign of the Babylonian king Adad-apla-iddina (1069–1046 BCE).[19] Along with the Egyptians, the Babylonians introduced the practice of diagnosis, prognosis, physical examination, and remedies. In addition, the _Diagnostic Handbook_ introduced the methods of therapy and cause. The text contains a list of medical symptoms and often detailed empirical observations along with logical rules used in combining observed symptoms on the body of a patient with its diagnosis and prognosis.[20] The _Diagnostic Handbook_ was based on a logical set of axioms and assumptions, including the modern view that through the examination and inspection of the symptoms of a patient, it is possible to determine the patient's disease, its cause and future development, and the chances of the patient's recovery. The symptoms and diseases of a patient were treated through therapeutic means such as bandages, herbs and creams.[21]
 
 In East Semitic cultures, the main medicinal authority was a kind of exorcist-healer known as an _āšipu_.[22][23][24] The profession was generally passed down from father to son[25] and was held in extremely high regard.[26] Of less frequent recourse was another kind of healer known as an _asu_, who corresponds more closely to a modern physician[27] and treated physical symptoms using primarily folk remedies composed of various herbs, animal products, and minerals, as well as potions, enemas, and ointments or poultices.[28] These physicians, who could be either male or female, also dressed wounds, set limbs, and performed simple surgeries.[29] The ancient Mesopotamians also practiced prophylaxis[30] and took measures to prevent the spread of disease.[31]
 
@@ -21,7 +21,7 @@ Mental illnesses were well known in ancient Mesopotamia,[32] where diseases and 
 
 Egypt
 
-Hieroglyphic-brain.jpg, written in the 17th century BC, contains the earliest recorded reference to the brain. New York Academy of Medicine.]]
+, written in the 17th century BC, contains the earliest recorded reference to the brain. New York Academy of Medicine.]]
 
 Ancient Egypt developed a large, varied and fruitful medical tradition. Herodotus described the Egyptians as "the healthiest of all men, next to the Libyans",[43] because of the dry climate and the notable public health system that they possessed. According to him, "the practice of medicine is so specialized among them that each physician is a healer of one disease and no more." Although Egyptian medicine, to a considerable extent, dealt with the supernatural,[44] it eventually developed a practical use in the fields of anatomy, public health, and clinical diagnostics.
 
@@ -35,7 +35,7 @@ The earliest known physician is also credited to ancient Egypt: Hesy-Ra, "Chief 
 
 India
 
-Ayurvada_Medicine_from_Medicinal_Plants_YVSREDDY.jpg herbal medicines]] The Atharvaveda, a sacred text of Hinduism dating from the Early Iron Age, is one of the first Indian texts dealing with medicine. The Atharvaveda also contains prescriptions of herbs for various ailments. The use of herbs to treat ailments would later form a large part of Ayurveda.
+herbal medicines]] The Atharvaveda, a sacred text of Hinduism dating from the Early Iron Age, is one of the first Indian texts dealing with medicine. The Atharvaveda also contains prescriptions of herbs for various ailments. The use of herbs to treat ailments would later form a large part of Ayurveda.
 
 Ayurveda, meaning the "complete knowledge for long life" is another medical system of India. Its two most famous texts belong to the schools of Charaka and Sushruta. The earliest foundations of Ayurveda were built on a synthesis of traditional herbal practices together with a massive addition of theoretical conceptualizations, new nosologies and new therapies dating from about 600 BCE onwards, and coming out of the communities of thinkers which included the Buddha and others.[53]
 
@@ -49,7 +49,7 @@ By the 18th century CE, Sanskrit medical wisdom still dominated. Muslim rulers b
 
 China
 
-Traditional_Chinese_medicine_in_Xi'an_market.jpg (lit. "spirit mushrooms"), ginseng, Luo Han Guo, turtle shell underbelly (plastron), and dried curled snakes]]
+(lit. "spirit mushrooms"), ginseng, Luo Han Guo, turtle shell underbelly (plastron), and dried curled snakes]]
 
 China also developed a large body of traditional medicine. Much of the philosophy of traditional Chinese medicine derived from empirical observations of disease and illness by Taoist physicians and reflects the classical Chinese belief that individual human experiences express causative principles effective in the environment at all scales. These causative principles, whether material, essential, or mystical, correlate as the expression of the natural order of the universe.
 
@@ -66,7 +66,7 @@ Greece and Roman Empire
 
 Around 800 BCE Homer in The Iliad gives descriptions of wound treatment by the two sons of Asklepios, the admirable physicians Podaleirius and Machaon and one acting doctor, Patroclus. Because Machaon is wounded and Podaleirius is in combat Eurypylus asks Patroclus to _cut out this arrow from my thigh, wash off the blood with warm water and spread soothing ointment on the wound_.[61] Asklepios like Imhotep becomes god of healing over time.
 
-Kos_Asklepeion.jpg, the best preserved instance of an Asklepieion.]]
+, the best preserved instance of an Asklepieion.]]
 
 Temples dedicated to the healer-god Asclepius, known as _Asclepieia_ (, sing. , _'Asclepieion_), functioned as centers of medical advice, prognosis, and healing.[62] At these shrines, patients would enter a dream-like state of induced sleep known as _enkoimesis_ () not unlike anesthesia, in which they either received guidance from the deity in a dream or were cured by surgery.[63] Asclepeia provided carefully controlled spaces conducive to healing and fulfilled several of the requirements of institutions created for healing.[64] In the Asclepeion of Epidaurus, three large marble boards dated to 350 BCE preserve the names, case histories, complaints, and cures of about 70 patients who came to the temple with a problem and shed it there. Some of the surgical cures listed, such as the opening of an abdominal abscess or the removal of traumatic foreign material, are realistic enough to have taken place, but with the patient in a state of enkoimesis induced with the help of soporific substances such as opium.[65] Alcmaeon of Croton wrote on medicine between 500 and 450 BCE. He argued that channels linked the sensory organs to the brain, and it is possible that he discovered one type of channel, the optic nerves, by dissection.[66]
 
@@ -84,7 +84,7 @@ Some of the techniques and theories developed by Hippocrates are now put into pr
 
 Herophilus and Erasistratus
 
-Heraklas_Plinthios_Brokhos_Jaw_Sling.jpg, a sling for binding a fractured jaw. These writings were preserved in one of Oribasius' collections.[75]]] Two great Alexandrians laid the foundations for the scientific study of anatomy and physiology, Herophilus of Chalcedon and Erasistratus of Ceos.[76] Other Alexandrian surgeons gave us ligature (hemostasis), lithotomy, hernia operations, ophthalmic surgery, plastic surgery, methods of reduction of dislocations and fractures, tracheotomy, and mandrake as an anaesthetic. Some of what we know of them comes from Celsus and Galen of Pergamum.[77]
+, a sling for binding a fractured jaw. These writings were preserved in one of Oribasius' collections.[75]]] Two great Alexandrians laid the foundations for the scientific study of anatomy and physiology, Herophilus of Chalcedon and Erasistratus of Ceos.[76] Other Alexandrian surgeons gave us ligature (hemostasis), lithotomy, hernia operations, ophthalmic surgery, plastic surgery, methods of reduction of dislocations and fractures, tracheotomy, and mandrake as an anaesthetic. Some of what we know of them comes from Celsus and Galen of Pergamum.[77]
 
 Herophilus of Chalcedon, working at the medical school of Alexandria placed intelligence in the brain, and connected the nervous system to motion and sensation. Herophilus also distinguished between veins and arteries, noting that the latter pulse while the former do not. He and his contemporary, Erasistratus of Chios, researched the role of veins and nerves, mapping their courses across the body. Erasistratus connected the increased complexity of the surface of the human brain compared to other animals to its superior intelligence. He sometimes employed experiments to further his research, at one time repeatedly weighing a caged bird, and noting its weight loss between feeding times. In Erasistratus' physiology, air enters the body, is then drawn by the lungs into the heart, where it is transformed into vital spirit, and is then pumped by the arteries throughout the body. Some of this vital spirit reaches the brain, where it is transformed into animal spirit, which is then distributed by the nerves.[78]
 
@@ -96,7 +96,7 @@ Galen's medical works were regarded as authoritative until well into the Middle 
 
 In 1523 Galen's _On the Natural Faculties_ was published in London. In the 1530s Belgian anatomist and physician Andreas Vesalius launched a project to translate many of Galen's Greek texts into Latin. Vesalius's most famous work, _De humani corporis fabrica_ was greatly influenced by Galenic writing and form.[84]
 
-NaplesDioscuridesMandrake.jpg (written 'ΜΑΝΔΡΑΓΟΡΑ' in Greek capitals). _Naples Dioscurides_, 7th century]]
+(written 'ΜΑΝΔΡΑΓΟΡΑ' in Greek capitals). _Naples Dioscurides_, 7th century]]
 
 Roman contributions
 
@@ -121,7 +121,7 @@ The Byzantine Empire's neighbors, the Persian Sassanid Empire, also made their n
 
 Islamic world
 
-Cheshm_manuscript.jpg manuscript, _Anatomy of the Eye_, by al-Mutadibih, 1200 CE]]
+manuscript, _Anatomy of the Eye_, by al-Mutadibih, 1200 CE]]
 
 The Islamic civilization rose to primacy in medical science as its physicians contributed significantly to the field of medicine, including anatomy, ophthalmology, pharmacology, pharmacy, physiology, surgery, and the pharmaceutical sciences. The Arabs were influenced by ancient Indian, Persian, Greek, Roman and Byzantine medical practices, and helped them develop further.[94] Galen & Hippocrates were pre-eminent authorities. The translation of 129 of Galen's works into Arabic by the Nestorian Christian Hunayn ibn Ishaq and his assistants, and in particular Galen's insistence on a rational systematic approach to medicine, set the template for Islamic medicine, which rapidly spread throughout the Arab Empire.[95] while Europe was in its Dark Ages, Islam expanded in West Asia and enjoyed a golden age. Its most famous physicians included the Persian polymaths Muhammad ibn Zakariya al-Razi and Avicenna, who wrote more than 40 works on health, medicine, and well-being. Taking leads from Greece and Rome, Islamic scholars kept both the art and science of medicine alive and moving forward.[96] Persian polymath Avicenna has also been called the "father of medicine".[97] He wrote _The Canon of Medicine_ which became a standard medical text at many medieval European universities[98], considered one of the most famous books in the history of medicine.[99] _The Canon of Medicine_ presents an overview of the contemporary medical knowledge of the medieval Islamic world, which had been influenced by earlier traditions including Greco-Roman medicine (particularly Galen),[100] Persian medicine, Chinese medicine and Indian medicine. Persian physician Muhammad ibn Zakarīya Rāzi[101] was one of the first to question the Greek theory of humorism, which nevertheless remained influential in both medieval Western and medieval Islamic medicine.[102] Some volumes of Muhammad ibn Zakarīya Rāzi's work _Al-Mansuri_, namely "On Surgery" and "A General Book on Therapy", became part of the medical curriculum in European universities.[103] Additionally, he has been described as a doctor's doctor,[104] the father of pediatrics,[105][106] and a pioneer of ophthalmology. For example, he was the first to recognize the reaction of the eye's pupil to light.[107]
 
@@ -135,13 +135,13 @@ Wallis identifies a prestige hierarchy with university educated physicians on to
 
 Schools
 
-ScuolaMedicaMiniatura.jpg in Salerno in Italy]] The first medical schools were opened in the 9th century, most notably the Schola Medica Salernitana at Salerno in southern Italy. The cosmopolitan influences from Greek, Latin, Arabic, and Hebrew sources gave it an international reputation as the Hippocratic City. Students from wealthy families came for three years of preliminary studies and five of medical studies. The medicine, following the laws of Federico II, that he founded in 1224 the University ad improved the Schola Salernitana, in the period between 1200 and 1400, it had in Sicily (so-called Sicilian Middle Ages) a particular development so much to create a true school of Jewish medicine.[114]
+in Salerno in Italy]] The first medical schools were opened in the 9th century, most notably the Schola Medica Salernitana at Salerno in southern Italy. The cosmopolitan influences from Greek, Latin, Arabic, and Hebrew sources gave it an international reputation as the Hippocratic City. Students from wealthy families came for three years of preliminary studies and five of medical studies. The medicine, following the laws of Federico II, that he founded in 1224 the University ad improved the Schola Salernitana, in the period between 1200 and 1400, it had in Sicily (so-called Sicilian Middle Ages) a particular development so much to create a true school of Jewish medicine.[114]
 
-As a result of which, after a legal examination, was conferred to a Jewish Sicilian woman, Virdimura, wife of another physician Pasquale of Catania, the hystorical record of before woman officially trained to exercise of the medical profession.[115] Collegium_Maius_2017.jpg founded in 1364]] By the thirteenth century, the medical school at Montpellier began to eclipse the Salernitan school. In the 12th century, universities were founded in Italy, France, and England, which soon developed schools of medicine. The University of Montpellier in France and Italy's University of Padua and University of Bologna were leading schools. Nearly all the learning was from lectures and readings in Hippocrates, Galen, Avicenna, and Aristotle. In later centuries, the importance of universities founded in the late Middle Ages gradually increased, e.g. Charles University in Prague (established in 1348), Jagiellonian University in Cracow (1364), University of Vienna (1365), Heidelberg University (1386) and University of Greifswald (1456).
+As a result of which, after a legal examination, was conferred to a Jewish Sicilian woman, Virdimura, wife of another physician Pasquale of Catania, the hystorical record of before woman officially trained to exercise of the medical profession.[115] founded in 1364]] By the thirteenth century, the medical school at Montpellier began to eclipse the Salernitan school. In the 12th century, universities were founded in Italy, France, and England, which soon developed schools of medicine. The University of Montpellier in France and Italy's University of Padua and University of Bologna were leading schools. Nearly all the learning was from lectures and readings in Hippocrates, Galen, Avicenna, and Aristotle. In later centuries, the importance of universities founded in the late Middle Ages gradually increased, e.g. Charles University in Prague (established in 1348), Jagiellonian University in Cracow (1364), University of Vienna (1365), Heidelberg University (1386) and University of Greifswald (1456).
 
 Humours
 
-13th_century_anatomical_illustration_-_sharp.jpg, Oxford.]] The underlying principle of most medieval medicine was Galen's theory of humours. This was derived from the ancient medical works, and dominated all western medicine until the 19th century. The theory stated that within every individual there were four humours, or principal fluids—black bile, yellow bile, phlegm, and blood, these were produced by various organs in the body, and they had to be in balance for a person to remain healthy. Too much phlegm in the body, for example, caused lung problems; and the body tried to cough up the phlegm to restore a balance. The balance of humours in humans could be achieved by diet, medicines, and by blood-letting, using leeches. The four humours were also associated with the four seasons, black bile-autumn, yellow bile-summer, phlegm-winter and blood-spring.[116]
+, Oxford.]] The underlying principle of most medieval medicine was Galen's theory of humours. This was derived from the ancient medical works, and dominated all western medicine until the 19th century. The theory stated that within every individual there were four humours, or principal fluids—black bile, yellow bile, phlegm, and blood, these were produced by various organs in the body, and they had to be in balance for a person to remain healthy. Too much phlegm in the body, for example, caused lung problems; and the body tried to cough up the phlegm to restore a balance. The balance of humours in humans could be achieved by diet, medicines, and by blood-letting, using leeches. The four humours were also associated with the four seasons, black bile-autumn, yellow bile-summer, phlegm-winter and blood-spring.[116]
 
 Healing included both physical and spiritual therapeutics, such as the right herbs, a suitable diet, clean bedding, and the sense that care was always at hand. Other procedures used to help patients included the Mass, prayers, relics of saints, and music used to calm a troubled mind or quickened pulse.[117]
 
@@ -154,13 +154,13 @@ Renaissance to early modern period 16th–18th century
 
 The Renaissance brought an intense focus on scholarship to Christian Europe. A major effort to translate the Arabic and Greek scientific works into Latin emerged. Europeans gradually became experts not only in the ancient writings of the Romans and Greeks, but in the contemporary writings of Islamic scientists. During the later centuries of the Renaissance came an increase in experimental investigation, particularly in the field of dissection and body examination, thus advancing our knowledge of human anatomy.[119]
 
-William_Harvey_(_1578-1657)_Venenbild.jpg's _de Motu Cordis_, 1628]]
+'s _de Motu Cordis_, 1628]]
 
 The development of modern neurology began in the 16th century in Italy and France with Niccolò Massa, Jean Fernel, Jacques Dubois and Andreas Vesalius. Vesalius described in detail the anatomy of the brain and other organs; he had little knowledge of the brain's function, thinking that it resided mainly in the ventricles. Over his lifetime he corrected over 200 of Galen's mistakes. Understanding of medical sciences and diagnosis improved, but with little direct benefit to health care. Few effective drugs existed, beyond opium and quinine. Folklore cures and potentially poisonous metal-based compounds were popular treatments. Independently from Ibn al-Nafis, Michael Servetus rediscovered the pulmonary circulation, but this discovery did not reach the public because it was written down for the first time in the "Manuscript of Paris"[120] in 1546, and later published in the theological work which he paid with his life in 1553. Later this was perfected by Renaldus Columbus and Andrea Cesalpino.
 
 In 1628 the English physician William Harvey made a ground-breaking discovery when he correctly described the circulation of the blood in his _Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus_. Before this time the most useful manual in medicine used both by students and expert physicians was Dioscorides' _De Materia Medica_, a pharmacopoeia.
 
-Leeuwenhoek_Microscope.png's microscope of the 1670s]] Bacteria and protists were first observed with a microscope by Antonie van Leeuwenhoek in 1676, initiating the scientific field of microbiology.[121]
+'s microscope of the 1670s]] Bacteria and protists were first observed with a microscope by Antonie van Leeuwenhoek in 1676, initiating the scientific field of microbiology.[121]
 
 Paracelsus
 
@@ -168,7 +168,7 @@ Paracelsus (1493–1541), was an erratic and abusive innovator who rejected Gale
 
 Padua and Bologna
 
-Vesalius_Fabrica_p190.jpg's 1543 _De humani corporis fabrica_ contained intricately detailed drawings of human dissections, often in allegorical poses.]]
+'s 1543 _De humani corporis fabrica_ contained intricately detailed drawings of human dissections, often in allegorical poses.]]
 
 University training of physicians began in the 13th century.
 
@@ -188,7 +188,7 @@ Meanwhile, in Catholic lands such as France, rich families continued to fund con
 
 Age of Enlightenment
 
-18th_Century_Recipes_f.459_-_Medical_remedies.jpg During the Age of Enlightenment, the 18th century, science was held in high esteem and physicians upgraded their social status by becoming more scientific. The health field was crowded with self-trained barber-surgeons, apothecaries, midwives, drug peddlers, and charlatans.
+During the Age of Enlightenment, the 18th century, science was held in high esteem and physicians upgraded their social status by becoming more scientific. The health field was crowded with self-trained barber-surgeons, apothecaries, midwives, drug peddlers, and charlatans.
 
 Across Europe medical schools relied primarily on lectures and readings. The final year student would have limited clinical experience by trailing the professor through the wards. Laboratory work was uncommon, and dissections were rarely done because of legal restrictions on cadavers. Most schools were small, and only Edinburgh, Scotland, with 11,000 alumni, produced large numbers of graduates.[140][141]
 
@@ -198,7 +198,7 @@ In Britain, there were but three small hospitals after 1550. Pelling and Webster
 
 The London Dispensary opened in 1696, the first clinic in the British Empire to dispense medicines to poor sick people. The innovation was slow to catch on, but new dispensaries were open in the 1770s. In the colonies, small hospitals opened in Philadelphia in 1752, New York in 1771, and Boston (Massachusetts General Hospital) in 1811.[143]
 
-Guy's_Hospital00.jpg in 1820]]
+in 1820]]
 
 Guy's Hospital, the first great British hospital opened in 1721 in London, with funding from businessman Thomas Guy. In 1821 a bequest of £200,000 by William Hunt in 1829 funded expansion for an additional hundred beds. Samuel Sharp (1709–78), a surgeon at Guy's Hospital, from 1733 to 1757, was internationally famous; his _A Treatise on the Operations of Surgery_ (1st ed., 1739), was the first British study focused exclusively on operative technique.[144]
 
@@ -206,11 +206,11 @@ English physician Thomas Percival (1740–1804) wrote a comprehensive system of 
 
 Spain and Spanish Empire
 
-FlorentineCodex_BK12_F54_smallpox.jpg in Franciscan Bernardino de Sahagún's history of the conquest of Mexico, Book XII of the _Florentine Codex_, from the defeated Aztecs' point of view]]
+in Franciscan Bernardino de Sahagún's history of the conquest of Mexico, Book XII of the _Florentine Codex_, from the defeated Aztecs' point of view]]
 
 In the Spanish Empire, the viceregal capital of Mexico City was a site of medical training for physicians and the creation of hospitals. Epidemic disease had decimated indigenous populations starting with the early sixteenth-century Spanish conquest of the Aztec empire, when a black auxiliary in the armed forces of conqueror Hernán Cortés, with an active case of smallpox, set off a virgin land epidemic among indigenous peoples, Spanish allies and enemies alike. Aztec emperor Cuitlahuac died of smallpox.[146][147] Disease was a significant factor in the Spanish conquest elsewhere as well.[148]
 
-Dibujo_Escudo_de_Armas_de_México.jpg]]
+]]
 
 Medical education instituted at the Royal and Pontifical University of Mexico chiefly served the needs of urban elites. Male and female _curanderos_ or lay practitioners, attended to the ills of the popular classes. The Spanish crown began regulating the medical profession just a few years after the conquest, setting up the Royal Tribunal of the Protomedicato, a board for licensing medical personnel in 1527. Licensing became more systematic after 1646 with physicians, druggists, surgeons, and bleeders requiring a license before they could publicly practice.[149] Crown regulation of medical practice became more general in the Spanish empire.[150]
 
@@ -229,7 +229,7 @@ In the 1830s in Italy, Agostino Bassi traced the silkworm disease muscardine to 
 
 In 1847 in Vienna, Ignaz Semmelweis (1818–1865), dramatically reduced the death rate of new mothers (due to childbed fever) by requiring physicians to clean their hands before attending childbirth, yet his principles were marginalized and attacked by professional peers.[157] At that time most people still believed that infections were caused by foul odors called miasmas.
 
-Louis_Pasteur_experiment.jpg experimenting on bacteria, c. 1870]]
+experimenting on bacteria, c. 1870]]
 
 Eminent French scientist Louis Pasteur confirmed Schwann's fermentation experiments in 1857 and afterwards supported the hypothesis that yeast were microorganisms. Moreover, he suggested that such a process might also explain contagious disease. In 1860, Pasteur's report on bacterial fermentation of butyric acid motivated fellow Frenchman Casimir Davaine to identify a similar species (which he called _bacteridia_) as the pathogen of the deadly disease anthrax. Others dismissed "bacteridia" as a mere byproduct of the disease. British surgeon Joseph Lister, however, took these findings seriously and subsequently introduced antisepsis to wound treatment in 1865.
 
@@ -243,7 +243,7 @@ Women
 
 Women as nurses
 
-Florence_Nightingale_three_quarter_length.jpg triggered the professionalization of nursing. Photograph c. 1860]]
+triggered the professionalization of nursing. Photograph c. 1860]]
 
 Women had always served in ancillary roles, and as midwives and healers. The professionalization of medicine forced them increasingly to the sidelines. As hospitals multiplied they relied in Europe on orders of Roman Catholic nun-nurses, and German Protestant and Anglican deaconesses in the early 19th century. They were trained in traditional methods of physical care that involved little knowledge of medicine. The breakthrough to professionalization based on knowledge of advanced medicine was led by Florence Nightingale in England. She resolved to provide more advanced training than she saw on the Continent. At Kaiserswerth, where the first German nursing schools were founded in 1836 by Theodor Fliedner, she said, "The nursing was nil and the hygiene horrible."[167]) Britain's male doctors preferred the old system, but Nightingale won out and her Nightingale Training School opened in 1860 and became a model. The Nightingale solution depended on the patronage of upper class women, and they proved eager to serve. Royalty became involved. In 1902 the wife of the British king took control of the nursing unit of the British army, became its president, and renamed it after herself as the Queen Alexandra's Royal Army Nursing Corps; when she died the next queen became president. Today its Colonel In Chief is Sophie, Countess of Wessex, the daughter-in-law of Queen Elizabeth II. In the United States, upper middle class women who already supported hospitals promoted nursing. The new profession proved highly attractive to women of all backgrounds, and schools of nursing opened in the late 19th century. They soon a function of large hospitals, where they provided a steady stream of low-paid idealistic workers. The International Red Cross began operations in numerous countries in the late 19th century, promoting nursing as an ideal profession for middle class women.[168]
 
@@ -273,7 +273,7 @@ After 1871 Berlin, the capital of the new German Empire, became a leading center
 
 U.S. Civil War
 
-Hospital_Gettysburg.png hospital at Gettysburg, 1863]]
+hospital at Gettysburg, 1863]]
 
 In the American Civil War (1861–65), as was typical of the 19th century, more soldiers died of disease than in battle, and even larger numbers were temporarily incapacitated by wounds, disease and accidents.[180] Conditions were poor in the Confederacy, where doctors and medical supplies were in short supply.[181] The war had a dramatic long-term impact on medicine in the U.S., from surgical technique to hospitals to nursing and to research facilities. Weapon development -particularly the appearance of Springfield Model 1861, mass-produced and much more accurate than muskets led to generals underestimating the risks of long range rifle fire; risks exemplified in the death of John Sedgwick and the disastrous Pickett's Charge. The rifles could shatter bone forcing amputation and longer ranges meant casualties were sometimes not quickly found. Evacuation of the wounded from Second Battle of Bull Run took a week.[182] As in earlier wars, untreated casualties sometimes survived unexpectedly due to maggots debriding the wound -an observation which led to the surgical use of maggots -still a useful method in the absence of effective antibiotics.
 
@@ -285,7 +285,7 @@ The U.S. Army learned many lessons and in August 1886, it established the Hospit
 
 Statistical methods
 
-Nightingale-mortality.jpg of the causes of mortality in the army in the East''" by Florence Nightingale.]]
+of the causes of mortality in the army in the East''" by Florence Nightingale.]]
 
 A major breakthrough in epidemiology came with the introduction of statistical maps and graphs. They allowed careful analysis of seasonality issues in disease incidents, and the maps allowed public health officials to identify critical loci for the dissemination of disease. John Snow in London developed the methods. In 1849, he observed that the symptoms of cholera, which had already claimed around 500 lives within a month, were vomiting and diarrhoea. He concluded that the source of contamination must be through ingestion, rather than inhalation as was previously thought. It was this insight that resulted in the removal of The Pump On Broad Street, after which deaths from cholera plummeted afterwards. English nurse Florence Nightingale pioneered analysis of large amounts of statistical data, using graphs and tables, regarding the condition of thousands of patients in the Crimean War to evaluate the efficacy of hospital services. Her methods proved convincing and led to reforms in military and civilian hospitals, usually with the full support of the government.[187][188][189]
 
@@ -309,11 +309,11 @@ Japanese physicians immediately recognized the values of X-Rays. They were able 
 
 Psychiatry
 
-RetreatOriginalBuildingssm.jpg, founded in 1796, gained international prominence as a centre for moral treatment and a model of asylum reform following the publication of Samuel Tuke's _Description of the Retreat_ (1813).]]
+, founded in 1796, gained international prominence as a centre for moral treatment and a model of asylum reform following the publication of Samuel Tuke's _Description of the Retreat_ (1813).]]
 
 Until the nineteenth century, the care of the insane was largely a communal and family responsibility rather than a medical one. The vast majority of the mentally ill were treated in domestic contexts with only the most unmanageable or burdensome likely to be institutionally confined.[201] This situation was transformed radically from the late eighteenth century as, amid changing cultural conceptions of madness, a new-found optimism in the curability of insanity within the asylum setting emerged.[202] Increasingly, lunacy was perceived less as a physiological condition than as a mental and moral one[203] to which the correct response was persuasion, aimed at inculcating internal restraint, rather than external coercion.[204] This new therapeutic sensibility, referred to as moral treatment, was epitomised in French physician Philippe Pinel's quasi-mythological unchaining of the lunatics of the Bicêtre Hospital in Paris[205] and realised in an institutional setting with the foundation in 1796 of the Quaker-run York Retreat in England.[206]
 
-Asylum_patient_by_Hugh_Welch_Diamond,_c1850-58.jpg, c. 1850–58. The asylum population in England and Wales rose from 1,027 in 1827 to 74,004 in 1900.]]
+, c. 1850–58. The asylum population in England and Wales rose from 1,027 in 1827 to 74,004 in 1900.]]
 
 From the early nineteenth century, as lay-led lunacy reform movements gained in influence,[207] ever more state governments in the West extended their authority and responsibility over the mentally ill.[208] Small-scale asylums, conceived as instruments to reshape both the mind and behaviour of the disturbed,[209] proliferated across these regions.[210] By the 1830s, moral treatment, together with the asylum itself, became increasingly medicalised[211] and asylum doctors began to establish a distinct medical identity with the establishment in the 1840s of associations for their members in France, Germany, the United Kingdom and America, together with the founding of medico-psychological journals.[212] Medical optimism in the capacity of the asylum to cure insanity soured by the close of the nineteenth century as the growth of the asylum population far outstripped that of the general population.[213] Processes of long-term institutional segregation, allowing for the psychiatric conceptualisation of the natural course of mental illness, supported the perspective that the insane were a distinct population, subject to mental pathologies stemming from specific medical causes.[214] As degeneration theory grew in influence from the mid-nineteenth century,[215] heredity was seen as the central causal element in chronic mental illness,[216] and, with national asylum systems overcrowded and insanity apparently undergoing an inexorable rise, the focus of psychiatric therapeutics shifted from a concern with treating the individual to maintaining the racial and biological health of national populations.[217]
 
@@ -342,7 +342,7 @@ From 1917 to 1923, the American Red Cross moved into Europe with a battery of lo
 
 Second World War
 
-Ww2-53.jpg during the Pacific War, 1943. Major wars showed the need for effective hygiene and medical treatment.]]
+during the Pacific War, 1943. Major wars showed the need for effective hygiene and medical treatment.]]
 
 The advances in medicine made a dramatic difference for Allied troops, while the Germans and especially the Japanese and Chinese suffered from a severe lack of newer medicines, techniques and facilities. Harrison finds that the chances of recovery for a badly wounded British infantryman were as much as 25 times better than in the First World War. The reason was that:
 
@@ -358,7 +358,7 @@ Starting in World War II, DDT was used as insecticide to combat insect vectors c
 
 Post-World War II
 
-Fighting_smallpox_in_Niger,_1969.jpg vaccination in Niger, 1969. A decade later, this was the first infectious disease to be eradicated.]] Life_expectancy_in_select_Southern_African_countries_1960-2012.svg epidemic beginning around 1990 has eroded national health.]] Infant_with_cochlear_implant.jpg is a common kind of neural prosthesis, a device replacing part of the human nervous system.]] The World Health Organization was founded in 1948 as a United Nations agency to improve global health. In most of the world, life expectancy has improved since then, and was about 67 years , and well above 80 years in some countries. Eradication of infectious diseases is an international effort, and several new vaccines have been developed during the post-war years, against infections such as measles, mumps, several strains of influenza and human papilloma virus. The long-known vaccine against Smallpox finally eradicated the disease in the 1970s, and Rinderpest was wiped out in 2011. Eradication of polio is underway. Tissue culture is important for development of vaccines. Though the early success of antiviral vaccines and antibacterial drugs, antiviral drugs were not introduced until the 1970s. Through the WHO, the international community has developed a response protocol against epidemics, displayed during the SARS epidemic in 2003, the Influenza A virus subtype H5N1 from 2004, the Ebola virus epidemic in West Africa and onwards.
+vaccination in Niger, 1969. A decade later, this was the first infectious disease to be eradicated.]] epidemic beginning around 1990 has eroded national health.]] is a common kind of neural prosthesis, a device replacing part of the human nervous system.]] The World Health Organization was founded in 1948 as a United Nations agency to improve global health. In most of the world, life expectancy has improved since then, and was about 67 years , and well above 80 years in some countries. Eradication of infectious diseases is an international effort, and several new vaccines have been developed during the post-war years, against infections such as measles, mumps, several strains of influenza and human papilloma virus. The long-known vaccine against Smallpox finally eradicated the disease in the 1970s, and Rinderpest was wiped out in 2011. Eradication of polio is underway. Tissue culture is important for development of vaccines. Though the early success of antiviral vaccines and antibacterial drugs, antiviral drugs were not introduced until the 1970s. Through the WHO, the international community has developed a response protocol against epidemics, displayed during the SARS epidemic in 2003, the Influenza A virus subtype H5N1 from 2004, the Ebola virus epidemic in West Africa and onwards.
 
 As infectious diseases have become less lethal, and the most common causes of death in developed countries are now tumors and cardiovascular diseases, these conditions have received increased attention in medical research. Tobacco smoking as a cause of lung cancer was first researched in the 1920s, but was not widely supported by publications until the 1950s. Cancer treatment has been developed with radiotherapy, chemotherapy and surgical oncology.
 

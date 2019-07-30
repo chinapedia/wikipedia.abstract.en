@@ -21,13 +21,11 @@ On 13 October 1941, the SS and Police Leader Odilo Globocnik stationing in Lubli
 
 Definition
 
-Auschwitz_Resistance_280_cropped.jpg'' burned the bodies of victims in the fire pits at Auschwitz II-Birkenau, when the crematoria were overloaded.[21]]]
+'' burned the bodies of victims in the fire pits at Auschwitz II-Birkenau, when the crematoria were overloaded.[21]]]
 
 The Nazis distinguished between extermination and concentration camps, although the terms _extermination camp_ (_Vernichtungslager_) and _death camp_ (_Todeslager_) were interchangeable, each referring to camps whose primary function was genocide. _Todeslagers_ were designed specifically for the systematic killing of people delivered en masse by the Holocaust trains. The executioners did not expect the prisoners to survive more than a few hours beyond arrival at Belzec, Sobibór, and Treblinka.[22] The Reinhard extermination camps were under Globocnik's direct command; each of them was run by 20 to 35 men from the _SS-Totenkopfverbände_ branch of the _Schutzstaffel_, augmented by about one hundred Trawnikis – auxiliaries mostly from Soviet Ukraine, and up to one thousand _Sonderkommando_ slave labourers each.[23] The Jewish men, women and children were delivered from the ghettos for "special treatment" in an atmosphere of terror by uniformed police battalions from both, Orpo and Schupo.[24]
 
 Death camps differed from concentration camps located in Germany proper, such as Bergen-Belsen, Oranienburg, Ravensbrück, and Sachsenhausen, which were prison camps set up prior to World War II for people defined as 'undesirable'. From March 1936, all Nazi concentration camps were managed by the _SS-Totenkopfverbände_ (the Skull Units, SS-TV), who operated extermination camps from 1941 as well.[25] An SS anatomist, Dr. Johann Kremer, after witnessing the gassing of victims at Birkenau, wrote in his diary on 2 September 1942: "Dante's Inferno seems to me almost a comedy compared to this. They don't call Auschwitz the camp of annihilation for nothing!"[26] The distinction was evident during the Nuremberg trials, when Dieter Wisliceny (a deputy to Adolf Eichmann) was asked to name the _extermination_ camps, and he identified Auschwitz and Majdanek as such. Then, when asked, "How do you classify the camps Mauthausen, Dachau, and Buchenwald?", he replied, "They were normal concentration camps, from the point of view of the department of Eichmann."[27]
-
-WW2-Holocaust-Europe.png
 
 Irrespective of round-ups for extermination camps, the Nazis abducted millions of foreigners for slave labour in other types of camps,[28] which provided perfect cover for the extermination programme.[29] Prisoners represented about a quarter of the total workforce of the Reich, with mortality rates exceeding 75 percent due to starvation, disease, exhaustion, executions, and physical brutality.[30]
 
@@ -38,7 +36,7 @@ In the early years of World War II, the Jews were primarily sent to forced labou
 
 Pure extermination camps
 
-Children_headed_for_deportation.JPG]] During the initial phase of the Final Solution, gas vans producing poisonous exhaust fumes were developed in the occupied Soviet Union (USSR) and at the Chełmno extermination camp in occupied Poland, before being used elsewhere. The killing method was based on experience gained by the SS during the secretive _Aktion T4_ programme of involuntary euthanasia. There were two types of death chambers operating during the Holocaust.[33]
+]] During the initial phase of the Final Solution, gas vans producing poisonous exhaust fumes were developed in the occupied Soviet Union (USSR) and at the Chełmno extermination camp in occupied Poland, before being used elsewhere. The killing method was based on experience gained by the SS during the secretive _Aktion T4_ programme of involuntary euthanasia. There were two types of death chambers operating during the Holocaust.[33]
 
 Unlike at Auschwitz, where the cyanide-based Zyklon-B was used to exterminate trainloads of prisoners under the guise of "relocation", the camps at Treblinka, Bełżec, and Sobibór, built during Operation Reinhard (October 1941 – November 1943), used lethal exhaust fumes produced by large internal combustion engines. The three killing centres of _Einsatz Reinhard_ were constructed predominantly for the extermination of Poland's Jews trapped in the Nazi ghettos.[34] At first, the victim's bodies were buried with the use of crawler excavators, but they were later exhumed and incinerated in open-air pyres to hide the evidence of genocide in what became known as Sonderaktion 1005.[35][36]
 
@@ -48,13 +46,13 @@ The Nazis deceived the victims upon their arrival, telling them that they were a
 
 Concentration and extermination camps
 
-Auschwitz_Resistance_282_cropped.JPG taken secretly at Auschwitz II in August 1944]] At the camps of Operation Reinhard, including Bełżec, Sobibór, and Treblinka, trainloads of prisoners were destined for immediate death in gas chambers designed exclusively for that purpose.[40] The mass killing facilities were developed at about the same time inside the Auschwitz II-Birkenau subcamp of a forced labour complex,[41] and at the Majdanek concentration camp.[42] In most other camps prisoners were selected for slave labor first; they were kept alive on starvation rations and made available to work as required. Auschwitz, Majdanek, and Jasenovac were retrofitted with Zyklon-B gas chambers and crematoria buildings as the time went on, remaining operational until war's end in 1945.[43] The Maly Trostenets extermination camp in the USSR initially operated as a prison camp. It became an extermination camp later in the war with victims undergoing mass shootings. This was supplemented with gassings in a van by exhaust fumes from October 1943.
+taken secretly at Auschwitz II in August 1944]] At the camps of Operation Reinhard, including Bełżec, Sobibór, and Treblinka, trainloads of prisoners were destined for immediate death in gas chambers designed exclusively for that purpose.[40] The mass killing facilities were developed at about the same time inside the Auschwitz II-Birkenau subcamp of a forced labour complex,[41] and at the Majdanek concentration camp.[42] In most other camps prisoners were selected for slave labor first; they were kept alive on starvation rations and made available to work as required. Auschwitz, Majdanek, and Jasenovac were retrofitted with Zyklon-B gas chambers and crematoria buildings as the time went on, remaining operational until war's end in 1945.[43] The Maly Trostenets extermination camp in the USSR initially operated as a prison camp. It became an extermination camp later in the war with victims undergoing mass shootings. This was supplemented with gassings in a van by exhaust fumes from October 1943.
 
 The Sajmište concentration camp operated by the Nazis in Yugoslavia had a gas van stationed for use from March to June 1942. Once the industrial killings were completed, the van was returned to Berlin. After a refit the van was then sent to Maly Trostinets for use at the camp there. The Janowska concentration camp near Lwow (now Lviv) in occupied eastern Poland implemented a selection process. Some prisoners were assigned to work before death. Others were either transported to Bełżec or victims of mass shootings on two slopes in the Piaski sand-hills behind the camp. The Warsaw concentration camp was a camp complex of the German concentration camps, possibly including an extermination camp located in German-occupied Warsaw. The various details regarding the camp are very controversial and remain subject of historical research and public debate.[44]
 
 Other means of extermination
 
-Adolf_Hitler_meets_Ante_Pavelić.1941.jpg'' Adolf Hitler (left) with Ustaše _Poglavnik_ Ante Pavelić (right) at the Berghof outside Berchtesgaden, Germany]]
+'' Adolf Hitler (left) with Ustaše _Poglavnik_ Ante Pavelić (right) at the Berghof outside Berchtesgaden, Germany]]
 
 With the support of Nazi Germany and Fascist Italy, the Independent State of Croatia (NDH) was established on 10 April 1941, and adopted parallel racial and political doctrines. Death camps were established by the fascist Ustaše government for contributing to the Nazi "final solution" to the "Jewish problem", the killing of Roma people, and the elimination of political opponents, but most significantly to achieve the destruction of the Serbian population of the NDH.[45][46] The degree of cruelty with which the Serb population was persecuted by Ustaše men shocked even the Germans.[47]
 
@@ -65,7 +63,7 @@ The Jasenovac concentration camp complex of five sub-camps replaced Jadovno. Man
 
 Extermination procedure
 
-May_1944_-_Jews_from_Carpathian_Ruthenia_arrive_at_Auschwitz-Birkenau.jpg)]]
+)]]
 
 Heinrich Himmler visited the outskirts of Minsk in 1941 to witness a mass shooting. He was told by the commanding officer there that the shootings were proving psychologically damaging to those being asked to pull the triggers. Thus Himmler knew another method of mass killing was required.[50] After the war, the diary of the Auschwitz Commandant, Rudolf Höss, revealed that psychologically "unable to endure wading through blood any longer", many _Einsatzkommandos_ – the killers – either went mad or killed themselves.[51]
 
@@ -77,7 +75,7 @@ Gassings
 
 SS _Obersturmführer_ Kurt Gerstein, of the Institute for Hygiene of the Waffen-SS, told a Swedish diplomat during the war of life in a death camp. He recounted that, on 19 August 1942, he arrived at Belzec extermination camp (which was equipped with carbon monoxide gas chambers) and was shown the unloading of 45 train cars filled with 6,700 Jews, many already dead. The rest were marched naked to the gas chambers, where:
 
-Birkenau_a_group_of_Jews_walking_towards_the_gas_chambers_and_crematoria.jpg)]]
+)]]
 
 Auschwitz Camp Commandant Rudolf Höss reported that the first time Zyklon B pellets[54] were used on the Jews, many suspected they were to be killed – despite having been deceived into believing they were to be deloused[55] and then returned to the camp. As a result, the Nazis identified and isolated "difficult individuals" who might alert the prisoners, and removed them from the mass – lest they incite revolt among the deceived majority of prisoners en route to the gas chambers. The "difficult" prisoners were led to a site out of view to be killed off discreetly.
 
@@ -100,8 +98,6 @@ The _Sonderkommando_ were responsible for burning the corpses in the pits,[62] s
 At Auschwitz, the corpses were incinerated in crematoria and the ashes either buried, scattered, or dumped in the river. At Sobibór, Treblinka, Bełżec, and Chełmno, the corpses were incinerated on pyres. The efficiency of industrialised killing at Auschwitz-Birkenau led to the construction of three buildings with crematoria designed by specialists from the firm J.A. Topf & Söhne. They burned bodies 24 hours a day, and yet the death rate was at times so high that corpses also needed to be burned in open-air pits.[68]
 
 Ustaše camps
-
-Corpses_in_the_Sava_river,_Jasenovac_camp,_1945.jpg
 
 The United States Holocaust Memorial Museum (USHMM) in Washington, DC, presently estimates that the Ustaša regime in Croatia murdered between 77,000 and 99,000 people at the Jasenovac concentration camp between 1941 and 1945. The Jasenovac Memorial Site quotes a similar figure of between 80,000 and 100,000 victims.[69] An episode of the television documentary, "Nazi Collaborators" described the crimes of Dinko Sakic and stated that over 300,000 people were killed at Jasenovac.[70] The mechanical means of mass killing at Jasenovac initially included the use of gas vans and later Zyklon B in stationary gas chambers. The Jasenovac guards were also reported to have cremated living inmates in the crematorium. A notable difference with the Ustaše camps as compared to the German _SS_ camps was the widespread use of manual methods in the mass killings. These involved instruments such as mallets and agricultural knives which were often used in a manner where victims were thrown off the end of a ramp into the Sava River while they were still alive .
 
@@ -139,7 +135,7 @@ The estimated total number of people executed in the Nazi extermination camps in
 
 Dismantling and attempted concealment
 
-Jewish_prisoners_forced_to_work_for_a_Sonderkommando_1005_unit_pose_next_to_a_bone_crushing_machine_in_the_Janowska_concentration_camp.jpg ]]
+]]
 
 The Nazis attempted to either partially or completely dismantle the extermination camps in order to hide any evidence that people had been murdered there. This was an attempt to conceal not only the extermination process but also the buried remains. As a result of the secretive Sonderaktion 1005, the camps were dismantled by commandos of condemned prisoners, their records were destroyed, and the mass graves were dug up. Some extermination camps that remained uncleared of evidence were liberated by Soviet troops, who followed different standards of documentation and openness than the Western allies did.[83][84]
 
@@ -154,7 +150,7 @@ The March of the Living is organized in Poland annually since 1988.[86] Marchers
 
 The camps and Holocaust denial
 
-Bundesarchiv_Bild_183-C0509-0049-006,_KZ_Treblinka,_Wehrmacht-Frachtbrief.jpg consignment note for delivering prisoners (_Häftlinge_) to Sobibór in November 1943]]
+consignment note for delivering prisoners (_Häftlinge_) to Sobibór in November 1943]]
 
 Holocaust deniers or negationists are people and organizations who assert that the Holocaust did not occur, or that it did not occur in the historically recognized manner and extent.[88]
 

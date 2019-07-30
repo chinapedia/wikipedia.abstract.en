@@ -3,7 +3,7 @@ Because Cyprus has no working railway system, various other methods of transport
 
 Roads
 
-A1_Motorway_Cyprus.JPG]]
+]]
 
 Of the 12,118 km of roads in the areas controlled by the Republic of Cyprus in 2006, 7,850 km were paved, while 4,268 km were unpaved. In 1996, the Turkish Cypriot area showed a close, but smaller ratio of paved to unpaved with about 1,370 km out of 2,350 km paved and 980 km unpaved.[1] As a legacy of British rule, Cyprus is one of only four EU nations in which vehicles drive on the left.
 
@@ -18,7 +18,7 @@ Motorways
 -   A9 Nicosia to Astromeritis (partially under construction)
 -   A22 Dali industrial area to Anthoupolis, Lakatamia (Nicosia 3rd ring road, final plans)
 
-Somolos_square_Bus_station_in_Nicosia_Republic_of_Cyprus_during_evening.jpg bus station]]
+bus station]]
 
 Public buses
 
@@ -48,7 +48,7 @@ Some bus routes are:
 
 Licensed vehicles
 
-Solomos_Square_bus_station_in_Nicosia_Republic_of_Cyprus.jpg, Nicosia]] MercedesW210-Cyprus.JPG Road transport is the dominant form of transport on the island. Figures released by the International Road Federation in 2007 show that Cyprus holds the highest car ownership rate in the world with 742 cars per 1,000 people.[2]
+, Nicosia]] Road transport is the dominant form of transport on the island. Figures released by the International Road Federation in 2007 show that Cyprus holds the highest car ownership rate in the world with 742 cars per 1,000 people.[2]
 
   Vehicle Category   2001      2002      2003      2004      2005      2006      2007      2008      2009
   ------------------ --------- --------- --------- --------- --------- --------- --------- --------- ---------
@@ -81,8 +81,6 @@ List of ports and harbours: Larnaca, Limassol, Paphos, Vasilikos.
 
 Public Bicycle sharing system
 
-New_Public_Buses_in_Nicosia_Republic_of_Cyprus_in_the_afternoon.jpg
-
 Bike in Action is the latest transportation system for the greater Nicosia area, similar to programs employed successfully in various cities around the world (Paris, Barcelona, Amsterdam, Melbourne, etc.). Bicycles can be found at stations in all participating municipalities (Agios Dometios, Aglandjia, Dali, Engomi, Latsia, Pallouriotissa, Strovolos) and returned after their use at any station.
 
 
@@ -97,7 +95,7 @@ _ships by type:_ barge carrier 2, bulk carrier 442, cargo ship 495, chemical tan
 
 Airports
 
-New_Larnaca_Airport.JPG In 1999, Cyprus had 12 airports with paved runways. Of them, seven had runways of lengths between 2,438 and 3,047 metres, one had a length between 1,524 and 2,437 metres, three had lengths between 914 and 1524 metres, and one had a length less than 914 metres.
+In 1999, Cyprus had 12 airports with paved runways. Of them, seven had runways of lengths between 2,438 and 3,047 metres, one had a length between 1,524 and 2,437 metres, three had lengths between 914 and 1524 metres, and one had a length less than 914 metres.
 
 Of the three airports with unpaved runways, two had lengths less than 914 metres and one had a length between 914 and 1524 metres.
 

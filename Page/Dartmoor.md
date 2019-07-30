@@ -11,13 +11,13 @@ Physical geography
 
 Geology
 
-Cornubian_batholith.png in southwest England and the gravity anomaly associated with it]]
+in southwest England and the gravity anomaly associated with it]]
 
 Dartmoor includes the largest area of granite in Britain, with about at the surface, though most of it is under superficial peat deposits. The granite (or more specifically adamellite) was intruded at depth as a pluton into the surrounding sedimentary rocks during the Carboniferous period, probably about 309 million years ago.[2] It is generally accepted that the present surface is not far below the original top of the pluton; evidence for this includes partly digested shale xenoliths, contamination of the granite and the existence of two patches of altered sedimentary rock on top of the granite.[3] A considerable gravity anomaly is associated with the Dartmoor pluton as with other such plutons.[4] Measurement of the anomaly has helped to determine the likely shape and extent of the rock mass at depth.
 
 Tors
 
-Saddle_tor_to_Hey_tor_pano.jpg in snow]] High_Willhays.jpg with Yes Tor behind]]
+in snow]] with Yes Tor behind]]
 
 Dartmoor is known for its tors – hills topped with outcrops of bedrock, which in granite country such as this are usually rounded boulder-like formations. More than 160 of the hills of Dartmoor have the word _tor_ in their name but quite a number do not.[5] However, this does not appear to relate to whether or not there is an outcrop of rock on their summit. The tors are the focus of an annual event known as the Ten Tors Challenge, when around 2400 people aged between 14 and 19 walk for distances of 56, 72 or 88 km (35, 45 or 55 mi) between ten tors on many differing routes.
 
@@ -25,7 +25,7 @@ The highest points on Dartmoor are on the northern moor: High Willhays, , () and
 
 Rivers
 
-ErmeIvybridge.jpg at Ivybridge]]
+at Ivybridge]]
 
 The high ground of Dartmoor forms the catchment area for many of Devon's rivers. As well as shaping the landscape, these have traditionally provided a source of power for moor industries such as tin mining and quarrying.
 
@@ -37,7 +37,7 @@ Bogs
 
 Much more rain falls on Dartmoor than in the surrounding lowlands. As much of the national park is covered in thick layers of peat (decaying vegetation), the rain is usually absorbed quickly and distributed slowly, so the moor is rarely dry. In areas where water accumulates, dangerous bogs or mires can result. Some of these, topped with bright green moss, are known to locals as "feather beds" or "quakers", because they can shift (or 'quake') beneath a person's feet. Quakers result from sphagnum moss growing over the water that accumulates in the hollows in the granite.[7][8][9]
 
-Aune_head_mire3.jpg, the source of the River Avon]] The vegetation of the bogs depends on the type and location. Blanket bog, which forms on the highest land where the rainfall exceeds a year, consists mainly of cotton-grass (_Eriophorum_ species), sedges (_Carex_ and _Rhynchospora_), _Bog Asphodel_ and _Common Tormentil_, with _Sphagnum_ thriving in the wettest patches. The valley bogs have lush growth of rushes, with sphagnum, cross-leaved heath, sundews and several other species.[10]
+, the source of the River Avon]] The vegetation of the bogs depends on the type and location. Blanket bog, which forms on the highest land where the rainfall exceeds a year, consists mainly of cotton-grass (_Eriophorum_ species), sedges (_Carex_ and _Rhynchospora_), _Bog Asphodel_ and _Common Tormentil_, with _Sphagnum_ thriving in the wettest patches. The valley bogs have lush growth of rushes, with sphagnum, cross-leaved heath, sundews and several other species.[10]
 
 Some of the bogs on Dartmoor have achieved notoriety. Fox Tor Mires was supposedly the inspiration for Great Grimpen Mire in Conan Doyle's novel _The Hound of the Baskervilles_,[11] although there is a waymarked footpath across it. Sabine Baring-Gould, in his _Book of Dartmoor_ (1900) related the story of a man who was making his way through Aune Mire at the head of the River Avon when he came upon a top-hat brim down on the surface of the mire. He kicked it, whereupon a voice called out: "What be you a-doin' to my 'at?" The man replied, "Be there now a chap under'n?" "Ees, I reckon," was the reply, "and a hoss under me likewise."[12]
 
@@ -55,7 +55,7 @@ When average temperatures at Princetown between 1961 and 2000 are compared, the 
 
 Wildlife
 
-Because of Dartmoor's height and granite geology, it experiences strong winds and has acidic soils. In consequence it has been subject to very little intensive farming, and all these factors combine to form the basis of the important ecosystems found here. The landscape is one of granite with peat bogs overlying it. While the moors topped with granite tors are the most iconic part of Dartmoor's landscape, only about half of Dartmoor is actually moorland. Equally important for wildlife are the blanket bogs, upland heaths and the oak woodlands which are all of global importance.[18] Dartmoor is a Special Area of Conservation (SAC) with four habitats (_Northern Atlantic wet heaths with Erica tetralix_; _European dry heaths_; _Blanket bog_s and _Old sessile oak woods with Ilex and Blechnum in the British Isles_) being listed as primary reasons for the selection of Dartmoor as a SAC. In addition the area has a population of the Southern damselfly which is also a primary reason for its selection along with populations of Atlantic salmon and Otter being qualifying reasons.[19] Wisht.jpg Wistman's Wood is one of the old sessile oak woods which contribute to the listing of Dartmoor as a SAC and is possibly a surviving fragment from the earliest Neolithic woodland clearances. It is home to exceptional epiphytic mosses, liverworts and lichens. Nearly 50 species of moss and liverwort are found in the wood along with 120 types of lichen, including Smith's horsehair lichen, speckled sea-storm lichen and pendulous wing-moss. Over 60 species of lichens grow on the exposed surfaces of the granite tors, including granite-speck rim-lichen, purple rock lichen, brown cobblestone lichen and goldspot lichen and many rare lichen grow on rocks exposed by mining which are rich in heavy metals. On the upland heaths heather (ling) and bell heather are common along with western gorse. In dry grassy areas tormentil, heath bedstraw and heath milkwort are all common. Cross-leaved heath and purple moor grass grow in wetter spots and in the boggy areas many different species of sphagnum and other mosses can be found along with liverworts, Hare's-tail Cotton-grass, round-leaved sundew and bog asphodel and in the valley bottoms, many different sedges, bogbean and pale butterwort all grow.[20]
+Because of Dartmoor's height and granite geology, it experiences strong winds and has acidic soils. In consequence it has been subject to very little intensive farming, and all these factors combine to form the basis of the important ecosystems found here. The landscape is one of granite with peat bogs overlying it. While the moors topped with granite tors are the most iconic part of Dartmoor's landscape, only about half of Dartmoor is actually moorland. Equally important for wildlife are the blanket bogs, upland heaths and the oak woodlands which are all of global importance.[18] Dartmoor is a Special Area of Conservation (SAC) with four habitats (_Northern Atlantic wet heaths with Erica tetralix_; _European dry heaths_; _Blanket bog_s and _Old sessile oak woods with Ilex and Blechnum in the British Isles_) being listed as primary reasons for the selection of Dartmoor as a SAC. In addition the area has a population of the Southern damselfly which is also a primary reason for its selection along with populations of Atlantic salmon and Otter being qualifying reasons.[19] Wistman's Wood is one of the old sessile oak woods which contribute to the listing of Dartmoor as a SAC and is possibly a surviving fragment from the earliest Neolithic woodland clearances. It is home to exceptional epiphytic mosses, liverworts and lichens. Nearly 50 species of moss and liverwort are found in the wood along with 120 types of lichen, including Smith's horsehair lichen, speckled sea-storm lichen and pendulous wing-moss. Over 60 species of lichens grow on the exposed surfaces of the granite tors, including granite-speck rim-lichen, purple rock lichen, brown cobblestone lichen and goldspot lichen and many rare lichen grow on rocks exposed by mining which are rich in heavy metals. On the upland heaths heather (ling) and bell heather are common along with western gorse. In dry grassy areas tormentil, heath bedstraw and heath milkwort are all common. Cross-leaved heath and purple moor grass grow in wetter spots and in the boggy areas many different species of sphagnum and other mosses can be found along with liverworts, Hare's-tail Cotton-grass, round-leaved sundew and bog asphodel and in the valley bottoms, many different sedges, bogbean and pale butterwort all grow.[20]
 
 A large variety of bird species can be found on Dartmoor including ones that have declined elsewhere in the UK, such as skylark and snipe, or are even rare nationally, such as the ring ouzel and the cuckoo. There are internationally important populations of meadow pipit and stonechat. Woodland birds include a number of migrant species, like the pied flycatcher, the wood warbler or the common redstart.[21] Mammals found here include otters, hazel dormice and nearly all of the UK's 16 bat species. Three rare species, the barbastelle, and the greater and lesser horseshoe bats are of particular importance.[22] The upper reaches of the rivers, are spawning grounds for Salmon and trout and Palmate newts, frogs and toads breed in the numerous small pools. Two shrimp species can be found on Dartmoor: fairy shrimp that can be found in temporary pools and in underground streams very rare cave shrimp. The world's largest land slug, the Ash black, is also found. Reptiles include common lizards and adders.[23] The farmland in the wet valleys around the edge of the moors is the most important habitat for insects including the marsh fritillary butterfly, southern damselfly, narrow-bordered bee hawkmoth and bog hoverfly. Areas of bracken are home to the high brown fritillary and pearl-bordered fritillary. Insects found in the heathlands include the emperor moth, green hairstreak and the bilberry bumblebee. The old oak woodlands have a distinctive group of insects including the blue ground beetle and Heckford's pygmy moth, a species found nowhere else in the world.[24]
 
@@ -71,8 +71,6 @@ The climate at the time was warmer than today, and much of today's moorland was 
 After a few thousand years the mild climate deteriorated leaving these areas uninhabited and consequently relatively undisturbed to the present day. The highly acidic soil has ensured that no organic remains have survived, but the durability of the granite has meant that the remains of buildings, enclosures and monuments have survived well, as have flint tools. A number of remains were "restored" by enthusiastic Victorians and that, in some cases, they have placed their own interpretation on how an area may have looked.
 
 Standing stones
-
-Beardown_man_dartmoor.jpg
 
 Numerous prehistoric menhirs (more usually referred to locally as standing stones or longstones), stone circles, kistvaens, cairns and stone rows are to be found on the moor. The most significant sites include:
 
@@ -97,7 +95,7 @@ There are also numerous kistvaens, Neolithic stone box-like tombs.
 
 The historical period
 
-Crazywell_cross_1.JPG]]
+]]
 
 The climate became wetter and cooler over the course of a thousand years from around 1000 BC, resulting in much of high Dartmoor being largely abandoned by its early inhabitants.
 
@@ -112,7 +110,7 @@ The Dartmoor landscape is scattered with the marks left by the many generations 
 
 Myths and literature
 
-Jay's_Grave,_geograph.jpg]]
+]]
 
 Dartmoor is known for its myths and legends. It is reputedly the haunt of pixies, a headless horseman, a mysterious pack of "spectral hounds", and a large black dog, among others. During the Great Thunderstorm of 1638, the moorland village of Widecombe-in-the-Moor was even said to have been visited by the Devil.
 
@@ -146,7 +144,7 @@ The disused Rippon Tor Rifle Range was built to train soldiers during the Second
 
 Preservation
 
-Dartmoor_Clapper_Bridge_mod.jpg]] Dartmoor_pony_1.jpg
+]]
 
 Throughout human history, the landscape has been exploited for industrial purposes. In recent years, controversy has surrounded the work of industrial conglomerates Imerys and Sibelco (formerly Watts Blake Bearne), who have used parts of the moor for china clay mining. Licences were granted by the British Government but were recently renounced after sustained public pressure from bodies such as the Dartmoor Preservation Association.[35]
 
@@ -159,7 +157,7 @@ Those who objected included the Open Spaces Society and the Dartmoor Preservatio
 
 Towns and villages
 
-Saddle_tor_evening.jpg]]
+]]
 
 Dartmoor has a resident population of about 33,000,[36] which swells considerably during holiday periods with incoming tourists. The largest settlements within the National Park are Ashburton (the largest with a population of about 3,500), Buckfastleigh, Moretonhampstead, Princetown, Yelverton, Horrabridge, South Brent, Christow, and Chagford.[37]
 

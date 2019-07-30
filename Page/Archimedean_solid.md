@@ -38,41 +38,34 @@ The snub cube and snub dodecahedron are known as _chiral_, as they come in a lef
 
 Construction of Archimedean solids
 
-Polyhedron_truncation_example3.png.]] The different Archimedean and Platonic solids can be related to each other using a handful of general constructions. Starting with a Platonic solid, truncation involves cutting away of corners. To preserve symmetry, the cut is in a plane perpendicular to the line joining a corner to the center of the polyhedron and is the same for all corners. Depending on how much is truncated (see table below), different Platonic and Archimedean (and other) solids can be created. If the truncation is exactly deep enough such that each pair of faces from adjacent vertices shares exactly one point, it is known as a rectification. An expansion, or cantellation, involves moving each face away from the center (by the same distance so as to preserve the symmetry of the Platonic solid) and taking the convex hull. Expansion with twisting also involves rotating the faces, thus splitting each rectangle corresponding to an edge into two triangles by one of the diagonals of the rectangle. The last construction we use here is truncation of both corners and edges. Ignoring scaling, expansion can also be viewed the rectification of the rectification. Likewise, the cantitruncation can be viewed as the truncation of the rectification.
+.]] The different Archimedean and Platonic solids can be related to each other using a handful of general constructions. Starting with a Platonic solid, truncation involves cutting away of corners. To preserve symmetry, the cut is in a plane perpendicular to the line joining a corner to the center of the polyhedron and is the same for all corners. Depending on how much is truncated (see table below), different Platonic and Archimedean (and other) solids can be created. If the truncation is exactly deep enough such that each pair of faces from adjacent vertices shares exactly one point, it is known as a rectification. An expansion, or cantellation, involves moving each face away from the center (by the same distance so as to preserve the symmetry of the Platonic solid) and taking the convex hull. Expansion with twisting also involves rotating the faces, thus splitting each rectangle corresponding to an edge into two triangles by one of the diagonals of the rectangle. The last construction we use here is truncation of both corners and edges. Ignoring scaling, expansion can also be viewed the rectification of the rectification. Likewise, the cantitruncation can be viewed as the truncation of the rectification.
 
-+----------------------+------------------------------------+-----------------------------------+------------------------------------+
-| Symmetry             | Tetrahedral                        | Octahedral                        | Icosahedral                        |
-|                      | Tetrahedral_reflection_domains.png | Octahedral_reflection_domains.png | Icosahedral_reflection_domains.png |
-+======================+====================================+===================================+====================================+
-| Starting solid       | Symbol                             | Tetrahedron                       | Cube                               |
-| Operation            | {p,q}                              | {3,3}                             | {4,3}                              |
-|                      |                                    | Uniform_polyhedron-33-t0.png      | Uniform_polyhedron-43-t0.svg       |
-+----------------------+------------------------------------+-----------------------------------+------------------------------------+
-| Truncation (t)       | t{p,q}                             | truncated tetrahedron             | truncated cube                     |
-|                      |                                    | Uniform_polyhedron-33-t01.png     | Uniform_polyhedron-43-t01.svg      |
-+----------------------+------------------------------------+-----------------------------------+------------------------------------+
-| Rectification (r)    | r{p,q}                             | tetratetrahedron                  | cuboctahedron                      |
-| Ambo (a)             |                                    | (octahedron)                      | Uniform_polyhedron-43-t1.svg       |
-|                      |                                    | Uniform_polyhedron-33-t1.png      |                                    |
-+----------------------+------------------------------------+-----------------------------------+------------------------------------+
-| Bitruncation (2t)    | 2t{p,q}                            | truncated tetrahedron             | truncated octahedron               |
-| Dual kis (dk)        |                                    | Uniform_polyhedron-33-t12.png     | Uniform_polyhedron-43-t12.png      |
-+----------------------+------------------------------------+-----------------------------------+------------------------------------+
-| Birectification (2r) | 2r{p,q}                            | tetrahedron                       | octahedron                         |
-| Dual (d)             |                                    | Uniform_polyhedron-33-t2.png      | Uniform_polyhedron-43-t2.svg       |
-+----------------------+------------------------------------+-----------------------------------+------------------------------------+
-| cantellation (rr)    | rr{p,q}                            | rhombitetratetrahedron            | rhombicuboctahedron                |
-| Expansion (e)        |                                    | (cuboctahedron)                   | Uniform_polyhedron-43-t02.png      |
-|                      |                                    | Uniform_polyhedron-33-t02.png     |                                    |
-+----------------------+------------------------------------+-----------------------------------+------------------------------------+
-| Snub rectified (sr)  | sr{p,q}                            | snub tetratetrahedron             | snub cuboctahedron                 |
-| Snub (s)             |                                    | (icosahedron)                     | Uniform_polyhedron-43-s012.png     |
-|                      |                                    | Uniform_polyhedron-33-s012.svg    |                                    |
-+----------------------+------------------------------------+-----------------------------------+------------------------------------+
-| Cantitruncation (tr) | tr{p,q}                            | truncated tetratetrahedron        | truncated cuboctahedron            |
-| Bevel (b)            |                                    | (truncated octahedron)            | Uniform_polyhedron-43-t012.png     |
-|                      |                                    | Uniform_polyhedron-33-t012.png    |                                    |
-+----------------------+------------------------------------+-----------------------------------+------------------------------------+
++----------------------+-------------+----------------------------+-------------------------+
+| Symmetry             | Tetrahedral | Octahedral                 | Icosahedral             |
++======================+=============+============================+=========================+
+| Starting solid       | Symbol      | Tetrahedron                | Cube                    |
+| Operation            | {p,q}       | {3,3}                      | {4,3}                   |
++----------------------+-------------+----------------------------+-------------------------+
+| Truncation (t)       | t{p,q}      | truncated tetrahedron      | truncated cube          |
++----------------------+-------------+----------------------------+-------------------------+
+| Rectification (r)    | r{p,q}      | tetratetrahedron           | cuboctahedron           |
+| Ambo (a)             |             | (octahedron)               |                         |
++----------------------+-------------+----------------------------+-------------------------+
+| Bitruncation (2t)    | 2t{p,q}     | truncated tetrahedron      | truncated octahedron    |
+| Dual kis (dk)        |             |                            |                         |
++----------------------+-------------+----------------------------+-------------------------+
+| Birectification (2r) | 2r{p,q}     | tetrahedron                | octahedron              |
+| Dual (d)             |             |                            |                         |
++----------------------+-------------+----------------------------+-------------------------+
+| cantellation (rr)    | rr{p,q}     | rhombitetratetrahedron     | rhombicuboctahedron     |
+| Expansion (e)        |             | (cuboctahedron)            |                         |
++----------------------+-------------+----------------------------+-------------------------+
+| Snub rectified (sr)  | sr{p,q}     | snub tetratetrahedron      | snub cuboctahedron      |
+| Snub (s)             |             | (icosahedron)              |                         |
++----------------------+-------------+----------------------------+-------------------------+
+| Cantitruncation (tr) | tr{p,q}     | truncated tetratetrahedron | truncated cuboctahedron |
+| Bevel (b)            |             | (truncated octahedron)     |                         |
++----------------------+-------------+----------------------------+-------------------------+
 
 : Construction of Archimedean Solids
 

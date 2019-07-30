@@ -24,7 +24,7 @@ The family tree of the Goidelic languages is as follows:
 
 History and range
 
-Map_Gaels_Brythons_Picts.png and Ireland in the first few centuries of the 1st millennium, before the founding of Anglo-Saxon kingdoms. Goidelic language and culture would eventually become dominant in the Pictish area and far northern Brythonic area.]] Goidelic was once restricted to Ireland and, possibly, the west coast of Scotland. Medieval Gaelic literature tells us that the kingdom of Dál Riata emerged in western Scotland during the 6th century. The mainstream view is that Dál Riata was founded by Irish migrants, but this is not universally accepted. Archaeologist Ewan Campbell says there is no archaeological evidence for a migration or invasion, and suggests strong sea links helped maintain a pre-existing Gaelic culture on both sides of the North Channel.[5]
+and Ireland in the first few centuries of the 1st millennium, before the founding of Anglo-Saxon kingdoms. Goidelic language and culture would eventually become dominant in the Pictish area and far northern Brythonic area.]] Goidelic was once restricted to Ireland and, possibly, the west coast of Scotland. Medieval Gaelic literature tells us that the kingdom of Dál Riata emerged in western Scotland during the 6th century. The mainstream view is that Dál Riata was founded by Irish migrants, but this is not universally accepted. Archaeologist Ewan Campbell says there is no archaeological evidence for a migration or invasion, and suggests strong sea links helped maintain a pre-existing Gaelic culture on both sides of the North Channel.[5]
 
 Dál Riata grew in size and influence, and Gaelic language and culture was eventually adopted by the neighbouring Picts (a group of peoples who may have spoken a Brythonic language) who lived throughout Scotland.[6] Manx, the language of the Isle of Man, is closely akin to the Gaelic spoken in the Hebrides and the Irish spoken in northeast and eastern Ireland and the now-extinct Galwegian Gaelic of Galloway (in southwest Scotland), with some influence from Old Norse through the Viking invasions and from the previous British inhabitants.
 
@@ -45,8 +45,6 @@ The Irish language has been recognised as an official and working language of th
 
 
 Scottish Gaelic
-
-Linguistic division in early twelfth century Scotland:
 
 Some people in the north and west of mainland Scotland and most people in the Hebrides still speak Scottish Gaelic, but the language has been in decline. There are now believed to be approximately 60,000 native speakers of Scottish Gaelic in Scotland, plus around 1,000 speakers of the Canadian Gaelic dialect in Nova Scotia.
 
@@ -157,7 +155,7 @@ There are several languages that show Goidelic influence, although they are not 
 
 See also
 
-Portmahomack_Water-Feature_-_geograph.org.uk_-_549028.jpg in 1887. It carries an inscription in poor Gaelic, "" (which, if it read _Uisge Tobar a' Bhaistidh_ would translate as "Water of the Well of Baptism")]]
+in 1887. It carries an inscription in poor Gaelic, "" (which, if it read _Uisge Tobar a' Bhaistidh_ would translate as "Water of the Well of Baptism")]]
 
 -   Differences between Scottish Gaelic and Irish
 -   Goidelic substrate hypothesis

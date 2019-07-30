@@ -3,9 +3,7 @@ ABEL JANSZOON TASMAN (; 1603 – 10 October 1659) was a Dutch seafarer, explorer
 
 Origins and early life
 
-Jacob_Cuyp_-_Abel_Tasman,_his_wife_and_daughter.jpg, 1637 (not authenticated).[1][2]]] Tasman originated from Lutjegast, a small village in the province of Groningen, in the north of the Netherlands. The oldest available source mentioning him is dated 27 December 1631 when, as a seafarer living in Amsterdam, the 28-year-old became engaged to marry 21-year-old Jannetje Tjaers, of Palmstraat in the Jordaan district of the city.[3][4]
-
-Tasmanroutes.PNG
+, 1637 (not authenticated).[1][2]]] Tasman originated from Lutjegast, a small village in the province of Groningen, in the north of the Netherlands. The oldest available source mentioning him is dated 27 December 1631 when, as a seafarer living in Amsterdam, the 28-year-old became engaged to marry 21-year-old Jannetje Tjaers, of Palmstraat in the Jordaan district of the city.[3][4]
 
 
 Relocation to the Dutch East Indies
@@ -33,7 +31,7 @@ Because of the prevailing winds Mauritius was chosen as a turning point. After a
 
 Tasmania
 
-Coastal-cliffs_Tasman-peninsula.jpg]]
+]]
 
 On 24 November 1642 Abel Tasman reached and sighted the west coast of Tasmania, north of Macquarie Harbour.[11] He named his discovery Van Diemen's Land after Antonio van Diemen, Governor-General of the Dutch East Indies.
 
@@ -43,9 +41,9 @@ For two more days, he continued to follow the east coast northward to see how fa
 
 New Zealand
 
-Gilsemans_1642.jpg[16]]]
+[16]]]
 
-DanceMaori.jpg]] After some exploration, Tasman had intended to proceed in a northerly direction but as the wind was unfavourable he steered east. The expedition endured an extremely rough voyage and in one of his diary entries Tasman credited his compass, claiming it was the only thing that had kept him alive.
+]] After some exploration, Tasman had intended to proceed in a northerly direction but as the wind was unfavourable he steered east. The expedition endured an extremely rough voyage and in one of his diary entries Tasman credited his compass, claiming it was the only thing that had kept him alive.
 
 On 13 December 1642 they sighted land on the north-west coast of the South Island, New Zealand, becoming the first Europeans to sight New Zealand.[17] Tasman named it _Staten Landt_ "in honour of the States General" (Dutch parliament).[18] He wrote, "it is possible that this land joins to the Staten Land but it is uncertain",[19] referring to Isla de los Estados, a landmass of the same name at the southern tip of South America, encountered by the Dutch navigator Jacob Le Maire in 1616.[20] He continued: "We believe that this is the mainland coast of the unknown Southland."[21] Tasman thought he had found the western side of the long-imagined Terra Australis that stretched across the Pacific to near the southern tip of South America.[22]
 
@@ -55,7 +53,7 @@ The expedition then sailed north, sighting Cook Strait, which it mistook for a b
 
 Return voyage
 
-Tasman-dagboek-b.jpg, the main island of Tonga; drawing by Isaack Gilsemans]] Tasman-dagboek-a.jpg
+, the main island of Tonga; drawing by Isaack Gilsemans]]
 
 En route back to Batavia, Tasman came across the Tongan archipelago on 20 January 1643. While passing the Fiji Islands Tasman's ships came close to being wrecked on the dangerous reefs of the north-eastern part of the Fiji group. He charted the eastern tip of Vanua Levu and Cikobia before making his way back into the open sea.
 
@@ -80,7 +78,7 @@ Legacy
 
 Tasman's ten-month voyage in 1642-43 had significant consequences. By circumnavigating Australia (albeit at a distance) Tasman proved that the small fifth continent was not joined to any larger sixth continent, such as the long-imagined Southern Continent. Further, Tasman's suggestion that New Zealand was the western side of that Southern Continent was seized upon by many European cartographers who, for the next century, depicted New Zealand as the west coast of a Terra Australis rising gradually from the waters around Tierra del Fuego. This theory was eventually disproved when Captain Cook circumnavigated New Zealand in 1769.[31]
 
-AbelTasmanNP.jpg]]
+]]
 
 Multiple places have been named after Tasman, including:
 
@@ -118,7 +116,7 @@ In The Netherlands many streets are named after him. In Lutjegast, the village h
 
 Tasman Map
 
-TasmanMap.jpg State_Library_of_New_South_Wales000.jpg vestibule, showing a mosaic of the Tasman map inlaid in the floor]]
+vestibule, showing a mosaic of the Tasman map inlaid in the floor]]
 
 Held within the collection of the State Library of New South Wales is the Tasman Map, thought to have been drawn by Isaac Gilsemans, or completed under the supervision of Franz Jacobszoon Visscher.[34] The map is also known as the Bonaparte map, as it was once owned by Prince Roland Bonaparte, the great-nephew of Napoleon.[35] The map was completed sometime after 1644 and is based on the original charts drawn during Tasman's first and second voyages.[36] As none of the journals or logs composed during Tasman's second voyage have survived, the Bonaparte map remains as an important contemporary artefact of Tasman's voyage to the northern coast of the Australian continent.[37]
 

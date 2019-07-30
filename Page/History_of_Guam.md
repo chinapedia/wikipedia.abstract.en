@@ -3,7 +3,7 @@ The HISTORY OF GUAM involves phases including the early arrival of Austronesian 
 
 Guam prior to European contact
 
-Gadao_Guam.jpg is featured in many legends about Guam before European colonization.]]
+is featured in many legends about Guam before European colonization.]]
 
 Migrations
 
@@ -51,13 +51,13 @@ American era
 
 Capture of Guam
 
-Piti_1900.jpg of Piti shortly after Guam's capture by the Americans. ]] Naval_Governor_of_Guam,_attends_Arbor_Day_exercises_at_the_Governor's_Palace,_c_1930.jpg, USN (seated at left), Naval Governor of Guam, attends Arbor Day exercises at the Governor's Palace, Agana, Guam circa 1930.]] On June 21, 1898, the United States captured Guam in a bloodless landing during the Spanish–American War. By the Treaty of Paris, Spain officially ceded the island to the United States. Guam became part of an American telegraph line to the Philippines, also ceded by the treaty;[12] a way station for American ships traveling to and from there; and an important part of the United States' War Plan Orange against Japan. Although Alfred Thayer Mahan, Robert Coontz, and others envisioned the island as "a kind of Gibraltar" in the Pacific, Congress repeatedly failed to fulfill the military's requests to fortify Guam; when a German warship was interned in 1914 before America's entry into World War I, its crew of 543 outnumbered their American custodians.
+of Piti shortly after Guam's capture by the Americans. ]] , USN (seated at left), Naval Governor of Guam, attends Arbor Day exercises at the Governor's Palace, Agana, Guam circa 1930.]] On June 21, 1898, the United States captured Guam in a bloodless landing during the Spanish–American War. By the Treaty of Paris, Spain officially ceded the island to the United States. Guam became part of an American telegraph line to the Philippines, also ceded by the treaty;[12] a way station for American ships traveling to and from there; and an important part of the United States' War Plan Orange against Japan. Although Alfred Thayer Mahan, Robert Coontz, and others envisioned the island as "a kind of Gibraltar" in the Pacific, Congress repeatedly failed to fulfill the military's requests to fortify Guam; when a German warship was interned in 1914 before America's entry into World War I, its crew of 543 outnumbered their American custodians.
 
 The 1910 Catholic Encyclopedia said of Guam, "of its total population of 11,490 (11,159 natives), Hagåtña, the capital, contains about 8,000. Possessing a good harbor, the island serves as a United States naval station, the naval commandant acting also as governor. The products of the island are maize, copra, rice, sugar, and valuable timber." Military officers governed the island as "USS _Guam_", and the United States Navy opposed proposals for civilian government until 1950.
 
 World War II
 
-Agat_1944.jpg cross a bridge in Agat during the liberation of Guam in 1944.]]
+cross a bridge in Agat during the liberation of Guam in 1944.]]
 
 During World War II, Guam was invaded by the Imperial Japanese Army on December 8, 1941 shortly after the attack on Pearl Harbor. The Japanese immediately renamed the island "Omiya Jima" (Great Shrine Island).[13]
 
@@ -91,7 +91,7 @@ Twenty-six percent voted for Statehood, while ten percent voted for the Status Q
 
 Contemporary Guam
 
-Apra_Harbor.jpgs including the United States Naval Station on the Orote Peninsula shown here.]]
+s including the United States Naval Station on the Orote Peninsula shown here.]]
 
 Guam's U.S. military installations remain among the most strategically vital in the Pacific Ocean. When the United States closed its Naval and Air Force bases in the Philippines after the expiration of their leases in the early 1990s, many of the forces stationed there were relocated to Guam.
 

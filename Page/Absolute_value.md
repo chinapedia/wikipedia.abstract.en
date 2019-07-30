@@ -1,4 +1,4 @@
-Absolute_value.svg of the absolute value function for real numbers]] AbsoluteValueDiagram.svg In mathematics, the ABSOLUTE VALUE or MODULUS _x_{{!}}}} of a real number  is the non-negative value of  without regard to its sign. Namely, _x_{{!}} = _x_}} for a positive , _x_{{!}} = −_x_}} for a negative  (in which case is positive), and 0{{!}} = 0}}. For example, the absolute value of 3 is 3, and the absolute value of −3 is also 3. The absolute value of a number may be thought of as its distance from zero.
+of the absolute value function for real numbers]] In mathematics, the ABSOLUTE VALUE or MODULUS _x_{{!}}}} of a real number  is the non-negative value of  without regard to its sign. Namely, _x_{{!}} = _x_}} for a positive , _x_{{!}} = −_x_}} for a negative  (in which case is positive), and 0{{!}} = 0}}. For example, the absolute value of 3 is 3, and the absolute value of −3 is also 3. The absolute value of a number may be thought of as its distance from zero.
 
 Generalisations of the absolute value for real numbers occur in a wide variety of mathematical settings. For example, an absolute value is also defined for the complex numbers, the quaternions, ordered rings, fields and vector spaces. The absolute value is closely related to the notions of magnitude, distance, and norm in various mathematical and physical contexts.
 
@@ -63,7 +63,7 @@ The absolute value, as "distance from zero", is used to define the absolute diff
 
 Complex numbers
 
-Complex_conjugate_picture.svg z̄ have the same absolute value.]]
+ z̄ have the same absolute value.]]
 
 Since the complex numbers are not ordered, the definition given at the top for the real absolute value cannot be directly applied to complex numbers. However, the geometric interpretation of the absolute value of a real number as its distance from 0 can be generalised. The absolute value of a complex number is defined by the Euclidean distance of its corresponding point in the complex plane from the origin. This can be computed using the Pythagorean theorem: for any complex number
 
@@ -127,7 +127,7 @@ Since f measurable implies that |f| is also measurable, the proof of the inequal
 
 Absolute value function
 
-Absolute_value.svg of the absolute value function for real numbers]] Absolute_value_composition.svg of absolute value with a cubic function in different orders]] The real absolute value function is continuous everywhere. It is differentiable everywhere except for  = 0. It is monotonically decreasing on the interval and monotonically increasing on the interval . Since a real number and its opposite have the same absolute value, it is an even function, and is hence not invertible. The real absolute value function is a piecewise linear, convex function.
+of the absolute value function for real numbers]] of absolute value with a cubic function in different orders]] The real absolute value function is continuous everywhere. It is differentiable everywhere except for  = 0. It is monotonically decreasing on the interval and monotonically increasing on the interval . Since a real number and its opposite have the same absolute value, it is an even function, and is hence not invertible. The real absolute value function is a piecewise linear, convex function.
 
 Both the real and complex functions are idempotent.
 

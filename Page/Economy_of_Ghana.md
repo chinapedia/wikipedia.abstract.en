@@ -134,7 +134,7 @@ The Stock Exchange of Ghana is one of the largest in Africa, with a market capit
 
 Energy
 
-Economía_Energética_y_Generación_de_Energía_Eléctrica_de_Ghana_–_Energy_Economy_and_Electricity_Generation_of_Ghana_(collage).JPG and solar energy electricity generation industries, and the oil and gas industry]] As of December 2012, Ghana gets 49.1% of its energy from renewable energy and exports some of this to neighboring countries.
+and solar energy electricity generation industries, and the oil and gas industry]] As of December 2012, Ghana gets 49.1% of its energy from renewable energy and exports some of this to neighboring countries.
 
 Solar energy
 
@@ -146,13 +146,13 @@ Unlike many other solar projects in Africa that use concentrated solar power, so
 
 Wind energy
 
-Wind_farm,_unknown_location.jpgs on a wind farm]]
+s on a wind farm]]
 
 Ghana has Class 4–6 wind resources and high-wind locations, such as Nkwanta, the Accra Plains, and Kwahu and Gambaga mountains. The maximum energy that could be tapped from Ghana's available wind resource for electricity is estimated to be about 500–600 GWh/year.[31] To give perspective: in 2011, per the same Energy Commission, the largest Akosombo hydroelectric dam in Ghana alone produced 6,495 GWh of electric power and, counting all Ghana's geothermal energy production in addition, the total energy generated was 11,200 GWh in that year.[32] These assessments do not take into consideration further limiting factors such as land-use restrictions, the existing grid (or how far the wind resource may be from the grid) and accessibility.[33] Wind energy has potential to contribute significantly to the country's energy industry. Ten percent can certainly be attained in terms of installed capacity, and about 5% of total electric generation potential from wind alone.[34]
 
 Bio-energy
 
-Sorghum_field.png plantation field]] Ghana has put in place mechanisms to attract investments into its biomass and bio-energy sectors to stimulate rural development, create jobs and save foreign exchange.[35]
+plantation field]] Ghana has put in place mechanisms to attract investments into its biomass and bio-energy sectors to stimulate rural development, create jobs and save foreign exchange.[35]
 
 The vast arable and degraded land mass of Ghana has the potential for the cultivation of crops and plants that could be converted into a wide range of solid and liquid bio-fuels, as the development of alternative transportation fuels could help Ghana to diversify and secure its future energy supplies.[36] Main investments in the bio-energy subsector existed in the areas of production, are transportation, storage, distribution, sale, marketing and exportation.[37]
 
@@ -171,9 +171,9 @@ Electricity generation is one of the key factors in achieving the development of
 
 Hydrocarbon and mining
 
-Ghana_Mineral_Resources_(collage).JPG, diamond, timber and manganese
+, diamond, timber and manganese
 
-]] Ghana_Export_Trends.jpg
+]]
 
 Ghana has to of petroleum in reserves. A large oilfield which contains up to of sweet crude oil was discovered in 2007.[50] Oil exploration is ongoing and the amount of oil continues to increase.[51] Ghana produces crude oil, as of 15 December 2010, and until June 2011, Ghana exploited around 120,000 barrels per day and is expected to increase production up to 2.5 million barrels per day in 2014.[52][53]
 
@@ -183,8 +183,6 @@ Mining has gained importance in the Ghanaian economy since the turn of the 21st 
 
 
 Tourism
-
-Ghana_Tourism_sites_(collage).JPG
 
 The Ministry of Tourism has placed great emphasis upon further tourism support and development. Tourism contributed to 4.9% of GDP in 2009, attracting around 500,000 visitors. Tourist destinations include Ghana's many castles and forts, national parks, beaches, nature reserves, landscapes and World Heritage buildings and sites.[60][61]
 
@@ -219,7 +217,7 @@ The Ghana: Vision 2020 forecast assumes political stability; successful economic
 
 Economic transparency
 
-Ghana_Percent_Wealth_Owned.png The judicial system of Ghana deals with corruption, economic malpractice and lack of economic transparency.[79] Despite significant economic progress, obstacles do remain. Particular institutions need reform, and property rights need improvement. The overall investment regime in Ghana lacks market transparency. Tackling these issues will be necessary if Ghana's rapid economic growth is to be maintained.[80]
+The judicial system of Ghana deals with corruption, economic malpractice and lack of economic transparency.[79] Despite significant economic progress, obstacles do remain. Particular institutions need reform, and property rights need improvement. The overall investment regime in Ghana lacks market transparency. Tackling these issues will be necessary if Ghana's rapid economic growth is to be maintained.[80]
 
 
 References

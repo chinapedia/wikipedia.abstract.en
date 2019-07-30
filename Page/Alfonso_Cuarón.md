@@ -28,7 +28,7 @@ In 2004, Cuarón directed the third film in the successful _Harry Potter_ series
 
 Cuarón's feature _Children of Men_, an adaptation of the P. D. James novel starring Clive Owen, Julianne Moore and Michael Caine, received wide critical acclaim, including three Academy Award nominations. Cuarón himself received two nominations for his work on the film in Best Film Editing (with Alex Rodríguez) and Best Adapted Screenplay (with several collaborators).
 
-Alfonso_Cuarón,_President_jury_Venezia_72_(25805089406).jpg]]
+]]
 
 He created the production and distribution company Esperanto Filmoj (_Esperanto Films_, named because of his support for the international language Esperanto[5]), which has credits in the films _Duck Season_, _Pan's Labyrinth_, and _Gravity_.
 

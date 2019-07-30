@@ -1,4 +1,4 @@
-Bogey}} Seitenkipper-Ua4201-Drehgestell.jpg-style "Three Piece Bogie" with axle boxes,[1] aka. _"truck"_ in the United States]] Bogie_Vehicle_Schematic-en.svg to more closely follow the direction of the rails when travelling around a curve in the railroad.]] A BOGIE ( ) (in some senses called a TRUCK in North American English) is a chassis or framework that carries a wheelset, attached to a vehicle—a modular subassembly of wheels and axles. Bogies take various forms in various modes of transport. A bogie may remain normally attached (as on many railway carriages [cars] and semi-trailers) or be quickly detachable (as the dolly in a road train or in railway bogie exchange); it may contain a suspension within it (as most rail and trucking bogies do), or be solid and in turn be suspended (as most bogies of tracked vehicles are); it may be mounted on a swivel, as traditionally on a railway carriage or locomotive, additionally jointed and sprung (as in the landing gear of an airliner), or held in place by other means (centreless bogies).
+Bogey}} -style "Three Piece Bogie" with axle boxes,[1] aka. _"truck"_ in the United States]] to more closely follow the direction of the rails when travelling around a curve in the railroad.]] A BOGIE ( ) (in some senses called a TRUCK in North American English) is a chassis or framework that carries a wheelset, attached to a vehicle—a modular subassembly of wheels and axles. Bogies take various forms in various modes of transport. A bogie may remain normally attached (as on many railway carriages [cars] and semi-trailers) or be quickly detachable (as the dolly in a road train or in railway bogie exchange); it may contain a suspension within it (as most rail and trucking bogies do), or be solid and in turn be suspended (as most bogies of tracked vehicles are); it may be mounted on a swivel, as traditionally on a railway carriage or locomotive, additionally jointed and sprung (as in the landing gear of an airliner), or held in place by other means (centreless bogies).
 
 While _bogie_ is the preferred spelling and first-listed variant in various dictionaries,[2][3][4] BOGEY and BOGY are also used.[5][6]
 
@@ -42,8 +42,6 @@ Examples
 
 Commonwealth bogie
 
-Commonwealth_bogie.jpg
-
 The Commonwealth bogie was manufactured by the English Steel Corporation under licence from the Commonwealth Steel Company in Illinois, United States. Fitted with SKF or Timken bearings, it was introduced in the late 1950s for all BR Mark 1 vehicles. It was a heavy, cast-steel design weighing about ,[13] with sealed roller bearings on the axle ends, avoiding the need to maintain axle box oil levels.
 
 The leaf springs were replaced by coil springs (one per wheel) running vertically rather than horizontally. The advanced design gave a better ride quality than the BR1, being rated for .
@@ -52,8 +50,6 @@ The side frame of the bogie was usually of bar construction, with simple horn gu
 
 B4 bogie
 
-Bogie_BT4.JPG
-
 The B4 bogie was introduced in 1963. It was a fabricated steel design versus cast iron and was lighter than the Commonwealth, weighing in at .[14] It also had a speed rating of .
 
 Axle to spring connection was again fitted with roller bearings. However, now two coil springs rather than one were fitted per wheel.[15]
@@ -61,8 +57,6 @@ Axle to spring connection was again fitted with roller bearings. However, now tw
 Only a very small number of Mark 1 stock was fitted with the B4 bogie from new, it being used on the Mark 1 only to replace worn BR1 bogies. The British Rail Mark 2 coach, however, carried the B4 bogies from new. A heavier-duty version, the B5, was standard on Southern Region Mk1-based EMUs from the 1960s onwards. Some Mark 1 catering cars had mixed bogies—a B5 under the kitchen end, and a B4 under the seating end. Some of the B4-fitted Mark 2s, as well as many B4-fitted Mark 1 BGs were allowed to run at with extra maintenance, particularly of the wheel profile, and more frequent inspection.
 
 BT10 bogie
-
-Bogie_BT10.JPG
 
 The BT10 bogie was introduced on the British Rail Mark 3 coach in the 1970s. Each wheel is separately connected to the bogie by a swing-arm axle.
 
@@ -95,7 +89,7 @@ Tramway
 
 Modern
 
-Septa_PCC_car_truck.jpg K-Car bogie]]
+K-Car bogie]]
 
 Tram bogies are much simpler in design because of their axle load, and the tighter curves found on tramways mean tram bogies almost never have more than two axles. Furthermore, some tramways have steeper gradients and vertical, as well as horizontal, curves, which means tram bogies often need to pivot on the horizontal axis, as well.
 
@@ -105,11 +99,11 @@ Historic
 
 In the past, many different types of bogie (truck) have been used under tramcars (e.g. Brill, Peckham, maximum traction). A maximum traction truck has one driving axle with large wheels and one nondriving axle with smaller wheels. The bogie pivot is located off-centre, so more than half the weight rests on the driving axle.
 
-Crich-Bogie-wyrdlight-812322.jpg]]
+]]
 
 Hybrid systems
 
-Bogie-metro-Meteor-p1010692.jpg of the pneumatic bogie system of a typical rubber-tyred train used in various metro systems around the globe (such as Paris and Santiago), showing the two special wheelsets]] The retractable stadium roof on Toronto's Rogers Centre used modified off-the-shelf train bogies on a circular rail. The system was chosen for its proven reliability.
+of the pneumatic bogie system of a typical rubber-tyred train used in various metro systems around the globe (such as Paris and Santiago), showing the two special wheelsets]] The retractable stadium roof on Toronto's Rogers Centre used modified off-the-shelf train bogies on a circular rail. The system was chosen for its proven reliability.
 
 Rubber-tyred metro
 
@@ -143,7 +137,7 @@ In trucking, a bogie is the subassembly of axles and wheels that supports a semi
 
 Bogie (aircraft)
 
-Boeing-777-300_chassis_.jpg]]
+]]
 
 
 Images gallery

@@ -1,4 +1,4 @@
-12AE10CompactronTube.jpg COMPACTRONS are a type of thermionic valve, or vacuum tube, which contain multiple electrode structures packed into a single enclosure. They were designed to compete with early transistor electronics and were used in televisions, radios, and similar roles.
+COMPACTRONS are a type of thermionic valve, or vacuum tube, which contain multiple electrode structures packed into a single enclosure. They were designed to compete with early transistor electronics and were used in televisions, radios, and similar roles.
 
 
 History
@@ -12,7 +12,7 @@ Compactron's integrated valve design helped lower power consumption and heat gen
 
 Notable features
 
-Duodekar.JPG A distinguishing feature of most Compactrons is the placement of the evacuation tip on the bottom end, rather than the top end as was customary with "miniature" tubes, and a characteristic 3/4" diameter circle pin pattern.
+A distinguishing feature of most Compactrons is the placement of the evacuation tip on the bottom end, rather than the top end as was customary with "miniature" tubes, and a characteristic 3/4" diameter circle pin pattern.
 
 -   Most Compactrons ranged in glass envelope diameter from 1" to 2" depending upon the internal configuration. Variations of the Compactron design were made by Sylvania and by some Japanese firms.
 

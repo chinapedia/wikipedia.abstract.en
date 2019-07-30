@@ -35,7 +35,7 @@ In 1886, a monument to Alexander III was erected at the approximate location of 
 
 Fictional portrayals
 
-Alexander_III_statue,_West_door_of_St._Giles,_Edinburgh.jpg]] Alexander III has been depicted in historical novels. They include:[12]
+]] Alexander III has been depicted in historical novels. They include:[12]
 
 -   _The Thirsty Sword_ (1892) by Robert Leighton. The novel depicts the "Norse invasion of Scotland" (1262–1263, part of the Scottish–Norwegian War) and the Battle of Largs. It includes depictions of Alexander III and his opponent Haakon IV of Norway.[13]
 -   _Alexander the Glorious_ (1965) by Jane Oliver. The novel covers the entire reign of Alexander III (1249–1286), "almost entirely from Alexander's viewpoint".[14][15]

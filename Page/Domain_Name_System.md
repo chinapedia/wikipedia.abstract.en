@@ -41,8 +41,6 @@ The domain name space consists of a tree data structure. Each node or leaf in th
 
 The tree sub-divides into _zones_ beginning at the root zone. A DNS zone may consist of only one domain, or may consist of many domains and sub-domains, depending on the administrative choices of the zone manager. DNS can also be partitioned according to _class_ where the separate classes can be thought of as an array of parallel namespace trees.[23]
 
-Domain_name_space.svg
-
 Administrative responsibility for any zone may be divided by creating additional zones. Authority over the new zone is said to be _delegated_ to a designated name server. The parent zone ceases to be authoritative for the new zone.[24]
 
 Domain name syntax, internationalization
@@ -80,7 +78,7 @@ Address resolution mechanism
 
 Domain name resolvers determine the domain name servers responsible for the domain name in question by a sequence of queries starting with the right-most (top-level) domain label.
 
-An_example_of_theoretical_DNS_recursion.svg "www.wikipedia.org".]]
+"www.wikipedia.org".]]
 
 For proper operation of its domain name resolver, a network host is configured with an initial cache (_hints_) of the known addresses of the root name servers. The hints are updated periodically by an administrator by retrieving a dataset from a reliable source.
 
@@ -132,7 +130,7 @@ When performing a reverse lookup, the DNS client converts the address into these
 
 Client lookup
 
-DNS_in_the_real_world.svg Users generally do not communicate directly with a DNS resolver. Instead DNS resolution takes place transparently in applications such as web browsers, e-mail clients, and other Internet applications. When an application makes a request that requires a domain name lookup, such programs send a resolution request to the DNS resolver in the local operating system, which in turn handles the communications required.
+Users generally do not communicate directly with a DNS resolver. Instead DNS resolution takes place transparently in applications such as web browsers, e-mail clients, and other Internet applications. When an application makes a request that requires a domain name lookup, such programs send a resolution request to the DNS resolver in the local operating system, which in turn handles the communications required.
 
 The DNS resolver will almost invariably have a cache (see above) containing recent lookups. If the cache can provide the answer to the request, the resolver will return the value in the cache to the program that made the request. If the cache does not contain the answer, the resolver will send the request to one or more designated DNS servers. In the case of most home users, the Internet service provider to which the machine connects will usually supply this DNS server: such a user will either have configured that server's address manually or allowed DHCP to set it; however, where systems administrators have configured systems to use their own DNS servers, their DNS resolvers point to separately maintained name servers of the organization. In any event, the name server thus queried will follow the process outlined above, until it either successfully finds a result or does not. It then returns its results to the DNS resolver; assuming it has found a result, the resolver duly caches that result for future use, and hands the result back to the software which initiated the request.
 

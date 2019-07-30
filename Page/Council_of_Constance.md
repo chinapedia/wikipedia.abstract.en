@@ -5,7 +5,7 @@ The council also condemned Jan Hus as a heretic and facilitated his execution by
 
 Origin and background
 
-Meister_der_Chronik_des_Konzils_von_Konstanz_001.jpg, and their daughter, Elizabeth of Luxembourg, at the Council of Constance]] The council's main purpose was to end the Papal schism which had resulted from the confusion following the Avignon Papacy. Pope Gregory XI's return to Rome in 1377, followed by his death (in 1378) and the controversial election of his successor, Pope Urban VI, resulted in the defection of a number of cardinals and the election of a rival pope based at Avignon in 1378. After thirty years of schism, the rival courts convened the Council of Pisa seeking to resolve the situation by deposing the two claimant popes and electing a new one.[1] The council claimed that in such a situation, a council of bishops had greater authority than just one bishop, even if he were the bishop of Rome. Though the elected Antipope Alexander V and his successor, Antipope John XXIII (not to be confused with the 20th-century Pope John XXIII), gained widespread support, especially at the cost of the Avignon antipope, the schism remained, now involving not two but three claimants: Gregory XII at Rome, Benedict XIII at Avignon, and John XXIII.
+, and their daughter, Elizabeth of Luxembourg, at the Council of Constance]] The council's main purpose was to end the Papal schism which had resulted from the confusion following the Avignon Papacy. Pope Gregory XI's return to Rome in 1377, followed by his death (in 1378) and the controversial election of his successor, Pope Urban VI, resulted in the defection of a number of cardinals and the election of a rival pope based at Avignon in 1378. After thirty years of schism, the rival courts convened the Council of Pisa seeking to resolve the situation by deposing the two claimant popes and electing a new one.[1] The council claimed that in such a situation, a council of bishops had greater authority than just one bishop, even if he were the bishop of Rome. Though the elected Antipope Alexander V and his successor, Antipope John XXIII (not to be confused with the 20th-century Pope John XXIII), gained widespread support, especially at the cost of the Avignon antipope, the schism remained, now involving not two but three claimants: Gregory XII at Rome, Benedict XIII at Avignon, and John XXIII.
 
 Therefore, many voices, including Sigismund, King of the Romans and of Hungary (and later Holy Roman Emperor), pressed for another council to resolve the issue. That council was called by John XXIII and was held from 16 November 1414 to 22 April 1418 in Constance, Germany. According to Joseph McCabe, the council was attended by roughly 29 cardinals, 100 "learned doctors of law and divinity", 134 abbots, and 183 bishops and archbishops.
 
@@ -16,8 +16,6 @@ Sigismund arrived on Christmas Eve 1414 and exercised a profound and continuous 
 
 
 Decrees and doctrinal status
-
-Richental_Konzilssitzung_Muenster.jpg
 
 Many members of the new assembly (comparatively few bishops, but many doctors of theology and of canon and civil law, procurators of bishops, deputies of universities, cathedral chapters, provosts, etc., agents and representatives of princes, etc.) strongly favored the voluntary abdication of all three popes, as did King Sigismund.[3]
 
@@ -32,7 +30,7 @@ The acts of the council were not made public until 1442, at the behest of the Co
 
 Ending the Western Schism
 
-Imperia_statue.jpg'', a 1993-erected statue commemorating the council]]
+'', a 1993-erected statue commemorating the council]]
 
 With the support of King Sigismund, enthroned before the high altar of the cathedral of Constance, the Council of Constance recommended that all three papal claimants abdicate, and that another be chosen. In part because of the constant presence of the King, other rulers demanded that they have a say in who would be pope.[7]
 
@@ -47,7 +45,7 @@ By the time the anti-popes were all deposed and the new Pope, Martin V, was elec
 
 Condemnation of Jan Hus
 
-Vaclav_Brozik_-_Hus.jpg in Council of Constance by Václav Brožík]] A second goal of the council was to continue the reforms begun at the Council of Pisa (1409). The reforms were largely directed against John Wycliffe, mentioned in the opening session and condemned in the eighth on 4 May 1415, and Jan Hus, along with their followers. Hus, summoned to Constance under a letter of safe conduct, was found guilty of heresy by the council and turned over to the secular court. "This holy synod of Constance, seeing that God's church has nothing more that it can do, relinquishes Jan Hus to the judgment of the secular authority and decrees that he is to be relinquished to the secular court." (Council of Constance Session 15 – 6 July 1415). The secular court sentenced him to the stake.
+in Council of Constance by Václav Brožík]] A second goal of the council was to continue the reforms begun at the Council of Pisa (1409). The reforms were largely directed against John Wycliffe, mentioned in the opening session and condemned in the eighth on 4 May 1415, and Jan Hus, along with their followers. Hus, summoned to Constance under a letter of safe conduct, was found guilty of heresy by the council and turned over to the secular court. "This holy synod of Constance, seeing that God's church has nothing more that it can do, relinquishes Jan Hus to the judgment of the secular authority and decrees that he is to be relinquished to the secular court." (Council of Constance Session 15 – 6 July 1415). The secular court sentenced him to the stake.
 
 Jerome of Prague, a supporter of Hus, came to Constance to offer assistance but was similarly arrested, judged, found guilty of heresy and turned over to the same secular court, with the same outcome as Hus. Poggio Bracciolini attended the council and related the unfairness of the process against Jerome.[8]
 

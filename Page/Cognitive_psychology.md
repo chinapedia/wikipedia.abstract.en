@@ -43,7 +43,7 @@ Working memory
 
 Though working memory is often thought of as just short-term memory, it is more clearly defined as the ability to process and maintain temporary information in a wide range of everyday activities in the face of distraction. The famously known capacity of memory of 7 plus or minus 2 is a combination of both memory in working memory and long term memory.
 
-One of the classic experiments is by Ebbinghaus, who found the serial position effect where information from the beginning and end of list of random words were better recalled than those in the center.[24] This primacy and recency effect varies in intensity based on list length.[25] Its typical U-shaped curve can be disrupted by an attention-grabbing word; this is known as the Von Restorff effect. Working-memory-en.svg Many models of working memory have been made. One of the most regarded is the Baddeley and Hitch model of working memory. It takes into account both visual and auditory stimuli, long-term memory to use as a reference, and a central processor to combine and understand it all.
+One of the classic experiments is by Ebbinghaus, who found the serial position effect where information from the beginning and end of list of random words were better recalled than those in the center.[24] This primacy and recency effect varies in intensity based on list length.[25] Its typical U-shaped curve can be disrupted by an attention-grabbing word; this is known as the Von Restorff effect. Many models of working memory have been made. One of the most regarded is the Baddeley and Hitch model of working memory. It takes into account both visual and auditory stimuli, long-term memory to use as a reference, and a central processor to combine and understand it all.
 
 A large part of memory is forgetting, and there is a large debate among psychologists of decay theory versus interference theory.
 
@@ -63,7 +63,7 @@ Current perspectives on perception within cognitive psychology tend to focus on 
 
 Language
 
-Psychologists have had an interest in the cognitive processes involved with language that dates back to the 1870s, when Carl Wernicke proposed a model for the mental processing of language.[34] Current work on language within the field of cognitive psychology varies widely. Cognitive psychologists may study language acquisition,[35] individual components of language formation (like phonemes),[36] how language use is involved in mood,[37] or numerous other related areas. BrocasAreaSmall.png
+Psychologists have had an interest in the cognitive processes involved with language that dates back to the 1870s, when Carl Wernicke proposed a model for the mental processing of language.[34] Current work on language within the field of cognitive psychology varies widely. Cognitive psychologists may study language acquisition,[35] individual components of language formation (like phonemes),[36] how language use is involved in mood,[37] or numerous other related areas.
 
 Significant work has been done recently with regard to understanding the timing of language acquisition and how it can be used to determine if a child has, or is at risk of, developing a learning disability. A study from 2012, showed that while this can be an effective strategy, it is important that those making evaluations include all relevant information when making their assessments. Factors such as individual variability, socioeconomic status, short-term and long-term memory capacity, and others must be included in order to make valid assessments.[38]
 

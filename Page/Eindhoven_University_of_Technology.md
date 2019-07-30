@@ -7,7 +7,7 @@ TU/e is the Dutch member of the EuroTech Universities Alliance, a strategic part
 
 History
 
-URE05e.jpg car developed and built by 60 students of the Eindhoven University of Technology]]
+car developed and built by 60 students of the Eindhoven University of Technology]]
 
 The Eindhoven University of Technology was founded as the _Technische Hogeschool Eindhoven_ (THE) on 23 June 1956 by the Dutch government. The University was acknowledged for its research in Automobile sector. It was the second institute of its kind in the Netherlands, preceded only by the Delft University of Technology. It is located on its own campus in the center of Eindhoven, just north of the railway station. It is currently home to about 240 professors, 7200 students, 250 PDEng-students, 600 Ph.D. students, 200 post-doc students and 3000 regular employees. It supports about 100 student associations and 15 alumni associations.[2] Yearly, the Eindhoven University of Technology produces almost 3000 scientific publications, 140 PhD-awards, and 40 patents.
 
@@ -31,8 +31,6 @@ On 3 January 2011, ir. Arno Peels presented the university's strategic vision do
 Organization
 
 The Eindhoven University of Technology is a public university of the Netherlands. As such its general structure and management is determined by the _Wet op het Hoger Onderwijs en Wetenschappelijk Onderzoek_ (English: _Law on Higher Education and Scientific Research_). Between that law and the statutes of the university itself, the management of the university is organized according to the following chart:[8]
-
-Organogram_of_the_management_of_the_Eindhoven_University_of_Technology.png
 
 Executive college
 
@@ -240,7 +238,7 @@ The university has the following service organizations:
 
 Distinguished alumni
 
-schouhamerimmink.jpg]] Wil_van_der_Aalst_and_the_process_mining_science,_2016.jpg.]]
+]] .]]
 
 -   Wil van der Aalst, Dutch Computer scientist
 -   Jo Coenen, Dutch architect and former Chief Architect of the Netherlands
@@ -260,7 +258,7 @@ schouhamerimmink.jpg]] Wil_van_der_Aalst_and_the_process_mining_science,_2016.jp
 
 Distinguished and otherwise notable faculty
 
-Edsger_Wybe_Dijkstra.jpg]] Harry_Lintsen_-_AWUitje085.jpg]] Wietse_Venema.jpg]]
+]] ]] ]]
 
 -   Jacques Benders, mathematician
 -   Nicolaas Govert de Bruijn, mathematician

@@ -1,4 +1,4 @@
-Chile_relief_map_1974.png with major roads and rail lines depicted.]] TRANSPORT IN CHILE is mostly by road. The south of the country is not connected to central Chile by road, except through Argentina, and water transport also plays a part there. The railways were historically important in Chile, but now play a relatively small part in the country's transport system. Because of the country's geography and long distances between major cities, aviation is also important.
+with major roads and rail lines depicted.]] TRANSPORT IN CHILE is mostly by road. The south of the country is not connected to central Chile by road, except through Argentina, and water transport also plays a part there. The railways were historically important in Chile, but now play a relatively small part in the country's transport system. Because of the country's geography and long distances between major cities, aviation is also important.
 
 
 Road transport
@@ -25,14 +25,14 @@ Freeways
 
 Buses
 
-Transantiago_bus_articulado.jpg Buses are now the main means of long distance transportation in Chile, following the decline of the rail network.[1] The bus system covers the whole country, from Arica to Santiago (a 30-hour journey) and from Santiago to Punta Arenas (about 40 hours, with a change at Osorno). There are also international services to most other countries in South America. Longer-distance services are mostly on _semi-cama_ (reclining seat) or _cama_ (sleeper) buses, often double deck.
+Buses are now the main means of long distance transportation in Chile, following the decline of the rail network.[1] The bus system covers the whole country, from Arica to Santiago (a 30-hour journey) and from Santiago to Punta Arenas (about 40 hours, with a change at Osorno). There are also international services to most other countries in South America. Longer-distance services are mostly on _semi-cama_ (reclining seat) or _cama_ (sleeper) buses, often double deck.
 
 Santiago began its public bus system Transantiago in 2007. Concepción's "Bio Bus" integrates with the electric train, Biotren, and is based on a dedicated right of way for buses.
 
 
 Railways
 
-Passenger_trains_in_Chile.png)}}
+)}}
 
 ]]
 

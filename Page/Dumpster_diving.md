@@ -1,4 +1,4 @@
-ROYAL_food,_NY.jpg Poor_men_and_children_scavenge_the_trash_dumps_of_Kabul's_neighborhoods_for_leftovers_and_recyclable_materials..webm]]
+]]
 
 DUMPSTER DIVING (also TOTTING,[1] SKIPPING,[2] SKIP DIVING or SKIP SALVAGE,[3][4]) is the salvaging of waste in large commercial, residential, industrial and construction containers to find items that have been discarded by their owners, but that may prove useful to the picker. It is not confined to dumpsters and skips specifically, and may cover standard household waste containers, curb sides, landfills or small dumps.
 
@@ -16,7 +16,7 @@ Alternative names for the practice include bin-diving,[16] containering,[17] D-m
 
 Participants
 
-Man_rummaging_thought_a_skip.jpg at the back of an office building in Central London]] The term "binner" is often used to describe individuals who collect recyclable materials for their deposit value. For example, in Vancouver, British Columbia, binners, or bottle collectors, search garbage cans and dumpsters for recyclable materials that can be redeemed for their deposit value. On average, these binners earn about $40 a day for several garbage bags full of discarded containers.[22]
+at the back of an office building in Central London]] The term "binner" is often used to describe individuals who collect recyclable materials for their deposit value. For example, in Vancouver, British Columbia, binners, or bottle collectors, search garbage cans and dumpsters for recyclable materials that can be redeemed for their deposit value. On average, these binners earn about $40 a day for several garbage bags full of discarded containers.[22]
 
 The karung guni, Zabbaleen, the rag and bone man, waste picker, junk man or bin hoker are terms for people who make their living by sorting and trading trash. A similar process known as gleaning was practised in rural areas and some ancient agricultural societies, where the residue from farmers' fields was collected.
 
@@ -61,7 +61,7 @@ In the United States, the 1988 _California v. Greenwood_ case in the U.S. Suprem
 
 Items
 
-Dumpster_diving_Linkoping.jpg, Sweden]]
+, Sweden]]
 
 Dumpster diving is practiced differently in developed countries than in developing countries.
 

@@ -10,13 +10,13 @@ The Falkland Islands maintains its own part-time volunteer force, the Falkland I
 
 Royal Navy
 
-HMS_Dauntless-1.jpg, a Type 45 guided missile destroyer.]]
+, a Type 45 guided missile destroyer.]]
 
 RAF Mount Pleasant has its own port facility[9] called Mare Harbour, operated by Naval Party 2010 (NP2010). The Royal Navy maintains a presence in the area with a frigate or guided missile destroyer accompanied by an RFA vessel in the South Atlantic and a patrol ship, currently HMS _Clyde_, permanently close to the islands.[10] In addition, an Ice Patrol Ship, , is on station close to Antarctica for six months of the year.[11]
 
 The warship and RFA vessel carry out the Atlantic Patrol Task (South) mission, which "provides a maritime presence to protect the UK's interests in the region". The Type 42 destroyer HMS _Edinburgh_ took over the South Atlantic Patrol Task in October 2006,[12] replacing HMS _Southampton_. Prior to _Southampton's_ deployment in August 2005, the role was filled by HMS _Cardiff_, which was decommissioned on return to the UK. As of February 2010, the on-station warship was the Type 42 destroyer HMS _York_. In late April 2010, HMS York was relieved by the Type 23 frigate HMS _Portland_. In August 2010, HMS Portland was relieved by the Type 42 destroyer HMS _Gloucester_. On 21 April 2011, HMS _York_ arrived at the East Cove Military Port in the Falkland Islands, beginning patrol duties for the islands.[13] October 2011 saw the arrival of the Type 23 frigate HMS _Montrose_, generating a statement from UNASUR (Union of South American Nations). The Type 45 guided missile destroyer HMS _Dauntless_ replaced HMS Montrose as of April 2012. [14] In early August 2013, HMS Richmond was deployed to be the ship for the Royal Navy's Atlantic Patrol.[15] HMS Portland was again deployed in January 2014.
 
-HMS_Torbay_S90.jpg, a _Trafalgar_-class nuclear submarine.]]
+, a _Trafalgar_-class nuclear submarine.]]
 
 The Falkland Islands Patrol ship is a River-class patrol vessel, which replaced the previous Castle-class patrol vessel. In 2007, HMS _Clyde_ relieved HMS _Dumbarton Castle_ and HMS _Leeds Castle_. It is planned to be replaced by HMS Forth in 2018.[16][17]
 
@@ -25,14 +25,14 @@ The Royal Navy also has _Trafalgar_ and _Astute_-class nuclear submarines that i
 
 British Army
 
-Soldiers_Load_a_Rapier_Missile_System_During_London_Olympics_Security_Exercise.jpg system.]] The British Army maintains a garrison on the Falkland Islands based at Mount Pleasant. The total deployment is about 1,200 personnel made up of a _roulement_ infantry company, an engineer squadron, a signals unit (part of the Joint Communications Unit – see below), a logistics group and supporting services.[21][22][23]
+system.]] The British Army maintains a garrison on the Falkland Islands based at Mount Pleasant. The total deployment is about 1,200 personnel made up of a _roulement_ infantry company, an engineer squadron, a signals unit (part of the Joint Communications Unit – see below), a logistics group and supporting services.[21][22][23]
 
 The British Army contributes to the Joint Service Explosive Ordnance Disposal group (see below) in the Falkland Islands, providing 33 Engineer Regiment (EOD) and RLC EOD teams.[24] This has been reduced to a team of 11 personnel.[25]
 
 
 Royal Air Force
 
-Typhoon_f2_zj910_arp.jpg]] RAF_A330_Voyager_ZZ335,_Brize_Norton_17th_March_2016_(25365262923).jpg]] A400M_-_RIAT_2013_(9360601998).jpg]]
+]] ]] ]]
 
 RAF Mount Pleasant was built in 1985 with the capability of accepting large trans-Atlantic aircraft such as the Lockheed TriStar. The TriStar was purchased mainly for the UK-Falklands route; until their entry into service, the UK used leased 747s and 767s.[26]
 

@@ -17,7 +17,7 @@ Naka no Ōe held the rank of crown prince and was the de facto leader of the gov
 
 He enacted the Taika Reform edicts. The system of _hasshō kyakkan_ (eight ministries and a hundred offices) was first established during the reign of Emperor Kōtoku.[8]
 
-Osakano_shinagano_misasagi.jpg The actual site of Kōtoku's grave is known.[9] This emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Osaka. The Imperial Household Agency designates this location as Kōtoku's mausoleum. It is formally named _Ōsaka-no-shinaga no misasagi_.[10]
+The actual site of Kōtoku's grave is known.[9] This emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Osaka. The Imperial Household Agency designates this location as Kōtoku's mausoleum. It is formally named _Ōsaka-no-shinaga no misasagi_.[10]
 
 _Kugyō_
 

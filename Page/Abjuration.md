@@ -17,7 +17,7 @@ The Catholic Encyclopaedia makes the point that the oath and the penalties were 
 
 Scotland
 
-Covenantershisto02hewi_orig_0512covenant.png During The Killing Time of the 1680s an Abjuration Oath could be put to suspects where they were given the option to abjure or renounce their allegiances. The terms of the oath were deliberately designed to offend the consciences of the Presbyterian Covenanters. Those who would not swear "whether they have arms, or not" could be "immediately killed" by field trial "before two witnesses" on a charge of high treason.[4] John Brown was included among those executed in this judicial process by John Graham (Bluidy Clavers) on 1 May 1685.[5] The wives and children of such men could also be put out of their houses if they had spoken to the suspect or refused the oath themselves.
+During The Killing Time of the 1680s an Abjuration Oath could be put to suspects where they were given the option to abjure or renounce their allegiances. The terms of the oath were deliberately designed to offend the consciences of the Presbyterian Covenanters. Those who would not swear "whether they have arms, or not" could be "immediately killed" by field trial "before two witnesses" on a charge of high treason.[4] John Brown was included among those executed in this judicial process by John Graham (Bluidy Clavers) on 1 May 1685.[5] The wives and children of such men could also be put out of their houses if they had spoken to the suspect or refused the oath themselves.
 
 
 Great Britain and Ireland

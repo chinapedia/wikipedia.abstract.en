@@ -19,8 +19,6 @@ The price paid was half the amount of the 6,250 m² Admiralty II plot, for which
 
 Construction
 
-HK-architecture-BOCHK-Bank-of-China-Building-under-construction-1988-00.jpg
-
 The tower was built by Japanese contractor Kumagai Gumi. Superstructure work began in May 1986.[5]
 
 The tower is a steel-frame structure. The spray-on fireproofing material applied to the steel structure, a product called Monokote MK-5, was a source of controversy as it contains asbestos.[6] At the time, the use of asbestos was only partially banned in Hong Kong.
@@ -32,7 +30,7 @@ Once developed, gross floor area was expected to be 100,000 m².[8] The original
 
 Design
 
-Bank_of_China_Tower_massing_model.svg model showing the shape of the Bank of China Tower. The labels correspond to the number of 'X' shapes on each outward facing side.]]
+model showing the shape of the Bank of China Tower. The labels correspond to the number of 'X' shapes on each outward facing side.]]
 
 Designed by Pritzker Prize-winning architect I. M. Pei, the building is high with two masts reaching high. The 72-storey building is located near Central MTR station. This was the tallest building in Hong Kong and Asia from 1990 to 1992, the first building outside the United States to break the 305 m (1,000 ft) mark, and the first composite space frame high-rise building. That also means it was the tallest outside the United States from its completion year, 1990. It is now the fourth tallest skyscraper in Hong Kong, after International Commerce Centre, Two International Finance Centre and Central Plaza.
 

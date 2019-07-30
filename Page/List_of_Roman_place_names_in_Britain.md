@@ -1,5 +1,3 @@
-Britain_roman.png
-
 A partial LIST OF ROMAN PLACE NAMES IN GREAT BRITAIN.
 
 This list includes only names documented from Roman times. For a more complete list including later Latin names, see List of Latin place names in Britain.

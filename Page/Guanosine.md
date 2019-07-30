@@ -8,7 +8,7 @@ Guanosine is a white, crystalline powder with no odor and mild saline taste.[1] 
 
 Functions
 
-Guanosine is required for an RNA splicing reaction in mRNA, when a "self-splicing" intron removes itself from the mRNA message by cutting at both ends, re-ligating, and leaving just the exons on either side to be translated into protein.[3] GuanosinN.png
+Guanosine is required for an RNA splicing reaction in mRNA, when a "self-splicing" intron removes itself from the mRNA message by cutting at both ends, re-ligating, and leaving just the exons on either side to be translated into protein.[3]
 
 
 Uses

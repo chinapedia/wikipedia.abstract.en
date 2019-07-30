@@ -1,4 +1,4 @@
-To not e able to call or have access to myd dates Sketchpad-Apple.jpg
+To not e able to call or have access to myd dates
 
 The HISTORY OF THE GRAPHICAL USER INTERFACE, understood as the use of graphic icons and a pointing device to control a computer, covers a five-decade span of incremental refinements, built on some constant core principles. Several vendors have created their own windowing systems based on independent code, but with basic elements in common that define the WIMP "window, icon, menu and pointing device" paradigm.
 
@@ -7,7 +7,7 @@ There have been important technological achievements, and enhancements to the ge
 
 Clear all Early research and developments
 
-SRI_Computer_Mouse.jpg, as designed by Bill English from Engelbart's sketches[1]]] On_Line_System_Videoconferencing_FJCC_1968.jpg (1968)]] Early dynamic information devices such as radar displays, where input devices were used for direct control of computer-created data, set the basis for later improvements of graphical interfaces.[2] Some early cathode-ray-tube (CRT) screens used a light pen, rather than a mouse, as the pointing device.
+, as designed by Bill English from Engelbart's sketches[1]]] (1968)]] Early dynamic information devices such as radar displays, where input devices were used for direct control of computer-created data, set the basis for later improvements of graphical interfaces.[2] Some early cathode-ray-tube (CRT) screens used a light pen, rather than a mouse, as the pointing device.
 
 The concept of a multi-panel windowing system was introduced by the first real-time graphic display systems for computers: the SAGE Project and Ivan Sutherland's Sketchpad.
 
@@ -19,15 +19,15 @@ Much of the early research was based on how young children learn. So, the design
 
 Xerox PARC
 
-Xerox_Star_8010_workstations.jpg workstation introduced the first commercial GUI operating system]]
+workstation introduced the first commercial GUI operating system]]
 
 led to the advances at Xerox PARC. Several people went from SRI to Xerox PARC in the early 1970s. In 1973, Xerox PARC developed the Alto personal computer. It had a bitmapped screen, and was the first computer to demonstrate the desktop metaphor and graphical user interface (GUI). It was not a commercial product, but several thousand units were built and were heavily used at PARC, as well as other XEROX offices, and at several universities for many years. The Alto greatly influenced the design of personal computers during the late 1970s and early 1980s, notably the Three Rivers PERQ, the Apple Lisa and Macintosh, and the first Sun workstations.
 
-Smalltalk-76.pngThe GUI was first developed at Xerox PARC by Alan Kay, Larry Tesler, Dan Ingalls, David Smith, Clarence Ellis and a number of other researchers. It used windows, icons, and menus (including the first fixed drop-down menu) to support commands such as opening files, deleting files, moving files, etc. In 1974, work began at PARC on Gypsy, the first bitmap What-You-See-Is-What-You-Get (WYSIWYG) cut & paste editor. In 1975, Xerox engineers demonstrated a Graphical User Interface "including icons and the first use of pop-up menus".[3]
+The GUI was first developed at Xerox PARC by Alan Kay, Larry Tesler, Dan Ingalls, David Smith, Clarence Ellis and a number of other researchers. It used windows, icons, and menus (including the first fixed drop-down menu) to support commands such as opening files, deleting files, moving files, etc. In 1974, work began at PARC on Gypsy, the first bitmap What-You-See-Is-What-You-Get (WYSIWYG) cut & paste editor. In 1975, Xerox engineers demonstrated a Graphical User Interface "including icons and the first use of pop-up menus".[3]
 
 In 1981 Xerox introduced a pioneering product, Star, a workstation incorporating many of PARC's innovations. Although not commercially successful, Star greatly influenced future developments, for example at Apple, Microsoft and Sun Microsystems.[4]
 
-Xerox_Alto.jpg had an early graphical user interface.]]
+had an early graphical user interface.]]
 
 Blit
 
@@ -39,7 +39,7 @@ Lisp machines originally developed at MIT and later commercialized by Symbolics 
 
 Apple Lisa and Macintosh (and later, the Apple IIgs)
 
-Apple_Macintosh_Desktop.png Desktop (1984).]] AppleIIGSOS.png desktop (1986).]]
+Desktop (1984).]] desktop (1986).]]
 
 Beginning in 1979, started by Steve Jobs and led by Jef Raskin, the Apple Lisa and Macintosh teams at Apple Computer (which included former members of the Xerox PARC group) continued to develop such ideas. The Lisa, released in 1983, featured a high-resolution stationery-based (document-centric) graphical interface atop an advanced hard disk based OS that featured such things as preemptive multitasking and graphically oriented inter-process communication. The comparatively simplified Macintosh, released in 1984 and designed to be lower in cost, was the first commercially successful product to use a multi-panel window interface. A desktop metaphor was used, in which files looked like pieces of paper. File directories looked like file folders. There were a set of desk accessories like a calculator, notepad, and alarm clock that the user could place around the screen as desired; and the user could delete files and folders by dragging them to a trash-can icon on the screen. The Macintosh, in contrast to the Lisa, used a program-centric rather than document-centric design. Apple revisited the document-centric design, in a limited manner, much later with OpenDoc.
 
@@ -63,21 +63,21 @@ VisiCorp's Visi On was a GUI designed to run on DOS for IBM PC's. It was release
 
 Graphics Environment Manager (GEM)
 
-Digital Research (DRI) created the Graphics Environment Manager (GEM) as an add-on program for personal computers. GEM was developed to work with existing CP/M and DOS operating systems on business computers such as IBM PC compatibles. It was developed from DRI software, known as GSX, designed by a former PARC employee. The similarity to the Macintosh desktop led to a copyright lawsuit from Apple Computer, and a settlement which involved some changes to GEM. This was to be the first of a series of 'look and feel' lawsuits related to GUI design in the 1980s. Atari_TOS_1_0.png on the Atari ST (1985)]]
+Digital Research (DRI) created the Graphics Environment Manager (GEM) as an add-on program for personal computers. GEM was developed to work with existing CP/M and DOS operating systems on business computers such as IBM PC compatibles. It was developed from DRI software, known as GSX, designed by a former PARC employee. The similarity to the Macintosh desktop led to a copyright lawsuit from Apple Computer, and a settlement which involved some changes to GEM. This was to be the first of a series of 'look and feel' lawsuits related to GUI design in the 1980s. on the Atari ST (1985)]]
 
 GEM received widespread use in the consumer market from 1985, when it was made the default user interface built into the Atari TOS operating system of the Atari ST line of personal computers. It was also bundled by other computer manufacturers and distributors, such as Amstrad. Later, it was distributed with the best-sold Digital Research version of DOS for IBM PC compatibles, the DR-DOS 6.0. The GEM desktop faded from the market with the withdrawal of the Atari ST line in 1992 and with the popularity of the Microsoft Windows 3.0 in the PC front around the same period of time. The Falcon030, released in 1993 was the last computer from Atari to use GEM.
 
 DeskMate
 
-DeskMate_3.02.JPG 3.02 running in VGA mode]] Tandy's DeskMate appeared in the early 1980s on its TRS-80 machines and was ported to its Tandy 1000 range in 1984. Like most PC GUIs of the time, it depended on a disk operating system such as TRSDOS or MS-DOS. The application was popular at the time and included a number of programs like Draw, Text and Calendar, as well as attracting outside investment such as Lotus 1-2-3 for DeskMate.
+3.02 running in VGA mode]] Tandy's DeskMate appeared in the early 1980s on its TRS-80 machines and was ported to its Tandy 1000 range in 1984. Like most PC GUIs of the time, it depended on a disk operating system such as TRSDOS or MS-DOS. The application was popular at the time and included a number of programs like Draw, Text and Calendar, as well as attracting outside investment such as Lotus 1-2-3 for DeskMate.
 
 MSX-View
 
-MSX-View.png running VShell]] MSX-View was developed for MSX computers by ASCII Corporation and HAL Laboratory. MSX-View contains software such as Page Edit, Page View, Page Link, VShell, VTed, VPaint and VDraw. An external version of the built-in MSX View of the Panasonic FS-A1GT was released as an add-on for the Panasonic FS-A1ST on disk instead of 512 kB ROM DISK.
+running VShell]] MSX-View was developed for MSX computers by ASCII Corporation and HAL Laboratory. MSX-View contains software such as Page Edit, Page View, Page Link, VShell, VTed, VPaint and VDraw. An external version of the built-in MSX View of the Panasonic FS-A1GT was released as an add-on for the Panasonic FS-A1ST on disk instead of 512 kB ROM DISK.
 
 Amiga Intuition and the Workbench
 
-Amiga_Workbench_1_0.png Workbench (1985)]] The Amiga computer was launched by Commodore in 1985 with a GUI called Workbench. Workbench was based on an internal engine developed mostly by RJ Mical, called Intuition, which drove all the input events. The first versions used a blue/orange/white/black default palette, which was selected for high contrast on televisions and composite monitors. Workbench presented directories as drawers to fit in with the "workbench" theme. Intuition was the widget and graphics library that made the GUI work. It was driven by user events through the mouse, keyboard, and other input devices.
+Workbench (1985)]] The Amiga computer was launched by Commodore in 1985 with a GUI called Workbench. Workbench was based on an internal engine developed mostly by RJ Mical, called Intuition, which drove all the input events. The first versions used a blue/orange/white/black default palette, which was selected for high contrast on televisions and composite monitors. Workbench presented directories as drawers to fit in with the "workbench" theme. Intuition was the widget and graphics library that made the GUI work. It was driven by user events through the mouse, keyboard, and other input devices.
 
 Due to a mistake made by the Commodore sales department, the first floppies of AmigaOS (released with the Amiga1000) named the whole OS "Workbench". Since then, users and CBM itself referred to "Workbench" as the nickname for the whole AmigaOS (including Amiga DOS, Extras, etc.). This common consent ended with release of version 2.0 of AmigaOS, which re-introduced proper names to the installation floppies of AmigaDOS, Workbench, Extras, etc.
 
@@ -93,17 +93,17 @@ The Amiga Workbench evolved over the 1990s, even after Commodore's 1994 bankrupt
 
 Acorn BBC Master Compact
 
-BBB_MC_GUI_2.jpg Acorn's 8-bit BBC Master Compact shipped with Acorn's first public GUI interface in 1986.[18] Little commercial software, beyond that included on the Welcome disk, was ever made available for the system, despite the claim by Acorn at the time that "the major software houses have worked with Acorn to make over 100 titles available on compilation discs at launch".[19] The most avid supporter of the Master Compact appeared to be Superior Software, who produced and specifically labelled their games as 'Master Compact' compatible.
+Acorn's 8-bit BBC Master Compact shipped with Acorn's first public GUI interface in 1986.[18] Little commercial software, beyond that included on the Welcome disk, was ever made available for the system, despite the claim by Acorn at the time that "the major software houses have worked with Acorn to make over 100 titles available on compilation discs at launch".[19] The most avid supporter of the Master Compact appeared to be Superior Software, who produced and specifically labelled their games as 'Master Compact' compatible.
 
 Arthur / RISC OS
 
-AcornArthur110desktopsmall.png [20] is a series of graphical user interface-based computer operating systems (OSes) designed for ARM architecture systems. It takes its name from the RISC (Reduced Instruction Set Computing) architecture supported. The OS was originally developed by Acorn Computers for use with their 1987 range of Archimedes personal computers using the Acorn RISC Machine processors. It comprises a command-line interface and desktop environment with a windowing system.
+[20] is a series of graphical user interface-based computer operating systems (OSes) designed for ARM architecture systems. It takes its name from the RISC (Reduced Instruction Set Computing) architecture supported. The OS was originally developed by Acorn Computers for use with their 1987 range of Archimedes personal computers using the Acorn RISC Machine processors. It comprises a command-line interface and desktop environment with a windowing system.
 
 Originally branded as the _Arthur 1.20_ the subsequent _Arthur 2_ release was shipped under the name RISC OS 2.
 
 Desktop
 
-RiscOSArtworksTechWriter.png The WIMP interface incorporates three mouse buttons (named _Select_, _Menu_ and _Adjust_), context-sensitive menus, window order control (i.e. send to back) and dynamic window focus (a window can have input focus at any position on the stack). The Icon bar (Dock) holds icons which represent mounted disc drives, RAM discs, running applications, system utilities and docked: Files, Directories or inactive Applications. These icons have context-sensitive menus and support drag-and-drop behaviour. They represent the running application as a whole, irrespective of whether it has open windows.
+The WIMP interface incorporates three mouse buttons (named _Select_, _Menu_ and _Adjust_), context-sensitive menus, window order control (i.e. send to back) and dynamic window focus (a window can have input focus at any position on the stack). The Icon bar (Dock) holds icons which represent mounted disc drives, RAM discs, running applications, system utilities and docked: Files, Directories or inactive Applications. These icons have context-sensitive menus and support drag-and-drop behaviour. They represent the running application as a whole, irrespective of whether it has open windows.
 
 The GUI is centred around the concept of files. The Filer displays the contents of a disc. Applications are run from the Filer view and files can be dragged to the Filer view from applications to perform saves. Application directories are used to store applications. The OS differentiates them from normal directories through the use of a pling (exclamation mark, also called shriek) prefix. Double-clicking on such a directory launches the application rather than opening the directory. The application's executable files and resources are contained within the directory, but normally they remain hidden from the user. Because applications are self-contained, this allows drag-and-drop installation and removal.
 
@@ -115,7 +115,7 @@ The outline fonts manager provides spatial anti-aliasing of fonts, the OS being 
 
 MS-DOS file managers and utility suites
 
-Norton_Utilities_6.01_UI.png.]]
+.]]
 
 Because most of the very early IBM PC and compatibles lacked any common true graphical capability (they used the 80-column basic text mode compatible with the original MDA display adapter), a series of file managers arose, including Microsoft's DOS Shell, which features typical GUI elements as menus, push buttons, lists with scrollbars and mouse pointer. The name text-based user interface was later invented to name this kind of interface. Many MS-DOS text mode applications, like the default text editor for MS-DOS 5.0 (and related tools, like QBasic), also used the same philosophy. The IBM DOS Shell included with IBM DOS 5.0 (circa 1992) supported both text display modes and actual graphics display modes, making it both a TUI and a GUI, depending on the chosen mode.
 
@@ -125,17 +125,15 @@ DESQview was a text mode multitasking program introduced in July 1985. Running o
 
 Applications under MS-DOS with proprietary GUIs
 
-Snapshot_DeluxePaint_II_MSDOS.png
-
 Before the MS-Windows age, and with the lack of a true common GUI under MS-DOS, most graphical applications which worked with EGA, VGA and better graphic cards had proprietary built-in GUIs. One of the best known such graphical applications was Deluxe Paint, a popular painting software with a typical WIMP interface.
 
 The original Adobe Acrobat Reader executable file for MS-DOS was able to run on both the standard Windows 3.x GUI and the standard DOS command prompt. When it was launched from the command prompt, on a machine with a VGA graphics card, it provided its own GUI.
 
 Microsoft Windows (16-bit versions)
 
-Windows1.0.png (1985)]] History of Microsoft Windows}}
+(1985)]] History of Microsoft Windows}}
 
-Windows 1.0, a GUI for the MS-DOS operating system was released in 1985.[28] The market's response was less than stellar.[29] Windows 2.0 followed, but it wasn't until the 1990 launch of Windows 3.0, based on Common User Access that its popularity truly exploded. The GUI has seen minor redesigns since, mainly the networking enabled Windows 3.11 and its Win32s 32-bit patch. The 16-bit line of MS Windows were discontinued with the introduction of Windows 95 and Windows NT 32-bit based architecture in the 1990s. See the next section. Windows_3.11_workspace.png (1993)]]
+Windows 1.0, a GUI for the MS-DOS operating system was released in 1985.[28] The market's response was less than stellar.[29] Windows 2.0 followed, but it wasn't until the 1990 launch of Windows 3.0, based on Common User Access that its popularity truly exploded. The GUI has seen minor redesigns since, mainly the networking enabled Windows 3.11 and its Win32s 32-bit patch. The 16-bit line of MS Windows were discontinued with the introduction of Windows 95 and Windows NT 32-bit based architecture in the 1990s. See the next section. (1993)]]
 
 The main window of a given application can occupy the full screen in _maximized_ status. The users must then to switch between maximized applications using the Alt+Tab keyboard shortcut; no alternative with the mouse except for de-maximize. When none of the running application windows are maximized, switching can be done by clicking on a partially visible window, as is the common way in other GUIs.
 
@@ -143,19 +141,19 @@ In 1988, Apple sued Microsoft for copyright infringement of the Lisa and Apple M
 
 GEOS
 
-GeOS_Commodore_64.gif (1986).]]
+(1986).]]
 
 GEOS was launched in 1986. Originally written for the 8-bit home computer Commodore 64 and shortly after, the Apple II series. The name was later used by the company as PC/Geos for IBM PC systems, then Geoworks Ensemble. It came with several application programs like a calendar and word processor, and a cut-down version served as the basis for America Online's DOS client. Compared to the competing Windows 3.0 GUI it could run reasonably well on simpler hardware, but its developer had a restrictive policy towards third-party developers that prevented it from becoming a serious competitor. And it was targeted at 8-bit machines and the 16-bit computer age was dawning.
 
 The X Window System
 
-X-Window-System.png desktop (circa 1990).]] The standard windowing system in the Unix world is the X Window System (commonly X11 or X), first released in the mid-1980s. The W Window System (1983) was the precursor to X; X was developed at MIT as Project Athena. Its original purpose was to allow users of the newly emerging graphic terminals to access remote graphics workstations without regard to the workstation's operating system or the hardware. Due largely to the availability of the source code used to write X, it has become the standard layer for management of graphical and input/output devices and for the building of both local and remote graphical interfaces on virtually all Unix, Linux and other Unix-like operating systems, with the notable exceptions of macOS and Android.
+desktop (circa 1990).]] The standard windowing system in the Unix world is the X Window System (commonly X11 or X), first released in the mid-1980s. The W Window System (1983) was the precursor to X; X was developed at MIT as Project Athena. Its original purpose was to allow users of the newly emerging graphic terminals to access remote graphics workstations without regard to the workstation's operating system or the hardware. Due largely to the availability of the source code used to write X, it has become the standard layer for management of graphical and input/output devices and for the building of both local and remote graphical interfaces on virtually all Unix, Linux and other Unix-like operating systems, with the notable exceptions of macOS and Android.
 
 X allows a graphical terminal user to make use of remote resources on the network as if they were all located locally to the user by running a single module of software called the X server. The software running on the remote machine is called the client application. X's network transparency protocols allow the display and input portions of any application to be separated from the remainder of the application and 'served up' to any of a large number of remote users. X is available today as free software.
 
 NeWS
 
-HyperTIESAuthoring.jpg The PostScript-based NeWS (Network extensible Window System) was developed by Sun Microsystems in the mid-1980s. For several years SunOS included a window system combining NeWS and the X Window System. Although NeWS was considered technically elegant by some commentators, Sun eventually dropped the product. Unlike X, NeWS was always proprietary software.
+The PostScript-based NeWS (Network extensible Window System) was developed by Sun Microsystems in the mid-1980s. For several years SunOS included a window system combining NeWS and the X Window System. Although NeWS was considered technically elegant by some commentators, Sun eventually dropped the product. Unlike X, NeWS was always proprietary software.
 
 
 The 1990s: Mainstream usage of the desktop
@@ -166,7 +164,7 @@ Also, the spreading of Highcolor and True Color capabilities of display adapters
 
 Windows 95 and "a computer in every home"
 
-Windows_95_Desktop_screenshot.png desktop (1995).]]
+desktop (1995).]]
 
 After Windows 3.11, Microsoft began to develop a new consumer-oriented version of the operating system. Windows 95 was intended to integrate Microsoft's formerly separate MS-DOS and Windows products and included an enhanced version of DOS, often referred to as MS-DOS 7.0. It also featured a significant redesign of the GUI, dubbed "Cairo". While Cairo never really materialized, parts of Cairo found their way into subsequent versions of the operating system starting with Windows 95. Both Win95 and WinNT could run 32-bit applications, and could exploit the abilities of the Intel 80386 CPU, as the preemptive multitasking and up to 4 GiB of linear address memory space. Windows 95 was touted as a 32-bit based operating system but it was actually based on a hybrid kernel (VWIN32.VXD) with the 16-bit user interface (USER.EXE) and graphic device interface (GDI.EXE) of Windows for Workgroups (3.11), which had 16-bit kernel components with a 32-bit subsystem (USER32.DLL and GDI32.DLL) that allowed it to run native 16-bit applications as well as 32-bit applications. In the marketplace, Windows 95 was an unqualified success, promoting a general upgrade to 32-bit technology, and within a year or two of its release had become the most successful operating system ever produced.
 
@@ -178,7 +176,7 @@ Windows 95 evolved through the years into Windows 98 and Windows ME. Windows ME 
 
 Mac OS
 
-Macintosh_System_7.5.3_screenshot.png]] The Macintosh's GUI has been revised multiple times since 1984, with major updates including System 7 and Mac OS 8. It underwent its largest revision to date with the introduction of the "Aqua" interface in 2001's Mac OS X. It was a new operating system built primarily on technology from NeXTStep with UI elements of the original Mac OS grafted on. macOS uses a technology known as Quartz, for graphics rendering and drawing on-screen. Some interface features of macOS are inherited from NeXTStep (such as the Dock, the automatic wait cursor, or double-buffered windows giving a solid appearance and flicker-free window redraws), while others are inherited from the old Mac OS operating system (the single system-wide menu-bar). Mac OS X 10.3 introduced features to improve usability including Exposé, which is designed to make finding open windows easier.
+]] The Macintosh's GUI has been revised multiple times since 1984, with major updates including System 7 and Mac OS 8. It underwent its largest revision to date with the introduction of the "Aqua" interface in 2001's Mac OS X. It was a new operating system built primarily on technology from NeXTStep with UI elements of the original Mac OS grafted on. macOS uses a technology known as Quartz, for graphics rendering and drawing on-screen. Some interface features of macOS are inherited from NeXTStep (such as the Dock, the automatic wait cursor, or double-buffered windows giving a solid appearance and flicker-free window redraws), while others are inherited from the old Mac OS operating system (the single system-wide menu-bar). Mac OS X 10.3 introduced features to improve usability including Exposé, which is designed to make finding open windows easier.
 
 With Mac OS X 10.4 released in April 2005,[33] new features were added, including Dashboard (a virtual alternate desktop for mini specific-purpose applications) and a search tool called Spotlight, which provides users with an option for searching through files instead of browsing through folders.
 
@@ -186,13 +184,13 @@ With Mac OS X 10.7 released in July 2011, included support for full screen apps 
 
 GUIs built on the X Window System
 
-Plasma_Desktop_4.4.jpg 4.4 desktop (2010)]] Gnome-2.28.png 2.28 desktop (2010)]] of X Window development, Sun Microsystems and AT&T attempted to push for a GUI standard called OPEN LOOK in competition with Motif. OPEN LOOK was developed from scratch in conjunction with Xerox, while Motif was a collective effort.[34] Motif prevailed in the UNIX GUI battles and became the basis for the Common Desktop Environment (CDE). CDE was based on Visual User Environment (VUE), a proprietary desktop from Hewlett-Packard that in turn was based on the Motif look and feel.
+4.4 desktop (2010)]] 2.28 desktop (2010)]] of X Window development, Sun Microsystems and AT&T attempted to push for a GUI standard called OPEN LOOK in competition with Motif. OPEN LOOK was developed from scratch in conjunction with Xerox, while Motif was a collective effort.[34] Motif prevailed in the UNIX GUI battles and became the basis for the Common Desktop Environment (CDE). CDE was based on Visual User Environment (VUE), a proprietary desktop from Hewlett-Packard that in turn was based on the Motif look and feel.
 
 In the late 1990s, there was significant growth in the Unix world, especially among the free software community. New graphical desktop movements grew up around Linux and similar operating systems, based on the X Window System. A new emphasis on providing an integrated and uniform interface to the user brought about new desktop environments, such as KDE Plasma 5, GNOME and Xfce which have supplanted CDE in popularity on both Unix and Unix-like operating systems. The Xfce, KDE and GNOME look and feel each tend to undergo more rapid change and less codification than the earlier OPEN LOOK and Motif environments.
 
 Amiga
 
-Wb_20.png Workbench 2.0 (1990)]] AmigaOS_4.1.png Workbench 4.1 (2009)]] Later releases added improvements over the original Workbench, like support for high-color Workbench screens, context menus, and embossed 2D icons with pseudo-3D aspect. Some Amiga users preferred alternative interfaces to standard Workbench, such as Directory Opus Magellan.
+Workbench 2.0 (1990)]] Workbench 4.1 (2009)]] Later releases added improvements over the original Workbench, like support for high-color Workbench screens, context menus, and embossed 2D icons with pseudo-3D aspect. Some Amiga users preferred alternative interfaces to standard Workbench, such as Directory Opus Magellan.
 
 The use of improved, third-party GUI engines became common amongst users who preferred more attractive interfaces – such as Magic User Interface (MUI), and ReAction. These object-oriented graphic engines driven by user interface classes and methods were then standardized into the Amiga environment and changed Amiga Workbench to a complete and modern guided interface, with new standard gadgets, animated buttons, true 24-bit-color icons, increased use of wallpapers for screens and windows, alpha channel, transparencies and shadows as any modern GUI provides.
 
@@ -202,15 +200,15 @@ Use of object oriented graphic engines dramatically changes the look and feel of
 
 OS/2
 
-OS-2_W4.png Workplace Shell]] Originally collaboratively developed by Microsoft and IBM to replace DOS, OS/2 version 1.0 (released in 1987) had no GUI at all. Version 1.1 (released 1988) included Presentation Manager (PM), an implementation of IBM Common User Access, which looked a lot like the later Windows 3.1 UI. After the split with Microsoft, IBM developed the Workplace Shell (WPS) for version 2.0 (released in 1992), a quite radical, object-oriented approach to GUIs. Microsoft later imitated much of this look in Windows 95.
+Workplace Shell]] Originally collaboratively developed by Microsoft and IBM to replace DOS, OS/2 version 1.0 (released in 1987) had no GUI at all. Version 1.1 (released 1988) included Presentation Manager (PM), an implementation of IBM Common User Access, which looked a lot like the later Windows 3.1 UI. After the split with Microsoft, IBM developed the Workplace Shell (WPS) for version 2.0 (released in 1992), a quite radical, object-oriented approach to GUIs. Microsoft later imitated much of this look in Windows 95.
 
 NeXTSTEP
 
-NeXTSTEP_Nethack.png, help and more apps.]] The NeXTSTEP user interface was used in the NeXT line of computers. NeXTSTEP's first major version was released in 1989. It used Display PostScript for its graphical underpinning. The NeXTSTEP interface's most significant feature was the Dock, carried with some modification into Mac OS X, and had other minor interface details that some found made it easier and more intuitive to use than previous GUIs. NeXTSTEP's GUI was the first to feature opaque dragging of windows in its user interface, on a comparatively weak machine by today's standards, ideally aided by high performance graphics hardware.
+, help and more apps.]] The NeXTSTEP user interface was used in the NeXT line of computers. NeXTSTEP's first major version was released in 1989. It used Display PostScript for its graphical underpinning. The NeXTSTEP interface's most significant feature was the Dock, carried with some modification into Mac OS X, and had other minor interface details that some found made it easier and more intuitive to use than previous GUIs. NeXTSTEP's GUI was the first to feature opaque dragging of windows in its user interface, on a comparatively weak machine by today's standards, ideally aided by high performance graphics hardware.
 
 BeOS
 
-BeOS_Desktop.png Desktop]] BeOS was developed on custom AT&T Hobbit-based computers before switching to PowerPC hardware by a team led by former Apple executive Jean-Louis Gassée as an alternative to Mac OS. BeOS was later ported to Intel hardware. It used an object-oriented kernel written by Be, and did not use the X Window System, but a different GUI written from scratch. Much effort was spent by the developers to make it an efficient platform for multimedia applications. Be Inc. was acquired by PalmSource, Inc. (Palm Inc. at the time) in 2001. The BeOS GUI still lives in Haiku, an open source software reimplementation of the BeOS.
+Desktop]] BeOS was developed on custom AT&T Hobbit-based computers before switching to PowerPC hardware by a team led by former Apple executive Jean-Louis Gassée as an alternative to Mac OS. BeOS was later ported to Intel hardware. It used an object-oriented kernel written by Be, and did not use the X Window System, but a different GUI written from scratch. Much effort was spent by the developers to make it an efficient platform for multimedia applications. Be Inc. was acquired by PalmSource, Inc. (Palm Inc. at the time) in 2001. The BeOS GUI still lives in Haiku, an open source software reimplementation of the BeOS.
 
 
 Current trends
@@ -225,7 +223,7 @@ As high-powered graphics hardware draws considerable power and generates signifi
 
 3D user interface
 
-Fedora-Core-6-AIGLX.png running on Fedora Core 6 with AIGLX.]]
+running on Fedora Core 6 with AIGLX.]]
 
 In the first decade of the 21st century, the rapid development of GPUs led to a trend for the inclusion of 3D effects in window management. It is based in experimental research in User Interface Design trying to expand the expressive power of the existing toolkits in order to enhance the physical cues that allow for direct manipulation. New effects common to several projects are scale resizing and zooming, several windows transformations and animations (wobbly windows, smooth minimization to system tray...), composition of images (used for window drop shadows and transparency) and enhancing the global organization of open windows (zooming to virtual desktops, desktop cube, Exposé, etc.) The proof-of-concept BumpTop desktop combines a physical representation of documents with tools for document classification possible only in the simulated environment, like instant reordering and automated grouping of related documents.
 

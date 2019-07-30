@@ -1,9 +1,9 @@
-Beads.jpg A BEAD is a small, decorative object that is formed in a variety of shapes and sizes of a material such as stone, bone, shell, glass, plastic, wood or pearl and with a small hole for threading or stringing. Beads range in size from under to over in diameter. A pair of beads made from _Nassarius_ sea snail shells, approximately 100,000 years old, are thought to be the earliest known examples of jewellery.[1][2] Beadwork is the art or craft of making things with beads. Beads can be woven together with specialized thread, strung onto thread or soft, flexible wire, or adhered to a surface (e.g. fabric, clay).
+A BEAD is a small, decorative object that is formed in a variety of shapes and sizes of a material such as stone, bone, shell, glass, plastic, wood or pearl and with a small hole for threading or stringing. Beads range in size from under to over in diameter. A pair of beads made from _Nassarius_ sea snail shells, approximately 100,000 years old, are thought to be the earliest known examples of jewellery.[1][2] Beadwork is the art or craft of making things with beads. Beads can be woven together with specialized thread, strung onto thread or soft, flexible wire, or adhered to a surface (e.g. fabric, clay).
 
 
 Types of beads
 
-Cloisonnebeads.jpg Beads can be divided into several types of overlapping categories based on different criteria such as the materials from which they are made, the process used in their manufacturing, the place or period of origin, the patterns on their surface, or their general shape. In some cases, such as millefiori and cloisonné beads, multiple categories may overlap in an interdependent fashion.
+Beads can be divided into several types of overlapping categories based on different criteria such as the materials from which they are made, the process used in their manufacturing, the place or period of origin, the patterns on their surface, or their general shape. In some cases, such as millefiori and cloisonné beads, multiple categories may overlap in an interdependent fashion.
 
 
 Components
@@ -22,9 +22,7 @@ The natural inorganics include various types of stones, ranging from gemstones t
 
 Synthetic materials
 
-Crystbeads.jpg crystal beads (), pendant 3 cm]]
-
-Swedish_patent_217875_Sätt_att_för_arbetsterapi.pdf
+crystal beads (), pendant 3 cm]]
 
 The oldest-surviving synthetic materials used for beadmaking have generally been ceramics: pottery and glass. Beads were also made from ancient alloys such as bronze and brass, but as those were more vulnerable to oxidation they have generally been less well-preserved at archaeological sites.
 
@@ -39,7 +37,7 @@ Modern mass-produced beads are generally shaped by carving or casting, depending
 
 Glassworking
 
-Pressedglass.jpg Assorted_beads_in_a_box_23June2019_arp.jpg Most glass beads are pressed glass, mass-produced by preparing a molten batch of glass of the desired color and pouring it into molds to form the desired shape. This is also true of most plastic beads.
+Most glass beads are pressed glass, mass-produced by preparing a molten batch of glass of the desired color and pouring it into molds to form the desired shape. This is also true of most plastic beads.
 
 A smaller and more expensive subset of glass and lead crystal beads are cut into precise faceted shapes on an individual basis. This was once done by hand but has largely been taken over by precision machinery.
 
@@ -47,7 +45,7 @@ A smaller and more expensive subset of glass and lead crystal beads are cut into
 
 Specialized glass techniques and types
 
-Dichroicclose.jpg Furnaceglass.jpg There are several specialized glassworking techniques that create a distinctive appearance throughout the body of the resulting beads, which are then primarily referred to by the glass type.
+There are several specialized glassworking techniques that create a distinctive appearance throughout the body of the resulting beads, which are then primarily referred to by the glass type.
 
 If the glass batch is used to create a large massive block instead of pre-shaping it as it cools, the result may then be carved into smaller items in the same manner as stone. Conversely, glass artisans may make beads by lampworking the glass on an individual basis; once formed, the beads undergo little or no further shaping after the layers have been properly annealed.
 
@@ -81,7 +79,7 @@ SEED BEADS Seed beads are uniformly shaped spheroidal or tube shaped beads rangi
 
 Place or period of origin
 
-Cinnabarbead.jpg lacquer beads]] AFRICAN TRADE BEADS or SLAVE BEADS may be antique beads that were manufactured in Europe and used for trade during the colonial period, such as chevron beads; or they may have been made in West Africa by and for Africans, such as Mauritanian Kiffa beads, Ghanaian and Nigerian powder glass beads, or African-made brass beads.
+lacquer beads]] AFRICAN TRADE BEADS or SLAVE BEADS may be antique beads that were manufactured in Europe and used for trade during the colonial period, such as chevron beads; or they may have been made in West Africa by and for Africans, such as Mauritanian Kiffa beads, Ghanaian and Nigerian powder glass beads, or African-made brass beads.
 
 AUSTRIAN CRYSTAL is a generic term for cut lead-crystal beads, based on the location and prestige of the Swarovski firm.
 
@@ -91,7 +89,7 @@ VINTAGE BEADS, in the collectibles and antique market, refers to items that are 
 
 Miscellaneous ethnic beads
 
-Tibetan Dzi beads and Rudraksha beads are used to make Buddhist and Hindu rosaries (malas). Magatama are traditional Japanese beads, and cinnabar was often used for making beads in China. Wampum are cylindrical white or purple beads made from quahog or North Atlantic channeled whelk shells by northeastern Native American tribes, such as the Wampanoag and Shinnecock.[6] Job's tears are seed beads popular among southeastern Native American tribes. Heishe are beads made of shells or stones by the Kewa Pueblo people of New Mexico. Pomegranate_carved_in_the_round_MET_DP110584.jpg, dated to the Assyrian Empire of the 8th-century.]]
+Tibetan Dzi beads and Rudraksha beads are used to make Buddhist and Hindu rosaries (malas). Magatama are traditional Japanese beads, and cinnabar was often used for making beads in China. Wampum are cylindrical white or purple beads made from quahog or North Atlantic channeled whelk shells by northeastern Native American tribes, such as the Wampanoag and Shinnecock.[6] Job's tears are seed beads popular among southeastern Native American tribes. Heishe are beads made of shells or stones by the Kewa Pueblo people of New Mexico. , dated to the Assyrian Empire of the 8th-century.]]
 
 
 Symbolic meaning of beads

@@ -1,4 +1,4 @@
-Group_action_on_equilateral_triangle.svg, the counterclockwise rotation by 120° around the center of the triangle maps every vertex of the triangle to another one. The cyclic group _C_₃ consisting of the rotations by 0°, 120° and 240° acts on the set of the three vertices.]]
+, the counterclockwise rotation by 120° around the center of the triangle maps every vertex of the triangle to another one. The cyclic group _C_₃ consisting of the rotations by 0°, 120° and 240° acts on the set of the three vertices.]]
 
 In mathematics, a GROUP ACTION is a formal way of interpreting the manner in which the elements of a group correspond to transformations of some space in a way that preserves the structure of that space. Common examples of spaces that groups act on are sets, vector spaces, and topological spaces. Actions of groups on vector spaces are called representations of the group.
 
@@ -68,7 +68,7 @@ If _X_ is a non-zero module over a ring _R_ and the action of _G_ is _R_-linear 
 
  Orbits and stabilizers
 
-Compound_of_five_tetrahedra.png, the symmetry group is the (rotational) icosahedral group _I_ of order 60, while the stabilizer of a single chosen tetrahedron is the (rotational) tetrahedral group _T_ of order 12, and the orbit space _I_/_T_ (of order 60/12 = 5) is naturally identified with the 5 tetrahedra – the coset _gT_ corresponds to the tetrahedron to which _g_ sends the chosen tetrahedron.]]
+, the symmetry group is the (rotational) icosahedral group _I_ of order 60, while the stabilizer of a single chosen tetrahedron is the (rotational) tetrahedral group _T_ of order 12, and the orbit space _I_/_T_ (of order 60/12 = 5) is naturally identified with the 5 tetrahedra – the coset _gT_ corresponds to the tetrahedron to which _g_ sends the chosen tetrahedron.]]
 
 Consider a group _G_ acting on a set _X_. The _orbit_ of an element _x_ in _X_ is the set of elements in _X_ to which _x_ can be moved by the elements of _G_. The orbit of _x_ is denoted by _G_⋅_x_:
 
@@ -110,8 +110,6 @@ If G is finite then the orbit-stabilizer theorem, together with Lagrange's theor
 |_G_ ⋅ _x_| = [_G_ : _G__(_x_)] = |_G_|/|_G__(_x_)|.
 
 This result is especially useful since it can be employed for counting arguments (typically in situations where X is finite as well).
-
-Labeled_cube_graph.png
 
     EXAMPLE: One can use the orbit-stabilizer theorem to count the automorphisms of a graph. Consider the cubical graph as pictured, and let G denote its automorphism group. Then G acts on the set of vertices {1, 2, …, 8}, and this action is transitive as can be seen by composing rotations about the center of the cube. Thus, by the orbit-stabilizer theorem, we have that |G| = |G ⋅ 1||G₁| = 8|G₁|. Applying the theorem now to the stabilizer G₁, we obtain |G₁| = |(G₁) ⋅ 2||(G₁)₂|. Any element of G that fixes 1 must send 2 to either 2, 4 or 5. There are such automorphisms; consider for example the map that transposes 2 and 4, transposes 6 and 8, and fixes the other vertices. Thus, |(G₁)⋅2| = 3. Applying the theorem a third time gives |(G₁)₂| = |((G₁)₂) ⋅ 3||((G₁)₂)₃|. Any element of G that fixes 1 and 2 must send 3 to either 3 or 6, and one easily finds such automorphisms. Thus, |((G₁)₂)⋅3| = 2. One also sees that ((G₁)₂)₃ consists only of the identity automorphism, as any element of G fixing 1, 2 and 3 must also fix 4 and consequently all other vertices. Combining the preceding calculations, we now obtain |G| = 8 ⋅ 3 ⋅ 2 ⋅ 1 = 48.
 

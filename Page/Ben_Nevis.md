@@ -16,15 +16,11 @@ Geography
 
 Ben Nevis forms a massif with its neighbour to the northeast, Càrn Mòr Dearg, to which it is linked by the Càrn Mòr Dearg Arête.[10] Both mountains are among the nine in Scotland over ; Aonach Beag and Aonach Mòr are also on the Nevis massif.
 
-Ben_Nevis_massif.PNG]]
+]]
 
 The western and southern flanks of Ben Nevis rise in about above the River Nevis flowing down Glen Nevis – the longest and steepest hill slope in Britain[11] – with the result that the mountain presents an aspect of massive bulk on this side. To the north, by contrast, cliffs drop some to Coire Leis (pronounced Koruh Laysh.)
 
-Cic-2.jpg
-
 A descent of 200 metres from this corrie leads to the Charles Inglis Clark Memorial Hut (known as the CIC Hut), a private mountain hut above sea level, owned by the Scottish Mountaineering Club[12] and used as a base for the many climbing routes on the mountain's north face. The hut is just above the confluence of Allt a' Mhuilinn and Allt Coire na Ciste.
-
-Cic-1.jpg
 
 In addition to the main summit, Ben Nevis has two subsidiary "tops" listed in Munro's Tables, both of which are called Càrn Dearg ("red hill").[13] The higher of these, at , is to the northwest, and is often mistaken for Ben Nevis itself in views from the Fort William area. The other Càrn Dearg () juts out into Glen Nevis on the mountain's southwestern side. A lower hill, Meall an t-Suidhe (), is further west, forming a saddle with Ben Nevis which contains a small loch, Lochan Meall an t-Suidhe. The popular tourist path from Glen Nevis skirts the side of this hill before ascending Ben Nevis's broad western flank.
 
@@ -36,14 +32,14 @@ Research has shown igneous rock from the Devonian period (around 400 million yea
 
 Climate
 
-Ben_Nevis_south_face.jpg]]
+]]
 
 Ben Nevis has a highland (alpine) maritime (oceanic) polar climate (_ET_ climate in the Köppen classification). Ben Nevis's altitude, maritime location and topography frequently lead to cool and cloudy weather conditions, which can pose a danger to ill-equipped walkers. According to the observations carried out at the summit observatory from 1883–1904, fog was present on the summit for almost 80 per cent of the time between November and January, and 55 per cent of the time in May and June.[19] The average winter temperature was around ,[20] and the mean monthly temperature for the year was .[21] In an average year the summit sees 261 gales,[22] and receives of rainfall, compared to only in nearby Fort William,[23] in Inverness and in London. Rainfall on Ben Nevis is about twice as high in the winter as it is in the spring and summer. Snow can be found on the mountain almost all year round, particularly in the gullies of the north face – with the higher reaches of Observatory Gully holding snow until September most years and sometimes until the new snows of the following season.
 
 
 History
 
-Ben_Nevis._From_FWVL.jpg]]
+]]
 
 The first recorded ascent of Ben Nevis was made on 17 August 1771 by James Robertson, an Edinburgh botanist, who was in the region to collect botanical specimens. Another early ascent was in 1774 by John Williams, who provided the first account of the mountain's geological structure.[24] John Keats climbed the mountain in 1818, comparing the ascent to "mounting ten St. Pauls without the convenience of a staircase".[25] The following year William MacGillivray, who was later to become a distinguished naturalist, reached the summit only to find "fragments of earthen and glass ware, chicken bones, corks, and bits of paper".[26] It was not until 1847 that Ben Nevis was confirmed by the Ordnance Survey as the highest mountain in Britain and Ireland, ahead of its rival Ben Macdhui.
 
@@ -56,11 +52,9 @@ In 2016, the height of Ben Nevis was officially remeasured to be 1344.527m by Or
 
 Ascent routes
 
-Path_Up_Ben_Nevis.JPG
-
 The 1883 Pony Track to the summit (also known as the _Ben Path_, the _Mountain Path_ or the _Tourist Route_) remains the simplest and most popular route of ascent. It begins at Achintee on the east side of Glen Nevis about from Fort William town centre, at around 20 metres above sea level. Bridges from the Visitor Centre and the youth hostel now allow access from the west side of Glen Nevis.[31][32] The path climbs steeply to the saddle by Lochan Meall an t-Suidhe (colloquially known as the 'Halfway Lake') at 570 m, then ascends the remaining 700 metres up the stony west flank of Ben Nevis in a series of zig-zags. The path is regularly maintained but running water, uneven rocks and loose scree make it hazardous and slippery in places. Thanks to the zig-zags, the path is not unusually steep apart from in the initial stages, but inexperienced walkers should be aware that the descent is relatively arduous and wearing on the knees.
 
-Carn_Mor_Dearg_arete.jpg]]
+]]
 
 A route popular with experienced hillwalkers starts at Torlundy, a few miles north-east of Fort William on the A82 road, and follows the path alongside the Allt a' Mhuilinn. It can also be reached from Glen Nevis by following the Pony Track as far as Lochan Meall an t-Suidhe, then descending slightly to the CIC Hut. The route then ascends Càrn Mòr Dearg and continues along the Càrn Mòr Dearg Arête ("CMD Arête") before climbing steeply to the summit of Ben Nevis. This route involves a total of 1,500 metres of ascent and requires modest scrambling ability and a head for heights.[33] In common with other approaches on this side of the mountain, it has the advantage of giving an extensive view of the cliffs of the north face, which are hidden from the Pony Track.[34]
 
@@ -69,7 +63,7 @@ It is also possible to climb Ben Nevis from the Nevis Gorge car park at Steal at
 
 Summit
 
-Ben_Nevis_summit.jpg.]]
+.]]
 
 The summit of Ben Nevis comprises a large stony plateau of about .[35] The highest point is marked with a large, solidly built cairn atop which sits an Ordnance Survey trig point. The summit is the highest ground for over , before the Scandinavian Mountains in western Norway are reached, which contain many peaks higher than Ben Nevis. The summit is much higher than the Faroe Islands as well as the rest of the British Isles.
 
@@ -81,8 +75,6 @@ The view from the UK's highest point is extensive. Under ideal conditions, it ca
 
 Observatory
 
-Archive_photograph_of_Ben_Nevis_observatory_(detail).jpg
-
 A meteorological observatory on the summit was first proposed by the Scottish Meteorological Society (SMS) in the late-1870s, at a time when similar observatories were being built around the world to study the weather at high altitude.[40] In the summer of 1881, Clement Lindley Wragge climbed the mountain daily to make observations (earning him the nickname "Inclement Rag"), leading to the opening on 17 October 1883 of a permanent observatory run by the SMS.[41] The building was manned full-time until 1904, when it was closed due to inadequate funding. The twenty years worth of readings still provide the most comprehensive set of data on mountain weather in Great Britain.[42]
 
 In September 1894, C. T. R. Wilson was employed at the observatory for a couple of weeks as temporary relief for one of the permanent staff. During this period, he witnessed a Brocken spectre and glory, caused by the sun casting a shadow on a cloud below the observer. He subsequently tried to reproduce these phenomena in the laboratory, resulting in his invention of the cloud chamber, used to detect ionising radiation.[43][44]
@@ -92,7 +84,7 @@ Marjory Roy, a member of the Scottish Meteorological Society is the author of th
 
 Navigation and safety
 
-Ben_Nevis_cornice.jpg, accurate navigation is critical.]] Summit_cairn_on_Ben_Nevis_in_thick_fog.jpg
+, accurate navigation is critical.]]
 
 Ben Nevis's popularity, climate and complex topography contribute to a high number of mountain rescue incidents. In 1999, for example, there were 41 rescues and four fatalities on the mountain.[45] Some accidents arise over difficulties in navigating to or from the summit,[46] especially in poor visibility. The problem stems from the fact that the summit plateau is roughly kidney-shaped and surrounded by cliffs on three sides; the danger is particularly accentuated when the main path is obscured by snow. Two precise compass bearings taken in succession are necessary to navigate from the summit cairn to the west flank, from where a descent can be made on the Pony Track in relative safety.[47]
 
@@ -101,19 +93,15 @@ In the late 1990s, Lochaber Mountain Rescue Team erected two posts on the summit
 
 Climbing on Ben Nevis
 
-Ben_N_Face_annotated.jpg
-
 The north face of Ben Nevis is riven with buttresses, ridges, towers and pinnacles, and contains many classic scrambles and rock climbs. It is of major importance for British winter climbing, with many of its routes holding snow often until late April. It was one of the first places in Scotland to receive the attention of serious mountaineers, with an ascent of Tower Ridge in 1892 the earliest documented climbing expedition on the Ben.[53][54] (It was not climbed from bottom to top for another two years). The Scottish Mountaineering Club's Charles Inglis Clark hut was built below the north face in Coire Leis in 1929. Because of its remote location, it is said to be the only genuine alpine hut in Britain.[55] It remains popular with climbers, especially in winter.
 
 Tower Ridge is the longest of the north face's four main ridges, with around 600 metres of ascent. It is not technically demanding (its grade is Difficult), and most pitches can be tackled unroped by competent climbers, but it is committing and very exposed.[56] Castle Ridge (Moderate), the northernmost of the main ridges, is an easier scramble, while Observatory Ridge (Very Difficult),[57] the closest ridge to the summit, is "technically the hardest of the Nevis ridges in summer and winter".[58] Between the Tower and Observatory Ridges are the Tower and Gardyloo Gullies; the latter takes its name from the cry of "_garde à l'eau_" (French for "watch out for the water") formerly used in Scottish cities as a warning when householders threw their slops (and worse) out of a tenement window into the street. The gully's top wall was the refuse pit for the now-disused summit observatory.[59] The North-east Buttress (Very Difficult) is the southernmost and bulkiest of the four ridges; it is as serious as Observatory Ridge but not as technically demanding, mainly because an "infamous"[60] rock problem, the 'Man-trap', can be avoided on either side.
-
-Ben_Nevis.jpg
 
 The north face contains dozens of graded rock climbs along its entire length, with particular concentrations on the Càrn Dearg Buttress (below the Munro top of Càrn Dearg NW) and around the North-east Buttress and Observatory Ridge. Classic rock routes include _Rubicon Wall_ on Observatory Buttress (Severe) – whose second ascent in 1937, when it was considered the hardest route on the mountain, is described by W. H. Murray in _Mountaineering in Scotland_[61] – and, on Càrn Dearg, _Centurion_ and _The Bullroar_ (both HVS), _Torro_ (E2), and _Titan's Wall_ (E3), these four described in the SMC's guide as among "the best climbs of their class in Scotland".[62]
 
 Many seminal lines were recorded before the First World War by pioneering Scottish climbers like J N Collie, Willie Naismith, Harold Raeburn, and William and Jane Inglis Clark. Other classic routes were put up by G. Graham Macphee, Dr James H. B. Bell and others between the Wars; these include Bell's 'Long Climb', at reputedly the longest sustained climb on the British mainland. In summer 1943 conscientious objector Brian Kellett made a phenomenal seventy-four repeat climbs and seventeen first ascents including fourteen solos,[63] returning in 1944 to add fifteen more new lines, eleven solo, including his eponymous HVS on Gardyloo buttress. Much more recently, an extreme and as-yet ungraded climb on Echo Wall was completed by Dave MacLeod in 2008 after two years of preparation.[64]
 
-A_climber_nearing_the_top_of_No_5_Gulley_-_geograph.org.uk_-_1104524.jpg can be discerned in the background.]]
+can be discerned in the background.]]
 
 The north face is also one of Scotland's foremost venues for winter mountaineering and ice climbing, and holds snow until quite late in the year; in a good year, routes may remain in winter condition until mid-spring. Most of the possible rock routes are also suitable as winter climbs, including the four main ridges; Tower Ridge, for example, is grade IV on the Scottish winter grading system, having been upgraded in 2009 by the Scottish Mountaineering Club after requests by the local Mountain Rescue Team, there being numerous benightments and incidents every winter season.[65] Probably the most popular ice climb on Ben Nevis[66] is _The Curtain_ (IV,5) on the left side of the Càrn Dearg Buttress. At the top end of the scale, _Centurion_ in winter is a grade VIII,8 face climb.
 
@@ -122,11 +110,7 @@ In February 1960 James R. Marshall and Robin Clark Smith recorded six major new 
 
 Ben Nevis Race
 
-Image29_jpg_ben_race_1979.jpg Image6_Ben_Race_1979.jpg
-
 The history of hill running on Ben Nevis dates back to 1895. William Swan, a barber from Fort William, made the first recorded timed ascent up the mountain on or around 27 September of that year, when he ran from the old post office in Fort William to the summit and back in 2 hours 41 minutes.[68] The following years saw several improvements on Swan's record, but the first competitive race was held on 3 June 1898 under Scottish Amateur Athletic Association rules. Ten competitors ran the course, which started at the Lochiel Arms Hotel in Banavie and was thus longer than the route from Fort William; the winner was 21-year-old Hugh Kennedy, a gamekeeper at Tor Castle, who finished (coincidentally with Swan's original run) in 2 hours 41 minutes.[69]
-
-Ben_Race.jpg
 
 Regular races were organised until 1903, when two events were held; these were the last for 24 years, perhaps due to the closure of the summit observatory the following year.[70] The first was from Achintee, at the foot of the Pony Track, and finished at the summit; It was won in just over an hour by Ewen MacKenzie, the observatory roadman.[71] The second race ran from new Fort William post office, and MacKenzie lowered the record to 2 hours 10 minutes, a record he held for 34 years.[72]
 
@@ -137,7 +121,7 @@ Extreme sports on The Ben
 
 Ben Nevis is becoming popular with ski mountaineers and boarders. The Red Burn (Allt Coire na h-Urcaire) just to the North of the tourist path gives the easiest descent, but most if not all of the easier gullies on the North Face have been skied, as has the slope once adorned by the abseil poles into Coire Leis. No 4 gully is probably the most skied. Although Tower scoop makes it a no-fall zone, Tower Gully is becoming popular, especially in May and June when there is spring snow.[77]
 
-Ski_Ben_Nevis.jpg towards the summit]]
+towards the summit]]
 
 In 2018 Jöttnar pro team member Tim Howell BASE jumped off Ben Nevis which was covered by the BBC Scotland.[78]
 
@@ -149,8 +133,6 @@ Environmental issues and Nevis Landscape Partnership
 Ben Nevis's popularity and high-profile have led to concerns in recent decades over the impact of humans on the fragile mountain environment within the Ben Nevis and Glen Coe National Scenic Area. These concerns contributed to the creation of The Nevis Landscape Partnership, a five-year programme which aimed to protect, enhance and future-proof Ben Nevis by delivering nineteen ambitious environmental projects between 2014 and 2019. The Nevis Landscape Partnership is supported by five partner organisations (John Muir Trust, Forestry Commission Scotland, The Highland Council, Scottish Natural Heritage & The Nevis Partnership) and was made possible by Heritage Lottery Funding.
 
 With the 5-year programme now finished, there have been significant positive changes implemented by Nevis Landscape Partnership and their projects, most significantly the upgrades to the Ben Nevis Mountain Track. Work to upgrade the mountain track started in November 2015 after two contracts were awarded to McGowan Ltd. & Cairngorm Wilderness Contracts. Between 2015 and 2019, 3.5 km of path has been repaired through eight separate contracts and 3,323 hours of volunteer time.
-
-Allt_a'_Mhuilinn.JPG
 
 Volunteer effort has been a huge help and will continue to be a large contributing factor to the continued maintenance of the mountain track. Nevis Landscape Partnership have worked closely with National Trust for Scotland to run Thistle Camp Working Holidays which have focused on much-needed maintenance on the first section of the Ben Nevis footpath and allow outdoor enthusiasts to actively be a part of maintaining and protecting the United Kingdom's highest mountain for this generation and many more to come.
 

@@ -17,11 +17,11 @@ Walking has constituted a major form of transport in ancient times.This mode of 
 
 Palanquins
 
-Dolly_service_in_Sabarimala.jpg pilgrimage.|right]] Palanquins are also known as _palkhis_ or _pallakiis_, was one of the luxurious methods primarily used by the rich and noblemen for travelling and also to carry a deity (idol) of a God. Many temples have sculptures of God being carried in _palkhis_.[18] Modern use of the palanquin is limited to Indian weddings, pilgrimage and carrying idols of Gods.[19][20]
+pilgrimage.|right]] Palanquins are also known as _palkhis_ or _pallakiis_, was one of the luxurious methods primarily used by the rich and noblemen for travelling and also to carry a deity (idol) of a God. Many temples have sculptures of God being carried in _palkhis_.[18] Modern use of the palanquin is limited to Indian weddings, pilgrimage and carrying idols of Gods.[19][20]
 
 Bicycles
 
-Homeward_Journey_-_Barrackpore_Trunk_Road_-_Sukchar_-_North_24_Parganas_2012-04-11_9485.JPG Bicycles or cycles, have ownership rates ranging from around 30% to 75% at the state level.[21] Along with walking, cycling accounts for 50 to 80% of the commuter trips for those in the informal sector in urban areas.[22] However, recent developments suggest that bicycle riding is quickly becoming popular in the metropolitian cities of India. Today, government development authorities all over India encourages the setup and use of separate bicycle lanes alongside the roads to combat pollution and ease traffic congestion.[23]
+Bicycles or cycles, have ownership rates ranging from around 30% to 75% at the state level.[21] Along with walking, cycling accounts for 50 to 80% of the commuter trips for those in the informal sector in urban areas.[22] However, recent developments suggest that bicycle riding is quickly becoming popular in the metropolitian cities of India. Today, government development authorities all over India encourages the setup and use of separate bicycle lanes alongside the roads to combat pollution and ease traffic congestion.[23]
 
 Human-pulled rickshaws
 
@@ -38,7 +38,7 @@ Bullock carts have been traditionally used for transport, especially in rural In
 
 Road
 
-Mumbai_Pune_ExpresswayDec2007.jpg was the first expressway to be operational in India on 2002]] Outer_Ring_Road_(Nehru_ORR)_at_Narsinghi.jpg Durgapur_Xpressway.jpg in the Indian state of West Bengal, part of NH 2]]
+was the first expressway to be operational in India on 2002]] in the Indian state of West Bengal, part of NH 2]]
 
 India has been building roads since ancient times as is evident from the Harappan civilisation.[37] As per 2017 estimates, the total road length in India is ;[38] making the Indian road network the second largest road network in the world after the United States. At 0.66 km of highway per square kilometre of land the density of India's highway network is higher than that of the United States (0.65) and far higher than that of China's (0.16) or Brazil's (0.20).[39]
 
@@ -69,8 +69,6 @@ Generally, traffic in most of the cities in India moves slowly, where traffic ja
 +---------------------------------+------------+
 
 Bus
-
-Mumbai_03-2016_48_bus_in_Mahim.jpg
 
 Buses are an important means of public transport in India. Due to this social significance, urban bus transport is often owned and operated by public agencies, and most state governments operate bus services through a State Road Transport Corporation.[54] These corporations have proven extremely useful in connecting villages and towns across the country.[55] Alongside the public companies there are many private bus fleets:As of 2012, there were 131,800 publicly owned buses in India, but 1,544,700 buses owned by private companies.[56]
 
@@ -114,8 +112,6 @@ However, the share of buses is negligible in most Indian cities as compared to p
 
 Bus Rapid Transit System
 
-Pune_BRTS.jpg
-
 Bus rapid transit systems (BRTS), exist in several cities of the country.[58] Buses take up over 90% of public transport in Indian cities,[59] and serve as an important mode of transport. Services are mostly run by state government owned Transport Corporations.[60] In 1990s all government State Transport Corporations have introduced various facilities like low-floor buses for the disabled and air-conditioned buses to attract private car owners to help decongest roads.[61][62] The Ahmedabad Bus Rapid Transport System, in 2010 won the prestigious Sustainable Transport Award from the Transportation Research Board in Washington.[63]
 
 Rainbow BRTS in Pune is the first BRTS system in the country. Mumbai introduced air conditioned buses in 1998.[64] Bangalore was the first city in India to introduce Volvo B7RLE intra-city buses in India in January 2005 .[65][66][67]
@@ -148,19 +144,19 @@ There have been efforts to improve the energy efficiency of transport systems in
 
 Utility vehicles
 
-Tata_Ace_Mini_Truck_(2).JPG The first utility vehicle in India was manufactured by Mahindra. It was a copy of the original Jeep and was manufactured under licence.[92] The vehicle was an instant hit and made Mahindra one of the top companies in India. The Indian Army and police extensively use Mahindra vehicles along with Maruti Gypsys for transporting personnel and equipment.
+The first utility vehicle in India was manufactured by Mahindra. It was a copy of the original Jeep and was manufactured under licence.[92] The vehicle was an instant hit and made Mahindra one of the top companies in India. The Indian Army and police extensively use Mahindra vehicles along with Maruti Gypsys for transporting personnel and equipment.
 
 Tata Motors, the automobile manufacturing arm of the Tata Group, launched its first utility vehicle, the Tata Sumo, in 1994.[93][94] The Sumo, owing to its then-modern design, captured a 31% share of the market within two years.[95] The Tempo Trax from Force Motors till recently was ruling the rural areas. Sports utility vehicles now form a sizeable part of the passenger vehicle market.[96] Models from Tata, Honda, Hyundai, Ford, Chevrolet and other brands are available.[97]
 
 Taxis
 
-Kolkata_Taxi_by_Piyal_Kundu.jpg]] Most of the taxicabs in Kolkata and Mumbai are either Premier Padmini or Hindustan Ambassador cars.[98] in rest of cities all modern cars are available, However, with app based taxi services like Uber coming to India as well as homegrown Indian app based taxi services like Ola coming to the fore, taxicabs now include Sedans,[99] SUVs[100] and even motorcycle taxis.[101] Depending on the city/state, taxis can either be hailed or hired from taxi-stands. In cities such as Bangalore, Chennai, Hyderabad and Ahmedabad, taxis need to be hired over phone,[102] whereas in cities like Kolkata and Mumbai, taxis can be hailed on the street. According to government of India regulations, all taxis are required to have a fare-meter installed.[103] There are additional surcharges for luggage, late-night rides and toll taxes are to be paid by the passenger. Since 2006, radio taxis have become increasingly popular with the public due to reasons of safety and convenience.[104]
+]] Most of the taxicabs in Kolkata and Mumbai are either Premier Padmini or Hindustan Ambassador cars.[98] in rest of cities all modern cars are available, However, with app based taxi services like Uber coming to India as well as homegrown Indian app based taxi services like Ola coming to the fore, taxicabs now include Sedans,[99] SUVs[100] and even motorcycle taxis.[101] Depending on the city/state, taxis can either be hailed or hired from taxi-stands. In cities such as Bangalore, Chennai, Hyderabad and Ahmedabad, taxis need to be hired over phone,[102] whereas in cities like Kolkata and Mumbai, taxis can be hailed on the street. According to government of India regulations, all taxis are required to have a fare-meter installed.[103] There are additional surcharges for luggage, late-night rides and toll taxes are to be paid by the passenger. Since 2006, radio taxis have become increasingly popular with the public due to reasons of safety and convenience.[104]
 
 In cities and localities where taxis are expensive or do not ply as per the government or municipal regulated fares, people use share taxis. These are normal taxis which carry one or more passengers travelling to destinations either on one route to the final destination, or near the final destination. The passengers are charged according to the number of people with different destinations. The city of Mumbai will soon be the first city in India, to have an "in-taxi" magazine, titled _MumBaee_, which will be issued to taxis which are part of the Mumbai Taximen's Union. The magazine debuted on 13 July 2009.[105] In Kolkata, there are many _no refusal taxi_ available with white and blue in colour.[106]
 
 Auto
 
-Bajaj_RE_4S_CNG_-_Three-wheeler_-_New_Delhi_2014-05-06_0889.JPG Autorikshaw in Green,Delhi,India.]] An auto is a three-wheeler vehicle for hire that does not have doors and is generally characterised by a small cabin for the driver in the front and a seat for passengers in the rear.[107] Generally it is painted in yellow, green or black colour and has a black, yellow or green canopy on the top, but designs vary considerably from place to place. The color of the autorickshaw is also determined by the fuel that it is powered by, for example Agartala, Ahmedabad, Mumbai, Pune and Delhi have green or black autos indicating the use of compressed natural gas(CNG), whereas the autos of Kolkata, Bangalore, Hyderabad have green autos indicating the use of LPG.
+Autorikshaw in Green,Delhi,India.]] An auto is a three-wheeler vehicle for hire that does not have doors and is generally characterised by a small cabin for the driver in the front and a seat for passengers in the rear.[107] Generally it is painted in yellow, green or black colour and has a black, yellow or green canopy on the top, but designs vary considerably from place to place. The color of the autorickshaw is also determined by the fuel that it is powered by, for example Agartala, Ahmedabad, Mumbai, Pune and Delhi have green or black autos indicating the use of compressed natural gas(CNG), whereas the autos of Kolkata, Bangalore, Hyderabad have green autos indicating the use of LPG.
 
 In Mumbai and other metropolitan cities, 'autos' or 'rickshaws' as they are popularly known have regulated metered fares. A recent law prohibits auto rickshaw drivers from charging more than the specified fare, or charging night-fare before midnight, and also prohibits the driver from refusing to go to a particular location. Mumbai and Kolkata are also the only two cities which prohibit auto rickshaws from entering a certain part of the city, in these cases being South Mumbai and certain parts of Downtown Kolkata.[108] However, in cities like Chennai, it is common to see autorickshaw drivers demand more than the specified fare and refuse to use fare meter.[109]
 
@@ -171,7 +167,7 @@ Electric rickshaw is new popular means of transport, rapidly growing in number i
 
 Rail
 
-Bangalore-City-Stn.jpg Indian_railways.jpg NewDeli_Mumbai_Rajdhani_AC_2_tier_new_livery.jpg|An air Conditioned coach]] Darjeeling_Himalayan_Railway.jpg in West Bengal is a World Heritage Site,[111] and one of the only few steam locomotive operated railway lines in India]]
+|An air Conditioned coach]] in West Bengal is a World Heritage Site,[111] and one of the only few steam locomotive operated railway lines in India]]
 
 Country-wide rail services in India, are provided by the state-run Indian Railways under the supervision of the Ministry of Railways. IR is divided into eighteen zones including the Kolkata Metro Railway.[112] The IR are further sub-divided into sixty seven divisions, each having a divisional headquarters.[113][114]
 
@@ -195,15 +191,13 @@ Indian government approved the choice of Japan to build India's first high-speed
 
 International links
 
-Samjautha_Express.JPG Rail links between India and neighbouring countries are not well-developed. Two trains operate to Pakistan—the _Samjhauta Express_ between Delhi and Lahore, and the _Thar Express_ between Jodhpur and Karachi. Bangladesh is connected by a biweekly train, the _Maitree Express_ that runs from Kolkata to Dhaka and a weekly train, the _Bandhan Express_ that runs from Kolkata to Khulna. Two rail links to Nepal exist—passenger services between Jainagar and Bijalpura, and freight services between Raxaul and Birganj.[140]
+Rail links between India and neighbouring countries are not well-developed. Two trains operate to Pakistan—the _Samjhauta Express_ between Delhi and Lahore, and the _Thar Express_ between Jodhpur and Karachi. Bangladesh is connected by a biweekly train, the _Maitree Express_ that runs from Kolkata to Dhaka and a weekly train, the _Bandhan Express_ that runs from Kolkata to Khulna. Two rail links to Nepal exist—passenger services between Jainagar and Bijalpura, and freight services between Raxaul and Birganj.[140]
 
 Indian and Bangladeshi governments will start work late by December or early by January 2015 on a new rail link to ease surface transport.[141] India will build a 15-km railway tracks linking Tripura's capital Agartala with Bangladesh's southeastern city of Akhaura, an important railway junction connected to Chittagong port, resource-rich Sylhet and Dhaka.[142] An agreement to implement the railway project was signed between India and Bangladesh in January 2010.[143] Total cost of the proposed project is estimated at Rs. 252 crore. The Indian Railway Construction Company (IRCON) would lay the new railway tracks on both sides of the border. Of the 15 km rail line, five km of tracks fall in the Indian territory.[144][145] The NFR is now laying tracks to connect Tripura's southern most border town Sabroom, 135 km south of here. From Sabroom, the Chittagong international sea port is just 72 km.[146]
 
 No rail link exists with Myanmar but a railway line is to be built through from Jiribam (in Manipur) to Tamu through Imphal and Moreh.[147] The construction of this missing link, as per the feasibility study conducted by the Ministry of External Affairs through RITES Ltd, is estimated to cost .[148] An 18 km railway link with Bhutan is being constructed from Hashimara in West Bengal to Toribari in Bhutan. No rail link exists with either China or Sri Lanka.[149]
 
 Suburban rail
-
-Mumbai_Train.JPG
 
 The Mumbai Suburban Railway is the first rail system in India which began services in Mumbai in 1853, transports 6.3 million passengers daily and has the highest passenger density in the world.[150] The Kolkata Suburban Railway, was established in Kolkata in 1854.[151]
 
@@ -212,8 +206,6 @@ The operational suburban rail systems in India are in Mumbai Suburban Railway, K
 Other planned systems are Bengaluru Commuter Rail, Ahmedabad Suburban Railway and Coimbatore Suburban Railway.
 
 Metro
-
-Chennai_Metro_Rail_at_Koyambedu.JPG
 
 The first modern rapid transit in India is the Kolkata Metro and it is very modern. The metro started its operations in 1984, this is also the 17th Zone of the IR.[153] The Delhi Metro in New Delhi is India's second conventional metro and began operations in 2002. The Namma Metro in Bangalore is India's third operational rapid transit and began operations in 2011.
 
@@ -225,8 +217,6 @@ Currently, rapid transit is under construction or in planning in several major c
 
 Monorail
 
-Mumbai_Monorail_(14568680190).jpg
-
 Monorail is generally considered as feeder system for the Metro trains in India. The Mumbai Monorail, which started in 2014, is the first operational monorail network in India[154] (excluding the Skybus Metro) since the Patiala State Monorail Trainways closed in 1927.
 
 Other planned systems are Chennai Monorail, Kolkata Monorail, Allahabad Monorail, Bengaluru Monorail, Delhi Monorail, Indore Monorail, Kanpur Monorail, Navi Mumbai Monorail, Patna Monorail, Pune Monorail, Ahmedabad Monorail, Aizawl Monorail, Bhubaneswar Monorail, Jodhpur Monorail, Kota Monorail, Nagpur Monorail and Nashik Monorail.
@@ -237,20 +227,18 @@ Like monorail, light rail is also considered as a feeder system for the Metro sy
 
 Tram
 
-Kolkata_transport.jpg
-
 In addition to trains, trams were introduced in many cities in late 19th century, though almost all of these were phased out. The trams in Kolkata is currently the only tram system in the country. The Calcutta Tramways Company is in the process of upgrading the existing tramway network at a cost of .[155]
 
 
 Airways
 
-Air_India_001.jpg, the flag carrier of India]] Directorate General of Civil Aviation is the national regulatory body for the aviation industry. It is controlled by the Ministry of Civil Aviation. The ministry also controls aviation related autonomous organisations like the Airports Authority of India (AAI), Bureau of Civil Aviation Security (BCAS), Indira Gandhi Rashtriya Uran Akademi and Public Sector Undertakings including Air India, Pawan Hans Helicopters Limited and Hindustan Aeronautics Limited.[156]
+, the flag carrier of India]] Directorate General of Civil Aviation is the national regulatory body for the aviation industry. It is controlled by the Ministry of Civil Aviation. The ministry also controls aviation related autonomous organisations like the Airports Authority of India (AAI), Bureau of Civil Aviation Security (BCAS), Indira Gandhi Rashtriya Uran Akademi and Public Sector Undertakings including Air India, Pawan Hans Helicopters Limited and Hindustan Aeronautics Limited.[156]
 
 Air India is India's national flag carrier after merging with Indian (airline) in 2011[157] and plays a major role in connecting India with the rest of the world.[158] IndiGo, Air India, Spicejet and GoAir are the major carriers in order of their market share.[159] These airlines connect more than 80 cities across India and also operate overseas routes after the liberalisation of Indian aviation. Several other foreign airlines connect Indian cities with other major cities across the globe. However, a large section of country's air transport potential remains untapped, even though the Mumbai-Delhi air corridor was ranked the world's tenth busiest route by Amadeus in 2012.[160][161]
 
 Airports
 
-Mumbai_airport.jpg Emirates_777-300_.JPG 777-300 lands at Kempegowda International Airport]]
+777-300 lands at Kempegowda International Airport]]
 
 While there are 346[162] civilian airfields in India – 253 with paved runways and 93 with unpaved runways, only 132 were classified as "airports" as of November 2014.[163] Of these, Indira Gandhi International Airport in Delhi is the busiest in the country.[164][165][166] The operations of the major airports in India have been privatised over the past five years and this has resulted in better equipped and cleaner airports. The terminals have either been refurbished or expanded.
 
@@ -276,8 +264,6 @@ India also has 33 "ghost airports," which were built in an effort to make air tr
 
 Heliports
 
-Aerospatiale_SA_365N_Dauphin_2,_Pawan_Hans_Helicopters_JP7310237.jpg
-
 As of 2013, there are 45 heliports in India.[170] India also has the world's highest helipad at the Siachen Glacier at a height of 6400 m (21,000 ft) above mean sea level.[171]
 
 Pawan Hans Helicopters Limited is a public sector company that provides helicopter services to ONGC to its off-shore locations, and also to various State Governments in India, particularly in North-east India.[172]
@@ -291,7 +277,7 @@ India also has an extensive network of inland waterways.
 
 Ports and shipping
 
-Jawaharlal_Nehru_Trust_Port.jpg in Navi Mumbai ranks 25th in the world as per container traffic.[174]]] Container_terminal.JPG, the only transshipment facility in India. This port lies closest to international shipping routes among all Indian ports.]]
+in Navi Mumbai ranks 25th in the world as per container traffic.[174]]] , the only transshipment facility in India. This port lies closest to international shipping routes among all Indian ports.]]
 
 In India about 96% of the foreign trade by quantity and 70% by value takes place through the ports.[175] Mumbai Port & JNPT(Navi Mumbai) handles 70% of maritime trade in India.[176] There are twelve major ports: Navi Mumbai, Mumbai, Kochi, Kolkata (including Haldia), Paradip, Visakhapatnam, Ennore, Chennai, Tuticorin, New Mangaluru, Mormugao and Kandla.[177] Other than these, there are 187 minor and intermediate ports, 43 of which handle cargo.[178]
 
@@ -303,7 +289,7 @@ The distinction between major and minor ports is not based on the amount of carg
 
 Inland Waterways
 
-Motor_Vessel_Jalapath_-_Hooghly_River_2012-01-14_0908.JPG]] Homeward_bound.jpg]]
+]] ]]
 
 India has an extensive network of inland waterways in the form of rivers, canals, backwaters and creeks. The total navigable length is , out of which about of river and of canals can be used by mechanised crafts.[187] Freight transport by waterways is highly underutilised in India compared to other large countries. The total cargo moved by inland waterways is just 0.15% of the total inland traffic in India, compared to the corresponding figures of 20% for Germany and 32% for Bangladesh.[188]
 

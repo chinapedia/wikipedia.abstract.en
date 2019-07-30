@@ -15,7 +15,7 @@ Examples of fair use in United States copyright law include commentary, search e
 
 The U.S. Supreme Court has traditionally characterized fair use as an affirmative defense, but in _Lenz v. Universal Music Corp._ (2015)[5] (the "dancing baby" case), the U.S. Court of Appeals for the Ninth Circuit concluded that fair use was not merely a defense to an infringement claim, but was an expressly authorized right, and an exception to the exclusive rights granted to the author of a creative work by copyright law: "Fair use is therefore distinct from affirmative defenses where a use infringes a copyright, but there is no liability due to a valid excuse, e.g., misuse of a copyright."
 
-Joseph_Story.jpg''.]] The four factors of analysis for fair use set forth above derive from the opinion of Joseph Story in _Folsom v. Marsh_,[6] in which the defendant had copied 353 pages from the plaintiff's 12-volume biography of George Washington in order to produce a separate two-volume work of his own.[7] The court rejected the defendant's fair use defense with the following explanation:
+''.]] The four factors of analysis for fair use set forth above derive from the opinion of Joseph Story in _Folsom v. Marsh_,[6] in which the defendant had copied 353 pages from the plaintiff's 12-volume biography of George Washington in order to produce a separate two-volume work of his own.[7] The court rejected the defendant's fair use defense with the following explanation:
 
 The statutory fair use factors quoted above come from the Copyright Act of 1976, which is codified at . They were intended by Congress to restate, but not replace, the prior judge-made law. As Judge Pierre N. Leval has written, the statute does not "define or explain [fair use's] contours or objectives." While it "leav[es] open the possibility that other factors may bear on the question, the statute identifies none."[8] That is, courts are entitled to consider other factors in addition to the four statutory factors.
 
@@ -37,7 +37,7 @@ It is arguable, given the dominance of a rhetoric of the "transformative" in rec
 
 2. Nature of the copyrighted work
 
-J._D._Salinger_Signature.svg's letters was a key issue in the court's analysis of the second fair use factor in _Salinger v. Random House_.]]
+'s letters was a key issue in the court's analysis of the second fair use factor in _Salinger v. Random House_.]]
 
 Although the Supreme Court has ruled that the availability of copyright protection should not depend on the artistic quality or merit of a work, fair use analyses consider certain aspects of the work to be relevant, such as whether it is fictional or non-fictional.[17]
 
@@ -47,7 +47,7 @@ In the decisions of the Second Circuit in _Salinger v. Random House_[19] and in 
 
 3. Amount and substantiality
 
-GoogleImageSearch.png The third factor assesses the amount and substantiality of the copyrighted work that has been used. In general, the less that is used in relation to the whole, the more likely the use will be considered fair.
+The third factor assesses the amount and substantiality of the copyrighted work that has been used. In general, the less that is used in relation to the whole, the more likely the use will be considered fair.
 
 Using most or all of a work does not bar a finding of fair use. It simply makes the third factor less favorable to the defendant. For instance, in _Sony Corp. of America v. Universal City Studios, Inc._ copying entire television programs for private viewing was upheld as fair use, at least when the copying is done for the purposes of time-shifting. In _Kelly v. Arriba Soft Corporation_, the Ninth Circuit held that copying an entire photo to use as a thumbnail in online search results did not even weigh against fair use, "if the secondary user only copies as much as is necessary for his or her intended use".
 

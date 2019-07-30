@@ -1,5 +1,3 @@
-Crowded_cytosol.png
-
 The CYTOSOL, also known as INTRACELLULAR FLUID (ICF) or CYTOPLASMIC MATRIX, or GROUNDPLASM,[1] is the liquid found inside cells.[2] It is separated into compartments by membranes. For example, the mitochondrial matrix separates the mitochondrion into many compartments.
 
 In the eukaryotic cell, the cytosol is surrounded by the cell membrane and is part of the cytoplasm, which also comprises the mitochondria, plastids, and other organelles (but not their internal fluids and structures); the cell nucleus is separate. The cytosol is thus a liquid matrix around the organelles. In prokaryotes, most of the chemical reactions of metabolism take place in the cytosol, while a few take place in membranes or in the periplasmic space. In eukaryotes, while many metabolic pathways still occur in the cytosol, others take place within organelles.
@@ -20,7 +18,7 @@ Prior to this, other terms, including HYALOPLASM,[9] were used for the cell flui
 
 Properties and composition
 
-Cellular_Fluid_Content.jpg The proportion of cell volume that is cytosol varies: for example while this compartment forms the bulk of cell structure in bacteria,[11] in plant cells the main compartment is the large central vacuole.[12] The cytosol consists mostly of water, dissolved ions, small molecules, and large water-soluble molecules (such as proteins). The majority of these non-protein molecules have a molecular mass of less than 300 Da.[13] This mixture of small molecules is extraordinarily complex, as the variety of molecules that are involved in metabolism (the metabolites) is immense. For example, up to 200,000 different small molecules might be made in plants, although not all these will be present in the same species, or in a single cell.[14] Estimates of the number of metabolites in single cells such as _E. coli_ and baker's yeast predict that under 1,000 are made.[15][16]
+The proportion of cell volume that is cytosol varies: for example while this compartment forms the bulk of cell structure in bacteria,[11] in plant cells the main compartment is the large central vacuole.[12] The cytosol consists mostly of water, dissolved ions, small molecules, and large water-soluble molecules (such as proteins). The majority of these non-protein molecules have a molecular mass of less than 300 Da.[13] This mixture of small molecules is extraordinarily complex, as the variety of molecules that are involved in metabolism (the metabolites) is immense. For example, up to 200,000 different small molecules might be made in plants, although not all these will be present in the same species, or in a single cell.[14] Estimates of the number of metabolites in single cells such as _E. coli_ and baker's yeast predict that under 1,000 are made.[15][16]
 
 Water
 
@@ -73,7 +71,7 @@ Protein complexes
 
 Proteins can associate to form protein complexes, these often contain a set of proteins with similar functions, such as enzymes that carry out several steps in the same metabolic pathway.[52] This organization can allow substrate channeling, which is when the product of one enzyme is passed directly to the next enzyme in a pathway without being released into solution.[53] Channeling can make a pathway more rapid and efficient than it would be if the enzymes were randomly distributed in the cytosol, and can also prevent the release of unstable reaction intermediates.[54] Although a wide variety of metabolic pathways involve enzymes that are tightly bound to each other, others may involve more loosely associated complexes that are very difficult to study outside the cell.[55][56] Consequently, the importance of these complexes for metabolism in general remains unclear.
 
-Carboxysome.pngs are protein-enclosed bacterial microcompartments within the cytosol. On the left is an electron microscope image of carboxysomes, and on the right a model of their structure.]]
+s are protein-enclosed bacterial microcompartments within the cytosol. On the left is an electron microscope image of carboxysomes, and on the right a model of their structure.]]
 
 Protein compartments
 

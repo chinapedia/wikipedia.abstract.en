@@ -14,7 +14,7 @@ He died on November 20, 1764 at age of 74, in Moscow.
 
 Contributions
 
-Letter_Goldbach-Euler.jpg, 1742]] Goldbach is most noted for his correspondence with Leibniz, Euler, and Bernoulli, especially in his 1742 letter to Euler stating his Goldbach's conjecture. He also studied and proved some theorems on perfect powers, such as the Goldbach–Euler theorem, and made several notable contributions to analysis.[5] He also proved a result concerning Fermat numbers that is called Goldbach's theorem.
+, 1742]] Goldbach is most noted for his correspondence with Leibniz, Euler, and Bernoulli, especially in his 1742 letter to Euler stating his Goldbach's conjecture. He also studied and proved some theorems on perfect powers, such as the Goldbach–Euler theorem, and made several notable contributions to analysis.[5] He also proved a result concerning Fermat numbers that is called Goldbach's theorem.
 
 
 Works

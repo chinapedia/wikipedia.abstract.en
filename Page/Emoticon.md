@@ -1,4 +1,4 @@
-Emoticon_Smile_Face.svg emoticon]] Kaomoji.png An EMOTICON (, , rarely pronounced ),[1][2][3][4] short for "emotion icon",[5] also known simply as an EMOTE, is a pictorial representation of a facial expression using characters—usually punctuation marks, numbers, and letters—to express a person's feelings or mood, or as a time-saving method. The first ASCII emoticons, :-) and :-(, were written by Scott Fahlman in 1982, but emoticons actually originated on the PLATO IV computer system in 1972.[6]
+emoticon]] An EMOTICON (, , rarely pronounced ),[1][2][3][4] short for "emotion icon",[5] also known simply as an EMOTE, is a pictorial representation of a facial expression using characters—usually punctuation marks, numbers, and letters—to express a person's feelings or mood, or as a time-saving method. The first ASCII emoticons, :-) and :-(, were written by Scott Fahlman in 1982, but emoticons actually originated on the PLATO IV computer system in 1972.[6]
 
 In Western countries, emoticons are usually written at a right angle to the direction of the text. Users from Japan popularized a kind of emoticon called KAOMOJI (顔文字; lit. 顔(kao)=face, 文字(moji)=character(s)), utilizing the Katakana character set, that can be understood without tilting one's head to the left. This style arose on ASCII NET of Japan in 1986.[7][8]
 
@@ -14,15 +14,13 @@ The use of emoticons can be traced back to the 17th century, drawn by a Slovak n
 
 History
 
-SNice.svg
-
 Antecedents
 
 The _National Telegraphic Review and Operators Guide_ in April 1857 documented the use of the number 73 in Morse code to express "love and kisses" (later reduced to the more formal "best regards"). _Dodge's Manual_ in 1908 documented the reintroduction of "love and kisses" as the number 88. Gajadhar and Green comment that both Morse code abbreviations are more succinct than modern abbreviations such as LOL.[12]
 
-Alleged_use_of_emoticon,_1862-08-07.jpg'', in 1862]] A _New York Times_ transcript of one of Abraham Lincoln's speeches written in 1862 contains "(applause and laughter ;)"; there is some debate whether it is a typo, a legitimate punctuation construct, or an emoticon.[13]
+'', in 1862]] A _New York Times_ transcript of one of Abraham Lincoln's speeches written in 1862 contains "(applause and laughter ;)"; there is some debate whether it is a typo, a legitimate punctuation construct, or an emoticon.[13]
 
-Emoticons_Puck_1881.png Four vertical typographical emoticons were published in 1881 by the U.S. satirical magazine _Puck_, with the stated intention that the publication's letterpress department thus intended to "lay out [...] all the cartoonists that ever walked".
+Four vertical typographical emoticons were published in 1881 by the U.S. satirical magazine _Puck_, with the stated intention that the publication's letterpress department thus intended to "lay out [...] all the cartoonists that ever walked".
 
 In 1912, Ambrose Bierce proposed "an improvement in punctuation – the snigger point, or note of cachinnation: it is written thus ‿ and presents a smiling mouth. It is to be appended, with the full stop, to every jocular or ironical sentence".[14]
 
@@ -84,7 +82,7 @@ Some emoticons may be read right to left instead, and in fact can only be writte
 
 Japanese style (_kaomoji_)
 
-It's_all_about_the_smilies_(3578588882).jpg Kaomoji!_(2334722446).jpg Users from Japan popularized a style of emoticons (顔文字, _kaomoji, lit._ "face characters") that can be understood without tilting one's head to the left. This style arose on ASCII NET, an early Japanese online service, in 1986.[40][41] Similar-looking emoticons were used on the Byte Information Exchange (BIX) around the same time.[42]
+Users from Japan popularized a style of emoticons (顔文字, _kaomoji, lit._ "face characters") that can be understood without tilting one's head to the left. This style arose on ASCII NET, an early Japanese online service, in 1986.[40][41] Similar-looking emoticons were used on the Byte Information Exchange (BIX) around the same time.[42]
 
 These emoticons are usually found in a format similar to (*_*). The asterisks indicate the eyes; the central character, commonly an underscore, the mouth; and the parentheses, the outline of the face.
 
@@ -133,7 +131,7 @@ Posture emoticons
 
 Orz
 
-Dogeza_2015-01-15.png'']] Orz (other forms include: [51] [52] [53]) is an emoticon representing a kneeling or bowing person (the Japanese version of which is called _dogeza_) with the "o" being the head, the "r" being the arms and part of the body, and the "z" being part of the body and the legs. This stick figure can represent failure and despair.[54] It is also commonly used for representing a great admiration (sometimes with an overtone of sarcasm) for someone else's view or action.
+'']] Orz (other forms include: [51] [52] [53]) is an emoticon representing a kneeling or bowing person (the Japanese version of which is called _dogeza_) with the "o" being the head, the "r" being the arms and part of the body, and the "z" being part of the body and the legs. This stick figure can represent failure and despair.[54] It is also commonly used for representing a great admiration (sometimes with an overtone of sarcasm) for someone else's view or action.
 
 It was first used in late 2002 at the forum on Techside, a Japanese personal website. At the "Techside FAQ Forum" (TECHSIDE教えて君BBS(教えてBBS) ), a poster asked about a cable cover, typing to show a cable and its cover. Others commented that it looked like a kneeling person, and the symbol became popular.[55] These comments were soon deleted as they were considered off-topic. By 2005, Orz spawned a subculture: blogs have been devoted to the emoticon, and URL shortening services have been named after it. In Taiwan, Orz is associated with the phrase "nice guy"that is, the concept of males being rejected for a date by girls they are pursuing with a phrase like "You are a nice guy."[56]
 
@@ -156,8 +154,6 @@ During the first half of the 2010s, there have been different forms of small aud
 
 
 Emoticons and intellectual property rights
-
-USpatent6987991_emoticon.jpg
 
 In 2000, Despair, Inc. obtained a U.S. trademark registration for the "frowny" emoticon :-( when used on "greeting cards, posters and art prints". In 2001, they issued a satirical press release, announcing that they would sue Internet users who typed the frowny; the joke backfired and the company received a storm of protest when its mock release was posted on technology news website Slashdot.[63]
 

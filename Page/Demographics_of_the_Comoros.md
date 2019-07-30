@@ -30,7 +30,7 @@ Some Persian Gulf countries started buying Comorian citizenship for their statel
 
 Population
 
-Comoros-demography.png, year 2005 ; Number of inhabitants in thousands.]]
+, year 2005 ; Number of inhabitants in thousands.]]
 
 UN population projections
 
@@ -136,8 +136,6 @@ Population
     690,948 (July 2006 est.)
 
 Age structure
-
-Comorospop.svg
 
     _0-14 years:_ 38.54% (male 157,764 /female 158,676)
     _15-24 years:_ 19.89% (male 79,133 /female 84,181)

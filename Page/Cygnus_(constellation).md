@@ -5,7 +5,7 @@ Cygnus contains Deneb (ذنب, translit. _ḏanab,_ tail) -which is one of the b
 
 History and mythology
 
-Sidney_Hall_-_Urania's_Mirror_-_Lacerta,_Cygnus,_Lyra,_Vulpecula_and_Anser.jpg'', a set of constellation cards published in London c.1825. Surrounding it are Lacerta, Vulpecula and Lyra.]]
+'', a set of constellation cards published in London c.1825. Surrounding it are Lacerta, Vulpecula and Lyra.]]
 
 In western-classic astronomy
 
@@ -37,21 +37,17 @@ There are several asterisms in Cygnus. In the 17th-century German celestial cart
 
 Features
 
-CygnusCC.jpg
-
 Stars
 
 Bayer catalogued many stars in the constellation, giving them the Bayer designations from Alpha to Omega and then using lowercase Roman letters to g. John Flamsteed added the Roman letters h, i, k, l and m (these stars were considered _informes_ by Bayer as they lay outside the asterism of Cygnus), but were dropped by Francis Baily.[14]
 
-A_young_star_takes_centre_stage.jpg is located in the dark cloud LDN 981.[15]]]
+is located in the dark cloud LDN 981.[15]]]
 
 There are several bright stars in Cygnus. Alpha Cygni, called Deneb, is the brightest star in Cygnus. It is a white supergiant star of spectral type A2Iae that varies between magnitudes 1.21 and 1.29,[16] one of the largest and most luminous A-class stars known.[17] It is located about 3200 light-years away.[18] Its traditional name means "tail" and refers to its position in the constellation. Albireo, designated Beta Cygni, is a celebrated binary star among amateur astronomers for its contrasting hues. The primary is an orange-hued giant star of magnitude 3.1 and the secondary is a blue-green hued star of magnitude 5.1. The system is 380 light-years away and is divisible in large binoculars and all amateur telescopes.[19] Gamma Cygni, traditionally named Sadr, is a yellow-tinged supergiant star of magnitude 2.2, 1500 light-years away. Its traditional name means "breast" and refers to its position in the constellation.[20] Delta Cygni (the proper name is Fawaris[21]) is another bright binary star in Cygnus, 171 light-years with a period of 800 years. The primary is a blue-white hued giant star of magnitude 2.9, and the secondary is a star of magnitude 6.6. The two components are divisible in a medium-sized amateur telescope.[22] The fifth star in Cygnus above magnitude 3 is Aljanah[23], designated Epsilon Cygni. It is an orange-hued giant star of magnitude 2.5, 72 light-years from Earth.[24]
 
 There are several other dimmer double and binary stars in Cygnus. Mu Cygni is a binary star with an optical tertiary component. The binary system has a period of 790 years and is 73 light-years from Earth. The primary and secondary, both white stars, are of magnitude 4.8 and 6.2, respectively. The unrelated tertiary component is of magnitude 6.9. Though the tertiary component is divisible in binoculars, the primary and secondary currently require a medium-sized amateur telescope to split, as they will through the year 2020. The two stars will be closest between 2043 and 2050, when they will require a telescope with larger aperture to split. The stars 30 and 31 Cygni form a contrasting double star similar to the brighter Albireo. The two are divisible in binoculars. The primary, 31 Cygni, is an orange-hued star of magnitude 3.8, 1400 light-years from Earth. The secondary, 30 Cygni, appears blue-green. It is of spectral type A5IIIn and magnitude 4.83, and is around 610 light-years from Earth.[25] 31 Cygni itself is a binary star; the tertiary component is a blue star of magnitude 7.0. Psi Cygni is a binary star divisible in small amateur telescopes, with two white components. The primary is of magnitude 5.0 and the secondary is of magnitude 7.5. 61 Cygni is a binary star divisible in large binoculars or a small amateur telescope. It is 11.4 light-years from Earth and has a period of 750 years. Both components are orange-hued dwarf (main sequence) stars; the primary is of magnitude 5.2 and the secondary is of magnitude 6.1. 61 Cygni is significant because Friedrich Wilhelm Bessel determined its parallax in 1838, the first star to have a known parallax.
 
 Located near Eta Cygni is the X-ray source Cygnus X-1, which is now thought to be caused by a black hole accreting matter in a binary star system. This was the first x-ray source widely believed to be a black hole.
-
-Albireo.jpg
 
 Cygnus also contains several other noteworthy X-ray sources. Cygnus X-3 is a microquasar containing a Wolf–Rayet star in orbit around a very compact object,[26] with a period of only 4.8 hours.[27] The system is one of the most intrinsically luminous X-ray sources observed.[28] The system undergoes periodic outbursts of unknown nature,[29] and during one such outburst, the system was found to be emitting muons, likely caused by neutrinos.[30] While the compact object is thought to be a neutron star or possibly a black hole,[31] it is possible that the object is instead a more exotic stellar remnant, possibly the first discovered quark star, hypothesized due to its production of cosmic rays[32] that cannot be explained if the object is a normal neutron star. The system also emits cosmic rays and gamma rays, and has helped shed insight on to the formation of such rays.[33] Cygnus X-2 is another X-ray binary, containing an A-type giant in orbit around a neutron star with a 9.8 day period.[34] The system is interesting due to the rather small mass of the companion star, as most millisecond pulsars have much more massive companions.[35] Another black hole in Cygnus is V404 Cygni, which consists of a K-type star orbiting around a black hole of around 12 solar masses.[36] The black hole, similar to that of Cygnus X-3, has been hypothesized to be a quark star.[37] 4U 2129+ 47 is another X-ray binary containing a neutron star which undergoes outbursts,[38] as is EXO 2030+ 375.[39]
 
@@ -63,7 +59,7 @@ Cygnus is one of the constellations that the Kepler satellite surveyed in its se
 
 Deep-sky objects
 
-Cygnus_Wall.jpg (NGC 7000) is one of the most well-known nebulae in Cygnus.]] There is an abundance of deep-sky objects, with many open clusters, nebulae of various types and supernova remnants found in Cygnus due to its position on the Milky Way. Some open clusters can be difficult to make out from a rich background of stars.[55]
+(NGC 7000) is one of the most well-known nebulae in Cygnus.]] There is an abundance of deep-sky objects, with many open clusters, nebulae of various types and supernova remnants found in Cygnus due to its position on the Milky Way. Some open clusters can be difficult to make out from a rich background of stars.[55]
 
 M39 (NGC 7092) is an open cluster 950 light-years from Earth that is visible to the unaided eye under dark skies. It is loose, with about 30 stars arranged over a wide area; their conformation appears triangular. The brightest stars of M39 are of the 7th magnitude. Another open cluster in Cygnus is NGC 6910, also called the Rocking Horse Cluster, possessing 16 stars with a diameter of 5 arcminutes visible in a small amateur instrument; it is of magnitude 7.4. The brightest of these are two gold-hued stars, which represent the bottom of the toy it is named for. A larger amateur instrument reveals 8 more stars, nebulosity to the east and west of the cluster, and a diameter of 9 arcminutes. The nebulosity in this region is part of the Gamma Cygni Nebula. The other stars, approximately 3700 light-years from Earth, are mostly blue-white and very hot.[56]
 
@@ -73,15 +69,13 @@ NGC 6826, the Blinking Planetary Nebula, is a planetary nebula with a magnitude 
 
 The North America Nebula (NGC 7000) is one of the most well-known nebulae in Cygnus, because it is visible to the unaided eye under dark skies, as a bright patch in the Milky Way. However, its characteristic shape is only visible in long-exposure photographs – it is difficult to observe in telescopes because of its low surface brightness. It has low surface brightness because it is so large; at its widest, the North America Nebula is 2 degrees across. Illuminated by a hot embedded star of magnitude 6, NGC 7000 is 1500 light-years from Earth.
 
-Veil_Nebula_2015-08-15_42_30s-ISO1600_AB_42_136-117-185_CVF.jpg
-
 To the south of Epsilon Cygni is the Veil Nebula (NGC 6960, 6962, 6979, 6992, and 6995), a 5,000-year-old supernova remnant covering approximately 3 degrees of the sky -[58] it is over 50 light-years long. Because of its appearance, it is also called the Cygnus Loop.[59] The Loop is only visible in long-exposure astrophotographs. However, the brightest portion, NGC 6992, is faintly visible in binoculars, and a dimmer portion, NGC 6960, is visible in wide-angle telescopes.
 
 The DR 6 cluster is also nicknamed the "Galactic Ghoul" because of the nebula's resemblance to a human face;[60]
 
 The Northern Coalsack Nebula, also called the Cygnus Rift, is a dark nebula located in the Cygnus Milky Way.
 
-Stars_Brewing_in_Cygnus_X.jpg, a large region of star-formation in Cygnus.]]
+, a large region of star-formation in Cygnus.]]
 
 The Gamma Cygni Nebula (IC 1318) includes both bright and dark nebulae in an area of over 4 degrees. DWB 87 is another of the many bright emission nebulae in Cygnus, 7.8 by 4.3 arcminutes. It is in the Gamma Cygni area. Two other emission nebulae include Sharpless 2-112 and Sharpless 2-115. When viewed in an amateur telescope, Sharpless 2–112 appears to be in a teardrop shape. More of the nebula's eastern portion is visible with an O III (doubly ionized oxygen) filter. There is an orange star of magnitude 10 nearby and a star of magnitude 9 near the nebula's northwest edge. Further to the northwest, there is a dark rift and another bright patch. The whole nebula measures 15 arcminutes in diameter. Sharpless 2–115 is another emission nebula with a complex pattern of light and dark patches. Two pairs of stars appear in the nebula; it is larger near the southwestern pair. The open cluster Berkeley 90 is embedded in this large nebula, which measures 30 by 20 arcminutes.[61]
 

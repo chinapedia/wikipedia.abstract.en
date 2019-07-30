@@ -5,7 +5,7 @@ He became professor of physics at Bologna in 1798, in succession to his uncle Lu
 
 Experiments
 
-Aldini's_ox_battery.jpg Aldini's most famous public demonstration of the electro-stimulation technique of deceased limbs was performed on the executed criminal George Forster at Newgate in London in 1803.[3][4] The Newgate Calendar describes what happened when the galvanic process was used on the body:
+Aldini's most famous public demonstration of the electro-stimulation technique of deceased limbs was performed on the executed criminal George Forster at Newgate in London in 1803.[3][4] The Newgate Calendar describes what happened when the galvanic process was used on the body:
 
 
 Shelley's Frankenstein association

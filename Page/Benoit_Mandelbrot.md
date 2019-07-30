@@ -32,7 +32,7 @@ Developing "fractal geometry" and the Mandelbrot set
 
 As a visiting professor at Harvard University, Mandelbrot began to study fractals called Julia sets that were invariant under certain transformations of the complex plane. Building on previous work by Gaston Julia and Pierre Fatou, Mandelbrot used a computer to plot images of the Julia sets. While investigating the topology of these Julia sets, he studied the Mandelbrot set which was introduced by him in 1979. In 1982, Mandelbrot expanded and updated his ideas in _The Fractal Geometry of Nature_.[24] This influential work brought fractals into the mainstream of professional and popular mathematics, as well as silencing critics, who had dismissed fractals as "program artifacts".
 
-Mandelbrot_p1130876.jpg, during his acceptance speech for the Légion d'honneur in 2006]]
+, during his acceptance speech for the Légion d'honneur in 2006]]
 
 In 1975, Mandelbrot coined the term _fractal_ to describe these structures and first published his ideas, and later translated, _Fractals: Form, Chance and Dimension_.[25] According to computer scientist and physicist Stephen Wolfram, the book was a "breakthrough" for Mandelbrot, who until then would typically "apply fairly straightforward mathematics … to areas that had barely seen the light of serious mathematics before".[26] Wolfram adds that as a result of this new research, he was no longer a "wandering scientist", and later called him "the father of fractals":
 
@@ -40,7 +40,7 @@ Wolfram briefly describes fractals as a form of geometric repetition, "in which 
 
 Mandelbrot used the term "fractal" as it derived from the Latin word "fractus", defined as broken or shattered glass. Using the newly developed IBM computers at his disposal, Mandelbrot was able to create fractal images using graphic computer code, images that an interviewer described as looking like "the delirious exuberance of the 1960s psychedelic art with forms hauntingly reminiscent of nature and the human body". He also saw himself as a "would-be Kepler", after the 17th-century scientist Johannes Kepler, who calculated and described the orbits of the planets.[28]
 
-Newton-lplane-Mandelbrot.jpg Mandelbrot, however, never felt he was inventing a new idea. He describes his feelings in a documentary with science writer Arthur C. Clarke:
+Mandelbrot, however, never felt he was inventing a new idea. He describes his feelings in a documentary with science writer Arthur C. Clarke:
 
 According to Clarke, "the Mandelbrot set is indeed one of the most astonishing discoveries in the entire history of mathematics. Who could have dreamed that such an incredibly simple equation could have generated images of literally _infinite_ complexity?" Clarke also notes an "odd coincidence
 
@@ -60,8 +60,6 @@ Fractals are also found in human pursuits, such as music, painting, architecture
 
   Clouds are not spheres, mountains are not cones, coastlines are not circles, and bark is not smooth, nor does lightning travel in a straight line.
     —Mandelbrot, in his introduction to _The Fractal Geometry of Nature_
-
-Mandel_zoom_08_satellite_antenna.jpg
 
 Mandelbrot has been called a work of art, and a visionary[36] and a maverick.[37] His informal and passionate style of writing and his emphasis on visual and geometric intuition (supported by the inclusion of numerous illustrations) made _The Fractal Geometry of Nature_ accessible to non-specialists. The book sparked widespread popular interest in fractals and contributed to chaos theory and other fields of science and mathematics.
 

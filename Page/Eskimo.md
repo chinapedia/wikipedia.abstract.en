@@ -7,7 +7,7 @@ The word _Eskimo_ derives from phrases that Algonquin tribes used for their nort
 
 Description
 
-PSM_V37_D324_Greenland_eskimo.jpg man]] Etymologically,[5] the word Eskimo comes from Innu-aimun (Montagnais) '' meaning "a person who laces a snowshoe" and is related to "husky" (a breed of dog), and does not have a pejorative meaning in origin.[6][7][8][9]
+man]] Etymologically,[5] the word Eskimo comes from Innu-aimun (Montagnais) '' meaning "a person who laces a snowshoe" and is related to "husky" (a breed of dog), and does not have a pejorative meaning in origin.[6][7][8][9]
 
 In Canada and Greenland, the term "Eskimo" is predominantly seen as pejorative and has been widely replaced by the term "Inuit" or terms specific to a particular group or community.[10][11][12] This has resulted in a trend whereby some Canadians and Americans believe that they should not use the word "Eskimo" and use the Canadian word "Inuit" instead, even for Yupik people.[13] Section 25[14] of the Canadian Charter of Rights and Freedoms and section 35[15] of the Canadian Constitution Act of 1982, recognized the Inuit as a distinctive group of Aboriginal peoples in Canada.
 
@@ -16,7 +16,7 @@ Under U.S. and Alaskan law (as well as the linguistic and cultural traditions of
 
 History
 
-Escimaux_building_a_snow-hut.jpg, by George Francis Lyon, 1824]] Several earlier indigenous peoples existed in the northern circumpolar regions of eastern Siberia, Alaska, and Canada (although probably not in Greenland[20]). The earliest positively identified Paleo-Eskimo cultures (Early Paleo-Eskimo) date to 5,000 years ago. They appear to have developed in Alaska from people related to the Arctic small tool tradition in eastern Asia, whose ancestors had probably migrated to Alaska at least 3,000 to 5,000 years earlier. Similar artifacts have been found in Siberia that date to perhaps 18,000 years ago.
+, by George Francis Lyon, 1824]] Several earlier indigenous peoples existed in the northern circumpolar regions of eastern Siberia, Alaska, and Canada (although probably not in Greenland[20]). The earliest positively identified Paleo-Eskimo cultures (Early Paleo-Eskimo) date to 5,000 years ago. They appear to have developed in Alaska from people related to the Arctic small tool tradition in eastern Asia, whose ancestors had probably migrated to Alaska at least 3,000 to 5,000 years earlier. Similar artifacts have been found in Siberia that date to perhaps 18,000 years ago.
 
 The Yupik languages and cultures in Alaska evolved in place, beginning with the original pre-Dorset indigenous culture developed in Alaska. Approximately 4000 years ago, the Unangan culture of the Aleut became distinct. It is not generally considered an Eskimo culture.
 
@@ -37,7 +37,7 @@ One of the first printed uses of the French word 'Esquimaux' comes from Samuel H
 
 General
 
-Кожаный_панцирь.jpg from hardened leather reinforced by wood and bones worn by native Siberians and Eskimos]] Koryak_armor.jpeg worn by native Siberians and Eskimos]]
+from hardened leather reinforced by wood and bones worn by native Siberians and Eskimos]] worn by native Siberians and Eskimos]]
 
 In Canada and Greenland, the term _Eskimo_ has largely been supplanted by the term _Inuit_.[39][40][41][42] While _Inuit_ can be accurately applied to all of the Eskimo peoples in Canada and Greenland, that is not true in Alaska and Siberia. In Alaska the term _Eskimo_ is commonly used, because it includes both Yupik and Iñupiat. _Inuit_ is not accepted as a collective term and it is not used specifically for Iñupiat (although they are related to the Canadian Inuit peoples).[43]
 
@@ -58,7 +58,7 @@ The term "Eskimo" is also used in linguistic or ethnographic works to denote the
 
 Languages
 
-Welcome_to_Barrow,_Alaska.jpg (_Paġlagivsigiñ Utqiaġvigmun_), Utqiagvik, Alaska, framed by whale jawbones]]
+(_Paġlagivsigiñ Utqiaġvigmun_), Utqiagvik, Alaska, framed by whale jawbones]]
 
 The Eskimo–Aleut family of languages includes two cognate branches: the Aleut (Unangan) branch and the Eskimo branch.
 
@@ -70,7 +70,7 @@ Inuit languages comprise a dialect continuum, or dialect chain, that stretches f
 
 The four Yupik languages, by contrast, including Alutiiq (Sugpiaq), Central Alaskan Yup'ik, Naukan (Naukanski), and Siberian Yupik, are distinct languages with phonological, morphological, and lexical differences. They demonstrate limited mutual intelligibility.[60] Additionally, both Alutiiq and Central Yup'ik have considerable dialect diversity. The northernmost Yupik languages – Siberian Yupik and Naukan Yupik – are linguistically only slightly closer to Inuit than is Alutiiq, which is the southernmost of the Yupik languages. Although the grammatical structures of Yupik and Inuit languages are similar, they have pronounced differences phonologically. Differences of vocabulary between Inuit and any one of the Yupik languages are greater than between any two Yupik languages.[61] Even the dialectal differences within Alutiiq and Central Alaskan Yup'ik sometimes are relatively great for locations that are relatively close geographically.[62]
 
-The Sirenikski language is sometimes regarded as a third branch of the Eskimo language family, but other sources regard it as a group belonging to the Yupik branch.[63] Inuit_Woman_1907_Crisco_edit_2.jpg woman, Alaska, circa 1907]] Eskimo_Family_NGM-v31-p564-2.jpg An overview of the Eskimo–Aleut languages family is given below:
+The Sirenikski language is sometimes regarded as a third branch of the Eskimo language family, but other sources regard it as a group belonging to the Yupik branch.[63] woman, Alaska, circa 1907]] An overview of the Eskimo–Aleut languages family is given below:
 
     Aleut
 
@@ -103,7 +103,7 @@ The Sirenikski language is sometimes regarded as a third branch of the Eskimo la
 
 Inuit
 
-Eskimo_fisherman's_summer_house,_Alaska_page_250.png of Nelson Island) fisherman's summer house]] The Inuit inhabit the Arctic and northern Bering Sea coasts of Alaska in the United States, and Arctic coasts of the Northwest Territories, Nunavut, Quebec, and Labrador in Canada, and Greenland (associated with Denmark). Until fairly recent times, there has been a remarkable homogeneity in the culture throughout this area, which traditionally relied on fish, marine mammals, and land animals for food, heat, light, clothing, and tools. They maintain a unique Inuit culture.
+of Nelson Island) fisherman's summer house]] The Inuit inhabit the Arctic and northern Bering Sea coasts of Alaska in the United States, and Arctic coasts of the Northwest Territories, Nunavut, Quebec, and Labrador in Canada, and Greenland (associated with Denmark). Until fairly recent times, there has been a remarkable homogeneity in the culture throughout this area, which traditionally relied on fish, marine mammals, and land animals for food, heat, light, clothing, and tools. They maintain a unique Inuit culture.
 
 Greenland's Inuit
 
@@ -119,7 +119,7 @@ Canadian Inuit live primarily in Nunavut (a territory of Canada), Nunavik (the n
 
 Inuvialuit of Canada's Western Arctic
 
-Inupiat_Family_from_Noatak,_Alaska,_1929,_Edward_S._Curtis_(restored).jpg family from Noatak, Alaska, 1929]] The Inuvialuit live in the western Canadian Arctic region. Their homeland – the Inuvialuit Settlement Region – covers the Arctic Ocean coastline area from the Alaskan border east to Amundsen Gulf and includes the western Canadian Arctic Islands. The land was demarked in 1984 by the Inuvialuit Final Agreement.
+family from Noatak, Alaska, 1929]] The Inuvialuit live in the western Canadian Arctic region. Their homeland – the Inuvialuit Settlement Region – covers the Arctic Ocean coastline area from the Alaskan border east to Amundsen Gulf and includes the western Canadian Arctic Islands. The land was demarked in 1984 by the Inuvialuit Final Agreement.
 
 Alaska's Iñupiat
 
@@ -128,7 +128,7 @@ The Iñupiat are the Inuit of Alaska's Northwest Arctic and North Slope boroughs
 
 Yupik
 
-AlutiiqDancer.jpg dancer during the biennial "Celebration" cultural event]] The Yupik are indigenous or aboriginal peoples who live along the coast of western Alaska, especially on the Yukon-Kuskokwim delta and along the Kuskokwim River (Central Alaskan Yup'ik); in southern Alaska (the Alutiiq); and along the eastern coast of Chukotka in the Russian Far East and St. Lawrence Island in western Alaska (the Siberian Yupik). The Yupik economy has traditionally been strongly dominated by the harvest of marine mammals, especially seals, walrus, and whales.[66]
+dancer during the biennial "Celebration" cultural event]] The Yupik are indigenous or aboriginal peoples who live along the coast of western Alaska, especially on the Yukon-Kuskokwim delta and along the Kuskokwim River (Central Alaskan Yup'ik); in southern Alaska (the Alutiiq); and along the eastern coast of Chukotka in the Russian Far East and St. Lawrence Island in western Alaska (the Siberian Yupik). The Yupik economy has traditionally been strongly dominated by the harvest of marine mammals, especially seals, walrus, and whales.[66]
 
 Alutiiq
 
@@ -142,7 +142,7 @@ _Yup'ik_, with an apostrophe, denotes the speakers of the Central Alaskan Yup'ik
 
 Siberian Yupik
 
-FMIB_37576_Siberian_Eskimos_aboard_the_steamer_bowhead,_showing_their_furs_to_trade_after_indulging_in_a_lunch_of_whale_blubber.jpeg aboard the steamer Bowhead]] Siberian Yupik reside along the Bering Sea coast of the Chukchi Peninsula in Siberia in the Russian Far East[69] and in the villages of Gambell and Savoonga on St. Lawrence Island in Alaska.[70] The Central Siberian Yupik spoken on the Chukchi Peninsula and on St. Lawrence Island is nearly identical. About 1,050 of a total Alaska population of 1,100 Siberian Yupik people in Alaska speak the language. It is the first language of the home for most St. Lawrence Island children. In Siberia, about 300 of a total of 900 Siberian Yupik people still learn and study the language, though it is no longer learned as a first language by children.[71]
+aboard the steamer Bowhead]] Siberian Yupik reside along the Bering Sea coast of the Chukchi Peninsula in Siberia in the Russian Far East[69] and in the villages of Gambell and Savoonga on St. Lawrence Island in Alaska.[70] The Central Siberian Yupik spoken on the Chukchi Peninsula and on St. Lawrence Island is nearly identical. About 1,050 of a total Alaska population of 1,100 Siberian Yupik people in Alaska speak the language. It is the first language of the home for most St. Lawrence Island children. In Siberia, about 300 of a total of 900 Siberian Yupik people still learn and study the language, though it is no longer learned as a first language by children.[71]
 
 Naukan
 
@@ -151,7 +151,7 @@ About 70 of 400 Naukan people still speak Naukanski. The Naukan originate on the
 
 Sirenik Eskimos
 
-Model_of_an_Ice_Scoop,_1900-1930,_36.83.jpg]] Some speakers of Siberian Yupik languages used to speak an Eskimo variant in the past, before they underwent a language shift. These former speakers of Sirenik Eskimo language inhabited the settlements of Sireniki, Imtuk, and some small villages stretching to the west from Sireniki along south-eastern coasts of Chukchi Peninsula.[73] They lived in neighborhoods with Siberian Yupik and Chukchi peoples.
+]] Some speakers of Siberian Yupik languages used to speak an Eskimo variant in the past, before they underwent a language shift. These former speakers of Sirenik Eskimo language inhabited the settlements of Sireniki, Imtuk, and some small villages stretching to the west from Sireniki along south-eastern coasts of Chukchi Peninsula.[73] They lived in neighborhoods with Siberian Yupik and Chukchi peoples.
 
 As early as in 1895, Imtuk was a settlement with a mixed population of Sirenik Eskimos and Ungazigmit[74] (the latter belonging to Siberian Yupik). Sirenik Eskimo culture has been influenced by that of Chukchi, and the language shows Chukchi language influences.[75] Folktale motifs also show the influence of Chuckchi culture.[76]
 

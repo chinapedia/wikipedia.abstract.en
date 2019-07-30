@@ -48,14 +48,12 @@ Using RPN, one could get the result of the mathematical expression (25 * 10 + 50
      25 10 * 50 + CR .
      300 ok
 
-Stack1.svg This command line first puts the numbers 25 and 10 on the implied stack.
+This command line first puts the numbers 25 and 10 on the implied stack.
 
-Forthstack1_5.svg
 The word * multiplies the two numbers on the top of the stack and replaces them with their product.
 
-Forthstack2.svg Then the number 50 is placed on the stack.
+Then the number 50 is placed on the stack.
 
-Forthstack3.svg
 The word + adds it to the previous product. The CR moves the output to a new line (it is only for formatting purposes and could be omitted but—in most implementations—without it the output would occur on the same line as the input and would be less readable in the example). Finally, the . command prints the result to the user's terminal. As everything has completed successfully at that point, the text interpreter then outputs the prompt OK and moves to a new line to get more input without needing anything explicit to do that.[21]
 
 Even Forth's structural features are stack-based. For example:

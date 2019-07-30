@@ -1,6 +1,6 @@
-Grand_opening_of_the_first_Dada_exhibition,_Berlin,_5_June_1920.jpg, Hannah Höch (sitting), Otto Burchard, Johannes Baader, Wieland Herzfelde, Margarete Herzfelde, Dr. Oz (Otto Schmalhausen), George Grosz and John Heartfield.[1]]] Francis_Picabia,_1915,_New_York..jpg: left, _Le saint des saints c'est de moi qu'il s'agit dans ce portrait_, 1 July 1915; center, _Portrait d'une jeune fille americaine dans l'état de nudité_, 5 July 1915; right, _J'ai vu et c'est de toi qu'il s'agit, De Zayas! De Zayas! Je suis venu sur les rivages du Pont-Euxin_, New York, 1915]] thumb|upright=1.6|Dada artists, group photograph, 1920, Paris. From left to right, Back row: Louis Aragon, Theodore Fraenkel, Paul Eluard, Clément Pansaers, Emmanuel Fay (cut off).
+, Hannah Höch (sitting), Otto Burchard, Johannes Baader, Wieland Herzfelde, Margarete Herzfelde, Dr. Oz (Otto Schmalhausen), George Grosz and John Heartfield.[1]]] : left, _Le saint des saints c'est de moi qu'il s'agit dans ce portrait_, 1 July 1915; center, _Portrait d'une jeune fille americaine dans l'état de nudité_, 5 July 1915; right, _J'ai vu et c'est de toi qu'il s'agit, De Zayas! De Zayas! Je suis venu sur les rivages du Pont-Euxin_, New York, 1915]] thumb|upright=1.6|Dada artists, group photograph, 1920, Paris. From left to right, Back row: Louis Aragon, Theodore Fraenkel, Paul Eluard, Clément Pansaers, Emmanuel Fay (cut off).
 Second row: Paul Dermée, Philippe Soupault, Georges Ribemont-Dessaignes.
-Front row: Tristan Tzara (with monocle), Celine Arnauld, Francis Picabia, André Breton. DADA () or DADAISM was an art movement of the European avant-garde in the early 20th century, with early centers in Zürich, Switzerland, at the Cabaret Voltaire (circa 1916); New York Dada began circa 1915,[2][3] and after 1920 Dada flourished in Paris. Developed in reaction to World War I, the Dada movement consisted of artists who rejected the logic, reason, and aestheticism of modern capitalist society, instead expressing nonsense, irrationality, and anti-bourgeois protest in their works.[4][5][6] The art of the movement spanned visual, literary, and sound media, including collage, sound poetry, cut-up writing, and sculpture. Dadaist artists expressed their discontent with violence, war, and nationalism, and maintained political affinities with the radical far-left.[7][8][9][10] Dada1.jpg; Zürich, 1917.]]
+Front row: Tristan Tzara (with monocle), Celine Arnauld, Francis Picabia, André Breton. DADA () or DADAISM was an art movement of the European avant-garde in the early 20th century, with early centers in Zürich, Switzerland, at the Cabaret Voltaire (circa 1916); New York Dada began circa 1915,[2][3] and after 1920 Dada flourished in Paris. Developed in reaction to World War I, the Dada movement consisted of artists who rejected the logic, reason, and aestheticism of modern capitalist society, instead expressing nonsense, irrationality, and anti-bourgeois protest in their works.[4][5][6] The art of the movement spanned visual, literary, and sound media, including collage, sound poetry, cut-up writing, and sculpture. Dadaist artists expressed their discontent with violence, war, and nationalism, and maintained political affinities with the radical far-left.[7][8][9][10] ; Zürich, 1917.]]
 
 There is no consensus on the origin of the movement's name; a common story is that the German artist Richard Huelsenbeck slid a paper knife (letter-opener) at random into a dictionary, where it landed on "dada", a colloquial French term for a hobby horse. Others note that it suggests the first words of a child, evoking a childishness and absurdity that appealed to the group. Still others speculate that the word might have been chosen to evoke a similar meaning (or no meaning at all) in any language, reflecting the movement's internationalism.[11]
 
@@ -11,7 +11,7 @@ The Dadaist movement included public gatherings, demonstrations, and publication
 
 Overview
 
-Francis_Picabia,_Dame!_Illustration_for_the_cover_of_the_periodical_Dadaphone_n._7,_Paris,_March_1920.jpg, _Dame!_ Illustration for the cover of the periodical _Dadaphone_, n. 7, Paris, March 1920]] Dada was an informal international movement, with participants in Europe and North America. The beginnings of Dada correspond to the outbreak of World War I. For many participants, the movement was a protest against the bourgeois nationalist and colonialist interests, which many Dadaists believed were the root cause of the war, and against the cultural and intellectual conformity—in art and more broadly in society—that corresponded to the war.[15]
+, _Dame!_ Illustration for the cover of the periodical _Dadaphone_, n. 7, Paris, March 1920]] Dada was an informal international movement, with participants in Europe and North America. The beginnings of Dada correspond to the outbreak of World War I. For many participants, the movement was a protest against the bourgeois nationalist and colonialist interests, which many Dadaists believed were the root cause of the war, and against the cultural and intellectual conformity—in art and more broadly in society—that corresponded to the war.[15]
 
 Avant-garde circles outside France knew of pre-war Parisian developments. They had seen (or participated in) Cubist exhibitions held at Galeries Dalmau, Barcelona (1912), Galerie Der Sturm in Berlin (1912), the Armory Show in New York (1913), SVU Mánes in Prague (1914), several Jack of Diamonds exhibitions in Moscow and at De Moderne Kunstkring, Amsterdam (between 1911 and 1915). Futurism developed in response to the work of various artists. Dada subsequently combined these approaches.[16][17]
 
@@ -40,7 +40,7 @@ History
 
 Zürich
 
-Hoch-Cut_With_the_Kitchen_Knife.jpg, _Cut with the Dada Kitchen Knife through the Last Weimar Beer-Belly Cultural Epoch in Germany_, 1919, collage of pasted papers, 90×144 cm, Nationalgalerie, Staatliche Museen zu Berlin]] In 1916, Hugo Ball, Emmy Hennings, Tristan Tzara, Jean Arp, Marcel Janco, Richard Huelsenbeck, Sophie Taeuber, and Hans Richter, along with others, discussed art and put on performances in the Cabaret Voltaire expressing their disgust with the war and the interests that inspired it.
+, _Cut with the Dada Kitchen Knife through the Last Weimar Beer-Belly Cultural Epoch in Germany_, 1919, collage of pasted papers, 90×144 cm, Nationalgalerie, Staatliche Museen zu Berlin]] In 1916, Hugo Ball, Emmy Hennings, Tristan Tzara, Jean Arp, Marcel Janco, Richard Huelsenbeck, Sophie Taeuber, and Hans Richter, along with others, discussed art and put on performances in the Cabaret Voltaire expressing their disgust with the war and the interests that inspired it.
 
 Some sources state that Dada coalesced on October 6 at the Cabaret Voltaire. Other sources state that Dada did not originate fully in a Zürich literary salon but grew out of an already vibrant artistic tradition in Eastern Europe, particularly Romania, that transposed to Switzerland when a group of Jewish modernist artists (Tzara, Janco, Arthur Segal, and others) settled in Zürich. In the years prior to the First World War similar art had already risen in Bucharest and other Eastern European cities; it is likely that Dada's catalyst was the arrival in Zürich of artists like Tzara and Janco.[27]
 
@@ -62,7 +62,7 @@ After the fighting of the First World War had ended in the armistice of November
 
 Berlin
 
-An_Anna_Blume.jpg "Berlin was a city of tightened stomachers, of mounting, thundering hunger, where hidden rage was transformed into a boundless money lust, and men's minds were concentrating more and more on questions of naked existence... Fear was in everybody's bones "- Richard Hülsenbeck
+"Berlin was a city of tightened stomachers, of mounting, thundering hunger, where hidden rage was transformed into a boundless money lust, and men's minds were concentrating more and more on questions of naked existence... Fear was in everybody's bones "- Richard Hülsenbeck
 
 The groups in Germany were not as strongly anti-art as other groups. Their activity and art were more political and social, with corrosive manifestos and propaganda, satire, public demonstrations and overt political activities. The intensely political and war-torn environment of Berlin had a dramatic impact on the ideas of Berlin Dadaists. Conversely, New York's geographic distance from the war spawned its more theoretically-driven, less political nature.[32]
 
@@ -78,7 +78,7 @@ In Cologne, Ernst, Baargeld, and Arp launched a controversial Dada exhibition in
 
 New York
 
-Label_for_the_Belle_Haleine_cropped.png, the alter ego of Dadaist Marcel Duchamp]] Marcel_Duchamp,_1917,_Fountain,_photograph_by_Alfred_Stieglitz.jpg, _Fountain,_ 1917; photograph by Alfred Stieglitz]]
+, the alter ego of Dadaist Marcel Duchamp]] , _Fountain,_ 1917; photograph by Alfred Stieglitz]]
 
 Like Zürich, New York City was a refuge for writers and artists from the First World War. Soon after arriving from France in 1915, Marcel Duchamp and Francis Picabia met American artist Man Ray. By 1916 the three of them became the center of radical anti-art activities in the United States. American Beatrice Wood, who had been studying in France, soon joined them, along with Elsa von Freytag-Loringhoven. Arthur Cravan, fleeing conscription in France, was also in New York for a time. Much of their activity centered in Alfred Stieglitz's gallery, 291, and the home of Walter and Louise Arensberg.
 
@@ -92,7 +92,7 @@ By 1921, most of the original players moved to Paris where Dada had experienced 
 
 Paris
 
-Man_Ray,_Rencontre_dans_la_porte_tournante.jpg, c. 1921–22, _Rencontre dans la porte tournante_, published on the cover of _Der Sturm_, Volume 13, Number 3, 5 March 1922]] Man_Ray,_Dessin.jpg The French avant-garde kept abreast of Dada activities in Zürich with regular communications from Tristan Tzara (whose pseudonym means "sad in country," a name chosen to protest the treatment of Jews in his native Romania), who exchanged letters, poems, and magazines with Guillaume Apollinaire, André Breton, Max Jacob, Clément Pansaers, and other French writers, critics and artists.
+, c. 1921–22, _Rencontre dans la porte tournante_, published on the cover of _Der Sturm_, Volume 13, Number 3, 5 March 1922]] The French avant-garde kept abreast of Dada activities in Zürich with regular communications from Tristan Tzara (whose pseudonym means "sad in country," a name chosen to protest the treatment of Jews in his native Romania), who exchanged letters, poems, and magazines with Guillaume Apollinaire, André Breton, Max Jacob, Clément Pansaers, and other French writers, critics and artists.
 
 Paris had arguably been the classical music capital of the world since the advent of musical Impressionism in the late 19th century. One of its practitioners, Erik Satie, collaborated with Picasso and Cocteau in a mad, scandalous ballet called _Parade_. First performed by the Ballets Russes in 1917, it succeeded in creating a scandal but in a different way than Stravinsky's _Le Sacre du printemps_ had done almost five years earlier. This was a ballet that was clearly parodying itself, something traditional ballet patrons would obviously have serious issues with.
 
@@ -104,7 +104,7 @@ Netherlands
 
 In the Netherlands the Dada movement centered mainly around Theo van Doesburg, best known for establishing the De Stijl movement and magazine of the same name. Van Doesburg mainly focused on poetry, and included poems from many well-known Dada writers in _De Stijl_ such as Hugo Ball, Hans Arp and Kurt Schwitters. Van Doesburg and (a cordwainer and artist in Drachten) became friends of Schwitters, and together they organized the so-called _Dutch Dada campaign_ in 1923, where van Doesburg promoted a leaflet about Dada (entitled _What is Dada?_), Schwitters read his poems, Vilmos Huszár demonstrated a mechanical dancing doll and Nelly van Doesburg (Theo's wife), played avant-garde compositions on piano.
 
-I.K._Bonset_Voorbijtrekkende_troep_2.jpg Van Doesburg wrote Dada poetry himself in _De Stijl_, although under a pseudonym, I.K. Bonset, which was only revealed after his death in 1931. 'Together' with I.K. Bonset, he also published a short-lived Dutch Dada magazine called _Mécano_ (1922–3). Another Dutchman identified by K. Schippers in his study of the movement in the Netherlands[43] was the Groningen typographer H. N. Werkman, who was in touch with van Doesburg and Schwitters while editing his own magazine, _The Next Call_ (1923–6). Two more artists mentioned by Schippers were German-born and eventually settled in the Netherlands. These were Otto van Rees, who had taken part in the liminal exhibitions at the Café Voltaire in Zürich, and Paul Citroen.
+Van Doesburg wrote Dada poetry himself in _De Stijl_, although under a pseudonym, I.K. Bonset, which was only revealed after his death in 1931. 'Together' with I.K. Bonset, he also published a short-lived Dutch Dada magazine called _Mécano_ (1922–3). Another Dutchman identified by K. Schippers in his study of the movement in the Netherlands[43] was the Groningen typographer H. N. Werkman, who was in touch with van Doesburg and Schwitters while editing his own magazine, _The Next Call_ (1923–6). Two more artists mentioned by Schippers were German-born and eventually settled in the Netherlands. These were Otto van Rees, who had taken part in the liminal exhibitions at the Café Voltaire in Zürich, and Paul Citroen.
 
 Georgia
 
@@ -120,7 +120,7 @@ The Dada movement in Italy, based in Mantua, was met with distaste and failed to
 
 Japan
 
-Dada_in_Ultraman.jpg A prominent Dada group in Japan was Mavo, founded in July 1923 by Tomoyoshi Murayama and . Other prominent artists were Jun Tsuji, Eisuke Yoshiyuki, Shinkichi Takahashi and Katsue Kitasono.
+A prominent Dada group in Japan was Mavo, founded in July 1923 by Tomoyoshi Murayama and . Other prominent artists were Jun Tsuji, Eisuke Yoshiyuki, Shinkichi Takahashi and Katsue Kitasono.
 
 In the Tsuburaya Productions's _Ultra Series_, an alien named Dada was inspired by Dadaism movement, with said character first appearing in episode 28 of the 1966 tokusatsu series, _Ultraman_, its design by character artist Toru Narita. Dada's design is primarily monochromatic, and features numerous sharp lines and alternating black and white stripes, in reference to the movement and, in particular, to chessboard and Go patterns. On May 19, 2016, in celebration to the 100 year anniversary of Dadaism in Tokyo, the Ultra Monster was invited to meet the Swiss Ambassador Urs Bucher.[47][48]
 
@@ -132,8 +132,6 @@ Dada in itself was relatively unknown in Russia, however, avant-garde art was wi
 Poetry, music and sound
 
 In literature, Dadaism focused mainly on poetry, particularly the so-called sound poetry, which was invented by Hugo Ball and often performed on stage. The Dadaist poem is described as one that abolishes the traditional concept of poetry, including the structure, order, as well as the interplay of sound and meaning or the meaning of language itself. The belief is that the existing system by which information is articulated is said to rob language of its dignity.
-
-Dadaglobe_Form_Letter_to_Vagts_(Nov_1920).jpg
 
 Therefore, the dismantling of the language and the poetic conventions are considered attempts to restore language to its purest and most innocent form. "With these sound poem, we wanted to dispense with a language which journalism had made desolate and impossible."[49] One of the offshoots of this type of poetry was the simultaneous poems, which were recited by a group of speakers, who collectively produce a chaotic and confusing set of voices. The poems are considered manifestations of modern society such as advertising, technology, and conflict, among others. However, unlike movements such as expressionism, Dadaism appreciated the dynamics of modernity and the urban life. The poetry produced by this genre does not consider the chaotic urban and futuristic world as negative, man-eating or hellish. Instead, there is a focus on how these serve as new natural terrain that opens up new ideas for life and art.[50]
 
@@ -152,7 +150,7 @@ Musician Frank Zappa was a self-proclaimed Dadaist after learning of the movemen
 
 Legacy
 
-En_hod_dada_museum.jpg, named after Marcel Janco, in Ein Hod, Israel]] While broadly based, the movement was unstable. By 1924 in Paris, Dada was melding into Surrealism, and artists had gone on to other ideas and movements, including Surrealism, social realism and other forms of modernism. Some theorists argue that Dada was actually the beginning of postmodern art.[56]
+, named after Marcel Janco, in Ein Hod, Israel]] While broadly based, the movement was unstable. By 1924 in Paris, Dada was melding into Surrealism, and artists had gone on to other ideas and movements, including Surrealism, social realism and other forms of modernism. Some theorists argue that Dada was actually the beginning of postmodern art.[56]
 
 By the dawn of the Second World War, many of the European Dadaists had emigrated to the United States. Some (Otto Freundlich, Walter Serner) died in death camps under Adolf Hitler, who actively persecuted the kind of "degenerate art" that he considered Dada to represent. The movement became less active as post-war optimism led to the development of new movements in art and literature.
 
@@ -177,7 +175,7 @@ Cut-up technique is an extension of collage to words themselves, Tristan Tzara d
 
 Photomontage
 
-ABCD-Hausmann.jpg The Dadaists – the "monteurs" (mechanics) – used scissors and glue rather than paintbrushes and paints to express their views of modern life through images presented by the media. A variation on the collage technique, photomontage utilized actual or reproductions of real photographs printed in the press. In Cologne, Max Ernst used images from the First World War to illustrate messages of the destruction of war.[61] MechanicalHead-Hausmann.jpg
+The Dadaists – the "monteurs" (mechanics) – used scissors and glue rather than paintbrushes and paints to express their views of modern life through images presented by the media. A variation on the collage technique, photomontage utilized actual or reproductions of real photographs printed in the press. In Cologne, Max Ernst used images from the First World War to illustrate messages of the destruction of war.[61]
 
 Assemblage
 

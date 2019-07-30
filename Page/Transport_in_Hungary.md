@@ -3,8 +3,6 @@ TRANSPORT IN HUNGARY relies on several main modes, including transport by road, 
 
 Roads
 
-Hungary_road_sign_G-401.svg Hungary_motorway_system_2016_08_05.png
-
 Hungary has a total of of public roads, of which are paved (including 1481 km of motorways, as of 2016); and are unpaved (2005 etc.):
 
 Hungarian road categories are as follows:
@@ -21,10 +19,10 @@ Motorways and expressways
 
 Hungarian motorways and expressways are part of the national road network. As of October 2016, there are of controlled-access highways.
 
-Hungary_road_sign_E-016.svg Motorways (_autópályák_, singular - _autópálya_) in Hungary:
+Motorways (_autópályák_, singular - _autópálya_) in Hungary:
 M1 | M3 | M4 | M5 | M6 | M7 | M8 | _M15_ | M19 | M30 | M31 | M35 | M43 | M60
 
-Hungary_road_sign_E-018.svg Expressways (_autóutak_, singular - _autóút_) in Hungary:
+Expressways (_autóutak_, singular - _autóút_) in Hungary:
 M0 | M2 | M9 | M51 | M70 | M85 | M86
 
 New motorway sections are being added to the existing network, which already connects many major economically important cities to the capital.
@@ -35,8 +33,6 @@ Bus transport between municipalities was provided by Volán Companies, twenty-fo
 
 
 Railways
-
-Railway_map_of_Hungary.png Budapest-Keleti_Pályaudvar_-_panoramio.jpg
 
 _Note:_ Hungary and Austria jointly manage the cross-border standard-gauge railway between Győr–Sopron–Ebenfurt (GySEV/ROeEE), a distance of about 101 km in Hungary and 65 km in Austria.
 
@@ -70,7 +66,7 @@ Rail links with adjacent countries
 
 Airports
 
-Liszt_Ferenc_Repuloter_2-es_terminal_varocsarnok_05.JPG inside of SkyCourt]] Sármellék_Airport_Terminal_and_Germania_737-700.jpg - inside]] There are 43-45 airports in Hungary, including smaller, unpaved airports, too. The five international airports are Budapest-Liszt Ferenc, Debrecen Airport, Hévíz–Balaton International Airport (previously _Sármellék,_ also called FlyBalaton for its proximity to Lake Balaton, Hungary's number one tourist attraction), Győr-Pér and Pécs-Pogány (as of 2015. there are no regular passenger flights from Győr-Pér and Pécs-Pogány). Malév Hungarian Airlines ceased operations in 2012.
+inside of SkyCourt]] - inside]] There are 43-45 airports in Hungary, including smaller, unpaved airports, too. The five international airports are Budapest-Liszt Ferenc, Debrecen Airport, Hévíz–Balaton International Airport (previously _Sármellék,_ also called FlyBalaton for its proximity to Lake Balaton, Hungary's number one tourist attraction), Győr-Pér and Pécs-Pogány (as of 2015. there are no regular passenger flights from Győr-Pér and Pécs-Pogány). Malév Hungarian Airlines ceased operations in 2012.
 
 Airports with paved runways:
 
@@ -153,15 +149,13 @@ In the rest of the cities and towns local transport is provided by Volánbusz co
 
 Metro
 
-BKV_metro.svg
-
 The BUDAPEST METRO () is the rapid transit system in the Hungarian capital Budapest. Its line 1 (opened in 1896) is the oldest electrified underground railway on the European continent. The second (red) line was opened in 1970, third (blue) line was opened in 1976, the newest line is the fourth (green), it was opened in 2014.
 
 File:Bajza utca platform.jpg|Bajza utca station, M1 File:Budapest, metró 2, Batthyány tér, 11.jpg|Batthyány tér, M2 File:Budapest Metro Határ út.JPG|Határ út, M3 File:Budapest, metró 4, Móricz Zsigmond körtér, 17.jpg|Móricz Zsigmond körtér, M4
 
 Trams
 
-Hungary_road_sign_E-041.svg The busiest traditional city tram line in the world is still route 4/6 in Budapest, where 50-meter long trains run at 120 to 180 second intervals[2] at peak time and are usually packed with people. A part of this route is the same as where electric trams made their world first run in 1887. Budapest has recently ordered 40 Siemens Combino Supra low floor trams. Trams began carrying the passengers on the 1 July 2006 but during the first weeks there were many technical difficulties.
+The busiest traditional city tram line in the world is still route 4/6 in Budapest, where 50-meter long trains run at 120 to 180 second intervals[2] at peak time and are usually packed with people. A part of this route is the same as where electric trams made their world first run in 1887. Budapest has recently ordered 40 Siemens Combino Supra low floor trams. Trams began carrying the passengers on the 1 July 2006 but during the first weeks there were many technical difficulties.
 
 Cities with tram lines
 
@@ -183,7 +177,7 @@ There were some towns, where narrow gauge railways were used as tram lines or in
 
 Trolleybus
 
-Hungary_road_sign_E-040.svg Trolleybuses can be found in three cities: Budapest, Debrecen and Szeged.
+Trolleybuses can be found in three cities: Budapest, Debrecen and Szeged.
 
 
 Pipelines

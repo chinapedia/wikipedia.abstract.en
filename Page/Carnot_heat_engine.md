@@ -1,4 +1,4 @@
-Carnot-engine-1824.png cross section of Carnot's heat engine. In this diagram, _abcd_ is a cylindrical vessel, _cd_ is a movable piston, and _A_ and _B_ are constant–temperature bodies. The vessel may be placed in contact with either body or removed from both (as it is here).[1] ]] A CARNOT HEAT ENGINE[2] is a theoretical engine that operates on the reversible Carnot cycle. The basic model for this engine was developed by Nicolas Léonard Sadi Carnot in 1824. The Carnot engine model was graphically expanded upon by Benoît Paul Émile Clapeyron in 1834 and mathematically explored by Rudolf Clausius in 1857 from which the concept of entropy emerged.
+cross section of Carnot's heat engine. In this diagram, _abcd_ is a cylindrical vessel, _cd_ is a movable piston, and _A_ and _B_ are constant–temperature bodies. The vessel may be placed in contact with either body or removed from both (as it is here).[1] ]] A CARNOT HEAT ENGINE[2] is a theoretical engine that operates on the reversible Carnot cycle. The basic model for this engine was developed by Nicolas Léonard Sadi Carnot in 1824. The Carnot engine model was graphically expanded upon by Benoît Paul Émile Clapeyron in 1834 and mathematically explored by Rudolf Clausius in 1857 from which the concept of entropy emerged.
 
 Every thermodynamic system exists in a particular state. A thermodynamic cycle occurs when a system is taken through a series of different states, and finally returned to its initial state. In the process of going through this cycle, the system may perform work on its surroundings, thereby acting as a heat engine.
 
@@ -12,14 +12,14 @@ In the adjacent diagram, from Carnot's 1824 work, _Reflections on the Motive Pow
 
 Modern diagram
 
-Carnot_heat_engine_2.svg _W_ on the surroundings, via cycles of contractions and expansions.]]
+_W_ on the surroundings, via cycles of contractions and expansions.]]
 
 The previous image shows the original piston-and-cylinder diagram used by Carnot in discussing his ideal engines. The figure at right shows a block diagram of a generic heat engine, such as the Carnot engine. In the diagram, the “working body” (system), a term introduced by Clausius in 1850, can be any fluid or vapor body through which heat _Q_ can be introduced or transmitted to produce work. Carnot had postulated that the fluid body could be any substance capable of expansion, such as vapor of water, vapor of alcohol, vapor of mercury, a permanent gas, or air, etc. Although, in these early years, engines came in a number of configurations, typically _Q__(H) was supplied by a boiler, wherein water was boiled over a furnace; _Q__(C) was typically supplied by a stream of cold flowing water in the form of a condenser located on a separate part of the engine. The output work, _W_, represents the movement of the piston as it is used to turn a crank-arm, which in turn was typically used to power a pulley so as to lift water out of flooded salt mines. Carnot defined work as “weight lifted through a height”.
 
 
 Carnot cycle
 
-Carnot_cycle_p-V_diagram.svg to illustrate the work done.]] Carnot_Cycle_T-S_diagram.svg
+to illustrate the work done.]]
 
 The CARNOT CYCLE when acting as a heat engine consists of the following steps:
 
@@ -31,7 +31,7 @@ The CARNOT CYCLE when acting as a heat engine consists of the following steps:
 
 Carnot's theorem
 
-Real_vs_Carnot.svg. For this figure, the curve indicates a vapor-liquid equilibrium (_See Rankine cycle_). Irreversible systems and losses of heat (for example, due to friction) prevent the ideal from taking place at every step.]]
+. For this figure, the curve indicates a vapor-liquid equilibrium (_See Rankine cycle_). Irreversible systems and losses of heat (for example, due to friction) prevent the ideal from taking place at every step.]]
 
 CARNOT'S THEOREM is a formal statement of this fact: _No engine operating between two heat reservoirs can be more efficient than a Carnot engine operating between the same reservoirs._
 

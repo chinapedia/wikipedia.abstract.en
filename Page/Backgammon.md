@@ -7,8 +7,6 @@ Like chess, backgammon has been studied with great interest by computer scientis
 
 Rules
 
-BackgammonBoard.svg Bg-movement.svg
-
 Backgammon playing pieces may be termed checkers, draughts, stones, men, counters, pawns, discs, pips, chips, or nips.[6][7]
 
 The objective is for players to remove (_bear off_) all their checkers from the board before their opponent can do the same. In the most often-played variants the checkers are scattered at first; as the game progresses they may be blocked or hit by the opponent. As the playing time for each individual game is short, it is often played in matches where victory is awarded to the first player to reach a certain number of points.
@@ -20,8 +18,6 @@ Each side of the board has a track of 12 long triangles, called points. The poin
 Points 1 through 6 are called the home board or inner board, and points 7 through 12 are called the outer board. The 7-point is referred to as the bar point, and the 13-point as the midpoint.[9][10]
 
 Movement
-
-Backgammon_example.ogv
 
 To start the game, each player rolls one die, and the player with the higher number moves first using the numbers shown on both dice. If the players roll the same number, they must roll again. Both dice must land completely flat on the right-hand side of the gameboard. The players then take alternate turns, rolling two dice at the beginning of each turn.[11][12]
 
@@ -39,7 +35,7 @@ The first player to bear off all fifteen of his/her own checkers wins the game. 
 
 Doubling cube
 
-Backgammon_DoublingCube.jpg To speed up match play and to provide an added dimension for strategy, a doubling cube is usually used. The doubling cube is not a die to be rolled, but rather a marker with the numbers 2, 4, 8, 16, 32, and 64 inscribed on its sides, to denote the current stake. At the start of each game, the doubling cube is placed on the midpoint of the bar with the number 64 showing; the cube is then said to be "centered, on 1". When the cube is centered, either player may start their turn by proposing that the game be played for twice the current stakes. Their opponent must either accept ("take") the doubled stakes or resign ("drop") the game immediately.
+To speed up match play and to provide an added dimension for strategy, a doubling cube is usually used. The doubling cube is not a die to be rolled, but rather a marker with the numbers 2, 4, 8, 16, 32, and 64 inscribed on its sides, to denote the current stake. At the start of each game, the doubling cube is placed on the midpoint of the bar with the number 64 showing; the cube is then said to be "centered, on 1". When the cube is centered, either player may start their turn by proposing that the game be played for twice the current stakes. Their opponent must either accept ("take") the doubled stakes or resign ("drop") the game immediately.
 
 Whenever a player accepts doubled stakes, the cube is placed on their side of the board with the corresponding power of two facing upward, to indicate that the right to re-double belongs exclusively to that player.[21][22] If the opponent drops the doubled stakes, he or she loses the game at the current value of the doubling cube. For instance, if the cube showed the number 2 and a player wanted to redouble the stakes to put it at 4, the opponent choosing to drop the redouble would lose two, or twice the original stake.
 
@@ -57,7 +53,7 @@ If the Crawford rule is in effect, then another option is the HOLLAND RULE, name
 
 Variants
 
-Alfonso-todas-tablas.jpg]] There are many variants of standard backgammon rules. Some are played primarily throughout one geographic region, and others add new tactical elements to the game. Variants commonly alter the starting position, restrict certain moves, or assign special value to certain dice rolls, but in some geographic regions even the rules and directions of the checkers' movement change, rendering the game fundamentally different.
+]] There are many variants of standard backgammon rules. Some are played primarily throughout one geographic region, and others add new tactical elements to the game. Variants commonly alter the starting position, restrict certain moves, or assign special value to certain dice rolls, but in some geographic regions even the rules and directions of the checkers' movement change, rendering the game fundamentally different.
 
 ACEY-DEUCEY is a variant of backgammon in which players start with no checkers on the board, and must bear them on at the beginning of the game. The roll of 1-2 is given special consideration, allowing the player, after moving the 1 and the 2, to select any desired doubles move. A player also receives an extra turn after a roll of 1-2 or of doubles.[27]
 
@@ -80,11 +76,7 @@ TAVLA, a Turkish variation.
 
 Strategy and tactics
 
-Backgammon-set_from_American_civil_war.jpeg
-
 Backgammon has an established opening theory, although it is less detailed than that of chess. The tree of positions expands rapidly because of the number of possible dice rolls and the moves available on each turn. Recent computer analysis has offered more insight on opening plays, but the midgame is reached quickly. After the opening, backgammon players frequently rely on some established general strategies, combining and switching among them to adapt to the changing conditions of a game.
-
-Backgammon_probability.png
 
 A blot has the highest probability of being hit when it is 6 points away from an opponent's checker (see picture). Strategies can derive from that. The most direct one is simply to avoid being hit, trapped, or held in a stand-off. A "running game" describes a strategy of moving as quickly as possible around the board, and is most successful when a player is already ahead in the race.[40] When this fails, one may opt for a "holding game", maintaining control of a point on one's opponent's side of the board, called an anchor. As the game progresses, this player may gain an advantage by hitting an opponent's blot from the anchor, or by rolling large doubles that allow the checkers to escape into a running game.[41]
 
@@ -108,7 +100,7 @@ To reduce the possibility of cheating, most good quality backgammon sets use pre
 
 Social and competitive play
 
-Wurfzabel.jpg]]
+]]
 
 Legality
 
@@ -154,7 +146,7 @@ Backgammon software has been developed not only to play and analyze games, but a
 
 Play and analysis
 
-GNU_bg_screenshot.png Backgammon has been studied considerably by computer scientists. Neural networks and other approaches have offered significant advances to software for gameplay and analysis.
+Backgammon has been studied considerably by computer scientists. Neural networks and other approaches have offered significant advances to software for gameplay and analysis.
 
 The first strong computer opponent was BKG 9.8. It was written by Hans Berliner in the late 1970s on a DEC PDP-10 as an experiment in evaluating board game positions. Early versions of BKG played badly even against poor players, but Berliner noticed that its critical mistakes were always at transitional phases in the game. He applied principles of fuzzy logic to improve its play between phases, and by July 1979, BKG 9.8 was strong enough to play against the reigning world champion Luigi Villa. It won the match, 7–1, becoming the first computer program to defeat a world champion in any board game. Berliner stated that the victory was largely a matter of luck, as the computer received more favorable dice rolls.[77]
 
@@ -192,11 +184,11 @@ Long nardi: A game which starts with all fifteen checkers placed in one line-on 
 
 Roman and Byzantine Empire
 
-Tabula_-_boardgame_-_Zeno_game.svg played by Byzantine Emperor Zeno in 480 and recorded by Agathias in 530 circa because of a very unlucky dice throw for Zeno (red), as he threw 2, 5 and 6 and was forced to leave eight pieces alone. See "Zeno's Game of τάβλη".[99]]]
+played by Byzantine Emperor Zeno in 480 and recorded by Agathias in 530 circa because of a very unlucky dice throw for Zeno (red), as he threw 2, 5 and 6 and was forced to leave eight pieces alone. See "Zeno's Game of τάβλη".[99]]]
 
 _Tάβλη (tavli)_ meaning "table" or "board" in Byzantine Greek, is the oldest game with rules known to be nearly identical to backgammon; it is described in an epigram of Byzantine Emperor Zeno (AD 476–491).[100] The board was the same with 24 points, 12 on each side. As today, each player had 15 checkers and used cubical dice with sides numbered one to six.[101] The object of the game, to be the first to bear off all of one's checkers, was also the same.[102][103] Hitting a blot, reentering a piece from the bar, and bearing off, all followed the modern rules. The only differences with modern backgammon were the use of an extra die (three rather than two) and the starting of all pieces off the board (with them entering in the same way that pieces on the bar enter in modern backgammon).[104] The name τάβλη is still used for backgammon in Greece, where it is frequently played in town plateias and cafes.[105] The epigram of Zeno describes a particularly bad dice roll the emperor had for his given position. Zeno, who was white, had a stack of seven checkers, three stacks of two checkers and two _blots_, checkers that stand alone on a point and are therefore in danger of being put outside the board by an incoming opponent checker. Zeno threw the three dice with which the game was played and obtained 2, 5 and 6. As in backgammon, Zeno could not move to a space occupied by two opponent (black) pieces. The white and black checkers were so distributed on the points that the only way to use all of the three results, as required by the game rules, was to break the three stacks of two checkers into blots, exposing them and ruining the game for Zeno.[106][107]
 
-Roman_Game_of_12_Lines_Board_-_Aphrodisias.jpg board from the 2nd century, Aphrodisias]] The τάβλη of Zeno's time is believed to be a direct descendant of the earlier Roman _Ludus duodecim scriptorum_ ("Game of twelve lines") with that board's middle row of points removed, and only the two outer rows remaining.[108] Ludus duodecim scriptorum used a board with three rows of 12 points each with the 15 checkers being moved in opposing directions by the two players across three rows according to the roll of the three cubical dice.[109][110] Little specific text about the gameplay of Ludus duodecim scriptorum has survived;[111] it may have been related to the older Ancient Greek dice game Kubeia. The earliest known mention of the game is in Ovid's Ars Amatoria (The Art of Love) (written between 1 BC and 8 AD). In Roman times this game was also known as alea, and a likely apocryphal Latin story linked this name, and the game, to a Trojan soldier named Alea.[112][113]
+board from the 2nd century, Aphrodisias]] The τάβλη of Zeno's time is believed to be a direct descendant of the earlier Roman _Ludus duodecim scriptorum_ ("Game of twelve lines") with that board's middle row of points removed, and only the two outer rows remaining.[108] Ludus duodecim scriptorum used a board with three rows of 12 points each with the 15 checkers being moved in opposing directions by the two players across three rows according to the roll of the three cubical dice.[109][110] Little specific text about the gameplay of Ludus duodecim scriptorum has survived;[111] it may have been related to the older Ancient Greek dice game Kubeia. The earliest known mention of the game is in Ovid's Ars Amatoria (The Art of Love) (written between 1 BC and 8 AD). In Roman times this game was also known as alea, and a likely apocryphal Latin story linked this name, and the game, to a Trojan soldier named Alea.[112][113]
 
 Egypt
 
@@ -204,7 +196,7 @@ Race board games involving dice have existed for millennia in the Near East and 
 
 Turkey (Ottoman Empire)
 
-Tavla_oynayan_kadınlar,_Serik_-_Women_playing_backgammon_in_Turkey.jpg in southern Turkey]] Backgammon, which is known as "tavla", from Byzantine Greek τάβλη,[115] is a very popular game in Turkey, and it is customary to name the dice rolls with their Persian number names, with local spellings: yek (1), dü (2), se (3), cehar (4), penç (5), şeş (6).[116]
+in southern Turkey]] Backgammon, which is known as "tavla", from Byzantine Greek τάβλη,[115] is a very popular game in Turkey, and it is customary to name the dice rolls with their Persian number names, with local spellings: yek (1), dü (2), se (3), cehar (4), penç (5), şeş (6).[116]
 
 The usual Tavla rules are same as in the neighboring Arab countries and Greece, as established over a millennium ago,[117] but there are also many quite different variants. The usual tavla is also known as erkek tavlası meaning boys' or men's tavla. The other variant kız tavlası (i.e. girls' tavla) is a game that depends only on the dice and involves no strategy. Another variant, asker tavlası (meaning soldiers' tavla), has the pieces thrown to the board randomly and the opponents try to flip their pieces over the opponents' pieces to beat them.
 
@@ -220,7 +212,7 @@ These games are played one after another, in matches of three, five, or seven po
 
 East Asia
 
-Backgammon_set,around_the_10th_century,_China.JPG Backgammon was popular in China for a time and was known as "shuanglu" (双陆), with the book Pǔ Shuāng (譜雙) written during the Southern Song (1127–1279) period recording over ten variants - but over time it was replaced by other games such as xiangqi (Chinese chess).[121]
+Backgammon was popular in China for a time and was known as "shuanglu" (双陆), with the book Pǔ Shuāng (譜雙) written during the Southern Song (1127–1279) period recording over ten variants - but over time it was replaced by other games such as xiangqi (Chinese chess).[121]
 
 In Japan _ban-sugoroku_ is thought to have been introduced from China in the 6th century and is mentioned in Genji monogatari. As a gambling game it was made illegal several times.[122] In the early Edo-era, a new and quick gambling game called _Chō-han_ appeared and sugoroku quickly dwindled. By the 13th century, the board game Go, originally played only by the aristocracy, had become popular among the general public.[123]
 
@@ -228,11 +220,11 @@ In Korea, it is called Ssang-ryuk or Jeopo.
 
 Western Europe
 
-Codex_Manesse_262v_Herr_Goeli.jpg]] Old_Backgammon_Vasa_Edit.jpg'' ("board game") set recovered from the warship _Vasa_, which sank in 1628]] The _jeux de tables_ (Games of Tables), predecessors of modern backgammon, first appeared in France during the 11th century and became a favorite pastime of gamblers. In 1254, Louis IX issued a decree prohibiting his court officials and subjects from playing.[124][125] Tables games were played in Germany in the 12th century, and had reached Iceland by the 13th century. In Spain, the Alfonso X manuscript _Libro de los juegos_, completed in 1283, describes rules for a number of dice and table games in addition to its extensive discussion of chess.[126] By the 17th century, table games had spread to Sweden. A wooden board and checkers were recovered from the wreck of the Vasa among the belongings of the ship's officers. Backgammon appears widely in paintings of this period, mainly those of Dutch and German painters (Van Ostade, Jan Steen, Hieronymus Bosch, Bruegel and others). Some surviving artworks are "Cardsharps" by Caravaggio (the backgammon board is in the lower left) and "The Triumph of Death" by Pieter Bruegel the Elder (the backgammon board is in the lower right). Others are the Hell of Bosch and interior of an Inn by Jan Steen.
+]] '' ("board game") set recovered from the warship _Vasa_, which sank in 1628]] The _jeux de tables_ (Games of Tables), predecessors of modern backgammon, first appeared in France during the 11th century and became a favorite pastime of gamblers. In 1254, Louis IX issued a decree prohibiting his court officials and subjects from playing.[124][125] Tables games were played in Germany in the 12th century, and had reached Iceland by the 13th century. In Spain, the Alfonso X manuscript _Libro de los juegos_, completed in 1283, describes rules for a number of dice and table games in addition to its extensive discussion of chess.[126] By the 17th century, table games had spread to Sweden. A wooden board and checkers were recovered from the wreck of the Vasa among the belongings of the ship's officers. Backgammon appears widely in paintings of this period, mainly those of Dutch and German painters (Van Ostade, Jan Steen, Hieronymus Bosch, Bruegel and others). Some surviving artworks are "Cardsharps" by Caravaggio (the backgammon board is in the lower left) and "The Triumph of Death" by Pieter Bruegel the Elder (the backgammon board is in the lower right). Others are the Hell of Bosch and interior of an Inn by Jan Steen.
 
 Great Britain
 
-Hoyle-backgammon.png In the 16th century, Elizabethan laws and church regulations prohibited playing tables, but by the 18th century, backgammon was popular among the English clergy.[127] Edmund Hoyle published _A Short Treatise on the Game of Back-Gammon_ in 1753; this described rules and strategy for the game and was bound together with a similar text on whist.[128]
+In the 16th century, Elizabethan laws and church regulations prohibited playing tables, but by the 18th century, backgammon was popular among the English clergy.[127] Edmund Hoyle published _A Short Treatise on the Game of Back-Gammon_ in 1753; this described rules and strategy for the game and was bound together with a similar text on whist.[128]
 
 In English, the word "backgammon" is most likely derived from "back" and Middle English "_gamen_", meaning "game" or "play". The earliest use documented by the Oxford English Dictionary was in 1650.[129]
 

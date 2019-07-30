@@ -1,11 +1,7 @@
-Un-guinea-bissau.png LocationGuineaBissau.svg
-
 The GEOGRAPHY OF GUINEA-BISSAU is that of low coastal plains bordering the Atlantic Ocean. The country borders Senegal in the north and Guinea in the southeast.
 
 
 Terrain and ecology
-
-Guinea-Bissau_Topography.png
 
 The terrain of Guinea-Bissau is mostly low coastal plain with swamps of Guinean mangroves rising to Guinean forest-savanna mosaic in the east.[1]
 
@@ -24,15 +20,13 @@ Guinea-Bissau's climate is tropical. This means it is generally hot and humid. I
 
 Guinea-Bissau is warm all year around and there is little temperature fluctuation; it averages . The average rainfall for the capital city Bissau is although this is almost entirely accounted for during the rainy season which falls between June and September/October. From December through April, the country receives very little rainfall.
 
-centre
-
 
 Bissagos Islands
 
 
 Information from the CIA World Factbook
 
-Paesaggio_Guinea-Bissau0001.JPG 20130613-DSC_9133_(9291669831)_(2).jpg near the border with Guinea]] Praia_de_Ofir,_Bolama,_Guiné-Bissau_–_2018-03-03_–_DSCN1195.jpg, Guinea-Bissau]]
+near the border with Guinea]] , Guinea-Bissau]]
 
 Location
     Western Africa, bordering the North Atlantic Ocean, between Guinea and Senegal

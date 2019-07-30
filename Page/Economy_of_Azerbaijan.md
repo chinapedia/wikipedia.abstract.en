@@ -17,11 +17,11 @@ Azerbaijan shares all the problems of the former Soviet republics in making the 
 
 In 1992, Azerbaijan became member of the Economic Cooperation Organization.[6] In 2002, the Azerbaijani merchant marine had 54 ships.[7] In March 2001, Azerbaijan concluded a gas agreement with Turkey, providing a future export market for Azerbaijan.
 
-Tree_map_export_2009_Azerbaijan.jpeg Azerbaijan has concluded 21 production-sharing agreements with various oil companies. An export pipeline that transports Caspian oil to the Mediterranean from Baku through Tbilisi, Georgia to Ceyhan, Turkey (the Baku-Tbilisi-Ceyhan Pipeline) became operational in 2006. The pipeline is expected to generate as much as $160 billion in revenues for the country over the next 30 years. The recent high price of oil is highly beneficial to Azerbaijan's economy as the nation is in the midst of an oil boom. Eastern Caspian producers in Kazakhstan also have expressed interest in accessing this pipeline to transport a portion of their production.
+Azerbaijan has concluded 21 production-sharing agreements with various oil companies. An export pipeline that transports Caspian oil to the Mediterranean from Baku through Tbilisi, Georgia to Ceyhan, Turkey (the Baku-Tbilisi-Ceyhan Pipeline) became operational in 2006. The pipeline is expected to generate as much as $160 billion in revenues for the country over the next 30 years. The recent high price of oil is highly beneficial to Azerbaijan's economy as the nation is in the midst of an oil boom. Eastern Caspian producers in Kazakhstan also have expressed interest in accessing this pipeline to transport a portion of their production.
 
 In 2010, Azerbaijan entered into the top eight biggest oil suppliers to EU countries with €9.46 billion.[8] In 2011, the amount of foreign investments in Azerbaijan was $20 billion, a 61% increase from 2010. According to Minister of Economic Development of Azerbaijan, Shahin Mustafayev, in 2011, "$15.7 billion was invested in the non-oil sector, while the rest - in the oil sector."[9]
 
-2006Azerbaijani_exports.PNG In 2012, because of its economic performance after the Soviet breakup, Azerbaijan was predicted to become "Tiger of Caucasus".[10][11][12] In 2012, Globalization and World Cities Research Network study ranked Baku as a Gamma-level global city.[13]
+In 2012, because of its economic performance after the Soviet breakup, Azerbaijan was predicted to become "Tiger of Caucasus".[10][11][12] In 2012, Globalization and World Cities Research Network study ranked Baku as a Gamma-level global city.[13]
 
 In 2015, Turkey and Azerbaijan agreed to boost mutual trade to US$15 billion by 2023.[14]
 
@@ -68,7 +68,7 @@ New program which is prepared by the Europe Union is aimed to support economic d
 
 Manufacturing
 
-Parad_878.jpg is manufactured in Azerbaijan.]] In 2007, mining and hydrocarbon industries accounted for well over 95 per cent of the Azerbaijani economy. Diversification of the economy into manufacturing industries remain a long-term issue.[23]
+is manufactured in Azerbaijan.]] In 2007, mining and hydrocarbon industries accounted for well over 95 per cent of the Azerbaijani economy. Diversification of the economy into manufacturing industries remain a long-term issue.[23]
 
 As of late 2000s, the defense industry of Azerbaijan has emerged as an autonomous entity with a growing defense production capability. The ministry is cooperating with the defense sectors of Ukraine, Belarus and Pakistan.[24] Along with other contracts, Azerbaijani defence industries and Turkish companies, Azerbaijan will produce 40mm revolver grenade launchers, 107mm and 122mm MLRS systems, Cobra 4×4 vehicles and joint modernization of BTR vehicles in Baku.[25][26][27][28]
 
@@ -90,7 +90,7 @@ The country has also been making progress in developing its telecoms sector. The
 
 Tourism
 
-Ancient_Azerbaijan_4.jpg in Gobustan dating back to 10,000 BC indicating a thriving culture. It is a UNESCO World Heritage Site considered to be of "outstanding universal value"]] Tourism is an important part of the economy of Azerbaijan. The country was a well-known tourist spot in the 1980s. However, the fall of the Soviet Union, and the Nagorno-Karabakh War during the 1988-1994 period, damaged the tourist industry and the image of Azerbaijan as a tourist destination.[35]
+in Gobustan dating back to 10,000 BC indicating a thriving culture. It is a UNESCO World Heritage Site considered to be of "outstanding universal value"]] Tourism is an important part of the economy of Azerbaijan. The country was a well-known tourist spot in the 1980s. However, the fall of the Soviet Union, and the Nagorno-Karabakh War during the 1988-1994 period, damaged the tourist industry and the image of Azerbaijan as a tourist destination.[35]
 
 It was not until the 2000s that the tourism industry began to recover, and the country has since experienced a high rate of growth in the number of tourist visits and overnight stays.[36] In the recent years, Azerbaijan has also becoming a popular destination for religious, spa, and health care tourism.[37] During winter, the Shahdag Winter Complex offers skiing.
 
@@ -101,7 +101,7 @@ The Formula One Grand Prix is held in Baku, the capital city and has been held h
 
 Currency system
 
-The Azerbaijani manat is the currency of Azerbaijani, denominated as the manat, subdivided into 100 qapik. The manat is issued by the Central Bank of Azerbaijan, the monetary authority of Azerbaijan. The ISO 4217 abbreviation is AZN. The Latinised symbol is (Azeri_manat_symbol.svg).
+The Azerbaijani manat is the currency of Azerbaijani, denominated as the manat, subdivided into 100 qapik. The manat is issued by the Central Bank of Azerbaijan, the monetary authority of Azerbaijan. The ISO 4217 abbreviation is AZN. The Latinised symbol is ().
 
 The manat is held in a floating exchange-rate system managed primarily against the US dollar. The rate of exchange (Azerbaijani manat per US$1) for 28 January 2016, was AZN 1.60.
 
@@ -112,7 +112,7 @@ Infrastructure
 
 Energy
 
-Baku_pipelines.svg (green) is one of several pipelines running from Baku.]] Two thirds of Azerbaijan is rich in oil and natural gas.[40] The region of the Lesser Caucasus accounts for most of the country's gold, silver, iron, copper, titanium, chromium, manganese, cobalt, molybdenum, complex ore and antimony.[41] In September 1994, a 30-year contract was signed between the State Oil Company of Azerbaijan Republic (SOCAR) and 13 oil companies, among them Amoco, BP, ExxonMobil, Lukoil and Statoil.[42] As Western oil companies are able to tap deepwater oilfields untouched by the Soviet exploitation, Azerbaijan is considered one of the most important spots in the world for oil exploration and development.[43] Meanwhile, the State Oil Fund of Azerbaijan was established as an extra-budgetary fund to ensure the macroeconomic stability, transparency in the management of oil revenue, and the safeguarding of resources for future generations.
+(green) is one of several pipelines running from Baku.]] Two thirds of Azerbaijan is rich in oil and natural gas.[40] The region of the Lesser Caucasus accounts for most of the country's gold, silver, iron, copper, titanium, chromium, manganese, cobalt, molybdenum, complex ore and antimony.[41] In September 1994, a 30-year contract was signed between the State Oil Company of Azerbaijan Republic (SOCAR) and 13 oil companies, among them Amoco, BP, ExxonMobil, Lukoil and Statoil.[42] As Western oil companies are able to tap deepwater oilfields untouched by the Soviet exploitation, Azerbaijan is considered one of the most important spots in the world for oil exploration and development.[43] Meanwhile, the State Oil Fund of Azerbaijan was established as an extra-budgetary fund to ensure the macroeconomic stability, transparency in the management of oil revenue, and the safeguarding of resources for future generations.
 
 Azeriqaz, a sub-company of SOCAR, intends to ensure full gasification of the country by 2021.[44]
 

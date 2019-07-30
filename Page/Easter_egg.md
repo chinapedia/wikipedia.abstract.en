@@ -1,9 +1,9 @@
-Bg-easter-eggs.jpg Unfinished_pysanka.jpg "Christ is Risen!" ]] EASTER EGGS, also called PASCHAL EGGS,[1] are eggs that are sometimes decorated. They are usually used as gifts on the occasion of Easter. As such, Easter eggs are common during the season of Eastertide (Easter season). The oldest tradition is to use dyed and painted chicken eggs, but a modern custom is to substitute chocolate eggs wrapped in colored foil, hand-carved wooden eggs, or plastic eggs filled with confectionery such as chocolate. However, real eggs continue to be used in Central and Eastern European tradition. Although eggs, in general, were a traditional symbol of fertility and rebirth,[2] in Christianity, for the celebration of Eastertide, Easter eggs symbolize the empty tomb of Jesus, from which Jesus resurrected.[3][4][5] In addition, one ancient tradition was the staining of Easter eggs with the colour red "in memory of the blood of Christ, shed as at that time of his crucifixion."[6][7] This custom of the Easter egg can be traced to early Christians of Mesopotamia, and from there it spread into Russia and Siberia through the Orthodox Churches, and later into Europe through the Catholic and Protestant Churches.[8][9][10][11] The use of eggs in Christianity originates from the ancient pagan customs of worship, which with the advent of Christianity were adapted for it.[12][13][14] This process is called religious syncretism.
+"Christ is Risen!" ]] EASTER EGGS, also called PASCHAL EGGS,[1] are eggs that are sometimes decorated. They are usually used as gifts on the occasion of Easter. As such, Easter eggs are common during the season of Eastertide (Easter season). The oldest tradition is to use dyed and painted chicken eggs, but a modern custom is to substitute chocolate eggs wrapped in colored foil, hand-carved wooden eggs, or plastic eggs filled with confectionery such as chocolate. However, real eggs continue to be used in Central and Eastern European tradition. Although eggs, in general, were a traditional symbol of fertility and rebirth,[2] in Christianity, for the celebration of Eastertide, Easter eggs symbolize the empty tomb of Jesus, from which Jesus resurrected.[3][4][5] In addition, one ancient tradition was the staining of Easter eggs with the colour red "in memory of the blood of Christ, shed as at that time of his crucifixion."[6][7] This custom of the Easter egg can be traced to early Christians of Mesopotamia, and from there it spread into Russia and Siberia through the Orthodox Churches, and later into Europe through the Catholic and Protestant Churches.[8][9][10][11] The use of eggs in Christianity originates from the ancient pagan customs of worship, which with the advent of Christianity were adapted for it.[12][13][14] This process is called religious syncretism.
 
 
 History
 
-The practice of decorating eggshells is quite ancient,[15] with decorated, engraved ostrich eggs found in Africa which are 60,000 years old.[16] In the pre-dynastic period of Egypt and the early cultures of Mesopotamia and Crete, eggs were associated with death and rebirth, as well as with kingship, with decorated ostrich eggs, and representations of ostrich eggs in gold and silver, were commonly placed in graves of the ancient Sumerians and Egyptians as early as 5,000 years ago.[17][18] These cultural relationships may have influenced early Christian and Islamic cultures in those areas, as well as through mercantile, religious, and political links from those areas around the Mediterranean.[19] Red_Paschal_Egg_with_Cross.JPG, from the Saint Kosmas Aitolos Greek Orthodox Monastery]] The Christian custom of Easter eggs, specifically, started among the early Christians of Mesopotamia, who stained eggs with red coloring "in memory of the blood of Christ, shed at His crucifixion".[20][21][22][23][24] The Christian Church officially adopted the custom, regarding the eggs as a symbol of the resurrection of Jesus, with the Roman Ritual, the first edition of which was published in 1610 but which has texts of much older date, containing among the Easter Blessings of Food, one for eggs, along with those for lamb, bread, and new produce. The blessing is for consumption as a food, rather than decorated.[25][26]
+The practice of decorating eggshells is quite ancient,[15] with decorated, engraved ostrich eggs found in Africa which are 60,000 years old.[16] In the pre-dynastic period of Egypt and the early cultures of Mesopotamia and Crete, eggs were associated with death and rebirth, as well as with kingship, with decorated ostrich eggs, and representations of ostrich eggs in gold and silver, were commonly placed in graves of the ancient Sumerians and Egyptians as early as 5,000 years ago.[17][18] These cultural relationships may have influenced early Christian and Islamic cultures in those areas, as well as through mercantile, religious, and political links from those areas around the Mediterranean.[19] , from the Saint Kosmas Aitolos Greek Orthodox Monastery]] The Christian custom of Easter eggs, specifically, started among the early Christians of Mesopotamia, who stained eggs with red coloring "in memory of the blood of Christ, shed at His crucifixion".[20][21][22][23][24] The Christian Church officially adopted the custom, regarding the eggs as a symbol of the resurrection of Jesus, with the Roman Ritual, the first edition of which was published in 1610 but which has texts of much older date, containing among the Easter Blessings of Food, one for eggs, along with those for lamb, bread, and new produce. The blessing is for consumption as a food, rather than decorated.[25][26]
 
 Sociology professor Kenneth Thompson discusses the spread of the Easter egg throughout Christendom, writing that "use of eggs at Easter seems to have come from Persia into the Greek Christian Churches of Mesopotamia, thence to Russia and Siberia through the medium of Orthodox Christianity. From the Greek Church the custom was adopted by either the Roman Catholics or the Protestants and then spread through Europe."[27] Both Thompson, as well as British orientalist Thomas Hyde state that in addition to dyeing the eggs red, the early Christians of Mesopotamia also stained Easter eggs green and yellow.[28][29]
 
@@ -14,7 +14,7 @@ Although one of the Christian traditions are to use dyed or painted chicken eggs
 
 Tradition, Old Customs and Relations back to the past.
 
-Uskršnja_košarica2.jpg]] Święcone2007.jpg]] Pasxalina_abga.jpg
+]] ]]
 
 Lenten tradition
 
@@ -48,7 +48,7 @@ Coincidentally, every Passover, Jews place a hard-boiled egg on the Passover cer
 
 Colouring
 
-Ostereier_-_Easter_eggs.jpg Urządzenie_podgrzewające_kolorowy_wosk_do_malowania_pisanek_-_detal.jpg The dyeing of Easter eggs in different colours is commonplace, with colour being achieved through boiling the egg in natural substances (such as, onion peel (brown colour), oak or alder bark or walnut nutshell (black), beet juice (pink) etc.), or using artificial colourings.
+The dyeing of Easter eggs in different colours is commonplace, with colour being achieved through boiling the egg in natural substances (such as, onion peel (brown colour), oak or alder bark or walnut nutshell (black), beet juice (pink) etc.), or using artificial colourings.
 
 A greater variety of colour was often provided by tying on the onion skin with different coloured woollen yarn. In the North of England these are called pace-eggs or paste-eggs, from a dialectal form of Middle English _pasche_. They were usually eaten after an egg-jarping (egg tapping) competition.
 
@@ -77,7 +77,7 @@ File:Pysanky2011.JPG%7CUkrainian Easter eggs File:Sorbische Ostereier.jpg|Easter
 
 Easter egg games
 
-Easter_Egg_Hunt_(5623253840).jpg]]
+]]
 
 Egg hunts
 
@@ -95,7 +95,7 @@ Egg rolling is also a traditional Easter egg game played with eggs at Easter. In
 
 Egg tapping
 
-Eierkippen.jpg In the North of England, during Eastertide, a traditional game is played where hard boiled _pace eggs_ are distributed and each player hits the other player's egg with their own. This is known as "egg tapping", "egg dumping", or "egg jarping". The winner is the holder of the last intact egg. The annual egg jarping world championship is held every year over Easter in Peterlee, Durham.[51]
+In the North of England, during Eastertide, a traditional game is played where hard boiled _pace eggs_ are distributed and each player hits the other player's egg with their own. This is known as "egg tapping", "egg dumping", or "egg jarping". The winner is the holder of the last intact egg. The annual egg jarping world championship is held every year over Easter in Peterlee, Durham.[51]
 
 It is also practiced in Italy (where is called _scuccetta_), Bulgaria, Hungary, Croatia, Latvia, Lithuania, Lebanon, Macedonia, Romania, Serbia, Ukraine, Russia, and other countries. In parts of Austria, Bavaria and German-speaking Switzerland it is called _Ostereiertitschen_ or _Eierpecken_. In parts of Europe it is also called _epper_, presumably from the German name _Opfer_, meaning "offering" and in Greece it is known as _tsougrisma_. In South Louisiana, this practice is called pocking eggs[52][53] and is slightly different. The Louisiana Creoles hold that the winner eats the eggs of the losers in each round.
 
@@ -107,7 +107,7 @@ Egg dance is a traditional Easter game in which eggs are laid on the ground or f
 
 Pace egg plays
 
-The Pace Egg plays are traditional village plays, with a rebirth theme. The drama takes the form of a combat between the hero and villain, in which the hero is killed and brought back to life. The plays take place in England during Easter.Osterstrauss_08.jpg
+The Pace Egg plays are traditional village plays, with a rebirth theme. The drama takes the form of a combat between the hero and villain, in which the hero is killed and brought back to life. The plays take place in England during Easter.
 
 
 Variants
@@ -143,7 +143,7 @@ File:Fabergé egg Rome 05.JPG|Fabergé egg File:Huevo de chocolate en Bariloche 
 
 Legends
 
-Vasnetsov_Maria_Magdalene.JPG, 1899 by Viktor M. Vasnetsov, depicted as one of the Myrrhbearers.]]
+, 1899 by Viktor M. Vasnetsov, depicted as one of the Myrrhbearers.]]
 
 Christian traditions
 
@@ -155,7 +155,7 @@ After making this statement it is said the egg immediately turned blood red.[59]
 
 Parallels in other faiths
 
-Noruz1387.jpg]]
+]]
 
 The egg is widely used as a symbol of the start of new life, just as new life emerges from an egg when the chick hatches out.[67]
 
@@ -170,7 +170,7 @@ In Judaism, a hard-boiled egg is an element of the Passover Seder, representing 
 
 See also
 
-Washi_Egg_Japan_US_2.png ]]
+]]
 
 -   Balut
 -   Century egg

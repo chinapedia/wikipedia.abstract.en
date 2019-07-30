@@ -1,4 +1,4 @@
-Square_root_of_2_triangle.svg of a right triangle with legs of length 1]]
+of a right triangle with legs of length 1]]
 
 An ALGEBRAIC NUMBER is any complex number (including real numbers) that is a root of a non-zero polynomial (that is, a value which causes the polynomial to equal 0) in one variable with rational coefficients (or equivalently – by clearing denominators – with integer coefficients). All integers and rational numbers are algebraic, as are all roots of integers. The same is not true for all real numbers or all complex numbers. Those real and complex numbers which are not algebraic are called transcendental numbers. They include and [[e_(mathematical_constant)|, and so are conjugate algebraic integers.
 
@@ -10,7 +10,7 @@ An ALGEBRAIC NUMBER is any complex number (including real numbers) that is a roo
 
  Properties
 
-Algebraicszoom.png colored by degree (red = 1, green = 2, blue = 3, yellow = 4)]]
+colored by degree (red = 1, green = 2, blue = 3, yellow = 4)]]
 
 -   The set of algebraic numbers is countable (enumerable).[2][3]
 -   Hence the set of algebraic numbers has Lebesgue measure zero (as a subset of the complex numbers), that is to say, "almost all" complex numbers are not algebraic.
@@ -22,7 +22,7 @@ Algebraicszoom.png colored by degree (red = 1, green = 2, blue = 3, yellow = 4)]
 
 The field of algebraic numbers
 
-Algebraic_number_in_the_complex_plane.png The sum, difference, product and quotient (if the denominator is nonzero) of two algebraic numbers is again algebraic (this fact can be demonstrated using the resultant), and the algebraic numbers therefore form a field (sometimes denoted by , though this usually denotes the adele ring). Every root of a polynomial equation whose coefficients are _algebraic numbers_ is again algebraic. This can be rephrased by saying that the field of algebraic numbers is algebraically closed. In fact, it is the smallest algebraically closed field containing the rationals, and is therefore called the algebraic closure of the rationals.
+The sum, difference, product and quotient (if the denominator is nonzero) of two algebraic numbers is again algebraic (this fact can be demonstrated using the resultant), and the algebraic numbers therefore form a field (sometimes denoted by , though this usually denotes the adele ring). Every root of a polynomial equation whose coefficients are _algebraic numbers_ is again algebraic. This can be rephrased by saying that the field of algebraic numbers is algebraically closed. In fact, it is the smallest algebraically closed field containing the rationals, and is therefore called the algebraic closure of the rationals.
 
 The set of _real_ algebraic numbers itself forms a field.[5]
 
@@ -40,7 +40,7 @@ Algebraic numbers are all numbers that can be defined explicitly or implicitly i
 
 Algebraic integers
 
-Leadingcoeff.png An ALGEBRAIC INTEGER is an algebraic number that is a root of a polynomial with integer coefficients with leading coefficient 1 (a monic polynomial). Examples of algebraic integers are , and . Note, therefore, that the algebraic integers constitute a proper superset of the integers, as the latter are the roots of monic polynomials for all In this sense, algebraic integers are to algebraic numbers what integers are to rational numbers.
+An ALGEBRAIC INTEGER is an algebraic number that is a root of a polynomial with integer coefficients with leading coefficient 1 (a monic polynomial). Examples of algebraic integers are , and . Note, therefore, that the algebraic integers constitute a proper superset of the integers, as the latter are the roots of monic polynomials for all In this sense, algebraic integers are to algebraic numbers what integers are to rational numbers.
 
 The sum, difference and product of algebraic integers are again algebraic integers, which means that the algebraic integers form a ring. The name _algebraic integer_ comes from the fact that the only rational numbers that are algebraic integers are the integers, and because the algebraic integers in any number field are in many ways analogous to the integers. If is a number field, its ring of integers is the subring of algebraic integers in , and is frequently denoted as . These are the prototypical examples of Dedekind domains.
 

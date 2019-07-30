@@ -1,4 +1,4 @@
-DNA_replication_split.svg is un'zipped' and unwound, then each separated strand (turquoise) acts as a template for replicating a new partner strand (green). Nucleotides (bases) are matched to synthesize the new partner strands into two new double helices.]] In molecular biology, DNA REPLICATION is the biological process of producing two identical replicas of DNA from one original DNA molecule. DNA replication occurs in all living organisms acting as the basis for biological inheritance. The cell possesses the distinctive property of division, which makes replication of DNA essential.
+is un'zipped' and unwound, then each separated strand (turquoise) acts as a template for replicating a new partner strand (green). Nucleotides (bases) are matched to synthesize the new partner strands into two new double helices.]] In molecular biology, DNA REPLICATION is the biological process of producing two identical replicas of DNA from one original DNA molecule. DNA replication occurs in all living organisms acting as the basis for biological inheritance. The cell possesses the distinctive property of division, which makes replication of DNA essential.
 
 DNA is made up of a double helix of two complementary strands. During replication, these strands are separated. Each strand of the original DNA molecule then serves as a template for the production of its counterpart, a process referred to as semiconservative replication. As a result of semi-conservative replication, the new helix will be composed of an original DNA strand as well as a newly synthesized strand.[1] Cellular proofreading and error-checking mechanisms ensure near perfect fidelity for DNA replication.[2][3]
 
@@ -18,8 +18,6 @@ The pairing of complementary bases in DNA (through hydrogen bonding) means that 
 
 DNA polymerase
 
-DNA_polymerase.svg
-
 DNA polymerases are a family of enzymes that carry out all forms of DNA replication.[6] DNA polymerases in general cannot initiate synthesis of new strands, but can only extend an existing DNA or RNA strand paired with a template strand. To begin synthesis, a short fragment of RNA, called a primer, must be created and paired with the template DNA strand.
 
 DNA polymerase adds a new strand of DNA by extending the 3′ end of an existing nucleotide chain, adding new nucleotides matched to the template strand one at a time via the creation of phosphodiester bonds. The energy for this process of DNA polymerization comes from hydrolysis of the high-energy phosphate (phosphoanhydride) bonds between the three phosphates attached to each unincorporated base. Free bases with their attached phosphate groups are called nucleotides; in particular, bases with three attached phosphate groups are called nucleoside triphosphates. When a nucleotide is being added to a growing DNA strand, the formation of a phosphodiester bond between the proximal phosphate of the nucleotide to the growing chain is accompanied by hydrolysis of a high-energy phosphate bond with release of the two distal phosphates as a pyrophosphate. Enzymatic hydrolysis of the resulting pyrophosphate into inorganic phosphate consumes a second high-energy phosphate bond and renders the reaction effectively irreversible.[7]
@@ -35,7 +33,7 @@ DNA replication, like all biological polymerization processes, proceeds in three
 
 Initiation
 
-Figure_Role_of_initiators_for_initiation_of_DNA_replication.png EukPreRC.jpg For a cell to divide, it must first replicate its DNA.[12] This process is initiated at particular points in the DNA, known as "origins", which are targeted by initiator proteins.[13] In _E. coli_ this protein is DnaA; in yeast, this is the origin recognition complex.[14] Sequences used by initiator proteins tend to be "AT-rich" (rich in adenine and thymine bases), because A-T base pairs have two hydrogen bonds (rather than the three formed in a C-G pair) and thus are easier to strand-separate.[15] Once the origin has been located, these initiators recruit other proteins and form the pre-replication complex, which unwinds the double-stranded DNA.
+For a cell to divide, it must first replicate its DNA.[12] This process is initiated at particular points in the DNA, known as "origins", which are targeted by initiator proteins.[13] In _E. coli_ this protein is DnaA; in yeast, this is the origin recognition complex.[14] Sequences used by initiator proteins tend to be "AT-rich" (rich in adenine and thymine bases), because A-T base pairs have two hydrogen bonds (rather than the three formed in a C-G pair) and thus are easier to strand-separate.[15] Once the origin has been located, these initiators recruit other proteins and form the pre-replication complex, which unwinds the double-stranded DNA.
 
 Elongation
 
@@ -60,7 +58,7 @@ As DNA synthesis continues, the original DNA strands continue to unwind on each 
 
 Replication fork
 
-Replication_fork.svg]] DNA_replication.svg The replication fork is a structure that forms within the long helical DNA during DNA replication. It is created by helicases, which break the hydrogen bonds holding the two DNA strands together in the helix. The resulting structure has two branching "prongs", each one made up of a single strand of DNA. These two strands serve as the template for the leading and lagging strands, which will be created as DNA polymerase matches complementary nucleotides to the templates; the templates may be properly referred to as the leading strand template and the lagging strand template.
+]] The replication fork is a structure that forms within the long helical DNA during DNA replication. It is created by helicases, which break the hydrogen bonds holding the two DNA strands together in the helix. The resulting structure has two branching "prongs", each one made up of a single strand of DNA. These two strands serve as the template for the leading and lagging strands, which will be created as DNA polymerase matches complementary nucleotides to the templates; the templates may be properly referred to as the leading strand template and the lagging strand template.
 
 DNA IS ALWAYS SYNTHESIZED IN THE 5′ TO 3′ DIRECTION. Since the leading and lagging strand templates are oriented in opposite directions at the replication fork, a major issue is how to achieve synthesis of nascent (new) lagging strand DNA, whose direction of synthesis is opposite to the direction of the growing replication fork.
 
@@ -76,7 +74,7 @@ The lagging strand is synthesized in short, separated segments. On the lagging s
 
 Dynamics at the replication fork
 
-1axc_tricolor.png of the protein PCNA.]]
+of the protein PCNA.]]
 
 In all cases the helicase is composed of six polypeptides that wrap around only one strand of the DNA being replicated. The two polymerases are bound to the helicase heximer. In eukaryotes the helicase wraps around the leading strand, and in prokaryotes it wraps around the lagging strand.[22]
 
@@ -121,8 +119,6 @@ Because bacteria have circular chromosomes, termination of replication occurs wh
 
 Regulation
 
-Cell_Cycle_2.svg
-
 Eukaryotes
 
 Within eukaryotes, DNA replication is controlled within the context of the cell cycle. As the cell grows and divides, it progresses through stages in the cell cycle; DNA replication takes place during the S phase (synthesis phase). The progress of the eukaryotic cell through the cycle is controlled by cell cycle checkpoints. Progression through checkpoints is controlled through complex interactions between various proteins, including cyclins and cyclin-dependent kinases.[34] Unlike bacteria, eukaryotic DNA replicates in the confines of the nucleus.[35]
@@ -141,7 +137,7 @@ By firing of replication origins, controlled spatially and temporally, the forma
 
 Bacteria
 
-Hemimethylation.svg Most bacteria do not go through a well-defined cell cycle but instead continuously copy their DNA; during rapid growth, this can result in the concurrent occurrence of multiple rounds of replication.[39] In _E. coli_, the best-characterized bacteria, DNA replication is regulated through several mechanisms, including: the hemimethylation and sequestering of the origin sequence, the ratio of adenosine triphosphate (ATP) to adenosine diphosphate (ADP), and the levels of protein DnaA. All these control the binding of initiator proteins to the origin sequences.
+Most bacteria do not go through a well-defined cell cycle but instead continuously copy their DNA; during rapid growth, this can result in the concurrent occurrence of multiple rounds of replication.[39] In _E. coli_, the best-characterized bacteria, DNA replication is regulated through several mechanisms, including: the hemimethylation and sequestering of the origin sequence, the ratio of adenosine triphosphate (ATP) to adenosine diphosphate (ADP), and the levels of protein DnaA. All these control the binding of initiator proteins to the origin sequences.
 
 Because _E. coli_ methylates GATC DNA sequences, DNA synthesis results in hemimethylated sequences. This hemimethylated DNA is recognized by the protein SeqA, which binds and sequesters the origin sequence; in addition, DnaA (required for initiation of replication) binds less well to hemimethylated DNA. As a result, newly replicated origins are prevented from immediately initiating another round of DNA replication.[40]
 

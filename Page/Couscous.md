@@ -19,11 +19,11 @@ Ibn Battuta (b. Morocco, 1304–1368? AD) stated in his _Rihlah_ (Travels), indi
 
 Preparation
 
-Tunisian_brown_couscous_with_vegetables.JPG Couscous was traditionally made from the hard part of the durum, the part of the grain that resisted the grinding of the millstone. The semolina is sprinkled with water and rolled with the hands to form small pellets, sprinkled with dry flour to keep them separate, and then sieved. Any pellets that are too small to be finished granules of couscous fall through the sieve and are again rolled and sprinkled with dry semolina and rolled into pellets. This labor-intensive process continues until all the semolina has been formed into tiny granules of couscous. In the traditional method of preparing couscous, groups of women came together to make large batches over several days, which were then dried in the sun and used for several months. Handmade couscous may need to be rehydrated as it is prepared; this is achieved by a process of moistening and steaming over stew until the couscous reaches the desired light and fluffy consistency.[12]
+Couscous was traditionally made from the hard part of the durum, the part of the grain that resisted the grinding of the millstone. The semolina is sprinkled with water and rolled with the hands to form small pellets, sprinkled with dry flour to keep them separate, and then sieved. Any pellets that are too small to be finished granules of couscous fall through the sieve and are again rolled and sprinkled with dry semolina and rolled into pellets. This labor-intensive process continues until all the semolina has been formed into tiny granules of couscous. In the traditional method of preparing couscous, groups of women came together to make large batches over several days, which were then dried in the sun and used for several months. Handmade couscous may need to be rehydrated as it is prepared; this is achieved by a process of moistening and steaming over stew until the couscous reaches the desired light and fluffy consistency.[12]
 
 In some regions couscous is made from farina or coarsely ground barley or pearl millet. In Brazil, the traditional couscous is made from cornmeal.[13]
 
-Couscoussier.jpg_), a traditional steamer for couscous.]] In modern times, couscous production is largely mechanized, and the product is sold in markets around the world. This couscous can be sauteed before it is cooked in water or another liquid.[14] Properly cooked couscous is light and fluffy, not gummy or gritty. Traditionally, North Africans use a food steamer (called a_taseksut'' in Berber, a _kiskas_ in Arabic or a _couscoussier_ in French). The base is a tall metal pot shaped rather like an oil jar in which the meat and vegetables are cooked as a stew. On top of the base, a steamer sits where the couscous is cooked, absorbing the flavours from the stew. The lid to the steamer has holes around its edge so steam can escape. It is also possible to use a pot with a steamer insert. If the holes are too big, the steamer can be lined with damp cheesecloth. There is little archaeological evidence of early diets including couscous, possibly because the original _couscoussier_ was probably made from organic materials that could not survive extended exposure to the elements.
+_), a traditional steamer for couscous.]] In modern times, couscous production is largely mechanized, and the product is sold in markets around the world. This couscous can be sauteed before it is cooked in water or another liquid.[14] Properly cooked couscous is light and fluffy, not gummy or gritty. Traditionally, North Africans use a food steamer (called a_taseksut'' in Berber, a _kiskas_ in Arabic or a _couscoussier_ in French). The base is a tall metal pot shaped rather like an oil jar in which the meat and vegetables are cooked as a stew. On top of the base, a steamer sits where the couscous is cooked, absorbing the flavours from the stew. The lid to the steamer has holes around its edge so steam can escape. It is also possible to use a pot with a steamer insert. If the holes are too big, the steamer can be lined with damp cheesecloth. There is little archaeological evidence of early diets including couscous, possibly because the original _couscoussier_ was probably made from organic materials that could not survive extended exposure to the elements.
 
 
 Instant couscous
@@ -33,7 +33,7 @@ The couscous that is sold in most Western supermarkets has been pre-steamed and 
 
 Local variations
 
-MoroccanCouscous.jpg Fish_couscous_from_Kerkenah,_Tunisia,_August_16th,_2007.jpg]]
+]]
 
 Algeria and Morocco
 
@@ -49,19 +49,11 @@ In Libya, it is mostly served with meat, specifically mostly lamb, but also came
 
 Israel
 
-Stammtisch_Augsburg_2016-11-20_im_Picnic_Israelischer_Couscous.jpg
-
 In Israel, and among members of Sephardic Jewish communities in the diaspora, couscous is a common food. Couscous is not indigenous to the Eastern Mediterranean, and arrived in the region with the migration of Jews from North Africa to Israel in the 20th century. Since then it has become a very popular dish in the country, and it is a staple about the Sephardic community and people of all backgrounds.
 
 In addition, Israelis of all backgrounds commonly eat ptitim, also known as Israeli couscous, or pearl couscous, which is similar to regular couscous except it is larger like the Ashkenazi farfel or the Levantine maftoul (though ptitim does not contain bulgur unlike maftoul). Ptitim is a staple food and it very popular, especially with children, and is commonly served with butter or perhaps cooked with vegetables or chicken broth. However, it is prepared more similarly to pasta and it only boiled for a few minutes, and it is not steamed and fluffed like North African couscous. There are other shapes of ptitim, including a shape which resembled rice, which is also known as Ben Gurion’s rice, which was created in the 1950's after Israel's independence, as there were rations and food shortages and rice was unavailable in the country.
 
-Ptitim_-_Ben-Gurion_rice.jpg
-
 In addition to ptitim, there are many varieties of couscous that can be found throughout Israel. Among Israelis of Sephardic origin, (whose families moved to Israel from North African counties), couscous is a very common food and is served at almost every meal, especially on holidays, special ocassions and celebrations, as well as on Shabbat (Jewish sabbath), for their Friday night dinners. Many people make their own couscous by hand, but it is a very labor intensive process. It is also common to buy instant couscous, and there are a large variety of brands and varieties for sale in Israel.
-
-Kuskus-chacho.JPG
-
-Couscous-7.JPG
 
 Different communities have different styles and sizes of couscous, similar to the differences in size and style between the couscous of the different cuisines of the Maghreb. Moroccan Jewish couscous is larger, and is frequently prepared with aromatic spices and served with meat. Algerian Jewish couscous is smaller. The smallest is Tunisian Jewish couscous, which is not much larger than grains of coarse sand. Tunisian Jewish couscous is often served with harissa or shkug, or cooked with vegetables such as carrots, zucchini, or potatoes and served with chamin, a North African Jewish beef stew similar to cholent, that is often served for Shabbat. Couscous is also be prepared with cinnamon sticks, orange and other citrus peel, and aromatic spices for special ocassions and celebrations. It is not common to find sweet couscous or dessert couscous in Israel, as in Egypt and other countries.
 
@@ -71,7 +63,7 @@ In Egypt, couscous is eaten more as a dessert. It is prepared with butter, sugar
 
 Palestinian territories
 
-Palestinian_couscous.jpg In the Palestinian community, North African style couscous is not consumed. The Palestinians instead prepare a dish called maftoul, which is also consumed in Lebanon, Syria and Jordan and is called mograhbieh. Maftoul can be considered to be a special type of couscous but made from different ingredients and a different shape. It is significantly larger than North African couscous, and is similar in size to Israeli couscous, but has a different preparation. Maffoul is similarly steamed as North African couscous and often served on special occasions in a chicken broth with garbanzo beans and tender pieces of chicken taken off the bone. Maftoul is an Arabic word derived from the root "fa-ta-la", which means to roll or to twist, which is exactly describing the method used to make maftoul by hand rolling bulgur with wheat flour.< Couscous may be used to make a breakfast tabbouleh salad. Though usually cooked it water, it can also be cooking in another liquid, like apple juice, and served with dried fruit and honey.[16]
+In the Palestinian community, North African style couscous is not consumed. The Palestinians instead prepare a dish called maftoul, which is also consumed in Lebanon, Syria and Jordan and is called mograhbieh. Maftoul can be considered to be a special type of couscous but made from different ingredients and a different shape. It is significantly larger than North African couscous, and is similar in size to Israeli couscous, but has a different preparation. Maffoul is similarly steamed as North African couscous and often served on special occasions in a chicken broth with garbanzo beans and tender pieces of chicken taken off the bone. Maftoul is an Arabic word derived from the root "fa-ta-la", which means to roll or to twist, which is exactly describing the method used to make maftoul by hand rolling bulgur with wheat flour.< Couscous may be used to make a breakfast tabbouleh salad. Though usually cooked it water, it can also be cooking in another liquid, like apple juice, and served with dried fruit and honey.[16]
 
 Levant
 

@@ -21,7 +21,7 @@ There are no toll roads in Finland.[7]
 
 Speed limits
 
-Lassila_KehaI+TietoEnator1m.jpg in Pohjois-Haaga, Helsinki.]] Speed limits change depending on the time of the year; the maximum speed limit on motorways is in the summer and in the winter. The main roads usually have speed limits of either 100 km/h or . Speed limits in urban areas range between and . If no other speed limit is signposted, the general speed limit in Finland is in built-up areas and outside.[8]
+in Pohjois-Haaga, Helsinki.]] Speed limits change depending on the time of the year; the maximum speed limit on motorways is in the summer and in the winter. The main roads usually have speed limits of either 100 km/h or . Speed limits in urban areas range between and . If no other speed limit is signposted, the general speed limit in Finland is in built-up areas and outside.[8]
 
 Vehicles
 
@@ -29,7 +29,7 @@ Vehicles
 
 Public transport
 
-Helsinki-Finnair-bus-1726.jpg Coaches are mainly operated by private companies and provide services widely across the country. There is a large network of ExpressBus services with connections to all major cities and the most important rural areas as well as a burgeoning OnniBus 'cheap bus' network. Coach stations are operated by Matkahuolto.[12]
+Coaches are mainly operated by private companies and provide services widely across the country. There is a large network of ExpressBus services with connections to all major cities and the most important rural areas as well as a burgeoning OnniBus 'cheap bus' network. Coach stations are operated by Matkahuolto.[12]
 
 Local bus services inside cities and towns have often been tightly regulated by the councils. Many councils also have their own bus operators, such as Tampere City Transit (TKL), which operates some bus lines on a commercial basis in competition with privately owned providers. Regional bus lines have been regulated by the provincial administration to protect old transit companies, leading to cartel situations like TLO in the Turku region, but strong regional regulating bodies, like the Helsinki Regional Transport Authority (HSL/HRT), whose routes are put out to tender exist as well and will become the norm after the transitional period during the 2010s.
 
@@ -46,7 +46,7 @@ Rail transport
 
 Railways
 
-IC2_at_Hämeenlinna.jpg.]] The Finnish railway network consists of a total of [17] of railways built with .[18] of track is electrified.[19] In 2010, passengers made 13.4 million long distance voyages and 55.5 million trips in local traffic.[20] On the same year, over of freight were transported.[21]
+.]] The Finnish railway network consists of a total of [17] of railways built with .[18] of track is electrified.[19] In 2010, passengers made 13.4 million long distance voyages and 55.5 million trips in local traffic.[20] On the same year, over of freight were transported.[21]
 
 Passenger trains are operated by the state-owned VR. They serve all the major cities and many rural areas, complemented by bus connections where needed. Most passenger train services originate or terminate at Helsinki Central railway station, and a large proportion of the passenger rail network radiates out of Helsinki. High-speed Pendolino services are operated from Helsinki to other major cities like Jyväskylä, Joensuu, Kuopio, Oulu, Tampere and Turku. Modern InterCity services complement the Pendolino network, and cheaper and older long and short distance trains operate in areas with fewer passengers.
 
@@ -58,7 +58,7 @@ There are plans to link Helsinki to Turku and Tampere by high-speed lines result
 
 Trams and light rail
 
-Artic_(tram)_in_Helsinki.jpg tram in Helsinki]] In Finland there have been three cities with trams: Helsinki, Turku and Viipuri. Only Helsinki has retained its tramway network. The trams in Viipuri, having been lost to Soviet Union in 1945, ceased operations in 1957, while the Turku tramway network shut down in 1972.
+tram in Helsinki]] In Finland there have been three cities with trams: Helsinki, Turku and Viipuri. Only Helsinki has retained its tramway network. The trams in Viipuri, having been lost to Soviet Union in 1945, ceased operations in 1957, while the Turku tramway network shut down in 1972.
 
 In november 2016, Tampere city council approved the construction of a new light rail system. Construction of phase 1 begun late 2016 and is scheduled to finish in 2021. Turku also has preliminary plans for new tram system, but no decision to build it has been made.
 
@@ -76,15 +76,13 @@ Other airports with regular scheduled international connections are Kokkola-Piet
 
 Water transport
 
-Helsinki-cruise-liner-1854.JPG
-
 The Finnish Maritime Administration is responsible for the maintenance of Finland's waterway network. Finland's waterways includes some of coastal fairways and of Finland waterways (on rivers, canals, and lakes). Saimaa Canal connects Lake Saimaa, and thus much of the inland waterway system of Finland, with the Baltic Sea at Vyborg (Viipuri). However, the lower part of the canal is currently located in Russia. To facilitate through shipping, Finland leases the Russian section of the canal from Russia (the original agreement with the Soviet Union dates to 1963).[28]
 
 The largest general port is Port of Hamina-Kotka. Port of Helsinki is the busiest passenger harbour, and it also has significant cargo traffic.[29] By cargo tons, the five busiest ports are HaminaKotka, Helsinki, Rauma, Kilpilahti and Naantali.[30]
 
 Icebreakers keep 23 ports open for traffic even in winter. The ports in Gulf of Bothnia need icebreakers in average six months a year, while in Gulf of Finland icebreakers are needed for three months a year.[31]
 
-Viking_XPRS_2008-04-29.jpg is one of several companies operating ferry service between Helsinki and Tallinn.]] Frequent ferry service connects Finland with Estonia and Sweden. Baltic cruise liners regularly call on the port of Helsinki as well. In domestic service, ferries connect Finland's islands with the mainland. Finland's cargo ports move freight both for Finland's own needs and for transshipment to Russia.
+is one of several companies operating ferry service between Helsinki and Tallinn.]] Frequent ferry service connects Finland with Estonia and Sweden. Baltic cruise liners regularly call on the port of Helsinki as well. In domestic service, ferries connect Finland's islands with the mainland. Finland's cargo ports move freight both for Finland's own needs and for transshipment to Russia.
 
 
 See also

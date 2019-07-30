@@ -5,7 +5,7 @@ The objective is to be first to race all of one's pieces across the hexagram-sha
 
 History and nomenclature
 
-Children._MacDonald_Park_Summer_Camp_BAnQ_P48S1P07509.jpg, 1942]] Despite its name, the game is not a variation of checkers, nor did it originate in China or any part of Asia (whereas the game 象棋 _xiangqi_, or "Chinese chess", is from China). The game was invented in Germany in 1892 under the name "Stern-Halma" as a variation of the older American game Halma.[6] The "Stern" (German for _star_) refers to the board's star shape (in contrast to the square board used in Halma).
+, 1942]] Despite its name, the game is not a variation of checkers, nor did it originate in China or any part of Asia (whereas the game 象棋 _xiangqi_, or "Chinese chess", is from China). The game was invented in Germany in 1892 under the name "Stern-Halma" as a variation of the older American game Halma.[6] The "Stern" (German for _star_) refers to the board's star shape (in contrast to the square board used in Halma).
 
 The name "Chinese Checkers" originated in the United States as a marketing scheme by Bill and Jack Pressman in 1928. The Pressman company's game was originally called "Hop Ching Checkers".[7]
 
@@ -14,7 +14,7 @@ The game was introduced to Chinese-speaking regions mostly by the Japanese.[8] {
 
 Rules
 
-Chinese_checkers_jump.svg The aim is to race all one's pieces into the star corner on the opposite side of the board before opponents do the same. The destination corner is called _home_. Each player has 10 pieces, except in games between two players when 15 are used.[9] (On bigger star boards, 15 or 21 pieces are used.[10])
+The aim is to race all one's pieces into the star corner on the opposite side of the board before opponents do the same. The destination corner is called _home_. Each player has 10 pieces, except in games between two players when 15 are used.[9] (On bigger star boards, 15 or 21 pieces are used.[10])
 
 In "hop across", the most popular variation, each player starts with their colored pieces on one of the six points or corners of the star and attempts to race them all home into the opposite corner. Players take turns moving a single piece, either by moving one step in any direction to an adjacent empty space, or by jumping in one or any number of available consecutive hops over other single pieces. A player may not combine hopping with a single-step move – a move consists of one or the other. There is no capturing in Chinese Checkers, so hopped pieces remain active and in play. Turns proceed clockwise around the board.[11]
 
@@ -32,7 +32,7 @@ The four-player game is the same as the game for six players, except that two op
 
 Three players
 
-160327_Chinese_checkers_02.jpg In a three-player game, all players control either one or two sets of pieces each. If one set is used, pieces race across the board into empty, opposite corners. If two sets are used, each player controls two differently colored sets of pieces at opposite corners of the star.
+In a three-player game, all players control either one or two sets of pieces each. If one set is used, pieces race across the board into empty, opposite corners. If two sets are used, each player controls two differently colored sets of pieces at opposite corners of the star.
 
 Two players
 
@@ -69,8 +69,6 @@ Two or more players can compete in this variant, but if there are more than six 
 This variant resembles the game Leap Frog.[13] The main difference being that in Leap Frog the board is a square board.
 
 Diamond game
-
-Diamond_Game.svg
 
 Diamond game is a variant of Chinese Checkers played in South Korea and Japan. It uses the same jump rule as in Chinese Checkers. The aim of the game is to enter all one's pieces into the star corner on the opposite side of the board, before opponents do the same. Each player has ten or fifteen pieces. Ten-piece diamond uses a smaller gameboard than Chinese Checkers, with 73 spaces. Fifteen-piece diamond uses the same board as in Chinese Checkers, with 121 spaces. To play diamond each player selects one color and places their 10 or 15 pieces on a triangle. Two or three players can compete.
 

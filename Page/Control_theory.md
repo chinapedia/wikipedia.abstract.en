@@ -9,7 +9,7 @@ Control theory dates from the 19th century, when the theoretical basis for the o
 
 History
 
-Boulton_and_Watt_centrifugal_governor-MJ.jpg in a Boulton & Watt engine of 1788]]
+in a Boulton & Watt engine of 1788]]
 
 Although control systems of various types date back to antiquity, a more formal analysis of the field began with a dynamics analysis of the centrifugal governor, conducted by the physicist James Clerk Maxwell in 1868, entitled _On Governors_.[4] A centrifugal governor was already used to regulate the velocity of windmills.[5] Maxwell described and analyzed the phenomenon of self-oscillation, in which lags in the system may lead to overcompensation and unstable behavior. This generated a flurry of interest in the topic, during which Maxwell's classmate, Edward John Routh, abstracted Maxwell's results for the general class of linear systems.[6] Independently, Adolf Hurwitz analyzed system stability using differential equations in 1877, resulting in what is now known as the Routh–Hurwitz theorem.[7][8]
 
@@ -24,7 +24,7 @@ The Space Race also depended on accurate spacecraft control, and control theory 
 
 Open-loop and closed-loop (feedback) control
 
-Feedback_loop_with_descriptions.svg of a negative feedback control system using a feedback loop to control the process variable by comparing it with a desired value, and applying the difference as an error signal to generate a control output to reduce or eliminate the error.]] Industrial_control_loop.jpg Fundamentally, there are two types of control loops: open loop control and closed loop (feedback) control.
+of a negative feedback control system using a feedback loop to control the process variable by comparing it with a desired value, and applying the difference as an error signal to generate a control output to reduce or eliminate the error.]] Fundamentally, there are two types of control loops: open loop control and closed loop (feedback) control.
 
 In open loop control, the control action from the controller is independent of the "process output" (or "controlled process variable" - PV). A good example of this is a central heating boiler controlled only by a timer, so that heat is applied for a constant time, regardless of the temperature of the building. The control action is the timed switching on/off of the boiler, the process variable is the building temperature, but neither is linked.
 
@@ -66,8 +66,6 @@ The output of the system _y(t)_ is fed back through a sensor measurement _F_ to 
 
 This is called a single-input-single-output (_SISO_) control system; _MIMO_ (i.e., Multi-Input-Multi-Output) systems, with more than one input/output, are common. In such cases variables are represented through vectors instead of simple scalar values. For some distributed parameter systems the vectors may be infinite-dimensional (typically functions).
 
-simple_feedback_control_loop2.svg
-
 If we assume the controller _C_, the plant _P_, and the sensor _F_ are linear and time-invariant (i.e., elements of their transfer function _C(s)_, _P(s)_, and _F(s)_ do not depend on time), the systems above can be analysed using the Laplace transform on the variables. This gives the following relations:
 
     Y(s) = P(s)U(s)
@@ -83,7 +81,7 @@ The expression $H(s) = \frac{P(s)C(s)}{1 + F(s)P(s)C(s)}$ is referred to as the 
 
 PID feedback control
 
-PID_en.svg of a PID controller in a feedback loop, r(_t_) is the desired process value or "set point", and y(_t_) is the measured process value.]] A '''proportional–integral–derivative controller ''' (PID CONTROLLER) is a control loop feedback mechanism control technique widely used in control systems.
+of a PID controller in a feedback loop, r(_t_) is the desired process value or "set point", and y(_t_) is the measured process value.]] A '''proportional–integral–derivative controller ''' (PID CONTROLLER) is a control loop feedback mechanism control technique widely used in control systems.
 
 A PID controller continuously calculates an _error value_ e(t) as the difference between a desired setpoint and a measured process variable and applies a correction based on proportional, integral, and derivative terms. _PID_ is an initialism for _Proportional-Integral-Derivative_, referring to the three terms operating on the error signal to produce a control signal.
 

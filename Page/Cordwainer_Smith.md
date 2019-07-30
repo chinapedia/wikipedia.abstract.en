@@ -1,4 +1,4 @@
-Fantasy_book_1950_n6.jpg Galaxy_196210.jpg_. Artwork by Virgil Finlay.]] Amazing_stories_196310.jpg_. Art by Lloyd Birmingham.]] CORDWAINER SMITH ( )[1] was the pen-name used by American author PAUL MYRON ANTHONY LINEBARGER (July 11, 1913 – August 6, 1966) for his science fiction works. Linebarger was a noted East Asia scholar and expert in psychological warfare. ("Cordwainer" is an archaic word for "a worker in cordwain or cordovan leather; a shoemaker",[2] and a "smith" is "one who works in iron or other metals; esp. a blacksmith or farrier":[3] two kinds of skilled workers with traditional materials.) Linebarger also employed the literary pseudonyms "Carmichael Smith" (for his political thriller _Atomsk_), "Anthony Bearden" (for his poetry) and "Felix C. Forrest" (for the novels _Ria_ and _Carola_). He died of a heart attack in 1966 at Johns Hopkins University Medical Center in Baltimore, Maryland, at age 53.
+_. Artwork by Virgil Finlay.]] _. Art by Lloyd Birmingham.]] CORDWAINER SMITH ( )[1] was the pen-name used by American author PAUL MYRON ANTHONY LINEBARGER (July 11, 1913 – August 6, 1966) for his science fiction works. Linebarger was a noted East Asia scholar and expert in psychological warfare. ("Cordwainer" is an archaic word for "a worker in cordwain or cordovan leather; a shoemaker",[2] and a "smith" is "one who works in iron or other metals; esp. a blacksmith or farrier":[3] two kinds of skilled workers with traditional materials.) Linebarger also employed the literary pseudonyms "Carmichael Smith" (for his political thriller _Atomsk_), "Anthony Bearden" (for his poetry) and "Felix C. Forrest" (for the novels _Ria_ and _Carola_). He died of a heart attack in 1966 at Johns Hopkins University Medical Center in Baltimore, Maryland, at age 53.
 
 
 Early life and education
@@ -15,8 +15,6 @@ Career
 From 1937 to 1946, Linebarger held a faculty appointment at Duke University, where he began producing highly regarded works on Far Eastern affairs.
 
 While retaining his professorship at Duke after the beginning of World War II, Linebarger began serving as a second lieutenant of the United States Army, where he was involved in the creation of the Office of War Information and the Operation Planning and Intelligence Board. He also helped organize the army's first psychological warfare section. In 1943, he was sent to China to coordinate military intelligence operations. When he later pursued his interest in China, Linebarger became a close confidant of Chiang Kai-shek. By the end of the war, he had risen to the rank of major.
-
-Psychological_Warfare_Linebarger.jpg
 
 In 1947, Linebarger moved to the Johns Hopkins University's School of Advanced International Studies in Washington, DC, where he served as Professor of Asiatic Studies. He used his experiences in the war to write the book _Psychological Warfare_ (1948), regarded by many in the field as a classic text.
 

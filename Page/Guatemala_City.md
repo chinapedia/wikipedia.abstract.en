@@ -3,8 +3,6 @@ GUATEMALA CITY (), locally known as GUATEMALA or GUATE, officially Nueva Guatema
 
 History
 
-Cerritodelcarmen.jpg
-
 Human settlement on the present site of Guatemala City began with the Maya who built a city at Kaminaljuyu. The Spanish colonists established a small town, which was made a capital city in 1775. At this period the Central Square with the Cathedral and Royal Palace were constructed. After Central American independence from Spain the city became the capital of the United Provinces of Central America in 1821.
 
 The 19th century saw the construction of the monumental Carrera Theater in the 1850s, and the Presidential Palace in the 1890s. At this time the city was expanding around the _30 de junio_ Boulevard and elsewhere, displacing native settlements from the ancient site. Earthquakes in 1917–1918 destroyed many historic structures. Under Jorge Ubico in the 1930s a hippodrome and many new public buildings were constructed, although peripheral poor neighborhoods that formed after the 1917–1918 earthquakes continued to lack basic amenities.
@@ -14,14 +12,12 @@ During the Guatemalan Civil War, terror attacks beginning with the burning of th
 
 Contemporary times
 
-Guatemala_City_(663).jpg Guatemala City serves as the economic, governmental, and cultural epicenter of the nation of Guatemala. The city also functions as Guatemala's main transportation hub, hosting an international airport, La Aurora International Airport, and serving as the origination or end points for most of Guatemala's major highways. The city, with its robust economy, attracts hundreds of thousands of rural migrants from Guatemala's interior hinterlands and serves as the main entry point for most foreign immigrants seeking to settle in Guatemala.
+Guatemala City serves as the economic, governmental, and cultural epicenter of the nation of Guatemala. The city also functions as Guatemala's main transportation hub, hosting an international airport, La Aurora International Airport, and serving as the origination or end points for most of Guatemala's major highways. The city, with its robust economy, attracts hundreds of thousands of rural migrants from Guatemala's interior hinterlands and serves as the main entry point for most foreign immigrants seeking to settle in Guatemala.
 
 In addition to a wide variety of restaurants, hotels, shops, and a modern BRT transport system (Transmetro), the city is home to many art galleries, theaters, sports venues and museums (including some fine collections of Pre-Columbian art) and provides a growing number of cultural offerings. Guatemala City not only possesses a history and culture unique to the Central American region, it also furnishes all the modern amenities of a world class city, ranging from an IMAX Theater to the Ícaro film festival (Festival Ícaro), where independent films produced in Guatemala and Central America are debuted.
 
 
 Structure and growth
-
-Plaza_España_Cd_Guatemala_a_Noche.jpg guatemala_city_aerial_night_b.JPG CC.MIRAFLORES.JPG Paseo_Cayalá.jpg
 
 Guatemala City is located in the mountainous highlands of the country, between the Pacific coastal plain to the south and the northern lowlands of the Peten region.
 
@@ -42,7 +38,7 @@ In an attempt to control the rapid growth of the city, the municipal government 
 
 Population
 
-Guatemala_City,_Guatemala.JPG It is estimated that the population of Guatemala City proper is about 1 million,[2][3] while its urban area is almost 3 million.[4] The growth of the city's population has been robust since then, abetted by the mass migration of Guatemalans from the rural hinterlands to the largest and most vibrant regional economy in Guatemala. The inhabitants of Guatemala City are incredibly diverse given the size of the city, with those of Spanish and Mestizo descent being the most numerous. Guatemala City also has sizable indigenous populations, divided among the 23 distinct Mayan groups present in Guatemala. The numerous Mayan languages are now spoken in certain quarters of Guatemala City, making the city a linguistically rich area. Foreigners and foreign immigrants comprise the final distinct group of Guatemala City inhabitants, representing a very small minority among the city's citizens.
+It is estimated that the population of Guatemala City proper is about 1 million,[2][3] while its urban area is almost 3 million.[4] The growth of the city's population has been robust since then, abetted by the mass migration of Guatemalans from the rural hinterlands to the largest and most vibrant regional economy in Guatemala. The inhabitants of Guatemala City are incredibly diverse given the size of the city, with those of Spanish and Mestizo descent being the most numerous. Guatemala City also has sizable indigenous populations, divided among the 23 distinct Mayan groups present in Guatemala. The numerous Mayan languages are now spoken in certain quarters of Guatemala City, making the city a linguistically rich area. Foreigners and foreign immigrants comprise the final distinct group of Guatemala City inhabitants, representing a very small minority among the city's citizens.
 
 Due to mass migration from impoverished rural districts wracked with political instability, Guatemala City's population has exploded since the 1970s, severely straining the existing bureaucratic and physical infrastructure of the city. As a result, chronic traffic congestion, shortages of safe potable water in some areas of the city, and a sudden and prolonged surge in crime have become perennial problems. The infrastructure, although continuing to grow and improve in some areas, it is lagging in relation to the increasing population of those less fortunate. Guatemala City is not unique in facing and tackling problems all too common among rapidly expanding cities around the world.
 
@@ -63,95 +59,93 @@ Places of interest by zones
 
 Guatemala City is divided into 22 zones in accordance with the urban layout plan designed by Raúl Aguilar Batres. Each zone has its own streets and avenues, facilitating navigation within the city. Zones are numbered 1 through 25. However, numbers 20, 22 and 23 have not been designated to zones, thus these zones do not exist within the city proper.
 
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone    | Main places                                                            | Pictures                                        |
-+=========+========================================================================+=================================================+
-| Zone 1  | -   Museums                                                            | Teatro_Nacional_Guatemala.jpg                   |
-|         | -   Historic Downtown District                                         |                                                 |
-|         | -   La Sexta Boulevard                                                 |                                                 |
-|         | -   National Palace                                                    |                                                 |
-|         | -   Biblioteca Nacional de Guatemala                                   |                                                 |
-|         | -   Teatro Abril                                                       |                                                 |
-|         | -   Hogar Rafael Ayau                                                  |                                                 |
-|         | -   Centro Cultural de España en Guatemala                             |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 2  | -   Guatemala Relief Map                                               | Maparelieve3.jpg                                |
-|         | -   Hipódromo del Norte park                                           |                                                 |
-|         | -   Simeón Cañas Avenue                                                |                                                 |
-|         | -   Enrique Torrebiarte Baseball Stadium                               |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 3  | -   Guatemala City General Cemetery                                    | Tumbaagapitaguatemala_2014-07-16_15-05.jpg.]]   |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 4  | -   La Terminal Market                                                 |                                                 |
-|         | -   El Triángulo Building                                              |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 5  | -   Doroteo Guamuch Flores National Stadium                            |                                                 |
-|         | -   Teodoro Palacios Flores Gym                                        |                                                 |
-|         | -   Olympic Villa                                                      |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 6  | -   Cementos Progreso Stadium                                          |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 7  | -   Kaminaljuyú Archeological Site                                     |                                                 |
-|         | -   Erick Barrondo Sports Park                                         |                                                 |
-|         | -   Peri-Roosevelt Mall                                                |                                                 |
-|         | -   Megacentro Mall                                                    |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 9  | -   Torre del Reformador                                               | LaTorreDelReformador1.jpg.]]                    |
-|         | -   Parque de la Industria                                             |                                                 |
-|         | -   Avenida Reforma                                                    |                                                 |
-|         | -   Obelisco                                                           |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 10 | -   Universidad Francisco Marroquín                                    | Amanecer_en_la_Ciudad_de_Guatemala_2018.jpg     |
-|         | -   Ixchel Museum of Indigenous Textiles and Clothing                  |                                                 |
-|         | -   Universidad Galileo                                                |                                                 |
-|         | -   Museo Popol Vuh                                                    |                                                 |
-|         | -   Zona Viva                                                          |                                                 |
-|         | -   Jardín Botánico                                                    |                                                 |
-|         | -   La Pradera mall                                                    |                                                 |
-|         | -   Plaza Fontabella shopping center                                   |                                                 |
-|         | -   Oakland Mall                                                       |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-|         |                                                                        |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 11 | -   Museo de Miraflores                                                | Grand_Tikal_Futura_Hotel.jpg                    |
-|         | -   Miraflores Mall                                                    |                                                 |
-|         | -   Hotel Tikal Futura                                                 |                                                 |
-|         | -   Hospital Roosevelt                                                 |                                                 |
-|         | -   Centro Universitario Metropolitano de la Universidad de San Carlos |                                                 |
-|         | -   Calzada Roosevelt                                                  |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 12 | -   Ciudad Universitaria                                               | Rectoria_USAC.jpg                               |
-|         | -   IRTRA Mundo Petapa                                                 |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 13 | -   Museo Nacional de Arqueología y Etnología                          | Aeropuerto_Internacional_La_Aurora_-_Hangar.JPG |
-|         | -   Museo Nacional de Arte Moderno "Carlos Mérida"                     |                                                 |
-|         | -   Museo de los Niños                                                 |                                                 |
-|         | -   Museo Nacional de Historia Natural                                 |                                                 |
-|         | -   Zoológico La Aurora                                                |                                                 |
-|         | -   La Aurora International Airport                                    |                                                 |
-|         | -   Avenida Las Américas                                               |                                                 |
-|         | -   Contraloría General de Cuentas de la Nación                        |                                                 |
-|         | -   Universidad del Istmo                                              |                                                 |
-|         | -   Domo Polideportivo                                                 |                                                 |
-|         | -   Mercado de Artesanías                                              |                                                 |
-|         | -   Reloj de Flores                                                    |                                                 |
-|         | -   Antiguo Aqueducto de La Aurora                                     |                                                 |
-|         | -   Monument to Justo Rufino Barrios                                   |                                                 |
-|         | -   Monument to Tecún Umán                                             |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 14 | -   Centro Recreativo Universitario _Los Arcos_                        |                                                 |
-|         | -   Las Américas Avenue                                                |                                                 |
-|         | -   Gerentes de Guatemala Association (AGG)                            |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 15 | -   Church of Jesus Christ of Latter-day Saints Guatemala City Temple  | Guatemala_City_Temple_by_rkuhnau.jpg]]          |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-| Zone 16 | -   Universidad Rafael Landívar                                        | Edificios_URL.JPG                               |
-|         | -   Guatemala Military Hospital                                        |                                                 |
-|         | -   Universidad Panamericana de Guatemala                              |                                                 |
-|         | -   Paseo Cayalá                                                       |                                                 |
-+---------+------------------------------------------------------------------------+-------------------------------------------------+
-
-TRANSMETRO.JPG Transurbano2.jpg Aeropuerto_Internacional_La_Aurora_-_Hangar.JPG
++---------+------------------------------------------------------------------------+----------+
+| Zone    | Main places                                                            | Pictures |
++=========+========================================================================+==========+
+| Zone 1  | -   Museums                                                            |          |
+|         | -   Historic Downtown District                                         |          |
+|         | -   La Sexta Boulevard                                                 |          |
+|         | -   National Palace                                                    |          |
+|         | -   Biblioteca Nacional de Guatemala                                   |          |
+|         | -   Teatro Abril                                                       |          |
+|         | -   Hogar Rafael Ayau                                                  |          |
+|         | -   Centro Cultural de España en Guatemala                             |          |
++---------+------------------------------------------------------------------------+----------+
+| Zone 2  | -   Guatemala Relief Map                                               |          |
+|         | -   Hipódromo del Norte park                                           |          |
+|         | -   Simeón Cañas Avenue                                                |          |
+|         | -   Enrique Torrebiarte Baseball Stadium                               |          |
++---------+------------------------------------------------------------------------+----------+
+| Zone 3  | -   Guatemala City General Cemetery                                    | .]]      |
++---------+------------------------------------------------------------------------+----------+
+| Zone 4  | -   La Terminal Market                                                 |          |
+|         | -   El Triángulo Building                                              |          |
++---------+------------------------------------------------------------------------+----------+
+| Zone 5  | -   Doroteo Guamuch Flores National Stadium                            |          |
+|         | -   Teodoro Palacios Flores Gym                                        |          |
+|         | -   Olympic Villa                                                      |          |
++---------+------------------------------------------------------------------------+----------+
+| Zone 6  | -   Cementos Progreso Stadium                                          |          |
++---------+------------------------------------------------------------------------+----------+
+| Zone 7  | -   Kaminaljuyú Archeological Site                                     |          |
+|         | -   Erick Barrondo Sports Park                                         |          |
+|         | -   Peri-Roosevelt Mall                                                |          |
+|         | -   Megacentro Mall                                                    |          |
++---------+------------------------------------------------------------------------+----------+
+| Zone 9  | -   Torre del Reformador                                               | .]]      |
+|         | -   Parque de la Industria                                             |          |
+|         | -   Avenida Reforma                                                    |          |
+|         | -   Obelisco                                                           |          |
++---------+------------------------------------------------------------------------+----------+
+| Zone 10 | -   Universidad Francisco Marroquín                                    |          |
+|         | -   Ixchel Museum of Indigenous Textiles and Clothing                  |          |
+|         | -   Universidad Galileo                                                |          |
+|         | -   Museo Popol Vuh                                                    |          |
+|         | -   Zona Viva                                                          |          |
+|         | -   Jardín Botánico                                                    |          |
+|         | -   La Pradera mall                                                    |          |
+|         | -   Plaza Fontabella shopping center                                   |          |
+|         | -   Oakland Mall                                                       |          |
++---------+------------------------------------------------------------------------+----------+
+|         |                                                                        |          |
++---------+------------------------------------------------------------------------+----------+
+| Zone 11 | -   Museo de Miraflores                                                |          |
+|         | -   Miraflores Mall                                                    |          |
+|         | -   Hotel Tikal Futura                                                 |          |
+|         | -   Hospital Roosevelt                                                 |          |
+|         | -   Centro Universitario Metropolitano de la Universidad de San Carlos |          |
+|         | -   Calzada Roosevelt                                                  |          |
++---------+------------------------------------------------------------------------+----------+
+| Zone 12 | -   Ciudad Universitaria                                               |          |
+|         | -   IRTRA Mundo Petapa                                                 |          |
++---------+------------------------------------------------------------------------+----------+
+| Zone 13 | -   Museo Nacional de Arqueología y Etnología                          |          |
+|         | -   Museo Nacional de Arte Moderno "Carlos Mérida"                     |          |
+|         | -   Museo de los Niños                                                 |          |
+|         | -   Museo Nacional de Historia Natural                                 |          |
+|         | -   Zoológico La Aurora                                                |          |
+|         | -   La Aurora International Airport                                    |          |
+|         | -   Avenida Las Américas                                               |          |
+|         | -   Contraloría General de Cuentas de la Nación                        |          |
+|         | -   Universidad del Istmo                                              |          |
+|         | -   Domo Polideportivo                                                 |          |
+|         | -   Mercado de Artesanías                                              |          |
+|         | -   Reloj de Flores                                                    |          |
+|         | -   Antiguo Aqueducto de La Aurora                                     |          |
+|         | -   Monument to Justo Rufino Barrios                                   |          |
+|         | -   Monument to Tecún Umán                                             |          |
++---------+------------------------------------------------------------------------+----------+
+| Zone 14 | -   Centro Recreativo Universitario _Los Arcos_                        |          |
+|         | -   Las Américas Avenue                                                |          |
+|         | -   Gerentes de Guatemala Association (AGG)                            |          |
++---------+------------------------------------------------------------------------+----------+
+| Zone 15 | -   Church of Jesus Christ of Latter-day Saints Guatemala City Temple  | ]]       |
++---------+------------------------------------------------------------------------+----------+
+| Zone 16 | -   Universidad Rafael Landívar                                        |          |
+|         | -   Guatemala Military Hospital                                        |          |
+|         | -   Universidad Panamericana de Guatemala                              |          |
+|         | -   Paseo Cayalá                                                       |          |
++---------+------------------------------------------------------------------------+----------+
 
 
 Transportation
@@ -282,7 +276,7 @@ Torrential downpours, similar to the more famous monsoons, occur frequently in t
 
 Piping pseudokarst
 
-Guatemala_city_sinkhole_2007_composite_view.jpg Guatemala_City_2010_sinkhole_1.jpg In February 2007, a very large, deep circular hole with vertical walls opened in northeastern Guatemala City (), killing five people. This sinkhole, which is classified by geologists as either a "piping feature" or "piping pseudokarst", was deep, and apparently was created by fluid from a sewer eroding the loose volcanic ash, limestone, and other pyroclastic deposits that underlie Guatemala City. As a result, one thousand people were evacuated from the area.[14] This piping feature has since been mitigated by City Hall by providing proper maintenance to the sewerage collection system and plans to develop the site have been proposed. However, critics believe municipal authorities have neglected needed maintenance on the city's aging sewerage system, and have speculated that more dangerous piping features are likely to develop unless action is taken.[15]
+In February 2007, a very large, deep circular hole with vertical walls opened in northeastern Guatemala City (), killing five people. This sinkhole, which is classified by geologists as either a "piping feature" or "piping pseudokarst", was deep, and apparently was created by fluid from a sewer eroding the loose volcanic ash, limestone, and other pyroclastic deposits that underlie Guatemala City. As a result, one thousand people were evacuated from the area.[14] This piping feature has since been mitigated by City Hall by providing proper maintenance to the sewerage collection system and plans to develop the site have been proposed. However, critics believe municipal authorities have neglected needed maintenance on the city's aging sewerage system, and have speculated that more dangerous piping features are likely to develop unless action is taken.[15]
 
 3 years later the 2010 Guatemala City sinkhole arose.
 

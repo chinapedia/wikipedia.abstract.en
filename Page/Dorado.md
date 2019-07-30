@@ -17,8 +17,6 @@ Dorado has been represented historically as a dolphinfish and a swordfish; the l
 
 Features
 
-Constellation_Dorado.jpg
-
 Stars
 
 Alpha Doradus is a blue-white star of magnitude 3.3, 176 light-years from Earth. It is the brightest star in Dorado. Beta Doradus is a notably bright Cepheid variable star. It is a yellow-tinged supergiant star that has a minimum magnitude of 4.1 and a maximum magnitude of 3.5. One thousand and forty light-years from Earth, Beta Doradus has a period of 9 days and 20 hours.
@@ -35,7 +33,7 @@ Deep-sky objects
 
 Because Dorado contains part of the Large Magellanic Cloud, it is rich in deep sky objects. The Large Magellanic Cloud, 25,000 light-years in diameter, is a satellite galaxy of the Milky Way Galaxy, located at a distance of 179,000 light-years. It has been deformed by its gravitational interactions with the larger Milky Way. In 1987, it became host to SN 1987A, the first supernova of 1987 and the closest since 1604.[3] This 25,000-light-year-wide galaxy contains over 10,000 million stars. All coordinates given are for Epoch J2000.0.
 
-Potw1422a.jpg is an intermediate spiral galaxy.[4]]]
+is an intermediate spiral galaxy.[4]]]
 
 -   N 180B is an emission nebula located in the Large Magellanic Cloud.
 -   NGC 1566 (RA 04h 20m 00s Dec -56° 56.3′) is a face-on spiral galaxy. It gives its name to the NGC 1566 Group of galaxies.
@@ -53,7 +51,7 @@ Potw1422a.jpg is an intermediate spiral galaxy.[4]]]
 -   NGC 2027 (RA 05h 35m 00s Dec -66° 55.0′) is an open cluster.
 -   NGC 2032 (RA 05h 35m 21s Dec -67° 34.1′; also known as "Seagull Nebula") is a nebula complex that contains four NGC designations: NGC 2029, NGC 2032, NGC 2035 and NGC 2040.
 
-Galaxy_with_a_view.jpg is a classic example of a spiral galaxy.[5]]]
+is a classic example of a spiral galaxy.[5]]]
 
 -   NGC 2074 (RA 05h 39m 03.0s, Dec −69° 29′ 54″) is an emission nebula.
 -   NGC 2080, also called the "Ghost Head Nebula", is an emission nebula that is 50 light-years wide in the Large Magellanic Cloud. It is named for the two distinct white patches that it possesses, which are regions of recent star formation. The western portion is colored green from doubly ionized oxygen, the southern portion is red from hydrogen alpha emissions, and the center region is colored yellow from both oxygen and hydrogen emissions. The western white patch, A1, has one massive, recently formed star inside. The eastern patch, A2, has several stars hidden in its dust.[6]

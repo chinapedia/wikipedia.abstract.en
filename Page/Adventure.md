@@ -22,7 +22,7 @@ The knight errant was the form the "adventure seeker" character took in the late
 
 The adventure novel exhibits these "protagonist on adventurous journey" characteristics as do many popular feature films, such as _Star Wars_[8] and _Raiders of the Lost Ark_.[9]
 
-_Alice's_Adventures_in_Wonderland_-_Carroll,_Robinson_-_S001_-_Cover.jpg's _Alice's Adventures in Wonderland_ is a well-known example of a fantasized adventure story.]]
+'s _Alice's Adventures in Wonderland_ is a well-known example of a fantasized adventure story.]]
 
 Outdoors
 

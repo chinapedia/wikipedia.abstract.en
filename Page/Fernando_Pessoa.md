@@ -5,47 +5,39 @@ Pessoa was a prolific writer, and not only under his own name, for he dreamed up
 
 Early years in Durban
 
-Fernando_Pessoa_Largo_de_São_Carlos2035.JPG Pessoa was born in Lisbon on 13 June 1888. When Pessoa was five, his father, Joaquim de Seabra Pessôa, died of tuberculosis and the following year, on 2 January, his younger brother Jorge, aged one, also died.
+Pessoa was born in Lisbon on 13 June 1888. When Pessoa was five, his father, Joaquim de Seabra Pessôa, died of tuberculosis and the following year, on 2 January, his younger brother Jorge, aged one, also died.
 
 After the second marriage of his mother, Maria Magdalena Pinheiro Nogueira, proxy wedding to João Miguel dos Santos Rosa, Fernando sailed with his mother for South Africa in the beginning of 1896, to join his stepfather, a military officer appointed Portuguese consul in Durban, capital of the former British Colony of Natal. Later on, in 1918, Pessoa wrote a letter in which refers:
 
-FP_triciclo.jpg
-
 The young Pessoa received his early education at St. Joseph Convent School, a Catholic grammar school run by Irish and French nuns. He moved to the Durban High School in April 1899, becoming fluent in English and developing an appreciation for English literature. During the Matriculation Examination, held at the time by the University of the Cape of Good Hope (forerunner of the University of Cape Town), in November 1903 he was awarded the recently created Queen Victoria Memorial Prize for best paper in English. While preparing to enter university, he also attended the Durban Commercial High School during one year, in the evening shift.
-
-Pessoa_1898.jpg
 
 Meanwhile, Pessoa started writing short stories in English, some under the name of David Merrick, many of which he left unfinished.[1] At the age of sixteen, _The Natal Mercury_[2] (edition of 6 July 1904) published his poem "Hillier did first usurp the realms of rhyme...", under the name of C. R. Anon (anonymous), along with a brief introductory text: "I read with great amusement...". In December, _The Durban High School Magazine_ published his essay "Macaulay".[3] From February to June 1905, in the section "The Man in the Moon", _The Natal Mercury_ also published at least four sonnets by Fernando Pessoa: "Joseph Chamberlain", "To England I", "To England II" and "Liberty".[4] His poems often carried humorous versions of Anon as the author's name. Pessoa started using pen names quite young. The first one, still in his childhood, was Chevalier de Pas, supposedly a French noble. In addition to Charles Robert Anon and David Merrick, the young writer also signed up, among other pen names, as Horace James Faber, Alexander Search, and other meaningful names.
 
 In the preface to _The Book of Disquiet_, Pessoa wrote about himself:
 
-Pessoa13.jpg The young Pessoa was described by a schoolfellow as follows:
+The young Pessoa was described by a schoolfellow as follows:
 
 Ten years after his arrival, he sailed for Lisbon via the Suez Canal on board the "Herzog", leaving Durban for good at the age of seventeen. This journey inspired the poems "Opiário" (dedicated to his friend, the poet and writer Mário de Sá-Carneiro) published in March 1915, in _Orpheu_ nr.1[5] and "Ode Marítima" (dedicated to the futurist painter Santa-Rita Pintor) published in June 1915, in _Orpheu_ nr.2[6] by his heteronym Álvaro de Campos.
 
 
 Adult life in Lisbon
 
-Papel_timbrado_da_Empresa_Ibis_1.jpg
-
 While his family remained in South Africa, Pessoa returned to Lisbon in 1905 to study diplomacy. After a period of illness, and two years of poor results, a student strike against the dictatorship of Prime Minister João Franco put an end to his formal studies. Pessoa became an autodidact, a devoted reader who spent a lot of time at the library. In August 1907, he started working as a practitioner at R.G. Dun & Company, an American mercantile information agency (currently D&B, Dun & Bradstreet). His grandmother died in September and left him a small inheritance, which he spent on setting up his own publishing house, the "Empreza Ibis". The venture was not successful and closed down in 1910, but the name ibis,[7] the sacred bird of Ancient Egypt and inventor of the alphabet in Greek mythology, would remain an important symbolic reference for him.
 
 Pessoa returned to his uncompleted formal studies, complementing his British education with self-directed study of Portuguese culture. The pre-revolutionary atmosphere surrounding the assassination of King Charles I and Crown Prince Luís Filipe in 1908, and the patriotic outburst resulting from the successful republican revolution in 1910, influenced the development of the budding writer; as did his step-uncle, Henrique dos Santos Rosa, a poet and retired soldier, who introduced the young Pessoa to Portuguese poetry, notably the romantics and symbolists of the 19th century.[8] In 1912, Fernando Pessoa entered the literary world with a critical essay, published in the cultural journal _A Águia_, which triggered one of the most important literary debates in the Portuguese intellectual world of the 20th century: the polemic regarding a super-Camões. In 1915 a group of artists and poets, including Fernando Pessoa, Mário de Sá-Carneiro and Almada Negreiros, created the literary magazine _Orpheu_,[9] which introduced modernist literature to Portugal. Only two issues were published (Jan–Feb–Mar and Apr–May–Jun 1915), the third failed to appear due to funding difficulties. Lost for many years, this issue was finally recovered and published in 1984.[10] Among other writers and poets, _Orpheu_ published Pessoa, orthonym, and the modernist heteronym, Álvaro de Campos.
-
-Casa_Fernando_Pessoa.jpg
 
 Along with the artist Ruy Vaz, Pessoa also founded the art journal _Athena_ (1924–25),[11] in which he published verses under the heteronyms Alberto Caeiro and Ricardo Reis. Along with his profession, as free-lance commercial translator, Fernando Pessoa undertook intense activity as a writer, literary critic and political analyst, contributing to the journals and newspapers _A Águia_ (1912–13), _A República_ (1913), _Theatro_ (1913), _A Renascença_ (1914), _O Raio_ (1914), _A Galera_ (1915), _Orpheu_ (1915), _O Jornal_ (1915), _Eh Real!_ (1915), _Exílio_ (1916), _Centauro_ (1916), _A Ideia Nacional_ (1916), _Terra Nossa_ (1916), _O Heraldo_ (1917), _Portugal Futurista_ (1917), _Acção_ (1919–20), _Ressurreição_ (1920), _Contemporânea_ (1922–26), _Athena_ (1924–25), _Diário de Lisboa_ (1924–35), _Revista de Comércio e Contabilidade_ (1926), _Sol_ (1926), _O Imparcial_ (1927), _Presença_ (1927–34), _Revista Solução Editora_ (1929–1931), _Notícias Ilustrado_ (1928–30), _Girassol_ (1930), _Revolução_ (1932), _Descobrimento_ (1932), _Fama_ (1932–33), _Fradique_ (1934) and _Sudoeste_ (1935).
 
 
 Pessoa the _flâneur_
 
-Pessoabaixa.jpg in the streets of Lisbon.]]
+in the streets of Lisbon.]]
 
 After his return to Portugal, when he was seventeen, Pessoa barely left his beloved city of Lisbon, which inspired the poems "Lisbon Revisited" (1923 and 1926), under the heteronym Álvaro de Campos. From 1905 to 1920, when his family returned from Pretoria after the death of his stepfather, he lived in fifteen different locations in the city,[12] moving from one rented room to another depending on his fluctuating finances and personal troubles.
 
 Pessoa adopted the detached perspective of the flâneur _Bernardo Soares_, another of his heteronyms.[13] This character was supposedly an accountant, working for _Vasques_, the boss of an office located in Douradores Street. _Soares_ also supposedly lived in the same downtown street, a world that Pessoa knew quite well due to his long career as freelance correspondence translator. Indeed, from 1907 until his death in 1935, Pessoa worked in twenty-one firms located in Lisbon's downtown, sometimes in two or three of them simultaneously.[14] In _The Book of Disquiet_, _Bernardo Soares_ describes some of those typical places and its "atmosphere". In his daydream soliloquy he also wrote about Lisbon in the first half of the 20th century. _Soares_ describes crowds in the streets, buildings, shops, traffic, river Tagus, the weather, and even its author, Fernando Pessoa:
 
-Brasileira_1911.jpg", established in 1905, the year Pessoa returned to Lisbon.]]
+", established in 1905, the year Pessoa returned to Lisbon.]]
 
 A statue of Pessoa sitting at a table (below) can be seen outside A Brasileira, one of the preferred places of young writers and artists of _Orpheu_'s group during the 1910s. This coffeehouse, in the aristocratic district of Chiado, is quite close to Pessoa's birthplace: 4, São Carlos Square (in front of the Opera House, where stands another statue of the writer),[15] one of the most elegant neighborhoods of Lisbon.[16] Later on, Pessoa was a frequent customer at Martinho da Arcada, a centennial coffeehouse in Comercio Square, surrounded by ministries, almost an "office" for his private business and literary concerns, where he used to meet friends in the 1920s and 1930s.
 
@@ -58,21 +50,17 @@ Pessoa translated a number of Portuguese books into English,[19] and into Portug
 
 As a translator, Pessoa had his own method:
 
-Pessoa_medium.jpg
-
 In addition, Pessoa translated into Portuguese some books by the leading theosophists Helena Blavatsky, Charles Webster Leadbeater, Annie Besant, and Mabel Collins.[25]
 
 In 1912–14, while living with his aunt "Anica" and cousins,[26] Pessoa took part in "semi-spiritualist sessions" that were carried out at home, but he was considered a "delaying element" by the other members of the sessions. Pessoa's interest in spiritualism was truly awakened in the second half of 1915, while translating theosophist books. This was further deepened in the end of March 1916, when he suddenly started having experiences where he became a medium, which were revealed through automatic writing. On 24 June, Pessoa wrote an impressive letter to his aunt and godmother, then living in Switzerland with her daughter and son in law, in which he describes this "mystery case" that surprised him.
 
 Besides automatic writing, Pessoa stated also that he had "astral" or "etherial visions" and was able to see "magnetic auras" similar to radiographic images. He felt "more curiosity than fear", but was respectful towards this phenomenon and asked secrecy, because "there is no advantage, but many disadvantages" in speaking about this. Mediumship exerted a strong influence in Pessoa's writings, who felt "sometimes suddenly being owned by something else" or having a "very curious sensation" in the right arm, which was "lifted into the air" without his will. Looking in the mirror, Pessoa saw several times what appeared to be the heteronyms: his "face fading out" and being replaced by the one of "a bearded man", or another one, four men in total.[27]
 
-Carta_astral_ricardo_reis.jpg _Ricardo Reis_ by Fernando Pessoa.]]
+_Ricardo Reis_ by Fernando Pessoa.]]
 
 Pessoa also developed a strong interest in astrology, becoming a competent astrologist. He elaborated more than 1,500 astrological charts, including well-known people like William Shakespeare, Lord Byron, Oscar Wilde, Chopin, Robespierre, Napoleon I, Benito Mussolini, Wilhelm II, Leopold II of Belgium, Victor Emmanuel III, Alfonso XIII, or the Kings Sebastian and Charles of Portugal, and Salazar. In 1915, he created the heteronym _Raphael Baldaya_, an astrologist who planned to write "System of Astrology" and "Introduction to the Study of Occultism". Pessoa established the pricing of his astrological services from 500 to 5,000 réis and made horoscopes of customers, friends and also himself and, astonishingly, of the heteronyms and also of journals as _Orpheu_.
 
 Born on 13 June, Pessoa was native of Gemini and had Scorpio as rising sign. The characters of the main heteronyms were inspired by the four astral elements: air, fire, water and earth. It means that Pessoa and his heteronyms altogether comprised the full principles of ancient knowledge. Those heteronyms were designed according to their horoscopes, all including Mercury, the planet of literature. Astrology was part of his everyday life and Pessoa kept that interest until his death, which he was able to predict with some accuracy.[28]
-
-_FP_last_writing.jpg
 
 As a mysticist, Pessoa was an enthusiast of esotericism, occultism, hermetism, numerology and alchemy. Along with spiritualism and astrology, he also paid attention to neopaganism, theosophy, rosicrucianism and freemasonry, which strongly influenced his literary work. He has declared himself a Pagan, in the sense of an "intellectual mystic of the sad race of the Neoplatonists from Alexandria" and a believer in "the Gods, their agency and their real and materially superior existence".[29] His interest in occultism led Pessoa to correspond with Aleister Crowley and later helped him to elaborate a fake suicide, when Crowley visited Portugal in 1930.[30] Pessoa translated Crowley's poem "Hymn To Pan"[31] into Portuguese, and the catalogue of Pessoa's library shows that he possessed Crowley's books _Magick in Theory and Practice_ and _Confessions_. Pessoa also wrote on Crowley's doctrine of Thelema in several fragments, including _Moral_.[32]
 
@@ -83,15 +71,13 @@ Literary critic Martin Lüdke described Pessoa's philosophy as a kind of pandeis
 
 Writing a lifetime
 
-Pessoacopo.jpg
-
 In his early years, Pessoa was influenced by major English classic poets such as Shakespeare, Milton and Pope, or romantics like Shelley, Byron, Keats, Wordsworth, Coleridge and Tennyson.[34] After his return to Lisbon in 1905, Pessoa was influenced by French symbolists and decadentists Charles Baudelaire, Maurice Rollinat, Stéphane Mallarmé; mainly by Portuguese poets as Antero de Quental, Gomes Leal, Cesário Verde, António Nobre, Camilo Pessanha or Teixeira de Pascoaes. Later on, he was also influenced by modernists as W. B. Yeats, James Joyce, Ezra Pound and T. S. Eliot, among many other writers.[35]
 
 During World War I, Pessoa wrote to a number of British publishers, namely Constable & Co. Ltd. (currently Constable & Robinson), in order to print his collection of English verse _The Mad Fiddler_ (unpublished during his lifetime), but it was refused. However, in 1920, the prestigious literary journal _Athenaeum_ included one of those poems.[36] Since the British publication failed, in 1918 Pessoa published in Lisbon two slim volumes of English verse: _Antinous_[37] and _35 Sonnets_,[38] received by the British literary press without enthusiasm.[39] Along with some friends, he founded another publishing house – Olisipo – which published in 1921 a further two English poetry volumes: _English Poems I–II_ and _English Poems III_ by Fernando Pessoa. In his publishing house, Pessoa issued also some books by his friends: _A Invenção do Dia Claro_ (The invention of the clear day) by José de Almada Negreiros, _Canções_ (Songs) by António Botto, and _Sodoma Divinizada_ (Divinized Sodome) by Raul Leal (Henoch).[40] Olisipo closed down in 1923, following the scandal known as "Literatura de Sodoma" (Literature of Sodome), which Pessoa started with his paper "António Botto e o Ideal Estético em Portugal" (António Botto and the aesthetical ideal in Portugal), published in the journal _Contemporanea_.[41]
 
 Politically, Pessoa described himself as "a British-style conservative, that is to say, liberal within conservatism and absolutely anti-reactionary," and adhered closely to the Spencerian individualism of his upbringing.[42] He described his brand of nationalism as "mystic, cosmopolitan, liberal, and anti-Catholic."[43] He was an outspoken elitist and aligned himself against communism, socialism, fascism and Catholicism.[44] He initially rallied to the First Portuguese Republic but the ensuing instability caused him to reluctantly support the military coups of 1917 and 1926 as a means of restoring order and preparing the transition to a new constitutional normality.[45][46] He wrote a pamphlet in 1928 supportive of the military dictatorship but after the establishment of the New State, in 1933, Pessoa became disenchanted with the regime and wrote critically of Salazar and fascism in general, maintaining a hostile stance towards its corporatist program, illiberalism, and censorship.[47] In the beginning of 1935, Pessoa was banned by the Salazar regime, after he wrote in defense of Freemasonry.[48][49] The regime also suppressed two articles Pessoa wrote in which he condemned Mussolini's invasion of Abyssinia and fascism as a threat to human liberty everywhere.[50]
 
-Mosteiro_dos_Jerónimos_(4165933507).jpg since 1985.]]
+since 1985.]]
 
 On 29 November 1935, Pessoa was taken to the Hospital de São Luís, suffering from abdominal pain and a high fever; there he wrote, in English, his last words: "I know not what tomorrow will bring."[51] He died the next day, 30 November 1935, around 8 pm, aged 47. His cause of death is commonly given as cirrhosis of the liver, due to alcoholism,[52][53][54] though this is disputed: others attribute his death to pancreatitis (again from alcoholism),[55][56] or other ailments.[57]
 
@@ -105,7 +91,7 @@ As the fake heteronym Coelho Pacheco, over a long period Pessoa's “triumphant 
 
 Heteronyms
 
-Lisboa-Pessoa-A_Brasileira-1.jpg».]]
+».]]
 
 Pessoa's earliest heteronym, at the age of six, was CHEVALIER DE PAS. Other childhood heteronyms included DR. PANCRÁCIO and DAVID MERRICK, followed by CHARLES ROBERT ANON, an English young man that became Pessoa's _alter ego_. In 1905/7, when Pessoa was a student at the University of Lisbon, ALEXANDER SEARCH took the place of Anon. The main reason for this was that, although Search is English, he was born in Lisbon as his author. But Search represents a transition heteronym that Pessoa used while searching to adapt to the Portuguese cultural reality. After the republican revolution, in 1910, and consequent patriotic atmosphere, Pessoa created another _alter ego_, ÁLVARO DE CAMPOS, supposedly a Portuguese naval engineer, born in Tavira and graduated in Glasgow. Translator Richard Zenith notes that Pessoa eventually established at least seventy-two heteronyms.[61] According to Pessoa himself, there were three main heteronyms: ALBERTO CAEIRO, ÁLVARO DE CAMPOS and RICARDO REIS. The heteronyms possess distinct biographies, temperaments, philosophies, appearances, writing styles and even signatures.[62]
 
@@ -232,8 +218,6 @@ Ricardo Reis is the main character of José Saramago's 1986 novel _The Year of t
 
 Álvaro de Campos
 
-Portugal_Futurista_1_1917.jpg
-
 Álvaro de Campos manifests, in a way, as a hyperbolic version of Pessoa himself. Of the three heteronyms he is the one who feels most strongly, his motto being 'to feel everything in every way.' 'The best way to travel,' he wrote, 'is to feel.' As such, his poetry is the most emotionally intense and varied, constantly juggling two fundamental impulses: on the one hand a feverish desire to be and feel everything and everyone, declaring that 'in every corner of my soul stands an altar to a different god' (alluding to Walt Whitman's desire to 'contain multitudes'), on the other, a wish for a state of isolation and a sense of nothingness.
 
 As a result, his mood and principles varied between violent, dynamic exultation, as he fervently wishes to experience the entirety of the universe in himself, in all manners possible (a particularly distinctive trait in this state being his futuristic leanings, including the expression of great enthusiasm as to the meaning of city life and its components) and a state of nostalgic melancholy, where life is viewed as, essentially, empty.
@@ -244,8 +228,6 @@ One of the poet's constant preoccupations, as part of his dichotomous character,
 Summaries of selected works
 
 _Message_
-
-1edicao_Mensagem_1934.jpg
 
 _Mensagem_,[70] written in Portuguese, is a symbolist epic made up of 44 short poems organized in three parts or Cycles:[71]
 
@@ -261,8 +243,6 @@ One of the most famous quotes from _Mensagem_ is the first line from _O Infante_
 
 Literary essays
 
-A_Aguia.JPG
-
 In 1912, Fernando Pessoa wrote a set of essays (later collected as _The New Portuguese Poetry_) for the cultural journal _A Águia_ (The Eagle), founded in Oporto, in December 1910, and run by the republican association Renascença Portuguesa.[73] In the first years of the Portuguese Republic, this cultural association was started by republican intellectuals led by the writer and poet Teixeira de Pascoaes, philosopher Leonardo Coimbra and historian Jaime Cortesão, aiming for the renewal of Portuguese culture through the aesthetic movement called Saudosismo.[74] Pessoa contributed to the journal _A Águia_ with a series of papers: 'The new Portuguese Poetry Sociologically Considered' (nr. 4), 'Relapsing...' (nr. 5) and 'The Psychological Aspect of the new Portuguese Poetry' (nrs. 9,11 and 12). These writings were strongly encomiastic to saudosist literature, namely the poetry of Teixeira de Pascoaes and Mário Beirão. The articles disclose Pessoa as a connoisseur of modern European literature and an expert of recent literary trends. On the other hand, he does not care much for a methodology of analysis or problems in the history of ideas. He states his confidence that Portugal would soon produce a great poet – a super-Camões – pledged to make an important contribution for European culture, and indeed, for humanity.[75]
 
 Philosophical essays
@@ -271,7 +251,7 @@ The philosophical notes of young Fernando Pessoa, mostly written between 1905 an
 
 Pessoa sorted the philosophical systems thus:
 
-A_Mensagem._Fernando_Pessoa.jpg.]]
+.]]
 
 1.  Relative Spiritualism and relative Materialism privilege "Spirit" or "Matter" as the main pole that organizes data around Experience.
 2.  Absolute Spiritualist and Absolute Materialist "deny all objective reality to one of the elements of Experience".

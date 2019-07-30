@@ -39,7 +39,7 @@ Discovery
 
 Korselt was the first who observed the basic properties of Carmichael numbers, but he did not give any examples. In 1910, Carmichael[8] found the first and smallest such number, 561, which explains the name "Carmichael number".
 
-Vaclav_Simerka.jpg listed the first seven Carmichael numbers]] That 561 is a Carmichael number can be seen with Korselt's criterion. Indeed, 561 = 3 ⋅ 11 ⋅ 17 is square-free and 2 ∣ 560, 10 ∣ 560 and 16 ∣ 560.
+listed the first seven Carmichael numbers]] That 561 is a Carmichael number can be seen with Korselt's criterion. Indeed, 561 = 3 ⋅ 11 ⋅ 17 is square-free and 2 ∣ 560, 10 ∣ 560 and 16 ∣ 560.
 
 The next six Carmichael numbers are :
 

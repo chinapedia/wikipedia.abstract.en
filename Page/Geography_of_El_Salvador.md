@@ -1,5 +1,3 @@
-Un-el-salvador.png
-
 El Salvador borders the North Pacific Ocean to the south and southwest, with Guatemala to the north-northwest and Honduras to the north-northeast. In the southeast, the Golfo de Fonseca separates it from Nicaragua. El Salvador is the smallest Central American country and is the only one without a coastline on the Caribbean sea. El Salvador is about the size of Israel and the states of New Jersey and Vermont, but has the population size of Lybia and Lebanon.
 
 
@@ -17,8 +15,6 @@ El Salvador has a long history of destructive earthquakes and volcanic eruptions
 
 
 Physical features
-
-El_Salvador_Topography.png El_salvador_econ_1980.jpg El_salvador_land_1980.jpg
 
 Two parallel mountain ranges cross El Salvador to the west with a central plateau between them and a narrow coastal plain hugging the Pacific. These physical features divide the country into two physiographic regions. The mountain ranges and central plateau, covering 85 percent of the land, comprise the interior highlands. The remaining coastal plains are referred to as the Pacific lowlands.
 
@@ -39,8 +35,6 @@ Izalco has erupted at least 51 times since 1770. It earned the nickname "Lightho
 
 Climate
 
-Koppen-Geiger_Map_SLV_present.svg
-
 El Salvador has a tropical climate with pronounced wet and dry seasons. Temperatures vary primarily with elevation and show little seasonal change. The Pacific lowlands are uniformly hot and humid; the central plateau and mountain areas are more moderate.
 
 The rainy season, known locally as _invierno_, or winter, extends from May to October. Almost all the annual rainfall and the highest humidity occurs during this time, and yearly rain totals, particularly on southern-facing mountain slopes, can be as high as . Protected areas and the central plateau receive lesser, although still significant, amounts. Rainfall during this season generally comes from low pressure over the Pacific and usually falls in heavy afternoon thunderstorms. Although hurricanes occasionally form in the Pacific, they seldom affect El Salvador, with the notable exception of Hurricane Mitch in 1998 (which actually formed over the Atlantic Basin) and Hurricane Emily in 1973.
@@ -51,8 +45,6 @@ Temperatures vary little with season; elevation is the primary determinant. The 
 
 
 Other facts
-
-El_Salvador_Departments_Map_Mapa_Departamentos_El_Salvador.png
 
 El Salvador's physical shape form, evokes a similar resemblance to a rugged and miniature version of the U.S State of California. During the 1980s, the country's coastal roads were compared to California's coastal roads by American surfers and El Salvador became known as the wild west of Central America, characterized by roughness and lawlessness.
 

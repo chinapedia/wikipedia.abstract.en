@@ -1,4 +1,4 @@
-Claudius_Ptolemy-_The_World.jpg (1482, Johannes Schnitzer, engraver), constructed after the coordinates in Ptolemy's Geography and using his second map projection. The translation into Latin and dissemination of _Geography_ in Europe, in the beginning of the 15th century, marked the rebirth of scientific cartography, after more than a millennium of stagnation.]]
+(1482, Johannes Schnitzer, engraver), constructed after the coordinates in Ptolemy's Geography and using his second map projection. The translation into Latin and dissemination of _Geography_ in Europe, in the beginning of the 15th century, marked the rebirth of scientific cartography, after more than a millennium of stagnation.]]
 
 CARTOGRAPHY (; from Greek χάρτης _chartēs_, "papyrus, sheet of paper, map"; and γράφειν _graphein_, "write") is the study and practice of making maps. Combining science, aesthetics, and technique, cartography builds on the premise that reality can be modeled in ways that communicate spatial information effectively.
 
@@ -15,7 +15,7 @@ Modern cartography constitutes many theoretical and practical foundations of geo
 
 History
 
-Paspardo_roccia_Vite29_rilievo_foto.jpg (I), Paspardo r. 29, topographic composition, 4th millennium BCE]] Bedolina_roccia_1_foto_rilievo.jpg'' and its tracing, 6th–4th century BCE]] Add_19391_19-20.png map of the British Isles from a manuscript of Ptolemy's _Geography_, using Greek numerals for its graticule: 52–63°N of the equator and 6–33°E from Ptolemy's Prime Meridian at the Fortunate Isles.]] T_and_O_map_Guntherus_Ziner_1472.jpg TO map of the world.]]
+(I), Paspardo r. 29, topographic composition, 4th millennium BCE]] '' and its tracing, 6th–4th century BCE]] map of the British Isles from a manuscript of Ptolemy's _Geography_, using Greek numerals for its graticule: 52–63°N of the equator and 6–33°E from Ptolemy's Prime Meridian at the Fortunate Isles.]] TO map of the world.]]
 
 Ancient times
 
@@ -31,11 +31,11 @@ Middle Ages and MAKNAe
 
 ("maps of the world") are the medieval European maps of the world. About 1,100 of these are known to have survived: of these, some 900 are found illustrating manuscripts and the remainder exist as stand-alone documents.[18]
 
-TabulaRogeriana_upside-down.jpg'', drawn by Muhammad al-Idrisi for Roger II of Sicily in 1154]]
+'', drawn by Muhammad al-Idrisi for Roger II of Sicily in 1154]]
 
 The Arab geographer Muhammad al-Idrisi produced his medieval atlas _Tabula Rogeriana (Book of Roger)_ in 1154. By combining the knowledge of Africa, the Indian Ocean, Europe, and the Far East (which he learned through contemporary accounts from Arab merchants and explorers) with the information he inherited from the classical geographers, he was able to write detailed descriptions of a multitude of countries. Along with the substantial text he had written, he created a world map influenced mostly by the Ptolemaic conception of the world, but with significant influence from multiple Arab geographers. It remained the most accurate world map for the next three centuries.[19][20] The map was divided into seven climatic zones, with detailed descriptions of each zone. As part of this work, a smaller, circular map was made depicting the south on top and Arabia in the center. Al-Idrisi also made an estimate of the circumference of the world, accurate to within 10%.[21]
 
-Europe_As_A_Queen_Sebastian_Munster_1570.jpg'' in Sebastian Münster's "_Cosmographia_", 1570]]
+'' in Sebastian Münster's "_Cosmographia_", 1570]]
 
 In the Age of Exploration, from the 15th century to the 17th century, European cartographers both copied earlier maps (some of which had been passed down for centuries) and drew their own, based on explorers' observations and new surveying techniques. The invention of the magnetic compass, telescope and sextant enabled increasing accuracy. In 1492, Martin Behaim, a German cartographer, made the oldest extant globe of the Earth.[22]
 
@@ -83,7 +83,7 @@ Due to the paucity of information and the immense difficulty of surveying during
 
 Modern period
 
-Fernão_Vaz_Dourado_1571-1.jpg (c. 1520–c. 1580). It belongs to the so-called _plane chart_ model, where observed latitudes and magnetic directions are plotted directly into the plane, with a constant scale, as if the Earth were a plane (Portuguese National Archives of Torre do Tombo, Lisbon).]] Structureforet.jpg and laser rangefinder directly in the field. Image shows mapping of forest structure (position of trees, dead wood and canopy).]]
+(c. 1520–c. 1580). It belongs to the so-called _plane chart_ model, where observed latitudes and magnetic directions are plotted directly into the plane, with a constant scale, as if the Earth were a plane (Portuguese National Archives of Torre do Tombo, Lisbon).]] and laser rangefinder directly in the field. Image shows mapping of forest structure (position of trees, dead wood and canopy).]]
 
 In cartography, technology has continually changed in order to meet the demands of new generations of mapmakers and map users. The first maps were produced manually, with brushes and parchment; so they varied in quality and were limited in distribution. The advent of magnetic devices, such as the compass and much later, magnetic storage devices, allowed for the creation of far more accurate maps and the ability to store and manipulate them digitally.
 
@@ -119,7 +119,7 @@ Map types
 
 General vs. thematic cartography
 
-Orienteringskort_bygholm_2005_detail.jpg Easter_Island_map-en.svg.]] Maps-for-free_Sierra_Nevada.png]]
+.]] ]]
 
 In understanding basic maps, the field of cartography can be divided into two general categories: general cartography and thematic cartography. General cartography involves those maps that are constructed for a general audience and thus contain a variety of features. General maps exhibit many reference and location systems and often are produced in a series. For example, the 1:24,000 scale topographic maps of the United States Geological Survey (USGS) are a standard as compared to the 1:50,000 scale Canadian maps. The government of the UK produces the classic 1:50,000 (replacing the older 1 inch to 1 mile) "Ordnance Survey" maps of the entire UK and with a range of correlated larger- and smaller-scale maps of great detail. Many private mapping companies have also produced thematic map series.
 
@@ -136,11 +136,9 @@ A topological map is a very general type of map, the kind one might sketch on a 
 
 Map design
 
-Livingston-Greenwich-map.jpg
-
 Map purpose and selection of information
 
-Arthur H. Robinson, an American cartographer influential in thematic cartography, stated that a map not properly designed "will be a cartographic failure." He also claimed, when considering all aspects of cartography, that "map design is perhaps the most complex."[56] Robinson codified the mapmaker's understanding that a map must be designed foremost with consideration to the audience and its needs. Cartography_of_Washington_State,_Mount_Rainier_National_Park,_Pinnacle_Peak_trail.gif, Pinnacle Peak trail.]] From the very beginning of mapmaking, maps "have been made for some particular purpose or set of purposes".[57] The intent of the map should be illustrated in a manner in which the percipient acknowledges its purpose in a timely fashion. The term _percipient_ refers to the person receiving information and was coined by Robinson.[58] The principle of figure-ground refers to this notion of engaging the user by presenting a clear presentation, leaving no confusion concerning the purpose of the map. This will enhance the user's experience and keep their attention. If the user is unable to identify what is being demonstrated in a reasonable fashion, the map may be regarded as useless.
+Arthur H. Robinson, an American cartographer influential in thematic cartography, stated that a map not properly designed "will be a cartographic failure." He also claimed, when considering all aspects of cartography, that "map design is perhaps the most complex."[56] Robinson codified the mapmaker's understanding that a map must be designed foremost with consideration to the audience and its needs. , Pinnacle Peak trail.]] From the very beginning of mapmaking, maps "have been made for some particular purpose or set of purposes".[57] The intent of the map should be illustrated in a manner in which the percipient acknowledges its purpose in a timely fashion. The term _percipient_ refers to the person receiving information and was coined by Robinson.[58] The principle of figure-ground refers to this notion of engaging the user by presenting a clear presentation, leaving no confusion concerning the purpose of the map. This will enhance the user's experience and keep their attention. If the user is unable to identify what is being demonstrated in a reasonable fashion, the map may be regarded as useless.
 
 Making a meaningful map is the ultimate goal. Alan MacEachren explains that a well designed map "is convincing because it implies authenticity".[59] An interesting map will no doubt engage a reader. Information richness or a map that is multivariate shows relationships within the map. Showing several variables allows comparison, which adds to the meaningfulness of the map. This also generates hypothesis and stimulates ideas and perhaps further research. In order to convey the message of the map, the creator must design it in a manner which will aid the reader in the overall understanding of its purpose. The title of a map may provide the "needed link" necessary for communicating that message, but the overall design of the map fosters the manner in which the reader interprets it.[60]
 
@@ -182,22 +180,20 @@ Quantitative symbols give a visual indication of the magnitude of the phenomenon
 
 Map key or legend
 
-Legenda_Michelin_kaart_1940.jpg
-
 The map key, or legend, describes how to interpret the map's symbols and may give details of publication and authorship.
 
 Examples of point symbols
 
-  Symbol                                                                                              Explanation
-  --------------------------------------------------------------------------------------------------- --------------------------------------------
-  Schlaegel_und_Eisen_nach_DIN_21800.svg Schlaegel_und_Eisen_nach_DIN_21800_gedreht_um_180_Grad.svg   mine (Hammer and pick symbol), former mine
-  File:Gfi-set01-castle.png File:Gfi-set01-castle1.png                                                castle, Burg
-  File:Set01-church.svg File:Set01-church1.svg                                                        church, chapel, monastery (♁)
-  File:Gfi-set01-memorial.png                                                                         monument
-  File:Gfi-set01-hostel.svg                                                                           Hotel
-  File:Gfi-set01-airport.png File:Gfi-set01-airport1.png                                              airport
-  File:Gfi-set01-railway.png File:Gfi-set01-railway1.png                                              railway station
-  File:Gfi-set01-info.png Info_Simple.svg                                                             Tourist information
+  Symbol   Explanation
+  -------- --------------------------------------------
+           mine (Hammer and pick symbol), former mine
+           castle, Burg
+           church, chapel, monastery (♁)
+           monument
+           Hotel
+           airport
+           railway station
+           Tourist information
 
 Map labeling
 

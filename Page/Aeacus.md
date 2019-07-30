@@ -1,4 +1,4 @@
-Aeacus_telemon.jpg'' by Jean-Michel Moreau le Jeune.]]AEACUS (; also spelled EACUS; Ancient Greek: Αἰακός _Aiakos_ or _Aiacos_) was a mythological king of the island of Aegina in the Saronic Gulf.
+'' by Jean-Michel Moreau le Jeune.]]AEACUS (; also spelled EACUS; Ancient Greek: Αἰακός _Aiakos_ or _Aiacos_) was a mythological king of the island of Aegina in the Saronic Gulf.
 
 
 Family
@@ -8,7 +8,7 @@ Aeacus was the son of Zeus by Aegina, a daughter of the river-god Asopus, and th
 
 Mythology
 
-Virgil_solis_ovid_metamorphosen7_11.png for Ovid's _Metamorphoses_ Book VII, 622-642. ]]
+for Ovid's _Metamorphoses_ Book VII, 622-642. ]]
 
 Birth and early days
 
@@ -21,8 +21,6 @@ A legend preserved in Pindar relates that Apollo and Poseidon took Aeacus as the
 Aeacus was also believed by the Aeginetans to have surrounded their island with high cliffs in order to protect it against pirates.[23] Several other incidents connected to the story of Aeacus are mentioned by Ovid.[24] By Endeïs Aeacus had two sons, Telamon (father of Ajax and Teucer) and Peleus (father of Achilles), and by Psamathe a son, Phocus, whom he preferred to the former two sons, both of whom conspired to kill Phocus during a contest, and then subsequently fled from their native island.
 
 In the afterlife
-
-Mack,_Ludwig,_Die_Unterwelt,_mitte.jpg
 
 After his death, Aeacus became one of the three judges in Hades (along with the Cretan brothers Rhadamanthus and Minos)[25][26] and, according to Plato, was specifically concerned with the shades of Europeans upon their arrival to the underworld.[27][28] In works of art he was depicted bearing a sceptre and the keys of Hades.[29][30] Aeacus had sanctuaries in both Athens and in Aegina,[31][32][33] and the Aeginetans regarded him as the tutelary deity of their island by celebrating the Aeacea in his honor.[34]
 

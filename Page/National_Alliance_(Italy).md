@@ -15,7 +15,7 @@ The AN logo followed a template very similar to that of the Democratic Party of 
 
 Government participation
 
-Gianfranco_Fini_2004.jpg in 2004.]] The party was part of all three House of Freedoms coalition governments led by Silvio Berlusconi. Gianfranco Fini was nominated Deputy Prime Minister after the 2001 general election and was Foreign Minister from November 2004 to May 2006.
+in 2004.]] The party was part of all three House of Freedoms coalition governments led by Silvio Berlusconi. Gianfranco Fini was nominated Deputy Prime Minister after the 2001 general election and was Foreign Minister from November 2004 to May 2006.
 
 When Gianfranco Fini visited Israel in late November 2003 in the function of Italian Deputy Prime Minister, he labeled the racial laws issued by the fascist regime in 1938 as "infamous", as also Giorgio Almirante, historic leader of MSI, had done before.[7] He also referred to the Italian Social Republic as belonging to the most shameful pages of the past, and considered fascism part of an era of "absolute evil", something which was hardly acceptable to the few remaining hardliners of the party. As a result, Alessandra Mussolini, the granddaughter of the former fascist dictator Benito Mussolini, who had been at odds with the party on a number of issues for a long time, and some hardliners left the party and formed Social Action.[8][9]
 

@@ -7,7 +7,7 @@ Although the Holy See is sometimes metonymically referred to as the "Vatican", t
 
 Terminology
 
-Roma-san_giovanni03.jpg), in the apse of Archbasilica of Saint John Lateran, symbolises the Holy See.]]
+), in the apse of Archbasilica of Saint John Lateran, symbolises the Holy See.]]
 
 The word "see" comes from the Latin word "sedes", meaning "seat", which refers to the Episcopal throne (cathedra). The term "Apostolic See" can refer to any see founded by one of the Twelve Apostles, but, when used with the definite article, it is used in the Catholic Church to refer specifically to the see of the Bishop of Rome, whom that Church sees as successor of Saint Peter.[7] While Saint Peter's Basilica in Vatican City is perhaps the church most associated with the Papacy, the actual cathedral of the Holy See is the Archbasilica of Saint John Lateran in the city of Rome.[8]
 
@@ -33,7 +33,7 @@ Organization
 
 The Holy See is one of the last remaining seven absolute monarchies in the world, along with Saudi Arabia, Swaziland, United Arab Emirates, Qatar, Brunei and Oman.[11][12][13] The pope governs the Catholic Church through the Roman Curia. The Curia consists of a complex of offices that administer church affairs at the highest level, including the Secretariat of State, nine Congregations, three Tribunals, eleven Pontifical Councils, and seven Pontifical Commissions. The Secretariat of State, under the Cardinal Secretary of State, directs and coordinates the Curia. The incumbent, Cardinal Pietro Parolin,[14] is the See's equivalent of a prime minister. Archbishop Paul Gallagher, Secretary of the Section for Relations with States of the Secretariat of State, acts as the Holy See's minister of foreign affairs. Parolin was named in his role by Pope Francis on 31 August 2013.
 
-Vatican_City_map_EN.png, the Holy See's sovereign territory]] The Secretariat of State is the only body of the Curia that is situated within Vatican City. The others are in buildings in different parts of Rome that have extraterritorial rights similar to those of embassies.
+, the Holy See's sovereign territory]] The Secretariat of State is the only body of the Curia that is situated within Vatican City. The others are in buildings in different parts of Rome that have extraterritorial rights similar to those of embassies.
 
 Among the most active of the major Curial institutions are the Congregation for the Doctrine of the Faith, which oversees the Catholic Church's doctrine; the Congregation for Bishops, which coordinates the appointment of bishops worldwide; the Congregation for the Evangelization of Peoples, which oversees all missionary activities; and the Pontifical Council for Justice and Peace, which deals with international peace and social issues.
 

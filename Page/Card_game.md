@@ -1,4 +1,4 @@
-Theodoor_Rombouts_-_Joueurs_de_cartes.jpg]]
+]]
 
 A CARD GAME is any game using playing cards as the primary device with which the game is played, be they traditional or game-specific.
 
@@ -13,7 +13,7 @@ Some games that are placed in the card game genre involve a board. The distincti
 
 Types
 
-Preferans_(card_game)_in_Croatia.2.jpg, a trick-taking card game version popular in Croatia]]
+, a trick-taking card game version popular in Croatia]]
 
 Trick-taking games
 
@@ -82,7 +82,7 @@ Typical structure of card games
 
 Number and association of players
 
-Paul_Cézanne,_1892-95,_Les_joueurs_de_carte_(The_Card_Players),_60_x_73_cm,_oil_on_canvas,_Courtauld_Institute_of_Art,_London.jpg, 1895.'']] Card_game,_circa_1930s.jpg and contract bridge were opportunities for quiet socializing, as shown in this 1930s magic lantern slide photo taken in Seattle, Washington.]] Any specific card game imposes restrictions on the number of players. The most significant dividing lines run between one-player games and two-player games, and between two-player games and multi-player games. Card games for one player are known as _solitaire_ or _patience_ card games. (See list of solitaire card games.) Generally speaking, they are in many ways special and atypical, although some of them have given rise to two- or multi-player games such as Spite and Malice.
+, 1895.'']] and contract bridge were opportunities for quiet socializing, as shown in this 1930s magic lantern slide photo taken in Seattle, Washington.]] Any specific card game imposes restrictions on the number of players. The most significant dividing lines run between one-player games and two-player games, and between two-player games and multi-player games. Card games for one player are known as _solitaire_ or _patience_ card games. (See list of solitaire card games.) Generally speaking, they are in many ways special and atypical, although some of them have given rise to two- or multi-player games such as Spite and Malice.
 
 In card games for two players, usually not all cards are distributed to the players, as they would otherwise have perfect information about the game state. Two-player games have always been immensely popular and include some of the most significant card games such as piquet, bezique, sixty-six, klaberjass, gin rummy and cribbage. Many multi-player games started as two-player games that were adapted to a greater number of players. For such adaptations a number of non-obvious choices must be made beginning with the choice of a game orientation.
 
@@ -157,13 +157,13 @@ In many circumstances, there is no need for special rules dealing with what happ
 
 Playing cards
 
-Ming_Dynasty_playing_card,_c._1400.jpg dated c. 1400 AD, Ming dynasty]]
+dated c. 1400 AD, Ming dynasty]]
 
 The same kind of games can also be played with tiles made of wood, plastic, bone, or similar materials. The most notable examples of such tile sets are dominoes, mahjong tiles and Rummikub tiles. Chinese dominoes are also available as playing cards. It is not clear whether Emperor Muzong of Liao really played with domino cards as early as 969, though.[6][7] Legend dates the invention of dominoes in the year 1112, and the earliest known domino rules are from the following decade. 500 years later domino cards were reported as a new invention.[8]
 
 The first playing cards appeared in the 9th century during Tang-dynasty China.[9] The first reference to the card game in world history dates no later than the 9th century, when the _Collection of Miscellanea at Duyang_, written by Tang Dynasty writer Su E, described Princess Tongchang (daughter of Emperor Yizong of Tang) playing the "leaf game" with members of the Wei clan (the family of the princess' husband) in 868 .[10][11] The Song dynasty statesman and historian Ouyang Xiu has noted that paper playing cards arose in connection to an earlier development in the book format from scrolls to pages.[12] During the Ming dynasty (1368–1644), characters from popular novels such as the _Water Margin_ were widely featured on the faces of playing cards.[13] A precise description of Chinese money playing cards (in four suits) survived from the 15th century. Mahjong tiles are a 19th-century invention based on three-suited money playing card decks, similar to the way in which Rummikub tiles were derived recently from modern Western playing cards.[14]
 
-Mamluk_playing_card_7.jpg playing card (king of cups), c.15th century]]
+playing card (king of cups), c.15th century]]
 
 Playing cards first appeared in Europe in the last quarter of the 14th century.[15] The earliest European references speak of a Saracen or Moorish game called _naib_, and in fact an almost complete Mamluk Egyptian deck of 52 cards in a distinct oriental design has survived from around the same time, with the four suits _swords_, _polo sticks_, _cups_ and _coins_ and the ranks _king_, _governor_, _second governor_, and _ten_ to _one_.[16][17]
 
@@ -179,7 +179,7 @@ Originally the term _knave_ was more common than "jack"; the card had been calle
 
 In the 17th century, a French, five-trick, gambling game called Bête became popular and spread to Germany, where it was called La Bete and England where it was named Beast. It was a derivative of Triomphe and was the first card game in history to introduce the concept of bidding.[20]
 
-Chinese_Mother_Of_Pearl_Gambling_Tokens.jpg Chinese handmade mother-of-pearl gaming counters were used in scoring and bidding of card games in the West during the approximate period of 1700–1840. The gaming counters would bear an engraving such as a coat of arms or a monogram to identify a family or individual. Many of the gaming counters also depict Chinese scenes, flowers or animals. Queen Charlotte, wife of George III, is one prominent British individual who is known to have played with the Chinese gaming counters. Card games such as Ombre, Quadrille and Pope Joan were popular at the time and required counters for scoring. The production of counters declined after Whist, with its different scoring method, became the most popular card game in the West.[21]
+Chinese handmade mother-of-pearl gaming counters were used in scoring and bidding of card games in the West during the approximate period of 1700–1840. The gaming counters would bear an engraving such as a coat of arms or a monogram to identify a family or individual. Many of the gaming counters also depict Chinese scenes, flowers or animals. Queen Charlotte, wife of George III, is one prominent British individual who is known to have played with the Chinese gaming counters. Card games such as Ombre, Quadrille and Pope Joan were popular at the time and required counters for scoring. The production of counters declined after Whist, with its different scoring method, became the most popular card game in the West.[21]
 
 Based on the association of card games and gambling, Pope Benedict XIV banned card games on October 17, 1750.[22]
 

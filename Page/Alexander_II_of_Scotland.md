@@ -16,8 +16,6 @@ Peace between Henry III, Louis of France, and Alexander followed on 12 September
 
 In 1222 Jon Haraldsson, the last native Scandinavian to be Jarl of Orkney, was indirectly implicated in the burning of Bishop Adam at his hall at Halkirk by local farmers when this part of Caithness was still part of the Kingdom of Norway. A contemporary chronicler, Boethius the Dane blamed Haraldsson for the bishop's death. After the Jarl swore oaths to his own innocence, Alexander took the opportunity to assert his claims to the mainland part of the Orkney jarldom. He visited Caithness in person, and hanged the majority of the farmers while mutilating the rest. His actions were applauded by Pope Honorius III, and a quarter of a century later, he was continuing to receive commendation from the Vatican, as in the reward of a bull from Celestine IV.
 
-Alexander_II_(Alba)_ii.JPG
-
 During the same period, Alexander subjugated the hitherto semi-independent district of Argyll (much smaller than the modern area by that name, it only comprised Craignish, Ardscotnish, Glassary, Glenary, and Cowal; Lorn was a separate province, while Kintyre and Knapdale were part of Suðreyar). Royal forces crushed a revolt in Galloway in 1235 without difficulty;[3] nor did an invasion attempted soon afterwards by its exiled leaders meet with success. Soon afterwards a claim for homage from Henry of England drew forth from Alexander a counter-claim to the northern English counties. The two kingdoms, however, settled this dispute by a compromise in 1237.[4] This was the Treaty of York, which defined the boundary between the two kingdoms as running between the Solway Firth (in the west) and the mouth of the River Tweed (in the east).
 
 Joan died in March 1238 in Essex. Alexander married his second wife, Marie de Coucy, the following year on 15 May 1239. Together they had one son, the future Alexander III, born in 1241.
@@ -33,7 +31,7 @@ The English chronicler Matthew Paris in his _Chronica Majora_ described Alexande
 
 Death
 
-Alexander_II,_King_of_Scotland,_coat_of_arms_(Royal_MS_14_C_VII,_146v).jpg''). The inverted shield represents the king's death in 1249. The blazon for the arms was _Or, a lion rampant and an orle fleury gules_.[10]]]
+''). The inverted shield represents the king's death in 1249. The blazon for the arms was _Or, a lion rampant and an orle fleury gules_.[10]]]
 
 Alexander attempted to persuade Ewen, the son of Duncan, Lord of Argyll, to sever his allegiance to Haakon IV of Norway. When Ewen rejected these attempts, Alexander sailed forth to compel him, but on the way he suffered a fever at the Isle of Kerrera in the Inner Hebrides.[11] He died there in 1249 and was buried at Melrose Abbey
 

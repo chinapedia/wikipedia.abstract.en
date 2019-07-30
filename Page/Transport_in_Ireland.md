@@ -11,7 +11,7 @@ In NORTHERN IRELAND, the road network and railways are in state ownership. The D
 
 Railways
 
-TOTAL Ireland's rail network
+TOTAL
 
     broad gauge
 
@@ -40,7 +40,7 @@ Ireland has one of the largest dedicated freight railways in Europe, operated by
 
 Road transport
 
-Ireland_(island).png mapping)]]
+mapping)]]
 
 Roads and cars in Ireland
 
@@ -121,8 +121,6 @@ TOTAL – 35 ships (with a volume of  or over) totalling /
     _Registered in other countries_ – 18 (2003 est.)
 
 Aviation
-
-Irish_Airports.png
 
 Ireland has five main international airports: Dublin Airport, Belfast International Airport (Aldergrove), Cork Airport, Shannon Airport and Ireland West Airport (Knock). Dublin Airport is the busiest of these carrying almost 28 million passengers per year;[19] a second terminal (T2) was opened in November 2010.[20] All provide services to Great Britain and continental Europe, while Belfast International, Cork, Dublin and Shannon also offer transatlantic services. The London to Dublin air route is the ninth busiest international air route in the world, and also the busiest international air route in Europe, with 14,500 flights between the two in 2017.[21][22] In 2015, 4.5 million people took the route, at that time, the world's second-busiest.[23] Aer Lingus is the flag carrier of Ireland, although Ryanair is the country's largest airline. Ryanair is Europe's largest low-cost carrier,[24] the second largest in terms of passenger numbers, and the world's largest in terms of international passenger numbers.[25] For several decades until 2007 Shannon was a mandatory stopover for transatlantic routes to the United States.[26] In recent years it has opened a pre-screening service allowing passengers to pass through US immigration services before departing from Ireland.
 

@@ -1,4 +1,4 @@
-Dorsai_filking_conclave30.jpg 30]] PNH_&_Emma_Bull,_Wiscon.jpg and Emma Bull, making music at Wiscon, 2006]] FILK MUSIC is a musical culture, genre, and community tied to science fiction/fantasy/horror fandom and a type of fan labor. The genre has been active since the early 1950s, and played primarily since the mid-1970s.
+30]] and Emma Bull, making music at Wiscon, 2006]] FILK MUSIC is a musical culture, genre, and community tied to science fiction/fantasy/horror fandom and a type of fan labor. The genre has been active since the early 1950s, and played primarily since the mid-1970s.
 
 
 Etymology and definitions
@@ -78,7 +78,7 @@ Filk circles can be formalized parts of larger events, such as being assigned a 
 
 Physical layout
 
-2006-05-27_Baycon_2006_Saturday_Night_Open_Filk_Circle-_Photo_by_Tony_Fabris.jpg As the name implies, a rough circle of chairs is usually formed.[15] The details depend on the available space and furniture, and it may not even end up being circular, or even have chairs at all. The purpose of the circular formation is both symbolic and functional: By having everyone face each other, it honors all participants as equals, it emphasizes both listening and performing, and it makes each participant visible to every other participant.
+As the name implies, a rough circle of chairs is usually formed.[15] The details depend on the available space and furniture, and it may not even end up being circular, or even have chairs at all. The purpose of the circular formation is both symbolic and functional: By having everyone face each other, it honors all participants as equals, it emphasizes both listening and performing, and it makes each participant visible to every other participant.
 
 A formally organized filk circle can have the chairs set up ahead of time, with the organizers estimating the number of participants and adjusting the size of the circle as best they can. A circle that is too large for the number of participants tends to feel uncomfortably empty, but a circle that is too small must enlarge as the number of participants grows. The disruption that results from attempting to enlarge a filk circle in progress can break up the flow of the songs and change the mood, so enlarging the circle is often avoided in favor of adding extra layers (concentric circles) outside the inner circle, space permitting.
 
@@ -100,7 +100,7 @@ An active and well-attended filk circle, at its peak, will usually be a somewhat
 
 Types
 
-Sfcon-music-session-ddb.jpg Filk circles are often given an organizational structure to make it easier for participants to know when it is time to perform or time to listen to other performers. There are many ways to accomplish this, but the most common types of filk circle are listed below.[20]
+Filk circles are often given an organizational structure to make it easier for participants to know when it is time to perform or time to listen to other performers. There are many ways to accomplish this, but the most common types of filk circle are listed below.[20]
 
 Bardic
 

@@ -30,7 +30,7 @@ Angola plans to build an oil refinery in Lobito in the coming years.
 
 Ports and harbors
 
-Cargamento_de_mineirios,_Namibe.JPG The government plans to build a deep-water port at Barra do Dande, north of Luanda, in Bengo province near Caxito.[3]
+The government plans to build a deep-water port at Barra do Dande, north of Luanda, in Bengo province near Caxito.[3]
 
 
 Merchant marine

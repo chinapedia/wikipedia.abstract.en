@@ -25,11 +25,9 @@ Grand Unification is reminiscent of the unification of electric and magnetic for
 
 Unification of matter particles
 
-SU(5)_representation_of_fermions.png
-
 SU(5)
 
-Georgi-Glashow_charges.svgs, weak hypercharges, and strong charges for particles in the SU(5) model, rotated by the predicted weak mixing angle, showing electric charge roughly along the vertical. In addition to Standard Model particles, the theory includes twelve colored X bosons, responsible for proton decay.]]
+s, weak hypercharges, and strong charges for particles in the SU(5) model, rotated by the predicted weak mixing angle, showing electric charge roughly along the vertical. In addition to Standard Model particles, the theory includes twelve colored X bosons, responsible for proton decay.]]
 
 is the simplest GUT. The smallest simple Lie group which contains the standard model, and upon which the first Grand Unified Theory was based, is
 
@@ -44,7 +42,7 @@ The hypothetical right-handed neutrinos are a singlet of , which means its mass 
 
 SO(10)
 
-E6GUT.svg, W, weaker isospin, W', strong g3 and g8, and baryon minus lepton, B, charges for particles in the SO(10) Grand Unified Theory, rotated to show the embedding in E₆.]]
+, W, weaker isospin, W', strong g3 and g8, and baryon minus lepton, B, charges for particles in the SO(10) Grand Unified Theory, rotated to show the embedding in E₆.]]
 
 The next simple Lie group which contains the standard model is
 

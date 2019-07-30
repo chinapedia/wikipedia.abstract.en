@@ -1,5 +1,3 @@
-Gradient2.svg
-
 In vector calculus, the GRADIENT is a multi-variable generalization of the derivative.[1] Whereas the ordinary derivative of a function of a single variable is a scalar-valued function, the gradient of a function of several variables is a vector-valued function. Specifically, the gradient of a differentiable function f of several variables, at a point P, is the vector whose components are the partial derivatives of f at P.[2][3][4][5][6][7][8][9][10]
 
 Much as the derivative of a function of a single variable represents the slope of the tangent to the graph of the function,[11] if at a point P, the gradient of a function of several variables is not the zero vector, it has the direction of greatest increase of the function at P, and its magnitude is the rate of increase in that direction.[12][13][14][15][16][17][18]
@@ -10,8 +8,6 @@ The Jacobian is the generalization of the gradient for vector-valued functions o
 
 
 Motivation
-
-Gradient_of_a_Function.tif
 
 Consider a room in which the temperature is given by a scalar field, , so at each point the temperature is . (Assume that the temperature does not change over time.) At each point in the room, the gradient of at that point will show the direction in which the temperature rises most quickly. The magnitude of the gradient will determine how fast the temperature rises in that direction.
 
@@ -24,7 +20,7 @@ This observation can be mathematically stated as follows. If the hill height fun
 
 Definition
 
-3d-gradient-cos.svg on the bottom plane.]]
+on the bottom plane.]]
 
 The gradient (or gradient vector field) of a scalar function is denoted or where (the nabla symbol) denotes the vector differential operator, del. The notation is also commonly used for the gradient. The gradient of is defined as the unique vector field whose dot product with any unit vector at each point is the directional derivative of along . That is,
 

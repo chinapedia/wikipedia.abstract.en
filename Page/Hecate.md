@@ -83,15 +83,13 @@ Hecate was known by a number of bynames:
 
 Representations
 
-AN00969955_001_l.jpg
-
-AN00866037_001_l.jpg Hecate was generally represented as three-formed. This has been speculated as being connected with the appearance of the full moon, half moon, and new moon.[58] As a virgin goddess, she remained unmarried and had no regular consort, though some traditions named her as the mother of Scylla.[59]
+Hecate was generally represented as three-formed. This has been speculated as being connected with the appearance of the full moon, half moon, and new moon.[58] As a virgin goddess, she remained unmarried and had no regular consort, though some traditions named her as the mother of Scylla.[59]
 
 The earliest Greek depictions of Hecate were not three-formed. Farnell states: "The evidence of the monuments as to the character and significance of Hecate is almost as full as that of to express her manifold and mystic nature."[60]
 
 The earliest known monument is a small terracotta found in Athens, with a dedication to Hecate, in writing of the style of the 6th century. The goddess is seated on a throne with a chaplet bound round her head; she is altogether without attributes and character, and the main historical value of this work, which is evidently of quite a general type and gets a special reference and name merely from the inscription, is that it proves the single shape to be her earlier form, and her recognition at Athens to be earlier than the Persian invasion.[61]
 
-Hekate_Kharites_Glyptothek_Munich_60.jpg, Attic, 3rd century BCE (Glyptothek, Munich)]] The 2nd-century travel writer Pausanias stated that Hecate was first depicted in triplicate by the sculptor Alkamenes in the Greek Classical period of the late 5th century BCE[62] which was placed before the temple of the Wingless Nike in Athens. Greek anthropomorphic conventions of art resisted representing her with three faces: a votive sculpture from Attica of the 3rd century BCE (_illustration, left_), shows three single images against a column; round the column of Hecate dance the Charites. Some classical portrayals show her as a triplicate goddess holding a torch, a key, serpents, daggers and numerous other items.[63] Depictions of both a single form Hekate and triple formed, as well as occasional four headed descriptions continued throughout her history.
+, Attic, 3rd century BCE (Glyptothek, Munich)]] The 2nd-century travel writer Pausanias stated that Hecate was first depicted in triplicate by the sculptor Alkamenes in the Greek Classical period of the late 5th century BCE[62] which was placed before the temple of the Wingless Nike in Athens. Greek anthropomorphic conventions of art resisted representing her with three faces: a votive sculpture from Attica of the 3rd century BCE (_illustration, left_), shows three single images against a column; round the column of Hecate dance the Charites. Some classical portrayals show her as a triplicate goddess holding a torch, a key, serpents, daggers and numerous other items.[63] Depictions of both a single form Hekate and triple formed, as well as occasional four headed descriptions continued throughout her history.
 
 In Egyptian-inspired Greek esoteric writings connected with Hermes Trismegistus, and in magical papyri of Late Antiquity she is described as having three heads: one dog, one serpent, and one horse. In other representations her animal heads include those of a cow and a boar.Yves Bonnefoy, Wendy Doniger,'' Roman and European Mythologies_, University of Chicago Press, 1992, p. 195. Hecate's triplicity is elsewhere expressed in a more Hellenic fashion in the vast frieze of the great Pergamon Altar, now in Berlin, wherein she is shown with three bodies, taking part in the battle with the Titans. In the Argolid, near the shrine of the Dioscuri, Pausanias saw the temple of Hecate opposite the sanctuary of Eileithyia; He reported the image to be the work of Scopas, stating further, "This one is of stone, while the bronze images opposite, also of Hecate, were made respectively by Polycleitus and his brother Naucydes, son of Mothon." (_Description of Greece'' 2.22.7)
 
@@ -101,7 +99,7 @@ A 4th-century BCE marble relief from Crannon in Thessaly was dedicated by a race
 
 Animals
 
-William_Blake_006.jpg'', 1795. William Blake]] T16.5Hekate.jpg
+'', 1795. William Blake]]
 
 Dogs were closely associated with Hecate in the Classical world. "In art and in literature Hecate is constantly represented as dog-shaped or as accompanied by a dog. Her approach was heralded by the howling of a dog. The dog was Hecate's regular sacrificial animal, and was often eaten in solemn sacrament."[69] The sacrifice of dogs to Hecate is attested for Thrace, Samothrace, Colophon, and Athens.[70]
 
@@ -133,7 +131,7 @@ A number of other plants (often poisonous, medicinal and/or psychoactive) are as
 
 Boundaries and crossroads
 
-Coin_of_the_Bactrian_king_Agathokles.jpg (ruled 190-180 BCE), show Zeus holding Hecate in his hand.[89]]] Hecate was associated with borders, city walls, doorways, crossroads and, by extension, with realms outside or beyond the world of the living. She appears to have been particularly associated with being 'between' and hence is frequently characterized as a "liminal" goddess. "Hecate mediated between regimes—Olympian and Titan—but also between mortal and divine spheres."[90] This liminal role is reflected in a number of her cult titles: _Apotropaia_ (that turns away/protects); _Enodia_ (on the way); _Propulaia_/_Propylaia_ (before the gate); _Triodia_/_Trioditis_ (who frequents crossroads); _Klêidouchos_ (holding the keys), etc.
+(ruled 190-180 BCE), show Zeus holding Hecate in his hand.[89]]] Hecate was associated with borders, city walls, doorways, crossroads and, by extension, with realms outside or beyond the world of the living. She appears to have been particularly associated with being 'between' and hence is frequently characterized as a "liminal" goddess. "Hecate mediated between regimes—Olympian and Titan—but also between mortal and divine spheres."[90] This liminal role is reflected in a number of her cult titles: _Apotropaia_ (that turns away/protects); _Enodia_ (on the way); _Propulaia_/_Propylaia_ (before the gate); _Triodia_/_Trioditis_ (who frequents crossroads); _Klêidouchos_ (holding the keys), etc.
 
 This function would appear to have some relationship with the iconographic association of Hecate with keys, and might also relate to her appearance with two torches, which when positioned on either side of a gate or door illuminated the immediate area and allowed visitors to be identified. "In Byzantium small temples in her honor were placed close to the gates of the city. Hecate's importance to Byzantium was above all as a deity of protection. When Philip of Macedon was about to attack the city, according to the legend she alerted the townspeople with her ever present torches, and with her pack of dogs, which served as her constant companions."[91] This suggests that Hecate's close association with dogs derived in part from the use of watchdogs, who, particularly at night, raised an alarm when intruders approached. Watchdogs were used extensively by Greeks and Romans.[92]
 
@@ -146,15 +144,13 @@ Mythology
 
 Classical period
 
-Hécate_-_Mallarmé.png goddess of the crossroads; drawing by Stéphane Mallarmé in _Les Dieux Antiques, nouvelle mythologie illustrée_ in Paris, 1880]]
+goddess of the crossroads; drawing by Stéphane Mallarmé in _Les Dieux Antiques, nouvelle mythologie illustrée_ in Paris, 1880]]
 
 Hecate has been characterized as a pre-Olympian chthonic goddess. The first literature mentioning Hecate is the _Theogony_ (c. 700 BCE) by Hesiod:
 
 According to Hesiod, she held sway over many things:
 
 Hesiod's inclusion and praise of Hekate in the _Theogony_ has been troublesome for scholars, in that he seems to hold her in high regard, while the testimony of other writers, and surviving evidence, suggests that this may have been the exception. One theory is that Hesiod's original village had a substantial Hekate following and that his inclusion of her in the _Theogony_ was a way of adding to her prestige by spreading word of her among his readers.[97] Another theory is that Hekate was mainly a household god and humble household worship could have been more pervasive and yet not mentioned as much as temple worship.[98] In Athens Hekate, along with Zeus, Hermes, Hestia, and Apollo, were very important in daily life as they were the main gods of the household.[99][100] However, it is clear that the special position given to Hekate by Zeus is upheld throughout her history by depictions found on coins depicting Hekate on the hand of Zeus[101] as highlighted in more recent research presented by d'Este and Rankine.[102]
-
-AN01020070_001_l.jpg
 
 In the Homeric Hymn to Demeter (composed c. 600 BCE), Hekate is called the "tender-hearted", a euphemism perhaps intended to emphasize her concern with the disappearance of Persephone, when she assisted Demeter with her search for Persephone following her abduction by Hades, suggesting that Demeter should speak to the god of the sun, Helios. Subsequently, Hekate became Persephone's companion on her yearly journey to and from the realms of Hades; serving as a psychopomp. Because of this association, Hekate was one of the chief goddesses of the Eleusinian Mysteries, alongside Demeter and Persephone.[103]
 

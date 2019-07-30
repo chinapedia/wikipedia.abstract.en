@@ -43,8 +43,6 @@ In Australia EVM has been codified as standards AS 4817-2003 and AS 4817-2006.
 
 Project tracking
 
-EVM_Fig1.png EVM_Fig2.png EVM_Fig3.png EVM_Fig4.png
-
 It is helpful to see an example of project tracking that does not include earned value performance management. Consider a project that has been planned in detail, including a time-phased spend plan for all elements of work. FIGURE 1 shows the cumulative budget (cost) for this project as a function of time (the blue line, labeled PV). It also shows the cumulative actual cost of the project (red line, labeled AC) through week 8. To those unfamiliar with EVM, it might appear that this project was over budget through week 4 and then under budget from week 6 through week 8. However, what is missing from this chart is any understanding of how much work has been accomplished during the project. If the project was actually completed at week 8, then the project would actually be well under budget and well ahead of schedule. If, on the other hand, the project is only 10% complete at week 8, the project is significantly over budget and behind schedule. A method is needed to measure technical performance objectively and quantitatively, and that is what EVM accomplishes.
 
 With EVM
@@ -67,7 +65,7 @@ FIGURE 4 shows all three curves together – which is a typical EVM line chart. 
 
 Scaling EVM from simple to advanced implementations
 
-EarnedValueChartNormalized.jpg.]]
+.]]
 
 THE _FOUNDATIONAL PRINCIPLE_ of EVM, mentioned above, does not depend on the size or complexity of the project. However, the _implementations_ of EVM can vary significantly depending on the circumstances. In many cases, organizations establish an all-or-nothing threshold; projects above the threshold require a full-featured (complex) EVM system and projects below the threshold are exempted. Another approach that is gaining favor is to scale EVM implementation according to the project at hand and skill level of the project team.[8][9]
 
@@ -83,8 +81,6 @@ The _second step_ is to assign a value, called planned value (PV), to each activ
 The _third step_ is to define "earning rules" for each activity. The simplest method is to apply just one earning rule, such as the 0/100 rule, to all activities. Using the 0/100 rule, no credit is earned for an element of work until it is finished. A related rule is called the 50/50 rule, which means 50% credit is earned when an element of work is started, and the remaining 50% is earned upon completion. Other fixed earning rules such as a 25/75 rule or 20/80 rule are gaining favor, because they assign more weight to finishing work than for starting it, but they also motivate the project team to identify when an element of work is started, which can improve awareness of work-in-progress. These simple earning rules work well for small or simple projects because generally each activity tends to be fairly short in duration.
 
 These initial three steps define the minimal amount of planning for simplified EVM. The _final step_ is to execute the project according to the plan and measure progress. When activities are started or finished, EV is accumulated according to the earning rule. This is typically done at regular intervals (e.g. weekly or monthly), but there is no reason why EV cannot be accumulated in near real-time, when work elements are started/completed. In fact, waiting to update EV only once per month (simply because that is when cost data are available) only detracts from a primary benefit of using EVM, which is to create a technical performance scoreboard for the project team.
-
-EVM_Fig5.png
 
 In a lightweight implementation such as described here, the project manager has not accumulated cost nor defined a detailed project schedule network (i.e. using a critical path or critical chain methodology). While such omissions are inappropriate for managing large projects, they are a common and reasonable occurrence in many very small or simple projects. Any project can benefit from using EV alone as a real-time score of progress. One useful result of this very simple approach (without schedule models and actual cost accumulation) is to compare EV curves of similar projects, as illustrated in FIGURE 5. In this example, the progress of three residential construction projects are compared by aligning the starting dates. If these three home construction projects were measured with the same PV valuations, the _relative_ schedule performance of the projects can be easily compared.
 

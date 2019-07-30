@@ -1,4 +1,4 @@
-2d_random_walk_ag_adatom_ag111.gif adatom on a ¹¹¹Ag surface [1] ]] Brownianmotion5particles150frame.gif Brownian_motion_large.gif BROWNIAN MOTION or PEDESIS (from "leaping" ) is the random motion of particles suspended in a fluid (a liquid or a gas) resulting from their collision with the fast-moving molecules in the fluid.[2]
+adatom on a ¹¹¹Ag surface [1] ]] BROWNIAN MOTION or PEDESIS (from "leaping" ) is the random motion of particles suspended in a fluid (a liquid or a gas) resulting from their collision with the fast-moving molecules in the fluid.[2]
 
 This pattern of motion typically alternates random fluctuations in a particle's position inside a fluid sub-domain with a relocation to another sub-domain. Each relocation is followed by more fluctuations within the new closed volume. This pattern describes a fluid at thermal equilibrium, defined by a given temperature. Within such a fluid, there exists no preferential direction of flow as in transport phenomena. More specifically, the fluid's overall linear and angular momenta remain null over time. It is important also to note that the kinetic energies of the molecular Brownian motions, together with those of molecular rotations and vibrations, sum up to the caloric component of a fluid's internal energy.
 
@@ -9,7 +9,7 @@ The many-body interactions that yield the Brownian pattern cannot be solved by a
 
 History
 
-The Roman philosopher Lucretius' scientific poem "On the Nature of Things" (c. 60 BC) has a remarkable description of Brownian motion of dust particles in verses 113–140 from Book II. He uses this as a proof of the existence of atoms: PerrinPlot2.svg, _Les Atomes_, three tracings of the motion of colloidal particles of radius 0.53 µm, as seen under the microscope, are displayed. Successive positions every 30 seconds are joined by straight line segments (the mesh size is 3.2 µm).[5]]]
+The Roman philosopher Lucretius' scientific poem "On the Nature of Things" (c. 60 BC) has a remarkable description of Brownian motion of dust particles in verses 113–140 from Book II. He uses this as a proof of the existence of atoms: , _Les Atomes_, three tracings of the motion of colloidal particles of radius 0.53 µm, as seen under the microscope, are displayed. Successive positions every 30 seconds are joined by straight line segments (the mesh size is 3.2 µm).[5]]]
 
 "Observe what happens when sunbeams are admitted into a building and shed light on its shadowy places. You will see a multitude of tiny particles mingling in a multitude of ways... their dancing is an actual indication of underlying movements of matter that are hidden from our sight... It originates with the atoms which move of themselves [i.e., spontaneously]. Then those small compound bodies that are least removed from the impetus of the atoms are set in motion by the impact of their invisible blows and in turn cannon against slightly larger bodies. So the movement mounts up from the atoms and gradually emerges to the level of our senses so that those bodies are in motion that we see in sunbeams, moved by blows that remain invisible."
 
@@ -28,7 +28,7 @@ Einstein's theory
 
 There are two parts to Einstein's theory: the first part consists in the formulation of a diffusion equation for Brownian particles, in which the diffusion coefficient is related to the mean squared displacement of a Brownian particle, while the second part consists in relating the diffusion coefficient to measurable physical quantities.[7] In this way Einstein was able to determine the size of atoms, and how many atoms there are in a mole, or the molecular weight in grams, of a gas.[8] In accordance to Avogadro's law this volume is the same for all ideal gases, which is 22.414 liters at standard temperature and pressure. The number of atoms contained in this volume is referred to as the Avogadro number, and the determination of this number is tantamount to the knowledge of the mass of an atom since the latter is obtained by dividing the mass of a mole of the gas by the Avogadro constant.
 
-Diffusion_of_Brownian_particles.svg, indicating that all the particles are located at the origin at time _t_ = 0, and for increasing times they become flatter and flatter until the distribution becomes uniform in the asymptotic time limit.]]
+, indicating that all the particles are located at the origin at time _t_ = 0, and for increasing times they become flatter and flatter until the distribution becomes uniform in the asymptotic time limit.]]
 
 The first part of Einstein's argument was to determine how far a Brownian particle travels in a given time interval.[9] Classical mechanics is unable to determine this distance because of the enormous number of bombardments a Brownian particle will undergo, roughly of the order of 10¹⁴ collisions per second.[10] Thus Einstein was led to consider the collective motion of Brownian particles.
 
@@ -79,7 +79,7 @@ $$\rho=\rho_0e^{-\frac{mgh}{k_{\rm B}T}},$$
 
 where _ρ_ − _ρ_₀ is the difference in density of particles separated by a height difference of _h_, _k__(B) is the Boltzmann constant (the ratio of the universal gas constant, _R_, to the Avogadro constant, _N_), and _T_ is the absolute temperature.
 
-Brownian_motion_gamboge.jpg shows the tendency for granules to move to regions of lower concentration when affected by gravity.]] Dynamic equilibrium is established because the more that particles are pulled down by gravity, the greater the tendency for the particles to migrate to regions of lower concentration. The flux is given by Fick's law,
+shows the tendency for granules to move to regions of lower concentration when affected by gravity.]] Dynamic equilibrium is established because the more that particles are pulled down by gravity, the greater the tendency for the particles to migrate to regions of lower concentration. The flux is given by Fick's law,
 
 $$J=-D\frac{d\rho}{dh},$$
 
@@ -98,8 +98,6 @@ The type of dynamical equilibrium proposed by Einstein was not new. It had been 
 An identical expression to Einstein's formula for the diffusion coefficient was also found by Walther Nernst in 1888[15] in which he expressed the diffusion coefficient as the ratio of the osmotic pressure to the ratio of the frictional force and the velocity to which it gives rise. The former was equated to the law of van 't Hoff while the latter was given by Stokes's law. He writes k′ = p₀/k for the diffusion coefficient _k′_, where p₀ is the osmotic pressure and _k_ is the ratio of the frictional force to the molecular viscosity which he assumes is given by Stokes's formula for the viscosity. Introducing the ideal gas law per unit volume for the osmotic pressure, the formula becomes identical to that of Einstein's.[16] The use of Stokes's law in Nernst's case, as well as in Einstein and Smoluchowski, is not strictly applicable since it does not apply to the case where the radius of the sphere is small in comparison with the mean free path.[17]
 
 At first, the predictions of Einstein's formula were seemingly refuted by a series of experiments by Svedberg in 1906 and 1907, which gave displacements of the particles as 4 to 6 times the predicted value, and by Henri in 1908 who found displacements 3 times greater than Einstein's formula predicted.[18] But Einstein's predictions were finally confirmed in a series of experiments carried out by Chaudesaigues in 1908 and Perrin in 1909. The confirmation of Einstein's theory constituted empirical progress for the kinetic theory of heat. In essence, Einstein showed that the motion can be predicted directly from the kinetic model of thermal equilibrium. The importance of the theory lay in the fact that it confirmed the kinetic theory's account of the second law of thermodynamics as being an essentially statistical law.[19]
-
-Brownian_Motion.ogv
 
 Smoluchowski model
 
@@ -158,7 +156,7 @@ where m ≪ M is the mass of the background stars. The gravitational force f
 
 Mathematics
 
-2D_Random_Walk_400x400.ogv on a torus. In the scaling limit, random walk approaches the Wiener process according to Donsker's theorem.]] In mathematics, Brownian motion is described by the WIENER PROCESS; a continuous-time stochastic process named in honor of Norbert Wiener. It is one of the best known Lévy processes (càdlàg stochastic processes with stationary independent increments) and occurs frequently in pure and applied mathematics, economics and physics. Wiener_process_3d.png
+on a torus. In the scaling limit, random walk approaches the Wiener process according to Donsker's theorem.]] In mathematics, Brownian motion is described by the WIENER PROCESS; a continuous-time stochastic process named in honor of Norbert Wiener. It is one of the best known Lévy processes (càdlàg stochastic processes with stationary independent increments) and occurs frequently in pure and applied mathematics, economics and physics.
 
 The Wiener process _W_(t)_ is characterized by four facts:
 
@@ -225,8 +223,6 @@ fT\right)}{5fT}
 For sufficiently long realization times, the expected value of the power spectrum of a single trajectory converges to the formally defined power spectral density S(ω), but its coefficient of variation $\gamma=\sqrt{\sigma^2}/\mu$ tends to $\sqrt{5}/2$. This implies the distribution of S⁽¹⁾(ω, T)is broad even in the infinite time limit.
 
 Riemannian manifold
-
-BMonSphere.jpg
 
 The infinitesimal generator (and hence characteristic operator) of a Brownian motion on R^(_n_) is easily calculated to be ½Δ, where Δ denotes the Laplace operator. In image processing and computer vision, the Laplacian operator has been used for various tasks such as blob and edge detection. This observation is useful in defining Brownian motion on an _m_-dimensional Riemannian manifold (_M_, _g_): a BROWNIAN MOTION ON _M_ is defined to be a diffusion on _M_ whose characteristic operator 𝒜 in local coordinates _x__(_i_), 1 ≤ _i_ ≤ _m_, is given by ½Δ_(LB), where Δ_(LB) is the Laplace–Beltrami operator given in local coordinates by
 

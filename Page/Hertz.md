@@ -1,4 +1,4 @@
-FrequencyAnimation.gif 0.5 Hz}}, 1.0 Hz and 2.0 Hz, i.e. at 0.5, 1.0 and 2.0 flashes per second, respectively. The time between each flash – the _period_ T – is given by (the reciprocal of _f_), i.e. 2, 1 and 0.5 seconds, respectively.]]
+0.5 Hz}}, 1.0 Hz and 2.0 Hz, i.e. at 0.5, 1.0 and 2.0 flashes per second, respectively. The time between each flash – the _period_ T – is given by (the reciprocal of _f_), i.e. 2, 1 and 0.5 seconds, respectively.]]
 
 The HERTZ (symbol: HZ) is the derived unit of frequency in the International System of Units (SI) and is defined as one cycle per second.[1] It is named after Heinrich Rudolf Hertz, the first person to provide conclusive proof of the existence of electromagnetic waves. Hertz are commonly expressed in multiples: kilohertz (10³ Hz, kHz), megahertz (10⁶ Hz, MHz), gigahertz (10⁹ Hz, GHz), terahertz (10¹² Hz, THz), petahertz (10¹⁵ Hz, PHz), exahertz (10¹⁸ Hz, EHz), and zettahertz (10²¹ Hz, ZHz).
 
@@ -24,7 +24,7 @@ The hertz is named after the German physicist Heinrich Hertz (1857–1894), who 
 
 Applications
 
-Wave_frequency.gif [9]wave with varying frequency]] Wiggers_Diagram.svg is an example of a non-sinusoidal periodic phenomenon that may be analyzed in terms of frequency. Two cycles are illustrated.]]
+[9]wave with varying frequency]] is an example of a non-sinusoidal periodic phenomenon that may be analyzed in terms of frequency. Two cycles are illustrated.]]
 
 Vibration
 

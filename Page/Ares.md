@@ -20,7 +20,7 @@ Inscriptions as early as Mycenaean times, and continuing into the Classical peri
 
 Character, origins, and worship
 
-S03_06_01_020_image_2561.jpg's influence. Brooklyn Museum Archives, Goodyear Archival Collection]] Ares was one of the Twelve Olympians in the archaic tradition represented by the _Iliad_ and _Odyssey._ Zeus expresses a recurring Greek revulsion toward the god when Ares returns wounded and complaining from the battlefield at Troy:
+'s influence. Brooklyn Museum Archives, Goodyear Archival Collection]] Ares was one of the Twelve Olympians in the archaic tradition represented by the _Iliad_ and _Odyssey._ Zeus expresses a recurring Greek revulsion toward the god when Ares returns wounded and complaining from the battlefield at Troy:
 
 This ambivalence is expressed also in the Greeks' association of Ares with the Thracians, whom they regarded as a barbarous and warlike people.[22] Thrace was Ares's birthplace, his true home, and his refuge after the affair with Aphrodite was exposed to the general mockery of the other gods.
 
@@ -43,7 +43,7 @@ Noting how Greek mythological Amazons are devotees of Ares and most likely based
 
 Attributes
 
-Ares_Borghese2.gif_.]] The birds of Ares (_Ornithes Areioi'') were a flock of feather-dart-dropping birds that guarded the Amazons' shrine of the god on a coastal island in the Black Sea.[27]
+_.]] The birds of Ares (_Ornithes Areioi'') were a flock of feather-dart-dropping birds that guarded the Amazons' shrine of the god on a coastal island in the Black Sea.[27]
 
 
 Cult and ritual
@@ -66,7 +66,7 @@ According to Pausanias, local inhabitants of Therapne, Sparta, recognized Thero,
 
 Consorts and children
 
-Areopagus_from_the_Acropolis.jpg as viewed from the Acropolis.]]
+as viewed from the Acropolis.]]
 
 The union of Ares and Aphrodite created the gods Eros, Anteros, Phobos, Deimos, Harmonia, and Adrestia. While Eros's and Anteros's godly stations favored their mother, Adrestia preferred to emulate her father, often accompanying him to war.[37] Other versions include Alcippe as one of his daughters.
 
@@ -147,7 +147,7 @@ Founding of Thebes
 
 One of the roles of Ares was expressed in mainland Greece as the founding myth of Thebes: Ares was the progenitor of the water-dragon slain by Cadmus, for the dragon's teeth were sown into the ground as if a crop and sprang up as the fully armored autochthonic Spartoi. To propitiate Ares, Cadmus took as a bride Harmonia, a daughter of Ares's union with Aphrodite. In this way, Cadmus harmonized all strife and founded the city of Thebes.[61]
 
-Ares_Ludovisi_Altemps_Inv8602_n2.jpg, Roman version of a Greek original c. 320 BC, with 17th-century restorations by Bernini]]
+, Roman version of a Greek original c. 320 BC, with 17th-century restorations by Bernini]]
 
 Ares and Aphrodite
 

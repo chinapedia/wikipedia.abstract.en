@@ -17,7 +17,7 @@ Habitat
 
 _Drosophila_ species are found all around the world, with more species in the tropical regions. _Drosophila_ made their way to the Hawaiian Islands and radiated into over 800 species.[2] They can be found in deserts, tropical rainforest, cities, swamps, and alpine zones. Some northern species hibernate. Most species breed in various kinds of decaying plant and fungal material, including fruit, bark, slime fluxes, flowers, and mushrooms. The larvae of at least one species, _D. suzukii_, can also feed in fresh fruit and can sometimes be a pest.[3] A few species have switched to being parasites or predators. Many species can be attracted to baits of fermented bananas or mushrooms, but others are not attracted to any kind of baits. Males may congregate at patches of suitable breeding substrate to compete for the females, or form leks, conducting courtship in an area separate from breeding sites.
 
-Several _Drosophila_ species, including _D. melanogaster_, _D. immigrans_, and _D. simulans_, are closely associated with humans, and are often referred to as domestic species. These and other species (_D. subobscura_, _Zaprionus indianus_[4][5][6]) have been accidentally introduced around the world by human activities such as fruit transports. Drosophila_residua_head.jpg
+Several _Drosophila_ species, including _D. melanogaster_, _D. immigrans_, and _D. simulans_, are closely associated with humans, and are often referred to as domestic species. These and other species (_D. subobscura_, _Zaprionus indianus_[4][5][6]) have been accidentally introduced around the world by human activities such as fruit transports.
 
 Reproduction
 
@@ -60,7 +60,7 @@ _Drosophila_ species are prey for many generalist predators such as robber flies
 
 Systematics
 
-Drosophila_setosimentum.jpg'', a species of Hawaiian picture-wing fly]] The genus _Drosophila_ as currently defined is paraphyletic (see below) and contains 1,450 described species,[61][62] while the total number of species is estimated at thousands.[63] The majority of the species are members of two subgenera: _Drosophila_ (about 1,100 species) and _Sophophora_ (including _D. (S.) melanogaster_; around 330 species). The Hawaiian species of _Drosophila_ (estimated to be more than 500, with roughly 380 species described) are sometimes recognized as a separate genus or subgenus, _Idiomyia_,[64][65] but this is not widely accepted. About 250 species are part of the genus _Scaptomyza_, which arose from the Hawaiian _Drosophila_ and later recolonized continental areas.
+'', a species of Hawaiian picture-wing fly]] The genus _Drosophila_ as currently defined is paraphyletic (see below) and contains 1,450 described species,[61][62] while the total number of species is estimated at thousands.[63] The majority of the species are members of two subgenera: _Drosophila_ (about 1,100 species) and _Sophophora_ (including _D. (S.) melanogaster_; around 330 species). The Hawaiian species of _Drosophila_ (estimated to be more than 500, with roughly 380 species described) are sometimes recognized as a separate genus or subgenus, _Idiomyia_,[64][65] but this is not widely accepted. About 250 species are part of the genus _Scaptomyza_, which arose from the Hawaiian _Drosophila_ and later recolonized continental areas.
 
 Evidence from phylogenetic studies suggests these genera arose from within the genus _Drosophila_:[66][67]
 

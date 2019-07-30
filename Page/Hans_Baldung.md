@@ -1,5 +1,3 @@
-Hans_Baldung_Grien_-_Portrait_of_a_Man_-_Google_Art_Project.jpg
-
 HANS BALDUNG GRIEN or GRÜN ( September 1545) was a German artist in painting and printmaking who was considered the most gifted student of Albrecht Dürer. Throughout his lifetime, Baldung developed a distinctive style, full of color, expression and imagination. His talents were varied, and he produced a great and extensive variety of work including portraits, woodcuts, altarpieces, drawings, tapestries, allegories and mythological motifs.
 
 
@@ -9,8 +7,6 @@ Hans Baldung was born in Swabia, Germany around the year 1484 to a family of int
 
 
 Life as a student of Dürer
-
-Hans_Baldung_Grien_-_Die_Kreuzigung_Christi_-_Google_Art_Project.jpg
 
 Beginning in 1503, Baldung was an apprentice for the most well renowned German artist of the day: Albrecht Dürer. Here, he may have been given his nickname “Grien.” This name is thought to have come foremost from a preference to the color green: he seems to have worn green clothing. He probably also got this nickname to distinguish him from at least two other Hanses in Dürer's shop, Hans Schäufelein and Hans Suess von Kulmbach. He later included the name "Grien" in his monogram, and it has also been suggested that the name came from, or consciously echoed, "grienhals", a German word for witch—one of his signature themes. Hans quickly picked up Dürer's influence and style, and they became good friends: Baldung managed Dürer's workshop during the latter's second sojourn in Venice. In his later trip to the Netherlands in 1521 Dürer's diary shows that he took with him and sold prints by Baldung. On Dürer's death Baldung was sent a lock of his hair, which suggests a close friendship. Near the end of his apprenticeship, Grien oversaw the production of stained glass, woodcuts and engravings, and therefore developed an affinity for them.
 
@@ -22,7 +18,7 @@ In 1509, when Baldung’s apprenticeship was complete, he moved back to Strasbou
 
 Witchcraft and religious imagery
 
-Hans_Baldung_Grien_-_The_Trinity_and_Mystic_Pietà_-_Google_Art_Project.jpg'']]
+'']]
 
 In addition to traditional religious subjects, Baldung was concerned during these years with the profane theme of the imminence of death and with scenes of sorcery and witchcraft. He helped introduce supernatural and erotic themes into German art, although these were already amply present in his master's work. Most famously, he depicted witches, also a local interest: Strasbourg's humanists studied witchcraft and its bishop was charged with finding and prosecuting witches. His most characteristic paintings are small in scale; a series of puzzling, often erotic allegories and mythological works. The number of Hans Baldung's religious works diminished with the Protestant Reformation, which generally repudiated church art as either wasteful or idolatrous. But earlier, around the same time that he produced Adam and Eve, the artist became interested in themes related to death, the supernatural, witchcraft, sorcery, and the relation between the sexes. Baldung’s fascination with witchcraft lasted to the end of his career.
 
@@ -36,8 +32,6 @@ Baldung also regularly incorporated scenes of witches flying in his art, a chara
 Work
 
 Painting
-
-Hans_Baldung_Grien_-_Bildnis_einer_Dame_(Museo_Thyssen-Bornemisza).jpg
 
 Throughout his life, Baldung painted numerous portraits, known for their sharp characterizations. While Dürer rigorously details his models, Baldung's style differs by focusing more on the personality of the represented character, an abstract conception of the model's state of mind. Baldung settled eventually in Strasbourg and then to Freiburg im Breisgau, where he executed what is held to be his masterpiece. Here in painted an eleven-panel altarpiece for the Freiburg Cathedral, still intact today, depicting scenes from the life of the Virgin, including, The Annunciation, The Visitation, The Nativity, The Flight into Egypt, The Crucifixion, Four Saints and The Donators. These depictions were a large part of the artist’s greater body of work containing several renowned pieces of the Virgin.
 
@@ -53,8 +47,6 @@ As a portrait painter he is well known. He drew Charles V, as well as Maximilian
 
 
 Selected works
-
-Hans_Baldung_-_Mater_Dolorosa_(detail)_-_WGA01206.jpg
 
 -   Two altar wings (Charles the Great, St. George), Augsburg, State Gallery.
 -   The birth Christ, Basel, Kunstmuseum Basel, 1510

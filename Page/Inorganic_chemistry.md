@@ -1,18 +1,9 @@
-INORGANIC COMPOUNDS SHOW RICH VARIETY:
-A: Diborane features unusual bonding
-B: Caesium chloride has an archetypal crystal structure
-C: Fp₂ is an organometallic complex
-D: Silicone's uses range from breast implants to Silly Putty
-E: Grubbs' catalyst won the 2005 Nobel Prize for its discoverer
-F: Zeolites find extensive use as molecular sieves
-G: Copper(II) acetate surprised theoreticians with its diamagnetism
-
 INORGANIC CHEMISTRY deals with the synthesis and behavior of inorganic and organometallic compounds. This field covers all chemical compounds except the myriad organic compounds (carbon-based compounds, usually containing C-H bonds), which are the subjects of organic chemistry. The distinction between the two disciplines is far from absolute, as there is much overlap in the subdiscipline of organometallic chemistry. It has applications in every aspect of the chemical industry, including catalysis, materials science, pigments, surfactants, coatings, medications, fuels, and agriculture.[1]
 
 
 Key concepts
 
-Potassium-oxide-3D-vdW.png, K₂O]] Many inorganic compounds are ionic compounds, consisting of cations and anions joined by ionic bonding. Examples of salts (which are ionic compounds) are magnesium chloride MgCl₂, which consists of magnesium cations Mg²⁺ and chloride anions Cl^(−); or sodium oxide Na₂O, which consists of sodium cations Na⁺ and oxide anions O^(2−). In any salt, the proportions of the ions are such that the electric charges cancel out, so that the bulk compound is electrically neutral. The ions are described by their oxidation state and their ease of formation can be inferred from the ionization potential (for cations) or from the electron affinity (anions) of the parent elements.
+, K₂O]] Many inorganic compounds are ionic compounds, consisting of cations and anions joined by ionic bonding. Examples of salts (which are ionic compounds) are magnesium chloride MgCl₂, which consists of magnesium cations Mg²⁺ and chloride anions Cl^(−); or sodium oxide Na₂O, which consists of sodium cations Na⁺ and oxide anions O^(2−). In any salt, the proportions of the ions are such that the electric charges cancel out, so that the bulk compound is electrically neutral. The ions are described by their oxidation state and their ease of formation can be inferred from the ionization potential (for cations) or from the electron affinity (anions) of the parent elements.
 
 Important classes of inorganic compounds are the oxides, the carbonates, the sulfates, and the halides. Many inorganic compounds are characterized by high melting points. Inorganic salts typically are poor conductors in the solid state. Other important features include their high melting point and ease of crystallization. Where some salts (e.g., NaCl) are very soluble in water, others (e.g., SiO₂) are not.
 
@@ -41,7 +32,7 @@ Different classifications are:
 
 Coordination compounds
 
-CoEDTA-anion-3D-balls.png chelates an octahedrally coordinated Co³⁺ ion in [Co(EDTA)]^(−)]]
+chelates an octahedrally coordinated Co³⁺ ion in [Co(EDTA)]^(−)]]
 
 Classical coordination compounds feature metals bound to "lone pairs" of electrons residing on the main group atoms of ligands such as H₂O, NH₃, Cl^(−), and CN^(−). In modern coordination compounds almost all organic and inorganic compounds can be used as ligands. The "metal" usually is a metal from the groups 3-13, as well as the _trans_-lanthanides and _trans_-actinides, but from a certain perspective, all chemical compounds can be described as coordination complexes.
 
@@ -51,7 +42,7 @@ The stereochemistry of coordination complexes can be quite rich, as hinted at by
 
 Main group compounds
 
-Tetrasulfur-tetranitride-3D-vdW.png, S₄N₄, is a main group compound that continues to intrigue chemists]] These species feature elements from groups I, II, III, IV, V,VI, VII, 0 (excluding hydrogen) of the periodic table. Due to their often similar reactivity, the elements in group 3 (Sc, Y, and La) and group 12 (Zn, Cd, and Hg) are also generally included, and the lanthanides and actinides are sometimes included as well.[4]
+, S₄N₄, is a main group compound that continues to intrigue chemists]] These species feature elements from groups I, II, III, IV, V,VI, VII, 0 (excluding hydrogen) of the periodic table. Due to their often similar reactivity, the elements in group 3 (Sc, Y, and La) and group 12 (Zn, Cd, and Hg) are also generally included, and the lanthanides and actinides are sometimes included as well.[4]
 
 Main group compounds have been known since the beginnings of chemistry, e.g., elemental sulfur and the distillable white phosphorus. Experiments on oxygen, O₂, by Lavoisier and Priestley not only identified an important diatomic gas, but opened the way for describing compounds and reactions according to stoichiometric ratios. The discovery of a practical synthesis of ammonia using iron catalysts by Carl Bosch and Fritz Haber in the early 1900s deeply impacted mankind, demonstrating the significance of inorganic chemical synthesis. Typical main group compounds are SiO₂, SnCl₄, and N₂O. Many main group compounds can also be classed as “organometallic”, as they contain organic groups, e.g., B(CH₃)₃). Main group compounds also occur in nature, e.g., phosphate in DNA, and therefore may be classed as bioinorganic. Conversely, organic compounds lacking (many) hydrogen ligands can be classed as “inorganic”, such as the fullerenes, buckytubes and binary carbon oxides.
 
@@ -67,7 +58,7 @@ Transition metal compounds show a rich coordination chemistry, varying from tetr
 
 Organometallic compounds
 
-N-butyllithium-tetramer-3D-balls.pngs are most often found in polymeric form, such as _n_-butyllithium shown here]]
+s are most often found in polymeric form, such as _n_-butyllithium shown here]]
 
 Usually, organometallic compounds are considered to contain the M-C-H group.[5] The metal (M) in these species can either be a main group element or a transition metal. Operationally, the definition of an organometallic compound is more relaxed to include also highly lipophilic complexes such as metal carbonyls and even metal alkoxides.
 
@@ -77,13 +68,13 @@ Organometallic compounds are mainly considered a special category because organi
 
 Cluster compounds
 
-Decaborane-3D-balls.png is a powerfully toxic cluster compound of boron]] Fe4S4-3D-vdW.pngs are central components of iron-sulfur proteins, essential for human metabolism]] Clusters can be found in all classes of chemical compounds. According to the commonly accepted definition, a cluster consists minimally of a triangular set of atoms that are directly bonded to each other. But metal-metal bonded dimetallic complexes are highly relevant to the area. Clusters occur in "pure" inorganic systems, organometallic chemistry, main group chemistry, and bioinorganic chemistry. The distinction between very large clusters and bulk solids is increasingly blurred. This interface is the chemical basis of nanoscience or nanotechnology and specifically arise from the study of quantum size effects in cadmium selenide clusters. Thus, large clusters can be described as an array of bound atoms intermediate in character between a molecule and a solid.
+is a powerfully toxic cluster compound of boron]] s are central components of iron-sulfur proteins, essential for human metabolism]] Clusters can be found in all classes of chemical compounds. According to the commonly accepted definition, a cluster consists minimally of a triangular set of atoms that are directly bonded to each other. But metal-metal bonded dimetallic complexes are highly relevant to the area. Clusters occur in "pure" inorganic systems, organometallic chemistry, main group chemistry, and bioinorganic chemistry. The distinction between very large clusters and bulk solids is increasingly blurred. This interface is the chemical basis of nanoscience or nanotechnology and specifically arise from the study of quantum size effects in cadmium selenide clusters. Thus, large clusters can be described as an array of bound atoms intermediate in character between a molecule and a solid.
 
 -   Examples: Fe₃(CO)₁₂, B₁₀H₁₄, [[Molybdenum(II)_chloride|[Mo₆Cl₁₄]^(2−)]], 4Fe-4S
 
 Bioinorganic compounds
 
-Vitamin-B12-Co-centre-3D-balls.png centre of Vitamin B₁₂]]
+centre of Vitamin B₁₂]]
 
 By definition, these compounds occur in nature, but the subfield includes anthropogenic species, such as pollutants (e.g., methylmercury) and drugs (e.g., Cisplatin).[6] The field, which incorporates many aspects of biochemistry, includes many kinds of compounds, e.g., the phosphates in DNA, and also metal complexes containing ligands that range from biological macromolecules, commonly peptides, to ill-defined species such as humic acid, and to water (e.g., coordinated to gadolinium complexes employed for MRI). Traditionally bioinorganic chemistry focuses on electron- and energy-transfer in proteins relevant to respiration. Medicinal inorganic chemistry includes the study of both non-essential and essential elements with applications to diagnosis and therapies.
 
@@ -91,7 +82,7 @@ By definition, these compounds occur in nature, but the subfield includes anthro
 
 Solid state compounds
 
-YBa2Cu3O7.png, or YBCO, is a high temperature superconductor able to levitate above a magnet when colder than its critical temperature of about 90 K (−183 °C)]] This important area focuses on structure,[7] bonding, and the physical properties of materials. In practice, solid state inorganic chemistry uses techniques such as crystallography to gain an understanding of the properties that result from collective interactions between the subunits of the solid. Included in solid state chemistry are metals and their alloys or intermetallic derivatives. Related fields are condensed matter physics, mineralogy, and materials science.
+, or YBCO, is a high temperature superconductor able to levitate above a magnet when colder than its critical temperature of about 90 K (−183 °C)]] This important area focuses on structure,[7] bonding, and the physical properties of materials. In practice, solid state inorganic chemistry uses techniques such as crystallography to gain an understanding of the properties that result from collective interactions between the subunits of the solid. Included in solid state chemistry are metals and their alloys or intermetallic derivatives. Related fields are condensed matter physics, mineralogy, and materials science.
 
 -   Examples: silicon chips, zeolites, YBa₂Cu₃O₇
 
@@ -104,11 +95,11 @@ Exceptions to theories, qualitative and quantitative, are extremely important in
 
 Qualitative theories
 
-Ferricyanide-3D.png explains why [[Ferricyanide|[Fe^(III)(CN)₆]^(3−)]] has only one unpaired electron]] Inorganic chemistry has greatly benefited from qualitative theories. Such theories are easier to learn as they require little background in quantum theory. Within main group compounds, VSEPR theory powerfully predicts, or at least rationalizes, the structures of main group compounds, such as an explanation for why NH₃ is pyramidal whereas ClF₃ is T-shaped. For the transition metals, crystal field theory allows one to understand the magnetism of many simple complexes, such as why [[Ferricyanide|[Fe^(III)(CN)₆]^(3−)]] has only one unpaired electron, whereas [Fe^(III)(H₂O)₆]³⁺ has five. A particularly powerful qualitative approach to assessing the structure and reactivity begins with classifying molecules according to electron counting, focusing on the numbers of valence electrons, usually at the central atom in a molecule.
+explains why [[Ferricyanide|[Fe^(III)(CN)₆]^(3−)]] has only one unpaired electron]] Inorganic chemistry has greatly benefited from qualitative theories. Such theories are easier to learn as they require little background in quantum theory. Within main group compounds, VSEPR theory powerfully predicts, or at least rationalizes, the structures of main group compounds, such as an explanation for why NH₃ is pyramidal whereas ClF₃ is T-shaped. For the transition metals, crystal field theory allows one to understand the magnetism of many simple complexes, such as why [[Ferricyanide|[Fe^(III)(CN)₆]^(3−)]] has only one unpaired electron, whereas [Fe^(III)(H₂O)₆]³⁺ has five. A particularly powerful qualitative approach to assessing the structure and reactivity begins with classifying molecules according to electron counting, focusing on the numbers of valence electrons, usually at the central atom in a molecule.
 
 Molecular symmetry group theory
 
-Nitrogen-dioxide-3D-vdW.png, NO₂, exhibits _C_(2v)_ symmetry]] A central construct in inorganic chemistry is the theory of molecular symmetry.[8] Mathematical group theory provides the language to describe the shapes of molecules according to their point group symmetry. Group theory also enables factoring and simplification of theoretical calculations.
+, NO₂, exhibits _C_(2v)_ symmetry]] A central construct in inorganic chemistry is the theory of molecular symmetry.[8] Mathematical group theory provides the language to describe the shapes of molecules according to their point group symmetry. Group theory also enables factoring and simplification of theoretical calculations.
 
 Spectroscopic features are analyzed and described with respect to the symmetry properties of the, _inter alia_, vibrational or electronic states. Knowledge of the symmetry properties of the ground and excited states allows one to predict the numbers and intensities of absorptions in vibrational and electronic spectra. A classic application of group theory is the prediction of the number of C-O vibrations in substituted metal carbonyl complexes. The most common applications of symmetry to spectroscopy involve vibrational and electronic spectra.
 

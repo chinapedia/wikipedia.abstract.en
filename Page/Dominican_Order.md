@@ -2,7 +2,7 @@ The ORDER OF PREACHERS (, postnominal abbreviation OP), also known as the DOMINI
 
 Founded to preach the Gospel and to oppose heresy, the teaching activity of the order and its scholastic organisation placed the Preachers in the forefront of the intellectual life of the Middle Ages.[2] The order is famed for its intellectual tradition, having produced many leading theologians and philosophers.[3] In the year 2018 there were 5,747 Dominican friars, including 4,299 priests.[4] The Dominican Order is headed by the Master of the Order, as of 2019, Gerard Timoner III.[5] Mary Magdalene and Saint Catherine of Alexandria are the co-patronesses of the Order.
 
-The_Perugia_Altarpiece,_Side_Panel_Depicting_St._Dominic.jpg (1170–1221), portrayed in the _Perugia Altarpiece_ by Fra Angelico. Galleria Nazionale dell'Umbria, Perugia.]]
+(1170–1221), portrayed in the _Perugia Altarpiece_ by Fra Angelico. Galleria Nazionale dell'Umbria, Perugia.]]
 
 A number of other names have been used to refer to both the order and its members.
 
@@ -13,7 +13,7 @@ A number of other names have been used to refer to both the order and its member
 
 Foundation
 
-Doctrina-cristiana.jpg'' catechism in Spanish and Tagalog with an eight-pointed star (a symbol of the Blessed Virgin Mary) over his head. Woodcut cover. Printed in Manila in 1593]]
+'' catechism in Spanish and Tagalog with an eight-pointed star (a symbol of the Blessed Virgin Mary) over his head. Woodcut cover. Printed in Manila in 1593]]
 
 The Dominican Order came into being in the Middle Ages at a time when men of God were no longer expected to stay behind the walls of a cloister. Instead, they travelled among the people, taking as their examples the apostles of the primitive Church. Out of this ideal emerged two orders of mendicant friars: one, the Friars Minor, was led by Francis of Assisi; the other, the Friars Preachers, by Dominic of Guzman. Like his contemporary, Francis, Dominic saw the need for a new type of organization, and the quick growth of the Dominicans and Franciscans during their first century of existence confirms that the orders of mendicant friars met a need.[9]
 
@@ -23,7 +23,7 @@ Dominic inspired his followers with loyalty to learning and virtue, a deep recog
 
 Saint Dominic
 
-Santo_Domingo_en_oración.jpg (1170–1221), portrait by El Greco, about 1600]] As an adolescent, he had a particular love of theology and the Scriptures became the foundation of his spirituality.[12] During his studies in Palencia, Spain, he experienced a dreadful famine, prompting Dominic to sell all of his beloved books and other equipment to help his neighbors.[13] After he completed his studies, Bishop Martin Bazan and Prior Diego d'Achebes appointed Dominic to the cathedral chapter and he became a Canon Regular under the Rule of Saint Augustine and the Constitutions for the cathedral church of Osma. At the age of twenty-four or twenty-five, he was ordained to the priesthood.[14]
+(1170–1221), portrait by El Greco, about 1600]] As an adolescent, he had a particular love of theology and the Scriptures became the foundation of his spirituality.[12] During his studies in Palencia, Spain, he experienced a dreadful famine, prompting Dominic to sell all of his beloved books and other equipment to help his neighbors.[13] After he completed his studies, Bishop Martin Bazan and Prior Diego d'Achebes appointed Dominic to the cathedral chapter and he became a Canon Regular under the Rule of Saint Augustine and the Constitutions for the cathedral church of Osma. At the age of twenty-four or twenty-five, he was ordained to the priesthood.[14]
 
 Albigensian Crusade on Cathars
 
@@ -42,7 +42,7 @@ Dominic founded the Dominican Order in 1215 at a time when men of God were no lo
 
 Middle Ages
 
-Chambre-de-st-dominique.jpg, is considered the place where the Order was born.]]
+, is considered the place where the Order was born.]]
 
 Dominic established a religious community in Toulouse in 1214, to be governed by the rule of Saint Augustine[23] and statutes to govern the life of the friars, including the Primitive Constitution.[24]
 
@@ -54,7 +54,7 @@ The Order of Preachers was approved in December 1216 and January 1217 by Pope Ho
 
 On August 15, 1217, Dominic dispatched seven of his followers to the great university center of Paris to establish a priory focused on study and preaching. The Convent of St. Jacques, would eventually become the order's first _studium generale_. Saint Dominic was to establish similar foundations at other university towns of the day, Bologna in 1218, Palencia and Montpellier in 1220, and Oxford just before his death in 1221.[30]
 
-Saint_Thomas_Aquinas_Diego_Velázquez.jpg (1225–1274), considered by the Catholic Church to be its greatest medieval theologian, is girded by angels with a mystical belt of purity after his proof of chastity.]] Miguel_Cabrera_-_Allegory_of_the_Virgin_Patroness_of_the_Dominicans_-_Google_Art_Project.jpg.]] In 1219 Pope Honorius III invited Dominic and his companions to take up residence at the ancient Roman basilica of Santa Sabina, which they did by early 1220. Before that time the friars had only a temporary residence in Rome at the convent of San Sisto Vecchio which Honorius III had given to Dominic circa 1218 intending it to become a convent for a reformation of nuns at Rome under Dominic's guidance. In May 1220 at Bologna the order's first General Chapter mandated that each new priory of the order maintain its own _studium conventuale_, thus laying the foundation of the Dominican tradition of sponsoring widespread institutions of learning.[31] The official foundation of the Dominican convent at Santa Sabina with its _studium conventuale_ occurred with the legal transfer of property from Honorius III to the Order of Preachers on June 5, 1222.[32] This _studium_ was transformed into the order's first _studium provinciale_ by Saint Thomas Aquinas in 1265. Part of the curriculum of this _studium_ was relocated in 1288 at the _studium_ of Santa Maria sopra Minerva which in the 16th century world be transformed into the College of Saint Thomas (). In the 20th century the college would be relocated to the convent of Saints Dominic and Sixtus and would be transformed into the Pontifical University of Saint Thomas Aquinas, _Angelicum_.
+(1225–1274), considered by the Catholic Church to be its greatest medieval theologian, is girded by angels with a mystical belt of purity after his proof of chastity.]] .]] In 1219 Pope Honorius III invited Dominic and his companions to take up residence at the ancient Roman basilica of Santa Sabina, which they did by early 1220. Before that time the friars had only a temporary residence in Rome at the convent of San Sisto Vecchio which Honorius III had given to Dominic circa 1218 intending it to become a convent for a reformation of nuns at Rome under Dominic's guidance. In May 1220 at Bologna the order's first General Chapter mandated that each new priory of the order maintain its own _studium conventuale_, thus laying the foundation of the Dominican tradition of sponsoring widespread institutions of learning.[31] The official foundation of the Dominican convent at Santa Sabina with its _studium conventuale_ occurred with the legal transfer of property from Honorius III to the Order of Preachers on June 5, 1222.[32] This _studium_ was transformed into the order's first _studium provinciale_ by Saint Thomas Aquinas in 1265. Part of the curriculum of this _studium_ was relocated in 1288 at the _studium_ of Santa Maria sopra Minerva which in the 16th century world be transformed into the College of Saint Thomas (). In the 20th century the college would be relocated to the convent of Saints Dominic and Sixtus and would be transformed into the Pontifical University of Saint Thomas Aquinas, _Angelicum_.
 
 The Dominican friars quickly spread, including to England, where they appeared in Oxford in 1221.[33] In the 13th century the order reached all classes of Christian society, fought heresy, schism, and paganism by word and book, and by its missions to the north of Europe, to Africa, and Asia passed beyond the frontiers of Christendom. Its schools spread throughout the entire Church; its doctors wrote monumental works in all branches of knowledge, including the extremely important Albertus Magnus and Thomas Aquinas. Its members included popes, cardinals, bishops, legates, inquisitors, confessors of princes, ambassadors, and _paciarii_ (enforcers of the peace decreed by popes or councils).[34]
 
@@ -88,7 +88,7 @@ As heirs of the Dominican priory of Poissy in France, the nuns of Dartford Prior
 
 Reformation to French Revolution
 
-Bartolomedelascasas.jpg (c.1484–1566)]] Bartolomé de Las Casas, as a settler in the New World, was galvanized by witnessing the brutal torture and genocide of the Native Americans by the Spanish colonists. He became famous for his advocacy of the rights of Native Americans, whose cultures, especially in the Caribbean, he describes with care.[57]
+(c.1484–1566)]] Bartolomé de Las Casas, as a settler in the New World, was galvanized by witnessing the brutal torture and genocide of the Native Americans by the Spanish colonists. He became famous for his advocacy of the rights of Native Americans, whose cultures, especially in the Caribbean, he describes with care.[57]
 
 Gaspar da Cruz (c.1520–1570), who worked all over the Portuguese colonial empire in Asia, was probably the first Christian missionary to preach (unsuccessfully) in Cambodia. After a (similarly unsuccessful) stint, in 1556, in Guangzhou, China, he eventually returned to Portugal and became the first European to publish a book devoted exclusively to China in 1569/1570.[58]
 
@@ -96,7 +96,7 @@ The beginning of the 16th century confronted the order with the upheavals of Rev
 
 19th century to present
 
-During the early 19th century, the number of Preachers seems never to have sunk below 3,500. Statistics for 1876 show 3,748, but 500 of these had been expelled from their convents and were engaged in parochial work. Statistics for 1910 show a total of 4,472 nominally or actually engaged in proper activities of the order.[60] By the year 2013 there were 6058 Dominican friars, including 4,470 priests.[61] Portrait_of_Dominique_Lacordaire.jpg
+During the early 19th century, the number of Preachers seems never to have sunk below 3,500. Statistics for 1876 show 3,748, but 500 of these had been expelled from their convents and were engaged in parochial work. Statistics for 1910 show a total of 4,472 nominally or actually engaged in proper activities of the order.[60] By the year 2013 there were 6058 Dominican friars, including 4,470 priests.[61]
 
 In the revival movement France held a foremost place, owing to the reputation and convincing power of the orator, Jean-Baptiste Henri Lacordaire (1802–1861). He took the habit of a Friar Preacher at Rome (1839), and the province of France was canonically erected in 1850.[62] From this province were detached the province of Lyon, called Occitania (1862), that of Toulouse (1869), and that of Canada (1909). The French restoration likewise furnished many laborers to other provinces, to assist in their organization and progress. From it came the master general who remained longest at the head of the administration during the 19th century, Père Vincent Jandel (1850–1872). Here should be mentioned the province of Saint Joseph in the United States. Founded in 1805 by Edward Fenwick, afterwards first Bishop of Cincinnati, Ohio (1821–1832). In 1905, it established a large house of studies at Washington, D.C.,[63] called the Dominican House of Studies.
 
@@ -137,7 +137,7 @@ The Priestly Fraternities of St. Dominic are diocesan priests who are formally a
 
 Laity
 
-Giovanni_di_Paolo_The_Mystic_Marriage_of_Saint_Catherine_of_Siena.jpg of Saint Catherine of Siena'' (1347–1380) by Giovanni di Paolo, c. 1460 (Metropolitan Museum of Art, New York)]] Lay Dominicans are governed by their own rule, the Rule of the Lay Fraternities of St. Dominic, promulgated by the Master in 1987.[85] It is the fifth Rule of the Dominican Laity; the first was issued in 1285.[86] Lay Dominicans are also governed by the Fundamental Constitution of the Dominican Laity, and their provinces provide a General Directory and Statutes. According to their Fundamental Constitution of the Dominican Laity, sec. 4, "They have a distinctive character in both their spirituality and their service to God and neighbor. As members of the Order, they share in its apostolic mission through prayer, study and preaching according to the state of the laity."[87]
+of Saint Catherine of Siena'' (1347–1380) by Giovanni di Paolo, c. 1460 (Metropolitan Museum of Art, New York)]] Lay Dominicans are governed by their own rule, the Rule of the Lay Fraternities of St. Dominic, promulgated by the Master in 1987.[85] It is the fifth Rule of the Dominican Laity; the first was issued in 1285.[86] Lay Dominicans are also governed by the Fundamental Constitution of the Dominican Laity, and their provinces provide a General Directory and Statutes. According to their Fundamental Constitution of the Dominican Laity, sec. 4, "They have a distinctive character in both their spirituality and their service to God and neighbor. As members of the Order, they share in its apostolic mission through prayer, study and preaching according to the state of the laity."[87]
 
 Pope Pius XII, in Chosen Laymen, an Address to the Third Order of St. Dominic (1958), said, "The true condition of salvation is to meet the divine invitation by accepting the Catholic 'credo' and by observing the commandments. But the Lord expects more from you [Lay Dominicans], and the Church urges you to continue seeking the intimate knowledge of God and His works, to search for a more complete and valuable expression of this knowledge, a refinement of the Christian attitudes which derive from this knowledge."[88]
 
@@ -164,7 +164,7 @@ Although Albertus Magnus did much to instill mysticism in the Order of Preachers
 
 Albertus Magnus
 
-Albertus_Magnus_Painting_by_Joos_van_Gent.jpeg (1206–1280) by Justus van Gent, ca. 1475]] Another who contributed significantly to the spirituality of the order is Albertus Magnus, influence on the brotherhood permeated nearly every aspect of Dominican life. One of Albert's greatest contributions was his study of Dionysius the Areopagite, a mystical theologian whose words left an indelible imprint in the medieval period. Magnus' writings made a significant contribution to German mysticism, which became vibrant in the minds of the Beguines and women such as Hildegard of Bingen and Mechthild of Magdeburg.[94] Mysticism refers to the conviction that all believers have the capability to experience God's love. This love may manifest itself through brief ecstatic experiences, such that one may be engulfed by God and gain an immediate knowledge of Him, which is unknowable through the intellect alone.[95]
+(1206–1280) by Justus van Gent, ca. 1475]] Another who contributed significantly to the spirituality of the order is Albertus Magnus, influence on the brotherhood permeated nearly every aspect of Dominican life. One of Albert's greatest contributions was his study of Dionysius the Areopagite, a mystical theologian whose words left an indelible imprint in the medieval period. Magnus' writings made a significant contribution to German mysticism, which became vibrant in the minds of the Beguines and women such as Hildegard of Bingen and Mechthild of Magdeburg.[94] Mysticism refers to the conviction that all believers have the capability to experience God's love. This love may manifest itself through brief ecstatic experiences, such that one may be engulfed by God and gain an immediate knowledge of Him, which is unknowable through the intellect alone.[95]
 
 Albertus Magnus championed the idea, drawn from Dionysus, that positive knowledge of God is possible, but obscure. Thus, it is easier to state what God is not, than to state what God is: "... we affirm things of God only relatively, that is, casually, whereas we deny things of God absolutely, that is, with reference to what He is in Himself. And there is no contradiction between a relative affirmation and an absolute negation. It is not contradictory to say that someone is white-toothed and not white".[96]
 
@@ -221,7 +221,7 @@ Mottoes
 
 Notable members
 
-The following people belonging to the order have been proclaimed saints throughout history: Giovanni_Gerolamo_Savoldo_007.jpg'' (1206–1252) by Girolamo Savoldo, ca. 1530–35]] Louis_Bertrand.jpg (1526–1581), portrait by Francisco de Zurbarán, 1640]] FrColl2.jpg (1812–1875)]] Numerous Dominicans were included in the canonization of the 117 martyrs of Vietnam and a group of martyrs in Nagasaki, including Saint Lorenzo Ruiz.
+The following people belonging to the order have been proclaimed saints throughout history: '' (1206–1252) by Girolamo Savoldo, ca. 1530–35]] (1526–1581), portrait by Francisco de Zurbarán, 1640]] (1812–1875)]] Numerous Dominicans were included in the canonization of the 117 martyrs of Vietnam and a group of martyrs in Nagasaki, including Saint Lorenzo Ruiz.
 
 Numerous Dominicans have been beatified, including: Five Dominican friars have served as Bishop of Rome:
 
@@ -286,8 +286,6 @@ By geography
 
 
 Educational institutions
-
-Dominican.jpg
 
 -   Universidad Santo Tomas de Aquino, Santo Domingo, Dominican Republic, est. 1538 – First University of the New World
 -   Albertus Magnus College, New Haven, Connecticut, United States – est.1925

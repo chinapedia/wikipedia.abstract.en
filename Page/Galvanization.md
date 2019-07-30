@@ -1,4 +1,4 @@
-Lamppost-singapore.jpg]] GALVANIZATION or GALVANIZING is the process of applying a protective zinc coating to steel or iron, to prevent rusting. The most common method is hot-dip galvanizing, in which the parts are submerged in a bath of molten zinc.
+]] GALVANIZATION or GALVANIZING is the process of applying a protective zinc coating to steel or iron, to prevent rusting. The most common method is hot-dip galvanizing, in which the parts are submerged in a bath of molten zinc.
 
 
 Protective action
@@ -12,7 +12,7 @@ Galvanizing protects the underlying iron or steel in the following main ways:
 
 History and etymology
 
-NailsCloseup.jpg Named via French from the name of Italian scientist Luigi Galvani, the earliest use of the term was, in early 19th-century scientific research and medical practice, stimulation of a muscle by the application of an electric current. The term "galvanized" continues to be used metaphorically of any stimulus which results in activity by a person or group of people.[1]
+Named via French from the name of Italian scientist Luigi Galvani, the earliest use of the term was, in early 19th-century scientific research and medical practice, stimulation of a muscle by the application of an electric current. The term "galvanized" continues to be used metaphorically of any stimulus which results in activity by a person or group of people.[1]
 
 The earliest known example of galvanized iron was encountered by Europeans on 17th-century Indian armour in the Royal Armouries Museum collection.[2] The armoured application is the origin of the metaphorical use of the verb "galvanize", meaning to reinforce.
 
@@ -25,14 +25,14 @@ Hot-dip galvanizing deposits a thick, robust layer of zinc iron alloys on the su
 
 The protection provided by hot-dip galvanizing is insufficient for products that will be constantly exposed to corrosive materials such as acids, including acid rain in outdoor uses. For these applications, more expensive stainless steel is preferred. Some nails made today are galvanized. Nonetheless, electroplating is used on its own for many outdoor applications because it is cheaper than hot-dip zinc coating and looks good when new. Another reason not to use hot-dip zinc coating is that for bolts and nuts of size M10 (US 3/8") or smaller, the thick hot-dipped coating fills in too much of the threads, which reduces strength (because the dimension of the steel prior to coating must be reduced for the fasteners to fit together). This means that for cars, bicycles, and many other light mechanical products, the practical alternative to electroplating bolts and nuts is not hot-dip zinc coating, but making the fasteners from stainless steel or (stronger but much more expensive) titanium.
 
-Feuerverzinktes_Geländer.jpg The size of crystallites (grains) in galvanized coatings is a visible and aesthetic feature, known as "spangle". By varying the number of particles added for heterogeneous nucleation and the rate of cooling in a hot-dip process, the spangle can be adjusted from an apparently uniform surface (crystallites too small to see with the naked eye) to grains several centimetres wide. Visible crystallites are rare in other engineering materials, even though they are usually present.
+The size of crystallites (grains) in galvanized coatings is a visible and aesthetic feature, known as "spangle". By varying the number of particles added for heterogeneous nucleation and the rate of cooling in a hot-dip process, the spangle can be adjusted from an apparently uniform surface (crystallites too small to see with the naked eye) to grains several centimetres wide. Visible crystallites are rare in other engineering materials, even though they are usually present.
 
 Thermal diffusion galvanizing, or Sherardizing, provides a zinc diffusion coating on iron- or copper-based materials.[7][8] Parts and zinc powder are tumbled in a sealed rotating drum. Around , zinc will diffuse into the substrate to form a zinc alloy. The advance surface preparation of the goods can be carried out by shot blasting. The process is also known as "dry galvanizing", because no liquids are involved; this can avoid possible problems caused by hydrogen embrittlement. The dull-grey crystal structure of the zinc diffusion coating has a good adhesion to paint, powder coatings, or rubber. It is a preferred method for coating small, complex-shaped metals, and for smoothing rough surfaces on items formed with sintered metal.
 
 
 Eventual corrosion
 
-Rust_1.jpeg Although galvanizing will inhibit attack of the underlying steel, rusting will be inevitable after some decades' exposure to weather, especially if exposed to acidic conditions. For example, corrugated iron sheet roofing will start to degrade within a few years despite the protective action of the zinc coating. Marine and salty environments also lower the lifetime of galvanized iron because the high electrical conductivity of sea water increases the rate of corrosion, primarily through converting the solid zinc to soluble zinc chloride which simply washes away. Galvanized car frames exemplify this; they corrode much faster in cold environments due to road salt, though they will last longer than unprotected steel.
+Although galvanizing will inhibit attack of the underlying steel, rusting will be inevitable after some decades' exposure to weather, especially if exposed to acidic conditions. For example, corrugated iron sheet roofing will start to degrade within a few years despite the protective action of the zinc coating. Marine and salty environments also lower the lifetime of galvanized iron because the high electrical conductivity of sea water increases the rate of corrosion, primarily through converting the solid zinc to soluble zinc chloride which simply washes away. Galvanized car frames exemplify this; they corrode much faster in cold environments due to road salt, though they will last longer than unprotected steel.
 
 Galvanized steel can last for many decades if other supplementary measures are maintained, such as paint coatings and additional sacrificial anodes. The rate of corrosion in non-salty environments is caused mainly by levels of sulfur dioxide in the air.[9] In the most benign natural environments, such as inland low population areas, galvanized steel can last without rust for over 100 years.
 

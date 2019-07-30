@@ -20,7 +20,7 @@ In April 1880, Markov defended his master's thesis "On the Binary Square Forms w
 
 His pedagogical work began after the defense of his master's thesis in autumn 1880. As a privatdozent he lectured on differential and integral calculus. Later he lectured alternately on "introduction to analysis", probability theory (succeeding Chebyshev, who had left the university in 1882) and the calculus of differences. From 1895 through 1905 he also lectured in differential calculus.
 
-Andrei_Markov.jpg One year after the defense of his doctoral thesis, Markov was appointed extraordinary professor (1886) and in the same year he was elected adjunct to the Academy of Sciences. In 1890, after the death of Viktor Bunyakovsky, Markov became an extraordinary member of the academy. His promotion to an ordinary professor of St. Petersburg University followed in the fall of 1894.
+One year after the defense of his doctoral thesis, Markov was appointed extraordinary professor (1886) and in the same year he was elected adjunct to the Academy of Sciences. In 1890, after the death of Viktor Bunyakovsky, Markov became an extraordinary member of the academy. His promotion to an ordinary professor of St. Petersburg University followed in the fall of 1894.
 
 In 1896, Markov was elected an ordinary member of the academy as the successor of Chebyshev. In 1905, he was appointed merited professor and was granted the right to retire, which he did immediately. Until 1910, however, he continued to lecture in the calculus of differences.
 
@@ -28,7 +28,7 @@ In connection with student riots in 1908, professors and lecturers of St. Peters
 
 Markov was an atheist. In 1912 he protested Leo Tolstoy's excommunication from the Russian Orthodox Church by requesting his own excommunication. The Church complied with his request.[2][3]
 
-Literator_Bridges_Grave_Markov.jpg]] In 1913, the council of St. Petersburg elected nine scientists honorary members of the university. Markov was among them, but his election was not affirmed by the minister of education. The affirmation only occurred four years later, after the February Revolution in 1917. Markov then resumed his teaching activities and lectured on probability theory and the calculus of differences until his death in 1922.
+]] In 1913, the council of St. Petersburg elected nine scientists honorary members of the university. Markov was among them, but his election was not affirmed by the minister of education. The affirmation only occurred four years later, after the February Revolution in 1917. Markov then resumed his teaching activities and lectured on probability theory and the calculus of differences until his death in 1922.
 
 
 See also

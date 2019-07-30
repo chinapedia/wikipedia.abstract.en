@@ -9,7 +9,7 @@ Early life
 
 Genscher was born on 21 March 1927 in Reideburg (Province of Saxony-Anhalt), now a part of Halle, in what later became East Germany. He was the son of Hilda Kreime and Kurt Genscher.[4] His father, a lawyer, died when Genscher was nine years old.[5] In 1943, he was drafted to serve as a member of the Air Force Support Personnel (_Luftwaffenhelfer_) at the age of 16. At age 17, close to the end of the war, he and his fellow soldiers became members of the Nazi Party due to a collective application (_Sammelantrag_) by his Wehrmacht unit. He later said he was unaware of it at the time.[6]
 
-Bush_senior_und_Hans-Dietrich_Genscher.jpg and Hans-Dietrich Genscher (21 November 1989)]] Late in the war, Genscher was deployed as a soldier in General Walther Wenck's 12th Army, which ostensibly was directed to relieve the siege of Berlin. After the German surrender he was an American and British prisoner of war, but was released after two months.[7] Following World War II, he studied law and economics at the universities of Halle and Leipzig (1946–1949) and joined the East German Liberal Democratic Party (LDPD) in 1946.[8]
+and Hans-Dietrich Genscher (21 November 1989)]] Late in the war, Genscher was deployed as a soldier in General Walther Wenck's 12th Army, which ostensibly was directed to relieve the siege of Berlin. After the German surrender he was an American and British prisoner of war, but was released after two months.[7] Following World War II, he studied law and economics at the universities of Halle and Leipzig (1946–1949) and joined the East German Liberal Democratic Party (LDPD) in 1946.[8]
 
 Political career
 
@@ -47,7 +47,7 @@ Genscher retained his posts as foreign minister and vice chancellor through Germ
 
 Reunification efforts
 
-Bundesarchiv_Bild_183-1990-0228-030,_Erfurt,_Volkskammerwahl,_FDP-Wahlkundgebung,_Genscher.jpg Genscher is most respected for his efforts that helped spell the end of the Cold War, in the late 1980s when Communist eastern European governments toppled, and which led to German reunification. During his time in office, he focused on maintaining stability and balance between the West and the Soviet bloc. From the beginning, he argued that the West should seek cooperation with Communist governments rather than treat them as implacably hostile; this policy was embraced by many Germans and other Europeans.[33]
+Genscher is most respected for his efforts that helped spell the end of the Cold War, in the late 1980s when Communist eastern European governments toppled, and which led to German reunification. During his time in office, he focused on maintaining stability and balance between the West and the Soviet bloc. From the beginning, he argued that the West should seek cooperation with Communist governments rather than treat them as implacably hostile; this policy was embraced by many Germans and other Europeans.[33]
 
 Genscher had great interest in European integration and the success of German reunification. He soon pushed for effective support of political reform processes in Poland and Hungary. For this purpose, he visited Poland to meet the chairman of Solidarity Lech Wałęsa as early as January 1980. Especially from 1987 he campaigned for an "active relaxation" policy response by the West to the Soviet efforts. In the years before German reunification, he made a point of maintaining strong ties with his birthplace Halle, which was regarded as significant by admirers and critics alike.[34]
 
@@ -74,7 +74,7 @@ Following Genscher's resignation, Chancellor Helmut Kohl and FDP chairman Otto G
 
 Activities after politics
 
-Genscher-19-09-2013.jpg Ahead of the German presidential election in 1994, Genscher proclaimed his lack of interest in the position, but was nonetheless widely considered a leading contender. After a poll taken for _Stern_ magazine showed him to be the favored candidate of 48 percent of German voters, he reiterated in 1993 that he would "in no case" accept the presidency.[53]
+Ahead of the German presidential election in 1994, Genscher proclaimed his lack of interest in the position, but was nonetheless widely considered a leading contender. After a poll taken for _Stern_ magazine showed him to be the favored candidate of 48 percent of German voters, he reiterated in 1993 that he would "in no case" accept the presidency.[53]
 
 Having finished his political career, Genscher remained active as a lawyer and in international organizations. In late 1992, Genscher was appointed chairman of a newly established donors' board of the Berlin State Opera.[54] Between 1997 and 2010, Genscher was affiliated with the law firm Büsing, Müffelmann & Theye.[55] He founded his own consulting firm, Hans-Dietrich Genscher Consult GmbH, in 2000. Between 2001 and 2003, he served as president of the German Council on Foreign Relations.[56] In 2001, Genscher headed an arbitration that ended a monthlong battle between German airline Lufthansa and its pilots' union and resulted in an agreement on increasing wages by more than 15 percent by the end of the following year.[57]
 

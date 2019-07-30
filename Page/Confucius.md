@@ -26,7 +26,7 @@ Life
 
 Early life
 
-Chinese_plain_5c._BC-en.svg It is thought that Confucius was born on September 28, 551BC,[6][7] in the district of Zou () near present-day Qufu, China.[8][9] The area was notionally controlled by the kings of Zhou but effectively independent under the local lords of Lu. His father Kong He (or Shuliang He) was an elderly commandant of the local Lu garrison. His ancestry traced back through the dukes of Song to the Shang dynasty which had preceded the Zhou.[10][11][12] Traditional accounts of Confucius's life relate that Kong He's grandfather had migrated the family from Song to Lu.[13]
+It is thought that Confucius was born on September 28, 551BC,[6][7] in the district of Zou () near present-day Qufu, China.[8][9] The area was notionally controlled by the kings of Zhou but effectively independent under the local lords of Lu. His father Kong He (or Shuliang He) was an elderly commandant of the local Lu garrison. His ancestry traced back through the dukes of Song to the Shang dynasty which had preceded the Zhou.[10][11][12] Traditional accounts of Confucius's life relate that Kong He's grandfather had migrated the family from Song to Lu.[13]
 
 Kong He died when Confucius was three years old, and Confucius was raised by his mother Yan Zhengzai () in poverty.[14] His mother would later die at less than 40 years of age.[15] At age 19 he married Qiguan (亓官), and a year later the couple had their first child, Kong Li (孔鯉).[16] Qiguan and Confucius would later have two daughters together, one of whom is thought to have died as a child.[17]
 
@@ -52,13 +52,13 @@ Later in 498 BC, Duke Ding personally went with an army to lay siege to Cheng in
 
 Exile
 
-Journey_of_Confucius.png The _Shiji_ stated that the neighboring Qi state was worried that Lu was becoming too powerful while Confucius was involved in the government of the Lu state. According to this account, Qi decided to sabotage Lu's reforms by sending 100 good horses and 80 beautiful dancing girls to the duke of Lu. The duke indulged himself in pleasure and did not attend to official duties for three days. Confucius was disappointed and resolved to leave Lu and seek better opportunities, yet to leave at once would expose the misbehavior of the duke and therefore bring public humiliation to the ruler Confucius was serving. Confucius therefore waited for the duke to make a lesser mistake. Soon after, the duke neglected to send to Confucius a portion of the sacrificial meat that was his due according to custom, and Confucius seized upon this pretext to leave both his post and the Lu state.
+The _Shiji_ stated that the neighboring Qi state was worried that Lu was becoming too powerful while Confucius was involved in the government of the Lu state. According to this account, Qi decided to sabotage Lu's reforms by sending 100 good horses and 80 beautiful dancing girls to the duke of Lu. The duke indulged himself in pleasure and did not attend to official duties for three days. Confucius was disappointed and resolved to leave Lu and seek better opportunities, yet to leave at once would expose the misbehavior of the duke and therefore bring public humiliation to the ruler Confucius was serving. Confucius therefore waited for the duke to make a lesser mistake. Soon after, the duke neglected to send to Confucius a portion of the sacrificial meat that was his due according to custom, and Confucius seized upon this pretext to leave both his post and the Lu state.
 
 After Confucius's resignation, he began a long journey or set of journeys around the principality states of north-east and central China including Wey, Song, Zheng, Cao, Chu, Qi, Chen, and Cai (and a failed attempt to go to Jin). At the courts of these states, he expounded his political beliefs but did not see them implemented.
 
 Return home
 
-Confuciustombqufu.jpg, Qufu, Shandong Province]]
+, Qufu, Shandong Province]]
 
 According to the _Zuozhuan_, Confucius returned home to his native Lu when he was 68, after he was invited to do so by Ji Kangzi, the chief minister of Lu.[66] The _Analects_ depict him spending his last years teaching 72 or 77 disciples and transmitting the old wisdom via a set of texts called the Five Classics.
 
@@ -69,11 +69,11 @@ Burdened by the loss of both his son and his favorite disciples, he died at the 
 
 Philosophy
 
-Dacheng_Hall.JPG in Qufu]]
+in Qufu]]
 
 Although Confucianism is often followed in a religious manner by the Chinese, many argue that its values are secular and that it is, therefore, less a religion than a secular morality. Proponents argue, however, that despite the secular nature of Confucianism's teachings, it is based on a worldview that is religious.[68] Confucianism discusses elements of the afterlife and views concerning Heaven, but it is relatively unconcerned with some spiritual matters often considered essential to religious thought, such as the nature of souls. However, Confucius is said to have believed in astrology, saying: "Heaven sends down its good or evil symbols and wise men act accordingly".[69]
 
-Rongo_Analects_02.jpg of Confucius]]
+of Confucius]]
 
 In the _Analects_, Confucius presents himself as a "transmitter who invented nothing". He puts the greatest emphasis on the importance of study, and it is the Chinese character for study () that opens the text. Far from trying to build a systematic or formalist theory, he wanted his disciples to master and internalize older classics, so that their deep thought and thorough study would allow them to relate the moral problems of the present to past political events (as recorded in the _Annals_) or the past expressions of commoners' feelings and noblemen's reflections (as in the poems of the _Book of Odes_).
 
@@ -142,7 +142,7 @@ Under the succeeding Han and Tang dynasties, Confucian ideas gained even more wi
 
 During the Song dynasty, the scholar Zhu Xi (AD 1130–1200) added ideas from Daoism and Buddhism into Confucianism. In his life, Zhu Xi was largely ignored, but not long after his death, his ideas became the new orthodox view of what Confucian texts actually meant. Modern historians view Zhu Xi as having created something rather different and call his way of thinking _Neo-Confucianism_. Neo-Confucianism held sway in China, Japan, Korea, and Vietnam until the 19th century.
 
-LifeAndWorksOfConfucius1687.jpg at Paris in 1687.]] The works of Confucius were first translated into European languages by Jesuit missionaries in the 16th century during the late Ming dynasty. The first known effort was by Michele Ruggieri, who returned to Italy in 1588 and carried on his translations while residing in Salerno. Matteo Ricci started to report on the thoughts of Confucius, and a team of Jesuits—Prospero Intorcetta, Philippe Couplet, and two others—published a translation of several Confucian works and an overview of Chinese history in Paris in 1687.[75][76] François Noël, after failing to persuade ClementXI that Chinese veneration of ancestors and Confucius did not constitute idolatry, completed the Confucian canon at Prague in 1711, with more scholarly treatments of the other works and the first translation of the collected works of Mencius.[77] It is thought that such works had considerable importance on European thinkers of the period, particularly among the Deists and other philosophical groups of the Enlightenment who were interested by the integration of the system of morality of Confucius into Western civilization.[78][79]
+at Paris in 1687.]] The works of Confucius were first translated into European languages by Jesuit missionaries in the 16th century during the late Ming dynasty. The first known effort was by Michele Ruggieri, who returned to Italy in 1588 and carried on his translations while residing in Salerno. Matteo Ricci started to report on the thoughts of Confucius, and a team of Jesuits—Prospero Intorcetta, Philippe Couplet, and two others—published a translation of several Confucian works and an overview of Chinese history in Paris in 1687.[75][76] François Noël, after failing to persuade ClementXI that Chinese veneration of ancestors and Confucius did not constitute idolatry, completed the Confucian canon at Prague in 1711, with more scholarly treatments of the other works and the first translation of the collected works of Mencius.[77] It is thought that such works had considerable importance on European thinkers of the period, particularly among the Deists and other philosophical groups of the Enlightenment who were interested by the integration of the system of morality of Confucius into Western civilization.[78][79]
 
 In the modern era Confucian movements, such as New Confucianism, still exist, but during the Cultural Revolution, Confucianism was frequently attacked by leading figures in the Communist Party of China. This was partially a continuation of the condemnations of Confucianism by intellectuals and activists in the early 20th century as a cause of the ethnocentric close-mindedness and refusal of the Qing Dynasty to modernize that led to the tragedies that befell China in the 19th century.
 
@@ -154,7 +154,7 @@ In modern times, Asteroid 7853, "Confucius", was named after the Chinese thinker
 
 Disciples
 
-The_Classic_of_Filial_Piety_(開宗明義章_畫).jpg (right) kneeling before Confucius (center), as depicted in a painting from the _Illustrations of the Classic of Filial Piety_, Song dynasty]]
+(right) kneeling before Confucius (center), as depicted in a painting from the _Illustrations of the Classic of Filial Piety_, Song dynasty]]
 
 Confucius began teaching after he turned 30, and taught more than 3,000 students in his life, about 70 of whom were considered outstanding. His disciples and the early Confucian community they formed became the most influential intellectual force in the Warring States period. The Han dynasty historian Sima Qian dedicated a chapter in his _Records of the Grand Historian_ to the biographies of Confucius's disciples, accounting for the influence they exerted in their time and afterward. Sima Qian recorded the names of 77 disciples in his collective biography, while _Kongzi Jiayu_, another early source, records 76, not completely overlapping. The two sources together yield the names of 96 disciples. 22 of them are mentioned in the _Analects_, while the _Mencius_ records 24.[82]
 
@@ -178,7 +178,7 @@ There have been two film adaptations of Confucius' life: _Confucius_ (1940) star
 
 Memorials
 
-First_Entrance_Gate_of_the_Temple_of_Confucius,_Ching-hai.jpg in Zhenhai]]
+in Zhenhai]]
 
 Soon after Confucius's death, Qufu, his home town, became a place of devotion and remembrance. The Han dynasty _Records of the Grand Historian_ records that it had already become a place of pilgrimage for ministers. It is still a major destination for cultural tourism, and many people visit his grave and the surrounding temples. In Sinic cultures, there are many temples where representations of the Buddha, Laozi, and Confucius are found together. There are also many temples dedicated to him, which have been used for Confucian ceremonies.
 

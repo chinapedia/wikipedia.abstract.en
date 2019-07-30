@@ -1,4 +1,4 @@
-Plano_formas.jpg A HULL is the watertight body of a ship or boat. The hull may open at the top (such as a dinghy), or it may be fully or partially covered with a deck. Atop the deck may be a deckhouse and other superstructures, such as a funnel, derrick, or mast. The line where the hull meets the water surface is called the waterline.
+A HULL is the watertight body of a ship or boat. The hull may open at the top (such as a dinghy), or it may be fully or partially covered with a deck. Atop the deck may be a deckhouse and other superstructures, such as a funnel, derrick, or mast. The line where the hull meets the water surface is called the waterline.
 
 
 General features
@@ -23,7 +23,7 @@ Hulls come in many varieties and can have composite shape, (e.g., a fine entry f
 
 Planing and displacement hulls
 
-Royal_Navy_MTB_5.jpg World War II MTB planing at speed on calm water showing its hard chine hull with most of the forepart of the boat out of the water.]]
+World War II MTB planing at speed on calm water showing its hard chine hull with most of the forepart of the boat out of the water.]]
 
 -   Displacement hull: here the hull is supported exclusively or predominantly by buoyancy. Vessels that have this type of hull travel through the water at a limited rate that is defined by the waterline length. They are often, though not always, heavier than planing types.
 -   Planing hull: here, the planing hull form is configured to develop positive dynamic pressure so that its draft decreases with increasing speed. The dynamic lift reduces the wetted surface and therefore also the drag. They are sometimes flat-bottomed, sometimes V-bottomed and more rarely, round-bilged. The most common form is to have at least one chine, which makes for more efficient planing and can throw spray down. Planing hulls are more efficient at higher speeds , although they still require more energy to achieve these speeds. An effective planing hull must be as light as possible with flat surfaces that are consistent with good sea keeping. Sail boats that plane must also sail efficiently in displacement mode in light winds.
@@ -53,8 +53,6 @@ Smooth curve hulls are hulls which use, just like the curved hulls, a sword or a
 
 Semi round bilge hulls are somewhat less round. The advantage of the semi-round is that it is a nice middle between the S-bottom and chined hull. Typical examples of a semi-round bilge hull can be found in the Centaur and Laser cruising dinghies.
 
-Chine_types.svg
-
 S-bottom hulls are hulls shaped like an _s_. In the s-bottom, the hull runs smooth to the keel. As there are no sharp corners in the fuselage. Boats with this hull have a fixed keel, or a _kielmidzwaard_ (literally "keel with sword"). This is a short fixed keel, with a swing keel inside. Examples of cruising dinghies that use this s-shape are the Yngling and Randmeer.
 
 _See also: Boat building_
@@ -82,7 +80,7 @@ Terms
 
 Metrics
 
-Ship's_hull_shape_en.png LOA-LWL.svg Hull forms are defined as follows:
+Hull forms are defined as follows:
 
 :* BLOCK MEASURES that define the principal dimensions. They are:
 

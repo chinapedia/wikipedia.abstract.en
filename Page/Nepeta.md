@@ -18,7 +18,7 @@ The fruits are nutlets, which are oblong-ovoid, ellipsoid, ovoid, or obovoid in 
 
 Selected species
 
-Nepeta_curviflora_1.jpg_]] Nepeta_subsessilis_1.jpg_]]
+_]] _]]
 
 -   Some species formerly classified as _Nepeta_ are now in the genera _Dracocephalum_, _Glechoma_, and _Calamintha_ .
 

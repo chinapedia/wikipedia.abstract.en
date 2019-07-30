@@ -188,8 +188,6 @@ Unclassified
 
 Proposed relations with other families
 
-South_Asian_Language_Families.jpg
-
 The Dravidian family has defied all of the attempts to show a connection with other languages, including Indo-European, Hurrian, Basque, Sumerian, Korean and Japanese. Comparisons have been made not just with the other language families of the Indian subcontinent (Indo-European, Austroasiatic, Sino-Tibetan, and Nihali), but with all typologically similar language families of the Old World. Nonetheless, although there are no readily detectable genealogical connections, Dravidian shares strong areal features with the Indo-Aryan languages, which have been attributed to a substratum influence from Dravidian.
 
 Dravidian languages display typological similarities with the Uralic language group, suggesting to some a prolonged period of contact in the past.[21] This idea is popular amongst Dravidian linguists and has been supported by a number of scholars, including Robert Caldwell,[22] Thomas Burrow,[23] Kamil Zvelebil,[24] and Mikhail Andronov.[25] This hypothesis has, however, been rejected by some specialists in Uralic languages,[26] and has in recent times also been criticised by other Dravidian linguists such as Bhadriraju Krishnamurti.
@@ -299,7 +297,7 @@ The numerals from 1 to 10 in various Dravidian and Indo-Aryan languages (here ex
 
 Literature
 
-Jambai_Tamil_Brahmi.jpg dated to the early Sangam age]] Four Dravidian languages, Tamil, Kannada, Malayalam and Telugu, have lengthy literary traditions. Literature in Tulu and Kodava is more recent.
+dated to the early Sangam age]] Four Dravidian languages, Tamil, Kannada, Malayalam and Telugu, have lengthy literary traditions. Literature in Tulu and Kodava is more recent.
 
 The earliest known Dravidian inscriptions are 76 Old Tamil inscriptions on cave walls in Madurai and Tirunelveli districts in Tamil Nadu, dating from the 2nd century BCE. These inscriptions are written in a variant of the Brahmi script called Tamil Brahmi. The earliest long text in Old Tamil is the _Tolkāppiyam_, an early work on Tamil grammar and poetics, whose oldest layers could date from the 1st century BCE.
 

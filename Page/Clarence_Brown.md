@@ -43,7 +43,7 @@ On February 8, 1960, Brown received a star on the Hollywood Walk of Fame at 1752
 
 Selected filmography
 
-Rains-Came-Brown-Thompson-Bromfield.jpg is entertained on the set of _The Rains Came_ (1939) by director Clarence Brown (left) and Louis Bromfield, author of the novel on which the film was based.]]
+is entertained on the set of _The Rains Came_ (1939) by director Clarence Brown (left) and Louis Bromfield, author of the novel on which the film was based.]]
 
 Director
 

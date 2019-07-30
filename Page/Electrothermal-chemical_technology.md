@@ -7,8 +7,6 @@ The technology has been under development since the mid-1980s and at present is 
 
 Background
 
-XM360.png
-
 The constant battle between armour and armor-piercing round has led to continuous development of the main battle tank design. The evolution of American anti-tank weapons can be traced back to requirements to combat Soviet tanks. In the late 1980s, it was thought that the protection level of the Future Soviet Tank (FST) could exceed 700 mm of rolled homogeneous armour equivalence at its maximum thickness, which was effectively immune against the contemporary M-829 armour piercing fin stabilized discarding sabot.[3] In the 1980s the most immediate method available to NATO to counter Soviet advances in armour technology was the adoption of a 140 mm main gun, but this required a redesigned turret that could incorporate the larger breech and ammunition, and it also required some sort of automatic loader.[4] Although the 140 mm gun was considered a real interim solution it was decided after the fall of the Soviet Union that the increase in muzzle energy it provided was not worth the increase in weight. Resources were therefore spent on research into other programs that could provide the needed muzzle energy. One of the most successful alternative technologies remains electrothermal-chemical ignition.
 
 Most proposed advances in gun technology are based on the assumption that the solid propellant as a stand-alone propulsion system is no longer capable of delivering the required muzzle energy. This requirement has been underscored by the appearance of the Russian T-90 main battle tank. Even the elongation of current gun tubes, such as the new German 120 mm L/55,[5] which was introduced by Rheinmetall is considered only an interim solution as it does not offer the required increase in muzzle velocity.[6] Even advanced kinetic energy ammunition such as the United States' M-829A3 is considered only an interim solution against future threats.[7] To that extent the solid propellant is considered to have reached the end of its usefulness, although it will remain the principal propulsion method for at least the next decade until newer technologies mature.[8] To improve on the capabilities of a solid propellant weapon the electrothermal-chemical gun may see production as early as 2016.[9]
@@ -17,8 +15,6 @@ ETC technology offers a medium-risk upgrade and is developed to the point that f
 
 
 How it works
-
-ETC.png
 
 An electrothermal-chemical gun uses a plasma cartridge to ignite and control the ammunition's propellant, using electrical energy as a catalyst to begin the process. Originally researched by Dr. Jon Parmentola for the U.S. Army, it has grown into a very plausible successor to a standard solid propellant tank gun. Since the beginning of research the United States has funded the XM-291 gun project with USD 4,000,000, basic research with USD 300,000, and applied research with USD 600,000. Since then it has been proven to work, although efficiency to the level required has not yet been accomplished. ETC increases the performance of conventional solid propellants, reduces the effect of temperature on propellant expansion and allows for more advanced, higher density propellants to be used. It will also reduce pressure placed on the barrel in comparison to alternative technologies that offer the same muzzle energy given the fact that it helps spread the propellant's gas much more smoothly during ignition.[12] Currently, there are two principal methods of plasma initiation: the flashboard large area emitter (FLARE) and the triple coaxial plasma igniter (TCPI).
 
@@ -32,8 +28,6 @@ A coaxial igniter consists of a fully insulated conductor, covered by four strip
 
 
 Feasibility
-
-60mmETC.PNG
 
 The XM-291 is the best existing example of a working electrothermal-chemical gun. It was an alternate technology to the heavier caliber 140 mm gun by using the dual-caliber approach. It uses a breech that is large enough to accept 140 mm ammunition and be mounted with both a 120 mm barrel and a 135 mm or 140 mm barrel. The XM-291 also mounts a larger gun tube and a larger ignition chamber than the existing M256 L/44 main gun.[17] Through the application of electrothermal-chemical technology the XM-291 has been able to achieve muzzle energy outputs that equate that to a low-level 140 mm gun, while achieving muzzle velocities greater than those of the larger 140 mm gun.[18] Although the XM-291 does not mean that ETC technology is viable it does offer an example that it is possible.
 

@@ -3,13 +3,13 @@ ELIHU YALE (5 April 1649 – 8 July 1721) was a British merchant, slave trader, 
 
 Life
 
-Plas_yn_Yale,_seat_of_the_Yale's,_c.1795.jpg Born in Boston, Massachusetts, to David Yale (1613–1690) and Ursula, he was the grandson of Ann Lloyd (1591–1659), who after the death of her first husband, Thomas Yale (1587–1619) in Chester, Cheshire, England, married Governor Theophilus Eaton (1590–1658) of New Haven Colony.
+Born in Boston, Massachusetts, to David Yale (1613–1690) and Ursula, he was the grandson of Ann Lloyd (1591–1659), who after the death of her first husband, Thomas Yale (1587–1619) in Chester, Cheshire, England, married Governor Theophilus Eaton (1590–1658) of New Haven Colony.
 
 The Yale family left Boston and returned to England when Elihu was three years old and he grew up going to school in London.
 
 For 20 years Yale served the Honourable East India Company. In 1684 he became the first president of Fort St. George, the company's post at Madras (now Chennai), India. He succeeded a number of agents from Andrew Cogan to William Gyfford. Yale was instrumental in the development of the Government General Hospital, housed at Fort St. George.[2]
 
-Yale amassed a fortune while working for the company, largely through secret contracts with Madras merchants, against the East India Company's directive. By 1692, his repeated flouting of East India Company regulations and growing embarrassment at his illegal profiteering resulted in his being relieved of the post of governor.[3] Plas_Grono_Elihu_Yale's_house_near_Wrexham_Wales.jpg
+Yale amassed a fortune while working for the company, largely through secret contracts with Madras merchants, against the East India Company's directive. By 1692, his repeated flouting of East India Company regulations and growing embarrassment at his illegal profiteering resulted in his being relieved of the post of governor.[3]
 
 Yale returned to Britain in 1699. He spent the rest of his life at 'Plas Grono', a mansion bought by his father, or at his house in London, spending liberally the considerable wealth he had accumulated.[4]
 
@@ -23,7 +23,7 @@ Yale married Catherine Hynmers, a widow, in 1680. The wedding took place at St. 
 
 Tenure as President of Madras
 
-Elihu_Yale_Memorial,_St._Mary's_Church,_Madras.jpg]] Elihu Yale was re-appointed as president of the administration of Fort St George on 26 July 1687. He then implemented an order dated 14 January 1685 which required the English at Fort St George to make all attempts at procurement of the town of St Thome on lease. To this effect, Chinna Venkatadri was sent to negotiate with the local governor on 4 August 1687. The mission was successful and Chinna Venkatadri assumed sovereignty over St Thome for a period of three years. Notwithstanding the vehement protests of the Portuguese inhabitants of St Thome, the English gained absolute control over all lands up to St Thomas Mount for a period of three years.
+]] Elihu Yale was re-appointed as president of the administration of Fort St George on 26 July 1687. He then implemented an order dated 14 January 1685 which required the English at Fort St George to make all attempts at procurement of the town of St Thome on lease. To this effect, Chinna Venkatadri was sent to negotiate with the local governor on 4 August 1687. The mission was successful and Chinna Venkatadri assumed sovereignty over St Thome for a period of three years. Notwithstanding the vehement protests of the Portuguese inhabitants of St Thome, the English gained absolute control over all lands up to St Thomas Mount for a period of three years.
 
 In September 1688, the Mughal Emperor Aurangazeb took Golconda after a prolonged battle. The Mughals took Sultan of Golconda prisoner and annexed the state. The newly designated Mughal Subedar of the province immediately sent a letter to the British authorities at Fort St George demanding that the English at Madras acknowledge the overlordship of the Mughal Emperor. The English complied willingly. Aurangazeb guaranteed the independence of Madras, but in return demanded that the English supply troops in the event of a war against the Marathas. It was around this time that Yale's three-year-old son David Yale died and was interred in the Madras cemetery.
 

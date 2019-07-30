@@ -1,4 +1,4 @@
-C60a.png C20_Fullerene.png Carbon_nanotube_zigzag_povray_cropped.PNG C60-Fulleren-kristallin.JPG A FULLERENE is an allotrope of carbon whose molecule consists of carbon atoms connected by single and double bonds so as to form a closed or partially closed mesh, with fused rings of five to seven atoms. The molecule may be a hollow sphere, ellipsoid, tube, or many other shapes and sizes. Graphene (isolated atomic layers of graphite), which is a flat mesh of regular hexagonal rings, can be seen as an extreme member of the family.
+A FULLERENE is an allotrope of carbon whose molecule consists of carbon atoms connected by single and double bonds so as to form a closed or partially closed mesh, with fused rings of five to seven atoms. The molecule may be a hollow sphere, ellipsoid, tube, or many other shapes and sizes. Graphene (isolated atomic layers of graphite), which is a flat mesh of regular hexagonal rings, can be seen as an extreme member of the family.
 
 Fullerenes with a closed mesh topology are informally denoted by their empirical formula C_(_n_), often written C_n_, where _n_ is the number of carbon atoms. However, for some values of _n_ there maybe more than one isomer.
 
@@ -9,7 +9,7 @@ Fullerenes had been predicted for some time, but only after their accidental syn
 
 History
 
-Fullerene_c540.png fullerene , another member of the family of fullerenes]]
+fullerene , another member of the family of fullerenes]]
 
 Predictions and limited observations
 
@@ -46,7 +46,7 @@ There are two major families of fullerenes, with fairly distinct properties and 
 
 Buckyballs
 
-c60_isosurface.png]] C60_Buckyball.gif
+]]
 
 Buckminsterfullerene
 
@@ -70,7 +70,7 @@ Trimetasphere carbon nanomaterials were discovered by researchers at Virginia Te
 
 Carbon nanotubes
 
-Kohlenstoffnanoroehre_Animation.gif shows its 3D structure.]] Carbon nanotubes are cylindrical fullerenes. These tubes of carbon are usually only a few nanometres wide, but they can range from less than a micrometer to several millimeters in length. They often have closed ends, but can be open-ended as well. There are also cases in which the tube reduces in diameter before closing off. Their unique molecular structure results in extraordinary macroscopic properties, including high tensile strength, high electrical conductivity, high ductility, high heat conductivity, and relative chemical inactivity (as it is cylindrical and "planar" — that is, it has no "exposed" atoms that can be easily displaced). One proposed use of carbon nanotubes is in paper batteries, developed in 2007 by researchers at Rensselaer Polytechnic Institute.[34] Another highly speculative proposed use in the field of space technologies is to produce high-tensile carbon cables required by a space elevator.
+shows its 3D structure.]] Carbon nanotubes are cylindrical fullerenes. These tubes of carbon are usually only a few nanometres wide, but they can range from less than a micrometer to several millimeters in length. They often have closed ends, but can be open-ended as well. There are also cases in which the tube reduces in diameter before closing off. Their unique molecular structure results in extraordinary macroscopic properties, including high tensile strength, high electrical conductivity, high ductility, high heat conductivity, and relative chemical inactivity (as it is cylindrical and "planar" — that is, it has no "exposed" atoms that can be easily displaced). One proposed use of carbon nanotubes is in paper batteries, developed in 2007 by researchers at Rensselaer Polytechnic Institute.[34] Another highly speculative proposed use in the field of space technologies is to produce high-tensile carbon cables required by a space elevator.
 
 
 Derivatives

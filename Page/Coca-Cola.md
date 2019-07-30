@@ -1,5 +1,3 @@
-Flasche_Coca-Cola_0,2_Liter.jpg
-
 COCA-COLA, or COKE, is a carbonated soft drink[1] manufactured by The Coca-Cola Company. Originally intended as a patent medicine, it was invented in the late 19th century by John Stith Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century. The drink's name refers to two of its original ingredients: coca leaves, and kola nuts (a source of caffeine). The current formula of Coca-Cola remains a trade secret, although a variety of reported recipes and experimental recreations have been published.
 
 The Coca-Cola Company produces concentrate, which is then sold to licensed Coca-Cola bottlers throughout the world. The bottlers, who hold exclusive territory contracts with the company, produce the finished product in cans and bottles from the concentrate, in combination with filtered water and sweeteners. A typical can contains of sugar (usually in the form of high fructose corn syrup). The bottlers then sell, distribute, and merchandise Coca-Cola to retail stores, restaurants, and vending machines throughout the world. The Coca-Cola Company also sells concentrate for soda fountains of major restaurants and foodservice distributors.
@@ -11,7 +9,7 @@ History
 
 19th-century historical origins
 
-Pemberton's_Eagle_and_Drug_House,_Birthplace_of_Coca-Cola.jpeg John_Pemberton.jpg, the original creator of Coca-Cola]] 19th_century_Coca-Cola_coupon.jpg |volume=18 |date = October 2010|page=104 |issue=11 }}]] Coca_Cola_ad_ca._1943_IMG_3744.JPG, Louisiana.]] Coca_Cola_Bottling_Machine,_Biedenharn_Museum_and_Gardens_IMG_4101.JPG in Monroe, Louisiana]]
+, the original creator of Coca-Cola]] |volume=18 |date = October 2010|page=104 |issue=11 }}]] , Louisiana.]] in Monroe, Louisiana]]
 
 Confederate Colonel John Pemberton, who was wounded in the American Civil War and became addicted to morphine, began a quest to find a substitute for the problematic drug.[5] In 1885 at Pemberton's Eagle Drug and Chemical House, a drugstore in Columbus, Georgia, he registered Pemberton's French Wine Coca nerve tonic.[6][7][8][9] Pemberton's tonic may have been inspired by the formidable success of Vin Mariani, a French-Corsican coca wine,[10] but his recipe additionally included the African kola nut, the beverage's source of caffeine.[11]
 
@@ -47,7 +45,7 @@ In December 1991, Coca-Cola Enterprises merged with the Johnston Coca-Cola Bottl
 
 Origins of bottling
 
-Commercial._At_the_Coca_Cola_Plant_BAnQ_P48S1P06539.jpg, Canada.]] The first bottling of Coca-Cola occurred in Vicksburg, Mississippi, at the Biedenharn Candy Company on March 12, 1894.[33] The proprietor of the bottling works was Joseph A. Biedenharn.[34] The original bottles were Hutchinson bottles, very different from the much later hobble-skirt design of 1915 now so familiar.
+, Canada.]] The first bottling of Coca-Cola occurred in Vicksburg, Mississippi, at the Biedenharn Candy Company on March 12, 1894.[33] The proprietor of the bottling works was Joseph A. Biedenharn.[34] The original bottles were Hutchinson bottles, very different from the much later hobble-skirt design of 1915 now so familiar.
 
 It was then a few years later that two entrepreneurs from Chattanooga, Tennessee, namely Benjamin F. Thomas and Joseph B. Whitehead, proposed the idea of bottling and were so persuasive that Candler signed a contract giving them control of the procedure for only one dollar.[35] Candler never collected his dollar, but in 1899, Chattanooga became the site of the first Coca-Cola bottling company. Candler remained very content just selling his company's syrup.[36] The loosely termed contract proved to be problematic for The Coca-Cola Company for decades to come. Legal matters were not helped by the decision of the bottlers to subcontract to other companies, effectively becoming parent bottlers.[37] This contract specified that bottles would be sold at 5¢ each and had no fixed duration, leading to the fixed price of Coca-Cola from 1886 to 1959.
 
@@ -55,15 +53,11 @@ It was then a few years later that two entrepreneurs from Chattanooga, Tennessee
 
 The first outdoor wall advertisement that promoted the Coca-Cola drink was painted in 1894 in Cartersville, Georgia.[38] Cola syrup was sold as an over-the-counter dietary supplement for upset stomach.[39][40] By the time of its 50th anniversary, the soft drink had reached the status of a national icon in the USA. In 1935, it was certified kosher by Atlanta Rabbi Tobias Geffen, after the company made minor changes in the sourcing of some ingredients.[41]
 
-1BILLIONTHgallonCOCACOLAowner.jpg
-
-FLEEMANSpharmacyCOKErwLIPACKowner.jpg
-
 The longest running commercial Coca-Cola soda fountain anywhere was Atlanta's Fleeman's Pharmacy, which first opened its doors in 1914.[42] Jack Fleeman took over the pharmacy from his father and ran it until 1995; closing it after 81 years.[43] On July 12, 1944, the one-billionth gallon of Coca-Cola syrup was manufactured by The Coca-Cola Company. Cans of Coke first appeared in 1955.[44]
 
 New Coke
 
-World-of-coca-cola.jpg _World of Coca-Cola_ museum in 2003]] On April 23, 1985, Coca-Cola, amid much publicity, attempted to change the formula of the drink with "New Coke". Follow-up taste tests revealed most consumers preferred the taste of New Coke to both Coke and Pepsi[45] but Coca-Cola management was unprepared for the public's nostalgia for the old drink, leading to a backlash. The company gave in to protests and returned to the old formula under the name Coca-Cola Classic, on July 10, 1985.
+_World of Coca-Cola_ museum in 2003]] On April 23, 1985, Coca-Cola, amid much publicity, attempted to change the formula of the drink with "New Coke". Follow-up taste tests revealed most consumers preferred the taste of New Coke to both Coke and Pepsi[45] but Coca-Cola management was unprepared for the public's nostalgia for the old drink, leading to a backlash. The company gave in to protests and returned to the old formula under the name Coca-Cola Classic, on July 10, 1985.
 
 21st century
 
@@ -93,15 +87,11 @@ Formula of natural flavorings
 
 The exact formula of Coca-Cola's natural flavorings (but not its other ingredients, which are listed on the side of the bottle or can) is a trade secret. The original copy of the formula was held in SunTrust Bank's main vault in Atlanta for 86 years. Its predecessor, the Trust Company, was the underwriter for the Coca-Cola Company's initial public offering in 1919. On December 8, 2011, the original secret formula was moved from the vault at SunTrust Banks to a new vault containing the formula which will be on display for visitors to its World of Coca-Cola museum in downtown Atlanta.[62]
 
-Coke_Museum.JPG
-
 According to Snopes, a popular myth states that only two executives have access to the formula, with each executive having only half the formula.[63] However, several sources state that while Coca-Cola does have a rule restricting access to only two executives, each knows the entire formula and others, in addition to the prescribed duo, have known the formulation process.[64]
 
 On February 11, 2011, Ira Glass said on his PRI radio show, _This American Life_, that _TAL_ staffers had found a recipe in "Everett Beal's Recipe Book", reproduced in the February 28, 1979, issue of _The Atlanta Journal-Constitution_, that they believed was either Pemberton's original formula for Coca-Cola, or a version that he made either before or after the product hit the market in 1886. The formula basically matched the one found in Pemberton's diary.[65][66][67] Coca-Cola archivist Phil Mooney acknowledged that the recipe "could ... be a precursor" to the formula used in the original 1886 product, but emphasized that Pemberton's original formula is not the same as the one used in the current product.[68]
 
 Use of stimulants in formula
-
-Pembertoncokeanzeige.jpg
 
 When launched, Coca-Cola's two key ingredients were cocaine and caffeine. The cocaine was derived from the coca leaf and the caffeine from kola nut (also spelled "cola nut" at the time), leading to the name Coca-Cola.[69][70]
 
@@ -139,7 +129,7 @@ Coca-Cola has been a point of legal discussion in the Middle East. In the early 
 
 Brand portfolio
 
-Coca-Cola_2019_Lineup.gif This is a list of variants of Coca-Cola introduced around the world. In addition to the caffeine-free version of the original, additional fruit flavors have been included over the years. Not included here are versions of Diet Coke and Coca-Cola Zero Sugar; variant versions of those no-calorie colas can be found at their respective articles.
+This is a list of variants of Coca-Cola introduced around the world. In addition to the caffeine-free version of the original, additional fruit flavors have been included over the years. Not included here are versions of Diet Coke and Coca-Cola Zero Sugar; variant versions of those no-calorie colas can be found at their respective articles.
 
 -   CAFFEINE-FREE COCA-COLA (1983–present) – Coca-Cola without the caffeine.
 -   COCA-COLA CHERRY (1985–present) – Coca-Cola with a cherry flavor. Was available in Canada starting in 1996. Originally marketed as CHERRY COKE (CHERRY COCA-COLA) in North America until 2006.
@@ -204,11 +194,11 @@ In Turkey, Cola Turka, in Iran and the Middle East, Zamzam Cola and Parsi Cola, 
 
 Advertising
 
-Cocacola-5cents-1900_edit1.jpg in formal 19th-century attire. The ad is titled _Drink Coca-Cola 5¢_. (US).]] Ft_Dodge_ghost_sign.jpg in Fort Dodge, Iowa. Older Coca-Cola ghosts behind Borax and telephone ads. April 2008.]] Camion_cocacola_argentina_1942.jpg Coca-Cola's advertising has significantly affected American culture, and it is frequently credited with inventing the modern image of Santa Claus as an old man in a red-and-white suit. Although the company did start using the red-and-white Santa image in the 1930s, with its winter advertising campaigns illustrated by Haddon Sundblom, the motif was already common.[112][113] Coca-Cola was not even the first soft drink company to use the modern image of Santa Claus in its advertising: White Rock Beverages used Santa in advertisements for its ginger ale in 1923, after first using him to sell mineral water in 1915.[114][115] Before Santa Claus, Coca-Cola relied on images of smartly dressed young women to sell its beverages. Coca-Cola's first such advertisement appeared in 1895, featuring the young Bostonian actress Hilda Clark as its spokeswoman.
+in formal 19th-century attire. The ad is titled _Drink Coca-Cola 5¢_. (US).]] in Fort Dodge, Iowa. Older Coca-Cola ghosts behind Borax and telephone ads. April 2008.]] Coca-Cola's advertising has significantly affected American culture, and it is frequently credited with inventing the modern image of Santa Claus as an old man in a red-and-white suit. Although the company did start using the red-and-white Santa image in the 1930s, with its winter advertising campaigns illustrated by Haddon Sundblom, the motif was already common.[112][113] Coca-Cola was not even the first soft drink company to use the modern image of Santa Claus in its advertising: White Rock Beverages used Santa in advertisements for its ginger ale in 1923, after first using him to sell mineral water in 1915.[114][115] Before Santa Claus, Coca-Cola relied on images of smartly dressed young women to sell its beverages. Coca-Cola's first such advertisement appeared in 1895, featuring the young Bostonian actress Hilda Clark as its spokeswoman.
 
 1941 saw the first use of the nickname "Coke" as an official trademark for the product, with a series of advertisements informing consumers that "Coke means Coca-Cola".[116] In 1971, a song from a Coca-Cola commercial called "I'd Like to Teach the World to Sing", produced by Billy Davis, became a hit single.
 
-Cabo_Verde_Fogo_CokeBooth.JPG in 2004]] Coca-cola_(2).JPG Coke's advertising is pervasive, as one of Woodruff's stated goals was to ensure that everyone on Earth drank Coca-Cola as their preferred beverage. This is especially true in southern areas of the United States, such as Atlanta, where Coke was born.
+in 2004]] Coke's advertising is pervasive, as one of Woodruff's stated goals was to ensure that everyone on Earth drank Coca-Cola as their preferred beverage. This is especially true in southern areas of the United States, such as Atlanta, where Coke was born.
 
 Some Coca-Cola television commercials between 1960 through 1986 were written and produced by former Atlanta radio veteran Don Naylor (WGST 1936–1950, WAGA 1951–1959) during his career as a producer for the McCann Erickson advertising agency. Many of these early television commercials for Coca-Cola featured movie stars, sports heroes, and popular singers.
 
@@ -234,7 +224,7 @@ Holiday campaigns
 
 Throughout the years, Coca-Cola has released limited time collector bottles for Christmas.
 
-Weihnachtstruck.jpg Coca-Cola Christmas truck in Dresden, Germany, 2004]]
+Coca-Cola Christmas truck in Dresden, Germany, 2004]]
 
 The "Holidays are coming!" advertisement features a train of red delivery trucks, emblazoned with the Coca-Cola name and decorated with Christmas lights, driving through a snowy landscape and causing everything that they pass to light up and people to watch as they pass through.[126]
 
@@ -268,7 +258,7 @@ Introduced March 1, 2010, in Canada, to celebrate the 2010 Winter Olympics, Coca
 
 In mass media
 
-VWT2_Coca_Cola.JPG in Maringá, Paraná, Brazil, 2012.]]
+in Maringá, Paraná, Brazil, 2012.]]
 
 Coca-Cola has been prominently featured in many films and television programs. It was a major plot element in films such as One, Two, Three, The Coca-Cola Kid, and The Gods Must Be Crazy, among many others. In music, in the Beatles' song, "Come Together", the lyrics say, "He shoot Coca-Cola", he say.... The Beach Boys also referenced Coca-Cola in their 1964 song "All Summer Long" (i.e. Member when you spilled Coke all over your blouse?)[142]
 

@@ -1,4 +1,4 @@
-cavitating-prop.jpg experiment.]] Cavitation_bubble_implosion.png Cavitation.jpg hydraulic pump.]] Cavitation_in_a_gear_pump.ogv.]]
+experiment.]] hydraulic pump.]] .]]
 
 CAVITATION is a phenomenon in which rapid changes of pressure in a liquid lead to the formation of small vapor-filled cavities, in places where the pressure is relatively low.
 
@@ -86,7 +86,7 @@ Cavitation has been applied to egg pasteurization. A hole-filled rotor produces 
 
 Cavitation damage
 
-Turbine_Francis_Worn.JPG.]]
+.]]
 
 Cavitation is, in many cases, an undesirable occurrence. In devices such as propellers and pumps, cavitation causes a great deal of noise, damage to components, vibrations, and a loss of efficiency. Cavitation has also become a concern in the renewable energy sector as it may occur on the blade surface of tidal stream turbines.[22]
 

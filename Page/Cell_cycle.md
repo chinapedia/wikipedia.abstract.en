@@ -1,11 +1,11 @@
-Normal_Cell_Life_Cycle.png Wilson1900Fig2.jpg'') cells in different phases of the cell cycle. Growth in an 'organism' is carefully controlled by regulating the cell cycle.]] The CELL CYCLE, or CELL-DIVISION CYCLE, is the series of events that take place in a cell leading to duplication of its DNA (DNA replication) and division of cytoplasm and organelles to produce two daughter cells. In bacteria, which lack a cell nucleus, the cell cycle is divided into the B, C, and D periods. The B period extends from the end of cell division to the beginning of DNA replication. DNA replication occurs during the C period. The D period refers to the stage between the end of DNA replication and the splitting of the bacterial cell into two daughter cells.[1] In cells with a nucleus, as in eukaryotes, the cell cycle is also divided into two main stages: interphase and the mitotic (M) phase (including mitosis and cytokinesis). During interphase, the cell grows, accumulating nutrients needed for mitosis, and undergoes DNA replication preparing it for cell division. During the mitotic phase, the replicated chromosomes and cytoplasm separate into two new daughter cells. To ensure the proper division of the cell, there are control mechanisms known as cell cycle checkpoints.
+'') cells in different phases of the cell cycle. Growth in an 'organism' is carefully controlled by regulating the cell cycle.]] The CELL CYCLE, or CELL-DIVISION CYCLE, is the series of events that take place in a cell leading to duplication of its DNA (DNA replication) and division of cytoplasm and organelles to produce two daughter cells. In bacteria, which lack a cell nucleus, the cell cycle is divided into the B, C, and D periods. The B period extends from the end of cell division to the beginning of DNA replication. DNA replication occurs during the C period. The D period refers to the stage between the end of DNA replication and the splitting of the bacterial cell into two daughter cells.[1] In cells with a nucleus, as in eukaryotes, the cell cycle is also divided into two main stages: interphase and the mitotic (M) phase (including mitosis and cytokinesis). During interphase, the cell grows, accumulating nutrients needed for mitosis, and undergoes DNA replication preparing it for cell division. During the mitotic phase, the replicated chromosomes and cytoplasm separate into two new daughter cells. To ensure the proper division of the cell, there are control mechanisms known as cell cycle checkpoints.
 
 The cell-division cycle is a vital process by which a single-celled fertilized egg develops into a mature organism, as well as the process by which hair, skin, blood cells, and some internal organs are renewed. After cell division, each of the daughter cells begin the interphase of a new cycle. Although the various stages of interphase are not usually morphologically distinguishable, each phase of the cell cycle has a distinct set of specialized biochemical processes that prepare the cell for initiation of cell division.
 
 
 Phases
 
-The eukaryotic cell cycle consists of four distinct phases: G₁ phase, S phase (synthesis), G₂ phase (collectively known as interphase) and M phase (mitosis and cytokinesis). M phase is itself composed of two tightly coupled processes: mitosis, in which the cell's nucleus divides, and cytokinesis, in which the cell's cytoplasm divides forming two daughter cells. Activation of each phase is dependent on the proper progression and completion of the previous one. Cells that have temporarily or reversibly stopped dividing are said to have entered a state of quiescence called G₀ phase. Cell_Cycle_2-2.svg, M = Mitosis; inner ring: M = Mitosis, G₁ = Gap 1, G₂ = Gap 2, S = Synthesis; not in ring: G₀ = Gap 0/Resting[2]]]
+The eukaryotic cell cycle consists of four distinct phases: G₁ phase, S phase (synthesis), G₂ phase (collectively known as interphase) and M phase (mitosis and cytokinesis). M phase is itself composed of two tightly coupled processes: mitosis, in which the cell's nucleus divides, and cytokinesis, in which the cell's cytoplasm divides forming two daughter cells. Activation of each phase is dependent on the proper progression and completion of the previous one. Cells that have temporarily or reversibly stopped dividing are said to have entered a state of quiescence called G₀ phase. , M = Mitosis; inner ring: M = Mitosis, G₁ = Gap 1, G₂ = Gap 2, S = Synthesis; not in ring: G₀ = Gap 0/Resting[2]]]
 
   State           Phase     Abbreviation                                                                                                                                                                                          Description
   --------------- --------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -19,7 +19,7 @@ After cell division, each of the daughter cells begin the interphase of a new cy
 
 G₀ phase (quiescence)
 
-Plant_cell_cycle.svg Animal_cell_cycle-en.svg G₀ is a resting phase where the cell has left the cycle and has stopped dividing. The cell cycle starts with this phase. The word "post-mitotic" is sometimes used to refer to both quiescent and senescent cells. Non-proliferative (non-dividing) cells in multicellular eukaryotes generally enter the quiescent G₀ state from G₁ and may remain quiescent for long periods of time, possibly indefinitely (as is often the case for neurons). This is very common for cells that are fully differentiated. Cellular senescence occurs in response to DNA damage and external stress and usually constitutes an arrest in G₁. Some cells enter the G₀ phase semi-permanently and are considered post-mitotic, e.g., some liver, kidney, and stomach cells. Many cells do not enter G₀ and continue to divide throughout an organism's life, e.g., epithelial cells.
+G₀ is a resting phase where the cell has left the cycle and has stopped dividing. The cell cycle starts with this phase. The word "post-mitotic" is sometimes used to refer to both quiescent and senescent cells. Non-proliferative (non-dividing) cells in multicellular eukaryotes generally enter the quiescent G₀ state from G₁ and may remain quiescent for long periods of time, possibly indefinitely (as is often the case for neurons). This is very common for cells that are fully differentiated. Cellular senescence occurs in response to DNA damage and external stress and usually constitutes an arrest in G₁. Some cells enter the G₀ phase semi-permanently and are considered post-mitotic, e.g., some liver, kidney, and stomach cells. Many cells do not enter G₀ and continue to divide throughout an organism's life, e.g., epithelial cells.
 
 Cellular senescence is also a state that occurs in response to DNA damage or degradation that would make a cell's progeny nonviable; it is often a biochemical alternative to the self-destruction of such a damaged cell by apoptosis.
 
@@ -57,7 +57,7 @@ The relatively brief _M phase_ consists of nuclear division (karyokinesis). It i
 -   anaphase,
 -   telophase
 
-Mitosis_Stages.svg Mitosis is the process by which a eukaryotic cell separates the chromosomes in its cell nucleus into two identical sets in two nuclei.[7] During the process of mitosis the pairs of chromosomes condense and attach to microtubules that pull the sister chromatids to opposite sides of the cell.[8]
+Mitosis is the process by which a eukaryotic cell separates the chromosomes in its cell nucleus into two identical sets in two nuclei.[7] During the process of mitosis the pairs of chromosomes condense and attach to microtubules that pull the sister chromatids to opposite sides of the cell.[8]
 
 Mitosis occurs exclusively in eukaryotic cells, but occurs in different ways in different species. For example, animal cells undergo an "open" mitosis, where the nuclear envelope breaks down before the chromosomes separate, while fungi such as _Aspergillus nidulans_ and _Saccharomyces cerevisiae_ (yeast) undergo a "closed" mitosis, where chromosomes divide within an intact cell nucleus.[9]
 
@@ -74,11 +74,10 @@ Regulation of the cell cycle involves processes crucial to the survival of a cel
 
 Role of cyclins and CDKs
 
-+-------------------------+----------------+
-| Paul_Nurse_portrait.jpg | Tim_hunt.jpg   |
-| Nobel Laureate          | Nobel Laureate |
-| Paul Nurse              | Tim Hunt       |
-+-------------------------+----------------+
++----------------+----------------+
+| Nobel Laureate | Nobel Laureate |
+| Paul Nurse     | Tim Hunt       |
++----------------+----------------+
 
 Two key classes of regulatory molecules, cyclins and cyclin-dependent kinases (CDKs), determine a cell's progress through the cell cycle.[11] Leland H. Hartwell, R. Timothy Hunt, and Paul M. Nurse won the 2001 Nobel Prize in Physiology or Medicine for their discovery of these central molecules.[12] Many of the genes encoding cyclins and CDKs are conserved among all eukaryotes, but in general more complex organisms have more elaborate cell cycle control systems that incorporate more individual components. Many of the relevant genes were first identified by studying yeast, especially _Saccharomyces cerevisiae_;[13] genetic nomenclature in yeast dubs many of these genes _cdc_ (for "cell division cycle") followed by an identifying number, e.g. _cdc25_ or _cdc20_.
 
@@ -98,7 +97,7 @@ Cyclin D is the first cyclin produced in the cell cycle, in response to extracel
 
 Inhibitors
 
-Signal_transduction_pathways.svg, also known as "programmed cell death"]] Two families of genes, the _cip/kip_ (_CDK interacting protein/Kinase inhibitory protein_) family and the INK4a/ARF (_In_hibitor of _K_inase 4/_A_lternative _R_eading _F_rame) family, prevent the progression of the cell cycle. Because these genes are instrumental in prevention of tumor formation, they are known as tumor suppressors.
+, also known as "programmed cell death"]] Two families of genes, the _cip/kip_ (_CDK interacting protein/Kinase inhibitory protein_) family and the INK4a/ARF (_In_hibitor of _K_inase 4/_A_lternative _R_eading _F_rame) family, prevent the progression of the cell cycle. Because these genes are instrumental in prevention of tumor formation, they are known as tumor suppressors.
 
 The _CIP/KIP_ FAMILY includes the genes p21, p27 and p57. They halt cell cycle in G₁ phase, by binding to, and inactivating, cyclin-CDK complexes. p21 is activated by p53 (which, in turn, is triggered by DNA damage e.g. due to radiation). p27 is activated by Transforming Growth Factor of β (TGF β), a growth inhibitor.
 
@@ -142,7 +141,7 @@ p53 plays an important role in triggering the control mechanisms at both G₁/S 
 
 Fluorescence imaging of the cell cycle
 
-Far-Red_&_Near-infrared_Fluorescent_Ubiquitination-based_Cell_Cycle_Indicator_(FUCCI).gif-hCdtI(30/120) fluorescence is shown in red and highlights the G₀/G₁ phases.]] Pioneering work by Atsushi Miyawaki and coworkers developed the fluorescent ubiquitination-based cell cycle indicator (FUCCI), which enables fluorescence imaging of the cell cycle. Originally, a green fluorescent protein, mAG, was fused to hGem(1/110) and an orange fluorescent protein (mKO₂) was fused to hCdt1(30/120). Note, these fusions are fragments that contain a nuclear localization signal and ubiquitination sites for degradation, but are not functional proteins. The green fluorescent protein is made during the S, G₂, or M phase and degraded during the G₀ or G₁ phase, while the orange fluorescent protein is made during the G₀ or G₁ phase and destroyed during the S, G₂, or M phase.[42] A far-red and near-infrared FUCCI was developed using a cyanobacteria-derived fluorescent protein (smURFP) and a bacteriophytochrome-derived fluorescent protein (movie found at this link).[43]
+-hCdtI(30/120) fluorescence is shown in red and highlights the G₀/G₁ phases.]] Pioneering work by Atsushi Miyawaki and coworkers developed the fluorescent ubiquitination-based cell cycle indicator (FUCCI), which enables fluorescence imaging of the cell cycle. Originally, a green fluorescent protein, mAG, was fused to hGem(1/110) and an orange fluorescent protein (mKO₂) was fused to hCdt1(30/120). Note, these fusions are fragments that contain a nuclear localization signal and ubiquitination sites for degradation, but are not functional proteins. The green fluorescent protein is made during the S, G₂, or M phase and degraded during the G₀ or G₁ phase, while the orange fluorescent protein is made during the G₀ or G₁ phase and destroyed during the S, G₂, or M phase.[42] A far-red and near-infrared FUCCI was developed using a cyanobacteria-derived fluorescent protein (smURFP) and a bacteriophytochrome-derived fluorescent protein (movie found at this link).[43]
 
 
 Role in tumor formation

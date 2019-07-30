@@ -7,8 +7,6 @@ Fairmount is located at (40.417702, −85.648942).[1]
 
 According to the 2010 census, Fairmount has a total area of , all land.[2]
 
-Fairmount-indiana-from-above.jpg
-
 
 Demographics
 
@@ -37,7 +35,7 @@ The Fairmount area was settled in the 1830s mostly by Quakers from North Carolin
 
 After a large deposit of natural gas was found in 1887, Fairmount became part of the Indiana Gas Boom and a center of the glass industry for the rest of the 19th century. Shortly after the depletion of the gas in 1900 the automobile industry set up factories in the nearby large cities, and Fairmount became a bedroom community, restoring some of its lost prosperity.
 
-Fairmount_high_school_2003.jpg In the 1940s, James Dean lived with an aunt and uncle, Ortense and Marcus Winslow on a farm north of Fairmount. He attended Fairmount High School, graduating in 1949. After his death in 1955, Dean was buried in Park Cemetery. In 1996, a small Memorial Park north of the town's business district was dedicated in his memory with a bronze bust by Hollywood artist Kenneth Kendall.
+In the 1940s, James Dean lived with an aunt and uncle, Ortense and Marcus Winslow on a farm north of Fairmount. He attended Fairmount High School, graduating in 1949. After his death in 1955, Dean was buried in Park Cemetery. In 1996, a small Memorial Park north of the town's business district was dedicated in his memory with a bronze bust by Hollywood artist Kenneth Kendall.
 
 During the prosperity of the 1960s, Fairmount enjoyed a time of building with a new town hall, water works, post office and elementary school. At the end of the decade the local school district merged with a neighboring one, forming the Madison-Grant united school district. A new high school was built for this district, and Fairmount High School became a middle school. When a new junior high school was opened in 1986, the Fairmount High School building was permanently closed.
 

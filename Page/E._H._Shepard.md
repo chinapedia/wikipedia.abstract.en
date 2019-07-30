@@ -3,7 +3,7 @@ ERNEST HOWARD SHEPARD OBE, MC (10 December 1879 – 24 March 1976) was an Englis
 
 Career
 
-EH_Shepard's_House,_Lodsworth._-_geograph.org.uk_-_203097.jpg, marked with a blue plaque ]] Shepard was born in St John's Wood, London. Having shown some promise in drawing at St Paul's School, in 1897 he enrolled in the Heatherley School of Fine Art in Chelsea.[1] After a productive year there, he attended the Royal Academy Schools, winning a Landseer scholarship in 1899 and a British Institute prize in 1900.[2] There he met Florence Eleanor Chaplin, whom he married in 1904.[3] By 1906 Shepard had become a successful illustrator, having produced work for illustrated editions of Aesop's Fables, _David Copperfield_, and _Tom Brown's Schooldays_, while at the same time working as an illustrator on the staff of _Punch_.[4] The couple bought a house in London, but in 1905 moved to Shamley Green, near Guildford.
+, marked with a blue plaque ]] Shepard was born in St John's Wood, London. Having shown some promise in drawing at St Paul's School, in 1897 he enrolled in the Heatherley School of Fine Art in Chelsea.[1] After a productive year there, he attended the Royal Academy Schools, winning a Landseer scholarship in 1899 and a British Institute prize in 1900.[2] There he met Florence Eleanor Chaplin, whom he married in 1904.[3] By 1906 Shepard had become a successful illustrator, having produced work for illustrated editions of Aesop's Fables, _David Copperfield_, and _Tom Brown's Schooldays_, while at the same time working as an illustrator on the staff of _Punch_.[4] The couple bought a house in London, but in 1905 moved to Shamley Green, near Guildford.
 
 Shepard was a prolific painter, showing in a number of major exhibitions. He exhibited at the Royal Society of Artists, Birmingham—a traditional venue for generic painters—as well as in the more radical atmosphere of Glasgow's Institute of Fine Arts, where some of the most innovative artists were on show. He was twice an exhibitor at the prestigious Walker Art Gallery in Liverpool, one of the largest and most important provincial galleries in the country, and another at the Manchester Art Gallery, a Victorian institution now part of the public libraries. But at heart, Shepard was a Londoner, showing sixteen times at the Royal Academy on Piccadilly. His wife, who was also a painter, found a home in London's West End venue for her own modest output during a 25-year career.[5]
 
@@ -33,8 +33,6 @@ Shepard was made an Officer of the Order of the British Empire in the 1972 Birth
 
 
 Personal life
-
-E_H_Shepard's_grave.JPG
 
 Shepard lived at Melina Place in St John's Wood[41] and from 1955 in Lodsworth, West Sussex. He and Florence had two children, Graham (born 1907) and Mary (born 1909),[42] who both became illustrators. Lt. Graham Shepard died when his ship HMS _Polyanthus_ was sunk by German submarine U-952 in September 1943. Mary married E.V. Knox, the editor of _Punch_, and became known as the illustrator of the _Mary Poppins_ series of children's books. Florence Shepard died in 1927. In November 1943 Shepard married Norah Carroll, a nurse at St Mary's Hospital, Paddington. They remained married until his death in 1976.[43]
 

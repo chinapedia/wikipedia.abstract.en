@@ -3,8 +3,6 @@ _HYDRA_ is a genus of small, fresh-water organisms of the phylum Cnidaria and cl
 
 Morphology
 
-Hydra_nematocyst_firing_01.png
-
 _Hydra_ has a tubular, radially symmetric body up to long when extended, secured by a simple adhesive foot called the basal disc. Gland cells in the basal disc secrete a sticky fluid that accounts for its adhesive properties.
 
 At the free end of the body is a mouth opening surrounded by one to twelve thin, mobile tentacles. Each tentacle, or cnida (plural: cnidae), is clothed with highly specialised stinging cells called cnidocytes. Cnidocytes contain specialized structures called nematocysts, which look like miniature light bulbs with a coiled thread inside. At the narrow outer edge of the cnidocyte is a short trigger hair called a cnidocil. Upon contact with prey, the contents of the nematocyst are explosively discharged, firing a dart-like thread containing neurotoxins into whatever triggered the release. This can paralyze the prey, especially if many hundreds of nematocysts are fired.
@@ -28,14 +26,14 @@ Some has only two sheets of neurons.[6]
 
 Motion and locomotion
 
-Hydras_(8).JPG If _Hydra_ are alarmed or attacked, the tentacles can be retracted to small buds, and the body column itself can be retracted to a small gelatinous sphere. _Hydra_ generally react in the same way regardless of the direction of the stimulus, and this may be due to the simplicity of the nerve nets.
+If _Hydra_ are alarmed or attacked, the tentacles can be retracted to small buds, and the body column itself can be retracted to a small gelatinous sphere. _Hydra_ generally react in the same way regardless of the direction of the stimulus, and this may be due to the simplicity of the nerve nets.
 
 _Hydra_ are generally sedentary or sessile, but do occasionally move quite readily, especially when hunting. They have two distinct methods for moving – 'looping' and 'somersaulting'. They do this by bending over and attaching themselves to the substrate with the mouth and tentacles and then relocate the foot, which provides the usual attachment, this process is called looping. In somersaulting, the body then bends over and makes a new place of attachment with the foot. By this process of "looping" or "somersaulting", a _Hydra_ can move several inches (c. 100 mm) in a day. _Hydra_ may also move by amoeboid motion of their bases or by detaching from the substrate and floating away in the current.
 
 
 Reproduction and life cycle
 
-Hydra_Budding.svg'':
+'':
 1. Non-reproducing
 2. Creating a bud
 3. Daughter growing out
@@ -61,7 +59,7 @@ Some species of _Hydra_ exist in a mutual relationship with various types of uni
 
 Measuring the feeding response
 
-Fig1_TentacleSpread_wiki.png The feeding response in _Hydra_ is induced by reduced glutathione released from injured prey.[9] There are several methods conventionally used for quantification of the feeding response. In some, the duration for which the mouth remains open is measured.[10] Other methods rely on counting the number of _Hydra_ among a small population showing the feeding response after addition of glutathione.[11] Recently, an assay for measuring the feeding response in hydra has been developed.[12] In this method, the linear two-dimensional distance between the tip of the tentacle and the mouth of hydra was shown to be a direct measure of the extent of the feeding response. This method has been validated using a starvation model, as starvation is known to cause enhancement of the _Hydra_ feeding response.[13]
+The feeding response in _Hydra_ is induced by reduced glutathione released from injured prey.[9] There are several methods conventionally used for quantification of the feeding response. In some, the duration for which the mouth remains open is measured.[10] Other methods rely on counting the number of _Hydra_ among a small population showing the feeding response after addition of glutathione.[11] Recently, an assay for measuring the feeding response in hydra has been developed.[12] In this method, the linear two-dimensional distance between the tip of the tentacle and the mouth of hydra was shown to be a direct measure of the extent of the feeding response. This method has been validated using a starvation model, as starvation is known to cause enhancement of the _Hydra_ feeding response.[13]
 
 
 Morphallaxis

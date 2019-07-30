@@ -16,7 +16,7 @@ During a 1935–1942 colonization attempt, the island was most likely on Hawaii 
 
 History
 
-Orthographic_projection_over_Baker_Island.png Baker was discovered in 1818 by Captain Elisha Folger of the Nantucket whaling ship _Equator_, who called the island "New Nantucket". In August 1825 Baker was sighted by Captain Obed Starbuck of the _Loper_, also a Nantucket whaler. The island is named for Michael Baker, who visited the island in 1834.[6] Other references state that he visited in 1832, and again on August 14, 1839, in the whaler _Gideon Howland_, to bury an American seaman.[7] Captain Baker claimed the island in 1855, then he sold his interest to a group who later formed the American Guano Company.[8][9]
+Baker was discovered in 1818 by Captain Elisha Folger of the Nantucket whaling ship _Equator_, who called the island "New Nantucket". In August 1825 Baker was sighted by Captain Obed Starbuck of the _Loper_, also a Nantucket whaler. The island is named for Michael Baker, who visited the island in 1834.[6] Other references state that he visited in 1832, and again on August 14, 1839, in the whaler _Gideon Howland_, to bury an American seaman.[7] Captain Baker claimed the island in 1855, then he sold his interest to a group who later formed the American Guano Company.[8][9]
 
 The United States took possession of the island in 1857, claiming it under the Guano Islands Act of 1856.[10] Its guano deposits were mined by the American Guano Company from 1859 to 1878. As an example of the scale of the guano mining and its destination the following ship movements were reported in late 1868.[11]
 
@@ -24,7 +24,7 @@ The United States took possession of the island in 1857, claiming it under the G
 -   American ship _Eldorado_, Capt Woodside, arrived Sept 14th from Honolulu, loaded 1550 tons guano, departed for Liverpool Oct 5th.
 -   British bark _Florence Chipman_, Capt Smith, arrived Oct 13th from Rio, loaded 1400 tons guano, departed for Liverpool Nov 5th.
 
-Flag_of_Baker_island_unofficial.svg On February 27, 1869 the British ship _Shaftsbury_ under Captain John Davies, which had arrived at Baker's Island on 5th February from Montevideo, was wrecked after being driven onto the reef by a sudden wind shift and squall from the northwest, dragging her moorings with her.[12] American ship _Robin Hood_ was destroyed by fire while loading on 30th August 1869.[13]
+On February 27, 1869 the British ship _Shaftsbury_ under Captain John Davies, which had arrived at Baker's Island on 5th February from Montevideo, was wrecked after being driven onto the reef by a sudden wind shift and squall from the northwest, dragging her moorings with her.[12] American ship _Robin Hood_ was destroyed by fire while loading on 30th August 1869.[13]
 
 On 7 December 1886, the American Guano Company sold all its rights to the British firm John T. Arundel and Company, which made the island its headquarters for guano digging operations in the Pacific from 1886 to 1891. Arundel applied in 1897 to the British Colonial Office for a licence to work the island on the presumption that the U.S. had abandoned their claim. The United Kingdom then considered Baker Island to be a British territory, although they never formally annexed it. The United States raised the question at the beginning of the 1920s and after some diplomatic exchanges, they launched in 1935 the American Equatorial Islands Colonization Project and issued on May 1936 Executive Order 7358 to clarify their sovereignty.[14]
 

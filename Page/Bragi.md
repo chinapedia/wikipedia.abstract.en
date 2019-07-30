@@ -1,4 +1,4 @@
-Idunn_and_Bragi_by_Blommer.jpg in this 19th-century painting by Nils Blommér.]] BRAGI is the skaldic god of poetry in Norse mythology.
+in this 19th-century painting by Nils Blommér.]] BRAGI is the skaldic god of poetry in Norse mythology.
 
 
 Etymology
@@ -8,7 +8,7 @@ _Bragi_ is generally associated with _bragr_, the Norse word for poetry. The nam
 
 Attestations
 
-Bragi_and_Iðunn_by_Frølich.jpg.]] Bragi_by_Wahlbom.jpg (1810–1858).]] Loki_taunts_Bragi.jpg.]]
+.]] (1810–1858).]] .]]
 
 Snorri Sturluson writes in the _Gylfaginning_ after describing Odin, Thor, and Baldr:
 

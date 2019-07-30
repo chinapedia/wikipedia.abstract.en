@@ -1,4 +1,4 @@
-Post-and-Grant-Avenue-Look.jpg, remembered as one of the worst natural disasters in the history of the United States.]]
+, remembered as one of the worst natural disasters in the history of the United States.]]
 
 A DISASTER is a serious disruption occurring over a relatively short period of time, affecting the functioning of a community or a society as it causes widespread human, material, economic or environmental loss which exceeds the ability of the affected community or society to cope using its own resources.[1][2]
 
@@ -20,7 +20,7 @@ Natural disasters
 
 A natural disaster is a natural process or phenomenon that may cause loss of life, injury or other health impacts, property damage, loss of livelihoods and services, social and economic disruption, or environmental damage.
 
-Various phenomena like earthquakes, landslides, volcanic eruptions, floods, hurricanes, tornadoes, blizzards, tsunamis, and cyclones are all natural disasters that kill thousands of people and destroy billions of dollars of habitat and property each year. However, the rapid growth of the world's population and its increased concentration often in hazardous environments has escalated both the frequency and severity of disasters. With the tropical climate and unstable landforms, coupled with deforestation, unplanned growth proliferation, non-engineered constructions make the disaster-prone areas more vulnerable. Developing countries suffer more or less chronically from natural disasters due to ineffective communication combined with insufficient budgetary allocation for disaster prevention and management. UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeges and terrorist attacks are examples of man-made disasters: they cause pollution, kill people, and damage property. This example is of the September 11 attacks in 2001 at the World Trade Center in New York.]]
+Various phenomena like earthquakes, landslides, volcanic eruptions, floods, hurricanes, tornadoes, blizzards, tsunamis, and cyclones are all natural disasters that kill thousands of people and destroy billions of dollars of habitat and property each year. However, the rapid growth of the world's population and its increased concentration often in hazardous environments has escalated both the frequency and severity of disasters. With the tropical climate and unstable landforms, coupled with deforestation, unplanned growth proliferation, non-engineered constructions make the disaster-prone areas more vulnerable. Developing countries suffer more or less chronically from natural disasters due to ineffective communication combined with insufficient budgetary allocation for disaster prevention and management. es and terrorist attacks are examples of man-made disasters: they cause pollution, kill people, and damage property. This example is of the September 11 attacks in 2001 at the World Trade Center in New York.]]
 
 Man-made disasters
 

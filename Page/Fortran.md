@@ -14,7 +14,7 @@ The names of earlier versions of the language through FORTRAN 77 were convention
 
 History
 
-IBM_704_mainframe.gif mainframe computer]] In late 1953, John W. Backus submitted a proposal to his superiors at IBM to develop a more practical alternative to assembly language for programming their IBM 704 mainframe computer.[7] Backus' historic FORTRAN team consisted of programmers Richard Goldberg, Sheldon F. Best, Harlan Herrick, Peter Sheridan, Roy Nutt, Robert Nelson, Irving Ziller, Harold Stern, Lois Haibt, and David Sayre.[8] Its concepts included easier entry of equations into a computer, an idea developed by J. Halcombe Laning and demonstrated in the Laning and Zierler system of 1952.[9] Some of these programmers were chess players and were chosen to work at IBM with the thought being they had logical minds.
+mainframe computer]] In late 1953, John W. Backus submitted a proposal to his superiors at IBM to develop a more practical alternative to assembly language for programming their IBM 704 mainframe computer.[7] Backus' historic FORTRAN team consisted of programmers Richard Goldberg, Sheldon F. Best, Harlan Herrick, Peter Sheridan, Roy Nutt, Robert Nelson, Irving Ziller, Harold Stern, Lois Haibt, and David Sayre.[8] Its concepts included easier entry of equations into a computer, an idea developed by J. Halcombe Laning and demonstrated in the Laning and Zierler system of 1952.[9] Some of these programmers were chess players and were chosen to work at IBM with the thought being they had logical minds.
 
 A draft specification for _The IBM Mathematical Formula Translating System_ was completed by November 1954.[10] The first manual for FORTRAN appeared in October 1956,[11] with the first FORTRAN compiler delivered in April 1957.[12] This was the first optimizing compiler, because customers were reluctant to use a high-level programming language unless its compiler could generate code with performance comparable to that of hand-coded assembly language.[13]
 
@@ -59,7 +59,7 @@ The first FORTRAN compiler reported diagnostic information by halting the progra
 
 Fixed layout and punched cards
 
-FortranCardPROJ039.agr.jpg, showing the specialized uses of columns 1–5, 6 and 73–80]] Before the development of disk files, text editors and terminals, programs were most often entered on a keypunch keyboard onto 80-column punched cards, one line to a card. The resulting deck of cards would be fed into a card reader to be compiled. Punched card codes included no lower-case letters or many special characters, and special versions of the IBM 026 keypunch were offered that would correctly print the re-purposed special characters used in FORTRAN.
+, showing the specialized uses of columns 1–5, 6 and 73–80]] Before the development of disk files, text editors and terminals, programs were most often entered on a keypunch keyboard onto 80-column punched cards, one line to a card. The resulting deck of cards would be fed into a card reader to be compiled. Punched card codes included no lower-case letters or many special characters, and special versions of the IBM 026 keypunch were offered that would correctly print the re-purposed special characters used in FORTRAN.
 
 Reflecting punched card input practice, Fortran programs were originally written in a fixed-column format, with the first 72 columns read into twelve 36-bit words.
 
@@ -143,7 +143,7 @@ This program, for Heron's formula, reads data on a tape reel containing three 5-
 
 FORTRAN III
 
-FortranCodingForm.png operators. Now obsolete.]] IBM also developed a _FORTRAN III_ in 1958 that allowed for inline assembly code among other features; however, this version was never released as a product. Like the 704 FORTRAN and FORTRAN II, FORTRAN III included machine-dependent features that made code written in it unportable from machine to machine.[23] Early versions of FORTRAN provided by other vendors suffered from the same disadvantage.
+operators. Now obsolete.]] IBM also developed a _FORTRAN III_ in 1958 that allowed for inline assembly code among other features; however, this version was never released as a product. Like the 704 FORTRAN and FORTRAN II, FORTRAN III included machine-dependent features that made code written in it unportable from machine to machine.[23] Early versions of FORTRAN provided by other vendors suffered from the same disadvantage.
 
 IBM 1401 FORTRAN
 
@@ -196,7 +196,7 @@ Perhaps the most significant development in the early history of FORTRAN was the
 
 FORTRAN 77
 
-FORTRAN-77 program with compiler output, written on a CDC 175 at RWTH Aachen University, Germany, in 1987 4.3_BSD_UWisc_VAX_Emulation_f77_Manual.png for the Digital Equipment Corporation (DEC) VAX, displaying the manual for FORTRAN 77 (f77) compiler]] After the release of the FORTRAN 66 standard, compiler vendors introduced several extensions to _Standard Fortran_, prompting ANSI committee X3J3 in 1969 to begin work on revising the 1966 standard, under sponsorship of CBEMA, the Computer Business Equipment Manufacturers Association (formerly BEMA). Final drafts of this revised standard circulated in 1977, leading to formal approval of the new FORTRAN standard in April 1978. The new standard, called _FORTRAN 77_ and officially denoted X3.9-1978, added a number of significant features to address many of the shortcomings of FORTRAN 66:
+for the Digital Equipment Corporation (DEC) VAX, displaying the manual for FORTRAN 77 (f77) compiler]] After the release of the FORTRAN 66 standard, compiler vendors introduced several extensions to _Standard Fortran_, prompting ANSI committee X3J3 in 1969 to begin work on revising the 1966 standard, under sponsorship of CBEMA, the Computer Business Equipment Manufacturers Association (formerly BEMA). Final drafts of this revised standard circulated in 1977, leading to formal approval of the new FORTRAN standard in April 1978. The new standard, called _FORTRAN 77_ and officially denoted X3.9-1978, added a number of significant features to address many of the shortcomings of FORTRAN 66:
 
 -   Block and statements, with optional and clauses, to provide improved language support for structured programming
 -   loop extensions, including parameter expressions, negative increments, and zero trip counts

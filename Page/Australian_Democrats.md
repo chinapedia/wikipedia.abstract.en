@@ -44,7 +44,7 @@ In South Australia, the New Liberal Movement dissolved and merged with the Democ
 
 1986–1990: Janine Haines' leadership
 
-HainesChipp.jpg and Don Chipp, the first two leaders of the Australian Democrats]] Don Chipp resigned from the Senate on 18 August 1986, being succeeded as party leader by Janine Haines and replaced as a senator for Victoria by Janet Powell.
+and Don Chipp, the first two leaders of the Australian Democrats]] Don Chipp resigned from the Senate on 18 August 1986, being succeeded as party leader by Janine Haines and replaced as a senator for Victoria by Janet Powell.
 
 At the 1987 election following a double dissolution, the reduced quota of 7.7% necessary to win a seat assisted the election of three new senators. 6-year terms were won by Paul McLean (NSW) and incumbents Janine Haines (South Australia) and Janet Powell (Victoria). In South Australia, a second senator, John Coulter, was elected for a 3-year term, as were incumbent Michael Macklin (Queensland) and Jean Jenkins (Western Australia). 1990 saw the voluntary departure from the Senate of Janine Haines (a step with which not all Democrats agreed) and the failure of her strategic goal of winning the House of Representatives seat of Kingston.
 

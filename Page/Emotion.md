@@ -13,7 +13,7 @@ Emotions involve different components, such as subjective experience, cognitive 
 
 Etymology and history
 
-Sixteen_faces_expressing_the_human_passions._Wellcome_L0068375_(cropped).jpg]] The word "emotion" dates back to 1579, when it was adapted from the French word _émouvoir_, which means "to stir up". The term emotion was introduced into academic discussion as a catch-all term to passions, sentiments and affections.[16] The word emotion was coined in the early 1800s by Thomas Brown and it is around the 1830s that the modern concept of emotion first emerged for English Language.[17] "No one felt emotions before about 1830. Instead they felt other things - "passions", "accidents of the soul", "moral sentiments" - and explained them very differently from how we understand emotions today."[18]
+]] The word "emotion" dates back to 1579, when it was adapted from the French word _émouvoir_, which means "to stir up". The term emotion was introduced into academic discussion as a catch-all term to passions, sentiments and affections.[16] The word emotion was coined in the early 1800s by Thomas Brown and it is around the 1830s that the modern concept of emotion first emerged for English Language.[17] "No one felt emotions before about 1830. Instead they felt other things - "passions", "accidents of the soul", "moral sentiments" - and explained them very differently from how we understand emotions today."[18]
 
 Some cross cultural studies indicate that the categorization of "emotion" and classification of basic emotions such as "anger" and "sadness" are not universal and that the boundaries and domains of these concepts are categorized differently by all cultures.[19] However, others argue that there are some basic universal but spurious bases of emotions in some cultures.[20] In psychiatry and psychology, an inability to express or perceive emotion is sometimes referred to as alexithymia.[21]
 
@@ -62,15 +62,11 @@ A distinction can be made between emotional episodes and emotional dispositions.
 
 Basic emotions
 
-Emotions_-_3.svg Plutchik-wheel.svg
-
 For more than 40 years, Paul Ekman has supported the view that emotions are discrete, measurable, and physiologically distinct. Ekman's most influential work revolved around the finding that certain emotions appeared to be universally recognized, even in cultures that were preliterate and could not have learned associations for facial expressions through media. Another classic study found that when participants contorted their facial muscles into distinct facial expressions (for example, disgust), they reported subjective and physiological experiences that matched the distinct facial expressions. His research findings led him to classify six emotions as basic: anger, disgust, fear, happiness, sadness and surprise.[37] Later in his career,[38] Ekman theorized that other universal emotions may exist beyond these six. In light of this, recent cross-cultural studies led by Daniel Cordaro and Dacher Keltner, both former students of Ekman, extended the list of universal emotions. In addition to the original six, these studies provided evidence for amusement, awe, contentment, desire, embarrassment, pain, relief, and sympathy in both facial and vocal expressions. They also found evidence for boredom, confusion, interest, pride, and shame facial expressions, as well as contempt, interest, relief, and triumph vocal expressions.[39][40][41]
 
 Robert Plutchik agreed with Ekman's biologically driven perspective but developed the "wheel of emotions", suggesting eight primary emotions grouped on a positive or negative basis: joy versus sadness; anger versus fear; trust versus disgust; and surprise versus anticipation.[42] Some basic emotions can be modified to form complex emotions. The complex emotions could arise from cultural conditioning or association combined with the basic emotions. Alternatively, similar to the way primary colors combine, _primary emotions_ could blend to form the full spectrum of human emotional experience. For example, interpersonal anger and disgust could blend to form contempt. Relationships exist between basic emotions, resulting in positive or negative influences.[43]
 
 Multi-dimensional analysis
-
-.5px
 
 Psychologists have used methods such as factor analysis to attempt to map emotion-related responses onto a more limited number of dimensions. Such methods attempt to boil emotions down to underlying dimensions that capture the similarities and differences between experiences.[44] Often, the first two dimensions uncovered by factor analysis are valence (how negative or positive the experience feels) and arousal (how energized or enervated the experience feels). These two dimensions can be depicted on a 2D coordinate map.[45] This two-dimensional map has been theorized to capture one important component of emotion called core affect.[46][47] Core affect is not theorized to be the only component to emotion, but to give the emotion its hedonic and felt energy.
 
@@ -87,7 +83,7 @@ Early modern views on emotion are developed in the works of philosophers such as
 
 Evolutionary theories
 
-Expression_of_the_Emotions_Figure_15.png's _The Expression of the Emotions in Man and Animals_.]]
+'s _The Expression of the Emotions in Man and Animals_.]]
 
 19TH CENTURY
 
@@ -105,7 +101,7 @@ Somatic theories of emotion claim that bodily responses, rather than cognitive i
 
 James–Lange theory
 
-James-Lange_Theory_of_Emotion.png In his 1884 article[67] William James argued that feelings and emotions were _secondary_ to physiological phenomena. In his theory, James proposed that the perception of what he called an "exciting fact" directly led to a physiological response, known as "emotion."[68] To account for different types of emotional experiences, James proposed that stimuli trigger activity in the autonomic nervous system, which in turn produces an emotional experience in the brain. The Danish psychologist Carl Lange also proposed a similar theory at around the same time, and therefore this theory became known as the James–Lange theory. As James wrote, "the perception of bodily changes, as they occur, _is_ the emotion." James further claims that "we feel sad because we cry, angry because we strike, afraid because we tremble, and either we cry, strike, or tremble because we are sorry, angry, or fearful, as the case may be."[69]
+In his 1884 article[67] William James argued that feelings and emotions were _secondary_ to physiological phenomena. In his theory, James proposed that the perception of what he called an "exciting fact" directly led to a physiological response, known as "emotion."[68] To account for different types of emotional experiences, James proposed that stimuli trigger activity in the autonomic nervous system, which in turn produces an emotional experience in the brain. The Danish psychologist Carl Lange also proposed a similar theory at around the same time, and therefore this theory became known as the James–Lange theory. As James wrote, "the perception of bodily changes, as they occur, _is_ the emotion." James further claims that "we feel sad because we cry, angry because we strike, afraid because we tremble, and either we cry, strike, or tremble because we are sorry, angry, or fearful, as the case may be."[69]
 
 An example of this theory in action would be as follows: An emotion-evoking stimulus (snake) triggers a pattern of physiological response (increased heart rate, faster breathing, etc.), which is interpreted as a particular emotion (fear). This theory is supported by experiments in which by manipulating the bodily state induces a desired emotional state.[70] Some people may believe that emotions give rise to emotion-specific actions, for example, "I'm crying because I'm sad," or "I ran away because I was scared." The issue with the James–Lange theory is that of causation (bodily states causing emotions and being _a priori_), not that of the bodily influences on emotional experience (which can be argued and is still quite prevalent today in biofeedback studies and embodiment theory).[71]
 
@@ -256,7 +252,7 @@ In the 2000s, research in computer science, engineering, psychology and neurosci
 
 Notable theorists
 
-William_James_b1842b.jpg]]
+]]
 
 In the late 19th century, the most influential theorists were William James (1842–1910) and Carl Lange (1834–1900). James was an American psychologist and philosopher who wrote about educational psychology, psychology of religious experience/mysticism, and the philosophy of pragmatism. Lange was a Danish physician and psychologist. Working independently, they developed the James–Lange theory, a hypothesis on the origin and nature of emotions. The theory states that within human beings, as a response to experiences in the world, the autonomic nervous system creates physiological events such as muscular tension, a rise in heart rate, perspiration, and dryness of the mouth. Emotions, then, are feelings which come about as a result of these physiological changes, rather than being their cause.[149]
 

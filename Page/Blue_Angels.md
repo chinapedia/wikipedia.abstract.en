@@ -14,7 +14,7 @@ Air Shows
 
 The Blue Angels' current show season has 61 shows at 32 locations from the middle of March through the beginning of November 2019.[8] The "Blues" perform at both military and non-military airfields, and often over major U.S. cities and capitals such as the Chicago Air and Water Show, Cleveland's annual Labor Day Air Show, Jacksonville's Sea and Sky Spectacular, Milwaukee Air and Water Show, Oklahoma City's Star Spangled Salute Air Show, San Francisco's "Fleet Week" Maritime Festival, and Seattle's annual Seafair Festival.[9] A show is also performed annually each May for the United States Naval Academy at Annapolis, Maryland, including a flyover of graduation ceremonies. Canada is also included in the Blue Angels schedule for air shows, such as the Greenwood, Nova Scotia, Canada Air Show Atlantic.[10]
 
-Blue_Angels_Flying_in_Delta_Formation_at_Miramar.jpg During their aerobatic demonstration, the Blues fly six F/A-18 Hornet aircraft, split into the Diamond Formation (Blue Angels 1 through 4) and the Lead and Opposing _Solos_ (Blue Angels 5 and 6). Most of the show alternates between maneuvers performed by the Diamond Formation and those performed by the Solos. The Diamond, in tight formation and usually at lower speeds (400 mph), performs maneuvers such as formation loops, rolls, and transitions from one formation to another. The Solos showcase the high performance capabilities of their individual aircraft through the execution of high-speed passes, slow passes, fast rolls, slow rolls, and very tight turns. The highest speed flown during an air show is 700 mph (just under Mach 1) and the lowest speed is 120 mph.[11] Some of the maneuvers include both solo aircraft performing at once, such as opposing passes (toward each other in what appears to be a collision course) and mirror formations (back-to-back. belly-to-belly, or wingtip-to-wingtip, with one jet flying inverted). The Solos join the Diamond Formation near the end of the show for a number of maneuvers in the Delta Formation.
+During their aerobatic demonstration, the Blues fly six F/A-18 Hornet aircraft, split into the Diamond Formation (Blue Angels 1 through 4) and the Lead and Opposing _Solos_ (Blue Angels 5 and 6). Most of the show alternates between maneuvers performed by the Diamond Formation and those performed by the Solos. The Diamond, in tight formation and usually at lower speeds (400 mph), performs maneuvers such as formation loops, rolls, and transitions from one formation to another. The Solos showcase the high performance capabilities of their individual aircraft through the execution of high-speed passes, slow passes, fast rolls, slow rolls, and very tight turns. The highest speed flown during an air show is 700 mph (just under Mach 1) and the lowest speed is 120 mph.[11] Some of the maneuvers include both solo aircraft performing at once, such as opposing passes (toward each other in what appears to be a collision course) and mirror formations (back-to-back. belly-to-belly, or wingtip-to-wingtip, with one jet flying inverted). The Solos join the Diamond Formation near the end of the show for a number of maneuvers in the Delta Formation.
 
 The parameters of each show must be tailored in accordance with local weather conditions at showtime: in clear weather the _high_ show is performed; in overcast conditions a _low_ show is performed, and in limited visibility (weather permitting) the _flat_ show is presented. The _high_ show requires at least an ceiling and visibility of at least from the show's centerpoint. The minimum ceilings allowed for low and flat shows are 3,500 feet (~1 km) and , respectively.[12]
 
@@ -23,7 +23,7 @@ Aircraft
 
 The team flies the Boeing F/A-18 Hornet since 1986, which had served in the fleet and are constantly being maintained and updated to be combat-ready fighter aircraft.[13] Modifications to each F/A-18 include removal of the weapons and replacement with the tank that contains smoke-oil used in demonstrations, and outfitting with the control stick spring system for more precise aircraft control input. Control sticks are tensioned with of force installed on the control stick as to allow the pilot minimal room for uncommanded movement.
 
-BlueAngelsFA18.jpg in the strake vortices of a Blue Angels Hornet.]] C-130_Herculues_with_JATO.jpg "Fat Albert" conducting a Rocket Assisted Take Off]] The show's narrator flies Blue Angel 7, a two-seat F/A-18D Hornet, to show sites. The Blues use this jet for backup, and to give demonstration rides to VIP civilians. Three backseats at each show are available; one of them goes to members of the press, the other two to "Key Influencers".[14] The No. 4 slot pilot often flies the No. 7 aircraft in Friday's "practice" shows.
+in the strake vortices of a Blue Angels Hornet.]] "Fat Albert" conducting a Rocket Assisted Take Off]] The show's narrator flies Blue Angel 7, a two-seat F/A-18D Hornet, to show sites. The Blues use this jet for backup, and to give demonstration rides to VIP civilians. Three backseats at each show are available; one of them goes to members of the press, the other two to "Key Influencers".[14] The No. 4 slot pilot often flies the No. 7 aircraft in Friday's "practice" shows.
 
 The Blue Angels formerly used a United States Marine Corps Lockheed C-130T Hercules, nicknamed "Fat Albert", for their logistics, carrying spare parts, equipment, and to carry support personnel between shows. Beginning in 1975, "Bert" was used for Jet Assisted Take Off (JATO) and short aerial demonstrations just prior to the main event at selected venues, but the JATO demonstration ended in 2009 due to dwindling supplies of rockets.[15] "Fat Albert Airlines" flies with an all-Marine crew of three officers and five enlisted personnel. The current "Bert" (BUNO 164763) was retired from service in May 2019 with 30,000 flight hours. The Blue Angels will be replacing it with an Ex-RAF C-130J.[16]
 
@@ -34,7 +34,7 @@ Team members
 
 There have been 267 demonstration pilots in the Blue Angels history (includes the 2019 season).[18]
 
-170523-N-IR734-257.jpg Commander_Eric_Doyle.jpg All team members, both officer and enlisted, pilots and staff officers, come from the ranks of regular Navy and United States Marine Corps units. The demonstration pilots and narrator are made up of Navy and USMC Naval Aviators. Pilots serve two to three years,[19] and position assignments are made according to team needs, pilot experience levels, and career considerations for members. Other officers in the squadron include a Naval Flight Officer who serves as the Events Coordinator, three USMC C-130 pilots, an Executive Officer, a Maintenance Officer, a Supply Officer, a Public Affairs Officer, an Administrative Officer, and a Flight Surgeon. Enlisted members range from E-4 to E-9 and perform all maintenance, administrative, and support functions. They serve three to four years in the squadron.[20] After serving with the squadron, members return to fleet assignments.
+All team members, both officer and enlisted, pilots and staff officers, come from the ranks of regular Navy and United States Marine Corps units. The demonstration pilots and narrator are made up of Navy and USMC Naval Aviators. Pilots serve two to three years,[19] and position assignments are made according to team needs, pilot experience levels, and career considerations for members. Other officers in the squadron include a Naval Flight Officer who serves as the Events Coordinator, three USMC C-130 pilots, an Executive Officer, a Maintenance Officer, a Supply Officer, a Public Affairs Officer, an Administrative Officer, and a Flight Surgeon. Enlisted members range from E-4 to E-9 and perform all maintenance, administrative, and support functions. They serve three to four years in the squadron.[20] After serving with the squadron, members return to fleet assignments.
 
 The officer selection process requires pilots and support officers (flight surgeon, events coordinator, maintenance officer, supply officer, and public affairs officer) wishing to become Blue Angels to apply formally via their chain-of-command, with a personal statement, letters of recommendation, and flight records. Navy and Marine Corps F/A-18 demonstration pilots and naval flight officers are required to have a minimum of 1,250 tactical jet hours and be carrier-qualified. Marine Corps C-130 demonstration pilots are required to have 1,200 flight hours and be an aircraft commander.[21]
 
@@ -58,7 +58,7 @@ History
 
 Origins
 
-Blue_Angels_Vinage_Insignia.JPG The Blue Angels were originally formed in April 1946 as the '' Navy Flight Exhibition Team ''.[28]
+The Blue Angels were originally formed in April 1946 as the '' Navy Flight Exhibition Team ''.[28]
 
 The '' Flight Exhibition Team '' was first introduced as the "Blue Angels" during an air show in July 1946.[29]
 
@@ -74,11 +74,11 @@ The '' Navy Flight Exhibition Team was reorganized and commissioned the '' '' Un
 
 1946-1950
 
-F6F-5_Blue_Angels_NAN10_46.jpg in 1946]] Voris_and_1st_Blue_Angel_team_1946.jpgs (l to r): Lt. Al Taddeo, Solo; Lt. (J.G.) Gale Stouse, Spare; Lt. Cdr. R.M. "Butch" Voris, Flight Leader; Lt. Maurice "Wick" Wickendoll, Right Wing; Lt. Mel Cassidy, Left Wing.]]
+in 1946]] s (l to r): Lt. Al Taddeo, Solo; Lt. (J.G.) Gale Stouse, Spare; Lt. Cdr. R.M. "Butch" Voris, Flight Leader; Lt. Maurice "Wick" Wickendoll, Right Wing; Lt. Mel Cassidy, Left Wing.]]
 
 The Blue Angels were established as a Navy flight exhibition team on 24 April 1946 by order of Chief of Naval Operations Admiral Chester Nimitz to generate greater public support of naval aviation. To boost Navy morale, demonstrate naval air power, and maintain public interest in naval aviation, an underlying mission was to help the Navy generate public and political support for a larger allocation of the shrinking defense budget. Rear Admiral Ralph Davison personally selected Lieutenant Commander Roy Marlin "Butch" Voris, a World War II fighter ace, to assemble and train a flight demonstration team, naming him Officer-in-Charge and Flight Leader. Voris selected three fellow instructors to join him (Lt. Maurice "Wick" Wickendoll, Lt. Mel Cassidy, and Lt. Cmdr. Lloyd Barnard, veterans of the War in the Pacific), and they spent countless hours developing the show. The group perfected its initial maneuvers in secret over the Florida Everglades so that, in Voris' words, "if anything happened, just the alligators would know". The first four pilots and those after them, were and are some of the best and most experienced aviators in the Navy.[38]
 
-F8F-1_Blue_Angels_1946.jpgs in "diamond" formation, in 1947]] The team's first demonstration with Grumman F6F-5 Hellcat aircraft took place before Navy officials on 10 May 1946, and was met with enthusiastic approval. The Blue Angels performed their first public flight demonstration from their first training base and team headquarters at Naval Air Station (NAS) Jacksonville, Florida, on 15 and 16 June 1946,[39] with three F6F-5 Hellcats (a fourth F6F-5 was held in reserve). On 15 June, Voris led the three Hellcats (numbered 1–3), specially modified to reduce weight and painted sea blue with gold leaf trim, through their inaugural 15-minute-long performance.[40] The team employed a North American SNJ Texan, painted and configured to simulate a Japanese Zero, to simulate aerial combat. This aircraft was later painted yellow and dubbed the "Beetle Bomb". This aircraft is said to have been inspired by one of the Spike Jones' _Murdering the Classics_ series of musical satires, set to the tune (in part) of the William Tell Overture as a thoroughbred horse race scene, with "Beetle Bomb" being the "trailing horse" in the lyrics.
+s in "diamond" formation, in 1947]] The team's first demonstration with Grumman F6F-5 Hellcat aircraft took place before Navy officials on 10 May 1946, and was met with enthusiastic approval. The Blue Angels performed their first public flight demonstration from their first training base and team headquarters at Naval Air Station (NAS) Jacksonville, Florida, on 15 and 16 June 1946,[39] with three F6F-5 Hellcats (a fourth F6F-5 was held in reserve). On 15 June, Voris led the three Hellcats (numbered 1–3), specially modified to reduce weight and painted sea blue with gold leaf trim, through their inaugural 15-minute-long performance.[40] The team employed a North American SNJ Texan, painted and configured to simulate a Japanese Zero, to simulate aerial combat. This aircraft was later painted yellow and dubbed the "Beetle Bomb". This aircraft is said to have been inspired by one of the Spike Jones' _Murdering the Classics_ series of musical satires, set to the tune (in part) of the William Tell Overture as a thoroughbred horse race scene, with "Beetle Bomb" being the "trailing horse" in the lyrics.
 
 The team thrilled spectators with low-flying maneuvers performed in tight formations, and (according to Voris) by "keeping something in front of the crowds at all times. My objective was to beat the Army Air Corps. If we did that, we'd get all the other side issues. I felt that if we weren't the best, it would be my naval career." The Blue Angels' first public demonstration also netted the team its first trophy, which sits on display at the team's current home at NAS Pensacola. During an air show at Omaha, Nebraska on 19–21 July 1946, the _Navy Flight Exhibition Team_ was introduced as the _Blue Angels_.[41] The name had originated through a suggestion by Right Wing Pilot Lt. Maurice "Wick" Wickendoll, after he had read about the Blue Angel nightclub in _The New Yorker_ magazine. After ten appearances with the Hellcats, the Hellcats were replaced by the lighter, faster, and more powerful F8F-1 Bearcats on 25 August.[42] By the end of the year the team consisted of four Bearcats numbered 1-4 on the tail sections.
 
@@ -90,11 +90,11 @@ In 1949, the team acquired a Douglas R4D Skytrain for logistics to and from show
 
 1950-1960
 
-Blues_Support_Crew_watching_Diamond_Formation_at_Show.jpg jet fighter.]] The Blues Angels pilots continued to perform nationwide in 1950. On 25 June, the Korean War started, and all Blue Angels pilots[50] volunteered for combat duty. The squadron (due to a shortage of pilots, and no available planes) and its members were ordered to "combat ready status" after an exhibition at Naval Air Station, Dallas, Texas on 30 July.[51] The Blue Angels were disbanded,[52] and its pilots were reassigned to a carrier. Once aboard the aircraft carrier on 9 November, the group formed the core of Fighter Squadron 191 (VF-19), "Satan's Kittens", under the command of World War II fighter ace and 1950 Blue Angels Commander/Flight Leader, Lt. Commander John Magda; he was killed in action on 8 March 1951.[53]
+jet fighter.]] The Blues Angels pilots continued to perform nationwide in 1950. On 25 June, the Korean War started, and all Blue Angels pilots[50] volunteered for combat duty. The squadron (due to a shortage of pilots, and no available planes) and its members were ordered to "combat ready status" after an exhibition at Naval Air Station, Dallas, Texas on 30 July.[51] The Blue Angels were disbanded,[52] and its pilots were reassigned to a carrier. Once aboard the aircraft carrier on 9 November, the group formed the core of Fighter Squadron 191 (VF-19), "Satan's Kittens", under the command of World War II fighter ace and 1950 Blue Angels Commander/Flight Leader, Lt. Commander John Magda; he was killed in action on 8 March 1951.[53]
 
 On 25 October 1951, the Blues were ordered to re-activate as a flight demonstration team, and reported to NAS Corpus Christi, Texas. Lt. Cdr. Voris was again tasked with assembling the team (he was the first of only two commanding officers to lead them twice). In May 1952, the Blue Angels began performing again with F9F-5 Panthers[54] at an airshow in Memphis, Tennessee.[55] In 1953, the team[56] traded its Sky Train for a Curtiss R5C Commando. In August, "Blues" leader LCDR Ray Hawkins became the first naval aviator to survive an ejection at supersonic speeds when a new F9F-6 he was piloting became uncontrollable on a cross-country flight.[57][58][59] After summer, the team began demonstrating with F9F-6 Panthers.
 
-F9F-8_Blue_Angles1_NAN1-57.jpg formation in 1956]] In 1954, the first Marine Corps pilot, Captain Chuck Hiett, joined the Navy's flight demonstration team.[60] The Blue Angels also received special colored flight suits.[61] In May, the Blue Angels performed at Bolling Air Force Base in Washington, D.C. with the Air Force Thunderbirds (activated 25 May 1953).[62] The Blue Angels began relocating to their current home at Naval Air Station (NAS) Pensacola, Florida that winter,[63] and it was here they progressed to the swept-wing Grumman F9F-8 Cougar. In December, the team left its home base for its first winter training facility at Naval Air Facility El Centro, California[64]
+formation in 1956]] In 1954, the first Marine Corps pilot, Captain Chuck Hiett, joined the Navy's flight demonstration team.[60] The Blue Angels also received special colored flight suits.[61] In May, the Blue Angels performed at Bolling Air Force Base in Washington, D.C. with the Air Force Thunderbirds (activated 25 May 1953).[62] The Blue Angels began relocating to their current home at Naval Air Station (NAS) Pensacola, Florida that winter,[63] and it was here they progressed to the swept-wing Grumman F9F-8 Cougar. In December, the team left its home base for its first winter training facility at Naval Air Facility El Centro, California[64]
 
 In September 1956, the team added a sixth aircraft to the flight demonstration in the Opposing Solo position,[65] and gave its first performance outside the United States at the International Air Exposition in Toronto, Ontario, Canada. It also upgraded its logistics aircraft to the Douglas R5D Skymaster.
 
@@ -104,17 +104,17 @@ In 1958, the first Six-Plane Delta Maneuvers were added that season.
 
 1960-1970
 
-Grumman_F11F-1_Tiger_Blue_Angels.jpg, 1957–69]] In July 1964, the Blue Angels participated in the Aeronaves de Mexico Anniversary Air Show over Mexico City, Mexico, before an estimated crowd of 1.5 million people.
+, 1957–69]] In July 1964, the Blue Angels participated in the Aeronaves de Mexico Anniversary Air Show over Mexico City, Mexico, before an estimated crowd of 1.5 million people.
 
 In 1965, the Blue Angels conducted a Caribbean island tour, flying at five sites. Later that year, they embarked on a European tour to a dozen sites, including the Paris Air Show, where they were the only team to receive a standing ovation.
 
 In 1967, the _Blues_ toured Europe again, at six sites.
 
-In 1968, the C-54 Skymaster transport aircraft was replaced with a Lockheed VC-121J Constellation. The _Blues_ transitioned to the two-seat McDonnell Douglas F-4J Phantom II in 1969, nearly always keeping the back seat empty for flight demonstrations. The _Phantom_ was the only plane to be flown by both the "Blues" and the United States Air Force Thunderbirds (the "Birds"). That year they also upgraded to the Lockheed C-121 Super Constellation for logistics. Blue_Angels_at_Miami_Beach_memorial_day.jpg
+In 1968, the C-54 Skymaster transport aircraft was replaced with a Lockheed VC-121J Constellation. The _Blues_ transitioned to the two-seat McDonnell Douglas F-4J Phantom II in 1969, nearly always keeping the back seat empty for flight demonstrations. The _Phantom_ was the only plane to be flown by both the "Blues" and the United States Air Force Thunderbirds (the "Birds"). That year they also upgraded to the Lockheed C-121 Super Constellation for logistics.
 
 1970-1980
 
-Golden_Crown_and_Blue_Angles.jpg and the Blue Angels during the joint airshow; Kushke Nosrat Airbase, 1973]] A-4Fs_Blue_Angels_Fleur_de_Lis_1984.JPEGs executing a "fleur de lis" maneuver.]]
+and the Blue Angels during the joint airshow; Kushke Nosrat Airbase, 1973]] s executing a "fleur de lis" maneuver.]]
 
 In 1970, the _Blues_ received their first U.S. Marine Corps Lockheed KC-130F Hercules. An all-Marine crew manned it. That year, they went on their first South American tour.
 
@@ -154,8 +154,6 @@ In 2009, the Blue Angels were inducted into the International Air & Space Hall o
 
 2010-2020
 
-Blue_Angels_flying_in_formation1.jpg
-
 On 22 May 2011, the Blue Angels were performing at the Lynchburg Regional Airshow in Lynchburg, Virginia, when the Diamond formation flew the Barrel Roll Break maneuver at an altitude that was lower than the required minimum altitude.[85] The maneuver was aborted, the remainder of the demonstration canceled and all aircraft landed safely. The next day, the Blue Angels announced that they were initiating a safety stand-down, canceling their upcoming Naval Academy Airshow and returning to their home base in Pensacola, Florida, for additional training and airshow practice.[86] On 26 May, the Blue Angels announced they would not be flying their traditional fly-over of the Naval Academy Graduation Ceremony and that they were canceling their 28–29 May 2011 performances at the Millville Wings and Wheels Airshow in Millville, New Jersey.
 
 On 27 May 2011, the Blue Angels announced that Commander Dave Koss, the squadron's Commanding Officer, would be stepping down. He was replaced by Captain Greg McWherter, the team's previous Commanding Officer.[87] The squadron canceled performances at the Rockford, Illinois Airfest 4–5 June and the Evansville, Indiana Freedom Festival Air Show 11–12 June to allow additional practice and demonstration training under McWherter's leadership.[88]
@@ -179,7 +177,7 @@ In 2019, there are 61 air shows scheduled, from 16 March at the annual air show 
 
 Aircraft timeline
 
-The "Blues" have flown eight different demonstration aircraft and six support aircraft models:[105][106] Aircraft_flown_by_the_US_Navy_Blue_Angels_1946_to_1996.jpg
+The "Blues" have flown eight different demonstration aircraft and six support aircraft models:[105][106]
 
 Demonstration aircraft
 
@@ -210,7 +208,7 @@ Miscellaneous aircraft
 
 Air Show routine
 
-US_Navy_040815-N-7559C-001_Blue_Angels_perform_the_opposing_Knife-Edge_Pass.jpg Blue_angels_double_farvel.jpg Blue_Angels_-_Section_High-Alpha_Pass.jpg Blue_Angels_on_Delta_Formation.jpg ]]
+]]
 
 This Blue Angels show routine was used in 2017.
 
@@ -311,7 +309,7 @@ Vietnam War
 
 In the media
 
-Blue_Angels_Newton-John_Travolta_cropped.jpg and Olivia Newton-John with Blue Angels, 1982]]
+and Olivia Newton-John with Blue Angels, 1982]]
 
 -   _The Blue Angels_ was a dramatic television series, starring Dennis Cross and Don Gordon, inspired by the team's exploits and filmed with the cooperation of the Navy. It aired in syndication from 26 September 1960 to 3 July 1961.[135]
 -   The Blue Angels were the subject of "Flying Blue Angels", a pop song recorded by George, Johnny and the Pilots (Coed Co 555), that debuted on _Billboard Magazine_'s "Bubbling Under the Hot 100" chart on 11 September 1961.

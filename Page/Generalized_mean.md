@@ -23,8 +23,6 @@ The unweighted means correspond to setting all .
 
 Special cases
 
-A visual depiction of some of the specified cases for with and : ,}} }} }} }}
-
   ------------------------------------------------------------------------------------------- -----------------
   M_( − ∞)(x₁, …, x_(n)) = lim_(p →  − ∞)M_(p)(x₁, …, x_(n)) = min {x₁, …, x_(n)}             minimum
   $M_{-1}(x_1,\dots,x_n) = \frac{n}{\frac{1}{x_1}+\dots+\frac{1}{x_n}}$                       harmonic mean

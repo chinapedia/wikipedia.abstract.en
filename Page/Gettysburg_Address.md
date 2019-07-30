@@ -1,4 +1,4 @@
-Lincolnatgettysburg.jpg.]]
+.]]
 
 The GETTYSBURG ADDRESS is a speech that U.S. President Abraham Lincoln delivered during the American Civil War at the dedication of the Soldiers' National Cemetery in Gettysburg, Pennsylvania, on the afternoon of Thursday, November 19, 1863, four and a half months after the Union armies defeated those of the Confederacy at the Battle of Gettysburg. It is one of the best-known speeches in American history.[1][2]
 
@@ -8,12 +8,12 @@ Although not the day's primary speech, Lincoln's carefully crafted address came 
 
 Despite the speech's prominent place in the history and popular culture of the United States, its exact wording is disputed. The five known manuscripts of the Gettysburg Address in Lincoln's hand differ in a number of details, and also differ from contemporary newspaper reprints of the speech. Neither is it clear just where stood the platform from which Lincoln delivered the address. Modern scholarship locates the speakers' platform 40 yards (or more) away from the traditional site in Soldiers' National Cemetery at the Soldiers' National Monument, which means that it stood entirely within the private, adjacent Evergreen Cemetery.
 
-Gettsyburginvitationpage2.jpg invited Lincoln to speak.]]
+invited Lincoln to speak.]]
 
 
 Background
 
-Battle_of_Gettysburg.jpg soldiers dead at Gettysburg, photographed by Timothy H. O'Sullivan, July 5–6, 1863]]
+soldiers dead at Gettysburg, photographed by Timothy H. O'Sullivan, July 5–6, 1863]]
 
 Following the Battle of Gettysburg on July 1–3, 1863, the removal of the fallen Union soldiers from the Gettysburg Battlefield graves and their reburial in graves at the National Cemetery at Gettysburg began on October 17. In inviting President Lincoln to the ceremonies, David Wills, of the committee for the November 19 Consecration of the National Cemetery at Gettysburg, wrote, "It is the desire that, after the Oration, you, as Chief Executive of the nation, formally set apart these grounds to their sacred use by a few appropriate remarks."[8]
 
@@ -21,8 +21,6 @@ On the train trip from Washington, D.C., to Gettysburg on November 18, Lincoln w
 
 
 Program and Everett's "Gettysburg Oration"
-
-Edward_Everett.jpg
 
 The program organized for that day by Wills and his committee included:
 
@@ -45,8 +43,6 @@ Shortly after Everett's well-received remarks, Lincoln spoke for only a few minu
 
 Despite the historical significance of Lincoln's speech, modern scholars disagree as to its exact wording, and contemporary transcriptions published in newspaper accounts of the event and even handwritten copies by Lincoln himself differ in their wording, punctuation, and structure.[14][15] Of these versions, the Bliss version, written well after the speech as a favor for a friend, is viewed by many as the standard text.[16] Its text differs, however, from the written versions prepared by Lincoln before and after his speech. It is the only version to which Lincoln affixed his signature, and the last he is known to have written.[17]
 
-Gettysburg_Address_Amalgamated_Text.jpg
-
 
 Lincoln's sources
 
@@ -59,7 +55,7 @@ In _Lincoln at Gettysburg_, Garry Wills notes the parallels between Lincoln's sp
 
 In contrast, writer Adam Gopnik, in _The New Yorker_, notes that while Everett's Oration was explicitly neoclassical, referring directly to Marathon and Pericles, "Lincoln's rhetoric is, instead, deliberately Biblical. (It is difficult to find a single obviously classical reference in any of his speeches.) Lincoln had mastered the sound of the King James Bible so completely that he could recast abstract issues of constitutional law in Biblical terms, making the proposition that Texas and New Hampshire should be forever bound by a single post office sound like something right out of Genesis."[22]
 
-Government-Vedder-Highsmith-detail-2.jpeg's mural _Government_ (1896), in the Library of Congress. The title figure bears a tablet inscribed with Lincoln's famous phrase.]]Several theories have been advanced by Lincoln scholars to explain the provenance of Lincoln's famous phrase "government of the people, by the people, for the people". Despite many claims, there is no evidence a similar phrase appears in the Prologue to John Wycliffe's 1384 English translation of the Bible.[23]
+'s mural _Government_ (1896), in the Library of Congress. The title figure bears a tablet inscribed with Lincoln's famous phrase.]]Several theories have been advanced by Lincoln scholars to explain the provenance of Lincoln's famous phrase "government of the people, by the people, for the people". Despite many claims, there is no evidence a similar phrase appears in the Prologue to John Wycliffe's 1384 English translation of the Bible.[23]
 
 In a discussion "A more probable origin of a famous Lincoln phrase",[24] in _The American Monthly Review of Reviews_, Albert Shaw credits a correspondent with pointing out the writings of William Herndon, Lincoln's law partner, who wrote in the 1888 work _Abraham Lincoln: The True Story of A Great Life_ that he had brought to Lincoln some of the sermons of abolitionist minister Theodore Parker, of Massachusetts, and that Lincoln was moved by Parker's use of this idea:
 
@@ -86,7 +82,7 @@ The Nicolay copy is often called the "first draft" because it is believed to be 
 
 Hay copy
 
-Haycopy-1.jpg The existence of the Hay copy was first announced to the public in 1906, after the search for the "original manuscript" of the Address among the papers of John Hay brought it to light.[49] Significantly, it differs somewhat from the manuscript of the Address described by John Nicolay in his article, and contains numerous omissions and inserts in Lincoln's own hand, including omissions critical to the basic meaning of the sentence, not simply words that would be added by Lincoln to strengthen or clarify their meaning. In this copy, as in the Nicolay copy, the words "under God" are not present.
+The existence of the Hay copy was first announced to the public in 1906, after the search for the "original manuscript" of the Address among the papers of John Hay brought it to light.[49] Significantly, it differs somewhat from the manuscript of the Address described by John Nicolay in his article, and contains numerous omissions and inserts in Lincoln's own hand, including omissions critical to the basic meaning of the sentence, not simply words that would be added by Lincoln to strengthen or clarify their meaning. In this copy, as in the Nicolay copy, the words "under God" are not present.
 
 This version has been described as "the most inexplicable" of the drafts and is sometimes referred to as the "second draft".[50][51] The "Hay copy" was made either on the morning of the delivery of the Address, or shortly after Lincoln's return to Washington. Those who believe that it was completed on the morning of his address point to the fact that it contains certain phrases that are not in the first draft but are in the reports of the address as delivered and in subsequent copies made by Lincoln. It is probable, they conclude, that, as stated in the explanatory note accompanying the original copies of the first and second drafts in the Library of Congress, Lincoln held this second draft when he delivered the address.[52] Lincoln eventually gave this copy to Hay, whose descendants donated both it and the Nicolay copy to the Library of Congress in 1916.[53]
 
@@ -100,7 +96,7 @@ The Bancroft copy of the Gettysburg Address was written out by President Lincoln
 
 Bliss copy
 
-Gettysburg_Address_Bliss_copy.jpg Discovering that his fourth written copy could not be used, Lincoln then wrote a fifth draft, which was accepted for the purpose requested. The Bliss copy, named for Colonel Alexander Bliss, Bancroft's stepson and publisher of _Autograph Leaves_, is the only draft to which Lincoln affixed his signature. Lincoln is not known to have made any further copies of the Gettysburg Address. Because of the apparent care in its preparation, and in part, because Lincoln provided a title and signed and dated this copy, it has become the standard version of the address and the source for most facsimile reproductions of Lincoln's Gettysburg Address. It is the version that is inscribed on the South wall of the Lincoln Memorial.[61]
+Discovering that his fourth written copy could not be used, Lincoln then wrote a fifth draft, which was accepted for the purpose requested. The Bliss copy, named for Colonel Alexander Bliss, Bancroft's stepson and publisher of _Autograph Leaves_, is the only draft to which Lincoln affixed his signature. Lincoln is not known to have made any further copies of the Gettysburg Address. Because of the apparent care in its preparation, and in part, because Lincoln provided a title and signed and dated this copy, it has become the standard version of the address and the source for most facsimile reproductions of Lincoln's Gettysburg Address. It is the version that is inscribed on the South wall of the Lincoln Memorial.[61]
 
 This draft is now displayed in the Lincoln Room of the White House, a gift of Oscar B. Cintas, former Cuban Ambassador to the United States.[62] Cintas, a wealthy collector of art and manuscripts, purchased the Bliss copy at a public auction in 1949 for $54,000 ($ as of ), at that time the highest price ever paid for a document at public auction.[63] Cintas' properties were claimed by the Castro government after the Cuban Revolution in 1959, but Cintas, who died in 1957, willed the Gettysburg Address to the American people, provided it would be kept at the White House, where it was transferred in 1959.[64]
 
@@ -115,7 +111,7 @@ Another contemporary source of the text is the Associated Press dispatch, transc
 
 Contemporary sources and reaction
 
-Gettysburg_Address,_New_York_Times.jpg'' article from November 20, 1863, indicates Lincoln's speech was interrupted five times by applause and was followed by "long continued applause."[69]]]
+'' article from November 20, 1863, indicates Lincoln's speech was interrupted five times by applause and was followed by "long continued applause."[69]]]
 
 Eyewitness reports vary as to their view of Lincoln's performance. In 1931, the printed recollections of 87-year-old Mrs. Sarah A. Cooke Myers, who was 19 when she attended the ceremony, suggest a dignified silence followed Lincoln's speech: "I was close to the President and heard all of the Address, but it seemed short. Then there was an impressive silence like our Menallen Friends Meeting. There was no applause when he stopped speaking."[70] According to historian Shelby Foote, after Lincoln's presentation, the applause was delayed, scattered, and "barely polite".[71] In contrast, Pennsylvania Governor Andrew Gregg Curtin maintained, "He pronounced that speech in a voice that all the multitude heard. The crowd was hushed into silence because the President stood before them  ... It was so Impressive! It was the common remark of everybody. Such a speech, as they said it was!"[72] Reinterment of soldiers' remains from field graves into the cemetery, which had begun within months of the battle, was less than half complete on the day of the ceremony.[73]
 

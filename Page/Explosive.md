@@ -1,5 +1,3 @@
-17._Експлозивни_својства_на_три_различни_типови_експлозиви.webm
-
 An EXPLOSIVE (or EXPLOSIVE MATERIAL) is a reactive substance that contains a great amount of potential energy that can produce an explosion if released suddenly, usually accompanied by the production of light, heat, sound, and pressure. An EXPLOSIVE CHARGE is a measured quantity of explosive material, which may be composed of a single ingredient or a combination of two or more.
 
 The potential energy stored in an explosive material may, for example, be
@@ -26,11 +24,7 @@ Though early thermal weapons, such as Greek fire, have existed since ancient tim
 
 Applications
 
-Blast_Area_Security.webm
-
 Commercial
-
-Handling_Explosives_in_Underground_Mines.webm
 
 The largest commercial application of explosives is mining. Whether the mine is on the surface or is buried underground, the detonation or deflagration of either a high or low explosive in a confined space can be used to liberate a fairly specific sub-volume of a brittle material in a much larger volume of the same or similar material. The mining industry tends to use nitrate-based explosives such as emulsions of fuel oil and ammonium nitrate solutions, mixtures of ammonium nitrate prills (fertilizer pellets) and fuel oil (ANFO) and gelatinous suspensions or slurries of ammonium nitrate and combustible fuels.
 
@@ -51,7 +45,7 @@ Types
 
 Chemical
 
-GHS-pictogram-explos.svg pictogram for explosive substances]]
+pictogram for explosive substances]]
 
 An explosion is a type of spontaneous chemical reaction that, once initiated, is driven by both a large exothermic change (great release of heat) and a large positive entropy change (great quantities of gases are released) in going from reactants to products, thereby constituting a thermodynamically favorable process in addition to one that propagates very rapidly. Thus, explosives are substances that contain a large amount of energy stored in chemical bonds. The energetic stability of the gaseous products and hence their generation comes from the formation of strongly bonded species like carbon monoxide, carbon dioxide, and (di)nitrogen, which contain strong double and triple bonds having bond strengths of nearly 1 MJ/mole. Consequently, most commercial explosives are organic compounds containing -NO₂, -ONO₂ and -NHNO₂ groups that, when detonated, release gases like the aforementioned (e.g., nitroglycerin, TNT, HMX, PETN, nitrocellulose).[9]
 
@@ -368,8 +362,6 @@ United Nations markings include numbered Hazard Class and Division (HC/D) codes 
 Examples of national markings would include United States Department of Transportation (U.S. DOT) codes.
 
 United Nations Organization (UNO) Hazard Class and Division (HC/D)
-
-Dangclass1.svg
 
 The Hazard Class and Division (HC/D) is a numeric designator within a hazard class indicating the character, predominance of associated hazards, and potential for causing personnel casualties and property damage. It is an internationally accepted system that communicates using the minimum amount of markings the primary hazard associated with a substance.[26]
 
@@ -710,7 +702,7 @@ Explosives Category:Chinese inventions Category:Hazardous materials
 
 [28]
 
-[29]  UKOpenGovernmentLicence.svg This article contains quotations from this source, which is available under the Open Government Licence v3.0 . © Crown copyright.
+[29]  This article contains quotations from this source, which is available under the Open Government Licence v3.0 . © Crown copyright.
 
 [30]
 

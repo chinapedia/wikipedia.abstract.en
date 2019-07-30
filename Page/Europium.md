@@ -5,7 +5,7 @@ Characteristics
 
 Physical properties
 
-Eu-Block.jpg Europium_on_air_oxidized.jpg Europium is a ductile metal with a hardness similar to that of lead. It crystallizes in a body-centered cubic lattice.[3] Some properties of europium are strongly influenced by its half-filled electron shell. Europium has the second lowest melting point and the lowest density of all lanthanides.[4]
+Europium is a ductile metal with a hardness similar to that of lead. It crystallizes in a body-centered cubic lattice.[3] Some properties of europium are strongly influenced by its half-filled electron shell. Europium has the second lowest melting point and the lowest density of all lanthanides.[4]
 
 Europium becomes a superconductor when it is cooled below 1.8 K and compressed to above 80 GPa. This occurs because europium is divalent in the metallic state,[5] and is converted into the trivalent state by the applied pressure. In the divalent state, the strong local magnetic moment (J = ⁷/₂) suppresses the superconductivity, which is induced by eliminating this local moment (J = 0 in Eu³⁺).[6]
 
@@ -56,7 +56,7 @@ Overall, europium is overshadowed by caesium-137 and strontium-90 as a radiation
 
 Occurrence
 
-Monazit_-_Mosambik,_O-Afrika.jpg Europium is not found in nature as a free element. Many minerals contain europium, with the most important sources being bastnäsite, monazite, xenotime and loparite-(Ce).[22] No europium-dominant minerals are known yet, despite a single find of a tiny possible Eu–O or Eu–O–C system phase in the Moon's regolith.[23]
+Europium is not found in nature as a free element. Many minerals contain europium, with the most important sources being bastnäsite, monazite, xenotime and loparite-(Ce).[22] No europium-dominant minerals are known yet, despite a single find of a tiny possible Eu–O or Eu–O–C system phase in the Moon's regolith.[23]
 
 Depletion or enrichment of europium in minerals relative to other rare-earth elements is known as the europium anomaly.[24] Europium is commonly included in trace element studies in geochemistry and petrology to understand the processes that form igneous rocks (rocks that cooled from magma or lava). The nature of the europium anomaly found helps reconstruct the relationships within a suite of igneous rocks. The average crustal abundance of europium is 2-2.2 ppm.
 
@@ -106,7 +106,7 @@ Frank Spedding, celebrated for his development of the ion-exchange technology th
 
 Applications
 
-Aperture_Grille.jpg Relative to most other elements, commercial applications for europium are few and rather specialized. Almost invariably, its phosphorescence is exploited, either in the +2 or +3 oxidation state.
+Relative to most other elements, commercial applications for europium are few and rather specialized. Almost invariably, its phosphorescence is exploited, either in the +2 or +3 oxidation state.
 
 It is a dopant in some types of glass in lasers and other optoelectronic devices. Europium oxide (Eu₂O₃) is widely used as a red phosphor in television sets and fluorescent lamps, and as an activator for yttrium-based phosphors.[54][55] Color TV screens contain between 0.5 and 1 g of europium oxide.[56] Whereas trivalent europium gives red phosphors,[57] the luminescence of divalent europium depends strongly on the composition of the host structure. UV to deep red luminescence can be achieved.[58][59] The two classes of europium-based phosphor (red and blue), combined with the yellow/green terbium phosphors give "white" light, the color temperature of which can be varied by altering the proportion or specific composition of the individual phosphors. This phosphor system is typically encountered in helical fluorescent light bulbs. Combining the same three classes is one way to make trichromatic systems in TV and computer screens,[60] but as an additive, it can be particularly effective in improving the intensity of red phosphor.[61] Europium is also used in the manufacture of fluorescent glass, increasing the general efficiency of fluorescent lamps.[62] One of the more common persistent after-glow phosphors besides copper-doped zinc sulfide is europium-doped strontium aluminate.[63] Europium fluorescence is used to interrogate biomolecular interactions in drug-discovery screens. It is also used in the anti-counterfeiting phosphors in euro banknotes.[64][65]
 

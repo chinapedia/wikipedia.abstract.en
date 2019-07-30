@@ -1,4 +1,4 @@
-Caving2.jpg in California.|alt=A man caving in muddy passage with helictite formations on the walls and ceiling]] Alabama_cave_2005-04-24.km.jpg.]]
+in California.|alt=A man caving in muddy passage with helictite formations on the walls and ceiling]] .]]
 
 CAVING – also known as SPELUNKING in the United States and Canada and POTHOLING in the United Kingdom and Ireland – is the recreational pastime of exploring wild (generally non-commercial) cave systems. In contrast, speleology is the scientific study of caves and the cave environment.[1]
 
@@ -22,7 +22,7 @@ Etymology
 
 The base term _caving_ comes from the Latin _cavea_ or _caverna_, meaning simply, a cave.
 
-_Potholing_ refers to the act of exploring _potholes_, a word originating in the north of England for predominantly vertical caves.Caveman-ic.jpg, an area that is also popular for pothole exploring]] Clay Perry, an American caver of the 1940s, wrote about a group of men and boys who explored and studied caves throughout New England. This group referred to themselves as _spelunkers_, a term derived[10] from the Latin __ ("cave, cavern, den"),[11] itself from the Greek _spēlynks_ ("cave").[12] This is regarded as the first use of the word in the Americas. Throughout the 1950s, _spelunking_ was the general term used for exploring caves in US English. It was used freely, without any positive or negative connotations, although only rarely outside the US.
+_Potholing_ refers to the act of exploring _potholes_, a word originating in the north of England for predominantly vertical caves., an area that is also popular for pothole exploring]] Clay Perry, an American caver of the 1940s, wrote about a group of men and boys who explored and studied caves throughout New England. This group referred to themselves as _spelunkers_, a term derived[10] from the Latin __ ("cave, cavern, den"),[11] itself from the Greek _spēlynks_ ("cave").[12] This is regarded as the first use of the word in the Americas. Throughout the 1950s, _spelunking_ was the general term used for exploring caves in US English. It was used freely, without any positive or negative connotations, although only rarely outside the US.
 
 In the 1960s, the terms _spelunking_ and _spelunker_ began to be considered déclassé among experienced enthusiasts. In 1985, Steve Knutson – editor of the National Speleological Society (NSS) publication _American Caving Accidents_ – made the following distinction:
 
@@ -40,7 +40,7 @@ In 1941, American cavers organized themselves into the National Speleological So
 
 Practice and equipment
 
-caving1.jpg cave showing common caving wear: coveralls, helmet-mounted lights, heavy boots and gloves.]]
+cave showing common caving wear: coveralls, helmet-mounted lights, heavy boots and gloves.]]
 
 Hard hats are worn to protect the head from bumps and falling rocks. The caver's primary light source is usually mounted on the helmet in order to keep the hands free. Electric LED lights are most common. Many cavers carry two or more sources of light – one as primary and the others as backup in case the first fails. More often than not, a second light will be mounted to the helmet for quick transition if the primary fails. Carbide lamp systems are an older form of illumination, inspired by miner's equipment, and are still used by some cavers, particularly on remote expeditions where electric charging facilities are not available.[14]
 
@@ -53,7 +53,7 @@ During very long trips, it may be necessary to camp in the cave – some cavers
 
 Safety
 
-Caving3.jpg Caves can be dangerous places; hypothermia, falling, flooding, falling rocks and physical exhaustion are the main risks. Rescuing people from underground is difficult and time-consuming, and requires special skills, training, and equipment. Full-scale cave rescues often involve the efforts of dozens of rescue workers (often other long-time cavers who have participated in specialized courses, as normal rescue staff are not sufficiently experienced in cave environments), who may themselves be put in jeopardy in effecting the rescue. This said, caving is not necessarily a high-risk sport (especially if it does not involve difficult climbs or diving). As in all physical sports, knowing one's limitations is key.
+Caves can be dangerous places; hypothermia, falling, flooding, falling rocks and physical exhaustion are the main risks. Rescuing people from underground is difficult and time-consuming, and requires special skills, training, and equipment. Full-scale cave rescues often involve the efforts of dozens of rescue workers (often other long-time cavers who have participated in specialized courses, as normal rescue staff are not sufficiently experienced in cave environments), who may themselves be put in jeopardy in effecting the rescue. This said, caving is not necessarily a high-risk sport (especially if it does not involve difficult climbs or diving). As in all physical sports, knowing one's limitations is key.
 
 Caving in warmer climates carries the risk of contracting histoplasmosis, a fungal infection that is contracted from bird or bat droppings. It can cause pneumonia and can disseminate in the body to cause continued infections.[15]
 

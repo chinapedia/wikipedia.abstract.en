@@ -1,4 +1,4 @@
-Declaration_of_arbroath.jpg' copy of the Declaration from 1320 AD]]
+' copy of the Declaration from 1320 AD]]
 
 The DECLARATION OF ARBROATH (; ; ) is a declaration of Scottish independence, made in 1320. It is in the form of a letter in Latin submitted to Pope John XXII, dated 6 April 1320, intended to confirm Scotland's status as an independent, sovereign state and defending Scotland's right to use military action when unjustly attacked.
 

@@ -7,7 +7,7 @@ History
 
 Early silent era
 
-Orochi_film1.jpg (Buntarō Futagawa)]] Roningai_film1.jpg (Masahiro Makino)]]
+(Buntarō Futagawa)]] (Masahiro Makino)]]
 
 The kinetoscope, first shown commercially by Thomas Edison in the United States in 1894, was first shown in Japan in November 1896. The Vitascope and the Lumière Brothers' Cinematograph were first presented in Japan in early 1897,[6] by businessmen such as Inabata Katsutaro.[7] Lumière cameramen were the first to shoot films in Japan.[8] Moving pictures, however, were not an entirely new experience for the Japanese because of their rich tradition of pre-cinematic devices such as _gentō_ (_utsushi-e_) or the magic lantern.[9][10] The first successful Japanese film in late 1897 showed sights in Tokyo.[11]
 
@@ -21,7 +21,7 @@ The first Japanese film production studio was built in 1909 by the Yoshizawa Sh�
 
 The first female Japanese performer to appear in a film professionally was the dancer/actress Tokuko Nagai Takagi, who appeared in four shorts for the American-based Thanhouser Company between 1911 and 1914.[16]
 
-Sessue_Hayakawa_1918.jpg, one of the biggest stars in Hollywood during the silent film era of the 1910s and 1920s.]]
+, one of the biggest stars in Hollywood during the silent film era of the 1910s and 1920s.]]
 
 Among intellectuals, critiques of Japanese cinema grew in the 1910s and eventually developed into a movement that transformed Japanese film. Film criticism began with early film magazines such as _Katsudō shashinkai_ (begun in 1909) and a full-length book written by Yasunosuke Gonda in 1914, but many early film critics often focused on chastising the work of studios like Nikkatsu and Tenkatsu for being too theatrical (using, for instance, elements from kabuki and shinpa such as onnagata) and for not utilizing what were considered more cinematic techniques to tell stories, instead relying on benshi. In what was later named the Pure Film Movement, writers in magazines such as _Kinema Record_ called for a broader use of such cinematic techniques. Some of these critics, such as Norimasa Kaeriyama, went on to put their ideas into practice by directing such films as _The Glow of Life_ (1918), which was one of the first films to use actresses (in this case, Harumi Hanayagi). There were parallel efforts elsewhere in the film industry. In his 1917 film _The Captain's Daughter_, Masao Inoue started using techniques new to the silent film era, such as the close-up and cut back. The Pure Film Movement was central in the development of the gendaigeki and scriptwriting.[17]
 
@@ -39,7 +39,7 @@ The 1923 earthquake, the bombing of Tokyo during World War II, and the natural e
 
 1930s
 
-Humanity_and_Paper_Balloons_poster.jpg's 1937 _Humanity and Paper Balloons_]] Unlike in the West, silent films were still being produced in Japan well into the 1930s; as late as 1938, a third of Japanese films were silent.[23] For instance, Yasujirō Ozu's _An Inn in Tokyo_ (1935), considered a precursor to the neorealism genre, was a silent film. A few Japanese sound shorts were made in the 1920s and 1930s, but Japan's first feature-length talkie was _Fujiwara Yoshie no furusato_ (1930), which used the _Mina Talkie System_. Notable talkies of this period include Mikio Naruse's _Wife, Be Like A Rose!_ (_Tsuma Yo Bara No Yoni_, 1935), which was one of the first Japanese films to gain a theatrical release in the U.S.; Kenji Mizoguchi's _Sisters of the Gion_ (_Gion no shimai_, 1936); _Osaka Elegy_ (1936); and _The Story of the Last Chrysanthemums_ (1939); and Sadao Yamanaka's _Humanity and Paper Balloons_ (1937).
+'s 1937 _Humanity and Paper Balloons_]] Unlike in the West, silent films were still being produced in Japan well into the 1930s; as late as 1938, a third of Japanese films were silent.[23] For instance, Yasujirō Ozu's _An Inn in Tokyo_ (1935), considered a precursor to the neorealism genre, was a silent film. A few Japanese sound shorts were made in the 1920s and 1930s, but Japan's first feature-length talkie was _Fujiwara Yoshie no furusato_ (1930), which used the _Mina Talkie System_. Notable talkies of this period include Mikio Naruse's _Wife, Be Like A Rose!_ (_Tsuma Yo Bara No Yoni_, 1935), which was one of the first Japanese films to gain a theatrical release in the U.S.; Kenji Mizoguchi's _Sisters of the Gion_ (_Gion no shimai_, 1936); _Osaka Elegy_ (1936); and _The Story of the Last Chrysanthemums_ (1939); and Sadao Yamanaka's _Humanity and Paper Balloons_ (1937).
 
 Film criticism shared this vitality, with many film journals such as _Kinema Junpo_ and newspapers printing detailed discussions of the cinema of the day, both at home and abroad. A cultured "impressionist" criticism pursued by critics such as Tadashi Iijima, Fuyuhiko Kitagawa, and Matsuo Kishi was dominant, but opposed by leftist critics such as Akira Iwasaki and Genjū Sasa who sought an ideological critique of films.[24]
 
@@ -59,11 +59,9 @@ With the SCAP occupation following the end of World War II, Japan was exposed to
 
 1950s
 
-Yoshiko_Kuga_530406_Scan10007.JPG, a Japanese actress.]]
+, a Japanese actress.]]
 
-Tokyo_monogatari_poster.jpg'' (Yasujirō Ozu, 1953)]] Ugetsu_monogatari_poster.jpg'' (Kenji Mizoguchi, 1953)]]
-
-Godzilla_(1954)_Teizô_Toshimitsu_final_design.jpg
+'' (Yasujirō Ozu, 1953)]] '' (Kenji Mizoguchi, 1953)]]
 
 The 1950s are widely considered the Golden Age of Japanese cinema.[27] Three Japanese films from this decade (_Rashomon_, _Seven Samurai_ and _Tokyo Story_) appeared in the top ten of _Sight & Sound_{{'}}s critics' and directors' polls for the best films of all time in 2002.[28] They also appeared in the 2012 polls,[29][30] with _Tokyo Story_ (1953) dethroning _Citizen Kane_ at the top of the 2012 directors' poll.[31]
 
@@ -71,11 +69,11 @@ The period after the American Occupation led to a rise in diversity in movie dis
 
 The decade started with Akira Kurosawa's _Rashomon_ (1950), which won the Golden Lion at the Venice Film Festival in 1951 and the Academy Honorary Award for Best Foreign Language Film in 1952, and marked the entrance of Japanese cinema onto the world stage. It was also the breakout role for legendary star Toshiro Mifune.[32] In 1953 _Entotsu no mieru basho_ by Heinosuke Gosho was in competition at the 3rd Berlin International Film Festival.
 
-Rentarō_Mikuni.jpg, a Japanese film actor. He appeared in over 150 films since making his screen debut in 1951, and won three Japanese Academy Awards for Best Actor, and a further seven nominations.]]
+, a Japanese film actor. He appeared in over 150 films since making his screen debut in 1951, and won three Japanese Academy Awards for Best Actor, and a further seven nominations.]]
 
 The first Japanese film in color was _Carmen Comes Home_ directed by Keisuke Kinoshita and released in 1951. There was also a black-and-white version of this film available. _Tokyo File 212_ (1951) was the first American feature film to be shot entirely in Japan. The lead roles were played by Florence Marly and Robert Peyton. It featured the geisha Ichimaru in a short cameo. Suzuki Ikuzo's Tonichi Enterprises Company co-produced the film.[33] _Gate of Hell_, a 1953 film by Teinosuke Kinugasa, was the first movie that filmed using Eastmancolor film, _Gate of Hell_ was both Daiei's first color film and the first Japanese color movie to be released outside Japan, receiving an Academy Honorary Award in 1954 for Best Costume Design by Sanzo Wada and an Honorary Award for Best Foreign Language Film. It also won the Palme d'Or at the Cannes Film Festival, the first Japanese film to achieve that honour.
 
-Gojira_1954_Japanese_poster.jpg'' (Ishirō Honda, 1954)]]
+'' (Ishirō Honda, 1954)]]
 
 The year 1954 saw two of Japan's most influential films released. The first was the Kurosawa epic _Seven Samurai_, about a band of hired samurai who protect a helpless village from a rapacious gang of thieves. The same year, Ishirō Honda directed the anti-nuclear monster-drama _Godzilla_, which was released in America as _Godzilla, King of the Monsters_. Though edited for its Western release, Godzilla became an international icon of Japan and spawned an entire subgenre of _kaiju_ films, as well as the longest-running film franchise in history. Also in 1954, another Kurosawa film, _Ikiru_ was in competition at the 4th Berlin International Film Festival.
 
@@ -99,7 +97,7 @@ Teshigahara's _Woman in the Dunes_ (1964) won the Special Jury Prize at the Cann
 
 1970s
 
-Toshiro_Mifune_1954_Scan10003_160913.jpg]]
+]]
 
 The 1970s saw the cinema audience drop due to the spread of television. Total audience declined from 1.2 billion in 1960 to 0.2 billion in 1980.[36] Film companies fought back in various ways, such as the bigger budget films of Kadokawa Pictures, or including increasingly sexual or violent content and language which could not be shown on television. The resulting pink film industry became the stepping stone for many young independent filmmakers. The seventies also saw the start of the "idol eiga", films starring young "idols", who would bring in audiences due to their fame and popularity.
 
@@ -141,7 +139,7 @@ The number of movies being shown in Japan steadily increased, with about 821 fil
 
 Although not a commercial success, _All About Lily Chou-Chou_ directed by Shunji Iwai was honored at the Berlin, the Yokohama and the Shanghai Film Festivals in 2001. Takeshi Kitano appeared in _Battle Royale_ and directed and starred in _Dolls_ and _Zatoichi_. Several horror films, _Kairo_, _Dark Water_, _Yogen_, the _Grudge_ series and _One Missed Call_ met with commercial success. In 2004, _Godzilla: Final Wars_, directed by Ryuhei Kitamura, was released to celebrate the 50th anniversary of Godzilla. In 2005, director Seijun Suzuki made his 56th film, _Princess Raccoon_. Hirokazu Koreeda claimed film festival awards around the world with two of his films _Distance_ and _Nobody Knows_. Female film director Naomi Kawase's film _The Mourning Forest_ won the Grand Prix at the Cannes Film Festival in 2007. Yoji Yamada, director of the Otoko wa Tsurai yo series, made a trilogy of acclaimed revisionist samurai films, 2002's _Twilight Samurai_, followed by _The Hidden Blade_ in 2004 and _Love and Honor_ in 2006.
 
-HayaoMiyazakiCCJuly09.jpg]]
+]]
 
 In anime, Hayao Miyazaki directed _Spirited Away_ in 2001, breaking Japanese box office records and winning several awards—including the Academy Award for Best Animated Feature in 2003[38]—followed by _Howl's Moving Castle_ and _Ponyo_ in 2004 and 2008 respectively. In 2004, Mamoru Oshii released the anime movie _Ghost in the Shell 2: Innocence_ which received critical praise around the world. His 2008 film _The Sky Crawlers_ was met with similarly positive international reception. Satoshi Kon also released three quieter, but nonetheless highly successful films: _Millennium Actress_, _Tokyo Godfathers_, and _Paprika_. Katsuhiro Otomo released _Steamboy_, his first animated project since the 1995 short film compilation _Memories_, in 2004. In collaboration with Studio 4C, American director Michael Arias released _Tekkon Kinkreet_ in 2008, to international acclaim. After several years of directing primarily lower-key live-action films, Hideaki Anno formed his own production studio and revisited his still-popular _Evangelion_ franchise with the _Rebuild of Evangelion_ tetralogy, a new series of films providing an alternate retelling of the original story.
 
@@ -158,7 +156,7 @@ In 2018, Hirokazu Kore-Eda won the Palme d'Or for his movie _Shoplifters_ at the
 
 Genres
 
-Samurai_actors.jpg's Eigamura film studio]] Genres of Japanese film include:
+'s Eigamura film studio]] Genres of Japanese film include:
 
 -   JIDAIGEKI: period pieces set during the Edo period (1603–1868) or earlier.
     -   SAMURAI CINEMA, a subgenre of _jidaigeki_, also known as _chambara_ (onomatopoeia describing the sound of swords clashing).

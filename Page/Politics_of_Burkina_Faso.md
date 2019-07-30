@@ -3,7 +3,7 @@ The POLITICS OF BURKINA FASO takes place in a framework of a semi-presidential r
 
 Political history
 
-Blaise_Compaoré_2014_White_House.png ruled Burkina Faso from a coup d'état in 1987 to his resignation in 2014.]] In 1990, the Popular Front held its first National Congress, which formed a committee to draft a national constitution. The constitution was approved by referendum in 1991. In 1992, Blaise Compaoré was elected president, running unopposed after the opposition boycotted the election because of Compaoré's refusal to accede to demands of the opposition such as a Sovereign National Conference to set modalities. The opposition did participate in the following year's legislative elections, in which the ODP/MT won a majority of the seats contested for.
+ruled Burkina Faso from a coup d'état in 1987 to his resignation in 2014.]] In 1990, the Popular Front held its first National Congress, which formed a committee to draft a national constitution. The constitution was approved by referendum in 1991. In 1992, Blaise Compaoré was elected president, running unopposed after the opposition boycotted the election because of Compaoré's refusal to accede to demands of the opposition such as a Sovereign National Conference to set modalities. The opposition did participate in the following year's legislative elections, in which the ODP/MT won a majority of the seats contested for.
 
 The government of the Fourth Republic includes a strong presidency, a prime minister, a Council of Ministers presided over by the president, a National Assembly, and the judiciary. The legislature and judiciary are independent but remain susceptible to outside influence.
 

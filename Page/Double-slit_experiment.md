@@ -1,4 +1,4 @@
-Double-slit.svg In modern physics, the DOUBLE-SLIT EXPERIMENT is a demonstration that light and matter can display characteristics of both classically defined waves and particles; moreover, it displays the fundamentally probabilistic nature of quantum mechanical phenomena. The experiment was first performed with light by Thomas Young in 1801. In 1927, Davisson and Germer demonstrated that electrons show the same behavior, which was later extended to atoms and molecules.[1][2]
+In modern physics, the DOUBLE-SLIT EXPERIMENT is a demonstration that light and matter can display characteristics of both classically defined waves and particles; moreover, it displays the fundamentally probabilistic nature of quantum mechanical phenomena. The experiment was first performed with light by Thomas Young in 1801. In 1927, Davisson and Germer demonstrated that electrons show the same behavior, which was later extended to atoms and molecules.[1][2]
 
 Thomas Young's experiment with light was part of classical physics well before quantum mechanics, and the concept of wave-particle duality. He believed it demonstrated that the wave theory of light was correct, and his experiment is sometimes referred to as Young's experimentWhile there is no doubt that Young's demonstration of optical interference, using sunlight, pinholes and cards, played a vital part in the acceptance of the wave theory of light, there is some question as to whether he ever actually performed a double-slit interference experiment.
 
@@ -15,9 +15,7 @@ The double-slit experiment (and its variations) has become a classic thought exp
 
 Overview
 
-Single_slit_and_double_slit2.jpg (the faint spots on either side of the main band) forms due to the nonzero width of the slit. A diffraction pattern is also seen in the double-slit image, but at twice the intensity and with the addition of many smaller interference fringes.]] If light consisted strictly of ordinary or classical particles, and these particles were fired in a straight line through a slit and allowed to strike a screen on the other side, we would expect to see a pattern corresponding to the size and shape of the slit. However, when this "single-slit experiment" is actually performed, the pattern on the screen is a diffraction pattern in which the light is spread out. The smaller the slit, the greater the angle of spread. The top portion of the image shows the central portion of the pattern formed when a red laser illuminates a slit and, if one looks carefully, two faint side bands. More bands can be seen with a more highly refined apparatus. Diffraction explains the pattern as being the result of the interference of light waves from the slit.
-
-Double_slit_experiment.webm
+(the faint spots on either side of the main band) forms due to the nonzero width of the slit. A diffraction pattern is also seen in the double-slit image, but at twice the intensity and with the addition of many smaller interference fringes.]] If light consisted strictly of ordinary or classical particles, and these particles were fired in a straight line through a slit and allowed to strike a screen on the other side, we would expect to see a pattern corresponding to the size and shape of the slit. However, when this "single-slit experiment" is actually performed, the pattern on the screen is a diffraction pattern in which the light is spread out. The smaller the slit, the greater the angle of spread. The top portion of the image shows the central portion of the pattern formed when a red laser illuminates a slit and, if one looks carefully, two faint side bands. More bands can be seen with a more highly refined apparatus. Diffraction explains the pattern as being the result of the interference of light waves from the slit.
 
 If one illuminates two parallel slits, the light from the two slits again interferes. Here the interference is a more pronounced pattern with a series of alternating light and dark bands. The width of the bands is a property of the frequency of the illuminating light.Charles Sanders Peirce first proposed the use of this effect as an artifact-independent reference standard for length
 
@@ -36,8 +34,6 @@ Variations of the experiment
 
 Interference of individual particles
 
-Double-slit_experiment_results_Tanamura_2.jpg
-
 An important version of this experiment involves single particles (or waves—for consistency, they are called particles here). Sending particles through a double-slit apparatus one at a time results in single particles appearing on the screen, as expected. Remarkably, however, an interference pattern emerges when these particles are allowed to build up one by one (see the adjacent image). This demonstrates the wave–particle duality, which states that all matter exhibits both wave and particle properties: the particle is measured as a single pulse at a single position, while the wave describes the probability of absorbing the particle at a specific place on the screen.[30] This phenomenon has been shown to occur with photons, electrons, atoms and even some molecules, including buckyballs.[31][32][33][34][35] So experiments with electrons add confirmatory evidence to the view that electrons, protons, neutrons, and even larger entities that are ordinarily called particles nevertheless have their own wave nature and even a wavelength (related to their momentum).
 
 The probability of detection is the square of the amplitude of the wave and can be calculated with classical waves (see below). The particles do not arrive at the screen in a predictable order, so knowing where all the previous particles appeared on the screen and in what order tells nothing about where a future particle will be detected.[36] If there is a cancellation of waves at some point, that does not mean that a particle disappears; it will appear somewhere else. Ever since the origination of quantum mechanics, some theorists have searched for ways to incorporate additional determinants or "hidden variables" that, were they to become known, would account for the location of each individual impact with the target.[37]
@@ -52,7 +48,7 @@ An experiment performed in 1987 [45][46] produced results that demonstrated that
 
 Delayed choice and quantum eraser variations
 
-Wheeler_telescopes_set-up.svg Wheeler's delayed choice experiments demonstrate that extracting "which path" information after a particle passes through the slits can seem to retroactively alter its previous behavior at the slits.
+Wheeler's delayed choice experiments demonstrate that extracting "which path" information after a particle passes through the slits can seem to retroactively alter its previous behavior at the slits.
 
 Quantum eraser experiments demonstrate that wave behavior can be restored by erasing or otherwise making permanently unavailable the "which path" information.
 
@@ -63,8 +59,6 @@ Weak measurement
 In a highly publicized experiment in 2012, researchers claimed to have identified the path each particle had taken without any adverse effects at all on the interference pattern generated by the particles.[52] In order to do this, they used a setup such that particles coming to the screen were not from a point-like source, but from a source with two intensity maxima. However, commentators such as Svensson[53] have pointed out that there is in fact no conflict between the weak measurements performed in this variant of the double-slit experiment and the Heisenberg uncertainty principle. Weak measurement followed by post-selection did not allow simultaneous position and momentum measurements for each individual particle, but rather allowed measurement of the average trajectory of the particles that arrived at different positions. In other words, the experimenters were creating a statistical map of the full trajectory landscape.[54]
 
 Other variations
-
-Double-slit_wall_sm.jpg Plasmonic_Young's_double_slits_interference.png
 
 In 1967, Pfleegor and Mandel demonstrated two-source interference using two separate lasers as light sources.[55][56]
 
@@ -88,8 +82,6 @@ However, more complicated systems that involve two or more particles in superpos
 
 
 Classical wave-optics formulation
-
-Doubleslit3Dspectrum.gif Double_slit_interference.png Doubleslit.svg
 
 Much of the behaviour of light can be modelled using classical wave theory. The Huygens–Fresnel principle is one such model; it states that each point on a wavefront generates a secondary wavelet, and that the disturbance at any subsequent point can be found by summing the contributions of the individual wavelets at that point. This summation needs to take into account the phase as well as the amplitude of the individual wavelets. Only the intensity of a light field can be measured—this is proportional to the square of the amplitude.
 
@@ -139,7 +131,7 @@ The probability "wave" can be said to "pass through space" because the probabili
 
 Path-integral formulation
 
-Wiener_process_3d.png)]]
+)]]
 
 The Copenhagen interpretation is similar to the path integral formulation of quantum mechanics provided by Feynman. The path integral formulation replaces the classical notion of a single, unique trajectory for a system, with a sum over all possible trajectories. The trajectories are added together by using functional integration.
 
@@ -159,7 +151,7 @@ To summarize, the probability distribution of the outcome is the normalized squa
 
 Relational interpretation
 
-Uncertainty_Momentum_1.gif According to the relational interpretation of quantum mechanics, first proposed by Carlo Rovelli,[74] observations such as those in the double-slit experiment result specifically from the interaction between the observer (measuring device) and the object being observed (physically interacted with), not any absolute property possessed by the object. In the case of an electron, if it is initially "observed" at a particular slit, then the observer–particle (photon–electron) interaction includes information about the electron's position. This partially constrains the particle's eventual location at the screen. If it is "observed" (measured with a photon) not at a particular slit but rather at the screen, then there is no "which path" information as part of the interaction, so the electron's "observed" position on the screen is determined strictly by its probability function. This makes the resulting pattern on the screen the same as if each individual electron had passed through both slits. It has also been suggested that space and distance themselves are relational, and that an electron can appear to be in "two places at once"—for example, at both slits—because its spatial relations to particular points on the screen remain identical from both slit locations.[75]
+According to the relational interpretation of quantum mechanics, first proposed by Carlo Rovelli,[74] observations such as those in the double-slit experiment result specifically from the interaction between the observer (measuring device) and the object being observed (physically interacted with), not any absolute property possessed by the object. In the case of an electron, if it is initially "observed" at a particular slit, then the observer–particle (photon–electron) interaction includes information about the electron's position. This partially constrains the particle's eventual location at the screen. If it is "observed" (measured with a photon) not at a particular slit but rather at the screen, then there is no "which path" information as part of the interaction, so the electron's "observed" position on the screen is determined strictly by its probability function. This makes the resulting pattern on the screen the same as if each individual electron had passed through both slits. It has also been suggested that space and distance themselves are relational, and that an electron can appear to be in "two places at once"—for example, at both slits—because its spatial relations to particular points on the screen remain identical from both slit locations.[75]
 
 Many-worlds interpretation
 

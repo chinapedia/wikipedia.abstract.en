@@ -10,12 +10,12 @@ The national government has separate executive, legislative, and judicial branch
 
 Executive branch
 
-Casa-narino-1-fachada.jpg, seat of the executive power.]] The president is elected for a four-year term and, since 2005, can be re-elected for one consecutive term. The 1991 constitution reestablished the position of vice president, who is elected on the same ticket as the president. By law, the vice president will succeed in the event of the president's resignation, illness, or death.
+, seat of the executive power.]] The president is elected for a four-year term and, since 2005, can be re-elected for one consecutive term. The 1991 constitution reestablished the position of vice president, who is elected on the same ticket as the president. By law, the vice president will succeed in the event of the president's resignation, illness, or death.
 
 
 Legislative branch
 
-CapitolioNacionalDeColombia2004-7.jpg in Bogotá.]] Colombia's bicameral Congress consists of a 108-member Senate of Colombia and a 172-member Chamber of Representatives of Colombia. Senators are elected on the basis of a nationwide ballot, while representatives are elected in multi member districts co-located within the 32 national departments. The country's capital is a separate capital district and elects its own representatives. Members may be re-elected indefinitely, and, in contrast to the previous system, there are no alternate congressmen. Congress meets twice a year, and the president has the power to call it into special session when needed.
+in Bogotá.]] Colombia's bicameral Congress consists of a 108-member Senate of Colombia and a 172-member Chamber of Representatives of Colombia. Senators are elected on the basis of a nationwide ballot, while representatives are elected in multi member districts co-located within the 32 national departments. The country's capital is a separate capital district and elects its own representatives. Members may be re-elected indefinitely, and, in contrast to the previous system, there are no alternate congressmen. Congress meets twice a year, and the president has the power to call it into special session when needed.
 
 
 Political parties and elections
@@ -37,7 +37,7 @@ Senate
 
 Judicial branch
 
-PalacioDeJusticia2004-7-9Bogota.jpg.]] The civilian judiciary is a separate and independent branch of government. Guidelines and the general structure for Colombia's administration of justice are set out in Law 270 of March 7, 1996. Colombia's legal system has recently begun to incorporate some elements of an oral, accusatory system. The judicial branch's general structure is composed of four distinct jurisdictions (ordinary, administrative, constitutional, and special). Colombia's highest judicial organs are the Supreme Court, the Council of State, the Constitutional Court, and the Superior Judicial Council. Although all the high courts technically oversee separate jurisdictions, the Constitutional Court has a broad spectrum of judicial oversight which often allows it to rule on issues overseen by different jurisdictions and even weigh in directly in the rulings of other high courts.[3]
+.]] The civilian judiciary is a separate and independent branch of government. Guidelines and the general structure for Colombia's administration of justice are set out in Law 270 of March 7, 1996. Colombia's legal system has recently begun to incorporate some elements of an oral, accusatory system. The judicial branch's general structure is composed of four distinct jurisdictions (ordinary, administrative, constitutional, and special). Colombia's highest judicial organs are the Supreme Court, the Council of State, the Constitutional Court, and the Superior Judicial Council. Although all the high courts technically oversee separate jurisdictions, the Constitutional Court has a broad spectrum of judicial oversight which often allows it to rule on issues overseen by different jurisdictions and even weigh in directly in the rulings of other high courts.[3]
 
 
 International organization participation

@@ -1,4 +1,4 @@
-Cell}} Structure_of_animal_cell.JPG
+Cell}}
 
 The CELL (from Latin _cella_, meaning "small room"[1]) is the basic structural, functional, and biological unit of all known living organisms. A cell is the smallest unit of life. Cells are often called the "building blocks of life". The study of cells is called cell biology or cellular biology.
 
@@ -13,7 +13,7 @@ Cells are of two types: eukaryotic, which contain a nucleus, and prokaryotic, wh
 
 Prokaryotic cells
 
-Average_prokaryote_cell-_en.svg cell]]
+cell]]
 
 Prokaryotes include bacteria and archaea, two of the three domains of life. Prokaryotic cells were the first form of life on Earth, characterised by having vital biological processes including cell signaling. They are simpler and smaller than eukaryotic cells, and lack membrane-bound organelles such as a nucleus. The DNA of a prokaryotic cell consists of a single chromosome that is in direct contact with the cytoplasm. The nuclear region in the cytoplasm is called the nucleoid. Most prokaryotes are the smallest of all organisms ranging from 0.5 to 2.0 µm in diameter.[12]
 
@@ -23,7 +23,7 @@ A prokaryotic cell has three architectural regions:
 -   Inside the cell is the cytoplasmic region that contains the genome (DNA), ribosomes and various sorts of inclusions.[13] The genetic material is freely found in the cytoplasm. Prokaryotes can carry extrachromosomal DNA elements called plasmids, which are usually circular. Linear bacterial plasmids have been identified in several species of spirochete bacteria, including members of the genus _Borrelia_ notably _Borrelia burgdorferi_, which causes Lyme disease.[14] Though not forming a nucleus, the DNA is condensed in a nucleoid. Plasmids encode additional genes, such as antibiotic resistance genes.
 -   On the outside, flagella and pili project from the cell's surface. These are structures (not present in all prokaryotes) made of proteins that facilitate movement and communication between cells.
 
-Animal_cell_structure_en.svg Plant_cell_structure-en.svg]]
+]]
 
 Eukaryotic cells
 
@@ -77,11 +77,11 @@ All cells, whether prokaryotic or eukaryotic, have a membrane that envelops the 
 
 Membrane
 
-_Cell_membrane_detailed_diagram_en.svg The cell membrane, or plasma membrane, is a biological membrane that surrounds the cytoplasm of a cell. In animals, the plasma membrane is the outer boundary of the cell, while in plants and prokaryotes it is usually covered by a cell wall. This membrane serves to separate and protect a cell from its surrounding environment and is made mostly from a double layer of phospholipids, which are amphiphilic (partly hydrophobic and partly hydrophilic). Hence, the layer is called a phospholipid bilayer, or sometimes a fluid mosaic membrane. Embedded within this membrane is a variety of protein molecules that act as channels and pumps that move different molecules into and out of the cell.[22] The membrane is semi-permeable, and selectively permeable, in that it can either let a substance (molecule or ion) pass through freely, pass through to a limited extent or not pass through at all. Cell surface membranes also contain receptor proteins that allow cells to detect external signaling molecules such as hormones.
+The cell membrane, or plasma membrane, is a biological membrane that surrounds the cytoplasm of a cell. In animals, the plasma membrane is the outer boundary of the cell, while in plants and prokaryotes it is usually covered by a cell wall. This membrane serves to separate and protect a cell from its surrounding environment and is made mostly from a double layer of phospholipids, which are amphiphilic (partly hydrophobic and partly hydrophilic). Hence, the layer is called a phospholipid bilayer, or sometimes a fluid mosaic membrane. Embedded within this membrane is a variety of protein molecules that act as channels and pumps that move different molecules into and out of the cell.[22] The membrane is semi-permeable, and selectively permeable, in that it can either let a substance (molecule or ion) pass through freely, pass through to a limited extent or not pass through at all. Cell surface membranes also contain receptor proteins that allow cells to detect external signaling molecules such as hormones.
 
 Cytoskeleton
 
-DAPIMitoTrackerRedAlexaFluor488BPAE.jpg are stained red, and microfilaments are stained green.]] The cytoskeleton acts to organize and maintain the cell's shape; anchors organelles in place; helps during endocytosis, the uptake of external materials by a cell, and cytokinesis, the separation of daughter cells after cell division; and moves parts of the cell in processes of growth and mobility. The eukaryotic cytoskeleton is composed of microfilaments, intermediate filaments and microtubules. There are a great number of proteins associated with them, each controlling a cell's structure by directing, bundling, and aligning filaments.[23] The prokaryotic cytoskeleton is less well-studied but is involved in the maintenance of cell shape, polarity and cytokinesis.[24] The subunit protein of microfilaments is a small, monomeric protein called actin. The subunit of microtubules is a dimeric molecule called tubulin. Intermediate filaments are heteropolymers whose subunits vary among the cell types in different tissues. But some of the subunit protein of intermediate filaments include vimentin, desmin, lamin (lamins A, B and C), keratin (multiple acidic and basic keratins), neurofilament proteins (NF–L, NF–M).
+are stained red, and microfilaments are stained green.]] The cytoskeleton acts to organize and maintain the cell's shape; anchors organelles in place; helps during endocytosis, the uptake of external materials by a cell, and cytokinesis, the separation of daughter cells after cell division; and moves parts of the cell in processes of growth and mobility. The eukaryotic cytoskeleton is composed of microfilaments, intermediate filaments and microtubules. There are a great number of proteins associated with them, each controlling a cell's structure by directing, bundling, and aligning filaments.[23] The prokaryotic cytoskeleton is less well-studied but is involved in the maintenance of cell shape, polarity and cytokinesis.[24] The subunit protein of microfilaments is a small, monomeric protein called actin. The subunit of microtubules is a dimeric molecule called tubulin. Intermediate filaments are heteropolymers whose subunits vary among the cell types in different tissues. But some of the subunit protein of intermediate filaments include vimentin, desmin, lamin (lamins A, B and C), keratin (multiple acidic and basic keratins), neurofilament proteins (NF–L, NF–M).
 
 Genetic material
 
@@ -101,12 +101,12 @@ There are several types of organelles in a cell. Some (such as the nucleus and g
 
 Eukaryotic
 
-HeLa_Hoechst_33258.jpg, with DNA stained blue. The central and rightmost cell are in interphase, so their DNA is diffuse and the entire nuclei are labelled. The cell on the left is going through mitosis and its chromosomes have condensed.]]
+, with DNA stained blue. The central and rightmost cell are in interphase, so their DNA is diffuse and the entire nuclei are labelled. The cell on the left is going through mitosis and its chromosomes have condensed.]]
 
 -   CELL NUCLEUS: A cell's information center, the cell nucleus is the most conspicuous organelle found in a eukaryotic cell. It houses the cell's chromosomes, and is the place where almost all DNA replication and RNA synthesis (transcription) occur. The nucleus is spherical and separated from the cytoplasm by a double membrane called the nuclear envelope. The nuclear envelope isolates and protects a cell's DNA from various molecules that could accidentally damage its structure or interfere with its processing. During processing, DNA is transcribed, or copied into a special RNA, called messenger RNA (mRNA). This mRNA is then transported out of the nucleus, where it is translated into a specific protein molecule. The nucleolus is a specialized region within the nucleus where ribosome subunits are assembled. In prokaryotes, DNA processing takes place in the cytoplasm.[29]
 -   MITOCHONDRIA AND CHLOROPLASTS: generate energy for the cell. Mitochondria are self-replicating organelles that occur in various numbers, shapes, and sizes in the cytoplasm of all eukaryotic cells.[30] Respiration occurs in the cell mitochondria, which generate the cell's energy by oxidative phosphorylation, using oxygen to release energy stored in cellular nutrients (typically pertaining to glucose) to generate ATP. Mitochondria multiply by binary fission, like prokaryotes. Chloroplasts can only be found in plants and algae, and they capture the sun's energy to make carbohydrates through photosynthesis.
 
-Endomembrane_system_diagram_en.svg]]
+]]
 
 -   ENDOPLASMIC RETICULUM: The endoplasmic reticulum (ER) is a transport network for molecules targeted for certain modifications and specific destinations, as compared to molecules that float freely in the cytoplasm. The ER has two forms: the rough ER, which has ribosomes on its surface that secrete proteins into the ER, and the smooth ER, which lacks ribosomes.[31] The smooth ER plays a role in calcium sequestration and release.
 -   GOLGI APPARATUS: The primary function of the Golgi apparatus is to process and package the macromolecules such as proteins and lipids that are synthesized by the cell.
@@ -144,7 +144,7 @@ A fimbria also known as a pilus is a short, thin, hair-like filament found on th
 
 Cellular processes
 
-Three_cell_growth_types.svg divide by binary fission, while eukaryotes divide by mitosis or meiosis.]]
+divide by binary fission, while eukaryotes divide by mitosis or meiosis.]]
 
 Replication
 
@@ -152,11 +152,11 @@ Cell division involves a single cell (called a _mother cell_) dividing into two 
 
 DNA replication, or the process of duplicating a cell's genome,[36] always happens when a cell divides through mitosis or binary fission. This occurs during the S phase of the cell cycle.
 
-In meiosis, the DNA is replicated only once, while the cell divides twice. DNA replication only occurs before meiosis I. DNA replication does not occur when the cells divide the second time, in meiosis II.[37] Replication, like all cellular activities, requires specialized proteins for carrying out the job.[38] Catabolism_schematic.svg of proteins, carbohydrates and fats]]
+In meiosis, the DNA is replicated only once, while the cell divides twice. DNA replication only occurs before meiosis I. DNA replication does not occur when the cells divide the second time, in meiosis II.[37] Replication, like all cellular activities, requires specialized proteins for carrying out the job.[38] of proteins, carbohydrates and fats]]
 
 Growth and metabolism
 
-Proteinsynthesis.png of the cell (_light blue_), genes (DNA, _dark blue_) are transcribed into RNA. This RNA is then subject to post-transcriptional modification and control, resulting in a mature mRNA (_red_) that is then transported out of the nucleus and into the cytoplasm (_peach_), where it undergoes translation into a protein. mRNA is translated by ribosomes (_purple_) that match the three-base codons of the mRNA to the three-base anti-codons of the appropriate tRNA. Newly synthesized proteins (_black_) are often further modified, such as by binding to an effector molecule (_orange_), to become fully active.]] Between successive cell divisions, cells grow through the functioning of cellular metabolism. Cell metabolism is the process by which individual cells process nutrient molecules. Metabolism has two distinct divisions: catabolism, in which the cell breaks down complex molecules to produce energy and reducing power, and anabolism, in which the cell uses energy and reducing power to construct complex molecules and perform other biological functions. Complex sugars consumed by the organism can be broken down into simpler sugar molecules called monosaccharides such as glucose. Once inside the cell, glucose is broken down to make adenosine triphosphate (ATP),[39] a molecule that possesses readily available energy, through two different pathways.
+of the cell (_light blue_), genes (DNA, _dark blue_) are transcribed into RNA. This RNA is then subject to post-transcriptional modification and control, resulting in a mature mRNA (_red_) that is then transported out of the nucleus and into the cytoplasm (_peach_), where it undergoes translation into a protein. mRNA is translated by ribosomes (_purple_) that match the three-base codons of the mRNA to the three-base anti-codons of the appropriate tRNA. Newly synthesized proteins (_black_) are often further modified, such as by binding to an effector molecule (_orange_), to become fully active.]] Between successive cell divisions, cells grow through the functioning of cellular metabolism. Cell metabolism is the process by which individual cells process nutrient molecules. Metabolism has two distinct divisions: catabolism, in which the cell breaks down complex molecules to produce energy and reducing power, and anabolism, in which the cell uses energy and reducing power to construct complex molecules and perform other biological functions. Complex sugars consumed by the organism can be broken down into simpler sugar molecules called monosaccharides such as glucose. Once inside the cell, glucose is broken down to make adenosine triphosphate (ATP),[39] a molecule that possesses readily available energy, through two different pathways.
 
 Protein synthesis
 
@@ -175,7 +175,7 @@ Multicellularity
 
 Cell specialization
 
-C_elegans_stained.jpg'' which highlights the nuclei of its cells.]] Multicellular organisms are organisms that consist of more than one cell, in contrast to single-celled organisms.[43]
+'' which highlights the nuclei of its cells.]] Multicellular organisms are organisms that consist of more than one cell, in contrast to single-celled organisms.[43]
 
 In complex multicellular organisms, cells specialize into different cell types that are adapted to particular functions. In mammals, major cell types include skin cells, muscle cells, neurons, blood cells, fibroblasts, stem cells, and others. Cell types differ both in appearance and function, yet are genetically identical. Cells are able to be of the same genotype but of different cell type due to the differential expression of the genes they contain.
 
@@ -196,7 +196,7 @@ The origin of cells has to do with the origin of life, which began the history o
 
 Origin of the first cell
 
-Stromatolites.jpg are left behind by cyanobacteria, also called blue-green algae. They are the oldest known fossils of life on Earth. This one-billion-year-old fossil is from Glacier National Park in the United States.]]
+are left behind by cyanobacteria, also called blue-green algae. They are the oldest known fossils of life on Earth. This one-billion-year-old fossil is from Glacier National Park in the United States.]]
 
 There are several theories about the origin of small molecules that led to life on the early Earth. They may have been carried to Earth on meteorites (see Murchison meteorite), created at deep-sea vents, or synthesized by lightning in a reducing atmosphere (see Miller–Urey experiment). There is little experimental data defining what the first self-replicating forms were. RNA is thought to be the earliest self-replicating molecule, as it is capable of both storing genetic information and catalyzing chemical reactions (see RNA world hypothesis), but some other entity with the potential to self-replicate could have preceded RNA, such as clay or peptide nucleic acid.[50]
 
@@ -211,7 +211,7 @@ There is still considerable debate about whether organelles like the hydrogenoso
 
 History of research
 
-RobertHookeMicrographia1665.jpg, 1665]]
+, 1665]]
 
 -   1632–1723: Antonie van Leeuwenhoek taught himself to make lenses, constructed basic optical microscopes and drew protozoa, such as _Vorticella_ from rain water, and bacteria from his own mouth.
 -   1665: Robert Hooke discovered cells in cork, then in living plant tissue using an early compound microscope. He coined the term _cell_ (from Latin _cella_, meaning "small room"[55]) in his book _Micrographia_ (1665)." … I could exceedingly plainly perceive it to be all perforated and porous, much like a Honey-comb, but that the pores of it were not regular […] these pores, or cells, […] were indeed the first microscopical pores I ever saw, and perhaps, that were ever seen, for I had not met with any Writer or Person, that had made any mention of them before this … " – Hooke describing his observations on a thin slice of cork. See also:

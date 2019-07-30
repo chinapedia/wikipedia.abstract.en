@@ -3,7 +3,7 @@ HENRY AINSWORTH (1571–1622) was an English Nonconformist clergyman and scholar
 
 Life
 
-AINSWORTH_HENRY_1627_Annotations_upon_the_five_bookes_of_Moses_the_booke_of_the_Psalmes_and_the_Song_of_Songs_or_Canticles_p_128_IEHOVAH.png.]] He was born of a farming family of Swanton Morley, Norfolk. He was educated at St John's College, Cambridge, later moving to Caius College,[1] and, after associating with the Puritan party in the Church, eventually joined the Brownists.[2]
+.]] He was born of a farming family of Swanton Morley, Norfolk. He was educated at St John's College, Cambridge, later moving to Caius College,[1] and, after associating with the Puritan party in the Church, eventually joined the Brownists.[2]
 
 Driven abroad to Holland in about 1593 due to the government of Queen Elizabeth's dissatisfaction with his non-conformist views,[3] he found a home in "a blind lane at Amsterdam", acting as "porter" to a bookseller, who, on discovering his knowledge of Hebrew, introduced him to other scholars. When part of the London church, of which Francis Johnson (then in prison) was pastor, reassembled in Amsterdam, Ainsworth was chosen as their doctor or teacher. In 1596 he drew up a confession of their faith, reissued in Latin in 1598 and dedicated to the various universities of Europe (including St Andrews, Scotland). Johnson joined his flock in 1597, and in 1604 he and Ainsworth composed _An Apology or Defence of such true Christians as are commonly but unjustly called Brownists_.[4]
 

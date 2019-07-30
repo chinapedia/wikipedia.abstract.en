@@ -1,4 +1,4 @@
-Gram_stain_01.jpg'' (_S. aureus_ ATCC 25923, Gram-positive cocci, in purple) and _Escherichia coli_ (_E. coli_ ATCC 11775, Gram-negative bacilli, in red), the most common Gram stain reference bacteria]] GRAM STAIN or GRAM STAINING, also called GRAM'S METHOD, is a method of staining used to distinguish and classify bacterial species into two large groups (Gram-positive and Gram-negative). The name comes from the Danish bacteriologist Hans Christian Gram, who developed the technique.[1]
+'' (_S. aureus_ ATCC 25923, Gram-positive cocci, in purple) and _Escherichia coli_ (_E. coli_ ATCC 11775, Gram-negative bacilli, in red), the most common Gram stain reference bacteria]] GRAM STAIN or GRAM STAINING, also called GRAM'S METHOD, is a method of staining used to distinguish and classify bacterial species into two large groups (Gram-positive and Gram-negative). The name comes from the Danish bacteriologist Hans Christian Gram, who developed the technique.[1]
 
 Gram staining differentiates bacteria by the chemical and physical properties of their cell walls. Gram-positive cells have a thick layer of peptidoglycan in the cell wall that retains the primary stain, crystal violet. Gram-negative cells have a thinner peptidoglycan layer that allows the crystal violet to wash out. They are stained pink by the counterstain,[2] commonly safranin or fuchsine.
 
@@ -24,7 +24,7 @@ Gram stains are performed on body fluid or biopsy when infection is suspected. G
 
 Staining mechanism
 
-Gram_Staining_Bacteria.jpg Gram-positive bacteria have a thick mesh-like cell wall made of peptidoglycan (50–90% of cell envelope), and as a result are stained purple by crystal violet, whereas Gram-negative bacteria have a thinner layer (10% of cell envelope), so do not retain the purple stain and are counter-stained pink by safranin. There are four basic steps of the Gram stain:
+Gram-positive bacteria have a thick mesh-like cell wall made of peptidoglycan (50–90% of cell envelope), and as a result are stained purple by crystal violet, whereas Gram-negative bacteria have a thinner layer (10% of cell envelope), so do not retain the purple stain and are counter-stained pink by safranin. There are four basic steps of the Gram stain:
 
 -   Applying a primary stain (crystal violet) to a heat-fixed smear of a bacterial culture. Heat fixation kills some bacteria but is mostly used to affix the bacteria to the slide so that they don't rinse out during the staining procedure.
 -   The addition of iodide, which binds to crystal violet and traps it in the cell

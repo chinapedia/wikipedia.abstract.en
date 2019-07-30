@@ -7,19 +7,17 @@ ACTINOPHRYIDS are largely aquatic protozoa with a spherical cell body and many n
 
 The cell body is largely vacuolated, with the ectoplasm consisting almost entirely of these structures. The endoplasm of actinophryids is often darker and denser than the outer layer, and can sometimes be seen as a sharp boundary under a light microscope.[4] The organisms can be either mononucleate, with a single, well defined nucleus in the center of the cell body, or multinucleate, with 10 or more nuclei dispersed throughout the organism. The cytoplasm of actinophryids is often granular, similar to that of _Amoeba_.[5]
 
-Acti1000.webm collapse in _Actinosphaerium_]] Contractile vacuoles are common in these organisms, who use them to maintain homeostasis and control buoyancy. These are visible as clear bulges from the surface of the cell body that slowly fill then rapidly deflate, expelling the contents into the environment.
+collapse in _Actinosphaerium_]] Contractile vacuoles are common in these organisms, who use them to maintain homeostasis and control buoyancy. These are visible as clear bulges from the surface of the cell body that slowly fill then rapidly deflate, expelling the contents into the environment.
 
 Axopodia
 
-Axopodium_Mikrotubuli.jpg structure in an axopod]] The most distinctive characteristic of the actinophryids is their axopodia. These axopodia consist of a central, rigid rod which is coated in a thin layer of ectoplasm. These axonemes are rooted in the endoplasm and terminate there, sometimes close to a nucleus.[6] The axonemes are composed microtubules arranged in a double spiral pattern characteristic of the order.[7] Due to their long, parallel construction these microtubules demonstrate strong birefringence.[8][9]
+structure in an axopod]] The most distinctive characteristic of the actinophryids is their axopodia. These axopodia consist of a central, rigid rod which is coated in a thin layer of ectoplasm. These axonemes are rooted in the endoplasm and terminate there, sometimes close to a nucleus.[6] The axonemes are composed microtubules arranged in a double spiral pattern characteristic of the order.[7] Due to their long, parallel construction these microtubules demonstrate strong birefringence.[8][9]
 
 These axopodia are used for prey capture, mobility, and cell fusion and division.[10][11] They can be flexible, especially when the organisms are starved,[12] and are highly dynamic, undergoing frequent construction and destruction. When used to collect prey items, two methods of capture have been noted, termed axopodial flow and rapid axopodial contraction.[13] Axopodial flow involves the slow movement of a prey item along the surface of the axopod as the ectoplasm itself moves, while rapid axopodial contraction involves the collapse of the axoneme's microtubule structure.[14] This behavior has been documented in many species, including _Actinosphaerium nucleofilum_, _Actinophrys sol_, and _Raphidiophrys contractilis_.[15][16][17] The rapid axopodial contraction occurs at high speed, often in excess of 5mm/s or tens of body lengths per second.[18]
 
 The axopodial contractions have been shown to be highly sensitive to environmental factors such as temperature and pressure[19][20] as well as chemical signals like Ca²⁺ and colchine.[21][22][23] They may also be triggered by mechanical or electrical stimulation.[24][25]
 
 Reproduction
-
-Heliozoen.jpg
 
 Reproduction in actinophryids generally takes place via fission, where one parent cell divides into two or more daughter cells. For multinucleate heliozoa, this process is plasmotomic as the nuclei are not duplicated prior to division.[26] It has been observed that reproduction appears to be a response to food scarcity, with an increased number of divisions following the removal of food and larger organisms during times of food excess.[27]
 

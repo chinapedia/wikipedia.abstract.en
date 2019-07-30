@@ -7,7 +7,7 @@ A majority of Eritrea's population adheres to Abrahamic religions. The two most 
 
 Ethno-linguistic groups
 
-Ethno-Demography_of_Eritrea.png Eritrea's population comprises nine recognized ethnic groups, most of whom speak languages from the Ethiopian Semitic branch of the Afro-Asiatic family.[5] The East African Semitic languages spoken in Eritrea are Tigre, Tigrinya, and the newly recognized Dahlik. Other Afro-Asiatic languages belonging to the Cushitic branch are also widely spoken in the country.[6] The latter include Afar, Beja, Blin, and Saho.
+Eritrea's population comprises nine recognized ethnic groups, most of whom speak languages from the Ethiopian Semitic branch of the Afro-Asiatic family.[5] The East African Semitic languages spoken in Eritrea are Tigre, Tigrinya, and the newly recognized Dahlik. Other Afro-Asiatic languages belonging to the Cushitic branch are also widely spoken in the country.[6] The latter include Afar, Beja, Blin, and Saho.
 
 In addition, languages belonging to the Nilo-Saharan language family (Kunama and Nara) are spoken as a mother tongue by the Kunama and Nara Nilotic ethnic minorities that live in the north and northwestern part of the country.[7] The Rashaida speak Arabic, while there are also a number of Italians who speak their native Italian language.
 
@@ -17,7 +17,7 @@ Semitic speakers
 
 Tigrinya
 
-Traditional_Eritrean_dance.jpg traditional dance.]] The majority of the Tigrinya inhabit the highlands of Eritrea; however, migration to other parts of the country has occurred. Their language is called Tigrinya. They are the largest ethnic group in the country, constituting about 55% of the population.[8] The predominantly Tigrinya populated urban centers in Eritrea are the capital Asmara, Mendefera, Dekemhare, Adi Keyh, Adi Quala and Senafe, while there is a significant population of Tigrinya in other cities including Keren, and Massawa.
+traditional dance.]] The majority of the Tigrinya inhabit the highlands of Eritrea; however, migration to other parts of the country has occurred. Their language is called Tigrinya. They are the largest ethnic group in the country, constituting about 55% of the population.[8] The predominantly Tigrinya populated urban centers in Eritrea are the capital Asmara, Mendefera, Dekemhare, Adi Keyh, Adi Quala and Senafe, while there is a significant population of Tigrinya in other cities including Keren, and Massawa.
 
 The Jeberti people in Eritrea trace descent from early Muslim adherents. The term _Jeberti_ is also locally sometimes used to generically refer to all Islamic inhabitants of the highlands.[9] The Jeberti in Eritrea speak Arabic and Tigrinya.[10] They account for about 10% of the Tigrinya speakers in the nation. The remaining 90% are Christians, so divided: 73% of the Eritrean Orthodox faith, 12% Roman Catholic and Eastern Catholic (whose mass is held in Ge'ez as opposed to Latin), and 5% belonging to various Protestant and other Christian denominations, the majority of which belong to the (Lutheran) Evangelical Church of Eritrea.
 
@@ -37,7 +37,7 @@ According to the CIA, the Afar constitute under 5% of the nation's population.[1
 
 Saho
 
-Eritrean_Women.jpeg women in traditional attire.]] The Saho represent 4% of Eritrea's population.[15] They principally reside in the Debubawi Keyih Bahri Region and the Northern Red Sea Region of Eritrea. Their language is called Saho. They are predominantly Muslim, although a few Christians known as the Irob live in the Debub Region of Eritrea and the Tigray region of Ethiopia.
+women in traditional attire.]] The Saho represent 4% of Eritrea's population.[15] They principally reside in the Debubawi Keyih Bahri Region and the Northern Red Sea Region of Eritrea. Their language is called Saho. They are predominantly Muslim, although a few Christians known as the Irob live in the Debub Region of Eritrea and the Tigray region of Ethiopia.
 
 Bilen
 
@@ -207,8 +207,6 @@ Population
     5,970,646 (July 2018 est.)
 
 Age structure
-
-Eritreapop.svg
 
     _0-14 years:_ 39.53% (male 1,186,749 /female 1,173,530)
     _15-24 years:_ 19.94% (male 592,365 /female 598,305)

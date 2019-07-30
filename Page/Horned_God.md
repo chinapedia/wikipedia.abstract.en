@@ -9,7 +9,7 @@ The Horned god has been explored within several psychological theories and has b
 
 In Wicca
 
-Gundestrup_Cernunnos.jpg]]
+]]
 
 In traditional and mainstream Wicca, the Horned God is viewed as the divine male principality, being both equal and opposite to the Goddess. The Wiccan god himself can be represented in many forms, including as the Sun God, the Sacrificed God and the Vegetation God,[6] although the Horned God is the most popular representation. The pioneers of the various Wiccan or Witchcraft traditions, such as Gerald Gardner, Doreen Valiente and Robert Cochrane, all claimed that their religion was a continuation of the pagan religion of the Witch-Cult following historians who had purported the Witch-Cult's existence, such as Jules Michelet and Margaret Murray.
 
@@ -27,7 +27,7 @@ Wiccans believe that The Horned God, as Lord of Death, is their "comforter and c
 
 Names
 
-Horned_God_and_Mother_Goddess_(Doreen_Valiente's_Altar).jpg]]
+]]
 
 Doreen Valiente, a former High Priestess of the Gardnerian tradition, claimed that Gerald Gardner's Bricket Wood coven referred to the god as Cernunnos, or KERNUNNO, which is a Latin word, discovered on a stone carving found in France, meaning "the Horned One". Valiente claimed that the coven also referred to the god as JANICOT, which she theorised was of Basque origin, and Gardner also used this name in his novel _High Magic's Aid_.[19]
 
@@ -46,7 +46,7 @@ In psychology
 
 Jungian analysis
 
-Gehörnter_Gott,_Enkomi.jpg, Cyprus]]
+, Cyprus]]
 
 Sherry Salman considers the image of the Horned God in Jungian terms, as an archetypal protector and mediator of the outside world to the objective psyche. In her theory the male psyche's 'Horned God' frequently compensates for inadequate fathering.
 
@@ -61,13 +61,13 @@ Following the work of Robert Bly in the Mythopoetic men's movement, John Rowan p
 
 Theories of historical origins
 
-Star_Carr_headdress_cropped.JPG. Many of the 20 other headdresses have more complex sets of antlers.]] Pintura_Trois_Freres.jpg Many horned deities are known to have been worshipped in various cultures throughout history. Evidence for horned gods appear very early in the human record. The so-called Sorcerer dates from perhaps 13,000 BCE. Twenty-one red deer headdresses, made from the skulls of the red deer and likely fitted with leather laces, have been uncovered at the Mesolithic site of Star Carr. They are thought to date from roughly 9,000 BCE.[30] Several theories have been created to establish historical roots for modern Neopagan worship of a Horned God.
+. Many of the 20 other headdresses have more complex sets of antlers.]] Many horned deities are known to have been worshipped in various cultures throughout history. Evidence for horned gods appear very early in the human record. The so-called Sorcerer dates from perhaps 13,000 BCE. Twenty-one red deer headdresses, made from the skulls of the red deer and likely fitted with leather laces, have been uncovered at the Mesolithic site of Star Carr. They are thought to date from roughly 9,000 BCE.[30] Several theories have been created to establish historical roots for modern Neopagan worship of a Horned God.
 
 Margaret Murray
 
 Following the writings of suffragist Matilda Joslyn Gage[31] and others, Margaret Murray, in her 1921 book _The Witch-Cult in Western Europe_, proposed the theory that the witches of the early-modern period were remnants of a pagan cult and that the Christian Church had declared the god of the witches was in fact the Devil. Without recourse to any specific representation of this deity, Murray speculates that the head coverings common in inquisition-derived descriptions of the devil "may throw light on one of the possible origins of the cult."[32]
 
-Nejamesa_horned_god_of_India.png of the Indian sub-religion Kaumaram. Possibly from the Shunga period (1st-2nd century B.C), or earlier]] In 1931 Murray published a sequel, _The God of the Witches_, which tries to gather evidence in support of her witch-cult theory. In Chapter 1 "The Horned God".[33] Murray claims that various depictions of humans with horns from European and Indian sources, ranging from the paleolithic French cave painting of "The Sorcerer" to the Indic Pashupati to the modern English Dorset Ooser, are evidence for an unbroken, Europe-wide tradition of worship of a singular Horned God. Murray derived this model of a horned god cult from James Frazer and Jules Michelet.[34]
+of the Indian sub-religion Kaumaram. Possibly from the Shunga period (1st-2nd century B.C), or earlier]] In 1931 Murray published a sequel, _The God of the Witches_, which tries to gather evidence in support of her witch-cult theory. In Chapter 1 "The Horned God".[33] Murray claims that various depictions of humans with horns from European and Indian sources, ranging from the paleolithic French cave painting of "The Sorcerer" to the Indic Pashupati to the modern English Dorset Ooser, are evidence for an unbroken, Europe-wide tradition of worship of a singular Horned God. Murray derived this model of a horned god cult from James Frazer and Jules Michelet.[34]
 
 In dealing with "The Sorcerer",[35] the earliest evidence claimed, Murray based her observations on a drawing by Henri Breuil, which some modern scholars such as Ronald Hutton claim is inaccurate. Hutton states that modern photographs show the original cave art lacks horns, a human torso or any other significant detail on its upper half.[36] However, others, such as celebrated prehistorian Jean Clottes, assert that Breuil's sketch is indeed accurate. Clottes stated that "I have seen it myself perhaps 20 times over the years".[37]
 
@@ -83,13 +83,13 @@ The popular image of the Greek god Pan was removed from its classical context in
 
 The reception of _Aradia_ amongst Neopagans has not been entirely positive. Clifton suggests that modern claims of revealing an Italian pagan witchcraft tradition, for example those of Leo Martello and Raven Grimassi, must be "match[ed] against", and compared with the claims in _Aradia_. He further suggests that a lack of comfort with _Aradia_ may be due to an "insecurity" within Neopaganism about the movement's claim to authenticity as a religious revival.[43]
 
-Chaire_Cathédrale_Liège_240809_04.jpg _(Le génie du mal)_ by Guillaume Geefs (Cathedral of St. Paul, Liège, Belgium)]] Valiente offers another explanation for the negative reaction of some neopagans; that the identification of Lucifer as the god of the witches in _Aradia_ was "too strong meat" for Wiccans who were used to the gentler, romantic paganism of Gerald Gardner and were especially quick to reject any relationship between witchcraft and Satanism.[44]
+_(Le génie du mal)_ by Guillaume Geefs (Cathedral of St. Paul, Liège, Belgium)]] Valiente offers another explanation for the negative reaction of some neopagans; that the identification of Lucifer as the god of the witches in _Aradia_ was "too strong meat" for Wiccans who were used to the gentler, romantic paganism of Gerald Gardner and were especially quick to reject any relationship between witchcraft and Satanism.[44]
 
 In 1985 Classical historian Georg Luck, in his _Arcana Mundi: Magic and the Occult in the Greek and Roman Worlds_, theorised that the origins of the Witch-cult may have appeared in late antiquity as a faith primarily designed to worship the Horned God, stemming from the merging of Cernunnos, a horned god of the Celts, with the Greco-Roman Pan/Faunus,[45] a combination of gods which he posits created a new deity, around which the remaining pagans, those refusing to convert to Christianity, rallied and that this deity provided the prototype for later Christian conceptions of the Devil, and his worshippers were cast by the Church as witches.[46]
 
 Influences from occultism
 
-Baphomet.png. Baphomet serves as an historical model for Murray's concept.]]
+. Baphomet serves as an historical model for Murray's concept.]]
 
 Eliphas Levi's image of "Baphomet" serves as an example of the transformation of the Devil into a benevolent fertility deity and provided the prototype for Murray's horned god.[47] Murray's central thesis that images of the Devil were actually of deities and that Christianity had demonised these worshippers as following Satan, is first recorded in the work of Levi in the fashionable 19th-century Occultist circles of England and France.[48] Levi created his image of Baphomet, published in his _Dogme et Rituel de la Haute Magie_ (1855), by combining symbolism from diverse traditions, including the _Diable_ card of the 16th and 17th century Tarot of Marseille. Lévi called his image "The Goat of Mendes", possibly following Herodotus' account[49] that the god of Mendes—the Greek name for Djedet, Egypt—was depicted with a goat's face and legs. Herodotus relates how all male goats were held in great reverence by the Mendesians, and how in his time a woman publicly copulated with a goat.[50] E. A. Wallis Budge writes,
 
@@ -110,7 +110,7 @@ Georg Luck, repeats part of Murray's theory, stating that the Horned God may hav
 
 Art, fantasy and science fiction
 
-Francisco_de_Goya_y_Lucientes_-_Witches'_Sabbath_-_WGA10007.jpg's _Witches Sabbat_ (1789), which depicts the Devil flanked by Satanic witches. The Witch Cult hypothesis states that such stories are based upon a real-life pagan cult that revered a horned god]]
+'s _Witches Sabbat_ (1789), which depicts the Devil flanked by Satanic witches. The Witch Cult hypothesis states that such stories are based upon a real-life pagan cult that revered a horned god]]
 
 In 1908's _The Wind in the Willows_ by Kenneth Grahame, in Chapter 7, "The Piper at the Gates of Dawn", Ratty and Mole meet a mystical horned being, powerful, fearsome and kind.[59] Grahame's work was a significant part of the cultural milieu which stripped the Greek god Pan of his cultural identity in favor of an unnamed, generic horned deity which led to Murray's thesis of historical origins.
 

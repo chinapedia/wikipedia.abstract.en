@@ -17,7 +17,7 @@ History
 
 Early history
 
-Theater_Kaiseraugst.jpg in Augusta Raurica ]] There are traces of a settlement at the Rhine knee from the early La Tène period (5th century BC). In the 2nd century BC, there was a village of the Raurici at the site of _Basel-Gasfabrik_, to the northwest of the Old City, likely identical with the town of _Arialbinnum_ mentioned on the _Tabula Peutingeriana_.[8] The unfortified settlement was abandoned in the 1st century BC in favour of an _oppidum_ on the site of Basel Minster, probably in reaction to the Roman invasion of Gaul.
+in Augusta Raurica ]] There are traces of a settlement at the Rhine knee from the early La Tène period (5th century BC). In the 2nd century BC, there was a village of the Raurici at the site of _Basel-Gasfabrik_, to the northwest of the Old City, likely identical with the town of _Arialbinnum_ mentioned on the _Tabula Peutingeriana_.[8] The unfortified settlement was abandoned in the 1st century BC in favour of an _oppidum_ on the site of Basel Minster, probably in reaction to the Roman invasion of Gaul.
 
 In Roman Gaul, Augusta Raurica was established some from Basel as the regional administrative centre, while a _castra_ (fortified camp) was built on the site of the Celtic _oppidum_. The city of Basel eventually grew around the _castra_. In AD 83, Basel was incorporated into the Roman province of Germania Superior. Roman control over the area deteriorated in the 3rd century, and Basel became an outpost of the _Provincia Maxima Sequanorum_ formed by Diocletian.
 
@@ -29,7 +29,7 @@ The city was plundered and destroyed by a Magyar invasion in 917. The rebuilt ci
 
 Prince-Bishopric of Basel
 
-Basler_-_Basler_Münster_Westfassade.jpg, built between 1019 and 1500]]
+, built between 1019 and 1500]]
 
 From the donation by Rudolph III of Burgundy of the Moutier-Grandval Abbey and all its possessions to Bishop Adalbero II of Metz in 999 until the Reformation, Basel was ruled by prince-bishops (see Bishop of Basel,[10] whose memory is preserved in the crosier shown on the Basel coat of arms – see above).
 
@@ -39,13 +39,13 @@ The Bishop also allowed the furriers to establish a guild in 1226. Eventually ab
 
 The plague came to Europe in 1347, but did not reach Basel until June 1349. The guilds, asserting that the Jews were responsible—several had been tortured and confessed—demanded they be executed, which the Council did in January 1349, except for a few who escaped to Alsace.[14] During the Basel massacre, 600 Jews were murdered. They were shackled inside a wooden barn on an island in the Rhine, which was set afire. The few survivors - young orphans - were forcibly converted to Christianity. The council then forbade Jews in Basel for 200 years, except that their money was helpful in rebuilding after the Basel earthquake of 1356 which destroyed much of the city along with a number of castles in the vicinity. The city offered courts to nobles as an alternative to rebuilding their castles, in exchange for the nobles' military protection of the city.
 
-Nuremberg_chronicles_-_BASILEA.png]] In 1412 (or earlier), the well-known Gasthof zum Goldenen Sternen was established. Basel became the focal point of western Christendom during the 15th century Council of Basel (1431–1449), including the 1439 election of antipope Felix V. In 1459, Pope Pius II endowed the University of Basel, where such notables as Erasmus of Rotterdam and Paracelsus later taught. At the same time the new craft of printing was introduced to Basel by apprentices of Johann Gutenberg.
+]] In 1412 (or earlier), the well-known Gasthof zum Goldenen Sternen was established. Basel became the focal point of western Christendom during the 15th century Council of Basel (1431–1449), including the 1439 election of antipope Felix V. In 1459, Pope Pius II endowed the University of Basel, where such notables as Erasmus of Rotterdam and Paracelsus later taught. At the same time the new craft of printing was introduced to Basel by apprentices of Johann Gutenberg.
 
 The Schwabe publishing house was founded in 1488 by Johannes Petri and is the oldest publishing house still in business. Johann Froben also operated his printing house in Basel and was notable for publishing works by Erasmus.[15] In 1495, Basel was incorporated into the Upper Rhenish Imperial Circle; the Bishop of Basel was added to the Bench of the Ecclesiastical Princes. In 1500 the construction of the Basel Münster was finished. In 1521 so was the bishop. The Council, under the supremacy of the guilds, explained that henceforth they would only give allegiance to the Swiss Confederation, to whom the bishop appealed but in vain.[16]
 
 As a member state in the Swiss Confederacy
 
-Merian_Basel_1642.jpg, oriented with SW at the top and NE at the bottom.]] The city had remained neutral through the Swabian War of 1499 despite being plundered by soldiers on both sides. The Treaty of Basel ended the war and granted the Swiss confederates exemptions from the emperor Maximillian's taxes and jurisdictions, separating Switzerland _de facto_ from the Holy Roman Empire.[17]
+, oriented with SW at the top and NE at the bottom.]] The city had remained neutral through the Swabian War of 1499 despite being plundered by soldiers on both sides. The Treaty of Basel ended the war and granted the Swiss confederates exemptions from the emperor Maximillian's taxes and jurisdictions, separating Switzerland _de facto_ from the Holy Roman Empire.[17]
 
 On 9 June 1501, Basel joined the Swiss Confederation as its eleventh canton.[18] It was the only canton that was asked to join, not the other way round. Basel had a strategic location, good relations with Strasbourg and Mulhouse, and control of the corn imports from Alsace, whereas the Swiss lands were becoming overpopulated and had few resources. A provision of the Charter accepting Basel required that in conflicts among the other cantons it was to stay neutral and offer its services for mediation.[19][20]
 
@@ -67,7 +67,7 @@ Modern history
 
 In 1792, the Republic of Rauracia, a revolutionary French client republic, was created. It lasted until 1793.[25] After three years of political agitation and a short civil war in 1833 the disadvantaged countryside seceded from the Canton of Basel, forming the half canton of Basel-Landschaft.[26]
 
-On 3 July 1874, Switzerland's first zoo, the Zoo Basel, opened its doors in the south of the city towards Binningen. Theodor_Herzl_Addressing_the_Second_Zionist_Congress_in_Basel,_1898_AL003483697.jpg in Basel, 1898 (Stadtcasino)]] In 1897 the first World Zionist Congress was held in Basel. Altogether the World Zionist Congress was held in Basel ten times, more than in any other city in the world.[27]
+On 3 July 1874, Switzerland's first zoo, the Zoo Basel, opened its doors in the south of the city towards Binningen. in Basel, 1898 (Stadtcasino)]] In 1897 the first World Zionist Congress was held in Basel. Altogether the World Zionist Congress was held in Basel ten times, more than in any other city in the world.[27]
 
 On 16 November 1938, the psychedelic drug LSD was first synthesized by Swiss chemist Albert Hofmann at Sandoz Laboratories in Basel.
 
@@ -85,7 +85,7 @@ Geography and climate
 
 Topography
 
-MZA_Chrischona4_retouched.jpg Basel has an area, , of . Of this area, or 4.0% is used for agricultural purposes, while or 3.7% is forested. Of the rest of the land, or 86.4% is settled (buildings or roads), or 6.1% is either rivers or lakes.[29]
+Basel has an area, , of . Of this area, or 4.0% is used for agricultural purposes, while or 3.7% is forested. Of the rest of the land, or 86.4% is settled (buildings or roads), or 6.1% is either rivers or lakes.[29]
 
 Of the built up area, industrial buildings made up 10.2% of the total area while housing and buildings made up 40.7% and transportation infrastructure made up 24.0%. Power and water infrastructure as well as other special developed areas made up 2.7% of the area while parks, green belts and sports fields made up 8.9%. Out of the forested land, all of the forested land area is covered with heavy forests. Of the agricultural land, 2.5% is used for growing crops and 1.3% is pastures. All the water in the municipality is flowing water.[30]
 
@@ -273,7 +273,7 @@ Most of the population () speaks German (129,592 or 77.8%), with Italian being s
 
 Religion
 
-Basler_Synagoge(ws)_retouched.jpg of Basel]] From the , 41,916 or 25.2% were Roman Catholic, while 39,180 or 23.5% belonged to the Swiss Reformed Church. Of the rest of the population, there were 4,567 members of an Orthodox church (or about 2.74% of the population), there were 459 individuals (or about 0.28% of the population) who belonged to the Christian Catholic Church, and there were 3,464 individuals (or about 2.08% of the population) who belonged to another Christian church. There were 12,368 individuals (or about 7.43% of the population) who were Islamic. There were 1,325 individuals (or about 0.80% of the population) who were Jewish, however only members of religious institutions are counted as such by the municipality, which makes the actual number of people of Jewish descent living in Basel considerably higher. There were 746 individuals who were Buddhist, 947 individuals who were Hindu and 485 individuals who belonged to another church. 52,321 (or about 31.41% of the population) belonged to no church, are agnostic or atheist, and 8,780 individuals (or about 5.27% of the population) did not answer the question.[65]
+of Basel]] From the , 41,916 or 25.2% were Roman Catholic, while 39,180 or 23.5% belonged to the Swiss Reformed Church. Of the rest of the population, there were 4,567 members of an Orthodox church (or about 2.74% of the population), there were 459 individuals (or about 0.28% of the population) who belonged to the Christian Catholic Church, and there were 3,464 individuals (or about 2.08% of the population) who belonged to another Christian church. There were 12,368 individuals (or about 7.43% of the population) who were Islamic. There were 1,325 individuals (or about 0.80% of the population) who were Jewish, however only members of religious institutions are counted as such by the municipality, which makes the actual number of people of Jewish descent living in Basel considerably higher. There were 746 individuals who were Buddhist, 947 individuals who were Hindu and 485 individuals who belonged to another church. 52,321 (or about 31.41% of the population) belonged to no church, are agnostic or atheist, and 8,780 individuals (or about 5.27% of the population) did not answer the question.[65]
 
 
 Infrastructure
@@ -339,7 +339,7 @@ Basel's airport is set up for airfreight; heavy goods reach the city and the hea
 
 Port
 
-Middle_Bridge,_Basel,_Switzerland.JPG as Switzerland's gateway to the sea]] Basel has Switzerland's only cargo port, through which goods pass along the navigable stretches of the Rhine and connect to ocean-going ships at the port of Rotterdam.
+as Switzerland's gateway to the sea]] Basel has Switzerland's only cargo port, through which goods pass along the navigable stretches of the Rhine and connect to ocean-going ships at the port of Rotterdam.
 
 Air transport
 
@@ -347,7 +347,7 @@ EuroAirport Basel Mulhouse Freiburg is operated jointly by two countries, France
 
 Railways
 
-Basel,_station_Basel_SBB_foto1_2013-07-20_10.31.jpg, self-proclaimed "world's first international railway station."]] Basel has long held an important place as a rail hub. Three railway stations—those of the German, French and Swiss networks—lie within the city (although the Swiss (Basel SBB) and French (Bâle SNCF) stations are actually in the same complex, separated by Customs and Immigration facilities). Basel Badischer Bahnhof is on the opposite side of the city. Basel's local rail services are supplied by the Basel Regional S-Bahn. The largest goods railway complex of the country is located just outside the city, spanning the municipalities of Muttenz and Pratteln. The new highspeed ICE railway line from Karlsruhe to Basel was completed in 2008 while phase I of the TGV Rhin-Rhône line, opened in December 2011, has reduced travel time from Basel to Paris to about 3 hours.[67]
+, self-proclaimed "world's first international railway station."]] Basel has long held an important place as a rail hub. Three railway stations—those of the German, French and Swiss networks—lie within the city (although the Swiss (Basel SBB) and French (Bâle SNCF) stations are actually in the same complex, separated by Customs and Immigration facilities). Basel Badischer Bahnhof is on the opposite side of the city. Basel's local rail services are supplied by the Basel Regional S-Bahn. The largest goods railway complex of the country is located just outside the city, spanning the municipalities of Muttenz and Pratteln. The new highspeed ICE railway line from Karlsruhe to Basel was completed in 2008 while phase I of the TGV Rhin-Rhône line, opened in December 2011, has reduced travel time from Basel to Paris to about 3 hours.[67]
 
 Roads
 
@@ -363,15 +363,15 @@ Within the city limits, five bridges connect Greater and Lesser Basel (downstrea
 
 Ferries
 
-A somewhat anachronistic yet still widely used system of reaction ferry boats links the two shores. There are four ferries, each situated approximately midway between two bridges. Each is attached by a cable to a block that rides along another cable spanning the river at a height of . To cross the river, the ferryman orients the boat around 45° from the current so that the current pushes the boat across the river. This form of transportation is therefore completely hydraulically driven, requiring no outside energy source. 1 River_ferry_(Basel,_Switzerland).jpg
+A somewhat anachronistic yet still widely used system of reaction ferry boats links the two shores. There are four ferries, each situated approximately midway between two bridges. Each is attached by a cable to a block that rides along another cable spanning the river at a height of . To cross the river, the ferryman orients the boat around 45° from the current so that the current pushes the boat across the river. This form of transportation is therefore completely hydraulically driven, requiring no outside energy source. 1
 
 Public transport
 
-Basel_-_Straßenbahnnetzplan.png Basel has an extensive public transportation network serving the city and connecting to surrounding suburbs, including a large tram network. The green-colored local trams and buses are operated by the Basler Verkehrs-Betriebe (BVB). The yellow-colored buses and trams are operated by the Baselland Transport (BLT), and connect areas in the nearby half-canton of Baselland to central Basel. The BVB also shares commuter bus lines in cooperation with transit authorities in the neighboring Alsace region in France and Baden region in Germany. The Basel Regional S-Bahn, the commuter rail network connecting to suburbs surrounding the city, is jointly operated by SBB, SNCF and DB.
+Basel has an extensive public transportation network serving the city and connecting to surrounding suburbs, including a large tram network. The green-colored local trams and buses are operated by the Basler Verkehrs-Betriebe (BVB). The yellow-colored buses and trams are operated by the Baselland Transport (BLT), and connect areas in the nearby half-canton of Baselland to central Basel. The BVB also shares commuter bus lines in cooperation with transit authorities in the neighboring Alsace region in France and Baden region in Germany. The Basel Regional S-Bahn, the commuter rail network connecting to suburbs surrounding the city, is jointly operated by SBB, SNCF and DB.
 
 Border crossings
 
-Basel is located at the meeting point of France, Germany and Switzerland; because it is so near other countries and is beyond the Jura Mountains, many within the Swiss military reportedly believe that the city is indefensible during wartime.[68] It has numerous road and rail crossings between Switzerland and the other two countries. With Switzerland joining the Schengen Area on 12 December 2008, immigration checks were no longer carried out at the crossings. However, Switzerland did not join the European Union Customs Union (though it did join the EU Single Market) and customs checks are still conducted at or near the crossings. Basel-blt-tram-10-stadler-882129.jpg
+Basel is located at the meeting point of France, Germany and Switzerland; because it is so near other countries and is beyond the Jura Mountains, many within the Swiss military reportedly believe that the city is indefensible during wartime.[68] It has numerous road and rail crossings between Switzerland and the other two countries. With Switzerland joining the Schengen Area on 12 December 2008, immigration checks were no longer carried out at the crossings. However, Switzerland did not join the European Union Customs Union (though it did join the EU Single Market) and customs checks are still conducted at or near the crossings.
 
 FRANCE-SWITZERLAND (from east to west)
 
@@ -401,7 +401,7 @@ Additionally there are many footpaths and cycle tracks crossing the border betwe
 
 Health
 
-Basel_2012-10-05_Batch_(61).JPG As the biggest town in the Northwest of Switzerland numerous public and private health centres are located in Basel. Among others the Universitätsspital Basel and the Universitätskinderspital Basel. The anthroposophical health institute Klinik-Arlesheim (formerly known as Lukas-Klinik and Ita-Wegman-Klinik) are both located in the Basel area as well. Private health centres include the Bethesda Spital and the Merian Iselin Klinik. Additionally the Swiss Tropical and Public Health Institute is located in Basel too.
+As the biggest town in the Northwest of Switzerland numerous public and private health centres are located in Basel. Among others the Universitätsspital Basel and the Universitätskinderspital Basel. The anthroposophical health institute Klinik-Arlesheim (formerly known as Lukas-Klinik and Ita-Wegman-Klinik) are both located in the Basel area as well. Private health centres include the Bethesda Spital and the Merian Iselin Klinik. Additionally the Swiss Tropical and Public Health Institute is located in Basel too.
 
 Energy
 
@@ -412,13 +412,13 @@ A hot dry rock geothermal energy project was cancelled in 2009 since it caused i
 
 Economy
 
-Novartis-Campus-Forum-3-Basel_Photo-copyright-Christian-Richters.jpg Campus Basel]] The city of Basel, located in the heart of the tri-border region (called _Dreiländereck_) is one of the most dynamic economic regions of Switzerland.
+Campus Basel]] The city of Basel, located in the heart of the tri-border region (called _Dreiländereck_) is one of the most dynamic economic regions of Switzerland.
 
 , Basel had an unemployment rate of 3.7%.[73] , there were 18 people employed in the primary economic sector and about 9 businesses involved in this sector. 34,645 people were employed in the secondary sector and there were 1,176 businesses in this sector. 120,130 people were employed in the tertiary sector, with 8,908 businesses in this sector.[74] There were 82,449 residents of the municipality who were employed in some capacity, of which females made up 46.2% of the workforce.
 
 the total number of full-time equivalent jobs was 130,988. The number of jobs in the primary sector was 13, of which 10 were in agriculture and 4 were in forestry or lumber production. The number of jobs in the secondary sector was 33,171 of which 24,848 or (74.9%) were in manufacturing, 10 were in mining and 7,313 (22.0%) were in construction. The number of jobs in the tertiary sector was 97,804. In the tertiary sector; 12,880 or 13.2% were in wholesale or retail sales or the repair of motor vehicles, 11,959 or 12.2% were in the movement and storage of goods, 6,120 or 6.3% were in a hotel or restaurant, 4,186 or 4.3% were in the information industry, 10,752 or 11.0% were the insurance or financial industry, 13,695 or 14.0% were technical professionals or scientists, 6,983 or 7.1% were in education and 16,060 or 16.4% were in health care.[75]
 
-, there were 121,842 workers who commuted into the municipality and 19,263 workers who commuted away. The municipality is a net importer of workers, with about 6.3 workers entering the municipality for every one leaving. About 23.9% of the workforce coming into Basel are coming from outside Switzerland, while 1.0% of the locals commute out of Switzerland for work.[76] Of the working population, 49.2% used public transportation to get to work, and 18.7% used a private car.[77] Basel_-_Roche-Turm_mit_Stadtansicht_bei_Abenddämmerung.jpg, the tallest building in Switzerland]]
+, there were 121,842 workers who commuted into the municipality and 19,263 workers who commuted away. The municipality is a net importer of workers, with about 6.3 workers entering the municipality for every one leaving. About 23.9% of the workforce coming into Basel are coming from outside Switzerland, while 1.0% of the locals commute out of Switzerland for work.[76] Of the working population, 49.2% used public transportation to get to work, and 18.7% used a private car.[77] , the tallest building in Switzerland]]
 
 The Roche Tower, designed by Herzog & de Meuron, is 41 floors and high, upon its opening in 2015 it has become the tallest building in Switzerland. Basel has also Switzerland's third tallest building (Basler Messeturm, ) and Switzerland's tallest tower (St. Chrischona TV tower, ).
 
@@ -441,7 +441,7 @@ Banking is extremely important to Basel:
 
 Air
 
-Swiss International Air Lines, the national airline of Switzerland, is headquartered on the grounds of EuroAirport Basel-Mulhouse-Freiburg in Saint-Louis, Haut-Rhin, France, near Basel.[85][86][87] Prior to the formation of Swiss International Air Lines, the regional airline Crossair was headquartered near Basel.[88] ART_Basel_2009-06-10.jpg
+Swiss International Air Lines, the national airline of Switzerland, is headquartered on the grounds of EuroAirport Basel-Mulhouse-Freiburg in Saint-Louis, Haut-Rhin, France, near Basel.[85][86][87] Prior to the formation of Swiss International Air Lines, the regional airline Crossair was headquartered near Basel.[88]
 
 Media
 
@@ -462,7 +462,7 @@ In 2010 11,912 students attended the University of Basel (55% female). 25% were 
 
 Universities
 
-Johann_von_Venningen_Bischof_Basel.jpg, 1460]] Basel hosts Switzerland's oldest university, the University of Basel, dating from 1460. Erasmus, Paracelsus, Daniel Bernoulli, Leonhard Euler, Jacob Burckhardt, Friedrich Nietzsche, Tadeusz Reichstein, Karl Jaspers, Carl Gustav Jung and Karl Barth worked here. The University of Basel is currently counted among the 90 best educational institutions worldwide.[92]
+, 1460]] Basel hosts Switzerland's oldest university, the University of Basel, dating from 1460. Erasmus, Paracelsus, Daniel Bernoulli, Leonhard Euler, Jacob Burckhardt, Friedrich Nietzsche, Tadeusz Reichstein, Karl Jaspers, Carl Gustav Jung and Karl Barth worked here. The University of Basel is currently counted among the 90 best educational institutions worldwide.[92]
 
 In 2007, the ETH (Swiss Federal Institute of Technology Zürich) established the Department of Biosystems Science and Engineering (D-BSSE) in Basel. The creation of the D-BSSE was driven by a Swiss-wide research initiative SystemsX, and was jointly supported by funding from the ETH Zürich, the Swiss Government, the Swiss University Conference (SUC) and private industry.[93]
 
@@ -476,7 +476,7 @@ In 2005 16,939 pupils and students visited the _Volksschule_ (the obligatory sch
 
 Upper secondary school
 
-In 2010 65% of the youth finished their upper secondary education with a vocational training and education, 18% finished their upper secondary education with a Federal Matura at one of the five gymnasiums, 5% completed a _Fachmaturität_ at the _FMS_, 5% completed a _Berufsmaturität_ synchronosly to their vocational training, and 7% other kind of upper secondary maturity. 14.1% of all students at public gymnasiums were foreign nationals. The Maturity quota in 2010 was on a record high at 28.8% (32.8 female, 24.9% male).[99] Basel_2012-09-16_Batch_(5).JPG
+In 2010 65% of the youth finished their upper secondary education with a vocational training and education, 18% finished their upper secondary education with a Federal Matura at one of the five gymnasiums, 5% completed a _Fachmaturität_ at the _FMS_, 5% completed a _Berufsmaturität_ synchronosly to their vocational training, and 7% other kind of upper secondary maturity. 14.1% of all students at public gymnasiums were foreign nationals. The Maturity quota in 2010 was on a record high at 28.8% (32.8 female, 24.9% male).[99]
 
 Basel has five public gymnasiums (__, __, __, __, __), each with its own profiles (different focus on major subjects, such as visual design, biology and chemistry, Italian, Spanish, or Latin languages, music, physics and applied mathematics, philosophy/education/psychology, and economics and law) that entitles students with a successful Matura graduation to attend universities. And one _Fachmaturitätsschule_, the _FMS_, with six different major subjects (health/natural sciences, education, social work, design/art, music/theatre/dance, and communication/media) that entitles students with a successful Fachmatura graduation to attend _Fachhochschulen_. Four different _höhere Fachschulen_ (higher vocational schools such as _Bildungszentrum Gesundheit Basel-Stadt_ (health), _Allgemeine Gewerbeschule Basel_ (trade), _Berufsfachschule Basel_, _Schule für Gestaltung Basel_ (design)) allows vocational students to improve their knowledge and know-how.[100]
 
@@ -493,7 +493,7 @@ Culture
 
 Main sights
 
-The red sandstone Münster, one of the foremost late-Romanesque/early Gothic buildings in the Upper Rhine, was badly damaged in the great earthquake of 1356, rebuilt in the 14th and 15th century, extensively reconstructed in the mid-19th century and further restored in the late 20th century.[103] A memorial to Erasmus lies inside the Münster. The City Hall from the 16th century is located on the Market Square and is decorated with fine murals on the outer walls and on the walls of the inner court. Basel_2012-08_Mattes_1_(209).JPG
+The red sandstone Münster, one of the foremost late-Romanesque/early Gothic buildings in the Upper Rhine, was badly damaged in the great earthquake of 1356, rebuilt in the 14th and 15th century, extensively reconstructed in the mid-19th century and further restored in the late 20th century.[103] A memorial to Erasmus lies inside the Münster. The City Hall from the 16th century is located on the Market Square and is decorated with fine murals on the outer walls and on the walls of the inner court.
 
 Basel is also host to an array of buildings by internationally renowned architects. These include the Beyeler Foundation by Renzo Piano, or the Vitra complex in nearby Weil am Rhein, composed of buildings by architects such as Zaha Hadid (fire station), Frank Gehry (Design Museum), Álvaro Siza Vieira (factory building) and Tadao Ando (conference centre). Basel also features buildings by Mario Botta (Jean Tinguely Museum and Bank of International settlements) and Herzog & de Meuron (whose architectural practice is in Basel, and who are best known as the architects of Tate Modern in London and the Bird's Nest in Beijing, the Olympia stadium, which was designed for use throughout the 2008 Summer Olympics and Paralympics). The city received the Wakker Prize in 1996.
 
@@ -501,13 +501,13 @@ Heritage sites
 
 Basel features a great number of heritage sites of national significance.[104]
 
-These include the entire Old Town of Basel as well as the following buildings and collections: Basel_Elisabethenkirche_innen.jpg
+These include the entire Old Town of Basel as well as the following buildings and collections:
 
 Churches and monasteries :Old Catholic _Prediger Kirche_ (church), _Bischofshof_ with Collegiate church at Rittergasse 1, _Domhof_ at Münsterplatz 10–12, former Carthusian House of St Margarethental, Catholic Church of St Antonius, _Lohnhof_ (former Augustinians Collegiate Church), Mission 21, Archive of the _Evangelisches Missionswerk Basel_, Münster of Basle (cathedral), Reformed _Elisabethenkirche_ (church), Reformed _Johanneskirche_ (church), Reformed _Leonhardskirche_ (church, former Augustinians Abbey), Reformed _Martinskirche_ (church), Reformed _Pauluskirche_ (church), Reformed _Peterskirche_ (church), Reformed _St. Albankirche_ (church) with cloister and cemetery, Reformed _Theodorskirche_ (church), Synagoge at Eulerstrasse 2
 
 Secular buildings:
 
-Wildtsches_Haus_petersplatz.JPG _Badischer Bahnhof_ (German Baden's railway station) with fountain, Bank for International Settlements, _Blaues Haus (Reichensteinerhof)_ at Rheinsprung 16, _Bruderholzschule_ (school house) at Fritz-Hauser-Strasse 20, _Brunschwiler Haus_ at Hebelstrasse 15, _Bahnhof Basel SBB_ (Swiss railway station), _Bürgerspital_ (hospital), _Café Spitz (Merianflügel)_, _Coop Schweiz_ company's central archive, Depot of the _Archäologischen Bodenforschung des Kanton Basel-Stadt_, former Gallizian Paper Mill and Swiss Museum of Paper, former _Klingental-Kaserne_ (casern) with _Klingentaler Kirche_ (church), _Fasnachtsbrunnen_ (fountain), _Feuerschützenhaus_ (guild house of the riflemen) at Schützenmattstrasse 56, _Fischmarktbrunnen_ (fountain), _Geltenzunft_ at Marktplatz 13, _Gymnasium am Kohlenberg (St Leonhard)_ (school), _Hauptpost_ (main post office), _Haus zum Raben_ at Aeschenvorstadt 15, _Hohenfirstenhof_ at Rittergasse 19, _Holsteinerhof_ at Hebelstrasse 30, Markgräflerhof a former palace of the margraves of Baden-Durlach,_Mittlere Rhein Brücke_ (Central Rhine Bridge), _Stadtcasino_ (music hall) at Steinenberg 14, _Ramsteinerhof_ at Rittergasse 7 and 9, Rathaus (town hall), _Rundhof_ building of the _Schweizerischen Mustermesse_, _Safranzunft_ at Gerbergasse 11, _Sandgrube_ at Riehenstrasse 154, _Schlösschen_ (Manor house) Gundeldingen, _Schönes Haus_ and _Schöner Hof_ at Nadelberg 6, _Wasgenring_ school house, _Seidenhof_ with painting of Rudolf von Habsburg, _Spalenhof_ at Spalenberg 12, _Spiesshof_ at Heuberg 7, city walls, Townhouse (former post office) at Stadthausgasse 13 / Totengässlein 6, _Weisses Haus_ at Martinsgasse 3, _Wildt'sches Haus_ at Petersplatz 13, _Haus zum Neuen Singer_ at Speiserstrasse 98, _Wolfgottesacker_ at Münchensteinerstrasse 99, _Zerkindenhof_ at Nadelberg 10.
+_Badischer Bahnhof_ (German Baden's railway station) with fountain, Bank for International Settlements, _Blaues Haus (Reichensteinerhof)_ at Rheinsprung 16, _Bruderholzschule_ (school house) at Fritz-Hauser-Strasse 20, _Brunschwiler Haus_ at Hebelstrasse 15, _Bahnhof Basel SBB_ (Swiss railway station), _Bürgerspital_ (hospital), _Café Spitz (Merianflügel)_, _Coop Schweiz_ company's central archive, Depot of the _Archäologischen Bodenforschung des Kanton Basel-Stadt_, former Gallizian Paper Mill and Swiss Museum of Paper, former _Klingental-Kaserne_ (casern) with _Klingentaler Kirche_ (church), _Fasnachtsbrunnen_ (fountain), _Feuerschützenhaus_ (guild house of the riflemen) at Schützenmattstrasse 56, _Fischmarktbrunnen_ (fountain), _Geltenzunft_ at Marktplatz 13, _Gymnasium am Kohlenberg (St Leonhard)_ (school), _Hauptpost_ (main post office), _Haus zum Raben_ at Aeschenvorstadt 15, _Hohenfirstenhof_ at Rittergasse 19, _Holsteinerhof_ at Hebelstrasse 30, Markgräflerhof a former palace of the margraves of Baden-Durlach,_Mittlere Rhein Brücke_ (Central Rhine Bridge), _Stadtcasino_ (music hall) at Steinenberg 14, _Ramsteinerhof_ at Rittergasse 7 and 9, Rathaus (town hall), _Rundhof_ building of the _Schweizerischen Mustermesse_, _Safranzunft_ at Gerbergasse 11, _Sandgrube_ at Riehenstrasse 154, _Schlösschen_ (Manor house) Gundeldingen, _Schönes Haus_ and _Schöner Hof_ at Nadelberg 6, _Wasgenring_ school house, _Seidenhof_ with painting of Rudolf von Habsburg, _Spalenhof_ at Spalenberg 12, _Spiesshof_ at Heuberg 7, city walls, Townhouse (former post office) at Stadthausgasse 13 / Totengässlein 6, _Weisses Haus_ at Martinsgasse 3, _Wildt'sches Haus_ at Petersplatz 13, _Haus zum Neuen Singer_ at Speiserstrasse 98, _Wolfgottesacker_ at Münchensteinerstrasse 99, _Zerkindenhof_ at Nadelberg 10.
 
 Archaeological sites: The Celtic Settlement at _Gasfabrik_, _Münsterhügel_ and _Altstadt_ (historical city, late La Tène and medieval settlement).
 
@@ -525,9 +525,9 @@ In 1997, Basel contended to become the "European Capital of Culture", though the
 
 Museums
 
-Basel_-_2017_-_Kunstmuseum_Basel_-_Altbau.jpg, oldest public museum of art in Europe]] The Basel museums cover a broad and diverse spectrum of collections with a marked concentration in the fine arts. They house numerous holdings of international significance. The over three dozen institutions yield an extraordinarily high density of museums compared to other cities of similar size and draw over one million visitors annually.[108]
+, oldest public museum of art in Europe]] The Basel museums cover a broad and diverse spectrum of collections with a marked concentration in the fine arts. They house numerous holdings of international significance. The over three dozen institutions yield an extraordinarily high density of museums compared to other cities of similar size and draw over one million visitors annually.[108]
 
-Constituting an essential component of Basel culture and cultural policy, the museums are the result of closely interwoven private and public collecting activities and promotion of arts and culture going back to the 16th century. The public museum collection was first created back in 1661 and represents the oldest public collection in continuous existence in Europa. Since the late 1980s, various private collections have been made accessible to the public in new purpose-built structures that have been recognized as acclaimed examples of avant-garde museum architecture. R0014764.jpg by Renzo Piano, located in Riehen]]
+Constituting an essential component of Basel culture and cultural policy, the museums are the result of closely interwoven private and public collecting activities and promotion of arts and culture going back to the 16th century. The public museum collection was first created back in 1661 and represents the oldest public collection in continuous existence in Europa. Since the late 1980s, various private collections have been made accessible to the public in new purpose-built structures that have been recognized as acclaimed examples of avant-garde museum architecture. by Renzo Piano, located in Riehen]]
 
 -   Antikenmuseum Basel und Sammlung Ludwig Ancient cultures of the mediterranean museum[109]
 -   Augusta Raurica Roman open-air museum[110]
@@ -555,7 +555,7 @@ Events
 
 The city of Basel is a centre for numerous fairs and events all year round. One of the most important fairs for contemporary art worldwide is the Art Basel which was founded in 1970 by Ernst Beyeler and takes place in June each year. Baselworld, the watch and jewellery show (_Uhren- und Schmuckmesse_) one of the biggest fairs of its kind in Europe is held every year as well, and attracts a great number of tourists and dealers to the city.
 
-Top_Secret_Drum_Corps.jpg at the 2009 Basel Tattoo]] The carnival of the city of Basel (_Basler Fasnacht_) is a major cultural event in the year. The carnival is the biggest in Switzerland and attracts large crowds every year, despite the fact that it starts at exactly four o'clock in the morning (_Morgestraich_) on a winter Monday. The Fasnacht asserts Basel's Protestant history by commencing the revelry five days after Ash Wednesday and continuing day and night for exactly 72 hours. Almost all study and work in the old city cease. Dozens of fife and drum clubs parade in medieval guild tradition with fantastical masks and illuminated lanterns.
+at the 2009 Basel Tattoo]] The carnival of the city of Basel (_Basler Fasnacht_) is a major cultural event in the year. The carnival is the biggest in Switzerland and attracts large crowds every year, despite the fact that it starts at exactly four o'clock in the morning (_Morgestraich_) on a winter Monday. The Fasnacht asserts Basel's Protestant history by commencing the revelry five days after Ash Wednesday and continuing day and night for exactly 72 hours. Almost all study and work in the old city cease. Dozens of fife and drum clubs parade in medieval guild tradition with fantastical masks and illuminated lanterns.
 
 Basel Tattoo, founded in 2006 by the local Top Secret Drum Corps, has grown to be the world's second largest military tattoo in terms of performers and budget after the Edinburgh Military Tattoo.[127] The Basel Tattoo annual parade, with an estimated 125,000 visitors, is considered the largest event in Basel. The event is now sponsored by the Swiss Federal Department of Defence, Civil Protection and Sport (DDPS), making it the official military tattoo of Switzerland.
 
@@ -565,7 +565,7 @@ There are a number of culinary specialties originating in Basel, including _Basl
 
 Zoo
 
-ZolliAntelopeHouse2.JPG House at Zoo Basel]] _Zoo Basel_ is, with over 1.7 million visitors per year,[128] the most visited tourist attraction in Basel and the second most visited tourist attraction in Switzerland.[129]
+House at Zoo Basel]] _Zoo Basel_ is, with over 1.7 million visitors per year,[128] the most visited tourist attraction in Basel and the second most visited tourist attraction in Switzerland.[129]
 
 Established in 1874, Zoo Basel is the oldest zoo in Switzerland and, by number of animals, the largest. Through its history, Zoo Basel has had several breeding successes, such as the first worldwide Indian rhinoceros birth[130] and Greater flamingo hatch[131] in a zoo. These and other achievements led Forbes Travel to rank Zoo Basel as one of the fifteen best zoos in the world in 2008.[132]
 
@@ -575,7 +575,7 @@ Sport
 
 Basel has a reputation in Switzerland as a successful sporting city. The football club FC Basel continues to be successful and in recognition of this the city was one of the Swiss venues for the 2008 European Championships, as well as Geneva, Zürich and Bern. The championships were jointly hosted by Switzerland and Austria. BSC Old Boys and Concordia Basel are the other football teams in Basel.
 
-R_federer.jpg at the 2010 Australian Open]] Among the most popular sports in Switzerland is ice hockey.[133] Basel is home to the EHC Basel which plays in the MySports League, the third tier of the Swiss ice hockey league system. They play their home games in the 6,700-seat St. Jakob Arena. The team previously played in the National League and the Swiss League, but they had to fill a bankruptcy case after the 2013-14 Swiss League season.
+at the 2010 Australian Open]] Among the most popular sports in Switzerland is ice hockey.[133] Basel is home to the EHC Basel which plays in the MySports League, the third tier of the Swiss ice hockey league system. They play their home games in the 6,700-seat St. Jakob Arena. The team previously played in the National League and the Swiss League, but they had to fill a bankruptcy case after the 2013-14 Swiss League season.
 
 Basel features a large football stadium that has been awarded four stars by UEFA, a modern ice hockey hall, and an admitted sports hall.
 

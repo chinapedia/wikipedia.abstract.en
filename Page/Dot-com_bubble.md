@@ -1,4 +1,4 @@
-Nasdaq_Composite_dot-com_bubble.svg index spiked in the late 1990s and then fell sharply as a result of the dot-com bubble.]] US_VC_funding.png
+index spiked in the late 1990s and then fell sharply as a result of the dot-com bubble.]]
 
 The DOT-COM BUBBLE (also known as the DOT-COM BOOM,[1] the TECH BUBBLE,[2] and the INTERNET BUBBLE) was a historic speculative bubble and period of excessive speculation mainly in the United States that occurred roughly from 1994 to 2000, a period of extreme growth in the use and adoption of the Internet.[3]
 
@@ -34,8 +34,6 @@ Telecommunications equipment providers, convinced that the future economy would 
 
 
 Bursting of the bubble
-
-U.S._Treasuries.png
 
 Around the turn of the millennium, spending on technology was volatile as companies prepared for the Year 2000 problem, which, when the clocks changed to the year 2000, actually had minimal impact.
 

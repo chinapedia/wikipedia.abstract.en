@@ -1,4 +1,4 @@
-Hash_table_4_1_1_0_0_1_0_LL.svg A HASH FUNCTION is any function that can be used to map data of arbitrary size onto data of a fixed size. The values returned by a hash function are called HASH VALUES, HASH CODES, DIGESTS, or simply HASHES. Hash functions are often used in combination with a hash table, a common data structure used in computer software for rapid data lookup. Hash functions accelerate table or database lookup by detecting duplicated records in a large file. One such application is finding similar stretches in DNA sequences. They are also useful in cryptography. A cryptographic hash function allows one to easily verify whether some input data map onto a given hash value, but if the input data is unknown it is deliberately difficult to reconstruct it (or any equivalent alternatives) by knowing the stored hash value. This is used for assuring integrity of transmitted data, and is the building block for HMACs, which provide message authentication.
+A HASH FUNCTION is any function that can be used to map data of arbitrary size onto data of a fixed size. The values returned by a hash function are called HASH VALUES, HASH CODES, DIGESTS, or simply HASHES. Hash functions are often used in combination with a hash table, a common data structure used in computer software for rapid data lookup. Hash functions accelerate table or database lookup by detecting duplicated records in a large file. One such application is finding similar stretches in DNA sequences. They are also useful in cryptography. A cryptographic hash function allows one to easily verify whether some input data map onto a given hash value, but if the input data is unknown it is deliberately difficult to reconstruct it (or any equivalent alternatives) by knowing the stored hash value. This is used for assuring integrity of transmitted data, and is the building block for HMACs, which provide message authentication.
 
 Hash functions are related to (and often confused with) checksums, check digits, fingerprints, lossy compression, randomization functions, error-correcting codes, and ciphers. Although the concepts overlap to some extent, each one has its own uses and requirements and is designed and optimized differently. The HashKeeper database maintained by the American National Drug Intelligence Center, for instance, is more aptly described as a catalogue of file fingerprints than of hash values.
 
@@ -133,11 +133,11 @@ The same technique can be used to map two-letter country codes like "us" or "za"
 
 Perfect hashing
 
-Hash_table_4_1_1_0_0_0_0_LL.svg A hash function that is injective—that is, maps each valid input to a different hash value—is said to be PERFECT. With such a function one can directly locate the desired entry in a hash table, without any additional searching.
+A hash function that is injective—that is, maps each valid input to a different hash value—is said to be PERFECT. With such a function one can directly locate the desired entry in a hash table, without any additional searching.
 
 Minimal perfect hashing
 
-Hash_table_4_1_0_0_0_0_0_LL.svg A perfect hash function for _n_ keys is said to be MINIMAL if its range consists of _n_ _consecutive_ integers, usually from 0 to _n_−1. Besides providing single-step lookup, a minimal perfect hash function also yields a compact hash table, without any vacant slots. Minimal perfect hash functions are much harder to find than perfect ones with a wider range.
+A perfect hash function for _n_ keys is said to be MINIMAL if its range consists of _n_ _consecutive_ integers, usually from 0 to _n_−1. Besides providing single-step lookup, a minimal perfect hash function also yields a compact hash table, without any vacant slots. Minimal perfect hash functions are much harder to find than perfect ones with a wider range.
 
 Hashing uniformly distributed data
 

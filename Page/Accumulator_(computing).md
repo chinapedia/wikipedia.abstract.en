@@ -1,4 +1,4 @@
-Walther_WSR-16_Inside_the_Machine.jpg In a computer's central processing unit (CPU), the ACCUMULATOR is a register in which intermediate arithmetic and logic results are stored.
+In a computer's central processing unit (CPU), the ACCUMULATOR is a register in which intermediate arithmetic and logic results are stored.
 
 Without a register like an accumulator, it would be necessary to write the result of each calculation (addition, multiplication, shift, etc.) to main memory, perhaps only to be read right back again for use in the next operation. Access to main memory is slower than access to a register like the accumulator because the technology used for the large main memory is slower (but cheaper) than that used for a register. Early electronic computer systems were often split into two groups, those with accumulators and those without.
 
@@ -52,7 +52,7 @@ No convention exists regarding the names for operations from registers to accumu
 
 Notable accumulator-based computers
 
-IBM_701console.jpg computer with lights displaying the accumulator and other registers]] The 1945 configuration of ENIAC had 20 accumulators, which could operate in parallel.[3] Each one could store an eight decimal digit number and add to it (or subtract from it) a number it received.[4] Most of IBM's early binary "scientific" computers, beginning with the vacuum tube IBM 701 in 1952, used a single 36-bit accumulator, along with a separate multiplier/quotient register to handle operations with longer results. The IBM 650, a decimal machine, had one 10 digit accumulator; the IBM 7070, a later, transistorized decimal machine had three accumulators.
+computer with lights displaying the accumulator and other registers]] The 1945 configuration of ENIAC had 20 accumulators, which could operate in parallel.[3] Each one could store an eight decimal digit number and add to it (or subtract from it) a number it received.[4] Most of IBM's early binary "scientific" computers, beginning with the vacuum tube IBM 701 in 1952, used a single 36-bit accumulator, along with a separate multiplier/quotient register to handle operations with longer results. The IBM 650, a decimal machine, had one 10 digit accumulator; the IBM 7070, a later, transistorized decimal machine had three accumulators.
 
 The 12-bit PDP-8 was one of the first minicomputers to use accumulators, and inspired many later machines.Digital Equipment Corporation, Maynard, Massachusetts (1961) "PROGRAMMED DATA PROCESSOR-1 MANUAL", page 7: PDP-1 system block diagram accessdate=2014-07-03. The PDP-1 was an 18-bit processor, and was a predecessor of PDP-8
 

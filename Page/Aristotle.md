@@ -9,7 +9,7 @@ He influenced Islamic thought during the Middle Ages, as well as Christian theol
 
 Life
 
-20160518_092_mieza_nympheum.jpg, Macedonia, Greece]]
+, Macedonia, Greece]]
 
 In general, the details of Aristotle's life are not well-established. The biographies written in ancient times are often speculative and historians only agree on a few salient points.
 
@@ -17,7 +17,7 @@ Aristotle, whose name means "the best purpose" in Ancient Greek, was born in 384
 
 At the age of seventeen or eighteen, Aristotle moved to Athens to continue his education at Plato's Academy. He probably experienced the Eleusinian Mysteries as he wrote when describing the sights one viewed at the Eleusinian Mysteries, “to experience is to learn” [παθείν μαθεĩν].[1][2] Aristotle remained in Athens for nearly twenty years before leaving in 348/47 BC. The traditional story about his departure records that he was disappointed with the Academy's direction after control passed to Plato's nephew Speusippus, although it is possible that he feared the anti-Macedonian sentiments in Athens at that time and left before Plato died. Aristotle then accompanied Xenocrates to the court of his friend Hermias of Atarneus in Asia Minor. After the death of Hermias, Aristotle travelled with his pupil Theophrastus to the island of Lesbos, where together they researched the botany and zoology of the island and its sheltered lagoon. While in Lesbos, Aristotle married Pythias, either Hermias's adoptive daughter or niece. She bore him a daughter, whom they also named Pythias. In 343 BC, Aristotle was invited by Philip II of Macedon to become the tutor to his son Alexander.
 
-Aristoteles_Louvre.jpg of Aristotle; an Imperial Roman (1st or 2nd century AD) copy of a lost bronze sculpture made by Lysippos]]
+of Aristotle; an Imperial Roman (1st or 2nd century AD) copy of a lost bronze sculpture made by Lysippos]]
 
 Aristotle was appointed as the head of the royal academy of Macedon. During Aristotle's time in the Macedonian court, he gave lessons not only to Alexander, but also to two other future kings: Ptolemy and Cassander. Aristotle encouraged Alexander toward eastern conquest, and Aristotle's own attitude towards Persia was unabashedly ethnocentric. In one famous example, he counsels Alexander to be "a leader to the Greeks and a despot to the barbarians, to look after the former as after friends and relatives, and to deal with the latter as with beasts or plants". By 335 BC, Aristotle had returned to Athens, establishing his own school there known as the Lyceum. Aristotle conducted courses at the school for the next twelve years. While in Athens, his wife Pythias died and Aristotle became involved with Herpyllis of Stagira, who bore him a son whom he named after his father, Nicomachus. According to the _Suda_, he also had an _erômenos_, Palaephatus of Abydus.
 
@@ -34,13 +34,13 @@ With the _Prior Analytics_, Aristotle is credited with the earliest study of for
 
 Analytics and the _Organon_
 
-+--------------------------+----------+-----------------------------+
-| In words                 | In terms | In equations                |
-+==========================+==========+=============================+
-|     All men are mortal.  | M a P    | Modus_Barbara_Equations.svg |
-|     All Greeks are men.  | S a M    |                             |
-| ∴ All Greeks are mortal. | S a P    |                             |
-+--------------------------+----------+-----------------------------+
++--------------------------+----------+--------------+
+| In words                 | In terms | In equations |
++==========================+==========+==============+
+|     All men are mortal.  | M a P    |              |
+|     All Greeks are men.  | S a M    |              |
+| ∴ All Greeks are mortal. | S a P    |              |
++--------------------------+----------+--------------+
 
 : One of Aristotle's types of syllogism
 
@@ -57,7 +57,7 @@ The order of the books (or the teachings from which they are composed) is not ce
 
 Epistemology
 
-Sanzio_01_Plato_Aristotle.jpg (left) and Aristotle in Raphael's 1509 fresco, _The School of Athens_. Aristotle holds his _Nicomachean Ethics_ and gestures to the earth, representing his view that knowledge comes from experience, whilst Plato gestures to the heavens, indicating his Theory of Forms, and holds his _Timaeus_.]]
+(left) and Aristotle in Raphael's 1509 fresco, _The School of Athens_. Aristotle holds his _Nicomachean Ethics_ and gestures to the earth, representing his view that knowledge comes from experience, whilst Plato gestures to the heavens, indicating his Theory of Forms, and holds his _Timaeus_.]]
 
 Like his teacher Plato, Aristotle's philosophy aims at the universal. Aristotle's ontology places the universal (_katholou_) in particulars (_kath' hekaston_), things in the world, whereas for Plato the universal is a separately existing form which actual things imitate. This means that Aristotle's epistemology is based on the study of things that exist or happen in the world, and rises to knowledge of the universal, whereas for Plato epistemology begins with knowledge of universal Forms (or ideas) and descends to knowledge of particular imitations of these. For Aristotle, "form" is still what phenomena are based on, but is "instantiated" in a particular substance. Aristotle uses induction from examples alongside deduction, whereas Plato relies on deduction from _a priori_ principles.
 
@@ -77,7 +77,7 @@ With regard to the change (_kinesis_) and its causes now, as he defines in his _
 2.  locomotion, which is change in space; and
 3.  alteration, which is change in quality.
 
-Flute-player_dolphin_Alcesti_Group_MAN.jpg – by learning.]]
+– by learning.]]
 
 The coming to be is a change where nothing persists of which the resultant is a property. In that particular change he introduces the concept of potentiality (_dynamis_) and actuality (_entelecheia_) in association with the matter and the form. Referring to potentiality, this is what a thing is capable of doing, or being acted upon, if the conditions are right and it is not prevented by something else. For example, the seed of a plant in the soil is potentially (_dynamei_) plant, and if it is not prevented by something, it will become a plant. Potentially beings can either 'act' (_poiein_) or 'be acted upon' (_paschein_), which can be either innate or learned. For example, the eyes possess the potentiality of sight (innate – being acted upon), while the capability of playing the flute can be possessed by learning (exercise – acting). Actuality is the fulfilment of the end of the potentiality. Because the end (_telos_) is the principle of every change, and for the sake of the end exists potentiality, therefore actuality is the end. Referring then to our previous example, we could say that an actuality is when a plant does one of the activities that plants do.
 
@@ -85,7 +85,7 @@ In summary, the matter used to make a house has potentiality to be a house and b
 
 Universals and particulars
 
-Platonic_and_Aristotelian_Forms.svg's forms exist as universals, like the ideal form of an apple. For Aristotle, both matter and form belong to the individual thing (hylomorphism).]]
+'s forms exist as universals, like the ideal form of an apple. For Aristotle, both matter and form belong to the individual thing (hylomorphism).]]
 
 Plato argued that all things have a universal form, which could be either a property or a relation to other things. When we look at an apple, for example, we see an apple, and we can also analyse a form of an apple. In this distinction, there is a particular apple and a universal form of an apple. Moreover, we can place an apple next to a book, so that we can speak of both the book and apple as being next to each other. Plato argued that there are some universal forms that are not a part of particular things. For example, it is possible that there is no particular good in existence, but "good" is still a proper universal form. Aristotle disagreed with Plato on this point, arguing that all universals are instantiated at some period of time, and that there are no universals that are unattached to existing things. In addition, Aristotle disagreed with Plato about the location of universals. Where Plato spoke of the world of forms, a place where all universal forms subsist, Aristotle maintained that universals exist within each thing on which each universal is predicated. So, according to Aristotle, the form of apple exists within each apple, rather than in the world of the forms.
 
@@ -96,7 +96,7 @@ Aristotle's "natural philosophy" spans a wide range of natural phenomena includi
 
 Physics
 
-Four_Classical_Elements_in_Burning_Log.svgs (fire, air, water, earth) of Empedocles and Aristotle illustrated with a burning log. The log releases all four elements as it is destroyed.]]
+s (fire, air, water, earth) of Empedocles and Aristotle illustrated with a burning log. The log releases all four elements as it is destroyed.]]
 
 Five elements
 
@@ -132,7 +132,7 @@ incorrect in modern physics.
 
 Natural motion depends on the element concerned: the aether naturally moves in a circle around the heavens, while the 4 Empedoclean elements move vertically up (like fire, as is observed) or down (like earth) towards their natural resting places.
 
-Aristotle's_laws_of_motion.svg'' he states that objects fall at a speed proportional to their weight and inversely proportional to the density of the fluid they are immersed in. This is a correct approximation for objects in Earth's gravitational field moving in air or water.]]
+'' he states that objects fall at a speed proportional to their weight and inversely proportional to the density of the fluid they are immersed in. This is a correct approximation for objects in Earth's gravitational field moving in air or water.]]
 
 In the _Physics_ (215a25), Aristotle effectively states a quantitative law, that the speed, v, of a falling body is proportional (say, with constant c) to its weight, W, and inversely proportional to the density, ρ, of the fluid in which it is falling:
 
@@ -150,7 +150,7 @@ Newton's "forced" motion corresponds to Aristotle's "violent" motion with its ex
 
 Four causes
 
-Aristotle's_Four_Causes_of_a_Table.svg: in the case of a table, the wood used (material cause), its design (formal cause), the tools and techniques used (efficient cause), and its decorative or practical purpose (final cause).]]
+: in the case of a table, the wood used (material cause), its design (formal cause), the tools and techniques used (efficient cause), and its decorative or practical purpose (final cause).]]
 
 Aristotle suggested that the reason for anything coming about can be attributed to four different types of simultaneously active factors. His term _aitia_ is traditionally translated as "cause", but it does not always refer to temporal sequence; it might be better translated as "explanation", but the traditional rendering will be employed here.
 
@@ -171,7 +171,7 @@ Astronomy
 
 In astronomy, Aristotle refuted Democritus's claim that the Milky Way was made up of "those stars which are shaded by the earth from the sun's rays," pointing out correctly that if "the size of the sun is greater than that of the earth and the distance of the stars from the earth many times greater than that of the sun, then... the sun shines on all the stars and the earth screens none of them."
 
-DenglerSW-Stromboli-20040928-1230x800.jpg changed before a volcanic eruption.]]
+changed before a volcanic eruption.]]
 
 Geology
 
@@ -179,7 +179,7 @@ Aristotle was one of the first people to record any geological observations. He 
 
 Biology
 
-Tremoctopus_violaceus5.jpg of the octopus (bottom left).]]
+of the octopus (bottom left).]]
 
 Empirical research
 
@@ -191,7 +191,7 @@ He notes that an animal's structure is well matched to function, so, among birds
 
 Scientific style
 
-Two_of_Aristotle's_Growth_Laws.svg decreases with body mass, whereas gestation period increases. He was correct in these predictions, at least for mammals: data are shown for mouse and elephant.]]
+decreases with body mass, whereas gestation period increases. He was correct in these predictions, at least for mammals: data are shown for mouse and elephant.]]
 
 Aristotle did not do experiments in the modern sense. He used the ancient Greek term _pepeiramenoi_ to mean observations, or at most investigative procedures like dissection. In _Generation of Animals_, he finds a fertilised hen's egg of a suitable stage and opens it to see the embryo's heart beating inside.
 
@@ -201,7 +201,7 @@ From the data he collected and documented, Aristotle inferred quite a number of 
 
 Classification of living things
 
-Scyliorhinus_retifer_embryo.JPG of a dogfish was attached by a cord to a kind of placenta (the yolk sac), like a higher animal; this formed an exception to the linear scale from highest to lowest.]]
+of a dogfish was attached by a cord to a kind of placenta (the yolk sac), like a higher animal; this formed an exception to the linear scale from highest to lowest.]]
 
 Aristotle distinguished about 500 species of animals, arranging these in the _History of Animals_ in a graded scale of perfection, a _scala naturae_, with man at the top. His system had eleven grades of animal, from highest potential to lowest, expressed in their form at birth: the highest gave live birth to hot and wet creatures, the lowest laid cold, dry mineral-like eggs. Animals came above plants, and these in turn were above minerals. see also: He grouped what the modern zoologist would call vertebrates as the hotter "animals with blood", and below them the colder invertebrates as "animals without blood". Those with blood were divided into the live-bearing (mammals), and the egg-laying (birds, reptiles, fish). Those without blood were insects, crustacea (non-shelled – cephalopods, and shelled) and the hard-shelled molluscs (bivalves and gastropods). He recognised that animals did not exactly fit into a linear scale, and noted various exceptions, such as that sharks had a placenta like the tetrapods. To a modern biologist, the explanation, not available to Aristotle, is convergent evolution. He believed that purposive final causes guided all natural processes; this teleological view justified his observed data as an expression of formal design.
 
@@ -249,7 +249,7 @@ Psychology
 
 Soul
 
-Aristotelian_Soul.png of plants, animals, and humans, making humans unique in having all three types of soul.]]
+of plants, animals, and humans, making humans unique in having all three types of soul.]]
 
 Aristotle's psychology, given in his treatise _On the Soul_ (_peri psychēs_), posits three kinds of soul ("psyches"): the vegetative soul, the sensitive soul, and the rational soul. Humans have a rational soul. The human soul incorporates the powers of the other kinds: Like the vegetative soul it can grow and nourish itself; like the sensitive soul it can experience sensations and move locally. The unique part of the human, rational soul is its ability to receive forms of other things and to compare them using the _nous_ (intellect) and _logos_ (reason).
 
@@ -263,7 +263,7 @@ Aristotle uses the term 'memory' for the actual retaining of an experience in th
 
 Because Aristotle believes people receive all kinds of sense perceptions and perceive them as impressions, people are continually weaving together new impressions of experiences. To search for these impressions, people search the memory itself. Within the memory, if one experience is offered instead of a specific memory, that person will reject this experience until they find what they are looking for. Recollection occurs when one retrieved experience naturally follows another. If the chain of "images" is needed, one memory will stimulate the next. When people recall experiences, they stimulate certain previous experiences until they reach the one that is needed. Recollection is thus the self-directed activity of retrieving the information stored in a memory impression. Only humans can remember impressions of intellectual activity, such as numbers and words. Animals that have perception of time can retrieve memories of their past observations. Remembering involves only perception of the things remembered and of the time passed.
 
-Aristotle_Senses_Perception_Memory_Dreams_Action.svg, linked by his Laws of Association (similarity, contrast, and contiguity).]]
+, linked by his Laws of Association (similarity, contrast, and contiguity).]]
 
 Aristotle believed the chain of thought, which ends in recollection of certain impressions, was connected systematically in relationships such as similarity, contrast, and contiguity, described in his Laws of Association. Aristotle believed that past experiences are hidden within the mind. A force operates to awaken the hidden material to bring up the actual experience. According to Aristotle, association is the power innate in a mental state, which operates upon the unexpressed remains of former experiences, allowing them to rise and be recalled.
 
@@ -315,8 +315,6 @@ Politics
 
 In addition to his works on ethics, which address the individual, Aristotle addressed the city in his work titled _Politics_. Aristotle considered the city to be a natural community. Moreover, he considered the city to be prior in importance to the family which in turn is prior to the individual, "for the whole must of necessity be prior to the part". He also famously stated that "man is by nature a political animal" and also arguing that humanity's defining factor among others in the animal kingdom is its rationality. Aristotle conceived of politics as being like an organism rather than like a machine, and as a collection of parts none of which can exist without the others. Aristotle's conception of the city is organic, and he is considered one of the first to conceive of the city in this manner.
 
-Aristotle's_constitutions.svg
-
 The common modern understanding of a political community as a modern state is quite different from Aristotle's understanding. Although he was aware of the existence and potential of larger empires, the natural community according to Aristotle was the city (_polis_) which functions as a political "community" or "partnership" (_koinōnia_) . The aim of the city is not just to avoid injustice or for economic stability , but rather to allow at least some citizens the possibility to live a good life, and to perform beautiful acts: "The political partnership must be regarded, therefore, as being for the sake of noble actions, not for the sake of living together ." This is distinguished from modern approaches, beginning with social contract theory, according to which individuals leave the state of nature because of "fear of violent death" or its "inconveniences."
 
 In _Protrepticus_, the character 'Aristotle' states:
@@ -331,7 +329,7 @@ Aristotle gave a summary of the function of money that was perhaps remarkably pr
 
 Rhetoric and poetics
 
-Bénigne_Gagneraux,_The_Blind_Oedipus_Commending_his_Children_to_the_Gods.jpg. In his _Poetics_, Aristotle uses the tragedy _Oedipus Tyrannus_ by Sophocles as an example of how the perfect tragedy should be structured, with a generally good protagonist who starts the play prosperous, but loses everything through some _hamartia_ (fault).]]
+. In his _Poetics_, Aristotle uses the tragedy _Oedipus Tyrannus_ by Sophocles as an example of how the perfect tragedy should be structured, with a generally good protagonist who starts the play prosperous, but loses everything through some _hamartia_ (fault).]]
 
 Aristotle's _Rhetoric_ proposes that a speaker can use three basic kinds of appeals to persuade his audience: _ethos_ (an appeal to the speaker's character), _pathos_ (an appeal to the audience's emotion), and _logos_ (an appeal to logical reasoning). He also categorises rhetoric into three genres: epideictic (ceremonial speeches dealing with praise or blame), forensic (judicial speeches over guilt or innocence), and deliberative (speeches calling on an audience to make a decision on an issue). Aristotle also outlines two kinds of rhetorical proofs: _enthymeme_ (proof by syllogism) and _paradeigma_ (proof by example).
 
@@ -350,7 +348,7 @@ More than 2300 years after his death, Aristotle remains one of the most influent
 
 On his successor, Theophrastus
 
-161Theophrastus_161_frontespizio.jpg to a 1644 version of Theophrastus's _Historia Plantarum_, originally written around 300 BC]]
+to a 1644 version of Theophrastus's _Historia Plantarum_, originally written around 300 BC]]
 
 Aristotle's pupil and successor, Theophrastus, wrote the _History of Plants_, a pioneering work in botany. Some of his technical terms remain in use, such as carpel from _carpos_, fruit, and pericarp, from _pericarpion_, seed chamber. Theophrastus was much less concerned with formal causes than Aristotle was, instead pragmatically describing how plants functioned.
 
@@ -372,13 +370,11 @@ After a hiatus of several centuries, formal commentary by Eustratius and Michael
 
 On the medieval Islamic world
 
-Arabic_aristotle.jpg
-
 Aristotle was one of the most revered Western thinkers in early Islamic theology. Most of the still extant works of Aristotle, as well as a number of the original Greek commentaries, were translated into Arabic and studied by Muslim philosophers, scientists and scholars. Averroes, Avicenna and Alpharabius, who wrote on Aristotle in great depth, also influenced Thomas Aquinas and other Western Christian scholastic philosophers. Alkindus greatly admired Aristotle's philosophy, and Averroes spoke of Aristotle as the "exemplar" for all future philosophers. Medieval Muslim scholars regularly described Aristotle as the "First Teacher". The title "teacher" was first given to Aristotle by Muslim scholars, and was later used by Western philosophers (as in the famous poem of Dante) who were influenced by the tradition of Islamic philosophy.
 
 On medieval Europe
 
-Aristotle_and_Phyllis.jpg by Hans Baldung, 1515]]
+by Hans Baldung, 1515]]
 
 With the loss of the study of ancient Greek in the early medieval Latin West, Aristotle was practically unknown there from c. AD 600 to c. 1100 except through the Latin translation of the _Organon_ made by Boethius. In the twelfth and thirteenth centuries, interest in Aristotle revived and Latin Christians had translations made, both from Arabic translations, such as those by Gerard of Cremona, and from the original Greek, such as those by James of Venice and William of Moerbeke. After the Scholastic Thomas Aquinas wrote his _Summa Theologica_, working from Moerbeke's translations and calling Aristotle "The Philosopher", the demand for Aristotle's writings grew, and the Greek manuscripts returned to the West, stimulating a revival of Aristotelianism in Europe that continued into the Renaissance. These thinkers blended Aristotelian philosophy with Christianity, bringing the thought of Ancient Greece into the Middle Ages. Scholars such as Boethius, Peter Abelard, and John Buridan worked on Aristotelian logic.
 
@@ -397,7 +393,7 @@ The Italian poet Dante says of Aristotle in _The Divine Comedy_:
 
 On Early Modern scientists
 
-William_Harvey_(_1578-1657)_Venenbild.jpg's _De Motu Cordis_, 1628, showed that the blood circulated, contrary to classical era thinking.]]
+'s _De Motu Cordis_, 1628, showed that the blood circulated, contrary to classical era thinking.]]
 
 In the Early Modern period, scientists such as William Harvey in England and Galileo Galilei in Italy reacted against the theories of Aristotle and other classical era thinkers like Galen, establishing new theories based to some degree on observation and experiment. Harvey demonstrated the circulation of the blood, establishing that the heart functioned as a pump rather than being the seat of the soul and the controller of the body's heat, as Aristotle thought. Galileo used more doubtful arguments to displace Aristotle's physics, proposing that bodies all fall at the same speed whatever their weight.
 
@@ -408,8 +404,6 @@ The 19th-century German philosopher Friedrich Nietzsche has been said to have ta
 The English mathematician George Boole fully accepted Aristotle's logic, but decided "to go under, over, and beyond" it with his system of algebraic logic in his 1854 book _The Laws of Thought_. This gives logic a mathematical foundation with equations, enables it to solve equations as well as check validity, and allows it to handle a wider class of problems by expanding propositions of any number of terms, not just two.
 
 Modern rejection and rehabilitation
-
-Alexander_and_Aristotle.jpg
 
 During the 20th century, Aristotle's work was widely criticised. The philosopher Bertrand Russell argued that "almost every serious intellectual advance has had to begin with an attack on some Aristotelian doctrine". Russell called Aristotle's ethics "repulsive", and labelled his logic "as definitely antiquated as Ptolemaic astronomy". Russell stated that these errors made it difficult to do historical justice to Aristotle, until one remembered what an advance he made upon all of his predecessors.
 
@@ -424,7 +418,7 @@ Surviving works
 
 Corpus Aristotelicum
 
-Aristotelis_De_Moribus_ad_Nicomachum.jpg'' in Greek and Latin]]
+'' in Greek and Latin]]
 
 The works of Aristotle that have survived from antiquity through medieval manuscript transmission are collected in the Corpus Aristotelicum. These texts, as opposed to Aristotle's lost works, are technical philosophical treatises from within Aristotle's school. Reference to them is made according to the organisation of Immanuel Bekker's Royal Prussian Academy edition (_Aristotelis Opera edidit Academia Regia Borussica_, Berlin, 1831–1870), which in turn is based on ancient classifications of these works.
 

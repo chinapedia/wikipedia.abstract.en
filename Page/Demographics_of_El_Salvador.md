@@ -1,11 +1,9 @@
-FMSC_-_El_Salvador_(35158013945).jpg This article is about the demographic features of the population of El Salvador, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
+This article is about the demographic features of the population of El Salvador, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
 El Salvador's population numbers 6.1 million. Ethnically, 86.3% of Salvadorans are mixed (mixed Indigenous Native American and European Spanish origin). Another 12.7% is of pure European descent, 1% are of pure indigenous descent, 0.16% are Black and others are 0.64%.[1]
 
 
 Population
-
-El_Salvador_population.svg
 
 El Salvador's population was in , compared to 2,200,000 in 1950. In 2010 the percentage of the population below the age of 15 was 32.1%, 61% were between 15 and 65 years of age, while 6.9% were 65 years or older.[2]
 
@@ -48,7 +46,7 @@ The migration rate accelerated during the period of 1979 to 1981, this marked th
 
 Ethnic groups
 
-Beatificacion_Monseñor_Romero_(18012123351).jpg children]] Out of the 6,408,111 people in El Salvador, 86.3% are Mestizo, 12.7% are of full European descent, 1% Indigenous, 0.8% Black, and 0.64% other.
+children]] Out of the 6,408,111 people in El Salvador, 86.3% are Mestizo, 12.7% are of full European descent, 1% Indigenous, 0.8% Black, and 0.64% other.
 
 Mestizo Salvadorans
 
@@ -56,13 +54,13 @@ Mestizo Salvadorans
 
 Native American Indigenous Salvadorans
 
-Las_Palmas_estampa.JPG]] Map of El Salvador's Native American civilizations and their former kingdoms: According to the Salvadoran Government, about 1% of the population are of full or partial indigenous origin. The largest most dominant Native American groups in El Salvador are the Lenca people, Maya peoples: (Poqomam people/Chorti people) and Pipil people followed by small enclaves of Cacaopera people, Xinca people, Alaguilac people, Mixe people, Mangue language people, as well as an Olmec past. (Pipil, located in the west and central part of the country, and Lenca, found east of the Lempa River). There are small populations of Cacaopera people in the Morazán Department and a few Ch'orti' people live in the department of Ahuachapán, near the border of Guatemala.
+]] According to the Salvadoran Government, about 1% of the population are of full or partial indigenous origin. The largest most dominant Native American groups in El Salvador are the Lenca people, Maya peoples: (Poqomam people/Chorti people) and Pipil people followed by small enclaves of Cacaopera people, Xinca people, Alaguilac people, Mixe people, Mangue language people, as well as an Olmec past. (Pipil, located in the west and central part of the country, and Lenca, found east of the Lempa River). There are small populations of Cacaopera people in the Morazán Department and a few Ch'orti' people live in the department of Ahuachapán, near the border of Guatemala.
 
 The number of indigenous people in El Salvador have been criticized by indigenous organizations and academics as too small and accuse the government of denying the existence of indigenous Salvadorans in the country.[9] According to the National Salvadoran Indigenous Coordination Council (CCNIS) and CONCULTURA (National Council for Art and Culture at the Ministry of Education ), approximately 70,000 or 1 per cent of Salvadorian peoples are indigenous.[10] Nonetheless, very few Amerindians have retained their customs and traditions, having over time assimilated into the dominant Mestizo/Spanish culture. The low numbers of indigenous people may be partly explained by historically high rates of old-world diseases, absorption into the mestizo population, as well as mass murder during the 1932 Salvadoran peasant uprising (or _La Matanza_) which saw (estimates of) up to 30,000 peasants killed in a short period of time. Many authors note that since _La Matanza_ the indigenous in El Salvador have been very reluctant to describe themselves as such (in census declarations for example) or to wear indigenous dress or be seen to be taking part in any cultural activities or customs that might be understood as indigenous.[11] Departments and cities in the country with notable indigenous populations include Sonsonate (especially Izalco, Nahuizalco, and Santo Domingo), Cacaopera, and Panchimalco, in the department of San Salvador.[12]
 
 White Salvadorans
 
-Salvadorianchildren.JPG Pedro_de_Alvarado.JPG conquistador Pedro de Alvarado and his army became the first to settle and establish European colonies in El Salvador in 1524.]] Spanish_Conqueror.jpg colonizers began settling in El Salvador and taking native wives, producing a high birth rate of mestizo children which make up today's modern Salvadoran population.]] Some 12.7% of Salvadorans are white. This population is mostly made up of ethnically Spanish people, while there are also Salvadorans of French, German, Swiss, English, Irish, and Italian descent. In northern departments like the Chalatenango Department, it is well known that residents in the area are of pure Spanish descent;[13] settling in the region that is now Chalatenango in the late 18th century.[14] The governor of San Salvador, Francisco Luis Héctor de Carondelet, ordered families from northern Spain (Galicia and Asturias) to settle the area to compensate for the lack of indigenous people to work the land; it is not uncommon to see people with blond hair, fair skin, and blue or green eyes in municipalities like Dulce Nombre de María, La Palma, and El Pital.
+conquistador Pedro de Alvarado and his army became the first to settle and establish European colonies in El Salvador in 1524.]] colonizers began settling in El Salvador and taking native wives, producing a high birth rate of mestizo children which make up today's modern Salvadoran population.]] Some 12.7% of Salvadorans are white. This population is mostly made up of ethnically Spanish people, while there are also Salvadorans of French, German, Swiss, English, Irish, and Italian descent. In northern departments like the Chalatenango Department, it is well known that residents in the area are of pure Spanish descent;[13] settling in the region that is now Chalatenango in the late 18th century.[14] The governor of San Salvador, Francisco Luis Héctor de Carondelet, ordered families from northern Spain (Galicia and Asturias) to settle the area to compensate for the lack of indigenous people to work the land; it is not uncommon to see people with blond hair, fair skin, and blue or green eyes in municipalities like Dulce Nombre de María, La Palma, and El Pital.
 
 Arab Salvadorans
 
@@ -373,8 +371,6 @@ Ethnic groups
     mestizo 86.3%, white 12.7%, Amerindian 0.2% (includes Lenca, Kakawira, Nahua-Pipil), black 0.1%, other 0.6% (2007 est.)
 
 Age structure
-
-El_Salvadorpop.svg
 
     _0-14 years:_ 25.3% (male 802,813 /female 762,852)
     _15-24 years:_ 19.88% (male 619,550 /female 610,725)

@@ -23,7 +23,7 @@ Israelite and Judean period
 
 Archaeological confirmation of Bethlehem as a city in the Kingdom of Judah was uncovered in 2012 at the archaeological dig at the City of David in the form of a _bulla_ (seal impression in dried clay) in ancient Hebrew script that reads "From the town of Bethlehem to the King," indicating that it was used to seal the string closing a shipment of grain, wine, or other goods sent as a tax payment in the 8th or 7th century BCE.[15]
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_106.png, which illustrates 2 Samuel 23:15-17]]
+, which illustrates 2 Samuel 23:15-17]]
 
 Biblical scholars believe Bethlehem, located in the "hill country" of Judah, may be the same as the Biblical Ephrath,[16] which means "fertile", as there is a reference to it in the Book of Micah as Bethlehem Ephratah.[17] The Bible also calls it Beth-Lehem Judah,[18] and the New Testament describes it as the "City of David".[19] It is first mentioned in the Tanakh and the Bible as the place where the matriarch Rachel died and was buried "by the wayside" (Gen. 48:7). Rachel's Tomb, the traditional grave site, stands at the entrance to Bethlehem. According to the Book of Ruth, the valley to the east is where Ruth of Moab gleaned the fields and returned to town with Naomi. It was the home of Jesse,[20] father of King David of Israel, and the site of David's anointment by the prophet Samuel.[21] It was from the well of Bethlehem that three of his warriors brought him water when he was hiding in the cave of Adullam.[22]
 
@@ -31,7 +31,7 @@ Writing in the 4th century, the Pilgrim of Bordeaux reported that the sepulchers
 
 Classical period
 
-Gerard_van_Honthorst_-_Adoration_of_the_Shepherds_(1622).jpg. According to the Gospels of Matthew and Luke, Jesus was born in Bethlehem.[24][25][26]]]
+. According to the Gospels of Matthew and Luke, Jesus was born in Bethlehem.[24][25][26]]]
 
 The Gospel of Matthew and the Gospel of Luke represent Jesus as having been born in Bethlehem.[27][28][29] Modern scholars, however, regard the two accounts as contradictory[30][31] and the Gospel of Mark, the earliest gospel, mentions nothing about Jesus having been born in Bethlehem, saying only that he came from Nazareth.[32] Nonetheless, the tradition that Jesus was born in Bethlehem was prominent in the early church.[33] In around 155, the apologist Justin Martyr recommended that those who doubted Jesus was really born in Bethlehem could go there and visit the very cave where he was supposed to have been born.[34] The same cave is also referenced by the apocryphal Gospel of James and the fourth-century church historian Eusebius.[35] After the Bar Kokhba revolt ( 132–136 CE) was crushed, the Roman emperor Hadrian converted the Christian site above the Grotto into a shrine dedicated to the Greek god Adonis, to honour his favourite, the Greek youth Antinous.[36][37]
 
@@ -41,7 +41,7 @@ In 326–328, the empress Helena, consort of the emperor Constantius Chlorus, an
 
 Middle Ages
 
-1698_de_Bruijin_View_of_Bethlehem,_Palestine_(Israel,_Holy_Land)_-_Geographicus_-_Bethlehem-bruijn-1698.jpg]]
+]]
 
 In 637, shortly after Jerusalem was captured by the Muslim armies, 'Umar ibn al-Khattāb, the second Caliph, promised that the Church of the Nativity would be preserved for Christian use.[52] A mosque dedicated to Umar was built upon the place in the city where he prayed, next to the church.[53] Bethlehem then passed through the control of the Islamic caliphates of the Umayyads in the 8th century, then the Abbasids in the 9th century. A Persian geographer recorded in the mid-9th century that a well preserved and much venerated church existed in the town. In 985, the Arab geographer al-Muqaddasi visited Bethlehem, and referred to its church as the "Basilica of Constantine, the equal of which does not exist anywhere in the country-round."[54] In 1009, during the reign of the sixth Fatimid Caliph, al-Hakim bi-Amr Allah, the Church of the Nativity was ordered to be demolished, but was spared by local Muslims, because they had been permitted to worship in the structure's southern transept.[55]
 
@@ -53,9 +53,7 @@ Bethlehem, along with Jerusalem, Nazareth, and Sidon, was briefly ceded to the C
 
 Ottoman era
 
-Bethlehem_Polenov.jpg, 1882]]
-
-Bethlehem_1898.jpg
+, 1882]]
 
 From 1517, during the years of Ottoman control, custody of the Basilica was bitterly disputed between the Catholic and Greek Orthodox churches.[61] By the end of the 16th century, Bethlehem had become one of the largest villages in the District of Jerusalem, and was subdivided into seven quarters.[62] The Basbus family served as the heads of Bethlehem among other leaders during this period.[63] The Ottoman tax record and census from 1596 indicates that Bethlehem had a population of 1,435, making it the 13th largest village in Palestine at the time. Its total revenue amounted to 30,000 akce.[64]
 
@@ -71,7 +69,7 @@ Bethlehem was administered by the British Mandate from 1920 to 1948.[71] In the 
 
 Jordan retained control of the city until the Six-Day War in 1967, when Bethlehem was captured by Israel, along with the rest of the West Bank. Following the Six-Day War, Israel took control of the city.
 
-Die_Mauer_von_Bethlehem.jpg in Bethlehem in 2012]]
+in Bethlehem in 2012]]
 
 On December 21, 1995, Israeli troops withdrew from Bethlehem,[76] and three days later the city came under the administration and military control of the Palestinian National Authority in accordance with the Interim Agreement on the West Bank and the Gaza Strip.[77] During the Second Palestinian Intifada in 2000–2005, Bethlehem's infrastructure and tourism industry were damaged.[78][79] In 2002, it was a primary combat zone in Operation Defensive Shield, a major military counteroffensive by the Israeli Defense Forces (IDF).[80] The IDF besieged the Church of the Nativity, where dozens of Palestinian militants had sought refuge. The siege lasted 39 days. Several militants were killed. It ended with an agreement to exile 13 of the militants to foreign countries.[81]
 
@@ -82,7 +80,7 @@ Christian families that have lived in Bethlehem for hundreds of years are being 
 
 Geography
 
-Bethléem_résidence.JPG, 2008]]
+, 2008]]
 
 Bethlehem is located at an elevation of about above sea level, higher than nearby Jerusalem.[85] Bethlehem is situated on the southern portion in the Judean Mountains.
 
@@ -111,7 +109,7 @@ Population
   1997   21,930[99]
   2007   25,266[100]
 
-Bethlehem-Manger-Square.jpg, built in 1860 to commemorate the Caliph Umar's visit to Bethlehem]]
+, built in 1860 to commemorate the Caliph Umar's visit to Bethlehem]]
 
 According to Ottoman tax records, Christians made up roughly 60% of the population in the early 16th century, while the Christian and Muslim population became equal by the mid-16th century. However, there were no Muslim inhabitants counted by the end of the century, with a recorded population of 287 adult male tax-payers. Christians, like all non-Muslims throughout the Ottoman Empire, were required to pay the jizya tax.[101] In 1867, an American visitor describes the town as having a population of 3,000 to 4,000; of whom about 100 were Protestants, 300 were Muslims and "the remainder belonging to the Latin and Greek Churches with a few Armenians."[102] Another report from the same year puts the Christian population at 3,000, with an additional 50 Muslims.[103] An 1885 source put the population at approximately 6,000 of "principally Christians, Latins and Greeks" with no Jewish inhabitants.[104]
 
@@ -120,8 +118,6 @@ In 1948, the religious makeup of the city was 85% Christian, mostly of the Greek
 In the PCBS's 1997 census, the city had a population of 21,670, including a total of 6,570 refugees, accounting for 30.3% of the city's population.[107][108] In 1997, the age distribution of Bethlehem's inhabitants was 27.4% under the age of 10, 20% from 10 to 19, 17.3% from 20–29, 17.7% from 30 to 44, 12.1% from 45–64 and 5.3% above the age of 65. There were 11,079 males and 10,594 females.[109] In the 2007 PCBS census, Bethlehem had a population of 25,266, of which 12,753 were males and 12,513 were females. There were 6,709 housing units, of which 5,211 were households. The average household consisted of 4.8 family members.[110]
 
 Christian population
-
-Bethlehem4.jpg
 
 After the Muslim conquest of the Levant in the 630s, the local Christians were Arabized even though large numbers were ethnically Arabs of the Ghassanid clans.[111] Bethlehem's two largest Arab Christian clans trace their ancestry to the Ghassanids, including al-Farahiyyah and an-Najajreh.[112] The former have descended from the Ghassanids who migrated from Yemen and from the Wadi Musa area in present-day Jordan and an-Najajreh descend from Najran.[113] Another Bethlehem clan, al-Anatreh, also trace their ancestry to the Ghassanids.[114]
 
@@ -132,7 +128,7 @@ A study by Pew Research Center concluded that the decline in the Arab Christian 
 
 Economy
 
-Bethlehem-03-Church_of_the_Nativity.jpg]]
+]]
 
 Shopping is a major attraction, especially during the Christmas season. The city's main streets and old markets are lined with shops selling Palestinian handicrafts, Middle Eastern spices, jewelry and oriental sweets such as baklawa.[136] Olive wood carvings [137] are the item most purchased by tourists visiting Bethlehem.[138] Religious handicrafts include ornaments handmade from mother-of-pearl, as well as olive wood statues, boxes, and crosses.[139] Other industries include stone and marble-cutting, textiles, furniture and furnishings.[140] Bethlehem factories also produce paints, plastics, synthetic rubber, pharmaceuticals, construction materials and food products, mainly pasta and confectionery.[141]
 
@@ -142,7 +138,7 @@ In 2008, Bethlehem hosted the largest economic conference to date in the Palesti
 
 Tourism
 
-Pope_Francis_visit_Bethlehem.jpg in Bethlehem, 25 May 2014]]
+in Bethlehem, 25 May 2014]]
 
 Tourism is Bethlehem's main industry.[144][145] Unlike other Palestinian localities prior to 2000, the majority of the employed residents did not have jobs in Israel.[146] More than 20% of the working population is employed in the industry.[147] Tourism accounts for approximately 65% of the city's economy and 11% of the Palestinian National Authority.[148] The city has more than two million visitors every year.[149] Tourism in Bethlehem ground to a halt for over a decade after the Second Intifada,[150] but gradually began to pick back up in the early 2010s.[151]
 
@@ -155,17 +151,13 @@ Religious significance and commemoration
 
 Birthplace of Jesus
 
-Jesus_birthplace_in_Bethlehem.jpg
-
 Early Christian traditions describe Jesus as being born in Bethlehem: in one, a verse in the Book of Micah is interpreted as a prophecy that the Messiah would be born there.[155] The New Testament has two different accounts of the birth. In the Gospel of Luke, Jesus' parents live in Nazareth and travel for the Census of Quirinius to Bethlehem, where Jesus is born, after which they return home.[156] The Gospel of Matthew mentions Bethlehem but not the census.[157] Told that a 'King of the Jews' has been born in the town, Herod orders the killing of all the boys aged two and under in the town and surrounding area. Joseph, warned of by an angel of the Lord, flees to Egypt with his family; the Holy Family later settles in Nazareth.
 
-Bethlehem_Christmas2.JPG 2006]] Christmas_tree,_Bethlehem.jpg in Bethlehem; behind it, the Church of the Nativity, 2014]] Many modern scholars question the idea that Jesus was born in Bethlehem, seeing the biblical stories not as historical accounts but as symbolic narratives invented to present the birth as fulfillment of prophecy and imply a connection to the lineage of King David.[158][159][160][161][162] The Gospel of Mark and the Gospel of John do not include a nativity narrative, but refer to him only as being from Nazareth.[163] In a 2005 article in _Archaeology_ magazine, archaeologist Aviram Oshri points to an absence of evidence for the settlement of Bethlehem near Jerusalem at the time when Jesus was born, and postulates that Jesus was born in Bethlehem of Galilee.[164] In a 2011 article in _Biblical Archaeology Review_ magazine, Jerome Murphy-O'Connor argues for the traditional position that Jesus was born in Bethlehem near Jerusalem.[165]
+2006]] in Bethlehem; behind it, the Church of the Nativity, 2014]] Many modern scholars question the idea that Jesus was born in Bethlehem, seeing the biblical stories not as historical accounts but as symbolic narratives invented to present the birth as fulfillment of prophecy and imply a connection to the lineage of King David.[158][159][160][161][162] The Gospel of Mark and the Gospel of John do not include a nativity narrative, but refer to him only as being from Nazareth.[163] In a 2005 article in _Archaeology_ magazine, archaeologist Aviram Oshri points to an absence of evidence for the settlement of Bethlehem near Jerusalem at the time when Jesus was born, and postulates that Jesus was born in Bethlehem of Galilee.[164] In a 2011 article in _Biblical Archaeology Review_ magazine, Jerome Murphy-O'Connor argues for the traditional position that Jesus was born in Bethlehem near Jerusalem.[165]
 
 The existence of early traditions of Jesus' birth in Bethlehem is attested by the Christian apologist Justin Martyr, who stated in his _Dialogue with Trypho_ (c. 155–161) that the Holy Family had taken refuge in a cave outside of the town.[166] Origen of Alexandria, writing around the year 247, referred to a cave in the town of Bethlehem which local people believed was the birthplace of Jesus.[167] This cave was possibly one which had previously been a site of the cult of Tammuz.[168]
 
 Christmas celebrations
-
-Bethlehem_Christmas_pilgrims_enter_town_1890.jpg
 
 Christmas rites are held in Bethlehem on three different dates: December 25 is the traditional date by the Roman Catholic and Protestant denominations, but Greek, Coptic and Syrian Orthodox Christians celebrate Christmas on January 6 and Armenian Orthodox Christians on January 19. Most Christmas processions pass through Manger Square, the plaza outside the Basilica of the Nativity. Roman Catholic services take place in St. Catherine's Church and Protestants often hold services at Shepherds' Fields.[169]
 
@@ -178,8 +170,6 @@ Culture
 
 Embroidery
 
-Bethlehem_woman_edited.jpg
-
 The women embroiderers of Bethlehem were known for their bridalwear.[171] Bethlehem embroidery was renowned for its "strong overall effect of colors and metallic brilliance."[172] Less formal dresses were made of indigo fabric with a sleeveless coat (_bisht_) from locally woven wool worn over top. Dresses for special occasions were made of striped silk with winged sleeves with a short _taqsireh_ jacket known as the Bethlehem jacket. The taqsireh was made of velvet or broadcloth, usually with heavy embroidery.[173]
 
 Bethlehem work was unique in its use of couched gold or silver cord, or silk cord onto the silk, wool, felt or velvet used for the garment, to create stylized floral patterns with free or rounded lines. This technique was used for "royal" wedding dresses (_thob malak_), taqsirehs and the _shatwehs_ worn by married women. It has been traced by some to Byzantium, and by others to the formal costumes of the Ottoman Empire's elite. As a Christian village, local women were also exposed to the detailing on church vestments with their heavy embroidery and silver brocade.[174]
@@ -190,7 +180,7 @@ The art of mother-of-pearl carving is said to have been a Bethlehem tradition si
 
 Cultural centers and museums
 
-Workers_in_mother-of-pearl2.jpg in the early 20th century]] Bethlehem is home to the Palestinian Heritage Center, established in 1991. The center aims to preserve and promote Palestinian embroidery, art and folklore.[178] The International Center of Bethlehem is another cultural center that concentrates primarily on the culture of Bethlehem. It provides language and guide training, woman's studies and arts and crafts displays, and training.[179]
+in the early 20th century]] Bethlehem is home to the Palestinian Heritage Center, established in 1991. The center aims to preserve and promote Palestinian embroidery, art and folklore.[178] The International Center of Bethlehem is another cultural center that concentrates primarily on the culture of Bethlehem. It provides language and guide training, woman's studies and arts and crafts displays, and training.[179]
 
 The Bethlehem branch of the Edward Said National Conservatory of Music has about 500 students. Its primary goals are to teach children music, train teachers for other schools, sponsor music research, and the study of Palestinian folklore music.[180]
 
@@ -199,7 +189,7 @@ Bethlehem has four museums: The Crib of the Nativity Theatre and Museum offers v
 
 Local government
 
-Bethlehem-hamasrally.JPG rally in Bethlehem]] Bethlehem is the _muhfaza_ (seat) or district capital of the Bethlehem Governorate.
+rally in Bethlehem]] Bethlehem is the _muhfaza_ (seat) or district capital of the Bethlehem Governorate.
 
 Bethlehem held its first municipal elections in 1876, after the _mukhtars_ ("heads") of the quarters of Bethlehem's Old City (excluding the Syriac Quarter) made the decision to elect a local council of seven members to represent each clan in the town. A Basic Law was established so that if the victor for mayor was a Catholic, his deputy should be of the Greek Orthodox community.[184]
 
@@ -236,7 +226,7 @@ Bethlehem is home to Bethlehem University, a Catholic Christian co-educational i
 
 Transportation
 
-Bethlehem-street2.JPG Bethlehem has three bus stations owned by private companies which offer service to Jerusalem, Beit Jala, Beit Sahour, Hebron, Nahalin, Battir, al-Khader, al-Ubeidiya and Beit Fajjar. There are two taxi stations that make trips to Beit Sahour, Beit Jala, Jerusalem, Tuqu' and Herodium. There are also two car rental departments: Murad and 'Orabi. Buses and taxis with West Bank licenses are not allowed to enter Israel, including Jerusalem, without a permit.[194]
+Bethlehem has three bus stations owned by private companies which offer service to Jerusalem, Beit Jala, Beit Sahour, Hebron, Nahalin, Battir, al-Khader, al-Ubeidiya and Beit Fajjar. There are two taxi stations that make trips to Beit Sahour, Beit Jala, Jerusalem, Tuqu' and Herodium. There are also two car rental departments: Murad and 'Orabi. Buses and taxis with West Bank licenses are not allowed to enter Israel, including Jerusalem, without a permit.[194]
 
 The Israeli construction of the West Bank barrier has affected Bethlehem politically, socially, and economically. The barrier is located along the northern side of the town's built-up area, within m of houses in 'Aida refugee camp on one side, and the Jerusalem municipality on the other.[195] Most entrances and exits from the Bethlehem agglomeration to the rest of the West Bank are currently subjected to Israeli checkpoints and roadblocks. The level of access varies based on Israeli security directives. Travel for Bethlehem's Palestinian residents from the West Bank into Jerusalem is regulated by a permit-system.[196] Palestinians require a permit to enter the Jewish holy site of Rachel's Tomb. Israeli citizens are barred from entering Bethlehem and the nearby biblical Solomon's Pools.[197]
 

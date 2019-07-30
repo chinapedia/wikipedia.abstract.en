@@ -3,7 +3,7 @@ The ARNO is a river in the Tuscany region of Italy. It is the most important riv
 
 Source and route
 
-Ponte_Vecchio.jpg FirenzeArno1547.jpgs of Arno river floods on August 13, 1547 (left) and November 3, 1844 (metal plate on the right). Photographed in Via delle Casine.]] The river originates on Mount Falterona in the Casentino area of the Apennines, and initially takes a southward curve. The river turns to the west near Arezzo passing through Florence, Empoli and Pisa, flowing into the Tyrrhenian Sea at Marina di Pisa.
+s of Arno river floods on August 13, 1547 (left) and November 3, 1844 (metal plate on the right). Photographed in Via delle Casine.]] The river originates on Mount Falterona in the Casentino area of the Apennines, and initially takes a southward curve. The river turns to the west near Arezzo passing through Florence, Empoli and Pisa, flowing into the Tyrrhenian Sea at Marina di Pisa.
 
 With a length of , it is the largest river in the region. It has many tributaries: Sieve at long, Bisenzio at , and the Era, Elsa, Pesa, and Pescia. The drainage basin amounts to more than and drains the waters of the following subbasins:
 

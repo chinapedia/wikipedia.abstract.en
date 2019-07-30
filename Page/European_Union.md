@@ -9,17 +9,17 @@ History
 
 Background
 
-IE_expansion.png from c. 4000 to 1000 BCE according to the Kurgan hypothesis ]] Europe_814.svg in the Early Middle Ages]] Roman_Empire_Trajan_117AD.png in pink).|alt=]] During the centuries following the fall of Rome in 476, several European States viewed themselves as _translatio imperii_ ("transfer of rule") of the defunct Roman Empire: the Frankish Empire (481–843) and the Holy Roman Empire (962–1806) were thereby attempts to resurrect Rome in the West. This political philosophy of a supra-national rule over the continent, similar to the example of the ancient Roman Empire, resulted in the early Middle Ages in the concept of a _renovatio imperii_ ("restoration of the empire"),[11] either in the forms of the _Reichsidee_ ("imperial idea") or the religiously inspired _Imperium Christianum_ ("christian empire").[12][13] Medieval Christendom[14][15] and the political power of the Papacy[16][17] are often cited as conducive to European integration and unity.
+from c. 4000 to 1000 BCE according to the Kurgan hypothesis ]] in the Early Middle Ages]] in pink).|alt=]] During the centuries following the fall of Rome in 476, several European States viewed themselves as _translatio imperii_ ("transfer of rule") of the defunct Roman Empire: the Frankish Empire (481–843) and the Holy Roman Empire (962–1806) were thereby attempts to resurrect Rome in the West. This political philosophy of a supra-national rule over the continent, similar to the example of the ancient Roman Empire, resulted in the early Middle Ages in the concept of a _renovatio imperii_ ("restoration of the empire"),[11] either in the forms of the _Reichsidee_ ("imperial idea") or the religiously inspired _Imperium Christianum_ ("christian empire").[12][13] Medieval Christendom[14][15] and the political power of the Papacy[16][17] are often cited as conducive to European integration and unity.
 
 In the oriental parts of the continent, the Russian Tsardom, and ultimately the Empire (1547–1917), declared Moscow to be Third Rome and inheritor of the Eastern tradition after the fall of Constantinople in 1453.[18] The gap between Greek East and Latin West had already been widened by the political scission of the Roman Empire in the 4th century and the Great Schism of 1054; and would be eventually widened again by the Iron Curtain (1945–91).[19]
 
-Pan-European political thought truly emerged during the 19th century, inspired by the liberal ideas of the French and American Revolutions after the demise of Napoléon's Empire (1804–15). In the decades following the outcomes of the Congress of Vienna, ideals of European unity flourished across the continent, especially in the writings of Wojciech Jastrzębowski,[20] Giuseppe Mazzini[21] or Theodore de Korwin Szymanowski.[22] The term _United States of Europe_ () was used at that time by Victor Hugo during a speech at the International Peace Congress held in Paris in 1849:[23]CongressVienna.jpg met in 1814–15. The objective of the Congress was to settle the many issues arising from the French Revolutionary Wars, the Napoleonic Wars, and the dissolution of the Holy Roman Empire.]] During the interwar period, the consciousness that national markets in Europe were interdependent though confrontational, along with the observation of a larger and growing US market on the other side of the ocean, nourished the urge for the economic integration of the continent.[24] In 1920, advocating the creation of a European economic union, British economist John Maynard Keynes wrote that "a Free Trade Union should be established ... to impose no protectionist tariffs whatever against the produce of other members of the Union."[25] During the same decade, Richard von Coudenhove-Kalergi, one of the first to imagine of a modern political union of Europe, founded the Pan-Europa Movement.[26] His ideas influenced his contemporaries, among which then Prime Minister of France Aristide Briand. In 1929, the latter gave a speech in favour of a European Union before the assembly of the League of Nations, precursor of the United Nations.[27] In a radio address in March 1943, with war still raging, Britain's leader Sir Winston Churchill spoke warmly of "restoring the true greatness of Europe" once victory had been achieved, and mused on the post-war creation of a "Council of Europe" which would bring the European nations together to build peace.
+Pan-European political thought truly emerged during the 19th century, inspired by the liberal ideas of the French and American Revolutions after the demise of Napoléon's Empire (1804–15). In the decades following the outcomes of the Congress of Vienna, ideals of European unity flourished across the continent, especially in the writings of Wojciech Jastrzębowski,[20] Giuseppe Mazzini[21] or Theodore de Korwin Szymanowski.[22] The term _United States of Europe_ () was used at that time by Victor Hugo during a speech at the International Peace Congress held in Paris in 1849:[23] met in 1814–15. The objective of the Congress was to settle the many issues arising from the French Revolutionary Wars, the Napoleonic Wars, and the dissolution of the Holy Roman Empire.]] During the interwar period, the consciousness that national markets in Europe were interdependent though confrontational, along with the observation of a larger and growing US market on the other side of the ocean, nourished the urge for the economic integration of the continent.[24] In 1920, advocating the creation of a European economic union, British economist John Maynard Keynes wrote that "a Free Trade Union should be established ... to impose no protectionist tariffs whatever against the produce of other members of the Union."[25] During the same decade, Richard von Coudenhove-Kalergi, one of the first to imagine of a modern political union of Europe, founded the Pan-Europa Movement.[26] His ideas influenced his contemporaries, among which then Prime Minister of France Aristide Briand. In 1929, the latter gave a speech in favour of a European Union before the assembly of the League of Nations, precursor of the United Nations.[27] In a radio address in March 1943, with war still raging, Britain's leader Sir Winston Churchill spoke warmly of "restoring the true greatness of Europe" once victory had been achieved, and mused on the post-war creation of a "Council of Europe" which would bring the European nations together to build peace.
 
-Europa_Congres_Ridderzaal_Den_Haag._Overzicht,_Bestanddeelnr_902-7379.jpg in The Hague, during the congress (May 9, 1948)]]
+in The Hague, during the congress (May 9, 1948)]]
 
 Preliminary (194557)
 
-Schuman_Declaration.ogg proposing the Coal and Steel Community on 9 May 1950]]
+proposing the Coal and Steel Community on 9 May 1950]]
 
 After World War II, European integration was seen as an antidote to the extreme nationalism which had devastated the continent.[28] In a speech delivered on 19 September 1946 at the University of Zürich, Switzerland, Winston Churchill went further and advocated the emergence of a United States of Europe.[29] The 1948 Hague Congress was a pivotal moment in European federal history, as it led to the creation of the European Movement International and of the College of Europe, where Europe's future leaders would live and study together.[30]
 
@@ -29,15 +29,13 @@ But in 1952, disappointed at what they saw as the lack of progress within the Co
 
 Treaty of Rome (195792)
 
-EC-EU-enlargement_animation.gif
-
 In 1957, Belgium, France, Italy, Luxembourg, the Netherlands, and West Germany signed the Treaty of Rome, which created the European Economic Community (EEC) and established a customs union. They also signed another pact creating the European Atomic Energy Community (Euratom) for co-operation in developing nuclear energy. Both treaties came into force in 1958.[34]
 
 The EEC and Euratom were created separately from the ECSC, although they shared the same courts and the Common Assembly. The EEC was headed by Walter Hallstein (Hallstein Commission) and Euratom was headed by Louis Armand (Armand Commission) and then Étienne Hirsch. Euratom was to integrate sectors in nuclear energy while the EEC would develop a customs union among members.[35][36]
 
 During the 1960s, tensions began to show, with France seeking to limit supranational power. Nevertheless, in 1965 an agreement was reached and on 1 July 1967 the Merger Treaty created a single set of institutions for the three communities, which were collectively referred to as the _European Communities_.[37][38] Jean Rey presided over the first merged Commission (Rey Commission).[39]
 
-Thefalloftheberlinwall1989.JPG fell, enabling the Community to expand further (Berlin Wall pictured)]]
+fell, enabling the Community to expand further (Berlin Wall pictured)]]
 
 In 1973, the Communities were enlarged to include Denmark (including Greenland, which later left the Communities in 1985, following a dispute over fishing rights), Ireland, and the United Kingdom.[40] Norway had negotiated to join at the same time, but Norwegian voters rejected membership in a referendum. In 1979, the first direct elections to the European Parliament were held.[41]
 
@@ -47,7 +45,7 @@ In 1990, after the fall of the Eastern Bloc, the former East Germany became part
 
 Maastricht Treaty (19922007)
 
-Euro_banknotes_2002.png was introduced in 2002, replacing 12 national currencies. Seven countries have since joined.]]
+was introduced in 2002, replacing 12 national currencies. Seven countries have since joined.]]
 
 The European Union was formally established when the Maastricht Treaty—whose main architects were Helmut Kohl and François Mitterrand—came into force on 1 November 1993.[47] The treaty also gave the name European Community to the EEC, even if it was referred as such before the treaty. With further enlargement planned to include the former communist states of Central and Eastern Europe, as well as Cyprus and Malta, the Copenhagen criteria for candidate members to join the EU were agreed upon in June 1993. The expansion of the EU introduced a new level of complexity and discord.[48] In 1995, Austria, Finland, and Sweden joined the EU.
 
@@ -55,13 +53,13 @@ In 2002, euro banknotes and coins replaced national currencies in 12 of the memb
 
 Lisbon Treaty (2007present)
 
-Tratado_de_Lisboa_13_12_2007_(081).jpg entered into force in 2009]]
+entered into force in 2009]]
 
 In 2007, Bulgaria and Romania became EU members. The same year, Slovenia adopted the euro,[50] followed in 2008 by Cyprus and Malta, by Slovakia in 2009, by Estonia in 2011, by Latvia in 2014, and by Lithuania in 2015.
 
 On 1 December 2009, the Lisbon Treaty entered into force and reformed many aspects of the EU. In particular, it changed the legal structure of the European Union, merging the EU three pillars system into a single legal entity provisioned with a legal personality, created a permanent President of the European Council, the first of which was Herman Van Rompuy, and strengthened the position of the High Representative of the Union for Foreign Affairs and Security Policy.[51]
 
-Treaty_of_Rome_anniversary_group_photograph_2017-03-25_03.jpg in Rome, Italy]]
+in Rome, Italy]]
 
 In 2012, the EU received the Nobel Peace Prize for having "contributed to the advancement of peace and reconciliation, democracy, and human rights in Europe."[52][53] In 2013, Croatia became the 28th EU member.[54]
 
@@ -82,7 +80,7 @@ Demographics
 
 Population
 
-Density_of_Population_in_EU_2014.svg , the population of the European Union was about 513.5 million people (6.9% of the world population).[62][63] In 2015, 5.1 million children were born in the EU-28, corresponding to a birth rate of 10 per 1,000, which is 8 births below the world average.[64] For comparison, the EU-28 birth rate had stood at 10.6 in 2000, 12.8 in 1985 and 16.3 in 1970.[65] Its population growth rate was positive at an estimated 0.23% in 2016.[66]
+, the population of the European Union was about 513.5 million people (6.9% of the world population).[62][63] In 2015, 5.1 million children were born in the EU-28, corresponding to a birth rate of 10 per 1,000, which is 8 births below the world average.[64] For comparison, the EU-28 birth rate had stood at 10.6 in 2000, 12.8 in 1985 and 16.3 in 1970.[65] Its population growth rate was positive at an estimated 0.23% in 2016.[66]
 
 In 2010, 47.3 million people who lived in the EU were born outside their resident country. This corresponds to 9.4% of the total EU population. Of these, 31.4 million (6.3%) were born outside the EU and 16.0 million (3.2%) were born in another EU member state. The largest absolute numbers of people born outside the EU were in Germany (6.4 million), France (5.1 million), the United Kingdom (4.7 million), Spain (4.1 million), Italy (3.2 million), and the Netherlands (1.4 million).[67] In 2017, approximately 825,000 persons acquired citizenship of a member state of the European Union. The largest groups were nationals of Morocco, Albania, India, Turkey and Pakistan.[68] 2.4 million immigrants from non-EU countries entered the EU in 2017.[69][70]
 
@@ -220,7 +218,7 @@ The EU's population is highly urbanised, with some 75% of inhabitants living in 
 
 Politics
 
-Organs_of_the_European_Union.svg Debate_of_lead_candidates_for_the_European_Commission_presidency_(40894703423).jpg'' (May 2019). Left to right: Zahradil, Cué, Keller, Vestager, Timmermans, Weber]] The EU operates through a hybrid system of supranational and intergovernmental decision-making,[131][132] and according to the principles of conferral (which says that it should act only within the limits of the competences conferred on it by the treaties) and of subsidiarity (which says that it should act only where an objective cannot be sufficiently achieved by the member states acting alone). Laws made by the EU institutions are passed in a variety of forms.[133] Generally speaking, they can be classified into two groups: those which come into force without the necessity for national implementation measures (regulations) and those which specifically require national implementation measures (directives).[134]
+'' (May 2019). Left to right: Zahradil, Cué, Keller, Vestager, Timmermans, Weber]] The EU operates through a hybrid system of supranational and intergovernmental decision-making,[131][132] and according to the principles of conferral (which says that it should act only within the limits of the competences conferred on it by the treaties) and of subsidiarity (which says that it should act only where an objective cannot be sufficiently achieved by the member states acting alone). Laws made by the EU institutions are passed in a variety of forms.[133] Generally speaking, they can be classified into two groups: those which come into force without the necessity for national implementation measures (regulations) and those which specifically require national implementation measures (directives).[134]
 
 Constitutionally, the EU bears some resemblance to both a confederation and a federation,[135][136] but has not formally defined itself as either. (It does not have a formal constitution: its status is defined by the Treaty of European Union and the Treaty on the Functioning of the European Union). It is more integrated than a traditional confederation of states because the general level of government widely employs qualified majority voting in some decision-making among the member states, rather than relying exclusively on unanimity.[137][138] It is less integrated than a federal state because it is not a state in its own right: sovereignty continues to flow 'from the bottom up', from the several peoples of the separate member states, rather than from a single undifferentiated whole. This is reflected in the fact that the member states remain the 'masters of the Treaties', retaining control over the allocation of competences to the Union through constitutional change (thus retaining so-called _Kompetenz-kompetenz_); in that they retain control of the use of armed force; they retain control of taxation; and in that they retain a right of unilateral withdrawal from the Union under Article 50 of the Treaty on European Union. In addition, the principle of subsidiarity requires that only those matters that need to be determined collectively are so determined.
 
@@ -238,13 +236,13 @@ EU policy is in general promulgated by EU directives, which are then implemented
 
 European Parliament
 
-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg of the European Parliament in Strasbourg]] David_Maria_Sassoli.jpg, David Sassoli]] The European Parliament is one of three legislative institutions of the EU, which together with the Council of the European Union is tasked with amending and approving the Commission's proposals. The 751 Members of the European Parliament (MEPs) are directly elected by EU citizens every five years on the basis of proportional representation. Although MEPs are elected on a national basis, they sit according to political groups rather than their nationality. Each country has a set number of seats and is divided into sub-national constituencies where this does not affect the proportional nature of the voting system.[140]
+of the European Parliament in Strasbourg]] , David Sassoli]] The European Parliament is one of three legislative institutions of the EU, which together with the Council of the European Union is tasked with amending and approving the Commission's proposals. The 751 Members of the European Parliament (MEPs) are directly elected by EU citizens every five years on the basis of proportional representation. Although MEPs are elected on a national basis, they sit according to political groups rather than their nationality. Each country has a set number of seats and is divided into sub-national constituencies where this does not affect the proportional nature of the voting system.[140]
 
 In the ordinary legislative procedure, the European Commission proposes legislation, which requires the joint approval of the European Parliament and the Council of the European Union to pass. This process applies to nearly all areas, including the EU budget. The Parliament is the final body to approve or reject the proposed membership of the Commission, and can attempt motions of censure on the Commission by appeal to the Court of Justice. The President of the European Parliament (currently David Sassoli) carries out the role of speaker in Parliament and represents it externally. The President and Vice-Presidents are elected by MEPs every two and a half years.[141]
 
 European Council
 
-Donald_Tusk_2013-12-19.jpg, Donald Tusk]]
+, Donald Tusk]]
 
 The European Council gives political direction to the EU. It convenes at least four times a year and comprises the President of the European Council (currently Donald Tusk), the President of the European Commission and one representative per member state (either its head of state or head of government). The High Representative of the Union for Foreign Affairs and Security Policy (currently Federica Mogherini) also takes part in its meetings. It has been described by some as the Union's "supreme political authority".[142] It is actively involved in the negotiation of treaty changes and defines the EU's policy agenda and strategies.
 
@@ -256,13 +254,13 @@ The European Council should not be mistaken for the Council of Europe, an intern
 
 Council of the European Union
 
-Lithuania_presidency_EU_stamp_2013.jpg held the Presidency of the Council of the European Union in 2013.]] The Council of the European Union (also called the "Council"[145] and the "Council of Ministers", its former title)[146] forms one half of the EU's legislature. It consists of a government minister from each member state and meets in different compositions depending on the policy area being addressed. Notwithstanding its different configurations, it is considered to be one single body.[147] In addition to its legislative functions, the Council also exercises executive functions in relations to the Common Foreign and Security Policy.
+held the Presidency of the Council of the European Union in 2013.]] The Council of the European Union (also called the "Council"[145] and the "Council of Ministers", its former title)[146] forms one half of the EU's legislature. It consists of a government minister from each member state and meets in different compositions depending on the policy area being addressed. Notwithstanding its different configurations, it is considered to be one single body.[147] In addition to its legislative functions, the Council also exercises executive functions in relations to the Common Foreign and Security Policy.
 
 In some policies, there are several member states that ally with strategic partners within the Union. Visegrad Group, Benelux, Baltic Assembly, New Hanseatic League or Craiova Group.
 
 European Commission
 
-Ursula_von_der_Leyen_presents_her_vision_to_MEPs_2_(portrait_crop).jpg, Ursula von der Leyen]] The European Commission acts both as the EU's executive arm, responsible for the day-to-day running of the EU, and also the legislative initiator, with the sole power to propose laws for debate.[148][149][150] The Commission is 'guardian of the Treaties' and is responsible for their efficient operation and policing.[151] It operates _de facto_ as a cabinet government, with 28 Commissioners for different areas of policy, one from each member state, though Commissioners are bound to represent the interests of the EU as a whole rather than their home state.
+, Ursula von der Leyen]] The European Commission acts both as the EU's executive arm, responsible for the day-to-day running of the EU, and also the legislative initiator, with the sole power to propose laws for debate.[148][149][150] The Commission is 'guardian of the Treaties' and is responsible for their efficient operation and policing.[151] It operates _de facto_ as a cabinet government, with 28 Commissioners for different areas of policy, one from each member state, though Commissioners are bound to represent the interests of the EU as a whole rather than their home state.
 
 One of the 28 is the President of the European Commission (Jean-Claude Juncker for 20142019), appointed by the European Council, subject to the Parliament's approval. After the President, the most prominent Commissioner is the High Representative of the Union for Foreign Affairs and Security Policy, who is _ex-officio_ a Vice-President of the Commission and is also chosen by the European Council.[152] The other 26 Commissioners are subsequently appointed by the Council of the European Union in agreement with the nominated President. The 28 Commissioners as a single body are subject to approval (or otherwise) by vote of the European Parliament.
 
@@ -295,13 +293,13 @@ The direct effect and supremacy doctrines were not explicitly set out the Europe
 
 Courts of Justice
 
-European_Court_of_Justice_-_Luxembourg_(1674586821).jpg, seated in Luxembourg City]] The judicial branch of the EU—formally called the Court of Justice of the European Union—consists of two courts: the Court of Justice and the General Court[173] The Court of Justice primarily deals with cases taken by member states, the institutions, and cases referred to it by the courts of member states.[174] Because of the doctrines of direct effect and supremacy, many judgments of the Court of Justice are automatically applicable within the internal legal orders of the member states.
+, seated in Luxembourg City]] The judicial branch of the EU—formally called the Court of Justice of the European Union—consists of two courts: the Court of Justice and the General Court[173] The Court of Justice primarily deals with cases taken by member states, the institutions, and cases referred to it by the courts of member states.[174] Because of the doctrines of direct effect and supremacy, many judgments of the Court of Justice are automatically applicable within the internal legal orders of the member states.
 
 The General Court mainly deals with cases taken by individuals and companies directly before the EU's courts,[175] and the European Union Civil Service Tribunal adjudicates in disputes between the European Union and its civil service.[176] Decisions from the General Court can be appealed to the Court of Justice but only on a point of law.[177]
 
 Fundamental rights
 
-Parada_Równości_2018_01.jpg in Warsaw in 2018, when the Court of Justice declared that same-sex spouses have EU residence rights.[178]]] The treaties declare that the EU itself is "founded on the values of respect for human dignity, freedom, democracy, equality, the rule of law and respect for human rights, including the rights of persons belonging to minorities ... in a society in which pluralism, non-discrimination, tolerance, justice, solidarity and equality between women and men prevail."[179]
+in Warsaw in 2018, when the Court of Justice declared that same-sex spouses have EU residence rights.[178]]] The treaties declare that the EU itself is "founded on the values of respect for human dignity, freedom, democracy, equality, the rule of law and respect for human rights, including the rights of persons belonging to minorities ... in a society in which pluralism, non-discrimination, tolerance, justice, solidarity and equality between women and men prevail."[179]
 
 In 2009, the Lisbon Treaty gave legal effect to the Charter of Fundamental Rights of the European Union. The charter is a codified catalogue of fundamental rights against which the EU's legal acts can be judged. It consolidates many rights which were previously recognised by the Court of Justice and derived from the "constitutional traditions common to the member states."[180] The Court of Justice has long recognised fundamental rights and has, on occasion, invalidated EU legislation based on its failure to adhere to those fundamental rights.[181]
 
@@ -327,7 +325,7 @@ The Union has also established agencies to co-ordinate police, prosecutorial and
 
 Foreign relations
 
-EU_free_trade_agreements.PNG ]]
+]]
 
 Foreign policy co-operation between member states dates from the establishment of the Community in 1957, when member states negotiated as a bloc in international trade negotiations under the EU's common commercial policy.[201] Steps for a more wide-ranging co-ordination in foreign relations began in 1970 with the establishment of European Political Cooperation which created an informal consultation process between member states with the aim of forming common foreign policies. It was not, however, until 1987 when European Political Cooperation was introduced on a formal basis by the Single European Act. EPC was renamed as the Common Foreign and Security Policy (CFSP) by the Maastricht Treaty.[202]
 
@@ -347,19 +345,19 @@ The European Union has concluded free trade agreements (FTAs)[210] and other agr
 
 Defence
 
-NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_at_NATO_headquarters_in_Brussels_2010.jpg. Another three NATO members are EU applicants – Albania, Montenegro and Turkey.]]
+. Another three NATO members are EU applicants – Albania, Montenegro and Turkey.]]
 
 The predecessors of the European Union were not devised as a military alliance because NATO was largely seen as appropriate and sufficient for defence purposes. 22 EU members are members of NATO[212] while the remaining member states follow policies of neutrality.[213] The Western European Union, a military alliance with a mutual defence clause, was disbanded in 2010 as its role had been transferred to the EU.[214]
 
 According to the Stockholm International Peace Research Institute (SIPRI), the United Kingdom spent $61 billion on defence in 2014, placing it fifth in the world, while France spent $53 billion, the sixth largest.[215] Together, the UK and France account for approximately 40 per cent of European countries' defence budget and 50 per cent of their military capacity.[216] Both are officially recognised nuclear weapon states holding permanent seats on the United Nations Security Council.
 
-Verni_and_Tsezar'_Kunikov_in_Varna,_2009.jpg, Black Sea.]] Following the Kosovo War in 1999, the European Council agreed that "the Union must have the capacity for autonomous action, backed by credible military forces, the means to decide to use them, and the readiness to do so, in order to respond to international crises without prejudice to actions by NATO". To that end, a number of efforts were made to increase the EU's military capability, notably the Helsinki Headline Goal process. After much discussion, the most concrete result was the EU Battlegroups initiative, each of which is planned to be able to deploy quickly about 1500 personnel.[217]
+, Black Sea.]] Following the Kosovo War in 1999, the European Council agreed that "the Union must have the capacity for autonomous action, backed by credible military forces, the means to decide to use them, and the readiness to do so, in order to respond to international crises without prejudice to actions by NATO". To that end, a number of efforts were made to increase the EU's military capability, notably the Helsinki Headline Goal process. After much discussion, the most concrete result was the EU Battlegroups initiative, each of which is planned to be able to deploy quickly about 1500 personnel.[217]
 
 EU forces have been deployed on peacekeeping missions from middle and northern Africa to the western Balkans and western Asia.[218] EU military operations are supported by a number of bodies, including the European Defence Agency, European Union Satellite Centre and the European Union Military Staff.[219] Frontex is an agency of the EU established to manage the cooperation between national border guards securing its external borders. It aims to detect and stop illegal immigration, human trafficking and terrorist infiltration. In 2015 the European Commission presented its proposal for a new European Border and Coast Guard Agency having a stronger role and mandate along with national authorities for border management. In an EU consisting of 28 members, substantial security and defence co-operation is increasingly relying on collaboration among all member states.[220]
 
 Humanitarian aid
 
-ECHO_plane.jpg in the world.[221][222]]]
+in the world.[221][222]]]
 
 The European Commission's Humanitarian Aid and Civil Protection department, or "ECHO", provides humanitarian aid from the EU to developing countries. In 2012, its budget amounted to €874 million, 51% of the budget went to Africa and 20% to Asia, Latin America, the Caribbean and Pacific, and 20% to the Middle East and Mediterranean.[223]
 
@@ -369,7 +367,7 @@ In 2016, the average among EU countries was 0.4% and five had met or exceeded th
 
 Regional and global influence
 
-Eiffel_Tower_wearing_Europe_colors_-_panoramio.jpg, Paris]] Because of its ability to shape rules and norms on a global level as well as its attempts to influence neighbouring countries, the EU has been called an emerging or potential superpower by scholars and academics like T. R. Reid,[230] Andrew Reding,[231] Andrew Moravcsik,[232] Mark Leonard,[233] Jeremy Rifkin,[234] John McCormick,[235] and some politicians like Romano Prodi[236] and Tony Blair,[237] They believe that the EU is a superpower, or will become one, in the 21st century while noting that, for them, the concept of "superpower" has changed to one of soft power rather than the hard (military) superpowers of the 20th century.
+, Paris]] Because of its ability to shape rules and norms on a global level as well as its attempts to influence neighbouring countries, the EU has been called an emerging or potential superpower by scholars and academics like T. R. Reid,[230] Andrew Reding,[231] Andrew Moravcsik,[232] Mark Leonard,[233] Jeremy Rifkin,[234] John McCormick,[235] and some politicians like Romano Prodi[236] and Tony Blair,[237] They believe that the EU is a superpower, or will become one, in the 21st century while noting that, for them, the concept of "superpower" has changed to one of soft power rather than the hard (military) superpowers of the 20th century.
 
 The EU uses foreign relations instruments like the European Neighbourhood Policy which seeks to tie those countries to the east and south of the European territory of the EU to the Union. These countries, primarily developing countries, include some who seek to one day become either a member state of the European Union, or more closely integrated with the European Union. The EU offers financial assistance to countries within the European Neighbourhood, so long as they meet the strict conditions of government reform, economic reform and other issues surrounding positive transformation. This process is normally underpinned by an Action Plan, as agreed by both Brussels and the target country.
 
@@ -377,8 +375,6 @@ Critics of the concept of the EU as an emerging superpower point to the lack of 
 
 
 Economy
-
-Gross_domestic_product_(GDP)_per_inhabitant_in_purchasing_power_standards_(PPS)_in_relation_to_the_EU-28_average,_by_NUTS_2_regions,_2015.png
 
 ImageSize = width:300 height:175 PlotArea = left:50 bottom:40 top:10 right:10 AlignBars = justify DateFormat = yyyy Period = from:0 till:30000 TimeAxis = orientation:horizontal
 
@@ -440,7 +436,7 @@ The free movement of services and of establishment allows self-employed persons 
 
 Monetary union
 
-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_13.jpg in Frankfurt. 19 of the 28 EU member states have adopted the euro as their legal tender.]] BlueEurozone.svg (dark blue) represents 340 million people. The euro is the second-largest reserve currency in the world.]] LV_1_eiro.png national side.]] The creation of a European single currency became an official objective of the European Economic Community in 1969. In 1992, having negotiated the structure and procedures of a currency union, the member states signed the Maastricht Treaty and were legally bound to fulfil the agreed-on rules including the convergence criteria if they wanted to join the monetary union. The states wanting to participate had first to join the European Exchange Rate Mechanism.
+in Frankfurt. 19 of the 28 EU member states have adopted the euro as their legal tender.]] (dark blue) represents 340 million people. The euro is the second-largest reserve currency in the world.]] national side.]] The creation of a European single currency became an official objective of the European Economic Community in 1969. In 1992, having negotiated the structure and procedures of a currency union, the member states signed the Maastricht Treaty and were legally bound to fulfil the agreed-on rules including the convergence criteria if they wanted to join the monetary union. The states wanting to participate had first to join the European Exchange Rate Mechanism.
 
 In 1999 the currency union started, first as an accounting currency with eleven member states joining. In 2002, the currency was fully put into place, when euro notes and coins were issued and national currencies began to phase out in the eurozone, which by then consisted of 12 member states. The eurozone (constituted by the EU member states which have adopted the euro) has since grown to 19 countries.[261][262]
 
@@ -462,7 +458,7 @@ In 2007, EU countries as a whole imported 82% of their oil, 57% of their natural
 
 Infrastructure
 
-Europe_Completed_Motorways_Dec_2012.png The EU is working to improve cross-border infrastructure within the EU, for example through the Trans-European Networks (TEN). Projects under TEN include the Channel Tunnel, LGV Est, the Fréjus Rail Tunnel, the Öresund Bridge, the Brenner Base Tunnel and the Strait of Messina Bridge. In 2010 the estimated network covers: of roads; of railways; 330 airports; 270 maritime harbours; and 210 internal harbours.[275][276]
+The EU is working to improve cross-border infrastructure within the EU, for example through the Trans-European Networks (TEN). Projects under TEN include the Channel Tunnel, LGV Est, the Fréjus Rail Tunnel, the Öresund Bridge, the Brenner Base Tunnel and the Strait of Messina Bridge. In 2010 the estimated network covers: of roads; of railways; 330 airports; 270 maritime harbours; and 210 internal harbours.[275][276]
 
 Rail transport in Europe is being synchronised with the European Rail Traffic Management System (ERTMS), an initiative to greatly enhance safety, increase efficiency of trains and enhance cross-border interoperability of rail transport in Europe by replacing signalling equipment with digitised mostly wireless versions and by creating a single Europe-wide standard for train control and command systems.
 
@@ -474,7 +470,7 @@ The Galileo positioning system is another EU infrastructure project. Galileo is 
 
 Agriculture
 
-RO_BZ_Pietroasele_vineyard.jpg; EU farms are supported by the Common Agricultural Policy, the largest budgetary expenditure.]]
+; EU farms are supported by the Common Agricultural Policy, the largest budgetary expenditure.]]
 
 The Common Agricultural Policy (CAP) is one of the long lasting policies of the European Community.[280] The policy has the objectives of increasing agricultural production, providing certainty in food supplies, ensuring a high quality of life for farmers, stabilising markets, and ensuring reasonable prices for consumers.[281] It was, until recently, operated by a system of subsidies and market intervention. Until the 1990s, the policy accounted for over 60% of the then European Community's annual budget, and accounts for around 34%.[282]
 
@@ -495,11 +491,11 @@ The EU has long sought to mitigate the effects of free markets by protecting wor
 
 Environment
 
-European_Environment_Agency,_Copenhagen.jpg in Copenhagen.]] In 1957, when the EEC was founded, it had no environmental policy.[292] Over the past 50 years, an increasingly dense network of legislation has been created, extending to all areas of environmental protection, including air pollution, water quality, waste management, nature conservation, and the control of chemicals, industrial hazards, and biotechnology.[293] According to the Institute for European Environmental Policy, environmental law comprises over 500 Directives, Regulations and Decisions, making environmental policy a core area of European politics.[294]
+in Copenhagen.]] In 1957, when the EEC was founded, it had no environmental policy.[292] Over the past 50 years, an increasingly dense network of legislation has been created, extending to all areas of environmental protection, including air pollution, water quality, waste management, nature conservation, and the control of chemicals, industrial hazards, and biotechnology.[293] According to the Institute for European Environmental Policy, environmental law comprises over 500 Directives, Regulations and Decisions, making environmental policy a core area of European politics.[294]
 
 European policy-makers originally increased the EU's capacity to act on environmental issues by defining it as a trade problem.[295] Trade barriers and competitive distortions in the Common Market could emerge due to the different environmental standards in each member state.[296] In subsequent years, the environment became a formal policy area, with its own policy actors, principles and procedures. The legal basis for EU environmental policy was established with the introduction of the Single European Act in 1987.[297]
 
-European_Union_biogeography_countries.svg of the continental European Union, according to the European Environmental Agency]] Initially, EU environmental policy focused on Europe. More recently, the EU has demonstrated leadership in global environmental governance, e.g. the role of the EU in securing the ratification and coming into force of the Kyoto Protocol despite opposition from the United States. This international dimension is reflected in the EU's Sixth Environmental Action Programme,[298] which recognises that its objectives can only be achieved if key international agreements are actively supported and properly implemented both at EU level and worldwide. The Lisbon Treaty further strengthened the leadership ambitions.[299] EU law has played a significant role in improving habitat and species protection in Europe, as well as contributing to improvements in air and water quality and waste management.[300]
+of the continental European Union, according to the European Environmental Agency]] Initially, EU environmental policy focused on Europe. More recently, the EU has demonstrated leadership in global environmental governance, e.g. the role of the EU in securing the ratification and coming into force of the Kyoto Protocol despite opposition from the United States. This international dimension is reflected in the EU's Sixth Environmental Action Programme,[298] which recognises that its objectives can only be achieved if key international agreements are actively supported and properly implemented both at EU level and worldwide. The Lisbon Treaty further strengthened the leadership ambitions.[299] EU law has played a significant role in improving habitat and species protection in Europe, as well as contributing to improvements in air and water quality and waste management.[300]
 
 Mitigating climate change is one of the top priorities of EU environmental policy. In 2007, member states agreed that, in the future, 20% of the energy used across the EU must be renewable, and carbon dioxide emissions have to be lower in 2020 by at least 20% compared to 1990 levels.[301] The EU has adopted an emissions trading system to incorporate carbon emissions into the economy.[302] The European Green Capital is an annual award given to cities that focuses on the environment, energy efficiency, and quality of life in urban areas to create smart city.
 
@@ -509,7 +505,7 @@ Proposals to reach a zero carbon economy in the European Union by 2050 were sugg
 
 Education and science
 
-Holbein-erasmus.jpg, the Renaissance humanist after whom the Erasmus Programme is named]] Basic education is an area where the EU's role is limited to supporting national governments. In higher education, the policy was developed in the 1980s in programmes supporting exchanges and mobility. The most visible of these has been the Erasmus Programme, a university exchange programme which began in 1987. In its first 20 years, it supported international exchange opportunities for well over 1.5 million university and college students and became a symbol of European student life.[305]
+, the Renaissance humanist after whom the Erasmus Programme is named]] Basic education is an area where the EU's role is limited to supporting national governments. In higher education, the policy was developed in the 1980s in programmes supporting exchanges and mobility. The most visible of these has been the Erasmus Programme, a university exchange programme which began in 1987. In its first 20 years, it supported international exchange opportunities for well over 1.5 million university and college students and became a symbol of European student life.[305]
 
 There are similar programmes for school pupils and teachers, for trainees in vocational education and training, and for adult learners in the Lifelong Learning Programme 2007–2013. These programmes are designed to encourage a wider knowledge of other countries and to spread good practices in the education and training fields across the EU.[306][307] Through its support of the Bologna Process, the EU is supporting comparable standards and compatible degrees across Europe.
 
@@ -517,7 +513,6 @@ Scientific development is facilitated through the EU's Framework Programmes, the
 
 Health care
 
-EHIC_Slovenia.jpg
 (Slovenian version pictured)]]
 
 Although the EU has no major competences in the field of health care, Article 35 of the Charter of Fundamental Rights of the European Union affirms that "A high level of human health protection shall be ensured in the definition and implementation of all Union policies and activities". The European Commission's Directorate-General for Health and Consumers seeks to align national laws on the protection of people's health, on the consumers' rights, on the safety of food and other products.[310][311][312]
@@ -527,13 +522,13 @@ All EU and many other European countries offer their citizens a free European He
 
 Culture
 
-View_of_the_Acropolis_Athens_2_(pixinn.net).jpg programme was launched in the summer of 1985 with Athens being the first title-holder]]
+programme was launched in the summer of 1985 with Athens being the first title-holder]]
 
 Cultural co-operation between member states has been a concern of the EU since its inclusion as a community competency in the Maastricht Treaty.[317] Actions taken in the cultural area by the EU include the Culture 2000 seven-year programme,[318] the European Cultural Month event,[319] and orchestras such as the European Union Youth Orchestra.[320] The European Capital of Culture programme selects one or more cities in every year to assist the cultural development of that city.[321]
 
 Sport
 
-Camp_Nou_-_Interior_(2005).jpg in Barcelona)]]
+in Barcelona)]]
 
 Association football is by far the most popular sport in the European Union by the number of registered players. The other sports with the most participants in clubs are tennis, swimming, athletics, golf, gymnastics, equestrian sports, handball, volleyball and sailing.[322]
 
@@ -543,17 +538,17 @@ The Treaty of Lisbon requires any application of economic rules to take into acc
 
 Symbols
 
-Aachen_Domschatz_Bueste1.jpg with the German _Reichsadler_ embossed on the metal and the French fleur-de-lis embroidered on the fabric. Aachen Cathedral Treasury]] The flag used is the Flag of Europe, which consists of a circle of 12 golden stars on a blue background. The blue represents the West, while the number and position of the stars represent completeness and unity, respectively.[327] Originally designed in 1955 for the Council of Europe, the flag was adopted by the European Communities, the predecessors of the present Union, in 1986.
+with the German _Reichsadler_ embossed on the metal and the French fleur-de-lis embroidered on the fabric. Aachen Cathedral Treasury]] The flag used is the Flag of Europe, which consists of a circle of 12 golden stars on a blue background. The blue represents the West, while the number and position of the stars represent completeness and unity, respectively.[327] Originally designed in 1955 for the Council of Europe, the flag was adopted by the European Communities, the predecessors of the present Union, in 1986.
 
 _United in Diversity_ was adopted as the motto of the Union in the year 2000, having been selected from proposals submitted by school pupils. Since 1985, the flag day of the Union has been Europe Day, on 9 May (the date of the 1950 Schuman declaration). The anthem of the Union is an instrumental version of the prelude to the _Ode to Joy_, the 4th movement of Ludwig van Beethoven's ninth symphony. The anthem was adopted by European Community leaders in 1985 and has since been played on official occasions.[328]
 
-Besides naming the continent, the Greek mythological figure of Europa has frequently been employed as a personification of Europe. Known from the myth in which Zeus seduces her in the guise of a white bull, Europa has also been referred to in relation to the present Union. Statues of Europa and the bull decorate several of the Union's institutions and a portrait of her is seen on the 2013 series of Euro banknotes. The bull is, for its part, depicted on all residence permit cards. The_Abduction_of_Europa,_Jean-François_de_Troy.jpg and the bull, depicted by Jean-François de Troy (1716)]] Charles the Great, also known as Charlemagne () and later recognised as _Pater Europae_ ("Father of Europe"),[329][330][331] has a symbolic relevance to Europe. The Commission has named one of its central buildings in Brussels after Charlemagne and the city of Aachen has since 1949 awarded the Charlemagne Prize to champions of European unification.[332] Since 2008, the organisers of this prize, in conjunction with the European Parliament, have awarded the Charlemagne Youth Prize in recognition of similar efforts by young people.[333]
+Besides naming the continent, the Greek mythological figure of Europa has frequently been employed as a personification of Europe. Known from the myth in which Zeus seduces her in the guise of a white bull, Europa has also been referred to in relation to the present Union. Statues of Europa and the bull decorate several of the Union's institutions and a portrait of her is seen on the 2013 series of Euro banknotes. The bull is, for its part, depicted on all residence permit cards. and the bull, depicted by Jean-François de Troy (1716)]] Charles the Great, also known as Charlemagne () and later recognised as _Pater Europae_ ("Father of Europe"),[329][330][331] has a symbolic relevance to Europe. The Commission has named one of its central buildings in Brussels after Charlemagne and the city of Aachen has since 1949 awarded the Charlemagne Prize to champions of European unification.[332] Since 2008, the organisers of this prize, in conjunction with the European Parliament, have awarded the Charlemagne Youth Prize in recognition of similar efforts by young people.[333]
 
 In 1997, Polish-born Pope John Paul II canonised Poland's 14th-century monarch Jadwiga as Saint Hedwig, the patron saint of queens and of European unification[334]
 
 Media
 
-Siège_d'Euronews.jpg headquarters in Lyon, France]] Loreen_Eurovision_2012_winner.jpg, winner of the Eurovision Song Contest 2012.]] Media freedom is a fundamental right that applies to all member states of the European Union and its citizens, as defined in the EU Charter of Fundamental Rights as well as the European Convention on Human Rights.[335] Within the EU enlargement process, guaranteeing media freedom is named a "key indicator of a country's readiness to become part of the EU".[336]
+headquarters in Lyon, France]] , winner of the Eurovision Song Contest 2012.]] Media freedom is a fundamental right that applies to all member states of the European Union and its citizens, as defined in the EU Charter of Fundamental Rights as well as the European Convention on Human Rights.[335] Within the EU enlargement process, guaranteeing media freedom is named a "key indicator of a country's readiness to become part of the EU".[336]
 
 The vast majority of media in the European Union are national-oriented. However, some EU-wide media focusing on European affairs have emerged since the early 1990s, such as Euronews, EUobserver, EURACTIV or Politico Europe.[337] ARTE is a public Franco-German TV network that promotes programming in the areas of culture and the arts. 80% of its programming are provided in equal proportion by the two member companies, while the remainder is being provided by the European Economic Interest Grouping _ARTE GEIE_ and the channel's European partners.[338]
 

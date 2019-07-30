@@ -1,4 +1,4 @@
-Amsterdam_-_Museum_Willet-Holthuysen_18.JPG is the ancient Greek goddess of beauty and love.]]
+is the ancient Greek goddess of beauty and love.]]
 
 A GODDESS is a female deity.[1] Goddesses have been linked with virtues such as beauty, love, motherhood and fertility (Mother-goddess cult in prehistoric times). They have also been associated with ideas such as war, creation, and death.
 
@@ -16,7 +16,7 @@ The noun _goddess_ is a secondary formation, combining the Germanic _god_ with t
 
 Earth or Mother Goddesses
 
-Ancient_Egyptian_Goddess.JPG. The gender is suggested by the lack of a beard, and the simple hairstyle points to the divine status of the subject.]]
+. The gender is suggested by the lack of a beard, and the simple hairstyle points to the divine status of the subject.]]
 
 Joseph Campbell in _The Power of Myth_, a 1988 interview with Bill Moyers,[3] links the image of the Earth or Mother Goddess to symbols of fertility and reproduction.[4] For example, Campbell states that, "There have been systems of religion where the mother is the prime parent, the source... We talk of Mother Earth. And in Egypt you have the Mother Heavens, the Goddess Nut, who is represented as the whole heavenly sphere".[5] Campbell continues by stating that the correlation between fertility and the Goddess found its roots in agriculture.[6]
 
@@ -31,7 +31,7 @@ Inanna was the most worshipped goddess in ancient Sumer.[7][8][9] She was later 
 
 Ancient Africa (Egypt)
 
-Goddess_Neith_E3730_mp3h8826.jpg wearing the Deshret crown of northern (lower) Egypt, which bears the cobra of Wadjet.]]
+wearing the Deshret crown of northern (lower) Egypt, which bears the cobra of Wadjet.]]
 
 -   Goddesses of the Ennead of Heliopolis: Tefnut, Nut, Nephthys, Isis
 -   Goddesses of the Ogdoad of Hermopolis: Naunet, Amaunet, Kauket, Hauhet; originally a cult of Hathor
@@ -74,7 +74,7 @@ Iranian
 
 Greco-Roman
 
-Ceres_statue.jpg of Ceres, the Roman goddess of agriculture]]
+of Ceres, the Roman goddess of agriculture]]
 
 -   Eleusinian Mysteries: Persephone, Demeter, Baubo
 -   Artemis: Goddess of the wilderness, wild animals, virginity, childbirth and the hunt.
@@ -102,7 +102,7 @@ The Celts honored goddesses of nature and natural forces, as well as those conne
 
 Germanic
 
-Freia_Gestures_to_Hyndla_by_Frølich.jpg is nuzzled by the boar Hildisvíni while gesturing to Hyndla (1895) by Lorenz Frølich.]]
+is nuzzled by the boar Hildisvíni while gesturing to Hyndla (1895) by Lorenz Frølich.]]
 
 Surviving accounts of Germanic mythology and Norse mythology contain numerous tales of female goddesses, giantesses, and divine female figures in their scriptures. The Germanic peoples had altars erected to the "Mothers and Matrons" and held celebrations specific to these goddesses (such as the Anglo-Saxon "Mothers-night"). Various other female deities are attested among the Germanic peoples, such as Nerthus attested in an early account of the Germanic peoples, Ēostre attested among the pagan Anglo-Saxons, and Sinthgunt attested among the pagan continental Germanic peoples. Examples of goddesses attested in Norse mythology include Frigg (wife of Odin, and the Anglo-Saxon version of whom is namesake of the modern English weekday Friday), Skaði (one time wife of Njörðr), Njerda (Scandinavian name of Nerthus), that also was married to Njörðr during Bronze Age, Freyja (wife of Óðr), Sif (wife of Thor), Gerðr (wife of Freyr), and personifications such as Jörð (earth), Sól (the sun), and Nótt (night). Female deities also play heavily into the Norse concept of death, where half of those slain in battle enter Freyja's field Fólkvangr, Hel's realm of the same name, and Rán who receives those who die at sea. Other female deities such as the valkyries, the norns, and the dísir are associated with a Germanic concept of fate (Old Norse _Ørlög_, Old English _Wyrd_), and celebrations were held in their honor, such as the Dísablót and Disting.
 
@@ -110,7 +110,7 @@ Pre-Columbian America
 
 Aztec
 
-Toci_and_Xochiquetzal,_Two_Aztec_Goddesses_WDL6731.png (left) and Chalchiuhtlicue (right) as depicted in the Tovar Codex.]]
+(left) and Chalchiuhtlicue (right) as depicted in the Tovar Codex.]]
 
 -   Chalchiuhtlicue: goddess of water (rivers, seas, storms, etc.)
 -   Chantico: goddess of the hearth, flames
@@ -131,7 +131,7 @@ Folk religion and animism
 
 African religions
 
-クマリnepalネパールImg683.jpgi girl being worshipped as a living Goddess, called a kumari]]
+i girl being worshipped as a living Goddess, called a kumari]]
 
 In African and African diasporic religions, goddesses are often syncretized with Marian devotion, as in Ezili Dantor (Black Madonna of Częstochowa) and Erzulie Freda (Mater Dolorosa). There is also Buk, an Ethiopian goddess still worshipped in the southern regions. She represents the fertile aspect of women. So when a woman is having her period not only does it signify her submission to nature but also her union with the goddess. Another Ethiopian goddess is Atete—the goddess of spring and fertility. Farmers traditionally leave some of their products at the end of each harvesting season as an offering while women sing traditional songs.
 
@@ -149,7 +149,7 @@ Goddess Amaterasu is the chief among the Shinto gods, while there are important 
 
 Hinduism
 
-Durga_Mahisasuramardini.JPG killing the buffalo-demon Mahishasura.]] Hinduism is a complex of various belief systems that sees many gods and goddesses as being representative of and/or emanative from a single source, Brahman, understood either as a formless, infinite, impersonal monad in the Advaita tradition or as a dual god in the form of Lakshmi-Vishnu, Radha-Krishna, Shiva-Shakti in Dvaita traditions. Shaktas, worshippers of the Goddess, equate this god with Devi, the mother goddess. Such aspects of one god as male god (Shaktiman) and female energy (Shakti), working as a pair are often envisioned as male gods and their wives or consorts and provide many analogues between passive male ground and dynamic female energy.
+killing the buffalo-demon Mahishasura.]] Hinduism is a complex of various belief systems that sees many gods and goddesses as being representative of and/or emanative from a single source, Brahman, understood either as a formless, infinite, impersonal monad in the Advaita tradition or as a dual god in the form of Lakshmi-Vishnu, Radha-Krishna, Shiva-Shakti in Dvaita traditions. Shaktas, worshippers of the Goddess, equate this god with Devi, the mother goddess. Such aspects of one god as male god (Shaktiman) and female energy (Shakti), working as a pair are often envisioned as male gods and their wives or consorts and provide many analogues between passive male ground and dynamic female energy.
 
 For example, Brahma pairs with Sarasvati. Shiva likewise pairs with Parvati who later is represented through a number of Avatars (incarnations): Sati and the warrior figures, Durga and Kali. All goddesses in Hinduism are sometimes grouped together as the great goddess, Devi.
 
@@ -179,7 +179,7 @@ The following female deities are mentioned in prominent Hebrew texts:
 
 Christianity
 
-Sophia_design.jpg design on a Harmony Society doorway in Harmony, Pennsylvania, carved by Frederick Reichert Rapp (1775–1834).]]
+design on a Harmony Society doorway in Harmony, Pennsylvania, carved by Frederick Reichert Rapp (1775–1834).]]
 
 In Christianity, worship of any other deity besides the Trinity was deemed heretical. The veneration of Mary, the mother of Jesus Christ, as an especially privileged saint has continued since the beginning of the Catholic faith. Mary is venerated as the Mother of God, Queen of Heaven, Mother of the Church, Our Lady, Star of the Sea, and other lofty titles. Marian devotion similar to this kind is also found in Eastern Orthodoxy and sometimes in Anglicanism, though not in the majority of denominations of Protestantism. That being said, the Virgin Mary is not a goddess.
 
@@ -192,7 +192,7 @@ In Mysticism, Gnosticism, as well as some Hellenistic religions, there is a fema
 
 Feminism
 
-Isis_Musei_Capitolini_MC744.jpg, statue of Isis in marble from the Musei Capitolini.]]
+, statue of Isis in marble from the Musei Capitolini.]]
 
 Goddess movement
 
@@ -218,7 +218,7 @@ Most Modern Pagan traditions honour one or more goddesses. While some who follow
 
 Wicca
 
-Triple-Goddess-Waxing-Full-Waning-Symbol.svg symbol.]]
+symbol.]]
 
 In Wicca "the Goddess" is a deity of prime importance, along with her consort the Horned God. Within many forms of Wicca the Goddess has come to be considered as a universal deity, more in line with her description in the Charge of the Goddess, a key Wiccan text. In this guise she is the "Queen of Heaven", similar to Isis. She also encompasses and conceives all life, much like Gaia. Similarly to Isis and certain late Classical conceptions of Selene, she is the summation of all other goddesses, who represent her different names and aspects across the different cultures. The Goddess is often portrayed with strong lunar symbolism, drawing on various cultures and deities such as Diana, Hecate, and Isis, and is often depicted as the Maiden, Mother, and Crone triad popularised by Robert Graves (see Triple Goddess below). Many depictions of her also draw strongly on Celtic goddesses. Some Wiccans believe there are many goddesses, and in some forms of Wicca, notably Dianic Wicca, the Goddess alone is worshipped, and the God plays very little part in their worship and ritual.
 

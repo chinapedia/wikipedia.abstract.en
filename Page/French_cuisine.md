@@ -1,4 +1,4 @@
-Jacques_Lameloise,_escabèche_d'écrevisses_sur_gaspacho_d'asperge_et_cresson.jpg presentation]] Cuisine_Trois_étoiles.jpg presentation]] French_taste_of_wines.JPGs are usually made to accompany French cuisine.]]
+presentation]] presentation]] s are usually made to accompany French cuisine.]]
 
 FRENCH CUISINE consists of the cooking traditions and practices from France.
 
@@ -13,7 +13,7 @@ History
 
 Middle Ages
 
-   Les_Très_Riches_Heures_du_duc_de_Berry_Janvier.jpg enjoying a grand meal. The Duke is sitting with a cardinal at the high table, under a luxurious baldaquin, in front of the fireplace, tended to by several servants, including a carver. On the table to the left of the Duke is a golden salt cellar, or _nef_, in the shape of a ship; illustration from _Très Riches Heures du Duc de Berry_, circa 1410.]]
+    enjoying a grand meal. The Duke is sitting with a cardinal at the high table, under a luxurious baldaquin, in front of the fireplace, tended to by several servants, including a carver. On the table to the left of the Duke is a golden salt cellar, or _nef_, in the shape of a ship; illustration from _Très Riches Heures du Duc de Berry_, circa 1410.]]
 
 In French medieval cuisine, banquets were common among the aristocracy. Multiple courses would be prepared, but served in a style called _service en confusion_, or all at once. Food was generally eaten by hand, meats being sliced off in large pieces held between the thumb and two fingers. The sauces were highly seasoned and thick, and heavily flavored mustards were used. Pies were a common banquet item, with the crust serving primarily as a container, rather than as food itself, and it was not until the very end of the Late Middle Ages that the shortcrust pie was developed. Meals often ended with an _issue de table_, which later changed into the modern dessert, and typically consisted of _dragées_ (in the Middle Ages, meaning spiced lumps of hardened sugar or honey), aged cheese and spiced wine, such as hypocras.[3]
 
@@ -41,7 +41,7 @@ The successive updates of _Le Cuisinier roïal et bourgeois_ include important r
 
 Late 18th century – early 19th century
 
-Marie_Leszczyńska,_reine_de_France_(original_copy)_by_Jean-Marc_Nattier.png Marie Leszczyńska, influenced French cuisine.]] M-A-Careme.jpg]] Shortly before the French Revolution, dishes like bouchées à la Reine gained prominence. Essentially royal cuisine produced by the royal household, this is a chicken-based recipe served on vol-au-vent created under the influence of Queen Marie Leszczyńska, the wife of Louis XV. This recipe is still popular today, as are other recipes from Queen Marie Leszczyńska like consommé à la Reine and filet d'aloyau braisé à la royale. Queen Marie is also credited with introducing lentilles to the French diet.
+Marie Leszczyńska, influenced French cuisine.]] ]] Shortly before the French Revolution, dishes like bouchées à la Reine gained prominence. Essentially royal cuisine produced by the royal household, this is a chicken-based recipe served on vol-au-vent created under the influence of Queen Marie Leszczyńska, the wife of Louis XV. This recipe is still popular today, as are other recipes from Queen Marie Leszczyńska like consommé à la Reine and filet d'aloyau braisé à la royale. Queen Marie is also credited with introducing lentilles to the French diet.
 
 The French Revolution was integral to the expansion of French cuisine, because it abolished the guild system. This meant anyone could now produce and sell any culinary item he wished. Bread was a significant food source among peasants and the working class in the late 18th century, with many of the nation’s people being dependent on it. In French provinces, bread was often consumed three times a day by the people of France.[16] According to Brace, bread was referred to as the basic dietary item for the masses, and it was also used as a foundation for soup. In fact, bread was so important that harvest, interruption of commerce by wars, heavy flour exploration, and prices and supply were all watched and controlled by the French Government. Among the underprivileged, constant fear of famine was always prevalent. From 1725 to 1789, there was fourteen years of bad yields to blame for low grain supply. In Bordeaux, during 1708-1789, thirty-three bad harvests occurred.[17]
 
@@ -51,7 +51,7 @@ More important to Carême's career was his contribution to the refinement of Fre
 
 Late 19th century – early 20th century
 
-Auguste_Escoffier_01.jpg]] Georges Auguste Escoffier is commonly acknowledged as the central figure to the modernization of haute cuisine and organizing what would become the national cuisine of France. His influence began with the rise of some of the great hotels in Europe and America during the 1880s – 1890s. The Savoy Hotel managed by César Ritz was an early hotel in which Escoffier worked, but much of his influence came during his management of the kitchens in the Carlton from 1898 until 1921. He created a system of "parties" called the brigade system, which separated the professional kitchen into five separate stations.
+]] Georges Auguste Escoffier is commonly acknowledged as the central figure to the modernization of haute cuisine and organizing what would become the national cuisine of France. His influence began with the rise of some of the great hotels in Europe and America during the 1880s – 1890s. The Savoy Hotel managed by César Ritz was an early hotel in which Escoffier worked, but much of his influence came during his management of the kitchens in the Carlton from 1898 until 1921. He created a system of "parties" called the brigade system, which separated the professional kitchen into five separate stations.
 
 These five stations included the "garde manger" that prepared cold dishes; the "entremettier" prepared starches and vegetables, the "rôtisseur" prepared roasts, grilled and fried dishes; the "saucier" prepared sauces and soups; and the "pâtissier" prepared all pastry and desserts items. This system meant that instead of one person preparing a dish on one's own, now multiple cooks would prepare the different components for the dish. An example used is "oeufs au plat Meyerbeer", the prior system would take up to fifteen minutes to prepare the dish, while in the new system, the eggs would be prepared by the entremettier, kidney grilled by the rôtisseur, truffle sauce made by the saucier and thus the dish could be prepared in a shorter time and served quickly in the popular restaurants.[20]
 
@@ -63,7 +63,7 @@ Expensive ingredients would replace the common ingredients, making the dishes mu
 
 Mid-20th century – late 20th century
 
-Paul_Bocuse.jpg]] The 1960s brought about innovative thought to the French cuisine, especially because of the contribution of Portuguese immigrants who had come to the country fleeing the forced drafting to the Colonial Wars Portugal was fighting in Africa. Many new dishes were introduced, as well as techniques.
+]] The 1960s brought about innovative thought to the French cuisine, especially because of the contribution of Portuguese immigrants who had come to the country fleeing the forced drafting to the Colonial Wars Portugal was fighting in Africa. Many new dishes were introduced, as well as techniques.
 
 This period is also marked by the appearance of the nouvelle cuisine. The term "nouvelle cuisine" has been used many times in the history of French cuisine which emphasized the freshness, lightness and clarity of flavor and inspired by new movements in world cuisine. In the 1740s, Menon first used the term, but the cooking of Vincent La Chapelle and François Marin was also considered modern. In the 1960s, Henri Gault and Christian Millau revived it to describe the cooking of Paul Bocuse, Jean and Pierre Troisgros, Michel Guérard, Roger Vergé and Raymond Oliver.[24] These chefs were working toward rebelling against the "orthodoxy" of Escoffier's cuisine. Some of the chefs were students of Fernand Point at the _Pyramide_ in Vienne, and had left to open their own restaurants. Gault and Millau "discovered the formula" contained in ten characteristics of this new style of cooking.[25]
 
@@ -97,7 +97,7 @@ File:Creme Brulee.jpeg|_Crème brûlée_ File:Chocolate mousse.jpg|_Mousse au ch
 
 Regional cuisine
 
-Départements+régions_(France).svg and 96 departments of metropolitan France include Corsica (_Corse_, lower right). Paris area is expanded (inset at left).]]
+and 96 departments of metropolitan France include Corsica (_Corse_, lower right). Paris area is expanded (inset at left).]]
 
 French regional cuisine is characterized by its extreme diversity and style. Traditionally, each region of France has its own distinctive cuisine.[29]
 
@@ -110,8 +110,6 @@ Champagne, Lorraine, and Alsace
 Game and ham are popular in Champagne, as well as the special sparkling wine simply known as _Champagne_. Fine fruit preserves are known from Lorraine as well as the quiche Lorraine. Alsace is influenced by the German cuisine, especially the one from the Palatinate and Baden region. As such, beers made in the area are similar to the style of bordering Germany. Dishes like choucroute (the French word for sauerkraut) are also popular.[31] Many "Eaux de Vie" (alcoholic distillation) also called schnaps is from this region, due to a wide variety of local fruits (cherry, raspberry, pear, grapes) and especially prunes (mirabelle, plum).[9]:259,295
 
 File:Champagne flute and bottle.jpg|_Flute_ of _Champagne_ wine File:Tarte flambée alsacienne 514471722.jpg|Alsatian _Flammekueche_ File:Andouillette.jpg|_Andouillette_ File:Quiches 2.jpg|''Quiche
-
-Jean_François_Tourcaty,_Carte_Gastronomique_de_la_France,_1809_Cornell_CUL_PJM_1033_01.jpg
 
 Nord Pas-de-Calais, Picardy, Normandy, and Brittany
 
@@ -131,7 +129,7 @@ File:Coq morilles.jpg|_Coq au vin jaune_ File:Poulet de Bresse.jpg|_Poulet à la
 
 Auvergne-Rhône-Alpes
 
-Grand_sechoir.jpg in Vinay, Isère]] Salade_lyonnaise.JPG Patrimoine_local_l'abricot.jpg apricots]] Chestnut.jpgs]]
+in Vinay, Isère]] apricots]] s]]
 
 The area covers the old province of Dauphiné, once known as the "larder" of France, that gave its name to Gratin dauphinois.[35] The Gratin Dauphinois is traditionally made in an old large baking dish rubbed with garlic. Layers of successively potatoes, salt, pepper and cream are piled up to the top of the dish. It will be baked in the oven at low temperature for 2 hours.[36] Fruit and young vegetables are popular in the cuisine from the Rhône valley, as are great wines like Hermitage AOC, Crozes-Hermitage AOC and Condrieu AOC. Walnuts and walnut products and oil from Noix de Grenoble AOC, lowland cheeses, like St. Marcellin, St. Félicien and Bleu du Vercors-Sassenage. Poultry from Bresse, guinea fowl from Drôme and fish from the Dombes, a light yeast-based cake, called Pogne de Romans and the regional speciality, Raviole du Dauphiné, and there is the short-crust "Suisse", a Valence biscuit speciality. Lakes and mountain streams in Rhône-Alpes are key to the cuisine as well. Lyon and Savoy supply sausages while the Alpine regions supply their specialty cheeses like Beaufort, Abondance, Reblochon, Tomme and Vacherin. _Mères lyonnaises_ are female restaurateurs particular to this region who provide local gourmet establishments.[37] Celebrated chefs from this region include Fernand Point, Paul Bocuse, the Troisgros brothers and Alain Chapel.[38] The Chartreuse Mountains, also in the region, are the source of the green and yellow Digestif liquor, Chartreuse produced by the monks of the Grande Chartreuse.[39] Since the 2014 administrative reform, the ancient area of Auvergne is now part of the region. One of its leading chefs is Regis Marcon.
 
@@ -173,7 +171,7 @@ Goats and sheep proliferate on the island of Corsica, and lamb are used to prepa
 
 French Guiana
 
-Dizé_milé_avec_crème_impériale_et_glace_coco.JPG with a coconut ice cream and an imperial cream]] FRENCH GUIANAN CUISINE or GUIANAN CUISINE is a blend of the different cultures that have settled in French Guiana. Creole and Chinese restaurants are common in major cities such as Cayenne, Kourou and Saint-Laurent-du-Maroni. Many indigenous animal species such as caiman and tapir are used in spiced stews.
+with a coconut ice cream and an imperial cream]] FRENCH GUIANAN CUISINE or GUIANAN CUISINE is a blend of the different cultures that have settled in French Guiana. Creole and Chinese restaurants are common in major cities such as Cayenne, Kourou and Saint-Laurent-du-Maroni. Many indigenous animal species such as caiman and tapir are used in spiced stews.
 
 
 Specialties by season
@@ -206,7 +204,7 @@ Structure of meals
 
 Breakfast
 
-Cafe_con_leche_y_cruasán.jpg with a croissant for breakfast]]
+with a croissant for breakfast]]
 
 _Le petit déjeuner_ (breakfast) is traditionally a quick meal consisting of _tartines_ (slices) of French bread with butter and honey or jam (sometimes brioche), along with café au lait (also called "café crème"), or black coffee, or tea[49] and rarely hot chicory. Children often drink hot chocolate in bowls or cups along with their breakfasts. _Croissants_, _pain aux raisins_ or _pain au chocolat_ (also named _chocolatine_ in the south of France) are mostly included as a weekend treat. Breakfast of some kind is always served in cafés opening early in the day.
 
@@ -244,12 +242,10 @@ Digestifs are traditionally stronger, and include Cognac, Armagnac, Calvados, Ea
 
 Christmas
 
-A typical French Christmas dish is turkey with chestnuts. Other common dishes are smoked salmon, oysters, caviar and _foie gras_. The Yule log is a very French tradition during Christmas. Chocolate and cakes also occupy a prominent place for Christmas in France. This cuisine is normally accompanied by Champagne. Tradition says that thirteen desserts complete the Christmas meal in reference to the twelve apostles and Christ.[55][56][57][58] Bûche_de_Noël_chocolat_framboise_maison.jpg
+A typical French Christmas dish is turkey with chestnuts. Other common dishes are smoked salmon, oysters, caviar and _foie gras_. The Yule log is a very French tradition during Christmas. Chocolate and cakes also occupy a prominent place for Christmas in France. This cuisine is normally accompanied by Champagne. Tradition says that thirteen desserts complete the Christmas meal in reference to the twelve apostles and Christ.[55][56][57][58]
 
 
 Food establishments
-
-Cooks_050918_154402.jpg
 
 History
 
@@ -259,7 +255,7 @@ The first steps toward the modern restaurant were locations that offered _restor
 
 In 1782 Antoine Beauvilliers, pastry chef to the future Louis XVIII, opened one of the most popular restaurants of the time – the _Grande Taverne de Londres_ – in the arcades of the Palais-Royal. Other restaurants were opened by chefs of the time who were leaving the failing monarchy of France, in the period leading up to the French Revolution. It was these restaurants that expanded upon the limited menus of decades prior, and led to the full restaurants that were completely legalized with the advent of the French Revolution and abolition of the guilds. This and the substantial discretionary income of the French Directory's _nouveau riche_ helped keep these new restaurants in business.[62]
 
-Train_bleu_05.jpg Bouchon_leTablier.jpg, _Le tablier_ (the apron), in Vieux Lyon]] Café_de_Flore.jpg
+, _Le tablier_ (the apron), in Vieux Lyon]]
 
 +---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | English       | French                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Description                                                                                                                                                                                                                                                                                                                                      |

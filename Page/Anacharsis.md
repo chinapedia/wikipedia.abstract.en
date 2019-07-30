@@ -1,4 +1,4 @@
-Anacharsis.jpg.]] ANACHARSIS (; ) was a Scythian philosopher who travelled from his homeland on the northern shores of the Black Sea to Athens in the early 6th century BC and made a great impression as a forthright, outspoken "barbarian". Reputedly a forerunner of the Cynics, none of his works has survived.
+.]] ANACHARSIS (; ) was a Scythian philosopher who travelled from his homeland on the northern shores of the Black Sea to Athens in the early 6th century BC and made a great impression as a forthright, outspoken "barbarian". Reputedly a forerunner of the Cynics, none of his works has survived.
 
 
 Life
@@ -16,7 +16,7 @@ According to Herodotus,[7] when Anacharsis returned to the Scythians he was kill
 
 Ideas
 
-Nuremberg_chronicles_f_60r_1.png'']] None of the works ascribed to him in ancient times, if indeed they were written by him, have survived. He was said to have written a book comparing the laws of the Scythians with the laws of the Greeks, as well as work on the art of war. All that remains of his thought is what later tradition ascribes to him. He became famous for the simplicity of his way of living and his acute observations on the institutions and customs of the Greeks. He exhorted moderation in everything, saying that the vine bears three clusters of grapes: the first wine, pleasure; the second, drunkenness; the third, disgust.[8] So he became a kind of emblem to the Athenians, who inscribed on his statues: 'Restrain your tongues, your appetites, your passions.'
+'']] None of the works ascribed to him in ancient times, if indeed they were written by him, have survived. He was said to have written a book comparing the laws of the Scythians with the laws of the Greeks, as well as work on the art of war. All that remains of his thought is what later tradition ascribes to him. He became famous for the simplicity of his way of living and his acute observations on the institutions and customs of the Greeks. He exhorted moderation in everything, saying that the vine bears three clusters of grapes: the first wine, pleasure; the second, drunkenness; the third, disgust.[8] So he became a kind of emblem to the Athenians, who inscribed on his statues: 'Restrain your tongues, your appetites, your passions.'
 
 There are ten extant letters ascribed to him, one of which is also quoted by Cicero:
 
@@ -37,7 +37,7 @@ Having been informed that Solon was employed to draw up a code of laws for the A
 
 Revival in the 18th century
 
-Sacrifice_cup_-_Székely_Land.jpg In 1788 Jean Jacques Barthelemy (1716–95), a highly esteemed classical scholar and Jesuit, published _The Travels of Anacharsis the Younger in Greece,_ about a young Scythian descended from Anacharsis. The 4-volume work was an imaginary travel journal, one of the first historical novels, which Klemperer called "the encyclopedia of the new cult of the antique" in the late 18th century.[16] It affected the growth of philhellenism in France at the time. The book went through many editions, was reprinted in the United States and translated into German and other languages. It later inspired European sympathy for the Greek struggle for independence and spawned sequels and imitations through the 19th century.
+In 1788 Jean Jacques Barthelemy (1716–95), a highly esteemed classical scholar and Jesuit, published _The Travels of Anacharsis the Younger in Greece,_ about a young Scythian descended from Anacharsis. The 4-volume work was an imaginary travel journal, one of the first historical novels, which Klemperer called "the encyclopedia of the new cult of the antique" in the late 18th century.[16] It affected the growth of philhellenism in France at the time. The book went through many editions, was reprinted in the United States and translated into German and other languages. It later inspired European sympathy for the Greek struggle for independence and spawned sequels and imitations through the 19th century.
 
 
 Quotes

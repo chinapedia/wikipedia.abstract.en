@@ -77,13 +77,11 @@ Bets to insure against blackjack are slightly less likely to be advantageous tha
 
 Rule variations and effects on house edge
 
-_Note: where changes in the house edge due to changes in the rules are stated in percentage terms, the difference is usually stated here in percentage points, not percentage; strictly speaking if, say, an edge of 10% is reduced to 9%, the amount is reduced by ten percent, or by one percentage point._ Double_down.JPG The rules of casino blackjack are generally determined by law or regulation, which establishes certain rule variations allowed at the discretion of the casino. The rules of any particular game are generally posted on or near the table, failing which there is an expectation that casino staff will provide them on request. Over 100 variations of blackjack have been documented.[8]
+_Note: where changes in the house edge due to changes in the rules are stated in percentage terms, the difference is usually stated here in percentage points, not percentage; strictly speaking if, say, an edge of 10% is reduced to 9%, the amount is reduced by ten percent, or by one percentage point._ The rules of casino blackjack are generally determined by law or regulation, which establishes certain rule variations allowed at the discretion of the casino. The rules of any particular game are generally posted on or near the table, failing which there is an expectation that casino staff will provide them on request. Over 100 variations of blackjack have been documented.[8]
 
 As with all casino games, blackjack incorporates a "house edge", a statistical advantage for the casino that is built into the game. The advantage of the dealer's position in blackjack relative to the player comes from the fact that if the player busts, the player loses, regardless of whether the dealer subsequently busts. Nonetheless, blackjack players using basic strategy will lose less than 1% of their total wagered amount with strictly average luck; this is very favorable to the player compared to other casino games. The loss rate of players who deviate from basic strategy through ignorance is generally expected to be greater.
 
 -   DEALER HITS SOFT 17
-
-Soft17.jpg
 
     Each game has a rule about whether the dealer must hit or stand on soft 17, which is generally printed on the table surface. The variation where the dealer must hit soft 17 is abbreviated "H17" in blackjack literature, with "S17" used for the stand-on-soft-17 variation. Substituting an "H17" rule with an "S17" rule in a game benefits the player, decreasing the house edge by about 0.2%.
 
@@ -252,7 +250,7 @@ Blackjack can be played in tournament form. Players start with an equal numbers 
 
 Video blackjack
 
-Video_Blackjack_Machine_at_Seven_Feathers.jpg.]] Some casinos, as well as general betting outlets, provide blackjack among a selection of casino-style games at electronic consoles. Video blackjack game rules are generally more favorable to the house; e.g., paying out only even money for winning blackjacks. Video and online blackjack games generally deal each round from a fresh shoe, rendering card counting ineffective in most situations.
+.]] Some casinos, as well as general betting outlets, provide blackjack among a selection of casino-style games at electronic consoles. Video blackjack game rules are generally more favorable to the house; e.g., paying out only even money for winning blackjacks. Video and online blackjack games generally deal each round from a fresh shoe, rendering card counting ineffective in most situations.
 
 
 Variants of the game

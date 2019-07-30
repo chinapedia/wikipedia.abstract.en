@@ -69,7 +69,7 @@ Other formats are associated with a distinct system, such as:
 
 Lossy audio compression
 
-AudiodatenkompressionManowarThePowerOfThySword.jpgs of audio in an uncompressed format and several lossy formats. The lossy spectrograms show bandlimiting of higher frequencies, a common technique associated with lossy audio compression.]]
+s of audio in an uncompressed format and several lossy formats. The lossy spectrograms show bandlimiting of higher frequencies, a common technique associated with lossy audio compression.]]
 
 Lossy audio compression is used in a wide range of applications. In addition to the direct applications (MP3 players or computers), digitally compressed audio streams are used in most video DVDs, digital television, streaming media on the internet, satellite and cable radio, and increasingly in terrestrial radio broadcasts. Lossy compression typically achieves far greater compression than lossless compression (5–20% of the original size, rather than 50–60%), by discarding less-critical data.[27]
 
@@ -104,7 +104,7 @@ Perhaps the earliest algorithms used in speech encoding (and audio data compress
 
 History
 
-Placa-audioPC-925.jpg for PC, 1990]]
+for PC, 1990]]
 
 In 1950, Bell Labs filed the patent on differential pulse-code modulation (DPCM).[31] Adaptive DPCM (ADPCM) was introduced by P. Cummiskey, Nikil S. Jayant and James L. Flanagan at Bell Labs in 1973.[32][33]
 
@@ -140,7 +140,7 @@ Inter-frame coding works by comparing each frame in the video with the previous 
 
 Hybrid block-based transform formats
 
-Hybrid_video_encoder_processing_stages.svg Today, nearly all commonly used video compression methods (e.g., those in standards approved by the ITU-T or ISO) share the same basic architecture that dates back to H.261 which was standardized in 1988 by the ITU-T. They mostly rely on the DCT, applied to rectangular blocks of neighboring pixels, and temporal prediction using motion vectors, as well as nowadays also an in-loop filtering step.
+Today, nearly all commonly used video compression methods (e.g., those in standards approved by the ITU-T or ISO) share the same basic architecture that dates back to H.261 which was standardized in 1988 by the ITU-T. They mostly rely on the DCT, applied to rectangular blocks of neighboring pixels, and temporal prediction using motion vectors, as well as nowadays also an in-loop filtering step.
 
 In the prediction stage, various deduplication and difference-coding techniques are applied that help decorrelate data and describe new data based on already transmitted data.
 

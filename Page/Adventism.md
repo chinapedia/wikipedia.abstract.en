@@ -13,8 +13,6 @@ Adventism began as an inter-denominational movement. Its most vocal leader was W
 
 Of those who retained the October 22 date, many maintained that Jesus had come not literally but "spiritually", and consequently were known as "spiritualizers". A small minority held that something concrete had indeed happened on October 22, but that this event had been misinterpreted. This belief later emerged and crystallized with the Seventh-day Adventist Church, the largest remaining body today.[8][9]
 
-Adventism-en.svg
-
 Albany Conference (1845)
 
 The Albany Conference in 1845, attended by 61 delegates, was called to attempt to determine the future course and meaning of the Millerite movement. Following this meeting, the "Millerites" then became known as "Adventists" or "Second Adventists". However, the delegates disagreed on several theological points. Four groups emerged from the conference: The Evangelical Adventists, The Life and Advent Union, the Advent Christian Church, and the Seventh-day Adventist Church.

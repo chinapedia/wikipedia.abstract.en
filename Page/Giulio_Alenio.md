@@ -1,4 +1,4 @@
-Alenio1.jpg.]] Alenio2.jpg in a 1620 book by Aleni.]]
+.]] in a 1620 book by Aleni.]]
 
 GIULIO ALENI (; 1582– June 10, 1649), in Chinese , was an Italian Jesuit missionary and scholar. He was born in Leno near Brescia in Italy, at the time part of the Republic of Venice, and died at Yanping in China. He became a member of the Society of Jesus in 1600 and distinguished himself in his knowledge of mathematics and theology.[1]
 

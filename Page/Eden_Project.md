@@ -7,7 +7,7 @@ There are plans to build an Eden Project North in the seaside town of Morecambe,
 
 History
 
-Equus_eden.jpg Eden_Project_sculpture_Made_from_the_detritus_of_modern_living_-_the_teeth_are_computer_mouses.JPG Grasswoman_eden.jpg The clay pit in which the project is sited was in use for over 160 years.[3] In 1981, the pit was used by the BBC as the planet surface of Magrathea in the 1981 TV series of _the Hitchhiker's Guide to the Galaxy_.[4] By the mid-1990s the pit was all but exhausted.[5]
+The clay pit in which the project is sited was in use for over 160 years.[3] In 1981, the pit was used by the BBC as the planet surface of Magrathea in the 1981 TV series of _the Hitchhiker's Guide to the Galaxy_.[4] By the mid-1990s the pit was all but exhausted.[5]
 
 The initial idea for the project dates back to 1996, with construction beginning in 1998. The work was hampered by torrential rain in the first few months of the project, and parts of the pit flooded as it sits below the water table.[6]
 
@@ -37,17 +37,15 @@ The project was conceived by Tim Smit and designed by architect Nicholas Grimsha
 
 Site
 
-Eden_Project_geodesic_domes_panorama.jpg
-
 Layout
 
-The_Bee_(Eden_Project).JPG Once into the attraction, there is a meandering path with views of the two biomes, planted landscapes, including vegetable gardens, and sculptures that include a giant bee and previously The WEEE Man (removed in 2016), a towering figure made from old electrical appliances and was meant to represent the average electrical waste used by one person in a lifetime.
+Once into the attraction, there is a meandering path with views of the two biomes, planted landscapes, including vegetable gardens, and sculptures that include a giant bee and previously The WEEE Man (removed in 2016), a towering figure made from old electrical appliances and was meant to represent the average electrical waste used by one person in a lifetime.
 
 Biomes
 
 At the bottom of the pit are two covered biomes:
 
-The Tropical Biome, covers and measures high, wide, and long. It is used for tropical plants, such as fruiting banana plants, coffee, rubber and giant bamboo, and is kept at a tropical temperature and moisture level. The_Tropical_Biome.jpg
+The Tropical Biome, covers and measures high, wide, and long. It is used for tropical plants, such as fruiting banana plants, coffee, rubber and giant bamboo, and is kept at a tropical temperature and moisture level.
 
 The Mediterranean Biome covers and measures high, wide, and long. It houses familiar warm temperate and arid plants such as olives and grape vines and various sculptures.
 
@@ -63,18 +61,18 @@ File:Eden Project Winter 2008 showing Bruce Munro field of Light.JPG|The Biomes 
 
 The Core
 
-The_Core,_Eden_Project.JPG The Core is the latest addition to the site and opened in September 2005. It provides the Eden Project with an education facility, incorporating classrooms and exhibition spaces designed to help communicate Eden's central message about the relationship between people and plants. Accordingly, the building has taken its inspiration from plants, most noticeable in the form of the soaring timber roof, which gives the building its distinctive shape.
+The Core is the latest addition to the site and opened in September 2005. It provides the Eden Project with an education facility, incorporating classrooms and exhibition spaces designed to help communicate Eden's central message about the relationship between people and plants. Accordingly, the building has taken its inspiration from plants, most noticeable in the form of the soaring timber roof, which gives the building its distinctive shape.
 
 Grimshaw developed the geometry of the copper-clad roof in collaboration with a sculptor, Peter Randall-Page, and Mike Purvis of structural engineers SKM Anthony Hunts. It is derived from phyllotaxis, which is the mathematical basis for nearly all plant growth; the "opposing spirals" found in many plants such as the seeds in a sunflower's head, pine cones and pineapples. The copper was obtained from traceable sources, and the Eden Project is working with Rio Tinto Group to explore the possibility of encouraging further traceable supply routes for metals, which would enable users to avoid metals mined unethically. The services and acoustic, mechanical, and electrical engineering design was carried out by Buro Happold.
 
 Art at The Core
 
-The_Seed_at_Eden_Project.jpg]] The Core is also home to art exhibitions throughout the year. A permanent installation entitled _Seed_, by Peter Randall-Page, occupies the anteroom. _Seed_ is a large, 70 tonne egg-shaped stone installation standing some tall and displaying a complex pattern of protrusions that are based upon the geometric and mathematical principles that underlie plant growth.[19][20]
+]] The Core is also home to art exhibitions throughout the year. A permanent installation entitled _Seed_, by Peter Randall-Page, occupies the anteroom. _Seed_ is a large, 70 tonne egg-shaped stone installation standing some tall and displaying a complex pattern of protrusions that are based upon the geometric and mathematical principles that underlie plant growth.[19][20]
 
 
 Environmental aspects
 
-Cornwall,_eden_project_tropical.jpg The biomes provide diverse growing conditions, and many plants are on display.
+The biomes provide diverse growing conditions, and many plants are on display.
 
 The Eden Project includes environmental education focusing on the interdependence of plants and people; plants are labelled with their medicinal uses. The massive amounts of water required to create the humid conditions of the Tropical Biome, and to serve the toilet facilities, are all sanitised rain water that would otherwise collect at the bottom of the quarry. The only mains water used is for hand washing and for cooking. The complex also uses Green Tariff Electricity – the energy comes from one of the many wind turbines in Cornwall, which were among the first in Europe.
 

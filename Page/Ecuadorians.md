@@ -268,7 +268,7 @@ Indigenous
 
 Sierra Indians
 
-EquateurOtavalo_0606.jpg girl from Ecuador]] Sierra Indians had an estimated population of 1.5 to 2 million in the early 1980s and live in the intermontane valleys of the Andes. Prolonged contact with Hispanic culture, which dates back to the conquest, has had a homogenizing effect, reducing the variation among the indigenous Sierra tribes.[33]
+girl from Ecuador]] Sierra Indians had an estimated population of 1.5 to 2 million in the early 1980s and live in the intermontane valleys of the Andes. Prolonged contact with Hispanic culture, which dates back to the conquest, has had a homogenizing effect, reducing the variation among the indigenous Sierra tribes.[33]
 
 The Indians of the Sierra are separated from whites and mestizos by a castelike gulf. They are marked as a disadvantaged group; to be an Indian or indígena in Ecuador is to be stigmatized. Indians are usually poor and frequently illiterate, they enjoy limited participation in national institutions, and they command access to few of the social and economic opportunities available to more privileged groups.[34]
 
@@ -276,7 +276,7 @@ Visible markers of ethnic affiliation, especially hairstyle, dress, and language
 
 Oriente Indians
 
-Huaorani_village.jpg village]] Although the Indians of the Oriente first came into contact with whites in the 16th century, the encounters were more sporadic than those of most of the country's indigenous population. Until the 19th century, most non-Indians entering the region were either traders or missionaries. Beginning in the 1950s, however, the government built roads and encouraged settlers from the Sierra to colonize the Amazon River Basin. Virtually all remaining Indians were brought into increasing contact with national society. The interaction between Indians and outsiders had a profound impact on the indigenous way of life.[36]
+village]] Although the Indians of the Oriente first came into contact with whites in the 16th century, the encounters were more sporadic than those of most of the country's indigenous population. Until the 19th century, most non-Indians entering the region were either traders or missionaries. Beginning in the 1950s, however, the government built roads and encouraged settlers from the Sierra to colonize the Amazon River Basin. Virtually all remaining Indians were brought into increasing contact with national society. The interaction between Indians and outsiders had a profound impact on the indigenous way of life.[36]
 
 In the late 1970s, roughly 30,000 Quichua speakers and 15,000 Jívaros lived in Oriente Indian communities. Quichua speakers (sometimes referred to as the Yumbos) grew out of the detribalization of members of many different groups after the Spanish conquest. Subject to the influence of Quichua-speaking missionaries and traders, various elements of the Yumbos adopted the tongue as a lingua franca and gradually lost their previous languages and tribal origins. Yumbos were scattered throughout the Oriente, whereas the Jívaros—subdivided into the Shuar and the Achuar—were concentrated in southeastern Ecuador. Some also lived in northeastern Peru. Traditionally, both groups relied on migration to resolve intracommunity conflict and to limit the ecological damage to the tropical forest caused by slash-and-burn agriculture.[37]
 
@@ -289,7 +289,7 @@ The Oriente Indian population dropped precipitously during the initial period of
 
 Culture
 
-Ecuadorian_dress,_Carnival_del_Pueblo_2010,_London.jpg]]
+]]
 
 Ecuador's mainstream culture is defined by its Hispanic _mestizo_ majority, and like their ancestry, it is traditionally of Spanish heritage, influenced in different degrees by Amerindian traditions, and in some cases by African elements. The first and most substantial wave of modern immigration to Ecuador consisted of Spanish colonists, following the arrival of Europeans in 1499. A lower number of other Europeans and North Americans migrated to the country in the late 19th and early 20th centuries, and in smaller numbers, Poles, Lithuanians, English, Irish, and Croats during and after the Second World War.
 
@@ -315,13 +315,13 @@ There are very small communities in Cuenca and Ambato. The "Comunidad de Culto I
 
 Music
 
-Julio_jaramillo_laurido2.jpg is an icon of music.]] The music of Ecuador has a long history. Pasillo is a genre of indigenous Latin music. In Ecuador it is the "national genre of music." Through the years, many cultures have influenced to establish new types of music. There are also different kinds of traditional music like albazo, pasacalle, fox incaico, tonada, capishca, Bomba highly established in afro-Ecuadorian society like Esmeraldas, and so on.
+is an icon of music.]] The music of Ecuador has a long history. Pasillo is a genre of indigenous Latin music. In Ecuador it is the "national genre of music." Through the years, many cultures have influenced to establish new types of music. There are also different kinds of traditional music like albazo, pasacalle, fox incaico, tonada, capishca, Bomba highly established in afro-Ecuadorian society like Esmeraldas, and so on.
 
 Tecnocumbia and Rockola are clear examples of foreign cultures' influence. One of the most traditional forms of dancing in Ecuador is Sanjuanito. It is originally from the North of Ecuador (Otavalo-Imbabura). Sanjuanito is a danceable music used in the festivities of the mestizo and indigenous culture. According to the Ecuadorian musicologist Segundo Luis Moreno, Sanjuanito was danced by indigenous people during San Juan Bautista's birthday. This important date was established by the Spaniards on 24 June, coincidentally the same date when indigenous people celebrated their rituals of Inti Raymi.
 
 Cuisine
 
-Ceviche_ecuador.JPG'', made of shrimp and lemon, onions and some herbs. Tomato sauce and orange are used at some places, but does not form a part of the basic recipe.]] Ecuadorian cuisine is diverse, varying with the altitude and associated agricultural conditions. Most regions in Ecuador follow the traditional three course meal of soup, a second course which includes rice and a protein such as meat or fish, and then dessert and coffee to finish. Supper is usually lighter, and sometimes consists only of coffee or herbal tea with bread.
+'', made of shrimp and lemon, onions and some herbs. Tomato sauce and orange are used at some places, but does not form a part of the basic recipe.]] Ecuadorian cuisine is diverse, varying with the altitude and associated agricultural conditions. Most regions in Ecuador follow the traditional three course meal of soup, a second course which includes rice and a protein such as meat or fish, and then dessert and coffee to finish. Supper is usually lighter, and sometimes consists only of coffee or herbal tea with bread.
 
 In the highland region, pork, chicken, beef, and _cuy_ (guinea pig) are popular and are served with a variety of grains (especially rice and corn) or potatoes.
 
@@ -331,7 +331,7 @@ In the Amazon region, a dietary staple is the _yuca_, elsewhere called cassava. 
 
 Literature
 
-Jmontalvo.jpg]]
+]]
 
 Early literature in colonial Ecuador, as in the rest of Spanish America, was influenced by the Spanish Golden Age. One of the earliest examples is Jacinto Collahuazo,[54] an indigenous chief of a northern village in today's Ibarra, born in the late 1600s. Despite the early repression and discrimination of the native people by the Spanish, Collahuazo learned to read and write in Castilian, but his work was written in Quechua. The use of the Quipu was banned by the Spanish,[55] and in order to preserve their work, many Inca poets had to resort to the use of the Latin alphabet to write in their native Quechua language. The history behind the Inca drama "Ollantay", the oldest literary piece in existence for any indigenous language in America,[56] shares some similarities with the work of Collahuazo. Collahuazo was imprisoned, and all of his work burned. The existence of his literary work came to light many centuries later, when a crew of masons was restoring the walls of a colonial church in Quito, and found a hidden manuscript. The salvaged fragment is a Spanish translation from Quechua of the "Elegy to the Dead of Atahualpa",[57] a poem written by Collahuazo, which describes the sadness and impotence of the Inca people of having lost their king Atahualpa.
 
@@ -347,7 +347,7 @@ The best known art styles from Ecuador belonged to the _Escuela Quiteña_, which
 
 Sport
 
-Perez-flag.jpg, Olympian gold medalist]] Estadio_Monumental_6.JPG N_Lapentti_2009_Davis_Cup_1.jpg The most popular sport in Ecuador, as in most South American countries, is football (soccer). Its best known professional teams include Barcelona and Emelec from Guayaquil; LDU Quito, Deportivo Quito, and El Nacional from Quito; Olmedo from Riobamba; and Deportivo Cuenca from Cuenca. Currently the most successful football club in Ecuador is LDU Quito, and it is the only Ecuadorian club that have won the _Copa Libertadores_, the _Copa Sudamericana_ and the _Recopa Sudamericana_; they were also runners-up in the 2008 FIFA Club World Cup. The matches of the Ecuadorian national team are the most-watched sporting events in the country. Ecuador qualified for the final rounds of the 2002, 2006, and 2014 FIFA World Cups. The 2002 FIFA World Cup qualifying campaign was considered a huge success for the country and its inhabitants. Ecuador finished in 2nd place on the qualifiers behind Argentina and above the team that would become World Champion, Brazil. In the 2006 FIFA World Cup, Ecuador finished ahead of Poland and Costa Rica to come in second to Germany in Group A in the 2006 World Cup. Futsal, often referred to as _índor_, is particularly popular for mass participation.
+, Olympian gold medalist]] The most popular sport in Ecuador, as in most South American countries, is football (soccer). Its best known professional teams include Barcelona and Emelec from Guayaquil; LDU Quito, Deportivo Quito, and El Nacional from Quito; Olmedo from Riobamba; and Deportivo Cuenca from Cuenca. Currently the most successful football club in Ecuador is LDU Quito, and it is the only Ecuadorian club that have won the _Copa Libertadores_, the _Copa Sudamericana_ and the _Recopa Sudamericana_; they were also runners-up in the 2008 FIFA Club World Cup. The matches of the Ecuadorian national team are the most-watched sporting events in the country. Ecuador qualified for the final rounds of the 2002, 2006, and 2014 FIFA World Cups. The 2002 FIFA World Cup qualifying campaign was considered a huge success for the country and its inhabitants. Ecuador finished in 2nd place on the qualifiers behind Argentina and above the team that would become World Champion, Brazil. In the 2006 FIFA World Cup, Ecuador finished ahead of Poland and Costa Rica to come in second to Germany in Group A in the 2006 World Cup. Futsal, often referred to as _índor_, is particularly popular for mass participation.
 
 There is considerable interest in tennis in the middle and upper classes of Ecuadorian society, and several Ecuadorian professional players have attained international fame. Basketball has a high profile, while Ecuador's specialties include Ecuavolley, a three-person variation of volleyball. Bullfighting is practiced at a professional level in Quito, during the annual festivities that commemorate the Spanish founding of the city, and it also features in festivals in many smaller towns. Rugby union is found to some extent in Ecuador, with teams in Guayaquil, Quito and Cuenca.
 

@@ -19,7 +19,7 @@ The abacá plant belongs to the banana family, Musaceae; it resembles the closel
 
 History
 
-Abaca_fiber_drying_in_Abaca_farm,_Costa_Rica.jpg]] Abaca_fiber.jpg, Philippines]] Before synthetic textiles came into use, _M. textilis_ was a major source of high quality fiber: soft, silky and fine.[16] Ancestors of the modern abacá are thought to have originated from the Eastern Philippines where there is significant rainfall throughout the year. Wild varieties of abacá can still be found in the interior forests of Catanduanes Island, away from cultivated areas.
+]] , Philippines]] Before synthetic textiles came into use, _M. textilis_ was a major source of high quality fiber: soft, silky and fine.[16] Ancestors of the modern abacá are thought to have originated from the Eastern Philippines where there is significant rainfall throughout the year. Wild varieties of abacá can still be found in the interior forests of Catanduanes Island, away from cultivated areas.
 
 Today, Catanduanes has many other modern kinds of abacá which are more competitive. For many years, breeders from various research institutions have made the cultivated varieties of Catanduanes Island even more competitive in local and international markets. This results in the optimum production of the island which had a consistent highest production throughout the archipelago.
 
@@ -34,13 +34,13 @@ After the war, the U.S. Department of Agriculture started production in Panama, 
 
 Uses
 
-Abacá_Mat.jpg]] Due to its strength, it is a sought after product and is the strongest of the natural fibers.[32] It is used by the paper industry for such specialty uses such as tea bags, banknotes[33] and decorative papers.[34] It can be used to make handcrafts such as bags, carpets, clothing and furniture.
+]] Due to its strength, it is a sought after product and is the strongest of the natural fibers.[32] It is used by the paper industry for such specialty uses such as tea bags, banknotes[33] and decorative papers.[34] It can be used to make handcrafts such as bags, carpets, clothing and furniture.
 
 Abacá rope is very durable, flexible and resistant to salt water damage, allowing its use in hawsers, ship's lines and fishing nets.[35] A rope can require to break.[36] Abacá fiber was once used primarily for rope, but this application is now of minor significance. Lupis is the finest quality of abacá.[37] Sinamay is woven chiefly from abacá.[38]
 
 Textiles
 
-USAID_Measuring_Impact_Conservation_Enterprise_Retrospective_(Philippines;_Kalahan_Educational_Foundation)_(40246611432).jpg'' cloth of the T'boli dreamweavers are made from abacá fibers]] T'nalak_weaver_at_Lake_Sebu,_South_Cotabato.jpg dreamweaver using a traditional loom]] The inner fibers are used in the making of hats, including the "Manila hats," hammocks, matting, cordage, ropes, coarse twines, and types of canvas. It is called Manila hemp in the market although it is unlike true hemp, and is also known as Cebu hemp and Davao hemp. Abacá cloth is found in museum collections around the world, like the Boston Museum of Fine Arts and the Textile Museum of Canada.[39][40]
+'' cloth of the T'boli dreamweavers are made from abacá fibers]] dreamweaver using a traditional loom]] The inner fibers are used in the making of hats, including the "Manila hats," hammocks, matting, cordage, ropes, coarse twines, and types of canvas. It is called Manila hemp in the market although it is unlike true hemp, and is also known as Cebu hemp and Davao hemp. Abacá cloth is found in museum collections around the world, like the Boston Museum of Fine Arts and the Textile Museum of Canada.[39][40]
 
 Philippine indigenous tribes still weave abacá-based textiles like _t'nalak_, made by the Tiboli tribe of South Cotabato, and _dagmay_, made by the Bagobo people.[41]
 

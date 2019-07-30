@@ -10,7 +10,7 @@ United Kingdom
 
 1970s
 
-Alaap_bhangra.jpg A modern and commercial form of Bhangra music was said to rise in Britain in the 1970s by Punjabi immigrants who took their native folk music and began experimenting by altering it using instruments from their host country. The new genre quickly became popular in Britain replacing Punjabi folk singers due to it being heavily influenced in Britain by the infusion of rock music and a need to move away from the simple and repetitive Punjabi folk music. It indicated the development of a self-conscious and distinctively rebellious British Asian youth culture centred on an experiential sense of self, e.g., language, gesture, bodily signification, desires, etc., in a situation in which tensions with British culture and racist elements in British society had resulted in alienation in many minority ethnic groups, fostered a sense of need for an affirmation of a positive identity and culture, and provided a platform for British Punjabi males to assert their masculinity.[3][4][5][6]
+A modern and commercial form of Bhangra music was said to rise in Britain in the 1970s by Punjabi immigrants who took their native folk music and began experimenting by altering it using instruments from their host country. The new genre quickly became popular in Britain replacing Punjabi folk singers due to it being heavily influenced in Britain by the infusion of rock music and a need to move away from the simple and repetitive Punjabi folk music. It indicated the development of a self-conscious and distinctively rebellious British Asian youth culture centred on an experiential sense of self, e.g., language, gesture, bodily signification, desires, etc., in a situation in which tensions with British culture and racist elements in British society had resulted in alienation in many minority ethnic groups, fostered a sense of need for an affirmation of a positive identity and culture, and provided a platform for British Punjabi males to assert their masculinity.[3][4][5][6]
 
 In the 1980s, distributed by record labels such as Multitone Records, Bhangra artists were selling over 30,000 cassettes a week in the UK, but no artists reached the Top 40 UK Chart despite these artists outselling popular British ones; most of the Bhangra cassette sales were not through the large UK record stores, whose sales were those recorded by the Official UK Charts Company for creating their rankings.[7]
 
@@ -50,14 +50,14 @@ Toward the end of the decade, Bhangra continued to decline, with folk-hop artist
 
 2000s remixes
 
-Punjabi folk remixed with hip-hop, known as Folkhop, is most often produced when folk vocals are purchased online to be remixed in a studio. Folk vocals are usually sung to traditional melodies, that are often repeated with new lyrics. Hot_seasons_Punjabi_Folk_dance.webm Some South Asian DJs, especially in America, have mixed Punjabi folk music with house, reggae, and hip-hop to add a different flavor to Punjabi folk. These remixes continued to gain popularity as the 1990s came to an end. This movement was established and proliferated by DJs such as Mick St Clair, Punjabi MC and DJ Rekha. DJ Rekha, originally from the UK, now resides in New York City running a club event series called Basement Bhangra. These monthly events exhibit house and hip hop bhangra remixes.
+Punjabi folk remixed with hip-hop, known as Folkhop, is most often produced when folk vocals are purchased online to be remixed in a studio. Folk vocals are usually sung to traditional melodies, that are often repeated with new lyrics. Some South Asian DJs, especially in America, have mixed Punjabi folk music with house, reggae, and hip-hop to add a different flavor to Punjabi folk. These remixes continued to gain popularity as the 1990s came to an end. This movement was established and proliferated by DJs such as Mick St Clair, Punjabi MC and DJ Rekha. DJ Rekha, originally from the UK, now resides in New York City running a club event series called Basement Bhangra. These monthly events exhibit house and hip hop bhangra remixes.
 
 A notable remix artist is Bally Sagoo, a Punjabi-Sikh, Anglo-Indian raised in Birmingham, England. Sagoo described his music as "a bit of tablas, a bit of the Indian sound. But bring on the bass lines, bring on the funky-drummer beat, bring on the James Brown samples", to _Time_ magazine in 1997. He was recently signed by Sony. Daler Mehndi, a Punjabi singer from India has a type of music known as "folk pop". Mehndi has released tracks such as "Bolo Ta Ra Ra" and "Ho Jayegee Balle Balle". His song "Tunak Tunak Tun" was released in 1998.
 
 
 Canada and the United States
 
-MissPooja2.jpg famous for her numerous album releases ]]
+famous for her numerous album releases ]]
 
 Punjabi immigrants have encouraged the growth of Punjabi folk music in the Western Hemisphere rather than Bhangra music. The Bhangra industry has grown in North America much less than in the United Kingdom. Indian Lion, a Canadian folk artist explains what he thinks has caused this:
 
@@ -68,7 +68,7 @@ In 2001, Punjabi folk, and its hip-hop form, Folkhop, began to exert an influenc
 
 Lyrics
 
-Walpaper.jpg]] Bhangra lyrics, which generally cover social issues or love, are sung in Punjabi. Bhangra lyrics were generally kept deliberately simple by the creators of the genre because the youth did not understand complex lyrics. Traditional Punjabi folk lyrics are generally more complex and often tell the tales of Punjabi history. There are many Bhangra songs devoted to Punjabi pride themes and Punjabi heroes. The lyrics are tributes to the cultural traditions of Punjab. In particular, many Bhangra tracks have been written about Udham Singh and Bhagat Singh. Less serious topics include beautiful women with their colourful duppattas. Lyrics can also be about crops and the coming of a new season. Bhangra is sung fiercely with strong lyrics often yelling: "balle balle" or "chakde phate", which refer to celebration and/or pride.
+]] Bhangra lyrics, which generally cover social issues or love, are sung in Punjabi. Bhangra lyrics were generally kept deliberately simple by the creators of the genre because the youth did not understand complex lyrics. Traditional Punjabi folk lyrics are generally more complex and often tell the tales of Punjabi history. There are many Bhangra songs devoted to Punjabi pride themes and Punjabi heroes. The lyrics are tributes to the cultural traditions of Punjab. In particular, many Bhangra tracks have been written about Udham Singh and Bhagat Singh. Less serious topics include beautiful women with their colourful duppattas. Lyrics can also be about crops and the coming of a new season. Bhangra is sung fiercely with strong lyrics often yelling: "balle balle" or "chakde phate", which refer to celebration and/or pride.
 
 Notable Bhangra or Punjabi lyricists include Harbans Jandu (Jandu Littranwala) ("Giddhian Di Rani") and Rattan Reehal (Rurki wala rattan).
 

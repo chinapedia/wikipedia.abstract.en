@@ -1,6 +1,6 @@
 Convolute}}
 
-comparison_convolution_correlation.svg, and autocorrelation. For the operations involving function , and assuming the height of is 1.0, the value of the result at 5 different points is indicated by the shaded area below each point. Also, the symmetry of is the reason f * g and f ⋆ g are identical in this example. ]]
+, and autocorrelation. For the operations involving function , and assuming the height of is 1.0, the value of the result at 5 different points is indicated by the shaded area below each point. Also, the symmetry of is the reason f * g and f ⋆ g are identical in this example. ]]
 
 In mathematics (in particular, functional analysis) CONVOLUTION is a mathematical operation on two functions ( and ) to produce a third function that expresses how the shape of one is modified by the other. The term _convolution_ refers to both the result function and to the process of computing it. It is defined as the integral of the product of the two functions after one is reversed and shifted.
 
@@ -221,7 +221,7 @@ _S_ * id_(_X_) = id_(_X_) * _S_ = _η_ ∘ _ε_.
 
 Applications
 
-Halftone,_Gaussian_Blur.jpg can be used to obtain a smooth grayscale digital image of a halftone print.]] Convolution and related operations are found in many applications in science, engineering and mathematics.
+can be used to obtain a smooth grayscale digital image of a halftone print.]] Convolution and related operations are found in many applications in science, engineering and mathematics.
 
 -   In image processing
 

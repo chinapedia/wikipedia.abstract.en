@@ -1,5 +1,3 @@
-Explosion1.JPG
-
 In thermodynamics, the term EXOTHERMIC PROCESS (exo- : "outside") describes a process or reaction that releases energy from the system to its surroundings, usually in the form of heat, but also in a form of light (e.g. a spark, flame, or flash), electricity (e.g. a battery), or sound (e.g. explosion heard when burning hydrogen). Its etymology stems from the Greek prefix _έξω_ (exō, which means "outwards") and the Greek word _θερμικός_ (thermikόs, which means "thermal").[1] The term _exothermic_ was first coined by Marcellin Berthelot. The opposite of an exothermic process is an endothermic process, one that absorbs energy in the form of heat.
 
 The concept is frequently applied in the physical sciences to chemical reactions, where as in chemical bond energy that will be converted to thermal energy (heat).
@@ -32,7 +30,7 @@ In exothermic chemical reactions, the heat that is released by the reaction take
 
 Examples
 
-ThermiteReaction.jpg reaction using iron(III) oxide. The sparks flying outwards are globules of molten iron trailing smoke in their wake.]] Some examples of exothermic processes are:[3]
+reaction using iron(III) oxide. The sparks flying outwards are globules of molten iron trailing smoke in their wake.]] Some examples of exothermic processes are:[3]
 
 -   Combustion of fuels such as wood, coal and oil petroleum
 -   Thermite reaction

@@ -16,7 +16,7 @@ Support crew
 
 Background
 
-Apollo_7_Launch_-_GPN-2000-001171.jpg Schirra, Eisele, and Cunningham were first named as an Apollo crew on September 29, 1966. They were to fly a second Earth orbital test of the original Block I command and service module (not designed to dock with the lunar module for lunar flight) after Apollo 1, the first crewed flight, to be made by Virgil "Gus" Grissom, Ed White, and Roger Chaffee. In December 1966, the second mission was deemed redundant and canceled, and Schirra's crew were reassigned as Grissom's backup.
+Schirra, Eisele, and Cunningham were first named as an Apollo crew on September 29, 1966. They were to fly a second Earth orbital test of the original Block I command and service module (not designed to dock with the lunar module for lunar flight) after Apollo 1, the first crewed flight, to be made by Virgil "Gus" Grissom, Ed White, and Roger Chaffee. In December 1966, the second mission was deemed redundant and canceled, and Schirra's crew were reassigned as Grissom's backup.
 
 Plans for the first crewed Apollo flights were completely disrupted by the January 27, 1967 cabin fire which killed Grissom, White, and Chaffee. Schirra, Eisele, and Cunningham were later named as prime crew for the first crewed flight, which would now use the Block II spacecraft designed for the lunar missions. The command module (CM) and astronauts' spacesuits had been extensively redesigned, to reduce and eliminate the chance of a repeat of the accident which killed the first crew. Schirra thus became the only astronaut to fly Mercury, Gemini and Apollo missions.[1] His crew would test the life support, propulsion, guidance and control systems during this "open-ended" mission (meaning it would be extended as it passed each test). The duration was limited to 11 days, reduced from the original 14-day limit for Apollo 1.[2] Since it flew in low Earth orbit and did not include the lunar module (LM), Apollo 7 was launched with the Saturn IB booster rather than the much larger and more powerful Saturn V.[3]
 
@@ -31,7 +31,7 @@ Mission highlights
 
 On-orbit operations
 
-Apollo_7_Rondevouz.jpg stage during rendezvous maneuvers. Note the docking target inside the spacecraft adapter, and how the right-hand panel is not fully opened to the same angle as the others]]
+stage during rendezvous maneuvers. Note the docking target inside the spacecraft adapter, and how the right-hand panel is not fully opened to the same angle as the others]]
 
 The first crewed American space flight in 22 months lifted from LC-34 at 15:02:45 UTC on Friday, October 11, 1968.[8] Liftoff proceeded flawlessly; the Saturn IB performed well on its first crewed launch and there were no significant anomalies during the boost phase. The astronauts described it as very smooth riding compared to the rough, bumpy Titan II used to launch the Gemini spacecraft.
 
@@ -51,7 +51,7 @@ Another mission goal was the first live television broadcast from an American sp
 
 "Mutiny" in space
 
-Even though Apollo's larger cabin was more comfortable than Gemini's, 11 days in orbit took its toll on the astronauts. Tension with Schirra began with the launch decision, when flight managers decided to launch with a less-than-ideal abort option for the early part of the ascent. Once in orbit, the spacious cabin may have induced some crew motion sickness, which had not been an issue in the earlier, smaller spacecraft. The crew were unhappy with their food selections, especially the high energy sweets. They also found the waste collection system cumbersome (requiring 30 minutes to use) and smelly. But the worst problem occurred when Schirra developed a severe head cold. As a result, he became irritable with requests from Mission Control and all three astronauts began "talking back" to the CAPCOM. An early example was this exchange after Mission Control requested that a TV camera be turned on in the spacecraft: Walter_Schirra_on_Apollo_7.jpg looks out the rendezvous window in front of the commander's station on the ninth day of the mission]]
+Even though Apollo's larger cabin was more comfortable than Gemini's, 11 days in orbit took its toll on the astronauts. Tension with Schirra began with the launch decision, when flight managers decided to launch with a less-than-ideal abort option for the early part of the ascent. Once in orbit, the spacious cabin may have induced some crew motion sickness, which had not been an issue in the earlier, smaller spacecraft. The crew were unhappy with their food selections, especially the high energy sweets. They also found the waste collection system cumbersome (requiring 30 minutes to use) and smelly. But the worst problem occurred when Schirra developed a severe head cold. As a result, he became irritable with requests from Mission Control and all three astronauts began "talking back" to the CAPCOM. An early example was this exchange after Mission Control requested that a TV camera be turned on in the spacecraft: looks out the rendezvous window in front of the commander's station on the ninth day of the mission]]
 
   SCHIRRA: You've added two burns to this flight schedule, and you've added a urine water dump; and we have a new vehicle up here, and I can tell you at this point TV will be delayed without any further discussion until after the rendezvous.
   CAPCOM (Jack Swigert): Roger. Copy.
@@ -88,7 +88,7 @@ Despite the difficulties between the crew and Mission Control, the mission succe
 
 Mission insignia
 
-Apollo_7_Flown_Robbins_Medallion_(SN-186).jpg]] The insignia for the flight shows a command and service module with its SPS engine firing, the trail from that fire encircling a globe and extending past the edges of the patch symbolizing the Earth-orbital nature of the mission. The Roman numeral VII appears in the South Pacific Ocean and the crew's names appear on a wide black arc at the bottom. The patch was designed by Allen Stevens of Rockwell International.[25]
+]] The insignia for the flight shows a command and service module with its SPS engine firing, the trail from that fire encircling a globe and extending past the edges of the patch symbolizing the Earth-orbital nature of the mission. The Roman numeral VII appears in the South Pacific Ocean and the crew's names appear on a wide black arc at the bottom. The patch was designed by Allen Stevens of Rockwell International.[25]
 
 
 Crew honors
@@ -100,12 +100,12 @@ Schirra, Eisele, and Cunningham were the only crew, of all the Apollo, Skylab, a
 
 Spacecraft location
 
-Apollo_7_Command_Module_Museum.jpg In January 1969, the Apollo 7 command module was displayed on a NASA float in the inauguration parade of President Richard M. Nixon. For nearly 30 years the command module was on loan (renewable every two years) to the National Museum of Science and Technology, in Ottawa, Ontario, along with the space suit worn by Wally Schirra. In November 2003, the Smithsonian Institution in Washington, D.C., requested them back for display at their new annex at the Steven F. Udvar-Hazy Center. Currently, the Apollo 7 CM is on loan to the Frontiers of Flight Museum located next to Love Field in Dallas, Texas.
+In January 1969, the Apollo 7 command module was displayed on a NASA float in the inauguration parade of President Richard M. Nixon. For nearly 30 years the command module was on loan (renewable every two years) to the National Museum of Science and Technology, in Ottawa, Ontario, along with the space suit worn by Wally Schirra. In November 2003, the Smithsonian Institution in Washington, D.C., requested them back for display at their new annex at the Steven F. Udvar-Hazy Center. Currently, the Apollo 7 CM is on loan to the Frontiers of Flight Museum located next to Love Field in Dallas, Texas.
 
 
 Depiction in media
 
-Barbara_Eden_and_Bob_Hope_NASA.jpg, Bob Hope, Eisele, Cunningham, Schirra, and "voice of Mission Control" Paul Haney, on _The Bob Hope Show_]] On November 6, 1968, comedian Bob Hope broadcast one of his variety television specials from NASA's Manned Spacecraft Center in Houston to honor the Apollo 7 crew. Barbara Eden, star of the popular comedy series _I Dream of Jeannie_, which featured two fictional astronauts among its regular characters, appeared with Schirra, Eisele and Cunningham.
+, Bob Hope, Eisele, Cunningham, Schirra, and "voice of Mission Control" Paul Haney, on _The Bob Hope Show_]] On November 6, 1968, comedian Bob Hope broadcast one of his variety television specials from NASA's Manned Spacecraft Center in Houston to honor the Apollo 7 crew. Barbara Eden, star of the popular comedy series _I Dream of Jeannie_, which featured two fictional astronauts among its regular characters, appeared with Schirra, Eisele and Cunningham.
 
 Schirra parlayed the head cold he contracted during Apollo 7 into a television advertising contract as a spokesman for Actifed, an over the counter version of the medicine he took in space.[28]
 

@@ -25,8 +25,6 @@ A code of ethics contained in the Media Decree requires that all stories run by 
 
 Telephones
 
-Public_Payphone_in_Fiji.jpg
-
 -   Calling code: +679[5]
 -   International call prefix: 00 or 052[6]
 -   Main lines:

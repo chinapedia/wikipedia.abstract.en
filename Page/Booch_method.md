@@ -1,5 +1,3 @@
-Booch-diagram.png
-
 The BOOCH METHOD[1] is a method for object-oriented software development. It is composed of an object modeling language,[2] an iterative object-oriented development process,[3] and a set of recommended practices.[4]
 
 The method was authored by Grady Booch when he was working for Rational Software (acquired by IBM), published in 1992 and revised in 1994. It was widely used in software engineering for object-oriented analysis and design and benefited from ample documentation and support tools.[5]

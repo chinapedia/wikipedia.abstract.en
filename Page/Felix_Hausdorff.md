@@ -55,19 +55,13 @@ About the humiliations to which Hausdorff and his family especially were exposed
 
 In vain, Hausdorff asked the mathematician Richard Courant in 1939 for a research fellowship to be able to emigrate into the USA.
 
-Abschiedsbrief_Felix_Hausdorffs_–_Seite_1.png
-
 In mid-1941, the Bonn Jews began to be deported to the Monastery "To Perpetual Adoration" in Endenich, from which the nuns had been expelled. The transports to the death camps in the east occurred later. After Felix Hausdorff, his wife and his wife's sister, Edith Pappenheim (who was living with them) were ordered in January 1942 to move to the Endenich camp, they committed suicide on 26 January 1942 by taking an overdose of veronal. Their final resting place is located on the Poppelsdorfer cemetery in Bonn. Between their placement in temporary camps and his suicide, he gave his handwritten _Nachlass_ to the Egyptologist and presbyter Hans Bonnet, who saved as much of them as possible, despite the destruction of his house by a bomb.
 
 Some of his fellow Jews may have had illusions about the camp Endenich, but not Hausdorff. E. Neuenschwander discovered in the estate of Bessel-Hagen the farewell letter that Hausdorff wrote to his Jewish lawyer Hans Wollstein.[3][4] Here is the beginning and end of the letter:
 
-Hausdorff-Grab.jpg
-
 After thanking friends and, in great composure, expressing his last wishes regarding his funeral and his will, Hausdorff writes:
 
 Unfortunately, this desire was not fulfilled. Hausdorff's lawyer Wollstein was murdered in Auschwitz.
-
-Hausdorff-strasse.jpg
 
 Hausdorff's library was sold by his son-in-law and sole heir, Arthur König. The handwritten _Nachlass_ was adopted by a family friend, the Bonn Egyptologist Hans Bonnet, for storage. It is now in the University and State Library of Bonn. The _Nachlass_ is catalogued.[5]
 

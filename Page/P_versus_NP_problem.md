@@ -1,4 +1,4 @@
-Complexity_classes.svg NP. The existence of problems within NP but outside both P and NP-complete, under that assumption, was established by Ladner's theorem.[1]]]
+ NP. The existence of problems within NP but outside both P and NP-complete, under that assumption, was established by Ladner's theorem.[1]]]
 
 The P VERSUS NP PROBLEM is a major unsolved problem in computer science. It asks whether every problem whose solution can be quickly verified (technically, verified in polynomial time) can also be solved quickly (again, in polynomial time).
 
@@ -38,7 +38,7 @@ Since 2002, William Gasarch has conducted three polls of researchers concerning 
 
 NP-completeness
 
-P_np_np-complete_np-hard.svg for P, NP, NP-complete, and NP-hard set of problems (excluding the empty language and its complement, which belong to P but are not NP-complete)]] To attack the P = NP question, the concept of NP-completeness is very useful. NP-complete problems are a set of problems to each of which any other NP-problem can be reduced in polynomial time and whose solution may still be verified in polynomial time. That is, any NP problem can be transformed into any of the NP-complete problems. Informally, an NP-complete problem is an '''NP '''problem that is at least as "tough" as any other problem in NP.
+for P, NP, NP-complete, and NP-hard set of problems (excluding the empty language and its complement, which belong to P but are not NP-complete)]] To attack the P = NP question, the concept of NP-completeness is very useful. NP-complete problems are a set of problems to each of which any other NP-problem can be reduced in polynomial time and whose solution may still be verified in polynomial time. That is, any NP problem can be transformed into any of the NP-complete problems. Informally, an NP-complete problem is an '''NP '''problem that is at least as "tough" as any other problem in NP.
 
 NP-hard problems are those at least as hard as NP problems, i.e., all NP problems can be reduced (in polynomial time) to them. NP-hard problems need not be in NP, i.e., they need not have solutions verifiable in polynomial time.
 
@@ -73,7 +73,7 @@ to factor an _n_-bit integer. However, the best known quantum algorithm for this
 
 Does P mean "easy"?
 
-KnapsackEmpComplexity.GIF All of the above discussion has assumed that P means "easy" and "not in P" means "hard", an assumption known as _Cobham's thesis_. It is a common and reasonably accurate assumption in complexity theory; however, it has some caveats.
+All of the above discussion has assumed that P means "easy" and "not in P" means "hard", an assumption known as _Cobham's thesis_. It is a common and reasonably accurate assumption in complexity theory; however, it has some caveats.
 
 First, it is not always true in practice. A theoretical polynomial algorithm may have extremely large constant factors or exponents thus rendering it impractical. On the other hand, even if a problem is shown to be NP-complete, and even if P ≠ NP, there may still be effective approaches to tackling the problem in practice. There are algorithms for many NP-complete problems, such as the knapsack problem, the traveling salesman problem and the Boolean satisfiability problem, that can solve to optimality many real-world instances in reasonable time. The empirical average-case complexity (time vs. problem size) of such algorithms can be surprisingly low. An example is the simplex algorithm in linear programming, which works surprisingly well in practice; despite having exponential worst-case time complexity it runs on par with the best known polynomial-time algorithms.[27]
 

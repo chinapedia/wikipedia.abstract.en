@@ -25,7 +25,7 @@ The Wassoulou empire was a short-lived (1878–1898) empire, led by Samory Tour�
 
 Colonial era
 
-French_West_Africa_1913_map.png circa 1913]] The slave trade came to the coastal region of Guinea with European adventurers in the 16th century. Slavery had always been part of everyday life but the scale increased as slaves were exported to work elsewhere in the triangular trade.
+circa 1913]] The slave trade came to the coastal region of Guinea with European adventurers in the 16th century. Slavery had always been part of everyday life but the scale increased as slaves were exported to work elsewhere in the triangular trade.
 
 Guinea's colonial period began with French military penetration into the area in the mid-19th century. French domination was assured by the defeat in 1898 of the armies of Samori Touré, Mansa (or Emperor) of the Ouassoulou state and leader of Malinké descent, which gave France control of what today is Guinea and adjacent areas.
 
@@ -40,7 +40,7 @@ The other French colonies chose the former but Guinea — under the leadership o
 
 Sékou Touré's rule (1958–1984)
 
-DF-SC-83-08641.jpg arrives for a visit to Washington D.C., June 1982.]]
+arrives for a visit to Washington D.C., June 1982.]]
 
 U.S. President Dwight D. Eisenhower was hostile to Touré, so the African nation quickly turned to the Soviet Union--making it the Kremlin's first success story in Africa. Following France's withdrawal, Guinea quickly aligned itself with the Soviet Union and adopted socialist policies. This alliance was short lived, however, as Guinea moved towards a Chinese model of socialism. Nevertheless, President John F. Kennedy and his Peace Corps director Sargent Shriver tried even harder than the Kremlin's Nikita Khrushchev. By 1963 Guinea had shifted away from Moscow into a closer friendship with Washington.[1] Guinea relied more and more on aid and investment from the U.S. Even the relationship with France improved, after the election of Valéry Giscard d'Estaing as president, trade increased and the two countries exchanged diplomatic visits.
 

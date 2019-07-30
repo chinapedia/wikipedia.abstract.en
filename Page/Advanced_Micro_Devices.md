@@ -5,7 +5,7 @@ AMD is the second-largest supplier and only significant rival to Intel in the ma
 
 History
 
-AMDmarkham4.jpg, Ontario, Canada, formerly ATI headquarters, now known as AMD Markham.|alt=]] AMD_Austin_campus.JPG Lone Star campus in Austin, Texas]]
+, Ontario, Canada, formerly ATI headquarters, now known as AMD Markham.|alt=]] Lone Star campus in Austin, Texas]]
 
 First twelve years
 
@@ -65,8 +65,6 @@ List of CEOs
 Products
 
 CPUs and APUs
-
-KL_Advanced_Micro_Devices_AM9080.jpg KL_AMD_D8086.jpg
 
 IBM PC and the x86 architecture
 
@@ -135,8 +133,6 @@ Zen based CPUs and APUs
 Zen is a new architecture for x86-64 based Ryzen series CPUs and APUs, introduced in 2017 by AMD and built from the ground up by a team led by Jim Keller, beginning with his arrival in 2012, and taping out before his departure in September 2015. One of AMD's primary goals with Zen was an IPC increase of at least 40%, however in February 2017 AMD announced that they had actually achieved a 52% increase.[196] Processors made on the Zen architecture are built on the 14 nm FinFET node and have a renewed focus on single-core performance and HSA compatibility.[197] Previous processors from AMD were either built in the 32 nm process ("Bulldozer" and "Piledriver" CPUs) or the 28 nm process ("Steamroller" and "Excavator" APUs). Because of this, Zen is much more energy efficient. The Zen architecture is the first to encompass CPUs and APUs from AMD built for a single socket (Socket AM4). Also new for this architecture is the implementation of simultaneous multithreading (SMT) technology, something Intel has had for years on some of their processors with their proprietary Hyper-Threading implementation of SMT. This is a departure from the "Clustered MultiThreading" design introduced with the Bulldozer architecture. Zen also has support for DDR4 memory. AMD released the Zen-based high-end Ryzen 7 "Summit Ridge" series CPUs on March 2, 2017,[198] mid-range Ryzen 5 series CPUs on April 11, 2017, and entry level Ryzen 3 series CPUs on July 27, 2017.[199] AMD later released the Epyc line of Zen derived server processors for 1P and 2P systems.[200] In October 2017, AMD released Zen based APUs as Ryzen Mobile, incorporating Vega graphics cores.[201] In January 2018 AMD has announced their new lineup plans, with Ryzen 2.[202] AMD launched CPUs with the 12nm Zen+ microarchitecture in April 2018.[203]
 
 Graphics products and GPUs
-
-Amd-radeon-r9-290x.jpg
 
 ATI prior to AMD acquisition
 
@@ -221,7 +217,7 @@ Radeon-branded products
 
 RAM
 
-AMDRadeonMemory.JPG In 2011, AMD began selling Radeon branded DDR3 SDRAM to support the higher bandwidth needs of AMD's APUs.[247] While the RAM is sold by AMD, it was manufactured by Patriot Memory and VisionTek. This was later followed by higher speeds of gaming oriented DDR3 memory in 2013.[248] Radeon branded DDR4 SDRAM memory was released in 2015, despite no AMD CPUs or APUs supporting DDR4 at the time.[249] AMD noted in 2017 that these products are "mostly distributed in Eastern Europe" and that it continues to be active in the business.[250]
+In 2011, AMD began selling Radeon branded DDR3 SDRAM to support the higher bandwidth needs of AMD's APUs.[247] While the RAM is sold by AMD, it was manufactured by Patriot Memory and VisionTek. This was later followed by higher speeds of gaming oriented DDR3 memory in 2013.[248] Radeon branded DDR4 SDRAM memory was released in 2015, despite no AMD CPUs or APUs supporting DDR4 at the time.[249] AMD noted in 2017 that these products are "mostly distributed in Eastern Europe" and that it continues to be active in the business.[250]
 
 Solid-state drives
 
@@ -293,7 +289,7 @@ AMD utilizes strategic industry partnerships to further its business interests a
 
 Litigation with Intel
 
-Amd_386_processor.jpg AMD has a long history of litigation with former (and current) partner and x86 creator Intel.[285][286][287]
+AMD has a long history of litigation with former (and current) partner and x86 creator Intel.[285][286][287]
 
 -   In 1986, Intel broke an agreement it had with AMD to allow them to produce Intel's micro-chips for IBM; AMD filed for arbitration in 1987 and the arbitrator decided in AMD's favor in 1992. Intel disputed this, and the case ended up in the Supreme Court of California. In 1994, that court upheld the arbitrator's decision and awarded damages for breach of contract.
 -   In 1990, Intel brought a copyright infringement action alleging illegal use of its 287 microcode. The case ended in 1994 with a jury finding for AMD and its right to use Intel's microcode in its microprocessors through the 486 generation.

@@ -3,7 +3,7 @@ BALSALL HEATH is a working class, inner-city area of Birmingham, West Midlands, 
 
 History
 
-Balsallheath.JPG Balsall_Heath_Baths_and_Library.jpg.]] Balsall Heath was agricultural land between Moseley village and the city of Birmingham until the 1850s when expansion along Moseley Road joined the two. The area was originally part of the Worcestershire parish of King's Norton, and was added to the county borough of Birmingham in Warwickshire on 1 October 1891.
+.]] Balsall Heath was agricultural land between Moseley village and the city of Birmingham until the 1850s when expansion along Moseley Road joined the two. The area was originally part of the Worcestershire parish of King's Norton, and was added to the county borough of Birmingham in Warwickshire on 1 October 1891.
 
 During negotiations in the previous year it had been promised a public baths and a free library. In 1895, the library was opened on Moseley Road and, in 1907, Balsall Heath Baths were opened in an adjoining building.
 

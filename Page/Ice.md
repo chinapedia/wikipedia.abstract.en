@@ -9,8 +9,6 @@ Ice is used in a variety of ways, including cooling, winter sports and ice sculp
 
 Physical properties
 
-Ice_Ih_Crystal_Lattice.png
-
 As a naturally occurring crystalline inorganic solid with an ordered structure, ice is considered to be a mineral.[4][5] It possesses a regular crystalline structure based on the molecule of water, which consists of a single oxygen atom covalently bonded to two hydrogen atoms, or H–O–H. However, many of the physical properties of water and ice are controlled by the formation of hydrogen bonds between adjacent oxygen and hydrogen atoms; while it is a weak bond, it is nonetheless critical in controlling the structure of both water and ice.
 
 An unusual property of ice frozen at atmospheric pressure is that the solid is approximately 8.3% less dense than liquid water (which is equivalent to volumetric expansion of 9%). The density of ice is 0.9167[6]–0.9168[7] g/cm³ at 0 °C and standard atmospheric pressure (101,325 Pa), whereas water has a density of 0.9998[8]–0.999863[9] g/cm³ at the same temperature and pressure. Liquid water is densest, essentially 1.00 g/cm³, at 4 °C and becomes less dense as the water molecules begin to form the hexagonal crystals of ice as the freezing point is reached. This is due to hydrogen bonding dominating the intermolecular forces, which results in a packing of molecules less compact in the solid. Density of ice increases slightly with decreasing temperature and has a value of 0.9340 g/cm³ at −180 °C (93 K).[10]
@@ -27,7 +25,7 @@ Other colors can appear in the presence of light absorbing impurities, where the
 
 Phases
 
-Melting_curve_of_water.svg Ice may be any one of the 18[16] known solid crystalline phases of water, or in an amorphous solid state at various densities.
+Ice may be any one of the 18[16] known solid crystalline phases of water, or in an amorphous solid state at various densities.
 
 Most liquids under increased pressure freeze at _higher_ temperatures because the pressure helps to hold the molecules together. However, the strong hydrogen bonds in water make it different: For some pressures higher than , water freezes at a temperature _below_ 0 °C, as shown in the phase diagram below. The melting of ice under high pressures is thought to contribute to the movement of glaciers.[17]
 
@@ -41,7 +39,7 @@ In outer space, hexagonal crystalline ice (the predominant form found on Earth) 
 
 Ice from a theorized superionic water may possess two crystalline structures. At pressures in excess of such _superionic ice_ would take on a body-centered cubic structure. However, at pressures in excess of the structure may shift to a more stable face-centered cubic lattice.[31]
 
-Phase_diagram_of_water.svg pressure-temperature phase diagram of water. The Roman numerals correspond to some ice phases listed below.]] 3D_representation_of_several_phases_of_water.jpg
+pressure-temperature phase diagram of water. The Roman numerals correspond to some ice phases listed below.]]
 
   Phase           Characteristics
   --------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -67,7 +65,7 @@ Phase_diagram_of_water.svg pressure-temperature phase diagram of water. The Roma
 
 Friction properties
 
-Frozen_Wappinger_Creek.JPG]]
+]]
 
 The low coefficient of friction ("slipperiness") of ice has been attributed to the pressure of an object coming into contact with the ice, melting a thin layer of the ice and allowing the object to glide across the surface.[45] For example, the blade of an ice skate, upon exerting pressure on the ice, would melt a thin layer, providing lubrication between the ice and the blade. This explanation, called "pressure melting", originated in the 19th century. It, however, did not account for skating on ice temperatures lower than , which is often skated upon.
 
@@ -80,7 +78,7 @@ A comprehensive theory of ice friction takes into account all the above-mentione
 
 Natural formation
 
-Feather_ice_1,_Alta_plateau,_Norway.jpg. The crystals form at temperatures below −30 °C (−22 °F).]] The term that collectively describes all of the parts of the Earth's surface where water is in frozen form is the _cryosphere._ Ice is an important component of the global climate, particularly in regard to the water cycle. Glaciers and snowpacks are an important storage mechanism for fresh water; over time, they may sublimate or melt. Snowmelt is an important source of seasonal fresh water. The World Meteorological Organization defines several kinds of ice depending on origin, size, shape, influence and so on.[49] Clathrate hydrates are forms of ice that contain gas molecules trapped within its crystal lattice.
+. The crystals form at temperatures below −30 °C (−22 °F).]] The term that collectively describes all of the parts of the Earth's surface where water is in frozen form is the _cryosphere._ Ice is an important component of the global climate, particularly in regard to the water cycle. Glaciers and snowpacks are an important storage mechanism for fresh water; over time, they may sublimate or melt. Snowmelt is an important source of seasonal fresh water. The World Meteorological Organization defines several kinds of ice depending on origin, size, shape, influence and so on.[49] Clathrate hydrates are forms of ice that contain gas molecules trapped within its crystal lattice.
 
 On the oceans
 
@@ -88,7 +86,7 @@ Ice that is found at sea may be in the form of drift ice floating in the water, 
 
 On land and structures
 
-Icy_Japanese_Maple_branch,_Boxborough,_Massachusetts,_2008.jpg]] Ice on land ranges from the largest type called an "ice sheet" to smaller ice caps and ice fields to glaciers and ice streams to the snow line and snow fields.
+]] Ice on land ranges from the largest type called an "ice sheet" to smaller ice caps and ice fields to glaciers and ice streams to the snow line and snow fields.
 
 Aufeis is layered ice that forms in Arctic and subarctic stream valleys. Ice, frozen in the stream bed, blocks normal groundwater discharge, and causes the local water table to rise, resulting in water discharge on top of the frozen layer. This water then freezes, causing the water table to rise further and repeat the cycle. The result is a stratified ice deposit, often several meters thick.
 
@@ -98,7 +96,7 @@ The term "ice dam" has three meanings (others discussed below). On structures, a
 
 On rivers and streams
 
-Frozen_rivulet_in_Pennsylvania.JPG]] Ice which forms on moving water tends to be less uniform and stable than ice which forms on calm water. Ice jams (sometimes called "ice dams"), when broken chunks of ice pile up, are the greatest ice hazard on rivers. Ice jams can cause flooding, damage structures in or near the river, and damage vessels on the river. Ice jams can cause some hydropower industrial facilities to completely shut down. An ice dam is a blockage from the movement of a glacier which may produce a proglacial lake. Heavy ice flows in rivers can also damage vessels and require the use of an icebreaker to keep navigation possible.
+]] Ice which forms on moving water tends to be less uniform and stable than ice which forms on calm water. Ice jams (sometimes called "ice dams"), when broken chunks of ice pile up, are the greatest ice hazard on rivers. Ice jams can cause flooding, damage structures in or near the river, and damage vessels on the river. Ice jams can cause some hydropower industrial facilities to completely shut down. An ice dam is a blockage from the movement of a glacier which may produce a proglacial lake. Heavy ice flows in rivers can also damage vessels and require the use of an icebreaker to keep navigation possible.
 
 Ice discs are circular formations of ice surrounded by water in a river.[50]
 
@@ -114,27 +112,25 @@ Candle ice is a form of rotten ice that develops in columns perpendicular to the
 
 In the air
 
-Ice_formation_on_vehicle_windshield.JPG
-
 Rime ice
 
 Rime is a type of ice formed on cold objects when drops of water crystallize on them. This can be observed in foggy weather, when the temperature drops during the night. Soft rime contains a high proportion of trapped air, making it appear white rather than transparent, and giving it a density about one quarter of that of pure ice. Hard rime is comparatively dense.
 
 Ice pellets
 
-Sleet_on_the_ground.jpg Ice pellets are a form of precipitation consisting of small, translucent balls of ice. This form of precipitation is also referred to as "sleet" by the United States National Weather Service.[53] (In British English "sleet" refers to a mixture of rain and snow.) Ice pellets are usually smaller than hailstones.[54] They often bounce when they hit the ground, and generally do not freeze into a solid mass unless mixed with freezing rain. The METAR code for ice pellets is _PL_.[55]
+Ice pellets are a form of precipitation consisting of small, translucent balls of ice. This form of precipitation is also referred to as "sleet" by the United States National Weather Service.[53] (In British English "sleet" refers to a mixture of rain and snow.) Ice pellets are usually smaller than hailstones.[54] They often bounce when they hit the ground, and generally do not freeze into a solid mass unless mixed with freezing rain. The METAR code for ice pellets is _PL_.[55]
 
 Ice pellets form when a layer of above-freezing air is located between above the ground, with sub-freezing air both above and below it. This causes the partial or complete melting of any snowflakes falling through the warm layer. As they fall back into the sub-freezing layer closer to the surface, they re-freeze into ice pellets. However, if the sub-freezing layer beneath the warm layer is too small, the precipitation will not have time to re-freeze, and freezing rain will be the result at the surface. A temperature profile showing a warm layer above the ground is most likely to be found in advance of a warm front during the cold season,[56] but can occasionally be found behind a passing cold front.
 
 Hail
 
-Granizo.jpg Like other precipitation, hail forms in storm clouds when supercooled water droplets freeze on contact with condensation nuclei, such as dust or dirt. The storm's updraft blows the hailstones to the upper part of the cloud. The updraft dissipates and the hailstones fall down, back into the updraft, and are lifted up again. Hail has a diameter of or more.[57] Within METAR code, GR is used to indicate larger hail, of a diameter of at least and GS for smaller.[58] Stones just larger than golf ball-sized are one of the most frequently reported hail sizes.[59] Hailstones can grow to and weigh more than .[60] In large hailstones, latent heat released by further freezing may melt the outer shell of the hailstone. The hailstone then may undergo 'wet growth', where the liquid outer shell collects other smaller hailstones.[61] The hailstone gains an ice layer and grows increasingly larger with each ascent. Once a hailstone becomes too heavy to be supported by the storm's updraft, it falls from the cloud.[62]
+Like other precipitation, hail forms in storm clouds when supercooled water droplets freeze on contact with condensation nuclei, such as dust or dirt. The storm's updraft blows the hailstones to the upper part of the cloud. The updraft dissipates and the hailstones fall down, back into the updraft, and are lifted up again. Hail has a diameter of or more.[57] Within METAR code, GR is used to indicate larger hail, of a diameter of at least and GS for smaller.[58] Stones just larger than golf ball-sized are one of the most frequently reported hail sizes.[59] Hailstones can grow to and weigh more than .[60] In large hailstones, latent heat released by further freezing may melt the outer shell of the hailstone. The hailstone then may undergo 'wet growth', where the liquid outer shell collects other smaller hailstones.[61] The hailstone gains an ice layer and grows increasingly larger with each ascent. Once a hailstone becomes too heavy to be supported by the storm's updraft, it falls from the cloud.[62]
 
 Hail forms in strong thunderstorm clouds, particularly those with intense updrafts, high liquid water content, great vertical extent, large water droplets, and where a good portion of the cloud layer is below freezing .[63] Hail-producing clouds are often identifiable by their green coloration.[64][65] The growth rate is maximized at about , and becomes vanishingly small much below as supercooled water droplets become rare. For this reason, hail is most common within continental interiors of the mid-latitudes, as hail formation is considerably more likely when the freezing level is below the altitude of .[66] Entrainment of dry air into strong thunderstorms over continents can increase the frequency of hail by promoting evaporational cooling which lowers the freezing level of thunderstorm clouds giving hail a larger volume to grow in. Accordingly, hail is actually less common in the tropics despite a much higher frequency of thunderstorms than in the mid-latitudes because the atmosphere over the tropics tends to be warmer over a much greater depth. Hail in the tropics occurs mainly at higher elevations.[67]
 
 Snow
 
-SnowflakesWilsonBentley.jpgs by Wilson Bentley, 1902.]] Snow crystals form when tiny supercooled cloud droplets (about 10 μm in diameter) freeze. These droplets are able to remain liquid at temperatures lower than , because to freeze, a few molecules in the droplet need to get together by chance to form an arrangement similar to that in an ice lattice; then the droplet freezes around this "nucleus." Experiments show that this "homogeneous" nucleation of cloud droplets only occurs at temperatures lower than .[68] In warmer clouds an aerosol particle or "ice nucleus" must be present in (or in contact with) the droplet to act as a nucleus. Our understanding of what particles make efficient ice nuclei is poor – what we do know is they are very rare compared to that cloud condensation nuclei on which liquid droplets form. Clays, desert dust and biological particles may be effective,[69] although to what extent is unclear. Artificial nuclei are used in cloud seeding.[70] The droplet then grows by condensation of water vapor onto the ice surfaces.
+s by Wilson Bentley, 1902.]] Snow crystals form when tiny supercooled cloud droplets (about 10 μm in diameter) freeze. These droplets are able to remain liquid at temperatures lower than , because to freeze, a few molecules in the droplet need to get together by chance to form an arrangement similar to that in an ice lattice; then the droplet freezes around this "nucleus." Experiments show that this "homogeneous" nucleation of cloud droplets only occurs at temperatures lower than .[68] In warmer clouds an aerosol particle or "ice nucleus" must be present in (or in contact with) the droplet to act as a nucleus. Our understanding of what particles make efficient ice nuclei is poor – what we do know is they are very rare compared to that cloud condensation nuclei on which liquid droplets form. Clays, desert dust and biological particles may be effective,[69] although to what extent is unclear. Artificial nuclei are used in cloud seeding.[70] The droplet then grows by condensation of water vapor onto the ice surfaces.
 
 Diamond dust
 
@@ -162,7 +158,7 @@ Ice has long been valued as a means of cooling. In 400 BC Iran, Persian engineer
 
 Harvesting
 
-Ice_Harvesting_on_Lake_St_Clair_Michigan_circa_1905--photograph_courtesy_Detroit_Publishing_Company.jpg in Michigan, c. 1905]] There were thriving industries in 16th–17th century England whereby low-lying areas along the Thames Estuary were flooded during the winter, and ice harvested in carts and stored inter-seasonally in insulated wooden houses as a provision to an icehouse often located in large country houses, and widely used to keep fish fresh when caught in distant waters. This was allegedly copied by an Englishman who had seen the same activity in China. Ice was imported into England from Norway on a considerable scale as early as 1823.[75]
+in Michigan, c. 1905]] There were thriving industries in 16th–17th century England whereby low-lying areas along the Thames Estuary were flooded during the winter, and ice harvested in carts and stored inter-seasonally in insulated wooden houses as a provision to an icehouse often located in large country houses, and widely used to keep fish fresh when caught in distant waters. This was allegedly copied by an Englishman who had seen the same activity in China. Ice was imported into England from Norway on a considerable scale as early as 1823.[75]
 
 In the United States, the first cargo of ice was sent from New York City to Charleston, South Carolina, in 1799,[76] and by the first half of the 19th century, ice harvesting had become big business. Frederic Tudor, who became known as the "Ice King", worked on developing better insulation products for the long distance shipment of ice, especially to the tropics; this became known as the ice trade.
 
@@ -174,7 +170,7 @@ Ice is still harvested for ice and snow sculpture events. For example, a swing s
 
 Mechanical production
 
-PSM_V39_D031_Interior_of_an_ice_factory.jpg Ice is now produced on an industrial scale, for uses including food storage and processing, chemical manufacturing, concrete mixing and curing, and consumer or packaged ice.[79] Most commercial icemakers produce three basic types of fragmentary ice: flake, tubular and plate, using a variety of techniques.[80] Large batch ice makers can produce up to 75 tons of ice per day.[81] In 2002, there were 426 commercial ice-making companies in the United States, with a combined value of shipments of $595,487,000.[82] Home refrigerators can also make ice with a built in icemaker, which will typically make ice cubes or crushed ice. Stand-alone icemaker units that make ice cubes are often called ice machines.
+Ice is now produced on an industrial scale, for uses including food storage and processing, chemical manufacturing, concrete mixing and curing, and consumer or packaged ice.[79] Most commercial icemakers produce three basic types of fragmentary ice: flake, tubular and plate, using a variety of techniques.[80] Large batch ice makers can produce up to 75 tons of ice per day.[81] In 2002, there were 426 commercial ice-making companies in the United States, with a combined value of shipments of $595,487,000.[82] Home refrigerators can also make ice with a built in icemaker, which will typically make ice cubes or crushed ice. Stand-alone icemaker units that make ice cubes are often called ice machines.
 
 Transportation
 
@@ -182,7 +178,7 @@ Ice can present challenges to safe transportation on land, sea and in the air.
 
 Land travel
 
-Södertäljevägen_vinter_2013a_01.jpg Ice forming on roads is a dangerous winter hazard. Black ice is very difficult to see, because it lacks the expected frosty surface. Whenever there is freezing rain or snow which occurs at a temperature near the melting point, it is common for ice to build up on the windows of vehicles. Driving safely requires the removal of the ice build-up. Ice scrapers are tools designed to break the ice free and clear the windows, though removing the ice can be a long and laborious process.
+Ice forming on roads is a dangerous winter hazard. Black ice is very difficult to see, because it lacks the expected frosty surface. Whenever there is freezing rain or snow which occurs at a temperature near the melting point, it is common for ice to build up on the windows of vehicles. Driving safely requires the removal of the ice build-up. Ice scrapers are tools designed to break the ice free and clear the windows, though removing the ice can be a long and laborious process.
 
 Far enough below the freezing point, a thin layer of ice crystals can form on the inside surface of windows. This usually happens when a vehicle has been left alone after being driven for a while, but can happen while driving, if the outside temperature is low enough. Moisture from the driver's breath is the source of water for the crystals. It is troublesome to remove this form of ice, so people often open their windows slightly when the vehicle is parked in order to let the moisture dissipate, and it is now common for cars to have rear-window defrosters to solve the problem. A similar problem can happen in homes, which is one reason why many colder regions require double-pane windows for insulation.
 
@@ -190,11 +186,11 @@ When the outdoor temperature stays below freezing for extended periods, very thi
 
 Water-borne travel
 
-Frozen_Lake_Huron-_icebreakers_and_commercial_vessels.jpg with ice breakers in background]] For ships, ice presents two distinct hazards. Spray and freezing rain can produce an ice build-up on the superstructure of a vessel sufficient to make it unstable, and to require it to be hacked off or melted with steam hoses. And icebergs – large masses of ice floating in water (typically created when glaciers reach the sea) – can be dangerous if struck by a ship when underway. Icebergs have been responsible for the sinking of many ships, the most famous being the _Titanic_. For harbors near the poles, being ice-free is an important advantage. Ideally, all year long. Examples are Murmansk (Russia), Petsamo (Russia, formerly Finland) and Vardø (Norway). Harbors which are not ice-free are opened up using icebreakers.
+with ice breakers in background]] For ships, ice presents two distinct hazards. Spray and freezing rain can produce an ice build-up on the superstructure of a vessel sufficient to make it unstable, and to require it to be hacked off or melted with steam hoses. And icebergs – large masses of ice floating in water (typically created when glaciers reach the sea) – can be dangerous if struck by a ship when underway. Icebergs have been responsible for the sinking of many ships, the most famous being the _Titanic_. For harbors near the poles, being ice-free is an important advantage. Ideally, all year long. Examples are Murmansk (Russia), Petsamo (Russia, formerly Finland) and Vardø (Norway). Harbors which are not ice-free are opened up using icebreakers.
 
 Air travel
 
-Some_Ice_on_the_boots_(1527659244).jpg.]] For aircraft, ice can cause a number of dangers. As an aircraft climbs, it passes through air layers of different temperature and humidity, some of which may be conducive to ice formation. If ice forms on the wings or control surfaces, this may adversely affect the flying qualities of the aircraft. During the first non-stop flight across the Atlantic, the British aviators Captain John Alcock and Lieutenant Arthur Whitten Brown encountered such icing conditions – Brown left the cockpit and climbed onto the wing several times to remove ice which was covering the engine air intakes of the Vickers Vimy aircraft they were flying.
+.]] For aircraft, ice can cause a number of dangers. As an aircraft climbs, it passes through air layers of different temperature and humidity, some of which may be conducive to ice formation. If ice forms on the wings or control surfaces, this may adversely affect the flying qualities of the aircraft. During the first non-stop flight across the Atlantic, the British aviators Captain John Alcock and Lieutenant Arthur Whitten Brown encountered such icing conditions – Brown left the cockpit and climbed onto the wing several times to remove ice which was covering the engine air intakes of the Vickers Vimy aircraft they were flying.
 
 One vulnerability effected by icing that is associated with reciprocating internal combustion engines is the carburetor. As air is sucked through the carburetor into the engine, the local air pressure is lowered, which causes adiabatic cooling. Thus, in humid near-freezing conditions, the carburetor will be colder, and tend to ice up. This will block the supply of air to the engine, and cause it to fail. For this reason, aircraft reciprocating engines with carburetors are provided with carburetor air intake heaters. The increasing use of fuel injection—which does not require carburetors—has made "carb icing" less of an issue for reciprocating engines.
 
@@ -202,7 +198,7 @@ Jet engines do not experience carb icing, but recent evidence indicates that the
 
 Recreation and sports
 
-SCENEONICE.jpg]]
+]]
 
 Ice also plays a central role in winter recreation and in many sports such as ice skating, tour skating, ice hockey, bandy, ice fishing, ice climbing, curling, broomball and sled racing on bobsled, luge and skeleton. Many of the different sports played on ice get international attention every four years during the Winter Olympic Games.
 
@@ -219,7 +215,7 @@ As thermal ballast
 
 As structural material
 
-USNS_Southern_Cross_at_the_ice_pier_in_1983.jpg, Antarctica]]
+, Antarctica]]
 
 -   Engineers used the substantial strength of pack ice when they constructed Antarctica's first floating ice pier in 1973.[84] Such ice piers are used during cargo operations to load and offload ships. Fleet operations personnel make the floating pier during the winter. They build upon naturally occurring frozen seawater in McMurdo Sound until the dock reaches a depth of about . Ice piers have a lifespan of three to five years.
 -   Structures and ice sculptures are built out of large chunks of ice or by spraying water[85] The structures are mostly ornamental (as in the case with ice castles), and not practical for long-term habitation. Ice hotels exist on a seasonal basis in a few cold areas. Igloos are another example of a temporary structure, made primarily from snow.

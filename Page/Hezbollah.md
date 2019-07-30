@@ -67,8 +67,6 @@ In November 2009, Hezbollah pressured a private English-language school to drop 
 
 Organization
 
-HezbollahOrgChart.svg
-
 At the beginning many Hezbollah leaders have maintained that the movement was "not an organization, for its members carry no cards and bear no specific responsibilities,"[114] and that the movement does not have "a clearly defined organizational structure."[115] Nowadays, as Hezbollah scholar Magnus Ranstorp reports, Hezbollah does indeed have a formal governing structure, and in keeping with the principle of Guardianship of the Islamic Jurists (_velayat-e faqih_), it "concentrate[s] ... all authority and powers" in its religious leaders, whose decisions then "flow from the ulama down the entire community."
 
   The supreme decision-making bodies of the Hezbollah were divided between the Majlis al-Shura (Consultative Assembly) which was headed by 12 senior clerical members with responsibility for tactical decisions and supervision of overall Hizballah activity throughout Lebanon, and the Majlis al-Shura al-Karar (the Deciding Assembly), headed by Sheikh Muhammad Hussein Fadlallah and composed of eleven other clerics with responsibility for all strategic matters. Within the Majlis al-Shura, there existed seven specialized committees dealing with ideological, financial, military and political, judicial, informational and social affairs. In turn, the Majlis al-Shura and these seven committees were replicated in each of Hizballah's three main operational areas (the Beqaa, Beirut, and the South).[116]
@@ -99,7 +97,7 @@ Hezbollah is, therefore, deeply embedded in the Lebanese society.[150]
 
 Political activities
 
-rut Lebanon_Jul06.png areas.]] Dec_10_2006_anti-government_rally_Beirut.jpg
+rut areas.]]
 
 Hezbollah along with Amal is one of two major political parties in Lebanon that represent Shiite Muslims.[151] Unlike Amal, whose support is predominantly in the south of the country, Hezbollah maintains broad-based support in all three areas of Lebanon with a majority Shia Muslim population: in the south, in Beirut and its surrounding area, and in the northern Beqaa valley and Hirmil region.[152] It holds 14 of the 128 seats in the Parliament of Lebanon and is a member of the Resistance and Development Bloc. According to Daniel L. Byman, it's "the most powerful single political movement in Lebanon."[153] Hezbollah, along with the Amal Movement, represents most of Lebanese Shi'a. However, unlike Amal, Hezbollah has not disarmed. Hezbollah participates in the Parliament of Lebanon.
 
@@ -164,8 +162,6 @@ In 2009, the Resistance Brigades were reactivated, mainly comprising Sunni suppo
 
 Alleged suicide and terror attacks
 
-Beirutbarr.jpg
-
 Between 1982 and 1986, there were 36 suicide attacks in Lebanon directed against American, French and Israeli forces by 41 individuals, killing 659.[230] Hezbollah denies involvement in some of these attacks, though it has been accused of being involved or linked to some or all of these attacks:[231][232]
 
 -   The 1982–1983 Tyre headquarters bombings
@@ -209,8 +205,6 @@ Hezbollah has been involved in several cases of armed conflict with Israel:
 On 7 October 2000, three Israeli soldiers – Adi Avitan, Staff Sgt. Benyamin Avraham, and Staff Sgt. Omar Sawaidwere – were abducted by Hezbollah while patrolling the Israeli side of the Israeli-Lebanese border.[270] The soldiers were killed either during the attack or in its immediate aftermath.[271] Israel Defense Minister Shaul Mofaz has, however, said that Hezbollah abducted the soldiers and then killed them.[272] The bodies of the slain soldiers were exchanged for Lebanese prisoners in 2004.[273]
 
 2006 Lebanon War
-
-Hizbollah_posters_2006.jpg
 
 The 2006 Lebanon War was a 34-day military conflict in Lebanon and northern Israel. The principal parties were Hezbollah paramilitary forces and the Israeli military. The conflict was precipitated by a cross-border raid during which Hezbollah kidnapped and killed Israeli soldiers. The conflict began on 12 July 2006 when Hezbollah militants fired rockets at Israeli border towns as a diversion for an anti-tank missile attack on two armored Humvees patrolling the Israeli side of the border fence, killing three, injuring two, and seizing two Israeli soldiers.[274][275]
 

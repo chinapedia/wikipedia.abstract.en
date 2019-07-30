@@ -1,4 +1,4 @@
-IMG0053a.jpg This article is about the demographic features of the population of Cape Verde, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
+This article is about the demographic features of the population of Cape Verde, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
 Cape Verde has a population of about 540,000 inhabitants who live in the islands. A large proportion (236,000) of Cape Verdeans live on the main island, Santiago.[1] Many more live abroad in the Cape Verdean diaspora in mainland Africa, Europe, U.S., Brazil, et cetera.
 
@@ -13,7 +13,7 @@ Portuguese functions as a state language. Virtually all formal documents and off
 
 Population
 
-Cape-Verde-demography.png, year 2005 ; Number of inhabitants in thousands.]] According to the total population was in , compared to only 178 000 in 1950. The proportion of children below the age of 15 in 2010 was 31.8%, 62.3% was between 15 and 65 years of age, while 5.9% was 65 years or older.[2]
+, year 2005 ; Number of inhabitants in thousands.]] According to the total population was in , compared to only 178 000 in 1950. The proportion of children below the age of 15 in 2010 was 31.8%, 62.3% was between 15 and 65 years of age, while 5.9% was 65 years or older.[2]
 
          Total population   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
   ------ ------------------ -------------------------- --------------------------- -------------------------
@@ -136,8 +136,6 @@ Population
 568,373 (July 2018 est.)
 
 Age structure
-
-Cabo_Verdepop.svg
 
     _0-14 years:_ 28.7% (male 82,035 /female 81,082)
     _15-24 years:_ 19.64% (male 55,811 /female 55,798)

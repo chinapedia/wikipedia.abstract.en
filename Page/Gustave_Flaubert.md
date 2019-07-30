@@ -21,7 +21,7 @@ Flaubert never married and never had children. His reason for not having childre
 
 Flaubert was very open about his sexual activities with prostitutes in his writings on his travels. He suspected that a chancre on his penis was from a Maronite or a Turkish girl.[10] He also engaged in intercourse with male prostitutes in Beirut and Egypt; in one of his letters, he describes a "pockmarked young rascal wearing a white turban".[11][12]
 
-According to his biographer Émile Faguet, his affair with Louise Colet was his only serious romantic relationship.[13] Музей_Флобера.jpg
+According to his biographer Émile Faguet, his affair with Louise Colet was his only serious romantic relationship.[13]
 
 Flaubert was a tireless worker and often complained in his letters to friends about the strenuous nature of his work. He was close to his niece, Caroline Commanville, and had a close friendship and correspondence with George Sand. He occasionally visited Parisian acquaintances, including Émile Zola, Alphonse Daudet, Ivan Turgenev, and Edmond and Jules de Goncourt.
 
@@ -35,7 +35,7 @@ As a devoted Spinozist, Flaubert was significantly influenced by Spinoza's thoug
 
 Writing career
 
-Gustave_Flaubert_portrait_photo.jpg]] His first finished work was _November_, a novella, which was completed in 1842.
+]] His first finished work was _November_, a novella, which was completed in 1842.
 
 In September 1849, Flaubert completed the first version of a novel, _The Temptation of Saint Anthony._ He read the novel aloud to Louis Bouilhet and Maxime Du Camp over the course of four days, not allowing them to interrupt or give any opinions. At the end of the reading, his friends told him to throw the manuscript in the fire, suggesting instead that he focus on day-to-day life rather than fantastic subjects.
 
@@ -65,7 +65,7 @@ In the assessment of critic James Wood:[34]
 
 As a writer, other than a pure stylist, Flaubert was nearly equal parts romantic and realist.[35] Hence, members of various schools, especially realists and formalists, have traced their origins to his work. The exactitude with which he adapts his expressions to his purpose can be seen in all parts of his work, especially in the portraits he draws of the figures in his principal romances. The degree to which Flaubert's fame has extended since his death presents "an interesting chapter of literary history in itself".[36] He is also credited with spreading the popularity of the color Tuscany Cypress, a color often mentioned in his chef-d'œuvre _Madame Bovary_.
 
-Flaubert-Giraud.jpg]]
+]]
 
 Flaubert's lean and precise writing style has had a large influence on 20th-century writers such as Franz Kafka and J. M. Coetzee. As Vladimir Nabokov discussed in his famous lecture series:[37]
 

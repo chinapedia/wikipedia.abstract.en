@@ -7,29 +7,25 @@ Harley-Davidson manufactures its motorcycles at factories in York, Pennsylvania;
 
 History
 
-From left: William A. Davidson, Walter Davidson, Sr., Arthur Davidson (motorcycling) and William S. Harley|thumb
-
 In 1901, year-old William S. Harley drew up plans for a small engine with a displacement of 7.07 cubic inches (116 cc) and four-inch (102 mm) flywheels[5][6] designed for use in a regular pedal-bicycle frame. Over the next two years, he and his childhood friend Arthur Davidson worked on their motor-bicycle using the northside Milwaukee machine shop at the home of their friend Henry Melk. It was finished in 1903 with the help of Arthur's brother Walter Davidson. Upon testing their power-cycle, Harley and the Davidson brothers found it unable to climb the hills around Milwaukee without pedal assistance, and they wrote off their first motor-bicycle as a valuable learning experiment.[7]
 
 The three began work on a new and improved machine with an engine of 24.74 cubic inches (405 cc) with flywheels weighing . Its advanced loop-frame pattern was similar to the 1903 Milwaukee Merkel motorcycle designed by Joseph Merkel, later of Flying Merkel fame. The bigger engine and loop-frame design took it out of the motorized bicycle category and marked the path to future motorcycle designs. They also received help with their bigger engine from outboard motor pioneer Ole Evinrude, who was then building gas engines of his own design for automotive use on Milwaukee's Lake Street.
 
-Harley-Davidson_Monocylinder.jpg The prototype of the new loop-frame Harley-Davidson was assembled in a shed in the Davidson family backyard.[8][9] Most of the major parts, however, were made elsewhere, including some probably fabricated at the West Milwaukee railshops where oldest brother William A. Davidson was toolroom foreman. This prototype machine was functional by September 8, 1904, when it competed in a Milwaukee motorcycle race held at State Fair Park. Edward Hildebrand rode it and placed fourth in the race.[10]
+The prototype of the new loop-frame Harley-Davidson was assembled in a shed in the Davidson family backyard.[8][9] Most of the major parts, however, were made elsewhere, including some probably fabricated at the West Milwaukee railshops where oldest brother William A. Davidson was toolroom foreman. This prototype machine was functional by September 8, 1904, when it competed in a Milwaukee motorcycle race held at State Fair Park. Edward Hildebrand rode it and placed fourth in the race.[10]
 
 In January 1905, the company placed small advertisements in the _Automobile and Cycle Trade Journal_ offering bare Harley-Davidson engines to the do-it-yourself trade. By April, they were producing complete motorcycles on a very limited basis. That year, Harley-Davidson dealer Carl H. Lang of Chicago sold three bikes from the five built in the Davidson backyard shed. Years later, the company moved the original shed to the Juneau Avenue factory where it stood for many decades as a tribute.
 
 In 1906, Harley and the Davidson brothers built their first factory on Chestnut Street (later Juneau Avenue),[11] at the current location of Harley-Davidson's corporate headquarters. The first Juneau Avenue plant was a single-story wooden structure. The company produced about 50 motorcycles that year.
 
-1907_Harley_Davidson.jpg Harley-Davidson_1000_cc_HT_1916.jpg In 1907, William S. Harley graduated from the University of Wisconsin–Madison with a degree in mechanical engineering. That year, they expanded the factory with a second floor and later with facings and additions of Milwaukee pale yellow ("cream") brick. With the new facilities, production increased to 150 motorcycles in 1907. The company was officially incorporated that September. They also began selling their motorcycles to police departments around this time, a market that has been important to them ever since.[12] In 1907, William A. Davidson quit his job as tool foreman for the Milwaukee Road railroad and joined the Motor Company.
+In 1907, William S. Harley graduated from the University of Wisconsin–Madison with a degree in mechanical engineering. That year, they expanded the factory with a second floor and later with facings and additions of Milwaukee pale yellow ("cream") brick. With the new facilities, production increased to 150 motorcycles in 1907. The company was officially incorporated that September. They also began selling their motorcycles to police departments around this time, a market that has been important to them ever since.[12] In 1907, William A. Davidson quit his job as tool foreman for the Milwaukee Road railroad and joined the Motor Company.
 
 Production in 1905 and 1906 were all single-cylinder models with 26.84 cubic inch (440 cc) engines. In February 1907, they displayed a prototype model at the Chicago Automobile Show with a 45-degree V-Twin engine. Very few V-Twin models were built between 1907 and 1910. These first V-Twins displaced 53.68 cubic inches (880 cc) and produced about . This gave about double the power of the first singles, and top speed was about . Production jumped from 450 motorcycles in 1908 to 1,149 machines in 1909.[13]
-
-Harley_Davidson_Motor_Company_The_Implement_Age_v16.jpg
 
 In 1911, the company introduced an improved V-Twin model with a displacement of 49.48 cubic inches (811 cc) and mechanically operated intake valves, as opposed to the "automatic" intake valves used on earlier V-Twins that opened by engine vacuum. It was smaller than earlier twins but gave better performance. After 1913, the majority of bikes produced by Harley-Davidson were V-Twin models.
 
 In 1912, Harley-Davidson introduced their patented "Ful-Floteing Seat" which was suspended by a coil spring inside the seat tube.[14] The spring tension could be adjusted to suit the rider's weight, and more than of travel was available.[15] Harley-Davidson used seats of this type until 1958.[16]
 
-By 1913, the yellow brick factory had been demolished and a new five-story structure had been built on the site which took up two blocks along Juneau Avenue and around the corner on 38th Street. Despite the competition, Harley-Davidson was already pulling ahead of Indian and dominated motorcycle racing after 1914. Production that year swelled to 16,284 machines. RalphHepburn1922.jpg on his Harley racing bike in 1919]]
+By 1913, the yellow brick factory had been demolished and a new five-story structure had been built on the site which took up two blocks along Juneau Avenue and around the corner on 38th Street. Despite the competition, Harley-Davidson was already pulling ahead of Indian and dominated motorcycle racing after 1914. Production that year swelled to 16,284 machines. on his Harley racing bike in 1919]]
 
 World War I
 
@@ -41,23 +37,17 @@ Harley-Davidson launched a line of bicycles in 1917 in hopes of recruiting custo
 
 1920s
 
-Harley-Davidson_1000_cc_HT_1923.jpg
-
 By 1920, Harley-Davidson was the largest motorcycle manufacturer in the world, with 28,189 machines produced and dealers in 67 countries.[24] In 1921, Otto Walker set a record on a Harley-Davidson as the first motorcycle to win a race at an average speed greater than .[25][26]
 
 Harley-Davidson put several improvements in place during the 1920s, such as a new 74 cubic inch (1,212.6  cc) V-Twin introduced in 1921, and the "teardrop" gas tank in 1925. They added a front brake in 1928, although only on the J/JD models.[27] In the late summer of 1929, Harley-Davidson introduced its 45 cubic inch (737 cc) flathead V-Twin to compete with the Indian 101 Scout and the Excelsior Super X.[28] This was the "D" model produced from 1929 to 1931.[29] Riders of Indian motorcycles derisively referred to it as the "three cylinder Harley" because the generator was upright and parallel to the front cylinder.[30]
 
 Great Depression
 
-Harley-Davidson_1200_cc_SV_1931.jpg
-
 The Great Depression began a few months after the introduction of their model. Harley-Davidson's sales fell from 21,000 in 1929 to 3,703 in 1933. Despite this, Harley-Davidson unveiled a new lineup for 1934, which included a flathead engine and Art Deco styling.[31]
 
 In order to survive the remainder of the Depression, the company manufactured industrial powerplants based on their motorcycle engines. They also designed and built a three-wheeled delivery vehicle called the Servi-Car, which remained in production until 1973.[32]
 
-Vintage_harley_davidson_photo_in_madrid_spain_2011.jpg
-
-In the mid-1930s, Alfred Rich Child opened a production line in Japan with the VL. The Japanese license-holder, Sankyo Seiyaku Corporation, severed its business relations with Harley-Davidson in 1936 and continued manufacturing the VL under the Rikuo name.[33] Harley-Davidson_Sales_Co.jpg An flathead engine was added to the line in 1935, by which time the single-cylinder motorcycles had been discontinued.[34]
+In the mid-1930s, Alfred Rich Child opened a production line in Japan with the VL. The Japanese license-holder, Sankyo Seiyaku Corporation, severed its business relations with Harley-Davidson in 1936 and continued manufacturing the VL under the Rikuo name.[33] An flathead engine was added to the line in 1935, by which time the single-cylinder motorcycles had been discontinued.[34]
 
 In 1936, the 61E and 61EL models with the "Knucklehead" OHV engines were introduced.[35] Valvetrain problems in early Knucklehead engines required a redesign halfway through its first year of production and retrofitting of the new valvetrain on earlier engines.[36]
 
@@ -67,19 +57,19 @@ In 1941, the 74 cubic-inch "Knucklehead" was introduced as the F and the FL. The
 
 World War II
 
-xa-600.jpg R71 to produce its XA model.]] One of only two American cycle manufacturers to survive the Great Depression,[39][40] Harley-Davidson again produced large numbers of motorcycles for the US Army in World War II and resumed civilian production afterwards, producing a range of large V-twin motorcycles that were successful both on racetracks and for private buyers.
+R71 to produce its XA model.]] One of only two American cycle manufacturers to survive the Great Depression,[39][40] Harley-Davidson again produced large numbers of motorcycles for the US Army in World War II and resumed civilian production afterwards, producing a range of large V-twin motorcycles that were successful both on racetracks and for private buyers.
 
 Harley-Davidson, on the eve of World War II, was already supplying the Army with a military-specific version of its WL line, called the WLA. The A in this case stood for "Army". Upon the outbreak of war, the company, along with most other manufacturing enterprises, shifted to war work. More than 90,000 military motorcycles, mostly WLAs and WLCs (the Canadian version) were produced, many to be provided to allies.[41] Harley-Davidson received two Army-Navy 'E' Awards, one in 1943 and the other in 1945, which were awarded for Excellence in Production.
 
-HD_Liberator.jpg ]] Shipments to the Soviet Union under the Lend-Lease program numbered at least 30,000.[42] The WLAs produced during all four years of war production generally have 1942 serial numbers. Production of the WLA stopped at the end of World War II, but was resumed from 1950 to 1952 for use in the Korean War.
+]] Shipments to the Soviet Union under the Lend-Lease program numbered at least 30,000.[42] The WLAs produced during all four years of war production generally have 1942 serial numbers. Production of the WLA stopped at the end of World War II, but was resumed from 1950 to 1952 for use in the Korean War.
 
 The U.S. Army also asked Harley-Davidson to produce a new motorcycle with many of the features of BMW's side-valve and shaft-driven R71. Harley-Davidson largely copied the BMW engine and drive train and produced the shaft-driven 750 cc 1942 Harley-Davidson XA. This shared no dimensions, no parts or no design concepts (except side valves) with any prior Harley-Davidson engine. Due to the superior cooling of the flat-twin engine with the cylinders across the frame, Harley's XA cylinder heads ran 100 °F (56 °C) cooler than its V-twins. [43] The XA never entered full production: the motorcycle by that time had been eclipsed by the Jeep as the Army's general purpose vehicle, and the WLA—already in production—was sufficient for its limited police, escort, and courier roles. Only 1,000 were made and the XA never went into full production. It remains the only shaft-driven Harley-Davidson ever made.
 
 Small Harleys: Hummers and Aermacchis
 
-Harley-Davidson_Hummer.jpg ]] As part of war reparations, Harley-Davidson acquired the design of a small German motorcycle, the DKW RT 125, which they adapted, manufactured, and sold from 1948 to 1966.[44] Various models were made, including the Hummer from 1955 to 1959, but they are all colloquially referred to as "Hummers" at present.[45] BSA in the United Kingdom took the same design as the foundation of their BSA Bantam.[46]
+]] As part of war reparations, Harley-Davidson acquired the design of a small German motorcycle, the DKW RT 125, which they adapted, manufactured, and sold from 1948 to 1966.[44] Various models were made, including the Hummer from 1955 to 1959, but they are all colloquially referred to as "Hummers" at present.[45] BSA in the United Kingdom took the same design as the foundation of their BSA Bantam.[46]
 
-Aermacchi_Turismo_Veloce_1971_crop.jpg In 1960, Harley-Davidson consolidated the Model 165 and Hummer lines into the Super-10, introduced the Topper scooter,[47] and bought fifty percent of Aermacchi's motorcycle division.[48][49] Importation of Aermacchi's 250 cc horizontal single began the following year.[50][51][52] The bike bore Harley-Davidson badges and was marketed as the Harley-Davidson Sprint.[53][54] The engine of the Sprint was increased to 350 cc in 1969[55][56] and would remain that size until 1974, when the four-stroke Sprint was discontinued.[57]
+In 1960, Harley-Davidson consolidated the Model 165 and Hummer lines into the Super-10, introduced the Topper scooter,[47] and bought fifty percent of Aermacchi's motorcycle division.[48][49] Importation of Aermacchi's 250 cc horizontal single began the following year.[50][51][52] The bike bore Harley-Davidson badges and was marketed as the Harley-Davidson Sprint.[53][54] The engine of the Sprint was increased to 350 cc in 1969[55][56] and would remain that size until 1974, when the four-stroke Sprint was discontinued.[57]
 
 After the Pacer and Scat models were discontinued at the end of 1965, the Bobcat became the last of Harley-Davidson's American-made two-stroke motorcycles. The Bobcat was manufactured only in the 1966 model year.[58]
 
@@ -93,9 +83,9 @@ Established in 1918, the oldest continuously operating Harley-Davidson dealershi
 
 Tarnished reputation
 
-ZweiRadMuseumNSU_EasyRider.JPG" from the film _Easy Rider_ ]] In 1952, following their application to the U.S. Tariff Commission for a 40 percent tax on imported motorcycles, Harley-Davidson was charged with restrictive practices.[67]
+" from the film _Easy Rider_ ]] In 1952, following their application to the U.S. Tariff Commission for a 40 percent tax on imported motorcycles, Harley-Davidson was charged with restrictive practices.[67]
 
-Harley-Davidson_6.jpg In 1969, American Machine and Foundry (AMF) bought the company,[68][69] streamlined production, and slashed the workforce. This tactic resulted in a labor strike and lower-quality bikes.[70] The bikes were expensive and inferior in performance, handling, and quality to Japanese motorcycles. Sales and quality declined, and the company almost went bankrupt.[71] The "Harley-Davidson" name was mocked as "Hardly Ableson", "Hardly Driveable," and "Hogly Ferguson",[72][73] and the nickname "Hog" became pejorative.
+In 1969, American Machine and Foundry (AMF) bought the company,[68][69] streamlined production, and slashed the workforce. This tactic resulted in a labor strike and lower-quality bikes.[70] The bikes were expensive and inferior in performance, handling, and quality to Japanese motorcycles. Sales and quality declined, and the company almost went bankrupt.[71] The "Harley-Davidson" name was mocked as "Hardly Ableson", "Hardly Driveable," and "Hogly Ferguson",[72][73] and the nickname "Hog" became pejorative.
 
 In 1977, following the successful manufacture of the Liberty Edition to commemorate America's bicentennial in 1976,[74] Harley-Davidson produced what has become one of its most controversial models, the Harley-Davidson Confederate Edition. The bike was essentially a stock Harley-Davidson with Confederate-specific paint and details.[75]
 
@@ -119,7 +109,7 @@ Construction started on the $75 million, 130,000 square-foot (12,000 m²) Harl
 
 Buell Motorcycle Company
 
-Buell_XB9SX_a.jpg Harley-Davidson's association with sportbike manufacturer Buell Motorcycle Company began in 1987 when they supplied Buell with fifty surplus XR1000 engines. Buell continued to buy engines from Harley-Davidson until 1993, when Harley-Davidson bought 49 percent of the Buell Motorcycle Company.[91] Harley-Davidson increased its share in Buell to ninety-eight percent in 1998, and to complete ownership in 2003.[92]
+Harley-Davidson's association with sportbike manufacturer Buell Motorcycle Company began in 1987 when they supplied Buell with fifty surplus XR1000 engines. Buell continued to buy engines from Harley-Davidson until 1993, when Harley-Davidson bought 49 percent of the Buell Motorcycle Company.[91] Harley-Davidson increased its share in Buell to ninety-eight percent in 1998, and to complete ownership in 2003.[92]
 
 In an attempt to attract newcomers to motorcycling in general and to Harley-Davidson in particular, Buell developed a low-cost, low-maintenance motorcycle. The resulting single-cylinder Buell Blast was introduced in 2000,[93] and was made through 2009, which, according to Buell, was to be the final year of production.[94] The Buell Blast was the training vehicle for the Harley-Davidson Rider's Edge New Rider Course from 2000 until May 2014, when the company re-branded the training academy and started using the Harley-Davidson Street 500 motorcycles. In those 14 years, more than 350,000 participants in the course learned to ride on the Buell Blast.[95]
 
@@ -133,7 +123,7 @@ In 1998 the first Harley-Davidson factory outside the US opened in Manaus, Brazi
 
 Claims of stock price manipulation
 
-HOG_5years.PNG During its period of peak demand, during the late 1990s and early first decade of the 21st century, Harley-Davidson embarked on a program of expanding the number of dealerships throughout the country. At the same time, its current dealers typically had waiting lists that extended up to a year for some of the most popular models. Harley-Davidson, like the auto manufacturers, records a sale not when a consumer buys their product, but rather when it is delivered to a dealer. Therefore, it is possible for the manufacturer to inflate sales numbers by requiring dealers to accept more inventory than desired in a practice called channel stuffing. When demand softened following the unique 2003 model year, this news led to a dramatic decline in the stock price. In April 2004 alone, the price of HOG shares dropped from more than $60 to less than $40. Immediately prior to this decline, retiring CEO Jeffrey Bleustein profited $42 million on the exercise of employee stock options.[102] Harley-Davidson was named as a defendant in numerous class action suits filed by investors who claimed they were intentionally defrauded by Harley-Davidson's management and directors.[103] By January 2007, the price of Harley-Davidson shares reached $70.
+During its period of peak demand, during the late 1990s and early first decade of the 21st century, Harley-Davidson embarked on a program of expanding the number of dealerships throughout the country. At the same time, its current dealers typically had waiting lists that extended up to a year for some of the most popular models. Harley-Davidson, like the auto manufacturers, records a sale not when a consumer buys their product, but rather when it is delivered to a dealer. Therefore, it is possible for the manufacturer to inflate sales numbers by requiring dealers to accept more inventory than desired in a practice called channel stuffing. When demand softened following the unique 2003 model year, this news led to a dramatic decline in the stock price. In April 2004 alone, the price of HOG shares dropped from more than $60 to less than $40. Immediately prior to this decline, retiring CEO Jeffrey Bleustein profited $42 million on the exercise of employee stock options.[102] Harley-Davidson was named as a defendant in numerous class action suits filed by investors who claimed they were intentionally defrauded by Harley-Davidson's management and directors.[103] By January 2007, the price of Harley-Davidson shares reached $70.
 
 Problems with Police Touring models
 
@@ -163,8 +153,6 @@ According to Interbrand, the value of the Harley-Davidson brand fell by 43 perce
 
 
 Motorcycle engines
-
-Harley_Davidson.jpg
 
 The classic Harley-Davidson engines are V-twin engines, with a 45° angle between the cylinders. The crankshaft has a single pin, and both pistons are connected to this pin through their connecting rods.[124]
 
@@ -202,8 +190,6 @@ Big V-twins
 
 Small V-twins
 
-Sportster_moving.jpg
-
 -   D Model, 1929–1931, 750 cc
 -   R Model, 1932–1936, 750 cc
 -   W Model, 1937–1952, 750 cc, solo (2 wheel, frame only)
@@ -215,7 +201,7 @@ Sportster_moving.jpg
 
 Revolution engine
 
-Motorcycle_engine_2012.jpg]] The Revolution engine is based on the VR-1000 Superbike race program, co-developed by Harley-Davidson's Powertrain Engineering team and Porsche Engineering in Stuttgart, Germany. It is a liquid cooled, dual overhead cam, internally counterbalanced 60 degree V-twin engine with a displacement of 69 cubic inch (1,130 cc), producing at 8,250 rpm at the crank, with a redline of 9,000 rpm.[134][135] It was introduced for the new VRSC (V-Rod) line in 2001 for the 2002 model year, starting with the single VRSCA (V-Twin Racing Street Custom) model.[136][137] The Revolution marks Harley's first collaboration with Porsche since the V4 Nova project, which, like the V-Rod, was a radical departure from Harley's traditional lineup until it was cancelled by AMF in 1981 in favor of the Evolution engine.[138]
+]] The Revolution engine is based on the VR-1000 Superbike race program, co-developed by Harley-Davidson's Powertrain Engineering team and Porsche Engineering in Stuttgart, Germany. It is a liquid cooled, dual overhead cam, internally counterbalanced 60 degree V-twin engine with a displacement of 69 cubic inch (1,130 cc), producing at 8,250 rpm at the crank, with a redline of 9,000 rpm.[134][135] It was introduced for the new VRSC (V-Rod) line in 2001 for the 2002 model year, starting with the single VRSCA (V-Twin Racing Street Custom) model.[136][137] The Revolution marks Harley's first collaboration with Porsche since the V4 Nova project, which, like the V-Rod, was a radical departure from Harley's traditional lineup until it was cancelled by AMF in 1981 in favor of the Evolution engine.[138]
 
 A 1,250 cc Screamin' Eagle version of the Revolution engine was made available for 2005 and 2006, and was present thereafter in a single production model from 2005 to 2007. In 2008, the 1,250 cc Revolution Engine became standard for the entire VRSC line. Harley-Davidson claims at the crank for the 2008 VRSCAW model. The VRXSE _Destroyer_ is equipped with a stroker (75 mm crank) Screamin' Eagle 79 cubic inch (1,300 cc) Revolution Engine, producing more than .
 
@@ -226,8 +212,6 @@ Düsseldorf-Test
 An extreme endurance test of the Revolution engine was performed in a dynometer installation, simulating the German Autobahn (highways without general speed limit) between the Porsche research and development center in Weissach, near Stuttgart to Düsseldorf. Uncounted samples of engines failed, until an engine successfully passed the 500 hour nonstop run. This was the benchmark for the engineers to approve the start of production for the Revolution engine, which was documented in the Discovery channel special Harley-Davidson: Birth of the V-Rod, October 14, 2001.[141]
 
 Single-cylinder engines
-
-Harley_Davidson_1928_28B_1.jpg
 
 IOE singles
 
@@ -246,11 +230,11 @@ Modern Harley-branded motorcycles fall into one of six model families: Touring, 
 
 Touring
 
-PolizeiHarley.JPG]] Touring models use Big-Twin engines and large-diameter telescopic forks. All Touring designations begin with the letters FL, _e.g._, FLHR (Road King) and FLTR (Road Glide).
+]] Touring models use Big-Twin engines and large-diameter telescopic forks. All Touring designations begin with the letters FL, _e.g._, FLHR (Road King) and FLTR (Road Glide).
 
 The touring family, also known as "dressers" or "baggers", includes Road King, Road Glide, Street Glide and Electra Glide models offered in various trims. The Road Kings have a "retro cruiser" appearance and are equipped with a large clear windshield. Road Kings are reminiscent of big-twin models from the 1940s and 1950s. Electra Glides can be identified by their full front fairings. Most Electra Glides sport a fork-mounted fairing referred to as the "Batwing" due to its unmistakable shape. The Road Glide and Road Glide Ultra Classic have a frame-mounted fairing, referred to as the "Sharknose". The Sharknose includes a unique, dual front headlight.
 
-Touring models are distinguishable by their large saddlebags, rear coil-over air suspension and are the only models to offer full fairings with radios and CBs. All touring models use the same frame, first introduced with a Shovelhead motor in 1980, and carried forward with only modest upgrades until 2009, when it was extensively redesigned. The frame is distinguished by the location of the steering head in front of the forks and was the first H-D frame to rubber mount the drivetrain to isolate the rider from the vibration of the big V-twin. harley.electraglide.750pix.jpg The frame was modified for the 1993 model year when the oil tank went under the transmission and the battery was moved inboard from under the right saddlebag to under the seat. In 1997, the frame was again modified to allow for a larger battery under the seat and to lower seat height. In 2007, Harley-Davidson introduced the [150] Twin Cam 96 engine, as well the six-speed transmission to give the rider better speeds on the highway.
+Touring models are distinguishable by their large saddlebags, rear coil-over air suspension and are the only models to offer full fairings with radios and CBs. All touring models use the same frame, first introduced with a Shovelhead motor in 1980, and carried forward with only modest upgrades until 2009, when it was extensively redesigned. The frame is distinguished by the location of the steering head in front of the forks and was the first H-D frame to rubber mount the drivetrain to isolate the rider from the vibration of the big V-twin. The frame was modified for the 1993 model year when the oil tank went under the transmission and the battery was moved inboard from under the right saddlebag to under the seat. In 1997, the frame was again modified to allow for a larger battery under the seat and to lower seat height. In 2007, Harley-Davidson introduced the [150] Twin Cam 96 engine, as well the six-speed transmission to give the rider better speeds on the highway.
 
 In 2006, Harley introduced the FLHX Street Glide, a bike designed by Willie G. Davidson to be his personal ride, to its touring line.[151]
 
@@ -262,7 +246,7 @@ In 2014, Harley-Davidson released a redesign for specific touring bikes and call
 
 Softail
 
-Evb-my_hog.jpg Heritage Classic]] These big-twin motorcycles capitalize on Harley's strong value on tradition. With the rear-wheel suspension hidden under the transmission, they are visually similar to the "hardtail" choppers popular in the 1960s and 1970s, as well as from their own earlier history. In keeping with that tradition, Harley offers Softail models with "Heritage" styling that incorporate design cues from throughout their history and used to offer "Springer" front ends on these Softail models from the factory.
+Heritage Classic]] These big-twin motorcycles capitalize on Harley's strong value on tradition. With the rear-wheel suspension hidden under the transmission, they are visually similar to the "hardtail" choppers popular in the 1960s and 1970s, as well as from their own earlier history. In keeping with that tradition, Harley offers Softail models with "Heritage" styling that incorporate design cues from throughout their history and used to offer "Springer" front ends on these Softail models from the factory.
 
 Designation
 
@@ -275,7 +259,7 @@ Softail models utilize the big-twin engine (F) and the Softail chassis (ST).
 
 Dyna
 
-Harley-Davidson_18.jpg Custom.]] Dyna-frame motorcycles were developed in the 1980s and early 1990s and debuted in the 1991 model year with the FXDB Sturgis offered in limited edition quantities. In 1992 the line continued with the limited edition FXDB Daytona and a production model FXD Super Glide. The new DYNA frame featured big-twin engines and traditional styling. They can be distinguished from the Softail by the traditional coil-over suspension that connects the swingarm to the frame, and from the Sportster by their larger engines. On these models, the transmission also houses the engine's oil reservoir.
+Custom.]] Dyna-frame motorcycles were developed in the 1980s and early 1990s and debuted in the 1991 model year with the FXDB Sturgis offered in limited edition quantities. In 1992 the line continued with the limited edition FXDB Daytona and a production model FXD Super Glide. The new DYNA frame featured big-twin engines and traditional styling. They can be distinguished from the Softail by the traditional coil-over suspension that connects the swingarm to the frame, and from the Sportster by their larger engines. On these models, the transmission also houses the engine's oil reservoir.
 
 Prior to 2006, Dyna models typically featured a narrow, XL-style 39mm front fork and front wheel, as well as footpegs which the manufacturer included the letter "X" in the model designation to indicate. This lineup traditionally included the Super Glide (FXD), Super Glide Custom (FXDC), Street Bob (FXDB), and Low Rider (FXDL). One exception was the Wide Glide (FXDWG), which featured thicker 41mm forks and a narrow front wheel, but positioned the forks on wider triple-trees that give a beefier appearance. In 2008, the Dyna Fat Bob (FXDF) was introduced to the Dyna lineup, featuring aggressive styling like a new 2–1–2 exhaust, twin headlamps, a 180 mm rear tire, and, for the first time in the Dyna lineup, a 130 mm front tire. For the 2012 model year, the Dyna Switchback (FLD) became the first Dyna to break the tradition of having an FX model designation with floorboards, detachable painted hard saddlebags, touring windshield, headlight nacelle and a wide front tire with full fender. The new front end resembled the big-twin FL models from 1968-1971.
 
@@ -287,7 +271,7 @@ Dyna models utilize the big-twin engine (F), footpegs noted as (X) with the exce
 
 Sportster
 
-200501DIRTYDEBBIE_003a.jpg 883 Custom]] 2003 Harley-Davidson XL1200 Custom Anniversary Edition Introduced in 1957, the Sportster family were conceived as racing motorcycles, and were popular on dirt and flat-track race courses through the 1960s and 1970s. Smaller and lighter than the other Harley models, contemporary Sportsters make use of 883 cc or 1,200 cc Evolution engines and, though often modified, remain similar in appearance to their racing ancestors.[158]
+883 Custom]] Introduced in 1957, the Sportster family were conceived as racing motorcycles, and were popular on dirt and flat-track race courses through the 1960s and 1970s. Smaller and lighter than the other Harley models, contemporary Sportsters make use of 883 cc or 1,200 cc Evolution engines and, though often modified, remain similar in appearance to their racing ancestors.[158]
 
 Up until the 2003 model year, the engine on the Sportster was rigidly mounted to the frame. The 2004 Sportster received a new frame accommodating a rubber-mounted engine. This made the bike heavier and reduced the available lean angle, while it reduced the amount of vibration transmitted to the frame and the rider, providing a smoother ride for rider and passenger.[159]
 
@@ -299,7 +283,7 @@ Except for the street-going XR1000 of the 1980s and the XR1200, most Sportsters 
 
 VRSC
 
-Harley_5-06.jpg Introduced in 2001 and produced until 2017,[162] the VRSC muscle bike family bears little resemblance to Harley's more traditional lineup. Competing against Japanese and American muscle bikes in the upcoming muscle bike/power cruiser segment, the "V-Rod" makes use of an engine developed jointly with Porsche that, for the first time in Harley history, incorporates overhead cams and liquid cooling. The V-Rod is visually distinctive, easily identified by the 60-degree V-Twin engine, the radiator and the hydroformed frame members that support the round-topped air cleaner cover. The VRSC platform was also used for factory drag-racing motorcycles.
+Introduced in 2001 and produced until 2017,[162] the VRSC muscle bike family bears little resemblance to Harley's more traditional lineup. Competing against Japanese and American muscle bikes in the upcoming muscle bike/power cruiser segment, the "V-Rod" makes use of an engine developed jointly with Porsche that, for the first time in Harley history, incorporates overhead cams and liquid cooling. The V-Rod is visually distinctive, easily identified by the 60-degree V-Twin engine, the radiator and the hydroformed frame members that support the round-topped air cleaner cover. The VRSC platform was also used for factory drag-racing motorcycles.
 
 In 2008, Harley added the anti-lock braking system as a factory installed option on all VRSC models.[163] Harley also increased the displacement of the stock engine from , which had only previously been available from Screamin' Eagle, and added a slipper clutch as standard equipment.
 
@@ -349,7 +333,7 @@ The Milwaukee Bucks of the National Basketball Association sport a Harley Davids
 
 Brand culture
 
-HarleyDavidsonCafeLV.jpg located on the Las Vegas Strip]] According to a recent Harley-Davidson study, in 1987 half of all Harley riders were under age 35.[177] Now, only 15 percent of Harley buyers are under 35,[178] and as of 2005, the median age had risen to 46.7.[179][180][181][182] In 2008, Harley-Davidson stopped disclosing the average age of riders; at this point it was 48 years old.[183]
+located on the Las Vegas Strip]] According to a recent Harley-Davidson study, in 1987 half of all Harley riders were under age 35.[177] Now, only 15 percent of Harley buyers are under 35,[178] and as of 2005, the median age had risen to 46.7.[179][180][181][182] In 2008, Harley-Davidson stopped disclosing the average age of riders; at this point it was 48 years old.[183]
 
 In 1987, the median household income of a Harley-Davidson rider was $38,000. By 1997, the median household income for those riders had more than doubled, to $83,000.[184]
 
@@ -396,8 +380,6 @@ Harley-Davidson offers factory tours at four of its manufacturing sites, and the
 Due to the consolidation of operations, the Capitol Drive Tour Center in Wauwatosa, Wisconsin was closed in 2009.
 
 Anniversary celebrations
-
-Harley_Davidson_founders.jpg
 
 Beginning with Harley-Davidson's 90th anniversary in 1993, Harley-Davidson has had celebratory rides to Milwaukee called the "Ride Home".[210] This new tradition has continued every five years, and is referred to unofficially as "Harleyfest", in line with Milwaukee's other festivals (Summerfest, German fest, Festa Italiana, etc.). This event brings Harley riders from all around the world.[211][212] The 105th anniversary celebration was held on August 28–31, 2008,[213] and included events in Milwaukee, Waukesha, Racine, and Kenosha counties, in Southeast Wisconsin. The 110th anniversary celebration was held on August 29–31, 2013. The 115th anniversary was held in Prague, Czech Republic, the home country of the first Harley Davidson Club, on July 5–8, 2018 and attracted more than 100.000 visitors and 60.000 bikes.[214]
 

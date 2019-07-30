@@ -13,8 +13,6 @@ After the fall of the Persian Empire's Achaemenid Dynasty and its successors, an
 
 The inscription is mentioned by Ctesias of Cnidus, who noted its existence some time around 400 BC and mentioned a well and a garden beneath the inscription. He incorrectly concluded that the inscription had been dedicated "by Queen Semiramis of Babylon to Zeus". Tacitus also mentions it and includes a description of some of the long-lost ancillary monuments at the base of the cliff, including an altar to "Herakles". What has been recovered of them, including a statue dedicated in 148 BC, is consistent with Tacitus's description. Diodorus also writes of "Bagistanon" and claims it was inscribed by Semiramis.
 
-BehistunRoute.jpg
-
 A legend began around Mount Behistun (Bisotun), as written about by the Persian poet and writer Ferdowsi in his _Shahnameh_ (_Book of Kings_) , about a man named Farhad, who was a lover of King Khosrow's wife, Shirin. The legend states that, exiled for his transgression, Farhad was given the task of cutting away the mountain to find water; if he succeeded, he would be given permission to marry Shirin. After many years and the removal of half the mountain, he did find water, but was informed by Khosrow that Shirin had died. He went mad, threw his axe down the hill, kissed the ground and died. It is told in the book of Khosrow and Shirin that his axe was made out of a pomegranate tree, and, where he threw the axe, a pomegranate tree grew with fruit that would cure the ill. Shirin was not dead, according to the story, and mourned upon hearing the news.
 
 In 1598, the Englishman Robert Sherley saw the inscription during a diplomatic mission to Persia on behalf of Austria, and brought it to the attention of Western European scholars. His party incorrectly came to the conclusion that it was Christian in origin.[1] French General Gardanne thought it showed "Christ and his twelve apostles", and Sir Robert Ker Porter thought it represented the Lost Tribes of Israel and Shalmaneser of Assyria.[2] Italian explorer Pietro della Valle visited the inscription in the course of a pilgrimage in around 1621.
@@ -22,7 +20,7 @@ In 1598, the Englishman Robert Sherley saw the inscription during a diplomatic m
 
 Translation efforts
 
-Behistun_DB1_1-15.jpg (1881).]] Aramaic_translation_of_the_behistun_inscripton.png with an Aramaic translation of the Behistun inscription's text.]]
+(1881).]] with an Aramaic translation of the Behistun inscription's text.]]
 
 German surveyor Carsten Niebuhr visited in around 1764 for Frederick V of Denmark, publishing a copy of the inscription in the account of his journeys in 1778.[3] Niebuhr's transcriptions were used by Georg Friedrich Grotefend and others in their efforts to decipher the Old Persian cuneiform script. Grotefend had deciphered ten of the 37 symbols of Old Persian by 1802, after realizing that unlike the Semitic cuneiform scripts, Old Persian text is alphabetic and each word is separated by a vertical slanted symbol.[4]
 
@@ -39,8 +37,6 @@ The translation of the Old Persian sections of the Behistun Inscription paved th
 
 Later research and activity
 
-BehistunInscriptiondetail.jpg
-
 The site was visited by the American linguist A. V. Williams Jackson in 1903.[5] Later expeditions, in 1904 sponsored by the British Museum and led by Leonard William King and Reginald Campbell Thompson and in 1948 by George G. Cameron of the University of Michigan, obtained photographs, casts and more accurate transcriptions of the texts, including passages that were not copied by Rawlinson.[6][7][8][9] It also became apparent that rainwater had dissolved some areas of the limestone in which the text was inscribed, while leaving new deposits of limestone over other areas, covering the text.
 
 In 1938, the inscription became of interest to the Nazi German think tank Ahnenerbe, although research plans were cancelled due to the onset of World War II.
@@ -56,7 +52,7 @@ In 2012, the Bisotun Cultural Heritage Center organized an international effort 
 
 Content of the inscription
 
-Lineage_of_Darius_the_Great.jpg according to the Behistun inscription.]]
+according to the Behistun inscription.]]
 
 Lineage
 
@@ -64,7 +60,7 @@ In the first section of the inscription, Darius the Great declares his ancestry 
 
 Territories
 
-Achaemenid_Empire.jpg Darius also lists the territories under his rule:
+Darius also lists the territories under his rule:
 
 Conflicts and revolts
 
@@ -109,7 +105,7 @@ Image:Seleucid statue of Hercules 2.jpg|Statue of Herakles in Behistun complex F
 
 Similar reliefs and inspiration
 
-Anubanini_rock_relief_woodprint.jpg, dated to 2300 BC, and made by the pre-Iranian Lullubi ruler Anubanini, is very similar in content to the Behistun reliefs (woodprint).]] The Anubanini rock relief, also called Sarpol-i Zohab, of the Lullubi king Anubanini, dated to , and which is located not far from the Behistun reliefs at Sarpol-e Zahab, is very similar to the reliefs at Behistun. The attitude of the ruler, the trampling of an enemy, the lines of prisoners are all very similar, to such extent that it was said that the sculptors of the Behistun Inscription probably have seen the Anubanini relief beforehand and were inspired by it.[20] The Lullubian reliefs were the model for the Behistun reliefs of Darius the Great.[21]
+, dated to 2300 BC, and made by the pre-Iranian Lullubi ruler Anubanini, is very similar in content to the Behistun reliefs (woodprint).]] The Anubanini rock relief, also called Sarpol-i Zohab, of the Lullubi king Anubanini, dated to , and which is located not far from the Behistun reliefs at Sarpol-e Zahab, is very similar to the reliefs at Behistun. The attitude of the ruler, the trampling of an enemy, the lines of prisoners are all very similar, to such extent that it was said that the sculptors of the Behistun Inscription probably have seen the Anubanini relief beforehand and were inspired by it.[20] The Lullubian reliefs were the model for the Behistun reliefs of Darius the Great.[21]
 
 The inscriptional tradition of the Achaemenids, starting especially with Darius I, is thought to have derived from the traditions of Elam, Lullubi, the Babylonians and the Assyrians.[22]
 

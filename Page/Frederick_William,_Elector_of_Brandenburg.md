@@ -15,7 +15,7 @@ In the conflict for Pomerania inheritance, Frederick William had to accept two s
 
 Military career
 
-Charlottenburg_Statue_2.jpg at Charlottenburg Palace, Berlin]]
+at Charlottenburg Palace, Berlin]]
 
 Frederick William was a military commander of wide renown, and his standing army would later become the model for the Prussian Army. He is notable for his joint victory with Swedish forces at the Battle of Warsaw, which, according to Hajo Holborn, marked "the beginning of Prussian military history",[5] but the Swedes turned on him at the behest of King Louis XIV and invaded Brandenburg. After marching 250 kilometres in 15 days back to Brandenburg, he caught the Swedes by surprise and managed to defeat them on the field at the Battle of Fehrbellin, destroying the myth of Swedish military invincibility. He later destroyed another Swedish army that invaded the Duchy of Prussia during the Great Sleigh Drive in 1678. He is noted for his use of broad directives and delegation of decision-making to his commanders, which would later become the basis for the German doctrine of Auftragstaktik, and he is noted for using rapid mobility to defeat his foes.[6]
 
@@ -27,7 +27,7 @@ Frederick William is notable for raising an army of 40,000 soldiers by 1678, thr
 
 Marriages
 
-Mijtens_-_Mariage_de_l'Électeur_de_Brandebourg.jpg]] Anselmus-van-Hulle-Hommes-illustres_MG_0438.tif]]
+]] ]]
 
 On 7 December 1646 in The Hague, Frederick William entered into a marriage, proposed by Blumenthal as a partial solution to the Jülich-Berg question, with Luise Henriette of Nassau (1627–1667), daughter of Frederick Henry of Orange-Nassau and Amalia of Solms-Braunfels and his 1st cousin once removed through William the Silent. Their children were as follows:
 

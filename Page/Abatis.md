@@ -1,11 +1,9 @@
-Abatis_(PSF).png
-
 An ABATIS, ABATTIS, or ABBATTIS is a field fortification consisting of an obstacle formed (in the modern era) of the branches of trees laid in a row, with the sharpened tops directed outwards, towards the enemy. The trees are usually interlaced or tied with wire. Abatis are used alone or in combination with wire entanglements and other obstacles.
 
 
 History
 
-Abatis.jpg]]
+]]
 
 There is evidence it was used as early as the Roman Imperial period, and as recently as the American Civil War.[1]
 
@@ -14,8 +12,6 @@ A classic use of an abatis was at the Battle of Carillon during the Seven Years'
 
 Construction
 
-Giant_abatis.jpg
-
 An important weakness of abatis, in contrast to barbed wire, is that it can be destroyed by fire. Also, if laced together with rope instead of wire, the rope can be very quickly destroyed by such fires, after which the abatis can be quickly pulled apart by grappling hooks thrown from a safe distance.
 
 An important advantage is that an improvised abatis can be quickly formed in forested areas. This can be done by simply cutting down a row of trees so that they fall with their tops toward the enemy. An alternative is to place explosives so as to blow the trees down.
@@ -23,7 +19,7 @@ An important advantage is that an improvised abatis can be quickly formed in for
 
 Modern use
 
-The_boys_of_'61;_or,_Four_years_of_fighting._Personal_observation_with_the_army_and_navy,_from_the_first_battle_of_Bull_run_to_the_fall_of_Richmond_(1884)_(14753099266).jpg]] Abatis_Map_Symbol.svg
+]]
 
 Abatis are rarely seen nowadays, having been largely replaced by wire obstacles. However, it may be used as a replacement or supplement when barbed wire is in short supply. A form of giant abatis, using whole trees instead of branches, can be used as an improvised anti-tank obstacle.
 

@@ -15,8 +15,6 @@ The Cantor ternary set contains all points in the interval [0, 1] that are not 
 
 The first six steps of this process are illustrated below.
 
-Cantor_set_in_seven_iterations.svg
-
 Using the idea of self-similar transformations, T_(L)(x) = x/3, T_(R)(x) = (2 + x)/3 and C_(n) = T_(L)(C_(n − 1)) ∪ T_(R)(C_(n − 1)), the explicit closed formulas for the Cantor set are[7]
 
     $\mathcal{C}=[0,1] \smallsetminus \bigcup_{n=1}^\infty \bigcup_{k=0}^{3^n-1} \left(\frac{3k+1}{3^{n+1}},\frac{3k+2}{3^{n+1}}\right),$
@@ -28,8 +26,6 @@ where every middle third is removed as the open interval $\textstyle \left(\frac
 where the middle third $\textstyle \left(\frac{3k+1}{3^n},\frac{3k+2}{3^n}\right)$ of the foregoing closed interval $\textstyle \left[\frac{k+0}{3^{n-1}},\frac{k+1}{3^{n-1}}\right] = \left[\frac{3k+0}{3^n},\frac{3k+3}{3^n}\right]$ is removed by intersecting with $\textstyle \left[\frac{3k+0}{3^n},\frac{3k+1}{3^n}\right] \cup \left[\frac{3k+2}{3^n},\frac{3k+3}{3^n}\right] .$
 
 This process of removing middle thirds is a simple example of a finite subdivision rule. The Cantor ternary set is an example of a fractal string.
-
-Cantor_set_binary_tree.svg
 
 In arithmetical terms, the Cantor set consists of all real numbers of the unit interval [0, 1] that do not require the digit 1 in order to be expressed as a ternary (base 3) fraction. As the above diagram illustrates, each point in the Cantor set is uniquely located by a path through an infinitely deep binary tree, where the path turns left or right at each level according to which side of a deleted segment the point lies on. Representing each left turn with 0 and each right turn with 2 yields the ternary fraction for a point. Replacing the "2" digits in these fractions with "1" digits produces a surjective (and not injective) mapping between the Cantor set and the set of infinite binary sequences.
 
@@ -179,18 +175,16 @@ where c(x, t)dx is the number of intervals of size between x and x + dx. I
 
 Cantor dust
 
-CANTOR DUST is a multi-dimensional version of the Cantor set. It can be formed by taking a finite Cartesian product of the Cantor set with itself, making it a Cantor space. Like the Cantor set, Cantor dust has zero measure.[21] Cantorcubes.gifs recursion progression towards Cantor dust]]
+CANTOR DUST is a multi-dimensional version of the Cantor set. It can be formed by taking a finite Cartesian product of the Cantor set with itself, making it a Cantor space. Like the Cantor set, Cantor dust has zero measure.[21] s recursion progression towards Cantor dust]]
 
-  ----------------- ------------------
-  Cantor_dust.png   Cantors_cube.jpg
-  ----------------- ------------------
+  -- --
+
+  -- --
 
 A different 2D analogue of the Cantor set is the Sierpinski carpet, where a square is divided up into nine smaller squares, and the middle one removed. The remaining squares are then further divided into nine each and the middle removed, and so on ad infinitum.[22] The 3D analogue of this is the Menger sponge.
 
 
 Historical remarks
-
-Cantor-like_Column_Capital_Ile_de_Philae_Description_d'Egypte_1809.jpg
 
 Cantor himself defined the set in a general, abstract way, and mentioned the ternary construction only in passing, as an example of a more general idea, that of a perfect set that is nowhere dense. The original paper provides several different constructions of the abstract concept.
 

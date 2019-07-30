@@ -116,8 +116,6 @@ Awards
 
 Honorary doctorates
 
-Tanenbaum-Honorary-Doctorate-UPM.jpg Tanenbaum-honorary-doctorate-Romania.jpg
-
 -   On May 12, 2008, Tanenbaum received an honorary doctorate from Universitatea Politehnica din București. The award was given in the academic senate chamber, after which Tanenbaum gave a lecture on his vision of the future of the computer field. The degree was given in recognition of Tanenbaum's career work, which includes about 150 published papers, 18 books (which have been translated into over 20 languages), and the creation of a large body of open-source software, including the Amsterdam Compiler Kit, Amoeba, Globe, and MINIX.
 -   On October 7, 2011, Universitatea Petru Maior din Târgu Mureș (Petru Maior University of Târgu Mureș) granted Tanenbaum the Doctor Honoris Causa (honorary doctorate) title for his remarkable work in the field of computer science and achievements in education. The academic community is hereby honoring his devotion to teaching and research with this award. At the ceremony, the Chancellor, the Rector, the Dean of the Faculty of Sciences and Letters, and others all spoke about Tanenbaum and his work. The pro-rector then read the 'laudatio,' summarizing Tanenbaum's achievements. These include his work developing MINIX (the predecessor to Linux), the RFID Guardian, his work on Globe, Amoeba, and other systems, and his many books on computer science, which have been translated in many languages, including Romanian, and which are used at Petru Maior University.
 

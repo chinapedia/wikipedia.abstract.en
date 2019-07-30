@@ -57,12 +57,12 @@ Perey named the new isotope _actinium-K_ (it is now referred to as francium-223)
 
 Occurrence
 
-Pichblende.jpg contains about 100,000 atoms (3.3 g) of francium-223 at any given time.[66]|alt=A shiny gray 5-centimeter piece of matter with a rough surface.]] ²²³Fr is the result of the alpha decay of ²²⁷Ac and can be found in trace amounts in uranium minerals.[67] In a given sample of uranium, there is estimated to be only one francium atom for every 1 × 10¹⁸ uranium atoms.[68] It is also calculated that there is at most 30 g of francium in the Earth's crust at any given time.[69]
+contains about 100,000 atoms (3.3 g) of francium-223 at any given time.[66]|alt=A shiny gray 5-centimeter piece of matter with a rough surface.]] ²²³Fr is the result of the alpha decay of ²²⁷Ac and can be found in trace amounts in uranium minerals.[67] In a given sample of uranium, there is estimated to be only one francium atom for every 1 × 10¹⁸ uranium atoms.[68] It is also calculated that there is at most 30 g of francium in the Earth's crust at any given time.[69]
 
 
 Production
 
-franciumtrap.PNG | alt1 = A round ball of red light surrounded by a green glow | caption1 = Image of light emitted by a sample of 200,000 francium atoms in a magneto-optical trap | image2 = Fr,87.jpg | width2 = 150 | alt2 = A small white spot in the middle surrounded by a red circle. There is a yellow ring outside the red circle, a green circle beyond the yellow ring and a blue circle surrounding all the other circles. | caption2 = Heat image of 300,000 francium atoms in a magneto-optical trap | footer = }} Francium can be synthesized by a fusion reaction when a gold-197 target is bombarded with a beam of oxygen-18 atoms from a linear accelerator in a process originally developed at in the physics department at the State University of New York at Stony Brook in 1995.[70] Depending on the energy of the oxygen beam, the reaction can yield francium isotopes with masses of 209, 210, and 211.
+| alt1 = A round ball of red light surrounded by a green glow | caption1 = Image of light emitted by a sample of 200,000 francium atoms in a magneto-optical trap | image2 = Fr,87.jpg | width2 = 150 | alt2 = A small white spot in the middle surrounded by a red circle. There is a yellow ring outside the red circle, a green circle beyond the yellow ring and a blue circle surrounding all the other circles. | caption2 = Heat image of 300,000 francium atoms in a magneto-optical trap | footer = }} Francium can be synthesized by a fusion reaction when a gold-197 target is bombarded with a beam of oxygen-18 atoms from a linear accelerator in a process originally developed at in the physics department at the State University of New York at Stony Brook in 1995.[70] Depending on the energy of the oxygen beam, the reaction can yield francium isotopes with masses of 209, 210, and 211.
 
     ¹⁹⁷Au + ¹⁸O → ²⁰⁹Fr + 6 n
     ¹⁹⁷Au + ¹⁸O → ²¹⁰Fr + 5 n

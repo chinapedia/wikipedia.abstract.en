@@ -9,7 +9,7 @@ Born as _Vojtěch_ in 952 or ca. 956 in Libice, he belonged to the Slavnik clan,
 
 Episcopacy
 
-Socha_Svateho_Vojtecha_a_Radima.jpg, Czech Republic.]] Adalbert_Siegel_Domkapitel_Gnesen.png (Gnesen)]] In 981 St. Adalbert of Magdeburg died, and his young protege Adalbert returned to Bohemia. Later Bishop Dietmar of Prague ordained him a Roman Catholic priest. In 982, Bishop Dietmar died, and Adalbert, despite being under canonical age, was chosen to succeed him as Bishop of Prague.[3] Amiable and somewhat worldly, he was not expected to trouble the secular powers by making excessive claims for the Church. Although Adalbert was from a wealthy family, he avoided comfort and luxury, and was noted for his charity and austerity. After six years of prayer and preaching, he had made little headway in evangelizing the Bohemians, who maintained deeply embedded pagan beliefs.
+, Czech Republic.]] (Gnesen)]] In 981 St. Adalbert of Magdeburg died, and his young protege Adalbert returned to Bohemia. Later Bishop Dietmar of Prague ordained him a Roman Catholic priest. In 982, Bishop Dietmar died, and Adalbert, despite being under canonical age, was chosen to succeed him as Bishop of Prague.[3] Amiable and somewhat worldly, he was not expected to trouble the secular powers by making excessive claims for the Church. Although Adalbert was from a wealthy family, he avoided comfort and luxury, and was noted for his charity and austerity. After six years of prayer and preaching, he had made little headway in evangelizing the Bohemians, who maintained deeply embedded pagan beliefs.
 
 Adalbert opposed the participation of Christians in the slave trade and complained of polygamy and idolatry, which were common among the people. Once he started to propose reforms he was met with opposition from both the secular powers and the clergy. His family refused to support Duke Boleslaus in an unsuccessful war against Poland. Adalbert was no longer welcome and eventually forced into exile.[4] In 990 he went to Rome. He lived as a hermit at the Benedictine monastery of Saint Alexis. Five years later, Boleslaus requested that the Pope send Adalbert back to Prague, in hopes of securing his family's support. Pope John XV agreed, with the understanding that Adalbert was free to leave Prague if he continued to encounter entrenched resistance. Adalbert returned as bishop of Prague, where he was initially received with demonstrations of apparent joy. and founded a monastery in Břevnov near the City, it being the first monastery in the Czech territory.
 
@@ -21,7 +21,7 @@ Adalbert then traveled to Hungary and probably baptized Géza of Hungary and his
 
 Mission and Martyrdom in Prussia
 
-Gniezno_Cathedral_detail_02.jpg, Gniezno Doors panel]]
+, Gniezno Doors panel]]
 
 Adalbert again relinquished his diocese, namely that of Gniezno, and set out as a missionary to preach to the inhabitants near Prussia.[6] Bolesław I, Duke (and, later, King) of Poland, sent soldiers with Adalbert on his mission to the Prussians. The Bishop and his companions, including his half-brother Radim (Gaudentius), entered Prussian territory and traveled along the coast of the Baltic Sea to Gdańsk.
 
@@ -30,7 +30,7 @@ Success attended his efforts at first, but his imperious manner in commanding th
 
 Veneration and Relics
 
-Catedral_de_Gniezno,_Gniezno,_Polonia,_2014-09-17,_DD_25-27_HDR.jpg]] Dystynktorium_kanonicki_Gennadij_Jerszow.JPG. Collegiate Capitol in Gdańsk. Silver-Gold 2011]] A few years after his martyrdom, Adalbert was canonized as ST. ADALBERT OF PRAGUE. His life was written in _Vita Sancti Adalberti Pragensis_ by various authors, the earliest being traced to imperial Aachen and the Bishop of Liège, Notger von Lüttich, although it was previously assumed that the Roman monk John Canaparius wrote the first _Vita_ in 999. Another famous biographer of St. Adalbert was St. Bruno of Querfurt who wrote a hagiography of him in 1001-4.
+]] . Collegiate Capitol in Gdańsk. Silver-Gold 2011]] A few years after his martyrdom, Adalbert was canonized as ST. ADALBERT OF PRAGUE. His life was written in _Vita Sancti Adalberti Pragensis_ by various authors, the earliest being traced to imperial Aachen and the Bishop of Liège, Notger von Lüttich, although it was previously assumed that the Roman monk John Canaparius wrote the first _Vita_ in 999. Another famous biographer of St. Adalbert was St. Bruno of Querfurt who wrote a hagiography of him in 1001-4.
 
 Notably, the Přemyslid rulers of Bohemia initially refused to ransom St. Adalbert's body from the Prussians who murdered him, and therefore it was purchased by Poles. This fact may be explained by the Saint belonging to the Slavniks family which was rival to the Přemyslids. Thus St. Adalbert's bones were preserved in Gniezno, which assisted Boleslaus I of Poland in increasing Polish political and diplomatic power in Europe.
 

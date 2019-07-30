@@ -1,5 +1,3 @@
-Roads_in_Bosnia_and_Herzegovina.svg
-
 Bosnia and Herzegovina has facilities for road, rail, and air transport. There are five international road routes and 20 state highways, with bus connections to many countries. Railways total just over 1,000 km with links to Croatia and Serbia. There are 25 airports, seven of them with paved runways. The Sava River is navigable, but its use is limited.
 
 

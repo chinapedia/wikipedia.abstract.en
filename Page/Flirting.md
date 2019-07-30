@@ -1,4 +1,4 @@
-Sweet Nothings}} Das_werdenSie_ja_nachher_schon_sehen.jpg depicting flirting between a man and a woman]]
+Sweet Nothings}} depicting flirting between a man and a woman]]
 
 FLIRTING or COQUETRY is a social and sexual behavior involving verbal or written communication, as well as body language, by one person to another, either to suggest interest in a deeper relationship with the other person, or if done playfully, for amusement.
 
@@ -10,7 +10,7 @@ Flirting usually involves speaking and behaving in a way that suggests a mildly 
 -   challenges (including teasing, questions, qualifying, and feigned disinterest), which may serve to increase tension, and to test intention and congruity, and
 -   adoration which includes offers, approval and tact, knowledge and demonstration of poise, self-assurance, smart and stylish, a commanding attitude.
 
-Flirting behavior varies across cultures due to different modes of social etiquette, such as how closely people should stand (proxemics), how long to hold eye contact, how much touching is appropriate and so forth.[1] Nonetheless, some behaviors may be more universal. For example, ethologist Irenäus Eibl-Eibesfeldt found that in places as different as Africa and North America, women exhibit similar flirting behavior, such as a prolonged stare followed by a head tilt away with a little smile, as seen in the accompanying image associated with a Hollywood film.Marilyn_Monroe_and_Cary_Grant_in_Monkey_Business_trailer_3.JPG) flirting with Dr. Fulton (played by Cary Grant) in the film _Monkey Business_]]
+Flirting behavior varies across cultures due to different modes of social etiquette, such as how closely people should stand (proxemics), how long to hold eye contact, how much touching is appropriate and so forth.[1] Nonetheless, some behaviors may be more universal. For example, ethologist Irenäus Eibl-Eibesfeldt found that in places as different as Africa and North America, women exhibit similar flirting behavior, such as a prolonged stare followed by a head tilt away with a little smile, as seen in the accompanying image associated with a Hollywood film.) flirting with Dr. Fulton (played by Cary Grant) in the film _Monkey Business_]]
 
 
 Etymology
@@ -109,7 +109,7 @@ Additionally, Henningsen found that flirting for fun was more common in females 
 
 Examples
 
-Jealousy_and_Flirtation.jpg: Haynes King's _Jealousy and Flirtation_]] Flirting may consist of stylized gestures, language, body language, postures, and physiologic signs which act as cues to another person. Among these, at least in Western society, are:
+: Haynes King's _Jealousy and Flirtation_]] Flirting may consist of stylized gestures, language, body language, postures, and physiologic signs which act as cues to another person. Among these, at least in Western society, are:
 
 -   Blowing a kiss
 -   Casual touching; such as gently stroking, touching a partner's arms, chest and neck during flirting/make-out sessions in preparation for sexual activity[30]
@@ -140,7 +140,7 @@ Cultural variations
 
 Flirting varies a great deal from culture to culture. For example, for many western cultures one very common flirting strategy includes eye contact. However, eye contact can have a very different meaning in some Asian countries, where women might get in trouble if they return a glance to men who stare at them. Furthermore, Chinese and Japanese women are sometimes not expected to initiate eye contact as it could be considered rude and disrespectful.[35]
 
-Eugen_de_Blaas_The_Flirtation.jpg. A study of body language: a man flirting]] The distance between two people is also important when flirting. People from the "contact cultures", such as those in the Mediterranean or Latin America, may feel comfortable with closer proximity, whereas a British or Northern European person may typically need more space. Although touching, especially of the hand or arm, can constitute flirting, touching is also often done without intentions of flirting, particularly in the contact cultures where it forms a natural part of communication.[36]
+. A study of body language: a man flirting]] The distance between two people is also important when flirting. People from the "contact cultures", such as those in the Mediterranean or Latin America, may feel comfortable with closer proximity, whereas a British or Northern European person may typically need more space. Although touching, especially of the hand or arm, can constitute flirting, touching is also often done without intentions of flirting, particularly in the contact cultures where it forms a natural part of communication.[36]
 
 
 See also

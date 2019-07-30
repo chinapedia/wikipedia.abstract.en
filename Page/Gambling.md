@@ -1,4 +1,4 @@
-Caravaggio_(Michelangelo_Merisi)_-_The_Cardsharps_-_Google_Art_Project.jpg, _The Cardsharps_ (), depicting card sharps]] GAMBLING is the wagering of money or something of value (referred to as "the stakes") on an event with an uncertain outcome, with the primary intent of winning money or material goods. Gambling thus requires three elements to be present: consideration (an amount wagered), risk (chance), and a prize.[1] The outcome of the wager is often immediate, such as a single roll of dice, a spin of a roulette wheel, or a horse crossing the finish line, but longer time frames are also common, allowing wagers on the outcome of a future sports contest or even an entire sports season.
+, _The Cardsharps_ (), depicting card sharps]] GAMBLING is the wagering of money or something of value (referred to as "the stakes") on an event with an uncertain outcome, with the primary intent of winning money or material goods. Gambling thus requires three elements to be present: consideration (an amount wagered), risk (chance), and a prize.[1] The outcome of the wager is often immediate, such as a single roll of dice, a spin of a roulette wheel, or a horse crossing the finish line, but longer time frames are also common, allowing wagers on the outcome of a future sports contest or even an entire sports season.
 
 The term "gaming"[2] in this context typically refers to instances in which the activity has been specifically permitted by law. The two words are not mutually exclusive; _i.e._, a "gaming" company offers (legal) "gambling" activities to the public[3] and may be regulated by one of many gaming control boards, for example, the Nevada Gaming Control Board. However, this distinction is not universally observed in the English-speaking world. For instance, in the United Kingdom, the regulator of gambling activities is called the Gambling Commission (not the Gaming Commission).[4] The word _gaming_ is used more frequently since the rise of computer and video games to describe activities that do not necessarily involve wagering, especially online gaming, with the new usage still not having displaced the old usage as the primary definition in common dictionaries. "Gaming" has also been used to circumvent laws against "gambling".
 
@@ -26,7 +26,7 @@ Gambling has been a popular activity in the United States for centuries.[15] It 
 
 Regulation
 
-Gamblers_in_the_Ship_of_Fools,_1494.jpg, 1494]] Cornelis_de_Vos_-_Players_and_courtesans_under_a_tent.jpg]]
+, 1494]] ]]
 
 Many jurisdictions, local as well as national, either ban gambling or heavily control it by licensing the vendors. Such regulation generally leads to gambling tourism and illegal gambling in the areas where it is not allowed. The involvement of governments, through regulation and taxation, has led to a close connection between many governments and gaming organizations, where legal gambling provides significant government revenue, such as in Monaco and Macau, China.
 
@@ -47,7 +47,7 @@ An interesting question is what happens when the person trying to make recovery 
 
 Religious views
 
-Max_Kaur_and_religious_leaders,_protest_against_gambling,_Estonia,_Tallinn,_2007.jpg, Estonia]]
+, Estonia]]
 
 Hinduism
 
@@ -82,7 +82,7 @@ While almost any game can be played for money, and any game typically played for
 
 Table games
 
-Caesars_palace_night_2007.jpg main fountain. The statue is a copy of the ancient _Winged Victory of Samothrace_.]] Pachinko_parlor_dsc04790.jpg parlor in Tokyo, Japan]] Ordinary_mahjong.jpg.]]
+main fountain. The statue is a copy of the ancient _Winged Victory of Samothrace_.]] parlor in Tokyo, Japan]] .]]
 
 Electronic gaming
 
@@ -120,7 +120,7 @@ One of the most widespread forms of gambling involves betting on horse or greyho
 
 Sports betting
 
-Tokyo_Racecourse_3.jpg in Tokyo, Japan.]]
+in Tokyo, Japan.]]
 
 Betting on team sports has become an important service industry in many countries. For example, millions of people play the football pools every week in the United Kingdom. In addition to organized sports betting, both legal and illegal, there are many side-betting games played by casual groups of spectators, such as NCAA Basketball Tournament Bracket Pools, Super Bowl Squares, Fantasy Sports Leagues with monetary entry fees and winnings, and in-person spectator games like Moundball.
 
@@ -155,7 +155,7 @@ Many betting systems have been created in an attempt to "beat the house" but no 
 
 Other uses of the term
 
-Gloria_Mundi,_or_The_Devil_addressing_the_sun_-_Pare._Lost,_Book_IV_LCCN2001695204.tif standing on a roulette wheel perched atop a globe showing England and continental Europe. The implication is that his penniless state, indicated by turned-out pockets, is due to gambling.]]
+standing on a roulette wheel perched atop a globe showing England and continental Europe. The implication is that his penniless state, indicated by turned-out pockets, is due to gambling.]]
 
 Many risk-return choices are sometimes referred to colloquially as "gambling."[49] Whether this terminology is acceptable is a matter of debate:
 
@@ -198,7 +198,7 @@ Gamblers exhibit a number of cognitive and motivational biases that distort the 
 
 See also
 
-A_photo_of_a_gambling_stand_in_Paris.jpg]]
+]]
 
 -   -   Casino
 -   Faro Ladies

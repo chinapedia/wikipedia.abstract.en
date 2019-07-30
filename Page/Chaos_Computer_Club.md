@@ -9,7 +9,7 @@ Activities
 
 Regular Events
 
-Ccc2003PirateTent.jpg malapropism to the logo of the former Deutsche Bundespost, the Federal Post of Germany]]
+malapropism to the logo of the former Deutsche Bundespost, the Federal Post of Germany]]
 
 The CCC hosts the annual Chaos Communication Congress, Europe's biggest hacker gathering. When the event was held in the Hamburg congress center in 2013, it drew guests.[7] For the 2016 installment, guests were expected,[8] with additional viewers following the event via live streaming.
 
@@ -34,7 +34,7 @@ History
 
 Founding
 
-Wau_Holland.jpg The CCC was founded in Berlin on 12 September 1981 at a table which had previously belonged to the Kommune 1 in the rooms of the newspaper Die Tageszeitung by Wau Holland and others in anticipation of the prominent role that information technology would play in the way people live and communicate.
+The CCC was founded in Berlin on 12 September 1981 at a table which had previously belonged to the Kommune 1 in the rooms of the newspaper Die Tageszeitung by Wau Holland and others in anticipation of the prominent role that information technology would play in the way people live and communicate.
 
 BTX-Hack
 
@@ -50,7 +50,7 @@ In April 1998, the CCC successfully demonstrated the cloning of a GSM customer c
 
 Project Blinkenlights
 
-Blinkenlights_CCC_at_22C3.jpg In 2001, the CCC celebrated its twentieth birthday with an interactive light installation dubbed _Project Blinkenlights_ that turned the building Haus des Lehrers in Berlin into a giant computer screen. A follow up installation, _Arcade_, at the Bibliothèque nationale de France was the world's biggest light installation. Later in October 2008, CCC's Project Blinkenlights went to Toronto, Ontario, Canada with project Stereoscope.[17]
+In 2001, the CCC celebrated its twentieth birthday with an interactive light installation dubbed _Project Blinkenlights_ that turned the building Haus des Lehrers in Berlin into a giant computer screen. A follow up installation, _Arcade_, at the Bibliothèque nationale de France was the world's biggest light installation. Later in October 2008, CCC's Project Blinkenlights went to Toronto, Ontario, Canada with project Stereoscope.[17]
 
 Schäuble fingerprints
 
@@ -58,7 +58,7 @@ In March 2008, the CCC acquired and published the fingerprints of German Ministe
 
 Staatstrojaner affair
 
-Bundestrojaner.jpg]] The Staatstrojaner (_Federal Trojan horse_) is a computer surveillance program installed secretly on a suspect's computer, which the German police uses to wiretap Internet telephony. This "source wiretapping" is the only feasible way to wiretap in this case, since Internet telephony programs will usually encrypt the data when it leaves the computer. The Federal Constitutional Court of Germany has ruled that the police may only use such programs for telephony wiretapping, and for no other purpose, and that this restriction should be enforced through technical and legal means.
+]] The Staatstrojaner (_Federal Trojan horse_) is a computer surveillance program installed secretly on a suspect's computer, which the German police uses to wiretap Internet telephony. This "source wiretapping" is the only feasible way to wiretap in this case, since Internet telephony programs will usually encrypt the data when it leaves the computer. The Federal Constitutional Court of Germany has ruled that the police may only use such programs for telephony wiretapping, and for no other purpose, and that this restriction should be enforced through technical and legal means.
 
 On 8 October 2011, the CCC published an analysis of the Staatstrojaner software. The software was found to have the ability to remote control the target computer, to capture screenshots, and to fetch and run arbitrary extra code. The CCC says that having this functionality built in is in direct contradiction to the ruling of the constitutional court.
 

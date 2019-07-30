@@ -9,7 +9,7 @@ Early history
 
 The site of today's City of Berkeley was the territory of the Chochenyo/Huchiun band of the Ohlone people when the first Europeans arrived.[1] Evidence of their existence in the area include pits in rock formations, which they used to grind acorns, and a shellmound, now mostly leveled and covered up, along the shoreline of San Francisco Bay at the mouth of Strawberry Creek. Other artifacts were discovered in the 1950s in the downtown area during remodeling of a commercial building, near the upper course of the creek.
 
-Acorn_pit_at_Indian_Rock.jpg is typical of those used by Ohlone Indians to grind acorns.]] The first people of European descent (most of whom were of mixed race and born in America[2]) arrived with the De Anza Expedition in 1776.[3] Today, this is noted by signage on Interstate 80, which runs along the San Francisco Bay shoreline of Berkeley. The De Anza Expedition led to establishment of the Spanish Presidio of San Francisco at the entrance to San Francisco Bay (the _Golden Gate)_. Luis Peralta was among the soldiers at the Presidio. For his services to the King of Spain, he was granted a vast stretch of land on the east shore of San Francisco Bay (the _contra costa_, "opposite shore") for a ranch, including that portion that now comprises the City of Berkeley.
+is typical of those used by Ohlone Indians to grind acorns.]] The first people of European descent (most of whom were of mixed race and born in America[2]) arrived with the De Anza Expedition in 1776.[3] Today, this is noted by signage on Interstate 80, which runs along the San Francisco Bay shoreline of Berkeley. The De Anza Expedition led to establishment of the Spanish Presidio of San Francisco at the entrance to San Francisco Bay (the _Golden Gate)_. Luis Peralta was among the soldiers at the Presidio. For his services to the King of Spain, he was granted a vast stretch of land on the east shore of San Francisco Bay (the _contra costa_, "opposite shore") for a ranch, including that portion that now comprises the City of Berkeley.
 
 Luis Peralta named his holding "Rancho San Antonio". The primary activity of the ranch was raising cattle for meat and hides, but hunting and farming were also pursued. Eventually, Peralta gave portions of the ranch to each of his four sons. What is now Berkeley lies mostly in the portion that went to Peralta's son Domingo, with a little in the portion that went to another son, Vicente. No artifact survives of the Domingo or Vicente ranches, but their names survive in Berkeley street names (Vicente, Domingo, and Peralta). However, legal title to all land in the City of Berkeley remains based on the original Peralta land grant.
 
@@ -17,7 +17,7 @@ The Peraltas' Rancho San Antonio continued after Alta California passed from Spa
 
 Politically, the area that became Berkeley was initially part of a vast Contra Costa County. On March 25, 1853, Alameda County was created from a division of Contra Costa County, as well as from a small portion of Santa Clara County. The area that became Berkeley was then the northern part of the "Oakland Township" subdivision of Alameda County. During this period, "Berkeley" was mostly a mix of open land, farms, and ranches, with a small, though busy, wharf by the bay.
 
-Indian_rock.jpg in the North Berkeley Hills. Berkeley is in the foreground, with the Berkeley Marina and César Chávez Park just beyond.]]
+in the North Berkeley Hills. Berkeley is in the foreground, with the Berkeley Marina and César Chávez Park just beyond.]]
 
 Late 19th century
 
@@ -39,8 +39,6 @@ Due to the influence of the university, the modern age came quickly to Berkeley.
 
 Early 20th century
 
-Oakland_1917.jpg
-
 Berkeley's slow growth ended abruptly with the Great San Francisco earthquake of 1906. The town and other parts of the East Bay escaped serious damage, and thousands of refugees flowed across the Bay. Among them were most of San Francisco's painters and sculptors, who between 1907 and 1911 created one of the largest art colonies west of Chicago. Artist and critic Jennie V. Cannon described the founding of the Berkeley Art Association and the rivalries of competing studios and art clubs.[10]
 
 In 1904, the first hospitals in Berkeley were created: the Alta Bates Sanatorium for women and children, founded by nurse Alta Bates on Walnut Street, and the Roosevelt (later, Herrick) Hospital, by Dr. LeRoy Francis Herrick, on the corner of Dwight Way and Milvia Street.[11][12]
@@ -53,7 +51,7 @@ On September 17, 1923, a major fire swept down the hills toward the university c
 
 The next big growth occurred with the advent of World War II, when large numbers of people moved to the Bay Area to work in the many war industries, such as the immense Kaiser Shipyards in nearby Richmond. One who moved out, but played a big role in the outcome of the War was U.C. Professor and Berkeley resident J. Robert Oppenheimer. During the war, an Army base, Camp Ashby, was temporarily sited in Berkeley.
 
-Berkeley,_California._University_of_California_Lawn_Forum._Wheeler_Auditorium_steps_where_more_informal_and_less..._-_NARA_-_532100.tif in 1940]] The element berkelium was synthesized utilizing the 60-inch cyclotron at UC Berkeley, and named in 1949, recognizing the university, thus also placing the city's name in the list of elements.
+in 1940]] The element berkelium was synthesized utilizing the 60-inch cyclotron at UC Berkeley, and named in 1949, recognizing the university, thus also placing the city's name in the list of elements.
 
 1950s and 1960s
 
@@ -63,8 +61,6 @@ The postwar years brought moderate growth to the city, as events on the U.C. cam
 
 Berkeley is strongly identified with the rapid social changes, civic unrest, and political upheaval that characterized the late 1960s.[16] In that period, Berkeley—especially Telegraph Avenue—became a focal point for the hippie movement, which spilled over the Bay from San Francisco. Many hippies were apolitical drop-outs, rather than students, but in the heady atmosphere of Berkeley in 1967–1969 there was considerable overlap between the hippie movement and the radical left. An iconic event in the Berkeley Sixties scene was a conflict over a parcel of university property south of the contiguous campus site that came to be called "People's Park."
 
-People's-Park.jpg
-
 The battle over the disposition of People's Park resulted in a month-long occupation of Berkeley by the National Guard on orders of then-Governor Ronald Reagan. In the end, the park remained undeveloped, and remains so today. A spin-off, _People's Park Annex_, was established at the same time by activist citizens of Berkeley on a strip of land above the Bay Area Rapid Transit subway construction along Hearst Avenue northwest of the U.C. campus. The land had also been intended for development, but was turned over to the city by BART and is now Ohlone Park.
 
 The era of large public protest in Berkeley waned considerably with the end of the Vietnam War in 1975. While the 1960s were the heyday of liberal activism in Berkeley, it remains one of the most overwhelmingly Democratic cities in the United States.
@@ -73,7 +69,7 @@ The era of large public protest in Berkeley waned considerably with the end of t
 
 Housing and zoning changes
 
-Berkeley_BART_Station_1973_Postcard.jpg The Berkeley population declined in the 1970s, partly due to an exodus to the suburbs. Some moved because of the rising cost of living throughout the Bay Area, and others because of the decline and disappearance of many industries in West Berkeley.
+The Berkeley population declined in the 1970s, partly due to an exodus to the suburbs. Some moved because of the rising cost of living throughout the Bay Area, and others because of the decline and disappearance of many industries in West Berkeley.
 
 Increasing enrollment at the university led to replacement of older buildings by large apartment buildings, especially in older parts of the city near the University and downtown. Increasing enrollment also led the university to wanting to redevelop certain places of Berkeley, especially Southside, but more specifically People's Park.[17] Preservationists passed the Neighborhood Protection Ordinance in 1973 by ballot measure and the Landmarks Preservation Ordinance in 1974 by City Council. Together, these ordinances brought most new construction to a halt.[18] Facing rising housing costs, residents voted to enact rent control with vacancy decontrol in 1980.[19]
 
@@ -91,7 +87,7 @@ Demographic changes
 
 In 1995, California's Costa-Hawkins Rental Housing Act ended vacancy control, allowing rents to increase when a tenant moved out. Despite a slow down in 2005–2007, median home prices and rents remain dramatically higher than the rest of the nation,[23] fueled by spillover from the San Francisco housing shortage and population growth.
 
-South and West Berkeley underwent gentrification, with some historically Black neighborhoods such as the Adeline Corridor seeing a 50% decline in Black / African American population from 1990 to 2010.[24] In the 1990s, Public Television's Frontline documentary series featured race relations at Berkeley's only public high school, Berkeley High School.[25] Durant-ave-lotus-house.jpg With an economy dominated by the University of California and a high-demand housing market, Berkeley was relatively unaffected by the Great Recession. State budget cuts caused the University to increase the number of out-of-state and international students, with international enrollment, mostly from Asia, rising from 2,785 in 2007 to 5,951 in 2016.[26] Since then, more international restaurants have opened downtown and on Telegraph Avenue, including East Asian chains such as 85C Bakery Cafe and Daiso.
+South and West Berkeley underwent gentrification, with some historically Black neighborhoods such as the Adeline Corridor seeing a 50% decline in Black / African American population from 1990 to 2010.[24] In the 1990s, Public Television's Frontline documentary series featured race relations at Berkeley's only public high school, Berkeley High School.[25] With an economy dominated by the University of California and a high-demand housing market, Berkeley was relatively unaffected by the Great Recession. State budget cuts caused the University to increase the number of out-of-state and international students, with international enrollment, mostly from Asia, rising from 2,785 in 2007 to 5,951 in 2016.[26] Since then, more international restaurants have opened downtown and on Telegraph Avenue, including East Asian chains such as 85C Bakery Cafe and Daiso.
 
 A wave of downtown apartment construction began in 1998.[27]
 
@@ -100,7 +96,6 @@ Protests
 In 2006, the Berkeley Oak Grove Protest began protesting construction of a new sports center annex to Memorial Stadium at the expense of a grove of oak trees on the UC campus. The protest ended in September 2008 after a lengthy court process.
 
 In 2007–2008, Berkeley received media attention due to demonstrations against a Marine Corps recruiting office in downtown Berkeley and a series of controversial motions by Berkeley's city council regarding opposition to Marine recruiting. (_See_ Berkeley Marine Corps Recruiting Center controversy.)
-IMAG4094-berkeley-shattuck-between-haste-and-dwight.jpg
 
 2010s
 
@@ -125,7 +120,7 @@ In 2019, Protesters took up residence in People's Park against tree-chopping and
 
 Geography
 
-Berkeley is located at (37.871775, −122.274603).[36] BayareaUSGS.jpg
+Berkeley is located at (37.871775, −122.274603).[36]
 
 According to the United States Census Bureau the city's area includes of land and (40.83%) water, most of it part of San Francisco Bay.
 
@@ -164,7 +159,7 @@ In the late spring and early fall, strong offshore winds of sinking air typicall
 
 Demographics
 
-Telegraph-Ave-Berkeley.jpg]]
+]]
 
 The 2010 United States Census[47] reported that Berkeley had a population of 112,580. The population density was 10,752 people per square mile of land area (4,104/km²). The racial makeup of Berkeley was 66,996 (59.5%) White, 11,241 (10.0%) Black or African American, 479 (0.4%) Native American, 21,690 (19.3%) Asian (8.4% Chinese, 2.4% Indian, 2.1% Korean, 1.6% Japanese, 1.5% Filipino, 1.0% Vietnamese), 186 (0.2%) Pacific Islander, 4,994 (4.4%) from other races, and 6,994 (6.2%) from two or more races. There were 12,209 people (10.8%) of Hispanic or Latino ancestry, of any race. 6.8% of the city's population was of Mexican ancestry.
 
@@ -236,7 +231,7 @@ Berkeley is served by Amtrak (Capitol Corridor), AC Transit, BART (Ashby, Downto
 
 Berkeley has one of the highest rates of bicycle and pedestrian commuting in the nation. Berkeley is the safest city of its size in California for pedestrians and cyclists, considering the number of injuries per pedestrian and cyclist, rather than per capita.[100]
 
-IMAG4107-berkeley-etna-and-dwight.jpg Berkeley has modified its original grid roadway structure through use of diverters and barriers, moving most traffic out of neighborhoods and onto arterial streets (visitors often find this confusing, because the diverters are not shown on all maps). Berkeley maintains a separate grid of arterial streets for bicycles, called Bicycle Boulevards, with bike lanes and lower amounts of car traffic than the major streets they often parallel.
+Berkeley has modified its original grid roadway structure through use of diverters and barriers, moving most traffic out of neighborhoods and onto arterial streets (visitors often find this confusing, because the diverters are not shown on all maps). Berkeley maintains a separate grid of arterial streets for bicycles, called Bicycle Boulevards, with bike lanes and lower amounts of car traffic than the major streets they often parallel.
 
 Berkeley hosts car sharing networks including Uhaul Car Share, and Zipcar. Rather than owning (and parking) their own cars, members share a group of cars parked nearby. Web- and telephone-based reservation systems keep track of hours and charges. Several "pods" (points of departure where cars are kept) exist throughout the city, in several downtown locations, at the Ashby and North Berkeley BART stations, and at various other locations in Berkeley (and other cities in the region). Using alternative transportation is encouraged.
 
@@ -257,7 +252,7 @@ Economy
 
 Top employers
 
-CampanileMtTamalpiasSunset-original.jpg at the University of California]] According to the city's 2016 Comprehensive Annual Financial Report,[106] the top employers in the city are:
+at the University of California]] According to the city's 2016 Comprehensive Annual Financial Report,[106] the top employers in the city are:
 
   #    Employer                                                   Employees
   ---- ---------------------------------------------------------- -----------
@@ -306,8 +301,6 @@ Bicycle and pedestrian paths
 
 Neighborhoods
 
-Claremonthotel03192006.JPG
-
 Berkeley has a number of distinct neighborhoods. Surrounding the University of California campus are the most densely populated parts of the city. West of the campus is Downtown Berkeley, the city's traditional commercial core; home of the civic center, the city's only public high school, the busiest BART station in Berkeley, as well as a major transfer point for AC Transit buses. South of the campus is the Southside neighborhood, mainly a student ghetto, where much of the university's student housing is located. The busiest stretch of Telegraph Avenue is in this neighborhood. North of the campus is the quieter Northside neighborhood, the location of the Graduate Theological Union.
 
 Farther from the university campus, the influence of the university quickly becomes less visible. Most of Berkeley's neighborhoods are primarily made up of detached houses, often with separate in-law units in the rear, although larger apartment buildings are also common in many neighborhoods. Commercial activities are concentrated along the major avenues and at important intersections.
@@ -322,7 +315,7 @@ File:IMAG4110-berkeley-2729-dwight.jpg%7CMid-20th century apartments with soft s
 
 Points of interest
 
-UCB-University-Library.jpg]] BerkeleyAndBayAtNight.jpg]]
+]] ]]
 
 -   University of California, Berkeley
 -   Berkeley Art Museum and Pacific Film Archive
@@ -348,7 +341,7 @@ UCB-University-Library.jpg]] BerkeleyAndBayAtNight.jpg]]
 
 Parks and recreation
 
-IMAG4078-civic-center-park.jpg Civic Center Park]] The city has many parks, and promotes greenery and the environment. The city has planted trees for years and is a leader in the nationwide effort to re-tree urban areas. Tilden Regional Park, lies east of the city, occupying the upper extent of Wildcat Canyon between the Berkeley Hills and the San Pablo Ridge. The city is also heavily involved in creek restoration and wetlands restoration, including a planned _daylighting_ of Strawberry Creek along Center Street. The Berkeley Marina and East Shore State Park flank its shoreline at San Francisco Bay and organizations like the Urban Creeks Council and Friends of the Five Creeks the former of which is headquartered in Berkeley support the riparian areas in the town and coastlines as well. César Chávez Park, near the Berkeley Marina, was built at the former site of the city dump.
+Civic Center Park]] The city has many parks, and promotes greenery and the environment. The city has planted trees for years and is a leader in the nationwide effort to re-tree urban areas. Tilden Regional Park, lies east of the city, occupying the upper extent of Wildcat Canyon between the Berkeley Hills and the San Pablo Ridge. The city is also heavily involved in creek restoration and wetlands restoration, including a planned _daylighting_ of Strawberry Creek along Center Street. The Berkeley Marina and East Shore State Park flank its shoreline at San Francisco Bay and organizations like the Urban Creeks Council and Friends of the Five Creeks the former of which is headquartered in Berkeley support the riparian areas in the town and coastlines as well. César Chávez Park, near the Berkeley Marina, was built at the former site of the city dump.
 
 Landmarks and historic districts
 
@@ -361,14 +354,12 @@ Landmarks and historic districts
 -   Studio Building – architect not recorded, built for Frederick H. Dakin (1905)
 -   Thorsen House (Sigma Phi Society of the Thorsen House) – Charles Sumner Greene & Henry Mather Greene (1908–10)
 
-Studio_Building_(Berkeley,_CA).JPG
-
 Historic districts listed in the National Register of Historic Places:
 
 -   George C. Edwards Stadium – Located at intersection of Bancroft Way and Fulton Street on University of California, Berkeley campus (, 3 buildings, 4 structures, 3 objects; added 1993).
 -   Site of the Clark Kerr Campus, UC Berkeley – until 1980, this location housed the State Asylum for the Deaf, Dumb and Blind, also known as _The California Schools for the Deaf and Blind_ – Bounded by Dwight Way, the city line, Derby Street, and Warring Street (, 20 buildings; added 1982). The school was closed in 1980 and the Clark Kerr Campus was opened in 1986.
 
-See _List of Berkeley Landmarks, Structures of Merit, and Historic Districts_ UCBerkeleyCampanileSatherGate.jpg
+See _List of Berkeley Landmarks, Structures of Merit, and Historic Districts_
 
 
 Arts and culture
@@ -399,7 +390,7 @@ The Graduate Theological Union, a consortium of nine independent theological sch
 
 Primary and secondary schools
 
-BerkeleyHigh.JPG]] The Berkeley Unified School District operates public schools.
+]] The Berkeley Unified School District operates public schools.
 
 The first public school in Berkeley was the Ocean View School, now the site of the Berkeley Adult School located at Virginia Street and San Pablo Avenue. The public schools today are administered by the Berkeley Unified School District. In the 1960s, Berkeley was one of the earliest US cities to voluntarily desegregate, utilizing a system of buses, still in use. The city has one public high school, Berkeley High School (BHS). Established in 1880, BHS currently has over 3,000 students. The Berkeley High campus was designated a historic district by the National Register of Historic Places on January 7, 2008.[123] Saint Mary's College High School, a Catholic school, also has its street address in Berkeley, although most of the grounds and buildings are actually in neighboring Albany. Berkeley has 11 public elementary schools and three middle schools.
 
@@ -416,7 +407,7 @@ Berkeley Public Library serves as the municipal library. University of Californi
 
 Government
 
-Jesse-arreguin-speaking.jpg Berkeley has a council–manager government.[126] The mayor is elected at-large for a four-year term and is the ceremonial head of the city and the chair of the city council. The Berkeley City Council is composed of the mayor and eight council members elected by district who each serve four-year terms. Districts 2, 3, 5 and 6 hold their elections in years divisible by four while Districts 1, 4, 7 and 8 hold theirs in even-numbered years not divisible by four. The city council appoints a city manager, who is the chief executive of the city. Additionally, the city voters directly elect an independent city auditor, school board, and rent stabilization board. The current councilmembers and auditor are:[127]
+Berkeley has a council–manager government.[126] The mayor is elected at-large for a four-year term and is the ceremonial head of the city and the chair of the city council. The Berkeley City Council is composed of the mayor and eight council members elected by district who each serve four-year terms. Districts 2, 3, 5 and 6 hold their elections in years divisible by four while Districts 1, 4, 7 and 8 hold theirs in even-numbered years not divisible by four. The city council appoints a city manager, who is the chief executive of the city. Additionally, the city voters directly elect an independent city auditor, school board, and rent stabilization board. The current councilmembers and auditor are:[127]
 
 -   Mayor (At-Large): Jesse Arreguín
 -   District 1: Rashi Kesarwani

@@ -66,7 +66,7 @@ Religion
 
 Seal and flag
 
-Dedham_flag.JPG The town's seal was originally designed by a member of the Dedham Historical Society.[11] In the center is a crest containing the Old Avery Oak.[12] When the tree was finally felled, the gavel used by the Moderator at Town Meeting was carved out of it.[13] Above the tree are the scales of justice, representing Dedham as the county seat and home to Norfolk County's courts.[14] On the left of the tree are agricultural instruments, and on the right is a factory, showing Dedham's history first as a town of farmers and then as one with a number of mills and factories, particularly along Mother Brook.[15] Below the tree is a banner with the word "Contentment," the name of the original plantation.[16]
+The town's seal was originally designed by a member of the Dedham Historical Society.[11] In the center is a crest containing the Old Avery Oak.[12] When the tree was finally felled, the gavel used by the Moderator at Town Meeting was carved out of it.[13] Above the tree are the scales of justice, representing Dedham as the county seat and home to Norfolk County's courts.[14] On the left of the tree are agricultural instruments, and on the right is a factory, showing Dedham's history first as a town of farmers and then as one with a number of mills and factories, particularly along Mother Brook.[15] Below the tree is a banner with the word "Contentment," the name of the original plantation.[16]
 
 The town flag is red with the seal prominent and in the center. In the lower left corner is part of the Avery Oak, and in the lower right is part of the Fairbanks House. It hangs in the selectmen's chambers at town hall and in the Great Hall of the Massachusetts State House.
 
@@ -263,7 +263,7 @@ Higher education
 
 Places of worship
 
-Christian_science.jpg building in Dedham.]]
+building in Dedham.]]
 
   Place of worship                    Denomination                             Size                 Founded
   ----------------------------------- ---------------------------------------- -------------------- ----------------------
@@ -312,8 +312,6 @@ Dedham is home to a number of community organizations, including
 
 
 Points of interest
-
-Mill Pond Park
 
 -   The American Legion Post 18
 -   Dedham Country Day School

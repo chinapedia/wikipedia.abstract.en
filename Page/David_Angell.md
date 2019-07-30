@@ -18,7 +18,7 @@ Angell and his wife, Lynn, were among the passengers of American Airlines Flight
 
 Legacy
 
-12.6.11AngellsPanelN-1ByLuigiNovi.jpg's North Pool, along with other passengers from Flight 11.]]
+'s North Pool, along with other passengers from Flight 11.]]
 
 The American Screenwriters Association awards the annual David Angell Humanitarian Award to any individual in the entertainment industry who contributes to global well-being through donations of time, expertise or other support to improve the human condition.[15]
 

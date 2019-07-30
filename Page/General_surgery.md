@@ -1,4 +1,4 @@
-Surgeon.jpg operating.]]
+operating.]]
 
 GENERAL SURGERY is a surgical specialty that focuses on abdominal contents including esophagus, stomach, small intestine, large intestine, liver, pancreas, gallbladder, appendix and bile ducts, and often the thyroid gland (depending on local referral patterns). They also deal with diseases involving the skin, breast, soft tissue, trauma, peripheral vascular surgery and hernias and perform endoscopic procedures such as gastroscopy and colonoscopy.
 

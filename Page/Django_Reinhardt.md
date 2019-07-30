@@ -37,8 +37,6 @@ Reinhardt would acquire his first Selmer guitar in the mid-1930s.
 
 Formation of the quintet
 
-Django&Grappelli_(cropped).jpg
-
 From 1934 until the outbreak of World War II in 1939, Reinhardt and Grappelli worked together as the principal soloists of their newly formed Hot Club, in Paris. It became the most accomplished and innovative European jazz group of the period.[35]
 
 Reinhardt's brother Joseph and Roger Chaput also played on guitar, and Louis Vola was on bass.[36] The Quintette was one of the few well-known jazz ensembles composed only of stringed instruments.[37]
@@ -71,7 +69,7 @@ In 1943, Reinhardt married Sophie "Naguine" Ziegler in Salbris. They had a son, 
 
 United States tour
 
-Django_Reinhardt_and_Duke_Ellington_(Gottlieb).jpg After the war, Reinhardt rejoined Grappelli in the UK. In the autumn of 1946, he made his first tour in the United States, debuting at Cleveland Music Hall[63] as a special guest soloist with Duke Ellington and His Orchestra. He played with many notable musicians and composers, such as Maury Deutsch. At the end of the tour, Reinhardt played two nights at Carnegie Hall in New York City; he received a great ovation and took six curtain calls on the first night.
+After the war, Reinhardt rejoined Grappelli in the UK. In the autumn of 1946, he made his first tour in the United States, debuting at Cleveland Music Hall[63] as a special guest soloist with Duke Ellington and His Orchestra. He played with many notable musicians and composers, such as Maury Deutsch. At the end of the tour, Reinhardt played two nights at Carnegie Hall in New York City; he received a great ovation and took six curtain calls on the first night.
 
 Despite his pride in touring with Ellington (one of two letters to Grappelli relates his excitement), he was not fully integrated into the band. He played a few tunes at the end of the show, backed by Ellington, with no special arrangements written for him. After the tour, Reinhardt secured an engagement at Café Society Uptown, where he played four solos a day, backed by the resident band. These performances drew large audiences.[64] Having failed to bring his usual Selmer Modèle Jazz, he played on a borrowed electric guitar, which he felt hampered the delicacy of his style.[65] He had been promised jobs in California, but they failed to develop. Tired of waiting, Reinhardt returned to France in February 1947.[66]
 
@@ -85,7 +83,7 @@ Back in Paris, in June 1950, Reinhardt was invited to join an entourage to welco
 
 Final years
 
-Django_Reinhardt_Plaque_Samois.JPG]] In 1951, Reinhardt retired to Samois-sur-Seine, near Fontainebleau, where he lived until his death. He continued to play in Paris jazz clubs and began playing electric guitar. (He often used a Selmer fitted with an electric pickup, despite his initial hesitation about the instrument.) In his final recordings, made with his Nouvelle Quintette in the last few months of his life, he had begun moving in a new musical direction, in which he assimilated the vocabulary of bebop and fused it with his own melodic style.[72]
+]] In 1951, Reinhardt retired to Samois-sur-Seine, near Fontainebleau, where he lived until his death. He continued to play in Paris jazz clubs and began playing electric guitar. (He often used a Selmer fitted with an electric pickup, despite his initial hesitation about the instrument.) In his final recordings, made with his Nouvelle Quintette in the last few months of his life, he had begun moving in a new musical direction, in which he assimilated the vocabulary of bebop and fused it with his own melodic style.[72]
 
 On 16 May 1953, while walking from the Gare de Fontainebleau–Avon Station after playing in a Paris club, he collapsed outside his house from a brain hemorrhage.[73] It was a Saturday, and it took a full day for a doctor to arrive.[74] Reinhardt was declared dead on arrival at the hospital in Fontainebleau, at the age of 43.
 
@@ -109,7 +107,7 @@ The Allman Brothers Band song "Jessica" was written by Dickey Betts in tribute t
 
 Jazz guitarists in the U.S., such as Charlie Byrd and Wes Montgomery, were influenced by his style. In fact, Byrd, who lived from 1925 to 1999, said that Reinhardt was his primary influence. Guitarist Mike Peters notes that "the word 'genius' is bantered about too much. But in jazz, Louis Armstrong was a genius, Duke Ellington was another one, and Reinhardt was also."[85] Grisman adds, "As far as I'm concerned, no one since has come anywhere close to Django Reinhardt as an improviser or technician."[86]
 
-30e_festival_Django_Reinhardt_Samois-sur-Seine.jpg The popularity of gypsy jazz has generated an increasing number of festivals, such as the Festival Django Reinhardt held every last weekend of June since 1983 in Samois-sur-Seine (France),[87][88] the various DjangoFests held throughout Europe[89] and the US, and Django in June, an annual camp for Gypsy jazz musicians and aficionados.[90][91]
+The popularity of gypsy jazz has generated an increasing number of festivals, such as the Festival Django Reinhardt held every last weekend of June since 1983 in Samois-sur-Seine (France),[87][88] the various DjangoFests held throughout Europe[89] and the US, and Django in June, an annual camp for Gypsy jazz musicians and aficionados.[90][91]
 
 Tributes
 

@@ -9,7 +9,7 @@ Despite its significant mineral deposits and other resources, such as uranium re
 
 History
 
-Bouar_Megaliths_stamp.jpg Megaliths, pictured here on a 1967 Central African stamp, date back to the very late Neolithic Era (c. 3500–2700 BC).]]
+Megaliths, pictured here on a 1967 Central African stamp, date back to the very late Neolithic Era (c. 3500–2700 BC).]]
 
 Early history
 
@@ -23,13 +23,13 @@ Bananas arrived in the region and added an important source of carbohydrates to 
 
 16th–19th century
 
-Sultan_and_his_wives_at_Bangassou,_1906.png and his wives, 1906]] During the 16th and 17th centuries slave traders began to raid the region as part of the expansion of the Saharan and Nile River slave routes. Their captives were enslaved and shipped to the Mediterranean coast, Europe, Arabia, the Western Hemisphere, or to the slave ports and factories along the West and North Africa or South the Ubanqui and Congo rivers.[17][18] In the mid 19th century, the Bobangi people became major slave traders and sold their captives to the Americas using the Ubangi river to reach the coast.[19] During the 18th century Bandia-Nzakara peoples established the Bangassou Kingdom along the Ubangi River.[20] In 1875, the Sudanese sultan Rabih az-Zubayr governed Upper-Oubangui, which included present-day CAR.
+and his wives, 1906]] During the 16th and 17th centuries slave traders began to raid the region as part of the expansion of the Saharan and Nile River slave routes. Their captives were enslaved and shipped to the Mediterranean coast, Europe, Arabia, the Western Hemisphere, or to the slave ports and factories along the West and North Africa or South the Ubanqui and Congo rivers.[17][18] In the mid 19th century, the Bobangi people became major slave traders and sold their captives to the Americas using the Ubangi river to reach the coast.[19] During the 18th century Bandia-Nzakara peoples established the Bangassou Kingdom along the Ubangi River.[20] In 1875, the Sudanese sultan Rabih az-Zubayr governed Upper-Oubangui, which included present-day CAR.
 
 French colonial period
 
 The European invasion of Central African territory began in the late 19th century during the Scramble for Africa.[21] Europeans, primarily the French, Germans, and Belgians, arrived in the area in 1885. France seized and colonized Ubangi-Shari territory in 1894. In 1911 at the Treaty of Fez, France ceded a nearly 300,000 km² portion of the Sangha and Lobaye basins to the German Empire which ceded a smaller area (in present-day Chad) to France. After World War I France again annexed the territory. Modeled on King Leopold's Congo Free State, concessions were doled out to private companies that endeavored to strip the region's assets as quickly and cheaply as possible before depositing a percentage of their profits into the French treasury. The concessionary companies forced local people to harvest rubber, coffee, and other commodities without pay and held their families hostage until they met their quotas. Between 1890, a year after the French first arrived, and 1940, the population declined by half due to diseases, famine and exploitation by private companies.[22]
 
-De_Gaulle_Bangui_1940.jpg in Bangui, 1940.]] In 1920 French Equatorial Africa was established and Ubangi-Shari was administered from Brazzaville.[23] During the 1920s and 1930s the French introduced a policy of mandatory cotton cultivation,[24] a network of roads was built, attempts were made to combat sleeping sickness, and Protestant missions were established to spread Christianity. New forms of forced labor were also introduced and a large number of Ubangians were sent to work on the Congo-Ocean Railway. Through the period of construction until 1934 there was a continual heavy cost in human lives, with total deaths among all workers along the railway estimated in excess of 17,000 of the construction workers, from a combination of both industrial accidents and diseases including malaria.[25] In 1928, a major insurrection, the Kongo-Wara rebellion or 'war of the hoe handle', broke out in Western Ubangi-Shari and continued for several years. The extent of this insurrection, which was perhaps the largest anti-colonial rebellion in Africa during the interwar years, was carefully hidden from the French public because it provided evidence of strong opposition to French colonial rule and forced labor.
+in Bangui, 1940.]] In 1920 French Equatorial Africa was established and Ubangi-Shari was administered from Brazzaville.[23] During the 1920s and 1930s the French introduced a policy of mandatory cotton cultivation,[24] a network of roads was built, attempts were made to combat sleeping sickness, and Protestant missions were established to spread Christianity. New forms of forced labor were also introduced and a large number of Ubangians were sent to work on the Congo-Ocean Railway. Through the period of construction until 1934 there was a continual heavy cost in human lives, with total deaths among all workers along the railway estimated in excess of 17,000 of the construction workers, from a combination of both industrial accidents and diseases including malaria.[25] In 1928, a major insurrection, the Kongo-Wara rebellion or 'war of the hoe handle', broke out in Western Ubangi-Shari and continued for several years. The extent of this insurrection, which was perhaps the largest anti-colonial rebellion in Africa during the interwar years, was carefully hidden from the French public because it provided evidence of strong opposition to French colonial rule and forced labor.
 
 In September 1940, during the Second World War, pro-Gaullist French officers took control of Ubangi-Shari and General Leclerc established his headquarters for the Free French Forces in Bangui.[26] In 1946 Barthélémy Boganda was elected with 9,000 votes to the French National Assembly, becoming the first representative of the CAR in the French government. Boganda maintained a political stance against racism and the colonial regime but gradually became disheartened with the French political system and returned to CAR to establish the Movement for the Social Evolution of Black Africa (_Mouvement pour l'évolution sociale de l'Afrique noire_, MESAN) in 1950.
 
@@ -39,7 +39,7 @@ In the Ubangi-Shari Territorial Assembly election in 1957, MESAN captured 347,00
 
 Bokassa and the Central African Empire (1965–1979)
 
-Bokassa_colored.png, self-crowned Emperor of Central Africa.[32] ]] On 31 December 1965, Dacko was overthrown in the Saint-Sylvestre coup d'état by Colonel Jean-Bédel Bokassa, who suspended the constitution and dissolved the National Assembly. President Bokassa declared himself President for Life in 1972, and named himself Emperor Bokassa I of the Central African Empire (as the country was renamed) on 4 December 1976. A year later, Emperor Bokassa crowned himself in a lavish and expensive ceremony that was ridiculed by much of the world.[33]
+, self-crowned Emperor of Central Africa.[32] ]] On 31 December 1965, Dacko was overthrown in the Saint-Sylvestre coup d'état by Colonel Jean-Bédel Bokassa, who suspended the constitution and dissolved the National Assembly. President Bokassa declared himself President for Life in 1972, and named himself Emperor Bokassa I of the Central African Empire (as the country was renamed) on 4 December 1976. A year later, Emperor Bokassa crowned himself in a lavish and expensive ceremony that was ridiculed by much of the world.[33]
 
 In April 1979, young students protested against Bokassa's decree that all school attendees would need to buy uniforms from a company owned by one of his wives. The government violently suppressed the protests, killing 100 children and teenagers. Bokassa himself may have been personally involved in some of the killings.[34] In September 1979, France overthrew Bokassa and restored Dacko to power (subsequently restoring the name of the country and the original government to the Central African Republic). Dacko, in turn, was again overthrown in a coup by General André Kolingba on 1 September 1981.
 
@@ -63,7 +63,7 @@ In the aftermath of the failed coup, militias loyal to Patassé sought revenge a
 
 Civil wars
 
-Rebel_in_northern_CAR_01.jpg François Bozizé suspended the constitution and named a new cabinet, which included most opposition parties. Abel Goumba was named vice-president, which gave Bozizé's new government a positive image. Bozizé established a broad-based National Transition Council to draft a new constitution, and announced that he would step down and run for office once the new constitution was approved.
+François Bozizé suspended the constitution and named a new cabinet, which included most opposition parties. Abel Goumba was named vice-president, which gave Bozizé's new government a positive image. Bozizé established a broad-based National Transition Council to draft a new constitution, and announced that he would step down and run for office once the new constitution was approved.
 
 In 2004, the Central African Republic Bush War began, as forces opposed to Bozizé took up arms against his government. In May 2005, Bozizé won the presidential election, which excluded Patassé, and in 2006 fighting continued between the government and the rebels. In November 2006, Bozizé's government requested French military support to help them repel rebels who had taken control of towns in the country's northern regions.[41] Though the initially public details of the agreement pertained to logistics and intelligence, the French assistance eventually included strikes by Dassault Mirage 2000 fighters against rebel positions.[42]
 
@@ -73,7 +73,7 @@ In 2011, Bozizé was reelected in an election which was widely considered fraudu
 
 In November 2012, Séléka, a coalition of rebel groups, took over towns in the northern and central regions of the country. These groups eventually reached a peace deal with the Bozizé's government in January 2013 involving a power sharing government[44] but this deal broke down and the rebels seized the capital in March 2013 and Bozizé fled the country.[45][46]
 
-Michel Djotodia took over as president. Prime Minister Nicolas Tiangaye requested a UN peacekeeping force from the UN Security Council and on 31 May former President Bozizé was indicted for crimes against humanity and incitement of genocide.[47] By the end of the year there were international warnings of a "genocide"[48][49] and fighting was largely from reprisal attacks on civilians from Seleka's predominantly Muslim fighters and Christian militias called "anti-balaka."[50] By August 2013, there were reports of over 200,000 internally displaced persons (IDPs)[51][52] Refugees_of_the_fighting_in_the_Central_African_Republic_observe_Rwandan_soldiers_being_dropped_off_at_Bangui_M'Poko_International_Airport_in_the_Central_African_Republic_Jan._19,_2014_140119-F-RN211-760.jpgs of the fighting in the Central African Republic, January 2014]]
+Michel Djotodia took over as president. Prime Minister Nicolas Tiangaye requested a UN peacekeeping force from the UN Security Council and on 31 May former President Bozizé was indicted for crimes against humanity and incitement of genocide.[47] By the end of the year there were international warnings of a "genocide"[48][49] and fighting was largely from reprisal attacks on civilians from Seleka's predominantly Muslim fighters and Christian militias called "anti-balaka."[50] By August 2013, there were reports of over 200,000 internally displaced persons (IDPs)[51][52] s of the fighting in the Central African Republic, January 2014]]
 
 French President François Hollande called on the UN Security Council and African Union to increase their efforts to stabilize the country. On 18 February 2014, United Nations Secretary-General Ban Ki-moon called on the UN Security Council to immediately deploy 3,000 troops to the country, bolstering the 6,000 African Union soldiers and 2,000 French troops already in the country, to combat civilians being murdered in large numbers. The _Séléka_ government was said to be divided.[53] and in September 2013, Djotodia officially disbanded Seleka, but many rebels refused to disarm, becoming known as ex-Seleka, and veered further out of government control.[54] It is argued that the focus of the initial disarmament efforts exclusively on the Seleka inadvertently handed the anti-Balaka the upper hand, leading to the forced displacement of Muslim civilians by anti-Balaka in Bangui and western CAR.[55]
 
@@ -82,7 +82,7 @@ On 11 January 2014, Michael Djotodia and Nicolas Tiengaye resigned as part of a 
 
 Geography
 
-Republique_Centrafricaine_-_Boali_-_Chutes_de_Boali.jpg CARvillagefromthesky.jpg The Central African Republic is a landlocked nation within the interior of the African continent. It is bordered by Cameroon, Chad, Sudan, South Sudan, the Democratic Republic of the Congo, and the Republic of the Congo. The country lies between latitudes 2° and 11°N, and longitudes 14° and 28°E.
+The Central African Republic is a landlocked nation within the interior of the African continent. It is bordered by Cameroon, Chad, Sudan, South Sudan, the Democratic Republic of the Congo, and the Republic of the Congo. The country lies between latitudes 2° and 11°N, and longitudes 14° and 28°E.
 
 Much of the country consists of flat or rolling plateau savanna approximately above sea level. Most of the northern half lies within the World Wildlife Fund's East Sudanian savanna ecoregion. In addition to the Fertit Hills in the northeast of the CAR, there are scattered hills in the southwest regions. In the northwest is the Yade Massif, a granite plateau with an altitude of .
 
@@ -102,7 +102,7 @@ In the southwest, the Dzanga-Sangha National Park is located in a rain forest ar
 
 Climate
 
-Koppen-Geiger_Map_CAF_present.svg The climate of the Central African Republic is generally tropical, with a wet season that lasts from June to September in the northern regions of the country, and from May to October in the south. During the wet season, rainstorms are an almost daily occurrence, and early morning fog is commonplace. Maximum annual precipitation is approximately in the upper Ubangi region.[66]
+The climate of the Central African Republic is generally tropical, with a wet season that lasts from June to September in the northern regions of the country, and from May to October in the south. During the wet season, rainstorms are an almost daily occurrence, and early morning fog is commonplace. Maximum annual precipitation is approximately in the upper Ubangi region.[66]
 
 The northern areas are hot and humid from February to May,[67] but can be subject to the hot, dry, and dusty trade wind known as the Harmattan. The southern regions have a more equatorial climate, but they are subject to desertification, while the extreme northeast regions of the country are already desert.
 
@@ -115,7 +115,7 @@ The prefectures are Bamingui-Bangoran, Basse-Kotto, Haute-Kotto, Haut-Mbomou, K�
 
 Demographics
 
-Group_of_Peul_women_in_Paoua.jpg]]
+]]
 
 The population of the Central African Republic has almost quadrupled since independence. In 1960, the population was 1,232,000; as of a UN estimate, it is approximately .
 
@@ -125,7 +125,7 @@ The nation is divided into over 80 ethnic groups, each having its own language. 
 
 Religion
 
-Niem_(RCA)_-_Eglise_de_brousse_1.jpg According to the 2003 national census, 80.3% of the population was Christian—51.4% Protestant and 28.9% Roman Catholic—, 10% is Muslim and 4.5 percent other religious groups, with 5.5 percent having no religious beliefs.[72] More recent work from the Pew Research Center estimated that, as of 2010, Christians constituted 89.8% of the population (with Protestantism at 60.7% and Catholicism 28.5%) while Muslims make up 8.9%.[73][74] The Catholic Church claims over 1.5 million adherents, approximately one-third of the population.[75] Indigenous belief (animism) is also practiced, and many indigenous beliefs are incorporated into Christian and Islamic practice.[76] A UN director described religious tensions between Muslims and Christians as being high.[77]
+According to the 2003 national census, 80.3% of the population was Christian—51.4% Protestant and 28.9% Roman Catholic—, 10% is Muslim and 4.5 percent other religious groups, with 5.5 percent having no religious beliefs.[72] More recent work from the Pew Research Center estimated that, as of 2010, Christians constituted 89.8% of the population (with Protestantism at 60.7% and Catholicism 28.5%) while Muslims make up 8.9%.[73][74] The Catholic Church claims over 1.5 million adherents, approximately one-third of the population.[75] Indigenous belief (animism) is also practiced, and many indigenous beliefs are incorporated into Christian and Islamic practice.[76] A UN director described religious tensions between Muslims and Christians as being high.[77]
 
 There are many missionary groups operating in the country, including Lutherans, Baptists, Catholics, Grace Brethren, and Jehovah's Witnesses. While these missionaries are predominantly from the United States, France, Italy, and Spain, many are also from Nigeria, the Democratic Republic of the Congo, and other African countries. Large numbers of missionaries left the country when fighting broke out between rebel and government forces in 2002–3, but many of them have now returned to continue their work.[78]
 
@@ -180,11 +180,11 @@ In response to concerns of a potential genocide, a peacekeeping force – the In
 
 Economy
 
-Bangui_Shopping_District.jpg shopping district]]
+shopping district]]
 
 The per capita income of the Republic is often listed as being approximately $400 a year, one of the lowest in the world, but this figure is based mostly on reported sales of exports and largely ignores the unregistered sale of foods, locally produced alcoholic beverages, diamonds, ivory, bushmeat, and traditional medicine.
 
-The currency of Central African Republic is the CFA franc, which is accepted across the former countries of French West Africa and trades at a fixed rate to the euro. Diamonds constitute the country's most important export, accounting for 40–55% of export revenues, but it is estimated that between 30% and 50% of those produced each year leave the country clandestinely. Tree_map_export_2009_Central_African_Republic.jpeg
+The currency of Central African Republic is the CFA franc, which is accepted across the former countries of French West Africa and trades at a fixed rate to the euro. Diamonds constitute the country's most important export, accounting for 40–55% of export revenues, but it is estimated that between 30% and 50% of those produced each year leave the country clandestinely.
 
 Agriculture is dominated by the cultivation and sale of food crops such as cassava, peanuts, maize, sorghum, millet, sesame, and plantain. The annual real GDP growth rate is just above 3%. The importance of food crops over exported cash crops is indicated by the fact that the total production of cassava, the staple food of most Central Africans, ranges between 200,000 and 300,000 tonnes a year, while the production of cotton, the principal exported cash crop, ranges from 25,000 to 45,000 tonnes a year. Food crops are not exported in large quantities, but still constitute the principal cash crops of the country, because Central Africans derive far more income from the periodic sale of surplus food crops than from exported cash crops such as cotton or coffee. Much of the country is self-sufficient in food crops; however, livestock development is hindered by the presence of the tsetse fly.
 
@@ -197,7 +197,7 @@ Infrastructure
 
 Transportation
 
-Central_African_Republic_-_Trucks_in_Bangui.jpg]] Bangui is the transport hub of the Central African Republic. As of 1999, eight roads connected the city to other main towns in the country, Cameroon, Chad and South Sudan; of these, only the toll roads are paved. During the rainy season from July to October, some roads are impassable.[91][92]
+]] Bangui is the transport hub of the Central African Republic. As of 1999, eight roads connected the city to other main towns in the country, Cameroon, Chad and South Sudan; of these, only the toll roads are paved. During the rainy season from July to October, some roads are impassable.[91][92]
 
 River ferries sail from the river port at Bangui to Brazzaville and Zongo. The river can be navigated most of the year between Bangui and Brazzaville. From Brazzaville, goods are transported by rail to Pointe-Noire, Congo's Atlantic port.[93] The river port handles the overwhelming majority of the country's international trade and has a cargo handling capacity of 350,000 tons; it has length of wharfs and of warehousing space.[94]
 
@@ -216,7 +216,7 @@ Presently, the Central African Republic has active television services, radio st
 
 Education
 
-CAR_classroom.jpg]]
+]]
 
 Public education in the Central African Republic is free and is compulsory from ages 6 to 14.[96] However, approximately half of the adult population of the country is illiterate.[97]
 
@@ -227,7 +227,7 @@ The University of Bangui, a public university located in Bangui, includes a medi
 
 Healthcare
 
-Caf_babies.jpg, waiting for the two drops of the oral polio vaccine.]] The largest hospitals in the country are located in the Bangui district. As a member of the World Health Organization, the Central African Republic receives vaccination assistance, such as a 2014 intervention for the prevention of a measles epidemic.[98] In 2007, female life expectancy at birth was 48.2 years and male life expectancy at birth was 45.1 years.[99]
+, waiting for the two drops of the oral polio vaccine.]] The largest hospitals in the country are located in the Bangui district. As a member of the World Health Organization, the Central African Republic receives vaccination assistance, such as a 2014 intervention for the prevention of a measles epidemic.[98] In 2007, female life expectancy at birth was 48.2 years and male life expectancy at birth was 45.1 years.[99]
 
 Women's health is poor in the Central African Republic. , the country had the 4th highest maternal mortality rate in the world.[100] The total fertility rate in 2014 was estimated at 4.46 children born/woman.[101] Approximately 25% of women had undergone female genital mutilation.[102] Many births in the country are guided by traditional birth attendants, who often have little or no formal training.[103]
 
@@ -238,7 +238,7 @@ Human rights
 
 The 2009 Human Rights Report by the United States Department of State noted that human rights in CAR were poor and expressed concerns over numerous government abuses.[110] The U.S. State Department alleged that major human rights abuses such as extrajudicial executions by security forces, torture, beatings and rape of suspects and prisoners occurred with impunity. It also alleged harsh and life-threatening conditions in prisons and detention centers, arbitrary arrest, prolonged pretrial detention and denial of a fair trial, restrictions on freedom of movement, official corruption, and restrictions on workers' rights.[111]
 
-Living_on_the_rainforest.jpg living in the Dzanga-Sangha Special Reserve]] The State Department report also cites widespread mob violence, the prevalence of female genital mutilation, discrimination against women and Pygmies, human trafficking, forced labor, and child labor.[112] Freedom of movement is limited in the northern part of the country "because of actions by state security forces, armed bandits, and other nonstate armed entities", and due to fighting between government and anti-government forces, many persons have been internally displaced.[113]
+living in the Dzanga-Sangha Special Reserve]] The State Department report also cites widespread mob violence, the prevalence of female genital mutilation, discrimination against women and Pygmies, human trafficking, forced labor, and child labor.[112] Freedom of movement is limited in the northern part of the country "because of actions by state security forces, armed bandits, and other nonstate armed entities", and due to fighting between government and anti-government forces, many persons have been internally displaced.[113]
 
 Violence against children and women in relation to accusations of witchcraft has also been cited as a serious problem in the country.[114][115][116] Witchcraft is a criminal offense under the penal code.[117]
 

@@ -14,7 +14,7 @@ Joseph Loth viewed Cornish and Breton as being two dialects of the same language
 
 History
 
-Britonia6hcentury.png around the 6th century. Cornish and Breton are very closely related]]
+around the 6th century. Cornish and Breton are very closely related]]
 
 Cornish evolved from the Common Brittonic spoken throughout Britain south of the Firth of Forth during the British Iron Age and Roman period. As a result of westward Anglo-Saxon expansion, the Britons of the southwest were separated from those in modern-day Wales and Cumbria. Some scholars have proposed that this split took place after the Battle of Deorham in about 577. The western dialects eventually evolved into modern Welsh and the now extinct Cumbric, while Southwestern Brittonic developed into Cornish and Breton, the latter as a result of emigration to parts of the continent, known as Brittany over the following centuries.[21]
 
@@ -24,7 +24,7 @@ The area controlled by the southwestern Britons was progressively reduced by the
 
 Middle Cornish
 
-Origo_Mundi_kynsa_gwersow.jpg (the _magnum opus_ of medieval Cornish literature), written by an unknown monk in the late 14th century]] Beunans_Meriasek_(The_life_of_St_Meriasek)_(f.56v.)_Middle_Cornish_Saint's_Play.jpg'' (The life of St. Meriasek) (f.56v.) Middle Cornish Saint's Play]] The Cornish language continued to flourish well through the Middle Cornish period (1200–1600), reaching a peak of about 39,000 speakers in the 13th century, after which the number started to decline.[26][27] This period provided the bulk of traditional Cornish literature, which was used to reconstruct the language during its revival. Most important is the _Ordinalia_, a cycle of three mystery plays, _Origo Mundi_, _Passio Christi_ and _Resurrexio Domini_. Together these provide about 20,000 lines of text. Various plays were written by the canons of Glasney College, intended to educate the Cornish people about the Bible and the Celtic saints. From this period also is __ and the recently discovered __.
+(the _magnum opus_ of medieval Cornish literature), written by an unknown monk in the late 14th century]] '' (The life of St. Meriasek) (f.56v.) Middle Cornish Saint's Play]] The Cornish language continued to flourish well through the Middle Cornish period (1200–1600), reaching a peak of about 39,000 speakers in the 13th century, after which the number started to decline.[26][27] This period provided the bulk of traditional Cornish literature, which was used to reconstruct the language during its revival. Most important is the _Ordinalia_, a cycle of three mystery plays, _Origo Mundi_, _Passio Christi_ and _Resurrexio Domini_. Together these provide about 20,000 lines of text. Various plays were written by the canons of Glasney College, intended to educate the Cornish people about the Bible and the Celtic saints. From this period also is __ and the recently discovered __.
 
 In the reign of Henry VIII, an account was given by Andrew Boorde in his 1542 _Boke of the Introduction of Knowledge_. He states, ""[28]
 
@@ -32,11 +32,11 @@ When Parliament passed the Act of Uniformity 1549, people in many areas of Cornw
 
 The rebels' document claimed they wanted a return to the old religious services and ended, "We the Cornishmen (whereof certain of us understand no English) utterly refuse this new English [altered spelling]." Edward Seymour, Duke of Somerset, replied to the Cornishmen, inquiring as to why they should be offended by services in English when they had them in Latin, which they also did not understand.[29]
 
-Cornish_language_shift.svg Through many factors, including loss of life and the spread of English, the Prayer Book Rebellion proved a turning-point for the Cornish language.[30] Peter Berresford-Ellis cites the years 1550–1650 as a century of immense damage for the language, and its decline can be traced to this period. In 1680, William Scawen wrote an essay describing 16 reasons for the decline of Cornish, among them the lack of a distinctive Cornish alphabet, the loss of contact between Cornwall and Brittany, the cessation of the miracle plays, loss of records in the Civil War, lack of a Cornish Bible, and immigration to Cornwall.[31]
+Through many factors, including loss of life and the spread of English, the Prayer Book Rebellion proved a turning-point for the Cornish language.[30] Peter Berresford-Ellis cites the years 1550–1650 as a century of immense damage for the language, and its decline can be traced to this period. In 1680, William Scawen wrote an essay describing 16 reasons for the decline of Cornish, among them the lack of a distinctive Cornish alphabet, the loss of contact between Cornwall and Brittany, the cessation of the miracle plays, loss of records in the Civil War, lack of a Cornish Bible, and immigration to Cornwall.[31]
 
 Early Modern Cornish
 
-Lether_Bodinar.jpg By the middle of the 17th century, the language had retreated to Penwith and Kerrier, and transmission of the language to new generations had almost entirely ceased. In his _Survey of Cornwall_, published in 1602, Richard Carew writes:
+By the middle of the 17th century, the language had retreated to Penwith and Kerrier, and transmission of the language to new generations had almost entirely ceased. In his _Survey of Cornwall_, published in 1602, Richard Carew writes:
 
   [M]ost of the inhabitants can speak no word of Cornish, but very few are ignorant of the English; and yet some so affect their own, as to a stranger they will not speak it; for if meeting them by chance, you inquire the way, or any such matter, your answer shall be, "," "I [will] speak no Saxonage."[32]
 
@@ -48,7 +48,7 @@ In the 18th and 19th centuries, there was academic interest in the language and 
 
 Decline of Cornish speakers 1050 to 1800[33][34]
 
-Dorothy_Pentreath.jpg (died 1777), said to be the last native speaker of Cornish, in an engraved portrait published in 1781|alt=A black and white engraving of a woman in 18th century clothing with a bonnet. Fish, a crab, a crustacean and a jug are below]]
+(died 1777), said to be the last native speaker of Cornish, in an engraved portrait published in 1781|alt=A black and white engraving of a woman in 18th century clothing with a bonnet. Fish, a crab, a crustacean and a jug are below]]
 
   Year   Area where Cornish was spoken (in km²)   Total population of Cornwall   Number of Cornish speakers
   ------ ---------------------------------------- ------------------------------ ----------------------------
@@ -83,7 +83,7 @@ The revival entered a period of factionalism and public disputes, with each orth
 
 Geographic distribution and number of speakers
 
-Penzansagasdynerghcrop.jpeg; this sign is at Penzance railway station]] Speakers of Cornish reside primarily in Cornwall, which has a population of 563,600 (2017 estimate). There are also some speakers living outside Cornwall, particularly in the countries of the Cornish diaspora, as well as other Celtic nations. Estimates of the number of Cornish speakers vary according to the definition of being a speaker, and is difficult to accurately determine due to the individualised nature of language take-up. Nevertheless, there is recognition that the number of Cornish speakers is growing.[40] From before the 1980s to the end of the 20th century there was a sixfold increased in the number of speakers to around 300.[41] One figure for the mean number of people who know a few basic words, such as knowing that "Kernow" means "Cornwall", was 300,000; the same survey gave the figure of people able to have simple conversations at 3,000.[42]
+; this sign is at Penzance railway station]] Speakers of Cornish reside primarily in Cornwall, which has a population of 563,600 (2017 estimate). There are also some speakers living outside Cornwall, particularly in the countries of the Cornish diaspora, as well as other Celtic nations. Estimates of the number of Cornish speakers vary according to the definition of being a speaker, and is difficult to accurately determine due to the individualised nature of language take-up. Nevertheless, there is recognition that the number of Cornish speakers is growing.[40] From before the 1980s to the end of the 20th century there was a sixfold increased in the number of speakers to around 300.[41] One figure for the mean number of people who know a few basic words, such as knowing that "Kernow" means "Cornwall", was 300,000; the same survey gave the figure of people able to have simple conversations at 3,000.[42]
 
 The Cornish Language Strategy project commissioned research to provide quantitative and qualitative evidence for the number of Cornish speakers: due to the success of the revival project it was estimated that 2,000 people were fluent (surveyed in spring 2008), an increase from the estimated 300 people who spoke Cornish fluently suggested in a study by Kenneth MacKinnon in 2000.[43][44][45]
 
@@ -96,7 +96,7 @@ The Institute of Cornish Studies at the University of Exeter is working with the
 
 Recognised minority language status
 
-View_south_from_Carn_Brea_beacon,_West_Penwith_-_geograph.org.uk_-_51844.jpg (__), near Crows-an-Wra (__), looking towards the village of Treave (__) with Porthcurno (__) in the distance. The Cornish language has had substantial influence on Cornwall's toponomy and nomenclature.]] Cornish has no official status anywhere but, since 2002, it has been recognised as a minority language under the European Charter for Regional or Minority Languages. The Cornish Language Partnership promotes and develops the language in Cornwall.
+(__), near Crows-an-Wra (__), looking towards the village of Treave (__) with Porthcurno (__) in the distance. The Cornish language has had substantial influence on Cornwall's toponomy and nomenclature.]] Cornish has no official status anywhere but, since 2002, it has been recognised as a minority language under the European Charter for Regional or Minority Languages. The Cornish Language Partnership promotes and develops the language in Cornwall.
 
 Cornwall Council's policy is to support the language, in line with the European Charter. A motion was passed in November 2009 in which the council promoted the inclusion of Cornish, as appropriate and where possible, in council publications and on signs.[51] This plan has drawn some criticism.[52]
 
@@ -192,7 +192,7 @@ As in other Celtic languages, Cornish lacks a number of verbs that are commonly 
 
 Culture
 
-AnGofPlaqueBlackheath.jpg (An Gof) mounted on the north side of Blackheath common, south east London, near the south entrance to Greenwich Park]] The Celtic Congress and Celtic League are groups that advocate cooperation amongst the Celtic Nations in order to protect and promote Celtic languages and cultures, thus working in the interests of the Cornish language.
+(An Gof) mounted on the north side of Blackheath common, south east London, near the south entrance to Greenwich Park]] The Celtic Congress and Celtic League are groups that advocate cooperation amongst the Celtic Nations in order to protect and promote Celtic languages and cultures, thus working in the interests of the Cornish language.
 
 There have been films such as __, some televised, made entirely, or significantly, in the language. Some businesses use Cornish names.[60][61]
 
@@ -206,7 +206,7 @@ There are periodicals solely in the language such as the monthly __, __, and __.
 
 The language has financial sponsorship from sources, including the Millennium Commission. A number of language organisations exist in Cornwall: (Our Language), the Cornish sub-group of the European Bureau for Lesser-Used Languages, , (the Cornish Language Board) and (the Cornish Language Fellowship)]. There are ceremonies, some ancient, some modern, which use the language or are entirely in the language.
 
-Truro_Cathedral_welcome_cropped.jpg in several languages, including Cornish.]]
+in several languages, including Cornish.]]
 
 Cultural events
 
@@ -270,7 +270,7 @@ In 2018, the singer Gwenno Saunders released an album in Cornish, entitled _Le K
 
 Place-names and surnames
 
-CornwallKernowMappa.png The Cornish language has influenced the toponomy of Cornwall, and has historically been used in surnames for the Cornish people. Long before the agreement of the Standard Written Form of Cornish in the 21st century, Late Cornish orthography in the Early Modern period usually followed Welsh to English transliteration so phonetically rendering C for K, I for Y, U for W, and Z for S, caused place-names such as Porthcurno and Penzance to be adopted into English instead of their Standard Written Form _Porth Kernow_ and _Pen Sans_. Likewise, words such as Enys ("island") can be found spelled as "Ince" as at Ince Castle. These apparent mistranslations can however reveal an insight into how names and places were actually pronounced, explaining, for example, how anglicised Launceston is still pronounced "Lann-zan" from Cornish "Lann Stefan" (though with emphasis on the first element, the result of accent shift in English, and a consonant change s > z which again would have occurred in English in this alternative English form of the name).
+The Cornish language has influenced the toponomy of Cornwall, and has historically been used in surnames for the Cornish people. Long before the agreement of the Standard Written Form of Cornish in the 21st century, Late Cornish orthography in the Early Modern period usually followed Welsh to English transliteration so phonetically rendering C for K, I for Y, U for W, and Z for S, caused place-names such as Porthcurno and Penzance to be adopted into English instead of their Standard Written Form _Porth Kernow_ and _Pen Sans_. Likewise, words such as Enys ("island") can be found spelled as "Ince" as at Ince Castle. These apparent mistranslations can however reveal an insight into how names and places were actually pronounced, explaining, for example, how anglicised Launceston is still pronounced "Lann-zan" from Cornish "Lann Stefan" (though with emphasis on the first element, the result of accent shift in English, and a consonant change s > z which again would have occurred in English in this alternative English form of the name).
 
 The following tables present some examples of Cornish place-names and surnames, and their anglicised versions:
 

@@ -34,7 +34,7 @@ In the context of regional economic development, further integration into the Ea
 
 Statistics
 
-Grenada_Export_Treemap.jpg GDP: purchasing power parity - $1.401 billion (2015 est.)
+GDP: purchasing power parity - $1.401 billion (2015 est.)
 
 GDP - REAL GROWTH RATE: 4.6% (2015 est.)
 

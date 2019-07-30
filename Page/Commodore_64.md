@@ -7,13 +7,13 @@ Part of the Commodore 64's success was its sale in regular retail stores instead
 
 History
 
-C64_startup_animiert.gif In January 1981, MOS Technology, Inc., Commodore's integrated circuit design subsidiary, initiated a project to design the graphic and audio chips for a next generation video game console. Design work for the chips, named MOS Technology VIC-II (Video Integrated Circuit for graphics) and MOS Technology SID (Sound Interface Device for audio), was completed in November 1981.[15] Commodore then began a game console project that would use the new chips—called the _Ultimax_ or the _Commodore MAX Machine_, engineered by Yash Terakura from Commodore Japan. This project was eventually cancelled after just a few machines were manufactured for the Japanese market. At the same time, Robert "Bob" Russell (system programmer and architect on the VIC-20) and Robert "Bob" Yannes (engineer of the SID) were critical of the current product line-up at Commodore, which was a continuation of the Commodore PET line aimed at business users. With the support of Al Charpentier (engineer of the VIC-II) and Charles Winterble (manager of MOS Technology), they proposed to Commodore CEO Jack Tramiel a true low-cost sequel to the VIC-20. Tramiel dictated that the machine should have of random-access memory (RAM). Although 64-Kbit dynamic random-access memory (DRAM) chips cost over at the time, he knew that DRAM prices were falling, and would drop to an acceptable level before full production was reached. The team was able to quickly design the computer because, unlike most other home-computer companies, Commodore had its own semiconductor fab to produce test chips; because the fab was not running at full capacity, development costs were part of existing corporate overhead. The chips were complete by November, by which time Charpentier, Winterble, and Tramiel had decided to proceed with the new computer; the latter set a final deadline for the first weekend of January, to coincide with the 1982 Consumer Electronics Show (CES).[16]
+In January 1981, MOS Technology, Inc., Commodore's integrated circuit design subsidiary, initiated a project to design the graphic and audio chips for a next generation video game console. Design work for the chips, named MOS Technology VIC-II (Video Integrated Circuit for graphics) and MOS Technology SID (Sound Interface Device for audio), was completed in November 1981.[15] Commodore then began a game console project that would use the new chips—called the _Ultimax_ or the _Commodore MAX Machine_, engineered by Yash Terakura from Commodore Japan. This project was eventually cancelled after just a few machines were manufactured for the Japanese market. At the same time, Robert "Bob" Russell (system programmer and architect on the VIC-20) and Robert "Bob" Yannes (engineer of the SID) were critical of the current product line-up at Commodore, which was a continuation of the Commodore PET line aimed at business users. With the support of Al Charpentier (engineer of the VIC-II) and Charles Winterble (manager of MOS Technology), they proposed to Commodore CEO Jack Tramiel a true low-cost sequel to the VIC-20. Tramiel dictated that the machine should have of random-access memory (RAM). Although 64-Kbit dynamic random-access memory (DRAM) chips cost over at the time, he knew that DRAM prices were falling, and would drop to an acceptable level before full production was reached. The team was able to quickly design the computer because, unlike most other home-computer companies, Commodore had its own semiconductor fab to produce test chips; because the fab was not running at full capacity, development costs were part of existing corporate overhead. The chips were complete by November, by which time Charpentier, Winterble, and Tramiel had decided to proceed with the new computer; the latter set a final deadline for the first weekend of January, to coincide with the 1982 Consumer Electronics Show (CES).[16]
 
 The product was code named the VIC-40 as the successor to the popular VIC-20. The team that constructed it consisted of Yash Terakura,[17] Shiraz Shivji,[18] Bob Russell, Bob Yannes and David A. Ziembicki. The design, prototypes, and some sample software were finished in time for the show, after the team had worked tirelessly over both Thanksgiving and Christmas weekends. The machine used the same case, same-sized motherboard, and same Commodore BASIC 2.0 in ROM as the VIC-20. BASIC also served as the user interface shell and was available immediately on startup at the READY prompt. When the product was to be presented, the VIC-40 product was renamed C64. The C64 made an impressive debut at the January 1982 Consumer Electronics Show, as recalled by Production Engineer David A. Ziembicki: "All we saw at our booth were Atari people with their mouths dropping open, saying, 'How can you do that for $595?'"[19] The answer was vertical integration; due to Commodore's ownership of MOS Technology's semiconductor fabrication facilities, each C64 had an estimated production cost of .
 
 Market war 1982–1983
 
-CBM64Cartridges.JPG'' and _International Soccer_]] Commodore had a reputation for announcing products that never appeared, so sought to quickly ship the C64. Production began in spring 1982 and volume shipments began in August. The C64 faced a wide range of competing home computers,[20] but with a lower price and more flexible hardware, it quickly outsold many of its competitors.
+'' and _International Soccer_]] Commodore had a reputation for announcing products that never appeared, so sought to quickly ship the C64. Production began in spring 1982 and volume shipments began in August. The C64 faced a wide range of competing home computers,[20] but with a lower price and more flexible hardware, it quickly outsold many of its competitors.
 
 In the United States the greatest competitors were the Atari 8-bit 400, the Atari 800, and the Apple II. The Atari 400 and 800 had been designed to accommodate previously stringent FCC emissions requirements and so were expensive to manufacture. Though similar in specifications, the two computers represented differing design philosophies; as an open architecture system, upgrade capability for the Apple II was granted by internal expansion slots, whereas the C64's comparatively closed architecture had only a single external ROM cartridge port for bus expansion. However, the Apple II used its expansion slots for interfacing to common peripherals like disk drives, printers, and modems; the C64 had a variety of ports integrated into its motherboard which were used for these purposes, usually leaving the cartridge port free. Commodore's was not a completely closed system, however; the company had published detailed specifications for most of their models since the PET and VIC-20 days, and the C64 was no exception. Initial C64 sales were nonetheless relatively slow due to a lack of software, reliability issues with early production models, particularly high failure rates of the PLA chip, which used a new production process, and a shortage of 1541 disk drives, which also suffered rather severe reliability issues. During 1983, however, a trickle of software turned into a flood and sales began rapidly climbing, especially with price cuts from $600 to just $300.
 
@@ -52,7 +52,7 @@ C64 family
 
 Commodore MAX
 
-Commodore_MAX_Machine_(shadow)_(xparent_bg).png ]] In 1982, Commodore released the Commodore MAX Machine in Japan. It was called the Ultimax in the United States, and VC-10 in Germany. The MAX was intended to be a game console with limited computing capability, and was based on a very cut-down version of the hardware family later used in the C64. The MAX was discontinued months after its introduction because of poor sales in Japan.[59]
+]] In 1982, Commodore released the Commodore MAX Machine in Japan. It was called the Ultimax in the United States, and VC-10 in Germany. The MAX was intended to be a game console with limited computing capability, and was based on a very cut-down version of the hardware family later used in the C64. The MAX was discontinued months after its introduction because of poor sales in Japan.[59]
 
 Commodore Educator 64
 
@@ -60,7 +60,7 @@ Commodore Educator 64
 
 SX-64
 
-Sx-64_build_crop.jpg ]] Also in 1983, Commodore released the SX-64, a portable version of the C64. The SX-64 has the distinction of being the first _full-color_ portable computer. While earlier computers using this form factor only incorporate monochrome ("green screen") displays, the base SX-64 unit features a color cathode ray tube (CRT) and an integrated 1541 floppy disk drive. Unlike most other C64s, the SX-64 does not have a cassette connector.[63]
+]] Also in 1983, Commodore released the SX-64, a portable version of the C64. The SX-64 has the distinction of being the first _full-color_ portable computer. While earlier computers using this form factor only incorporate monochrome ("green screen") displays, the base SX-64 unit features a color cathode ray tube (CRT) and an integrated 1541 floppy disk drive. Unlike most other C64s, the SX-64 does not have a cassette connector.[63]
 
 Commodore C128
 
@@ -68,13 +68,13 @@ Two designers at Commodore, Fred Bowen and Bil Herd, were determined to rectify 
 
 Commodore 64C
 
-C64c_system.jpg floppy disk drive and 1084S monitor displaying television-compatible S-Video ]]
+floppy disk drive and 1084S monitor displaying television-compatible S-Video ]]
 
 The C64's designers intended the computer to have a new, wedge-shaped case within a year of release, but the change did not occur. In 1986, Commodore released the 64C computer, which is functionally identical to the original. The exterior design was remodeled in the sleeker style of the Commodore 128. The 64C uses new versions of the SID, VIC and I/O chips being deployed, with the core voltage reduced from 12V to 9V. Models with the C64E board had the graphic symbols printed on the top of the keys, instead of the normal location on the front. The sound chip (SID) was changed to use the MOS 8580 chip. The most significant changes include different behavior in the filters and in the volume control, which result in some music/sound effects sounding differently than intended, and in digitally-sampled audio being almost inaudible, respectively (though both of these can mostly be corrected-for in software). The 64 KB RAM memory went from eight chips to two chips. BASIC and the KERNAL went from two separate chips into one 16 KB ROM chip. The PLA chip and some TTL chips were integrated into a DIL 64-pin chip. The "252535-01" PLA integrated the color RAM as well into the same chip. The smaller physical space made it impossible to put in some internal expansions like a floppy-speeder.[67] In the United States, the 64C was often bundled with the third-party GEOS graphical user interface (GUI)-based operating system, as well as the software needed to access Quantum Link. The 1541 drive received a matching face-lift, resulting in the 1541C. Later, a smaller, sleeker 1541-II model was introduced, along with the [68] 3.5-inch microfloppy 1581.
 
 Commodore 64 Games System
 
-C64GS-Console-Set.jpg "C64GS"]] In 1990, the C64 was repackaged in the form of a game console, called the C64 Games System (C64GS), with most external connectivity removed.[69] A simple modification to the 64C's motherboard was made to allow cartridges to be inserted from above. A modified ROM replaced the BASIC interpreter with a boot screen to inform the user to insert a cartridge. Designed to compete with the Nintendo Entertainment System and the Sega Master System, it suffered from very low sales compared to its rivals. It was another commercial failure for Commodore, and it was never released outside Europe.
+"C64GS"]] In 1990, the C64 was repackaged in the form of a game console, called the C64 Games System (C64GS), with most external connectivity removed.[69] A simple modification to the 64C's motherboard was made to allow cartridges to be inserted from above. A modified ROM replaced the BASIC interpreter with a boot screen to inform the user to insert a cartridge. Designed to compete with the Nintendo Entertainment System and the Sega Master System, it suffered from very low sales compared to its rivals. It was another commercial failure for Commodore, and it was never released outside Europe.
 
 Commodore 65
 
@@ -92,7 +92,7 @@ As of 2008, C64 enthusiasts still develop new hardware, including Ethernet cards
 
 Brand reuse
 
-Commodore_64_Web-it_PC_(modified).jpg In 1998, the C64 brand was reused for the "Web.it Internet Computer",[74][75] a low-powered (even for the time) Internet-oriented, all-in-one x86 PC running Windows 3.1. Despite its "Commodore 64" nameplate, the "C64 Web.it" is not directly compatible with the original (except via included emulation software), nor does it share its appearance. PC clones branded as C64x sold by Commodore USA, LLC, a company licensing the Commodore trademark,[76][77] began shipping in June 2011.[78][79] The C64x has a case resembling the original C64 computer, but- as with the "Web.it"- it is based on x86 architecture and is not compatible with the Commodore 64 on either hardware or software levels.
+In 1998, the C64 brand was reused for the "Web.it Internet Computer",[74][75] a low-powered (even for the time) Internet-oriented, all-in-one x86 PC running Windows 3.1. Despite its "Commodore 64" nameplate, the "C64 Web.it" is not directly compatible with the original (except via included emulation software), nor does it share its appearance. PC clones branded as C64x sold by Commodore USA, LLC, a company licensing the Commodore trademark,[76][77] began shipping in June 2011.[78][79] The C64x has a case resembling the original C64 computer, but- as with the "Web.it"- it is based on x86 architecture and is not compatible with the Commodore 64 on either hardware or software levels.
 
 Virtual Console
 
@@ -113,7 +113,7 @@ Because of lower incomes and the domination of the Sinclair Spectrum in the UK, 
 
 BASIC
 
-Simons_Basic_Splash_Screen.gif}} reduction of available BASIC-interpreter program memory allocation, due to the address space used by the cartridge.]]
+}} reduction of available BASIC-interpreter program memory allocation, due to the address space used by the cartridge.]]
 
 As is common for home computers of the early 1980s, the C64 comes with a BASIC interpreter, in ROM. KERNAL, I/O and tape/disk drive operations are accessed via custom BASIC language commands. The disk drive has its own interfacing microprocessor and ROM (firmware) I/O routines, much like the earlier CBM/PET systems and the Atari 400 and Atari 800. This means that no memory space is dedicated to running a disk operating system, as was the case with earlier systems such as the Apple  II and TRS-80.
 
@@ -135,8 +135,6 @@ The first graphical character-based interactive environment is _Club Caribe_. Fi
 
 
 Hardware
-
-C64_Block_Diagram_new.svg
 
 CPU and memory
 
@@ -170,7 +168,7 @@ The C64 retained the DE-9 joystick Atari joystick port from the VIC-20 and added
 
 Graphics
 
-Fonts-C64.png The graphics chip, VIC-II, features 16 colors, eight hardware sprites per scanline (enabling up to 112 sprites per PAL screen), scrolling capabilities, and two bitmap graphics modes. The standard text mode features 40 columns, like most Commodore PET models; the built-in character encoding is not standard ASCII but PETSCII, an extended form of ASCII-1963. The KERNAL ROM sets the VIC-II to a dark blue background on power up with a light blue text and border. Unlike the PET and VIC-20, the C64 uses "fat" double-width text as some early VIC-IIs had poor video quality that resulted in a fuzzy picture. Most screenshots show borders around the screen, which is a feature of the VIC-II chip. By utilizing interrupts to reset various hardware registers on precise timings it was possible to place graphics within the borders and thus use the full screen.[91]
+The graphics chip, VIC-II, features 16 colors, eight hardware sprites per scanline (enabling up to 112 sprites per PAL screen), scrolling capabilities, and two bitmap graphics modes. The standard text mode features 40 columns, like most Commodore PET models; the built-in character encoding is not standard ASCII but PETSCII, an extended form of ASCII-1963. The KERNAL ROM sets the VIC-II to a dark blue background on power up with a light blue text and border. Unlike the PET and VIC-20, the C64 uses "fat" double-width text as some early VIC-IIs had poor video quality that resulted in a fuzzy picture. Most screenshots show borders around the screen, which is a feature of the VIC-II chip. By utilizing interrupts to reset various hardware registers on precise timings it was possible to place graphics within the borders and thus use the full screen.[91]
 
 The C64 has a resolution of 320 x 200 pixels, consisting of a 40 x 25 grid of 8 x 8 character blocks. The C64 has 255 predefined character blocks, a version of ASCII called PETSCII. The character set can be copied into RAM and altered by a programmer.
 
@@ -198,7 +196,7 @@ Cost reduction was the reason for many revisions. Reducing manufacturing costs w
 
 IC locations changed frequently on each motherboard revision, as did the presence or lack thereof of the metal RF shield around the VIC-II. PAL boards often had aluminized cardboard instead of a metal shield. The SID and VIC-II are socketed on all boards; however, the other ICs may be either socketed or soldered. The first production C64s, made in 1982 to early 1983, are known as "silver label" models due to the case sporting a silver-colored "Commodore" logo. The power LED had a separate silver badge around it reading "64". These machines also have only a 5-pin video cable and cannot output S-video. In late 1982, Commodore introduced the familiar "rainbow badge" case, but many machines produced into early 1983 also used silver label cases until the existing stock of them was used up. In the spring of 1983, the original 326298 board was replaced by the 250407 motherboard which sported an 8-pin video connector and added S-video support for the first time. This case design would be used until the C64C appeared in 1986. All ICs switched to using plastic shells while the silver label C64s had some ceramic ICs, notably the VIC-II. The case is made from ABS plastic which may become brown with time. This can be reversed by using the public domain chemical mix "Retr0bright".
 
-C64motherboard.jpg 1982)]] C64Cmotherboard.jpg
+1982)]]
 
 ICs
 
@@ -212,7 +210,7 @@ In 1986, Commodore released the last revision to the classic C64 motherboard. It
 
 Power supply
 
-Commodore_64_-_Joystickports,_EinAus-Schalter,_Poweranschluss.jpg The C64 used an external power supply, a conventional transformer with multiple tappings (as opposed to switch mode, the type now used on PC power supplies). It was encased in an epoxy resin gel, which discouraged tampering but tended to increase the heat level during use. The design saved space within the computer's case and allowed international versions to be more easily manufactured. The 1541-II and 1581 disk drives, along with various third-party clones, also come with their own external power supply "bricks", as did most peripherals leading to a "spaghetti" of cables and the use of numerous double adapters by users.
+The C64 used an external power supply, a conventional transformer with multiple tappings (as opposed to switch mode, the type now used on PC power supplies). It was encased in an epoxy resin gel, which discouraged tampering but tended to increase the heat level during use. The design saved space within the computer's case and allowed international versions to be more easily manufactured. The 1541-II and 1581 disk drives, along with various third-party clones, also come with their own external power supply "bricks", as did most peripherals leading to a "spaghetti" of cables and the use of numerous double adapters by users.
 
 Commodore power supplies often failed before expected. The computer reportedly had a 30% return rate in late 1983, compared to the 5-7% the industry considered acceptable.[98] _Creative Computing_ reported four working computers out of seven C64s.[99] Malfunctioning power bricks were particularly notorious for damaging the RAM chips, as they were made with the CMOS process rather than NMOS (like the main ICs in the computer). Due to their higher density, they had less tolerance for an overvoltage condition.
 
@@ -251,7 +249,7 @@ Internal hardware
 
 Input/output (I/O) ports and power supply
 
-Commodore-64-Computer-BL.jpg, RF-adj, RF, A/V, 488, Tape, User)]]
+, RF-adj, RF, A/V, 488, Tape, User)]]
 
 -   I/O ports:[106]
     -   ROM cartridge expansion slot (44-pin slot for edge connector with 6510 CPU address/data bus lines and control signals, as well as GND and voltage pins;[107] used for program modules and memory expansions, among others)

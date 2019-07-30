@@ -7,7 +7,7 @@ Despite the democratic, constitutional framework, the military has exercised sub
 
 Political developments
 
-Pal%C3%A1cio_da_Rep%C3%BAblica_(fundos).jpg.]] In Guinea-Bissau in 1989, the ruling African Independence Party of Guinea and Cape Verde (PAIGC) under the direction of President João Bernardo "Nino" Vieira began to outline a political liberalization program which the People's National Assembly approved in 1991. Reforms that paved the way for multi-party democracy included the repeal of articles of the constitution, which had enshrined the leading role of the PAIGC. Laws were ratified to allow the formation of other political parties, a free press, and independent trade unions with the right to strike.
+.]] In Guinea-Bissau in 1989, the ruling African Independence Party of Guinea and Cape Verde (PAIGC) under the direction of President João Bernardo "Nino" Vieira began to outline a political liberalization program which the People's National Assembly approved in 1991. Reforms that paved the way for multi-party democracy included the repeal of articles of the constitution, which had enshrined the leading role of the PAIGC. Laws were ratified to allow the formation of other political parties, a free press, and independent trade unions with the right to strike.
 
 Guinea-Bissau's first multi-party elections for president and parliament were held in 1994. Following the 1998-99 civil war, presidential and legislative elections were again held, bringing opposition leader Kumba Ialá and his Party for Social Renewal to power. Ialá was ousted in a bloodless coup in September 2003 and Henrique Rosa was sworn in as President.
 
@@ -47,7 +47,7 @@ The president is elected by popular vote for a five-year term. The prime ministe
 
 Legislative branch
 
-Assembleia_Nacional_da_Guiné-Bissau.jpg.]]
+.]]
 
 The National People's Assembly (__) has 102 members, elected for a four-year term in multi-member constituencies.
 

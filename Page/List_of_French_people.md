@@ -178,7 +178,7 @@ Architects
 
 Artists
 
-Rodin-cropped.png]]
+]]
 
 Painters
 
@@ -224,7 +224,7 @@ Athletes
 
 A–J
 
-André_the_Giant_in_the_late_'80s.jpg]] Abitbol_bernadis.jpg]] Slalom_canoeing_2012_Olympics_W_K1_AUS_Jessica_Fox.jpg]]
+]] ]] ]]
 
 -   André the Giant, professional wrestler
 -   Sarah Abitbol, pairs figure skater (with Stéphane Bernadis); World Figure Skating Championship bronze[1]
@@ -302,7 +302,7 @@ André_the_Giant_in_the_late_'80s.jpg]] Abitbol_bernadis.jpg]] Slalom_canoeing_2
 
 K–Z
 
-Alexander_Levy.jpg]]
+]]
 
 -   Jean-Claude Killy (born 1943), skier
 -   Raymond Kopa, football player
@@ -415,7 +415,7 @@ A–E
 
 F–O
 
-Victor_Hugo_by_Étienne_Carjat_1876_-_full.jpg]]
+]]
 
 -   Frantz Fanon, 20th-century author, psychiatrist
 -   Léon-Paul Fargue

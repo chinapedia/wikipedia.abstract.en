@@ -106,8 +106,6 @@ Caffeine increases intraocular pressure in those with glaucoma but does not appe
 
 Overdose
 
-Main_symptoms_of_Caffeine_overdose.svg
-
 Consumption of per day is associated with a condition known as _caffeinism._[129] Caffeinism usually combines caffeine dependency with a wide range of unpleasant symptoms including nervousness, irritability, restlessness, insomnia, headaches, and palpitations after caffeine use.[130]
 
 Caffeine overdose can result in a state of central nervous system over-stimulation called _caffeine intoxication_ (DSM-IV 305.90).[131] This syndrome typically occurs only after ingestion of large amounts of caffeine, well over the amounts found in typical caffeinated beverages and caffeine tablets (e.g., more than 400–500 mg at a time). The symptoms of caffeine intoxication are comparable to the symptoms of overdoses of other stimulants: they may include restlessness, fidgeting, anxiety, excitement, insomnia, flushing of the face, increased urination, gastrointestinal disturbance, muscle twitching, a rambling flow of thought and speech, irritability, irregular or rapid heart beat, and psychomotor agitation.[132] In cases of much larger overdoses, mania, depression, lapses in judgment, disorientation, disinhibition, delusions, hallucinations, or psychosis may occur, and rhabdomyolysis (breakdown of skeletal muscle tissue) can be provoked.[133][134]
@@ -144,7 +142,7 @@ Pharmacology
 
 Pharmacodynamics
 
-Caffeine_and_adenosine.svg of adenosine receptors in the brain|alt=Two skeletal formulas: left – caffeine, right – adenosine.]]
+of adenosine receptors in the brain|alt=Two skeletal formulas: left – caffeine, right – adenosine.]]
 
 In the absence of caffeine and when a person is awake and alert, little adenosine is present in (CNS) neurons. With a continued wakeful state, over time adenosine accumulates in the neuronal synapse, in turn binding to and activating adenosine receptors found on certain CNS neurons; when activated, these receptors produce a cellular response that ultimately increases drowsiness. When caffeine is consumed, it antagonizes adenosine receptors; in other words, caffeine prevents adenosine from activating the receptor by blocking the location on the receptor where adenosine binds to it. As a result, caffeine temporarily prevents or relieves drowsiness, and thus maintains or restores alertness.[155]
 
@@ -172,7 +170,7 @@ Caffeine antagonizes adenosine A2A receptors in the ventrolateral preoptic area 
 
 Pharmacokinetics
 
-Caffeine_metabolites.svg, resulting in three primary metabolites, paraxanthine (84%), theobromine (12%), and theophylline (4%), depending on which methyl group is removed.|alt=A diagram featuring 4 skeletal chemical formulas. Top (caffeine) relates to similar compounds paraxanthine, theobromine and theophylline.]] Caffeine_metabolism.png
+, resulting in three primary metabolites, paraxanthine (84%), theobromine (12%), and theophylline (4%), depending on which methyl group is removed.|alt=A diagram featuring 4 skeletal chemical formulas. Top (caffeine) relates to similar compounds paraxanthine, theobromine and theophylline.]]
 
 Caffeine from coffee or other beverages is absorbed by the small intestine within 45 minutes of ingestion and distributed throughout all bodily tissues.[186] Peak blood concentration is reached within 1–2 hours.[187] It is eliminated by first-order kinetics.[188] Caffeine can also be absorbed rectally, evidenced by suppositories of ergotamine tartrate and caffeine (for the relief of migraine)[189] and chlorobutanol and caffeine (for the treatment of hyperemesis).[190] However, rectal absorption is less efficient than oral: the maximum concentration (C_(max)) and total amount absorbed (AUC) are both about 30% (i.e., 1/3.5) of the oral amounts.[191]
 
@@ -197,7 +195,7 @@ The xanthine core of caffeine contains two fused rings, a pyrimidinedione and im
 
 Synthesis
 
-Caffeine_biosynthesis.tif of caffeine, as performed by Camellia and Coffea species.[211][212]]] Caffeine_synthesis.tif of caffeine[213][214]]]
+of caffeine, as performed by Camellia and Coffea species.[211][212]]] of caffeine[213][214]]]
 
 The biosynthesis of caffeine is an example of convergent evolution among different species.[215][216][217]
 
@@ -207,7 +205,7 @@ Commercial supplies of caffeine are not usually manufactured synthetically becau
 
 Decaffeination
 
-CaffeineCrystals_Fibrous_10xDarkField.jpgs of purified caffeine. Dark-field microscopy image, about 7 mm × 11 mm]]
+s of purified caffeine. Dark-field microscopy image, about 7 mm × 11 mm]]
 
 Extraction of caffeine from coffee, to produce caffeine and decaffeinated coffee, can be performed using a number of solvents. Benzene, chloroform, trichloroethylene, and dichloromethane have all been used over the years but for reasons of safety, environmental impact, cost, and flavor, they have been superseded by the following main methods:
 
@@ -238,7 +236,7 @@ Caffeine, as do other alkaloids such as cinchonine, quinine or strychnine, preci
 
 Natural occurrence
 
-Coffee_beans2.jpg Around sixty plant species are known to contain caffeine.[231] Common sources are the "beans" (seeds) of the two cultivated coffee plants, _Coffea arabica_ and _Coffea canephora_ (the quantity varies, but 1.3% is a typical value); in the leaves of the tea plant; and in kola nuts. Other sources include yaupon holly leaves, South American holly yerba mate leaves, seeds from Amazonian maple guarana berries, and Amazonian holly guayusa leaves. Temperate climates around the world have produced unrelated caffeine-containing plants.
+Around sixty plant species are known to contain caffeine.[231] Common sources are the "beans" (seeds) of the two cultivated coffee plants, _Coffea arabica_ and _Coffea canephora_ (the quantity varies, but 1.3% is a typical value); in the leaves of the tea plant; and in kola nuts. Other sources include yaupon holly leaves, South American holly yerba mate leaves, seeds from Amazonian maple guarana berries, and Amazonian holly guayusa leaves. Temperate climates around the world have produced unrelated caffeine-containing plants.
 
 Caffeine in plants acts as a natural pesticide: it can paralyze and kill predator insects feeding on the plant.[232] High caffeine levels are found in coffee seedlings when they are developing foliage and lack mechanical protection.[233] In addition, high caffeine levels are found in the surrounding soil of coffee seedlings, which inhibits seed germination of nearby coffee seedlings, thus giving seedlings with the highest caffeine levels fewer competitors for existing resources for survival.[234] Caffeine is stored in tea leaves in two places. Firstly, in the cell vacuoles where it is complexed with polyphenols. This caffeine probably is released into the mouth parts of insects, to discourage herbivory. Secondly, around the vascular bundles, where it probably inhibits pathogenic fungi from entering and colonizing the vascular bundles.[235] Caffeine in nectar may improve the reproductive success of the pollen producing plants by enhancing the reward memory of pollinators such as honey bees.[236]
 
@@ -317,7 +315,7 @@ Chocolate derived from cocoa beans contains a small amount of caffeine. The weak
 
 Tablets
 
-No-Doz.jpg Tablets offer several advantages over coffee, tea, and other caffeinated beverages, including convenience, known dosage, and avoidance of concomitant intake of sugar, acids, and fluids. Manufacturers of caffeine tablets claim that using caffeine of pharmaceutical quality improves mental alertness. These tablets are commonly used by students studying for their exams and by people who work or drive for long hours.[261]
+Tablets offer several advantages over coffee, tea, and other caffeinated beverages, including convenience, known dosage, and avoidance of concomitant intake of sugar, acids, and fluids. Manufacturers of caffeine tablets claim that using caffeine of pharmaceutical quality improves mental alertness. These tablets are commonly used by students studying for their exams and by people who work or drive for long hours.[261]
 
 Other oral products
 
@@ -338,7 +336,7 @@ History
 
 Discovery and spread of use
 
-Kahvihuone.jpg in Palestine, circa 1900|alt=An old photo of a dozen old and middle-aged men sitting on the ground around a mat. A man in front sits next to a mortar and holds a bat, ready for grinding. A man opposite to him holds a long spoon.]]
+in Palestine, circa 1900|alt=An old photo of a dozen old and middle-aged men sitting on the ground around a mat. A man in front sits next to a mortar and holds a bat, ready for grinding. A man opposite to him holds a long spoon.]]
 
 According to Chinese legend, the Chinese emperor Shennong, reputed to have reigned in about 3000 BCE, inadvertently discovered tea when he noted that when certain leaves fell into boiling water, a fragrant and restorative drink resulted.[268] Shennong is also mentioned in Lu Yu's _Cha Jing_, a famous early work on the subject of tea.[269]
 
@@ -354,7 +352,7 @@ The leaves and stems of the yaupon holly (_Ilex vomitoria_) were used by Native 
 
 Chemical identification, isolation, and synthesis
 
-Pierre_Joseph_Pelletier.jpg In 1819, the German chemist Friedlieb Ferdinand Runge isolated relatively pure caffeine for the first time; he called it _"Kaffebase"_ (i.e., a base that exists in coffee).[275] According to Runge, he did this at the behest of Johann Wolfgang von Goethe.[276] In 1821, caffeine was isolated both by the French chemist Pierre Jean Robiquet and by another pair of French chemists, Pierre-Joseph Pelletier and Joseph Bienaimé Caventou, according to Swedish chemist Jöns Jacob Berzelius in his yearly journal. Furthermore, Berzelius stated that the French chemists had made their discoveries independently of any knowledge of Runge's or each other's work.[277] However, Berzelius later acknowledged Runge's priority in the extraction of caffeine, stating:[278] "However, at this point, it should not remain unmentioned that Runge (in his _Phytochemical Discoveries_, 1820, pages 146–147) specified the same method and described caffeine under the name _Caffeebase_ a year earlier than Robiquet, to whom the discovery of this substance is usually attributed, having made the first oral announcement about it at a meeting of the Pharmacy Society in Paris."
+In 1819, the German chemist Friedlieb Ferdinand Runge isolated relatively pure caffeine for the first time; he called it _"Kaffebase"_ (i.e., a base that exists in coffee).[275] According to Runge, he did this at the behest of Johann Wolfgang von Goethe.[276] In 1821, caffeine was isolated both by the French chemist Pierre Jean Robiquet and by another pair of French chemists, Pierre-Joseph Pelletier and Joseph Bienaimé Caventou, according to Swedish chemist Jöns Jacob Berzelius in his yearly journal. Furthermore, Berzelius stated that the French chemists had made their discoveries independently of any knowledge of Runge's or each other's work.[277] However, Berzelius later acknowledged Runge's priority in the extraction of caffeine, stating:[278] "However, at this point, it should not remain unmentioned that Runge (in his _Phytochemical Discoveries_, 1820, pages 146–147) specified the same method and described caffeine under the name _Caffeebase_ a year earlier than Robiquet, to whom the discovery of this substance is usually attributed, having made the first oral announcement about it at a meeting of the Pharmacy Society in Paris."
 
 Pelletier's article on caffeine was the first to use the term in print (in the French form _Caféine_ from the French word for coffee: _café_).[279] It corroborates Berzelius's account:
 
@@ -394,7 +392,7 @@ Caffeinated beverages are widely consumed by Muslims today. In the 16th century,
 
 Other organisms
 
-Caffeinated_spiderwebs_modified.jpgs|alt=Caffeine effects on spider webs]]
+s|alt=Caffeine effects on spider webs]]
 
 Recently discovered bacteria _Pseudomonas putida_ CBB5 can live on pure caffeine and can cleave caffeine into carbon dioxide and ammonia.[306]
 

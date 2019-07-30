@@ -22,7 +22,7 @@ People can also develop CJD because they carry a mutation of the gene that codes
 
 Transmission
 
-Awv235f2p.jpg The defective protein can be transmitted by contaminated harvested human brain products, corneal grafts,[29] dural grafts,[30] or electrode[31] implants and human growth hormone.[32]
+The defective protein can be transmitted by contaminated harvested human brain products, corneal grafts,[29] dural grafts,[30] or electrode[31] implants and human growth hormone.[32]
 
 It can be familial (fCJD); or it may appear without risk factors (sporadic form: sCJD). In the familial form, a mutation has occurred in the gene for PrP, _PRNP_, in that family. All types of CJD are transmissible irrespective of how they occur in the person.[33]
 
@@ -59,7 +59,7 @@ Brain MRI is most useful imaging modality for changes related to CJD. Of the MRI
 
 Histopathology
 
-SpongiformChangeCJD.jpg Testing of tissue remains the most definitive way of confirming the diagnosis of CJD, although it must be recognized that even biopsy is not always conclusive.
+Testing of tissue remains the most definitive way of confirming the diagnosis of CJD, although it must be recognized that even biopsy is not always conclusive.
 
 In one-third of people with sporadic CJD, deposits of "prion protein (scrapie)," PrP^(Sc), can be found in the skeletal muscle and/or the spleen. Diagnosis of vCJD can be supported by biopsy of the tonsils, which harbour significant amounts of PrP^(Sc); however, biopsy of brain tissue is the definitive diagnostic test for all other forms of prion disease. Due to its invasiveness, biopsy will not be done if clinical suspicion is sufficiently high or low. A negative biopsy does not rule out CJD, since it may predominate in a specific part of the brain.[60]
 

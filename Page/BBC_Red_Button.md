@@ -1,4 +1,4 @@
-BBC_Red_Button_home.jpg BBC RED BUTTON is a branding used for digital interactive television services provided by the BBC, and broadcast in the United Kingdom. The services replaced Ceefax, the BBC's analogue teletext service.
+BBC RED BUTTON is a branding used for digital interactive television services provided by the BBC, and broadcast in the United Kingdom. The services replaced Ceefax, the BBC's analogue teletext service.
 
 
 History and branding
@@ -17,7 +17,7 @@ BBC Text pioneered an early form of "on-demand" interactive television, called E
 
 The BBCi brand (2001–2008)
 
-BBCi-bar_TV.jpg Bbci_website_jan_2004.jpg The BBCi brand launched in November 2001 and was conceived as a cohesive multi-platform brand name for all the BBC's digital interactive services, encompassing the corporation's digital teletext, interactive television and website services.[4][5] According to the BBC, the "i" in BBCi stood for "interactivity" as well as "innovation".[6]
+The BBCi brand launched in November 2001 and was conceived as a cohesive multi-platform brand name for all the BBC's digital interactive services, encompassing the corporation's digital teletext, interactive television and website services.[4][5] According to the BBC, the "i" in BBCi stood for "interactivity" as well as "innovation".[6]
 
 The various services all took on a common interface device, an "i-bar" branded with the BBCi logo, which sought to emphasise the brand across different technologies by providing similar navigation. For example, the BBC website, which had previously been called BBC Online, took on the BBCi brand from 2001, displaying an i-bar across the top of every page, offering a category-based navigation: Categories, TV, Radio, Communicate, Where I Live, A-Z Index, and a search.[7] Similarly, BBC interactive television services all offered a horizontal i-bar along the bottom of television screens, with four colour-coded interactions linked to the four colour buttons on TV remote controls.
 

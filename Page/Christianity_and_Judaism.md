@@ -29,7 +29,7 @@ Christians accept the Written Torah and other books of the Hebrew Bible (alterna
 
 Instead of the traditional Jewish order and names for the books, Christians organize and name the books closer to that found in the Septuagint. Some Christian denominations (such as Anglican, Roman Catholic, and Eastern Orthodox), include a number of books that are not in the Hebrew Bible (the biblical apocrypha or deuterocanonical books or Anagignoskomena, see Development of the Old Testament canon) in their biblical canon that are not in today's Jewish canon, although they were included in the Septuagint. Christians reject the Jewish Oral Torah, which was still in oral, and therefore unwritten, form in the time of Jesus.[18]
 
-Bloch-SermonOnTheMount.jpg which included commentary on the Old Covenant. Some scholars consider this to be an antitype of the proclamation of the Ten Commandments or Mosaic Covenant by Moses from the Biblical Mount Sinai.[19]]]
+which included commentary on the Old Covenant. Some scholars consider this to be an antitype of the proclamation of the Ten Commandments or Mosaic Covenant by Moses from the Biblical Mount Sinai.[19]]]
 
 
 Covenant theology

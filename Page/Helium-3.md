@@ -41,7 +41,7 @@ Fusion reactions
 
   : Comparison of neutronicity of reactions[14][15][16][17][18]
 
-can be produced by the low temperature fusion of → + γ + 4.98 MeV. If the fusion temperature is below that for the helium nuclei to fuse, the reaction produces a high energy alpha particle which quickly acquires an electron producing a stable light helium ion which can be utilized directly as a source of electricity without producing dangerous neutrons. fusion_rxnrate.svg increases rapidly with temperature until it maximizes and then gradually drops off. The DT rate peaks at a lower temperature (about 70 keV, or 800 million kelvins) and at a higher value than other reactions commonly considered for fusion energy.]]
+can be produced by the low temperature fusion of → + γ + 4.98 MeV. If the fusion temperature is below that for the helium nuclei to fuse, the reaction produces a high energy alpha particle which quickly acquires an electron producing a stable light helium ion which can be utilized directly as a source of electricity without producing dangerous neutrons. increases rapidly with temperature until it maximizes and then gradually drops off. The DT rate peaks at a lower temperature (about 70 keV, or 800 million kelvins) and at a higher value than other reactions commonly considered for fusion energy.]]
 
 can be used in fusion reactions by either of the reactions ²H + → + ¹p + 18.3 MeV, or + → + 2 ¹p+ 12.86 MeV.
 

@@ -13,7 +13,7 @@ Numbering years in this manner became more widespread in Europe with its usage b
 
 Vulgar Era
 
-Johannes_Kepler_1610.jpg first used "Vulgar Era" to distinguish dates on the Christian calendar from the regnal year typically used in national law.]] The term "Common Era" is traced back in English to its appearance as "Vulgar Era" to distinguish dates on the Ecclesiastic calendar in popular use from dates of the regnal year, the year of reign of a sovereign, typically used in national law. (The word 'vulgar' originally meant 'of the ordinary people', with no derogatory associations).
+first used "Vulgar Era" to distinguish dates on the Christian calendar from the regnal year typically used in national law.]] The term "Common Era" is traced back in English to its appearance as "Vulgar Era" to distinguish dates on the Ecclesiastic calendar in popular use from dates of the regnal year, the year of reign of a sovereign, typically used in national law. (The word 'vulgar' originally meant 'of the ordinary people', with no derogatory associations).
 
 The first use of the Latin term _anno aerae nostrae vulgaris_ discovered so far was in a 1615 book by Johannes Kepler.[18] Kepler uses it again, as _ab Anno vulgaris aerae_, in a 1616 table of ephemerides,[19] and again, as _ab anno vulgaris aerae_, in 1617.[20] A 1635 English edition of that book has the title page in English – so far, the earliest-found usage of _Vulgar Era_ in English.[21] A 1701 book edited by John LeClerc includes "Before Christ according to the Vulgar Æra, 6".[22] A 1716 book in English by Dean Humphrey Prideaux says, "before the beginning of the vulgar æra, by which we now compute the years from his incarnation."[23][24] A 1796 book uses the term "vulgar era of the nativity".[25]
 

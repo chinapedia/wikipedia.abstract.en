@@ -1,4 +1,4 @@
-A_Corner_of_Bundestag,_Aug_2016.png The BUNDESTAG (, ‘Federal Diet’) is the German federal parliament. It can be compared to the chamber of deputies along the lines of the United States House of Representatives or the House of Commons of the United Kingdom. Through the Bundesrat, a separate institution, the individual states of Germany participate in legislation similar to a second house in a bicameral parliament.
+The BUNDESTAG (, ‘Federal Diet’) is the German federal parliament. It can be compared to the chamber of deputies along the lines of the United States House of Representatives or the House of Commons of the United Kingdom. Through the Bundesrat, a separate institution, the individual states of Germany participate in legislation similar to a second house in a bicameral parliament.
 
 The Bundestag was established by article III of the Basic Law for the Federal Republic of Germany[1] (Constitution) in 1949 as one of the legislative bodies of Germany and thus the historical successor to the earlier Reichstag.
 
@@ -24,7 +24,7 @@ In 2005, a small aircraft crashed close to the German Parliament. It was then de
 
 Tasks
 
-Berlin_reichstag_west_panorama_2.jpg]] Berlin_reichstag_CP.jpg that was raised on 3 October 1990; it waves in front of the Reichstag building in Berlin, seat of the Bundestag]] Together with the Bundesrat, the Bundestag is the legislative branch of the German political system.
+]] that was raised on 3 October 1990; it waves in front of the Reichstag building in Berlin, seat of the Bundestag]] Together with the Bundesrat, the Bundestag is the legislative branch of the German political system.
 
 Although most legislation is initiated by the executive branch, the Bundestag considers the legislative function its most important responsibility, concentrating much of its energy on assessing and amending the government's legislative program. The committees (see below) play a prominent role in this process. Plenary sessions provide a forum for members to engage in public debate on legislative issues before them, but they tend to be well attended only when significant legislation is being considered.
 
@@ -48,7 +48,7 @@ The most recent election, the German federal election, 2017, was held on 24 Sept
 
 Distribution of seats in the Bundestag
 
-Bundestagswahl_05_stimmzett.jpg Half of the Members of the Bundestag are elected directly from 299 constituencies (first-past-the-post system), the other half are elected from the parties’ Land lists in such a way as to achieve proportional representation for the total Bundestag (if possible).
+Half of the Members of the Bundestag are elected directly from 299 constituencies (first-past-the-post system), the other half are elected from the parties’ Land lists in such a way as to achieve proportional representation for the total Bundestag (if possible).
 
 Accordingly, each voter has two votes in the elections to the Bundestag. The first vote, allowing voters to elect their local representatives to the Bundestag, decides which candidates are sent to Parliament from the constituencies.
 
@@ -66,7 +66,6 @@ The last Federal elections were held on Sunday, 24 September 2017, to elect the 
 The election saw the CDU/CSU win 33% of the vote, a drop of more than 8% and its lowest share of the vote since 1949, while the SPD achieved its worst result since the Second World War with just 20% of the vote. Alternative for Germany (AfD)—which was previously unrepresented in the Bundestag—became the third party in the Bundestag with 12.6% of the vote and a plurality of the vote in Saxony. No party won an outright majority in any state, including Bavaria, where the CSU often wins majorities and won a majority of the vote in 2013.
 
   ---------------------------
-  Bundestag_2017.svg
   Party
   Votes
   Invalid/blank votes
@@ -105,7 +104,6 @@ List of Bundestag by session
 ² 1990 to 2005 PDS (Party of Democratic Socialism), 2005 to 2007 The Left Party.PDS, since 2007 The Left
 ³ BP 17, KPD 15, WAV 12, Centre Party 10, DKP-DRP 5, SSW 1, Independents 3
 ⁴ GB-BHE 27, Centre Party 3
-Bundestag_Seats.svg
 
 
 Presidents since 1949
@@ -150,8 +148,6 @@ Presidents since 1949
 
 
 Organisation
-
-2010-06-23-berlin-by-RalfR-06.jpg
 
 Parliamentary groups
 

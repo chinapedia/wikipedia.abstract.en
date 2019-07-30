@@ -5,7 +5,7 @@ The type specimen is OH 7, discovered in 1960 at Olduvai Gorge in Tanzania, asso
 
 Classification as _Homo_
 
-MEH_Homo_habilis_Daynes.jpg (2010), based on the KNM-ER 1813 cranium.]] There has been scholarly debate regarding its placement in the genus _Homo_ rather than the genus _Australopithecus_.[6][7] The small size and rather primitive attributes have led some experts (Richard Leakey among them) to propose excluding _H. habilis_ from the genus _Homo_ and placing them instead in _Australopithecus_ as _Australopithecus habilis_.[8]
+(2010), based on the KNM-ER 1813 cranium.]] There has been scholarly debate regarding its placement in the genus _Homo_ rather than the genus _Australopithecus_.[6][7] The small size and rather primitive attributes have led some experts (Richard Leakey among them) to propose excluding _H. habilis_ from the genus _Homo_ and placing them instead in _Australopithecus_ as _Australopithecus habilis_.[8]
 
 Louis Leakey (father of Richard Leakey), the British-Kenyan paleoanthropologist who was the first to suggest the existence of _H. habilis_, and his wife, Mary Leakey, found the first trace of _H. habilis_ in 1955: two hominin teeth. These were later classified as "milk teeth", and therefore considered difficult to link to taxa, unlike permanent teeth.
 
@@ -28,8 +28,6 @@ The body proportions for _H. habilis_ are in accordance with craniodental eviden
 
 A 2018 study of the anatomy of _Australopithecus sediba_ found that _A. sediba_ is distinct from but closely related to both _Homo habilis_ and _Australopithecus africanus_.[20]
 
-Homo_habilis_KNM_ER_1813.jpg
-
 
 Diet
 
@@ -38,7 +36,7 @@ Based on dental microwear-texture analysis, _Homo habilis_ (as well as other ear
 
 Behaviour
 
-Homo_habilis.JPG _Homo habilis_ is thought to have mastered the Lower Paleolithic Olduwan tool set, which used stone flakes. _H. habilis_ used these stones to butcher and skin animals.[23] These stone flakes were more advanced than any tools previously used, and gave _H. habilis_ the edge it needed to prosper in hostile environments previously too formidable for primates. Whether _H. habilis_ was the first hominin to master stone tool technology remains controversial, as _Australopithecus garhi_, dated to 2.6 million years ago, has been found along with stone tool implements.
+_Homo habilis_ is thought to have mastered the Lower Paleolithic Olduwan tool set, which used stone flakes. _H. habilis_ used these stones to butcher and skin animals.[23] These stone flakes were more advanced than any tools previously used, and gave _H. habilis_ the edge it needed to prosper in hostile environments previously too formidable for primates. Whether _H. habilis_ was the first hominin to master stone tool technology remains controversial, as _Australopithecus garhi_, dated to 2.6 million years ago, has been found along with stone tool implements.
 
 Most experts assume the intelligence and social organization of _H. habilis_ were more sophisticated than typical australopithecines or chimpanzees. _H. habilis_ used tools primarily for scavenging, such as cleaving meat off carrion, rather than defense or hunting. Yet, despite tool usage, _H. habilis_ was not the master hunter its sister species (or descendants) proved to be, as ample fossil evidence indicates _H. habilis_ was a staple in the diet of large predatory animals, such as _Dinofelis_, a large scimitar-toothed predatory cat the size of a jaguar.[24]
 
@@ -49,7 +47,7 @@ Fossils
 
 OH 7
 
-Homme_d'Olduvai.jpg, Brussels, 2016 photograph)]] OH 7 dates to 1.75 million years old, and was discovered by Mary and Louis Leakey on 4 November 1960 at Olduvai Gorge, Tanzania. It is a lower jaw complete with teeth; due to the size of the small teeth, researchers estimate this juvenile individual had a brain volume of 363 cm³. In 1964, found were more than 20 fragments of the left hand. Leakey, paleontologist John Napier, and paleoanthropologist Phillip Tobias identified these discoveries as Homo habilis and assisted in classifying OH 7 as the type fossil.[26]
+, Brussels, 2016 photograph)]] OH 7 dates to 1.75 million years old, and was discovered by Mary and Louis Leakey on 4 November 1960 at Olduvai Gorge, Tanzania. It is a lower jaw complete with teeth; due to the size of the small teeth, researchers estimate this juvenile individual had a brain volume of 363 cm³. In 1964, found were more than 20 fragments of the left hand. Leakey, paleontologist John Napier, and paleoanthropologist Phillip Tobias identified these discoveries as Homo habilis and assisted in classifying OH 7 as the type fossil.[26]
 
 The OH 7 hand of _Homo habilis_ combines traits associated with a precision grip and adaptations related to climbing, which fits well with the semi-long, humanlike hindlimb proportions and a rather chimpanzee-like upper-to-lower arm ratio.
 
@@ -67,7 +65,7 @@ KNM-ER 1805 is a specimen of an adult _H. habilis_ made of three pieces of crani
 
 OH 62
 
-One set of fossil remains (OH 62, for "Olduvai Hominid specimen 62"), discovered by Donald Johanson and Tim White in Olduvai Gorge in 1986, included the important upper and lower limbs, specifically the humerus and femur.[27] Their finding stimulated some debate at the time.[28] Locomotor affinities of OH 62 have been assessed primarily on the basis of its forelimb to hind limb proportions, which are known to be associated with locomotor behavior among living primates. Initial analyses concentrated on comparisons to the _Australopithecus afarensis_ A.L. 288-1 ("Lucy"). In most dimensions—measured or estimated—the OH 62 upper limb remains equaled or exceeded those of A.L. 288-1, while its lower limb remains (principally the femur) appeared to be smaller. In particular, using a length estimate for the humerus of 264 mm, and a length estimate for the less complete femur of "no greater than that of A.L. 288-1 (280 mm)," a possible humerofemoral length index is close to 95%, which is more like that of modern chimpanzees (averaging about 1.00) than modern humans (averaging about 0.72). In this sense, it was more "primitive" than A.L. 288-1, with a length index of 0.85.[29] Homo_habilis-KNM_ER_1813.jpg.]]
+One set of fossil remains (OH 62, for "Olduvai Hominid specimen 62"), discovered by Donald Johanson and Tim White in Olduvai Gorge in 1986, included the important upper and lower limbs, specifically the humerus and femur.[27] Their finding stimulated some debate at the time.[28] Locomotor affinities of OH 62 have been assessed primarily on the basis of its forelimb to hind limb proportions, which are known to be associated with locomotor behavior among living primates. Initial analyses concentrated on comparisons to the _Australopithecus afarensis_ A.L. 288-1 ("Lucy"). In most dimensions—measured or estimated—the OH 62 upper limb remains equaled or exceeded those of A.L. 288-1, while its lower limb remains (principally the femur) appeared to be smaller. In particular, using a length estimate for the humerus of 264 mm, and a length estimate for the less complete femur of "no greater than that of A.L. 288-1 (280 mm)," a possible humerofemoral length index is close to 95%, which is more like that of modern chimpanzees (averaging about 1.00) than modern humans (averaging about 0.72). In this sense, it was more "primitive" than A.L. 288-1, with a length index of 0.85.[29] .]]
 
 LD 350-1
 

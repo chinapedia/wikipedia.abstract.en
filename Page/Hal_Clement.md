@@ -51,7 +51,7 @@ Planets created by Clement typically feature unique astronomical or physical asp
 
 Short stories, novelettes and novellas
 
-Satellite_science_fiction_195702.jpg added 10,000 words to Clement's novella "Planetfall" for its publication in the February 1957 issue of _Satellite Science Fiction_ as "Planet for Plunder"]] Galaxy_196308.jpg''.]]
+added 10,000 words to Clement's novella "Planetfall" for its publication in the February 1957 issue of _Satellite Science Fiction_ as "Planet for Plunder"]] ''.]]
 
 -   "Proof" (June 1942). Short story. Published in _Astounding_. Collected in _The Essential Hal Clement Volume 2_, _Possible Worlds of Science Fiction_ (1951), _SF: Author's Choice 2_ (1970), _Where Do We Go From Here?_ (1971), _The Great SF Stories 4 (1942)_ (1980), _First Voyages_ (1981), _The Golden Years of Science Fiction (Second Series)_ (1983), _Encounters_ (1988), _Ascent of Wonder_ (1994) and _Wondrous Beginnings_ (2003).
 -   _Impediment_ (aug 1942). Novelette. Published in _Astounding_. Collected in _Natives of Space_, _The Best of Hal Clement_ and _The Essential Hal Clement Volume 2_.

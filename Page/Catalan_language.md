@@ -5,7 +5,7 @@ Catalan evolved from Vulgar Latin in the Middle Ages around the eastern Pyrenees
 
 Etymology and pronunciation
 
-Extensió_de_la_llengua_catalana_als_Països_Catalans.png''' (): (In orange, strict Catalan-speaking area) NE modern Spain (Catalonia, Valencian Community and Balearic Islands), SE. France (Roussillon, touching the Pyrenees) and Comune of Alghero (NW coast of Sardinia, Island belonging to Italy)]] Aragonese_Empire_1443.svg in 1443. King James the Conqueror [1208-1276] dictated his autobiographical chronicles entirely in Catalan. Some of this territory nowadays makes up the _Catalan Countries_.]]
+''' (): (In orange, strict Catalan-speaking area) NE modern Spain (Catalonia, Valencian Community and Balearic Islands), SE. France (Roussillon, touching the Pyrenees) and Comune of Alghero (NW coast of Sardinia, Island belonging to Italy)]] in 1443. King James the Conqueror [1208-1276] dictated his autobiographical chronicles entirely in Catalan. Some of this territory nowadays makes up the _Catalan Countries_.]]
 
 The word _Catalan_ is derived from the territorial name of Catalonia, itself of disputed etymology. The main theory suggests that (Latin _Gathia Launia_) derives from the name _Gothia_ or _Gauthia_ ("Land of the Goths"), since the origins of the Catalan counts, lords and people were found in the March of Gothia, whence _Gothland_ > _Gothlandia_ > _Gothalania_ > _Catalonia_ theoretically derived.
 
@@ -16,7 +16,7 @@ The endonym is pronounced in the Eastern Catalan dialects, and in the Western di
 
 History
 
-Homilies_d'Organya.jpg'' (12th century)]] Greuges_de_Guitard_Isarn.jpg'' (ca. 1080–1095), one of the earliest texts written almost completely in Catalan, predating the famous _Homilies d'Organyà_ by a century]] Linguistic_map_Southwestern_Europe-en.gif
+'' (12th century)]] '' (ca. 1080–1095), one of the earliest texts written almost completely in Catalan, predating the famous _Homilies d'Organyà_ by a century]]
 
 Middle Ages
 
@@ -40,7 +40,7 @@ Shortly after the French Revolution (1789), the French First Republic prohibited
 
 France: 19th to 20th centuries
 
-Interdiction_officielle_de_la_langue_catalana_2_avril_1700.jpg SpeakFrenchBeClean.jpg, 2010]] Following the French capture of Algeria (1833), that region saw several waves of Catalan-speaking settlers. People from the Spanish Alacant province settled around Oran, whereas Algiers received immigration from Northern Catalonia and Menorca. Their speech was known as _patuet_. By 1911, the number of Catalan speakers was around 100,000. After the declaration of independence of Algeria in 1962, almost all the Catalan speakers fled to Northern Catalonia (as _Pieds-Noirs_) or Alacant.
+, 2010]] Following the French capture of Algeria (1833), that region saw several waves of Catalan-speaking settlers. People from the Spanish Alacant province settled around Oran, whereas Algiers received immigration from Northern Catalonia and Menorca. Their speech was known as _patuet_. By 1911, the number of Catalan speakers was around 100,000. After the declaration of independence of Algeria in 1962, almost all the Catalan speakers fled to Northern Catalonia (as _Pieds-Noirs_) or Alacant.
 
 Nowadays, France recognizes only French as an official language. Nevertheless, on 10 December 2007, the General Council of the Pyrénées-Orientales officially recognized Catalan as one of the languages of the department[6] and seeks to further promote it in public life and education.
 
@@ -67,7 +67,7 @@ In Alicante province, Catalan is being replaced by Spanish and in Alghero by Ita
 
 Classification and relationship with other Romance languages
 
-Romance-lg-classification-en.svg, distinct from Iberian Romance.]] The ascription of Catalan to the Occitano-Romance branch of Gallo-Romance languages is not shared by all linguists and philologists, particularly among Spanish ones, such as Ramón Menéndez Pidal.
+, distinct from Iberian Romance.]] The ascription of Catalan to the Occitano-Romance branch of Gallo-Romance languages is not shared by all linguists and philologists, particularly among Spanish ones, such as Ramón Menéndez Pidal.
 
 According to Pèire Bèc, its specific classification is as follows:
 
@@ -189,25 +189,25 @@ Catalan-speaking territories
 
 Traditionally Catalan-speaking territories are sometimes called the (Catalan Countries), a denomination based on cultural affinity and common heritage, that has also had a subsequent political interpretation but no official status. Various interpretations of the term may include some or all of these regions.
 
-+---------------------+----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| State               | Territory                  | Catalan name                                                                                                                                                                               | Notes                                                                                                                                                 |
-+=====================+============================+============================================================================================================================================================================================+=======================================================================================================================================================+
-| Andorra             | Andorra                    |                                                                                                                                                                                            | A sovereign state where Catalan is the national and the sole official language. The Andorrans speak a Western Catalan variety.                        |
-+---------------------+----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| France              | Northern Catalonia         |                                                                                                                                                                                            | Roughly corresponding to the of Pyrénées-Orientales.                                                                                                  |
-+---------------------+----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Spain               | Catalonia                  |                                                                                                                                                                                            | In the Aran Valley (northwest corner of Catalonia), in addition to Occitan, which is the local language, Catalan, Spanish and French are also spoken. |
-+---------------------+----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Valencian Community |                            | Excepting some regions in the west and south which have been Aragonese/Spanish-speaking since at least the 18th century. The Western Catalan variety spoken there is known as "Valencian". |                                                                                                                                                       |
-+---------------------+----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| La Franja           |                            | A part of the Autonomous Community of Aragon, specifically a strip bordering Western Catalonia. It comprises the of Ribagorça, Llitera, Baix Cinca, and Matarranya.                        |                                                                                                                                                       |
-+---------------------+----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Balearic Islands    |                            | Comprising the islands of Mallorca, Menorca, Ibiza and Formentera.                                                                                                                         |                                                                                                                                                       |
-+---------------------+----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Carche              |                            | A small area of the Autonomous Community of Murcia, settled in the 19th century.                                                                                                           |                                                                                                                                                       |
-+---------------------+----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Italy               | Siñal_d'Aragón.svg Alghero |                                                                                                                                                                                            | A city in the Province of Sassari, on the island of Sardinia, where the peculiar Algherese dialect is spoken.                                         |
-+---------------------+----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| State               | Territory          | Catalan name                                                                                                                                                                               | Notes                                                                                                                                                 |
++=====================+====================+============================================================================================================================================================================================+=======================================================================================================================================================+
+| Andorra             | Andorra            |                                                                                                                                                                                            | A sovereign state where Catalan is the national and the sole official language. The Andorrans speak a Western Catalan variety.                        |
++---------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| France              | Northern Catalonia |                                                                                                                                                                                            | Roughly corresponding to the of Pyrénées-Orientales.                                                                                                  |
++---------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Spain               | Catalonia          |                                                                                                                                                                                            | In the Aran Valley (northwest corner of Catalonia), in addition to Occitan, which is the local language, Catalan, Spanish and French are also spoken. |
++---------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Valencian Community |                    | Excepting some regions in the west and south which have been Aragonese/Spanish-speaking since at least the 18th century. The Western Catalan variety spoken there is known as "Valencian". |                                                                                                                                                       |
++---------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| La Franja           |                    | A part of the Autonomous Community of Aragon, specifically a strip bordering Western Catalonia. It comprises the of Ribagorça, Llitera, Baix Cinca, and Matarranya.                        |                                                                                                                                                       |
++---------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Balearic Islands    |                    | Comprising the islands of Mallorca, Menorca, Ibiza and Formentera.                                                                                                                         |                                                                                                                                                       |
++---------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Carche              |                    | A small area of the Autonomous Community of Murcia, settled in the 19th century.                                                                                                           |                                                                                                                                                       |
++---------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Italy               | Alghero            |                                                                                                                                                                                            | A city in the Province of Sassari, on the island of Sardinia, where the peculiar Algherese dialect is spoken.                                         |
++---------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : Territories where Catalan is spoken
 
@@ -215,41 +215,41 @@ Number of speakers
 
 The number of people known to be fluent in Catalan varies depending on the sources used. A 2004 study did not count the total number of speakers, but estimated a total of 9–9.5 million by matching the percentage of speakers to the population of each area where Catalan is spoken.[21] The web site of the Generalitat de Catalunya estimated that as of 2004 there were 9,118,882 speakers of Catalan.[22] These figures only reflect potential speakers; today it is the native language of only 35.6% of the Catalan population.[23] According to _Ethnologue_, Catalan had four million native speakers and five million second-language speakers in 2012. The most important social characteristic of the Catalan language is that all the areas where it is spoken are bilingual in practice: together with the French language in Roussillon, with Italian in Alghero, with Spanish and French in Andorra and with Spanish in the rest of the territories.
 
-+---------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-| Territory                             | State      | Understand Sources:                                                                                                                           | Can speak [24] |
-|                                       |            |                                                                                                                                               |                |
-|                                       |            | -   Catalonia: Statistic data of 2001 census, from 1.                                                                                         |                |
-|                                       |            | -   Land of Valencia: Statistical data from 2001 census, from .                                                                               |                |
-|                                       |            | -   Land of Valencia: Statistical data from 2001 census, from 2 .                                                                             |                |
-|                                       |            | -   Balearic Islands: Statistical data from 2001 census, from 3.                                                                              |                |
-|                                       |            | -   Northern Catalonia: Survey commissioned by Prefecture of Languedoc-Roussillon Region done in October 1997 and published in January 1998 . |                |
-|                                       |            | -   Andorra: Sociolinguistic data from Andorran Government, 1999.                                                                             |                |
-|                                       |            | -   Aragon: Sociolinguistic data from Euromosaic 4.                                                                                           |                |
-|                                       |            | -   Alguer: Sociolinguistic data from Euromosaic 5.                                                                                           |                |
-|                                       |            | -   Rest of World: Estimate for 1999 by the outside the Catalan Countries.                                                                    |                |
-+=======================================+============+===============================================================================================================================================+================+
-|                                       |            | 6,502,880                                                                                                                                     | 5,698,400      |
-+---------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-|                                       |            | 3,448,780                                                                                                                                     | 2,407,951      |
-+---------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-|                                       |            | 852,780                                                                                                                                       | 706,065        |
-+---------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-| Roussillon                            |            | 203,121                                                                                                                                       | 125,621        |
-+---------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-|                                       |            | 75,407                                                                                                                                        | 61,975         |
-+---------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-| La Franja (Aragon)                    |            | 47,250                                                                                                                                        | 45,000         |
-+---------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-| Siñal_d'Aragón.svg Alghero (Sardinia) |            | 20,000                                                                                                                                        | 17,625         |
-+---------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-| Carche (Murcia)                       |            | No data                                                                                                                                       | No data        |
-+---------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-| Total Catalan-speaking territories    | 11,150,218 | 9,062,637                                                                                                                                     |                |
-+---------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-| Rest of World                         | No data    | 350,000                                                                                                                                       |                |
-+---------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
-| Total                                 | 11,150,218 | 9,412,637                                                                                                                                     |                |
-+---------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
++------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
+| Territory                          | State      | Understand Sources:                                                                                                                           | Can speak [24] |
+|                                    |            |                                                                                                                                               |                |
+|                                    |            | -   Catalonia: Statistic data of 2001 census, from 1.                                                                                         |                |
+|                                    |            | -   Land of Valencia: Statistical data from 2001 census, from .                                                                               |                |
+|                                    |            | -   Land of Valencia: Statistical data from 2001 census, from 2 .                                                                             |                |
+|                                    |            | -   Balearic Islands: Statistical data from 2001 census, from 3.                                                                              |                |
+|                                    |            | -   Northern Catalonia: Survey commissioned by Prefecture of Languedoc-Roussillon Region done in October 1997 and published in January 1998 . |                |
+|                                    |            | -   Andorra: Sociolinguistic data from Andorran Government, 1999.                                                                             |                |
+|                                    |            | -   Aragon: Sociolinguistic data from Euromosaic 4.                                                                                           |                |
+|                                    |            | -   Alguer: Sociolinguistic data from Euromosaic 5.                                                                                           |                |
+|                                    |            | -   Rest of World: Estimate for 1999 by the outside the Catalan Countries.                                                                    |                |
++====================================+============+===============================================================================================================================================+================+
+|                                    |            | 6,502,880                                                                                                                                     | 5,698,400      |
++------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
+|                                    |            | 3,448,780                                                                                                                                     | 2,407,951      |
++------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
+|                                    |            | 852,780                                                                                                                                       | 706,065        |
++------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
+| Roussillon                         |            | 203,121                                                                                                                                       | 125,621        |
++------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
+|                                    |            | 75,407                                                                                                                                        | 61,975         |
++------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
+| La Franja (Aragon)                 |            | 47,250                                                                                                                                        | 45,000         |
++------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
+| Alghero (Sardinia)                 |            | 20,000                                                                                                                                        | 17,625         |
++------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
+| Carche (Murcia)                    |            | No data                                                                                                                                       | No data        |
++------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
+| Total Catalan-speaking territories | 11,150,218 | 9,062,637                                                                                                                                     |                |
++------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
+| Rest of World                      | No data    | 350,000                                                                                                                                       |                |
++------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
+| Total                              | 11,150,218 | 9,412,637                                                                                                                                     |                |
++------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------+----------------+
 
     1. The number of people who understand Catalan includes those who can speak it.
     2. Figures relate to all self-declared capable speakers, not just native speakers.
@@ -312,7 +312,7 @@ Central Catalan pronunciation is considered to be standard for the language. The
 
 Vowels
 
-The vowel phonemes of Standard Eastern Catalans of Standard Eastern Catalan]]
+s of Standard Eastern Catalan]]
 
 Catalan has inherited the typical vowel system of Vulgar Latin, with seven stressed phonemes: , a common feature in Western Romance, except Spanish. Balearic also has instances of stressed . Dialects differ in the different degrees of vowel reduction, and the incidence of the pair .
 
@@ -393,8 +393,6 @@ Preferential subjects of study
 Dialects
 
 Overview
-
-Catalan_dialects-en.png
 
 The dialects of the Catalan language feature a relative uniformity, especially when compared to other Romance languages; both in terms of vocabulary, semantics, syntax, morphology, and phonology. Mutual intelligibility between dialects is very high, estimates ranging from 90% to 95%.[34] The only exception is the isolated idiosyncratic Alguerese dialect.
 
@@ -526,8 +524,6 @@ Despite its relative lexical unity, the two dialectal blocks of Catalan (Eastern
 
 Standards
 
-Casa_de_Convalescència_-_IEC.JPG
-
 +---------------+-----------------+------------+
 | Catalan (IEC) | Valencian (AVL) | gloss      |
 +===============+=================+============+
@@ -572,8 +568,6 @@ In 2011,[36] the Aragonese government passed a decree approving the statutes of 
 
 
  Status of Valencian
-
-Subdialectes_del_valencià.svg
 
 Valencian is classified as a Western dialect, along with the northwestern varieties spoken in Western Catalonia (provinces of Lleida and the western half of Tarragona). The various forms of Catalan and Valencian are mutually intelligible (ranging from 90% to 95%)[38]
 
@@ -623,7 +617,7 @@ There is greater regularity in the process of word-compounding, where one can fi
 
 Writing system
 
-Catalan_geminated_L_in_a_dictionary.jpg Billboard_in_Barcelona_(detail).png (detail), showing the word ("illusion")]]
+(detail), showing the word ("illusion")]]
 
 [TABLE]
 
@@ -709,8 +703,6 @@ The grammar of Catalan is similar to other Romance languages. Features include:
 
 Gender and number inflection
 
-Flexió_of_word_Gat.jpg
-
 +---------------------------------------------------+-------------------------------------+-------------------------------------+-------------------------------------+
 | +----------+-----------+----------+               | +----------+-----------+----------+ | +----------+-----------+----------+ | +----------+-----------+----------+ |
 | |          | masculine | feminine |               | |          | masculine | feminine | | |          | masculine | feminine | | |          | masculine | feminine | |
@@ -738,7 +730,7 @@ As in the other Western Romance languages, the main plural expression is the suf
 
 Determiners
 
-Begur_-_Plaça_de_la_Vila_-_Catalunya.jpg, Catalonia, Spain. In (literally "square of the town"), since the noun ("town") is feminine singular, the definite article carries the corresponding form, ("the").]]
+, Catalonia, Spain. In (literally "square of the town"), since the noun ("town") is feminine singular, the definite article carries the corresponding form, ("the").]]
 
 +----------------------------------------+----------------------------------------+-------------------------------------+
 | +----------+-----------+----------+    | +---------+-------------+              | +----------+-----------+----------+ |

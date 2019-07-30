@@ -1,5 +1,3 @@
-Basque_as_first_language(corrected).JPG Irakatsia.png Basque_Country_Location_Map.svg
-
 '''Basque '''(;[1] ) is a language spoken in the Basque Country, a region that straddles the westernmost Pyrenees in adjacent parts of northern Spain and southwestern France. Linguistically, Basque is unrelated to the other languages of Europe and is a language isolate relative to any other known living language. The Basques are indigenous to, and primarily inhabit, the Basque Country. The Basque language is spoken by 28.4% (751,500) of Basques in all territories. Of these, 93.2% (700,300) are in the Spanish area of the Basque Country and the remaining 6.8% (51,200) are in the French portion.[2]
 
 Native speakers live in a contiguous area that includes parts of four Spanish provinces and the three "ancient provinces" in France. Gipuzkoa, most of Biscay, a few municipalities of Álava, and the northern area of Navarre formed the core of the remaining Basque-speaking area before measures were introduced in the 1980s to strengthen the language. By contrast, most of Álava, the western part of Biscay and central and southern areas of Navarre are predominantly populated by native speakers of Spanish, either because Basque was replaced by Spanish over the centuries, in some areas (most of Álava and central Navarre), or because it was possibly never spoken there, in other areas (parts of the Enkarterri and southeastern Navarre).
@@ -22,7 +20,7 @@ The Spanish term _Vascuence_, derived from Latin _vasconĭce_,[12] has acquired 
 
 History and classification
 
-Euskararen_aztarna_geografikoak.svg Basque is geographically surrounded by Romance languages but is a language isolate unrelated to them, and indeed, to any other language in the world. It is the last remaining descendant of one of the pre-Indo-European languages of Western Europe, the others being extinct outright.[14] Consequently, its prehistory may not be reconstructible by means of the traditional comparative method except by applying it to differences between dialects within the language. Little is known of its origins, but it is likely that an early form of the Basque language was present in Western Europe before the arrival of the Indo-European languages in the area.
+Basque is geographically surrounded by Romance languages but is a language isolate unrelated to them, and indeed, to any other language in the world. It is the last remaining descendant of one of the pre-Indo-European languages of Western Europe, the others being extinct outright.[14] Consequently, its prehistory may not be reconstructible by means of the traditional comparative method except by applying it to differences between dialects within the language. Little is known of its origins, but it is likely that an early form of the Basque language was present in Western Europe before the arrival of the Indo-European languages in the area.
 
 Authors such as Miguel de Unamuno and Louis Lucien Bonaparte have noted that the words for "knife" (_aizto_), "axe" (_aizkora_), and "hoe" (_aitzur_) derive from the word for "stone" (_haitz_), and have therefore concluded that the language dates to prehistoric Europe when those tools were made of stone.[15][16] Others find this unlikely: see the _aizkora_ controversy.
 
@@ -34,7 +32,7 @@ Hypotheses concerning Basque's connections to other languages
 
 The statistical improbability and chronological difficulty of linking Basque with its Indo-European neighbours in Europe has inspired many scholars to search for its possible relatives elsewhere. Besides many pseudoscientific comparisons, the appearance of long-range linguistics gave rise to several attempts to connect Basque with geographically very distant language families. Almost all hypotheses concerning the origin of Basque are controversial, and the suggested evidence is not generally accepted by most linguists. Some of these hypothetical connections are:
 
-UMMESAHARF.jpg (Navarre)]]
+(Navarre)]]
 
 -   Iberian: another ancient language once spoken in the Iberian Peninsula, shows several similarities with Aquitanian and Basque. However, not enough evidence exists to distinguish geographical connections from linguistic ones. Iberian itself remains unclassified. Eduardo Orduña Aznar claims to have established correspondences between Basque and Iberian numerals[18] and noun case markers.
 -   Indo-European: possibly close to (Italo-)Celtic or an Indo-European creole possibly with a donor language akin to Brittonic on a substrate language akin to Italic.[19][20] Gianfranco Forni considers it unrealistic that Basque is a non-Indo-European language that allegedly borrowed the majority of its basic lexicon (including virtually all verbs) and most of its archaic bound morphemes from neighbouring Indo-European languages.[21] In response, a non-Indo-European line of descent with waves or stages of Indo-European influence and minor discontinuities over probably millennia before the Roman conquest[22] was suggested as the most likely alternative by John T. Koch in his review of Forni's paper outlining why an Indo-European classification of Basque cannot be accepted, even if some of Forni's data is accepted.[23]
@@ -48,7 +46,7 @@ UMMESAHARF.jpg (Navarre)]]
 
 Geographic distribution
 
-Euskara.png Navarra_-_Mapa_densidad_euskera_2001.svg The region where Basque is spoken has become smaller over centuries, especially at the northern, southern, and eastern borders. Nothing is known about the limits of this region in ancient times, but on the basis of toponyms and epigraphs, it seems that in the beginning of the Common Era it stretched to the river Garonne in the north (including the southwestern part of present-day France); at least to the Val d'Aran in the east (now a Gascon-speaking part of Catalonia), including lands on both sides of the Pyrenees;[29] the southern and western boundaries are not clear at all.
+The region where Basque is spoken has become smaller over centuries, especially at the northern, southern, and eastern borders. Nothing is known about the limits of this region in ancient times, but on the basis of toponyms and epigraphs, it seems that in the beginning of the Common Era it stretched to the river Garonne in the north (including the southwestern part of present-day France); at least to the Val d'Aran in the east (now a Gascon-speaking part of Catalonia), including lands on both sides of the Pyrenees;[29] the southern and western boundaries are not clear at all.
 
 The Reconquista temporarily counteracted this contracting tendency when the Christian lords called on Northern Iberian peoples—Basques, Asturians, and "Franks"—to colonise the new conquests. The Basque language became the main everyday language, while other languages like Spanish, Gascon, French, or Latin were preferred for the administration and high education.
 
@@ -60,7 +58,7 @@ In the 20th century, however, the rise of Basque nationalism spurred increased i
 
 Official status
 
-Navarra_-_Zonificacion_linguistica.png Historically, Latin or Romance languages have been the official languages in this region. However, Basque was explicitly recognised in some areas. For instance, the _fuero_ or charter of the Basque-colonised Ojacastro (now in La Rioja) allowed the inhabitants to use Basque in legal processes in the 13th and 14th centuries.
+Historically, Latin or Romance languages have been the official languages in this region. However, Basque was explicitly recognised in some areas. For instance, the _fuero_ or charter of the Basque-colonised Ojacastro (now in La Rioja) allowed the inhabitants to use Basque in legal processes in the 13th and 14th centuries.
 
 The Spanish Constitution of 1978 states in Article 3 that the Spanish language is the official language of the nation, but allows autonomous communities to provide a co-official language status for the other languages of Spain.[32] Consequently, the Statute of Autonomy of the Basque Autonomous Community establishes Basque as the co-official language of the autonomous community. The Statute of Navarre establishes Spanish as the official language of Navarre, but grants co-official status to the Basque language in the Basque-speaking areas of northern Navarre. Basque has no official status in the French Basque Country and French citizens are barred from officially using Basque in a French court of law. However, the use of Basque by Spanish nationals in French courts is permitted (with translation), as Basque is officially recognised on the other side of the border.
 
@@ -68,7 +66,7 @@ The positions of the various existing governments differ with regard to the prom
 
 Demographics
 
-Linguistic_map_Southwestern_Europe-en.gif Euskara_iparraldean.ogv The 2006 sociolinguistic survey of all Basque-speaking territories showed that in 2006, of all people aged 16 and above:[34]
+The 2006 sociolinguistic survey of all Basque-speaking territories showed that in 2006, of all people aged 16 and above:[34]
 
 -   In the Basque Autonomous Community, 30.1% were fluent Basque speakers, 18.3% passive speakers and 51.5% did not speak Basque. The percentage was highest in Gipuzkoa (49.1% speakers) and lowest in Álava (14.2%). These results represent an increase from previous years (29.5% in 2001, 27.7% in 1996 and 24.1% in 1991). The highest percentage of speakers can now be found in the 16–24 age range (57.5%) vs. 25.0% in the 65+ age range. The percentage of fluent speakers is even higher if counting those under 16, given that the proportion of bilinguals is particularly high in this age group (76.7% of those aged between 10 and 14 and 72.4% of those aged 5–9): 37.5% of the population aged 6 and above in the whole Basque Autonomous Community, 25.0% in Álava, 31.3% in Biscay and 53.3% in Gipuzkoa.[35]
 -   In French Basque Country, 22.5% were fluent Basque speakers, 8.6% passive speakers, and 68.9% did not speak Basque. The percentage was highest in Labourd and Soule (55.5% speakers) and lowest in the Bayonne-Anglet-Biarritz conurbation (8.8%). These results represent another decrease from previous years (24.8% in 2001 and 26.4 in 1996). The highest percentage of speakers is in the 65+ age range (32.4%). The lowest percentage is found in the 25–34 age range (11.6%), but there is a slight increase in the 16–24 age range (16.1%)
@@ -82,7 +80,7 @@ Basque is used as a language of commerce both in the Basque Country and in locat
 
 Dialects
 
-Euskalkiak_koldo_zuazo_2008.png The modern Basque dialects show a high degree of dialectal divergence, sometimes making cross-dialect communication difficult. This is especially true in the case of Biscayan and Souletin, which are regarded as the most divergent Basque dialects.
+The modern Basque dialects show a high degree of dialectal divergence, sometimes making cross-dialect communication difficult. This is especially true in the case of Biscayan and Souletin, which are regarded as the most divergent Basque dialects.
 
 Modern Basque dialectology distinguishes five dialects:[39]
 
@@ -261,9 +259,9 @@ Basque also features postalveolar sibilants (, written , and , written ), soundi
 
 There are two palatal stops, voiced and unvoiced, as well as a palatal nasal and a palatal lateral (the palatal stops are not present in all dialects). These and the postalveolar sounds are typical of diminutives, which are used frequently in child language and motherese (mainly to show affection rather than size). For example, _tanta_ "drop" vs. _ttantta_ "droplet". A few common words, such as _txakur_ "dog", use palatal sounds even though in current usage they have lost the diminutive sense; the corresponding non-palatal forms now acquiring an augmentative or pejorative sense: _zakur_—"big dog". Many Basque dialects exhibit a derived palatalisation effect, in which coronal onset consonants change into the palatal counterpart after the high front vowel . For example, the in _egin_ "to act" becomes palatal in southern and western dialects when a suffix beginning with a vowel is added: = "the action", = "doing".
 
-Diaphonej.svg The letter has a variety of realisations according to the regional dialect: , as pronounced from west to east in south Bizkaia and coastal Lapurdi, central Bizkaia, east Bizkaia and Gipuzkoa, south Navarre, inland Lapurdi and Low Navarre, and Zuberoa, respectively.[62]
+The letter has a variety of realisations according to the regional dialect: , as pronounced from west to east in south Bizkaia and coastal Lapurdi, central Bizkaia, east Bizkaia and Gipuzkoa, south Navarre, inland Lapurdi and Low Navarre, and Zuberoa, respectively.[62]
 
-Euskara_-_aspirazio.svg The letter is silent in the Southern dialects, but pronounced (although vanishing) in the Northern ones. Unified Basque spells it except when it is predictable, in a position following a consonant.[63]
+The letter is silent in the Southern dialects, but pronounced (although vanishing) in the Northern ones. Unified Basque spells it except when it is predictable, in a position following a consonant.[63]
 
 Unless they are recent loanwords (e.g. _Ruanda_ (Rwanda), _radar_ ... ), words may not have initial . In older loans, initial _r-_ took a prosthetic _e-_, resulting in _err-_ (_Erroma_ "Rome", _Errusia_ "Russia"), more rarely _irr-_ (for example _irratia_ "radio", _irrisa_ "rice").
 
@@ -287,7 +285,7 @@ Through contact with neighbouring peoples, Basque has adopted many words from La
 
 Writing system
 
-Ascain_Stèle_discoïdale.jpg Basque is written using the Latin script including _ñ_ and sometimes _ç_ and _ü_. Basque does not use ''Cc, Qq, Vv, Ww, Yy '' for words that have some tradition in this language; nevertheless, the Basque alphabet (established by Euskaltzaindia) does include them for loanwords:[66]
+Basque is written using the Latin script including _ñ_ and sometimes _ç_ and _ü_. Basque does not use ''Cc, Qq, Vv, Ww, Yy '' for words that have some tradition in this language; nevertheless, the Basque alphabet (established by Euskaltzaindia) does include them for loanwords:[66]
 
     Aa Bb Cc (and, as a variant, Çç) Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Ññ Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 
@@ -297,13 +295,13 @@ All letters and digraphs represent unique phonemes. The main exception is when _
 
 _H_ is mute in most regions, but it is pronounced in many places in the northeast, the main reason for its existence in the Basque alphabet. Its acceptance was a matter of contention during the standardisation process because the speakers of the most extended dialects had to learn where to place these h's, silent for them.
 
-Basquefontsample.png In Sabino Arana's (1865–1903) alphabet,[67] digraphs and were replaced with _ĺ_ and _ŕ_, respectively.
+In Sabino Arana's (1865–1903) alphabet,[67] digraphs and were replaced with _ĺ_ and _ŕ_, respectively.
 
 A typically Basque style of lettering is sometimes used for inscriptions. It derives from the work of stone and wood carvers and is characterised by thick serifs.
 
 Number system used by millers
 
-Errotarienzenbakiak.jpg Basque millers traditionally employed a separate number system of unknown origin.[68] In this system the symbols are arranged either along a vertical line or horizontally. On the vertical line the single digits and fractions are usually off to one side, usually at the top. When used horizontally, the smallest units are usually on the right and the largest on the left.
+Basque millers traditionally employed a separate number system of unknown origin.[68] In this system the symbols are arranged either along a vertical line or horizontally. On the vertical line the single digits and fractions are usually off to one side, usually at the top. When used horizontally, the smallest units are usually on the right and the largest on the left.
 
 The system is, as is the Basque system of counting in general, vigesimal. Although the system is in theory capable of indicating numbers above 100, most recorded examples do not go above 100 in general. Fractions are relatively common, especially .
 

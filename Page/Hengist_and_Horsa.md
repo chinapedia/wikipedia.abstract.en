@@ -1,6 +1,6 @@
-Hengist_King_of_Kent.jpg's 1611 "Saxon Heptarchy"]]
+'s 1611 "Saxon Heptarchy"]]
 
-Hengist_and_Horsa.jpg's _Pageant of British History_ (1909)]]
+'s _Pageant of British History_ (1909)]]
 
 HENGIST and HORSA are legendary brothers said to have led the Angles, Saxons and Jutes in their invasion of Britain in the 5th century. Tradition lists Hengist as the first of the Jutish kings of Kent.
 
@@ -32,7 +32,7 @@ In the entry for the year 455 the _Chronicle_ details that Hengist and Horsa fou
 
 _History of the Britons_
 
-Hengest_and_Horsa_Verstegan.jpg (1605)]] The 9th century _History of the Britons_, attributed to the Briton Nennius, records that, during the reign of Vortigern in Britain, three vessels that had been exiled from Germany arrived in Britain, commanded by Hengist and Horsa. The narrative then gives a genealogy of the two: Hengist and Horsa were sons of Guictglis, son of Guicta, son of Guechta, son of Vouden, son of Frealof, son of Fredulf, son of Finn, son of Foleguald, son of Geta. Geta was said to be the son of a god, yet "not of the omnipotent God and our Lord Jesus Christ," but rather "the offspring of one of their idols, and whom, blinded by some demon, they worshipped according to the custom of the heathen." In 447 AD, Vortigern received Hengist and Horsa "as friends" and gave to the brothers the Isle of Thanet.[6]
+(1605)]] The 9th century _History of the Britons_, attributed to the Briton Nennius, records that, during the reign of Vortigern in Britain, three vessels that had been exiled from Germany arrived in Britain, commanded by Hengist and Horsa. The narrative then gives a genealogy of the two: Hengist and Horsa were sons of Guictglis, son of Guicta, son of Guechta, son of Vouden, son of Frealof, son of Fredulf, son of Finn, son of Foleguald, son of Geta. Geta was said to be the son of a god, yet "not of the omnipotent God and our Lord Jesus Christ," but rather "the offspring of one of their idols, and whom, blinded by some demon, they worshipped according to the custom of the heathen." In 447 AD, Vortigern received Hengist and Horsa "as friends" and gave to the brothers the Isle of Thanet.[6]
 
 After the Saxons had lived on Thanet for "some time" Vortigern promised them supplies of clothing and other provisions on condition that they assist him in fighting the enemies of his country. As the Saxons increased in number the Britons became unable to keep their agreement, and so told them their assistance was no longer needed and they should go home.[7]
 
@@ -48,7 +48,7 @@ Germanus of Auxerre was acclaimed as commander of the British forces. By praying
 
 _History of the Kings of Britain_
 
-Hamilton_Vortigern_&_Rowena.jpg (1793)]] In his pseudo-historical twelfth century work _The History of the Kings of Britain_, Geoffrey of Monmouth adapted and greatly expanded the account in the _History of the Britons_. Hengist and Horsa appear in books 6 and 8:
+(1793)]] In his pseudo-historical twelfth century work _The History of the Kings of Britain_, Geoffrey of Monmouth adapted and greatly expanded the account in the _History of the Britons_. Hengist and Horsa appear in books 6 and 8:
 
 Book 6
 
@@ -126,7 +126,7 @@ J. P. Mallory comments on the great importance of the horse in Indo-European rel
 
 Uffington White Horse
 
-White_horse_from_air.jpg]] In his 17th century work _Monumenta Britannica_, John Aubrey ascribes the Uffington White Horse hill figure to Hengist and Horsa, stating that "the White Horse was their Standard at the Conquest of Britain". However, elsewhere he ascribes the origins of the horse to the pre-Roman Britons, reasoning that the horse resembles certain Iron Age British coins. As a result, advocates of a Saxon origin of the figure debated with those favoring an ancient British origin for three centuries after Aubrey's findings. In 1995, using optically stimulated luminescence dating, David Miles and Simon Palmer of the Oxford Archaeological Unit assigned the Uffington White Horse to the late Bronze Age.[45]
+]] In his 17th century work _Monumenta Britannica_, John Aubrey ascribes the Uffington White Horse hill figure to Hengist and Horsa, stating that "the White Horse was their Standard at the Conquest of Britain". However, elsewhere he ascribes the origins of the horse to the pre-Roman Britons, reasoning that the horse resembles certain Iron Age British coins. As a result, advocates of a Saxon origin of the figure debated with those favoring an ancient British origin for three centuries after Aubrey's findings. In 1995, using optically stimulated luminescence dating, David Miles and Simon Palmer of the Oxford Archaeological Unit assigned the Uffington White Horse to the late Bronze Age.[45]
 
 Aschanes
 

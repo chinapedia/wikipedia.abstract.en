@@ -3,7 +3,7 @@ The FIRST EPISTLE OF JOHN, often referred to as FIRST JOHN and written 1 JOHN o
 
 Content
 
-Icon_of_Saint_Philip_at_Dormition_Church_at_Kondopoga.jpg. The visible text (in Old Church Slavonic) in the book is: "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God. And we have known and believed the love that God hath to us. God is love..."]]
+. The visible text (in Old Church Slavonic) in the book is: "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God. And we have known and believed the love that God hath to us. God is love..."]]
 
 The main themes of the epistle are love and fellowship with God.[3][4] The author describes various tests by which readers may ascertain whether or not their communion with God is genuine, and teaches that the proof of spiritual regeneration is a life of active righteousness.[5] It also distinguishes between the world (which is full of evil and under the dominion of Satan) and the children of God (who are set apart from the world).[6]
 

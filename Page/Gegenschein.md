@@ -1,4 +1,4 @@
-Gegenschein_above_the_VLT.jpg.]]
+.]]
 
 GEGENSCHEIN ( German for "countershine") is a faintly bright spot in the night sky, around the antisolar point. The backscatter of sunlight by interplanetary dust causes this optical phenomenon.
 

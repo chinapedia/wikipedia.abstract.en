@@ -11,11 +11,9 @@ Life
 
 Early life
 
-ErnestHemingwayBabyPicture.jpg Ernest Miller Hemingway was born on July 21, 1899, in Oak Park, Illinois, a suburb of Chicago.[1] His father, Clarence Edmonds Hemingway, was a physician, and his mother, Grace Hall Hemingway, was a musician. Both were well-educated and well-respected in Oak Park,[2] a conservative community about which resident Frank Lloyd Wright said, "So many churches for so many good people to go to."[3] For a short period after their marriage,[4] Clarence and Grace Hemingway lived with Grace's father, Ernest Hall, their first son's namesake.[5] Later, Ernest Hemingway would say that he disliked his name, which he "associated with the naive, even foolish hero of Oscar Wilde's play _The Importance of Being Earnest_".[6] The family eventually moved into a seven-bedroom home in a respectable neighborhood with a music studio for Grace and a medical office for Clarence.[7]
+Ernest Miller Hemingway was born on July 21, 1899, in Oak Park, Illinois, a suburb of Chicago.[1] His father, Clarence Edmonds Hemingway, was a physician, and his mother, Grace Hall Hemingway, was a musician. Both were well-educated and well-respected in Oak Park,[2] a conservative community about which resident Frank Lloyd Wright said, "So many churches for so many good people to go to."[3] For a short period after their marriage,[4] Clarence and Grace Hemingway lived with Grace's father, Ernest Hall, their first son's namesake.[5] Later, Ernest Hemingway would say that he disliked his name, which he "associated with the naive, even foolish hero of Oscar Wilde's play _The Importance of Being Earnest_".[6] The family eventually moved into a seven-bedroom home in a respectable neighborhood with a music studio for Grace and a medical office for Clarence.[7]
 
 Hemingway's mother frequently performed in concerts around the village. As an adult, Hemingway professed to hate his mother, although biographer Michael S. Reynolds points out that Hemingway mirrored her energy and enthusiasm.[8] Her insistence that he learn to play the cello became a "source of conflict", but he later admitted the music lessons were useful to his writing, as is evident in the "contrapuntal structure" of _For Whom the Bell Tolls_.[9] The family spent summers at Windemere on Walloon Lake, near Petoskey, Michigan. Hemingway's father taught him to hunt, fish, and camp in the woods and lakes of Northern Michigan as a young boy. These early experiences in nature instilled a passion for outdoor adventure and living in remote or isolated areas.[10]
-
-Ernest_Hemingway_with_Family,_1905.png
 
 From 1913 until 1917, Hemingway attended Oak Park and River Forest High School. He took part in a number of sports such as boxing, track and field, water polo, and football. He excelled in English classes,[11] and with his sister Marcelline, performed in the school orchestra for two years.[12] During his junior year he had a journalism class, structured "as though the classroom were a newspaper office," with better writers submitting pieces to the school newspaper, _The Trapeze_. Hemingway and Marcelline both submitted pieces; Hemingway's first piece, published in January 1916, was about a local performance by the Chicago Symphony Orchestra.[13] He edited the _Trapeze_ and the _Tabula_ (the yearbook), imitating the language of sportswriters, taking the pen name Ring Lardner, Jr.—a nod to Ring Lardner of the _Chicago Tribune_ whose byline was "Line O'Type."[14]
 
@@ -24,8 +22,6 @@ Like Mark Twain, Stephen Crane, Theodore Dreiser, and Sinclair Lewis, Hemingway 
 World War I
 
 Early in 1918, after applying to serve with, and being turned down by, the US Army, Navy and Marines because of poor eyesight,[17] Hemingway responded to a Red Cross recruitment effort in Kansas City and signed on to become an ambulance driver in Italy.[18] He left New York in May and arrived in Paris as the city was under bombardment from German artillery.[19] By June, he was at the Italian Front. It was probably around this time that he first met John Dos Passos, with whom he had a rocky relationship for decades.[20] On his first day in Milan, he was sent to the scene of a munitions factory explosion, where rescuers retrieved the shredded remains of female workers. He described the incident in his non-fiction book _Death in the Afternoon_: "I remember that after we searched quite thoroughly for the complete dead we collected fragments."[21] A few days later, he was stationed at Fossalta di Piave.
-
-Ernest_Hemingway_in_Milan_1918_retouched_3.jpg
 
 On July 8, he was seriously wounded by mortar fire, having just returned from the canteen bringing chocolate and cigarettes for the men at the front line.[22] Despite his wounds, Hemingway assisted Italian soldiers to safety, for which he received the Italian Silver Medal of Bravery.[23][24] He was still only 18 at the time. Hemingway later said of the incident: "When you go to war as a boy you have a great illusion of immortality. Other people get killed; not you ... Then when you are badly wounded the first time you lose that illusion and you know it can happen to you."[25] He sustained severe shrapnel wounds to both legs, underwent an immediate operation at a distribution center, and spent five days at a field hospital before he was transferred for recuperation to the Red Cross hospital in Milan.[26] He spent six months at the hospital, where he met and formed a strong friendship with "Chink" Dorman-Smith that lasted for decades and shared a room with future American foreign service officer, ambassador, and author Henry Serrano Villard.[27]
 
@@ -41,7 +37,7 @@ When St. Louis native Hadley Richardson came to Chicago to visit the sister of H
 
 Paris
 
-Ernest_Hemingway_1923_passport_photo.TIF.jpg, and worked as a foreign correspondent for the _Toronto Star Weekly_.|alt=Passport photograph]] Carlos Baker, Hemingway's first biographer, believes that while Anderson suggested Paris because "the monetary exchange rate" made it an inexpensive place to live, more importantly it was where "the most interesting people in the world" lived. In Paris, Hemingway met American writer and art collector Gertrude Stein, Irish novelist James Joyce, American poet Ezra Pound (who "could help a young writer up the rungs of a career"[42]) and other writers.
+, and worked as a foreign correspondent for the _Toronto Star Weekly_.|alt=Passport photograph]] Carlos Baker, Hemingway's first biographer, believes that while Anderson suggested Paris because "the monetary exchange rate" made it an inexpensive place to live, more importantly it was where "the most interesting people in the world" lived. In Paris, Hemingway met American writer and art collector Gertrude Stein, Irish novelist James Joyce, American poet Ezra Pound (who "could help a young writer up the rungs of a career"[42]) and other writers.
 
 The Hemingway of the early Paris years was a "tall, handsome, muscular, broad-shouldered, brown-eyed, rosy-cheeked, square-jawed, soft-voiced young man."[43] He and Hadley lived in a small walk-up at 74 rue du Cardinal Lemoine in the Latin Quarter, and he worked in a rented room in a nearby building.[44] Stein, who was the bastion of modernism in Paris,[45] became Hemingway's mentor and godmother to his son Jack;[46] she introduced him to the expatriate artists and writers of the Montparnasse Quarter, whom she referred to as the "Lost Generation"—a term Hemingway popularized with the publication of _The Sun Also Rises_.[47] A regular at Stein's salon, Hemingway met influential painters such as Pablo Picasso, Joan Miró, and Juan Gris.[48] He eventually withdrew from Stein's influence and their relationship deteriorated into a literary quarrel that spanned decades.[49] Ezra Pound met Hemingway by chance at Sylvia Beach's bookshop Shakespeare and Company in 1922. The two toured Italy in 1923 and lived on the same street in 1924.[50] They forged a strong friendship, and in Hemingway, Pound recognized and fostered a young talent.[51] Pound introduced Hemingway to James Joyce, with whom Hemingway frequently embarked on "alcoholic sprees".[52]
 
@@ -55,7 +51,7 @@ _The Sun Also Rises_ epitomized the post-war expatriate generation,[74] received
 
 Hemingway's marriage to Hadley deteriorated as he was working on _The Sun Also Rises_.[77] In early 1926, Hadley became aware of his affair with Pfeiffer, who came to Pamplona with them that July.[78][79] On their return to Paris, Hadley asked for a separation; in November she formally requested a divorce. They split their possessions while Hadley accepted Hemingway's offer of the proceeds from _The Sun Also Rises_.[80] The couple were divorced in January 1927, and Hemingway married Pfeiffer in May.[81]
 
-Ernest_and_Pauline_Hemingway,_Paris,_1927.jpg Hemingway in Paris, 1927]]
+Hemingway in Paris, 1927]]
 
 Pfeiffer, who was from a wealthy Catholic Arkansas family, had moved to Paris to work for _Vogue_ magazine. Before their marriage, Hemingway converted to Catholicism.[82] They honeymooned in Le Grau-du-Roi, where he contracted anthrax, and he planned his next collection of short stories,[83] _Men Without Women_, which was published in October 1927,[84] and included his boxing story "Fifty Grand". _Cosmopolitan_ magazine editor-in-chief Ray Long praised "Fifty Grand", calling it, "one of the best short stories that ever came to my hands ... the best prize-fight story I ever read ... a remarkable piece of realism."[85]
 
@@ -63,7 +59,7 @@ By the end of the year Pauline, who was pregnant, wanted to move back to America
 
 Key West and the Caribbean
 
-Hemingwayhouse.jpg in Key West, Florida, where he lived between 1931 and 1939 and where he wrote _To Have and Have Not_|alt=photograph of a house]]
+in Key West, Florida, where he lived between 1931 and 1939 and where he wrote _To Have and Have Not_|alt=photograph of a house]]
 
 Hemingway and Pauline traveled to Kansas City, where their son Patrick was born on June 28, 1928. Pauline had a difficult delivery; Hemingway fictionalized a version of the event as a part of _A Farewell to Arms_. After Patrick's birth, Pauline and Hemingway traveled to Wyoming, Massachusetts, and New York.[88] In the winter, he was in New York with Bumby, about to board a train to Florida, when he received a cable telling him that his father had killed himself.[89][90] Hemingway was devastated, having earlier written to his father telling him not to worry about financial difficulties; the letter arrived minutes after the suicide. He realized how Hadley must have felt after her own father's suicide in 1903, and he commented, "I'll probably go the same way."[91]
 
@@ -71,7 +67,7 @@ Upon his return to Key West in December, Hemingway worked on the draft of _A Far
 
 During the early 1930s, Hemingway spent his winters in Key West and summers in Wyoming, where he found "the most beautiful country he had seen in the American West" and hunted deer, elk, and grizzly bear.[95] He was joined there by Dos Passos and in November 1930, after bringing Dos Passos to the train station in Billings, Montana, Hemingway broke his arm in a car accident. The surgeon tended the compound spiral fracture and bound the bone with kangaroo tendon. Hemingway was hospitalized for seven weeks, with Pauline tending to him; the nerves in his writing hand took as long as a year to heal, during which time he suffered intense pain.[96]
 
-Hemingway_and_Marlins.jpgs after a fishing trip to Bimini in 1935|alt=photograph of a man, a woman, and three boys]]
+s after a fishing trip to Bimini in 1935|alt=photograph of a man, a woman, and three boys]]
 
 His third son, Gregory Hancock Hemingway, was born a year later on November 12, 1931, in Kansas City.[97][98] Pauline's uncle bought the couple a house in Key West with a carriage house, the second floor of which was converted into a writing studio.[99] While in Key West, Hemingway frequented the local bar Sloppy Joe's.[100] He invited friends—including Waldo Peirce, Dos Passos, and Max Perkins[101]—to join him on fishing trips and on an all-male expedition to the Dry Tortugas. Meanwhile, he continued to travel to Europe and to Cuba, and—although in 1933 he wrote of Key West, "We have a fine house here, and kids are all well"—Mellow believes he "was plainly restless".[102]
 
@@ -81,7 +77,7 @@ Hemingway bought a boat in 1934, named it the _Pilar_, and began sailing the Car
 
 Spanish Civil War
 
-Bundesarchiv_Bild_183-84600-0001,_Ivens_und_Hemingway_bei_Ludwig_Renn,_Chef_der_XI._Internationalen_Brigaden.jpg and German writer Ludwig Renn (serving as an International Brigades officer) in Spain during Spanish Civil War, 1937|alt=photograph of three men]]
+and German writer Ludwig Renn (serving as an International Brigades officer) in Spain during Spanish Civil War, 1937|alt=photograph of three men]]
 
 In 1937, Hemingway agreed to report on the Spanish Civil War for the North American Newspaper Alliance (NANA),[108] arriving in Spain in March with Dutch filmmaker Joris Ivens.[109] Ivens was filming _The Spanish Earth_, a propaganda film in support of the Republican side. He wanted Hemingway to replace John Dos Passos as screenwriter, since Dos Passos had left the project when his friend José Robles was arrested and later executed.[110] The incident changed Dos Passos' initially positive opinion of the leftist republicans, creating a rift between him and Hemingway, who later spread a rumor that Dos Passos left Spain out of cowardice.[111] He also rubbed shoulders with US volunteers fighting on the Republican side, including the ace fighter pilot Frank G. Tinker and Robert Hale Merriman, leader of the Abraham Lincoln Brigade.[112]
 
@@ -99,7 +95,7 @@ In January 1941, Martha was sent to China on assignment for _Collier's_ magazine
 
 World War II
 
-Hemlatham-1.jpg in Germany, 1944, during the fighting in Hürtgenwald, after which he became ill with pneumonia.|alt=photograph of two men]]
+in Germany, 1944, during the fighting in Hürtgenwald, after which he became ill with pneumonia.|alt=photograph of two men]]
 
 Hemingway was in Europe from May 1944 to March 1945. When he arrived in London, he met _Time_ magazine correspondent Mary Welsh, with whom he became infatuated. Martha had been forced to cross the Atlantic in a ship filled with explosives because Hemingway refused to help her get a press pass on a plane, and she arrived in London to find him hospitalized with a concussion from a car accident. She was unsympathetic to his plight; she accused him of being a bully and told him that she was "through, absolutely finished".[128] The last time that Hemingway saw Martha was in March 1945 as he was preparing to return to Cuba,[129] and their divorce was finalized later that year.[130] Meanwhile, he had asked Mary Welsh to marry him on their third meeting.[131]
 
@@ -119,8 +115,6 @@ In 1948, Hemingway and Mary traveled to Europe, staying in Venice for several mo
 
 In 1954, while in Africa, Hemingway was almost fatally injured in two successive plane crashes. He chartered a sightseeing flight over the Belgian Congo as a Christmas present to Mary. On their way to photograph Murchison Falls from the air, the plane struck an abandoned utility pole and "crash landed in heavy brush". Hemingway's injuries included a head wound, while Mary broke two ribs.[155] The next day, attempting to reach medical care in Entebbe, they boarded a second plane that exploded at take-off, with Hemingway suffering burns and another concussion, this one serious enough to cause leaking of cerebral fluid.[156] They eventually arrived in Entebbe to find reporters covering the story of Hemingway's death. He briefed the reporters and spent the next few weeks recuperating and reading his erroneous obituaries.[157] Despite his injuries, Hemingway accompanied Patrick and his wife on a planned fishing expedition in February, but pain caused him to be irascible and difficult to get along with.[158] When a bushfire broke out, he was again injured, sustaining second degree burns on his legs, front torso, lips, left hand and right forearm.[159] Months later in Venice, Mary reported to friends the full extent of Hemingway's injuries: two cracked discs, a kidney and liver rupture, a dislocated shoulder and a broken skull.[160] The accidents may have precipitated the physical deterioration that was to follow. After the plane crashes, Hemingway, who had been "a thinly controlled alcoholic throughout much of his life, drank more heavily than usual to combat the pain of his injuries."[161]
 
-Ernest_Hemingway_1950.jpg
-
 In October 1954, Hemingway received the Nobel Prize in Literature. He modestly told the press that Carl Sandburg, Isak Dinesen and Bernard Berenson deserved the prize,[162] but he gladly accepted the prize money.[163] Mellow says Hemingway "had coveted the Nobel Prize", but when he won it, months after his plane accidents and the ensuing worldwide press coverage, "there must have been a lingering suspicion in Hemingway's mind that his obituary notices had played a part in the academy's decision."[164] Because he was suffering pain from the African accidents, he decided against traveling to Stockholm.[165] Instead he sent a speech to be read, defining the writer's life:
 
 From the end of the year in 1955 to early 1956, Hemingway was bedridden.[166] He was told to stop drinking to mitigate liver damage, advice he initially followed but then disregarded.[167] In October 1956, he returned to Europe and met Basque writer Pio Baroja, who was seriously ill and died weeks later. During the trip, Hemingway became sick again and was treated for "high blood pressure, liver disease, and arteriosclerosis".[168]
@@ -133,7 +127,7 @@ Idaho and suicide
 
 Hemingway continued to rework the material that was published as _A Moveable Feast_ through the 1950s.[175] In mid-1959, he visited Spain to research a series of bullfighting articles commissioned by _Life_ magazine.[176] _Life_ wanted only 10,000 words, but the manuscript grew out of control.[177] He was unable to organize his writing for the first time in his life, so he asked A. E. Hotchner to travel to Cuba to help him. Hotchner helped him trim the _Life_ piece down to 40,000 words, and Scribner's agreed to a full-length book version (_The Dangerous Summer_) of almost 130,000 words.[178] Hotchner found Hemingway to be "unusually hesitant, disorganized, and confused",[179] and suffering badly from failing eyesight.[180]
 
-Hemingway_SunValley.jpg, near Picabo, Idaho, January 1959; with him are Gary Cooper and Bobbie Peterson|alt=photograph of two men and woman]]
+, near Picabo, Idaho, January 1959; with him are Gary Cooper and Bobbie Peterson|alt=photograph of two men and woman]]
 
 Hemingway and Mary left Cuba for the last time on July 25, 1960. He set up a small office in his New York City apartment and attempted to work, but he left New York for good soon after. He then traveled alone to Spain to be photographed for the front cover of _Life_ magazine. A few days later, the news reported that he was seriously ill and on the verge of dying, which panicked Mary until she received a cable from him telling her, "Reports false. Enroute Madrid. Love Papa."[181] However, he _was_ seriously ill and believed himself to be on the verge of a breakdown.[182] He was lonely and took to his bed for days, retreating into silence, despite having the first installments of _The Dangerous Summer_ published in _Life_ in September 1960 to good reviews.[183] In October, he left Spain for New York, where he refused to leave Mary's apartment on the pretext that he was being watched. She quickly took him to Idaho, where physician George Saviers met them at the train.[184]
 
@@ -143,7 +137,7 @@ Hemingway was back in Ketchum in April 1961, three months after being released f
 
 Mary called the Sun Valley Hospital, and a doctor quickly arrived at the house who determined that Hemingway "had died of a self-inflicted wound to the head". Mary was sedated and taken to the hospital, returning home the next day where she cleaned the house and saw to the funeral and travel arrangements. Bernice Kert writes that it "did not seem to her a conscious lie" when she told the press that his death had been accidental.[196] In a press interview five years later, Mary confirmed that he had shot himself.[197]
 
-Hemingway_Memorial_Sun_Valley.jpg]]
+]]
 
 Family and friends flew to Ketchum for the funeral, officiated by the local Catholic priest, who believed that the death had been accidental.[198] An altar boy fainted at the head of the casket during the funeral, and Hemingway's brother Leicester wrote: "It seemed to me Ernest would have approved of it all."[199] He is buried in the Ketchum cemetery.[200]
 
@@ -189,7 +183,7 @@ Susan Beegel has written that some more recent critics—writing through the len
 
 Influence and legacy
 
-Statue_of_Hemingway_at_Floridita.jpg, at El Floridita bar in Havana]] Hemingway's legacy to American literature is his style: writers who came after him emulated it or avoided it.[244] After his reputation was established with the publication of _The Sun Also Rises_, he became the spokesperson for the post-World War I generation, having established a style to follow.[245] His books were burned in Berlin in 1933, "as being a monument of modern decadence", and disavowed by his parents as "filth".[246] Reynolds asserts the legacy is that "[Hemingway] left stories and novels so starkly moving that some have become part of our cultural heritage."[247]
+, at El Floridita bar in Havana]] Hemingway's legacy to American literature is his style: writers who came after him emulated it or avoided it.[244] After his reputation was established with the publication of _The Sun Also Rises_, he became the spokesperson for the post-World War I generation, having established a style to follow.[245] His books were burned in Berlin in 1933, "as being a monument of modern decadence", and disavowed by his parents as "filth".[246] Reynolds asserts the legacy is that "[Hemingway] left stories and novels so starkly moving that some have become part of our cultural heritage."[247]
 
 Benson believes the details of Hemingway's life have become a "prime vehicle for exploitation", resulting in a Hemingway industry.[248] Hemingway scholar Hallengren believes the "hard boiled style" and the machismo must be separated from the author himself.[249] Benson agrees, describing him as introverted and private as J. D. Salinger, although Hemingway masked his nature with braggadocio.[250] During World War II, Salinger met and corresponded with Hemingway, whom he acknowledged as an influence. In a letter to Hemingway, Salinger claimed their talks "had given him his only hopeful minutes of the entire war" and jokingly "named himself national chairman of the Hemingway Fan Clubs."[251]
 
@@ -214,8 +208,6 @@ Selected list of works
 
 
 Family tree
-
-Family tree showing Ernest Hemingway's parents, siblings, wives, children and grandchildren
 
 
 Notes

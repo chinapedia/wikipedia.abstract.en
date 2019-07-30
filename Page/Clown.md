@@ -3,7 +3,7 @@ A CLOWN is a comic performer who employs slapstick or similar types of physical 
 
 History
 
-1954_Episode_of_the_TV_series_"Super_Circus".ogg'' show.]]
+'' show.]]
 
 Clowns have a varied tradition with significant variations in costume and performance. The most recognisable modern clown character is the _Auguste_ or "red clown" type, with outlandish costumes featuring distinctive makeup, colourful wigs, exaggerated footwear, and colourful clothing. Their entertainment style is generally designed to entertain large audiences.
 
@@ -72,8 +72,6 @@ The classical pairing of the White Clown with Auguste in modern tradition has a 
 In the 18th-century English Harlequinade, Harlequin was now paired with Clown. As developed by Joseph Grimaldi around 1800, Clown became the mischievous and brutish foil for the more sophisticated Harlequin, who became more of a romantic character. The most influential such pair in Victorian England were the Payne Brothers, active during the 1860s and 1870s.
 
 White clown and Auguste
-
-LES_ROSSYANN_Weisscloun_und_dummer_August.JPG
 
 The _white clown_, or _clown blanc_ from the original French, is a sophisticated character, as opposed to the clumsy auguste.[8] They are also distinguished as the "sad clown" (blanc) and "happy clown" (auguste).[9]
 

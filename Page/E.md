@@ -5,20 +5,18 @@ E (named _e_ , plural _ees_)[1] is the fifth letter and the second vowel in the 
 
 History
 
-+---------------------+--------------------+-----------------------+-------------------+---------------+
-| Egyptian hieroglyph | Phoenician         | Etruscan              | Greek             | Roman/        |
-| _q’_                | _He_               | E                     | _Epsilon_         | Cyrillic      |
-|                     |                    |                       |                   | E             |
-+=====================+====================+=======================+===================+===============+
-| A28                 | PhoenicianE-01.svg | Alfabeto_camuno-e.svg | Epsilon_uc_lc.svg | RomanE-01.png |
-+---------------------+--------------------+-----------------------+-------------------+---------------+
++---------------------+------------+----------+-----------+----------+
+| Egyptian hieroglyph | Phoenician | Etruscan | Greek     | Roman/   |
+| _q’_                | _He_       | E        | _Epsilon_ | Cyrillic |
+|                     |            |          |           | E        |
++=====================+============+==========+===========+==========+
+| A28                 |            |          |           |          |
++---------------------+------------+----------+-----------+----------+
 
 The Latin letter 'E' differs little from its source, the Greek letter epsilon, 'Ε'. This in turn comes from the Semitic letter _hê_, which has been suggested to have started as a praying or calling human figure (_hillul_ 'jubilation'), and was probably based on a similar Egyptian hieroglyph that indicated a different pronunciation. In Semitic, the letter represented (and in foreign words); in Greek, _hê_ became the letter epsilon, used to represent . The various forms of the Old Italic script and the Latin alphabet followed this usage.
 
 
 Use in writing systems
-
-Pronunciation_of_the_name_of_the_letter_⟨e⟩_in_European_languages.png
 
 English
 

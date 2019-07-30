@@ -19,7 +19,7 @@ Baudot invented his telegraph code in 1870 and patented it in 1874. It was a 5-b
 
 Baudot system
 
-Clavier_Baudot.jpg On 17 June 1874 Baudot patented his first printing telegraph (Patent no. 103,898 "Système de télégraphie rapide"), in which the signals were translated automatically into typographic characters. Baudot's hardware had three main parts: the keyboard, the distributor, and a paper tape.
+On 17 June 1874 Baudot patented his first printing telegraph (Patent no. 103,898 "Système de télégraphie rapide"), in which the signals were translated automatically into typographic characters. Baudot's hardware had three main parts: the keyboard, the distributor, and a paper tape.
 
 Each operator - there were as many as four - was allocated a single sector. The keyboard had just five piano type keys, operated with two fingers of the left hand and three fingers of the right hand. The five unit code was designed to be easy to remember. Once the keys had been pressed they were locked down until the contacts again passed over the sector connected to that particular keyboard, when the keyboard was unlocked ready for the next character to be entered, with an audible click (known as the "cadence signal") to warn the operator. Operators had to maintain a steady rhythm, and the usual speed of operation was 30 words per minute.[4]
 

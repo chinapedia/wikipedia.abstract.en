@@ -5,7 +5,7 @@ What, if anything, the _B_ stands for has never been established.
 
 Overview
 
-B-tree.svg In B-trees, internal (non-leaf) nodes can have a variable number of child nodes within some pre-defined range. When data is inserted or removed from a node, its number of child nodes changes. In order to maintain the pre-defined range, internal nodes may be joined or split. Because a range of child nodes is permitted, B-trees do not need re-balancing as frequently as other self-balancing search trees, but may waste some space, since nodes are not entirely full. The lower and upper bounds on the number of child nodes are typically fixed for a particular implementation. For example, in a 2-3 B-tree (often simply referred to as a 2-3 TREE), each internal node may have only 2 or 3 child nodes.
+In B-trees, internal (non-leaf) nodes can have a variable number of child nodes within some pre-defined range. When data is inserted or removed from a node, its number of child nodes changes. In order to maintain the pre-defined range, internal nodes may be joined or split. Because a range of child nodes is permitted, B-trees do not need re-balancing as frequently as other self-balancing search trees, but may waste some space, since nodes are not entirely full. The lower and upper bounds on the number of child nodes are typically fixed for a particular implementation. For example, in a 2-3 B-tree (often simply referred to as a 2-3 TREE), each internal node may have only 2 or 3 child nodes.
 
 Each internal node of a B-tree contains a number of keys. The keys act as separation values which divide its subtrees. For example, if an internal node has 3 child nodes (or subtrees) then it must have 2 keys: _a_₁ and _a_₂. All values in the leftmost subtree will be less than _a_₁, all values in the middle subtree will be between _a_₁ and _a_₂, and all values in the rightmost subtree will be greater than _a_₂.
 
@@ -138,8 +138,6 @@ Searching is similar to searching a binary search tree. Starting at the root, th
 Binary search is typically (but not necessarily) used within nodes to find the separation values and child tree of interest.
 
 Insertion
-
-B_tree_insertion_example.png
 
 All insertions start at a leaf node. To insert a new element, search the tree to find the leaf node where the new element should be added. Insert the new element into that node with the following steps:
 

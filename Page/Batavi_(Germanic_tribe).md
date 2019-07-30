@@ -1,11 +1,11 @@
-Batavia|and|Batavi (disambiguation){{!}}Batavi}} Funerary_Stela_Corporis_Custodes.jpg's _Corporis Custodes_, the imperial Germanic bodyguard. The bodyguard, Indus, was of the Batavian tribe.]] The BATAVI were an ancient Germanic tribe that lived around the modern Dutch Rhine delta in the area that the Romans called Batavia, from the second half of the first century BC to the third century AD. The name is also applied to several military units employed by the Romans that were originally raised among the Batavi. The tribal name, probably a derivation from _batawjō_ ("good island", from Germanic _bat-_ "good, excellent," which is also in the English "better," and _awjō_ "island, land near water"),[1] refers to the region's fertility, today known as the _fruitbasket of the Netherlands_ (the Betuwe).
+Batavia|and|Batavi (disambiguation){{!}}Batavi}} 's _Corporis Custodes_, the imperial Germanic bodyguard. The bodyguard, Indus, was of the Batavian tribe.]] The BATAVI were an ancient Germanic tribe that lived around the modern Dutch Rhine delta in the area that the Romans called Batavia, from the second half of the first century BC to the third century AD. The name is also applied to several military units employed by the Romans that were originally raised among the Batavi. The tribal name, probably a derivation from _batawjō_ ("good island", from Germanic _bat-_ "good, excellent," which is also in the English "better," and _awjō_ "island, land near water"),[1] refers to the region's fertility, today known as the _fruitbasket of the Netherlands_ (the Betuwe).
 
 Finds of wooden tablets show that at least some were literate.
 
 
 Location
 
-Germania_70_de.svg The Batavi themselves are not mentioned by Julius Caesar in his commentary _Commentarii de Bello Gallico_, although he is often thought to have founded his dynasty's Germanic bodyguard, which was at least in later generations dominated by Batavi. But he did mention the "Batavian island" in the Rhine river. The island's easternmost point is at a split in the Rhine, one arm being the Waal the other the Lower Rhine/Old Rhine (hence the Latin name _Insula Batavorum_, "Island of the Batavi").[2] Much later Tacitus wrote that they had originally been a tribe of the Chatti, a tribe in Germany also never mentioned by Caesar (unless they were his "Suebi"), who were forced by internal dissension to move to their new home.[3] The time when this happened is unknown, but Caesar does describe forced movements of tribes from the east in his time, such as the Usipetes and Tencteri.
+The Batavi themselves are not mentioned by Julius Caesar in his commentary _Commentarii de Bello Gallico_, although he is often thought to have founded his dynasty's Germanic bodyguard, which was at least in later generations dominated by Batavi. But he did mention the "Batavian island" in the Rhine river. The island's easternmost point is at a split in the Rhine, one arm being the Waal the other the Lower Rhine/Old Rhine (hence the Latin name _Insula Batavorum_, "Island of the Batavi").[2] Much later Tacitus wrote that they had originally been a tribe of the Chatti, a tribe in Germany also never mentioned by Caesar (unless they were his "Suebi"), who were forced by internal dissension to move to their new home.[3] The time when this happened is unknown, but Caesar does describe forced movements of tribes from the east in his time, such as the Usipetes and Tencteri.
 
 Tacitus also reports that before their arrival the area had been "an uninhabited district on the extremity of the coast of Gaul, and also of a neighbouring island, surrounded by the ocean in front, and by the river Rhine in the rear and on either side".[4] This view, however, is contradicted by the archeological evidence, which shows continuous habitation from at least the third century BC onward.[5]
 
@@ -16,7 +16,7 @@ Archeological evidence suggests they lived in small villages, composed of six to
 
 Military units
 
-Bataafseeed.jpg]]
+]]
 
 The first Batavi commander we know of is named Chariovalda, who led a charge across the Vīsurgis (Weser) river against the Cherusci led by Arminius during the campaigns of Germanicus in _Germania Transrhenana_.[6]
 

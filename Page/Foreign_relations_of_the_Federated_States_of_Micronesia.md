@@ -8,8 +8,6 @@ Regional cooperation through various multilateral organizations is a key element
 
 Diplomatic relations
 
-Diplomatic_relations_of_FSM.svg
-
 FSM has established diplomatic relations with 86 UN states,[2] the Holy See, Cook Islands, Kosovo and the Sovereign Military Order of Malta[3]:
 
 1.  – 3 November 1986

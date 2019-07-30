@@ -2,8 +2,6 @@ An ACID–BASE REACTION is a chemical reaction that occurs between an acid and a
 
 Their importance becomes apparent in analyzing acid–base reactions for gaseous or liquid species, or when acid or base character may be somewhat less apparent. The first of these concepts was provided by the French chemist Antoine Lavoisier, around 1776.[1]
 
-Acid_Base_Reaction_Models.png
-
 It is important to think of the acid-base reaction models as theories that complement each other.[2] For example, the current Lewis model has the broadest definition of what an acid and base are, with the Bronsted-Lowry theory being a subset of what acids and bases are, and the Arrhenius theory being the most restrictive.
 
 
@@ -21,7 +19,7 @@ In 1838, Justus von Liebig proposed that an acid is a hydrogen-containing substa
 
 Arrhenius definition
 
-Arrhenius2.jpg]] The first modern definition of acids and bases in molecular terms was devised by Svante Arrhenius.[8][9] A hydrogen theory of acids, it followed from his 1884 work with Friedrich Wilhelm Ostwald in establishing the presence of ions in aqueous solution and led to Arrhenius receiving the Nobel Prize in Chemistry in 1903.
+]] The first modern definition of acids and bases in molecular terms was devised by Svante Arrhenius.[8][9] A hydrogen theory of acids, it followed from his 1884 work with Friedrich Wilhelm Ostwald in establishing the presence of ions in aqueous solution and led to Arrhenius receiving the Nobel Prize in Chemistry in 1903.
 
 As defined by Arrhenius:
 
@@ -77,7 +75,7 @@ Water is amphoteric—that is, it can act as both an acid and a base. The Brøns
 
     H₂O + H₂O H₃O⁺ + OH^(−)
 
-This equation is demonstrated in the image below: Bronsted_lowry_3d_diagram.png
+This equation is demonstrated in the image below:
 
 Here, one molecule of water acts as an acid, donating an H⁺ and forming the conjugate base, OH^(−), and a second molecule of water acts as a base, accepting the H⁺ ion and forming the conjugate acid, H₃O⁺.
 

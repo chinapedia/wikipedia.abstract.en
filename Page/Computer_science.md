@@ -1,7 +1,7 @@
-  -------------------------- ----------------------------------
-  Lambda_lc.svg              Sorting_quicksort_anim_frame.svg
-  Utah_teapot_simple_2.png   3-Tasten-Maus_Microsoft.jpg
-  -------------------------- ----------------------------------
+  -- --
+
+
+  -- --
 
 Computer science deals with the theoretical foundations of computation and practical techniques for their application.
 
@@ -10,7 +10,7 @@ COMPUTER SCIENCE (sometimes called COMPUTATION SCIENCE or COMPUTING SCIENCE, but
 
 History
 
-Babbage40.png, sometimes referred to as the "father of computing".[2] ]] Ada_lovelace.jpg is often credited with publishing the first algorithm intended for processing on a computer.[3] ]]
+, sometimes referred to as the "father of computing".[2] ]] is often credited with publishing the first algorithm intended for processing on a computer.[3] ]]
 
 The earliest foundations of what would become computer science predate the invention of the modern digital computer. Machines for calculating fixed numerical tasks such as the abacus have existed since antiquity, aiding in computations such as multiplication and division. Algorithms for performing computations have existed since antiquity, even before the development of sophisticated computing equipment.
 
@@ -24,7 +24,7 @@ Time has seen significant improvements in the usability and effectiveness of com
 
 Contributions
 
-Enigma.jpg (shown here) during World War II for communications they wanted kept secret. The large-scale decryption of Enigma traffic at Bletchley Park was an important factor that contributed to Allied victory in WWII.[27]]]
+(shown here) during World War II for communications they wanted kept secret. The large-scale decryption of Enigma traffic at Bletchley Park was an important factor that contributed to Allied victory in WWII.[27]]]
 
 Despite its short history as a formal academic discipline, computer science has made a number of fundamental contributions to science and society—in fact, along with electronics, it is a founding science of the current epoch of human history called the Information Age and a driver of the information revolution, seen as the third major leap in human technological progress after the Industrial Revolution (1750–1850 CE) and the Agricultural Revolution (8000–5000 BC).
 
@@ -74,11 +74,11 @@ Data structures and algorithms
 
 Data structures and algorithms are the study of commonly used computational methods and their computational efficiency.
 
-+------------------------+----------------------------+------------------------+----------------------------+---------------------------+
-|                        | Sorting_quicksort_anim.gif | Singly_linked_list.png | TSP_Deutschland_3.png      | SimplexRangeSearching.svg |
-+------------------------+----------------------------+------------------------+----------------------------+---------------------------+
-| Analysis of algorithms | Algorithms                 | Data structures        | Combinatorial optimization | Computational geometry    |
-+------------------------+----------------------------+------------------------+----------------------------+---------------------------+
++------------------------+------------+-----------------+----------------------------+------------------------+
+|                        |            |                 |                            |                        |
++------------------------+------------+-----------------+----------------------------+------------------------+
+| Analysis of algorithms | Algorithms | Data structures | Combinatorial optimization | Computational geometry |
++------------------------+------------+-----------------+----------------------------+------------------------+
 
 Theory of computation
 
@@ -87,7 +87,7 @@ According to Peter Denning, the fundamental question underlying computer science
 The famous P = NP? problem, one of the Millennium Prize Problems,[62] is an open problem in the theory of computation.
 
   ----------------- ---------------------- --------------------------------- ---------------- --------------------------
-  DFAexample.svg    Wang_tiles.svg         P = NP?                           GNITIRW-TERCES   Blochsphere.svg
+                                           P = NP?                           GNITIRW-TERCES
   Automata theory   Computability theory   Computational complexity theory   Cryptography     Quantum computing theory
   ----------------- ---------------------- --------------------------------- ---------------- --------------------------
 
@@ -99,10 +99,10 @@ Programming language theory
 
 Programming language theory is a branch of computer science that deals with the design, implementation, analysis, characterization, and classification of programming languages and their individual features. It falls within the discipline of computer science, both depending on and affecting mathematics, software engineering, and linguistics. It is an active research area, with numerous dedicated academic journals.
 
-  ------------- ----------------- ------------------------
-  Γ ⊢ x : Int   Compiler.svg      Python_add5_syntax.svg
+  ------------- ----------------- -----------------------
+  Γ ⊢ x : Int
   Type theory   Compiler design   Programming languages
-  ------------- ----------------- ------------------------
+  ------------- ----------------- -----------------------
 
 Formal methods
 
@@ -114,12 +114,12 @@ Computer architecture and computer engineering
 
 Computer architecture, or digital computer organization, is the conceptual design and fundamental operational structure of a computer system. It focuses largely on the way by which the central processing unit performs internally and accesses addresses in memory.[64] The field often involves disciplines of computer engineering and electrical engineering, selecting and interconnecting hardware components to create computers that meet functional, performance, and cost goals.
 
-  ---------------------- ------------------------ --------------------------------
-  NOR_ANSI.svg           Fivestagespipeline.png   SIMD.svg
-  Digital logic          Microarchitecture        Multiprocessing
-  Roomba_original.jpg    flowchart.png            Operating_system_placement.svg
-  Ubiquitous computing   Systems architecture     Operating systems
-  ---------------------- ------------------------ --------------------------------
+  ---------------------- ---------------------- -------------------
+
+  Digital logic          Microarchitecture      Multiprocessing
+
+  Ubiquitous computing   Systems architecture   Operating systems
+  ---------------------- ---------------------- -------------------
 
 Computer performance analysis
 
@@ -155,23 +155,23 @@ Scientific computing
 
 Scientific computing (or computational science) is the field of study concerned with constructing mathematical models and quantitative analysis techniques and using computers to analyze and solve scientific problems. In practical use, it is typically the application of computer simulation and other forms of computation to problems in various scientific disciplines.
 
-  ------------------------- ----------------------- -------------------------- --------------------
-  Lorenz_attractor_yb.svg   Quark_wiki.jpg          Naphthalene-3D-balls.png   1u04-argonaute.png
-  Numerical analysis        Computational physics   Computational chemistry    Bioinformatics
-  ------------------------- ----------------------- -------------------------- --------------------
+  -------------------- ----------------------- ------------------------- ----------------
+
+  Numerical analysis   Computational physics   Computational chemistry   Bioinformatics
+  -------------------- ----------------------- ------------------------- ----------------
 
 Artificial intelligence
 
 Artificial intelligence (AI) aims to or is required to synthesize goal-orientated processes such as problem-solving, decision-making, environmental adaptation, learning, and communication found in humans and animals. From its origins in cybernetics and in the Dartmouth Conference (1956), artificial intelligence research has been necessarily cross-disciplinary, drawing on areas of expertise such as applied mathematics, symbolic logic, semiotics, electrical engineering, philosophy of mind, neurophysiology, and social intelligence. AI is associated in the popular mind with robotic development, but the main field of practical application has been as an embedded component in areas of software development, which require computational understanding. The starting point in the late 1940s was Alan Turing's question "Can computers think?", and the question remains effectively unanswered, although the Turing test is still used to assess computer output on the scale of human intelligence. But the automation of evaluative and predictive tasks has been increasingly successful as a substitute for human monitoring and intervention in domains of computer application involving complex real-world data.
 
-  ------------------------------------------------------- ---------------------------------- --------------------------
-  Nicolas_P._Rougier's_rendering_of_the_human_brain.png   Human_eye,_rendered_from_Eye.png   Corner.png
-  Machine learning                                        Computer vision                    Image processing
-  KnnClassification.svg                                   Julia_iteration_data.png           sky.png
-  Pattern recognition                                     Data mining                        Evolutionary computation
-  neuron.svg                                              english.png                        HONDA_ASIMO.jpg
-  Knowledge representation and reasoning                  Natural language processing        Robotics
-  ------------------------------------------------------- ---------------------------------- --------------------------
+  ---------------------------------------- ----------------------------- --------------------------
+
+  Machine learning                         Computer vision               Image processing
+
+  Pattern recognition                      Data mining                   Evolutionary computation
+
+  Knowledge representation and reasoning   Natural language processing   Robotics
+  ---------------------------------------- ----------------------------- --------------------------
 
 Software engineering
 

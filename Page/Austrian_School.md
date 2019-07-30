@@ -7,7 +7,7 @@ Since the mid-20th century, mainstream economists have been critical of the mode
 
 History
 
-Jean-baptiste_Say.jpg]]
+]]
 
 Etymology
 
@@ -15,7 +15,7 @@ The Austrian School owes its name to members of the German historical school of 
 
 First wave
 
-CarlMenger.png]] The school originated in Vienna in the Austrian Empire. Carl Menger's 1871 book _Principles of Economics_ is generally considered the founding of the Austrian School. The book was one of the first modern treatises to advance the theory of marginal utility. The Austrian School was one of three founding currents of the marginalist revolution of the 1870s, with its major contribution being the introduction of the subjectivist approach in economics.[12] While marginalism was generally influential, there was also a more specific school that began to coalesce around Menger's work, which came to be known as the "Psychological School", "Vienna School", or "Austrian School".[13]
+]] The school originated in Vienna in the Austrian Empire. Carl Menger's 1871 book _Principles of Economics_ is generally considered the founding of the Austrian School. The book was one of the first modern treatises to advance the theory of marginal utility. The Austrian School was one of three founding currents of the marginalist revolution of the 1870s, with its major contribution being the introduction of the subjectivist approach in economics.[12] While marginalism was generally influential, there was also a more specific school that began to coalesce around Menger's work, which came to be known as the "Psychological School", "Vienna School", or "Austrian School".[13]
 
 Menger's contributions to economic theory were closely followed by those of Eugen Böhm von Bawerk and Friedrich von Wieser. These three economists became what is known as the "first wave" of the Austrian School. Böhm-Bawerk wrote extensive critiques of Karl Marx in the 1880s and 1890s as was part of the Austrians' participation in the late 19th-century _Methodenstreit_, during which they attacked the Hegelian doctrines of the historical school.
 
@@ -25,7 +25,7 @@ Frank Albert Fetter (1863–1949) was a leader in the United States of Austrian 
 
 Later 20th century
 
-Israel_Kirzner.jpg]] By the mid-1930s, most economists had embraced what they considered the important contributions of the early Austrians.[21] Fritz Machlup quoted Hayek's statement that "the greatest success of a school is that it stops existing because its fundamental teachings have become parts of the general body of commonly accepted thought".[22] Sometime during the middle of the 20th century, Austrian economics became disregarded or derided by mainstream economists because it rejected model building and mathematical and statistical methods in the study of economics.[23] Mises' student Israel Kirzner recalled that in 1954, when Kirzner was pursuing his PhD, there was no separate Austrian School as such. When Kirzner was deciding which graduate school to attend, Mises had advised him to accept an offer of admission at Johns Hopkins because it was a prestigious university and Fritz Machlup taught there.[24]
+]] By the mid-1930s, most economists had embraced what they considered the important contributions of the early Austrians.[21] Fritz Machlup quoted Hayek's statement that "the greatest success of a school is that it stops existing because its fundamental teachings have become parts of the general body of commonly accepted thought".[22] Sometime during the middle of the 20th century, Austrian economics became disregarded or derided by mainstream economists because it rejected model building and mathematical and statistical methods in the study of economics.[23] Mises' student Israel Kirzner recalled that in 1954, when Kirzner was pursuing his PhD, there was no separate Austrian School as such. When Kirzner was deciding which graduate school to attend, Mises had advised him to accept an offer of admission at Johns Hopkins because it was a prestigious university and Fritz Machlup taught there.[24]
 
 After the 1940s, Austrian economics can be divided into two schools of economic thought and the school "split" to some degree in the late 20th century. One camp of Austrians, exemplified by Mises, regards neoclassical methodology to be irredeemably flawed; the other camp, exemplified by Friedrich Hayek, accepts a large part of neoclassical methodology and is more accepting of government intervention in the economy.[25] Henry Hazlitt wrote economics columns and editorials for a number of publications and wrote many books on the topic of Austrian economics from the 1930s to the 1980s. Hazlitt's thinking was influenced by Mises.[26] His book _Economics in One Lesson_ (1946) sold over a million copies and he is also known for _The Failure of the "New Economics"_ (1959), a line-by-line critique of John Maynard Keynes's _General Theory_.[27]
 
@@ -56,7 +56,7 @@ Methodology
 
 The Austrian School theorizes that the subjective choices of individuals including individual knowledge, time, expectation and other subjective factors cause all economic phenomena. Austrians seek to understand the economy by examining the social ramifications of individual choice, an approach called methodological individualism. It differs from other schools of economic thought, which have focused on aggregate variables, equilibrium analysis and societal groups rather than individuals.[51]
 
-Ludwig_von_Mises.jpg]] In the 20th and 21st centuries, economists with a methodological lineage to the early Austrian School developed many diverse approaches and theoretical orientations. For example, Ludwig von Mises organized his version of the subjectivist approach, which he called "praxeology", in a book published in English as _Human Action_ in 1949.[52] In it, Mises stated that praxeology could be used to deduce _a priori_ theoretical economic truths and that deductive economic thought experiments could yield conclusions which follow irrefutably from the underlying assumptions. He wrote that conclusions could not be inferred from empirical observation or statistical analysis and argued against the use of probabilities in economic models.[53]
+]] In the 20th and 21st centuries, economists with a methodological lineage to the early Austrian School developed many diverse approaches and theoretical orientations. For example, Ludwig von Mises organized his version of the subjectivist approach, which he called "praxeology", in a book published in English as _Human Action_ in 1949.[52] In it, Mises stated that praxeology could be used to deduce _a priori_ theoretical economic truths and that deductive economic thought experiments could yield conclusions which follow irrefutably from the underlying assumptions. He wrote that conclusions could not be inferred from empirical observation or statistical analysis and argued against the use of probabilities in economic models.[53]
 
 Since Mises' time, some Austrian thinkers have accepted his praxeological approach while others have adopted alternative methodologies.[54] For example, Fritz Machlup, Friedrich Hayek and others did not take Mises' strong _a priori_ approach to economics.[55] Ludwig Lachmann, a radical subjectivist, also largely rejected Mises' formulation of Praxeology in favor of the _verstehende Methode_ ("interpretive method") articulated by Max Weber.[56][57]
 
@@ -83,13 +83,13 @@ Contributions to economic thought
 
 Opportunity cost
 
-1wieser.jpg]] The opportunity cost doctrine was first explicitly formulated by the Austrian economist Friedrich von Wieser in the late 19th century.[62] Opportunity cost is the cost of any activity measured in terms of the value of the next best alternative foregone (that is not chosen). It is the sacrifice related to the second best choice available to someone, or group, who has picked among several mutually exclusive choices.[63]
+]] The opportunity cost doctrine was first explicitly formulated by the Austrian economist Friedrich von Wieser in the late 19th century.[62] Opportunity cost is the cost of any activity measured in terms of the value of the next best alternative foregone (that is not chosen). It is the sacrifice related to the second best choice available to someone, or group, who has picked among several mutually exclusive choices.[63]
 
 Opportunity cost is a key concept in mainstream economics and has been described as expressing "the basic relationship between scarcity and choice".[64] The notion of opportunity cost plays a crucial part in ensuring that resources are used efficiently.[65]
 
 Capital and interest
 
-1Bawerk.png]] The Austrian theory of capital and interest was first developed by Eugen Böhm von Bawerk. He stated that interest rates and profits are determined by two factors, namely supply and demand in the market for final goods and time preference.[66]
+]] The Austrian theory of capital and interest was first developed by Eugen Böhm von Bawerk. He stated that interest rates and profits are determined by two factors, namely supply and demand in the market for final goods and time preference.[66]
 
 Böhm-Bawerk's theory equates capital intensity with the degree of roundaboutness of production processes. Böhm-Bawerk also argued that the law of marginal utility necessarily implies the classical law of costs.[67] Some Austrian economists therefore entirely reject the notion that interest rates are affected by liquidity preference.
 
@@ -101,7 +101,7 @@ Hayek pointed out that inflationary stimulation exploits the lag between an incr
 
 Economic calculation problem
 
-Friedrich_Hayek_portrait.jpg]] The economic calculation problem refers to a criticism of socialism which was first stated by Max Weber in 1920. Mises subsequently discussed Weber's idea with his student Friedrich Hayek, who developed it in various works including _The Road to Serfdom_.[69][70] The problem concerns the means by which resources are allocated and distributed in an economy.
+]] The economic calculation problem refers to a criticism of socialism which was first stated by Max Weber in 1920. Mises subsequently discussed Weber's idea with his student Friedrich Hayek, who developed it in various works including _The Road to Serfdom_.[69][70] The problem concerns the means by which resources are allocated and distributed in an economy.
 
 Austrian theory emphasizes the organizing power of markets. Hayek stated that market prices reflect information, the totality of which is not known to any single individual, which determines the allocation of resources in an economy. Because socialist systems lack the individual incentives and price discovery processes by which individuals act on their personal information, Hayek argued that socialist economic planners lack all of the knowledge required to make optimal decisions. Those who agree with this criticism view it as a refutation of socialism, showing that socialism is not a viable or sustainable form of economic organization. The debate rose to prominence in the 1920s and 1930s and that specific period of the debate has come to be known by historians of economic thought as the socialist calculation debate.[71]
 

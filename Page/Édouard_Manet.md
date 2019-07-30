@@ -5,7 +5,7 @@ Born into an upper-class household with strong political connections, Manet reje
 
 Early life
 
-Manet_par_Fantin-Latour.jpg]] Édouard Manet was born in Paris on 23 January 1832, in the ancestral hôtel particulier (mansion) on the rue des Petits Augustins (now rue Bonaparte) to an affluent and well-connected family.[1] His mother, Eugénie-Desirée Fournier, was the daughter of a diplomat and goddaughter of the Swedish crown prince Charles Bernadotte, from whom the Swedish monarchs are descended. His father, Auguste Manet, was a French judge who expected Édouard to pursue a career in law. His uncle, Edmond Fournier, encouraged him to pursue painting and took young Manet to the Louvre.[2] In 1841 he enrolled at secondary school, the Collège Rollin. In 1845, at the advice of his uncle, Manet enrolled in a special course of drawing where he met Antonin Proust, future Minister of Fine Arts and subsequent lifelong friend.
+]] Édouard Manet was born in Paris on 23 January 1832, in the ancestral hôtel particulier (mansion) on the rue des Petits Augustins (now rue Bonaparte) to an affluent and well-connected family.[1] His mother, Eugénie-Desirée Fournier, was the daughter of a diplomat and goddaughter of the Swedish crown prince Charles Bernadotte, from whom the Swedish monarchs are descended. His father, Auguste Manet, was a French judge who expected Édouard to pursue a career in law. His uncle, Edmond Fournier, encouraged him to pursue painting and took young Manet to the Louvre.[2] In 1841 he enrolled at secondary school, the Collège Rollin. In 1845, at the advice of his uncle, Manet enrolled in a special course of drawing where he met Antonin Proust, future Minister of Fine Arts and subsequent lifelong friend.
 
 At his father's suggestion, in 1848 he sailed on a training vessel to Rio de Janeiro. After he twice failed the examination to join the Navy,[3] his father relented to his wishes to pursue an art education. From 1850 to 1856, Manet studied under the academic painter Thomas Couture. In his spare time, Manet copied the Old Masters in the Louvre.
 
@@ -18,13 +18,13 @@ In 1856, Manet opened a studio. His style in this period was characterized by lo
 
 _Music in the Tuileries_
 
-MANET_-_Música_en_las_Tullerías_(National_Gallery,_Londres,_1862).jpg'', 1862]] _Music in the Tuileries_ is an early example of Manet's painterly style. Inspired by Hals and Velázquez, it is a harbinger of his lifelong interest in the subject of leisure.
+'', 1862]] _Music in the Tuileries_ is an early example of Manet's painterly style. Inspired by Hals and Velázquez, it is a harbinger of his lifelong interest in the subject of leisure.
 
 While the picture was regarded as unfinished by some,[5] the suggested atmosphere imparts a sense of what the Tuileries gardens were like at the time; one may imagine the music and conversation.
 
 Here, Manet has depicted his friends, artists, authors, and musicians who take part, and he has included a self-portrait among the subjects.
 
-===''Luncheon on the Grass _(_Le déjeuner sur l'herbe_)=== Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg_ (_Le déjeuner sur l'herbe_), 1863]] A major early work is _The Luncheon on the Grass (Le déjeuner sur l'herbe)_, originally _Le Bain_. The Paris Salon rejected it for exhibition in 1863, but Manet agreed to exhibit it at the Salon des Refusés (Salon of the Rejected) which was a parallel exhibition to the official Salon, as an alternative exhibition in the Palais des Champs-Elysée. The _Salon des Refusés_ was initiated by Emperor Napoleon III as a solution to a problematic situation which came about as the Selection Committee of the Salon that year rejected 2,783 paintings of the ca. 5000. Each painter could decide whether to take the opportunity to exhibit at the _Salon des Refusés_, less than 500 of the rejected painters chose to do so.
+===''Luncheon on the Grass _(_Le déjeuner sur l'herbe_)=== _ (_Le déjeuner sur l'herbe_), 1863]] A major early work is _The Luncheon on the Grass (Le déjeuner sur l'herbe)_, originally _Le Bain_. The Paris Salon rejected it for exhibition in 1863, but Manet agreed to exhibit it at the Salon des Refusés (Salon of the Rejected) which was a parallel exhibition to the official Salon, as an alternative exhibition in the Palais des Champs-Elysée. The _Salon des Refusés_ was initiated by Emperor Napoleon III as a solution to a problematic situation which came about as the Selection Committee of the Salon that year rejected 2,783 paintings of the ca. 5000. Each painter could decide whether to take the opportunity to exhibit at the _Salon des Refusés_, less than 500 of the rejected painters chose to do so.
 
 Manet employed model Victorine Meurent, his wife Suzanne, future brother-in-law Ferdinand Leenhoff, and one of his brothers to pose. Meurent also posed for several more of Manet's important paintings including _Olympia_; and by the mid-1870s she became an accomplished painter in her own right.
 
@@ -34,7 +34,7 @@ Two additional works cited by scholars as important precedents for _Le déjeuner
 
 _Olympia_
 
-Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg'', 1863]] As he had in _Luncheon on the Grass_, Manet again paraphrased a respected work by a Renaissance artist in the painting _Olympia_ (1863), a nude portrayed in a style reminiscent of early studio photographs, but whose pose was based on Titian's _Venus of Urbino_ (1538). The painting is also reminiscent of Francisco Goya's painting _The Nude Maja_ (1800).
+'', 1863]] As he had in _Luncheon on the Grass_, Manet again paraphrased a respected work by a Renaissance artist in the painting _Olympia_ (1863), a nude portrayed in a style reminiscent of early studio photographs, but whose pose was based on Titian's _Venus of Urbino_ (1538). The painting is also reminiscent of Francisco Goya's painting _The Nude Maja_ (1800).
 
 Manet embarked on the canvas after being challenged to give the Salon a nude painting to display. His uniquely frank depiction of a self-assured prostitute was accepted by the Paris Salon in 1865, where it created a scandal. According to Antonin Proust, "only the precautions taken by the administration prevented the painting being punctured and torn" by offended viewers.[9] The painting was controversial partly because the nude is wearing some small items of clothing such as an orchid in her hair, a bracelet, a ribbon around her neck, and mule slippers, all of which accentuated her nakedness, sexuality, and comfortable courtesan lifestyle. The orchid, upswept hair, black cat, and bouquet of flowers were all recognized symbols of sexuality at the time. This modern Venus' body is thin, counter to prevailing standards; the painting's lack of idealism rankled viewers. The painting's flatness, inspired by Japanese wood block art, serves to make the nude more human and less voluptuous. A fully dressed black servant is featured, exploiting the then-current theory that black people were hyper-sexed.[10] That she is wearing the clothing of a servant to a courtesan here furthers the sexual tension of the piece.
 
@@ -46,7 +46,7 @@ As with _Luncheon on the Grass_, the painting raised the issue of prostitution w
 
 Life and times
 
-Edouard_Manet_-_Berthe_Morisot_With_a_Bouquet_of_Violets_-_Google_Art_Project.jpg'', 1872]] After the death of his father in 1862, Manet married Suzanne Leenhoff in 1863. Leenhoff was a Dutch-born piano teacher two years Manet's senior with whom he had been romantically involved for approximately ten years. Leenhoff initially had been employed by Manet's father, Auguste, to teach Manet and his younger brother piano. She also may have been Auguste's mistress. In 1852, Leenhoff gave birth, out of wedlock, to a son, Leon Koella Leenhoff. Manet painted his wife in _The Reading_, among other paintings.
+'', 1872]] After the death of his father in 1862, Manet married Suzanne Leenhoff in 1863. Leenhoff was a Dutch-born piano teacher two years Manet's senior with whom he had been romantically involved for approximately ten years. Leenhoff initially had been employed by Manet's father, Auguste, to teach Manet and his younger brother piano. She also may have been Auguste's mistress. In 1852, Leenhoff gave birth, out of wedlock, to a son, Leon Koella Leenhoff. Manet painted his wife in _The Reading_, among other paintings.
 
 Eleven-year-old Leon Leenhoff, whose father may have been either of the Manets, posed often for Manet. Most famously, he is the subject of the _Boy Carrying a Sword_ of 1861 (Metropolitan Museum of Art, New York). He also appears as the boy carrying a tray in the background of _The Balcony_.[13]
 
@@ -54,7 +54,7 @@ He became friends with the Impressionists Edgar Degas, Claude Monet, Pierre-Augu
 
 Manet became the friend and colleague of Berthe Morisot in 1868. She is credited with convincing Manet to attempt plein air painting, which she had been practicing since she was introduced to it by another friend of hers, Camille Corot. They had a reciprocating relationship and Manet incorporated some of her techniques into his paintings. In 1874, she became his sister-in-law when she married his brother, Eugène.
 
-Edouard_Manet_060.jpg'', 1879]]
+'', 1879]]
 
 One of Manet's frequent models, at the beginning of the 1880s, was the "semimondaine" Méry Laurent, who frequently sat for various other Impressionists.
 
@@ -70,8 +70,6 @@ Throughout his life, although resisted by art critics, Manet could number as his
 
 Cafe scenes
 
-Edouard_Manet_-_At_the_Café_-_Google_Art_Project.jpg
-
 |url= http://art.thewalters.org/detail/16473
 |title=At the Café}} The Walters Art Museum.]]
 
@@ -85,7 +83,7 @@ In _Le Bon Bock_ (1873), a large, cheerful, bearded man sits with a pipe in one 
 
 Paintings of social activities
 
-Edouard_Manet_053.jpg'', 1864]]
+'', 1864]]
 
 Manet painted the upper class enjoying more formal social activities. In _Masked Ball at the Opera_, Manet shows a lively crowd of people enjoying a party. Men stand with top hats and long black suits while talking to women with masks and costumes. He included portraits of his friends in this picture.
 
@@ -97,7 +95,7 @@ In _View of the International Exhibition_, soldiers relax, seated and standing, 
 
 War
 
-Manet,_Edouard_-_The_Execution_of_Emperor_Maximilian,_1867.jpg'', 1867. Museum of Fine Arts, Boston. The least finished of three large canvases devoted to the execution of Maximilian I of Mexico.]] TheBaricade.jpg]]
+'', 1867. Museum of Fine Arts, Boston. The least finished of three large canvases devoted to the execution of Maximilian I of Mexico.]] ]]
 
 Manet's response to modern life included works devoted to war, in subjects that may be seen as updated interpretations of the genre of "history painting".[15] The first such work was the _Battle of the Kearsarge and Alabama_ (1864), a sea skirmish known as the _Battle of Cherbourg_ from the American Civil War which took place off the French coast, and may have been witnessed by the artist.[16]
 
@@ -113,7 +111,7 @@ Paris
 
 Manet depicted many scenes of the streets of Paris in his works. _The Rue Mosnier Decked with Flags_ depicts red, white, and blue pennants covering buildings on either side of the street; another painting of the same title features a one-legged man walking with crutches. Again depicting the same street, but this time in a different context, is _Rue Mosnier with Pavers_, in which men repair the roadway while people and horses move past.
 
-Edouard_Manet_-_Le_Chemin_de_fer_-_Google_Art_Project.jpg'', 1873]] _The Railway_, widely known as _The Gare Saint-Lazare_, was painted in 1873. The setting is the urban landscape of Paris in the late 19th century. Using his favorite model in his last painting of her, a fellow painter, Victorine Meurent, also the model for _Olympia_ and the _Luncheon on the Grass_, sits before an iron fence holding a sleeping puppy and an open book in her lap. Next to her is a little girl with her back to the painter, watching a train pass beneath them.
+'', 1873]] _The Railway_, widely known as _The Gare Saint-Lazare_, was painted in 1873. The setting is the urban landscape of Paris in the late 19th century. Using his favorite model in his last painting of her, a fellow painter, Victorine Meurent, also the model for _Olympia_ and the _Luncheon on the Grass_, sits before an iron fence holding a sleeping puppy and an open book in her lap. Next to her is a little girl with her back to the painter, watching a train pass beneath them.
 
 Instead of choosing the traditional natural view as background for an outdoor scene, Manet opts for the iron grating which "boldly stretches across the canvas"[21] The only evidence of the train is its white cloud of steam. In the distance, modern apartment buildings are seen. This arrangement compresses the foreground into a narrow focus. The traditional convention of deep space is ignored.
 
@@ -123,7 +121,7 @@ Manet painted several boating subjects in 1874. _Boating_, now in the Metropolit
 
 In 1875, a book-length French edition of Edgar Allan Poe's _The Raven_ included lithographs by Manet and translation by Mallarmé.[25]
 
-In 1881, with pressure from his friend Antonin Proust, the French government awarded Manet the Légion d'honneur.[26] Edouard_Manet,_A_Bar_at_the_Folies-Bergère.jpg (Un Bar aux Folies-Bergère)'', 1882, Courtauld Gallery, London]]
+In 1881, with pressure from his friend Antonin Proust, the French government awarded Manet the Légion d'honneur.[26] (Un Bar aux Folies-Bergère)'', 1882, Courtauld Gallery, London]]
 
 Late works
 
@@ -139,7 +137,7 @@ In April 1883, his left foot was amputated because of gangrene, due to complicat
 
 Legacy
 
-Manet's public career lasted from 1861, the year of his first participation in the Salon, until his death in 1883. His extant works, as catalogued in 1975 by Denis Rouart and Daniel Wildenstein, comprise 430 oil paintings, 89 pastels, and more than 400 works on paper.[33] Manet-grave.jpg Although harshly condemned by critics who decried its lack of conventional finish, Manet's work had admirers from the beginning. One was Émile Zola, who wrote in 1867: "We are not accustomed to seeing such simple and direct translations of reality. Then, as I said, there is such a surprisingly elegant awkwardness ... it is a truly charming experience to contemplate this luminous and serious painting which interprets nature with a gentle brutality."[34]
+Manet's public career lasted from 1861, the year of his first participation in the Salon, until his death in 1883. His extant works, as catalogued in 1975 by Denis Rouart and Daniel Wildenstein, comprise 430 oil paintings, 89 pastels, and more than 400 works on paper.[33] Although harshly condemned by critics who decried its lack of conventional finish, Manet's work had admirers from the beginning. One was Émile Zola, who wrote in 1867: "We are not accustomed to seeing such simple and direct translations of reality. Then, as I said, there is such a surprisingly elegant awkwardness ... it is a truly charming experience to contemplate this luminous and serious painting which interprets nature with a gentle brutality."[34]
 
 The roughly painted style and photographic lighting in Manet's paintings was seen as specifically modern, and as a challenge to the Renaissance works he copied or used as source material. He rejected the technique he had learned in the studio of Thomas Couture – in which a painting was constructed using successive layers of paint on a dark-toned ground – in favor of a direct, _alla prima_ method using opaque paint on a light ground. Novel at the time, this method made possible the completion of a painting in a single sitting. It was adopted by the Impressionists, and became the prevalent method of painting in oils for generations that followed.[35] Manet's work is considered "early modern", partially because of the opaque flatness of his surfaces, the frequent sketchlike passages, and the black outlining of figures, all of which draw attention to the surface of the picture plane and the material quality of paint.
 

@@ -9,9 +9,9 @@ The game developed in British India from the earlier game of battledore and shut
 
 History
 
-Battledore_-_Youthful_Sports.png]]
+]]
 
-Battledore-and-shuttlecock.jpg by John Leech]]
+by John Leech]]
 
 Games employing shuttlecocks have been played for centuries across Eurasia, but the modern game of badminton developed in the mid-19th century among the British as a variant of the earlier game of battledore and shuttlecock. ("Battledore" was an older term for "racquet".) Its exact origin remains obscure. The name derives from the Duke of Beaufort's Badminton House in Gloucestershire, but why or when remains unclear. As early as 1860, a London toy dealer named Isaac Spratt published a booklet entitled _Badminton Battledore – A New Game_, but no copy is known to have survived. An 1863 article in _The Cornhill Magazine_ describes badminton as "battledore and shuttlecock played with sides, across a string suspended some five feet from the ground".[2]
 
@@ -32,7 +32,7 @@ The following information is a simplified summary of badminton rules based on th
 
 Court
 
-Badminton_court_3d.svg view]]
+view]]
 
 The court is rectangular and divided into halves by a net. Courts are usually marked for both singles and doubles play, although badminton rules permit a court to be marked for singles only.[7] The doubles court is wider than the singles court, but both are of the same length. The exception, which often causes confusion to newer players, is that the doubles court has a shorter serve-length dimension.
 
@@ -43,8 +43,6 @@ The net is 1.55 metres (5 ft 1 inch) high at the edges and 1.524 metres (5 
 The minimum height for the ceiling above the court is not mentioned in the Laws of Badminton. Nonetheless, a badminton court will not be suitable if the ceiling is likely to be hit on a high serve.
 
 Serving
-
-Badminton_court_legal_bounds.svg
 
 When the server serves, the shuttlecock must pass over the short service line on the opponents' court or it will count as a fault. The server and receiver must remain within their service courts, without touching the boundary lines, until the server strikes the shuttlecock. The other two players may stand wherever they wish, so long as they do not block the vision of the server or receiver.
 
@@ -75,7 +73,7 @@ If the receiver is not ready when the service is delivered, a let shall be calle
 
 Equipment
 
-Heads_of_badminton_raquets.jpgs]]
+s]]
 
 Badminton rules restrict the design and size of racquets and shuttlecocks.
 
@@ -89,7 +87,7 @@ Strings
 
 Badminton strings for racquets are thin, high performing strings with thicknesses ranging from about 0.62 to 0.73 mm. Thicker strings are more durable, but many players prefer the feel of thinner strings. String tension is normally in the range of 80 to 160 N (18 to 36 lbf). Recreational players generally string at lower tensions than professionals, typically between 80 and 110 N (18 and 25 lbf). Professionals string between about 110 and 160 N (25 and 36 lbf). Some string manufacturers measure the thickness of their strings under tension so they are actually thicker than specified when slack. Ashaway Micropower is actually 0.7mm but Yonex BG-66 is about 0.72mm.
 
-It is often argued that high string tensions improve control, whereas low string tensions increase power.[11] The arguments for this generally rely on crude mechanical reasoning, such as claiming that a lower tension string bed is more bouncy and therefore provides more power. This is, in fact, incorrect, for a higher string tension can cause the shuttle to slide off the racquet and hence make it harder to hit a shot accurately. An alternative view suggests that the optimum tension for power depends on the player:[12] the faster and more accurately a player can swing their racquet, the higher the tension for maximum power. Neither view has been subjected to a rigorous mechanical analysis, nor is there clear evidence in favour of one or the other. The most effective way for a player to find a good string tension is to experiment. Badminton_Undergrip_Flat.jpg
+It is often argued that high string tensions improve control, whereas low string tensions increase power.[11] The arguments for this generally rely on crude mechanical reasoning, such as claiming that a lower tension string bed is more bouncy and therefore provides more power. This is, in fact, incorrect, for a higher string tension can cause the shuttle to slide off the racquet and hence make it harder to hit a shot accurately. An alternative view suggests that the optimum tension for power depends on the player:[12] the faster and more accurately a player can swing their racquet, the higher the tension for maximum power. Neither view has been subjected to a rigorous mechanical analysis, nor is there clear evidence in favour of one or the other. The most effective way for a player to find a good string tension is to experiment.
 
 Grip
 
@@ -114,8 +112,6 @@ Compared to running shoes, badminton shoes have little lateral support. High lev
 
 Technique
 
-GGOpen_Setiadi.jpg
-
 Strokes
 
 Badminton offers a wide variety of basic strokes, and players require a high level of skill to perform all of them effectively. All strokes can be played either _forehand_ or _backhand_. A player's forehand side is the same side as their playing hand: for a right-handed player, the forehand side is their right side and the backhand side is their left side. Forehand strokes are hit with the front of the hand leading (like hitting with the palm), whereas backhand strokes are hit with the back of the hand leading (like hitting with the knuckles). Players frequently play certain strokes on the forehand side with a backhand hitting action, and vice versa.
@@ -124,13 +120,9 @@ In the forecourt and midcourt, most strokes can be played equally effectively on
 
 Position of the shuttlecock and receiving player
 
-BadmintonService.jpg
-
 The choice of stroke depends on how near the shuttlecock is to the net, whether it is above net height, and where an opponent is currently positioned: players have much better attacking options if they can reach the shuttlecock well above net height, especially if it is also close to the net. IN THE FORECOURT, a high shuttlecock will be met with a _net kill_, hitting it steeply downwards and attempting to win the rally immediately. This is why it is best to drop the shuttlecock just over the net in this situation. IN THE MIDCOURT, a high shuttlecock will usually be met with a powerful _smash_, also hitting downwards and hoping for an outright winner or a weak reply. Athletic _jump smashes_, where players jump upwards for a steeper smash angle, are a common and spectacular element of elite men's doubles play. IN THE REARCOURT, players strive to hit the shuttlecock while it is still above them, rather than allowing it to drop lower. This _overhead_ hitting allows them to play smashes, _clears_ (hitting the shuttlecock high and to the back of the opponents' court), and _drop shots_ (hitting the shuttlecock softly so that it falls sharply downwards into the opponents' forecourt). If the shuttlecock has dropped lower, then a smash is impossible and a full-length, high clear is difficult.
 
 Vertical position of the shuttlecock
-
-BadmintonJumpSmash.jpg
 
 WHEN THE SHUTTLECOCK IS WELL BELOW NET HEIGHT, players have no choice but to hit upwards. _Lifts_, where the shuttlecock is hit upwards to the back of the opponents' court, can be played from all parts of the court. If a player does not lift, his only remaining option is to push the shuttlecock softly back to the net: in the forecourt, this is called a _net shot_; in the midcourt or rear court, it is often called a _push_ or _block_.
 
@@ -197,7 +189,7 @@ At high levels of play, doubles rallies are extremely fast. Men's doubles are th
 
 Mixed doubles
 
-Scottish_Schools_U12_mixed_doubles_badminton_tournament.jpg, May 2002]]
+, May 2002]]
 
 In mixed doubles, both pairs typically try to maintain an attacking formation with the woman at the front and the man at the back. This is because the male players are usually substantially stronger, and can, therefore, produce smashes that are more powerful. As a result, mixed doubles require greater tactical awareness and subtler positional play. Clever opponents will try to reverse the ideal position, by forcing the woman towards the back or the man towards the front. In order to protect against this danger, mixed players must be careful and systematic in their shot selection.[16]
 
@@ -217,8 +209,6 @@ The Badminton World Federation (BWF) is the internationally recognized governing
 -   Oceania: Badminton Oceania (BO)
 
 Competitions
-
-Badminton_men's_doubles.jpg
 
 The BWF organizes several international competitions, including the Thomas Cup, the premier men's international team event first held in 1948–1949, and the Uber Cup, the women's equivalent first held in 1956–1957. The competitions now take place once every two years. More than 50 national teams compete in qualifying tournaments within continental confederations for a place in the finals. The final tournament involves 12 teams, following an increase from eight teams in 2004. It was further increased to 16 teams in 2012.[17]
 

@@ -1,4 +1,4 @@
-Huneric_BMC_012_(cropped).jpg HUNERIC or HUNNERIC or HONERIC (died December 23, 484) was King of the (North African) Vandal Kingdom (477–484) and the oldest son of Genseric. He abandoned the imperial politics of his father and concentrated mainly on internal affairs. He was married to Eudocia, daughter of western Roman Emperor Valentinian III (419–455) and Licinia Eudoxia. The couple had one child, a son named Hilderic.
+HUNERIC or HUNNERIC or HONERIC (died December 23, 484) was King of the (North African) Vandal Kingdom (477–484) and the oldest son of Genseric. He abandoned the imperial politics of his father and concentrated mainly on internal affairs. He was married to Eudocia, daughter of western Roman Emperor Valentinian III (419–455) and Licinia Eudoxia. The couple had one child, a son named Hilderic.
 
 Huneric was the first Vandal king who used the title _King of the Vandals and Alans_. Despite adopting this style, and that the Vandals maintained their sea-power and their hold on the islands of the western Mediterranean, Huneric did not have the prestige that his father Genseric had enjoyed with other states.
 

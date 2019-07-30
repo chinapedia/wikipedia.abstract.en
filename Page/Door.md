@@ -1,4 +1,4 @@
-Door_in_Georgia.jpg]] Knocking_at_front_door_of_The_National_Archives_Building_-_01.jpg in Washington, D.C.. Each is tall and weighs roughly ]] Адмиралтейская_наб._8_(из_Азовского_пер.)03.jpg (Russia)]]
+]] in Washington, D.C.. Each is tall and weighs roughly ]] (Russia)]]
 
 A DOOR is a panel that covers an opening in a building, room or vehicle. Doors are usually made of a hard, semi-permeable, and hard-to-break substance (such as wood or metal), but sometimes consisting of a hard frame into which windows or screens have been fitted. Doors are often attached by hinges to a frame. Doors make ingress into or egress from a building, room, or vehicle easier to manage. The panel may be moved in various ways (at angles away from the frame, by sliding on a plane parallel to the frame, by folding in angles on a parallel plane, or by spinning along an axis at the center of the frame) to allow or prevent ingress or egress. In most cases, a door's interior matches its exterior side. But in other cases (e.g., a vehicle door) the two sides are radically different.
 
@@ -9,15 +9,15 @@ Doors may have aesthetic, symbolic, ritualistic purposes. To be given the key to
 
 History
 
-The_Macedonian_tomb_of_Aghia_Paraskevi_(8726714412).jpg]]
+]]
 
 The earliest in records are those represented in the paintings of some Egyptian tombs, in which they are shown as single or double doors, each in a single piece of wood. Doors were once believed to be the literal doorway to the afterlife, and some doors leading to important places included designs of the afterlife. In Egypt, where the climate is intensely dry, there would be no fear of their warping, but in other countries it would be necessary to frame them, which according to Vitruvius (iv. 6.) was done with stiles (sea/si) and rails _(see: Frame and panel)_: the spaces enclosed being filled with panels (tympana) let into grooves made in the stiles and rails. The stiles were the vertical boards, one of which, tenoned or hinged, is known as the hanging stile, the other as the middle or meeting stile. The horizontal cross pieces are the top rail, bottom rail, and middle or intermediate rails. The most ancient doors were made of timber, such as those referred to in the Biblical depiction of King Solomon's temple being in olive wood (I Kings vi. 31-35), which were carved and overlaid with gold. The doors dwelt upon in Homer would appear to have been cased in silver or brass. Besides olive wood, elm, cedar, oak and cypress were used. A 5,000-year-old door has been found by archaeologists in Switzerland.[2]
 
-stone_door.jpg, India]] Door-Post_Socket_(4690606141).jpg]]
+, India]] ]]
 
 All ancient doors were hung by pivots at the top and bottom of the hanging stile which worked in sockets in the lintel and sill, the latter being always in some hard stone such as basalt or granite. Those found at Nippur by Dr. Hilprecht dating from 2000 B.C. were in dolerite. The tenons of the gates at Balawat were sheathed with bronze (now in the British Museum). These doors or gates were hung in two leaves, each about wide and . high; they were encased with bronze bands or strips, 10 in. high, covered with repouss decoration of figures, etc. The wood doors would seem to have been about 3 in. thick, but the hanging stile was over diameter. Other sheathings of various sizes in bronze have been found, which proves this to have been the universal method adopted to protect the wood pivots. In the Hauran in Syria, where timber is scarce the doors were made in stone, and one measuring by is in the British Museum; the band on the meeting stile shows that it was one of the leaves of a double door. At Kuffeir near Bostra in Syria, Burckhardt found stone doors, 9 to . high, being the entrance doors of the town. In Etruria many stone doors are referred to by Dennis.
 
-Plaster_cast_of_folding_doors,_Pompeii.jpg folding doors at Pompeii (1st century AD)]]
+folding doors at Pompeii (1st century AD)]]
 
 The ancient Greek and Roman doors were either single doors, double doors, triple doors, sliding doors or folding doors, in the last case the leaves were hinged and folded back. In Eumachia, is a painting of a door with three leaves. In the tomb of Theron at Agrigentum there is a single four-panel door carved in stone. In the Blundell collection is a bas-relief of a temple with double doors, each leaf with five panels. Among existing examples, the bronze doors in the church of SS. Cosmas and Damiano, in Rome, are important examples of Roman metal work of the best period; they are in two leaves, each with two panels, and are framed in bronze. Those of the Pantheon are similar in design, with narrow horizontal panels in addition, at the top, bottom and middle. Two other bronze doors of the Roman period are in the Lateran Basilica.
 
@@ -25,7 +25,7 @@ The Greek scholar Heron of Alexandria created the earliest known automatic door 
 
 Copper and its alloys were integral in medieval architecture. The doors of the church of the Nativity at Bethlehem (6th century) are covered with plates of bronze, cut out in patterns. Those of Hagia Sophia at Constantinople, of the 8th and 9th century, are wrought in bronze, and the west doors of the cathedral of Aix-la-Chapelle (9th century), of similar manufacture, were probably brought from Constantinople, as also some of those in St. Marks, Venice. The bronze doors on the Aachen Cathedral in Germany date back to about AD 800. Bronze baptistery doors at the Cathedral of Florence were completed in 1423 by Ghiberti.[6] _(For more information, see: Copper in architecture)._
 
-Tür,_Villa_Boscoreale.jpg wall painting of an ornate door, in the Villa Boscoreale, Italy (1st century AD).]]
+wall painting of an ornate door, in the Villa Boscoreale, Italy (1st century AD).]]
 
 Of the 11th and 12th centuries there are numerous examples of bronze doors, the earliest being one at Hildesheim, Germany (1015). The Hildesheim design affected the concept of Gniezno door in Poland. Of others in South Italy and Sicily, the following are the finest: in Sant Andrea, Amalfi (1060); Salerno (1099); Canosa (1111); Troia, two doors (1119 and 1124); Ravello (1179), by Barisano of Trani, who also made doors for Trani cathedral; and in Monreale and Pisa cathedrals, by Bonano of Pisa. In all these cases the hanging stile had pivots at the top and bottom. The exact period when the hinge was substituted is not quite known, but the change apparently brought about another method of strengthening and decorating doors, viz, with wrought-iron bands of infinite varieties of design. As a rule three bands from which the ornamental work springs constitute the hinges, which have rings outside the hanging stiles fitting on to vertical tenons run into the masonry or wooden frame. There is an early example of the 12th century in Lincoln; in France the metal work of the doors of Notre Dame at Paris is perhaps the most beautiful in execution, but examples are endless throughout France and England.
 
@@ -33,7 +33,7 @@ Returning to Italy, the most celebrated doors are those of the Battistero di San
 
 The doors of the mosques in Cairo were of two kinds; those which, externally, were cased with sheets of bronze or iron, cut out in decorative patterns, and incised or inlaid, with bosses in relief; and those in wood, which were framed with interlaced designs of the square and diamond, this latter description of work being Coptic in its origin. The doors of the palace at Palermo, which were made by Saracenic workmen for the Normans, are fine examples and in good preservation. A somewhat similar decorative class of door to these latter is found in Verona, where the edges of the stiles and rails are beveled and notched.
 
-Дом_компании_Зингер,_Россия,_Санкт-Петербург.JPG elements, from the Singer House (Saint Petersburg, Russia)]]
+elements, from the Singer House (Saint Petersburg, Russia)]]
 
 In the Renaissance period the Italian doors are quite simple, their architects trusting more to the doorways for effect; but in France and Germany the contrary is the case, the doors being elaborately carved, especially in the Louis XIV and Louis XV periods, and sometimes with architectural features such as columns and entablatures with pediment and niches, the doorway being in plain masonry. While in Italy the tendency was to give scale by increasing the number of panels, in France the contrary seems to have been the rule; and one of the great doors at Fontainebleau, which is in two leaves, is entirely carried out as if consisting of one great panel only.
 
@@ -46,12 +46,12 @@ The oldest door in England can be found in Westminster Abbey and dates from 1050
 
 Design and styles
 
-Florença_-_Portões_do_Paraíso_(146).jpg called _Gates of Paradise_, 1425-1452, gilded bronze, height: 5.2 m]] There are many kinds of doors, with different purposes. The most common type is the SINGLE-LEAF DOOR, which consists of a single rigid panel that fills the doorway. There are many variations on this basic design, such as the DOUBLE-LEAF DOOR or DOUBLE DOOR AND FRENCH WINDOWS, which have two adjacent independent panels hinged on each side of the doorway.
+called _Gates of Paradise_, 1425-1452, gilded bronze, height: 5.2 m]] There are many kinds of doors, with different purposes. The most common type is the SINGLE-LEAF DOOR, which consists of a single rigid panel that fills the doorway. There are many variations on this basic design, such as the DOUBLE-LEAF DOOR or DOUBLE DOOR AND FRENCH WINDOWS, which have two adjacent independent panels hinged on each side of the doorway.
 
 -   A HALF DOOR or DUTCH DOOR[9] or STABLE DOOR is divided in half horizontally. Traditionally the top half can be opened to allow a horse or other animal to be fed, while the bottom half remains closed to keep the animal inside. This style of door has been adapted for homes.
 -   SALOON DOORS are a pair of lightweight swing doors often found in public bars, and especially associated with the American west. Saloon doors, also known as CAFE DOORS, often use bidirectional hinges that close the door regardless of which direction it is opened by incorporating springs. Saloon doors that only extend from knee-level to chest-level are known as BATWING DOORS.
 
-Gehgard_astvatsatsin_portal-IMG_2533.JPGn door of a church from the Geghard Monastery in Armenia]]
+n door of a church from the Geghard Monastery in Armenia]]
 
 -   A BLIND DOOR, GIBB DOOR, or JIB DOOR has no visible trim or operable components. It is designed to blend with the adjacent wall in all finishes, and visually to be a part of the wall, a disguised door.[10]
 -   A FRENCH DOOR consists of a frame around one or more transparent or translucent panels (called lights or lites) that may be installed singly, in matching pairs, or even as series. A matching pair of these doors is called a FRENCH WINDOW, as it resembles a door-height casement window. When a pair of French doors is used as a French window, the application does not generally include a central mullion (as do some casement window pairs), thus allowing a wider unobstructed opening. The frame typically requires a weather strip at floor level and where the doors meet to prevent water ingress. An espagnolette bolt may allow the head and foot of each door to be secured in one movement. The slender window joinery maximizes light into the room and minimizes the visual impact of the doorway joinery when considered externally. The doors of a French window often open outward onto a balcony, porch, or terrace and they may provide an entrance to a garden.
@@ -73,8 +73,6 @@ File:Zespół klasztoru Gandan (39).jpg|A decorated door from the Gandantegchinl
 
 Types of mechanism
 
-Types_of_doors.png
-
 Hinged doors
 
 Most doors are hinged along one side to allow the door to pivot away from the doorway in one direction, but not the other. The axis of rotation is usually vertical. In some cases, such as hinged garage doors, the axis may be horizontal, above the door opening.
@@ -83,7 +81,7 @@ Doors can be hinged so that the axis of rotation is not in the plane of the door
 
 A SWING DOOR has special single-action hinges that allow it to open either outwards or inwards, and is usually sprung to keep it closed.
 
-Press-Selfbolting.jpg A SELFBOLTING DOOR has special hinges that permit the panel leaf to move laterally, so that the door itself becomes a giant bolt for better security. The selfbolting door principle can be used both for hinged doors as for rotating doors, as well as up-and-over doors (in the latter case, the bolts are then placed at top and bottom rather than at the sides).
+A SELFBOLTING DOOR has special hinges that permit the panel leaf to move laterally, so that the door itself becomes a giant bolt for better security. The selfbolting door principle can be used both for hinged doors as for rotating doors, as well as up-and-over doors (in the latter case, the bolts are then placed at top and bottom rather than at the sides).
 
 FRENCH DOORS are derived from an original French design called the casement door. It is a door with lites where all or some panels would be in a casement door. A French door traditionally has a moulded panel at the bottom of the door. It is called a French window when used in a pair as double-leaved doors with large glass panels in each door leaf, and in which the doors may swing out (typically) as well as in.
 
@@ -133,7 +131,7 @@ In addition to activation sensors automatically opening doors are generally fitt
 
 Others
 
-Overhead_door_components.JPG Torggler_evolutiondoor.jpg UP-AND-OVER or OVERHEAD doors are often used in garages. Instead of hinges it has a mechanism, often counterbalanced or sprung, that allows it to be lifted so that it rests horizontally above the opening. A roller shutter or SECTIONAL OVERHEAD DOOR is one variant of this type.
+UP-AND-OVER or OVERHEAD doors are often used in garages. Instead of hinges it has a mechanism, often counterbalanced or sprung, that allows it to be lifted so that it rests horizontally above the opening. A roller shutter or SECTIONAL OVERHEAD DOOR is one variant of this type.
 
 A TAMBOUR DOOR or roller door is an up-and-over door made of narrow horizontal slats and "rolls" up and down by sliding along vertical tracks and is typically found in entertainment centres and cabinets.
 
@@ -159,8 +157,6 @@ Doors also are applied in more specialized cases:
 
 
 Construction and components
-
-Door-glossary.png Door-midrail-detail.png Frame-filled-door.gif hollow_door.jpg
 
 Panel doors
 
@@ -278,7 +274,7 @@ The DIN 18101 standard has a normative size (Nennmaß) slightly larger than the 
 
 Doorway components
 
-Panel_door.jpg When framed in wood for snug fitting of a door, the doorway consists of two vertical _jambs_ on either side, a _lintel_ or _head jamb_ at the top, and perhaps a _threshold_ at the bottom. When a door has more than one movable section, one of the sections may be called a _leaf_. See door furniture for a discussion of attachments to doors such as door handles, doorknobs, and door knockers.
+When framed in wood for snug fitting of a door, the doorway consists of two vertical _jambs_ on either side, a _lintel_ or _head jamb_ at the top, and perhaps a _threshold_ at the bottom. When a door has more than one movable section, one of the sections may be called a _leaf_. See door furniture for a discussion of attachments to doors such as door handles, doorknobs, and door knockers.
 
 -   Lintel – A horizontal beam above a door that supports the wall above it. (Also known as a _header_)
 -   Jambs – The vertical posts that form the sides of a door frame, where the hinges are mounted, and with which the bolt interacts.
@@ -289,7 +285,7 @@ Panel_door.jpg When framed in wood for snug fitting of a door, the doorway consi
 
 Related hardware
 
-Door_lock.jpg: a letter box, door knocker, a latch and two locks]]
+: a letter box, door knocker, a latch and two locks]]
 
 Door furniture or hardware refers to any of the items that are attached to a door or a drawer to enhance its functionality or appearance. This includes items such as hinges, handles, door stops, etc.
 

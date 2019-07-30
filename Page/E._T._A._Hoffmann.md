@@ -43,7 +43,7 @@ But Hoffmann's fortunate position was not to last: on 28 November 1806, during t
 
 Berlin and Bamberg
 
-The next fifteen months were some of the worst in Hoffmann's life. The city of Berlin was also occupied by Napoleon's troops. Obtaining only meagre allowances, he had frequent recourse to his friends, constantly borrowing money and still going hungry for days at a time; he learned that his daughter had died. Nevertheless, he managed to compose his Six Canticles for _a cappella_ choir: one of his best compositions, which he would later attribute to Kreisler in _Lebensansichten des Katers Murr_. E._T._A._Hoffmann_-_Kapellmeister_Kreisler.jpg On 1 September 1808 he arrived with his wife in Bamberg, where he began a job as theatre manager. The director, Count Soden, left almost immediately for Würzburg, leaving a man named Heinrich Cuno in charge. Hoffmann was unable to improve standards of performance, and his efforts caused intrigues against him which resulted in him losing his job to Cuno. He began work as music critic for the _Allgemeine musikalische Zeitung_, a newspaper in Leipzig, and his articles on Beethoven were especially well received, and highly regarded by the composer himself. It was in its pages that the "Kapellmeister Johannes Kreisler" character made his first appearance.
+The next fifteen months were some of the worst in Hoffmann's life. The city of Berlin was also occupied by Napoleon's troops. Obtaining only meagre allowances, he had frequent recourse to his friends, constantly borrowing money and still going hungry for days at a time; he learned that his daughter had died. Nevertheless, he managed to compose his Six Canticles for _a cappella_ choir: one of his best compositions, which he would later attribute to Kreisler in _Lebensansichten des Katers Murr_. On 1 September 1808 he arrived with his wife in Bamberg, where he began a job as theatre manager. The director, Count Soden, left almost immediately for Würzburg, leaving a man named Heinrich Cuno in charge. Hoffmann was unable to improve standards of performance, and his efforts caused intrigues against him which resulted in him losing his job to Cuno. He began work as music critic for the _Allgemeine musikalische Zeitung_, a newspaper in Leipzig, and his articles on Beethoven were especially well received, and highly regarded by the composer himself. It was in its pages that the "Kapellmeister Johannes Kreisler" character made his first appearance.
 
 Hoffmann's breakthrough came in 1809, with the publication of _Ritter Gluck_, a story about a man who meets, or believes he has met, the composer Christoph Willibald Gluck (1714–87) more than twenty years after the latter's death. The theme alludes to the work of Jean Paul, who invented the term Doppelgänger the previous decade, and continued to exact a powerful influence over Hoffmann, becoming one of his earliest admirers. With this publication, Hoffmann began to use the pseudonym E. T. A. Hoffmann, telling people that the "A" stood for _Amadeus_, in homage to the composer Wolfgang Amadeus Mozart (1756–91). However, he continued to use Wilhelm in official documents throughout his life, and the initials E. T. W. also appear on his gravestone.
 
@@ -61,7 +61,7 @@ On 25 February Hoffmann quarrelled with Seconda, and the next day he was given n
 
 Berlin
 
-Grave_of_ETA_Hoffmann.jpg At the end of September 1814, in the wake of Napoleon's defeat, Hoffmann returned to Berlin and succeeded in regaining a job at the _Kammergericht_, the chamber court. His opera _Undine_ was performed by the Berlin Theatre. Its successful run came to an end only after a fire on the night of the 25th performance. Magazines clamoured for his contributions, and after a while his standards started to decline. Nevertheless, many masterpieces date from this time.
+At the end of September 1814, in the wake of Napoleon's defeat, Hoffmann returned to Berlin and succeeded in regaining a job at the _Kammergericht_, the chamber court. His opera _Undine_ was performed by the Berlin Theatre. Its successful run came to an end only after a fire on the night of the 25th performance. Magazines clamoured for his contributions, and after a while his standards started to decline. Nevertheless, many masterpieces date from this time.
 
 During the period from 1819 Hoffmann was involved with legal disputes, while fighting ill health. Alcohol abuse and syphilis eventually caused weakening of his limbs during 1821, and paralysis from the beginning of 1822. His last works were dictated to his wife or to a secretary.
 
@@ -75,8 +75,6 @@ Hoffmann died of syphilis in Berlin on 25 June 1822 at the age of 46. His grave 
 Works
 
 Literary
-
-Hoffman_4_volume_set.png
 
 -   _Fantasiestücke in Callots Manier_ (collection of previously published stories, 1814)[9]
     -   "Ritter Gluck", "Kreisleriana", "Don Juan", "Nachricht von den neuesten Schicksalen des Hundes Berganza"
@@ -150,8 +148,6 @@ Instrumental
 
 Assessment
 
-Bamberg_ETA_Hoffmann_13aug2007.jpg
-
 Hoffmann is one of the best-known representatives of German Romanticism, and a pioneer of the fantasy genre, with a taste for the macabre combined with realism that influenced such authors as Edgar Allan Poe (1809–1849), Nikolai Gogol[10][11](1809–1852), Charles Dickens (1812–1870), Charles Baudelaire (1821–1867), George MacDonald (1824–1905),[12] Fyodor Dostoevsky (1821–1881), Vernon Lee (1856-1935),[13] Franz Kafka (1883–1924) and Alfred Hitchcock (1899–1980). Hoffmann's story _Das Fräulein von Scuderi_ is sometimes cited as the first detective story and a direct influence on Poe's "The Murders in the Rue Morgue".[14]
 
 The twentieth-century Russian literary theorist Mikhail Bakhtin characterised Hoffmann's works as Menippea, essentially satirical and self-parodying in form, thus including him in a tradition that includes Cervantes, Diderot and Voltaire.
@@ -159,8 +155,6 @@ The twentieth-century Russian literary theorist Mikhail Bakhtin characterised Ho
 Robert Schumann's piano suite Kreisleriana (1838) takes its title from one of Hoffmann's books (and according to Charles Rosen's _The Romantic Generation_, is possibly also inspired by "The Life and Opinions of Tomcat Murr", in which Kreisler appears). Jacques Offenbach's masterwork, the opera _Les contes d'Hoffmann_ ("The Tales of Hoffmann", 1881), is based on the stories, principally "Der Sandmann" ("The Sandman", 1816), "Rat Krespel" ("Councillor Krespel", 1818), and "Das verlorene Spiegelbild" ("The Lost Reflection") from _Die Abenteuer der Silvester-Nacht_ (_The Adventures of New Year's Eve_, 1814). _Klein Zaches genannt Zinnober_ (_Little Zaches called Cinnabar_, 1819) inspired an aria as well as the operetta _Le Roi Carotte_, 1872). Pyotr Ilyich Tchaikovsky's ballet _The Nutcracker_ (1892) is based on "The Nutcracker and the Mouse King", and the ballet _Coppélia_, with music by Delibes, is based on two eerie Hoffmann stories.
 
 Hoffmann also influenced 19th-century musical opinion directly through his music criticism. His reviews of Beethoven's Symphony No. 5 in C minor, Op. 67 (1808) and other important works set new literary standards for writing about music, and encouraged later writers to consider music as "the most Romantic of all the arts."[15] Hoffmann's reviews were first collected for modern readers by Friedrich Schnapp, ed., in _E.T.A. Hoffmann: Schriften zur Musik; Nachlese_ (1963) and have been made available in an English translation in _E.T.A. Hoffmann's Writings on Music, Collected in a Single Volume_ (2004).
-
-E._T._A._Hoffmann_-_Hoffmann_kämpft_gegen_die_Bürokratie_1821.jpg
 
 Hoffmann strove for artistic polymathy. He created far more in his works than mere political commentary achieved through satire. His masterpiece novel _Lebensansichten des Katers Murr_ (_The Life and Opinions of Tomcat Murr_, 1819–1821) deals with such issues as the aesthetic status of true artistry and the modes of self-transcendence that accompany any genuine endeavour to create. Hoffmann's portrayal of the character Kreisler (a genius musician) is wittily counterpointed with the character of the tomcat Murr – a virtuoso illustration of artistic pretentiousness that many of Hoffmann's contemporaries found offensive and subversive of Romantic ideals.
 

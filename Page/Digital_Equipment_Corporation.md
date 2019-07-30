@@ -20,7 +20,7 @@ DEC was acquired in June 1998 by Compaq, in what was at that time the largest me
 
 Products
 
-DEC_VAXstation_4000_96_OpenVMS_6.1.jpeg]] Beyond DECsystem-10/20, PDP, VAX and Alpha, DEC was well respected for its communication subsystem designs, such as Ethernet, DNA (DIGITAL Network Architecture: predominantly DECnet products), DSA (Digital Storage Architecture: disks/tapes/controllers), and its "dumb terminal" subsystems including VT100 and DECserver products.[5]
+]] Beyond DECsystem-10/20, PDP, VAX and Alpha, DEC was well respected for its communication subsystem designs, such as Ethernet, DNA (DIGITAL Network Architecture: predominantly DECnet products), DSA (Digital Storage Architecture: disks/tapes/controllers), and its "dumb terminal" subsystems including VT100 and DECserver products.[5]
 
 
 Research
@@ -104,7 +104,7 @@ Corporate
 
 User organizations
 
-DECUS-logo.svg Originally the users' group was called DECUS (Digital Equipment Computer User Society) during the 1960s to 1990s. When Compaq acquired DEC in 1998, the users group was renamed CUO, the Compaq Users' Organisation. When HP acquired Compaq in 2002, CUO became HP-Interex, although there are still DECUS groups in several countries. In the United States, the organization is represented by the Encompass organization; currently Connect.
+Originally the users' group was called DECUS (Digital Equipment Computer User Society) during the 1960s to 1990s. When Compaq acquired DEC in 1998, the users group was renamed CUO, the Compaq Users' Organisation. When HP acquired Compaq in 2002, CUO became HP-Interex, although there are still DECUS groups in several countries. In the United States, the organization is represented by the Encompass organization; currently Connect.
 
 
 Notes

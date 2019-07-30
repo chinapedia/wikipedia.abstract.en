@@ -163,7 +163,7 @@ Resources
 
 Petroleum
 
-Tree_map_export_2009_Angola.jpeg Angola produces and exports more petroleum than any other nation in sub-Saharan Africa, surpassing Nigeria in the 2000s. In January 2007 Angola became a member of OPEC. By 2010 production is expected to double the 2006 output level with development of deep-water offshore oil fields. Oil sales generated US$1.71 billion in tax revenue in 2004 and now makes up 80% of the government's budget, a 5% increase from 2003, and 45% of GDP.[28][29]
+Angola produces and exports more petroleum than any other nation in sub-Saharan Africa, surpassing Nigeria in the 2000s. In January 2007 Angola became a member of OPEC. By 2010 production is expected to double the 2006 output level with development of deep-water offshore oil fields. Oil sales generated US$1.71 billion in tax revenue in 2004 and now makes up 80% of the government's budget, a 5% increase from 2003, and 45% of GDP.[28][29]
 
 Chevron Corporation produces and receives , 27% of Angolan oil. Total S.A., ExxonMobil, Eni, Petrobras and BP also operate in the country.[30]
 

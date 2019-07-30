@@ -136,8 +136,6 @@ Several common imprints for hydrocodone are M365, M366, M367.[81]
 
 Combination products
 
-Hydrocodone-paracetamol-5-500.jpg
-
 Most hydrocodone is formulated in combination with a second analgesic, such as paracetamol (acetaminophen) or ibuprofen. Examples of hydrocodone combinations include Norco, Vicodin, Lortab, Vicoprofen and Riboxen.[82]
 
 Zohydro ER

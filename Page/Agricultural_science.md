@@ -46,7 +46,7 @@ In the United States, a scientific revolution in agriculture began with the Hatc
 
 Prominent agricultural scientists
 
-Norman_Borlaug.jpg.]]
+.]]
 
 -   Robert Bakewell
 -   Norman Borlaug

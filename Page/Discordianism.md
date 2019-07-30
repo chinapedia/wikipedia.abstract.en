@@ -1,4 +1,4 @@
-Eris_(Discordia).jpg, the Greek goddess of discord]]
+, the Greek goddess of discord]]
 
 DISCORDIANISM is a paradigm based upon the book _Principia Discordia,_[1] written by Greg Hill with Kerry Wendell Thornley in 1963, the two working under the pseudonyms Malaclypse the Younger and Omar Khayyam Ravenhurst. According to self-proclaimed "crackpot historian" Adam Gorightly, Discordianism was founded as a parody religion. Many outside observers still regard Discordianism as a parody religion, although some of its adherents may utilize it as a legitimate religion or as a metaphor for a governing philosophy.[2]
 
@@ -44,13 +44,13 @@ The names of Eris and Aneris (who are later given a brother, _Spirituality_), ar
 
 Hand of Eris
 
-Five_fingered_hand_of_Eris_symbol.svg.]]
+.]]
 
 The hand of Eris (shown at right) and other proposed symbols are used informally in certain circles; however, it is unlikely that Eris, the trans-Neptunian dwarf planet, will be assigned an official symbol by the IAU, since graphical symbols are rarely assigned to minor objects in modern times.[16] A request to the Unicode Consortium to add the hand as a unicode symbol to represent the planet, along with a symbol for 90377 Sedna, was filed in 2016.[17]
 
 The "original snub"
 
-Apple_of_Discord.png]] The "original snub" is the Discordian name for the events preceding the judgement of Paris, although more focus is put on the actions of Eris. Zeus believes that Eris is a troublemaker, so he does not invite her to Peleus and Thetis's wedding. Having been snubbed, Eris creates a golden apple with the word _kallisti_ (, to the prettiest one) inscribed in it. This, the Apple of Discord, is a notable symbol in Discordianism for its inclusion in the Holy Chao, and is traditionally described as being made of gold (although whether that gold was metallic or Acapulco is noted as uncertain[18]).[19]
+]] The "original snub" is the Discordian name for the events preceding the judgement of Paris, although more focus is put on the actions of Eris. Zeus believes that Eris is a troublemaker, so he does not invite her to Peleus and Thetis's wedding. Having been snubbed, Eris creates a golden apple with the word _kallisti_ (, to the prettiest one) inscribed in it. This, the Apple of Discord, is a notable symbol in Discordianism for its inclusion in the Holy Chao, and is traditionally described as being made of gold (although whether that gold was metallic or Acapulco is noted as uncertain[18]).[19]
 
 Some recent interpretations of the original snub place Eris as being not at all mischievous with her delivery of the apple, but instead suggest that Eris was simply bringing the apple as a wedding present for Thetis. This interpretation would see Eris as innocent and her causing of chaos as a by-product of the other wedding guests' reaction upon seeing her at the wedding.[20][21]
 
@@ -82,7 +82,7 @@ _Zen Without Zen Masters_ is a book by Camden Benares (The Count of Five), publi
 
 _Principia Discordia_ editions
 
-The first edition was printed using Jim Garrison's Xerox printer in 1963.[32] The second edition was published under the title _Principia Discordia or How The West Was Lost_ in a limited edition of five copies in 1965. Poee_symbol.jpg Sacred_Chao_2.jpg The _Principia Discordia or How The West Was Lost_ was first published in a limited edition of five copies and released into the public domain in 1965.[33]
+The first edition was printed using Jim Garrison's Xerox printer in 1963.[32] The second edition was published under the title _Principia Discordia or How The West Was Lost_ in a limited edition of five copies in 1965. The _Principia Discordia or How The West Was Lost_ was first published in a limited edition of five copies and released into the public domain in 1965.[33]
 
 File:NARACoverSheet DiscordianSociety.gif|NARA Cover sheet for the alleged First Edition File:PrincipiaSynGen.jpg|"Snake cover"
 Synaptyclypse Generator, 2007

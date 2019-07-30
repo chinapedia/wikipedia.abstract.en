@@ -1,4 +1,4 @@
-Gas_Chromatography_Laboratory.jpg laboratory]] ANALYTICAL CHEMISTRY studies and uses instruments and methods used to separate, identify, and quantify matter.[1] In practice, separation, identification or quantification may constitute the entire analysis or be combined with another method. Separation isolates analytes. Qualitative analysis identifies analytes, while quantitative analysis determines the numerical amount or concentration.
+laboratory]] ANALYTICAL CHEMISTRY studies and uses instruments and methods used to separate, identify, and quantify matter.[1] In practice, separation, identification or quantification may constitute the entire analysis or be combined with another method. Separation isolates analytes. Qualitative analysis identifies analytes, while quantitative analysis determines the numerical amount or concentration.
 
 Analytical chemistry consists of classical, wet chemical methods and modern, instrumental methods.[2] Classical qualitative methods use separations such as precipitation, extraction, and distillation. Identification may be based on differences in color, odor, melting point, boiling point, radioactivity or reactivity. Classical quantitative analysis uses mass or volume changes to quantify amount. Instrumental methods may be used to separate samples using chromatography, electrophoresis or field flow fractionation. Then qualitative and quantitative analysis can be performed, often with the same instrument and may use light interaction, heat interaction, electric fields or magnetic fields. Often the same instrument can separate, identify and quantify an analyte.
 
@@ -7,7 +7,7 @@ Analytical chemistry is also focused on improvements in experimental design, che
 
 History
 
-Bunsen-Kirchhoff.jpg (left) and Robert Bunsen (right)]] Analytical chemistry has been important since the early days of chemistry, providing methods for determining which elements and chemicals are present in the object in question. During this period significant contributions to analytical chemistry include the development of systematic elemental analysis by Justus von Liebig and systematized organic analysis based on the specific reactions of functional groups.
+(left) and Robert Bunsen (right)]] Analytical chemistry has been important since the early days of chemistry, providing methods for determining which elements and chemicals are present in the object in question. During this period significant contributions to analytical chemistry include the development of systematic elemental analysis by Justus von Liebig and systematized organic analysis based on the specific reactions of functional groups.
 
 The first instrumental analysis was flame emissive spectrometry developed by Robert Bunsen and Gustav Kirchhoff who discovered rubidium (Rb) and caesium (Cs) in 1860.[3]
 
@@ -22,7 +22,7 @@ Modern analytical chemistry is dominated by instrumental analysis. Many analytic
 
 Classical methods
 
-Flame_test.jpg in this qualitative analysis is indicated by the bluish-green color of the flame]] Although modern analytical chemistry is dominated by sophisticated instrumentation, the roots of analytical chemistry and some of the principles used in modern instruments are from traditional techniques, many of which are still used today. These techniques also tend to form the backbone of most undergraduate analytical chemistry educational labs.
+in this qualitative analysis is indicated by the bluish-green color of the flame]] Although modern analytical chemistry is dominated by sophisticated instrumentation, the roots of analytical chemistry and some of the principles used in modern instruments are from traditional techniques, many of which are still used today. These techniques also tend to form the backbone of most undergraduate analytical chemistry educational labs.
 
 Qualitative analysis
 
@@ -51,15 +51,13 @@ Titration involves the addition of a reactant to a solution being analyzed until
 
 Instrumental methods
 
-Analytical_instrument.png
-
 Spectroscopy
 
 Spectroscopy measures the interaction of the molecules with electromagnetic radiation. Spectroscopy consists of many different applications such as atomic absorption spectroscopy, atomic emission spectroscopy, ultraviolet-visible spectroscopy, x-ray spectroscopy, fluorescence spectroscopy, infrared spectroscopy, Raman spectroscopy, dual polarization interferometry, nuclear magnetic resonance spectroscopy, photoemission spectroscopy, Mössbauer spectroscopy and so on.
 
 Mass spectrometry
 
-1_MV_accelerator_mass_spectrometer.jpg used for radiocarbon dating and other analysis]] Mass spectrometry measures mass-to-charge ratio of molecules using electric and magnetic fields. There are several ionization methods: electron impact, chemical ionization, electrospray, fast atom bombardment, matrix assisted laser desorption ionization, and others. Also, mass spectrometry is categorized by approaches of mass analyzers: magnetic-sector, quadrupole mass analyzer, quadrupole ion trap, time-of-flight, Fourier transform ion cyclotron resonance, and so on.
+used for radiocarbon dating and other analysis]] Mass spectrometry measures mass-to-charge ratio of molecules using electric and magnetic fields. There are several ionization methods: electron impact, chemical ionization, electrospray, fast atom bombardment, matrix assisted laser desorption ionization, and others. Also, mass spectrometry is categorized by approaches of mass analyzers: magnetic-sector, quadrupole mass analyzer, quadrupole ion trap, time-of-flight, Fourier transform ion cyclotron resonance, and so on.
 
 Electrochemical analysis
 
@@ -71,7 +69,7 @@ Calorimetry and thermogravimetric analysis measure the interaction of a material
 
 Separation
 
-TLC_black_ink.jpg plate]] Separation processes are used to decrease the complexity of material mixtures. Chromatography, electrophoresis and Field Flow Fractionation are representative of this field.
+plate]] Separation processes are used to decrease the complexity of material mixtures. Chromatography, electrophoresis and Field Flow Fractionation are representative of this field.
 
 Hybrid techniques
 
@@ -81,7 +79,7 @@ Hyphenated separation techniques refers to a combination of two (or more) techni
 
 Microscopy
 
-3D-SIM-3_Prophase_3_color.jpg image of two mouse cell nuclei in prophase (scale bar is 5 µm)[14]]] The visualization of single molecules, single cells, biological tissues and nanomaterials is an important and attractive approach in analytical science. Also, hybridization with other traditional analytical tools is revolutionizing analytical science. Microscopy can be categorized into three different fields: optical microscopy, electron microscopy, and scanning probe microscopy. Recently, this field is rapidly progressing because of the rapid development of the computer and camera industries.
+image of two mouse cell nuclei in prophase (scale bar is 5 µm)[14]]] The visualization of single molecules, single cells, biological tissues and nanomaterials is an important and attractive approach in analytical science. Also, hybridization with other traditional analytical tools is revolutionizing analytical science. Microscopy can be categorized into three different fields: optical microscopy, electron microscopy, and scanning probe microscopy. Recently, this field is rapidly progressing because of the rapid development of the computer and camera industries.
 
 Lab-on-a-chip
 
@@ -120,7 +118,7 @@ Standards
 
 Standard curve
 
-Calibration_curve.png (LOD), limit of quantification (LOQ), dynamic range, and limit of linearity (LOL)]] A general method for analysis of concentration involves the creation of a calibration curve. This allows for determination of the amount of a chemical in a material by comparing the results of unknown sample to those of a series of known standards. If the concentration of element or compound in a sample is too high for the detection range of the technique, it can simply be diluted in a pure solvent. If the amount in the sample is below an instrument's range of measurement, the method of addition can be used. In this method a known quantity of the element or compound under study is added, and the difference between the concentration added, and the concentration observed is the amount actually in the sample.
+(LOD), limit of quantification (LOQ), dynamic range, and limit of linearity (LOL)]] A general method for analysis of concentration involves the creation of a calibration curve. This allows for determination of the amount of a chemical in a material by comparing the results of unknown sample to those of a series of known standards. If the concentration of element or compound in a sample is too high for the detection range of the technique, it can simply be diluted in a pure solvent. If the amount in the sample is below an instrument's range of measurement, the method of addition can be used. In this method a known quantity of the element or compound under study is added, and the difference between the concentration added, and the concentration observed is the amount actually in the sample.
 
 Internal standards
 
@@ -163,7 +161,7 @@ Flicker noise is electronic noise with a 1/_ƒ_ frequency spectrum; as _f_ incre
 
 Environmental noise
 
-Analyse_thermo_gravimetrique_bruit.png; lower noise in the middle of the plot results from less human activity (and environmental noise) at night]] Environmental noise arises from the surroundings of the analytical instrument. Sources of electromagnetic noise are power lines, radio and television stations, wireless devices, Compact fluorescent lamps[19] and electric motors. Many of these noise sources are narrow bandwidth and therefore can be avoided. Temperature and vibration isolation may be required for some instruments.
+; lower noise in the middle of the plot results from less human activity (and environmental noise) at night]] Environmental noise arises from the surroundings of the analytical instrument. Sources of electromagnetic noise are power lines, radio and television stations, wireless devices, Compact fluorescent lamps[19] and electric motors. Many of these noise sources are narrow bandwidth and therefore can be avoided. Temperature and vibration isolation may be required for some instruments.
 
 Noise reduction
 
@@ -172,7 +170,7 @@ Noise reduction can be accomplished either in computer hardware or software. Exa
 
 Applications
 
-Portable_Screening_Devices_(1435)_(8225044148).jpg scientist uses portable near infrared spectroscopy device to detect potentially illegal substances]] Analytical chemistry has applications including in forensic science, bioanalysis, clinical analysis, environmental analysis, and materials analysis. Analytical chemistry research is largely driven by performance (sensitivity, detection limit, selectivity, robustness, dynamic range, linear range, accuracy, precision, and speed), and cost (purchase, operation, training, time, and space). Among the main branches of contemporary analytical atomic spectrometry, the most widespread and universal are optical and mass spectrometry.[21] In the direct elemental analysis of solid samples, the new leaders are laser-induced breakdown and laser ablation mass spectrometry, and the related techniques with transfer of the laser ablation products into inductively coupled plasma. Advances in design of diode lasers and optical parametric oscillators promote developments in fluorescence and ionization spectrometry and also in absorption techniques where uses of optical cavities for increased effective absorption pathlength are expected to expand. The use of plasma- and laser-based methods is increasing. An interest towards absolute (standardless) analysis has revived, particularly in emission spectrometry.
+scientist uses portable near infrared spectroscopy device to detect potentially illegal substances]] Analytical chemistry has applications including in forensic science, bioanalysis, clinical analysis, environmental analysis, and materials analysis. Analytical chemistry research is largely driven by performance (sensitivity, detection limit, selectivity, robustness, dynamic range, linear range, accuracy, precision, and speed), and cost (purchase, operation, training, time, and space). Among the main branches of contemporary analytical atomic spectrometry, the most widespread and universal are optical and mass spectrometry.[21] In the direct elemental analysis of solid samples, the new leaders are laser-induced breakdown and laser ablation mass spectrometry, and the related techniques with transfer of the laser ablation products into inductively coupled plasma. Advances in design of diode lasers and optical parametric oscillators promote developments in fluorescence and ionization spectrometry and also in absorption techniques where uses of optical cavities for increased effective absorption pathlength are expected to expand. The use of plasma- and laser-based methods is increasing. An interest towards absolute (standardless) analysis has revived, particularly in emission spectrometry.
 
 Great effort is being put in shrinking the analysis techniques to chip size. Although there are few examples of such systems competitive with traditional analysis techniques, potential advantages include size/portability, speed, and cost. (micro total analysis system (µTAS) or lab-on-a-chip). Microscale chemistry reduces the amounts of chemicals used.
 

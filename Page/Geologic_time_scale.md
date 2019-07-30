@@ -1,4 +1,4 @@
-Geologic_Clock_with_events_and_periods.svg eon represents the time before fossil record of life on Earth; its upper boundary is now regarded as 4.0 Ga (billion years ago).[1] Other subdivisions reflect the evolution of life; the Archean and Proterozoic are both eons, the Palaeozoic, Mesozoic and Cenozoic are eras of the Phanerozoic eon. The three million year Quaternary period, the time of recognizable humans, is too small to be visible at this scale.]]
+eon represents the time before fossil record of life on Earth; its upper boundary is now regarded as 4.0 Ga (billion years ago).[1] Other subdivisions reflect the evolution of life; the Archean and Proterozoic are both eons, the Palaeozoic, Mesozoic and Cenozoic are eras of the Phanerozoic eon. The three million year Quaternary period, the time of recognizable humans, is too small to be visible at this scale.]]
 
 The GEOLOGIC TIME SCALE (GTS) is a system of chronological dating that relates geological strata (stratigraphy) to time. It is used by geologists, paleontologists, and other Earth scientists to describe the timing and relationships of events that have occurred during Earth's history. The table of geologic time spans, presented here, agree with the nomenclature, dates and standard color codes set forth by the International Commission on Stratigraphy (ICS).
 
@@ -24,8 +24,6 @@ Some other planets and moons in the Solar System have sufficiently rigid structu
 
 
 History and nomenclature of the time scale
-
-Geological_time_spiral.png
 
 Early history
 

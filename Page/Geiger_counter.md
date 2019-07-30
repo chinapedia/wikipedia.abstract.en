@@ -7,7 +7,7 @@ The original detection principle was realized in 1908, at the Victoria Universit
 
 Principle of operation
 
-Geiger-Muller-counter-en.png A Geiger counter consists of a Geiger–Müller tube (the sensing element which detects the radiation) and the processing electronics, which displays the result.
+A Geiger counter consists of a Geiger–Müller tube (the sensing element which detects the radiation) and the processing electronics, which displays the result.
 
 The Geiger–Müller tube is filled with an inert gas such as helium, neon, or argon at low pressure, to which a high voltage is applied. The tube briefly conducts electrical charge when a particle or photon of incident radiation makes the gas conductive by ionization. The ionization is considerably amplified within the tube by the Townsend discharge effect to produce an easily measured detection pulse, which is fed to the processing and display electronics. This large pulse from the tube makes the Geiger counter relatively cheap to manufacture, as the subsequent electronics are greatly simplified.[3] The electronics also generate the high voltage, typically 400–900 volts, that has to be applied to the Geiger–Müller tube to enable its operation. To stop the discharge in the Geiger–Müller tube a little halogen gas or organic material (alcohol) is added to the gas mixture.
 
@@ -26,7 +26,7 @@ There are two main limitations of the Geiger counter. Because the output pulse f
 
 Types and applications
 
-Geiger_counter_2.jpg Geiger_counter_in_use.jpg The intended detection application of a Geiger counter dictates the tube design used. Consequently, there are a great many designs, but they can be generally categorized as "end-window", windowless "thin-walled", "thick-walled", and sometimes hybrids of these types.
+The intended detection application of a Geiger counter dictates the tube design used. Consequently, there are a great many designs, but they can be generally categorized as "end-window", windowless "thin-walled", "thick-walled", and sometimes hybrids of these types.
 
 Particle detection
 
@@ -50,7 +50,7 @@ Above these low energy levels, there is a considerable variance in response to d
 
 Neutron detection
 
-lang=en A variation of the Geiger tube is used to measure neutrons, where the gas used is boron trifluoride or helium-3 and a plastic moderator is used to slow the neutrons. This creates an alpha particle inside the detector and thus neutrons can be counted. A_complete_Geiger_counter,_with_the_Geiger-Muller_tube_70_019.jpg
+A variation of the Geiger tube is used to measure neutrons, where the gas used is boron trifluoride or helium-3 and a plastic moderator is used to slow the neutrons. This creates an alpha particle inside the detector and thus neutrons can be counted.
 
 Gamma measurement—personnel protection and process control
 
@@ -58,7 +58,7 @@ The term "Geiger counter" is commonly used to mean a hand-held survey type meter
 
 Physical design
 
-Geiger_tube_si8b.jpg For hand-held units there are two fundamental physical configurations: the "integral" unit with both detector and electronics in the same unit, and the "two-piece" design which has a separate detector probe and an electronics module connected by a short cable.
+For hand-held units there are two fundamental physical configurations: the "integral" unit with both detector and electronics in the same unit, and the "two-piece" design which has a separate detector probe and an electronics module connected by a short cable.
 
 In the 1930s a mica window was added to the cylindrical design allowing low-penetration radiation to pass through with ease.[18]
 
@@ -77,7 +77,7 @@ In the United Kingdom the National Radiological Protection Board issued a user g
 
 History
 
-PSM_V87_D120_Apparatus_for_counting_alpha_particles.png thumb In 1908 Hans Geiger, under the supervision of Ernest Rutherford at the Victoria University of Manchester (now the University of Manchester), developed an experimental technique for detecting alpha particles that would later be used to develop the Geiger–Müller tube in 1928.[20] This early counter was only capable of detecting alpha particles and was part of a larger experimental apparatus. The fundamental ionization mechanism used was discovered by John Sealy Townsend between 1897 and 1901,[21] and is known as the Townsend discharge, which is the ionization of molecules by ion impact.
+thumb In 1908 Hans Geiger, under the supervision of Ernest Rutherford at the Victoria University of Manchester (now the University of Manchester), developed an experimental technique for detecting alpha particles that would later be used to develop the Geiger–Müller tube in 1928.[20] This early counter was only capable of detecting alpha particles and was part of a larger experimental apparatus. The fundamental ionization mechanism used was discovered by John Sealy Townsend between 1897 and 1901,[21] and is known as the Townsend discharge, which is the ionization of molecules by ion impact.
 
 It was not until 1928 that Geiger and Walther Müller (a PhD student of Geiger) developed the sealed Geiger–Müller tube which used basic ionization principles previously used experimentally. Small and rugged, not only could it detect alpha and beta radiation as prior models had done, but also gamma radiation.[22]See:
 

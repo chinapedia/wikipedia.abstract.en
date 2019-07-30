@@ -13,7 +13,7 @@ The times of Gautama's birth and death are uncertain. Most historians in the ear
 
 Historical context
 
-Mahajanapadas_(c._500_BCE).png The evidence of the early texts suggests that Siddhārtha Gautama was born into the Shakya clan, a community that was on the periphery, both geographically and culturally, of the eastern Indian subcontinent in the 5th century BCE. One of his usual names was "Sakamuni" or "Sakyamunī" ("Sage of the Shakyas"). It was either a small republic, or an oligarchy, and his father was an elected chieftain, or oligarch. According to the Buddhist tradition, Gautama was born in Lumbini, now in modern-day Nepal, and raised in the Shakya capital of Kapilvastu, which may have been either in what is present day Tilaurakot, Nepal or Piprahwa, India. According to Buddhist tradition, he obtained his enlightenment in Bodh Gaya, gave his first sermon in Sarnath, and died in Kushinagar.
+The evidence of the early texts suggests that Siddhārtha Gautama was born into the Shakya clan, a community that was on the periphery, both geographically and culturally, of the eastern Indian subcontinent in the 5th century BCE. One of his usual names was "Sakamuni" or "Sakyamunī" ("Sage of the Shakyas"). It was either a small republic, or an oligarchy, and his father was an elected chieftain, or oligarch. According to the Buddhist tradition, Gautama was born in Lumbini, now in modern-day Nepal, and raised in the Shakya capital of Kapilvastu, which may have been either in what is present day Tilaurakot, Nepal or Piprahwa, India. According to Buddhist tradition, he obtained his enlightenment in Bodh Gaya, gave his first sermon in Sarnath, and died in Kushinagar.
 
 Apart from the Vedic Brahmins, the Buddha's lifetime coincided with the flourishing of influential Śramaṇa schools of thought like Ājīvika, Cārvāka, Jainism, and Ajñana. Brahmajala Sutta records sixty-two such schools of thought. In this context, a śramaṇa refers to one who labors, toils, or exerts themselves (for some higher or religious purpose). It was also the age of influential thinkers like Mahavira,[7] Pūraṇa Kassapa, Makkhali Gosāla, Ajita Kesakambalī, Pakudha Kaccāyana, and Sañjaya Belaṭṭhaputta, as recorded in Samaññaphala Sutta, whose viewpoints the Buddha most certainly must have been acquainted with. Indeed, Sariputta and Moggallāna, two of the foremost disciples of the Buddha, were formerly the foremost disciples of Sañjaya Belaṭṭhaputta, the sceptic; and the Pali canon frequently depicts Buddha engaging in debate with the adherents of rival schools of thought. There is also philological evidence to suggest that the two masters, Alara Kalama and Uddaka Ramaputta, were indeed historical figures and they most probably taught Buddha two different forms of meditative techniques. Thus, Buddha was just one of the many śramaṇa philosophers of that time. In an era where holiness of person was judged by their level of asceticism, Buddha was a reformist within the śramaṇa movement, rather than a reactionary against Vedic Brahminism.
 
@@ -21,9 +21,9 @@ Historically, the life of the Buddha also coincided with the Achaemenid conquest
 
 Earliest sources
 
-Buddha_Sakyamuni_on_the_Rummindei_pillar_of_Ashoka.jpg" (𑀩𑀼𑀥𑁂, the Buddha) and "Sa-kya-mu-nī " ( 𑀲𑀓𑁆𑀬𑀫𑀼𑀦𑀻, "Sage of the Shakyas") in Brahmi script, on Ashoka's Rummindei Minor Pillar Edict (circa 250 BCE).]] No written records about Gautama were found from his lifetime or from the one or two centuries thereafter. In the middle of the 3rd century BCE, several Edicts of Ashoka (reigned c. 269–232 BCE) mention the Buddha, and particularly Ashoka's Rummindei Minor Pillar Edict commemorates the Emperor's pilgrimage to Lumbini as the Buddha's birthplace. Another one of his edicts (Minor Rock Edict No. 3) mentions the titles of several _Dhamma_ texts, establishing the existence of a written Buddhist tradition at least by the time of the Maurya era. These texts may be the precursor of the Pāli Canon.[11]
+" (𑀩𑀼𑀥𑁂, the Buddha) and "Sa-kya-mu-nī " ( 𑀲𑀓𑁆𑀬𑀫𑀼𑀦𑀻, "Sage of the Shakyas") in Brahmi script, on Ashoka's Rummindei Minor Pillar Edict (circa 250 BCE).]] No written records about Gautama were found from his lifetime or from the one or two centuries thereafter. In the middle of the 3rd century BCE, several Edicts of Ashoka (reigned c. 269–232 BCE) mention the Buddha, and particularly Ashoka's Rummindei Minor Pillar Edict commemorates the Emperor's pilgrimage to Lumbini as the Buddha's birthplace. Another one of his edicts (Minor Rock Edict No. 3) mentions the titles of several _Dhamma_ texts, establishing the existence of a written Buddhist tradition at least by the time of the Maurya era. These texts may be the precursor of the Pāli Canon.[11]
 
-Bhagavato_Sakamunino_Bodho_inscription_in_Bharhut.jpg inscription: _Bhagavato Sakamunino Bodho_ (𑀪𑀕𑀯𑀢𑁄 𑀲𑀓𑀫𑀼𑀦𑀺𑀦𑁄 𑀩𑁄𑀥𑁄 "The illumination of the Blessed Sakamuni"), circa 100 BCE.[12]]] "Sakamuni" in also mentioned in the reliefs of Bharhut, dated to circa 100 BCE, in relation with his illumination and the Bodhi tree, with the inscription _Bhagavato Sakamunino Bodho_ ("The illumination of the Blessed Sakamuni").[13]
+inscription: _Bhagavato Sakamunino Bodho_ (𑀪𑀕𑀯𑀢𑁄 𑀲𑀓𑀫𑀼𑀦𑀺𑀦𑁄 𑀩𑁄𑀥𑁄 "The illumination of the Blessed Sakamuni"), circa 100 BCE.[12]]] "Sakamuni" in also mentioned in the reliefs of Bharhut, dated to circa 100 BCE, in relation with his illumination and the Bodhi tree, with the inscription _Bhagavato Sakamunino Bodho_ ("The illumination of the Blessed Sakamuni").[13]
 
 The oldest surviving Buddhist manuscripts are the Gandhāran Buddhist texts, reported to have been found in or around Haḍḍa near Jalalabad in eastern Afghanistan and now preserved in the British Library. They are written in the Gāndhārī language using the Kharosthi script on twenty-seven birch bark manuscripts and date from the first century BCE to the third century CE.[14]
 
@@ -32,7 +32,7 @@ On the basis of philological evidence, Indologist and Pali expert Oskar von Hin�
 
 Traditional biographies
 
-BimaranCasket2.JPG (left) and Śakra (right). Bimaran Casket, mid-1st century CE, British Museum.[17][18]]]
+(left) and Śakra (right). Bimaran Casket, mid-1st century CE, British Museum.[17][18]]]
 
 Biographical sources
 
@@ -42,7 +42,7 @@ From canonical sources come the Jataka tales, the _Mahapadana Sutta_ (DN 14), an
 
 Nature of traditional depictions
 
-Astasahasrika_Prajnaparamita_Queen_Maya_Birth.jpeg miraculously giving birth to Siddhārtha. Sanskrit, palm-leaf manuscript. Nālandā, Bihar, India. Pāla period]] In the earliest Buddhist texts, the nikāyas and āgamas, the Buddha is not depicted as possessing omniscience (_sabbaññu_)[20] nor is he depicted as being an eternal transcendent (_lokottara_) being. According to Bhikkhu Analayo, ideas of the Buddha's omniscience (along with an increasing tendency to deify him and his biography) are found only later, in the Mahayana sutras and later Pali commentaries or texts such as the _Mahāvastu_.[21] In the _Sandaka Sutta_, the Buddha's disciple Ananda outlines an argument against the claims of teachers who say they are all knowing [22] while in the _Tevijjavacchagotta Sutta_ the Buddha himself states that he has never made a claim to being omniscient, instead he claimed to have the "higher knowledges" (abhijñā).[23] The earliest biographical material from the Pali Nikayas focuses on the Buddha's life as a śramaṇa, his search for enlightenment under various teachers such as Alara Kalama and his forty-five-year career as a teacher.[24]
+miraculously giving birth to Siddhārtha. Sanskrit, palm-leaf manuscript. Nālandā, Bihar, India. Pāla period]] In the earliest Buddhist texts, the nikāyas and āgamas, the Buddha is not depicted as possessing omniscience (_sabbaññu_)[20] nor is he depicted as being an eternal transcendent (_lokottara_) being. According to Bhikkhu Analayo, ideas of the Buddha's omniscience (along with an increasing tendency to deify him and his biography) are found only later, in the Mahayana sutras and later Pali commentaries or texts such as the _Mahāvastu_.[21] In the _Sandaka Sutta_, the Buddha's disciple Ananda outlines an argument against the claims of teachers who say they are all knowing [22] while in the _Tevijjavacchagotta Sutta_ the Buddha himself states that he has never made a claim to being omniscient, instead he claimed to have the "higher knowledges" (abhijñā).[23] The earliest biographical material from the Pali Nikayas focuses on the Buddha's life as a śramaṇa, his search for enlightenment under various teachers such as Alara Kalama and his forty-five-year career as a teacher.[24]
 
 Traditional biographies of Gautama generally include numerous miracles, omens, and supernatural events. The character of the Buddha in these traditional biographies is often that of a fully transcendent (Skt. _lokottara_) and perfected being who is unencumbered by the mundane world. In the _Mahāvastu_, over the course of many lives, Gautama is said to have developed supramundane abilities including: a painless birth conceived without intercourse; no need for sleep, food, medicine, or bathing, although engaging in such "in conformity with the world"; omniscience, and the ability to "suppress karma". Nevertheless, some of the more ordinary details of his life have been gathered from these traditional sources. In modern times there has been an attempt to form a secular understanding of Siddhārtha Gautama's life by omitting the traditional supernatural elements of his early biographies.
 
@@ -53,7 +53,7 @@ Biography
 
 Conception and birth
 
-Maya_dream_of_the_Birth_of_Gautama_Siddharta.jpg Birthplacebuddha.jpg, Nepal,[25] a holy shrine also for many non-Buddhists.[26]]]
+, Nepal,[25] a holy shrine also for many non-Buddhists.[26]]]
 
 The Buddhist tradition regards Lumbini, in present-day Nepal to be the birthplace of the Buddha. He grew up in Kapilavastu. The exact site of ancient Kapilavastu is unknown. It may have been either Piprahwa, Uttar Pradesh, in present-day India, or Tilaurakot, in present-day Nepal. Both places belonged to the Sakya territory, and are located only apart.
 
@@ -72,15 +72,13 @@ Early texts suggest that Gautama was not familiar with the dominant religious te
 
 Early life and marriage
 
-Departure_of_Siddhartha.jpg
-
 Siddhartha was brought up by his mother's younger sister, Maha Pajapati. By tradition, he is said to have been destined by birth to the life of a prince and had three palaces (for seasonal occupation) built for him. His father, said to be King Śuddhodana, wishing for his son to be a great king, is said to have shielded him from religious teachings and from knowledge of human suffering. While Śuddhodana has traditionally been depicted as a king, and Siddhartha as his prince, more recent scholarship suggests the Shakya were in-fact organised as a semi-republican oligarchy rather than a monarchy.[27]
 
 When he reached the age of 16, his father reputedly arranged his marriage to a cousin of the same age named Yaśodharā (Pāli: Yasodharā). According to the early Buddhist Texts of several schools, and numerous post-canonical accounts, she gave birth to a son, named Rāhula. Siddhartha is said to have spent 29 years as a prince in Kapilavastu. Although his father ensured that Siddhartha was provided with everything he could want or need, Buddhist scriptures say that the future Buddha felt that material wealth was not life's ultimate goal.
 
 Renunciation and ascetic life
 
-The_Victory_of_Buddha.jpg Great_Departure.JPG, he is accompanied by numerous guards, maithuna loving couples, and devata who have come to pay homage; Gandhara, Kushan period]] Siddharta_Gautama_Borobudur.jpg. Borobudur, 8th century]]
+, he is accompanied by numerous guards, maithuna loving couples, and devata who have come to pay homage; Gandhara, Kushan period]] . Borobudur, 8th century]]
 
 At the age of 29, Siddhartha left his palace to meet his subjects. Despite his father's efforts to hide from him the sick, aged and suffering, Siddhartha was said to have seen an old man. When his charioteer Channa explained to him that all people grew old, the prince went on further trips beyond the palace. On these he encountered a diseased man, a decaying corpse, and an ascetic. These depressed him, and he initially strove to overcome ageing, sickness, and death by living the life of an ascetic.
 
@@ -92,9 +90,9 @@ He left Rajagaha and practised under two hermit teachers of yogic meditation. Af
 
 Awakening
 
-Astasahasrika_Prajnaparamita_Victory_Over_Mara.jpeg. Sanskrit palm leaf manuscript. Nālandā, Bihar, India. Pāla period]] Mahabodhitemple.jpg in Bodh Gaya, India, where Gautama Buddha attained _nirvana_ under the Bodhi Tree (left)]]
+. Sanskrit palm leaf manuscript. Nālandā, Bihar, India. Pāla period]] in Bodh Gaya, India, where Gautama Buddha attained _nirvana_ under the Bodhi Tree (left)]]
 
-According to the early Buddhist texts,[28] after realising that meditative dhyana was the right path to awakening, but that extreme asceticism didn't work, Gautama discovered what Buddhists know as being, the Middle Way[29]—a path of moderation away from the extremes of self-indulgence and self-mortification, or the Noble Eightfold Path, as described in the Dhammacakkappavattana Sutta, which is regarded as the first discourse of the Buddha.[30] In a famous incident, after becoming starved and weakened, he is said to have accepted milk and rice pudding from a village girl named Sujata.[31] Such was his emaciated appearance that she wrongly believed him to be a spirit that had granted her a wish.[32] ปางบำเพ็ญทุกรกิริยา_ประเทศไทย.png in Bangkok representing the stage of his asceticism]] Following this incident, Gautama was famously seated under a pipal tree—now known as the Bodhi tree—in Bodh Gaya, India, when he vowed never to arise until he had found the truth. Kaundinya and four other companions, believing that he had abandoned his search and become undisciplined, ceased to stay with him, and went to somewhere else. After a reputed 49 days of meditation, at the age of 35, he is said to have attained Enlightenment,[33] and became known as the _Buddha_ or "Awakened One" ("Buddha" is also sometimes translated as "The Enlightened One").
+According to the early Buddhist texts,[28] after realising that meditative dhyana was the right path to awakening, but that extreme asceticism didn't work, Gautama discovered what Buddhists know as being, the Middle Way[29]—a path of moderation away from the extremes of self-indulgence and self-mortification, or the Noble Eightfold Path, as described in the Dhammacakkappavattana Sutta, which is regarded as the first discourse of the Buddha.[30] In a famous incident, after becoming starved and weakened, he is said to have accepted milk and rice pudding from a village girl named Sujata.[31] Such was his emaciated appearance that she wrongly believed him to be a spirit that had granted her a wish.[32] in Bangkok representing the stage of his asceticism]] Following this incident, Gautama was famously seated under a pipal tree—now known as the Bodhi tree—in Bodh Gaya, India, when he vowed never to arise until he had found the truth. Kaundinya and four other companions, believing that he had abandoned his search and become undisciplined, ceased to stay with him, and went to somewhere else. After a reputed 49 days of meditation, at the age of 35, he is said to have attained Enlightenment,[33] and became known as the _Buddha_ or "Awakened One" ("Buddha" is also sometimes translated as "The Enlightened One").
 
 According to some sutras of the Pali canon, at the time of his awakening he realised complete insight into the Four Noble Truths, thereby attaining liberation from _samsara_, the endless cycle of rebirth, suffering and dying again.[34] According to scholars, this story of the awakening and the stress on "liberating insight" is a later development in the Buddhist tradition, where the Buddha may have regarded the practice of _dhyana_ as leading to _nirvana_ and _moksha_.
 
@@ -104,7 +102,7 @@ According to a story in the _Āyācana Sutta_ (Samyutta Nikaya VI.1)—a scriptu
 
 Formation of the sangha
 
-Sarnath1.jpg in Sarnath, India, site of the first teaching of the Buddha in which he taught the Four Noble Truths to his first five disciples]] Mulagandhakuti.jpg Monastery, Shravasti, India, Where the Buddha delivered majority of his discourses]]
+in Sarnath, India, site of the first teaching of the Buddha in which he taught the Four Noble Truths to his first five disciples]] Monastery, Shravasti, India, Where the Buddha delivered majority of his discourses]]
 
 After his awakening, the Buddha met Taphussa and Bhallika—two merchant brothers from the city of Balkh in what is currently Afghanistan—who became his first lay disciples. It is said that each was given hairs from his head, which are now claimed to be enshrined as relics in the Shwe Dagon Temple in Rangoon, Burma. The Buddha intended to visit Asita, and his former teachers, Alara Kalama and Udaka Ramaputta, to explain his findings, but they had already died.
 
@@ -114,11 +112,11 @@ All five become arahants, and within the first two months, with the conversion o
 
 Travels and teaching
 
-TheBuddhaAndVajrapaniGandhara2ndCentury.jpg, Gandhāra, 2nd century CE, Ostasiatisches Kunst-Museum]] For the remaining 45 years of his life, the Buddha is said to have traveled in the Gangetic Plain, in what is now Uttar Pradesh, Bihar, and southern Nepal, teaching a diverse range of people: from nobles to servants, murderers such as Angulimala, and cannibals such as Alavaka. Although the Buddha's language remains unknown, it's likely that he taught in one or more of a variety of closely related Middle Indo-Aryan dialects, of which Pali may be a standardisation.
+, Gandhāra, 2nd century CE, Ostasiatisches Kunst-Museum]] For the remaining 45 years of his life, the Buddha is said to have traveled in the Gangetic Plain, in what is now Uttar Pradesh, Bihar, and southern Nepal, teaching a diverse range of people: from nobles to servants, murderers such as Angulimala, and cannibals such as Alavaka. Although the Buddha's language remains unknown, it's likely that he taught in one or more of a variety of closely related Middle Indo-Aryan dialects, of which Pali may be a standardisation.
 
 The sangha traveled through the subcontinent, expounding the dharma. This continued throughout the year, except during the four months of the Vassa rainy season when ascetics of all religions rarely traveled. One reason was that it was more difficult to do so without causing harm to animal life. At this time of year, the sangha would retreat to monasteries, public parks or forests, where people would come to them.
 
-Vulturepeak1.jpg, Rajgir, India where the Atanatiya Sutta was held]]
+, Rajgir, India where the Atanatiya Sutta was held]]
 
 The first vassana was spent at Varanasi when the sangha was formed. After this, the Buddha kept a promise to travel to Rajagaha, capital of Magadha, to visit King Bimbisara. During this visit, Sariputta and Maudgalyayana were converted by Assaji, one of the first five disciples, after which they were to become the Buddha's two foremost followers. The Buddha spent the next three seasons at Veluvana Bamboo Grove monastery in Rajagaha, the capital of Magadha.
 
@@ -134,34 +132,34 @@ Of the Buddha's disciples, Sariputta, Maudgalyayana, Mahakasyapa, Ananda and Anu
 
 In the fifth vassana, the Buddha was staying at Mahavana near Vesali when he heard news of the impending death of his father. He is said to have gone to Suddhodana and taught the dharma, after which his father became an arahant.
 
-The_last_days_of_buddha_teachings.jpg The king's death and cremation were to inspire the creation of an order of nuns. Buddhist texts record that the Buddha was reluctant to ordain women. His foster mother Maha Pajapati, for example, approached him, asking to join the sangha, but he refused. Maha Pajapati, however, was so intent on the path of awakening that she led a group of royal Sakyan and Koliyan ladies, which followed the sangha on a long journey to Rajagaha. In time, after Ananda championed their cause, the Buddha is said to have reconsidered and, five years after the formation of the sangha agreed to the ordination of women as nuns. He reasoned that males and females had an equal capacity for awakening. But he gave women additional rules (Vinaya) to follow.
+The king's death and cremation were to inspire the creation of an order of nuns. Buddhist texts record that the Buddha was reluctant to ordain women. His foster mother Maha Pajapati, for example, approached him, asking to join the sangha, but he refused. Maha Pajapati, however, was so intent on the path of awakening that she led a group of royal Sakyan and Koliyan ladies, which followed the sangha on a long journey to Rajagaha. In time, after Ananda championed their cause, the Buddha is said to have reconsidered and, five years after the formation of the sangha agreed to the ordination of women as nuns. He reasoned that males and females had an equal capacity for awakening. But he gave women additional rules (Vinaya) to follow.
 
 Mahaparinirvana (death)
 
-Astasahasrika_Prajnaparamita_Buddha_Parinirvana.jpeg''. Sanskrit palm leaf manuscript. Nālandā, Bihar, India. Pāla period]]
+''. Sanskrit palm leaf manuscript. Nālandā, Bihar, India. Pāla period]]
 
 According to the _Mahaparinibbana Sutta_ of the Pali canon, at the age of 80, the Buddha announced that he would soon reach _parinirvana_, or the final deathless state, and abandon his earthly body. After this, the Buddha ate his last meal, which he had received as an offering from a blacksmith named Cunda. Falling violently ill, Buddha instructed his attendant Ānanda to convince Cunda that the meal eaten at his place had nothing to do with his passing and that his meal would be a source of the greatest merit as it provided the last meal for a Buddha.[36] Mettanando and von Hinüber argue that the Buddha died of mesenteric infarction, a symptom of old age, rather than food poisoning.[37]
 
-The precise contents of the Buddha's final meal are not clear, due to variant scriptural traditions and ambiguity over the translation of certain significant terms; the Theravada tradition generally believes that the Buddha was offered some kind of pork, while the Mahayana tradition believes that the Buddha consumed some sort of truffle or other mushroom. These may reflect the different traditional views on Buddhist vegetarianism and the precepts for monks and nuns. Buddha's_cremation_stupa,_Kushinagar.jpg (Kushinara).]] Waley suggests that Theravadins would take _suukaramaddava_ (the contents of the Buddha's last meal), which can translate literally as _pig-soft_, to mean "soft flesh of a pig" or "pig's soft-food", that is, after Neumann, a soft food favoured by pigs, assumed to be a truffle. He argues (also after Neumann) that as "plant names tend to be local and dialectical", as there are several plants known to have _suukara-_ (pig) as part of their names,[38] and as Pali Buddhism developed in an area remote from the Buddha's death, _suukaramaddava_ could easily have been a type of plant whose local name was unknown to those in Pali regions. Specifically, local writers writing soon after the Buddha's death knew more about their flora than Theravadin commentator Buddhaghosa who lived hundreds of years and hundreds of kilometers remote in time and space from the events described. Unaware that it may have been a local plant name and with no Theravadin prohibition against eating animal flesh, Theravadins would not have questioned the Buddha eating meat and interpreted the term accordingly. EndAscetism.JPG, Zenyōmitsu-Temple Museum, Tokyo]] According to Buddhist tradition, the Buddha died at Kuśināra (present-day Kushinagar, India), which became a pilgrimage centre. Ananda protested the Buddha's decision to enter _parinirvana_ in the abandoned jungles of Kuśināra of the Malla kingdom. The Buddha, however, is said to have reminded Ananda how Kushinara was a land once ruled by a righteous wheel-turning king and the appropriate place for him to die.
+The precise contents of the Buddha's final meal are not clear, due to variant scriptural traditions and ambiguity over the translation of certain significant terms; the Theravada tradition generally believes that the Buddha was offered some kind of pork, while the Mahayana tradition believes that the Buddha consumed some sort of truffle or other mushroom. These may reflect the different traditional views on Buddhist vegetarianism and the precepts for monks and nuns. (Kushinara).]] Waley suggests that Theravadins would take _suukaramaddava_ (the contents of the Buddha's last meal), which can translate literally as _pig-soft_, to mean "soft flesh of a pig" or "pig's soft-food", that is, after Neumann, a soft food favoured by pigs, assumed to be a truffle. He argues (also after Neumann) that as "plant names tend to be local and dialectical", as there are several plants known to have _suukara-_ (pig) as part of their names,[38] and as Pali Buddhism developed in an area remote from the Buddha's death, _suukaramaddava_ could easily have been a type of plant whose local name was unknown to those in Pali regions. Specifically, local writers writing soon after the Buddha's death knew more about their flora than Theravadin commentator Buddhaghosa who lived hundreds of years and hundreds of kilometers remote in time and space from the events described. Unaware that it may have been a local plant name and with no Theravadin prohibition against eating animal flesh, Theravadins would not have questioned the Buddha eating meat and interpreted the term accordingly. , Zenyōmitsu-Temple Museum, Tokyo]] According to Buddhist tradition, the Buddha died at Kuśināra (present-day Kushinagar, India), which became a pilgrimage centre. Ananda protested the Buddha's decision to enter _parinirvana_ in the abandoned jungles of Kuśināra of the Malla kingdom. The Buddha, however, is said to have reminded Ananda how Kushinara was a land once ruled by a righteous wheel-turning king and the appropriate place for him to die.
 
 The Buddha then asked all the attendant Bhikkhus to clarify any doubts or questions they had and cleared them all in a way which others could not do. They had none. According to Buddhist scriptures, he then finally entered _parinirvana_. The Buddha's final words are reported to have been: "All composite things (Saṅkhāra) are perishable. Strive for your own liberation with diligence" (Pali: 'vayadhammā saṅkhārā appamādena sampādethā'). His body was cremated and the relics were placed in monuments or stupas, some of which are believed to have survived until the present. For example, the Temple of the Tooth or "Dalada Maligawa" in Sri Lanka is the place where what some believe to be the relic of the right tooth of Buddha is kept at present.
 
-Life_Scenes_of_Buddha_-_Birth-Enlightenment-Descent_from_Heaven-First_Sermon-Passing_Away_-_Circa_2nd_Century_CE_-_Rajghat_-_ACCN_00-H-1_-_Government_Museum_-_Mathura_2013-02-23_5843.JPG.]]
+.]]
 
 According to the Pāli historical chronicles of Sri Lanka, the {{IAST and {{IAST, the coronation of Emperor Aśoka (Pāli: Asoka) is 218 years after the death of the Buddha. According to two textual records in Chinese ( and ), the coronation of Emperor Aśoka is 116 years after the death of the Buddha. Therefore, the time of Buddha's passing is either 486 BCE according to Theravāda record or 383 BCE according to Mahayana record. However, the actual date traditionally accepted as the date of the Buddha's death in Theravāda countries is 544 or 545 BCE, because the reign of Emperor Aśoka was traditionally reckoned to be about 60 years earlier than current estimates. In Burmese Buddhist tradition, the date of the Buddha's death is 13 May 544 BCE. whereas in Thai tradition it is 11 March 545 BCE.
 
-At his death, the Buddha is famously believed to have told his disciples to follow no leader. Mahakasyapa was chosen by the sangha to be the chairman of the First Buddhist Council, with the two chief disciples Maudgalyayana and Sariputta having died before the Buddha. Lord_Buddha_-_Hair_Relics.JPG (Colombo).]] While in the Buddha's days he was addressed by the very respected titles Buddha, Shākyamuni, Shākyasimha, Bhante and Bho, he was known after his _parinirvana_ _nirvana_ as _Arihant_, _Bhagavā/Bhagavat/Bhagwān_, _Mahāvira_, _Jina/Jinendra_, _Sāstr_, _Sugata_, and most popularly in scriptures as _Tathāgata_.
+At his death, the Buddha is famously believed to have told his disciples to follow no leader. Mahakasyapa was chosen by the sangha to be the chairman of the First Buddhist Council, with the two chief disciples Maudgalyayana and Sariputta having died before the Buddha. (Colombo).]] While in the Buddha's days he was addressed by the very respected titles Buddha, Shākyamuni, Shākyasimha, Bhante and Bho, he was known after his _parinirvana_ _nirvana_ as _Arihant_, _Bhagavā/Bhagavat/Bhagwān_, _Mahāvira_, _Jina/Jinendra_, _Sāstr_, _Sugata_, and most popularly in scriptures as _Tathāgata_.
 
 Relics
 
-After his death, Buddha's cremation relics were divided amongst 8 royal families and his disciples; centuries later they would be enshrined by King Ashoka into 84,000 stupas.[39] Many supernatural legends surround the history of alleged relics as they accompanied the spread of Buddhism and gave legitimacy to rulers. War_over_the_Buddha's_Relics,_South_Gate,_Stupa_no._1,_Sanchi.jpg, South Gate, Stupa no. 1, Sanchi.[40]
+After his death, Buddha's cremation relics were divided amongst 8 royal families and his disciples; centuries later they would be enshrined by King Ashoka into 84,000 stupas.[39] Many supernatural legends surround the history of alleged relics as they accompanied the spread of Buddhism and gave legitimacy to rulers. , South Gate, Stupa no. 1, Sanchi.[40]
 
 ]]
 
 
 Physical characteristics
 
-Buddha_Victoria_&_Albert.jpg depiction of the Buddha from Hadda, Afghanistan; Victoria and Albert Museum, London.]]
+depiction of the Buddha from Hadda, Afghanistan; Victoria and Albert Museum, London.]]
 
 An extensive and colourful physical description of the Buddha has been laid down in scriptures. A kshatriya by birth, he had military training in his upbringing, and by Shakyan tradition was required to pass tests to demonstrate his worthiness as a warrior in order to marry. He had a strong enough body to be noticed by one of the kings and was asked to join his army as a general. He is also believed by Buddhists to have "the 32 Signs of the Great Man".
 
@@ -193,7 +191,7 @@ Recollection of nine virtues attributed to the Buddha is a common Buddhist medit
 
 Teachings
 
-Pandav_Lena_Buddha.JPG, Nashik.]]
+, Nashik.]]
 
 Use of Brahmanical motifs
 
@@ -211,7 +209,7 @@ According to Schmithausen, there are three positions held by scholars of Buddhis
 
 _Dhyana_ and insight
 
-Kanishka_Buddha_detail.jpg, CE.]] A core problem in the study of early Buddhism is the relation between _dhyana_ and insight. Schmithausen notes that the mention of the four noble truths as constituting "liberating insight", which is attained after mastering the Rupa Jhanas, is a later addition to texts such as Majjhima Nikaya 36.
+, CE.]] A core problem in the study of early Buddhism is the relation between _dhyana_ and insight. Schmithausen notes that the mention of the four noble truths as constituting "liberating insight", which is attained after mastering the Rupa Jhanas, is a later addition to texts such as Majjhima Nikaya 36.
 
 Earliest Buddhism
 
@@ -240,7 +238,7 @@ In time, "liberating insight" became an essential feature of the Buddhist tradit
 
 Other religions
 
-Avatarbuddha.jpg of god Vishnu in a traditional Hindu representation]] Buddha_statue_at_Dwaraka_Tirumala_Temple_02.jpg temple, Andhra Pradesh.]]
+of god Vishnu in a traditional Hindu representation]] temple, Andhra Pradesh.]]
 
 Some Hindus regard Gautama as the 9th avatar of Vishnu.[43] However, Buddha's teachings deny the authority of the Vedas and the concepts of Brahman-Atman.[44][45][46] Consequently Buddhism is generally classified as a _nāstika_ school (heterodox, literally "It is not so") in contrast to the six orthodox schools of Hinduism.[47][48]
 
@@ -286,7 +284,7 @@ Painting
 
 -   Shussan Shaka, a Zen painting motif
 
-Bodleian_MS._Burm._a._12_Life_of_Buddha_03-12.jpg'' or picture book.
+'' or picture book.
 
 ]]
 

@@ -5,7 +5,7 @@ Haiti's total area is , of which is land and is water. Haiti has of coastline an
 
 Climate
 
-Haiti_Köppen.svg The climate is tropical with some variation depending on altitude. Port-au-Prince ranges in January from an average minimum of to an average maximum of ; in July, from . The rainfall pattern is varied, with rain heavier in some of the lowlands and on the northern and eastern slopes of the mountains.
+The climate is tropical with some variation depending on altitude. Port-au-Prince ranges in January from an average minimum of to an average maximum of ; in July, from . The rainfall pattern is varied, with rain heavier in some of the lowlands and on the northern and eastern slopes of the mountains.
 
 Port-au-Prince receives an average annual rainfall of . There are two rainy seasons, April–June and October–November. Haiti is subject to periodic droughts and floods, made more severe by deforestation. Hurricanes are also a menace.
 

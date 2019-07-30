@@ -1,5 +1,3 @@
-Tuscan_archipelago.png
-
 ELBA (, ; ; Ancient Greek: Αἰθαλία, _Aithalia_) is a Mediterranean island in Tuscany, Italy, from the coastal town of Piombino, and the largest island of the Tuscan Archipelago. It is also part of the Arcipelago Toscano National Park,[1] and the third largest island in Italy, after Sicily and Sardinia. It is located in the Tyrrhenian Sea about east of the French island of Corsica.
 
 The island is part of the province of Livorno and is divided into seven municipalities, with a total population of about 30,000 inhabitants which increases considerably during the summer. The municipalities are Portoferraio (which is also the island's principal town), Campo nell'Elba, Capoliveri, Marciana, Marciana Marina, Porto Azzurro, and Rio.
@@ -48,7 +46,7 @@ At the Congress of Vienna, Elba was restored to the Grand Duchy of Tuscany. In 1
 
 The island was liberated from the Germans by the French _1^(er) Corps d'Armée_ on 17 June 1944, in _Opération Brassard_. Faulty intelligence and strong defences made the battle more difficult than expected.[11]
 
-Elba_Drunken_cake.jpg More recently, the island has become famed for its wine and is a noted tourist destination.[12]
+More recently, the island has become famed for its wine and is a noted tourist destination.[12]
 
 
 Transportation

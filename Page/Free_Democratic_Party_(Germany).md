@@ -23,7 +23,7 @@ The Democratic Party of Germany (DPD) was established in Rothenburg ob der Taube
 
 Founding of the party
 
-Bundesarchiv_Bild_146-1983-098-20a,_Heuss.jpg The Free Democratic Party was established on 11–12 December 1948 in Heppenheim, in Hesse, as an association of all 13 liberal state parties in the three Western zones of occupation.[9][10] The proposed name, Liberal Democratic Party (LDP), was rejected by the delegates, who voted 64 to 25 in favour of the name Free Democratic Party (FDP).
+The Free Democratic Party was established on 11–12 December 1948 in Heppenheim, in Hesse, as an association of all 13 liberal state parties in the three Western zones of occupation.[9][10] The proposed name, Liberal Democratic Party (LDP), was rejected by the delegates, who voted 64 to 25 in favour of the name Free Democratic Party (FDP).
 
 The party's first chairman was Theodor Heuss, a member of the Democratic People's Party in Württemberg-Baden; his deputy was Franz Blücher of the FDP in the British zone. The place for the party's foundation was chosen deliberately: it was at the Heppenheim Assembly that the moderate liberals had met in October 1847 before the March Revolution. Some regard the "Heppenheim Assembly", which was held at the Hotel _Halber Mond_ on 10 October 1847, as a meeting of leading liberals that was the beginning of the German Revolution of 1848-49.
 
@@ -31,7 +31,7 @@ The FDP was founded on 11 December 1948 through the merger of nine regional libe
 
 1949–1969: reconstruction of Germany
 
-Schlußstrich_drunter_-_FDP_election_campaign_poster,_Germany_1949.jpg]] In the first elections to the Bundestag on 14 August 1949, the FDP won a vote share of 11.9 percent (with 12 direct mandates, particularly in Baden-Württemberg and Hesse), and thus obtained 52 of 402 seats. In September of the same year the FDP chairman Theodor Heuss was elected the first President of the Federal Republic of Germany. In his 1954 re-election, he received the best election result to date of a President with 871 of 1018 votes (85.6 percent) of the Federal Assembly. Adenauer was also elected on the proposal of the new German President with an extremely narrow majority as the first Chancellor. The FDP participated with the CDU/CSU and the DP in Adenauer's coalition cabinet: they had three ministers: Franz Blücher (Vice-Chancellor), Thomas Dehler (Justice) and Eberhard Wildermuth (housing).
+]] In the first elections to the Bundestag on 14 August 1949, the FDP won a vote share of 11.9 percent (with 12 direct mandates, particularly in Baden-Württemberg and Hesse), and thus obtained 52 of 402 seats. In September of the same year the FDP chairman Theodor Heuss was elected the first President of the Federal Republic of Germany. In his 1954 re-election, he received the best election result to date of a President with 871 of 1018 votes (85.6 percent) of the Federal Assembly. Adenauer was also elected on the proposal of the new German President with an extremely narrow majority as the first Chancellor. The FDP participated with the CDU/CSU and the DP in Adenauer's coalition cabinet: they had three ministers: Franz Blücher (Vice-Chancellor), Thomas Dehler (Justice) and Eberhard Wildermuth (housing).
 
 On the most important economic, social and German national issues, the FDP agreed with their coalition partners, the CDU/CSU. However, the FDP recommended to the bourgeois voters a secular party that refused the religious schools and accused the opposition parties of clericalization. The FDP said they were known also as a consistent representative of the market economy, while the CDU was then dominated nominally from the Ahlen Programme, which allowed a Third Way between capitalism and socialism. Ludwig Erhard, the "father" of the social market economy, had his followers in the early years of the Federal Republic in the Union rather than in the FDP.
 
@@ -53,7 +53,7 @@ In the 1965 federal elections the FDP gained 9.5 percent. The coalition with the
 
 1969–1982: social changes and crises
 
-Bundesarchiv_Bild_146-1989-047-20,_Walter_Scheel.jpg served as Foreign Minister, Vice Chancellor, Acting Chancellor and President of Germany]] On 21 October 1969 began the period after the election of a Social-Liberal coalition with the SPD and the German Chancellor Willy Brandt. Walter Scheel was he who initiated the foreign policy reversal. Despite a very small majority he and Willy Brandt sat by the controversial New Ostpolitik. This policy was within the FDP quite controversial, especially since after the entry into the Federal Government defeats in state elections in North Rhine-Westphalia, Lower Saxony and Saarland on 14 June 1970 followed. In Hanover and Saarbrücken, the party left the parliament.
+served as Foreign Minister, Vice Chancellor, Acting Chancellor and President of Germany]] On 21 October 1969 began the period after the election of a Social-Liberal coalition with the SPD and the German Chancellor Willy Brandt. Walter Scheel was he who initiated the foreign policy reversal. Despite a very small majority he and Willy Brandt sat by the controversial New Ostpolitik. This policy was within the FDP quite controversial, especially since after the entry into the Federal Government defeats in state elections in North Rhine-Westphalia, Lower Saxony and Saarland on 14 June 1970 followed. In Hanover and Saarbrücken, the party left the parliament.
 
 After the federal party congress in Bonn, just a week later supported the policy of the party leadership and Scheel had confirmed in office, founded by Siegfried party rights Zoglmann 11 July 1970 a "non-partisan" organization called the National-Liberal action on the Hohensyburgstraße - to fall with the goal of ending the left-liberal course of the party and Scheel. However, this was not. Zoglmann supported in October 1970 a disapproval resolution of opposition to Treasury Secretary Alexander Möller, Erich Mende, Heinz Starke, and did the same. A little later all three declared their withdrawal from the FDP; Mende and Strong joined the CDU, Zoglmann later founded the German Union _(Deutsche Union)_, which remained a splinter party.
 
@@ -79,7 +79,7 @@ In 1998, the CDU/CSU - FDP coalition lost the federal election, which ended the 
 
 2005 federal election
 
-Freie_Demokratische_Partei,_Deutschland_(logo_-_2005).svg In the 2005 general election the party won 9.8 percent of the vote and 61 federal deputies, an unpredicted improvement from prior opinion polls. It is believed that this was partly due to tactical voting by CDU and Christian Social Union of Bavaria (CSU) alliance supporters who hoped for stronger market-oriented economic reforms than the CDU/CSU alliance called for. However, because the CDU did worse than predicted, the FDP and the CDU/CSU alliance were unable to form a coalition government. At other times, for example after the 2002 federal election, a coalition between the FDP and CDU/CSU was impossible primarily because of the weak results of the FDP.
+In the 2005 general election the party won 9.8 percent of the vote and 61 federal deputies, an unpredicted improvement from prior opinion polls. It is believed that this was partly due to tactical voting by CDU and Christian Social Union of Bavaria (CSU) alliance supporters who hoped for stronger market-oriented economic reforms than the CDU/CSU alliance called for. However, because the CDU did worse than predicted, the FDP and the CDU/CSU alliance were unable to form a coalition government. At other times, for example after the 2002 federal election, a coalition between the FDP and CDU/CSU was impossible primarily because of the weak results of the FDP.
 
 The CDU/CSU parties had achieved the 3rd worst performance in German postwar history with only 35.2 percent of the votes. Therefore, the FDP wasn't able to form a coalition with its preferred partners, the CDU/CSU parties. As a result, the party was considered as a potential member of two other political coalitions, following the election. One possibility was a partnership between the FDP, the Social Democratic Party of Germany (SPD) and the Alliance 90/The Greens, known as a "traffic light coalition", named after the colors of the three parties. This coalition was ruled out, because the FDP considered the Social Democrats and the Greens insufficiently committed to market-oriented economic reform. The other possibility was a CDU-FDP-Green coalition, known as a "Jamaica coalition" because of the colours of the three parties. This coalition wasn't concluded either, since the Greens ruled out participation in any coalition with the CDU/CSU. Instead, the CDU formed a Grand coalition with the SPD, and the FDP entered the opposition. FDP leader Guido Westerwelle became the unofficial leader of the opposition by virtue of the FDP's position as the largest opposition party in the Bundestag.
 
@@ -87,7 +87,7 @@ In the 2009 European parliament elections, the FDP received 11% of the national 
 
 2009–2013: Merkel II government
 
-ChristianLindner-FDP-1.jpg is the party chairman, having succeeded Philipp Rösler in December 2013]] In the national vote on 27 September 2009 the FDP increased its share of the vote by 4.8 percentage points to 14.6%, an all-time record so far. This percentage was enough to offset a decline in the CDU/CSU's vote compared to 2005, to create a CDU-FDP centre-right governing coalition in the Bundestag with a 53% majority of seats. On election night, party leader Westerwelle said his party would work to ensure that civil liberties were respected and that Germany got an "equitable tax system and better education opportunities".[13]
+is the party chairman, having succeeded Philipp Rösler in December 2013]] In the national vote on 27 September 2009 the FDP increased its share of the vote by 4.8 percentage points to 14.6%, an all-time record so far. This percentage was enough to offset a decline in the CDU/CSU's vote compared to 2005, to create a CDU-FDP centre-right governing coalition in the Bundestag with a 53% majority of seats. On election night, party leader Westerwelle said his party would work to ensure that civil liberties were respected and that Germany got an "equitable tax system and better education opportunities".[13]
 
 The party also made gains in the two state elections held at the same time, acquiring sufficient seats for a CDU-FDP coalition in the northernmost state, Schleswig-Holstein, and gaining enough votes in left-leaning Brandenburg to clear the 5% hurdle to enter that state's parliament.
 
@@ -118,7 +118,7 @@ In the federal election of 2017 the party scored 10,7% of votes and re-entered t
 
 Ideology and policies
 
-FDP_Mitgliederentwicklung.svg The FDP is a liberal and classical liberal party, both in the sense of supporting _laissez-faire_ and free market economic policies and in the sense of supporting liberal democracy and socially liberal policies emphasizing the minimization of government interference in individual affairs.[22][23][24][25][26][27] Scholars of political science identify the FDP as closer to the CDU/CSU than to the Social Democratic Party (SPD) on economic issues, but closer to the SPD and the Greens on issues such as civil liberties, education, defense, and foreign policy.[28]
+The FDP is a liberal and classical liberal party, both in the sense of supporting _laissez-faire_ and free market economic policies and in the sense of supporting liberal democracy and socially liberal policies emphasizing the minimization of government interference in individual affairs.[22][23][24][25][26][27] Scholars of political science identify the FDP as closer to the CDU/CSU than to the Social Democratic Party (SPD) on economic issues, but closer to the SPD and the Greens on issues such as civil liberties, education, defense, and foreign policy.[28]
 
 During the 2017 German federal election, the party called for Germany to adopt an immigration channel using a Canada-style points-based immigration system; spend up to 3% of GDP on defense and international security; phase out the solidarity surcharge tax (which was first levied in 1991 to pay for the costs of absorbing East Germany after German reunification); cut taxes by 30 billion euro (twice the amount of the tax cut proposed by the CDU); and improve road infrastructure by spending 2 billion euro annually for each of the next two decades, to be funded by selling government stakes in Deutsche Bahn, Deutsche Telekom, and Deutsche Post.[29] The FDP also called for the improvement of Germany's digital infrastructure, the establishment of a Ministry of Digital Affairs, and greater investment in education.[30] The party also supports allowing dual citizenship (in contrast to the CDU-CSU, which opposes it), but also supports requiring third-generation immigrants to select a single nationality.[31]
 
@@ -227,11 +227,11 @@ bar:2009  color:FDP  from:start till:146 text:14.6 align:center
 bar:2013  color:FDP  from:start till:48  text:4.8  align:center
 bar:2017  color:FDP  from:start till:107 text:10.7 align:center
 
-Guido_Westerwelle_&_Michael_Mronz.jpg (right) and his partner Michael Mronz in 2009]]
+(right) and his partner Michael Mronz in 2009]]
 
 European Parliament
 
-Lambsdorff,_Alexander_Graf-1912.jpg, Vice President of the European Parliament (2014–present)]]
+, Vice President of the European Parliament (2014–present)]]
 
 +---------------+---------------+--------------+-------------------+-----+
 | Election year | No. of        | % of         | No. of            | +/– |
@@ -258,7 +258,7 @@ Lambsdorff,_Alexander_Graf-1912.jpg, Vice President of the European Parliament (
 
 State Parliaments
 
-Bundesarchiv_B_145_Bild-F052013-0020,_Kiel,_FDP-Bundesparteitag,_Klumpp.jpg, interim Minister-President of the Saarland from 26 June 1979 to 5 July 1979]] Reinhold_Maier.jpg, first and only Minister-President of Württemberg-Baden (1946–1952) and first Minister-President of Baden-Württemberg (1952–1953)]]
+, interim Minister-President of the Saarland from 26 June 1979 to 5 July 1979]] , first and only Minister-President of Württemberg-Baden (1946–1952) and first Minister-President of Baden-Württemberg (1952–1953)]]
 
 +------------------------+---------------+---------------+--------------+-------+------------+
 | State Parliament       | Election year | No. of        | % of         | Seats | Government |
@@ -302,7 +302,7 @@ Bundesarchiv_B_145_Bild-F052013-0020,_Kiel,_FDP-Bundesparteitag,_Klumpp.jpg, int
 
 Leadership
 
-Hans-Dietrich_Genscher_Dezember_2007_CJD_Koenigswinter_2.jpg served almost continuously as Foreign Minister and Vice Chancellor from 1974 to 1992]] Wolle-bundestag.jpg]]
+served almost continuously as Foreign Minister and Vice Chancellor from 1974 to 1992]] ]]
 
 Party chairmen
 

@@ -1,4 +1,4 @@
-3-Tasten-Maus_Microsoft.jpg A COMPUTER MOUSE, often simply referred to as a MOUSE, is a hand-held pointing device that detects two-dimensional motion relative to a surface. This motion is typically translated into the motion of a pointer on a display, which allows a smooth control of the graphical user interface. The first public demonstration of a mouse controlling a computer system was in 1968. Originally wired to a computer, many modern mice are cordless, relying on short-range radio communication with the connected system. Mice originally used a ball rolling on a surface to detect motion, but modern mice often have optical sensors that have no moving parts. In addition to moving a cursor, computer mice have one or more buttons to allow operations such as selection of a menu item on a display. Mice often also feature other elements, such as touch surfaces and "wheels", which enable additional control and dimensional input.
+A COMPUTER MOUSE, often simply referred to as a MOUSE, is a hand-held pointing device that detects two-dimensional motion relative to a surface. This motion is typically translated into the motion of a pointer on a display, which allows a smooth control of the graphical user interface. The first public demonstration of a mouse controlling a computer system was in 1968. Originally wired to a computer, many modern mice are cordless, relying on short-range radio communication with the connected system. Mice originally used a ball rolling on a surface to detect motion, but modern mice often have optical sensors that have no moving parts. In addition to moving a cursor, computer mice have one or more buttons to allow operations such as selection of a menu item on a display. Mice often also feature other elements, such as touch surfaces and "wheels", which enable additional control and dimensional input.
 
 
 Naming
@@ -18,21 +18,19 @@ Another early trackball was built by British electrical engineer Kenyon Taylor i
 
 DATAR was similar in concept to Benjamin's display. The trackball used four disks to pick up motion, two each for the X and Y directions. Several rollers provided mechanical support. When the ball was rolled, the pickup discs spun and contacts on their outer rim made periodic contact with wires, producing pulses of output with each movement of the ball. By counting the pulses, the physical movement of the ball could be determined. A digital computer calculated the tracks and sent the resulting data to other ships in a task force using pulse-code modulation radio signals. This trackball used a standard Canadian five-pin bowling ball. It was not patented, since it was a secret military project.[11][12]
 
-Mouse-patents-englebart-rid.png
-
 Douglas Engelbart of the Stanford Research Institute (now SRI International) has been credited in published books by Thierry Bardini,[13] Paul Ceruzzi,[14] Howard Rheingold,[15] and several others[16][17][18] as the inventor of the computer mouse. Engelbart was also recognized as such in various obituary titles after his death in July 2013.[19][20][21][22]
 
 By 1963, Engelbart had already established a research lab at SRI, the Augmentation Research Center (ARC), to pursue his objective of developing both hardware and software computer technology to "augment" human intelligence. That November, while attending a conference on computer graphics in Reno, Nevada, Engelbart began to ponder how to adapt the underlying principles of the planimeter to X-Y coordinate input.[23] On November 14, 1963, he first recorded his thoughts in his personal notebook about something he initially called a "bug," which in a "3-point" form could have a "drop point and 2 orthogonal wheels."[24] He wrote that the "bug" would be "easier" and "more natural" to use, and unlike a stylus, it would stay still when let go, which meant it would be "much better for coordination with the keyboard."[25]
 
 In 1964, Bill English joined ARC, where he helped Engelbart build the first mouse prototype.[26][27] They christened the device the _mouse_ as early models had a cord attached to the rear part of the device which looked like a tail, and in turn resembled the common mouse.[28] As noted above, this "mouse" was first mentioned in print in a July 1965 report, on which English was the lead author.[29][30][31] On 9 December 1968, Engelbart publicly demonstrated the mouse at what would come to be known as The Mother of All Demos. Engelbart never received any royalties for it, as his employer SRI held the patent, which expired before the mouse became widely used in personal computers.[32] In any event, the invention of the mouse was just a small part of Engelbart's much larger project of augmenting human intellect.[33][34]
 
-firstmouseunderside.jpg holding the first computer mouse,[35] showing the wheels that make contact with the working surface]] SRI_Computer_Mouse.jpg
+holding the first computer mouse,[35] showing the wheels that make contact with the working surface]]
 
 Several other experimental pointing-devices developed for Engelbart's oN-Line System (NLS) exploited different body movements – for example, head-mounted devices attached to the chin or nose – but ultimately the mouse won out because of its speed and convenience.[36] The first mouse, a bulky device (pictured) used two potentiometers perpendicular to each other and connected to wheels: the rotation of each wheel translated into motion along one axis.[37] At the time of the "Mother of All Demos", Engelbart's group had been using their second generation, 3-button mouse for about a year.
 
 On October 2, 1968, a mouse device named __ (German for "rolling ball") was described as an optional device for its SIG-100 terminal was developed by the German company Telefunken.[38] As the name suggests and unlike Engelbart's mouse, the Telefunken model already had a ball. It was based on an earlier trackball-like device (also named __) that was embedded into radar flight control desks. This trackball had been developed by a team led by Rainer Mallebrein at Telefunken for the German _Bundesanstalt für Flugsicherung (Federal Air Traffic Control)_ as part of their TR 86 process computer system with its SIG 100-86[39][40] vector graphics terminal.
 
-Telefunken_Rollkugel_RKS_100-86.jpg _RKS 100-86_ for the _TR 86_ computer system]]
+_RKS 100-86_ for the _TR 86_ computer system]]
 
 When the development for the Telefunken main frame began in 1965, Mallebrein and his team came up with the idea of "reversing" the existing into a moveable mouse-like device, so that customers did not have to be bothered with mounting holes for the earlier trackball device. Together with light pens and trackballs, it was offered as an optional input device for their system since 1968. Some Rollkugel mouses installed at the in Munich in 1972 are well preserved in a museum.[41][42] Telefunken considered the invention too unimportant to apply for a patent on it.
 
@@ -100,13 +98,9 @@ The German company Telefunken published on their early ball mouse on 2 October 1
 
 The ball mouse replaced the external wheels with a single ball that could rotate in any direction. It came as part of the hardware package of the Xerox Alto computer. Perpendicular chopper wheels housed inside the mouse's body chopped beams of light on the way to light sensors, thus detecting in their turn the motion of the ball. This variant of the mouse resembled an inverted trackball and became the predominant form used with personal computers throughout the 1980s and 1990s. The Xerox PARC group also settled on the modern technique of using both hands to type on a full-size keyboard and grabbing the mouse when required.
 
-Logitechms48.jpg
-
 The ball mouse has two freely rotating rollers. These are located 90 degrees apart. One roller detects the forward–backward motion of the mouse and other the left–right motion. Opposite the two rollers is a third one (white, in the photo, at 45 degrees) that is spring-loaded to push the ball against the other two rollers. Each roller is on the same shaft as an encoder wheel that has slotted edges; the slots interrupt infrared light beams to generate electrical pulses that represent wheel movement. Each wheel's disc has a pair of light beams, located so that a given beam becomes interrupted or again starts to pass light freely when the other beam of the pair is about halfway between changes.
 
 Simple logic circuits interpret the relative timing to indicate which direction the wheel is rotating. This incremental rotary encoder scheme is sometimes called quadrature encoding of the wheel rotation, as the two optical sensors produce signals that are in approximately quadrature phase. The mouse sends these signals to the computer system via the mouse cable, directly as logic signals in very old mice such as the Xerox mice, and via a data-formatting IC in modern mice. The driver software in the system converts the signals into motion of the mouse cursor along X and Y axes on the computer screen.
-
-HawleyMarkIImice.jpg
 
 The ball is mostly steel, with a precision spherical rubber surface. The weight of the ball, given an appropriate working surface under the mouse, provides a reliable grip so the mouse's movement is transmitted accurately. Ball mice and wheel mice were manufactured for Xerox by Jack Hawley, doing business as The Mouse House in Berkeley, California, starting in 1975.[53][54] Based on another invention by Jack Hawley, proprietor of the Mouse House, Honeywell produced another type of mechanical mouse.[55][56] Instead of a ball, it had two wheels rotating at off axes. Key Tronic later produced a similar product.[57]
 
@@ -115,8 +109,6 @@ Modern computer mice took form at the École Polytechnique Fédérale de Lausann
 Another type of mechanical mouse, the "analog mouse" (now generally regarded as obsolete), uses potentiometers rather than encoder wheels, and is typically designed to be plug compatible with an analog joystick. The "Color Mouse", originally marketed by RadioShack for their Color Computer (but also usable on MS-DOS machines equipped with analog joystick ports, provided the software accepted joystick input) was the best-known example.
 
 Optical and laser mice
-
-HP_Mouse_M-U0031-O-1681.jpg
 
 Optical mice rely entirely on one or more light-emitting diodes (LEDs) and an imaging array of photodiodes to detect movement relative to the underlying surface, eschewing the internal moving parts a mechanical mouse uses in addition to its optics. A laser mouse is an optical mouse that uses coherent (laser) light.
 
@@ -148,11 +140,9 @@ Tablet digitizers are sometimes used with accessories called pucks, devices whic
 
 Ergonomic mice
 
-Delux_M618_vertical_mouse.jpg As the name suggests, this type of mouse is intended to provide optimum comfort and avoid injuries such as carpal tunnel syndrome, arthritis and other repetitive strain injuries. It is designed to fit natural hand position and movements, to reduce discomfort.
+As the name suggests, this type of mouse is intended to provide optimum comfort and avoid injuries such as carpal tunnel syndrome, arthritis and other repetitive strain injuries. It is designed to fit natural hand position and movements, to reduce discomfort.
 
 When holding a typical mouse, ulna and radius bones on the arm are crossed. Some designs attempt to place the palm more vertically, so the bones take more natural parallel position.[72] Some limit wrist movement, encouraging arm movement instead, that may be less precise but more optimal from the health point of view. A mouse may be angled from the thumb downward to the opposite side – this is known to reduce wrist pronation.[73] However such optimizations make the mouse right or left hand specific, making more problematic to change the tired hand. Time magazine has criticized manufacturers for offering few or no left-handed ergonomic mice: "Oftentimes I felt like I was dealing with someone who’d never actually met a left-handed person before."[74]
-
-Roller_bar_mouse.JPG
 
 Another solution is a pointing bar device. The so-called _roller bar mouse_ is positioned snugly in front of the keyboard, thus allowing bi-manual accessibility.[75]
 
@@ -167,15 +157,13 @@ These mice are specifically designed for use in computer games. They typically e
 
 Connectivity and communication protocols
 
-MS-Arc-Mouse.jpg, marketed as "travel-friendly" and foldable but otherwise operated exactly like other 3-button wheel-based optical mice]] To transmit their input, typical cabled mice use a thin electrical cord terminating in a standard connector, such as RS-232C, PS/2, ADB or USB. Cordless mice instead transmit data via infrared radiation (see IrDA) or radio (including Bluetooth), although many such cordless interfaces are themselves connected through the aforementioned wired serial buses.
+, marketed as "travel-friendly" and foldable but otherwise operated exactly like other 3-button wheel-based optical mice]] To transmit their input, typical cabled mice use a thin electrical cord terminating in a standard connector, such as RS-232C, PS/2, ADB or USB. Cordless mice instead transmit data via infrared radiation (see IrDA) or radio (including Bluetooth), although many such cordless interfaces are themselves connected through the aforementioned wired serial buses.
 
 While the electrical interface and the format of the data transmitted by commonly available mice is currently standardized on USB, in the past it varied between different manufacturers. A bus mouse used a dedicated interface card for connection to an IBM PC or compatible computer.
 
 Mouse use in DOS applications became more common after the introduction of the Microsoft Mouse, largely because Microsoft provided an open standard for communication between applications and mouse driver software. Thus, any application written to use the Microsoft standard could use a mouse with a driver that implements the same API, even if the mouse hardware itself was incompatible with Microsoft's. This driver provides the state of the buttons and the distance the mouse has moved in units that its documentation calls "mickeys",[84] as does the Allegro library.[85]
 
 Early mice
-
-Mouse_quadrature_encoding_Lyon_1980.png
 
 In the 1970s, the Xerox Alto mouse, and in the 1980s the Xerox optical mouse, used a quadrature-encoded X and Y interface. This two-bit encoding per dimension had the property that only one bit of the two would change at a time, like a Gray code or Johnson counter, so that the transitions would not be misinterpreted when asynchronously sampled.[86]
 
@@ -189,13 +177,13 @@ Because the IBM PC did not have a quadrature decoder built in, early PC mice use
 
 Apple Desktop Bus
 
-Apple_Macintosh_Plus_mouse.jpg mice: beige mouse (left), platinum mouse (right), 1986]]
+mice: beige mouse (left), platinum mouse (right), 1986]]
 
 In 1986 Apple first implemented the Apple Desktop Bus allowing the daisy-chaining (linking together) of up to 16 devices, including mice and other devices on the same bus with no configuration whatsoever. Featuring only a single data pin, the bus used a purely polled approach to computer/device communications and survived as the standard on mainstream models (including a number of non-Apple workstations) until 1998 when iMac joined the industry-wide switch to using USB. Beginning with the Bronze Keyboard PowerBook G3 in May 1999, Apple dropped the external ADB port in favor of USB, but retained an internal ADB connection in the PowerBook G4 for communication with its built-in keyboard and trackpad until early 2005.
 
 PS/2 interface and protocol
 
-ps-2-ports.jpg With the arrival of the IBM PS/2 personal-computer series in 1987, IBM introduced the eponymous PS/2 interface for mice and keyboards, which other manufacturers rapidly adopted. The most visible change was the use of a round 6-pin mini-DIN, in lieu of the former 5-pin connector. In default mode (called _stream mode_) a PS/2 mouse communicates motion, and the state of each button, by means of 3-byte packets.[88] For any motion, button press or button release event, a PS/2 mouse sends, over a bi-directional serial port, a sequence of three bytes, with the following format:
+With the arrival of the IBM PS/2 personal-computer series in 1987, IBM introduced the eponymous PS/2 interface for mice and keyboards, which other manufacturers rapidly adopted. The most visible change was the use of a round 6-pin mini-DIN, in lieu of the former 5-pin connector. In default mode (called _stream mode_) a PS/2 mouse communicates motion, and the state of each button, by means of 3-byte packets.[88] For any motion, button press or button release event, a PS/2 mouse sends, over a bi-directional serial port, a sequence of three bytes, with the following format:
 
            Bit 7        Bit 6   Bit 5   Bit 4   Bit 3   Bit 2   Bit 1   Bit 0
   -------- ------------ ------- ------- ------- ------- ------- ------- -------
@@ -241,7 +229,7 @@ There have also been propositions of having a single operator use two mice simul
 
 Buttons
 
-Razer_Naga_2014_MMO_Gaming_Mouse_(14714867599).jpg Mouse buttons are microswitches which can be pressed to select or interact with an element of a graphical user interface, producing a distinctive clicking sound.
+Mouse buttons are microswitches which can be pressed to select or interact with an element of a graphical user interface, producing a distinctive clicking sound.
 
 Since around the late 1990s, the three-button scrollmouse has become the de facto standard. Users most commonly employ the second button to invoke a contextual menu in the computer's software user interface, which contains options specifically tailored to the interface element over which the mouse cursor currently sits. By default, the primary mouse button sits located on the left-hand side of the mouse, for the benefit of right-handed users; left-handed users can usually reverse this configuration via software.
 
@@ -273,7 +261,7 @@ Most optical and laser mice do not require a pad, the notable exception being ea
 
 In the marketplace
 
-Assorted_computer_mice_-_MfK_Bern.jpg Around 1981, Xerox included mice with its Xerox Star, based on the mouse used in the 1970s on the Alto computer at Xerox PARC. Sun Microsystems, Symbolics, Lisp Machines Inc., and Tektronix also shipped workstations with mice, starting in about 1981. Later, inspired by the Star, Apple Computer released the Apple Lisa, which also used a mouse. However, none of these products achieved large-scale success. Only with the release of the Apple Macintosh in 1984 did the mouse see widespread use.[100]
+Around 1981, Xerox included mice with its Xerox Star, based on the mouse used in the 1970s on the Alto computer at Xerox PARC. Sun Microsystems, Symbolics, Lisp Machines Inc., and Tektronix also shipped workstations with mice, starting in about 1981. Later, inspired by the Star, Apple Computer released the Apple Lisa, which also used a mouse. However, none of these products achieved large-scale success. Only with the release of the Apple Macintosh in 1984 did the mouse see widespread use.[100]
 
 The Macintosh design,[101] commercially successful and technically influential, led many other vendors to begin producing mice or including them with their other computer products (by 1986, Atari ST, Amiga, Windows 1.0, GEOS for the Commodore 64, and the Apple IIGS).[102]
 
@@ -282,7 +270,7 @@ The widespread adoption of graphical user interfaces in the software of the 1980
 
 Use in games
 
-Logitech-G5-Mouse-Rust.jpg laser mouse designed for gaming]]
+laser mouse designed for gaming]]
 
 The Classic Mac OS Desk Accessory _Puzzle_ in 1984 was the first game designed specifically for a mouse.[104] The device often functions as an interface for PC-based computer games and sometimes for video game consoles.
 
@@ -310,7 +298,7 @@ After id Software's commercial hit of _Doom_, which did not support vertical aim
 
 Home consoles
 
-Sega-Dreamcast-Mouse-BL.jpg mouse.]] In 1988, the VTech Socrates educational video game console featured a wireless mouse with an attached mouse pad as an optional controller used for some games. In the early 1990s, the Super Nintendo Entertainment System video game system featured a mouse in addition to its controllers. The _Mario Paint_ game in particular used the mouse's capabilities[108] as did its successor on the N64. Sega released official mice for their Genesis/Mega Drive, Saturn and Dreamcast consoles. NEC sold official mice for its PC Engine and PC-FX consoles. Sony released an official mouse product for the PlayStation console, included one along with the Linux for PlayStation 2 kit, as well as allowing owners to use virtually any USB mouse with the PS2, PS3, and PS4. Nintendo's Wii also had this added on in a later software update, retained on the Wii U.
+mouse.]] In 1988, the VTech Socrates educational video game console featured a wireless mouse with an attached mouse pad as an optional controller used for some games. In the early 1990s, the Super Nintendo Entertainment System video game system featured a mouse in addition to its controllers. The _Mario Paint_ game in particular used the mouse's capabilities[108] as did its successor on the N64. Sega released official mice for their Genesis/Mega Drive, Saturn and Dreamcast consoles. NEC sold official mice for its PC Engine and PC-FX consoles. Sony released an official mouse product for the PlayStation console, included one along with the Linux for PlayStation 2 kit, as well as allowing owners to use virtually any USB mouse with the PS2, PS3, and PS4. Nintendo's Wii also had this added on in a later software update, retained on the Wii U.
 
 
 See also

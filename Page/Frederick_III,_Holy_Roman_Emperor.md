@@ -22,7 +22,7 @@ In 1452, at the age of 37, Frederick III travelled to Italy to receive his bride
 
 Personality
 
-200 px of Frederick III]]
+of Frederick III]]
 
 Frederick's style of rulership was marked by hesitation and a sluggish pace of decision making. The Italian humanist Enea Silvio Piccolomini, later Pope Pius II, who at one time worked at Frederick's court, described the Emperor as a person who wanted to conquer the world while remaining seated. Although this was regarded as a character flaw in older academic research, his delaying tactics are now viewed as a means of coping with political challenges in far-flung territorial possessions. Frederick is credited with having the ability to sit out difficult political situations patiently.[4]
 
@@ -31,13 +31,13 @@ According to contemporary accounts, Frederick had difficulties developing emotio
 
 Emperor
 
-Pintoricchio_002a.jpg introduces Eleonora of Portugal to Frederick III'' by Pinturicchio (1454–1513)]]
+introduces Eleonora of Portugal to Frederick III'' by Pinturicchio (1454–1513)]]
 
 Frederick's political initiatives were hardly bold, but they were still successful. His first major opponent was his brother Albert VI, who challenged his rule. He did not manage to win a single conflict on the battlefield against him, and thus resorted to more subtle means. He held his second cousin once removed Ladislaus the Posthumous, the ruler of the Archduchy of Austria, Hungary and Bohemia, (born in 1440) as a prisoner and attempted to extend his guardianship over him in perpetuity to maintain his control over Lower Austria. Ladislaus was freed in 1452 by the Lower Austrian estates. He acted similarly towards his first cousin Sigismund of the Tyrolian line of the Habsburg family. Despite those efforts, he failed to gain control over Hungary and Bohemia in the Bohemian–Hungarian War (1468–78) and was even defeated in the Austrian–Hungarian War (1477–88) by the Hungarian King Matthias Corvinus in 1485, who managed to maintain residence in Vienna until his death five years later in the Siege of Vienna.
 
 Ultimately, Frederick prevailed in all those conflicts by outliving his opponents and sometimes inheriting their lands, as was the case with Ladislaus, from whom he gained Lower Austria in 1457, and with his brother Albert VI, whom he succeeded in Upper Austria. In 1462, his brother Albert raised an insurrection against him in Vienna and the emperor was besieged in his residence by rebellious subjects. In this war between the brothers, Frederick received support from the King of Bohemia, George of Poděbrady. These conflicts forced him into an anachronistic itinerant existence, as he had to move his court between various places through the years, residing in Graz, Linz and .[6] owes him its castle and the "New Monastery".
 
-166Friedrich_III_und_Karl_von_Burgund.jpg]]
+]]
 
 Still, in some ways his policies were astonishingly successful. In the Siege of Neuss (1474–75), he forced Charles the Bold of Burgundy to give up his daughter Mary of Burgundy as wife to Frederick's son Maximilian. With the inheritance of Burgundy, the House of Habsburg began to rise to predominance in Europe. This gave rise to the saying "Let others wage wars, but you, happy Austria, shall marry", which became a motto of the dynasty.
 
@@ -47,12 +47,10 @@ The marriage of his daughter Kunigunde to Albert IV, Duke of Bavaria, was anothe
 
 In some smaller matters, Frederick was quite successful: in 1469 he managed to establish bishoprics in Vienna and , a step that no previous Duke of Austria had been able to achieve.
 
-Niederösterreichische_Landesausstellung_2019_-_Friedrich_III_im_Alter.jpg Frederick's personal motto was the mysterious string A.E.I.O.U., which he imprinted on all his belongings. He never explained its meaning, leading to many different interpretations being presented, although it has been claimed that shortly before his death he said it stands for __ or __ ("All the world is subject to Austria"). It may well symbolise his own understanding of the historical importance and meaning of his rule and of the early gaining of the Imperial title.[7]
+Frederick's personal motto was the mysterious string A.E.I.O.U., which he imprinted on all his belongings. He never explained its meaning, leading to many different interpretations being presented, although it has been claimed that shortly before his death he said it stands for __ or __ ("All the world is subject to Austria"). It may well symbolise his own understanding of the historical importance and meaning of his rule and of the early gaining of the Imperial title.[7]
 
 
 Marriage and children
-
-Frederick_III_and_Eleanor_of_Portugal.jpg
 
 Frederick had five children from his marriage with Eleanor of Portugal:
 
@@ -71,23 +69,23 @@ For the last 10 years of Frederick's life, he and Maximilian ruled jointly.
 
 Death
 
-Wien_-_Stephansdom,_Grabmal_Kaiser_Friedrichs_III.JPG In his last years Friedrich remained in the region on the Danube, in Vienna and in Linz. In 1492 he was elected Knight of the Order of the Golden Fleece. Since February 1493, Frederick's health deteriorated increasingly. In the Lent of 1493, Friedrich's personal physicians diagnosed Kaiser in the left leg as a symptom, usually referred to as age-burning, in the research literature, which according to current medical terminology is considered to be the result of arteriosclerosis. On 8 June 1493 he was amputated under the direction of the surgeon Hans Seyff in the Linz castle of the affected area of the leg. This leg amputation is considered one of the most famous and best-documented surgical procedures of the entire Middle Ages. Although Frederick initially survived the procedure well, he died on 19 August 1493 in Linz at the age of 77. The contemporaries cited as the cause of death the consequences of leg amputation, senility or rapid diarrhea caused by melon consumption. His bowels were probably buried separately on 24 August 1493 in the Linz parish church. The arrival of Turks in Carinthia and the Krain delayed the arrival of Maximilian and with it the funeral service. On 6 and 7 December 1493, the funeral took place in St. Stephen's Cathedral. [5]
+In his last years Friedrich remained in the region on the Danube, in Vienna and in Linz. In 1492 he was elected Knight of the Order of the Golden Fleece. Since February 1493, Frederick's health deteriorated increasingly. In the Lent of 1493, Friedrich's personal physicians diagnosed Kaiser in the left leg as a symptom, usually referred to as age-burning, in the research literature, which according to current medical terminology is considered to be the result of arteriosclerosis. On 8 June 1493 he was amputated under the direction of the surgeon Hans Seyff in the Linz castle of the affected area of the leg. This leg amputation is considered one of the most famous and best-documented surgical procedures of the entire Middle Ages. Although Frederick initially survived the procedure well, he died on 19 August 1493 in Linz at the age of 77. The contemporaries cited as the cause of death the consequences of leg amputation, senility or rapid diarrhea caused by melon consumption. His bowels were probably buried separately on 24 August 1493 in the Linz parish church. The arrival of Turks in Carinthia and the Krain delayed the arrival of Maximilian and with it the funeral service. On 6 and 7 December 1493, the funeral took place in St. Stephen's Cathedral. [5]
 
 His grave, built by Nikolaus Gerhaert von Leyden, in St. Stephen's Cathedral, Vienna, is one of the most important works of sculptural art of the late Middle Ages. (His amputated leg was buried with him.) The heavily adorned tomb was not completed until 1513, two decades after Frederick's death, and has survived in its original condition.[8] {{-}}
 
 
 Heraldry
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Heraldry of Frederick III, Holy Roman Emperor                                                                                                                              |
-+============================================================================================================================================================================+
-| +----------------------------------------------------------+------------------------------------------------------------+------------------------------------------------+ |
-| | Coat_of_Arms_of_the_King_of_the_Romans_(c.1433-1486).svg | Coat_of_Arms_of_the_Holy_Roman_Emperor_(c.1433-c.1450).svg | CoA_Frederick_III_of_Habsburg.svg              | |
-| +----------------------------------------------------------+------------------------------------------------------------+------------------------------------------------+ |
-| | Coat of arms as King of the Romans                       | Coat of arms as Holy Roman Emperor                         | Alternative coat of arms as Holy Roman Emperor | |
-| | (1440–1493)                                              | (1452–1493)                                                | (1452–1493)                                    | |
-| +----------------------------------------------------------+------------------------------------------------------------+------------------------------------------------+ |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++------------------------------------------------------------------------------------------------------------------------------+
+| Heraldry of Frederick III, Holy Roman Emperor                                                                                |
++==============================================================================================================================+
+| +------------------------------------+------------------------------------+------------------------------------------------+ |
+| |                                    |                                    |                                                | |
+| +------------------------------------+------------------------------------+------------------------------------------------+ |
+| | Coat of arms as King of the Romans | Coat of arms as Holy Roman Emperor | Alternative coat of arms as Holy Roman Emperor | |
+| | (1440–1493)                        | (1452–1493)                        | (1452–1493)                                    | |
+| +------------------------------------+------------------------------------+------------------------------------------------+ |
++------------------------------------------------------------------------------------------------------------------------------+
 
 
 Ancestry

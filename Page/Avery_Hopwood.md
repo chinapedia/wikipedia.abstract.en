@@ -19,7 +19,7 @@ The early sound film _The Bat Whispers_ played an influence on Bob Kane's Batman
 
 Personal life
 
-Avery_Hopwood_&_Rose_Rolanda.jpg, 1924]] In 1906, Hopwood was introduced to writer and photographer Carl Van Vechten. The two became close friends and were sometimes sexual partners.[8] In the 1920s Hopwood had a tumultuous and abusive romantic relationship with fellow Cleveland-born playwright John Floyd.[9] Although Hopwood announced to the press in 1924 that he was engaged to vaudeville dancer and choreographer Rosa Rolanda, Van Vechten confirmed in later years that it was a publicity stunt. Rolanda would later marry caricaturist Miguel Covarrubias.
+, 1924]] In 1906, Hopwood was introduced to writer and photographer Carl Van Vechten. The two became close friends and were sometimes sexual partners.[8] In the 1920s Hopwood had a tumultuous and abusive romantic relationship with fellow Cleveland-born playwright John Floyd.[9] Although Hopwood announced to the press in 1924 that he was engaged to vaudeville dancer and choreographer Rosa Rolanda, Van Vechten confirmed in later years that it was a publicity stunt. Rolanda would later marry caricaturist Miguel Covarrubias.
 
 On July 1, 1928, at Juan-les-Pins on the French Riviera, Hopwood was accidentally drowned.[10] He was buried in Riverside Cemetery, Cleveland.[11] His mother, Jule Hopwood, inherited a large trust from him, but he had not made arrangements for the disposition of other items, including literary rights. While she was working through the legal issues with his estate, Jule Hopwood fell ill and died on March 1, 1929. She was buried next to her son.[12]
 
@@ -39,7 +39,7 @@ Throughout his life, Hopwood worked on a novel that he hoped would "expose" the 
 
 Works
 
-"Why_men_leave_home"_by_Avery_Hopwood_LCCN98516874.jpg poster for Hopwood's 1922 play _Why Men Leave Home_]] Hopwood.jpeg
+poster for Hopwood's 1922 play _Why Men Leave Home_]]
 
 -   _Clothes_ (1906) with Channing Pollock
 -   _This Woman and This Man_ (1909)

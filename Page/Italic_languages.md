@@ -1,4 +1,4 @@
-Iron_Age_Italy.png The ITALIC LANGUAGES are a branch of the Indo-European language family, whose earliest known members were spoken in the Italian peninsula in the first millennium BC. The best-known member is Latin, the only language of the group that survived into the common era. All other Italic languages became extinct by the 1st century BC, when their speakers were assimilated into the Roman Empire and switched to some form of Latin. Those extinct members are known only from inscriptions in archaeological finds.
+The ITALIC LANGUAGES are a branch of the Indo-European language family, whose earliest known members were spoken in the Italian peninsula in the first millennium BC. The best-known member is Latin, the only language of the group that survived into the common era. All other Italic languages became extinct by the 1st century BC, when their speakers were assimilated into the Roman Empire and switched to some form of Latin. Those extinct members are known only from inscriptions in archaeological finds.
 
 Besides Latin, the known languages from that time period that are usually considered "Italic" include Umbrian and Oscan (or Osco-Umbrian), Faliscan, and South Picene. Other Indo-European languages once spoken in the peninsula, whose inclusion in the Italic branch is still disputed, are Aequian, Vestinian, Venetic, and Sicel.
 
@@ -22,7 +22,7 @@ However, this unitary scheme has been criticized by, among others, Alois Walde (
 
 History of the languages
 
-Italic-map.png; N2, Etruscan: N3, North Picene (Picene of Novilara); N4, Ligurian; N5, Nuragic; N6, Elymian; N7, Sicanian; C1, Lepontic; C2, Gaulish; I1, South Picene; I2, Umbrian; I3, Sabine; I4, Faliscan; I5, Latin; I6, Volscian and Hernican; I7, Central Italic (Marsian, Aequian, Paeligni, Marrucinian, Vestinian); I8, Oscan, Sidicini, Pre-Samnite; I9, Sicel; IE1, Venetic; IE2, Messapian; G1-G2-G3, Greek dialects (G1: Ionic, G2: Aeolic, G3: Doric); P1, Punic.]]
+; N2, Etruscan: N3, North Picene (Picene of Novilara); N4, Ligurian; N5, Nuragic; N6, Elymian; N7, Sicanian; C1, Lepontic; C2, Gaulish; I1, South Picene; I2, Umbrian; I3, Sabine; I4, Faliscan; I5, Latin; I6, Volscian and Hernican; I7, Central Italic (Marsian, Aequian, Paeligni, Marrucinian, Vestinian); I8, Oscan, Sidicini, Pre-Samnite; I9, Sicel; IE1, Venetic; IE2, Messapian; G1-G2-G3, Greek dialects (G1: Ionic, G2: Aeolic, G3: Doric); P1, Punic.]]
 
 The languages of Italy in the Iron Age
 
@@ -30,7 +30,7 @@ At the start of the Iron Age, around 700 BC, Ionian Greek settlers from Euboea e
 
 The inscriptions show that, by 700 BC, many languages were spoken in the region, including members of several branches of Indo-European and several non-Indo-European languages. The most important of the latter was Etruscan, attested by evidence from more than 10,000 inscriptions and some short texts. No relation has been found between Etruscan and any other known language, and there is still no clue about its possible origin (except for inscriptions on the island of Lemnos in the eastern Mediterranean). Other possibly non-Indo-European languages present at the time were Rhaetian in the Alpine region, Ligurian around present-day Genoa, and some unidentified language in Sardinia. Those languages have left detectable imprint in the Italic ones.
 
-The following language groups, which were (or may have been) subgroups of the Italic languages, have their existence attested in the Italian peninsula in the 1st millennium BC, by inscriptions and historical sources. The classification follows mostly F. Villar.[6] Linguistic_Landscape_of_Central_Italy.png
+The following language groups, which were (or may have been) subgroups of the Italic languages, have their existence attested in the Italian peninsula in the 1st millennium BC, by inscriptions and historical sources. The classification follows mostly F. Villar.[6]
 
 -   LATINO-FALISCAN or WESTERN ITALIC LANGUAGES: These languages were spoken in a fairly small territory est of the Apennines, spanning from about 50 km north to about 40 km south of Rome, and west from it to the coast.
     -   Faliscan, which was spoken in the area around Falerii Veteres (modern Civita Castellana) north of the city of Rome
@@ -211,7 +211,7 @@ The following table shows a lexical comparison of several Italic languages:
 
 The asterisk indicates reconstructed forms based on indirect linguistic evidence and not forms directly attested in any inscription.
 
-Centum_Satem_map.png.]] From the point of view of Proto-Indo-European, the Italic languages are fairly conservative. In phonology, the Italic languages are centum languages by merging the palatals with the velars (Latin _centum_ has a /k/) but keeping the combined group separate from the labio-velars. In morphology, the Italic languages preserve six cases in the noun and the adjective (nominative, accusative, genitive, dative, ablative, vocative) with traces of a seventh (locative), but the dual of both the noun and the verb has completely disappeared. From the position of both morphological innovations and uniquely shared lexical items, Italic shows the greatest similarities with Celtic and Germanic, with some of the shared lexical correspondences also being found in Baltic and Slavic.[24]
+.]] From the point of view of Proto-Indo-European, the Italic languages are fairly conservative. In phonology, the Italic languages are centum languages by merging the palatals with the velars (Latin _centum_ has a /k/) but keeping the combined group separate from the labio-velars. In morphology, the Italic languages preserve six cases in the noun and the adjective (nominative, accusative, genitive, dative, ablative, vocative) with traces of a seventh (locative), but the dual of both the noun and the verb has completely disappeared. From the position of both morphological innovations and uniquely shared lexical items, Italic shows the greatest similarities with Celtic and Germanic, with some of the shared lexical correspondences also being found in Baltic and Slavic.[24]
 
 P-Italic and Q-Italic languages
 

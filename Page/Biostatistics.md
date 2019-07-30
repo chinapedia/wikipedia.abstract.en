@@ -85,7 +85,7 @@ Genes = 2, 3, 3, 4, 5, 3, 3, 3, 3, 4
 
 -   LINE GRAPH
 
-Examples_of_descriptive_tools.png for the December months from 2010 to 2016; Figure C: EXAMPLE OF BOX PLOT: number of glycines in the proteome of eight different organisms (A-H); Figure D: EXAMPLE OF A SCATTER PLOT.]]
+for the December months from 2010 to 2016; Figure C: EXAMPLE OF BOX PLOT: number of glycines in the proteome of eight different organisms (A-H); Figure D: EXAMPLE OF A SCATTER PLOT.]]
 
 Line graphs represent the variation of a value over another metric, such as time. In general, values are represented in the vertical axis, while the time variation is represented in the horizontal axis.[10]
 
@@ -97,7 +97,7 @@ In the bar chart example, we have the birth rate in Brazil for the December mont
 
 -   HISTOGRAMS
 
-Example_histogram.pngThe histogram (or frequency distribution) is a graphical representation of a dataset tabulated and divided into uniform or non-uniform classes. It was first introduced by Karl Pearson.[13]
+The histogram (or frequency distribution) is a graphical representation of a dataset tabulated and divided into uniform or non-uniform classes. It was first introduced by Karl Pearson.[13]
 
 -   SCATTER PLOT
 
@@ -141,7 +141,7 @@ Although correlations between two different kinds of data could be inferred by g
 
 -   PEARSON CORRELATION COEFFICIENT
 
-Correlation_coefficient.pngPearson correlation coefficient is a measure of association between two variables, X and Y. This coefficient, usually represented by _ρ_ (rho) for the population and _r_ for the sample, assumes values between −1 and 1, where _ρ_ = 1 represents a perfect positive correlation, _ρ_ = -1 represents a perfect negative correlation, and _ρ_ = 0 is no linear correlation.[18]
+Pearson correlation coefficient is a measure of association between two variables, X and Y. This coefficient, usually represented by _ρ_ (rho) for the population and _r_ for the sample, assumes values between −1 and 1, where _ρ_ = 1 represents a perfect positive correlation, _ρ_ = -1 represents a perfect negative correlation, and _ρ_ = 0 is no linear correlation.[18]
 
 Inferential Statistics
 

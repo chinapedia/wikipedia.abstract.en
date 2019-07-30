@@ -7,7 +7,7 @@ Other aspects of Polish Christmas include nativity plays called "Jasełka", outd
 
 Advent
 
-Piotrus_XMAS_Tree_2008_05.JPG]] Among the special tasks carried out in private homes during Advent (a time of waiting for the celebration of the Nativity of Jesus) is the baking of the Christmas piernik (gingerbread), and the making of Christmas decorations. Pierniks are made in a variety of shapes, including hearts, animals, and St. Nicholas figures. St. Nicholas does not play a major role on Christmas Day, but is celebrated on his Saint feast day of December 6. He visits good children in secret and leaves presents for them.[7]
+]] Among the special tasks carried out in private homes during Advent (a time of waiting for the celebration of the Nativity of Jesus) is the baking of the Christmas piernik (gingerbread), and the making of Christmas decorations. Pierniks are made in a variety of shapes, including hearts, animals, and St. Nicholas figures. St. Nicholas does not play a major role on Christmas Day, but is celebrated on his Saint feast day of December 6. He visits good children in secret and leaves presents for them.[7]
 
 Traditionally, the Christmas trees are decorated with glass baubles, garlands and many homemade ornaments including painted eggshells, shiny red apples, walnuts, wrapped chocolate shapes, candles, etc. They are lit on Christmas Eve before Wigilia. At the top of each tree there is a star or a glittering tree topper. In many homes, sparklers are hung on the branches of the trees for wintery ambiance. Sometimes the trees are left standing until February 2, the feast day of St. Mary of the Candle of Lighting.[8]
 
@@ -33,12 +33,12 @@ Christmas Eve ends with "Pasterka", the Midnight Mass at the local church. The t
 
 _Kolędy_, the Christmas carols
 
-Mummers_Play_in_Poland.jpg singing Christmas carols called _kolędy_ in Poland, 1929 postcard]] Christmas carols are not celebrated in Poland until during-and-after the Christmas Vigil Mass called "Pasterka" held between 24 and 25 of December.[14] The Christmas season often runs until February 2. The early hymns sung in Catholic church were brought to Poland by the Franciscan Brothers in the Middle Ages. The early Christmas music was Latin in origin. When the Polish words and melodies started to become popular, including many new secular pastorals (pastoralka, or shepherd's songs), they were not written down originally, but rather taught among people by heart. Notably, the song "God Is Born" (_Bóg się rodzi_) with lyrics written by Franciszek Karpiński in 1792 became the Christmas hymn of Poland already in the court of King Stefan Batory. Many of the early Polish carols were collected in 1838 by in a book called _Pastorałki i Kolędy z Melodiami_ (Pastorals and Carols with Melodies).[15]
+singing Christmas carols called _kolędy_ in Poland, 1929 postcard]] Christmas carols are not celebrated in Poland until during-and-after the Christmas Vigil Mass called "Pasterka" held between 24 and 25 of December.[14] The Christmas season often runs until February 2. The early hymns sung in Catholic church were brought to Poland by the Franciscan Brothers in the Middle Ages. The early Christmas music was Latin in origin. When the Polish words and melodies started to become popular, including many new secular pastorals (pastoralka, or shepherd's songs), they were not written down originally, but rather taught among people by heart. Notably, the song "God Is Born" (_Bóg się rodzi_) with lyrics written by Franciszek Karpiński in 1792 became the Christmas hymn of Poland already in the court of King Stefan Batory. Many of the early Polish carols were collected in 1838 by in a book called _Pastorałki i Kolędy z Melodiami_ (Pastorals and Carols with Melodies).[15]
 
 
 Polish hand-made Christmas ornaments
 
-Koronkowa_dekoracja_bombek_choinkowych_-_Zbąszyń_-_001185c.jpg details. Poland is a major exporter of Christmas decorations, especially hand-blown ornaments]] Poland produces some of the finest hand blown glass Christmas ornaments in Europe. Families and collectors value these ornaments for high quality, traditional artwork, and unique decorations.[16]
+details. Poland is a major exporter of Christmas decorations, especially hand-blown ornaments]] Poland produces some of the finest hand blown glass Christmas ornaments in Europe. Families and collectors value these ornaments for high quality, traditional artwork, and unique decorations.[16]
 
 Polish blown-glass Christmas ornaments are generally manufactured only in winter season. The modern glass workshops and manufacturers tend to be localized in the southern regions of Poland.[17][18]
 

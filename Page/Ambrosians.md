@@ -3,7 +3,7 @@ AMBROSIANS are members of one of the religious brotherhoods which at various tim
 
 Orders
 
-AmbroseOfMilan.jpg church, Milan, Lombardy, Italy, possibly an actual portrait made in his lifetime]]
+church, Milan, Lombardy, Italy, possibly an actual portrait made in his lifetime]]
 
 Only the oldest of the Catholic Ambrosians, the Fratres S. Ambrosii ad Nemus, had anything more than a very local significance. This order is known from a bull of Pope Gregory XI addressed to the monks of the church of St Ambrose outside Milan.[1]
 

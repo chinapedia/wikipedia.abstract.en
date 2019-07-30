@@ -1,4 +1,4 @@
-Demosthenes_orator_Louvre.jpg]] CONSEQUENTIALISM is the class of normative ethical theories holding that the consequences of one's conduct are the ultimate basis for any judgment about the rightness or wrongness of that conduct. Thus, from a consequentialist standpoint, a morally right act (or omission from acting) is one that will produce a good outcome, or consequence.
+]] CONSEQUENTIALISM is the class of normative ethical theories holding that the consequences of one's conduct are the ultimate basis for any judgment about the rightness or wrongness of that conduct. Thus, from a consequentialist standpoint, a morally right act (or omission from acting) is one that will produce a good outcome, or consequence.
 
 Consequentialism is primarily non-prescriptive, meaning the moral worth of an action is determined by its potential consequence, not by whether it follows a set of written edicts or laws. One example would entail lying under the threat of government punishment to save an innocent person's life, even though it is illegal to lie under oath.
 
@@ -21,7 +21,7 @@ On the other hand, the "Legalist" Han Fei "is motivated almost totally from the 
 
 Utilitarianism
 
-Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg, best known for his advocacy of utilitarianism]]
+, best known for his advocacy of utilitarianism]]
 
 In summary, Jeremy Bentham states that people are driven by their interests and their fears, but their interests take precedence over their fears, and their interests are carried out in accordance with how people view the consequences that might be involved with their interests. "Happiness" on this account is defined as the maximization of pleasure and the minimization of pain. It can be argued that the existence of phenomenal consciousness and "qualia" is required for the experience of pleasure or pain to have an ethical significance.[13][14] Historically, hedonistic utilitarianism is the paradigmatic example of a consequentialist moral theory. This form of utilitarianism holds that what matters is the aggregate happiness; the happiness of everyone and not the happiness of any particular person. John Stuart Mill, in his exposition of hedonistic utilitarianism, proposed a hierarchy of pleasures, meaning that the pursuit of certain kinds of pleasure is more highly valued than the pursuit of other pleasures.[15] However, some contemporary utilitarians, such as Peter Singer, are concerned with maximizing the satisfaction of preferences, hence "preference utilitarianism". Other contemporary forms of utilitarianism mirror the forms of consequentialism outlined below.
 
@@ -75,7 +75,7 @@ Teleological ethics (Greek telos, "end"; logos, "science") is an ethical theory 
 
 Teleological theories differ on the nature of the end that actions ought to promote. Eudaemonist theories (Greek eudaimonia, "happiness") hold that the goal of ethics consists in some function or activity appropriate to man as a human being, and thus tend to emphasize the cultivation of virtue or excellence in the agent as the end of all action. These could be the classical virtues—courage, temperance, justice, and wisdom—that promoted the Greek ideal of man as the "rational animal", or the theological virtues—faith, hope, and love—that distinguished the Christian ideal of man as a being created in the image of God.
 
-JohnStuartMill.jpg, an influential liberal thinker of the 19th century and a teacher of utilitarianism]] Utilitarian-type theories hold that the end consists in an experience or feeling produced by the action. Hedonism, for example, teaches that this feeling is pleasure—either one's own, as in egoism (the 17th-century English philosopher Thomas Hobbes), or everyone's, as in universalistic hedonism, or utilitarianism (the 19th-century English philosophers Jeremy Bentham, John Stuart Mill, and Henry Sidgwick), with its formula of the "greatest pleasure of the greatest number".[35]
+, an influential liberal thinker of the 19th century and a teacher of utilitarianism]] Utilitarian-type theories hold that the end consists in an experience or feeling produced by the action. Hedonism, for example, teaches that this feeling is pleasure—either one's own, as in egoism (the 17th-century English philosopher Thomas Hobbes), or everyone's, as in universalistic hedonism, or utilitarianism (the 19th-century English philosophers Jeremy Bentham, John Stuart Mill, and Henry Sidgwick), with its formula of the "greatest pleasure of the greatest number".[35]
 
 Other utilitarian-type views include the claims that the end of action is survival and growth, as in evolutionary ethics (the 19th-century English philosopher Herbert Spencer); the experience of power, as in despotism; satisfaction and adjustment, as in pragmatism (20th-century American philosophers Ralph Barton Perry and John Dewey); and freedom, as in existentialism (the 20th-century French philosopher Jean-Paul Sartre).
 
@@ -104,7 +104,7 @@ In practice, it is very difficult, and at times arguably impossible, to adopt th
 
 Consequences for whom
 
-Surveyed_Consequences_of_Whistleblowing.png]]
+]]
 
 Moral action always has consequences for certain people or things. Varieties of consequentialism can be differentiated by the beneficiary of the good consequences. That is, one might ask "Consequences for whom?"
 
@@ -128,7 +128,7 @@ Virtue ethics
 
 Consequentialism can also be contrasted with aretaic moral theories such as virtue ethics. Whereas consequentialist theories posit that consequences of action should be the primary focus of our thinking about ethics, virtue ethics insists that it is the character rather than the consequences of actions that should be the focal point. Some virtue ethicists hold that consequentialist theories totally disregard the development and importance of moral character. For example, Philippa Foot argues that consequences in themselves have no ethical content, unless it has been provided by a virtue such as benevolence.[43]
 
-However, consequentialism and virtue ethics need not be entirely antagonistic. Iain King has developed an approach that reconciles the two schools.[44] Other consequentialists consider effects on the character of people involved in an action when assessing consequence. Similarly, a consequentialist theory may aim at the maximization of a particular virtue or set of virtues. Finally, following Foot's lead, one might adopt a sort of consequentialism that argues that virtuous activity ultimately produces the best consequences. Max_Weber_1894.jpg
+However, consequentialism and virtue ethics need not be entirely antagonistic. Iain King has developed an approach that reconciles the two schools.[44] Other consequentialists consider effects on the character of people involved in an action when assessing consequence. Similarly, a consequentialist theory may aim at the maximization of a particular virtue or set of virtues. Finally, following Foot's lead, one might adopt a sort of consequentialism that argues that virtuous activity ultimately produces the best consequences.
 
 Ultimate end
 

@@ -1,6 +1,6 @@
 After registering a steady increase during Soviet period, the population of Armenia declined from peak value 3.633 mln in 1992 to 2.986 mln in 2017.[1]
 
-The country's population has declined due to increased emigration since the break-up of the Soviet Union. The rates of emigration and population decline, however, have decreased in recent years, and there has been a moderate influx of Armenians returning to Armenia. Population_growth_rates_in_Armenia_in_years_1980-2016.jpg Population_armenia.png
+The country's population has declined due to increased emigration since the break-up of the Soviet Union. The rates of emigration and population decline, however, have decreased in recent years, and there has been a moderate influx of Armenians returning to Armenia.
 
 
 Human development
@@ -67,7 +67,7 @@ Structure of the population
 
 Mean age in 2016 : 36.2 years.[14]
 
-36.3% of women who gave birth in 2016 had higher education.[15]Pyramid_armenia.jpgStructure of the population (12.10.2011) (Census):[16]
+36.3% of women who gave birth in 2016 had higher education.[15]Structure of the population (12.10.2011) (Census):[16]
 
   Age Group   Male        Female      Total       %
   ----------- ----------- ----------- ----------- ------

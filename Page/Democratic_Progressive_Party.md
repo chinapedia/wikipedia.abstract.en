@@ -13,7 +13,7 @@ Once the DPP had representation in the Legislative Yuan (LY, or Parliament), the
 
 2000–2008: in minority government
 
-Chen_Shui-bian_from_VOA.jpg DPP-Taiwan-old.svg The DPP won the presidency with the election of Chen Shui-bian in March 2000 with a plurality, due to Pan-Blue voters splitting their vote between the Kuomintang and independent candidate James Soong, ending more than half a century of KMT rule in Republic of China. Chen softened the party's stance on independence to appeal to moderate voters, appease the United States and placate China. He also promised not to change the ROC state symbols or declare formal independence as long as the People's Republic of China did not attack Taiwan.
+The DPP won the presidency with the election of Chen Shui-bian in March 2000 with a plurality, due to Pan-Blue voters splitting their vote between the Kuomintang and independent candidate James Soong, ending more than half a century of KMT rule in Republic of China. Chen softened the party's stance on independence to appeal to moderate voters, appease the United States and placate China. He also promised not to change the ROC state symbols or declare formal independence as long as the People's Republic of China did not attack Taiwan.
 
 The DPP became the largest party having reached a plurality in the Legislative Yuan for the first time in 2002 following the 2001 legislative election. However, a majority coalition between the KMT, People First Party, and New Party prevented it from taking control of the chamber.
 
@@ -63,7 +63,7 @@ The deep-rooted hostility between Taiwanese aborigines and (Taiwanese) Hoklo, an
 
 Structure
 
-Huashan_Business_Building_20130118.jpg.[16]]] The National Party Congress selects, for two year terms, the 30 members of the Central Executive Committee and the 11 members of the Central Review Committee. The Central Executive Committee, in turn, chooses the 10 members of the Central Standing Committee. The DPP since 2012 also has a "China Affairs Committee" to deal with Cross-Strait relations; the name caused some controversy within the party and in the Taiwan media, with critics suggesting that "Mainland Affairs Committee" or "Cross-Strait Affairs Committee" would show less of a hostile "One Country on Each Side" attitude.[17]
+.[16]]] The National Party Congress selects, for two year terms, the 30 members of the Central Executive Committee and the 11 members of the Central Review Committee. The Central Executive Committee, in turn, chooses the 10 members of the Central Standing Committee. The DPP since 2012 also has a "China Affairs Committee" to deal with Cross-Strait relations; the name caused some controversy within the party and in the Taiwan media, with critics suggesting that "Mainland Affairs Committee" or "Cross-Strait Affairs Committee" would show less of a hostile "One Country on Each Side" attitude.[17]
 
 For many years the Democratic Progressive Party officially recognized several factions within its membership, such as the New Tide faction (新潮流系), the Formosa faction (美麗島系), the Justice Alliance faction (正義連線系) and Welfare State Alliance faction (福利國系). Each faction endorsed slightly different policies. The factions were often generationally identifiable, representing individuals who had entered the party at different times. In 2006 the party ended recognition of factions.[18] The factions have since stated that they will comply with the resolution. However, the factions are still referred to by name in the national media.[19][20]
 
@@ -83,18 +83,18 @@ Legislative Yuan leader (Caucus leader)
 
 Election results
 
-2007TaipeiAudioVideoFair_JTCho.jpg, the Chairperson of DPP.]]
+, the Chairperson of DPP.]]
 
 Presidential elections
 
-  Election   Candidate                Running mate                       Total votes   Share of votes   Outcome
-  ---------- ------------------------ ---------------------------------- ------------- ---------------- ----------
-  1996       Peng Ming-min            Frank Hsieh Chang-ting             2,274,586     21.1%            DEFEATED
-  2000       Chen Shui-bian           Annette Lu Hsiu-lien               4,977,737     39.3%            ELECTED
-  2004       Chen Shui-bian           Annette Lu Hsiu-lien               6,446,900     50.1%            ELECTED
-  2008       Frank Hsieh Chang-ting   Su Tseng-chang                     5,445,239     41.5%            DEFEATED
-  2012       Tsai Ing-wen             Su Jia-chyuan                      6,093,578     45.6%            DEFEATED
-  2016       Tsai Ing-wen             Chen Chien-jen (Black-nill.png )   6,894,744     56.3%            ELECTED
+  Election   Candidate                Running mate             Total votes   Share of votes   Outcome
+  ---------- ------------------------ ------------------------ ------------- ---------------- ----------
+  1996       Peng Ming-min            Frank Hsieh Chang-ting   2,274,586     21.1%            DEFEATED
+  2000       Chen Shui-bian           Annette Lu Hsiu-lien     4,977,737     39.3%            ELECTED
+  2004       Chen Shui-bian           Annette Lu Hsiu-lien     6,446,900     50.1%            ELECTED
+  2008       Frank Hsieh Chang-ting   Su Tseng-chang           5,445,239     41.5%            DEFEATED
+  2012       Tsai Ing-wen             Su Jia-chyuan            6,093,578     45.6%            DEFEATED
+  2016       Tsai Ing-wen             Chen Chien-jen ( )       6,894,744     56.3%            ELECTED
 
 Legislative elections
 

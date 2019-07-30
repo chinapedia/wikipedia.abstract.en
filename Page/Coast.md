@@ -1,4 +1,4 @@
-Knight's_Point,_West_Coast.jpg of New Zealand]]
+of New Zealand]]
 
 The COAST, also known as the COASTLINE or SEASHORE, is the area where land meets the sea or ocean,[1] or a line that forms the boundary between the land and the ocean or a lake.[2] A precise line that can be called a coastline cannot be determined due to the coastline paradox.
 
@@ -11,7 +11,7 @@ While many scientific experts might agree on a common definition of the term _co
 
 Formation
 
-Porto_Covo_pano_April_2009-4.jpg Tides often determine the range over which sediment is deposited or eroded. Areas with high tidal ranges allow waves to reach farther up the shore, and areas with lower tidal ranges produce deposition at a smaller elevation interval. The tidal range is influenced by the size and shape of the coastline. Tides do not typically cause erosion by themselves; however, tidal bores can erode as the waves surge up river estuaries from the ocean.[5]
+Tides often determine the range over which sediment is deposited or eroded. Areas with high tidal ranges allow waves to reach farther up the shore, and areas with lower tidal ranges produce deposition at a smaller elevation interval. The tidal range is influenced by the size and shape of the coastline. Tides do not typically cause erosion by themselves; however, tidal bores can erode as the waves surge up river estuaries from the ocean.[5]
 
 Waves erode coastline as they break on shore releasing their energy; the larger the wave the more energy it releases and the more sediment it moves. Coastlines with longer shores have more room for the waves to disperse their energy, while coasts with cliffs and short shore faces give little room for the wave energy to be dispersed. In these areas the wave energy breaking against the cliffs is higher, and air and water are compressed into cracks in the rock, forcing the rock apart, breaking it down. Sediment deposited by waves comes from eroded cliff faces and is moved along the coastline by the waves. This forms an abrasion or cliffed coast.
 
@@ -22,7 +22,7 @@ Like the ocean which shapes them, coasts are a dynamic environment with constant
 
 Environmental importance
 
-Somalia_16.08.2009_08-30-13.jpg has the longest coastline in Africa]] The coast and its adjacent areas on and off shore are an important part of a local ecosystem: the mixture of fresh water and salt water (brackish water) in estuaries provides many nutrients for marine life. Salt marshes and beaches also support a diversity of plants, animals and insects crucial to the food chain.
+has the longest coastline in Africa]] The coast and its adjacent areas on and off shore are an important part of a local ecosystem: the mixture of fresh water and salt water (brackish water) in estuaries provides many nutrients for marine life. Salt marshes and beaches also support a diversity of plants, animals and insects crucial to the food chain.
 
 The high level of biodiversity creates a high level of biological activity, which has attracted human activity for thousands of years.
 
@@ -31,7 +31,7 @@ Human impacts
 
 Human uses of coasts
 
-The_CHW_system.png Marbleheadcoastline.jpg. Once a fishing port, the harbor is now dedicated to tourism and pleasure boating. Observe that the sand and rocks have been darkened by oil slick up to the high-water line.]] Beach_at_Msasani_Bay,_Dar_es_Salaam,_Tanzania.JPG Tiburon.jpgs close to the coast, like these in Tiburon, California, may be especially desirable properties.]] Vizag-Beach.JPG in India]]
+. Once a fishing port, the harbor is now dedicated to tourism and pleasure boating. Observe that the sand and rocks have been darkened by oil slick up to the high-water line.]] s close to the coast, like these in Tiburon, California, may be especially desirable properties.]] in India]]
 
 More and more of the world's people live in coastal regions.[7] Many major cities are on or near good harbors and have port facilities. Some landlocked places have achieved port status by building canals.
 
@@ -69,7 +69,7 @@ Other coastal categories:
 
 Landforms
 
-Accreting_coast_Image6.svg would, in certain (mainly southern) parts of Britain, be called a cove. That between the cuspate foreland and the tombolo is a British bay.]] The following articles describe some coastal landforms
+would, in certain (mainly southern) parts of Britain, be called a cove. That between the cuspate foreland and the tombolo is a British bay.]] The following articles describe some coastal landforms
 
 -   Bay
 -   Headland

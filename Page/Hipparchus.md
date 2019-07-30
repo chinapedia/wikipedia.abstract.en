@@ -5,7 +5,7 @@ Hipparchus was born in Nicaea, Bithynia (now İznik, Turkey), and probably died 
 
 Life and work
 
-Observatory_in_Alexandria_at_the_Time_of_Hipparchus.jpg There is a strong tradition that Hipparchus was born in Nicaea (Greek _Νίκαια_), in the ancient district of Bithynia (modern-day Iznik in province Bursa), in what today is the country Turkey. The exact dates of his life are not known, but Ptolemy attributes astronomical observations to him in the period from 147–127 , and some of these are stated as made in Rhodes; earlier observations since 162  might also have been made by him. His birth date ( ) was calculated by Delambre based on clues in his work. Hipparchus must have lived some time after 127  because he analyzed and published his observations from that year. Hipparchus obtained information from Alexandria as well as Babylon, but it is not known when or if he visited these places. He is believed to have died on the island of Rhodes, where he seems to have spent most of his later life.
+There is a strong tradition that Hipparchus was born in Nicaea (Greek _Νίκαια_), in the ancient district of Bithynia (modern-day Iznik in province Bursa), in what today is the country Turkey. The exact dates of his life are not known, but Ptolemy attributes astronomical observations to him in the period from 147–127 , and some of these are stated as made in Rhodes; earlier observations since 162  might also have been made by him. His birth date ( ) was calculated by Delambre based on clues in his work. Hipparchus must have lived some time after 127  because he analyzed and published his observations from that year. Hipparchus obtained information from Alexandria as well as Babylon, but it is not known when or if he visited these places. He is believed to have died on the island of Rhodes, where he seems to have spent most of his later life.
 
 It is not known what Hipparchus's economic means were nor how he supported his scientific activities. His appearance is likewise unknown: there are no contemporary portraits. In the 2nd and 3rd centuries coins were made in his honour in Bithynia that bear his name and show him with a globe; this supports the tradition that he was born there.
 
@@ -60,8 +60,6 @@ Aubrey Diller has shown that the clima calculations which Strabo preserved from 
 
 Lunar and solar theory
 
-HipparchusConstruction.svg
-
 Motion of the Moon
 
 Hipparchus also studied the motion of the Moon and confirmed the accurate values for two periods of its motion that Chaldean astronomers are widely presumed[24] to have possessed before him, whatever their ultimate origin. The traditional value (from Babylonian System B) for the mean synodic month is 29 days; 31,50,8,20 (sexagesimal) = 29.5305941... days. Expressed as 29 days + 12 hours +  hours this value has been used later in the Hebrew calendar. The Chaldeans also knew that 251 synodic months ≈ 269 anomalistic months. Hipparchus used the multiple of this period by a factor of 17, because that interval is also an eclipse period, and is also close to an integer number of years (4267 moons : 4573 anomalistic periods : 4630.53 nodal periods : 4611.98 lunar orbits : 344.996 years : 344.982 solar orbits : 126,007.003 days : 126,351.985 rotations).[25] What was so exceptional and useful about the cycle was that all 345-year-interval eclipse pairs occur slightly over 126,007 days apart within a tight range of only about ± hour, guaranteeing (after division by 4267) an estimate of the synodic month correct to one part in order of magnitude 10 million. The 345 year periodicity is why[26] the ancients could conceive of a _mean_ month and quantify it so accurately that it is even today correct to a fraction of a second of time.
@@ -100,7 +98,7 @@ Before Hipparchus, astronomers knew that the lengths of the seasons are not equa
 
 Distance, parallax, size of the Moon and the Sun
 
-HipparchusEclipse.png) and a total solar eclipse at H (Hellespont).]] Hipparchus also undertook to find the distances and sizes of the Sun and the Moon. He published his results in a work of two books called _Perí megethōn kaí apostēmátōn_ ("On Sizes and Distances") by Pappus in his commentary on the _Almagest_ V.11; Theon of Smyrna (2nd century) mentions the work with the addition "of the Sun and Moon".
+) and a total solar eclipse at H (Hellespont).]] Hipparchus also undertook to find the distances and sizes of the Sun and the Moon. He published his results in a work of two books called _Perí megethōn kaí apostēmátōn_ ("On Sizes and Distances") by Pappus in his commentary on the _Almagest_ V.11; Theon of Smyrna (2nd century) mentions the work with the addition "of the Sun and Moon".
 
 Hipparchus measured the apparent diameters of the Sun and Moon with his _diopter_. Like others before and after him, he found that the Moon's size varies as it moves on its (eccentric) orbit, but he found no perceptible variation in the apparent diameter of the Sun. He found that at the _mean_ distance of the Moon, the Sun and Moon had the same apparent diameter; at that distance, the Moon's diameter fits 650 times into the circle, i.e., the mean apparent diameters are = 0°33′14″.
 
@@ -133,7 +131,7 @@ Hipparchus and his predecessors used various instruments for astronomical calcul
 
 Hipparchus is credited with the invention or improvement of several astronomical instruments, which were used for a long time for naked-eye observations. According to Synesius of Ptolemais (4th century) he made the first _astrolabion_: this may have been an armillary sphere (which Ptolemy however says he constructed, in _Almagest_ V.1); or the predecessor of the planar instrument called astrolabe (also mentioned by Theon of Alexandria). With an astrolabe Hipparchus was the first to be able to measure the geographical latitude and time by observing fixed stars. Previously this was done at daytime by measuring the shadow cast by a gnomon, by recording the length of the longest day of the year or with the portable instrument known as a _scaphe_.
 
-equatorial_ring.png of Hipparchus's time.]]
+of Hipparchus's time.]]
 
 Ptolemy mentions (_Almagest_ V.14) that he used a similar instrument as Hipparchus, called _dioptra_, to measure the apparent diameter of the Sun and Moon. Pappus of Alexandria described it (in his commentary on the _Almagest_ of that chapter), as did Proclus (_Hypotyposis_ IV). It was a 4-foot rod with a scale, a sighting hole at one end, and a wedge that could be moved along the rod to exactly obscure the disk of Sun or Moon.
 
@@ -144,7 +142,7 @@ Hipparchus applied his knowledge of spherical angles to the problem of denoting 
 
 Star catalog
 
-Hipparchus_by_Raphael.jpg's _The School of Athens_ (c. 1510)]] Late in his career (possibly about 135 ) Hipparchus compiled his star catalog, the original of which does not survive. He also constructed a celestial globe depicting the constellations, based on his observations. His interest in the fixed stars may have been inspired by the observation of a supernova (according to Pliny), or by his discovery of precession, according to Ptolemy, who says that Hipparchus could not reconcile his data with earlier observations made by Timocharis and Aristillus. For more information see Discovery of precession. In Raphael's painting _The School of Athens_, Hipparchus is depicted holding his celestial globe, as the representative figure for astronomy.[37]
+'s _The School of Athens_ (c. 1510)]] Late in his career (possibly about 135 ) Hipparchus compiled his star catalog, the original of which does not survive. He also constructed a celestial globe depicting the constellations, based on his observations. His interest in the fixed stars may have been inspired by the observation of a supernova (according to Pliny), or by his discovery of precession, according to Ptolemy, who says that Hipparchus could not reconcile his data with earlier observations made by Timocharis and Aristillus. For more information see Discovery of precession. In Raphael's painting _The School of Athens_, Hipparchus is depicted holding his celestial globe, as the representative figure for astronomy.[37]
 
 Previously, Eudoxus of Cnidus in the 4th century  had described the stars and constellations in two books called _Phaenomena_ and _Entropon_. Aratus wrote a poem called _Phaenomena_ or _Arateia_ based on Eudoxus's work. Hipparchus wrote a commentary on the _Arateia_ – his only preserved work – which contains many stellar positions and times for rising, culmination, and setting of the constellations, and these are likely to have been based on his own measurements.
 

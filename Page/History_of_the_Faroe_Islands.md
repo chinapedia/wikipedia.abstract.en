@@ -5,7 +5,7 @@ Following the 1814 Treaty of Kiel that ended the dual Denmark–Norway kingdom, 
 
 Early Gaelic and Norse settlements
 
-Faroe_stamp_252_Europe_and_the_Discoveries.jpg discovering the Faroe Islands]] Archaeological evidence has been found of settlers living on the Faroe Islands in two successive periods prior to the arrival of the Norse, the first between 400–600 AD and the second between 600–800 AD.[1] Scientists from Aberdeen University have also found early cereal pollen from domesticated plants, which further suggests people may have lived on the islands before the Vikings arrived.[2] Archaeologist Mike Church noted that Dicuil (see below) mentioned what may have been the Faroes. He also suggested that the people living there might have been from Ireland, Scotland or Scandinavia, with possibly groups from all three areas settling there.[3]
+discovering the Faroe Islands]] Archaeological evidence has been found of settlers living on the Faroe Islands in two successive periods prior to the arrival of the Norse, the first between 400–600 AD and the second between 600–800 AD.[1] Scientists from Aberdeen University have also found early cereal pollen from domesticated plants, which further suggests people may have lived on the islands before the Vikings arrived.[2] Archaeologist Mike Church noted that Dicuil (see below) mentioned what may have been the Faroes. He also suggested that the people living there might have been from Ireland, Scotland or Scandinavia, with possibly groups from all three areas settling there.[3]
 
 There is a Latin account of a voyage made by Saint Brendan, an Irish monastic saint who lived around 484–578, there is a description of "insulae" (islands) resembling the Faroe Islands. This association, however, is far from conclusive in its description.[4]
 
@@ -36,7 +36,7 @@ The fact that immigrants from Norway also settled in the Faroe Islands is proven
 
     _Thorkil Onundsson, eastman (Norwegian) from Rogaland, settled first in this place (Sandavágur)_
 
-This description "eastman" (from Norway) has to be seen together with the description "westman" (from Ireland/Scotland), which is to be found in local place-names such as "Vestmanna-havn" i.e. "Irishmen's harbour" in the Faroe Isles, and "Vestmannaeyjar" i.e. "Irishmen's islands" in Iceland. Faroe_stamp_360_arrival_of_christianity.jpg raising the hammer of Thor against Christianity]] According to _Færeyinga saga_ there was an ancient institution on the headland called Tinganes in Tórshavn on the island of Streymoy. This was an _Alþing_ or Althing (All-council.) This was the place where laws were made and disputes solved. All free men had the right to meet in the Alþing. It was a parliament and law court for all, thus the name. Historians estimate the Alþing to have been established from 800 to 900.[14]
+This description "eastman" (from Norway) has to be seen together with the description "westman" (from Ireland/Scotland), which is to be found in local place-names such as "Vestmanna-havn" i.e. "Irishmen's harbour" in the Faroe Isles, and "Vestmannaeyjar" i.e. "Irishmen's islands" in Iceland. raising the hammer of Thor against Christianity]] According to _Færeyinga saga_ there was an ancient institution on the headland called Tinganes in Tórshavn on the island of Streymoy. This was an _Alþing_ or Althing (All-council.) This was the place where laws were made and disputes solved. All free men had the right to meet in the Alþing. It was a parliament and law court for all, thus the name. Historians estimate the Alþing to have been established from 800 to 900.[14]
 
 The islands were officially converted to Christianity around the year 1000, with the Diocese of the Faroe Islands based at Kirkjubøur, southern Streymoy, of which there were 33 Catholic bishops.
 
@@ -67,7 +67,7 @@ After Köppen, others took over the trading monopoly, though the economy suffere
 
 1600s onwards
 
-Faroe_Islands,_1767,_as_seen_by_Yves_de_Kerguelen_Trémarec.PNG in 1767.]] Denmark tried to solve the problem by giving the Faroes to the courtier Christoffer Gabel (and later on his son, Frederick) as a personal feudal estate. However, the Gabel rule was harsh and repressive, breeding much resentment in the Faroese. This caused Denmark, in 1708, to entrust the islands and trading monopoly once more to the central government. However, they too struggled to keep the economy going, and many merchants were trading at a loss. Finally, on 1 January 1856 the trading monopoly was abolished.
+in 1767.]] Denmark tried to solve the problem by giving the Faroes to the courtier Christoffer Gabel (and later on his son, Frederick) as a personal feudal estate. However, the Gabel rule was harsh and repressive, breeding much resentment in the Faroese. This caused Denmark, in 1708, to entrust the islands and trading monopoly once more to the central government. However, they too struggled to keep the economy going, and many merchants were trading at a loss. Finally, on 1 January 1856 the trading monopoly was abolished.
 
 Denmark retained possession of the Faroes at the Peace of Kiel in 1814, but lost continental Norway.
 

@@ -14,8 +14,6 @@ After the reign of Dagobert I (629–639) the Merovingians effectively ceded pow
 
 Contesting for power
 
-Francia_at_the_death_of_Pepin_of_Heristal,_714.jpg
-
 In December 714, Pepin of Herstal died.[11] Prior to his death, he had, at his wife Plectrude's urging, designated Theudoald, his grandson by their late son Grimoald, his heir in the entire realm. This was immediately opposed by the nobles because Theudoald was a child of only eight years of age. To prevent Charles using this unrest to his own advantage, Plectrude had him imprisoned in Cologne, the city which was intended to be her capital. This prevented an uprising on his behalf in Austrasia, but not in Neustria.
 
 Civil war of 715–718
@@ -45,7 +43,7 @@ In 718, Chilperic responded to Charles' new ascendancy by making an alliance wit
 
 Wars of 718–732
 
-The_Saracen_Army_outside_Paris,_730-32_AD.png.]]
+.]]
 
 Between 718 and 723, Charles secured his power through a series of victories. Having unified the Franks under his banner, Charles was determined to punish the Saxons who had invaded Austrasia. Therefore, late in 718, he laid waste their country to the banks of the Weser, the Lippe, and the Ruhr.[18] He defeated them in the Teutoburg Forest and thus secured the Frankish border in the name of King Chlotaire.
 
@@ -67,9 +65,7 @@ Despite his victory, Charles did not gain full control of Aquitaine, and Odo rem
 
 Wars of 732–737
 
-Vasconia_wide_740_3_-_80.jpg
-
-Carolus-Martell.jpg, published in 1553]] Between his victory of 732 and 735, Charles reorganized the kingdom of Burgundy, replacing the counts and dukes with his loyal supporters, thus strengthening his hold on power. He was forced, by the ventures of Bubo, Duke of the Frisians, to invade independent-minded Frisia again in 734. In that year, he slew the duke at the Battle of the Boarn. Charles ordered the Frisian pagan shrines destroyed, and so wholly subjugated the populace that the region was peaceful for twenty years after.
+, published in 1553]] Between his victory of 732 and 735, Charles reorganized the kingdom of Burgundy, replacing the counts and dukes with his loyal supporters, thus strengthening his hold on power. He was forced, by the ventures of Bubo, Duke of the Frisians, to invade independent-minded Frisia again in 734. In that year, he slew the duke at the Battle of the Boarn. Charles ordered the Frisian pagan shrines destroyed, and so wholly subjugated the populace that the region was peaceful for twenty years after.
 
 In 735, Duke Odo of Aquitaine died. Though Charles wished to rule the duchy directly and went there to elicit the submission of the Aquitainians, the aristocracy proclaimed Odo's son, Hunald I of Aquitaine, as duke, and Charles and Hunald eventually recognised each other's position.
 
@@ -85,7 +81,7 @@ In 739, Pope Gregory III begged Charles for his aid against Liutprand, but Charl
 
 Death and transition in rule
 
-Charles_Martel_bad.jpg Charles Martel died on 22 October 741, at Quierzy-sur-Oise in what is today the Aisne _département_ in the Picardy region of France. He was buried at Saint Denis Basilica in Paris.[22]
+Charles Martel died on 22 October 741, at Quierzy-sur-Oise in what is today the Aisne _département_ in the Picardy region of France. He was buried at Saint Denis Basilica in Paris.[22]
 
 His territories had been divided among his adult sons a year earlier: to Carloman he gave Austrasia, Alemannia, and Thuringia, and to Pippin the Younger Neustria, Burgundy, Provence, and Metz and Trier in the "Mosel duchy"; Grifo was given several lands throughout the kingdom, but at a later date, just before Charles died.[23]
 
@@ -93,8 +89,6 @@ His territories had been divided among his adult sons a year earlier: to Carloma
 Legacy
 
 At the beginning of Charles Martel's career, he had many internal opponents and felt the need to appoint his own kingly claimant, Chlotar IV. By his end, however, the dynamics of rulership in Francia had changed, and no hallowed Merovingian ruler was required. Charles divided his realm between his sons without opposition (though he ignored his young son Bernard). For many historians, Charles Martel laid the foundations for his son Pepin's rise to the Frankish throne in 751, and his grandson Charlemagne's imperial acclamation in 800. However, for Paul Fouracre, while Charles was "the most effective military leader in Francia", his career "finished on a note of unfinished business".[24]
-
-Charles_Martel_divise_le_royaume_entre_Pépin_et_Carloman.jpg
 
 
 Family and children

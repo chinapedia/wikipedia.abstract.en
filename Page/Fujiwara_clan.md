@@ -43,7 +43,7 @@ As the Soga had taken control of the throne in the sixth century, the Fujiwara b
 
 Nevertheless, the Fujiwara were not demoted by Emperor Daigo but actually became stronger during his reign. Central control of Japan had continued to decline, and the Fujiwara, along with other great families and religious foundations, acquired ever larger _shōen_ and greater wealth during the early tenth century. By the early Heian period, the _shōen_ had obtained legal status, and the large religious establishments sought clear titles in perpetuity, waiver of taxes, and immunity from government inspection of the _shōen_ they held. Those people who worked the land found it advantageous to transfer title to shōen holders in return for a share of the harvest. People and lands were increasingly beyond central control and taxation, a de facto return to conditions before the Taika Reform.
 
-Fujiwaranomichinaga.jpg (966–1028)]]
+(966–1028)]]
 
 Within decades of Emperor Daigo's death, the Fujiwara had absolute control over the court. By the year 1000, Fujiwara no Michinaga was able to enthrone and dethrone emperors at will. Little authority was left for traditional officialdom, and government affairs were handled through the Fujiwara family's private administration. The Fujiwara had become what historian George B. Sansom has called "hereditary dictators".
 

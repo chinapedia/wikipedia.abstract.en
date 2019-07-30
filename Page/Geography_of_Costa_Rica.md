@@ -1,6 +1,3 @@
-Costa_Rica_map.png Costa_Rica_map_shaded_relief.png
-Costa_Rica_map_detail.PNG Costa_Rica_Topography.png
-
 COSTA RICA is located on the Central American Isthmus, surrounding the point 10° north of the equator and 84° west of the prime meridian. It borders both the Caribbean Sea (to the east) and the North Pacific Ocean (to the west), with a total of 1,290 km of coastline (212 km on the Caribbean coast and 1,016 km on the Pacific).
 
 Costa Rica shares a border with Nicaragua to the north (313 km long border) and with Panama to the south (348 km long border). The area of Costa Rica is 51,100 km² of which 51,060 km² is land and 40 km² is water, making it slightly smaller than the U.S. state of West Virginia.
@@ -8,7 +5,7 @@ Costa Rica shares a border with Nicaragua to the north (313 km long border) and
 
 Physical geography
 
-Localisation_de_l'ile_de_Clipperton.png in the Pacific]] The nation's terrain is a coastal plain separated by rugged mountains, the Cordillera Central and the Cordillera de Talamanca, which form the spine of the country and separate the Pacific and Caribbean watersheds. Costa Rica claims an exclusive economic zone of and a territorial sea of .
+in the Pacific]] The nation's terrain is a coastal plain separated by rugged mountains, the Cordillera Central and the Cordillera de Talamanca, which form the spine of the country and separate the Pacific and Caribbean watersheds. Costa Rica claims an exclusive economic zone of and a territorial sea of .
 
 The spine of the country produces many major river systems. Rivers draining into the Caribbean include:
 
@@ -73,7 +70,7 @@ Costa Rica's climate is mostly tropical and subtropical.
 
 Ecology
 
-Rainforest_at_Puentes_Colgantes.jpg in Costa Rica]] Like all Central American countries, Costa Rica is considered a biodiversity hotspot. According to the INBio, about 4.5% of the world's biodiversity can be found in Costa Rica. Costa Rica is home to about 12,119 species of plants, of which 950 are endemic.[1] There are 117 native trees and more than 1,400 types of orchids; a third of them can be found in the Monteverde Cloud Forest Reserve. Almost a half of the country's land is covered by forests, though only 3.5% is covered by primary forests.[2] Deforestation is a devastating process, with more than 8,100 ha of forest being lost annually. The main reason for such high deforestation levels is to make plains for cattle ranching.
+in Costa Rica]] Like all Central American countries, Costa Rica is considered a biodiversity hotspot. According to the INBio, about 4.5% of the world's biodiversity can be found in Costa Rica. Costa Rica is home to about 12,119 species of plants, of which 950 are endemic.[1] There are 117 native trees and more than 1,400 types of orchids; a third of them can be found in the Monteverde Cloud Forest Reserve. Almost a half of the country's land is covered by forests, though only 3.5% is covered by primary forests.[2] Deforestation is a devastating process, with more than 8,100 ha of forest being lost annually. The main reason for such high deforestation levels is to make plains for cattle ranching.
 
 Wildlife diversity is very high; there are 441 species of amphibians and reptiles, 838 species of birds, 232 species of mammals and 181 species of fresh water fish. Costa Rica has high levels of endemism; 81 species of amphibians and reptiles, 17 species of birds and 7 species of mammals are endemic to the country. However, many species are endangered. According to the World Conservation Monitoring Centre, 209 species of birds, mammals, reptiles, amphibians and plants are endangered.[3] Some of the country's most endangered species are the Harpy eagle, the Giant anteater, the Golden toad and the Jaguar. IUCN reports the Golden toad as extinct.[4]
 
@@ -99,8 +96,6 @@ Costa Rica is party to many environmental treaties, including the Convention on 
 
 
 Geography
-
-Koppen-Geiger_Map_CRI_present.svg
 
 Area
 

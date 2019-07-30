@@ -9,7 +9,7 @@ Germany's defeat in World War I in 1918 led to the German Revolution. The Hohenz
 
 County of Zollern
 
-Burg_Hohenzollern_ak.jpg near Hechingen]] Alpirsbach_Kloster_Kirche_innen.jpg, founded by the Hohenzollerns.]] Zollern, from 1218 Hohenzollern, was a county of the Holy Roman Empire. Later its capital was Hechingen.
+near Hechingen]] , founded by the Hohenzollerns.]] Zollern, from 1218 Hohenzollern, was a county of the Holy Roman Empire. Later its capital was Hechingen.
 
 The Hohenzollerns named their estates after Hohenzollern Castle in the Swabian Alps. The Hohenzollern Castle lies on an 855 meters high mountain called Hohenzollern. It still belongs to the family today.
 
@@ -58,7 +58,7 @@ These acquisitions eventually transformed the Franconian Hohenzollerns from a mi
 
 Burgraves of Nuremberg (1192–1427)
 
-COA_family_de_Burggrafen_von_Nürnberg_(Haus_Hohenzollern).svg Ansbach-Bayreuth.png)]]
+)]]
 
 -   1192–1200/1204: Frederick I (also count of Zollern as Frederick III)
 -   1204–1218: Frederick II (son of, also count of Zollern as Frederick IV)
@@ -86,8 +86,6 @@ File:Burg Nürnberg 03.jpg|Nuremberg Castle (The Emperor's castle, left, and the
 
 Margraves of Brandenburg-Ansbach (1398–1791)
 
-Wappen_Brandenburg-Ansbach.svg
-
 -   1398–1440: Frederick I (also Margrave of Brandenburg-Kulmbach)
 -   1440–1486: Albert I/I/III Achilles (son of, also Margrave of Brandenburg-Kulmbach and Elector of Brandenburg)
 -   1486–1515: Frederick II/II (son of, also Margrave of Brandenburg-Kulmbach)
@@ -106,8 +104,6 @@ Wappen_Brandenburg-Ansbach.svg
 On 2 December 1791, Christian II Frederick sold the sovereignty of his principalities to King Frederick William II of Prussia.
 
 Margraves of Brandenburg-Kulmbach (1398–1604), later Brandenburg-Bayreuth (1604–1791)
-
-CoA.Brand-Bayreuth.png
 
 -   1398–1420: John I (c. 1369–1420), son of Frederick V of Nuremberg
 -   1420–1440: Frederick I (also Margrave of Brandenburg-Ansbach)
@@ -132,7 +128,7 @@ From 8 January 1701 the title of Elector of Brandenburg was attached to the titl
 
 Dukes of Jägerndorf (1523–1622)
 
-Krnov_znak.png The Duchy of Jägerndorf (Krnov) was purchased in 1523.
+The Duchy of Jägerndorf (Krnov) was purchased in 1523.
 
 -   1541–1543: George I the Pious (also Margrave of Brandenburg-Ansbach)
 -   1543–1603: George Frederick I (also Margrave of Brandenburg-Ansbach, Margrave of Brandenburg-Kulmbach and Regent of Prussia)
@@ -146,45 +142,45 @@ Brandenburg-Prussian branch
 
 Margraves of Brandenburg (1415–1619)
 
-FrederikIboek.jpg became Margrave of Brandenburg in 1415.]] In 1411 Frederick VI, Burgrave of Nuremberg was appointed governor of Brandenburg in order to restore order and stability. At the Council of Constance in 1415, King Sigismund elevated Frederick to the rank of Elector and Margrave of Brandenburg as Frederick I.
+became Margrave of Brandenburg in 1415.]] In 1411 Frederick VI, Burgrave of Nuremberg was appointed governor of Brandenburg in order to restore order and stability. At the Council of Constance in 1415, King Sigismund elevated Frederick to the rank of Elector and Margrave of Brandenburg as Frederick I.
 
-+------------------------------------------------------------------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
-| Portrait                                                         | Name                  | Dynastic Status                                                    | Reign     | Birth | Death | Marriages                        |
-+==================================================================+=======================+====================================================================+===========+=======+=======+==================================+
-| Friedrich_I._von_Brandenburg.jpg                                 | Frederick I           | also as Frederick VI Burgrave of Nuremberg                         | 1415–1440 | 1371  | 1440  | Elisabeth of Bavaria             |
-+------------------------------------------------------------------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
-| Friedrich_II_300f.jpg                                            | Frederick II          | Son of                                                             | 1440–1471 | 1413  | 1471  | Catherine of Saxony              |
-+------------------------------------------------------------------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
-| AlbrechtAchilles.jpg                                             | Albrecht III Achilles | Brother of                                                         | 1471–1486 | 1414  | 1486  | Margaret of Baden                |
-|                                                                  |                       |                                                                    |           |       |       | Anna of Saxony                   |
-+------------------------------------------------------------------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
-| JohannCicero1500.JPG                                             | John Cicero           | Son of                                                             | 1486–1499 | 1455  | 1499  | Margaret of Thuringia            |
-+------------------------------------------------------------------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
-| Lucas_Cranach_(I)_-_Joachim_I_Nestor_-_Jagdschloss_Grunewald.jpg | Joachim I Nestor      | Son of                                                             | 1499–1535 | 1484  | 1535  | Elizabeth of Denmark             |
-+------------------------------------------------------------------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
-| JoachimII.vonBrandenburg.JPG                                     | Joachim II Hector     | Son of                                                             | 1535–1571 | 1505  | 1571  | Magdalena of Saxony              |
-|                                                                  |                       |                                                                    |           |       |       | Hedwig of Poland                 |
-+------------------------------------------------------------------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
-| JohannGeorg1564.JPG                                              | John George           | Son of                                                             | 1571–1598 | 1525  | 1598  | Sophie of Legnica                |
-|                                                                  |                       |                                                                    |           |       |       | Sabina of Brandenburg-Ansbach    |
-|                                                                  |                       |                                                                    |           |       |       | Elisabeth of Anhalt-Zerbst       |
-+------------------------------------------------------------------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
-| JoachimFriedrichBrandenburg1600.JPG                              | Joachim Frederick     | Son of                                                             | 1598–1608 | 1546  | 1608  | Catherine of Brandenburg-Küstrin |
-|                                                                  |                       |                                                                    |           |       |       | Eleanor of Prussia               |
-+------------------------------------------------------------------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
-| Johann_Sigismund_02_IV_13_2_0026_01_0318_a_Seite_1_Bild_0001.jpg | John Sigismund        | Son of                                                             | 1608–1619 | 1572  | 1619  | Anna, Duchess of Prussia         |
-|                                                                  |                       | personal union with Prussia after 1618 called Brandenburg-Prussia. |           |       |       |                                  |
-+------------------------------------------------------------------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
++----------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
+| Portrait | Name                  | Dynastic Status                                                    | Reign     | Birth | Death | Marriages                        |
++==========+=======================+====================================================================+===========+=======+=======+==================================+
+|          | Frederick I           | also as Frederick VI Burgrave of Nuremberg                         | 1415–1440 | 1371  | 1440  | Elisabeth of Bavaria             |
++----------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
+|          | Frederick II          | Son of                                                             | 1440–1471 | 1413  | 1471  | Catherine of Saxony              |
++----------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
+|          | Albrecht III Achilles | Brother of                                                         | 1471–1486 | 1414  | 1486  | Margaret of Baden                |
+|          |                       |                                                                    |           |       |       | Anna of Saxony                   |
++----------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
+|          | John Cicero           | Son of                                                             | 1486–1499 | 1455  | 1499  | Margaret of Thuringia            |
++----------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
+|          | Joachim I Nestor      | Son of                                                             | 1499–1535 | 1484  | 1535  | Elizabeth of Denmark             |
++----------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
+|          | Joachim II Hector     | Son of                                                             | 1535–1571 | 1505  | 1571  | Magdalena of Saxony              |
+|          |                       |                                                                    |           |       |       | Hedwig of Poland                 |
++----------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
+|          | John George           | Son of                                                             | 1571–1598 | 1525  | 1598  | Sophie of Legnica                |
+|          |                       |                                                                    |           |       |       | Sabina of Brandenburg-Ansbach    |
+|          |                       |                                                                    |           |       |       | Elisabeth of Anhalt-Zerbst       |
++----------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
+|          | Joachim Frederick     | Son of                                                             | 1598–1608 | 1546  | 1608  | Catherine of Brandenburg-Küstrin |
+|          |                       |                                                                    |           |       |       | Eleanor of Prussia               |
++----------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
+|          | John Sigismund        | Son of                                                             | 1608–1619 | 1572  | 1619  | Anna, Duchess of Prussia         |
+|          |                       | personal union with Prussia after 1618 called Brandenburg-Prussia. |           |       |       |                                  |
++----------+-----------------------+--------------------------------------------------------------------+-----------+-------+-------+----------------------------------+
 
 Margraves of Brandenburg-Küstrin (1535–1571)
 
-DEU_Kuestrin-Kietz_COA.svg The short-lived Margraviate of Brandenburg-Küstrin was set up as a secundogeniture of the House of Hohenzollern.
+The short-lived Margraviate of Brandenburg-Küstrin was set up as a secundogeniture of the House of Hohenzollern.
 
 -   1535–1571: John the Wise, Margrave of Brandenburg-Küstrin (son of Joachim I Nestor, Elector of Brandenburg. He died without issue. The Margraviate of Brandenburg-Küstrin was absorbed in 1571 into Brandenburg]].
 
 Margraves of Brandenburg-Schwedt (1688–1788)
 
-Wappen_Schwedt.png Although recognised as a branch of the dynasty since 1688, the Margraviate of Brandenburg-Schwedt remained subordinate to the electors, and was never an independent principality.
+Although recognised as a branch of the dynasty since 1688, the Margraviate of Brandenburg-Schwedt remained subordinate to the electors, and was never an independent principality.
 
 -   1688–1711: Philip William, Prince in Prussia, Margrave of Brandenburg-Schwedt (son of Frederick William, Elector of Brandenburg)
 -   1731–1771: Frederick William, Prince in Prussia, Margrave of Brandenburg-Schwedt (son of)
@@ -192,7 +188,7 @@ Wappen_Schwedt.png Although recognised as a branch of the dynasty since 1688, th
 
 Dukes of Prussia (1525–1701)
 
-POL_Prusy_książęce_COA.svg Acprussiamap2.gif, 1600–1795.]] In 1525 the Duchy of Prussia was established as a fief of the King of Poland. Albert of Prussia was the last Grand Master of the Teutonic Knights and the first Duke of Prussia. He belonged to the Ansbach branch of the dynasty. The Duchy of Prussia adopted Protestantism as the official state religion.
+, 1600–1795.]] In 1525 the Duchy of Prussia was established as a fief of the King of Poland. Albert of Prussia was the last Grand Master of the Teutonic Knights and the first Duke of Prussia. He belonged to the Ansbach branch of the dynasty. The Duchy of Prussia adopted Protestantism as the official state religion.
 
 -   1525–1568: Albert I
 -   1568–1618: Albert II Frederick co-heir (son of)
@@ -209,59 +205,59 @@ From 1701 the title of Duke of Prussia was attached to the title of King in and 
 
 Kings in Prussia (1701–1772)
 
-Wappen_Preußen.png Preussen_1701_Königsberg.jpg in Königsberg.]] In 1701 the title of King in Prussia was granted, without the Duchy of Prussia being elevated to a Kingdom within the Holy Roman Empire. From 1701 onwards the titles of Duke of Prussia and Elector of Brandenburg were always attached to the title of King in Prussia. The Duke of Prussia adopted the title of king as Frederick I, establishing his status as a monarch whose royal territory lay outside the boundaries of the Holy Roman Empire, with the assent of Emperor Leopold I: Frederick could not be "King of Prussia" because part of Prussia's lands were under the suzerainty of the Crown of the Kingdom of Poland. In the age of absolutism, most monarchs were obsessed with the desire to emulate Louis XIV of France with his luxurious palace at Versailles.
+in Königsberg.]] In 1701 the title of King in Prussia was granted, without the Duchy of Prussia being elevated to a Kingdom within the Holy Roman Empire. From 1701 onwards the titles of Duke of Prussia and Elector of Brandenburg were always attached to the title of King in Prussia. The Duke of Prussia adopted the title of king as Frederick I, establishing his status as a monarch whose royal territory lay outside the boundaries of the Holy Roman Empire, with the assent of Emperor Leopold I: Frederick could not be "King of Prussia" because part of Prussia's lands were under the suzerainty of the Crown of the Kingdom of Poland. In the age of absolutism, most monarchs were obsessed with the desire to emulate Louis XIV of France with his luxurious palace at Versailles.
 
 In 1772 the Duchy of Prussia was elevated to a kingdom.
 
-+----------------------------------------------+---------------------+--------------------------------------------------------+-----------+-------+-------+------------------------------------------------------+
-| Portrait                                     | Name                | Dynastic Status                                        | Reign     | Birth | Death | Marriages                                            |
-+==============================================+=====================+========================================================+===========+=======+=======+======================================================+
-| Weidemann,_Friedrich_I_Preußen.jpg           | Frederick I         | Son of also Duke of Prussia and Elector of Brandenburg | 1701–1713 | 1657  | 1713  | Elisabeth Henriette of Hesse-Kassel                  |
-|                                              |                     |                                                        |           |       |       | Sophia Charlotte of Hanover                          |
-|                                              |                     |                                                        |           |       |       | Sophia Louise of Mecklenburg-Schwerin                |
-+----------------------------------------------+---------------------+--------------------------------------------------------+-----------+-------+-------+------------------------------------------------------+
-| Antoine_pesne_friedrich_wil.jpg              | Frederick William I | Son of                                                 | 1713–1740 | 1688  | 1740  | Sophia Dorothea of Hanover                           |
-+----------------------------------------------+---------------------+--------------------------------------------------------+-----------+-------+-------+------------------------------------------------------+
-| Frederick_II_of_Prussia_Coloured_drawing.png | Frederick the Great | Son of later King of Prussia                           | 1740–1786 | 1712  | 1786  | Elisabeth Christine of Brunswick-Wolfenbüttel-Bevern |
-+----------------------------------------------+---------------------+--------------------------------------------------------+-----------+-------+-------+------------------------------------------------------+
++----------+---------------------+--------------------------------------------------------+-----------+-------+-------+------------------------------------------------------+
+| Portrait | Name                | Dynastic Status                                        | Reign     | Birth | Death | Marriages                                            |
++==========+=====================+========================================================+===========+=======+=======+======================================================+
+|          | Frederick I         | Son of also Duke of Prussia and Elector of Brandenburg | 1701–1713 | 1657  | 1713  | Elisabeth Henriette of Hesse-Kassel                  |
+|          |                     |                                                        |           |       |       | Sophia Charlotte of Hanover                          |
+|          |                     |                                                        |           |       |       | Sophia Louise of Mecklenburg-Schwerin                |
++----------+---------------------+--------------------------------------------------------+-----------+-------+-------+------------------------------------------------------+
+|          | Frederick William I | Son of                                                 | 1713–1740 | 1688  | 1740  | Sophia Dorothea of Hanover                           |
++----------+---------------------+--------------------------------------------------------+-----------+-------+-------+------------------------------------------------------+
+|          | Frederick the Great | Son of later King of Prussia                           | 1740–1786 | 1712  | 1786  | Elisabeth Christine of Brunswick-Wolfenbüttel-Bevern |
++----------+---------------------+--------------------------------------------------------+-----------+-------+-------+------------------------------------------------------+
 
 Kings of Prussia (1772–1918)
 
-Ac.prussiamap3.png Frederick William's successor, Frederick the Great gained Silesia in the Silesian Wars so that Prussia emerged as a great power. The king was strongly influenced by French culture and civilization and preferred the French language.
+Frederick William's successor, Frederick the Great gained Silesia in the Silesian Wars so that Prussia emerged as a great power. The king was strongly influenced by French culture and civilization and preferred the French language.
 
 In 1772 the title _King of Prussia_ was assumed. From 1772 onwards the titles of Duke of Prussia and Elector of Brandenburg were always attached to the title King of Prussia.
 
 In 1871 the Kingdom of Prussia became a constituent member of the German Empire, and the King of Prussia gained the additional title of German Emperor.
 
-+---------------------------------------------------------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
-| Portrait                                                | Name                  | Dynastic Status                 | Reign     | Birth | Death | Marriages                                            |
-+=========================================================+=======================+=================================+===========+=======+=======+======================================================+
-|                                                         |                       |                                 |           |       |       |                                                      |
-+---------------------------------------------------------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
-| Frederick_II_of_Prussia_Coloured_drawing.png            | Frederick the Great   | Son of                          | 1740–1786 | 1712  | 1786  | Elisabeth Christine of Brunswick-Wolfenbüttel-Bevern |
-|                                                         |                       | before King in Prussia          |           |       |       |                                                      |
-+---------------------------------------------------------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
-| Frédéric_Guillaume_II_de_Prusse.jpg                     | Frederick William II  | Nephew of                       | 1786–1797 | 1744  | 1797  | Elisabeth Christine of Brunswick-Lüneburg            |
-|                                                         |                       |                                 |           |       |       | Frederika Louisa of Hesse-Darmstadt                  |
-+---------------------------------------------------------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
-| FWIII.jpg                                               | Frederick William III | Son of                          | 1797–1840 | 1770  | 1840  | Louise of Mecklenburg-Strelitz                       |
-|                                                         |                       |                                 |           |       |       | Auguste von Harrach                                  |
-+---------------------------------------------------------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
-| FWIV.jpg                                                | Frederick William IV  | Son of                          | 1840–1861 | 1795  | 1861  | Elisabeth Ludovika of Bavaria                        |
-+---------------------------------------------------------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
-| Wilhelm1.jpg                                            | William I             | Brother of                      | 1861–1888 | 1797  | 1888  | Augusta of Saxe-Weimar-Eisenach                      |
-|                                                         |                       | also German Emperor (from 1871) |           |       |       |                                                      |
-+---------------------------------------------------------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
-| FriedIII.jpg                                            | Frederick III         | Son of                          | 1888      | 1831  | 1888  | Victoria, Princess Royal                             |
-|                                                         |                       | also German Emperor             |           |       |       |                                                      |
-+---------------------------------------------------------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
-| Bundesarchiv_Bild_146-2004-0096,_Kaiser_Wilhelm_II..jpg | Wilhelm II            | Son of                          | 1888–1918 | 1859  | 1941  | Augusta Victoria of Schleswig-Holstein               |
-|                                                         |                       | also German Emperor             |           |       |       | Hermine Reuss of Greiz                               |
-+---------------------------------------------------------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
++----------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
+| Portrait | Name                  | Dynastic Status                 | Reign     | Birth | Death | Marriages                                            |
++==========+=======================+=================================+===========+=======+=======+======================================================+
+|          |                       |                                 |           |       |       |                                                      |
++----------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
+|          | Frederick the Great   | Son of                          | 1740–1786 | 1712  | 1786  | Elisabeth Christine of Brunswick-Wolfenbüttel-Bevern |
+|          |                       | before King in Prussia          |           |       |       |                                                      |
++----------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
+|          | Frederick William II  | Nephew of                       | 1786–1797 | 1744  | 1797  | Elisabeth Christine of Brunswick-Lüneburg            |
+|          |                       |                                 |           |       |       | Frederika Louisa of Hesse-Darmstadt                  |
++----------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
+|          | Frederick William III | Son of                          | 1797–1840 | 1770  | 1840  | Louise of Mecklenburg-Strelitz                       |
+|          |                       |                                 |           |       |       | Auguste von Harrach                                  |
++----------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
+|          | Frederick William IV  | Son of                          | 1840–1861 | 1795  | 1861  | Elisabeth Ludovika of Bavaria                        |
++----------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
+|          | William I             | Brother of                      | 1861–1888 | 1797  | 1888  | Augusta of Saxe-Weimar-Eisenach                      |
+|          |                       | also German Emperor (from 1871) |           |       |       |                                                      |
++----------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
+|          | Frederick III         | Son of                          | 1888      | 1831  | 1888  | Victoria, Princess Royal                             |
+|          |                       | also German Emperor             |           |       |       |                                                      |
++----------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
+|          | Wilhelm II            | Son of                          | 1888–1918 | 1859  | 1941  | Augusta Victoria of Schleswig-Holstein               |
+|          |                       | also German Emperor             |           |       |       | Hermine Reuss of Greiz                               |
++----------+-----------------------+---------------------------------+-----------+-------+-------+------------------------------------------------------+
 
 German Emperors (1871–1918)
 
-Hohenzollern_Reichswappen_Kleines.png prussiamap.gif In 1871 the German Empire was proclaimed. With the accession of William I to the newly established imperial German throne, the titles of King of Prussia, Duke of Prussia and Elector of Brandenburg were always attached to the title of German Emperor.
+In 1871 the German Empire was proclaimed. With the accession of William I to the newly established imperial German throne, the titles of King of Prussia, Duke of Prussia and Elector of Brandenburg were always attached to the title of German Emperor.
 
 Prussia's Minister President Otto von Bismarck convinced William that German Emperor instead of Emperor of Germany would be appropriate. He became _primus inter pares_ among other German sovereigns.
 
@@ -274,7 +270,7 @@ File:Wilhelm1.jpg|William I (1871–1888) File:FriedIII.jpg|Frederick III (1888)
 
 Brandenburg-Prussian branch since 1918 abdication
 
-Georg_Friedrich_Prinz_von_Preußen-5835.jpg In June 1926, a referendum on expropriating the formerly ruling princes of Germany without compensation failed and as a consequence, the financial situation of the Hohenzollern family improved considerably. A settlement between the state and the family made Cecilienhof property of the state but granted a right of residence to Crown Prince Wilhelm and his wife Cecilie. The family also kept the ownership of Monbijou Palace in Berlin, Oleśnica Castle in Silesia, Rheinsberg Palace, Schwedt Palace and other property until 1945.
+In June 1926, a referendum on expropriating the formerly ruling princes of Germany without compensation failed and as a consequence, the financial situation of the Hohenzollern family improved considerably. A settlement between the state and the family made Cecilienhof property of the state but granted a right of residence to Crown Prince Wilhelm and his wife Cecilie. The family also kept the ownership of Monbijou Palace in Berlin, Oleśnica Castle in Silesia, Rheinsberg Palace, Schwedt Palace and other property until 1945.
 
 Since the abolition of the German monarchy, no Hohenzollern claims to imperial or royal prerogatives are recognised by Germany's Basic Law for the Federal Republic of Germany of 1949, which guarantees a republic.
 
@@ -311,12 +307,10 @@ Georg Friedrich, Prince of Prussia, the current head of the royal Prussian House
 
 Royal House of Hohenzollern table
 
-Genealogy_of_House_of_Hohenzollern.svg
-
 
 Swabian branch
 
-Schloss_Sigmaringen_Wappen.jpg (1849).]] The cadet Swabian[19] branch of the House of Hohenzollern was founded by Frederick IV, Count of Zollern. The family ruled three territories with seats at, respectively, Hechingen, Sigmaringen and Haigerloch. The counts were elevated to princes in 1623. The Swabian branch of the Hohenzollerns is Roman Catholic.
+(1849).]] The cadet Swabian[19] branch of the House of Hohenzollern was founded by Frederick IV, Count of Zollern. The family ruled three territories with seats at, respectively, Hechingen, Sigmaringen and Haigerloch. The counts were elevated to princes in 1623. The Swabian branch of the Hohenzollerns is Roman Catholic.
 
 Affected by economic problems and internal feuds, the Hohenzollern counts from the 14th century onwards came under pressure by their neighbors, the Counts of Württemberg and the cities of the Swabian League, whose troops besieged and finally destroyed Hohenzollern Castle in 1423. Nevertheless, the Hohenzollerns retained their estates, backed by their Brandenburg cousins and the Imperial House of Habsburg. In 1535, Count Charles I of Hohenzollern (1512–1576) received the counties of Sigmaringen and Veringen as Imperial fiefs.[20]
 
@@ -334,7 +328,7 @@ File:Sigmaringen Schloss 2015-04-29 15-52-34.jpg|Sigmaringen Castle File:2011-07
 
 Counts of Hohenzollern (1204–1575)
 
-Hohenzollern-herb-rodowy.jpg German_Empire_-_Prussia_-_Hohenzollern_(1871).svg, Germany (red color) and their Prussian cousins' kingdom (light beige)]]
+, Germany (red color) and their Prussian cousins' kingdom (light beige)]]
 
 In 1204, the County of Hohenzollern was established out of the fusion of the County of Zollern and the Burgraviate of Nuremberg. The Swabian branch inherited the county of Zollern and, being descended from Frederick I of Nuremberg, were all named "Friedrich" down through the 11th generation.[21] Each one's numeral is counted from the first Friedrich to rule his branch's appanage.[22]
 
@@ -367,48 +361,46 @@ The influence of the Swabian line was weakened by several partitions of its land
 
 Counts, later Princes of Hohenzollern-Hechingen (1576–1849)
 
-Hohenzollern-Hechingen-1.PNG Klosterkirche_Stetten_(Hechingen).JPG, the burial place of the Swabian line]] The County of Hohenzollern-Hechingen was established in 1576 with allodial rights. It included the original County of Zollern, with the Hohenzollern Castle and the monastery at Stetten.
+, the burial place of the Swabian line]] The County of Hohenzollern-Hechingen was established in 1576 with allodial rights. It included the original County of Zollern, with the Hohenzollern Castle and the monastery at Stetten.
 
 In December 1849, the ruling princes of both Hohenzollern-Hechingen and Hohenzollern-Sigmaringen abdicated their thrones, and their principalities were incorporated as the Prussian province of Hohenzollern.[27] The Hechingen branch became extinct in dynastic line with Konstantin's death in 1869.
 
-+---------------------------------------------------------------------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
-| Portrait                                                            | Name                    | Dynastic Status                                   | Reign     | Birth | Death | Marriages                               |
-+=====================================================================+=========================+===================================================+===========+=======+=======+=========================================+
-|                                                                     |                         |                                                   |           |       |       |                                         |
-+---------------------------------------------------------------------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
-| Eitelivs_Fridericvs_Comes_Zollerensis.jpg                           | Eitel Friedrich IV      | Son of Charles I                                  | 1576–1605 | 1545  | 1605  | Veronica of Ortenburg                   |
-|                                                                     |                         |                                                   |           |       |       | Sibylle of Zimmern                      |
-|                                                                     |                         |                                                   |           |       |       | Johanna of Eberstein                    |
-+---------------------------------------------------------------------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
-| Coat_of_Arms_of_House_of_Hohenzollern_(small).png                   | Johann Georg            | Son of                                            | 1605–1623 | 1577  | 1623  | Franziska of Salm-Neufville             |
-|                                                                     |                         | raised to Prince in 1623                          |           |       |       |                                         |
-+---------------------------------------------------------------------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
-| Coat_of_Arms_of_House_of_Hohenzollern_(small).png                   | Eitel Frederick V       | Son of                                            | 1623–1661 | 1601  | 1661  | Maria Elisabeth van Bergh ’s-Heerenberg |
-|                                                                     |                         | also count of Hohenzollern-Hechingen              |           |       |       |                                         |
-+---------------------------------------------------------------------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
-| Coat_of_Arms_of_House_of_Hohenzollern_(small).png                   | Philipp                 | Brother of                                        | 1661–1671 | 1616  | 1671  | Marie Sidonie of Baden-Rodemachern      |
-+---------------------------------------------------------------------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
-| Friedrich_Wilhelm,_Fùrst_von_Hohenzollern-Hechingen_(1663-1735).jpg | Friedrich Wilhelm       | Son of                                            | 1671–1735 | 1663  | 1735  | Maria Leopoldina of Sinzendorf          |
-|                                                                     |                         |                                                   |           |       |       | Maximiliane Magdalena of Lützau         |
-+---------------------------------------------------------------------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
-| Coat_of_Arms_of_House_of_Hohenzollern_(small).png                   | Friedrich Ludwig        | Son of                                            | 1735–1750 | 1688  | 1750  | unmarried                               |
-+---------------------------------------------------------------------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
-| JosefHohenzollernHechingen.jpg                                      | Josef Friedrich Wilhelm | Son of Herman Frederick of Hohenzollern-Hechingen | 1750–1798 | 1717  | 1798  | Maria Theresia Folch de Cardona y Silva |
-|                                                                     |                         |                                                   |           |       |       | Maria Theresia of Waldburg-Zeil         |
-+---------------------------------------------------------------------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
-| Hermannhohenzollern.jpg                                             | Hermann                 | Son of Franz Xaver of Hohenzollern-Hechingen      | 1798–1810 | 1751  | 1810  | Louise of Merode-Westerloo              |
-|                                                                     |                         |                                                   |           |       |       | Maximiliane of Gavre                    |
-|                                                                     |                         |                                                   |           |       |       | Maria Antonia of Waldburg-Zeil-Wurzach  |
-+---------------------------------------------------------------------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
-| Coat_of_Arms_of_House_of_Hohenzollern_(small).png                   | Friedrich Hermann Otto  | Son of                                            | 1810–1838 | 1776  | 1838  | Pauline, Duchess of Sagan               |
-+---------------------------------------------------------------------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
-| KonstantinHohenzHech.jpg                                            | Constantine             | Son of                                            | 1838–1849 | 1801  | 1869  | Eugénie de Beauharnais                  |
-|                                                                     |                         |                                                   |           |       |       | Amalie Schenk von Geyern                |
-+---------------------------------------------------------------------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
++----------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
+| Portrait | Name                    | Dynastic Status                                   | Reign     | Birth | Death | Marriages                               |
++==========+=========================+===================================================+===========+=======+=======+=========================================+
+|          |                         |                                                   |           |       |       |                                         |
++----------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
+|          | Eitel Friedrich IV      | Son of Charles I                                  | 1576–1605 | 1545  | 1605  | Veronica of Ortenburg                   |
+|          |                         |                                                   |           |       |       | Sibylle of Zimmern                      |
+|          |                         |                                                   |           |       |       | Johanna of Eberstein                    |
++----------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
+|          | Johann Georg            | Son of                                            | 1605–1623 | 1577  | 1623  | Franziska of Salm-Neufville             |
+|          |                         | raised to Prince in 1623                          |           |       |       |                                         |
++----------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
+|          | Eitel Frederick V       | Son of                                            | 1623–1661 | 1601  | 1661  | Maria Elisabeth van Bergh ’s-Heerenberg |
+|          |                         | also count of Hohenzollern-Hechingen              |           |       |       |                                         |
++----------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
+|          | Philipp                 | Brother of                                        | 1661–1671 | 1616  | 1671  | Marie Sidonie of Baden-Rodemachern      |
++----------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
+|          | Friedrich Wilhelm       | Son of                                            | 1671–1735 | 1663  | 1735  | Maria Leopoldina of Sinzendorf          |
+|          |                         |                                                   |           |       |       | Maximiliane Magdalena of Lützau         |
++----------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
+|          | Friedrich Ludwig        | Son of                                            | 1735–1750 | 1688  | 1750  | unmarried                               |
++----------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
+|          | Josef Friedrich Wilhelm | Son of Herman Frederick of Hohenzollern-Hechingen | 1750–1798 | 1717  | 1798  | Maria Theresia Folch de Cardona y Silva |
+|          |                         |                                                   |           |       |       | Maria Theresia of Waldburg-Zeil         |
++----------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
+|          | Hermann                 | Son of Franz Xaver of Hohenzollern-Hechingen      | 1798–1810 | 1751  | 1810  | Louise of Merode-Westerloo              |
+|          |                         |                                                   |           |       |       | Maximiliane of Gavre                    |
+|          |                         |                                                   |           |       |       | Maria Antonia of Waldburg-Zeil-Wurzach  |
++----------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
+|          | Friedrich Hermann Otto  | Son of                                            | 1810–1838 | 1776  | 1838  | Pauline, Duchess of Sagan               |
++----------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
+|          | Constantine             | Son of                                            | 1838–1849 | 1801  | 1869  | Eugénie de Beauharnais                  |
+|          |                         |                                                   |           |       |       | Amalie Schenk von Geyern                |
++----------+-------------------------+---------------------------------------------------+-----------+-------+-------+-----------------------------------------+
 
 Counts of Hohenzollern-Haigerloch (1576–1634 and 1681–1767)
-
-Wappen_Haigerloch.svg
 
 The County of Hohenzollern-Haigerloch was established in 1576 without allodial rights.
 
@@ -426,44 +418,44 @@ Upon the death of Francis Christopher Anton in 1767, the Haigerloch territory wa
 
 Counts, later Princes of Hohenzollern-Sigmaringen (1576–1849)
 
-Hohenzollern-2.PNG Sigmaringen_Schloss_BW_2015-04-28_17-37-14.jpg The County of Hohenzollern-Sigmaringen was established in 1576 with allodial rights and a seat at Sigmaringen Castle.
+The County of Hohenzollern-Sigmaringen was established in 1576 with allodial rights and a seat at Sigmaringen Castle.
 
 In December 1849, sovereignty over the principality was yielded to the Franconian branch of the family and incorporated into the Kingdom of Prussia, which accorded status as cadets of the Prussian Royal Family to the Swabian Hohenzollerns. The last ruling Prince of Hohenzollern-Sigmaringen, Karl Anton, would later serve as Minister President of Prussia between 1858 and 1862.
 
-+---------------------------------------------------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
-| Portrait                                          | Name                   | Dynastic Status                                        | Reign     | Birth | Death | Marriages                                         |
-+===================================================+========================+========================================================+===========+=======+=======+===================================================+
-|                                                   |                        |                                                        |           |       |       |                                                   |
-+---------------------------------------------------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
-| Karl_II_hohenzollern.jpg                          | Charles II             | Son of Charles I                                       | 1576–1606 | 1547  | 1606  | Euphrosyne of Oettingen-Wallerstein               |
-|                                                   |                        |                                                        |           |       |       | Elisabeth of Palant                               |
-+---------------------------------------------------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
-| Jean_de_Hohenzollern_1578-1638.jpg                | Johann                 | Son of                                                 | 1606–1638 | 1578  | 1638  | Johanna of Hohenzollern-Hechingen                 |
-|                                                   |                        | elevated to Prince of Hohenzollern-Sigmaringen in 1623 |           |       |       |                                                   |
-+---------------------------------------------------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
-| Meinrad_von_Hohenzollern-Sigmaringen.jpg          | Meinrad I              | Son of                                                 | 1638–1681 | 1605  | 1681  | Anna Marie of Törring at Seefeld                  |
-+---------------------------------------------------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
-| Maximilien_I_de_Hohenzollern.jpg                  | Maximilian I           | Son of                                                 | 1681–1689 | 1636  | 1689  | Maria Clara of Berg-'s-Heerenberg                 |
-+---------------------------------------------------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
-| Coat_of_Arms_of_House_of_Hohenzollern_(small).png | Meinrad II             | Son of                                                 | 1689–1715 | 1673  | 1715  | Johanna Catharina of Montfort                     |
-+---------------------------------------------------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
-| JosefFriedrErnstHohenzSig.jpg                     | Joseph Friedrich Ernst | Son of                                                 | 1715–1769 | 1702  | 1769  | Marie Franziska of Oettingen-Spielberg            |
-|                                                   |                        |                                                        |           |       |       | Judith of Closen-Arnstorf                         |
-|                                                   |                        |                                                        |           |       |       | Maria Theresa of Waldburg-Trauchburg              |
-+---------------------------------------------------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
-| Coat_of_Arms_of_House_of_Hohenzollern_(small).png | Karl Friedrich         | Son of                                                 | 1769–1785 | 1724  | 1785  | Johanna of Hohenzollern-Bergh                     |
-+---------------------------------------------------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
-| Adel_im_Wandel401.jpg                             | Anton Aloys            | Son of                                                 | 1785–1831 | 1762  | 1831  | Amalie Zephyrine of Salm-Kyrburg                  |
-+---------------------------------------------------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
-| Adel_im_Wandel403.jpg                             | Karl                   | Son of                                                 | 1831–1848 | 1785  | 1853  | Marie Antoinette Murat                            |
-|                                                   |                        |                                                        |           |       |       | Katharina of Hohenlohe-Waldenburg-Schillingsfürst |
-+---------------------------------------------------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
-| Karl_Anton_von_Hohenzollern.jpg                   | Karl Anton             | Son of                                                 | 1848–1849 | 1811  | 1885  | Josephine of Baden                                |
-+---------------------------------------------------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
++----------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
+| Portrait | Name                   | Dynastic Status                                        | Reign     | Birth | Death | Marriages                                         |
++==========+========================+========================================================+===========+=======+=======+===================================================+
+|          |                        |                                                        |           |       |       |                                                   |
++----------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
+|          | Charles II             | Son of Charles I                                       | 1576–1606 | 1547  | 1606  | Euphrosyne of Oettingen-Wallerstein               |
+|          |                        |                                                        |           |       |       | Elisabeth of Palant                               |
++----------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
+|          | Johann                 | Son of                                                 | 1606–1638 | 1578  | 1638  | Johanna of Hohenzollern-Hechingen                 |
+|          |                        | elevated to Prince of Hohenzollern-Sigmaringen in 1623 |           |       |       |                                                   |
++----------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
+|          | Meinrad I              | Son of                                                 | 1638–1681 | 1605  | 1681  | Anna Marie of Törring at Seefeld                  |
++----------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
+|          | Maximilian I           | Son of                                                 | 1681–1689 | 1636  | 1689  | Maria Clara of Berg-'s-Heerenberg                 |
++----------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
+|          | Meinrad II             | Son of                                                 | 1689–1715 | 1673  | 1715  | Johanna Catharina of Montfort                     |
++----------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
+|          | Joseph Friedrich Ernst | Son of                                                 | 1715–1769 | 1702  | 1769  | Marie Franziska of Oettingen-Spielberg            |
+|          |                        |                                                        |           |       |       | Judith of Closen-Arnstorf                         |
+|          |                        |                                                        |           |       |       | Maria Theresa of Waldburg-Trauchburg              |
++----------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
+|          | Karl Friedrich         | Son of                                                 | 1769–1785 | 1724  | 1785  | Johanna of Hohenzollern-Bergh                     |
++----------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
+|          | Anton Aloys            | Son of                                                 | 1785–1831 | 1762  | 1831  | Amalie Zephyrine of Salm-Kyrburg                  |
++----------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
+|          | Karl                   | Son of                                                 | 1831–1848 | 1785  | 1853  | Marie Antoinette Murat                            |
+|          |                        |                                                        |           |       |       | Katharina of Hohenlohe-Waldenburg-Schillingsfürst |
++----------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
+|          | Karl Anton             | Son of                                                 | 1848–1849 | 1811  | 1885  | Josephine of Baden                                |
++----------+------------------------+--------------------------------------------------------+-----------+-------+-------+---------------------------------------------------+
 
 House of Hohenzollern-Sigmaringen after 1849
 
-Karte-Hohenzollern.png, a de facto province of Prussia after 1850.]] Graf_von_dem_Bergh,_Fotografie_Fürst_Karl_Friedrich_von_Hohenzollern.jpg, head of the Swabian branch]] The family continued to use the title of Prince of Hohenzollern-Sigmaringen. After the Hechingen branch became extinct in 1869, the Sigmaringen branch adopted title of _Prince of Hohenzollern_.
+, a de facto province of Prussia after 1850.]] , head of the Swabian branch]] The family continued to use the title of Prince of Hohenzollern-Sigmaringen. After the Hechingen branch became extinct in 1869, the Sigmaringen branch adopted title of _Prince of Hohenzollern_.
 
 -   1849–1885: Karl Anton (1811–1885)
 -   1885–1905: Leopold (1835–1905), son of
@@ -482,34 +474,32 @@ The head of the Sigmaringen branch (the only extant line of the Swabian branch o
 
 Kings of the Romanians
 
-Kingdom_of_Romania_-_Small_CoA.svg
-
 Reigning (1866–1947)
 
-Crowning_of_Carol_I,_10_May_1881.jpg in Bucharest]] Romania_territory_during_20th_century.gif The Principality of Romania was established in 1862, after the Ottoman vassal states of Wallachia and Moldavia had been united in 1859 under Alexandru Ioan Cuza as Prince of Romania in a personal union. He was deposed in 1866 by the Romanian parliament.
+in Bucharest]] The Principality of Romania was established in 1862, after the Ottoman vassal states of Wallachia and Moldavia had been united in 1859 under Alexandru Ioan Cuza as Prince of Romania in a personal union. He was deposed in 1866 by the Romanian parliament.
 
 Prince Charles of Hohenzollern-Sigmaringen was invited to become reigning Prince of Romania in 1866. In 1881 he became Carol I, King of the Romanians. Carol I had an only daughter who died young, so the younger son of his brother Leopold, Prince Ferdinand of Hohenzollern-Sigmaringen, would succeed his uncle as King of the Romanians in 1914, and his descendants, having converted to the Orthodox Church, continued to reign there until the end of the monarchy in 1947.
 
-+-------------------------------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
-| Portrait                      | Name        | Dynastic Status                           | Reign     | Birth | Death | Marriages                   |
-+===============================+=============+===========================================+===========+=======+=======+=============================+
-|                               |             |                                           |           |       |       |                             |
-+-------------------------------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
-| Carol_I_King_of_Romania.jpg   | Carol I     | Son of Karl Anton, Prince of Hohenzollern | 1866–1914 | 1839  | 1914  | Elisabeth of Wied           |
-|                               |             | titled as Prince until 1881               |           |       |       |                             |
-+-------------------------------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
-| King_Ferdinand_of_Romania.jpg | Ferdinand I | Nephew of Carol I                         | 1914–1927 | 1865  | 1927  | Marie of Edinburgh          |
-+-------------------------------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
-| Mihai.jpg                     | Michael I   | Grandson of Ferdinand I                   | 1927–1930 | 1921  | 2017  | Anne of Bourbon-Parma       |
-|                               |             | 1st reign                                 |           |       |       |                             |
-+-------------------------------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
-| Carol_al_II-lea.jpg           | Carol II    | Son of Ferdinand I                        | 1930–1940 | 1893  | 1953  | Zizi Lambrino               |
-|                               |             |                                           |           |       |       | Helen of Greece and Denmark |
-|                               |             |                                           |           |       |       | Magda Lupescu               |
-+-------------------------------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
-| Mihai.jpg                     | Michael I   | Son of Carol II                           | 1940–1947 | 1921  | 2017  | Anne of Bourbon-Parma       |
-|                               |             | 2nd reign                                 |           |       |       |                             |
-+-------------------------------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
++----------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
+| Portrait | Name        | Dynastic Status                           | Reign     | Birth | Death | Marriages                   |
++==========+=============+===========================================+===========+=======+=======+=============================+
+|          |             |                                           |           |       |       |                             |
++----------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
+|          | Carol I     | Son of Karl Anton, Prince of Hohenzollern | 1866–1914 | 1839  | 1914  | Elisabeth of Wied           |
+|          |             | titled as Prince until 1881               |           |       |       |                             |
++----------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
+|          | Ferdinand I | Nephew of Carol I                         | 1914–1927 | 1865  | 1927  | Marie of Edinburgh          |
++----------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
+|          | Michael I   | Grandson of Ferdinand I                   | 1927–1930 | 1921  | 2017  | Anne of Bourbon-Parma       |
+|          |             | 1st reign                                 |           |       |       |                             |
++----------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
+|          | Carol II    | Son of Ferdinand I                        | 1930–1940 | 1893  | 1953  | Zizi Lambrino               |
+|          |             |                                           |           |       |       | Helen of Greece and Denmark |
+|          |             |                                           |           |       |       | Magda Lupescu               |
++----------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
+|          | Michael I   | Son of Carol II                           | 1940–1947 | 1921  | 2017  | Anne of Bourbon-Parma       |
+|          |             | 2nd reign                                 |           |       |       |                             |
++----------+-------------+-------------------------------------------+-----------+-------+-------+-----------------------------+
 
 Succession since 1947
 

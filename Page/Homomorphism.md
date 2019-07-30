@@ -47,7 +47,7 @@ and is also a group homomorphism.
 
 Examples
 
-Exponentiation_as_monoid_homomorphism_svg.svg homomorphism from the monoid to the monoid , defined by . It is injective, but not surjective.]] The real numbers are a ring, having both addition and multiplication. The set of all 2 × 2 matrices is also a ring, under matrix addition and matrix multiplication. If we define a function between these rings as follows:
+homomorphism from the monoid to the monoid , defined by . It is injective, but not surjective.]] The real numbers are a ring, having both addition and multiplication. The set of all 2 × 2 matrices is also a ring, under matrix addition and matrix multiplication. If we define a function between these rings as follows:
 
 $$f(r) = \begin{pmatrix}
    r & 0 \\

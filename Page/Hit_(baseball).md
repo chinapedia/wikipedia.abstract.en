@@ -1,4 +1,4 @@
-Pete_Rose_2008.jpg is the all-time leader in Major League Baseball hits, recording 4,256.]] Ichiro_Suzuki_on_June_18,_2015.jpg has recorded the most career hits across top tier professional leagues, combining his current Major League hits with his previous 1,278 hits in Nippon Professional Baseball.]]
+is the all-time leader in Major League Baseball hits, recording 4,256.]] has recorded the most career hits across top tier professional leagues, combining his current Major League hits with his previous 1,278 hits in Nippon Professional Baseball.]]
 
 In baseball statistics, a HIT (denoted by H), also called a BASE HIT, is credited to a batter when the batter safely reaches first base after hitting the ball into fair territory, without the benefit of an error or a fielder's choice.
 
@@ -23,7 +23,7 @@ A no-hitter is a game in which one of the teams prevented the other from getting
 
 History
 
-TyCobbTigers.jpg recorded a career 4,191 hits, holding the Major League record for 57 years.]] In 1887, Major League Baseball counted bases on balls (walks) as hits. The result was skyrocketing batting averages, including some near .500; Tip O'Neill of the St. Louis Browns batted .485 that season, which would still be a major league record if recognized. The experiment was abandoned the following season.
+recorded a career 4,191 hits, holding the Major League record for 57 years.]] In 1887, Major League Baseball counted bases on balls (walks) as hits. The result was skyrocketing batting averages, including some near .500; Tip O'Neill of the St. Louis Browns batted .485 that season, which would still be a major league record if recognized. The experiment was abandoned the following season.
 
 There is controversy regarding how the records of 1887 should be interpreted. The number of legitimate walks and at-bats are known for all players that year, so computing averages using the same method as in other years is straightforward. In 1968, Major League Baseball formed a Special Baseball Records Committee to resolve this (and other) issues. The Committee ruled that walks in 1887 should not be counted as hits. In 2000, Major League Baseball reversed its decision, ruling that the statistics which were recognized in each year's official records should stand, even in cases where they were later proven incorrect. Most current sources list O'Neill's 1887 average as .435, as calculated by omitting his walks. He would retain his American Association batting championship. However, the variance between methods results in differing recognition for the 1887 National League batting champion. Cap Anson would be recognized, with his .421 average, if walks are included, but Sam Thompson would be the champion at .372 if they are not.
 

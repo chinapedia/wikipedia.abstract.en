@@ -9,7 +9,7 @@ The name comes . The plural can be either "icosahedrons" or "icosahedra" ().
 
 Dimensions
 
-Icosaedro_desarrollo.gif If the edge length of a regular icosahedron is _a_, the radius of a circumscribed sphere (one that touches the icosahedron at all vertices) is
+If the edge length of a regular icosahedron is _a_, the radius of a circumscribed sphere (one that touches the icosahedron at all vertices) is
 
 $$r_u = \frac{a}{2} \sqrt{\phi \sqrt{5}} = \frac{a}{4} \sqrt{10 +2\sqrt{5}} = a\sin\frac{2\pi}{5} \approx 0.951\,056\,5163 \cdot a$$
 
@@ -41,7 +41,7 @@ $$f=\frac{V}{\frac43 \pi r_u^3} = \frac{20(3+\sqrt{5})}{(2\sqrt{5}+10)^{\frac32}
 
 Cartesian coordinates
 
-Icosahedron-golden-rectangles.svg The vertices of an icosahedron centered at the origin with an edge-length of 2 and a circumradius of $\sqrt{\phi+2} \approx 1.9$ are described by circular permutations of:[1]
+The vertices of an icosahedron centered at the origin with an edge-length of 2 and a circumradius of $\sqrt{\phi+2} \approx 1.9$ are described by circular permutations of:[1]
 
     (0, ±1, ±_ϕ_)
 
@@ -53,9 +53,9 @@ Note that these vertices form five sets of three concentric, mutually orthogonal
 
 If the original icosahedron has edge length 1, its dual dodecahedron has edge length = = _ϕ_ − 1.
 
-Icosahedron_model.JPG The 12 edges of a regular octahedron can be subdivided in the golden ratio so that the resulting vertices define a regular icosahedron. This is done by first placing vectors along the octahedron's edges such that each face is bounded by a cycle, then similarly subdividing each edge into the golden mean along the direction of its vector. The five octahedra defining any given icosahedron form a regular polyhedral compound, while the two icosahedra that can be defined in this way from any given octahedron form a uniform polyhedron compound.
+The 12 edges of a regular octahedron can be subdivided in the golden ratio so that the resulting vertices define a regular icosahedron. This is done by first placing vectors along the octahedron's edges such that each face is bounded by a cycle, then similarly subdividing each edge into the golden mean along the direction of its vector. The five octahedra defining any given icosahedron form a regular polyhedral compound, while the two icosahedra that can be defined in this way from any given octahedron form a uniform polyhedron compound.
 
-Вписанный_правильный_икосаэдр_и_четыре_плоскости.gif. Vertices of the regular icosahedron lie in four parallel planes, forming in them four equilateral triangles; this was proved by Pappus of Alexandria]]
+. Vertices of the regular icosahedron lie in four parallel planes, forming in them four equilateral triangles; this was proved by Pappus of Alexandria]]
 
 Spherical coordinates
 
@@ -68,19 +68,18 @@ Orthogonal projections
 
 The icosahedron has three special orthogonal projections, centered on a face, an edge and a vertex:
 
-+---------------+-------------------------------+----------------------------+-------------------------------+
-| Centered by   | Face                          | Edge                       | Vertex                        |
-+===============+===============================+============================+===============================+
-| Coxeter plane | A₂                            | A₃                         | H₃                            |
-+---------------+-------------------------------+----------------------------+-------------------------------+
-| Graph         | Icosahedron_A2_projection.svg | Icosahedron_graph_A3_1.png | Icosahedron_H3_projection.svg |
-+---------------+-------------------------------+----------------------------+-------------------------------+
-| Projective    | [6]                           | [2]                        | [10]                          |
-| symmetry      |                               |                            |                               |
-+---------------+-------------------------------+----------------------------+-------------------------------+
-| Graph         | Icosahedron_fnormal.png       | Icosahedron_graph_A3_2.png | Icosahedron_vnormal.png       |
-|               | Face normal                   | Edge normal                | Vertex normal                 |
-+---------------+-------------------------------+----------------------------+-------------------------------+
++---------------+-------------+-------------+---------------+
+| Centered by   | Face        | Edge        | Vertex        |
++===============+=============+=============+===============+
+| Coxeter plane | A₂          | A₃          | H₃            |
++---------------+-------------+-------------+---------------+
+| Graph         |             |             |               |
++---------------+-------------+-------------+---------------+
+| Projective    | [6]         | [2]         | [10]          |
+| symmetry      |             |             |               |
++---------------+-------------+-------------+---------------+
+| Graph         | Face normal | Edge normal | Vertex normal |
++---------------+-------------+-------------+---------------+
 
 : Orthogonal projections
 
@@ -89,10 +88,10 @@ Spherical tiling
 
 The icosahedron can also be represented as a spherical tiling, and projected onto the plane via a stereographic projection. This projection is conformal, preserving angles but not areas or lengths. Straight lines on the sphere are projected as circular arcs on the plane.
 
-  --------------------------- ------------------------------------------
-  Uniform_tiling_532-t2.png   icosahedron_stereographic_projection.svg
-  Orthographic projection     Stereographic projection
-  --------------------------- ------------------------------------------
+  ------------------------- --------------------------
+
+  Orthographic projection   Stereographic projection
+  ------------------------- --------------------------
 
 
 Other facts
@@ -104,13 +103,12 @@ Other facts
 
 Construction by a system of equiangular lines
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------+
-| Icosahedron_H3_projection.svg                                                                                                                                                                                                                                                                                                                                      | 6-cube_t5_B5.svg |
-| Icosahedron                                                                                                                                                                                                                                                                                                                                                        | 6-orthoplex      |
-| H₃ Coxeter plane                                                                                                                                                                                                                                                                                                                                                   | D₆ Coxeter plane |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------+
-| This construction can be geometrically seen as the 12 vertices of the 6-orthoplex projected to 3 dimensions. This represents a geometric folding of the D₆ to H₃ Coxeter groups: File:Geometric folding Coxeter graph D6 H3.png Seen by these 2D Coxeter plane orthogonal projections, the two overlapping central vertices define the third axis in this mapping. |                  |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------+
+| Icosahedron                                                                                                                                                                                                                                                                                                         | 6-orthoplex      |
+| H₃ Coxeter plane                                                                                                                                                                                                                                                                                                    | D₆ Coxeter plane |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------+
+| This construction can be geometrically seen as the 12 vertices of the 6-orthoplex projected to 3 dimensions. This represents a geometric folding of the D₆ to H₃ Coxeter groups: Seen by these 2D Coxeter plane orthogonal projections, the two overlapping central vertices define the third axis in this mapping. |                  |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------+
 
 The following construction of the icosahedron avoids tedious computations in the number field [] necessary in more elementary approaches.
 
@@ -135,7 +133,7 @@ A second straightforward construction of the icosahedron uses representation the
 
 Symmetry
 
-Sphere_symmetry_group_ih.png has 15 mirror planes (seen as cyan great circles on this sphere) meeting at order , , angles, dividing a sphere into 120 triangle fundamental domains. There are 6 5-fold axes (blue), 10 3-fold axes (red), and 15 2-fold axes (magenta). The vertices of the regular icosahedron exist at the 5-fold rotation axis points.]] The rotational symmetry group of the regular icosahedron is isomorphic to the alternating group on five letters. This non-abelian simple group is the only non-trivial normal subgroup of the symmetric group on five letters. Since the Galois group of the general quintic equation is isomorphic to the symmetric group on five letters, and this normal subgroup is simple and non-abelian, the general quintic equation does not have a solution in radicals. The proof of the Abel–Ruffini theorem uses this simple fact, and Felix Klein wrote a book that made use of the theory of icosahedral symmetries to derive an analytical solution to the general quintic equation, . See icosahedral symmetry: related geometries for further history, and related symmetries on seven and eleven letters.
+has 15 mirror planes (seen as cyan great circles on this sphere) meeting at order , , angles, dividing a sphere into 120 triangle fundamental domains. There are 6 5-fold axes (blue), 10 3-fold axes (red), and 15 2-fold axes (magenta). The vertices of the regular icosahedron exist at the 5-fold rotation axis points.]] The rotational symmetry group of the regular icosahedron is isomorphic to the alternating group on five letters. This non-abelian simple group is the only non-trivial normal subgroup of the symmetric group on five letters. Since the Galois group of the general quintic equation is isomorphic to the symmetric group on five letters, and this normal subgroup is simple and non-abelian, the general quintic equation does not have a solution in radicals. The proof of the Abel–Ruffini theorem uses this simple fact, and Felix Klein wrote a book that made use of the theory of icosahedral symmetries to derive an analytical solution to the general quintic equation, . See icosahedral symmetry: related geometries for further history, and related symmetries on seven and eleven letters.
 
 The full symmetry group of the icosahedron (including reflections) is known as the full icosahedral group, and is isomorphic to the product of the rotational symmetry group and the group _C_₂ of size two, which is generated by the reflection through the center of the icosahedron.
 
@@ -144,14 +142,13 @@ Stellations
 
 The icosahedron has a large number of stellations. According to specific rules defined in the book _The Fifty-Nine Icosahedra_, 59 stellations were identified for the regular icosahedron. The first form is the icosahedron itself. One is a regular Kepler–Poinsot polyhedron. Three are regular compound polyhedra.[8]
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------+-----------------------------------------+-------------------------------------------+----------------------------------------------+-----------------------------------------------+----------------------------------------------+-------------------------------------+
-| Stellation_diagram_of_icosahedron.svg                                                                                                                                     | Zeroth_stellation_of_icosahedron.png    | First_stellation_of_icosahedron.png     | Second_stellation_of_icosahedron.png      | Third_stellation_of_icosahedron.png          | Fourth_stellation_of_icosahedron.png          | Fifth_stellation_of_icosahedron.png          | Sixth_stellation_of_icosahedron.png |
-| The faces of the icosahedron extended outwards as planes intersect, defining regions in space as shown by this stellation diagram of the intersections in a single plane. |                                         |                                         |                                           |                                              |                                               |                                              |                                     |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------+-----------------------------------------+-------------------------------------------+----------------------------------------------+-----------------------------------------------+----------------------------------------------+-------------------------------------+
-| Seventh_stellation_of_icosahedron.png                                                                                                                                     | Eighth_stellation_of_icosahedron.png    | Ninth_stellation_of_icosahedron.png     | Tenth_stellation_of_icosahedron.png       | Eleventh_stellation_of_icosahedron.png       | Twelfth_stellation_of_icosahedron.png         | Thirteenth_stellation_of_icosahedron.png     |                                     |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------+-----------------------------------------+-------------------------------------------+----------------------------------------------+-----------------------------------------------+----------------------------------------------+-------------------------------------+
-| Fourteenth_stellation_of_icosahedron.png                                                                                                                                  | Fifteenth_stellation_of_icosahedron.png | Sixteenth_stellation_of_icosahedron.png | Seventeenth_stellation_of_icosahedron.png | First_compound_stellation_of_icosahedron.png | Second_compound_stellation_of_icosahedron.png | Third_compound_stellation_of_icosahedron.png |                                     |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------+-----------------------------------------+-------------------------------------------+----------------------------------------------+-----------------------------------------------+----------------------------------------------+-------------------------------------+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--+--+--+--+--+--+--+
+| The faces of the icosahedron extended outwards as planes intersect, defining regions in space as shown by this stellation diagram of the intersections in a single plane. |  |  |  |  |  |  |  |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--+--+--+--+--+--+--+
+|                                                                                                                                                                           |  |  |  |  |  |  |  |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--+--+--+--+--+--+--+
+|                                                                                                                                                                           |  |  |  |  |  |  |  |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--+--+--+--+--+--+--+
 
 : 21 of 59 stellations
 
@@ -160,10 +157,10 @@ Facetings
 
 The small stellated dodecahedron, great dodecahedron, and great icosahedron are three facetings of the regular icosahedron. They share the same vertex arrangement. They all have 30 edges. The regular icosahedron and great dodecahedron share the same edge arrangement but differ in faces (triangles vs pentagons), as do the small stellated dodecahedron and great icosahedron (pentagrams vs triangles).
 
-  Convex            Regular stars
-  ----------------- ------------------------
-  ICOSAHEDRON       great dodecahedron
-  Icosahedron.png   Great_dodecahedron.png
+  Convex        Regular stars
+  ------------- --------------------
+  ICOSAHEDRON   great dodecahedron
+
 
 
 Geometric relations
@@ -176,7 +173,7 @@ An icosahedron can also be called a gyroelongated pentagonal bipyramid. It can b
 
 Relation to the 6-cube and rhombic triacontahedron
 
-    6demicube-odd-icosahedron.png
+
 
 It can be projected to 3D from the 6D 6-demicube using the same basis vectors that form the hull of the Rhombic triacontahedron from the 6-cube. Shown here including the inner 20 vertices which are not connected by the 30 outer hull edges of 6D norm length . The inner vertices form a dodecahedron.
 
@@ -189,41 +186,41 @@ The 3D projection basis vectors [u,v,w] used are:
 
 Uniform colorings and subsymmetries
 
-Icosahedral_subgroup_tree.png subgroups]] There are 3 uniform colorings of the icosahedron. These colorings can be represented as 11213, 11212, 11111, naming the 5 triangular faces around each vertex by their color.
+subgroups]] There are 3 uniform colorings of the icosahedron. These colorings can be represented as 11213, 11212, 11111, naming the 5 triangular faces around each vertex by their color.
 
 The icosahedron can be considered a snub tetrahedron, as snubification of a regular tetrahedron gives a regular icosahedron having chiral tetrahedral symmetry. It can also be constructed as an alternated truncated octahedron, having pyritohedral symmetry. The pyritohedral symmetry version is sometimes called a pseudoicosahedron, and is dual to the pyritohedron.
 
-+----------+------------------------------+-------------------------------+--------------------------------+
-|          | Regular                      | Uniform                       | 2-uniform                      |
-+==========+==============================+===============================+================================+
-| Name     | Regular                      | Snub                          | Snub                           |
-|          | icosahedron                  | octahedron                    | tetratetrahedron               |
-+----------+------------------------------+-------------------------------+--------------------------------+
-| Image    | Uniform_polyhedron-53-t2.png | Uniform_polyhedron-43-h01.svg | Uniform_polyhedron-33-s012.png |
-+----------+------------------------------+-------------------------------+--------------------------------+
-| Face     | (11111)                      | (11212)                       | (11213)                        |
-| coloring |                              |                               |                                |
-+----------+------------------------------+-------------------------------+--------------------------------+
-| Coxeter  |                              |                               |                                |
-| diagram  |                              |                               |                                |
-+----------+------------------------------+-------------------------------+--------------------------------+
-| Schläfli | {3,5}                        | s{3,4}                        | sr{3,3}                        |
-| symbol   |                              |                               |                                |
-+----------+------------------------------+-------------------------------+--------------------------------+
-| Conway   | I                            | HtO                           | sT                             |
-+----------+------------------------------+-------------------------------+--------------------------------+
-| Symmetry | I_(h)                        | T_(h)                         | T                              |
-|          | [5,3]                        | [3⁺,4]                        | [3,3]⁺                         |
-|          | (*532)                       | (3*2)                         | (332)                          |
-+----------+------------------------------+-------------------------------+--------------------------------+
-| Symmetry | 60                           | 24                            | 12                             |
-| order    |                              |                               |                                |
-+----------+------------------------------+-------------------------------+--------------------------------+
++----------+-------------+------------+------------------+
+|          | Regular     | Uniform    | 2-uniform        |
++==========+=============+============+==================+
+| Name     | Regular     | Snub       | Snub             |
+|          | icosahedron | octahedron | tetratetrahedron |
++----------+-------------+------------+------------------+
+| Image    |             |            |                  |
++----------+-------------+------------+------------------+
+| Face     | (11111)     | (11212)    | (11213)          |
+| coloring |             |            |                  |
++----------+-------------+------------+------------------+
+| Coxeter  |             |            |                  |
+| diagram  |             |            |                  |
++----------+-------------+------------+------------------+
+| Schläfli | {3,5}       | s{3,4}     | sr{3,3}          |
+| symbol   |             |            |                  |
++----------+-------------+------------+------------------+
+| Conway   | I           | HtO        | sT               |
++----------+-------------+------------+------------------+
+| Symmetry | I_(h)       | T_(h)      | T                |
+|          | [5,3]       | [3⁺,4]     | [3,3]⁺           |
+|          | (*532)      | (3*2)      | (332)            |
++----------+-------------+------------+------------------+
+| Symmetry | 60          | 24         | 12               |
+| order    |             |            |                  |
++----------+-------------+------------+------------------+
 
 
 Uses and natural forms
 
-Twin2.jpg nanoparticle viewed by transmission electron microscopy. ]] Gamma-bor.jpg
+nanoparticle viewed by transmission electron microscopy. ]]
 
 Biology
 
@@ -241,7 +238,7 @@ Many borides and allotropes of boron contain boron B₁₂ icosahedron as a basi
 
 Toys and games
 
-20-sided_dice_250.jpg]] Twenty-sided_die_(icosahedron)_with_faces_inscribed_with_Greek_letters_MET_10.130.1158_001.jpg]] Icosahedral dice with twenty sides have been used since ancient times.[11]
+]] ]] Icosahedral dice with twenty sides have been used since ancient times.[11]
 
 In several roleplaying games, such as _Dungeons & Dragons_, the twenty-sided die (d20 for short) is commonly used in determining success or failure of an action. This die is in the form of a regular icosahedron. It may be numbered from "0" to "9" twice (in which form it usually serves as a ten-sided die, or d10), but most modern versions are labeled from "1" to "20". See d20 System.
 
@@ -266,9 +263,8 @@ The high degree of symmetry of the polygon is replicated in the properties of th
 
 The icosahedral graph is Hamiltonian: there is a cycle containing all the vertices. It is also a planar graph.
 
-  -------------------------------
-  Icosahedron_A2_projection.svg
-  -------------------------------
+  --
+  --
 
   : Orthogonal projection
 
@@ -277,17 +273,17 @@ Diminished regular icosahedra
 
 There are 4 related Johnson solids, including pentagonal faces with a subset of the 12 vertices. The similar dissected regular icosahedron has 2 adjacent vertices diminished, leaving two trapezoidal faces, and a bifastigium has 2 opposite sets of vertices removed and 4 trapezoidal faces. The pentagonal antiprism is formed by removing two opposite vertices.
 
-+----------+------------------------+------------------------------+-------------------------------+----------------------------------+-----------------------------------+--------------------------+--------------------------------------+
-| Form     | J2                     | Bifastigium                  | J63                           | J62                              | Dissected                         | s{2,10}                  | J11                                  |
-|          |                        |                              |                               |                                  | icosahedron                       |                          |                                      |
-+==========+========================+==============================+===============================+==================================+===================================+==========================+======================================+
-| Vertices | 6 of 12                | 8 of 12                      | 9 of 12                       | 10 of 12                         | 11 of 12                          |                          |                                      |
-+----------+------------------------+------------------------------+-------------------------------+----------------------------------+-----------------------------------+--------------------------+--------------------------------------+
-| Symmetry | _C__(5v), [5], (*55)   | D_(2h), [2,2], *222          | _C__(3v), [3], (*33)          | _C__(2v), [2], (*22)             | D_(5d), [2⁺,10], (2*5)            | _C__(5v), [5], (*55)     |                                      |
-|          | order 10               | order 8                      | order 6                       | order 4                          | order 20                          | order 10                 |                                      |
-+----------+------------------------+------------------------------+-------------------------------+----------------------------------+-----------------------------------+--------------------------+--------------------------------------+
-| Image    | Pentagonal_pyramid.png | 4-diminished_icosahedron.png | Tridiminished_icosahedron.png | Metabidiminished_icosahedron.png | Dissected_regular_icosahedron.png | Pentagonal_antiprism.png | Gyroelongated_pentagonal_pyramid.png |
-+----------+------------------------+------------------------------+-------------------------------+----------------------------------+-----------------------------------+--------------------------+--------------------------------------+
++----------+----------------------+---------------------+----------------------+----------------------+------------------------+----------------------+-----+
+| Form     | J2                   | Bifastigium         | J63                  | J62                  | Dissected              | s{2,10}              | J11 |
+|          |                      |                     |                      |                      | icosahedron            |                      |     |
++==========+======================+=====================+======================+======================+========================+======================+=====+
+| Vertices | 6 of 12              | 8 of 12             | 9 of 12              | 10 of 12             | 11 of 12               |                      |     |
++----------+----------------------+---------------------+----------------------+----------------------+------------------------+----------------------+-----+
+| Symmetry | _C__(5v), [5], (*55) | D_(2h), [2,2], *222 | _C__(3v), [3], (*33) | _C__(2v), [2], (*22) | D_(5d), [2⁺,10], (2*5) | _C__(5v), [5], (*55) |     |
+|          | order 10             | order 8             | order 6              | order 4              | order 20               | order 10             |     |
++----------+----------------------+---------------------+----------------------+----------------------+------------------------+----------------------+-----+
+| Image    |                      |                     |                      |                      |                        |                      |     |
++----------+----------------------+---------------------+----------------------+----------------------+------------------------+----------------------+-----+
 
 
 Related polyhedra and polytopes
@@ -303,7 +299,6 @@ The regular icosahedron, seen as a _snub tetrahedron_, is a member of a sequence
 The icosahedron can tessellate hyperbolic space in the order-3 icosahedral honeycomb, with 3 icosahedra around each edge, 12 icosahedra around each vertex, with Schläfli symbol {3,5,3}. It is one of four regular tessellations in the hyperbolic 3-space.
 
 +-------------------------------------------------------------------------------------------------------------+
-| Hyperb_icosahedral_hc.png                                                                                   |
 | It is shown here as an edge framework in a Poincaré disk model, with one icosahedron visible in the center. |
 +-------------------------------------------------------------------------------------------------------------+
 

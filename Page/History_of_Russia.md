@@ -1,4 +1,4 @@
-Gosudarstvennost2002.jpg monument (unveiled on 8 September 1862) on a postage stamp dedicated to the 1140th anniversary of the Russian statehood in 2002]] The HISTORY OF RUSSIA begins with the histories of the East Slavs, Turkic and the Finno-Ugric peoples.[1][2][3][4] The traditional start-date of specifically Russian history is the establishment of the Rus' state in the north in 862 ruled by Vikings.[5] Staraya Ladoga and Novgorod became the first major cities of the new union of immigrants from Scandinavia with the Slavs and Finno-Ugrians. In 882 Prince Oleg of Novgorod seized Kiev, thereby uniting the northern and southern lands of the Eastern Slavs under one authority. The state adopted Christianity from the Byzantine Empire in 988, beginning the synthesis of Byzantine and Slavic cultures that defined Orthodox Slavic culture for the next millennium. Kievan Rus' ultimately disintegrated as a state due to the Mongol invasions in 1237–1240 along with the resulting deaths of about half the population of Rus'.
+monument (unveiled on 8 September 1862) on a postage stamp dedicated to the 1140th anniversary of the Russian statehood in 2002]] The HISTORY OF RUSSIA begins with the histories of the East Slavs, Turkic and the Finno-Ugric peoples.[1][2][3][4] The traditional start-date of specifically Russian history is the establishment of the Rus' state in the north in 862 ruled by Vikings.[5] Staraya Ladoga and Novgorod became the first major cities of the new union of immigrants from Scandinavia with the Slavs and Finno-Ugrians. In 882 Prince Oleg of Novgorod seized Kiev, thereby uniting the northern and southern lands of the Eastern Slavs under one authority. The state adopted Christianity from the Byzantine Empire in 988, beginning the synthesis of Byzantine and Slavic cultures that defined Orthodox Slavic culture for the next millennium. Kievan Rus' ultimately disintegrated as a state due to the Mongol invasions in 1237–1240 along with the resulting deaths of about half the population of Rus'.
 
 After the 13th century, Moscow became a cultural center. The territories of the Grand Duchy of Moscow became the Tsardom of Russia in 1547. In 1721 Tsar Peter the Great renamed his state as the Russian Empire, hoping to associate it with historical and cultural achievements of ancient Rus' - in contrast to his policies oriented towards Western Europe. The state now extended from the eastern borders of the Polish-Lithuanian Commonwealth to the Pacific Ocean. Peasant revolts were common, and all were fiercely suppressed. The Emperor Alexander II abolished Russian serfdom in 1861, but the peasants fared poorly and revolutionary pressures grew. In the following decades, reform efforts such as the Stolypin reforms of 1906-1914, the constitution of 1906, and the State Duma (1906-1917) attempted to open and liberalize the economy and political system, but the Emperors refused to relinquish autocratic rule and resisted sharing their power.
 
@@ -9,7 +9,7 @@ By the mid-1980s, with the weaknesses of Soviet economic and political structure
 
 Prehistory
 
-IE_expansion.png: South Russia as the urheimat of Indo-European peoples]] In 2006, 1.5-million-year-old Oldowan flint tools were discovered in the Dagestan Akusha region of the north Caucasus, demonstrating the presence of early humans in Russia from a very early time.[6] The discovery of some of the earliest evidence for the presence of anatomically modern humans found anywhere in Europe was reported in 2007 from the deepest levels of the Kostenki archaeological site near the Don River in Russia, which has been dated to at least 40,000 years ago.[7] Arctic Russia was reached by 40,000 years ago. That Russia was also home to some of the last surviving Neanderthals was revealed by the discovery of the partial skeleton of a Neanderthal infant in Mezmaiskaya cave in Adygea, which was carbon dated to only 29,000 years ago.[8] In 2008, Russian archaeologists from the Institute of Archaeology and Ethnology of Novosibirsk, working at the site of Denisova Cave in the Altai Mountains of Siberia, uncovered a 40,000-year-old small bone fragment from the fifth finger of a juvenile hominin, which DNA analysis revealed to be a previously unknown species of human, which was named the Denisova hominin.[9]
+: South Russia as the urheimat of Indo-European peoples]] In 2006, 1.5-million-year-old Oldowan flint tools were discovered in the Dagestan Akusha region of the north Caucasus, demonstrating the presence of early humans in Russia from a very early time.[6] The discovery of some of the earliest evidence for the presence of anatomically modern humans found anywhere in Europe was reported in 2007 from the deepest levels of the Kostenki archaeological site near the Don River in Russia, which has been dated to at least 40,000 years ago.[7] Arctic Russia was reached by 40,000 years ago. That Russia was also home to some of the last surviving Neanderthals was revealed by the discovery of the partial skeleton of a Neanderthal infant in Mezmaiskaya cave in Adygea, which was carbon dated to only 29,000 years ago.[8] In 2008, Russian archaeologists from the Institute of Archaeology and Ethnology of Novosibirsk, working at the site of Denisova Cave in the Altai Mountains of Siberia, uncovered a 40,000-year-old small bone fragment from the fifth finger of a juvenile hominin, which DNA analysis revealed to be a previously unknown species of human, which was named the Denisova hominin.[9]
 
 During the prehistoric eras the vast steppes of Southern Russia were home to tribes of nomadic pastoralists. In classical antiquity, the Pontic Steppe was known as Scythia.[10] Remnants of these long gone steppe cultures were discovered in the course of the 20th century in such places as Ipatovo,[11] Sintashta,[12] Arkaim,[13] and Pazyryk.[14]
 
@@ -18,13 +18,13 @@ Early history
 
 Antiquity
 
-Grave_stele_03_pushkin.jpg of the Bosporan Kingdom; from Taman peninsula (Yubileynoe), southern Russia, 3rd quarter of the 4th century BC; marble, Pushkin Museum]] In the later part of the 8th century BCE, Greek merchants brought classical civilization to the trade emporiums in Tanais and Phanagoria.[15] Gelonus was described by Herodotus as a huge (Europe's biggest) earth- and wood-fortified grad inhabited around 500 BC by Heloni and Budini. The Bosporan Kingdom was incorporated as part of the Roman province of Moesia Inferior from 63 to 68 AD, under Emperor Nero. At about the 2nd century AD Goths migrated to the Black Sea, and in the 3rd and 4th centuries AD, a semi-legendary Gothic kingdom of Oium existed in Southern Russia until it was overrun by Huns. Between the 3rd and 6th centuries AD, the Bosporan Kingdom, a Hellenistic polity which succeeded the Greek colonies,[16] was also overwhelmed by successive waves of nomadic invasions,[17] led by warlike tribes which would often move on to Europe, as was the case with the Huns and Turkish Avars.
+of the Bosporan Kingdom; from Taman peninsula (Yubileynoe), southern Russia, 3rd quarter of the 4th century BC; marble, Pushkin Museum]] In the later part of the 8th century BCE, Greek merchants brought classical civilization to the trade emporiums in Tanais and Phanagoria.[15] Gelonus was described by Herodotus as a huge (Europe's biggest) earth- and wood-fortified grad inhabited around 500 BC by Heloni and Budini. The Bosporan Kingdom was incorporated as part of the Roman province of Moesia Inferior from 63 to 68 AD, under Emperor Nero. At about the 2nd century AD Goths migrated to the Black Sea, and in the 3rd and 4th centuries AD, a semi-legendary Gothic kingdom of Oium existed in Southern Russia until it was overrun by Huns. Between the 3rd and 6th centuries AD, the Bosporan Kingdom, a Hellenistic polity which succeeded the Greek colonies,[16] was also overwhelmed by successive waves of nomadic invasions,[17] led by warlike tribes which would often move on to Europe, as was the case with the Huns and Turkish Avars.
 
 A Turkic people, the Khazars, ruled the lower Volga basin steppes between the Caspian and Black Seas through to the 8th century.[18] Noted for their laws, tolerance, and cosmopolitanism,[19] the Khazars were the main commercial link between the Baltic and the Muslim Abbasid empire centered in Baghdad.[20] They were important allies of the Byzantine Empire,[21] and waged a series of successful wars against the Arab Caliphates.[22][23] In the 8th century, the Khazars embraced Judaism.[24]
 
 Early East Slavs
 
-Muromian-map.pngs and before the beginning of the Slavic colonization]]
+s and before the beginning of the Slavic colonization]]
 
 Some of the ancestors of the modern Russians were the Slavic tribes, whose original home is thought by some scholars to have been the wooded areas of the Pripet Marshes.[25] The Early East Slavs gradually settled Western Russia in two waves: one moving from Kiev towards present-day Suzdal and Murom and another from Polotsk towards Novgorod and Rostov.[26]
 
@@ -38,7 +38,7 @@ Thus, the first East Slavic state, Rus', emerged in the 9th century along the Dn
 
 By the end of the 10th century, the minority Norse military aristocracy had merged with the native Slavic population,[38] which also absorbed Greek Christian influences in the course of the multiple campaigns to loot Tsargrad, or Constantinople.[39] One such campaign claimed the life of the foremost Slavic druzhina leader, Svyatoslav I, who was renowned for having crushed the power of the Khazars on the Volga.[40] At the time, the Byzantine Empire was experiencing a major military and cultural revival; despite its later decline, its culture would have a continuous influence on the development of Russia in its formative centuries.
 
-Kievan-rus-1015-1113-(en).png in 1097]]
+in 1097]]
 
 Kievan Rus' is important for its introduction of a Slavic variant of the Eastern Orthodox religion,[41] dramatically deepening a synthesis of Byzantine and Slavic cultures that defined Russian culture for the next thousand years. The region adopted Christianity in 988 by the official act of public baptism of Kiev inhabitants by Prince Vladimir I, who followed the private conversion of his grandmother.[42] Some years later the first code of laws, Russkaya Pravda, was introduced by Yaroslav the Wise.[43] From the onset the Kievan princes followed the Byzantine example and kept the Church dependent on them, even for its revenues,[44] so that the Russian Church and state were always closely linked.
 
@@ -50,13 +50,13 @@ Kievan Rus' ultimately disintegrated as a state because of in-fighting between m
 
 Mongol invasion (1223–1240)
 
-Sacking_of_Suzdal_by_Batu_Khan.jpg by Batu Khan in February 1238: a miniature from the 16th-century chronicle]] The invading Mongols accelerated the fragmentation of the Rus'. In 1223, the disunited southern princes faced a Mongol raiding party at the Kalka River and were soundly defeated.[51] In 1237–1238 the Mongols burnt down the city of Vladimir (4 February 1238)[52] and other major cities of northeast Russia, routed the Russians at the Sit' River,[53] and then moved west into Poland and Hungary. By then they had conquered most of the Russian principalities.[54] Only the Novgorod Republic escaped occupation and continued to flourish in the orbit of the Hanseatic League.[55]
+by Batu Khan in February 1238: a miniature from the 16th-century chronicle]] The invading Mongols accelerated the fragmentation of the Rus'. In 1223, the disunited southern princes faced a Mongol raiding party at the Kalka River and were soundly defeated.[51] In 1237–1238 the Mongols burnt down the city of Vladimir (4 February 1238)[52] and other major cities of northeast Russia, routed the Russians at the Sit' River,[53] and then moved west into Poland and Hungary. By then they had conquered most of the Russian principalities.[54] Only the Novgorod Republic escaped occupation and continued to flourish in the orbit of the Hanseatic League.[55]
 
 The impact of the Mongol invasion on the territories of Kievan Rus' was uneven. The advanced city culture was almost completely destroyed. As older centers such as Kiev and Vladimir never recovered from the devastation of the initial attack,[56] the new cities of Moscow,[57] Tver[58] and Nizhny Novgorod[59] began to compete for hegemony in the Mongol-dominated Russia. Although a Russian army defeated the Golden Horde at Kulikovo in 1380,[60] Mongol domination of the Russian-inhabited territories, along with demands of tribute from Russian princes, continued until about 1480.[61]
 
 Russo-Tatar relations
 
-Semiradsky_Aleksandr_Nevsky_v_Orde.jpg in the Golden Horde]] After the fall of the Khazars in the 10th century, the middle Volga came to be dominated by the mercantile state of Volga Bulgaria, the last vestige of Greater Bulgaria centered at Phanagoria. In the 10th century the Turkic population of Volga Bulgaria converted to Islam, which facilitated its trade with the Middle East and Central Asia. In the wake of the Mongol invasions of the 1230s, Volga Bulgaria was absorbed by the Golden Horde and its population evolved into the modern Chuvashes and Kazan Tatars.
+in the Golden Horde]] After the fall of the Khazars in the 10th century, the middle Volga came to be dominated by the mercantile state of Volga Bulgaria, the last vestige of Greater Bulgaria centered at Phanagoria. In the 10th century the Turkic population of Volga Bulgaria converted to Islam, which facilitated its trade with the Middle East and Central Asia. In the wake of the Mongol invasions of the 1230s, Volga Bulgaria was absorbed by the Golden Horde and its population evolved into the modern Chuvashes and Kazan Tatars.
 
 The Mongols held Russia and Volga Bulgaria in sway from their western capital at Sarai,[62] one of the largest cities of the medieval world. The princes of southern and eastern Russia had to pay tribute to the Mongols of the Golden Horde, commonly called Tatars;[63] but in return they received charters authorizing them to act as deputies to the khans. In general, the princes were allowed considerable freedom to rule as they wished,[64] while the Russian Orthodox Church even experienced a spiritual revival under the guidance of Metropolitan Alexis and Sergius of Radonezh.
 
@@ -69,7 +69,7 @@ Grand Duchy of Moscow (1283–1547)
 
 Rise of Moscow
 
-Moscow_daniel.jpg, Moscow was little more than a small timber fort lost in the forests of Central Russia.]] Daniil Aleksandrovich, the youngest son of Alexander Nevsky, founded the principality of Moscow (known as Muscovy in English),[66] which first cooperated with and ultimately expelled the Tatars from Russia. Well-situated in the central river system of Russia and surrounded by protective forests and marshes, Moscow was at first only a vassal of Vladimir, but soon it absorbed its parent state.
+, Moscow was little more than a small timber fort lost in the forests of Central Russia.]] Daniil Aleksandrovich, the youngest son of Alexander Nevsky, founded the principality of Moscow (known as Muscovy in English),[66] which first cooperated with and ultimately expelled the Tatars from Russia. Well-situated in the central river system of Russia and surrounded by protective forests and marshes, Moscow was at first only a vassal of Vladimir, but soon it absorbed its parent state.
 
 A major factor in the ascendancy of Moscow was the cooperation of its rulers with the Mongol overlords, who granted them the title of Grand Prince of Moscow and made them agents for collecting the Tatar tribute from the Russian principalities. The principality's prestige was further enhanced when it became the center of the Russian Orthodox Church. Its head, the Metropolitan, fled from Kiev to Vladimir in 1299 and a few years later established the permanent headquarters of the Church in Moscow under the original title of Kiev Metropolitan.
 
@@ -77,11 +77,11 @@ By the middle of the 14th century, the power of the Mongols was declining, and t
 
 Ivan III, the Great
 
-1000_Ivan_III.jpg at the Millennium of Russia]] In the 15th century, the grand princes of Moscow continued to consolidate Russian land to increase their population and wealth. The most successful practitioner of this process was Ivan III,[68] who laid the foundations for a Russian national state. Ivan competed with his powerful northwestern rival, the Grand Duchy of Lithuania, for control over some of the semi-independent Upper Principalities in the upper Dnieper and Oka River basins.[69][70]
+at the Millennium of Russia]] In the 15th century, the grand princes of Moscow continued to consolidate Russian land to increase their population and wealth. The most successful practitioner of this process was Ivan III,[68] who laid the foundations for a Russian national state. Ivan competed with his powerful northwestern rival, the Grand Duchy of Lithuania, for control over some of the semi-independent Upper Principalities in the upper Dnieper and Oka River basins.[69][70]
 
 Through the defections of some princes, border skirmishes, and a long war with the Novgorod Republic, Ivan III was able to annex Novgorod and Tver.[71] As a result, the Grand Duchy of Moscow tripled in size under his rule.[72] During his conflict with Pskov, a monk named Filofei (Philotheus of Pskov) composed a letter to Ivan III, with the prophecy that the latter's kingdom would be the Third Rome.[73] The Fall of Constantinople and the death of the last Greek Orthodox Christian emperor contributed to this new idea of Moscow as 'New Rome' and the seat of Orthodox Christianity.[74]
 
-Facial_Chronicle_-_b.16,_p._462_-_Great_standing_on_the_Ugra.jpg (1480), ended Tatar rule in Russia.]]
+(1480), ended Tatar rule in Russia.]]
 
 A contemporary of the Tudors and other "new monarchs" in Western Europe, Ivan proclaimed his absolute sovereignty over all Russian princes and nobles. Refusing further tribute to the Tatars, Ivan initiated a series of attacks that opened the way for the complete defeat of the declining Golden Horde, now divided into several Khanates and hordes. Ivan and his successors sought to protect the southern boundaries of their domain against attacks of the Crimean Tatars and other hordes.[75] To achieve this aim, they sponsored the construction of the Great Abatis Belt and granted manors to nobles, who were obliged to serve in the military. The manor system provided a basis for an emerging cavalry based army.
 
@@ -94,7 +94,7 @@ Tsardom of Russia (1547–1721)
 
 Ivan IV, the Terrible
 
-Kremlinpic4.jpg was the Grand Prince of Moscow from 1533 to 1547, then "Tsar of All the Russias" until his death in 1584.]]
+was the Grand Prince of Moscow from 1533 to 1547, then "Tsar of All the Russias" until his death in 1584.]]
 
 The development of the Tsar's autocratic powers reached a peak during the reign of Ivan IV (1547–1584), known as "Ivan the Terrible".[79][80] He strengthened the position of the monarch to an unprecedented degree, as he ruthlessly subordinated the nobles to his will, exiling or executing many on the slightest provocation.[81] Nevertheless, Ivan is often seen as a farsighted statesman who reformed Russia as he promulgated a new code of laws (Sudebnik of 1550),[82] established the first Russian feudal representative body (Zemsky Sobor), curbed the influence of the clergy,[83] and introduced local self-management in rural regions.[84]
 
@@ -106,7 +106,7 @@ At the end of Ivan IV's reign the Polish–Lithuanian and Swedish armies carried
 
 Time of Troubles
 
-Lissner.jpg to Prince Pozharsky in 1612.]] The death of Ivan's childless son Feodor was followed by a period of civil wars and foreign intervention known as the "Time of Troubles" (1606–13).[92] Extremely cold summers (1601–1603) wrecked crops,[93] which led to the Russian famine of 1601–1603 and increased the social disorganization. Boris Godunov's (Борис Годунов) reign ended in chaos, civil war combined with foreign intrusion, devastation of many cities and depopulation of the rural regions. The country rocked by internal chaos also attracted several waves of interventions by the Polish–Lithuanian Commonwealth.[94]
+to Prince Pozharsky in 1612.]] The death of Ivan's childless son Feodor was followed by a period of civil wars and foreign intervention known as the "Time of Troubles" (1606–13).[92] Extremely cold summers (1601–1603) wrecked crops,[93] which led to the Russian famine of 1601–1603 and increased the social disorganization. Boris Godunov's (Борис Годунов) reign ended in chaos, civil war combined with foreign intrusion, devastation of many cities and depopulation of the rural regions. The country rocked by internal chaos also attracted several waves of interventions by the Polish–Lithuanian Commonwealth.[94]
 
 During the Polish–Muscovite War (1605–1618), Polish–Lithuanian forces reached Moscow and installed the impostor False Dmitriy I in 1605, then supported False Dmitry II in 1607. The decisive moment came when a combined Russian-Swedish army was routed by the Polish forces under hetman Stanisław Żółkiewski at the Battle of Klushino on . As the result of the battle, the Seven Boyars, a group of Russian nobles, deposed the tsar Vasily Shuysky on , and recognized the Polish prince Władysław IV Vasa as the Tsar of Russia on .[95][96] The Poles entered Moscow on . Moscow revolted but riots there were brutally suppressed and the city was set on fire.[97][98][99]
 
@@ -116,7 +116,7 @@ The Russian statehood survived the "Time of Troubles" and the rule of weak or co
 
 Accession of the Romanovs and early rule
 
-Kivchenko_Election_of_Mikhail_Romanov.jpg, the first Tsar of the Romanov dynasty]]
+, the first Tsar of the Romanov dynasty]]
 
 In February 1613, with the chaos ended and the Poles expelled from Moscow, a national assembly, composed of representatives from fifty cities and even some peasants, elected Michael Romanov, the young son of Patriarch Filaret, to the throne. The Romanov dynasty ruled Russia until 1917.
 
@@ -126,7 +126,7 @@ Recovery of lost territories began in the mid-17th century, when the Khmelnitsky
 
 Rather than risk their estates in more civil war, the boyars cooperated with the first Romanovs, enabling them to finish the work of bureaucratic centralization. Thus, the state required service from both the old and the new nobility, primarily in the military. In return, the tsars allowed the boyars to complete the process of enserfing the peasants.
 
-surikov1906.jpg Sailing in the Caspian]]
+Sailing in the Caspian]]
 
 In the preceding century, the state had gradually curtailed peasants' rights to move from one landlord to another. With the state now fully sanctioning serfdom, runaway peasants became state fugitives, and the power of the landlords over the peasants "attached" to their land had become almost complete. Together the state and the nobles placed an overwhelming burden of taxation on the peasants, whose rate was 100 times greater in the mid-17th century than it had been a century earlier. In addition, middle-class urban tradesmen and craftsmen were assessed taxes, and, like the serfs, they were forbidden to change residence. All segments of the population were subject to military levy and to special taxes.[105]
 
@@ -141,17 +141,17 @@ Much of Russia's expansion occurred in the 17th century, culminating in the firs
 
 Peter the Great
 
-Peter_de_Grote.jpg of Russia]]
+of Russia]]
 
 Peter the Great (1672–1725) brought autocracy into Russia and played a major role in bringing his country into the European state system.[111] Russia had now become the largest country in the world, stretching from the Baltic Sea to the Pacific Ocean. The vast majority of the land was unoccupied, and travel was slow. Much of its expansion had taken place in the 17th century, culminating in the first Russian settlement of the Pacific in the mid-17th century, the reconquest of Kiev, and the pacification of the Siberian tribes. However, a population of only 14 million was stretched across this vast landscape. With a short growing season grain yields trailed behind those in the West and potato farming was not yet widespread. As a result, the great majority of the population workforce was occupied with agriculture. Russia remained isolated from the sea trade and its internal trade, communication and manufacturing were seasonally dependent.[112]
 
-Russia_1533-1896.gif AFRE_Orenburg.jpg, which was founded in 1743 on the boundary of Europe and Asia]]
+, which was founded in 1743 on the boundary of Europe and Asia]]
 
 Peter's first military efforts were directed against the Ottoman Turks. His aim was to establish a Russian foothold on the Black Sea by taking the town of Azov.[113] His attention then turned to the north. Peter still lacked a secure northern seaport except at Archangel on the White Sea, whose harbor was frozen nine months a year. Access to the Baltic was blocked by Sweden, whose territory enclosed it on three sides. Peter's ambitions for a "window to the sea" led him in 1699 to make a secret alliance with the Polish–Lithuanian Commonwealth and Denmark against Sweden resulting in the Great Northern War.
 
 The war ended in 1721 when an exhausted Sweden sued for peace with Russia. Peter acquired four provinces situated south and east of the Gulf of Finland, thus securing his coveted access to the sea. There, in 1703, he had already founded the city that was to become Russia's new capital, Saint Petersburg, as a "window opened upon Europe" to replace Moscow, long Russia's cultural center. Russian intervention in the Commonwealth marked, with the Silent Sejm, the beginning of a 200-year domination of that region by the Russian Empire. In celebration of his conquests, Peter assumed the title of emperor, and the Russian Tsardom officially became the Russian Empire in 1721.
 
-Lomonosov_Poltava_1762_1764.jpg]]
+]]
 
 Peter reorganized his government based on the latest Western models, molding Russia into an absolutist state. He replaced the old _boyar_ Duma (council of nobles) with a nine-member senate, in effect a supreme council of state. The countryside was also divided into new provinces and districts. Peter told the senate that its mission was to collect tax revenues. In turn tax revenues tripled over the course of his reign.[114]
 
@@ -167,8 +167,6 @@ Innovative tsars such as Peter the Great and Catherine the Great brought in West
 
 State budget
 
-Jean-Baptiste_Lande.jpg
-
 Russia was in a continuous state of financial crisis. While revenue rose from 9 million rubles in 1724 to 40 million in 1794, expenses grew more rapidly, reaching 49 million in 1794. The budget was allocated 46 percent to the military, 20 percent to government economic activities, 12 percent to administration, and nine percent for the Imperial Court in St. Petersburg. The deficit required borrowing, primarily from Amsterdam; five percent of the budget was allocated to debt payments. Paper money was issued to pay for expensive wars, thus causing inflation. For its spending, Russia obtained a large and glorious army, a very large and complex bureaucracy, and a splendid court that rivaled Paris and London. However, the government was living far beyond its means, and 18th-century Russia remained "a poor, backward, overwhelmingly agricultural, and illiterate country."[117]
 
 Peter I was succeeded by his second wife, Catherine I (1725–1727), who was merely a figurehead for a powerful group of high officials, then by his minor grandson, Peter II (1727–1730), then by his niece, Anna (1730–1740), daughter of Tsar Ivan V.
@@ -177,7 +175,7 @@ Catherine the Great
 
 Nearly forty years were to pass before a comparably ambitious ruler appeared on the Russian throne. Catherine II, "the Great" (r. 1762–1796), was a German princess who married the German heir to the Russian crown. Finding him incompetent, Catherine tacitly consented to his murder and in 1762 she became ruler.[118][119] Catherine enthusiastically supported the ideals of The Enlightenment, thus earning the status of an enlightened despot ("despot" is not derogatory in this context.)[120] She patronized the arts, science and learning. She contributed to the resurgence of the Russian nobility that began after the death of Peter the Great. Catherine promulgated the Charter to the Gentry reaffirming rights and freedoms of the Russian nobility and abolishing mandatory state service. She seized control of all the church lands, drastically reduced the size of the monasteries, and put the surviving clergy on a tight budget.[121]
 
-suvorov_crossing_the_alps.jpg Suvorov crossing the Alps in 1799]]
+Suvorov crossing the Alps in 1799]]
 
 Catherine spent heavily to promote an expansive foreign policy. She extended Russian political control over the Polish–Lithuanian Commonwealth with actions, including the support of the Targowica Confederation. The cost of her campaigns, on top of the oppressive social system that required serfs to spend almost all of their time laboring on the land of their lords, provoked a major peasant uprising in 1773. Inspired by a Cossack named Pugachev, with the emphatic cry of "Hang all the landlords!", the rebels threatened to take Moscow until Catherine crushed the rebellion. Like the other enlightened despots of Europe, Catherine made certain of her own power and formed an alliance with the nobility.[122]
 
@@ -187,7 +185,7 @@ Alexander I
 
 By the time of her death in 1796, Catherine's expansionist policy had made Russia into a major European power. Alexander I continued this policy, wresting Finland from the weakened kingdom of Sweden in 1809 and Bessarabia from the Ottomans in 1812.
 
-Взятии_штурмом_крепости_Гянджи.jpg during the Russo-Persian War of 1804–1813]]
+during the Russo-Persian War of 1804–1813]]
 
 After Russian armies liberated allied Georgia from Persian occupation in 1802, they clashed with Persia over control and consolidation over Georgia, as well as the Iranian territories that comprise modern-day Azerbaijan and Dagestan. They also became involved in the Caucasian War against the Caucasian Imamate. In 1813, the war with Persia concluded with a Russian victory, forcing Qajar Iran to cede swaths of its territories in the Caucasus to Russia,[125] which drastically increased its territory in the region. To the south-west, Russia attempted to expand at the expense of the Ottoman Empire, using Georgia at its base for the Caucasus and Anatolian front.
 
@@ -195,7 +193,7 @@ In European policy, Alexander I switched Russia back and forth four times in 180
 
 Furthermore, Russia's economy had been hurt by Napoleon's Continental System, which cut off trade with Britain. As Esdaile notes, "Implicit in the idea of a Russian Poland was, of course, a war against Napoleon."[126] Schroeder says Poland was the root cause of the conflict but Russia's refusal to support the Continental System was also a factor.[127]
 
-Napoleons_retreat_from_moscow.jpg's retreat from Moscow]] Russparis.jpg in 1814, headed by the Emperor Alexander I]]
+'s retreat from Moscow]] in 1814, headed by the Emperor Alexander I]]
 
 The invasion of Russia was a catastrophe for Napoleon and his 450,000 invasion troops. One major battle was fought at Borodino; casualties were very high but it was indecisive and Napoleon was unable to engage and defeat the Russian armies. He attempted to force the Tsar to terms by capturing Moscow at the onset of winter, even though the French Army had already lost most of its men. The expectation proved futile. The Russians retreated, burning crops and food supplies in a scorched earth policy that multiplied Napoleon's logistic problems. Unprepared for winter warfare, 85%–90% of Napoleon's soldiers died from disease, cold, starvation or by ambush by peasant guerrilla fighters. As Napoleon's forces retreated, Russian troops pursued them into Central and Western Europe and finally captured Paris.[128][129] Out of a total population of around 43 million people,[130] Russia lost about 1.5 million in the year 1812; of these about 250,000 to 300,000 were soldiers and the rest peasants and serfs.[131]
 
@@ -205,7 +203,7 @@ Although the Russian Empire would play a leading political role as late as 1848,
 
 Nicholas I and the Decembrist Revolt
 
-Kolman_decembrists.jpg]]
+]]
 
 Russia's great power status obscured the inefficiency of its government, the isolation of its people, and its economic backwardness.[132] Following the defeat of Napoleon, Alexander I was willing to discuss constitutional reforms, and though a few were introduced, no thoroughgoing changes were attempted.[133]
 
@@ -217,11 +215,11 @@ In 1831 Nicholas crushed the November Uprising in Poland. The Russian autocracy 
 
 Russian Army
 
-RUS-2016-SPB-Monument_to_Nicholas_I_of_Russia.jpg on St. Isaac's Square, Saint Petersburg]]
+on St. Isaac's Square, Saint Petersburg]]
 
 Tsar Nicholas I (reigned 1825–1855) lavished attention on his very large army; with a population of 60–70 million people, the army included a million men. They had outdated equipment and tactics, but the tsar, who dressed like a soldier and surrounded himself with officers, gloried in the victory over Napoleon in 1812 and took enormous pride in its smartness on parade. The cavalry horses, for example, were only trained in parade formations, and did poorly in battle. The glitter and braid masked profound weaknesses that he did not see. He put generals in charge of most of his civilian agencies regardless of their qualifications. An agnostic who won fame in cavalry charges was made supervisor of Church affairs. The Army became the vehicle of upward social mobility for noble youths from non-Russian areas, such as Poland, the Baltic, Finland and Georgia. On the other hand, many miscreants, petty criminals and undesirables were punished by local officials by enlisting them for life in the Army. The conscription system was highly unpopular with people, as was the practice of forcing peasants to house the soldiers for six months of the year. Curtiss finds that "The pedantry of Nicholas' military system, which stressed unthinking obedience and parade ground evolutions rather than combat training, produced ineffective commanders in time of war." His commanders in the Crimean War were old and incompetent, and indeed so were his muskets as the colonels sold the best equipment and the best food.[140]
 
-Crimea_Sevastopol_Istorychny_boulevard_Memorial_complex-54.jpg of a Russian naval base at Sevastopol during the Crimean War]] Finally the Crimean War at the end of his reign demonstrated to the world what no one had previously realized: Russia was militarily weak, technologically backward, and administratively incompetent. Despite his grand ambitions toward the south and Ottoman Empire, Russia had not built its railroad network in that direction, and communications were bad. The bureaucracy was riddled with graft, corruption and inefficiency and was unprepared for war. The Navy was weak and technologically backward; the Army, although very large, was good only for parades, suffered from colonels who pocketed their men's pay, poor morale, and was even more out of touch with the latest technology as developed by Britain and France. As Fuller notes, "Russia had been beaten on the Crimean peninsula, and the military feared that it would inevitably be beaten again unless steps were taken to surmount its military weakness."[141][142][143]
+of a Russian naval base at Sevastopol during the Crimean War]] Finally the Crimean War at the end of his reign demonstrated to the world what no one had previously realized: Russia was militarily weak, technologically backward, and administratively incompetent. Despite his grand ambitions toward the south and Ottoman Empire, Russia had not built its railroad network in that direction, and communications were bad. The bureaucracy was riddled with graft, corruption and inefficiency and was unprepared for war. The Navy was weak and technologically backward; the Army, although very large, was good only for parades, suffered from colonels who pocketed their men's pay, poor morale, and was even more out of touch with the latest technology as developed by Britain and France. As Fuller notes, "Russia had been beaten on the Crimean peninsula, and the military feared that it would inevitably be beaten again unless steps were taken to surmount its military weakness."[141][142][143]
 
 Slavophiles and Westernizers
 
@@ -231,7 +229,7 @@ Westernizers
 
 Westernizers formed an intellectual movement that deplored the backwardness of Russian culture, and looked to western Europe for intellectual leadership. they were opposed by Slavophiles who denounced the West as too materialistic and instead promoted the spiritual depth of Russian traditionalism.[145] A forerunner of the movement was Pyotr Chaadayev (1794-1856). He exposed the cultural isolation of Russia, from the perspective of Western Europe, in his _Philosophical Letters_ of 1831. He cast doubt on the greatness of the Russian past, and ridiculed Orthodoxy for failing to provide a sound spiritual basis for the Russian mind. He called on Russia to emulate Western Europe, especially in rational and logical thought, its progressive spirit, its leadership in science, and indeed its leadership on the path to freedom.[146] Vissarion Belinsky (1811-1848),[147] Alexander Herzen (1812-1870),[148] and Michael Bakunin (1814-1876) were prominent Westernizers.[149]
 
-Bakunin_Nadar.jpg was a revolutionary anarchist and founder of collectivist anarchism.]]
+was a revolutionary anarchist and founder of collectivist anarchism.]]
 
 European politics and Crimean War
 
@@ -241,13 +239,13 @@ Russia expected that in exchange for supplying the troops to be the policeman of
 
 Alexander II and the abolition of serfdom
 
-Myasoedov_16.jpg is being read to people.]]
+is being read to people.]]
 
 Tsar Nicholas died with his philosophy in dispute. One year earlier, Russia had become involved in the Crimean War, a conflict fought primarily in the Crimean peninsula.[154] Since playing a major role in the defeat of Napoleon, Russia had been regarded as militarily invincible, but, once pitted against a coalition of the great powers of Europe, the reverses it suffered on land and sea exposed the weakness of Tsar Nicholas' regime.
 
 When Alexander II came to the throne in 1855, desire for reform was widespread. The most pressing problem confronting the Government was serfdom. In 1859, there were 23 million serfs (out of a total population of 67.1 Million).[155] In anticipation of civil unrest that could ultimately foment a revolution, Alexander II chose to preemptively abolish serfdom with the emancipation reform in 1861. Emancipation brought a supply of free labor to the cities, stimulated industry, and the middle class grew in number and influence. The freed peasants had to buy land, allotted to them, from the landowners with the state assistance. The Government issued special bonds to the landowners for the land that they had lost, and collected a special tax from the peasants, called redemption payments, at a rate of 5% of the total cost of allotted land yearly. All the land turned over to the peasants was owned collectively by the _mir_, the village community, which divided the land among the peasants and supervised the various holdings.[156][157]
 
-The_defeat_of_Shipka_Peak,_Bulgarian_War_of_Independence.JPG against Turkish troops was crucial for the independence of Bulgaria.]]
+against Turkish troops was crucial for the independence of Bulgaria.]]
 
 Alexander was the most successful Russian reformer since Peter the Great, and was responsible for numerous reforms besides abolishing serfdom. He reorganized the judicial system, setting up elected local judges, abolishing capital punishment, promoting local self-government through the zemstvo system, imposing universal military service, ending some of the privileges of the nobility, and promoting the universities. In foreign policy, he sold Alaska to the United States in 1867, fearing the remote colony would fall into British hands if there was another war. He modernized the military command system. He sought peace, and moved away from bellicose France when Napoleon III fell. He joined with Germany and Austria in the League of the Three Emperors that stabilized the European situation. The Russian Empire expanded in Siberia and in the Caucasus and made gains at the expense of China. Faced with an uprising in Poland in 1863, he stripped that land of its separate Constitution and incorporated it directly into Russia. To counter the rise of a revolutionary and anarchistic movements, he sent thousands of dissidents into exile in Siberia and was proposing additional parliamentary reforms when he was assassinated in 1881.[158]
 
@@ -255,7 +253,7 @@ In the late 1870s Russia and the Ottoman Empire again clashed in the Balkans. Th
 
 Nihilism
 
-Russian_Nihilists_are_given_the_last_rites_before_their_exec_Wellcome_V0041839.jpg are given the last rites before their execution.]]
+are given the last rites before their execution.]]
 
 In the 1860s a movement known as Nihilism developed in Russia. A term originally coined by Ivan Turgenev in his 1862 novel _Fathers and Sons_, Nihilists favoured the destruction of human institutions and laws, based on the assumption that such institutions and laws are artificial and corrupt. At its core, Russian nihilism was characterized by the belief that the world lacks comprehensible meaning, objective truth, or value. For some time many Russian liberals had been dissatisfied by what they regarded as the empty discussions of the intelligentsia. The Nihilists questioned all old values and shocked the Russian establishment.[161] They moved beyond being purely philosophical to becoming major political forces after becoming involved in the cause of reform. Their path was facilitated by the previous actions of the Decembrists, who revolted in 1825, and the financial and political hardship caused by the Crimean War, which caused large numbers of Russian people to lose faith in political institutions.
 
@@ -265,7 +263,7 @@ While the Narodnik movement was gaining momentum, the government quickly moved t
 
 Autocracy and reaction under Alexander III
 
-Russian_Field_Gun_during_the_Battle_of_Mukden.jpg]]
+]]
 
 Unlike his father, the new tsar Alexander III (1881–1894) was throughout his reign a staunch reactionary who revived the maxim of "Orthodoxy, Autocracy, and National Character".[165] A committed Slavophile, Alexander III believed that Russia could be saved from chaos only by shutting itself off from the subversive influences of Western Europe. In his reign Russia concluded the union with republican France to contain the growing power of Germany, completed the conquest of Central Asia, and exacted important territorial and commercial concessions from China.
 
@@ -273,17 +271,17 @@ The tsar's most influential adviser was Konstantin Pobedonostsev, tutor to Alexa
 
 Nicholas II and new revolutionary movement
 
-Russia_ethnic.JPG ("Great Russians"), Belarusians ("White Russians"), and Ukrainians ("Little Russians") in a single colour; based on 1897 Russian census.]]
+("Great Russians"), Belarusians ("White Russians"), and Ukrainians ("Little Russians") in a single colour; based on 1897 Russian census.]]
 
 Alexander was succeeded by his son Nicholas II (1894–1917). The Industrial Revolution, which began to exert a significant influence in Russia, was meanwhile creating forces that would finally overthrow the tsar. Politically, these opposition forces organized into three competing parties: The liberal elements among the industrial capitalists and nobility, who believed in peaceful social reform and a constitutional monarchy, founded the Constitutional Democratic party or _Kadets_ in 1905. Followers of the Narodnik tradition established the Socialist-Revolutionary Party or _Esers_ in 1901, advocating the distribution of land among those who actually worked it—the peasants. A third radical group founded the Russian Social Democratic Labour Party or _RSDLP_ in 1898; this party was the primary exponent of Marxism in Russia. Gathering their support from the radical intellectuals and the urban working class, they advocated complete social, economic and political revolution.[169]
 
-Repin_17October.jpg granting civil liberties and establishing first parliament]]
+granting civil liberties and establishing first parliament]]
 
 In 1903 the RSDLP split into two wings: the radical Bolsheviks, led by Vladimir Lenin, and the relatively moderate Mensheviks, led by Yuli Martov. The Mensheviks believed that Russian socialism would grow gradually and peacefully and that the tsar's regime should be succeeded by a democratic republic in which the socialists would cooperate with the liberal bourgeois parties. The Bolsheviks advocated the formation of a small elite of professional revolutionists, subject to strong party discipline, to act as the vanguard of the proletariat in order to seize power by force.[170]
 
 Revolution of 1905
 
-Зал_заседаний_государственной_думы_1906-1917.jpg]]
+]]
 
 The disastrous performance of the Russian armed forces in the Russo-Japanese War was a major blow to the Russian State and increased the potential for unrest.[171]
 
@@ -297,7 +295,7 @@ The Russian avant-garde was a large, influential wave of modern art that flouris
 
 World War I
 
-Les_troupes_russe_défilant_devant_Gouraud,_Mailly_oct_1916.JPG, October 1916]]
+, October 1916]]
 
 The Archduke Franz Ferdinand of Austro-Hungary was assassinated by Bosnian Serbs on 28 June 1914. An ultimatum followed to Serbia, which was considered a Russian client-state, by Austro-Hungary on 23 July. Russia had no treaty obligation to Serbia, and in long-term perspective, Russia was militarily gaining on Germany and Austro-Hungary, and thus had an incentive to wait. Most Russian leaders wanted to avoid a war. However, in the present crisis they had the support of France, and they feared that the failure to support Serbia would lead to a loss of Russian credibility and a major political defeat to Russia's goals for a leadership role in the Balkans.[177] Tsar Nicholas II mobilised Russian forces on 30 July 1914 to defend Serbia from Austria-Hungary. Christopher Clark states: "The Russian general mobilisation [of 30 July] was one of the most momentous decisions of the July crisis. This was the first of the general mobilisations. It came at the moment when the German government had not yet even declared the State of Impending War".[178] Germany responded with her own mobilisation and declaration of War on 1 August 1914. At the opening of hostilities, the Russians took the offensive against both Germany and Austria-Hungary.[179]
 
@@ -320,7 +318,7 @@ In late February (3 March 1917), a strike occurred in a factory in the capital P
 
 To fill the vacuum of authority, the Duma declared a Provisional Government, headed by Prince Lvov, which was collectively known as the Russian Republic.[189] Meanwhile, the socialists in Petrograd organized elections among workers and soldiers to form a soviet (council) of workers' and soldiers' deputies, as an organ of popular power that could pressure the "bourgeois" Provisional Government.[190]
 
-Protección_del_Palacio_Tauride_durante_el_Segundo_Congreso_Regional_de_los_Soviets.jpg on 6 January 1918. The Tauride Palace is locked and guarded by Trotsky, Sverdlov, Zinoviev and Lashevich.]] In July, following a series of crises that undermined their authority with the public, the head of the Provisional Government resigned and was succeeded by Alexander Kerensky, who was more progressive than his predecessor but not radical enough for the Bolsheviks or many Russians discontented with the deepening economic crisis and the continuation of the war. While Kerensky's government marked time, the socialist-led soviet in Petrograd joined with soviets that formed throughout the country to create a national movement.[191]
+on 6 January 1918. The Tauride Palace is locked and guarded by Trotsky, Sverdlov, Zinoviev and Lashevich.]] In July, following a series of crises that undermined their authority with the public, the head of the Provisional Government resigned and was succeeded by Alexander Kerensky, who was more progressive than his predecessor but not radical enough for the Bolsheviks or many Russians discontented with the deepening economic crisis and the continuation of the war. While Kerensky's government marked time, the socialist-led soviet in Petrograd joined with soviets that formed throughout the country to create a national movement.[191]
 
 The German government provided over 40 million gold marks to subsidize Bolshevik publications and activities subversive of the tsarist government, especially focusing on disgruntled soldiers and workers.[192] In April 1917 Germany provided a special sealed train to carry Vladimir Lenin back to Russia from his exile in Switzerland. After many behind-the-scenes maneuvers, the soviets seized control of the government in November 1917 and drove Kerensky and his moderate provisional government into exile, in the events that would become known as the October Revolution.[193]
 
@@ -328,7 +326,7 @@ When the national Constituent Assembly (elected in December 1917) refused to bec
 
 Russian Civil War
 
-Volunteer_Army_infantry_company.jpg in South Russia, January 1918]] Russia_Famine_Saratov_1921.jpg killed an estimated five million people.]]
+in South Russia, January 1918]] killed an estimated five million people.]]
 
 The Bolshevik grip on power was by no means secure, and a lengthy struggle broke out between the new regime and its opponents, which included the Socialist Revolutionaries, right-wing "Whites", and large numbers of peasants. At the same time the Allied powers sent several expeditionary armies to support the anti-Communist forces in an attempt to force Russia to rejoin the world war. The Bolsheviks fought against both these forces and national independence movements in the former Russian Empire. By 1921, they had defeated their internal enemies and brought most of the newly independent states under their control, with the exception of Finland, the Baltic States, the Moldavian Democratic Republic (which joined Romania), and Poland (with whom they had fought the Polish–Soviet War).[195] Finland also annexed the region Pechenga of the Russian Kola peninsula; Soviet Russia and allied Soviet republics conceded the parts of its territory to Estonia (Petseri County and Estonian Ingria), Latvia (Pytalovo), and Turkey (Kars). Poland incorporated the contested territories of Western Belarus and Western Ukraine, the former parts of the Russian Empire (except Galicia) east to Curzon Line.[196]
 
@@ -343,7 +341,7 @@ Soviet Union (1922–1991)
 
 Creation of the Soviet Union
 
-Lenin_and_stalin_crop.jpg (1922)]]
+(1922)]]
 
 The history of Russia between 1922 and 1991 is essentially the history of the Union of Soviet Socialist Republics, or Soviet Union. This ideologically based union, established in December 1922 by the leaders of the Russian Communist Party,[201] was roughly coterminous with Russia before the Treaty of Brest-Litovsk. At that time, the new nation included four constituent republics: the Russian SFSR, the Ukrainian SSR, the Belarusian SSR, and the Transcaucasian SFSR.[202]
 
@@ -357,7 +355,7 @@ Although the left opposition among the Communists criticized the rich peasants, 
 
 Changes to Russian society
 
-8marta.jpgry of the household work!"]]
+ry of the household work!"]]
 
 While the Russian economy was being transformed, the social life of the people underwent equally drastic changes. From the beginning of the revolution, the government attempted to weaken patriarchal domination of the family. Divorce no longer required court procedure,[208] and to make women completely free of the responsibilities of childbearing, abortion was made legal as early as 1920.[209] As a side effect, the emancipation of women increased the labor market. Girls were encouraged to secure an education and pursue a career in the factory or the office. Communal nurseries were set up for the care of small children, and efforts were made to shift the center of people's social life from the home to educational and recreational groups, the soviet clubs.
 
@@ -369,13 +367,13 @@ Industrialization and collectivization
 
 The years from 1929 to 1939 comprised a tumultuous decade in Soviet history—a period of massive industrialization and internal struggles as Joseph Stalin established near total control over Soviet society, wielding virtually unrestrained power. Following Lenin's death Stalin wrestled to gain control of the Soviet Union with rival factions in the Politburo, especially Leon Trotsky's. By 1928, with the Trotskyists either exiled or rendered powerless, Stalin was ready to put a radical programme of industrialisation into action.[210]
 
-Flag_of_the_Soviet_Union.svg, with the iconic hammer and sickle. This version was used from 1980 to 1991.]]
+, with the iconic hammer and sickle. This version was used from 1980 to 1991.]]
 
 In 1929 Stalin proposed the first five-year plan.[211] Abolishing the NEP, it was the first of a number of plans aimed at swift accumulation of capital resources through the buildup of heavy industry, the collectivization of agriculture, and the restricted manufacture of consumer goods.[212] For the first time in history a government controlled all economic activity.
 
 As a part of the plan, the government took control of agriculture through the state and collective farms (_kolkhozes_).[213] By a decree of February 1930, about one million individual peasants (_kulaks_) were forced off their land. Many peasants strongly opposed regimentation by the state, often slaughtering their herds when faced with the loss of their land. In some sections they revolted, and countless peasants deemed "kulaks" by the authorities were executed.[214] The combination of bad weather, deficiencies of the hastily established collective farms, and massive confiscation of grain precipitated a serious famine,[215] and several million peasants died of starvation, mostly in Ukraine, Kazakhstan and parts of southwestern Russia.[216] The deteriorating conditions in the countryside drove millions of desperate peasants to the rapidly growing cities, fueling industrialization, and vastly increasing Russia's urban population in the space of just a few years.
 
-USSR_stamp_M.Tukhachevsky_1963_4k.jpg and other generals convicted in the Trial of Red Army Generals in 1937 were declared innocent ("rehabilitated") in 1957.]]
+and other generals convicted in the Trial of Red Army Generals in 1937 were declared innocent ("rehabilitated") in 1957.]]
 
 The plans received remarkable results in areas aside from agriculture. Russia, in many measures the poorest nation in Europe at the time of the Bolshevik Revolution, now industrialized at a phenomenal rate, far surpassing Germany's pace of industrialization in the 19th century and Japan's earlier in the 20th century.
 
@@ -391,21 +389,19 @@ In 1938 Germany annexed Austria and, together with major Western European powers
 
 World War II
 
-Everything_for_the_Front,_USSR_WWII_propaganda_poster.jpg
-
 On 17 September 1939, sixteen days after the start of World War II and with the victorious Germans having advanced deep into Polish territory, the Red Army invaded eastern Poland, stating as justification the "need to protect Ukrainians and Belarusians" there, after the "cessation of existence" of the Polish state.[230][231] As a result, the Belarusian and Ukrainian Soviet republics' western borders were moved westward, and the new Soviet western border was drawn close to the original Curzon line. In the meantime negotiations with Finland over a Soviet-proposed land swap that would redraw the Soviet-Finnish border further away from Leningrad failed, and in December 1939 the USSR invaded Finland, beginning a campaign known as the Winter War (1939–40). The war took a heavy death toll on the Red Army but forced Finland to sign a Moscow Peace Treaty and cede the Karelian Isthmus and Ladoga Karelia.[232][233] In summer 1940 the USSR issued an ultimatum to Romania forcing it to cede the territories of Bessarabia and Northern Bukovina. At the same time, the Soviet Union also occupied the three formerly independent Baltic states (Estonia, Latvia and Lithuania).[234][235][236]
 
-Bundesarchiv_Bild_183-E0406-0022-001,_Russland,_Kesselschlacht_Stalingrad.jpg, the largest and bloodiest battle in the history of warfare, the turning point on the Eastern Front, in the war against the Axis and in the entire WWII]] Bundesarchiv_Bild_192-208,_KZ_Mauthausen,_Sowjetische_Kriegsgefangene.jpg.[237]]]
+, the largest and bloodiest battle in the history of warfare, the turning point on the Eastern Front, in the war against the Axis and in the entire WWII]] .[237]]]
 
 The peace with Germany was tense, as both sides were preparing for the military conflict,[238][239] and abruptly ended when the Axis forces led by Germany swept across the Soviet border on 22 June 1941. By the autumn the German army had seized Ukraine, laid a siege of Leningrad, and threatened to capture the capital, Moscow, itself.[240][241][242] Despite the fact that in December 1941 the Red Army threw off the German forces from Moscow in a successful counterattack, the Germans retained the strategic initiative for approximately another year and held a deep offensive in the south-eastern direction, reaching the Volga and the Caucasus. However, two major German defeats in Stalingrad and Kursk proved decisive and reversed the course of the entire World War as the Germans never regained the strength to sustain their offensive operations and the Soviet Union recaptured the initiative for the rest of the conflict.[243] By the end of 1943, the Red Army had broken through the German siege of Leningrad and liberated much of Ukraine, much of Western Russia and moved into Belarus.[244] By the end of 1944, the front had moved beyond the 1939 Soviet frontiers into eastern Europe. Soviet forces drove into eastern Germany, capturing Berlin in May 1945.[245] The war with Germany thus ended triumphantly for the Soviet Union.
 
-Yalta_Conference_(Churchill,_Roosevelt,_Stalin)_(B&W).jpg in Yalta formed U.K. Prime Minister Winston Churchill, U.S. President Franklin D. Roosevelt and the Soviet Leader Joseph Stalin led the Allies against the Axis centered on Nazi Germany.]] As agreed at the Yalta Conference, three months after the Victory Day in Europe the USSR launched the Soviet invasion of Manchuria, defeating the Japanese troops in neighboring Manchuria, the last Soviet battle of World War II.[246]
+in Yalta formed U.K. Prime Minister Winston Churchill, U.S. President Franklin D. Roosevelt and the Soviet Leader Joseph Stalin led the Allies against the Axis centered on Nazi Germany.]] As agreed at the Yalta Conference, three months after the Victory Day in Europe the USSR launched the Soviet invasion of Manchuria, defeating the Japanese troops in neighboring Manchuria, the last Soviet battle of World War II.[246]
 
 Although the Soviet Union was victorious in World War II, the war resulted in around 26–27 million Soviet deaths (estimates vary)[247] and had devastated the Soviet economy in the struggle. Some 1,710 towns and 70,000 settlements were destroyed.[248] The occupied territories suffered from the ravages of German occupation and deportations of slave labor by Germany.[249] Thirteen million Soviet citizens became victims of the repressive policies of Germany and its allies in occupied territories, where people died because of mass murders, famine, absence of elementary medical aid and slave labor.[250][251][252][253] The Nazi Genocide of the Jews, carried out by German _Einsatzgruppen_ along with local collaborators, resulted in almost complete annihilation of the Jewish population over the entire territory temporarily occupied by Germany and its allies.[254][255][256][257] During the occupation, the Leningrad region lost around a quarter of its population,[258] Soviet Belarus lost from a quarter to a third of its population, and 3.6 million Soviet prisoners of war (of 5.5 million) died in German camps.[259][260][261]
 
 Cold War
 
-Leonid_Brezhnev_and_Richard_Nixon_talks_in_1973.png Leonid Brezhnev talks to U.S. President Richard Nixon on his visit to the United States, the high-water mark of détente.]]
+Leonid Brezhnev talks to U.S. President Richard Nixon on his visit to the United States, the high-water mark of détente.]]
 
 Collaboration among the major Allies had won the war and was supposed to serve as the basis for postwar reconstruction and security. However, the conflict between Soviet and U.S. national interests, known as the Cold War, came to dominate the international stage in the postwar period.
 
@@ -421,13 +417,13 @@ U.S.–Soviet relations deteriorated following the beginning of the nine-year So
 
 De-Stalinization and the era of stagnation
 
-Gagarin_in_Sweden-2.jpg, first human to travel into space]] In the power struggle that erupted after Stalin's death in 1953, his closest followers lost out. Nikita Khrushchev solidified his position in a speech before the Twentieth Congress of the Communist Party in 1956 detailing Stalin's atrocities.[271]
+, first human to travel into space]] In the power struggle that erupted after Stalin's death in 1953, his closest followers lost out. Nikita Khrushchev solidified his position in a speech before the Twentieth Congress of the Communist Party in 1956 detailing Stalin's atrocities.[271]
 
 In 1964 Khrushchev was impeached by the Communist Party's Central Committee, charging him with a host of errors that included Soviet setbacks such as the Cuban Missile Crisis.[272] After a period of collective leadership led by Leonid Brezhnev, Alexei Kosygin and Nikolai Podgorny, a veteran bureaucrat, Brezhnev, took Khrushchev's place as Soviet leader.[273] Brezhnev emphasized heavy industry,[274] instituted the Soviet economic reform of 1965,[275] and also attempted to ease relationships with the United States.[276] In the 1960s the USSR became a leading producer and exporter of petroleum and natural gas. Soviet science and industry peaked in the Khrushchev and Brezhnev years. The world's first nuclear power plant was established in 1954 in Obninsk, and the Baikal Amur Mainline was built.
 
 The Soviet space program, founded by Sergey Korolev, was especially successful. On 4 October 1957 Soviet Union launched the first space satellite Sputnik.[277] On 12 April 1961 Yuri Gagarin became the first human to travel into space in the Soviet spaceship Vostok 1.[278] Other achievements of Russian space program include: the first photo of the far side of the Moon; exploration of Venus; the first spacewalk by Alexei Leonov; first female spaceflight by Valentina Tereshkova. More recently, the Soviet Union produced the world's first space station, Salyut which in 1986 was replaced by Mir, the first consistently inhabited long-term space station, that served from 1986 to 2001.
 
-Reagan_and_Gorbachev_hold_discussions.jpg and Mikhail Gorbachev in Geneva, November 1985]] While all modernized economies were rapidly moving to computerization after 1965, the USSR fell further and further behind. Moscow's decision to copy the IBM 360 of 1965 proved a decisive mistake for it locked scientists into an antiquated system they were unable to improve. They had enormous difficulties in manufacturing the necessary chips reliably and in quantity, in programming workable and efficient programs, in coordinating entirely separate operations, and in providing support to computer users.[279][280]
+and Mikhail Gorbachev in Geneva, November 1985]] While all modernized economies were rapidly moving to computerization after 1965, the USSR fell further and further behind. Moscow's decision to copy the IBM 360 of 1965 proved a decisive mistake for it locked scientists into an antiquated system they were unable to improve. They had enormous difficulties in manufacturing the necessary chips reliably and in quantity, in programming workable and efficient programs, in coordinating entirely separate operations, and in providing support to computer users.[279][280]
 
 One of the greatest strengths of Soviet economy was its vast supplies of oil and gas; world oil prices quadrupled in the 1973–74, and rose again in 1979–1981, making the energy sector the chief driver of the Soviet economy, and was used to cover multiple weaknesses. At one point, Soviet Premier Alexei Kosygin told the head of oil and gas production, "things are bad with bread. Give me 3 million tons [of oil] over the plan."[281] Former prime minister Yegor Gaidar, an economist looking back three decades, in 2007 wrote:
 
@@ -435,24 +431,24 @@ One of the greatest strengths of Soviet economy was its vast supplies of oil and
 
 Breakup of the Union
 
-RIAN_archive_848095_Signing_the_Agreement_to_eliminate_the_USSR_and_establish_the_Commonwealth_of_Independent_States.jpg, dissolving the Soviet Union, 8 December 1991]]
+, dissolving the Soviet Union, 8 December 1991]]
 
 Two developments dominated the decade that followed: the increasingly apparent crumbling of the Soviet Union's economic and political structures, and the patchwork attempts at reforms to reverse that process. After the rapid succession of former KGB Chief Yuri Andropov and Konstantin Chernenko, transitional figures with deep roots in Brezhnevite tradition, Mikhail Gorbachev implemented perestroika in an attempt to modernize Soviet communism, and made significant changes in the party leadership. However, Gorbachev's social reforms led to unintended consequences. His policy of _glasnost_ facilitated public access to information after decades of government repression, and social problems received wider public attention, undermining the Communist Party's authority. _Glasnost_ allowed ethnic and nationalist disaffection to reach the surface, and many constituent republics, especially the Baltic republics, Georgian SSR and Moldavian SSR, sought greater autonomy, which Moscow was unwilling to provide. In the revolutions of 1989 the USSR lost its allies in Eastern Europe. Gorbachev's attempts at economic reform were not sufficient, and the Soviet government left intact most of the fundamental elements of communist economy. Suffering from low pricing of petroleum and natural gas, the ongoing war in Afghanistan, and outdated industry and pervasive corruption, the Soviet planned economy proved to be ineffective, and by 1990 the Soviet government had lost control over economic conditions. Due to price control, there were shortages of almost all products, reaching their peak in the end of 1991, when people had to stand in long lines and were lucky to buy even the essentials. Control over the constituent republics was also relaxed, and they began to assert their national sovereignty over Moscow.
 
-Boris_Yeltsin_4_April_1996.jpg, 1996]]
+, 1996]]
 
 The tension between Soviet Union and Russian SFSR authorities came to be personified in the bitter power struggle between Gorbachev and Boris Yeltsin.[283] Squeezed out of Union politics by Gorbachev in 1987, Yeltsin, who represented himself as a committed democrat, presented a significant opposition to Gorbachev's authority. In a remarkable reversal of fortunes, he gained election as chairman of the Russian republic's new Supreme Soviet in May 1990.[284] The following month, he secured legislation giving Russian laws priority over Soviet laws and withholding two-thirds of the budget. In the first Russian presidential election in 1991 Yeltsin became president of the Russian SFSR. At last Gorbachev attempted to restructure the Soviet Union into a less centralized state. However, on 19 August 1991, a coup against Gorbachev, conspired by senior Soviet officials, was attempted. The coup faced wide popular opposition and collapsed in three days, but disintegration of the Union became imminent. The Russian government took over most of the Soviet Union government institutions on its territory. Because of the dominant position of Russians in the Soviet Union, most gave little thought to any distinction between Russia and the Soviet Union before the late 1980s. In the Soviet Union, only Russian SFSR lacked even the paltry instruments of statehood that the other republics possessed, such as its own republic-level Communist Party branch, trade union councils, Academy of Sciences, and the like.[285] The Communist Party of the Soviet Union was banned in Russia in 1991–1992, although no lustration has ever taken place, and many of its members became top Russian officials. However, as the Soviet government was still opposed to market reforms, the economic situation continued to deteriorate. By December 1991, the shortages had resulted in the introduction of food rationing in Moscow and Saint Petersburg for the first time since World War II. Russia received humanitarian food aid from abroad. After the Belavezha Accords, the Supreme Soviet of Russia withdrew Russia from the Soviet Union on 12 December. The Soviet Union officially ended on 25 December 1991,[286] and the Russian Federation (formerly the Russian Soviet Federative Socialist Republic)[287] took power on 26 December.[288] The Russian government lifted price control on January 1992. Prices rose dramatically, but shortages disappeared.
 
 
 Russian Federation (1991–present)
 
-Vladimir_Putin_11_March_2008-1.jpg with Vladimir Putin]]
+with Vladimir Putin]]
 
 Although Yeltsin came to power on a wave of optimism, he never recovered his popularity after endorsing Yegor Gaidar's "shock therapy" of ending Soviet-era price controls, drastic cuts in state spending, and an open foreign trade regime in early 1992 (_see_ Russian economic reform in the 1990s). The reforms immediately devastated the living standards of much of the population. In the 1990s Russia suffered an economic downturn that was, in some ways, more severe than the United States or Germany had undergone six decades earlier in the Great Depression.[289] Hyperinflation hit the ruble, due to monetary overhang from the days of the planned economy.
 
 Meanwhile, the profusion of small parties and their aversion to coherent alliances left the legislature chaotic. During 1993, Yeltsin's rift with the parliamentary leadership led to the September–October 1993 constitutional crisis. The crisis climaxed on 3 October, when Yeltsin chose a radical solution to settle his dispute with parliament: he called up tanks to shell the Russian White House, blasting out his opponents. As Yeltsin was taking the unconstitutional step of dissolving the legislature, Russia came close to a serious civil conflict. Yeltsin was then free to impose the current Russian constitution with strong presidential powers, which was approved by referendum in December 1993. The cohesion of the Russian Federation was also threatened when the republic of Chechnya attempted to break away, leading to the First and Second Chechen Wars.
 
-2012-10-20_Борис_Немцов.jpg was killed on 27 February 2015 on a bridge near the Kremlin.]]
+was killed on 27 February 2015 on a bridge near the Kremlin.]]
 
 Economic reforms also consolidated a semi-criminal oligarchy with roots in the old Soviet system. Advised by Western governments, the World Bank, and the International Monetary Fund, Russia embarked on the largest and fastest privatization that the world had ever seen in order to reform the fully nationalized Soviet economy. By mid-decade, retail, trade, services, and small industry was in private hands. Most big enterprises were acquired by their old managers, engendering a new rich (Russian tycoons) in league with criminal mafias or Western investors.[290] Corporate raiders such as Andrei Volgin engaged in hostile takeovers of corrupt corporations by the mid-1990s.
 
@@ -460,11 +456,11 @@ By the mid-1990s Russia had a system of multiparty electoral politics.[291] But 
 
 Meanwhile, the central government had lost control of the localities, bureaucracy, and economic fiefdoms, and tax revenues had collapsed. Still in a deep depression, Russia's economy was hit further by the financial crash of 1998. After the crisis, Yeltsin was at the end of his political career. Just hours before the first day of 2000, Yeltsin made a surprise announcement of his resignation, leaving the government in the hands of the little-known Prime Minister Vladimir Putin, a former KGB official and head of the FSB, the KGB's post-Soviet successor agency.[292] In 2000, the new acting president defeated his opponents in the presidential election on 26 March, and won in a landslide four years later.[293] In 2001, Putin discussed with Bill Clinton the possibility of Russia joining NATO, without result.[294][295]
 
-Марш_мира_Москва_21_сент_2014_L1460091.jpg took place in Moscow opposing the war in Eastern Ukraine.]]
+took place in Moscow opposing the war in Eastern Ukraine.]]
 
 International observers were alarmed by moves in late 2004 to further tighten the presidency's control over parliament, civil society, and regional officeholders.[296] In 2008 Dmitri Medvedev, a former Gazprom chairman and Putin's head of staff, was elected new President of Russia. In 2012, Putin was once again elected as President.
 
-Putin_with_Vladimir_Konstantinov,_Sergey_Aksyonov_and_Alexey_Chaly_4.jpeg (third, left), Sergey Aksyonov (first, left), Vladimir Konstantinov (second, left) and Aleksei Chalyi (right) sign the Treaty on Accession of the Republic of Crimea to Russia in 2014]]
+(third, left), Sergey Aksyonov (first, left), Vladimir Konstantinov (second, left) and Aleksei Chalyi (right) sign the Treaty on Accession of the Republic of Crimea to Russia in 2014]]
 
 Russia had difficulty attracting foreign direct investment and experienced large capital outflows. Russia's long-term problems include a shrinking workforce, rampant corruption, and underinvestment in infrastructure.[297] Nevertheless, reversion to a socialist command economy seemed almost impossible.[298]
 

@@ -92,20 +92,20 @@ The Capetian Dynasty has been broken many times into (sometimes rival) cadet bra
                                 -   Louis IX of France
                                     -   Philip III of France
                                         -   Philip IV of France
-                                        -   Blason_comte_fr_Valois.svg HOUSE OF VALOIS
-                                        -   Blason_ville_fr_Mortain_(Manche).svg HOUSE OF ÉVREUX
+                                        -   HOUSE OF VALOIS
+                                        -   HOUSE OF ÉVREUX
 
-                                    -   Blason_comte_fr_Clermont_(Bourbon).svg HOUSE OF BOURBON
+                                    -   HOUSE OF BOURBON
 
-                                -   Blason_province_fr_Artois.svg HOUSE OF ARTOIS
-                                -   Blason_comte_fr_Anjou.svg HOUSE OF ANJOU
+                                -   HOUSE OF ARTOIS
+                                -   HOUSE OF ANJOU
 
-                    -   Blason_Comtes_de_Dreux.svg HOUSE OF DREUX
-                    -   Blason_Courtenay.svg HOUSE OF COURTENAY
+                    -   HOUSE OF DREUX
+                    -   HOUSE OF COURTENAY
 
-            -   Armoiries_Vermandois.svg HOUSE OF VERMANDOIS
+            -   HOUSE OF VERMANDOIS
 
-        -   Blason_Ducs_Bourgogne_(ancien).svg HOUSE OF BURGUNDY
+        -   HOUSE OF BURGUNDY
 
 Descendants of Philip III of France
 

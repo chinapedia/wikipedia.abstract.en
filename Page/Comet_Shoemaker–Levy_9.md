@@ -36,13 +36,13 @@ Astronomers estimated that the visible fragments of SL9 ranged in size from a fe
 
 Impacts
 
-Hubble_Space_Telescope_Image_of_Fragment_BDGLNQ12R_Impacts.png (about 2.5 hours after R's impact). The black dot near the top is Io transiting Jupiter.[20]]] Max_Planck_Institute_Shoemaker–Levy_9.gif, Shoemaker–Levy 9 collision (left), Io (right)]]
+(about 2.5 hours after R's impact). The black dot near the top is Io transiting Jupiter.[20]]] , Shoemaker–Levy 9 collision (left), Io (right)]]
 
 Anticipation grew as the predicted date for the collisions approached, and astronomers trained terrestrial telescopes on Jupiter. Several space observatories did the same, including the Hubble Space Telescope, the ROSAT X-ray-observing satellite, and significantly the _Galileo_ spacecraft, then on its way to a rendezvous with Jupiter scheduled for 1995. Although the impacts took place on the side of Jupiter hidden from Earth, _Galileo_, then at a distance of from the planet, was able to see the impacts as they occurred. Jupiter's rapid rotation brought the impact sites into view for terrestrial observers a few minutes after the collisions.[21]
 
 Two other space probes made observations at the time of the impact: the _Ulysses_ spacecraft, primarily designed for solar observations, was pointed towards Jupiter from its location away, and the distant _Voyager 2_ probe, some from Jupiter and on its way out of the Solar System following its encounter with Neptune in 1989, was programmed to look for radio emission in the 1–390 kHz range and make observations with its ultraviolet spectrometer.[22]
 
-Impact_fireball_appears_over_the_limb_of_Jupiter.jpg from the first impact appearing over the limb of the planet]]
+from the first impact appearing over the limb of the planet]]
 
 The first impact occurred at 20:13 UTC on July 16, 1994, when fragment A of the nucleus entered Jupiter's southern hemisphere at a speed of about .[23] Instruments on _Galileo_ detected a fireball that reached a peak temperature of about , compared to the typical Jovian cloudtop temperature of about , before expanding and cooling rapidly to about after 40 seconds. The plume from the fireball quickly reached a height of over .[24] A few minutes after the impact fireball was detected, _Galileo_ measured renewed heating, probably due to ejected material falling back onto the planet. Earth-based observers detected the fireball rising over the limb of the planet shortly after the initial impact.[25]
 
@@ -55,7 +55,7 @@ Observations and discoveries
 
 Chemical studies
 
-Jupiter_showing_SL9_impact_sites.jpg's southern hemisphere]]
+'s southern hemisphere]]
 
 Observers hoped that the impacts would give them a first glimpse of Jupiter beneath the cloud tops, as lower material was exposed by the comet fragments punching through the upper atmosphere. Spectroscopic studies revealed absorption lines in the Jovian spectrum due to diatomic sulfur (S₂) and carbon disulfide (CS₂), the first detection of either in Jupiter, and only the second detection of S₂ in any astronomical object. Other molecules detected included ammonia (NH₃) and hydrogen sulfide (H₂S). The amount of sulfur implied by the quantities of these compounds was much greater than the amount that would be expected in a small cometary nucleus, showing that material from within Jupiter was being revealed. Oxygen-bearing molecules such as sulfur dioxide were not detected, to the surprise of astronomers.[31]
 
@@ -67,7 +67,7 @@ As predicted beforehand, the collisions generated enormous waves that swept acro
 
 Other observations
 
-SL9ImpactGalileo.jpg images, taken several seconds apart, showing the appearance of the fireball of fragment W on the dark side of Jupiter]]
+images, taken several seconds apart, showing the appearance of the fireball of fragment W on the dark side of Jupiter]]
 
 Radio observations revealed a sharp increase in continuum emission at a wavelength of after the largest impacts, which peaked at 120% of the normal emission from the planet. This was thought to be due to synchrotron radiation, caused by the injection of relativistic electrons—electrons with velocities near the speed of light—into the Jovian magnetosphere by the impacts.[34]
 
@@ -79,8 +79,6 @@ Voyager 2 failed to detect anything with calculations showing that the fireballs
 
 
 Post-impact analysis
-
-Impact_site_of_fragment_G.png
 
 Several models were devised to compute the density and size of Shoemaker–Levy 9. Its average density was calculated to be about ; the breakup of a much less dense comet would not have resembled the observed string of objects. The size of the parent comet was calculated to be about in diameter.[39][40] These predictions were among the few that were actually confirmed by subsequent observation.[41]
 
@@ -100,7 +98,7 @@ Counterintuitively, the atmospheric temperature dropped to normal levels much mo
 
 Frequency of impacts
 
-Chain_of_impact_craters_on_Ganymede.jpg on Ganymede, probably caused by a similar impact event. The picture covers an area approximately across]]
+on Ganymede, probably caused by a similar impact event. The picture covers an area approximately across]]
 
 SL9 is not unique in having orbited Jupiter for a time; five comets, (including 82P/Gehrels, 147P/Kushida–Muramatsu, and 111P/Helin–Roman–Crockett) are known to have been temporarily captured by the planet.[50][51] Cometary orbits around Jupiter are unstable, as they will be highly elliptical and likely to be strongly perturbed by the Sun's gravity at apojove (the furthest point on the orbit from the planet).
 

@@ -57,7 +57,7 @@ The Cedar Falls Historical Society has its offices in the Victorian Home and Car
 
 Education
 
-UNI_Lang_Hall.JPG Seerley_1.JPG Besides hosting one of the three Iowa public universities, University of Northern Iowa (UNI), Cedar Falls is home to two high schools: Valley Lutheran High School, a private Christian school, and Cedar Falls High School, which is part of the public school district. The public school district, Cedar Falls Community Schools, includes two junior high schools and six elementary schools. There is also a private Catholic elementary school at St. Patrick Catholic Church. The Malcolm Price Lab School/Northern University High School, was a state-funded K-12 school run by the university. It closed in 2012 following cuts at UNI.[10]
+Besides hosting one of the three Iowa public universities, University of Northern Iowa (UNI), Cedar Falls is home to two high schools: Valley Lutheran High School, a private Christian school, and Cedar Falls High School, which is part of the public school district. The public school district, Cedar Falls Community Schools, includes two junior high schools and six elementary schools. There is also a private Catholic elementary school at St. Patrick Catholic Church. The Malcolm Price Lab School/Northern University High School, was a state-funded K-12 school run by the university. It closed in 2012 following cuts at UNI.[10]
 
 
 Utilities and Internet access

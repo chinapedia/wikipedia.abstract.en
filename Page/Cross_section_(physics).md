@@ -11,8 +11,6 @@ Differential and total scattering cross sections are among the most important me
 
 Collision among gas particles
 
-CrossSectionFig1.svg
-
 In a gas of finite-sized particles there are collisions among particles that depend on their cross-sectional size. The average distance that a particle travels between collisions depends on the density of gas particles. These quantities are related by
 
 $$\sigma = \frac{1}{n \lambda},$$
@@ -51,7 +49,7 @@ Differential cross section
 
 Consider a classical measurement where a single particle is scattered off a single stationary target particle. Conventionally, a spherical coordinate system is used, with the target placed at the origin and the axis of this coordinate system aligned with the incident beam. The angle is the SCATTERING ANGLE, measured between the incident beam and the scattered beam, and the is the azimuthal angle.
 
-    Differential_cross_section.svg
+
 
 The impact parameter is the perpendicular offset of the trajectory of the incoming particle, and the outgoing particle emerges at an angle . For a given interaction (Coulombic, magnetic, gravitational, contact, etc.), the impact parameter and the scattering angle have a definite one-to-one functional dependence on each other. Generally the impact parameter can neither be controlled nor measured from event to event and is assumed to take all possible values when averaging over many scattering events. The differential size of the cross section is the area element in the plane of the impact parameter, i.e. _b_ d_φ_ d_b_}}. The differential angular range of the scattered particle at angle is the solid angle element sin _θ_ d_θ_ d_φ_}}. The differential cross section is the quotient of these quantities, .
 

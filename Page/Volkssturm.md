@@ -3,7 +3,7 @@ The _VOLKSSTURM_ (, "people's storm") was a national militia established by Nazi
 
 Origins and organization
 
-Bundesarchiv_Bild_146-1979-107-10,_Angetretene_Volkssturmmänner.jpg Bundesarchiv_Bild_183-J28787,_Volkssturmbataillon_an_der_Oder.jpg The_British_Army_in_North-west_Europe_1944-45_BU2810.jpg, 28 March 1945.]]
+, 28 March 1945.]]
 
 The new _Volkssturm_ drew inspiration from the old Prussian _Landsturm_ of 1813–1815, that fought in the liberation wars against Napoleon, mainly as guerrilla forces. Plans to form a _Landsturm_ national militia in eastern Germany as a last resort to boost fighting strength were first proposed in 1944 by General Heinz Guderian, chief of the General Staff. The Army did not have enough men to resist the Soviet onslaught. So, additional categories of men were called into service, including those in non-essential jobs, those previously deemed unfit, over-age, or under-age, and those recovering from wounds. The _Volkssturm_ had existed, on paper, since around 1925, but it was only after Hitler ordered Martin Bormann to recruit six million men for this militia that the group became a physical reality. The intended strength of "six million" was never attained.
 
@@ -35,7 +35,7 @@ From the militia's inception until the spring of 1945, Himmler and Bormann engag
 
 Uniforms and insignia
 
-Volkssturm_armband.svg The _Volkssturm_ "uniform" was only a black armband with the German words _Deutscher Volkssturm Wehrmacht_. Some variants of the above-mentioned armband worn by Volkssturm members were simply red or yellow cloth-bands with "Deutscher Volkssturm Wehrmacht" printed in black on them. On top of the identification armbands, there were black rank-patches, either with or without silver pips, worn on the collar of the Volkssturm members' uniform. These were characteristically derived from the rank insignia of the various paramilitary organizations of the Nazi Party, which had control over them, and not of the regular _Wehrmacht_.
+The _Volkssturm_ "uniform" was only a black armband with the German words _Deutscher Volkssturm Wehrmacht_. Some variants of the above-mentioned armband worn by Volkssturm members were simply red or yellow cloth-bands with "Deutscher Volkssturm Wehrmacht" printed in black on them. On top of the identification armbands, there were black rank-patches, either with or without silver pips, worn on the collar of the Volkssturm members' uniform. These were characteristically derived from the rank insignia of the various paramilitary organizations of the Nazi Party, which had control over them, and not of the regular _Wehrmacht_.
 
 The German government tried to issue as many of its members as possible with military uniforms of all sorts, ranging from field-gray to camouflage types. Most members of the _Volkssturm_, especially elderly members, had no uniform and were not supplied, so they generally wore either work-attire (including railway workers, policemen and firemen) or their civilian clothing and usually carried with them their own personal rucksacks, blankets and cooking-equipment, etc.
 
@@ -44,29 +44,29 @@ Ranks
 
 The simple paramilitary insignia of the _Volkssturm_ were as follows:
 
-+----------------------+------------------------+---------------------------+--------------------------+
-| Volkssturm Rank      | Translation            | Comparative military rank | Insignia                 |
-+======================+========================+===========================+==========================+
-| _Bataillonsführer_   | Battalion leader       | Major                     | NSKK-Sturmbannführer.svg |
-+----------------------+------------------------+---------------------------+--------------------------+
-| _Bataillonsarzt_     | Battalion Physician    | Captain                   | NSKK-Sturmführer.svg     |
-+----------------------+------------------------+---------------------------+--------------------------+
-| _Kompanieführer_     | Company leader         | Captain                   | NSKK-Sturmführer.svg     |
-+----------------------+------------------------+---------------------------+--------------------------+
-| _Zugführer_          | Platoon leader         | Lieutenant                | NSKK-Truppführer.svg     |
-+----------------------+------------------------+---------------------------+--------------------------+
-| _Sanitätsdienstgrad_ | [Platoon]              | Corporal                  | NSKK-Scharführer.svg     |
-|                      | Medical Orderly        |                           |                          |
-+----------------------+------------------------+---------------------------+--------------------------+
-| _Gruppenführer_      | Squad leader           | Corporal                  | NSKK-Scharführer.svg     |
-+----------------------+------------------------+---------------------------+--------------------------+
-| _Volkssturmmann_     | People's Storm Trooper | Private                   | NSKK-Mann.svg            |
-+----------------------+------------------------+---------------------------+--------------------------+
++----------------------+------------------------+---------------------------+----------+
+| Volkssturm Rank      | Translation            | Comparative military rank | Insignia |
++======================+========================+===========================+==========+
+| _Bataillonsführer_   | Battalion leader       | Major                     |          |
++----------------------+------------------------+---------------------------+----------+
+| _Bataillonsarzt_     | Battalion Physician    | Captain                   |          |
++----------------------+------------------------+---------------------------+----------+
+| _Kompanieführer_     | Company leader         | Captain                   |          |
++----------------------+------------------------+---------------------------+----------+
+| _Zugführer_          | Platoon leader         | Lieutenant                |          |
++----------------------+------------------------+---------------------------+----------+
+| _Sanitätsdienstgrad_ | [Platoon]              | Corporal                  |          |
+|                      | Medical Orderly        |                           |          |
++----------------------+------------------------+---------------------------+----------+
+| _Gruppenführer_      | Squad leader           | Corporal                  |          |
++----------------------+------------------------+---------------------------+----------+
+| _Volkssturmmann_     | People's Storm Trooper | Private                   |          |
++----------------------+------------------------+---------------------------+----------+
 
 
 Training and impact
 
-Bundesarchiv_Bild_183-J31391,_Berlin,_Volkssturm,_Ausbildung.jpg'' anti-tank weapon.]] Bundesarchiv_Bild_146-1973-001-30,_Volkssturm,_Frau_mit_Panzerfaust.jpg'' to a female civilian.]]
+'' anti-tank weapon.]] '' to a female civilian.]]
 
 Typically, members of the _Volkssturm_ received only very basic military training. It included a brief indoctrination and training on the use of basic weapons such as the Karabiner 98k rifle and _Panzerfaust_. Because of continuous fighting and weapon shortages, weapon training was often minimal. There was also a lack of instructors, meaning that weapons training was sometimes done by World War I veterans drafted into service themselves. Often _Volkssturm_ members were only able to familiarize themselves with their weapons when in actual combat.
 

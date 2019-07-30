@@ -1,4 +1,4 @@
-Paradiso_Canto_31.jpg and Beatrice gaze upon the highest heavens; from Gustave Doré's illustrations to the _Divine Comedy_.]]
+and Beatrice gaze upon the highest heavens; from Gustave Doré's illustrations to the _Divine Comedy_.]]
 
 HEAVEN, or THE HEAVENS, is a common religious, cosmological, or transcendent place where beings such as gods, angels, spirits, saints, or venerated ancestors are said to originate, be enthroned, or live. According to the beliefs of some religions, heavenly beings can descend to earth or incarnate, and earthly beings can ascend to heaven in the afterlife, or in exceptional cases enter heaven alive.
 
@@ -9,8 +9,6 @@ Another belief is in an axis mundi or world tree which connects the heavens, the
 
 Etymology
 
-Beowulf_-_heofones.jpg
-
 The modern English word _heaven_ is derived from the earlier (Middle English) _heven_ (attested 1159); this in turn was developed from the previous Old English form _heofon_. By about 1000, _heofon_ was being used in reference to the Christianized "place where God dwells", but originally, it had signified "sky, firmament"[2] (e.g. in _Beowulf_, c. 725). The English term has cognates in the other Germanic languages: Old Saxon _heƀan_ "sky, heaven" (hence also Middle Low German _heven_ "sky"), Old Icelandic _himinn_, Gothic _himins_; and those with a variant final _-l_: Old Frisian _himel, himul_ "sky, heaven", Old Saxon and Old High German _himil_, Old Saxon and Middle Low German _hemmel_, Old Dutch and Dutch _hemel_, and modern German _Himmel_. All of these have been derived from a reconstructed Proto-Germanic form *_hemina-_.[3] or _*hemō_.[4]
 
 The further derivation of this form is uncertain. A connection to Proto-Indo-European _*ḱem-_ "cover, shroud", via a reconstructed _*k̑emen-_ or _*k̑ōmen-_ "stone, heaven", has been proposed.[5] Others endorse the derivation from a Proto-Indo-European root _*h₂éḱmō_ "stone" and, possibly, "heavenly vault" at the origin of this word, which then would have as cognates Ancient Greek ἄκμων (ákmōn "anvil, pestle; meteorite"), Persian آسمان‎ (_âsemân, âsmân_ "stone, sling-stone; sky, heaven") and Sanskrit अश्मन् (_aśman_ "stone, rock, sling-stone; thunderbolt; the firmament").[6] In the latter case English _hammer_ would be another cognate to the word.
@@ -20,7 +18,7 @@ Ancient Near East
 
 Mesopotamia
 
-Ruins_from_a_temple_in_Naffur.jpg temple in Nippur, believed by the ancient Mesopotamians to be the "Dur-an-ki", the "mooring-rope" of heaven and earth.]]
+temple in Nippur, believed by the ancient Mesopotamians to be the "Dur-an-ki", the "mooring-rope" of heaven and earth.]]
 
 The ancient Mesopotamians regarded the sky as a series of domes (usually three, but sometimes seven) covering the flat earth. Each dome was made of a different kind of precious stone. The lowest dome of heaven was made of jasper and was the home of the stars. The middle dome of heaven was made of _saggilmut_ stone and was the abode of the Igigi. The highest and outermost dome of heaven was made of _luludānītu_ stone and was personified as An, the god of the sky. The celestial bodies were equated with specific deities as well. The planet Venus was believed to be Inanna, the goddess of love, sex, and war. The sun was her brother Utu, the god of justice, and the moon was their father Nanna.
 
@@ -53,7 +51,7 @@ During the period of the Second Temple ( 515 BC – 70 AD), the Hebrew people li
 
 New Testament and early Christianity
 
-Francesco_Botticini_-_The_Assumption_of_the_Virgin.jpg by Francesco Botticini at the National Gallery London, shows three hierarchies and nine orders of angels, each with different characteristics.]]
+by Francesco Botticini at the National Gallery London, shows three hierarchies and nine orders of angels, each with different characteristics.]]
 
 Descriptions of heaven in the New Testament are more fully developed than those in the Old Testament, but are still generally vague. As in the Old Testament, in the New Testament God is described as the ruler of heaven and earth, but his power over the earth is challenged by Satan. Sayings of Jesus recorded in the Gospels of Mark and Luke speak of the "Kingdom of God" (; ), while the Gospel of Matthew more commonly uses the term "Kingdom of Heaven" (; ).[12] Both phrases have exactly the same meaning, but the author of the Gospel of Matthew changed the name "Kingdom of God" to "Kingdom of Heaven" in most instances because it was the more acceptable phrase in his own cultural and religious context in the late first century.
 
@@ -85,7 +83,7 @@ According to Tracey R. Rich of the website "Judaism 101", Judaism, unlike other 
 
 Islam
 
-Mohammed´s_Paradise.jpg depicting the artist's impression of heaven]]
+depicting the artist's impression of heaven]]
 
 Similar to Jewish traditions such as the Talmud, the Qur'an and Hadith frequently mention the existence of seven _samāwāt_ (سماوات), the plural of _samāʾ_ (سماء), meaning 'heaven, sky, celestial sphere', and cognate with Hebrew _shamāyim_ (שמים). Some of the verses in the Qur'an mentioning the _samaawat_ [26] are , , . Sidrat al-Muntaha, a large enigmatic Lote tree, marks the end of the seventh heaven and the utmost extremity for all of God's creatures and heavenly knowledge.[27]
 
@@ -124,7 +122,7 @@ The Bahá'í teachings state that there exists a hierarchy of souls in the after
 
 Chinese religions
 
-天-oracle.svg Oracle script for _tian_, the character for "heaven" or "sky".]]
+Oracle script for _tian_, the character for "heaven" or "sky".]]
 
 In the native Chinese Confucian traditions, heaven (Tian) is an important concept, where the ancestors reside and from which emperors drew their mandate to rule in their dynastic propaganda, for example.
 
@@ -139,7 +137,7 @@ Indic religions
 
 Buddhism
 
-018_Devas_in_Heaven_(9174314518)_(2).jpg sporting in heaven. Mural in Wat Bowonniwet]] In Buddhism there are several heavens, all of which are still part of _samsara_ (illusionary reality). Those who accumulate good karma may be reborn[42] in one of them. However, their stay in heaven is not eternal—eventually they will use up their good karma and will undergo rebirth into another realm, as a human, animal or other being. Because heaven is temporary and part of _samsara_, Buddhists focus more on escaping the cycle of rebirth and reaching enlightenment (_nirvana_). Nirvana is not a heaven but a mental state.
+sporting in heaven. Mural in Wat Bowonniwet]] In Buddhism there are several heavens, all of which are still part of _samsara_ (illusionary reality). Those who accumulate good karma may be reborn[42] in one of them. However, their stay in heaven is not eternal—eventually they will use up their good karma and will undergo rebirth into another realm, as a human, animal or other being. Because heaven is temporary and part of _samsara_, Buddhists focus more on escaping the cycle of rebirth and reaching enlightenment (_nirvana_). Nirvana is not a heaven but a mental state.
 
 According to Buddhist cosmology the universe is impermanent and beings transmigrate through a number of existential "planes" in which this human world is only one "realm" or "path".[43] These are traditionally envisioned as a vertical continuum with the heavens existing above the human realm, and the realms of the animals, hungry ghosts and hell beings existing beneath it. According to Jan Chozen Bays in her book, _Jizo: Guardian of Children, Travelers, and Other Voyagers_, the realm of the _asura_ is a later refinement of the heavenly realm and was inserted between the human realm and the heavens. One important Buddhist heaven is the _Trāyastriṃśa_, which resembles Olympus of Greek mythology.
 
@@ -287,8 +285,6 @@ In the Nasadiya Sukta, the heavens/sky Vyoman is mentioned as a place from which
 
 Jainism
 
-Jain_Universe.jpg
-
 The shape of the Universe as described in Jainism is shown alongside. Unlike the current convention of using North direction as the top of map, this uses South as the top. The shape is similar to a part of human form standing upright.
 
 The _Deva Loka_ (heavens) are at the symbolic "chest", where all souls enjoying the positive karmic effects reside. The heavenly beings are referred to as _devas_ (masculine form) and _devis_ (feminine form). According to Jainism, there is not one heavenly abode, but several layers to reward appropriately the souls of varying degree of karmic merits. Similarly, beneath the "waist" are the _Narka Loka_ (hell). Human, animal, insect, plant and microscopic life forms reside on the middle.
@@ -328,7 +324,7 @@ The Māori believe these heavens are supported by pillars. Other Polynesian peop
 
 Paumotu, Tuamotus
 
-Paumotuheavens.gif portraying nine heavens.]] The Polynesian conception of the universe and its division is nicely illustrated by a famous drawing made by a Tuomotuan chief in 1869. Here, the nine heavens are further divided into left and right, and each stage is associated with a stage in the evolution of the earth that is portrayed below. The lowest division represents a period when the heavens hung low over the earth, which was inhabited by animals that were not known to the islanders. In the third division is shown the first murder, the first burials, and the first canoes, built by Rata. In the fourth division, the first coconut tree and other significant plants are born.[49]
+portraying nine heavens.]] The Polynesian conception of the universe and its division is nicely illustrated by a famous drawing made by a Tuomotuan chief in 1869. Here, the nine heavens are further divided into left and right, and each stage is associated with a stage in the evolution of the earth that is portrayed below. The lowest division represents a period when the heavens hung low over the earth, which was inhabited by animals that were not known to the islanders. In the third division is shown the first murder, the first burials, and the first canoes, built by Rata. In the fourth division, the first coconut tree and other significant plants are born.[49]
 
 
 Theosophy

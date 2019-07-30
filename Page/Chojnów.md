@@ -21,8 +21,6 @@ The town is first mentioned in a Latin mediaeval document issued in Wrocław on 
 
 The settlement of _Haynow_ was mentioned in a 1272 deed. It was already called a _civitas_ in a 1288 document issued by the Piast duke Henry V of Legnica, and officially received town privileges in 1333. In 1288, the city is known from documents of the Prince of Legnica Henryk V colon.
 
-SM_Chojnów_Dworzec_(2)_ID_593398.jpg
-
 The town survived the Hussites, who burned almost the entire town Center and castle, but it quickly helped recover its former glory. The largest boom Chojnów experienced was in the 16th century, however by the end of that century began to decline due to fires and epidemic, which claimed many victims in 1613AD.
 
 From 1618 to 1648 (during the Thirty Years War), there was another outbreak in the city and in 1740 Chojnów was conquered by the Prussians.
@@ -60,8 +58,6 @@ Gallery
 SM Chojnów Zamek(2) ID 593385.jpg|SM Chojnów Castle Chojnów, Ab-047.JPG|Flower beds in Chojnów SM Chojnów Rynek (0) ID 593382.jpg|Market Square Chojnow 054 jeziorko.jpg|Pond in Chojnów Chojnow 055 most kolejowy.jpg|Railway bridge Chojnow 019 gimnazjum.jpg|Chojnów Gymnasium School Chojnow 067 duzy kosciol.jpg|St Peter and Paul Church SM Chojnów kościół Niepokalanego Poczęcia NMP (5) ID 593383.jpg|Immaculate Conception Church
 
 Culture
-
-Chojnow_010_mdk.jpg
 
 Chojnów has a Municipal sports and recreation center formed in 2008 holding various events, festivals, reviews, exhibitions, and competitions. The regional Museum is housed in the old Piast era castle. The collections include tiles, relics, and the castle garden. Next to the Museum there is a municipal library. In śródmiejskim Park, near the Town Hall is the amphitheatre.
 

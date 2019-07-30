@@ -20,7 +20,7 @@ The name "Gumby" came from the muddy clay found at Clokey's grandparents' farm t
 
 Clokey's pilot episode was seen by NBC executive Thomas Warren Sarnoff, who asked Clokey to make another one. The second episode, _Gumby on the Moon_, became a huge hit on _Howdy Doody_, leading Sarnoff to order a series in 1955 entitled _The Gumby Show_.[14] In 1955 and 1956, 25 eleven-minute episodes aired on NBC.[15] In early episodes, Gumby's voice was provided by Ruth Eggleston, wife of the show's art director Al Eggleston,[16] until Dallas McKennon assumed her role in 1957. Gumby's best friend, an orange pony named Pokey, was introduced during the earliest episodes. Because of its variety-type format, _The Gumby Show_ featured not only Clokey's puppet films, but also interviews and games. During this time, the show went through a succession of two hosts, Robert Nicholson and Pinky Lee.[17][18]
 
-Feed-a-matic_chair3.JPG".]]
+".]]
 
 In 1959, _The Gumby Show_ entered syndication, and more episodes were produced in the 1960s.[19] Production started in Hollywood and in 1960 moved to a larger studio in Glendora, California, where it remained until production ended in 1969. During this time, Gumby was primarily voiced by Norma MacMillan, and occasionally by Ginny Tyler. The cartoon shorts introduced new characters including a blue mermaid named Goo and a yellow dinosaur named Prickle.
 
@@ -80,8 +80,6 @@ In a 2014 episode of Disney XD's _Gravity Falls_ called "Little Gift Shop of Hor
 
 
 Merchandising
-
-Gumbygame.png
 
 Various Gumby merchandise has been produced over the years, the most prominent item being bendable figures by Lakeside Toys, headquartered in Minneapolis, Minnesota. Several single packs and multi-figure sets by Jesco (later Trendmasters), as well as a 50th anniversary collection, have been made of the Gumby characters. Also included in the Gumby merchandise catalog are plush dolls, keychains, mugs, a 1988 Colorforms set, a 1995 Trendmasters playset and a Kubricks set by Medicom. A tribute album, _Gumby: The Green Album_, produced by Shepard Stern, was released in 1989 through Buena Vista Records.[43]
 

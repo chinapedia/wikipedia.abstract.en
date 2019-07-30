@@ -3,7 +3,7 @@ The KINGDOM OF THE EAST SAXONS (; ), today referred to as the KINGDOM OF ESSEX ,
 
 Extent
 
-Ancient_Essex_750.png.]] The kingdom was bounded to the north by the River Stour and the Kingdom of East Anglia, to the south by the River Thames and Kent, to the east lay the North Sea and to the west Mercia. The territory included the remains of two provincial Roman capitals, Colchester and London. The early kingdom included the land of the Middle Saxons,[2] later Middlesex, most if not all of Hertfordshire[3] and may at times have included Surrey.[4] For a brief period in the 8th century, the Kingdom of Essex controlled what is now Kent.
+.]] The kingdom was bounded to the north by the River Stour and the Kingdom of East Anglia, to the south by the River Thames and Kent, to the east lay the North Sea and to the west Mercia. The territory included the remains of two provincial Roman capitals, Colchester and London. The early kingdom included the land of the Middle Saxons,[2] later Middlesex, most if not all of Hertfordshire[3] and may at times have included Surrey.[4] For a brief period in the 8th century, the Kingdom of Essex controlled what is now Kent.
 
 The modern English county of Essex maintains the historic northern and the southern borders, but only covers the territory east of the River Lea, the other parts being lost to neighbouring Mercia during the 8th century.[5]
 

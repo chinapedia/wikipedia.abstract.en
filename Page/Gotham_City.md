@@ -16,7 +16,7 @@ Geography
 
 Location in New Jersey
 
-Gotham_City_map_(Amazing_World_of_DC_Comics).jpg from _Amazing World of DC Comics_ #14 (March 1977). Art by Dick Dillin.]] Gotham City, like other cities in the DC Universe, has varied in its portrayals over the decades, but the city's location is traditionally depicted as being in the state of New Jersey. In _Amazing World of DC Comics_ #14 (March 1977), publisher Mark Gruenwald discusses the history of the Justice League and indicates that Gotham City is located in New Jersey.[17]
+from _Amazing World of DC Comics_ #14 (March 1977). Art by Dick Dillin.]] Gotham City, like other cities in the DC Universe, has varied in its portrayals over the decades, but the city's location is traditionally depicted as being in the state of New Jersey. In _Amazing World of DC Comics_ #14 (March 1977), publisher Mark Gruenwald discusses the history of the Justice League and indicates that Gotham City is located in New Jersey.[17]
 
 In the _World’s Greatest Super Heroes_ (August 1978) comic strip, a map is shown placing Gotham City in New Jersey and Metropolis in Delaware.[18] _World's Finest Comics_ #259 (November 1979) also confirms that Gotham is in New Jersey.[19] _New Adventures of Superboy_ #22 (October 1981) and the 1990 _Atlas of the DC Universe_ both show maps of Gotham City in New Jersey and Metropolis in Delaware.[20][21]
 
@@ -28,7 +28,7 @@ The 2016 film _Suicide Squad_ reveals Gotham City to be in the state of New Jers
 
 In relation to Metropolis
 
-Batman_Knight_over_Gotham.jpg.]]
+.]]
 
 Gotham City is the home of Batman, just as Metropolis is home to Superman, and the two heroes often work together in both cities. In comic book depictions, the exact distance between Gotham and Metropolis has varied over the years, with the cities usually being within driving distance of each other. The two cities are sometimes portrayed as twin cities on opposite sides of the Delaware Bay, with Gotham in New Jersey and Metropolis in Delaware.[26][27] _The Atlas of the DC Universe_ from the 1990s places Metropolis in Delaware and Gotham City in New Jersey.[28]
 
@@ -43,7 +43,7 @@ Fictional history
 
 In _Swamp Thing_ #53, Alan Moore wrote a fictional history for Gotham City that other writers have also followed. According to Moore's tale, a Norwegian mercenary, Captain Jon Logerquist, founded Gotham City in 1635 and the British later took it over—a story that parallels the founding of New York by the Dutch (as New Amsterdam) and later takeover by the British. During the American Revolutionary War, Gotham City was the site of a major battle (paralleling the Battle of Brooklyn in the American Revolution). This was detailed in Rick Veitch's _Swamp Thing_ #85 featuring Tomahawk. Rumors held it to be the site of various occult rites.
 
-Gotham-City-1881.jpg The 2011 comic book series _Batman: Gates of Gotham_ details a history of Gotham City in which Alan Wayne (Bruce Wayne's ancestor), Theodore Cobblepot (Oswald Cobblepot's ancestor), and Edward Elliot (Thomas Elliot's ancestor), are considered the founding fathers of Gotham. In 1881 they constructed three bridges called the Gates of Gotham, each bearing one of their last names. Edward Elliot became increasingly jealous of the Wayne family’s popularity and wealth during this time period, a jealousy that would spread to his great-great grandson, Thomas Elliot or Hush.[35]
+The 2011 comic book series _Batman: Gates of Gotham_ details a history of Gotham City in which Alan Wayne (Bruce Wayne's ancestor), Theodore Cobblepot (Oswald Cobblepot's ancestor), and Edward Elliot (Thomas Elliot's ancestor), are considered the founding fathers of Gotham. In 1881 they constructed three bridges called the Gates of Gotham, each bearing one of their last names. Edward Elliot became increasingly jealous of the Wayne family’s popularity and wealth during this time period, a jealousy that would spread to his great-great grandson, Thomas Elliot or Hush.[35]
 
 The occult origins of Gotham are further delved into by Peter Milligan's 1990 story arc "Dark Knight, Dark City",[36] which reveals that some of the American Founding Fathers are involved in summoning a bat-demon which becomes trapped beneath old "Gotham Town", its dark influence spreading as Gotham City evolves. A similar trend is followed in 2005's _Shadowpact_ #5 by Bill Willingham, which expands upon Gotham's occult heritage by revealing a being who has slept for 40,000 years beneath the land upon which Gotham City was built. Strega, the being's servant, says that the "dark and often cursed character" of the city was influenced by the being who now uses the name "Doctor Gotham."
 
@@ -60,7 +60,7 @@ Atmosphere
 
 In terms of atmosphere, _Batman_ writer and editor Dennis O'Neil has said that, figuratively, Batman's Gotham City is akin to "Manhattan below Fourteenth Street at eleven minutes past midnight on the coldest night in November."[37] Batman artist Neal Adams has long believed that Chicago, with its proliferation of mobsters in the 1940s, was the basis for Gotham, commenting, "Chicago has had a reputation for a certain kind of criminality," says Adams, who lives in New York. "Batman is in this kind of corrupt city and trying to turn it back into a better place. One of the things about Chicago is Chicago has alleys (which are virtually nonexistent in New York). Back alleys, that's where Batman fights all the bad guys."[38] The statement "Metropolis is New York in the daytime; Gotham City is New York at night" has been variously attributed to comics creators Frank Miller and John Byrne.[39]
 
-Gotham_City_Batman_Vol_1_615.png Stone gargoyles are commonly depicted on the buildings of Gotham City, such as the thirteen gargoyles on Wayne Tower.[40] Various artists have depicted Batman perched atop gargoyles while keeping watch over Gotham City.[41]
+Stone gargoyles are commonly depicted on the buildings of Gotham City, such as the thirteen gargoyles on Wayne Tower.[40] Various artists have depicted Batman perched atop gargoyles while keeping watch over Gotham City.[41]
 
 In designing the award-winning _Batman: The Animated Series_, creators Bruce Timm and Eric Radomski emulated the Tim Burton films' "otherworldly timelessness," incorporating period features such as black-and-white title cards, police airships (although no such thing existed, Timm has stated that he found it to fit the show's style), and a "vintage" color scheme with film noir flourishes.[42] Police airships have since been incorporated into Batman comic books and are a recurring element in Gotham City.[43]
 
@@ -70,7 +70,7 @@ During his run as a writer, _Batman_ scribe Grant Morrison brought about a more 
 
 Architecture
 
-Helsinki_Railway_station_towe&statues.jpg, inspired the look of Gotham in the 1989 film _Batman_.[46]]] In the Batman comics, the person cited as an influential figure in promoting the unique architecture of Gotham City during the 19th century was Judge Solomon Wayne, Bruce Wayne's ancestor. His campaign to reform Gotham came to a head when he met a young architect named Cyrus Pinkney. Wayne commissioned Pinkney to design and to build the first "Gotham Style" structures in what became the center of the city's financial district. The "Gotham Style" idea of the writers matches parts of the Gothic Revival in style and timing. In the storyline of Batman: Gothic, the Gotham Cathedral plays a central role for the story as it is built by Mr. Whisper, the story's antagonist.
+, inspired the look of Gotham in the 1989 film _Batman_.[46]]] In the Batman comics, the person cited as an influential figure in promoting the unique architecture of Gotham City during the 19th century was Judge Solomon Wayne, Bruce Wayne's ancestor. His campaign to reform Gotham came to a head when he met a young architect named Cyrus Pinkney. Wayne commissioned Pinkney to design and to build the first "Gotham Style" structures in what became the center of the city's financial district. The "Gotham Style" idea of the writers matches parts of the Gothic Revival in style and timing. In the storyline of Batman: Gothic, the Gotham Cathedral plays a central role for the story as it is built by Mr. Whisper, the story's antagonist.
 
 In a 1992 storyline, a man obsessed with Pinkney's architecture blew up several Gotham buildings in order to reveal the Pinkney structures they had hidden; the editorial purpose behind this was to transform the city depicted in the comics to resemble the designs created by Anton Furst for the 1989 _Batman_ film.[47][48][49] Alan Wayne expanded upon his father's ideas and built a bridge to expand the city. Edward Elliot and Theodore Cobblepot also each had a bridge named for them.
 
@@ -142,7 +142,7 @@ Gotham City Police Department
 
 Gotham City Metropolitan Area
 
-Gotham_City_map.jpg Gotham City Metropolitan Area lies within the "State of Gotham", and comprises multiple jurisdictions and municipalities: neighborhoods, townships, boroughs, cities, towns, exurbs, suburbs, counties, districts, etc. It forms the larger northeast megaregion of the United States.
+Gotham City Metropolitan Area lies within the "State of Gotham", and comprises multiple jurisdictions and municipalities: neighborhoods, townships, boroughs, cities, towns, exurbs, suburbs, counties, districts, etc. It forms the larger northeast megaregion of the United States.
 
 Gotham City is largest population center in all of Gotham County. It is the base of operations for characters such as the Batman, Robin, the Huntress, Ragman and Simon Dark. Gotham City in itself lies on an archipelago and is a major economic center within the United States of the DC Universe. Its important industries include manufacturing; shipping; finance; fine arts, represented by its numerous museums, galleries, and jewelers; and the production of giant novelty props. In addition to its commercial seaport, it also supports a naval shipyard.[73]
 
@@ -279,7 +279,7 @@ Films
 
 1989 Batman Anthology
 
-Gotham_skyline.JPG in the 1989 _Batman_ film]] For _Batman_ (1989), the look of Gotham was designed by production designer Anton Furst, who won an Oscar for his work on the film.[84] Wayne Manor's exteriors utilized Knebworth House, a Gothicised Tudor, while its interiors were Hatfield House in Hatfield. The Axis Chemical Works, where Jack Napier (Jack Nicholson) plunges into the chemical sludge, was filmed at a disused power station in Acton Lane, West London. The exploding exterior was Little Barford Power Station, a couple of miles south of St Neots in Cambridgeshire.[85] Tim Burton's sequel, _Batman Returns_ (1992), filmed city scenes entirely on soundstages.[86] Production designer Bo Welch, who took over from Furst, based his designs on Furst's concepts.[87][88]
+in the 1989 _Batman_ film]] For _Batman_ (1989), the look of Gotham was designed by production designer Anton Furst, who won an Oscar for his work on the film.[84] Wayne Manor's exteriors utilized Knebworth House, a Gothicised Tudor, while its interiors were Hatfield House in Hatfield. The Axis Chemical Works, where Jack Napier (Jack Nicholson) plunges into the chemical sludge, was filmed at a disused power station in Acton Lane, West London. The exploding exterior was Little Barford Power Station, a couple of miles south of St Neots in Cambridgeshire.[85] Tim Burton's sequel, _Batman Returns_ (1992), filmed city scenes entirely on soundstages.[86] Production designer Bo Welch, who took over from Furst, based his designs on Furst's concepts.[87][88]
 
 When Joel Schumacher took over directing the _Batman_ film series from Tim Burton, Barbara Ling handled the production design for both of Schumacher's films _Batman Forever_ (1995)[89][90][91] and 1997's _Batman & Robin_[92][93][94] Ling's vision of Gotham City was a luminous and outlandish evocation of Modern expressionism[95] and Constructivism.[96] Its futuristic-like concepts (to a certain extent, akin to the 1982 film _Blade Runner_[97]) appeared to be sort of a cross between Manhattan and the "Neo-Tokyo" of _Akira_. Ling admitted her influences for the Gotham City design came from "neon-ridden Tokyo and the Machine Age. Gotham is like a World's Fair on ecstasy."[98] When Batman is pursuing Two-Face in _Batman Forever,_ the chase ends at Lady Gotham, the fictional equivalent of the Statue of Liberty. During Mr. Freeze’s attempt to freeze Gotham in the film _Batman & Robin_, the targeting screen for his giant laser locates it somewhere on the New England shoreline, possibly as far north as Maine. The soundtrack for _Batman & Robin_ features a song named after the city and sung by R. Kelly, later included on international editions of his 1998 double album _R._
 
@@ -319,7 +319,7 @@ In the CW series _Supergirl_, Gotham is mentioned by a civilian after Superman s
 
 Animated films
 
-Gotham_Knight_Skyline.jpg During the events of the direct-to-video film, _Batman & Mr. Freeze: SubZero_ (1998), a computer screen displaying Barbara Gordon's personal information refers to her location as "Gotham City, NY", and also displays her area code as being 212 – a Manhattan area code. _Batman Beyond_ (1999–2001) envisions a Gotham City in 2039, referred to as "Neo-Gotham".
+During the events of the direct-to-video film, _Batman & Mr. Freeze: SubZero_ (1998), a computer screen displaying Barbara Gordon's personal information refers to her location as "Gotham City, NY", and also displays her area code as being 212 – a Manhattan area code. _Batman Beyond_ (1999–2001) envisions a Gotham City in 2039, referred to as "Neo-Gotham".
 
 The 2008 direct-to-DVD film _Batman: Gotham Knight_ shows Gotham as a large city with many skyscrapers and a bustling population.
 
@@ -333,7 +333,7 @@ The city is featured in _Lego Batman: The Videogame_ and _LEGO Batman 2: DC Supe
 
 Batman: Arkham Universe
 
-Gotham_City_Arkham.jpg _Batman: Arkham Asylum_ (2009) opens with Batman driving Joker from Gotham City to Arkham Asylum. Joker also threatens to detonate bombs across Gotham. In _Batman: Arkham City_ (2011), the slums of Old Gotham City (the northern island) were converted into Arkham City. Inside the prison walls, this part of Gotham contains various landmarks throughout the story, like Penguin's Iceberg Lounge, the Ace Chemical Plant, the Sionis Steel Mill, the Old Gotham City Police Department building, and the Monarch Theatre with the Wayne murder scene in Crime Alley. Most of these locations have major events in the story. In _Batman: Arkham Origins_ (2013), an earlier, younger version of the city can be seen than that of other games in the _Batman: Arkham_ series. In addition to the northern island, this installment in the series lets players explore a new southern island, connected to the former by the Pioneer's Bridge. The setting of _Batman: Arkham Knight_ (2015), Central Gotham City, is five-times larger than Old Gotham.
+_Batman: Arkham Asylum_ (2009) opens with Batman driving Joker from Gotham City to Arkham Asylum. Joker also threatens to detonate bombs across Gotham. In _Batman: Arkham City_ (2011), the slums of Old Gotham City (the northern island) were converted into Arkham City. Inside the prison walls, this part of Gotham contains various landmarks throughout the story, like Penguin's Iceberg Lounge, the Ace Chemical Plant, the Sionis Steel Mill, the Old Gotham City Police Department building, and the Monarch Theatre with the Wayne murder scene in Crime Alley. Most of these locations have major events in the story. In _Batman: Arkham Origins_ (2013), an earlier, younger version of the city can be seen than that of other games in the _Batman: Arkham_ series. In addition to the northern island, this installment in the series lets players explore a new southern island, connected to the former by the Pioneer's Bridge. The setting of _Batman: Arkham Knight_ (2015), Central Gotham City, is five-times larger than Old Gotham.
 
 
 References

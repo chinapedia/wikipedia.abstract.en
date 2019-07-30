@@ -1,4 +1,4 @@
-Alexanderplatz_in_Berlin_-_Panorama.jpg Alexanderplatz_by_the_night_-_ProtoplasmaKid.webm Stadtviertel_in_Berlin-Mitte.png: Old Cölln [1] (with Museum Island [1a], Fisher Island [1b]), Altberlin [2] (with Nikolaiviertel [2a]), Friedrichswerder [3], Neukölln am Wasser [4], Dorotheenstadt [5], Friedrichstadt [6], Luisenstadt [7], Stralauer Vorstadt (with Königsstadt) [8], Alexanderplatz Area (Königsstadt and Altberlin) [9], Spandauer Vorstadt [10] (with Scheunenviertel [10a]), Friedrich-Wilhelm-Stadt [11], Oranienburger Vorstadt [12], Rosenthaler Vorstadt [13] ]]
+: Old Cölln [1] (with Museum Island [1a], Fisher Island [1b]), Altberlin [2] (with Nikolaiviertel [2a]), Friedrichswerder [3], Neukölln am Wasser [4], Dorotheenstadt [5], Friedrichstadt [6], Luisenstadt [7], Stralauer Vorstadt (with Königsstadt) [8], Alexanderplatz Area (Königsstadt and Altberlin) [9], Spandauer Vorstadt [10] (with Scheunenviertel [10a]), Friedrich-Wilhelm-Stadt [11], Oranienburger Vorstadt [12], Rosenthaler Vorstadt [13] ]]
 
 ALEXANDERPLATZ () is a large public square and transport hub in the central Mitte district of Berlin. The square is named after the Russian Tsar Alexander I and is often referred to simply as _ALEX_, which also denotes the larger neighbourhood stretching from _Mollstraße_ in the northeast to _Spandauer Straße_ and the Rotes Rathaus in the southwest.
 
@@ -7,7 +7,7 @@ With more than 360,000 visitors daily,[1] Alexanderplatz is, according to one st
 
 Roads and public transport
 
-Berlin_Alexanderplatz_2012.svg Alexanderplatz-Berlin-2006.jpg.]] Visit-suomi-2009-05-by-RalfR-015.jpg During the post-war reconstruction of the 1960s, Alexanderplatz was completely pedestrianized. Since then, trams were reintroduced to the area in 1998.
+.]] During the post-war reconstruction of the 1960s, Alexanderplatz was completely pedestrianized. Since then, trams were reintroduced to the area in 1998.
 
 Alexanderplatz station provides S-Bahn connections, access to the U2, U5 and U8 subway lines, regional train lines for DB Regio and ODEG services and, on weekends, the Harz-Berlin-Express (HBX). Several tram and bus lines also service the area.
 
@@ -29,11 +29,11 @@ Karl-Marx-Allee (B 1 and B 5) - Strausberger Platz - Karl-Marx-Allee / Frankfurt
 
 History
 
-Alexanderplatz_1796.jpg Alexanderplatz_1912.jpg BVG_KT4D_mod.JPG]] Alexander_Platz.jpg
+]]
 
 Early history to the 18th century
 
-A hospital stood at the location of present-day Alexanderplatz since the 13th century. Named _Heiliger Georg_ (St. George), the hospital gave its name to the nearby Georgentor (George Gate) of the Berlin city wall. Outside of the city walls, this area was largely undeveloped until around 1400, when the first settlers began building thatched cottages. As a gallows was located close by, the area earned the nickname the "Teufels Lustgarten" (the Devil's Pleasure Garden).[3] Memhardt,_Bodenehr_Berlin_und_Cölln_1652_(1720).jpg The George Gate became the most important of Berlin's city gates during the 16th century, being the main entrance point for goods arriving along the roads to the north and north-east of the city, for example from Oderberg, Prenzlau and Bernau, and the big Hanseatic cities on the Baltic Sea.
+A hospital stood at the location of present-day Alexanderplatz since the 13th century. Named _Heiliger Georg_ (St. George), the hospital gave its name to the nearby Georgentor (George Gate) of the Berlin city wall. Outside of the city walls, this area was largely undeveloped until around 1400, when the first settlers began building thatched cottages. As a gallows was located close by, the area earned the nickname the "Teufels Lustgarten" (the Devil's Pleasure Garden).[3] The George Gate became the most important of Berlin's city gates during the 16th century, being the main entrance point for goods arriving along the roads to the north and north-east of the city, for example from Oderberg, Prenzlau and Bernau, and the big Hanseatic cities on the Baltic Sea.
 
 After the Thirty Years' War, the city wall was strengthened. From 1658 to 1683, a citywide fortress was constructed to plans by the Linz master builder, Johann Gregor Memhardt. The new fortress contained 13 bastions connected by ramparts and was preceded by a moat measuring up to 50 meters wide. Within the new fortress, many of the historic city wall gates were closed. For example, the southeastern Stralauer Gate was closed but the Georgian Gate remained open, making the Georgian Gate an even more important entrance to the city.
 
@@ -49,7 +49,7 @@ By the end of the 17th century, 600 to 700 families lived in this area. They inc
 
 Königs Thor Platz (1701-1805)
 
-Berlin_königsstadt.jpg is shown in red, the royal suburbs northeast brown.]] Alexanderplatz_1796.jpg
+is shown in red, the royal suburbs northeast brown.]]
 
 After his coronation in Königsberg on May 6, 1701, the Prussian King Frederick I entered Berlin through the George Gate. This led to the gate being renamed the King's Gate, and the surrounding arena became known in official documents as _Königs Thor Platz_ (King's Gate Square). The Georgenvorstadt suburb was renamed Königsvorstadt (or _royal city for_ short).
 
@@ -99,7 +99,7 @@ In the Golden Twenties, Alexanderplatz was the epitome of the lively, pulsating 
 
 Destruction of Alexanderplatz (1940-1945)
 
-Bundesarchiv_Bild_204-022,_Berlin,_Bahnhof_Alexanderplatz,_Schäden.jpg One of Berlin’s largest air-raid shelters during the Second World War was situated under Alexanderplatz. It was built between 1941 and 1943 for the Deutsche Reichsbahn by Philipp Holzmann.[14]
+One of Berlin’s largest air-raid shelters during the Second World War was situated under Alexanderplatz. It was built between 1941 and 1943 for the Deutsche Reichsbahn by Philipp Holzmann.[14]
 
 The war reached Alexanderplatz in early April 1945. The Berolina statue had already been removed in 1944 and probably melted down for use in arms production. During the Battle of Berlin, Red Army artillery bombarded the area around Alexanderplatz. The battles of the last days of the war destroyed considerable parts of the historic Königsstadt, as well as many of the buildings around Alexanderplatz.
 
@@ -112,8 +112,6 @@ Before a planned reconstruction of the entire Alexanderplatz could take place, a
 Reconstruction planning for post-war Berlin gave priority to the dedication space to accommodate the rapidly-growing motor traffic in inner-city thoroughfares. This idea of a traffic-orientated city was already based on considerations and plans by Hilbersheimer and Le Corbusier from the 1930s.[16]
 
 East Germany
-
-Press_Cafe_in_East_Berlin_on_Alexanderplatz,_1977.jpg Berlin_-_Fernsehturm_-_2012.jpg
 
 Alexanderplatz has been subject to redevelopment several times in its history, most recently during the 1960s, when it was turned into a pedestrian zone and enlarged as part of the German Democratic Republic's redevelopment of the city centre. It is surrounded by several notable structures including the Fernsehturm (TV Tower).
 

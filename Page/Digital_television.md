@@ -6,8 +6,6 @@ DIGITAL TELEVISION (DTV) is the transmission of television signals, including th
 -   Digital Terrestrial Multimedia Broadcasting (DTMB) adopts time-domain synchronous (TDS) OFDM technology with a pseudo-random signal frame to serve as the guard interval (GI) of the OFDM block and the training symbol. The DTMB standard has been adopted in the People's Republic of China, including Hong Kong and Macau.[3]
 -   Digital Multimedia Broadcasting (DMB) is a digital radio transmission technology developed in South Korea[4][5][6] as part of the national IT project for sending multimedia such as TV, radio and datacasting to mobile devices such as mobile phones, laptops and GPS navigation systems.
 
-Digital_terrestrial_television_standards.svg
-
 
 History
 
@@ -28,7 +26,7 @@ Technical information
 
 Formats and bandwidth
 
-Digital_&_Analog_TV_screen_quality_comparison-1.jpg (1080i broadcast, top) and NTSC (480i transmission, bottom)]] Digital television supports many different picture formats defined by the broadcast television systems which are a combination of size and aspect ratio (width to height ratio).
+(1080i broadcast, top) and NTSC (480i transmission, bottom)]] Digital television supports many different picture formats defined by the broadcast television systems which are a combination of size and aspect ratio (width to height ratio).
 
 With digital terrestrial television (DTT) broadcasting, the range of formats can be broadly divided into two categories: high definition television (HDTV) for the transmission of high-definition video and standard-definition television (SDTV). These terms by themselves are not very precise, and many subtle intermediate cases exist.
 

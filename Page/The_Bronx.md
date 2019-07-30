@@ -20,7 +20,7 @@ Etymology and naming
 
 Early names
 
-Bronx1867.jpg The Bronx was called _Rananchqua_[13] by the native Siwanoy[14] band of Lenape (also known historically as _the Delawares_), while other Native Americans knew the Bronx as _Keskeskeck_.[15] It was divided by the Aquahung River.
+The Bronx was called _Rananchqua_[13] by the native Siwanoy[14] band of Lenape (also known historically as _the Delawares_), while other Native Americans knew the Bronx as _Keskeskeck_.[15] It was divided by the Aquahung River.
 
 The origin of the person of Jonas Bronck () has been contested. Documents indicate that he was a Swedish-born emigrant from Komstad, Norra Ljunga parish in Småland, Sweden, who arrived in New Netherland during the spring of 1639.[16][17][18][19][20][21] Bronck became the first recorded European settler in the area now known as The Bronx and built a farm named "Emmaus" close to what today is the corner of Willis Avenue and 132nd Street in Mott Haven.[22] He leased land from the Dutch West India Company on the neck of the mainland immediately north of the Dutch settlement of New Haarlem (on Manhattan Island), and bought additional tracts from the local tribes. He eventually accumulated between the Harlem River and the Aquahung, which became known as _Bronck's River_ or _the Bronx [River]_. Dutch and English settlers referred to the area as _Bronck's Land_.[23] The American poet William Bronk was a descendant of Pieter Bronck, either Jonas Bronck's son or his younger brother, but most probably a nephew or cousin, as there was an age difference of 16 years.[24] Much work on the Swedish claim has been undertaken by Brian G. Andersson former Commissioner of NYC's Dept. of Records, who assisted in organizing a 375th Anniversary celebration in Bronck's hometown in 2014. [25]
 
@@ -59,7 +59,7 @@ The history of the Bronx during the 20th century may be divided into four period
 
 New York City expands
 
-Bronx_1900.jpg and 161st Street as it appeared around 1900]]Simpson_Street_Station.jpg elevated station was built in 1904 and opened on November 26, 1904. It was listed in the National Register of Historic Places on September 17, 2004, reference #04001027.]]
+and 161st Street as it appeared around 1900]] elevated station was built in 1904 and opened on November 26, 1904. It was listed in the National Register of Historic Places on September 17, 2004, reference #04001027.]]
 
 The Bronx was a mostly rural area for many generations, small farms supplying the city markets, but it grew into a railroad suburb in the late 19th century. Faster transportation enabled rapid population growth in the late 19th century, involving the move from horse-drawn street cars to elevated railways and the subway system, which linked to Manhattan in 1904.[51]
 
@@ -85,7 +85,7 @@ Out of 289 census tracts in the Bronx borough, 7 tracts lost more than 97% of th
 
 Revitalization
 
-Melrosebx1.JPG on a location where there was once burnt rubble. The Bronx has seen an increase in revitalization in recent years.|alt=four-story houses along a city street]]
+on a location where there was once burnt rubble. The Bronx has seen an increase in revitalization in recent years.|alt=four-story houses along a city street]]
 
 Since the late 1980s, significant development has occurred in the Bronx, first stimulated by the city's "Ten-Year Housing Plan"[64][65] and community members working to rebuild the social, economic and environmental infrastructure by creating affordable housing. Groups affiliated with churches in the South Bronx erected the Nehemiah Homes with about 1,000 units. The grass roots organization Nos Quedamos' endeavor known as Melrose Commons[66][67][68] began to rebuild areas in the South Bronx.[69] The IRT White Plains Road Line () began to show an increase in riders. Chains such as Marshalls, Staples, and Target opened stores in the Bronx. More bank branches opened in the Bronx as a whole (rising from 106 in 1997 to 149 in 2007), although not primarily in poor or minority neighborhoods, while the Bronx still has fewer branches per person than other boroughs.[70]Superintendent Neiman Addresses the Ninth Annual Bronx Bankers Breakfast June 15, 2007. Among the remarks of Richard H. Neiman, New York State's Superintendent of Banks, were these: "The Bronx was an economically stable community until the mid-1960s when the entire South Bronx struggled with major construction, real estate issues, red-lining, and block busting. This included a thoroughfare that divided communities, the deterioration of property as a result of rent control, and decrease in the value of real estate.
 
@@ -102,11 +102,9 @@ Under consideration for future development is the construction of a platform ove
 
 Geography
 
-New_York_City_location_Bronx.svg New_York_aerial_night_2018e.jpg
-
 Location and physical features
 
-Bronx_transit_and_landmarks_in_1896_(NY_Times)_-_re-tinted.png'' 1896 map of parks and transit in the newly annexed Bronx. Marble Hill is in pink, cut off by water from the rest of Manhattan in orange. Parks are light green, Woodlawn Cemetery medium green, sports facilities dark green, the not-yet-built Jerome Park Reservoir light blue, St. John's College (now Fordham University) in violet, and the city limits of the newly expanded New York in red.[83]]]
+'' 1896 map of parks and transit in the newly annexed Bronx. Marble Hill is in pink, cut off by water from the rest of Manhattan in orange. Parks are light green, Woodlawn Cemetery medium green, sports facilities dark green, the not-yet-built Jerome Park Reservoir light blue, St. John's College (now Fordham University) in violet, and the city limits of the newly expanded New York in red.[83]]]
 
 According to the U.S. Census Bureau, Bronx County has a total area of , of which is land and (27%) is water.[84]
 
@@ -152,7 +150,7 @@ The northern side of the borough includes the largest park in New York City—Pe
 
 Some of the acquired land was set aside for the Grand Concourse and Pelham Parkway, the first of a series of boulevards and parkways (thoroughfares lined with trees, vegetation and greenery). Later projects included the Bronx River Parkway, which developed a road while restoring the riverbank and reducing pollution, Mosholu Parkway and the Henry Hudson Parkway.
 
-Pelhambay1.jpg in Pelham Bay Park]]
+in Pelham Bay Park]]
 
 In 2006, a five-year, $220-million program of capital improvements and natural restoration in 70 Bronx parks was begun (financed by water and sewer revenues) as part of an agreement that allowed a water filtration plant under Mosholu Golf Course in Van Cortlandt Park. One major focus is on opening more of the Bronx River's banks and restoring them to a natural state.[99]
 
@@ -168,13 +166,13 @@ East Bronx
 
 (Bronx Community Boards 9 _[south central]_, 10 _[east]_, 11 _[east central]_ and 12 _[north central]_ )[101]
 
-Co-op_City_Hutch_River.jpg is the largest cooperative housing development in the world.]] East of the Bronx River, the borough is relatively flat and includes four large low peninsulas, or 'necks,' of low-lying land which jut into the waters of the East River and were once saltmarsh: Hunts Point, Clason's Point, Screvin's Neck (Castle Hill Point) and Throgs Neck. The East Bronx has older tenement buildings, low income public housing complexes, and multifamily homes, as well as single family homes. It includes New York City's largest park: Pelham Bay Park along the Westchester-Bronx border.
+is the largest cooperative housing development in the world.]] East of the Bronx River, the borough is relatively flat and includes four large low peninsulas, or 'necks,' of low-lying land which jut into the waters of the East River and were once saltmarsh: Hunts Point, Clason's Point, Screvin's Neck (Castle Hill Point) and Throgs Neck. The East Bronx has older tenement buildings, low income public housing complexes, and multifamily homes, as well as single family homes. It includes New York City's largest park: Pelham Bay Park along the Westchester-Bronx border.
 
 Neighborhoods include: Clason's Point, Harding Park, Soundview, Castle Hill, Parkchester _(Board 9)_; Throggs Neck, Country Club, City Island, Pelham Bay, Edgewater Park, Co-op City _(Board 10)_; Westchester Square, Van Nest, Pelham Parkway, Morris Park _(Board 11)_; Williamsbridge, Eastchester, Baychester, Edenwald and Wakefield _(Board 12)_.
 
 City Island and Hart Island
 
-CityIsland.jpg]] (Bronx Community Board 10)
+]] (Bronx Community Board 10)
 
 City Island is located east of Pelham Bay Park in Long Island Sound and is known for its seafood restaurants and private waterfront homes.[102] City Island's single shopping street, City Island Avenue, is reminiscent of a small New England town. It is connected to Rodman's Neck on the mainland by the City Island Bridge.
 
@@ -182,7 +180,7 @@ East of City Island is Hart Island, which is uninhabited and not open to the pub
 
 West Bronx
 
-Grand_Conc_165_jeh.JPG at East 165th Street]] (Bronx Community Boards 1 to 8, progressing roughly from south to northwest)
+at East 165th Street]] (Bronx Community Boards 1 to 8, progressing roughly from south to northwest)
 
 The western parts of the Bronx are hillier and are dominated by a series of parallel ridges, running south to north. The West Bronx has older apartment buildings, low income public housing complexes, multifamily homes in its lower income areas as well as larger single family homes in more affluent areas such as Riverdale and Fieldston.[104] It includes New York City's third-largest park: Van Cortlandt Park along the Westchester-Bronx border. The Grand Concourse, a wide boulevard, runs through it, north to south.
 
@@ -215,7 +213,7 @@ Transportation
 
 Roads and streets
 
-Bronx-Whitestone_Bridge.jpg]]
+]]
 
 Surface streets
 
@@ -247,7 +245,7 @@ Several major limited access highways traverse the Bronx. These include:
 
 Bridges and tunnels
 
-Aerial_View_of_the_Throgs_Neck_Bridge.jpg]] Thirteen bridges and three tunnels connect the Bronx to Manhattan, and three bridges connect the Bronx to Queens. These are, from west to east:
+]] Thirteen bridges and three tunnels connect the Bronx to Manhattan, and three bridges connect the Bronx to Queens. These are, from west to east:
 
 _To Manhattan:_ the Spuyten Duyvil Bridge, the Henry Hudson Bridge, the Broadway Bridge, the University Heights Bridge, the Washington Bridge, the Alexander Hamilton Bridge, the High Bridge, the Concourse Tunnel, the Macombs Dam Bridge, the 145th Street Bridge, the 149th Street Tunnel, the Madison Avenue Bridge, the Park Avenue Bridge, the Lexington Avenue Tunnel, the Third Avenue Bridge (southbound traffic only), and the Willis Avenue Bridge (northbound traffic only).
 
@@ -257,7 +255,7 @@ _To Queens:_ the Bronx–Whitestone Bridge and the Throgs Neck Bridge.
 
 Mass transit
 
-Middletown_Road_(IRT_Pelham_Line)_by_David_Shankbone_copy.jpg subway station on the ]] NYC_Transit_New_Flyer_5400.jpg]]
+subway station on the ]] ]]
 
 The Bronx is served by seven New York City Subway services along six physical lines, with 70 stations in the Bronx:[108]
 
@@ -322,7 +320,7 @@ The Census of 1930 counted only 1.0% (12,930) of the Bronx's population as Negro
 
 Population and housing
 
-Bronxpoverty.JPG At the 2010 Census, there were, 1,385,108 people living in Bronx, a 3.9% increase since 2000. As of the United States Census[123] of 2000, there were 1,332,650 people, 463,212 households, and 314,984 families residing in the borough. The population density was 31,709.3 inhabitants per square mile (12,242.2/km²). There were 490,659 housing units at an average density of 11,674.8 per square mile (4,507.4/km²).[124] Recent Census estimates place total population of Bronx county at 1,392,002 as of 2012.[125]
+At the 2010 Census, there were, 1,385,108 people living in Bronx, a 3.9% increase since 2000. As of the United States Census[123] of 2000, there were 1,332,650 people, 463,212 households, and 314,984 families residing in the borough. The population density was 31,709.3 inhabitants per square mile (12,242.2/km²). There were 490,659 housing units at an average density of 11,674.8 per square mile (4,507.4/km²).[124] Recent Census estimates place total population of Bronx county at 1,392,002 as of 2012.[125]
 
 There were 463,212 households out of which 38.1% had children under the age of 18 living with them, 31.4% were married couples living together, 30.4% had a female householder with no husband present, and 32.0% were non-families. 27.4% of all households were made up of individuals and 9.4% had someone living alone who was 65 years of age or older. The average household size was 2.78 and the average family size was 3.37.[126]
 
@@ -616,7 +614,7 @@ Shopping malls and markets in the Bronx include:
 
 Shopping districts
 
-Bronxhub1.jpeg on Third Avenue]] BTM_149_jeh.jpg]] Aerial_view_of_the_Bronx,_Harlem_River,_Harlem,_Hudson_River,_George_Washington_Bridge,_2008-05-10.jpg, Harlem, Hudson River, and George Washington Bridge]] Morrisheightsbx.JPG, a Bronx neighborhood of over 45,000]] Fordhamroadbx1.JPG, a major street in the Bronx]] Prominent shopping areas in the Bronx include Fordham Road, Bay Plaza in Co-op City, The Hub, the Riverdale/Kingsbridge shopping center, and Bruckner Boulevard. Shops are also concentrated on streets aligned underneath elevated railroad lines, including Westchester Avenue, White Plains Road, Jerome Avenue, Southern Boulevard, and Broadway. The Gateway Center at Bronx Terminal Market contains several big-box stores, which opened in 2009 south of Yankee Stadium.
+on Third Avenue]] ]] , Harlem, Hudson River, and George Washington Bridge]] , a Bronx neighborhood of over 45,000]] , a major street in the Bronx]] Prominent shopping areas in the Bronx include Fordham Road, Bay Plaza in Co-op City, The Hub, the Riverdale/Kingsbridge shopping center, and Bruckner Boulevard. Shops are also concentrated on streets aligned underneath elevated railroad lines, including Westchester Avenue, White Plains Road, Jerome Avenue, Southern Boulevard, and Broadway. The Gateway Center at Bronx Terminal Market contains several big-box stores, which opened in 2009 south of Yankee Stadium.
 
 There are three primary shopping centers in the Bronx: The Hub, Gateway Center and Southern Boulevard. The Hub–Third Avenue Business Improvement District (B.I.D.), in The Hub, is the retail heart of the South Bronx, located where four roads converge: East 149th Street, Willis, Melrose and Third Avenues.[147] It is primarily located inside the neighborhood of Melrose but also lines the northern border of Mott Haven.[148] The Hub has been called "the Broadway of the Bronx", being likened to the real Broadway in Manhattan and the northwestern Bronx.[149] It is the site of both maximum traffic and architectural density. In configuration, it resembles a miniature Times Square, a spatial "bow-tie" created by the geometry of the street.[150] The Hub is part of Bronx Community Board 1.
 
@@ -635,7 +633,7 @@ In 2000, according to the U.S. Census, out of the nearly 800,000 people in the B
 
 High schools
 
-BronxScience.jpg]]
+]]
 
 In the 2000 Census, 79,240 of the nearly 95,000 Bronx residents enrolled in high school attended public schools.[155]
 
@@ -647,7 +645,7 @@ The SAR Academy and SAR High School are Modern Orthodox Jewish Yeshiva coeducati
 
 In the 1990s, New York City began closing the large, public high schools in the Bronx and replacing them with small high schools. Among the reasons cited for the changes were poor graduation rates and concerns about safety. Schools that have been closed or reduced in size include John F. Kennedy, James Monroe, Taft, Theodore Roosevelt, Adlai Stevenson, Evander Childs, Christopher Columbus, Morris, Walton, and South Bronx High Schools. More recently the City has started phasing out large middle schools, also replacing them with smaller schools.
 
-Fordham_University_Keating_Hall.JPG's Keating Hall]]
+'s Keating Hall]]
 
 Colleges and universities
 
@@ -674,7 +672,7 @@ The State University of New York Maritime College in Fort Schuyler (Throggs Neck
 
 Culture and institutions
 
-Stavenn_Bronx_Zoo_00.jpg is the largest zoo in New York City, and among the largest in the country.]] The_PLAYERS_Club_Steppers_by_David_Shankbone.jpg Summer Literary Festival in Brooklyn. (Note the T-shirts' inscription "I ♥ BX" _[Bronx]_, echoing the ubiquitous slogan "I ♥ NY" _[I Love New York]_ ).[161][162]]] Author Edgar Allan Poe spent the last years of his life (1846 to 1849) in the Bronx at Poe Cottage, now located at Kingsbridge Road and the Grand Concourse. A small wooden farmhouse built around 1812, the cottage once commanded unobstructed vistas over the rolling Bronx hills to the shores of Long Island.[163] Poe moved there to get away from the Manhattan city air and crowding in hope that the then rural area would be beneficial for his wife's tuberculosis. It was in the Bronx that Poe wrote one of his most famous works, Annabel Lee.[164]
+is the largest zoo in New York City, and among the largest in the country.]] Summer Literary Festival in Brooklyn. (Note the T-shirts' inscription "I ♥ BX" _[Bronx]_, echoing the ubiquitous slogan "I ♥ NY" _[I Love New York]_ ).[161][162]]] Author Edgar Allan Poe spent the last years of his life (1846 to 1849) in the Bronx at Poe Cottage, now located at Kingsbridge Road and the Grand Concourse. A small wooden farmhouse built around 1812, the cottage once commanded unobstructed vistas over the rolling Bronx hills to the shores of Long Island.[163] Poe moved there to get away from the Manhattan city air and crowding in hope that the then rural area would be beneficial for his wife's tuberculosis. It was in the Bronx that Poe wrote one of his most famous works, Annabel Lee.[164]
 
 More than a century later, the Bronx would evolve from a hot bed of Latin jazz to an incubator of hip hop as documented in the award-winning documentary, produced by City Lore and broadcast on PBS in 2006, "From Mambo to Hip Hop: A South Bronx Tale."[165] Hip Hop first emerged in the South Bronx in the early 1970s. _The New York Times_ has identified 1520 Sedgwick Avenue "an otherwise unremarkable high-rise just north of the Cross Bronx Expressway and hard along the Major Deegan Expressway" as a starting point, where DJ Kool Herc presided over parties in the community room.[166][167] The 2016 Netflix series _The Get Down_ is based on the development of hip hop in 1977 in the South Bronx.[168] Ten years earlier, the Bronx Opera had been founded.
 
@@ -688,7 +686,7 @@ Beginning with the advent of beat match DJing, in which Bronx disc jockeys) incl
 
 Sports
 
-New_Yankee_Stadium.JPG at 161st and River Avenue]]
+at 161st and River Avenue]]
 
 The Bronx is the home of the New York Yankees, nicknamed "the Bronx Bombers", of Major League Baseball. The original Yankee Stadium opened in 1923 on 161st Street and River Avenue, a year that saw the Yankees bring home their first of 27 World Series Championships. With the famous facade, the short right field porch and Monument Park, Yankee Stadium has been home to many of baseball's greatest players including Babe Ruth, Lou Gehrig, Joe DiMaggio, Whitey Ford, Yogi Berra, Mickey Mantle, Reggie Jackson, Thurman Munson, Don Mattingly, Derek Jeter and Mariano Rivera.
 

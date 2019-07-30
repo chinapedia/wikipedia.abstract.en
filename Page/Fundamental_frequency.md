@@ -1,4 +1,4 @@
-Harmonic_partials_on_strings.svg and standing waves in a string, The fundamental and the first six overtones]]
+and standing waves in a string, The fundamental and the first six overtones]]
 
 The FUNDAMENTAL FREQUENCY, often referred to simply as the FUNDAMENTAL, is defined as the lowest frequency of a periodic waveform. In music, the fundamental is the musical pitch of a note that is perceived as the lowest partial present. In terms of a superposition of sinusoids, the fundamental frequency is the lowest frequency sinusoidal in the sum. In some contexts, the fundamental is usually abbreviated as _F_₀ (or FF), indicating the lowest frequency counting from zero.[1][2][3] In other contexts, it is more common to abbreviate it as _F_₁, the first harmonic.[4][5][6][7][8] (The second harmonic is then f₂ = 2⋅f₁, etc. In this context, the zeroth harmonic would be 0 Hz.)
 
@@ -15,7 +15,7 @@ Every waveform may be described using any multiple of this period. There exists 
 
 $$f_0 = \frac{1}{T}$$
 
-F0leftclosed.gifSince the period is measured in units of time, then the units for frequency are 1/time. When the time units are seconds, the frequency is in s^( − 1), also known as Hertz.F0rightclosed.gif
+Since the period is measured in units of time, then the units for frequency are 1/time. When the time units are seconds, the frequency is in s^( − 1), also known as Hertz.
 
 For a tube of length L with one end closed and the other end open the wavelength of the fundamental harmonic is 4L, as indicated by the first two animations. Hence,
 
@@ -28,7 +28,7 @@ $$\lambda_0 = \frac{v}{f_0}$$
 
 $$f_0 = \frac{v}{4L}.$$
 
-F0bothclosed.gifF0bothopen.gifIf the ends of the same tube are now both closed or both opened as in the last two animations, the wavelength of the fundamental harmonic becomes 2L. By the same method as above, the fundamental frequency is found to be
+If the ends of the same tube are now both closed or both opened as in the last two animations, the wavelength of the fundamental harmonic becomes 2L. By the same method as above, the fundamental frequency is found to be
 
 $$f_0 = \frac{v}{2L}.$$
 

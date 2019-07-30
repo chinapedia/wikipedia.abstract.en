@@ -41,7 +41,7 @@ In September 1993, the channel broadcast the direct-to-TV documentary film _Beyo
 
 Channel Four Television Corporation
 
-Multi_coloured_4,_124_Horseferry_Road,_London.jpg, London]]
+, London]]
 
 After control of the station passed from the Channel Four Television Company to the Channel Four Television Corporation in 1993, a shift in broadcasting style took place. Instead of aiming for the fringes of society, it began to focus on the edges of the mainstream, and the centre of the mass market itself.[9][10] It began to show many US programmes in peak viewing time, far more than it had previously done. It gave such shows as _Friends_ and _ER_ their UK premières.
 
@@ -278,7 +278,7 @@ With ITV plc pushing for much looser requirements on the amount of regional news
 
 Channel 4 HD
 
-Channel_4HD_Logo.svg In mid-2006 Channel 4 ran a six-month closed trial of HDTV, as part of the wider Freeview HD experiment via the Crystal Palace transmitter to London and parts of the home counties,[86] including the use of _Lost_ and _Desperate Housewives_ as part of the experiment, as US broadcasters such as ABC already have an HDTV back catalogue.
+In mid-2006 Channel 4 ran a six-month closed trial of HDTV, as part of the wider Freeview HD experiment via the Crystal Palace transmitter to London and parts of the home counties,[86] including the use of _Lost_ and _Desperate Housewives_ as part of the experiment, as US broadcasters such as ABC already have an HDTV back catalogue.
 
 On 10 December 2007, Channel 4 launched a high definition television simulcast of Channel 4 on Sky's digital satellite platform, after Sky agreed to contribute toward the channel's satellite distribution costs. It was the first full-time high definition channel from a terrestrial UK broadcaster.[87]
 

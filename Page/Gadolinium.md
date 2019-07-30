@@ -11,8 +11,6 @@ The kinds of gadolinium(III) ions occurring in water-soluble salts are toxic to 
 
 Characteristics
 
-Gadolinium-2.jpg
-
 Physical properties
 
 Gadolinium is a silvery-white, malleable, ductile rare-earth element. It crystallizes in the hexagonal close-packed α-form at room temperature, but, when heated to temperatures above , it transforms into its β-form, which has a body-centered cubic structure.[1]
@@ -69,7 +67,7 @@ Gadolinium is named after the mineral gadolinite, in turn named after Finnish ch
 
 Occurrence
 
-Gadolinitas.jpg Gadolinium is a constituent in many minerals such as monazite and bastnäsite, which are oxides. The metal is too reactive to exist naturally. Paradoxically, as noted above, the mineral gadolinite actually contains only traces of this element. The abundance in the Earth's crust is about 6.2 mg/kg.[15] The main mining areas are in China, the US, Brazil, Sri Lanka, India, and Australia with reserves expected to exceed one million tonnes. World production of pure gadolinium is about 400 tonnes per year. The only known mineral with essential gadolinium, lepersonnite-(Gd), is very rare.[16][17]
+Gadolinium is a constituent in many minerals such as monazite and bastnäsite, which are oxides. The metal is too reactive to exist naturally. Paradoxically, as noted above, the mineral gadolinite actually contains only traces of this element. The abundance in the Earth's crust is about 6.2 mg/kg.[15] The main mining areas are in China, the US, Brazil, Sri Lanka, India, and Australia with reserves expected to exceed one million tonnes. World production of pure gadolinium is about 400 tonnes per year. The only known mineral with essential gadolinium, lepersonnite-(Gd), is very rare.[16][17]
 
 
 Production

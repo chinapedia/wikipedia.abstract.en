@@ -11,7 +11,7 @@ Overview
 
 Design
 
-Apple_Macintosh_SE-30_(1989).jpg HyperCard is based on the concept of a "stack" of virtual "cards".[3] Cards hold data, just as they would in a Rolodex card-filing device. Each card contains a set of interactive objects, including text fields, check boxes, buttons, and similar common graphical user interface (GUI) elements. Users browse the stack by navigating from card to card, using built-in navigation features, a powerful search mechanism, or through user-created scripts.[4]
+HyperCard is based on the concept of a "stack" of virtual "cards".[3] Cards hold data, just as they would in a Rolodex card-filing device. Each card contains a set of interactive objects, including text fields, check boxes, buttons, and similar common graphical user interface (GUI) elements. Users browse the stack by navigating from card to card, using built-in navigation features, a powerful search mechanism, or through user-created scripts.[4]
 
 Users build or modify stacks by adding new cards. They place GUI objects on the cards using an interactive layout engine based on a simple drag-and-drop interface.[5] Also, HyperCard includes prototype or template cards called backgrounds; when new cards are created they can refer to one of these background cards, which causes all of the objects on the background to be copied onto the new card. This way, a stack of cards with a common layout and functionality can be created. The layout engine is similar in concept to a form as used in most rapid application development (RAD) environments such as Borland Delphi, and Microsoft Visual Basic and Visual Studio.
 

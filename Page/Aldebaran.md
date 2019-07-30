@@ -18,7 +18,7 @@ Aldebaran and several nearby stars are included in double star catalogues such a
 
 Observation
 
-Iades_and_Pleiades_(32446251210).jpg]] Aldebaran is one of the easiest stars to find in the night sky, partly due to its brightness and partly due to being near one of the more noticeable asterisms in the sky. Following the three stars of Orion's belt in the opposite direction to Sirius, the first bright star encountered is Aldebaran.[8]
+]] Aldebaran is one of the easiest stars to find in the night sky, partly due to its brightness and partly due to being near one of the more noticeable asterisms in the sky. Following the three stars of Orion's belt in the opposite direction to Sirius, the first bright star encountered is Aldebaran.[8]
 
 The star is, by chance, in the line of sight between the Earth and the Hyades, so it has the appearance of being the brightest member of the open cluster, but the cluster that forms the bull's-head-shaped asterism is more than twice as far away, at about 150 light years.[9]
 
@@ -29,7 +29,7 @@ With a near-infrared J band magnitude of −2.1, only Betelgeuse (−2.9), R Dor
 
 Observational history
 
-Moon_occults_Aldebaran.png. Aldebaran is the red dot to the right, barely visible in the thumbnail.]] On 11 March AD 509, a lunar occultation of Aldebaran was observed in Athens, Greece.[14] English astronomer Edmund Halley studied the timing of this event, and in 1718 concluded that Aldebaran must have changed position since that time, moving several minutes of arc further to the north. This, as well as observations of the changing positions of stars Sirius and Arcturus, led to the discovery of proper motion. Based on present day observations, the position of Aldebaran has shifted 7′ in the last 2000 years; roughly a quarter the diameter of the full moon.[15][16] Due to precession of the equinoxes, 5,000 years ago the vernal equinox was close to Aldebaran.[17]
+. Aldebaran is the red dot to the right, barely visible in the thumbnail.]] On 11 March AD 509, a lunar occultation of Aldebaran was observed in Athens, Greece.[14] English astronomer Edmund Halley studied the timing of this event, and in 1718 concluded that Aldebaran must have changed position since that time, moving several minutes of arc further to the north. This, as well as observations of the changing positions of stars Sirius and Arcturus, led to the discovery of proper motion. Based on present day observations, the position of Aldebaran has shifted 7′ in the last 2000 years; roughly a quarter the diameter of the full moon.[15][16] Due to precession of the equinoxes, 5,000 years ago the vernal equinox was close to Aldebaran.[17]
 
 English astronomer William Herschel discovered a faint companion to Aldebaran in 1782;[18] an 11th magnitude star at an angular separation of 117″. This star was shown to be itself a close double star by S. W. Burnham in 1888, and he discovered an additional 14th magnitude companion at an angular separation of 31″. Follow on measurements of proper motion showed that Herschel's companion was diverging from Aldebaran, and hence they were not physically connected. However, the companion discovered by Burnham had almost exactly the same proper motion as Aldebaran, suggesting that the two formed a wide binary star system.[19]
 
@@ -42,7 +42,7 @@ The extensive history of observations of Aldebaran led to it being included in t
 
 Physical characteristics
 
-Aldebaran-Sun_comparison-en.svg]]
+]]
 
 Aldebaran is listed as the spectral standard for type K5+ III stars.[24] Its spectrum shows that it is a giant star that has evolved off the main sequence band of the Hertzsprung–Russell diagram after exhausting the hydrogen at its core. The collapse of the centre of the star into a degenerate helium core has ignited a shell of hydrogen outside the core and Aldebaran is now on the red giant branch (RGB).[25]
 
@@ -111,7 +111,7 @@ Names in other languages
 
 In modern culture
 
-Nave_Aldebaran.jpg The name Aldebaran or Alpha Tauri has been adopted many times, including
+The name Aldebaran or Alpha Tauri has been adopted many times, including
 
 -   Aldebaran Rock in Antarctica
 -   United States Navy stores ship USS Aldebaran (AF-10) and Italian frigate Aldebaran (F 590)

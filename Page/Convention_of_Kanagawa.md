@@ -23,7 +23,7 @@ Perry returned again on February 13, 1854, with an even larger force of eight wa
 
 Treaty of Peace and Amity (1854)
 
-KanagawaTreaty.gif The "Japan–US Treaty of Peace and Amity" has twelve articles:
+The "Japan–US Treaty of Peace and Amity" has twelve articles:
 
   Article   Summary
   --------- --------------------------------------------------------------------------------------------------------------------------------------------------

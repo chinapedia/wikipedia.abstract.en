@@ -1,13 +1,9 @@
-DNAgel4wiki.png
-
 AGAROSE GEL ELECTROPHORESIS is a method of gel electrophoresis used in biochemistry, molecular biology, genetics, and clinical chemistry to separate a mixed population of macromolecules such as DNA or proteins in a matrix of agarose, one of the two main components of agar. The proteins may be separated by charge and/or size (isoelectric focusing agarose electrophoresis is essentially size independent), and the DNA and RNA fragments by length.[1] Biomolecules are separated by applying an electric field to move the charged molecules through an agarose matrix, and the biomolecules are separated by size in the agarose gel matrix.[2]
 
 Agarose gel is easy to cast, has relatively fewer charged groups, and is particularly suitable for separating DNA of size range most often encountered in laboratories, which accounts for the popularity of its use. The separated DNA may be viewed with stain, most commonly under UV light, and the DNA fragments can be extracted from the gel with relative ease. Most agarose gels used are between 0.7–2% dissolved in a suitable electrophoresis buffer.
 
 
 Properties of agarose gel
-
-Two_percent_Agarose_Gel_in_Borate_Buffer_cast_in_a_Gel_Tray_(Front,_angled).jpg
 
 Agarose gel is a three-dimensional matrix formed of helical agarose molecules in supercoiled bundles that are aggregated into three-dimensional structures with channels and pores through which biomolecules can pass.[3] The 3-D structure is held together with hydrogen bonds and can therefore be disrupted by heating back to a liquid state. The melting temperature is different from the gelling temperature, depending on the sources, agarose gel has a gelling temperature of 35–42 °C and a melting temperature of 85–95 °C. Low-melting and low-gelling agaroses made through chemical modifications are also available.
 
@@ -19,8 +15,6 @@ The agarose polymer contains charged groups, in particular pyruvate and sulphate
 Migration of nucleic acids in agarose gel
 
 Factors affecting migration of nucleic acid in gel
-
-Plasmid_miniprep.jpg
 
 A number of factors can affect the migration of nucleic acids: the dimension of the gel pores (gel concentration), size of DNA being electrophoresed, the voltage used, the ionic strength of the buffer, and the concentration of intercalating dye such as ethidium bromide if used during electrophoresis.[12]
 
@@ -51,11 +45,9 @@ The Ogston model however breaks down for large molecules whereby the pores are s
 
 General procedure
 
-The details of an agarose gel electrophoresis experiment may vary depending on methods, but most follow a general procedure. Agarose_Gel_Electrophoresis_-_Assembling_the_Rig_and_Loading-Running_the_Gel.webm
+The details of an agarose gel electrophoresis experiment may vary depending on methods, but most follow a general procedure.
 
 Casting of gel
-
-Loading_DNA_samples_into_an_agarose_gel_for_electrophoresis_-_CPHST_-_USDA_photo.jpg
 
 The gel is prepared by dissolving the agarose powder in an appropriate buffer, such as TAE or TBE, to be used in electrophoresis.[29] The agarose is dispersed in the buffer before heating it to near-boiling point, but avoid boiling. The melted agarose is allowed to cool sufficiently before pouring the solution into a cast as the cast may warp or crack if the agarose solution is too hot. A comb is placed in the cast to create wells for loading sample, and the gel should be completely set before use.
 
@@ -67,7 +59,7 @@ Once the gel has set, the comb is removed, leaving wells where DNA samples can b
 
 Electrophoresis
 
-Electrophoresis_-_Moving_along_gel.jpg Agarose gel electrophoresis is most commonly done horizontally in a submarine mode whereby the slab gel is completely submerged in buffer during electrophoresis. It is also possible, but less common, to perform the electrophoresis vertically, as well as horizontally with the gel raised on agarose legs using an appropriate apparatus.[33] The buffer used in the gel is the same as the running buffer in the electrophoresis tank, which is why electrophoresis in the submarine mode is possible with agarose gel.
+Agarose gel electrophoresis is most commonly done horizontally in a submarine mode whereby the slab gel is completely submerged in buffer during electrophoresis. It is also possible, but less common, to perform the electrophoresis vertically, as well as horizontally with the gel raised on agarose legs using an appropriate apparatus.[33] The buffer used in the gel is the same as the running buffer in the electrophoresis tank, which is why electrophoresis in the submarine mode is possible with agarose gel.
 
 For optimal resolution of DNA greater than 2kb in size in standard gel electrophoresis, 5 to 8 V/cm is recommended (the distance in cm refers to the distance between electrodes, therefore this recommended voltage would be 5 to 8 multiplied by the distance between the electrodes in cm).[34] Voltage may also be limited by the fact that it heats the gel and may cause the gel to melt if it is run at high voltage for a prolonged period, especially if the gel used is LMP agarose gel. Too high a voltage may also reduce resolution, as well as causing band streaking for large DNA molecules. Too low a voltage may lead to broadening of band for small DNA fragments due to dispersion and diffusion.[35]
 
@@ -75,7 +67,7 @@ Since DNA is not visible in natural light, the progress of the electrophoresis i
 
 Staining and visualization
 
-AgarosegelUV.jpg appears as glowing orange bands.]]
+appears as glowing orange bands.]]
 
 DNA as well as RNA are normally visualized by staining with ethidium bromide, which intercalates into the major grooves of the DNA and fluoresces under UV light. The intercalation depends on the concentration of DNA and thus, a band with high intensity will indicate a higher amount of DNA compared to a band of less intensity.[36] The ethidium bromide may be added to the agarose solution before it gels, or the DNA gel may be stained later after electrophoresis. Destaining of the gel is not necessary but may produce better images. Other methods of staining are available; examples are SYBR Green, GelRed, methylene blue, brilliant cresyl blue, Nile blue sulphate, and crystal violet.[37] SYBR Green, GelRed and other similar commercial products are sold as safer alternatives to ethidium bromide as it has been shown to be mutagenic in Ames test, although the carcinogenicity of ethidium bromide has not actually been established. SYBR Green requires the use of a blue-light transilluminator. DNA stained with crystal violet can be viewed under natural light without the use of a UV transilluminator which is an advantage, however it may not produce a strong band.
 
@@ -83,7 +75,7 @@ When stained with ethidium bromide, the gel is viewed with an ultraviolet (UV) t
 
 The transilluminator apparatus may also contain image capture devices, such as a digital or polaroid camera, that allow an image of the gel to be taken or printed.
 
-For gel electrophoresis of protein, the bands may be visualised with Coomassie or silver stains. Cutting_of_the_agarose_gel.jpg
+For gel electrophoresis of protein, the bands may be visualised with Coomassie or silver stains.
 
 Downstream procedures
 

@@ -1,4 +1,4 @@
-Atchison-bingham.jpg]] Atchison-statue.jpg Courthouse, Plattsburg, Missouri]] DAVID RICE ATCHISON (August 11, 1807January 26, 1886) was a mid-19th century Democratic[1] United States Senator from Missouri.[2] He served as President pro tempore of the United States Senate for six years.[3] Atchison served as a major general in the Missouri State Militia in 1838 during Missouri's Mormon War and as a Confederate brigadier general during the American Civil War under Major General Sterling Price in the Missouri Home Guard. He is best known for the claim that for 24 hours--Sunday, March 4, 1849 through noon on Monday--he may have been Acting President of the United States. This belief, however, is dismissed by nearly all historians, scholars, and biographers.[4][5]
+]] Courthouse, Plattsburg, Missouri]] DAVID RICE ATCHISON (August 11, 1807January 26, 1886) was a mid-19th century Democratic[1] United States Senator from Missouri.[2] He served as President pro tempore of the United States Senate for six years.[3] Atchison served as a major general in the Missouri State Militia in 1838 during Missouri's Mormon War and as a Confederate brigadier general during the American Civil War under Major General Sterling Price in the Missouri Home Guard. He is best known for the claim that for 24 hours--Sunday, March 4, 1849 through noon on Monday--he may have been Acting President of the United States. This belief, however, is dismissed by nearly all historians, scholars, and biographers.[4][5]
 
 Atchison, owner of many slaves and a plantation, was a prominent pro-slavery activist and Border Ruffian leader, deeply involved with violence against abolitionists and other free-staters during the "Bleeding Kansas" events.[6][7][8][9]
 
@@ -80,7 +80,7 @@ In September 1872, Atchison, who never himself claimed that he was technically p
 
 Death
 
-Atchison_David_Rice_-_Plattsburg_MO_3.jpg Atchison died on January 26, 1886, at his home near Gower, Missouri at the age of 78. He was buried at Greenlawn Cemetery in Plattsburg, Missouri. His grave marker reads "President of the United States for One Day."
+Atchison died on January 26, 1886, at his home near Gower, Missouri at the age of 78. He was buried at Greenlawn Cemetery in Plattsburg, Missouri. His grave marker reads "President of the United States for One Day."
 
 
 Legacy

@@ -1,4 +1,4 @@
-Corioliskraftanimation.gif In physics, the CORIOLIS FORCE is an inertial or fictitious force[1] that acts on objects that are in motion within a frame of reference that rotates with respect to an inertial frame. In a reference frame with clockwise rotation, the force acts to the left of the motion of the object. In one with anticlockwise (or counterclockwise) rotation, the force acts to the right. Deflection of an object due to the Coriolis force is called the CORIOLIS EFFECT. Though recognized previously by others, the mathematical expression for the Coriolis force appeared in an 1835 paper by French scientist Gaspard-Gustave de Coriolis, in connection with the theory of water wheels. Early in the 20th century, the term _Coriolis force_ began to be used in connection with meteorology.
+In physics, the CORIOLIS FORCE is an inertial or fictitious force[1] that acts on objects that are in motion within a frame of reference that rotates with respect to an inertial frame. In a reference frame with clockwise rotation, the force acts to the left of the motion of the object. In one with anticlockwise (or counterclockwise) rotation, the force acts to the right. Deflection of an object due to the Coriolis force is called the CORIOLIS EFFECT. Though recognized previously by others, the mathematical expression for the Coriolis force appeared in an 1835 paper by French scientist Gaspard-Gustave de Coriolis, in connection with the theory of water wheels. Early in the 20th century, the term _Coriolis force_ began to be used in connection with meteorology.
 
 Newton's laws of motion describe the motion of an object in an inertial (non-accelerating) frame of reference. When Newton's laws are transformed to a rotating frame of reference, the Coriolis and centrifugal accelerations appear. When applied to massive objects, the respective forces are proportional to the masses of them. The Coriolis force is proportional to the rotation rate and the centrifugal force is proportional to the square of the rotation rate. The Coriolis force acts in a direction perpendicular to the rotation axis and to the velocity of the body in the rotating frame and is proportional to the object's speed in the rotating frame (more precisely, to the component of its velocity that is perpendicular to the axis of rotation). The centrifugal force acts outwards in the radial direction and is proportional to the distance of the body from the axis of the rotating frame. These additional forces are termed inertial forces, fictitious forces or _pseudo forces_.[2] They "allow" the application of Newton's laws to a rotating system. They are correction factors that do not exist in a non-accelerating or inertial reference frame[3]
 
@@ -12,10 +12,6 @@ The theory that the effect influences draining water to rotate clockwise in the 
 
 
 History
-
-Dechales-Coriolis-Cannon.jpg
-
-Dechales-Coriolis-Tower.jpg
 
 Italian scientist Giovanni Battista Riccioli and his assistant Francesco Maria Grimaldi described the effect in connection with artillery in the 1651 _Almagestum Novum_, writing that rotation of the Earth should cause a cannonball fired to the north to deflect to the east.[11] In 1674 Claude François Milliet Dechales described in his _Cursus seu Mundus Mathematicus_ how the rotation of the Earth should cause a deflection in the trajectories of both falling bodies and projectiles aimed toward one of the planet's poles. Riccioli, Grimaldi, and Dechales all described the effect as part of an argument against the heliocentric system of Copernicus. In other words, they argued that the Earth's rotation should create the effect, and so failure to detect the effect was evidence for an immobile Earth.[12] The Coriolis acceleration equation was derived by Euler in 1749[13][14] and the effect was described in the tidal equations of Pierre-Simon Laplace in 1778.[15]
 
@@ -89,8 +85,6 @@ Baseball players don't care about which hemisphere they're playing in. However, 
 Simple cases
 
 Cannon on turntable
-
-Target_on_turntable.PNG Trajectory_for_three_angles_of_launch.PNG Vector_relationships.PNG Cannon_force_components.PNG
 
 The animation at the top of this article is a classic illustration of Coriolis force. Another visualization of the Coriolis and centrifugal forces is this animation clip.
 
@@ -187,8 +181,6 @@ As a result of this analysis an important point appears: _all_ the fictitious ac
 
 Tossed ball on a rotating carousel
 
-Coriolis_construction.JPG
-
 The figure illustrates a ball tossed from 12:00 o'clock toward the center of a counter-clockwise rotating carousel. On the left, the ball is seen by a stationary observer above the carousel, and the ball travels in a straight line to the center, while the ball-thrower rotates counter-clockwise with the carousel. On the right the ball is seen by an observer rotating with the carousel, so the ball-thrower appears to stay at 12:00 o'clock. The figure shows how the trajectory of the ball as seen by the rotating observer can be constructed.
 
 On the left, two arrows locate the ball relative to the ball-thrower. One of these arrows is from the thrower to the center of the carousel (providing the ball-thrower's line of sight), and the other points from the center of the carousel to the ball. (This arrow gets shorter as the ball approaches the center.) A shifted version of the two arrows is shown dotted.
@@ -199,8 +191,6 @@ The ball travels in the air, and there is no net force upon it. To the stationar
 
 Bounced ball
 
-Points_of_view.PNG
-
 The figure describes a more complex situation where the tossed ball on a turntable bounces off the edge of the carousel and then returns to the tosser, who catches the ball. The effect of Coriolis force on its trajectory is shown again as seen by two observers: an observer (referred to as the "camera") that rotates with the carousel, and an inertial observer. The figure shows a bird's-eye view based upon the same ball speed on forward and return paths. Within each circle, plotted dots show the same time points. In the left panel, from the camera's viewpoint at the center of rotation, the tosser (smiley face) and the rail both are at fixed locations, and the ball makes a very considerable arc on its travel toward the rail, and takes a more direct route on the way back. From the ball tosser's viewpoint, the ball seems to return more quickly than it went (because the tosser is rotating toward the ball on the return flight).
 
 On the carousel, instead of tossing the ball straight at a rail to bounce back, the tosser must throw the ball toward the right of the target and the ball then seems to the camera to bear continuously to the left of its direction of travel to hit the rail (_left_ because the carousel is turning _clockwise_). The ball appears to bear to the left from direction of travel on both inward and return trajectories. The curved path demands this observer to recognize a leftward net force on the ball. (This force is "fictitious" because it disappears for a stationary observer, as is discussed shortly.) For some angles of launch, a path has portions where the trajectory is approximately radial, and Coriolis force is primarily responsible for the apparent deflection of the ball (centrifugal force is radial from the center of rotation, and causes little deflection on these segments). When a path curves away from radial, however, centrifugal force contributes significantly to deflection.
@@ -210,7 +200,7 @@ The ball's path through the air is straight when viewed by observers standing on
 
 Applied to the Earth
 
-The concept "Coriolis force" is specially suitable for the description of motion of atmosphere (i.e. winds) over the surface of the Earth. The Earth (like all rotating celestial bodies) has taken the shape of an oblate spheroid, such that the gravitational force is slightly off-set towards the Earth axis as illustrated in the figure. The_shape_of_the_rotating_Earth.svg For a mass point at rest on the Earth surface the horizontal component of the gravitation counteracts the "centrifugal force" preventing it to slide away towards the equator. This means that the vector term of the "equation of motion" above
+The concept "Coriolis force" is specially suitable for the description of motion of atmosphere (i.e. winds) over the surface of the Earth. The Earth (like all rotating celestial bodies) has taken the shape of an oblate spheroid, such that the gravitational force is slightly off-set towards the Earth axis as illustrated in the figure. For a mass point at rest on the Earth surface the horizontal component of the gravitation counteracts the "centrifugal force" preventing it to slide away towards the equator. This means that the vector term of the "equation of motion" above
 
 _ω_²R_(_o__r__t_)  + F
 
@@ -239,8 +229,6 @@ When viewed from a stationary point in space directly above the north pole, any 
 
 Rotating sphere
 
-Earth_coordinates.svg
-
 Consider a location with latitude _φ_ on a sphere that is rotating around the north-south axis.[42] A local coordinate system is set up with the _x_ axis horizontally due east, the _y_ axis horizontally due north and the _z_ axis vertically upwards. The rotation vector, velocity of movement and Coriolis acceleration expressed in this local coordinate system (listing components in the order east (_e_), north (_n_) and upward (_u_)) are:
 
 $$\boldsymbol{ \Omega} = \omega \begin{pmatrix} 0 \\ \cos \varphi \\ \sin \varphi \end{pmatrix}\ ,$$
@@ -266,7 +254,7 @@ Accordingly, an eastward motion (that is, in the same direction as the rotation 
 
 Meteorology
 
-Low_pressure_system_over_Iceland.jpg over Iceland spins counterclockwise due to balance between the Coriolis force and the pressure gradient force.]] Coriolis_effect10.svg Coriolis_effect14.png The_Earth_seen_from_Apollo_17.jpg Perhaps the most important impact of the Coriolis effect is in the large-scale dynamics of the oceans and the atmosphere. In meteorology and oceanography, it is convenient to postulate a rotating frame of reference wherein the Earth is stationary. In accommodation of that provisional postulation, the centrifugal and Coriolis forces are introduced. Their relative importance is determined by the applicable Rossby numbers. Tornadoes have high Rossby numbers, so, while tornado-associated centrifugal forces are quite substantial, Coriolis forces associated with tornadoes are for practical purposes negligible.[43]
+over Iceland spins counterclockwise due to balance between the Coriolis force and the pressure gradient force.]] Perhaps the most important impact of the Coriolis effect is in the large-scale dynamics of the oceans and the atmosphere. In meteorology and oceanography, it is convenient to postulate a rotating frame of reference wherein the Earth is stationary. In accommodation of that provisional postulation, the centrifugal and Coriolis forces are introduced. Their relative importance is determined by the applicable Rossby numbers. Tornadoes have high Rossby numbers, so, while tornado-associated centrifugal forces are quite substantial, Coriolis forces associated with tornadoes are for practical purposes negligible.[43]
 
 Because surface ocean currents are driven by the movement of wind over the water's surface, the Coriolis force also affects the movement of ocean currents and cyclones as well. Many of the ocean's largest currents circulate around warm, high-pressure areas called gyres. Though the circulation is not as significant as that in the air, the deflection caused by the Coriolis effect is what creates the spiraling pattern in these gyres. The spiraling wind pattern helps the hurricane form. The stronger the force from the Coriolis effect, the faster the wind spins and picks up additional energy, increasing the strength of the hurricane.[44]
 
@@ -306,8 +294,6 @@ Intuitive example
 
 Imagine a train that travels through a frictionless railway line along the equator. Assume that, when in motion, it moves at the necessary speed to complete a trip around the world in one day (465 m/s).[52] The Coriolis effect can be considered in three cases: when the train travels west, when it is at rest, and when it travels east. In each case, the Coriolis effect can be calculated from the rotating frame of reference on Earth first, and then checked against a fixed inertial frame. The image below illustrates the three cases as viewed by an observer at rest in a (near) inertial frame from a fixed point above the North Pole along the Earth's axis of rotation; the train is denoted by a few red pixels, fixed at the left side in the leftmost picture, moving in the others $(1\text{day}\; \overset{\land}{=}\; 8\text{s}):$
 
-Earth_and_train_2FPS.gif
-
     1. The train travels toward the west: In that case, it moves against the direction of rotation. Therefore, on the Earth's rotating frame the Coriolis term is pointed inwards towards the axis of rotation (down). This additional force downwards should cause the train to be heavier while moving in that direction.
     -   If one looks at this train from the fixed non-rotating frame on top of the center of the Earth, at that speed it remains stationary as the Earth spins beneath it. Hence, the only force acting on it is gravity and the reaction from the track. This force is greater (by 0.34%)[53] than the force that the passengers and the train experience when at rest (rotating along with Earth). This difference is what the Coriolis effect accounts for in the rotating frame of reference.
 
@@ -315,8 +301,6 @@ Earth_and_train_2FPS.gif
     -   From the fixed inertial frame of reference above Earth, the train now rotates along with the rest of the Earth. 0.34% of the force of gravity provides the centripetal force needed to achieve the circular motion on that frame of reference. The remaining force, as measured by a scale, makes the train and passengers "lighter" than in the previous case.
 
     3. The train travels east. In this case, because it moves in the direction of Earth's rotating frame, the Coriolis term is directed outward from the axis of rotation (up). This upward force makes the train seem lighter still than when at rest.
-
-Eotvos_efect_on_10Kg.png
 
 :*From the fixed inertial frame of reference above Earth, the train travelling east now rotates at twice the rate as when it was at rest—so the amount of centripetal force needed to cause that circular path increases leaving less force from gravity to act on the track. This is what the Coriolis term accounts for on the previous paragraph.
 
@@ -343,7 +327,6 @@ The effects of the Coriolis force on ballistic trajectories should not be confus
 
 Visualization of the Coriolis effect
 
-Parabola_shape_in_rotating_layers_of_fluid.jpg Parabolic_dish_ellipse_oscill.gif Forces_in_a_Parabolic_Dish.svg
 _Blue_: the net resultant centripetal force.]] To demonstrate the Coriolis effect, a parabolic turntable can be used. On a flat turntable, the inertia of a co-rotating object forces it off the edge. However, if the turntable surface has the correct paraboloid (parabolic bowl) shape (see the figure) and rotates at the corresponding rate, the force components shown in the figure make the component of gravity tangential to the bowl surface exactly equal to the centripetal force necessary to keep the object rotating at its velocity and radius of curvature (assuming no friction). (See banked turn.) This carefully contoured surface allows the Coriolis force to be displayed in isolation.[72][73]
 
 Discs cut from cylinders of dry ice can be used as pucks, moving around almost frictionlessly over the surface of the parabolic turntable, allowing effects of Coriolis on dynamic phenomena to show themselves. To get a view of the motions as seen from the reference frame rotating with the turntable, a video camera is attached to the turntable so as to co-rotate with the turntable, with results as shown in the figure. In the left panel of the figure, which is the viewpoint of a stationary observer, the gravitational force in the inertial frame pulling the object toward the center (bottom ) of the dish is proportional to the distance of the object from the center. A centripetal force of this form causes the elliptical motion. In the right panel, which shows the viewpoint of the rotating frame, the inward gravitational force in the rotating frame (the same force as in the inertial frame) is balanced by the outward centrifugal force (present only in the rotating frame). With these two forces balanced, in the rotating frame the only unbalanced force is Coriolis (also present only in the rotating frame), and the motion is an _inertial circle_. Analysis and observation of circular motion in the rotating frame is a simplification compared to analysis or observation of elliptical motion in the inertial frame.

@@ -47,7 +47,7 @@ DHCP is used for Internet Protocol version 4 (IPv4) and IPv6. While both version
 
 Operation
 
-DHCP_session.svg, depending on the DHCP client capabilities.[11]]]
+, depending on the DHCP client capabilities.[11]]]
 
 The DHCP employs a connectionless service model, using the User Datagram Protocol (UDP). It is implemented with two UDP port numbers for its operations which are the same as for the bootstrap protocol (BOOTP). UDP port number 67 is the destination port of a server, and UDP port number 68 is used by the client.
 

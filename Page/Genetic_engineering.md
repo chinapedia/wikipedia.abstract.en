@@ -9,7 +9,7 @@ The rise of commercialised genetically modified crops has provided economic bene
 
 Overview
 
-Breeding_transgenesis_cisgenesis.svg and cisgenic genetic modification|upright=1.7]]
+and cisgenic genetic modification|upright=1.7]]
 
 Genetic engineering is a process that alters the genetic structure of an organism by either removing or introducing DNA. Unlike traditional animal and plant breeding, which involves doing multiple crosses and then selecting for the organism with the desired phenotype, genetic engineering takes the gene directly from one organism and inserts it in the other. This is much faster, can be used to insert any genes from any organism (even ones from different domains) and prevents other undesirable genes from also being added.[1]
 
@@ -26,7 +26,7 @@ History
 
 Humans have altered the genomes of species for thousands of years through selective breeding, or artificial selection[19][20] as contrasted with natural selection. More recently, mutation breeding has used exposure to chemicals or radiation to produce a high frequency of random mutations, for selective breeding purposes. Genetic engineering as the direct manipulation of DNA by humans outside breeding and mutations has only existed since the 1970s. The term "genetic engineering" was first coined by Jack Williamson in his science fiction novel _Dragon's Island_, published in 1951[21] – one year before DNA's role in heredity was confirmed by Alfred Hershey and Martha Chase,[22] and two years before James Watson and Francis Crick showed that the DNA molecule has a double-helix structure – though the general concept of direct genetic manipulation was explored in rudimentary form in Stanley G. Weinbaum's 1936 science fiction story _Proteus Island_.[23][24]
 
-Jaenisch_2003_by_Sam_Ogden.jpg created a genetically modified mouse, the first GM animal.]]
+created a genetically modified mouse, the first GM animal.]]
 
 In 1972, Paul Berg created the first recombinant DNA molecules by combining DNA from the monkey virus SV40 with that of the lambda virus.[25] In 1973 Herbert Boyer and Stanley Cohen created the first transgenic organism by inserting antibiotic resistance genes into the plasmid of an _Escherichia coli_ bacterium.[26][27] A year later Rudolf Jaenisch created a transgenic mouse by introducing foreign DNA into its embryo, making it the world’s first transgenic animal[28] These achievements led to concerns in the scientific community about potential risks from genetic engineering, which were first discussed in depth at the Asilomar Conference in 1975. One of the main recommendations from this meeting was that government oversight of recombinant DNA research should be established until the technology was deemed safe.[29][30]
 
@@ -41,7 +41,7 @@ In 2010, scientists at the J. Craig Venter Institute created the first synthetic
 
 Process
 
-Master_Mix_with_Primers_form_PCR.jpg is a powerful tool used in molecular cloning]] Creating a GMO is a multi-step process. Genetic engineers must first choose what gene they wish to insert into the organism. This is driven by what the aim is for the resultant organism and is built on earlier research. Genetic screens can be carried out to determine potential genes and further tests then used to identify the best candidates. The development of microarrays, transcriptomics and genome sequencing has made it much easier to find suitable genes.[51] Luck also plays its part; the round-up ready gene was discovered after scientists noticed a bacterium thriving in the presence of the herbicide.[52]
+is a powerful tool used in molecular cloning]] Creating a GMO is a multi-step process. Genetic engineers must first choose what gene they wish to insert into the organism. This is driven by what the aim is for the resultant organism and is built on earlier research. Genetic screens can be carried out to determine potential genes and further tests then used to identify the best candidates. The development of microarrays, transcriptomics and genome sequencing has made it much easier to find suitable genes.[51] Luck also plays its part; the round-up ready gene was discovered after scientists noticed a bacterium thriving in the presence of the herbicide.[52]
 
 Gene isolation and cloning
 
@@ -51,13 +51,13 @@ Before the gene is inserted into the target organism it must be combined with ot
 
 Inserting DNA into the host genome
 
-Genegun.jpg to insert DNA into plant tissue]] There are a number of techniques used to insert genetic material into the host genome. Some bacteria can naturally take up foreign DNA. This ability can be induced in other bacteria via stress (e.g. thermal or electric shock), which increases the cell membrane's permeability to DNA; up-taken DNA can either integrate with the genome or exist as extrachromosomal DNA. DNA is generally inserted into animal cells using microinjection, where it can be injected through the cell's nuclear envelope directly into the nucleus, or through the use of viral vectors.[59]
+to insert DNA into plant tissue]] There are a number of techniques used to insert genetic material into the host genome. Some bacteria can naturally take up foreign DNA. This ability can be induced in other bacteria via stress (e.g. thermal or electric shock), which increases the cell membrane's permeability to DNA; up-taken DNA can either integrate with the genome or exist as extrachromosomal DNA. DNA is generally inserted into animal cells using microinjection, where it can be injected through the cell's nuclear envelope directly into the nucleus, or through the use of viral vectors.[59]
 
 In plants the DNA is often inserted using _Agrobacterium_-mediated recombination,[60] taking advantage of the _Agrobacterium_s T-DNA sequence that allows natural insertion of genetic material into plant cells.[61] Other methods include biolistics, where particles of gold or tungsten are coated with DNA and then shot into young plant cells,[62] and electroporation, which involves using an electric shock to make the cell membrane permeable to plasmid DNA. Due to the damage caused to the cells and DNA the transformation efficiency of biolistics and electroporation is lower than agrobacterial transformation and microinjection.[63]
 
 As only a single cell is transformed with genetic material, the organism must be regenerated from that single cell. In plants this is accomplished through the use of tissue culture.[64][65] In animals it is necessary to ensure that the inserted DNA is present in the embryonic stem cells.[66] Bacteria consist of a single cell and reproduce clonally so regeneration is not necessary. Selectable markers are used to easily differentiate transformed from untransformed cells. These markers are usually present in the transgenic organism, although a number of strategies have been developed that can remove the selectable marker from the mature transgenic plant.[67]
 
-Agrobacterium-tumefaciens.png'' attaching itself to a carrot cell]]
+'' attaching itself to a carrot cell]]
 
 Further testing using PCR, Southern hybridization, and DNA sequencing is conducted to confirm that an organism contains the new gene.[68] These tests can also confirm the chromosomal location and copy number of the inserted gene. The presence of the gene does not guarantee it will be expressed at appropriate levels in the target tissue so methods that look for and measure the gene products (RNA and protein) are also used. These include northern hybridisation, quantitative RT-PCR, Western blot, immunofluorescence, ELISA and phenotypic analysis.[69]
 
@@ -82,9 +82,9 @@ Researchers are altering the genome of pigs to induce the growth of human organs
 
 Research
 
-PCWmice1.jpg]]
+]]
 
-Expression_of_Human_Wild-Type_and_P239S_Mutant_Palladin.png to allow them to be visualised]]
+to allow them to be visualised]]
 
 Genetic engineering is an important tool for natural scientists, with the creation of transgenic organisms one of the most important tools for analysis of gene function.[111] Genes and other genetic information from a wide range of organisms can be inserted into bacteria for storage and modification, creating genetically modified bacteria in the process. Bacteria are cheap, easy to grow, clonal, multiply quickly, relatively easy to transform and can be stored at -80 °C almost indefinitely. Once a gene is isolated it can be stored inside the bacteria providing an unlimited supply for research.[112] Organisms are genetically engineered to discover the functions of certain genes. This could be the effect on the phenotype of the organism, where the gene is expressed or what other genes it interacts with. These experiments generally involve loss of function, gain of function, tracking and expression.
 
@@ -101,7 +101,7 @@ In materials science, a genetically modified virus has been used in a research l
 
 Agriculture
 
-Bt_plants.png leaves (bottom image) protect it from extensive damage caused by lesser cornstalk borer larvae (top image).[128]]]
+leaves (bottom image) protect it from extensive damage caused by lesser cornstalk borer larvae (top image).[128]]]
 
 One of the best-known and controversial applications of genetic engineering is the creation and use of genetically modified crops or genetically modified livestock to produce genetically modified food. Crops have been developed to increase production, increase tolerance to abiotic stresses, alter the composition of the food, or to produce novel products.[129]
 

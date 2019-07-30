@@ -21,13 +21,11 @@ The north end is dominated by shallow mudflats. An important stopover for migrat
 
 Human impact
 
-CayugaLake.jpg
-
 Cayuga Lake is very popular among recreational boaters. The Allan H. Treman State Marine Park, a large state marina and boat launch, is located at the southern end of the lake in Ithaca. There are two yacht clubs on the western shore: Ithaca Yacht Club a few miles north of Ithaca, and Red Jacket Yacht Club just south of Canoga. There are several other marinas and boat launches scattered along the lake shore.
 
 Cayuga Lake is the source of drinking water for several communities, including Lansing near the southern end of the lake along the east side, which draws water through the Bolton Point Municipal Water system. There are also several lake source cooling systems that are in operation on the lake, whereby cooler water is pumped from the depths of the lake, warmed, and circulated in a closed system back to the surface. One of these systems, which is operated by Cornell University and began operation in 2000, was controversial during the planning and building states for potential negative environmental impact. All the environmental impact reports and scientific studies have shown that the Cornell lake source cooling system has not yet had and will not likely have any measurably significant environmental impact. Furthermore, Cornell's system pumps significantly less warm water back into the lake than others further north which have been operating for decades, including the coal-fired power plant on the eastern shore.
 
-AES_Cayuga.jpg The AES Cayuga electrical generating station operates in the Town of Lansing, on the east shore of Cayuga Lake. This coal-fired plant uses Cayuga Lake as a cooling source. In the late 1960s, citizens successfully opposed the construction of an 830-MW nuclear power plant on the shore of Cayuga Lake.[2][3][4][5]
+The AES Cayuga electrical generating station operates in the Town of Lansing, on the east shore of Cayuga Lake. This coal-fired plant uses Cayuga Lake as a cooling source. In the late 1960s, citizens successfully opposed the construction of an 830-MW nuclear power plant on the shore of Cayuga Lake.[2][3][4][5]
 
 Rod Serling named his production company Cayuga Productions during the years of his TV series, _The Twilight Zone_. Serling and his family had a summer home at Cayuga Lake.[6]
 
@@ -73,7 +71,7 @@ Tributaries
 
 Folklore
 
-Cornell_West_Campus_from_McGraw_Tower.jpg and Cayuga Lake as seen from McGraw Tower.]]
+and Cayuga Lake as seen from McGraw Tower.]]
 
 The lake is the subject of local folklore. Cornell's alma mater makes reference to its position "Far Above Cayuga's Waters", while that of Ithaca College references "Cayuga's shore".
 

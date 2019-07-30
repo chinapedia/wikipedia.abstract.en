@@ -10,7 +10,7 @@ AsDB, BSEC, CE, CIS, EAPC, EBRD, ECE, ECO, ESCAP, FAO, GUAM, IAEA, IBRD, ICAO, I
 
 Countries
 
-Diplomatic_missions_of_Azerbaijan.png Azerbaijan currently has diplomatic relations with 158 countries:[3][4] Afghanistan, Bahrain, Belarus, Belgium, Bulgaria, Canada, the People's Republic of China, Denmark, Egypt, France, Georgia, Germany, Greece, Hungary, Iran, Iraq, Republic of Ireland, Israel, Italy, Japan, Kazakhstan, Kyrgyzstan, Kuwait, Libya, Luxembourg, Mexico, Moldova, Mongolia, Netherlands,Nicaragua, Norway, Oman, Pakistan, Poland, Qatar, Republic of India, Romania, Russia, Saudi Arabia, Serbia, South Korea, Spain, Sweden, Switzerland, Tajikistan, Togo, Turkey, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, United States, Uzbekistan and Vietnam.[5]
+Azerbaijan currently has diplomatic relations with 158 countries:[3][4] Afghanistan, Bahrain, Belarus, Belgium, Bulgaria, Canada, the People's Republic of China, Denmark, Egypt, France, Georgia, Germany, Greece, Hungary, Iran, Iraq, Republic of Ireland, Israel, Italy, Japan, Kazakhstan, Kyrgyzstan, Kuwait, Libya, Luxembourg, Mexico, Moldova, Mongolia, Netherlands,Nicaragua, Norway, Oman, Pakistan, Poland, Qatar, Republic of India, Romania, Russia, Saudi Arabia, Serbia, South Korea, Spain, Sweden, Switzerland, Tajikistan, Togo, Turkey, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, United States, Uzbekistan and Vietnam.[5]
 
 Azerbaijan is one of the few countries with predominantly Muslim populations that shares a strategic alliance with Israel. Today, Israel is a major arms supplier[6] to the country. (_See Azerbaijan–Israel relations_).
 
@@ -398,7 +398,7 @@ Oceania
 
 No relations
 
-Azerbaijan_relations.png As of 2017, Azerbaijan maintains diplomatic relations with 178[122] states (including Palestine[123] and the Vatican City) and the European Union. Azerbaijan has not yet established diplomatic relations with:[124]
+As of 2017, Azerbaijan maintains diplomatic relations with 178[122] states (including Palestine[123] and the Vatican City) and the European Union. Azerbaijan has not yet established diplomatic relations with:[124]
 
 States
 

@@ -11,8 +11,6 @@ If Seimu did exist, there is no evidence to suggest that the title _tennō_ was 
 
 His father was Emperor Keikō and his mother was Yasakairihime-no-Mikoto, a granddaughter of Emperor Sujin and a first cousin of his father.
 
-Seimu-tenno_sakinotatanaminoikeshirinomisasagi1.jpg
-
 The actual site of Seimu's grave is not known.[11] The Emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Nara.
 
 The Imperial Household Agency designates this location as Seimu's mausoleum. It is formally named _Saki no Tatanami no misasagi_.[12]
@@ -37,7 +35,7 @@ See also
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

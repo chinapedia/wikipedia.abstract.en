@@ -1,4 +1,4 @@
-Nationalhymne_der_Bundesrepublik_Deutschland.svg The "" (; English: "Song of Germany"), officially titled "" (English: "The Song of the Germans"), or part of it, has been the national anthem of Germany since 1922. In East Germany, the national anthem was "Auferstanden aus Ruinen" () between 1949 and 1990.
+The "" (; English: "Song of Germany"), officially titled "" (English: "The Song of the Germans"), or part of it, has been the national anthem of Germany since 1922. In East Germany, the national anthem was "Auferstanden aus Ruinen" () between 1949 and 1990.
 
 Since World War II and the fall of Nazi Germany, only the third stanza has been used as the national anthem. The stanza's beginning, "" ("Unity and Justice and Freedom") is considered the unofficial national motto of Germany,[1] and is inscribed on modern German Army belt buckles and the rims of some German coins.
 
@@ -14,7 +14,7 @@ The song is also well known by the beginning and refrain of the first stanza, ""
 
 Melody
 
-Haydn_portrait_by_Thomas_Hardy_(small).jpg, 1792]]
+, 1792]]
 
 The melody of the "" was written by Joseph Haydn in 1797 to provide music to the poem "Gott erhalte Franz den Kaiser" () by Lorenz Leopold Haschka. The song was a birthday anthem honouring Francis II (1768–1835), Habsburg emperor, and was intended as a parallel to Great Britain's "God Save the King". Haydn's work is sometimes called the "Emperor's Hymn". It is often used as the musical basis for the hymn "Glorious Things of Thee Are Spoken".
 
@@ -34,7 +34,7 @@ After the 1848 March Revolution, the German Confederation handed over its author
 
 Hoffmann's lyrics
 
-August_Heinrich_Hoffmann_von_Fallersleben.jpg August Heinrich Hoffmann von Fallersleben wrote the text in 1841 on holiday on the North Sea island of Heligoland, then a possession of the United Kingdom (now part of Germany).[5]
+August Heinrich Hoffmann von Fallersleben wrote the text in 1841 on holiday on the North Sea island of Heligoland, then a possession of the United Kingdom (now part of Germany).[5]
 
 Hoffmann von Fallersleben intended "" to be sung to Haydn's tune, as the first publication of the poem included the music. The first line, "" (usually translated into English as "Germany, Germany above all, above all in the world"), was an appeal to the various German monarchs to give the creation of a united Germany a higher priority than the independence of their small states. In the third stanza, with a call for "" (unity and justice and freedom), Hoffmann expressed his desire for a united and free Germany where the rule of law, not monarchical arbitrariness, would prevail.[6]
 
@@ -88,14 +88,12 @@ On 7 March 1990, months before reunification, the Federal Constitutional Court d
 
 In November 1991, President Richard von Weizsäcker and Chancellor Helmut Kohl agreed in an exchange of letters to declare the third stanza alone to be the national anthem of the reunified republic.[14] Hence, effective since then, the national anthem of Germany is unmistakably the third stanza of the Deutschlandlied, and only this stanza, with Haydn's music.
 
-2-EUR-Muenze-de-freiheit.png The opening line of the third stanza, "" ("Unity and Justice and Freedom"), is widely considered to be the national motto of Germany, although it was never officially proclaimed as such. It appears on Bundeswehr soldiers' belt buckles (replacing the earlier "Gott mit uns" ("God with Us") of the Imperial German Army and the Nazi-era Wehrmacht). "" appeared on the rim of 2 and 5 Deutsche Mark coins and is present on 2 Euro coins minted in Germany.
+The opening line of the third stanza, "" ("Unity and Justice and Freedom"), is widely considered to be the national motto of Germany, although it was never officially proclaimed as such. It appears on Bundeswehr soldiers' belt buckles (replacing the earlier "Gott mit uns" ("God with Us") of the Imperial German Army and the Nazi-era Wehrmacht). "" appeared on the rim of 2 and 5 Deutsche Mark coins and is present on 2 Euro coins minted in Germany.
 
 
 Criticisms
 
 Geographical
-
-Maas_memel_etsch_belt.svg
 
 The first verse, which is no longer part of the national anthem and is _not_ sung on official occasions, names three rivers and one strait – the Meuse (_Maas_ in German), Adige (_Etsch_) and Neman (_Memel_) Rivers and the Little Belt strait – as the boundaries of the German _Sprachbund_. As the song was written before German unification, there was never an intention to delineate borders of Germany as a nation-state. Nevertheless, these geographical references have been variously criticized as irredentist or misleading.[15] Of these the Meuse and the Adige were parts of the German Confederation during the time when the song was composed. The Belt (strait) and the Neman later became actual boundaries of Germany (the Belt until 1920, the Neman until 1945), whereas the Meuse and Adige were not parts of the German Reich as of 1871. Today, no part of any of the four places mentioned in the "" lies in Germany.
 

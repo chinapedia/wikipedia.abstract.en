@@ -25,7 +25,7 @@ Middle years
 
 Mathematics
 
-Bolton-newton.jpg Newton's work has been said "to distinctly advance every branch of mathematics then studied." His work on the subject usually referred to as fluxions or calculus, seen in a manuscript of October 1666, is now published among Newton's mathematical papers.[9] The author of the manuscript _De analysi per aequationes numero terminorum infinitas_, sent by Isaac Barrow to John Collins in June 1669, was identified by Barrow in a letter sent to Collins in August of that year as "[...] of an extraordinary genius and proficiency in these things."
+Newton's work has been said "to distinctly advance every branch of mathematics then studied." His work on the subject usually referred to as fluxions or calculus, seen in a manuscript of October 1666, is now published among Newton's mathematical papers.[9] The author of the manuscript _De analysi per aequationes numero terminorum infinitas_, sent by Isaac Barrow to John Collins in June 1669, was identified by Barrow in a letter sent to Collins in August of that year as "[...] of an extraordinary genius and proficiency in these things."
 
 Newton later became involved in a dispute with Leibniz over priority in the development of calculus (the Leibniz–Newton calculus controversy). Most modern historians believe that Newton and Leibniz developed calculus independently, although with very different mathematical notations. Occasionally it has been suggested that Newton published almost nothing about it until 1693, and did not give a full account until 1704, while Leibniz began publishing a full account of his methods in 1684. Leibniz's notation and "differential Method", nowadays recognised as much more convenient notations, were adopted by continental European mathematicians, and after 1820 or so, also by British mathematicians.
 
@@ -35,7 +35,7 @@ His work extensively uses calculus in geometric form based on limiting values of
 
 Because of this, the _Principia_ has been called "a book dense with the theory and application of the infinitesimal calculus" in modern times[13] and in Newton's time "nearly all of it is of this calculus."[14] His use of methods involving "one or more orders of the infinitesimally small" is present in his _De motu corporum in gyrum_ of 1684[15] and in his papers on motion "during the two decades preceding 1684".[16]
 
-Sir_Isaac_Newton_by_Sir_Godfrey_Kneller,_Bt.jpg]]
+]]
 
 Newton had been reluctant to publish his calculus because he feared controversy and criticism. He was close to the Swiss mathematician Nicolas Fatio de Duillier. In 1691, Duillier started to write a new version of Newton's _Principia_, and corresponded with Leibniz. In 1693, the relationship between Duillier and Newton deteriorated and the book was never completed.
 
@@ -49,7 +49,7 @@ He was appointed Lucasian Professor of Mathematics in 1669, on Barrow's recommen
 
 Optics
 
-NewtonsTelescopeReplica.jpg, which he presented to the Royal Society in 1672[19]]]
+, which he presented to the Royal Society in 1672[19]]]
 
 In 1666, Newton observed that the spectrum of colours exiting a prism in the position of minimum deviation is oblong, even when the light ray entering the prism is circular, which is to say, the prism refracts different colours by different angles.[20][21] This led him to conclude that colour is a property intrinsic to light—a point which had been debated in prior years.
 
@@ -57,11 +57,11 @@ From 1670 to 1672, Newton lectured on optics.[22] During this period he investig
 
 He showed that coloured light does not change its properties by separating out a coloured beam and shining it on various objects, and that regardless of whether reflected, scattered, or transmitted, the light remains the same colour. Thus, he observed that colour is the result of objects interacting with already-coloured light rather than objects generating the colour themselves. This is known as Newton's theory of colour.
 
-Dispersive_Prism_Illustration.jpg separating white light into the colours of the spectrum, as discovered by Newton]]
+separating white light into the colours of the spectrum, as discovered by Newton]]
 
 From this work, he concluded that the lens of any refracting telescope would suffer from the dispersion of light into colours (chromatic aberration). As a proof of the concept, he constructed a telescope using reflective mirrors instead of lenses as the objective to bypass that problem.[24][25] Building the design, the first known functional reflecting telescope, today known as a Newtonian telescope,[26] involved solving the problem of a suitable mirror material and shaping technique. Newton ground his own mirrors out of a custom composition of highly reflective speculum metal, using Newton's rings to judge the quality of the optics for his telescopes. In late 1668,[27] he was able to produce this first reflecting telescope. It was about eight inches long and it gave a clearer and larger image. In 1671, the Royal Society asked for a demonstration of his reflecting telescope. Their interest encouraged him to publish his notes, _Of Colours_,[28] which he later expanded into the work _Opticks_. When Robert Hooke criticised some of Newton's ideas, Newton was so offended that he withdrew from public debate. Newton and Hooke had brief exchanges in 1679–80, when Hooke, appointed to manage the Royal Society's correspondence, opened up a correspondence intended to elicit contributions from Newton to Royal Society transactions,[29] which had the effect of stimulating Newton to work out a proof that the elliptical form of planetary orbits would result from a centripetal force inversely proportional to the square of the radius vector. But the two men remained generally on poor terms until Hooke's death.[30]
 
-Newton-letter-to-briggs_03.jpg, commenting on Briggs' _A New Theory of Vision_.]]
+, commenting on Briggs' _A New Theory of Vision_.]]
 
 Newton argued that light is composed of particles or corpuscles, which were refracted by accelerating into a denser medium. He verged on soundlike waves to explain the repeated pattern of reflection and transmission by thin films (Opticks Bk.II, Props. 12), but still retained his theory of 'fits' that disposed corpuscles to be reflected or transmitted (Props.13). However, later physicists favoured a purely wavelike explanation of light to account for the interference patterns and the general phenomenon of diffraction. Today's quantum mechanics, photons, and the idea of wave–particle duality bear only a minor resemblance to Newton's understanding of light.
 
@@ -71,11 +71,11 @@ In 1704, Newton published _Opticks_, in which he expounded his corpuscular theor
 
 In his book _Opticks_, Newton was the first to show a diagram using a prism as a beam expander, and also the use of multiple-prism arrays.[36] Some 278 years after Newton's discussion, multiple-prism beam expanders became central to the development of narrow-linewidth tunable lasers. Also, the use of these prismatic beam expanders led to the multiple-prism dispersion theory.[37]
 
-Subsequent to Newton, much has been amended. Young and Fresnel combined Newton's particle theory with Huygens' wave theory to show that colour is the visible manifestation of light's wavelength. Science also slowly came to realise the difference between perception of colour and mathematisable optics. The German poet and scientist, Goethe, could not shake the Newtonian foundation but "one hole Goethe did find in Newton's armour, ... Newton had committed himself to the doctrine that refraction without colour was impossible. He therefore thought that the object-glasses of telescopes must for ever remain imperfect, achromatism and refraction being incompatible. This inference was proved by Dollond to be wrong."[38] Portrait_of_Sir_Isaac_Newton_(4670220).jpg]]
+Subsequent to Newton, much has been amended. Young and Fresnel combined Newton's particle theory with Huygens' wave theory to show that colour is the visible manifestation of light's wavelength. Science also slowly came to realise the difference between perception of colour and mathematisable optics. The German poet and scientist, Goethe, could not shake the Newtonian foundation but "one hole Goethe did find in Newton's armour, ... Newton had committed himself to the doctrine that refraction without colour was impossible. He therefore thought that the object-glasses of telescopes must for ever remain imperfect, achromatism and refraction being incompatible. This inference was proved by Dollond to be wrong."[38] ]]
 
 Mechanics and gravitation
 
-NewtonsPrincipia.jpg'', with hand-written corrections for the second edition, in the Wren Library at Trinity College, Cambridge.]]
+'', with hand-written corrections for the second edition, in the Wren Library at Trinity College, Cambridge.]]
 
 In 1679, Newton returned to his work on celestial mechanics by considering gravitation and its effect on the orbits of planets with reference to Kepler's laws of planetary motion. This followed stimulation by a brief exchange of letters in 1679–80 with Hooke, who had been appointed to manage the Royal Society's correspondence, and who opened a correspondence intended to elicit contributions from Newton to Royal Society transactions.[39] Newton's reawakening interest in astronomical matters received further stimulus by the appearance of a comet in the winter of 1680–1681, on which he corresponded with John Flamsteed. After the exchanges with Hooke, Newton worked out proof that the elliptical form of planetary orbits would result from a centripetal force inversely proportional to the square of the radius vector. Newton communicated his results to Edmond Halley and to the Royal Society in _De motu corporum in gyrum_, a tract written on about nine sheets which was copied into the Royal Society's Register Book in December 1684.[40] This tract contained the nucleus that Newton developed and expanded to form the _Principia_.
 
@@ -99,7 +99,7 @@ In the 1690s, Newton wrote a number of religious tracts dealing with the literal
 
 Scholars long debated whether Newton disputed the doctrine of the Trinity. His first biographer, Sir David Brewster, who compiled his manuscripts, interpreted Newton as questioning the veracity of some passages used to support the Trinity, but never denying the doctrine of the Trinity as such.[48] In the twentieth century, encrypted manuscripts written by Newton and bought by John Maynard Keynes (among others) were deciphered[49] and it became known that Newton did indeed reject Trinitarianism.[50]
 
-Newton_25.jpg]]
+]]
 
 Later works—_The Chronology of Ancient Kingdoms Amended_ (1728) and _Observations Upon the Prophecies of Daniel and the Apocalypse of St. John_ (1733)—were published after his death. He also devoted a great deal of time to alchemy.
 
@@ -111,7 +111,7 @@ As Warden, and afterwards as Master, of the Royal Mint, Newton estimated that 20
 
 Disguised as a habitué of bars and taverns, he gathered much of that evidence himself. For all the barriers placed to prosecution, and separating the branches of government, English law still had ancient and formidable customs of authority. Newton had himself made a justice of the peace in all the home counties. A draft letter regarding the matter is included in Newton's personal first edition of _Philosophiæ Naturalis Principia Mathematica_, which he must have been amending at the time.[54] Then he conducted more than 100 cross-examinations of witnesses, informers, and suspects between June 1698 and Christmas 1699. Newton successfully prosecuted 28 coiners.
 
-ENG_COA_Newton.svg, Lincolnshire, afterwards used by Sir Isaac.[55]]]
+, Lincolnshire, afterwards used by Sir Isaac.[55]]]
 
 As a result of a report written by Newton on 21 September 1717 to the Lords Commissioners of His Majesty's Treasury, the bimetallic relationship between gold coins and silver coins was changed by Royal proclamation on 22 December 1717, forbidding the exchange of gold guineas for more than 21 silver shillings.[56] This inadvertently resulted in a silver shortage as silver coins were used to pay for imports, while exports were paid for in gold, effectively moving Britain from the silver standard to its first gold standard. It is a matter of debate as to whether he intended to do this or not.[57] It has been argued that Newton conceived of his work at the Mint as a continuation of his alchemical work.[58]
 
@@ -138,7 +138,7 @@ After death
 
 Fame
 
-Isaac_Newton_grave_in_Westminster_Abbey.jpg]]
+]]
 
 The mathematician Joseph-Louis Lagrange said that Newton was the greatest genius who ever lived, and once added that Newton was also "the most fortunate, for we cannot find more than once a system of the world to establish."[76] English poet Alexander Pope wrote the famous epitaph:
 
@@ -161,13 +161,13 @@ Albert Einstein kept a picture of Newton on his study wall alongside ones of Mic
 
 Commemorations
 
-Isaac_Newton_statue.jpg]] Newton's monument (1731) can be seen in Westminster Abbey, at the north of the entrance to the choir against the choir screen, near his tomb. It was executed by the sculptor Michael Rysbrack (1694–1770) in white and grey marble with design by the architect William Kent. The monument features a figure of Newton reclining on top of a sarcophagus, his right elbow resting on several of his great books and his left hand pointing to a scroll with a mathematical design. Above him is a pyramid and a celestial globe showing the signs of the Zodiac and the path of the comet of 1680. A relief panel depicts putti using instruments such as a telescope and prism.[86] The Latin inscription on the base translates as:
+]] Newton's monument (1731) can be seen in Westminster Abbey, at the north of the entrance to the choir against the choir screen, near his tomb. It was executed by the sculptor Michael Rysbrack (1694–1770) in white and grey marble with design by the architect William Kent. The monument features a figure of Newton reclining on top of a sarcophagus, his right elbow resting on several of his great books and his left hand pointing to a scroll with a mathematical design. Above him is a pyramid and a celestial globe showing the signs of the Zodiac and the path of the comet of 1680. A relief panel depicts putti using instruments such as a telescope and prism.[86] The Latin inscription on the base translates as:
 
   Here is buried Isaac Newton, Knight, who by a strength of mind almost divine, and mathematical principles peculiarly his own, explored the course and figures of the planets, the paths of comets, the tides of the sea, the dissimilarities in rays of light, and, what no other scholar has previously imagined, the properties of the colours thus produced. Diligent, sagacious and faithful, in his expositions of nature, antiquity and the holy Scriptures, he vindicated by his philosophy the majesty of God mighty and good, and expressed the simplicity of the Gospel in his manners. Mortals rejoice that there has existed such and so great an ornament of the human race! He was born on 25 December 1642, and died on 20 March 1726/7.—Translation from G.L. Smyth, _The Monuments and Genii of St. Paul's Cathedral, and of Westminster Abbey_ (1826), ii, 703–704.[87]
 
 From 1978 until 1988, an image of Newton designed by Harry Ecclestone appeared on Series D £1 banknotes issued by the Bank of England (the last £1 notes to be issued by the Bank of England). Newton was shown on the reverse of the notes holding a book and accompanied by a telescope, a prism and a map of the Solar System.[88]
 
-Newton_by_Eduardo_Paolozzi_2003-03-10.jpg's _Newton, after William Blake_ (1995), outside the British Library]]
+'s _Newton, after William Blake_ (1995), outside the British Library]]
 
 A statue of Isaac Newton, looking at an apple at his feet, can be seen at the Oxford University Museum of Natural History. A large bronze statue, _Newton, after William Blake_, by Eduardo Paolozzi, dated 1995 and inspired by Blake's etching, dominates the piazza of the British Library in London.
 
@@ -194,7 +194,7 @@ Newton's position was vigorously defended by his follower Samuel Clarke in a fam
 
 Effect on religious thought
 
-Newton-WilliamBlake.jpg'', by William Blake; here, Newton is depicted critically as a "divine geometer". This copy of the work is currently held by the Tate Collection.[104]]]
+'', by William Blake; here, Newton is depicted critically as a "divine geometer". This copy of the work is currently held by the Tate Collection.[104]]]
 
 Newton and Robert Boyle's approach to the mechanical philosophy was promoted by rationalist pamphleteers as a viable alternative to the pantheists and enthusiasts, and was accepted hesitantly by orthodox preachers as well as dissident preachers like the latitudinarians.[105] The clarity and simplicity of science was seen as a way to combat the emotional and metaphysical superlatives of both superstitious enthusiasm and the threat of atheism,[106] and at the same time, the second wave of English deists used Newton's discoveries to demonstrate the possibility of a "Natural Religion".
 

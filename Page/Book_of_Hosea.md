@@ -5,7 +5,7 @@ Set around the fall of the Northern Kingdom of Israel, the Book of Hosea denounc
 
 Background and content
 
-Duccio_di_Buoninsegna_063.jpg'', by Duccio di Buoninsegna, in the Siena Cathedral (c. 1309–1311)]] Hosea_and_Gomer.jpg and Gomer from the Bible Historiale, 1372.]] Hosea prophesied during a dark and melancholic era of Israel's history, the period of the Northern Kingdom's decline and fall in the 8th century BC. According to the book, the apostasy of the people was rampant, having turned away from God in order to serve both the calves of Jeroboam[1] and Baal, a Canaanite god.[2]
+'', by Duccio di Buoninsegna, in the Siena Cathedral (c. 1309–1311)]] and Gomer from the Bible Historiale, 1372.]] Hosea prophesied during a dark and melancholic era of Israel's history, the period of the Northern Kingdom's decline and fall in the 8th century BC. According to the book, the apostasy of the people was rampant, having turned away from God in order to serve both the calves of Jeroboam[1] and Baal, a Canaanite god.[2]
 
 The Book of Hosea says that, during Hosea's lifetime, the kings of the Northern Kingdom, their aristocratic supporters, and the priests had led the people away from the Law of God, as given in the Pentateuch. It says that they forsook the worship of God; they worshiped other gods, especially Baal, the Canaanite storm god, and Asherah, a Canaanite fertility god. Other sins followed, says the Book, including homicide, perjury, theft, and sexual sin.[3] Hosea declares that unless they repent of these sins, God will allow their nation to be destroyed, and the people will be taken into captivity by Assyria,[4] the greatest nation of the time.
 

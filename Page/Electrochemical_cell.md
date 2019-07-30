@@ -1,11 +1,11 @@
-ElectrochemCell.png. The two half-cells are linked by a salt bridge carrying ions between them. Electrons flow in the external circuit.]]
+. The two half-cells are linked by a salt bridge carrying ions between them. Electrons flow in the external circuit.]]
 
 An ELECTROCHEMICAL CELL is a device capable of either generating electrical energy from chemical reactions or using electrical energy to cause chemical reactions. The electrochemical cells which generate an electric current are called voltaic cells or galvanic cells and those that generate chemical reactions, via electrolysis for example, are called electrolytic cells.[1][2] A common example of a galvanic cell is a standard 1.5 volt[3] cell meant for consumer use. A _battery_ consists of one or more cells, connected either in parallel, series or series-and-parallel pattern.
 
 
 Electrolytic cell
 
-Electrolyser_1884.png.]] An electrolytic cell is an electrochemical cell that drives a non-spontaneous redox reaction through the application of electrical energy. They are often used to decompose chemical compounds, in a process called electrolysis—the Greek word lysis means _to break up_.
+.]] An electrolytic cell is an electrochemical cell that drives a non-spontaneous redox reaction through the application of electrical energy. They are often used to decompose chemical compounds, in a process called electrolysis—the Greek word lysis means _to break up_.
 
 Important examples of electrolysis are the decomposition of water into hydrogen and oxygen, and bauxite into aluminium and other chemicals. Electroplating (e.g. of copper, silver, nickel or chromium) is done using an electrolytic cell. Electrolysis is a technique that uses a direct electric current (DC).
 
@@ -14,7 +14,7 @@ An electrolytic cell has three component parts: an electrolyte and two electrode
 
 Galvanic cell or Voltaic cell
 
-Galvanic_cell_with_no_cation_flow.png A galvanic cell, or voltaic cell, named after Luigi Galvani, or Alessandro Volta respectively, is an electrochemical cell that derives electrical energy from spontaneous redox reactions taking place within the cell. It generally consists of two different metals connected by a salt bridge, or individual half-cells separated by a porous membrane.
+A galvanic cell, or voltaic cell, named after Luigi Galvani, or Alessandro Volta respectively, is an electrochemical cell that derives electrical energy from spontaneous redox reactions taking place within the cell. It generally consists of two different metals connected by a salt bridge, or individual half-cells separated by a porous membrane.
 
 Volta was the inventor of the voltaic pile, the first electrical battery. In common usage, the word "battery" has come to include a single galvanic cell, but a battery properly consists of multiple cells.[4]
 
@@ -25,8 +25,6 @@ A primary cell is a Galvanic battery that is designed to be used once and discar
 
 Primary batteries make up about 90% of the $50 billion battery market, but secondary batteries have been gaining market share. About 15 billion primary batteries are thrown away worldwide every year, virtually all ending up in landfills. Due to the toxic heavy metals and strong acids or alkalis they contain, batteries are hazardous waste. Most municipalities classify them as such and require separate disposal. The energy needed to manufacture a battery is about 50 times greater than the energy it contains.[5][6][7][8] Due to their high pollutant content compared to their small energy content, the primary battery is considered a wasteful, environmentally unfriendly technology. Due mainly to increasing sales of wireless devices and cordless tools which cannot be economically powered by primary batteries and come with integral rechargeable batteries, the secondary battery industry has high growth and has slowly been replacing the primary battery in high end products.
 
-Batteries_comparison_4,5_D_C_AA_AAA_AAAA_A23_9V_CR2032_LR44_matchstick-1.jpeg
-
 
 Secondary cell
 
@@ -35,7 +33,7 @@ A secondary cell, commonly referred to as a _rechargeable battery_ is an electro
 
 Fuel cell
 
-Solid_oxide_fuel_cell_protonic.svg A _fuel cell_ is an electrochemical cell that converts the chemical energy from a fuel into electricity through an electrochemical reaction of hydrogen fuel with oxygen or another oxidizing agent.[9] Fuel cells are different from batteries in requiring a continuous source of fuel and oxygen (usually from air) to sustain the chemical reaction, whereas in a battery the chemical energy comes from chemicals already present in the battery. Fuel cells can produce electricity continuously for as long as fuel and oxygen are supplied.
+A _fuel cell_ is an electrochemical cell that converts the chemical energy from a fuel into electricity through an electrochemical reaction of hydrogen fuel with oxygen or another oxidizing agent.[9] Fuel cells are different from batteries in requiring a continuous source of fuel and oxygen (usually from air) to sustain the chemical reaction, whereas in a battery the chemical energy comes from chemicals already present in the battery. Fuel cells can produce electricity continuously for as long as fuel and oxygen are supplied.
 
 The first fuel cells were invented in 1838. The first commercial use of fuel cells came more than a century later in NASA space programmes to generate power for satellites and space capsules. Since then, fuel cells have been used in many other applications. Fuel cells are used for primary and backup power for commercial, industrial and residential buildings and in remote or inaccessible areas. They are also used to power fuel cell vehicles, including forklifts, automobiles, buses, boats, motorcycles and submarines.
 
@@ -46,7 +44,7 @@ The fuel cell market is growing, and in 2013 Pike Research estimated that the st
 
 Half-cells
 
-bunsen_cell.jpg, invented by Robert Bunsen.]] An electrochemical cell consists of two half-cells. Each _half-cell_ consists of an electrode and an electrolyte. The two half-cells may use the same electrolyte, or they may use different electrolytes. The chemical reactions in the cell may involve the electrolyte, the electrodes, or an external substance (as in fuel cells that may use hydrogen gas as a reactant). In a full electrochemical cell, species from one half-cell lose electrons (oxidation) to their electrode while species from the other half-cell gain electrons (reduction) from their electrode.
+, invented by Robert Bunsen.]] An electrochemical cell consists of two half-cells. Each _half-cell_ consists of an electrode and an electrolyte. The two half-cells may use the same electrolyte, or they may use different electrolytes. The chemical reactions in the cell may involve the electrolyte, the electrodes, or an external substance (as in fuel cells that may use hydrogen gas as a reactant). In a full electrochemical cell, species from one half-cell lose electrons (oxidation) to their electrode while species from the other half-cell gain electrons (reduction) from their electrode.
 
 A _salt bridge_ (e.g., filter paper soaked in KNO_(3,) NaCl, or some other electrolyte) is often employed to provide ionic contact between two half-cells with different electrolytes, yet prevent the solutions from mixing and causing unwanted side reactions. An alternative to a salt bridge is to allow direct contact (and mixing) between the two half-cells, for example in simple electrolysis of water.
 

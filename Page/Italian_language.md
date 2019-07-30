@@ -27,7 +27,7 @@ Renaissance
 
 The Renaissance era, known as in Italian, was seen as a time of "rebirth", which is the literal meaning of both (from French) and (Italian).
 
-Pietro_Bembo2.jpg was an influential figure in the development of the Italian language from the Tuscan dialect, as a literary medium, codifying the language for standard modern usage.]]
+was an influential figure in the development of the Italian language from the Tuscan dialect, as a literary medium, codifying the language for standard modern usage.]]
 
 During this time, long-existing beliefs stemming from the teachings of the Roman Catholic Church began to be understood from new perspectives as humanists—individuals who placed emphasis on the human body and its full potential—began to shift focus from the church to human beings themselves.[16] Humanists began forming new beliefs in various forms: social, political, and intellectual. The ideals of the Renaissance were evident throughout the Protestant Reformation, which took place simultaneously with the Renaissance. The Protestant Reformation began with Martin Luther's rejection of the selling of indulgences by Johann Tetzel and other authorities within the Roman Catholic Church, resulting in Luther's eventual break-off from the Roman Catholic Church in the Diet of Worms. After Luther was excommunicated from the Roman Catholic Church, he founded what was then understood to be a sect of Catholicism, later referred to as Lutheranism.[17] Luther's preaching in favor of faith and scripture rather than tradition led him to translate the Bible into many other languages, which would allow for people from all over Europe to read the Bible. Previously, the Bible was only translated into Latin, but after this development it could be understood in many other languages, including Italian. The Italian language was able to spread even more with the help of Luther and the invention of the printing press by Johannes Gutenberg. The printing press facilitated the spread of Italian because it was able to rapidly produce texts, such as the Bible, and cut the costs of books which allowed for more people to have access to the translated Bible and new pieces of literature.[18] The Roman Catholic Church was losing its control over the population, as it was not open to change, and there was an increasing number of reformers with differing beliefs.[19]
 
@@ -37,7 +37,7 @@ Italian became the language used in the courts of every state in the Italian pen
 -   Niccolò Machiavelli and other Florentines preferred the version spoken by ordinary people in their own times.
 -   The courtiers, like Baldassare Castiglione and Gian Giorgio Trissino, insisted that each local vernacular contribute to the new standard.
 
-Alessandro_Manzoni.jpg sat the basis for the modern Italian language and helped creating linguistic unity throughout Italy.[20]]]
+sat the basis for the modern Italian language and helped creating linguistic unity throughout Italy.[20]]]
 
 A fourth faction claimed that the best Italian was the one that the papal court adopted, which was a mixture of the Tuscan and Roman dialects. Eventually, Bembo's ideas prevailed, and the foundation of the Accademia della Crusca in Florence (1582–1583), the official legislative body of the Italian language led to publication of Agnolo Monosini's Latin tome in 1604 followed by the first Italian dictionary in 1612.
 
@@ -65,8 +65,6 @@ One study analyzing the degree of differentiation of Romance languages in compar
 
 Geographic distribution
 
-Idioma_italiano.png Lengua_italiana.png
-
 Italian is an official language of Italy and San Marino and is spoken fluently by the majority of the countries' populations. Italian is the third most spoken language in Switzerland (after German and French), and its use has modestly declined since the 1970s.[28] Italian is also used in administration and official documents in Vatican City.[29]
 
 Due to heavy Italian influence during the Italian colonial period, Italian is still understood by some in former colonies.[30] Although it was the primary language in Libya since colonial rule, Italian greatly declined under the rule of Muammar Gaddafi, who expelled the Italian Libyan population and made Arabic the sole official language of the country.[31] A few hundred Italian settlers returned to Libya in the 2000s; today Italian is the most spoken second language in the country and serves as a language of commerce and sometimes as a _lingua franca_ between Libyans and foreigners.[32] In Eritrea, Italian is at times used in commerce and the capital city Asmara still has one Italian-language school.[33] Italian was also introduced to Somalia through colonialism and was the sole official language of administration and education during the colonial period but fell out of use after government, educational and economic infrastructure were destroyed in the Somali Civil War.
@@ -83,7 +81,7 @@ According to the Italian Ministry of Foreign Affairs, every year there are more 
 
 Influence and derived languages
 
-Aglomerado_Gran_Buenos_Aires.png, Argentina, where Cocoliche developed.]] From the late nineteenth to the mid-twentieth century, thousands of Italians settled in Argentina, Uruguay, southern Brazil, and Venezuela, where they formed a physical and cultural presence.
+, Argentina, where Cocoliche developed.]] From the late nineteenth to the mid-twentieth century, thousands of Italians settled in Argentina, Uruguay, southern Brazil, and Venezuela, where they formed a physical and cultural presence.
 
 In some cases, colonies were established where variants of regional languages of Italy were used, and some continue to use this regional language. Examples are Rio Grande do Sul, Brazil, where Talian is used, and the town of Chipilo near Puebla, Mexico; each continues to use a derived form of Venetian dating back to the nineteenth century. Another example is Cocoliche, an Italian–Spanish pidgin once spoken in Argentina and especially in Buenos Aires, and Lunfardo.
 
@@ -100,7 +98,7 @@ Italian loanwords continue to be used in most languages in matters of art and mu
 
 Dialects
 
-Throughout Italy, regional variations of Standard Italian, called Regional Italian, are spoken. In Italy, almost all the other languages spoken as the vernacular — other than standard Italian and some languages spoken among immigrant communities — are often imprecisely called "Italian dialects",[43] even though they are quite different, with some belonging to different linguistic branches. The only exceptions to this are twelve groups considered "historical language minorities", which are officially recognized as distinct minority languages by the law. On the other hand, Corsican (a language spoken on the French island of Corsica) is closely related to Tuscan, from which Standard Italian derives and evolved. Dialetti_Italia_1939.png The differences in the evolution of Latin in the different regions of Italy can be attributed to the presence of three other types of languages: substrata, superstrata, and adstrata. The most prevalent were substrata (the language of the original inhabitants), as the Italian dialects were most likely simply Latin as spoken by native cultural groups. Superstrata and adstrata were both less important. Foreign conquerors of Italy that dominated different regions at different times left behind little to no influence on the dialects. Foreign cultures with which Italy engaged in peaceful relations with, such as trade, had no significant influence either.
+Throughout Italy, regional variations of Standard Italian, called Regional Italian, are spoken. In Italy, almost all the other languages spoken as the vernacular — other than standard Italian and some languages spoken among immigrant communities — are often imprecisely called "Italian dialects",[43] even though they are quite different, with some belonging to different linguistic branches. The only exceptions to this are twelve groups considered "historical language minorities", which are officially recognized as distinct minority languages by the law. On the other hand, Corsican (a language spoken on the French island of Corsica) is closely related to Tuscan, from which Standard Italian derives and evolved. The differences in the evolution of Latin in the different regions of Italy can be attributed to the presence of three other types of languages: substrata, superstrata, and adstrata. The most prevalent were substrata (the language of the original inhabitants), as the Italian dialects were most likely simply Latin as spoken by native cultural groups. Superstrata and adstrata were both less important. Foreign conquerors of Italy that dominated different regions at different times left behind little to no influence on the dialects. Foreign cultures with which Italy engaged in peaceful relations with, such as trade, had no significant influence either.
 
 Regional differences can be recognized by various factors: the openness of vowels, the length of the consonants, and influence of the local language (for example, in informal situations the contraction __ replaces __ in the area of Rome for the infinitive "to go"; and __ is what Venetians say for the infinitive "to go").
 
@@ -113,7 +111,7 @@ The Italian dialects have declined in the modern era, as Italy unified under Sta
 
 Phonology
 
-It-Vangeli.ogg, 1–7 of the Bible being read by a speaker of Italian from Milan]] }} Italian has a seven-vowel system, consisting of , as well as 23 consonants. Compared with most other Romance languages, Italian phonology is conservative, preserving many words nearly unchanged from Vulgar Latin. Some examples:
+, 1–7 of the Bible being read by a speaker of Italian from Milan]] }} Italian has a seven-vowel system, consisting of , as well as 23 consonants. Compared with most other Romance languages, Italian phonology is conservative, preserving many words nearly unchanged from Vulgar Latin. Some examples:
 
 -   Italian __ "fourteen" < Latin (cf. Romanian _/_, Spanish __, French __ , Catalan and Portuguese )
 -   Italian _settimana_ "week" < Latin (cf. Romanian _săptămână_, Spanish and Portuguese _semana_, French _semaine_ , Catalan _setmana_)

@@ -137,7 +137,7 @@ Bashō was deified by both the imperial government and Shinto religious headquar
 
 Buson
 
-YosaBusonGrave.jpg]] The next famous style of haikai to arise was that of Yosa Buson (1716–1783) and others such as Kitō, called the Tenmei style after the Tenmei Era (1781–1789) in which it was created.
+]] The next famous style of haikai to arise was that of Yosa Buson (1716–1783) and others such as Kitō, called the Tenmei style after the Tenmei Era (1781–1789) in which it was created.
 
 Buson is recognized as one of the greatest masters of haiga (an art form where the painting is combined with haiku or haikai prose). His affection for painting can be seen in the painterly style of his haiku.[25]
 

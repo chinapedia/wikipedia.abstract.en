@@ -22,7 +22,7 @@ Omari obtained a fake United States ID card from All Services Plus in Passaic Co
 
 Attacks
 
-Atta_in_airport.jpg on 9/11]] On September 10, 2001, Mohamed Atta picked up Omari from the Milner Hotel in Boston, Massachusetts, and the two drove their rented Nissan to a Comfort Inn in South Portland, Maine, where they spent the night in room 232. It was initially reported that Adnan and Ameer Bukhari were the two hijackers who had rented and driven the car.[6]
+on 9/11]] On September 10, 2001, Mohamed Atta picked up Omari from the Milner Hotel in Boston, Massachusetts, and the two drove their rented Nissan to a Comfort Inn in South Portland, Maine, where they spent the night in room 232. It was initially reported that Adnan and Ameer Bukhari were the two hijackers who had rented and driven the car.[6]
 
 In the early hours of September 11, they boarded a commuter flight back to Boston to connect to American Airlines Flight 11. American 11 was hijacked 15 minutes after the flight departed by Omari and four other hijackers, which allowed trained pilot Mohamed Atta to crash the Boeing 767 into the North Tower of the World Trade Center as part of an attack that killed thousands of people.
 

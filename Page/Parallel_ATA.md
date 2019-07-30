@@ -11,8 +11,6 @@ The standard was originally conceived as the "AT Bus Attachment," officially cal
 
 IDE and ATA-1
 
-1992_80386_PC_AMD_386DX-40_no_onboard_IDE_floppy_serial_parallel_sound_video_or_network.jpg
-
 The first version of what is now called the ATA/ATAPI interface was developed by Western Digital under the name _Integrated Drive Electronics_ (IDE). Together with Control Data Corporation (the hard drive manufacturer) and Compaq Computer (the initial customer), they developed the connector, the signaling protocols and so on, with the goal of remaining software compatible with the existing ST-506 hard drive interface.[15] The first such drives appeared in Compaq PCs in 1986.[16][17]
 
 The term _Integrated Drive Electronics_ refers not just to the connector and interface definition, but also to the fact that the drive controller is integrated into the drive, as opposed to a separate controller on or connected to the motherboard. The interface cards used to connect a parallel ATA drive to, for example, a PCI slot are not drive controllers: they are merely bridges between the host bus and the ATA interface. Since the original ATA interface is essentially just a 16-bit ISA bus in disguise, the bridge was especially simple in case of an ATA connector being located on an ISA interface card. The integrated controller presented the drive to the host computer as an array of 512-byte blocks with a relatively simple command interface. This relieved the mainboard and interface cards in the host computer of the chores of stepping the disk head arm, moving the head arm in and out, and so on, as had to be done with earlier ST-506 and ESDI hard drives. All of these low-level details of the mechanical operation of the drive were now handled by the controller on the drive itself. This also eliminated the need to design a single controller that could handle many different types of drives, since the controller could be unique for the drive. The host need only to ask for a particular sector, or block, to be read or written, and either accept the data from the drive or send the data to it.
@@ -23,7 +21,7 @@ A short-lived, seldom-used implementation of ATA was created for the IBM XT and 
 
 Second ATA interface
 
-SC_OAK_OTI601_Mozart.jpg _Mozart 16_ 16-bit ISA sound card, from when the CDROM drive interface had not yet been standardized. This card offers four separate interface connectors for IDE, Panasonic, Mitsumi, and Sony CDROM drives, but only one connector could be used since they all shared the same interface wiring.]] Soundblaster32.jpg 32 16-bit ISA sound card, from after connector standardization had occurred, with an IDE interface for the CDROM drive.]]
+_Mozart 16_ 16-bit ISA sound card, from when the CDROM drive interface had not yet been standardized. This card offers four separate interface connectors for IDE, Panasonic, Mitsumi, and Sony CDROM drives, but only one connector could be used since they all shared the same interface wiring.]] 32 16-bit ISA sound card, from after connector standardization had occurred, with an IDE interface for the CDROM drive.]]
 
 When PC motherboard makers started to include onboard ATA interfaces in place of the earlier ISA plug-in cards, there was usually only one ATA connector on the board, which could support up to two hard drives. At the time, in combination with the floppy drive, this was sufficient for most users. When the CD-ROM was developed, many computers would have been unable to accept these drives if they had been ATA devices, due to already having two hard drives installed. Adding the CD-ROM drive would have required removal of one of the drives.
 
@@ -140,13 +138,9 @@ A 44-pin variant PATA connector is used for 2.5 inch drives inside laptops. The 
 
 ATA's cables have had 40 wires for most of its history (44 conductors for the smaller form-factor version used for 2.5" drives—the extra four for power), but an 80-wire version appeared with the introduction of the _UDMA/66_ mode. All of the additional wires in the new cable are ground wires, interleaved with the previously defined wires to reduce the effects of capacitive coupling between neighboring signal wires, reducing crosstalk. Capacitive coupling is more of a problem at higher transfer rates, and this change was necessary to enable the 66 megabytes per second (MB/s) transfer rate of _UDMA4_ to work reliably. The faster _UDMA5_ and _UDMA6_ modes also require 80-conductor cables.
 
-ATA_cables.jpg
-
 Though the number of wires doubled, the number of connector pins and the pinout remain the same as 40-conductor cables, and the external appearance of the connectors is identical. Internally, the connectors are different; the connectors for the 80-wire cable connect a larger number of ground wires to the ground pins, while the connectors for the 40-wire cable connect ground wires to ground pins one-for-one. 80-wire cables usually come with three differently colored connectors (blue, black, and gray for controller, master drive, and slave drive respectively) as opposed to uniformly colored 40-wire cable's connectors (commonly all gray). The gray connector on 80-conductor cables has pin 28 CSEL not connected, making it the slave position for drives configured cable select.
 
 Differences between connectors
-
-PATA-Connectors-exposed.png
 
 The image on the right shows PATA connectors after removal of strain relief, cover, and cable. Pin one is at bottom left of the connectors, pin 2 is top left, etc., except that the lower image of the blue connector shows the view from the opposite side, and pin one is at top right.
 
@@ -224,14 +218,12 @@ While the ATA lock is intended to be impossible to defeat without a valid passwo
 
 External parallel ATA devices
 
-LG_Super_Multi_GSA-E40N_-_PATA_2_USB_Adapter-8672.jpg Due to a short cable length specification and shielding issues it is extremely uncommon to find external PATA devices that directly use PATA for connection to a computer. A device connected externally needs additional cable length to form a U-shaped bend so that the external device may be placed alongside, or on top of the computer case, and the standard cable length is too short to permit this. For ease of reach from motherboard to device, the connectors tend to be positioned towards the front edge of motherboards, for connection to devices protruding from the front of the computer case. This front-edge position makes extension out the back to an external device even more difficult. Ribbon cables are poorly shielded, and the standard relies upon the cabling to be installed inside a shielded computer case to meet RF emissions limits.
+Due to a short cable length specification and shielding issues it is extremely uncommon to find external PATA devices that directly use PATA for connection to a computer. A device connected externally needs additional cable length to form a U-shaped bend so that the external device may be placed alongside, or on top of the computer case, and the standard cable length is too short to permit this. For ease of reach from motherboard to device, the connectors tend to be positioned towards the front edge of motherboards, for connection to devices protruding from the front of the computer case. This front-edge position makes extension out the back to an external device even more difficult. Ribbon cables are poorly shielded, and the standard relies upon the cabling to be installed inside a shielded computer case to meet RF emissions limits.
 
 External hard disk drives or optical disk drives that have an internal PATA interface, use some other interface technology to bridge the distance between the external device and the computer. USB is the most common external interface, followed by Firewire. A bridge chip inside the external devices converts from the USB interface to PATA, and typically only supports a single external device without cable select or master/slave.
 
 
 Compact Flash interface
-
-Compact_Flash_is_just_a_miniature_IDE-ATA_interface.jpg
 
 Compact Flash in its _IDE mode_ is essentially a miniaturized ATA interface, intended for use on devices that use flash memory storage. No interfacing chips or circuitry are required, other than to directly adapt the smaller CF socket onto the larger ATA connector. (Although most CF cards only support IDE mode up to PIO4, making them much slower in IDE mode than their CF capable speed[39])
 

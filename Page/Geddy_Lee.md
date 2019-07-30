@@ -84,8 +84,6 @@ Lee has varied his equipment list continually throughout his career.
 
 Bass guitars
 
-Vintage_Geddy_Lee_with_Quiver.jpg
-
 In 1998, Fender released the Geddy Lee Jazz Bass, available in Black[76] and 3-Color Sunburst[77] (as of 2009).[78] This signature model is a recreation of Lee's favourite bass, a 1972 Fender Jazz that he bought in a pawn shop in Kalamazoo, Michigan in 1978. In 2015, Fender released a revised USA model of his signature bass.[79]
 
 In the early 1970s, Lee's main instrument was a Fender Precision Bass. But he switched a modified Rickenbacker 4001 in the mid-1970s. He had also used Steinberger and Wal basses throughout the 1980s.
@@ -96,7 +94,7 @@ For Rush's 2010 tour, Lee used two Orange AD200 bass heads together with two OBC
 
 Keyboards and synthesizers
 
-20110527-213757_Rush_Ahoy_Rotterdam_1200x0900.jpg]]
+]]
 
 Over the years, Lee has used synthesizers from Oberheim (Eight-voice, OB-1, OB-X, OB-Xa), PPG (Wave 2.2 and 2.3), Roland (Jupiter 8, D-50, XV-5080, and Fantom X7), Moog (Minimoog, Taurus pedals, Little Phatty[81]), and Yamaha (DX7, KX76). Lee used sequencers early in their development and has continued to use similar innovations as they have developed over the years. Lee has also made use of digital samplers. Combined, these electronic devices have supplied many memorable keyboard sounds, such as the "growl" in "Tom Sawyer" and the percussive melody in the chorus of "The Spirit of Radio."
 
@@ -118,7 +116,7 @@ From the _Snakes and Arrows_ tour onwards, Lee used a Roland Fantom X7 and a Moo
 
 Unique stage equipment
 
-geddy-henhouse.jpg live in concert with rotisseries and chef in background]]
+live in concert with rotisseries and chef in background]]
 
 Beginning in 1996, Lee stopped using traditional bass amplifiers on stage, opting to have the bass guitar signals input directly to the touring front-of-house console, to improve control and balance of sound reinforcement. Faced with the dilemma of what to do with the empty space left behind by the lack of large amplifier cabinets, Lee chose to decorate his side of the stage with unusual items.
 

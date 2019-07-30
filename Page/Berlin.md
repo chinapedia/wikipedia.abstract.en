@@ -19,7 +19,7 @@ Of Berlin's twelve boroughs, five bear a (partly) Slavic-derived name: Pankow (t
 
 12th to 16th centuries
 
-ZLB-Berliner_Ansichten-Januar.jpg Dom_und_Stadtschloss,_Berlin_1900.png (left) and Berlin Palace (right), 1900.]]
+(left) and Berlin Palace (right), 1900.]]
 
 The earliest evidence of settlements in the area of today's Berlin are a wooden beam dated from approximately 1192,[20] and remnants of a house foundation dated to 1174, found in excavations in Berlin Mitte.[21] The first written records of towns in the area of present-day Berlin date from the late 12th century. Spandau is first mentioned in 1197 and Köpenick in 1209, although these areas did not join Berlin until 1920.[22] The central part of Berlin can be traced back to two towns. Cölln on the Fischerinsel is first mentioned in a 1237 document, and Berlin, across the Spree in what is now called the Nikolaiviertel, is referenced in a document from 1244.[23] 1237 is considered the founding date of the city.[24] The two towns over time formed close economic and social ties, and profited from the staple right on the two important trade routes _Via Imperii_ and from Bruges to Novgorod.[25] In 1307, they formed an alliance with a common external policy, their internal administrations still being separated.[26][27]
 
@@ -27,11 +27,11 @@ In 1415, Frederick I became the elector of the Margraviate of Brandenburg, which
 
 17th to 19th centuries
 
-Friedrich_Zweite_Alt.jpg (1712–1786) was one of Europe's enlightened monarchs.]]
+(1712–1786) was one of Europe's enlightened monarchs.]]
 
 The Thirty Years' War between 1618 and 1648 devastated Berlin. One third of its houses were damaged or destroyed, and the city lost half of its population.[34] Frederick William, known as the "Great Elector", who had succeeded his father George William as ruler in 1640, initiated a policy of promoting immigration and religious tolerance.[35] With the Edict of Potsdam in 1685, Frederick William offered asylum to the French Huguenots.[36] By 1700, approximately 30 percent of Berlin's residents were French, because of the Huguenot immigration.[37] Many other immigrants came from Bohemia, Poland, and Salzburg.[38]
 
-Berlin_Unter_den_Linden_Victoria_Hotel_um_1900.jpg in 1871 and expanded rapidly in the following years. (Unter den Linden in 1900)]]
+in 1871 and expanded rapidly in the following years. (Unter den Linden in 1900)]]
 
 Since 1618, the Margraviate of Brandenburg had been in personal union with the Duchy of Prussia. In 1701, the dual state formed the Kingdom of Prussia, as Frederick III, Elector of Brandenburg, crowned himself as king Frederick I in Prussia. Berlin became the capital of the new Kingdom,[39] replacing Königsberg. This was a successful attempt to centralise the capital in the very far-flung state, and it was the first time the city began to grow. In 1709, Berlin merged with the four cities of Cölln, Friedrichswerder, Friedrichstadt and Dorotheenstadt under the name Berlin, "Haupt- und Residenzstadt Berlin".[40]
 
@@ -43,19 +43,19 @@ The Industrial Revolution transformed Berlin during the 19th century; the city's
 
 In the early 20th century, Berlin had become a fertile ground for the German Expressionist movement.[48] In fields such as architecture, painting and cinema new forms of artistic styles were invented. At the end of the First World War in 1918, a republic was proclaimed by Philipp Scheidemann at the Reichstag building. In 1920, the Greater Berlin Act incorporated dozens of suburban cities, villages and estates around Berlin into an expanded city. The act increased the area of Berlin from . The population almost doubled and Berlin had a population of around four million. During the Weimar era, Berlin underwent political unrest due to economic uncertainties, but also became a renowned centre of the Roaring Twenties. The metropolis experienced its heyday as a major world capital and was known for its leadership roles in science, technology, arts, the humanities, city planning, film, higher education, government and industries. Albert Einstein rose to public prominence during his years in Berlin, being awarded the Nobel Prize for Physics in 1921.
 
-Potsdamer_Platz_1945.jpg (Potsdamer Platz, 1945)]]
+(Potsdamer Platz, 1945)]]
 
 In 1933, Adolf Hitler and the Nazi Party came to power. NSDAP rule diminished Berlin's Jewish community from 160,000 (one-third of all Jews in the country) to about 80,000 as a result of emigration between 1933 and 1939. After Kristallnacht in 1938, thousands of the city's Jews were imprisoned in the nearby Sachsenhausen concentration camp. Starting in early 1943, many were shipped to death camps, such as Auschwitz.[49] Berlin is the most heavily bombed city in history. During World War II, large parts of Berlin were destroyed during 1943-1945 Allied air raids and the 1945 Battle of Berlin. The Allies dropped 67,607 tons of bombs on the city, destroying 6,427 acres of the built up area. Around 125,000 civilians were killed.[50] After the end of the war in Europe in May 1945, Berlin received large numbers of refugees from the Eastern provinces. The victorious powers divided the city into four sectors, analogous to the occupation zones into which Germany was divided. The sectors of the Western Allies (the United States, the United Kingdom and France) formed West Berlin, while the Soviet sector formed East Berlin.[51]
 
-Berlinermauer.jpg (painted on the western side) was a barrier that divided the city from 1961 to 1989.]]
+(painted on the western side) was a barrier that divided the city from 1961 to 1989.]]
 
 All four Allies shared administrative responsibilities for Berlin. However, in 1948, when the Western Allies extended the currency reform in the Western zones of Germany to the three western sectors of Berlin, the Soviet Union imposed a blockade on the access routes to and from West Berlin, which lay entirely inside Soviet-controlled territory. The Berlin airlift, conducted by the three western Allies, overcame this blockade by supplying food and other supplies to the city from June 1948 to May 1949.[52] In 1949, the Federal Republic of Germany was founded in West Germany and eventually included all of the American, British and French zones, excluding those three countries' zones in Berlin, while the Marxist-Leninist German Democratic Republic was proclaimed in East Germany. West Berlin officially remained an occupied city, but it politically was aligned with the Federal Republic of Germany despite West Berlin's geographic isolation. Airline service to West Berlin was granted only to American, British and French airlines.
 
-Thefalloftheberlinwall1989.JPG on 9 November 1989. On 3 October 1990, the German reunification process was formally finished.]]
+on 9 November 1989. On 3 October 1990, the German reunification process was formally finished.]]
 
 The founding of the two German states increased Cold War tensions. West Berlin was surrounded by East German territory, and East Germany proclaimed the Eastern part as its capital, a move the western powers did not recognize. East Berlin included most of the city's historic centre. The West German government established itself in Bonn.[53] In 1961, East Germany began to build the Berlin Wall around West Berlin, and events escalated to a tank standoff at Checkpoint Charlie. West Berlin was now de facto a part of West Germany with a unique legal status, while East Berlin was de facto a part of East Germany. John F. Kennedy gave his "_Ich bin ein Berliner_" speech in 1963, underlining the US support for the Western part of the city. Berlin was completely divided. Although it was possible for Westerners to pass to the other side through strictly controlled checkpoints, for most Easterners travel to West Berlin or West Germany was prohibited by the government of East Germany. In 1971, a Four-Power agreement guaranteed access to and from West Berlin by car or train through East Germany.[54]
 
-Siegessäule-Berlin-Tiergarten.jpg]]
+]]
 
 In 1989, with the end of the Cold War and pressure from the East German population, the Berlin Wall fell on 9 November and was subsequently mostly demolished. Today, the East Side Gallery preserves a large portion of the wall. On 3 October 1990, the two parts of Germany were reunified as the Federal Republic of Germany and Berlin again became a reunified city. Walter Momper, the mayor of West Berlin, became the first mayor of the reunified city in the interim. City-wide elections in December 1990 resulted in the first “all Berlin” mayor being elected to take office in January 1991, with the separate offices of mayors in East and West Berlin expiring by that time, and Eberhard Diepgen (a former mayor of West Berlin) became the first elected mayor of a reunited Berlin.[55] On 18 June 1994, soldiers from the United States, France and Britain marched in a parade which was part of the ceremonies to mark the withdrawal of allied occupation troops allowing a reunified Berlin[56] (the last Russian troops departed on 31 August, while the final departure of Western Allies forces was on 8 September 1994). On 20 June 1991, the Bundestag (German Parliament) voted to move the seat of the German capital from Bonn to Berlin, which was completed in 1999. Berlin's 2001 administrative reform merged several districts. The number of boroughs was reduced from 23 to 12.
 
@@ -68,7 +68,7 @@ Geography
 
 Topography
 
-Berlin_by_Senitnel-2.jpg 16-07-04-Abflug-Berlin-DSC_0122.jpg]]
+]]
 
 Berlin is in northeastern Germany, in an area of low-lying marshy woodlands with a mainly flat topography, part of the vast Northern European Plain which stretches all the way from northern France to western Russia. The _Berliner Urstromtal_ (an ice age glacial valley), between the low Barnim Plateau to the north and the Teltow plateau to the south, was formed by meltwater flowing from ice sheets at the end of the last Weichselian glaciation. The Spree follows this valley now. In Spandau, a borough in the west of Berlin, the Spree empties into the river Havel, which flows from north to south through western Berlin. The course of the Havel is more like a chain of lakes, the largest being the Tegeler See and the Großer Wannsee. A series of lakes also feeds into the upper Spree, which flows through the Großer Müggelsee in eastern Berlin.[58]
 
@@ -78,8 +78,6 @@ The borough of Spandau lies partly within the Berlin Glacial Valley and partly o
 
 Climate
 
-Luftbild_bln-schmoeckwitz.jpg
-
 Berlin has an oceanic climate – degraded by its interior location and farther from the west (Köppen: _Cfb_),[61] the eastern part of the city has a slight continental influence (_Dfb_), especially in the 0 °C isotherm, one of the changes being the annual rainfall according to the air masses and the greater abundance during a period of the year.[62][63] This type of climate features moderate summer temperatures but sometimes hot (for being semicontinental) and cold winters but not rigorous most of the time.[64][65]
 
 Due to its transitional climate zones, frosts are common in winter and there are larger temperature differences between seasons than typical for many oceanic climates. Furthermore, Berlin is classified as a temperate continental climate (_Dc_) under the Trewartha climate scheme, as well as the suburbs of New York City, although the Köppen system puts them in different types.[66] By classification of Wincenty Okołowicz has a warm-temperate climate in the center of continental Europe with the "fusion" of different features (although being influenced mainly by western standards, which best describes at macro-regional levels[67]).
@@ -88,17 +86,17 @@ Summers are warm and sometimes humid with average high temperatures of and lows 
 
 Cityscape
 
-Oberbaum_Bridge_Border_crossing_Berlin_(32881354147).jpg and River Spree in Berlin (2019)]] Berlin's history has left the city with a polycentric organization and a highly eclectic array of architecture and buildings. The city's appearance today is predominantly shaped by the key role it played in Germany's history in the 20th century. Each of the national governments based in Berlin the Kingdom of Prussia, the 1871 German Empire, the Weimar Republic, Nazi Germany, East Germany, and now the reunified Germany initiated ambitious reconstruction programs, with each adding its own distinctive style to the city's architecture. Berlin_Germany_(32881390147).jpg (2019)]] Berlin was devastated by bombing raids, fires and street battles during World War II, and many of the buildings that remained after the war were demolished in the post-war period in both West and East Berlin. Much of this demolition was initiated by municipal architecture programs to build new residential or business quarters and main roads. Many ornaments of pre-war buildings were destroyed following modernist dogmas. While in both systems and in reunified Berlin, various important heritage monuments were also (partly) reconstructed, including the _Forum Fridericianum_ with e.g., the State Opera (1955), Charlottenburg Palace (1957), the main monuments of the Gendarmenmarkt (1980s), Kommandantur (2003) and the project to reconstruct the baroque façades of the City Palace. A number of new buildings are inspired by historical predecessors or the general classical style of Berlin, such as Hotel Adlon.
+and River Spree in Berlin (2019)]] Berlin's history has left the city with a polycentric organization and a highly eclectic array of architecture and buildings. The city's appearance today is predominantly shaped by the key role it played in Germany's history in the 20th century. Each of the national governments based in Berlin the Kingdom of Prussia, the 1871 German Empire, the Weimar Republic, Nazi Germany, East Germany, and now the reunified Germany initiated ambitious reconstruction programs, with each adding its own distinctive style to the city's architecture. (2019)]] Berlin was devastated by bombing raids, fires and street battles during World War II, and many of the buildings that remained after the war were demolished in the post-war period in both West and East Berlin. Much of this demolition was initiated by municipal architecture programs to build new residential or business quarters and main roads. Many ornaments of pre-war buildings were destroyed following modernist dogmas. While in both systems and in reunified Berlin, various important heritage monuments were also (partly) reconstructed, including the _Forum Fridericianum_ with e.g., the State Opera (1955), Charlottenburg Palace (1957), the main monuments of the Gendarmenmarkt (1980s), Kommandantur (2003) and the project to reconstruct the baroque façades of the City Palace. A number of new buildings are inspired by historical predecessors or the general classical style of Berlin, such as Hotel Adlon.
 
 Clusters of high-rise buildings emerge at disperse locations, e.g. Potsdamer Platz, City West, and Alexanderplatz, the latter two representing the previous centers of West and East Berlin, respectively, and the former representing the new Berlin of the 21st century built upon the previous no-man's land of the Berlin Wall. Berlin has three of the top 40 tallest buildings in Germany.
 
 Architecture
 
-Brandenburger_Tor_abends.jpg, icon of Berlin and Germany]] Le_château_de_Charlottenburg_(Berlin)_(6340508573).jpg is Berlin's largest palace.]] Berlin_Museumsinsel_Fernsehturm.jpg, part of Museum Island, a UNESCO World Heritage Site]]
+, icon of Berlin and Germany]] is Berlin's largest palace.]] , part of Museum Island, a UNESCO World Heritage Site]]
 
 The Fernsehturm (TV tower) at Alexanderplatz in Mitte is among the tallest structures in the European Union at . Built in 1969, it is visible throughout most of the central districts of Berlin. The city can be viewed from its high observation floor. Starting here the Karl-Marx-Allee heads east, an avenue lined by monumental residential buildings, designed in the Socialist Classicism style. Adjacent to this area is the Rotes Rathaus (City Hall), with its distinctive red-brick architecture. In front of it is the Neptunbrunnen, a fountain featuring a mythological group of Tritons, personifications of the four main Prussian rivers and Neptune on top of it.
 
-Panorama_Gendarmenmarkt-Berlin-Huntke-2008.jpg – on the picture: (left) The New Church or "Deutscher Dom", (center) Konzerthaus Berlin (concert hall) and (right) French Cathedral]] Unter_den_Linden_Berlin2007.jpg boulevard with Zeughaus, Berlin Cathedral and Fernsehturm Berlin at night.]]
+– on the picture: (left) The New Church or "Deutscher Dom", (center) Konzerthaus Berlin (concert hall) and (right) French Cathedral]] boulevard with Zeughaus, Berlin Cathedral and Fernsehturm Berlin at night.]]
 
 The Brandenburg Gate is an iconic landmark of Berlin and Germany; it stands as a symbol of eventful European history and of unity and peace. The Reichstag building is the traditional seat of the German Parliament. It was remodelled by British architect Norman Foster in the 1990s and features a glass dome over the session area, which allows free public access to the parliamentary proceedings and magnificent views of the city.
 
@@ -106,9 +104,9 @@ The East Side Gallery is an open-air exhibition of art painted directly on the l
 
 The Museum Island in the River Spree houses five museums built from 1830 to 1930 and is a UNESCO World Heritage site. Restoration and construction of a main entrance to all museums, as well as reconstruction of the Stadtschloss continues.[72][73] Also on the island and next to the Lustgarten and palace is Berlin Cathedral, emperor William II's ambitious attempt to create a Protestant counterpart to St. Peter's Basilica in Rome. A large crypt houses the remains of some of the earlier Prussian royal family. St. Hedwig's Cathedral is Berlin's Roman Catholic cathedral.
 
-17_20_pm_(570903628).jpg to the right.]]
+to the right.]]
 
-Unter den Linden is a tree-lined east–west avenue from the Brandenburg Gate to the site of the former Berliner Stadtschloss, and was once Berlin's premier promenade. Many Classical buildings line the street and part of Humboldt University is there. Friedrichstraße was Berlin's legendary street during the Golden Twenties. It combines 20th-century traditions with the modern architecture of today's Berlin. Berlin,_Kreuzberg,_Chamissoplatz_4,_Mietshaus.jpg building in Kreuzberg. The 'blockrand' structure of the 1862 Hobrecht-Plan is typical for Berlin.]]
+Unter den Linden is a tree-lined east–west avenue from the Brandenburg Gate to the site of the former Berliner Stadtschloss, and was once Berlin's premier promenade. Many Classical buildings line the street and part of Humboldt University is there. Friedrichstraße was Berlin's legendary street during the Golden Twenties. It combines 20th-century traditions with the modern architecture of today's Berlin. building in Kreuzberg. The 'blockrand' structure of the 1862 Hobrecht-Plan is typical for Berlin.]]
 
 Potsdamer Platz is an entire quarter built from scratch after the Wall came down.[74] To the west of Potsdamer Platz is the Kulturforum, which houses the Gemäldegalerie, and is flanked by the Neue Nationalgalerie and the Berliner Philharmonie. The Memorial to the Murdered Jews of Europe, a Holocaust memorial, is to the north.[75]
 
@@ -120,7 +118,7 @@ The Kurfürstendamm is home to some of Berlin's luxurious stores with the Kaiser
 
 West of the center, Bellevue Palace is the residence of the German President. Charlottenburg Palace, which was burnt out in the Second World War, is the largest historical palace in Berlin.
 
-StadtschlossBerlinL1130213_(2).jpg is a large-scale museum project, which will have its seat in the reconstructed Berlin Palace. The palace is being rebuilt, with completion expected in 2019. Reconstruction under way, 2018.]] Le_projet_Humboldt-Forum_(Berlin)_(6087765939).jpg will look]].
+is a large-scale museum project, which will have its seat in the reconstructed Berlin Palace. The palace is being rebuilt, with completion expected in 2019. Reconstruction under way, 2018.]] will look]].
 
 The Funkturm Berlin is a tall lattice radio tower in the fairground area, built between 1924 and 1926. It is the only observation tower which stands on insulators and has a restaurant and an observation deck above ground, which is reachable by a windowed elevator.
 
@@ -132,8 +130,6 @@ Demographics
 At the end of 2018, the city-state of Berlin had 3.75 million registered inhabitants[76] in an area of .[77] The city's population density was 4,206 inhabitants per km². Berlin is the second most populous city proper in the EU. The urban area of Berlin had about 4.1 million people in 2014 in an area of , making it the seventh most populous urban area in the European Union.[78] The urban agglomeration of the metropolis was home to about 4.5 million in an area of . the functional urban area was home to about 5.2 million people in an area of approximately .[79] The entire Berlin-Brandenburg capital region has a population of more than 6 million in an area of .[80][81]
 
 In 2014, the city state Berlin had 37,368 live births (+6.6%), a record number since 1991. The number of deaths was 32,314. Almost 2.0 million households were counted in the city. 54 percent of them were single-person households. More than 337,000 families with children under the age of 18 lived in Berlin. In 2014 the German capital registered a migration surplus of approximately 40,000 people.[82]
-
-Berlin_population2.svg
 
 Nationalities
 
@@ -236,7 +232,7 @@ Government
 
 City state
 
-Berlin-_The_Rotes_Rathaus_with_the_Neptunbrunnen_in_front_-_2761.jpg (_Red City Hall_), seat of the Senate and Mayor of Berlin]] Maerchenbrunnen07.JPG in Volkspark Friedrichshain]] Since the reunification on 3 October 1990, Berlin has been one of the three city states in Germany among the present 16 states of Germany. The House of Representatives (_Abgeordnetenhaus_) functions as the city and state parliament, which currently has 141 seats. Berlin's executive body is the Senate of Berlin (_Senat von Berlin_). The Senate consists of the Governing Mayor (_Regierender Bürgermeister_) and up to eight senators holding ministerial positions, one of them holding the title of "Mayor" (_Bürgermeister_) as deputy to the Governing Mayor. The total annual state budget of Berlin in 2015 exceeded €24.5 ($30.0) billion including a budget surplus of €205 ($240) million.[110]
+(_Red City Hall_), seat of the Senate and Mayor of Berlin]] in Volkspark Friedrichshain]] Since the reunification on 3 October 1990, Berlin has been one of the three city states in Germany among the present 16 states of Germany. The House of Representatives (_Abgeordnetenhaus_) functions as the city and state parliament, which currently has 141 seats. Berlin's executive body is the Senate of Berlin (_Senat von Berlin_). The Senate consists of the Governing Mayor (_Regierender Bürgermeister_) and up to eight senators holding ministerial positions, one of them holding the title of "Mayor" (_Bürgermeister_) as deputy to the Governing Mayor. The total annual state budget of Berlin in 2015 exceeded €24.5 ($30.0) billion including a budget surplus of €205 ($240) million.[110]
 
 The Social Democratic Party (SPD) and The Left (Die Linke) took control of the city government after the 2001 state election and won another term in the 2006 state election.[111] Since the 2016 state election, there has been a coalition between the Social Democratic Party, the Greens and the Left Party.
 
@@ -244,7 +240,7 @@ The Governing Mayor is simultaneously Lord Mayor of the City of Berlin (_Oberbü
 
 Boroughs
 
-Berlin_Subdivisions.svg ]] Visit-suomi-2009-05-by-RalfR-015.jpg
+]]
 
 Berlin is subdivided into 12 boroughs or districts (_Bezirke_). Each borough has a number of subdistricts or neighborhoods (_Ortsteile_), which have roots in much older municipalities that predate the formation of Greater Berlin on 1 October 1920. These subdistricts became urbanized and incorporated into the city later on. Many residents strongly identify with their neighbourhoods, colloquially called _Kiez_. At present, Berlin consists of 96 subdistricts, which are commonly made up of several smaller residential areas or quarters.
 
@@ -286,7 +282,7 @@ Berlin hosts in total 158 foreign embassies[122] as well as the headquarters of 
 
 Economy
 
-Berlin_night.jpg and startup ecosystem.[123]]]
+and startup ecosystem.[123]]]
 
 In 2018, the GDP of Berlin totaled €147 billion, an increase of 3.1% over the previous year.[124] Berlin's economy is dominated by the service sector, with around 84% of all companies doing business in services. In 2015, the total labour force in Berlin was 1.85 million. The unemployment rate reached a 24-year low in November 2015 and stood at 10.0% .[125] From 2012 to 2015 Berlin, as a German state, had the highest annual employment growth rate. Around 130,000 jobs were added in this period.[126]
 
@@ -300,7 +296,7 @@ Research and development have economic significance for the city.[128] Several m
 
 Companies
 
-DBBuildingBerling150809.jpg, the world's second-largest transport company, is headquartered in Berlin.]]
+, the world's second-largest transport company, is headquartered in Berlin.]]
 
 Many German and international companies have business or service centers in the city. For several years Berlin has been recognized as a major center of business founders.[134] In 2015 Berlin generated the most venture capital for young startup companies in Europe.[135]
 
@@ -320,7 +316,7 @@ The Messe Berlin (also known as Berlin ExpoCenter City) is the main convention o
 
 Creative industries
 
-European_Film_Academy_-_European_Film_Awards_logo.svg (logo pictured) was founded in Berlin.]]
+(logo pictured) was founded in Berlin.]]
 
 The creative arts and entertainment business is an important part of Berlin's economy. The sector comprises music, film, advertising, architecture, art, design, fashion, performing arts, publishing, R&D, software,[141] TV, radio, and video games.
 
@@ -330,7 +326,7 @@ Berlin is an important centre in the European and German film industry.[143] It 
 
 Media
 
-Berlin,_Kreuzberg,_Rudi-Dutschke-Strasse,_Axel-Springer-Hochhaus.jpg]]
+]]
 
 Berlin is home to many magazine, newspaper, book and scientific/academic publishers, as well as their associated service industries. In addition around 20 news agencies, more than 90 regional daily newspapers and their websites, as well as the Berlin offices of more than 22 national publications such as Der Spiegel, and Die Zeit re-enforce the capital's position as Germany's epicenter for influential debate. Therefore, many international journalists, bloggers and writers live and work in the city.
 
@@ -347,7 +343,7 @@ Transport
 
 Road
 
-Berlin_Hauptbahnhof0514.JPG|italic=no}} is the largest grade-separated railway station in Europe.]]
+|italic=no}} is the largest grade-separated railway station in Europe.]]
 
 Berlin's transport infrastructure is highly complex, providing a diverse range of urban mobility.[146] A total of 979 bridges cross of inner-city waterways. of roads run through Berlin, of which are motorways ().[147] In 2013, 1.344 million motor vehicles were registered in the city.[148] With 377 cars per 1000 residents in 2013 (570/1000 in Germany), Berlin as a Western global city has one of the lowest numbers of cars per capita. In 2012, around 7,600 mostly beige colored taxicabs were in service. Since 2011, a number of app based e-car and e-scooter sharing services have evolved.
 
@@ -361,7 +357,7 @@ Similarly to other German cities, there is an increasing quantity of intercity b
 
 Public transport
 
-Heidelberger_Platz_Berlin_U3_562-d.jpg]] The and the manage several extensive urban public transport systems.[151]
+]] The and the manage several extensive urban public transport systems.[151]
 
 +--------+-------------------------------+--------------------+----------------------------------------------------------------------+
 | System | Stations / Lines / Net length | Annual ridership   | Operator / Notes                                                     |
@@ -381,7 +377,7 @@ Travelers can access all modes of transport with a single ticket
 
 Airports
 
-BER-Destinations.png Lage_der_Berliner_Flughäfen.svg Berlin has two commercial international airports. {{lang (TXL) is within the city limits, and [[Berlin_Schönefeld_Airport|
+Berlin has two commercial international airports. {{lang (TXL) is within the city limits, and [[Berlin_Schönefeld_Airport|
 
 Berlin Category:German state capitals Category:Capitals in Europe Category:City-states Category:Members of the Hanseatic League Category:Populated places established in the 13th century Category:Turkish communities outside Turkey Category:1230s establishments in the Holy Roman Empire Category:1237 establishments in Europe Category:University towns in Germany
 

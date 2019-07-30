@@ -5,7 +5,7 @@ This article focuses on the twentieth and twenty-first centuries, covering how t
 
 Christian denominational positions
 
-Sodoma_-_Aldegrever.jpg prevents sodomites from raping the angels'', Heinrich Aldegrever, 1555.]] Bor-Nederlantsche-Oorloghen_9161.tif 2006_protesters_at_union_square.jpg event in San Francisco.]]
+prevents sodomites from raping the angels'', Heinrich Aldegrever, 1555.]] event in San Francisco.]]
 
 Roman Catholic Church
 
@@ -118,7 +118,7 @@ Restorationist churches, like Jehovah's Witnesses, Seventh-Day Adventist, and Th
 
 Views supportive of homosexuality
 
-Jonathan_Lovingly_Taketh_His_Leave_of_David_by_Julius_Schnorr_von_Carolsfeld.jpg (1860), which translates in English as _Friendship between Jonathan and David_]]
+(1860), which translates in English as _Friendship between Jonathan and David_]]
 
 In the 20th century, theologians like Jürgen Moltmann, Hans Küng, John Robinson, Bishop David Jenkins, Don Cupitt, and Bishop Jack Spong challenged traditional theological positions and understandings of the Bible; following these developments some have suggested that passages have been mistranslated or that they do not refer to what we understand as "homosexuality."[111] Clay Witt, a minister in the Metropolitan Community Church, explains how theologians and commentators like John Shelby Spong, George Edwards and Michael England interpret injunctions against certain sexual acts as being originally intended as a means of distinguishing religious worship between Abrahamic and the surrounding pagan faiths, within which homosexual acts featured as part of idolatrous religious practices: "England argues that these prohibitions should be seen as being directed against sexual practices of fertility cult worship. As with the earlier reference from Strong’s, he notes that the word 'abomination' used here is directly related to idolatry and idolatrous practices throughout the Hebrew Testament. Edwards makes a similar suggestion, observing that 'the context of the two prohibitions in and suggest that what is opposed is not same-sex activity outside the cult, as in the modern secular sense, but within the cult identified as Canaanite'".[112]
 
@@ -136,7 +136,7 @@ Today, many religious people are becoming more affirming of same-sex relationshi
 
 Homosexual Christians and organizations
 
-TroyPerry2006-09-17.JPG preaching in 2006 at a Metropolitan Community Church.]] George Barna, a conservative Christian author and researcher, conducted a survey in the United States in 2009 that found gay and lesbian people having a Christian affiliation were more numerous than had been presumed. He characterized some of his leading conclusions from the data as follows:[138] "People who portray gay adults as godless, hedonistic, Christian bashers are not working with the facts. A substantial majority of gays cite their faith as a central facet of their life, consider themselves to be Christian, and claim to have some type of meaningful personal commitment to Jesus Christ active in their life today." Barna also found that LGBT people were more likely to interpret faith as an individual rather than a collective experience.[139]
+preaching in 2006 at a Metropolitan Community Church.]] George Barna, a conservative Christian author and researcher, conducted a survey in the United States in 2009 that found gay and lesbian people having a Christian affiliation were more numerous than had been presumed. He characterized some of his leading conclusions from the data as follows:[138] "People who portray gay adults as godless, hedonistic, Christian bashers are not working with the facts. A substantial majority of gays cite their faith as a central facet of their life, consider themselves to be Christian, and claim to have some type of meaningful personal commitment to Jesus Christ active in their life today." Barna also found that LGBT people were more likely to interpret faith as an individual rather than a collective experience.[139]
 
 Candace Chellew-Hodge, liberal Christian lesbian founder of online magazine _Whosoever_, responded to the findings: "All in all, I'm grateful for Barna even wandering into the subject of gay and lesbian religious belief. I think his study is important and can go a long way to dispelling the old "gays vs. God" dichotomy that too often gets played out in the media. However, his overall message is still harmful: Gays and lesbians are Christians – they're just not as good as straight ones."[140] She argued that Barna had formulated his report with undue irony and skepticism, and that he had failed to take into account the reasons for the data which enkindled his "arrière pensée." The reason why far fewer homosexuals attend church, she argued, is that there are far fewer churches who will accept them. Equally, gays and lesbians do not see the Bible as unequivocally true because they are forced by its use against them to read it more closely and with less credulity, leading them to note its myriad contradictions.[141]
 

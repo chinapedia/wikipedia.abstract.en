@@ -1,4 +1,4 @@
-FIM-platinum.jpg needle. Each bright spot is a platinum atom.]]
+needle. Each bright spot is a platinum atom.]]
 
 The FIELD ION MICROSCOPE (FIM) was invented by Müller in 1951.[1] It is a type of microscope that can be used to image the arrangement of atoms at the surface of a sharp metal tip.
 
@@ -21,10 +21,6 @@ FIM like Field Emission Microscopy (FEM) consists of a sharp sample tip and a fl
 3.  The tip is cooled to low temperatures (~20-80K).
 
 Like FEM, the field strength at the tip apex is typically a few V/Å. The experimental set-up and image formation in FIM is illustrated in the accompanying figures.
-
-FIM_experimental_set_up.jpg
-
-FIMtip.JPG
 
 In FIM the presence of a strong field is critical. The imaging gas atoms (He, Ne) near the tip are polarized by the field and since the field is non-uniform the polarized atoms are attracted towards the tip surface. The imaging atoms then lose their kinetic energy performing a series of hops and accommodate to the tip temperature. Eventually, the imaging atoms are ionized by tunneling electrons into the surface and the resulting positive ions are accelerated along the field lines to the screen to form a highly magnified image of the sample tip.
 

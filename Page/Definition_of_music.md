@@ -1,4 +1,4 @@
-Circular_definition_of_musicality.png of "musicality"]]
+of "musicality"]]
 
 A DEFINITION OF MUSIC endeavors to give an accurate and concise explanation of music's basic attributes or essential nature and it involves a process of defining what is meant by the term _music_. Many authorities have suggested definitions, but defining music turns out to be more difficult than might first be imagined, and there is ongoing debate. A number of explanations start with the notion of music as _organized sound,_ but they also highlight that this is perhaps too broad a definition and cite examples of organized sound that are not defined as music, such as human speech and sounds found in both natural and industrial environments . The problem of defining music is further complicated by the influence of culture in music cognition.
 

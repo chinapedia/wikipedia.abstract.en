@@ -1,4 +1,4 @@
-Murder_Aegisthus_Louvre_K320.jpg and Pylades – The Louvre]]
+and Pylades – The Louvre]]
 
 AEGISTHUS (; ; also transliterated as AIGISTHOS, ) was a figure in Greek mythology. Aegisthus is known from two primary sources of Greek mythology. The first is Homer's _Odyssey_, believed to have been first written down by Homer at the end of the 8th century BC, and the second from Aeschylus's _Oresteia_, written in the 5th century, BC.
 
@@ -33,7 +33,7 @@ Following Agamemnon's death, Aegisthus reigned over Mycenae for seven years. He 
 
 In culture
 
-Pierre-Narcisse_Guérin_-_Clytemnestra_and_Agamemnon_-_WGA10974.jpg's _Clytemnestra and Agamemnon_, in which Aegisthus appears as a shadowy figure pushing Clytemnestra forward]] Homer gives no information about Aegisthus' back-story. We learn from him only that, after the death of Thyestes, Aegisthus ruled as king at Mycenae and took no part in the Trojan expedition.[6] While Agamemnon was absent on his expedition against Troy, Aegisthus seduced Clytemnestra, and was so wicked as to offer up thanks to the gods for the success with which his criminal exertions were crowned.[7] In order not to be surprised by the return of Agamemnon, he sent out spies, and when Agamemnon came, Aegisthus invited him to a repast at which he had him treacherously murdered.[8][9]
+'s _Clytemnestra and Agamemnon_, in which Aegisthus appears as a shadowy figure pushing Clytemnestra forward]] Homer gives no information about Aegisthus' back-story. We learn from him only that, after the death of Thyestes, Aegisthus ruled as king at Mycenae and took no part in the Trojan expedition.[6] While Agamemnon was absent on his expedition against Troy, Aegisthus seduced Clytemnestra, and was so wicked as to offer up thanks to the gods for the success with which his criminal exertions were crowned.[7] In order not to be surprised by the return of Agamemnon, he sent out spies, and when Agamemnon came, Aegisthus invited him to a repast at which he had him treacherously murdered.[8][9]
 
 In Aeschylus's _Oresteia_, Aegisthus is a minor figure. In the first play, _Agamemnon_, he appears at the end to claim the throne, after Clytemnestra herself has killed Agamemnon and Cassandra. Clytemnestra wields the axe she has used to quell dissent. In _The Libation Bearers_ he is killed quickly by Orestes, who then struggles over having to kill his mother. Aegisthus is referred to as a "weak lion", plotting the murders but having his lover commit the deeds. According to Johanna Leah Braff, he "takes the traditional female role, as one who devises but is passive and does not act."[10] Christopher Collard describes him as the foil to Clytemnestra, his brief speech in _Agamemnon_ revealing him to be "cowardly, sly, weak, full of noisy threats - a typical 'tyrant figure' in embryo."[11]
 

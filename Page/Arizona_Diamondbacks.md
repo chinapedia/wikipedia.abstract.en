@@ -86,7 +86,7 @@ Hitting
     Slugging percentage: Paul Goldschmidt* – .538
     Stolen bases: Tony Womack – 182
 
-Randy_Johnson_04.jpg pitching for the Arizona Diamondbacks.]]
+pitching for the Arizona Diamondbacks.]]
 
 Pitching
     ERA: Randy Johnson (1999–2004, 2007–08) – 2.83

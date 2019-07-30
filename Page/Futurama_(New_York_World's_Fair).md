@@ -1,4 +1,4 @@
-Futurama_diorama_detail.jpg Street_intersection_Futurama.jpg Highways_and_Horizons_building,_1939_New_York_World's_Fair,_Edwin_D._Mott.jpg, c. 1939[1]]] Shell_Oil_City_of_Tomorrow_model_c._1936-37.jpg Magic_Motorways_by_Norman_Bel_Geddes_cover.jpg FUTURAMA was an exhibit and ride at the 1939 New York World's Fair designed by Norman Bel Geddes, which presented a possible model of the world 20 years into the future (1959–1960). The installation was sponsored by the General Motors Corporation and was characterized by automated highways and vast suburbs.[2]
+, c. 1939[1]]] FUTURAMA was an exhibit and ride at the 1939 New York World's Fair designed by Norman Bel Geddes, which presented a possible model of the world 20 years into the future (1959–1960). The installation was sponsored by the General Motors Corporation and was characterized by automated highways and vast suburbs.[2]
 
 
 Background

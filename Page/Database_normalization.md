@@ -9,8 +9,6 @@ A basic objective of the first normal form defined by Codd in 1970 was to permit
 
 The objectives of normalization beyond 1NF (first normal form) were stated as follows by Codd:
 
-Update_anomaly.svg Insertion_anomaly.svg Deletion_anomaly.svg
-
 When an attempt is made to modify (update, insert into, or delete from) a relation, the following undesirable side-effects may arise in relations that have not been sufficiently normalized:
 
 -   UPDATE ANOMALY. The same information can be expressed on multiple rows; therefore updates to the relation may result in logical inconsistencies. For example, each record in an "Employees' Skills" relation might contain an Employee ID, Employee Address, and Skill; thus a change of address for a particular employee may need to be applied to multiple records (one for each skill). If the update is only partially successful – the employee's address is updated on some records but not others – then the relation is left in an inconsistent state. Specifically, the relation provides conflicting answers to the question of what this particular employee's address is. This phenomenon is known as an update anomaly.

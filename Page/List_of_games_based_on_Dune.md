@@ -43,7 +43,7 @@ Released in 2001 by Cryo Interactive/DreamCatcher Interactive, _Frank Herbert's 
 
 _Dune Generations_ (2001, cancelled)
 
-Dune_generations_logo.png In 2001, Cryonetworks disclosed information about _Dune Generations_, an online, 3D real-time strategy game set in the _Dune_ universe.[24][25] An official website for the upcoming game featured concept images, a brief background story and description of the persistent gameworld, and a list of frequently asked questions.[26] The game would be constructed using Cryo's own online multimedia development framework SCOL.[27]
+In 2001, Cryonetworks disclosed information about _Dune Generations_, an online, 3D real-time strategy game set in the _Dune_ universe.[24][25] An official website for the upcoming game featured concept images, a brief background story and description of the persistent gameworld, and a list of frequently asked questions.[26] The game would be constructed using Cryo's own online multimedia development framework SCOL.[27]
 
 Within "the infrastructure of a permanent and massive multiplayer world that exists online," _Dune Generations_ would let players assume control of a dynasty in the _Dune_ universe, with the goal of first mastering the natural resources of their own homeworlds and ultimately rising in power and influence through conflicts and alliances with other player dynasties.[28][29] Each of the three available dynasty types — traders, soldiers, or mercenaries — would provide a different playing experience, all with the long-term goal of gaining control of Arrakis and its valuable spice.[30][31]
 

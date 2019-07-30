@@ -79,9 +79,7 @@ Dr. Franjo Tuđman Military Academy
 
 The Dr. Franjo Tuđman Military Academy acts as a school of higher learning responsible for training and educating future generations of military personnel. The academy consists of several schools including "Ban Josip Jelačić", "Blago Zadro", "Katarina Zrinska", the Officers Academy, and a school for non commissioned officers. The academy has 300 full-time staff and is the only military academy in Croatia. Each year also 100–120 foreign nationals attend the academy.
 
-Armed_Forces_Croatia.png
-
-M-84_DanOSRH2011.JPGn-built M-84A4 _Sniper_ main battle tanks in service with the Croatian Army.]] MiG-21BisD_2014.jpgbisD fighter jet of the Croatian Air Force. They were modernised in Ukraine in 2014.]] RTOP-41_Vukovar-1.jpg missile boats]]
+n-built M-84A4 _Sniper_ main battle tanks in service with the Croatian Army.]] bisD fighter jet of the Croatian Air Force. They were modernised in Ukraine in 2014.]] missile boats]]
 
 
 Commander

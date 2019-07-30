@@ -7,7 +7,7 @@
  | fisher     = $g_n(p) = \frac{n}{p(1-p)}$
 (for fixed n)
 
-}} Pascal's_triangle;_binomial_distribution.svg
+}}
 The probability that a ball in a Galton box with 8 layers (_n_ = 8) ends up in the central bin (_k_ = 4) is 70/256.]] In probability theory and statistics, the BINOMIAL DISTRIBUTION with parameters _n_ and _p_ is the discrete probability distribution of the number of successes in a sequence of _n_ independent experiments, each asking a yes–no question, and each with its own boolean-valued outcome: success/yes/true/one (with probability _p_) or failure/no/false/zero (with probability _q_ = 1 − _p_). A single success/failure experiment is also called a Bernoulli trial or Bernoulli experiment and a sequence of outcomes is called a Bernoulli process; for a single trial, i.e., _n_ = 1, the binomial distribution is a Bernoulli distribution. The binomial distribution is the basis for the popular binomial test of statistical significance.
 
 The binomial distribution is frequently used to model the number of successes in a sample of size _n_ drawn with replacement from a population of size _N._ If the sampling is carried out without replacement, the draws are not independent and so the resulting distribution is a hypergeometric distribution, not a binomial one. However, for _N_ much larger than _n_, the binomial distribution remains a good approximation, and is widely used.
@@ -236,7 +236,7 @@ The binomial distribution is a special case of the Poisson binomial distribution
 
 Normal approximation
 
-Binomial_Distribution.svg and normal probability density function approximation for _n_ = 6 and _p_ = 0.5]]
+and normal probability density function approximation for _n_ = 6 and _p_ = 0.5]]
 
 If _n_ is large enough, then the skew of the distribution is not too great. In this case a reasonable approximation to B(_n_, _p_) is given by the normal distribution
 

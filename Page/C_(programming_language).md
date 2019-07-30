@@ -7,7 +7,7 @@ C is an imperative procedural language. It was designed to be compiled using a r
 
 Overview
 
-Ken_n_dennis.jpg (right), the inventor of the C programming language, with Ken Thompson]]
+(right), the inventor of the C programming language, with Ken Thompson]]
 
 Like most procedural languages in the ALGOL tradition, C has facilities for structured programming and allows lexical variable scope and recursion. Its static type system prevents unintended operations. In C, all executable code is contained within subroutines (also called "functions", though not strictly in the sense of functional programming). Function parameters are always passed by value. Pass-by-reference is simulated in C by explicitly passing pointer values. C program source text is free-format, using the semicolon as a statement terminator and curly braces for grouping blocks of statements.
 
@@ -61,7 +61,7 @@ Unix was one of the first operating system kernels implemented in a language oth
 
 K&R C
 
-The_C_Programming_Language,_First_Edition_Cover_(2).svg and Dennis Ritchie]] In 1978, Brian Kernighan and Dennis Ritchie published the first edition of _The C Programming Language_.[11] This book, known to C programmers as "K&R", served for many years as an informal specification of the language. The version of C that it describes is commonly referred to as _K&R C_. The second edition of the book[12] covers the later ANSI C standard, described below.
+and Dennis Ritchie]] In 1978, Brian Kernighan and Dennis Ritchie published the first edition of _The C Programming Language_.[11] This book, known to C programmers as "K&R", served for many years as an informal specification of the language. The version of C that it describes is commonly referred to as _K&R C_. The second edition of the book[12] covers the later ANSI C standard, described below.
 
 K&R introduced several language features:
 
@@ -386,7 +386,7 @@ Tools such as Purify or Valgrind and linking with libraries containing special v
 
 Uses
 
-Tiobe_index.png graph, showing a comparison of the popularity of various programming languages[38]]]
+graph, showing a comparison of the popularity of various programming languages[38]]]
 
 C is widely used for system programming in implementing operating systems and embedded system applications,[39] because C code, when written for portability, can be used for most purposes, yet when needed, system-specific code can be used to access specific hardware addresses and to perform type punning to match externally imposed interface requirements, with a low run-time demand on system resources.
 

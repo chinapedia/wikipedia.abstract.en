@@ -1,4 +1,4 @@
-Bobby_pin.jpg or hair grip, a type of hairpin]] Hair_pins_old.jpg Tsalka_pin.JPG
+or hair grip, a type of hairpin]]
 
 A HAIR PIN or HAIRPIN is a long device used to hold a person's hair in place. It may be used simply to secure long hair out of the way for convenience or as part of an elaborate hairstyle or coiffure. The earliest evidence for dressing the hair may be seen in carved "venus figurines" such as the Venus of Brassempouy and the Venus of Willendorf. The creation of different hairstyles, especially among women, seems to be common to all cultures and all periods and many past, and current, societies use hairpins.
 
@@ -13,7 +13,7 @@ A hairpin patent was issued to Kelly Chamandy in 1925.[2]
 
 Hairpins in Chinese culture
 
-Tomb_of_Prince_Chuang_of_Liang_(梁莊王)_-_Hairpin_1.jpg hairpin found in the Ming dynasty tomb of Prince Chuang of Liang (梁莊王, 1411-1441), 15th century.]] Hairpins (generally known as ; ) are an important symbol in Chinese culture. In ancient China, hairpins were worn by all genders,[3] and they were essential items for everyday hairstyling, mainly for securing and decorating a hair bun. Furthermore, hairpins worn by women could also represent their social status.
+hairpin found in the Ming dynasty tomb of Prince Chuang of Liang (梁莊王, 1411-1441), 15th century.]] Hairpins (generally known as ; ) are an important symbol in Chinese culture. In ancient China, hairpins were worn by all genders,[3] and they were essential items for everyday hairstyling, mainly for securing and decorating a hair bun. Furthermore, hairpins worn by women could also represent their social status.
 
 In Han Chinese culture, when young girls reached the age of fifteen, they were allowed to take part in a rite of passage known as "" (), or “hairpin initiation” . This ceremony marks the coming of age of young women. Particularly, before the age of fifteen, girls did not use hairpins as they wore their hair in braids, and they were considered as children. When they turned fifteen, they could be considered as young women after the ceremony, and they started to style their hair as buns secured and embellished by hairpins. This practice indicated these young women may now enter into marriage. However, if a young woman hadn't been consented to marriage before age twenty, or she hadn't yet participated in a coming of age ceremony, she must attend a ceremony when she turned twenty.
 

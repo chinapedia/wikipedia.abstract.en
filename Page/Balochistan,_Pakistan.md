@@ -9,11 +9,11 @@ Balochistan is noted for its unique culture and extremely dry desert climate.[2]
 
 History
 
-Quetta4m.jpg Bolan_Pass_1842.jpg, Balochistan, Pakistan]]
+, Balochistan, Pakistan]]
 
 Early history
 
-IVC-major-sites-2.jpg. Mohenjo-Daro and Mehrgarh were among centers of the Indus Valley Civilisation in the modern-day province. Balochistan marked the westernmost territory of the civilisation, which was one of the most developed in the old Bronze Age in the world.]] Balochistan occupies the very southeastern-most portion of the Iranian Plateau, the setting for the earliest known farming settlements in the pre-Indus Valley Civilisation era, the earliest of which was Mehrgarh, dated at 7000 BC, within the province. Balochistan marked the westernmost extent of the Civilisation. Centuries before the arrival of Islam in the 7th Century, parts of Balochistan was ruled by the Paratarajas, an Indo-Scythian dynasty. At certain times, the Kushans also held political sway in parts of Balochistan.[3]
+. Mohenjo-Daro and Mehrgarh were among centers of the Indus Valley Civilisation in the modern-day province. Balochistan marked the westernmost territory of the civilisation, which was one of the most developed in the old Bronze Age in the world.]] Balochistan occupies the very southeastern-most portion of the Iranian Plateau, the setting for the earliest known farming settlements in the pre-Indus Valley Civilisation era, the earliest of which was Mehrgarh, dated at 7000 BC, within the province. Balochistan marked the westernmost extent of the Civilisation. Centuries before the arrival of Islam in the 7th Century, parts of Balochistan was ruled by the Paratarajas, an Indo-Scythian dynasty. At certain times, the Kushans also held political sway in parts of Balochistan.[3]
 
 A theory of the origin of the Baloch people, the largest ethnic group in the region, is that they are of Median descent.[4]
 
@@ -33,7 +33,7 @@ During the period of the British Raj from the fall of the Durrani Empire in 1823
 
 After independence
 
-Quetta_Railway_Station_-_40311.jpg]] Balochistan contained a Chief Commissioner's province and four princely states under the British Raj. The province's Shahi Jirga and the non-official members of the Quetta Municipality opted for Pakistan unanimously on 29 June 1947.[15] Three of the princely states, Makran, Las Bela and Kharan, acceded to Pakistan in 1947 after independence. But the ruler of the fourth princely state, the Khan of Kalat, Ahmad Yar Khan, who used to call Jinnah his 'father',[16] declared Kalat's independence as this was one of the options given to all of the 565 princely states by British Prime Minister Clement Attlee.[17]
+]] Balochistan contained a Chief Commissioner's province and four princely states under the British Raj. The province's Shahi Jirga and the non-official members of the Quetta Municipality opted for Pakistan unanimously on 29 June 1947.[15] Three of the princely states, Makran, Las Bela and Kharan, acceded to Pakistan in 1947 after independence. But the ruler of the fourth princely state, the Khan of Kalat, Ahmad Yar Khan, who used to call Jinnah his 'father',[16] declared Kalat's independence as this was one of the options given to all of the 565 princely states by British Prime Minister Clement Attlee.[17]
 
 Kalat finally acceded to Pakistan on March 27, 1948 after the 'strange help' of All India Radio and a period of negotiations and bureaucratic tactics used by Pakistan.[18] The signing of the Instrument of Accession by Ahmad Yar Khan, led his brother, Prince Abdul Karim, to revolt against his brother's decision[19] in July 1948.[20] Princes Agha Abdul Karim Baloch and Muhammad Rahim, refused to lay down arms, leading the Dosht-e Jhalawan in unconventional attacks on the army until 1950.[21] The Princes fought a lone battle without support from the rest of Balochistan.[22] Jinnah and his successors allowed Yar Khan to retain his title until the province's dissolution in 1955.
 
@@ -44,7 +44,7 @@ At a press conference on 8 June 2015 in Quetta, Home Minister Sarfraz Bugti accu
 
 Geography
 
-Astola_Island.jpg]] Balochistan is situated in the southwest of Pakistan and covers an area of . It is Pakistan's largest province by area, constituting 44% of Pakistan's total land mass. The province is bordered by Afghanistan to the north and north-west, Iran to the south-west, Punjab and Sindh, and Khyber Pakhtunkhwa and the Federally Administered Tribal Areas to the north-east. To the south lies the Arabian Sea. Balochistan is located on the south-eastern part of the Iranian plateau. It borders the geopolitical regions of the Middle East and Southwest Asia, Central Asia and South Asia. Balochistan lies at the mouth of the Strait of Hormuz and provides the shortest route from seaports to Central Asia. Its geographical location has placed the otherwise desolate region in the scope of competing global interests for all of recorded history.
+]] Balochistan is situated in the southwest of Pakistan and covers an area of . It is Pakistan's largest province by area, constituting 44% of Pakistan's total land mass. The province is bordered by Afghanistan to the north and north-west, Iran to the south-west, Punjab and Sindh, and Khyber Pakhtunkhwa and the Federally Administered Tribal Areas to the north-east. To the south lies the Arabian Sea. Balochistan is located on the south-eastern part of the Iranian plateau. It borders the geopolitical regions of the Middle East and Southwest Asia, Central Asia and South Asia. Balochistan lies at the mouth of the Strait of Hormuz and provides the shortest route from seaports to Central Asia. Its geographical location has placed the otherwise desolate region in the scope of competing global interests for all of recorded history.
 
 The capital city Quetta is located in a densely populated portion of the Sulaiman Mountains in the north-east of the province. It is situated in a river valley near the Bolan Pass, which has been used as the route of choice from the coast to Central Asia, entering through Afghanistan's Kandahar region. The British and other historic empires have crossed the region to invade Afghanistan by this route.[29]
 
@@ -99,15 +99,13 @@ Government and politics
 
 In common with the other provinces of Pakistan, Balochistan has a parliamentary form of government. The ceremonial head of the province is the Governor, who is appointed by the President of Pakistan on the advice of the provincial Chief Minister. The Chief Minister, the province's chief executive, is normally the leader of the largest political party or alliance of parties in the provincial assembly.
 
-Gov-house-side-view.jpg
-
 The unicameral Provincial Assembly of Balochistan comprises 65 seats of which 11 are reserved for women and 3 reserved for non-Muslims. The judicial branch of government is carried out by the Balochistan High Court, which is based in Quetta and headed by a Chief Justice.
 
 Besides dominant Pakistan-wide political parties (such as the Pakistan Muslim League (N) and the Pakistan Peoples Party), Balochistan nationalist parties (such as the National Party and the Balochistan National Party (Mengal)) have been prominent in the province.[50]
 
 Administration
 
-NOTE: In this map, Lehri is shown within Sibi District on #27. Sohbatpur is shown within Jafarabad District on #8. For administrative purposes, the province is divided into six divisions – Kalat, Makran, Nasirabad, Quetta, Sibi and Zhob. This divisional level was abolished in 2000, but restored after the 2008 election. Each division is under an appointed commissioner. The six divisions are further subdivided into 34 districts:[51]
+For administrative purposes, the province is divided into six divisions – Kalat, Makran, Nasirabad, Quetta, Sibi and Zhob. This divisional level was abolished in 2000, but restored after the 2008 election. Each division is under an appointed commissioner. The six divisions are further subdivided into 34 districts:[51]
 
 +---------+--------------------------+-------------------+------------+------------+--------------+-----------+
 | Sr. no. | District                 | Headquarters      | Area       | Population | Density      | Division  |

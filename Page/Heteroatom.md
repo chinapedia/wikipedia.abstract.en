@@ -1,4 +1,4 @@
-Pyridine.svg and the heteroatom is nitrogen.]]
+and the heteroatom is nitrogen.]]
 
 In chemistry, a HETEROATOM (from Ancient Greek _heteros_, "different", + _atomos_, "uncut") is, strictly, any atom that is not carbon or hydrogen.[1]
 

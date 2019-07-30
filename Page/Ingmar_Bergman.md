@@ -9,7 +9,7 @@ Biography
 
 Early life
 
-Ingmar_86135a.jpg Ernst Ingmar Bergman was born on 14 July 1918 in Uppsala, Sweden, the son of Erik Bergman, a Lutheran minister and later chaplain to the King of Sweden, and Karin (_née_ Åkerblom), a nurse who also had Walloon ancestors.[6] He grew up with his older brother Dag and sister Margareta surrounded by religious imagery and discussion. His father was a conservative parish minister with strict ideas of parenting. Ingmar was locked up in dark closets for infractions such as wetting the bed. "While father preached away in the pulpit and the congregation prayed, sang, or listened", Ingmar wrote in his autobiography _Laterna Magica_,
+Ernst Ingmar Bergman was born on 14 July 1918 in Uppsala, Sweden, the son of Erik Bergman, a Lutheran minister and later chaplain to the King of Sweden, and Karin (_née_ Åkerblom), a nurse who also had Walloon ancestors.[6] He grew up with his older brother Dag and sister Margareta surrounded by religious imagery and discussion. His father was a conservative parish minister with strict ideas of parenting. Ingmar was locked up in dark closets for infractions such as wetting the bed. "While father preached away in the pulpit and the congregation prayed, sang, or listened", Ingmar wrote in his autobiography _Laterna Magica_,
 
   I devoted my interest to the church's mysterious world of low arches, thick walls, the smell of eternity, the coloured sunlight quivering above the strangest vegetation of medieval paintings and carved figures on ceilings and walls. There was everything that one's imagination could desire—angels, saints, dragons, prophets, devils, humans ...
 
@@ -25,7 +25,7 @@ Film career until 1975
 
 Bergman's film career began in 1941 with his work rewriting scripts, but his first major accomplishment was in 1944 when he wrote the screenplay for _Torment_ (a.k.a. _Frenzy_) (_Hets_), a film directed by Alf Sjöberg. Along with writing the screenplay, he was also appointed assistant director of the film. In his second autobiographical book, _Images: My Life in Film_, Bergman describes the filming of the exteriors as his actual film directorial debut.[16] The film sparked debate on Swedish formal education. When Henning Håkanson (the principal of the high school Bergman had attended) wrote a letter following the film's release, Bergman, according to scholar Frank Gado, disparaged in a response what he viewed as Håkanson's implication that students "who did not fit some arbitrary prescription of worthiness deserved the system's cruel neglect". Bergman also stated in the letter that he "hated school as a principle, as a system and as an institution. And as such I have definitely not wanted to criticize my own school, but all schools."[17][18] The international success of this film led to Bergman's first opportunity to direct a year later. During the next ten years he wrote and directed more than a dozen films, including _Prison_ (_Fängelse_) in 1949, as well as _Sawdust and Tinsel_ (_Gycklarnas afton_) and _Summer with Monika_ (_Sommaren med Monika_), both released in 1953.
 
-Bergman_Sjostrom_1957.jpg on the set of _Wild Strawberries_ (1957)]]
+on the set of _Wild Strawberries_ (1957)]]
 
 Bergman first achieved worldwide success with _Smiles of a Summer Night_ (_Sommarnattens leende_, 1955), which won for "Best poetic humour" and was nominated for the Palme d'Or at Cannes the following year. This was followed by _The Seventh Seal_ (_Det sjunde inseglet_) and _Wild Strawberries_ (_Smultronstället_), released in Sweden ten months apart in 1957. _The Seventh Seal_ won a special jury prize and was nominated for the Palme d'Or at Cannes, and _Wild Strawberries_ won numerous awards for Bergman and its star, Victor Sjöström. Bergman continued to be productive for the next two decades. From the early 1960s, he spent much of his life on the island of Fårö, where he made several films.
 
@@ -53,14 +53,14 @@ Retirement and death
 
 Bergman retired from filmmaking in December 2003. He had a hip surgery in October 2006 and was making a difficult recovery. He died in his sleep[28] at age 89; his body was found at his home on the island of Fårö, on 30 July 2007.[29] (It was the same day another renowned existentialist film director, Michelangelo Antonioni, died.) The interment was private, at the Fårö Church on 18 August 2007. A place in the Fårö churchyard was prepared for him under heavy secrecy. Although he was buried on the island of Fårö, his name and date of birth were inscribed under his wife's name on a tomb at Roslagsbro churchyard, Norrtälje Municipality, several years before his death.
 
-Ingmar_Bergman_&_Sven_Nykvist.jpg during the production of _Through a Glass Darkly_ (1960)]]
+during the production of _Through a Glass Darkly_ (1960)]]
 
 
 Style of working
 
 Repertory company
 
-Filmstaden.jpg'' studios north of Stockholm]]
+'' studios north of Stockholm]]
 
 Bergman developed a personal "repertory company" of Swedish actors whom he repeatedly cast in his films, including Max von Sydow, Bibi Andersson, Harriet Andersson, Erland Josephson, Ingrid Thulin, Gunnel Lindblom, and Gunnar Björnstrand, each of whom appeared in at least five Bergman features. Norwegian actress Liv Ullmann, who appeared in nine of Bergman's films and one televisual film (_Saraband_), was the last to join this group (in the film _Persona_), and ultimately became the most closely associated with Bergman, both artistically and personally. They had a daughter together, Linn Ullmann (born 1966).
 
@@ -74,7 +74,7 @@ Technique
 
 Bergman usually wrote his films' screenplays, thinking about them for months or years before starting the actual process of writing, which he viewed as somewhat tedious. His earlier films are carefully constructed and are either based on his plays or written in collaboration with other authors. Bergman stated that in his later works, when on occasion his actors would want to do things differently from his own intention, he would let them, noting that the results were often "disastrous" when he did not do so. As his career progressed, Bergman increasingly let his actors improvise their dialogue. In his later films, he wrote just the ideas informing the scene and allowed his actors to determine the exact dialogue. When viewing daily rushes, Bergman stressed the importance of being critical but unemotive, claiming that he asked himself not if the work was great or terrible, but rather if it was sufficient or needed to be reshot.[31]
 
-Ingmar_Bergman_and_Ingrid_Thulin_-Tystnaden.jpg during the production of _The Silence_ (1963)]]
+during the production of _The Silence_ (1963)]]
 
 Subjects
 
@@ -95,7 +95,7 @@ After Bergman left Sweden because of the tax evasion incident, he became directo
 
 Marriages and children
 
-Grave_of_Ingmar_Bergman,_may_2008.jpg]] Bergman was married five times:
+]] Bergman was married five times:
 
 -   25 March 1943 – 1945, to Else Fisher (1 March 1918 – 3 March 2006), choreographer and dancer (divorced). Children:
     -   Lena Bergman, actress, born 1943.
@@ -115,7 +115,7 @@ The first four marriages ended in divorce, while the last ended when his wife In
 
 Legacy and accolades
 
-Popiersie_Ingmar_Bergman_ssj_20110627.jpg, Poland]]
+, Poland]]
 
 After Bergman died, a large archive of notes was donated to the Swedish Film Institute. Among the notes are several unpublished and unfinished scripts both for stage and films, and many more ideas for works in different stages of development. A never performed play has the title _Kärlek utan älskare_ ("Love without lovers"), and has the note "Complete disaster!" written on the envelope; the play is about a director who disappears and an editor who tries to complete a work he has left unfinished. Other canceled projects include the script for a pornographic film which Bergman abandoned since he did not think it was alive enough, a play about a cannibal, some loose scenes set inside a womb, a film about the life of Jesus, a film about _The Merry Widow_, and a play with the title _Från sperm till spöke_ ("From sperm to spook").[37] The Swedish director Marcus Lindeen went through the material, and inspired by _Kärlek utan älskare_ he took samples from many of the works and turned them into a play, titled _Arkivet för orealiserbara drömmar och visioner_ ("The archive for unrealisable dreams and visions"). Lindeen's play premiered on 28 May 2012 at the Stockholm City Theatre.[38]
 

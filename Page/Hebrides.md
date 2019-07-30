@@ -1,4 +1,4 @@
-Hebridesmap.png and Outer Hebrides]]
+and Outer Hebrides]]
 
 The HEBRIDES (; , ; ) comprise a widespread and diverse archipelago off the west coast of mainland Scotland. There are two main groups: the Inner and Outer Hebrides.
 
@@ -13,7 +13,7 @@ The earliest written references that have survived relating to the islands were 
 
 The name __ recorded by Ptolemy may be pre-Celtic.[5] Islay is Ptolemy's ,[6] the use of the "p" hinting at a Brythonic or Pictish tribal name, ,[7] although the root is not Gaelic.[8] Woolf (2012) has suggested that __ may be "an Irish attempt to reproduce the word __ phonetically rather than by translating it" and that the tribe's name may come from the root __ meaning "horse".[9] Watson (1926) also notes the possible relationship between __ and the ancient Irish Ulaid tribal name __ and the personal name of a king recorded in the __.[10]
 
-Loch_Aineort_-_geograph.org.uk_-_518727.jpg is the second-largest island of the Outer Hebrides]] The names of other individual islands reflect their complex linguistic history. The majority are Norse or Gaelic but the roots of several other Hebrides may have a pre-Celtic origin.[11] Adomnán, the 7th century abbot of Iona, records Colonsay as _Colosus_ and Tiree as _Ethica_, both of which may be pre-Celtic names.[12] The etymology of Skye is complex and may also include a pre-Celtic root.[13] Lewis is __ in Old Norse and although various suggestions have been made as to a Norse meaning (such as "song house")[14] the name is not of Gaelic origin and the Norse credentials are questionable.[15]
+is the second-largest island of the Outer Hebrides]] The names of other individual islands reflect their complex linguistic history. The majority are Norse or Gaelic but the roots of several other Hebrides may have a pre-Celtic origin.[11] Adomnán, the 7th century abbot of Iona, records Colonsay as _Colosus_ and Tiree as _Ethica_, both of which may be pre-Celtic names.[12] The etymology of Skye is complex and may also include a pre-Celtic root.[13] Lewis is __ in Old Norse and although various suggestions have been made as to a Norse meaning (such as "song house")[14] the name is not of Gaelic origin and the Norse credentials are questionable.[15]
 
 The earliest comprehensive written list of Hebridean island names was undertaken by Donald Monro in 1549, which in some cases also provides the earliest written form of the island name. The derivations of all of the inhabited islands of the Hebrides and some of the larger uninhabited ones are listed below.
 
@@ -143,7 +143,7 @@ There are various examples of Inner Hebridean island names that were originally 
 
 Uninhabited islands
 
-Dubh_artach.jpg (1822–1878)]] The names of uninhabited islands follow the same general patterns as the inhabited islands. The following are the ten largest in the Hebrides and their outliers.
+(1822–1878)]] The names of uninhabited islands follow the same general patterns as the inhabited islands. The following are the ten largest in the Hebrides and their outliers.
 
 The etymology of St Kilda, a small archipelago west of the Outer Hebrides, and its main island Hirta, is very complex. No saint is known by the name of Kilda, and various theories have been proposed for the word's origin, which dates from the late 16th century.[109] Haswell-Smith (2004) notes that the full name "St Kilda" first appears on a Dutch map dated 1666, and that it may have been derived from Norse __ ("sweet wellwater") or from a mistaken Dutch assumption that the spring __ was dedicated to a saint (__ is a tautological placename, consisting of the Gaelic and Norse words for _well_, i.e. "well well").[110] The origin of the Gaelic for "Hirta"—__, __, or __[111]—which long pre-dates the use of "St Kilda", is similarly open to interpretation. Watson (1926) offers the Old Irish __, a word meaning "death", possibly relating to the dangerous seas.[112] Maclean (1977), drawing on an Icelandic saga describing an early 13th-century voyage to Ireland that mentions a visit to the islands of __, speculates that the shape of Hirta resembles a stag, __ being "stags" in Norse.[113]
 
@@ -178,7 +178,7 @@ History
 
 Prehistory
 
-Callanish_standing_stones_1.jpg]] The Hebrides were settled during the Mesolithic era around 6500 BC or earlier, after the climatic conditions improved enough to sustain human settlement. Occupation at a site on is dated to 8590 ±95 uncorrected radiocarbon years BP, which is amongst the oldest evidence of occupation in Scotland.[127][128] There are many examples of structures from the Neolithic period, the finest example being the standing stones at Callanish, dating to the 3rd millennium BC.[129] Cladh Hallan, a Bronze Age settlement on South Uist is the only site in the UK where prehistoric mummies have been found.[130][131]
+]] The Hebrides were settled during the Mesolithic era around 6500 BC or earlier, after the climatic conditions improved enough to sustain human settlement. Occupation at a site on is dated to 8590 ±95 uncorrected radiocarbon years BP, which is amongst the oldest evidence of occupation in Scotland.[127][128] There are many examples of structures from the Neolithic period, the finest example being the standing stones at Callanish, dating to the 3rd millennium BC.[129] Cladh Hallan, a Bronze Age settlement on South Uist is the only site in the UK where prehistoric mummies have been found.[130][131]
 
 Celtic era
 
@@ -192,7 +192,7 @@ North of Dál Riata, the Inner and Outer Hebrides were nominally under Pictish c
 
 Norwegian control
 
-Kingdom_of_Mann_and_the_Isles-en.svg about the year 1100]] Viking raids began on Scottish shores towards the end of the 8th century and the Hebrides came under Norse control and settlement during the ensuing decades, especially following the success of Harald Fairhair at the Battle of {{lang in 872.[138][139] In the Western Isles Ketill Flatnose may have been the dominant figure of the mid 9th century, by which time he had amassed a substantial island realm and made a variety of alliances with other Norse leaders. These princelings nominally owed allegiance to the Norwegian crown, although in practice the latter's control was fairly limited.[140] Norse control of the Hebrides was formalised in 1098 when Edgar of Scotland formally signed the islands over to Magnus III of Norway.[141] The Scottish acceptance of Magnus III as King of the Isles came after the Norwegian king had conquered Orkney, the Hebrides and the Isle of Man in a swift campaign earlier the same year, directed against the local Norwegian leaders of the various island petty kingdoms. By capturing the islands Magnus imposed a more direct royal control, although at a price. His skald Bjorn Cripplehand recorded that in Lewis "fire played high in the heaven" as "flame spouted from the houses" and that in the Uists "the king dyed his sword red in blood".[142]
+about the year 1100]] Viking raids began on Scottish shores towards the end of the 8th century and the Hebrides came under Norse control and settlement during the ensuing decades, especially following the success of Harald Fairhair at the Battle of {{lang in 872.[138][139] In the Western Isles Ketill Flatnose may have been the dominant figure of the mid 9th century, by which time he had amassed a substantial island realm and made a variety of alliances with other Norse leaders. These princelings nominally owed allegiance to the Norwegian crown, although in practice the latter's control was fairly limited.[140] Norse control of the Hebrides was formalised in 1098 when Edgar of Scotland formally signed the islands over to Magnus III of Norway.[141] The Scottish acceptance of Magnus III as King of the Isles came after the Norwegian king had conquered Orkney, the Hebrides and the Isle of Man in a swift campaign earlier the same year, directed against the local Norwegian leaders of the various island petty kingdoms. By capturing the islands Magnus imposed a more direct royal control, although at a price. His skald Bjorn Cripplehand recorded that in Lewis "fire played high in the heaven" as "flame spouted from the houses" and that in the Uists "the king dyed his sword red in blood".[142]
 
 The Hebrides were now part of the Kingdom of the Isles, whose rulers were themselves vassals of the Kings of Norway. This situation lasted until the partitioning of the Western Isles in 1156, at which time the Outer Hebrides remained under Norwegian control while the Inner Hebrides broke out under Somerled, the Norse-Gael kinsman of the Manx royal house.[143]
 
@@ -200,7 +200,7 @@ Following the ill-fated 1263 expedition of Haakon IV of Norway, the Outer Hebrid
 
 Scottish control
 
-Kisimul_Castle.jpg, the ancient seat of Clan MacNeil, Castlebay, Barra]] As the Norse era drew to a close, the Norse-speaking princes were gradually replaced by Gaelic-speaking clan chiefs including the MacLeods of Lewis and Harris, Clan Donald and MacNeil of Barra.[146][147] This transition did little to relieve the islands of internecine strife although by the early 14th century the MacDonald Lords of the Isles, based on Islay, were in theory these chiefs' feudal superiors and managed to exert some control.[148]
+, the ancient seat of Clan MacNeil, Castlebay, Barra]] As the Norse era drew to a close, the Norse-speaking princes were gradually replaced by Gaelic-speaking clan chiefs including the MacLeods of Lewis and Harris, Clan Donald and MacNeil of Barra.[146][147] This transition did little to relieve the islands of internecine strife although by the early 14th century the MacDonald Lords of the Isles, based on Islay, were in theory these chiefs' feudal superiors and managed to exert some control.[148]
 
 The Lords of the Isles ruled the Inner Hebrides as well as part of the Western Highlands as subjects of the King of Scots until John MacDonald, fourth Lord of the Isles, squandered the family's powerful position. A rebellion by his nephew, Alexander of Lochalsh provoked an exasperated James IV to forfeit the family's lands in 1493.[149]
 
@@ -208,7 +208,7 @@ In 1598, King James VI authorised some "Gentleman Adventurers" from Fife to civi
 
 Early British era
 
-Clachan_Bridge.jpg between the mainland of Great Britain and Seil, also known as the "Bridge across the Atlantic", was built in 1792.[154]]] With the implementation of the Treaty of Union in 1707, the Hebrides became part of the new Kingdom of Great Britain, but the clans' loyalties to a distant monarch were not strong. A considerable number of islesmen "came out" in support of the Jacobite Earl of Mar in the 1715 and again in the 1745 rising including Macleod of Dunvegan and MacLea of Lismore.[155][156] The aftermath of the decisive Battle of Culloden, which effectively ended Jacobite hopes of a Stuart restoration, was widely felt.[157] The British government's strategy was to estrange the clan chiefs from their kinsmen and turn their descendants into English-speaking landlords whose main concern was the revenues their estates brought rather than the welfare of those who lived on them.[158] This may have brought peace to the islands, but in the following century it came at a terrible price. In the wake of the rebellion, the clan system was broken up and islands of the Hebrides became a series of landed estates.[159][160]
+between the mainland of Great Britain and Seil, also known as the "Bridge across the Atlantic", was built in 1792.[154]]] With the implementation of the Treaty of Union in 1707, the Hebrides became part of the new Kingdom of Great Britain, but the clans' loyalties to a distant monarch were not strong. A considerable number of islesmen "came out" in support of the Jacobite Earl of Mar in the 1715 and again in the 1745 rising including Macleod of Dunvegan and MacLea of Lismore.[155][156] The aftermath of the decisive Battle of Culloden, which effectively ended Jacobite hopes of a Stuart restoration, was widely felt.[157] The British government's strategy was to estrange the clan chiefs from their kinsmen and turn their descendants into English-speaking landlords whose main concern was the revenues their estates brought rather than the welfare of those who lived on them.[158] This may have brought peace to the islands, but in the following century it came at a terrible price. In the wake of the rebellion, the clan system was broken up and islands of the Hebrides became a series of landed estates.[159][160]
 
 The early 19th century was a time of improvement and population growth. Roads and quays were built; the slate industry became a significant employer on Easdale and surrounding islands; and the construction of the Crinan and Caledonian canals and other engineering works such as Clachan Bridge improved transport and access.[161] However, in the mid-19th century, the inhabitants of many parts of the Hebrides were devastated by the Clearances, which destroyed communities throughout the Highlands and Islands as the human populations were evicted and replaced with sheep farms.[162] The position was exacerbated by the failure of the islands' kelp industry that thrived from the 18th century until the end of the Napoleonic Wars in 1815[163][164] and large scale emigration became endemic.[165]
 
@@ -217,7 +217,7 @@ As , a Gaelic poet from South Uist, wrote for his countrymen who were obliged to
 
 Geology, geography and climate
 
-Leaving_Lochmaddy_-_geograph.org.uk_-_929584.jpg ferry MV _Hebrides_ leaving Lochmaddy for Skye ]]
+ferry MV _Hebrides_ leaving Lochmaddy for Skye ]]
 
 The Hebrides have a diverse geology ranging in age from Precambrian strata that are amongst the oldest rocks in Europe to Paleogene igneous intrusions.[168][169] Raised shore platforms in the Hebrides are identified as strandflats formed possibly in Pliocene times and later modified by the Quaternary glaciations.[170]
 
@@ -232,7 +232,7 @@ The Hebrides have a cool temperate climate that is remarkably mild and steady fo
 
 Language
 
-Scots_Gaelic_speakers_in_the_2011_census.png The residents of the Hebrides have spoken a variety of different languages during the long period of human occupation.
+The residents of the Hebrides have spoken a variety of different languages during the long period of human occupation.
 
 It is assumed that Pictish must once have predominated in the northern Inner Hebrides and Outer Hebrides.[175][176] The Scottish Gaelic language arrived from Ireland due to the growing influence of the kingdom of Dál Riata from the 6th century AD onwards, and became the dominant language of the southern Hebrides at that time.[177][178] For a few centuries, the military might of the __ meant that Old Norse was prevalent in the Hebrides. North of , the place names that existed prior to the 9th century have been all but obliterated.[179] The Old Norse name for the Hebrides during the Viking occupation was __, which means "Southern Isles"; in contrast to the __, or "Northern Isles" of Orkney and Shetland.[180]
 
@@ -243,7 +243,7 @@ Ironically, given the status of the Western Isles as the last Gaelic-speaking st
 
 Modern economy
 
-Ellenabeich_-_geograph.org.uk_-_95384.jpg quarries on Seil (foreground) and Easdale in the Slate Islands]] For those who remained, new economic opportunities emerged through the export of cattle, commercial fishing and tourism.[187] Nonetheless emigration and military service became the choice of many[188] and the archipelago's populations continued to dwindle throughout the late 19th century and for much of the 20th century.[189][190] Lengthy periods of continuous occupation notwithstanding, many of the smaller islands were abandoned.[191]
+quarries on Seil (foreground) and Easdale in the Slate Islands]] For those who remained, new economic opportunities emerged through the export of cattle, commercial fishing and tourism.[187] Nonetheless emigration and military service became the choice of many[188] and the archipelago's populations continued to dwindle throughout the late 19th century and for much of the 20th century.[189][190] Lengthy periods of continuous occupation notwithstanding, many of the smaller islands were abandoned.[191]
 
 There were, however, continuing gradual economic improvements, among the most visible of which was the replacement of the traditional thatched blackhouse with accommodation of a more modern design[192] and with the assistance of Highlands and Islands Enterprise many of the islands' populations have begun to increase after decades of decline.[193] The discovery of substantial deposits of North Sea oil in 1965 and the renewables sector have contributed to a degree of economic stability in recent decades. For example, the Arnish yard has had a chequered history but has been a significant employer in both the oil and renewables industries.[194]
 
@@ -254,7 +254,7 @@ Media and the arts
 
 Music
 
-Scotland-Staffa-Fingals-Cave-1900.jpg, Staffa]] Many contemporary Gaelic musicians have roots in the Hebrides, including Julie Fowlis (North Uist),[197] Catherine-Ann MacPhee (Barra), Kathleen MacInnes (South Uist), and Ishbel MacAskill (Lewis). All of these singers have repertoire based on the Hebridean tradition, such as __ and __ (waulking songs). This tradition includes many songs composed by little-known or anonymous poets before 1800, such as "", "" and "". Several of Runrig's songs are inspired by the archipelago; Calum and were raised on North Uist[198] and Donnie Munro on Skye.[199]
+, Staffa]] Many contemporary Gaelic musicians have roots in the Hebrides, including Julie Fowlis (North Uist),[197] Catherine-Ann MacPhee (Barra), Kathleen MacInnes (South Uist), and Ishbel MacAskill (Lewis). All of these singers have repertoire based on the Hebridean tradition, such as __ and __ (waulking songs). This tradition includes many songs composed by little-known or anonymous poets before 1800, such as "", "" and "". Several of Runrig's songs are inspired by the archipelago; Calum and were raised on North Uist[198] and Donnie Munro on Skye.[199]
 
 Literature
 
@@ -284,7 +284,7 @@ Natural history
 
 In some respects the Hebrides lack biodiversity in comparison to mainland Britain; for example, there are only half as many mammalian species.[216] However, these islands provide breeding grounds for many important seabird species including the world's largest colony of northern gannets.[217] Avian life includes the corncrake, red-throated diver, rock dove, kittiwake, tystie, Atlantic puffin, goldeneye, golden eagle and white-tailed sea eagle.[218][219] The latter was re-introduced to Rùm in 1975 and has successfully spread to various neighbouring islands, including Mull.[220] There is a small population of red-billed chough concentrated on the islands of Islay and Colonsay.[221]
 
-Red deer are common on the hills and the grey seal and common seal are present around the coasts of Scotland. Colonies of seals are found on Oronsay and the Treshnish Isles.[222][223] The rich freshwater streams contain brown trout, Atlantic salmon and water shrew.[224][225] Offshore, minke whales, Killer whales, basking sharks, porpoises and dolphins are among the sealife that can be seen.[226][227] Benbecula_Ruabhal_View.jpg]] Heather moor containing ling, bell heather, cross-leaved heath, bog myrtle and fescues is abundant and there is a diversity of Arctic and alpine plants including Alpine pearlwort and mossy cyphal.[228]
+Red deer are common on the hills and the grey seal and common seal are present around the coasts of Scotland. Colonies of seals are found on Oronsay and the Treshnish Isles.[222][223] The rich freshwater streams contain brown trout, Atlantic salmon and water shrew.[224][225] Offshore, minke whales, Killer whales, basking sharks, porpoises and dolphins are among the sealife that can be seen.[226][227] ]] Heather moor containing ling, bell heather, cross-leaved heath, bog myrtle and fescues is abundant and there is a diversity of Arctic and alpine plants including Alpine pearlwort and mossy cyphal.[228]
 
 Loch Druidibeg on South Uist is a national nature reserve owned and managed by Scottish Natural Heritage. The reserve covers 1,677 hectares across the whole range of local habitats.[229] Over 200 species of flowering plants have been recorded on the reserve, some of which are nationally scarce.[230] South Uist is considered the best place in the UK for the aquatic plant slender naiad, which is a European Protected Species.[231][232]
 

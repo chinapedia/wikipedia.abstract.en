@@ -1,5 +1,3 @@
-Pyrrole_Red_Dab.JPG Sapuan_akrilik.jpg Acrylfarben.jpg
-
 ACRYLIC PAINT is a fast-drying paint made of pigment suspended in acrylic polymer emulsion. Acrylic paints are water-soluble, but become water-resistant when dry. Depending on how much the paint is diluted with water, or modified with acrylic gels, mediums, or pastes, the finished acrylic painting can resemble a watercolor, a gouache or an oil painting, or have its own unique characteristics not attainable with other media.[1]
 
 
@@ -25,8 +23,6 @@ Acrylic paints are the most common paints used in grattage, a surrealist techniq
 Painting techniques
 
 Acrylic artists' paints may be thinned with water and used as washes in the manner of watercolor paints, but unlike watercolor the washes are not rehydratable once dry. For this reason, acrylics do not lend themselves to the color lifting techniques of gum arabic-based watercolor paints. Instead,the paint is applied in layers, sometimes diluting with water or acrylic medium to allow layers underneath to partially show through.
-
-Www_Beo_cc.jpg
 
 Acrylic paints with gloss or matte finishes are common, although a satin (semi-matte) sheen is most common. Some brands exhibit a range of finishes (e.g. heavy-body paints from Golden, Liquitex, Winsor & Newton and Daler-Rowney); Politec acrylics are fully matte.[10] As with oils, pigment amounts and particle size or shape can affect the paint sheen. Matting agents can also be added during manufacture to dull the finish. If desired, the artist can mix different media with their paints and use topcoats or varnishes to alter or unify sheen.
 
@@ -62,7 +58,7 @@ Varieties
 
 Differences between acrylic and oil paint
 
-Small_Detail.jpg The vehicle and binder of oil paints is linseed oil (or another drying oil), whereas acrylic paint has water as the vehicle for an emulsion (suspension) of acrylic polymer, which serves as the binder. Thus, oil paint is said to be "oil-based", whereas acrylic paint is "water-based" (or sometimes "water-borne"). Acryl_Stilleven_met_blauwe_kan_Julien_Grandgagnage.jpg Acrylic_Blending.jpg
+The vehicle and binder of oil paints is linseed oil (or another drying oil), whereas acrylic paint has water as the vehicle for an emulsion (suspension) of acrylic polymer, which serves as the binder. Thus, oil paint is said to be "oil-based", whereas acrylic paint is "water-based" (or sometimes "water-borne").
 
 The main practical difference between most acrylics and oil paints is the inherent drying time. Oils allow for more time to blend colors and apply even glazes over underpaintings. This slow-drying aspect of oil can be seen as an advantage for certain techniques, but it impedes an artist trying to work quickly. The fast evaporation of water from regular acrylic paint films can be slowed with the use of acrylic retarders. Retarders are generally glycol or glycerin-based additives. The addition of a retarder slows the evaporation rate of the water.
 

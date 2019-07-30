@@ -17,7 +17,7 @@ In the fourteenth century, the rediscovery of major works describing atomist tea
 
 First evidence-based theory
 
-Daltons_symbols.gif's _A New System of Chemical Philosophy_ (1808).]] In the early 1800s, John Dalton used the concept of atoms to explain why elements always react in ratios of small whole numbers (the law of multiple proportions). For instance, there are two types of tin oxide: one is 88.1% tin and 11.9% oxygen and the other is 78.7% tin and 21.3% oxygen (tin(II) oxide and tin dioxide respectively). This means that 100g of tin will combine either with 13.5g or 27g of oxygen. 13.5 and 27 form a ratio of 1:2, a ratio of small whole numbers. This common pattern in chemistry suggested to Dalton that elements react in multiples of discrete units — in other words, atoms. In the case of tin oxides, one tin atom will combine with either one or two oxygen atoms.[18]
+'s _A New System of Chemical Philosophy_ (1808).]] In the early 1800s, John Dalton used the concept of atoms to explain why elements always react in ratios of small whole numbers (the law of multiple proportions). For instance, there are two types of tin oxide: one is 88.1% tin and 11.9% oxygen and the other is 78.7% tin and 21.3% oxygen (tin(II) oxide and tin dioxide respectively). This means that 100g of tin will combine either with 13.5g or 27g of oxygen. 13.5 and 27 form a ratio of 1:2, a ratio of small whole numbers. This common pattern in chemistry suggested to Dalton that elements react in multiples of discrete units — in other words, atoms. In the case of tin oxides, one tin atom will combine with either one or two oxygen atoms.[18]
 
 Dalton also believed atomic theory could explain why water absorbs different gases in different proportions. For example, he found that water absorbs carbon dioxide far better than it absorbs nitrogen.[19] Dalton hypothesized this was due to the differences between the masses and configurations of the gases' respective particles, and carbon dioxide molecules (CO₂) are heavier and larger than nitrogen molecules (N₂).
 
@@ -27,7 +27,7 @@ In 1827, botanist Robert Brown used a microscope to look at dust grains floating
 
 Discovery of the electron
 
-Geiger-Marsden_experiment_expectation_and_result.svg'''
+'''
 _Left:_ Expected results: alpha particles passing through the plum pudding model of the atom with negligible deflection.
 _Right:_ Observed results: a small portion of the particles were deflected by the concentrated positive charge of the nucleus.]] The physicist J.J. Thomson measured the mass of cathode rays, showing they were made of particles, but were around 1800 times lighter than the lightest atom, hydrogen. Therefore, they were not atoms, but a new particle, the first _subatomic_ particle to be discovered, which he originally called "_corpuscle_" but was later named _electron_, after particles postulated by George Johnstone Stoney in 1874. He also showed they were identical to particles given off by photoelectric and radioactive materials.[24] It was quickly recognized that they are the particles that carry electric currents in metal wires, and carry the negative electric charge within atoms. Thomson was given the 1906 Nobel Prize in Physics for this work. Thus he overturned the belief that atoms are the indivisible, ultimate particles of matter.[25] Thomson also incorrectly postulated that the low mass, negatively charged electrons were distributed throughout the atom in a uniform sea of positive charge. This became known as the plum pudding model.
 
@@ -40,8 +40,6 @@ Discovery of isotopes
 While experimenting with the products of radioactive decay, in 1913 radiochemist Frederick Soddy discovered that there appeared to be more than one type of atom at each position on the periodic table.[27] The term isotope was coined by Margaret Todd as a suitable name for different atoms that belong to the same element. J.J. Thomson created a technique for isotope separation through his work on ionized gases, which subsequently led to the discovery of stable isotopes.[28]
 
 Bohr model
-
-Bohr_atom_animation_2.gif
 
 In 1913 the physicist Niels Bohr proposed a model in which the electrons of an atom were assumed to orbit the nucleus but could only do so in a finite set of orbits, and could jump between these orbits only in discrete changes of energy corresponding to absorption or radiation of a photon.[29] This quantization was used to explain why the electrons orbits are stable (given that normally, charges in acceleration, including circular motion, lose kinetic energy which is emitted as electromagnetic radiation, see _synchrotron radiation_) and why elements absorb and emit electromagnetic radiation in discrete spectra.[30]
 
@@ -88,7 +86,7 @@ The quarks are held together by the strong interaction (or strong force), which 
 
 Nucleus
 
-Binding_energy_curve_-_common_isotopes.svg needed for a nucleon to escape the nucleus, for various isotopes]]
+needed for a nucleon to escape the nucleus, for various isotopes]]
 
 All the bound protons and neutrons in an atom make up a tiny atomic nucleus, and are collectively called nucleons. The radius of a nucleus is approximately equal to 1.07  fm, where _A_ is the total number of nucleons.[58] This is much smaller than the radius of the atom, which is on the order of 10⁵ fm. The nucleons are bound together by a short-ranged attractive potential called the residual strong force. At distances smaller than 2.5 fm this force is much more powerful than the electrostatic force that causes positively charged protons to repel each other.[59]
 
@@ -98,7 +96,7 @@ The proton, the electron, and the neutron are classified as fermions. Fermions o
 
 A nucleus that has a different number of protons than neutrons can potentially drop to a lower energy state through a radioactive decay that causes the number of protons and neutrons to more closely match. As a result, atoms with matching numbers of protons and neutrons are more stable against decay. However, with increasing atomic number, the mutual repulsion of the protons requires an increasing proportion of neutrons to maintain the stability of the nucleus, which slightly modifies this trend of equal numbers of protons to neutrons.[62]
 
-Wpdms_physics_proton_proton_chain_1.svg (e⁺)—an antimatter electron—is emitted along with an electron neutrino.]]
+(e⁺)—an antimatter electron—is emitted along with an electron neutrino.]]
 
 The number of protons and neutrons in the atomic nucleus can be modified, although this can require very high energies because of the strong force. Nuclear fusion occurs when multiple atomic particles join to form a heavier nucleus, such as through the energetic collision of two nuclei. For example, at the core of the Sun protons require energies of 3–10 keV to overcome their mutual repulsion—the coulomb barrier—and fuse together into a single nucleus.[63] Nuclear fission is the opposite process, causing a nucleus to split into two smaller nuclei—usually through radioactive decay. The nucleus can also be modified through bombardment by high energy subatomic particles or photons. If this modifies the number of protons in a nucleus, the atom changes to a different chemical element.[64][65]
 
@@ -108,11 +106,11 @@ The fusion of two nuclei that create larger nuclei with lower atomic numbers tha
 
 Electron cloud
 
-Potential_energy_well.svg, the minimum energy _V_(_x_) needed to reach each position _x_. Classically, a particle with energy _E_ is constrained to a range of positions between _x_₁ and _x_₂.]] The electrons in an atom are attracted to the protons in the nucleus by the electromagnetic force. This force binds the electrons inside an electrostatic potential well surrounding the smaller nucleus, which means that an external source of energy is needed for the electron to escape. The closer an electron is to the nucleus, the greater the attractive force. Hence electrons bound near the center of the potential well require more energy to escape than those at greater separations.
+, the minimum energy _V_(_x_) needed to reach each position _x_. Classically, a particle with energy _E_ is constrained to a range of positions between _x_₁ and _x_₂.]] The electrons in an atom are attracted to the protons in the nucleus by the electromagnetic force. This force binds the electrons inside an electrostatic potential well surrounding the smaller nucleus, which means that an external source of energy is needed for the electron to escape. The closer an electron is to the nucleus, the greater the attractive force. Hence electrons bound near the center of the potential well require more energy to escape than those at greater separations.
 
 Electrons, like other particles, have properties of both a particle and a wave. The electron cloud is a region inside the potential well where each electron forms a type of three-dimensional standing wave—a wave form that does not move relative to the nucleus. This behavior is defined by an atomic orbital, a mathematical function that characterises the probability that an electron appears to be at a particular location when its position is measured.[69] Only a discrete (or quantized) set of these orbitals exist around the nucleus, as other possible wave patterns rapidly decay into a more stable form.[70] Orbitals can have one or more ring or node structures, and differ from each other in size, shape and orientation.[71]
 
-S-p-Orbitals.svg that has an orientation and a minimum at the center.]] Atomic_orbitals_and_periodic_table_construction.ogv
+that has an orientation and a minimum at the center.]]
 
 Each atomic orbital corresponds to a particular energy level of the electron. The electron can change its state to a higher energy level by absorbing a photon with sufficient energy to boost it into the new quantum state. Likewise, through spontaneous emission, an electron in a higher energy state can drop to a lower energy state while radiating the excess energy as a photon. These characteristic energy values, defined by the differences in the energies of the quantum states, are responsible for atomic spectral lines.[72]
 
@@ -149,7 +147,7 @@ Atomic dimensions are thousands of times smaller than the wavelengths of light (
 
 Radioactive decay
 
-Isotopes_and_half-life.svg (T_(½)) of various isotopes with Z protons and N neutrons.]]
+(T_(½)) of various isotopes with Z protons and N neutrons.]]
 
 Every element has one or more isotopes that have unstable nuclei that are subject to radioactive decay, causing the nucleus to emit particles or electromagnetic radiation. Radioactivity can occur when the radius of a nucleus is large compared with the radius of the strong force, which only acts over distances on the order of 1 fm.[103]
 
@@ -175,13 +173,11 @@ The nucleus of an atom will have no spin when it has even numbers of both neutro
 
 Energy levels
 
-Atomic_orbital_energy_levels.svg (5s² 4d¹⁰) inclusively. Do not forget that even the top of the diagram is lower than an unbound electron state.]] The potential energy of an electron in an atom is negative, its dependence of its position reaches the minimum (the most absolute value) inside the nucleus, and vanishes when the distance from the nucleus goes to infinity, roughly in an inverse proportion to the distance. In the quantum-mechanical model, a bound electron can only occupy a set of states centered on the nucleus, and each state corresponds to a specific energy level; see time-independent Schrödinger equation for theoretical explanation. An energy level can be measured by the amount of energy needed to unbind the electron from the atom, and is usually given in units of electronvolts (eV). The lowest energy state of a bound electron is called the ground state, i.e. stationary state, while an electron transition to a higher level results in an excited state.[113] The electron's energy raises when _n_ increases because the (average) distance to the nucleus increases. Dependence of the energy on is caused not by electrostatic potential of the nucleus, but by interaction between electrons.
+(5s² 4d¹⁰) inclusively. Do not forget that even the top of the diagram is lower than an unbound electron state.]] The potential energy of an electron in an atom is negative, its dependence of its position reaches the minimum (the most absolute value) inside the nucleus, and vanishes when the distance from the nucleus goes to infinity, roughly in an inverse proportion to the distance. In the quantum-mechanical model, a bound electron can only occupy a set of states centered on the nucleus, and each state corresponds to a specific energy level; see time-independent Schrödinger equation for theoretical explanation. An energy level can be measured by the amount of energy needed to unbind the electron from the atom, and is usually given in units of electronvolts (eV). The lowest energy state of a bound electron is called the ground state, i.e. stationary state, while an electron transition to a higher level results in an excited state.[113] The electron's energy raises when _n_ increases because the (average) distance to the nucleus increases. Dependence of the energy on is caused not by electrostatic potential of the nucleus, but by interaction between electrons.
 
 For an electron to transition between two different states, e.g. ground state to first excited state, it must absorb or emit a photon at an energy matching the difference in the potential energy of those levels, according to the Niels Bohr model, what can be precisely calculated by the Schrödinger equation. Electrons jump between orbitals in a particle-like fashion. For example, if a single photon strikes the electrons, only a single electron changes states in response to the photon; see Electron properties.
 
 The energy of an emitted photon is proportional to its frequency, so these specific energy levels appear as distinct bands in the electromagnetic spectrum.[114] Each element has a characteristic spectrum that can depend on the nuclear charge, subshells filled by electrons, the electromagnetic interactions between the electrons and other factors.[115]
-
-Fraunhofer_lines.svg
 
 When a continuous spectrum of energy is passed through a gas or plasma, some of the photons are absorbed by atoms, causing electrons to change their energy level. Those excited electrons that remain bound to their atom spontaneously emit this energy as a photon, traveling in a random direction, and so drop back to lower energy levels. Thus the atoms behave like a filter that forms a series of dark absorption bands in the energy output. (An observer viewing the atoms from a view that does not include the continuous spectrum in the background, instead sees a series of emission lines from the photons emitted by the atoms.) Spectroscopic measurements of the strength and width of atomic spectral lines allow the composition and physical properties of a substance to be determined.[116]
 
@@ -197,14 +193,14 @@ The chemical elements are often displayed in a periodic table that is laid out t
 
 States
 
-Bose_Einstein_condensate.png]] Quantities of atoms are found in different states of matter that depend on the physical conditions, such as temperature and pressure. By varying the conditions, materials can transition between solids, liquids, gases and plasmas.[126] Within a state, a material can also exist in different allotropes. An example of this is solid carbon, which can exist as graphite or diamond.[127] Gaseous allotropes exist as well, such as dioxygen and ozone.
+]] Quantities of atoms are found in different states of matter that depend on the physical conditions, such as temperature and pressure. By varying the conditions, materials can transition between solids, liquids, gases and plasmas.[126] Within a state, a material can also exist in different allotropes. An example of this is solid carbon, which can exist as graphite or diamond.[127] Gaseous allotropes exist as well, such as dioxygen and ozone.
 
 At temperatures close to absolute zero, atoms can form a Bose–Einstein condensate, at which point quantum mechanical effects, which are normally only observed at the atomic scale, become apparent on a macroscopic scale.[128][129] This super-cooled collection of atoms then behaves as a single super atom, which may allow fundamental checks of quantum mechanical behavior.[130]
 
 
 Identification
 
-Atomic_resolution_Au100.JPG image showing the individual atoms making up this gold (100) surface. The surface atoms deviate from the bulk crystal structure and arrange in columns several atoms wide with pits between them (See surface reconstruction).]] The scanning tunneling microscope is a device for viewing surfaces at the atomic level. It uses the quantum tunneling phenomenon, which allows particles to pass through a barrier that would normally be insurmountable. Electrons tunnel through the vacuum between two planar metal electrodes, on each of which is an adsorbed atom, providing a tunneling-current density that can be measured. Scanning one atom (taken as the tip) as it moves past the other (the sample) permits plotting of tip displacement versus lateral separation for a constant current. The calculation shows the extent to which scanning-tunneling-microscope images of an individual atom are visible. It confirms that for low bias, the microscope images the space-averaged dimensions of the electron orbitals across closely packed energy levels—the Fermi level local density of states.[131][132]
+image showing the individual atoms making up this gold (100) surface. The surface atoms deviate from the bulk crystal structure and arrange in columns several atoms wide with pits between them (See surface reconstruction).]] The scanning tunneling microscope is a device for viewing surfaces at the atomic level. It uses the quantum tunneling phenomenon, which allows particles to pass through a barrier that would normally be insurmountable. Electrons tunnel through the vacuum between two planar metal electrodes, on each of which is an adsorbed atom, providing a tunneling-current density that can be measured. Scanning one atom (taken as the tip) as it moves past the other (the sample) permits plotting of tip displacement versus lateral separation for a constant current. The calculation shows the extent to which scanning-tunneling-microscope images of an individual atom are visible. It confirms that for low bias, the microscope images the space-averaged dimensions of the electron orbitals across closely packed energy levels—the Fermi level local density of states.[131][132]
 
 An atom can be ionized by removing one of its electrons. The electric charge causes the trajectory of an atom to bend when it passes through a magnetic field. The radius by which the trajectory of a moving ion is turned by the magnetic field is determined by the mass of the atom. The mass spectrometer uses this principle to measure the mass-to-charge ratio of ions. If a sample contains multiple isotopes, the mass spectrometer can determine the proportion of each isotope in the sample by measuring the intensity of the different beams of ions. Techniques to vaporize atoms include inductively coupled plasma atomic emission spectroscopy and inductively coupled plasma mass spectrometry, both of which use a plasma to vaporize samples for analysis.[133]
 

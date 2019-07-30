@@ -1,4 +1,4 @@
-Cognitive_Science_Hexagon.svg, neuroscience, artificial intelligence, philosophy, anthropology, and psychology[1]]] COGNITIVE SCIENCE is the interdisciplinary, scientific study of the mind and its processes.[2] It examines the nature, the tasks, and the functions of cognition (in a broad sense). Cognitive scientists study intelligence and behavior, with a focus on how nervous systems represent, process, and transform information. Mental faculties of concern to cognitive scientists include language, perception, memory, attention, reasoning, and emotion; to understand these faculties, cognitive scientists borrow from fields such as linguistics, psychology, artificial intelligence, philosophy, neuroscience, and anthropology.[3] The typical analysis of cognitive science spans many levels of organization, from learning and decision to logic and planning; from neural circuitry to modular brain organization. The fundamental concept of cognitive science is that "thinking can best be understood in terms of representational structures in the mind and computational procedures that operate on those structures."[4]
+, neuroscience, artificial intelligence, philosophy, anthropology, and psychology[1]]] COGNITIVE SCIENCE is the interdisciplinary, scientific study of the mind and its processes.[2] It examines the nature, the tasks, and the functions of cognition (in a broad sense). Cognitive scientists study intelligence and behavior, with a focus on how nervous systems represent, process, and transform information. Mental faculties of concern to cognitive scientists include language, perception, memory, attention, reasoning, and emotion; to understand these faculties, cognitive scientists borrow from fields such as linguistics, psychology, artificial intelligence, philosophy, neuroscience, and anthropology.[3] The typical analysis of cognitive science spans many levels of organization, from learning and decision to logic and planning; from neural circuitry to modular brain organization. The fundamental concept of cognitive science is that "thinking can best be understood in terms of representational structures in the mind and computational procedures that operate on those structures."[4]
 
 Simply put: Cognitive Science is the interdisciplinary study of cognition in humans, animals, and machines. It encompasses the traditional disciplines of psychology, computer science, neuroscience, anthropology, linguistics and philosophy. The goal of cognitive science is to understand the principles of intelligence with the hope that this will lead to better comprehension of the mind and of learning and to develop intelligent devices. The cognitive sciences began as an intellectual movement in the 1950s often referred to as the cognitive revolution.
 
@@ -44,7 +44,7 @@ Attention is the selection of important information. The human mind is bombarded
 
 Knowledge and processing of language
 
-Cgisf-tgg.svg of a Phrase structure tree. This is one way of representing human language that shows how different components are organized hierarchically. ]]
+of a Phrase structure tree. This is one way of representing human language that shows how different components are organized hierarchically. ]]
 
 The ability to learn and understand language is an extremely complex process. Language is acquired within the first few years of life, and all humans under normal circumstances are able to acquire language proficiently. A major driving force in the theoretical linguistic field is discovering the nature that language must have in the abstract in order to be learned in such a fashion. Some of the driving research questions in studying how the brain itself processes language include: (1) To what extent is linguistic knowledge innate or learned?, (2) Why is it more difficult for adults to acquire a second-language than it is for infants to acquire their first-language?, and (3) How are humans able to understand novel sentences?
 
@@ -68,7 +68,7 @@ Cognitive scientists study memory just as psychologists do, but tend to focus mo
 
 Perception and action
 
-Necker_cube.svg, an example of an optical illusion]] Checker_shadow_illusion.svg.]]
+, an example of an optical illusion]] .]]
 
 Perception is the ability to take in information via the senses, and process it in some way. Vision and hearing are two dominant senses that allow us to perceive the environment. Some questions in the study of visual perception, for example, include: (1) How are we able to recognize objects?, (2) Why do we perceive a continuous visual environment, even though we only see small bits of it at any one time? One tool for studying visual perception is by looking at how people process optical illusions. The image on the right of a Necker cube is an example of a bistable percept, that is, the cube can be interpreted as being oriented in two different directions.
 
@@ -97,7 +97,7 @@ In order to have a description of what constitutes intelligent behavior, one mus
 
 Brain imaging
 
-Hypothalamus.jpg.]]
+.]]
 
 Brain imaging involves analyzing activity within the brain while performing various tasks. This allows us to link behavior and brain function to help understand how information is processed. Different types of imaging techniques vary in their temporal (time-based) and spatial (location-based) resolution. Brain imaging is often used in cognitive neuroscience.
 
@@ -109,7 +109,7 @@ Brain imaging involves analyzing activity within the brain while performing vari
 
 Computational modeling
 
-Multi-Layer_Neural_Network-Vector.svg with two layers.]]
+with two layers.]]
 
 Computational models require a mathematically and logically formal representation of a problem. Computer models are used in the simulation and experimental verification of different specific and general properties of intelligence. Computational modeling can help us understand the functional organization of a particular cognitive phenomenon. Approaches to cognitive modeling can be categorized as: (1) symbolic, on abstract mental functions of an intelligent mind by means of symbols; (2) subsymbolic, on the neural and associative properties of the human brain; and (3) across the symbolic–subsymbolic border, including hybrid.
 

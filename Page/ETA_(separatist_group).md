@@ -9,7 +9,7 @@ ETA's motto was ("Keep up on both"), referring to the two figures in its symbol,
 
 Structure
 
-ArmaTiroPumEtaMilikiliklik26_8.jpg of 2006]]
+of 2006]]
 
 ETA changed its internal structure on several occasions, commonly for security reasons. The group used to have a very hierarchical organization with a leading figure at the top, delegating into three substructures: the logistical, military and political sections. Reports from Spanish and French police pointed towards significant changes in ETA's structures in its later years. ETA divided the three substructures into a total of eleven. The change was a response to captures, and possible infiltration, by the different law enforcement agencies. ETA's intention was to disperse its members and reduce the impact of detentions.
 
@@ -26,7 +26,7 @@ ETA also promoted the _kale borroka_ ("street fight"), that is, violent acts aga
 
 Political support
 
-EuskadiTaAskatasunaMural.JPG]]
+]]
 
 The former political party Batasuna, disbanded in 2003, pursued the same political goals as ETA and did not condemn ETA's use of violence. Formerly known as Euskal Herritarrok and "Herri Batasuna", it was banned by the Spanish Supreme Court as an anti-democratic organisation following the Political Parties Law (_Ley de Partidos Políticos_[31]), It generally received 10% to 20% of the vote in the Basque Autonomous Community.[32][33]
 
@@ -48,7 +48,7 @@ In February 2011, Sortu, a party described as "the new Batasuna",[40] was launch
 
 Social support
 
-ETA_Pasajes_2003_06_28.jpg (2003). "ETA, the people with you" on the left, and Batasuna using several nationalist symbols asking for "Independence!"]]
+(2003). "ETA, the people with you" on the left, and Batasuna using several nationalist symbols asking for "Independence!"]]
 
 The Spanish transition to democracy from 1975 on and ETA's progressive radicalisation have resulted in a steady loss of support, which became especially apparent at the time of their 1997 kidnapping and countdown assassination of Miguel Ángel Blanco. Their loss of sympathisers has been reflected in an erosion of support for the political parties identified with them. In the 1998 Basque parliament elections Euskal Herritarrok, formerly Batasuna, polled 17.7% of the votes.[43] However, by 2001 the party's support had fallen to 10.0%.[44] There were also concerns that Spain's "judicial offensive" against alleged ETA supporters (two Basque political parties and one NGO were banned in September 2008) constitute a threat to human rights. Strong evidence was seen that a legal network had grown so wide as to lead to the arrest of numerous innocent people. According to Amnesty International, torture was still "persistent", though not "systematic." Inroads could be undermined by judicial short-cuts and abuses of human rights.[45]
 
@@ -69,7 +69,7 @@ ETA grew out of a student group called Ekin, founded in the early 1950s, which p
 
 ETA held their first assembly in Bayonne, France, in 1962, during which a "declaration of principles" was formulated and following which a structure of activist cells was developed.[54] Subsequently, Marxist and third-worldist perspectives developed within ETA, becoming the basis for a political programme set out in Federico Krutwig's 1963 book _Vasconia_, which is considered to be the defining text of the movement. In contrast to previous Basque nationalist platforms, Krutwig's vision was anti-religious and based upon language and culture rather than race.[55] ETA's third and fourth assemblies, held in 1964 and 1965, adopted an anti-capitalist and anti-imperialist position, seeing nationalism and the class struggle as intrinsically connected.[56]
 
-Placa_Carrero_Blanco.jpg]]
+]]
 
 Some sources attribute the 1960 bombing of the Amara station in Donostia-San Sebastian (which killed a 22-month-old child) to ETA,[57][58] but statistics published by the Spanish Ministry of the Interior have always showed that ETA's first victim was killed in 1968.[59] The 1960 attack was claimed by the Portuguese and Spanish left-wing group DRIL (together with four other very similar bombings committed that same day across Spain, all of them attributed to DRIL[60]), and the attribution to ETA has been considered to be unfounded by the researchers.[61][62][63][64] Police documents dating from 1961, released in 2013, show that the DRIL was indeed the author of the bombing.[65]
 
@@ -129,7 +129,7 @@ During this period, the Spanish government had a policy referred to as "reinsert
 
 In the event, the only clear effect of this policy was to incite social protest, especially from nationalists and families of the prisoners, claiming cruelty of separating family members from the insurgents. Much of the protest against this policy runs under the slogan "_Euskal Presoak – Euskal Herrira_" (_Basque prisoners to the Basque Country_, by "Basque prisoners" only ETA members are meant). It has to be noted that almost in any Spanish jail there is a group of ETA prisoners, as the number of ETA prisoners makes it difficult to disperse them.
 
-EPPK_2008.jpg'' ("Pro-Amnesty Managing Assemblies", currently illegal)]]
+'' ("Pro-Amnesty Managing Assemblies", currently illegal)]]
 
 _Gestoras pro Amnistía/Amnistiaren Aldeko Batzordeak_ ("Pro-Amnesty Managing Assemblies", currently illegal), later _Askatasuna_ ("Freedom") and _Senideak_ ("The family members") provided support for prisoners and families. The Basque Government and several Nationalist town halls granted money on humanitarian reasons for relatives to visit prisoners. The long road trips have caused accidental deaths that are protested against by Nationalist Prisoner's Family supporters.
 
@@ -159,8 +159,6 @@ ETA was initially blamed for the 2004 Madrid bombings by the outgoing government
 
 2006 ceasefire declaration and subsequent discontinuation
 
-Atentado_de_ETA_en_el_aeropuerto_de_Madrid_Barajas4.jpg
-
 In the context of negotiation with the Spanish government, ETA declared what it described as a "truce" a number of times since its creation.
 
 On 22 March 2006, ETA sent a DVD message to the Basque Network Euskal Irrati-Telebista[90] and the journals _Gara_[91] and Berria with a communiqué from the group announcing what it called a "permanent ceasefire" that was broadcast over Spanish TV.
@@ -189,7 +187,7 @@ The announcement was met with a mixed reaction; Basque nationalist politicians r
 
 2011 permanent ceasefire and cessation of armed activity
 
-Konferentzia.ogv (17 October 2011) led to an announcement of cessation of armed activity by ETA.]]
+(17 October 2011) led to an announcement of cessation of armed activity by ETA.]]
 
 On 10 January 2011, ETA declared that their September 2010 ceasefire would be permanent and verifiable by international observers.[103] Observers urged caution, pointing out that ETA had broken permanent ceasefires in the past,[104] whereas Prime Minister José Luis Rodríguez Zapatero (who left office in December 2011) demanded that ETA declare that it had given up violence once and for all.[105] After the declaration, Spanish press started speculating of a possible Real IRA-type split within ETA, with hardliners forming a new more violent offshoot led by "Dienteputo".[106][107][108]
 
@@ -218,14 +216,14 @@ Victims
 
 ETA's targets expanded from military or police-related personnel and their families, to a wider array, which included the following:
 
-Txema_Agirre_Plaza_placa.jpg officer José "Txema" Agirre, shot dead by ETA gunmen in 1997 while protecting the Guggenheim Bilbao Museum (visible in the background)]]
+officer José "Txema" Agirre, shot dead by ETA gunmen in 1997 while protecting the Guggenheim Bilbao Museum (visible in the background)]]
 
 -   Spanish military and police personnel, active duty or retired.[129] The barracks of the Guardia Civil also provide housing for their families, thus, attacks on the barracks have also resulted in deaths of relatives, including children. As the regional police (Ertzaintza in the Basque Country and Mossos d'Esquadra in Catalonia) took a greater role in combating ETA, they were added to their list of targets.
 -   Businessmen (such as Javier Ybarra, Joxe Mari Korta or Ignacio Uria Mendizabal):[130] these are mainly targeted in order to extort them for the so-called "revolutionary tax". Refusal to pay has been punished with assassinations, kidnappings for ransom or bombings of their business.
 -   Prison officers such as José Antonio Ortega Lara.
 -   Elected parliamentarians, city councillors and ex-councillors, politicians in general: most prominently Luis Carrero Blanco, killed in 1973). Dozens of politicians belonging to the People's Party (PP) and Spanish Socialist Workers' Party (PSOE) were assassinated or maimed. Some Basque nationalist politicians from the PNV party, such as Juan Mari Atutxa, also received threats. Hundreds of politicians in Spain required a constant bodyguard service. Bodyguards are contingent victims as well. In 2005 ETA announced that it would no longer "target" elected politicians.[131] Nonetheless, ETA killed ex-council member Isaías Carrasco in Mondragon/Arrasate on 7 March 2008.[132]
 
-Balmasedako_auzitegia_2006.jpg law courts after a bombing in 2006]]
+law courts after a bombing in 2006]]
 
 -   Judges and prosecutors.[133] Particularly threatened were the members of the Spanish anti-terrorist court: the _Audiencia Nacional_.
 -   University professors who publicly expressed ideas that countered armed Basque separatism: such as Manuel Broseta or Francisco Tomás y Valiente. In the latter case, the shooting resulted in more than half a million people protesting against ETA.[134]
@@ -351,7 +349,7 @@ Extant
 
 International links
 
-Divis_Street_Murals,_Belfast,_May_2011_(05).JPG showing solidarity with the Basque nationalism.]]
+showing solidarity with the Basque nationalism.]]
 
 -   ETA is known to have had 'fraternal' contacts with the Provisional Irish Republican Army; the two groups have both, at times, characterized their struggles as parallel. Links between the two groups go back to at least March 1974.[177][178] ETA purchased Strela 2 surface-to-air missiles from the IRA and in 2001 unsuccessfully attempted to shoot down a jet carrying the Spanish Prime Minister, Jose Maria Aznar.[179] It has also had links with other militant left-wing movements in Europe and in other places throughout the world.
 -   In 1999 ETA commandos teamed up with the (now self-dissolved) Breton Revolutionary Army to steal explosives from magazines in Brittany.

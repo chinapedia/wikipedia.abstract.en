@@ -1,13 +1,11 @@
-CAPRICORNUS is one of the constellations of the zodiac. Its name is Latin for "horned goat" or "goat horn" or "having horns like a goat's", and it is commonly represented in the form of a sea-goat: a mythical creature that is half goat, half fish. Its symbol is Capricorn_symbol_2.png (Unicode ♑).
+CAPRICORNUS is one of the constellations of the zodiac. Its name is Latin for "horned goat" or "goat horn" or "having horns like a goat's", and it is commonly represented in the form of a sea-goat: a mythical creature that is half goat, half fish. Its symbol is (Unicode ♑).
 
 Capricornus is one of the 88 modern constellations, and was also one of the 48 constellations listed by the 2nd century astronomer Ptolemy. Under its modern boundaries it is bordered by Aquila, Sagittarius, Microscopium, Piscis Austrinus, and Aquarius. The constellation is located in an area of sky called the Sea or the Water, consisting of many water-related constellations such as Aquarius, Pisces and Eridanus. It is the smallest constellation in the zodiac.
 
 
 Notable features
 
-CapricornusCC.jpg
-
-Messier_30_Hubble_WikiSky.jpg.]]
+.]]
 
 Stars
 
@@ -41,9 +39,9 @@ The planet Neptune was discovered by German astronomer Johann Galle, near Deneb 
 
 Visualizations
 
-Sidney_Hall_-_Urania's_Mirror_-_Capricornus.jpg'' (1825).]] Capricornus's brighter stars are found on a triangle whose vertices are α² Capricorni (Giedi), δ Capricorni (Deneb Algiedi), and ω Capricorni. Ptolemy's method of connecting the stars of Capricornus has been influential.[8] Capricornus is usually drawn as a goat with the tail of a fish.
+'' (1825).]] Capricornus's brighter stars are found on a triangle whose vertices are α² Capricorni (Giedi), δ Capricorni (Deneb Algiedi), and ω Capricorni. Ptolemy's method of connecting the stars of Capricornus has been influential.[8] Capricornus is usually drawn as a goat with the tail of a fish.
 
-Capricornus_constellation_map_visualization.PNG H. A. Rey has suggested an alternative visualization, which graphically shows a goat.[9] The goat's head is formed by the triangle of stars ι Cap, θ Cap, and ζ Cap. The goat's horn sticks out with stars γ Cap and δ Cap. Star δ Cap, at the tip of the horn, is of the third magnitude. The goat's tail consists of stars β Cap and α² Cap: star β Cap being of the third magnitude. The goat's hind foot consists of stars ψ Cap and ω Cap. Both of these stars are of the fourth magnitude.
+H. A. Rey has suggested an alternative visualization, which graphically shows a goat.[9] The goat's head is formed by the triangle of stars ι Cap, θ Cap, and ζ Cap. The goat's horn sticks out with stars γ Cap and δ Cap. Star δ Cap, at the tip of the horn, is of the third magnitude. The goat's tail consists of stars β Cap and α² Cap: star β Cap being of the third magnitude. The goat's hind foot consists of stars ψ Cap and ω Cap. Both of these stars are of the fourth magnitude.
 
 
 Equivalents

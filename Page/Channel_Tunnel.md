@@ -17,7 +17,7 @@ In 1802, Albert Mathieu-Favier, a French mining engineer, put forward a proposal
 
 In 1839, Aimé Thomé de Gamond, a Frenchman, performed the first geological and hydrographical surveys on the Channel, between Calais and Dover. Thomé de Gamond explored several schemes and, in 1856, he presented a proposal to Napoleon III for a mined railway tunnel from Cap Gris-Nez to Eastwater Point with a port/airshaft on the Varne sandbank[26] at a cost of 170 million francs, or less than £7 million.[27]
 
-Channel_Tunnel_1856_idea_from_Gamond_1a.png mid-Channel]]
+mid-Channel]]
 
 In 1865, a deputation led by George Ward Hunt proposed the idea of a tunnel to the Chancellor of the Exchequer of the day, William Ewart Gladstone.[28]
 
@@ -52,8 +52,6 @@ The cross-Channel ferry industry protested under the name "Flexilink". In 1975 t
 
 Arrangement
 
-Channel_Tunnel_project_relations_flow_chart_1.svg
-
 The British _Channel Tunnel Group_ consisted of two banks and five construction companies, while their French counterparts, _France–Manche_, consisted of three banks and five construction companies. The role of the banks was to advise on financing and secure loan commitments. On 2 July 1985, the groups formed Channel Tunnel Group/France–Manche (CTG/F–M). Their submission to the British and French governments was drawn from the 1975 project, including 11 volumes and a substantial environmental impact statement.[45]
 
 The design and construction was done by the ten construction companies in the CTG/F-M group. The French terminal and boring from Sangatte was undertaken by the five French construction companies in the joint venture group _GIE Transmanche Construction_. The English Terminal and boring from Shakespeare Cliff was undertaken by the five British construction companies in the _Translink Joint Venture_. The two partnerships were linked by TransManche Link (TML), a bi-national project organisation.[46] The Maître d'Oeuvre was a supervisory engineering body employed by Eurotunnel under the terms of the concession that monitored project activity and reported back to the governments and banks.[47]
@@ -72,7 +70,7 @@ Tunnelling commenced in 1988, and the tunnel began operating in 1994.[55] In 198
 
 Completion
 
-319008_at_Sandling.jpg EMUs ran excursions trips into the tunnel from Sandling railway station on 7 May 1994, the first passenger trains to do so]]
+EMUs ran excursions trips into the tunnel from Sandling railway station on 7 May 1994, the first passenger trains to do so]]
 
 A two-inch (50-mm) diameter pilot hole allowed the service tunnel to break through without ceremony on 30 October 1990.[60] On 1 December 1990, Englishman Graham Fagg and Frenchman Phillippe Cozette broke through the service tunnel with the media watching.[61] Eurotunnel completed the tunnel on time.[62] (A BBC TV television commentator called Graham Fagg "the first man to cross the Channel by land for 8000 years".)
 
@@ -85,7 +83,7 @@ In 1994, the American Society of Civil Engineers elected the tunnel as one of th
 
 Engineering
 
-Channel_Tunnel_NRM.jpg in York, England, showing the circular cross section of the tunnel with the overhead line powering a Eurostar train. Also visible is the segmented tunnel lining]]
+in York, England, showing the circular cross section of the tunnel with the overhead line powering a Eurostar train. Also visible is the segmented tunnel lining]]
 
 Surveying undertaken in the 20 years before construction confirmed earlier speculations that a tunnel could be bored through a chalk marl stratum. The chalk marl is conducive to tunnelling, with impermeability, ease of excavation and strength. The chalk marl runs along the entire length of the English side of the tunnel, but on the French side a length of has variable and difficult geology. The tunnel consists of three bores: two diameter rail tunnels, apart, in length with a diameter service tunnel in between. The three bores are connected by cross-passages and piston relief ducts. The service tunnel was used as a pilot tunnel, boring ahead of the main tunnels to determine the conditions. English access was provided at Shakespeare Cliff, French access from a shaft at Sangatte. The French side used five tunnel boring machines (TBMs), the English side six. The service tunnel uses Service Tunnel Transport System (STTS) and Light Service Tunnel Vehicles (LADOGS). Fire safety was a critical design issue.
 
@@ -93,7 +91,7 @@ Between the portals at Beussingue and Castle Hill the tunnel is long, with under
 
 Geology
 
-Channel_Tunnel_geological_profile_1.svg stratum (layer)]]
+stratum (layer)]]
 
 Successful tunnelling required a sound understanding of the topography and geology and the selection of the best rock strata through which to dig. The geology of this site generally consists of northeasterly dipping Cretaceous strata, part of the northern limb of the Wealden-Boulonnais dome. Characteristics include:
 
@@ -115,8 +113,6 @@ Given the previous survey results and access constraints, a more southerly route
 
 Tunnelling
 
-Eurotunnel_schema_(empty_service).svg
-
 Tunnelling was a major engineering challenge, with the only precedent being the undersea Seikan Tunnel in Japan, which opened in 1988. A serious risk with underwater tunnels is major water inflow due to the pressure from the sea above, under weak ground conditions. The tunnel also had the challenge of time: being privately funded, early financial return was paramount.
 
 The objective was to construct two rail tunnels, apart, in length; a service tunnel between the two main ones; pairs of cross-passages linking the rail tunnels to the service one at spacing; piston relief ducts in diameter connecting the rail tunnels apart; two undersea crossover caverns to connect the rail tunnels,[82] with the service tunnel always preceding the main ones by at least to ascertain the ground conditions. There was plenty of experience with excavating through chalk in the mining industry, while the undersea crossover caverns were a complex engineering problem. The French one was based on the Mount Baker Ridge freeway tunnel in Seattle; the UK cavern was dug from the service tunnel ahead of the main ones, to avoid delay.
@@ -135,7 +131,7 @@ The 11 TBM's were designed and manufactured through a joint venture between Robb
 
 Railway design
 
-ETunnelhoch.jpg, used to carry motor vehicles through the Channel Tunnel (cars are unable to be driven through it) between its two termini. This shuttle is the largest railway wagon in the world.[92] ]]
+, used to carry motor vehicles through the Channel Tunnel (cars are unable to be driven through it) between its two termini. This shuttle is the largest railway wagon in the world.[92] ]]
 
 Loading Gauge
 

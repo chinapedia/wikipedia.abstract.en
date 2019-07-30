@@ -9,11 +9,11 @@ WILD CELERY, _Apium graveolens_ var. _graveolens_, grows to tall. It occurs arou
 
 North of the alps wild celery is found only in the foothill zone on soils with some salt content. It prefers moist or wet, nutrient rich, muddy soils. It cannot be found in Austria and is increasingly rare in Germany.[4]
 
-  Cultivar      Image                     Name
-  ------------- ------------------------- --------------------------------------
-  Celery        Céleri.jpg                _Apium graveolens_ var. _graveolens_
-  Celeriac      Tselina.png               _Apium graveolens_ var. _rapaceum_
-  Leaf celery   Celery_(2905891576).jpg   _Apium graveolens_ var. _secalinum_
+  Cultivar      Image   Name
+  ------------- ------- --------------------------------------
+  Celery                _Apium graveolens_ var. _graveolens_
+  Celeriac              _Apium graveolens_ var. _rapaceum_
+  Leaf celery           _Apium graveolens_ var. _secalinum_
 
 
 Etymology
@@ -23,7 +23,7 @@ First attested in English in 1664, the word "celery" derives from the French _c�
 
 Taxonomy
 
-Celery_cross_section.jpg Celery was described by Carl Linnaeus in Volume One of his _Species Plantarum_ in 1753.[9]
+Celery was described by Carl Linnaeus in Volume One of his _Species Plantarum_ in 1753.[9]
 
 
 Cultivation
@@ -44,7 +44,7 @@ In Europe, another popular variety is celeriac (also known as _celery root_), _A
 
 Asia
 
-Chinese_celery.jpg Leaf celery (Chinese celery, _Apium graveolens var. secalinum_) is a cultivar from East Asia that grows in marshlands. Leaf celery is most likely the oldest cultivated form of celery. Leaf celery has characteristically thin skin stalks and a stronger taste and smell compared to other cultivars. It is used as a flavoring in soups and sometimes pickled as a side dish.[15]
+Leaf celery (Chinese celery, _Apium graveolens var. secalinum_) is a cultivar from East Asia that grows in marshlands. Leaf celery is most likely the oldest cultivated form of celery. Leaf celery has characteristically thin skin stalks and a stronger taste and smell compared to other cultivars. It is used as a flavoring in soups and sometimes pickled as a side dish.[15]
 
 Wild
 
@@ -55,7 +55,7 @@ Because wild celery is rarely eaten, yet susceptible to the same diseases as mor
 
 Harvesting and storage
 
-Celery_Cells_(400x).jpg Harvesting occurs when the average size of celery in a field is marketable; due to extremely uniform crop growth, fields are harvested only once. The petioles and leaves are removed and harvested; celery is packed by size and quality (determined by color, shape, straightness and thickness of petiole, stalk and midrib length and absence of disease, cracks, splits, insect damage and rot). During commercial harvesting, celery is packaged into cartons which contain between 36 and 48 stalks and weigh up to .[18] Under optimal conditions, celery can be stored for up to seven weeks between . Inner stalks may continue growing if kept at temperatures above . Shelf life can be extended by packaging celery in anti-fogging, micro-perforated shrink wrap.[19] Freshly cut petioles of celery are prone to decay, which can be prevented or reduced through the use of sharp blades during processing, gentle handling, and proper sanitation.[20]
+Harvesting occurs when the average size of celery in a field is marketable; due to extremely uniform crop growth, fields are harvested only once. The petioles and leaves are removed and harvested; celery is packed by size and quality (determined by color, shape, straightness and thickness of petiole, stalk and midrib length and absence of disease, cracks, splits, insect damage and rot). During commercial harvesting, celery is packaged into cartons which contain between 36 and 48 stalks and weigh up to .[18] Under optimal conditions, celery can be stored for up to seven weeks between . Inner stalks may continue growing if kept at temperatures above . Shelf life can be extended by packaging celery in anti-fogging, micro-perforated shrink wrap.[19] Freshly cut petioles of celery are prone to decay, which can be prevented or reduced through the use of sharp blades during processing, gentle handling, and proper sanitation.[20]
 
 Celery stalk may be preserved through pickling by first removing the leaves, then boiling the stalks in water before finally adding vinegar, salt, and vegetable oil.
 
@@ -65,8 +65,6 @@ In the past, restaurants used to store celery in a container of water with powde
 
 
 Uses
-
-CelerySeedEssOil.png
 
 Celery is eaten around the world as a vegetable. In North America the crisp petiole (leaf stalk) is used. In Europe the hypocotyl is used as a root vegetable. The leaves are strongly flavored and are used less often, either as a flavoring in soups and stews or as a dried herb. Celery, onions, and bell peppers are the "holy trinity" of Louisiana Creole and Cajun cuisine. Celery, onions, and carrots make up the French mirepoix, often used as a base for sauces and soups. Celery is a staple in many soups, such as chicken noodle soup.
 
@@ -87,8 +85,6 @@ Celery salt
 The seeds can be ground and mixed with salt, to produce celery salt. Celery salt can be made from an extract of the roots or using dried leaves. Celery salt is used as a seasoning, in cocktails (notably to enhance the flavor of Bloody Mary cocktails), on the Chicago-style hot dog, and in Old Bay Seasoning.
 
 Herbalism
-
-Celery_seed.jpg
 
 Celery seeds have been used widely in Eastern herbal traditions such as Ayurveda.[25] Aulus Cornelius Celsus wrote that celery seeds could relieve pain in around AD 30.[26]
 
@@ -116,7 +112,7 @@ The main chemicals responsible for the aroma and taste of celery are butylphthal
 
 History
 
-Selinos_didrachm_ANS_685_670331.jpg didrachm coin bearing a _selinon_ (celery) leaf, circa 515–470 BC.]] Daniel Zohary and Maria Hopf[36] note that celery leaves and inflorescences were part of the garlands found in the tomb of pharaoh Tutankhamun (died 1323 BC), and celery mericarps dated to the seventh century BC were recovered in the Heraion of Samos. However, they note "since _A. graveolens_ grows wild in these areas, it is hard to decide whether these remains represent wild or cultivated forms." Only by classical times is it certain that celery was cultivated.
+didrachm coin bearing a _selinon_ (celery) leaf, circa 515–470 BC.]] Daniel Zohary and Maria Hopf[36] note that celery leaves and inflorescences were part of the garlands found in the tomb of pharaoh Tutankhamun (died 1323 BC), and celery mericarps dated to the seventh century BC were recovered in the Heraion of Samos. However, they note "since _A. graveolens_ grows wild in these areas, it is hard to decide whether these remains represent wild or cultivated forms." Only by classical times is it certain that celery was cultivated.
 
 M. Fragiska mentions an archeological find of celery dating to the 9th century BC, at Kastanas; however, the literary evidence for ancient Greece is far more abundant. In Homer's _Iliad_, the horses of the Myrmidons graze on wild celery that grows in the marshes of Troy, and in _Odyssey_, there is mention of the meadows of violet and wild celery surrounding the cave of Calypso.[37]
 
@@ -132,7 +128,7 @@ After the mid-19th century, continued selections for refined crisp texture and t
 
 Cultural depictions
 
-Celery_(apium).jpg'' illustration from Barbarus Apuleius' _Herbarium_, c. 1400.]]
+'' illustration from Barbarus Apuleius' _Herbarium_, c. 1400.]]
 
 A chthonian symbol among the ancient Greeks, celery was said to have sprouted from the blood of Kadmilos, father of the Cabeiri, chthonian divinities celebrated in Samothrace, Lemnos, and Thebes. The spicy odor and dark leaf color encouraged this association with the cult of death. In classical Greece, celery leaves were used as garlands for the dead, and the wreaths of the winners at the Isthmian Games were first made of celery before being replaced by crowns made of pine. According to Pliny the Elder[44] in Achaea, the garland worn by the winners of the sacred Nemean Games was also made of celery.[45] The Ancient Greek colony of Selinous (, _Selinous_), on Sicily, was named after wild parsley that grew abundantly there; Selinountian coins depicted a parsley leaf as the symbol of the city.
 

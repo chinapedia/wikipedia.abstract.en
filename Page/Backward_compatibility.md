@@ -1,4 +1,4 @@
-Wii-gamecube-compatibility.jpg video game console, which usually uses wireless controllers, is also backwardly compatible with those from Nintendo's earlier GameCube console, along with said system's games.]]
+video game console, which usually uses wireless controllers, is also backwardly compatible with those from Nintendo's earlier GameCube console, along with said system's games.]]
 
 BACKWARD COMPATIBILITY is a property of a system, product, or technology that allows for interoperability with an older legacy system, or with input designed for such a system, especially in telecommunications and computing. Backward compatibility is sometimes also called DOWNWARD COMPATIBILITY.[1]
 

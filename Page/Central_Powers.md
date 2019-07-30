@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------------------
 
-|p1 = Dual Alliance (1879) |p2 = Triple Alliance (1882) |p3 = Ottoman–German alliance |p4 = Ottoman–Bulgarian alliance |p5 = Bulgaria–Germany treaty (1915) }} Leaders_of_the_Central_Powers_-_Vierbund.jpg of Germany; |Kaiser and King Franz Joseph of Austria-Hungary; |Sultan Mehmed V of the Ottoman Empire; |Tsar Ferdinand I of Bulgaria.}}]]
+|p1 = Dual Alliance (1879) |p2 = Triple Alliance (1882) |p3 = Ottoman–German alliance |p4 = Ottoman–Bulgarian alliance |p5 = Bulgaria–Germany treaty (1915) }} of Germany; |Kaiser and King Franz Joseph of Austria-Hungary; |Sultan Mehmed V of the Ottoman Empire; |Tsar Ferdinand I of Bulgaria.}}]]
 
 The CENTRAL POWERS (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the QUADRUPLE ALLIANCE[1] ()—was one of the two main coalitions that fought World War I (1914–18).
 
@@ -16,8 +16,6 @@ It faced and was defeated by the Allied Powers that had formed around the Triple
 Member states
 
 The Central Powers consisted of the German Empire and the Austro-Hungarian Empire at the beginning of the war. The Ottoman Empire joined the Central Powers later in 1914. In 1915, the Kingdom of Bulgaria joined the alliance. The name "Central Powers" is derived from the location of these countries; all four (including the other groups that supported them except for Finland and Lithuania) were located between the Russian Empire in the east and France and the United Kingdom in the west. Finland, Azerbaijan, and Lithuania joined them in 1918 before the war ended and after the Russian Empire collapsed
-
-World_War_1.gif FR-WW1-1914.png
 
 The Central Powers were composed of the following nations:[2]
 
@@ -35,8 +33,6 @@ The Central Powers were composed of the following nations:[2]
 +--------+-----------------+
 |        |                 |
 +--------+-----------------+
-
-WorldWarI-MilitaryDeaths-CentralPowers-Piechart.svg
 
 +----------+----------+------------+---------------+-------------+----------------+
 |          |          | Population | Land          | GDP         | GDP per capita |
@@ -90,7 +86,7 @@ Germany
 
 War justifications
 
-German_infantry_1914_HD-SN-99-02296.JPEG Bundesarchiv_Bild_183-R42025,_Warschau,_Einmarsch_deutscher_Kavallerie.jpg in 1915.]] SMS_Seydlitz_damage.jpg.]] Fordi-2.jpg fighter aircraft of _Jasta_ 26 at Erchin in German-occupied territory of France.]] In early July 1914, in the aftermath of the assassination of Austro-Hungarian Archduke Franz Ferdinand and the immediate likelihood of war between Austria-Hungary and Serbia, Kaiser Wilhelm II and the German government informed the Austro-Hungarian government that Germany would uphold its alliance with Austria-Hungary and defend it from possible Russian intervention if a war between Austria-Hungary and Serbia took place.[6] When Russia enacted a general mobilization, Germany viewed the act as provocative.[7] The Russian government promised Germany that its general mobilization did not mean preparation for war with Germany but was a reaction to the events between Austria-Hungary and Serbia.[8] The German government regarded the Russian promise of no war with Germany to be nonsense in light of its general mobilization, and Germany, in turn, mobilized for war.[9] On 1 August, Germany sent an ultimatum to Russia stating that since both Germany and Russia were in a state of military mobilization, an effective state of war existed between the two countries.[10] Later that day, France, an ally of Russia, declared a state of general mobilization.[11]
+in 1915.]] .]] fighter aircraft of _Jasta_ 26 at Erchin in German-occupied territory of France.]] In early July 1914, in the aftermath of the assassination of Austro-Hungarian Archduke Franz Ferdinand and the immediate likelihood of war between Austria-Hungary and Serbia, Kaiser Wilhelm II and the German government informed the Austro-Hungarian government that Germany would uphold its alliance with Austria-Hungary and defend it from possible Russian intervention if a war between Austria-Hungary and Serbia took place.[6] When Russia enacted a general mobilization, Germany viewed the act as provocative.[7] The Russian government promised Germany that its general mobilization did not mean preparation for war with Germany but was a reaction to the events between Austria-Hungary and Serbia.[8] The German government regarded the Russian promise of no war with Germany to be nonsense in light of its general mobilization, and Germany, in turn, mobilized for war.[9] On 1 August, Germany sent an ultimatum to Russia stating that since both Germany and Russia were in a state of military mobilization, an effective state of war existed between the two countries.[10] Later that day, France, an ally of Russia, declared a state of general mobilization.[11]
 
 In August 1914, Germany waged war on Russia, the German government justified military action against Russia as necessary because of Russian aggression as demonstrated by the mobilization of the Russian army that had resulted in Germany mobilizing in response.[12]
 
@@ -122,7 +118,7 @@ German Samoa was a German protectorate following the Tripartite Convention. It w
 
 Austria-Hungary
 
-KuK_Stosstruppen.jpg Austrian_troops_marching_up_Mt._Zion,_1916.JPG in Jerusalem in the Ottoman Empire, during the Middle Eastern campaign.]]
+in Jerusalem in the Ottoman Empire, during the Middle Eastern campaign.]]
 
 War justifications
 
@@ -138,7 +134,7 @@ Austria-Hungary was internally divided into two states with their own government
 
 Ottoman Empire
 
-Muster_on_the_Plain_of_Esdraelon_1914.jpg in 1914.]] Bundesarchiv_Bild_146-1981-137-08A,_Konstantinopel,_Besuch_Kaiser_Wilhelm_II..jpg in October 1917 as a guest of Sultan Mehmed V.]]
+in 1914.]] in October 1917 as a guest of Sultan Mehmed V.]]
 
 War justifications
 
@@ -150,7 +146,7 @@ Bulgaria
 
 War justifications
 
-Bulgaria_southern_front.jpg Bulgaria was still resentful after its defeat in July 1913 at the hands of Serbia, Greece and Romania. It signed a treaty of defensive alliance with the Ottoman Empire on 19 August 1914. It was the last country to join the Central Powers, which Bulgaria did in October 1915 by declaring war on Serbia. It invaded Serbia in conjunction with German and Austro-Hungarian forces. Bulgaria held claims on the region of Vardar Macedonia then held by Serbia following the Balkan Wars of 1912–1913 and (from the Bulgarian point of view), the costly Treaty of Bucharest (1913).[28] As a condition of entering WW1 on the side of the Central Powers, Bulgaria was granted the right to reclaim that territory.[29][30]
+Bulgaria was still resentful after its defeat in July 1913 at the hands of Serbia, Greece and Romania. It signed a treaty of defensive alliance with the Ottoman Empire on 19 August 1914. It was the last country to join the Central Powers, which Bulgaria did in October 1915 by declaring war on Serbia. It invaded Serbia in conjunction with German and Austro-Hungarian forces. Bulgaria held claims on the region of Vardar Macedonia then held by Serbia following the Balkan Wars of 1912–1913 and (from the Bulgarian point of view), the costly Treaty of Bucharest (1913).[28] As a condition of entering WW1 on the side of the Central Powers, Bulgaria was granted the right to reclaim that territory.[29][30]
 
 Declarations of war
 
@@ -275,7 +271,7 @@ States listed in this section were not officially members of the Central Powers,
 
  Ethiopia
 
-Iyasu_in_a_Muslim_Turban.png, ruler of Ethiopia until 1916 pictured in his Ottoman-style turban]] The Ethiopian Empire was officially neutral throughout World War I but widely suspected of sympathy for the Central Powers between 1915 and 1916. At the time, Ethiopia was one of the few independent states in Africa and a major power in the Horn of Africa. Its ruler, Lij Iyasu, was widely suspected of harbouring pro-Islamic sentiments and being sympathetic to the Ottoman Empire. The German Empire also attempted to reach out to Iyasu, dispatching several unsuccessful expeditions to the region to attempt to encourage it to collaborate in an Arab Revolt-style uprising in East Africa. One of the unsuccessful expeditions was led by Leo Frobenius, a celebrated ethnographer and personal friend of Kaiser Wilhelm II. Under Iyasu's directions, Ethiopia probably supplied weapons to the Muslim Dervish rebels during the Somaliland Campaign of 1915 to 1916, indirectly helping the Central Powers' cause.[40]
+, ruler of Ethiopia until 1916 pictured in his Ottoman-style turban]] The Ethiopian Empire was officially neutral throughout World War I but widely suspected of sympathy for the Central Powers between 1915 and 1916. At the time, Ethiopia was one of the few independent states in Africa and a major power in the Horn of Africa. Its ruler, Lij Iyasu, was widely suspected of harbouring pro-Islamic sentiments and being sympathetic to the Ottoman Empire. The German Empire also attempted to reach out to Iyasu, dispatching several unsuccessful expeditions to the region to attempt to encourage it to collaborate in an Arab Revolt-style uprising in East Africa. One of the unsuccessful expeditions was led by Leo Frobenius, a celebrated ethnographer and personal friend of Kaiser Wilhelm II. Under Iyasu's directions, Ethiopia probably supplied weapons to the Muslim Dervish rebels during the Somaliland Campaign of 1915 to 1916, indirectly helping the Central Powers' cause.[40]
 
 Fearing the rising influence of Iyasu and the Ottoman Empire, the Christian nobles of Ethiopia conspired against Iyasu over 1915. Iyasu was first excommunicated by the Ethiopian Orthodox Patriarch and eventually deposed in a coup d'état on 27 September 1916. A less pro-Ottoman regent, _Ras_ Tafari Makonnen, was installed on the throne.[41]
 

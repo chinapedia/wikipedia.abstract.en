@@ -1,4 +1,4 @@
-Human_leukocyte,_showing_golgi_-_TEM.jpg of Golgi apparatus, visible as a stack of semicircular black rings near the bottom. Numerous circular vesicles can be seen in proximity to the organelle.]] The GOLGI APPARATUS, also known as the GOLGI COMPLEX, GOLGI BODY, or simply the GOLGI, is an organelle found in most eukaryotic cells.[1] It was identified in 1897 by the Italian scientist Camillo Golgi and named after him in 1898.[2]
+of Golgi apparatus, visible as a stack of semicircular black rings near the bottom. Numerous circular vesicles can be seen in proximity to the organelle.]] The GOLGI APPARATUS, also known as the GOLGI COMPLEX, GOLGI BODY, or simply the GOLGI, is an organelle found in most eukaryotic cells.[1] It was identified in 1897 by the Italian scientist Camillo Golgi and named after him in 1898.[2]
 
 Part of the endomembrane system in the cytoplasm, the Golgi apparatus packages proteins into membrane-bound vesicles inside the cell before the vesicles are sent to their destination. The Golgi apparatus resides at the intersection of the secretory, lysosomal, and endocytic pathways. It is of particular importance in processing proteins for secretion, containing a set of glycosylation enzymes that attach various sugar monomers to proteins as the proteins move through the apparatus.
 
@@ -15,8 +15,6 @@ The subcellular localization of the Golgi apparatus varies among eukaryotes. In 
 
 Structure
 
-Blausen_0435_GolgiApparatus.png Golgi_apparatus_(borderless_version)-en.svg
-
 In most eukaryotes, the Golgi apparatus is made up of a series of compartments and is a collection of fused, flattened membrane-enclosed disks known as cisternae (singular: _cisterna_, also called "dictyosomes"), originating from vesicular clusters that bud off the endoplasmic reticulum. A mammalian cell typically contains 40 to 100 stacks of cisternae.[12] Between four and eight cisternae are usually present in a stack; however, in some protists as many as sixty cisternae have been observed.[13] This collection of cisternae is broken down into _cis_, medial, and _trans_ compartments, making up two main networks: the _cis_ Golgi network (CGN) and the _trans_ Golgi network (TGN). The CGN is the first cisternal structure, and the TGN is the final, from which proteins are packaged into vesicles destined to lysosomes, secretory vesicles, or the cell surface. The TGN is usually positioned adjacent to the stack, but can also be separate from it. The TGN may act as an early endosome in yeast and plants.[14]
 
 There are structural and organizational differences in the Golgi apparatus among eukaryotes. In some yeasts, Golgi stacking is not observed. _Pichia pastoris_ does have stacked Golgi, while _Saccharomyces cerevisiae_ does not.[15] In plants, the individual stacks of the Golgi apparatus seem to operate independently.[16]
@@ -28,8 +26,6 @@ In all eukaryotes, each cisternal stack has a _cis_ entry face and a _trans_ exi
 
 Function
 
-0314_Golgi_Apparatus.jpg
-
 The Golgi apparatus is a major collection and dispatch station of protein products received from the endoplasmic reticulum (ER). Proteins synthesized in the ER are packaged into vesicles, which then fuse with the Golgi apparatus. These cargo proteins are modified and destined for secretion via exocytosis or for use in the cell. In this respect, the Golgi can be thought of as similar to a post office: it packages and labels items which it then sends to different parts of the cell or to the extracellular space. The Golgi apparatus is also involved in lipid transport and lysosome formation.[20]
 
 The structure and function of the Golgi apparatus are intimately linked. Individual stacks have different assortments of enzymes, allowing for progressive processing of cargo proteins as they travel from the cisternae to the trans Golgi face.[21][22] Enzymatic reactions within the Golgi stacks occur exclusively near its membrane surfaces, where enzymes are anchored. This feature is in contrast to the ER, which has soluble proteins and enzymes in its lumen. Much of the enzymatic processing is post-translational modification of proteins. For example, phosphorylation of oligosaccharides on lysosomal proteins occurs in the early CGN.[23] _Cis_ cisterna are associated with the removal of mannose residues.[24][25] Removal of mannose residues and addition of N-acetylglucosamine occur in medial cisternae.[26] Addition of galactose and sialic acid occurs in the _trans_ cisternae.[27] Sulfation of tyrosines and carbohydrates occurs within the TGN.[28] Other general post-translational modifications of proteins include the addition of carbohydrates (glycosylation)[29] and phosphates (phosphorylation). Protein modifications may form a signal sequence that determines the final destination of the protein. For example, the Golgi apparatus adds a mannose-6-phosphate label to proteins destined for lysosomes. Another important function of the Golgi apparatus is in the formation of proteoglycans. Enzymes in the Golgi append proteins to glycosaminoglycans, thus creating proteoglycans.[30] Glycosaminoglycans are long unbranched polysaccharide molecules present in the extracellular matrix of animals.
@@ -37,7 +33,7 @@ The structure and function of the Golgi apparatus are intimately linked. Individ
 
 Vesicular transport
 
-Nucleus_ER_golgi.svg (orange) to Golgi apparatus (magenta). 1. Nuclear membrane; 2. Nuclear pore; 3. Rough endoplasmic reticulum (RER); 4. Smooth endoplasmic reticulum (SER); 5. Ribosome attached to RER; 6. Macromolecules; 7. Transport vesicles; 8. Golgi apparatus; 9. _Cis_ face of Golgi apparatus; 10. _Trans_ face of Golgi apparatus; 11. Cisternae of the Golgi Apparatus]]
+(orange) to Golgi apparatus (magenta). 1. Nuclear membrane; 2. Nuclear pore; 3. Rough endoplasmic reticulum (RER); 4. Smooth endoplasmic reticulum (SER); 5. Ribosome attached to RER; 6. Macromolecules; 7. Transport vesicles; 8. Golgi apparatus; 9. _Cis_ face of Golgi apparatus; 10. _Trans_ face of Golgi apparatus; 11. Cisternae of the Golgi Apparatus]]
 
 The vesicles that leave the rough endoplasmic reticulum are transported to the _cis_ face of the Golgi apparatus, where they fuse with the Golgi membrane and empty their contents into the lumen. Once inside the lumen, the molecules are modified, then sorted for transport to their next destinations.
 

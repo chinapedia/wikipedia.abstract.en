@@ -1,4 +1,4 @@
-6n-graf.svg like this are among the objects studied by discrete mathematics, for their interesting mathematical properties, their usefulness as models of real-world problems, and their importance in developing computer algorithms.]]
+like this are among the objects studied by discrete mathematics, for their interesting mathematical properties, their usefulness as models of real-world problems, and their importance in developing computer algorithms.]]
 
 DISCRETE MATHEMATICS is the study of mathematical structures that are fundamentally discrete rather than continuous. In contrast to real numbers that have the property of varying "smoothly", the objects studied in discrete mathematics – such as integers, graphs, and statements in logic[1] – do not vary smoothly in this way, but have distinct, separated values.[2][3] Discrete mathematics therefore excludes topics in "continuous mathematics" such as calculus or Euclidean geometry. Discrete objects can often be enumerated by integers. More formally, discrete mathematics has been characterized as the branch of mathematics dealing with countable sets[4] (finite sets or sets with the same cardinality as the natural numbers). However, there is no exact definition of the term "discrete mathematics."[5] Indeed, discrete mathematics is described less by what is included than by what is excluded: continuously varying quantities and related notions.
 
@@ -15,7 +15,7 @@ The Fulkerson Prize is awarded for outstanding papers in discrete mathematics.
 
 Grand challenges, past and present
 
-Four_Colour_Map_Example.svg was motivated by attempts to prove that all maps, like this one, can be colored using only four colors so that no areas of the same color share an edge. Kenneth Appel and Wolfgang Haken proved this in 1976.[10]]]
+was motivated by attempts to prove that all maps, like this one, can be colored using only four colors so that no areas of the same color share an edge. Kenneth Appel and Wolfgang Haken proved this in 1976.[10]]]
 
 The history of discrete mathematics has involved a number of challenging problems which have focused attention within areas of the field. In graph theory, much research was motivated by attempts to prove the four color theorem, first stated in 1852, but not proved until 1976 (by Kenneth Appel and Wolfgang Haken, using substantial computer assistance).[11]
 
@@ -34,11 +34,11 @@ Topics in discrete mathematics
 
 Theoretical computer science
 
-Sorting_quicksort_anim.gif studies the time taken by algorithms, such as this sorting routine.]] Theoretical computer science includes areas of discrete mathematics relevant to computing. It draws heavily on graph theory and mathematical logic. Included within theoretical computer science is the study of algorithms for computing mathematical results. Computability studies what can be computed in principle, and has close ties to logic, while complexity studies the time, space, and other resources taken by computations. Automata theory and formal language theory are closely related to computability. Petri nets and process algebras are used to model computer systems, and methods from discrete mathematics are used in analyzing VLSI electronic circuits. Computational geometry applies algorithms to geometrical problems, while computer image analysis applies them to representations of images. Theoretical computer science also includes the study of various continuous computational topics.
+studies the time taken by algorithms, such as this sorting routine.]] Theoretical computer science includes areas of discrete mathematics relevant to computing. It draws heavily on graph theory and mathematical logic. Included within theoretical computer science is the study of algorithms for computing mathematical results. Computability studies what can be computed in principle, and has close ties to logic, while complexity studies the time, space, and other resources taken by computations. Automata theory and formal language theory are closely related to computability. Petri nets and process algebras are used to model computer systems, and methods from discrete mathematics are used in analyzing VLSI electronic circuits. Computational geometry applies algorithms to geometrical problems, while computer image analysis applies them to representations of images. Theoretical computer science also includes the study of various continuous computational topics.
 
 Information theory
 
-WikipediaBinary.svg codes for the word "Wikipedia", given here in binary, provide a way of representing the word in information theory, as well as for information-processing algorithms.]] Information theory involves the quantification of information. Closely related is coding theory which is used to design efficient and reliable data transmission and storage methods. Information theory also includes continuous topics such as: analog signals, analog coding, analog encryption.
+codes for the word "Wikipedia", given here in binary, provide a way of representing the word in information theory, as well as for information-processing algorithms.]] Information theory involves the quantification of information. Closely related is coding theory which is used to design efficient and reliable data transmission and storage methods. Information theory also includes continuous topics such as: analog signals, analog coding, analog encryption.
 
 Logic
 
@@ -58,7 +58,7 @@ Combinatorics studies the way in which discrete structures can be combined or ar
 
 Graph theory
 
-TruncatedTetrahedron.gif has close links to group theory. This truncated tetrahedron graph is related to the alternating group _A_₄.]] Graph theory, the study of graphs and networks, is often considered part of combinatorics, but has grown large enough and distinct enough, with its own kind of problems, to be regarded as a subject in its own right.[19] Graphs are one of the prime objects of study in discrete mathematics. They are among the most ubiquitous models of both natural and human-made structures. They can model many types of relations and process dynamics in physical, biological and social systems. In computer science, they can represent networks of communication, data organization, computational devices, the flow of computation, etc. In mathematics, they are useful in geometry and certain parts of topology, e.g. knot theory. Algebraic graph theory has close links with group theory. There are also continuous graphs, however for the most part research in graph theory falls within the domain of discrete mathematics.
+has close links to group theory. This truncated tetrahedron graph is related to the alternating group _A_₄.]] Graph theory, the study of graphs and networks, is often considered part of combinatorics, but has grown large enough and distinct enough, with its own kind of problems, to be regarded as a subject in its own right.[19] Graphs are one of the prime objects of study in discrete mathematics. They are among the most ubiquitous models of both natural and human-made structures. They can model many types of relations and process dynamics in physical, biological and social systems. In computer science, they can represent networks of communication, data organization, computational devices, the flow of computation, etc. In mathematics, they are useful in geometry and certain parts of topology, e.g. knot theory. Algebraic graph theory has close links with group theory. There are also continuous graphs, however for the most part research in graph theory falls within the domain of discrete mathematics.
 
 Probability
 
@@ -66,7 +66,7 @@ Discrete probability theory deals with events that occur in countable sample spa
 
 Number theory
 
-Ulam_1.png of numbers, with black pixels showing prime numbers. This diagram hints at patterns in the distribution of prime numbers.]] Number theory is concerned with the properties of numbers in general, particularly integers. It has applications to cryptography and cryptanalysis, particularly with regard to modular arithmetic, diophantine equations, linear and quadratic congruences, prime numbers and primality testing. Other discrete aspects of number theory include geometry of numbers. In analytic number theory, techniques from continuous mathematics are also used. Topics that go beyond discrete objects include transcendental numbers, diophantine approximation, p-adic analysis and function fields.
+of numbers, with black pixels showing prime numbers. This diagram hints at patterns in the distribution of prime numbers.]] Number theory is concerned with the properties of numbers in general, particularly integers. It has applications to cryptography and cryptanalysis, particularly with regard to modular arithmetic, diophantine equations, linear and quadratic congruences, prime numbers and primality testing. Other discrete aspects of number theory include geometry of numbers. In analytic number theory, techniques from continuous mathematics are also used. Topics that go beyond discrete objects include transcendental numbers, diophantine approximation, p-adic analysis and function fields.
 
 Algebra
 
@@ -78,7 +78,7 @@ A function defined on an interval of the integers is usually called a sequence. 
 
 Geometry
 
-SimplexRangeSearching.svg applies computer algorithms to representations of geometrical objects.]] Discrete geometry and combinatorial geometry are about combinatorial properties of _discrete collections_ of geometrical objects. A long-standing topic in discrete geometry is tiling of the plane. Computational geometry applies algorithms to geometrical problems.
+applies computer algorithms to representations of geometrical objects.]] Discrete geometry and combinatorial geometry are about combinatorial properties of _discrete collections_ of geometrical objects. A long-standing topic in discrete geometry is tiling of the plane. Computational geometry applies algorithms to geometrical problems.
 
 Topology
 
@@ -86,7 +86,7 @@ Although topology is the field of mathematics that formalizes and generalizes th
 
 Operations research
 
-Pert_chart_colored.svg charts like this provide a project management technique based on graph theory.]] Operations research provides techniques for solving practical problems in engineering, business, and other fields — problems such as allocating resources to maximize profit, or scheduling project activities to minimize risk. Operations research techniques include linear programming and other areas of optimization, queuing theory, scheduling theory, network theory. Operations research also includes continuous topics such as continuous-time Markov process, continuous-time martingales, process optimization, and continuous and hybrid control theory.
+charts like this provide a project management technique based on graph theory.]] Operations research provides techniques for solving practical problems in engineering, business, and other fields — problems such as allocating resources to maximize profit, or scheduling project activities to minimize risk. Operations research techniques include linear programming and other areas of optimization, queuing theory, scheduling theory, network theory. Operations research also includes continuous topics such as continuous-time Markov process, continuous-time martingales, process optimization, and continuous and hybrid control theory.
 
 Game theory, decision theory, utility theory, social choice theory
 

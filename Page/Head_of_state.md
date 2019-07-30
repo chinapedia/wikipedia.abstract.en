@@ -5,7 +5,7 @@ Former French president Charles de Gaulle, while developing the current Constitu
 
 Constitutional models
 
-Bratislava-grassalkovičov_palác.jpg in Bratislava is the seat of the President of Slovakia.]]
+in Bratislava is the seat of the President of Slovakia.]]
 
 Some academic writers discuss states and governments in terms of "models".[5][6][7][8]
 
@@ -23,15 +23,13 @@ In a federal constituent or a dependent territory, the same role is fulfilled by
 
 Parliamentary system
 
-Forms_of_government_parliamentary.svg
-
 Standard model
 
 In parliamentary systems the head of state may be merely the nominal chief executive officer, heading the executive branch of the state, and possessing limited executive power. In reality, however, following a process of constitutional evolution, powers are usually only exercised by direction of a cabinet, presided over by a head of government who is answerable to the legislature. This accountability and legitimacy requires that someone be chosen who has a majority support in the legislature (or, at least, not a majority opposition – a subtle but important difference). It also gives the legislature the right to vote down the head of government and their cabinet, forcing it either to resign or seek a parliamentary dissolution. The executive branch is thus said to be responsible (or answerable) to the legislature, with the head of government and cabinet in turn accepting constitutional responsibility for offering constitutional advice to the head of state.
 
 In parliamentary constitutional monarchies, the legitimacy of the unelected head of state typically derives from the tacit approval of the people via the elected representatives. Accordingly, at the time of the Glorious Revolution, the English parliament acted of its own authority to name a new king and queen (the joint monarchs Mary II and William III); likewise, Edward VIII's abdication required the approval of each of the six independent realms of which he was monarch. In monarchies with a written constitution, the position of monarch is a creature of the constitution and could quite properly be abolished through a democratic procedure of constitutional amendment, although there are often significant procedural hurdles imposed on such a procedure (as in the Constitution of Spain).
 
-In republics with a parliamentary system (such as India, Germany, Austria, Italy and Israel) the head of state is usually titled _president_ and the principal functions of such presidents are mainly ceremonial and symbolic, as opposed to the presidents in a presidential or semi-presidential system. Pranab_Mukherjee-World_Economic_Forum_Annual_Meeting_Davos_2009_crop(2).jpg, head of state of the Republic of India from July 2012 to July 2017]]
+In republics with a parliamentary system (such as India, Germany, Austria, Italy and Israel) the head of state is usually titled _president_ and the principal functions of such presidents are mainly ceremonial and symbolic, as opposed to the presidents in a presidential or semi-presidential system. , head of state of the Republic of India from July 2012 to July 2017]]
 
 In reality, numerous variants exist to the position of a head of state within a parliamentary system. The older the constitution, the more constitutional leeway tends to exist for a head of state to exercise greater powers over government, as many older parliamentary system constitutions in fact give heads of state powers and functions akin to presidential or semi-presidential systems, in some cases without containing reference to modern democratic principles of accountability to parliament or even to modern governmental offices. Usually, the king had the power of declaring war without previous consent of the parliament.
 
@@ -57,13 +55,13 @@ Some parliamentary republics (like South Africa, Botswana, Myanmar and Suriname)
 
 Semi-presidential systems
 
-Bundesarchiv_B_145_Bild-F010324-0002,_Flughafen_Köln-Bonn,_Adenauer,_de_Gaulle-cropped.jpg, President and head of state of the French Fifth Republic (1959–1969)]] Semi-presidential systems combine features of presidential and parliamentary systems, notably (in the president-parliamentary subtype) a requirement that the government be answerable to both the president and the legislature. The constitution of the Fifth French Republic provides for a prime minister who is chosen by the president, but who nevertheless must be able to gain support in the National Assembly. Should a president be of one side of the political spectrum and the opposition be in control of the legislature, the president is usually obliged to select someone from the opposition to become prime minister, a process known as Cohabitation. President François Mitterrand, a Socialist, for example, was forced to cohabit with the neo-Gaullist (right wing) Jacques Chirac, who became his prime minister from 1986 to 1988. In the French system, in the event of cohabitation, the president is often allowed to set the policy agenda in security and foreign affairs and the prime minister runs the domestic and economic agenda.
+, President and head of state of the French Fifth Republic (1959–1969)]] Semi-presidential systems combine features of presidential and parliamentary systems, notably (in the president-parliamentary subtype) a requirement that the government be answerable to both the president and the legislature. The constitution of the Fifth French Republic provides for a prime minister who is chosen by the president, but who nevertheless must be able to gain support in the National Assembly. Should a president be of one side of the political spectrum and the opposition be in control of the legislature, the president is usually obliged to select someone from the opposition to become prime minister, a process known as Cohabitation. President François Mitterrand, a Socialist, for example, was forced to cohabit with the neo-Gaullist (right wing) Jacques Chirac, who became his prime minister from 1986 to 1988. In the French system, in the event of cohabitation, the president is often allowed to set the policy agenda in security and foreign affairs and the prime minister runs the domestic and economic agenda.
 
 Other countries evolve into something akin to a semi-presidential system or indeed a full presidential system. Weimar Germany, for example, in its constitution provided for a popularly elected president with theoretically dominant executive powers that were intended to be exercised only in emergencies, and a cabinet appointed by him from the Reichstag, which was expected, in normal circumstances, to be answerable to the Reichstag. Initially, the president was merely a symbolic figure with the Reichstag dominant; however, persistent political instability, in which governments often lasted only a few months, led to a change in the power structure of the republic, with the president's emergency powers called increasingly into use to prop up governments challenged by critical or even hostile Reichstag votes. By 1932, power had shifted to such an extent that the German president, Paul von Hindenburg, was able to dismiss a chancellor and select his own person for the job, even though the outgoing chancellor possessed the confidence of the Reichstag while the new chancellor did not. Subsequently, President von Hindenburg used his power to appoint Adolf Hitler as Chancellor without consulting the Reichstag.
 
 Presidential system
 
-Washington_(3).jpg, the first President of the United States, set the precedent for an executive head of state in republican systems of government[18]]]
+, the first President of the United States, set the precedent for an executive head of state in republican systems of government[18]]]
 
 _Note: The head of state in a "presidential" system may not actually hold the title of "president" - the name of the system refers to any head of state who actually governs and is not directly dependent on the legislature to remain in office._
 
@@ -81,7 +79,7 @@ This may even lead to an institutional variability, as in North Korea, where, af
 
 Complications with categorization
 
-Delhi_durbar_1911_2.jpg, Emperor of India, and Empress Mary at the Delhi Durbar, 1911.]]
+, Emperor of India, and Empress Mary at the Delhi Durbar, 1911.]]
 
 While clear categories do exist, it is sometimes difficult to choose which category some individual heads of state belong to. In reality, the category to which each head of state belongs is assessed not by theory but by practice.
 
@@ -259,7 +257,7 @@ Some countries have alternative provisions for senior appointments: In Sweden, u
 
 Diplomatic role
 
-Vladimir_Putin_with_Tekiso_Hati.jpg, presenting his credentials to Russian President Vladimir Putin]] Shapiro_presenting_credentials_to_Peres_2011-08-03.jpg, U.S. Ambassador to Israel, presents his credentials to Israeli President Shimon Peres on 3 August 2011]] Juraj_Nemeš_letter_of_credence.JPG, written in French, for the Czechoslovakian Ambassador to Lithuania, signed by the President of Czechoslovakia and addressed to his Lithuanian counterpart]]
+, presenting his credentials to Russian President Vladimir Putin]] , U.S. Ambassador to Israel, presents his credentials to Israeli President Shimon Peres on 3 August 2011]] , written in French, for the Czechoslovakian Ambassador to Lithuania, signed by the President of Czechoslovakia and addressed to his Lithuanian counterpart]]
 
 The Vienna Convention on Diplomatic Relations, which codified longstanding custom, operates under the presumption that the head of a diplomatic mission (i.e. ambassador or nuncio) of the sending state is accredited to the head of state of the receiving state.[54][55] The head of state accredits (i.e. formally validates) his or her country's ambassadors (or rarer equivalent diplomatic mission chiefs, such as high commissioner or papal nuncio) through sending formal a Letter of Credence (and a Letter of Recall at the end of a tenure) to other heads of state and, conversely, receives the letters of their foreign counterparts.[56] Without that accreditation, the chief of the diplomatic mission cannot take up their role and receive the highest diplomatic status. The role of a head of state in this regard, is codified in the Vienna Convention on Diplomatic Relations from 1961, which (as of 2017) 191 sovereign states has ratified.[57][58]
 
@@ -307,7 +305,7 @@ In Canada, these head of state powers belong to the monarch as part of the Royal
 
 Military role
 
-21_juli_2011_Defilé_Koning_Albert_II.png, King of the Belgians inspecting troops on Belgium's national day in 2011]] Nicolas_Sarkozy_Bastille_Day_2008_n1.jpg, President of France and General Jean-Louis Georgelin, Chief of the Defence Staff, reviewing troops during the 2008 Bastille Day military parade on the Champs-Élysées in Paris]]
+, King of the Belgians inspecting troops on Belgium's national day in 2011]] , President of France and General Jean-Louis Georgelin, Chief of the Defence Staff, reviewing troops during the 2008 Bastille Day military parade on the Champs-Élysées in Paris]]
 
 A head of state is often, by virtue of holding the highest executive powers, explicitly designated as the commander-in-chief of that nation's armed forces, holding the highest office in all military chains of command.
 
@@ -582,7 +580,7 @@ In exceptional situations, such as war, occupation, revolution or a coup d'état
 
 Religious heads of state
 
-Pope_Francis_in_March_2013.jpg, from March 2013 the sovereign of the Vatican City State, an _ex officio_ role of the Pope]]
+, from March 2013 the sovereign of the Vatican City State, an _ex officio_ role of the Pope]]
 
 Since antiquity, various dynasties or individual rulers have claimed the right to rule by divine authority, such as the Mandate of Heaven and the divine right of kings. Some monarchs even claimed divine ancestry, such as Egyptian pharaohs and Sapa Incas, who claimed descent from their respective sun gods and often sought to maintain this bloodline by practicing incestuous marriage. In Ancient Rome, during the Principate, the title ('divine') was conferred (notably posthumously) on the emperor, a symbolic, legitimating element in establishing a de facto dynasty.
 
@@ -592,7 +590,7 @@ In Roman Catholicism, the pope was once sovereign pontiff and head of state, fir
 
 Islam
 
-Portrait_Caliph_Abdulmecid_II.jpg is the 150th and last Caliph of Islam from Ottoman dynasty]] During the early period of Islam, caliphs were spiritual and temporal absolute successors of the prophet Mohammed. Various political Muslim leaders since have styled themselves _Caliph_ and served as dynastic heads of state, sometimes in addition to another title, such as the Ottoman Sultan. Historically, some theocratic Islamic states known as _imamates_ have been led by imams as head of state, such as in what is now Oman, Yemen, and Saudi Arabia.
+is the 150th and last Caliph of Islam from Ottoman dynasty]] During the early period of Islam, caliphs were spiritual and temporal absolute successors of the prophet Mohammed. Various political Muslim leaders since have styled themselves _Caliph_ and served as dynastic heads of state, sometimes in addition to another title, such as the Ottoman Sultan. Historically, some theocratic Islamic states known as _imamates_ have been led by imams as head of state, such as in what is now Oman, Yemen, and Saudi Arabia.
 
 In the Islamic Republic of Iran, the Supreme Leader, at present Ali Khamenei serves as head of state. The Aga Khans, a unique dynasty of temporal/religious leadership, leading the Nizari offshoot of Shia Islam in Central and South Asia, once ranking among British India's princely states, continue to the present day.
 
@@ -668,7 +666,7 @@ Individual heads of state may acquire their position by virtue of a constitution
 
 By hereditary succession
 
-Firekonger.jpg in 1903: King Christian IX (left), Christian (X) (back), Frederick (VIII) (right), and Frederick (IX) (front)]]
+in 1903: King Christian IX (left), Christian (X) (back), Frederick (VIII) (right), and Frederick (IX) (front)]]
 
 The position of a monarch is usually hereditary, but in constitutional monarchies, there are usually restrictions on the incumbent's exercise of powers and prohibitions on the possibility of choosing a successor by other means than by birth. In a hereditary monarchy, the position of monarch is inherited according to a statutory or customary order of succession, usually within one royal family tracing its origin through a historical dynasty or bloodline. This usually means that the heir to the throne is known well in advance of becoming monarch to ensure a smooth succession. However, many cases of uncertain succession in European history have often led to wars of succession.
 
@@ -707,7 +705,7 @@ Heads of state generally enjoy widest inviolability, although some states allow 
 
 Former heads of state
 
-Berlin_Nationaldenkmal_Kaiser_Wilhelm_1900.jpg in Berlin, Germany, dedicated 1897, nearly 10 years after his death. The monument was destroyed by the communist government in 1950.[138] ]]
+in Berlin, Germany, dedicated 1897, nearly 10 years after his death. The monument was destroyed by the communist government in 1950.[138] ]]
 
 Effigies, memorials and monuments of former heads of state can be designed to represent the history or aspirations of a state or its people, such as the equestrian bronze sculpture of Kaiser Wilhelm I, first Emperor of a unified Germany[139] erected in Berlin at the end of the nineteenth century; or the Victoria Memorial erected in front of Buckingham Palace London, commemorating Queen Victoria and her reign (1837–1901), and unveiled in 1911 by her grandson, King George V; or the monument, placed in front of the Victoria Memorial Hall, Kolkata (Calcutta) (1921), commemorating Queen Victoria's reign as Empress of India from 1876.[140] Another, twentieth century, example is the Mount Rushmore National Memorial, a group sculpture constructed (1927–1941) on a conspicuous skyline in the Black Hills of South Dakota (40th state of the Union, 1889), in the midwestern United States, representing the territorial expansion of the United States in the first 130 years from its founding, which is promoted as the "Shrine of Democracy".[141][142]
 

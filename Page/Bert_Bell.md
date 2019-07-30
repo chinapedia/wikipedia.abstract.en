@@ -15,7 +15,7 @@ In 1904, Bell matriculated at the Episcopal Academy, the Delancey School from 19
 
 University of Pennsylvania (1914–1919)
 
-1916_Penn_Quakers_backfield.jpg in 1916]] Bell entered Penn in the fall of 1914 as an English major and joined Phi Kappa Sigma.[19][20] In a rare occurrence for a sophomore, he became the starting quarterback for Penn's coach George H. Brooke.[21] On the team, he also was as a defender, punter, and punt returner.[22] After the team's 3–0 start, Bell temporarily shared possession of his quarterbacking duties until he subsequently reclaimed them later in the season,[23] as Penn finished with a record of 3–5–2.[24]
+in 1916]] Bell entered Penn in the fall of 1914 as an English major and joined Phi Kappa Sigma.[19][20] In a rare occurrence for a sophomore, he became the starting quarterback for Penn's coach George H. Brooke.[21] On the team, he also was as a defender, punter, and punt returner.[22] After the team's 3–0 start, Bell temporarily shared possession of his quarterbacking duties until he subsequently reclaimed them later in the season,[23] as Penn finished with a record of 3–5–2.[24]
 
 Prior to Penn's 1916 season, his mother died while he was en route to her bedside.[25] Nevertheless, he started the first game for the Quakers under new coach Bob Folwell, but mixed results left him platooned for the rest of the season.[26] Penn finished with a record of 7–2–1.[27] However, the Quakers secured an invitation to the 1917 Rose Bowl against the Oregon Ducks.[28] Although the best offensive gain for Penn during their 20–14 loss to Oregon was a 20-yard run by Bell, he was replaced late in the game at quarterback after throwing an interception.[29]
 

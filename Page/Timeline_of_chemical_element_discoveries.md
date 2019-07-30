@@ -157,8 +157,6 @@ Modern discoveries
 
 Graphics
 
-Known-elements-1650-present.png
-
 
 See also
 

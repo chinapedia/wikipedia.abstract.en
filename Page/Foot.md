@@ -8,7 +8,7 @@ The word "foot", in the sense of meaning the "terminal part of the leg of a vert
 
 Structure
 
-Baby-baby-feet-bed-325690.jpg.]] The human foot is a strong and complex mechanical structure containing 26 bones, 33 joints (20 of which are actively articulated), and more than a hundred muscles, tendons, and ligaments.[3] The joints of the foot are the ankle and subtalar joint and the interphalangeal articulations of the foot. An anthropometric study of 1197 North American adult Caucasian males (mean age 35.5 years) found that a man's foot length was 26.3 cm with a standard deviation of 1.2 cm.[4]
+.]] The human foot is a strong and complex mechanical structure containing 26 bones, 33 joints (20 of which are actively articulated), and more than a hundred muscles, tendons, and ligaments.[3] The joints of the foot are the ankle and subtalar joint and the interphalangeal articulations of the foot. An anthropometric study of 1197 North American adult Caucasian males (mean age 35.5 years) found that a man's foot length was 26.3 cm with a standard deviation of 1.2 cm.[4]
 
 The foot can be subdivided into the hindfoot, the midfoot, and the forefoot:
 
@@ -23,8 +23,6 @@ Both the midfoot and forefoot constitute the _dorsum_ (the area facing upwards w
 The _instep_ is the arched part of the top of the foot between the toes and the ankle.
 
 Bones
-
-Blausen_0411_FootAnatomy.png
 
 -   tibia, fibula
 -   tarsus (7): talus, calcaneus, cuneiformes (3), cuboid, and navicular
@@ -43,7 +41,7 @@ The muscles acting on the foot can be classified into extrinsic muscles, those o
 
 Extrinsic
 
-Gray437.png All muscles originating on the lower leg except the popliteus muscle are attached to the bones of the foot. The tibia and fibula and the interosseous membrane separate these muscles into anterior and posterior groups, in their turn subdivided into subgroups and layers. [10]
+All muscles originating on the lower leg except the popliteus muscle are attached to the bones of the foot. The tibia and fibula and the interosseous membrane separate these muscles into anterior and posterior groups, in their turn subdivided into subgroups and layers. [10]
 
 _Anterior group_
 
@@ -108,7 +106,7 @@ When choosing a running or walking shoe, a person with overpronation can choose 
 
 Underpronation (supination)
 
-Underpronation.jpg An individual who underpronates also initially strikes the ground on the lateral side of the heel. As the individual transfers weight from the heel to the metatarsus, the foot will not roll far enough in a medial direction. The weight is distributed unevenly across the metatarsus, with excessive weight borne on the fifth metatarsal, towards the lateral side of the foot. In this stage of the gait, the knee will generally, but not always, track laterally of the hallux.
+An individual who underpronates also initially strikes the ground on the lateral side of the heel. As the individual transfers weight from the heel to the metatarsus, the foot will not roll far enough in a medial direction. The weight is distributed unevenly across the metatarsus, with excessive weight borne on the fifth metatarsal, towards the lateral side of the foot. In this stage of the gait, the knee will generally, but not always, track laterally of the hallux.
 
 Like an overpronator, an underpronator does not absorb shock efficiently – but for the opposite reason. The underpronated foot is like a diving board that, instead of failing to spring someone in the air because it is too flimsy, fails to do so because it is too rigid. There is virtually no give. An underpronator's arches or ankles don't experience much motion as they cycle through the gait. An individual whose bone structure involves internal rotation at the hip, knee, or ankle will be more likely to underpronate than one whose bone structure has external rotation or central alignment. Usually – but not always – those who are bow-legged tend to underpronate. An individual who underpronates tends to wear down their running shoes on the lateral (outside) side of the shoe towards the rear of the shoe in the heel area.[21]
 
@@ -129,7 +127,7 @@ The metatarsals are the bones that make up the main part of the foot in humans, 
 
 Metaphorical and cultural usage
 
-Study_of_a_pair_of_feet_crossed_at_the_ankles_RMG_PY5986.tiff, from the Royal Museums Greenwich]] The word "foot" is used to refer to a "...linear measure was in Old English (the exact length has varied over time), this being considered the length of a man's foot; a unit of measure used widely and anciently. In this sense the plural is often foot. The current inch and foot are implied from measurements in 12c." [25] The word "foot" also has a musical meaning; a "...metrical foot (late Old English, translating Latin pes, Greek pous in the same sense) is commonly taken to represent one rise and one fall of a foot: keeping time according to some, dancing according to others."[26]
+, from the Royal Museums Greenwich]] The word "foot" is used to refer to a "...linear measure was in Old English (the exact length has varied over time), this being considered the length of a man's foot; a unit of measure used widely and anciently. In this sense the plural is often foot. The current inch and foot are implied from measurements in 12c." [25] The word "foot" also has a musical meaning; a "...metrical foot (late Old English, translating Latin pes, Greek pous in the same sense) is commonly taken to represent one rise and one fall of a foot: keeping time according to some, dancing according to others."[26]
 
 The word "foot" was used in Middle English to mean "a person" (c. 1200).[27] The expression "...to put one's best foot foremost first recorded 1849 (Shakespeare has the better foot before, 1596)".[28] The expression to "...put one's foot in (one's) mouth "say something stupid" was first used in 1942.[29] The expression "put (one's) foot in something" meaning to "make a mess of it" was used in 1823.[30]
 

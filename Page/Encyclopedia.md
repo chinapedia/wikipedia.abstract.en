@@ -1,4 +1,4 @@
-Encyclopaedia_Britannica_15_with_2002.jpg'']] Ringelbergius,_'Lucubrationes...KYKLOPEDEIA...'_ed._Basel_1541_original.JPG
+'']]
 
 An ENCYCLOPEDIA or ENCYCLOPÆDIA is a reference work or compendium providing summaries of knowledge from either all branches or from a particular field or discipline.[1] Encyclopedias are divided into articles or entries that are often arranged alphabetically by article name[2] and sometimes by thematic categories. Encyclopedia entries are longer and more detailed than those in most dictionaries.[3] Generally speaking, unlike dictionary entries—which focus on linguistic information about words, such as their etymology, meaning, pronunciation, use, and grammatical forms—encyclopedia articles focus on factual information concerning the subject named in the article's title.[4][5][6][7]
 
@@ -15,7 +15,7 @@ The word _encyclopedia_ comes from the Koine Greek ,[8] transliterated _enkyklio
 
 Sixteenth century usage of the compounded word
 
-Pavao_Skalić;_Enciklopedija_ili_znanje_svijeta_svetih_i_svjetovnih_struka_(1559).jpg _Encyclopaediæ, seu orbis disciplinarum, tam sacrarum quam prophanarum, epistemon_ from 1559, first clear use of the word _encyclopaedia_ in the title.[14]]] In the sixteenth century there was a level of ambiguity as to how to use this new word. As several titles illustrate, there was not a settled notion about its spelling nor its status as a noun. For example: Jacobus Philomusus's __ (1508); Johannes Aventinus's __; Joachimus Fortius Ringelbergius's __ (1538, 1541); Paul Skalich's __ (1559); Gregor Reisch's __ (1503, retitled Encyclopaedia in 1583); and Samuel Eisenmenger's __ (1585).[15]
+_Encyclopaediæ, seu orbis disciplinarum, tam sacrarum quam prophanarum, epistemon_ from 1559, first clear use of the word _encyclopaedia_ in the title.[14]]] In the sixteenth century there was a level of ambiguity as to how to use this new word. As several titles illustrate, there was not a settled notion about its spelling nor its status as a noun. For example: Jacobus Philomusus's __ (1508); Johannes Aventinus's __; Joachimus Fortius Ringelbergius's __ (1538, 1541); Paul Skalich's __ (1559); Gregor Reisch's __ (1503, retitled Encyclopaedia in 1583); and Samuel Eisenmenger's __ (1585).[15]
 
 There have been two examples of the oldest vernacular use of the compounded word. In approximately 1490, Franciscus Puccius wrote a letter to Politianus thanking him for his _Miscellanea_, calling it an encyclopedia. More commonly, François Rabelais is cited for his use of the term in _Pantagruel_ (1532).[16][17]
 
@@ -54,7 +54,7 @@ Encyclopedias have progressed from written form in antiquity, to print in modern
 
 Ancient times
 
-naturalishistoria.jpg One of the earliest encyclopedic works to have survived to modern times is the _Naturalis Historiae_ of Pliny the Elder, a Roman statesman living in the first century AD. He compiled a work of 37 chapters covering natural history, architecture, medicine, geography, geology, and other aspects of the world around him. He stated in the preface that he had compiled 20,000 facts from 2000 works by over 200 authors, and added many others from his own experience. The work was published around AD 77–79, although Pliny probably never finished editing the work before his death in the eruption of Vesuvius in AD 79.[32]
+One of the earliest encyclopedic works to have survived to modern times is the _Naturalis Historiae_ of Pliny the Elder, a Roman statesman living in the first century AD. He compiled a work of 37 chapters covering natural history, architecture, medicine, geography, geology, and other aspects of the world around him. He stated in the preface that he had compiled 20,000 facts from 2000 works by over 200 authors, and added many others from his own experience. The work was published around AD 77–79, although Pliny probably never finished editing the work before his death in the eruption of Vesuvius in AD 79.[32]
 
 Middle Ages
 
@@ -72,7 +72,7 @@ In late medieval Europe, several authors had the ambition of compiling the sum o
 
 Renaissance
 
-Margarita_Philosopica_by_Reisch_2.jpg Medieval encyclopedias were all hand-copied and thus available mostly to wealthy patrons or monastic men of learning; they were expensive, and usually written for those extending knowledge rather than those using it.[37]
+Medieval encyclopedias were all hand-copied and thus available mostly to wealthy patrons or monastic men of learning; they were expensive, and usually written for those extending knowledge rather than those using it.[37]
 
 During the Renaissance, the creation of printing allowed a wider diffusion of encyclopedias and every scholar could have his or her own copy. The _De expetendis et fugiendis rebus_ by Giorgio Valla was posthumously printed in 1501 by Aldo Manuzio in Venice. This work followed the traditional scheme of liberal arts. However, Valla added the translation of ancient Greek works on mathematics (firstly by Archimedes), newly discovered and translated. The _Margarita Philosophica_ by Gregor Reisch, printed in 1503, was a complete encyclopedia explaining the seven liberal arts.
 
@@ -86,7 +86,7 @@ Financial, commercial, legal, and intellectual factors changed the size of encyc
 
 18th–19th centuries
 
-Encyclopedie_de_D'Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg'', 1773]] The beginnings of the modern idea of the general-purpose, widely distributed printed encyclopedia precede the 18th century encyclopedists. However, Chambers' _Cyclopaedia, or Universal Dictionary of Arts and Sciences_ (1728), and the _Encyclopédie_ of Denis Diderot and Jean le Rond d'Alembert (1751 onwards), as well as _Encyclopædia Britannica_ and the _Conversations-Lexikon_, were the first to realize the form we would recognize today, with a comprehensive scope of topics, discussed in depth and organized in an accessible, systematic method. Chambers, in 1728, followed the earlier lead of John Harris's _Lexicon Technicum_ of 1704 and later editions (see also below); this work was by its title and content "A Universal English Dictionary of Arts and Sciences: Explaining not only the Terms of Art, but the Arts Themselves".
+'', 1773]] The beginnings of the modern idea of the general-purpose, widely distributed printed encyclopedia precede the 18th century encyclopedists. However, Chambers' _Cyclopaedia, or Universal Dictionary of Arts and Sciences_ (1728), and the _Encyclopédie_ of Denis Diderot and Jean le Rond d'Alembert (1751 onwards), as well as _Encyclopædia Britannica_ and the _Conversations-Lexikon_, were the first to realize the form we would recognize today, with a comprehensive scope of topics, discussed in depth and organized in an accessible, systematic method. Chambers, in 1728, followed the earlier lead of John Harris's _Lexicon Technicum_ of 1704 and later editions (see also below); this work was by its title and content "A Universal English Dictionary of Arts and Sciences: Explaining not only the Terms of Art, but the Arts Themselves".
 
 20th century
 
@@ -94,7 +94,7 @@ Popular and affordable encyclopedias such as _Harmsworth's Universal Encyclopaed
 
 In the United States, the 1950s and 1960s saw the introduction of several large popular encyclopedias, often sold on installment plans. The best known of these were _World Book_ and _Funk and Wagnalls_.
 
-EncycBrit1913.jpg'', the oldest and one of the largest contemporary English encyclopedias]] The second half of the 20th century also saw the proliferation of specialized encyclopedias that compiled topics in specific fields. This trend has continued. Encyclopedias of at least one volume in size now exist for most if not all academic disciplines, including such narrow topics such as bioethics.
+'', the oldest and one of the largest contemporary English encyclopedias]] The second half of the 20th century also saw the proliferation of specialized encyclopedias that compiled topics in specific fields. This trend has continued. Encyclopedias of at least one volume in size now exist for most if not all academic disciplines, including such narrow topics such as bioethics.
 
 By the late 20th century, encyclopedias were being published on CD-ROMs for use with personal computers. Microsoft's _Encarta_, published between 1993 and 2009, was a landmark example as it had no printed equivalent. Articles were supplemented with both video and audio files as well as numerous high-quality images.[42]
 

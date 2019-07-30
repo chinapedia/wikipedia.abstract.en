@@ -22,8 +22,6 @@ On 24 April 1870, the dogmatic constitution on the Catholic faith _Dei Filius_ w
 
 _Pastor aeternus_
 
-Eclesiásticos_de_varios_países_reunidos_en_Roma_con_Motivo_del_Concilio.jpg
-
 There was stronger opposition to the draft constitution on the nature of the church, which at first did not include the question of papal infallibility, but the majority party in the council, whose position on this matter was much stronger, brought it forward. It was decided to postpone discussion of everything in the draft except infallibility. The decree did not go forward without controversy; Cardinal , Archbishop of Bologna, proposed adding that the Pope is assisted by "the counsel of the bishops manifesting the tradition of the churches." The Pope rejected Guidi's view of the bishops as witnesses to the tradition, maintaining that "I am the tradition."
 
 On 13 July 1870, a preliminary vote on the section on infallibility was held in a general congregation: 451 voted simply in favour (_placet_), 88 against (_non placet_), and 62 in favour but on condition of some amendment (_placet iuxta modum_). This made evident what the final outcome would be, and some 60 members of the opposition left Rome so as not to be associated with approval of the document. The final vote, with a choice only between _placet_ and _non placet_, was taken on 18 July 1870, with 433 votes in favour and only 2 against defining as a dogma the infallibility of the pope when speaking _ex cathedra_. The two votes in opposition were cast by Bishop Aloisio Riccio and Bishop Edward Fitzgerald.
@@ -34,8 +32,6 @@ None of the bishops who had argued that proclaiming the definition was inopportu
 
 
 Suspension
-
-Engraving_of_First_Vatican_Council.jpg
 
 Discussion of the rest of the document on the nature of the church was to continue when the bishops returned after a summer break. However, in the meanwhile the Franco-Prussian War broke out. With the swift German advance and the capture of Emperor Napoleon III, French troops protecting papal rule in Rome withdrew from the city.
 

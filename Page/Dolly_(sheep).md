@@ -15,7 +15,7 @@ Dolly was born on 5 July 1996 and had three mothers: one provided the egg, anoth
 
 Life
 
-Dolly_clone.svg process that produced Dolly]] Dolly lived her entire life at the Roslin Institute in Midlothian.[14] There she was bred with a Welsh Mountain ram and produced six lambs in total. Her first lamb, named Bonnie, was born in April 1998.[15] The next year Dolly produced twin lambs Sally and Rosie, and she gave birth to triplets Lucy, Darcy and Cotton in 2000.[16] In late 2001, at the age of four, Dolly developed arthritis and began to walk stiffly. This was treated with anti-inflammatory drugs.[17]
+process that produced Dolly]] Dolly lived her entire life at the Roslin Institute in Midlothian.[14] There she was bred with a Welsh Mountain ram and produced six lambs in total. Her first lamb, named Bonnie, was born in April 1998.[15] The next year Dolly produced twin lambs Sally and Rosie, and she gave birth to triplets Lucy, Darcy and Cotton in 2000.[16] In late 2001, at the age of four, Dolly developed arthritis and began to walk stiffly. This was treated with anti-inflammatory drugs.[17]
 
 
 Death

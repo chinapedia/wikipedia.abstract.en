@@ -57,7 +57,7 @@ Lerner married eight times: Ruth Boyd (1940–1947), singer Marion Bell (1947–
 
 Lerner had four children: three daughters, Susan (by Boyd), Liza and Jennifer (by Olson); and one son, screenwriter and journalist Michael Alan Lerner (by di Borgo).
 
-Alan_J_Lerner_Plaque_London_2016.jpg in London]]
+in London]]
 
 Lerner's multiple divorces cost him much of his wealth, but he was primarily responsible for his own financial ups and downs and was apparently less than truthful about his financial fecklessness.[21] One persistent fiction, widely publicized, was that his divorce settlement from Micheline Muselli Pozzo di Borgo (his fourth wife) cost him an estimated $1 million in 1965. This was a gross distortion of the truth.[22] Lerner's pattern of financial mismanagement continued until his death from cancer in 1986, when he reportedly owed the US Internal Revenue Service over US$1,000,000 in back taxes and was unable to pay for his final medical expenses.[23]
 

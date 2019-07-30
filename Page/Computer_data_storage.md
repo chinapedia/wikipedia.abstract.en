@@ -1,4 +1,4 @@
-DDR2_ram_mounted.jpg of SDRAM mounted in a personal computer. An example of _primary_ storage.]] IBM_DJNA-351520_Hard_Disk_A.jpg PATA hard disk drive (HDD) from 1999; when connected to a computer it serves as _secondary_ storage.]] Super_DLTtape_I.jpg tape cartridge, an example of _off-line_ storage. When used within a robotic tape library, it is classified as _tertiary_ storage instead.]]
+of SDRAM mounted in a personal computer. An example of _primary_ storage.]] PATA hard disk drive (HDD) from 1999; when connected to a computer it serves as _secondary_ storage.]] tape cartridge, an example of _off-line_ storage. When used within a robotic tape library, it is classified as _tertiary_ storage instead.]]
 
 COMPUTER DATA STORAGE, often called STORAGE or MEMORY, is a technology consisting of computer components and recording media that are used to retain digital data. It is a core function and fundamental component of computers.[1]
 
@@ -27,7 +27,7 @@ For security reasons certain types of data (e.g., credit-card information) may b
 
 Hierarchy of storage
 
-Computer_storage_types.svg. The fundamental components of a general-purpose computer are arithmetic and logic unit, control circuitry, storage space, and input/output devices. Technology and capacity as in common home computers around 2005.]]
+. The fundamental components of a general-purpose computer are arithmetic and logic unit, control circuitry, storage space, and input/output devices. Technology and capacity as in common home computers around 2005.]]
 
 Generally, the lower a storage is in the hierarchy, the lesser its bandwidth and the greater its access latency is from the CPU. This traditional division of storage to primary, secondary, tertiary and off-line storage is also guided by cost per bit.
 
@@ -58,7 +58,7 @@ Recently, _primary storage_ and _secondary storage_ in some uses refer to what w
 
 Secondary storage
 
-35-Desktop-Hard-Drive.jpg with protective cover removed]]
+with protective cover removed]]
 
 _Secondary storage_ (also known as _external memory_ or _auxiliary storage_), differs from primary storage in that it is not directly accessible by the CPU. The computer usually uses its input/output channels to access secondary storage and transfer the desired data to primary storage. Secondary storage is non-volatile (retaining data when power is shut off). Modern computer systems typically have two orders of magnitude more secondary storage than primary storage because secondary storage is less expensive.
 
@@ -72,7 +72,7 @@ Most computer operating systems use the concept of virtual memory, allowing util
 
 Tertiary storage
 
-StorageTek_Powderhorn_tape_library.jpg, with tape cartridges placed on shelves in the front, and a robotic arm moving in the back. Visible height of the library is about 180 cm.]]
+, with tape cartridges placed on shelves in the front, and a robotic arm moving in the back. Visible height of the library is about 180 cm.]]
 
 _Tertiary storage_ or _tertiary memory_[7] is a level below secondary storage. Typically, it involves a robotic mechanism which will _mount_ (insert) and _dismount_ removable mass storage media into a storage device according to the system's demands; such data are often copied to secondary storage before use. It is primarily used for archiving rarely accessed information since it is much slower than secondary storage (e.g. 5–60 seconds vs. 1–10 milliseconds). This is primarily useful for extraordinarily large data stores, accessed without human operators. Typical examples include tape libraries and optical jukeboxes.
 
@@ -97,7 +97,7 @@ In modern personal computers, most secondary and tertiary storage media are also
 
 Characteristics of storage
 
-Samsung-1GB-DDR2-Laptop-RAM.jpg DDR2 RAM.]]
+DDR2 RAM.]]
 
 Storage technologies at all levels of the storage hierarchy can be differentiated by evaluating certain core characteristics as well as measuring characteristics specific to a particular implementation. These core characteristics are volatility, mutability, accessibility, and addressability. For any particular implementation of any storage technology, the characteristics worth measuring are capacity and performance.
 

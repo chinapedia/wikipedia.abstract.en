@@ -1,4 +1,4 @@
-Arduino_ftdi_chip-1.jpg electronic components]] ELECTRONICS comprises the physics, engineering, technology and applications that deal with the emission, flow and control of electrons in vacuum and matter.[1]
+electronic components]] ELECTRONICS comprises the physics, engineering, technology and applications that deal with the emission, flow and control of electrons in vacuum and matter.[1]
 
 Electronics is widely used in information processing, telecommunication, and signal processing. The ability of electronic devices to act as switches makes digital information-processing possible. Interconnection technologies such as circuit boards, electronics packaging technology, and other varied forms of communication infrastructure complete circuit functionality and transform the mixed electronic components into a regular working system, called an ELECTRONIC SYSTEM; examples are computers or control systems. An electronic system may be a component of another engineered system or a standalone device. most electronic devices[2] use semiconductor components to perform electron control.
 
@@ -30,7 +30,7 @@ Electronics has branches as follows:
 
 Electronic devices and components
 
-US_Navy_080820-N-9079D-007_Electronics_Technician_3rd_Class_Michael_J._Isenmann,_from_St._Louis,_Mo.,_performs_a_voltage_check_on_a_power_circuit_card_in_Air_Navigation_Equipment_room_aboard_the_aircraft_carrier_USS_Abraham_Lin.jpg performing a voltage check on a power circuit card in the air navigation equipment room aboard the aircraft carrier USS _Abraham Lincoln_ (CVN 72).]] An electronic component is any physical entity in an electronic system used to affect the electrons or their associated fields in a manner consistent with the intended function of the electronic system. Components are generally intended to be connected together, usually by being soldered to a printed circuit board (PCB), to create an electronic circuit with a particular function (for example an amplifier, radio receiver, or oscillator). Components may be packaged singly, or in more complex groups as integrated circuits. Some common electronic components are capacitors, inductors, resistors, diodes, transistors, etc. Components are often categorized as active (e.g. transistors and thyristors) or passive (e.g. resistors, diodes, inductors and capacitors).[4]
+performing a voltage check on a power circuit card in the air navigation equipment room aboard the aircraft carrier USS _Abraham Lincoln_ (CVN 72).]] An electronic component is any physical entity in an electronic system used to affect the electrons or their associated fields in a manner consistent with the intended function of the electronic system. Components are generally intended to be connected together, usually by being soldered to a printed circuit board (PCB), to create an electronic circuit with a particular function (for example an amplifier, radio receiver, or oscillator). Components may be packaged singly, or in more complex groups as integrated circuits. Some common electronic components are capacitors, inductors, resistors, diodes, transistors, etc. Components are often categorized as active (e.g. transistors and thyristors) or passive (e.g. resistors, diodes, inductors and capacitors).[4]
 
 
 History of electronic components
@@ -46,7 +46,7 @@ Circuits and components can be divided into two groups: analog and digital. A pa
 
 Analog circuits
 
-HitachiJ100A.jpg Most analog electronic appliances, such as radio receivers, are constructed from combinations of a few types of basic circuits. Analog circuits use a continuous range of voltage or current as opposed to discrete levels as in digital circuits.
+Most analog electronic appliances, such as radio receivers, are constructed from combinations of a few types of basic circuits. Analog circuits use a continuous range of voltage or current as opposed to discrete levels as in digital circuits.
 
 The number of different analog circuits so far devised is huge, especially because a 'circuit' can be defined as anything from a single component, to systems containing thousands of components.
 

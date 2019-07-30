@@ -1,4 +1,4 @@
-The_Peninsula_New_York_Entrance.jpg hotel]] Mercure_hotel_taksim.jpgA HOTEL is an establishment that provides paid lodging on a short-term basis. Facilities provided may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms. Small, lower-priced hotels may offer only the most basic guest services and facilities. Larger, higher-priced hotels may provide additional guest facilities such as a swimming pool, business centre (with computers, printers, and other office equipment), childcare, conference and event facilities, tennis or basketball courts, gymnasium, restaurants, day spa, and social function services. Hotel rooms are usually numbered (or named in some smaller hotels and B&Bs) to allow guests to identify their room. Some boutique, high-end hotels have custom decorated rooms. Some hotels offer meals as part of a room and board arrangement. In the United Kingdom, a hotel is required by law to serve food and drinks to all guests within certain stated hours. In Japan, capsule hotels provide a tiny room suitable only for sleeping and shared bathroom facilities.
+hotel]] A HOTEL is an establishment that provides paid lodging on a short-term basis. Facilities provided may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms. Small, lower-priced hotels may offer only the most basic guest services and facilities. Larger, higher-priced hotels may provide additional guest facilities such as a swimming pool, business centre (with computers, printers, and other office equipment), childcare, conference and event facilities, tennis or basketball courts, gymnasium, restaurants, day spa, and social function services. Hotel rooms are usually numbered (or named in some smaller hotels and B&Bs) to allow guests to identify their room. Some boutique, high-end hotels have custom decorated rooms. Some hotels offer meals as part of a room and board arrangement. In the United Kingdom, a hotel is required by law to serve food and drinks to all guests within certain stated hours. In Japan, capsule hotels provide a tiny room suitable only for sleeping and shared bathroom facilities.
 
 The precursor to the modern hotel was the inn of medieval Europe. For a period of about 200 years from the mid-17th century, coaching inns served as a place for lodging for coach travelers. Inns began to cater to richer clients in the mid-18th century. One of the first hotels in a modern sense was opened in Exeter in 1768. Hotels proliferated throughout Western Europe and North America in the early 19th century, and luxury hotels began to spring up in the later part of the 19th century.
 
@@ -16,13 +16,13 @@ The word _hotel_ is derived from the French _hôtel_ (coming from the same origi
 
 History
 
-Tabard_inn_mid19th.jpg]] Facilities offering hospitality to travellers have been a feature of the earliest civilizations. In Greco-Roman culture and ancient Persia, hospitals for recuperation and rest were built at thermal baths. Japan's Nishiyama Onsen Keiunkan, founded in 705, was officially recognised by the Guinness World Records as the oldest hotel in the world.[1] During the Middle Ages, various religious orders at monasteries and abbeys would offer accommodation for travellers on the road.
+]] Facilities offering hospitality to travellers have been a feature of the earliest civilizations. In Greco-Roman culture and ancient Persia, hospitals for recuperation and rest were built at thermal baths. Japan's Nishiyama Onsen Keiunkan, founded in 705, was officially recognised by the Guinness World Records as the oldest hotel in the world.[1] During the Middle Ages, various religious orders at monasteries and abbeys would offer accommodation for travellers on the road.
 
 The precursor to the modern hotel was the inn of medieval Europe, possibly dating back to the rule of Ancient Rome. These would provide for the needs of travellers, including food and lodging, stabling and fodder for the traveller's horse(s) and fresh horses for the mail coach. Famous London examples of inns include the George and the Tabard. A typical layout of an inn had an inner court with bedrooms on the two sides, with the kitchen and parlour at the front and the stables at the back.[2]
 
 For a period of about 200 years from the mid-17th century, coaching inns served as a place for lodging for coach travellers (in other words, a roadhouse). Coaching inns stabled teams of horses for stagecoaches and mail coaches and replaced tired teams with fresh teams. Traditionally they were seven miles apart, but this depended very much on the terrain.
 
-TremontHouse_ca1830s_byJamesBennett_Boston_SimonsUPNE.png in Boston, United States, a luxury hotel, the first to provide indoor plumbing]] Some English towns had as many as ten such inns and rivalry between them was intense, not only for the income from the stagecoach operators but for the revenue for food and drink supplied to the wealthy passengers. By the end of the century, coaching inns were being run more professionally, with a regular timetable being followed and fixed menus for food.[3]
+in Boston, United States, a luxury hotel, the first to provide indoor plumbing]] Some English towns had as many as ten such inns and rivalry between them was intense, not only for the income from the stagecoach operators but for the revenue for food and drink supplied to the wealthy passengers. By the end of the century, coaching inns were being run more professionally, with a regular timetable being followed and fixed menus for food.[3]
 
 Inns began to cater for richer clients in the mid-18th century, and consequently grew in grandeur and the level of service provided. One of the first hotels in a modern sense was opened in Exeter in 1768, although the idea only really caught on in the early 19th century. In 1812, Mivart's Hotel opened its doors in London, later changing its name to Claridge's.[4]
 
@@ -56,7 +56,7 @@ Hotels cater to travelers from many countries and languages, since no one countr
 
 Types
 
-Hôtel_George-V_25_08_2007_n3.jpg in Paris, France]] Hotel operations vary in size, function, and cost. Most hotels and major hospitality companies that operate hotels have set widely accepted industry standards to classify hotel types. General categories include the following:
+in Paris, France]] Hotel operations vary in size, function, and cost. Most hotels and major hospitality companies that operate hotels have set widely accepted industry standards to classify hotel types. General categories include the following:
 
 International luxury
 
@@ -114,15 +114,15 @@ Unique and specialty hotels
 
  Historic inns and boutique hotels
 
-Hotel_Astoria.jpg and statue of Tsar Nicholas I in Saint Petersburg, Russia]] Boutique hotels are typically hotels with a unique environment or intimate setting. Some hotels have gained their renown through tradition, by hosting significant events or persons, such as Schloss Cecilienhof in Potsdam, Germany, which derives its fame from the Potsdam Conference of the World War II allies Winston Churchill, Harry Truman and Joseph Stalin in 1945.[15] The Taj Mahal Palace & Tower in Mumbai is one of India's most famous and historic hotels because of its association with the Indian independence movement. Some establishments have given name to a particular meal or beverage, as is the case with the Waldorf Astoria in New York City, United States where the Waldorf Salad was first created or the Hotel Sacher in Vienna, Austria, home of the Sachertorte. Others have achieved fame by association with dishes or cocktails created on their premises, such as the Hotel de Paris where the crêpe Suzette was invented or the Raffles Hotel in Singapore, where the Singapore Sling cocktail was devised.[16]
+and statue of Tsar Nicholas I in Saint Petersburg, Russia]] Boutique hotels are typically hotels with a unique environment or intimate setting. Some hotels have gained their renown through tradition, by hosting significant events or persons, such as Schloss Cecilienhof in Potsdam, Germany, which derives its fame from the Potsdam Conference of the World War II allies Winston Churchill, Harry Truman and Joseph Stalin in 1945.[15] The Taj Mahal Palace & Tower in Mumbai is one of India's most famous and historic hotels because of its association with the Indian independence movement. Some establishments have given name to a particular meal or beverage, as is the case with the Waldorf Astoria in New York City, United States where the Waldorf Salad was first created or the Hotel Sacher in Vienna, Austria, home of the Sachertorte. Others have achieved fame by association with dishes or cocktails created on their premises, such as the Hotel de Paris where the crêpe Suzette was invented or the Raffles Hotel in Singapore, where the Singapore Sling cocktail was devised.[16]
 
-Hotel_Ritz_Paris.jpg in France]]
+in France]]
 
 A number of hotels have entered the public consciousness through popular culture, such as the Ritz Hotel in London, through its association with Irving Berlin's song, 'Puttin' on the Ritz'. The Algonquin Hotel in New York City is famed as the meeting place of the literary group, the Algonquin Round Table, and Hotel Chelsea, also in New York City, has been the subject of a number of songs and the scene of the stabbing of Nancy Spungen (allegedly by her boyfriend Sid Vicious).
 
 Resort hotels
 
-Wynn_2_(2).jpg, United States]] Some hotels are built specifically as a destination in itself to create a captive trade, example at casinos, amusement parks and holiday resorts. Though hotels have always been built in popular destinations, the defining characteristic of a resort hotel is that it exists purely to serve another attraction, the two having the same owners.
+, United States]] Some hotels are built specifically as a destination in itself to create a captive trade, example at casinos, amusement parks and holiday resorts. Though hotels have always been built in popular destinations, the defining characteristic of a resort hotel is that it exists purely to serve another attraction, the two having the same owners.
 
 On the Las Vegas Strip there is a tradition of one-upmanship with luxurious and extravagant hotels in a concentrated area. This trend now has extended to other resorts worldwide, but the concentration in Las Vegas is still the world's highest: nineteen of the world's twenty-five largest hotels by room count are on the Strip, with a total of over 67,000 rooms.[17]
 
@@ -130,7 +130,7 @@ In Europe Center Parcs might be considered a chain of resort hotels, since the s
 
 Other speciality hotels
 
-HMSQueenMary_photo_D_Ramey_Logan.JPG, Long Beach, California, United States]]
+, Long Beach, California, United States]]
 
 -   The Burj al-Arab hotel in Dubai, United Arab Emirates, built on an artificial island, is structured in the shape of a boat's sail.
 -   The Library Hotel in New York City, is unique in that each of its ten floors is assigned one category from the Dewey Decimal System.
@@ -153,11 +153,11 @@ The Cuevas Pedro Antonio de Alarcón (named after the author) in Guadix, Spain, 
 
 Cliff hotels
 
-Hotel_Riosol_en_Gran_Canaria.jpg Located on the coast but high above sea level, these hotels offer unobstructed panoramic views and a great sense of privacy without the feeling of total isolation. Some examples from around the globe are the Riosol Hotel in Gran Canaria, Caruso Belvedere Hotel in Amalfi Coast (Italy), Aman Resorts Amankila in Bali, Birkenhead House in Hermanus (South Africa), The Caves in Jamaica and Caesar Augustus in Capri.[20]
+Located on the coast but high above sea level, these hotels offer unobstructed panoramic views and a great sense of privacy without the feeling of total isolation. Some examples from around the globe are the Riosol Hotel in Gran Canaria, Caruso Belvedere Hotel in Amalfi Coast (Italy), Aman Resorts Amankila in Bali, Birkenhead House in Hermanus (South Africa), The Caves in Jamaica and Caesar Augustus in Capri.[20]
 
 Capsule hotels
 
-CapsuleHotel.jpg in Osaka, Japan]] Capsule hotels are a type of economical hotel first introduced in Japan, where people sleep in stacks of rectangular containers.
+in Osaka, Japan]] Capsule hotels are a type of economical hotel first introduced in Japan, where people sleep in stacks of rectangular containers.
 
 Day room hotels
 
@@ -169,7 +169,7 @@ Garden hotels, famous for their gardens before they became hotels, include Grave
 
 Ice, snow and igloo hotels
 
-Icehotel_entre_ms.jpg The Ice Hotel in Jukkasjärvi, Sweden, was the first ice hotel in the world; first built in 1990, it is built each winter and melts every spring. Other ice hotels include the Igloo Village in Kakslauttanen, Finland, and the Hotel de Glace in Duschenay, Canada. They can also be included within larger ice complexes; for example, the Mammut Snow Hotel in Finland is located within the walls of the Kemi snow castle; and the Lainio Snow Hotel is part of a snow village near Ylläs, Finland.
+The Ice Hotel in Jukkasjärvi, Sweden, was the first ice hotel in the world; first built in 1990, it is built each winter and melts every spring. Other ice hotels include the Igloo Village in Kakslauttanen, Finland, and the Hotel de Glace in Duschenay, Canada. They can also be included within larger ice complexes; for example, the Mammut Snow Hotel in Finland is located within the walls of the Kemi snow castle; and the Lainio Snow Hotel is part of a snow village near Ylläs, Finland.
 
 Love hotels
 
@@ -199,11 +199,11 @@ Some hotels are built with living trees as structural elements, for example the 
 
 Underwater hotels
 
-Ithaa_inside.JPG, the first undersea restaurant at the Conrad Maldives Rangali Island resort]] Some hotels have accommodation underwater, such as Utter Inn in Lake Mälaren, Sweden. Hydropolis, project in Dubai, would have had suites on the bottom of the Persian Gulf, and Jules' Undersea Lodge in Key Largo, Florida requires scuba diving to access its rooms.
+, the first undersea restaurant at the Conrad Maldives Rangali Island resort]] Some hotels have accommodation underwater, such as Utter Inn in Lake Mälaren, Sweden. Hydropolis, project in Dubai, would have had suites on the bottom of the Persian Gulf, and Jules' Undersea Lodge in Key Largo, Florida requires scuba diving to access its rooms.
 
 Overwater hotels
 
-Rehendi_Suite_Deck_(Service).jpg in the Maldives]] A resort island is an island or an archipelago that contains resorts, hotels, overwater bungalows, restaurants, tourist attractions and its amenities. Maldives has the most overwater bungalows resorts.
+in the Maldives]] A resort island is an island or an archipelago that contains resorts, hotels, overwater bungalows, restaurants, tourist attractions and its amenities. Maldives has the most overwater bungalows resorts.
 
 
 Records
@@ -222,7 +222,7 @@ The Ritz-Carlton, Hong Kong claims to be the world's highest hotel.[31] It is lo
 
 Most expensive purchase
 
-In October 2014, the Anbang Insurance Group, based in China, purchased the Waldorf Astoria New York in Manhattan for US$1.95 billion, making it the world's most expensive hotel ever sold.[32] Waldorf_Astoria_exterior.jpg, the most expensive hotel ever sold, cost US$1.95 billion in 2014[33]]]
+In October 2014, the Anbang Insurance Group, based in China, purchased the Waldorf Astoria New York in Manhattan for US$1.95 billion, making it the world's most expensive hotel ever sold.[32] , the most expensive hotel ever sold, cost US$1.95 billion in 2014[33]]]
 
 
 Long term residence

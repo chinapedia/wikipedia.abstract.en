@@ -12,7 +12,7 @@ In 2016, the International Astronomical Union organized a Working Group on Star 
 
 Physical characteristics
 
-Altair Altair_PR_image6_(white).jpg Altair-Sun_comparison.png Along with β Aquilae and γ Aquilae, Altair forms the well-known line of stars sometimes referred to as the _Family of Aquila_ or _Shaft of Aquila_.[17]
+Along with β Aquilae and γ Aquilae, Altair forms the well-known line of stars sometimes referred to as the _Family of Aquila_ or _Shaft of Aquila_.[17]
 
 Altair is a type-A main sequence star with about 1.8 times the mass of the Sun and 11 times its luminosity.[18][19] Altair rotates rapidly, with a rotational period of about 9 hours;[20] for comparison, the equator of the Sun makes a complete rotation in a little more than 25 days. Its rapid rotation forces Altair to be oblate; its equatorial diameter is over 20 percent greater than its polar diameter.[21]
 

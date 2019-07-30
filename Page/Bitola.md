@@ -24,8 +24,6 @@ Bitola has a mild humid continental climate typical of the Pelagonija region, ex
 
 History
 
-Catolic_church_bitola.jpg
-
 Prehistory
 
 Bitola is very rich in archaeological sites from the prehistoric period. Two important ones are Veluška Tumba, and Bara Tumba near the village of Porodin. From the Copper Age there are remains from the settlements of Tumba near the village of Crnobuki, Šuplevec near the village of Suvodol, and Visok Rid near the village of Bukri. The Bronze Age is represented by ruins from the settlement of Tumba near the village of Kanino and another settlement with the same name near the village of Karamani.
@@ -40,7 +38,7 @@ In the early Byzantine period (4th to 6th centuries AD) Heraclea was an importan
 
 Middle Ages
 
-In the 6th and 7th centuries, the region around Bitola experienced a demographic shift as more and more Slavic tribes settled in the area. In place of the deserted theater, several houses were built during that time. The Slavs also built a fortress around their settlement. Bitola was a part of the First Bulgarian Empire from the middle of the 8th to the early 11th centuries. The spread of Christianity was assisted by St. Clement of Ohrid and Naum of Preslav in the 9th and early 10th centuries. Many monasteries and churches were built in the city. Bitolski_nadpis.jpg In the 10th century, Bitola was under the rule of the Bulgarian Tsar Samuil. He built a castle in the town, later used by his successor Gavril Radomir of Bulgaria. The town is mentioned in several medieval sources. John Skylitzes's 11th-century chronicle mentions that Emperor Basil II burned Gavril's castles in Bitola, when passing through and ravaging Pelagonia. The second chrysobull (1019) of Basil II mentioned that the Bishop of Bitola depended on the Archbishopric of Ohrid. During the reign of Samuil, the city was the seat of the Bitola Bishopric. In many medieval sources, especially Western, the name _Pelagonia_ was synonymous with the Bitola Bishopric. In some sources Bitola was known as Heraclea since what once was the Heraclea Bishopric later became the Pelagonian Metropolitan's Diocese. In 1015, Tsar Gavril Radomir was killed by his cousin Ivan Vladislav, who then declared himself tsar and rebuilt the city's fortress. To commemorate the occasion, a stone inscription written in the Cyrillic alphabet was set in the fortress; in it the Slavic name of the city is mentioned: Bitol.
+In the 6th and 7th centuries, the region around Bitola experienced a demographic shift as more and more Slavic tribes settled in the area. In place of the deserted theater, several houses were built during that time. The Slavs also built a fortress around their settlement. Bitola was a part of the First Bulgarian Empire from the middle of the 8th to the early 11th centuries. The spread of Christianity was assisted by St. Clement of Ohrid and Naum of Preslav in the 9th and early 10th centuries. Many monasteries and churches were built in the city. In the 10th century, Bitola was under the rule of the Bulgarian Tsar Samuil. He built a castle in the town, later used by his successor Gavril Radomir of Bulgaria. The town is mentioned in several medieval sources. John Skylitzes's 11th-century chronicle mentions that Emperor Basil II burned Gavril's castles in Bitola, when passing through and ravaging Pelagonia. The second chrysobull (1019) of Basil II mentioned that the Bishop of Bitola depended on the Archbishopric of Ohrid. During the reign of Samuil, the city was the seat of the Bitola Bishopric. In many medieval sources, especially Western, the name _Pelagonia_ was synonymous with the Bitola Bishopric. In some sources Bitola was known as Heraclea since what once was the Heraclea Bishopric later became the Pelagonian Metropolitan's Diocese. In 1015, Tsar Gavril Radomir was killed by his cousin Ivan Vladislav, who then declared himself tsar and rebuilt the city's fortress. To commemorate the occasion, a stone inscription written in the Cyrillic alphabet was set in the fortress; in it the Slavic name of the city is mentioned: Bitol.
 
 Following battles with Tsar Ivan Vladislav, the Byzantine emperor Basil II recaptured Monastiri in 1015. The town is mentioned as an episcopal centre in 1019 in a record by Basil II. Two important uprisings against Byzantine rule took place in the Bitola area in 1040 and 1072. After the Bulgarian state was restored in the late 12th century, Bitola came under the rule of Tsar Kaloyan of Bulgaria. It was conquered again by Byzantium at the end of the 13th century, but it became part of Serbia in the first half of the 14th century, after the conquests of Stefan Dušan.
 
@@ -48,7 +46,7 @@ As a military, political and cultural center, Bitola played a very important rol
 
 Ottoman rule
 
-Bitola_old.jpg Udruzenje_chetnika_za_slobodu,_Bitola.jpg Greek_School_Gymnasium_of_Monastir_Bitola.JPG Mehmed_V_Reshad_vo_Bitola,_precek.jpg in the train station in Bitola, 1911]] Komisioni_i_Alfabetit_Monastir_1908.jpg]] Pitomci_od_Voena_akademija,_Bitola.jpg Tursko_uciliste_vo_Bitola.jpg Bitola_05.JPG
+in the train station in Bitola, 1911]] ]]
 
 From 1382 to 1912, Manastır (today's Bitola) was part of the Ottoman Empire. Fierce battles took place near the city during the Ottoman conquest. Ottoman rule was completely established after the death of Prince Marko in 1395 when the Ottoman Empire established the Sanjak of Ohrid as a part of the Rumelia Eyalet and one of the earliest established sanjaks in Europe.[8] Before it became part of the Ottoman Empire in 1395 Bitola was part of the realm of Prince Marko.[9][10] Initially its county town was Bitola and later it was Ohrid, so it was sometimes referred to as the Sanjak of Monastir and sometimes as the Sanjak of Bitola.[11]
 
@@ -68,8 +66,6 @@ In November 1905, the Secret Committee for the Liberation of Albania, a secret o
 
 Ilinden Uprising
 
-Bitola.1914.jpg
-
 The Bitola region was a stronghold of the Ilinden Uprising. The uprising was conceived in 1903 in Thessaloniki by the Internal Macedonian Revolutionary Organization (IMRO).[19] The uprising in the Bitola region was planned in Smilevo village in May 1903. Battles were fought in the villages of Bistrica, Rakovo, Buf, Skocivir, Paralovo, Brod, Novaci, Smilevo, Gjavato, Capari and others. Smilevo was defended by 600 rebels led by Dame Gruev and Georgi Sugarev. They were defeated and the villages were burned.
 
 Balkan Wars
@@ -78,7 +74,7 @@ In 1912, Montenegro, Serbia, Bulgaria and Greece fought the Ottomans in the Firs
 
 World War I
 
-Vivat-bander_-_1915-12-04_-_Monastir_by_O._R._Bossert.jpg commemorating the Bulgarian occupation (1915).]]
+commemorating the Bulgarian occupation (1915).]]
 
 During World War I Bitola was on the Salonica Front. Bulgaria, a Central Power, took the city on 21 November 1915, while the Allied forces recaptured it in 1916. Bitola was divided into French, Russian, Italian and Serbian sections, under the command of French general Maurice Sarrail. Until Bulgaria's surrender in late autumn 1918, Bitola remained a front line city and was bombarded almost daily by air bombardment and artillery fire and was nearly destroyed.
 
@@ -93,15 +89,15 @@ During World War II (1939–45), the Germans (on 9 April 1941) and Bulgarians (o
 
 Main sights
 
-Apteka_Calovski,_Bitola,_Manaki.jpg The city has many historical building dating from many historical periods. The most notable ones are from the Ottoman age, but there are some from the more recent past.
+The city has many historical building dating from many historical periods. The most notable ones are from the Ottoman age, but there are some from the more recent past.
 
 Širok Sokak
 
-Širok Sokak (, meaning "Wide Alley") is a long pedestrian street that runs from Magnolia Square to the City Park. Bitola_053.JPG
+Širok Sokak (, meaning "Wide Alley") is a long pedestrian street that runs from Magnolia Square to the City Park.
 
 Clock Tower
 
-The_Clock_Tower_in_Bitola_town_-_Republic_of_Macedonia.jpg Magnolija_square_in_Bitola_(Магнолија,_Битола).jpg with Russian Cosulate]] Хамам_Дебој_(Битола).jpg]]
+with Russian Cosulate]] ]]
 
 It is unknown when Bitola's clock tower was built. Written sources from the 16th century mention a clock tower, but it is not clear if it is the same one. Some believe it was built at the same time as St. Dimitrija Church, in 1830. Legend says that the Ottoman authorities collected around 60,000 eggs from nearby villages and mixed them in the mortar to make the walls stronger.
 
@@ -123,8 +119,6 @@ Heraclea Lyncestis () was an important ancient settlement from the Hellenistic p
 
 The covered bazaar
 
-Bitola.1914_01.jpg
-
 Situated near the city centre, the covered bazaar () is one of the most impressive and oldest buildings in Bitola from the Ottoman period. With its numerous cupolas that look like a fortress, with its tree-branch-like inner streets and four large metal doors it is one of the biggest covered markets in the region.
 
 It was built in the 15th century by Kara Daut Pasha Uzuncarsili, then Rumelia's Beylerbey. Although the bazaar appears secure, it has been robbed and set on fire, but has managed to survive. The Bezisten, from the 15th to the 19th centuries, was rebuilt, and many stores, often changing over time, were located there. Most of them were selling textile and other luxurious fabrics. At the same time the Bezisten was a treasury, where in specially made small rooms the money from the whole Rumelian Vilaet was kept, before it was transferred into the royal treasury. In the 19th century the Bezisten held a total of 84 shops. Today most of them are contemporary and they sell different types of products, but despite the internal renovations, the outwards appearance of the structure has remained unchanged.
@@ -135,7 +129,7 @@ The Gazi Hajdar Kadi Mosque is one of the most attractive monuments of Islamic a
 
 Jeni Mosque
 
-2011_Bitola,_Meczet_Jeni_01.JPG]] The Jeni Mosque is located in the center of the city. It has a square base, topped with a dome. Near the mosque is a minaret, 40 m high. Today, the mosque's rooms house permanent and temporary art exhibitions. Recent archaeological excavations have revealed that it has been built upon an old church.
+]] The Jeni Mosque is located in the center of the city. It has a square base, topped with a dome. Near the mosque is a minaret, 40 m high. Today, the mosque's rooms house permanent and temporary art exhibitions. Recent archaeological excavations have revealed that it has been built upon an old church.
 
 Ishak Çelebi Mosque
 
@@ -154,7 +148,7 @@ The Deboj Bath is a Turkish bath (hamam). It is not known when exactly it was co
 
 Bitola today
 
-Bitola_Zoo_Lions_2.JPGs in their cage at Bitola zoo]] Bitola is the economic and industrial center of southwestern North Macedonia. Many of the largest companies in the country are based in the city. The Pelagonia agricultural combine is the largest producer of food in the country. The Streževo water system is the largest in North Macedonia and has the best technological facilities. The three thermoelectric power stations of REK Bitola produce nearly 80% of electricity in the state. The Frinko refrigerate factory was a leading electrical and metal company. Bitola also has significant capacity in the textile and food industries.
+s in their cage at Bitola zoo]] Bitola is the economic and industrial center of southwestern North Macedonia. Many of the largest companies in the country are based in the city. The Pelagonia agricultural combine is the largest producer of food in the country. The Streževo water system is the largest in North Macedonia and has the best technological facilities. The three thermoelectric power stations of REK Bitola produce nearly 80% of electricity in the state. The Frinko refrigerate factory was a leading electrical and metal company. Bitola also has significant capacity in the textile and food industries.
 
 Bitola is also home to thirteen consulates, which gives the city the nickname "the city of consuls."
 
@@ -205,7 +199,7 @@ There is only one television station in Bitola: Vena, two regional radio station
 
 City Council
 
-Bitola2017.svg The BITOLA MUNICIPALITY COUNCIL () is the governing body of the city and municipality of Bitola. The city council approves and rejects projects that would have place inside the municipality given by its members and the Mayor of Bitola. The Council consists of elected representatives. The number of members of the council is determined according to the number of residents in the community and can not be fewer than nine nor more than 33. Currently the council is composed of 31 councillors. Council members are elected for a term of four years.
+The BITOLA MUNICIPALITY COUNCIL () is the governing body of the city and municipality of Bitola. The city council approves and rejects projects that would have place inside the municipality given by its members and the Mayor of Bitola. The Council consists of elected representatives. The number of members of the council is determined according to the number of residents in the community and can not be fewer than nine nor more than 33. Currently the council is composed of 31 councillors. Council members are elected for a term of four years.
 
 Examining matters within its competence, the Council set up committees. Council committees are either permanent or temporary.
 
@@ -264,7 +258,7 @@ According to the 2002 census the most common languages in the city are the follo
   Bosnian      10             0.01
   Others       269            0.4
 
-ReligionСедиште_на_Преспанско-пелагониската_православна_епархија_се_наоѓа_во_градот_Битола.jpg in Bitola]]
+Religion in Bitola]]
 
 Bitola is a bishopric city and the seat of the Diocese of Prespa- Pelagonia. In World War II the diocese was named Ohrid - Bitola. With the restoration of the autocephaly of the Macedonian Orthodox Church in 1967, it got its present name Prespa- Pelagonia diocese which covers the following regions and cities: Bitola, Resen, Prilep, Krusevo and Demir Hisar.
 
@@ -290,8 +284,6 @@ Bitola has been part of the UNESCO Creative Cities Network since December 2015.[
 Manaki Festival of Film and Camera
 
 The Manaki festival is the oldest film festival in the world .In memories of the first cameramen on the Balkans, Milton Manaki, every September the Film and Photo festival "Brothers Manaki" takes place. It is a combination of documentary and full-length films that are shown. The festival is a world class event with high recognition from press. A number of high profile actors such as Catherine Deneuve, Isabelle Huppert, Victoria Abril, Predrag Manojlovic, Michael York, Juliette Binoche, and Rade Sherbedgia have attended.
-
-Magaza_Bitola.JPG
 
 Ilindenski Denovi
 
@@ -330,8 +322,6 @@ Education
 
 St. Clement of Ohrid University of Bitola (. Климент Охридски — Битола) was founded in 1979, as a result of an increasing demand for highly skilled professionals outside the country's capital. Since 1994, it has carried the name of the Slavic educator St. Clement of Ohrid. The university has institutes in Bitola, Ohrid, and Prilep, and its headquarters is in Bitola. It has become a well established university, and cooperates with University of St. Cyril and Methodius from Skopje and other universities in the Balkans and Europe. The following institutes and scientific organizations are part of the university:
 
-Bitola_-_tehnichki_fakultet.jpg
-
 -   Technical Faculty – Bitola
 -   Economical Faculty – Prilep
 -   Faculty of Tourism and Leisure management – Ohrid
@@ -344,7 +334,7 @@ Bitola_-_tehnichki_fakultet.jpg
 -   Hydro-biological institute – Ohrid
 -   Slavic cultural institute – Prilep
 
-Gimnazija_Bitolj.JPG There are seven high schools in Bitola:
+There are seven high schools in Bitola:
 
 -   "Josip Broz-Tito", a gymnasium
 -   "Taki Daskalo", a gymnasium
@@ -355,7 +345,7 @@ Gimnazija_Bitolj.JPG There are seven high schools in Bitola:
 -   "Kuzman Šapkarev", an agricultural high school
 -   "Toše Proeski", a musical high school
 
-Ten Primary Schools in Bitola are: Uciliste_Kliment_Ohridski,_Bitola.jpg Uciliste_Sv._Bogorodica_vo_Bitola.jpg
+Ten Primary Schools in Bitola are:
 
 -   "Todor Angelevski"
 -   "Sv. Kliment Ohridski"
@@ -371,7 +361,7 @@ Ten Primary Schools in Bitola are: Uciliste_Kliment_Ohridski,_Bitola.jpg Ucilist
 
 People from Bitola
 
-Bitola_-_Hotel_Epinal_(2018).jpg city of Épinal, a twin town of Bitola. In return, a quarter in the city of Épinal is called Bitola, and a Flag of North Macedonia is flown there.]]
+city of Épinal, a twin town of Bitola. In return, a quarter in the city of Épinal is called Bitola, and a Flag of North Macedonia is flown there.]]
 
 
 Twin towns — sister cities

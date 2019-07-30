@@ -11,7 +11,7 @@ The Book of Mormon is divided into smaller books, titled after the individuals n
 
 Origin
 
-Basic_BOM_Manuscripts.jpg According to Joseph Smith, he was seventeen years of age when an angel of God named Moroni appeared to him[16] and said that a collection of ancient writings was buried in a nearby hill in present-day Wayne County, New York, engraved on golden plates by ancient prophets. The writings were said to describe a people whom God had led from Jerusalem to the Western hemisphere 600 years before Jesus' birth. According to the narrative, Moroni was the last prophet among these people and had buried the record, which God had promised to bring forth in the latter days. Smith stated that this vision occurred on the evening of September 21, 1823 and that on the following day, via divine guidance, he located the burial location of the plates on this hill; was instructed by Moroni to meet him at the same hill on September 22 of the following year to receive further instructions; and that, in four years from this date, the time would arrive for "bringing them forth", i.e., translating them. Smith's description of these events recounts that he was allowed to take the plates on September 22, 1827, exactly four years from that date, and was directed to translate them into English.[17][18]
+According to Joseph Smith, he was seventeen years of age when an angel of God named Moroni appeared to him[16] and said that a collection of ancient writings was buried in a nearby hill in present-day Wayne County, New York, engraved on golden plates by ancient prophets. The writings were said to describe a people whom God had led from Jerusalem to the Western hemisphere 600 years before Jesus' birth. According to the narrative, Moroni was the last prophet among these people and had buried the record, which God had promised to bring forth in the latter days. Smith stated that this vision occurred on the evening of September 21, 1823 and that on the following day, via divine guidance, he located the burial location of the plates on this hill; was instructed by Moroni to meet him at the same hill on September 22 of the following year to receive further instructions; and that, in four years from this date, the time would arrive for "bringing them forth", i.e., translating them. Smith's description of these events recounts that he was allowed to take the plates on September 22, 1827, exactly four years from that date, and was directed to translate them into English.[17][18]
 
 Accounts vary of the way in which Smith dictated the Book of Mormon. Smith himself implied that he read the plates directly using spectacles prepared for the purpose of translating.[19] Other accounts variously state that he used one or more seer stones placed in a top hat.[20] Both the special spectacles and the seer stone were at times referred to as the "Urim and Thummim".[21] During the translating process itself, Smith sometimes separated himself from his scribe with a blanket between them.[22] Additionally, the plates were not always present during the translating process, and when present, they were always covered up.[23]
 
@@ -19,14 +19,13 @@ Smith's first published description of the plates said that the plates "had the 
 
 In addition to Smith's account regarding the plates, eleven others stated that they saw the golden plates and, in some cases, handled them. Their written testimonies are known as the Testimony of Three Witnesses[26] and the Testimony of Eight Witnesses.[27] These statements have been published in most editions of the Book of Mormon.
 
-JosephSmithTranslating.jpg Smith enlisted his neighbor Martin Harris as a scribe during his initial work on the text. (Harris later mortgaged his farm to underwrite the printing of the Book of Mormon.) In 1828, Harris, prompted by his wife Lucy Harris, repeatedly requested that Smith lend him the current pages that had been translated. Smith reluctantly acceded to Harris's requests. Lucy Harris is thought to have stolen the first 116 pages.[28] After the loss, Smith recorded that he had lost the ability to translate, and that Moroni had taken back the plates to be returned only after Smith repented.[29][30][31][32] Smith later stated that God allowed him to resume translation, but directed that he begin translating another part of the plates (in what is now called the Book of Mosiah). In 1829, work resumed on the Book of Mormon, with the assistance of Oliver Cowdery, and was completed in a short period (April–June 1829).[33] Smith said that he then returned the plates to Moroni upon the publication of the book.[34][35] The Book of Mormon went on sale at the bookstore of E. B. Grandin in Palmyra, New York on March 26, 1830.[36] Today, the building in which the Book of Mormon was first published and sold is known as the Book of Mormon Historic Publication Site.
+Smith enlisted his neighbor Martin Harris as a scribe during his initial work on the text. (Harris later mortgaged his farm to underwrite the printing of the Book of Mormon.) In 1828, Harris, prompted by his wife Lucy Harris, repeatedly requested that Smith lend him the current pages that had been translated. Smith reluctantly acceded to Harris's requests. Lucy Harris is thought to have stolen the first 116 pages.[28] After the loss, Smith recorded that he had lost the ability to translate, and that Moroni had taken back the plates to be returned only after Smith repented.[29][30][31][32] Smith later stated that God allowed him to resume translation, but directed that he begin translating another part of the plates (in what is now called the Book of Mosiah). In 1829, work resumed on the Book of Mormon, with the assistance of Oliver Cowdery, and was completed in a short period (April–June 1829).[33] Smith said that he then returned the plates to Moroni upon the publication of the book.[34][35] The Book of Mormon went on sale at the bookstore of E. B. Grandin in Palmyra, New York on March 26, 1830.[36] Today, the building in which the Book of Mormon was first published and sold is known as the Book of Mormon Historic Publication Site.
 
 Since its first publication and distribution, critics of the Book of Mormon have claimed that it was fabricated by Smith[37][38][39] and that he drew material and ideas from various sources rather than translating an ancient record. Works that have been suggested as sources include the King James Bible,[40][41] _The Wonders of Nature_,[42][43] _View of the Hebrews_,[44][45][46] and an unpublished manuscript written by Solomon Spalding.[47][48][49] FairMormon maintains that all of these theories have been disproved and discredited, arguing that both Mormon and non-Mormon historians have found serious flaws in their research.[50][51][52][53][54][55] The position of most adherents of the Latter Day Saint movement and the official position of The Church of Jesus Christ of Latter-day Saints (LDS Church) is that the book is an accurate historical record.[56]
 
 
 Content
 
-The_Book_of_Mormon-_An_Account_Written_by_the_Hand_of_Mormon_upon_Plates_Taken_from_the_Plates_of_Nephi.jpg
 (Image from the U.S. Library of Congress _Rare Book and Special Collections Division_.)]]
 
 Title
@@ -55,7 +54,7 @@ The Book of Moroni then details the final destruction of the Nephites and the id
 
 Doctrinal and philosophical teachings
 
-The_Hill_Cumorah_by_C.C.A._Christensen.jpeg's description of receiving the golden plates from the angel Moroni at the Hill Cumorah]] The Book of Mormon contains doctrinal and philosophical teachings on a wide range of topics, from basic themes of Christianity and Judaism[68] to political and ideological teachings. Jesus is mentioned every 1.7 verses and is referred to by one hundred different names.[69]
+'s description of receiving the golden plates from the angel Moroni at the Hill Cumorah]] The Book of Mormon contains doctrinal and philosophical teachings on a wide range of topics, from basic themes of Christianity and Judaism[68] to political and ideological teachings. Jesus is mentioned every 1.7 verses and is referred to by one hundred different names.[69]
 
 Jesus
 
@@ -123,7 +122,7 @@ Most adherents of the Latter Day Saint movement consider the Book of Mormon to g
 
 Manuscripts
 
-Book_of_Mormon_printer's_manuscript,_1870s.jpg figure David Whitmer)]] The Book of Mormon was dictated by Joseph Smith to several scribes over a period of 13 months,[138] resulting in three manuscripts.
+figure David Whitmer)]] The Book of Mormon was dictated by Joseph Smith to several scribes over a period of 13 months,[138] resulting in three manuscripts.
 
 The 116 lost pages contained the first portion of the Book of Lehi; it was lost after Smith loaned the original, uncopied manuscript to Martin Harris.[139]
 
@@ -217,7 +216,7 @@ Differences between the original and printer's manuscript, the 1830 printed vers
 
 Non-English translations
 
-Book_of_Mormon_translations.jpg The LDS version of the Book of Mormon has been translated into 83 languages and selections have been translated into an additional 25 languages. In 2001, the LDS Church reported that all or part of the Book of Mormon was available in the native language of 99 percent of Latter-day Saints and 87 percent of the world's total population.[191]
+The LDS version of the Book of Mormon has been translated into 83 languages and selections have been translated into an additional 25 languages. In 2001, the LDS Church reported that all or part of the Book of Mormon was available in the native language of 99 percent of Latter-day Saints and 87 percent of the world's total population.[191]
 
 Translations into languages without a tradition of writing (e.g., Kaqchikel, Tzotzil) are available on audio cassette.[192] Translations into American Sign Language are available on videocassette and DVD.
 
@@ -228,7 +227,7 @@ In 1998, the LDS Church stopped translating selections from the Book of Mormon, 
 
 Representations in media
 
-HCP_Nephi's_Vision.PNG]] Events of the Book of Mormon are the focus of several LDS Church films, including _The Life of Nephi_ (1915), _How Rare a Possession_ (1987) and _The Testaments of One Fold and One Shepherd_ (2000). Such films in LDS cinema (i.e., films not officially commissioned by the LDS Church) include _The Book of Mormon Movie, Vol. 1: The Journey_ (2003) and _Passage to Zarahemla_ (2007).
+]] Events of the Book of Mormon are the focus of several LDS Church films, including _The Life of Nephi_ (1915), _How Rare a Possession_ (1987) and _The Testaments of One Fold and One Shepherd_ (2000). Such films in LDS cinema (i.e., films not officially commissioned by the LDS Church) include _The Book of Mormon Movie, Vol. 1: The Journey_ (2003) and _Passage to Zarahemla_ (2007).
 
 Second Nephi 9:20–27 from the Book of Mormon is quoted in a funeral service in Alfred Hitchcock's film _Family Plot_.
 

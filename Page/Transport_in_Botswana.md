@@ -1,4 +1,4 @@
-Flag_of_Botswana.svg TRANSPORTATION IN BOTSWANA is provided by internal and extensive network of railways, highways, ferry services and air routes that criss-cross the country.[1]
+TRANSPORTATION IN BOTSWANA is provided by internal and extensive network of railways, highways, ferry services and air routes that criss-cross the country.[1]
 
 
 Rail transport
@@ -6,10 +6,6 @@ Rail transport
 Railways
 
 BR Express
-
-BR_Express_Interior.jpg
-
-BR_Express_Interior_1.jpg
 
 All passenger services were discontinued in 2009, with the only remaining service being an international link to Zimbabwe from Francistown. Freight trains still operate. Passenger service was expected to resume in late 2015.[2] Passenger services were later re-introduced in March 2016.
 
@@ -29,13 +25,13 @@ The train stops at Otse, Ramotswa and Commerce Park Halt.
 
 BR Express Sleeping & Dining Department
 
-BR_Express_Dining_Department.jpg The BR decided from the very beginning that it would operate its own sleeping cars. Bigger - sized berths and more comfortable surroundings were built. Providing and operating their own cars allowed better control of the service provided as well as revenue received, although profit was never a direct result of providing food to passengers. Rather, it was for those who could afford to travel great distances expected such facilities and favourable opinion would - well attracting others to Botswana and the BR's trains.
+The BR decided from the very beginning that it would operate its own sleeping cars. Bigger - sized berths and more comfortable surroundings were built. Providing and operating their own cars allowed better control of the service provided as well as revenue received, although profit was never a direct result of providing food to passengers. Rather, it was for those who could afford to travel great distances expected such facilities and favourable opinion would - well attracting others to Botswana and the BR's trains.
 
 Locomotives
 
-BR_Express_1.jpg to Francistown]]
+to Francistown]]
 
-BR_Express_2.jpg DIESEL LOCOMOTIVES
+DIESEL LOCOMOTIVES
 
 As of March 2009
 
@@ -46,8 +42,6 @@ As of March 2009
 8 new gt142aces delivered in 2017 from emd.
 
 Network
-
-Botswana_rail_network_map.svg
 
 -   total: 888 km (since 2015)[3]
 -   number of stations: 13
@@ -137,10 +131,6 @@ The general motorway speed limit is 120 km/h.[4]
 
 Road Sign
 
-Series_of_Bends_sign_(Botswana).svg
-
-SADC_road_sign_W209.svg
-
 Traditionally, road signs in Botswana used blue backgrounds rather than the yellow, white, or orange that the rest of the world uses on traffic warning signs. In the early 2010s, officials announced plans to begin phasing out the distinctive blue signs in favor of more typical signs in order to be more in line with the neighboring Southern African Development Community member states.[5]
 
 Interchanges
@@ -166,8 +156,6 @@ In most parts of Botswana, there are many taxiscabs of various colours and style
 
 Minibus Taxis
 
-Public_transport_in_Gaborone.jpg
-
 Minibus Taxis is also known as _Kombi_ are the predominant form of transport for people in urban areas of Botswana and mostly of them they're found within cities, towns, major villages and even least populated areas.
 
 They also have their own minibus station within that particular area, they only transport people within that specific area, and all of them they have different routes. This is due to their availability and affordability to the public.
@@ -183,7 +171,7 @@ All couch buses have different time for depart and they also have different rout
 
 Aviation
 
-Aeropuerto_Internacional_Sir_Seretse_Khama_de_Gaborone,_Botswana.jpg In 2004 there were an estimated 85 airports, 10 of which (as of 2005), were paved. The country's main international airport is Sir Seretse Khama International Airport in Gaborone. The government-owned Air Botswana operates scheduled flights to Francistown, Gaborone, Maun, and Selebi-Phikwe. There is international service to Johannesburg, South Africa; Mbabane, Swaziland; and Harare, Zimbabwe. A new international airport near Gaborone was opened in 1984. Air passengers arriving to and departing from Botswana during 2003 totalled about 183,000.
+In 2004 there were an estimated 85 airports, 10 of which (as of 2005), were paved. The country's main international airport is Sir Seretse Khama International Airport in Gaborone. The government-owned Air Botswana operates scheduled flights to Francistown, Gaborone, Maun, and Selebi-Phikwe. There is international service to Johannesburg, South Africa; Mbabane, Swaziland; and Harare, Zimbabwe. A new international airport near Gaborone was opened in 1984. Air passengers arriving to and departing from Botswana during 2003 totalled about 183,000.
 
 International Airports
 
@@ -197,8 +185,6 @@ Botswana has 4 international airports. The following are:
 
 -   Kasane Airport in Kasane.
 
-Maun_Airport.jpg
-
 -   Maun Airport in Maun.
 
    '''Proposed '''
@@ -211,8 +197,6 @@ Pipelines
 CURRENTLY UNDER CONSTRUCTION
 
 North-South Carrier
-
-Botswana_NSC_and_Extension.svg
 
 NSC is a pipeline in Botswana that carries raw water, south for a distance of to the capital city of Gaborone. It was done in phases. However, phase 1 was completed in 2000.
 
@@ -241,14 +225,10 @@ Waterways
 
 Ferries
 
-KazungulaFerry.jpg
-
 Kazungula Ferry is a pontoon ferry that crosses wide Zambezi River between Botswana and Zambia.
 
 
 Border Posts
-
-Pandamatenga_Border_Post_Sign_by_Meraj_Chhaya.jpg
 
 -   Bokspits Border Post
 -   Kazungula Border Post

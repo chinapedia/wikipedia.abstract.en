@@ -1,4 +1,4 @@
-Hendrick_Avercamp.jpg SCENEONICE.jpg Hendrick_Avercamp_-_Winter_Landscape_-_WGA1082.jpg HENDRICK AVERCAMP (January 27, 1585 (bapt.) – May 15, 1634 (buried)) was a Dutch painter. Avercamp was born in Amsterdam, where he studied with the Danish-born portrait painter Pieter Isaacks (1569–1625), and perhaps also with David Vinckboons. In 1608 he moved from Amsterdam to Kampen in the province of Overijssel. Avercamp was deaf and mute and was known as "de Stomme van Kampen" (the mute of Kampen).
+HENDRICK AVERCAMP (January 27, 1585 (bapt.) – May 15, 1634 (buried)) was a Dutch painter. Avercamp was born in Amsterdam, where he studied with the Danish-born portrait painter Pieter Isaacks (1569–1625), and perhaps also with David Vinckboons. In 1608 he moved from Amsterdam to Kampen in the province of Overijssel. Avercamp was deaf and mute and was known as "de Stomme van Kampen" (the mute of Kampen).
 
 As one of the first landscape painters of the 17th-century Dutch school, he specialized in painting the Netherlands in winter. Avercamp's paintings are colorful and lively, with carefully crafted images of the people in the landscape. Many of Avercamp's paintings feature people ice skating on frozen lakes.
 
@@ -11,7 +11,7 @@ Artwork
 
 Avercamp probably painted in his studio on the basis of sketches he had made in the winter. Avercamp was famous even abroad for his winter landscapes. The passion for painting skating characters probably came from his childhood as he practiced skating with his parents. The last quarter of the 16th century, during which Avercamp was born, was one of the coldest periods of the Little Ice Age.
 
-The Flemish painting tradition is mainly expressed in Avercamp's early work. This is consistent with the landscapes of Pieter Bruegel the Elder. Avercamp painted landscapes with a high horizon and many figures who are working on something. The paintings are narrative, with many anecdotes. For instance, included in the painting "Winter landscape with skaters" are several prurient details: a couple making love, naked buttocks, and a peeing male. Hendrick_Avercamp_-_Winterlandschap_met_ijsvermaak.jpg]]
+The Flemish painting tradition is mainly expressed in Avercamp's early work. This is consistent with the landscapes of Pieter Bruegel the Elder. Avercamp painted landscapes with a high horizon and many figures who are working on something. The paintings are narrative, with many anecdotes. For instance, included in the painting "Winter landscape with skaters" are several prurient details: a couple making love, naked buttocks, and a peeing male. ]]
 
 Later in his life drawing the atmosphere was also important in his work. The horizon also gradually dropped down under more and more air.
 

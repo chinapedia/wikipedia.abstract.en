@@ -1,11 +1,11 @@
-Tomahawk_Block_IV_cruise_missile.jpg]] Taurus_ILA2006.JPG cruise missile of the Luftwaffe]]
+]] cruise missile of the Luftwaffe]]
 
 A CRUISE MISSILE is a guided missile used against terrestrial targets, that remains in the atmosphere and flies the major portion of its flight path at approximately constant speed. Cruise missiles are designed to deliver a large warhead over long distances with high precision. Modern cruise missiles are capable of travelling at supersonic or high subsonic speeds, are self-navigating, and are able to fly on a non-ballistic, extremely low-altitude trajectory.
 
 
 History
 
-Fieseler_Fi-103.jpg]] The idea of an "aerial torpedo" was shown in the British 1909 film _The Airship Destroyer_, where flying torpedoes controlled wirelessly are used to bring down airships bombing London.[1]
+]] The idea of an "aerial torpedo" was shown in the British 1909 film _The Airship Destroyer_, where flying torpedoes controlled wirelessly are used to bring down airships bombing London.[1]
 
 In 1916, American aviator Lawrence Sperry built and patented an "aerial torpedo", the Hewitt-Sperry Automatic Airplane, a small biplane carrying a TNT charge, a Sperry autopilot and a barometric altitude control. Inspired by these experiments, the United States Army developed a similar flying bomb called the Kettering Bug. Germany had also flown trials with remote-controlled aerial gliders _(Torpedogleiter)_ built by Siemens-Schuckert beginning in 1916.[2]
 
@@ -52,7 +52,7 @@ A hypersonic speed cruise missile would travel at least five times the speed of 
 
 Supersonic
 
-Brahmos_imds.jpg shown at IMDS 2007.|300x300px]] These missiles travel faster than the speed of sound, usually using ramjet engines. The range is typically 100–500 km, but can be greater. Guidance systems vary.
+shown at IMDS 2007.|300x300px]] These missiles travel faster than the speed of sound, usually using ramjet engines. The range is typically 100–500 km, but can be greater. Guidance systems vary.
 
 Examples:
 
@@ -97,7 +97,7 @@ Intercontinental-range supersonic
 
 Long-range subsonic
 
-Nirbhay_missiles_during_Republic_Day_Parade_2018.jpg The United States, Russia, India, United Kingdom, Israel, South Korea, Turkey, Iran, China and Pakistan have developed several long-range subsonic cruise missiles. These missiles have a range of over and fly at about .[18] They typically have a launch weight of about [19] and can carry either a conventional or a nuclear warhead. Earlier versions of these missiles used inertial navigation; later versions use much more accurate TERCOM and DSMAC systems. Most recent versions can use satellite navigation.
+The United States, Russia, India, United Kingdom, Israel, South Korea, Turkey, Iran, China and Pakistan have developed several long-range subsonic cruise missiles. These missiles have a range of over and fly at about .[18] They typically have a launch weight of about [19] and can carry either a conventional or a nuclear warhead. Earlier versions of these missiles used inertial navigation; later versions use much more accurate TERCOM and DSMAC systems. Most recent versions can use satellite navigation.
 
 Examples:
 
@@ -120,7 +120,7 @@ Examples:
 
 Medium-range subsonic
 
-Storm_Shadow_p1220865.jpg (UK/France/Italy)]] Babur_Cruise_Missle_at_Ideas_2008.jpg cruise missile launcher]]
+(UK/France/Italy)]] cruise missile launcher]]
 
 These missiles are about the same size and weight and fly at similar speeds to the above category. Guidance systems vary.
 
@@ -144,7 +144,7 @@ Examples:
 
 Short-range subsonic
 
-These are subsonic missiles which weigh around and have a range of up to . NSM_PICT0001.JPG of the Norwegian Navy]] Examples:
+These are subsonic missiles which weigh around and have a range of up to . of the Norwegian Navy]] Examples:
 
 -   Apache (100–140 km)
 -   AVMT-300 (300 km) Brazil
@@ -182,13 +182,13 @@ These are subsonic missiles which weigh around and have a range of up to . NSM_P
 
 Deployment
 
-AGM-129A_-_2006_0306_b52_2lg.jpg being secured on a B-52H bomber]] The most common mission for cruise missiles is to attack relatively high-value targets such as ships, command bunkers, bridges and dams.[27] Modern guidance systems permit accurate attacks.
+being secured on a B-52H bomber]] The most common mission for cruise missiles is to attack relatively high-value targets such as ships, command bunkers, bridges and dams.[27] Modern guidance systems permit accurate attacks.
 
 the BGM-109 Tomahawk missile model has become a significant part of the United States naval arsenal. It gives ships and submarines an extremely accurate, long-range, conventional land attack weapon. Each costs about US$1.99 million.[28] Both the Tomahawk and the AGM-86 were used extensively during Operation Desert Storm. On 7 April 2017, during the Syrian Civil War, U.S. warships fired more than 50 cruise missiles into a Syrian air base in retaliation for a Syrian Sarin gas attack against a rebel stronghold.[29]
 
 The United States Air Force (USAF) deploys an air-launched cruise missile, the AGM-86 ALCM. The Boeing B-52 Stratofortress is the exclusive delivery vehicle for the AGM-86 and AGM-129 ACM. Both missile types are configurable for either conventional or nuclear warheads.
 
-BRAHMOS_Launcher.JPG's BrahMos supersonic cruise missiles mounted on Mobile Autonomous Launchers (MAL).]] The USAF adopted the AGM-86 for its bomber fleet while AGM-109 was adapted to launch from trucks and ships and adopted by the USAF and Navy. The truck-launched versions, and also the Pershing II and SS-20 Intermediate Range Ballistic Missiles, were later destroyed under the bilateral INF (Intermediate Range Nuclear Forces) treaty with the USSR.
+'s BrahMos supersonic cruise missiles mounted on Mobile Autonomous Launchers (MAL).]] The USAF adopted the AGM-86 for its bomber fleet while AGM-109 was adapted to launch from trucks and ships and adopted by the USAF and Navy. The truck-launched versions, and also the Pershing II and SS-20 Intermediate Range Ballistic Missiles, were later destroyed under the bilateral INF (Intermediate Range Nuclear Forces) treaty with the USSR.
 
 The British Royal Navy (RN) also operates cruise missiles, specifically the U.S.-made Tomahawk, used by the RN's nuclear submarine fleet. UK conventional warhead versions were first fired in combat by the RN in 1999, during the Kosovo War (the United States fired cruise missiles in 1991). The Royal Air Force uses the Storm Shadow cruise missile on its Tornado GR4 aircraft. It is also used by France, where it is known as SCALP EG, and carried by the Armée de l'Air's Mirage 2000 and Rafale aircraft.
 
@@ -224,7 +224,7 @@ In the late 1950s and early 1960s, the Soviet Union was attempting to develop cr
 
  United States
 
-Agm-129_acm.jpg of the United States Air Force]]
+of the United States Air Force]]
 
 The United States has deployed four nuclear cruise missiles at one time or another.
 

@@ -8,8 +8,6 @@ First attested in English in 1785, the word _camelopardalis_ comes from Latin,[2
 
 Features
 
-CamelopardalisCC.jpg
-
 Stars
 
 Although Camelopardalis is the 18th largest constellation, it is not a particularly bright constellation, as the brightest stars are only of fourth magnitude. In fact, it only contains four stars below (brighter than) magnitude 5.0.
@@ -52,7 +50,7 @@ The space probe _Voyager 1_ is moving in the direction of this constellation, th
 
 History
 
-Sidney_Hall_-_Urania's_Mirror_-_Camelopardalis,_Tarandus_and_Custos_Messium.jpg'', a set of constellation cards published in London c.1823. Above it are shown the now-abandoned constellations of Tarandus and Custos Messium.[9]]]
+'', a set of constellation cards published in London c.1823. Above it are shown the now-abandoned constellations of Tarandus and Custos Messium.[9]]]
 
 Camelopardalis is not one of Ptolemy's 48 constellations in the _Almagest_.[10] It was created by Petrus Plancius in 1613. It first appeared in a globe designed by him and produced by Pieter van den Keere. One year later, Jakob Bartsch featured it in his atlas. Johannes Hevelius depicted this constellation in his works which were so influential that it was referred to as Camelopardali Hevelii or abbreviated as Camelopard. Hevel.
 

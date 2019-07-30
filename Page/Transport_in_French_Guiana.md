@@ -62,7 +62,7 @@ Canoe-taxis are on the Maroni (Surinamese border) between Saint-Laurent du Maron
 
 Railways
 
-Ariane_5_launch_pad.jpg A short railway is used within the Guiana Space Centre (this short railway is for transporting spacecraft inside the base to the launch pad, not for passenger use). The railway is double tracked and used by unpowered rail cars (tanker cars, flatcars and launch table transporter platforms fitted with bogies) and are towed by rubber wheeled vehicles with railway wheels or bogies to ride along the rail tracks.[1]
+A short railway is used within the Guiana Space Centre (this short railway is for transporting spacecraft inside the base to the launch pad, not for passenger use). The railway is double tracked and used by unpowered rail cars (tanker cars, flatcars and launch table transporter platforms fitted with bogies) and are towed by rubber wheeled vehicles with railway wheels or bogies to ride along the rail tracks.[1]
 
 From 1880s to sometime after 1926 a steam narrow gauge railway was used for gold mines in Saint-Elie[2] and two other lines were partially built and never used.[3]
 

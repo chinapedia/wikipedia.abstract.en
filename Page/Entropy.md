@@ -13,7 +13,7 @@ Boltzmann's constant, and therefore entropy, have dimensions of energy divided b
 
 History
 
-Clausius.jpg}} originator of the concept of entropy]]
+}} originator of the concept of entropy]]
 
 The French mathematician Lazare Carnot proposed in his 1803 paper _Fundamental Principles of Equilibrium and Movement_ that in any machine the accelerations and shocks of the moving parts represent losses of _moment of activity_. In other words, in any natural process there exists an inherent tendency towards the dissipation of useful energy. Building on this work, in 1824 Lazare's son Sadi Carnot published _Reflections on the Motive Power of Fire_ which posited that in all heat-engines, whenever "caloric" (what is now known as heat) falls through a temperature difference, work or motive power can be produced from the actions of its fall from a hot to cold body. He made the analogy with that of how water falls in a water wheel. This was an early insight into the second law of thermodynamics.[1] Carnot based his views of heat partially on the early 18th century "Newtonian hypothesis" that both heat and light were types of indestructible forms of matter, which are attracted and repelled by other matter, and partially on the contemporary views of Count Rumford who showed (1789) that heat could be created by friction as when cannon bores are machined.[2] Carnot reasoned that if the body of the working substance, such as a body of steam, is returned to its original state at the end of a complete engine cycle, that "no change occurs in the condition of the working body".
 
@@ -117,9 +117,9 @@ In Boltzmann's 1896 _Lectures on Gas Theory_, he showed that this expression giv
 
 Entropy of a system
 
-system_boundary.svg]]
+]]
 
-Temperature-entropy_chart_for_steam,_US_units.svg for steam. The vertical axis represents uniform temperature, and the horizontal axis represents specific entropy. Each dark line on the graph represents constant pressure, and these form a mesh with light gray lines of constant volume. (Dark-blue is liquid water, light-blue is liquid-steam mixture, and faint-blue is steam. Grey-blue represents supercritical liquid water.)]]
+for steam. The vertical axis represents uniform temperature, and the horizontal axis represents specific entropy. Each dark line on the graph represents constant pressure, and these form a mesh with light gray lines of constant volume. (Dark-blue is liquid water, light-blue is liquid-steam mixture, and faint-blue is steam. Grey-blue represents supercritical liquid water.)]]
 
 Entropy arises directly from the Carnot cycle. It can also be described as the reversible heat divided by temperature. Entropy is a fundamental function of state.
 
@@ -177,7 +177,7 @@ Entropy is equally essential in predicting the extent and direction of complex c
 
 Entropy balance equation for open systems
 
-First_law_open_system.svg continuous operation, an entropy balance applied to an open system accounts for system entropy changes related to heat flow and mass flow across the system boundary.]] In chemical engineering, the principles of thermodynamics are commonly applied to "open systems", i.e. those in which heat, work, and mass flow across the system boundary. Flows of both heat (Q̇) and work, i.e. Ẇ_(S) (shaft work) and _P_(_dV_/_dt_) (pressure-volume work), across the system boundaries, in general cause changes in the entropy of the system. Transfer as heat entails entropy transfer Q̇/T, where _T_ is the absolute thermodynamic temperature of the system at the point of the heat flow. If there are mass flows across the system boundaries, they also influence the total entropy of the system. This account, in terms of heat and work, is valid only for cases in which the work and heat transfers are by paths physically distinct from the paths of entry and exit of matter from the system.[39][40]
+continuous operation, an entropy balance applied to an open system accounts for system entropy changes related to heat flow and mass flow across the system boundary.]] In chemical engineering, the principles of thermodynamics are commonly applied to "open systems", i.e. those in which heat, work, and mass flow across the system boundary. Flows of both heat (Q̇) and work, i.e. Ẇ_(S) (shaft work) and _P_(_dV_/_dt_) (pressure-volume work), across the system boundaries, in general cause changes in the entropy of the system. Transfer as heat entails entropy transfer Q̇/T, where _T_ is the absolute thermodynamic temperature of the system at the point of the heat flow. If there are mass flows across the system boundaries, they also influence the total entropy of the system. This account, in terms of heat and work, is valid only for cases in which the work and heat transfers are by paths physically distinct from the paths of entry and exit of matter from the system.[39][40]
 
 To derive a generalized entropy balanced equation, we start with the general balance equation for the change in any extensive quantity Θ in a thermodynamic system, a quantity that may be either conserved, such as energy, or non-conserved, such as entropy. The basic generic balance expression states that dΘ/dt, i.e. the rate of change of Θ in the system, equals the rate at which Θ enters the system at the boundaries, minus the rate at which Θ leaves the system across the system boundaries, plus the rate at which Θ is generated within the system. For an open thermodynamic system in which heat and work are transferred by paths separate from the paths for transfer of matter, using this generic balance equation, with respect to the rate of change with time _t_ of the extensive quantity entropy _S_, the entropy balance equation is:[41][42]
 

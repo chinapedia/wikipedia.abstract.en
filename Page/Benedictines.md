@@ -7,7 +7,7 @@ Despite being called an order, the Benedictines do not operate under a single hi
 
 Historical development
 
-Fra_Angelico_031.jpg by Fra Angelico (c. 1400–1455) in the Friary of San Marco Florence.]]
+by Fra Angelico (c. 1400–1455) in the Friary of San Marco Florence.]]
 
 The monastery at Subiaco in Italy, established by Saint Benedict of Nursia 529, was the first of the dozen monasteries he founded. He later founded the Abbey of Monte Cassino. There is no evidence, however, that he intended to found an order and the Rule of Saint Benedict presupposes the autonomy of each community. When Monte Cassino was sacked by the Lombards about the year 580, the monks fled to Rome, and it seems probable that this constituted an important factor in the diffusion of a knowledge of Benedictine monasticism.[1]
 
@@ -15,7 +15,7 @@ It was from the monastery of St. Andrew in Rome that Augustine, the prior, and h
 
 Gregory of Tours says that at Ainay Abbey, in the sixth century, the monks "followed the rules of Basil, Cassian, Caesarius, and other fathers, taking and using whatever seemed proper to the conditions of time and place", and doubtless the same liberty was taken with the Benedictine Rule when it reached them. In Gaul and Switzerland, it supplemented the much stricter Irish or Celtic Rule introduced by Columbanus and others. In many monasteries it eventually entirely displaced the earlier codes.[3]
 
-Benedikt_von_Aniane.jpg (747–821).]] By the ninth century, however, the Benedictine had become the standard form of monastic life throughout the whole of Western Europe, excepting Scotland, Wales, and Ireland, where the Celtic observance still prevailed for another century or two.[4] Largely through the work of Benedict of Aniane, it became the rule of choice for monasteries throughout the Carolingian empire.[5]
+(747–821).]] By the ninth century, however, the Benedictine had become the standard form of monastic life throughout the whole of Western Europe, excepting Scotland, Wales, and Ireland, where the Celtic observance still prevailed for another century or two.[4] Largely through the work of Benedict of Aniane, it became the rule of choice for monasteries throughout the Carolingian empire.[5]
 
 Monastic scriptoria flourished from the ninth through the twelfth centuries. Sacred Scripture was always at the heart of every monastic scriptorium. As a general rule those of the monks who possessed skill as writers made this their chief, if not their sole active work. An anonymous writer of the ninth or tenth century speaks of six hours a day as the usual task of a scribe, which would absorb almost all the time available for active work in the day of a medieval monk.[6]
 
@@ -31,7 +31,7 @@ The English Benedictine Congregation is the oldest of the nineteen Benedictine c
 
 Germany was evangelized by English Benedictines. Willibrord and Boniface preached there in the seventh and eighth centuries and founded several abbeys.[11]
 
-In the English Reformation, all monasteries were dissolved and their lands confiscated by the Crown, forcing their Catholic members to flee into exile on the Continent. During the 19th century they were able to return to England, including to Selby Abbey in Yorkshire, one of the few great monastic churches to survive the Dissolution. Saint_Benedict_Medal.jpg
+In the English Reformation, all monasteries were dissolved and their lands confiscated by the Crown, forcing their Catholic members to flee into exile on the Continent. During the 19th century they were able to return to England, including to Selby Abbey in Yorkshire, one of the few great monastic churches to survive the Dissolution.
 
 St. Mildred's Priory, on the Isle of Thanet, Kent, was built in 1027 on the site of an abbey founded in 670 by the daughter of the first Christian King of Kent. Currently the priory is home to a community of Benedictine nuns. Five of the most notable English abbeys are the Basilica of St Gregory the Great at Downside, commonly known as Downside Abbey, The Abbey of St Edmund, King and Martyr commonly known as Douai Abbey in Upper Woolhampton, Reading, Berkshire, Ealing Abbey in Ealing, West London, and Worth Abbey.[12][13] Prinknash Abbey, used by Henry VIII as a hunting lodge, was officially returned to the Benedictines four hundred years later, in 1928. During the next few years, so-called Prinknash Park was used as a home until it was returned to the order.[14]
 
@@ -74,7 +74,7 @@ There are now over 100 Benedictine houses across America. Most Benedictine house
 
 Benedictine vow and life
 
-BenedictineVespers.jpgs singing Vespers on Holy Saturday in Morristown, New Jersey, U.S.]] The sense of community was a defining characteristic of the order since the beginning.[32] Section 17 in chapter 58 of the Rule of Saint Benedict states the solemn promise candidates for reception into a Benedictine community are required to make: a promise of stability (i.e. to remain in the same community), _conversatio morum_ (an idiomatic Latin phrase suggesting "conversion of manners"; see below) and obedience to the community's superior.[33] This solemn commitment tends to be referred to as the "Benedictine vow" and is the Benedictine antecedent and equivalent of the evangelical counsels professed by candidates for reception into a religious order.
+s singing Vespers on Holy Saturday in Morristown, New Jersey, U.S.]] The sense of community was a defining characteristic of the order since the beginning.[32] Section 17 in chapter 58 of the Rule of Saint Benedict states the solemn promise candidates for reception into a Benedictine community are required to make: a promise of stability (i.e. to remain in the same community), _conversatio morum_ (an idiomatic Latin phrase suggesting "conversion of manners"; see below) and obedience to the community's superior.[33] This solemn commitment tends to be referred to as the "Benedictine vow" and is the Benedictine antecedent and equivalent of the evangelical counsels professed by candidates for reception into a religious order.
 
 Much scholarship over the last fifty years has been dedicated to the translation and interpretation of "_conversatio morum_". The older translation "conversion of life" has generally been replaced with phrases such as "[conversion to] a monastic manner of life", drawing from the Vulgate's use of _conversatio_ as a translation of "citizenship" or "homeland" in Philippians 3:20. Some scholars have claimed that the vow formula of the Rule is best translated as "to live in this place as a monk, in obedience to its rule and abbot."
 
@@ -107,7 +107,7 @@ Although Benedictines traditionally refer to Catholics, there are also some with
 
 Notable Benedictines
 
-Bonifatius-gregorius-aedelbertus-noordwijk.JPG (c. 680–750), Pope Gregory I (c. 540–604, pope 590–604), Adalbert of Egmond (8th century) and priest Jeroen van Noordwijk, depicted in a 1529 painting by Jan Joostsz van Hillegom currently on display at the Frans Hals Museum]] Ruperthead.jpg sculpture of Rupert of Salzburg (c. 660–710)]] Bernhard_von_Clairvaux_(Initiale-B).jpg (1090–1153) featured in a 13th-century illuminated manuscript]] Raban-Maur_Alcuin_Otgar.jpg, c. 840, depicting Rabanus Maurus (left), supported by Alcuin (middle), presenting his work to Otgar of Mainz]] BritLibRoyal14CVIIFol006rMattParisSelfPort.jpg (c.1200–59)]] Abbot_Suger.jpg (c.1081–1135) in a medieval stained-glass window]] Dom_Pérignon_découvrant_la_prise_de_mousse.jpg]]
+(c. 680–750), Pope Gregory I (c. 540–604, pope 590–604), Adalbert of Egmond (8th century) and priest Jeroen van Noordwijk, depicted in a 1529 painting by Jan Joostsz van Hillegom currently on display at the Frans Hals Museum]] sculpture of Rupert of Salzburg (c. 660–710)]] (1090–1153) featured in a 13th-century illuminated manuscript]] , c. 840, depicting Rabanus Maurus (left), supported by Alcuin (middle), presenting his work to Otgar of Mainz]] (c.1200–59)]] (c.1081–1135) in a medieval stained-glass window]] ]]
 
 Saints and Blesseds
 
@@ -125,15 +125,13 @@ Bishops and martyrs
 
 Twentieth century
 
-Schustercardinal.jpg
-
 Nuns
 
-046_Ajuntament_de_Terrassa,_galeria_de_terrassencs_il·lustres,_Antoni_M._Marcet.JPG]]
+]]
 
 Oblates
 
-BonifatiusBecker.jpg]] Benedictine Oblates endeavor to embrace the spirit of the Benedictine vow in their own life in the world.[40] Oblates are affiliated with a particular monastery.
+]] Benedictine Oblates endeavor to embrace the spirit of the Benedictine vow in their own life in the world.[40] Oblates are affiliated with a particular monastery.
 
 
 See also

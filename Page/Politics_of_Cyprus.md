@@ -20,8 +20,6 @@ Subsequently, the Turkish Cypriots established their own separatist institutions
 
 Division of Cyprus
 
-buffer_zone.jpg
-
 In 1974, following a coup sponsored by the Greek military junta of 1967-1974 and executed by the Cypriot National Guard the invasion of troops from Turkey (citing its authority as one of the three guarantor powers established by the Constitution), the Turkish Cypriots formally set up their own institutions with a popularly elected president and a prime minister, responsible to the National Assembly, exercising joint executive powers. Cyprus has been divided, _de facto_, into the Greek Cypriot controlled southern two-thirds of the island and the Turkish-occupied northern third. The REPUBLIC OF CYPRUS is the internationally recognised government of the Republic of Cyprus, that controls the southern two-thirds of the island. Aside from Turkey, all foreign governments and the United Nations recognise the sovereignty of the Republic of Cyprus over the whole island of Cyprus.
 
 Turkey, which does not recognise the Republic of Cyprus, and the Turkish Cypriot administration of the northern part of the island, do not accept the Republic's rule over the whole island and refer to it not by its international name, but as the "Greek Cypriot Administration of Southern Cyprus". Its territory, a result of the Turkish invasion of 1974 and whose status remains disputed, extends over the northern third of the island.
@@ -31,7 +29,7 @@ The north proclaimed its independence in 1975. In 1983, the Turkish Cypriots dec
 
 Political conditions
 
-Ministry_of_Commerce_Industry_and_Tourism_in_Nicosia_capital_of_Replubic_of_Cyprus.jpg The division of Cyprus has remained an intractable political problem plaguing relations between Greece and Turkey, and drawing in NATO, of which both Greece and Turkey are members, and latterly the European Union, which has admitted Greece and Cyprus and which Turkey has been seeking to join for over twenty years.
+The division of Cyprus has remained an intractable political problem plaguing relations between Greece and Turkey, and drawing in NATO, of which both Greece and Turkey are members, and latterly the European Union, which has admitted Greece and Cyprus and which Turkey has been seeking to join for over twenty years.
 
 The most recent developments on the island have included the reopening of the border between the two sides, and the failure of an attempt to reunify the island under the terms of a United Nations-sponsored initiative guided by the UN Secretary-General, Kofi Annan.
 

@@ -3,7 +3,7 @@ This article is about the DEMOGRAPHICS OF DJIBOUTI, including population density
 
 Ethnic groups
 
-Ethno-Demography_of_Djibouti.png Djibouti is a multiethnic country. As of 2018, it has a population of around 884,017 inhabitants. Djibouti's population grew rapidly during the latter half of the 20th century, increasing from about 69,589 in 1955 to around 869,099 by 2015.[1]
+Djibouti is a multiethnic country. As of 2018, it has a population of around 884,017 inhabitants. Djibouti's population grew rapidly during the latter half of the 20th century, increasing from about 69,589 in 1955 to around 869,099 by 2015.[1]
 
 The two largest ethnic groups are the Somali (60%) and the Afar (35%). The Somali clan component is mainly composed of the Issas, a sub-clan of the larger Dir. The remaining 5% of Djibouti's population primarily consists of Arabs, Ethiopians and Europeans (French and Italians). Approximately 76% of local residents are urban dwellers; the remainder are pastoralists.[2]
 
@@ -129,8 +129,6 @@ Population
     828,324 (July 2015 est.)
 
 Age structure
-
-Djiboutipop.svg
 
     _0-14 years:_ 30.71% (male 136,191 /female 135,263)
     _15-24 years:_ 21.01% (male 87,520 /female 98,239)

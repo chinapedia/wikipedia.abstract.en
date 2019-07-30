@@ -5,8 +5,6 @@ In November 2017, Minnesota Public Radio cut all business ties with Keillor afte
 
 Early life
 
-GarrisonKeillor.JPG
-
 Keillor was born in Anoka, Minnesota, the son of Grace Ruth (_née_ Denham) and John Philip Keillor. His father was a carpenter and postal worker[2][3] who was half-Canadian with English ancestry; Keillor's paternal grandfather was from Kingston, Ontario.[4][5] His maternal grandparents were Scottish emigrants from Glasgow.[6][7]
 
 Keillor's family belonged to the Plymouth Brethren, an Evangelical Christian movement that he has since left. In 2006, he told _Christianity Today_ that he was attending the St. John the Evangelist Episcopal church in Saint Paul, Minnesota, after previously attending a Lutheran church in New York.[8][9]
@@ -30,7 +28,7 @@ _A Prairie Home Companion_ (_PHC_) debuted as an old-style variety show before a
 
 After the show's intermission, Keillor reads clever and often humorous greetings to friends and family at home submitted by members of the theater audience in exchange for an honorarium. Also in the second half of the show, Keillor delivers a monologue called _The News from Lake Wobegon_, a fictitious town based in part on Keillor's own hometown of Anoka, Minnesota, and on Freeport and other small towns in Stearns County, Minnesota, where he lived in the early 1970s.[18] Lake Wobegon is a quintessentially Minnesota small town characterized by the narrator as a place "... where all the women are strong, all the men are good-looking, and all the children are above average."
 
-2014DworskyKeillor.jpg on the 40th anniversary of _A Prairie Home Companion_]] The original _PHC_ ran until 1987, when Keillor ended it to focus on other projects. In 1989, he launched a new live radio program from New York City, _The American Radio Company of the Air_, which had essentially the same format as _PHC_. In 1992, he moved ARC back to St. Paul, and a year later changed the name back to _A Prairie Home Companion_; it has remained a fixture of Saturday night radio broadcasting ever since.[19]
+on the 40th anniversary of _A Prairie Home Companion_]] The original _PHC_ ran until 1987, when Keillor ended it to focus on other projects. In 1989, he launched a new live radio program from New York City, _The American Radio Company of the Air_, which had essentially the same format as _PHC_. In 1992, he moved ARC back to St. Paul, and a year later changed the name back to _A Prairie Home Companion_; it has remained a fixture of Saturday night radio broadcasting ever since.[19]
 
 On a typical broadcast of _A Prairie Home Companion_, Keillor's name is not mentioned unless a guest addresses him by name, although some sketches feature Keillor as his alter ego, Carson Wyler. In the closing credits, which Keillor reads, he gives himself no billing or credit except "written by Sarah Bellum," a joking reference to his own brain.
 
@@ -40,13 +38,11 @@ Keillor's final episode of the show was recorded live for an audience of 18,000 
 
 Writing
 
-At age thirteen, Keillor adopted the pen name "Garrison" to distinguish his personal life from his professional writing.[27] He commonly uses "Garrison" in public and in other media. 2016GK.jpg Keillor has been called "[o]ne of the most perceptive and witty commentators about Midwestern life" by Randall Balmer in _Encyclopedia of Evangelicalism._[28] He has written numerous magazine and newspaper articles and more than a dozen books for adults as well as children. In addition to writing for _The New Yorker,_ he has written for _The Atlantic Monthly_ and _National Geographic._[29] He has also written for Salon.com and authored an advice column there under the name "Mr. Blue." Following a heart operation, he resigned on September 4, 2001, his last column being titled "Every dog has his day":[30]
+At age thirteen, Keillor adopted the pen name "Garrison" to distinguish his personal life from his professional writing.[27] He commonly uses "Garrison" in public and in other media. Keillor has been called "[o]ne of the most perceptive and witty commentators about Midwestern life" by Randall Balmer in _Encyclopedia of Evangelicalism._[28] He has written numerous magazine and newspaper articles and more than a dozen books for adults as well as children. In addition to writing for _The New Yorker,_ he has written for _The Atlantic Monthly_ and _National Geographic._[29] He has also written for Salon.com and authored an advice column there under the name "Mr. Blue." Following a heart operation, he resigned on September 4, 2001, his last column being titled "Every dog has his day":[30]
 
 In 2004 Keillor published a collection of political essays, _Homegrown Democrat: A Few Plain Thoughts from the Heart of America,_ and in June 2005 he began a column called _The Old Scout_,[31] which ran at Salon.com and in syndicated newspapers. The column went on hiatus in April 2010 so that he "... [could] finish a screenplay and start writing a novel."
 
 Keillor wrote the screenplay for the 2006 movie _A Prairie Home Companion,_ directed by Robert Altman. He also appears in the movie.
-
-2009-0811-StP-BlairFlats-CGB.jpg
 
 Bookselling
 
@@ -82,7 +78,7 @@ Keillor's style, particularly his speaking voice, has often been parodied.
 
 Personal life
 
-APHC2014GK.jpg Keillor is a member of the Democratic-Farmer-Labor Party.[43] He is tall.[44] He considers himself a loner and prefers not to make eye contact with people. Though not diagnosed, he also considers himself to be on the high-functioning end of the autism spectrum.[45] He spoke about his experiences as an autistic person in his keynote address at the 19th Annual Minnesota Autism Conference in 2014.[46][47]
+Keillor is a member of the Democratic-Farmer-Labor Party.[43] He is tall.[44] He considers himself a loner and prefers not to make eye contact with people. Though not diagnosed, he also considers himself to be on the high-functioning end of the autism spectrum.[45] He spoke about his experiences as an autistic person in his keynote address at the 19th Annual Minnesota Autism Conference in 2014.[46][47]
 
 Keillor has been married three times.[48] He was married to Mary Guntzel from 1965 to 1976; they had one son, Jason (born 1969). He was married to Ulla Skaerved, a former exchange student from Denmark at Keillor's high school whom he re-encountered at a class reunion, from 1985 to 1990.[49][50] He married classical string player Jenny Lind Nilsson (born 1957), who is also from Anoka, in 1995.[51] They have one daughter, Maia Grace Keillor (born December 29, 1997).[52]
 
@@ -131,7 +127,7 @@ Awards and other recognition
 
 Bibliography
 
-GarrisonKeillor2007LanesboroMN.JPG Keillor's work in print includes:
+Keillor's work in print includes:
 
 Lake Wobegon
 

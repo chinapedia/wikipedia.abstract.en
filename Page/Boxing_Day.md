@@ -52,7 +52,7 @@ In the British overseas territory of Bermuda, the costumed Gombey dancers perfor
 
 Shopping
 
-Boxing_Day_at_the_Toronto_Eaton_Centre.jpg in Canada, 2007]] In the UK,[24] Canada,[25] Australia,[26] Trinidad and Tobago, and New Zealand,[27] Boxing Day is primarily known as a shopping holiday, much like Black Friday (the day after Thanksgiving) in the United States. Boxing Day sales are common and shops often allow dramatic price reductions. For many merchants, Boxing Day has become the day of the year with the greatest revenue. In the UK in 2009 it was estimated that up to 12 million shoppers appeared at the sales (a rise of almost 20% compared to 2008, although this was also affected by the fact that the VAT was about to revert to 17.5% from 1 January, following the temporary reduction to 15%).[28]
+in Canada, 2007]] In the UK,[24] Canada,[25] Australia,[26] Trinidad and Tobago, and New Zealand,[27] Boxing Day is primarily known as a shopping holiday, much like Black Friday (the day after Thanksgiving) in the United States. Boxing Day sales are common and shops often allow dramatic price reductions. For many merchants, Boxing Day has become the day of the year with the greatest revenue. In the UK in 2009 it was estimated that up to 12 million shoppers appeared at the sales (a rise of almost 20% compared to 2008, although this was also affected by the fact that the VAT was about to revert to 17.5% from 1 January, following the temporary reduction to 15%).[28]
 
 Many retailers open very early (typically 5 am or even earlier) and offer doorbuster deals and loss leaders to draw people to their stores. It is not uncommon for long queues to form early in the morning of 26 December, hours before the opening of shops holding the big sales, especially at big-box consumer electronics retailers.[29] Many stores have a limited quantity of big draw or deeply discounted items.[30] Because of the shoulder-to-shoulder crowds, many choose to stay at home and avoid the hectic shopping experience. Local media often covers the event, mentioning how early the shoppers began queuing up, and showing video of shoppers queuing and later leaving with their purchased items.[31] Many retailers have implemented practices aimed at managing large numbers of shoppers. They may limit entrances, restrict the number of patrons in a store at a time, provide tickets to people at the head of the queue to guarantee them a hot ticket item, or canvass queued-up shoppers to inform them of inventory limitations.[32]
 
@@ -65,7 +65,7 @@ In 2009, many retailers with both online and High Street stores launched their o
 
 Sport
 
-MCG_stands.jpg at the Melbourne Cricket Ground, 2006]] Keswick_Boxing_Day_hunt_1962.jpg
+at the Melbourne Cricket Ground, 2006]]
 
 In the United Kingdom, it is traditional for all top-tier football leagues in England, Scotland, and Northern Ireland – the Premier League, the Scottish Premiership, and the NIFL Premiership – and the lower ones, as well as the rugby leagues, to hold a full programme of football matches on Boxing Day. Originally, matches on Boxing Day were played against local rivals to avoid teams and their fans having to travel a long distance to an away game on the day after Christmas Day.[40] Prior to the formation of leagues, a number of traditional rugby union fixtures took place on Boxing Day each year, notably Llanelli v London Welsh and Leicester v The Barbarians.
 

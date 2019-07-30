@@ -1,4 +1,4 @@
-BSI_Kitemark.svg BRITISH STANDARDS (BS) are the standards produced by the BSI Group which is incorporated under a Royal Charter (and which is formally designated as the National Standards Body (NSB) for the UK).[1] The BSI Group produces British Standards under the authority of the Charter, which lays down as one of the BSI's objectives to:[2]
+BRITISH STANDARDS (BS) are the standards produced by the BSI Group which is incorporated under a Royal Charter (and which is formally designated as the National Standards Body (NSB) for the UK).[1] The BSI Group produces British Standards under the authority of the Charter, which lays down as one of the BSI's objectives to:[2]
 
 Formally, as per the 2002 Memorandum of Understanding between the BSI and the United Kingdom Government, British Standards are defined as:
 
@@ -47,7 +47,7 @@ Over time the standards developed to cover many aspects of tangible engineering,
 
 Examples of British Standards
 
-BSI_building.jpg district in London.]]
+district in London.]]
 
 -   BS 0 _A standard for standards_ specifies Development, Structure and Drafting of British Standards themselves.
 -   BS 1 Lists of Rolled Sections for Structural Purposes

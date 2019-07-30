@@ -8,20 +8,18 @@ Formed in March 1901, with the amalgamation of the six separate colonial militar
 -   1901–47, when limits were set on the size of the regular Army, the vast majority of peacetime soldiers were in reserve units of the Citizens Military Force (also known as the CMF or Militia), and expeditionary forces (the First and Second Australian Imperial Forces) were formed to serve overseas, and
 -   Post-1947, when a standing peacetime regular infantry force was formed and the CMF (known as the Army Reserve after 1980) began to decline in importance.
 
-Australian_39th_Battalion_after_the_Kokoda_Track_campaign_1942_(AWM_013289).jpg in September 1942]] Australian_SOTG_sniper_team_June_2010.jpg in Afghanistan]] Cavalry_scout_Iraq.jpg
+in September 1942]] in Afghanistan]]
 
 During its history the Australian Army has fought in a number of major wars, including: Second Boer War (1899–1902), First World War (1914–18), the Second World War (1939–45), Korean War (1950–53), Malayan Emergency (1950–60), Indonesia-Malaysia Confrontation (1962–66), Vietnam War (1962–73), and more recently in Afghanistan (2001 – present) and Iraq (2003–09). Since 1947 the Australian Army has also been involved in many peacekeeping operations, usually under the auspices of the United Nations, however the non-United Nations sponsored Multinational Force and Observers in the Sinai is a notable exception. Australia's largest peacekeeping deployment began in 1999 in East Timor, while other ongoing operations include peacekeeping on Bougainville, in the Sinai, and in the Solomon Islands. Humanitarian relief after 2004 Indian Ocean earthquake in Aceh Province, Indonesia, Operation Sumatra Assist, ended on 24 March 2005.[2]
 
 
 Current organisation
 
-Australia_Land_Forces_2018.png
-
 The 1st Division comprises a deployable headquarters, while 2nd Division under the command of Forces Command is the main home-defence formation, containing Army Reserve units. 2nd Division's headquarters only performs administrative functions. The Australian Army has not deployed a divisional-sized formation since 1945 and does not expect to do so in the future.
 
 1st Division
 
-1ST DIVISION carries out high-level training activities and deploys to command large-scale ground operations. It has few combat units permanently assigned to it, although it does currently command the 2nd Battalion, Royal Australian Regiment as part of Australia's amphibious task group.[3] Machine_gun_team_from_1_RAR_during_RIMPAC_2012.JPG machine-gun team training in Hawaii during RIMPAC 2012]] 1st_Commando_Regiment_soldier_jumping_out_of_an_Australian_Army_blackhawk_helicopter_in_2013.jpg soldier jumping from a 16th Aviation Brigade, 171st Aviation Squadron Black Hawk helicopter]]
+1ST DIVISION carries out high-level training activities and deploys to command large-scale ground operations. It has few combat units permanently assigned to it, although it does currently command the 2nd Battalion, Royal Australian Regiment as part of Australia's amphibious task group.[3] machine-gun team training in Hawaii during RIMPAC 2012]] soldier jumping from a 16th Aviation Brigade, 171st Aviation Squadron Black Hawk helicopter]]
 
 Forces Command
 
@@ -49,8 +47,6 @@ Additionally, Forces Command includes the following training establishments:
 -   Army Logistic Training Centre at Bonegilla, Vic and Bandiana, Vic; and
 -   Army Aviation Training Centre at Oakey, QLD.[4]
 
-Australian_SOTG_patrol_Oct_2009.jpg
-
 Special Forces
 
 Special Operations Command comprises a command formation of equal status to the other commands in the ADF. It includes all of Army's special forces assets.
@@ -61,8 +57,6 @@ Under a restructuring program known as Plan Beersheba announced in late 2011, th
 
 
 Colours, standards and guidons
-
-AustArmyColours.jpg
 
 Infantry, and some other combat units of the Australian Army carry flags called the Queen's Colour and the Regimental Colour, known as "the Colours". Armoured units carry Standards and Guidons – flags smaller than Colours and traditionally carried by Cavalry, Lancer, Light Horse and Mounted Infantry units. The 1st Armoured Regiment is the only unit in the Australian Army to carry a Standard, in the tradition of heavy armoured units. Artillery units' guns are considered to be their Colours, and on parade are provided with the same respect. Non-combat units (combat service support corps) do not have Colours, as Colours are battle flags and so are only available to combat units. As a substitute, many have Standards or Banners.[6] Units awarded battle honours have them emblazoned on their Colours, Standards and Guidons. They are a link to the unit's past and a memorial to the fallen. Artillery do not have Battle Honours – their single Honour is "Ubique" which means "Everywhere" – although they can receive Honour Titles.
 
@@ -105,7 +99,7 @@ The ranks of the Australian Army are based on the ranks of the British Army, and
 
 Equipment
 
-Australian_SOTG_wait_for_extraction_2011.jpg Australian_Army_Abrams_tanks_during_Exercise_Koolendong_at_Bradshaw_Training_Area,_Aug_21,_2014.jpg, the main battle tank used by the Army]]
+, the main battle tank used by the Army]]
 
   ----------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Small arms                    F88 Austeyr (service rifle), F89 Minimi (support weapon), Browning Hi-Power (sidearm), MAG-58 (general purpose machine gun), SR-25 designated marksman rifle, SR-98 (sniper rifle), Mk48 Maximi, AW50F

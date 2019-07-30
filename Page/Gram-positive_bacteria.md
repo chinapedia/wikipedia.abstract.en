@@ -1,4 +1,4 @@
-Gram_Stain_Anthrax.jpg'' bacteria in a cerebrospinal fluid sample stand out from round white blood cells, which also accept the crystal violet stain.]] Gram_stain_01.jpg and pink-stained gram-negative bacilli]]
+'' bacteria in a cerebrospinal fluid sample stand out from round white blood cells, which also accept the crystal violet stain.]] and pink-stained gram-negative bacilli]]
 
 GRAM-POSITIVE BACTERIA are bacteria that give a positive result in the Gram stain test, which is traditionally used to quickly classify bacteria into two broad categories according to their cell wall.
 
@@ -10,10 +10,6 @@ Despite their thicker peptidoglycan layer, gram-positive bacteria are more recep
 
 
 Characteristics
-
-Gram-Cell-wall.svg
-
-Gram-positive_cellwall-schematic.png
 
 In general, the following characteristics are present in gram-positive bacteria:[1]
 
@@ -30,14 +26,12 @@ Classification
 
 Along with cell shape, Gram staining is a rapid method used to differentiate bacterial species. Such staining, together with growth requirement and antibiotic susceptibility testing, and other macroscopic and physiologic tests, forms the full basis for classification and subdivision of the bacteria (e.g., see figure and pre-1990 versions of _Bergey's Manual_).
 
-Gram_Positive_Classification.svg
-
 Historically, the kingdom Monera was divided into four divisions based primarily on Gram staining: Firmicutes (positive in staining), Gracilicutes (negative in staining), Mollicutes (neutral in staining) and Mendocutes (variable in staining).[2] Based on 16S ribosomal RNA phylogenetic studies of the late microbiologist Carl Woese and collaborators and colleagues at the University of Illinois, the monophyly of the gram-positive bacteria was challenged,[3] with major implications for the therapeutic and general study of these organisms. Based on molecular studies of the 16S sequences, Woese recognised twelve bacterial phyla. Two of these were both gram-positive and were divided on the proportion of the guanine and cytosine content in their DNA. The high G + C phylum was made up of the Actinobacteria and the low G + C phylum contained the Firmicutes.[4] The Actinobacteria include the _Corynebacterium_, _Mycobacterium_, _Nocardia_ and _Streptomyces_ genera. The (low G + C) Firmicutes, have a 45–60% GC content, but this is lower than that of the Actinobacteria.[5]
 
 
 Importance of the outer cell membrane in bacterial classification
 
-Mureine.svg and N-acetylmuramic acid]] Although bacteria are traditionally divided into two main groups, gram-positive and gram-negative, based on their Gram stain retention property, this classification system is ambiguous as it refers to three distinct aspects (staining result, envelope organization, taxonomic group), which do not necessarily coalesce for some bacterial species.[6][7][8][9] The gram-positive and gram-negative staining response is also not a reliable characteristic as these two kinds of bacteria do not form phylogenetic coherent groups.[10] However, although Gram staining response is an empirical criterion, its basis lies in the marked differences in the ultrastructure and chemical composition of the bacterial cell wall, marked by the absence or presence of an outer lipid membrane.[11][12]
+and N-acetylmuramic acid]] Although bacteria are traditionally divided into two main groups, gram-positive and gram-negative, based on their Gram stain retention property, this classification system is ambiguous as it refers to three distinct aspects (staining result, envelope organization, taxonomic group), which do not necessarily coalesce for some bacterial species.[6][7][8][9] The gram-positive and gram-negative staining response is also not a reliable characteristic as these two kinds of bacteria do not form phylogenetic coherent groups.[10] However, although Gram staining response is an empirical criterion, its basis lies in the marked differences in the ultrastructure and chemical composition of the bacterial cell wall, marked by the absence or presence of an outer lipid membrane.[11][12]
 
 All gram-positive bacteria are bounded by a single-unit lipid membrane, and, in general, they contain a thick layer (20–80 nm) of peptidoglycan responsible for retaining the Gram stain. A number of other bacteria—that are bounded by a single membrane, but stain gram-negative due to either lack of the peptidoglycan layer, as in the Mycoplasmas, or their inability to retain the Gram stain because of their cell wall composition—also show close relationship to the Gram-positive bacteria. For the bacterial cells bounded by a single cell membrane, the term "monoderm bacteria" or "monoderm prokaryotes" has been proposed.[13][14]
 
@@ -52,7 +46,7 @@ Some Firmicute species are not gram-positive. These belong to the class Mollicut
 
 Pathogenesis
 
-Actinomyces_spp_01.jpg'' sp.]] In the classical sense, six gram-positive genera are typically pathogenic in humans. Two of these, _Streptococcus_ and _Staphylococcus_, are cocci (sphere-shaped). The remaining organisms are bacilli (rod-shaped) and can be subdivided based on their ability to form spores. The non-spore formers are _Corynebacterium_ and _Listeria_ (a coccobacillus), whereas _Bacillus_ and _Clostridium_ produce spores.[40] The spore-forming bacteria can again be divided based on their respiration: _Bacillus_ is a facultative anaerobe, while _Clostridium_ is an obligate anaerobe.[41] Also, _Rathybacter_, _Leifsonia_, and _Clavibacter_ are three gram-positive genera that cause plant disease. Gram-positive bacteria are capable of causing serious and sometimes fatal infections in newborn infants.[42]
+'' sp.]] In the classical sense, six gram-positive genera are typically pathogenic in humans. Two of these, _Streptococcus_ and _Staphylococcus_, are cocci (sphere-shaped). The remaining organisms are bacilli (rod-shaped) and can be subdivided based on their ability to form spores. The non-spore formers are _Corynebacterium_ and _Listeria_ (a coccobacillus), whereas _Bacillus_ and _Clostridium_ produce spores.[40] The spore-forming bacteria can again be divided based on their respiration: _Bacillus_ is a facultative anaerobe, while _Clostridium_ is an obligate anaerobe.[41] Also, _Rathybacter_, _Leifsonia_, and _Clavibacter_ are three gram-positive genera that cause plant disease. Gram-positive bacteria are capable of causing serious and sometimes fatal infections in newborn infants.[42]
 
 
 Bacterial transformation

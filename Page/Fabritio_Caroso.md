@@ -1,5 +1,3 @@
-Fabritio_Caroso.jpg
-
 FABRITIO CAROSO DA SERMONETA (1526/1535 – 1605/1620) was an Italian Renaissance dancing master and a composer or transcriber of dance music.
 
 His dance manual _Il Ballarino_ was published in 1581, with a subsequent edition, significantly different, _Nobiltà di Dame_, printed in 1600 and again after his death in 1630. The work has been published in English as _Courtly Dance of the Renaissance_ by Julia Sutton.[1]

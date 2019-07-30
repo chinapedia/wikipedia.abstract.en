@@ -1,4 +1,4 @@
-Astasahasrika_Prajnaparamita_Dharmacakra_Discourse.jpeg manuscript. Nālandā, Bihar, India.]]
+manuscript. Nālandā, Bihar, India.]]
 
 In Buddhism, the FOUR NOBLE TRUTHS (Sanskrit: _catvāri āryasatyāni_; Pali: _cattāri ariyasaccāni_) are "the truths of the Noble Ones", the truths or realities for the "spiritually worthy ones".[1][2] The truths are:
 
@@ -68,7 +68,7 @@ The term _sacca_ (Sanskrit: _satya_) is a central term in Indian thought and rel
 
 Symbolic and propositional function
 
-Dharma_Wheel.svg, often used to represent the Noble Eightfold Path]]
+, often used to represent the Noble Eightfold Path]]
 
 According to Anderson, the four truths have both a symbolic and a propositional function:
 
@@ -97,7 +97,7 @@ The four truths are to be internalised, and understood or "experienced" personal
 
 Ending rebirth
 
-Tibetan_chakra.jpg or "Wheel of Life"]]
+or "Wheel of Life"]]
 
 The four truths describe _dukkha_ and its ending as a means to reach peace of mind in this life, but also as a means to end rebirth.
 
@@ -189,7 +189,7 @@ Bronkhorst dismisses the first two knowledges as later additions, and proceeds t
 
 _Dhammacakkappavattana Sutta_
 
-Gandharan_-_Expounding_the_Law_-_Walters_2551.jpg The Walters Art Museum. The Buddha's hand can be seen at right.]]
+The Walters Art Museum. The Buddha's hand can be seen at right.]]
 
 According to the Buddhist tradition, the first talk of Gautama Buddha after he attained enlightenment is recorded in the _Dhammacakkappavattana Sutta_ ("Setting in Motion the Wheel of Dhamma", Samyutta Nikaya 56.11). The _Dhammacakkappavattana Sutta_ provides details on three stages in the understanding of each truth, for a total of twelve insights. The three stages for understanding each truth are:
 

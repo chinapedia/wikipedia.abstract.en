@@ -1,4 +1,4 @@
-Behn_Love-Letters_1684.jpg's _Love-Letters_ (1684)]]
+'s _Love-Letters_ (1684)]]
 
 An EPISTOLARY NOVEL is a novel written as a series of documents. The usual form is letters, although diary entries, newspaper clippings and other documents are sometimes used. Recently, electronic "documents" such as recordings and radio, blogs, and e-mails have also come into use. The word _epistolary_ is derived from Latin from the Greek word ἐπιστολή _epistolē_, meaning a letter (see epistle).
 

@@ -1,4 +1,4 @@
-_Phrase_sanskrit.png. _May Śiva protect those who take delight in the language of the gods._ (Kalidasa)]] An ABUGIDA (from Ge'ez: አቡጊዳ _’abugida_), or ALPHASYLLABARY, is a segmental writing system in which consonant–vowel sequences are written as a unit: each unit is based on a consonant letter, and vowel notation is secondary. This contrasts with a full alphabet, in which vowels have status equal to consonants, and with an abjad, in which vowel marking is absent, partial, or optional (although in less formal contexts, all three types of script may be termed alphabets). The terms also contrast them with a syllabary, in which the symbols cannot be split into separate consonants and vowels. Abugidas include the extensive Brahmic family of scripts of South and Southeast Asia, Semitic Ethiopic scripts, and Canadian Aboriginal syllabics (which are themselves based in part on Brahmic scripts).
+. _May Śiva protect those who take delight in the language of the gods._ (Kalidasa)]] An ABUGIDA (from Ge'ez: አቡጊዳ _’abugida_), or ALPHASYLLABARY, is a segmental writing system in which consonant–vowel sequences are written as a unit: each unit is based on a consonant letter, and vowel notation is secondary. This contrasts with a full alphabet, in which vowels have status equal to consonants, and with an abjad, in which vowel marking is absent, partial, or optional (although in less formal contexts, all three types of script may be termed alphabets). The terms also contrast them with a syllabary, in which the symbols cannot be split into separate consonants and vowels. Abugidas include the extensive Brahmic family of scripts of South and Southeast Asia, Semitic Ethiopic scripts, and Canadian Aboriginal syllabics (which are themselves based in part on Brahmic scripts).
 
 As is the case for syllabaries, the units of the writing system may consist of the representations both of syllables and of consonants. For scripts of the Brahmic family, the term _akshara_ is used for the units.
 
@@ -85,7 +85,7 @@ Indic scripts indicate vowels through dependent vowel signs (diacritics) around 
 
 The most widely used Indic script is Devanagari, shared by Hindi, Bhojpuri, Marathi, Konkani, Nepali, and often Sanskrit. A basic letter such as क in Hindi represents a syllable with the default vowel, in this case _ka_ (). In some languages, including Hindi, it becomes a final closing consonant at the end of a word, in this case _k_. The inherent vowel may be changed by adding vowel mark (diacritics), producing syllables such as कि _ki,_ कु _ku,_ के _ke,_ को _ko._
 
-Rigveda_MS2097.jpg]]
+]]
 
 +------------------+----------+---------------+-----------+------------+
 | position         | syllable | pronunciation | base form | script     |
@@ -123,7 +123,7 @@ The Róng script used for the Lepcha language goes further than other Indic abug
 
 Ethiopic
 
-Ethiopic_genesis.jpg, an abugida of Eritrea and Ethiopia]] In Ethiopic (where the term _abugida_ originates[12]) the diacritics have been fused to the consonants to the point that they must be considered modifications of the form of the letters. Children learn each modification separately, as in a syllabary; nonetheless, the graphic similarities between syllables with the same consonant is readily apparent, unlike the case in a true syllabary.
+, an abugida of Eritrea and Ethiopia]] In Ethiopic (where the term _abugida_ originates[12]) the diacritics have been fused to the consonants to the point that they must be considered modifications of the form of the letters. Children learn each modification separately, as in a syllabary; nonetheless, the graphic similarities between syllables with the same consonant is readily apparent, unlike the case in a true syllabary.
 
 Though now an abugida, the Ge'ez script, until the advent of Christianity (_ca._ AD 350), had originally been what would now be termed an _abjad_. In the Ge'ez abugida (or _fidel_), the base form of the letter (also known as _fidel_) may be altered. For example, ሀ _hä_ (base form), ሁ _hu_ (with a right-side diacritic that doesn't alter the letter), ሂ _hi_ (with a subdiacritic that compresses the consonant, so it is the same height), ህ _hə_ or (where the letter is modified with a kink in the left arm).
 

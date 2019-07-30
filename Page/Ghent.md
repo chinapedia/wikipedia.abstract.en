@@ -7,7 +7,7 @@ The ten-day-long Ghent Festival (_Gentse Feesten_ in Dutch) is held every year a
 
 History
 
-Ghent,_Ferraris_Map,_1775.jpg Archaeological evidence shows human presence in the region of the confluence of Scheldt and Leie going back as far as the Stone Age and the Iron Age.[4]
+Archaeological evidence shows human presence in the region of the confluence of Scheldt and Leie going back as far as the Stone Age and the Iron Age.[4]
 
 Most historians believe that the older name for Ghent, 'Ganda', is derived from the Celtic word _ganda_ which means confluence.[5] Other sources connect its name with an obscure deity named Gontia.[6]
 
@@ -17,7 +17,7 @@ When the Franks invaded the Roman territories from the end of the 4th century an
 
 Middle Ages
 
-Around 650, Saint Amand founded two abbeys in Ghent: St. Peter's (Blandinium) and Saint Bavo's Abbey. The city grew from several nuclei, the abbeys and a commercial centre. Around 800, Louis the Pious, son of Charlemagne, appointed Einhard, the biographer of Charlemagne, as abbot of both abbeys. In 851 and 879, the city was however attacked and plundered twice by the Vikings. Engelbert_Van_Siclers_-_De_Kouter_in_Ghent_in_1763.jpg]]
+Around 650, Saint Amand founded two abbeys in Ghent: St. Peter's (Blandinium) and Saint Bavo's Abbey. The city grew from several nuclei, the abbeys and a commercial centre. Around 800, Louis the Pious, son of Charlemagne, appointed Einhard, the biographer of Charlemagne, as abbot of both abbeys. In 851 and 879, the city was however attacked and plundered twice by the Vikings. ]]
 
 Within the protection of the County of Flanders, the city recovered and flourished from the 11th century, growing to become a small city-state. By the 13th century, Ghent was the biggest city in Europe north of the Alps after Paris; it was bigger than Cologne or Moscow.[7] Within the city walls lived up to 65,000 people. The belfry and the towers of the Saint Bavo Cathedral and Saint Nicholas' Church are just a few examples of the skyline of the period.
 
@@ -27,7 +27,7 @@ The wool industry, originally established at Bruges, created the first European 
 
 Early modern period
 
-The city recovered in the 15th century, when Flanders was united with neighbouring provinces under the Dukes of Burgundy. High taxes led to a rebellion and eventually the Battle of Gavere in 1453, in which Ghent suffered a terrible defeat at the hands of Philip the Good. Around this time the centre of political and social importance in the Low Countries started to shift from Flanders (Bruges–Ghent) to Brabant (Antwerp–Brussels), although Ghent continued to play an important role. With Bruges, the city led two revolts against Maximilian of Austria, the first monarch of the House of Habsburg to rule Flanders. Ghent_hist_centrum_2.jpg river in the city of Ghent]] Flickr_-_…trialsanderrors_-_Justitiepaleis,_Ghent,_Belgium,_ca._1895.jpg
+The city recovered in the 15th century, when Flanders was united with neighbouring provinces under the Dukes of Burgundy. High taxes led to a rebellion and eventually the Battle of Gavere in 1453, in which Ghent suffered a terrible defeat at the hands of Philip the Good. Around this time the centre of political and social importance in the Low Countries started to shift from Flanders (Bruges–Ghent) to Brabant (Antwerp–Brussels), although Ghent continued to play an important role. With Bruges, the city led two revolts against Maximilian of Austria, the first monarch of the House of Habsburg to rule Flanders. river in the city of Ghent]]
 
 In 1500, Juana of Castile gave birth to Charles V, who became Holy Roman Emperor and King of Spain. Although native to Ghent, he punished the city after the 1539 Revolt of Ghent and obliged the city's nobles to walk in front of the Emperor barefoot with a noose (Dutch: _"strop"_) around the neck; since this incident, the people of Ghent have been called "_Stroppendragers_" (noose bearers). Saint Bavo Abbey (not to be confused with the nearby Saint Bavo Cathedral) was abolished, torn down, and replaced with a fortress for Royal Spanish troops. Only a small portion of the abbey was spared demolition.
 
@@ -104,7 +104,7 @@ Tourism
 
 Architecture
 
-Belgium-12_(37660701324).jpg is one of the most scenic places in Ghent's old city centre]] Gent_Gravensteen_R01.jpg]] Ghent3.JPG, Belfry, and Saint Bavo Cathedral.]] Ghent_canal,_night.jpg Riverside_at_Ghent_at_noon.jpg Sunset_over_a_canal_in_Ghent,_Belgium.jpg in Ghent]] Much of the city's medieval architecture remains intact and is remarkably well preserved and restored. Its centre is a carfree area. Highlights are the Saint Bavo Cathedral with the _Ghent Altarpiece_, the belfry, the Gravensteen castle, and the splendid architecture along the old Graslei harbour. Ghent has established a blend between comfort of living and history; it is not a city-museum. The city of Ghent also houses three béguinages and numerous churches including Saint-Jacob's church, Saint-Nicolas' church, Saint Michael's church and St. Stefanus. Lamgods_open.jpg'', a 15th century painting by Hubert and Jan Van Eyck in Saint Bavo Cathedral.]] In the 19th century Ghent's most famous architect, Louis Roelandt, built the university hall Aula, the opera house and the main courthouse. Highlights of modern architecture are the university buildings (the _Boekentoren_ or Book Tower) by Henry Van de Velde. There are also a few theatres from diverse periods.
+is one of the most scenic places in Ghent's old city centre]] ]] , Belfry, and Saint Bavo Cathedral.]] in Ghent]] Much of the city's medieval architecture remains intact and is remarkably well preserved and restored. Its centre is a carfree area. Highlights are the Saint Bavo Cathedral with the _Ghent Altarpiece_, the belfry, the Gravensteen castle, and the splendid architecture along the old Graslei harbour. Ghent has established a blend between comfort of living and history; it is not a city-museum. The city of Ghent also houses three béguinages and numerous churches including Saint-Jacob's church, Saint-Nicolas' church, Saint Michael's church and St. Stefanus. '', a 15th century painting by Hubert and Jan Van Eyck in Saint Bavo Cathedral.]] In the 19th century Ghent's most famous architect, Louis Roelandt, built the university hall Aula, the opera house and the main courthouse. Highlights of modern architecture are the university buildings (the _Boekentoren_ or Book Tower) by Henry Van de Velde. There are also a few theatres from diverse periods.
 
 The beguinages, as well as the belfry and adjacent cloth hall, were recognized by UNESCO as World Heritage Sites in 1998 and 1999.
 
@@ -158,7 +158,7 @@ As one of the largest cities in Belgium, Ghent has a highly developed transport 
 
 Road
 
-R4_gezien_vanuit_de_Beekstraat_-_Gent.jpg By car the city is accessible via two motorways:
+By car the city is accessible via two motorways:
 
 -   The E40 connects Ghent with Bruges and Ostend to the west, and with Brussels, Leuven and Liège to the east.
 -   The E17 connects Ghent with Sint-Niklaas and Antwerp to the north, and with Kortrijk and Lille to the south.
@@ -170,7 +170,7 @@ In addition Ghent also has two ringways:
 
 Rail
 
-Sint-Pietersstation.jpg, Ghent]] The municipality of Ghent comprises five railway stations:
+, Ghent]] The municipality of Ghent comprises five railway stations:
 
 -   Gent-Sint-Pieters Station: an international railway station with connections to Bruges, Brussels, Antwerp, Kortrijk, other Belgian towns and Lille. The station also offers a direct connection to Brussels Airport.
 -   Gent-Dampoort Station: an intercity railway station with connections to Sint-Niklaas, Antwerp, Kortrijk and Eeklo.
@@ -184,7 +184,7 @@ Ghent has an extensive network of public transport lines, operated by _De Lijn_.
 
 Trams
 
-HermeLijn_Korenmarkt.JPG in Ghent]]
+in Ghent]]
 
 -   Line 1: Flanders Expo – Sint-Pieters-Station – Korenmarkt (city centre) – Wondelgem - Evergem
 -   Line 2: Zwijnaarde Bibliotheek - Sint-Pieters-Station - Zonnestraat (city centre) - Brabantdam - Zuid - Melle Leeuw (fuse of line 21 and 22 as of May 2017[18])
@@ -194,7 +194,7 @@ HermeLijn_Korenmarkt.JPG in Ghent]]
 
 Buses
 
-Van_Hool_articulated.JPG articulated bus in Ghent]]
+articulated bus in Ghent]]
 
 -   Line 3: Mariakerke – Korenmarkt (city centre) – Dampoort – Gentbrugge (formerly a trolleybus line; see picture below)
 -   Line 5: Van Beverenplein – Sint-Jacobs (city centre) – Zuid – Heuvelpoort - Nieuw-Gent
@@ -228,7 +228,7 @@ The Flanders Sports Arena was host to the 2015 Davis Cup Final between Belgium a
 
 Notable people
 
-Titian_-_Portrait_of_Charles_V_Seated_-_WGA22964.jpg was born in Ghent in 1500]] JacobVAGent.JPG on the Vrijdagmarkt in Ghent]]
+was born in Ghent in 1500]] on the Vrijdagmarkt in Ghent]]
 
 -   Saint Bavo, patron saint of Ghent (589–654)
 -   Saint Livinus of Ghent, (580–657)

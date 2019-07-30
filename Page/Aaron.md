@@ -7,7 +7,7 @@ Aaron died before the Israelites crossed the North Jordan river and he was burie
 
 Biblical narrative
 
-Jacques_Bergé,_Aaron-_Aaron,_KBS-FRB.jpg According to the Book of Exodus, Aaron first functioned as Moses' assistant. Because Moses complained that he could not speak well, God appointed Aaron as Moses' "prophet" (Exodus 4:10-17; 7:1). At the command of Moses, he let his rod turn into a snake.[21] Then he stretched out his rod in order to bring on the first three plagues.[22][23][24] After that, Moses tended to act and speak for himself.[25][26][27]
+According to the Book of Exodus, Aaron first functioned as Moses' assistant. Because Moses complained that he could not speak well, God appointed Aaron as Moses' "prophet" (Exodus 4:10-17; 7:1). At the command of Moses, he let his rod turn into a snake.[21] Then he stretched out his rod in order to bring on the first three plagues.[22][23][24] After that, Moses tended to act and speak for himself.[25][26][27]
 
 During the journey in the wilderness, Aaron was not always prominent or active. At the battle with Amalek, he was chosen with Hur to support the hand of Moses that held the "rod of God".[28] When the revelation was given to Moses at biblical Mount Sinai, he headed the elders of Israel who accompanied Moses on the way to the summit. While Joshua went with Moses to the top, however, Aaron and Hur remained below to look after the people.[29] From here on in Exodus, Leviticus and Numbers, Joshua appears in the role of Moses' assistant while Aaron functions instead as the first high priest.
 
@@ -27,7 +27,7 @@ The Torah generally depicts the siblings, Moses, Aaron, and Miriam, as the leade
 
 According to Numbers 16-17, a Levite named Korah led many in challenging Aaron's exclusive claim to the priesthood. When the rebels were punished by being swallowed up by the earth (Numbers 16:25-35),[47] Eleazar, the son of Aaron, was commissioned to take charge of the censers of the dead priests. And when a plague broke out among the people who had sympathized with the rebels, Aaron, at the command of Moses, took his censer and stood between the living and the dead till the plague abated (Numbers 17:1-15, 16:36-50).[48][49]
 
-Hirschvogel_The_Blossoming_of_Aarons_Rod.jpg]] To emphasize the validity of the Levites' claim to the offerings and tithes of the Israelites, Moses collected a rod from the leaders of each tribe in Israel and laid the twelve rods overnight in the tent of meeting. The next morning, Aaron's rod was found to have budded and blossomed and produced ripe almonds (Numbers 17:8).[50][51] The following chapter then details the distinction between Aaron's family and the rest of the Levites: while all the Levites (and only Levites) were devoted to the care of the sanctuary, charge of its interior and the altar was committed to the Aaronites alone (Numbers 18:1-7).[52]
+]] To emphasize the validity of the Levites' claim to the offerings and tithes of the Israelites, Moses collected a rod from the leaders of each tribe in Israel and laid the twelve rods overnight in the tent of meeting. The next morning, Aaron's rod was found to have budded and blossomed and produced ripe almonds (Numbers 17:8).[50][51] The following chapter then details the distinction between Aaron's family and the rest of the Levites: while all the Levites (and only Levites) were devoted to the care of the sanctuary, charge of its interior and the altar was committed to the Aaronites alone (Numbers 18:1-7).[52]
 
 Death
 
@@ -65,7 +65,7 @@ According to Tanhuma,[97] Aaron's activity as a prophet began earlier than that 
 
 Christianity
 
-Aaron-icon.jpg of Aaron (18th century, Iconostasis of Kizhi monastery, Karelia, Russia).]] In the Eastern Orthodox and Maronite churches, Aaron is venerated as a saint whose feast day is shared with his brother Moses and celebrated on September 4. (Those churches that follow the traditional Julian Calendar celebrate this day on September 17 of the modern Gregorian Calendar). Aaron is also commemorated with other Old Testament saints on the Sunday of the Holy Fathers, the Sunday before Christmas.
+of Aaron (18th century, Iconostasis of Kizhi monastery, Karelia, Russia).]] In the Eastern Orthodox and Maronite churches, Aaron is venerated as a saint whose feast day is shared with his brother Moses and celebrated on September 4. (Those churches that follow the traditional Julian Calendar celebrate this day on September 17 of the modern Gregorian Calendar). Aaron is also commemorated with other Old Testament saints on the Sunday of the Holy Fathers, the Sunday before Christmas.
 
 Aaron is commemorated as one of the Holy Forefathers in the Calendar of Saints of the Armenian Apostolic Church on July 30. He is commemorated on July 1 in the modern Latin calendar and in the Syriac Calendar.
 
@@ -95,7 +95,7 @@ Aaron was also mentioned by Muhammad in likeness to ‘Ali. Muhammad had left �
 
 Tomb of Aaron
 
-Shrine_on_Mt_Aaron.jpg, Jordan.]] According to Islamic tradition, the tomb of Aaron is located on _Jabal Harun_ (, Mountain of Aaron), near Petra in Jordan.[127][128] At above sea-level, it is the highest peak in the area; and it is a place of great sanctity to the local people for here. A 14th-century Mamluk mosque stands here with its white dome visible from most areas in and around Petra.
+, Jordan.]] According to Islamic tradition, the tomb of Aaron is located on _Jabal Harun_ (, Mountain of Aaron), near Petra in Jordan.[127][128] At above sea-level, it is the highest peak in the area; and it is a place of great sanctity to the local people for here. A 14th-century Mamluk mosque stands here with its white dome visible from most areas in and around Petra.
 
 Baha'i
 

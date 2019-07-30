@@ -24,7 +24,7 @@ The oldest extant copy of a complete Bible is an early 4th-century parchment boo
 
 Development
 
-Great_Isaiah_Scroll.jpg, which is a part of the Dead Sea Scrolls, contains almost the whole Book of Isaiah. It dates from the 2nd century BCE.]] PaulT.jpg Professor John K. Riches, Professor of Divinity and Biblical Criticism at the University of Glasgow, says that "the biblical texts themselves are the result of a creative dialogue between ancient traditions and different communities through the ages", and "the biblical texts were produced over a period in which the living conditions of the writers – political, cultural, economic, and ecological – varied enormously". Timothy H. Lim, a professor of Hebrew Bible and Second Temple Judaism at the University of Edinburgh, says that the Old Testament is "a collection of authoritative texts of apparently divine origin that went through a human process of writing and editing."[23] He states that it is not a magical book, nor was it literally written by God and passed to mankind. Parallel to the solidification of the Hebrew canon (c. 3rd century BCE), only the Torah first and then the Tanakh began to be translated into Greek and expanded, now referred to as the Septuagint or the Greek Old Testament.
+, which is a part of the Dead Sea Scrolls, contains almost the whole Book of Isaiah. It dates from the 2nd century BCE.]] Professor John K. Riches, Professor of Divinity and Biblical Criticism at the University of Glasgow, says that "the biblical texts themselves are the result of a creative dialogue between ancient traditions and different communities through the ages", and "the biblical texts were produced over a period in which the living conditions of the writers – political, cultural, economic, and ecological – varied enormously". Timothy H. Lim, a professor of Hebrew Bible and Second Temple Judaism at the University of Edinburgh, says that the Old Testament is "a collection of authoritative texts of apparently divine origin that went through a human process of writing and editing."[23] He states that it is not a magical book, nor was it literally written by God and passed to mankind. Parallel to the solidification of the Hebrew canon (c. 3rd century BCE), only the Torah first and then the Tanakh began to be translated into Greek and expanded, now referred to as the Septuagint or the Greek Old Testament.
 
 In Christian Bibles, the New Testament Gospels were derived from oral traditions in the second half of the first century. Riches says that:
 
@@ -33,7 +33,7 @@ The Bible was later translated into Latin and other languages. John Riches state
 
 Hebrew Bible
 
-2nd_century_Hebrew_decalogue.jpg (2nd century BCE) contains a portion of a pre-Masoretic Text, specifically the Ten Commandments and the Shema Yisrael prayer.]] The Masoretic Text is the authoritative Hebrew text of the Hebrew Bible. It defines the books of the Jewish canon, and also the precise letter-text of these biblical books, with their vocalization and accentuation.
+(2nd century BCE) contains a portion of a pre-Masoretic Text, specifically the Ten Commandments and the Shema Yisrael prayer.]] The Masoretic Text is the authoritative Hebrew text of the Hebrew Bible. It defines the books of the Jewish canon, and also the precise letter-text of these biblical books, with their vocalization and accentuation.
 
 The oldest extant manuscripts of the Masoretic Text date from approximately the 9th century CE,[24] and the Aleppo Codex (once the oldest complete copy of the Masoretic Text, but now missing its Torah section) dates from the 10th century.
 
@@ -41,7 +41,7 @@ The name Tanakh (Hebrew: ) reflects the threefold division of the Hebrew Scriptu
 
 Torah
 
-Köln-Tora-und-Innenansicht-Synagoge-Glockengasse-040.JPG recovered from Glockengasse Synagogue in Cologne.]] The Torah (תּוֹרָה) is also known as the "Five Books of Moses" or the Pentateuch, meaning "five scroll-cases".[25] Traditionally these books were considered to have been written almost entirely by Moses himself.[26] In the 19th century, Julius Wellhausen and other scholars proposed that the Torah had been compiled from earlier written documents dating from the 9th to the 5th century BCE, the "documentary hypothesis".[27] Scholars Hermann Gunkel and Martin Noth, building on the form criticism of Gerhard von Rad, refined this hypothesis, while other scholars have proposed other ways that the Torah might have developed over the centuries.[28] Samaritan_Inscription_containing_portion_of_the_Bible_in_nine_lines_of_Hebrew_text,_currently_housed_in_the_British_Museum.jpg The Hebrew names of the books are derived from the first words in the respective texts. The Torah consists of the following five books:
+recovered from Glockengasse Synagogue in Cologne.]] The Torah (תּוֹרָה) is also known as the "Five Books of Moses" or the Pentateuch, meaning "five scroll-cases".[25] Traditionally these books were considered to have been written almost entirely by Moses himself.[26] In the 19th century, Julius Wellhausen and other scholars proposed that the Torah had been compiled from earlier written documents dating from the 9th to the 5th century BCE, the "documentary hypothesis".[27] Scholars Hermann Gunkel and Martin Noth, building on the form criticism of Gerhard von Rad, refined this hypothesis, while other scholars have proposed other ways that the Torah might have developed over the centuries.[28] The Hebrew names of the books are derived from the first words in the respective texts. The Torah consists of the following five books:
 
 -   Genesis, _Beresheeth_ (בראשית)
 -   Exodus, _Shemot_ (שמות)
@@ -91,7 +91,7 @@ _Ketuvim_ or _Kəṯûḇîm_ (in "writings") is the third and final section of 
 
 The poetic books
 
-Bhs_psalm1.png text of ]] In Masoretic manuscripts (and some printed editions), Psalms, Proverbs and Job are presented in a special two-column form emphasizing the parallel stichs in the verses, which are a function of their poetry. Collectively, these three books are known as _Sifrei Emet_ (an acronym of the titles in Hebrew, איוב, משלי, תהלים yields _Emet_ אמ"ת, which is also the Hebrew for "truth").
+text of ]] In Masoretic manuscripts (and some printed editions), Psalms, Proverbs and Job are presented in a special two-column form emphasizing the parallel stichs in the verses, which are a function of their poetry. Collectively, these three books are known as _Sifrei Emet_ (an acronym of the titles in Hebrew, איוב, משלי, תהלים yields _Emet_ אמ"ת, which is also the Hebrew for "truth").
 
 These three books are also the only ones in Tanakh with a special system of cantillation notes that are designed to emphasize parallel stichs within verses. However, the beginning and end of the book of Job are in the normal prose system.
 
@@ -155,7 +155,7 @@ Samaritans include only the Pentateuch in their biblical canon.[43] They do not 
 
 Septuagint
 
-Codex_vaticanus.jpg book from 1 Esdras in the _Codex Vaticanus_ c. 325–350 CE, the basis of Sir Lancelot Charles Lee Brenton's Greek edition and English translation.]] The Septuagint, or the LXX, is a translation of the Hebrew Scriptures and some related texts into Koine Greek, begun in the late 3rd century BCE and completed by 132 BCE,[46][47][48] initially in Alexandria, but in time it was completed elsewhere as well.[49] It is not altogether clear which was translated when, or where; some may even have been translated twice, into different versions, and then revised.[50]
+book from 1 Esdras in the _Codex Vaticanus_ c. 325–350 CE, the basis of Sir Lancelot Charles Lee Brenton's Greek edition and English translation.]] The Septuagint, or the LXX, is a translation of the Hebrew Scriptures and some related texts into Koine Greek, begun in the late 3rd century BCE and completed by 132 BCE,[46][47][48] initially in Alexandria, but in time it was completed elsewhere as well.[49] It is not altogether clear which was translated when, or where; some may even have been translated twice, into different versions, and then revised.[50]
 
 As the work of translation progressed, the canon of the Greek Bible expanded. The Torah always maintained its pre-eminence as the basis of the canon but the collection of prophetic writings, based on the _Nevi'im_, had various hagiographical works incorporated into it. In addition, some newer books were included in the Septuagint, among these are the Maccabees and the Wisdom of Sirach. However, the book of Sirach, is now known to have existed in a Hebrew version, since ancient Hebrew manuscripts of it were rediscovered in modern times. The Septuagint version of some Biblical books, like Daniel and Esther, are longer than those in the Jewish canon.[51] Some of these deuterocanonical books (e.g. the Wisdom of Solomon, and the second book of Maccabees) were not translated, but composed directly in Greek.
 
@@ -299,7 +299,7 @@ Some books that are set apart in the Masoretic Text are grouped together. For ex
 
 Christian Bibles
 
-Gutenberg_Bible_scan.jpg ]] A Christian Bible is a set of books that a Christian denomination regards as divinely inspired and thus constituting scripture. Although the Early Church primarily used the Septuagint or the Targums among Aramaic speakers, the apostles did not leave a defined set of new scriptures; instead the canon of the New Testament developed over time. Groups within Christianity include differing books as part of their sacred writings, most prominent among which are the biblical apocrypha or deuterocanonical books.
+]] A Christian Bible is a set of books that a Christian denomination regards as divinely inspired and thus constituting scripture. Although the Early Church primarily used the Septuagint or the Targums among Aramaic speakers, the apostles did not leave a defined set of new scriptures; instead the canon of the New Testament developed over time. Groups within Christianity include differing books as part of their sacred writings, most prominent among which are the biblical apocrypha or deuterocanonical books.
 
 Significant versions of the Christian Bible in English include the Douay-Rheims Bible, the Authorized King James Version, the English Revised Version, the American Standard Version, the Revised Standard Version, the New American Standard Version, the New King James Version, the New International Version, and the English Standard Version.
 
@@ -457,7 +457,7 @@ The mainstream consensus is that the New Testament was written in a form of Koin
 
 Historic editions
 
-Lutherbibel.jpg. His translation of the text into the vernacular was highly influential.]]
+. His translation of the text into the vernacular was highly influential.]]
 
 The original autographs, that is, the original Greek writings and manuscripts written by the original authors of the New Testament, have not survived.[86] But historically _copies_ exist of those original autographs, transmitted and preserved in a number of manuscript traditions. There have been some minor variations, additions or omissions, in some of the texts. When ancient scribes copied earlier books, they sometimes wrote notes on the margins of the page (_marginal glosses_) to correct their text – especially if a scribe accidentally omitted a word or line – and to comment about the text. When later scribes were copying the copy, they were sometimes uncertain if a note was intended to be included as part of the text.
 
@@ -465,7 +465,7 @@ The three main textual traditions of the Greek New Testament are sometimes calle
 
 Development of the Christian canons
 
-Marinus_Claesz._van_Reymerswaele_002.jpg (pictured) produced a 4th-century Latin edition of the Bible, known as the _Vulgate_, that became the Catholic Church's official translation.]] The Old Testament canon entered into Christian use in the Greek Septuagint translations and original books, and their differing lists of texts. In addition to the Septuagint, Christianity subsequently added various writings that would become the New Testament. Somewhat different lists of accepted works continued to develop in antiquity. In the 4th century a series of synods produced a list of texts equal to the 39, 46, 51, or 54-book canon of the Old Testament and to the 27-book canon of the New Testament that would be subsequently used to today, most notably the Synod of Hippo in 393 CE. Also _c_. 400, Jerome produced a definitive Latin edition of the Bible (see Vulgate), the canon of which, at the insistence of the Pope, was in accord with the earlier Synods. With the benefit of hindsight it can be said that this process effectively set the New Testament canon, although there are examples of other canonical lists in use after this time.
+(pictured) produced a 4th-century Latin edition of the Bible, known as the _Vulgate_, that became the Catholic Church's official translation.]] The Old Testament canon entered into Christian use in the Greek Septuagint translations and original books, and their differing lists of texts. In addition to the Septuagint, Christianity subsequently added various writings that would become the New Testament. Somewhat different lists of accepted works continued to develop in antiquity. In the 4th century a series of synods produced a list of texts equal to the 39, 46, 51, or 54-book canon of the Old Testament and to the 27-book canon of the New Testament that would be subsequently used to today, most notably the Synod of Hippo in 393 CE. Also _c_. 400, Jerome produced a definitive Latin edition of the Bible (see Vulgate), the canon of which, at the insistence of the Pope, was in accord with the earlier Synods. With the benefit of hindsight it can be said that this process effectively set the New Testament canon, although there are examples of other canonical lists in use after this time.
 
 The Protestant Old Testament of today has a 39-book canon – the number of books (though not the content) varies from the Jewish Tanakh only because of a different method of division – while the Roman Catholic Church recognizes 46 books (51 books with some books combined into 46 books) as the canonical Old Testament. The Eastern Orthodox Churches recognize 3 Maccabees, 1 Esdras, Prayer of Manasseh and Psalm 151 in addition to the Catholic canon. Some include 2 Esdras. The Anglican Church also recognizes a longer canon. The term "Hebrew Scriptures" is often used as being synonymous with the Protestant Old Testament, since the surviving scriptures in Hebrew include only those books, while Catholics and Orthodox include additional texts that have not survived in Hebrew. Both Catholics and Protestants (as well as Greek Orthodox) have the same 27-book New Testament Canon.[87]
 
@@ -478,7 +478,7 @@ The Canon of the Ethiopian Orthodox Tewahedo Church is wider than the canons use
 
 Divine inspiration
 
-Altar_and_bible_st_Johns_Lutheran.jpg altar, highlighting its importance]]The Second Epistle to Timothy says that "all scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness". ()[90] Various related but distinguishable views on divine inspiration include:
+altar, highlighting its importance]]The Second Epistle to Timothy says that "all scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness". ()[90] Various related but distinguishable views on divine inspiration include:
 
 -   the view of the Bible as the inspired word of God: the belief that God, through the Holy Spirit, intervened and influenced the words, message, and collation of the Bible[91]
 -   the view that the Bible is also infallible, and incapable of error in matters of faith and practice, but not necessarily in historic or scientific matters
@@ -491,7 +491,7 @@ Jewish antiquity attests to belief in sacred texts,[94][95] and a similar belief
 
 Versions and translations
 
-1588_First_Welsh_Bible.jpg translation of the Bible, 1588. William Morgan (1545–1604)]] The original texts of the Tanakh were mainly in Hebrew, with some portions in Aramaic. In addition to the authoritative Masoretic Text, Jews still refer to the Septuagint, the translation of the Hebrew Bible into Greek, and the Targum Onkelos, an Aramaic version of the Bible. There are several different ancient versions of the Tanakh in Hebrew, mostly differing by spelling, and the traditional Jewish version is based on the version known as Aleppo Codex. Even in this version there are words which are traditionally read differently from written, because the oral tradition is considered more fundamental than the written one, and presumably mistakes had been made in copying the text over the generations.
+translation of the Bible, 1588. William Morgan (1545–1604)]] The original texts of the Tanakh were mainly in Hebrew, with some portions in Aramaic. In addition to the authoritative Masoretic Text, Jews still refer to the Septuagint, the translation of the Hebrew Bible into Greek, and the Targum Onkelos, an Aramaic version of the Bible. There are several different ancient versions of the Tanakh in Hebrew, mostly differing by spelling, and the traditional Jewish version is based on the version known as Aleppo Codex. Even in this version there are words which are traditionally read differently from written, because the oral tradition is considered more fundamental than the written one, and presumably mistakes had been made in copying the text over the generations.
 
 The primary biblical text for early Christians was the Septuagint. In addition, they translated the Hebrew Bible into several other languages. Translations were made into Syriac, Coptic, Ethiopic, and Latin, among other languages. The Latin translations were historically the most important for the Church in the West, while the Greek-speaking East continued to use the Septuagint translations of the Old Testament and had no need to translate the New Testament.
 

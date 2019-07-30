@@ -11,7 +11,7 @@ Edward Estlin Cummings was born on October 14, 1894 in Cambridge, Massachusetts 
 
 He expressed transcendental leanings his entire life. As he matured, Cummings moved to an "I, Thou" relationship with God. His journals are replete with references to _"le bon Dieu"_, as well as prayers for inspiration in his poetry and artwork (such as "Bon Dieu! may i some day do something truly great. amen."). Cummings "also prayed for strength to be his essential self ('may I be I is the only prayer—not may I be great or good or beautiful or wise or strong'), and for relief of spirit in times of depression ('almighty God! I thank thee for my soul; & may I never die spiritually into a mere mind through disease of loneliness')."[5]
 
-Cummings wanted to be a poet from childhood and wrote poetry daily from age 8 to 22, exploring assorted forms. He graduated from Harvard University with a Bachelor of Arts degree _magna cum laude_ and Phi Beta Kappa in 1915 and received a Master of Arts degree from the university in 1916.[6] In his studies at Harvard, he developed an interest in modern poetry, which ignored conventional grammar and syntax, while aiming for a dynamic use of language. Upon graduating, he worked for a book dealer.[7] Harvard_Monthly_vol_56.jpg''; Cummings was an editor and contributor to this literary journal while at Harvard]]
+Cummings wanted to be a poet from childhood and wrote poetry daily from age 8 to 22, exploring assorted forms. He graduated from Harvard University with a Bachelor of Arts degree _magna cum laude_ and Phi Beta Kappa in 1915 and received a Master of Arts degree from the university in 1916.[6] In his studies at Harvard, he developed an interest in modern poetry, which ignored conventional grammar and syntax, while aiming for a dynamic use of language. Upon graduating, he worked for a book dealer.[7] ''; Cummings was an editor and contributor to this literary journal while at Harvard]]
 
 War years
 
@@ -39,8 +39,6 @@ In the 1930s Samuel Aiwaz Jacobs was Cummings' publisher; he had started the Gol
 
 Final years
 
-EECummingsGrave.jpg
-
 In 1952, his alma mater, Harvard University, awarded Cummings an honorary seat as a guest professor. The Charles Eliot Norton Lectures he gave in 1952 and 1955 were later collected as _i: six nonlectures_.
 
 Cummings spent the last decade of his life traveling, fulfilling speaking engagements, and spending time at his summer home, Joy Farm, in Silver Lake, New Hampshire. He died of a stroke on September 3, 1962, at the age of 67 in North Conway, New Hampshire at the Memorial Hospital.[17] Cummings was buried at Forest Hills Cemetery in Boston, Massachusetts. At the time of his death, Cummings was recognized as the second most read poet in the United States, behind Robert Frost.[18] Even after his death in 1962, his work continues to be published. Some recent poems include:
@@ -59,7 +57,7 @@ Personal life
 
 Marriages
 
-EECummings_pd4.jpg Cummings was married briefly twice, first to Elaine Orr, then to Anne Minnerly Barton. His longest relationship lasted more than three decades, a common-law marriage to Marion Morehouse.
+Cummings was married briefly twice, first to Elaine Orr, then to Anne Minnerly Barton. His longest relationship lasted more than three decades, a common-law marriage to Marion Morehouse.
 
 Cummings' first marriage, to Elaine Orr, began as a love affair in 1918 while she was still married to Scofield Thayer, one of Cummings' friends from Harvard. During this time he wrote a good deal of his erotic poetry.[20] After divorcing Thayer, Orr married Cummings on March 19, 1924. The couple had a daughter together out of wedlock. However, the couple separated after two months of marriage and divorced less than nine months later.
 

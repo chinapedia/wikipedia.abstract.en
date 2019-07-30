@@ -19,7 +19,7 @@ On leaving his brigade command in April 1936, Auchinleck was on the unemployed l
 
 Second World War
 
-Claude_Auchinleck_(1940_portrait).jpg.]]
+.]]
 
 Norway 1940
 
@@ -33,13 +33,11 @@ In April 1941, RAF Habbaniya was threatened by the new pro-Axis regime of Rashid
 
 North Africa July 1941 – August 1942
 
-Auchinleck_(cropped).jpg Following the see-saw of Allied and Axis successes and reverses in North Africa, Auchinleck was appointed to succeed General Sir Archibald Wavell as Commander-in-Chief Middle East Command in July 1941;[50] Wavell took up Auchinleck's post as Commander-in-Chief of the Indian Army, swapping jobs with him.[51]
-
-The_British_Army_in_the_Middle_East_1941_E5450.jpg
+Following the see-saw of Allied and Axis successes and reverses in North Africa, Auchinleck was appointed to succeed General Sir Archibald Wavell as Commander-in-Chief Middle East Command in July 1941;[50] Wavell took up Auchinleck's post as Commander-in-Chief of the Indian Army, swapping jobs with him.[51]
 
 As Commander-in-Chief Middle East Auchinleck, based in Cairo, held responsibility not just for North Africa but also for Persia and the Middle East. He launched an offensive in the Western Desert, Operation Crusader, in November 1941: despite some tactical reverses during the fighting which resulted in Auchinleck replacing the Eighth Army commander Alan Cunningham with Neil Ritchie, by the end of December the besieged garrison of Tobruk had been relieved and Rommel obliged to withdraw to El Agheila. Auchinleck appears to have believed that enemy had been defeated, writing on 12 January 1942 that the Axis forces were "beginning to feel the strain" and were "hard pressed".[52] In fact the Axis forces had managed to withdraw in good order and a few days after Auchinleck's optimistic appreciation, having reorganised and been reinforced, struck at the dispersed and weakened British forces, driving them back to the Gazala positions near Tobruk.[53] The British Chief of the Imperial General Staff (CIGS), General Sir Alan Brooke, wrote in his diary that it was "nothing less than bad generalship on the part of Auchinleck. He has been overconfident and has believed everything his overoptimistic [DMI] Shearer has told him". Brooke commented that Auchinleck "could have been one of the finest of commanders" but lacked the ability to select the men to serve him. Brooke sent him one of his best armoured division commanders Richard McCreery, whose advice was ignored in favour of Dorman-Smith's.[54]
 
-British_Generals_1939-1945_E8454.jpg and General Sir Claude Auchinleck, Commander-in-Chief Middle East, in the Western Desert.]]
+and General Sir Claude Auchinleck, Commander-in-Chief Middle East, in the Western Desert.]]
 
 Rommel's attack at the Battle of Gazala of 26 May 1942 resulted in a significant defeat for the British. Auchinleck's appreciation of the situation written to Ritchie on 20 May had suggested that the armoured reserves be concentrated in a position suitable to meet both a flanking attack around the south of the front or a direct attack through the centre (which was the likelihood more favoured by Auchinleck).[55] In the event, Ritchie chose a more dispersed and rearward positioning of his two armoured divisions[56] and when the attack in the centre came, it proved to be a diversion and the main attack, by Rommel's armoured formations, came round the southern flank. Poor initial positioning and subsequent handling and coordination of Allied formations by Ritchie and his corps commanders resulted in their heavy defeat and the Eighth Army retreating into Egypt; Tobruk fell to the Axis on 21 June 1942.[57]
 
@@ -53,7 +51,7 @@ Joseph M. Horodyski and Maurice Remy both praise Auchinleck as an underrated mil
 
 India 1942–1945
 
-AuchinleckNepal.jpg in October 1945 from the King of Nepal, Tribhubana Bir Vikram Sah]]Churchill offered Auchinleck command of the newly created Persia and Iraq Command (this having been separated from Alexander's command), but Auchinleck declined this post, as he believed that separating the area from the Middle East Command was not good policy and the new arrangements would not be workable. He set his reasons out in his letter to the Chief of the Imperial General Staff dated 14 August 1942.[63] Instead he returned to India, where he spent almost a year "unemployed" before in June 1943 being again appointed Commander-in-Chief of the Indian Army,[64] General Wavell meanwhile having been appointed Viceroy: on this appointment it was announced that responsibility for the prosecution of the war with Japan would move from the Commander-in-Chief India to a newly created South East Asia Command. However, the appointment of the new command's Supreme Commander, Admiral Louis Mountbatten, was not announced until August 1943 and until Mountbatten could set up his headquarters and assume control (in November) Auchinleck retained responsibility for operations in India and Burma while conducting a review and revision of Allied plans based on the decisions taken by the Allied Combined Chiefs of Staff at the Quadrant Conference which ended in August.[65]
+in October 1945 from the King of Nepal, Tribhubana Bir Vikram Sah]]Churchill offered Auchinleck command of the newly created Persia and Iraq Command (this having been separated from Alexander's command), but Auchinleck declined this post, as he believed that separating the area from the Middle East Command was not good policy and the new arrangements would not be workable. He set his reasons out in his letter to the Chief of the Imperial General Staff dated 14 August 1942.[63] Instead he returned to India, where he spent almost a year "unemployed" before in June 1943 being again appointed Commander-in-Chief of the Indian Army,[64] General Wavell meanwhile having been appointed Viceroy: on this appointment it was announced that responsibility for the prosecution of the war with Japan would move from the Commander-in-Chief India to a newly created South East Asia Command. However, the appointment of the new command's Supreme Commander, Admiral Louis Mountbatten, was not announced until August 1943 and until Mountbatten could set up his headquarters and assume control (in November) Auchinleck retained responsibility for operations in India and Burma while conducting a review and revision of Allied plans based on the decisions taken by the Allied Combined Chiefs of Staff at the Quadrant Conference which ended in August.[65]
 
 Following Mountbatten's arrival, Auchinleck's India Command (which had equal status with South East Asia Command in the military hierarchy) was responsible for the internal security of India, the defence of the North West Frontier and the buildup of India as a base, including most importantly the reorganisation of the Indian Army, the training of forces destined for SEAC and the lines of communication carrying men and material to the forward areas and to China. Auchinleck made the supply of Fourteenth Army, with probably the worst lines of communication of the war, his immediate priority;[66] as William Slim, commander of the Fourteenth Army was later to write:
 
@@ -66,7 +64,7 @@ There is scholarly dispute whether Auchinleck was homosexual. His biographer, Ph
 
 Partition of India and later years
 
-Claude_Auchinleck.jpg Auchinleck continued as Commander-in-Chief of the Indian Army after the end of the war[72] helping, though much against his own convictions, to prepare the future Indian and Pakistani armies for the Partition of India: in November 1945 he was forced to commute the more serious judicial sentences awarded against officers of the Indian National Army in face of growing unease and unrest both within the Indian population, and the British Indian Army.[73] On 1 June 1946 he was promoted to field marshal,[74] but he refused to accept a peerage, lest he be thought associated with a policy (i.e. Partition) that he thought fundamentally dishonourable.[75]
+Auchinleck continued as Commander-in-Chief of the Indian Army after the end of the war[72] helping, though much against his own convictions, to prepare the future Indian and Pakistani armies for the Partition of India: in November 1945 he was forced to commute the more serious judicial sentences awarded against officers of the Indian National Army in face of growing unease and unrest both within the Indian population, and the British Indian Army.[73] On 1 June 1946 he was promoted to field marshal,[74] but he refused to accept a peerage, lest he be thought associated with a policy (i.e. Partition) that he thought fundamentally dishonourable.[75]
 
 Sending a report to British Government on 28 September 1947 Auchinleck wrote: "I have no hesitation, whatever, in affirming that the present Indian Cabinet are implacably determined to do all in their power to prevent the establishment of the Dominion of Pakistan on firm basis." He stated in the second, political part of his assessment, "Since 15th August, the situation has steadily deteriorated and the Indian leaders, cabinet ministers, civil officials and others have persistently tried to obstruct the work of partition of the armed forces."[76][77]
 
@@ -74,7 +72,7 @@ When partition was effected in August 1947, Auchinleck was appointed Supreme Com
 
 After a brief period in Italy in connection with an unsuccessful business project, Auchinleck retired to London, where he occupied himself with a number of charitable and business interests and became a respectably skilled watercolour painter.[80] In 1960 he settled in Beccles in the county of Suffolk, remaining there for seven years until, at the age of eighty-four, he decided to emigrate and set up home in Marrakesh,[81] where he died on 23 March 1981.[82]
 
-Monty,_wavvel,_auk.jpg Wavell (centre) and Montgomery (left)]]
+Wavell (centre) and Montgomery (left)]]
 
 
 Memorials

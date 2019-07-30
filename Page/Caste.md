@@ -1,4 +1,4 @@
-Basor_Dalit_caste.jpg'' weaving bamboo baskets in a 1916 book. The _Basor_ are a Scheduled Caste found in the state of Uttar Pradesh in India.]] CASTE is a form of social stratification characterized by endogamy, hereditary transmission of a style of life which often includes an occupation, ritual status in a hierarchy, and customary social interaction and exclusion based on cultural notions of purity and pollution. Its paradigmatic ethnographic example is the division of India's Hindu society into rigid social groups, with roots in India's ancient history and persisting to the present time. However, the economic significance of the caste system in India has been declining as a result of urbanization and affirmative action programs. A subject of much scholarship by sociologists and anthropologists, the Hindu caste system is sometimes used as an analogical basis for the study of caste-like social divisions existing outside Hinduism and India. The term "caste" is also applied to morphological groupings in female populations of ants and bees.[1]
+'' weaving bamboo baskets in a 1916 book. The _Basor_ are a Scheduled Caste found in the state of Uttar Pradesh in India.]] CASTE is a form of social stratification characterized by endogamy, hereditary transmission of a style of life which often includes an occupation, ritual status in a hierarchy, and customary social interaction and exclusion based on cultural notions of purity and pollution. Its paradigmatic ethnographic example is the division of India's Hindu society into rigid social groups, with roots in India's ancient history and persisting to the present time. However, the economic significance of the caste system in India has been declining as a result of urbanization and affirmative action programs. A subject of much scholarship by sociologists and anthropologists, the Hindu caste system is sometimes used as an analogical basis for the study of caste-like social divisions existing outside Hinduism and India. The term "caste" is also applied to morphological groupings in female populations of ants and bees.[1]
 
 
 Etymology
@@ -28,7 +28,7 @@ Chiefly among the factors influencing the rise of exogamy is the rapid urbanisat
 
 India has also experimented with Affirmative Action, locally known as “reservation groups”. Quota system jobs, as well as placements in publicly funded colleges, hold spots for the 8% of India’s minority, and underprivileged groups. As a result, in states such as Tamil Nadu or those in the north-east, where underprivileged populations predominate, over 80% of government jobs are set aside in quotas. In education, colleges lower the marks necessary for the Dalits to enter.[30]
 
-Seventy-two_Specimens_of_Castes_in_India_(62).jpg in 1837, which confirms the popular perception and nature of caste as Jati, before the British made it applicable only to Hindus grouped under the _varna_ categories from the 1901 census onwards.]]
+in 1837, which confirms the popular perception and nature of caste as Jati, before the British made it applicable only to Hindus grouped under the _varna_ categories from the 1901 census onwards.]]
 
 Nepal
 
@@ -45,7 +45,7 @@ The caste system in Sri Lanka is a division of society into strata,[34] influenc
 
 Southeast Asia
 
-COLLECTIE_TROPENMUSEUM_Een_soedra_een_man_uit_de_laagste_kaste_van_Bali._TMnr_60002169.jpg. Photo from 1870, courtesy of Tropenmuseum, Netherlands.]]
+. Photo from 1870, courtesy of Tropenmuseum, Netherlands.]]
 
 Indonesia
 
@@ -60,7 +60,7 @@ The Brahmana caste was further subdivided by these Dutch ethnographers into two:
 
 Philippines
 
-Naturales_3.png royal couple (_maginoo_), from the Boxer Codex (c. 1590)]] In the Philippines, pre-colonial societies do not have a single social structure. The class structures can be roughly categorized into four types:[37]
+royal couple (_maginoo_), from the Boxer Codex (c. 1590)]] In the Philippines, pre-colonial societies do not have a single social structure. The class structures can be roughly categorized into four types:[37]
 
 -   Classless societies - egalitarian societies with no class structure. Examples include the Mangyan and the Kalanguya peoples.[38]
 -   Warrior societies - societies where a distinct warrior class exists, and whose membership depends on martial prowess. Examples include the Mandaya, Bagobo, Tagakaulo, and B'laan peoples who had warriors called the _bagani_ or _magani_. Similarly, in the Cordillera highlands of Luzon, the Isneg and Kalinga peoples refer to their warriors as _mengal_ or _maingal_. This society is typical for head-hunting ethnic groups or ethnic groups which had seasonal raids (_mangayaw_) into enemy territory.[39]
@@ -95,7 +95,7 @@ There is also significant controversy over the social classes of Tibet, especial
 
 Japan
 
-Edo_social_structure.svg)]]
+)]]
 
 In Japan's history, social strata based on inherited position rather than personal merit, were rigid and highly formalized in a system called _mibunsei_ (身分制). At the top were the Emperor and Court nobles (kuge), together with the Shōgun and daimyō. Below them, the population was divided into four classes: samurai, peasants, craftsmen and merchants. Only samurai were allowed to bear arms. A samurai had a right to kill any peasants, craftsman or merchant who he felt were disrespectful. Merchants were the lowest caste because they did not produce any products. The castes were further sub-divided; for example, peasants were labelled as _furiuri_, _tanagari_, _mizunomi-byakusho_ among others. As in Europe, the castes and sub-classes were of the same race, religion and culture.
 
@@ -108,8 +108,6 @@ Endogamy was common because marriage across caste lines was socially unacceptabl
 Japan had its own untouchable caste, shunned and ostracized, historically referred to by the insulting term _Eta_, now called _Burakumin_. While modern law has officially abolished the class hierarchy, there are reports of discrimination against the Buraku or Burakumin underclasses.[51] The Burakumin are regarded as "ostracised".[52] The burakumin are one of the main minority groups in Japan, along with the Ainu of Hokkaidō and those of residents of Korean and Chinese descent.
 
 Korea
-
-Korea-History-Goban_Game_in_Seoul_Korea_1904_(LOC).jpg
 
 The baekjeong (백정) were an "untouchable" outcaste of Korea. The meaning today is that of butcher. It originates in the Khitan invasion of Korea in the 11th century. The defeated Khitans who surrendered were settled in isolated communities throughout Goryeo to forestall rebellion. They were valued for their skills in hunting, herding, butchering, and making of leather, common skill sets among nomads. Over time, their ethnic origin was forgotten, and they formed the bottom layer of Korean society.
 
@@ -154,7 +152,7 @@ Various sociologists have reported caste systems in Africa.[69][70][71] The spec
 
 West Africa
 
-GriotFête.jpg, who have been described as an endogamous caste of West Africa who specialize in oral story telling and culture preservation. They have been also referred to as the bard caste.]] Among the Igbo of Nigeria – especially Enugu, Anambra, Imo, Abia, Ebonyi, Edo and Delta states of the country – Obinna finds Osu caste system has been and continues to be a major social issue. The Osu caste is determined by one's birth into a particular family irrespective of the religion practised by the individual. Once born into Osu caste, this Nigerian person is an outcast, shunned and ostracized, with limited opportunities or acceptance, regardless of his or her ability or merit. Obinna discusses how this caste system-related identity and power is deployed within government, Church and indigenous communities.[74]
+, who have been described as an endogamous caste of West Africa who specialize in oral story telling and culture preservation. They have been also referred to as the bard caste.]] Among the Igbo of Nigeria – especially Enugu, Anambra, Imo, Abia, Ebonyi, Edo and Delta states of the country – Obinna finds Osu caste system has been and continues to be a major social issue. The Osu caste is determined by one's birth into a particular family irrespective of the religion practised by the individual. Once born into Osu caste, this Nigerian person is an outcast, shunned and ostracized, with limited opportunities or acceptance, regardless of his or her ability or merit. Obinna discusses how this caste system-related identity and power is deployed within government, Church and indigenous communities.[74]
 
 The _osu_ class systems of eastern Nigeria and southern Cameroon are derived from indigenous religious beliefs and discriminate against the "Osus" people as "owned by deities" and outcasts.
 
@@ -174,7 +172,7 @@ Ethel M. Albert in 1960 claimed that the societies in Central Africa were caste-
 
 Horn of Africa
 
-NSRW_Africa_Midgan.png (Midgan) specialize in leather occupation. Along with the Tumal and Yibir, they are collectively known as _sab_.[81]]] In a review published in 1977, Todd reports that numerous scholars report a system of social stratification in different parts of Africa that resembles some or all aspects of caste system. Examples of such caste systems, he claims, are to be found in Ethiopia in communities such as the Gurage and Konso. He then presents the Dime of Southwestern Ethiopia, amongst whom there operates a system which Todd claims can be unequivocally labelled as caste system. The Dime have seven castes whose size varies considerably. Each broad caste level is a hierarchical order that is based on notions of purity, non-purity and impurity. It uses the concepts of defilement to limit contacts between caste categories and to preserve the purity of the upper castes. These caste categories have been exclusionary, endogamous and the social identity inherited.[82] Alula Pankhurst has published a study of caste groups in SW Ethiopia.[83]
+(Midgan) specialize in leather occupation. Along with the Tumal and Yibir, they are collectively known as _sab_.[81]]] In a review published in 1977, Todd reports that numerous scholars report a system of social stratification in different parts of Africa that resembles some or all aspects of caste system. Examples of such caste systems, he claims, are to be found in Ethiopia in communities such as the Gurage and Konso. He then presents the Dime of Southwestern Ethiopia, amongst whom there operates a system which Todd claims can be unequivocally labelled as caste system. The Dime have seven castes whose size varies considerably. Each broad caste level is a hierarchical order that is based on notions of purity, non-purity and impurity. It uses the concepts of defilement to limit contacts between caste categories and to preserve the purity of the upper castes. These caste categories have been exclusionary, endogamous and the social identity inherited.[82] Alula Pankhurst has published a study of caste groups in SW Ethiopia.[83]
 
 Among the Kafa, there were also traditionally groups labeled as castes. "Based on research done before the Derg regime, these studies generally presume the existence of a social hierarchy similar to the caste system. At the top of this hierarchy were the Kafa, followed by occupational groups including blacksmiths (Qemmo), weavers (Shammano), bards (Shatto), potters, and tanners (Manno). In this hierarchy, the Manjo were commonly referred to as hunters, given the lowest status equal only to slaves."[84]
 

@@ -1,4 +1,4 @@
-Congo-Brazzaville-Congo-Kinshasa.png}} The Congo River forms much of the border between these two countries.]]
+}} The Congo River forms much of the border between these two countries.]]
 
 CONGO may refer to either of two countries that border the Congo River in central Africa:
 

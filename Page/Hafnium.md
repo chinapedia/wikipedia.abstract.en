@@ -9,13 +9,13 @@ Characteristics
 
 Physical characteristics
 
-Hafnium_bits.jpg Hafnium is a shiny, silvery, ductile metal that is corrosion-resistant and chemically similar to zirconium[3] (due to its having the same number of valence electrons, being in the same group, but also to relativistic effects; the expected expansion of atomic radii from period 5 to 6 is almost exactly cancelled out by the lanthanide contraction). The physical properties of hafnium metal samples are markedly affected by zirconium impurities, especially the nuclear properties, as these two elements are among the most difficult to separate because of their chemical similarity.[4]
+Hafnium is a shiny, silvery, ductile metal that is corrosion-resistant and chemically similar to zirconium[3] (due to its having the same number of valence electrons, being in the same group, but also to relativistic effects; the expected expansion of atomic radii from period 5 to 6 is almost exactly cancelled out by the lanthanide contraction). The physical properties of hafnium metal samples are markedly affected by zirconium impurities, especially the nuclear properties, as these two elements are among the most difficult to separate because of their chemical similarity.[4]
 
 A notable physical difference between these metals is their density, with zirconium having about one-half the density of hafnium. The most notable nuclear properties of hafnium are its high thermal neutron-capture cross-section and that the nuclei of several different hafnium isotopes readily absorb two or more neutrons apiece.[5] In contrast with this, zirconium is practically transparent to thermal neutrons, and it is commonly used for the metal components of nuclear reactors – especially the cladding of their nuclear fuel rods.
 
 Chemical characteristics
 
-Hafnium(IV)_oxide.jpg Hafnium reacts in air to form a protective film that inhibits further corrosion. The metal is not readily attacked by acids but can be oxidized with halogens or it can be burnt in air. Like its sister metal zirconium, finely divided hafnium can ignite spontaneously in air. The metal is resistant to concentrated alkalis.
+Hafnium reacts in air to form a protective film that inhibits further corrosion. The metal is not readily attacked by acids but can be oxidized with halogens or it can be burnt in air. Like its sister metal zirconium, finely divided hafnium can ignite spontaneously in air. The metal is resistant to concentrated alkalis.
 
 The chemistry of hafnium and zirconium is so similar that the two cannot be separated on the basis of differing chemical reactions. The melting points and boiling points of the compounds and the solubility in solvents are the major differences in the chemistry of these twin elements.[6]
 
@@ -27,7 +27,7 @@ The nuclear isomer ^(178m2)Hf was at the center of a controversy for several yea
 
 Occurrence
 
-Zircão.jpeg]]
+]]
 
 Hafnium is estimated to make up about 5.8 ppm of the Earth's upper crust by mass. It does not exist as a free element on Earth, but is found combined in solid solution with zirconium in natural zirconium compounds such as zircon, ZrSiO₄, which usually has about 1–4% of the Zr replaced by Hf. Rarely, the Hf/Zr ratio increases during crystallization to give the isostructural mineral hafnon (Hf,Zr)SiO₄, with atomic Hf > Zr.[11] An obsolete name for a variety of zircon containing unusually high Hf content is _alvite_.[12]
 
@@ -38,11 +38,11 @@ Hafnium reserves have been infamously estimated to last under 10 years by one so
 
 Production
 
-Hafnium_ebeam_remelted.jpg remelting furnace, a 1 cm cube, and an oxidized hafnium electron beam-remelted ingot (left to right)]]
+remelting furnace, a 1 cm cube, and an oxidized hafnium electron beam-remelted ingot (left to right)]]
 
 The heavy mineral sands ore deposits of the titanium ores ilmenite and rutile yield most of the mined zirconium, and therefore also most of the hafnium.[15]
 
-Zirconium is a good nuclear fuel-rod cladding metal, with the desirable properties of a very low neutron capture cross-section and good chemical stability at high temperatures. However, because of hafnium's neutron-absorbing properties, hafnium impurities in zirconium would cause it to be far less useful for nuclear-reactor applications. Thus, a nearly complete separation of zirconium and hafnium is necessary for their use in nuclear power. The production of hafnium-free zirconium is the main source for hafnium.[16] Hafnium_pellets_with_a_thin_oxide_layer.jpg effects.]]
+Zirconium is a good nuclear fuel-rod cladding metal, with the desirable properties of a very low neutron capture cross-section and good chemical stability at high temperatures. However, because of hafnium's neutron-absorbing properties, hafnium impurities in zirconium would cause it to be far less useful for nuclear-reactor applications. Thus, a nearly complete separation of zirconium and hafnium is necessary for their use in nuclear power. The production of hafnium-free zirconium is the main source for hafnium.[16] effects.]]
 
 The chemical properties of hafnium and zirconium are nearly identical, which makes the two difficult to separate.[17] The methods first used — fractional crystallization of ammonium fluoride salts[18] or the fractional distillation of the chloride[19] — have not proven suitable for an industrial-scale production. After zirconium was chosen as material for nuclear reactor programs in the 1940s, a separation method had to be developed. Liquid-liquid extraction processes with a wide variety of solvents were developed and are still used for the production of hafnium.[20] About half of all hafnium metal manufactured is produced as a by-product of zirconium refinement. The end product of the separation is hafnium(IV) chloride.[21] The purified hafnium(IV) chloride is converted to the metal by reduction with magnesium or sodium, as in the Kroll process.[22]
 
@@ -94,7 +94,7 @@ The nuclei of several hafnium isotopes can each absorb multiple neutrons. This m
 
 Alloys
 
-Apollo_AS11-40-5866.jpg in the lower right corner]] Hafnium is used in alloys with iron, titanium, niobium, tantalum, and other metals. An alloy used for liquid rocket thruster nozzles, for example the main engine of the Apollo Lunar Modules, is C103 which consists of 89% niobium, 10% hafnium and 1% titanium.[63]
+in the lower right corner]] Hafnium is used in alloys with iron, titanium, niobium, tantalum, and other metals. An alloy used for liquid rocket thruster nozzles, for example the main engine of the Apollo Lunar Modules, is C103 which consists of 89% niobium, 10% hafnium and 1% titanium.[63]
 
 Small additions of hafnium increase the adherence of protective oxide scales on nickel-based alloys. It improves thereby the corrosion resistance especially under cyclic temperature conditions that tend to break oxide scales by inducing thermal stresses between the bulk material and the oxide layer.[64][65][66]
 

@@ -1,4 +1,4 @@
-Hosea_and_Gomer.jpg from the Bible Historiale, 1372]] Duccio_di_Buoninsegna_063.jpg, in the Siena Cathedral (c. 1309–1311)]]
+from the Bible Historiale, 1372]] , in the Siena Cathedral (c. 1309–1311)]]
 
 In the Hebrew Bible, HOSEA ( or ; – _Hōšēaʿ_, 'Salvation'; – _Hōsēé_), son of Beeri, was an 8th-century BC prophet in Israel who authored the book of prophecies bearing his name. He is one of the Twelve Prophets of the Jewish Hebrew Bible, also known as the Minor Prophets of the Christian Old Testament.[1] Hosea is often seen as a "prophet of doom", but underneath his message of destruction is a promise of restoration. The Talmud claims that he was the greatest prophet of his generation.[2] The period of Hosea's ministry extended to some sixty years, and he was the only prophet of Israel of his time who left any written prophecy.
 
@@ -41,7 +41,7 @@ He is commemorated with the other Minor prophets in the Calendar of saints of th
 
 Tomb of Hosea
 
-Hosea's_tomb.jpg known as the Tomb of Hosea]] Jewish tradition holds that the tomb of Hosea is a structure located in the Jewish cemetery of Safed;[12] however, Emil G. Hirsch and Victor Ryssel, writing in the _Jewish Encyclopedia_, say that this tradition is "historically worthless".[13]
+known as the Tomb of Hosea]] Jewish tradition holds that the tomb of Hosea is a structure located in the Jewish cemetery of Safed;[12] however, Emil G. Hirsch and Victor Ryssel, writing in the _Jewish Encyclopedia_, say that this tradition is "historically worthless".[13]
 
 
 References

@@ -9,7 +9,7 @@ Life
 
 Early years and education
 
-Algiers_The_University_(GRI).jpg Albert Camus was born on 7 November 1913 in a working-class neighbourhood in Mondovi (present-day Dréan), in French Algeria. His mother, Catherine Hélène Sintès Camus, was of Spanish-(Balearic) descent. She could only hear with her left ear. His father, Lucien Camus, a poor French-Algerian agricultural worker, died in the Battle of the Marne in 1914 during World War I—Camus never knew him. Camus, his mother and other relatives lived without many basic material possessions during his childhood in the Belcourt section of Algiers. He was a second-generation French immigrant to Algeria. His parental grandfather, along with many others of his generation, had moved to Africa for a better life during the first decades of the 19th century. Hence, he was called —a slang term for French who were born in Algeria—and his binational identity and his poor background had a substantial effect on his later life. Nevertheless, Camus was a French citizen, in contrast to the Arab or Berberic inhabitants of Algeria who were denied the associated privileges this brought. During his childhood, Camus developed a love for soccer and swimming.
+Albert Camus was born on 7 November 1913 in a working-class neighbourhood in Mondovi (present-day Dréan), in French Algeria. His mother, Catherine Hélène Sintès Camus, was of Spanish-(Balearic) descent. She could only hear with her left ear. His father, Lucien Camus, a poor French-Algerian agricultural worker, died in the Battle of the Marne in 1914 during World War I—Camus never knew him. Camus, his mother and other relatives lived without many basic material possessions during his childhood in the Belcourt section of Algiers. He was a second-generation French immigrant to Algeria. His parental grandfather, along with many others of his generation, had moved to Africa for a better life during the first decades of the 19th century. Hence, he was called —a slang term for French who were born in Algeria—and his binational identity and his poor background had a substantial effect on his later life. Nevertheless, Camus was a French citizen, in contrast to the Arab or Berberic inhabitants of Algeria who were denied the associated privileges this brought. During his childhood, Camus developed a love for soccer and swimming.
 
 Under the influence of his teacher Louis Germain, Camus gained a scholarship in 1924 to continue his studies at a prestigious lyceum (secondary school) near Algiers. In 1930, he was diagnosed with tuberculosis. Because it is a transmitted disease, he moved out of his home and stayed with his uncle Gustave Acault, a butcher, who influenced the young Camus. It was at that time that Camus turned to philosophy, with the mentoring of his philosophy teacher Jean Grenier. He was impressed by ancient Greek philosophers and Friedrich Nietzsche. During that time, he was only able to study part-time. To earn money, he took odd jobs: as a private tutor, car parts clerk, and assistant at the Meteorological Institute.
 
@@ -33,8 +33,6 @@ Camus took an active role in the underground resistance movement against the Ger
 
 Post-World War II
 
-Albert_Camus2.jpg
-
 After the War, Camus lived in Paris with Faure, who gave birth to twins—Catherine and Jean—in 1945. Camus was now a celebrated writer known for his role in the resistance. He gave lectures at various universities in the United States and Latin America on two separate trips. He also visited Algeria once more, only to leave disappointed by the continuation of oppressive colonial policies, which he had warned about so many times. During this period he completed the second cycle of his work, with the novel _L'Homme révolté_ (_The Rebel_). Camus attacked totalitarian communism while advocating for libertarian socialism and anarcho-syndicalism. Upsetting many of his colleagues and contemporaries in France with his rejection of communism, the book brought about the final split with Sartre. His relations with the Marxist Left deteriorated further during the Algerian War.
 
 Camus was a strong supporter of European integration and participated in various marginal organisations working towards that end. In 1944, he founded the Comité Français pour la Féderation Européenne – CFFE (French Committee for the European Federation) declaring that Europe "can only evolve along the path of economic progress, democracy, and peace if the nation states become a federation." In 1947–48, he founded the Groupes de liaison internationale – GLI (Revolutionary Union Movement ) a trade union movement in the context of revolutionary syndicalism (_syndicalisme révolutionnaire_). According to Olivier Todd, in his biography _Albert Camus, une vie_, (_Albert Camus: A Life_) it was a group opposed to some tendencies of the Surrealist movement of André Breton. His colleagues were Nicolas Lazarévitch, Louis Mercier, Roger Lapeyre, Paul Chauvet, Auguste Largentier, and Jean de Boë. His main aim was to express the positive side of surrealism and existentialism, rejecting the negativity and the nihilism of André Breton. Camus also raised his voice against the Soviet intervention in Hungary and the totalitarian tendencies of Franco's regime in Spain.
@@ -45,14 +43,14 @@ In 1957, Camus received the news that he was to be awarded the Nobel Prize in Li
 
 Death
 
-20041113-002_Lourmarin_Tombstone_Albert_Camus.jpg Alt= Photograph of a bronze plaque on the monument to Camus in the town of Villeblevin, France. It reads: "From the General Council of the Yonne Department, in homage to the writer Albert Camus whose remains lay in vigil at the Villeblevin town hall on the night of 4 to 5 January 1960."|The bronze plaque on the monument to Camus in the town of Villeblevin, France. It reads: "From the General Council of the Yonne Department, in homage to the writer Albert Camus whose remains lay in vigil at the Villeblevin town hall on the night of 4 to 5 January 1960."Camus_Monument_in_Villeblevin_France_17-august-2003.1.JPG, where he died in a car crash on 4 January 1960]]
+, where he died in a car crash on 4 January 1960]]
 
 Camus died on 4 January 1960 at the age of 46, in a car accident near Sens, in Le Grand Fossard in the small town of Villeblevin. He was leaving Paris for a vacation with his publisher, Michel Gallimard, who was driving with his family. Gallimard died a few days later. 144 pages of a handwritten manuscript entitled _Le premier homme_ (_The First Man_) were found in the wreckage. Camus had predicted this unfinished novel based on his childhood in Algeria would be his finest work. Camus was buried in the Lourmarin Cemetery, Lourmarin, Vaucluse, France, where he had lived. His friend Sartre read a eulogy, paying tribute to Camus’s heroic "stubborn humanism".
 
 
 Literary career
 
-Lucia_1957.jpg on 13 December 1957, three days after accepting the Nobel Prize in Literature]]
+on 13 December 1957, three days after accepting the Nobel Prize in Literature]]
 
 Camus's first publication was a play _Revolte dans les Asturies_ (_Revolt in the Asturias_) written with three friends in May 1936. The subject was the 1934 revolt by Spanish miners that was brutally suppressed by the Spanish government resulting in 1,500 to 2,000 deaths. In May 1937 he wrote his first book, _L'Envers et l'Endroit_ (_Betwixt and Between_ also translated as _The Wrong Side and the Right Side_). Both were published by Edmond Charlot's small publishing house.
 
@@ -108,8 +106,6 @@ He was sharply critical of the proliferation of nuclear weapons and the bombings
 
 
 Algeria
-
-Départements_français_d'Algérie_1934-1955_map-fr.svg
 
 Born in Algeria to French parents, Camus was familiar with the institutional racism of France against Arabs, but he was not part of a rich elite. He lived in very poor conditions as a child but was a citizen of France and as such was entitled to citizens' rights; the Arab and Berberic majority of the country were not.
 

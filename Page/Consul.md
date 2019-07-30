@@ -41,7 +41,7 @@ French Revolution
 
 French Republic 1799–1804
 
-3consuls.jpg, Napoleon Bonaparte and Charles-François Lebrun (left to right)]]
+, Napoleon Bonaparte and Charles-François Lebrun (left to right)]]
 
 After Napoleon Bonaparte staged a coup against the Directory government in November 1799, the French Republic adopted a constitution which conferred executive powers upon three consuls, elected for a period of ten years. In reality, the first consul, Bonaparte, dominated his two colleagues and held supreme power, soon making himself consul for life (1802) and eventually, in 1804, emperor.
 

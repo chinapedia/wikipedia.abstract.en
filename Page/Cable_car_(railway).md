@@ -1,9 +1,9 @@
-Cable car}} A CABLE CAR (usually known as a CABLE TRAM outside North America) is a type of cable railway used for mass transit where rail cars are hauled by a continuously moving cable running at a constant speed. Individual cars stop and start by releasing and gripping this cable as required. Cable cars are distinct from funiculars, where the cars are permanently attached to the cable, and cable railways, which are similar to funiculars, but where the rail vehicles are attached and detached manually.11_Cable_Car_on_Powell_St_crop,_SF,_CA,_jjron_25.03.2012.jpg on the Powell & Hyde line]] Cable_car.theora.ogv
+Cable car}} A CABLE CAR (usually known as a CABLE TRAM outside North America) is a type of cable railway used for mass transit where rail cars are hauled by a continuously moving cable running at a constant speed. Individual cars stop and start by releasing and gripping this cable as required. Cable cars are distinct from funiculars, where the cars are permanently attached to the cable, and cable railways, which are similar to funiculars, but where the rail vehicles are attached and detached manually. on the Powell & Hyde line]]
 
 
 History
 
-Minories_stationLBR.jpg cable-operated railway, 1840]] Cable_Driving_Plant,_Designed_and_Constructed_by_Poole_and_Hunt,_Baltimore,_MD.jpg The first cable-operated railway, employing a moving rope that could be picked up or released by a grip on the cars was the Fawdon Wagonway in 1826, a Colliery railway line.[1][2] The London and Blackwall Railway, which opened for passengers in east London, England, in 1840 used such a system.[3] The rope available at the time proved too susceptible to wear and the system was abandoned in favour of steam locomotives after eight years. In America, the first cable car installation in operation probably was the West Side and Yonkers Patent Railway in New York City, as its first-ever elevated railway which ran from 1 July 1868 to 1870. The cable technology used in this elevated railway involved collar-equipped cables and claw-equipped cars, proving cumbersome. The line was closed and rebuilt, reopening with steam locomotives.
+cable-operated railway, 1840]] The first cable-operated railway, employing a moving rope that could be picked up or released by a grip on the cars was the Fawdon Wagonway in 1826, a Colliery railway line.[1][2] The London and Blackwall Railway, which opened for passengers in east London, England, in 1840 used such a system.[3] The rope available at the time proved too susceptible to wear and the system was abandoned in favour of steam locomotives after eight years. In America, the first cable car installation in operation probably was the West Side and Yonkers Patent Railway in New York City, as its first-ever elevated railway which ran from 1 July 1868 to 1870. The cable technology used in this elevated railway involved collar-equipped cables and claw-equipped cars, proving cumbersome. The line was closed and rebuilt, reopening with steam locomotives.
 
 In 1869 P. G. T. Beauregard demonstrated a cable car at New Orleans[4][5][6] and was issued .
 
@@ -19,7 +19,7 @@ For example, the Chicago City Railway, also designed by Eppelsheimer, opened in 
 
 In 1883 the New York and Brooklyn Bridge Railway was opened, which had a most curious feature: though it was a cable car system, it used steam locomotives to get the cars into and out of the terminals. After 1896 the system was changed to one on which a motor car was added to each train to maneuver at the terminals, while en route, the trains were still propelled by the cable.
 
-Cablecarpicjpg.jpg On 25 September 1883, a test of a cable car system was held by Liverpool United Tramways and Omnibus Company in Kirkdale, Liverpool. This would have been the first cable car system in Europe, but the company decided against implementing it. Instead, the distinction went to the 1884 route from Archway to Highgate, north London, which used a continuous cable and grip system on the 1 in 11 (9%) climb of Highgate Hill. The installation was not reliable and was replaced by electric traction in 1909.[7] Other cable car systems were implemented in Europe, though, among which was the Glasgow District Subway, the first underground cable car system, in 1896. (London, England's first deep-level tube railway, the City & South London Railway, had earlier also been built for cable haulage but had been converted to electric traction before opening in 1890.) A few more cable car systems were built in the United Kingdom, Portugal, and France. European cities, having many more curves in their streets, were ultimately less suitable for cable cars than American cities.
+On 25 September 1883, a test of a cable car system was held by Liverpool United Tramways and Omnibus Company in Kirkdale, Liverpool. This would have been the first cable car system in Europe, but the company decided against implementing it. Instead, the distinction went to the 1884 route from Archway to Highgate, north London, which used a continuous cable and grip system on the 1 in 11 (9%) climb of Highgate Hill. The installation was not reliable and was replaced by electric traction in 1909.[7] Other cable car systems were implemented in Europe, though, among which was the Glasgow District Subway, the first underground cable car system, in 1896. (London, England's first deep-level tube railway, the City & South London Railway, had earlier also been built for cable haulage but had been converted to electric traction before opening in 1890.) A few more cable car systems were built in the United Kingdom, Portugal, and France. European cities, having many more curves in their streets, were ultimately less suitable for cable cars than American cities.
 
 Though some new cable car systems were still being built, by 1890 the cheaper to construct and simpler to operate electrically-powered trolley or tram started to become the norm, and eventually started to replace existing cable car systems. For a while hybrid cable/electric systems operated, for example in Chicago where electric cars had to be pulled by grip cars through the loop area, due to the lack of trolley wires there. Eventually, San Francisco became the only street-running manually operated system to survive—Dunedin, the second city with such cars, was also the second-last city to operate them, closing down in 1957.
 
@@ -30,7 +30,7 @@ In the last decades of the 20th-century, cable traction in general has seen a li
 
 Operation
 
-San_Francisco_Cable_Car_Power_House.jpg Cablecar_tracks_in_San_Francisco,_1970.jpg The cable is itself powered by a stationary motor or engine situated in a cable house or power house. The speed at which it moves is relatively constant depending on the number of units gripping the cable at any given time.
+The cable is itself powered by a stationary motor or engine situated in a cable house or power house. The speed at which it moves is relatively constant depending on the number of units gripping the cable at any given time.
 
 The cable car begins moving when a clamping device attached to the car, called a _grip_, applies pressure to ("grips") the moving cable. Conversely, the car is stopped by releasing pressure on the cable (with or without completely detaching) and applying the brakes. This gripping and releasing action may be manual, as was the case in all early cable car systems, or automatic, as is the case in some recent cable operated people mover type systems. Gripping must be an even and gradual process in order to avoid bringing the car to cable speed too quickly and unacceptably jarring the passengers.
 
@@ -79,7 +79,7 @@ Cities previously operating cable cars
 
 Australia
 
-Melbourne_cable_tram_1905.jpg in 1905]]
+in 1905]]
 
 -   Melbourne (1885–1940, the Melbourne cable tramway system)
 -   Sydney (1886–1905)
@@ -124,8 +124,6 @@ Isle of Man
 -   Douglas (1896–1929)
 
 United States
-
-Cable_car_on_Yesler_Way_at_3rd_Avenue_in_1940.gif
 
 -   Baltimore, Maryland (1890–1897)
 -   Binghamton, New York (trial in 1885)

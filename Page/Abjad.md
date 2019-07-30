@@ -15,7 +15,7 @@ The antagonism of abjad versus alphabet, as it was formulated by Daniels, has be
 
 Origins
 
-Ba`alat.jpg script containing a phrase which may mean 'to Baalat'. The line running from the upper left to lower right reads _mt l b^(c)lt_.]]
+script containing a phrase which may mean 'to Baalat'. The line running from the upper left to lower right reads _mt l b^(c)lt_.]]
 
 The first abjad to gain widespread usage was the Phoenician abjad. Unlike other contemporary scripts, such as cuneiform and Egyptian hieroglyphs, the Phoenician script consisted of only a few dozen symbols. This made the script easy to learn, and seafaring Phoenician merchants took the script throughout the then-known world.
 
@@ -25,8 +25,6 @@ Phoenician gave rise to a number of new writing systems, including the Greek alp
 
 
 Impure abjads
-
-Arabic_albayancalligraphy.svg
 
 Impure abjads have characters for some vowels, optional vowel diacritics, or both. The term pure abjad refers to scripts entirely lacking in vowel indicators. However, most modern abjads, such as Arabic, Hebrew, Aramaic, and Pahlavi, are "impure" abjadsthat is, they also contain symbols for some of the vowel phonemes, although the said non-diacritic vowel letters are also used to write certain consonants, particularly approximants that sound similar to long vowels. A "pure" abjad is exemplified (perhaps) by very early forms of ancient Phoenician, though at some point (at least by the 9th century BC) it and most of the contemporary Semitic abjads had begun to overload a few of the consonant symbols with a secondary function as vowel markers, called _matres lectionis_. This practice was at first rare and limited in scope but became increasingly common and more developed in later times.
 

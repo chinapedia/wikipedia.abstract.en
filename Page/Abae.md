@@ -1,4 +1,4 @@
-Abae-06.JPG ABAE (, _Abai_)[1][2] was an ancient town in the northeastern corner of ancient Phocis, in Greece, near the frontiers of the Opuntian Locrians, said to have been built by the Argive Abas, son of Lynceus and Hypermnestra, and grandson of Danaus. It was famous in antiquity for its oracle of Apollo Abaeus,[3] one of those consulted by Croesus, king of Lydia,[4][5][6] and Mardonius, among others.[7]
+ABAE (, _Abai_)[1][2] was an ancient town in the northeastern corner of ancient Phocis, in Greece, near the frontiers of the Opuntian Locrians, said to have been built by the Argive Abas, son of Lynceus and Hypermnestra, and grandson of Danaus. It was famous in antiquity for its oracle of Apollo Abaeus,[3] one of those consulted by Croesus, king of Lydia,[4][5][6] and Mardonius, among others.[7]
 
 
 History
@@ -8,7 +8,7 @@ Before the Persian invasion the temple was richly adorned with treasuries and vo
 
 Oracle
 
-Αρχαιολογικός_χώρος_Καλαποδίου.jpg]] Despite destruction of the town, the oracle was still consulted, e.g. by the Thebans before the Battle of Leuctra in 371 BCE.[15][16] The temple, along with the village of the same name, may have escaped destruction during the Third Sacred War (355–346 BCE), due to the respect given to the inhabitants;[17] however it was in a very dilapidated state when seen by Pausanias in the 2nd century CE,[18] though some restoration, as well as the building of a new temple, was undertaken by Emperor Hadrian.[19]
+]] Despite destruction of the town, the oracle was still consulted, e.g. by the Thebans before the Battle of Leuctra in 371 BCE.[15][16] The temple, along with the village of the same name, may have escaped destruction during the Third Sacred War (355–346 BCE), due to the respect given to the inhabitants;[17] however it was in a very dilapidated state when seen by Pausanias in the 2nd century CE,[18] though some restoration, as well as the building of a new temple, was undertaken by Emperor Hadrian.[19]
 
 The sanctity of the shrine ensured certain privileges to the people of Abae,[20] and these were confirmed by the Romans. The Persians did not reflect this opinion and would destroy all the temples that they overcame, Abae included. The Greek pledged to not rebuild them as a memorial of the ravages of the Persians.[21]
 

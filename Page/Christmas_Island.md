@@ -17,7 +17,7 @@ Captain Daniel Beeckman of the _Eagle_ passed the island on 5 April 1714, chroni
 
 Exploration and annexation
 
-Poonsaan1v2.jpg in the evening]] Poonsaan2.jpg shops]] The first attempt at exploring the island was in 1857 by the crew of the _Amethyst_. They tried to reach the summit of the island but found the cliffs impassable.
+in the evening]] shops]] The first attempt at exploring the island was in 1857 by the crew of the _Amethyst_. They tried to reach the summit of the island but found the cliffs impassable.
 
 During the 1872–76 _Challenger_ expedition to Indonesia, naturalist John Murray carried out extensive surveys.[15]
 
@@ -55,7 +55,7 @@ The settlement of Silver City was built in the 1970s, with aluminium-clad houses
 
 Refugee and immigration detention
 
-Christmas_Island_Immigration_Detention_Centre_and_the_Lilac_compound_(5775019842).jpgFrom the late 1980s and early 1990s, boats carrying asylum seekers, mainly departing from Indonesia, began landing on the island. In 2001, Christmas Island was the site of the _Tampa_ controversy, in which the Australian government stopped a Norwegian ship, MV _Tampa_, from disembarking 438 rescued asylum-seekers. The ensuing standoff and the associated political reactions in Australia were a major issue in the 2001 Australian federal election.[43]
+From the late 1980s and early 1990s, boats carrying asylum seekers, mainly departing from Indonesia, began landing on the island. In 2001, Christmas Island was the site of the _Tampa_ controversy, in which the Australian government stopped a Norwegian ship, MV _Tampa_, from disembarking 438 rescued asylum-seekers. The ensuing standoff and the associated political reactions in Australia were a major issue in the 2001 Australian federal election.[43]
 
 The Howard government operated the "Pacific Solution" from 2001 to 2007, excising Christmas Island from Australia's migration zone so that asylum seekers on the island could not apply for refugee status. Asylum seekers were relocated from Christmas Island to Manus Island and Nauru. In 2006, an immigration detention centre, containing approximately 800 beds, was constructed on the island for the Department of Immigration and Multicultural Affairs. Originally estimated to cost  million,[44] the final cost was over $400 million.[45]
 
@@ -71,8 +71,6 @@ The Christmas Island Immigration Reception and Processing Centre closed on 30 Se
 
 
 Geography
-
-Map_of_Christmas_Island_1976.jpg
 
 The island is about in greatest length and in breadth. The total land area is , with of coastline. The island is the flat summit of an underwater mountain more than high,[53] which rises from about below the sea and only about above it.[54]
 
@@ -93,7 +91,7 @@ Christmas Island is located towards the southern edge of the equatorial region. 
 
 Demographics
 
-Christmas_Island_Population_Pyramid-2011.png As of the 2016 Australian census, the population of Christmas Island is 1,843.[59] 21.2% of the population had Chinese ancestry (up from 18.3% in 2001), 12.7% had generic Australian ancestry (11.7% in 2001), 12% had Malay ancestry (9.3% in 2001), 10% had English ancestry (8.9% in 2001), and 2.3% of the population was of Irish origin (the same share as in 2001). 48.1% of the population has undetermined ancestry. , most of them are people born in Christmas Island and many are of Chinese and Malay origin.[60] 38.5% of people were born in Australia. The next most common country of birth was Malaysia at 20.1%. 27.8% of the population spoke English as their family language, while 17.2% spoke Mandarin Chinese, 17.2% spoke Malay, 3.7% Cantonese, 1.5% Southern Min, and 1% Tagalog.[61] Additionally, there are small local populations of Malaysian Indians and Eurasians.[62][63]
+As of the 2016 Australian census, the population of Christmas Island is 1,843.[59] 21.2% of the population had Chinese ancestry (up from 18.3% in 2001), 12.7% had generic Australian ancestry (11.7% in 2001), 12% had Malay ancestry (9.3% in 2001), 10% had English ancestry (8.9% in 2001), and 2.3% of the population was of Irish origin (the same share as in 2001). 48.1% of the population has undetermined ancestry. , most of them are people born in Christmas Island and many are of Chinese and Malay origin.[60] 38.5% of people were born in Australia. The next most common country of birth was Malaysia at 20.1%. 27.8% of the population spoke English as their family language, while 17.2% spoke Mandarin Chinese, 17.2% spoke Malay, 3.7% Cantonese, 1.5% Southern Min, and 1% Tagalog.[61] Additionally, there are small local populations of Malaysian Indians and Eurasians.[62][63]
 
 
 Government
@@ -147,7 +145,7 @@ Religious beliefs are diverse, but people are very tolerant of each other's reli
 
 Attractions
 
-Christmas_Island_(5775114458).jpg Christmas Island is well known for its biological diversity. There are many rare species of animals and plants on the island, making nature-walking a popular activity. Along with the diversity of species, many different types of caves exist, such as plateau caves, coastal caves, raised coastal caves and alcoves, sea caves, fissure caves, collapse caves, and basalt caves; most of these are near the sea and have been formed by the action of water. Altogether, there are approximately 30 caves on the island,[74] with Lost Lake Cave, Daniel Roux Cave, and Full Frontal Cave being the most well-known. The many freshwater springs include Hosnies Spring Ramsar, which also has a mangrove stand.
+Christmas Island is well known for its biological diversity. There are many rare species of animals and plants on the island, making nature-walking a popular activity. Along with the diversity of species, many different types of caves exist, such as plateau caves, coastal caves, raised coastal caves and alcoves, sea caves, fissure caves, collapse caves, and basalt caves; most of these are near the sea and have been formed by the action of water. Altogether, there are approximately 30 caves on the island,[74] with Lost Lake Cave, Daniel Roux Cave, and Full Frontal Cave being the most well-known. The many freshwater springs include Hosnies Spring Ramsar, which also has a mangrove stand.
 
 The Dales is a rainforest in the western part of the island and consists of seven deep valleys, all of which were formed by spring streams. Hugh's Dale waterfall is part of this area and is a popular attraction. The annual breeding migration of the Christmas Island red crabs is a popular event.
 
@@ -156,7 +154,7 @@ Fishing is another common activity. There are many distinct species of fish in t
 
 Flora and fauna
 
-Cococrb2.jpg]] Christmas_Island_(5775069028).jpg]] Red-footed_booby.jpg]] Anous_stolidus_nesting_cropped.JPG]] Brown_booby.jpg]]
+]] ]] ]] ]] ]]
 
 Christmas Island was uninhabited until the late 19th century, allowing many species to evolve without human interference. Two-thirds of the island has been declared a National Park, which is managed by the Australian Department of Environment and Heritage through Parks Australia. Christmas Island contains unique species, both of flora and fauna, some of which are threatened with, or have become, extinct.
 
@@ -215,7 +213,7 @@ Telephone services are provided by Telstra and are a part of the Australian netw
 
 Postage stamps
 
-Stamp_Christmas_Island_1958_2c.jpg, 1958]]
+, 1958]]
 
 A postal agency was opened on the island in 1901 and sold stamps of the Strait Settlements.[85]
 

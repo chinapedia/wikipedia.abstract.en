@@ -22,7 +22,7 @@ After getting his high school education from St. Mary's College, he received a s
 
 Career
 
-Derek_Walcott,_VIII_Festival_Internacional.jpg After graduation, Walcott moved to Trinidad in 1953, where he became a critic, teacher and journalist.[20] He founded the Trinidad Theatre Workshop in 1959 and remained active with its board of directors.[21][22]
+After graduation, Walcott moved to Trinidad in 1953, where he became a critic, teacher and journalist.[20] He founded the Trinidad Theatre Workshop in 1959 and remained active with its board of directors.[21][22]
 
 Exploring the Caribbean and its history in a colonialist and post-colonialist context, his collection _In a Green Night: Poems 1948–1960_ (1962) attracted international attention.[23] His play _Dream on Monkey Mountain_ (1970) was produced on NBC-TV in the United States the year it was published. In 1971 it was produced by the Negro Ensemble Company off-Broadway in New York City; it won an Obie Award that year for "Best Foreign Play".[24] The following year, Walcott won an OBE from the British government for his work.[25]
 
@@ -120,7 +120,7 @@ Walcott was also known for his passion for travelling to countries around the wo
 
 Death
 
-Derek_Walcott's_grave_on_Morne_Fortune.jpg Walcott died at his home in Cap Estate, St. Lucia, on 17 March 2017.{{ cite news |title=Derek Walcott has died
+Walcott died at his home in Cap Estate, St. Lucia, on 17 March 2017.{{ cite news |title=Derek Walcott has died
 
 |url=https://stluciatimes.com/2017/03/17/derek-walcott-died |newspaper=St. Lucia Times |date=17 March 2017 |accessdate=17 March 2017}} He was 87. He was given a state funeral on Saturday, 25 March, with a service at the Cathedral Basilica of the Immaculate Conception in Castries and burial at Morne Fortune.[82][83]
 

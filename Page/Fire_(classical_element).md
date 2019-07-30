@@ -21,8 +21,6 @@ According to Aristotle, the four elements rise or fall toward their natural plac
 
 In ancient Greek medicine, each of the four humours became associated with an element. Yellow bile was the humor identified with fire, since both were hot and dry. Other things associated with fire and yellow bile in ancient and medieval medicine included the season of summer, since it increased the qualities of heat and aridity; the choleric temperament (of a person dominated by the yellow bile humour); the masculine; and the eastern point of the compass.
 
-Alchemy_fire_symbol.svg
-
 In alchemy the chemical element of sulfur was often associated with fire and its alchemical symbol and its symbol was an upward-pointing triangle. In alchemic tradition, metals are incubated by fire in the womb of the Earth and alchemists only accelerate their development.[11]
 
 
@@ -46,8 +44,6 @@ Fire in Tarot symbolizes conversion or passion. Many references to fire in tarot
 Modern witchcraft
 
 Fire is one of the five elements that appear in most Wiccan traditions influenced by the Golden Dawn system of magic, and Aleister Crowley's mysticism, which was in turn inspired by the Golden Dawn.[18]
-
-Fuego_en_la_ceremonia_de_la_cena_del_solsticio_de_invierno_(Muy_Resp.'._Gr.'._Log.'._Nacional_Mexicana_"Independencia_No._2").jpg
 
 
 Freemasonry

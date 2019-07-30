@@ -1,4 +1,4 @@
-Paul_Gavarni_-_Woman_Chocolate_Vendor_-_Walters_371454.jpg _Woman Chocolate Vendor_ (1855–1857)]]
+_Woman Chocolate Vendor_ (1855–1857)]]
 
 CHOCOLATE is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. The earliest evidence of use traces to the Olmecs (Mexico), with evidence of chocolate beverages dating to 1900 BC.[1][2] The majority of Mesoamerican people made chocolate beverages, including the Maya and Aztecs.[3] The word "chocolate" is derived from the Classical Nahuatl word _chocolātl_.[4]
 
@@ -15,9 +15,9 @@ History
 
 Mesoamerican usage
 
-Mayan_people_and_chocolate.jpg Chocolate has been prepared as a drink for nearly all of its history. For example, one vessel found at an Olmec archaeological site on the Gulf Coast of Veracruz, Mexico, dates chocolate's preparation by pre-Olmec peoples as early as 1750 BC.[8] On the Pacific coast of Chiapas, Mexico, a Mokaya archaeological site provides evidence of cacao beverages dating even earlier, to 1900 BC.[9][10] The residues and the kind of vessel in which they were found indicate the initial use of cacao was not simply as a beverage, but the white pulp around the cacao beans was likely used as a source of fermentable sugars for an alcoholic drink.[11]
+Chocolate has been prepared as a drink for nearly all of its history. For example, one vessel found at an Olmec archaeological site on the Gulf Coast of Veracruz, Mexico, dates chocolate's preparation by pre-Olmec peoples as early as 1750 BC.[8] On the Pacific coast of Chiapas, Mexico, a Mokaya archaeological site provides evidence of cacao beverages dating even earlier, to 1900 BC.[9][10] The residues and the kind of vessel in which they were found indicate the initial use of cacao was not simply as a beverage, but the white pulp around the cacao beans was likely used as a source of fermentable sugars for an alcoholic drink.[11]
 
-Aztec._Man_Carrying_a_Cacao_Pod,_1440-1521.jpg]] An early Classic-period (460–480 AD) Mayan tomb from the site in Rio Azul had vessels with the Maya glyph for cacao on them with residue of a chocolate drink, suggests the Maya were drinking chocolate around 400 AD.[12] Documents in Maya hieroglyphs stated chocolate was used for ceremonial purposes, in addition to everyday life.[13] The Maya grew cacao trees in their backyards,[14] and used the cacao seeds the trees produced to make a frothy, bitter drink.[15]
+]] An early Classic-period (460–480 AD) Mayan tomb from the site in Rio Azul had vessels with the Maya glyph for cacao on them with residue of a chocolate drink, suggests the Maya were drinking chocolate around 400 AD.[12] Documents in Maya hieroglyphs stated chocolate was used for ceremonial purposes, in addition to everyday life.[13] The Maya grew cacao trees in their backyards,[14] and used the cacao seeds the trees produced to make a frothy, bitter drink.[15]
 
 By the 15th century, the Aztecs gained control of a large part of Mesoamerica and adopted cacao into their culture. They associated chocolate with Quetzalcoatl, who, according to one legend, was cast away by the other gods for sharing chocolate with humans,[16] and identified its extrication from the pod with the removal of the human heart in sacrifice.[17] In contrast to the Maya, who liked their chocolate warm, the Aztecs drank it cold, seasoning it with a broad variety of additives, including the petals of the _Cymbopetalum penduliflorum_ tree, chile pepper, allspice, vanilla, and honey.
 
@@ -27,19 +27,19 @@ The Maya and Aztecs associated cacao with human sacrifice, and chocolate drinks 
 
 European adaptation
 
-Pietro_Longhi_La_cioccolata_del_mattino_The_Morning_Chocolate_1775-1780.jpg; Venice, 1775–1780]]
+; Venice, 1775–1780]]
 
 Until the 16th century, no European had ever heard of the popular drink from the Central American peoples.[22] Christopher Columbus and his son Ferdinand encountered the cacao bean on Columbus's fourth mission to the Americas on 15 August 1502, when he and his crew seized a large native canoe that proved to contain cacao beans among other goods for trade.[23] Spanish conquistador Hernán Cortés may have been the first European to encounter it, as the frothy drink was part of the after-dinner routine of Montezuma.[24][25] Jose de Acosta, a Spanish Jesuit missionary who lived in Peru and then Mexico in the later 16th century, wrote of its growing influence on the Spaniards:
 
   Loathsome to such as are not acquainted with it, having a scum or froth that is very unpleasant to taste. Yet it is a drink very much esteemed among the Indians, where with they feast noble men who pass through their country. The Spaniards, both men and women, that are accustomed to the country, are very greedy of this Chocolaté. They say they make diverse sorts of it, some hot, some cold, and some temperate, and put therein much of that 'chili'; yea, they make paste thereof, the which they say is good for the stomach and against the catarrh.[26]
 
-Philippe_Sylvestre_Dufour_Chocolat_17th_century.jpg While Columbus had taken cacao beans with him back to Spain,[27] chocolate made no impact until Spanish friars introduced it to the Spanish court.[28] After the Spanish conquest of the Aztecs, chocolate was imported to Europe. There, it quickly became a court favorite. It was still served as a beverage, but the Spanish added sugar, as well as honey, to counteract the natural bitterness.[29] Vanilla, another indigenous American introduction, was also a popular additive, with pepper and other spices sometimes used to give the illusion of a more potent vanilla flavor. Unfortunately, these spices had the tendency to unsettle the European constitution; the _Encyclopédie_ states, "The pleasant scent and sublime taste it imparts to chocolate have made it highly recommended; but a long experience having shown that it could potentially upset one's stomach", which is why chocolate without vanilla was sometimes referred to as "healthy chocolate".[30] By 1602, chocolate had made its way from Spain to Austria.[31] By 1662, Pope Alexander VII had declared that religious fasts were not broken by consuming chocolate drinks. Within about a hundred years, chocolate established a foothold throughout Europe.[32] BLW_Chocolate_Pot.jpg)]]
+While Columbus had taken cacao beans with him back to Spain,[27] chocolate made no impact until Spanish friars introduced it to the Spanish court.[28] After the Spanish conquest of the Aztecs, chocolate was imported to Europe. There, it quickly became a court favorite. It was still served as a beverage, but the Spanish added sugar, as well as honey, to counteract the natural bitterness.[29] Vanilla, another indigenous American introduction, was also a popular additive, with pepper and other spices sometimes used to give the illusion of a more potent vanilla flavor. Unfortunately, these spices had the tendency to unsettle the European constitution; the _Encyclopédie_ states, "The pleasant scent and sublime taste it imparts to chocolate have made it highly recommended; but a long experience having shown that it could potentially upset one's stomach", which is why chocolate without vanilla was sometimes referred to as "healthy chocolate".[30] By 1602, chocolate had made its way from Spain to Austria.[31] By 1662, Pope Alexander VII had declared that religious fasts were not broken by consuming chocolate drinks. Within about a hundred years, chocolate established a foothold throughout Europe.[32] )]]
 
-Coenraad_Johannes_van_Houten.jpg invented "Dutch cocoa" by treating cocoa mass with alkaline salts to reduce the natural bitterness without adding sugar or milk to get usable cocoa powder.]]
+invented "Dutch cocoa" by treating cocoa mass with alkaline salts to reduce the natural bitterness without adding sugar or milk to get usable cocoa powder.]]
 
 The new craze for chocolate brought with it a thriving slave market, as between the early 1600s and late 1800s, the laborious and slow processing of the cacao bean was manual.[33] Cacao plantations spread, as the English, Dutch, and French colonized and planted. With the depletion of Mesoamerican workers, largely to disease, cacao production was often the work of poor wage laborers and African slaves. Wind-powered and horse-drawn mills were used to speed production, augmenting human labor. Heating the working areas of the table-mill, an innovation that emerged in France in 1732, also assisted in extraction.[34]
 
-New processes that sped the production of chocolate emerged early in the Industrial Revolution. In 1815, Dutch chemist Coenraad van Houten introduced alkaline salts to chocolate, which reduced its bitterness.[35] A few years thereafter, in 1828, he created a press to remove about half the natural fat (cocoa butter or cacao butter) from chocolate liquor, which made chocolate both cheaper to produce and more consistent in quality. This innovation introduced the modern era of chocolate.[36] Fry's_Chocolate_advertisement.JPG produced the first chocolate bar in 1847, which was then mass-produced as Fry's Chocolate Cream in 1866.[37]]]
+New processes that sped the production of chocolate emerged early in the Industrial Revolution. In 1815, Dutch chemist Coenraad van Houten introduced alkaline salts to chocolate, which reduced its bitterness.[35] A few years thereafter, in 1828, he created a press to remove about half the natural fat (cocoa butter or cacao butter) from chocolate liquor, which made chocolate both cheaper to produce and more consistent in quality. This innovation introduced the modern era of chocolate.[36] produced the first chocolate bar in 1847, which was then mass-produced as Fry's Chocolate Cream in 1866.[37]]]
 
 Known as "Dutch cocoa", this machine-pressed chocolate was instrumental in the transformation of chocolate to its solid form when, in 1847, English chocolatier Joseph Fry discovered a way to make chocolate moldable when he mixed the ingredients of cocoa powder and sugar with melted cocoa butter.[38] Subsequently, his chocolate factory, Fry's of Bristol, England, began mass-producing chocolate bars, Fry's Chocolate Cream, launched in 1866, and they became very popular.[39] Milk had sometimes been used as an addition to chocolate beverages since the mid-17th century, but in 1875 Swiss chocolatier Daniel Peter invented milk chocolate by mixing a powdered milk developed by Henri Nestlé with the liquor.[40][41] In 1879, the texture and taste of chocolate was further improved when Rudolphe Lindt invented the conching machine.[42]
 
@@ -47,14 +47,14 @@ Besides Nestlé, a number of notable chocolate companies had their start in the 
 
 Etymology
 
-Kakaw_(Mayan_word).png for cacao]]
+for cacao]]
 
 Cacao, pronounced by the Olmecs as _kakawa_,[45] dates to 1000 BC or earlier.[46] The word "chocolate" entered the English language from Spanish in about 1600.[47] The word entered Spanish from the word _chocolātl_ in Nahuatl, the language of the Aztecs. The origin of the Nahuatl word is uncertain, as it does not appear in any early Nahuatl source, where the word for chocolate drink is _cacahuatl_, "cacao water". It is possible that the Spaniards coined the word (perhaps in order to avoid _caca_, a vulgar Spanish word for "faeces") by combining the Yucatec Mayan word _chocol_, "hot", with the Nahuatl word _atl_, "water". Another proposed etymology derives it from the word _chicolatl_, meaning "beaten drink", which may derive from the word for the frothing stick, _chicoli_.[48] The term "chocolatier", for a chocolate confection maker, is attested from 1888.[49]
 
 
 Types
 
-Cella-Chocolate-Cherries.jpg and/or fillings, such as liqueurs]]
+and/or fillings, such as liqueurs]]
 
 Several types of chocolate can be distinguished. Pure, unsweetened chocolate, often called "baking chocolate", contains primarily cocoa solids and cocoa butter in varying proportions. Much of the chocolate consumed today is in the form of sweet chocolate, which combines chocolate with sugar.
 
@@ -64,7 +64,7 @@ Milk chocolate is sweet chocolate that also contains milk powder or condensed mi
 
 White
 
-White_chocolate_with_rose_petals.jpg White chocolate, although similar in texture to that of milk and dark chocolate, does not contain any cocoa solids. Because of this, many countries do not consider white chocolate as chocolate at all.[51] "White chocolate" contains cocoa butter, sugar, and milk, but no cocoa solids.
+White chocolate, although similar in texture to that of milk and dark chocolate, does not contain any cocoa solids. Because of this, many countries do not consider white chocolate as chocolate at all.[51] "White chocolate" contains cocoa butter, sugar, and milk, but no cocoa solids.
 
 Dark
 
@@ -72,12 +72,12 @@ Dark chocolate is produced by adding fat and sugar to the cacao mixture. The U.S
 
 Unsweetened
 
-Unsweetened chocolate is pure chocolate liquor, also known as bitter or baking chocolate. It is unadulterated chocolate: the pure, ground, roasted chocolate beans impart a strong, deep chocolate flavor. It is typically used in baking or other products to which sugar and other ingredients are added. Raw chocolate, often referred to as raw cacao, is always dark and a minimum of 75% cacao. Cooking_chocolate,_broken_bar.jpg Poorly tempered or untempered chocolate may have whitish spots on the dark chocolate part, called chocolate bloom; it is an indication that sugar and/or fat has separated due to poor storage. It is not toxic and can be safely consumed.[54]
+Unsweetened chocolate is pure chocolate liquor, also known as bitter or baking chocolate. It is unadulterated chocolate: the pure, ground, roasted chocolate beans impart a strong, deep chocolate flavor. It is typically used in baking or other products to which sugar and other ingredients are added. Raw chocolate, often referred to as raw cacao, is always dark and a minimum of 75% cacao. Poorly tempered or untempered chocolate may have whitish spots on the dark chocolate part, called chocolate bloom; it is an indication that sugar and/or fat has separated due to poor storage. It is not toxic and can be safely consumed.[54]
 
 
 Production
 
-Cocoa_Pods.JPG Roughly two-thirds of the entire world's cocoa is produced in West Africa, with 43% sourced from Côte d'Ivoire,[55] where, , child labor is a common practice to obtain the product.[56][57] According to the World Cocoa Foundation, in 2007 some 50 million people around the world depended on cocoa as a source of livelihood.[58] in the UK, most chocolatiers purchase their chocolate from them, to melt, mold and package to their own design.[59] According to the WCF's 2012 report, the Ivory Coast is the largest producer of cocoa in the world.[60] The two main jobs associated with creating chocolate candy are chocolate makers and chocolatiers. Chocolate makers use harvested cacao beans and other ingredients to produce couverture chocolate (covering). Chocolatiers use the finished couverture to make chocolate candies (bars, truffles, etc.).[61]
+Roughly two-thirds of the entire world's cocoa is produced in West Africa, with 43% sourced from Côte d'Ivoire,[55] where, , child labor is a common practice to obtain the product.[56][57] According to the World Cocoa Foundation, in 2007 some 50 million people around the world depended on cocoa as a source of livelihood.[58] in the UK, most chocolatiers purchase their chocolate from them, to melt, mold and package to their own design.[59] According to the WCF's 2012 report, the Ivory Coast is the largest producer of cocoa in the world.[60] The two main jobs associated with creating chocolate candy are chocolate makers and chocolatiers. Chocolate makers use harvested cacao beans and other ingredients to produce couverture chocolate (covering). Chocolatiers use the finished couverture to make chocolate candies (bars, truffles, etc.).[61]
 
 Production costs can be decreased by reducing cocoa solids content or by substituting cocoa butter with another fat. Cocoa growers object to allowing the resulting food to be called "chocolate", due to the risk of lower demand for their crops.[62]
 
@@ -87,7 +87,7 @@ The sequencing in 2010 of the genome of the cacao tree may allow yields to be im
 
 Cacao varieties
 
-CacaoChonita14.JPG in Tabasco.]] Chocolate is made from cocoa beans, the dried and fermented seeds of the cacao tree (_Theobroma cacao_), a small, 4–8 m tall (15–26 ft tall) evergreen tree native to the deep tropical region of the Americas. Recent genetic studies suggest the most common genotype of the plant originated in the Amazon basin and was gradually transported by humans throughout South and Central America. Early forms of another genotype have also been found in what is now Venezuela. The scientific name, _Theobroma_, means "food of the gods".[65] The fruit, called a cacao pod, is ovoid, long and wide, ripening yellow to orange, and weighing about when ripe.
+in Tabasco.]] Chocolate is made from cocoa beans, the dried and fermented seeds of the cacao tree (_Theobroma cacao_), a small, 4–8 m tall (15–26 ft tall) evergreen tree native to the deep tropical region of the Americas. Recent genetic studies suggest the most common genotype of the plant originated in the Amazon basin and was gradually transported by humans throughout South and Central America. Early forms of another genotype have also been found in what is now Venezuela. The scientific name, _Theobroma_, means "food of the gods".[65] The fruit, called a cacao pod, is ovoid, long and wide, ripening yellow to orange, and weighing about when ripe.
 
 Cacao trees are small, understory trees that need rich, well-drained soils. They naturally grow within 20° of either side of the equator because they need about 2000 mm of rainfall a year, and temperatures in the range of . Cacao trees cannot tolerate a temperature lower than .[66]
 
@@ -109,7 +109,7 @@ Trinitario is a natural hybrid of criollo and forastero. Trinitario originated i
 
 Processing
 
-Dancing_The_Cocoa,_McBride's_estate,_El_Cidros,_Trinidad_c._1957.jpg, c. 1957]] Cacao pods are harvested by cutting them from the tree using a machete, or by knocking them off the tree using a stick. The beans with their surrounding pulp are removed from the pods and placed in piles or bins, allowing access to micro-organisms so fermentation of the pectin-containing material can begin. Yeasts produce ethanol, lactic acid bacteria produce lactic acid, and acetic acid bacteria produce acetic acid. The fermentation process, which takes up to seven days, also produces several flavor precursors, eventually resulting in the familiar chocolate taste.[74]
+, c. 1957]] Cacao pods are harvested by cutting them from the tree using a machete, or by knocking them off the tree using a stick. The beans with their surrounding pulp are removed from the pods and placed in piles or bins, allowing access to micro-organisms so fermentation of the pectin-containing material can begin. Yeasts produce ethanol, lactic acid bacteria produce lactic acid, and acetic acid bacteria produce acetic acid. The fermentation process, which takes up to seven days, also produces several flavor precursors, eventually resulting in the familiar chocolate taste.[74]
 
 It is important to harvest the pods when they are fully ripe, because if the pod is unripe, the beans will have a low cocoa butter content, or sugars in the white pulp will be insufficient for fermentation, resulting in a weak flavor. After fermentation, the beans must be quickly dried to prevent mold growth. Climate and weather permitting, this is done by spreading the beans out in the sun from five to seven days.[75]
 
@@ -117,7 +117,7 @@ The dried beans are then transported to a chocolate manufacturing facility. The 
 
 Blending
 
-Chocolate liquor is blended with the cocoa butter in varying quantities to make different types of chocolate or couvertures. The basic blends of ingredients for the various types of chocolate (in order of highest quantity of cocoa liquor first), are: Chocolate_fountain.jpg to serve as dessert fondue.]]
+Chocolate liquor is blended with the cocoa butter in varying quantities to make different types of chocolate or couvertures. The basic blends of ingredients for the various types of chocolate (in order of highest quantity of cocoa liquor first), are: to serve as dessert fondue.]]
 
 -   Dark chocolate: sugar, cocoa butter, cocoa liquor, and (sometimes) vanilla
 -   Milk chocolate: sugar, cocoa butter, cocoa liquor, milk or milk powder, and vanilla
@@ -139,11 +139,11 @@ According to Canadian Food and Drug Regulations,[84] a "chocolate product" is a 
 
 Conching
 
-Chocolate_melanger.jpg The penultimate process is called conching. A conche is a container filled with metal beads, which act as grinders. The refined and blended chocolate mass is kept in a liquid state by frictional heat. Chocolate prior to conching has an uneven and gritty texture. The conching process produces cocoa and sugar particles smaller than the tongue can detect, hence the smooth feel in the mouth. The length of the conching process determines the final smoothness and quality of the chocolate. High-quality chocolate is conched for about 72 hours, and lesser grades about four to six hours. After the process is complete, the chocolate mass is stored in tanks heated to about until final processing.[85]
+The penultimate process is called conching. A conche is a container filled with metal beads, which act as grinders. The refined and blended chocolate mass is kept in a liquid state by frictional heat. Chocolate prior to conching has an uneven and gritty texture. The conching process produces cocoa and sugar particles smaller than the tongue can detect, hence the smooth feel in the mouth. The length of the conching process determines the final smoothness and quality of the chocolate. High-quality chocolate is conched for about 72 hours, and lesser grades about four to six hours. After the process is complete, the chocolate mass is stored in tanks heated to about until final processing.[85]
 
 Tempering
 
-Making_Chocolate_in_Oaxaca.ogg store in Oaxaca]] The final process is called tempering. Uncontrolled crystallization of cocoa butter typically results in crystals of varying size, some or all large enough to be clearly seen with the naked eye. This causes the surface of the chocolate to appear mottled and matte, and causes the chocolate to crumble rather than snap when broken.[86][87] The uniform sheen and crisp bite of properly processed chocolate are the result of consistently small cocoa butter crystals produced by the tempering process.
+store in Oaxaca]] The final process is called tempering. Uncontrolled crystallization of cocoa butter typically results in crystals of varying size, some or all large enough to be clearly seen with the naked eye. This causes the surface of the chocolate to appear mottled and matte, and causes the chocolate to crumble rather than snap when broken.[86][87] The uniform sheen and crisp bite of properly processed chocolate are the result of consistently small cocoa butter crystals produced by the tempering process.
 
 The fats in cocoa butter can crystallize in six different forms (polymorphous crystallization).[88][89] The primary purpose of tempering is to assure that only the best form is present. The six different crystal forms have different properties.
 
@@ -163,13 +163,11 @@ The fats in cocoa butter can crystallize in six different forms (polymorphous cr
 | VI      |               | Hard, takes weeks to form                                    |
 +---------+---------------+--------------------------------------------------------------+
 
-Chocolate02.jpg
-
 As a solid piece of chocolate, the cocoa butter fat particles are in a crystalline rigid structure that gives the chocolate its solid appearance. Once heated, the crystals of the polymorphic cocoa butter are able to break apart from the rigid structure and allow the chocolate to obtain a more fluid consistency as the temperature increases – the melting process. When the heat is removed, the cocoa butter crystals become rigid again and come closer together, allowing the chocolate to solidify.[90]
 
 The temperature in which the crystals obtain enough energy to break apart from their rigid conformation would depend on the milk fat content in the chocolate and the shape of the fat molecules, as well as the form of the cocoa butter fat. Chocolate with a higher fat content will melt at a lower temperature.[91]
 
-Making chocolate considered "good" is about forming as many type V crystals as possible. This provides the best appearance and texture and creates the most stable crystals, so the texture and appearance will not degrade over time. To accomplish this, the temperature is carefully manipulated during the crystallization. Various_chocolate_types.jpg
+Making chocolate considered "good" is about forming as many type V crystals as possible. This provides the best appearance and texture and creates the most stable crystals, so the texture and appearance will not degrade over time. To accomplish this, the temperature is carefully manipulated during the crystallization.
 
 Generally, the chocolate is first heated to to melt all six forms of crystals.[92][93] Next, the chocolate is cooled to about , which will allow crystal types IV and V to form. At this temperature, the chocolate is agitated to create many small crystal "seeds" which will serve as nuclei to create small crystals in the chocolate. The chocolate is then heated to about to eliminate any type IV crystals, leaving just type V. After this point, any excessive heating of the chocolate will destroy the temper and this process will have to be repeated. However, other methods of chocolate tempering are used. The most common variant is introducing already tempered, solid "seed" chocolate. The temper of chocolate can be measured with a chocolate temper meter to ensure accuracy and consistency. A sample cup is filled with the chocolate and placed in the unit which then displays or prints the results.
 
@@ -182,7 +180,7 @@ Chocolate tempering machines (or temperers) with computer controls can be used f
 
 Storage
 
-Ghirardelli_Chocolate_Shop_Inside,_SF,_CA,_jjron_25.03.2012.jpg is stored in controlled conditions.]] Chocolate is very sensitive to temperature and humidity. Ideal storage temperatures are between , with a relative humidity of less than 50%. If refrigerated or frozen without containment, chocolate can absorb enough moisture to cause a whitish discoloration, the result of fat or sugar crystals rising to the surface. Various types of "blooming" effects can occur if chocolate is stored or served improperly.[96]
+is stored in controlled conditions.]] Chocolate is very sensitive to temperature and humidity. Ideal storage temperatures are between , with a relative humidity of less than 50%. If refrigerated or frozen without containment, chocolate can absorb enough moisture to cause a whitish discoloration, the result of fat or sugar crystals rising to the surface. Various types of "blooming" effects can occur if chocolate is stored or served improperly.[96]
 
 Chocolate bloom is caused by storage temperature fluctuating or exceeding , while sugar bloom is caused by temperature below or excess humidity. To distinguish between different types of bloom, one can rub the surface of the chocolate lightly, and if the bloom disappears, it is fat bloom. Moving chocolate between temperature extremes, can result in an oily texture. Although visually unappealing, chocolate suffering from bloom is safe for consumption and taste unaffected.[97][98][99] Bloom can be reversed by retempering the chocolate or using it for any use that requires melting the chocolate.[100]
 
@@ -229,7 +227,7 @@ The chocolate industry is a steadily growing, $50 billion-a-year worldwide busi
 
 Manufacturers
 
-FD_3.jpg Chocolate manufacturers produce a range of products from chocolate bars to fudge. Large manufacturers of chocolate products include Cadbury (the world's largest confectionery manufacturer), Ferrero, Guylian, The Hershey Company, Lindt & Sprüngli, Mars, Incorporated, Milka, Neuhaus and Suchard.
+Chocolate manufacturers produce a range of products from chocolate bars to fudge. Large manufacturers of chocolate products include Cadbury (the world's largest confectionery manufacturer), Ferrero, Guylian, The Hershey Company, Lindt & Sprüngli, Mars, Incorporated, Milka, Neuhaus and Suchard.
 
 Guylian is best known for its chocolate sea shells; Cadbury for its Dairy Milk and Creme Egg. The Hershey Company, the largest chocolate manufacturer in North America, produces the Hershey Bar and Hershey's Kisses.[138] Mars Incorporated, a large privately owned U.S. corporation, produces Mars Bar, Milky Way, M&M's, Twix, and Snickers. Lindt is known for its truffle balls and gold foil-wrapped Easter bunnies.
 
@@ -252,11 +250,11 @@ In the 2000s, some chocolate producers began to engage in fair trade initiatives
 
 Usage and consumption
 
-HersheySmore.jpg topped with melted chocolate from a chocolate bar]]
+topped with melted chocolate from a chocolate bar]]
 
 Bars
 
-Chocolate is sold in chocolate bars, which come in dark chocolate, milk chocolate and white chocolate varieties. Some bars that are mostly chocolate have other ingredients blended into the chocolate, such as nuts, raisins or crisped rice. Chocolate is used as an ingredient in a huge variety of bars, which typically contain various confectionary ingredients (e.g., nougat, wafers, caramel, nuts, etc.) which are coated in chocolate. Blackout_cake.jpg
+Chocolate is sold in chocolate bars, which come in dark chocolate, milk chocolate and white chocolate varieties. Some bars that are mostly chocolate have other ingredients blended into the chocolate, such as nuts, raisins or crisped rice. Chocolate is used as an ingredient in a huge variety of bars, which typically contain various confectionary ingredients (e.g., nougat, wafers, caramel, nuts, etc.) which are coated in chocolate.
 
 Coating and filling
 
@@ -271,7 +269,7 @@ Popular culture
 
 Religious and cultural links
 
-Ei-chocolatier.JPG preparing Easter eggs and rabbits]] Chocolate_Coins_(11734033133).jpg]] Chocolate is associated with festivals such as Easter, when moulded chocolate rabbits and eggs are traditionally given in Christian communities, and Hanukkah, when chocolate coins are given in Jewish communities. Chocolate hearts and chocolate in heart-shaped boxes are popular on Valentine's Day and are often presented along with flowers and a greeting card. In 1868, Cadbury created Fancy Boxes – a decorated box of chocolates – in the shape of a heart for Valentine's Day.[164] Boxes of filled chocolates quickly became associated with the holiday.[165] Chocolate is an acceptable gift on other holidays and on occasions such as birthdays.
+preparing Easter eggs and rabbits]] ]] Chocolate is associated with festivals such as Easter, when moulded chocolate rabbits and eggs are traditionally given in Christian communities, and Hanukkah, when chocolate coins are given in Jewish communities. Chocolate hearts and chocolate in heart-shaped boxes are popular on Valentine's Day and are often presented along with flowers and a greeting card. In 1868, Cadbury created Fancy Boxes – a decorated box of chocolates – in the shape of a heart for Valentine's Day.[164] Boxes of filled chocolates quickly became associated with the holiday.[165] Chocolate is an acceptable gift on other holidays and on occasions such as birthdays.
 
 Many confectioners make holiday-specific chocolate candies. Chocolate Easter eggs or rabbits and Santa Claus figures are two examples. Such confections can be solid, hollow, or filled with sweets or fondant.
 

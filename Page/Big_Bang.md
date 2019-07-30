@@ -36,7 +36,7 @@ The earliest phases of the Big Bang are subject to much speculation. In the most
 
 Cooling
 
-2MASS_LSS_chart-NEW_Nasa.jpg sky reveals the distribution of galaxies beyond the Milky Way. Galaxies are color-coded by redshift.]] The universe continued to decrease in density and fall in temperature, hence the typical energy of each particle was decreasing. Symmetry breaking phase transitions put the fundamental forces of physics and the parameters of elementary particles into their present form.[33] After about 10^(−11) seconds, the picture becomes less speculative, since particle energies drop to values that can be attained in particle accelerators. At about 10^(−6) seconds, quarks and gluons combined to form baryons such as protons and neutrons. The small excess of quarks over antiquarks led to a small excess of baryons over antibaryons. The temperature was now no longer high enough to create new proton–antiproton pairs (similarly for neutrons–antineutrons), so a mass annihilation immediately followed, leaving just one in 10¹⁰ of the original protons and neutrons, and none of their antiparticles. A similar process happened at about 1 second for electrons and positrons. After these annihilations, the remaining protons, neutrons and electrons were no longer moving relativistically and the energy density of the universe was dominated by photons (with a minor contribution from neutrinos).
+sky reveals the distribution of galaxies beyond the Milky Way. Galaxies are color-coded by redshift.]] The universe continued to decrease in density and fall in temperature, hence the typical energy of each particle was decreasing. Symmetry breaking phase transitions put the fundamental forces of physics and the parameters of elementary particles into their present form.[33] After about 10^(−11) seconds, the picture becomes less speculative, since particle energies drop to values that can be attained in particle accelerators. At about 10^(−6) seconds, quarks and gluons combined to form baryons such as protons and neutrons. The small excess of quarks over antiquarks led to a small excess of baryons over antibaryons. The temperature was now no longer high enough to create new proton–antiproton pairs (similarly for neutrons–antineutrons), so a mass annihilation immediately followed, leaving just one in 10¹⁰ of the original protons and neutrons, and none of their antiparticles. A similar process happened at about 1 second for electrons and positrons. After these annihilations, the remaining protons, neutrons and electrons were no longer moving relativistically and the energy density of the universe was dominated by photons (with a minor contribution from neutrinos).
 
 A few minutes into the expansion, when the temperature was about a billion (one thousand million) kelvin and the density was about that of air, neutrons combined with protons to form the universe's deuterium and helium nuclei in a process called Big Bang nucleosynthesis.[34] Most protons remained uncombined as hydrogen nuclei.[35]
 
@@ -44,7 +44,7 @@ As the universe cooled, the rest mass energy density of matter came to gravitati
 
 Structure formation
 
-WMAP2.jpg satellite gathering data to help scientists understand the Big Bang]] Heic1401a-Abell2744-20140107.jpg galaxy cluster – Hubble Frontier Fields view.[40]]] Over a long period of time, the slightly denser regions of the nearly uniformly distributed matter gravitationally attracted nearby matter and thus grew even denser, forming gas clouds, stars, galaxies, and the other astronomical structures observable today.[41] The details of this process depend on the amount and type of matter in the universe. The four possible types of matter are known as cold dark matter, warm dark matter, hot dark matter, and baryonic matter. The best measurements available, from Wilkinson Microwave Anisotropy Probe (WMAP), show that the data is well-fit by a Lambda-CDM model in which dark matter is assumed to be cold (warm dark matter is ruled out by early reionization),[42] and is estimated to make up about 23% of the matter/energy of the universe, while baryonic matter makes up about 4.6%.[43] In an "extended model" which includes hot dark matter in the form of neutrinos, then if the "physical baryon density" Ω_(b)h² is estimated at about 0.023 (this is different from the 'baryon density' Ω_(b) expressed as a fraction of the total matter/energy density, which as noted above is about 0.046), and the corresponding cold dark matter density Ω_(c)h² is about 0.11, the corresponding neutrino density Ω_(v)h² is estimated to be less than 0.0062.[44]
+satellite gathering data to help scientists understand the Big Bang]] galaxy cluster – Hubble Frontier Fields view.[40]]] Over a long period of time, the slightly denser regions of the nearly uniformly distributed matter gravitationally attracted nearby matter and thus grew even denser, forming gas clouds, stars, galaxies, and the other astronomical structures observable today.[41] The details of this process depend on the amount and type of matter in the universe. The four possible types of matter are known as cold dark matter, warm dark matter, hot dark matter, and baryonic matter. The best measurements available, from Wilkinson Microwave Anisotropy Probe (WMAP), show that the data is well-fit by a Lambda-CDM model in which dark matter is assumed to be cold (warm dark matter is ruled out by early reionization),[42] and is estimated to make up about 23% of the matter/energy of the universe, while baryonic matter makes up about 4.6%.[43] In an "extended model" which includes hot dark matter in the form of neutrinos, then if the "physical baryon density" Ω_(b)h² is estimated at about 0.023 (this is different from the 'baryon density' Ω_(b) expressed as a fraction of the total matter/energy density, which as noted above is about 0.046), and the corresponding cold dark matter density Ω_(c)h² is about 0.11, the corresponding neutrino density Ω_(v)h² is estimated to be less than 0.0062.[44]
 
 Cosmic acceleration
 
@@ -131,121 +131,119 @@ Measurements of the effects of the cosmic microwave background radiation on the 
 
 Cosmic microwave background radiation
 
-The cosmic microwave background spectrum measured by the FIRAS instrument on the COBE satellite is the most-precisely measured black body spectrum in nature.[100] The data points and error bars on this graph are obscured by the theoretical curve.
+In 1964 Arno Penzias and Robert Wilson serendipitously discovered the cosmic background radiation, an omnidirectional signal in the microwave band.[100] Their discovery provided substantial confirmation of the big-bang predictions by Alpher, Herman and Gamow around 1950. Through the 1970s the radiation was found to be approximately consistent with a black body spectrum in all directions; this spectrum has been redshifted by the expansion of the universe, and today corresponds to approximately 2.725 K. This tipped the balance of evidence in favor of the Big Bang model, and Penzias and Wilson were awarded a Nobel Prize in 1978.
 
-In 1964 Arno Penzias and Robert Wilson serendipitously discovered the cosmic background radiation, an omnidirectional signal in the microwave band.[101] Their discovery provided substantial confirmation of the big-bang predictions by Alpher, Herman and Gamow around 1950. Through the 1970s the radiation was found to be approximately consistent with a black body spectrum in all directions; this spectrum has been redshifted by the expansion of the universe, and today corresponds to approximately 2.725 K. This tipped the balance of evidence in favor of the Big Bang model, and Penzias and Wilson were awarded a Nobel Prize in 1978.
+The _surface of last scattering_ corresponding to emission of the CMB occurs shortly after _recombination_, the epoch when neutral hydrogen becomes stable. Prior to this, the universe comprised a hot dense photon-baryon plasma sea where photons were quickly scattered from free charged particles. Peaking at around ,[101] the mean free path for a photon becomes long enough to reach the present day and the universe becomes transparent.
 
-The _surface of last scattering_ corresponding to emission of the CMB occurs shortly after _recombination_, the epoch when neutral hydrogen becomes stable. Prior to this, the universe comprised a hot dense photon-baryon plasma sea where photons were quickly scattered from free charged particles. Peaking at around ,[102] the mean free path for a photon becomes long enough to reach the present day and the universe becomes transparent.
+image of the cosmic microwave background radiation (2012).[102][103] The radiation is isotropic to roughly one part in 100,000.[104]]] In 1989, NASA launched the Cosmic Background Explorer satellite (COBE), which made two major advances: in 1990, high-precision spectrum measurements showed that the CMB frequency spectrum is an almost perfect blackbody with no deviations at a level of 1 part in 10⁴, and measured a residual temperature of 2.726 K (more recent measurements have revised this figure down slightly to 2.7255 K); then in 1992, further COBE measurements discovered tiny fluctuations (anisotropies) in the CMB temperature across the sky, at a level of about one part in 10⁵.[105] John C. Mather and George Smoot were awarded the 2006 Nobel Prize in Physics for their leadership in these results.
 
-Ilc_9yr_moll4096.png image of the cosmic microwave background radiation (2012).[103][104] The radiation is isotropic to roughly one part in 100,000.[105]]] In 1989, NASA launched the Cosmic Background Explorer satellite (COBE), which made two major advances: in 1990, high-precision spectrum measurements showed that the CMB frequency spectrum is an almost perfect blackbody with no deviations at a level of 1 part in 10⁴, and measured a residual temperature of 2.726 K (more recent measurements have revised this figure down slightly to 2.7255 K); then in 1992, further COBE measurements discovered tiny fluctuations (anisotropies) in the CMB temperature across the sky, at a level of about one part in 10⁵.[106] John C. Mather and George Smoot were awarded the 2006 Nobel Prize in Physics for their leadership in these results.
+During the following decade, CMB anisotropies were further investigated by a large number of ground-based and balloon experiments. In 2000–2001 several experiments, most notably BOOMERanG, found the shape of the universe to be spatially almost flat by measuring the typical angular size (the size on the sky) of the anisotropies.[106][107][108]
 
-During the following decade, CMB anisotropies were further investigated by a large number of ground-based and balloon experiments. In 2000–2001 several experiments, most notably BOOMERanG, found the shape of the universe to be spatially almost flat by measuring the typical angular size (the size on the sky) of the anisotropies.[107][108][109]
-
-In early 2003, the first results of the Wilkinson Microwave Anisotropy Probe (WMAP) were released, yielding what were at the time the most accurate values for some of the cosmological parameters. The results disproved several specific cosmic inflation models, but are consistent with the inflation theory in general.[110] The Planck space probe was launched in May 2009. Other ground and balloon based cosmic microwave background experiments are ongoing.
+In early 2003, the first results of the Wilkinson Microwave Anisotropy Probe (WMAP) were released, yielding what were at the time the most accurate values for some of the cosmological parameters. The results disproved several specific cosmic inflation models, but are consistent with the inflation theory in general.[109] The Planck space probe was launched in May 2009. Other ground and balloon based cosmic microwave background experiments are ongoing.
 
 Abundance of primordial elements
 
-Using the Big Bang model it is possible to calculate the concentration of helium-4, helium-3, deuterium, and lithium-7 in the universe as ratios to the amount of ordinary hydrogen.[111] The relative abundances depend on a single parameter, the ratio of photons to baryons. This value can be calculated independently from the detailed structure of CMB fluctuations. The ratios predicted (by mass, not by number) are about 0.25 for ^4He/H, about 10^(−3) for ^2H/H, about 10^(−4) for ^3He/H and about 10^(−9) for ^7Li/H.[112]
+Using the Big Bang model it is possible to calculate the concentration of helium-4, helium-3, deuterium, and lithium-7 in the universe as ratios to the amount of ordinary hydrogen.[110] The relative abundances depend on a single parameter, the ratio of photons to baryons. This value can be calculated independently from the detailed structure of CMB fluctuations. The ratios predicted (by mass, not by number) are about 0.25 for ^4He/H, about 10^(−3) for ^2H/H, about 10^(−4) for ^3He/H and about 10^(−9) for ^7Li/H.[111]
 
-The measured abundances all agree at least roughly with those predicted from a single value of the baryon-to-photon ratio. The agreement is excellent for deuterium, close but formally discrepant for ^4He, and off by a factor of two for ^7Li; in the latter two cases there are substantial systematic uncertainties. Nonetheless, the general consistency with abundances predicted by Big Bang nucleosynthesis is strong evidence for the Big Bang, as the theory is the only known explanation for the relative abundances of light elements, and it is virtually impossible to "tune" the Big Bang to produce much more or less than 20–30% helium.[113] Indeed, there is no obvious reason outside of the Big Bang that, for example, the young universe (i.e., before star formation, as determined by studying matter supposedly free of stellar nucleosynthesis products) should have more helium than deuterium or more deuterium than ^3He, and in constant ratios, too.[114]
+The measured abundances all agree at least roughly with those predicted from a single value of the baryon-to-photon ratio. The agreement is excellent for deuterium, close but formally discrepant for ^4He, and off by a factor of two for ^7Li; in the latter two cases there are substantial systematic uncertainties. Nonetheless, the general consistency with abundances predicted by Big Bang nucleosynthesis is strong evidence for the Big Bang, as the theory is the only known explanation for the relative abundances of light elements, and it is virtually impossible to "tune" the Big Bang to produce much more or less than 20–30% helium.[112] Indeed, there is no obvious reason outside of the Big Bang that, for example, the young universe (i.e., before star formation, as determined by studying matter supposedly free of stellar nucleosynthesis products) should have more helium than deuterium or more deuterium than ^3He, and in constant ratios, too.[113]
 
 Galactic evolution and distribution
 
-Detailed observations of the morphology and distribution of galaxies and quasars are in agreement with the current state of the Big Bang theory. A combination of observations and theory suggest that the first quasars and galaxies formed about a billion years after the Big Bang, and since then, larger structures have been forming, such as galaxy clusters and superclusters.[115]
+Detailed observations of the morphology and distribution of galaxies and quasars are in agreement with the current state of the Big Bang theory. A combination of observations and theory suggest that the first quasars and galaxies formed about a billion years after the Big Bang, and since then, larger structures have been forming, such as galaxy clusters and superclusters.[114]
 
-Populations of stars have been aging and evolving, so that distant galaxies (which are observed as they were in the early universe) appear very different from nearby galaxies (observed in a more recent state). Moreover, galaxies that formed relatively recently, appear markedly different from galaxies formed at similar distances but shortly after the Big Bang. These observations are strong arguments against the steady-state model. Observations of star formation, galaxy and quasar distributions and larger structures, agree well with Big Bang simulations of the formation of structure in the universe, and are helping to complete details of the theory.[116][117]
+Populations of stars have been aging and evolving, so that distant galaxies (which are observed as they were in the early universe) appear very different from nearby galaxies (observed in a more recent state). Moreover, galaxies that formed relatively recently, appear markedly different from galaxies formed at similar distances but shortly after the Big Bang. These observations are strong arguments against the steady-state model. Observations of star formation, galaxy and quasar distributions and larger structures, agree well with Big Bang simulations of the formation of structure in the universe, and are helping to complete details of the theory.[115][116]
 
 Primordial gas clouds
 
-PIA17993-DetectorsForInfantUniverseStudies-20140317.jpg of BICEP2 telescope under a microscope - used to search for polarization in the CMB.[118][119][120][121]]] In 2011, astronomers found what they believe to be pristine clouds of primordial gas by analyzing absorption lines in the spectra of distant quasars. Before this discovery, all other astronomical objects have been observed to contain heavy elements that are formed in stars. These two clouds of gas contain no elements heavier than hydrogen and deuterium.[122][123] Since the clouds of gas have no heavy elements, they likely formed in the first few minutes after the Big Bang, during Big Bang nucleosynthesis.
+of BICEP2 telescope under a microscope - used to search for polarization in the CMB.[117][118][119][120]]] In 2011, astronomers found what they believe to be pristine clouds of primordial gas by analyzing absorption lines in the spectra of distant quasars. Before this discovery, all other astronomical objects have been observed to contain heavy elements that are formed in stars. These two clouds of gas contain no elements heavier than hydrogen and deuterium.[121][122] Since the clouds of gas have no heavy elements, they likely formed in the first few minutes after the Big Bang, during Big Bang nucleosynthesis.
 
 Other lines of evidence
 
-The age of the universe as estimated from the Hubble expansion and the CMB is now in good agreement with other estimates using the ages of the oldest stars, both as measured by applying the theory of stellar evolution to globular clusters and through radiometric dating of individual Population II stars.[124]
+The age of the universe as estimated from the Hubble expansion and the CMB is now in good agreement with other estimates using the ages of the oldest stars, both as measured by applying the theory of stellar evolution to globular clusters and through radiometric dating of individual Population II stars.[123]
 
-The prediction that the CMB temperature was higher in the past has been experimentally supported by observations of very low temperature absorption lines in gas clouds at high redshift.[125] This prediction also implies that the amplitude of the Sunyaev–Zel'dovich effect in clusters of galaxies does not depend directly on redshift. Observations have found this to be roughly true, but this effect depends on cluster properties that do change with cosmic time, making precise measurements difficult.[126][127]
+The prediction that the CMB temperature was higher in the past has been experimentally supported by observations of very low temperature absorption lines in gas clouds at high redshift.[124] This prediction also implies that the amplitude of the Sunyaev–Zel'dovich effect in clusters of galaxies does not depend directly on redshift. Observations have found this to be roughly true, but this effect depends on cluster properties that do change with cosmic time, making precise measurements difficult.[125][126]
 
 Future observations
 
-Future gravitational waves observatories might be able to detect primordial gravitational waves, relics of the early universe, up to less than a second after the Big Bang.[128][129]
+Future gravitational waves observatories might be able to detect primordial gravitational waves, relics of the early universe, up to less than a second after the Big Bang.[127][128]
 
 
 Problems and related issues in physics
 
-As with any theory, a number of mysteries and problems have arisen as a result of the development of the Big Bang theory. Some of these mysteries and problems have been resolved while others are still outstanding. Proposed solutions to some of the problems in the Big Bang model have revealed new mysteries of their own. For example, the horizon problem, the magnetic monopole problem, and the flatness problem are most commonly resolved with inflationary theory, but the details of the inflationary universe are still left unresolved and many, including some founders of the theory, say it has been disproven.[130][131][132][133] What follows are a list of the mysterious aspects of the Big Bang theory still under intense investigation by cosmologists and astrophysicists.
+As with any theory, a number of mysteries and problems have arisen as a result of the development of the Big Bang theory. Some of these mysteries and problems have been resolved while others are still outstanding. Proposed solutions to some of the problems in the Big Bang model have revealed new mysteries of their own. For example, the horizon problem, the magnetic monopole problem, and the flatness problem are most commonly resolved with inflationary theory, but the details of the inflationary universe are still left unresolved and many, including some founders of the theory, say it has been disproven.[129][130][131][132] What follows are a list of the mysterious aspects of the Big Bang theory still under intense investigation by cosmologists and astrophysicists.
 
 Baryon asymmetry
 
-It is not yet understood why the universe has more matter than antimatter.[134] It is generally assumed that when the universe was young and very hot it was in statistical equilibrium and contained equal numbers of baryons and antibaryons. However, observations suggest that the universe, including its most distant parts, is made almost entirely of matter. A process called baryogenesis was hypothesized to account for the asymmetry. For baryogenesis to occur, the Sakharov conditions must be satisfied. These require that baryon number is not conserved, that C-symmetry and CP-symmetry are violated and that the universe depart from thermodynamic equilibrium.[135] All these conditions occur in the Standard Model, but the effects are not strong enough to explain the present baryon asymmetry.
+It is not yet understood why the universe has more matter than antimatter.[133] It is generally assumed that when the universe was young and very hot it was in statistical equilibrium and contained equal numbers of baryons and antibaryons. However, observations suggest that the universe, including its most distant parts, is made almost entirely of matter. A process called baryogenesis was hypothesized to account for the asymmetry. For baryogenesis to occur, the Sakharov conditions must be satisfied. These require that baryon number is not conserved, that C-symmetry and CP-symmetry are violated and that the universe depart from thermodynamic equilibrium.[134] All these conditions occur in the Standard Model, but the effects are not strong enough to explain the present baryon asymmetry.
 
 Dark energy
 
-Measurements of the redshift–magnitude relation for type Ia supernovae indicate that the expansion of the universe has been accelerating since the universe was about half its present age. To explain this acceleration, general relativity requires that much of the energy in the universe consists of a component with large negative pressure, dubbed "dark energy".[136]
+Measurements of the redshift–magnitude relation for type Ia supernovae indicate that the expansion of the universe has been accelerating since the universe was about half its present age. To explain this acceleration, general relativity requires that much of the energy in the universe consists of a component with large negative pressure, dubbed "dark energy".[135]
 
-Dark energy, though speculative, solves numerous problems. Measurements of the cosmic microwave background indicate that the universe is very nearly spatially flat, and therefore according to general relativity the universe must have almost exactly the critical density of mass/energy. But the mass density of the universe can be measured from its gravitational clustering, and is found to have only about 30% of the critical density.[137] Since theory suggests that dark energy does not cluster in the usual way it is the best explanation for the "missing" energy density. Dark energy also helps to explain two geometrical measures of the overall curvature of the universe, one using the frequency of gravitational lenses, and the other using the characteristic pattern of the large-scale structure as a cosmic ruler.
+Dark energy, though speculative, solves numerous problems. Measurements of the cosmic microwave background indicate that the universe is very nearly spatially flat, and therefore according to general relativity the universe must have almost exactly the critical density of mass/energy. But the mass density of the universe can be measured from its gravitational clustering, and is found to have only about 30% of the critical density.[136] Since theory suggests that dark energy does not cluster in the usual way it is the best explanation for the "missing" energy density. Dark energy also helps to explain two geometrical measures of the overall curvature of the universe, one using the frequency of gravitational lenses, and the other using the characteristic pattern of the large-scale structure as a cosmic ruler.
 
-Negative pressure is believed to be a property of vacuum energy, but the exact nature and existence of dark energy remains one of the great mysteries of the Big Bang. Results from the WMAP team in 2008 are in accordance with a universe that consists of 73% dark energy, 23% dark matter, 4.6% regular matter and less than 1% neutrinos.[138] According to theory, the energy density in matter decreases with the expansion of the universe, but the dark energy density remains constant (or nearly so) as the universe expands. Therefore, matter made up a larger fraction of the total energy of the universe in the past than it does today, but its fractional contribution will fall in the far future as dark energy becomes even more dominant.
+Negative pressure is believed to be a property of vacuum energy, but the exact nature and existence of dark energy remains one of the great mysteries of the Big Bang. Results from the WMAP team in 2008 are in accordance with a universe that consists of 73% dark energy, 23% dark matter, 4.6% regular matter and less than 1% neutrinos.[137] According to theory, the energy density in matter decreases with the expansion of the universe, but the dark energy density remains constant (or nearly so) as the universe expands. Therefore, matter made up a larger fraction of the total energy of the universe in the past than it does today, but its fractional contribution will fall in the far future as dark energy becomes even more dominant.
 
-The dark energy component of the universe has been explained by theorists using a variety of competing theories including Einstein's cosmological constant but also extending to more exotic forms of quintessence or other modified gravity schemes.[139] A cosmological constant problem, sometimes called the "most embarrassing problem in physics", results from the apparent discrepancy between the measured energy density of dark energy, and the one naively predicted from Planck units.[140]
+The dark energy component of the universe has been explained by theorists using a variety of competing theories including Einstein's cosmological constant but also extending to more exotic forms of quintessence or other modified gravity schemes.[138] A cosmological constant problem, sometimes called the "most embarrassing problem in physics", results from the apparent discrepancy between the measured energy density of dark energy, and the one naively predicted from Planck units.[139]
 
 Dark matter
 
-Cosmological_Composition_–_Pie_Chart.svg shows the proportion of different components of the universe about 95% is dark matter and dark energy.]] During the 1970s and the 1980s, various observations showed that there is not sufficient visible matter in the universe to account for the apparent strength of gravitational forces within and between galaxies. This led to the idea that up to 90% of the matter in the universe is dark matter that does not emit light or interact with normal baryonic matter. In addition, the assumption that the universe is mostly normal matter led to predictions that were strongly inconsistent with observations. In particular, the universe today is far more lumpy and contains far less deuterium than can be accounted for without dark matter. While dark matter has always been controversial, it is inferred by various observations: the anisotropies in the CMB, galaxy cluster velocity dispersions, large-scale structure distributions, gravitational lensing studies, and X-ray measurements of galaxy clusters.[141]
+shows the proportion of different components of the universe about 95% is dark matter and dark energy.]] During the 1970s and the 1980s, various observations showed that there is not sufficient visible matter in the universe to account for the apparent strength of gravitational forces within and between galaxies. This led to the idea that up to 90% of the matter in the universe is dark matter that does not emit light or interact with normal baryonic matter. In addition, the assumption that the universe is mostly normal matter led to predictions that were strongly inconsistent with observations. In particular, the universe today is far more lumpy and contains far less deuterium than can be accounted for without dark matter. While dark matter has always been controversial, it is inferred by various observations: the anisotropies in the CMB, galaxy cluster velocity dispersions, large-scale structure distributions, gravitational lensing studies, and X-ray measurements of galaxy clusters.[140]
 
-Indirect evidence for dark matter comes from its gravitational influence on other matter, as no dark matter particles have been observed in laboratories. Many particle physics candidates for dark matter have been proposed, and several projects to detect them directly are underway.[142]
+Indirect evidence for dark matter comes from its gravitational influence on other matter, as no dark matter particles have been observed in laboratories. Many particle physics candidates for dark matter have been proposed, and several projects to detect them directly are underway.[141]
 
-Additionally, there are outstanding problems associated with the currently favored cold dark matter model which include the dwarf galaxy problem[143] and the cuspy halo problem.[144] Alternative theories have been proposed that do not require a large amount of undetected matter, but instead modify the laws of gravity established by Newton and Einstein; yet no alternative theory has been as successful as the cold dark matter proposal in explaining all extant observations.[145]
+Additionally, there are outstanding problems associated with the currently favored cold dark matter model which include the dwarf galaxy problem[142] and the cuspy halo problem.[143] Alternative theories have been proposed that do not require a large amount of undetected matter, but instead modify the laws of gravity established by Newton and Einstein; yet no alternative theory has been as successful as the cold dark matter proposal in explaining all extant observations.[144]
 
 Horizon problem
 
-The horizon problem results from the premise that information cannot travel faster than light. In a universe of finite age this sets a limit—the particle horizon—on the separation of any two regions of space that are in causal contact.[146] The observed isotropy of the CMB is problematic in this regard: if the universe had been dominated by radiation or matter at all times up to the epoch of last scattering, the particle horizon at that time would correspond to about 2 degrees on the sky. There would then be no mechanism to cause wider regions to have the same temperature.[147]
+The horizon problem results from the premise that information cannot travel faster than light. In a universe of finite age this sets a limit—the particle horizon—on the separation of any two regions of space that are in causal contact.[145] The observed isotropy of the CMB is problematic in this regard: if the universe had been dominated by radiation or matter at all times up to the epoch of last scattering, the particle horizon at that time would correspond to about 2 degrees on the sky. There would then be no mechanism to cause wider regions to have the same temperature.[146]
 
-A resolution to this apparent inconsistency is offered by inflationary theory in which a homogeneous and isotropic scalar energy field dominates the universe at some very early period (before baryogenesis). During inflation, the universe undergoes exponential expansion, and the particle horizon expands much more rapidly than previously assumed, so that regions presently on opposite sides of the observable universe are well inside each other's particle horizon. The observed isotropy of the CMB then follows from the fact that this larger region was in causal contact before the beginning of inflation.[148]
+A resolution to this apparent inconsistency is offered by inflationary theory in which a homogeneous and isotropic scalar energy field dominates the universe at some very early period (before baryogenesis). During inflation, the universe undergoes exponential expansion, and the particle horizon expands much more rapidly than previously assumed, so that regions presently on opposite sides of the observable universe are well inside each other's particle horizon. The observed isotropy of the CMB then follows from the fact that this larger region was in causal contact before the beginning of inflation.[147]
 
-Heisenberg's uncertainty principle predicts that during the inflationary phase there would be quantum thermal fluctuations, which would be magnified to cosmic scale. These fluctuations serve as the seeds of all current structure in the universe.[149] Inflation predicts that the primordial fluctuations are nearly scale invariant and Gaussian, which has been accurately confirmed by measurements of the CMB.[150]
+Heisenberg's uncertainty principle predicts that during the inflationary phase there would be quantum thermal fluctuations, which would be magnified to cosmic scale. These fluctuations serve as the seeds of all current structure in the universe.[148] Inflation predicts that the primordial fluctuations are nearly scale invariant and Gaussian, which has been accurately confirmed by measurements of the CMB.[149]
 
-If inflation occurred, exponential expansion would push large regions of space well beyond our observable horizon.[151]
+If inflation occurred, exponential expansion would push large regions of space well beyond our observable horizon.[150]
 
-A related issue to the classic horizon problem arises because in most standard cosmological inflation models, inflation ceases well before electroweak symmetry breaking occurs, so inflation should not be able to prevent large-scale discontinuities in the electroweak vacuum since distant parts of the observable universe were causally separate when the electroweak epoch ended.[152]
+A related issue to the classic horizon problem arises because in most standard cosmological inflation models, inflation ceases well before electroweak symmetry breaking occurs, so inflation should not be able to prevent large-scale discontinuities in the electroweak vacuum since distant parts of the observable universe were causally separate when the electroweak epoch ended.[151]
 
 Magnetic monopoles
 
-The magnetic monopole objection was raised in the late 1970s. Grand unified theories predicted topological defects in space that would manifest as magnetic monopoles. These objects would be produced efficiently in the hot early universe, resulting in a density much higher than is consistent with observations, given that no monopoles have been found. This problem is also resolved by cosmic inflation, which removes all point defects from the observable universe, in the same way that it drives the geometry to flatness.[153]
+The magnetic monopole objection was raised in the late 1970s. Grand unified theories predicted topological defects in space that would manifest as magnetic monopoles. These objects would be produced efficiently in the hot early universe, resulting in a density much higher than is consistent with observations, given that no monopoles have been found. This problem is also resolved by cosmic inflation, which removes all point defects from the observable universe, in the same way that it drives the geometry to flatness.[152]
 
 Flatness problem
 
-End_of_universe.jpg is determined by whether the Omega cosmological parameter is less than, equal to or greater than 1. Shown from top to bottom are a closed universe with positive curvature, a hyperbolic universe with negative curvature and a flat universe with zero curvature.]]
+is determined by whether the Omega cosmological parameter is less than, equal to or greater than 1. Shown from top to bottom are a closed universe with positive curvature, a hyperbolic universe with negative curvature and a flat universe with zero curvature.]]
 
-The flatness problem (also known as the oldness problem) is an observational problem associated with a Friedmann–Lemaître–Robertson–Walker metric (FLRW).[154] The universe may have positive, negative, or zero spatial curvature depending on its total energy density. Curvature is negative if its density is less than the critical density; positive if greater; and zero at the critical density, in which case space is said to be _flat_.
+The flatness problem (also known as the oldness problem) is an observational problem associated with a Friedmann–Lemaître–Robertson–Walker metric (FLRW).[153] The universe may have positive, negative, or zero spatial curvature depending on its total energy density. Curvature is negative if its density is less than the critical density; positive if greater; and zero at the critical density, in which case space is said to be _flat_.
 
-The problem is that any small departure from the critical density grows with time, and yet the universe today remains very close to flat.[155] Given that a natural timescale for departure from flatness might be the Planck time, 10^(−43) seconds,[156] the fact that the universe has reached neither a heat death nor a Big Crunch after billions of years requires an explanation. For instance, even at the relatively late age of a few minutes (the time of nucleosynthesis), the density of the universe must have been within one part in 10¹⁴ of its critical value, or it would not exist as it does today.[157]
+The problem is that any small departure from the critical density grows with time, and yet the universe today remains very close to flat.[154] Given that a natural timescale for departure from flatness might be the Planck time, 10^(−43) seconds,[155] the fact that the universe has reached neither a heat death nor a Big Crunch after billions of years requires an explanation. For instance, even at the relatively late age of a few minutes (the time of nucleosynthesis), the density of the universe must have been within one part in 10¹⁴ of its critical value, or it would not exist as it does today.[156]
 
 
 Ultimate fate of the universe
 
-Before observations of dark energy, cosmologists considered two scenarios for the future of the universe. If the mass density of the universe were greater than the critical density, then the universe would reach a maximum size and then begin to collapse. It would become denser and hotter again, ending with a state similar to that in which it started—a Big Crunch.[158]
+Before observations of dark energy, cosmologists considered two scenarios for the future of the universe. If the mass density of the universe were greater than the critical density, then the universe would reach a maximum size and then begin to collapse. It would become denser and hotter again, ending with a state similar to that in which it started—a Big Crunch.[157]
 
-Alternatively, if the density in the universe were equal to or below the critical density, the expansion would slow down but never stop. Star formation would cease with the consumption of interstellar gas in each galaxy; stars would burn out, leaving white dwarfs, neutron stars, and black holes. Very gradually, collisions between these would result in mass accumulating into larger and larger black holes. The average temperature of the universe would asymptotically approach absolute zero—a Big Freeze.[159] Moreover, if the proton were unstable, then baryonic matter would disappear, leaving only radiation and black holes. Eventually, black holes would evaporate by emitting Hawking radiation. The entropy of the universe would increase to the point where no organized form of energy could be extracted from it, a scenario known as heat death.[160]
+Alternatively, if the density in the universe were equal to or below the critical density, the expansion would slow down but never stop. Star formation would cease with the consumption of interstellar gas in each galaxy; stars would burn out, leaving white dwarfs, neutron stars, and black holes. Very gradually, collisions between these would result in mass accumulating into larger and larger black holes. The average temperature of the universe would asymptotically approach absolute zero—a Big Freeze.[158] Moreover, if the proton were unstable, then baryonic matter would disappear, leaving only radiation and black holes. Eventually, black holes would evaporate by emitting Hawking radiation. The entropy of the universe would increase to the point where no organized form of energy could be extracted from it, a scenario known as heat death.[159]
 
-Modern observations of accelerating expansion imply that more and more of the currently visible universe will pass beyond our event horizon and out of contact with us. The eventual result is not known. The ΛCDM model of the universe contains dark energy in the form of a cosmological constant. This theory suggests that only gravitationally bound systems, such as galaxies, will remain together, and they too will be subject to heat death as the universe expands and cools. Other explanations of dark energy, called phantom energy theories, suggest that ultimately galaxy clusters, stars, planets, atoms, nuclei, and matter itself will be torn apart by the ever-increasing expansion in a so-called Big Rip.[161]
+Modern observations of accelerating expansion imply that more and more of the currently visible universe will pass beyond our event horizon and out of contact with us. The eventual result is not known. The ΛCDM model of the universe contains dark energy in the form of a cosmological constant. This theory suggests that only gravitationally bound systems, such as galaxies, will remain together, and they too will be subject to heat death as the universe expands and cools. Other explanations of dark energy, called phantom energy theories, suggest that ultimately galaxy clusters, stars, planets, atoms, nuclei, and matter itself will be torn apart by the ever-increasing expansion in a so-called Big Rip.[160]
 
 
 Misconceptions
 
 The following is a partial list of misconceptions about the Big Bang model:
 
-_The Big Bang as the origin of the universe:_ One of the common misconceptions about the Big Bang model is that it fully explains the origin of the universe. However, the Big Bang model does not describe how energy, time, and space was caused, but rather it describes the emergence of the present universe from an ultra dense and high-temperature initial state.[162]
+_The Big Bang as the origin of the universe:_ One of the common misconceptions about the Big Bang model is that it fully explains the origin of the universe. However, the Big Bang model does not describe how energy, time, and space was caused, but rather it describes the emergence of the present universe from an ultra dense and high-temperature initial state.[161]
 
-_The Big Bang was "small"_: It is misleading to visualize the Big Bang by comparing its size to everyday objects. When the size of the universe at Big Bang is described, it refers to the size of the observable universe, and not the entire universe.[163]
+_The Big Bang was "small"_: It is misleading to visualize the Big Bang by comparing its size to everyday objects. When the size of the universe at Big Bang is described, it refers to the size of the observable universe, and not the entire universe.[162]
 
-_Hubble's law violates the special theory of relativity_: Hubble's law predicts that galaxies that are beyond Hubble Distance recede faster than the speed of light. However, special relativity does not apply beyond motion through space. Hubble's law describes velocity that results from expansion _of_ space, rather than _through_ space.[164]
+_Hubble's law violates the special theory of relativity_: Hubble's law predicts that galaxies that are beyond Hubble Distance recede faster than the speed of light. However, special relativity does not apply beyond motion through space. Hubble's law describes velocity that results from expansion _of_ space, rather than _through_ space.[163]
 
-_Doppler redshift vs cosmological red-shift_: Astronomers often refer to the cosmological red-shift as a Doppler shift[165] which can lead to a misconception. Although similar, the cosmological red-shift is not identical to the classically derived Doppler redshift because most elementary derivations of the Doppler redshift do not accommodate the expansion of space. Accurate derivation of the cosmological redshift requires the use of general relativity, and while a treatment using simpler Doppler effect arguments gives nearly identical results for nearby galaxies, interpreting the redshift of more distant galaxies as due to the simplest Doppler redshift treatments can cause confusion.[166]
+_Doppler redshift vs cosmological red-shift_: Astronomers often refer to the cosmological red-shift as a Doppler shift[164] which can lead to a misconception. Although similar, the cosmological red-shift is not identical to the classically derived Doppler redshift because most elementary derivations of the Doppler redshift do not accommodate the expansion of space. Accurate derivation of the cosmological redshift requires the use of general relativity, and while a treatment using simpler Doppler effect arguments gives nearly identical results for nearby galaxies, interpreting the redshift of more distant galaxies as due to the simplest Doppler redshift treatments can cause confusion.[165]
 
 
 Speculations
 
-While the Big Bang model is well established in cosmology, it is likely to be refined. The Big Bang theory, built upon the equations of classical general relativity, indicates a singularity at the origin of cosmic time; this infinite energy density is regarded as impossible in physics. Physics may conclude that time did not exist before the Big Bang so there might be no 'beginning' or 'before'.[167][168] In any case, the physical theories of general relativity and quantum mechanics as currently realized are not applicable before the Planck Epoch, and correcting this will require the development of a correct treatment of quantum gravity.[169]
+While the Big Bang model is well established in cosmology, it is likely to be refined. The Big Bang theory, built upon the equations of classical general relativity, indicates a singularity at the origin of cosmic time; this infinite energy density is regarded as impossible in physics. Physics may conclude that time did not exist before the Big Bang so there might be no 'beginning' or 'before'.[166][167] In any case, the physical theories of general relativity and quantum mechanics as currently realized are not applicable before the Planck Epoch, and correcting this will require the development of a correct treatment of quantum gravity.[168]
 
 It is not known what could have preceded the hot dense state of the early universe or how and why it originated, though speculation abounds as the subject of "cosmogony".
 
@@ -253,21 +251,21 @@ Some proposals, each of which entails untested hypotheses, are:
 
 -   Models including the Hartle–Hawking no-boundary condition, in which the whole of space-time is finite; the Big Bang does represent the limit of time but without any singularity.
 
--   Big Bang lattice model, states that the universe at the moment of the Big Bang consists of an infinite lattice of fermions, which is smeared over the fundamental domain so it has rotational, translational and gauge symmetry. The symmetry is the largest symmetry possible and hence the lowest entropy of any state.[170]
+-   Big Bang lattice model, states that the universe at the moment of the Big Bang consists of an infinite lattice of fermions, which is smeared over the fundamental domain so it has rotational, translational and gauge symmetry. The symmetry is the largest symmetry possible and hence the lowest entropy of any state.[169]
 -   Brane cosmology models, in which inflation is due to the movement of branes in string theory; the pre-Big Bang model; the ekpyrotic model, in which the Big Bang is the result of a collision between branes; and the cyclic model, a variant of the ekpyrotic model in which collisions occur periodically. In the latter model the Big Bang was preceded by a Big Crunch and the universe cycles from one process to the other.
 
-[171][172][173]
+[170][171][172]
 
 -   Eternal inflation, in which universal inflation ends locally here and there in a random fashion, each end-point leading to a _bubble universe_, expanding from its own big bang.
 
-[174]
+[173]
 
 Proposals in the last two categories see the Big Bang as an event in either a much larger and older universe or in a multiverse.
 
 
 Religious and philosophical interpretations
 
-As a description of the origin of the universe, the Big Bang has significant bearing on religion and philosophy.[175][176] As a result, it has become one of the liveliest areas in the discourse between science and religion.[177] Some believe the Big Bang implies a creator,[178][179] and some see its mention in their holy books,[180] while others argue that Big Bang cosmology makes the notion of a creator superfluous.[181][182]
+As a description of the origin of the universe, the Big Bang has significant bearing on religion and philosophy.[174][175] As a result, it has become one of the liveliest areas in the discourse between science and religion.[176] Some believe the Big Bang implies a creator,[177][178] and some see its mention in their holy books,[179] while others argue that Big Bang cosmology makes the notion of a creator superfluous.[180][181]
 
 
 See also
@@ -524,9 +522,9 @@ Category:Physical cosmology Category:Astrophysics theories Big_Bang Category:Phy
 
 [110]
 
-[111]
+[111] Kolb and Turner (1988), chapter 4
 
-[112] Kolb and Turner (1988), chapter 4
+[112]
 
 [113]
 
@@ -568,12 +566,12 @@ Category:Physical cosmology Category:Astrophysics theories Big_Bang Category:Phy
 
 [132]
 
-[133]
+[133] Kolb and Turner, chapter 6
 
-[134] Kolb and Turner, chapter 6
+[134]
+(Translated in _Journal of Experimental and Theoretical Physics Letters_ 5, 24 (1967).)
 
 [135]
-(Translated in _Journal of Experimental and Theoretical Physics Letters_ 5, 24 (1967).)
 
 [136]
 
@@ -593,9 +591,9 @@ Category:Physical cosmology Category:Astrophysics theories Big_Bang Category:Phy
 
 [144]
 
-[145]
+[145] Kolb and Turner (1988), chapter 8
 
-[146] Kolb and Turner (1988), chapter 8
+[146]
 
 [147]
 
@@ -611,9 +609,9 @@ Category:Physical cosmology Category:Astrophysics theories Big_Bang Category:Phy
 
 [153]
 
-[154]
+[154] Strictly, dark energy in the form of a cosmological constant drives the universe towards a flat state; however, our universe remained close to flat for several billion years before the dark energy density became significant.
 
-[155] Strictly, dark energy in the form of a cosmological constant drives the universe towards a flat state; however, our universe remained close to flat for several billion years before the dark energy density became significant.
+[155]
 
 [156]
 
@@ -621,9 +619,9 @@ Category:Physical cosmology Category:Astrophysics theories Big_Bang Category:Phy
 
 [158]
 
-[159]
+[159] .
 
-[160] .
+[160]
 
 [161]
 
@@ -666,5 +664,3 @@ Category:Physical cosmology Category:Astrophysics theories Big_Bang Category:Phy
 [180]
 
 [181]
-
-[182]

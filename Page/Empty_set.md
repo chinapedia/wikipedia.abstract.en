@@ -1,11 +1,11 @@
-Nullset.svg In mathematics, the EMPTY SET is the unique set having no elements; its size or cardinality (count of elements in a set) is zero. Some axiomatic set theories ensure that the empty set exists by including an axiom of empty set; in other theories, its existence can be deduced. Many possible properties of sets are vacuously true for the empty set.
+In mathematics, the EMPTY SET is the unique set having no elements; its size or cardinality (count of elements in a set) is zero. Some axiomatic set theories ensure that the empty set exists by including an axiom of empty set; in other theories, its existence can be deduced. Many possible properties of sets are vacuously true for the empty set.
 
 In some textbooks and popularizations, the empty set is referred to as the "null set". However _null set_ is a distinct notion within the context of measure theory. In that setting, it describes a set of measure zero; such a set is not necessarily empty. The empty set may also be called the _void set_. Common notations for the empty set include "{}", "∅", and "∅".
 
 
 Notation
 
-Empty_set.svg Common notations for the empty set include "{}", "∅", and "∅". The latter two symbols were introduced by the Bourbaki group (specifically André Weil) in 1939, inspired by the letter Ø in the Norwegian and Danish alphabets (and not related in any way to the Greek letter Φ).[1] In the past, "0" was occasionally used as a symbol for the empty set, but this is now considered to be an improper use of notation.[2]
+Common notations for the empty set include "{}", "∅", and "∅". The latter two symbols were introduced by the Bourbaki group (specifically André Weil) in 1939, inspired by the letter Ø in the Norwegian and Danish alphabets (and not related in any way to the Greek letter Φ).[1] In the past, "0" was occasionally used as a symbol for the empty set, but this is now considered to be an improper use of notation.[2]
 
 The symbol ∅ is available at Unicode point U+2205.[3] It can be coded in HTML as ∅ and as ∅. It can be coded in LaTeX as \varnothing. The symbol ∅ is coded in LaTeX as \emptyset.
 

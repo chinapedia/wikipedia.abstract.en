@@ -1,4 +1,4 @@
-Çevik_Bir_DD-SD-00-01007.jpg ÇEVIK BIR (born 1939) is a retired Turkish army general. He was a member of the Turkish General Staff in the 1990s. He took a major part in several important international missions in the Middle East and North Africa. He was born in Buca, Izmir Province, in 1939 and is married with one child.[1] Çevik Bir is of Albanian origin.[2]
+ÇEVIK BIR (born 1939) is a retired Turkish army general. He was a member of the Turkish General Staff in the 1990s. He took a major part in several important international missions in the Middle East and North Africa. He was born in Buca, Izmir Province, in 1939 and is married with one child.[1] Çevik Bir is of Albanian origin.[2]
 
 He graduated from the Turkish Military Academy as an engineer officer in 1958, from the Army Staff College in 1970 and from the Armed Forces College in 1971. He graduated from NATO Defense College, Rome, Italy in 1973.[3]
 

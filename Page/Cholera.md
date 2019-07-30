@@ -4,19 +4,19 @@ Cholera is caused by a number of types of _Vibrio cholerae_, with some types pro
 
 Prevention methods against cholera include improved sanitation and access to clean water.[18] Cholera vaccines that are given by mouth provide reasonable protection for about six months.[19] They have the added benefit of protecting against another type of diarrhea caused by _E. coli_.[20] The primary treatment is oral rehydration therapy—the replacement of fluids with slightly sweet and salty solutions.[21] Rice-based solutions are preferred.[22] Zinc supplementation is useful in children.[23] In severe cases, intravenous fluids, such as Ringer's lactate, may be required, and antibiotics may be beneficial.[24] Testing to see which antibiotic the cholera is susceptible to can help guide the choice.[25]
 
-Cholera affects an estimated 3–5 million people worldwide and causes 28,800–130,000 deaths a year.[26][27] Although it is classified as a pandemic , it is rare in the developed world.[28] Children are mostly affected.[29][30] Cholera occurs as both outbreaks and chronically in certain areas.[31] Areas with an ongoing risk of disease include Africa and Southeast Asia.[32] The risk of death among those affected is usually less than 5% but may be as high as 50%.[33] No access to treatment results in a higher death rate.[34] Descriptions of cholera are found as early as the 5th century BC in Sanskrit.[35] The study of cholera in England by John Snow between 1849 and 1854 led to significant advances in the field of epidemiology.[36][37] Seven large outbreaks have occurred over the last 200 years with millions of deaths.[38] Wikipedia-VideoWiki-Cholera.webm)]]
+Cholera affects an estimated 3–5 million people worldwide and causes 28,800–130,000 deaths a year.[26][27] Although it is classified as a pandemic , it is rare in the developed world.[28] Children are mostly affected.[29][30] Cholera occurs as both outbreaks and chronically in certain areas.[31] Areas with an ongoing risk of disease include Africa and Southeast Asia.[32] The risk of death among those affected is usually less than 5% but may be as high as 50%.[33] No access to treatment results in a higher death rate.[34] Descriptions of cholera are found as early as the 5th century BC in Sanskrit.[35] The study of cholera in England by John Snow between 1849 and 1854 led to significant advances in the field of epidemiology.[36][37] Seven large outbreaks have occurred over the last 200 years with millions of deaths.[38] )]]
 
 
 Signs and symptoms
 
-Cholera_feces.jpg The primary symptoms of cholera are profuse diarrhea and vomiting of clear fluid.[39] These symptoms usually start suddenly, half a day to five days after ingestion of the bacteria.[40] The diarrhea is frequently described as "rice water" in nature and may have a fishy odor.[41] An untreated person with cholera may produce of diarrhea a day.[42] Severe cholera, without treatment, kills about half of affected individuals.[43] If the severe diarrhea is not treated, it can result in life-threatening dehydration and electrolyte imbalances.[44] Estimates of the ratio of asymptomatic to symptomatic infections have ranged from 3 to 100.[45] Cholera has been nicknamed the "blue death"[46] because a person's skin may turn bluish-gray from extreme loss of fluids.[47]
+The primary symptoms of cholera are profuse diarrhea and vomiting of clear fluid.[39] These symptoms usually start suddenly, half a day to five days after ingestion of the bacteria.[40] The diarrhea is frequently described as "rice water" in nature and may have a fishy odor.[41] An untreated person with cholera may produce of diarrhea a day.[42] Severe cholera, without treatment, kills about half of affected individuals.[43] If the severe diarrhea is not treated, it can result in life-threatening dehydration and electrolyte imbalances.[44] Estimates of the ratio of asymptomatic to symptomatic infections have ranged from 3 to 100.[45] Cholera has been nicknamed the "blue death"[46] because a person's skin may turn bluish-gray from extreme loss of fluids.[47]
 
 Fever is rare and should raise suspicion for secondary infection. Patients can be lethargic, and might have sunken eyes, dry mouth, cold clammy skin, or wrinkled hands and feet. Kussmaul breathing, a deep and labored breathing pattern, can occur because of acidosis from stool bicarbonate losses and lactic acidosis associated with poor perfusion. Blood pressure drops due to dehydration, peripheral pulse is rapid and thready, and urine output decreases with time. Muscle cramping and weakness, altered consciousness, seizures, or even coma due to electrolyte imbalances are common, especially in children.[48]
 
 
 Cause
 
-Cholera_bacteria_SEM.jpg image of _Vibrio cholerae_]] Vibrio_cholerae.jpg'', the bacterium that causes cholera.]]
+image of _Vibrio cholerae_]] '', the bacterium that causes cholera.]]
 
 Transmission
 
@@ -39,7 +39,7 @@ The cystic fibrosis genetic mutation known as delta-F508 in humans has been said
 
 Mechanism
 
-Cholera_role_of_biofilm_in_intestinal_colonization.jpg in the intestinal colonization of _Vibrio cholerae_.]] When consumed, most bacteria do not survive the acidic conditions of the human stomach.[68] The few surviving bacteria conserve their energy and stored nutrients during the passage through the stomach by shutting down protein production. When the surviving bacteria exit the stomach and reach the small intestine, they must propel themselves through the thick mucus that lines the small intestine to reach the intestinal walls where they can attach and thrive.[69]
+in the intestinal colonization of _Vibrio cholerae_.]] When consumed, most bacteria do not survive the acidic conditions of the human stomach.[68] The few surviving bacteria conserve their energy and stored nutrients during the passage through the stomach by shutting down protein production. When the surviving bacteria exit the stomach and reach the small intestine, they must propel themselves through the thick mucus that lines the small intestine to reach the intestinal walls where they can attach and thrive.[69]
 
 Once the cholera bacteria reach the intestinal wall, they no longer need the flagella to move. The bacteria stop producing the protein flagellin to conserve energy and nutrients by changing the mix of proteins which they express in response to the changed chemical surroundings. On reaching the intestinal wall, _V. cholerae_ start producing the toxic proteins that give the infected person a watery diarrhea. This carries the multiplying new generations of _V. cholerae_ bacteria out into the drinking water of the next host if proper sanitation measures are not in place.
 
@@ -69,7 +69,7 @@ Infection with _V. cholerae_ O139 should be reported and handled in the same man
 
 Prevention
 
-It_doesn't_hurt,_but_it_tickles._A_U.S._Navy_hospital_corpsman,_member_of_a_USAID_military_health_team,_inoculates_a_flo_-_NARA_-_541855.jpg The World Health Organization (WHO) recommends focusing on prevention, preparedness, and response to combat the spread of cholera.[81] They also stress the importance of an effective surveillance system.[82] Governments can play a role in all of these areas.
+The World Health Organization (WHO) recommends focusing on prevention, preparedness, and response to combat the spread of cholera.[81] They also stress the importance of an effective surveillance system.[82] Governments can play a role in all of these areas.
 
 Although cholera may be life-threatening, prevention of the disease is normally straightforward if proper sanitation practices are followed. In developed countries, due to nearly universal advanced water treatment and sanitation practices present there, cholera is rare. For example, the last major outbreak of cholera in the United States occurred in 1910–1911.[83][84] Cholera is mainly a risk in developing countries.
 
@@ -86,11 +86,11 @@ File:Unsafe disposal of faecal sludge or sewage in Haiti (6458176073).jpg|Dumpin
 
 Surveillance
 
-Using_Precipitation_Data_to_Assess_Risk_of_Cholera_Outbreaks.webm Surveillance and prompt reporting allow for containing cholera epidemics rapidly. Cholera exists as a seasonal disease in many endemic countries, occurring annually mostly during rainy seasons. Surveillance systems can provide early alerts to outbreaks, therefore leading to coordinated response and assist in preparation of preparedness plans. Efficient surveillance systems can also improve the risk assessment for potential cholera outbreaks. Understanding the seasonality and location of outbreaks provides guidance for improving cholera control activities for the most vulnerable.[91] For prevention to be effective, it is important that cases be reported to national health authorities.[92]
+Surveillance and prompt reporting allow for containing cholera epidemics rapidly. Cholera exists as a seasonal disease in many endemic countries, occurring annually mostly during rainy seasons. Surveillance systems can provide early alerts to outbreaks, therefore leading to coordinated response and assist in preparation of preparedness plans. Efficient surveillance systems can also improve the risk assessment for potential cholera outbreaks. Understanding the seasonality and location of outbreaks provides guidance for improving cholera control activities for the most vulnerable.[91] For prevention to be effective, it is important that cases be reported to national health authorities.[92]
 
 Vaccine
 
-Euvichol-plus.jpg A number of safe and effective oral vaccines for cholera are available.[93] The World Health Organization (WHO) has three prequalified oral cholera vaccines (OCVs): Dukoral, Sanchol, and Euvichol. Dukoral, an orally administered, inactivated whole cell vaccine, has an overall efficacy of about 52% during the first year after being given and 62% in the second year, with minimal side effects.[94] It is available in over 60 countries. However, it is not currently recommended by the Centers for Disease Control and Prevention (CDC) for most people traveling from the United States to endemic countries.[95] The vaccine that the US Food and Drug Administration (FDA) recommends, Vaxchora, is an oral attenuated live vaccine, that is effective as a single dose.[96]
+A number of safe and effective oral vaccines for cholera are available.[93] The World Health Organization (WHO) has three prequalified oral cholera vaccines (OCVs): Dukoral, Sanchol, and Euvichol. Dukoral, an orally administered, inactivated whole cell vaccine, has an overall efficacy of about 52% during the first year after being given and 62% in the second year, with minimal side effects.[94] It is available in over 60 countries. However, it is not currently recommended by the Centers for Disease Control and Prevention (CDC) for most people traveling from the United States to endemic countries.[95] The vaccine that the US Food and Drug Administration (FDA) recommends, Vaxchora, is an oral attenuated live vaccine, that is effective as a single dose.[96]
 
 One injectable vaccine was found to be effective for two to three years. The protective efficacy was 28% lower in children less than five years old.[97] However, , it has limited availability.[98] Work is under way to investigate the role of mass vaccination.[99] The WHO recommends immunization of high-risk groups, such as children and people with HIV, in countries where this disease is endemic.[100] If people are immunized broadly, herd immunity results, with a decrease in the amount of contamination in the environment.[101]
 
@@ -101,7 +101,7 @@ An effective and relatively cheap method to prevent the transmission of cholera 
 
 Treatment
 
-Cholera_rehydration_nurses.jpg in 1992.]] Continued eating speeds the recovery of normal intestinal function. The WHO recommends this generally for cases of diarrhea no matter what the underlying cause.[107] A CDC training manual specifically for cholera states: "Continue to breastfeed your baby if the baby has watery diarrhea, even when traveling to get treatment. Adults and older children should continue to eat frequently."[108]
+in 1992.]] Continued eating speeds the recovery of normal intestinal function. The WHO recommends this generally for cases of diarrhea no matter what the underlying cause.[107] A CDC training manual specifically for cholera states: "Continue to breastfeed your baby if the baby has watery diarrhea, even when traveling to get treatment. Adults and older children should continue to eat frequently."[108]
 
 Fluids
 
@@ -142,7 +142,7 @@ Although much is known about the mechanisms behind the spread of cholera, this h
 
 History
 
-Africa_cholera2008b.jpg in sub-Saharan Africa showing the statistics as of 12 February 2009.]]
+in sub-Saharan Africa showing the statistics as of 12 February 2009.]]
 
 The word cholera is from _kholera_ from χολή _kholē_ "bile". Cholera likely has its origins in the Indian subcontinent as evidenced by its prevalence in the region for centuries.[147] Early outbreaks in the Indian subcontinent are believed to have been the result of poor living conditions as well as the presence of pools of still water, both of which provide ideal conditions for cholera to thrive.[148] The disease first spread by trade routes (land and sea) to Russia in 1817, later to the rest of Europe, and from Europe to North America and the rest of the world.[149] Seven cholera pandemics have occurred in the past 200 years, with the seventh pandemic originating in Indonesia in 1961.[150]
 
@@ -163,7 +163,7 @@ File:Cholera.jpg|Drawing of Death bringing cholera, in _Le Petit Journal_ (1912)
 
 Research
 
-Robert_Koch_(Deutsche_Cholera-Expedition_in_Ägypten_1884).jpg (third from the right) on a cholera research expedition in Egypt in 1884, one year after he identified _V. cholerae_.]] How_to_avoid_the_Cholera_1848.jpg; August 1849.]] The bacterium was isolated in 1854 by Italian anatomist Filippo Pacini,See:
+(third from the right) on a cholera research expedition in Egypt in 1884, one year after he identified _V. cholerae_.]] ; August 1849.]] The bacterium was isolated in 1854 by Italian anatomist Filippo Pacini,See:
 
 -   Fillipo Pacini (1854) "Osservazioni microscopiche e deduzioni patologiche sul cholera asiatico" (Microscopic observations and pathological deductions on Asiatic cholera), _Gazzetta Medica Italiana: Toscana_, 2nd series, 4 (50) : 397–401; 4 (51) : 405–412.
 -   Reprinted (more legibily) as a pamphlet. but its exact nature and his results were not widely known.

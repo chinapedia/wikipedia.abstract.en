@@ -12,7 +12,7 @@ Most commentators divide Numbers into three sections based on locale (Mount Sina
 
 Summary
 
-Figures.jpg, Levite, and furnishings of the Tabernacle]] God orders Moses, in the wilderness of Sinai, to number those able to bear arms—of all the men "from twenty years old and upward," and to appoint princes over each tribe. A total of 603,550 Israelites are found to be fit for military service. The tribe of Levi is exempted from military service and therefore not included in the census. Moses consecrates the Levites for the service of the Tabernacle in the place of the first-born sons, who hitherto had performed that service. The Levites are divided into three families, the Gershonites, the Kohathites, and the Merarites, each under a chief. The Kohathites were headed by Eleazar, son of Aaron, while the Gershonites and Merarites were headed by Aaron's other son, Ithamar. Preparations are then made for resuming the march to the Promised Land. Various ordinances and laws are decreed.
+, Levite, and furnishings of the Tabernacle]] God orders Moses, in the wilderness of Sinai, to number those able to bear arms—of all the men "from twenty years old and upward," and to appoint princes over each tribe. A total of 603,550 Israelites are found to be fit for military service. The tribe of Levi is exempted from military service and therefore not included in the census. Moses consecrates the Levites for the service of the Tabernacle in the place of the first-born sons, who hitherto had performed that service. The Levites are divided into three families, the Gershonites, the Kohathites, and the Merarites, each under a chief. The Kohathites were headed by Eleazar, son of Aaron, while the Gershonites and Merarites were headed by Aaron's other son, Ithamar. Preparations are then made for resuming the march to the Promised Land. Various ordinances and laws are decreed.
 
 The Israelites set out from Sinai. The people murmur against God and are punished by fire; Moses complains of their stubbornness and is ordered to choose seventy elders to assist him in the government of the people. Miriam and Aaron insult Moses at Hazeroth, which angers God; Miriam is punished with leprosy and is shut out of camp for seven days, at the end of which the Israelites proceed to the desert of Paran on the border of Canaan. Twelve spies are sent out into Canaan and come back to report to Moses. Joshua and Caleb, two of the spies, report that the land is abundant and is "flowing with milk and honey", but the other spies say that it is inhabited by giants, and the Israelites refuse to enter the land. Yahweh decrees that the Israelites will be punished for their loss of faith by having to wander in the wilderness for 40 years.
 
@@ -25,7 +25,7 @@ The Israelites arrive on the plains of Moab. A new census gives the total number
 
 Composition
 
-Nuremberg_chronicles_f_30r_2.png and the Angel (illustration from the 1493 _Nuremberg Chronicle_)]]
+and the Angel (illustration from the 1493 _Nuremberg Chronicle_)]]
 
 The majority of modern biblical scholars believe that the Torah (the books of Genesis, Exodus, Leviticus, Numbers, and Deuteronomy) reached its present form in the post-Exilic period (i.e., after c.520 BCE), based on pre-existing written and oral traditions, as well as contemporary geographical and political realities.[1][2] The five books are often described as being drawn from four "sources" - schools of writers rather than individuals - the Yahwist and the Elohist (frequently treated as a single source), the Priestly source and the Deuteronomist. There is an ongoing dispute over the origins of the non-Priestly source(s), but it is generally agreed that the Priestly source is post-exilic.
 
@@ -37,8 +37,6 @@ The majority of modern biblical scholars believe that the Torah (the books of Ge
 
 
 Themes
-
-_Figures_A_Plague_Inflicted_on_Israel_While_Eating_the_Quails.jpg
 
 David A. Clines, in his influential _The Themes of the Pentateuch_ (1978), identified the overarching theme of the five books as the partial fulfilment of a promise made by God to the patriarchs, Abraham, Isaac and Jacob. The promise has three elements: posterity (i.e., descendants – Abraham is told that his descendants will be as innumerable as the stars), divine-human relationship (Israel is to be God's chosen people), and land (the land of Canaan, cursed by Noah immediately after the Deluge).
 

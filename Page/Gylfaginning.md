@@ -1,4 +1,4 @@
-Manuscript_Gylfi.jpg]]
+]]
 
 _GYLFAGINNING_ (Old Norse pronunciation [ˈɟʏlvaˌɟɪnːɪŋg]; ; either _Tricking of Gylfi_; c. 20,000 words), is the first part of Snorri Sturluson's 13th century _Prose Edda_ after Prologue. The _Gylfaginning_ deals with the creation and destruction of the world of the Norse gods, and many other aspects of Norse mythology. The second part of the Prose Edda is called the _Skáldskaparmál_ and the third _Háttatal_.
 

@@ -73,7 +73,7 @@ Part V
 
 Mr. and Mrs. Butler honeymoon in New Orleans, spending lavishly. Upon returning to Atlanta, they stay in the bridal suite at the National Hotel while their new home on Peachtree Street is being built. Scarlett chooses a modern Swiss chalet style home like the one she saw in _Harper's Weekly_, with red wallpaper, thick red carpet, and black walnut furniture. Rhett describes it as an "architectural horror".[30] Shortly after they move in to their new home, the sardonic jabs between them turn into full-blown quarrels. Scarlett wonders why Rhett married her. Then "with real hate in her eyes",[31] she tells Rhett she will have a baby, which she does not want.
 
-The_Bonnie_Blue_Flag_-_Project_Gutenberg_eText_21566.jpg, is an 1861 marching song that refers to the first unofficial flag of the Confederacy.]]
+, is an 1861 marching song that refers to the first unofficial flag of the Confederacy.]]
 
 Wade is seven years old in 1869 when his half-sister, Eugenie Victoria, named after two queens, is born. She has blue eyes like Gerald O'Hara, and Melanie nicknames her, "Bonnie Blue," in reference to the Bonnie Blue Flag of the Confederacy.
 
@@ -163,7 +163,7 @@ In the fall of 1862, Confederate laws were changed to permit women to be employe
 
 Battles
 
-Battle_of_Kenesaw_Mountian.png The Civil War came to an end on April 26, 1865 when Confederate General Johnston surrendered his armies in the Carolinas Campaign to Union General Sherman. Several battles are mentioned or depicted in _Gone with the Wind_.
+The Civil War came to an end on April 26, 1865 when Confederate General Johnston surrendered his armies in the Carolinas Campaign to Union General Sherman. Several battles are mentioned or depicted in _Gone with the Wind_.
 
 Early and mid war years
 
@@ -181,7 +181,7 @@ Early and mid war years
 
 Atlanta Campaign
 
-Atlanta_campaign.svg The Atlanta Campaign (May–September 1864) took place in northwest Georgia and the area around Atlanta.
+The Atlanta Campaign (May–September 1864) took place in northwest Georgia and the area around Atlanta.
 
 Confederate General Johnston fights and retreats from Dalton (May 7–13)[85] to Resaca (May 13–15) to Kennesaw Mountain (June 27). Union General Sherman suffers heavy losses to the entrenched Confederate army. Unable to pass through Kennesaw, Sherman swings his men around to the Chattahoochee River where the Confederate army is waiting on the opposite side of the river. Once again, General Sherman flanks the Confederate army, forcing Johnston to retreat to Peachtree Creek (July 20), five miles northeast of Atlanta.
 
@@ -298,7 +298,7 @@ Ralph Thompson, a book reviewer for _The New York Times_, was critical of the le
 
   I happen to feel that the book would have been infinitely better had it been edited down to say, 500 pages, but there speaks the harassed daily reviewer as well as the would-be judicious critic. Very nearly every reader will agree, no doubt, that a more disciplined and less prodigal piece of work would have more nearly done justice to the subject-matter.[218]
 
-Some reviewers compared the book to William Thackeray's _Vanity Fair_ and Leo Tolstoy's _War and Peace_. Mitchell herself claimed Charles Dickens as an inspiration and called _Gone with the Wind_ a "Victorian' type novel."[219]Gone_with_the_Wind_three_dollars.jpg for the second year in a row.[220]]]
+Some reviewers compared the book to William Thackeray's _Vanity Fair_ and Leo Tolstoy's _War and Peace_. Mitchell herself claimed Charles Dickens as an inspiration and called _Gone with the Wind_ a "Victorian' type novel."[219] for the second year in a row.[220]]]
 
 Scholarship: Racial, ethnicity and social issues
 
@@ -340,7 +340,7 @@ _Gone with the Wind_ has been adapted several times for stage and screen:
 
 In popular culture
 
-Women's_Press_Club_skit.jpg _Gone with the Wind_ has appeared in many places and forms in popular culture:
+_Gone with the Wind_ has appeared in many places and forms in popular culture:
 
 Books, television and more
 
@@ -351,8 +351,6 @@ Books, television and more
 -   _MAD_ magazine created a parody of the novel, "Groan With the Wind" (1991),[257] in which Ashley was renamed "Ashtray" and Rhett became "Rhetch." It ends with Rhetch and Ashtray running off together.[258]
 -   A pictorial parody in which the slaves are white and the protagonists are black appeared in a 1995 issue of _Vanity Fair_ titled, "Scarlett 'n the Hood".[259]
 -   In a _MADtv_ comedy sketch (2007),[260] "Slave Girl #8" introduces three alternative endings to the film. In one ending, Scarlett pursues Rhett wearing a jet pack.[261]
-
-Curtain_Dress.JPG
 
 Collectibles
 
@@ -388,7 +386,7 @@ On August 16, 2012, the Archdiocese of Atlanta announced that it had been bequea
 
 Original manuscript
 
-Crescent_Apartments,_Atlanta,_Georgia.jpg.]]
+.]]
 
 Although some of Mitchell's papers and documents related to the writing of _Gone with the Wind_ were burned after her death, many documents, including assorted draft chapters, were preserved.[277] The last four chapters of the novel are held by the Pequot Library of Southport, Connecticut.[278]
 

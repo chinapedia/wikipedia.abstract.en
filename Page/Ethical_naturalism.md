@@ -36,7 +36,7 @@ Ethical naturalism has been criticized most prominently by ethical non-naturalis
 
 Moral relativism
 
-When it comes to the moral questions that we might ask, it can be difficult to argue that there is not necessarily some level of meta-ethical relativism – and failure to address this matter is criticized as ethnocentrism. The_punishment_of_Bessus_by_Andre_Castaigne_(1898-1899).jpg
+When it comes to the moral questions that we might ask, it can be difficult to argue that there is not necessarily some level of meta-ethical relativism – and failure to address this matter is criticized as ethnocentrism.
 
 As a broad example of relativism, we would no doubt see very different moral systems in an alien race that can only survive by occasionally ingesting one another. As a narrow example, there would be further specific moral opinions for each individual of that species.
 
@@ -51,7 +51,7 @@ Morality as a science
 
 Author Sam Harris has argued that we overestimate the relevance of many arguments against the science of morality, arguments he believes scientists happily and rightly disregard in other domains of science like physics. For example, scientists may find themselves attempting to argue against philosophical skeptics, when Harris says they should be practically asking – as they would in any other domain – "why would we listen to a solipsist in the first place?" This, Harris contends, is part of what it means to practice a science of morality.
 
-Shishapangma.jpg In modern times, many thinkers discussing the fact–value distinction and the is–ought problem have settled on the idea that one cannot derive _ought_ from _is_. Conversely, Harris maintains that the fact-value distinction is a confusion, proposing that values are really a certain kind of fact. Specifically, Harris suggests that values amount to empirical statements about "the flourishing of conscious creatures in a society". He argues that there are objective answers to moral questions, even if some are difficult or impossible to possess in practice. In this way, he says, science can tell us what to value. Harris adds that we do not demand absolute certainty from predictions in physics, so we should not demand that of a science studying morality (see _The Moral Landscape_).
+In modern times, many thinkers discussing the fact–value distinction and the is–ought problem have settled on the idea that one cannot derive _ought_ from _is_. Conversely, Harris maintains that the fact-value distinction is a confusion, proposing that values are really a certain kind of fact. Specifically, Harris suggests that values amount to empirical statements about "the flourishing of conscious creatures in a society". He argues that there are objective answers to moral questions, even if some are difficult or impossible to possess in practice. In this way, he says, science can tell us what to value. Harris adds that we do not demand absolute certainty from predictions in physics, so we should not demand that of a science studying morality (see _The Moral Landscape_).
 
 Physicist Sean Carroll believes that conceiving of morality as a science could be a case of scientific imperialism and insists that what is "good for conscious creatures" is not an adequate working definition of "moral".[7] In opposition, Vice President at the Center for Inquiry, John Shook, claims that this working definition is more than adequate for science at present, and that disagreement should not immobilize the scientific study of ethics.[8]
 

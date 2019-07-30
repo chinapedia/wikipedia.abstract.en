@@ -15,7 +15,7 @@ Corona Australis is a small constellation bordered by Sagittarius to the north, 
 
 Features
 
-Constellation_Corona_Australis.jpg While not a bright constellation, Corona Australis is nonetheless distinctive due to its easily identifiable pattern of stars, which has been described as horseshoe- or oval-shaped. Though it has no stars brighter than 4th magnitude, it still has 21 stars visible to the unaided eye (brighter than magnitude 5.5). Nicolas Louis de Lacaille used the Greek letters Alpha through to Lambda to label the most prominent eleven stars in the constellation, designating two stars as Eta and omitting Iota altogether. Mu Coronae Australis, a yellow star of spectral type G5.5III and apparent magnitude 5.21, was labelled by Johann Elert Bode and retained by Benjamin Gould, who deemed it bright enough to warrant naming.
+While not a bright constellation, Corona Australis is nonetheless distinctive due to its easily identifiable pattern of stars, which has been described as horseshoe- or oval-shaped. Though it has no stars brighter than 4th magnitude, it still has 21 stars visible to the unaided eye (brighter than magnitude 5.5). Nicolas Louis de Lacaille used the Greek letters Alpha through to Lambda to label the most prominent eleven stars in the constellation, designating two stars as Eta and omitting Iota altogether. Mu Coronae Australis, a yellow star of spectral type G5.5III and apparent magnitude 5.21, was labelled by Johann Elert Bode and retained by Benjamin Gould, who deemed it bright enough to warrant naming.
 
 Stars
 
@@ -27,7 +27,7 @@ Zeta Coronae Australis is a rapidly rotating main sequence star with an apparent
 
 Deep sky objects
 
-R_Coronae_Australis_region.jpg's La Silla Observatory. According to ESO, "The light blue nebulosity seen in this picture is mostly due to the reflection of starlight off small dust particles." "A prominent dark lane crosses the image from the centre to the bottom left. Here the visible light emitted by the stars that are forming inside the cloud is completely absorbed by the dust. These objects could only be detected by observing at longer wavelengths, by using a camera that can detect infrared radiation."]]
+'s La Silla Observatory. According to ESO, "The light blue nebulosity seen in this picture is mostly due to the reflection of starlight off small dust particles." "A prominent dark lane crosses the image from the centre to the bottom left. Here the visible light emitted by the stars that are forming inside the cloud is completely absorbed by the dust. These objects could only be detected by observing at longer wavelengths, by using a camera that can detect infrared radiation."]]
 
 In the north of the constellation is the Corona Australis Molecular Cloud, a dark molecular cloud with many embedded reflection nebulae, including NGC 6729, NGC 6726–7, and IC 4812. A star-forming region of around , it contains Herbig–Haro objects (protostars) and some very young stars. About 430 light years (130 parsecs) away, it is one of the closest star-forming regions to the Solar System. The related NGC 6726 and 6727, along with unrelated NGC 6729, were first recorded by Johann Friedrich Julius Schmidt in 1865. The Coronet cluster, about 554 light years (170 parsecs) away at the edge of the Gould Belt, is also used in studying star and protoplanetary disk formation.[5]
 
@@ -48,7 +48,7 @@ The Corona Australids are a meteor shower that takes place between 14 and 18 Mar
 
 History
 
-Cororna_Australis.jpg'' of John Flamsteed]]
+'' of John Flamsteed]]
 
 Corona Australis may have been recorded by ancient Mesopotamians in the MUL.APIN, as a constellation called MA.GUR ("The Bark"). However, this constellation, adjacent to SUHUR.MASH ("The Goat-Fish", modern Capricornus), may instead have been modern Epsilon Sagittarii. As a part of the southern sky, MA.GUR was one of the fifteen "stars of Ea".
 

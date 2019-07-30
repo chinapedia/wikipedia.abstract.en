@@ -1,4 +1,4 @@
-10_French_centimes_1963_(1).jpg 10_French_centimes_1963_(2).jpg CENTIME (from ) is French for "cent", and is used in English as the name of the fraction currency in several Francophone countries (including Switzerland, Algeria, Belgium, Morocco and France).
+CENTIME (from ) is French for "cent", and is used in English as the name of the fraction currency in several Francophone countries (including Switzerland, Algeria, Belgium, Morocco and France).
 
 In France the usage of _centime_ goes back to the introduction of the decimal monetary system under Napoleon. This system aimed at replacing non-decimal fractions of older coins. A five-centime coin was known as a _sou_, i.e. a solidus or shilling.
 

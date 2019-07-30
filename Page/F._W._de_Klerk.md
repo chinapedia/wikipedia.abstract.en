@@ -44,8 +44,6 @@ P. W. Botha resigned as leader of the National Party after an apparent stroke, a
 
 Becoming State President
 
-Frederik_Willem_de_Klerk_1990.jpg
-
 Botha resigned on 14 August, and de Klerk was named acting state president until 20 September, when he was elected to a full five-year term as state president. After he became acting president, ANC leaders spoke out against him, believing that he would be no different from his predecessors; he was widely regarded as a staunch supporter of apartheid. The prominent anti-apartheid activist Desmond Tutu shared this assessment, stating: "I don't think we've got to even begin to pretend that there is any reason for thinking that we are entering a new phase. It's just musical chairs". Tutu and Allan Boesak had been planning a protest march in Cape Town, which the security chiefs wanted to prevent. De Klerk nevertheless turned down their proposal to ban it, agreeing to let the march proceed and stating that "the door to a new South Africa is open, it is not necessary to batter it down". The march took place and was attended by approximately 30,000 people. Further protest marches followed in Grahamstown, Johannesburg, Pretoria, and Durban. De Klerk later noted that his security forces could not have prevented the marchers from gathering: "The choice, therefore, was between breaking up an illegal march with all of the attendant risks of violence and negative publicity, or of allowing the march to continue, subject to conditions that could help to avoid violence and ensure good public order." This decision marked a clear departure from the approach of the Botha era.
 
 As President, he authorised the continuation of secret talks in Geneva between his National Intelligence Service and two exiled ANC leaders, Thabo Mbeki and Jacob Zuma. In October, he personally agreed to meet with Tutu, Boesak, and Frank Chikane in a private meeting in Pretoria. That month, he also released a number of elderly anti-apartheid activists then imprisoned, including Walter Sisulu. He also ordered the closure of the National Security Management System. In December he visited Mandela in prison, speaking with him for three hours about the idea of transitioning away from white-minority rule. The collapse of the Eastern Bloc and the dissolution of the Soviet Union meant that he no longer feared that Marxists would manipulate the ANC. As he later related, the collapse of "the Marxist economic system in Eastern Europe... serves as a warning to those who insist on persisting with it in Africa. Those who seek to force this failure of a system on South Africa should engage in a total revision of their point of view. It should be clear to all that it is not the answer here either."
@@ -60,7 +58,7 @@ In legislative terms, he enabled the gradual end of apartheid. De Klerk also ope
 
 Negotiations toward universal suffrage
 
-Frederik_de_Klerk_with_Nelson_Mandela_-_World_Economic_Forum_Annual_Meeting_Davos_1992.jpg held in Davos in January 1992.]]
+held in Davos in January 1992.]]
 
 His presidency was dominated by the negotiation process, mainly between his NP government and the ANC, which led to the democratization of South Africa. Throughout the negotiations, de Klerk primarily sought to prevent majority rule to preserve power for the white South African minority. His efforts, however, were thwarted when the Boipatong massacre caused a resurgence of international pressure against South Africa, leading to a weaker position at the negotiation tables for the National party.[11] In 1992, de Klerk held a whites-only referendum on ending apartheid, with the result being an overwhelming "yes" vote to continue negotiations to end apartheid. Nelson Mandela was distrustful of the role played by de Klerk in the negotiations, particularly as he believed that de Klerk was knowledgeable about 'third force' attempts to foment violence in the country and destabilize the negotiations.[12]
 
@@ -85,8 +83,6 @@ Many in the National Party—including many members of its executive committee�
 
 Truth and Reconciliation Commission
 
-Desmond_Tutu,_1986_Jan_(cropped).jpg
-
 In de Klerk's view, his greatest defeat in the negotiations with Mandela had been his inability to secure a blanket amnesty for all those working for the government or state during the apartheid period. De Klerk was unhappy with the formation of the Truth and Reconciliation Commission (TRC). He had hoped that the TRC would be made up of an equal number of individuals from both the old and new governments, as there had been in the Chilean human rights commission. Instead, the TRC was designed to broadly reflect the wider diversity of South African society, and contained only two members who had explicitly supported apartheid, one a member of a right-wing group that had opposed de Klerk's National Party. De Klerk did not object to Tutu being selected as the TRC's chair for he regarded him as politically independent of Mandela's government, but he was upset that Alex Boraine had been selected as its deputy chair, later saying of Boraine: "beneath an urbane and deceptively affable exterior beat the heart of a zealot and an inquisitor."
 
 De Klerk appeared before the TRC hearing to testify for Vlakplaas commanders who were accused of having committed human rights abuses during the apartheid era. He acknowledged that security forces had resorted to "unconventional strategies" in dealing with anti-apartheid revolutionaries, but that "within my knowledge and experience, they never included the authorisation of assassination, murder, torture, rape, assault or the like". After further evidence of said abuses was produced by the commission, de Klerk stated that he found the revelations to be "as shocking and as abhorrent as anybody else" but insisted that he and other senior party members were not willing to accept responsibility for the "criminal actions of a handful of operatives", stating that their behaviour was "not authorised [and] not intended" by his government. Given the widespread and systemic nature of the abuses that had taken place, as well as statements by security officers that their actions had been sanctioned by higher ranking figures, Tutu questioned how de Klerk and other government figures could not have been aware of them. Tutu had hoped that de Klerk or another senior white political figure from the apartheid era would openly accept responsibility for the human rights abuses, thereby allowing South Africa to move on; this was something that de Klerk would not do.
@@ -98,7 +94,7 @@ Later life
 
 In 1996, de Klerk was offered the Harper Fellowship at Yale Law School. He declined, citing protests at the university.[19] De Klerk did, however, speak at Central Connecticut State University the day before his fellowship would have begun.
 
-Secretary_Clinton_Meets_With_Former_South_African_President_F.W._de_Klerk.jpg in 2012.]]
+in 2012.]]
 
 In 1998, de Klerk and his wife of 38 years, Marike de Klerk, were divorced following the discovery of his affair with Elita Georgiades,[20] then the wife of Tony Georgiades, a Greek shipping tycoon who had allegedly given de Klerk and the NP financial support.[21] Soon after his divorce, de Klerk and Georgiades were married. His divorce and remarriage scandalised conservative South African opinion, especially among the Calvinist Afrikaners. In 1999, his autobiography, _The Last Trek – A New Beginning_, was published. In 2001, following the murder of his former wife, the manuscript of her own autobiography, _A Place Where the Sun Shines Again_, was submitted to de Klerk, who urged the publishers to suppress a chapter dealing with his infidelity.[22]
 
@@ -116,7 +112,7 @@ In 2006, he underwent surgery for a malignant tumour in his colon, discovered af
 
 In January 2007, de Klerk was a speaker promoting peace and democracy in the world at the "Towards a Global Forum on New Democracies" event in Taipei, Taiwan, along with other dignitaries including Poland's Lech Wałęsa and Taiwan's then president Chen Shui-Bian.[31]
 
-Frederik_Willem_de_Klerk_with_Reuven_Rivlin.jpg in 2015]]
+in 2015]]
 
 De Klerk is an Honorary Patron of the University Philosophical Society of Trinity College, Dublin, and Honorary Chairman of the Prague Society for International Cooperation.[32] He has also received the Gold Medal for Outstanding Contribution to Public Discourse from the College Historical Society of Trinity College, Dublin, for his contribution to ending apartheid.
 
@@ -133,7 +129,7 @@ In 2015, de Klerk wrote to _The Times_ newspaper in the UK criticising moves to 
 
 Ideology
 
-FW_de_Klerk_Bust.jpeg, Pretoria]] De Klerk was widely regarded as a politically conservative figure in South Africa. At the same time, he was flexible rather than dogmatic in his approach to political issues. He often hedged his bets and sought to accommodate divergent perspectives, favouring compromise over confrontation. Within the National Party, he continually strove for unity, coming to be regarded—according to his brother—as "a party man, a veritable Mr National Party". To stem defections from the right-wing end of the National Party, he made "ultra-conservative noises". This general approach led to the perception that he was "trying to be all things to all men".
+, Pretoria]] De Klerk was widely regarded as a politically conservative figure in South Africa. At the same time, he was flexible rather than dogmatic in his approach to political issues. He often hedged his bets and sought to accommodate divergent perspectives, favouring compromise over confrontation. Within the National Party, he continually strove for unity, coming to be regarded—according to his brother—as "a party man, a veritable Mr National Party". To stem defections from the right-wing end of the National Party, he made "ultra-conservative noises". This general approach led to the perception that he was "trying to be all things to all men".
 
 De Klerk stated that within the party, he "never formed part of a political school of thought, and I deliberately kept out of the cliques and foments of the enlightened and conservative factions in the party. If the policy I propounded was ultra-conservative, then that was the policy; it was not necessarily I who was ultra-conservative. I saw my role in the party as that of an interpreter of the party's real median policy at any stage." De Klerk stated that "The silver thread throughout my career was my advocacy of National Party policy in all its various formulations. I refrained from adjusting that policy or adapting it to my own liking or convictions. I analysed it as it was formulated, to the letter."
 

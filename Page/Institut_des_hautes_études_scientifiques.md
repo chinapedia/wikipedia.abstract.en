@@ -1,5 +1,3 @@
-IHES_main_building.jpg
-
 The INSTITUT DES HAUTES ÉTUDES SCIENTIFIQUES (IHÉS; English: Institute of Advanced Scientific Studies) is a French institute supporting advanced research in mathematics and theoretical physics. It is located in Bures-sur-Yvette just south of Paris. It is now part of the federal University of Paris-Saclay as an advanced studies institute.
 
 
@@ -16,13 +14,13 @@ IHÉS celebrated its 40th anniversary in 1998[3] and its 50th in 2008.[4][5]
 
 Directors
 
-  Image                   Name                      Timespan
-  ----------------------- ------------------------- ----------------
-                          Léon Motchane             (1958–1971)
-  100 px                  Nicolaas Kuiper           (1971–1985)
-  100 px                  Marcel Berger             (1985–1994)
-  100 px                  Jean-Pierre Bourguignon   (1994–2013)
-  Emmanuel_Ullmo.jpg[6]   Emmanuel Ullmo            (2013–present)
+  Image   Name                      Timespan
+  ------- ------------------------- ----------------
+          Léon Motchane             (1958–1971)
+          Nicolaas Kuiper           (1971–1985)
+          Marcel Berger             (1985–1994)
+          Jean-Pierre Bourguignon   (1994–2013)
+  [6]     Emmanuel Ullmo            (2013–present)
 
 
 

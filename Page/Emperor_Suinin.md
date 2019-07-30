@@ -14,7 +14,7 @@ There were other events during Suinin's reign as well that include a Asama Shrin
 
 Known information
 
-SuininTennoRyo.jpg]] Emperor Suinin is regarded by historians as a "legendary Emperor" as there is insufficient material available for further verification and study.[15] Unlike Emperor Sujin, there is less known about Suinin to possibly support his existence. In either case (fictional or not), the name Suinin_-tennō_ was assigned to him posthumously by later generations.[16] His name might have been regularized centuries after the lifetime ascribed to Suinin, possibly during the time in which legends about the origins of the Yamato dynasty were compiled as the chronicles known today as the _Kojiki_.[17] Suinin's longevity was also written down by later compliers, who may have unrealistically extended his age to fill in time gaps.[18] While the actual site of Suinin's grave is not known, the Emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Nishi-machi, Amagatsuji, Nara City. The Imperial Household Agency designates this location as Suinin's mausoleum, and is formally named _Sugawara no Fushimi no higashi no misasagi_.[19][20]
+]] Emperor Suinin is regarded by historians as a "legendary Emperor" as there is insufficient material available for further verification and study.[15] Unlike Emperor Sujin, there is less known about Suinin to possibly support his existence. In either case (fictional or not), the name Suinin_-tennō_ was assigned to him posthumously by later generations.[16] His name might have been regularized centuries after the lifetime ascribed to Suinin, possibly during the time in which legends about the origins of the Yamato dynasty were compiled as the chronicles known today as the _Kojiki_.[17] Suinin's longevity was also written down by later compliers, who may have unrealistically extended his age to fill in time gaps.[18] While the actual site of Suinin's grave is not known, the Emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Nishi-machi, Amagatsuji, Nara City. The Imperial Household Agency designates this location as Suinin's mausoleum, and is formally named _Sugawara no Fushimi no higashi no misasagi_.[19][20]
 
 While the Ise Grand Shrine is traditionally said to have been established in the 1st century BC, other dates in the 3rd and 4th centuries have also been put forward for the establishment of Naikū and Gekū respectively.[21] The first shrine building at Naikū was allegedly erected by Emperor Tenmu (678-686), with the first ceremonial rebuilding being carried out by his wife, Empress Jitō, in 692.[22] Outside of the Kiki, the reign of Emperor Kinmei ( – 571 AD) is the first for which contemporary historiography has been able to assign verifiable dates.[23] The conventionally accepted names and dates of the early Emperors were not confirmed as "traditional" though, until the reign of Emperor Kanmu between 737 and 806 AD.[24]
 
@@ -115,7 +115,7 @@ Notes
 
 References
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 Further reading

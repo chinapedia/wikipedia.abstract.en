@@ -1,4 +1,4 @@
-Bernardo_Ochino.png BERNARDINO OCHINO (1487–1564) was an Italian, who was raised a Roman Catholic and later turned to Protestantism and became a Protestant reformer.
+BERNARDINO OCHINO (1487–1564) was an Italian, who was raised a Roman Catholic and later turned to Protestantism and became a Protestant reformer.
 
 
 Biography
@@ -7,7 +7,7 @@ Bernardino Ochino was born in Siena, the son of the barber Domenico Ochino, and 
 
 Transfer to the Capuchins
 
-Ochino.jpg At the age of 38, Ochino transferred himself in 1534 to the newly founded Order of Friars Minor Capuchin. By then he was the close friend of Juan de Valdés, Pietro Bembo, Vittoria Colonna, Pietro Martire, Carnesecchi. In 1538 he was elected vicar-general of his order. In 1539, urged by Bembo, he visited Venice and delivered a course of sermons showing a sympathy with justification by faith, which appeared more clearly in his _Dialogues_ published the same year. He was suspected and denounced, but nothing ensued until the establishment of the Inquisition in Rome in June 1542, at the instigation of Cardinal Giovanni Pietro Carafa. Ochino received a citation to Rome, and set out to obey it about the middle of August. According to his own statement, he was deterred from presenting himself at Rome by the warnings of Cardinal Contarini, whom he found at Bologna, dying of poison administered by the reactionary party.
+At the age of 38, Ochino transferred himself in 1534 to the newly founded Order of Friars Minor Capuchin. By then he was the close friend of Juan de Valdés, Pietro Bembo, Vittoria Colonna, Pietro Martire, Carnesecchi. In 1538 he was elected vicar-general of his order. In 1539, urged by Bembo, he visited Venice and delivered a course of sermons showing a sympathy with justification by faith, which appeared more clearly in his _Dialogues_ published the same year. He was suspected and denounced, but nothing ensued until the establishment of the Inquisition in Rome in June 1542, at the instigation of Cardinal Giovanni Pietro Carafa. Ochino received a citation to Rome, and set out to obey it about the middle of August. According to his own statement, he was deterred from presenting himself at Rome by the warnings of Cardinal Contarini, whom he found at Bologna, dying of poison administered by the reactionary party.
 
 Escape to Geneva
 

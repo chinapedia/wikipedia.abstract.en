@@ -1,4 +1,4 @@
-Labour_productivity_levels_in_Europe._OECD,_2015.png level of Greece is one of the lowest in EU. OECD, 2015[1]]] The ECONOMY OF GREECE is the 51st largest in the world with a nominal gross domestic product (GDP) of $218.032 billion per annum.[2] It is also the 55th largest in the world by purchasing power parity, at $320.474 billion per annum.[3] As of 2018, Greece is the seventeenth-largest economy in the 28-member European Union.[4] According to IMF estimates for 2018, Greece's GDP per capita was $20,408 at nominal value and $29,123 at purchasing power parity.[5]
+level of Greece is one of the lowest in EU. OECD, 2015[1]]] The ECONOMY OF GREECE is the 51st largest in the world with a nominal gross domestic product (GDP) of $218.032 billion per annum.[2] It is also the 55th largest in the world by purchasing power parity, at $320.474 billion per annum.[3] As of 2018, Greece is the seventeenth-largest economy in the 28-member European Union.[4] According to IMF estimates for 2018, Greece's GDP per capita was $20,408 at nominal value and $29,123 at purchasing power parity.[5]
 
 Greece is a developed country with an economy based on the service (80%) and industrial sectors (16%), with the agricultural sector contributing an estimated 4% of national economic output in 2017.[6] Important Greek industries include tourism and shipping. With 18 million international tourists in 2013, Greece was the 7th most visited country in the European Union and 16th in the world.[7] The Greek Merchant Navy is the largest in the world, with Greek-owned vessels accounting for 15% of global deadweight tonnage as of 2013.[8] The increased demand for international maritime transportation between Greece and Asia has resulted in unprecedented investment in the shipping industry.[9]
 
@@ -25,8 +25,6 @@ Greece's main industries are tourism, shipping, industrial products, food and to
 
 Greece is ranked 59th in the world on the Corruption Perceptions Index alongside Romania, with only Hungary and Bulgaria scoring worse among EU member states.[52] Greece also has the EU's lowest Index of Economic Freedom and second lowest Global Competitiveness Index, ranking 115th and 57th in the world respectively.[53][54]
 
-Greece_GDP_growth_1961-2010.svg
-
 After fourteen consecutive years of economic growth, Greece went into recession in 2008.[55] By the end of 2009, the Greek economy faced the highest budget deficit and government debt-to-GDP ratio in the EU. After several upward revisions, the 2009 budget deficit is now estimated at 15.7% of GDP.[56] This, combined with rapidly rising debt levels (127.9% of GDP in 2009) led to a precipitous increase in borrowing costs, effectively shutting Greece out of the global financial markets and resulting in a severe economic crisis.[57]
 
 Greece was accused of trying to cover up the extent of its massive budget deficit in the wake of the global financial crisis.[58] The allegation was prompted by the massive revision of the 2009 budget deficit forecast by the new PASOK government elected in October 2009, from "6–8%" (estimated by the previous New Democracy government) to 12.7% (later revised to 15.7%). However, the accuracy of the revised figures has also been questioned, and in February 2012 the Hellenic Parliament voted in favor of an official investigation following accusations by a former member of the Hellenic Statistical Authority that the deficit had been artificially inflated in order to justify harsher austerity measures.[59][60]
@@ -49,7 +47,7 @@ Between 2008 and 2013 unemployment skyrocketed, from a generational low of 7.2% 
 
 Eurozone entry
 
-Euro_banknotes_2002.png in 2001]] Greece was accepted into the Economic and Monetary Union of the European Union by the European Council on 19 June 2000, based on a number of criteria (inflation rate, budget deficit, public debt, long-term interest rates, exchange rate) using 1999 as the reference year. After an audit commissioned by the incoming New Democracy government in 2004, Eurostat revealed that the statistics for the budget deficit had been under-reported.[72]
+in 2001]] Greece was accepted into the Economic and Monetary Union of the European Union by the European Council on 19 June 2000, based on a number of criteria (inflation rate, budget deficit, public debt, long-term interest rates, exchange rate) using 1999 as the reference year. After an audit commissioned by the incoming New Democracy government in 2004, Eurostat revealed that the statistics for the budget deficit had been under-reported.[72]
 
 Most of the differences in the revised budget deficit numbers were due to a temporary change of accounting practices by the new government, i.e., recording expenses when military material was ordered rather than received.[73] However, it was the retroactive application of ESA95 methodology (applied since 2000) by Eurostat, that finally raised the reference year (1999) budget deficit to 3.38% of GDP, thus exceeding the 3% limit. This led to claims that Greece (similar claims have been made about other European countries like Italy)[74] had not actually met all five accession criteria, and the common perception that Greece entered the Eurozone through "falsified" deficit numbers.
 
@@ -104,7 +102,7 @@ Public sector workers have come out on strike in order to resist job cuts and re
 
 In 2013, Greece became the first developed market to be reclassified as an emerging market by financial services companies MSCI and S&P Dow Jones Indices.[128][129][130]
 
-By July 2014 there were still anger and protests about the austerity measures, with a 24-hour strike among government workers timed to coincide with an audit by inspectors from the International Monetary Fund, the European Union and European Central Bank in advance of a decision on a second bailout of one billion euros ($1.36 billion), due in late July.[131] Government_debt_gdp.png as a percent of GDP by IMF (2018)]] Greece exited its six-year recession in the second quarter of 2014,[132][133] but the challenges of securing political stability and debt sustainability remain.[134]
+By July 2014 there were still anger and protests about the austerity measures, with a 24-hour strike among government workers timed to coincide with an audit by inspectors from the International Monetary Fund, the European Union and European Central Bank in advance of a decision on a second bailout of one billion euros ($1.36 billion), due in late July.[131] as a percent of GDP by IMF (2018)]] Greece exited its six-year recession in the second quarter of 2014,[132][133] but the challenges of securing political stability and debt sustainability remain.[134]
 
 A third bailout was agreed in July, 2015, after a confrontation with the newly elected leftist government of Alexis Tsipras. In June 2017, news reports indicated that the "crushing debt burden" had not been alleviated and that Greece was at the risk of defaulting on some payments.[135] The International Monetary Fund stated that the country should be able to borrow again "in due course". At the time, the Euro zone gave Greece another credit of $9.5-billion, $8.5 billion of loans and brief details of a possible debt relief with the assistance of the IMF.[136] On 13 July, the Greek government sent a letter of intent to the IMF with 21 commitments it promised to meet by June 2018. They included changes in labour laws, a plan to cap public sector work contracts, to transform temporary contracts into permanent agreements and to recalculate pension payments to reduce spending on social security.[137]
 
@@ -218,7 +216,7 @@ Secondary sector
 
 Industry
 
-12_NewKarelia-retouched-final300.tif factory in Kalamata]]
+factory in Kalamata]]
 
 Between 2005 and 2011, Greece has had the highest percentage increase in industrial output compared to 2005 levels out of all European Union members, with an increase of 6%.[162] Eurostat statistics show that the industrial sector was hit by the Greek financial crisis throughout 2009 and 2010,[163] with domestic output decreasing by 5.8% and industrial production in general by 13.4%.[164] Currently, Greece is ranked third in the European Union in the production of marble (over 920,000 tons), after Italy and Spain.
 
@@ -267,7 +265,7 @@ Tertiary sector
 
 Maritime industry
 
-Port_of_Thessaloniki.png]] Neorion_Shipyard.JPG shipyard, located in Ermoupolis]] Greek_tanker_ship.png is owned by Greek companies, making it the largest in the world. They are ranked in the top 5 for all kinds of ships, including first for tankers and bulk carriers.]]
+]] shipyard, located in Ermoupolis]] is owned by Greek companies, making it the largest in the world. They are ranked in the top 5 for all kinds of ships, including first for tankers and bulk carriers.]]
 
 Shipping has traditionally been a key sector in the Greek economy since ancient times.[177] In 1813, the Greek merchant navy was made up of 615 ships.[178] Its total tonnage was 153,580 tons and was manned with 37,526 crewmembers and 5,878 cannons.[179] In 1914 the figures stood at 449,430 tons and 1,322 ships (of which 287 were steam boats).[180]
 
@@ -314,7 +312,7 @@ Counting shipping as quasi-exports and in terms of monetary value, Greece ranked
 
 Telecommunications
 
-Athens-Kiffisia-aerial.jpg headquarters in Athens]]
+headquarters in Athens]]
 
 Between 1949 and the 1980s, telephone communications in Greece were a state monopoly by the Hellenic Telecommunications Organization, better known by its acronym, OTE. Despite the liberalization of telephone communications in the country in the 1980s, OTE still dominates the Greek market in its field and has emerged as one of the largest telecommunications companies in Southeast Europe.[214] Since 2011, the company's major shareholder is Deutsche Telekom with a 40% stake, while the Greek state continues to own 10% of the company's shares.[215] OTE owns several subsidiaries across the Balkans, including Cosmote, Greece's top mobile telecommunications provider, Cosmote Romania and Albanian Mobile Communications.[216]
 
@@ -324,7 +322,7 @@ Greece has tended to lag behind its European Union partners in terms of Internet
 
 Tourism
 
-Porto_Caras_1c.jpg resort, Chalkidiki]] Santorini_07_02_09_0808.jpg, popular tourist destination.]]
+resort, Chalkidiki]] , popular tourist destination.]]
 
 Tourism in the modern sense has only started to flourish in Greece in the years post-1950,[226][227] although tourism in ancient times is also documented in relation to religious or sports festivals such as the Olympic Games.[228] Since the 1950s, the tourism sector saw an unprecedented boost as arrivals went from 33,000 in 1950 to 11.4 million in 1994.[229]
 
@@ -339,7 +337,7 @@ In recent years a number of well-known tourism-related organizations have placed
 
 Trade and investment
 
-Greece_Export_Treemap.jpg Buildings_of_the_National_Bank_of_Greece,_Bank_of_Greece,_and_Ionian_Bank_(Alpha_Bank)_on_Eleftherias_Square,_Thessaloniki.png/National Bank of Greece and former Ionian Bank (today Alpha Bank) buildings in Thessaloniki]]
+/National Bank of Greece and former Ionian Bank (today Alpha Bank) buildings in Thessaloniki]]
 
 Foreign investment
 
@@ -450,7 +448,7 @@ Greece is also the largest import partner of Cyprus (18.0%)[252] and the largest
 
 Transport
 
-Egnatia_Odos.JPG, part of European route E90.]] Canal_of_korinth_greece.jpg]]
+, part of European route E90.]] ]]
 
 As of 2012, Greece had a total of 82 airports,[255] of which 67 were paved and six had runways longer than 3,047 meters.[256] Of these airports, two are classified as "international" by the Hellenic Civil Aviation Authority,[257] but 15 offer international services.[258] Additionally Greece has 9 heliports.[259] Greece does not have a flag carrier, but the country's airline industry is dominated by Aegean Airlines and its subsidiary Olympic Air.
 
@@ -466,8 +464,6 @@ In 2010 Piraeus handled 513,319 TEUs,[277] followed by Thessaloniki, which handl
 
 
 Energy
-
-SolarGIS-Solar-map-Greece-en.png
 
 Energy production in Greece is dominated by the Public Power Corporation (known mostly by its acronym ΔΕΗ, or in English DEI). In 2009 DEI supplied for 85.6% of all energy demand in Greece,[284] while the number fell to 77.3% in 2010.[285] Almost half (48%) of DEI's power output is generated using lignite, a drop from the 51.6% in 2009.[286] Another 12% comes from Hydroelectric power plants[287] and another 20% from natural gas.[288] Between 2009 and 2010, independent companies' energy production increased by 56%,[289] from 2,709 Gigawatt hour in 2009 to 4,232 GWh in 2010.[290]
 
@@ -487,8 +483,6 @@ File:Amyndeo, Florina prefecture, Greece - Lignite power station and lignite min
 
 
 Taxation and tax evasion
-
-Greece_EU_average_revenues_1999-2010.png
 
 Greece has a tiered tax system based on progressive taxation. Greek law recognizes six categories of taxable income:[316] immovable property, movable property (investment), income from agriculture, business, employment, and income from professional activities. Greece's personal income tax rate, until recently, ranged from 0% for annual incomes below €12,000[317] to 45% for annual incomes over €100,000.[318] Under the new 2010 tax reform, tax exemptions have been abolished.[319]
 
@@ -529,7 +523,7 @@ Wealth and standards of living
 
 National and regional GDP
 
-Greece_peripheries_GDP_per_capita.svg in 2008.]] GDP_of_Attica,_Thessaloniki_and_the_rest_of_Greece.svg
+in 2008.]]
 
 Greece's most economically important regions are Attica, which contributed €85.285 billion to the economy in 2017, and Central Macedonia, which contributed €24.953 billion.[360] The smallest regional economies were those of the North Aegean (€2.498 billion) and Ionian Islands (€3.159 billion).[361]
 

@@ -1,4 +1,4 @@
-Tunel_de_Occidente.jpg. The tunnel is the longest in Latin America.]]
+. The tunnel is the longest in Latin America.]]
 
 TRANSPORT IN COLOMBIA is regulated by the Ministry of Transport.
 
@@ -9,7 +9,7 @@ History
 
 Indigenous peoples influence
 
-Muisca_raft_Legend_of_El_Dorado_Offerings_of_gold.jpg culture golden raft]]
+culture golden raft]]
 
 The indigenous peoples in Colombia used and some continue to use the water ways as the way of transportation using rafts and canoes.
 
@@ -25,7 +25,7 @@ Standardization
 
 During the late 19th century European and American companies introduced railways to carry to the ports the local production of raw materials intended for exports and also imports from Europe. Steam ships began carrying Colombians, immigrants and goods from Europe and the United States over the Magdalena River.
 
-IMG_0639.jpg in Barranquilla. The bridge serves to cross the Magdalena River between the Departments of Atlántico and Magdalena. It is also one of the oldest standing bridges in Colombia.]]
+in Barranquilla. The bridge serves to cross the Magdalena River between the Departments of Atlántico and Magdalena. It is also one of the oldest standing bridges in Colombia.]]
 
 The Ministry of Transport was created in 1905 during the Presidency of Rafael Reyes under the name of '' Ministerio de Obras Públicas y Transporte'' or Ministry of Public Works and Transport with the main function of taking care of national assets issues, including mines, oil (fuel), patents and trade marks, railways, roads, bridges, national buildings and land without landowners.
 
@@ -38,21 +38,15 @@ Infrastructure
 
 Railways
 
-Mapa_de_Colombia_(ferrocarriles).svg
-
 Colombia has of rail lines, of which are gauge and of which are gauge. However, only of lines are still in use. Rail transport in Colombia remains underdeveloped. The national railroad system, once the country's main mode of transport for freight, has been neglected in favor of road development and now accounts for only about a quarter of freight transport. Passenger-rail use was suspended in 1992 resumed at the end of the 1990s, and as of 2017 it is considered abandoned (at least for long distances).[2] Fewer than 165,000 passenger journeys were made in 1999, as compared with more than 5 million in 1972, and the figure was only 160,130 in 2005. The two still-functioning passenger trains are: one between Puerto Berrío and García Cadena, and another one between Bogotá and Zipaquirá.[3] Short sections of railroad, mainly the Bogotá-Atlantic rim, are used to haul goods, mostly coal, to the Caribbean and Pacific ports. In 2005 a total of 27.5 million metric tons of cargo were transported by rail. Although the nation's rail network links seven of the country's 10 major cities, very little of it has been used regularly because of security concerns, lack of maintenance, and the power of the road transport union. During 2004–6, approximately 2,000 kilometers of the country's rail lines underwent refurbishment. This upgrade involved two main projects: the 1,484-kilometer line linking Bogotá to the Caribbean Coast and the 499-kilometer Pacific coastal network that links the industrial city of Cali and the surrounding coffee-growing region to the port of Buenaventura.[4]
 
 Roads
-
-Mapa_de_Colombia_(red_vial).svg
 
 The three main north-south highways are the Caribbean, Eastern, and Central Trunk Highways (troncales). Estimates of the length of Colombia's road system in 2004 ranged from 115,000 kilometers to 145,000 kilometers, of which fewer than 15 percent were paved. However, according to 2005 data reported by the Colombian government, the road network totaled 163,000 kilometers, 68 percent of which were paved and in good condition. The increase may reflect some newly built roads. President Uribe has vowed to pave more than 2,500 kilometers of roads during his administration, and about 5,000 kilometers of new secondary roads were being built in the 2003–6 period. Despite serious terrain obstacles, almost three-quarters of all cross-border dry cargo is now transported by road, 105,251 metric tons in 2005.[5]
 
 Highways are managed by the Colombian Ministry of Transport through the National Roads Institute. The security of the highways in Colombia is managed by the Highway Police unit of the Colombian National Police. Colombia is crossed by the Panamerican Highway.
 
 Ports, waterways, and merchant marine
-
-Mapa_de_Colombia_(ríos).svg
 
 Seaports handle around 80 percent of international cargo. In 2005 a total of 105,251 metric tons of cargo were transported by water. Colombia's most important ocean terminals are Barranquilla, Cartagena, and Santa Marta on the Caribbean Coast and Buenaventura and Tumaco on the Pacific Coast. Exports mostly pass through the Caribbean ports of Cartagena and Santa Marta, while 65 percent of imports arrive at the port of Buenaventura. Other important ports and harbors are Bahía de Portete, Leticia, Puerto Bolívar, San Andrés, Santa Marta, and Turbo. Since privatization was implemented in 1993, the efficiency of port handling has increased greatly. Privatization, however, has had negative impacts as well. In Buenaventura, for example, privatization of the harbor has increased unemployment and social issues.[6] There are plans to construct a deep-water port at Bahía Solano.[7]
 
@@ -62,7 +56,7 @@ The merchant marine totals 17 ships (1,000 gross registered tons or more), inclu
 
 Civil Aviation
 
-180px platform]] 2018_taxis_en_el_Aeropuerto_Olaya_Herrera_de_Medellín.jpg of Medellín]] The Special Administrative Unit of Civil Aeronautics is responsible of regulating and controlling the use of air space by civil aviation. The customs/immigration issues are controlled by the Departamento Administrativo de Seguridad (DAS).
+180px platform]] of Medellín]] The Special Administrative Unit of Civil Aeronautics is responsible of regulating and controlling the use of air space by civil aviation. The customs/immigration issues are controlled by the Departamento Administrativo de Seguridad (DAS).
 
 Colombia has well-developed air routes and an estimated total of 984 airports, 100 of which have paved runways, plus two heliports. Of the 74 main airports, 20 can accommodate jet aircraft. Two airports are more than 3,047 meters in length, nine are 2,438–3,047 meters, 39 are 1,524–2,437 meters, 38 are 914–1,523 meters, 12 are shorter than 914 meters, and 880 have unpaved runways. The government has been selling its stake in local airports in order to allow their privatization. The country has 40 regional airports, and the cities of Bogotá, Medellín, Cali, Barranquilla, Bucaramanga, Cartagena, Cúcuta, Leticia, Pereira, San Andrés, and Santa Marta have international airports. Bogotá's El Dorado International Airport handles 550 million metric tons of cargo and 22 million passengers a year, making it the largest airport in Latin America in terms of cargo and the third largest in passenger numbers.[10]
 

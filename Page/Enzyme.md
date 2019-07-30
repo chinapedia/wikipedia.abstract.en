@@ -1,4 +1,4 @@
-Glucosidase_enzyme.png converts the sugar maltose into two glucose sugars. Active site residues in red, maltose substrate in black, and NAD cofactor in yellow. ()|alt=Ribbon diagram of glycosidase with an arrow showing the cleavage of the maltose sugar substrate into two glucose products.]] ENZYMES are macromolecular biological catalysts that accelerate chemical reactions. The molecules upon which enzymes may act are called substrates, and the enzyme converts the substrates into different molecules known as products. Almost all metabolic processes in the cell need enzyme catalysis in order to occur at rates fast enough to sustain life.[1] Metabolic pathways depend upon enzymes to catalyze individual steps. The study of enzymes is called _enzymology_ and a new field of pseudoenzyme analysis has recently grown up, recognising that during evolution, some enzymes have lost the ability to carry out biological catalysis, which is often reflected in their amino acid sequences and unusual 'pseudocatalytic' properties.[2][3]
+converts the sugar maltose into two glucose sugars. Active site residues in red, maltose substrate in black, and NAD cofactor in yellow. ()|alt=Ribbon diagram of glycosidase with an arrow showing the cleavage of the maltose sugar substrate into two glucose products.]] ENZYMES are macromolecular biological catalysts that accelerate chemical reactions. The molecules upon which enzymes may act are called substrates, and the enzyme converts the substrates into different molecules known as products. Almost all metabolic processes in the cell need enzyme catalysis in order to occur at rates fast enough to sustain life.[1] Metabolic pathways depend upon enzymes to catalyze individual steps. The study of enzymes is called _enzymology_ and a new field of pseudoenzyme analysis has recently grown up, recognising that during evolution, some enzymes have lost the ability to carry out biological catalysis, which is often reflected in their amino acid sequences and unusual 'pseudocatalytic' properties.[2][3]
 
 Enzymes are known to catalyze more than 5,000 biochemical reaction types.[4] Most enzymes are proteins, although a few are catalytic RNA molecules. The latter are called ribozymes. Enzymes' specificity comes from their unique three-dimensional structures.
 
@@ -9,7 +9,7 @@ Some enzymes are used commercially, for example, in the synthesis of antibiotics
 
 Etymology and history
 
-Eduardbuchner.jpg By the late 17th and early 18th centuries, the digestion of meat by stomach secretions[7] and the conversion of starch to sugars by plant extracts and saliva were known but the mechanisms by which these occurred had not been identified.[8]
+By the late 17th and early 18th centuries, the digestion of meat by stomach secretions[7] and the conversion of starch to sugars by plant extracts and saliva were known but the mechanisms by which these occurred had not been identified.[8]
 
 French chemist Anselme Payen was the first to discover an enzyme, diastase, in 1833.[9] A few decades later, when studying the fermentation of sugar to alcohol by yeast, Louis Pasteur concluded that this fermentation was caused by a vital force contained within the yeast cells called "ferments", which were thought to function only within living organisms. He wrote that "alcoholic fermentation is an act correlated with the life and organization of the yeast cells, not with the death or putrefaction of the cells."[10]
 
@@ -42,7 +42,7 @@ These sections are subdivided by other features such as the substrate, products,
 
 Structure
 
-Q10_graph_c.svg) until the enzyme's structure unfolds (denaturation), leading to an optimal rate of reaction at an intermediate temperature.|alt=A graph showing that reaction rate increases exponentially with temperature until denaturation causes it to decrease again.]]
+) until the enzyme's structure unfolds (denaturation), leading to an optimal rate of reaction at an intermediate temperature.|alt=A graph showing that reaction rate increases exponentially with temperature until denaturation causes it to decrease again.]]
 
 Enzymes are generally globular proteins, acting alone or in larger complexes. The sequence of the amino acids specifies the structure which in turn determines the catalytic activity of the enzyme.[24] Although structure determines function, a novel enzymatic activity cannot yet be predicted from structure alone.[25] Enzyme structures unfold (denature) when heated or exposed to chemical denaturants and this disruption to the structure typically causes a loss of activity.[26] Enzyme denaturation is normally linked to temperatures above a species' normal level; as a result, enzymes from bacteria living in volcanic environments such as hot springs are prized by industrial users for their ability to function at high temperatures, allowing enzyme-catalysed reactions to be operated at a very high rate.
 
@@ -55,7 +55,7 @@ A small number of RNA-based biological catalysts called ribozymes exist, which a
 
 Mechanism
 
-Enzyme_structure.svg and lysozyme example. Binding sites in blue, catalytic site in red and peptidoglycan substrate in black. ()|alt=Lysozyme displayed as an opaque globular surface with a pronounced cleft which the substrate depicted as a stick diagram snuggly fits into.]]
+and lysozyme example. Binding sites in blue, catalytic site in red and peptidoglycan substrate in black. ()|alt=Lysozyme displayed as an opaque globular surface with a pronounced cleft which the substrate depicted as a stick diagram snuggly fits into.]]
 
 Substrate binding
 
@@ -65,7 +65,7 @@ Some of the enzymes showing the highest specificity and accuracy are involved in
 
 Conversely, some enzymes display enzyme promiscuity, having broad specificity and acting on a range of different physiologically relevant substrates. Many enzymes possess small side activities which arose fortuitously (i.e. neutrally), which may be the starting point for the evolutionary selection of a new function.[40][41]
 
-Hexokinase_induced_fit.svg has a large induced fit motion that closes over the substrates adenosine triphosphate and xylose. Binding sites in blue, substrates in black and Mg²⁺ cofactor in yellow. (, )]]
+has a large induced fit motion that closes over the substrates adenosine triphosphate and xylose. Binding sites in blue, substrates in black and Mg²⁺ cofactor in yellow. (, )]]
 
 "Lock and key" model
 
@@ -100,7 +100,7 @@ Allosteric sites are pockets on the enzyme, distinct from the active site, that 
 
 Cofactors
 
-Transketolase_+_TPP.png and protein structure of transketolase. Thiamine pyrophosphate cofactor in yellow and xylulose 5-phosphate substrate in black. ()]]
+and protein structure of transketolase. Thiamine pyrophosphate cofactor in yellow and xylulose 5-phosphate substrate in black. ()]]
 
 Some enzymes do not need additional components to show full activity. Others require non-protein molecules called cofactors to be bound for activity.[59] Cofactors can be either inorganic (e.g., metal ions and iron-sulfur clusters) or organic compounds (e.g., flavin and heme). These cofactors serve many purposes; for instance, metal ions can help in stabilizing nucleophilic species within the active site.[60] Organic cofactors can be either coenzymes, which are released from the enzyme's active site during the reaction, or prosthetic groups, which are tightly bound to an enzyme. Organic prosthetic groups can be covalently bound (e.g., biotin in enzymes such as pyruvate carboxylase).[61]
 
@@ -125,7 +125,7 @@ Coenzymes are usually continuously regenerated and their concentrations maintain
 
 Thermodynamics
 
-Enzyme_catalysis_energy_levels_2.svg. Uncatalysed (dashed line), substrates need a lot of activation energy to reach a transition state, which then decays into lower-energy products. When enzyme catalysed (solid line), the enzyme binds the substrates (ES), then stabilizes the transition state (ES^(‡)) to reduce the activation energy required to produce products (EP) which are finally released.]]
+. Uncatalysed (dashed line), substrates need a lot of activation energy to reach a transition state, which then decays into lower-energy products. When enzyme catalysed (solid line), the enzyme binds the substrates (ES), then stabilizes the transition state (ES^(‡)) to reduce the activation energy required to produce products (EP) which are finally released.]]
 
 As with all catalysts, enzymes do not alter the position of the chemical equilibrium of the reaction. In the presence of an enzyme, the reaction runs in the same direction as it would without the enzyme, just more quickly.[70] For example, carbonic anhydrase catalyzes its reaction in either direction depending on the concentration of its reactants:[71]
 
@@ -188,7 +188,7 @@ An important function of enzymes is in the digestive systems of animals. Enzymes
 
 Metabolism
 
-Glycolysis_metabolic_pathway.svg of glycolysis releases energy by converting glucose to pyruvate via a series of intermediate metabolites. Each chemical modification (red box) is performed by a different enzyme.]]
+of glycolysis releases energy by converting glucose to pyruvate via a series of intermediate metabolites. Each chemical modification (red box) is performed by a different enzyme.]]
 
 Several enzymes can work together in a specific order, creating metabolic pathways.[105] In a metabolic pathway, one enzyme takes the product of another enzyme as a substrate. After the catalytic reaction, the product is then passed on to another enzyme. Sometimes more than one enzyme can catalyze the same reaction in parallel; this can allow more complex regulation: with, for example, a low constant activity provided by one enzyme but an inducible high activity from a second enzyme.[106]
 
@@ -220,7 +220,7 @@ In multicellular eukaryotes, cells in different organs and tissues have differen
 
 Involvement in disease
 
-Phenylalanine_hydroxylase_mutations.svg over 300 different mutations throughout the structure cause phenylketonuria. Phenylalanine substrate and tetrahydrobiopterin coenzyme in black, and Fe²⁺ cofactor in yellow. ()]]
+over 300 different mutations throughout the structure cause phenylketonuria. Phenylalanine substrate and tetrahydrobiopterin coenzyme in black, and Fe²⁺ cofactor in yellow. ()]]
 
 Since the tight control of enzyme activity is essential for homeostasis, any malfunction (mutation, overproduction, underproduction or deletion) of a single critical enzyme can lead to a genetic disease. The malfunction of just one type of enzyme out of the thousands of types present in the human body can be fatal. An example of a fatal genetic disease due to enzyme insufficiency is Tay–Sachs disease, in which patients lack the enzyme hexosaminidase.[123][124]
 

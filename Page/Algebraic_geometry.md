@@ -1,4 +1,4 @@
-Togliatti_surface.png is an algebraic surface of degree five. The picture represents a portion of its real locus.]]
+is an algebraic surface of degree five. The picture represents a portion of its real locus.]]
 
 ALGEBRAIC GEOMETRY is a branch of mathematics, classically studying zeros of multivariate polynomials. Modern algebraic geometry is based on the use of abstract algebraic techniques, mainly from commutative algebra, for solving geometrical problems about these sets of zeros.
 
@@ -21,7 +21,7 @@ Basic notions
 
 Zeros of simultaneous polynomials
 
-Slanted_circle.png In classical algebraic geometry, the main objects of interest are the vanishing sets of collections of polynomials, meaning the set of all points that simultaneously satisfy one or more polynomial equations. For instance, the two-dimensional sphere of radius 1 in three-dimensional Euclidean space R³ could be defined as the set of all points (_x_,_y_,_z_) with
+In classical algebraic geometry, the main objects of interest are the vanishing sets of collections of polynomials, meaning the set of all points that simultaneously satisfy one or more polynomial equations. For instance, the two-dimensional sphere of radius 1 in three-dimensional Euclidean space R³ could be defined as the set of all points (_x_,_y_,_z_) with
 
 _x_² + _y_² + _z_² − 1 = 0. 
 
@@ -101,7 +101,7 @@ The problem of resolution of singularities is to know if every algebraic variety
 
 Projective variety
 
-Parabola_&_cubic_curve_in_projective_space.png Just as the formulas for the roots of second, third, and fourth degree polynomials suggest extending real numbers to the more algebraically complete setting of the complex numbers, many properties of algebraic varieties suggest extending affine space to a more geometrically complete projective space. Whereas the complex numbers are obtained by adding the number _i_, a root of the polynomial , projective space is obtained by adding in appropriate points "at infinity", points where parallel lines may meet.
+Just as the formulas for the roots of second, third, and fourth degree polynomials suggest extending real numbers to the more algebraically complete setting of the complex numbers, many properties of algebraic varieties suggest extending affine space to a more geometrically complete projective space. Whereas the complex numbers are obtained by adding the number _i_, a root of the polynomial , projective space is obtained by adding in appropriate points "at infinity", points where parallel lines may meet.
 
 To see how this might come about, consider the variety . If we draw it, we get a parabola. As _x_ goes to positive infinity, the slope of the line from the origin to the point (_x_, _x_²) also goes to positive infinity. As _x_ goes to negative infinity, the slope of the same line goes to negative infinity.
 

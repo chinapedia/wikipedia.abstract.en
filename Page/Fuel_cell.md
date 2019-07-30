@@ -1,5 +1,3 @@
-Fuel_cell_NASA_p48600ac.jpg Solid_oxide_fuel_cell_protonic.svg
-
 A FUEL CELL is an electrochemical cell that converts the chemical energy of a fuel (often hydrogen) and an oxidizing agent (often oxygen[1]) into electricity through a pair of redox reactions.[2] Fuel cells are different from most batteries in requiring a continuous source of fuel and oxygen (usually from air) to sustain the chemical reaction, whereas in a battery the chemical energy usually comes from metals and their ions or oxides [3] that are commonly already present in the battery, except in flow batteries. Fuel cells can produce electricity continuously for as long as fuel and oxygen are supplied.
 
 The first fuel cells were invented in 1838. The first commercial use of fuel cells came more than a century later in NASA space programs to generate power for satellites and space capsules. Since then, fuel cells have been used in many other applications. Fuel cells are used for primary and backup power for commercial, industrial and residential buildings and in remote or inaccessible areas. They are also used to power fuel cell vehicles, including forklifts, automobiles, buses, boats, motorcycles and submarines.
@@ -11,7 +9,7 @@ The fuel cell market is growing, and in 2013 Pike Research estimated that the st
 
 History
 
-1839_William_Grove_Fuel_Cell.jpg's 1839 fuel cell]] The first references to hydrogen fuel cells appeared in 1838. In a letter dated October 1838 but published in the December 1838 edition of _The London and Edinburgh Philosophical Magazine and Journal of Science_, Welsh physicist and barrister William Grove wrote about the development of his first crude fuel cells. He used a combination of sheet iron, copper and porcelain plates, and a solution of sulphate of copper and dilute acid.[6][7] In a letter to the same publication written in December 1838 but published in June 1839, German physicist Christian Friedrich Schönbein discussed the first crude fuel cell that he had invented. His letter discussed current generated from hydrogen and oxygen dissolved in water.[8] Grove later sketched his design, in 1842, in the same journal. The fuel cell he made used similar materials to today's phosphoric-acid fuel cell.[9][10]
+'s 1839 fuel cell]] The first references to hydrogen fuel cells appeared in 1838. In a letter dated October 1838 but published in the December 1838 edition of _The London and Edinburgh Philosophical Magazine and Journal of Science_, Welsh physicist and barrister William Grove wrote about the development of his first crude fuel cells. He used a combination of sheet iron, copper and porcelain plates, and a solution of sulphate of copper and dilute acid.[6][7] In a letter to the same publication written in December 1838 but published in June 1839, German physicist Christian Friedrich Schönbein discussed the first crude fuel cell that he had invented. His letter discussed current generated from hydrogen and oxygen dissolved in water.[8] Grove later sketched his design, in 1842, in the same journal. The fuel cell he made used similar materials to today's phosphoric-acid fuel cell.[9][10]
 
 In 1939, British engineer Francis Thomas Bacon successfully developed a 5 kW stationary fuel cell. In 1955, W. Thomas Grubb, a chemist working for the General Electric Company (GE), further modified the original fuel cell design by using a sulphonated polystyrene ion-exchange membrane as the electrolyte. Three years later another GE chemist, Leonard Niedrach, devised a way of depositing platinum onto the membrane, which served as catalyst for the necessary hydrogen oxidation and oxygen reduction reactions. This became known as the "Grubb-Niedrach fuel cell".[11][12] GE went on to develop this technology with NASA and McDonnell Aircraft, leading to its use during Project Gemini. This was the first commercial use of a fuel cell. In 1959, a team led by Harry Ihrig built a 15 kW fuel cell tractor for Allis-Chalmers, which was demonstrated across the U.S. at state fairs. This system used potassium hydroxide as the electrolyte and compressed hydrogen and oxygen as the reactants. Later in 1959, Bacon and his colleagues demonstrated a practical five-kilowatt unit capable of powering a welding machine. In the 1960s, Pratt & Whitney licensed Bacon's U.S. patents for use in the U.S. space program to supply electricity and drinking water (hydrogen and oxygen being readily available from the spacecraft tanks). In 1991, the first hydrogen fuel cell automobile was developed by Roger Billings.[13][14]
 
@@ -26,7 +24,7 @@ Fuel cells come in many varieties; however, they all work in the same general ma
 
 At the anode a catalyst oxidizes the fuel, usually hydrogen, turning the fuel into a positively charged ion and a negatively charged electron. The electrolyte is a substance specifically designed so ions can pass through it, but the electrons cannot. The freed electrons travel through a wire creating the electric current. The ions travel through the electrolyte to the cathode. Once reaching the cathode, the ions are reunited with the electrons and the two react with a third chemical, usually oxygen, to create water or carbon dioxide.
 
-Fuel_Cell_Block_Diagram.svg Design features in a fuel cell include:
+Design features in a fuel cell include:
 
 -   The electrolyte substance, which usually defines the _type_ of fuel cell, and can be made from a number of substances like potassium hydroxide, salt carbonates, and phosphoric acid.[17]
 -   The fuel that is used. The most common fuel is hydrogen.
@@ -44,7 +42,7 @@ To deliver the desired amount of energy, the fuel cells can be combined in serie
 
 Proton exchange membrane fuel cells (PEMFCs)
 
-PEM_fuelcell.svg: Bipolar plate as electrode with in-milled gas channel structure, fabricated from conductive composites (enhanced with graphite, carbon black, carbon fiber, and/or carbon nanotubes for more conductivity);[24] Porous carbon papers; reactive layer, usually on the polymer membrane applied; polymer membrane.]] condensation.jpg SEM_micrograph_of_an_MEA_cross_section.jpg In the archetypical hydrogen–oxide proton exchange membrane fuel cell design, a proton-conducting polymer membrane (typically nafion) contains the electrolyte solution that separates the anode and cathode sides.[25][26] This was called a "solid polymer electrolyte fuel cell" (SPEFC) in the early 1970s, before the proton exchange mechanism was well understood. (Notice that the synonyms "polymer electrolyte membrane" and "proton exchange mechanism" result in the same acronym.)
+: Bipolar plate as electrode with in-milled gas channel structure, fabricated from conductive composites (enhanced with graphite, carbon black, carbon fiber, and/or carbon nanotubes for more conductivity);[24] Porous carbon papers; reactive layer, usually on the polymer membrane applied; polymer membrane.]] In the archetypical hydrogen–oxide proton exchange membrane fuel cell design, a proton-conducting polymer membrane (typically nafion) contains the electrolyte solution that separates the anode and cathode sides.[25][26] This was called a "solid polymer electrolyte fuel cell" (SPEFC) in the early 1970s, before the proton exchange mechanism was well understood. (Notice that the synonyms "polymer electrolyte membrane" and "proton exchange mechanism" result in the same acronym.)
 
 On the anode side, hydrogen diffuses to the anode catalyst where it later dissociates into protons and electrons. These protons often react with oxidants causing them to become what are commonly referred to as multi-facilitated proton membranes. The protons are conducted through the membrane to the cathode, but the electrons are forced to travel in an external circuit (supplying power) because the membrane is electrically insulating. On the cathode catalyst, oxygen molecules react with the electrons (which have traveled through the external circuit) and protons to form water.
 
@@ -212,7 +210,7 @@ Professor Jeremy P. Meyers, in the Electrochemical Society journal _Interface_ i
 
 Applications
 
-U_Boot_212_HDW_1.jpg with fuel cell propulsion of the German Navy in dry dock]]
+with fuel cell propulsion of the German Navy in dry dock]]
 
 Power
 
@@ -236,7 +234,7 @@ Delta-ee consultants stated in 2013 that with 64% of global sales the fuel cell 
 
 Fuel cell electric vehicles (FCEVs)
 
-Fuelcell.jpg Toyota_mirai_trimmed.jpg]] Tech.jpg fuel cell vehicle]]
+]] fuel cell vehicle]]
 
 Automobiles
 
@@ -254,7 +252,7 @@ In 2014, Joseph Romm, the author of _The Hype About Hydrogen_ (2005), stated tha
 
 Buses
 
-TOYOTA_FCHV_Bus.jpg at the Expo 2005.]] , there were a total of approximately 100 fuel cell buses deployed around the world. Most buses are produced by UTC Power, Toyota, Ballard, Hydrogenics, and Proton Motor. UTC buses had accumulated over of driving by 2011.[147] Fuel cell buses have a 39–141% higher fuel economy than diesel buses and natural gas buses.[148][149] Fuel cell buses have been deployed around the world including in Whistler, Canada; San Francisco, United States; Hamburg, Germany; Shanghai, China; London, England; and São Paulo, Brazil.[150]
+at the Expo 2005.]] , there were a total of approximately 100 fuel cell buses deployed around the world. Most buses are produced by UTC Power, Toyota, Ballard, Hydrogenics, and Proton Motor. UTC buses had accumulated over of driving by 2011.[147] Fuel cell buses have a 39–141% higher fuel economy than diesel buses and natural gas buses.[148][149] Fuel cell buses have been deployed around the world including in Whistler, Canada; San Francisco, United States; Hamburg, Germany; Shanghai, China; London, England; and São Paulo, Brazil.[150]
 
 The Fuel Cell Bus Club is a global cooperative effort in trial fuel cell buses. Notable projects include:
 
@@ -286,7 +284,7 @@ In 2016 a Raptor E1 drone made a successful test flight using a fuel cell that w
 
 Boats
 
-Die_Hydra_in_Leipzig_I.jpg), in Leipzig/Germany]] The world's first fuel-cell boat HYDRA used an AFC system with 6.5 kW net output. Iceland has committed to converting its vast fishing fleet to use fuel cells to provide auxiliary power by 2015 and, eventually, to provide primary power in its boats. Amsterdam recently introduced its first fuel cell-powered boat that ferries people around the city's canals.[187]
+), in Leipzig/Germany]] The world's first fuel-cell boat HYDRA used an AFC system with 6.5 kW net output. Iceland has committed to converting its vast fishing fleet to use fuel cells to provide auxiliary power by 2015 and, eventually, to provide primary power in its boats. Amsterdam recently introduced its first fuel cell-powered boat that ferries people around the city's canals.[187]
 
 Submarines
 
@@ -324,7 +322,7 @@ Other applications
 
 Fueling stations
 
-Hydrogen_vehicle.jpg.]] In 2013, _The New York Times_ reported that there were "10 hydrogen stations available to the public in the entire United States: one in Columbia, S.C., eight in Southern California and the one in Emeryville".[206] , there were 31 publicly accessible hydrogen refueling stations in the US, 28 of which were located in California.[207]
+.]] In 2013, _The New York Times_ reported that there were "10 hydrogen stations available to the public in the entire United States: one in Columbia, S.C., eight in Southern California and the one in Emeryville".[206] , there were 31 publicly accessible hydrogen refueling stations in the US, 28 of which were located in California.[207]
 
 A public hydrogen refueling station in Iceland operated from 2003 to 2007. It served three buses in the public transport net of Reykjavík. The station produced its own hydrogen with an electrolyzing unit.[208] The 14 stations in Germany were planned to be expanded to 50 by 2015[209] through its public–private partnership Now GMBH.[210]
 

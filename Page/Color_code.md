@@ -1,4 +1,4 @@
-25_pair_color_code_chart.svg chart used in certain kinds of wiring.]] A COLOR CODE or COLOUR CODE is a system for displaying information by using different colors.
+chart used in certain kinds of wiring.]] A COLOR CODE or COLOUR CODE is a system for displaying information by using different colors.
 
 The earliest examples of color codes in use are for long distance communication by use of flags, as in semaphore communication.[1] The United Kingdom adopted a color code scheme for such communication wherein red signified danger and white signified safety, with other colors having similar assignments of meaning.
 

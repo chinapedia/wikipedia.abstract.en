@@ -114,7 +114,7 @@ _m_(_φ_) = _a_(1−_e_²)_Π_(_e_²;_φ_ | _e_²).
 
 Complete elliptic integral of the first kind
 
-Mplwp_complete_ellipticKk.svg Elliptic Integrals are said to be 'complete' when the amplitude }} and therefore 1}}. The COMPLETE ELLIPTIC INTEGRAL OF THE FIRST KIND may thus be defined as
+Elliptic Integrals are said to be 'complete' when the amplitude }} and therefore 1}}. The COMPLETE ELLIPTIC INTEGRAL OF THE FIRST KIND may thus be defined as
 
 $$K(k)=\int_0^\tfrac{\pi}{2} \frac{d\theta}{\sqrt{1-k^2 \sin^2\theta}}=\int_0^1 \frac{dt}{\sqrt{\left(1-t^2\right)\left(1-k^2 t^2\right)}},$$
 
@@ -167,8 +167,6 @@ $$\frac{d}{dk}K(k)=\frac{E(k)}{k\left(1-k^2\right)}-\frac{K(k)}{k}$$
 
 Complete elliptic integral of the second kind
 
-Mplwp_complete_ellipticEk.svg
-
 The COMPLETE ELLIPTIC INTEGRAL OF THE SECOND KIND is defined as
 
 $$E(k)=\int_0^\tfrac{\pi}{2} \sqrt{1-k^2 \sin^2\theta}\, d\theta=\int_0^1 \frac{\sqrt{1-k^2 t^2}}{\sqrt{1-t^2}}\,dt,$$
@@ -206,7 +204,7 @@ A second solution to this equation is .
 
 Complete elliptic integral of the third kind
 
-Mplwp_complete_ellipticPi_nfixed_k.svg The COMPLETE ELLIPTIC INTEGRAL OF THE THIRD KIND can be defined as
+The COMPLETE ELLIPTIC INTEGRAL OF THE THIRD KIND can be defined as
 
 $$\Pi(n,k)=\int_0^\tfrac{\pi}{2} \frac{d\theta}{\left(1-n\sin^2\theta\right)\sqrt{1-k^2 \sin^2\theta}}.$$
 

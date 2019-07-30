@@ -36,7 +36,7 @@ Instruments of communion
 
 As mentioned above, the Anglican Communion has no international juridical organisation. The Archbishop of Canterbury's role is strictly symbolic and unifying and the communion's three international bodies are consultative and collaborative, their resolutions having no legal effect on the autonomous provinces of the communion. Taken together, however, the four do function as "instruments of communion", since all churches of the communion participate in them. In order of antiquity, they are:
 
-Canterburycathedralthrone.jpg (the episcopal throne in Canterbury Cathedral, Kent), seat of the Archbishop of Canterbury in his role as head of the Anglican Communion]]
+(the episcopal throne in Canterbury Cathedral, Kent), seat of the Archbishop of Canterbury in his role as head of the Anglican Communion]]
 
 1.  The Archbishop of Canterbury functions as the spiritual head of the communion.[5] The archbishop is the focus of unity, since no church claims membership in the Communion without being in communion with him. The present archbishop is Justin Welby.
 2.  The Lambeth Conference[6] (first held in 1867) is the oldest international consultation. It is a forum for bishops of the communion to reinforce unity and collegiality through manifesting the episcopate, to discuss matters of mutual concern, and to pass resolutions intended to act as guideposts. It is held roughly every 10 years and invitation is by the Archbishop of Canterbury.

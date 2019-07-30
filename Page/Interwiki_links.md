@@ -1,4 +1,4 @@
-Screenshot_showing_interwikilink_removal.JPG showing interwiki link removal]]
+showing interwiki link removal]]
 
 INTERWIKI LINKING (_W-link_) is a facility for creating links to the many wikis on the World Wide Web. Users avoid pasting in entire URLs (as they would for regular web pages) and instead use a shorthand similar to links within the same wiki (intrawiki links).
 

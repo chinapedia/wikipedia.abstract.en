@@ -1,4 +1,4 @@
-Chromosome.svg eukaryotic chromosome. (1) Chromatid – one of the two identical parts of the chromosome after S phase. (2) Centromere – the point where the two chromatids touch. (3) Short arm (p).(4) Long arm (q).]]
+eukaryotic chromosome. (1) Chromatid – one of the two identical parts of the chromosome after S phase. (2) Centromere – the point where the two chromatids touch. (3) Short arm (p).(4) Long arm (q).]]
 
 A CHROMOSOME is a deoxyribonucleic acid (DNA) molecule with part or all of the genetic material (genome) of an organism. Most eukaryotic chromosomes include packaging proteins which, aided by chaperone proteins, bind to and condense the DNA molecule to prevent it from becoming an unmanageable tangle.[1][2]
 
@@ -48,13 +48,11 @@ Prokaryotic chromosomes and plasmids are, like eukaryotic DNA, generally superco
 
 Eukaryotes
 
-Eukaryote_DNA-en.svg
-
 Chromosomes in eukaryotes are composed of chromatin fiber. Chromatin fiber is made of nucleosomes (histone octamers with part of a DNA strand attached to and wrapped around it). Chromatin fibers are packaged by proteins into a condensed structure called chromatin. Chromatin contains the vast majority of DNA and a small amount inherited maternally, can be found in the mitochondria. Chromatin is present in most cells, with a few exceptions, for example, red blood cells.
 
 Chromatin allows the very long DNA molecules to fit into the cell nucleus. During cell division chromatin condenses further to form microscopically visible chromosomes. The structure of chromosomes varies through the cell cycle. During cellular division chromosomes are replicated, divided, and passed successfully to their daughter cells so as to ensure the genetic diversity and survival of their progeny. Chromosomes may exist as either duplicated or unduplicated. Unduplicated chromosomes are single double helixes, whereas duplicated chromosomes contain two identical copies (called chromatids or sister chromatids) joined by a centromere.
 
-Chromatin_Structures.png, the nucleosome, the 10 nm "beads-on-a-string" fibre, the 30 nm fibre and the metaphase chromosome.]] Eukaryotes (cells with nuclei such as those found in plants, fungi, and animals) possess multiple large linear chromosomes contained in the cell's nucleus. Each chromosome has one centromere, with one or two arms projecting from the centromere, although, under most circumstances, these arms are not visible as such. In addition, most eukaryotes have a small circular mitochondrial genome, and some eukaryotes may have additional small circular or linear cytoplasmic chromosomes.
+, the nucleosome, the 10 nm "beads-on-a-string" fibre, the 30 nm fibre and the metaphase chromosome.]] Eukaryotes (cells with nuclei such as those found in plants, fungi, and animals) possess multiple large linear chromosomes contained in the cell's nucleus. Each chromosome has one centromere, with one or two arms projecting from the centromere, although, under most circumstances, these arms are not visible as such. In addition, most eukaryotes have a small circular mitochondrial genome, and some eukaryotes may have additional small circular or linear cytoplasmic chromosomes.
 
 In the nuclear chromosomes of eukaryotes, the uncondensed DNA exists in a semi-ordered structure, where it is wrapped around histones (structural proteins), forming a composite material called chromatin.
 
@@ -69,7 +67,7 @@ During interphase (the period of the cell cycle where the cell is not dividing),
 
 Metaphase chromatin and division
 
-HumanChromosomesChromomycinA3.jpg]] In the early stages of mitosis or meiosis (cell division), the chromatin double helix become more and more condensed. They cease to function as accessible genetic material (transcription stops) and become a compact transportable form. This compact form makes the individual chromosomes visible, and they form the classic four arm structure, a pair of sister chromatids attached to each other at the centromere. The shorter arms are called _p arms_ (from the French _petit_, small) and the longer arms are called _q arms_ (_q_ follows _p_ in the Latin alphabet; q-g "grande"; alternatively it is sometimes said q is short for _queue_ meaning tail in French[32]). This is the only natural context in which individual chromosomes are visible with an optical microscope.
+]] In the early stages of mitosis or meiosis (cell division), the chromatin double helix become more and more condensed. They cease to function as accessible genetic material (transcription stops) and become a compact transportable form. This compact form makes the individual chromosomes visible, and they form the classic four arm structure, a pair of sister chromatids attached to each other at the centromere. The shorter arms are called _p arms_ (from the French _petit_, small) and the longer arms are called _q arms_ (_q_ follows _p_ in the Latin alphabet; q-g "grande"; alternatively it is sometimes said q is short for _queue_ meaning tail in French[32]). This is the only natural context in which individual chromosomes are visible with an optical microscope.
 
 Mitotic metaphase chromosomes are best described by a linearly organized longitudinally compressed array of consecutive chromatin loops.[33]
 
@@ -78,8 +76,6 @@ During mitosis, microtubules grow from centrosomes located at opposite ends of t
 Human chromosomes
 
 Chromosomes in humans can be divided into two types: autosomes (body chromosome(s)) and allosome (sex chromosome(s)). Certain genetic traits are linked to a person's sex and are passed on through the sex chromosomes. The autosomes contain the rest of the genetic hereditary information. All act in the same way during cell division. Human cells have 23 pairs of chromosomes (22 pairs of autosomes and one pair of sex chromosomes), giving a total of 46 per cell. In addition to these, human cells have many hundreds of copies of the mitochondrial genome. Sequencing of the human genome has provided a great deal of information about each of the chromosomes. Below is a table compiling statistics for the chromosomes, based on the Sanger Institute's human genome information in the Vertebrate Genome Annotation (VEGA) database.[34] Number of genes is an estimate, as it is in part based on gene predictions. Total chromosome length is an estimate as well, based on the estimated size of unsequenced heterochromatin regions.
-
-Genes_and_base_pairs_on_chromosomes.svg
 
   Chromosome           Genes[35]   Total base pairs   % of bases   Sequenced base pairs[36]   % sequenced base pairs
   -------------------- ----------- ------------------ ------------ -------------------------- ------------------------
@@ -152,7 +148,7 @@ These tables give the total number of chromosomes (including sex chromosomes) in
 
 Normal members of a particular eukaryotic species all have the same number of nuclear chromosomes (see the table). Other eukaryotic chromosomes, i.e., mitochondrial and plasmid-like small chromosomes, are much more variable in number, and there may be thousands of copies per cell.
 
-PLoSBiol3.5.Fig1bNucleus46Chromosomes.jpg during prometaphase in fibroblast cells.]]
+during prometaphase in fibroblast cells.]]
 
 Asexually reproducing species have one set of chromosomes that are the same in all body cells. However, asexual species can be either haploid or diploid.
 
@@ -167,7 +163,7 @@ Prokaryote species generally have one copy of each major chromosome, but most ce
 
 Karyotype
 
-NHGRI_human_male_karyotype.png In general, the KARYOTYPE is the characteristic chromosome complement of a eukaryote species.[71] The preparation and study of karyotypes is part of cytogenetics.
+In general, the KARYOTYPE is the characteristic chromosome complement of a eukaryote species.[71] The preparation and study of karyotypes is part of cytogenetics.
 
 Although the replication and transcription of DNA is highly standardized in eukaryotes, _the same cannot be said for their karyotypes_, which are often highly variable. There may be variation between species in chromosome number and in detailed organization. In some cases, there is significant variation within species. Often there is:
 
@@ -199,8 +195,6 @@ It took until 1954 before the human diploid number was confirmed as 46.[75][76] 
 
 
 Aberrations
-
-Chromosome_21.png
 
 Chromosomal aberrations are disruptions in the normal chromosomal content of a cell and are a major cause of genetic conditions in humans, such as Down syndrome, although most aberrations have little to no effect. Some chromosome abnormalities do not cause disease in carriers, such as translocations, or chromosomal inversions, although they may lead to a higher chance of bearing a child with a chromosome disorder. Abnormal numbers of chromosomes or chromosome sets, called aneuploidy, may be lethal or may give rise to genetic disorders.[78] Genetic counseling is offered for families that may carry a chromosome rearrangement.
 

@@ -15,15 +15,13 @@ Pascal was born in Clermont-Ferrand, which is in France's Auvergne region. He lo
 
 In 1631, five years after the death of his wife,[9] Étienne Pascal moved with his children to Paris. The newly arrived family soon hired Louise Delfault, a maid who eventually became an instrumental member of the family. Étienne, who never remarried, decided that he alone would educate his children, for they all showed extraordinary intellectual ability, particularly his son Blaise. The young Pascal showed an amazing aptitude for mathematics and science.
 
-Blaise_Pascal_2.jpg
-
 Particularly of interest to Pascal was a work of Desargues on conic sections. Following Desargues' thinking, the 16-year-old Pascal produced, as a means of proof, a short treatise on what was called the "Mystic Hexagram", _Essai pour les coniques_ ("Essay on Conics") and sent it—his first serious work of mathematics—to Père Mersenne in Paris; it is known still today as Pascal's theorem. It states that if a hexagon is inscribed in a circle (or conic) then the three intersection points of opposite sides lie on a line (called the Pascal line).
 
 Pascal's work was so precocious that Descartes was convinced that Pascal's father had written it. When assured by Mersenne that it was, indeed, the product of the son and not the father, Descartes dismissed it with a sniff: "I do not find it strange that he has offered demonstrations about conics more appropriate than those of the ancients," adding, "but other matters related to this subject can be proposed that would scarcely occur to a 16-year-old child."[10]
 
 In France at that time offices and positions could be—and were—bought and sold. In 1631, Étienne sold his position as second president of the _Cour des Aides_ for 65,665 livres.[11] The money was invested in a government bond which provided, if not a lavish, then certainly a comfortable income which allowed the Pascal family to move to, and enjoy, Paris. But in 1638 Richelieu, desperate for money to carry on the Thirty Years' War, defaulted on the government's bonds. Suddenly Étienne Pascal's worth had dropped from nearly 66,000 livres to less than 7,300.
 
-Pascaline-CnAM_823-1-IMG_1506-black.jpg on display at the Musée des Arts et Métiers, Paris]]
+on display at the Musée des Arts et Métiers, Paris]]
 
 Like so many others, Étienne was eventually forced to flee Paris because of his opposition to the fiscal policies of Cardinal Richelieu, leaving his three children in the care of his neighbour Madame Sainctot, a great beauty with an infamous past who kept one of the most glittering and intellectual salons in all France. It was only when Jacqueline performed well in a children's play with Richelieu in attendance that Étienne was pardoned. In time, Étienne was back in good graces with the cardinal and in 1639 had been appointed the king's commissioner of taxes in the city of Rouen—a city whose tax records, thanks to uprisings, were in utter chaos.
 
@@ -32,7 +30,7 @@ In 1642, in an effort to ease his father's endless, exhausting calculations, and
 
 Contributions to mathematics
 
-PascalTriangleAnimated2.gif. Each number is the sum of the two directly above it. The triangle demonstrates many mathematical properties in addition to showing binomial coefficients.]]
+. Each number is the sum of the two directly above it. The triangle demonstrates many mathematical properties in addition to showing binomial coefficients.]]
 
 Pascal continued to influence mathematics throughout his life. His _Traité du triangle arithmétique_ ("Treatise on the Arithmetical Triangle") of 1653 described a convenient tabular presentation for binomial coefficients, now called Pascal's triangle. The triangle can also be represented:
 
@@ -67,7 +65,7 @@ In _De l'Art de persuader_ ("On the Art of Persuasion"), Pascal looked deeper in
 
 Contributions to the physical sciences
 
-Pascal's_Barrel.png experiment]]
+experiment]]
 
 Pascal's work in the fields of the study of hydrodynamics and hydrostatics centered on the principles of hydraulic fluids. His inventions include the hydraulic press (using hydraulic pressure to multiply force) and the syringe. He proved that hydrostatic pressure depends not on the weight of the fluid but on the elevation difference. He demonstrated this principle by attaching a thin tube to a barrel full of water and filling the tube with water up to the level of the third floor of a building. This caused the barrel to leak, in what became known as Pascal's barrel experiment.
 
@@ -96,7 +94,7 @@ Adult life, religion, philosophy, and literature
 
 Religious conversion
 
-Pascal_Pajou_Louvre_RF2981.jpg, by Augustin Pajou, 1785, Louvre]]
+, by Augustin Pajou, 1785, Louvre]]
 
 In the winter of 1646, Pascal's 58-year-old father broke his hip when he slipped and fell on an icy street of Rouen; given the man's age and the state of medicine in the 17th century, a broken hip could be a very serious condition, perhaps even fatal. Rouen was home to two of the finest doctors in France: Monsieur Doctor Deslandes and Monsieur Doctor de La Bouteillerie. The elder Pascal "would not let anyone other than these men attend him...It was a good choice, for the old man survived and was able to walk again..."[19] But treatment and rehabilitation took three months, during which time La Bouteillerie and Deslandes had become regular visitors.
 
@@ -128,7 +126,7 @@ Pascal's _Pensées_ is widely considered to be a masterpiece, and a landmark in 
 
 Last works and death
 
-Epitaph_Blaise_Pascal_Saint-Etienne.jpg, where he was buried]]
+, where he was buried]]
 
 T. S. Eliot described him during this phase of his life as "a man of the world among ascetics, and an ascetic among men of the world." Pascal's ascetic lifestyle derived from a belief that it was natural and necessary for a person to suffer. In 1659, Pascal fell seriously ill. During his last years, he frequently tried to reject the ministrations of his doctors, saying, "Sickness is the natural state of Christians."[28]
 
@@ -141,7 +139,7 @@ An autopsy performed after his death revealed grave problems with his stomach an
 
 Legacy
 
-001Paskal.JPG of Blaise Pascal.]]
+of Blaise Pascal.]]
 
 In honour of his scientific contributions, the name _Pascal_ has been given to the SI unit of pressure, to a programming language, and Pascal's law (an important principle of hydrostatics), and as mentioned above, Pascal's triangle and Pascal's wager still bear his name.
 

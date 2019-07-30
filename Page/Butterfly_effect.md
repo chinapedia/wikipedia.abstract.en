@@ -1,6 +1,4 @@
-Lorenz_attractor_yb.svg for values ρ=28, σ = 10, β = 8/3. The butterfly effect or sensitive dependence on initial conditions is the property of a dynamical system that, starting from any of various arbitrarily close alternative initial conditions on the attractor, the iterated points will become arbitrarily spread out from each other.]]
-
-Double_pendulum_simultaneous_realisations.ogv
+for values ρ=28, σ = 10, β = 8/3. The butterfly effect or sensitive dependence on initial conditions is the property of a dynamical system that, starting from any of various arbitrarily close alternative initial conditions on the attractor, the iterated points will become arbitrarily spread out from each other.]]
 
 In chaos theory, the BUTTERFLY EFFECT is the sensitive dependence on initial conditions in which a small change in one state of a deterministic nonlinear system can result in large differences in a later state.[1]
 
@@ -40,7 +38,7 @@ Illustration
 
     {|class="wikitable" width=100%
 
-|- ! colspan=3|The butterfly effect in the Lorenz attractor |- | colspan="2" style="text-align:center;"| time 0 ≤ _t_ ≤ 30 (larger) | style="text-align:center;"| _z_ coordinate (larger) |- | colspan="2" style="text-align:center;"|TwoLorenzOrbits.jpg | style="text-align:center;"|LorenzCoordinatesSmall.jpg |- |colspan=3| These figures show two segments of the three-dimensional evolution of two trajectories (one in blue, and the other in yellow) for the same period of time in the Lorenz attractor starting at two initial points that differ by only 10^(−5) in the x-coordinate. Initially, the two trajectories seem coincident, as indicated by the small difference between the _z_ coordinate of the blue and yellow trajectories, but for _t_ > 23 the difference is as large as the value of the trajectory. The final position of the cones indicates that the two trajectories are no longer coincident at _t_ = 30. |- | style="text-align:center;" colspan="3"| An animation of the Lorenz attractor shows the continuous evolution. |}
+|- ! colspan=3|The butterfly effect in the Lorenz attractor |- | colspan="2" style="text-align:center;"| time 0 ≤ _t_ ≤ 30 (larger) | style="text-align:center;"| _z_ coordinate (larger) |- | colspan="2" style="text-align:center;"| | style="text-align:center;"| |- |colspan=3| These figures show two segments of the three-dimensional evolution of two trajectories (one in blue, and the other in yellow) for the same period of time in the Lorenz attractor starting at two initial points that differ by only 10^(−5) in the x-coordinate. Initially, the two trajectories seem coincident, as indicated by the small difference between the _z_ coordinate of the blue and yellow trajectories, but for _t_ > 23 the difference is as large as the value of the trajectory. The final position of the cones indicates that the two trajectories are no longer coincident at _t_ = 30. |- | style="text-align:center;" colspan="3"| An animation of the Lorenz attractor shows the continuous evolution. |}
 
 
 Theory and mathematical definition

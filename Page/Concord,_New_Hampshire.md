@@ -5,7 +5,7 @@ Concord includes the villages of Penacook, East Concord, and West Concord. The c
 
 History
 
-Old_Town_House.GIF The area that would become Concord was originally settled thousands of years ago by Abenaki Native Americans called the Pennacook.[4] The tribe fished for migrating salmon, sturgeon, and alewives with nets strung across the rapids of the Merrimack River. The stream was also the transportation route for their birch bark canoes, which could travel from Lake Winnipesaukee to the Atlantic Ocean. The broad sweep of the Merrimack River valley floodplain provided good soil for farming beans, gourds, pumpkins, melons and maize.
+The area that would become Concord was originally settled thousands of years ago by Abenaki Native Americans called the Pennacook.[4] The tribe fished for migrating salmon, sturgeon, and alewives with nets strung across the rapids of the Merrimack River. The stream was also the transportation route for their birch bark canoes, which could travel from Lake Winnipesaukee to the Atlantic Ocean. The broad sweep of the Merrimack River valley floodplain provided good soil for farming beans, gourds, pumpkins, melons and maize.
 
 On January 17, 1725, the Province of Massachusetts Bay, which then claimed territories west of the Merrimack River, granted the Concord area as the Plantation of Penacook.[5] It was settled between 1725 and 1727 by Captain Ebenezer Eastman and others from Haverhill, Massachusetts. On February 9, 1734, the town was incorporated as Rumford,[6] from which Sir Benjamin Thompson, Count Rumford would take his title. It was renamed Concord in 1765 by Governor Benning Wentworth following a bitter boundary dispute between Rumford and the town of Bow; the city name was meant to reflect the new concord, or harmony, between the disputant towns.[7] Citizens displaced by the resulting border adjustment were given land elsewhere as compensation. In 1779, New Pennacook Plantation was granted to Timothy Walker, Jr. and his associates at what would be incorporated in 1800 as Rumford, Maine, the site of Pennacook Falls.
 
@@ -16,11 +16,11 @@ Image:First Concord Bridge.GIF| First Concord Bridge, 1795 Image:State House, Co
 
 Geography
 
-Main_Street_Concord_NH_Jan_2017.jpg Concord is located at (43.2070, −71.5371).[11]
+Concord is located at (43.2070, −71.5371).[11]
 
 According to the United States Census Bureau, the city has a total area of . of it is land and of it is water, comprising 4.79% of the city.[12] Concord is drained by the Merrimack River. Penacook Lake is in the west. The highest point in Concord is above sea level on Oak Hill, just west of the hill's summit in neighboring Loudon.
 
-Concord lies fully within the Merrimack River watershed,[13] and is centered on the river, which runs from northwest to southeast through the city. Downtown is located on a low terrace to the west of the river, with residential neighborhoods climbing hills to the west and extending southwards towards the town of Bow. To the east of the Merrimack, atop a bluff, is a flat, sandy plain known as Concord Heights, which has seen most of the city's commercial development since 1960. The eastern boundary of Concord (with the town of Pembroke) is formed by the Soucook River, a tributary of the Merrimack. The Turkey River winds through the southwestern quarter of the city, passing through the campus of St. Paul's School before entering the Merrimack River in Bow. In the northern part of the city, the Contoocook River enters the Merrimack at the village of Penacook. Other village centers in the city include West Concord (actually north of downtown, on the west side of the Merrimack) and East Concord (also north of downtown, but on the east side of the Merrimack). Concord_102WP.jpg
+Concord lies fully within the Merrimack River watershed,[13] and is centered on the river, which runs from northwest to southeast through the city. Downtown is located on a low terrace to the west of the river, with residential neighborhoods climbing hills to the west and extending southwards towards the town of Bow. To the east of the Merrimack, atop a bluff, is a flat, sandy plain known as Concord Heights, which has seen most of the city's commercial development since 1960. The eastern boundary of Concord (with the town of Pembroke) is formed by the Soucook River, a tributary of the Merrimack. The Turkey River winds through the southwestern quarter of the city, passing through the campus of St. Paul's School before entering the Merrimack River in Bow. In the northern part of the city, the Contoocook River enters the Merrimack at the village of Penacook. Other village centers in the city include West Concord (actually north of downtown, on the west side of the Merrimack) and East Concord (also north of downtown, but on the east side of the Merrimack).
 
 The city's neighboring communities are Bow to the south, Pembroke to the southeast, Loudon to the northeast, Canterbury, Boscawen, and Webster to the north, and Hopkinton to the west. It is north of Manchester, New Hampshire's largest city, and north of Boston.
 
@@ -33,7 +33,7 @@ The monthly daily average temperature range from in January to in July. Temperat
 
 Demographics
 
-Post_Office,_Concord,_NH.jpg As of the census of 2010, there were 42,695 people, 17,592 households, and 10,052 families residing in the city. The population density was 632.5 people per square mile (244.2/km²). There were 18,852 housing units at an average density of 293.2 per square mile (113.2/km²). The racial makeup of the city was 91.8% White, 2.2% Black or African American, 0.3% Native American, 3.4% Asian, 0.0% Pacific Islander, 0.4% from some other race, and 1.8% from two or more races. 2.1% of the population were Hispanic or Latino of any race.[16]
+As of the census of 2010, there were 42,695 people, 17,592 households, and 10,052 families residing in the city. The population density was 632.5 people per square mile (244.2/km²). There were 18,852 housing units at an average density of 293.2 per square mile (113.2/km²). The racial makeup of the city was 91.8% White, 2.2% Black or African American, 0.3% Native American, 3.4% Asian, 0.0% Pacific Islander, 0.4% from some other race, and 1.8% from two or more races. 2.1% of the population were Hispanic or Latino of any race.[16]
 
 There were 17,592 households out of which 28.7% had children under the age of 18 living with them, 41.3% were headed by married couples living together, 11.6% had a female householder with no husband present, and 42.9% were non-families. 33.6% of all households were made up of individuals, and 12.0% were someone living alone who was 65 years of age or older. The average household size was 2.26, and the average family size was 2.90.[17]
 
@@ -84,7 +84,7 @@ Notable people
 
 Government
 
-Concord_City_Hall.jpg Concord is governed via the manager-council system. The city council consists of 14 members, ten of which are elected from single-member wards, while the other four are elected at large. The mayor is elected directly every two years. The current mayor is Jim Bouley.[22]
+Concord is governed via the manager-council system. The city council consists of 14 members, ten of which are elected from single-member wards, while the other four are elected at large. The mayor is elected directly every two years. The current mayor is Jim Bouley.[22]
 
 According to the Concord city charter, the mayor chairs the council (composed of 15 members, including the mayor).[23] However, the mayor has very few formal powers over the day-to-day management of the city.[24] The actual operations of the city are overseen by the city manager,[25] currently Thomas J. Aspell, Jr.[26] The current police chief is Bradley S. Osgood.[27]
 
@@ -92,11 +92,7 @@ In the New Hampshire Senate, Concord is in the 15th District, represented by Dem
 
 New Hampshire Department of Corrections operates the New Hampshire State Prison for Men and New Hampshire State Prison for Women[28] in Concord.
 
-Former_Eagle_Hotel,_Concord,_NH_IMG_2674.JPG.]]
-
-Downtown_Concord,_NH,_near_the_state_capitol_IMG_2719.JPG
-
-Veterans_Monument,_Concord,_NH_IMG_2718.JPG
+.]]
 
 
 Media
@@ -127,15 +123,11 @@ TELEVISION
 
 Sites of interest
 
-Concordcapitolsign.jpg
-
 The New Hampshire State House, designed by architect Stuart Park and constructed between 1815 and 1818, is the oldest state house in which the legislature meets in its original chambers.[29] The building was remodeled in 1866, and the third story and west wing were added in 1910.
 
 Across from the State House is the Eagle Hotel on Main Street, which has been a downtown landmark since its opening in 1827. U.S. Presidents Ulysses S. Grant, Rutherford Hayes, and Benjamin Harrison all dined there, and Franklin Pierce spent the night before departing for his inauguration. Other well-known guests included Jefferson Davis, Charles Lindbergh, Eleanor Roosevelt, Richard M. Nixon (who carried New Hampshire in all three of his presidential bids), and Thomas E. Dewey. The hotel closed in 1961.[30]
 
 South from the Eagle Hotel on Main Street is Phenix Hall, which replaced "Old" Phenix Hall, which burned in 1893. Both the old and new buildings featured multi-purpose auditoriums used for political speeches, theater productions, and fairs. Abraham Lincoln spoke at the old hall in 1860; Theodore Roosevelt, at the new hall in 1912.[31]
-
-Old_Walker_House,_Concord,_NH.jpg
 
 North on Main Street is the Walker-Woodman House, also known as the Reverend Timothy Walker House, the oldest standing two-story house in Concord.[32] It was built for the Reverend Timothy Walker between 1733 and 1735.
 

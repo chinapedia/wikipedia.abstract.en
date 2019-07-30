@@ -1,4 +1,4 @@
-Minaret_of_jam_2009_ghor.jpg built by the Ghurid dynasty]]
+built by the Ghurid dynasty]]
 
 The MUSLIM CONQUESTS OF AFGHANISTAN began during the Muslim conquest of Persia as the Arab Muslims migrated eastwards to Khorasan, Sistan and Transoxiana. 15 years after the Battle of Nahāvand, they controlled all Sasanian domains except parts of Afghanistan and Makran.[1] Nancy Dupree states that Arabs carrying the religion of Islam captured Herat and Sistan, but the eastern areas often revolted and converted back to their old faiths whenever the Arab armies withdrew. The harshness of the Arab rule caused the native dynasties to revolt after the Arab power weakened like the Saffarids.[2] Fuller Islamization wasn't achieved until the period between 10th and 12th centuries under Ghaznavid and Ghurid dynasty's rule who patronized Muslim religious institutions.[3]
 
@@ -19,7 +19,7 @@ Before their conversion, the _Kafir_ people of Kafiristan practiced a form of an
 
 Arab conquests
 
-Ancient_Khorasan_highlighted.jpg]]
+]]
 
 During the Muslim conquest of Persia, the Arabs were drawn eastwards from the Iraqi plains to central and eastern Persia, then to Media, into Khorasan, Sistan and Transoxania. 15 years after the Battle of Nahāvand, the Arabs controlled all Sasanian domain except the parts of Afghanistan and Makran.[34] Nancy Dupree states that advancing Arabs carrying the religion of Islam easily took over Herat and Sistan, but the other areas often revolted and converted back to their old faiths whenever the Arab armies withdrew. The harshness of the Arab rule caused the native dynasties to revolt after the Arab power weakened like the Saffarids founded by the zealous Yaqub who conquered many cities of the region.[35]
 
@@ -33,7 +33,7 @@ In Afghanistan, the frontier of the Islamic conquest had become more or less sta
 
 Sistan
 
-Sakastan_Sasanian_era.png under the Sasanian Empire.]]
+under the Sasanian Empire.]]
 
 The earlier Arabs called Sistan as _Sijistan_, from the Persian _Sagestan_. It is a lowland region, lying round and eastwards from the Zarah lake, which includes deltas of Helmand and other rivers which drain into it.[40] Muslim conquest of Sistan began in 23 A.H. (643-644 A.D.) when Asim bin Amr and Abdallah ibn Amir invaded the region and besieged Zaranj. The Sistanis concluded a treaty with Muslims, mandating them to pay the kharaj.[41]
 
@@ -51,7 +51,7 @@ Ziyad ibn Abihi was appointed governor of Basra in 664 and was also made governo
 
 Khorasan
 
-Transoxiana_8th_century.svg, Transoxiana and Tokharistan in the 8th century]]
+, Transoxiana and Tokharistan in the 8th century]]
 
 There is general agreement among Arabic sources that Khorasan's conquest began in the reign of Uthman under Abdallah b. Amir who had been appointed the governor of Basra (r. 649-655). Sayf's tradition however disagrees with this, dating it to 639 under the reign of Umar with Ahnaf ibn Qais leading the expedition. Al-Tabari meanwhile relates that Ahnaf's conquests occurred in 643. This could be because of confusion of Ahnaf's later activities under Ibn Amir and an attempt to magnify his role in Khorasan's conquest.[63]
 
@@ -99,7 +99,7 @@ Taking advantage of the factional fighting among the Arabs, Transoxania started 
 
 The Zunbils
 
-Sindh_700ad.jpg]]
+]]
 
 The Zunbils in the pre-Saffarid period ruled in Zabulistan and Zamindawar, stretching between Ghazna and Bost, and had acted as a barrier against Muslim expansion for a long time. Zamindawar is known to have a shrine dedicated to the god Zun. It has been linked with the Hindu god Aditya at Multan, pre-Buddhist religious and kingship practices of Tibet as well as Shaivism. The followers of the Zunbils were called Turks by the Arabic sources, however they applied the name to all their enemies in eastern fringes of Iran.[109][110] They are described as having Turkish troops in their service by sources like Tabari and _Tarikh-e-Sistan_.[111]
 
@@ -155,7 +155,7 @@ The tribute was paid by the Zunbils to _amils_ of caliphs al-Mahdi and ar-Rashid
 
 Kabul Shahi
 
-Turk_Shahi_700ad.jpg kingdom of Kabul in 700 A.D.]]
+kingdom of Kabul in 700 A.D.]]
 
 The area had been under the rule of the Turk Shahi who took over the rule of Kabul in the seventh century and later were attacked by the Arabs.[150] The Turk Shahi dynasty was Buddhist and were followed by a Hindu dynasty shortly before the Saffarid conquest in 870 A.D.[151] Al-Ma'mun's expeditions were the last Arab conflict against Kabul and Zabul and the long-drawn conflict ended with the dissolution of the empire.[152] Muslim missionaries converted many people to Islam; however, the entire population did not convert, with repetitive revolts from the mountain tribes in the Afghan area taking place. The Hindu Shahi were defeated by Mahmud of Ghazna (r. 998-1030) who expelled them from Gandhara and also encouraged mass-conversions in Afghanistan and India.[153]
 
@@ -214,15 +214,11 @@ Post-Arab rule
 
 Tahirids
 
-Tahirid_Dynasty_821_-_873_(AD).png
-
 Khurasan was the base for early recruitment of Abbasid armies, especially the Abbasid takeover received support from Arab settlers aiming to undermine the important sections of non-Muslim aristocracy. The Abbasids succeeded in integrating Khorasan and the East into the central Islamic lands. The state was gradually Persianized through political influence and financial support of the _dihqans_. Al-Ma'mun emerged as the victor in Fourth Fitna with the help of Khorasani forces. But this also ended up turning the province into a virtually independent state under the Tahirids, founded by a Persian _mawla_ who rose to favour under Al-Ma'mun.[199]
 
 According to Ibn Khordadbeh, the Shah of Kabul had to send 2,000 Oghuz slaves worth 600,000 dirhams as annual tribute to the governor of Khorasan Abdallah ibn Tahir (828-845).[200] In addition to the Oghuz slaves, he also had to pay an annual tribute of 1.5 million dirhams.[201] Mid-9th century, one of their tributaries Abu Da'udid or Banijurid Amir Da'ud b. Abu Da'ud Abbas, undertook an obscure campaign into eastern Afghanistan and Zabulistan that was profitable. It is recorded that in 864 Muhammad ibn Tahir sent two elephants captured at Kabul, idols and aromatic substances to the caliph.[202]
 
 Saffarids
-
-Saffarid_dynasty_861-1003.png
 
 Ya'qub b. al-Layth
 
@@ -254,8 +250,6 @@ _Tarikh-e-Sistan_ doesn't mention any attack by Fardaghan on Sakawand however, i
 
 Samanids
 
-Iran_circa_1000AD.png
-
 The Samanids came to rule over areas including Khorasan, Sistan, Tokharistan and Kabulistan after Ismail (r. 892907) in 900 A.D. had defeated the Saffarids, who had taken over Zabulistan and the Kabul region.[232] The Turks were highly noted for their martial prowess by the Muslim sources and were in high demand as slave-soldiers (_ghulam_, _mamluk_) by the Caliphate in Baghdad and the provincial emirs. The slaves were acquired either in military campaigns or through trade. The Samanids were heavily involved in this trade of Turkish slaves from lands to the north and east of their state. As the enslavement was limited to non-Muslims and with the Turks increasingly adopting Islam beyond Samanid borders, they also entered Transoxiana as free men due to various causes.[233]
 
 The Ghaznavids arose indirectly from the atmosphere of disintegration, palace revolutions and succession putschs of the Samanid Empire.[234] Abu-Mansur Sabuktigin was one of the Samanid slave guards who rose from the ranks to come under the patronage of the Chief _Hajib_ Alp-Tegin.[235] After the death of the Samanid Amir 'Abd al-Malik b. Nuh, the commander of forces in Khorasan Alp-Tegin along with the _vizier_ Muhammad Bal'ami attempted to place a ruler of their choice on the throne. The attempt failed however and Alp-Tegin decided to withdraw to the eastern fringes of the empire. Per the sources, he wanted to flee to India to avoid his enemies and earn divine merit by raiding the Hindus. He didn't intend to capture Ghazna, but was forced to take it when denied transit by its ruler.[236]
@@ -270,7 +264,7 @@ The Hudud al-‘Alam states Ghor was under the overlordship of Farighunids.[245]
 
 Ghaznavids
 
-Ghaznavid_Empire_975_-_1187_(AD).PNG in 1030 C.E.]]
+in 1030 C.E.]]
 
 Sabuktigin
 
@@ -292,7 +286,7 @@ The second battle that took place between Sabuktigin and Jayapala in 988 A.D., r
 
 Sultan Mahmud
 
-Mahmud_in_robe_from_the_caliph.jpg; painting by Rashid-al-Din Hamadani]]
+; painting by Rashid-al-Din Hamadani]]
 
 The Samanid amir Mansur II appointed Bektuzun as Khorasan's governor after Sabuktigin's death. Mahmud however wished to reacquire the governorship after defeating his brother Ismail and his allies. Bektuzun and Fa'iq, the _de facto_ power behind the Samanid throne, toppled Mansur II as they did not trust him and replaced him with Abu'l Fawaris 'Abd al-Malik. Their forces were however defeated in 999 by Mahmud, who acquired all the lands south of Oxus with even those to the north of the river submitting to him. The Samanid dynasty was later ended by the Karakhanids.[260] In 1002, Mahmud also defeated the Saffarid Amir Khalaf ibn Ahmad and annexed Sistan.[261]
 
@@ -308,7 +302,7 @@ The renowned 14th-century Moroccan Muslim scholar Ibn Battuta remarked that the 
 
 Invasions of Ghur
 
-MuhammadibnSuriPaintingHistoryofIran.jpg (white-haired) with his men by Rashid-al-Din Hamadani]]
+(white-haired) with his men by Rashid-al-Din Hamadani]]
 
 The conversion of Ghur occurred over a long period and it was mostly pagan until the 10th century, which Mohammad Habib and Khaliq Ahmad Nizami say was probably a result of the missionary activities by the Karramiyya movement established in the region in 10th-11th centuries. Its imperfect conversion is visible by the fact that while the people of Ghur had Muslim names, they led the life of pagans. Muhammad b. Suri who had acknowledged Sabuktigin as his sovereign, withheld tribute after his death, started plundering caravans and harassed the subjects of Sultan Mahmud.[274] Rawżat aṣ-ṣafāʾ called him a pagan, al-Utbi stated he was a Hindu.[275]
 
@@ -346,7 +340,7 @@ The westward migration of Pashtuns to Qandahar and Herat is thought to have begu
 
 Conquests of Kafiristan
 
-AfghanistanNurestan.png province, renamed from Kafiristan in 1896]]
+province, renamed from Kafiristan in 1896]]
 
 Kafiristan is a mountainous region of the Hindu Kush that was isolated and politically independent until the Afghan conquest of 1896.[304] Before their conversion to Islam, the Nuristanis or Kafir people practiced a form of ancient Hinduism infused with locally developed accretions.[305]
 
@@ -369,8 +363,6 @@ According to Gardezi, while returning from invasion of India, he had heard about
 However, no permanent conquest was attempted.[328] _Iqbal namah-i-Jahangiri_ stated that Kafirs still lived in Darrah-i-Nur Sultan Mahmud of Ghazni claimed to have converted. Mughal Emperor Jahangir had received a delegation of these pure Kafirs in Jalalabad and had honored them with gifts.[329]
 
 Timurids
-
-Timur_reconstruction03.jpg
 
 The campaigns of Timur are recorded by Zafarnama written by Sharaf ad-Din Ali Yazdi, based on another work. [330] On his way to India, Timur attacked the Siyah-Posh in 1398 A.D. after receiving complaints from the trading city of Andarab by raids from Kafirs. He penetrated it from Khawak pass and restored an old fortress there.[331] He personally proceeded against the Kator region which extended from Kabul to Kashmir.[332]
 
@@ -402,7 +394,7 @@ The conquest doesn't seem to have had a lasting effect as Henry George Raverty m
 
 Final subjugation
 
-Amir_Abdur_Rahman_Khan_of_Afghanistan-cropped.jpg]]
+]]
 
 Under Amir Sher Ali Khan, Afghanistan was divided into provinces (_wilayats_) of Kabul, Kandahar, Herat and Afghan Turkestan. Uruzgan and Kafiristan were later incorporated into Kabul.[352] Some parts of Kafiristan were already following Islam before its conquest. Amir Abdul Rahman Khan tried to persuade them to convert to Islam by deputing Kafir elders. The Kafirs were poorly armed as compared to Afghans and numbered only 60,000. By 1895, demarcation of nearby Chitral under indirect British rule and conquest of Pamirs by Russia worried him about the endangerment of integration of Afghanistan through the independent Kafiristan.[353] Afghan tribes meanwhile undertook slave raids in places like Kafiristan, Hazarajat, Badakhshan and Chitral.[354]
 

@@ -22,8 +22,6 @@ The FIFA collection is held by the National Football Museum at Urbis in Manchest
 
 Structure
 
-World_Map_FIFA2.svg
-
 Laws and governance
 
 FIFA is headquartered in Zürich, and is an association established under the law of Switzerland.
@@ -80,7 +78,7 @@ As part of its centennial celebrations in 2004, FIFA organised a "Match of the C
 
 Governance and game development
 
-FIFA-Headquarter.jpg in Zürich]]
+in Zürich]]
 
 The laws that govern football, known officially as the Laws of the Game, are not solely the responsibility of FIFA; they are maintained by a body called the International Football Association Board (IFAB). FIFA has members on its board (four representatives); the other four are provided by the football associations of the United Kingdom: England, Scotland, Wales, and Northern Ireland, who jointly established IFAB in 1882 and are recognised for the creation and history of the game. Changes to the Laws of the Game must be agreed by at least six of the eight delegates.
 
@@ -286,8 +284,6 @@ National teams
 -   FIFA Confederations Cup
 
 Title holders
-
-FIFA_Tournaments.svg
 
   Current
   ----------------------------------------

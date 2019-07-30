@@ -31,8 +31,6 @@ In 1809, the family moved to Hope End, a estate near the Malvern Hills in Ledbur
 
 The interior's brass balustrades, mahogany doors inlaid with mother-of-pearl, and finely carved fireplaces were eventually complemented by lavish landscaping: ponds, grottos, kiosks, an ice house, a hothouse, and a subterranean passage from house to gardens.[8] Her time at Hope End would inspire her in later life to write her most ambitious work, _Aurora Leigh_ (1856), which went through more than 20 editions by 1900, but none between 1905 and 1978.[9]
 
-Elizabeth_Barrett_Browning_2.jpg
-
 She was educated at home and tutored by Daniel McSwiney with her oldest brother.[10] She began writing verses at the age of four.[11] During the Hope End period, she was an intensely studious, precocious child.[12] She claimed that at the age of six she was reading novels, at eight entranced by Pope's translations of Homer, studying Greek at ten, and at eleven writing her own Homeric epic, _The Battle of Marathon: A Poem_.[13]
 
 In 1820 Mr Barrett privately published _The Battle of Marathon_, an epic-style poem, though all copies remained within the family.[14] Her mother compiled the child's poetry into collections of "Poems by Elizabeth B. Barrett". Her father called her the "Poet Laureate of Hope End" and encouraged her work. The result is one of the largest collections of juvenilia of any English writer. Mary Russell Mitford described the young Elizabeth at this time, as having "a slight, delicate figure, with a shower of dark curls falling on each side of a most expressive face; large, tender eyes, richly fringed by dark eyelashes, and a smile like a sunbeam."
@@ -43,7 +41,7 @@ She began to take opiates for the pain, laudanum (an opium concoction) followed 
 
 By 1821 she had read Mary Wollstonecraft's _A Vindication of the Rights of Woman_ (1792), and become a passionate supporter of Wollstonecraft's ideas.[20] The child's intellectual fascination with the classics and metaphysics was reflected in a religious intensity which she later described as "not the deep persuasion of the mild Christian but the wild visions of an enthusiast."[21] The Barretts attended services at the nearest Dissenting chapel, and Edward was active in Bible and Missionary societies.
 
-Panasonic_GM5_black_8GB_13_1040230.JPG, Devon, where Elizabeth Barrett lived with her family from 1833 to 1835]]
+, Devon, where Elizabeth Barrett lived with her family from 1833 to 1835]]
 
 Elizabeth's mother died in 1828, and is buried at St Michael's Church, Ledbury, next to her daughter Mary. Sarah Graham-Clarke, Elizabeth's aunt, helped to care for the children, and she had clashes with Elizabeth's strong will. In 1831 Elizabeth's grandmother, Elizabeth Moulton, died. Following lawsuits and the abolition of slavery Mr Barrett incurred great financial and investment losses that forced him to sell Hope End. Although the family was never poor, the place was seized and put up for sale to satisfy creditors. Always secret in his financial dealings, he would not discuss his situation and the family was haunted by the idea that they might have to move to Jamaica.
 
@@ -53,7 +51,7 @@ During 1837–38 the poet was struck with illness again, with symptoms today sug
 
 Success
 
-Brocky,_Karoly_-_Portrait_of_Elisabeth_Barrett-Browning_(1839-44).jpg, ca. 1839–1844]] At Wimpole Street Barrett Browning spent most of her time in her upstairs room. Her health began to improve, though she saw few people other than her immediate family.[24] One of those was Kenyon, a wealthy friend of the family and patron of the arts. She received comfort from a spaniel named Flush, a gift from Mary Mitford.[25] (Virginia Woolf later fictionalised the life of the dog, making him the protagonist of her 1933 novel _Flush: A Biography_).
+, ca. 1839–1844]] At Wimpole Street Barrett Browning spent most of her time in her upstairs room. Her health began to improve, though she saw few people other than her immediate family.[24] One of those was Kenyon, a wealthy friend of the family and patron of the arts. She received comfort from a spaniel named Flush, a gift from Mary Mitford.[25] (Virginia Woolf later fictionalised the life of the dog, making him the protagonist of her 1933 novel _Flush: A Biography_).
 
 Between 1841 and 1844 Barrett Browning was prolific in poetry, translation and prose. The poem "The Cry of the Children", published in 1842 in _Blackwoods_, condemned child labour and helped bring about child-labour reforms by raising support for Lord Shaftesbury's Ten Hours Bill (1844).[26] At about the same time, she contributed critical prose pieces to Richard Henry Horne's _A New Spirit of the Age_.
 
@@ -63,13 +61,13 @@ A Royal Society of Arts blue plaque now commemorates Elizabeth at 50 Wimpole Str
 
 Robert Browning and Italy
 
-Elizabeth_Barrett_Browning_with_her_son_Pen.jpg Clasped_Hands_of_Robert_and_Elizabeth_Barrett_Browning_MET_DT8282.jpg'', 1853 by Harriet Hosmer.]] Her 1844 volume _Poems_ made her one of the most popular writers in the country, and inspired Robert Browning to write to her. He wrote, "I love your verses with all my heart, dear Miss Barrett," praising their "fresh strange music, the affluent language, the exquisite pathos and true new brave thought."[30]
+'', 1853 by Harriet Hosmer.]] Her 1844 volume _Poems_ made her one of the most popular writers in the country, and inspired Robert Browning to write to her. He wrote, "I love your verses with all my heart, dear Miss Barrett," praising their "fresh strange music, the affluent language, the exquisite pathos and true new brave thought."[30]
 
 Kenyon arranged for Browning to meet Elizabeth on 20 May 1845, in her rooms, and so began one of the most famous courtships in literature. Elizabeth had already produced a large amount of work, but Browning had a great influence on her subsequent writing, as did she on his: two of Barrett's most famous pieces were written after she met Browning, _Sonnets from the Portuguese_[31] and _Aurora Leigh._ Robert's _Men and Women_ is also a product of that time.
 
 Some critics state that her activity was, in some ways, in decay before she met Browning: "Until her relationship with Robert Browning began in 1845, Barrett's willingness to engage in public discourse about social issues and about aesthetic issues in poetry, which had been so strong in her youth, gradually diminished, as did her physical health. As an intellectual presence and a physical being, she was becoming a shadow of herself."[32]
 
-Lettre_de_Robert_Browning_à_Elizabeth_Barrett_Browning_datée_en_1846.jpg to Elizabeth Barrett, 10 September 1846]]
+to Elizabeth Barrett, 10 September 1846]]
 
 The courtship and marriage between Robert Browning and Elizabeth were carried out secretly, as she knew her father would disapprove. After a private marriage at St Marylebone Parish Church, they honeymooned in Paris before moving to Italy, in September 1846, which became their home almost continuously until her death. Elizabeth's loyal nurse, Wilson, who witnessed the marriage, accompanied the couple to Italy.[33]
 
@@ -81,7 +79,7 @@ The couple came to know a wide circle of artists and writers including William M
 
 Decline and death
 
-Tomb_-_Elizabeth_Barrett_Browning.jpg. 2007]]
+. 2007]]
 
 After the death of an old friend, G. B. Hunter, and then of her father, Barrett Browning's health started to deteriorate. The Brownings moved from Florence to Siena, residing at the _Villa Alberti_. Engrossed in Italian politics, she issued a small volume of political poems titled _Poems before Congress_ (1860) "most of which were written to express her sympathy with the Italian cause after the outbreak of fighting in 1859".[37] They caused a furore in England, and the conservative magazines _Blackwood's_ and the _Saturday Review_ labelled her a fanatic. She dedicated this book to her husband. Her last work was _A Musical Instrument_, published posthumously.
 
@@ -89,7 +87,7 @@ Barrett Browning's sister Henrietta died in November 1860. The couple spent the 
 
 Publications
 
-ElizabethBarrettBrowning.jpg Barrett Browning's first known poem was written at the age of six or eight, "On the Cruelty of Forcement to Man".[43] The manuscript, which protests against impressment, is currently in the Berg Collection of the New York Public Library; the exact date is controversial because the "2" in the date 1812 is written over something else that is scratched out.[44]
+Barrett Browning's first known poem was written at the age of six or eight, "On the Cruelty of Forcement to Man".[43] The manuscript, which protests against impressment, is currently in the Berg Collection of the New York Public Library; the exact date is controversial because the "2" in the date 1812 is written over something else that is scratched out.[44]
 
 Her first independent publication was "Stanzas Excited by Reflections on the Present State of Greece" in _The New Monthly Magazine_ of May 1821;[45] followed two months later by "Thoughts Awakened by Contemplating a Piece of the Palm which Grows on the Summit of the Acropolis at Athens".[46]
 

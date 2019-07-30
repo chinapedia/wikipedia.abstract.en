@@ -18,7 +18,7 @@ After a coup by members of the Regiment of Presidential Security on September 16
 
 Ground forces
 
-Defense.gov_photo_essay_100501-F-3745E-033.jpg (2010)]] The Army of Burkina Faso (_L'Armée de Terre_ – Ground Forces or LAT) is a skeletonised force structure of some 5,800–6,000 officers and men, augmented by a conscript force or _People's Militia_ of some 45,000 men and women. Unlike the police and security forces, the Army and the People's Militia are organised along Soviet/Chinese models and precepts. The Army is equipped with light wheeled armoured cars, some mounting cannon.
+(2010)]] The Army of Burkina Faso (_L'Armée de Terre_ – Ground Forces or LAT) is a skeletonised force structure of some 5,800–6,000 officers and men, augmented by a conscript force or _People's Militia_ of some 45,000 men and women. Unlike the police and security forces, the Army and the People's Militia are organised along Soviet/Chinese models and precepts. The Army is equipped with light wheeled armoured cars, some mounting cannon.
 
 The International Institute for Strategic Studies estimated in 2011–12 that Burkina Faso had 6,400 personnel in the _Armee de Terre_ in three military regions, one tank battalion (two tank platoons), five infantry regiments that may be under-strength, and an airborne regiment. Artillery and engineer battalions are also listed.[6]
 
@@ -33,8 +33,6 @@ Equipment
 
 Small arms
 
-Close_quarter_combat_training_in_Burkina_Faso_during_Flintlock_2017_170308-A-ZF167-147.jpg
-
   Name              Origin          Type                          Variant         Notes
   ----------------- --------------- ----------------------------- --------------- -------
   Walther PP[11]    Germany         Semi-auto pistol
@@ -47,7 +45,7 @@ Close_quarter_combat_training_in_Burkina_Faso_during_Flintlock_2017_170308-A-ZF1
 
 Armour
 
-Pick-up_Armee_Burkina_Faso.png.]] Blindé_loyaliste.png.]]
+.]] .]]
 
   Name                        Origin           Type                        In service   Notes
   --------------------------- ---------------- --------------------------- ------------ ------------------------------------------
@@ -80,7 +78,7 @@ In late 2005, the FABF acquired two Mil Mi-35 'Hind' attack helicopters from Rus
 
 Aircraft
 
-SIAI-Marchetti_SF-260WL_Warrior_(modified).jpg Roundel_of_Burkina_Faso.svg used by the Air Force]]
+used by the Air Force]]
 
 Current inventory
 

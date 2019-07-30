@@ -5,8 +5,6 @@ Chesterton is well known for his fictional priest-detective Father Brown,[4] and
 
 Early life
 
-G.K._Chesterton_at_the_age_of_17.jpg
-
 Chesterton was born in Campden Hill in Kensington, London, the son of Marie Louise, née Grosjean, and Edward Chesterton.[7][8] He was baptised at the age of one month into the Church of England, though his family themselves were irregularly practising Unitarians. According to his autobiography, as a young man Chesterton became fascinated with the occult and, along with his brother Cecil, experimented with Ouija boards.
 
 Chesterton was educated at St Paul's School, then attended the Slade School of Art to become an illustrator. The Slade is a department of University College London, where Chesterton also took classes in literature, but did not complete a degree in either subject.
@@ -23,7 +21,7 @@ In September 1895 Chesterton began working for the London publisher Redway, wher
 
 Early on Chesterton showed a great interest in and talent for art. He had planned to become an artist, and his writing shows a vision that clothed abstract ideas in concrete and memorable images. Even his fiction contained carefully concealed parables. Father Brown is perpetually correcting the incorrect vision of the bewildered folks at the scene of the crime and wandering off at the end with the criminal to exercise his priestly role of recognition and repentance. For example, in the story "The Flying Stars", Father Brown entreats the character Flambeau to give up his life of crime: "There is still youth and honour and humour in you; don't fancy they will last in that trade. Men may keep a sort of level of good, but no man has ever been able to keep on one level of evil. That road goes down and down. The kind man drinks and turns cruel; the frank man kills and lies about it. Many a man I've known started like you to be an honest outlaw, a merry robber of the rich, and ended stamped into slime."[10]
 
-Caricature_of_Chesterton,_by_Beerbohm.jpg of Chesterton, by Max Beerbohm]] Chesterton loved to debate, often engaging in friendly public disputes with such men as George Bernard Shaw,[11] H. G. Wells, Bertrand Russell and Clarence Darrow.[12][13] According to his autobiography, he and Shaw played cowboys in a silent film that was never released.[14]
+of Chesterton, by Max Beerbohm]] Chesterton loved to debate, often engaging in friendly public disputes with such men as George Bernard Shaw,[11] H. G. Wells, Bertrand Russell and Clarence Darrow.[12][13] According to his autobiography, he and Shaw played cowboys in a silent film that was never released.[14]
 
 Visual wit
 
@@ -40,7 +38,7 @@ The talks were very popular. A BBC official remarked, after Chesterton's death, 
 
 Death and veneration
 
-PPXI.jpeg sent by Cardinal Eugenio Pacelli (the future Pius XII) on behalf of Pope Pius XI to the people of England following the death of Chesterton]]
+sent by Cardinal Eugenio Pacelli (the future Pius XII) on behalf of Pope Pius XI to the people of England following the death of Chesterton]]
 
 Chesterton died of congestive heart failure on the morning of 14 June 1936, at his home in Beaconsfield, Buckinghamshire. His last known words were a greeting spoken to his wife. The sermon at Chesterton's Requiem Mass in Westminster Cathedral, London, was delivered by Ronald Knox on 27 June 1936. Knox said, "All of this generation has grown up under Chesterton's influence so completely that we do not even know when we are thinking Chesterton."[19] He is buried in Beaconsfield in the Catholic Cemetery. Chesterton's estate was probated at £28,389, .[20]
 
@@ -58,7 +56,7 @@ Chesterton's writings consistently displayed wit and a sense of humour. He emplo
 
 Views and contemporaries
 
-Three_acres_and_a_cow.JPG slogan "Three acres and a cow"]]
+slogan "Three acres and a cow"]]
 
 Chesterton's writing has been seen by some analysts as combining two earlier strands in English literature. Dickens' approach is one of these. Another is represented by Oscar Wilde and George Bernard Shaw, whom Chesterton knew well: satirists and social commentators following in the tradition of Samuel Butler, vigorously wielding paradox as a weapon against complacent acceptance of the conventional view of things.
 
@@ -68,7 +66,7 @@ Chesterton and Shaw were famous friends and enjoyed their arguments and discussi
 
 Shaw represented the new school of thought, modernism, which was rising at the time. Chesterton's views, on the other hand, became increasingly more focused towards the Church. In _Orthodoxy_ he writes: "The worship of will is the negation of will … If Mr. Bernard Shaw comes up to me and says, 'Will something', that is tantamount to saying, 'I do not mind what you will', and that is tantamount to saying, 'I have no will in the matter.' You cannot admire will in general, because the essence of will is that it is particular."
 
-Title_Page_of_Orthodoxy,_by_G.K._Chesterton.png'', first published in the previous year]] This style of argumentation is what Chesterton refers to as using 'Uncommon Sense' – that is, that the thinkers and popular philosophers of the day, though very clever, were saying things that were nonsensical. This is illustrated again in _Orthodoxy_: "Thus when Mr. H. G. Wells says (as he did somewhere), 'All chairs are quite different', he utters not merely a misstatement, but a contradiction in terms. If all chairs were quite different, you could not call them 'all chairs'." Or, again from _Orthodoxy_:
+'', first published in the previous year]] This style of argumentation is what Chesterton refers to as using 'Uncommon Sense' – that is, that the thinkers and popular philosophers of the day, though very clever, were saying things that were nonsensical. This is illustrated again in _Orthodoxy_: "Thus when Mr. H. G. Wells says (as he did somewhere), 'All chairs are quite different', he utters not merely a misstatement, but a contradiction in terms. If all chairs were quite different, you could not call them 'all chairs'." Or, again from _Orthodoxy_:
 
   The wild worship of lawlessness and the materialist worship of law end in the same void. Nietzsche scales staggering mountains, but he turns up ultimately in Tibet. He sits down beside Tolstoy in the land of nothing and Nirvana. They are both helpless – one because he must not grasp anything, and the other because he must not let go of anything. The Tolstoyan's will is frozen by a Buddhist instinct that all special actions are evil. But the Nietzscheite's will is quite equally frozen by his view that all special actions are good; for if all special actions are good, none of them are special. They stand at the crossroads, and one hates all the roads and the other likes all the roads. The result is – well, some things are not hard to calculate. They stand at the cross-roads.[29]
 
@@ -116,7 +114,7 @@ Chesterton also mocked the idea that poverty was a result of bad breeding: "[it 
 
 "Chesterbelloc"
 
-Shaw,_Belloc_e_Chesterton.jpg, Hilaire Belloc, and G. K. Chesterton]]
+, Hilaire Belloc, and G. K. Chesterton]]
 
 Chesterton is often associated with his close friend, the poet and essayist Hilaire Belloc.[53][54] George Bernard Shaw coined the name "Chesterbelloc"[55] for their partnership,[56] and this stuck. Though they were very different men, they shared many beliefs;[57] Chesterton eventually joined Belloc in the Catholic faith, and both voiced criticisms of capitalism and socialism.[58] They instead espoused a third way: distributism.[59] _G. K.'s Weekly_, which occupied much of Chesterton's energy in the last 15 years of his life, was the successor to Belloc's _New Witness_, taken over from Cecil Chesterton, Gilbert's brother, who died in World War I.
 

@@ -72,7 +72,7 @@ Publications
 
 He wrote a number of books and papers two of which are of immense importance, namely (1) _INDIA IN TRANSITION_, about the prepartition politics of India and (2) _THE MEMOIRS OF AGA KHAN: WORLD ENOUGH AND TIME_, his autobiography.
 
-Assuan_9785.JPG, Egypt.]] Assuan_9932.JPG.]]
+, Egypt.]] .]]
 
 
 Death and succession

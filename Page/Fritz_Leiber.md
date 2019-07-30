@@ -1,4 +1,4 @@
-Future_Fiction_August_1941.jpg_]] Fantastic_adventures_195007.jpg_]] FRITZ REUTER LEIBER JR. (December 24, 1910 – September 5, 1992) was an American writer of fantasy, horror, and science fiction. He was also a poet, actor in theater and films, playwright and chess expert. With writers such as Robert E. Howard and Michael Moorcock, Leiber can be regarded as one of the fathers of sword and sorcery fantasy, having coined the term.
+_]] _]] FRITZ REUTER LEIBER JR. (December 24, 1910 – September 5, 1992) was an American writer of fantasy, horror, and science fiction. He was also a poet, actor in theater and films, playwright and chess expert. With writers such as Robert E. Howard and Michael Moorcock, Leiber can be regarded as one of the fathers of sword and sorcery fantasy, having coined the term.
 
 
 Life
@@ -30,7 +30,7 @@ Leiber's own literary criticism, including several essays on Lovecraft, was coll
 
 Theater
 
-Fantastic_196105.jpg'']]
+'']]
 
 As the child of two Shakespearean actors—Fritz Sr. and Virginia (née Bronson)—Leiber was fascinated with the stage, describing itinerant Shakespearean companies in stories like "No Great Magic" and "Four Ghosts in Hamlet," and creating an actor/producer protagonist for his novel _A Specter is Haunting Texas_.
 
@@ -48,7 +48,7 @@ He also appears in the 1979 Schick Sunn Classics documentary _The Bermuda Triang
 
 Writing career
 
-Galaxy_195803.jpg'' in 1958]] Fantastic_195911.jpg'' was devoted exclusively to Leiber's fiction, publishing five original sf and fantasy stories]] If_195902.jpg_, illustrated by Kelly Freas]] Amazing_science_fiction_stories_196001.jpg_]] Fantastic_196011.jpg_]] Galaxy_196110.jpg_]] Fantastic_196111.jpg_]] Fantastic_196202.jpg If_196209.jpg_]] Fantastic_196210.jpg Fantastic_196302.jpg Fantastic_196308.jpg
+'' in 1958]] '' was devoted exclusively to Leiber's fiction, publishing five original sf and fantasy stories]] _, illustrated by Kelly Freas]] _]] _]] _]] _]] _]]
 
 Leiber was heavily influenced by H. P. Lovecraft and Robert Graves in the first two decades of his career. Beginning in the late 1950s, he was increasingly influenced by the works of Carl Jung, particularly by the concepts of the anima and the shadow. From the mid-1960s onwards, he began incorporating elements of Joseph Campbell's _The Hero with a Thousand Faces_. These concepts are often openly mentioned in his stories, especially the anima, which becomes a method of exploring his fascination with, but estrangement from, the female.
 

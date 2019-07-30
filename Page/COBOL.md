@@ -13,7 +13,7 @@ Background
 
 In the late 1950s, computer users and manufacturers were becoming concerned about the rising cost of programming. A 1959 survey had found that in any data processing installation, the programming cost US$800,000 on average and that translating programs to run on new hardware would cost $600,000. At a time when new programming languages were proliferating at an ever-increasing rate, the same survey suggested that if a common business-oriented language were used, conversion would be far cheaper and faster.
 
-Grace_Hopper.jpg, the inventor of FLOW-MATIC, a predecessor to COBOL]]
+, the inventor of FLOW-MATIC, a predecessor to COBOL]]
 
 On 8 April 1959, Mary K. Hawes, a computer scientist at Burroughs Corporation, called a meeting of representatives from academia, computer users, and manufacturers at the University of Pennsylvania to organize a formal meeting on common business languages.[9] Representatives included Grace Hopper, inventor of the English-like data processing language FLOW-MATIC, Jean Sammet and Saul Gorn.
 

@@ -15,8 +15,6 @@ Baekeland then began experimenting on strengthening wood by impregnating it with
 
 Baekeland filed a substantial number of patents in the area.[9] Bakelite, his "method of making insoluble products of phenol and formaldehyde," was filed on July 13, 1907, and granted on December 7, 1909.[10] Baekeland also filed for patent protection in other countries, including Belgium, Canada, Denmark, Hungary, Japan, Mexico, Russia, and Spain.[11] He announced his invention at a meeting of the American Chemical Society on February 5, 1909.[12]
 
-First_Semi-commercial_Bakelizer_1935_Bakelite_Review_Silver_Anniversary_p6.tif
-
 Baekeland started semi-commercial production of his new material in his home laboratory, marketing it as a material for electrical insulators. By 1910, he was producing enough material to justify expansion. He formed the General Bakelite Company as a U.S. company to manufacture and market his new industrial material. He also made overseas connections to produce materials in other countries.[13]
 
 Bijker gives a detailed discussion of the development of Bakelite and the Bakelite company's production of various applications of materials.[14] As of 1911, the company's main focus was laminating varnish, whose sales volume vastly outperformed both molding material and cast resin. By 1912, molding material was gaining ground, but its sales volume for the company did not exceed that of laminating varnish until the 1930s.
@@ -24,8 +22,6 @@ Bijker gives a detailed discussion of the development of Bakelite and the Bakeli
 As the sales figures also show, the Bakelite Company produced "transparent" cast resin (which did not include filler) for a small ongoing market during the 1910s and 1920s.[15] Blocks or rods of cast resin, also known as "artificial amber", were machined and carved to create items such as pipe stems, cigarette holders and jewelry.[16][17] However, the demand for molded plastics led the Bakelite company to concentrate on molding, rather than concentrating on cast solid resins.[18]
 
 The Bakelite Corporation was formed in 1922 after patent litigation favorable to Baekeland, from a merger of three companies: Baekeland's General Bakelite Company; the Condensite Company, founded by J.W. Aylesworth; and the Redmanol Chemical Products Company, founded by Lawrence V. Redman.[19] Under director of advertising and public relations Allan Brown, who came to Bakelite from Condensite, Bakelite was aggressively marketed as "the material of a thousand uses".[20][21] A filing for a trademark featuring the letter B above the mathematical symbol for infinity was made August 25, 1925, and claimed the mark was in use as of December 1, 1924. A wide variety of uses were listed in their trademark applications.[22]
-
-Bakelite_color_chart_1924_Gifts_to_Treasure_Embed_Art_Company_Jewel_only.tif
 
 The first issue of _Plastics_ magazine, October 1925, featured Bakelite on its cover, and included the article "Bakelite – What It Is" by Allan Brown. The range of colors available included "black, brown, red, yellow, green, gray, blue, and blends of two or more of these".[23] The article emphasized that Bakelite came in various forms. "Bakelite is manufactured in several forms to suit varying requirements. In all these forms the fundamental basis is the initial Bakelite resin. This variety includes clear material, for jewelry, smokers' articles, etc.; cement, using in sealing electric light bulbs in metal bases; varnishes, for impregnating electric coils, etc.; lacquers, for protecting the surface of hardware; enamels, for giving resistive coating to industrial equipment; Laminated Bakelite, used for silent gears and insulation; and molding material, from which are formed innumerable articles of utility and beauty. The molding material is prepared ordinarily by the impregnation of cellulose substances with the initial 'uncured' resin."[24] In a 1925 report, the United States Tariff Commission hailed the commercial manufacture of synthetic phenolic resin as "distinctly an American achievement", and noted that "the publication of figures, however, would be a virtual disclosure of the production of an individual company".[25]
 
@@ -48,7 +44,7 @@ File:Weigh Room Liquid Materials 1935 Bakelite Review Silver Anniversary p12.tif
 
 Compression molding
 
-RotorBakelite-2.jpg rotor]] Molded Bakelite forms in a condensation reaction of phenol and formaldehyde, with wood flour or asbestos fiber as a filler, under high pressure and heat in a time frame of a few minutes of curing. The result is a hard plastic material.[35]
+rotor]] Molded Bakelite forms in a condensation reaction of phenol and formaldehyde, with wood flour or asbestos fiber as a filler, under high pressure and heat in a time frame of a few minutes of curing. The result is a hard plastic material.[35]
 
 Bakelite's molding process had a number of advantages. Bakelite resin could be provided either as powder, or as preformed partially cured slugs, increasing the speed of the casting. Thermosetting resins such as Bakelite required heat and pressure during the molding cycle, but could be removed from the molding process without being cooled, again making the molding process faster. Also, because of the smooth polished surface that resulted, Bakelite objects required less finishing.[36] Millions of parts could be duplicated quickly and relatively cheaply.[37]
 
@@ -65,8 +61,6 @@ Bakelite phenolic sheet is produced in many commercial grades and with various a
 
 
 Properties
-
-Ericsson_bakelittelefon_1931.jpg Bakelite_letter_opener.jpg Bakelite_radio.jpg
 
 Bakelite has a number of important properties. It can be molded very quickly, decreasing production time. Moldings are smooth, retain their shape and are resistant to heat, scratches, and destructive solvents. It is also resistant to electricity, and prized for its low conductivity. It is not flexible.[41][42][43]
 
@@ -87,7 +81,7 @@ Beginning in the 1920s, it became a popular material for jewelry.[62] Designer C
 
 By 1930, designer Paul T. Frankl considered Bakelite a "Materia Nova", "expressive of our own age".[68] By the 1930s, Bakelite was used for game pieces like chessmen, poker chips,[69] dominoes[70] and mahjong sets.[71][72] Kitchenware made with Bakelite, including canisters and tableware, was promoted for its resistance to heat and to chipping.[73][74] In the mid-1930s, Northland marketed a line of skis with a black "Ebonite" base, a coating of Bakelite.[75][76] By 1935, it was used in solid-body electric guitars. Performers such as Jerry Byrd loved the tone of Bakelite guitars but found them difficult to keep in tune.[77]
 
-The British children's construction toy Bayko, launched in 1933, originally used Bakelite for many of its parts, and took its name from the material. Old_Bakelit_light_switches_and_socket.jpg During World War II, Bakelite was used in a variety of wartime equipment including pilot's goggles and field telephones.[78] It was also used for patriotic wartime jewelry.[79][80] In 1943, the thermosetting phenolic resin was even considered for the manufacture of coins, due to a shortage of traditional material. Bakelite and other non-metal materials were tested for usage for the one cent coin in the US before the Mint settled on zinc-coated steel.[81][82]
+The British children's construction toy Bayko, launched in 1933, originally used Bakelite for many of its parts, and took its name from the material. During World War II, Bakelite was used in a variety of wartime equipment including pilot's goggles and field telephones.[78] It was also used for patriotic wartime jewelry.[79][80] In 1943, the thermosetting phenolic resin was even considered for the manufacture of coins, due to a shortage of traditional material. Bakelite and other non-metal materials were tested for usage for the one cent coin in the US before the Mint settled on zinc-coated steel.[81][82]
 
 During World War II, Bakelite buttons were part of the British uniforms. They were sometimes modified to Survival, Evasion, Resistance and Escape purposes in case of capture. "Following the introduction of BD (Battle Dress). MI9 was forced to adapt to meet the challenge of a number of different compass solutions were devised, both covert and overt. These included Bakelite buttons used in both Army (brown colored) and RAF (black) BD uniforms."[83]
 

@@ -1,4 +1,4 @@
-COINTELPRO_-_Jean_Seberg.jpg, a financial supporter of the Black Panther Party, hoping to "possibly cause her embarrassment or tarnish her image with the general public". Covert campaigns to publicly discredit activists and destroy their interpersonal relationships were a common tactic used by COINTELPRO agents.]]
+, a financial supporter of the Black Panther Party, hoping to "possibly cause her embarrassment or tarnish her image with the general public". Covert campaigns to publicly discredit activists and destroy their interpersonal relationships were a common tactic used by COINTELPRO agents.]]
 
 COINTELPRO (portmanteau derived from COunter INTELligence PROgram) (1956–1971) was a series of covert, and at times illegal,[1][2] projects conducted by the United States Federal Bureau of Investigation (FBI) aimed at surveilling, infiltrating, discrediting, and disrupting domestic political organizations.[3][4] FBI records show that COINTELPRO resources targeted groups and individuals that the FBI deemed subversive,[5] including feminist organizations,[6] the Communist Party USA,[7] anti–Vietnam War organizers, activists of the civil rights movement or Black Power movement (e.g. Martin Luther King Jr., the Nation of Islam, and the Black Panther Party), environmentalist and animal rights organizations, the American Indian Movement (AIM), independence movements (such as Puerto Rican independence groups like the Young Lords), and a variety of organizations that were part of the broader New Left. The program also targeted the Ku Klux Klan in 1964.[8]
 
@@ -17,7 +17,7 @@ History
 
 Centralized operations under COINTELPRO officially began in August 1956 with a program designed to "increase factionalism, cause disruption and win defections" inside the Communist Party USA (CPUSA). Tactics included anonymous phone calls, Internal Revenue Service (IRS) audits, and the creation of documents that would divide the American communist organization internally.[30] An October 1956 memo from Hoover reclassified the FBI's ongoing surveillance of black leaders, including it within COINTELPRO, with the justification that the movement was infiltrated by communists.[31] In 1956, Hoover sent an open letter denouncing Dr. T.R.M. Howard, a civil rights leader, surgeon, and wealthy entrepreneur in Mississippi who had criticized FBI inaction in solving recent murders of George W. Lee, Emmett Till, and other African Americans in the South.[32] When the Southern Christian Leadership Conference (SCLC), an African-American civil rights organization, was founded in 1957, the FBI began to monitor and target the group almost immediately, focusing particularly on Bayard Rustin, Stanley Levison, and eventually Martin Luther King Jr.[33]
 
-Mlk-uncovered-letter.png",[34] that the FBI mailed anonymously to Martin Luther King Jr. in an attempt to convince him to commit suicide ]] After the 1963 March on Washington for Jobs and Freedom, Hoover singled out King as a major target for COINTELPRO. Under pressure from Hoover to focus on King, Sullivan wrote:
+",[34] that the FBI mailed anonymously to Martin Luther King Jr. in an attempt to convince him to commit suicide ]] After the 1963 March on Washington for Jobs and Freedom, Hoover singled out King as a major target for COINTELPRO. Under pressure from Hoover to focus on King, Sullivan wrote:
 
   In the light of King's powerful demagogic speech. ... We must mark him now if we have not done so before, as the most dangerous Negro of the future in this nation from the standpoint of communism, the Negro, and national security.[35]
 
@@ -37,7 +37,7 @@ Overall, COINTELPRO encompassed disruption and sabotage of the Socialist Workers
 
 Program exposure
 
-One_Vets_Sq_Media_Delco_PA.JPG The program was secret until 1971, when the Citizens' Commission to Investigate the FBI burgled an FBI field office in Media, Pennsylvania, took several dossiers, and exposed the program by passing this material to news agencies.[61] The boxing match, known as the Fight of the Century, between Muhammad Ali and Joe Frazier in March 1971 provided cover for the activist group to successfully pull off the burglary; Muhammad Ali was himself a COINTELPRO target due to his involvement with the Nation of Islam and the anti-war movement.[62] Many news organizations initially refused to publish the information. Within the year, Director J. Edgar Hoover declared that the centralized COINTELPRO was over, and that all future counterintelligence operations would be handled on a case-by-case basis.[63][64]
+The program was secret until 1971, when the Citizens' Commission to Investigate the FBI burgled an FBI field office in Media, Pennsylvania, took several dossiers, and exposed the program by passing this material to news agencies.[61] The boxing match, known as the Fight of the Century, between Muhammad Ali and Joe Frazier in March 1971 provided cover for the activist group to successfully pull off the burglary; Muhammad Ali was himself a COINTELPRO target due to his involvement with the Nation of Islam and the anti-war movement.[62] Many news organizations initially refused to publish the information. Within the year, Director J. Edgar Hoover declared that the centralized COINTELPRO was over, and that all future counterintelligence operations would be handled on a case-by-case basis.[63][64]
 
 Additional documents were revealed in the course of separate lawsuits filed against the FBI by NBC correspondent Carl Stern, the Socialist Workers Party, and a number of other groups. In 1976 the Select Committee to Study Governmental Operations with Respect to Intelligence Activities of the United States Senate, commonly referred to as the "Church Committee" for its chairman, Senator Frank Church of Idaho, launched a major investigation of the FBI and COINTELPRO. Many released documents have been partly, or entirely, redacted.
 
@@ -113,7 +113,7 @@ The FBI has said that it no longer undertakes COINTELPRO or COINTELPRO-like oper
 
 Methods
 
-Fred_Hampton_dead_body.jpg, national spokesman for the Black Panther Party, who was killed[78][79][80] by members of the Chicago Police Department, as part of a COINTELPRO operation.[81][82]]]
+, national spokesman for the Black Panther Party, who was killed[78][79][80] by members of the Chicago Police Department, as part of a COINTELPRO operation.[81][82]]]
 
 According to attorney Brian Glick in his book _War at Home_, the FBI used five main methods during COINTELPRO:
 

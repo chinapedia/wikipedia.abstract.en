@@ -1,4 +1,4 @@
-PIA19664-MarsInSightLander-Assembly-20150430.jpg'' lander with solar panels deployed in a cleanroom]] Maquina_vapor_Watt_ETSIIM.jpg, a major driver in the Industrial Revolution, underscores the importance of engineering in modern history. This beam engine is on display in the Technical University of Madrid.]]
+'' lander with solar panels deployed in a cleanroom]] , a major driver in the Industrial Revolution, underscores the importance of engineering in modern history. This beam engine is on display in the Technical University of Madrid.]]
 
 ENGINEERING is the use of scientific principles to design and build machines, structures, and other things, including bridges, roads, vehicles, and buildings.definition of “engineering” from the https://dictionary.cambridge.org/dictionary/english/
 
@@ -16,7 +16,7 @@ The American Engineers' Council for Professional Development (ECPD, the predeces
 
 History
 
-Grondplan_citadel_Lille.JPG, designed in 1668 by Vauban, the foremost military engineer of his age.]]
+, designed in 1668 by Vauban, the foremost military engineer of his age.]]
 
 Engineering has existed since ancient times, when humans devised inventions such as the wedge, lever, wheel and pulley.
 
@@ -28,7 +28,7 @@ Later, as the design of civilian structures, such as bridges and buildings, matu
 
 Ancient era
 
-Pont_du_Gard_BLS.jpg to bring a steady supply of clean and fresh water to cities and towns in the empire.]] The pyramids in Egypt, the Acropolis and the Parthenon in Greece, the Roman aqueducts, Via Appia and the Colosseum, Teotihuacán, the Brihadeeswarar Temple of Thanjavur, among many others, stand as a testament to the ingenuity and skill of ancient civil and military engineers. Other monuments, no longer standing, such as the Hanging Gardens of Babylon, and the Pharos of Alexandria were important engineering achievements of their time and were considered among the Seven Wonders of the Ancient World.
+to bring a steady supply of clean and fresh water to cities and towns in the empire.]] The pyramids in Egypt, the Acropolis and the Parthenon in Greece, the Roman aqueducts, Via Appia and the Colosseum, Teotihuacán, the Brihadeeswarar Temple of Thanjavur, among many others, stand as a testament to the ingenuity and skill of ancient civil and military engineers. Other monuments, no longer standing, such as the Hanging Gardens of Babylon, and the Pharos of Alexandria were important engineering achievements of their time and were considered among the Seven Wonders of the Ancient World.
 
 The earliest civil engineer known by name is Imhotep.[8] As one of the officials of the Pharaoh, Djosèr, he probably designed and supervised the construction of the Pyramid of Djoser (the Step Pyramid) at Saqqara in Egypt around 2630–2611 BC.[9] Ancient Greece developed machines in both civilian and military domains. The Antikythera mechanism, the first known mechanical computer,[10][11] and the mechanical inventions of Archimedes are examples of early mechanical engineering. Some of Archimedes' inventions as well as the Antikythera mechanism required sophisticated knowledge of differential gearing or epicyclic gearing, two key principles in machine theory that helped design the gear trains of the Industrial Revolution, and are still widely used today in diverse fields such as robotics and automotive engineering.[12]
 
@@ -36,13 +36,13 @@ Ancient Chinese, Greek, Roman and Hungarian armies employed military machines an
 
 Renaissance era
 
-Agricola1.jpg used for raising ore, ca. 1556]] Before the development of modern engineering, mathematics was used by artisans and craftsmen, such as millwrights, clockmakers, instrument makers and surveyors. Aside from these professions, universities were not believed to have had much practical significance to technology.[14]
+used for raising ore, ca. 1556]] Before the development of modern engineering, mathematics was used by artisans and craftsmen, such as millwrights, clockmakers, instrument makers and surveyors. Aside from these professions, universities were not believed to have had much practical significance to technology.[14]
 
 A standard reference for the state of mechanical arts during the Renaissance is given in the mining engineering treatise _De re metallica_ (1556), which also contains sections on geology, mining and chemistry. _De re metallica_ was the standard chemistry reference for the next 180 years.[15]
 
 Modern era
 
-The_world's_first_iron_bridge.jpg, which was soon displaced by less brittle wrought iron as a structural material]] The science of classical mechanics, sometimes called Newtonian mechanics, formed the scientific basis of much of modern engineering.[16] With the rise of engineering as a profession in the 18th century, the term became more narrowly applied to fields in which mathematics and science were applied to these ends. Similarly, in addition to military and civil engineering, the fields then known as the mechanic arts became incorporated into engineering.
+, which was soon displaced by less brittle wrought iron as a structural material]] The science of classical mechanics, sometimes called Newtonian mechanics, formed the scientific basis of much of modern engineering.[16] With the rise of engineering as a profession in the 18th century, the term became more narrowly applied to fields in which mathematics and science were applied to these ends. Similarly, in addition to military and civil engineering, the fields then known as the mechanic arts became incorporated into engineering.
 
 Canal building was an important engineering work during the early phases of the Industrial Revolution.[17]
 
@@ -50,11 +50,11 @@ John Smeaton was the first self-proclaimed civil engineer and is often regarded 
 
 Applied science lead to the development of the steam engine. The sequence of events began with the invention the barometer and the measurement of atmospheric pressure by Evangelista Torricelli in 1643, demonstration of the force of atmospheric pressure by Otto von Guericke using the Magdeburg hemispheres in 1656, laboratory experiments by Denis Papin, who built experimental model steam engines and demonstrated the use of a piston, which he published in 1707. Edward Somerset, 2nd Marquess of Worcester published a book of 100 inventions containing a method for raising waters similar to a coffee percolator. Samuel Morland, a mathematician and inventor who worked on pumps, left notes at the Vauxhall Ordinance Office on a steam pump design that Thomas Savery read. In 1698 Savery built a steam pump called “The Miner’s Friend.” It employed both vacuum and pressure.[20] Iron merchant Thomas Newcomen, who built the first commercial piston steam engine in 1712, was not known to have any scientific training.[21]
 
-Pan_Am_Boeing_747-121_N732PA_Bidini.jpg]] The application of steam powered cast iron blowing cylinders for providing pressurized air for blast furnaces lead to a large increase in iron production in the late 18th century. The higher furnace temperatures made possible with steam powered blast allowed for the use of more lime in blast furnaces, which enabled the transition from charcoal to coke.[22] These innovations lowered the cost of iron, making horse railways and iron bridges practical. The puddling process, patented by Henry Cort in 1784 produced large scale quantities of wrought iron. Hot blast, patented by James Beaumont Neilson in 1828, greatly lowered the amount of fuel needed to smelt iron. With the development of the high pressure steam engine, the power to weight ratio of steam engines made practical steamboats and locomotives possible.[23] New steel making processes, such as the Bessemer process and the open hearth furnace, ushered in an area of heavy engineering in the late 19th century.
+]] The application of steam powered cast iron blowing cylinders for providing pressurized air for blast furnaces lead to a large increase in iron production in the late 18th century. The higher furnace temperatures made possible with steam powered blast allowed for the use of more lime in blast furnaces, which enabled the transition from charcoal to coke.[22] These innovations lowered the cost of iron, making horse railways and iron bridges practical. The puddling process, patented by Henry Cort in 1784 produced large scale quantities of wrought iron. Hot blast, patented by James Beaumont Neilson in 1828, greatly lowered the amount of fuel needed to smelt iron. With the development of the high pressure steam engine, the power to weight ratio of steam engines made practical steamboats and locomotives possible.[23] New steel making processes, such as the Bessemer process and the open hearth furnace, ushered in an area of heavy engineering in the late 19th century.
 
 One of the most famous engineers of the mid 19th century was Isambard Kingdom Brunel, who built railroads, dockyards and steamships.
 
-Gulf_Offshore_Platform.jpg]] The Industrial Revolution created a demand for machinery with metal parts, which led to the development of several machine tools. Boring cast iron cylinders with precision was not possible until John Wilkinson invented his boring machine, which is considered the first machine tool.[24] Other machine tools included the screw cutting lathe, milling machine, turret lathe and the metal planer. Precision machining techniques were developed in the first half of the 19th century. These included the use of gigs to guide the machining tool over the work and fixtures to hold the work in the proper position. Machine tools and machining techniques capable of producing interchangeable parts lead to large scale factory production by the late 19th century.[25]
+]] The Industrial Revolution created a demand for machinery with metal parts, which led to the development of several machine tools. Boring cast iron cylinders with precision was not possible until John Wilkinson invented his boring machine, which is considered the first machine tool.[24] Other machine tools included the screw cutting lathe, milling machine, turret lathe and the metal planer. Precision machining techniques were developed in the first half of the 19th century. These included the use of gigs to guide the machining tool over the work and fixtures to hold the work in the proper position. Machine tools and machining techniques capable of producing interchangeable parts lead to large scale factory production by the late 19th century.[25]
 
 The United States census of 1850 listed the occupation of "engineer" for the first time with a count of 2,000.[26] There were fewer than 50 engineering graduates in the U.S. before 1865. In 1870 there were a dozen U.S. mechanical engineering graduates, with that number increasing to 43 per year in 1875. In 1890, there were 6,000 engineers in civil, mining, mechanical and electrical.[27]
 
@@ -62,7 +62,7 @@ There was no chair of applied mechanism and applied mechanics at Cambridge until
 
 The foundations of electrical engineering in the 1800s included the experiments of Alessandro Volta, Michael Faraday, Georg Ohm and others and the invention of the electric telegraph in 1816 and the electric motor in 1872. The theoretical work of James Maxwell (see: Maxwell's equations) and Heinrich Hertz in the late 19th century gave rise to the field of electronics. The later inventions of the vacuum tube and the transistor further accelerated the development of electronics to such an extent that electrical and electronics engineers currently outnumber their colleagues of any other engineering specialty.[29] Chemical engineering developed in the late nineteenth century.[30] Industrial scale manufacturing demanded new materials and new processes and by 1880 the need for large scale production of chemicals was such that a new industry was created, dedicated to the development and large scale manufacturing of chemicals in new industrial plants.[31] The role of the chemical engineer was the design of these chemical plants and processes.[32]
 
-Four_solaire_001.jpg in the Pyrénées-Orientales in France can reach temperatures up to ]]
+in the Pyrénées-Orientales in France can reach temperatures up to ]]
 
 Aeronautical engineering deals with aircraft design process design while aerospace engineering is a more modern term that expands the reach of the discipline by including spacecraft design. Its origins can be traced back to the aviation pioneers around the start of the 20th century although the work of Sir George Cayley has recently been dated as being from the last decade of the 18th century. Early knowledge of aeronautical engineering was largely empirical with some concepts and skills imported from other branches of engineering.[33]
 
@@ -73,7 +73,7 @@ Only a decade after the successful flights by the Wright brothers, there was ext
 
 Main branches of engineering
 
-Hoover_dam_from_air.jpg]]
+]]
 
 Engineering is a broad discipline which is often broken down into several sub-disciplines. Although an engineer will usually be trained in a specific discipline, he or she may become multi-disciplined through experience. Engineering is often characterized as having four main branches:[34][35][36] chemical engineering, civil engineering, electrical engineering, and mechanical engineering.
 
@@ -87,7 +87,7 @@ Civil engineering is the design and construction of public and private works, su
 
 Electrical engineering
 
-Rotterdam_Ahoy_Europort_2011_(14).JPG]] Electrical engineering is the design, study, and manufacture of various electrical and electronic systems, such as Broadcast engineering, electrical circuits, generators, motors, electromagnetic/electromechanical devices, electronic devices, electronic circuits, optical fibers, optoelectronic devices, computer systems, telecommunications, instrumentation, controls, and electronics.
+]] Electrical engineering is the design, study, and manufacture of various electrical and electronic systems, such as Broadcast engineering, electrical circuits, generators, motors, electromagnetic/electromechanical devices, electronic devices, electronic circuits, optical fibers, optoelectronic devices, computer systems, telecommunications, instrumentation, controls, and electronics.
 
 Mechanical engineering
 
@@ -107,7 +107,7 @@ One who practices engineering is called an engineer, and those licensed to do so
 
 Methodology
 
-Dampfturbine_Montage01.jpg requires collaboration of engineers from many fields, as the system involves mechanical, electro-magnetic and chemical processes. The blades, rotor and stator as well as the steam cycle all need to be carefully designed and optimized.]]
+requires collaboration of engineers from many fields, as the system involves mechanical, electro-magnetic and chemical processes. The blades, rotor and stator as well as the steam cycle all need to be carefully designed and optimized.]]
 
 In the engineering design process, engineers apply mathematics and sciences such as physics to find novel solutions to problems or to improve existing solutions. More than ever, engineers are now required to have a proficient knowledge of relevant sciences for their design projects. As a result, many engineers continue to learn new material throughout their career.
 
@@ -117,7 +117,7 @@ Constraints may include available resources, physical, imaginative or technical 
 
 Problem solving
 
-Booster-Layout.jpgs. Engineering is applied to design, with emphasis on function and the utilization of mathematics and science.]] Engineers use their knowledge of science, mathematics, logic, economics, and appropriate experience or tacit knowledge to find suitable solutions to a problem. Creating an appropriate mathematical model of a problem often allows them to analyze it (sometimes definitively), and to test potential solutions.
+s. Engineering is applied to design, with emphasis on function and the utilization of mathematics and science.]] Engineers use their knowledge of science, mathematics, logic, economics, and appropriate experience or tacit knowledge to find suitable solutions to a problem. Creating an appropriate mathematical model of a problem often allows them to analyze it (sometimes definitively), and to test potential solutions.
 
 Usually, multiple reasonable solutions exist, so engineers must evaluate the different design choices on their merits and choose the solution that best meets their requirements. Genrich Altshuller, after gathering statistics on a large number of patents, suggested that compromises are at the heart of "low-level" engineering designs, while at a higher level the best design is one which eliminates the core contradiction causing the problem.
 
@@ -129,11 +129,11 @@ The study of failed products is known as forensic engineering and can help the p
 
 Computer use
 
-CFD_Shuttle.jpg during re-entry. Solutions to the flow require modelling of the combined effects of fluid flow and the heat equations.]]
+during re-entry. Solutions to the flow require modelling of the combined effects of fluid flow and the heat equations.]]
 
 As with all modern scientific and technological endeavors, computers and software play an increasingly important role. As well as the typical business application software there are a number of computer aided applications (computer-aided technologies) specifically for engineering. Computers can be used to generate models of fundamental physical processes, which can be solved using numerical methods.
 
-WorldWideWebAroundWikipedia.pngs]] One of the most widely used design tools in the profession is computer-aided design (CAD) software. It enables engineers to create 3D models, 2D drawings, and schematics of their designs. CAD together with digital mockup (DMU) and CAE software such as finite element method analysis or analytic element method allows engineers to create models of designs that can be analyzed without having to make expensive and time-consuming physical prototypes.
+s]] One of the most widely used design tools in the profession is computer-aided design (CAD) software. It enables engineers to create 3D models, 2D drawings, and schematics of their designs. CAD together with digital mockup (DMU) and CAE software such as finite element method analysis or analytic element method allows engineers to create models of designs that can be analyzed without having to make expensive and time-consuming physical prototypes.
 
 These allow products and components to be checked for flaws; assess fit and assembly; study ergonomics; and to analyze static and dynamic characteristics of systems such as stresses, temperatures, electromagnetic emissions, electrical currents and voltages, digital logic levels, fluid flows, and kinematics. Access and distribution of all this information is generally organized with the use of product data management software.
 
@@ -144,7 +144,7 @@ In recent years the use of computer software to aid the development of goods has
 
 Social context
 
-Kismet_robot_20051016.jpg Kismet can produce a range of facial expressions.]] The engineering profession engages in a wide range of activities, from large collaboration at the societal level, and also smaller individual projects. Almost all engineering projects are obligated to some sort of financing agency: a company, a set of investors, or a government. The few types of engineering that are minimally constrained by such issues are _pro bono_ engineering and open-design engineering.
+Kismet can produce a range of facial expressions.]] The engineering profession engages in a wide range of activities, from large collaboration at the societal level, and also smaller individual projects. Almost all engineering projects are obligated to some sort of financing agency: a company, a set of investors, or a government. The few types of engineering that are minimally constrained by such issues are _pro bono_ engineering and open-design engineering.
 
 By its very nature engineering has interconnections with society, culture and human behavior. Every product or construction used by modern society is influenced by engineering. The results of engineering activity influence changes to the environment, society and economies, and its application brings with it a responsibility and public safety.
 
@@ -152,7 +152,7 @@ Engineering projects can be subject to controversy. Examples from different engi
 
 Engineering is a key driver of innovation and human development. Sub-Saharan Africa, in particular, has a very small engineering capacity which results in many African nations being unable to develop crucial infrastructure without outside aid. The attainment of many of the Millennium Development Goals requires the achievement of sufficient engineering capacity to develop infrastructure and sustainable technological development.[43]
 
-ElementBlack2.jpg, lidar, ... are all combined to provide proper navigation and obstacle avoidance (vehicle developed for 2007 DARPA Urban Challenge)]]
+, lidar, ... are all combined to provide proper navigation and obstacle avoidance (vehicle developed for 2007 DARPA Urban Challenge)]]
 
 All overseas development and relief NGOs make considerable use of engineers to apply solutions in disaster and development scenarios. A number of charitable organizations aim to use engineering directly for the good of mankind:
 
@@ -176,13 +176,13 @@ Relationships with other disciplines
 
 Science
 
-Technician_inside_NIF_target_chamber.jpg (NIF) target chamber]]
+(NIF) target chamber]]
 
 There exists an overlap between the sciences and engineering practice; in engineering, one applies science. Both areas of endeavor rely on accurate observation of materials and phenomena. Both use mathematics and classification criteria to analyze and communicate observations.
 
 Scientists may also have to complete engineering tasks, such as designing experimental apparatus or building prototypes. Conversely, in the process of developing technology engineers sometimes find themselves exploring new phenomena, thus becoming, for the moment, scientists or more precisely "engineering scientists".
 
-International_Space_Station_after_undocking_of_STS-132.jpg is used to conduct science experiments of outer space]] In the book _What Engineers Know and How They Know It_,[49] Walter Vincenti asserts that engineering research has a character different from that of scientific research. First, it often deals with areas in which the basic physics or chemistry are well understood, but the problems themselves are too complex to solve in an exact manner.
+is used to conduct science experiments of outer space]] In the book _What Engineers Know and How They Know It_,[49] Walter Vincenti asserts that engineering research has a character different from that of scientific research. First, it often deals with areas in which the basic physics or chemistry are well understood, but the problems themselves are too complex to solve in an exact manner.
 
 There is a "real and important" difference between engineering and physics as similar to any science field has to do with technology.[50][51] Physics is an exploratory science that seeks knowledge of principles while engineering uses knowledge for practical applications of principles. The former equates an understanding into a mathematical principle while the latter measures variables involved and creates technology.[52][53][54] For technology, physics is an auxiliary and in a way technology is considered as applied physics.[55] Though physics and engineering are interrelated, it does not mean that a physicist is trained to do an engineer's job. A physicist would typically require additional and relevant training.[56] Physicists and engineers engage in different lines of work.[57] But PhD physicists who specialize in sectors of engineering physics and applied physics are titled as Technology officer, R&D Engineers and System Engineers.[58]
 
@@ -196,9 +196,9 @@ Although engineering solutions make use of scientific principles, engineers must
 
 Medicine and biology
 
-Modern_3T_MRI.JPG.]] The study of the human body, albeit from different directions and for different purposes, is an important common link between medicine and some engineering disciplines. Medicine aims to sustain, repair, enhance and even replace functions of the human body, if necessary, through the use of technology.
+.]] The study of the human body, albeit from different directions and for different purposes, is an important common link between medicine and some engineering disciplines. Medicine aims to sustain, repair, enhance and even replace functions of the human body, if necessary, through the use of technology.
 
-GFP_Mice_01.jpg, which glows green under blue light. The central mouse is wild-type.]] Modern medicine can replace several of the body's functions through the use of artificial organs and can significantly alter the function of the human body through artificial devices such as, for example, brain implants and pacemakers.[60][61] The fields of bionics and medical bionics are dedicated to the study of synthetic implants pertaining to natural systems.
+, which glows green under blue light. The central mouse is wild-type.]] Modern medicine can replace several of the body's functions through the use of artificial organs and can significantly alter the function of the human body through artificial devices such as, for example, brain implants and pacemakers.[60][61] The fields of bionics and medical bionics are dedicated to the study of synthetic implants pertaining to natural systems.
 
 Conversely, some engineering disciplines view the human body as a biological machine worth studying and are dedicated to emulating many of its functions by replacing biology with technology. This has led to fields such as artificial intelligence, neural networks, fuzzy logic, and robotics. There are also substantial interdisciplinary interactions between engineering and medicine.[62][63]
 
@@ -212,7 +212,7 @@ Newly emerging branches of science, such as systems biology, are adapting analyt
 
 Art
 
-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg, seen here in a self-portrait, has been described as the epitome of the artist/engineer.[69] He is also known for his studies on human anatomy and physiology.]] There are connections between engineering and art, for example, architecture, landscape architecture and industrial design (even to the extent that these disciplines may sometimes be included in a university's Faculty of Engineering).[70][71][72]
+, seen here in a self-portrait, has been described as the epitome of the artist/engineer.[69] He is also known for his studies on human anatomy and physiology.]] There are connections between engineering and art, for example, architecture, landscape architecture and industrial design (even to the extent that these disciplines may sometimes be included in a university's Faculty of Engineering).[70][71][72]
 
 The Art Institute of Chicago, for instance, held an exhibition about the art of NASA's aerospace design.[73] Robert Maillart's bridge design is perceived by some to have been deliberately artistic.[74] At the University of South Florida, an engineering professor, through a grant with the National Science Foundation, has developed a course that connects art and engineering.[75][76]
 

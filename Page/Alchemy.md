@@ -1,4 +1,4 @@
-Alchemy_of_Happiness.png'' (_The Alchemy of Happiness_), a text on Islamic philosophy and alchemy by the Persian philosopher and mystic Al-Ghazālī (11th century)]] Aurora_consurgens_zurich_044_f-21v-44_dragon-pot.jpg from the alchemical treatise _Aurora consurgens_ (15th century), Zentralbibliothek Zürich, Switzerland]]
+'' (_The Alchemy of Happiness_), a text on Islamic philosophy and alchemy by the Persian philosopher and mystic Al-Ghazālī (11th century)]] from the alchemical treatise _Aurora consurgens_ (15th century), Zentralbibliothek Zürich, Switzerland]]
 
 ALCHEMY (from Arabic: _al-kīmiyā_)[1] was an ancient branch of natural philosophy, a philosophical and protoscientific tradition[2] practised throughout Europe, Africa, and Asia,[3] originating in Greco-Roman Egypt in the first few centuries AD.[4]
 
@@ -32,7 +32,7 @@ Alchemy is several philosophical traditions spanning some four millennia and thr
 
 Hellenistic Egypt
 
-Zosimosapparat.jpg, from Marcelin Berthelot, _Collection des anciens alchimistes grecs_ (3 vol., Paris, 1887–1888).]]
+, from Marcelin Berthelot, _Collection des anciens alchimistes grecs_ (3 vol., Paris, 1887–1888).]]
 
 The start of Western alchemy may generally be traced to ancient and Hellenistic Egypt, where the city of Alexandria was a center of alchemical knowledge, and retained its pre-eminence through most of the Greek and Roman periods.[29] Here, elements of technology, religion, mythology, and Hellenistic philosophy, each with their own much longer histories, combined to form the earliest known records of alchemy in the West. Zosimos of Panopolis wrote the oldest known books on alchemy, while Mary the Jewess is credited as being the first non-fictitious Western alchemist. They wrote in Greek and lived in Egypt under Roman rule.
 
@@ -66,7 +66,7 @@ A great deal remains to be discovered about Indian alchemical literature. The co
 
 Islamic world
 
-Jabir_ibn_Hayyan.jpg (Geber), considered the "father of chemistry", introduced a scientific and experimental approach to alchemy.]]
+(Geber), considered the "father of chemistry", introduced a scientific and experimental approach to alchemy.]]
 
 After the fall of the Roman Empire, the focus of alchemical development moved to the Islamic World. Much more is known about Islamic alchemy because it was better documented: indeed, most of the earlier writings that have come down through the years were preserved as Arabic translations.[51] The word _alchemy_ itself was derived from the Arabic word _al-kīmiyā_ (الكيمياء). The early Islamic world was a melting pot for alchemy. Platonic and Aristotelian thought, which had already been somewhat appropriated into hermetical science, continued to be assimilated during the late 7th and early 8th centuries through Syriac translations and scholarship.
 
@@ -84,7 +84,7 @@ From the 9th to 14th centuries, alchemical theories faced criticism from a varie
 
 East Asia
 
-Esoteric_Taijitu.svg.]] Whereas European alchemy eventually centered on the transmutation of base metals into noble metals, Chinese alchemy had a more obvious connection to medicine. The philosopher's stone of European alchemists can be compared to the Grand Elixir of Immortality sought by Chinese alchemists. However, in the hermetic view, these two goals were not unconnected, and the philosopher's stone was often equated with the universal panacea; therefore, the two traditions may have had more in common than initially appears.
+.]] Whereas European alchemy eventually centered on the transmutation of base metals into noble metals, Chinese alchemy had a more obvious connection to medicine. The philosopher's stone of European alchemists can be compared to the Grand Elixir of Immortality sought by Chinese alchemists. However, in the hermetic view, these two goals were not unconnected, and the philosopher's stone was often equated with the universal panacea; therefore, the two traditions may have had more in common than initially appears.
 
 Black powder may have been an important invention of Chinese alchemists. As previously stated above, Chinese alchemy was more related to medicine. It is said that the Chinese invented gunpowder while trying to find a potion for eternal life. Described in 9th-century texts and used in fireworks in China by the 10th century, it was used in cannons by 1290. From China, the use of gunpowder spread to Japan, the Mongols, the Muslim world, and Europe. Gunpowder was used by the Mongols against the Hungarians in 1241, and in Europe by the 14th century.
 
@@ -92,7 +92,7 @@ Chinese alchemy was closely connected to Taoist forms of traditional Chinese med
 
 Medieval Europe
 
-Joseph_Wright_of_Derby_The_Alchemist.jpg'', by Joseph Wright, 1771]] WMS_446,_R._Lullius,_Ymage_de_Vie,_late_15th_Wellcome_L0031726.jpg
+'', by Joseph Wright, 1771]]
 
 The introduction of alchemy to Latin Europe may be dated to 11 February 1144, with the completion of Robert of Chester's translation of the Arabic _Book of the Composition of Alchemy_. Although European craftsmen and technicians preexisted, Robert notes in his preface that alchemy was unknown in Latin Europe at the time of his writing. The translation of Arabic texts concerning numerous disciplines including alchemy flourished in 12th-century Toledo, Spain, through contributors like Gerard of Cremona and Adelard of Bath.[61] Translations of the time included the Turba Philosophorum, and the works of Avicenna and al-Razi. These brought with them many new words to the European vocabulary for which there was no previous Latin equivalent. Alcohol, carboy, elixir, and athanor are examples.[62]
 
@@ -110,7 +110,7 @@ Nicolas Flamel is a well-known alchemist, but a good example of pseudepigraphy, 
 
 Renaissance and early modern Europe
 
-Raimundus_Lullus_alchemic_page.jpg, 16th century]] Splendor_Solis_22_sun_rising_over_city.jpg''. The word rubedo, meaning "redness", was adopted by alchemists and signalled alchemical success, and the end of the great work.]]
+, 16th century]] ''. The word rubedo, meaning "redness", was adopted by alchemists and signalled alchemical success, and the end of the great work.]]
 
 During the Renaissance, Hermetic and Platonic foundations were restored to European alchemy. The dawn of medical, pharmaceutical, occult, and entrepreneurial branches of alchemy followed.
 
@@ -126,13 +126,13 @@ John Dee (13 July 1527 – December, 1608) followed Agrippa's occult tradition. 
 
 -   -   _The Aspiring Adept: Robert Boyle and His Alchemical Quest_, by Lawrence M. Principe, 'Princeton University Press', 1998, PP. 188 90
 
-Entrepreneurial opportunities were common for the alchemists of Renaissance Europe. Alchemists were contracted by the elite for practical purposes related to mining, medical services, and the production of chemicals, medicines, metals, and gemstones.[86] Rudolf II, Holy Roman Emperor, in the late 16th century, famously received and sponsored various alchemists at his court in Prague, including Dee and his associate Edward Kelley. King James IV of Scotland,[87] Julius, Duke of Brunswick-Lüneburg, Henry V, Duke of Brunswick-Lüneburg, Augustus, Elector of Saxony, Julius Echter von Mespelbrunn, and Maurice, Landgrave of Hesse-Kassel all contracted alchemists.[88] John's son Arthur Dee worked as a court physician to Michael I of Russia and Charles I of England but also compiled the alchemical book _Fasciculus Chemicus_. Alchemik_Sedziwoj_Matejko.JPG'' (1566–1636) by Jan Matejko, 1867]] Although most of these appointments were legitimate, the trend of pseudo-alchemical fraud continued through the Renaissance. _Betrüger_ would use sleight of hand, or claims of secret knowledge to make money or secure patronage. Legitimate mystical and medical alchemists such as Michael Maier and Heinrich Khunrath wrote about fraudulent transmutations, distinguishing themselves from the con artists.[89] False alchemists were sometimes prosecuted for fraud.
+Entrepreneurial opportunities were common for the alchemists of Renaissance Europe. Alchemists were contracted by the elite for practical purposes related to mining, medical services, and the production of chemicals, medicines, metals, and gemstones.[86] Rudolf II, Holy Roman Emperor, in the late 16th century, famously received and sponsored various alchemists at his court in Prague, including Dee and his associate Edward Kelley. King James IV of Scotland,[87] Julius, Duke of Brunswick-Lüneburg, Henry V, Duke of Brunswick-Lüneburg, Augustus, Elector of Saxony, Julius Echter von Mespelbrunn, and Maurice, Landgrave of Hesse-Kassel all contracted alchemists.[88] John's son Arthur Dee worked as a court physician to Michael I of Russia and Charles I of England but also compiled the alchemical book _Fasciculus Chemicus_. '' (1566–1636) by Jan Matejko, 1867]] Although most of these appointments were legitimate, the trend of pseudo-alchemical fraud continued through the Renaissance. _Betrüger_ would use sleight of hand, or claims of secret knowledge to make money or secure patronage. Legitimate mystical and medical alchemists such as Michael Maier and Heinrich Khunrath wrote about fraudulent transmutations, distinguishing themselves from the con artists.[89] False alchemists were sometimes prosecuted for fraud.
 
 The terms "chemia" and "alchemia" were used as synonyms in the early modern period, and the differences between alchemy, chemistry and small-scale assaying and metallurgy were not as neat as in the present day. There were important overlaps between practitioners, and trying to classify them into alchemists, chemists and craftsmen is anachronistic. For example, Tycho Brahe (1546–1601), an alchemist better known for his astronomical and astrological investigations, had a laboratory built at his Uraniborg observatory/research institute. Michael Sendivogius (_Michał Sędziwój_, 1566–1636), a Polish alchemist, philosopher, medical doctor and pioneer of chemistry wrote mystical works but is also credited with distilling oxygen in a lab sometime around 1600. Sendivogious taught his technique to Cornelius Drebbel who, in 1621, applied this in a submarine. Isaac Newton devoted considerably more of his writing to the study of alchemy (see Isaac Newton's occult studies) than he did to either optics or physics. Other early modern alchemists who were eminent in their other studies include Robert Boyle, and Jan Baptist van Helmont. Their Hermeticism complemented rather than precluded their practical achievements in medicine and science.
 
 Late modern period
 
-The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg]] Alchemist.png''.]] The decline of European alchemy was brought about by the rise of modern science with its emphasis on rigorous quantitative experimentation and its disdain for "ancient wisdom". Although the seeds of these events were planted as early as the 17th century, alchemy still flourished for some two hundred years, and in fact may have reached its peak in the 18th century. As late as 1781 James Price claimed to have produced a powder that could transmute mercury into silver or gold. Early modern European alchemy continued to exhibit a diversity of theories, practices, and purposes: "Scholastic and anti-Aristotelian, Paracelsian and anti-Paracelsian, Hermetic, Neoplatonic, mechanistic, vitalistic, and more—plus virtually every combination and compromise thereof."[90]
+]] ''.]] The decline of European alchemy was brought about by the rise of modern science with its emphasis on rigorous quantitative experimentation and its disdain for "ancient wisdom". Although the seeds of these events were planted as early as the 17th century, alchemy still flourished for some two hundred years, and in fact may have reached its peak in the 18th century. As late as 1781 James Price claimed to have produced a powder that could transmute mercury into silver or gold. Early modern European alchemy continued to exhibit a diversity of theories, practices, and purposes: "Scholastic and anti-Aristotelian, Paracelsian and anti-Paracelsian, Hermetic, Neoplatonic, mechanistic, vitalistic, and more—plus virtually every combination and compromise thereof."[90]
 
 Robert Boyle (1627–1691) pioneered the scientific method in chemical investigations. He assumed nothing in his experiments and compiled every piece of relevant data. Boyle would note the place in which the experiment was carried out, the wind characteristics, the position of the Sun and Moon, and the barometer reading, all just in case they proved to be relevant.[91] This approach eventually led to the founding of modern chemistry in the 18th and 19th centuries, based on revolutionary discoveries of Lavoisier and John Dalton.
 
@@ -161,7 +161,7 @@ Journals which publish regularly on the topic of Alchemy include 'Ambix', publis
 
 Core concepts
 
-Fotothek_df_tg_0006104_Theosophie_^_Alchemie_^_Judentum_^_Kabbala.jpg Western alchemical theory corresponds to the worldview of late antiquity in which it was born. Concepts were imported from Neoplatonism and earlier Greek cosmology. As such, the Classical elements appear in alchemical writings, as do the seven Classical planets and the corresponding seven metals of antiquity. Similarly, the gods of the Roman pantheon who are associated with these luminaries are discussed in alchemical literature. The concepts of prima materia and anima mundi are central to the theory of the philosopher's stone.
+Western alchemical theory corresponds to the worldview of late antiquity in which it was born. Concepts were imported from Neoplatonism and earlier Greek cosmology. As such, the Classical elements appear in alchemical writings, as do the seven Classical planets and the corresponding seven metals of antiquity. Similarly, the gods of the Roman pantheon who are associated with these luminaries are discussed in alchemical literature. The concepts of prima materia and anima mundi are central to the theory of the philosopher's stone.
 
 Hermeticism
 

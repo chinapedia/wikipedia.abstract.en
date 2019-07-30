@@ -7,7 +7,7 @@ Biblical account
 
 Background
 
-Convito_di_Ansalonne.jpg around 1650]] Absalom, David's third son, by Maacah, was born in Hebron.[3] He moved at an early age along with the transfer of the capital to Jerusalem, where he spent most of his life. He was a great favorite of his father, and of the people. His charming manners, personal beauty, insinuating ways, love of pomp, and royal pretensions, captivated the hearts of the people from the beginning. He lived in great style, drove in a magnificent chariot, and had fifty men run before him.
+around 1650]] Absalom, David's third son, by Maacah, was born in Hebron.[3] He moved at an early age along with the transfer of the capital to Jerusalem, where he spent most of his life. He was a great favorite of his father, and of the people. His charming manners, personal beauty, insinuating ways, love of pomp, and royal pretensions, captivated the hearts of the people from the beginning. He lived in great style, drove in a magnificent chariot, and had fifty men run before him.
 
 Little is known of Absalom's family life, but the biblical narrative states that he had three sons and one daughter, whose name was Tamar and is described as a beautiful woman.[4] From the language of , "I have no son to keep my name in remembrance", it is implied that his sons died at an early age.[5]
 
@@ -15,7 +15,7 @@ Although he had no sons says that Absalom had another daughter or granddaughter 
 
 Murder of Amnon
 
-Leaf_from_the_Morgan_Picture_Bible_-_Google_Art_Project.jpg, _Scenes from the Life of Absalom_, c. 1250]] Absalom's sister, who was also called Tamar, was raped by Amnon, who was their half-brother. Amnon was also David's eldest son. After the rape, Absalom waited two years, and then avenged Tamar by sending his servants to murder a drunken Amnon at a feast, to which Absalom had invited all the king's sons ().
+, _Scenes from the Life of Absalom_, c. 1250]] Absalom's sister, who was also called Tamar, was raped by Amnon, who was their half-brother. Amnon was also David's eldest son. After the rape, Absalom waited two years, and then avenged Tamar by sending his servants to murder a drunken Amnon at a feast, to which Absalom had invited all the king's sons ().
 
 After this murder Absalom fled to Talmai, who was the king of Geshur and Absalom's maternal grandfather[7] (see also or ). It was not until three years later that Absalom was fully reinstated in his father's favour and finally returned to Jerusalem[8] (see Joab).
 
@@ -29,7 +29,7 @@ David took refuge from Absalom's forces beyond the Jordan River. However, he too
 
 The Battle of Ephraim's Wood
 
-Muerte_de_absalon_en_el_CESEDEN.jpg A fateful battle was fought in the Wood of Ephraim (the name suggests a locality west of the Jordan) and Absalom's army was completely routed.[11] Absalom's head was caught in the boughs of an oak tree as the mule he was riding ran beneath it. He was discovered there still alive by one of David's men, who reported this to Joab, the king's commander. Joab, accustomed to avenging himself, took this opportunity to even the score with Absalom.[12] Absalom had once set Joab's field on fire[13] and then made Amasa Captain of the Host instead of Joab. Killing Absalom was against David's explicit command, "Beware that none touch the young man Absalom". Joab killed Absalom with three darts through the heart.
+A fateful battle was fought in the Wood of Ephraim (the name suggests a locality west of the Jordan) and Absalom's army was completely routed.[11] Absalom's head was caught in the boughs of an oak tree as the mule he was riding ran beneath it. He was discovered there still alive by one of David's men, who reported this to Joab, the king's commander. Joab, accustomed to avenging himself, took this opportunity to even the score with Absalom.[12] Absalom had once set Joab's field on fire[13] and then made Amasa Captain of the Host instead of Joab. Killing Absalom was against David's explicit command, "Beware that none touch the young man Absalom". Joab killed Absalom with three darts through the heart.
 
 When David heard that Absalom was killed, although not how he was killed, he greatly sorrowed.
 
@@ -39,7 +39,7 @@ David withdrew to the city (Mahanaim)[15] in mourning, until Joab roused him fro
 
 Memorial
 
-InsideAbsalom'sPillar.jpg in the Valley of Jehoshaphat, Jerusalem, which has no connection to biblical Absalom.]] Absalom had erected a monument near Jerusalem to perpetuate his name:[18]
+in the Valley of Jehoshaphat, Jerusalem, which has no connection to biblical Absalom.]] Absalom had erected a monument near Jerusalem to perpetuate his name:[18]
 
   Now Absalom in his lifetime had taken and reared up for himself a pillar, which is in the king's dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom's place.
 
@@ -55,7 +55,7 @@ Popular legend states that the eye of Absalom was of immense size, signifying hi
 
 Art and literature
 
-Convito_di_Assalonne_-_Tornioli.png, 17th century]]
+, 17th century]]
 
 Poetry
 

@@ -1,4 +1,4 @@
-Bitumen.jpg ]] Refined_bitumen.JPG University_of_Queensland_Pitch_drop_experiment-white_bg.jpg, demonstrating the viscosity of asphalt]]
+]] , demonstrating the viscosity of asphalt]]
 
 ASPHALT, also known as BITUMEN (, ),[1] is a sticky, black, and highly viscous liquid or semi-solid form of petroleum. It may be found in natural deposits or may be a refined product, and is classed as a pitch. Before the 20th century, the term ASPHALTUM was also used.[2] The word is derived from the Ancient Greek ἄσφαλτος _ásphaltos_.
 
@@ -58,7 +58,7 @@ Of particular note is the use of re-refined engine oil bottoms -- "REOB" or "REO
 
 Occurrence
 
-Puy_de_Poix,_gisement_bitumeux.JPG, France]] The majority of asphalt used commercially is obtained from petroleum.[19] Nonetheless, large amounts of asphalt occur in concentrated form in nature. Naturally occurring deposits of bitumen are formed from the remains of ancient, microscopic algae (diatoms) and other once-living things. These remains were deposited in the mud on the bottom of the ocean or lake where the organisms lived. Under the heat (above 50 °C) and pressure of burial deep in the earth, the remains were transformed into materials such as bitumen, kerogen, or petroleum.
+, France]] The majority of asphalt used commercially is obtained from petroleum.[19] Nonetheless, large amounts of asphalt occur in concentrated form in nature. Naturally occurring deposits of bitumen are formed from the remains of ancient, microscopic algae (diatoms) and other once-living things. These remains were deposited in the mud on the bottom of the ocean or lake where the organisms lived. Under the heat (above 50 °C) and pressure of burial deep in the earth, the remains were transformed into materials such as bitumen, kerogen, or petroleum.
 
 Natural deposits of bitumen include lakes such as the Pitch Lake in Trinidad and Tobago and Lake Bermudez in Venezuela. Natural seeps occur in the La Brea Tar Pits and in the Dead Sea.
 
@@ -210,7 +210,7 @@ Roofing shingles and roll roofing account for most of the remaining asphalt cons
 
 Production
 
-Asphalt_plant_pic.jpg About 40,000,000 tons were produced in 1984. It is obtained as the "heavy" (i.e., difficult to distill) fraction. Material with a boiling point greater than around 500 °C is considered asphalt. Vacuum distillation separates it from the other components in crude oil (such as naphtha, gasoline and diesel). The resulting material is typically further treated to extract small but valuable amounts of lubricants and to adjust the properties of the material to suit applications. In a de-asphalting unit, the crude asphalt is treated with either propane or butane in a supercritical phase to extract the lighter molecules, which are then separated. Further processing is possible by "blowing" the product: namely reacting it with oxygen. This step makes the product harder and more viscous.[115]
+About 40,000,000 tons were produced in 1984. It is obtained as the "heavy" (i.e., difficult to distill) fraction. Material with a boiling point greater than around 500 °C is considered asphalt. Vacuum distillation separates it from the other components in crude oil (such as naphtha, gasoline and diesel). The resulting material is typically further treated to extract small but valuable amounts of lubricants and to adjust the properties of the material to suit applications. In a de-asphalting unit, the crude asphalt is treated with either propane or butane in a supercritical phase to extract the lighter molecules, which are then separated. Further processing is possible by "blowing" the product: namely reacting it with oxygen. This step makes the product harder and more viscous.[115]
 
 Asphalt is typically stored and transported at temperatures around . Sometimes diesel oil or kerosene are mixed in before shipping to retain liquidity; upon delivery, these lighter materials are separated out of the mixture. This mixture is often called "bitumen feedstock", or BFS. Some dump trucks route the hot engine exhaust through pipes in the dump body to keep the material warm. The backs of tippers carrying asphalt, as well as some handling equipment, are also commonly sprayed with a releasing agent before filling to aid release. Diesel oil is no longer used as a release agent due to environmental concerns.
 
@@ -249,8 +249,6 @@ The report indicates that an "average" 1-mile (1.6-kilometer)-long, four-lane hi
 
 
 Health and safety
-
-Asfaltna_baza_Ivanovec.1.jpg
 
 People can be exposed to asphalt in the workplace by breathing in fumes or skin absorption. The National Institute for Occupational Safety and Health (NIOSH) has set a recommended exposure limit of 5 mg/m³ over a 15-minute period.[127]
 

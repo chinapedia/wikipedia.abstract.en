@@ -15,7 +15,7 @@ Tensions between Georgia and separatist authorities in Ajaria increased after th
 
 On February 3, 2005, Prime Minister Zurab Zhvania died of carbon monoxide poisoning in an apparent gas leak at the home of Raul Usupov, deputy governor of Kvemo Kartli region. Later, Zhvania's close friend and a long-time ally, Finance Minister Zurab Nogaideli was appointed for the post by President Saakashvili.
 
-Mosque_in_Tbilisi.jpg showing a mosque and minaret in the background]]
+showing a mosque and minaret in the background]]
 
 Under the Saakasvili administration Georgia has achieved considerable progress in eradicating corruption. In 2008 Transparency International ranked Georgia 67th in its Corruption Perceptions Index, with a score of 3.9 points out of 10 possible.[8] This represents the best result among the CIS countries and a dramatic improvement on Georgia's score in 2004, when the country was ranked 133rd with 2.0 points.[9]
 
@@ -47,7 +47,7 @@ David Bagration of Mukhrani, married Ana Bagration-Gruzinsky on 8 February 2009 
 
 Euro-Atlantic Integration
 
-Eastern_Europe_outside_the_ENP_and_EaP_(cropped).png}} ]]
+}} ]]
 
 After the Rose Revolution Georgia started looking westwards. The government aims at EU and NATO membership, and has created a Ministry for European and Euro-Atlantic Integration, which was dissolved on 22 December 2017 after passing constitutional amendments by Georgian Parliament.[15] Within NATO, Georgia is currently in Intensified Dialogue; membership in the EU is a more distant project.
 

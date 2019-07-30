@@ -7,14 +7,14 @@ Writing systems (like the Aramaic one) that indicate consonants but do not indic
 
 Origins
 
-AsokaKandahar.jpg emperor Ashoka at Kandahar, Afghanistan, 3rd century BC.]] The earliest inscriptions in the Aramaic language use the Phoenician alphabet.[1] Over time, the alphabet developed into the form shown below. Aramaic gradually became the _lingua franca_ throughout the Middle East, with the script at first complementing and then displacing Assyrian cuneiform, as the predominant writing system.
+emperor Ashoka at Kandahar, Afghanistan, 3rd century BC.]] The earliest inscriptions in the Aramaic language use the Phoenician alphabet.[1] Over time, the alphabet developed into the form shown below. Aramaic gradually became the _lingua franca_ throughout the Middle East, with the script at first complementing and then displacing Assyrian cuneiform, as the predominant writing system.
 
 
 Achaemenid Empire (The First Persian Empire)
 
 Around 500 BC, following the Achaemenid conquest of Mesopotamia under Darius I, Old Aramaic was adopted by the Persians as the "vehicle for written communication between the different regions of the vast Persian empire with its different peoples and languages. The use of a single official language, which modern scholarship has dubbed as Official Aramaic, Imperial Aramaic or Achaemenid Aramaic, can be assumed to have greatly contributed to the astonishing success of the Achaemenid Persians in holding their far-flung empire together for as long as they did."[2]
 
-Imperial Aramaic was highly standardised; its orthography was based more on historical roots than any spoken dialect and was inevitably influenced by Old Persian. The Aramaic glyph forms of the period are often divided into two main styles, the "lapidary" form, usually inscribed on hard surfaces like stone monuments, and a cursive form whose lapidary form tended to be more conservative by remaining more visually similar to Phoenician and early Aramaic. Both were in use through the Achaemenid Persian period, but the cursive form steadily gained ground over the lapidary, which had largely disappeared by the 3rd century BC.[3] Stele_Salm_Louvre_AO5009.jpg, Saudi Arabia by Charles Huber in 1884 and now in the Louvre.]]
+Imperial Aramaic was highly standardised; its orthography was based more on historical roots than any spoken dialect and was inevitably influenced by Old Persian. The Aramaic glyph forms of the period are often divided into two main styles, the "lapidary" form, usually inscribed on hard surfaces like stone monuments, and a cursive form whose lapidary form tended to be more conservative by remaining more visually similar to Phoenician and early Aramaic. Both were in use through the Achaemenid Persian period, but the cursive form steadily gained ground over the lapidary, which had largely disappeared by the 3rd century BC.[3] , Saudi Arabia by Charles Huber in 1884 and now in the Louvre.]]
 
 For centuries after the fall of the Achaemenid Empire in 331 BC, Imperial Aramaic, or something near enough to it to be recognisable, would remain an influence on the various native Iranian languages. The Aramaic script would survive as the essential characteristics of the Iranian Pahlavi writing system.[4]
 
@@ -50,58 +50,58 @@ In Maaloula, one of few surviving communities in which a Western Aramaic dialect
 
 Letters
 
-+---------------+------------------------------+--------+------------------------+
-| Letter        | Aramaic written using        | IPA    | Equivalent letter in   |
-| name          |                              |        |                        |
-+===============+==============================+========+========================+
-| Syriac script | Imperial Aramaic             | Hebrew | Phoenician             |
-+---------------+------------------------------+--------+------------------------+
-| Image         | Text                         | Image  | Text                   |
-+---------------+------------------------------+--------+------------------------+
-| Ālap          | Syriac_Estrangela_alap.svg   |        | Aleph.svg              |
-+---------------+------------------------------+--------+------------------------+
-| Bēth          | Syriac_Estrangela_bet.svg    |        | Beth.svg               |
-+---------------+------------------------------+--------+------------------------+
-| Gāmal         | Syriac_Estrangela_gamal.svg  |        | Gimel.svg              |
-+---------------+------------------------------+--------+------------------------+
-| Dālath        | Syriac_Estrangela_dalat.svg  |        | Daleth.svg             |
-+---------------+------------------------------+--------+------------------------+
-| Hē            | Syriac_Estrangela_he.svg     |        | He0.svg                |
-+---------------+------------------------------+--------+------------------------+
-| Waw           | Syriac_Estrangela_waw.svg    |        | Waw.svg                |
-+---------------+------------------------------+--------+------------------------+
-| Zain          | Syriac_Estrangela_zayn.svg   |        | Zayin.svg              |
-+---------------+------------------------------+--------+------------------------+
-| Ḥēth          | Syriac_Estrangela_het.svg    |        | Heth.svg               |
-+---------------+------------------------------+--------+------------------------+
-| Ṭēth          | Syriac_Estrangela_tet.svg    |        | Teth.svg               |
-+---------------+------------------------------+--------+------------------------+
-| Yodh          | Syriac_Estrangela_yod.svg    |        | Yod.svg                |
-+---------------+------------------------------+--------+------------------------+
-| Kāp           | Syriac_Estrangela_kap.svg    |        | Kaph.svg               |
-+---------------+------------------------------+--------+------------------------+
-| Lāmadh        | Syriac_Estrangela_lamad.svg  |        | Lamed.svg              |
-+---------------+------------------------------+--------+------------------------+
-| Mem           | Syriac_Estrangela_mim.svg    |        | Mem.svg                |
-+---------------+------------------------------+--------+------------------------+
-| Nun           | Syriac_Estrangela_nun.svg    |        | Nun.svg                |
-+---------------+------------------------------+--------+------------------------+
-| Semkath       | Syriac_Estrangela_semkat.svg |        | Samekh.svg             |
-+---------------+------------------------------+--------+------------------------+
-| ʿĒ            | Syriac_Estrangela_'e.svg     |        | Ayin.svg               |
-+---------------+------------------------------+--------+------------------------+
-| Pē            | Syriac_Estrangela_pe.svg     |        | Pe0.svg                |
-+---------------+------------------------------+--------+------------------------+
-| Ṣādhē         | Syriac_Estrangela_sade.svg   |        | Sade_1.svg, Sade_2.svg |
-+---------------+------------------------------+--------+------------------------+
-| Qop           | Syriac_Estrangela_qop.svg    |        | Qoph.svg               |
-+---------------+------------------------------+--------+------------------------+
-| Rēsh          | Syriac_Estrangela_res.svg    |        | Resh.svg               |
-+---------------+------------------------------+--------+------------------------+
-| Shin          | Syriac_Estrangela_sin.svg    |        | Shin.svg               |
-+---------------+------------------------------+--------+------------------------+
-| Taw           | Syriac_Estrangela_taw.svg    |        | Taw.svg                |
-+---------------+------------------------------+--------+------------------------+
++---------------+-----------------------+--------+----------------------+
+| Letter        | Aramaic written using | IPA    | Equivalent letter in |
+| name          |                       |        |                      |
++===============+=======================+========+======================+
+| Syriac script | Imperial Aramaic      | Hebrew | Phoenician           |
++---------------+-----------------------+--------+----------------------+
+| Image         | Text                  | Image  | Text                 |
++---------------+-----------------------+--------+----------------------+
+| Ālap          |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Bēth          |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Gāmal         |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Dālath        |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Hē            |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Waw           |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Zain          |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Ḥēth          |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Ṭēth          |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Yodh          |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Kāp           |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Lāmadh        |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Mem           |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Nun           |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Semkath       |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| ʿĒ            |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Pē            |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Ṣādhē         |                       |        | ,                    |
++---------------+-----------------------+--------+----------------------+
+| Qop           |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Rēsh          |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Shin          |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
+| Taw           |                       |        |                      |
++---------------+-----------------------+--------+----------------------+
 
 Matres lectionis
 

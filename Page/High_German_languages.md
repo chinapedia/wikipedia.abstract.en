@@ -5,7 +5,6 @@ The High German languages are marked by the High German consonant shift, separat
 
 Classification
 
-The present-day distribution of continental High German languages:
 As a technical term, the "high" in High German is a geographical reference to the group of dialects that forms "High German" (i.e. "Highland" German), out of which developed Standard German, Yiddish and Luxembourgish. It refers to the Central Uplands (_Mittelgebirge_) and Alpine areas of central and southern Germany; it also includes Luxembourg, Austria, Liechtenstein and most of Switzerland. This is opposed to Low German, which is spoken in the lowlands and along the flat sea coasts of the North German Plain.[1]
 
 High German in this broader sense can be subdivided into Upper German (_Oberdeutsch_, this includes the Austrian and Swiss German dialects), Central German (_Mitteldeutsch_, this includes Luxembourgish, which itself is now a standard language), and High Franconian German, which is a transitional dialect between the two.[2]

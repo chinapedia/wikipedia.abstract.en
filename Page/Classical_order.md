@@ -1,11 +1,11 @@
-Classical_orders_from_the_Encyclopedie.png,'' vol. 18, showing the Tuscan and Doric orders (top row); two versions of the Ionic order (center row); Corinthian and Composite orders (bottom row).]] An ORDER in architecture is a certain assemblage of parts subject to uniform established proportions, regulated by the office that each part has to perform.[1] Coming down to the present from Ancient Greek and Ancient Roman civilization, the ARCHITECTURAL ORDERS are the styles of classical architecture, each distinguished by its proportions and characteristic profiles and details, and most readily recognizable by the type of column employed. The three orders of architecture—the Doric, Ionic, and Corinthian—originated in Greece. To these the Romans added, in practice if not in name, the Tuscan, which they made simpler than Doric, and the Composite, which was more ornamental than the Corinthian. The architectural order of a classical building is akin to the mode or key of classical music; the grammar or rhetoric of a written composition. It is established by certain _modules_ like the intervals of music, and it raises certain expectations in an audience attuned to its language.[2]
+,'' vol. 18, showing the Tuscan and Doric orders (top row); two versions of the Ionic order (center row); Corinthian and Composite orders (bottom row).]] An ORDER in architecture is a certain assemblage of parts subject to uniform established proportions, regulated by the office that each part has to perform.[1] Coming down to the present from Ancient Greek and Ancient Roman civilization, the ARCHITECTURAL ORDERS are the styles of classical architecture, each distinguished by its proportions and characteristic profiles and details, and most readily recognizable by the type of column employed. The three orders of architecture—the Doric, Ionic, and Corinthian—originated in Greece. To these the Romans added, in practice if not in name, the Tuscan, which they made simpler than Doric, and the Composite, which was more ornamental than the Corinthian. The architectural order of a classical building is akin to the mode or key of classical music; the grammar or rhetoric of a written composition. It is established by certain _modules_ like the intervals of music, and it raises certain expectations in an audience attuned to its language.[2]
 
 Whereas the orders were essentially structural in Ancient Greek architecture, which made little use of the arch until its late period, in Roman architecture where the arch was often dominant, the orders became increasingly decorative elements except in porticos and similar uses. Columns shrank into half-columns emerging from walls or turned into pilasters. This treatment continued after the conscious and "correct" use of the orders, initially following exclusively Roman models, returned in the Italian Renaissance.[3] Greek Revival architecture, inspired by increasing knowledge of Greek originals, returned to more authentic models, including ones from relatively early periods.
 
 
 Elements
 
-Table_of_architecture,_Cyclopaedia,_1728,_volume_1.jpg'', 1728]]
+'', 1728]]
 
 Each style has distinctive capitals at the top of columns and horizontal entablatures which it supports, while the rest of the building does not in itself vary between the orders. The column shaft and base also varies with the order, and is sometimes articulated with vertical hollow grooves known as fluting. The shaft is wider at the bottom than at the top, because its entasis, beginning a third of the way up, imperceptibly makes the column slightly more slender at the top, although some Doric columns, especially early Greek ones, are visibly "flared", with straight profiles that narrow going up the shaft.
 
@@ -14,7 +14,7 @@ The capital rests on the shaft. It has a load-bearing function, which concentrat
 
 Measurement
 
-Schema_Saeulenordnungen.jpg The height of columns are calculated in terms of a ratio between the diameter of the shaft at its base and the height of the column. A Doric column can be described as seven diameters high, an Ionic column as eight diameters high and a Corinthian column nine diameters high, although the actual ratios used vary considerably in both ancient and revived examples, but keeping to the trend of increasing slimness between the orders. Sometimes this is phrased as "lower diameters high", to establish which part of the shaft has been measured.
+The height of columns are calculated in terms of a ratio between the diameter of the shaft at its base and the height of the column. A Doric column can be described as seven diameters high, an Ionic column as eight diameters high and a Corinthian column nine diameters high, although the actual ratios used vary considerably in both ancient and revived examples, but keeping to the trend of increasing slimness between the orders. Sometimes this is phrased as "lower diameters high", to establish which part of the shaft has been measured.
 
 
 Greek orders
@@ -23,7 +23,7 @@ There are three distinct orders in Ancient Greek architecture: Doric, Ionic, and
 
 Sometimes the Doric order is considered the earliest order, but there is no evidence to support this. Rather, the Doric and Ionic orders seem to have appeared at around the same time, the Ionic in eastern Greece and the Doric in the west and mainland.
 
-Both the Doric and the Ionic order appear to have originated in wood. The Temple of Hera in Olympia is the oldest well-preserved temple of Doric architecture. It was built just after 600 BC. The Doric order later spread across Greece and into Sicily where it was the chief order for monumental architecture for 800 years. Early Greeks were no doubt aware of the use of stone columns with bases and capitals in Ancient Egyptian architecture, and that of other Near Eastern cultures, although there they were mostly used in interiors, rather than as a dominant feature of all or part of exteriors, in the Greek style. DoricParthenon.jpg]]
+Both the Doric and the Ionic order appear to have originated in wood. The Temple of Hera in Olympia is the oldest well-preserved temple of Doric architecture. It was built just after 600 BC. The Doric order later spread across Greece and into Sicily where it was the chief order for monumental architecture for 800 years. Early Greeks were no doubt aware of the use of stone columns with bases and capitals in Ancient Egyptian architecture, and that of other Near Eastern cultures, although there they were mostly used in interiors, rather than as a dominant feature of all or part of exteriors, in the Greek style. ]]
 
 Doric order
 
@@ -33,15 +33,11 @@ Above the capital is a square abacus connecting the capital to the entablature. 
 
 The Greek forms of the Doric order come without an individual base. They instead are placed directly on the stylobate. Later forms, however, came with the conventional base consisting of a plinth and a torus. The Roman versions of the Doric order have smaller proportions. As a result, they appear lighter than the Greek orders.
 
-IonicCapitalPriene.jpg
-
 Ionic order
 
 The Ionic order came from eastern Greece, where its origins are entwined with the similar but little known Aeolic order. It is distinguished by slender, fluted pillars with a large base and two opposed _volutes_ (also called _scrolls_) in the echinus of the capital. The echinus itself is decorated with an egg-and-dart motif. The Ionic shaft comes with four more flutes than the Doric counterpart (totalling 24). The Ionic base has two convex moldings called _tori_ which are separated by a scotia.
 
 The Ionic order is also marked by an entasis, a curved tapering in the column shaft. A column of the ionic order is nine times its lower diameter. The shaft itself is eight diameters high. The architrave of the entablature commonly consists of three stepped bands (_fasciae_). The frieze comes without the Doric _triglyph_ and _metope_. The frieze sometimes comes with a continuous ornament such as carved figures instead.
-
-CorinthianOrderPantheon.jpg
 
 Corinthian order
 
@@ -54,13 +50,11 @@ Roman orders
 
 The Romans adapted all the Greek orders and also developed two orders of their own, basically modifications of Greek orders. However, it was not until the Renaissance that these were named and formalized as the Tuscan and Composite, respectively the plainest and most ornate of the orders. The Romans also invented the superposed order. A superposed order is when successive stories of a building have different orders. The heaviest orders were at the bottom, whilst the lightest came at the top. This means that the Doric order was the order of the ground floor, the Ionic order was used for the middle story, while the Corinthian or the Composite order was used for the top story.
 
-The Colossal order was invented by architects in the Renaissance. The Colossal order is characterized by columns that extend the height of two or more stories. PalladioTuscan.jpg, _Quattro Libri di Architettura,_ 1570]]
+The Colossal order was invented by architects in the Renaissance. The Colossal order is characterized by columns that extend the height of two or more stories. , _Quattro Libri di Architettura,_ 1570]]
 
 Tuscan order
 
 The Tuscan order has a very plain design, with a plain shaft, and a simple capital, base, and frieze. It is a simplified adaptation of the Doric order by the Greeks. The Tuscan order is characterized by an unfluted shaft and a capital that only consists of an echinus and an abacus. In proportions it is similar to the Doric order, but overall it is significantly plainer. The column is normally seven diameters high. Compared to the other orders, the Tuscan order looks the most solid.
-
-Komposita1.png
 
 Composite order
 
@@ -69,7 +63,7 @@ The Composite order is a mixed order, combining the volutes of the Ionic with th
 
 Historical development of the orders
 
-StGervais_Fassade.JPG in Paris presents columns of the three orders : Doric at the ground floor, Ionic at the second floor, Corinthian at the third floor]] Bodleian_Library_2_(5650412310).jpg at Oxford University, completed in 1619, includes Tuscan through Composite orders.]] The Renaissance period saw renewed interest in the literary sources of the ancient cultures of Greece and Rome, and the fertile development of a new architecture based on classical principles. The treatise _De architectura_ by Roman theoretician, architect and engineer Vitruvius, is the only architectural writing that survived from Antiquity. Rediscovered in the 15th century, Vitruvius was instantly hailed as the authority on architecture. However, in his text the word _order_ is not to be found. To describe the four species of columns (he only mentions: Tuscan, Doric, Ionic and Corinthian) he uses, in fact, various words such as: _genus_ (gender), _mos_ (habit, fashion, manner), _opera_ (work).
+in Paris presents columns of the three orders : Doric at the ground floor, Ionic at the second floor, Corinthian at the third floor]] at Oxford University, completed in 1619, includes Tuscan through Composite orders.]] The Renaissance period saw renewed interest in the literary sources of the ancient cultures of Greece and Rome, and the fertile development of a new architecture based on classical principles. The treatise _De architectura_ by Roman theoretician, architect and engineer Vitruvius, is the only architectural writing that survived from Antiquity. Rediscovered in the 15th century, Vitruvius was instantly hailed as the authority on architecture. However, in his text the word _order_ is not to be found. To describe the four species of columns (he only mentions: Tuscan, Doric, Ionic and Corinthian) he uses, in fact, various words such as: _genus_ (gender), _mos_ (habit, fashion, manner), _opera_ (work).
 
 The term _order_, as well as the idea of redefining the _canon_ started circulating in Rome, at the beginning of the 16th century, probably during the studies of Vitruvius' text conducted and shared by Peruzzi, Raphael and Sangallo.[4] Ever since, the definition of the _canon_ has been a collective endeavor that involved several generations of European architects, from Renaissance and Baroque periods, basing their theories both on the study of Vitruvius' writings and the observation of Roman ruins (the Greek ruins became available only after Greek Independence, 1821–23). What was added were rules for the use of the Architectural Orders, and the exact proportions of them down to the most minute detail. Commentary on the appropriateness of the orders for temples devoted to particular deities (Vitruvius I.2.5) were elaborated by Renaissance theorists, with Doric characterized as bold and manly, Ionic as matronly, and Corinthian as maidenly.[5]
 
@@ -95,13 +89,13 @@ Ammonite order and Agricultural order
 
 In 1789 George Dance invented an AMMONITE ORDER, a variant of Ionic substituting volutes in the form of fossil ammonites for John Boydell's Shakespeare Gallery in Pall Mall, London.[10] An adaptation of the Corinthian order by William Donthorne that used turnip leaves and mangelwurzel is termed the AGRICULTURAL ORDER.[11][12]
 
-Corn-capital-litchfield.jpg Prospect Park (Brooklyn) (A.J. Davis, architect)]]
+Prospect Park (Brooklyn) (A.J. Davis, architect)]]
 
 American orders
 
 In the United States Benjamin Latrobe, the architect of the Capitol building in Washington DC, designed a series of botanical AMERICAN ORDERS. Most famous is the order substituting corncobs and their husks, which was executed by Giuseppe Franzoni and employed in the small domed Vestibule of the Supreme Court. Only the Supreme Court survived the fire of 24 August 1814, nearly intact. With peace restored, Latrobe designed an American order that substituted for the acanthus tobacco leaves, of which he sent a sketch to Thomas Jefferson in a letter, 5 November 1816. He was encouraged to send a model of it, which remains at Monticello. In the 1830s Alexander Jackson Davis admired it enough to make a drawing of it. In 1809 Latrobe invented a second American order, employing magnolia flowers constrained within the profile of classical mouldings, as his drawing demonstrates. It was intended for "the Upper Columns in the Gallery of the Entrance of the Chamber of the Senate" ().
 
-Anglo-Indian_(3819948065).jpg, New Delhi ]]
+, New Delhi ]]
 
 Delhi order
 

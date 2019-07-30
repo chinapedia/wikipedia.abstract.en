@@ -9,7 +9,7 @@ It is estimated that 6.6 million people, mostly in Mexico, Central America and S
 
 Signs and symptoms
 
-Chagoma.jpg Heart_pathology_Chagas_disease.JPG]] The human disease occurs in two stages: an acute stage, which occurs shortly after an initial infection, and a chronic stage that develops over many years.
+]] The human disease occurs in two stages: an acute stage, which occurs shortly after an initial infection, and a chronic stage that develops over many years.
 
 The acute phase lasts for the first few weeks or months of infection. It usually occurs unnoticed because it is symptom-free or exhibits only mild symptoms that are not unique to Chagas disease. These can include fever, fatigue, body aches, muscle pain, headache, rash, loss of appetite, diarrhea, nausea, swollen eyelids, and vomiting[35]. The signs on physical examination can include mild enlargement of the liver or spleen, swollen glands, and local swelling (a chagoma) where the parasite entered the body.[36]
 
@@ -26,7 +26,7 @@ The clinical manifestations of Chagas disease are due to cell death in the targe
 
 Transmission
 
-Rhodnius_prolixus70-300.jpg'' is the principal vector in Colombia, Venezuela, Guatemala, Honduras, and some parts of Nicaragua and El Salvador.]]
+'' is the principal vector in Colombia, Venezuela, Guatemala, Honduras, and some parts of Nicaragua and El Salvador.]]
 
 Main methods
 
@@ -58,7 +58,7 @@ Various immunoassays for _T. cruzi_ are available and can be used to distinguish
 
 Prevention
 
-Chagas_disease._Awareness_&_prevention_campaign_poster._French_Guiana_2008.JPG, 2008]]
+, 2008]]
 
 There is currently no vaccine against Chagas disease.[66] Prevention is generally focused on decreasing the numbers of the insect that spreads it (_Triatoma_) and decreasing their contact with humans. This is done by using sprays and paints containing insecticides (synthetic pyrethroids), and improving housing and sanitary conditions in rural areas.[67] For urban dwellers, spending vacations and camping out in the wilderness or sleeping at hostels or mud houses in endemic areas can be dangerous; a mosquito net is recommended. Some measures of vector control include:
 
@@ -92,7 +92,7 @@ In the chronic stage, treatment involves managing the clinical manifestations of
 
 Epidemiology
 
-Distribution_of_Chagas'_disease.svg zones).]] Chagas disease affects 8 to 10 million people living in endemic Latin American countries, with an additional 300,000–400,000 living in nonendemic countries, including Spain and the United States. An estimated 41,200 new cases occur annually in endemic countries, and 14,400 infants are born with congenital Chagas disease annually.[88][89] in 2010 it resulted in approximately 10,300 deaths up from 9,300 in 1990.[90]
+zones).]] Chagas disease affects 8 to 10 million people living in endemic Latin American countries, with an additional 300,000–400,000 living in nonendemic countries, including Spain and the United States. An estimated 41,200 new cases occur annually in endemic countries, and 14,400 infants are born with congenital Chagas disease annually.[88][89] in 2010 it resulted in approximately 10,300 deaths up from 9,300 in 1990.[90]
 
 The disease is present in 18 countries on the American continents, ranging from the southern United States to northern Argentina.[91] Chagas exists in two different ecological zones. In the Southern Cone region, the main vector lives in and around human homes. In Central America and Mexico, the main vector species lives both inside dwellings and in uninhabited areas. In both zones, Chagas occurs almost exclusively in rural areas, where triatomines breed and feed on the more than 150 species from 24 families of domestic and wild mammals, as well as humans, that are the natural reservoirs of _T. cruzi_.[92]
 
@@ -109,7 +109,7 @@ Screening of donated blood, blood components, and solid organ donors, as well as
 
 History
 
-Carlos_chagas_2.jpg, in his laboratory at the Instituto Oswaldo Cruz.]]
+, in his laboratory at the Instituto Oswaldo Cruz.]]
 
 The earliest detection of a _T. cruzi_ infection comes from a 9000-year-old Chinchorro mummy. Other exhumed mummies in the Andean region as well as pre-Columbian Peruvian ceramics shed light on the existence of Chagas Disease and have provided anthropologists reasons for how and why the illness spread.[111] In 1707, the Portuguese physician, Miguel Dial Pimenta, was the first individual to provide a clinical report relating to the possible intestinal symptoms of Chagas Disease.[112]
 

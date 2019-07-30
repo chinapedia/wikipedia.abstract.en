@@ -7,7 +7,7 @@ His career coincided with Rome's momentous change from a republic to an empire. 
 
 Life
 
-Horatii_Flacci_Sermonum.tif Horace can be regarded as the world's first autobiographer[6] – In his writings, he tells us far more about himself, his character, his development, and his way of life than any other great poet in antiquity. Some of the biographical writings contained in his writings can be supplemented from the short but valuable "Life of Horace" by Suetonius (in his _Lives of the Poets_).[7]
+Horace can be regarded as the world's first autobiographer[6] – In his writings, he tells us far more about himself, his character, his development, and his way of life than any other great poet in antiquity. Some of the biographical writings contained in his writings can be supplemented from the short but valuable "Life of Horace" by Suetonius (in his _Lives of the Poets_).[7]
 
 Childhood
 
@@ -31,7 +31,7 @@ Octavian offered an early amnesty to his opponents and Horace quickly accepted i
 
 Poet
 
-Fedor_Bronnikov_014.jpg]]
+]]
 
 The _Epodes_ belong to iambic poetry. Iambic poetry features insulting and obscene language;[37][38] sometimes, it is referred to as _blame poetry_.[39] _Blame poetry_, or _shame poetry_, is poetry written to blame and shame fellow citizens into a sense of their social obligations. Horace modelled these poems on the poetry of Archilochus. Social bonds in Rome had been decaying since the destruction of Carthage a little more than a hundred years earlier, due to the vast wealth that could be gained by plunder and corruption.[40] These social ills were magnified by rivalry between Julius Caesar, Mark Antony and confederates like Sextus Pompey, all jockeying for a bigger share of the spoils. One modern scholar has counted a dozen civil wars in the hundred years leading up to 31 BC, including the Spartacus rebellion, eight years before Horace's birth.[41] As the heirs to Hellenistic culture, Horace and his fellow Romans were not well prepared to deal with these problems:
 
@@ -52,7 +52,7 @@ Suetonius recorded some gossip about Horace's sexual activities late in life, cl
 
 Works
 
-Horatius_-_Boek_I_Ode_XIV_-_Cleveringaplaats_1,_Leiden.JPG ]]
+]]
 
 The dating of Horace's works isn't known precisely and scholars often debate the exact order in which they were first 'published'. There are persuasive arguments for the following chronology:[72]
 
@@ -85,7 +85,7 @@ Horace developed a number of inter-related themes throughout his poetic career, 
 
 Reception
 
-Quinto_Orazio_Flacco.jpg]]
+]]
 
 The reception of Horace's work has varied from one epoch to another and varied markedly even in his own lifetime. _Odes_ 1–3 were not well received when first 'published' in Rome, yet Augustus later commissioned a ceremonial ode for the Centennial Games in 17 BC and also encouraged the publication of _Odes_ 4, after which Horace's reputation as Rome's premier lyricist was assured. His Odes were to become the best received of all his poems in ancient times, acquiring a classic status that discouraged imitation: no other poet produced a comparable body of lyrics in the four centuries that followed[104] (though that might also be attributed to social causes, particularly the parasitism that Italy was sinking into).[105] In the seventeenth and eighteenth centuries, ode-writing became highly fashionable in England and a large number of aspiring poets imitated Horace both in English and in Latin.[106]
 
@@ -109,7 +109,7 @@ Horace's poems continued to be school texts into late antiquity. Works attribute
 
 Middle Ages and Renaissance
 
-Horaz_beim_Studium.jpg (in praise of Augustus).]]
+(in praise of Augustus).]]
 
 Classical texts almost ceased being copied in the period between the mid sixth century and the Carolingian revival. Horace's work probably survived in just two or three books imported into northern Europe from Italy. These became the ancestors of six extant manuscripts dated to the ninth century. Two of those six manuscripts are French in origin, one was produced in Alsace, and the other three show Irish influence but were probably written in continental monasteries (Lombardy for example).[120] By the last half of the ninth century, it was not uncommon for literate people to have direct experience of Horace's poetry. His influence on the Carolingian Renaissance can be found in the poems of Heiric of Auxerre[121] and in some manuscripts marked with neumes, mysterious notations that may have been an aid to the memorization and discussion of his lyric meters. _Ode_ 4.11 is neumed with the melody of a hymn to John the Baptist, _Ut queant laxis_, composed in Sapphic stanzas. This hymn later became the basis of the solfege system (_Do, re, mi..._)an association with western music quite appropriate for a lyric poet like Horace, though the language of the hymn is mainly Prudentian.[122] Lyons[123] argues that the melody in question was linked with Horace's Ode well before Guido d'Arezzo fitted Ut queant laxis to it. However, the melody is unlikely to be a survivor from classical times, although Ovid[124] testifies to Horace's use of the lyre while performing his Odes.
 
@@ -141,7 +141,7 @@ The Roman poet was presented in the nineteenth century as an honorary English ge
 
 Edward FitzGerald's _Rubaiyat of Omar Khayyam_, though formally derived from the Persian _ruba'i_, nevertheless shows a strong Horatian influence, since, as one modern scholar has observed,"_...the quatrains inevitably recall the stanzas of the 'Odes', as does the narrating first person of the world-weary, ageing Epicurean Omar himself, mixing sympotic exhortation and 'carpe diem' with splendid moralising and 'memento mori' nihilism._"[156] Matthew Arnold advised a friend in verse not to worry about politics, an echo of _Odes_ 2.11, yet later became a critic of Horace's inadequacies relative to Greek poets, as role models of Victorian virtues, observing: "_If human life were complete without faith, without enthusiasm, without energy, Horace...would be the perfect interpreter of human life._"[157] Christina Rossetti composed a sonnet depicting a woman willing her own death steadily, drawing on Horace's depiction of 'Glycera' in _Odes_ 1.19.5–6 and Cleopatra in _Odes_ 1.37.[158] A. E. Housman considered _Odes_ 4.7, in Archilochian couplets, the most beautiful poem of antiquity[159] and yet he generally shared Horace's penchant for quatrains, being readily adapted to his own elegiac and melancholy strain.[160] The most famous poem of Ernest Dowson took its title and its heroine's name from a line of _Odes_ 4.1, _Non sum qualis eram bonae sub regno Cynarae_, as well as its motif of nostalgia for a former flame. Kipling wrote a famous parody of the _Odes_, satirising their stylistic idiosyncrasies and especially the extraordinary syntax, but he also used Horace's Roman patriotism as a focus for British imperialism, as in the story _Regulus_ in the school collection _Stalky & Co._, which he based on _Odes_ 3.5.[161] Wilfred Owen's famous poem, quoted above, incorporated Horatian text to question patriotism while ignoring the rules of Latin scansion. However, there were few other echoes of Horace in the war period, possibly because war is not actually a major theme of Horace's work.[162]
 
-Michelin_Poster_1898.jpg (the symbol of the Michelin tyre company) takes his name from the opening line of Ode 1.37, _Nunc est bibendum_.]] Both W.H.Auden and Louis MacNeice began their careers as teachers of classics and both responded as poets to Horace's influence. Auden for example evoked the fragile world of the 1930s in terms echoing _Odes_ 2.11.1–4, where Horace advises a friend not to let worries about frontier wars interfere with current pleasures.
+(the symbol of the Michelin tyre company) takes his name from the opening line of Ode 1.37, _Nunc est bibendum_.]] Both W.H.Auden and Louis MacNeice began their careers as teachers of classics and both responded as poets to Horace's influence. Auden for example evoked the fragile world of the 1930s in terms echoing _Odes_ 2.11.1–4, where Horace advises a friend not to let worries about frontier wars interfere with current pleasures.
 
 The American poet, Robert Frost, echoed Horace's _Satires_ in the conversational and sententious idiom of some of his longer poems, such as _The Lesson for Today_ (1941), and also in his gentle advocacy of life on the farm, as in _Hyla Brook_ (1916), evoking Horace's _fons Bandusiae_ in _Ode_ 3.13. Now at the start of the third millennium, poets are still absorbing and re-configuring the Horatian influence, sometimes in translation (such as a 2002 English/American edition of the _Odes_ by thirty-six poets)[163] and sometimes as inspiration for their own work (such as a 2003 collection of odes by a New Zealand poet).[164]
 

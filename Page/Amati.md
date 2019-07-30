@@ -41,7 +41,7 @@ Instruments in the UK include Andrea Amati violins from the set delivered to Cha
 
 United States
 
-Andrea_Amati_violin_-_Met_Museum_NY.jpg, may have been part of a set made for the marriage of Philip II of Spain to Elisabeth of Valois in 1559, which would make it one of the earliest known violins in existence.]]
+, may have been part of a set made for the marriage of Philip II of Spain to Elisabeth of Valois in 1559, which would make it one of the earliest known violins in existence.]]
 
 -   Amati instruments at the National Music Museum (University of South Dakota)2:
     -   Andrea Amati:

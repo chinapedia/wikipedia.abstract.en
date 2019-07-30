@@ -29,7 +29,7 @@ As a consequence of the first point, if _a_ and _b_ are coprime, then so are any
 
 If _a_ and _b_ are coprime and _a_ divides the product _bc_, then _a_ divides _c_.[7] This can be viewed as a generalization of Euclid's lemma.
 
-coprime-lattice.svg]]
+]]
 
 The two integers _a_ and _b_ are coprime if and only if the point with coordinates (_a_, _b_) in a Cartesian coordinate system is "visible" from the origin (0,0), in the sense that there is no point with integer coordinates on the line segment between the origin and (_a_, _b_). (See figure 1.)
 
@@ -73,7 +73,7 @@ More generally, the probability of _k_ randomly chosen integers being coprime is
 
 Generating all coprime pairs
 
-Coprime8.svg All pairs of positive coprime numbers (m, n) (with m > n) can be arranged in two disjoint complete ternary trees, one tree starting from (2, 1) (for even-odd and odd-even pairs),[10] and the other tree starting from (3, 1) (for odd-odd pairs).[11] The children of each vertex (m, n) are generated as follows:
+All pairs of positive coprime numbers (m, n) (with m > n) can be arranged in two disjoint complete ternary trees, one tree starting from (2, 1) (for even-odd and odd-even pairs),[10] and the other tree starting from (3, 1) (for odd-odd pairs).[11] The children of each vertex (m, n) are generated as follows:
 
 -   Branch 1: (2m − n, m)
 -   Branch 2: (2m + n, m)

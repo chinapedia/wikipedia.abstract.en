@@ -4,12 +4,12 @@ In engineering and science, one often has a number of data points, obtained by s
 
 A closely related problem is the approximation of a complicated function by a simple function. Suppose the formula for some given function is known, but too complicated to evaluate efficiently. A few data points from the original function can be interpolated to produce a simpler function which is still fairly close to the original. The resulting gain in simplicity may outweigh the loss from interpolation error.
 
-Splined_epitrochoid.svg. The points in red are connected by blue interpolated spline curves deduced only from the red points. The interpolated curves have polynomial formulas much simpler than that of the original epitrochoid curve.]]
+. The points in red are connected by blue interpolated spline curves deduced only from the red points. The interpolated curves have polynomial formulas much simpler than that of the original epitrochoid curve.]]
 
 
 Example
 
-This table gives some values of an unknown function f(x). Interpolation_Data.svg
+This table gives some values of an unknown function f(x).
 
   -- ----- -- ----------
      _x_       _f_(_x_)
@@ -28,11 +28,11 @@ We describe some methods of interpolation, differing in such properties as: accu
 
 Piecewise constant interpolation
 
-Piecewise_constant.svg.]] The simplest interpolation method is to locate the nearest data value, and assign the same value. In simple problems, this method is unlikely to be used, as linear interpolation (see below) is almost as easy, but in higher-dimensional multivariate interpolation, this could be a favourable choice for its speed and simplicity.
+.]] The simplest interpolation method is to locate the nearest data value, and assign the same value. In simple problems, this method is unlikely to be used, as linear interpolation (see below) is almost as easy, but in higher-dimensional multivariate interpolation, this could be a favourable choice for its speed and simplicity.
 
 Linear interpolation
 
-Interpolation_example_linear.svg One of the simplest methods is linear interpolation (sometimes known as lerp). Consider the above example of estimating _f_(2.5). Since 2.5 is midway between 2 and 3, it is reasonable to take _f_(2.5) midway between _f_(2) = 0.9093 and _f_(3) = 0.1411, which yields 0.5252.
+One of the simplest methods is linear interpolation (sometimes known as lerp). Consider the above example of estimating _f_(2.5). Since 2.5 is midway between 2 and 3, it is reasonable to take _f_(2.5) midway between _f_(2) = 0.9093 and _f_(3) = 0.1411, which yields 0.5252.
 
 Generally, linear interpolation takes two data points, say (_x__(_a_),_y__(_a_)) and (_x__(_b_),_y__(_b_)), and the interpolant is given by:
 
@@ -54,7 +54,7 @@ In words, the error is proportional to the square of the distance between the da
 
 Polynomial interpolation
 
-Interpolation_example_polynomial.svg Polynomial interpolation is a generalization of linear interpolation. Note that the linear interpolant is a linear function. We now replace this interpolant with a polynomial of higher degree.
+Polynomial interpolation is a generalization of linear interpolation. Note that the linear interpolant is a linear function. We now replace this interpolant with a polynomial of higher degree.
 
 Consider again the problem given above. The following sixth degree polynomial goes through all the seven points:
 
@@ -70,8 +70,6 @@ Polynomial interpolation can estimate local maxima and minima that are outside t
 More generally, the shape of the resulting curve, especially for very high or low values of the independent variable, may be contrary to commonsense, i.e. to what is known about the experimental system which has generated the data points. These disadvantages can be reduced by using spline interpolation or restricting attention to Chebyshev polynomials.
 
 Spline interpolation
-
-Interpolation_example_spline.svg
 
 Remember that linear interpolation uses a linear function for each of intervals [_x__(_k_),_x__(_k+1_)]. Spline interpolation uses low-degree polynomials in each of the intervals, and chooses the polynomial pieces such that they fit smoothly together. The resulting function is called a spline.
 

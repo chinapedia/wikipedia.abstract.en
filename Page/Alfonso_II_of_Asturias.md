@@ -1,4 +1,4 @@
-Alfonsobig.jpg''.]]
+''.]]
 
 ALFONSO II of Asturias (842), nicknamed THE CHASTE (), was the king of Asturias during two different periods: first in the year 783 and later from 791 until his death in 842. Upon his death, Nepociano, a family member of undetermined relation, attempted to usurp the crown in place of the future Ramiro I.
 

@@ -18,11 +18,11 @@ History
 
 Early history
 
-Mayamap.png The Maya Civilization emerged at least three millennia ago in the lowland area of the Yucatán Peninsula and the highlands to the south, in the area of present-day southeastern Mexico, Belize, Guatemala, and western Honduras. Many aspects of this culture persist in the area despite nearly 500 years of European domination. Prior to about 2500 BC, some hunting and foraging bands settled in small farming villages; they later domesticated crops such as corn, beans, squash, and chili peppers.
+The Maya Civilization emerged at least three millennia ago in the lowland area of the Yucatán Peninsula and the highlands to the south, in the area of present-day southeastern Mexico, Belize, Guatemala, and western Honduras. Many aspects of this culture persist in the area despite nearly 500 years of European domination. Prior to about 2500 BC, some hunting and foraging bands settled in small farming villages; they later domesticated crops such as corn, beans, squash, and chili peppers.
 
 A profusion of languages and subcultures developed within the Maya core culture. Between about 2500 BC and 250 AD, the basic institutions of Maya civilization emerged. The peak of this civilization occurred during the classic period, which began about 250 AD.[19]
 
-Caracolfacup_o.jpg]] Xunantunich09.jpg]]
+]] ]]
 
 Maya civilization
 
@@ -35,8 +35,6 @@ Early colonial period (1506–1862)
 Spanish conquistadors explored the land and declared it part of the Spanish empire but failed to settle it because of its lack of resources and the hostile Indian tribes of the Yucatán.
 
 English pirates sporadically visited the coast of what is now Belize, seeking a sheltered region from which they could attack Spanish ships _(see English settlement in Belize)_ and cut logwood (_Haematoxylum campechianum_) trees. The first British permanent settlement was founded around 1716 in what became the Belize District,[25] and during the 18th century, established a system using black slaves to cut logwood trees. This yielded a valuable fixing agent for clothing dyes,[26] and was one of the first ways to achieve a fast black before the advent of artificial dyes. The Spanish granted the British settlers the right to occupy the area and cut logwood in exchange for their help suppressing piracy.[27]
-
-St._George's_Cay_Day_Official_Holiday.jpg
 
 The British first appointed a superintendent over the Belize area in 1786. Before then the British government had not recognized the settlement as a colony for fear of provoking a Spanish attack. The delay in government oversight allowed the settlers to establish their own laws and forms of government. During this period, a few successful settlers gained control of the local legislature, known as the Public Meeting, as well as of most of the settlement's land and timber.
 
@@ -93,7 +91,7 @@ Belize is an original member (1995) of the World Trade Organization (WTO), and p
 
 Armed forces
 
-Belize_Coast_Guard_and_U.S._Navy_Working_Together.jpg]]
+]]
 
 The Belize Defence Force (BDF) serves as the country's military and is responsible for protecting the sovereignty of Belize. The BDF, with the Belize National Coast Guard and the Immigration Department, is a department of the Ministry of Defence and Immigration. In 1997 the regular army numbered over 900, the reserve army 381, the air wing 45 and the maritime wing 36, amounting to an overall strength of approximately 1400.[37] In 2005, the maritime wing became part of the Belizean Coast Guard.[38] In 2012, the Belizean government spent about $17 million on the military, constituting 1.08% of the country's gross domestic product (GDP).[39]
 
@@ -101,13 +99,13 @@ After Belize achieved independence in 1981 the United Kingdom maintained a deter
 
 Administrative divisions
 
-Belize,_administrative_divisions_-_en_-_monochrome.svg Belize is divided into six districts. {{#section:Districts of Belize|list}}
+Belize is divided into six districts. {{#section:Districts of Belize|list}}
 
 These districts are further divided into 31 constituencies. Local government in Belize comprises four types of local authorities: city councils, town councils, village councils and community councils. The two city councils (Belize City and Belmopan) and seven town councils cover the urban population of the country, while village and community councils cover the rural population.[41]
 
 Guatemalan territorial dispute
 
-Disputed_territory_between_Belize_and_Guatemala.svg Throughout Belize's history, Guatemala has claimed ownership of all or part of Belizean territory. This claim is occasionally reflected in maps drawn by Guatemala's government, showing Belize as Guatemala's twenty-third department.[42]
+Throughout Belize's history, Guatemala has claimed ownership of all or part of Belizean territory. This claim is occasionally reflected in maps drawn by Guatemala's government, showing Belize as Guatemala's twenty-third department.[42]
 
 The Guatemalan territorial claim involves approximately 53% of Belize's mainland, which includes significant portions of four districts: Belize, Cayo, Stann Creek, and Toledo.^([37]) Roughly 43% of the country's population (≈154,949 Belizeans) reside in this region.^([38])
 
@@ -122,7 +120,7 @@ The exact ramifications of these cases need to be examined. , Belize still strug
 
 Geography
 
-Belize_Topography.png Junior-Jaguar-Belize-Zoo.jpg and many other mammals. Cockscomb Basin Wildlife Sanctuary was founded in 1990 as the first wilderness sanctuary for the jaguar and is regarded by one author as the premier site for jaguar preservation in the world.[56]]]
+and many other mammals. Cockscomb Basin Wildlife Sanctuary was founded in 1990 as the first wilderness sanctuary for the jaguar and is regarded by one author as the premier site for jaguar preservation in the world.[56]]]
 
 Belize is on the Caribbean coast of northern Central America. It shares a border on the north with the Mexican state of Quintana Roo, on the west with the Guatemalan department of Petén, and on the south with the Guatemalan department of Izabal. To the east in the Caribbean Sea, the second-longest barrier reef in the world flanks much of the of predominantly marshy coastline.[57] The area of the country totals , an area slightly larger than El Salvador, Israel, New Jersey or Wales. The many lagoons along the coasts and in the northern interior reduces the actual land area to .
 
@@ -134,7 +132,7 @@ Belize's rugged geography has also made the country's coastline and jungle attra
 
 Environment preservation and biodiversity
 
-Scarlett_Macaw.jpgs are native to Central and northern South America. Various bird sanctuaries exist in Belize, such as the Crooked Tree Wildlife Sanctuary.]]
+s are native to Central and northern South America. Various bird sanctuaries exist in Belize, such as the Crooked Tree Wildlife Sanctuary.]]
 
 Belize has a rich variety of wildlife because of its unique position between North and South America and a wide range of climates and habitats for plant and animal life.[61] Belize's low human population and approximately of undistributed land make for an ideal home for the more than 5,000 species of plants and hundreds of species of animals, including armadillos, snakes, and monkeys.[62][63]
 
@@ -160,7 +158,7 @@ In 2006, the cultivation of newly discovered crude oil in the town of Spanish Lo
 
 Belize Barrier Reef
 
-Belize_Barrier_Reef_Aerial_Looking_North.jpg Great_Blue_Hole.jpg, a phenomenon of karst topography]]
+, a phenomenon of karst topography]]
 
 The Belize Barrier Reef is a series of coral reefs straddling the coast of Belize, roughly offshore in the north and in the south within the country limits. The Belize Barrier Reef is a long section of the long Mesoamerican Barrier Reef System, which is continuous from Cancún on the northeast tip of the Yucatán Peninsula through the Riviera Maya up to Honduras making it one of the largest coral reef systems in the world.
 
@@ -187,8 +185,6 @@ Despite these protective measures, the reef remains under threat from oceanic po
 
 Climate
 
-Koppen-Geiger_Map_BLZ_present.svg
-
 Belize has a tropical climate with pronounced wet and dry seasons, although there are significant variations in weather patterns by region. Temperatures vary according to elevation, proximity to the coast, and the moderating effects of the northeast trade winds off the Caribbean. Average temperatures in the coastal regions range from in January to in July. Temperatures are slightly higher inland, except for the southern highland plateaus, such as the Mountain Pine Ridge, where it is noticeably cooler year round. Overall, the seasons are marked more by differences in humidity and rainfall than in temperature.
 
 Average rainfall varies considerably, from in the north and west to over in the extreme south. Seasonal differences in rainfall are greatest in the northern and central regions of the country where, between January and April or May, less than of rainfall per month. The dry season is shorter in the south, normally only lasting from February to April. A shorter, less rainy period, known locally as the "little dry", usually occurs in late July or August, after the onset of the rainy season.
@@ -204,7 +200,7 @@ The most recent hurricane to affect the nation was Hurricane Earl of 2016.
 
 Economy
 
-Belize_Export_Treemap_2015.png Sugar_Cane_Processing_Plant_2.jpg processing plant, Orange Walk Town, Belize. Sugar is one of Belize's top exports.]]
+processing plant, Orange Walk Town, Belize. Sugar is one of Belize's top exports.]]
 
 Belize has a small, mostly private enterprise economy that is based primarily on agriculture, agro-based industry, and merchandising, with tourism and construction recently assuming greater importance.[87] The country is also a producer of industrial minerals,[88] crude oil, and petroleum. , oil production was .[89] In agriculture, sugar, like in colonial times, remains the chief crop, accounting for nearly half of exports, while the banana industry is the largest employer.[90]
 
@@ -235,15 +231,13 @@ Society
 
 Demographics
 
-BZEBOYS_o.jpg
-
 Belize's population is estimated to be 360,346 in 2017.[97] Belize's total fertility rate in 2009 was 3.6 children per woman. Its birth rate was 27.33 births/1,000 population, and the death rate was 5.8 deaths/1,000 population.[98] Substantial ethnic-demographic shift has been occurring since 1980 when Creoles/Mestizo ratio has shifted from 58/48 to now at 26/53, with Creoles moving to the US and Mestizo birth rate and entry from El Salvador. Woods, Composition and Distribution of Ethnic Groups in Belize 1997
 
 Ethnic groups
 
 The Maya
 
-Maya children The Maya are thought to have been in Belize and the Yucatán region since the second millennium BC; however, much of Belize's original Maya population was wiped out by conflicts between constantly warring tribes. There were many who died of disease after contact and invasion by Europeans. Three Maya groups now inhabit the country: The Yucatec (who came from Yucatán, Mexico, to escape the savage Caste War of the 1840s), the Mopan (indigenous to Belize but were forced out to Guatemala by the British for raiding settlements; they returned to Belize to evade enslavement by the Guatemalans in the 19th century), and Q'eqchi' (also fled from slavery in Guatemala in the 19th century).[99] The latter groups are chiefly found in the Toledo District. The Maya speak their native languages and Spanish, and are also fluent in English and Belize Kriol.
+The Maya are thought to have been in Belize and the Yucatán region since the second millennium BC; however, much of Belize's original Maya population was wiped out by conflicts between constantly warring tribes. There were many who died of disease after contact and invasion by Europeans. Three Maya groups now inhabit the country: The Yucatec (who came from Yucatán, Mexico, to escape the savage Caste War of the 1840s), the Mopan (indigenous to Belize but were forced out to Guatemala by the British for raiding settlements; they returned to Belize to evade enslavement by the Guatemalans in the 19th century), and Q'eqchi' (also fled from slavery in Guatemala in the 19th century).[99] The latter groups are chiefly found in the Toledo District. The Maya speak their native languages and Spanish, and are also fluent in English and Belize Kriol.
 
 Creoles
 
@@ -255,7 +249,7 @@ Belize Creole English or _Kriol_ developed during the time of slavery, and histo
 
 Garinagu
 
-Garifuna_dancers_in_Dangriga,_Belize.jpg, Belize]] The Garinagu (singular _Garifuna_), at around 4.5% of the population, are a mix of West/Central African, Arawak, and Island Carib ancestry. Though they were captives removed from their homelands, these people were never documented as slaves. The two prevailing theories are that, in 1635, they were either the survivors of two recorded shipwrecks or somehow took over the ship they came on.[106]
+, Belize]] The Garinagu (singular _Garifuna_), at around 4.5% of the population, are a mix of West/Central African, Arawak, and Island Carib ancestry. Though they were captives removed from their homelands, these people were never documented as slaves. The two prevailing theories are that, in 1635, they were either the survivors of two recorded shipwrecks or somehow took over the ship they came on.[106]
 
 Throughout history they have been incorrectly labelled as Black Caribs. When the British took over Saint Vincent and the Grenadines after the Treaty of Paris in 1763, they were opposed by French settlers and their Garinagu allies. The Garinagu eventually surrendered to the British in 1796. The British separated the more African-looking Garifunas from the more indigenous-looking ones. 5,000 Garinagu were exiled from the Grenadine island of Baliceaux. However, only about 2,500 of them survived the voyage to Roatán, an island off the coast of Honduras. The Garifuna language belongs to the Arawakan language family, but has a large number of loanwords from Carib languages and from English.
 
@@ -269,7 +263,7 @@ The Mestizo culture are people of mixed Spanish and Maya descent. They originall
 
 German-speaking Mennonites
 
-Menonite_Children.JPG-speaking Mennonites live in Belize, farming the land and living according to their religious beliefs.[111]]] The majority of the Mennonite population comprises so-called Russian Mennonites of German descent who settled in the Russian Empire during the 18th and 19th centuries. Most Russian Mennonites live in Mennonite settlements like Spanish Lookout, Shipyard, Little Belize, and Blue Creek. These Mennonites speak Plautdietsch (a Low German dialect) in everyday life, but use mostly Standard German for reading (the Bible) and writing. The Plautdietsch-speaking Mennonites came mostly from Mexico in the years after 1958 and they are trilingual with Spanish. There are also some mainly Pennsylvania German-speaking Old Order Mennonites who came from the United States and Canada in the late 1960s. They live primarily in Upper Barton Creek and associated settlements. These Mennonites attracted people from different Anabaptist backgrounds who formed a new community. They look quite similar to Old Order Amish, but are different from them.
+-speaking Mennonites live in Belize, farming the land and living according to their religious beliefs.[111]]] The majority of the Mennonite population comprises so-called Russian Mennonites of German descent who settled in the Russian Empire during the 18th and 19th centuries. Most Russian Mennonites live in Mennonite settlements like Spanish Lookout, Shipyard, Little Belize, and Blue Creek. These Mennonites speak Plautdietsch (a Low German dialect) in everyday life, but use mostly Standard German for reading (the Bible) and writing. The Plautdietsch-speaking Mennonites came mostly from Mexico in the years after 1958 and they are trilingual with Spanish. There are also some mainly Pennsylvania German-speaking Old Order Mennonites who came from the United States and Canada in the late 1960s. They live primarily in Upper Barton Creek and associated settlements. These Mennonites attracted people from different Anabaptist backgrounds who formed a new community. They look quite similar to Old Order Amish, but are different from them.
 
 Other groups
 
@@ -350,7 +344,7 @@ Most of the public holidays in Belize are traditional Commonwealth and Christian
 
 Cuisine
 
-Rice_and_Beans,_Stew_Chicken_and_Potato_Salad_-_Belize.jpg Belizean cuisine is an amalgamation of all ethnicities in the nation, and their respectively wide variety of foods. It might best be described as both similar to Mexican/Central American cuisine and Jamaican/Anglo-Caribbean cuisine but very different to these areas as well with Belizean touches and innovation which have been handed down by generations. All immigrant communities add to the diversity of Belizean food including the Indian and Chinese Communities.
+Belizean cuisine is an amalgamation of all ethnicities in the nation, and their respectively wide variety of foods. It might best be described as both similar to Mexican/Central American cuisine and Jamaican/Anglo-Caribbean cuisine but very different to these areas as well with Belizean touches and innovation which have been handed down by generations. All immigrant communities add to the diversity of Belizean food including the Indian and Chinese Communities.
 
 Belizean diet is very modern and traditional. There are no rules. Breakfast typically consists of bread, flour tortillas, or fry jacks that are often homemade. Fry jacks are eaten with various cheeses, "fry" beans, various forms of eggs or cereal, along with powdered milk, coffee, or tea. Tacos made from corn or flour tortillas and meatpies can also be consumed for a hearty breakfast from a street vendor. Midday meals are the main meals for Belizeans, usually called "dinner". They vary, from foods such as rice and beans with or without coconut milk, tamales (fried maize shells with beans or fish), "panades", meat pies, escabeche (onion soup), chimole (soup), caldo, stewed chicken and garnaches (fried tortillas with beans, cheese, and sauce) to various constituted dinners featuring some type of rice and beans, meat and salad or coleslaw. Fried "fry" chicken is also consumed at this time.
 
@@ -364,7 +358,7 @@ Brukdown is a modern style of Belizean music related to calypso. It evolved out 
 
 Sports
 
-Shalini_Zabaneh,_Cyclist,_Belize.jpg The major sports in Belize are football, basketball, volleyball and cycling, with smaller followings of boat racing, athletics, softball, cricket, rugby and netball. Fishing is also popular in coastal areas of Belize.
+The major sports in Belize are football, basketball, volleyball and cycling, with smaller followings of boat racing, athletics, softball, cricket, rugby and netball. Fishing is also popular in coastal areas of Belize.
 
 The Cross Country Cycling Classic, also known as the "cross country" race or the Holy Saturday Cross Country Cycling Classic, is considered one of the most important Belize sports events. This one-day sports event is meant for amateur cyclists but has also gained worldwide popularity. The history of Cross Country Cycling Classic in Belize dates back to the period when Monrad Metzgen picked up the idea from a small village on the Northern Highway (now Phillip Goldson Highway). The people from this village used to cover long distances on their bicycles to attend the weekly game of cricket. He improvised on this observation by creating a sporting event on the difficult terrain of the Western Highway, which was then poorly built.
 
@@ -380,7 +374,7 @@ Simone Biles, the winner of four gold medals in the 2016 Summer Olympic Games in
 
 National symbols
 
-Ramphastos_sulfuratus_-Belize_Zoo-6a-2c.jpg]] The national flower is the black orchid (_Prosthechea cochleata_, also known as _Encyclia cochleata_). The national tree is the mahogany tree (_Swietenia macrophylla_), which inspired the national motto _Sub Umbra Floreo_, which means "Under the shade I flourish". The national animal is the Baird's tapir and the national bird is the keel-billed toucan (_Ramphastos sulphuratus_).[162]
+]] The national flower is the black orchid (_Prosthechea cochleata_, also known as _Encyclia cochleata_). The national tree is the mahogany tree (_Swietenia macrophylla_), which inspired the national motto _Sub Umbra Floreo_, which means "Under the shade I flourish". The national animal is the Baird's tapir and the national bird is the keel-billed toucan (_Ramphastos sulphuratus_).[162]
 
 
 See also

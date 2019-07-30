@@ -1,4 +1,4 @@
-On_Off_-_Zał_Wył_(3086204137).jpg. Pressing the _On_ button (green) is an idempotent operation, since it has the same effect whether done once or multiple times.]] IDEMPOTENCE (,[1] )[2] is the property of certain operations in mathematics and computer science whereby they can be applied multiple times without changing the result beyond the initial application. The concept of idempotence arises in a number of places in abstract algebra (in particular, in the theory of projectors and closure operators) and functional programming (in which it is connected to the property of referential transparency).
+. Pressing the _On_ button (green) is an idempotent operation, since it has the same effect whether done once or multiple times.]] IDEMPOTENCE (,[1] )[2] is the property of certain operations in mathematics and computer science whereby they can be applied multiple times without changing the result beyond the initial application. The concept of idempotence arises in a number of places in abstract algebra (in particular, in the theory of projectors and closure operators) and functional programming (in which it is connected to the property of referential transparency).
 
 The term was introduced by Benjamin Peirce[3] in the context of elements of algebras that remain invariant when raised to a positive integer power, and literally means "(the quality of having) the same power", from + _potence_ (same + power).
 
@@ -79,7 +79,7 @@ In Service oriented architecture (SOA), a multiple-step orchestration process co
 
 Applied examples
 
-Colección_de_hombres_cruzando.JPG Applied examples that many people could encounter in their day-to-day lives include elevator call buttons and crosswalk buttons.[17] The initial activation of the button moves the system into a requesting state, until the request is satisfied. Subsequent activations of the button between the initial activation and the request being satisfied have no effect, unless the system is designed to adjust the time for satisfying the request based on the number of activations.
+Applied examples that many people could encounter in their day-to-day lives include elevator call buttons and crosswalk buttons.[17] The initial activation of the button moves the system into a requesting state, until the request is satisfied. Subsequent activations of the button between the initial activation and the request being satisfied have no effect, unless the system is designed to adjust the time for satisfying the request based on the number of activations.
 
 
 See also

@@ -1,4 +1,4 @@
-Haggis_on_a_platter.jpg]] Haggis,_neeps_and_tatties.jpg
+]]
 
 HAGGIS is a savoury pudding containing sheep's pluck (heart, liver, and lungs); minced with onion, oatmeal, suet, spices, and salt, mixed with stock, and cooked while traditionally encased in the animal's stomach[1] though now often in an artificial casing instead. According to the 2001 English edition of the _Larousse Gastronomique_: "Although its description is not immediately appealing, haggis has an excellent nutty texture and delicious savoury flavour".[2]
 
@@ -37,7 +37,7 @@ A joke sometimes maintained is that a haggis is a small Scottish animal with lon
 
 Modern use
 
-Bob_Purdie_addressing_haggis_20040124.jpg is an important part of the Burns supper]] Haggis_supper_1.jpg
+is an important part of the Burns supper]]
 
 Haggis is traditionally served as part of the Burns supper on or near January 25, the birthday of Scotland's national poet Robert Burns. Burns wrote the poem _Address to a Haggis_, which starts "Fair fa' your honest, sonsie face, Great chieftain o' the puddin-race!" In Burns's lifetime haggis was a common dish of the poor as it was nourishing yet very cheap, being made from leftover parts of sheep otherwise discarded.
 
@@ -54,7 +54,7 @@ Since the 1960s various Scottish shops and manufacturers have made what they cal
 
 Outside Scotland
 
-Haggis.JPG Haggis_scoticus.jpg _Haggis scoticus_, next to a prepared specimen, as displayed at the Glasgow Kelvingrove Gallery]]
+_Haggis scoticus_, next to a prepared specimen, as displayed at the Glasgow Kelvingrove Gallery]]
 
 Haggis remains popular with Scottish immigrants in the United States, Canada, Australia, and New Zealand, owing to the strong influence of Scottish culture, especially for Burns Suppers. It can easily be made in any country, but is sometimes imported from Scotland. A recipe from the Canadian province of New Brunswick uses pork and bakes it in a loaf pan.
 

@@ -9,11 +9,11 @@ Bipolar disorder affects approximately 1% of the global population.[34] In the U
 
 Signs and symptoms
 
-Bipolar_mood_shifts.png Both mania and depression are characterized by disruptions in normal mood, psychomotor activity, circadian rhythm, and cognition. Mania can present with varying levels of mood disturbance, ranging from euphoria that is associated with "classic mania" to dysphoria and irritability. The core symptom of mania involves an increase in energy of psychomotor activity. Mania can also present with increased self-esteem or grandiosity, rapid speech, the subjective feeling of rapid thoughts, disinhibited social behavior, or impulsivity.[41] Mania is distinguished from hypomania by length, as hypomania requires four consecutive days, and mania requires more than a week. Unlike mania, hypomania is not always associated with impaired functioning.[42] The biological mechanisms responsible for switching from a manic or hypomanic episode to a depressive episode, or vice versa, remain poorly understood.[43]
+Both mania and depression are characterized by disruptions in normal mood, psychomotor activity, circadian rhythm, and cognition. Mania can present with varying levels of mood disturbance, ranging from euphoria that is associated with "classic mania" to dysphoria and irritability. The core symptom of mania involves an increase in energy of psychomotor activity. Mania can also present with increased self-esteem or grandiosity, rapid speech, the subjective feeling of rapid thoughts, disinhibited social behavior, or impulsivity.[41] Mania is distinguished from hypomania by length, as hypomania requires four consecutive days, and mania requires more than a week. Unlike mania, hypomania is not always associated with impaired functioning.[42] The biological mechanisms responsible for switching from a manic or hypomanic episode to a depressive episode, or vice versa, remain poorly understood.[43]
 
 Manic episodes
 
-A_woman_diagnosed_as_suffering_from_hilarious_mania._Colour_Wellcome_L0026687.jpg Mania is a distinct period of at least one week of elevated or irritable mood, which can range from euphoria to delirium, and those experiencing hypomania or mania generally exhibit several of the following behaviors: speaking in a rapid, uninterruptible manner, decreased need for sleep, short attention span, racing thoughts, increased goal-oriented activities, agitation, or exhibition of behaviors characterized as impulsive or high-risk, such as hypersexuality or excessive spending.[44][45][46] To meet the definition for a manic episode, these behaviors must impair the individual's ability to socialize or work.[47][48] If untreated, a manic episode usually lasts three to six months.[49]
+Mania is a distinct period of at least one week of elevated or irritable mood, which can range from euphoria to delirium, and those experiencing hypomania or mania generally exhibit several of the following behaviors: speaking in a rapid, uninterruptible manner, decreased need for sleep, short attention span, racing thoughts, increased goal-oriented activities, agitation, or exhibition of behaviors characterized as impulsive or high-risk, such as hypersexuality or excessive spending.[44][45][46] To meet the definition for a manic episode, these behaviors must impair the individual's ability to socialize or work.[47][48] If untreated, a manic episode usually lasts three to six months.[49]
 
 Manic individuals often have a history of substance abuse developed over years as a form of "self-medication".[50] At the most extreme, a person in a full-blown manic state can experience psychosis: a break with reality, a state in which thinking is affected along with mood.[51] They may feel unstoppable, or as if they have been "chosen" and are on a "special mission", or have other grandiose or delusional ideas.[52] This may lead to violent behavior and, sometimes, hospitalization in an inpatient psychiatric hospital.[53][54] The severity of manic symptoms can be measured by rating scales such as the Young Mania Rating Scale, though questions remain about the reliability of these scales.[55]
 
@@ -21,13 +21,13 @@ The onset of a manic or depressive episode is often foreshadowed by sleep distur
 
 Hypomanic episodes
 
-'Melancholy_passing_into_mania'_Wellcome_L0022595_(cropped).jpg Hypomania is the milder form of mania, defined as at least four days of the same criteria as mania,[58] but which does not cause a significant decrease in the individual's ability to socialize or work, lacks psychotic features such as delusions or hallucinations, and does not require psychiatric hospitalization.[59] Overall functioning may actually increase during episodes of hypomania and is thought to serve as a defense mechanism against depression by some.[60] Hypomanic episodes rarely progress to full-blown manic episodes.[61] Some people who experience hypomania show increased creativity[62][63] while others are irritable or demonstrate poor judgment.
+Hypomania is the milder form of mania, defined as at least four days of the same criteria as mania,[58] but which does not cause a significant decrease in the individual's ability to socialize or work, lacks psychotic features such as delusions or hallucinations, and does not require psychiatric hospitalization.[59] Overall functioning may actually increase during episodes of hypomania and is thought to serve as a defense mechanism against depression by some.[60] Hypomanic episodes rarely progress to full-blown manic episodes.[61] Some people who experience hypomania show increased creativity[62][63] while others are irritable or demonstrate poor judgment.
 
 Hypomania may feel good to some persons who experience it, though most people who experience hypomania state that the stress of the experience is very painful.[64] Bipolar people who experience hypomania, however, tend to forget the effects of their actions on those around them. Even when family and friends recognize mood swings, the individual will often deny that anything is wrong.[65] What might be called a "hypomanic event", if not accompanied by depressive episodes, is often not deemed problematic, unless the mood changes are uncontrollable, or volatile.[66] Most commonly, symptoms continue for a few weeks to a few months.[67]
 
 Depressive episodes
 
-'Melancholy'_by_W._Bagg_Wellcome_L0022594.jpg]] Symptoms of the depressive phase of bipolar disorder include persistent feelings of sadness, irritability or anger, loss of interest in previously enjoyed activities, excessive or inappropriate guilt, hopelessness, sleeping too much or not enough, changes in appetite and/or weight, fatigue, problems concentrating, self-loathing or feelings of worthlessness, and thoughts of death or suicide.[68] In severe cases, the individual may develop symptoms of psychosis, a condition also known as _severe bipolar disorder with psychotic features_. These symptoms include delusions and hallucinations. A major depressive episode persists for at least two weeks, and may result in suicide if left untreated.[69]
+]] Symptoms of the depressive phase of bipolar disorder include persistent feelings of sadness, irritability or anger, loss of interest in previously enjoyed activities, excessive or inappropriate guilt, hopelessness, sleeping too much or not enough, changes in appetite and/or weight, fatigue, problems concentrating, self-loathing or feelings of worthlessness, and thoughts of death or suicide.[68] In severe cases, the individual may develop symptoms of psychosis, a condition also known as _severe bipolar disorder with psychotic features_. These symptoms include delusions and hallucinations. A major depressive episode persists for at least two weeks, and may result in suicide if left untreated.[69]
 
 The earlier the age of onset, the more likely the first few episodes are to be depressive.[70] Since a diagnosis of bipolar disorder requires a manic or hypomanic episode, many affected individuals are initially misdiagnosed as having major depression and then incorrectly treated with prescribed antidepressants.[71]
 
@@ -75,8 +75,6 @@ Mechanism
 
 Physiological
 
-GFPneuron.png
-
 Abnormalities in the structure and/or function of certain brain circuits could underlie bipolar disorder. Meta-analyses of structural MRI studies in bipolar disorder report decreased volume in the left rostral anterior cingulate cortex (ACC), fronto-insular cortex, ventral prefrontal cortex, and claustrum. Increases have been reported in the volume of the lateral ventricles, globus pallidus, subgenual anterior cingulate, and amygdala as well as in the rates of deep white matter hyperintensities.[115][116][117][118] Functional MRI findings suggest that abnormal modulation between ventral prefrontal and limbic regions, especially the amygdala, likely contributes to poor emotional regulation and mood symptoms.[119] Pharmacological treatment of mania increases ventral prefrontal cortex (vPFC) activity, normalizing it relative to controls, suggesting that vPFC hypoactivity is an indicator of mood state. On the other hand, pretreatment hyperactivity in the amygdala is reduced post-treatment but is still increased relative to controls, suggesting that it is a trait marker.[120]
 
 Manic and depressive episodes tend to be characterized by ventral versus dorsal dysfunction in the ventral prefrontal cortex. During attentional tasks and resting, mania is associated with decreased orbitofrontal cortex activity, while depression is associated with increased resting metabolism. Consistent with affective disorders due to lesions, mania and depression are lateralized in vPFC dysfunction, with depression primarily being associated with the left vPFC, and mania the right vPFC. Abnormal vPFC activity, along with amygdala hyperactivity is found during euthymia as well as in healthy relatives of those with bipolar, indicating possible trait features.[121]
@@ -116,13 +114,13 @@ A review of current and recent medications and drug use is considered to rule ou
 
 Bipolar spectrum
 
-E._Kraepelin.jpg Bipolar spectrum disorders includes: bipolar I disorder, bipolar II disorder, cyclothymic disorder and cases where subthreshold symptoms are found to cause clinically significant impairment or distress.[159][160] These disorders involve major depressive episodes that alternate with manic or hypomanic episodes, or with mixed episodes that feature symptoms of both mood states.[161] The concept of the bipolar spectrum is similar to that of Emil Kraepelin's original concept of manic depressive illness.[162]
+Bipolar spectrum disorders includes: bipolar I disorder, bipolar II disorder, cyclothymic disorder and cases where subthreshold symptoms are found to cause clinically significant impairment or distress.[159][160] These disorders involve major depressive episodes that alternate with manic or hypomanic episodes, or with mixed episodes that feature symptoms of both mood states.[161] The concept of the bipolar spectrum is similar to that of Emil Kraepelin's original concept of manic depressive illness.[162]
 
 Unipolar hypomania without accompanying depression has been noted in the medical literature.[163] There is speculation as to whether this condition may occur with greater frequency in the general, untreated population; successful social function of these potentially high-achieving individuals may lead to being labeled as normal, rather than as individuals with substantial dysregulation.
 
 Criteria and subtypes
 
-Bipolar_disorder_subtypes_comparison_between_Bipolar_I,_II_disorder_and_Cyclothymia.svg The DSM and the ICD characterize bipolar disorder as a spectrum of disorders occurring on a continuum. The DSM-5 lists three specific subtypes:[164]
+The DSM and the ICD characterize bipolar disorder as a spectrum of disorders occurring on a continuum. The DSM-5 lists three specific subtypes:[164]
 
 -   Bipolar I disorder: At least one manic episode is necessary to make the diagnosis;[165] depressive episodes are common in the vast majority of cases with bipolar disorder I, but are unnecessary for the diagnosis.[166] Specifiers such as "mild, moderate, moderate-severe, severe" and "with psychotic features" should be added as applicable to indicate the presentation and course of the disorder.[167]
 -   Bipolar II disorder: No manic episodes and one or more hypomanic episodes and one or more major depressive episode.[168] Hypomanic episodes do not go to the full extremes of mania (_i.e._, do not usually cause severe social or occupational impairment, and are without psychosis), and this can make bipolar II more difficult to diagnose, since the hypomanic episodes may simply appear as periods of successful high productivity and are reported less frequently than a distressing, crippling depression.
@@ -151,8 +149,6 @@ Psychosocial
 Psychotherapy is aimed at alleviating core symptoms, recognizing episode triggers, reducing negative expressed emotion in relationships, recognizing prodromal symptoms before full-blown recurrence, and, practicing the factors that lead to maintenance of remission.[181] Cognitive behavioral therapy, family-focused therapy, and psychoeducation have the most evidence for efficacy in regard to relapse prevention, while interpersonal and social rhythm therapy and cognitive-behavioral therapy appear the most effective in regard to residual depressive symptoms. Most studies have been based only on bipolar I, however, and treatment during the acute phase can be a particular challenge.[182] Some clinicians emphasize the need to talk with individuals experiencing mania, to develop a therapeutic alliance in support of recovery.[183]
 
 Medication
-
-Lithium2017a.jpg
 
 A number of medications are used to treat bipolar disorder.[184] The medication with the best evidence is lithium, which is an effective treatment for acute manic episodes, preventing relapses, and bipolar depression.[185] Lithium reduces the risk of suicide, self-harm, and death in people with bipolar disorder.[186] It is unclear if ketamine (a common general dissociative anesthetic used in surgery) is useful in bipolar .[187]
 
@@ -208,7 +204,7 @@ Bipolar disorder can cause suicidal ideation that leads to suicidal attempts. In
 
 Epidemiology
 
-Bipolar_disorder_world_map_-_DALY_-_WHO2004.svgs per 100,000 inhabitants in 2004. ]]
+s per 100,000 inhabitants in 2004. ]]
 
 Bipolar disorder is the sixth leading cause of disability worldwide and has a lifetime prevalence of about 1 to 3 percent in the general population.[238][239][240] However, a reanalysis of data from the National Epidemiological Catchment Area survey in the United States suggested that 0.8 percent of the population experience a manic episode at least once (the diagnostic threshold for bipolar I) and a further 0.5 percent have a hypomanic episode (the diagnostic threshold for bipolar II or cyclothymia). Including sub-threshold diagnostic criteria, such as one or two symptoms over a short time-period, an additional 5.1 percent of the population, adding up to a total of 6.4 percent, were classified as having a bipolar spectrum disorder.[241] A more recent analysis of data from a second US National Comorbidity Survey found that 1 percent met lifetime prevalence criteria for bipolar I, 1.1 percent for bipolar II, and 2.4 percent for subthreshold symptoms.[242]
 
@@ -221,7 +217,7 @@ Late adolescence and early adulthood are peak years for the onset of bipolar dis
 
 History
 
-Emil_Kraepelin_1926.jpg first distinguished between manic–depressive illness and "dementia praecox" (now known as schizophrenia) in the late 19th century]]
+first distinguished between manic–depressive illness and "dementia praecox" (now known as schizophrenia) in the late 19th century]]
 
 Variations in moods and energy levels have been observed as part of the human experience throughout history. The words "melancholia", an old word for depression, and "mania" originated in Ancient Greece. The word melancholia is derived from _melas_ (), meaning "black", and _chole_ (), meaning "bile" or "gall", indicative of the term's origins in pre-Hippocratic humoral theory. Within the humoral theories, mania was viewed as arising from an excess of yellow bile, or a mixture of black and yellow bile. The linguistic origins of mania, however, are not so clear-cut. Several etymologies were proposed by the Ancient Roman physician Caelius Aurelianus, including the Greek word _ania_, meaning "to produce great mental anguish", and _manos_, meaning "relaxed" or "loose", which would contextually approximate to an excessive relaxing of the mind or soul.[250] There are at least five other candidates, and part of the confusion surrounding the exact etymology of the word mania is its varied usage in the pre-Hippocratic poetry and mythology.[251]
 
@@ -234,7 +230,7 @@ The term "manic–depressive _reaction_" appeared in the first version of the DS
 
 Society and culture
 
-Rosemary_Clooney_Allan_Warren.jpg's public revelation of bipolar disorder made her an early celebrity spokeswoman for mental illness.[262]]]
+'s public revelation of bipolar disorder made her an early celebrity spokeswoman for mental illness.[262]]]
 
 There are widespread problems with social stigma, stereotypes, and prejudice against individuals with a diagnosis of bipolar disorder.[263]
 
@@ -257,7 +253,7 @@ Specific populations
 
 Children
 
-Lithium_carbonate.jpg is the only medication approved by the FDA for treating mania in children]] In the 1920s, Emil Kraepelin noted that manic episodes are rare before puberty.[274] In general, bipolar disorder in children was not recognized in the first half of the twentieth century. This issue diminished with an increased following of the DSM criteria in the last part of the twentieth century.[275][276] The DSM5 does not specifically have bipolar disorder in children and instead refers to it as disruptive mood dysregulation disorder.[277]
+is the only medication approved by the FDA for treating mania in children]] In the 1920s, Emil Kraepelin noted that manic episodes are rare before puberty.[274] In general, bipolar disorder in children was not recognized in the first half of the twentieth century. This issue diminished with an increased following of the DSM criteria in the last part of the twentieth century.[275][276] The DSM5 does not specifically have bipolar disorder in children and instead refers to it as disruptive mood dysregulation disorder.[277]
 
 While in adults the course of bipolar disorder is characterized by discrete episodes of depression and mania with no clear symptomatology between them, in children and adolescents very fast mood changes or even chronic symptoms are the norm.[278] Pediatric bipolar disorder is commonly characterized by outbursts of anger, irritability and psychosis, rather than euphoric mania, which is more likely to be seen in adults.[279][280] Early onset bipolar disorder is more likely to manifest as depression rather than mania or hypomania.[281]
 

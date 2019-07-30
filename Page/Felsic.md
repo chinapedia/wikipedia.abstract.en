@@ -12,7 +12,7 @@ The term "felsic" combines the words "FELdspar" and "SIlica". The similarity of 
 
 Classification of felsic rocks
 
-LvMS-Lvg.jpg, as seen in a petrographic microscope. Scale box is in millimeters.]] In order for a rock to be classified as felsic, it generally needs to contain more than 75% felsic minerals; namely quartz, orthoclase and plagioclase. Rocks with greater than 90% felsic minerals can also be called _LEUCOCRATIC_,[3] from the Greek words for white and dominance.
+, as seen in a petrographic microscope. Scale box is in millimeters.]] In order for a rock to be classified as felsic, it generally needs to contain more than 75% felsic minerals; namely quartz, orthoclase and plagioclase. Rocks with greater than 90% felsic minerals can also be called _LEUCOCRATIC_,[3] from the Greek words for white and dominance.
 
 Felsite is a petrologic field term used to refer to very fine-grained or aphanitic, light-colored volcanic rocks which might be later reclassified after a more detailed microscopic or chemical analysis.
 
@@ -22,7 +22,7 @@ The chemical name of a felsic rock is given according to the TAS classification 
 
 For phaneritic felsic rocks, the QAPF diagram should be used, and a name given according to the granite nomenclature. Often the species of mafic minerals is included in the name, for instance, hornblende-bearing granite, pyroxene tonalite or augite megacrystic monzonite, because the term "granite" already assumes content with feldspar and quartz.
 
-The rock texture thus determines the basic name of a felsic rock. Granite_Yosemite_P1160483.jpg from Yosemite National Park.]] RhyoliteUSGOV.jpg.]]
+The rock texture thus determines the basic name of a felsic rock. from Yosemite National Park.]] .]]
 
   -------------------------------- ---------------------------
   ROCK TEXTURE                     NAME OF FELSIC ROCK

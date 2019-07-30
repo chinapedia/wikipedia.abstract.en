@@ -1,5 +1,3 @@
-International_Criminal_Court_Headquarters,_Netherlands.jpg
-
 The INTERNATIONAL CRIMINAL COURT (ICC or ICCT)[1] is an intergovernmental organization and international tribunal that sits in The Hague, Netherlands. The ICC has jurisdiction to prosecute individuals for the international crimes of genocide, crimes against humanity, war crimes, and crimes of aggression. It is intended to complement existing national judicial systems and it may therefore exercise its jurisdiction only when certain conditions are met, such as when national courts are unwilling or unable to prosecute criminals or when the United Nations Security Council or individual states refer situations to the Court.
 
 The ICC began functioning on 1 July 2002, the date that the Rome Statute entered into force. The Rome Statute is a multilateral treaty that serves as the ICC's foundational and governing document. States which become party to the Rome Statute become member states of the ICC. As of March 2019, there are 122 ICC member states. 42 states are non-party, non-signatory states.
@@ -66,7 +64,7 @@ The Court has four organs: the Presidency, the Judicial Division, the Office of 
 
 Presidency
 
-Song_Sang-Hyun_-_Trento_2014_01.JPG was President of the Court from 2009 to 2015]] The Presidency is responsible for the proper administration of the Court (apart from the Office of the Prosecutor).[41] It comprises the President and the First and Second Vice-Presidents—three judges of the Court who are elected to the Presidency by their fellow judges for a maximum of two three-year terms.[42] The current president is Chile Eboe-Osuji, who was elected 11 March 2018, succeeding Silvia Fernández de Gurmendi (first female president).[43][44]
+was President of the Court from 2009 to 2015]] The Presidency is responsible for the proper administration of the Court (apart from the Office of the Prosecutor).[41] It comprises the President and the First and Second Vice-Presidents—three judges of the Court who are elected to the Presidency by their fellow judges for a maximum of two three-year terms.[42] The current president is Chile Eboe-Osuji, who was elected 11 March 2018, succeeding Silvia Fernández de Gurmendi (first female president).[43][44]
 
 Judicial Divisions
 
@@ -76,7 +74,7 @@ The Prosecutor or any person being investigated or prosecuted may request the di
 
 Office of the Prosecutor
 
-Fatou_Bensouda5.jpg and Luis Moreno Ocampo, with Estonia's Minister of Foreign Affairs, Urmas Paet, in 2012]] The Office of the Prosecutor (OTP) is responsible for conducting investigations and prosecutions.[54] It is headed by the Chief Prosecutor, who is assisted by one or more Deputy Prosecutors.[55] The Rome Statute provides that the Office of the Prosecutor shall act independently;[56] as such, no member of the Office may seek or act on instructions from any external source, such as states, international organisations, non-governmental organisations or individuals.[57]
+and Luis Moreno Ocampo, with Estonia's Minister of Foreign Affairs, Urmas Paet, in 2012]] The Office of the Prosecutor (OTP) is responsible for conducting investigations and prosecutions.[54] It is headed by the Chief Prosecutor, who is assisted by one or more Deputy Prosecutors.[55] The Rome Statute provides that the Office of the Prosecutor shall act independently;[56] as such, no member of the Office may seek or act on instructions from any external source, such as states, international organisations, non-governmental organisations or individuals.[57]
 
 The Prosecutor may open an investigation under three circumstances:[58]
 
@@ -304,13 +302,13 @@ Architecture
 
 The building has a compact footprint and consists of six connected building volumes with a garden motif. The tallest volume with a green facade, placed in the middle of the design, is the Court Tower that accommodates 3 courtrooms. The rest of the building's volumes accommodate the offices of the different organs of the ICC.[156]
 
-  ---------------------------------- --------------------------------------
-  Icc_permanent_premises_lobby.jpg   ICC_permanent_premises_courtroom.jpg
-  ---------------------------------- --------------------------------------
+  -- --
+
+  -- --
 
 Provisional headquarters, 2002–2015
 
-Netherlands,_The_Hague,_International_Criminal_Court.JPG Until late 2015, the ICC was housed in interim premises in The Hague provided by the Netherlands.[157] Formerly belonging to KPN, the provisional headquarters were located at Maanweg 174 in the east-central portion of the city.
+Until late 2015, the ICC was housed in interim premises in The Hague provided by the Netherlands.[157] Formerly belonging to KPN, the provisional headquarters were located at Maanweg 174 in the east-central portion of the city.
 
 Detention centre
 
@@ -323,14 +321,14 @@ The ICC maintains a liaison office in New York[161] and field offices in places 
 
 Finance
 
-International_Criminal_Court_contributions,_2008.png The ICC is financed by contributions from the states parties. The amount payable by each state party is determined using the same method as the United Nations:[164] each state's contribution is based on the country's capacity to pay, which reflects factors such as a national income and population. The maximum amount a single country can pay in any year is limited to 22% of the Court's budget; Japan paid this amount in 2008.
+The ICC is financed by contributions from the states parties. The amount payable by each state party is determined using the same method as the United Nations:[164] each state's contribution is based on the country's capacity to pay, which reflects factors such as a national income and population. The maximum amount a single country can pay in any year is limited to 22% of the Court's budget; Japan paid this amount in 2008.
 
 The Court spent €80.5 million in 2007.[165] The Assembly of States Parties approved a budget of €90.4 million for 2008,[166] €101.2 million for 2009,[167] and €141.6 million for 2017.[168] , the ICC's staff consisted of 800 persons from approximately 100 states.[169]
 
 
 Trial history to date
 
-Omar_al-Bashir,_12th_AU_Summit,_090131-N-0506A-347.jpg of Sudan over alleged war crimes in Darfur.[170]]] To date, the Prosecutor has
+of Sudan over alleged war crimes in Darfur.[170]]] To date, the Prosecutor has
 
 The Court's Pre-Trial Chambers have
 
@@ -413,7 +411,7 @@ Relationships
 
 United Nations
 
-Darfur_report_-_Page_2_Image_1.jpg referred the situation in Darfur to the ICC in 2005]] Unlike the International Court of Justice, the ICC is legally independent from the United Nations. However, the Rome Statute grants certain powers to the United Nations Security Council, which limits its functional independence. Article 13 allows the Security Council to refer to the Court situations that would not otherwise fall under the Court's jurisdiction (as it did in relation to the situations in Darfur and Libya, which the Court could not otherwise have prosecuted as neither Sudan nor Libya are state parties). Article 16 allows the Security Council to require the Court to defer from investigating a case for a period of 12 months.[180] Such a deferral may be renewed indefinitely by the Security Council. This sort of an arrangement gives the ICC some of the advantages inhering in the organs of the United Nations such as using the enforcement powers of the Security Council, but it also creates a risk of being tainted with the political controversies of the Security Council.[181]
+referred the situation in Darfur to the ICC in 2005]] Unlike the International Court of Justice, the ICC is legally independent from the United Nations. However, the Rome Statute grants certain powers to the United Nations Security Council, which limits its functional independence. Article 13 allows the Security Council to refer to the Court situations that would not otherwise fall under the Court's jurisdiction (as it did in relation to the situations in Darfur and Libya, which the Court could not otherwise have prosecuted as neither Sudan nor Libya are state parties). Article 16 allows the Security Council to require the Court to defer from investigating a case for a period of 12 months.[180] Such a deferral may be renewed indefinitely by the Security Council. This sort of an arrangement gives the ICC some of the advantages inhering in the organs of the United Nations such as using the enforcement powers of the Security Council, but it also creates a risk of being tainted with the political controversies of the Security Council.[181]
 
 The Court cooperates with the UN in many different areas, including the exchange of information and logistical support.[182] The Court reports to the UN each year on its activities,[183][184] and some meetings of the Assembly of States Parties are held at UN facilities. The relationship between the Court and the UN is governed by a "Relationship Agreement between the International Criminal Court and the United Nations".[185][186]
 

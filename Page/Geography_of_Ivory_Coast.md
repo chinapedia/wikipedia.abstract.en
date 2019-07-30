@@ -1,5 +1,3 @@
-Koppen-Geiger_Map_CIV_present.svg Ivory_Coast_Topography.png
-
 IVORY COAST (Côte d'Ivoire) is a sub-Saharan nation in southern West Africa located at 8 00°N, 5 00°W. The country is approximately square in shape. Its southern border is a coastline on the Gulf of Guinea on the north Atlantic Ocean. On the other three sides it borders five other African nations for a total of : Liberia to the southwest for , Guinea to the northwest for , Mali to the north-northwest for , Burkina Faso to the north-northeast for , and Ghana to the east for .
 
 Ivory Coast comprises , of which is land and is water, which makes the country about the size of Germany.

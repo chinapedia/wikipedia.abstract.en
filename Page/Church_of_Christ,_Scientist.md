@@ -5,7 +5,7 @@ In the early decades of the 20th century, Christian Science churches sprang up i
 
 History
 
-Detroit_Photographic_Company_(0402).jpg The church was incorporated by Mary Baker Eddy in 1879 following a claimed personal healing in 1866, which she said resulted from reading the Bible.[2] The Bible and Eddy's textbook on Christian healing, _Science and Health with Key to the Scriptures_, are together the church's key doctrinal sources and have been ordained as the church's "dual impersonal pastor".[3]
+The church was incorporated by Mary Baker Eddy in 1879 following a claimed personal healing in 1866, which she said resulted from reading the Bible.[2] The Bible and Eddy's textbook on Christian healing, _Science and Health with Key to the Scriptures_, are together the church's key doctrinal sources and have been ordained as the church's "dual impersonal pastor".[3]
 
 The First Church of Christ, Scientist, is widely known for its publications, especially _The Christian Science Monitor_, a weekly newspaper published internationally in print and online. The seal of Christian Science is a cross and crown with the words, "Heal the sick, raise the dead, cleanse the lepers, cast out demons," and is a registered trademark of the church.
 
@@ -19,7 +19,7 @@ Christian Scientists may take an intensive two-week "Primary" class from an auth
 
 Organization
 
-USA_09562_Boston_Luca_Galuzzi_2007.jpg and 111 Huntington Avenue are in the background.]] The First Church of Christ, Scientist is the legal title of the Mother Church and administrative headquarters of the Christian Science Church. The complex is located in a plaza alongside Huntington Avenue in the Back Bay neighborhood of Boston, Massachusetts.
+and 111 Huntington Avenue are in the background.]] The First Church of Christ, Scientist is the legal title of the Mother Church and administrative headquarters of the Christian Science Church. The complex is located in a plaza alongside Huntington Avenue in the Back Bay neighborhood of Boston, Massachusetts.
 
 The church itself was built in 1894, and an annex larger in footprint than the original structure was added in 1906. It boasts one of the world's largest pipe organs, built by the Aeolian-Skinner Company of Boston. The Mary Baker Eddy Library for the Betterment of Humanity is housed in an 11-story structure originally built for The Christian Science Publishing Society constructed between 1932 and 1934, and the present plaza was constructed in the late 1960s and early 1970s to include a 28 story administration building, a colonnade, and a reflecting pool with fountain, designed by Araldo Cossutta of I. M. Pei and Partners (now Pei Cobb Freed).
 
@@ -31,7 +31,7 @@ Branch Christian Science churches and Christian Science societies are subordinat
 
 Board of Directors
 
-Christian_Science_Mother_Church,_Boston,_Massachusetts.JPG is the Mother Church and of the Christian Science Church.]] The Christian Science Board of Directors is a five-person executive entity created by Mary Baker Eddy to conduct the business of the Christian Science Church under the terms defined in the by-laws of the _Church Manual_. Its functions and restrictions are defined by the _Manual._
+is the Mother Church and of the Christian Science Church.]] The Christian Science Board of Directors is a five-person executive entity created by Mary Baker Eddy to conduct the business of the Christian Science Church under the terms defined in the by-laws of the _Church Manual_. Its functions and restrictions are defined by the _Manual._
 
 The Board (occasionally CSBD or the BoD for short) also includes functions defined by a Deed of Trust written by Eddy (one of several, in fact) under which it consisted of four persons, though she later expanded the Board to five persons, thus in effect leaving one of its members out of Deed functions. This later bore on a dispute during the 1920s, known as the Great Litigation in CS circles, pivoting on whether the CSBD could remove trustees of the Christian Science Publishing Society or whether the CSPS trustees were established independently.
 

@@ -27,7 +27,7 @@ The varying perception of empiricism and rationalism shows concern with the limi
 
 Empirical cycle
 
-Empirical_Cycle.svg A.D. de Groot's empirical cycle:[3]
+A.D. de Groot's empirical cycle:[3]
 
 1.  Observation: The observation of a phenomenon and inquiry concerning its causes.
 2.  Induction: The formulation of hypotheses - generalized explanations for the phenomenon.

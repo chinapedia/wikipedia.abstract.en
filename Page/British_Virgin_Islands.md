@@ -24,7 +24,7 @@ The Spanish Empire claimed the islands by discovery in the early 16th century, b
 
 The Dutch established a permanent settlement on the island of Tortola by 1648,[20] frequently clashing with the Spanish who were based on nearby Puerto Rico. In 1672, the English captured Tortola from the Dutch, and the English annexation of Anegada and Virgin Gorda followed in 1680. Meanwhile, over the period 1672–1733, the Danish gained control of the nearby islands of Saint Thomas, Saint John and Saint Croix (i.e. the modern US Virgin Islands).
 
-St_Phillips_Church,_Tortola.jpg, one of the most important historical ruins in the territory.]] The British islands were considered principally a strategic possession. The British introduced sugar cane which was to become the main crop and source of foreign trade, and large numbers of slaves were forcibly brought from Africa to work on the sugar cane plantations.[21] The islands prospered economically until the middle of the nineteenth century, when a combination of the abolition of slavery in the British Empire in 1834, a series of disastrous hurricanes, and the growth in the sugar beet crop in Europe and the United States[22] significantly reduced sugar cane production and led to a period of economic decline.[23]
+, one of the most important historical ruins in the territory.]] The British islands were considered principally a strategic possession. The British introduced sugar cane which was to become the main crop and source of foreign trade, and large numbers of slaves were forcibly brought from Africa to work on the sugar cane plantations.[21] The islands prospered economically until the middle of the nineteenth century, when a combination of the abolition of slavery in the British Empire in 1834, a series of disastrous hurricanes, and the growth in the sugar beet crop in Europe and the United States[22] significantly reduced sugar cane production and led to a period of economic decline.[23]
 
 In 1917, the United States purchased the Danish Virgin Islands for US$25 million, renaming them the United States Virgin Islands. Economic linkages with the US islands prompted the British Virgin Islands to adopt the US dollar as its currency in 1959.[24]
 
@@ -34,8 +34,6 @@ In 2017 Hurricane Irma struck the islands, causing four deaths and immense damag
 
 
 Geography
-
-GB_Virgin_Islands.png
 
 The British Virgin Islands comprise around 60 tropical Caribbean islands, ranging in size from the largest, Tortola, being long and wide, to tiny uninhabited islets, altogether about in extent. They are located in the Virgin Islands archipelago, a few miles east of the US Virgin Islands, and about from the Puerto Rican mainland. About east south-east lies Anguilla. The North Atlantic Ocean lies to the east of the islands, and the Caribbean Sea lies to the west. Most of the islands are volcanic in origin and have a hilly, rugged terrain.[30] The highest point is Mount Sage on Tortola at 52m.[31][32] Anegada is geologically distinct from the rest of the group, being a flat island composed of limestone and coral.[33][34]
 
@@ -52,7 +50,7 @@ Hurricanes occasionally hit the islands, with the hurricane season running from 
 
 Hurricane Irma
 
-Main_Street_Road_Town_after_Hurricane_Irma.jpg The islands were struck by Hurricane Irma on 6 September 2017, causing extensive damage,[36] as well as four deaths.[37] A state of emergency was declared by the Caribbean Disaster Emergency Management Agency.[38][39] The most significant damage was on Tortola.[40] The UK's then-Foreign Secretary Boris Johnson visited Tortola on 13 September 2017 and said that he was reminded of photos of Hiroshima after it had been hit by the atom bomb.[41]
+The islands were struck by Hurricane Irma on 6 September 2017, causing extensive damage,[36] as well as four deaths.[37] A state of emergency was declared by the Caribbean Disaster Emergency Management Agency.[38][39] The most significant damage was on Tortola.[40] The UK's then-Foreign Secretary Boris Johnson visited Tortola on 13 September 2017 and said that he was reminded of photos of Hiroshima after it had been hit by the atom bomb.[41]
 
 By 8 September, the UK government sent troops with medical supplies and other aid.[42] More troops were expected to arrive a day or two later, but the ship HMS Ocean, carrying more extensive assistance, was not expected to reach the islands for another two weeks, however.[43]
 
@@ -61,7 +59,7 @@ Entrepreneur Richard Branson, a resident of Necker Island, called on the UK gove
 
 Politics
 
-Old_LegCo_Building,_Road_Town.jpg. The High Court sits upstairs.]] EU_OCT_and_OMR_map_en.png in the world with overseas countries and territories and outermost regions]] The territory operates as a parliamentary democracy.[51] Ultimate executive authority in the British Virgin Islands is vested in the Queen, and is exercised on her behalf by the Governor of the British Virgin Islands.[52] The governor is appointed by the Queen on the advice of the British government. Defence and most foreign affairs remain the responsibility of the United Kingdom.[53]
+. The High Court sits upstairs.]] in the world with overseas countries and territories and outermost regions]] The territory operates as a parliamentary democracy.[51] Ultimate executive authority in the British Virgin Islands is vested in the Queen, and is exercised on her behalf by the Governor of the British Virgin Islands.[52] The governor is appointed by the Queen on the advice of the British government. Defence and most foreign affairs remain the responsibility of the United Kingdom.[53]
 
 The most recent constitution was adopted in 2007 (the Virgin Islands Constitution Order, 2007)[54][55] and came into force when the Legislative Council was dissolved for the 2007 general election. The head of government under the constitution is the Premier (before the new constitution the office was referred to as Chief Minister), who is elected in a general election along with the other members of the ruling government as well as the members of the opposition. Elections are held roughly every four years. A cabinet is nominated by the Premier and appointed and chaired by the Governor. The Legislature consists of the Queen (represented by the Governor) and a unicameral House of Assembly made up of 13 elected members plus the Speaker and the Attorney General.[56][57]
 
@@ -86,7 +84,7 @@ As a British Overseas territory, defence of the islands is the responsibility of
 
 Economy
 
-Roadtown,_Tortola.jpg, Tortola, British Virgin Islands]]
+, Tortola, British Virgin Islands]]
 
 The twin pillars of the economy are tourism (roughly 40-45% of GDP) and financial services (60%).[68][69][70] Politically, tourism is the more important of the two, as it employs a greater number of people within the territory, and a larger proportion of the businesses in the tourist industry are locally owned, as are a number of the highly tourism-dependent sole traders (for example, taxi drivers and street vendors). Economically however, financial services associated with the territory's status as an offshore financial centre are by far the more important. 51.8% of the Government's revenue comes directly from licence fees for offshore companies, and considerable further sums are raised directly or indirectly from payroll taxes relating to salaries paid within the trust industry sector (which tend to be higher on average than those paid in the tourism sector).
 
@@ -98,7 +96,7 @@ Although it is common to hear criticism in the British Virgin Islands' press abo
 
 Tourism
 
-TheBaths_VirginGorda_BVI.jpg, Virgin Gorda]]
+, Virgin Gorda]]
 
 Tourism accounts for approximately 45% of national income.[77] The islands are a popular destination for US citizens.[78] Tourists frequent the numerous white sand beaches, visit The Baths on Virgin Gorda, snorkel the coral reefs near Anegada, or experience the well-known bars of Jost Van Dyke. The BVI are known as one of the world's greatest sailing destinations, and charter sailboats are a very popular way to visit less accessible islands. Every year since 1972 the BVI has hosted the Spring Regatta, which is a seven-day collection of sailing races throughout the islands. A substantial number of the tourists who visit the BVI are cruise ship passengers, and although they produce far lower revenue per head than charter boat tourists and hotel based tourists, they are nonetheless important to the substantial - and politically important - taxi driving community. Only Virgin Islanders are permitted to work as taxi drivers.
 
@@ -141,7 +139,7 @@ In recognition of the CARICOM (Free Movement) Skilled Persons Act which came int
 
 Transport
 
-Tortola-airport.jpg There are of roads. The main airport, Terrance B. Lettsome International Airport, also known as Beef Island Airport, is located on Beef Island, which lies off the eastern tip of Tortola and is accessible by the Queen Elizabeth II Bridge. Cape Air, LIAT and Air Sunshine are amongst the airlines offering scheduled service. Virgin Gorda and Anegada have their own smaller airports. Private air charter services operated by Island Birds Air Charter fly directly to all three islands from any major airport in the Caribbean. Helicopters are used to get to islands with no runway facilities; Antilles Helicopter Services is the only helicopter service based in the country.
+There are of roads. The main airport, Terrance B. Lettsome International Airport, also known as Beef Island Airport, is located on Beef Island, which lies off the eastern tip of Tortola and is accessible by the Queen Elizabeth II Bridge. Cape Air, LIAT and Air Sunshine are amongst the airlines offering scheduled service. Virgin Gorda and Anegada have their own smaller airports. Private air charter services operated by Island Birds Air Charter fly directly to all three islands from any major airport in the Caribbean. Helicopters are used to get to islands with no runway facilities; Antilles Helicopter Services is the only helicopter service based in the country.
 
 The main harbour is in Road Town. There are also ferries that operate within the British Virgin Islands and to the neighbouring United States Virgin Islands. As in the UK and in the United States Virgin Islands, cars in the British Virgin Islands drive on the left, however they differ in that nearly all cars are left hand drive,[101] being imported from the United States. The roads are often quite steep, narrow and winding, and ruts can be a problem when it rains.
 
@@ -171,8 +169,6 @@ The islands are heavily dependent upon migrant labour. In 2004, migrant workers 
 Unusually, the territory has one of the highest drowning mortality rates in the world, being higher than other high risk countries such as China and India.[107] 20% of deaths in the British Virgin Islands during 2012 were recorded as drownings,[108][109] all of them being tourists. Despite this, the territory's most popular beach still has no lifeguard presence.[110][111]
 
 Religion
-
-Jost_Van_Dyke_Methodist_Church_2010.jpg
 
 Over 90% of the population who indicated a religious affiliation at the 2010 Census were Christian[112] with the largest individual Christian denominations being Methodist (17.6%),[113] Anglican (12%), Church of God (11%) and Roman Catholic (9%).[114] The Constitution of the British Virgin Islands commences with a professed national belief in God.[115] Hindus and Muslims constitute each approximately 1.2% of the population according to Word Religion Database 2005.[116]
 

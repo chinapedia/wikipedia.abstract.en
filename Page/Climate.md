@@ -9,7 +9,7 @@ Paleoclimatology is the study of ancient climates. Since direct observations of 
 
 Definition
 
-WorldMap_cold_hot.svg WorldMap_cold_warm_hot.svg Climate (from Ancient Greek _klima_, meaning _inclination_) is commonly defined as the weather averaged over a long period.[6] The standard averaging period is 30 years,[7] but other periods may be used depending on the purpose. Climate also includes statistics other than the average, such as the magnitudes of day-to-day or year-to-year variations. The Intergovernmental Panel on Climate Change (IPCC) 2001 glossary definition is as follows:
+Climate (from Ancient Greek _klima_, meaning _inclination_) is commonly defined as the weather averaged over a long period.[6] The standard averaging period is 30 years,[7] but other periods may be used depending on the purpose. Climate also includes statistics other than the average, such as the magnitudes of day-to-day or year-to-year variations. The Intergovernmental Panel on Climate Change (IPCC) 2001 glossary definition is as follows:
 
 The World Meteorological Organization (WMO) describes climate "normals" as "reference points used by climatologists to compare current climatological trends to that of the past or what is considered 'normal'. A Normal is defined as the arithmetic average of a climate element (e.g. temperature) over a 30-year period. A 30 year period is used, as it is long enough to filter out any interannual variation or anomalies, but also short enough to be able to show longer climatic trends."[8] The WMO originated from the International Meteorological Organization which set up a technical commission for climatology in 1929. At its 1934 Wiesbaden meeting the technical commission designated the thirty-year period from 1901 to 1930 as the reference time frame for climatological standard normals. In 1982 the WMO agreed to update climate normals, and these were subsequently completed on the basis of climate data from 1 January 1961 to 31 December 1990.[9]
 
@@ -18,7 +18,7 @@ The difference between climate and weather is usefully summarized by the popular
 
 Climate classification
 
-World_koppen.svg There are several ways to classify climates into similar regimes. Originally, climes were defined in Ancient Greece to describe the weather depending upon a location's latitude. Modern climate classification methods can be broadly divided into _genetic_ methods, which focus on the causes of climate, and _empiric_ methods, which focus on the effects of climate. Examples of genetic classification include methods based on the relative frequency of different air mass types or locations within synoptic weather disturbances. Examples of empiric classifications include climate zones defined by plant hardiness,[14] evapotranspiration,[15] or more generally the Köppen climate classification which was originally designed to identify the climates associated with certain biomes. A common shortcoming of these classification schemes is that they produce distinct boundaries between the zones they define, rather than the gradual transition of climate properties more common in nature.
+There are several ways to classify climates into similar regimes. Originally, climes were defined in Ancient Greece to describe the weather depending upon a location's latitude. Modern climate classification methods can be broadly divided into _genetic_ methods, which focus on the causes of climate, and _empiric_ methods, which focus on the effects of climate. Examples of genetic classification include methods based on the relative frequency of different air mass types or locations within synoptic weather disturbances. Examples of empiric classifications include climate zones defined by plant hardiness,[14] evapotranspiration,[15] or more generally the Köppen climate classification which was originally designed to identify the climates associated with certain biomes. A common shortcoming of these classification schemes is that they produce distinct boundaries between the zones they define, rather than the gradual transition of climate properties more common in nature.
 
 Bergeron and Spatial Synoptic
 
@@ -28,15 +28,15 @@ Based upon the Bergeron classification scheme is the Spatial Synoptic Classifica
 
 Köppen
 
-MonthlyMeanT.gif BlueMarble_monthlies_animation.gif]
+]
 
 The Köppen classification depends on average monthly values of temperature and precipitation. The most commonly used form of the Köppen classification has five primary types labeled A through E. These primary types are A) tropical, B) dry, C) mild mid-latitude, D) cold mid-latitude, and E) polar. The five primary classifications can be further divided into secondary classifications such as rainforest, monsoon, tropical savanna, humid subtropical, humid continental, oceanic climate, Mediterranean climate, desert, steppe, subarctic climate, tundra, and polar ice cap.
 
 RAINFORESTS are characterized by high rainfall, with definitions setting minimum normal annual rainfall between and . Mean monthly temperatures exceed during all months of the year.[20]
 
-A MONSOON is a seasonal prevailing wind which lasts for several months, ushering in a region's rainy season.[21] Regions within North America, South America, Sub-Saharan Africa, Australia and East Asia are monsoon regimes.[22] Globalcldfr_amo_200207-201504_lrg.jpg A TROPICAL SAVANNA is a grassland biome located in semiarid to semi-humid climate regions of subtropical and tropical latitudes, with average temperatures remain at or above year round and rainfall between and a year. They are widespread on Africa, and are found in India, the northern parts of South America, Malaysia, and Australia.[23] 5_11_15_Brian_AquabyMonth.gif The HUMID SUBTROPICAL climate zone where winter rainfall (and sometimes snowfall) is associated with large storms that the westerlies steer from west to east. Most summer rainfall occurs during thunderstorms and from occasional tropical cyclones.[24] Humid subtropical climates lie on the east side of continents, roughly between latitudes 20° and 40° degrees away from the equator.[25]
+A MONSOON is a seasonal prevailing wind which lasts for several months, ushering in a region's rainy season.[21] Regions within North America, South America, Sub-Saharan Africa, Australia and East Asia are monsoon regimes.[22] A TROPICAL SAVANNA is a grassland biome located in semiarid to semi-humid climate regions of subtropical and tropical latitudes, with average temperatures remain at or above year round and rainfall between and a year. They are widespread on Africa, and are found in India, the northern parts of South America, Malaysia, and Australia.[23] The HUMID SUBTROPICAL climate zone where winter rainfall (and sometimes snowfall) is associated with large storms that the westerlies steer from west to east. Most summer rainfall occurs during thunderstorms and from occasional tropical cyclones.[24] Humid subtropical climates lie on the east side of continents, roughly between latitudes 20° and 40° degrees away from the equator.[25]
 
-Koppen_World_Map_Dfa_Dwa_Dsa_Dfb_Dwb_Dsb.png, worldwide
+, worldwide
 
 ]] A HUMID CONTINENTAL climate is marked by variable weather patterns and a large seasonal temperature variance. Places with more than three months of average daily temperatures above and a coldest month temperature below and which do not meet the criteria for an arid or semiarid climate, are classified as continental.[26]
 
@@ -48,7 +48,7 @@ A STEPPE is a dry grassland with an annual temperature range in the summer of up
 
 A SUBARCTIC CLIMATE has little precipitation,[30] and monthly temperatures which are above for one to three months of the year, with permafrost in large parts of the area due to the cold winters. Winters within subarctic climates usually include up to six months of temperatures averaging below .[31]
 
-800px-Map-Tundra.png TUNDRA occurs in the far Northern Hemisphere, north of the taiga belt, including vast areas of northern Russia and Canada.[32]
+TUNDRA occurs in the far Northern Hemisphere, north of the taiga belt, including vast areas of northern Russia and Canada.[32]
 
 A POLAR ICE CAP, or polar ice sheet, is a high-latitude region of a planet or moon that is covered in ice. Ice caps form because high-latitude regions receive less energy as solar radiation from the sun than equatorial regions, resulting in lower surface temperatures.[33]
 
@@ -56,7 +56,7 @@ A DESERT is a landscape form or region that receives very little precipitation. 
 
 Thornthwaite
 
-MeanMonthlyP.gif Devised by the American climatologist and geographer C. W. Thornthwaite, this climate classification method monitors the soil water budget using evapotranspiration.[35] It monitors the portion of total precipitation used to nourish vegetation over a certain area.[36] It uses indices such as a humidity index and an aridity index to determine an area's moisture regime based upon its average temperature, average rainfall, and average vegetation type.[37] The lower the value of the index in any given area, the drier the area is.
+Devised by the American climatologist and geographer C. W. Thornthwaite, this climate classification method monitors the soil water budget using evapotranspiration.[35] It monitors the portion of total precipitation used to nourish vegetation over a certain area.[36] It uses indices such as a humidity index and an aridity index to determine an area's moisture regime based upon its average temperature, average rainfall, and average vegetation type.[37] The lower the value of the index in any given area, the drier the area is.
 
 The moisture classification includes climatic classes with descriptors such as hyperhumid, humid, subhumid, subarid, semi-arid (values of −20 to −40), and arid (values below −40).[38] Humid regions experience more precipitation than evaporation each year, while arid regions experience greater evaporation than precipitation on an annual basis. A total of 33 percent of the Earth's landmass is considered either arid or semi-arid, including southwest North America, southwest South America, most of northern and a small part of southern Africa, southwest and portions of eastern Asia, as well as much of Australia.[39] Studies suggest that precipitation effectiveness (PE) within the Thornthwaite moisture index is overestimated in the summer and underestimated in the winter.[40] This index can be effectively used to determine the number of herbivore and mammal species numbers within a given area.[41] The index is also used in studies of climate change.[42]
 
@@ -67,7 +67,7 @@ Record
 
 Modern
 
-Global_Temperature_Anomaly.svg Details of the modern climate record are known through the taking of measurements from such weather instruments as thermometers, barometers, and anemometers during the past few centuries. The instruments used to study weather over the modern time scale, their known error, their immediate environment, and their exposure have changed over the years, which must be considered when studying the climate of centuries past.[46]
+Details of the modern climate record are known through the taking of measurements from such weather instruments as thermometers, barometers, and anemometers during the past few centuries. The instruments used to study weather over the modern time scale, their known error, their immediate environment, and their exposure have changed over the years, which must be considered when studying the climate of centuries past.[46]
 
 Paleoclimatology
 
@@ -76,9 +76,9 @@ Paleoclimatology is the study of past climate over a great period of the Earth's
 
 Climate change
 
-Vostok_Petit_data.svg ice core over the past 450,000 years]]
+ice core over the past 450,000 years]]
 
-Climate change is the variation in global or regional climates over time. It reflects changes in the variability or average state of the atmosphere over time scales ranging from decades to millions of years. These changes can be caused by processes internal to the Earth, external forces (e.g. variations in sunlight intensity) or, more recently, human activities.[48][49] 16-008-NASA-2015RecordWarmGlobalYearSince1880-20160120.png on Record (since 1880) – Colors indicate temperature anomalies (NASA/NOAA; 20 January 2016).[50]
+Climate change is the variation in global or regional climates over time. It reflects changes in the variability or average state of the atmosphere over time scales ranging from decades to millions of years. These changes can be caused by processes internal to the Earth, external forces (e.g. variations in sunlight intensity) or, more recently, human activities.[48][49] on Record (since 1880) – Colors indicate temperature anomalies (NASA/NOAA; 20 January 2016).[50]
 
 ]] In recent usage, especially in the context of environmental policy, the term "climate change" often refers only to changes in modern climate, including the rise in average surface temperature known as global warming. In some cases, the term is also used with a presumption of human causation, as in the United Nations Framework Convention on Climate Change (UNFCCC). The UNFCCC uses "climate variability" for non-human caused variations.[51]
 

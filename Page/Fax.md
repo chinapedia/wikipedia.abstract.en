@@ -1,4 +1,4 @@
-Samfax.jpg FAX (short for FACSIMILE), sometimes called TELECOPYING or TELEFAX (the latter short for TELEFACSIMILE), is the telephonic transmission of scanned printed material (both text and images), normally to a telephone number connected to a printer or other output device. The original document is scanned with a FAX MACHINE (or a TELECOPIER), which processes the contents (text or images) as a single fixed graphic image, converting it into a bitmap, and then transmitting it through the telephone system in the form of audio-frequency tones. The receiving fax machine interprets the tones and reconstructs the image, printing a paper copy.[1] Early systems used direct conversions of image darkness to audio tone in a continuous or analog manner. Since the 1980s, most machines modulate the transmitted audio frequencies using a digital representation of the page which is compressed to quickly transmit areas which are all-white or all-black.
+FAX (short for FACSIMILE), sometimes called TELECOPYING or TELEFAX (the latter short for TELEFACSIMILE), is the telephonic transmission of scanned printed material (both text and images), normally to a telephone number connected to a printer or other output device. The original document is scanned with a FAX MACHINE (or a TELECOPIER), which processes the contents (text or images) as a single fixed graphic image, converting it into a bitmap, and then transmitting it through the telephone system in the form of audio-frequency tones. The receiving fax machine interprets the tones and reconstructs the image, printing a paper copy.[1] Early systems used direct conversions of image darkness to audio tone in a continuous or analog manner. Since the 1980s, most machines modulate the transmitted audio frequencies using a digital representation of the page which is compressed to quickly transmit areas which are all-white or all-black.
 
 
 History
@@ -19,7 +19,7 @@ The Western Union "Deskfax" fax machine, announced in 1948, was a compact machin
 
 Wireless transmission
 
-Krant_per_fax_-_Faxed_newspaper_(4193509648).jpg As a designer for the Radio Corporation of America (RCA), in 1924, Richard H. Ranger invented the wireless photoradiogram, or transoceanic radio facsimile, the forerunner of today’s "fax" machines. A photograph of President Calvin Coolidge sent from New York to London on November 29, 1924, became the first photo picture reproduced by transoceanic radio facsimile. Commercial use of Ranger’s product began two years later. Also in 1924, Herbert E. Ives of AT&T transmitted and reconstructed the first color facsimile, a natural-color photograph of silent film star Rudolph Valentino in period costume, using red, green and blue color separations.[8]
+As a designer for the Radio Corporation of America (RCA), in 1924, Richard H. Ranger invented the wireless photoradiogram, or transoceanic radio facsimile, the forerunner of today’s "fax" machines. A photograph of President Calvin Coolidge sent from New York to London on November 29, 1924, became the first photo picture reproduced by transoceanic radio facsimile. Commercial use of Ranger’s product began two years later. Also in 1924, Herbert E. Ives of AT&T transmitted and reconstructed the first color facsimile, a natural-color photograph of silent film star Rudolph Valentino in period costume, using red, green and blue color separations.[8]
 
 Beginning in the late 1930s, the Finch Facsimile system was used to transmit a "radio newspaper" to private homes via commercial AM radio stations and ordinary radio receivers equipped with Finch's printer, which used thermal paper. Sensing a new and potentially golden opportunity, competitors soon entered the field, but the printer and special paper were expensive luxuries, AM radio transmission was very slow and vulnerable to static, and the newspaper was too small. After more than ten years of repeated attempts by Finch and others to establish such a service as a viable business, the public, apparently quite content with its cheaper and much more substantial home-delivered daily newspapers, and with conventional spoken radio bulletins to provide any "hot" news, still showed only a passing curiosity about the new medium.[9]
 
@@ -70,7 +70,7 @@ Group 1 and 2 faxes are sent in the same manner as a frame of analog television,
 
 Digital
 
-Dacom_DFC-10.jpg Faxchip.jpgs. The read-out circuit is at left.]] MN8051_Matsushita_CCD_side+_cm.jpg A major breakthrough in the development of the modern facsimile system was the result of digital technology, where the analog signal from scanners was digitized and then compressed, resulting in the ability to transmit high rates of data across standard phone lines. The first digital fax machine was the Dacom Rapidfax first sold in late 1960s, which incorporated digital data compression technology developed by Lockheed for transmission of images from satellites.[24][25]
+s. The read-out circuit is at left.]] A major breakthrough in the development of the modern facsimile system was the result of digital technology, where the analog signal from scanners was digitized and then compressed, resulting in the ability to transmit high rates of data across standard phone lines. The first digital fax machine was the Dacom Rapidfax first sold in late 1960s, which incorporated digital data compression technology developed by Lockheed for transmission of images from satellites.[24][25]
 
 Group 3 and 4 faxes are digital formats, and take advantage of digital compression methods to greatly reduce transmission times.
 
@@ -170,7 +170,7 @@ Stroke speed in facsimile systems is the rate at which a fixed line perpendicula
 
 Fax paper
 
-ThermalPaperG3-TMG.JPG roll for direct thermal fax machine]] As a precaution, thermal fax paper is typically not accepted in archives or as documentary evidence in some courts of law unless photocopied. This is because the image-forming coating is eradicable and brittle, and it tends to detach from the medium after a long time in storage.[44]
+roll for direct thermal fax machine]] As a precaution, thermal fax paper is typically not accepted in archives or as documentary evidence in some courts of law unless photocopied. This is because the image-forming coating is eradicable and brittle, and it tends to detach from the medium after a long time in storage.[44]
 
 
 Internet fax

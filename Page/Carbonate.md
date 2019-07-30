@@ -11,15 +11,9 @@ The carbonate ion is the simplest oxocarbon anion. It consists of one carbon ato
 
 The Lewis structure of the carbonate ion has two (long) single bonds to negative oxygen atoms, and one short double bond to a neutral oxygen.
 
-Carbonate-ion-localised-2D.png
-
 This structure is incompatible with the observed symmetry of the ion, which implies that the three bonds are equally long and that the three oxygen atoms are equivalent. As in the case of the isoelectronic nitrate ion, the symmetry can be achieved by a resonance among three structures:
 
-Carbonate-ion-resonance-2D.png
-
 This resonance can be summarized by a model with fractional bonds and delocalized charges:
-
-Carbonate-ion-delocalised-partial-charges-2D.png Carbonate-3D-vdW.png
 
 
 Chemical properties

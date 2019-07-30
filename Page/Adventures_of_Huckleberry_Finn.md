@@ -25,7 +25,7 @@ In order of appearance:
 
 Plot summary
 
-Huckleberry-finn-with-rabbit.jpg in the original 1884 edition of the book]]
+in the original 1884 edition of the book]]
 
 In Missouri
 
@@ -82,7 +82,7 @@ As Kemble could afford only one model, most of his illustrations produced for th
 
 Publication's effect on literary climate
 
-Mark_twain2.JPG]]
+]]
 
 Twain initially conceived of the work as a sequel to _The Adventures of Tom Sawyer_ that would follow Huckleberry Finn through adulthood. Beginning with a few pages he had removed from the earlier novel, Twain began work on a manuscript he originally titled _Huckleberry Finn's Autobiography._ Twain worked on the manuscript off and on for the next several years, ultimately abandoning his original plan of following Huck's development into adulthood. He appeared to have lost interest in the manuscript while it was in progress, and set it aside for several years. After making a trip down the Hudson River, Twain returned to his work on the novel. Upon completion, the novel's title closely paralleled its predecessor's: _Adventures of Huckleberry Finn (Tom Sawyer's Comrade)_.[14]
 
@@ -99,7 +99,7 @@ In relation to the literary climate at the time of the book's publication in 188
 
 Critical reception and banning
 
-Jim_and_ghost_huck_finn.jpg, Jim has given Huck up for dead and when he reappears thinks he must be a ghost.]]
+, Jim has given Huck up for dead and when he reappears thinks he must be a ghost.]]
 
 While it was clear that the publication of _Adventures of Huckleberry Finn_ was controversial from the outset, Norman Mailer, writing in _The New York Times_ in 1984, concluded that Twain's novel was not initially "too unpleasantly regarded." In fact, Mailer writes: "the critical climate could hardly anticipate T. S. Eliot and Ernest Hemingway's encomiums 50 years later," reviews that would remain longstanding in the American consciousness.[24]
 

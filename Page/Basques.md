@@ -5,7 +5,7 @@ The BASQUES ( or ; ; ; ) are an indigenous ethnic group[1][2][3] characterised b
 
 Etymology of the word _Basque_
 
-Barscunes_transparent.png The English word _Basque_ may be pronounced or and derives from the French _Basque_ (), which is derived from Gascon _Basco_ (pronounced ), cognate with Spanish ''Vasco ''(pronounced ). These, in turn, come from Latin _Vasco_ (pronounced ), plural _Vascones_ (see History section below). The Latin labial-velar approximant /w/ generally evolved into the bilabials /b/ and /β̞/ in Gascon and Spanish, probably under the influence of Basque and Aquitanian, a language related to old Basque and spoken in Gascony in Antiquity (similarly the Latin /w/ evolved into /v/ in French, Italian and other languages).
+The English word _Basque_ may be pronounced or and derives from the French _Basque_ (), which is derived from Gascon _Basco_ (pronounced ), cognate with Spanish ''Vasco ''(pronounced ). These, in turn, come from Latin _Vasco_ (pronounced ), plural _Vascones_ (see History section below). The Latin labial-velar approximant /w/ generally evolved into the bilabials /b/ and /β̞/ in Gascon and Spanish, probably under the influence of Basque and Aquitanian, a language related to old Basque and spoken in Gascony in Antiquity (similarly the Latin /w/ evolved into /v/ in French, Italian and other languages).
 
 Several coins from the 2nd and 1st centuries BC found in the Basque Country bear the inscription _barscunes_. The place where they were minted is not certain, but is thought to be somewhere near Pamplona, in the heartland of the area that historians believe was inhabited by the _Vascones_. Some scholars have suggested a Celtic etymology based on _bhar-s-_, meaning "summit", "point" or "leaves", according to which _barscunes_ may have meant "the mountain people", "the tall ones" or "the proud ones", while others have posited a relationship to a proto-Indo-European root _*bar-_ meaning "border", "frontier", "march".[5]
 
@@ -16,7 +16,7 @@ In the 19th century, the Basque nationalist activist Sabino Arana posited an ori
 
 History
 
-Bayonne_-_Arrivée_des_marchandes_de_sardines_-_Fonds_Ancely_-_(cropped).jpg]] Pamplona_-_Monumento_a_los_Fueros_12.JPG in Pamplona (1903)]] Ulgor.jpg (1956)]]
+]] in Pamplona (1903)]] (1956)]]
 
 Since the Basque language is unrelated to Indo-European, it has long been thought to represent the people or culture that occupied Europe before the spread of Indo-European languages there. A comprehensive analysis of Basque genetic patterns has shown that Basque genetic uniqueness predates the arrival of agriculture in the Iberian Peninsula, about 7,000 years ago.[6] It is thought that Basques are a remnant of the early inhabitants of Western Europe, specifically those of the Franco-Cantabrian region. Basque tribes were mentioned in Roman times by Strabo and Pliny, including the Vascones, the Aquitani, and others. There is enough evidence to support the hypothesis that at that time and later they spoke old varieties of the Basque language (see: Aquitanian language).
 
@@ -31,7 +31,7 @@ Geography
 
 Political and administrative divisions
 
-Ekialderantz_Urkulutik.JPG Leitza.JPG, in Navarre, Basque Country]] The Basque region is divided into at least three administrative units, namely the Basque Autonomous Community and Navarre in Spain, and the arrondissement of Bayonne and the cantons of Mauléon-Licharre and Tardets-Sorholus in the _département_ of Pyrénées Atlantiques, France.
+, in Navarre, Basque Country]] The Basque region is divided into at least three administrative units, namely the Basque Autonomous Community and Navarre in Spain, and the arrondissement of Bayonne and the cantons of Mauléon-Licharre and Tardets-Sorholus in the _département_ of Pyrénées Atlantiques, France.
 
 The autonomous community (a concept established in the Spanish Constitution of 1978) known as _Euskal Autonomia Erkidegoa_ or EAE in Basque and as _Comunidad Autónoma Vasca_ or CAV in Spanish (in English: _Basque Autonomous Community_ or BAC),[10] is made up of the three Spanish provinces of Álava, Biscay and Gipuzkoa. The corresponding Basque names of these territories are _Araba_, _Bizkaia_ and _Gipuzkoa_, and their Spanish names are _Álava_, _Vizcaya_ and _Guipúzcoa_.
 
@@ -43,7 +43,7 @@ There are three other historic provinces parts of the Basque Country: Labourd, L
 
 Population, main cities and languages
 
-Olentzero,_Beasain.jpg in Gipuzkoa, Basque Country]] There are 2,123,000 people living in the Basque Autonomous Community (279,000 in Alava, 1,160,000 in Biscay and 684,000 in Gipuzkoa). The most important cities in this region, which serve as the provinces' administrative centers, are Bilbao (in Biscay), San Sebastián (in Gipuzkoa) and Vitoria-Gasteiz (in Álava). The official languages are Basque and Spanish. Knowledge of Spanish is compulsory under the Spanish constitution (article no. 3), and knowledge and usage of Basque is a right under the Statute of Autonomy (article no. 6), so only knowledge of Spanish is virtually universal. Knowledge of Basque, after declining for many years during Franco's dictatorship owing to official persecution, is again on the rise due to favorable official language policies and popular support. Currently about 33 percent of the population in the Basque Autonomous Community speaks Basque.
+in Gipuzkoa, Basque Country]] There are 2,123,000 people living in the Basque Autonomous Community (279,000 in Alava, 1,160,000 in Biscay and 684,000 in Gipuzkoa). The most important cities in this region, which serve as the provinces' administrative centers, are Bilbao (in Biscay), San Sebastián (in Gipuzkoa) and Vitoria-Gasteiz (in Álava). The official languages are Basque and Spanish. Knowledge of Spanish is compulsory under the Spanish constitution (article no. 3), and knowledge and usage of Basque is a right under the Statute of Autonomy (article no. 6), so only knowledge of Spanish is virtually universal. Knowledge of Basque, after declining for many years during Franco's dictatorship owing to official persecution, is again on the rise due to favorable official language policies and popular support. Currently about 33 percent of the population in the Basque Autonomous Community speaks Basque.
 
 Navarre has a population of 601,000; its administrative capital and main city, also regarded by many nationalist Basques as the Basques' historical capital, is Pamplona (_Iruñea_ in modern Basque). Only Spanish is an official language of Navarre, and the Basque language is only co-official in the province's northern region, where most Basque-speaking Navarrese are concentrated.
 
@@ -52,7 +52,7 @@ About a quarter of a million people live in the French Basque Country. Nowadays 
 
 Basque diaspora
 
-Basque_festival_in_Buenos_Aires_August_2011.jpg, Argentina]] Winnemucca_Basque_Festival.jpg]] Large numbers of Basques have left the Basque Country to settle in the rest of Spain, France or other parts of the world in different historical periods, often for economic or political reasons. Historically the Basques abroad were often employed in shepherding and ranching and by maritime fisheries and merchants. Millions of Basque descendants (see Basque American and Basque Canadian) live in North America (the United States; Canada, mainly in the provinces of New Brunswick and Quebec), Latin America (in all 23 countries), South Africa, and Australia.
+, Argentina]] ]] Large numbers of Basques have left the Basque Country to settle in the rest of Spain, France or other parts of the world in different historical periods, often for economic or political reasons. Historically the Basques abroad were often employed in shepherding and ranching and by maritime fisheries and merchants. Millions of Basque descendants (see Basque American and Basque Canadian) live in North America (the United States; Canada, mainly in the provinces of New Brunswick and Quebec), Latin America (in all 23 countries), South Africa, and Australia.
 
 Miguel de Unamuno said: "There are at least two things that clearly can be attributed to Basques: the Society of Jesus and the Republic of Chile."[11] Chilean historian Luis Thayer Ojeda estimated that 48 percent of immigrants to Chile in the 17th and 18th centuries were Basque.[12] Estimates range between 2.5 - 5 million Basque descendants live in Chile; the Basque have been a major if not the strongest influence in the country's cultural and economic development.
 
@@ -73,8 +73,6 @@ Basques of European Spanish-French and Latin American nationalities also settled
 
 Culture
 
-Lingue_vasconum_primitiae.gif Classification of population according to cultural identity
-
 Language
 
 The identifying language of the Basques is called Basque or _Euskara_, spoken today by 25%-30%[19] of the region's population. An idea of the central place of the cultural terms in Basque nationalist politicians is given by the fact that, in Basque, Basques identify themselves by the term _euskaldun_ and their country as _Euskal Herria_, literally "Basque speaker" and "Country of the Basque Language" respectively. The language has been made a political issue by official Spanish and French policies restricting its use either historically or currently; however, this has not stopped the teaching, speaking, writing, and cultivating of this increasingly vibrant minority language. This sense of Basque identity tied to the local language does not only exist in isolation. For many Basques, it is juxtaposed with a sense of either Spanish or French identity tied with the use of the Spanish and French languages among other Basques, especially in the French Basque Country. Regarding the Spanish Basque Country, Basques that don't have a sense of Spanish identity make up an important part of the population.[20] As with many European states, a regional identity, be it linguistically derived or otherwise, is not mutually exclusive with the broader national one. For example, Basque rugby union player for France, Imanol Harinordoquy, has said about his national identity:
@@ -89,7 +87,7 @@ However, popular stereotypes characterizing Basque as "the oldest language in Eu
 
 Land and inheritance
 
-ArangurenDorretxea.jpg, converted from a fortified tower]] BaserriLizarralde.jpg)]] Basques have a close attachment to their home (_etxe(a)_ 'house, home'), especially when this consists of the traditional self-sufficient, family-run farm or _baserri(a)_. Home in this context is synonymous with family roots. Some Basque surnames were adapted from old _baserri_ or habitation names. They typically related to a geographical orientation or other locally meaningful identifying features. Such surnames provide even those Basques whose families may have left the land generations ago with an important link to their rural family origins: _Bengoetxea_ "the house of further down", _Goikoetxea_ "the house above", _Landaburu_ "top of the field", _Errekondo_ "next to the stream", _Elizalde_ "by the church", _Mendizabal_ "wide hill", _Usetxe_ "house of birds" _Ibarretxe_ "house in the valley", _Etxeberria_ "the new house", and so on.[25]
+, converted from a fortified tower]] )]] Basques have a close attachment to their home (_etxe(a)_ 'house, home'), especially when this consists of the traditional self-sufficient, family-run farm or _baserri(a)_. Home in this context is synonymous with family roots. Some Basque surnames were adapted from old _baserri_ or habitation names. They typically related to a geographical orientation or other locally meaningful identifying features. Such surnames provide even those Basques whose families may have left the land generations ago with an important link to their rural family origins: _Bengoetxea_ "the house of further down", _Goikoetxea_ "the house above", _Landaburu_ "top of the field", _Errekondo_ "next to the stream", _Elizalde_ "by the church", _Mendizabal_ "wide hill", _Usetxe_ "house of birds" _Ibarretxe_ "house in the valley", _Etxeberria_ "the new house", and so on.[25]
 
 In contrast to surrounding regions, ancient Basque inheritance patterns, recognised in the _fueros,_ favoured survival of the unity of inherited land holdings. In a kind of primogeniture, these usually were inherited by either the eldest male or female. As in other cultures, the fate of other family members depended on the assets of a family: wealthy Basque families tended to provide for all children in some way, while less-affluent may have had only one asset to provide to one child. However, this heir often provided for the rest of the family (unlike in England, with strict primogeniture, where the eldest son inherited everything and often did not provide for others). Even though they were provided for in some way, younger siblings had to make much of their living by other means. Before the advent of industrialisation, this system resulted in the emigration of many rural Basques to Spain, France or the Americas. Harsh by modern standards, this custom resulted in a great many enterprising figures of Basque origin who went into the world to earn their way, from Spanish conquistadors such as Lope de Aguirre and Francisco Vásquez de Coronado, to explorers, missionaries and saints of the Catholic Church, such as Francis Xavier.
 
@@ -101,11 +99,9 @@ Basque cuisine is at the heart of Basque culture, influenced by the neighboring 
 
 Cultural production
 
-Artzaiak_inudeak_2009_001.jpg, Basque Country.]] At the end of the 20th century, despite ETA violence (ended in 2010) and the crisis of heavy industries, the Basque economic condition recovered remarkably. They emerged from the Franco regime with a revitalized language and culture. The Basque language expanded geographically led by large increases in the major urban centers of Pamplona, Bilbao, and Bayonne, where only a few decades ago the Basque language had all but disappeared. Nowadays, the number of Basque speakers is maintaining its level or increasing slightly.
+, Basque Country.]] At the end of the 20th century, despite ETA violence (ended in 2010) and the crisis of heavy industries, the Basque economic condition recovered remarkably. They emerged from the Franco regime with a revitalized language and culture. The Basque language expanded geographically led by large increases in the major urban centers of Pamplona, Bilbao, and Bayonne, where only a few decades ago the Basque language had all but disappeared. Nowadays, the number of Basque speakers is maintaining its level or increasing slightly.
 
 Music
-
-Basque_dance.JPG
 
 Religion
 
@@ -119,7 +115,7 @@ Nowadays, according to one single opinion poll, only slightly more than 50% of B
 
 Pre-Christian religion and mythology
 
-Amboto_01.jpg mountain is one of sites where Mari was believed to dwell]] Dolmen_de_Sorginetxe.jpg]]
+mountain is one of sites where Mari was believed to dwell]] ]]
 
 Christianisation of the Basque Country has been the topic of some discussion. There are broadly speaking two views. According to one, Christianity arrived in the Basque Country during the 4th and 5th centuries but according to the other, it did not take place until the 12th and 13th centuries. The main issue lies in the different interpretations of what is considered Christianisation. Early traces of Christianity can be found in the major urban areas from the 4th century onwards, a bishopric from 589 in Pamplona and three hermit cave concentrations (two in Álava, one in Navarre) were in use from the 6th century onwards. In this sense, Christianity arrived "early".
 
@@ -129,7 +125,7 @@ Mari's consort is Sugaar. This chthonic couple seem to bear the superior ethical
 
 Legends also speak of many and abundant genies, like _jentilak_ (equivalent to giants), _lamiak_ (equivalent to nymphs), _mairuak_ (builders of the cromlechs or stone circles, literally Moors), _iratxoak_ (imps), _sorginak_ (witches, priestess of Mari), and so on. Basajaun is a Basque version of the Woodwose. This character is probably an anthropomorphism of the bear. There is a trickster named _San Martin Txiki_ ("St Martin the Lesser").
 
-It has been shown that some of these stories have entered Basque culture in recent centuries or as part of Roman _superstition_. It is unclear whether neolithic stone structures called dolmens have a religious significance or were built to house animals or resting shepherds. Some of the dolmens and cromlechs are burial sites serving as well as border markers. Ioaldunak_001.jpg The _jentilak_ ('Giants'), on the other hand, are a legendary people which explains the disappearance of a people of Stone Age culture that used to live in the high lands and with no knowledge of the iron. Many legends about them tell that they were bigger and taller, with a great force, but were displaced by the _ferrons_, or workers of ironworks foundries, until their total fade-out. They were pagans, but one of them, Olentzero, accepted Christianity and became a sort of Basque Santa Claus. They gave name to several toponyms, as _Jentilbaratza_. Weiditz_Trachtenbuch_125-126.jpg's intervention in the Basque Country (1609-1612)]]
+It has been shown that some of these stories have entered Basque culture in recent centuries or as part of Roman _superstition_. It is unclear whether neolithic stone structures called dolmens have a religious significance or were built to house animals or resting shepherds. Some of the dolmens and cromlechs are burial sites serving as well as border markers. The _jentilak_ ('Giants'), on the other hand, are a legendary people which explains the disappearance of a people of Stone Age culture that used to live in the high lands and with no knowledge of the iron. Many legends about them tell that they were bigger and taller, with a great force, but were displaced by the _ferrons_, or workers of ironworks foundries, until their total fade-out. They were pagans, but one of them, Olentzero, accepted Christianity and became a sort of Basque Santa Claus. They gave name to several toponyms, as _Jentilbaratza_. 's intervention in the Basque Country (1609-1612)]]
 
 Society
 
@@ -146,7 +142,7 @@ Although the kingdom of Navarre did adopt feudalism, most Basques also possessed
 
 Sports in the Basque Country
 
-LuxioApustua.jpg]]
+]]
 
 Pelota
 
@@ -154,7 +150,7 @@ The great family of ball games has its unique offspring among Basque ball games,
 
 Rural sports
 
-Remo-ria-de-bilbao.jpg]] 20060122_barrenak_gora.jpg.]]
+]] .]]
 
 There are several sports derived by Basques from everyday chores. Heavy workers were challenged and bets placed upon them. Examples are:
 
@@ -194,7 +190,7 @@ Each April the week-long Tour of the Basque Country showcases the beautiful roll
 
 Politics
 
-Giza_katea,_Urbia.JPG]] Gure_Esku_Dago_manifestazioa_"Demokrazia"_-_Bilbo_2017-19-16_-_9.jpg in solidarity with Catalan independence referendum, September 2017]] While there is no independent Basque state, Spain's autonomous community of the Basque Country, made up of the provinces of Álava (Araba), Biscay (Bizkaia) and Gipuzkoa, is primarily a historical consequence and an answer to the wide autonomy claim of its population.
+]] in solidarity with Catalan independence referendum, September 2017]] While there is no independent Basque state, Spain's autonomous community of the Basque Country, made up of the provinces of Álava (Araba), Biscay (Bizkaia) and Gipuzkoa, is primarily a historical consequence and an answer to the wide autonomy claim of its population.
 
 Navarre has a separate statute of autonomy, a contentious arrangement designed during Spanish transition to democracy (the _Amejoramiento_, an 'upgrade' of its previous status during dictatorship). It refers back to the kingdom status of Navarre (up to 1841) and their traditional institutional and legal framework (charters). Basque, the original and main language of Navarre up to the late 18th century, has kept family transmission especially in the northern part of Navarre and central areas to a lesser extent, designated as Basque speaking or mixed area in Navarrese law. Questions of political, linguistic and cultural allegiance and identity are highly complex in Navarre. Politically some Basque nationalists would like to integrate with the Basque Autonomous Community.
 
@@ -215,7 +211,7 @@ Basque is also spoken by immigrants in the major cities of Spain and France, in 
 
 Political status and violence
 
-Muralbelfast2.jpg showing solidarity with Basque nationalism.]]
+showing solidarity with Basque nationalism.]]
 
 Since its articulation by Sabino Arana in the late 19th century, the more radical currents of Basque nationalism have demanded the right of self-determination and even independence. Within the Basque country, this element of Basque politics is often in balance with the conception of the Basque Country as just another part of the Spanish state, a view more commonly espoused on the right of the political spectrum. In contrast, the desire for greater autonomy or independence is particularly common among leftist Basque nationalists. The right of self-determination was asserted by the Basque Parliament in 2002 and 2006.[36] Since self-determination is not recognized in the Spanish Constitution of 1978, a wide majority of Basques abstained (55%) and some even voted against it (23.5%) in the ratification referendum of December 6 of that year. However, it was approved by clear majority overall in Spanish (87%). The autonomous regime for the Basque Country was approved in a 1979 referendum but the autonomy of Navarre (_Amejoramiento del Fuero_: "improvement of the charter") was never subject to a referendum but only approved by the Navarrese Cortes (parliament).
 
@@ -233,7 +229,7 @@ The strongest distinction between the Basques and their traditional neighbours i
 
 Genetics
 
-06_laiatzen.jpg]] In 1920, H. G. Wells referred to the Mediterranean race as the _Iberian race_. He regarded it as a fourth subrace of the Caucasian race, along with the _Aryan_, _Semitic_, and _Hamitic_ subraces. He stated that the main ethnic group that most purely represented the racial stock of the Iberian race was the Basques, and that the Basques were the descendants of the Cro-Magnons.[38] In 1994, in his book _The History and Geography of Human Genes_, population geneticist L. Luca Cavalli-Sforza stated that "there is support from many sides" for the hypothesis that the Basques are the descendants of the original Cro-Magnons.[39] Jóvenes_con_trajes_vascos_en_Zubieta_(1_de_3)_-_Fondo_Car-Kutxa_Fototeka.jpg in 1927]] Even before the development of modern genetics based on DNA sequencing, Basques were already noted for distinctive genetic patterns, such as possessing the highest global apportion of the Rh- blood type (35% phenotypically, 60% genetically). Additionally, the Basque population has virtually no B blood type, nor the related AB type. They have a high rate of O blood group but this is probably due to isolation.
+]] In 1920, H. G. Wells referred to the Mediterranean race as the _Iberian race_. He regarded it as a fourth subrace of the Caucasian race, along with the _Aryan_, _Semitic_, and _Hamitic_ subraces. He stated that the main ethnic group that most purely represented the racial stock of the Iberian race was the Basques, and that the Basques were the descendants of the Cro-Magnons.[38] In 1994, in his book _The History and Geography of Human Genes_, population geneticist L. Luca Cavalli-Sforza stated that "there is support from many sides" for the hypothesis that the Basques are the descendants of the original Cro-Magnons.[39] in 1927]] Even before the development of modern genetics based on DNA sequencing, Basques were already noted for distinctive genetic patterns, such as possessing the highest global apportion of the Rh- blood type (35% phenotypically, 60% genetically). Additionally, the Basque population has virtually no B blood type, nor the related AB type. They have a high rate of O blood group but this is probably due to isolation.
 
 Although they are genetically distinctive in some ways, the Basques are still very typically European in terms of their Y-DNA and mtDNA sequences, and in terms of some other genetic loci. These same sequences are widespread throughout the western half of Europe, especially along the western fringe of the continent.[40][41]
 
@@ -253,7 +249,7 @@ Several ancient DNA samples have been recovered and amplified from Palaeolithic 
 
 Thus, while Basques harbour some very archaic lineages (such as mtDNA Hg U8a),[57] they are not of "undiluted Palaeolithic ancestry", nor are they ancestral to large parts of western Europe. Rather, their genetic distinctiveness is a result of centuries of low population size, genetic drift and endogamy.
 
-Haurrak_baserritar_jantzita_001.jpg in 1990]]
+in 1990]]
 
 New genetic findings, 2015
 

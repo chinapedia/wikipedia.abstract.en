@@ -1,4 +1,4 @@
-Rhopalomyia_solidaginis_eclosion.jpg'' fly, emerging from pupal case]] Cicada_molting_animated-2.gif.]]
+'' fly, emerging from pupal case]] .]]
 
 ECDYSIS is the moulting of the cuticle in many invertebrates of the clade Ecdysozoa. Since the cuticle of these animals typically forms a largely inelastic exoskeleton, it is shed during growth and a new, larger covering is formed.[1] The remnants of the old, empty exoskeleton are called exuviae.[2]
 
@@ -32,7 +32,7 @@ After apolysis the insect is known as a pharate. Moulting fluid is then secreted
 
 Spiders
 
-Crab_spider_female_in_ecdysis;_Genus_Synema,_Family_Thomisidae_5725s.jpg _Synema decens_, teneral after final ecdysis, still dangling from drop line, about to be mated, opisthosoma still shrunken]]
+_Synema decens_, teneral after final ecdysis, still dangling from drop line, about to be mated, opisthosoma still shrunken]]
 
 Spiders generally change their skin for the first time while still inside the egg sac, and the spiderling that emerges broadly resembles the adult. The number of moults varies, both between species and sexes, but generally will be between five times and nine times before the spider reaches maturity. Not surprisingly, since males are generally smaller than females, the males of many species mature faster and do not undergo ecdysis as many times as the females before maturing. Members of the Mygalomorphae are very long-lived, sometimes 20 years or more; they moult annually even after they mature.
 

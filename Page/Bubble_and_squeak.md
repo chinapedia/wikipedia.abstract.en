@@ -1,5 +1,3 @@
-Bubble_and_squeak_with_poached_egg.jpg
-
 BUBBLE AND SQUEAK is a traditional British breakfast made from boiled potatoes and cabbage. In modern times, it is a dish made with the shallow-fried leftover vegetables from a roast dinner. The main ingredients are potato and cabbage but carrots, peas, Brussels sprouts, or any other leftover vegetables may be added. The chopped vegetables (and cold chopped meat if used) are fried in a pan together with mashed potatoes or crushed roast potatoes until the mixture is well-cooked and brown on the sides. The dish is so named because the cabbage makes bubbling and squeaking sounds during the cooking process.[1] It is often served with cold meat from the Sunday roast and pickles or brown sauce or as an accompaniment to a full English breakfast.
 
 The meat was traditionally added to the bubble and squeak itself, although nowadays it is more commonly made without meat. The earliest-known recipe was in Mrs Rundell's _A New System of Domestic Cookery_ in 1806.[2]

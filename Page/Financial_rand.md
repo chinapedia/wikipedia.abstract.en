@@ -1,4 +1,4 @@
-SA_exchange_controls_80s.jpg The South African FINANCIAL RAND was the most visible part of a system of capital controls. Although the financial rand was abolished in March 1995, some capital controls remain in place. These capital controls are locally referred to as "exchange controls", although the system has since 1995 moved towards surveillance — recording and reporting to the authorities of foreign currency transactions — rather than control.
+The South African FINANCIAL RAND was the most visible part of a system of capital controls. Although the financial rand was abolished in March 1995, some capital controls remain in place. These capital controls are locally referred to as "exchange controls", although the system has since 1995 moved towards surveillance — recording and reporting to the authorities of foreign currency transactions — rather than control.
 
 Capital controls have been in place in South Africa in various guises on an uninterrupted basis since the outbreak of World War II, when Great Britain and its dominions implemented the Sterling area.
 

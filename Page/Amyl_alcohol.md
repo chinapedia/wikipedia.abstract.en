@@ -4,12 +4,12 @@ These are the 8 structural isomers of alcohols with molecular formula C₅H₁�
 
     {| class="wikitable sortable"
 
-|+AMYL ALCOHOL ISOMERS |- ! Common name !! Structure !! Type !! IUPAC name !! Boiling point (°C)[2] |- | normal amyl alcohol | Pentan-1-ol-2D-skeletal.png | primary | Pentan-1-ol | 138.5 |- | isobutyl carbinol
+|+AMYL ALCOHOL ISOMERS |- ! Common name !! Structure !! Type !! IUPAC name !! Boiling point (°C)[2] |- | normal amyl alcohol | | primary | Pentan-1-ol | 138.5 |- | isobutyl carbinol
 or isoamyl alcohol
 or isopentyl alcohol
-| Isoamyl_alcohol.svg | primary | 3-Methylbutan-1-ol | 131.2 |- | active amyl alcohol | 2-Methyl-1-butanol.svg | primary | 2-Methylbutan-1-ol | 128.7 |- | tertiary butyl carbinol
-or neopentyl alcohol | Neopentyl-alcohol-2D-skeletal.png | primary | 2,2-Dimethylpropan-1-ol | 113.1 |- | 3-Pentanol | Pentan-3-ol-2D-skeletal.png | secondary | Pentan-3-ol | 115.3 |- | methyl (n) propyl carbinol | Pentan-2-ol-2D-skeletal.png | secondary | Pentan-2-ol | 118.8 |- | methyl isopropyl carbinol | 3-methylbutan-2-ol-2D-skeletal.png | secondary | 3-Methylbutan-2-ol | 113.6 |- | dimethyl ethyl carbinol
-or tertiary amyl alcohol | Tert-pentyl-alcohol-2D-skeletal.png | tertiary | 2-Methylbutan-2-ol | 102 |}
+| | primary | 3-Methylbutan-1-ol | 131.2 |- | active amyl alcohol | | primary | 2-Methylbutan-1-ol | 128.7 |- | tertiary butyl carbinol
+or neopentyl alcohol | | primary | 2,2-Dimethylpropan-1-ol | 113.1 |- | 3-Pentanol | | secondary | Pentan-3-ol | 115.3 |- | methyl (n) propyl carbinol | | secondary | Pentan-2-ol | 118.8 |- | methyl isopropyl carbinol | | secondary | 3-Methylbutan-2-ol | 113.6 |- | dimethyl ethyl carbinol
+or tertiary amyl alcohol | | tertiary | 2-Methylbutan-2-ol | 102 |}
 
 Three of these alcohols, active amyl alcohol (2-methylbutan-1-ol), methyl (n) propyl carbinol (pentan-2-ol), and methyl isopropyl carbinol (3-methylbutan-2-ol), contain an asymmetric carbon atom and are therefore optically active.
 

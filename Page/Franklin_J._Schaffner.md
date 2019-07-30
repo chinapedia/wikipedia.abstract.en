@@ -3,7 +3,7 @@ FRANKLIN JAMES SCHAFFNER (May 30, 1920July 2, 1989) was a Japanese-born American
 
 Early life
 
-Otoolepeckschaffner.jpg, Gregory Peck and Franklin J. Schaffner outside Franklin & Marshall College after accepting an honorary degree in 1977.]]
+, Gregory Peck and Franklin J. Schaffner outside Franklin & Marshall College after accepting an honorary degree in 1977.]]
 
 Schaffner was born in Tokyo, Japan, the son of American missionaries Sarah Horting (née Swords) and Paul Franklin Schaffner,[1][2] and was raised in Japan. He returned to the United States and graduated from Franklin & Marshall College in Lancaster, Pennsylvania, where he was active in drama. He studied law at Columbia University in New York City but his education was interrupted by service with the United States Navy in World War II during which he served with American amphibious forces in Europe and North Africa. In the latter stages of the war he was sent to the Pacific Far East to serve with the United States Office for Strategic Services.
 

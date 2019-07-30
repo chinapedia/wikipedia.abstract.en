@@ -39,7 +39,7 @@ The three major elements of the cytoplasm are the cytosol, organelles and inclus
 
 Cytosol
 
-The cytosol is the portion of the cytoplasm not contained within membrane-bound organelles. Cytosol makes up about 70% of the cell volume and is a complex mixture of cytoskeleton filaments, dissolved molecules, and water. The cytosol's filaments include the protein filaments such as actin filaments and microtubules that make up the cytoskeleton, as well as soluble proteins and small structures such as ribosomes, proteasomes, and the mysterious vault complexes.[15] The inner, granular and more fluid portion of the cytoplasm is referred to as endoplasm.Localisations02eng.jpgs and structures tagged with green fluorescent protein]]
+The cytosol is the portion of the cytoplasm not contained within membrane-bound organelles. Cytosol makes up about 70% of the cell volume and is a complex mixture of cytoskeleton filaments, dissolved molecules, and water. The cytosol's filaments include the protein filaments such as actin filaments and microtubules that make up the cytoskeleton, as well as soluble proteins and small structures such as ribosomes, proteasomes, and the mysterious vault complexes.[15] The inner, granular and more fluid portion of the cytoplasm is referred to as endoplasm.s and structures tagged with green fluorescent protein]]
 
 Due to this network of fibres and high concentrations of dissolved macromolecules, such as proteins, an effect called macromolecular crowding occurs and the cytosol does not act as an ideal solution. This crowding effect alters how the components of the cytosol interact with each other.
 

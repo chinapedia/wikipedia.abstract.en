@@ -23,7 +23,7 @@ Examples
 
 Biological generalization
 
-Generalization_process_using_trees_PNG_version.png An animal is a generalization of a mammal, a bird, a fish, an amphibian and a reptile.
+An animal is a generalization of a mammal, a bird, a fish, an amphibian and a reptile.
 
 Cartographic generalization of geo-spatial data
 

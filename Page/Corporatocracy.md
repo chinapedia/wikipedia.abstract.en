@@ -20,8 +20,6 @@ His follow-up book, _Mass Flourishing_, further defines corporatization by the f
 
 United States
 
-U.S._Compensation_as_Percent_of_GDP_-_v1.png
-
 In the United States, several of the characteristics described by Phelps are apparent. With regard to income inequality, the 2014 income analysis of University of California, Berkeley economist Emmanuel Saez confirms that relative growth of income and wealth is not occurring among small and mid-sized entrepreneurs and business owners (who generally populate the lower half of top one per-centers in income),[16] but instead only among the top .1 percent of income distribution, whom economics Nobel Prize winner, Paul Krugman describes as "super-elites – corporate bigwigs and financial wheeler-dealers"[17][18] who earn $2,000,000 or more every year.[19][20]
 
 Share of income
@@ -36,8 +34,6 @@ Not receiving this income may have led many families to increase their debt burd
 
 Effective corporate tax rates
 
-U.S._Federal_Corporate_Income_Tax_Receipts_and_Pre-Tax_Profits.png
-
 Some large U.S. corporations have used a strategy called tax inversion to change their headquarters to a non-U.S. country to reduce their tax liability. About 46 companies have reincorporated in low-tax countries since 1982, including 15 since 2012. Six more also planned to do so in 2015.[25]
 
 Stock buybacks versus wage increases
@@ -47,8 +43,6 @@ One indication of increasing corporate power was the removal of restrictions on 
 In the 12 months to March 31, 2014, S&P 500 companies increased their stock buyback payouts by 29% year on year, to $534.9 billion.[28] U.S. companies are projected to increase buybacks to $701 billion in 2015 according to Goldman Sachs, an 18% increase over 2014. For scale, annual non-residential fixed investment (a proxy for business investment and a major GDP component) was estimated to be about $2.1 trillion for 2014.[29][30]
 
 Industry concentration
-
-5-Bank_Asset_Concentration_in_U.S._1997-2012.png
 
 Brid Brennan of the Transnational Institute explained how concentration of corporations increases their influence over government: ”It’s not just their size, their enormous wealth and assets that make the TNCs [transnational corporations] dangerous to democracy. It’s also their concentration, their capacity to influence, and often infiltrate, governments and their ability to act as a genuine international social class in order to defend their commercial interests against the common good. It is such decision making power as well as the power to impose deregulation over the past 30 years, resulting in changes to national constitutions, and to national and international legislation which has created the environment for corporate crime and impunity."[31][32]
 
@@ -65,7 +59,7 @@ Corporations have significant influence on the regulations and regulators that m
 
 Historical corporatocracies
 
-American_corporate_flag.jpg Corporate American Flag at Bush's 2nd inauguration, Washington DC.]] Several companies that typify corporatocracy power structures are listed below by incorporation date:
+Corporate American Flag at Bush's 2nd inauguration, Washington DC.]] Several companies that typify corporatocracy power structures are listed below by incorporation date:
 
 Indian subcontinent
 

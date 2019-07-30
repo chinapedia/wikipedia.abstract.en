@@ -1,4 +1,4 @@
-Guilt|Guilty (disambiguation){{!}}Guilty}} Brooklyn_Museum_-_Soul_in_Bondage_-_Elihu_Vedder_-_overall.jpg, painted between 1891 and 1892]]
+Guilt|Guilty (disambiguation){{!}}Guilty}} , painted between 1891 and 1892]]
 
 GUILT is a cognitive or an emotional experience that occurs when a person believes or realizes—accurately or not—that they have compromised their own standards of conduct or have violated a universal moral standard and bear significant responsibility for that violation.[1] Guilt is closely related to the concept of remorse.
 

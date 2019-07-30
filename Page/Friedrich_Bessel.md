@@ -24,7 +24,7 @@ After several months of illness Bessel died in March 1846 at his observatory fro
 
 Work
 
-Koenigsberg_observatory.jpg in 1830. It was destroyed by bombing in the Second World War.]]
+in 1830. It was destroyed by bombing in the Second World War.]]
 
 While the observatory was still in construction Bessel elaborated the _Fundamenta Astronomiae_ based on Bradley's observations. As a preliminary result he produced tables of atmospheric refraction that won him the Lalande Prize from the French Academy of Sciences in 1811. The Königsberg Observatory began operation in 1813.
 

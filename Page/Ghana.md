@@ -72,7 +72,7 @@ The etymology of the word _Ghana_ means "warrior king" and was the title accorde
 
 History
 
-Akan_face.jpg Terracotta, Metropolitan Museum of Art]] Guinea_from_Milner's_Atlas.jpg Kingdom of Ashanti within the Guinea region and surrounding regions in West Africa]] Lidded_Vessel_(Kuduo)_MET_DP108293.jpg
+Terracotta, Metropolitan Museum of Art]] Kingdom of Ashanti within the Guinea region and surrounding regions in West Africa]]
 
 Medieval kingdoms
 
@@ -96,7 +96,7 @@ In 1481, King John II of Portugal commissioned Don Diego d'Azambuja to build the
 
 Other European traders had joined in gold trading by the mid-17th century, most notably the Swedes, establishing the Swedish Gold Coast (Svenska Guldkusten), and Denmark-Norway, establishing the Danish Gold Coast (Danske Guldkyst _or_ Dansk Guinea).[46] Portuguese merchants, impressed with the gold resources in the area, named it _Costa do Ouro_ or _Gold Coast_.[47] Also beginning in the 17th century — in addition to the gold trade — Portuguese, Dutch, English, and French traders also participated in the Atlantic slave trade in this area.[48]
 
-Aschanti_Gefecht_11_july_1824_300dpi.jpg, 1823–31]] Kwame_Nkrumah_(JFKWHP-AR6409-A).jpg, first President of Ghana]]
+, 1823–31]] , first President of Ghana]]
 
 More than thirty forts and castles were built by the Portuguese, Swedish, Dano-Norwegians, Dutch and German merchants; the latter Germans establishing the German Gold Coast (Brandenburger Gold Coast _or_ Groß Friedrichsburg).[49] In 1874 Great Britain established control over some parts of the country, assigning these areas the status of British Gold Coast.[50] Many military engagements occurred between the British colonial powers and the various Akan nation-states. The Akan Kingdom of Ashanti defeated the British a few times in the 100-year-long Anglo-Ashanti wars but eventually lost with the War of the Golden Stool in the early 1900s.[51][52][53]
 
@@ -124,7 +124,7 @@ A series of alternating military and civilian governments, often affected by eco
 
 21st century
 
-Kpetoee.jpg in Ghana in 2015]] Winning the 2000 Ghanaian elections, John Agyekum Kufuor of the New Patriotic Party (NPP) was sworn into office as president of Ghana on 7 January 2001, and attained the presidency again in the 2004 Ghanaian elections, thus also serving two terms (the term limit) as president of Ghana and thus marking the first time under the fourth republic that power was transferred from one legitimately elected head of state and head of government to another.[78]
+in Ghana in 2015]] Winning the 2000 Ghanaian elections, John Agyekum Kufuor of the New Patriotic Party (NPP) was sworn into office as president of Ghana on 7 January 2001, and attained the presidency again in the 2004 Ghanaian elections, thus also serving two terms (the term limit) as president of Ghana and thus marking the first time under the fourth republic that power was transferred from one legitimately elected head of state and head of government to another.[78]
 
 Kufuor was succeeded to the presidency of the Republic of Ghana by John Atta Mills of the National Democratic Congress (NDC) following the Ghanaian presidential election, 2008. and John Atta Mills was inaugurated as the third president of the fourth republic of Ghana and eleventh president of Ghana on 7 January 2009,[79] prior to John Atta Mills being succeeded as president of Ghana by then vice-president of Ghana John Dramani Mahama on 24 July 2012.[80]
 
@@ -194,7 +194,7 @@ The climate of Ghana is tropical and there are two main seasons: the wet season 
 
 Government
 
-Ghana_Parliament_House_–_Ghana_Supreme_Court_–_Osu_Castle.JPG seat of the Government of Ghana, the Supreme Court of Ghana and Judiciary of Ghana buildings, Osu Castle is the _de facto_ residence of presidency and The Flagstaff House is the official residence and presidential palace.]] _Presidents_of_Ghana_and_of_the_4th_Republic_of_Ghana.JPG and presidents of the 4th Republic of Ghana Rawlings; Kufuor; Mills and Mahama.]]
+seat of the Government of Ghana, the Supreme Court of Ghana and Judiciary of Ghana buildings, Osu Castle is the _de facto_ residence of presidency and The Flagstaff House is the official residence and presidential palace.]] and presidents of the 4th Republic of Ghana Rawlings; Kufuor; Mills and Mahama.]]
 
 Ghana is a unitary presidential constitutional democracy with a parliamentary multi-party system. Ghana alternated between civilian and military governments until January 1993, when the military government gave way to the Fourth Republic of Ghana after presidential and parliamentary elections in late 1992. The 1992 constitution of Ghana divides powers among a Commander-in-Chief of the Ghana Armed Forces (President of Ghana), parliament (Parliament of Ghana), cabinet (Cabinet of Ghana), council of state (Ghanaian Council of State), and an independent judiciary (Judiciary of Ghana). The Government of Ghana is elected by universal suffrage after every four years.[91]
 
@@ -204,7 +204,7 @@ The 2012 Fragile States Index indicated that Ghana is ranked the 67th least frag
 
 Foreign relations
 
-Kofi_Annan_at_OYW.jpg, Ghanaian diplomat and United Nations Secretary-General 1997–2006]]
+, Ghanaian diplomat and United Nations Secretary-General 1997–2006]]
 
 Since independence, Ghana has been devoted to ideals of nonalignment and is a founding member of the Non-Aligned Movement. Ghana favours international and regional political and economic co-operation, and is an active member of the United Nations and the African Union.[96]
 
@@ -216,7 +216,7 @@ The Islamic Republic of Iran and the 6th President of Iran, Mahmoud Ahmadinejad 
 
 Law enforcement and police
 
-Ghana_Police_Service_Motorbikes.jpg Unit of the Ghana Police Service ]]
+Unit of the Ghana Police Service ]]
 
 The Ghana Police Service (GPS) and the Criminal Investigation Department (CID) are the main law enforcement agencies of the Republic of Ghana, and are responsible for the detection of crime, maintenance of law and order and the maintenance of internal peace and security.[106] The Ghana Police Service has eleven specialised police units including a Militarized police Rapid deployment force (RDF) and Marine Police Unit (MPU).[107][108] The Ghana Police Service operates in 12 divisions: ten covering the ten regions of Ghana, one assigned specifically to the seaport and industrial hub of Tema, and the twelfth being the Railways, Ports and Harbours Division.[109] The Ghana Police Service's Marine Police Unit and Division handles issues that arise from the country's offshore oil and gas industry.[110]
 
@@ -224,7 +224,7 @@ The Ghana Prisons Service and the sub-division Borstal Institute for Juveniles a
 
 Ghanaian Drug War and The Narcotic Control Board
 
-Drugtrade.pngs and drug traffickers (shown in orange).]]
+s and drug traffickers (shown in orange).]]
 
 Ghana is used as a key narcotics industry transshipment point by traffickers, usually from South America as well as some from other African nations.[117] "West Africa is completely weak in terms of border control and the big drug cartels from Colombia and Latin America have chosen Africa as a way to reach Europe."[118]
 
@@ -236,7 +236,7 @@ Drug cartels are using new methods in narcotics production and narcotics exporta
 
 Military
 
-Ghana_Airforce_Reccep_Tayyip_Erdogan_Honor_Guard_at_Flagstaff_House.jpg Recep Tayyip Erdoğan inspects Honor Guards mounted by the Ghana Air Force at the Flagstaff House the Presidential Palace of Ghana in Greater Accra on 1 March 2016.]] In 1957, the Ghana Armed Forces (GAF) consisted of its headquarters, support services, three battalions of infantry and a reconnaissance squadron with armoured vehicles.[128] Ghanaian Prime Minister and President Kwame Nkrumah aimed at rapidly expanding the GAF to support the United States of Africa ambitions. Thus in 1961, 4th and 5th Battalions were established, and in 1964 6th Battalion was established, from a parachute airborne unit originally raised in 1963.[129]
+Recep Tayyip Erdoğan inspects Honor Guards mounted by the Ghana Air Force at the Flagstaff House the Presidential Palace of Ghana in Greater Accra on 1 March 2016.]] In 1957, the Ghana Armed Forces (GAF) consisted of its headquarters, support services, three battalions of infantry and a reconnaissance squadron with armoured vehicles.[128] Ghanaian Prime Minister and President Kwame Nkrumah aimed at rapidly expanding the GAF to support the United States of Africa ambitions. Thus in 1961, 4th and 5th Battalions were established, and in 1964 6th Battalion was established, from a parachute airborne unit originally raised in 1963.[129]
 
 Today, Ghana is a regional power and regional hegemon.[130] In his book _Shake Hands with the Devil_, Canadian Forces commander Roméo Dallaire highly rated the GAF soldiers and military personnel.[131]
 
@@ -283,7 +283,7 @@ Economy
 
 Key sectors
 
-Ghana_Export_Trends.jpg and commodities; exports in percentage.]] Ghana is an average natural resource enriched country possessing industrial minerals, hydrocarbons and precious metals. It is an emerging designated digital economy with mixed economy hybridisation and an emerging market with 8.7% GDP growth in 2012. It has an economic plan target known as the "Ghana Vision 2020". This plan envisions Ghana as the first African country to become a developed country between 2020 and 2029 and a newly industrialised country between 2030 and 2039. This excludes fellow Group of 24 member and Sub-Saharan African country South Africa, which is a newly industrialised country.[144] Ghana's economy also has ties to the Chinese yuan renminbi along with Ghana's vast gold reserves. In 2013, the Bank of Ghana began circulating the renminbi throughout Ghanaian state-owned banks and to the Ghana public as hard currency along with the national Ghana cedi for second national trade currency.[145] Between 2012 and 2013, 37.9 percent of rural dwellers were experiencing poverty whereas only 10.6 percent of urban dwellers were.[146] Urban areas hold greater opportunity for employment, particularly in informal trade, while nearly all (94 percent) of rural poor households participate in the agricultural sector.[147]
+and commodities; exports in percentage.]] Ghana is an average natural resource enriched country possessing industrial minerals, hydrocarbons and precious metals. It is an emerging designated digital economy with mixed economy hybridisation and an emerging market with 8.7% GDP growth in 2012. It has an economic plan target known as the "Ghana Vision 2020". This plan envisions Ghana as the first African country to become a developed country between 2020 and 2029 and a newly industrialised country between 2030 and 2039. This excludes fellow Group of 24 member and Sub-Saharan African country South Africa, which is a newly industrialised country.[144] Ghana's economy also has ties to the Chinese yuan renminbi along with Ghana's vast gold reserves. In 2013, the Bank of Ghana began circulating the renminbi throughout Ghanaian state-owned banks and to the Ghana public as hard currency along with the national Ghana cedi for second national trade currency.[145] Between 2012 and 2013, 37.9 percent of rural dwellers were experiencing poverty whereas only 10.6 percent of urban dwellers were.[146] Urban areas hold greater opportunity for employment, particularly in informal trade, while nearly all (94 percent) of rural poor households participate in the agricultural sector.[147]
 
 The state-owned Volta River Authority and Ghana National Petroleum Corporation are the two major electricity producers.[148] The Akosombo Dam, built on the Volta River in 1965, along with Bui Dam, Kpong Dam, and several other hydroelectric dams provide hydropower.[149][150] In addition, the Government of Ghana has sought to build the second nuclear power plant in Africa.
 
@@ -299,7 +299,7 @@ The Ghana economy is an emerging digital-based mixed economy hybrid with an incr
 
 Petroleum and natural gas production
 
-Jubilee_Oil_Field_of_the_Ghana_National_Petroleum_Corporation_(GNPC)_and_National_Petroleum_Authority.png of the Ghana National Petroleum Corporation (GNPC) and National Petroleum Authority located off the coast of the Western Region in Ghana in the South Atlantic Ocean.]]
+of the Ghana National Petroleum Corporation (GNPC) and National Petroleum Authority located off the coast of the Western Region in Ghana in the South Atlantic Ocean.]]
 
 Ghana produces and exports an abundance of hydrocarbons such as sweet crude oil and natural gas.[163][164] The 100% state-owned filling station company of Ghana, Ghana Oil Company (GOIL) is the number 1 petroleum and gas filling station of Ghana and the 100% state-owned state oil company Ghana National Petroleum Corporation (GNPC) oversees hydrocarbon exploration and production of Ghana's entire petroleum and natural gas reserves. Ghana aims to further increase output of oil to per day and gas to per day.[165]
 
@@ -311,13 +311,11 @@ Known for its industrial minerals, Ghana is the world's 7th largest producer of 
 
 Real estate
 
-Luxury_Villa_House_(South_Ghana).jpg in East Ridge]]
+in East Ridge]]
 
 The real estate and housing market of Ghana has become an important and strategic economic sector, particularly in the urban centres of south Ghana such as Accra, Kumasi, Sekondi-Takoradi and Tema.[174][175][176] Kumasi is growing at a faster rate than Accra, and there is less competition in its real estate market.[177] The gross rental income tax of Ghana is withheld at 10%, capital gains are taxed at 15% with a 5% gift tax imposed on the transfer of properties and Ghana's real estate market is divided into 3 areas: public sector real estate development, emerging private sector real estate development, and private individuals.[178][179] The activities of these 3 groups are facilitated by the Ghanaian banks and the primary mortgage market which has demonstrated enormous growth potential.[180] Recent developments in the Ghanaian economy has given birth to a boom in the construction sector, including the housing and public housing sector generating and injecting billions of dollars annually into the Ghanaian economy.[181][182] The real estate market investment perspective and attraction comes from Ghana's tropical location and robust political stability.[183][184] An increasing number of the Ghanaian populace are investing in properties and the Ghana government is empowering the private sector in the real estate direction.[185][186]
 
 Trade and exports
-
-2014_Ghana_Products_Export_Treemap.png
 
 In July 2013, International Enterprise Singapore opened its 38th global office in Accra, to develop trade and investment on logistics, oil and gas, aviation, transportation and consumer sectors.[187] Singapore and Ghana also signed four bilateral agreements to promote public sector and private sector collaboration, as Ghana aims to predominantly shift its economic trade partnership to East Asia and Southeast Asia.[188] The economic centre is IE Singapore's second office in Africa, coming six months after opening in Johannesburg, South Africa in January 2013.[189] Ghana's labour force in 2008 totalled 11.5 million Ghanaian citizens.[190][191] Tema Harbour is Africa's largest harbour and Takoradi Harbour along with Tema harbour in Ghana handles goods and exports for Ghana. They are also traffic junctions where goods are transhipped; the Tema harbour handles the majority of the nation's export cargo and most of the country's chief exports is shipped from Takoradi harbour.[192][193] The Takoradi harbour and Tema harbour are operated by the state-owned Ghana Ports and Harbours Authority.[194][195]
 
@@ -348,7 +346,7 @@ Ghana's annual space exploration expenditure has been 1% of its gross domestic p
 
 Cybernetics and cyberwarfare
 
-Wikimedia_Outreach_in_Ghana_6.jpeg implementation of information and communications technology at the University of Ghana]]
+implementation of information and communications technology at the University of Ghana]]
 
 The use of computer technology for teaching and learning began to receive government of Ghana's attention from the late 1990s.[211] The information and communications technology in education policy of Ghana requires the use of information and communications technology for teaching and learning at all levels of the education of Ghana system.[212] The Ministry of Education (MOE) supports institutions in teaching of information and communications technology literacy.[213] Majority of secondary, and some basic schools of Ghana have computer laboratories.[214]
 
@@ -386,8 +384,6 @@ The government largely funds basic education comprising public primary schools a
 As part of the Free Compulsory Universal Basic Education, Fcube, the government supplies all basic education schools with all their textbooks and other educational supplies like exercise books. Senior high schools are also provided with all their textbook requirement by the government. Private schools acquire their educational material from private suppliers.[235]
 
 Kindergarten and education structure
-
-Ghana_Education_Structure.gif
 
 The female and male ages 15–24 years literacy rate in Ghana was 81% in 2010, with males at 82%,[236] and females at 80%.[237]
 
@@ -438,7 +434,7 @@ Demographics
 |                     |
 +---------------------+
 
-Bevölkerungspyramide_Ghana_2016.png Ghana is a multiethnic country.[257] The largest ethnic group is the Ashanti people. Ghana's territorial area within West Africa was unoccupied and uninhabited by humans until the 10th century BC.[258] By the 10th century AD. The Guans were the first settlers in Ghana long before the other tribes came. Akans had established Bonoman (Brong Ahafo region) and were joined by the current settlers and inhabitants by the 16th century.
+Ghana is a multiethnic country.[257] The largest ethnic group is the Ashanti people. Ghana's territorial area within West Africa was unoccupied and uninhabited by humans until the 10th century BC.[258] By the 10th century AD. The Guans were the first settlers in Ghana long before the other tribes came. Akans had established Bonoman (Brong Ahafo region) and were joined by the current settlers and inhabitants by the 16th century.
 
 In 2010, the population of Ghana was 72.2% Christian (24.3% Pentecostal, 18.4% Protestant, 13.1% Catholic and 11.4% other). Approximately 18.6% of the population of Ghana are Muslim,[259] (51% Sunni, 16% Ahmadiyya, and 8% Shia).[260][261] Just over 10,000 Ghanaians practice Hinduism, with most of them being indigenous converts. Hinduism in Ghana was popularized by Swami Ghana Nanda ji, who opened several temples in the nation. The temple of Lord Shiva in Accra is one of the largest where there are celebrations to Ganesh Chaturthi, Rath Yatra, and other Hindu observations.
 
@@ -446,7 +442,7 @@ In 2010, the population of Ghana was 72.2% Christian (24.3% Pentecostal, 18.4% P
 
 Population
 
-Ghana_Card_biometric.jpg (Ghanaian electronic ID Card) – obverse with chip ]]
+(Ghanaian electronic ID Card) – obverse with chip ]]
 
 , Ghana has a population of 30,083,000.[265] Around 29 percent of the population is under the age of 15, while persons aged 15–64 make up 57.8 percent of the population.[266] The Ashanti Region had the most, (Akan) (Ashanti) (4.7 million in Ashanti, 2.3 million in Brong-Ahafo, 2.2 million in Central, 2.6 million in Eastern, 2.3 million in Western, and 4 million in the seat of government in Greater Accra geographically and legally part of Eastern then administered separately on 23 July 1982).[267] , 4.1 million persons reside in the Northern territories (2.4 million in Northern, 1 million in Upper East, and 0.7 million in Upper West).[268]
 
@@ -460,7 +456,7 @@ In 2010, the Ghana Immigration Service reported a large number of economic migra
 
 Languages
 
-Akan_Greetings_(Akwaba_–_Welcome;_Ete_sen_–_Hello).JPG phrases; "akɔaba" (welcome) and "ɛte sɛn" (how is it?) in Ashanti Twi]]
+phrases; "akɔaba" (welcome) and "ɛte sɛn" (how is it?) in Ashanti Twi]]
 
 English is the official language and lingua franca.[275][276]
 
@@ -528,7 +524,7 @@ In 2017, life expectancy at birth had increased to an average of 67 years with m
 
 Culture
 
-FB_20151104_19_47_22_Saved_Picture(1).jpg in the Volta region]] Ghanaian culture is a diverse mixture of the practices and beliefs of many different Ghanaian ethnic groups. The 2010 census reported that the largest ethnic groups are the Akan (47.3 percent), the Mole-Dagbani (16.6 percent), the Ewe (13.9 percent), the Ga-Dangme (7.4 percent), the Gurma (5.7) and the Guan (3.7 percent).[304] The Akan make up a majority of the population in the Central (81.7 percent), Western (78.2 percent), Ashanti (74.2 percent), Brong Ahafo (58.9 percent) and Eastern (51.1 percent) regions.[305]
+in the Volta region]] Ghanaian culture is a diverse mixture of the practices and beliefs of many different Ghanaian ethnic groups. The 2010 census reported that the largest ethnic groups are the Akan (47.3 percent), the Mole-Dagbani (16.6 percent), the Ewe (13.9 percent), the Ga-Dangme (7.4 percent), the Gurma (5.7) and the Guan (3.7 percent).[304] The Akan make up a majority of the population in the Central (81.7 percent), Western (78.2 percent), Ashanti (74.2 percent), Brong Ahafo (58.9 percent) and Eastern (51.1 percent) regions.[305]
 
 Food and drink
 
@@ -542,7 +538,7 @@ The Ghanaian national literature radio programme and accompanying publication _V
 
 Adinkra
 
-Adinkra_motifs_Rattray_1927.jpg by Robert Sutherland Rattray]]
+by Robert Sutherland Rattray]]
 
 During the 13th century, Ghanaians developed their unique art of _adinkra_ printing. Hand-printed and hand-embroidered adinkra clothes were made and used exclusively by the then Ghanaian royalty for devotional ceremonies. Each of the motifs that make up the corpus of adinkra symbolism has a name and meaning derived from a proverb, a historical event, human attitude, ethology, plant life-form, or shapes of inanimate and man-made objects. These are graphically rendered in stylised geometric shapes. The meanings of the motifs may be categorised into aesthetics, ethics, human relations, and concepts.[314]
 
@@ -562,7 +558,7 @@ Contemporary Ghanaian fashion includes traditional and modern styles and fabrics
 
 Music and dance
 
-Traditional_Adowa_dance_form_and_music_performance.ogv form and music performance.]]
+form and music performance.]]
 
 The music of Ghana is diverse and varies between different ethnic groups and regions. Ghanaian music incorporates several distinct types of musical instruments such as the talking drum ensembles, Akan Drum, goje fiddle and koloko lute, court music, including the Akan Seperewa, the Akan atumpan, the Ga kpanlogo styles, and log xylophones used in asonko music.[332] The most well known genres to have come from Ghana are African jazz, which was created by Ghanaian artist Kofi Ghanaba,[333] and its earliest form of secular music, called highlife.[334] Highlife originated in the late 19th century and early 20th century and spread throughout West Africa.[335] In the 1990s a new genre of music was created by the youth incorporating the influences of highlife, Afro-reggae, dancehall and hiphop.[336] This hybrid was called hiplife.[337] Ghanaian artists such as "Afro Roots" singer, activist and songwriter Rocky Dawuni, R&B and soul singer Rhian Benson and Sarkodie have had international success.[338][339] In December 2015, Rocky Dawuni became the first Ghanaian musician to be nominated for a Grammy award in the Grammy Award for Best Reggae Album category for his 6th studio album titled _Branches of The Same Tree_[340] released 31 March 2015.
 
@@ -576,7 +572,7 @@ In recent times there have been collaborations between Ghanaian and Nigerian cre
 
 Media
 
-Ghana_Trustworthiness_of_Media.jpg and information provided by television.]]
+and information provided by television.]]
 
 The media of Ghana are amongst the most free in Africa. Chapter 12 of the 1992 Constitution of Ghana guarantees freedom of the press and independence of the media, while Chapter 2 prohibits censorship.[348] Post-independence, the government and media often had a tense relationship, with private outlets closed during the military governments and strict media laws that prevented criticism of government.[349]
 
@@ -584,13 +580,13 @@ Press freedoms were restored in 1992, and after the election in 2000 of John Agy
 
 Sports
 
-20150331_Mali_vs_Ghana_042.jpg.]]
+.]]
 
-Association football (or soccer) is the most spectated sport in Ghana and the national men's football team is known as the Black Stars, with the under-20 team known as the Black Satellites.[352] Ghana has won the African Cup of Nations four times, the FIFA U-20 World Cup once, and has participated in three consecutive FIFA World Cups dating back to 2006.[353] In the 2010 FIFA World Cup, Ghana became the third African country to reach the quarter-final stage of the World Cup after Cameroon in 1990 and Senegal in 2002.[354] Ghana national U-20 football team, known as the _Black Satellites_, is considered to be the feeder team for the Ghana national football team. Ghana is the first and only country on the Africa continent to be crowned FIFA U-20 World Cup Champions,[355] and two-time runners up in 1993 and 2001. The Ghana national U-17 football team known as the Black Starlets are two-time FIFA U-17 World Cup champions in 1991 and 1995, two-time runners up in 1993 and 1997.[356] Black_Stars_Goal_Celebration_(Ghana_national_football_team).jpg.]]
+Association football (or soccer) is the most spectated sport in Ghana and the national men's football team is known as the Black Stars, with the under-20 team known as the Black Satellites.[352] Ghana has won the African Cup of Nations four times, the FIFA U-20 World Cup once, and has participated in three consecutive FIFA World Cups dating back to 2006.[353] In the 2010 FIFA World Cup, Ghana became the third African country to reach the quarter-final stage of the World Cup after Cameroon in 1990 and Senegal in 2002.[354] Ghana national U-20 football team, known as the _Black Satellites_, is considered to be the feeder team for the Ghana national football team. Ghana is the first and only country on the Africa continent to be crowned FIFA U-20 World Cup Champions,[355] and two-time runners up in 1993 and 2001. The Ghana national U-17 football team known as the Black Starlets are two-time FIFA U-17 World Cup champions in 1991 and 1995, two-time runners up in 1993 and 1997.[356] .]]
 
 Ghanaian football teams Asante Kotoko SC and Accra Hearts of Oak SC are the 5th and 9th best football teams on the Africa continent and have won a total of five Africa continental association football and Confederation of African Football trophies; Ghanaian football club Asante Kotoko SC has been crowned two-time CAF Champions League winners in 1970, 1983 and five-time CAF Champions League runners up, and Ghanaian football club Accra Hearts of Oak SC has been crowned 2000 CAF Champions League winner and two-time CAF Champions League runners up, 2001 CAF Super Cup champions and 2004 CAF Confederation Cup champions.[357] The International Federation of Football History and Statistics crowned Asante Kotoko SC as the African club of the 20th century.[358] There are several club football teams in Ghana that play in the Ghana Premier League and Division One League, both administered by the Ghana Football Association.[359]
 
-2010_Opening_Ceremony_-_Ghana_entering.jpgs Olympic team at the opening ceremony of the 2010 Winter Olympics]] Ghana competed in the Winter Olympics in 2010 for the first time. Ghana qualified for the 2010 Winter Olympics, scoring 137.5 International Ski Federation points, within the qualifying range of 120–140 points.[360] Ghanaian skier, Kwame Nkrumah-Acheampong, nicknamed "The snow leopard", became the first Ghanaian to take part in the Winter Olympics, at the 2010 Winter Olympics held in Vancouver, British Columbia, Canada,[361] taking part in the slalom skiing.[362]
+s Olympic team at the opening ceremony of the 2010 Winter Olympics]] Ghana competed in the Winter Olympics in 2010 for the first time. Ghana qualified for the 2010 Winter Olympics, scoring 137.5 International Ski Federation points, within the qualifying range of 120–140 points.[360] Ghanaian skier, Kwame Nkrumah-Acheampong, nicknamed "The snow leopard", became the first Ghanaian to take part in the Winter Olympics, at the 2010 Winter Olympics held in Vancouver, British Columbia, Canada,[361] taking part in the slalom skiing.[362]
 
 Ghana finished 47th out of 102 participating nations, of whom 54 finished in the Alpine skiing slalom.[363][364] Kwame Nkrumah-Acheampong broke on the international skiing circuit, being the second black African skier to do so.[365]
 
@@ -604,7 +600,7 @@ Ghana will host the 2023 African Games in Accra.
 
 Cultural heritage and architecture
 
-Ghanés_Arquitectura_Postmoderna_y_Arquitectura_Futurista_(Ghanaian_Postmodern_Architecture_and_Futurist_Architecture).JPG]] Accra_Skyline.jpg There are two types of Ghanaian traditional construction: the series of adjacent buildings in an enclosure around a common are common and the traditional round huts with grass roof.[373] The round huts with grass roof architecture are situated in the northern regions of Ghana (Northern, Upper East and Upper West regions), while the series of adjacent buildings are in the southern regions of Ghana (Ashanti, Brong-Ahafo, Central, Eastern, Greater Accra and Western regions).[374]
+]] There are two types of Ghanaian traditional construction: the series of adjacent buildings in an enclosure around a common are common and the traditional round huts with grass roof.[373] The round huts with grass roof architecture are situated in the northern regions of Ghana (Northern, Upper East and Upper West regions), while the series of adjacent buildings are in the southern regions of Ghana (Ashanti, Brong-Ahafo, Central, Eastern, Greater Accra and Western regions).[374]
 
 Ghanaian postmodern architecture and high-tech architecture buildings are predominant in the Ghanaian southern regions, while the Ghanaian heritage sites are most evident by the more than thirty forts and castles built in Ghana. Some of these forts are Fort William and Fort Amsterdam. Ghana has museums that are situated inside castles, and two are situated inside a fort.[375] The Military Museum and the National Museum organise temporary exhibitions.[376]
 
@@ -613,9 +609,9 @@ Ghana has museums that show a in-depth look at specific Ghanaian regions, there 
 
 National symbols
 
-Tawny_Eagle_(Aquila_rapax)_1.jpg appears on the coat of arms of Ghana.
+appears on the coat of arms of Ghana.
 
-]] Blackstar.jpg
+]]
 
 ]]
 
@@ -626,7 +622,7 @@ The flag of Ghana consists of three horizontal bands (strips) of red (top), gold
 
 Tourism
 
-Surfers_Surfing_at_Busua_Beach_in_Western_region,_Ghana.jpgs surfing and big wave surfing at Busua Beach in Western region[384]]]
+s surfing and big wave surfing at Busua Beach in Western region[384]]]
 
 In 2011, 1,087,000 tourists visited Ghana.[385] Tourist arrivals to Ghana include South Americans, Asians, Europeans, and North Americans.[386] The attractions and major tourist destinations of Ghana include a warm, tropical climate year-round, diverse wildlife, waterfalls such as Kintampo waterfalls and the largest waterfall in west Africa, Wli waterfalls, Ghana's coastal palm-lined sandy beaches, caves, mountains, rivers, and reservoirs and lakes such as Lake Bosumtwi and the largest man-made lake in the world by surface area, Lake Volta, dozens of forts and castles, World Heritage Sites, nature reserves and national parks.[387]
 

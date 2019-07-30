@@ -9,7 +9,7 @@ The controversial book _The Education of a Christian Woman_ by Juan Luis Vives, 
 
 Early life
 
-Juan_de_Flandes_002.jpg thought to be of 11-year-old Catherine. She resembles her sister Joanna of Castile.]] Catherine was born at the Archbishop's Palace of Alcalá de Henares near Madrid, on the night of 16 December 1485. She was the youngest surviving child of King Ferdinand II of Aragon and Queen Isabella I of Castile. Catherine was quite short in stature with long red hair, wide blue eyes, a round face, and a fair complexion. She was descended, on her maternal side, from the English royal house; her great-grandmother Catherine of Lancaster, after whom she was named, and her great-great-grandmother Philippa of Lancaster were both daughters of John of Gaunt and granddaughters of Edward III of England. Consequently, she was third cousin of her father-in-law, Henry VII of England, and fourth cousin of her mother-in-law Elizabeth of York.
+thought to be of 11-year-old Catherine. She resembles her sister Joanna of Castile.]] Catherine was born at the Archbishop's Palace of Alcalá de Henares near Madrid, on the night of 16 December 1485. She was the youngest surviving child of King Ferdinand II of Aragon and Queen Isabella I of Castile. Catherine was quite short in stature with long red hair, wide blue eyes, a round face, and a fair complexion. She was descended, on her maternal side, from the English royal house; her great-grandmother Catherine of Lancaster, after whom she was named, and her great-great-grandmother Philippa of Lancaster were both daughters of John of Gaunt and granddaughters of Edward III of England. Consequently, she was third cousin of her father-in-law, Henry VII of England, and fourth cousin of her mother-in-law Elizabeth of York.
 
 Catherine was educated by a tutor, Alessandro Geraldini, who was a clerk in Holy Orders. She studied arithmetic, canon and civil law, classical literature, genealogy and heraldry, history, philosophy, religion, and theology. She had a strong religious upbringing and developed her Roman Catholic faith that would play a major role in later life. She learned to speak, read and write in Spanish and Latin, and spoke French and Greek. She was also taught domestic skills, such as cooking, dancing, drawing, embroidery, good manners, lace-making, music, needlepoint, sewing, spinning, and weaving. Scholar Erasmus later said that Catherine "loved good literature which she had studied with success since childhood".
 
@@ -20,7 +20,7 @@ When Catherine of Aragon travelled to London, she brought a group of her African
 
 As wife and widow of Arthur
 
-Michel_Sittow_002.jpg c. 1514 or Catherine of Aragon c. 1502, by Michael Sittow. Kunsthistorisches Museum, Vienna.[1]]]
+c. 1514 or Catherine of Aragon c. 1502, by Michael Sittow. Kunsthistorisches Museum, Vienna.[1]]]
 
 Then-15-year-old Catherine met Arthur on 4 November 1501 at Dogmersfield in Hampshire. Little is known about their first impressions of each other, but Arthur did write to his parents-in-law that he would be "a true and loving husband" and told his parents that he was immensely happy to "behold the face of his lovely bride". The couple had corresponded in Latin, but found that they could not understand each other's spoken conversation, because they had learned different Latin pronunciations. Ten days later, on 14 November 1501, they were married at Old St. Paul's Cathedral. A dowry of 200,000 ducats had been agreed, and half was paid shortly after the marriage.[2]
 
@@ -33,7 +33,7 @@ Marriage to Arthur's brother depended on the Pope granting a dispensation becaus
 
 Queenship
 
-Henry_VIII_Catherine_of_Aragon_coronation_woodcut.jpg of Henry VIII of England and Catherine of Aragon showing their heraldic badges, the Tudor Rose and the Pomegranate of Granada]]
+of Henry VIII of England and Catherine of Aragon showing their heraldic badges, the Tudor Rose and the Pomegranate of Granada]]
 
 Wedding
 
@@ -45,7 +45,7 @@ On Saturday 23 June 1509, the traditional eve-of-coronation procession to Westmi
 
 Pregnancies and children
 
-Catharineofaragonengland.jpg Catherine was pregnant seven times altogether:[5]
+Catherine was pregnant seven times altogether:[5]
 
 -   In August 1509, two months after the wedding, Catherine's first pregnancy was announced. On 31 January 1510, she miscarried a girl.
 -   In May 1510, four months after the loss of her first child, Catherine announced her second pregnancy. A son, Henry, Duke of Cornwall, was born on 1 January 1511. In his honour, guns were fired from the Tower of London and the city bells were rung, beacons were lit and free wine was distributed to all the population. Five days after his birth, on 6 January 1511, the prince was christened at Richmond Palace, his godparents being the Archbishop of Canterbury, the Earl of Surrey and the Countess of Devon. On 22 February 1511, after only 52 days of life, the young prince died suddenly. It was said that he died of an intestinal complaint.
@@ -57,7 +57,7 @@ Catharineofaragonengland.jpg Catherine was pregnant seven times altogether:[5]
 
 Influence
 
-Enrique_VIII_de_Inglaterra,_por_Hans_Holbein_el_Joven.jpg circa 1540]]
+circa 1540]]
 
 On 11 June 1513, Henry appointed Catherine Regent in England with the titles "Governor of the Realm and Captain General," while he went to France on a military campaign.[6] When Louis d'Orléans, Duke of Longueville, was captured at Thérouanne, Henry sent him to stay in Catherine's household. She wrote to Wolsey that she and her council would prefer the Duke to stay in the Tower of London as the Scots were "so busy as they now be" and she added her prayers for "God to sende us as good lukke against the Scotts, as the King hath ther." The war with Scotland occupied her subjects, and she was "horrible busy with making standards, banners, and badges" at Richmond Palace. The Scots invaded and on 3 September 1513, she ordered Thomas Lovell to raise an army in the midland counties.
 
@@ -70,13 +70,13 @@ In 1520, Catherine's nephew, the Holy Roman Emperor Charles V, paid a state visi
 
 The King's great matter
 
-Catherine_Aragon_Henri_VIII_by_Henry_Nelson_ONeil.jpg (1846–48, Birmingham Museums)]]
+(1846–48, Birmingham Museums)]]
 
 In 1525, Henry VIII became enamoured of Anne Boleyn, a lady-in-waiting to Queen Catherine; Anne was 11 years younger than Henry. Henry began pursuing her; Catherine was no longer able to bear children by this time. Henry began to believe that his marriage was cursed and sought confirmation from the Bible, which he interpreted to say that if a man marries his brother's wife, the couple will be childless.[9] Even if her marriage to Arthur had not been consummated (and Catherine would insist to her dying day that she had come to Henry's bed a virgin), Henry's interpretation of that biblical passage meant that their marriage had been wrong in the eyes of God. Whether the Pope at the time of Henry and Catherine's marriage had the right to overrule Henry's claimed scriptural impediment would become a hot topic in Henry's campaign to wrest an annulment from the present Pope. It is possible that the idea of annulment had been suggested to Henry much earlier than this, and is highly probable that it was motivated by his desire for a son. Before Henry's father ascended the throne, England was beset by civil warfare over rival claims to the English crown, and Henry may have wanted to avoid a similar uncertainty over the succession.
 
 It soon became the one absorbing object of Henry's desires to secure an annulment. Catherine was defiant when it was suggested that she quietly retire to a nunnery, saying: "God never called me to a nunnery. I am the King's true and legitimate wife". He set his hopes upon an appeal to the Holy See, acting independently of Cardinal Thomas Wolsey, whom he told nothing of his plans. William Knight, the King's secretary, was sent to Pope Clement VII to sue for an annulment, on the grounds that the dispensing bull of Pope Julius II was obtained by false pretenses.
 
-As the Pope was, at that time, the prisoner of Catherine's nephew, Emperor Charles V, following the Sack of Rome in May 1527, Knight had difficulty in obtaining access to him. In the end, Henry's envoy had to return without accomplishing much. Henry now had no choice but to put this great matter into the hands of Wolsey, who did all he could to secure a decision in Henry's favour.[10] Mary_I_by_Master_John.jpg'']] Wolsey went so far as to convene an ecclesiastical court in England with a representative of the Pope presiding, and Henry and Catherine herself in attendance. The Pope had no intention of allowing a decision to be reached in England, and his legate was recalled. (How far the pope was influenced by Charles V is difficult to say, but it is clear Henry saw that the Pope was unlikely to annul his marriage to the Emperor's aunt.) The Pope forbade Henry to marry again before a decision was given in Rome. Wolsey had failed and was dismissed from public office in 1529. Wolsey then began a secret plot to have Anne Boleyn forced into exile and began communicating with the Pope to that end. When this was discovered, Henry ordered Wolsey's arrest and, had he not been terminally ill and died in 1530, he might have been executed for treason. A year later, Catherine was banished from court, and her old rooms were given to Anne Boleyn. Catherine wrote in a letter to Charles V in 1531:
+As the Pope was, at that time, the prisoner of Catherine's nephew, Emperor Charles V, following the Sack of Rome in May 1527, Knight had difficulty in obtaining access to him. In the end, Henry's envoy had to return without accomplishing much. Henry now had no choice but to put this great matter into the hands of Wolsey, who did all he could to secure a decision in Henry's favour.[10] '']] Wolsey went so far as to convene an ecclesiastical court in England with a representative of the Pope presiding, and Henry and Catherine herself in attendance. The Pope had no intention of allowing a decision to be reached in England, and his legate was recalled. (How far the pope was influenced by Charles V is difficult to say, but it is clear Henry saw that the Pope was unlikely to annul his marriage to the Emperor's aunt.) The Pope forbade Henry to marry again before a decision was given in Rome. Wolsey had failed and was dismissed from public office in 1529. Wolsey then began a secret plot to have Anne Boleyn forced into exile and began communicating with the Pope to that end. When this was discovered, Henry ordered Wolsey's arrest and, had he not been terminally ill and died in 1530, he might have been executed for treason. A year later, Catherine was banished from court, and her old rooms were given to Anne Boleyn. Catherine wrote in a letter to Charles V in 1531:
 
   My tribulations are so great, my life so disturbed by the plans daily invented to further the King's wicked intention, the surprises which the King gives me, with certain persons of his council, are so mortal, and my treatment is what God knows, that it is enough to shorten ten lives, much more mine.[11][12]
 
@@ -104,7 +104,7 @@ Catherine was buried in Peterborough Cathedral with the ceremony due to her posi
 
 Faith
 
-Catherine_of_Aragon_as_Mary_Magdalene._jpg, _Mary Magdalene_, probably using Catherine as model]] Catherine was a member of the Third Order of Saint Francis and she was punctilious in her religious obligations in the Order, integrating without demur her necessary duties as queen with her personal piety. After her divorce, she was quoted "I would rather be a poor beggar’s wife and be sure of heaven, than queen of all the world and stand in doubt thereof by reason of my own consent."[20]
+, _Mary Magdalene_, probably using Catherine as model]] Catherine was a member of the Third Order of Saint Francis and she was punctilious in her religious obligations in the Order, integrating without demur her necessary duties as queen with her personal piety. After her divorce, she was quoted "I would rather be a poor beggar’s wife and be sure of heaven, than queen of all the world and stand in doubt thereof by reason of my own consent."[20]
 
 The outward celebration of saints and holy relics formed no major part of her personal devotions,[21] which she rather expressed in the Mass, prayer, confession and penance. Privately, however, she was aware of what she identified as the shortcomings of the papacy and church officialdom.[22] Her doubts about Church improprieties certainly did not extend so far as to support the allegations of corruption made public by Martin Luther in Wittenberg in 1517, which were soon to have such far-reaching consequences in initiating the Protestant Reformation.
 
@@ -118,7 +118,7 @@ Catherine was of a very fair complexion, had blue eyes, and had a hair colour th
 
 Legacy, memory, and historiography
 
-Alcalá_de_Henares,_Monumento_a_Catalina_de_Aragón_(M._Peinado_24-05-2008).jpg]]
+]]
 
 The controversial book "The Education of Christian Women" by Juan Luis Vives, which claimed women have the right to an education, was dedicated to and commissioned by her. Such was Catherine's impression on people, that even her enemy, Thomas Cromwell, said of her "If not for her sex, she could have defied all the heroes of History." She successfully appealed for the lives of the rebels involved in the Evil May Day for the sake of their families. Furthermore, Catherine won widespread admiration by starting an extensive programme for the relief of the poor. She was also a patron of Renaissance humanism, and a friend of the great scholars Erasmus of Rotterdam and Saint Thomas More. Some saw her as a martyr.[24][25]
 
@@ -128,7 +128,7 @@ Her tomb in Peterborough Cathedral can be seen and there is hardly ever a time w
 
 In the 20th century, George V's wife, Mary of Teck, had her grave upgraded and there are now banners there denoting Catherine as a Queen of England. Every year at Peterborough Cathedral there is a service in her memory. There are processions, prayers, and various events in the Cathedral including processions to Catherine's grave in which candles, pomegranates, flowers and other offerings are placed on her grave. On the service commemorating the 470th anniversary of her death, the Spanish Ambassador to the United Kingdom attended. During the 2010 service a rendition of Catherine of Aragon's speech before the Legatine court was read by Jane Lapotaire. There is a statue of her in her birthplace of Alcalá de Henares, as a young woman holding a book and a rose.[26]
 
-Catherine has remained a popular biographical subject to the present day. The American historian Garrett Mattingly was the author of a popular biography _Katherine of Aragon_ in 1942. In 1966, Catherine and her many supporters at court were the subjects of _Catherine of Aragon and her Friends_, a biography by John E. Paul. In 1967, Mary M. Luke wrote the first book of her Tudor trilogy, _Catherine the Queen_ which portrayed her and the controversial era of English history through which she lived. Peterborough_Katherine_of_Aragon.JPG]] In recent years, the historian Alison Weir covered her life extensively in her biography _The Six Wives of Henry VIII_, first published in 1991. Antonia Fraser did the same in her own 1992 biography of the same title; as did the British historian David Starkey in his 2003 book _Six Wives: The Queens of Henry VIII_. Giles Tremlett's biography _Catherine of Aragon: The Spanish Queen of Henry VIII_ came out in 2010, and Julia Fox's 2011 dual biography _Sister Queens: The Noble, Tragic Lives of Katherine of Aragon and Juana, Queen of Castile_.
+Catherine has remained a popular biographical subject to the present day. The American historian Garrett Mattingly was the author of a popular biography _Katherine of Aragon_ in 1942. In 1966, Catherine and her many supporters at court were the subjects of _Catherine of Aragon and her Friends_, a biography by John E. Paul. In 1967, Mary M. Luke wrote the first book of her Tudor trilogy, _Catherine the Queen_ which portrayed her and the controversial era of English history through which she lived. ]] In recent years, the historian Alison Weir covered her life extensively in her biography _The Six Wives of Henry VIII_, first published in 1991. Antonia Fraser did the same in her own 1992 biography of the same title; as did the British historian David Starkey in his 2003 book _Six Wives: The Queens of Henry VIII_. Giles Tremlett's biography _Catherine of Aragon: The Spanish Queen of Henry VIII_ came out in 2010, and Julia Fox's 2011 dual biography _Sister Queens: The Noble, Tragic Lives of Katherine of Aragon and Juana, Queen of Castile_.
 
 Places and statues
 
@@ -140,8 +140,6 @@ Places and statues
 Spelling of her name
 
 Her baptismal name was "Catalina", but "Katherine" was soon the accepted form in England after her marriage to Arthur.[27] Catherine herself signed her name "Katherine", "Katherina", "Katharine" and sometimes "Katharina". In a letter to her, Arthur, her husband, addressed her as "Princess Katerine". Her daughter Queen Mary I called her "Quene Kateryn", in her will. Rarely were names, particularly first names, written in an exact manner during the sixteenth century and it is evident from Catherine's own letters that she endorsed different variations. Loveknots built into his various palaces by her husband, Henry VIII, display the initials "H & K", as do other items belonging to Henry and Catherine, including gold goblets, a gold salt cellar, basins of gold, and candlesticks. Her tomb in Peterborough Cathedral is marked "Katharine Queen of England".[28]
-
-Coat_of_Arms_of_Catherine_of_Aragon.svg
 
 
 In art and media
@@ -160,7 +158,7 @@ Music and rhymes
 
 Books
 
-Dame_Ellen_Terry_as_Katherine_of_Aragon_Shakespeare_Henry_VIII.jpg as Catherine of Aragon]]
+as Catherine of Aragon]]
 
 Catherine is the main character in:
 

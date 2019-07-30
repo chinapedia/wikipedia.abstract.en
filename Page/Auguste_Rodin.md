@@ -11,7 +11,7 @@ Formative years
 
 Rodin was born in 1840 into a working-class family in Paris, the second child of Marie Cheffer and Jean-Baptiste Rodin, who was a police department clerk.[4] He was largely self-educated,[5] and began to draw at age 10. Between ages 14 and 17, he attended the _Petite École_, a school specializing in art and mathematics where he studied drawing and painting . His drawing teacher Horace Lecoq de Boisbaudran believed in first developing the personality of his students so that they observed with their own eyes and drew from their recollections, and Rodin expressed appreciation for his teacher much later in life.[6] It was at Petite École that he met Jules Dalou and Alphonse Legros.
 
-Auguste_Rodin,_Paris,_c1862_by_Charles_Hippolyte_Aubry.jpg In 1857, Rodin submitted a clay model of a companion to the École des Beaux-Arts in an attempt to win entrance; he did not succeed, and two further applications were also denied.[7] Entrance requirements were not particularly high at the _Grande École_,[8] so the rejections were considerable setbacks. Rodin's inability to gain entrance may have been due to the judges' Neoclassical tastes, while Rodin had been schooled in light, 18th-century sculpture. He left the _Petite École_ in 1857 and earned a living as a craftsman and ornamenter for most of the next two decades, producing decorative objects and architectural embellishments.
+In 1857, Rodin submitted a clay model of a companion to the École des Beaux-Arts in an attempt to win entrance; he did not succeed, and two further applications were also denied.[7] Entrance requirements were not particularly high at the _Grande École_,[8] so the rejections were considerable setbacks. Rodin's inability to gain entrance may have been due to the judges' Neoclassical tastes, while Rodin had been schooled in light, 18th-century sculpture. He left the _Petite École_ in 1857 and earned a living as a craftsman and ornamenter for most of the next two decades, producing decorative objects and architectural embellishments.
 
 Rodin's sister Maria, two years his senior, died of peritonitis in a convent in 1862, and Rodin was anguished with guilt because he had introduced her to an unfaithful suitor. He turned away from art and joined the Catholic order of the Congregation of the Blessed Sacrament. Saint Peter Julian Eymard, founder and head of the congregation, recognized Rodin's talent and sensed his lack of suitability for the order, so he encouraged Rodin to continue with his sculpture. Rodin returned to work as a decorator while taking classes with animal sculptor Antoine-Louis Barye. The teacher's attention to detail and his finely rendered musculature of animals in motion significantly influenced Rodin.[9]
 
@@ -21,13 +21,13 @@ Rodin planned to stay in Belgium a few months, but he spent the next six years o
 
 Artistic independence
 
-Auguste_Rodin,_1884.jpg, 1884]]
+, 1884]]
 
 Rose Beuret and Rodin returned to Paris in 1877, moving into a small flat on the Left Bank. Misfortune surrounded Rodin: his mother, who had wanted to see her son marry, was dead, and his father was blind and senile, cared for by Rodin's sister-in-law, Aunt Thérèse. Rodin's eleven-year-old son Auguste, possibly developmentally delayed, was also in the ever-helpful Thérèse's care. Rodin had essentially abandoned his son for six years,[17] and would have a very limited relationship with him throughout his life. Father and son now joined the couple in their flat, with Rose as caretaker. The charges of fakery surrounding _The Age of Bronze_ continued. Rodin increasingly sought more soothing female companionship in Paris, and Rose stayed in the background.
 
 Rodin earned his living collaborating with more established sculptors on public commissions, primarily memorials and neo-baroque architectural pieces in the style of Carpeaux.[18] In competitions for commissions he submitted models of Denis Diderot, Jean-Jacques Rousseau, and Lazare Carnot, all to no avail. On his own time, he worked on studies leading to the creation of his next important work, _St. John the Baptist Preaching_.
 
-Camille_Claudel.jpg (1864–1943)]] August_rodin_dornac_1898.jpg
+(1864–1943)]]
 
 In 1880, Carrier-Belleuse – now art director of the Sèvres national porcelain factory – offered Rodin a part-time position as a designer. The offer was in part a gesture of reconciliation, and Rodin accepted. That part of Rodin which appreciated 18th-century tastes was aroused, and he immersed himself in designs for vases and table ornaments that brought the factory renown across Europe.[19]
 
@@ -46,7 +46,7 @@ Claudel and Rodin parted in 1898.[23] Claudel suffered an alleged nervous breakd
 
 Works
 
-Rodin_The_bronze_age.jpg'' (1877).]] Brooklyn_Museum_-_M._Auguste_Rodin_-_Edward_Steichen.jpg, ca. 1911]]
+'' (1877).]] , ca. 1911]]
 
 In 1864, Rodin submitted his first sculpture for exhibition, _The Man with the Broken Nose_, to the Paris Salon. The subject was an elderly neighbourhood street porter. The unconventional bronze piece was not a traditional bust, but instead the head was "broken off" at the neck, the nose was flattened and crooked, and the back of the head was absent, having fallen off the clay model in an accident. The work emphasized texture and the emotional state of the subject; it illustrated the "unfinishedness" that would characterize many of Rodin's later sculptures.[25] The Salon rejected the piece.
 
@@ -58,7 +58,7 @@ In 1877, the work debuted in Brussels and then was shown at the Paris Salon. The
 
 Its mastery of form, light, and shadow made the work look so realistic that Rodin was accused of _surmoulage_ – having taken a cast from a living model. Rodin vigorously denied the charges, writing to newspapers and having photographs taken of the model to prove how the sculpture differed. He demanded an inquiry and was eventually exonerated by a committee of sculptors. Leaving aside the false charges, the piece polarized critics. It had barely won acceptance for display at the Paris Salon, and criticism likened it to "a statue of a sleepwalker" and called it "an astonishingly accurate copy of a low type".[29] Others rallied to defend the piece and Rodin's integrity. The government minister Turquet admired the piece, and _The Age of Bronze_ was purchased by the state for 2,200 francs – what it had cost Rodin to have it cast in bronze.[30]
 
-St-John-the-Baptist-Preaching.jpg A second male nude, _St. John the Baptist Preaching_, was completed in 1878. Rodin sought to avoid another charge of _surmoulage_ by making the statue larger than life: _St. John_ stands almost 6 feet 7 inches (2 m). While _The Age of Bronze_ is statically posed, _St. John_ gestures and seems to move toward the viewer. The effect of walking is achieved despite the figure having both feet firmly on the ground – a technical achievement that was lost on most contemporary critics.[31] Rodin chose this contradictory position to, in his words, "display simultaneously...views of an object which in fact can be seen only successively".[32]
+A second male nude, _St. John the Baptist Preaching_, was completed in 1878. Rodin sought to avoid another charge of _surmoulage_ by making the statue larger than life: _St. John_ stands almost 6 feet 7 inches (2 m). While _The Age of Bronze_ is statically posed, _St. John_ gestures and seems to move toward the viewer. The effect of walking is achieved despite the figure having both feet firmly on the ground – a technical achievement that was lost on most contemporary critics.[31] Rodin chose this contradictory position to, in his words, "display simultaneously...views of an object which in fact can be seen only successively".[32]
 
 Despite the title, _St. John the Baptist Preaching_ did not have an obviously religious theme. The model, an Italian peasant who presented himself at Rodin's studio, possessed an idiosyncratic sense of movement that Rodin felt compelled to capture. Rodin thought of John the Baptist, and carried that association into the title of the work.[33] In 1880, Rodin submitted the sculpture to the Paris Salon. Critics were still mostly dismissive of his work, but the piece finished third in the Salon's sculpture category.[34]
 
@@ -66,7 +66,7 @@ Regardless of the immediate receptions of _St. John_ and _The Age of Bronze_, Ro
 
 _The Gates of Hell_
 
-Zürich_-_Kunsthaus_-_Rodin's_Höllentor_IMG_7384_ShiftN.jpg'' (unfinished), Kunsthaus Zürich]]
+'' (unfinished), Kunsthaus Zürich]]
 
 A commission to create a portal for Paris' planned Museum of Decorative Arts was awarded to Rodin in 1880.[35] Although the museum was never built, Rodin worked throughout his life on _The Gates of Hell_, a monumental sculptural group depicting scenes from Dante's _Inferno_ in high relief. Often lacking a clear conception of his major works, Rodin compensated with hard work and a striving for perfection.[36]
 
@@ -74,11 +74,11 @@ He conceived _The Gates_ with the _surmoulage_ controversy still in mind: "...I 
 
 _The Gates of Hell_ comprised 186 figures in its final form.[39] Many of Rodin's best-known sculptures started as designs of figures for this composition,[40] such as _The Thinker_, _The Three Shades_, and _The Kiss_, and were only later presented as separate and independent works. Other well-known works derived from _The Gates_ are _Ugolino_, _Fallen Caryatid Carrying her Stone_, _Fugit Amor_, _She Who Was Once the Helmet-Maker's Beautiful Wife_, _The Falling Man_, and _The Prodigal Son_.
 
-The_Thinker,_Rodin.jpg'' (1879–1889) is among the most recognized works in all of sculpture.]] _The Thinker_ (originally titled _The Poet_, after Dante) was to become one of the most well-known sculptures in the world. The original was a high bronze piece created between 1879 and 1889, designed for the _Gates_' lintel, from which the figure would gaze down upon Hell. While _The Thinker_ most obviously characterizes Dante, aspects of the Biblical Adam, the mythological Prometheus,[41] and Rodin himself have been ascribed to him.[42][43] Other observers de-emphasize the apparent intellectual theme of _The Thinker_, stressing the figure's rough physicality and the emotional tension emanating from it.[44]
+'' (1879–1889) is among the most recognized works in all of sculpture.]] _The Thinker_ (originally titled _The Poet_, after Dante) was to become one of the most well-known sculptures in the world. The original was a high bronze piece created between 1879 and 1889, designed for the _Gates_' lintel, from which the figure would gaze down upon Hell. While _The Thinker_ most obviously characterizes Dante, aspects of the Biblical Adam, the mythological Prometheus,[41] and Rodin himself have been ascribed to him.[42][43] Other observers de-emphasize the apparent intellectual theme of _The Thinker_, stressing the figure's rough physicality and the emotional tension emanating from it.[44]
 
 _The Burghers of Calais_
 
-The.burg.of.calais.london.arp.750pix.jpg'' (1884–ca. 1889) in Victoria Tower Gardens, London, England.]] The town of Calais had contemplated a historical monument for decades when Rodin learned of the project. He pursued the commission, interested in the medieval motif and patriotic theme. The mayor of Calais was tempted to hire Rodin on the spot upon visiting his studio, and soon the memorial was approved, with Rodin as its architect. It would commemorate the six townspeople of Calais who offered their lives to save their fellow citizens.
+'' (1884–ca. 1889) in Victoria Tower Gardens, London, England.]] The town of Calais had contemplated a historical monument for decades when Rodin learned of the project. He pursued the commission, interested in the medieval motif and patriotic theme. The mayor of Calais was tempted to hire Rodin on the spot upon visiting his studio, and soon the memorial was approved, with Rodin as its architect. It would commemorate the six townspeople of Calais who offered their lives to save their fellow citizens.
 
 During the Hundred Years' War, the army of King Edward III besieged Calais, and Edward ordered that the town's population be killed _en masse_. He agreed to spare them if six of the principal citizens would come to him prepared to die, bareheaded and barefooted and with ropes around their necks. When they came, he ordered that they be executed, but pardoned them when his queen, Philippa of Hainault, begged him to spare their lives. _The Burghers of Calais_ depicts the men as they are leaving for the king's camp, carrying keys to the town's gates and citadel.
 
@@ -90,7 +90,7 @@ The committee was incensed by the untraditional proposal, but Rodin would not yi
 
 Commissions and controversy
 
-Monument_to_Balzac.jpg'' (1891–1898) exposed in Jardin du Musée Rodin. The same statue is used for the monument in Paris]] Auguste_Rodin_portrait_middle_aged.jpg Auguste_Rodin_-_Monument_to_Victor_Hugo.jpg at the studio of his assistant Henri Lebossé in 1896]] Statue_of_BALZAC,_made_by_RODIN,_Paris.jpg'' in Paris]]
+'' (1891–1898) exposed in Jardin du Musée Rodin. The same statue is used for the monument in Paris]] at the studio of his assistant Henri Lebossé in 1896]] '' in Paris]]
 
 Commissioned to create a monument to French writer Victor Hugo in 1889, Rodin dealt extensively with the subject of _artist and muse_. Like many of Rodin's public commissions, _Monument to Victor Hugo_ was met with resistance because it did not fit conventional expectations. Commenting on Rodin's monument to Victor Hugo, _The Times_ in 1909 expressed that "there is some show of reason in the complaint that [Rodin's] conceptions are sometimes unsuited to his medium, and that in such cases they overstrain his vast technical powers".[51] The 1897 plaster model was not cast in bronze until 1964.
 
@@ -102,7 +102,7 @@ The monument had its supporters in Rodin's day; a manifesto defending him was si
 
 Other works
 
-Auguste_Rodin_par_Camille_Claudel_(musée_Rodin)_(8026456955).jpg]] The popularity of Rodin's most famous sculptures tends to obscure his total creative output. A prolific artist, he created thousands of busts, figures, and sculptural fragments over more than five decades. He painted in oils (especially in his thirties) and in watercolors. The Musée Rodin holds 7,000 of his drawings and prints, in chalk and charcoal, and thirteen vigorous drypoints.[59][60] He also produced a single lithograph.
+]] The popularity of Rodin's most famous sculptures tends to obscure his total creative output. A prolific artist, he created thousands of busts, figures, and sculptural fragments over more than five decades. He painted in oils (especially in his thirties) and in watercolors. The Musée Rodin holds 7,000 of his drawings and prints, in chalk and charcoal, and thirteen vigorous drypoints.[59][60] He also produced a single lithograph.
 
 Portraiture was an important component of Rodin's oeuvre, helping him to win acceptance and financial independence.[61] His first sculpture was a bust of his father in 1860, and he produced at least 56 portraits between 1877 and his death in 1917.[62] Early subjects included fellow sculptor Jules Dalou (1883) and companion Camille Claudel (1884).
 
@@ -113,7 +113,7 @@ His undated drawing _Study of a Woman Nude, Standing, Arms Raised, Hands Crossed
 
 Aesthetic
 
-Rodin_p1070095.jpg'' (1877–78)]]
+'' (1877–78)]]
 
 Rodin was a naturalist, less concerned with monumental expression than with character and emotion.[65] Departing with centuries of tradition, he turned away from the idealism of the Greeks, and the decorative beauty of the Baroque and neo-Baroque movements. His sculpture emphasized the individual and the concreteness of flesh, and suggested emotion through detailed, textured surfaces, and the interplay of light and shadow. To a greater degree than his contemporaries, Rodin believed that an individual's character was revealed by his physical features.[66]
 
@@ -125,7 +125,7 @@ Rodin saw suffering and conflict as hallmarks of modern art. "Nothing, really, i
 
 Method
 
-Rodin_The_Shade.jpg, Atlanta]] Age_of_bronze_plaster.jpg of _The Age of Bronze_]]
+, Atlanta]] of _The Age of Bronze_]]
 
 Instead of copying traditional academic postures, Rodin preferred his models to move naturally around his studio (despite their nakedness).[72] The sculptor often made quick sketches in clay that were later fine-tuned, cast in plaster, and cast in bronze or carved from marble. Rodin's focus was on the handling of clay.[73]
 
@@ -144,7 +144,7 @@ Without finessing the join between upper and lower, between torso and legs, Rodi
 
 Later years (1900–1917)
 
-Legros_-buste_de_Rodin_(dessin).jpg]]
+]]
 
 By 1900, Rodin's artistic reputation was entrenched. Gaining exposure from a pavilion of his artwork set up near the 1900 World's Fair (_Exposition Universelle_) in Paris, he received requests to make busts of prominent people internationally,[76] while his assistants at the atelier produced duplicates of his works. His income from portrait commissions alone totaled probably 200,000 francs a year.[77] As Rodin's fame grew, he attracted many followers, including the German poet Rainer Maria Rilke, and authors Octave Mirbeau, Joris-Karl Huysmans, and Oscar Wilde.[78]
 
@@ -152,7 +152,7 @@ Rilke stayed with Rodin in 1905 and 1906, and did administrative work for him; h
 
 United States
 
-Auguste_Rodin,_1881-ca.1899,_Éve,_bronze,_Jardin_des_Tuilleries,_Paris._DSC09221.jpg'', 1881–ca. 1899 bronze, Jardin des Tuileries, Paris]] While Rodin was beginning to be accepted in France by the time of _The Burghers of Calais_, he had not yet conquered the American market. Because of his technique and the frankness of some of his work, he did not have an easy time selling his work to American industrialists. However, he came to know Sarah Tyson Hallowell (1846–1924), a curator from Chicago who visited Paris to arrange exhibitions at the large Interstate Expositions of the 1870s and 1880s. Hallowell was not only a curator but an adviser and a facilitator who was trusted by a number of prominent American collectors to suggest works for their collections, the most prominent of these being the Chicago hotelier Potter Palmer and his wife, Bertha Palmer (1849–1918).
+'', 1881–ca. 1899 bronze, Jardin des Tuileries, Paris]] While Rodin was beginning to be accepted in France by the time of _The Burghers of Calais_, he had not yet conquered the American market. Because of his technique and the frankness of some of his work, he did not have an easy time selling his work to American industrialists. However, he came to know Sarah Tyson Hallowell (1846–1924), a curator from Chicago who visited Paris to arrange exhibitions at the large Interstate Expositions of the 1870s and 1880s. Hallowell was not only a curator but an adviser and a facilitator who was trusted by a number of prominent American collectors to suggest works for their collections, the most prominent of these being the Chicago hotelier Potter Palmer and his wife, Bertha Palmer (1849–1918).
 
 The next opportunity for Rodin in America was the 1893 Chicago World's Fair.[81] Hallowell wanted to help promote Rodin's work and he suggested a solo exhibition, which she wrote him was _beaucoup moins beau que l'original_ but impossible, outside the rules. Instead, she suggested he send a number of works for her loan exhibition of French art from American collections and she told him she would list them as being part of an American collection.[82] Rodin sent Hallowell three works, _Cupid and Psyche_, _Sphinx_ and _Andromeda_. All nudes, these works provoked great controversy and were ultimately hidden behind a drape with special permission given for viewers to see them.[83]
 
@@ -162,8 +162,6 @@ Other collectors soon followed including the tastemaking Potter Palmers of Chica
 
 Great Britain
 
-Bundesarchiv_Bild_183-R38535,_Auguste_Rodin.jpg
-
 After the start of the 20th century, Rodin was a regular visitor to Great Britain, where he developed a loyal following by the beginning of the First World War. He first visited England in 1881, where his friend, the artist Alphonse Legros, had introduced him to the poet William Ernest Henley. With his personal connections and enthusiasm for Rodin's art, Henley was most responsible for Rodin's reception in Britain.[88] (Rodin later returned the favor by sculpting a bust of Henley that was used as the frontispiece to Henley's collected works and, after his death, on his monument in London.)[89]
 
 Through Henley, Rodin met Robert Louis Stevenson and Robert Browning, in whom he found further support.[90] Encouraged by the enthusiasm of British artists, students, and high society for his art, Rodin donated a significant selection of his works to the nation in 1914.
@@ -172,14 +170,14 @@ After the revitalization of the Société Nationale des Beaux-Arts in 1890, Rodi
 
 During his later creative years, Rodin's work turned increasingly toward the female form, and themes of more overt masculinity and femininity.[93] He concentrated on small dance studies, and produced numerous erotic drawings, sketched in a loose way, without taking his pencil from the paper or his eyes from the model. Rodin met American dancer Isadora Duncan in 1900, attempted to seduce her,[94] and the next year sketched studies of her and her students. In July 1906, Rodin was also enchanted by dancers from the Royal Ballet of Cambodia, and produced some of his most famous drawings from the experience.[95]
 
-Musée_Rodin_de_Meudon_04.jpg Fifty-three years into their relationship, Rodin married Rose Beuret. They married on the 29th of January 1917, and Beuret died two weeks later, on 16 February.[96] Rodin was ill that year; in January, he suffered weakness from influenza,[97] and on 16 November his physician announced that "congestion of the lungs has caused great weakness. The patient's condition is grave."[98] Rodin died the next day, age 77, at his villa[99] in Meudon, Île-de-France, on the outskirts of Paris.[100]
+Fifty-three years into their relationship, Rodin married Rose Beuret. They married on the 29th of January 1917, and Beuret died two weeks later, on 16 February.[96] Rodin was ill that year; in January, he suffered weakness from influenza,[97] and on 16 November his physician announced that "congestion of the lungs has caused great weakness. The patient's condition is grave."[98] Rodin died the next day, age 77, at his villa[99] in Meudon, Île-de-France, on the outskirts of Paris.[100]
 
 A cast of _The Thinker_ was placed next to his tomb in Meudon; it was Rodin's wish that the figure served as his headstone and epitaph.[101] In 1923, Marcell Tirel, Rodin's secretary, published a book alleging that Rodin's death was largely due to cold, and the fact that he had no heat at Meudon. Rodin requested permission to stay in the Hotel Biron, a museum of his works, but the director of the museum refused to let him stay there.[102][103]
 
 
 Legacy
 
-Kiss_Rodin.jpg_, 1889]] Auguste_Rodin_signature.jpg_]] Musee_Rodin.jpg]] Philly042107-009-RodinMuseum.jpg, Philadelphia, Pennsylvania]]
+_, 1889]] _]] ]] , Philadelphia, Pennsylvania]]
 
 Rodin willed to the French state his studio and the right to make casts from his plasters. Because he encouraged the edition of his sculpted work, Rodin's sculptures are represented in many public and private collections. The Musée Rodin was founded in 1916 and opened in 1919 at the Hôtel Biron, where Rodin had lived, and it holds the largest Rodin collection, with more than 6,000 sculptures and 7,000 works on paper. The French order _Légion d'honneur_ made him a Commander,[104] and he received an honorary doctorate from the University of Oxford.
 

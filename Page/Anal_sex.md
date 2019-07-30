@@ -1,4 +1,4 @@
-Wiki-analsex.png ANAL SEX or ANAL INTERCOURSE is generally the insertion and thrusting of the erect penis into a person's anus, or anus and rectum, for sexual pleasure.[1][2][3] Other forms of anal sex include fingering, the use of sex toys for anal penetration, oral sex performed on the anus (anilingus), and pegging.[4][5] Although _anal sex_ most commonly means penileanal penetration,[6][7][8] sources sometimes use _anal intercourse_ to exclusively denote penileanal penetration, and _anal sex_ to denote any form of anal sexual activity, especially between pairings as opposed to anal masturbation.[9][10]
+ANAL SEX or ANAL INTERCOURSE is generally the insertion and thrusting of the erect penis into a person's anus, or anus and rectum, for sexual pleasure.[1][2][3] Other forms of anal sex include fingering, the use of sex toys for anal penetration, oral sex performed on the anus (anilingus), and pegging.[4][5] Although _anal sex_ most commonly means penileanal penetration,[6][7][8] sources sometimes use _anal intercourse_ to exclusively denote penileanal penetration, and _anal sex_ to denote any form of anal sexual activity, especially between pairings as opposed to anal masturbation.[9][10]
 
 While anal sex is commonly associated with male homosexuality, research shows that not all gay males engage in anal sex and that it is not uncommon in heterosexual relationships.[11][12][13] Types of anal sex can also be a part of lesbian sexual practices.[14] People may experience pleasure from anal sex by stimulation of the anal nerve endings, and orgasm may be achieved through anal penetration – by indirect stimulation of the prostate in men, indirect stimulation of the clitoris or an area of the vagina (sometimes called _the G-spot_) in women, and other sensory nerves (especially the pudendal nerve).[15][16][17] However, people may also find anal sex painful, sometimes extremely so,[18][19] which may be primarily due to psychological factors in some cases.[20]
 
@@ -8,8 +8,6 @@ Strong views are often expressed about anal sex. It is controversial in various 
 
 
 Anatomy and stimulation
-
-Male_anatomy_en.svg
 
 The abundance of nerve endings in the anal region and rectum can make anal sex pleasurable for men or women.[34][35][36] The internal and external sphincter muscles control the opening and closing of the anus; these muscles, which are sensitive membranes made up of many nerve endings, facilitate pleasure or pain during anal sex.[37][38] The _Human Sexuality: An Encyclopedia_ states that "the inner third of the anal canal is less sensitive to touch than the outer two-thirds, but is more sensitive to pressure" and that "the rectum is a curved tube about eight or nine inches long and has the capacity, like the anus, to expand".[39]
 
@@ -28,7 +26,7 @@ Male to female
 
 Behaviors and views
 
-Anal_Intercourse_Artwork.jpg by Paul Avril depicting male-to-female anal sex]]
+by Paul Avril depicting male-to-female anal sex]]
 
 The anal sphincters are usually tighter than the pelvic muscles of the vagina, which can enhance the sexual pleasure for the inserting male during male-to-female anal intercourse because of the pressure applied to the penis.[87][88][89] Men may also enjoy the penetrative role during anal sex because of its association with dominance, because it is made more alluring by a female partner or society in general insisting that it is forbidden, or because it presents an additional option for penetration.[90][91]
 
@@ -55,7 +53,7 @@ Male to male
 
 Behaviors and views
 
-Édouard-Henri_Avril_anal_sex_detail.jpg and Antinous (detail), by Paul Avril ]]
+and Antinous (detail), by Paul Avril ]]
 
 Historically, anal sex has been commonly associated with male homosexuality. However, many gay men and men who have sex with men in general (those who identify as gay, bisexual, heterosexual or have not identified their sexual identity) do not engage in anal sex.[120][121][122][123] Among men who have anal sex with other men, the insertive partner may be referred to as the _top_ and the one being penetrated may be referred to as the _bottom_. Those who enjoy either role may be referred to as _versatile_.[124][125]
 
@@ -72,7 +70,7 @@ Oral sex and mutual masturbation are more common than anal stimulation among men
 
 Female to male
 
-Wiki-pegging.png Women may sexually stimulate a man's anus by fingering the exterior or interior areas of the anus; they may also stimulate the perineum (which, for males, is between the base of the scrotum and the anus), massage the prostate or engage in anilingus.[146][147][148] Sex toys, such as a dildo, may also be used.[149][150] The practice of a woman penetrating a man's anus with a strap-on dildo for sexual activity is called pegging.[151][152]
+Women may sexually stimulate a man's anus by fingering the exterior or interior areas of the anus; they may also stimulate the perineum (which, for males, is between the base of the scrotum and the anus), massage the prostate or engage in anilingus.[146][147][148] Sex toys, such as a dildo, may also be used.[149][150] The practice of a woman penetrating a man's anus with a strap-on dildo for sexual activity is called pegging.[151][152]
 
 Commonly, heterosexual men reject the idea of being receptive partners during anal sex because they believe it is a feminine act, can make them vulnerable, or contradicts their sexual orientation (for example, that it is indicative that they are gay).[153][154] The _BMJ_ stated in 1999, however:
 
@@ -81,7 +79,7 @@ Reece et al. reported in 2010 that receptive anal intercourse is infrequent amon
 
 Female to female
 
-Wiki-analoral.png (anal–oral sex) on another woman]] With regard to lesbian sexual practices, anal sex includes fingering, use of a dildo or other sex toys, or anilingus.[156][157]
+(anal–oral sex) on another woman]] With regard to lesbian sexual practices, anal sex includes fingering, use of a dildo or other sex toys, or anilingus.[156][157]
 
 There is less research on anal sexual activity among women who have sex with women compared to couples of other sexual orientations. In 1987, a non-scientific study (Munson) was conducted of more than 100 members of a lesbian social organization in Colorado. When asked what techniques they used in their last ten sexual encounters, lesbians in their 30s were twice as likely as other age groups to engage in anal stimulation (with a finger or dildo).[158] A 2014 study of partnered lesbian women in Canada and the U.S. found that 7% engaged in anal stimulation or penetration at least once a week; about 10% did so monthly and 70% did not at all.[159] Anilingus is also less often practiced among female same-sex couples.[160][161]
 
@@ -90,7 +88,7 @@ Health risks
 
 General risks
 
-Gray1082.png]] Anal sex can expose its participants to two principal dangers: infections due to the high number of infectious microorganisms not found elsewhere on the body, and physical damage to the anus and rectum due to their fragility.[162][163] Unprotected penile-anal penetration, colloquially known as _barebacking_,[164] carries a higher risk of passing on sexually transmitted infections (STIs/STDs) because the anal sphincter is a delicate, easily torn tissue that can provide an entry for pathogens.[165][166] Use of condoms, ample lubrication to reduce the risk of tearing,[167][168] and safer sex practices in general, reduce the risk of STI transmission.[169][170] However, a condom can break or otherwise come off during anal sex, and this is more likely to happen with anal sex than with other sex acts because of the tightness of the anal sphincters during friction.[171]
+]] Anal sex can expose its participants to two principal dangers: infections due to the high number of infectious microorganisms not found elsewhere on the body, and physical damage to the anus and rectum due to their fragility.[162][163] Unprotected penile-anal penetration, colloquially known as _barebacking_,[164] carries a higher risk of passing on sexually transmitted infections (STIs/STDs) because the anal sphincter is a delicate, easily torn tissue that can provide an entry for pathogens.[165][166] Use of condoms, ample lubrication to reduce the risk of tearing,[167][168] and safer sex practices in general, reduce the risk of STI transmission.[169][170] However, a condom can break or otherwise come off during anal sex, and this is more likely to happen with anal sex than with other sex acts because of the tightness of the anal sphincters during friction.[171]
 
 Unprotected receptive anal sex (with an HIV positive partner) is the sex act most likely to result in HIV transmission.[172][173][174] Other infections that can be transmitted by unprotected anal sex are human papillomavirus (HPV) (which can increase risk of anal cancer
 
@@ -121,7 +119,7 @@ Other cultural views
 
 General
 
-Wiki_anal_sex.jpg]] Suzuki_Harunobu_Shunga.jpg, A shunga print depicting an older and a younger man]]
+]] , A shunga print depicting an older and a younger man]]
 
 Different cultures have had different views on anal sex throughout human history, with some cultures more positive about the activity than others.[223][224][225] Historically, anal sex has been restricted or condemned, especially with regard to religious beliefs; it has also commonly been used as a form of domination, usually with the active partner (the one who is penetrating) representing masculinity and the passive partner (the one who is being penetrated) representing femininity.[226][227][228] A number of cultures have especially recorded the practice of anal sex between males, and anal sex between males has been especially stigmatized or punished.[229][230][231] In some societies, if discovered to have engaged in the practice, the individuals involved were put to death, such as by decapitation, burning, or even mutilation.[232]
 
@@ -135,13 +133,13 @@ The term _Greek love_ has long been used to refer to anal intercourse, and in mo
 
 Male-male anal sex was not a universally accepted practice in Ancient Greece; it was the target of jokes in some Athenian comedies.[254] Aristophanes, for instance, mockingly alludes to the practice, claiming, "Most citizens are _europroktoi_ (wide-arsed) now."[255] The terms _kinaidos_, _europroktoi_, and _katapygon_ were used by Greek residents to categorize men who chronically[256] practiced passive anal intercourse.[257] While pedagogic pederasty was an essential element in the education of male youths, these relationships, at least in Athens and Sparta, were expected to steer clear of penetrative sex of any kind. Greek artwork of sexual interaction between men and boys usually depicted fondling or intercrural sex, which was not condemned for violating or feminizing boys,[258] while male-male anal intercourse was usually depicted between males of the same age-group.[259] Intercrural sex was not considered penetrative and two males engaging in it was considered a "clean" act.[260] Some sources explicitly state that anal sex between men and boys was criticized as shameful and seen as a form of hubris.[261][262] Evidence suggests, however, that the younger partner in pederastic relationships (i.e., the _eromenos_) did engage in receptive anal intercourse so long as no one accused him of being 'feminine'.[263]
 
-Warren_Cup_BM_GR_1999.4-26.1_n1.jpg males on the Warren Cup, British Museum]]
+males on the Warren Cup, British Museum]]
 
 In later Roman-era Greek poetry, anal sex became a common literary convention, represented as taking place with "eligible" youths: those who had attained the proper age but had not yet become adults. Seducing those not of proper age (for example, non-adolescent children) into the practice was considered very shameful for the adult, and having such relations with a male who was no longer adolescent was considered more shameful for the young male than for the one mounting him; Greek courtesans, or hetaerae, are said to have frequently practiced male-female anal intercourse as a means of preventing pregnancy.[264]
 
 A male citizen taking the passive (or receptive) role in anal intercourse (_paedicatio_ in Latin) was condemned in Rome as an act of _impudicitia_ (immodesty or unchastity); free men, however, frequently took the active role with a young male slave, known as a _catamite_ or _puer delicatus_. The latter was allowed because anal intercourse was considered equivalent to vaginal intercourse in this way; men were said to "take it like a woman" (muliebria pati, "to undergo womanly things") when they were anally penetrated, but when a man performed anal sex on a woman, she was thought of as playing the boy's role.[265] Likewise, women were believed to only be capable of anal sex or other sex acts with women if they possessed an exceptionally large clitoris or a dildo.[266] The passive partner in any of these cases was always considered a woman or a boy because being the one who penetrates was characterized as the only appropriate way for an adult male citizen to engage in sexual activity, and he was therefore considered unmanly if he was the one who was penetrated; slaves could be considered "non-citizen".[267] Although Roman men often availed themselves of their own slaves or others for anal intercourse, Roman comedies and plays presented Greek settings and characters for explicit acts of anal intercourse, and this may be indicative that the Romans thought of anal sex as something specifically "Greek".[268]
 
-Larcomuseumanalsex.jpg Culture. 300 C.E. Larco Museum Collection]]
+Culture. 300 C.E. Larco Museum Collection]]
 
 In Japan, records (including detailed shunga) show that some males engaged in penetrative anal intercourse with males,[269] and evidence suggestive of widespread male-female anal intercourse in a pre-modern culture can be found in the erotic vases, or stirrup-spout pots, made by the Moche people of Peru; in a survey, of a collection of these pots, it was found that 31 percent of them depicted male-female anal intercourse significantly more than any other sex act.[270] Moche pottery of this type belonged to the world of the dead, which was believed to be a reversal of life. Therefore, the reverse of common practices was often portrayed. The Larco Museum houses an erotic gallery in which this pottery is showcased.[271]
 
@@ -157,7 +155,7 @@ The Renaissance poet Pietro Aretino advocated anal sex in his _Sonetti Lussurios
 
 Religion
 
-Sodoma_-_Elluin.jpg, _Sodomites provoking divine wrath_, from _Le pot-pourri_ (1781)]] An_ottoman_miniature_from_the_book_Sawaqub_al-Manaquib_depicting_Homosexuality.jpg illustration depicting two young men having sex (from _Sawaqub al-Manaquib_)]]
+, _Sodomites provoking divine wrath_, from _Le pot-pourri_ (1781)]] illustration depicting two young men having sex (from _Sawaqub al-Manaquib_)]]
 
 Judaism
 

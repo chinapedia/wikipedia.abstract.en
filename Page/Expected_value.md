@@ -23,8 +23,6 @@ Since all probabilities p_(i) add up to 1 (p₁ + p₂ + ⋯ + p_(k)
 
 If all outcomes x_(i) are equiprobable (that is, p₁ = p₂ = ⋯ = p_(k)), then the weighted average turns into the simple average. This is intuitive: the expected value of a random variable is the average of all values it can take; thus the expected value is what one expects to happen _on average_. If the outcomes x_(i) are not equiprobable, then the simple average must be replaced with the weighted average, which takes into account the fact that some outcomes are more likely than the others. The intuition however remains the same: the expected value of X is what one expects to happen _on average_.
 
-An illustration of the convergence of sequence averages of rolls of a to the expected value of 3.5 as the number of rolls (trials) grows.
-
 Examples
 
 -   Let X represent the outcome of a roll of a fair six-sided . More specifically, X will be the number of pips showing on the top face of the after the toss. The possible values for X are 1, 2, 3, 4, 5, and 6, all of which are equally likely with a probability of . The expectation of X is
@@ -742,7 +740,7 @@ To empirically estimate the expected value of a random variable, one repeatedly 
 
 This property is often exploited in a wide variety of applications, including general problems of statistical estimation and machine learning, to estimate (probabilistic) quantities of interest via Monte Carlo methods, since most quantities of interest can be written in terms of expectation, e.g. P (X ∈ 𝒜) = E [1_(𝒜)], where 1_(𝒜) is the indicator function of the set 𝒜.
 
-Beta_first_moment.svg In classical mechanics, the center of mass is an analogous concept to expectation. For example, suppose _X_ is a discrete random variable with values _x_(i)_ and corresponding probabilities _p_(i)_. Now consider a weightless rod on which are placed weights, at locations _x_(i)_ along the rod and having masses _p_(i)_ (whose sum is one). The point at which the rod balances is E[_X_].
+In classical mechanics, the center of mass is an analogous concept to expectation. For example, suppose _X_ is a discrete random variable with values _x_(i)_ and corresponding probabilities _p_(i)_. Now consider a weightless rod on which are placed weights, at locations _x_(i)_ along the rod and having masses _p_(i)_ (whose sum is one). The point at which the rod balances is E[_X_].
 
 Expected values can also be used to compute the variance, by means of the computational formula for the variance
 

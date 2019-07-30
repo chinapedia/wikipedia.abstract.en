@@ -1,4 +1,4 @@
-Natural_foodstuff_004.JPG FRUITARIANISM () is a subset of dietary veganism that consists entirely or primarily of fruits in the botanical sense, and possibly nuts and seeds, but without animal products. A fruitarian diet attracts criticisms and health concerns for those that follow the lifestyle.
+FRUITARIANISM () is a subset of dietary veganism that consists entirely or primarily of fruits in the botanical sense, and possibly nuts and seeds, but without animal products. A fruitarian diet attracts criticisms and health concerns for those that follow the lifestyle.
 
 Fruitarianism may be adopted for different reasons, including ethical, religious, environmental, cultural, economic, and health. There are several varieties of the diet. Some people with a diet consisting of 75% or more fruit consider themselves fruitarians.[1]
 

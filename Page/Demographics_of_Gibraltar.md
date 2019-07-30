@@ -80,7 +80,7 @@ The composition of the population by nationality at the 2001 census was as follo
 
 Population overview
 
-Gibraltar_population_(1725-2001).png The population of Gibraltar was 29,752 in 2011.[19]
+The population of Gibraltar was 29,752 in 2011.[19]
 
 Vital statistics[20][21]
 

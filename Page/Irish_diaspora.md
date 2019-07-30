@@ -1,5 +1,3 @@
-Emigrants_Leave_Ireland_by_Henry_Doyle_1868.jpg
-
 The IRISH DIASPORA () refers to Irish people and their descendants who live outside the island of Ireland.
 
 The phenomenon of migration from Ireland is recorded since the Early Middle Ages,[1] but it is only possible to quantify it from around 1700: since then between 9 and 10 million people born in Ireland have emigrated. This is more than the population of Ireland at its historical peak of 8.5 million in the 1840s. The poorest of them went to Great Britain, especially Liverpool; those who could afford it went farther, including almost 5 million to the United States.[2]
@@ -11,11 +9,11 @@ As recently as the second half of the nineteenth century, the majority of Irish 
 
 Definition
 
-Road_from_Falcarragh_SE_to_R251_-_Bridge_of_Tears_-_geograph.org.uk_-_1185230.jpg) in West Donegal, Ireland. Family and friends of emigrants would accompany them as far as the bridge before saying goodbye, while the emigrants would continue on to Derry Port.]] The term Irish diaspora is open to many interpretations. The diaspora, broadly interpreted, contains all those known to have Irish ancestors, i.e., over 100 million people, which is more than fifteen times the population of the island of Ireland, which was about 4.6 million in 2011. It has been argued the idea of an Irish diaspora, as distinct from the old identification of Irishness with Ireland itself, was influenced by the perceived advent of global mobility and modernity. Irishness could now be identified with dispersed individuals and groups of Irish descent. But many of those individuals were the product of complex ethnic intermarriage in America and elsewhere, complicating the idea of a single line of descent. "Irishness" might then rely primarily on individual identification with an Irish diaspora.[6]
+) in West Donegal, Ireland. Family and friends of emigrants would accompany them as far as the bridge before saying goodbye, while the emigrants would continue on to Derry Port.]] The term Irish diaspora is open to many interpretations. The diaspora, broadly interpreted, contains all those known to have Irish ancestors, i.e., over 100 million people, which is more than fifteen times the population of the island of Ireland, which was about 4.6 million in 2011. It has been argued the idea of an Irish diaspora, as distinct from the old identification of Irishness with Ireland itself, was influenced by the perceived advent of global mobility and modernity. Irishness could now be identified with dispersed individuals and groups of Irish descent. But many of those individuals were the product of complex ethnic intermarriage in America and elsewhere, complicating the idea of a single line of descent. "Irishness" might then rely primarily on individual identification with an Irish diaspora.[6]
 
 The Government of Ireland defines the Irish diaspora as all persons of Irish nationality who habitually reside outside of the island of Ireland. This includes Irish citizens who have emigrated abroad and their children, who are Irish citizens by descent under Irish law. It also includes their grandchildren in cases where they were registered as Irish citizens in the Foreign Births Register held in every Irish diplomatic mission.[7] Under this legal definition, the Irish diaspora is considerably smaller—some 3 million persons, of whom 1.47 million are Irish-born emigrants.[8] Given Ireland's population of 4.85 million, this is still a large ratio.[9]
 
-Road_from_Falcarragh_SE_to_R251_-_Stone_monument_-_geograph.org.uk_-_1185262.jpg However, the usage of _Irish diaspora_ is generally not limited by citizenship status, thus leading to an estimated (and fluctuating) membership of up to 80 million persons—the second and more emotive definition. The Irish Government acknowledged this interpretation—although it did not acknowledge any legal obligations to persons in this larger diaspora—when Article 2 of the Constitution of Ireland was amended in 1998 to read _"[f]urthermore, the Irish nation cherishes its special affinity with people of Irish ancestry living abroad who share its cultural identity and heritage."_
+However, the usage of _Irish diaspora_ is generally not limited by citizenship status, thus leading to an estimated (and fluctuating) membership of up to 80 million persons—the second and more emotive definition. The Irish Government acknowledged this interpretation—although it did not acknowledge any legal obligations to persons in this larger diaspora—when Article 2 of the Constitution of Ireland was amended in 1998 to read _"[f]urthermore, the Irish nation cherishes its special affinity with people of Irish ancestry living abroad who share its cultural identity and heritage."_
 
 The right to register as an Irish citizen terminates at the third generation (except as noted above). This contrasts with citizenship law in Italy, Israel, Japan and other countries which practice jus sanguinis or otherwise permit members of the diaspora to register as citizens.
 
@@ -114,7 +112,7 @@ Between 1943 and 1946, the de facto President of Argentina was Edelmiro Farrell,
 
 Bermuda
 
-Sisyrinchium_bermudianum_B.jpg Bermudiana (_Sisyrinchium bermudiana_), the indigenous flower that is ubiquitous in Bermuda in the Spring, has now been realised to be found in one other location, Ireland, where it is restricted to sites around Lough Erne and Lough Melvin in County Fermanagh, and is known as _Feilistrín gorm_, or Blue-eyed grass.[44][45] Early in its history, Bermuda had unusual connections with Ireland. It has been suggested that St. Brendan discovered it during his legendary voyage; a local psychiatric hospital (since renamed) was named after him.[46][47][48] In 1616, an incident occurred in which five white settlers arrived in Ireland, having crossed the Atlantic (a distance of around ) in a two-ton boat.[49] By the following year, one of Bermuda's main islands was named after Ireland.[50] By the mid-17th century, Irish prisoners of war and ethnically cleansed civilians were involuntarily shipped to Bermuda, condemned to indentured servitude.[51] This expulsion resulted from the Cromwellian conquest of Ireland.[52] The English government expelled Irish people to other parts of the trans-Atlantic Empire as well. This was meant to pacify Ireland, easing English rule, and to clear land for settlement by English soldiers. The Puritan English government officials also expressed the opinion that they were saving the souls of the Roman Catholic Irish by settling them in Protestant territories where they would inevitably be converted to the true faith. Smaller numbers of Scottish prisoners were also sent to Bermuda following Cromwell's invasion of Scotland.
+Bermudiana (_Sisyrinchium bermudiana_), the indigenous flower that is ubiquitous in Bermuda in the Spring, has now been realised to be found in one other location, Ireland, where it is restricted to sites around Lough Erne and Lough Melvin in County Fermanagh, and is known as _Feilistrín gorm_, or Blue-eyed grass.[44][45] Early in its history, Bermuda had unusual connections with Ireland. It has been suggested that St. Brendan discovered it during his legendary voyage; a local psychiatric hospital (since renamed) was named after him.[46][47][48] In 1616, an incident occurred in which five white settlers arrived in Ireland, having crossed the Atlantic (a distance of around ) in a two-ton boat.[49] By the following year, one of Bermuda's main islands was named after Ireland.[50] By the mid-17th century, Irish prisoners of war and ethnically cleansed civilians were involuntarily shipped to Bermuda, condemned to indentured servitude.[51] This expulsion resulted from the Cromwellian conquest of Ireland.[52] The English government expelled Irish people to other parts of the trans-Atlantic Empire as well. This was meant to pacify Ireland, easing English rule, and to clear land for settlement by English soldiers. The Puritan English government officials also expressed the opinion that they were saving the souls of the Roman Catholic Irish by settling them in Protestant territories where they would inevitably be converted to the true faith. Smaller numbers of Scottish prisoners were also sent to Bermuda following Cromwell's invasion of Scotland.
 
 Relations between the involuntary Irish immigrants and the local English population were strained. The Irish and Scots were ostracised by the English, ultimately intermarrying with Black and Native American minority groups to create a single demographic (_coloured_, which in Bermuda included anyone not able to be described as wholly of European ancestry. Today, the term has been replaced by _Black_, in which wholly sub-Saharan African ancestry is erroneously implicit). The Irish quickly proved troublesome, and Bermudian slave owners were instructed _that those that hath the Irish servants should take care that they straggle not night nor day as is too common with them_. In 1658, three Irishmen – John Shehan, David Laragen and Edmund Malony – were lashed for breaking curfew and being suspected of stealing a boat. A Scottish indentured servant and three black slaves were also punished.[53] Several years later, in 1661, the local government alleged that a plot was being hatched by an alliance of Blacks and Irish, one which involved cutting the throats of all the English. Governor William Sayle prepared for the uprising with three edicts: The first was that a nightly watch be raised throughout the colony; second, that slaves and the Irish be disarmed of militia weapons; and third, that any gathering of two or more Irish or slaves be dispersed by whipping. There were no arrests, trials or executions connected to the plot,[54] though an Irish woman named Margaret was found to be romantically involved with a Native American; she was voted to be stigmatised and he was whipped.[55]
 
@@ -130,7 +128,7 @@ Other Irish soldiers, taking discharge, made a home in Bermuda, remaining there 
 
 Although there is little surviving evidence of Irish culture, some elderly islanders can remember when the term "cilig" (or _killick_) was used to describe a common method of fishing for sea turtles by tricking them into swimming into prearranged nets (this was done by splashing a stone on a line—the cilig—into the water on the turtle's opposite side). The word _cilig_ appears to be meaningless in English, but in some dialects of Gaelic is used as an adjective meaning "easily deceived".[62] In Irish there is a word _cílí_ meaning sly. It is used in the expression _Is é an cílí ceart é_ (pronounced _Shayeh kilic airtay_) and means _What a sly-boots_.[63] Alternatively, the word may be derived from an Irish word for a stone and wood anchor.[64] Characteristics of older Bermudian accents, such as the pronunciation of the letter 'd' as 'dj', as in _Bermudjin_ (Bermudian), may indicate an Irish origin.[65] Later Irish immigrants have continued to contribute to Bermuda's makeup, with names like Crockwell (_Ó Creachmhaoil_) and O'Connor (_Ó Conchobhair_) now being thought of locally as Bermudian names.[66][67] The strongest remaining Irish influence can be seen in the presence of bagpipes in the music of Bermuda, which stemmed from the presence of Scottish and Irish soldiers from the 18th through 20th centuries. Several prominent businesses in Bermuda have a clear Irish influence, such as the Irish Linen Shop, Tom Moore's Tavern and Flanagan's Irish Pub and Restaurant.
 
-A succession of Irish Masonic lodges have existed in Bermuda, beginning with _Military Lodge #192_, established by soldiers of the 47th Regiment of Foot, and operating in Bermuda from 1793 to 1801. This was an ambulatory or traveling lodge, as with other military lodges, moving with its members. Irish Lodges #220 (also a military travelling lodge) was active in Bermuda from 1856 to 1861, and Irish Lodge #209 was established in Bermuda in 1881. Minder Lodge #63 of the Irish Constitution was in Bermuda with the 20th Regiment of Foot from 1841 to 1847. The Hannibal Lodge #224 of the Irish Constitution was warranted in 1867, and still exists, meeting in the Masonic Hall on Old Maid's Lane, St. George's. Another Hannibal Chapter, #123 of the Irish Constitution, was chartered in 1877, but lasted only until 1911.[68] Ireland_Island_Woodcut.jpg, Ireland Island, Bermuda.]]
+A succession of Irish Masonic lodges have existed in Bermuda, beginning with _Military Lodge #192_, established by soldiers of the 47th Regiment of Foot, and operating in Bermuda from 1793 to 1801. This was an ambulatory or traveling lodge, as with other military lodges, moving with its members. Irish Lodges #220 (also a military travelling lodge) was active in Bermuda from 1856 to 1861, and Irish Lodge #209 was established in Bermuda in 1881. Minder Lodge #63 of the Irish Constitution was in Bermuda with the 20th Regiment of Foot from 1841 to 1847. The Hannibal Lodge #224 of the Irish Constitution was warranted in 1867, and still exists, meeting in the Masonic Hall on Old Maid's Lane, St. George's. Another Hannibal Chapter, #123 of the Irish Constitution, was chartered in 1877, but lasted only until 1911.[68] , Ireland Island, Bermuda.]]
 
 Canada
 
@@ -213,8 +211,6 @@ It is widely believed that there existed a secret alliance between the Irish and
 
 
 Australia
-
-Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1120_Irish_Total_Responses.svg
 
 2,087,800 (10.4%) of Australians self-reported some Irish ancestry in the 2011 census, second only to English and Australian.[95] The Australian government estimates the total figure may be around 7 million (30%).[96]
 
@@ -387,7 +383,7 @@ This listing is for politicians of Irish nationality or origin, who were or are 
 -   Matthew Thornton, was an Irish-born signer of the United States Declaration of Independence as a representative of New Hampshire
 -   Michael Walsh Youghal, County Cork-born Democratic United States Representative from New York.
 
-Isadora_Duncan_(grayscale).jpg Judy_Garland_in_The_Wizard_of_Oz_trailer_2.jpg in _The Wizard of Oz_ (1939)]]
+in _The Wizard of Oz_ (1939)]]
 
 Artists and musicians
 
@@ -449,7 +445,7 @@ Artists and musicians
 -   Juan O'Gorman, a 20th-century Mexican artist, both a painter and an architect.
 -   Georgia O'Keeffe, painter
 
-Maureen_O'Hara_Black_Swan_3.jpg'' (1942)]]
+'' (1942)]]
 
 -   Maureen O'Hara, Irish-born actress and celebrated Hollywood beauty.[141]
 -   Eugene O'Neill, writer.
@@ -497,7 +493,7 @@ Others
 -   Sean Hannity, American political commentator
 -   Mary Jemison, Irish captive adopted by Native American Seneca tribe.
 
-Resting_Girl_by_François_Boucher_(1753)_-_Alte_Pinakothek_-_Munich_-_Germany_2017_(crop).jpg c. 1751]]
+c. 1751]]
 
 -   Dorothy Jordan, mistress to William IV of the United Kingdom
 -   Ned Kelly – Australian bushranger
@@ -512,8 +508,6 @@ Resting_Girl_by_François_Boucher_(1753)_-_Alte_Pinakothek_-_Munich_-_Germany_20
 -   Evelyn Nesbit, model and actress
 -   Mario O'Donnell, historian
 -   Marie-Louise O'Murphy, mistress to King Louis XV of France.
-
-Joseph_Karl_Stieler-Lola_Montez1847.jpg
 
 -   Bill O'Reilly, American political commentator
 -   Count Joseph Cornelius O'Rourke, Lieutenant-General of the Russian Imperial Guard.

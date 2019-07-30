@@ -1,4 +1,4 @@
-Gorilla Warfare}} 6-de-junio-1808.jpg invasion of Spain in 1808, where the term "guerrilla" was first used in warfare.]]
+Gorilla Warfare}} invasion of Spain in 1808, where the term "guerrilla" was first used in warfare.]]
 
 GUERRILLA WARFARE is a form of irregular warfare in which a small group of combatants, such as paramilitary personnel, armed civilians, or irregulars use military tactics including ambushes, sabotage, raids, petty warfare, hit-and-run tactics, and mobility, to fight a larger and less-mobile traditional military. Guerrilla groups are a type of violent non-state actor.
 
@@ -12,7 +12,7 @@ The term "guerrilla" was used in English as early as 1809 to refer to the _fight
 
 Strategy, tactics and methods
 
-Afrikaner_Commandos2.JPG in South Africa]] Kovpak_partisanki.jpg in German-occupied Ukraine]]
+in South Africa]] in German-occupied Ukraine]]
 
 Strategy
 
@@ -38,7 +38,7 @@ Contrary to some terrorist groups, guerrillas usually work in open positions as 
 
 Growth during the 20th century
 
-游击战争03540.jpg wrote the book "Guerrilla War" in November 1938]] Irregular warfare, based on elements later characteristic of modern guerrilla warfare, has existed throughout the battles of many ancient civilizations. The growth of guerrilla warfare in the 20th century was inspired in part by theoretical works on guerrilla warfare, starting with the _Manual de Guerra de Guerrillas_ by Matías Ramón Mella written in the 19th century and, more recently, Mao Zedong's _On Guerrilla Warfare_, Che Guevara's _Guerrilla Warfare_, and Lenin's text of the same name, all written after the successful revolutions carried by them in China, Cuba and Russia, respectively. Those texts characterized the tactic of guerrilla warfare as, according to Che Guevara's text, being
+wrote the book "Guerrilla War" in November 1938]] Irregular warfare, based on elements later characteristic of modern guerrilla warfare, has existed throughout the battles of many ancient civilizations. The growth of guerrilla warfare in the 20th century was inspired in part by theoretical works on guerrilla warfare, starting with the _Manual de Guerra de Guerrillas_ by Matías Ramón Mella written in the 19th century and, more recently, Mao Zedong's _On Guerrilla Warfare_, Che Guevara's _Guerrilla Warfare_, and Lenin's text of the same name, all written after the successful revolutions carried by them in China, Cuba and Russia, respectively. Those texts characterized the tactic of guerrilla warfare as, according to Che Guevara's text, being
 
   "used by the side which is supported by a majority but which possesses a much smaller number of arms for use in defense against oppression".[17]
 
@@ -54,7 +54,7 @@ Quintus Fabius Maximus Verrucosus, widely regarded as the "father of guerrilla w
 
 Counter-guerrilla warfare
 
-Fusillades_de_Nantes.jpg royalist rebels in western France, 1793]] El_Tres_de_Mayo,_by_Francisco_de_Goya,_from_Prado_in_Google_Earth.jpg'' by Francisco Goya, showing Spanish resisters being executed by Napoleon's troops during the Peninsular War.]] AK-soldiers_Parasol_Regiment_Warsaw_Uprising_1944.jpg guerrillas from Batalion Zośka dressed in captured German uniforms and armed with captured weapons, fighting in the Warsaw Uprising.]] My_Tho,_Vietnam._A_Viet_Cong_base_camp_being._In_the_foreground_is_Private_First_Class_Raymond_Rumpa,_St_Paul,_Minnesota_-_NARA_-_530621_edit.jpg base camp being burned, Mỹ Tho, South Vietnam, 1968]] A COUNTER-INSURGENCY or COUNTERINSURGENCY[26] (COIN) operation involves actions taken by the recognised government of a nation to contain or quell an insurgency taken up against it.[27] In the main, the insurgents seek to destroy or erase the political authority of the defending authorities in a population they seek to control, and the counter-insurgent forces seek to protect that authority and reduce or eliminate the supplanting authority of the insurgents. Counter-insurgency operations are common during war, occupation and armed rebellions. Counter-insurgency may be armed suppression of a rebellion, coupled with tactics such as "hearts and minds" designed to fracture the links between the insurgency and the population in which the insurgents move. Because it may be difficult or impossible to distinguish between an insurgent, a supporter of an insurgency who is a non-combatant, and entirely uninvolved members of the population, counter-insurgency operations have often rested on a confused, relativistic, or otherwise situational distinction between insurgents and non-combatants.
+royalist rebels in western France, 1793]] '' by Francisco Goya, showing Spanish resisters being executed by Napoleon's troops during the Peninsular War.]] guerrillas from Batalion Zośka dressed in captured German uniforms and armed with captured weapons, fighting in the Warsaw Uprising.]] base camp being burned, Mỹ Tho, South Vietnam, 1968]] A COUNTER-INSURGENCY or COUNTERINSURGENCY[26] (COIN) operation involves actions taken by the recognised government of a nation to contain or quell an insurgency taken up against it.[27] In the main, the insurgents seek to destroy or erase the political authority of the defending authorities in a population they seek to control, and the counter-insurgent forces seek to protect that authority and reduce or eliminate the supplanting authority of the insurgents. Counter-insurgency operations are common during war, occupation and armed rebellions. Counter-insurgency may be armed suppression of a rebellion, coupled with tactics such as "hearts and minds" designed to fracture the links between the insurgency and the population in which the insurgents move. Because it may be difficult or impossible to distinguish between an insurgent, a supporter of an insurgency who is a non-combatant, and entirely uninvolved members of the population, counter-insurgency operations have often rested on a confused, relativistic, or otherwise situational distinction between insurgents and non-combatants.
 
 Scholarship
 
@@ -75,7 +75,7 @@ The wide availability of the Internet has also caused changes in the tempo and m
 
 Foco theory
 
-Nigerien_MNJ_fighter_technical_gun.JPG rebel fighter in northern Niger, 2008]]
+rebel fighter in northern Niger, 2008]]
 
 In the 1960s, the Marxist revolutionary Che Guevara developed the _foco_ () theory of revolution in his book _Guerrilla Warfare_, based on his experiences during the 1959 Cuban Revolution. This theory was later formalised as "focal-ism" by Régis Debray. Its central principle is that vanguardism by cadres of small, fast-moving paramilitary groups can provide a focus for popular discontent against a sitting regime, and thereby lead a general insurrection. Although the original approach was to mobilise and launch attacks from rural areas, many _foco_ ideas were adapted into urban guerrilla warfare movements.
 

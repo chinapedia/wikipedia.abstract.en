@@ -1,5 +1,3 @@
-Hellas_verona_since_1930.jpg
-
 HELLAS VERONA FOOTBALL CLUB, commonly referred to as HELLAS VERONA or simply VERONA, is an Italian football club based in Verona, Veneto, that currently plays in Serie A. The team won the Serie A Championship in 1984–85.
 
 

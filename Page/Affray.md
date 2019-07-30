@@ -1,5 +1,3 @@
-Street_fight.jpg
-
 In many legal jurisdictions related to English common law, AFFRAY is a public order offence consisting of the fighting of one or more persons in a public place to the terror (in ) of ordinary people. Depending on their actions, and the laws of the prevailing jurisdiction, those engaged in an affray may also render themselves liable to prosecution for assault, unlawful assembly, or riot; if so, it is for one of these offences that they are usually charged.[1]
 
 

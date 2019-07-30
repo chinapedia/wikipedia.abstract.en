@@ -7,7 +7,7 @@ The term _cheddar cheese_ is widely used, but has no protected designation of or
 
 History
 
-Montgomerys_cheddar_cheese.jpg The cheese originates from the village of Cheddar in Somerset, south west England. Cheddar Gorge on the edge of the village contains a number of caves, which provided the ideal humidity and steady temperature for maturing the cheese.[8] Cheddar cheese traditionally had to be made within of Wells Cathedral.[9]
+The cheese originates from the village of Cheddar in Somerset, south west England. Cheddar Gorge on the edge of the village contains a number of caves, which provided the ideal humidity and steady temperature for maturing the cheese.[8] Cheddar cheese traditionally had to be made within of Wells Cathedral.[9]
 
 Cheddar has been produced since at least the 12th century. A pipe roll of King Henry II from 1170 records the purchase of at a farthing per pound (totalling £10.13s.4d).[10] Charles I (1600–1649) also bought cheese from the village.[11] Romans may have brought the recipe to Britain from the Cantal region of France.[12]
 
@@ -20,16 +20,16 @@ According to a United States Department of Agriculture researcher, Cheddar chees
 
 Process
 
-Cheese_curds_2.jpg]]
+]]
 
 The curds and whey are separated using rennet, an enzyme complex normally produced from the stomachs of newborn calves (in vegetarian or kosher cheeses, bacterial, yeast or mould-derived chymosin is used).[22][23]
 
-"Cheddaring" refers to an additional step in the production of Cheddar cheese where, after heating, the curd is kneaded with salt, cut into cubes to drain the whey, and then stacked and turned.[24] Strong, extra-mature Cheddar, sometimes called vintage, needs to be matured for 15 months or more. The cheese is kept at a constant temperature, often requiring special facilities. As with other hard cheese varieties produced worldwide, caves provide an ideal environment for maturing cheese; still, today, some Cheddar cheese is matured in the caves at Wookey Hole and Cheddar Gorge. Additionally, some versions of Cheddar cheese are smoked.[25][26] Cheddar_cave_cheese.jpg]]
+"Cheddaring" refers to an additional step in the production of Cheddar cheese where, after heating, the curd is kneaded with salt, cut into cubes to drain the whey, and then stacked and turned.[24] Strong, extra-mature Cheddar, sometimes called vintage, needs to be matured for 15 months or more. The cheese is kept at a constant temperature, often requiring special facilities. As with other hard cheese varieties produced worldwide, caves provide an ideal environment for maturing cheese; still, today, some Cheddar cheese is matured in the caves at Wookey Hole and Cheddar Gorge. Additionally, some versions of Cheddar cheese are smoked.[25][26] ]]
 
 
 Character
 
-MidSomerset_Show_170803.jpg The ideal quality of the original Somerset Cheddar was described by Joseph Harding in 1864 as "close and firm in texture, yet mellow in character or quality; it is rich with a tendency to melt in the mouth, the flavour full and fine, approaching to that of a hazelnut".[27]
+The ideal quality of the original Somerset Cheddar was described by Joseph Harding in 1864 as "close and firm in texture, yet mellow in character or quality; it is rich with a tendency to melt in the mouth, the flavour full and fine, approaching to that of a hazelnut".[27]
 
 Cheddar made in the classical way tends to have a sharp, pungent flavour, often slightly earthy. The "sharpness" of cheddar is associated with the levels of bitter peptides in the cheese. This bitterness has been found to be significant to the overall perception of the aged Cheddar flavour.[28] The texture is firm, with farmhouse traditional Cheddar being slightly crumbly; it should also, if mature, contain large cheese crystals consisting of calcium lactate – often precipitated when matured for times longer than six months.[29]
 
@@ -62,11 +62,11 @@ Much of the Cheddar cheese in New Zealand is factory produced. While most of it 
 
 United Kingdom
 
-WestcountryCheddar-Counties.svg Only one producer of the cheese is now based in Cheddar itself, the Cheddar Gorge Cheese Co.[43] The name "cheddar" is not protected by the European Union, though the name "West Country Farmhouse Cheddar" has an EU protected designation of origin, and may only be produced in Somerset, Devon, Dorset and Cornwall, using milk sourced from those counties.[44] Cheddar is usually sold as mild, medium, mature, extra mature or vintage. Mature cheddar is the best-selling variety in the UK.[45] Cheddar produced in Orkney is registered as an EU protected geographical indication under the name "Orkney Scottish Island Cheddar".[46]
+Only one producer of the cheese is now based in Cheddar itself, the Cheddar Gorge Cheese Co.[43] The name "cheddar" is not protected by the European Union, though the name "West Country Farmhouse Cheddar" has an EU protected designation of origin, and may only be produced in Somerset, Devon, Dorset and Cornwall, using milk sourced from those counties.[44] Cheddar is usually sold as mild, medium, mature, extra mature or vintage. Mature cheddar is the best-selling variety in the UK.[45] Cheddar produced in Orkney is registered as an EU protected geographical indication under the name "Orkney Scottish Island Cheddar".[46]
 
 United States
 
-Bravo_Cheddar.jpg]] The state of Wisconsin produces the most cheddar cheese in the United States; other centres of production include: California, Idaho, Upstate New York, Vermont, Oregon, Texas, and Oklahoma. It is sold in several varieties (mild, medium, sharp, extra-sharp, New York-style, white, and Vermont). New York-style Cheddar is particularly "sharp"/acidic, but tends to be somewhat softer than the milder-tasting varieties. Cheddar that does not contain annatto is frequently labelled "white Cheddar" or "Vermont Cheddar" (regardless of whether it was actually produced there). Vermont's three creameries produce Cheddar cheeses: the Cabot Creamery, which produces the 16-month-old "Private Stock Cheddar", the Grafton Village Cheese Company, and Shelburne Farms.[47]
+]] The state of Wisconsin produces the most cheddar cheese in the United States; other centres of production include: California, Idaho, Upstate New York, Vermont, Oregon, Texas, and Oklahoma. It is sold in several varieties (mild, medium, sharp, extra-sharp, New York-style, white, and Vermont). New York-style Cheddar is particularly "sharp"/acidic, but tends to be somewhat softer than the milder-tasting varieties. Cheddar that does not contain annatto is frequently labelled "white Cheddar" or "Vermont Cheddar" (regardless of whether it was actually produced there). Vermont's three creameries produce Cheddar cheeses: the Cabot Creamery, which produces the 16-month-old "Private Stock Cheddar", the Grafton Village Cheese Company, and Shelburne Farms.[47]
 
 Some processed cheeses or "cheese foods" are called "Cheddar flavored". Examples include Easy Cheese: a cheese-food packaged in a pressurised spray can; also, as packs of square, sliced, individually wrapped, "processed cheese" (sometimes also pasteurised).
 

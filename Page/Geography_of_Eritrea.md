@@ -1,4 +1,4 @@
-Un-eritrea.png LocationEritrea.svg Eritrea_map_of_Köppen_climate_classification.svg Eritrea_Topography.png Eritrea is located in the Horn of Africa and is bordered on the northeast and east by the Red Sea, on the west and northwest by Sudan, on the south by Ethiopia, and on the southeast by Djibouti. The country has a high central plateau that varies from above sea level. A coastal plain, western lowlands, and some 350 islands comprise the remainder of Eritrea's land mass. Eritrea has no rivers that flow year-round.
+Eritrea is located in the Horn of Africa and is bordered on the northeast and east by the Red Sea, on the west and northwest by Sudan, on the south by Ethiopia, and on the southeast by Djibouti. The country has a high central plateau that varies from above sea level. A coastal plain, western lowlands, and some 350 islands comprise the remainder of Eritrea's land mass. Eritrea has no rivers that flow year-round.
 
 
 Climate

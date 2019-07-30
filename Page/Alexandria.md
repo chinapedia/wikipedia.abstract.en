@@ -9,7 +9,7 @@ History
 
 Ancient era
 
-Alexander1256.jpg]]
+]]
 
 Alexandria is believed to have been founded by Alexander the Great in April 331 BC as (_Alexandreia_). Alexander's chief architect for the project was Dinocrates. Alexandria was intended to supersede Naucratis as a Hellenistic center in Egypt, and to be the link between Greece and the rich Nile valley. Although it has long been believed only a small village there, recent radiocarbon dating of seashell fragments and lead contamination show significant human activity at the location for two millennia preceding Alexandria's founding.[3]
 
@@ -23,7 +23,7 @@ An Egyptian city, Rhakotis, already existed on the shore and later gave its name
 
 Although Cleomenes was mainly in charge of overseeing Alexandria's continuous development, the _Heptastadion_ and the mainland quarters seem to have been primarily Ptolemaic work. Inheriting the trade of ruined Tyre and becoming the center of the new commerce between Europe and the Arabian and Indian East, the city grew in less than a generation to be larger than Carthage. In a century, Alexandria had become the largest city in the world and, for some centuries more, was second only to Rome. It became Egypt's main Greek city, with Greek people from diverse backgrounds.[6]
 
-PhareAlexandrie.jpg on coins minted in Alexandria in the second century (1: reverse of a coin of Antoninus Pius, and 2: reverse of a coin of Commodus).]] Alexandria was not only a center of Hellenism, but was also home to the largest urban Jewish community in the world. The Septuagint, a Greek version of the Tanakh, was produced there. The early Ptolemies kept it in order and fostered the development of its museum into the leading Hellenistic center of learning (Library of Alexandria), but were careful to maintain the distinction of its population's three largest ethnicities: Greek, Jewish, and Egyptian.[7] By the time of Augustus, the city walls encompassed an area of 5.34 km, and the total population in Roman times was around 500-600,000.[8]
+on coins minted in Alexandria in the second century (1: reverse of a coin of Antoninus Pius, and 2: reverse of a coin of Commodus).]] Alexandria was not only a center of Hellenism, but was also home to the largest urban Jewish community in the world. The Septuagint, a Greek version of the Tanakh, was produced there. The early Ptolemies kept it in order and fostered the development of its museum into the leading Hellenistic center of learning (Library of Alexandria), but were careful to maintain the distinction of its population's three largest ethnicities: Greek, Jewish, and Egyptian.[7] By the time of Augustus, the city walls encompassed an area of 5.34 km, and the total population in Roman times was around 500-600,000.[8]
 
 According to Philo of Alexandria, in the year 38 of the Common era, disturbances erupted between Jews and Greek citizens of Alexandria during a visit paid by the Jewish king Agrippa I to Alexandria, principally over the respect paid by the Jewish nation to the Roman emperor, and which quickly escalated to open affronts and violence between the two ethnic groups and the desecration of Alexandrian synagogues. The violence was quelled after Caligula intervened and had the Roman governor, Flaccus, removed from the city.[9]
 
@@ -35,7 +35,7 @@ The Islamic prophet Muhammad's first interaction with the people of Egypt occurr
 
 Islamic era
 
-Alexandrie_et_phare.jpg]] Colson_Entrée_de_Napoléon_à_Alexandrie.JPG Antoine-Jean_Gros_-_Bataille_d'Aboukir,_25_juillet_1799_-_Google_Art_Project.jpg 1806.]] Bombardamento_Alessandria_1882.jpg]] In 619, Alexandria fell to the Sassanid Persians. Although the Byzantine Emperor Heraclius recovered it in 629, in 641 the Arabs under the general 'Amr ibn al-'As captured it during the Muslim conquest of Egypt, after a siege that lasted 14 months. The first Arab governor of Egypt recorded to have visited Alexandria was Utba ibn Abi Sufyan, who strengthened the Arab presence and built a governor's palace in the city in 664–665.[16][17]
+]] 1806.]] ]] In 619, Alexandria fell to the Sassanid Persians. Although the Byzantine Emperor Heraclius recovered it in 629, in 641 the Arabs under the general 'Amr ibn al-'As captured it during the Muslim conquest of Egypt, after a siege that lasted 14 months. The first Arab governor of Egypt recorded to have visited Alexandria was Utba ibn Abi Sufyan, who strengthened the Arab presence and built a governor's palace in the city in 664–665.[16][17]
 
 After the Battle of Ridaniya in 1517, the city was conquered by the Ottoman Turks and remained under Ottoman rule until 1798. Alexandria lost much of its former importance to the Egyptian port city of Rosetta during the 9th to 18th centuries, and only regained its former prominence with the construction of the Mahmoudiyah Canal in 1807.
 
@@ -67,7 +67,7 @@ The most important battles and sieges of Alexandria include:
 
 Layout of the ancient city
 
-Greek Alexandria was divided into three regions:Macedonian_Army_Alexander.jpg Army]]
+Greek Alexandria was divided into three regions: Army]]
 
 Brucheum
     Brucheum is the Royal or Greek quarter and forms the most magnificent portion of the city. In Roman times Brucheum was enlarged by the addition of an official quarter, making four regions in all. The city was laid out as a grid of parallel streets, each of which had an attendant subterranean canal;
@@ -78,7 +78,7 @@ The Jewish quarter
 Rhakotis
     Rhakotis is the old city that was absorbed into Alexandria. It was occupied chiefly by Egyptians. (from Coptic _Rakotə_ "Alexandria").
 
-Canopic_Street_Alexandria_1784_by_LF_Cassa.png by L F Cassas of the Canopic Street in Alexandria, Egypt made in 1784.]]Two main streets, lined with colonnades and said to have been each about wide, intersected in the center of the city, close to the point where the Sema (or Soma) of Alexander (his Mausoleum) rose. This point is very near the present mosque of Nebi Daniel; and the line of the great East–West "Canopic" street, only slightly diverged from that of the modern Boulevard de Rosette (now Sharia Fouad). Traces of its pavement and canal have been found near the Rosetta Gate, but remnants of streets and canals were exposed in 1899 by German excavators outside the east fortifications, which lie well within the area of the ancient city.
+by L F Cassas of the Canopic Street in Alexandria, Egypt made in 1784.]]Two main streets, lined with colonnades and said to have been each about wide, intersected in the center of the city, close to the point where the Sema (or Soma) of Alexander (his Mausoleum) rose. This point is very near the present mosque of Nebi Daniel; and the line of the great East–West "Canopic" street, only slightly diverged from that of the modern Boulevard de Rosette (now Sharia Fouad). Traces of its pavement and canal have been found near the Rosetta Gate, but remnants of streets and canals were exposed in 1899 by German excavators outside the east fortifications, which lie well within the area of the ancient city.
 
 Alexandria consisted originally of little more than the island of Pharos, which was joined to the mainland by a mole and called the _Heptastadion_ ("seven stadia"—a _stadium_ was a Greek unit of length measuring approximately ). The end of this abutted on the land at the head of the present Grand Square, where the "Moon Gate" rose. All that now lies between that point and the modern "Ras al-Tin" quarter is built on the silt which gradually widened and obliterated this mole. The Ras al-Tin quarter represents all that is left of the island of Pharos, the site of the actual lighthouse having been weathered away by the sea. On the east of the mole was the Great Harbor, now an open bay; on the west lay the port of Eunostos, with its inner basin Kibotos, now vastly enlarged to form the modern harbor.
 
@@ -105,7 +105,7 @@ In the 1st century, the population of Alexandria contained over 180,000 adult ma
 
 Geography
 
-AlexandriaSkyline.jpg Alexandria_egypt.jpg بحيرة_مريوط_(Mariout_lake).jpg]] Alexandria is located in the country of Egypt, on the southern coast of the Mediterranean.
+]] Alexandria is located in the country of Egypt, on the southern coast of the Mediterranean.
 
 Climate
 
@@ -124,7 +124,7 @@ The highest recorded temperature was on 30 May 1961, and the coldest recorded te
 
 Historical sites and landmarks
 
-S03_06_01_018_image_2380.jpg AlexandriaAmphitheatre.jpg Alex_Sawary.jpg]] Due to the constant presence of war in Alexandria in ancient times, very little of the ancient city has survived into the present day. Much of the royal and civic quarters sank beneath the harbour due to earthquake subsidence in AD 365, and the rest has been built over in modern times. 113KOM_EL_SHOQAFA_CATACOMBS.jpg
+]] Due to the constant presence of war in Alexandria in ancient times, very little of the ancient city has survived into the present day. Much of the royal and civic quarters sank beneath the harbour due to earthquake subsidence in AD 365, and the rest has been built over in modern times.
 
 "Pompey's Pillar", a Roman triumphal column, is one of the best-known ancient monuments still standing in Alexandria today. It is located on Alexandria's ancient acropolis—a modest hill located adjacent to the city's Arab cemetery—and was originally part of a temple colonnade. Including its pedestal, it is 30 m (99 ft) high; the shaft is of polished red granite, in diameter at the base, tapering to at the top. The shaft is high, and made out of a single piece of granite. Its volume is and weight approximately 396 tons.[34] Pompey's Pillar may have been erected using the same methods that were used to erect the ancient obelisks. The Romans had cranes but they were not strong enough to lift something this heavy. Roger Hopkins and Mark Lehrner conducted several obelisk erecting experiments including a successful attempt to erect a 25-ton obelisk in 1999. This followed two experiments to erect smaller obelisks and two failed attempts to erect a 25-ton obelisk.[35][36] The structure was plundered and demolished in the 4th century when a bishop decreed that Paganism must be eradicated. "Pompey's Pillar" is a misnomer, as it has nothing to do with Pompey, having been erected in 293 for Diocletian, possibly in memory of the rebellion of Domitius Domitianus. Beneath the acropolis itself are the subterranean remains of the Serapeum, where the mysteries of the god Serapis were enacted, and whose carved wall niches are believed to have provided overflow storage space for the ancient Library. In more recent years, many ancient artifacts have been discovered from the surrounding sea, mostly pieces of old pottery.
 
@@ -132,7 +132,7 @@ Alexandria's catacombs, known as _Kom El Shoqafa_, are a short distance southwes
 
 The most extensive ancient excavation currently being conducted in Alexandria is known as Kom El Deka. It has revealed the ancient city's well-preserved theater, and the remains of its Roman-era baths.
 
-Persistent efforts have been made to explore the antiquities of Alexandria. Encouragement and help have been given by the local Archaeological Society, and by many individuals, notably Greeks proud of a city which is one of the glories of their national history. Excavations were performed in the city by Greeks seeking the tomb of Alexander the Great without success. The past and present directors of the museum have been enabled from time to time to carry out systematic excavations whenever opportunity is offered; D. G. Hogarth made tentative researches on behalf of the Egypt Exploration Fund and the Society for the Promotion of Hellenic Studies in 1895; and a German expedition worked for two years (1898–1899). But two difficulties face the would-be excavator in Alexandria: lack of space for excavation and the underwater location of some areas of interest. Magna_temple1.JPG
+Persistent efforts have been made to explore the antiquities of Alexandria. Encouragement and help have been given by the local Archaeological Society, and by many individuals, notably Greeks proud of a city which is one of the glories of their national history. Excavations were performed in the city by Greeks seeking the tomb of Alexander the Great without success. The past and present directors of the museum have been enabled from time to time to carry out systematic excavations whenever opportunity is offered; D. G. Hogarth made tentative researches on behalf of the Egypt Exploration Fund and the Society for the Promotion of Hellenic Studies in 1895; and a German expedition worked for two years (1898–1899). But two difficulties face the would-be excavator in Alexandria: lack of space for excavation and the underwater location of some areas of interest.
 
 Since the great and growing modern city stands immediately over the ancient one, it is almost impossible to find any considerable space in which to dig, except at enormous cost. Cleopatra VII's royal quarters were inundated by earthquakes and tsunami, leading to gradual subsidence in the 4th century AD.[38] This underwater section, containing many of the most interesting sections of the Hellenistic city, including the palace quarter, was explored in 1992 and is still being extensively investigated by the French underwater archaeologist Franck Goddio and his team.[39] It raised a noted head of Caesarion. These are being opened up to tourists, to some controversy.[40] The spaces that are most open are the low grounds to northeast and southwest, where it is practically impossible to get below the Roman strata.
 
@@ -173,18 +173,18 @@ In antiquity, Alexandria was a major center of the cosmopolitan religious moveme
 
 Judaism
 
-Egyptian_Alexandria_Jewish_girls_during_BatMitzva.jpg in Alexandria]] Alexandria's once-flourishing Jewish community declined rapidly following the 1948 Arab–Israeli War, after which negative reactions towards Zionism among Egyptians led to Jewish residents in the city, and elsewhere in Egypt, being perceived as Zionist collaborators. Most Jewish residents of Egypt fled to the newly established Israel, France, Brazil and other countries in the 1950s and 1960s. The community once numbered 50,000 but is now estimated at below 50.[42] The most important synagogue in Alexandria is the Eliyahu Hanavi Synagogue.
+in Alexandria]] Alexandria's once-flourishing Jewish community declined rapidly following the 1948 Arab–Israeli War, after which negative reactions towards Zionism among Egyptians led to Jewish residents in the city, and elsewhere in Egypt, being perceived as Zionist collaborators. Most Jewish residents of Egypt fled to the newly established Israel, France, Brazil and other countries in the 1950s and 1960s. The community once numbered 50,000 but is now estimated at below 50.[42] The most important synagogue in Alexandria is the Eliyahu Hanavi Synagogue.
 
 
 Education
 
 Colleges and universities
 
-Saint-Marc_Alexandria.jpg]] Alexandria has a number of higher education institutions. Alexandria University is a public university that follows the Egyptian system of higher education. Many of its faculties are internationally renowned, most notably its Faculty of Medicine & Faculty of Engineering. In addition, Egypt-Japan University of Science and Technology in New Borg El Arab city, its is a research university set up in collaboration between the Japanese and Egyptian governments in 2010, the Arab Academy for Science, Technology & Maritime Transport is a semi-private educational institution that offers courses for high school, undergraduate level, and postgraduate students. It is considered the most reputable university in Egypt after the AUC American University in Cairo because of its worldwide recognition from board of engineers at UK & ABET in US. Université Senghor is a private French university that focuses on the teaching of humanities, politics and international relations, which mainly targets students from the African continent. Other institutions of higher education in Alexandria include Alexandria Institute of Technology (AIT) and Pharos University in Alexandria.
+]] Alexandria has a number of higher education institutions. Alexandria University is a public university that follows the Egyptian system of higher education. Many of its faculties are internationally renowned, most notably its Faculty of Medicine & Faculty of Engineering. In addition, Egypt-Japan University of Science and Technology in New Borg El Arab city, its is a research university set up in collaboration between the Japanese and Egyptian governments in 2010, the Arab Academy for Science, Technology & Maritime Transport is a semi-private educational institution that offers courses for high school, undergraduate level, and postgraduate students. It is considered the most reputable university in Egypt after the AUC American University in Cairo because of its worldwide recognition from board of engineers at UK & ABET in US. Université Senghor is a private French university that focuses on the teaching of humanities, politics and international relations, which mainly targets students from the African continent. Other institutions of higher education in Alexandria include Alexandria Institute of Technology (AIT) and Pharos University in Alexandria.
 
 Schools
 
-Lycee_Francais_d'Alexandrie_2001.JPG]] Alexandria has a long history of foreign educational institutions. The first foreign schools date to the early 19th century, when French missionaries began establishing French charitable schools to educate the Egyptians. Today, the most important French schools in Alexandria run by Catholic missionaries include Collège de la Mère de Dieu, Collège Notre Dame de Sion, Collège Saint Marc, Ecoles des Soeurs Franciscaines (four different schools), École Girard, École Saint Gabriel, École Saint-Vincent de Paul, École Saint Joseph, École Sainte Catherine, and Institution Sainte Jeanne-Antide. As a reaction to the establishment of French religious institutions, a secular (laic) mission established Lycée el-Horreya, which initially followed a French system of education, but is currently a public school run by the Egyptian government. The only school in Alexandria that completely follows the French educational system is Lycée Français d'Alexandrie (École Champollion). It is usually frequented by the children of French expatriates and diplomats in Alexandria. The Italian school is the Istituto "Don Bosco".
+]] Alexandria has a long history of foreign educational institutions. The first foreign schools date to the early 19th century, when French missionaries began establishing French charitable schools to educate the Egyptians. Today, the most important French schools in Alexandria run by Catholic missionaries include Collège de la Mère de Dieu, Collège Notre Dame de Sion, Collège Saint Marc, Ecoles des Soeurs Franciscaines (four different schools), École Girard, École Saint Gabriel, École Saint-Vincent de Paul, École Saint Joseph, École Sainte Catherine, and Institution Sainte Jeanne-Antide. As a reaction to the establishment of French religious institutions, a secular (laic) mission established Lycée el-Horreya, which initially followed a French system of education, but is currently a public school run by the Egyptian government. The only school in Alexandria that completely follows the French educational system is Lycée Français d'Alexandrie (École Champollion). It is usually frequented by the children of French expatriates and diplomats in Alexandria. The Italian school is the Istituto "Don Bosco".
 
 English schools in Alexandria are becoming the most popular. English-language schools in the city include: Riada American School, Riada Language School, Alexandria Language School, Future Language School, Future International Schools (Future IGCSE, Future American School and Future German school), Alexandria American School, British School of Alexandria, Egyptian American School, Pioneers Language School, Princesses Girls' School, Sidi Gaber Language School, Taymour English School, Sacred Heart Girls' School, Schutz American School, Victoria College, El Manar Language School for Girls (previously called Scottish School for Girls), Kawmeya Language School, El Nasr Boys' School (previously called British Boys' School), and El Nasr Girls' College. There are only two German schools in Alexandria which are Deutsche Schule der Borromärinnen (DSB of Saint Charles Borromé) and Future Deutsche Schule.
 
@@ -201,13 +201,13 @@ Transport
 
 Airports
 
-Borg_El_Arab_International_Airport..jpg]] Alexandria is served by El Nouzha Airport which is currently closed and Borg El Arab Airport which is located about away from the city center.
+]] Alexandria is served by El Nouzha Airport which is currently closed and Borg El Arab Airport which is located about away from the city center.
 
 From late 2011, Alexandria International Airport was to be closed to commercial operations for two years as it underwent expansion, with all airlines operating out of Borg El Arab Airport from then onwards, where a brand new terminal was completed in February 2010.[44] In 2017 the government officially announced that Alexandria International Airport will shut down for good due to operational reasons, after having initially announced that it was to open during mid-2017.
 
 Port
 
-Alexandria_harbour_(February_2007).jpg Alexandria has four ports; namely the Western Port, which is the main port of the country that handles about 60% of the country's exports and imports, Dekhela Port west of the Western Port, the Eastern Port which is a yachting harbor, and Abu Qir Port at the northern east of the governorate. It is a commercial port for general cargo and phosphates.
+Alexandria has four ports; namely the Western Port, which is the main port of the country that handles about 60% of the country's exports and imports, Dekhela Port west of the Western Port, the Eastern Port which is a yachting harbor, and Abu Qir Port at the northern east of the governorate. It is a commercial port for general cargo and phosphates.
 
 Highways
 
@@ -218,13 +218,13 @@ Highways
 
 Rail
 
-Misr_Train_Station,_Alexandria.jpg Alexandria's intracity commuter rail system extends from Misr Station (Alexandria's primary intercity railway station) to Abu Qir, parallel to the tram line. The commuter line's locomotives operate on diesel, as opposed to the overhead-electric tram.
+Alexandria's intracity commuter rail system extends from Misr Station (Alexandria's primary intercity railway station) to Abu Qir, parallel to the tram line. The commuter line's locomotives operate on diesel, as opposed to the overhead-electric tram.
 
 Alexandria plays host to two intercity railway stations: the aforementioned Misr Station (in the older Manshia district in the western part of the city) and Sidi Gaber railway station (in the district of Sidi Gaber in the center of the eastern expansion in which most Alexandrines reside), both of which also serve the commuter rail line. Intercity passenger service is operated by Egyptian National Railways.
 
 Trams
 
-The_yellow_tram_passing_through_Saad_Zaghloul's_square.jpg An extensive tramway network was built in 1860 and is the oldest in Africa. The network begins at the El Raml district in the west and ends in the Victoria district in the east. Most of the vehicles are blue in color. Some smaller yellow-colored vehicles have further routes beyond the two main endpoints. The tram routes have one of four numbers: 1, 2, 5, and 6. All four start at El Raml, but only two (1 and 2) reach Victoria. There are two converging and diverging points. The first starts at Bolkly (Isis) and ends at San Stefano. The other begins at Sporting and ends at Mostafa Kamel. Route 5 starts at San Stefano and takes the inner route to Bolkly. Route 6 starts at Sidi Gaber El Sheikh in the outer route between Sporting and Mustafa Kamel. Route 1 takes the inner route between San Stefano and Bolkly and the outer route between Sporting and Mustafa Kamel. Route 2 takes the route opposite to Route 1 in both these areas. The tram fares are 50 piastres (0.50 pounds), and 100 piastres (1.00 pounds) for the middle car. Some trams (that date back the 30s) charge a pound. The tram is considered the cheapest method of public transport. A café operates in the second floor of the first car of tram 1 (a women-only car) which costs 5 L.E per person, also offering a WiFi service. A luxury light blue tram car operates from San Stefano to Ras El Tin, with free WiFi and movies and songs played inside for 5 L.E per ticket.
+An extensive tramway network was built in 1860 and is the oldest in Africa. The network begins at the El Raml district in the west and ends in the Victoria district in the east. Most of the vehicles are blue in color. Some smaller yellow-colored vehicles have further routes beyond the two main endpoints. The tram routes have one of four numbers: 1, 2, 5, and 6. All four start at El Raml, but only two (1 and 2) reach Victoria. There are two converging and diverging points. The first starts at Bolkly (Isis) and ends at San Stefano. The other begins at Sporting and ends at Mostafa Kamel. Route 5 starts at San Stefano and takes the inner route to Bolkly. Route 6 starts at Sidi Gaber El Sheikh in the outer route between Sporting and Mustafa Kamel. Route 1 takes the inner route between San Stefano and Bolkly and the outer route between Sporting and Mustafa Kamel. Route 2 takes the route opposite to Route 1 in both these areas. The tram fares are 50 piastres (0.50 pounds), and 100 piastres (1.00 pounds) for the middle car. Some trams (that date back the 30s) charge a pound. The tram is considered the cheapest method of public transport. A café operates in the second floor of the first car of tram 1 (a women-only car) which costs 5 L.E per person, also offering a WiFi service. A luxury light blue tram car operates from San Stefano to Ras El Tin, with free WiFi and movies and songs played inside for 5 L.E per ticket.
 
 THE TRAM STATIONS:
 
@@ -324,7 +324,7 @@ Culture
 
 Libraries
 
-Bibliotheca_Alexandrina_plaza_003.jpg]] The Royal Library of Alexandria, in Alexandria, Egypt, was once the largest library in the world. It is generally thought to have been founded at the beginning of the 3rd century BC, during the reign of Ptolemy II of Egypt. It was likely created after his father had built what would become the first part of the library complex, the temple of the Muses—the Museion, Greek _Μουσείον_ (from which the Modern English word _museum_ is derived).
+]] The Royal Library of Alexandria, in Alexandria, Egypt, was once the largest library in the world. It is generally thought to have been founded at the beginning of the 3rd century BC, during the reign of Ptolemy II of Egypt. It was likely created after his father had built what would become the first part of the library complex, the temple of the Muses—the Museion, Greek _Μουσείον_ (from which the Modern English word _museum_ is derived).
 
 It has been reasonably established that the library, or parts of the collection, were destroyed by fire on a number of occasions (library fires were common and replacement of handwritten manuscripts was very difficult, expensive, and time-consuming). To this day the details of the destruction (or destructions) remain a lively source of controversy.[45]
 
@@ -354,7 +354,7 @@ File:Shalalat gardens.JPG|Shalalat Gardens File:Tree House.jpg|Montaza Garden Fi
 
 Sports
 
-GD-EG-Alex-Stade002.JPG]]
+]]
 
 The main sport that interests Alexandrians is football, as is the case in the rest of Egypt and Africa. Alexandria Stadium is a multi-purpose stadium in Alexandria, Egypt. It is currently used mostly for football matches, and was used for the 2006 African Cup of Nations. The stadium is the oldest stadium in Egypt, being built in 1929. The stadium holds 20,000 people. Alexandria was one of three cities that participated in hosting the African Cup of Nations in January 2006, which Egypt won. Sea sports such as surfing, jet-skiing and water polo are practiced on a lower scale. The Skateboarding culture in Egypt started in this city. The city is also home to the Alexandria Sporting Club, which is especially known for its basketball team, which traditionally provides the country's national team with key players. The city hosted the AfroBasket, the continent's most prestigious basketball tournament, on four occasions (1970, 1975, 1983, 2003).
 
@@ -381,8 +381,6 @@ Started in 2011, Cross Egypt Challenge is an international cross-country motorcy
 
 
 International relations
-
-Alexandria_-_20080720b.jpg
 
 Twin towns/sister cities
 

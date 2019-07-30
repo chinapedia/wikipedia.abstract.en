@@ -36,7 +36,7 @@ On 4 October 2009, George Papandreou, president of the Panhellenic Socialist Mov
 
 Legislative branch
 
-Attica_06-13_Athens_10_Parliament.jpg building, which was the Old Royal Palace.]]
+building, which was the Old Royal Palace.]]
 
 Greece elects a legislature by universal suffrage of all citizens over the age of 18. The Greek Parliament (Βουλή των Ελλήνων) has 300 members, elected for a four-year term by a system of reinforced proportional representation in 48 multi-seat constituencies, 8 single-seat constituencies and a single nationwide list. 288 of the 300 seats are determined by constituency voting, and voters may select the candidate or candidates of their choice by marking their name on the party ballot. The remaining 12 seats are filled from nationwide party lists on a top-down basis and based on the proportion of the total vote each party received.
 
@@ -47,7 +47,7 @@ The law in its current form favors the first past the post party to achieve an a
 
 Judicial branch
 
-Council_of_State,_Greece,_2008.jpg is seated.]]
+is seated.]]
 
 In Greece the judicial branch is divided into civil, and administrative courts. Civil courts judge civil and penal cases, whereas administrative courts judge administrative cases, namely disputes between the citizens and the State.
 
@@ -62,7 +62,7 @@ When it judges the constitutionality of a law or resolves the disputes between S
 
 Administrative divisions
 
-Kallikratis_dioikisi.png, showing regions and municipalities]]
+, showing regions and municipalities]]
 
 Greece is divided in 13 regions, further divided into 74 regional units. The prefectures are each headed by a prefect (the "_Nomarch_"), who is elected by direct popular vote. The thirteen regional administrative districts (peripheries), each including a number of prefectures are headed by a regional governor (the "_Peripheriarch_"), appointed by the Minister of the Interior. In northern Greece and in greater Athens, three areas have an additional administrative position between the nomarch and peripheriarch.
 
@@ -161,7 +161,7 @@ Political issues
 
 Education
 
-Working-class_protest_in_Greece.JPG political protest in Athens, Greece calling for the boycott of a local bookshop after, allegedly, an employee was fired for her political activism]]
+political protest in Athens, Greece calling for the boycott of a local bookshop after, allegedly, an employee was fired for her political activism]]
 
 Under the Greek constitution,[1] education is the responsibility of the state. Most Greeks attend public primary and secondary schools. There are a few private schools, which must meet the standard curriculum of and are supervised by the Ministry of Education. The Ministry of Education oversees and directs every aspect of the public education process at all levels, including hiring all teachers and professors and producing all required textbooks.
 

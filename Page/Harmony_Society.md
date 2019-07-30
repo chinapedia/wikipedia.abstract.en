@@ -1,4 +1,4 @@
-HarmonistChurchEconomyPA.jpg]]
+]]
 
 The HARMONY SOCIETY was a Christian theosophy and pietist society founded in Iptingen, Germany, in 1785. Due to religious persecution by the Lutheran Church and the government in Württemberg, the group moved to the United States,[1] where representatives initially purchased land in Butler County, Pennsylvania. On February 15, 1805, the group of approximately 400 followers formally organized the Harmony Society, placing all their goods in common.
 
@@ -7,7 +7,7 @@ Under its founder and spiritual leader, Johann Georg Rapp (1757–1847); Frederi
 
 Origins in Germany
 
-Johann_Georg_Rapp_1757_-_1847.jpg) 1757–1847.]]
+) 1757–1847.]]
 
 Johann Georg Rapp (1757 – 1847), also known as George Rapp, was the founder of the religious sect called Harmonists, Harmonites, Rappites, or the Harmony Society. Born in Iptingen, Duchy of Württemberg, Germany, Rapp was a "bright but stubborn boy" who was also deeply religious. His "strong personality" and religious convictions began to concern local church authorities when he refused to attend church services or take communion.[2] Rapp and his group of believers began meeting in Iptengen and eventually emigrated to the United States, where they established three communities: Harmony, Butler County, Pennsylvania; Harmony (later named New Harmony), Posey County, Indiana; and Economy, Beaver County, Pennsylvania.
 
@@ -32,7 +32,7 @@ The Society was a religious congregation who submitted to spiritual and material
 
 First settlement: Harmony, Pennsylvania
 
-HarmonyPAmuseum.jpg, built in 1809.]]
+, built in 1809.]]
 
 In December 1804 Rapp and a party of two others initially contracted to purchase of land for $11,250 in Butler County, Pennsylvania,[25] and later acquired additional land to increase their holdings to approximately by the time they advertised their property for sale in 1814.[26] Here they built the town of Harmony, a small community that had, in 1805, nearly 50 log houses, a large barn, a gristmill, and more than 150 acres of cleared land to grow crops.[27]
 
@@ -48,7 +48,7 @@ Several factors led to the Harmonists' decision to leave Butler County. Because 
 
 Second settlement: Harmony, Indiana
 
-NewHarmonyIndiana.jpg.]]
+.]]
 
 In 1814 the Harmony Society moved to the Indiana Territory, where it initially acquired approximately of land along the Wabash River in Posey County and later acquired more.[45] Over the next ten years the Society built a thriving new community they called Harmonie or Harmony on the Wabash in the Indiana wilderness. (The town's name was changed to New Harmony after the Harmonists left in 1824.) The Harmonists entered into agriculture and manufacture on a larger scale than they had done in Pennsylvania. When the Harmonists advertised their Indiana property for sale in 1824, they had acquired of land, of which was under cultivation.[46]
 
@@ -62,9 +62,9 @@ On January 3, 1825, the Harmonists and Robert Owen, a Welsh-born industrialist a
 
 Third settlement: Economy, Pennsylvania
 
-RappHouseOldEconomyPA.jpg.]]
+.]]
 
-GrottoandHarmonyStatue.jpg in the Harmony Society gardens in Old Economy Village, Pennsylvania.]]
+in the Harmony Society gardens in Old Economy Village, Pennsylvania.]]
 
 In 1824 Frederick Rapp initially purchased along the Ohio River, northwest of Pittsburgh, Pennsylvania, for $10,000, and later bought an additional for $33,445, giving the Society more than to develop into a new community.[60] The Harmonites named their third and last town Economy, after the spiritual notion of the Divine Economy, "a city in which God would dwell among men" and where perfection would be attained.[61]
 
@@ -91,7 +91,7 @@ In 1791 George Rapp said, "I am a prophet, and I am called to be one" in front o
 
 The Harmonites were Christian pietist Separatists who split from the Lutheran Church in the late 18th century. Under the leadership of George Rapp, the group left Württemberg, Germany, and came to the United States in 1803. Due to the troubles they had in Europe, the group sought to establish a more perfect society in the American wilderness. They were nonviolent pacifists who refused to serve in the military and tried to live by George Rapp's philosophy and literal interpretations of the New Testament. They first settled and built the town of Harmony, Pennsylvania, in 1804, and established the Harmony Society in 1805 as a religious commune. In 1807, celibacy was advocated as the preferred custom of the community in an attempt to purify themselves for the coming Millennium. Rapp believed that the events and wars going on in the world at the time were a confirmation of his views regarding the imminent Second Coming of Christ, and he also viewed Napoleon as the Antichrist.[95] In 1814, the Society sold their first town in Pennsylvania and moved to the Indiana Territory, where they built their second town. In 1824, they decided it was time to leave Indiana, sold their land and town in Indiana, and moved to their final settlement in Western Pennsylvania.
 
-Sophia_design.jpg design on doorway in Harmony, Pennsylvania, carved by Frederick Reichert Rapp (1775–1834).]]
+design on doorway in Harmony, Pennsylvania, carved by Frederick Reichert Rapp (1775–1834).]]
 
 The Harmonites were Millennialists, in that they believed Jesus Christ was coming to earth in their lifetime to help usher in a thousand-year kingdom of peace on earth. This is perhaps why they believed that people should try to make themselves "pure" and "perfect", and share things with others while willingly living in communal "harmony" (Acts 4:32-35) and practicing celibacy. They believed that the old ways of life on earth were coming to an end, and that a new perfect kingdom on earth was about to be realized.
 

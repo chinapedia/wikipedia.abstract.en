@@ -5,7 +5,7 @@ Archaeology, which studies human activity through investigation of physical evid
 
 Origin and development of the term
 
-Sahagun.jpg is considered to be the founder of modern anthropology.[10]]] The abstract noun _anthropology_ is first attested in reference to history.[11] Its present use first appeared in Renaissance Germany in the works of Magnus Hundt and Otto Casmann.[12] Their New Latin __ derived from the combining forms of the Greek words _ánthrōpos_ (, "human") and _lógos_ (, "study").[13] (Its adjectival form appeared in the works of Aristotle.)[14] It began to be used in English, possibly via French __, by the early 18th century.[15]
+is considered to be the founder of modern anthropology.[10]]] The abstract noun _anthropology_ is first attested in reference to history.[11] Its present use first appeared in Renaissance Germany in the works of Magnus Hundt and Otto Casmann.[12] Their New Latin __ derived from the combining forms of the Greek words _ánthrōpos_ (, "human") and _lógos_ (, "study").[13] (Its adjectival form appeared in the works of Aristotle.)[14] It began to be used in English, possibly via French __, by the early 18th century.[15]
 
 Through the 19th century
 
@@ -56,29 +56,27 @@ The study of kinship and social organization is a central focus of sociocultural
 
 Comparison across cultures is a key element of method in sociocultural anthropology, including the industrialized (and de-industrialized) West. Cultures in the Standard Cross-Cultural Sample (SCCS)[43] of world societies are:
 
-+-------------------------------------------------------------+--+
-| Africa African_sccs_cultures.jpg                            |  |
-+=============================================================+==+
-| Circum-Mediterranean Circum-mediterannean_sccs_cultures.jpg |  |
-+-------------------------------------------------------------+--+
-| East Eurasia East_eurasian_sccs_cultures.jpg                |  |
-+-------------------------------------------------------------+--+
-| Insular Pacific Insular_pacific.jpg                         |  |
-+-------------------------------------------------------------+--+
-| North America North_american_sccs_cultures.jpg              |  |
-+-------------------------------------------------------------+--+
-| South America South_america_SCCS_cultures.jpg               |  |
-+-------------------------------------------------------------+--+
++----------------------+--+
+| Africa               |  |
++======================+==+
+| Circum-Mediterranean |  |
++----------------------+--+
+| East Eurasia         |  |
++----------------------+--+
+| Insular Pacific      |  |
++----------------------+--+
+| North America        |  |
++----------------------+--+
+| South America        |  |
++----------------------+--+
 
 Biological
-
-Human_remains.jpg
 
 Biological anthropology and physical anthropology are synonymous terms to describe anthropological research focused on the study of humans and non-human primates in their biological, evolutionary, and demographic dimensions. It examines the biological and social factors that have affected the evolution of humans and other primates, and that generate, maintain or change contemporary genetic and physiological variation.[44]
 
 Archaeological
 
-Archaeology is the study of the human past through its material remains. Artifacts, faunal remains, and human altered landscapes are evidence of the cultural and material lives of past societies. Archaeologists examine this material remains in order to deduce patterns of past human behavior and cultural practices. Ethnoarchaeology is a type of archaeology that studies the practices and material remain of living human groups in order to gain a better understanding of the evidence left behind by past human groups, who are presumed to have lived in similar ways.[45] Rosetta_Stone.svg
+Archaeology is the study of the human past through its material remains. Artifacts, faunal remains, and human altered landscapes are evidence of the cultural and material lives of past societies. Archaeologists examine this material remains in order to deduce patterns of past human behavior and cultural practices. Ethnoarchaeology is a type of archaeology that studies the practices and material remain of living human groups in order to gain a better understanding of the evidence left behind by past human groups, who are presumed to have lived in similar ways.[45]
 
 Linguistic
 
@@ -95,7 +93,7 @@ One of the central problems in the anthropology of art concerns the universality
 
 Media
 
-Punu_mask_Gabon.JPG Media anthropology (also known as the anthropology of media or mass media) emphasizes ethnographic studies as a means of understanding producers, audiences, and other cultural and social aspects of mass media. The types of ethnographic contexts explored range from contexts of media production (e.g., ethnographies of newsrooms in newspapers, journalists in the field, film production) to contexts of media reception, following audiences in their everyday responses to media. Other types include cyber anthropology, a relatively new area of internet research, as well as ethnographies of other areas of research which happen to involve media, such as development work, social movements, or health education. This is in addition to many classic ethnographic contexts, where media such as radio, the press, new media, and television have started to make their presences felt since the early 1990s.[49][50]
+Media anthropology (also known as the anthropology of media or mass media) emphasizes ethnographic studies as a means of understanding producers, audiences, and other cultural and social aspects of mass media. The types of ethnographic contexts explored range from contexts of media production (e.g., ethnographies of newsrooms in newspapers, journalists in the field, film production) to contexts of media reception, following audiences in their everyday responses to media. Other types include cyber anthropology, a relatively new area of internet research, as well as ethnographies of other areas of research which happen to involve media, such as development work, social movements, or health education. This is in addition to many classic ethnographic contexts, where media such as radio, the press, new media, and television have started to make their presences felt since the early 1990s.[49][50]
 
 Music
 

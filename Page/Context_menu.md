@@ -1,4 +1,4 @@
-Menu_key_screen.jpg, shown in the context of a web page]] Context_menu_windows.png are customizable by third-party software.]] Context_Menu_on_OS_X_10.9.png]] Context_menu.png context menu]]
+, shown in the context of a web page]] are customizable by third-party software.]] ]] context menu]]
 
 A CONTEXT MENU (also called CONTEXTUAL, SHORTCUT, and POP UP or POP-UP MENU) is a menu in a graphical user interface (GUI) that appears upon user interaction, such as a right-click mouse operation. A context menu offers a limited set of choices that are available in the current state, or context, of the operating system or application to which the menu belongs. Usually the available choices are actions related to the selected object. From a technical point of view, such a context menu is a graphical control element.
 

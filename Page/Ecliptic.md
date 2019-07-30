@@ -1,4 +1,4 @@
-Ecliptic_with_earth_and_sun_animation.gif, the Sun appears to move with respect to the fixed stars, and the ecliptic is the yearly path the Sun follows on the celestial sphere. This process repeats itself in a cycle lasting a little over 365 days.]]
+, the Sun appears to move with respect to the fixed stars, and the ecliptic is the yearly path the Sun follows on the celestial sphere. This process repeats itself in a cycle lasting a little over 365 days.]]
 
 The ECLIPTIC is the mean plane of the apparent path in the Earth's sky that the Sun follows over the course of one year; it is the basis of the ecliptic coordinate system. This plane of reference is coplanar with Earth's orbit around the Sun (and hence the Sun's apparent path around Earth).[1] The ecliptic is not normally noticeable from Earth's surface because the planet's rotation carries the observer through the daily cycles of sunrise and sunset, which obscure the Sun's apparent motion against the background of stars during the year.
 
@@ -12,7 +12,7 @@ Because Earth takes one year to orbit the Sun, the apparent position of the Sun 
 
 Relationship to the celestial equator
 
-Earths_orbit_and_ecliptic.PNG of Earth's orbit projected in all directions forms the reference plane known as the ecliptic. Here, it is shown projected outward (gray) to the celestial sphere, along with Earth's equator and polar axis (green). The plane of the ecliptic intersects the celestial sphere along a great circle (black), the same circle on which the Sun seems to move as Earth orbits it. The intersections of the ecliptic and the equator on the celestial sphere are the vernal and autumnal equinoxes (red), where the Sun seems to cross the celestial equator. ]]
+of Earth's orbit projected in all directions forms the reference plane known as the ecliptic. Here, it is shown projected outward (gray) to the celestial sphere, along with Earth's equator and polar axis (green). The plane of the ecliptic intersects the celestial sphere along a great circle (black), the same circle on which the Sun seems to move as Earth orbits it. The intersections of the ecliptic and the equator on the celestial sphere are the vernal and autumnal equinoxes (red), where the Sun seems to cross the celestial equator. ]]
 
 Because Earth's rotational axis is not perpendicular to its orbital plane, Earth's equatorial plane is not coplanar with the ecliptic plane, but is inclined to it by an angle of about 23.4°, which is known as the obliquity of the ecliptic.[6] If the equator is projected outward to the celestial sphere, forming the celestial equator, it crosses the ecliptic at two points known as the equinoxes. The Sun, in its apparent motion along the ecliptic, crosses the celestial equator at these points, one from south to north, the other from north to south.[7] The crossing from south to north is known as the vernal equinox, also known as the _first point of Aries_ and the _ascending node of the ecliptic_ on the celestial equator.[8] The crossing from north to south is the autumnal equinox or descending node.
 
@@ -26,8 +26,6 @@ Obliquity of the ecliptic
 Obliquity of the ecliptic is the term used by astronomers for the inclination of Earth's equator with respect to the ecliptic, or of Earth's rotation axis to a perpendicular to the ecliptic. It is about 23.4° and is currently decreasing 0.013 degrees (47 arcseconds) per hundred years because of planetary perturbations.[12]
 
 The angular value of the obliquity is found by observation of the motions of Earth and other planets over many years. Astronomers produce new fundamental ephemerides as the accuracy of observation improves and as the understanding of the dynamics increases, and from these ephemerides various astronomical values, including the obliquity, are derived.
-
-Obliquity_of_the_ecliptic_laskar.PNG
 
 Until 1983 the obliquity for any date was calculated from work of Newcomb, who analyzed positions of the planets until about 1895:
 
@@ -52,10 +50,10 @@ All of these expressions are for the _mean_ obliquity, that is, without the nuta
 
 Plane of the Solar System
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
-  Ecliptic_plane_top_view.gif                                                                                                                                                                              Ecliptic_plane_side_view.gif                                                                                                                                                                       FourPlanetSunset_hao_annotated.JPG
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --
+
   Top and side views of the plane of the ecliptic, showing planets Mercury, Venus, Earth, and Mars. Most of the planets orbit the Sun very nearly in the same plane in which Earth orbits, the ecliptic.   Four planets lined up along the ecliptic in July 2010, illustrating how the planets orbit the Sun in nearly the same plane. Photo taken at sunset, looking west over Surakarta, Java, Indonesia.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --
 
 Most of the major bodies of the Solar System orbit the Sun in nearly the same plane. This is likely due to the way in which the Solar System formed from a protoplanetary disk. Probably the closest current representation of the disk is known as the _invariable plane of the Solar System_. Earth's orbit, and hence, the ecliptic, is inclined a little more than 1° to the invariable plane, Jupiter's orbit is within a little more than ° of it, and the other major planets are all within about 6°. Because of this, most Solar System bodies appear very close to the ecliptic in the sky.
 
@@ -64,7 +62,7 @@ The invariable plane is defined by the angular momentum of the entire Solar Syst
 
 Celestial reference plane
 
-Ecliptic_vs_equator_small.gif along the ecliptic (red) as seen on the inside of the celestial sphere. Ecliptic coordinates appear in (red). The celestial equator (blue) and the equatorial coordinates (blue), being inclined to the ecliptic, appear to wobble as the Sun advances.]]
+along the ecliptic (red) as seen on the inside of the celestial sphere. Ecliptic coordinates appear in (red). The celestial equator (blue) and the equatorial coordinates (blue), being inclined to the ecliptic, appear to wobble as the Sun advances.]]
 
 The ecliptic forms one of the two fundamental planes used as reference for positions on the celestial sphere, the other being the celestial equator. Perpendicular to the ecliptic are the ecliptic poles, the north ecliptic pole being the pole north of the equator. Of the two fundamental planes, the ecliptic is closer to unmoving against the background stars, its motion due to planetary precession being roughly 1/100 that of the celestial equator.[22]
 

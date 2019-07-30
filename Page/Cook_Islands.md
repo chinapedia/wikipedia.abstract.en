@@ -19,7 +19,7 @@ In 1813 John Williams, a missionary on the _Endeavour_ (not the same ship as Coo
 
 The islands were a popular stop in the 19th century for whaling ships from the United States, Britain and Australia. They visited, from at least 1826, to obtain water, food and firewood.[12] Their favourite islands were Rarotonga, Aitutaki, Mangaia and Penrhyn.
 
-Cook_Islands_Annexation_Ceremony.jpg reading the annexation proclamation to Queen Makea on 7 October 1900.]] The Cook Islands became a British protectorate in 1888, largely because of community fears that France might occupy the islands as it already had Tahiti. On 6 September 1900, the islanders's leaders presented a petition asking that the islands (including Niue "if possible") be annexed as British territory.[13][14] On 8 and 9 October 1900, seven instruments of cession of Rarotonga and other islands were signed by their chiefs and people. A British Proclamation was issued, stating that the cessions were accepted and the islands declared parts of Her Britannic Majesty's dominions.[15] However, it did not include Aitutaki. Even though the inhabitants regarded themselves as British subjects, the Crown's title was unclear until the island was formally annexed by a Proclamation dated 9 October 1900.[16][17] In 1901 the islands were included within the boundaries of the Colony of New Zealand by Order in Council[18] under the Colonial Boundaries Act, 1895 of the United Kingdom.[19][20] The boundary change became effective on 11 June 1901, and the Cook Islands have had a formal relationship with New Zealand since that time.[21]
+reading the annexation proclamation to Queen Makea on 7 October 1900.]] The Cook Islands became a British protectorate in 1888, largely because of community fears that France might occupy the islands as it already had Tahiti. On 6 September 1900, the islanders's leaders presented a petition asking that the islands (including Niue "if possible") be annexed as British territory.[13][14] On 8 and 9 October 1900, seven instruments of cession of Rarotonga and other islands were signed by their chiefs and people. A British Proclamation was issued, stating that the cessions were accepted and the islands declared parts of Her Britannic Majesty's dominions.[15] However, it did not include Aitutaki. Even though the inhabitants regarded themselves as British subjects, the Crown's title was unclear until the island was formally annexed by a Proclamation dated 9 October 1900.[16][17] In 1901 the islands were included within the boundaries of the Colony of New Zealand by Order in Council[18] under the Colonial Boundaries Act, 1895 of the United Kingdom.[19][20] The boundary change became effective on 11 June 1901, and the Cook Islands have had a formal relationship with New Zealand since that time.[21]
 
 When the British Nationality and New Zealand Citizenship Act 1948 came into effect on 1 January 1949, Cook Islanders who were British subjects automatically gained New Zealand citizenship.[22] The islands remained a New Zealand dependent territory until the New Zealand Government decided to grant them self-governing status. Albert Henry of the Cook Islands Party was elected as the first Premier. Henry led the nation until 1978, when he was accused of vote-rigging and resigned. He was succeeded by Tom Davis of the Democratic Party.
 
@@ -28,7 +28,7 @@ In March 2019 it was reported that the Cook Islands had plans to change its name
 
 Geography
 
-Wyspy_Cooka.png The Cook Islands are in the South Pacific Ocean, northeast of New Zealand, between French Polynesia and American Samoa. There are 15 major islands spread over of ocean, divided into two distinct groups: the Southern Cook Islands and the Northern Cook Islands of coral atolls.[25]
+The Cook Islands are in the South Pacific Ocean, northeast of New Zealand, between French Polynesia and American Samoa. There are 15 major islands spread over of ocean, divided into two distinct groups: the Southern Cook Islands and the Northern Cook Islands of coral atolls.[25]
 
 The islands were formed by volcanic activity; the northern group is older and consists of six atolls, which are sunken volcanoes topped by coral growth. The climate is moderate to tropical. The Cook Islands consist of 15 islands and two reefs.
 
@@ -60,7 +60,7 @@ File:Pukapuka Aerial efs 1280.jpg|Aerial photograph of Pukapuka File:Aitutaki-Mo
 
 Politics and foreign relations
 
-Parliament_of_the_Cook_Islands_-_2006.JPG Sustainable_Development_and_Conservation_Event_in_the_Cook_Islands_(7907701948).jpg with U.S. Secretary of State Hillary Clinton, 31 August 2012]] The Cook Islands is a representative democracy with a parliamentary system in an associated state relationship with New Zealand. Executive power is exercised by the government, with the Chief Minister as head of government. Legislative power is vested in both the government and the Parliament of the Cook Islands. There is a pluriform multi-party system. The Judiciary is independent of the executive and the legislature. The head of state is the Queen of New Zealand, who is represented in the Cook Islands by the Queen's Representative.[27]
+with U.S. Secretary of State Hillary Clinton, 31 August 2012]] The Cook Islands is a representative democracy with a parliamentary system in an associated state relationship with New Zealand. Executive power is exercised by the government, with the Chief Minister as head of government. Legislative power is vested in both the government and the Parliament of the Cook Islands. There is a pluriform multi-party system. The Judiciary is independent of the executive and the legislature. The head of state is the Queen of New Zealand, who is represented in the Cook Islands by the Queen's Representative.[27]
 
 The islands are self-governing in "free association" with New Zealand. New Zealand retains primary responsibility for external affairs, with consultation with the Cook Islands government. Cook Islands nationals are citizens of New Zealand and can receive New Zealand government services, but the reverse is not true; New Zealand citizens are not Cook Islands nationals. Despite this, , the Cook Islands had diplomatic relations in its own name with 43 other countries. The Cook Islands is not a United Nations member state, but, along with Niue, has had their "full treaty-making capacity" recognised by United Nations Secretariat,[28][29] and is a full member of the WHO and UNESCO UN specialised agencies, is an associate member of the Economic and Social Commission for Asia and the Pacific (UNESCAP) and a Member of the Assembly of States of the International Criminal Court.
 
@@ -73,24 +73,24 @@ Male homosexuality is illegal in the Cook Islands and is punishable by a maximum
 
 Administrative subdivisions
 
-There are island councils on all of the inhabited outer islands (Outer Islands Local Government Act 1987 with amendments up to 2004, and Palmerston Island Local Government Act 1993) except Nassau, which is governed by Pukapuka (Suwarrow, with only one caretaker living on the island, also governed by Pukapuka, is not counted with the inhabited islands in this context). Each council is headed by a mayor. Penrhyn_Aerial_EFS_1280.jpg
+There are island councils on all of the inhabited outer islands (Outer Islands Local Government Act 1987 with amendments up to 2004, and Palmerston Island Local Government Act 1993) except Nassau, which is governed by Pukapuka (Suwarrow, with only one caretaker living on the island, also governed by Pukapuka, is not counted with the inhabited islands in this context). Each council is headed by a mayor.
 
-  ----------------------------- ----------------------------------- ------------------------------------------
-  Aitutakitopo.png              Aitutaki_Aerial.jpg                 Aitutaki (including uninhabited Manuae)
-  Atiumap.png                   Atiu_Aerial.jpg                     Atiu (including uninhabited Takutea)
-  Mangaia_english_version.png   Mangaia_(Correct_Orientation).JPG   Mangaia
-  Manihiki.jpg                  Manihiki_Aerial.jpg                 Manihiki
-  Mauke_map.jpg                 Mauke_Aerial.jpg                    Ma'uke
-  Mitiaro_Island_map.jpg        Mitiaro_Aerial.jpg                  Mitiaro
-  Palmerston_Island_map.jpg     Palmerston_Aerial.jpg               Palmerston
-  Penrhyn.png                   Penhryn_atoll.jpg                   Penrhyn
-  Pukapuka.png                  Pukapuka_Atoll.jpg                  Pukapuka (including Nassau and Suwarrow)
-  Rakahanga.jpg                 ISS002-E-10047rakahanga.jpg         Rakahanga
-  ----------------------------- ----------------------------------- ------------------------------------------
+  -- -- ------------------------------------------
+        Aitutaki (including uninhabited Manuae)
+        Atiu (including uninhabited Takutea)
+        Mangaia
+        Manihiki
+        Ma'uke
+        Mitiaro
+        Palmerston
+        Penrhyn
+        Pukapuka (including Nassau and Suwarrow)
+        Rakahanga
+  -- -- ------------------------------------------
 
   : The Ten Outer Islands Councils are:
 
-Rarotopo.png The three _Vaka_ councils of Rarotonga established in 1997 (_Rarotonga Local Government Act 1997_), also headed by mayors,[33] were abolished in February 2008, despite much controversy.[34][35]
+ The three _Vaka_ councils of Rarotonga established in 1997 (_Rarotonga Local Government Act 1997_), also headed by mayors,[33] were abolished in February 2008, despite much controversy.[34][35]
 
   --------------- ---------------------------------------------------------
   Te-Au-O-Tonga   (equivalent to Avarua, the capital of the Cook Islands)
@@ -127,8 +127,6 @@ In recent years, the Cook Islands has gained a reputation as a debtor paradise, 
 
 Culture
 
-Rarotonga-8-Maeva-Nui.jpg
-
 Language
 
 The languages of the Cook Islands include English, Cook Islands Māori, or "Rarotongan," and Pukapukan. Dialects of Cook Islands Maori include Penrhyn; Rakahanga-Manihiki; the Ngaputoru dialect of Atiu, Mitiaro, and Mauke; the Aitutaki dialect; and the Mangaian dialect. Cook Islands Maori and its dialectic variants are closely related to both Tahitian and to New Zealand Māori. Pukapukan is considered closely related to the Samoan language. English and Cook Islands Māori are official languages of the Cook Islands; per the Te Reo Maori Act. The legal definition of Cook Islands Māori includes Pukapukan[44].
@@ -137,15 +135,13 @@ Music
 
 Music in the Cook Islands is varied, with Christian songs being quite popular, but traditional dancing and songs in Polynesian languages remain popular.
 
-Narrative_of_Missionary_Enterprises_engraving.jpg Cook_Islands_IMG_5905_(8451965559).jpg
-
 Public holidays
 
 Art
 
 Carving
 
-Cook_Islands_carved_wood_figure,_British_Museum.jpg escaped emasculation. Only one other comparable example is known apart from this one in the British Museum.[45]
+escaped emasculation. Only one other comparable example is known apart from this one in the British Museum.[45]
 
 ]]
 
@@ -170,7 +166,7 @@ On Rarotonga, the main commercial galleries are Beachcomber Contemporary Art (Ta
 
 Wildlife
 
-Tiaré_tahiti.jpg'', the national flower of the Cook Islands]]
+'', the national flower of the Cook Islands]]
 
 -   The national flower of the Cook Islands is the _Tiare māori_ or _Tiale māoli_ (Penrhyn, Nassau, Pukapuka).[53]
 -   The Cook Islands have a large non-native population of _Kiore toka_ (Ship rat).[54] and Polynesian rat.[55] The rats have dramatically reduced the bird population on the islands.[56]

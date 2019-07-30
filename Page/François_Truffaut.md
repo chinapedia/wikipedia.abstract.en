@@ -60,7 +60,7 @@ His fourth movie as director was _The Soft Skin_ (1964) which was not well accla
 
 _Fahrenheit 451_
 
-Truffaut's first non-French film was a 1966 adaptation of Ray Bradbury's classic science fiction novel _Fahrenheit 451_, showcasing Truffaut's love of books. His only English-speaking film made on location in England was a great challenge for Truffaut, because he barely spoke English himself. This was also his first film shot in color by genius cinematographer Nicolas Roeg. The larger scale production was difficult for Truffaut, who had worked only with small crews and budgets. The shoot was also strained by a conflict with lead actor Oscar Werner who was unhappy with his character and stormed off set leaving Truffaut to shoot scenes using a body double shot from behind. The film was a commercial failure and Truffaut never worked outside France again. But the film's cult standing has steadily grown and it is considered a classic of the sci-fi genre. Avant-première_L'Amour_en_fuite_Luxembourg_Cinéma_Marivaux_18_avril_1979_Photo_Carlo_Hansen_Luxembourg.jpg at the première of _Love on the Run_ in Luxembourg, April 1979]]
+Truffaut's first non-French film was a 1966 adaptation of Ray Bradbury's classic science fiction novel _Fahrenheit 451_, showcasing Truffaut's love of books. His only English-speaking film made on location in England was a great challenge for Truffaut, because he barely spoke English himself. This was also his first film shot in color by genius cinematographer Nicolas Roeg. The larger scale production was difficult for Truffaut, who had worked only with small crews and budgets. The shoot was also strained by a conflict with lead actor Oscar Werner who was unhappy with his character and stormed off set leaving Truffaut to shoot scenes using a body double shot from behind. The film was a commercial failure and Truffaut never worked outside France again. But the film's cult standing has steadily grown and it is considered a classic of the sci-fi genre. at the première of _Love on the Run_ in Luxembourg, April 1979]]
 
 Thrillers and Stolen Kisses
 
@@ -137,7 +137,7 @@ Truffaut was an atheist, although he had great respect for the Catholic Church a
 
 Death
 
-Montmartre-Truffaut.JPG, Paris]]In July 1983, Truffaut rented France Gall's and Michel Berger's house outside Honfleur, Normandy (composing for Philippe Labro's film _Rive droite, rive gauche_) when he had his first stroke and was diagnosed with a brain tumor.[22] He was expected to attend his friend Miloš Forman's _Amadeus_ premiere[23] when he died on 21 October 1984, aged 52, at the American Hospital in Neuilly-sur-Seine in France.[24]
+, Paris]]In July 1983, Truffaut rented France Gall's and Michel Berger's house outside Honfleur, Normandy (composing for Philippe Labro's film _Rive droite, rive gauche_) when he had his first stroke and was diagnosed with a brain tumor.[22] He was expected to attend his friend Miloš Forman's _Amadeus_ premiere[23] when he died on 21 October 1984, aged 52, at the American Hospital in Neuilly-sur-Seine in France.[24]
 
 At the time of his death, he still had numerous films in preparation. His goal was to make 30 films and then retire to write books for his remaining days. He was five films short of his personal goal. He is buried in Paris' Montmartre Cemetery.[25]
 

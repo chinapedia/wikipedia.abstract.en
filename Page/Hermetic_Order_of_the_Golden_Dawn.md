@@ -9,13 +9,11 @@ History
 
 Cipher Manuscripts
 
-Folio_13.png]]
+]]
 
 The foundational documents of the original Order of the Golden Dawn, known as the Cipher Manuscripts, are written in English using the Trithemius cipher. The manuscripts give the specific outlines of the Grade Rituals of the Order and prescribe a curriculum of graduated teachings that encompass the Hermetic Qabalah, astrology, occult tarot, geomancy, and alchemy.
 
 According to the records of the Order, the manuscripts passed from Kenneth R. H. Mackenzie, a Masonic scholar, to the Rev. A. F. A. Woodford, whom British occult writer Francis King describes as the fourth founder[5] (although Woodford died shortly after the Order was founded).[6] The documents did not excite Woodford, and in February 1886 he passed them on to Freemason William Wynn Westcott, who managed to decode them in 1887.[7] Westcott, pleased with his discovery, called on fellow Freemason Samuel Liddell MacGregor Mathers for a second opinion. Westcott asked for Mathers' help to turn the manuscripts into a coherent system for lodge work. Mathers in turn asked fellow Freemason William Robert Woodman to assist the two, and he accepted.[8] Mathers and Westcott have been credited with developing the ritual outlines in the Cipher Manuscripts into a workable format.[9] Mathers, however, is generally credited with the design of the curriculum and rituals of the Second Order, which he called the _Rosae Rubae et Aureae Crucis_ ("Ruby Rose and Golden Cross" or the _RR et AC_).[10]
-
-Samuel_Liddell_MacGregor_Mathers_in_Egyptian_getup.jpg
 
 Founding of first temple
 

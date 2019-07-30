@@ -12,19 +12,19 @@ Pollution control
 
 Air quality
 
-AlfedPalmersmokestacks.jpg]] these are studied in environmental studies
+]] these are studied in environmental studies
 
 Water quality
 
-Discharge_pipe.jpg]] Water quality laws {{#section:Water quality law|overview}}
+]] Water quality laws {{#section:Water quality law|overview}}
 
 Waste management
 
-Landfill.jpg]] Waste management laws {{#section:Waste management law|overview}}
+]] Waste management laws {{#section:Waste management law|overview}}
 
 Contaminant cleanup
 
-Rena_oil_spill_cleanup.jpg]] Environmental cleanup laws {{#section:Environmental cleanup law|overview}}
+]] Environmental cleanup laws {{#section:Environmental cleanup law|overview}}
 
 Chemical safety
 
@@ -39,7 +39,7 @@ Environmental impact assessment {{#section:Environmental impact assessment|overv
 
 Water resources
 
-Irrigation_ditch.JPG]] Water resources laws govern the ownership and use of water resources, including surface water and ground water. Regulatory areas may include water conservation, use restrictions, and ownership regimes.
+]] Water resources laws govern the ownership and use of water resources, including surface water and ground water. Regulatory areas may include water conservation, use restrictions, and ownership regimes.
 
 Mineral resources
 
@@ -47,7 +47,7 @@ Mineral resource laws cover {{#section:Mining law|overview}}
 
 Forest resources
 
-John_Deere_2054_DHSP_forestry_swing_machine,_Kaibab_National_Forest_1.jpg]]
+]]
 
 Wildlife and plants
 

@@ -1,5 +1,3 @@
-Guyane_map-en.svg
-
 FRENCH GUIANA is an overseas region of France, located on the northern coast of South America between Suriname and Brazil. The country is part of Caribbean South America and borders the North Atlantic Ocean.
 
 
@@ -31,8 +29,6 @@ Geography - note: mostly an unsettled wilderness.
 Natural resources
 
 Bauxite, timber, gold (widely scattered), cinnabar, kaolin, fish, shrimp, rice, bananas.
-
-Koppen-Geiger_Map_GUF_present.svg
 
 
 Climate

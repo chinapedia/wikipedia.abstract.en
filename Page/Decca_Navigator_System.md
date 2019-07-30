@@ -1,4 +1,4 @@
-Accuracy_of_Navigation_Systems.svg Decca_Navigator_Mk_12.jpg The DECCA NAVIGATOR SYSTEM was a hyperbolic radio navigation system which allowed ships and aircraft to determine their position by receiving radio signals from fixed navigational beacons. The system used phase comparison of two low frequency signals between 70 and 129 kHz, as opposed to pulse timing systems like Gee and LORAN. This made it much easier to implement the receivers using 1940s electronics, eliminating the need for a cathode ray tube.
+The DECCA NAVIGATOR SYSTEM was a hyperbolic radio navigation system which allowed ships and aircraft to determine their position by receiving radio signals from fixed navigational beacons. The system used phase comparison of two low frequency signals between 70 and 129 kHz, as opposed to pulse timing systems like Gee and LORAN. This made it much easier to implement the receivers using 1940s electronics, eliminating the need for a cathode ray tube.
 
 The system was invented in the US, but development was carried out by Decca in the UK. It was first deployed by the Royal Navy during World War II when the Allied forces needed a system which could be used to achieve accurate landings and was not known to the Germans and thus free of jamming. After the war, it was extensively developed around the UK and later used in many areas around the world. Decca's primary use was for ship navigation in coastal waters, offering much better accuracy than the competing LORAN system. Fishing vessels were major post-war users, but it was also used on aircraft, including a very early (1949) application of moving map displays. The system was deployed extensively in the North Sea and was used by helicopters operating to oil platforms.
 
@@ -8,8 +8,6 @@ The opening of the more accurate Loran-C system to civilian use in 1974 offered 
 Principles of Operation
 
 Overview
-
-Crude_loran_diagram.PNG
 
 The Decca Navigator System consisted of a number of land-based radio beacons organised into _chains_. Each chain consisted of a master station and three (occasionally two) secondary stations, termed Red, Green and Purple. Ideally, the secondaries would be positioned at the vertices of an equilateral triangle with the master at the centre. The baseline length, that is, the master-secondary distance, was typically .
 
@@ -110,8 +108,6 @@ This situation was exacerbated by the workload problems of the Air Traffic Contr
 Other chains were established in Japan (6 chains); Namibia and South Africa (5 chains); India and Bangladesh (4 chains); Canada (4 chains around Newfoundland and Nova Scotia); North-West Australia (2 chains); the Persian Gulf (1 chain with stations in Qatar and the United Arab Emirates and a second chain in the north of the Gulf with stations in Iran) and the Bahamas (1 chain). Four chains were planned for Nigeria but only two were built and these did not enter into public service. Two chains in Vietnam were used during the Vietnam War for helicopter navigation, with limited success. During the Cold War period, following WWII, the R.A.F. established a confidential chain in Germany. The Master station was in Bad Iburg near Osnabrück and there were two Slaves. The purpose of this chain was to provide accurate air navigation for the corridor between Western Germany and Berlin in the event that a mass evacuation of allied personnel may be required. In order to maintain secrecy, frequencies were changed at irregular intervals.
 
 Decca, Racal, and the closedown
-
-Decca_Navigator_Mk_21.jpg Decca_Receiver_Philips.jpg
 
 The headquarters of Decca Navigator were at New Malden, Surrey, just off the Kingston by-pass. There was a Decca School, at Brixham, Devon, where employees were sent on courses from time to time. Racal, the UK weapons and communications company, acquired Decca in 1980. Merging Decca's radar assets with their own, Racal began selling off the other portions of the company, including avionics and Decca Navigator.
 

@@ -34,7 +34,7 @@ Types
 
 Augen gneiss
 
-Henderson_Augen_Gneiss.jpg Augen gneiss, from the , meaning "eyes", is a coarse-grained gneiss resulting from metamorphism of granite, which contains characteristic elliptic or lenticular shear-bound feldspar porphyroclasts, normally microcline, within the layering of the quartz, biotite and magnetite bands.
+Augen gneiss, from the , meaning "eyes", is a coarse-grained gneiss resulting from metamorphism of granite, which contains characteristic elliptic or lenticular shear-bound feldspar porphyroclasts, normally microcline, within the layering of the quartz, biotite and magnetite bands.
 
 Henderson gneiss
 
@@ -42,9 +42,7 @@ Henderson gneiss is found in North Carolina and South Carolina, US, east of the 
 
 Lewisian gneiss
 
-Road_Cutting_-_geograph.org.uk_-_820828.jpg amphibolites) cutting light grey Lewisian gneiss of the Scourie complex, both deformed and cut by later (unfoliated) pink granite dikes]] Yttre_Ursholmen_Kontakt_Kosterdiabas_i_Nebulitisk-migmatitisk_sedimentgnejs.jpg dike (about 1100 million years old)[8] and light-colored migmatitic paragneiss in the Kosterhavet National Park in the Koster Islands off the southwestern coast of Sweden.]] Most of the Outer Hebrides of Scotland have a bedrock formed from Lewisian gneiss. In addition to the Outer Hebrides, they form basement deposits on the Scottish mainland west of the Moine Thrust and on the islands of Coll and Tiree.[9] These rocks are largely igneous in origin, mixed with metamorphosed marble, quartzite and mica schist with later intrusions of basaltic dikes and granite magma.[10]
-
-Gnaisse_Sete_Voltas_-_Bahia_-_Brasil.jpg
+amphibolites) cutting light grey Lewisian gneiss of the Scourie complex, both deformed and cut by later (unfoliated) pink granite dikes]] dike (about 1100 million years old)[8] and light-colored migmatitic paragneiss in the Kosterhavet National Park in the Koster Islands off the southwestern coast of Sweden.]] Most of the Outer Hebrides of Scotland have a bedrock formed from Lewisian gneiss. In addition to the Outer Hebrides, they form basement deposits on the Scottish mainland west of the Moine Thrust and on the islands of Coll and Tiree.[9] These rocks are largely igneous in origin, mixed with metamorphosed marble, quartzite and mica schist with later intrusions of basaltic dikes and granite magma.[10]
 
 Archean and Proterozoic gneiss
 

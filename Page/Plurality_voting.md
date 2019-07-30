@@ -23,7 +23,7 @@ In a multiple member plurality election, with _n_ seats available, the winners a
 
 Ballot types
 
-Plurality_ballot.svg Generally plurality ballots can be categorized into two forms. The simplest form is a blank ballot where the name of a candidate(s) is written in by hand. A more structured ballot will list all the candidates and allow a mark to be made next to the name of a single candidate (or more than one, in some cases); however a structured ballot can also include space for a write-in candidate.
+Generally plurality ballots can be categorized into two forms. The simplest form is a blank ballot where the name of a candidate(s) is written in by hand. A more structured ballot will list all the candidates and allow a mark to be made next to the name of a single candidate (or more than one, in some cases); however a structured ballot can also include space for a write-in candidate.
 
 Examples of plurality voting
 
@@ -65,7 +65,7 @@ Proponents of other single-winner electoral systems argue that their proposals w
 
 Fewer political parties
 
-Percentage_graph_UK_POLITICS_2005.png]]
+]]
 
 Duverger's law is a theory that constituencies that use first-past-the-post systems will have a two-party system, given enough time.[6]
 

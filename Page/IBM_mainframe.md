@@ -3,7 +3,7 @@ IBM MAINFRAMES are large computer systems produced by IBM since 1952. During the
 
 First and second generation
 
-IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg in 1957]] From 1952 into the late 1960s, IBM manufactured and marketed several large computer models, known as the IBM 700/7000 series. The first-generation 700s were based on vacuum tubes, while the later, second-generation 7000s used transistors. These machines established IBM's dominance in electronic data processing ("EDP"). IBM had two model categories: one (701, 704, 709, 7030, 7090, 7094, 7040, 7044) for engineering and scientific use, and one (702, 705, 705-II, 705-III, 7080, 7070, 7072, 7074, 7010) for commercial or data processing use. The two categories, scientific and commercial, generally used common peripherals but had completely different instruction sets, and there were incompatibilities even within each category.
+in 1957]] From 1952 into the late 1960s, IBM manufactured and marketed several large computer models, known as the IBM 700/7000 series. The first-generation 700s were based on vacuum tubes, while the later, second-generation 7000s used transistors. These machines established IBM's dominance in electronic data processing ("EDP"). IBM had two model categories: one (701, 704, 709, 7030, 7090, 7094, 7040, 7044) for engineering and scientific use, and one (702, 705, 705-II, 705-III, 7080, 7070, 7072, 7074, 7010) for commercial or data processing use. The two categories, scientific and commercial, generally used common peripherals but had completely different instruction sets, and there were incompatibilities even within each category.
 
 IBM initially sold its computers without any software, expecting customers to write their own; programs were manually initiated, one at a time. Later, IBM provided compilers for the newly developed higher-level programming languages Fortran, COMTRAN and later COBOL. The first operating systems for IBM computers were written by IBM customers who did not wish to have their very expensive machines ($2M USD in the mid-1950s) sitting idle while operators set up jobs manually. These first operating systems were essentially scheduled work queues. It is generally thought that the first operating system used for real work was GM-NAA I/O, produced by General Motors' Research division in 1956. IBM enhanced one of GM-NAA I/O's successors, the SHARE Operating System, and provided it to customers under the name IBSYS.[1][2] As software became more complex and important, the cost of supporting it on so many different designs became burdensome, and this was one of the factors which led IBM to develop System/360 and its operating systems.[3]
 
@@ -12,7 +12,7 @@ The second generation (transistor-based) products were a mainstay of IBM's busin
 
 Smaller machines
 
-IBM_1401_signal_tracing_at_CHM.agr.jpg Prior to System/360, IBM also sold computers smaller in scale that were not considered mainframes, though they were still bulky and expensive by modern standards. These included:
+Prior to System/360, IBM also sold computers smaller in scale that were not considered mainframes, though they were still bulky and expensive by modern standards. These included:
 
 -   IBM 650 (vacuum tube logic, decimal architecture, drum memory, business and scientific)
 -   IBM 305 RAMAC (vacuum tube logic, first computer with disk storage; _see:_ Early IBM disk storage)
@@ -26,7 +26,7 @@ _Midrange computer_ is a designation used by IBM for a class of computer systems
 
 IBM System/360
 
-IBM_system_360-50_console_-_MfK_Bern.jpg All that changed with the announcement of the System/360 (S/360) in April, 1964.[4] The System/360 was a single series of compatible models for both commercial and scientific use. The number "360" suggested a "360 degree," or "all-around" computer system. System/360 incorporated features which had previously been present on only either the commercial line (such as decimal arithmetic and byte addressing) or the engineering and scientific line (such as floating point arithmetic). Some of the arithmetic units and addressing features were optional on some models of the System/360. However, models were upward compatible and most were also downward compatible. The System/360 was also the first computer in wide use to include dedicated hardware provisions for the use of operating systems. Among these were supervisor and application mode programs and instructions, as well as built-in memory protection facilities. Hardware memory protection was provided to protect the operating system from the user programs (tasks) and user tasks from each other. The new machine also had a larger address space than the older mainframes, 24 bits addressing 8-bit bytes vs. a typical 18 bits addressing 36-bit words.
+All that changed with the announcement of the System/360 (S/360) in April, 1964.[4] The System/360 was a single series of compatible models for both commercial and scientific use. The number "360" suggested a "360 degree," or "all-around" computer system. System/360 incorporated features which had previously been present on only either the commercial line (such as decimal arithmetic and byte addressing) or the engineering and scientific line (such as floating point arithmetic). Some of the arithmetic units and addressing features were optional on some models of the System/360. However, models were upward compatible and most were also downward compatible. The System/360 was also the first computer in wide use to include dedicated hardware provisions for the use of operating systems. Among these were supervisor and application mode programs and instructions, as well as built-in memory protection facilities. Hardware memory protection was provided to protect the operating system from the user programs (tasks) and user tasks from each other. The new machine also had a larger address space than the older mainframes, 24 bits addressing 8-bit bytes vs. a typical 18 bits addressing 36-bit words.
 
 The smaller models in the System/360 line (e.g. the 360/30) were intended to replace the 1400 series while providing an easier upgrade path to the larger 360s. To smooth the transition from the second generation to the new line, IBM used the 360's microprogramming capability to emulate the more popular older models. Thus 360/30s with this added cost feature could run 1401 programs and the larger 360/65s could run 7094 programs. To run old programs, the 360 had to be halted and restarted in emulation mode. Many customers kept using their old software and one of the features of the later System/370 was the ability to switch to emulation mode and back under operating system control.
 
@@ -37,7 +37,7 @@ The System/360 later evolved into the System/370, the System/390, and the 64-bit
 
 Today's systems
 
-Z800_2066_JKU.jpeg The zSeries family, introduced in 2000 with the z900, included IBM's newly designed 64-bit z/Architecture.
+The zSeries family, introduced in 2000 with the z900, included IBM's newly designed 64-bit z/Architecture.
 
 Processor units
 

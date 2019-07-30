@@ -9,7 +9,7 @@ At more than 1.03 billion,[22] Hindus are the world's third largest group after
 
 Etymology
 
-A_Hindu_wedding_ritual_in_progress_b.jpg The word _Hindu_ is derived from the Indo-Aryan and Sanskrit word _Sindhu_, which means "a large body of water", covering "river, ocean".[26] It was used as the name of the Indus river and also referred to its tributaries. The actual term '' first occurs, states Gavin Flood, as "a Persian geographical term for the people who lived beyond the river Indus (Sanskrit: _Sindhu_)", more specifically in the 6th-century BCE inscription of Darius I.[27] The Punjab region, called Sapta Sindhu in the Vedas, is called _Hapta Hindu_ in Zend Avesta. The 6th-century BCE inscription of Darius I mentions the province of _Hi[n]dush_, referring to northwestern India.[28] The people of India were referred to as _Hinduvān_ (Hindus) and _hindavī_ was used as the adjective for Indian in the 8th century text _Chachnama_. The term 'Hindu' in these ancient records is an ethno-geographical term and did not refer to a religion. The Arabic equivalent _Al-Hind_ likewise referred to the country of India.[29]
+The word _Hindu_ is derived from the Indo-Aryan and Sanskrit word _Sindhu_, which means "a large body of water", covering "river, ocean".[26] It was used as the name of the Indus river and also referred to its tributaries. The actual term '' first occurs, states Gavin Flood, as "a Persian geographical term for the people who lived beyond the river Indus (Sanskrit: _Sindhu_)", more specifically in the 6th-century BCE inscription of Darius I.[27] The Punjab region, called Sapta Sindhu in the Vedas, is called _Hapta Hindu_ in Zend Avesta. The 6th-century BCE inscription of Darius I mentions the province of _Hi[n]dush_, referring to northwestern India.[28] The people of India were referred to as _Hinduvān_ (Hindus) and _hindavī_ was used as the adjective for Indian in the 8th century text _Chachnama_. The term 'Hindu' in these ancient records is an ethno-geographical term and did not refer to a religion. The Arabic equivalent _Al-Hind_ likewise referred to the country of India.[29]
 
 Among the earliest known records of 'Hindu' with connotations of religion may be in the 7th-century CE Chinese text _Record of the Western Regions_ by the Buddhist scholar Xuanzang. Xuanzang uses the transliterated term _In-tu_ whose "connotation overflows in the religious" according to Arvind Sharma.[30] While Xuanzang suggested that the term refers to the country named after the moon, another Buddhist scholar I-tsing contradicted the conclusion saying that _In-tu_ was not a common name for the country.
 
@@ -22,7 +22,7 @@ Other prominent mentions of 'Hindu' include the epigraphical inscriptions from A
 
 Terminology
 
-Malviya_dwipa_island_across_Har_ki_Pauri_during_Kavad_mela,_Haridwar.jpg, Haridwar near river Ganges in Uttarakhand state of India.]]
+, Haridwar near river Ganges in Uttarakhand state of India.]]
 
 Medieval-era usage (8th to 18th century)
 
@@ -40,7 +40,7 @@ According to Pennington, the terms Hindu and Hinduism were thus constructed for 
 
 Contemporary usage
 
-HinduDevoteeNepal.jpgi Hindu devotee during a traditional prayer ceremony at Kathmandu's Durbar Square]] In contemporary era, the term Hindus are individuals who identify with one or more aspects of Hinduism, whether they are practising or non-practicing or _Laissez-faire_.[47] The term does not include those who identify with other Indian religions such as Buddhism, Jainism, Sikhism or various animist tribal religions found in India such as _Sarnaism_.[48][49] The term Hindu, in contemporary parlance, includes people who accept themselves as culturally or ethnically Hindu rather than with a fixed set of religious beliefs within Hinduism.[50] One need not be religious in the minimal sense, states Julius Lipner, to be accepted as Hindu by Hindus, or to describe oneself as Hindu.[51]
+i Hindu devotee during a traditional prayer ceremony at Kathmandu's Durbar Square]] In contemporary era, the term Hindus are individuals who identify with one or more aspects of Hinduism, whether they are practising or non-practicing or _Laissez-faire_.[47] The term does not include those who identify with other Indian religions such as Buddhism, Jainism, Sikhism or various animist tribal religions found in India such as _Sarnaism_.[48][49] The term Hindu, in contemporary parlance, includes people who accept themselves as culturally or ethnically Hindu rather than with a fixed set of religious beliefs within Hinduism.[50] One need not be religious in the minimal sense, states Julius Lipner, to be accepted as Hindu by Hindus, or to describe oneself as Hindu.[51]
 
 Hindus subscribe to a diversity of ideas on spirituality and traditions, but have no ecclesiastical order, no unquestionable religious authorities, no governing body, nor a single founding prophet; Hindus can choose to be polytheistic, pantheistic, monotheistic, monistic, agnostic, atheistic or humanist.[52][53][54] Because of the wide range of traditions and ideas covered by the term Hinduism, arriving at a comprehensive definition is difficult. The religion "defies our desire to define and categorize it".[55] A Hindu may, by his or her choice, draw upon ideas of other Indian or non-Indian religious thought as a resource, follow or evolve his or her personal beliefs, and still identify as a Hindu.[56]
 
@@ -109,7 +109,7 @@ Hindu nationalism in India, states Katharine Adeney, is a controversial politica
 
 Demographics
 
-Hinduism_percent_population_in_each_nation_World_Map_Hindu_data_by_Pew_Research.svg by country, worldmap (estimate 2010).[154]]] According to Pew Research, there are over 1 billion Hindus worldwide (15% of world's population).[155] Along with Christians (31.5%), Muslims (23.2%) and Buddhists (7.1%), Hindus are one of the four major religious groups of the world.[156]
+by country, worldmap (estimate 2010).[154]]] According to Pew Research, there are over 1 billion Hindus worldwide (15% of world's population).[155] Along with Christians (31.5%), Muslims (23.2%) and Buddhists (7.1%), Hindus are one of the four major religious groups of the world.[156]
 
 Most Hindus are found in Asian countries. The countries with most Hindu residents and citizens include (in decreasing order) are India, Nepal, Bangladesh, Indonesia, Pakistan, Sri Lanka, United States, Malaysia, United Kingdom, Myanmar, Canada, Mauritius, Guyana, South Africa, Trinidad and Tobago, Fiji, Suriname.[157][158]
 

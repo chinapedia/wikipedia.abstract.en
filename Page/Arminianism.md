@@ -19,7 +19,7 @@ The two systems of Calvinism and Arminianism share both history and many doctrin
 
 History
 
-Jacobus_Arminius_02_IV_13_2_0026_01_0309_a_Seite_1_Bild_0001.jpg, from _Kupferstich aus Theatrum Europaeum_ by Matthaeus Merian in 1662]] Jacobus Arminius was a Dutch pastor and theologian in the late 16th and early 17th centuries. He was taught by Theodore Beza, Calvin's hand-picked successor, but after examination of the scriptures, he rejected his teacher's theology that it is God who unconditionally elects some for salvation. Instead Arminius proposed that the election of God was _of believers_, thereby making it conditional on faith. Arminius's views were challenged by the Dutch Calvinists, especially Franciscus Gomarus, but Arminius died before a national synod could occur.
+, from _Kupferstich aus Theatrum Europaeum_ by Matthaeus Merian in 1662]] Jacobus Arminius was a Dutch pastor and theologian in the late 16th and early 17th centuries. He was taught by Theodore Beza, Calvin's hand-picked successor, but after examination of the scriptures, he rejected his teacher's theology that it is God who unconditionally elects some for salvation. Instead Arminius proposed that the election of God was _of believers_, thereby making it conditional on faith. Arminius's views were challenged by the Dutch Calvinists, especially Franciscus Gomarus, but Arminius died before a national synod could occur.
 
 Arminius's followers, not wanting to adopt their leader's name, called themselves the Remonstrants. When Arminius died before he could satisfy Holland's State General's request for a 14-page paper outlining his views, the Remonstrants replied in his stead crafting the Five articles of Remonstrance. After some political maneuvering, the Dutch Calvinists were able to convince Prince Maurice of Nassau to deal with the situation. Maurice systematically removed Arminian magistrates from office and called a national synod at Dordrecht. This Synod of Dort was open primarily to Dutch Calvinists (Arminians were excluded) with Calvinist representatives from other countries, and in 1618 published a condemnation of Arminius and his followers as heretics. Part of this publication was the famous Five points of Calvinism in response to the five articles of Remonstrance.
 
@@ -121,8 +121,6 @@ Comparison among Protestants
 The following are Arminian beliefs compared to other Protestants.
 
 Common misconceptions
-
-Allegory_of_theological_dispute-Abraham_van_der_Eyk-MBA_Lyon_H1151-IMG_0428.jpg
 
 -   ARMINIANISM IS PELAGIAN (OR SEMI-PELAGIAN), DENYING ORIGINAL SIN AND TOTAL DEPRAVITY—No system of Arminianism founded on Arminius or Wesley denies original sin or total depravity;[53] both Arminius and Wesley _strongly_ affirmed that man's basic condition is one in which he cannot be righteous, understand God, or seek God.[54]
     Many Calvinist critics of Arminianism, both historically and currently, claim that Arminianism condones, accepts, or even explicitly supports Pelagianism or semi-Pelagianism. Arminius referred to Pelagianism as "the grand falsehood" and stated that he "must confess that I detest, from my heart, the consequences [of that theology]."[55] David Pawson, a British pastor, decries this association as "libelous" when attributed to Arminius' or Wesley's doctrine.[56] Indeed, most Arminians reject all accusations of Pelagianism; nonetheless, primarily due to Calvinist opponents,[57][58] the two terms remain intertwined in popular usage.

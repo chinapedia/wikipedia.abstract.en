@@ -9,7 +9,7 @@ The first popular diet was "Banting", named after William Banting. In his 1863 p
 
 History
 
-William_Banting.png, popularized one of the first weight loss diets in the 19th century.]] One of the first dietitians was the English doctor George Cheyne. He himself was tremendously overweight and would constantly eat large quantities of rich food and drink. He began a meatless diet, taking only milk and vegetables, and soon regained his health. He began publicly recommending his diet for everyone suffering from obesity. In 1724, he wrote _An Essay of Health and Long Life_, in which he advises exercise and fresh air and avoiding luxury foods.[11]
+, popularized one of the first weight loss diets in the 19th century.]] One of the first dietitians was the English doctor George Cheyne. He himself was tremendously overweight and would constantly eat large quantities of rich food and drink. He began a meatless diet, taking only milk and vegetables, and soon regained his health. He began publicly recommending his diet for everyone suffering from obesity. In 1724, he wrote _An Essay of Health and Long Life_, in which he advises exercise and fresh air and avoiding luxury foods.[11]
 
 The Scottish military surgeon, John Rollo, published _Notes of a Diabetic Case_ in 1797. It described the benefits of a meat diet for those suffering from diabetes, basing this recommendation on Matthew Dobson's discovery of glycosuria in diabetes mellitus.[12] By means of Dobson's testing procedure (for glucose in the urine) Rollo worked out a diet that had success for what is now called type 2 diabetes.[13]
 

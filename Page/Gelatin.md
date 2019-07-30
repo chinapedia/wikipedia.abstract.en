@@ -1,4 +1,4 @@
-Gelatine.png GELATIN or GELATINE (from meaning "stiff" or "frozen") is a translucent, colorless, flavorless food ingredient, derived from collagen taken from animal body parts. Brittle when dry and gummy when moist, it is also called hydrolyzed collagen, collagen hydrolysate, gelatine hydrolysate, hydrolyzed gelatine, and collagen peptides. It is commonly used as a gelling agent in food, medications, drug and vitamin capsules, photographic films and papers, and cosmetics.
+GELATIN or GELATINE (from meaning "stiff" or "frozen") is a translucent, colorless, flavorless food ingredient, derived from collagen taken from animal body parts. Brittle when dry and gummy when moist, it is also called hydrolyzed collagen, collagen hydrolysate, gelatine hydrolysate, hydrolyzed gelatine, and collagen peptides. It is commonly used as a gelling agent in food, medications, drug and vitamin capsules, photographic films and papers, and cosmetics.
 
 Substances containing gelatin or functioning in a similar way are called GELATINOUS SUBSTANCES. Gelatin is an irreversibly hydrolyzed form of collagen, wherein the hydrolysis reduces protein fibrils into smaller peptides; depending on the physical and chemical methods of denaturation, the molecular weight of the peptides falls within a broad range. Gelatin is in gelatin desserts; most gummy candy and marshmallows; and ice creams, dips, and yogurts.[1] Gelatin for cooking comes as powder, granules, and sheets. Instant types can be added to the food as they are; others must soak in water beforehand.
 
@@ -69,7 +69,7 @@ The mechanical properties of gelatin gels are very sensitive to temperature vari
 
 Production
 
-Materials_Used_in_Gelatin_Production.svg Gelatin production by geographical region{{Citation needed The worldwide production amount of gelatin is about .[37] On a commercial scale, gelatin is made from by-products of the meat and leather industries. Most gelatin is derived from pork skins, pork and cattle bones, or split cattle hides.[38] Gelatin made from fish by-products avoids some of the religious objections to gelatin consumption.[39] The raw materials are prepared by different curing, acid, and alkali processes that are employed to extract the dried collagen hydrolysate. These processes may take several weeks, and differences in such processes have great effects on the properties of the final gelatin products.
+The worldwide production amount of gelatin is about .[37] On a commercial scale, gelatin is made from by-products of the meat and leather industries. Most gelatin is derived from pork skins, pork and cattle bones, or split cattle hides.[38] Gelatin made from fish by-products avoids some of the religious objections to gelatin consumption.[39] The raw materials are prepared by different curing, acid, and alkali processes that are employed to extract the dried collagen hydrolysate. These processes may take several weeks, and differences in such processes have great effects on the properties of the final gelatin products.
 
 Gelatin also can be prepared at home. Boiling certain cartilaginous cuts of meat or bones results in gelatin being dissolved into the water. Depending on the concentration, the resulting stock (when cooled) will form a jelly or gel naturally. This process is used for aspic.
 
@@ -107,15 +107,13 @@ The first use of gelatin in foods is attributed to medieval Britain (1400s) when
 
 Culinary uses
 
-Oeufs_en_gelée_p1150406.jpg in aspic]] Probably best known as a gelling agent in cooking, different types and grades of gelatin are used in a wide range of food and nonfood products. Common examples of foods that contain gelatin are gelatin desserts, trifles, aspic, marshmallows, candy corn, and confections such as Peeps, gummy bears, fruit snacks, and jelly babies. Gelatin may be used as a stabilizer, thickener, or texturizer in foods such as yogurt, cream cheese, and margarine; it is used, as well, in fat-reduced foods to simulate the mouthfeel of fat and to create volume. It also is used in the production of several types of Chinese soup dumplings, specifically Shanghainese soup dumplings, or _xiaolongbao_, as well as _Shengjian mantou_, a type of fried and steamed dumpling. The fillings of both are made by combining ground pork with gelatin cubes, and in the process of cooking, the gelatin melts, creating a soupy interior with a characteristic gelatinous stickiness.
+in aspic]] Probably best known as a gelling agent in cooking, different types and grades of gelatin are used in a wide range of food and nonfood products. Common examples of foods that contain gelatin are gelatin desserts, trifles, aspic, marshmallows, candy corn, and confections such as Peeps, gummy bears, fruit snacks, and jelly babies. Gelatin may be used as a stabilizer, thickener, or texturizer in foods such as yogurt, cream cheese, and margarine; it is used, as well, in fat-reduced foods to simulate the mouthfeel of fat and to create volume. It also is used in the production of several types of Chinese soup dumplings, specifically Shanghainese soup dumplings, or _xiaolongbao_, as well as _Shengjian mantou_, a type of fried and steamed dumpling. The fillings of both are made by combining ground pork with gelatin cubes, and in the process of cooking, the gelatin melts, creating a soupy interior with a characteristic gelatinous stickiness.
 
 Gelatin is used for the clarification of juices, such as apple juice, and of vinegar.
 
 Isinglass is obtained from the swim bladders of fish. It is used as a fining agent for wine and beer.[47] Besides hartshorn jelly, from deer antlers (hence the name "hartshorn"), isinglass was one of the oldest sources of gelatin.
 
 Technical uses
-
-Kapsel_beredningsform.jpg
 
 -   Certain professional and theatrical lighting equipment use color gels to change the beam color. Historically, these were made with gelatin, hence the term, color gel.
 -   Gelatin typically constitutes the shells of drug and vitamin capsules to make them easier to swallow. Hypromellose is a vegetarian-acceptable alternative to gelatin, but is more expensive to produce.
@@ -136,7 +134,7 @@ Vegans and vegetarians do not eat foods containing gelatin made from animals. Li
 
 Protein content
 
-Amino_Acid_Composition_in_Gelatin_chart.png composition]] Although gelatin is 98–99% protein by dry weight, it has little additional nutritional value, varying according to the source of the raw material and processing technique.[51]
+composition]] Although gelatin is 98–99% protein by dry weight, it has little additional nutritional value, varying according to the source of the raw material and processing technique.[51]
 
 Amino acids present in gelatin are variable, due to varying sources and batches, but are approximately:[52]
 

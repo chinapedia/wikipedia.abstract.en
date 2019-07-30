@@ -15,7 +15,7 @@ Heraclius was the eldest son of Heraclius the Elder and Epiphania, of a family o
 
 Revolt against Phocas and accession
 
-Revolt_of_the_Heraclii_solidus,_608_AD.jpg'' of Heraclius and his father in consular robes, struck during their revolt against Phocas]] In 608, Heraclius the Elder renounced his loyalty to the Emperor Phocas, who had overthrown Maurice six years earlier. The rebels issued coins showing both Heraclii dressed as consuls, though neither of them explicitly claimed the imperial title at this time.[6] Heraclius's younger cousin Nicetas launched an overland invasion of Egypt; by 609, he had defeated Phocas's general Bonosus and secured the province. Meanwhile, the younger Heraclius sailed eastward with another force via Sicily and Cyprus.[7]
+'' of Heraclius and his father in consular robes, struck during their revolt against Phocas]] In 608, Heraclius the Elder renounced his loyalty to the Emperor Phocas, who had overthrown Maurice six years earlier. The rebels issued coins showing both Heraclii dressed as consuls, though neither of them explicitly claimed the imperial title at this time.[6] Heraclius's younger cousin Nicetas launched an overland invasion of Egypt; by 609, he had defeated Phocas's general Bonosus and secured the province. Meanwhile, the younger Heraclius sailed eastward with another force via Sicily and Cyprus.[7]
 
 As he approached Constantinople, he made contact with prominent leaders and planned an attack to overthrow aristocrats in the city, and soon arranged a ceremony where he was crowned and acclaimed as Emperor. When he reached the capital, the Excubitors, an elite Imperial Guard unit led by Phocas's son-in-law Priscus, deserted to Heraclius, and he entered the city without serious resistance. When Heraclius captured Phocas, he asked him "Is this how you have ruled, wretch?" Phocas's reply—"And will you rule better?"—so enraged Heraclius that he beheaded Phocas on the spot.[8] He later had the genitalia removed from the body because Phocas had raped the wife of Photius, a powerful politician in the city.[9]
 
@@ -30,8 +30,6 @@ During his Balkan Campaigns, Emperor Maurice and his family were murdered by Pho
 
 ii.902.  Khosrow II (Chosroes) of the Sasanian Empire had been restored to his throne by Maurice, and they had remained allies until the latter's death.{{#tag:ref|Also referred to as Khosrow II, Chosroes II, or Xosrov II in classical sources, sometimes called _Parvez_, "the Ever Victorious" (in Persian: خسرو پرویز).|group="A"}}  Thereafter, Khosrow seized the opportunity to attack the Byzantine Empire and reconquer Mesopotamia.[12] Khosrow had at his court a man who claimed to be Maurice's son Theodosius, and Khosrow demanded that the Byzantines accept this Theodosius as Emperor.
 
-Heraclius_613-616.jpg
-
 The war initially went the Persians' way, partly because of Phocas's brutal repression and the succession crisis that ensued as the general Heraclius sent his nephew Nicetas to attack Egypt, enabling his son Heraclius the younger to claim the throne in 610.[13] Phocas, an unpopular ruler who is invariably described in historical sources as a "tyrant" (in its original meaning of the word, i.e. illegitimate king by the rules of succession), was eventually deposed by Heraclius, who sailed to Constantinople from Carthage with an icon affixed to the prow of his ship.[14][15]
 
 By this time, the Persians had conquered Mesopotamia and the Caucasus, and in 611 they overran Syria and entered Anatolia. A major counter-attack led by Heraclius two years later was decisively defeated outside Antioch by Shahrbaraz and Shahin, and the Roman position collapsed; the Persians devastated parts of Asia Minor and captured Chalcedon across from Constantinople on the Bosporus.[16]
@@ -44,11 +42,11 @@ Byzantine counter-offensive and resurgence
 
 On April 5, 622, Heraclius left Constantinople, entrusting the city to Sergius and general Bonus as regents of his son. He assembled his forces in Asia Minor, probably in Bithynia, and, after he revived their broken morale, he launched a new counter-offensive, which took on the character of a holy war; an acheiropoietos image of Christ was carried as a military standard.[25][26][27][28]
 
-Cherub_plaque_Louvre_MRR245.jpg and Heraclius receiving the submission of Khosrau II; plaque from a cross (Champlevé enamel over gilt copper, 1160–1170, Paris, Louvre). This is an allegory as Khosrau never submitted in person to Heraclius.|alt=Medieval style portrait of Cherub and Heraclius receiving the submission of Khosrau II; plaque from a cross (Champlevé enamel over gilt copper).]]
+and Heraclius receiving the submission of Khosrau II; plaque from a cross (Champlevé enamel over gilt copper, 1160–1170, Paris, Louvre). This is an allegory as Khosrau never submitted in person to Heraclius.|alt=Medieval style portrait of Cherub and Heraclius receiving the submission of Khosrau II; plaque from a cross (Champlevé enamel over gilt copper).]]
 
 The Roman army proceeded to Armenia, inflicted a defeat on an army led by a Persian-allied Arab chief, and then won a victory over the Persians under Shahrbaraz.[29] Heraclius would stay on campaign for several years.[30][31] On March 25, 624 he again left Constantinople with his wife, Martina, and his two children; after he celebrated Easter in Nicomedia on April 15, he campaigned in the Caucasus, winning a series of victories in Armenia against Khosrow and his generals Shahrbaraz, Shahin, and Shahraplakan.[32][33] In the same year the Visigoths succeeded in recapturing Cartagena, capital of the western Byzantine province of Spania, resulting in the loss of one of the few minor provinces that had been conquered by the armies of Justinian I.[34] In 626 the Avars and Slavs supported by a Persian army commanded by Shahrbaraz, besieged Constantinople, but the siege ended in failure (the victory was attributed to the icons of the Virgin which were led in procession by Sergius about the walls of the city),[35] while a second Persian army under Shahin suffered another crushing defeat at the hands of Heraclius's brother Theodore.
 
-Heraclius_629-632.jpg.]]
+.]]
 
 With the Persian war effort disintegrating, Heraclius was able to bring the Gokturks of the Western Turkic Khaganate, under Ziebel, who invaded Persian Transcaucasia. Heraclius exploited divisions within the Persian Empire, keeping Shahrbaraz neutral by convincing him that Khosrow had grown jealous of him and had ordered his execution. Late in 627 he launched a winter offensive into Mesopotamia, where, despite the desertion of his Turkish allies, he defeated the Persians under Rhahzadh at the Battle of Nineveh.[36] Continuing south along the Tigris he sacked Khosrow's great palace at Dastagird and was only prevented from attacking Ctesiphon by the destruction of the bridges on the Nahrawan Canal. Discredited by this series of disasters, Khosrow was overthrown and killed in a coup led by his son Kavadh II, who at once sued for peace, agreeing to withdraw from all occupied territories.[37] In 629 Heraclius restored the True Cross to Jerusalem in a majestic ceremony.[38][39][40]
 
@@ -59,8 +57,6 @@ Heraclius's defeat of the Persians ended a war that had been going on intermitte
 
 War against the Arabs
 
-Muslim-Byzantine_troop_movement_(635-636).svg
-
 By 629, the Islamic Prophet Muhammad had unified all the tribes of the Arabian Peninsula, previously too divided to pose a serious military challenge to the Byzantines or the Persians. Now animated by their conversion to Islam, they comprised one of the most powerful states in the region.[45] The first conflict between the Byzantines and Muslims was the Battle of Mu'tah in September 629. A small Muslim skirmishing force attacked the province of Arabia in response to the Muslim ambassador's murder at the hands of the Ghassanid Roman governor, but were repulsed. Because the engagement was a Byzantine victory, there was no apparent reason to make changes to the military organization of the region.[46] Also, the Byzantines had had little battlefield experience with the Arabs, and even less with zealous soldiers united by a prophet.[47] Even the Strategicon of Maurice, a manual of war praised for the variety of enemies it covers, does not mention warfare against Arabs at any length.[48]
 
 The following year the Muslims launched an offensive into the Arabah south of Lake Tiberias, taking Al Karak. Other raids penetrated into the Negev, reaching as far as Gaza.[49] The Battle of Yarmouk in 636 resulted in a crushing defeat for the larger Byzantine army; within three years, the Levant had been lost again. By the time of Heraclius's death in Constantinople, on February 11, 641, most of Egypt had fallen as well.
@@ -68,7 +64,7 @@ The following year the Muslims launched an offensive into the Arabah south of La
 
 Legacy
 
-Piero_della_Francesca_021.jpg. Fresco by Piero della Francesca, ca. 1452|alt=Idealized painting of a battle between Heraclius's army and Persians under Khosrau II ca. 1452]]
+. Fresco by Piero della Francesca, ca. 1452|alt=Idealized painting of a battle between Heraclius's army and Persians under Khosrau II ca. 1452]]
 
 Looking back at the reign of Heraclius, scholars have credited him with many accomplishments. He enlarged the Empire, and his reorganization of the government and military were great successes. His attempts at religious harmony failed, but he succeeded in returning the True Cross, one of the holiest Christian relics, to Jerusalem.
 
@@ -82,7 +78,7 @@ One of the most important legacies of Heraclius was changing the official langua
 
 Up to the 20th century he was credited with establishing the Thematic system but modern scholarship now points more to the 660s, under Constans II.[59]
 
-Bernat,_Martin_Saint_Helena_&_Heraclius_taking_the_Holy_Cross_to_Jerusalem.jpg. 15th century, Spain|alt=15th century, Spanish, medieval painting showing Heraclius on a horse returning the True Cross to Jerusalem, anachronistically accompanied by Saint Helena]]
+. 15th century, Spain|alt=15th century, Spanish, medieval painting showing Heraclius on a horse returning the True Cross to Jerusalem, anachronistically accompanied by Saint Helena]]
 
 Edward Gibbon, in _The History of the Decline and Fall of the Roman Empire_, wrote:
 
@@ -98,7 +94,7 @@ Some scholars disagree with this narrative, Professor Constantin Zuckerman going
 
 Islamic view of Heraclius
 
-Purported letter sent by Muhammad to Heraclius, emperor of Byzantium; reproduction taken from Majid Ali Khan, ''Muhammad The Final Messenger ''Islamic Book Service, New Delhi (1998). In Surah 30, the Qur'an refers to the Roman-Sasanian wars as follows:
+In Surah 30, the Qur'an refers to the Roman-Sasanian wars as follows:
 
   30:2 _The Romans have been defeated_ 3 _In the nearest land. But they, after their defeat, will overcome._ 4 _Within several years._[66]
 
@@ -115,7 +111,7 @@ Most scholarly historians view such traditions as "profoundly kerygmatic" and th
 
 Family
 
-Solidus-Heraclius-sb0764.jpg Heraclius was married twice: first to Fabia Eudokia, a daughter of Rogatus, and then to his niece Martina. He had two children with Fabia (Eudoxia Epiphania and Emperor Constantine III) and at least nine with Martina, most of whom were sickly children.{{#tag:ref|The number and order of Heraclius's children by Martina is unsure, with some sources saying nine children[81] and others ten.[82] |group="A"}}[83] Of Martina's children at least two were disabled, which was seen as punishment for the illegality of the marriage: Fabius (Flavius) had a paralyzed neck and Theodosios was a deaf-mute. The latter married Nike, daughter of the Persian general Shahrbaraz, or daughter of Niketas, cousin of Heraclius.
+Heraclius was married twice: first to Fabia Eudokia, a daughter of Rogatus, and then to his niece Martina. He had two children with Fabia (Eudoxia Epiphania and Emperor Constantine III) and at least nine with Martina, most of whom were sickly children.{{#tag:ref|The number and order of Heraclius's children by Martina is unsure, with some sources saying nine children[81] and others ten.[82] |group="A"}}[83] Of Martina's children at least two were disabled, which was seen as punishment for the illegality of the marriage: Fabius (Flavius) had a paralyzed neck and Theodosios was a deaf-mute. The latter married Nike, daughter of the Persian general Shahrbaraz, or daughter of Niketas, cousin of Heraclius.
 
 Two of Heraclius's children would become Emperor: Heraclius Constantine (Constantine III), his son from Eudokia, for four months in 641, and Martina's son Constantine Heraclius (Heraklonas), in 638–641.[84]
 

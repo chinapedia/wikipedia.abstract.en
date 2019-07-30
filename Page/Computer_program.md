@@ -1,4 +1,4 @@
-Hello_World_Brian_Kernighan_1974.jpg (1978)]]
+(1978)]]
 
 A COMPUTER PROGRAM is a collection of instructions[1] that performs a specific task when executed by a computer. Most computer devices require programs to function properly.
 
@@ -15,7 +15,7 @@ The earliest programmable machines preceded the invention of the digital compute
 
 Analytical Engine
 
-Diagram_for_the_computation_of_Bernoulli_numbers.jpg ]] In 1837, Charles Babbage was inspired by Jacquard's loom to attempt to build the Analytical Engine.[3] The names of the components of the calculating device were borrowed from the textile industry. In the textile industry, yarn was brought from the store to be milled. The device would have had a "store"—memory to hold 1,000 numbers of 40 decimal digits each. Numbers from the "store" would then have then been transferred to the "mill" (analogous to the CPU of a modern machine), for processing. And a "thread" being the execution of programmed instructions by the device. It was programmed using two sets of perforated cards—one to direct the operation and the other for the input variables.[4] [5] However, after more than 17,000 pounds of the British government's money, the thousands of cogged wheels and gears never fully worked together.[6]
+]] In 1837, Charles Babbage was inspired by Jacquard's loom to attempt to build the Analytical Engine.[3] The names of the components of the calculating device were borrowed from the textile industry. In the textile industry, yarn was brought from the store to be milled. The device would have had a "store"—memory to hold 1,000 numbers of 40 decimal digits each. Numbers from the "store" would then have then been transferred to the "mill" (analogous to the CPU of a modern machine), for processing. And a "thread" being the execution of programmed instructions by the device. It was programmed using two sets of perforated cards—one to direct the operation and the other for the input variables.[4] [5] However, after more than 17,000 pounds of the British government's money, the thousands of cogged wheels and gears never fully worked together.[6]
 
 During a nine-month period in 1842–43, Ada Lovelace translated the memoir of Italian mathematician Luigi Menabrea. The memoir covered the Analytical Engine. The translation contained Note G which completely detailed a method for calculating Bernoulli numbers using the Analytical Engine. This note is recognized by some historians as the world's first written computer program.[7]
 
@@ -33,7 +33,7 @@ The Manchester Baby (June 1948) was a stored-program computer.[17] Programming t
 
 Later computers
 
-Dg-nova3.jpg 3, manufactured in the mid-1970s]] Computers manufactured until the 1970s had front-panel switches for programming. The computer program was written on paper for reference. An instruction was represented by a configuration of on/off settings. After setting the configuration, an execute button was pressed. This process was then repeated. Computer programs also were manually input via paper tape or punched cards. After the medium was loaded, the starting address was set via switches and the execute button pressed.[18]
+3, manufactured in the mid-1970s]] Computers manufactured until the 1970s had front-panel switches for programming. The computer program was written on paper for reference. An instruction was represented by a configuration of on/off settings. After setting the configuration, an execute button was pressed. This process was then repeated. Computer programs also were manually input via paper tape or punched cards. After the medium was loaded, the starting address was set via switches and the execute button pressed.[18]
 
 In 1961, the Burroughs B5000 was built specifically to be programmed in the ALGOL 60 language. The hardware featured circuits to ease the compile phase.[19]
 
@@ -47,8 +47,6 @@ Computer programming is the process of writing or editing source code. Editing s
 The sometimes lengthy process of computer programming is usually referred to as software development. The term software engineering is becoming popular as the process is seen as an engineering discipline.
 
 Programming languages
-
-Object-Oriented-Programming-Methods-And-Classes-with-Inheritance.png
 
 Computer programs can be categorized by the programming language paradigm used to produce them. Two of the main paradigms are imperative and declarative.
 
@@ -89,7 +87,7 @@ No properties of a programming language require it to be exclusively compiled or
 
 Storage and execution
 
-Papertape3.jpg ]]
+]]
 
 Typically, computer programs are stored in non-volatile memory until requested either directly or indirectly to be executed by the computer user. Upon such a request, the program is loaded into random-access memory, by a computer program called an operating system, where it can be accessed directly by the central processor. The central processor then executes ("runs") the program, instruction by instruction, until termination. A program in execution is called a process.[27] Termination is either by normal self-termination, by user intervention, or by error – software or hardware error.
 
@@ -108,7 +106,7 @@ Computer programs may be categorized along functional lines. The main functional
 
 Application software
 
-Gcalctool-scientific.png, a software calculator]]
+, a software calculator]]
 
 There are many types of application software:
 
@@ -139,7 +137,7 @@ A stored-program computer requires an initial computer program stored in its rea
 
 Embedded programs
 
-USB_flash_drive.JPG on the right of this USB flash drive is controlled with embedded firmware.]]
+on the right of this USB flash drive is controlled with embedded firmware.]]
 
 Independent of the host computer, a hardware device might have embedded firmware to control its operation. Firmware is used when the computer program is rarely or never expected to change, or when the program must not be lost when the power is off.[40]
 

@@ -1,4 +1,4 @@
-Delta-Doped_Charged_Coupled_Devices_(CCD)_for_Ultra-Violet_and_Visible_Detection.jpg imaging ]]
+imaging ]]
 
 A CHARGE-COUPLED DEVICE (CCD) is a device for the movement of electrical charge, usually from within the device to an area where the charge can be manipulated, for example conversion into a digital value. This is achieved by "shifting" the signals between stages within the device one at a time. CCDs move charge between capacitive _bins_ in the device, with the shift allowing for the transfer of charge between bins.
 
@@ -7,7 +7,7 @@ In recent years CCD has become a major technology for digital imaging. In a CCD 
 
 History
 
-Nobel_Prize_2009-Press_Conference_KVA-19.jpg The charge-coupled device was invented in 1969 in the United States at AT&T Bell Labs by Willard Boyle and George E. Smith.[1] The lab was working on semiconductor bubble memory when Boyle and Smith conceived of the design of what they termed, in their notebook, "Charge 'Bubble' Devices".[2] The device could be used as a shift register. The essence of the design was the ability to transfer charge along the surface of a semiconductor from one storage capacitor to the next. The concept was similar in principle to the bucket-brigade device (BBD), which was developed at Philips Research Labs during the late 1960s. The first patent () on the application of CCDs to imaging was assigned to Michael Tompsett.[3]
+The charge-coupled device was invented in 1969 in the United States at AT&T Bell Labs by Willard Boyle and George E. Smith.[1] The lab was working on semiconductor bubble memory when Boyle and Smith conceived of the design of what they termed, in their notebook, "Charge 'Bubble' Devices".[2] The device could be used as a shift register. The essence of the design was the ability to transfer charge along the surface of a semiconductor from one storage capacitor to the next. The concept was similar in principle to the bucket-brigade device (BBD), which was developed at Philips Research Labs during the late 1960s. The first patent () on the application of CCDs to imaging was assigned to Michael Tompsett.[3]
 
 The initial paper describing the concept[4] listed possible uses as a memory, a delay line, and an imaging device. The first experimental device[5] demonstrating the principle was a row of closely spaced metal squares on an oxidized silicon surface electrically accessed by wire bonds.
 
@@ -18,13 +18,11 @@ In January 2006, Boyle and Smith were awarded the National Academy of Engineerin
 
 Basics of operation
 
-CCD_charge_transfer_animation.gif
-
 In a CCD for capturing images, there is a photoactive region (an epitaxial layer of silicon), and a transmission region made out of a shift register (the CCD, properly speaking).
 
 An image is projected through a lens onto the capacitor array (the photoactive region), causing each capacitor to accumulate an electric charge proportional to the light intensity at that location. A one-dimensional array, used in line-scan cameras, captures a single slice of the image, whereas a two-dimensional array, used in video and still cameras, captures a two-dimensional picture corresponding to the scene projected onto the focal plane of the sensor. Once the array has been exposed to the image, a control circuit causes each capacitor to transfer its contents to its neighbor (operating as a shift register). The last capacitor in the array dumps its charge into a charge amplifier, which converts the charge into a voltage. By repeating this process, the controlling circuit converts the entire contents of the array in the semiconductor to a sequence of voltages. In a digital device, these voltages are then sampled, digitized, and usually stored in memory; in an analog device (such as an analog video camera), they are processed into a continuous analog signal (e.g. by feeding the output of the charge amplifier into a low-pass filter), which is then processed and fed out to other circuits for transmission, recording, or other processing.[14]
 
-CCD_line_sensor.JPG from a fax machine]]
+from a fax machine]]
 
 
 Detailed physics of operation
@@ -71,25 +69,23 @@ With a frame-transfer CCD, half of the silicon area is covered by an opaque mask
 
 The interline architecture extends this concept one step further and masks every other column of the image sensor for storage. In this device, only one pixel shift has to occur to transfer from image area to storage area; thus, shutter times can be less than a microsecond and smear is essentially eliminated. The advantage is not free, however, as the imaging area is now covered by opaque strips dropping the fill factor to approximately 50 percent and the effective quantum efficiency by an equivalent amount. Modern designs have addressed this deleterious characteristic by adding microlenses on the surface of the device to direct light away from the opaque regions and on the active area. Microlenses can bring the fill factor back up to 90 percent or more depending on pixel size and the overall system's optical design.
 
-ArgusCCD.jpg Argus digital camera]]
+Argus digital camera]]
 
-CCD_SONY_ICX493AQA_sensor_side.jpg APS-C 1.8" (23.98 x 16.41mm) sensor side]]
+APS-C 1.8" (23.98 x 16.41mm) sensor side]]
 
-CCD_SONY_ICX493AQA_pins_side.jpg APS-C 1.8" (23.98 x 16.41mm) pins side]]
+APS-C 1.8" (23.98 x 16.41mm) pins side]]
 
 The choice of architecture comes down to one of utility. If the application cannot tolerate an expensive, failure-prone, power-intensive mechanical shutter, an interline device is the right choice. Consumer snap-shot cameras have used interline devices. On the other hand, for those applications that require the best possible light collection and issues of money, power and time are less important, the full-frame device is the right choice. Astronomers tend to prefer full-frame devices. The frame-transfer falls in between and was a common choice before the fill-factor issue of interline devices was addressed. Today, frame-transfer is usually chosen when an interline architecture is not available, such as in a back-illuminated device.
 
 CCDs containing grids of pixels are used in digital cameras, optical scanners, and video cameras as light-sensing devices. They commonly respond to 70 percent of the incident light (meaning a quantum efficiency of about 70 percent) making them far more efficient than photographic film, which captures only about 2 percent of the incident light.
 
-2.1_MP_CCD_Close_Up.JPG Hewlett-Packard digital camera]]
+Hewlett-Packard digital camera]]
 
 Most common types of CCDs are sensitive to near-infrared light, which allows infrared photography, night-vision devices, and zero lux (or near zero lux) video-recording/photography. For normal silicon-based detectors, the sensitivity is limited to 1.1 μm. One other consequence of their sensitivity to infrared is that infrared from remote controls often appears on CCD-based digital cameras or camcorders if they do not have infrared blockers.
 
 Cooling reduces the array's dark current, improving the sensitivity of the CCD to low light intensities, even for ultraviolet and visible wavelengths. Professional observatories often cool their detectors with liquid nitrogen to reduce the dark current, and therefore the thermal noise, to negligible levels.
 
 Frame transfer CCD
-
-IECCD55-20.jpg
 
 The frame transfer CCD imager was the first imaging structure proposed for CCD Imaging by Michael Tompsett at Bell Laboratories. A FRAME TRANSFER CCD is a specialized CCD, often used in astronomy and some professional video cameras, designed for high exposure efficiency and correctness.
 
@@ -115,7 +111,7 @@ ICCDs are used in night vision devices and in various scientific applications.
 
 Electron-multiplying CCD
 
-EMCCD2_color_en.svg. The high voltages used in these serial transfers induce the creation of additional charge carriers through impact ionisation.]] Output_vs_input_electrons.png there is a dispersion (variation) in the number of electrons output by the multiplication register for a given (fixed) number of input electrons (shown in the legend on the right). The probability distribution for the number of output electrons is plotted logarithmically on the vertical axis for a simulation of a multiplication register. Also shown are results from the empirical fit equation shown on this page.]]
+. The high voltages used in these serial transfers induce the creation of additional charge carriers through impact ionisation.]] there is a dispersion (variation) in the number of electrons output by the multiplication register for a given (fixed) number of input electrons (shown in the legend on the right). The probability distribution for the number of output electrons is plotted logarithmically on the vertical axis for a simulation of a multiplication register. Also shown are results from the empirical fit equation shown on this page.]]
 
 An ELECTRON-MULTIPLYING CCD (EMCCD, also known as an L3Vision CCD, a product commercialized by e2v Ltd., GB, L3CCD or Impactron CCD, a now-discontinued product offered in the past by Texas Instruments) is a charge-coupled device in which a gain register is placed between the shift register and the output amplifier. The gain register is split up into a large number of stages. In each stage, the electrons are multiplied by impact ionization in a similar way to an avalanche diode. The gain probability at every stage of the register is small (_P_ < 2%), but as the number of elements is large (N > 500), the overall gain can be very high (g = (1 + P)^(N)), with single input electrons giving many thousands of output electrons. Reading a signal from a CCD gives a noise background, typically a few electrons. In an EMCCD, this noise is superimposed on many thousands of electrons rather than a single electron; the devices' primary advantage is thus their negligible readout noise. It is to be noted that the use of avalanche breakdown for amplification of photo charges had already been described in the in 1973 by George E. Smith/Bell Telephone Laboratories.
 
@@ -145,7 +141,7 @@ The Hubble Space Telescope, in particular, has a highly developed series of step
 
 CCD cameras used in astrophotography often require sturdy mounts to cope with vibrations from wind and other sources, along with the tremendous weight of most imaging platforms. To take long exposures of galaxies and nebulae, many astronomers use a technique known as auto-guiding. Most autoguiders use a second CCD chip to monitor deviations during imaging. This chip can rapidly detect errors in tracking and command the mount motors to correct for them.
 
-SDSSFaceplate.gif telescope imaging camera, an example of "drift-scanning".]]
+telescope imaging camera, an example of "drift-scanning".]]
 
 An unusual astronomical application of CCDs, called drift-scanning, uses a CCD to make a fixed telescope behave like a tracking telescope and follow the motion of the sky. The charges in the CCD are transferred and read in a direction parallel to the motion of the sky, and at the same speed. In this way, the telescope can image a larger region of the sky than its normal field of view. The Sloan Digital Sky Survey is the most famous example of this, using the technique to a survey of over a quarter of the sky.
 
@@ -156,7 +152,7 @@ In addition to imagers, CCDs are also used in an array of analytical instrumenta
 
 Color cameras
 
-Bayer_pattern_on_sensor.svg on a CCD]] SONY_ICX024AK_10A_1988_494kpix_CCD.jpg Webcam_CCD_-_640x480px_Colour.jpg An_RGGB_Bayer_Colour_Filter_on_a_1980's_vintage_Sony_PAL_Camcorder_CCD.png
+on a CCD]]
 
 Digital color cameras generally use a Bayer mask over the CCD. Each square of four pixels has one filtered red, one blue, and two green (the human eye is more sensitive to green than either red or blue). The result of this is that luminance information is collected at every pixel, but the color resolution is lower than the luminance resolution.
 
@@ -171,7 +167,7 @@ Sensors (CCD / CMOS) come in various sizes, or image sensor formats. These sizes
 
 Blooming
 
-Vertical_smear.jpg When a CCD exposure is long enough, eventually the electrons that collect in the "bins" in the brightest part of the image will overflow the bin, resulting in blooming. The structure of the CCD allows the electrons to flow more easily in one direction than another, resulting in vertical streaking.[23][24][25]
+When a CCD exposure is long enough, eventually the electrons that collect in the "bins" in the brightest part of the image will overflow the bin, resulting in blooming. The structure of the CCD allows the electrons to flow more easily in one direction than another, resulting in vertical streaking.[23][24][25]
 
 Some anti-blooming features that can be built into a CCD reduce its sensitivity to light by using some of the pixel area for a drain structure.[26] James M. Early developed a vertical anti-blooming drain that would not detract from the light collection area, and so did not reduce light sensitivity.
 

@@ -1,4 +1,4 @@
-Bankrupt_computer_store.jpg]] BANKRUPTCY is a legal process through which people or other entities who cannot repay debts to creditors may seek relief from some or all of their debts. In most jurisdictions, bankruptcy is imposed by a court order, often initiated by the debtor.
+]] BANKRUPTCY is a legal process through which people or other entities who cannot repay debts to creditors may seek relief from some or all of their debts. In most jurisdictions, bankruptcy is imposed by a court order, often initiated by the debtor.
 
 Bankruptcy is not the only legal status that an insolvent person may have, and the term _bankruptcy_ is therefore not a synonym for insolvency. In some countries, such as the United Kingdom, bankruptcy is limited to individuals; other forms of insolvency proceedings (such as liquidation and administration) are applied to companies. In the United States, _bankruptcy_ is applied more broadly to formal insolvency proceedings. In France, the cognate French word _banqueroute_ is used solely for cases of fraudulent bankruptcy, whereas the term _faillite_ (cognate of "failure") is used for bankruptcy in accordance with the law.[1]
 
@@ -10,7 +10,7 @@ The word _bankruptcy_ is derived from Italian _banca rotta_, meaning "broken ben
 
 History
 
-John_Law_cartoon_(1720).png's Mississippi Company led to French national bankruptcy in 1720.]]
+'s Mississippi Company led to French national bankruptcy in 1720.]]
 
 In Ancient Greece, bankruptcy did not exist. If a man owed and he could not pay, he and his wife, children or servants were forced into "debt slavery", until the creditor recouped losses through their physical labour. Many city-states in ancient Greece limited debt slavery to a period of five years; debt slaves had protection of life and limb, which regular slaves did not enjoy. However, servants of the debtor could be retained beyond that deadline by the creditor and were often forced to serve their new lord for a lifetime, usually under significantly harsher conditions. An exception to this rule was Athens, which by the laws of Solon forbade enslavement for debt; as a consequence, most Athenian slaves were foreigners (Greek or otherwise).
 
@@ -200,7 +200,7 @@ The Government have updated legislation (2016) to streamline the application pro
 
 United States
 
-Detroit,_USA_Taken_From_Windsor,_Canada.jpg in U.S. history.]] Bankruptcy in the United States is a matter placed under federal jurisdiction by the United States Constitution (in Article 1, Section 8, Clause 4), which empowers Congress to enact "uniform Laws on the subject of Bankruptcies throughout the United States". Congress has enacted statutes governing bankruptcy, primarily in the form of the Bankruptcy Code, located at Title 11 of the United States Code.[36]
+in U.S. history.]] Bankruptcy in the United States is a matter placed under federal jurisdiction by the United States Constitution (in Article 1, Section 8, Clause 4), which empowers Congress to enact "uniform Laws on the subject of Bankruptcies throughout the United States". Congress has enacted statutes governing bankruptcy, primarily in the form of the Bankruptcy Code, located at Title 11 of the United States Code.[36]
 
 A debtor declares bankruptcy to obtain relief from debt, and this is normally accomplished either through a discharge of the debt or through a restructuring of the debt. When a debtor files a voluntary petition, their bankruptcy case commences.[37]
 

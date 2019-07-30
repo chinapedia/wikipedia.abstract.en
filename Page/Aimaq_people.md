@@ -35,7 +35,7 @@ AIMAQ TRIBES
 
 Demographics
 
-Afghanistan_ethnic_groups_2005.jpg (2005)]] Estimates of the Aimaq population vary between 250,000 and 500,000. They are largely Sunni Muslims--except for the Jamshidi who are mainly Ismaili Shia in the main--and in contrast to the Hazara, who are mostly Shia Muslims.[7]
+(2005)]] Estimates of the Aimaq population vary between 250,000 and 500,000. They are largely Sunni Muslims--except for the Jamshidi who are mainly Ismaili Shia in the main--and in contrast to the Hazara, who are mostly Shia Muslims.[7]
 
 
 See also

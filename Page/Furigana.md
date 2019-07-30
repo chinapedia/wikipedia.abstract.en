@@ -1,4 +1,4 @@
-Seimikaisou.jpg bat­tery in _In­tro­duc­tion to Chem­istry_ (_Seimi Kaisō_) by Udagawa Yōan, published in 1840.]] is a Japanese reading aid, consisting of smaller kana or syllabic characters, printed next to a kanji (ideographic character) or other character to indicate its pronunciation. It is one type of ruby text. Furigana is also known as or in Japanese. In modern Japanese, it is mostly used to gloss rare kanji, to clarify rare, nonstandard or ambiguous kanji readings, or in children's or learners' materials. Before the post-World War II script reforms, it was more widespread.[1]
+bat­tery in _In­tro­duc­tion to Chem­istry_ (_Seimi Kaisō_) by Udagawa Yōan, published in 1840.]] is a Japanese reading aid, consisting of smaller kana or syllabic characters, printed next to a kanji (ideographic character) or other character to indicate its pronunciation. It is one type of ruby text. Furigana is also known as or in Japanese. In modern Japanese, it is mostly used to gloss rare kanji, to clarify rare, nonstandard or ambiguous kanji readings, or in children's or learners' materials. Before the post-World War II script reforms, it was more widespread.[1]
 
 Furigana is most often written in hiragana, though katakana, alphabet letters or other kanji can also be used in certain special cases. In vertical text, _tategaki_, the furigana is placed to the right of the line of text; in horizontal text, _yokogaki_, it is placed above the line of text, as illustrated below.
 
@@ -41,7 +41,7 @@ Various word processing or typesetting software programs, such as Microsoft Word
 
 Usage
 
-JR_Namba_entrance.jpg" and the kanji for "Namba"]] Furigana are most commonly used in works for children, who may not have sufficiently advanced reading skills to recognize the kanji, but can understand the word when written phonetically in hiragana. Because children learn hiragana before katakana, in books for very young children, there are hiragana furigana next to the katakana characters. It is common to use furigana on all kanji characters in works for young children. This is called in Japanese.
+" and the kanji for "Namba"]] Furigana are most commonly used in works for children, who may not have sufficiently advanced reading skills to recognize the kanji, but can understand the word when written phonetically in hiragana. Because children learn hiragana before katakana, in books for very young children, there are hiragana furigana next to the katakana characters. It is common to use furigana on all kanji characters in works for young children. This is called in Japanese.
 
 Numeric characters used for counting (e.g. _ni-hon_ "two long things"; _futatsume_ "second"; _dai-ni kan_ "book 2"; _ni-pēji_ "page 2"; etc.) are usually not tagged with furigana. Numeric words in established compounds (e.g. _ippo_ "step"), however, may be.
 

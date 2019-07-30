@@ -16,9 +16,8 @@ Additive synthesis aims to exploit this property of sound in order to construct 
 
 Definitions
 
-  ------------------------
-  Additive_synthesis.svg
-  ------------------------
+  --
+  --
 
 Harmonic additive synthesis is closely related to the concept of a Fourier series which is a way of expressing a periodic function as the sum of sinusoidal functions with frequencies equal to integer multiples of a common fundamental frequency. These sinusoids are called harmonics, overtones, or generally, partials. In general, a Fourier series contains an infinite number of sinusoidal components, with no upper limit to the frequency of the sinusoidal functions and includes a DC component (one with frequency of 0 Hz). Frequencies outside of the human audible range can be omitted in additive synthesis. As a result, only a finite number of sinusoidal terms with frequencies that lie within the audible range are modeled in additive synthesis.
 
@@ -58,9 +57,9 @@ where y(t)  is the synthesis output, r_(k) , kf₀ , and ϕ_(k)  are the
 
 Time-dependent amplitudes
 
-  ------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Harmonic_additive_synthesis_spectrum.png   Example of harmonic additive synthesis in which each harmonic has a time-dependent amplitude. The fundamental frequency is 440 Hz. noicon Problems listening to this file? See Media help
-  ------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  -- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     Example of harmonic additive synthesis in which each harmonic has a time-dependent amplitude. The fundamental frequency is 440 Hz. Problems listening to this file? See Media help
+  -- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 More generally, the amplitude of each harmonic can be prescribed as a function of time, r_(k)(t) , in which case the synthesis output is
 
@@ -76,9 +75,9 @@ Additive synthesis can also produce inharmonic sounds (which are aperiodic wavef
 
 where f_(k)  is the constant frequency of k th partial.
 
-  -------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Inharmonic_additive_synthesis_spectrum.png   Example of inharmonic additive synthesis in which both the amplitude and frequency of each partial are time-dependent. noicon Problems listening to this file? See Media help
-  -------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  -- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     Example of inharmonic additive synthesis in which both the amplitude and frequency of each partial are time-dependent. Problems listening to this file? See Media help
+  -- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Time-dependent frequencies
 
@@ -118,19 +117,17 @@ An inverse Fast Fourier transform can be used to efficiently synthesize frequenc
 
 Additive analysis/resynthesis
 
-Sinusoidal analysis/synthesis system for Sinusoidal Modeling (based on )[17]
+It is possible to analyze the frequency components of a recorded sound giving a "sum of sinusoids" representation. This representation can be re-synthesized using additive synthesis. One method of decomposing a sound into time varying sinusoidal partials is short-time Fourier transform (STFT)-based McAulay-Quatieri Analysis.[17][18]
 
-It is possible to analyze the frequency components of a recorded sound giving a "sum of sinusoids" representation. This representation can be re-synthesized using additive synthesis. One method of decomposing a sound into time varying sinusoidal partials is short-time Fourier transform (STFT)-based McAulay-Quatieri Analysis.[18][19]
+By modifying the sum of sinusoids representation, timbral alterations can be made prior to resynthesis. For example, a harmonic sound could be restructured to sound inharmonic, and vice versa. Sound hybridisation or "morphing" has been implemented by additive resynthesis.[19]
 
-By modifying the sum of sinusoids representation, timbral alterations can be made prior to resynthesis. For example, a harmonic sound could be restructured to sound inharmonic, and vice versa. Sound hybridisation or "morphing" has been implemented by additive resynthesis.[20]
-
-Additive analysis/resynthesis has been employed in a number of techniques including Sinusoidal Modelling,[21] Spectral Modelling Synthesis (SMS),[22] and the Reassigned Bandwidth-Enhanced Additive Sound Model.[23] Software that implements additive analysis/resynthesis includes: SPEAR,[24] LEMUR, LORIS,[25] SMSTools,[26] ARSS.[27]
+Additive analysis/resynthesis has been employed in a number of techniques including Sinusoidal Modelling,[20] Spectral Modelling Synthesis (SMS),[21] and the Reassigned Bandwidth-Enhanced Additive Sound Model.[22] Software that implements additive analysis/resynthesis includes: SPEAR,[23] LEMUR, LORIS,[24] SMSTools,[25] ARSS.[26]
 
 Products
 
 New England Digital Synclavier had a resynthesis feature where samples could be analyzed and converted into ”timbre frames” which were part of its additive synthesis engine. Technos acxel, launched in 1987, utilized the additive analysis/resynthesis model, in an FFT implementation.
 
-Also a vocal synthesizer, Vocaloid have been implemented on the basis of additive analysis/resynthesis: its spectral voice model called Excitation plus Resonances (EpR) model[28][29] is extended based on Spectral Modeling Synthesis (SMS), and its diphone concatenative synthesis is processed using _spectral peak processing_ (SPP)[30] technique similar to modified phase-locked vocoder[31] (an improved phase vocoder for formant processing).[32] Using these techniques, spectral components (_formants_) consisting of purely harmonic partials can be appropriately transformed into desired form for sound modeling, and sequence of short samples (_diphones_ or _phonemes_) constituting desired phrase, can be smoothly connected by interpolating matched partials and formant peaks, respectively, in the inserted transition region between different samples. (See also Dynamic timbres)
+Also a vocal synthesizer, Vocaloid have been implemented on the basis of additive analysis/resynthesis: its spectral voice model called Excitation plus Resonances (EpR) model[27][28] is extended based on Spectral Modeling Synthesis (SMS), and its diphone concatenative synthesis is processed using _spectral peak processing_ (SPP)[29] technique similar to modified phase-locked vocoder[30] (an improved phase vocoder for formant processing).[31] Using these techniques, spectral components (_formants_) consisting of purely harmonic partials can be appropriately transformed into desired form for sound modeling, and sequence of short samples (_diphones_ or _phonemes_) constituting desired phrase, can be smoothly connected by interpolating matched partials and formant peaks, respectively, in the inserted transition region between different samples. (See also Dynamic timbres)
 
 
 Applications
@@ -141,22 +138,22 @@ Additive synthesis is used in electronic musical instruments. It is the principa
 
 Speech synthesis
 
-In linguistics research, harmonic additive synthesis was used in 1950s to play back modified and synthetic speech spectrograms.[33]
+In linguistics research, harmonic additive synthesis was used in 1950s to play back modified and synthetic speech spectrograms.[32]
 
-Later, in early 1980s, listening tests were carried out on synthetic speech stripped of acoustic cues to assess their significance. Time-varying formant frequencies and amplitudes derived by linear predictive coding were synthesized additively as pure tone whistles. This method is called sinewave synthesis.[34][35] Also the composite sinusoidal modeling (CSM)[36][37] used on a singing speech synthesis feature on Yamaha CX5M (1984), is known to use a similar approach which was independently developed during 1966–1979.[38][39] These methods are characterized by extraction and recomposition of a set of significant spectral peaks corresponding to the several resonance modes occurred in the oral cavity and nasal cavity, in a viewpoint of acoustics. This principle was also utilized on a physical modeling synthesis method, called modal synthesis.[40][41][42][43]
+Later, in early 1980s, listening tests were carried out on synthetic speech stripped of acoustic cues to assess their significance. Time-varying formant frequencies and amplitudes derived by linear predictive coding were synthesized additively as pure tone whistles. This method is called sinewave synthesis.[33][34] Also the composite sinusoidal modeling (CSM)[35][36] used on a singing speech synthesis feature on Yamaha CX5M (1984), is known to use a similar approach which was independently developed during 1966–1979.[37][38] These methods are characterized by extraction and recomposition of a set of significant spectral peaks corresponding to the several resonance modes occurred in the oral cavity and nasal cavity, in a viewpoint of acoustics. This principle was also utilized on a physical modeling synthesis method, called modal synthesis.[39][40][41][42]
 
 
 History
 
-Harmonic analysis was discovered by Joseph Fourier,[44] who published an extensive treatise of his research in the context of heat transfer in 1822.[45] The theory found an early application in prediction of tides. Around 1876,[46] Lord Kelvin constructed a mechanical tide predictor. It consisted of a _harmonic analyzer_ and a _harmonic synthesizer_, as they were called already in the 19th century.[47][48] The analysis of tide measurements was done using James Thomson's _integrating machine_. The resulting Fourier coefficients were input into the synthesizer, which then used a system of cords and pulleys to generate and sum harmonic sinusoidal partials for prediction of future tides. In 1910, a similar machine was built for the analysis of periodic waveforms of sound.[49] The synthesizer drew a graph of the combination waveform, which was used chiefly for visual validation of the analysis.[50]
+Harmonic analysis was discovered by Joseph Fourier,[43] who published an extensive treatise of his research in the context of heat transfer in 1822.[44] The theory found an early application in prediction of tides. Around 1876,[45] Lord Kelvin constructed a mechanical tide predictor. It consisted of a _harmonic analyzer_ and a _harmonic synthesizer_, as they were called already in the 19th century.[46][47] The analysis of tide measurements was done using James Thomson's _integrating machine_. The resulting Fourier coefficients were input into the synthesizer, which then used a system of cords and pulleys to generate and sum harmonic sinusoidal partials for prediction of future tides. In 1910, a similar machine was built for the analysis of periodic waveforms of sound.[48] The synthesizer drew a graph of the combination waveform, which was used chiefly for visual validation of the analysis.[49]
 
-Georg Ohm applied Fourier's theory to sound in 1843. The line of work was greatly advanced by Hermann von Helmholtz, who published his eight years worth of research in 1863.[51] Helmholtz believed that the psychological perception of tone color is subject to learning, while hearing in the sensory sense is purely physiological.[52] He supported the idea that perception of sound derives from signals from nerve cells of the basilar membrane and that the elastic appendages of these cells are sympathetically vibrated by pure sinusoidal tones of appropriate frequencies.[53] Helmholtz agreed with the finding of Ernst Chladni from 1787 that certain sound sources have inharmonic vibration modes.[54]
+Georg Ohm applied Fourier's theory to sound in 1843. The line of work was greatly advanced by Hermann von Helmholtz, who published his eight years worth of research in 1863.[50] Helmholtz believed that the psychological perception of tone color is subject to learning, while hearing in the sensory sense is purely physiological.[51] He supported the idea that perception of sound derives from signals from nerve cells of the basilar membrane and that the elastic appendages of these cells are sympathetically vibrated by pure sinusoidal tones of appropriate frequencies.[52] Helmholtz agreed with the finding of Ernst Chladni from 1787 that certain sound sources have inharmonic vibration modes.[53]
 
-In Helmholtz's time, electronic amplification was unavailable. For synthesis of tones with harmonic partials, Helmholtz built an electrically excited array of tuning forks and acoustic resonance chambers that allowed adjustment of the amplitudes of the partials.[55] Built at least as early as in 1862,[56] these were in turn refined by Rudolph Koenig, who demonstrated his own setup in 1872.[57] For harmonic synthesis, Koenig also built a large apparatus based on his _wave siren_. It was pneumatic and utilized cut-out tonewheels, and was criticized for low purity of its partial tones.[58] Also tibia pipes of pipe organs have nearly sinusoidal waveforms and can be combined in the manner of additive synthesis.[59]
+In Helmholtz's time, electronic amplification was unavailable. For synthesis of tones with harmonic partials, Helmholtz built an electrically excited array of tuning forks and acoustic resonance chambers that allowed adjustment of the amplitudes of the partials.[54] Built at least as early as in 1862,[55] these were in turn refined by Rudolph Koenig, who demonstrated his own setup in 1872.[56] For harmonic synthesis, Koenig also built a large apparatus based on his _wave siren_. It was pneumatic and utilized cut-out tonewheels, and was criticized for low purity of its partial tones.[57] Also tibia pipes of pipe organs have nearly sinusoidal waveforms and can be combined in the manner of additive synthesis.[58]
 
-In 1938, with significant new supporting evidence,[60] it was reported on the pages of Popular Science Monthly that the human vocal cords function like a fire siren to produce a harmonic-rich tone, which is then filtered by the vocal tract to produce different vowel tones.[61] By the time, the additive Hammond organ was already on market. Most early electronic organ makers thought it too expensive to manufacture the plurality of oscillators required by additive organs, and began instead to build subtractive ones.[62] In a 1940 Institute of Radio Engineers meeting, the head field engineer of Hammond elaborated on the company's new _Novachord_ as having a _“subtractive system”_ in contrast to the original Hammond organ in which _“the final tones were built up by combining sound waves”_.[63] Alan Douglas used the qualifiers _additive_ and _subtractive_ to describe different types of electronic organs in a 1948 paper presented to the Royal Musical Association.[64] The contemporary wording _additive synthesis_ and _subtractive synthesis_ can be found in his 1957 book _The electrical production of music_, in which he categorically lists three methods of forming of musical tone-colours, in sections titled _Additive synthesis_, _Subtractive synthesis_, and _Other forms of combinations_.[65]
+In 1938, with significant new supporting evidence,[59] it was reported on the pages of Popular Science Monthly that the human vocal cords function like a fire siren to produce a harmonic-rich tone, which is then filtered by the vocal tract to produce different vowel tones.[60] By the time, the additive Hammond organ was already on market. Most early electronic organ makers thought it too expensive to manufacture the plurality of oscillators required by additive organs, and began instead to build subtractive ones.[61] In a 1940 Institute of Radio Engineers meeting, the head field engineer of Hammond elaborated on the company's new _Novachord_ as having a _“subtractive system”_ in contrast to the original Hammond organ in which _“the final tones were built up by combining sound waves”_.[62] Alan Douglas used the qualifiers _additive_ and _subtractive_ to describe different types of electronic organs in a 1948 paper presented to the Royal Musical Association.[63] The contemporary wording _additive synthesis_ and _subtractive synthesis_ can be found in his 1957 book _The electrical production of music_, in which he categorically lists three methods of forming of musical tone-colours, in sections titled _Additive synthesis_, _Subtractive synthesis_, and _Other forms of combinations_.[64]
 
-A typical modern additive synthesizer produces its output as an electrical, analog signal, or as digital audio, such as in the case of software synthesizers, which became popular around year 2000.[66]
+A typical modern additive synthesizer produces its output as an electrical, analog signal, or as digital audio, such as in the case of software synthesizers, which became popular around year 2000.[65]
 
 Timeline
 
@@ -185,7 +182,7 @@ The following is a timeline of historically and technologically notable analog a
 |                                        |                                    |                                                                                                                 |                                                                                              |                                                                                                                                                        |                                                                            |
 | {{cite web     | ref=harv              |                                    |                                                                                                                 |                                                                                              |                                                                                                                                                        | }}                                                                         |
 +----------------------------------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------+
-| 1974 or earlier[67][68]                | 1974                               | title = RMI Harmonic Synthesizer                                                                                | url = http://www.synthmuseum.com/rmi/rmihar01.html                                           | publisher = Synthmuseum.com                                                                                                                            | accessdate = 12 May 2011                                                   |
+| 1974 or earlier[66][67]                | 1974                               | title = RMI Harmonic Synthesizer                                                                                | url = http://www.synthmuseum.com/rmi/rmihar01.html                                           | publisher = Synthmuseum.com                                                                                                                            | accessdate = 12 May 2011                                                   |
 |                                        |                                    |                                                                                                                 |                                                                                              |                                                                                                                                                        |                                                                            |
 |                                        | {{cite web     | ref=harv          |                                                                                                                 |                                                                                              |                                                                                                                                                        |                                                                            |
 +----------------------------------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------+
@@ -201,7 +198,7 @@ The following is a timeline of historically and technologically notable analog a
 |                                        |                                    |                                                                                                                 |                                                                                              |                                                                                                                                                        |                                                                            |
 | {{cite book    | ref=harv              |                                    |                                                                                                                 |                                                                                              |                                                                                                                                                        |                                                                            |
 +----------------------------------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------+
-| 1979[69]                               | 1979[70]                           | New England Digital                                                                                             | Synclavier II                                                                                | A commercial digital synthesizer that enabled development of timbre over time by smooth cross-fades between waveforms generated by additive synthesis. |                                                                            |
+| 1979[68]                               | 1979[69]                           | New England Digital                                                                                             | Synclavier II                                                                                | A commercial digital synthesizer that enabled development of timbre over time by smooth cross-fades between waveforms generated by additive synthesis. |                                                                            |
 +----------------------------------------+------------------------------------+-----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------+
 
 
@@ -236,7 +233,7 @@ $$\begin{align}
     \theta_k[n] &= \frac{2 \pi}{f_\mathrm{s}} \sum_{i=1}^{n} f_k[i] + \phi_k \\
                 &= \theta_k[n-1] + \frac{2 \pi}{f_\mathrm{s}} f_k[n] \\
        \end{align}$$
-for all n > 0 [71] and
+for all n > 0 [70] and
 
     θ_(k)[0] = ϕ_(k). 
 
@@ -302,24 +299,24 @@ Category:Sound synthesis types
 
 [22]
 
-[23]
+[23] SPEAR Sinusoidal Partial Editing Analysis and Resynthesis for Mac OS X, MacOS 9 and Windows
 
-[24] SPEAR Sinusoidal Partial Editing Analysis and Resynthesis for Mac OS X, MacOS 9 and Windows
+[24]
 
-[25]
+[25] SMSTools application for Windows
 
-[26] SMSTools application for Windows
+[26] ARSS: The Analysis & Resynthesis Sound Spectrograph
 
-[27] ARSS: The Analysis & Resynthesis Sound Spectrograph
+[27]  (PDF)
 
-[28]  (PDF)
-
-[29]  (PDF).
+[28]  (PDF).
 See "_Excitation plus resonances voice model_" (p. 51)
 
-[30] , "_Spectral peak processing"_
+[29] , "_Spectral peak processing"_
 
-[31] , "_Phase locked vocoder_"
+[30] , "_Phase locked vocoder_"
+
+[31]
 
 [32]
 
@@ -339,9 +336,9 @@ See "_Excitation plus resonances voice model_" (p. 51)
 
 [40]
 
-[41]
+[41]   (See also companion page)
 
-[42]   (See also companion page)
+[42]
 
 [43]
 
@@ -398,5 +395,3 @@ See "_Excitation plus resonances voice model_" (p. 51)
 [69]
 
 [70]
-
-[71]

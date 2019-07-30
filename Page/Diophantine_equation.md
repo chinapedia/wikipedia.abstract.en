@@ -1,4 +1,4 @@
-Rtriangle.svg is equivalent to solving the Diophantine equation _c_²}}.]]
+is equivalent to solving the Diophantine equation _c_²}}.]]
 
 In mathematics, a DIOPHANTINE EQUATION is a polynomial equation, usually in two or more unknowns, such that only the integer solutions are sought or studied (an integer solution is such that all the unknowns take integer values). A LINEAR DIOPHANTINE EQUATION equates the sum of two or more monomials, each of degree 1 in one of the variables, to a constant. An EXPONENTIAL DIOPHANTINE EQUATION is one in which exponents on terms can be unknowns.
 

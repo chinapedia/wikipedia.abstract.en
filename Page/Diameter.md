@@ -1,4 +1,4 @@
-Circle-withsegments.svg (C) in black, diameter (D) in cyan, radius (R) in red, and centre or origin (O) in magenta.]]
+(C) in black, diameter (D) in cyan, radius (R) in red, and centre or origin (O) in magenta.]]
 
 In geometry, a DIAMETER of a circle is any straight line segment that passes through the center of the circle and whose endpoints lie on the circle. It can also be defined as the longest chord of the circle. Both definitions are also valid for the diameter of a sphere.
 
@@ -30,7 +30,7 @@ In plane geometry, a diameter of a conic section is typically defined as any cho
 
 Symbol
 
-Technical_Drawing_Hole_01.svg Sign_diameter.png drawing]]
+drawing]]
 
 The symbol or variable for diameter, ⌀, is similar in size and design to ø, the Latin small letter o with stroke. In Unicode it is defined as . On an Apple Macintosh, the diameter symbol can be entered via the character palette (this is opened by pressing in most applications), where it can be found in the Technical Symbols category.
 

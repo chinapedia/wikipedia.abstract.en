@@ -24,11 +24,11 @@ There were a number of systems of liquid measurements in the United Kingdom prio
 
 Imperial gallon
 
-Shell_petrol_station_in_the_UK.jpg The imperial (UK) gallon is now defined as exactly litres (about 277.42 cubic inches).[3] It is used in some Commonwealth countries. Until 1976 it was based on the volume of 10 pounds (approximately 4.54 kg) of water at .[4][5] There are four quarts in a gallon, the imperial pint is defined as 0.56826125 litres (i.e. gallon) and there are 20 imperial fluid ounces in an imperial pint.[6]
+The imperial (UK) gallon is now defined as exactly litres (about 277.42 cubic inches).[3] It is used in some Commonwealth countries. Until 1976 it was based on the volume of 10 pounds (approximately 4.54 kg) of water at .[4][5] There are four quarts in a gallon, the imperial pint is defined as 0.56826125 litres (i.e. gallon) and there are 20 imperial fluid ounces in an imperial pint.[6]
 
 US liquid gallon
 
-US_petrol_pump.jpg The US gallon is legally defined as 231 cubic inches, which is exactly .[7][8] A US liquid gallon of water weighs about at , making it about 16.6% lighter than the imperial gallon. There are four quarts in a gallon, two pints in a quart and 16 US fluid ounces in a US pint, which makes the US fluid ounce equal to of a US gallon. In order to overcome the effects of expansion and contraction with temperature when using a gallon to specify a quantity of material for purposes of trade, it is common to define the temperature at which the material will occupy the specified volume. For example, the volume of petroleum products[9] and alcoholic beverages[10] are both referenced to in government regulations.
+The US gallon is legally defined as 231 cubic inches, which is exactly .[7][8] A US liquid gallon of water weighs about at , making it about 16.6% lighter than the imperial gallon. There are four quarts in a gallon, two pints in a quart and 16 US fluid ounces in a US pint, which makes the US fluid ounce equal to of a US gallon. In order to overcome the effects of expansion and contraction with temperature when using a gallon to specify a quantity of material for purposes of trade, it is common to define the temperature at which the material will occupy the specified volume. For example, the volume of petroleum products[9] and alcoholic beverages[10] are both referenced to in government regulations.
 
 US dry gallon
 
@@ -36,8 +36,6 @@ This dry measure is one-eighth of a US _Winchester_ bushel of cubic inches; it i
 
 
 Worldwide usage of gallons
-
-Gasoline_unit.svg
 
 Gallons used in fuel economy expression in Canada and the United Kingdom are imperial gallons.[12][13]
 

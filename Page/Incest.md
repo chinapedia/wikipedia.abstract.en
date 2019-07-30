@@ -1,4 +1,4 @@
-Wedding_Zeus_Hera_MAN_Napoli_Inv9559.jpg and Juno, 1st century AD]]
+and Juno, 1st century AD]]
 
 INCEST is human sexual activity between family members or close relatives.[1][2] This typically includes sexual activity between people in consanguinity (blood relations), and sometimes those related by affinity (marriage or stepfamily), adoption, clan, or lineage.
 
@@ -18,7 +18,7 @@ Other words that describe sexual attraction to relatives include consanguinophil
 
 History
 
-W.Clerke_table.PNG. London, 1594]]
+. London, 1594]]
 
 Antiquity
 
@@ -32,7 +32,7 @@ In Ancient Greece, Spartan King Leonidas I, hero of the legendary Battle of Ther
 
 Incest is mentioned and condemned in Virgil's _Aeneid_ Book VI:[40] _hic thalamum invasit natae vetitosque hymenaeos;_ "This one invaded a daughter's room and a forbidden sex act".
 
-Yaxchilán_lintel.jpg with his aunt-wife, Lady Xoc. AD 709]] Roman civil law prohibited marriages within four degrees of consanguinity[41] but had no degrees of affinity with regards to marriage. Roman civil laws prohibited any marriage between parents and children, either in the ascending or descending line _ad infinitum_.[42] Adoption was considered the same as affinity in that an adoptive father could not marry an unemancipated daughter or granddaughter even if the adoption had been dissolved.[43] Incestuous unions were discouraged and considered _nefas_ (against the laws of gods and man) in ancient Rome. In AD 295 incest was explicitly forbidden by an imperial edict, which divided the concept of _incestus_ into two categories of unequal gravity: the _incestus iuris gentium,_ which was applied to both Romans and non-Romans in the Empire, and the _incestus iuris civilis,_ which concerned only Roman citizens. Therefore, for example, an Egyptian could marry an aunt, but a Roman could not. Despite the act of incest being unacceptable within the Roman Empire, Roman Emperor Caligula is rumored to have had sexual relationships with all three of his sisters (Julia Livilla, Drusilla, and Agrippina the Younger).[44] Emperor Claudius, after executing his previous wife, married his brother's daughter Agrippina the Younger, and changed the law to allow an otherwise illegal union.[45] The law prohibiting marrying a sister's daughter remained.[46] The taboo against incest in Ancient Rome is demonstrated by the fact that politicians would use charges of incest (often false charges) as insults and means of political disenfranchisement.
+with his aunt-wife, Lady Xoc. AD 709]] Roman civil law prohibited marriages within four degrees of consanguinity[41] but had no degrees of affinity with regards to marriage. Roman civil laws prohibited any marriage between parents and children, either in the ascending or descending line _ad infinitum_.[42] Adoption was considered the same as affinity in that an adoptive father could not marry an unemancipated daughter or granddaughter even if the adoption had been dissolved.[43] Incestuous unions were discouraged and considered _nefas_ (against the laws of gods and man) in ancient Rome. In AD 295 incest was explicitly forbidden by an imperial edict, which divided the concept of _incestus_ into two categories of unequal gravity: the _incestus iuris gentium,_ which was applied to both Romans and non-Romans in the Empire, and the _incestus iuris civilis,_ which concerned only Roman citizens. Therefore, for example, an Egyptian could marry an aunt, but a Roman could not. Despite the act of incest being unacceptable within the Roman Empire, Roman Emperor Caligula is rumored to have had sexual relationships with all three of his sisters (Julia Livilla, Drusilla, and Agrippina the Younger).[44] Emperor Claudius, after executing his previous wife, married his brother's daughter Agrippina the Younger, and changed the law to allow an otherwise illegal union.[45] The law prohibiting marrying a sister's daughter remained.[46] The taboo against incest in Ancient Rome is demonstrated by the fact that politicians would use charges of incest (often false charges) as insults and means of political disenfranchisement.
 
 In Norse mythology, there are themes of brother-sister marriage, a prominent example being between Njörðr and his unnamed sister (perhaps Nerthus), parents of Freyja and Freyr. Loki in turn also accuses Freyja and Freyr of having a sexual relationship.
 
@@ -46,7 +46,7 @@ Moses was also born to an incestuous marriage. detailed how his father Amram was
 
 From the Middle Ages onward
 
-Rey_Carlos_II.jpg was born mentally and physically disabled due to centuries of inbreeding in the House of Habsburg]] Many European monarchs were related due to political marriages, sometimes resulting in distant cousins (and even first cousins) being married. This was especially true in the Habsburg, Hohenzollern, Savoy and Bourbon royal houses. However, relations between siblings, which may have been tolerated in other cultures, were considered abhorrent. For example, the accusation that Anne Boleyn and her brother George Boleyn had committed incest was one of the reasons that both siblings were executed in May 1536.
+was born mentally and physically disabled due to centuries of inbreeding in the House of Habsburg]] Many European monarchs were related due to political marriages, sometimes resulting in distant cousins (and even first cousins) being married. This was especially true in the Habsburg, Hohenzollern, Savoy and Bourbon royal houses. However, relations between siblings, which may have been tolerated in other cultures, were considered abhorrent. For example, the accusation that Anne Boleyn and her brother George Boleyn had committed incest was one of the reasons that both siblings were executed in May 1536.
 
 Incestuous marriages were also seen in the royal houses of ancient Japan and Korea,[56] Inca Peru, Ancient Hawaii, and, at times, Central Africa, Mexico, and Thailand.[57] Like the pharaohs of ancient Egypt, the Inca rulers married their sisters. Huayna Capac, for instance, was the son of Topa Inca Yupanqui and the Inca's sister and wife.[58]
 
@@ -118,7 +118,7 @@ Some societies differentiate between full sibling and half sibling relations. In
 
 Cousin relationships
 
-Giuseppe_Arcimboldi_003.jpg married his first cousin Maria of Spain.]] Marriages and sexual relationships between first cousins are stigmatized as incest in some cultures, but tolerated in much of the world. Currently, 24 US states prohibit marriages between first cousins, and another seven permit them only under special circumstances.[144] The United Kingdom permits both marriage and sexual relations between first cousins.[145]
+married his first cousin Maria of Spain.]] Marriages and sexual relationships between first cousins are stigmatized as incest in some cultures, but tolerated in much of the world. Currently, 24 US states prohibit marriages between first cousins, and another seven permit them only under special circumstances.[144] The United Kingdom permits both marriage and sexual relations between first cousins.[145]
 
 In some non-Western societies, marriages between close biological relatives account for 20% to 60% of all marriages.[146][147]"In some parts of the world 20–60% of all marriages are between close biological relatives (Bittles, 1998)"
 
@@ -225,7 +225,7 @@ Livestock breeders often practice controlled breeding to eliminate undesirable c
 
 Insects
 
-Fruit_flies.jpg females prefer to mate with their own brothers over unrelated males.[205]]]
+females prefer to mate with their own brothers over unrelated males.[205]]]
 
 Bed bugs: North Carolina State University found that bed bugs, in contrast to most other insects, tolerate incest and are able to genetically withstand the effects of inbreeding quite well.[206]
 

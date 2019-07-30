@@ -32,7 +32,7 @@ The three Qatari men were booked to fly from Los Angeles to Washington on Septem
 
 Flight
 
-Boeing_757-223,_American_Airlines_AN0290718.jpg.]]
+.]]
 
 The American Airlines Flight 77 aircraft was a Boeing 757-223 (registration [24] The aircraft was built and had its first flight in 1991.[25] The flight crew included pilot Charles Burlingame (a Naval Academy graduate and former fighter pilot), First Officer David Charlebois, and flight attendants Michele Heidenberger, Jennifer Lewis, Kenneth Lewis, and Renee May.[26] The capacity of the aircraft was 188 passengers, but with 58 passengers on September 11, the load factor was 33 percent. American Airlines said that Tuesdays were the least-traveled day of the week, with the same load factor seen on Tuesdays in the previous three months for Flight 77.[27]
 
@@ -46,8 +46,6 @@ Flight 77 was scheduled to depart for Los Angeles at 08:10; 58 passengers boarde
 
 Hijacking
 
-Video2_flight77_pentagon.png
-
 The 9/11 Commission estimated that the flight was hijacked between 08:51 and 08:54, shortly after American Airlines Flight 11 struck the World Trade Center and not too long after United Airlines Flight 175 had been hijacked. The last normal radio communications from the aircraft to air traffic control occurred at 08:50:51.[38] Unlike the other three flights, there were no reports of anyone being stabbed or a bomb threat and the pilots were not immediately killed but shoved to the back of the plane with the rest of the passengers. At 08:54, the plane began to deviate from its normal, assigned flight path and turned south. Two minutes later at 08:56, the plane's transponder was switched off.[39] The hijackers set the flight's autopilot on a course heading east towards Washington, D.C.[40]
 
 The FAA was aware at this point that there was an emergency on board the airplane. By this time, Flight 11 had already crashed into the North Tower of the World Trade Center and Flight 175 was known to have been hijacked and was within minutes of striking the South Tower. After learning of this second hijacking involving an American Airlines aircraft and the hijacking involving United Airlines, American Airlines' executive vice president Gerard Arpey ordered a nationwide ground stop for the airline.[41] The Indianapolis Air Traffic Control Center, as well as American Airlines dispatchers, made several failed attempts to contact the aircraft. At the time the airplane was hijacked, it was flying over an area of limited radar coverage.[42] With air controllers unable to contact the flight by radio, an Indianapolis official declared that the Boeing 757 had possibly crashed at 09:09.[43]
@@ -58,23 +56,17 @@ An airplane was detected again by Dulles controllers on radar screens as it appr
 
 Crash
 
-Pentagon_Security_Camera_1.ogv footage of Flight 77 hitting the Pentagon. Impact is at 1:27.[58]]]
+footage of Flight 77 hitting the Pentagon. Impact is at 1:27.[58]]]
 
 According to the 9/11 Commission Report, as Flight 77 was west-southwest of the Pentagon, it made a 330-degree turn. At the end of the turn, it was descending through , pointed toward the Pentagon and downtown Washington. Hani Hanjour advanced the throttles to maximum power and dived toward the Pentagon. While level above the ground and seconds from the crash, the wings knocked over five street lampposts and the right wing struck a portable generator, creating a smoke trail seconds before smashing into the Pentagon.[59][60] Flight 77, flying at 530 mph (853 km/h, 237 m/s, or 460 knots) over the Navy Annex Building adjacent to Arlington National Cemetery,[61] crashed into the western side of the Pentagon in Arlington County, Virginia, just south of Washington, D.C., at 09:37:46.[62] The plane hit the Pentagon at the first-floor level,[63] and at the moment of impact, the airplane was rolled slightly to the left, with the right wing elevated.[64] The front part of the fuselage disintegrated on impact, while the mid and tail sections moved for another fraction of a second, with tail section debris penetrating furthest into the building.[65] In all, the airplane took eight-tenths of a second to fully penetrate into the three outermost of the building's five rings[66] and unleashed a fireball that rose above the building.[67]
 
-Flight_77_wreckage_at_Pentagon.jpg
-
 At the time of the attacks, approximately 18,000 people worked in the Pentagon, which was 4,000 fewer than before renovations began in 1998.[68] The section of the Pentagon that was struck, which had recently been renovated at a cost of $250 million,[69] housed the Naval Command Center.[70]
-
-Pentagon_fire_AFIP.jpg
 
 In all, there were 189 deaths at the Pentagon site, including the 125 in the Pentagon building in addition to the 64 on board the aircraft. Passenger Barbara Olson was en route to a recording of the TV show _Politically Incorrect_.[71] A group of children, their chaperones, and two National Geographic Society staff members were also on board, embarking on an educational trip west to the Channel Islands National Marine Sanctuary near Santa Barbara, California.[72] The fatalities at the Pentagon included 55 military personnel and 70 civilians.[73] Of those 125 killed, 92 were on the first floor, 31 were on the second floor, and two were on the third.[74] Seven Defense Intelligence Agency civilian employees were killed while the Office of the Secretary of Defense lost one contractor. The U.S. Army suffered 75 fatalities—53 civilians (47 employees and six contractors) and 22 soldiers—while the U.S. Navy suffered 42 fatalities—nine civilians (six employees and three contractors) and 33 sailors.[75] Lieutenant General Timothy Maude, an Army Deputy Chief of Staff, was the highest-ranking military officer killed at the Pentagon; also killed was retired Rear Admiral Wilson Flagg, a passenger on the plane.[76] LT Mari-Rae Sopper, JAGC, USNR, was also on board the flight, and was the first Navy Judge Advocate ever to be killed in action.[77] Another 106 were injured on the ground and were treated at area hospitals.[78]
 
 On the side where the plane hit, the Pentagon is bordered by Interstate 395 and Washington Boulevard. Motorist Mary Lyman, who was on I-395, saw the airplane pass over at a "steep angle toward the ground and going fast" and then saw the cloud of smoke from the Pentagon.[79] Omar Campo, another witness, was cutting the grass on the other side of the road when the airplane flew over his head, and later recalled:
 
 Afework Hagos, a computer programmer, was on his way to work and stuck in a traffic jam near the Pentagon when the airplane flew over. "There was a huge screaming noise and I got out of the car as the plane came over. Everybody was running away in different directions. It was tilting its wings up and down like it was trying to balance. It hit some lampposts on the way in."[80] Daryl Donley witnessed the crash and took some of the first photographs of the site.[81]
-
-Aerial_view_of_the_Pentagon_during_rescue_operations_post-September_11_attack.JPEG
 
 _USA Today_ reporter Mike Walter was driving on Washington Boulevard when he witnessed the crash, which he recounted,
 
@@ -87,15 +79,11 @@ Rescue and recovery
 
 Rescue efforts began immediately after the crash. Almost all the successful rescues of survivors occurred within half an hour of the impact.[86] Initially, rescue efforts were led by the military and civilian employees within the building. Within minutes, the first fire companies arrived and found these volunteers searching near the impact site. The firemen ordered them to leave as they were not properly equipped or trained to deal with the hazards.[87] The Arlington County Fire Department (ACFD) assumed command of the immediate rescue operation within 10 minutes of the crash. ACFD Assistant Chief James Schwartz implemented an incident command system (ICS) to coordinate response efforts among multiple agencies.[88] It took about an hour for the ICS structure to become fully operational.[89] Firefighters from Fort Myer and Reagan National Airport arrived within minutes.[90][91] Rescue and firefighting efforts were impeded by rumors of additional incoming planes. Chief Schwartz ordered two evacuations during the day in response to these rumors.[92]
 
-DN-SD-04-12744.JPEG
-
 As firefighters attempted to extinguish the fires, they watched the building in fear of a structural collapse. One firefighter remarked that they "pretty much knew the building was going to collapse because it started making weird sounds and creaking".[93] Officials saw a cornice of the building move and ordered an evacuation. Minutes later, at 10:10, the upper floors of the damaged area of the Pentagon collapsed.[94] The collapsed area was about at its widest point and at its deepest.[95] The amount of time between impact and collapse allowed everyone on the fourth and fifth levels to evacuate safely before the structure collapsed.[96] After the collapse, the interior fires intensified, spreading through all five floors.[97] After 11:00, firefighters mounted a two-pronged attack against the fires. Officials estimated temperatures of up to .[98] While progress was made against the interior fires by late afternoon, firefighters realized a flammable layer of wood under the Pentagon's slate roof had caught fire and begun to spread.[99] Typical firefighting tactics were rendered useless by the reinforced structure as firefighters were unable to reach the fire to extinguish it.[100] Firefighters instead made firebreaks in the roof on September 12 to prevent further spreading. At 18:00 on the 12th, Arlington County issued a press release stating the fire was "controlled" but not fully "extinguished". Firefighters continued to put out smaller fires that ignited in the succeeding days.[101]
 
 Various pieces of aircraft debris were found within the wreckage at the Pentagon. While on fire and escaping from the Navy Command Center, Lt. Kevin Shaeffer observed a chunk of the aircraft's nose cone and the nose landing gear in the service road between rings B and C.[102] Early in the morning on Friday, September 14, Fairfax County Urban Search and Rescue Team members Carlton Burkhammer and Brian Moravitz came across an "intact seat from the plane's cockpit",[103] while paramedics and firefighters located the two black boxes near the punch out hole in the A-E drive,[104] nearly into the building.[105] The cockpit voice recorder was too badly damaged and charred to retrieve any information,[106] though the flight data recorder yielded useful information.[107] Investigators also found a part of Nawaf al-Hazmi's driver's license in the North Parking Lot rubble pile.[108] Personal effects belonging to victims were found and taken to Fort Myer.[109]
 
 Remains
-
-FirstFloor_Pentagon_Bodies.png
 
 Army engineers determined by 5:30 p.m. on the first day that no one remained alive in the damaged section of the building.[110] In the days after the crash, news reports emerged that up to 800 people had died.[111] Army soldiers from Fort Belvoir were the first teams to survey the interior of the crash site and noted the presence of human remains.[112] Federal Emergency Management Agency (FEMA) Urban Search and Rescue teams, including Fairfax County Urban Search and Rescue assisted the search for remains, working through the National Interagency Incident Management System (NIIMS).[113][114] Kevin Rimrodt, a Navy photographer surveying the Navy Command Center after the attacks, remarked that "there were so many bodies, I'd almost step on them. So I'd have to really take care to look backwards as I'm backing up in the dark, looking with a flashlight, making sure I'm not stepping on somebody".[115] Debris from the Pentagon was taken to the Pentagon's north parking lot for more detailed search for remains and evidence.[116]
 
@@ -105,7 +93,7 @@ By October 2, 2001, the search for evidence and remains was complete and the sit
 
 Flight recorders
 
-Flight_77_CVR.jpg from American Airlines Flight 77, as used in an exhibit at the Moussaoui trial]]
+from American Airlines Flight 77, as used in an exhibit at the Moussaoui trial]]
 
 At around 3:40 a.m. on September 14, a paramedic and a firefighter who were searching through the debris of the impact site found two dark boxes, about by long. They called for an FBI agent, who in turn called for someone from the National Transportation Safety Board (NTSB). The NTSB employee confirmed that these were the flight recorders ("black boxes") from American Airlines Flight 77.[124] Dick Bridges, deputy manager for Arlington County, Virginia, said the cockpit voice recorder was damaged on the outside and the flight data recorder was charred. Bridges said the recorders were found "right where the plane came into the building."[125]
 
@@ -120,13 +108,9 @@ During a press conference held inside the Pentagon at 18:42, Rumsfeld announced,
 
 Aftermath
 
-Damaged_Pentagon_being_reconstructed.jpg
-
 Early estimates on rebuilding the damaged section of the Pentagon were that it would take three years to complete.[134] However, the project moved forward at an accelerated pace and was completed by the first anniversary of the attack.[135] The rebuilt section of the Pentagon includes a small indoor memorial and chapel at the point of impact.[136] An outdoor memorial, commissioned by the Pentagon and designed by Julie Beckman and Keith Kaseman, was completed on schedule for its dedication on September 11, 2008.[137] Since September 11, American Airlines continues to fly from Dulles International Airport to Los Angeles International Airport. As of September 2018, flight number 77 has been renumbered to 252, now using a Boeing 737-800, departing at 7:27 in the morning.[138]
 
 Security camera video
-
-Pentagon_Security_Camera_2.ogv
 
 The Department of Defense released filmed footage on May 16, 2006, that was recorded by a security camera of American Airlines Flight 77 crashing into the Pentagon, with a plane visible in one frame, as a "thin white blur" and an explosion following.[139] The images were made public in response to a December 2004 Freedom of Information Act request by Judicial Watch.[140] Some still images from the video had previously been released and publicly circulated, but this was the first official release of the edited video of the crash.[141]
 
@@ -136,9 +120,7 @@ The Doubletree Hotel, located nearby in Crystal City, Virginia, also had a secur
 
 Memorials
 
-12.6.11TimothyMaudePanelS-74ByLuigiNovi2.jpg's South Pool, one of six on which the names of Pentagon victims are inscribed[145]]]
-
-US_Navy_080904-N-5319A-008_The_Pentagon_Memorial_honoring_the_184_people_killed_at_the_Pentagon_and_on_American_Airlines_flight_77.jpg
+'s South Pool, one of six on which the names of Pentagon victims are inscribed[145]]]
 
 On September 12, 2002, Defense Secretary Donald Rumsfeld and General Richard Myers, Chairman of the Joint Chiefs of Staff, dedicated the Victims of Terrorist Attack on the Pentagon Memorial at Arlington National Cemetery.[146] The memorial specifically honors the five individuals for whom no identifiable remains were found.[147] This included Dana Falkenberg, age three, who was aboard American Airlines Flight 77 with her parents and older sister.[148] A portion of the remains of 25 other victims are also buried at the site.[149] The memorial is a pentagonal[150] granite marker high.[151] On five sides of the memorial along the top are inscribed the words "Victims of Terrorist Attack on the Pentagon September 11, 2001". Aluminum plaques, painted black, are inscribed with the names of the 184 victims of the terrorist attack.[152] The site is located in Section 64,[153] on a slight rise, which gives it a view of the Pentagon.[154]
 

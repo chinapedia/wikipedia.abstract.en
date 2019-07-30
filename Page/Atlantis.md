@@ -1,4 +1,4 @@
-Athanasius_Kircher's_Atlantis.gif's map of Atlantis, placing it in the middle of the Atlantic Ocean, from _Mundus Subterraneus_ 1669, published in Amsterdam. The map is oriented with south at the top.]]
+'s map of Atlantis, placing it in the middle of the Atlantic Ocean, from _Mundus Subterraneus_ 1669, published in Amsterdam. The map is oriented with south at the top.]]
 
 ATLANTIS (, "island of Atlas") is a fictional island mentioned within an allegory on the hubris of nations in Plato's works _Timaeus_ and _Critias_,[1] where it represents the antagonist naval power that besieges "Ancient Athens", the pseudo-historic embodiment of Plato's ideal state in _The Republic_. In the story, Athens repels the Atlantean attack unlike any other nation of the known world,[2] supposedly giving testament to the superiority of Plato's concept of a state.[3][4] The story concludes with Atlantis falling out of favor with the deities and submerging into the Atlantic Ocean.
 
@@ -10,8 +10,6 @@ While present-day philologists and classicists agree on the story's fictional ch
 Plato's dialogues
 
 _Timaeus_
-
-Plato_Timaeus.jpg
 
 The only primary sources for Atlantis are Plato's dialogues _Timaeus_ and _Critias_; all other mentions of the island are based on them. The dialogues claim to quote Solon, who visited Egypt between 590 and 580 BC; they state that he translated Egyptian records of Atlantis.[20] Written in 360 BC, Plato introduced Atlantis in _Timaeus_:
 
@@ -38,7 +36,7 @@ Interpretations
 
 Ancient
 
-Herodotus_world_map-en.svg (inhabited world), an ancient map based on Herodotus' description of the world, circa 450 BC]] Some ancient writers viewed Atlantis as fictional or metaphorical myth; others believed it to be real.[29] Aristotle believed that Plato, his teacher, had invented the island to teach philosophy. The philosopher Crantor, a student of Plato's student Xenocrates, is cited often as an example of a writer who thought the story to be historical fact. His work, a commentary on _Timaeus_, is lost, but Proclus, a Neoplatonist of the fifth century AD, reports on it.[30] The passage in question has been represented in the modern literature either as claiming that Crantor visited Egypt, had conversations with priests, and saw hieroglyphs confirming the story, or, as claiming that he learned about them from other visitors to Egypt.[31] Proclus wrote:
+(inhabited world), an ancient map based on Herodotus' description of the world, circa 450 BC]] Some ancient writers viewed Atlantis as fictional or metaphorical myth; others believed it to be real.[29] Aristotle believed that Plato, his teacher, had invented the island to teach philosophy. The philosopher Crantor, a student of Plato's student Xenocrates, is cited often as an example of a writer who thought the story to be historical fact. His work, a commentary on _Timaeus_, is lost, but Proclus, a Neoplatonist of the fifth century AD, reports on it.[30] The passage in question has been represented in the modern literature either as claiming that Crantor visited Egypt, had conversations with priests, and saw hieroglyphs confirming the story, or, as claiming that he learned about them from other visitors to Egypt.[31] Proclus wrote:
 
 The next sentence is often translated "Crantor adds, that this is testified by the prophets of the Egyptians, who assert that these particulars [which are narrated by Plato] are written on pillars which are still preserved." But in the original, the sentence starts not with the name Crantor but with the ambiguous _He_; whether this referred to Crantor or to Plato is the subject of considerable debate. Proponents of both Atlantis as a metaphorical myth and Atlantis as history have argued that the pronoun refers to Crantor.[32]
 
@@ -64,7 +62,7 @@ Other early Christian writers wrote about Atlantis, although they had mixed view
 
 Cosmas Indicopleustes in the sixth century wrote of Atlantis in his _Christian Topography_ in an attempt to prove his theory that the world was flat and surrounded by water:[46]
 
-Atlantis_map_1882_crop.jpg's _Atlantis: the Antediluvian World_, 1882 [47]]]
+'s _Atlantis: the Antediluvian World_, 1882 [47]]]
 
 Modern
 
@@ -100,7 +98,7 @@ Donnelly is credited as the "father of the nineteenth century Atlantis revival" 
 
 Madame Blavatsky and the Theosophists
 
-Map_of_Atlantis.jpg (_The Story of Atlantis_, Russian edition, 1910)
+(_The Story of Atlantis_, Russian edition, 1910)
 
 ]] The Russian mystic Helena Petrovna Blavatsky and her partner Henry Steel Olcott founded their Theosophical Society in the 1870s with a philosophy that combined western romanticism and eastern religious concepts. Blavatsky and her followers in this group are often cited as the founders of New Age and other spiritual movements.[62]
 
@@ -135,7 +133,7 @@ Location hypotheses
 
 Since Donnelly's day, there have been dozens of locations proposed for Atlantis, to the point where the name has become a generic concept, divorced from the specifics of Plato's account. This is reflected in the fact that many proposed sites are not within the Atlantic at all. Few today are scholarly or archaeological hypotheses, while others have been made by psychic (e.g., Edgar Cayce) or other pseudoscientific means. (The Atlantis researchers Jacques Collina-Girard and Georgeos Díaz-Montexano, for instance, each claim the other's hypothesis is pseudoscience.)[77] Many of the proposed sites share some of the characteristics of the Atlantis story (water, catastrophic end, relevant time period), but none has been demonstrated to be a true historical Atlantis.
 
-Santorini_Landsat.jpg. From the Minoan eruption event, and the 1964 discovery of Akrotiri on the island, this location is one of many sites purported to have been the location of Atlantis.]]
+. From the Minoan eruption event, and the 1964 discovery of Akrotiri on the island, this location is one of many sites purported to have been the location of Atlantis.]]
 
 In or near the Mediterranean Sea
 
@@ -151,7 +149,7 @@ The location of Atlantis in the Atlantic Ocean has a certain appeal given the cl
 
 In Europe
 
-Doggerland.svg (c. 8,000 BC), which provided a land bridge between Great Britain and continental Europe]] Several hypotheses place the sunken island in northern Europe, including Doggerland in the North Sea, and Sweden (by Olof Rudbeck in _Atland_, 1672–1702). Doggerland, as well as Viking Bergen Island, is thought to have been flooded by a megatsunami following the Storegga slide of c. 6100 BC. Some have proposed the Celtic Shelf as a possible location, and that there is a link to Ireland.[99]
+(c. 8,000 BC), which provided a land bridge between Great Britain and continental Europe]] Several hypotheses place the sunken island in northern Europe, including Doggerland in the North Sea, and Sweden (by Olof Rudbeck in _Atland_, 1672–1702). Doggerland, as well as Viking Bergen Island, is thought to have been flooded by a megatsunami following the Storegga slide of c. 6100 BC. Some have proposed the Celtic Shelf as a possible location, and that there is a link to Ireland.[99]
 
 In 2011, a team, working on a documentary for the National Geographic Channel,[100] led by Professor Richard Freund from the University of Hartford, claimed to have found possible evidence of Atlantis in southwestern Andalusia.[101] The team identified its possible location within the marshlands of the Doñana National Park, in the area that once was the Lacus Ligustinus,[102] between the Huelva, Cádiz, and Seville provinces, and they speculated that Atlantis had been destroyed by a tsunami,[103] extrapolating results from a previous study by Spanish researchers, published four years earlier.[104]
 
@@ -168,7 +166,7 @@ Literary interpretations
 
 Ancient versions
 
-POxy1084_Hellanicus_Atlantis.png In order to give his account of Atlantis verisimilitude, Plato mentions that the story was heard by Solon in Egypt, and transmitted orally over several generations through the family of Dropides, until it reached Critias, a dialogue speaker in _Timaeus_ and _Critias_.[113] Solon had supposedly tried to adapt the Atlantis oral tradition into a poem (that if published, was to be greater than the works of Hesiod and Homer). While it was never completed, Solon passed on the story to Dropides. Modern classicists deny the existence of Solon's Atlantis poem and the story as an oral tradition.[114] Instead, Plato is thought to be the sole inventor or fabricator. Hellanicus of Lesbos used the word "Atlantis" as the title for a poem published before Plato,[115] a fragment of which may be Oxyrhynchus Papyrus 11, 1359.[116] This work only describes the Atlantides (the daughters of Atlas), however, and has no relation to Plato's Atlantis account.
+In order to give his account of Atlantis verisimilitude, Plato mentions that the story was heard by Solon in Egypt, and transmitted orally over several generations through the family of Dropides, until it reached Critias, a dialogue speaker in _Timaeus_ and _Critias_.[113] Solon had supposedly tried to adapt the Atlantis oral tradition into a poem (that if published, was to be greater than the works of Hesiod and Homer). While it was never completed, Solon passed on the story to Dropides. Modern classicists deny the existence of Solon's Atlantis poem and the story as an oral tradition.[114] Instead, Plato is thought to be the sole inventor or fabricator. Hellanicus of Lesbos used the word "Atlantis" as the title for a poem published before Plato,[115] a fragment of which may be Oxyrhynchus Papyrus 11, 1359.[116] This work only describes the Atlantides (the daughters of Atlas), however, and has no relation to Plato's Atlantis account.
 
 In the new era, the third century AD Neoplatonist Zoticus wrote an epic poem based on Plato's account of Atlantis.[117] Plato's work may already have inspired parodic imitation, however. Writing only a few decades after the _Timaeus_ and _Critias_, the historian Theopompus of Chios wrote of a land beyond the ocean known as Meropis. This description was included in Book 8 of his _Philippica_, which contains a dialogue between Silenus and King Midas. Silenus describes the Meropids, a race of men who grow to twice normal size, and inhabit two cities on the island of Meropis: _Eusebes_ (, "Pious-town") and _Machimos_ (, "Fighting-town"). He also reports that an army of ten million soldiers crossed the ocean to conquer Hyperborea, but abandoned this proposal when they realized that the Hyperboreans were the luckiest people on earth. Heinz-Günther Nesselrath has argued that these and other details of Silenus' story are meant as imitation and exaggeration of the Atlantis story, by parody, for the purpose of exposing Plato's ideas to ridicule.[118]
 
@@ -195,7 +193,7 @@ There is a similar ambivalence in Janus Djurhuus' six-stanza "Atlantis" (1917), 
 
 A land lost in the distance
 
-Faroe_stamp_493_Djurhuus_poems_-_atlantis.jpg' "Atlantis" ]]
+' "Atlantis" ]]
 
 The fact that Atlantis is a lost land has made of it a metaphor for something no longer attainable. For the American poet Edith Willis Linn Forbes (1865-1945), "The Lost Atlantis" stands for idealisation of the past; the present moment can only be treasured once that is realised.[130] Ella Wheeler Wilcox finds the location of "The Lost Land" (1910) in one's carefree youthful past.[131] Similarly, for the Irish poet Eavan Boland in "Atlantis, a lost sonnet" (2007), the idea was defined when "the old fable-makers searched hard for a word/ to convey that what is gone is gone forever".[132]
 
@@ -220,8 +218,6 @@ Atlantis was to become a theme in Russia following the 1890s, taken up in unfini
 
 
 Artistic representations
-
-Terror_Antiquus_by_L.Bakst_(1908).jpg
 
 Music
 

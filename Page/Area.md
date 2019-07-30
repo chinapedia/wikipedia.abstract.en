@@ -1,4 +1,4 @@
-Area.svg is approximately 15.57 squares.]] AREA is the quantity that expresses the extent of a two-dimensional figure or shape, or planar lamina, in the plane. Surface area is its analog on the two-dimensional surface of a three-dimensional object. Area can be understood as the amount of material with a given thickness that would be necessary to fashion a model of the shape, or the amount of paint necessary to cover the surface with a single coat.[1] It is the two-dimensional analog of the length of a curve (a one-dimensional concept) or the volume of a solid (a three-dimensional concept).
+is approximately 15.57 squares.]] AREA is the quantity that expresses the extent of a two-dimensional figure or shape, or planar lamina, in the plane. Surface area is its analog on the two-dimensional surface of a three-dimensional object. Area can be understood as the amount of material with a given thickness that would be necessary to fashion a model of the shape, or the amount of paint necessary to cover the surface with a single coat.[1] It is the two-dimensional analog of the length of a curve (a one-dimensional concept) or the volume of a solid (a three-dimensional concept).
 
 The area of a shape can be measured by comparing the shape to squares of a fixed size.[2] In the International System of Units (SI), the standard unit of area is the square metre (written as m²), which is the area of a square whose sides are one metre long.[3] A shape with an area of three square metres would have the same area as three such squares. In mathematics, the unit square is defined to have area one, and the area of any other shape or surface is a dimensionless real number.
 
@@ -27,13 +27,13 @@ It can be proved that such an area function actually exists.[13]
 
 Units
 
-SquareMeterQuadrat.JPG made of PVC pipe.]] Every unit of length has a corresponding unit of area, namely the area of a square with the given side length. Thus areas can be measured in square metres (m²), square centimetres (cm²), square millimetres (mm²), square kilometres (km²), square feet (ft²), square yards (yd²), square miles (mi²), and so forth.[14] Algebraically, these units can be thought of as the squares of the corresponding length units.
+made of PVC pipe.]] Every unit of length has a corresponding unit of area, namely the area of a square with the given side length. Thus areas can be measured in square metres (m²), square centimetres (cm²), square millimetres (mm²), square kilometres (km²), square feet (ft²), square yards (yd²), square miles (mi²), and so forth.[14] Algebraically, these units can be thought of as the squares of the corresponding length units.
 
 The SI unit of area is the square metre, which is considered an SI derived unit.[15]
 
 Conversions
 
-Area_conversion_-_square_mm_in_a_square_cm.png Calculation of the area of a square whose length and width are 1 metre would be:
+Calculation of the area of a square whose length and width are 1 metre would be:
 
 1 metre x 1 metre = 1 m²
 
@@ -142,7 +142,7 @@ where when _i_=_n_-1, then _i_+1 is expressed as modulus _n_ and so refers to 0.
 
 Rectangles
 
-RectangleLengthWidth.svg The most basic area formula is the formula for the area of a rectangle. Given a rectangle with length and width , the formula for the area is:[27][28]
+The most basic area formula is the formula for the area of a rectangle. Given a rectangle with length and width , the formula for the area is:[27][28]
 
     _lw_}}  (rectangle).
 
@@ -154,11 +154,11 @@ The formula for the area of a rectangle follows directly from the basic properti
 
 Dissection, parallelograms, and triangles
 
-Most other simple formulas for area follow from the method of dissection. This involves cutting a shape into pieces, whose areas must sum to the area of the original shape. ParallelogramArea.svg For an example, any parallelogram can be subdivided into a trapezoid and a right triangle, as shown in figure to the left. If the triangle is moved to the other side of the trapezoid, then the resulting figure is a rectangle. It follows that the area of the parallelogram is the same as the area of the rectangle:[32]
+Most other simple formulas for area follow from the method of dissection. This involves cutting a shape into pieces, whose areas must sum to the area of the original shape. For an example, any parallelogram can be subdivided into a trapezoid and a right triangle, as shown in figure to the left. If the triangle is moved to the other side of the trapezoid, then the resulting figure is a rectangle. It follows that the area of the parallelogram is the same as the area of the rectangle:[32]
 
     _bh_}}  (parallelogram).
 
-TriangleArea.svg However, the same parallelogram can also be cut along a diagonal into two congruent triangles, as shown in the figure to the right. It follows that the area of each triangle is half the area of the parallelogram:[33]
+However, the same parallelogram can also be cut along a diagonal into two congruent triangles, as shown in the figure to the right. It follows that the area of each triangle is half the area of the parallelogram:[33]
 
 $$A = \frac{1}{2}bh$$
  (triangle). Similar arguments can be used to find area formulas for the trapezoid[34] as well as more complicated polygons.[35]
@@ -167,7 +167,7 @@ Area of curved shapes
 
 Circles
 
-CircleArea.svg which rearrange to form an approximate parallelogram.]] The formula for the area of a circle (more properly called the area enclosed by a circle or the area of a disk) is based on a similar method. Given a circle of radius , it is possible to partition the circle into sectors, as shown in the figure to the right. Each sector is approximately triangular in shape, and the sectors can be rearranged to form an approximate parallelogram. The height of this parallelogram is , and the width is half the circumference of the circle, or . Thus, the total area of the circle is :[36]
+which rearrange to form an approximate parallelogram.]] The formula for the area of a circle (more properly called the area enclosed by a circle or the area of a disk) is based on a similar method. Given a circle of radius , it is possible to partition the circle into sectors, as shown in the figure to the right. Each sector is approximately triangular in shape, and the sectors can be rearranged to form an approximate parallelogram. The height of this parallelogram is , and the width is half the circumference of the circle, or . Thus, the total area of the circle is :[36]
 
     π_r_²}}  (circle).
 
@@ -185,7 +185,7 @@ _A_ = _π__x__y_.
 
 Surface area
 
-Archimedes_sphere_and_cylinder.svg showed that the surface area of a sphere is exactly four times the area of a flat disk of the same radius, and the volume enclosed by the sphere is exactly 2/3 of the volume of a cylinder of the same height and radius.]] Most basic formulas for surface area can be obtained by cutting surfaces and flattening them out. For example, if the side surface of a cylinder (or any prism) is cut lengthwise, the surface can be flattened out into a rectangle. Similarly, if a cut is made along the side of a cone, the side surface can be flattened out into a sector of a circle, and the resulting area computed.
+showed that the surface area of a sphere is exactly four times the area of a flat disk of the same radius, and the volume enclosed by the sphere is exactly 2/3 of the volume of a cylinder of the same height and radius.]] Most basic formulas for surface area can be obtained by cutting surfaces and flattening them out. For example, if the side surface of a cylinder (or any prism) is cut lengthwise, the surface can be flattened out into a rectangle. Similarly, if a cut is made along the side of a cone, the side surface can be flattened out into a sector of a circle, and the resulting area computed.
 
 The formula for the surface area of a sphere is more difficult to derive: because a sphere has nonzero Gaussian curvature, it cannot be flattened out. The formula for the surface area of a sphere was first obtained by Archimedes in his work _On the Sphere and Cylinder_. The formula is:[39]
 
@@ -199,8 +199,6 @@ Areas of 2-dimensional figures
 -   A simple polygon constructed on a grid of equal-distanced points (i.e., points with integer coordinates) such that all the polygon's vertices are grid points: $i + \frac{b}{2} - 1$, where _i_ is the number of grid points inside the polygon and _b_ is the number of boundary points. This result is known as Pick's theorem.[42]
 
 Area in calculus
-
-Integral_as_region_under_curve.svg Areabetweentwographs.svg
 
 -   The area between a positive-valued curve and the horizontal axis, measured between two values _a_ and _b_ (b is defined as the larger of the two values) on the horizontal axis, is given by the integral from _a_ to _b_ of the function that represents the curve:[43]
 

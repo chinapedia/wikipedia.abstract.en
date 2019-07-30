@@ -29,8 +29,6 @@ Granville has a number of heritage-listed sites, including:
 
 Buildings and places of interest
 
-Granville-NSW-StAphanasius.jpg
-
 Granville has a mixture of residential, commercial and industrial developments. The commercial and residential developments are mostly around Granville railway station and Parramatta Road. Granville is primarily dominated by freestanding weatherboard, fibro and unrendered brick buildings. The area is no longer exactly "typical" quarter acre block territory, but blocks are reasonably common. Terraced houses are rare, but increasing in number. Apartment blocks, generally three to four storeys in height, are also becoming more common in the vicinity of the railway station.
 
 Buildings that deserve some attention are:
@@ -45,7 +43,7 @@ Buildings that deserve some attention are:
 
 Crest Theatre
 
-Granville_Crest.JPG The _Crest_ building on the corner of Blaxcell and Redfern Streets, was built by Hoyts in 1948 as a movie theatre and was used for screening films up until 1963. The structure of the building is of a Quonset hut design, while the facade and interior is of a post-Art Deco and post-Moderne eclectic style,[6] influenced by the "Picture Palace" architecture popularly used for movie theatres. It is now used as a function hall.
+The _Crest_ building on the corner of Blaxcell and Redfern Streets, was built by Hoyts in 1948 as a movie theatre and was used for screening films up until 1963. The structure of the building is of a Quonset hut design, while the facade and interior is of a post-Art Deco and post-Moderne eclectic style,[6] influenced by the "Picture Palace" architecture popularly used for movie theatres. It is now used as a function hall.
 
 The Crest Theatre is now listed in the NSW State Heritage Register as being of "State significance", being one of the few cinemas built in Australia in the 1940s.[7] Externally and internally the building remains largely intact, though the signage on the external decorative pier now reads "B-L-O-U-Z-A",[8] rather than the original "H-O-Y-T-S" (later it was "B-I-N-G-O").
 
@@ -82,7 +80,7 @@ Culture
 
 Entertainment
 
-Granville-NSW-RSLClub.jpg The suburb boasts four pubs. The Royal Hotel and the Granville Hotel are located south and north of the railway line respectively. The Rosehill Hotel is located on the northern side of Parramatta Road and the Vauxhall Inn is on the same street on the western edge of Granville on the corner of Woodville Road. Granville is also home to a sub-branch club of the RSL, known as Granville Diggers.[14] Attractions include live music, bingo, karaoke etc.
+The suburb boasts four pubs. The Royal Hotel and the Granville Hotel are located south and north of the railway line respectively. The Rosehill Hotel is located on the northern side of Parramatta Road and the Vauxhall Inn is on the same street on the western edge of Granville on the corner of Woodville Road. Granville is also home to a sub-branch club of the RSL, known as Granville Diggers.[14] Attractions include live music, bingo, karaoke etc.
 
 Sport
 

@@ -1,4 +1,4 @@
-Constitution_de_l'an_XII._Page_1_-_Archives_Nationales_-_AE-II-1512.jpg]]
+]]
 
 A CONSTITUTION is an aggregate of fundamental principles or established precedents that constitute the legal basis of a polity, organisation or other type of entity, and commonly determine how that entity is to be governed.[1]
 
@@ -29,13 +29,13 @@ Pre-modern constitutions
 
 Ancient
 
-Hammurabi.jpg's stele shows him receiving the laws of Babylon from the seated sun deity.]] Excavations in modern-day Iraq by Ernest de Sarzec in 1877 found evidence of the earliest known code of justice, issued by the Sumerian king Urukagina of Lagash _ca_ 2300 BC. Perhaps the earliest prototype for a law of government, this document itself has not yet been discovered; however it is known that it allowed some rights to his citizens. For example, it is known that it relieved tax for widows and orphans, and protected the poor from the usury of the rich.
+'s stele shows him receiving the laws of Babylon from the seated sun deity.]] Excavations in modern-day Iraq by Ernest de Sarzec in 1877 found evidence of the earliest known code of justice, issued by the Sumerian king Urukagina of Lagash _ca_ 2300 BC. Perhaps the earliest prototype for a law of government, this document itself has not yet been discovered; however it is known that it allowed some rights to his citizens. For example, it is known that it relieved tax for widows and orphans, and protected the poor from the usury of the rich.
 
 After that, many governments ruled by special codes of written laws. The oldest such document still known to exist seems to be the Code of Ur-Nammu of Ur (_ca_ 2050 BC). Some of the better-known ancient law codes include the code of Lipit-Ishtar of Isin, the code of Hammurabi of Babylonia, the Hittite code, the Assyrian code and Mosaic law.
 
 In 621 BC, a scribe named Draco codified the cruel oral laws of the city-state of Athens; this code prescribed the death penalty for many offences (nowadays very severe rules are often called "Draconian"). In 594 BC, Solon, the ruler of Athens, created the new _Solonian Constitution_. It eased the burden of the workers, and determined that membership of the ruling class was to be based on wealth (plutocracy), rather than by birth (aristocracy). Cleisthenes again reformed the Athenian constitution and set it on a democratic footing in 508 BC.
 
-Aristotle's_constitutions_diagram.png.]] Aristotle (_ca_ 350 BC) was the first to make a formal distinction between ordinary law and constitutional law, establishing ideas of constitution and constitutionalism, and attempting to classify different forms of constitutional government. The most basic definition he used to describe a constitution in general terms was "the arrangement of the offices in a state". In his works _Constitution of Athens_, _Politics_, and _Nicomachean Ethics_ he explores different constitutions of his day, including those of Athens, Sparta, and Carthage. He classified both what he regarded as good and what he regarded as bad constitutions, and came to the conclusion that the best constitution was a mixed system, including monarchic, aristocratic, and democratic elements. He also distinguished between citizens, who had the right to participate in the state, and non-citizens and slaves, who did not.
+.]] Aristotle (_ca_ 350 BC) was the first to make a formal distinction between ordinary law and constitutional law, establishing ideas of constitution and constitutionalism, and attempting to classify different forms of constitutional government. The most basic definition he used to describe a constitution in general terms was "the arrangement of the offices in a state". In his works _Constitution of Athens_, _Politics_, and _Nicomachean Ethics_ he explores different constitutions of his day, including those of Athens, Sparta, and Carthage. He classified both what he regarded as good and what he regarded as bad constitutions, and came to the conclusion that the best constitution was a mixed system, including monarchic, aristocratic, and democratic elements. He also distinguished between citizens, who had the right to participate in the state, and non-citizens and slaves, who did not.
 
 The Romans first codified their constitution in 450 BC as the _Twelve Tables_. They operated under a series of laws that were added from time to time, but Roman law was never reorganised into a single code until the _Codex Theodosianus_ (AD 438); later, in the Eastern Empire the _Codex repetitæ prælectionis_ (534) was highly influential throughout Europe. This was followed in the east by the _Ecloga_ of Leo III the Isaurian (740) and the _Basilica_ of Basil I (878).
 
@@ -78,7 +78,7 @@ In 1998, S. Kouyaté reconstructed from oral tradition what he claims is a 14th-
 
 Around 1240, the Coptic Egyptian Christian writer, 'Abul Fada'il Ibn al-'Assal, wrote the _Fetha Negest_ in Arabic. 'Ibn al-Assal took his laws partly from apostolic writings and Mosaic law, and partly from the former Byzantine codes. There are a few historical records claiming that this law code was translated into Ge'ez and entered Ethiopia around 1450 in the reign of Zara Yaqob. Even so, its first recorded use in the function of a constitution (supreme law of the land) is with Sarsa Dengel beginning in 1563. The _Fetha Negest_ remained the supreme law in Ethiopia until 1931, when a modern-style Constitution was first granted by Emperor Haile Selassie I.
 
-ConstCATMonso1535.png In the Principality of Catalonia, the Catalan constitutions were promulgated by the Court from 1283 (or even two centuries before, if we consider the Usatges of Barcelona as part of the compilation of Constitutions) until 1716, when Philip V of Spain gave the Nueva Planta decrees, finishing with the historical laws of Catalonia. These Constitutions were usually made formally as a royal initiative, but required for its approval or repeal the favorable vote of the Catalan Courts, the medieval antecedent of the modern Parliaments. These laws had, as the other modern constitutions, preeminence over other laws, and they could not be contradicted by mere decrees or edicts of the king.
+In the Principality of Catalonia, the Catalan constitutions were promulgated by the Court from 1283 (or even two centuries before, if we consider the Usatges of Barcelona as part of the compilation of Constitutions) until 1716, when Philip V of Spain gave the Nueva Planta decrees, finishing with the historical laws of Catalonia. These Constitutions were usually made formally as a royal initiative, but required for its approval or repeal the favorable vote of the Catalan Courts, the medieval antecedent of the modern Parliaments. These laws had, as the other modern constitutions, preeminence over other laws, and they could not be contradicted by mere decrees or edicts of the king.
 
 The Golden Bull of 1356 was a decree issued by a _Reichstag_ in Nuremberg headed by Emperor Charles IV that fixed, for a period of more than four hundred years, an important aspect of the constitutional structure of the Holy Roman Empire.
 
@@ -96,7 +96,7 @@ Historians including Donald Grinde,[23] Bruce Johansen[24] and others[25] believ
 
 Modern constitutions
 
-Pylyp-orlyk-constitution-1710.jpg, 1710.]] Washington_Constitutional_Convention_1787.jpg of 1787 signing of the U.S. Constitution]] In 1639, the Colony of Connecticut adopted the Fundamental Orders, which was the first North American constitution, and is the basis for every new Connecticut constitution since, and is also the reason for Connecticut's nickname, "the Constitution State".
+, 1710.]] of 1787 signing of the U.S. Constitution]] In 1639, the Colony of Connecticut adopted the Fundamental Orders, which was the first North American constitution, and is the basis for every new Connecticut constitution since, and is also the reason for Connecticut's nickname, "the Constitution State".
 
 The English Protectorate that was set up by Oliver Cromwell after the English Civil War promulgated the first detailed written constitution adopted by a modern state;[34] it was called the Instrument of Government. This formed the basis of government for the short lived republic from 1653 to 1657 by providing a legal rationale for the increasing power of Cromwell, after Parliament consistently failed to govern effectively. Most of the concepts and ideas embedded into modern constitutional theory, especially bicameralism, separation of powers, the written constitution, and judicial review, can be traced back to the experiments of that period. [35]
 
@@ -114,7 +114,7 @@ All of the British colonies in North America that were to become the 13 original
 
 Democratic constitutions
 
-Konstytucja_3_Maja.jpg'' (painting by Jan Matejko, 1891). Polish King Stanisław August (left, in regal ermine-trimmed cloak), enters St. John's Cathedral, where Sejm deputies will swear to uphold the new Constitution; in background, Warsaw's Royal Castle, where the Constitution has just been adopted.]] What is sometimes called the "enlightened constitution" model was developed by philosophers of the Age of Enlightenment such as Thomas Hobbes, Jean-Jacques Rousseau, and John Locke. The model proposed that constitutional governments should be stable, adaptable, accountable, open and should represent the people (i.e., support democracy).[40]
+'' (painting by Jan Matejko, 1891). Polish King Stanisław August (left, in regal ermine-trimmed cloak), enters St. John's Cathedral, where Sejm deputies will swear to uphold the new Constitution; in background, Warsaw's Royal Castle, where the Constitution has just been adopted.]] What is sometimes called the "enlightened constitution" model was developed by philosophers of the Age of Enlightenment such as Thomas Hobbes, Jean-Jacques Rousseau, and John Locke. The model proposed that constitutional governments should be stable, adaptable, accountable, open and should represent the people (i.e., support democracy).[40]
 
 _Agreements and Constitutions of Laws and Freedoms of the Zaporizian Host_ was written in 1710 by Pylyp Orlyk, _hetman_ of the Zaporozhian Host. It was written to establish a free Zaporozhian-Ukrainian Republic, with the support of Charles XII of Sweden. It is notable in that it established a democratic standard for the separation of powers in government between the legislative, executive, and judiciary branches, well before the publication of Montesquieu's _Spirit of the Laws_. This Constitution also limited the executive authority of the _hetman_, and established a democratically elected Cossack parliament called the General Council. However, Orlyk's project for an independent Ukrainian State never materialized, and his constitution, written in exile, never went into effect.
 
@@ -160,7 +160,7 @@ Political economy theory regards constitutions as coordination devices that help
 
 Governmental constitutions
 
-Red_copy_of_the_Russian_constitution.jpg copy of the Russian Constitution.]]
+copy of the Russian Constitution.]]
 
 Most commonly, the term _constitution_ refers to a set of rules and principles that define the nature and extent of government. Most constitutions seek to regulate the relationship between institutions of the state, in a basic sense the relationship between the executive, legislature and the judiciary, but also the relationship of institutions within those branches. For example, executive branches can be divided into a head of government, government departments/ministries, executive agencies and a civil service/administration. Most constitutions also attempt to define the relationship between individuals and the state, and to establish the broad rights of individual citizens. It is thus the most basic law of a territory from which all the other laws and rules are hierarchically derived; in some territories it is in fact called "Basic Law".
 
@@ -194,7 +194,7 @@ Codified constitutions normally consist of a ceremonial preamble, which sets for
 
 Uncodified constitution
 
-Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg]] only two sovereign states, New Zealand and the United Kingdom, have wholly uncodified constitutions. The Basic Laws of Israel have since 1950 been intended to be the basis for a constitution, but as of 2017 it had not been drafted. The various Laws are considered to have precedence over other laws, and give the procedure by which they can be amended, typically by a simple majority of members of the Knesset (parliament).[59]
+]] only two sovereign states, New Zealand and the United Kingdom, have wholly uncodified constitutions. The Basic Laws of Israel have since 1950 been intended to be the basis for a constitution, but as of 2017 it had not been drafted. The various Laws are considered to have precedence over other laws, and give the procedure by which they can be amended, typically by a simple majority of members of the Knesset (parliament).[59]
 
 Uncodified constitutions are the product of an "evolution" of laws and conventions over centuries (such as in the Westminster System that developed in Britain). By contrast to codified constitutions, uncodified constitutions include both written sources – e.g. constitutional statutes enacted by the Parliament – and unwritten sources – constitutional conventions, observation of precedents, royal prerogatives, customs and traditions, such as holding general elections on Thursdays; together these constitute British constitutional law.
 
@@ -208,7 +208,7 @@ The terms _written constitution_ and _codified constitution_ are often used inte
 
 Entrenchment
 
-Constitution_of_the_United_States,_page_1.jpg]]
+]]
 
 The presence or lack of entrenchment is a fundamental feature of constitutions. An entrenched constitution cannot be altered in any way by a legislature as part of its normal business concerning ordinary statutory laws, but can only be amended by a different and more onerous procedure. There may be a requirement for a special body to be set up, or the proportion of favourable votes of members of existing legislative bodies may be required to be higher to pass a constitutional amendment than for statutes. The entrenched clauses of a constitution can create different degrees of entrenchment, ranging from simply excluding constitutional amendment from the normal business of a legislature, to making certain amendments either more difficult than normal modifications, or forbidden under any circumstances.
 

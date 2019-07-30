@@ -18,7 +18,7 @@ Around 1388, the city's fortifications were strengthened further. And between 14
 
 16th–18th centuries
 
-Eindhoven_Hogenberg.jpg in 1583, by Frans Hogenberg]] The reconstruction of Eindhoven was finished in 1502, with a stronger rampart and a new castle. However, in 1543 it fell again, its defense works having been neglected due to poverty.
+in 1583, by Frans Hogenberg]] The reconstruction of Eindhoven was finished in 1502, with a stronger rampart and a new castle. However, in 1543 it fell again, its defense works having been neglected due to poverty.
 
 A big fire in 1554 destroyed 75% of the houses but by 1560 these had been rebuilt with the help of William I of Orange. During the Dutch Revolt, Eindhoven changed hands between the Dutch and the Spanish several times during which it was burned down by renegade Spanish soldiers, until finally in 1583 it was captured once more by Spanish troops and its city walls were demolished.
 
@@ -34,11 +34,11 @@ Industrialisation brought population growth to Eindhoven. On the establishment o
 
 By 1920, the population was 47,946; by 1925 it was 63,870 and in 1935 that had ballooned to 103,030.[4] The explosive growth of industry in the region and the subsequent housing needs of workers called for radical changes in administration, as the City of Eindhoven was still confined to its medieval moat city limits. In 1920, the five neighbouring municipalities of Woensel (to the north), Tongelre (northeast and east), Stratum (southeast), Gestel en Blaarthem (southwest) and Strijp (west), which already bore the brunt of the housing needs and related problems, were incorporated into the new Groot-Eindhoven ("Greater Eindhoven") municipality. The prefix "Groot-" was later dropped.
 
-Openluchtvergadering_NSB_-_Fotodienst_der_NSB_-_NIOD_-_78459.jpeg, Eindhoven in April 1941]] After the incorporation of 1920, the five former municipalities became districts of the Municipality of Eindhoven, with Eindhoven-Centrum (the City proper) forming the sixth. Since then, an additional seventh district has been formed by dividing the largest district, that of Woensel, into Woensel-Zuid and Woensel-Noord.
+, Eindhoven in April 1941]] After the incorporation of 1920, the five former municipalities became districts of the Municipality of Eindhoven, with Eindhoven-Centrum (the City proper) forming the sixth. Since then, an additional seventh district has been formed by dividing the largest district, that of Woensel, into Woensel-Zuid and Woensel-Noord.
 
 The early 20th century saw additions in technical industry with the advent of car and truck manufacturing company Van Doorne's Automobiel Fabriek (DAF) and the subsequent shift towards electronics and engineering, with the traditional tobacco and textile industries waning and finally disappearing in the 1970s.
 
-Cheering_crowds_line_the_streets_as_Cromwell_tanks_of_2nd_Welsh_Guards_enter_Eindhoven_in_Holland,_19_September_1944._BU945.jpg) watching Allied forces entering the city following its liberation from Axis forces on 19 September 1944.]] Eindhoven, view to a street: 18 Septemberplein-Vestdijk-Stationsplein A first air raid in World War II was flown by the RAF on 6 December 1942 targeting the Philips factory downtown. 148 civilians died, even though the attack was carried out on a Sunday by low-flying Mosquito bombers.[5][6] Large-scale air raids, including the bombing by the Luftwaffe on 18 September, 1944 during Operation Market Garden, destroyed large parts of the city. The reconstruction that followed left very little historical remains and the postwar reconstruction period saw drastic renovation plans in highrise style, some of which were implemented. At the time, there was little regard for historical heritage. During the 1960s, a new city hall was built and its neogothic predecessor (1867) demolished to make way for a planned arterial road that never materialised.
+) watching Allied forces entering the city following its liberation from Axis forces on 19 September 1944.]] A first air raid in World War II was flown by the RAF on 6 December 1942 targeting the Philips factory downtown. 148 civilians died, even though the attack was carried out on a Sunday by low-flying Mosquito bombers.[5][6] Large-scale air raids, including the bombing by the Luftwaffe on 18 September, 1944 during Operation Market Garden, destroyed large parts of the city. The reconstruction that followed left very little historical remains and the postwar reconstruction period saw drastic renovation plans in highrise style, some of which were implemented. At the time, there was little regard for historical heritage. During the 1960s, a new city hall was built and its neogothic predecessor (1867) demolished to make way for a planned arterial road that never materialised.
 
 The 1970s, 1980s, and 1990s saw large-scale housing developments in the districts of Woensel-Zuid and Woensel-Noord, making Eindhoven the fifth-largest city in the Netherlands. At the start of the 21st century, a whole new housing development called Meerhoven was constructed at the site of the old airport of Welschap, west of Eindhoven. The airport itself, now called Eindhoven Airport, had moved earlier to a new location, paving the way for much needed new houses. Meerhoven is part of the Strijp district and partially lies on lands annexed from the municipality of Veldhoven.
 
@@ -67,8 +67,6 @@ Eindhoven has an oceanic climate with slightly warmer summers and colder winters
 
 
 Demographics
-
-BoerenleenbankEindhoven_Rijksmonument518714.JPG
 
 Population
 
@@ -164,13 +162,13 @@ Economy
 
 Eindhoven has grown from a little town in 1232 to one of the biggest cities in the Netherlands with around 212,000 inhabitants in 2009. Much of its growth is due to Philips, DAF Trucks and Brabantia.
 
-After the resurrection of the Netherlands in 1815 and the end of the Belgian Revolution, Eindhoven was a small village of some 1250 people in an economically backward and mostly agricultural area. Cheap land, cheap labor and the existence of pre-industrial homesourcing (_huisnijverheid_ in Dutch) made Eindhoven an attractive area for the developing industries which were being stimulated by the government of King William I. During the 19th century, Eindhoven grew into an industrial town with factories for textile weaving, cigar manufacturing, match making and hat making. Most of these industries disappeared again after World War II, though. Aanzicht_op_de_Lichttoren_en_gebouw_ED_en_EC,_met_links_de_Emmasingel_en_rechts_de_Mathildelaan_-_Eindhoven_-_20338971_-_RCE.jpg in 2000.]]
+After the resurrection of the Netherlands in 1815 and the end of the Belgian Revolution, Eindhoven was a small village of some 1250 people in an economically backward and mostly agricultural area. Cheap land, cheap labor and the existence of pre-industrial homesourcing (_huisnijverheid_ in Dutch) made Eindhoven an attractive area for the developing industries which were being stimulated by the government of King William I. During the 19th century, Eindhoven grew into an industrial town with factories for textile weaving, cigar manufacturing, match making and hat making. Most of these industries disappeared again after World War II, though. in 2000.]]
 
 In 1891, brothers Gerard and Anton Philips founded the small light bulb factory that would grow into one of the largest electronics firms in the world. Philips' presence is probably the largest single contributing factor to the major growth of Eindhoven in the 20th century. It attracted and spun off many hi-tech companies, making Eindhoven a major technology and industrial hub. In 2005, a full third of the total amount of money spent on research in the Netherlands was spent in or around Eindhoven. A quarter of the jobs in the region are in technology and ICT, with companies such as FEI Company (once Philips Electron Optics), NXP Semiconductors (formerly Philips Semiconductors), ASML, ALTEN, Simac, Neways Electronics and the aforementioned Philips and DAF.
 
 Eindhoven has long been a centre of cooperation between research institutes and industry. This tradition started with Philips (the NatLab was a physical expression of this) and has since expanded to large cooperative networks. The Eindhoven University of Technology hosts an incubator for technology startups and the NatLab has developed into the High Tech Campus Eindhoven. Also, TNO has opened a branch on the university campus. This tradition has also fostered inter-industry cooperation in the region; one example of this is the announcement in September 2010 of a new research lab for high-grade packaging materials, a cooperation of IPS Packaging and Thales Cryognetics.[18]
 
-This cooperative tradition has also developed into a different direction than the traditional technology research done at the university. Starting in 2002, the university, the Catharina hospital, Philips Medical and the University of Maastricht joined forces and started joint research into biomedical science, technology and engineering. Within Eindhoven, this research has been concentrated in a new university faculty (BioMedical Technology or BMT). This development has also made Eindhoven a biomedical technology hub within the country and its (European) region. Overzicht_-_Eindhoven_-_20396788_-_RCE.jpg.]]
+This cooperative tradition has also developed into a different direction than the traditional technology research done at the university. Starting in 2002, the university, the Catharina hospital, Philips Medical and the University of Maastricht joined forces and started joint research into biomedical science, technology and engineering. Within Eindhoven, this research has been concentrated in a new university faculty (BioMedical Technology or BMT). This development has also made Eindhoven a biomedical technology hub within the country and its (European) region. .]]
 
 Prime examples of industrial heritage in Eindhoven are the renovated Witte Dame (_"White Lady"_) complex, a former Philips lamp factory; and the Admirant building (informally known as Bruine Heer or _"Brown Gentleman"_ in reference to the Witte Dame across the street), the former Philips main offices. The Witte Dame currently houses the municipal library, the Design Academy and a selection of shops. The Admirant has been renovated into an office building for small companies. Across the street from the Witte Dame and next to the Admirant is Philips' first light bulb factory (nicknamed Roze Baby, or _"Pink Baby"_, in reference to its pink colour and much smaller size when compared to the "White Lady" and "Brown Gentleman"). The small building now houses the "Centrum Kunstlicht in de Kunst" (centre artificial light in art)[19] and the "Philips Incandescent Lamp Factory of 1891" museum.[20]
 
@@ -286,34 +284,34 @@ The municipal council is the legislative council at the municipal level in Eindh
 
 The last three municipal elections were held on 7 March 2006, 3 March 2010 and 19 March 2014. The division of the 45 seats in the Eindhoven city council after these elections is shown below:[30]
 
-  Party                                                                            Percentage in 2006   Seats in 2006   Percentage in 2010   Seats in 2010   Percentage in 2014   Seats in 2014
-  -------------------------------------------------------------------------------- -------------------- --------------- -------------------- --------------- -------------------- ---------------
-  PvdA                                                                             26.99%               14              20.56%               10              15.9%                8
-  CDA                                                                              14.60%               7               11.50%               6               8.0%                 4
-  SP                                                                               12.87%               6               8.70%                4               14.6%                7
-  VVD                                                                              11.78%               6               15.65%               8               13.5%                6
-  GreenLeft                                                                        7.07%                3               8.88%                4               7.6%                 4
-  Livable Eindhoven                                                                8.88%                4               3.22%                1               4.0%                 2
-  Senior Appeal Eindhoven                                                          4.88%                2               6.23%                3               9.7%                 5
-  D66                                                                              3.33%                1               12.19%               6               14.7%                7
-  City Party                                                                       2.44%                1               1.40%                0               -                    -
-  Pim Fortuyn List                                                                 2.27%                1               4.57%                2               3.7%                 1
-  ChristianUnion                                                                   2.22%                1               1.81%                0               2.0%                 1
-  Students List Eindhoven                                                          1.69%                0               -                    -               -                    -
-  Future Party (PvdT)                                                              1.05%                0               0.8%                 0               0.6%                 0
-  New Right                                                                        0.98%                0               -                    -               -                    -
-  Liberal Eindhoven                                                                0.90%                0               -                    -               -                    -
-  Trots op Nederland/Lijst Rita Verdonk                                            -                    -               2.84%                1               -                    -
-  Eindhoven Now                                                                    -                    -               1.16%                0               -                    -
-  J.C.W.M. Vlemmix List                                                            -                    -               0.80%                0               -                    -
-  Human and Spirit Party                                                           -                    -               0.49%                0               -                    -
-  Blanco lijst, 1e kand. M. Leenders                                               -                    -               -                    -               1.5%                 0
-  Together Eindhoven                                                               -                    -               -                    -               1.1%                 0
-  The Greens                                                                       -                    -               -                    -               0.1%                 0
-  Unity Party                                                                      -                    -               -                    -               0.7%                 0
-  Disappointed Citizens                                                            -                    -               -                    -               1.5%                 0
-  OPA Eindhoven                                                                    -                    -               -                    -               0.7%                 0
-  ELECTION RESULTS (PERCENTAGES) 2010EindhovenCityCouncilElectionResults2010.png
+  Party                                   Percentage in 2006   Seats in 2006   Percentage in 2010   Seats in 2010   Percentage in 2014   Seats in 2014
+  --------------------------------------- -------------------- --------------- -------------------- --------------- -------------------- ---------------
+  PvdA                                    26.99%               14              20.56%               10              15.9%                8
+  CDA                                     14.60%               7               11.50%               6               8.0%                 4
+  SP                                      12.87%               6               8.70%                4               14.6%                7
+  VVD                                     11.78%               6               15.65%               8               13.5%                6
+  GreenLeft                               7.07%                3               8.88%                4               7.6%                 4
+  Livable Eindhoven                       8.88%                4               3.22%                1               4.0%                 2
+  Senior Appeal Eindhoven                 4.88%                2               6.23%                3               9.7%                 5
+  D66                                     3.33%                1               12.19%               6               14.7%                7
+  City Party                              2.44%                1               1.40%                0               -                    -
+  Pim Fortuyn List                        2.27%                1               4.57%                2               3.7%                 1
+  ChristianUnion                          2.22%                1               1.81%                0               2.0%                 1
+  Students List Eindhoven                 1.69%                0               -                    -               -                    -
+  Future Party (PvdT)                     1.05%                0               0.8%                 0               0.6%                 0
+  New Right                               0.98%                0               -                    -               -                    -
+  Liberal Eindhoven                       0.90%                0               -                    -               -                    -
+  Trots op Nederland/Lijst Rita Verdonk   -                    -               2.84%                1               -                    -
+  Eindhoven Now                           -                    -               1.16%                0               -                    -
+  J.C.W.M. Vlemmix List                   -                    -               0.80%                0               -                    -
+  Human and Spirit Party                  -                    -               0.49%                0               -                    -
+  Blanco lijst, 1e kand. M. Leenders      -                    -               -                    -               1.5%                 0
+  Together Eindhoven                      -                    -               -                    -               1.1%                 0
+  The Greens                              -                    -               -                    -               0.1%                 0
+  Unity Party                             -                    -               -                    -               0.7%                 0
+  Disappointed Citizens                   -                    -               -                    -               1.5%                 0
+  OPA Eindhoven                           -                    -               -                    -               0.7%                 0
+  ELECTION RESULTS (PERCENTAGES) 2010
 
 Municipal executive
 
@@ -371,7 +369,7 @@ Eindhoven was home to the Evoluon science museum, sponsored by Philips. The Evol
 
 Open-air art
 
-The Eindhoven public space contains many forms of artistic expression (a book published by the Eindhoven tourist board records 550 as of 2001 and more have been added since), with high "concentrations" of them in the parks. The Stadswandelpark for instance, contains over 30 works of modern art. There are also several other works of art on permanent display throughout the city, such as _Flying Pins_ (by Claes Oldenburg and Coosje van Bruggen, who considered the location on the southern stretch of the John F. Kennedylaan to be like a bowling alley) and _Swing_ (a construct on the Karel de Grotelaan, which morphs into different geometric shapes as you move around it). There are also a number of statues of famous city inhabitants, such as Jan van Hooff (by Auke Hettema, 1992) and Frits Philips (by Kees Verkade) on the Market Square. There is a statue of Anton Philips in front of the central railway station. Piazza_Center_Eindhoven.jpg
+The Eindhoven public space contains many forms of artistic expression (a book published by the Eindhoven tourist board records 550 as of 2001 and more have been added since), with high "concentrations" of them in the parks. The Stadswandelpark for instance, contains over 30 works of modern art. There are also several other works of art on permanent display throughout the city, such as _Flying Pins_ (by Claes Oldenburg and Coosje van Bruggen, who considered the location on the southern stretch of the John F. Kennedylaan to be like a bowling alley) and _Swing_ (a construct on the Karel de Grotelaan, which morphs into different geometric shapes as you move around it). There are also a number of statues of famous city inhabitants, such as Jan van Hooff (by Auke Hettema, 1992) and Frits Philips (by Kees Verkade) on the Market Square. There is a statue of Anton Philips in front of the central railway station.
 
 Eindhoven is also, to some degree, open to forms of impromptu and alternative art. For example, the Berenkuil is a freezone for graffiti artists in the city.
 
@@ -383,7 +381,7 @@ Strijp-S is a regular location for the light festival GLOW.[34][35]
 
 Music and theatre
 
-Effenaar.jpg.]]
+.]]
 
 The Effenaar is a popular music venue and cultural center in Eindhoven, and is located at the Dommelstraat.[36]
 
@@ -432,7 +430,7 @@ Some of the major parks in Eindhoven are the Stadswandelpark, Genneper Parken, t
 
 Sport
 
-Philips_Stadion.jpg.]]
+.]]
 
 -   The premier sporting club of the city is PSV Eindhoven, the professional football club playing in the Eredivisie. Their home base is the Philips Stadion. PSV won the 1988 European Cup as well as 24 Dutch championships.
 -   FC Eindhoven is another football club based in Eindhoven, currently playing in the Eerste Divisie.
@@ -476,7 +474,7 @@ Internet, television and telephone connectivity is available via cable televisio
 
 Transport
 
-EindhovenAirport-Terminal-20071224.jpg]] Airport_Eindhoven.jpg Eindhoven Airport is the closest airport, located approximately from the town centre. The airport serves as a military air base and a civilian commercial airport. Eindhoven Airport is the second-busiest in the Netherlands (after Schiphol).
+]] Eindhoven Airport is the closest airport, located approximately from the town centre. The airport serves as a military air base and a civilian commercial airport. Eindhoven Airport is the second-busiest in the Netherlands (after Schiphol).
 
 Ryanair serves London Stansted airport, Dublin, Kiev, Rome, Milan, Pisa, Bordeaux, Marseille, Glasgow, Madrid, Valencia, Stockholm, Kaunas, Malta, Sofia and Barcelona. Wizz air serves Belgrade, Brno, Bucharest-Baneasa, Budapest, Cluj-Napoca, Debrecen, Gdańsk, Katowice, Prague, Riga, Sofia, Timișoara, Vilnius, Wrocław. In the summer season, Reykjavík is served with 2 weekly flights operated by Iceland Express. Transavia services Alicante, Antalya, Bodrum, Corfu, Dalaman, Faro, Gran Canaria, Innsbruck, Málaga, Majorca, Munich, Prague, Rhodes and Salzburg, though some destinations are served only seasonally. Eindhoven Airport served more than 4.6 million passengers in 2015.
 
@@ -507,8 +505,6 @@ Catharina is also an academic and research hospital and participates in a shared
 
 
 Notable residents
-
-Standbeeld_Frits_Philips.jpg
 
 -   Peter Aerts (born 1970), kickboxer
 -   Christijan Albers (born 1979), Formula One racing driver

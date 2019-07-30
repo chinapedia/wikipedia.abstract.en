@@ -1,4 +1,4 @@
-Diode-closeup.jpg Dioden2.jpg. In most diodes, a white or black painted band identifies the cathode into which electrons will flow when the diode is conducting. Electron flow is the reverse of conventional current flow.[1][2][3][4]]] Diode-english-text.svg diode. The filament itself may be the cathode, or more commonly (as shown here) used to heat a separate metal tube which serves as the cathode.]]
+. In most diodes, a white or black painted band identifies the cathode into which electrons will flow when the diode is conducting. Electron flow is the reverse of conventional current flow.[1][2][3][4]]] diode. The filament itself may be the cathode, or more commonly (as shown here) used to heat a separate metal tube which serves as the cathode.]]
 
 A DIODE is a two-terminal electronic component that conducts current primarily in one direction (asymmetric conductance); it has low (ideally zero) resistance in one direction, and high (ideally infinite) resistance in the other. A diode vacuum tube or THERMIONIC DIODE is a vacuum tube with two electrodes, a heated cathode and a plate, in which electrons can flow in only one direction, from cathode to plate. A SEMICONDUCTOR DIODE, the most commonly used type today, is a crystalline piece of semiconductor material with a p–n junction connected to two electrical terminals.[5] Semiconductor diodes were the first semiconductor electronic devices. The discovery of asymmetric electrical conduction across the contact between a crystalline mineral and a metal was made by German physicist Ferdinand Braun in 1874. Today, most diodes are made of silicon, but other materials such as gallium arsenide and germanium are used.[6]
 
@@ -43,8 +43,6 @@ Although all diodes _rectify_, the term _rectifier_ is usually applied to diodes
 
 Vacuum tube diodes
 
-Vacuum_diode.svg
-
 A thermionic diode is a thermionic-valve device consisting of a sealed, evacuated glass or metal envelope containing two electrodes: a cathode and a plate. The cathode is either _indirectly heated_ or _directly heated_. If indirect heating is employed, a heater is included in the envelope.
 
 In operation, the cathode is heated to red heat (800–1000 °C). A directly heated cathode is made of tungsten wire and is heated by current passed through it from an external voltage source. An indirectly heated cathode is heated by infrared radiation from a nearby heater that is formed of Nichrome wire and supplied with current provided by an external voltage source.
@@ -57,8 +55,6 @@ The alternating voltage to be rectified is applied between the cathode and the p
 
 
 Semiconductor diodes
-
-1N23C_04.jpg
 
 Point-contact diodes
 
@@ -76,13 +72,11 @@ Another type of junction diode, the Schottky diode, is formed from a metal–sem
 
 Current–voltage characteristic
 
-Diode_current_wiki.png
-
 A semiconductor diode's behavior in a circuit is given by its current–voltage characteristic, or I–V graph (see graph below). The shape of the curve is determined by the transport of charge carriers through the so-called _depletion layer_ or _depletion region_ that exists at the p–n junction between differing semiconductors. When a p–n junction is first created, conduction-band (mobile) electrons from the N-doped region diffuse into the P-doped region where there is a large population of holes (vacant places for electrons) with which the electrons "recombine". When a mobile electron recombines with a hole, both hole and electron vanish, leaving behind an immobile positively charged donor (dopant) on the N side and negatively charged acceptor (dopant) on the P side. The region around the p–n junction becomes depleted of charge carriers and thus behaves as an insulator.
 
 However, the width of the depletion region (called the depletion width) cannot grow without limit. For each electron–hole pair recombination made, a positively charged dopant ion is left behind in the N-doped region, and a negatively charged dopant ion is created in the P-doped region. As recombination proceeds and more ions are created, an increasing electric field develops through the depletion zone that acts to slow and then finally stop recombination. At this point, there is a "built-in" potential across the depletion zone.
 
-PN_band.gif diode in forward bias mode, the depletion width decreases. Both p and n junctions are doped at a 1e15/cm3 doping level, leading to built-in potential of ~0.59V. Observe the different Quasi Fermi levels for conduction band and valence band in n and p regions (red curves).]]
+diode in forward bias mode, the depletion width decreases. Both p and n junctions are doped at a 1e15/cm3 doping level, leading to built-in potential of ~0.59V. Observe the different Quasi Fermi levels for conduction band and valence band in n and p regions (red curves).]]
 
 Reverse bias
 
@@ -263,13 +257,11 @@ Applications
 
 Radio demodulation
 
-Simple_envelope_detector.svg circuit.]] The first use for the diode was the demodulation of amplitude modulated (AM) radio broadcasts. The history of this discovery is treated in depth in the radio article. In summary, an AM signal consists of alternating positive and negative peaks of a radio carrier wave, whose amplitude or envelope is proportional to the original audio signal. The diode rectifies the AM radio frequency signal, leaving only the positive peaks of the carrier wave. The audio is then extracted from the rectified carrier wave using a simple filter and fed into an audio amplifier or transducer, which generates sound waves.
+circuit.]] The first use for the diode was the demodulation of amplitude modulated (AM) radio broadcasts. The history of this discovery is treated in depth in the radio article. In summary, an AM signal consists of alternating positive and negative peaks of a radio carrier wave, whose amplitude or envelope is proportional to the original audio signal. The diode rectifies the AM radio frequency signal, leaving only the positive peaks of the carrier wave. The audio is then extracted from the rectified carrier wave using a simple filter and fed into an audio amplifier or transducer, which generates sound waves.
 
 In microwave and millimeter wave technology, beginning in the 1930s, researchers improved and miniaturized the crystal detector. Point contact diodes (_crystal diodes_) and Schottky diodes are used in radar, microwave and millimeter wave detectors.[59]
 
 Power conversion
-
-ACtoDCpowersupply.png
 
 Rectifiers are constructed from diodes, where they are used to convert alternating current (ac) electricity into direct current (dc). Automotive alternators are a common example, where the diode, which rectifies the AC into dc, provides better performance than the commutator or earlier, dynamo. Similarly, diodes are also used in _Cockcroft–Walton voltage multipliers_ to convert ac into higher ac voltages.
 
@@ -303,7 +295,7 @@ Diodes can be used to limit the positive or negative excursion of a signal to a 
 
 Clamper
 
-DiodeClamp.png A diode clamp circuit can take a periodic alternating current signal that oscillates between positive and negative values, and vertically displace it such that either the positive, or the negative peaks occur at a prescribed level. The clamper does not restrict the peak-to-peak excursion of the signal, it moves the whole signal up or down so as to place the peaks at the reference level.
+A diode clamp circuit can take a periodic alternating current signal that oscillates between positive and negative values, and vertically displace it such that either the positive, or the negative peaks occur at a prescribed level. The clamper does not restrict the peak-to-peak excursion of the signal, it moves the whole signal up or down so as to place the peaks at the reference level.
 
 
 Abbreviations

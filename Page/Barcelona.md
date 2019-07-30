@@ -9,7 +9,7 @@ In 2009 the city was ranked Europe's third and one of the world's most successfu
 
 Names
 
-The name _Barcelona_ comes from the ancient Iberian _Barkeno_, attested in an ancient coin inscription found on the right side of the coin in Iberian script as Barkeno.png,[16] in ancient Greek sources as , _Barkinṓn_;[17][18] and in Latin as _Barcino_,[19] _Barcilonum_[20] and _Barcenona_.[21][22][23]
+The name _Barcelona_ comes from the ancient Iberian _Barkeno_, attested in an ancient coin inscription found on the right side of the coin in Iberian script as ,[16] in ancient Greek sources as , _Barkinṓn_;[17][18] and in Latin as _Barcino_,[19] _Barcilonum_[20] and _Barcenona_.[21][22][23]
 
 Some older sources suggest that the city may have been named after the Carthaginian general Hamilcar Barca, who was supposed to have founded the city in the 3rd century BC,[24] but there is no evidence that Barcelona was ever a Carthaginian settlement, or that its name in antiquity, _Barcino_, had any connection with the Barcid family of Hamilcar.[25] During the Middle Ages, the city was variously known as _Barchinona_, _Barçalona_, _Barchelonaa_, and _Barchenona_.
 
@@ -22,15 +22,13 @@ The city is also referred to as the _Ciutat Comtal_ in Catalan, and _Ciudad Cond
 
 History
 
-Barcino_marble_barcelona.jpg
-
 Pre-history
 
 The origin of the earliest settlement at the site of present-day Barcelona is unclear. The ruins of an early settlement have been found, including different tombs and dwellings dating to earlier than 5000 BC.[26][27] The founding of Barcelona is the subject of two different legends. The first attributes the founding of the city to the mythological Hercules. The second legend attributes the foundation of the city directly to the historical Carthaginian general, Hamilcar Barca, father of Hannibal, who supposedly named the city _Barcino_ after his family in the 3rd century BC,[28] but there is no historical or linguistic evidence that this is true.[29]
 
 Roman Barcelona
 
-In about 15 BC, the Romans redrew the town as a _castrum_ (Roman military camp) centred on the "_Mons Taber_", a little hill near the contemporary city hall (Plaça de Sant Jaume). Under the Romans, it was a colony with the surname of _Faventia_,[30] or, in full, _Colonia Faventia Julia Augusta Pia Barcino_[31] or _Colonia Julia Augusta Faventia Paterna Barcino_. Pomponius Mela[32] mentions it among the small towns of the district, probably as it was eclipsed by its neighbour _Tarraco_ (modern Tarragona), but it may be gathered from later writers that it gradually grew in wealth and consequence, favoured as it was with a beautiful situation and an excellent harbour.[33] It enjoyed immunity from imperial burdens.[34] The city minted its own coins; some from the era of Galba survive. Building_12_(5835826915).jpg]]
+In about 15 BC, the Romans redrew the town as a _castrum_ (Roman military camp) centred on the "_Mons Taber_", a little hill near the contemporary city hall (Plaça de Sant Jaume). Under the Romans, it was a colony with the surname of _Faventia_,[30] or, in full, _Colonia Faventia Julia Augusta Pia Barcino_[31] or _Colonia Julia Augusta Faventia Paterna Barcino_. Pomponius Mela[32] mentions it among the small towns of the district, probably as it was eclipsed by its neighbour _Tarraco_ (modern Tarragona), but it may be gathered from later writers that it gradually grew in wealth and consequence, favoured as it was with a beautiful situation and an excellent harbour.[33] It enjoyed immunity from imperial burdens.[34] The city minted its own coins; some from the era of Galba survive. ]]
 
 Important Roman vestiges are displayed in Plaça del Rei underground, as a part of the Barcelona City History Museum (MUHBA); the typically Roman grid plan is still visible today in the layout of the historical centre, the _Barri Gòtic_ (Gothic Quarter). Some remaining fragments of the Roman walls have been incorporated into the cathedral.[35] The cathedral, also known as the Basilica _La Seu_, is said to have been founded in 343.
 
@@ -40,17 +38,15 @@ The city was conquered by the Visigoths in the early 5th century, becoming for a
 
 The Counts of Barcelona became increasingly independent and expanded their territory to include all of Catalonia, although on 6 July 985, Barcelona was sacked by the army of Almanzor.[36] The sack was so traumatic that most of Barcelona's population was either killed or enslaved.[37] In 1137, Aragon and the County of Barcelona merged in dynastic union[38][39] by the marriage of Ramon Berenguer IV and Petronilla of Aragon, their titles finally borne by only one person when their son Alfonso II of Aragon ascended to the throne in 1162. His territories were later to be known as the Crown of Aragon, which conquered many overseas possessions and ruled the western Mediterranean Sea with outlying territories in Naples and Sicily and as far as Athens in the 13th century. The forging of a dynastic link between the Crowns of Aragon and Castile marked the beginning of Barcelona's decline. The Bank of Barcelona (_Taula de canvi_), probably the oldest public bank in Europe, was established by the city magistrates in 1401. It originated from necessities of the state, as did the Bank of Venice (1402) and the Bank of Genoa (1407).[40]
 
-Wyngaerde_Barcelona_1563.jpg
-
 Barcelona under the Spanish monarchy
 
 The marriage of Ferdinand II of Aragon and Isabella I of Castile in 1469 united the two royal lines. Madrid became the centre of political power whilst the colonisation of the Americas reduced the financial importance (at least in relative terms) of Mediterranean trade. Barcelona was a centre of Catalan separatism, including the Catalan Revolt (1640–52) against Philip IV of Spain. The great plague of 1650–1654 halved the city's population.[41]
 
-Fortress_on_Montjuic.jpg, most southerly point from which measurements were made when calculating the meridional definition of the metre]] In the 18th century, a fortress was built at Montjuïc that overlooked the harbour. In 1794, this fortress was used by the French astronomer Pierre François André Méchain for observations relating to a survey stretching to Dunkirk that provided the official basis of the measurement of a metre.[42] The definitive metre bar, manufactured from platinum, was presented to the French legislative assembly on 22 June 1799. Much of Barcelona was negatively affected by the Napoleonic wars, but the start of industrialisation saw the fortunes of the province improve. Urban planner Ildefons Cerdà designed the large Eixample district in the 1850s when the medieval city walls around Barcelona's old town were torn down.[43]
+, most southerly point from which measurements were made when calculating the meridional definition of the metre]] In the 18th century, a fortress was built at Montjuïc that overlooked the harbour. In 1794, this fortress was used by the French astronomer Pierre François André Méchain for observations relating to a survey stretching to Dunkirk that provided the official basis of the measurement of a metre.[42] The definitive metre bar, manufactured from platinum, was presented to the French legislative assembly on 22 June 1799. Much of Barcelona was negatively affected by the Napoleonic wars, but the start of industrialisation saw the fortunes of the province improve. Urban planner Ildefons Cerdà designed the large Eixample district in the 1850s when the medieval city walls around Barcelona's old town were torn down.[43]
 
 The Spanish civil war and the Franco period
 
-Government_of_the_Republican_Spain_in_Barcelona._2.jpg from November 1937 until January 1939, Spanish Civil War.[44][45] In that time, both Barcelona and Madrid were still under the rule of the republic. In the image Azaña and Negrín on the city outskirts.]] During the Spanish Civil War, the city, and Catalonia in general, were resolutely Republican. Many enterprises and public services were "collectivised" by the CNT and UGT unions. As the power of the Republican government and the Generalitat diminished, much of the city was under the effective control of anarchist groups. The anarchists lost control of the city to their own allies, the Communists and official government troops, after the street fighting of the Barcelona May Days. The fall of the city on 26 January 1939, caused a mass exodus of civilians who fled to the French border. The resistance of Barcelona to Franco's coup d'état was to have lasting effects after the defeat of the Republican government. The autonomous institutions of Catalonia were abolished,[46] and the use of the Catalan language in public life was suppressed. Barcelona remained the second largest city in Spain, at the heart of a region which was relatively industrialised and prosperous, despite the devastation of the civil war. The result was a large-scale immigration from poorer regions of Spain (particularly Andalusia, Murcia and Galicia), which in turn led to rapid urbanisation.
+from November 1937 until January 1939, Spanish Civil War.[44][45] In that time, both Barcelona and Madrid were still under the rule of the republic. In the image Azaña and Negrín on the city outskirts.]] During the Spanish Civil War, the city, and Catalonia in general, were resolutely Republican. Many enterprises and public services were "collectivised" by the CNT and UGT unions. As the power of the Republican government and the Generalitat diminished, much of the city was under the effective control of anarchist groups. The anarchists lost control of the city to their own allies, the Communists and official government troops, after the street fighting of the Barcelona May Days. The fall of the city on 26 January 1939, caused a mass exodus of civilians who fled to the French border. The resistance of Barcelona to Franco's coup d'état was to have lasting effects after the defeat of the Republican government. The autonomous institutions of Catalonia were abolished,[46] and the use of the Catalan language in public life was suppressed. Barcelona remained the second largest city in Spain, at the heart of a region which was relatively industrialised and prosperous, despite the devastation of the civil war. The result was a large-scale immigration from poorer regions of Spain (particularly Andalusia, Murcia and Galicia), which in turn led to rapid urbanisation.
 
 Late twentieth century
 
@@ -69,8 +65,6 @@ Geography
 
 Location
 
-Barcelona_ISS009-E-9987.jpg
-
 Barcelona is located on the northeast coast of the Iberian Peninsula, facing the Mediterranean Sea, on a plain approximately wide limited by the mountain range of Collserola, the Llobregat river to the southwest and the Besòs river to the north.[60] This plain covers an area of ,[61] of which [62] are occupied by the city itself. It is south of the Pyrenees and the Catalan border with France.
 
 Tibidabo, high, offers striking views over the city[63] and is topped by the Torre de Collserola, a telecommunications tower that is visible from most of the city. Barcelona is peppered with small hills, most of them urbanised, that gave their name to the neighbourhoods built upon them, such as Carmel (), Putget () and Rovira (). The escarpment of Montjuïc (), situated to the southeast, overlooks the harbour and is topped by Montjuïc Castle, a fortress built in the 17–18th centuries to control the city as a replacement for the Ciutadella. Today, the fortress is a museum and Montjuïc is home to several sporting and cultural venues, as well as Barcelona's biggest park and gardens.
@@ -88,8 +82,6 @@ Barcelona averages 78 rainy days per year (≥ 1 mm), and annual average relati
 
 Demographics
 
-Demografía_Barcelona_(España).PNG
-
 According to Barcelona's City Council, Barcelona's population was 1,608,746 people,[70] on a land area of . It is the main component of an administrative area of Greater Barcelona, with a population of 3,218,071 in an area of (density 5,060 hab/km²). The population of the urban area was 4,840,000.[71] It is the central nucleus of the Barcelona metropolitan area, which relies on a population of 5,474,482.[72]
 
 Spanish is the most spoken language in Barcelona (according to the linguistic census held by the Government of Catalonia in 2013) and it is understood almost universally. Catalan is also very commonly spoken in the city: it is understood by 95% of the population, while 72.3% can speak it, 79% can read it, and 53% can write it.[73] Knowledge of Catalan has increased significantly in recent decades thanks to a language immersion educational system.
@@ -98,7 +90,7 @@ In 1900, Barcelona had a population of 533,000 people,[74] which grew steadily b
 
 Population density
 
-14-08-06-barcelona-RalfR-314.jpg avenue]] _Note: This text is entirely based on the municipal statistical database provided by the city council._
+avenue]] _Note: This text is entirely based on the municipal statistical database provided by the city council._
 
 Barcelona is one of the most densely populated cities in Europe. For the year 2008 the city council calculated the population to 1,621,090 living in the 102.2 km² sized municipality, giving the city an average population density of 15,926 inhabitants per square kilometre with Eixample being the most populated district.
 
@@ -177,7 +169,7 @@ The city is known for hosting well as world-class conferences and expositions, i
 
 Tourism
 
-14-08-05-barcelona-RalfR-022.jpg]]
+]]
 
 Barcelona was the 20th-most-visited city in the world by international visitors and the fifth most visited city in Europe after London, Paris, Istanbul and Rome, with 5.5 million international visitors in 2011.[103] By 2015, both Prague and Milan had more international visitors.[104] With its Rambles, Barcelona is ranked the most popular city to visit in Spain.[105]
 
@@ -201,7 +193,7 @@ As in other modern cities, the manufacturing sector has long since been overtake
 
 Fashion
 
-Pasarela_The_Brandery_2.jpg fashion show of 2011]] The traditional importance of textiles is reflected in Barcelona's drive to become a major fashion centre. There have been many attempts to launch Barcelona as a fashion capital, notably _Gaudi Home_.
+fashion show of 2011]] The traditional importance of textiles is reflected in Barcelona's drive to become a major fashion centre. There have been many attempts to launch Barcelona as a fashion capital, notably _Gaudi Home_.
 
 Beginning in the summer of 2000, the city hosted the prestigious Bread & Butter urban fashion fair until 2009, when its organisers announced that it would be returning to Berlin. This was a hard blow for the city as the fair brought €100 m to the city in just three days.[123][124]
 
@@ -210,17 +202,13 @@ Since 2009, _The Brandery_, an urban fashion show, has been held in Barcelona tw
 
 Government and administrative divisions
 
-Κυβερνητικό_Μέγαρο_Καταλονίας_2563.jpg]]
+]]
 
 As the capital of the autonomous community of Catalonia, Barcelona is the seat of the Catalan government, known as the _Generalitat de Catalunya_; of particular note are the executive branch, the parliament, and the High Court of Justice of Catalonia. The city is also the capital of the Province of Barcelona and the Barcelonès comarca (district).
 
 Barcelona is governed by a city council formed by 41 city councillors, elected for a four-year term by universal suffrage. As one of the two biggest cities in Spain, Barcelona is subject to a special law articulated through the _Carta Municipal_ (Municipal Law). A first version of this law was passed in 1960 and amended later, but the current version was approved in March 2006.[126] According to this law, Barcelona's city council is organised in two levels: a political one, with elected city councillors, and one executive, which administrates the programs and executes the decisions taken on the political level.[127] This law also gives the local government a special relationship with the central government and it also gives the mayor wider prerogatives by the means of municipal executive commissions.[128] It expands the powers of the city council in areas like telecommunications, city traffic, road safety and public safety. It also gives a special economic regime to the city's treasury and it gives the council a veto in matters that will be decided by the central government, but that will need a favourable report from the council.[129]
 
-Ajuntament_de_Barcelona_(3400686886).jpg
-
 The _Comissió de Govern_ (Government Commission) is the executive branch, formed by 24 councillors, led by the Mayor, with 5 lieutenant-mayors and 17 city councillors, each in charge of an area of government, and 5 non-elected councillors.[130] The plenary, formed by the 41 city councillors, has advisory, planning, regulatory, and fiscal executive functions.[131] The six _Commissions del Consell Municipal_ (City council commissions) have executive and controlling functions in the field of their jurisdiction. They are composed by a number of councillors proportional to the number of councillors each political party has in the plenary.[132] The city council has jurisdiction in the fields of city planning, transportation, municipal taxes, public highways security through the _Guàrdia Urbana_ (the municipal police), city maintenance, gardens, parks and environment, facilities (like schools, nurseries, sports centres, libraries, and so on), culture, sports, youth and social welfare. Some of these competencies are not exclusive, but shared with the Generalitat de Catalunya or the central Spanish government. In some fields with shared responsibility (such as public health, education or social services), there is a shared Agency or Consortium between the city and the Generalitat to plan and manage services.[133]
-
-Salón_de_Ciento._Ayuntamiento_de_Barcelona.jpg
 
 The executive branch is led by a Chief Municipal Executive Officer which answers to the Mayor. It is made up of departments which are legally part of the city council and by separate legal entities of two types: autonomous public departments and public enterprises.[134]
 
@@ -229,8 +217,6 @@ The seat of the city council is on the Plaça de Sant Jaume, opposite the seat o
 After 32 years, on 22 May 2011, CiU gained a plurality of seats at the municipal election, gaining 15 seats to the PSC's 11. The PP hold 8 seats, ICV 5 and ERC 2.
 
 Districts
-
-Districtes_de_Barcelona.svg
 
 Since 1987, the city has been divided into 10 administrative districts (_districtes_ in Catalan, _distritos_ in Spanish):
 
@@ -250,9 +236,9 @@ The districts are based mostly on historical divisions, and several are former t
 
 Education
 
-Universidad_de_Barcelona,_Canciller_del_Ecuador_ofrece_conferencia_(11986731433).jpg]]
+]]
 
-Barcelona has a well-developed higher education system of public universities. Most prominent among these is the University of Barcelona (established in 1450), a world-renowned research and teaching institution with campuses around the city. Barcelona is also home to the Polytechnic University of Catalonia, and the newer Pompeu Fabra University, and, in the private sector the EADA Business School founded in 1957, became the first Barcelona institution to run manager training programmes for the business community. IESE Business School, as well as the largest private educational institution, the Ramon Llull University, which encompasses internationally prestigious schools and institutes such as the ESADE Business School. The Autonomous University of Barcelona, another public university, is located in Bellaterra, a town in the Metropolitan Area. Toulouse Business School and the Open University of Catalonia (a private Internet-centred open university) are also based in Barcelona. Barcelona._University_of_Barcelona,_faculty_of_Law._Lopez_Iñigo,_Subias_Fages_and_Giráldez_Dávila,_architects_(1958)_(14958318511).jpg
+Barcelona has a well-developed higher education system of public universities. Most prominent among these is the University of Barcelona (established in 1450), a world-renowned research and teaching institution with campuses around the city. Barcelona is also home to the Polytechnic University of Catalonia, and the newer Pompeu Fabra University, and, in the private sector the EADA Business School founded in 1957, became the first Barcelona institution to run manager training programmes for the business community. IESE Business School, as well as the largest private educational institution, the Ramon Llull University, which encompasses internationally prestigious schools and institutes such as the ESADE Business School. The Autonomous University of Barcelona, another public university, is located in Bellaterra, a town in the Metropolitan Area. Toulouse Business School and the Open University of Catalonia (a private Internet-centred open university) are also based in Barcelona.
 
 The city has a network of public schools, from nurseries to high schools, under the responsibility of a consortium led by city council (though the curriculum is the responsibility of the Generalitat de Catalunya). There are also many private schools, some of them Roman Catholic. Most such schools receive a public subsidy on a per-student basis, are subject to inspection by the public authorities, and are required to follow the same curricular guidelines as public schools, though they charge tuition. Known as _escoles concertades_, they are distinct from schools whose funding is entirely private (_escoles privades_).
 
@@ -265,7 +251,7 @@ Barcelona's cultural roots go back 2000 years. Since the arrival of democracy, t
 
 Entertainment and performing arts
 
-Liceu_-_Interior.jpg opera house]]
+opera house]]
 
 Barcelona has many venues for live music and theatre, including the world-renowned Gran Teatre del Liceu opera house, the Teatre Nacional de Catalunya, the Teatre Lliure and the Palau de la Música Catalana concert hall. Barcelona also is home to the Barcelona Symphony and Catalonia National Orchestra (Orquestra Simfònica de Barcelona i Nacional de Catalunya, usually known as OBC), the largest symphonic orchestra in Catalonia. In 1999, the OBC inaugurated its new venue in the brand-new Auditorium (L'Auditori). It performs around 75 concerts per season and its current director is Eiji Oue.[137] It is home to the Barcelona Guitar Orchestra, directed by Sergi Vicente. The major thoroughfare of La Rambla is home to mime artists and street performers. Yearly, two major pop music festivals take place in the city, the Sónar Festival and the Primavera Sound Festival. The city also has a thriving alternative music scene, with groups such as The Pinker Tones receiving international attention.[138]
 
@@ -279,15 +265,15 @@ Several major FM stations include Catalunya Ràdio, RAC 1, RAC 105 and Cadena SE
 
 Sports
 
-Estadi_Olímpic_Lluís_Companys_-_Barcelona,_Spain_-_Jan_2007.jpg (Barcelona Olympic Stadium) built for the 1936 Summer Olympics named _People's Olympiad_, main stadium of 1992 Summer Olympics.]]
+(Barcelona Olympic Stadium) built for the 1936 Summer Olympics named _People's Olympiad_, main stadium of 1992 Summer Olympics.]]
 
-Barcelona has a long sporting tradition and hosted the highly successful 1992 Summer Olympics as well as several matches during the 1982 FIFA World Cup (at the two stadiums). It has hosted about 30 sports events of international significance. Camp_Nou_-_Interior_(2005).jpg, the largest stadium in Europe.]] FC Barcelona is a sports club best known worldwide for its football team, one of the largest and the second richest in the world.[139] It has 74 national trophies (while finishing 46 times as runners-up) and 17 continental prizes (with being runners-up 11 times), including five UEFA Champions League trophies out of eight finals and three FIFA Club World Cup wins out of four finals. It is the only male football team in the world to win six trophies in a calendar year (in 2009). FC Barcelona also has professional teams in other sports like FC Barcelona Regal (basketball), FC Barcelona Handbol (handball), FC Barcelona Hoquei (roller hockey), FC Barcelona Ice Hockey (ice hockey), FC Barcelona Futsal (futsal) and FC Barcelona Rugby (rugby union), all at one point winners of the highest national and/or European competitions. The club's museum is the second most visited in Catalonia. The matches against cross-town rivals RCD Espanyol are of particular interest, but there are other Barcelonan football clubs in lower categories, like CE Europa and UE Sant Andreu. FC Barcelona's basketball team has a noted rivalry in the Liga ACB with nearby Joventut Badalona.
+Barcelona has a long sporting tradition and hosted the highly successful 1992 Summer Olympics as well as several matches during the 1982 FIFA World Cup (at the two stadiums). It has hosted about 30 sports events of international significance. , the largest stadium in Europe.]] FC Barcelona is a sports club best known worldwide for its football team, one of the largest and the second richest in the world.[139] It has 74 national trophies (while finishing 46 times as runners-up) and 17 continental prizes (with being runners-up 11 times), including five UEFA Champions League trophies out of eight finals and three FIFA Club World Cup wins out of four finals. It is the only male football team in the world to win six trophies in a calendar year (in 2009). FC Barcelona also has professional teams in other sports like FC Barcelona Regal (basketball), FC Barcelona Handbol (handball), FC Barcelona Hoquei (roller hockey), FC Barcelona Ice Hockey (ice hockey), FC Barcelona Futsal (futsal) and FC Barcelona Rugby (rugby union), all at one point winners of the highest national and/or European competitions. The club's museum is the second most visited in Catalonia. The matches against cross-town rivals RCD Espanyol are of particular interest, but there are other Barcelonan football clubs in lower categories, like CE Europa and UE Sant Andreu. FC Barcelona's basketball team has a noted rivalry in the Liga ACB with nearby Joventut Badalona.
 
-Palau_Sant_Jordi_Barcelona_2013.jpg (St. George's sporting arena) and Montjuïc Communications Tower]] Barcelona has three UEFA elite stadiums: FC Barcelona's Camp Nou, the largest stadium in Europe with a capacity of 99,354; the publicly owned Estadi Olímpic Lluís Companys, with a capacity of 55,926; used for the 1992 Olympics; and Estadi Cornellà-El Prat, with a capacity of 40,500. Furthermore, the city has several smaller stadiums such as Mini Estadi (also owned by FC Barcelona) with a capacity of 15,000, Camp Municipal Narcís Sala with a capacity of 6,563 and Nou Sardenya with a capacity of 7,000. The city has a further three multifunctional venues for sports and concerts: the Palau Sant Jordi with a capacity of 12,000 to 24,000 (depending on use), the Palau Blaugrana with a capacity of 7,500, and the Palau dels Esports de Barcelona with a capacity of 3,500.
+(St. George's sporting arena) and Montjuïc Communications Tower]] Barcelona has three UEFA elite stadiums: FC Barcelona's Camp Nou, the largest stadium in Europe with a capacity of 99,354; the publicly owned Estadi Olímpic Lluís Companys, with a capacity of 55,926; used for the 1992 Olympics; and Estadi Cornellà-El Prat, with a capacity of 40,500. Furthermore, the city has several smaller stadiums such as Mini Estadi (also owned by FC Barcelona) with a capacity of 15,000, Camp Municipal Narcís Sala with a capacity of 6,563 and Nou Sardenya with a capacity of 7,000. The city has a further three multifunctional venues for sports and concerts: the Palau Sant Jordi with a capacity of 12,000 to 24,000 (depending on use), the Palau Blaugrana with a capacity of 7,500, and the Palau dels Esports de Barcelona with a capacity of 3,500.
 
 Barcelona was the host city for the 2013 World Aquatics Championships, which were held at the Palau San Jordi.[140]
 
-F1_Circuit_de_Catalunya_-_Tribuna.jpg, race track of Formula 1 and MotoGP on the suburb of Barcelona.]] Several road running competitions are organised year-round in Barcelona: the Barcelona Marathon every March with over 10,000 participants in 2010, the Cursa de Bombers in April, the Cursa de El Corte Inglés in May (with about 60,000 participants each year), the Cursa de la Mercè, the Cursa Jean Bouin, the Milla Sagrada Família and the San Silvestre. There's also the Ultratrail Collserola which passes through the Collserola forest. The Open Seat Godó, a 50-year-old ATP World Tour 500 Series tennis tournament, is held annually in the facilities of the Real Club de Tenis Barcelona. Each Christmas, a swimming race across the port is organised. Near Barcelona, in Montmeló, the 107,000 capacity Circuit de Barcelona-Catalunya racetrack hosts the Formula One Spanish Grand Prix, the Catalan motorcycle Grand Prix, the Spanish GT Championship and races in the GP2 Series. Skateboarding and cycling are also very popular in Barcelona; in and around the city there are dozens of kilometers of bicycle paths.
+, race track of Formula 1 and MotoGP on the suburb of Barcelona.]] Several road running competitions are organised year-round in Barcelona: the Barcelona Marathon every March with over 10,000 participants in 2010, the Cursa de Bombers in April, the Cursa de El Corte Inglés in May (with about 60,000 participants each year), the Cursa de la Mercè, the Cursa Jean Bouin, the Milla Sagrada Família and the San Silvestre. There's also the Ultratrail Collserola which passes through the Collserola forest. The Open Seat Godó, a 50-year-old ATP World Tour 500 Series tennis tournament, is held annually in the facilities of the Real Club de Tenis Barcelona. Each Christmas, a swimming race across the port is organised. Near Barcelona, in Montmeló, the 107,000 capacity Circuit de Barcelona-Catalunya racetrack hosts the Formula One Spanish Grand Prix, the Catalan motorcycle Grand Prix, the Spanish GT Championship and races in the GP2 Series. Skateboarding and cycling are also very popular in Barcelona; in and around the city there are dozens of kilometers of bicycle paths.
 
   Club                      League             Sport               Venue                           Established       Capacity
   ------------------------- ------------------ ------------------- ------------------------------- ----------------- ----------
@@ -314,15 +300,15 @@ Transport
 
 Airports
 
-Airport_Barcelona_seen_from_air.jpg as seen from the air]] Barcelona is served by Barcelona-El Prat Airport, about from the centre of Barcelona. It is the second-largest airport in Spain, and the largest on the Mediterranean coast, which handled more than 50.17 million passengers in 2018, showing an annual upward trend.[144] It is a main hub for Vueling Airlines and Ryanair, and also a focus for Iberia and Air Europa. The airport mainly serves domestic and European destinations, although some airlines offer destinations in Latin America, Asia and the United States. The airport is connected to the city by highway, metro (Airport T1 and Airport T2 stations), commuter train (Barcelona Airport railway station) and scheduled bus service. A new terminal (T1) has been built, and entered service on 17 June 2009.
+as seen from the air]] Barcelona is served by Barcelona-El Prat Airport, about from the centre of Barcelona. It is the second-largest airport in Spain, and the largest on the Mediterranean coast, which handled more than 50.17 million passengers in 2018, showing an annual upward trend.[144] It is a main hub for Vueling Airlines and Ryanair, and also a focus for Iberia and Air Europa. The airport mainly serves domestic and European destinations, although some airlines offer destinations in Latin America, Asia and the United States. The airport is connected to the city by highway, metro (Airport T1 and Airport T2 stations), commuter train (Barcelona Airport railway station) and scheduled bus service. A new terminal (T1) has been built, and entered service on 17 June 2009.
 
 Some low-cost airlines, also use Girona-Costa Brava Airport, about to the north, Reus Airport, to the south, or Lleida-Alguaire Airport, about to the west, of the city. Sabadell Airport is a smaller airport in the nearby town of Sabadell, devoted to pilot training, aerotaxi and private flights.
 
 Seaport
 
-Port_of_Barcelona.jpg]]
+]]
 
-The Port of Barcelona has a 2000-year-old history and a great contemporary commercial importance. It is Europe's ninth largest container port, with a trade volume of 1.72 million TEU's in 2013.[145] The port is managed by the Port Authority of Barcelona. Its are divided into three zones: Port Vell (the old port), the commercial port and the logistics port (Barcelona Free Port). The port is undergoing an enlargement that will double its size thanks to diverting the mouth of the Llobregat river to the south.[146] Port_Vell,_Barcelona,_Spain_-_Jan_2007.jpg in winter]]
+The Port of Barcelona has a 2000-year-old history and a great contemporary commercial importance. It is Europe's ninth largest container port, with a trade volume of 1.72 million TEU's in 2013.[145] The port is managed by the Port Authority of Barcelona. Its are divided into three zones: Port Vell (the old port), the commercial port and the logistics port (Barcelona Free Port). The port is undergoing an enlargement that will double its size thanks to diverting the mouth of the Llobregat river to the south.[146] in winter]]
 
 The Barcelona harbour is the leading European cruiser port and a most important Mediterranean turnaround base.[147] In 2013, 3,6 million of pleasure cruises passengers used services of the Port of Barcelona.[148]
 
@@ -330,7 +316,7 @@ The Port Vell area also houses the Maremagnum (a commercial mall), a multiplex c
 
 National and international rail
 
-Barcelona_-_Estación_de_Sants_y_Hotel_Barceló_Sants_2.jpg]]
+]]
 
 Barcelona is a major hub for RENFE, the Spanish state railway network. The city's main Inter-city rail station is Barcelona Sants railway station, whilst Estació de França terminus serves a secondary role handling suburban, regional and medium distance services. Freight services operate to local industries and to the Port of Barcelona.
 
@@ -338,7 +324,7 @@ RENFE's AVE high-speed rail system, which is designed for speeds of , was extend
 
 Metro and regional rail
 
-LlefiàL10.JPG Barcelona is served by an extensive local public transport network that includes a metro system, a bus network, a regional railway system, trams, funiculars, rack railways, a Gondola lift and aerial cable cars. These networks and lines are run by a number of different operators but they are integrated into a coordinated fare system, administered by the Autoritat del Transport Metropolità (ATM). The system is divided into fare zones (1 to 6) and various Integrated Travel Cards are available.[151]
+Barcelona is served by an extensive local public transport network that includes a metro system, a bus network, a regional railway system, trams, funiculars, rack railways, a Gondola lift and aerial cable cars. These networks and lines are run by a number of different operators but they are integrated into a coordinated fare system, administered by the Autoritat del Transport Metropolità (ATM). The system is divided into fare zones (1 to 6) and various Integrated Travel Cards are available.[151]
 
 The Barcelona Metro network comprises twelve lines, identified by an "L" followed by the line number as well as by individual colours. The Metro largely runs underground; eight Metro lines are operated on dedicated track by the Transports Metropolitans de Barcelona (TMB), whilst four lines are operated by the Ferrocarrils de la Generalitat de Catalunya (FGC) and some of them share tracks with RENFE commuter lines.
 
@@ -346,7 +332,7 @@ In addition to the city Metro, several regional rail lines operated by RENFE's R
 
 Tram
 
-Barcelona_Tram_01.jpg The city's two modern tram systems, Trambaix and Trambesòs, are operated by TRAMMET.[152] A heritage tram line, the Tramvia Blau, also operates between the metro Line 7 and the Funicular del Tibidabo.[153]
+The city's two modern tram systems, Trambaix and Trambesòs, are operated by TRAMMET.[152] A heritage tram line, the Tramvia Blau, also operates between the metro Line 7 and the Funicular del Tibidabo.[153]
 
 Funicular and cable car
 
@@ -360,13 +346,13 @@ The Estació del Nord (Northern Station), a former railway station which was ren
 
 Taxi
 
-14-08-06-barcelona-RalfR-222.jpg Barcelona has a metered taxi fleet governed by the Institut Metropolità del Taxi (Metropolitan Taxi Institute), composed of more than 10,000 cars. Most of the licences are in the hands of self-employed drivers. With their black and yellow livery, Barcelona's taxis are easily spotted, and can be caught from one of many taxi ranks, hailed on street, called by telephone or via app.[154][155]
+Barcelona has a metered taxi fleet governed by the Institut Metropolità del Taxi (Metropolitan Taxi Institute), composed of more than 10,000 cars. Most of the licences are in the hands of self-employed drivers. With their black and yellow livery, Barcelona's taxis are easily spotted, and can be caught from one of many taxi ranks, hailed on street, called by telephone or via app.[154][155]
 
 On 22 March 2007,[156] Barcelona's City Council started the Bicing service, a bicycle service understood as a public transport. Once the user has their user card, they can take a bicycle from any of the more than 400 stations spread around the city and use it anywhere the urban area of the city, and then leave it at another station.[157] The service has been a success, with 50,000 subscribed users in three months.[158]
 
 Roads and highways
 
-BCN-rdaDalt-9976sh.jpg in Barcelona.]]
+in Barcelona.]]
 
 Barcelona lies on three international routes, including European route E15 that follows the Mediterranean coast, European route E90 to Madrid and Lisbon, and European route E09 to Paris. It is also served by a comprehensive network of motorways and highways throughout the metropolitan area, including A-2, A-7/AP-7, C-16, C-17, C-31, C-32, C-33, C-60.
 
@@ -377,7 +363,7 @@ The city's main arteries include Diagonal Avenue, which crosses it diagonally, M
 
 Main sights
 
-Sagrada_Familia_01.jpg church, designed by Gaudí]]
+church, designed by Gaudí]]
 
 The _Barri Gòtic_ (Catalan for "Gothic Quarter") is the centre of the old city of Barcelona. Many of the buildings date from medieval times, some from as far back as the Roman settlement of Barcelona. Catalan _modernista_ architecture (related to the movement known as Art Nouveau in the rest of Europe) developed between 1885 and 1950 and left an important legacy in Barcelona. Several of these buildings are World Heritage Sites. Especially remarkable is the work of architect Antoni Gaudí, which can be seen throughout the city. His best-known work is the immense but still unfinished church of the Sagrada Família, which has been under construction since 1882 and is still financed by private donations. , completion is planned for 2026.[160]
 
@@ -385,35 +371,35 @@ Barcelona was also home to Mies van der Rohe's Barcelona Pavilion. Designed in 1
 
 Barcelona won the 1999 RIBA Royal Gold Medal for its architecture,[161] the first (and , only) time that the winner has been a city rather than an individual architect.
 
-Barcelona_-_Plaça_Reial.jpg]]
+]]
 
 World Heritage Sites
 
 Barcelona is the home of many points of interest declared World Heritage Sites by UNESCO:[162]
 
-+-------------+----------------------------------+--------------------------------------------+-----------------------------+----------------------------------------+
-|             | 14-08-06-barcelona-RalfR-241.jpg | Palau_Güell,_Antoni_Gaudi,_Barcelona_2.jpg | Casa_Milà,_general_view.jpg | Casa_Vicens,_Barcelona_-_panoramio.jpg |
-+=============+==================================+============================================+=============================+========================================+
-| Name        | Park Güell                       | Palau Güell                                | Casa Milà                   | Casa Vicens                            |
-+-------------+----------------------------------+--------------------------------------------+-----------------------------+----------------------------------------+
-| Code, year  | 320–001, 1984                    | 320–002, 1984                              | 320–003, 1984               | 320–004, 2005                          |
-+-------------+----------------------------------+--------------------------------------------+-----------------------------+----------------------------------------+
-| Coordinates |                                  |                                            |                             |                                        |
-+-------------+----------------------------------+--------------------------------------------+-----------------------------+----------------------------------------+
++-------------+---------------+---------------+---------------+---------------+
+|             |               |               |               |               |
++=============+===============+===============+===============+===============+
+| Name        | Park Güell    | Palau Güell   | Casa Milà     | Casa Vicens   |
++-------------+---------------+---------------+---------------+---------------+
+| Code, year  | 320–001, 1984 | 320–002, 1984 | 320–003, 1984 | 320–004, 2005 |
++-------------+---------------+---------------+---------------+---------------+
+| Coordinates |               |               |               |               |
++-------------+---------------+---------------+---------------+---------------+
 
-+-------------+--------------------------------------------+------------------+-------------------------------------------+---------------------------------------------+
-|             | 15-10-28-Sagrada_Familia-WMA_3127-3136.jpg | Batllo_House.jpg | Palau_de_la_Música_-_Interior_general.JPG | Hospital_de_la_Santa_Creu_i_Sant_Pau_24.jpg |
-+=============+============================================+==================+===========================================+=============================================+
-| Name        | Sagrada Família                            | Casa Batlló      | Palau de la Música Catalana               | Hospital de Sant Pau                        |
-+-------------+--------------------------------------------+------------------+-------------------------------------------+---------------------------------------------+
-| Code, year  | 320–005, 2005                              | 320–006, 2005    | 804–001, 1997                             | 804–002, 1997                               |
-+-------------+--------------------------------------------+------------------+-------------------------------------------+---------------------------------------------+
-| Coordinates |                                            |                  |                                           |                                             |
-+-------------+--------------------------------------------+------------------+-------------------------------------------+---------------------------------------------+
++-------------+-----------------+---------------+-----------------------------+----------------------+
+|             |                 |               |                             |                      |
++=============+=================+===============+=============================+======================+
+| Name        | Sagrada Família | Casa Batlló   | Palau de la Música Catalana | Hospital de Sant Pau |
++-------------+-----------------+---------------+-----------------------------+----------------------+
+| Code, year  | 320–005, 2005   | 320–006, 2005 | 804–001, 1997               | 804–002, 1997        |
++-------------+-----------------+---------------+-----------------------------+----------------------+
+| Coordinates |                 |               |                             |                      |
++-------------+-----------------+---------------+-----------------------------+----------------------+
 
 Historic buildings and monuments
 
-Barcelona_Cathedral_Santa_Eulalia_11.jpg]]
+]]
 
 -   Minor basilica of Sagrada Família, the symbol of Barcelona.
 -   Palau de la Música Catalana and Hospital de Sant Pau, designed by Lluís Domènech i Montaner, included in the UNESCO Heritage List in 1997.
@@ -431,7 +417,7 @@ Barcelona_Cathedral_Santa_Eulalia_11.jpg]]
 
 Museums
 
-Palau_Nacional_Barcelona_Pano_2013.jpg stands out for its collection of Romanesque painting, considered one of the most complete in Europe.]]
+stands out for its collection of Romanesque painting, considered one of the most complete in Europe.]]
 
 Barcelona has a great number of museums, which cover different areas and eras. The National Museum of Art of Catalonia possesses a well-known collection of Romanesque art, while the Barcelona Museum of Contemporary Art focuses on post-1945 Catalan and Spanish art. The Fundació Joan Miró, Picasso Museum, and Fundació Antoni Tàpies hold important collections of these world-renowned artists, as well as the Can Framis Museum, focused on post-1960 Catalan Art owned by Fundació Vila Casas. Several museums cover the fields of history and archaeology, like the Barcelona City History Museum (MUHBA), the Museum of the History of Catalonia, the Archeology Museum of Catalonia, the Barcelona Maritime Museum, and the privately owned Egyptian Museum. The Erotic museum of Barcelona is among the most peculiar ones, while CosmoCaixa is a science museum that received the European Museum of the Year Award in 2006.
 
@@ -441,13 +427,13 @@ The FC Barcelona Museum has been the most visited museum in the city of Barcelon
 
 Parks
 
-Parc_de_la_Ciutadella_Barcelona_Mai_2013.jpg north of La Barceloneta]] Barcelona contains sixty municipal parks, twelve of which are historic, five of which are thematic (botanical), forty-five of which are urban, and six of which are forest.[163] They range from vest-pocket parks to large recreation areas. The urban parks alone cover 10% of the city ().[164] The total park surface grows about per year,[165] with a proportion of of park area per inhabitant.[166]
+north of La Barceloneta]] Barcelona contains sixty municipal parks, twelve of which are historic, five of which are thematic (botanical), forty-five of which are urban, and six of which are forest.[163] They range from vest-pocket parks to large recreation areas. The urban parks alone cover 10% of the city ().[164] The total park surface grows about per year,[165] with a proportion of of park area per inhabitant.[166]
 
 Of Barcelona's parks, Montjuïc is the largest, with 203 ha located on the mountain of the same name.[167] It is followed by Parc de la Ciutadella (which occupies the site of the old military citadel and which houses the Parliament building, the Barcelona Zoo, and several museums); including the zoo), the Guinardó Park (), Park Güell (designed by Antoni Gaudí; ), Oreneta Castle Park (also ), Diagonal Mar Park (, inaugurated in 2002), Nou Barris Central Park (), Can Dragó Sports Park and Poblenou Park (both ), the Labyrinth Park (), named after the garden maze it contains.[168] There are also several smaller parks, for example, the Parc de Les Aigües (). A part of the Collserola Park is also within the city limits. PortAventura World, one of the largest resort in Europe, with 5,837,509 visitors per year, is located one hour's drive from Barcelona.[169][170] Also, within the city lies Tibidabo Amusement Park, a smaller amusement park in Plaza del Tibidabo, with the Muntanya Russa amusement ride.
 
 Beaches
 
-Platges_de_Barcelona.svg Barcelona beach was listed as number one in a list of the top ten city beaches in the world according to _National Geographic_[171] and _Discovery Channel_.[172] Barcelona contains seven beaches, totalling of coastline. Sant Sebastià, Barceloneta and Somorrostro beaches, both in length,[173] are the largest, oldest and the most-frequented beaches in Barcelona.
+Barcelona beach was listed as number one in a list of the top ten city beaches in the world according to _National Geographic_[171] and _Discovery Channel_.[172] Barcelona contains seven beaches, totalling of coastline. Sant Sebastià, Barceloneta and Somorrostro beaches, both in length,[173] are the largest, oldest and the most-frequented beaches in Barcelona.
 
 The Olympic Harbour separates them from the other city beaches: Nova Icària, Bogatell, Mar Bella, Nova Mar Bella and Llevant. These beaches (ranging from were opened as a result of the city restructuring to host the 1992 Summer Olympics, when a great number of industrial buildings were demolished. At present, the beach sand is artificially replenished given that storms regularly remove large quantities of material. The 2004 Universal Forum of Cultures left the city a large concrete bathing zone on the eastmost part of the city's coastline. Most recently, Llevant is the first beach to allow dogs access during summer season.
 
@@ -460,7 +446,7 @@ International relations
 
 Twin towns and sister cities
 
-Barcelona.sarajevo.mural.jpg.]] Barcelona is twinned with the following cities:^((in\ chronological\ order))[174]
+.]] Barcelona is twinned with the following cities:^((in\ chronological\ order))[174]
 
 -   Montpellier, France, 1963[175]
 

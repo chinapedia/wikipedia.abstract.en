@@ -1,4 +1,4 @@
-Fufuprep.jpg.]] This article is about the demographic features of the population of the Democratic Republic of the Congo, including ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
+.]] This article is about the demographic features of the population of the Democratic Republic of the Congo, including ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
 As many as 250 ethnic groups have been distinguished and named. The most numerous people are the Luba, Mongo, and Bakongo.
 
@@ -159,7 +159,7 @@ Ethnic groups
 
 More than 250 ethnic groups have been identified and named of which the majority are Bantu. The four largest groups - Mongo, Luba, Kongo (all Bantu), and the Mangbetu-Azande make up about 45% of the population. The country has also 60,000 White Congolese most of Belgian ancestry who remained after independence.
 
-Mongo_family_in_Equateur_Province.jpg.]] Bantu peoples (80%):
+.]] Bantu peoples (80%):
 
     Luba (18%), Mongo (17%), Kongo (12%)
     Others: Ambala, Ambuun, Angba, Babindi, Baboma, Baholo, Balunda, Bangala, Bango, Batsamba, Bazombe, Bemba, Bembe, Bira, Bowa, Dikidiki, Dzing, Fuliru, Havu, Hema, Hima, Hunde, Hutu, Iboko, Kanioka, Kaonde, Kuba, Kumu, Kwango, Lengola, Lokele, Lupu, Lwalwa, Mbala, Mbole, Mbuza (Budja), Nande, Ngoli, Bangoli, Ngombe, Nkumu, Nyanga, Pende, Popoi, Poto, Sango, Shi, Songo, Sukus, Tabwa, Tchokwé, Téké, Tembo, Tetela, Topoke, Tutsi, Ungana, Vira, Wakuti, Yaka, Yakoma, Yanzi, Yeke, Yela etc.
@@ -199,7 +199,7 @@ Joshua Project figures: Roman Catholic 43.9%, Protestant 24.8%, Other Christian 
 
 Other demographic statistics
 
-Congo_dem_demographie.png, year 2005 ; Number of inhabitants in thousands.]] Congopop.svg Demographic statistics according to the World Population Review in 2019.[11]
+, year 2005 ; Number of inhabitants in thousands.]] Demographic statistics according to the World Population Review in 2019.[11]
 
 -   One birth every 9 seconds
 -   One death every 40 seconds

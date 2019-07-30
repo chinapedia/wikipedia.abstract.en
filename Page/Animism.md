@@ -15,7 +15,7 @@ Earlier anthropological perspectives, which have since been termed the "old anim
 
 Edward Tylor's definition
 
-Edward_Burnett_Tylor.jpg developed animism as an anthropological theory.]]
+developed animism as an anthropological theory.]]
 
 The idea of animism was developed by the anthropologist Sir Edward Tylor in his 1871 book _Primitive Culture_, in which he defined it as "the general doctrine of souls and other spiritual beings in general". According to Tylor, animism often includes "an idea of pervading life and will in nature";[12] a belief that natural objects other than humans have souls. That formulation was little different from that proposed by Auguste Comte as "fetishism",[13] but the terms now have distinct meanings.
 
@@ -41,7 +41,7 @@ The new animism
 
 Many anthropologists ceased using the term "animism", deeming it to be too close to early anthropological theory and religious polemic. However, the term had also been claimed by religious groups – namely indigenous communities and nature worshipers – who felt that it aptly described their own beliefs, and who in some cases actively identified as "animists". It was thus readopted by various scholars, however they began using the term in a different way, placing the focus on knowing how to behave toward other persons, some of whom aren't human. As the religious studies scholar Graham Harvey stated, while the "old animist" definition had been problematic, the term "animism" was nevertheless "of considerable value as a critical, academic term for a style of religious and cultural relating to the world."
 
-Hombres_ojibwe.jpg chiefs in the 19th century; it was anthropological studies of Ojibwe religion that resulted in the development of the "new animism".]] The "new animism" emerged largely from the publications of the anthropologist Irving Hallowell which were produced on the basis of his ethnographic research among the Ojibwe communities of Canada in the mid-20th century. For the Ojibwe encountered by Hallowell, _personhood_ did not require human-likeness, but rather humans were perceived as being like other persons, who for instance included rock persons and bear persons. For the Ojibwe, these persons were each wilful beings who gained meaning and power through their interactions with others; through respectfully interacting with other persons, they themselves learned to "act as a person". Hallowell's approach to the understanding of Ojibwe personhood differed strongly from prior anthropological concepts of animism. He emphasized the need to challenge the modernist, Western perspectives of what a person is by entering into a dialogue with different worldwide-views.
+chiefs in the 19th century; it was anthropological studies of Ojibwe religion that resulted in the development of the "new animism".]] The "new animism" emerged largely from the publications of the anthropologist Irving Hallowell which were produced on the basis of his ethnographic research among the Ojibwe communities of Canada in the mid-20th century. For the Ojibwe encountered by Hallowell, _personhood_ did not require human-likeness, but rather humans were perceived as being like other persons, who for instance included rock persons and bear persons. For the Ojibwe, these persons were each wilful beings who gained meaning and power through their interactions with others; through respectfully interacting with other persons, they themselves learned to "act as a person". Hallowell's approach to the understanding of Ojibwe personhood differed strongly from prior anthropological concepts of animism. He emphasized the need to challenge the modernist, Western perspectives of what a person is by entering into a dialogue with different worldwide-views.
 
 Hallowell's approach influenced the work of anthropologist Nurit Bird-David, who produced a scholarly article reassessing the idea of animism in 1999. Seven comments from other academics were provided in the journal, debating Bird-David's ideas.
 
@@ -60,7 +60,7 @@ The religious studies scholar Graham Harvey defined animism as the belief "that 
 
 Religion
 
-Shaman_tableau.png" in the literature]] Autel_animiste._Village_Bozo,_Mopti,_Bandiagara,_Mali._Date_du_cliché_25-12-1972.jpg village, Mopti, Bandiagara, Mali in 1972]]
+" in the literature]] village, Mopti, Bandiagara, Mali in 1972]]
 
 There is ongoing disagreement (and no general consensus) as to whether animism is merely a singular, broadly encompassing religious belief[29] or a worldview in and of itself, comprising many diverse mythologies found worldwide in many diverse cultures.[30][31] This also raises a controversy regarding the ethical claims animism may or may not make: whether animism ignores questions of ethics altogether[32] or, by endowing various non-human elements of nature with spirituality or personhood,[33] in fact promotes a complex ecological ethics.[34]
 

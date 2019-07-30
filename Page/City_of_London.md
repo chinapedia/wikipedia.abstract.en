@@ -13,7 +13,7 @@ History
 
 Origins
 
-Horned_helmet.jpg, c. 150–50 BC, found in the River Thames]] London_Wall_fragment.jpg, built around AD 200, close to Tower Hill]]
+, c. 150–50 BC, found in the River Thames]] , built around AD 200, close to Tower Hill]]
 
 Known as "Londinium", the Roman legions established a settlement on the current site of the City of London around AD 43. Its bridge over the River Thames turned the city into a road nexus and major port, serving as a major commercial centre in Roman Britain until its abandonment during the 5th century. Archaeologist Leslie Wallace notes that, because extensive archaeological excavation has not revealed any signs of a significant pre-Roman presence, "arguments for a purely Roman foundation of London are now common and uncontroversial."[11]
 
@@ -25,7 +25,7 @@ By the time the London Wall was constructed, the City's fortunes were in decline
 
 Anglo-Saxon restoration
 
-During the Anglo-Saxon Heptarchy, the London area came in turn under the Kingdoms of Essex, Mercia, and later Wessex, though from the mid 8th century it was frequently under the control or threat of the Vikings. Southwark_Bridge_City_Plaque.JPG noting the activities around the time of King Alfred.]]
+During the Anglo-Saxon Heptarchy, the London area came in turn under the Kingdoms of Essex, Mercia, and later Wessex, though from the mid 8th century it was frequently under the control or threat of the Vikings. noting the activities around the time of King Alfred.]]
 
 Bede records that in AD 604 St Augustine consecrated Mellitus as the first bishop to the Anglo-Saxon kingdom of the East Saxons and their king, Sæberht. Sæberht's uncle and overlord, Æthelberht, king of Kent, built a church dedicated to St Paul in London, as the seat of the new bishop.[13] It is assumed, although unproven, that this first Anglo-Saxon cathedral stood on the same site as the later medieval and the present cathedrals.
 
@@ -39,7 +39,7 @@ As the focus of trade and population was moved back to within the old Roman wall
 
 Medieval era
 
-Map_of_London,_1300.svg DeathWatTyler.jpg, 1381: their leader Wat Tyler is stabbed by William Walworth, Lord Mayor]] Following the Battle of Hastings, William the Conqueror marched on London _(reaching as far as Southwark)_, but failed to get across London Bridge or to defeat the Londoners. He eventually crossed the River Thames at Wallingford, pillaging the land as he went. Rather than continuing the war, Edgar the Ætheling, Edwin of Mercia and Morcar of Northumbria surrendered at Berkhamsted. William granted the citizens of London a charter in 1075; the City was one of a few examples of the English retaining some authority. The City was not covered by the Domesday Book.
+, 1381: their leader Wat Tyler is stabbed by William Walworth, Lord Mayor]] Following the Battle of Hastings, William the Conqueror marched on London _(reaching as far as Southwark)_, but failed to get across London Bridge or to defeat the Londoners. He eventually crossed the River Thames at Wallingford, pillaging the land as he went. Rather than continuing the war, Edgar the Ætheling, Edwin of Mercia and Morcar of Northumbria surrendered at Berkhamsted. William granted the citizens of London a charter in 1075; the City was one of a few examples of the English retaining some authority. The City was not covered by the Domesday Book.
 
 William built three castles nearby, to keep Londoners subdued:
 
@@ -53,7 +53,7 @@ From medieval times, the City has been composed of 25 ancient wards, each headed
 
 In 1381, the Peasants' Revolt affected London. The rebels took the City and the Tower of London, but the rebellion ended after its leader, Wat Tyler, was killed during a confrontation that included Lord Mayor William Walworth.
 
-Civitas_Londinium_or_The_Agas_Map_of_London.jpg, dating from the 1560s]] Great_fire_of_london_map.png, which destroyed nearly 80% of the City]] Great_Fire_London.jpg
+, dating from the 1560s]] , which destroyed nearly 80% of the City]]
 
 The City was burnt severely on a number of occasions, the worst being in 1123 and (more famously) in the Great Fire of London in 1666. Both of these fires were referred to as _the_ Great Fire. After the fire of 1666, a number of plans were drawn up to remodel the City and its street pattern into a renaissance-style city with planned urban blocks, squares and boulevards. These plans were almost entirely not taken up, and the medieval street pattern re-emerged almost intact.
 
@@ -71,7 +71,7 @@ Expansion continued and became more rapid by the beginning of the 19th century, 
 
 19th and 20th centuries
 
-An attempt was made in 1894 with the Royal Commission on the Amalgamation of the City and County of London to end the distinction between the City and the surrounding County of London, but a change of government at Westminster meant the option was not taken up. The City as a distinct polity survived despite its position within the London conurbation and numerous local government reforms. Supporting this status, the City was a special parliamentary borough that elected four members to the unreformed House of Commons, who were retained after the Reform Act 1832; reduced to two under the Redistribution of Seats Act 1885; and ceased to be a separate constituency under the Representation of the People Act 1948. Since then the City is a minority (in terms of population and area) of the Cities of London and Westminster. St_Pauls_Cathedral_in_1896.JPG, 1896.]]
+An attempt was made in 1894 with the Royal Commission on the Amalgamation of the City and County of London to end the distinction between the City and the surrounding County of London, but a change of government at Westminster meant the option was not taken up. The City as a distinct polity survived despite its position within the London conurbation and numerous local government reforms. Supporting this status, the City was a special parliamentary borough that elected four members to the unreformed House of Commons, who were retained after the Reform Act 1832; reduced to two under the Redistribution of Seats Act 1885; and ceased to be a separate constituency under the Representation of the People Act 1948. Since then the City is a minority (in terms of population and area) of the Cities of London and Westminster. , 1896.]]
 
 The City's population fell rapidly in the 19th century and through most of the 20th century, as people moved outwards in all directions to London's vast suburbs, and many residential buildings were demolished to make way for office blocks. Like many areas of London and other British cities, the City fell victim to large scale and highly destructive aerial bombing during World War II, especially in the Blitz. Whilst St Paul's Cathedral survived the onslaught, large swathes of the area did not and the particularly heavy raids of late December 1940 led to a firestorm called the Second Great Fire of London.
 
@@ -88,7 +88,7 @@ _For a history of the etymology behind the City's streets see: Street names of t
 
 Governance
 
-Guildhall,_Londres,_Inglaterra,_2014-08-11,_DD_139.JPG is the ceremonial and administrative centre of the City.]] London_MMB_»2K9_Mansion_House.jpg is the official residence of the Lord Mayor.]] Lord_Mayor_of_London_-_John_Stuttard_-_Nov_2006.jpg, Lord Mayor of the City of London 2006–2007, during the Lord Mayor's Show of 2006.]] The City has a unique political status, a legacy of its uninterrupted integrity as a corporate city since the Anglo-Saxon period and its singular relationship with the Crown. Historically its system of government was not unusual, but it was not reformed by the Municipal Reform Act 1835 and little changed by later reforms.
+is the ceremonial and administrative centre of the City.]] is the official residence of the Lord Mayor.]] , Lord Mayor of the City of London 2006–2007, during the Lord Mayor's Show of 2006.]] The City has a unique political status, a legacy of its uninterrupted integrity as a corporate city since the Anglo-Saxon period and its singular relationship with the Crown. Historically its system of government was not unusual, but it was not reformed by the Municipal Reform Act 1835 and little changed by later reforms.
 
 It is administered by the City of London Corporation, headed by the Lord Mayor of London (_not the same as the more recent Mayor of London_), which is responsible for a number of functions and has interests in land beyond the City's boundaries. Unlike other English local authorities, the Corporation has two council bodies: the (now largely ceremonial) Court of Aldermen and the Court of Common Council. The Court of Aldermen represents the wards, with each ward (irrespective of size) returning one Alderman. The chief executive of the Corporation holds the ancient office of Town Clerk of London.
 
@@ -103,8 +103,6 @@ The wards are ancient and their number has changed three times since time immemo
 -   in 1394 Farringdon was divided into Farringdon Within and Farringdon Without
 -   in 1550 the ward of Bridge Without, south of the river, was created, the ward of Bridge becoming Bridge Within;[22]
 -   in 1978 these Bridge wards were merged as Bridge ward.[23]
-
-City_of_London_Ward_Map,_1870.svg City_of_London_UK_labelled_ward_map_2003.svg
 
 Following boundary changes in 1994, and later reform of the business vote in the City, there was a major boundary and electoral representation revision of the wards in 2003, and they were reviewed again in 2010 for change in 2013, though not to such a dramatic extent. The review was conducted by senior officers of the Corporation and senior judges of the Old Bailey;[24] the wards are reviewed by this process to avoid malapportionment. The procedure of review is unique in the United Kingdom as it is not conducted by the Electoral Commission or a local government boundary commission every 8 to 12 years, which is the case for all other wards in Great Britain. Particular churches, livery company halls and other historic buildings and structures are associated with a ward, such as St Paul's Cathedral with Castle Baynard, and London Bridge with Bridge; boundary changes in 2003 removed some of these historic connections.
 
@@ -145,7 +143,7 @@ Inner Temple and Middle Temple (which neighbour each other) are two of the few r
 
 Other functions
 
-Leadenhall_Market_In_London_-_Feb_2006.jpg is a historic market nestled between Gracechurch Street and Lime Street.]] Within the City, the Corporation owns and runs both Smithfield Market and Leadenhall Market. It owns land beyond its boundaries, including open spaces (parks, forests and commons) in and around Greater London, including most of Epping Forest, Hampstead Heath. The Honourable The Irish Society, a body closely linked with the Corporation, also owns many public spaces in Northern Ireland. The Corporation owns Old Spitalfields Market and Billingsgate Fish Market, in the neighbouring London Borough of Tower Hamlets. It owns and helps fund the Old Bailey, the Central Criminal Court for England and Wales, as a gift to the nation, having begun as the City and Middlesex Sessions.
+is a historic market nestled between Gracechurch Street and Lime Street.]] Within the City, the Corporation owns and runs both Smithfield Market and Leadenhall Market. It owns land beyond its boundaries, including open spaces (parks, forests and commons) in and around Greater London, including most of Epping Forest, Hampstead Heath. The Honourable The Irish Society, a body closely linked with the Corporation, also owns many public spaces in Northern Ireland. The Corporation owns Old Spitalfields Market and Billingsgate Fish Market, in the neighbouring London Borough of Tower Hamlets. It owns and helps fund the Old Bailey, the Central Criminal Court for England and Wales, as a gift to the nation, having begun as the City and Middlesex Sessions.
 
 The City has its own independent police force, the City of London Police—the Common Council (the main body of the Corporation) is the police authority.[33] The rest of Greater London is policed by the Metropolitan Police Service, based at New Scotland Yard.
 
@@ -157,7 +155,7 @@ The London Port Health Authority, which is the responsibility of the Corporation
 
 The boundary of the City
 
-City_of_London_Sign_-_geograph.org.uk_-_1304788.jpg]] The size of the City was constrained by a defensive perimeter wall, known as London Wall, which was built by the Romans in the late 2nd century to protect their strategic port city. However the boundaries of the City of London no longer coincide with the old city wall, as the City expanded its jurisdiction slightly over time. During the medieval era, the City's jurisdiction expanded westwards, crossing the historic western border of the original settlement—the River Fleet—along Fleet Street to Temple Bar. The City also took in the other "City bars" which were situated just beyond the old walled area, such as at Holborn, Aldersgate, Bishopsgate and Aldgate. These were the important entrances to the City and their control was vital in maintaining the City's special privileges over certain trades. Temple-bar-griffin.jpg monument, which marks the boundary between the City of London and City of Westminster.]]
+]] The size of the City was constrained by a defensive perimeter wall, known as London Wall, which was built by the Romans in the late 2nd century to protect their strategic port city. However the boundaries of the City of London no longer coincide with the old city wall, as the City expanded its jurisdiction slightly over time. During the medieval era, the City's jurisdiction expanded westwards, crossing the historic western border of the original settlement—the River Fleet—along Fleet Street to Temple Bar. The City also took in the other "City bars" which were situated just beyond the old walled area, such as at Holborn, Aldersgate, Bishopsgate and Aldgate. These were the important entrances to the City and their control was vital in maintaining the City's special privileges over certain trades. monument, which marks the boundary between the City of London and City of Westminster.]]
 
 Most of the wall has disappeared, but several sections remain visible. A section near the Museum of London was revealed after the devastation of an air raid on 29 December 1940 at the height of the Blitz. Other visible sections are at St Alphage, and there are two sections near the Tower of London. The River Fleet was canalised after the Great Fire of 1666 and then in stages was bricked up and has been since the 18th century one of London's "lost rivers or streams", today underground as a storm drain.
 
@@ -167,7 +165,7 @@ Southwark, to the south of the City on the other side of the Thames, was within 
 
 Arms, motto and flag
 
-Arms_of_the_City_of_London_on_an_horse_blanket_2011.jpg during the Lord Mayor's Show, 2011.]] The Corporation of the City of London has a full achievement of armorial bearings consisting of a shield on which the arms are displayed, a crest displayed on a helm above the shield, supporters on either side and a motto displayed on a scroll beneath the arms.[37][38][39]
+during the Lord Mayor's Show, 2011.]] The Corporation of the City of London has a full achievement of armorial bearings consisting of a shield on which the arms are displayed, a crest displayed on a helm above the shield, supporters on either side and a motto displayed on a scroll beneath the arms.[37][38][39]
 
 The coat of arms is "anciently recorded" at the College of Arms. The arms consist of a silver shield bearing a red cross with a red upright sword in the first quarter. They combine the emblems of the patron saints of England and London: the Cross of St George with the symbol of the martyrdom of Saint Paul.[40][41] The sword is often erroneously supposed to commemorate the killing of Peasants' Revolt leader Wat Tyler by Lord Mayor of London William Walworth. However the arms were in use some months before Tyler's death, and the tradition that Walworth's dagger is depicted may date from the late 17th century.[42][43][44][45]
 
@@ -184,7 +182,7 @@ The elevation of the City ranges from sea level at the Thames to at the junction
 
 Boundary
 
-City_of_London_map_01.svgs and the pre-1994 boundary (where changed) in red. The area covered by the Inner and Middle Temple is marked.]] Official boundary map, with wards.
+s and the pre-1994 boundary (where changed) in red. The area covered by the Inner and Middle Temple is marked.]] Official boundary map, with wards.
 
 Beginning in the west, where the City borders Westminster, the boundary crosses the Victoria Embankment from the Thames, passes to the west of Middle Temple, then turns for a short distance along Strand and then north up Chancery Lane, where it borders Camden. It turns east along Holborn to Holborn Circus, and then goes north east to Charterhouse Street. As it crosses Farringdon Road it becomes the boundary with Islington. It continues to Aldersgate, goes north, and turns east into some back streets soon after Aldersgate becomes Goswell Road, since 1994 embracing all of the Corporation's Golden Lane Estate. Here, at Baltic Street West, is the most northerly extent. The boundary includes all of the Barbican Estate and continues east along Ropemaker Street and its continuation on the other side of Moorgate, becomes South Place. It goes north, reaching the border with Hackney, then east, north, east on back streets, with Worship Street forming a northern boundary, so as to include the Broadgate estate. The boundary then turns south at Norton Folgate and becomes the border with Tower Hamlets. It continues south into Bishopsgate, and takes some backstreets to Middlesex Street (Petticoat Lane) where it continues south-east then south. It then turns south-west, crossing the Minories so as to exclude the Tower of London, and then reaches the river. It then runs up the centre of the Thames, with the exception that Blackfriars Bridge falls within the City; the City controls London Bridge (as part of Bridge ward) but only half of the river underneath it, a feature which is unique in British local administration.
 
@@ -194,7 +192,7 @@ In some places the financial district extends slightly beyond the boundaries, no
 
 Gardens and public art
 
-Finsbury_Circus.jpg, the largest public open space, seen from Tower 42]] The City has no sizeable parks within its boundary, but does have a network of a large number of gardens and small open spaces, many of them maintained by the Corporation. These range from formal gardens such as the one in Finsbury Circus, containing a bowling green and bandstand, to churchyards such as St Olave Hart Street, to water features and artwork in courtyards and pedestrianised lanes.[49]
+, the largest public open space, seen from Tower 42]] The City has no sizeable parks within its boundary, but does have a network of a large number of gardens and small open spaces, many of them maintained by the Corporation. These range from formal gardens such as the one in Finsbury Circus, containing a bowling green and bandstand, to churchyards such as St Olave Hart Street, to water features and artwork in courtyards and pedestrianised lanes.[49]
 
 Gardens include:
 
@@ -229,11 +227,9 @@ The station holds the record for the highest British mean monthly temperature,[5
 
 Public services
 
-Domine_Dirige_Nos_-_geograph.org.uk_-_1111983.jpg
-
 Police and security
 
-City_of_London_Police_Mitsubishi.jpg]] The City is a police area and has its own police force, the City of London Police, separate from the Metropolitan Police Service covering the remainder of Greater London. The City Police have three police stations, at Snow Hill, Wood Street and Bishopsgate, and an administrative headquarters at Guildhall Yard East.[62] The force comprises 735 police officers including 273 detectives.[63] It is the smallest territorial police force in England and Wales, in both geographic area and the number of police officers.
+]] The City is a police area and has its own police force, the City of London Police, separate from the Metropolitan Police Service covering the remainder of Greater London. The City Police have three police stations, at Snow Hill, Wood Street and Bishopsgate, and an administrative headquarters at Guildhall Yard East.[62] The force comprises 735 police officers including 273 detectives.[63] It is the smallest territorial police force in England and Wales, in both geographic area and the number of police officers.
 
 Where the majority of British police forces have silver-coloured badges, those of the City of London Police are black and gold featuring the City crest. The force has unique red and white chequered cap bands and red and white striped duty arm bands on the sleeve of the tunics of constables and sergeants (red and white being the colours of the City), which in most other British police forces are black and white. City police sergeants and constables wear crested helmets whilst on foot patrol. These helmets do not feature either St Edward's Crown or the Brunswick Star, which are used on most other police helmets in England and Wales.
 
@@ -261,7 +257,7 @@ The City's full-time working residents have much higher gross weekly pay than in
 
 Economy
 
-Banco_de_Inglaterra,_Londres,_Inglaterra,_2014-08-11,_DD_141.JPG, on Threadneedle Street, is the central bank of the United Kingdom.]] The City vies with New York City's Downtown Manhattan as the financial capital of the world; many banking and insurance institutions have their headquarters there. The London Stock Exchange (shares and bonds), Lloyd's of London (insurance) and the Bank of England are all based in the City. Over 500 banks have offices in the City, and the City is an established leader in trading in Eurobonds, foreign exchange, energy futures and global insurance. The Alternative Investment Market, a market for trades in equities of smaller firms, is a recent development. In 2009, the City of London accounted for 2.4% of UK GDP.[78]
+, on Threadneedle Street, is the central bank of the United Kingdom.]] The City vies with New York City's Downtown Manhattan as the financial capital of the world; many banking and insurance institutions have their headquarters there. The London Stock Exchange (shares and bonds), Lloyd's of London (insurance) and the Bank of England are all based in the City. Over 500 banks have offices in the City, and the City is an established leader in trading in Eurobonds, foreign exchange, energy futures and global insurance. The Alternative Investment Market, a market for trades in equities of smaller firms, is a recent development. In 2009, the City of London accounted for 2.4% of UK GDP.[78]
 
 London is the world's greatest foreign exchange market, with much of the trade conducted in the City of London. Of the $3.98 trillion daily global turnover, as measured in 2009, trading in London accounted for around $1.85 trillion, or 46.7% of the total.[79] The pound sterling, the currency of the United Kingdom, is globally the fourth most traded currency and the third most held reserve currency.
 
@@ -269,13 +265,13 @@ Since 1991 Canary Wharf, a few miles east of the City in Tower Hamlets, has beco
 
 Headquarters
 
-Paternoster_Square.jpg, since 2004 the home of the London Stock Exchange]] Many major global companies have their headquarters in the City, including Aviva,[80] BT Group,[81] Lloyds Banking Group,[82] Old Mutual,[83] Prudential,[84] Schroders,[85] Standard Chartered,[86] and Unilever.[87]
+, since 2004 the home of the London Stock Exchange]] Many major global companies have their headquarters in the City, including Aviva,[80] BT Group,[81] Lloyds Banking Group,[82] Old Mutual,[83] Prudential,[84] Schroders,[85] Standard Chartered,[86] and Unilever.[87]
 
 A number of the world's largest law firms are headquartered in the City, including four of the "Magic Circle" law firms (Allen & Overy, Freshfields Bruckhaus Deringer, Linklaters and Slaughter & May), as well as other firms such as DLA Piper, Eversheds Sutherland, Herbert Smith Freehills and Hogan Lovells.
 
 Other sectors
 
-Barbican_Centre_City_of_London.jpg Whilst the financial sector, and related businesses and institutions, continue to dominate, the economy is not limited to that sector. The legal profession has a strong presence, especially in the west and north (i.e., towards the Inns of Court). Retail businesses were once important, but have gradually moved to the West End of London, though it is now Corporation policy to encourage retailing in some locations, for example at Cheapside near St Paul's. The City has a number of visitor attractions, mainly based on its historic heritage as well as the Barbican Centre and adjacent Museum of London, though tourism is not at present a major contributor to the City's economy or character. The City has many pubs, bars and restaurants, and the "night-time" economy does feature in the Bishopsgate area, towards Shoreditch. The meat market at Smithfield, wholly within the City, continues to be one of London's main markets (the only one remaining in central London) and the country's largest meat market. In the east is Leadenhall Market, a fresh food market that is also a visitor attraction.
+Whilst the financial sector, and related businesses and institutions, continue to dominate, the economy is not limited to that sector. The legal profession has a strong presence, especially in the west and north (i.e., towards the Inns of Court). Retail businesses were once important, but have gradually moved to the West End of London, though it is now Corporation policy to encourage retailing in some locations, for example at Cheapside near St Paul's. The City has a number of visitor attractions, mainly based on its historic heritage as well as the Barbican Centre and adjacent Museum of London, though tourism is not at present a major contributor to the City's economy or character. The City has many pubs, bars and restaurants, and the "night-time" economy does feature in the Bishopsgate area, towards Shoreditch. The meat market at Smithfield, wholly within the City, continues to be one of London's main markets (the only one remaining in central London) and the country's largest meat market. In the east is Leadenhall Market, a fresh food market that is also a visitor attraction.
 
 Retail and residential
 
@@ -292,11 +288,9 @@ Fire bombing and post-World War II redevelopment have meant that the City, despi
 
 The Tower of London is not in the City, but is a notable visitor attraction which brings tourists to the southeast of the City. Other landmark buildings with historical significance include the Bank of England, the Old Bailey, the Custom House, Smithfield Market, Leadenhall Market and St Bartholomew's Hospital. Noteworthy contemporary buildings include a number of modern high-rise buildings (see section below) as well as the Lloyd's building.
 
-centre
-
 Skyscrapers and tall buildings
 
-2016-02_City_of_London.jpg (left), the Leadenhall Building (centre) and 30 St Mary Axe (right)]]
+(left), the Leadenhall Building (centre) and 30 St Mary Axe (right)]]
 
 Completed
 
@@ -351,7 +345,7 @@ The timeline of the tallest building in the City is as follows:
 
 Transport
 
-Bank_station_MMB_07.jpg (flanked by City dragons) at Bank station.]] Orilla_Norte_del_Támesis_desde_Tate_Modern,_Londres,_Inglaterra,_2014-08-11,_DD_123.JPG, looking north towards St Paul's Cathedral and the City.]]
+(flanked by City dragons) at Bank station.]] , looking north towards St Paul's Cathedral and the City.]]
 
 Rail
 
@@ -372,7 +366,7 @@ The City is in Travelcard Zone 1.
 
 Road
 
-Space_taken_vs_numbers_in_City_of_London_(transport).png The national A1, A10 A3, A4, and A40 road routes begin in the City. The City is in the London congestion charge zone, with the small exception on the eastern boundary of the sections of the A1210/A1211 that are part of the inner ring road. The following bridges, listed west to east (downstream), cross the River Thames: Blackfriars Bridge, Blackfriars Railway Bridge, Millennium Bridge (footbridge), Southwark Bridge, Cannon Street Railway Bridge and London Bridge; Tower Bridge is not in the City. The City, like most of central London, is well served by buses, including night buses. Two bus stations are in the City, at Aldgate on the eastern boundary with Tower Hamlets, and at Liverpool Street by the railway station. There are approximately 28 Barclays Cycle Hire docking stations in the City.[90] A number of existing and proposed cycle routes criss-cross the City, as part of the London Cycle Network.[91]
+The national A1, A10 A3, A4, and A40 road routes begin in the City. The City is in the London congestion charge zone, with the small exception on the eastern boundary of the sections of the A1210/A1211 that are part of the inner ring road. The following bridges, listed west to east (downstream), cross the River Thames: Blackfriars Bridge, Blackfriars Railway Bridge, Millennium Bridge (footbridge), Southwark Bridge, Cannon Street Railway Bridge and London Bridge; Tower Bridge is not in the City. The City, like most of central London, is well served by buses, including night buses. Two bus stations are in the City, at Aldgate on the eastern boundary with Tower Hamlets, and at Liverpool Street by the railway station. There are approximately 28 Barclays Cycle Hire docking stations in the City.[90] A number of existing and proposed cycle routes criss-cross the City, as part of the London Cycle Network.[91]
 
 River
 
@@ -387,7 +381,7 @@ According to a survey conducted in March 2011, the methods by which employed res
 
 Education
 
-KCLMaughanLibrary2.jpg, King's College London, located on Chancery Lane]] The City has only one directly maintained primary school, Sir John Cass's Foundation Primary School at Aldgate[94] (ages 4 to 11). It is a Voluntary-Aided (VA) Church of England school, maintained by the Education Service of the City of London.
+, King's College London, located on Chancery Lane]] The City has only one directly maintained primary school, Sir John Cass's Foundation Primary School at Aldgate[94] (ages 4 to 11). It is a Voluntary-Aided (VA) Church of England school, maintained by the Education Service of the City of London.
 
 City residents send their children to schools in neighbouring Local Education Authorities, such as Islington, Tower Hamlets, Westminster and Southwark.
 

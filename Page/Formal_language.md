@@ -1,4 +1,4 @@
-Syntax_tree.svg from Chomsky 1957).]] In mathematics, computer science, and linguistics, a FORMAL LANGUAGE consists of words whose letters are taken from an alphabet and are well-formed according to a specific set of rules.
+from Chomsky 1957).]] In mathematics, computer science, and linguistics, a FORMAL LANGUAGE consists of words whose letters are taken from an alphabet and are well-formed according to a specific set of rules.
 
 The alphabet of a formal language consist of symbols, letters, or tokens that concatenate into strings of the language.[1] Each string concatenated from symbols of this alphabet is called a word, and the words that belong to a particular formal language are sometimes called _well-formed words_ or _well-formed formulas_. A formal language is often defined by means of a formal grammar such as a regular grammar or context-free grammar, which consists of its formation rules.
 
@@ -109,7 +109,7 @@ Of course, compilers do more than just parse the source code – they usually tr
 
 Formal theories, systems and proofs
 
-Formal_languages.svg divisions within a formal system. Strings of symbols may be broadly divided into nonsense and well-formed formulas. The set of well-formed formulas is divided into theorems and non-theorems.]]
+divisions within a formal system. Strings of symbols may be broadly divided into nonsense and well-formed formulas. The set of well-formed formulas is divided into theorems and non-theorems.]]
 
 In mathematical logic, a _formal theory_ is a set of sentences expressed in a formal language.
 

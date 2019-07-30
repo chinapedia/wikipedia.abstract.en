@@ -34,7 +34,7 @@ Military career
 
 Sandhurst; Blues and Royals; deployment to Afghanistan
 
-Inspection-New-Colours.JPG, 21 June 2005]] Harry entered the Royal Military Academy Sandhurst on 8 May 2005, where he was known as Officer Cadet Wales, and joined the Alamein Company.[32] In April 2006, Harry completed his officer training and was commissioned as a Cornet (second lieutenant) in the Blues and Royals, a regiment of the Household Cavalry in the British Army. On 13 April 2008, when he reached two years' seniority, Harry was promoted to lieutenant.[33]
+, 21 June 2005]] Harry entered the Royal Military Academy Sandhurst on 8 May 2005, where he was known as Officer Cadet Wales, and joined the Alamein Company.[32] In April 2006, Harry completed his officer training and was commissioned as a Cornet (second lieutenant) in the Blues and Royals, a regiment of the Household Cavalry in the British Army. On 13 April 2008, when he reached two years' seniority, Harry was promoted to lieutenant.[33]
 
 In 2006, it was announced that Harry's unit was scheduled to be deployed in Iraq the following year. A public debate ensued as to whether he should serve there. Defence Secretary John Reid said that he should be allowed to serve on the front line of battle zones. Harry agreed saying, "If they said 'no, you can't go front line' then I wouldn't drag my sorry ass through Sandhurst and I wouldn't be where I am now."[34] The Ministry of Defence and Clarence House made a joint announcement on 22 February 2007 that Harry would be deployed with his regiment to Iraq, as part of the 1st Mechanised Brigade of the 3rd Mechanised Divisiona move supported by Harry, who had stated that he would leave the army if he was told to remain in safety while his regiment went to war.[35] He said: "There's no way I'm going to put myself through Sandhurst and then sit on my arse back home while my boys are out fighting for their country."[36]
 
@@ -50,7 +50,7 @@ Army Air Corps and second deployment to Afghanistan
 
 In October 2008, it was announced that Harry was to follow his brother, father and uncle in learning to fly military helicopters. After passing the initial aptitude test, he was to undertake a month-long course; if he passed that, he would begin full flight training in early 2009.[52]
 
-Harry had to pass his flying assessment at the Army Air Corps Base (AAC), Middle Wallop, the result of which would determine whether he would continue on to train as a pilot of the Apache, Lynx, or Gazelle helicopter.[53] Having reached the requisite standard, Harry attended the Defence Helicopter Flying School at RAF Shawbury, where he joined his brother.[54] Prince_Harry_talks_to_an_injured_soldier.jpg, 15 May 2013]] Prince Charles presented him with his flying brevet (wings) on 7 May 2010 at a ceremony at the Army Air Corps Base (AAC), Middle Wallop. Harry had let it be known he intended to fly Apache attack helicopters if he was successful in passing the rigorous Apache training course. This would allow him to see active military service again on the frontline in Afghanistan.[55]
+Harry had to pass his flying assessment at the Army Air Corps Base (AAC), Middle Wallop, the result of which would determine whether he would continue on to train as a pilot of the Apache, Lynx, or Gazelle helicopter.[53] Having reached the requisite standard, Harry attended the Defence Helicopter Flying School at RAF Shawbury, where he joined his brother.[54] , 15 May 2013]] Prince Charles presented him with his flying brevet (wings) on 7 May 2010 at a ceremony at the Army Air Corps Base (AAC), Middle Wallop. Harry had let it be known he intended to fly Apache attack helicopters if he was successful in passing the rigorous Apache training course. This would allow him to see active military service again on the frontline in Afghanistan.[55]
 
 On 10 March 2011, it was revealed that Harry had passed his Apache flying test and he was awarded his Apache Flying Badge on 14 April 2011.[56] There was speculation he would return to Afghanistan before the withdrawal in 2015. On 16 April 2011, it was announced that Harry had been promoted to captain.[57]
 
@@ -74,7 +74,7 @@ In February and March 2015, Harry visited Phoenix House in Catterick Garrison, N
 
 Secondment to Australian Defence Force and end of active service
 
-Prince_Harry_(17396840192).jpg, May 2015]] On 17 March 2015, Kensington Palace announced that Harry would leave the Armed Forces in June.[86] Before then, he would spend four weeks throughout April and May at army barracks in Darwin, Perth and Sydney whilst seconded to the Australian Defence Force (ADF). After leaving the Army, while considering his future, he would return to work in a voluntary capacity with the Ministry of Defence, supporting Case Officers in the Ministry's Recovery Capability Programme. He would be working with both those who administer and receive physical and mental care within the London District area.[87][88]
+, May 2015]] On 17 March 2015, Kensington Palace announced that Harry would leave the Armed Forces in June.[86] Before then, he would spend four weeks throughout April and May at army barracks in Darwin, Perth and Sydney whilst seconded to the Australian Defence Force (ADF). After leaving the Army, while considering his future, he would return to work in a voluntary capacity with the Ministry of Defence, supporting Case Officers in the Ministry's Recovery Capability Programme. He would be working with both those who administer and receive physical and mental care within the London District area.[87][88]
 
 On 6 April 2015, Harry reported for duty to Australia's Chief of the Defence Force, Air Chief Marshal Mark Binskin at the Royal Military College, Duntroon in Canberra, Australia.[89] Harry flew to Darwin later that day to begin his month-long secondment to the ADF's 1st Brigade. His visit included detachments to NORFORCE as well as to an aviation unit.[90] While in Perth, he trained with Special Air Service Regiment (SASR), participating in the SASR selection course, including a fitness test and a physical training session with SASR selection candidates. He also joined SASR members in Perth for live-fire shooting exercises with numerous Special Forces weapons at a variety of ranges. Harry completed an insertion training exercise using a rigid-hull inflatable boat. In Sydney, he undertook urban operations training with the 2nd Commando Regiment. Training activities included remotely detonating an Improvised Explosive Device (IED) and rappelling from a building. He also spent time flying over Sydney as co-pilot of an Army Black Hawk helicopter and participated in counter-terrorism training in Sydney Harbour with Royal Australian Navy clearance divers.[91]
 
@@ -93,7 +93,7 @@ On 6 January 2009, the Queen granted Harry and William their own royal household
 
 In March 2012, Harry led an official visit to Belize as part of the Queen's Diamond Jubilee celebrations.[98] He continued to the Bahamas and Jamaica, where the Prime Minister, Portia Simpson-Miller, was considering severing ties between Jamaica and the constitutional monarchy.[99] He then visited Brazil to attend the GREAT Campaign.[100]
 
-Prince_Harry_Trooping_the_Colour_cropped.JPG, June 2013]] Between 9 and 15 May 2013, he made an official visit to the United States. The tour promoted the rehabilitation of injured American and UK troops, publicised his own charities and supported British interests. It included engagements in Washington, DC, Colorado, New York, New Jersey, and Connecticut. He met survivors of Hurricane Sandy in New Jersey.[101][102] In October 2013, he visited Australia for his first official visit to the country and attended the International Fleet Review at Sydney Harbour.[103] He also paid a visit to the Australian SAS HQ in Perth.[104]
+, June 2013]] Between 9 and 15 May 2013, he made an official visit to the United States. The tour promoted the rehabilitation of injured American and UK troops, publicised his own charities and supported British interests. It included engagements in Washington, DC, Colorado, New York, New Jersey, and Connecticut. He met survivors of Hurricane Sandy in New Jersey.[101][102] In October 2013, he visited Australia for his first official visit to the country and attended the International Fleet Review at Sydney Harbour.[103] He also paid a visit to the Australian SAS HQ in Perth.[104]
 
 In May 2014, he visited Estonia and Italy. In Estonia, he visited Freedom Square in the capital Tallinn to honour fallen Estonian soldiers. He also attended a reception at the Estonian Parliament[105] and a NATO military exercise.[106] In Italy, Harry attended commemorations of the 70th anniversary of the Monte Cassino battles, in which Polish, Commonwealth and British troops fought.[107][108] On 6 November 2014, he opened the Field of Remembrance at Westminster Abbey,[109] a task usually performed by Prince Philip.[110]
 
@@ -121,7 +121,7 @@ Sport
 
 Sport has been a way that Harry has helped charities and other organisations. This has included training as a Rugby Development Officer for the Rugby Football Union in 2004 and coaching students in schools to encourage them to learn the sport. He is the Patron of the Rugby Football League, Rugby League's governing body in England.[132] Like his brother and father, he has participated in polo matches to raise money for charitable causes.[133][134]
 
-Prince_Harry_Speaks_at_the_Invictus_Games_Symposium.webm, two veterans and moderator Jeremy Schaap.]] As patron of Walk of Britain, he walked with the team on 30 September[135] and 20 October 2015.[136] On 28 October 2015, he carried out one day of engagements in the US. He launched the Invictus Games Orlando 2016 with First Lady Michelle Obama and Dr. Jill Biden at Fort Belvoir.[137] He later attended an Invictus Games board meeting and a reception to celebrate the launch at the British Ambassador's Residence.[138]
+, two veterans and moderator Jeremy Schaap.]] As patron of Walk of Britain, he walked with the team on 30 September[135] and 20 October 2015.[136] On 28 October 2015, he carried out one day of engagements in the US. He launched the Invictus Games Orlando 2016 with First Lady Michelle Obama and Dr. Jill Biden at Fort Belvoir.[137] He later attended an Invictus Games board meeting and a reception to celebrate the launch at the British Ambassador's Residence.[138]
 
 The Royal Foundation
 
@@ -136,7 +136,7 @@ In July 2018, the Elton John AIDS Foundation announced that the Duke of Sussex a
 
 Personal life
 
-Prince_Henry_playing_volleyball.jpg Harry enjoys playing many sports, including competitive polo, skiing, and motocross.[149] He is a supporter of Arsenal Football Club.[150] Harry is also a keen Rugby Union fan and supported England's bid to host the 2015 Rugby World Cup.[151]
+Harry enjoys playing many sports, including competitive polo, skiing, and motocross.[149] He is a supporter of Arsenal Football Club.[150] Harry is also a keen Rugby Union fan and supported England's bid to host the 2015 Rugby World Cup.[151]
 
 Harry earned a reputation in his youth for being rebellious, leading the tabloid press to label him a "wild child".[152] At age 17 he was seen smoking cannabis and partaking in underage drinking with his friends, and clashing physically with paparazzi outside nightclubs.[153] He was photographed at Highgrove House at a "Colonial and Native" themed costume party wearing a Nazi German Afrika Korps uniform with a swastika armband.[154] He later issued a public statement apologising for his behaviour.[155]
 
@@ -156,7 +156,7 @@ In May 2012, Harry was introduced to Cressida Bonas, granddaughter of Edward Cur
 
 Marriage and fatherhood
 
-Harry_and_Meghan_on_Christmas_Day_2017_(cropped).jpg on Christmas Day, 2017]] On 8 November 2016, Kensington Palace confirmed that Harry was "a few months" into a relationship with American actress Meghan Markle, in a statement from the prince asking for the "abuse and harassment" of Markle and her family to end.[178] In September 2017, they made their first public appearance at an official royal engagement, the opening ceremonies of the Invictus Games in Toronto.[179][180]
+on Christmas Day, 2017]] On 8 November 2016, Kensington Palace confirmed that Harry was "a few months" into a relationship with American actress Meghan Markle, in a statement from the prince asking for the "abuse and harassment" of Markle and her family to end.[178] In September 2017, they made their first public appearance at an official royal engagement, the opening ceremonies of the Invictus Games in Toronto.[179][180]
 
 On 27 November 2017, Clarence House and Kensington Palace announced that Harry and Markle were engaged.[181] The engagement announcement prompted much comment about the possible social significance of Meghan Markle becoming a mixed-race[182] royal.[183][184][185][186] The couple married at St George's Chapel, Windsor Castle, on 19 May 2018.[187][188]
 
@@ -164,8 +164,6 @@ The Duke and Duchess lived at Nottingham Cottage in London, in the grounds of Ke
 
 
 Titles, styles, honours and arms
-
-Royal_Monogram_of_Prince_Harry_of_Wales.svg
 
 Titles and styles
 
@@ -202,16 +200,9 @@ Orders
 
 Medals
 
-Prince_Harry's_medals.jpg
-
 -   6 February 2002: Queen Elizabeth II Golden Jubilee Medal
 -   5 May 2008: Operational Service Medal for Afghanistan[208]
 -   6 February 2012: Queen Elizabeth II Diamond Jubilee Medal
-
-Army_Air_Corps_brevet.jpg
-Royal_Victorian_Order_UK_ribbon.png
-OSM_for_Afghanistan_w_bar.svg Queen_Elizabeth_II_Golden_Jubilee_Medal_ribbon.png QEII_Diamond_Jubilee_Medal_ribbon.png
-Shoulder_Flash.jpg
 
 Foreign honours
 

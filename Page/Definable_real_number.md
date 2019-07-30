@@ -1,4 +1,4 @@
-Square_root_of_2_triangle.svg is equal to the length of the hypotenuse of a right triangle with legs of length 1 and is therefore a CONSTRUCTIBLE NUMBER]]
+is equal to the length of the hypotenuse of a right triangle with legs of length 1 and is therefore a CONSTRUCTIBLE NUMBER]]
 
 Informally, a DEFINABLE REAL NUMBER is a real number that can be uniquely specified by its description. The description may be expressed as a construction or as a formula of a formal language. For example, the positive square root of 2, $\sqrt{2}$, can be defined as the unique positive solution to the equation x² = 2, and it can be constructed with a compass and straightedge.
 
@@ -14,7 +14,7 @@ Each positive integer, and each positive rational number, is constructible. The 
 
 Algebraic numbers
 
-Algebraicszoom.png colored by degree (red=1, green=2, blue=3, yellow=4)]]
+colored by degree (red=1, green=2, blue=3, yellow=4)]]
 
 A real number _r_ is called an algebraic number if there is a polynomial _p_(_x_), with only integer coefficients, so that _r_ is a root of _p_, that is, _p_(_r_)=0. Each algebraic number can be defined individually using the order relation on the reals. For example, if a polynomial _q_(_x_) has 5 roots, the third one can be defined as the unique _r_ such that _q_(_r_) = 0 and such that there are two distinct numbers less than _r_ for which _q_ is zero.
 

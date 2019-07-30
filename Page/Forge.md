@@ -1,4 +1,4 @@
-Smithy}} Muzeum_Bierkowice-kuznia_1726.JPG East_Meon_forge_-_geograph.org.uk_-_2633.jpg, Hampshire, England]] Lotyšské_etnografické_muzeum_v_přírodě_(17).jpg, Courland, Latvia currently located at The Ethnographic Open-Air Museum of Latvia]]
+Smithy}} , Hampshire, England]] , Courland, Latvia currently located at The Ethnographic Open-Air Museum of Latvia]]
 
 A FORGE is a type of hearth used for heating metals, or the workplace (SMITHY) where such a hearth is located. The forge is used by the smith to heat a piece of metal to a temperature where it becomes easier to shape by forging, or to the point where work hardening no longer occurs. The metal (known as the "workpiece") is transported to and from the forge using tongs, which are also used to hold the workpiece on the smithy's anvil while the smith works it with a hammer. Sometimes, such as when hardening steel or cooling the work so that it may be handled with bare hands, the workpiece is transported to the slack tub, which rapidly cools the workpiece in a large body of water. However, depending on the metal type, it may require an oil quench or a salt brine instead; many metals require more than plain water hardening. The slack tub also provides water to control the fire in the forge.
 
@@ -7,13 +7,11 @@ Types
 
 Coal/coke/charcoal forge
 
-Coal-forge-diagram.svg
-
 A forge typically uses bituminous coal, industrial coke or charcoal as the fuel to heat metal. The designs of these forges have varied over time, but whether the fuel is coal, coke or charcoal the basic design has remained the same.[1]
 
 A forge of this type is essentially a hearth or fireplace designed to allow a fire to be controlled such that metal introduced to the fire may be brought to a malleable state or to bring about other metallurgical effects (hardening, annealing, and tempering as examples). The forge fire in this type of forge is controlled in three ways: amount of air, volume of fuel, and shape of the fuel/fire.
 
-Schmiedefeuer_2.jpg of metal]]
+of metal]]
 
 Over thousands of years of forging, these devices have evolved in one form or another as the essential features of this type of forge:[2]
 
@@ -23,7 +21,7 @@ Over thousands of years of forging, these devices have evolved in one form or an
 
 During operation, fuel is placed in or on the hearth and ignited. A source of moving air, such as a fan or bellows, introduces additional air into the fire through the tuyere. With additional air, the fire consumes more fuel and burns hotter (and cleaner - smoke can be thought of as escaped potential fuel.
 
-Smithyauchentiber.JPG, North Ayrshire, Scotland.]]
+, North Ayrshire, Scotland.]]
 
 A blacksmith balances the fuel and air in the fire to suit particular kinds of work. Often this involves adjusting and maintaining the shape of the fire.
 
@@ -54,7 +52,7 @@ Forging equipment
 
 Anvil
 
-Anvil,_labelled_en.svg The anvil serves as a work bench to the blacksmith, where the metal to be forged is placed. Anvils may seem clunky and heavy, but they are a highly refined tool carefully shaped to suit a blacksmith's needs. Anvils are made of cast or wrought iron with a tool steel face welded on or of a single piece of cast or forged tool steel. Some anvils are made of only cast iron, and have no tool steel face. These are not real anvils, and will not serve a blacksmith as such because they are too soft. A common term for a cast iron anvil is "ASO" or "Anvil Shaped Object". The purpose of a tool steel face on an anvil is to provide what some call "Rebound" as well as being hard and not denting easily from misplaced hammer blows. The term rebound means it projects some of the force of the blacksmith's hammer blows back into the metal thus moving more metal at once than if there were no rebound. A good anvil can project anywhere from 50 to 99% of the energy back into the workpiece. The flat top, called the "face" is highly polished and usually has two holes (but can have more or less depending on the design). The square hole is called the hardy hole, where the square shank of the hardy tool fits. There are many different kinds of hardy tools. The smaller hole is called the pritchel hole, used as a bolster when punching holes in hot metal, or to hold tools similar to how the hardy tool does, but for tools that require being able to turn a 360 degree angle such as a hold down tool for when the blacksmith's tongs cannot hold a workpiece as securely as it needs to be. On the front of the anvil there is sometimes a "horn" that is used for bending, drawing out steel, and many other tasks. Between the horn and the anvil face there is often a small area called a "step" or a "cutting table" That is used for cutting hot or cold steel with chisels, and hot cut tools without harming the anvil's face. Marks on the face transfer into imperfections in the blacksmith's work.
+The anvil serves as a work bench to the blacksmith, where the metal to be forged is placed. Anvils may seem clunky and heavy, but they are a highly refined tool carefully shaped to suit a blacksmith's needs. Anvils are made of cast or wrought iron with a tool steel face welded on or of a single piece of cast or forged tool steel. Some anvils are made of only cast iron, and have no tool steel face. These are not real anvils, and will not serve a blacksmith as such because they are too soft. A common term for a cast iron anvil is "ASO" or "Anvil Shaped Object". The purpose of a tool steel face on an anvil is to provide what some call "Rebound" as well as being hard and not denting easily from misplaced hammer blows. The term rebound means it projects some of the force of the blacksmith's hammer blows back into the metal thus moving more metal at once than if there were no rebound. A good anvil can project anywhere from 50 to 99% of the energy back into the workpiece. The flat top, called the "face" is highly polished and usually has two holes (but can have more or less depending on the design). The square hole is called the hardy hole, where the square shank of the hardy tool fits. There are many different kinds of hardy tools. The smaller hole is called the pritchel hole, used as a bolster when punching holes in hot metal, or to hold tools similar to how the hardy tool does, but for tools that require being able to turn a 360 degree angle such as a hold down tool for when the blacksmith's tongs cannot hold a workpiece as securely as it needs to be. On the front of the anvil there is sometimes a "horn" that is used for bending, drawing out steel, and many other tasks. Between the horn and the anvil face there is often a small area called a "step" or a "cutting table" That is used for cutting hot or cold steel with chisels, and hot cut tools without harming the anvil's face. Marks on the face transfer into imperfections in the blacksmith's work.
 
 Hammer
 

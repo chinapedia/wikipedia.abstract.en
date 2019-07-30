@@ -18,7 +18,7 @@ Nothing in Chrétien's poem suggests the level of importance Camelot would have 
 
 It is not until the 13th-century French prose romances, including the Lancelot-Grail and the Post-Vulgate cycles, that Camelot began to supersede Caerleon, and even then, many descriptive details applied to Camelot derive from Geoffrey's earlier grand depiction of the Welsh town.[12] Most Arthurian romances of this period produced in English or Welsh did not follow this trend; Camelot was referred to infrequently, and usually in translations from French. One exception is _Sir Gawain and the Green Knight_, which locates Arthur's court at "Camelot";[13] however, in Britain, Arthur's court was generally located at Caerleon, or at Carlisle, which is usually identified with the "Carduel" of the French romances.[14]
 
-The_Great_Hall,_Camelot,_Act_IV.png (1895)|alt=]]
+(1895)|alt=]]
 
 The Lancelot-Grail Cycle and the texts it influenced depict the city of Camelot as standing along a river, downstream from Astolat. It is surrounded by plains and forests, and its magnificent cathedral, St. Stephen's, originally established by Josephus, the son of Joseph of Arimathea,[15] is the religious centre for Arthur's Knights of the Round Table. There, Arthur and Guinevere are married and there are the tombs of many kings and knights. In a mighty castle stands the Round Table, created by Merlin and Uther Pendragon; it is here that Galahad conquers the Siege Perilous, and where the knights see a vision of the Holy Grail and swear to find it. Jousts are often held in a meadow outside the city.
 
@@ -33,7 +33,7 @@ In the 15th century, the English writer Thomas Malory created the image of Camel
 
 Identifications
 
-The_Great_Hall,_Winchester_Castle_-_geograph.org.uk_-_1540296.jpg's Great Hall with a 13th-century prop Round Table]]
+'s Great Hall with a 13th-century prop Round Table]]
 
 Arthurian scholar Norris J. Lacy commented that "Camelot, located no where in particular, can be anywhere."[22] The romancers' versions of Camelot draw on earlier traditions of Arthur's fabulous court. The Celliwig of _Culhwch and Olwen_ appears in the Welsh Triads as well; this early Welsh material places Wales' greatest leader outside its national boundaries. Geoffrey's description of Caerleon is probably based on his personal familiarity with the town and its Roman ruins; it is less clear that Caerleon was associated with Arthur before Geoffrey. Several French romances (_Perlesvaus_, the Didot _Perceval_ attributed to Robert de Boron, and even the early romances of Chrétien such as _Erec and Enide_ and _Yvain, the Knight of the Lion_) have Arthur hold court at "Carduel in Wales", a northern city based on the real Carlisle. Malory's identification of Camelot as Winchester was probably partially inspired by the latter city's history: it had been the capital of Wessex under Alfred the Great, and boasted the Winchester Round Table, an artifact constructed in the 13th century but widely believed to be the original by Malory's time. Caxton rejected the association, saying Camelot was in Wales and that its ruins could still be seen; this is a likely reference to the Roman ruins at Caerwent.[23]
 
@@ -48,7 +48,7 @@ Later uses
 
 Camelot has become a permanent fixture in interpretations of the Arthurian legend. The symbolism of Camelot so impressed Alfred, Lord Tennyson that he wrote up a prose sketch on the castle as one of his earliest attempts to treat the legend.[37] Modern stories typically retain Camelot's lack of precise location and its status as a symbol of the Arthurian world, though they typically transform the castle itself into romantically lavish visions of a High Middle Ages palace.[38] Some writers of the "realist" strain of modern Arthurian fiction have attempted a more sensible Camelot. Inspired by Alcock's Cadbury-Camelot excavation, some authors such as Marion Zimmer Bradley and Mary Stewart place their Camelots in that place and describe it accordingly.[39]
 
-Tintagel_DSC_7491.jpg) features a replica of the Winchester Round Table[40]|alt=]]
+) features a replica of the Winchester Round Table[40]|alt=]]
 
 Camelot lends its name to the musical _Camelot_, which was adapted into a film of the same title, featuring the Castle of Coca, Segovia as Camelot. An Arthurian television series _Camelot_ was also named after the castle, as were some other works including the video game _Camelot_ and the comic book series _Camelot 3000_. French television series _Kaamelott_ presents a humorous alternative version of the Arthurian legend; Camelot Theme Park is a now-abandoned Arthurian theme park resort located in the English county of Lancashire.
 

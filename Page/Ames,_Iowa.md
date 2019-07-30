@@ -49,8 +49,6 @@ The median income for a household in the city was $36,042, and the median income
 
 Metropolitan area
 
-Location of the Ames-Boone CSA and its components:
-
 The U.S. Census Bureau designates the Ames metropolitan statistical area as encompassing all of Story County. While Ames is the largest city in Story County, the county seat is in the nearby city of Nevada east of Ames.
 
 Ames metropolitan statistical area combined with the Boone, Iowa micropolitan statistical area (Boone County, Iowa) make up the larger Ames-Boone combined statistical area. Ames is the larger principal city of the Combined Statistical Area that includes all of Story County, Iowa and Boone County, Iowa.[12][13][14] which had a combined population of 106,205 at the 2000 census.[15]
@@ -222,8 +220,6 @@ Like radio, Ames is served by the Des Moines media market. WOI-DT, the ABC affil
 
 
 Infrastructure
-
-Power_plant_in_Ames.jpg
 
 Transportation
 

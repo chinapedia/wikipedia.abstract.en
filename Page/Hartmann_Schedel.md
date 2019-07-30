@@ -1,4 +1,4 @@
-Schedel_erfurt.jpg'', showing Erfurt]] Rhodos1493.png, by Hartmann Schedel]]
+'', showing Erfurt]] , by Hartmann Schedel]]
 
 HARTMANN SCHEDEL (13 February 1440 – 28 November 1514) was a German physician, humanist, historian, and one of the first cartographers to use the printing press. He was born and died in Nuremberg. Matheolus Perusinus served as his tutor.
 

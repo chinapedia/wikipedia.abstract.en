@@ -34,7 +34,7 @@ Genealogical appendix (4:18–22)
 
 Summary
 
-1795-William-Blake-Naomi-entreating-Ruth-Orpah.jpg, 1795]]
+, 1795]]
 
 During the time of the judges when there was a famine, an Israelite family from Bethlehem – Elimelech, his wife Naomi, and their sons Mahlon and Chilion – emigrated to the nearby country of Moab. Elimelech died, and the sons married two Moabite women: Mahlon married Ruth and Chilion married Orpah.
 
@@ -62,7 +62,7 @@ The book does not name its author. It is traditionally ascribed to the prophet S
 
 Themes and background
 
-Julius_Schnorr_von_Carolsfeld-_Ruth_im_Feld_des_Boaz.jpg: _Ruth in Boaz's Field_, 1828]]
+: _Ruth in Boaz's Field_, 1828]]
 
  Levirate marriage and the "redeemers"
 

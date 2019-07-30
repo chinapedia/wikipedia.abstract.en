@@ -3,7 +3,7 @@ The GÖKTÜRKS, CELESTIAL TURKS, BLUE TURKS or KOK TURKS (Old Turkic: 𐰜𐰇�
 
 Etymology
 
-Turks.png Strictly speaking, the common name _Göktürk_ is the Anatolian Turkish form of the ethnonym. The Old Turkic name for the Göktürks was 𐱅𐰇𐰼𐰰 _Türük_,[1][2] 𐱅𐰇𐰼𐰰:𐰜𐰇𐰛 Kök Türük,[3][4] or Old_Turkic_letter_K.svgOld_Turkic_letter_R2.svgOld_Turkic_letter_U.svgOld_Turkic_letter_T2.svg Türk.[5] They were known in Middle Chinese historical sources as the _tɦutkyat_ (). According to Chinese sources, the meaning of the word _Tujue_ was "combat helmet" (), reportedly because the shape of the Altai Mountains where they lived, was similar to a combat helmet.[6][7][8]
+Strictly speaking, the common name _Göktürk_ is the Anatolian Turkish form of the ethnonym. The Old Turkic name for the Göktürks was 𐱅𐰇𐰼𐰰 _Türük_,[1][2] 𐱅𐰇𐰼𐰰:𐰜𐰇𐰛 Kök Türük,[3][4] or Türk.[5] They were known in Middle Chinese historical sources as the _tɦutkyat_ (). According to Chinese sources, the meaning of the word _Tujue_ was "combat helmet" (), reportedly because the shape of the Altai Mountains where they lived, was similar to a combat helmet.[6][7][8]
 
 Göktürk means "Celestial Turks", or sometimes "Blue Turks" (i.e. because sky blue is associated with celestial realms). This is consistent with "the cult of heavenly ordained rule" which was a recurrent element of Altaic political culture and as such may have been imbibed by the Göktürks from their predecessors in Mongolia.[9] The name of the ruling Ashina clan may derive from the Khotanese Saka term for "deep blue", _āššɪna_.
 
@@ -14,7 +14,7 @@ History
 
 Origins
 
-Kul_Tigin.jpg]]
+]]
 
 The Göktürk rulers originated from the Ashina clan, who were first attested to 439. The _Book of Sui_ reports that in that year, on October 18, the Tuoba ruler Emperor Taiwu of Northern Wei overthrew Juqu Mujian of the Northern Liang in eastern Gansu,[11][12][13] whence 500 Ashina families fled northwest to the Rouran Khaganate in the vicinity of Gaochang.[14][15]
 

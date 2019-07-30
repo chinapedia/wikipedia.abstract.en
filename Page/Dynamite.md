@@ -1,4 +1,4 @@
-Diagram Inserting_dynamite_into_hole.jpg, 1942.]]
+, 1942.]]
 
 DYNAMITE is an explosive made of nitroglycerin, sorbents (such as powdered shells or clay) and stabilizers. It was invented by the Swedish chemist and engineer Alfred Nobel in Geesthacht and patented in 1867. It rapidly gained wide-scale use as a more powerful alternative to black powder.
 
@@ -6,8 +6,6 @@ Today, dynamite is mainly used in the mining, quarrying, construction, and demol
 
 
 History
-
-Nobels_Extradynamit_label.jpg
 
 Dynamite was invented by Swedish chemist Alfred Nobel in the 1860s and was the first safely manageable explosive stronger than black powder, which had been invented in China in the 9th century. Black powder is now popularly known as gunpowder, because while it is effective as a propellant, it is less suitable for shattering rock or fortifications.
 
@@ -45,8 +43,6 @@ Over time, regardless of the sorbent used, sticks of dynamite will "weep" or "sw
 Dynamite is moderately sensitive to shock. Shock resistance tests are usually carried out with a drop-hammer: about 100 mg of explosive is placed on an anvil, upon which a weight of between is dropped from different heights until detonation is achieved.[11] With a hammer of 2 kg, mercury fulminate detonates with a drop distance of 1 to 2 cm, nitroglycerin with 4 to 5 cm, dynamite with 15 to 30 cm, and ammoniacal explosives with 40 to 50 cm.
 
 Major manufacturers
-
-Aetna_dynamite.jpg
 
 South Africa
 

@@ -5,8 +5,6 @@ DEMOGRAPHICS OF GUINEA describes the condition and overview of Guinea's peoples.
 
 Population
 
-Guinea_demography.png
-
 According to the total population was in , compared to only 3 094 000 in 1950. The proportion of children below the age of 15 in 2010 was 42.9%, 53.8% was between 15 and 65 years of age, while 3.3% was 65 years or older .[1]
 
          Total population   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
@@ -134,8 +132,6 @@ Population
     11,855,411 (July 2018 est.)
 
 Age structure
-
-Guineapop.svg
 
     _0-14 years:_ 41.4% (male 2,473,486 /female 2,435,139)
     _15-24 years:_ 19.23% (male 1,145,488 /female 1,134,103)

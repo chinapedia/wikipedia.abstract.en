@@ -42,8 +42,6 @@ Benefits of vi
 
 Evolution
 
-2012_SOTM_Steve_Coast_(8091880545).jpg
-
 In the past, many small editors modeled after or derived from vi flourished. This was due to the importance of conserving memory with the comparatively minuscule amount available at the time. As computers have become more powerful, many vi clones, Vim in particular, have grown in size and code complexity. These vi variants of today, as with the old lightweight Emacs variants, tend to have many of the perceived benefits and drawbacks of the opposing side. For example, Vim without any extensions requires about ten times the disk space required by vi, and recent versions of Vim can have more extensions and run slower than Emacs. In _The Art of Unix Programming_, Eric S. Raymond called Vim's supposed light weight when compared with Emacs "a shared myth".[21] Moreover, with the large amounts of RAM in modern computers, both Emacs and vi are lightweight compared to large integrated development environments such as Eclipse, which tend to draw derision from Emacs and vi users alike.
 
 Tim O'Reilly said, in 1999, that O'Reilly Media's tutorial on vi sells twice as many copies as that on Emacs (but noted that Emacs came with a free manual).[22] Many programmers use either Emacs and vi or their various offshoots, including Linus Torvalds who uses MicroEMACS.[23] Also in 1999, vi creator Bill Joy said that vi was "written for a world that doesn't exist anymore" and stated that Emacs was written on much more capable machines with faster displays so they could have "funny commands with the screen shimmering and all that, and meanwhile, I'm sitting at home in sort of World War II surplus housing at Berkeley with a modem and a terminal that can just barely get the cursor off the bottom line".[24][25]
@@ -55,7 +53,7 @@ In addition to Emacs and vi workalikes, pico and its free and open-source clone 
 
 Humor
 
-Richard_Stallman_-_Preliminares_2013.jpg appearing as St IGNU−cius, a saint in the Church of Emacs]] Frequently, at some point in the discussion, someone will point out that ed is the _standard text editor_.[28]
+appearing as St IGNU−cius, a saint in the Church of Emacs]] Frequently, at some point in the discussion, someone will point out that ed is the _standard text editor_.[28]
 
 The CHURCH OF EMACS,[29] formed by Emacs and the GNU Project's creator Richard Stallman, is a parody religion.[30] While it refers to vi as the "editor of the beast" (vi-vi-vi being 6-6-6 in Roman numerals), it does not oppose the use of vi; rather, it calls proprietary software anathema. ("Using a free version of vi is not a sin but a penance."[31]) The Church of Emacs has its own newsgroup, alt.religion.emacs, that has posts purporting to support this belief system.
 

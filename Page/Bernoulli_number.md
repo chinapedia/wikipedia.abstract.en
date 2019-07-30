@@ -44,8 +44,6 @@
 
 : Bernoulli numbers
 
-Bernoulli_numbers_graphs.svg
-
 In mathematics, the BERNOULLI NUMBERS are a sequence of rational numbers which occur frequently in number theory. The values of the first 20 Bernoulli numbers are given in the adjacent table. For every even other than 0, is negative if is divisible by 4 and positive otherwise. For every odd other than 1, 0}}.
 
 The superscript ± used in this article designates the two sign conventions for Bernoulli numbers. Only the term is affected:
@@ -70,8 +68,6 @@ History
 Early history
 
 The Bernoulli numbers are rooted in the early history of the computation of sums of integer powers, which have been of interest to mathematicians since antiquity.
-
-Seki_Kowa_Katsuyo_Sampo_Bernoulli_numbers.png
 
 Methods to calculate the sum of the first positive integers, the sum of the squares and of the cubes of the first positive integers were known, but there were no real 'formulas', only descriptions given entirely in words. Among the great mathematicians of antiquity to consider this problem were Pythagoras (c. 572–497 BCE, Greece), Archimedes (287–212 BCE, Italy), Aryabhata (b. 476, India), Abu Bakr al-Karaji (d. 1019, Persia) and Abu Ali al-Hasan ibn al-Hasan ibn al-Haytham (965–1039, Iraq).
 
@@ -104,8 +100,6 @@ Bernoulli's formula is sometimes called Faulhaber's formula after Johann Faulhab
     _for all sums of powers. He never mentioned, for example, the fact that almost half of the coefficients turned out to be zero after he had converted his formulas for_ _from polynomials in to polynomials in ." _
 
 Reconstruction of "Summae Potestatum"
-
-JakobBernoulliSummaePotestatum.png
 
 The Bernoulli numbers (n)/(n) were introduced by Jakob Bernoulli in the book _Ars Conjectandi_ published posthumously in 1713 page 97. The main formula can be seen in the second half of the corresponding facsimile. The constant coefficients denoted , , and by Bernoulli are mapped to the notation which is now prevalent as _B_₂}}, _B_₄}}, _B_₆}}, _B_₈}}. The expression means – the small dots are used as grouping symbols. Using today's terminology these expressions are falling factorial powers . The factorial notation as a shortcut for was not introduced until 100 years later. The integral symbol on the left hand side goes back to Gottfried Wilhelm Leibniz in 1675 who used it as a long letter for "summa" (sum). The letter on the left hand side is not an index of summation but gives the upper limit of the range of summation which is to be understood as . Putting things together, for positive , today a mathematician is likely to write Bernoulli's formula as:
 
@@ -171,8 +165,6 @@ is an asymptotic series. It contains the trigamma function .
 
 
 Bernoulli numbers and the Riemann zeta function
-
-BernoulliNumbersByZetaLowRes.png
 
 The Bernoulli numbers can be expressed in terms of the Riemann zeta function:
 
@@ -435,7 +427,7 @@ A binary tree representation
 
 The Stirling polynomials are related to the Bernoulli numbers by _n_!_σ__(_n_)(1)}}. S. C. Woon described an algorithm to compute as a binary tree:
 
-    File:SCWoonTree.png
+
 
 Woon's recursive algorithm (for ) starts by assigning to the root node [1,2]}}. Given a node [_a_₁, _a_₂, …, _a__(_k_)]}} of the tree, the left child of the node is [−_a_₁, _a_₂ + 1, _a_₃, …, _a__(_k_)]}} and the right child [_a_₁, 2, _a_₂, …, _a__(_k_)]}}. A node [_a_₁, _a_₂, …, _a__(_k_)]}} is written as in the initial part of the tree represented above with ± denoting the sign of .
 

@@ -9,8 +9,6 @@ Skinner developed behavior analysis, the philosophy of that science he called ra
 
 Biography
 
-BF_Skinner_Grave.JPG
-
 Skinner was born in Susquehanna, Pennsylvania, to Grace and William Skinner. His father was a lawyer. He became an atheist after a Christian teacher tried to assuage his fear of the hell that his grandmother described.[17] His brother Edward, two and a half years younger, died at age sixteen of a cerebral hemorrhage.
 
 Skinner's closest friend as a young boy was Raphael Miller, whom he called Doc because his father was a doctor. Doc and Skinner became friends due to their parents’ religiousness and both had an interest in contraptions and gadgets. They had set up a telegraph line between their houses to send messages to each other, although they had to call each other on the telephone due to the confusing messages sent back and forth. During one summer, Doc and Skinner started an elderberry business to gather berries and sell them door to door. They had found out that when they picked the ripe berries, the unripe ones came off the branches too, so they built a device that was able to separate them. The device was a bent piece of metal to form a trough. They would pour water down the trough into a bucket, and the ripe berries would sink into the bucket and the unripe ones would be pushed over the edge to be thrown away.[18]
@@ -100,7 +98,7 @@ A 2004 book by Lauren Slater, entitled _Opening Skinner's Box: Great Psychology 
 
 Teaching machine
 
-Skinner_teaching_machine_01.jpg]]
+]]
 
 The teaching machine was a mechanical device whose purpose was to administer a curriculum of programmed learning. The machine embodies key elements of Skinner's theory of learning and had important implications for education in general and classroom instruction in particular.[54]
 

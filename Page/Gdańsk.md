@@ -26,19 +26,19 @@ History
 
 Early Poland
 
-Brama_Zuraw_W_Gdansku_(153003103).jpeg.[15]]] The first written record thought to refer to Gdańsk is the _vita_ of Saint Adalbert. Written in 999, it describes how in 997 Saint Adalbert of Prague baptised the inhabitants of _urbs Gyddannyzc_, "which separated the great realm of the duke [i.e. Boleslaw the Brave of Poland] from the sea."[16] No further written sources exist for the 10th and 11th centuries.[17] Based on the date in Adalbert's _vita_, the city celebrated its millennial anniversary in 1997.[18]
+.[15]]] The first written record thought to refer to Gdańsk is the _vita_ of Saint Adalbert. Written in 999, it describes how in 997 Saint Adalbert of Prague baptised the inhabitants of _urbs Gyddannyzc_, "which separated the great realm of the duke [i.e. Boleslaw the Brave of Poland] from the sea."[16] No further written sources exist for the 10th and 11th centuries.[17] Based on the date in Adalbert's _vita_, the city celebrated its millennial anniversary in 1997.[18]
 
 Archaeological evidence for the origins of the town was retrieved mostly after World War II had laid 90 percent of the city center in ruins, enabling excavations.[19] The oldest seventeen settlement levels were dated to between 980 and 1308.[20] It is generally thought that Mieszko I of Poland erected a stronghold on the site in the 980s, thereby connecting the Polish state ruled by the Piast dynasty with the trade routes of the Baltic Sea.[21] Traces of buildings and housing from 10th century have been found in archaeological excavations of the city[22].
 
 Pomeranian Poland
 
-Hala_Targowa_w_Gdańsku_podziemia.jpg The site was ruled as a duchy of Poland by the Samborides. It consisted of a settlement at the modern Long Market, settlements of craftsmen along the _Old Ditch_, German merchant settlements around _St Nicholas's_ church and the old Piast stronghold.[23] In 1186, a Cistercian monastery was set up in nearby Oliwa, which is now within the city limits. In 1215, the ducal stronghold became the centre of a Pomerelian splinter duchy. At that time the area of the later city included various villages. From at least 1224/25 a German market settlement with merchants from Lübeck existed in the area of today's Long Market.[24] In 1224/25, merchants from Lübeck were invited as "hospites" (_immigrants with specific privileges_) but were soon (in 1238) forced to leave by Swantopolk II of the Samborides during a war between Swantopolk and the Teutonic Knights, during which Lübeck supported the latter. Migration of merchants to the town resumed in 1257.[25] Significant German influence did not reappear until the 14th century, after the takeover of the city by the Teutonic Knights.[26] At latest in 1263 Pomerelian duke, Swantopolk II. granted city rights under Lübeck law to the emerging market settlement.[27] It was an autonomy charter similar to that of Lübeck, which was also the primary origin of many settlers.[28] In a document of 1271 the Pomerelian duke Mestwin II. addressed the Lübeck merchants settled in the city as his loyal citizens from Germany.[29][30]
+The site was ruled as a duchy of Poland by the Samborides. It consisted of a settlement at the modern Long Market, settlements of craftsmen along the _Old Ditch_, German merchant settlements around _St Nicholas's_ church and the old Piast stronghold.[23] In 1186, a Cistercian monastery was set up in nearby Oliwa, which is now within the city limits. In 1215, the ducal stronghold became the centre of a Pomerelian splinter duchy. At that time the area of the later city included various villages. From at least 1224/25 a German market settlement with merchants from Lübeck existed in the area of today's Long Market.[24] In 1224/25, merchants from Lübeck were invited as "hospites" (_immigrants with specific privileges_) but were soon (in 1238) forced to leave by Swantopolk II of the Samborides during a war between Swantopolk and the Teutonic Knights, during which Lübeck supported the latter. Migration of merchants to the town resumed in 1257.[25] Significant German influence did not reappear until the 14th century, after the takeover of the city by the Teutonic Knights.[26] At latest in 1263 Pomerelian duke, Swantopolk II. granted city rights under Lübeck law to the emerging market settlement.[27] It was an autonomy charter similar to that of Lübeck, which was also the primary origin of many settlers.[28] In a document of 1271 the Pomerelian duke Mestwin II. addressed the Lübeck merchants settled in the city as his loyal citizens from Germany.[29][30]
 
 In 1300, the town had an estimated population of 2,000.[31] While overall the town was not a very important trade centre at that time, it had some relevance in the trade with Eastern Europe.[32] Low on funds, the Samborides lent the settlement to Brandenburg, although they planned to take the city back and give it to Poland. Poland threatened to intervene, and Brandenburg left the town. Subsequently, the city was taken by Danish princes in 1301. The Teutonic Knights were hired by the Polish nobles to drive out the Danes.
 
 Teutonic Knights
 
-Gdanskmemorial.jpg In 1308, the town was taken by Brandenburg and the Teutonic Knights restored order. Subsequently, the Knights took over control of the town. Primary sources record a massacre carried out by the Teutonic Knights on the local population,[33] of 10,000 people, but the exact number killed is subject of dispute in modern scholarship.[34] Some authors accept the number given in the original sources,[35] while others consider 10,000 to have been a medieval exaggeration, although scholarly consensus is that a massacre of some magnitude did take place.[36] The events were used by the Polish crown to condemn the Teutonic Knights in a subsequent papal lawsuit.[37][38]
+In 1308, the town was taken by Brandenburg and the Teutonic Knights restored order. Subsequently, the Knights took over control of the town. Primary sources record a massacre carried out by the Teutonic Knights on the local population,[33] of 10,000 people, but the exact number killed is subject of dispute in modern scholarship.[34] Some authors accept the number given in the original sources,[35] while others consider 10,000 to have been a medieval exaggeration, although scholarly consensus is that a massacre of some magnitude did take place.[36] The events were used by the Polish crown to condemn the Teutonic Knights in a subsequent papal lawsuit.[37][38]
 
 The knights colonised the area, replacing local Kashubians and Poles with German settlers.[39] In 1308, they founded _Osiek_ _Hakelwerk_ near the town, initially as a Slavic fishing settlement.[40] In 1340, the Teutonic Knights built a large fortress, which became the seat of the knights' Komtur.[41] In 1346 they changed the Town Law of the city, which then consisted only of the _Rechtstadt_, to Kulm law.[42] In 1358, Danzig joined the Hanseatic League, and became an active member in 1361.[43] It maintained relations with the trade centers Bruges, Novgorod, Lisboa and Sevilla.[44] Around 1377, the Old Town was equipped with city rights as well.[45] In 1380, the _New Town_ was founded as the third, independent settlement.[46]
 
@@ -46,7 +46,7 @@ After a series of Polish-Teutonic Wars, in the Treaty of Kalisz (1343) the Order
 
 Kingdom of Poland
 
-Allegory_of_Gdańsk_trade.jpg of Gdańsk'' by Izaak van den Blocke. The Vistula-borne trade of goods in Poland was the main source of prosperity during the city's Golden Age.]]
+of Gdańsk'' by Izaak van den Blocke. The Vistula-borne trade of goods in Poland was the main source of prosperity during the city's Golden Age.]]
 
 In 1440, the city participated in the foundation of the Prussian Confederation which was an organisation opposed to the rule of the Teutonic Knights. This led to the Thirteen Years' War against the Teutonic Monastic State of Prussia (1454–1466). On 25 May 1457 the city gained its rights and independence as an autonomous city.[49][50]
 
@@ -54,7 +54,7 @@ On 15 May 1457, Casimir IV of Poland granted the town the _Great Privilege_, aft
 
 Gaining free and privileged access to Polish markets, the seaport prospered while simultaneously trading with the other Hanseatic cities. After the Second Peace of Thorn (1466) with the Teutonic Monastic State of Prussia the warfare between the latter and the Polish crown ended permanently. After the Union of Lublin between Poland and Lithuania in 1569 the city continued to enjoy a large degree of internal autonomy (cf. Danzig Law). Being the largest and one of the most influential cities of Poland, it enjoyed voting rights during the royal election period in Poland.
 
-Brama_Zielona_Gdańsk.jpg, inspired by the Antwerp City Hall,[56] was built to serve as the formal residence of the Polish monarchs.[57]]] In 1569 a Mennonite Church was founded here.
+, inspired by the Antwerp City Hall,[56] was built to serve as the formal residence of the Polish monarchs.[57]]] In 1569 a Mennonite Church was founded here.
 
 In the 1575 election of a king to the Polish throne, Danzig supported Maximilian II against Stephen Báthory. It was the latter who eventually became monarch but the city, encouraged by the secret support of Denmark and Emperor Maximilian, shut its gates against Stephen. After the Siege of Danzig (1577), lasting six months, the city's army of 5,000 mercenaries was utterly defeated in a field battle on 16 December 1577. However, since Stephen's armies were unable to take the city by force, a compromise was reached: Stephen Báthory confirmed the city's special status and her Danzig Law privileges granted by earlier Polish kings. The city recognised him as ruler of Poland and paid the enormous sum of 200,000 guldens in gold as payoff ("apology").
 
@@ -64,7 +64,7 @@ Beside a majority of German-speakers,[58] whose elites sometimes distinguished t
 
 The city suffered a last great plague and a slow economic decline due to the wars of the 18th century. As a stronghold of Stanisław Leszczyński's supporters during the War of the Polish Succession, it was taken by the Russians after the Siege of Danzig in 1734.
 
-Ayuntamiento_Principal,_Gdansk,_Polonia,_2013-05-20,_DD_07.jpg, with its 83-meter spire, is one of the city's main landmarks.]]
+, with its 83-meter spire, is one of the city's main landmarks.]]
 
 The Danzig Research Society (in German _Naturforschende Gesellschaft in Danzig_) founded in 1743 was one of the first of its kind.
 
@@ -76,19 +76,17 @@ In 1815, after France's defeat in the Napoleonic Wars, it again became part of P
 
 Inter-war years and World War II
 
-Danzig_Partie_am_Krahnthor_(1890-1900).jpg
-
 When Poland regained its independence after World War I with access to the sea as promised by the Allies on the basis of Woodrow Wilson's "Fourteen Points" (point 13 called for "an independent Polish state", "which should be assured a free and secure access to the sea"), the Poles hoped the city's harbour would also become part of Poland.
 
 However, in the end – since Germans formed a majority in the city, with Poles being a minority (in the 1923 census 7,896 people out of 335,921 gave Polish, Kashubian or Masurian as their native language)[66] – the city was not placed under Polish sovereignty. Instead, in accordance with the terms of the Versailles Treaty, it became the Free City of Danzig (German: Freie Stadt Danzig), an independent quasi-state under the auspices of the League of Nations with its external affairs largely under Polish control – without, however, any public vote to legitimize Germany's loss of the city. Poland's rights also included free use of the harbour, a Polish post office, a Polish garrison in Westerplatte district, and customs union with Poland. This led to a considerable tension between the city and the Republic of Poland. The Free City had its own constitution, national anthem, parliament (_Volkstag_), and government (_Senat_). It issued its own stamps as well as its currency, the Danzig gulden.
 
-DAN-62-Bank_von_Danzig-100_Gulden_(1931,_specimen).jpg banknote issued by the Bank of Danzig in 1931.]]
+banknote issued by the Bank of Danzig in 1931.]]
 
 In the early 1930s the local Nazi Party capitalised on pro-German sentiments and in 1933 garnered 50% of vote in the parliament. Thereafter, the Nazis under Gauleiter Albert Forster achieved dominance in the city government, which was still nominally overseen by the League of Nations' High Commissioner. The German government officially demanded the return of Danzig to Germany along with an extraterritorial (meaning under German jurisdiction) highway through the area of the Polish Corridor for land-based access from the rest of Germany. Hitler used the issue of the status of the city as a pretext for attacking Poland and on May 1939, during a high level meeting of German military officials explained to them: "It is not Danzig that is at stake. For us it is a matter of expanding our Lebensraum in the east", adding that there will be no repeat of the Czech situation, and Germany will attack Poland at first opportunity, after isolating the country from its Western Allies.[67][68][69][70][71] After the German proposals to solve the three main issues peacefully were refused and the sixteen point proposal had been undermined by the British Government (Navy Minister Cooper), German-Polish relations rapidly deteriorated. Germany attacked Poland on 1 September after having signed a non-aggression pact with the Soviet Union (this includes the Secret Part with the upcoming treatment of the Baltic States) in late August and after postponing the attack three times due to needed time for diplomatic, peaceful solutions.
 
 The German attack began in Danzig, with a bombardment of Polish positions at Westerplatte by the German battleship , and the landing of German infantry on the peninsula. Outnumbered Polish defenders at Westerplatte resisted for seven days before running out of ammunition. Meanwhile, after a fierce day-long fight (1 September 1939), defenders of the Polish Post office were tried and executed then buried on the spot in the Danzig quarter of Zaspa in October 1939. In 1998 a German court overturned their conviction and sentence.
 
-Arrested_defendants_of_the_Polish_Post_Office_in_Gdansk.jpg in Danzig shortly before their trial and execution by the Wehrmacht.]]
+in Danzig shortly before their trial and execution by the Wehrmacht.]]
 
 The city was officially annexed by Nazi Germany and incorporated into the Reichsgau Danzig-West Prussia. About 50 percent of members of the Jewish Community of Danzig had left the city within a year after a Pogrom in October 1937,[72] after the Kristallnacht riots in November 1938 the community decided to organize its emigration[73] and in March 1939 a first transport to Palestine started.[74] By September 1939 barely 1,700 mostly elderly Jews remained. In early 1941, just 600 Jews were still living in Danzig, most of whom were later murdered in the Holocaust.[75][76] Out of the 2,938 Jewish community in the city 1,227 were able to escape from the Nazis before the outbreak of war.[77] Nazi secret police had been observing Polish minority communities in the city since 1936, compiling information, which in 1939 served to prepare lists of Poles to be captured in Operation Tannenberg. On the first day of the war, approximately 1,500 ethnic Poles were arrested, some because of their participation in social and economic life, others because they were activists and members of various Polish organisations. On 2 September 1939, 150 of them were deported to the Sicherheitsdienst camp Stutthof some from Danzig, and murdered.[78] Many Poles living in Danzig were deported to Stutthof or executed in the Piaśnica forest.
 
@@ -98,13 +96,13 @@ The city also endured heavy Allied and Soviet air raids. Those who survived and 
 
 Contemporary times
 
-Gran_Armería,_Gdansk,_Polonia,_2013-05-20,_DD_12.jpg buildings rebuilt after the war: The Old Arsenal by Anthony van Obberghen, Jan Strakowski and Abraham van den Blocke, 1602–1605.[84]]]
+buildings rebuilt after the war: The Old Arsenal by Anthony van Obberghen, Jan Strakowski and Abraham van den Blocke, 1602–1605.[84]]]
 
 Parts of the historic old city of Gdańsk, which had suffered large-scale destruction during the war, were rebuilt during the 1950s and 1960s. The reconstruction was not tied to the city's pre-war appearance, but instead was politically motivated as a means of culturally cleansing and destroying all traces of German influence from the city.[85][86][87] Any traces of German tradition were ignored, suppressed, or regarded as "Prussian barbarism" only worthy of demolition,[88][89] while Flemish/Dutch, Italian and French influences were used to replace the historically accurate Germanic architecture which the city was built upon since the 14th century.[90]
 
 Boosted by heavy investment in the development of its port and three major shipyards for Soviet ambitions in the Baltic region, Gdańsk became the major shipping and industrial center of the Communist People's Republic of Poland.
 
-Museum_WWII_2.jpg, opened in 2017]]
+, opened in 2017]]
 
 In December 1970, Gdańsk was the scene of anti-regime demonstrations, which led to the downfall of Poland's communist leader Władysław Gomułka. During the demonstrations in Gdańsk and Gdynia, military as well as the police opened fire on the demonstrators causing several dozen deaths. Ten years later, in August, 1980, Gdańsk Shipyard was the birthplace of the Solidarity trade union movement.
 
@@ -202,11 +200,11 @@ The industrial sections of the city are dominated by shipbuilding, petrochemical
 
 Main sights
 
-2012-08-30_pano_gdansk_sm2.jpg River (2012)]] {{-}} Puerta_Alta,_Gdansk,_Polonia,_2013-05-20,_DD_02.jpg
+River (2012)]] {{-}}
 
 Architecture
 
-The city has some buildings surviving from the time of the Hanseatic League. Most tourist attractions are located along or near Ulica Długa (_Long Street_) and Długi Targ (_Long Market_), a pedestrian thoroughfare surrounded by buildings reconstructed in historical (primarily during the 17th century) style and flanked at both ends by elaborate city gates. This part of the city is sometimes referred to as the Royal Route, since it was once the former path of processions for visiting Kings of Poland. Monumento_Neptuno,_Gdansk,_Polonia,_2013-05-20,_DD_01.jpg in the centre of the Long Market, a masterpiece by architect Abraham van den Blocke, 1617.[98][99]]] Long_Market_Square_(Długi_Targ),_Gdańsk.jpg]] Ayuntamiento_Principal,_Gdansk,_Polonia,_2013-05-20,_DD_01.jpg filled with picturesque tenements is part of the Royal Route]] Gdansk_Royal_Chapel.jpg was built in baroque style between 1678–1681 by Tylman van Gameren.[100]]] Danzig_Marienkirche_Profil_(2011).JPG – the second largest brick church in the world]]
+The city has some buildings surviving from the time of the Hanseatic League. Most tourist attractions are located along or near Ulica Długa (_Long Street_) and Długi Targ (_Long Market_), a pedestrian thoroughfare surrounded by buildings reconstructed in historical (primarily during the 17th century) style and flanked at both ends by elaborate city gates. This part of the city is sometimes referred to as the Royal Route, since it was once the former path of processions for visiting Kings of Poland. in the centre of the Long Market, a masterpiece by architect Abraham van den Blocke, 1617.[98][99]]] ]] filled with picturesque tenements is part of the Royal Route]] was built in baroque style between 1678–1681 by Tylman van Gameren.[100]]] – the second largest brick church in the world]]
 
 Walking from end to end, sites encountered on or near the Royal Route include:
 
@@ -258,7 +256,7 @@ Main sights outside the historical city centre include:
 
 Museums
 
-Palacio_de_Oliwa,_Gdansk,_Polonia,_2013-05-21,_DD_05.jpg in Oliwa]]
+in Oliwa]]
 
 -   National Museum (_Muzeum Narodowe_)
     -   Department of Ancient Art - contains a number of important artworks, including Hans Memling's _Last Judgement_
@@ -296,7 +294,7 @@ Entertainment
 
 Transport
 
-SA136-019,_Gdańsk_Brętowo,_2015-09-25_(Muri_WG_2015-34).jpg of the PKP Fast Urban Railways (SKM) in Gdańsk]] Port_Lotniczy_im_Lecha_Walesy_Terminal_2.jpg]]
+of the PKP Fast Urban Railways (SKM) in Gdańsk]] ]]
 
 -   Gdańsk Lech Wałęsa Airport – an international airport located in Gdańsk;
 -   The Szybka Kolej Miejska, (SKM) the _Fast Urban Railway_, functions as a Metro system for the Tricity area including Gdańsk, Sopot and Gdynia, operating frequent trains to 27 stations covering the Tricity.[102] The service is operated by electric multiple unit trains at a frequency of 6 minutes to 30 minutes between trains (depending on the time of day) on the central section between Gdańsk and Gdynia, and less frequently on outlying sections. The SKM system has been extended northwest of the Tricity, to Wejherowo, Lębork and Słupsk, west of Gdynia, and to the south it has been extended to Tczew, south of Gdańsk.
@@ -318,7 +316,7 @@ File:Gdańsk (DerHexer) 2010-07-12 016.jpg|Gdańsk main railway station (built 1
 
 Sports
 
-PGE_Arena,_Gdańsk,_2015-09-25_(Muri_WG_2015-34).jpg]] GdanskSopot_ErgoArena_20110603.jpg]] There are many popular professional sports teams in the Gdańsk and Tricity area. Amateur sports are played by thousands of Gdańsk citizens and also in schools of all levels (elementary, secondary, university).
+]] ]] There are many popular professional sports teams in the Gdańsk and Tricity area. Amateur sports are played by thousands of Gdańsk citizens and also in schools of all levels (elementary, secondary, university).
 
 The city's professional football club is Lechia Gdańsk. Founded in 1945, they play in the Ekstraklasa, Poland's top division. Their home stadium, Stadion Energa Gdańsk, was one of the four Polish stadiums to host the UEFA Euro 2012 competition. In addition, it will also host the 2020 UEFA Europa League Final. Other notable clubs include rugby club Lechia Gdańsk (12 times Polish Champion) and motorcycle speedway club Wybrzeże Gdańsk.
 
@@ -357,8 +355,6 @@ City Council in 2010–2014[109]:
 -   Law and Justice – 7 seats
 -   Democratic Left Alliance – 1 seat
 
-Gdansk_City_Council_in_2014_2018.svg
-
 City Council in 2014–2018[110]:
 
 -   Civic Platform – 22 seats
@@ -373,7 +369,7 @@ _Osiedles_: Aniołki, Brętowo, Brzeźno, Jasień, Kokoszki, Krakowiec-Górki Za
 
 Education and science
 
-Gmach_glowny_politechnika.jpg MUG_Hospital_Bldg_1.jpg Hotel_Królewski_and_Filharmonia_Bałtycka_Gdańsk.jpg on the Motława river ]]
+on the Motława river ]]
 
 There are 15 higher schools including 3 universities. In 2001 there were 60,436 students, including 10,439 graduates.
 

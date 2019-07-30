@@ -40,8 +40,6 @@ For different reasons, various constitutionalists have praised the Act of Settle
 
 Kingdom of Great Britain
 
-Act_of_Settlement_3323.jpg Kurfuerstin_Sophie.JPG
-
 The Act of Settlement was, in many ways, the major cause of the union of Scotland with England and Wales to form the Kingdom of Great Britain. The Parliament of Scotland was not happy with the Act of Settlement and, in response, passed the Act of Security in 1704, through which Scotland reserved the right to choose its own successor to Queen Anne. Stemming from this, the Parliament of England decided that, to ensure the stability and future prosperity of Great Britain, full union of the two parliaments and nations was essential before Anne's death.
 
 It used a combination of exclusionary legislation (the Alien Act 1705), politics, and bribery to achieve this within three years under the Act of Union 1707. This success was in marked contrast to the four attempts at political union between 1606 and 1689, which all failed owing to a lack of political will in both kingdoms. By virtue of Article II of the Treaty of Union, which defined the succession to the throne of Great Britain, the Act of Settlement became part of Scots Law as well.

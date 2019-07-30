@@ -2,7 +2,7 @@ The Czech Republic is a unitary parliamentary constitutional republic, in which 
 
 The political system of the Czech Republic is a multi-party system. Since 1993, the two largest parties were Czech Social Democratic Party (ČSSD) and Civic Democratic Party (ODS). This model changed in early 2014, with the rise of a new political party ANO 2011 which led to weakening of both major parties. The Economist Intelligence Unit has rated the Czech Republic as "flawed democracy" in 2016.[2]
 
-Czechpolsystem.png]]
+]]
 
 
 Political developments
@@ -10,8 +10,6 @@ Political developments
 The Czech political scene supports a broad spectrum of parties ranging from the Communist Party on the far left to various nationalistic parties on the far right.
 
 Czech voters returned a split verdict in the June 2002 parliamentary elections, giving Social Democrats (ČSSD) and Communists majority, without any possibility to form a functioning government together due to Vladimír Špidla's strong anticommunism. The results produced a ČSSD coalition government with Christian Democrats (KDU-ČSL) and Liberals (US-DEU), while Civic Democrats (ODS) and Communists (KSČM) took place in opposition. The MP ratio was the tiniest 101:99. After many buffetings and, finally, after the catastrophic results of the June European Parliament election, 2004 Špidla resigned after a revolt in his own party and the government was reshuffled on the same basis.
-
-Flag_of_the_President_of_the_Czech_Republic.svg
 
 As the system in the Czech Republic repeatedly produces very weak governments (a specific problem is that about 15% of the electorate support the Communists, who are shunned by all the other parties) there is constant talk about changing it but without much chance of really pushing the reform through. An attempt to increase majority elements by tweaking the system parameters (more smaller districts, d'Hondt method used) by ČSSD and ODS during their "opposition agreement" of 1998–2002 was vehemently opposed by smaller parties and blocked by the Constitutional Court as going too much against the constitution-stated proportional principle; only a moderated form was adopted. This, however, led to a stalemate in the 2006 elections where both the left and the right each gained exactly 100 seats; as many commentators point out, the earlier system would have given the right a 3–4 seat majority.
 
@@ -48,7 +46,7 @@ Powers of President
 
 Prime Minister
 
-The Prime Minister is the head of government and wields considerable powers, including the right to set the agenda for most foreign and domestic policies, mobilize the parliamentary majority, and choose governmental ministers.[3] Garden_of_Straka_Academy,_Prague_Malá_Strana.jpg, the Czech Republic capital.]]
+The Prime Minister is the head of government and wields considerable powers, including the right to set the agenda for most foreign and domestic policies, mobilize the parliamentary majority, and choose governmental ministers.[3] , the Czech Republic capital.]]
 
 Cabinet
 
@@ -57,7 +55,7 @@ Cabinet of the Czech Republic is the supreme executive body in the Czech Republi
 
 Legislative branch
 
-Zasedací_sál_Poslanecké_sněmovny.jpg]] Senat_Wallenstein_palace_Prague_4677.JPG – Seat of the Senate in Prague]]
+]] – Seat of the Senate in Prague]]
 
 The Parliament (_Parlament České republiky_) has two chambers. The Chamber of Deputies (_Poslanecká sněmovna_) has 200 members, elected for a four-year term by proportional representation with a 5% election threshold. There are 14 voting districts identical to the country's administrative regions. The Chamber of Deputies, at first the Czech National Council, has the powers and responsibilities of the now defunct federal parliament of the former Czechoslovakia.
 

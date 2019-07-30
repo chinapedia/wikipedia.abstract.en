@@ -1,4 +1,4 @@
-Da_Vinci_Vitruve_Luc_Viatour_(cropped).jpg, The _Vitruvian Man_ () Accademia, Venice]] Self-portrait_at_13_by_Albrecht_D%C3%BCrer.jpg, _Self-Portrait at the Age of 13_]]
+, The _Vitruvian Man_ () Accademia, Venice]] , _Self-Portrait at the Age of 13_]]
 
 DRAWING is a form of visual art in which a person uses various drawing instruments to mark paper or another two-dimensional medium. Instruments include graphite pencils, pen and ink, various kinds of paints, inked brushes, colored pencils, crayons, charcoal, chalk, pastels, various kinds of erasers, markers, styluses, and various metals (such as silverpoint). Digital drawing is the act of using a computer to draw. Common methods of digital drawing include a stylus or finger on a touchscreen device, stylus- or finger-to-touchpad, or in some cases, a mouse. There are many digital art programs and devices.
 
@@ -9,9 +9,9 @@ In addition to its more artistic forms, drawing is frequently used in commercial
 
 Overview
 
-Galileo_moon_phases.jpg. _Phases of the Moon_. 1616.]]
+. _Phases of the Moon_. 1616.]]
 
-Drawing is one of the oldest forms of human expression within the visual arts. It is generally concerned with the marking of lines and areas of tone onto paper/other material, where the accurate representation of the visual world is expressed upon a plane surface.[3] Traditional drawings were monochrome, or at least had little colour,[4] while modern colored-pencil drawings may approach or cross a boundary between drawing and painting. In Western terminology, drawing is distinct from painting, even though similar media often are employed in both tasks. Dry media, normally associated with drawing, such as chalk, may be used in pastel paintings. Drawing may be done with a liquid medium, applied with brushes or pens. Similar supports likewise can serve both: painting generally involves the application of liquid paint onto prepared canvas or panels, but sometimes an underdrawing is drawn first on that same support. Drawing is often exploratory, with considerable emphasis on observation, problem-solving and composition. Drawing is also regularly used in preparation for a painting, further obfuscating their distinction. Drawings created for these purposes are called studies.Henri_de_Toulouse-Lautrec_-_Madame_Palmyre_with_Her_Dog,_1897.jpg]]There are several categories of drawing, including figure drawing, cartooning, doodling, and freehand. There are also many drawing methods, such as line drawing, stippling, shading, the surrealist method of entopic graphomania (in which dots are made at the sites of impurities in a blank sheet of paper, and lines are then made between the dots), and tracing (drawing on a translucent paper, such as _tracing paper_, around the outline of preexisting shapes that show through the paper).
+Drawing is one of the oldest forms of human expression within the visual arts. It is generally concerned with the marking of lines and areas of tone onto paper/other material, where the accurate representation of the visual world is expressed upon a plane surface.[3] Traditional drawings were monochrome, or at least had little colour,[4] while modern colored-pencil drawings may approach or cross a boundary between drawing and painting. In Western terminology, drawing is distinct from painting, even though similar media often are employed in both tasks. Dry media, normally associated with drawing, such as chalk, may be used in pastel paintings. Drawing may be done with a liquid medium, applied with brushes or pens. Similar supports likewise can serve both: painting generally involves the application of liquid paint onto prepared canvas or panels, but sometimes an underdrawing is drawn first on that same support. Drawing is often exploratory, with considerable emphasis on observation, problem-solving and composition. Drawing is also regularly used in preparation for a painting, further obfuscating their distinction. Drawings created for these purposes are called studies.]]There are several categories of drawing, including figure drawing, cartooning, doodling, and freehand. There are also many drawing methods, such as line drawing, stippling, shading, the surrealist method of entopic graphomania (in which dots are made at the sites of impurities in a blank sheet of paper, and lines are then made between the dots), and tracing (drawing on a translucent paper, such as _tracing paper_, around the outline of preexisting shapes that show through the paper).
 
 A quick, unrefined drawing may be called a _sketch_.
 
@@ -78,7 +78,7 @@ The basic tools are a drawing board or table, pencil sharpener and eraser, and f
 
 Technique
 
-Raphaël_-_Étude_Madone_d'Albe_1.jpg, study for what became the _Alba Madonna_, with other sketches]] Watteau_jeune_fille.jpg, _trois crayons_ technique]] Almost all draftsmen use their hands and fingers to apply the media, with the exception of some handicapped individuals who draw with their mouth or feet.[29]
+, study for what became the _Alba Madonna_, with other sketches]] , _trois crayons_ technique]] Almost all draftsmen use their hands and fingers to apply the media, with the exception of some handicapped individuals who draw with their mouth or feet.[29]
 
 Prior to working on an image, the artist typically explores how various media work. They may try different drawing implements on practice sheets to determine value and texture, and how to apply the implement to produce various effects.
 
@@ -95,7 +95,7 @@ Another technique is subtractive drawing in which the drawing surface is covered
 
 Tone
 
-Edward_Law._Pencil_drawing_by_H._M._Raeburn,_1909._Wellcome_V0003431.jpg Shading is the technique of varying the tonal values on the paper to represent the shade of the material as well as the placement of the shadows. Careful attention to reflected light, shadows and highlights can result in a very realistic rendition of the image.
+Shading is the technique of varying the tonal values on the paper to represent the shade of the material as well as the placement of the shadows. Careful attention to reflected light, shadows and highlights can result in a very realistic rendition of the image.
 
 Blending uses an implement to soften or spread the original drawing strokes. Blending is most easily done with a medium that does not immediately fix itself, such as graphite, chalk, or charcoal, although freshly applied ink can be smudged, wet or dry, for some effects. For shading and blending, the artist can use a blending stump, tissue, a kneaded eraser, a fingertip, or any combination of them. A piece of chamois is useful for creating smooth textures, and for removing material to lighten the tone. Continuous tone can be achieved with graphite on a smooth surface without blending, but the technique is laborious, involving small circular or oval strokes with a somewhat blunt point.
 
@@ -104,15 +104,13 @@ Shading techniques that also introduce texture to the drawing include hatching a
 
 Form and proportion
 
-Human_body_proportions2_svg.svg Measuring the dimensions of a subject while blocking in the drawing is an important step in producing a realistic rendition of the subject. Tools such as a compass can be used to measure the angles of different sides. These angles can be reproduced on the drawing surface and then rechecked to make sure they are accurate. Another form of measurement is to compare the relative sizes of different parts of the subject with each other. A finger placed at a point along the drawing implement can be used to compare that dimension with other parts of the image. A ruler can be used both as a straightedge and a device to compute proportions.
-
-Male_anatomical_figure,_showing_proportions_-_child_to_man._Wellcome_M0000430.jpg
+Measuring the dimensions of a subject while blocking in the drawing is an important step in producing a realistic rendition of the subject. Tools such as a compass can be used to measure the angles of different sides. These angles can be reproduced on the drawing surface and then rechecked to make sure they are accurate. Another form of measurement is to compare the relative sizes of different parts of the subject with each other. A finger placed at a point along the drawing implement can be used to compare that dimension with other parts of the image. A ruler can be used both as a straightedge and a device to compute proportions.
 
 When attempting to draw a complicated shape such as a human figure, it is helpful at first to represent the form with a set of primitive volumes. Almost any form can be represented by some combination of the cube, sphere, cylinder, and cone. Once these basic volumes have been assembled into a likeness, then the drawing can be refined into a more accurate and polished form. The lines of the primitive volumes are removed and replaced by the final likeness. Drawing the underlying construction is a fundamental skill for representational art, and is taught in many books and schools. Its correct application resolves most uncertainties about smaller details, and makes the final image look consistent.[33]
 
 A more refined art of figure drawing relies upon the artist possessing a deep understanding of anatomy and the human proportions. A trained artist is familiar with the skeleton structure, joint location, muscle placement, tendon movement, and how the different parts work together during movement. This allows the artist to render more natural poses that do not appear artificially stiff. The artist is also familiar with how the proportions vary depending on the age of the subject, particularly when drawing a portrait.
 
-2-punktperspektive.svg]]
+]]
 
 
 Perspective
@@ -123,7 +121,7 @@ When both the fronts and sides of a building are drawn, then the parallel lines 
 
 Depth can also be portrayed by several techniques in addition to the perspective approach above. Objects of similar SIZE should appear ever smaller the further they are from the viewer. Thus the back wheel of a cart appears slightly smaller than the front wheel. Depth can be portrayed through the use of TEXTURE. As the texture of an object gets further away it becomes more compressed and busy, taking on an entirely different character than if it was close. Depth can also be portrayed by reducing the contrast in more distant objects, and by making their colors less saturated. This reproduces the effect of ATMOSPHERIC haze, and cause the eye to focus primarily on objects drawn in the foreground.
 
-William-Adolphe_Bouguereau_(1825-1905)_-_Study_of_a_Seated_Veiled_Female_Figure_(19th_Century).png study drawing by William-Adolphe Bouguereau]]
+study drawing by William-Adolphe Bouguereau]]
 
 
 Artistry
@@ -139,11 +137,11 @@ A study is a draft drawing that is made in preparation for a planned final image
 
 Process
 
-Munich_-_Two_young_women_drawing_-_5814.jpg in Munich]]Individuals display differences in their ability to produce visually accurate drawings.[35] A visually accurate drawing is described as being "recognized as a particular object at a particular time and in a particular space, rendered with little addition of visual detail that can not be seen in the object represented or with little deletion of visual detail”.[36]
+in Munich]]Individuals display differences in their ability to produce visually accurate drawings.[35] A visually accurate drawing is described as being "recognized as a particular object at a particular time and in a particular space, rendered with little addition of visual detail that can not be seen in the object represented or with little deletion of visual detail”.[36]
 
 Investigative studies have aimed to explain the reasons why some individuals draw better than others. One study posited four key abilities in the drawing process: perception of objects being drawn, ability to make good representational decisions, motor skills required for mark-making and the drawer's own perception of their drawing.[37] Following this hypothesis, several studies have sought to conclude which of these processes are most significant in affecting the accuracy of drawings.
 
-Ingres_Academic_Study_(detail)_03.jpg (1801, National Museum, Warsaw)]]
+(1801, National Museum, Warsaw)]]
 
 Motor control
 

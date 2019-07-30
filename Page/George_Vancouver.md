@@ -14,7 +14,7 @@ In the late 1780s the Spanish Empire commissioned an expedition to the Pacific N
 
 Explorations
 
-Gold_covered_George_Vancouver_statue.png statue of George Vancouver on the British Columbia Parliament Buildings in Victoria, British Columbia]]
+statue of George Vancouver on the British Columbia Parliament Buildings in Victoria, British Columbia]]
 
 Vancouver Expedition
 
@@ -49,7 +49,7 @@ In 1794, he first went to Cook Inlet, the northernmost point of his exploration,
 
 Later life
 
-The_caneing_in_Conduit_Street._Dedicated_to_the_flag_officers_of_the_British_Navy.jpg caricatured Pitt's street corner assault on Vancouver]]
+caricatured Pitt's street corner assault on Vancouver]]
 
 Impressed by the view from Richmond Hill, Vancouver retired to Petersham, London.[14]
 
@@ -119,7 +119,7 @@ United States
 
 Memorials
 
-Captain_George_Vancouver's_Grave,_St_Peter's_Church,_Petersham_-_London._(24585962492).jpg, London]] George_Vancouver_Statue_Kings_Lynn.jpg, his birthplace.]]
+, London]] , his birthplace.]]
 
 -   Statues of Vancouver are located in his birthplace of King's Lynn, in front of Vancouver City Hall, and on top of the dome of the British Columbia Parliament Buildings.
 -   The Vancouver Quarter Shopping Centre bears his name in King's Lynn.
@@ -137,7 +137,7 @@ Many collections were made on the voyage: one was donated by Archibald Menzies t
 
 250th birthday commemorations
 
-Gate-to-the-Northwest-Passage.jpg Canada Post issued a $1.55 postage stamp to commemorate the 250th anniversary of Vancouver's birth, on 22 June 2007. The stamp has an embossed image of Vancouver seen from behind as he gazes forward towards a mountainous coastline. This may be the first Canadian stamp not to show the subject's face.[30]
+Canada Post issued a $1.55 postage stamp to commemorate the 250th anniversary of Vancouver's birth, on 22 June 2007. The stamp has an embossed image of Vancouver seen from behind as he gazes forward towards a mountainous coastline. This may be the first Canadian stamp not to show the subject's face.[30]
 
 The City of Vancouver in Canada organised a celebration to commemorate the 250th anniversary of Vancouver's birth, in June 2007 at the Vancouver Maritime Museum.[31] The one-hour festivities included the presentation of a massive 63 by 114 centimetre carrot cake, the firing of a gun salute by the Royal Canadian Artillery's 15th Field Regiment and a performance by the Vancouver Firefighter's Band.[32] Vancouver's then-mayor, Sam Sullivan, officially declared 22 June 2007 to be "George Day".[33]
 

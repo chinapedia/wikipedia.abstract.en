@@ -1,6 +1,6 @@
 Transportation in Guatemala includes roads (a majority unpaved), waterways, and airports. It formerly included railways.
 
-Guatemalan_Chicken_Bus.jpg. Chicken buses are repurposed American school buses.]]
+. Chicken buses are repurposed American school buses.]]
 
 
 Ground transportation

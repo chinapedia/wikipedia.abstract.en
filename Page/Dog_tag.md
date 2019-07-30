@@ -1,11 +1,11 @@
-Dogtags.jpg]] "DOG TAG" is an informal but common term for a specific type of identification tag worn by military personnel. The tags' primary use is for the identification of dead and wounded soldiers; as such, they have personal information about the soldiers written on them, and convey essential basic medical information such as the soldier's blood type[1] and history of inoculations. They often indicate religious preference as well.
+]] "DOG TAG" is an informal but common term for a specific type of identification tag worn by military personnel. The tags' primary use is for the identification of dead and wounded soldiers; as such, they have personal information about the soldiers written on them, and convey essential basic medical information such as the soldier's blood type[1] and history of inoculations. They often indicate religious preference as well.
 
 Dog tags are usually fabricated from a corrosion-resistant metal. They commonly contain two copies of the information, either in the form of a single tag that can be broken in half, or as two identical tags on the same chain. This purposeful duplication allows one tag, or half-tag, to be collected from a soldier's dead body for notification, while the duplicate remains with the corpse if the conditions of battle prevent it from being immediately recovered. The term arose and became popular because of the tags' resemblance to animal registration tags.
 
 
 History
 
-Dog_tags.jpg]]
+]]
 
 The earliest mention of an identification tag for soldiers comes in Polyaenus (Stratagems 1.17) where the Spartans wrote their names on sticks tied to their left wrists. A type of dog tag ("signaculum"), was given to the Roman legionnaire at the moment of enrollment.[2] The legionnaire "signaculum" was a lead disk with a leather string, worn around the neck,[3] with the name of the recruit and the indication of the legion of which the recruit was part. This procedure, together with enrollment in the list of recruits, was made at the beginning of a four-month probatory period ("probatio"). The recruit got the military status only after the oath of allegiance ("sacramentum"), at the end of "probatio", meaning that from a legal point of view the "signaculum" was given to a subject who was no longer a civilian, but not yet in the military.
 
@@ -23,7 +23,7 @@ On a volunteer basis Prussian soldiers had decided to wear identification tags i
 
 First World War
 
-Erkennungsmarke_Georg_Redeker_,_item_1.jpg German army dog tag indicating Name, place of birth, battalion, unit and serial number]]
+German army dog tag indicating Name, place of birth, battalion, unit and serial number]]
 
 The British Army introduced identity discs in place of identity cards in 1907, in the form of aluminium discs, typically made at regimental depots using machines similar to those common at fun fairs, the details being pressed into the thin metal one letter at a time.
 
@@ -37,7 +37,7 @@ The U.S. Army changed regulations on July 6, 1916, so that all soldiers were iss
 
 World War II "notched" tags
 
-South_African_Navy_WW2_dogtag.jpg during World War II with rank, surname, initials, force number and religious affiliation]]
+during World War II with rank, surname, initials, force number and religious affiliation]]
 
 There is a recurring myth about the notch situated in one end of the dog tags issued to United States Army personnel during World War II, and up until the Vietnam War era. It was rumored that the notch's purpose was that, if a soldier found one of his comrades on the battlefield, he could take one tag to the commanding officer and stick the other between the teeth of the soldier to ensure that the tag would remain with the body and be identified.
 
@@ -81,7 +81,7 @@ The Austrian Bundesheer utilized a single long, rectangular tag, with oval ends,
 
 Australia
 
-Australian_dog_tags.png The Australian Defence Force issues soldiers two tags of different shapes, one octagonal and one circular, containing the following information:
+The Australian Defence Force issues soldiers two tags of different shapes, one octagonal and one circular, containing the following information:
 
 -   AS (denoting Australia, previously both AU and AUST have been used)
 -   PMKeyS/Service number
@@ -108,7 +108,7 @@ Belgian Forces identity tags are, like the Canadian and Norwegian, designed to b
 
 Canada
 
-CFID.JPG ID Disk. Name and service number are redacted.]]
+ID Disk. Name and service number are redacted.]]
 
 Canadian Forces identity discs (abbreviated "I discs") are designed to be broken in two in the case of fatality; the lower half is returned to National Defence Headquarters with the member's personal documents, while the upper half remains on the body. The tags contain the following information:[17]
 
@@ -159,8 +159,6 @@ In Cyprus, identification tags include the following information:
 
 Denmark
 
-Danish_military_dog_tag_armytags.co.uk.jpg
-
 The military of Denmark use dog tags made from small, rectangular metal plates. The tag is designed to be broken into two pieces each with the following information stamped onto it:
 
 -   Personal identification number
@@ -171,7 +169,7 @@ Additionally, the right hand side of each half-tag is engraved 'DANMARK', .[19] 
 
 East Germany
 
-Erkennungsmarke_NVA_Vorderseite.PNG The Nationale Volksarmee used a tag nearly identical to that used by both the Wehrmacht and the West German Bundeswehr. The oval aluminum tag was stamped "DDR" (Deutsche Demokratische Republik) above the personal ID number; this information was repeated on the bottom half, which was intended to be broken off in case of death. Oddly, the tag was not worn, but required to be kept in a plastic sleeve in the back of the WDA identity booklet.
+The Nationale Volksarmee used a tag nearly identical to that used by both the Wehrmacht and the West German Bundeswehr. The oval aluminum tag was stamped "DDR" (Deutsche Demokratische Republik) above the personal ID number; this information was repeated on the bottom half, which was intended to be broken off in case of death. Oddly, the tag was not worn, but required to be kept in a plastic sleeve in the back of the WDA identity booklet.
 
 Ecuador
 
@@ -199,8 +197,6 @@ Example:
 
 Finland
 
-Suomalainen_tuntolevy.jpg
-
 In the Finnish Defence Forces, "tunnuslevy" or WWII term "tuntolevy" (Finnish for "Identification plate") is made of stainless steel and designed to be broken in two; however, the only text on it is the personal identification number and the letters _SF_ (rarely FI), which stands for Suomi Finland, within a tower stamped atop of the upper half.
 
 France
@@ -208,8 +204,6 @@ France
 France issues either a metallic rounded rectangle (army) or disk (navy), designed to be broken in half, bearing family name & first name above the ID number.
 
 Germany
-
-Erkennungsmarke_BW.jpg
 
 German Bundeswehr ID tags are an oval-shaped disc designed to be broken in half. They are made of stainless steel, heigh and width. The two sides contain different information which are mirrored upside-down on the lower half of the ID tag. They feature the following information on segmented and numbered fields:
 
@@ -238,7 +232,7 @@ In Greece, identification tags include the following information:
 
 Hungary
 
-The Hungarian army dog tag is made out of steel, forming a 25×35 mm tag designed to split diagonally. Both sides contain the same information: the soldier's personal identity code, blood group and the word HUNGARIA. Some may not have the blood group on them. These are only issued to soldiers who are serving outside of the country. If the soldier should die, one side is removed and kept for the army's official records, while the other side is left attached to the body. Dögcédula_1.JPG
+The Hungarian army dog tag is made out of steel, forming a 25×35 mm tag designed to split diagonally. Both sides contain the same information: the soldier's personal identity code, blood group and the word HUNGARIA. Some may not have the blood group on them. These are only issued to soldiers who are serving outside of the country. If the soldier should die, one side is removed and kept for the army's official records, while the other side is left attached to the body.
 
 Iraq
 
@@ -336,8 +330,6 @@ The former Republic of Rhodesia used two WW2 British-style compressed asbestos f
 
 Russian Federation
 
-Dog-tag-modern-russia.jpg
-
 The Russian Armed Forces use oval metal tags, similar to the dog tags of the Soviet Army. Each tag contains the title '' () and the individual's alphanumeric number, as shown on the photo.
 
 Singapore
@@ -387,8 +379,6 @@ Issues a single metal oval, worn vertically, stamped "" above and below the 3-sl
 
 Sweden
 
-Swedogtag.jpg
-
 Swedish identification tags are designed to be able to break apart. The information on them was prior to 2010:
 
 -   Personal identity number (twice, once in the upper part and once below)
@@ -413,8 +403,6 @@ On the back side the letters CH (standing for _Confoederatio Helvetica_) are eng
 
 United Kingdom
 
-Second_World_War_British_dog_tag_reverse_side_(RAF).jpg
-
 The British Armed Forces currently utilise two circular non-reflecting stainless steel tags engraved with the following 'Big 6' details:
 
 1.  Blood group
@@ -433,8 +421,6 @@ The fibre identity disks in the RAF were still in use in 1999.
 From 1960 these were replaced with stainless steel ID tags on a green nylon cord, two circular and one oval. The oval was withdrawn around 1990.
 
 United States
-
-US_Dog_Tag_with_Surname,_First_name,_Social_Security_number,_Blood_type,_Religion.jpg
 
 Tags are properly known as identification tags; the term "dog tags" has never been used in regulations.[22]
 

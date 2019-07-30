@@ -2,7 +2,7 @@ ADENYLYL CYCLASE (, also commonly known as ADENYL CYCLASE and ADENYLATE CYCLASE,
 
 All classes of adenylyl cyclase catalyse the conversion of adenosine triphosphate (ATP) to 3',5'-cyclic AMP (cAMP) and pyrophosphate.[4] Magnesium ions are generally required and appears to be closely involved in the enzymatic mechanism. The cAMP produced by AC then serves as a regulatory signal via specific cAMP-binding proteins, either transcription factors, enzymes (e.g., cAMP-dependent kinases), or ion transporters.
 
-adenylate_kinase.png to 3',5'-cyclic AMP]]
+to 3',5'-cyclic AMP]]
 
 
 Classes
@@ -27,7 +27,7 @@ Photoactivatable adenylyl cyclase (PAC) was discovered in _Euglena gracilis_ and
 
 Structure
 
-Adenylyl_cyclase.png Most class III adenylyl cyclases are transmembrane proteins with 12 transmembrane segments. The protein is organized with 6 transmembrane segments, then the C1 cytoplasmic domain, then another 6 membrane segments, and then a second cytoplasmic domain called C2. The important parts for function are the N-terminus and the C1 and C2 regions. The C1a and C2a subdomains are homologous and form an intramolecular 'dimer' that forms the active site. In _Mycobacterium tuberculosis_ and many other bacterial cases, the AC-III polypeptide is only half as long, comprising one 6-transmembrane domain followed by a cytoplasmic domain, but two of these form a functional homodimer that resembles the mammalian architecture with two active sites. In non-animal class III ACs, the catalytic cytoplasmic domain is seen associated with other (not necessarily transmembrane) domains.[15]
+Most class III adenylyl cyclases are transmembrane proteins with 12 transmembrane segments. The protein is organized with 6 transmembrane segments, then the C1 cytoplasmic domain, then another 6 membrane segments, and then a second cytoplasmic domain called C2. The important parts for function are the N-terminus and the C1 and C2 regions. The C1a and C2a subdomains are homologous and form an intramolecular 'dimer' that forms the active site. In _Mycobacterium tuberculosis_ and many other bacterial cases, the AC-III polypeptide is only half as long, comprising one 6-transmembrane domain followed by a cytoplasmic domain, but two of these form a functional homodimer that resembles the mammalian architecture with two active sites. In non-animal class III ACs, the catalytic cytoplasmic domain is seen associated with other (not necessarily transmembrane) domains.[15]
 
 Class III adenylyl cyclase domains can be further divided into four subfamilies, termed class IIIa through IIId. Animal membrane-bound ACs belong to class IIIa.[16]
 

@@ -87,8 +87,6 @@ EVA 2
 
 Mission highlights
 
-Apollo_14_Saturn_V_climbs.jpg
-
 Launch and flight to lunar orbit
 
 Apollo 14 launched during heavy cloud cover and the Saturn V booster quickly disappeared from view. NASA's long-range cameras, based 60 miles south in Vero Beach, had a clear shot of the remainder of the launch. Following the launch, the Launch Control Center at Kennedy Space Center was visited by U.S. Vice President Spiro T. Agnew, Prince Juan Carlos of Spain, and his wife, Princess Sofía.
@@ -103,7 +101,7 @@ A second problem occurred during the powered descent, when the LM landing radar 
 
 Lunar surface operations
 
-a14-plaque.jpg left on the Moon by Apollo 14]]
+left on the Moon by Apollo 14]]
 
 Shepard and Mitchell named their landing site _Fra Mauro Base_, and this designation is recognized by the International Astronomical Union (depicted in Latin on lunar maps as _Statio Fra Mauro_).
 
@@ -111,23 +109,21 @@ Shepard's first words, after stepping onto the lunar surface were, "And it's bee
 
 Shepard's moonwalking suit was the first to utilize red stripes on the arms and legs and on the top of the lunar EVA sunshade "hood," so as to allow easy identification between the commander and LM pilot on the surface;[9] on the Apollo 12 pictures, it had been almost impossible to distinguish between the two crewmen, causing a great deal of confusion. This feature was included on Jim Lovell's Apollo 13 suit; because no landing was made on that mission, Apollo 14 was the first to make use of it. This feature was used for the remaining Apollo missions, and for the EVAs of Space Shuttle flights afterwards, and it is still in use today on both the U.S. and Russian space suits on the International Space Station.
 
-Big_Bertha_Rock.jpg" rock (Lunar Sample 14321) was the third largest rock collected during the Apollo program. In 2019, it was discovered that this is the oldest known rock from Earth, 4 billion years old.[10]]]
+" rock (Lunar Sample 14321) was the third largest rock collected during the Apollo program. In 2019, it was discovered that this is the oldest known rock from Earth, 4 billion years old.[10]]]
 
 After landing in the Fra Mauro formation—the destination for Apollo 13—Shepard and Mitchell took two moonwalks, adding new seismic studies[11] to the by now familiar Apollo Lunar Surface Experiments Package (ALSEP), and using the Modular Equipment Transporter (MET), a pull-cart for carrying equipment and samples, nicknamed "lunar rickshaw". Roosa, meanwhile, took pictures from on board command module _Kitty Hawk_ in lunar orbit.
-
-A14mrf3-1.jpg
 
 The second moonwalk, or EVA, was intended to reach the rim of the wide Cone Crater. The two astronauts were not able to find the rim amid the rolling terrain of the crater's slopes. They became physically exhausted from the attempt and with their suits' oxygen supplies starting to run low, the effort was called off. Later analysis, using the pictures that they took, determined that they had come within an estimated of the crater's rim. Images from the Lunar Reconnaissance Orbiter (LRO) show the tracks of the astronauts and the MET come to within 30 m of the rim.[12]
 
 Shepard and Mitchell deployed and activated various scientific instruments and experiments and collected almost of lunar samples for return to Earth, including the famous 20 pound (9 kg) Big Bertha rock. Other Apollo 14 achievements included the only use of MET; longest distance traversed by foot on the lunar surface; first use of shortened lunar orbit rendezvous techniques; and the first extensive orbital science period conducted during CSM solo operations.
 
-Apollo_14_golf.jpg showing Shepard taking a couple of golf swings]]
+showing Shepard taking a couple of golf swings]]
 
 The astronauts also engaged in less serious activities on the Moon. Shepard brought along a six iron golf club head which he could attach to the handle of a lunar excavation tool, and two golf balls, and took several one-handed swings (due to the limited flexibility of the EVA suit). He exuberantly exclaimed that the second ball went "miles and miles and miles" in the low lunar gravity, but later estimated the distance as . Mitchell then threw a lunar scoop handle as if it were a javelin.
 
 Apollo 14 lunar samples
 
-Apollo_Crew_Big_Bertha.jpg and commander Alan Shepard analyzing Big Bertha while in the laboratory]] A14_basalt_lg.png
+and commander Alan Shepard analyzing Big Bertha while in the laboratory]]
 
 The Moon rocks, or lunar samples, from Apollo 14 are unique in that most of the 94 pounds of rocks are breccia, which are rocks that are composed of fragments of other, older rocks. Breccias form when the heat and pressure of meteorite impacts fuse small rock fragments together. There were a few basalts that were collected in this mission in the form of clasts (fragments) in breccia. The Apollo 14 basalts are generally richer in aluminum and sometimes richer in potassium than other lunar basalts. Most lunar mare basalts collected during the Apollo program were formed from 3.0 to 3.8 billion years ago. The Apollo 14 basalts were formed 4.0 to 4.3 billion years ago, older than the volcanism observed at any of the mare locations studied during the Apollo program.[13]
 
@@ -135,7 +131,7 @@ In January 2019 research showed that Big Bertha, a 19.837 pound rock, has numero
 
 Return, splashdown and quarantine
 
-Apollo14_-_Landung.jpg On the way back to Earth, the crew conducted the first U.S. materials processing experiments in space.
+On the way back to Earth, the crew conducted the first U.S. materials processing experiments in space.
 
 The command module _Kitty Hawk_ splashed down in the South Pacific Ocean on February 9, 1971 at 21:05 [UTC], approximately south of American Samoa. After recovery by the ship USS _New Orleans_, the crew was flown to Pago Pago International Airport in Tafuna for a reception before being flown on a C-141 cargo plane to Honolulu. The Apollo 14 astronauts were the last lunar explorers to be quarantined on their return from the Moon.
 
@@ -144,14 +140,14 @@ Roosa, who worked in forestry in his youth, took several hundred tree seeds on t
 
 Mission insignia
 
-Apollo_14_Flown_Silver_Robbins_Medallion_(SN-192).jpg]] The oval insignia shows a gold NASA Astronaut Pin, given to U.S. astronauts upon completing their first space flight, traveling from the Earth to the Moon. A gold band around the edge includes the mission and astronaut names. The designer was Jean Beaulieu.
+]] The oval insignia shows a gold NASA Astronaut Pin, given to U.S. astronauts upon completing their first space flight, traveling from the Earth to the Moon. A gold band around the edge includes the mission and astronaut names. The designer was Jean Beaulieu.
 
 The backup crew spoofed the patch with its own version, with revised artwork showing a Wile E. Coyote cartoon character depicted as gray-bearded (for Shepard, who was 47 at the time of the mission and the oldest man on the Moon), pot-bellied (for Mitchell, who had a pudgy appearance) and red furred (for Roosa's red hair), still on the way to the Moon, while Road Runner (for the backup crew) is already on the Moon, holding a U.S. flag and a flag labeled "1st Team."[17] The flight name is replaced by "BEEP BEEP" and the backup crew's names are given. Several of these patches were hidden by the backup crew and found during the flight by the crew in notebooks and storage lockers in both the CSM _Kitty Hawk_ and the LM _Antares_ spacecraft, and one patch was even stored on the MET lunar hand cart.[18]
 
 
 Spacecraft locations
 
-Apollo_14_Command_Module_(5507555344).jpg The Apollo 14 command module _Kitty Hawk_ is on display at the Apollo/Saturn V Center building at the Kennedy Space Center after being on display at the United States Astronaut Hall of Fame near Titusville, Florida, for several years.
+The Apollo 14 command module _Kitty Hawk_ is on display at the Apollo/Saturn V Center building at the Kennedy Space Center after being on display at the United States Astronaut Hall of Fame near Titusville, Florida, for several years.
 
 The ascent stage of lunar module _Antares_ impacted the Moon on February 7, 1971 at 00:45:25.7 UT (February 6, 7:45 PM EST) . _Antares_' descent stage and the mission's other equipment remain at Fra Mauro at .
 

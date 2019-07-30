@@ -20,7 +20,7 @@ Sectors
 
 Agriculture, forestry and fishing
 
-Coffee_sorting_process,_near_Hawassa._Holding_up_beans.jpg.]]
+.]]
 
 , agriculture accounts for almost 40.5% of GDP, 81 percent of exports, and 85 percent of the labour force.[14] Many other economic activities depend on agriculture, including marketing, processing, and export of agricultural products. Production is overwhelmingly of a subsistence nature, and a large part of commodity exports are provided by the small agricultural cash-crop sector. Principal crops include coffee, pulses (e.g., beans), oilseeds, cereals, potatoes, sugarcane, and vegetables. Exports are almost entirely agricultural commodities, with coffee as the largest foreign exchange earner, and its flower industry becoming a new source of revenue: for 2005/2006 (the latest year available) Ethiopia's coffee exports represented 0.9% of the world exports, and oilseeds and flowers each representing 0.5%.[15] Ethiopia is Africa's second biggest maize producer.[16] In 2000, Ethiopia's livestock contributed to 19% of total GDP.[17]
 
@@ -58,7 +58,7 @@ A program to privatize state-owned enterprises has been underway since the late 
 
 Transport
 
-Ethiopian_Airlines_Boeing_787-8_ET-AOS_FRA_2012-10-28.png is the largest and most profitable airline in Africa.]] Prior to the outbreak of the 1998–2000 Eritrean–Ethiopian War, landlocked Ethiopia mainly relied on the seaports of Asseb and Massawa in Eritrea for international trade. , Ethiopia uses the ports of Djibouti, connected to Addis Ababa by the Addis Ababa – Djibouti Railway, and to a lesser extent Port Sudan in Sudan. In May 2005, the Ethiopian government began negotiations to use the port of Berbera in Somaliland.
+is the largest and most profitable airline in Africa.]] Prior to the outbreak of the 1998–2000 Eritrean–Ethiopian War, landlocked Ethiopia mainly relied on the seaports of Asseb and Massawa in Eritrea for international trade. , Ethiopia uses the ports of Djibouti, connected to Addis Ababa by the Addis Ababa – Djibouti Railway, and to a lesser extent Port Sudan in Sudan. In May 2005, the Ethiopian government began negotiations to use the port of Berbera in Somaliland.
 
 Road
 
@@ -83,7 +83,7 @@ Aside from wholesale and retail trade, transportation, and communications, the s
 
 Macroeconomic trends
 
-Ethiopia_econ_1976.jpg The following table displays the trend of Ethiopia's gross domestic product at market prices, according to estimates by the International Monetary Fund with figures in millions of Ethiopian Birr.[39]
+The following table displays the trend of Ethiopia's gross domestic product at market prices, according to estimates by the International Monetary Fund with figures in millions of Ethiopian Birr.[39]
 
   Year   Gross Domestic Product   GDP (USD)    US Dollar
   ------ ------------------------ ------------ ------------------------------
@@ -188,7 +188,7 @@ The following table shows the main economic indicators in 1980–2017. Inflation
 
 External trade
 
-2006Ethiopian_exports.PNG Until 2013, the major agricultural export crop was coffee, providing about 26.4% of Ethiopia's foreign exchange earnings. In the beginning of 2014, oilseeds exports have been more important.[42] Coffee is critical to the Ethiopian economy. More than 15 million people (25% of the population) derive their livelihood from the coffee sector.[43] Treemap_on_exports_of_Ethiopia_2014.png–Harvard Economic Complexity Observatory. (2014)]] Other exports include live animals, leather and leather products, chemicals, gold, pulses, oilseeds, flowers, fruits and vegetables and khat (or _qat_), a leafy shrub which has psychotropic qualities when chewed. Cross-border trade by pastoralists is often informal and beyond state control and regulation. In East Africa, over 95% of cross-border trade is through unofficial channels and the unofficial trade of live cattle, camels, sheep and goats from Ethiopia sold to Somalia, Kenya and Djibouti generates an estimated total value of between US$250 and US$300 million annually (100 times more than the official figure).[44] This trade helps lower food prices, increase food security, relieve border tensions and promote regional integration.[45] However, there are also risks as the unregulated and undocumented nature of this trade runs risks, such as allowing disease to spread more easily across national borders. Furthermore, the government of Ethiopia is purportedly unhappy with lost tax revenue and foreign exchange revenues.[46] Recent initiatives have sought to document and regulate this trade.[47]
+Until 2013, the major agricultural export crop was coffee, providing about 26.4% of Ethiopia's foreign exchange earnings. In the beginning of 2014, oilseeds exports have been more important.[42] Coffee is critical to the Ethiopian economy. More than 15 million people (25% of the population) derive their livelihood from the coffee sector.[43] –Harvard Economic Complexity Observatory. (2014)]] Other exports include live animals, leather and leather products, chemicals, gold, pulses, oilseeds, flowers, fruits and vegetables and khat (or _qat_), a leafy shrub which has psychotropic qualities when chewed. Cross-border trade by pastoralists is often informal and beyond state control and regulation. In East Africa, over 95% of cross-border trade is through unofficial channels and the unofficial trade of live cattle, camels, sheep and goats from Ethiopia sold to Somalia, Kenya and Djibouti generates an estimated total value of between US$250 and US$300 million annually (100 times more than the official figure).[44] This trade helps lower food prices, increase food security, relieve border tensions and promote regional integration.[45] However, there are also risks as the unregulated and undocumented nature of this trade runs risks, such as allowing disease to spread more easily across national borders. Furthermore, the government of Ethiopia is purportedly unhappy with lost tax revenue and foreign exchange revenues.[46] Recent initiatives have sought to document and regulate this trade.[47]
 
 Dependent on a few vulnerable crops for its foreign exchange earnings and reliant on imported oil, Ethiopia lacks sufficient foreign exchange. The financially conservative government has taken measures to solve this problem, including stringent import controls and sharply reduced subsidies on retail gasoline prices. Nevertheless, the largely subsistence economy is incapable of supporting high military expenditures, drought relief, an ambitious development plan, and indispensable imports such as oil; it therefore depends on foreign assistance.
 

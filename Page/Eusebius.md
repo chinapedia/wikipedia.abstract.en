@@ -57,7 +57,7 @@ Much like his birth, the exact date of Eusebius' death is unknown. However, ther
 
 Works
 
-Armenian_translation_of_Eusebius_Chronicon.jpg Of the extensive literary activity of Eusebius, a relatively large portion has been preserved. Although posterity suspected him of Arianism, Eusebius had made himself indispensable by his method of authorship; his comprehensive and careful excerpts from original sources saved his successors the painstaking labor of original research. Hence, much has been preserved, quoted by Eusebius, which otherwise would have been lost.
+Of the extensive literary activity of Eusebius, a relatively large portion has been preserved. Although posterity suspected him of Arianism, Eusebius had made himself indispensable by his method of authorship; his comprehensive and careful excerpts from original sources saved his successors the painstaking labor of original research. Hence, much has been preserved, quoted by Eusebius, which otherwise would have been lost.
 
 The literary productions of Eusebius reflect on the whole the course of his life. At first, he occupied himself with works on Biblical criticism under the influence of Pamphilus and probably of Dorotheus of Tyre of the School of Antioch. Afterward, the persecutions under Diocletian and Galerius directed his attention to the martyrs of his own time and the past, and this led him to the history of the whole Church and finally to the history of the world, which, to him, was only a preparation for ecclesiastical history.
 
@@ -90,7 +90,7 @@ Eusebius compiled his work in Greek, although a Latin translation of the Onomast
 
 Biblical text criticism
 
-Fol._10v-11r_Egmond_Gospels.jpg were often included in Early Medieval Gospel books]] Pamphilus and Eusebius occupied themselves with the textual criticism of the Septuagint text of the Old Testament and especially of the New Testament. An edition of the Septuagint seems to have been already prepared by Origen, which, according to Jerome, was revised and circulated by Eusebius and Pamphilus. For an easier survey of the material of the four Evangelists, Eusebius divided his edition of the New Testament into paragraphs and provided it with a synoptical table so that it might be easier to find the pericopes that belong together. These canon tables or "Eusebian canons" remained in use throughout the Middle Ages, and illuminated manuscript versions are important for the study of early medieval art, as they are the most elaborately decorated pages of many Gospel books. Eusebius detailed in _Epistula ad Carpianum_ how to use his canons.
+were often included in Early Medieval Gospel books]] Pamphilus and Eusebius occupied themselves with the textual criticism of the Septuagint text of the Old Testament and especially of the New Testament. An edition of the Septuagint seems to have been already prepared by Origen, which, according to Jerome, was revised and circulated by Eusebius and Pamphilus. For an easier survey of the material of the four Evangelists, Eusebius divided his edition of the New Testament into paragraphs and provided it with a synoptical table so that it might be easier to find the pericopes that belong together. These canon tables or "Eusebian canons" remained in use throughout the Middle Ages, and illuminated manuscript versions are important for the study of early medieval art, as they are the most elaborately decorated pages of many Gospel books. Eusebius detailed in _Epistula ad Carpianum_ how to use his canons.
 
 _Chronicle_
 

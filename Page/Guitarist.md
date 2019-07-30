@@ -1,4 +1,4 @@
-Guitarist_Gretchen_Menn_2017.jpg of rock tribute band Zepparella performing at the 3rd Annual Malibu Guitar Festival in 2017.]] Guitar_players_in_the_city_centre_of_Buenos_Aires.JPG.]] A GUITARIST (or a GUITAR PLAYER) is a person who plays the guitar. Guitarists may play a variety of guitar family instruments such as classical guitars, acoustic guitars, electric guitars, and bass guitars. Some guitarists accompany themselves on the guitar by singing or playing the harmonica.
+of rock tribute band Zepparella performing at the 3rd Annual Malibu Guitar Festival in 2017.]] .]] A GUITARIST (or a GUITAR PLAYER) is a person who plays the guitar. Guitarists may play a variety of guitar family instruments such as classical guitars, acoustic guitars, electric guitars, and bass guitars. Some guitarists accompany themselves on the guitar by singing or playing the harmonica.
 
 
 Techniques
@@ -9,8 +9,6 @@ The guitarist may also employ various methods for selecting notes and chords, in
 
 
 Notable guitarists
-
-Great_guitarist_montage.jpg
 
 Rock, heavy metal, jazz and country
 

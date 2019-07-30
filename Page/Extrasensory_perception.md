@@ -5,7 +5,7 @@ SECOND SIGHT is a form of extrasensory perception, the power to perceive things 
 
 History
 
-Cartas_Zener.svg were first used in the 1930s for experimental research into ESP.]] Hubert_Pearce_with_J._B._Rhine.png with J. B. Rhine.]]
+were first used in the 1930s for experimental research into ESP.]] with J. B. Rhine.]]
 
 In the 1930s, at Duke University in North Carolina, J. B. Rhine and his wife Louisa E. Rhine conducted investigation into extrasensory perception. While Louisa Rhine concentrated on collecting accounts of spontaneous cases, J. B. Rhine worked largely in the laboratory, carefully defining terms such as ESP and _psi_ and designing experiments to test them. A simple set of cards was developed, originally called Zener cards[5] – now called ESP cards. They bear the symbols circle, square, wavy lines, cross, and star. There are five of each type of card in a pack of 25.
 

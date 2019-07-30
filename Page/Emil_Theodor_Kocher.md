@@ -92,7 +92,7 @@ In 1904 or 1905 he built a private clinic called "Ulmenhof" which had space for 
 
 Legacy
 
-Karl_Hänny_Büste_Theodor_Kocher_3.jpg)]]
+)]]
 
 Kocher was also a famous and loved teacher. During nearly 100 semesters he taught his knowledge to about 10 000 students of the University of Bern. He was able to inspire students and taught them to think clearly and logically. Specifically, Kocher also taught a generation of Jewish-Russian students who could not study in Russia.[85] This association with Russia has also led the Russian Geographical Society to name a volcano after him (in the area of Ujun-Choldongi [86] in Manchuria [87] ).
 

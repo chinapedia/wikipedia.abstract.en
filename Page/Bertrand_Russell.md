@@ -9,7 +9,7 @@ Biography
 
 Early life and background
 
-Bertrand_Russell_in_1876.jpg Pembroke_Lodge,_Richmond_Park.jpg]]
+]]
 
 Bertrand Russell was born on 18 May 1872 at Ravenscroft, Trellech, Monmouthshire, into an influential and liberal family of the British aristocracy.[16] His parents, Viscount and Viscountess Amberley, were radical for their times. Lord Amberley consented to his wife's affair with their children's tutor, the biologist Douglas Spalding. Both were early advocates of birth control at a time when this was considered scandalous.[17] Lord Amberley was an atheist and his atheism was evident when he asked the philosopher John Stuart Mill to act as Russell's secular godfather.[18] Mill died the year after Russell's birth, but his writings had a great effect on Russell's life.
 
@@ -31,7 +31,7 @@ He traveled to the continent in 1890 with an American friend, Edward FitzGerald,
 
 University and first marriage
 
-Portrait_of_Bertrand_Russell_in_1893.jpg Russell won a scholarship to read for the Mathematical Tripos at Trinity College, Cambridge, and commenced his studies there in 1890,[36] taking as coach Robert Rumsey Webb. He became acquainted with the younger George Edward Moore and came under the influence of Alfred North Whitehead, who recommended him to the Cambridge Apostles. He quickly distinguished himself in mathematics and philosophy, graduating as seventh Wrangler in the former in 1893 and becoming a Fellow in the latter in 1895.[37][38]
+Russell won a scholarship to read for the Mathematical Tripos at Trinity College, Cambridge, and commenced his studies there in 1890,[36] taking as coach Robert Rumsey Webb. He became acquainted with the younger George Edward Moore and came under the influence of Alfred North Whitehead, who recommended him to the Cambridge Apostles. He quickly distinguished himself in mathematics and philosophy, graduating as seventh Wrangler in the former in 1893 and becoming a Fellow in the latter in 1895.[37][38]
 
 Russell was 17 years old in the summer of 1889 when he met the family of Alys Pearsall Smith, an American Quaker five years older, who was a graduate of Bryn Mawr College near Philadelphia.[39][40] He became a friend of the Pearsall Smith family – they knew him primarily as "Lord John's grandson" and enjoyed showing him off.[41]
 
@@ -41,7 +41,7 @@ During his years of separation from Alys, Russell had passionate (and often simu
 
 Early career
 
-Russell1907-2.jpg Russell began his published work in 1896 with _German Social Democracy_, a study in politics that was an early indication of a lifelong interest in political and social theory. In 1896 he taught German social democracy at the London School of Economics.[47] He was a member of the Coefficients dining club of social reformers set up in 1902 by the Fabian campaigners Sidney and Beatrice Webb.[48]
+Russell began his published work in 1896 with _German Social Democracy_, a study in politics that was an early indication of a lifelong interest in political and social theory. In 1896 he taught German social democracy at the London School of Economics.[47] He was a member of the Coefficients dining club of social reformers set up in 1902 by the Fabian campaigners Sidney and Beatrice Webb.[48]
 
 He now started an intensive study of the foundations of mathematics at Trinity. In 1898 he wrote _An Essay on the Foundations of Geometry_ which discussed the Cayley–Klein metrics used for non-Euclidean geometry.[49] He attended the International Congress of Philosophy in Paris in 1900 where he met Giuseppe Peano and Alessandro Padoa. The Italians had responded to Georg Cantor, making a science of set theory; they gave Russell their literature including the Formulario mathematico. Russell was impressed by the precision of Peano's arguments at the Congress, read the literature upon returning to England, and came upon Russell's paradox. In 1903 he published _The Principles of Mathematics_, a work on foundations of mathematics. It advanced a thesis of logicism, that mathematics and logic are one and the same.[50]
 
@@ -73,7 +73,7 @@ Between the wars
 
 In August 1920, Russell travelled to Soviet Russia as part of an official delegation sent by the British government to investigate the effects of the Russian Revolution.[63] He wrote a four-part series of articles, titled "Soviet Russia1920", for the US magazine _The Nation_.[64][65] He met Vladimir Lenin and had an hour-long conversation with him. In his autobiography, he mentions that he found Lenin disappointing, sensing an "impish cruelty" in him and comparing him to "an opinionated professor". He cruised down the Volga on a steamship. His experiences destroyed his previous tentative support for the revolution. He subsequently wrote a book, _The Practice and Theory of Bolshevism_,[66] about his experiences on this trip, taken with a group of 24 others from the UK, all of whom came home thinking well of the Soviet regime, despite Russell's attempts to change their minds. For example, he told them that he had heard shots fired in the middle of the night and was sure that these were clandestine executions, but the others maintained that it was only cars backfiring.
 
-Russell_with_John_and_Kate.jpg and Kate]] Russell's lover Dora Black, a British author, feminist and socialist campaigner, visited Soviet Russia independently at the same time; in contrast to his reaction, she was enthusiastic about the Bolshevik revolution.[67]
+and Kate]] Russell's lover Dora Black, a British author, feminist and socialist campaigner, visited Soviet Russia independently at the same time; in contrast to his reaction, she was enthusiastic about the Bolshevik revolution.[67]
 
 The following autumn, Russell, accompanied by Dora, visited Peking (as it was then known in the West) to lecture on philosophy for a year.[68] He went with optimism and hope, seeing China as then being on a new path.[69] Other scholars present in China at the time included John Dewey[70] and Rabindranath Tagore, the Indian Nobel-laureate poet.[71] Before leaving China, Russell became gravely ill with pneumonia, and incorrect reports of his death were published in the Japanese press.[72] When the couple visited Japan on their return journey, Dora took on the role of spurning the local press by handing out notices reading "Mr. Bertrand Russell, having died according to the Japanese press, is unable to give interviews to Japanese journalists".[73][74] Apparently they found this harsh and reacted resentfully.
 
@@ -101,7 +101,7 @@ Before World War II, Russell taught at the University of Chicago, later moving o
 
 Later life
 
-Bertrand_Russell_1954.jpg Russell participated in many broadcasts over the BBC, particularly _The Brains Trust_ and the Third Programme, on various topical and philosophical subjects. By this time Russell was world-famous outside academic circles, frequently the subject or author of magazine and newspaper articles, and was called upon to offer opinions on a wide variety of subjects, even mundane ones. En route to one of his lectures in Trondheim, Russell was one of 24 survivors (among a total of 43 passengers) of an aeroplane crash in Hommelvik in October 1948. He said he owed his life to smoking since the people who drowned were in the non-smoking part of the plane.[94][95] _A History of Western Philosophy_ (1945) became a best-seller and provided Russell with a steady income for the remainder of his life.
+Russell participated in many broadcasts over the BBC, particularly _The Brains Trust_ and the Third Programme, on various topical and philosophical subjects. By this time Russell was world-famous outside academic circles, frequently the subject or author of magazine and newspaper articles, and was called upon to offer opinions on a wide variety of subjects, even mundane ones. En route to one of his lectures in Trondheim, Russell was one of 24 survivors (among a total of 43 passengers) of an aeroplane crash in Hommelvik in October 1948. He said he owed his life to smoking since the people who drowned were in the non-smoking part of the plane.[94][95] _A History of Western Philosophy_ (1945) became a best-seller and provided Russell with a steady income for the remainder of his life.
 
 In 1942 Russell argued in favour of a moderate socialism, capable of overcoming its metaphysical principles, in an inquiry on dialectical materialism, launched by the Austrian artist and philosopher Wolfgang Paalen in his journal _DYN_, saying "I think the metaphysics of both Hegel and Marx plain nonsense – Marx's claim to be 'science' is no more justified than Mary Baker Eddy's. This does not mean that I am opposed to socialism."[96]
 
@@ -113,7 +113,7 @@ In 1948, Russell was invited by the BBC to deliver the inaugural Reith Lectures[
 
 In the King's Birthday Honours of 9 June 1949, Russell was awarded the Order of Merit,[106] and the following year he was awarded the Nobel Prize in Literature.[107][108] When he was given the Order of Merit, George VI was affable but slightly embarrassed at decorating a former jailbird, saying, "You have sometimes behaved in a manner that would not do if generally adopted".[109] Russell merely smiled, but afterwards claimed that the reply "That's right, just like your brother" immediately came to mind. In 1952 Russell was divorced by Spence, with whom he had been very unhappy. Conrad, Russell's son by Spence, did not see his father between the time of the divorce and 1968 (at which time his decision to meet his father caused a permanent breach with his mother).
 
-Bertrand_Russell_1957.jpg In 1950, Russell attended the inaugural conference for the Congress for Cultural Freedom, a C.I.A.-funded anti-communist organization committed to the deployment of culture as a weapon during the Cold War.[110] Russell was one of the best known patrons of the Congress, until he resigned in 1956[111]
+In 1950, Russell attended the inaugural conference for the Congress for Cultural Freedom, a C.I.A.-funded anti-communist organization committed to the deployment of culture as a weapon during the Cold War.[110] Russell was one of the best known patrons of the Congress, until he resigned in 1956[111]
 
 Russell married his fourth wife, Edith Finch, soon after the divorce, on 15 December 1952. They had known each other since 1925, and Edith had taught English at Bryn Mawr College near Philadelphia, sharing a house for 20 years with Russell's old friend Lucy Donnelly. Edith remained with him until his death, and, by all accounts, their marriage was a happy, close, and loving one. Russell's eldest son John suffered from serious mental illness, which was the source of ongoing disputes between Russell and his former wife Dora.
 
@@ -127,7 +127,7 @@ According to historian Peter Knight, after JFK's assassination, Russell, "prompt
 
 Political causes
 
-Bertrand_Russell_leads_anti-nuclear_march_in_London,_Feb_1961.jpg anti-nuclear march in London, 18 February 1961]] Bertrand Russell was opposed to war from early on, his opposition to World War I being used as grounds for his dismissal from Trinity College at Cambridge. This incident fused two of his most controversial causes, as he had failed to be granted Fellow status, which would have protected him from firing, because he was not willing to either pretend to be a devout Christian, or at least avoid admitting he was agnostic.
+anti-nuclear march in London, 18 February 1961]] Bertrand Russell was opposed to war from early on, his opposition to World War I being used as grounds for his dismissal from Trinity College at Cambridge. This incident fused two of his most controversial causes, as he had failed to be granted Fellow status, which would have protected him from firing, because he was not willing to either pretend to be a devout Christian, or at least avoid admitting he was agnostic.
 
 He later described the resolution of these issues as essential to freedom of thought and expression, citing the incident in Free Thought and Official Propaganda, where he explained that the expression of any idea, even the most obviously "bad", must be protected not only from direct State intervention, but also economic leveraging and other means of being silenced:
 
@@ -143,9 +143,9 @@ He was in contact with Lionel Rogosin while the latter was filming his anti-war 
 
 Final years, death and legacy
 
-Bertrand_Russell_1972_stamp_of_India.jpg In June 1955 Russell had leased Plas Penrhyn in Penrhyndeudraeth, Merionethshire, Wales and on 5 July of the following year it became his and Edith's principal residence.[124]
+In June 1955 Russell had leased Plas Penrhyn in Penrhyndeudraeth, Merionethshire, Wales and on 5 July of the following year it became his and Edith's principal residence.[124]
 
-Bust_Of_Bertrand_Russell-Red_Lion_Square-London.jpg]] Russell published his three-volume autobiography in 1967, 1968, and 1969. Russell made a cameo appearance playing himself in the anti-war Hindi film _Aman_, by Mohan Kumar, which was released in India in 1967. This was Russell's only appearance in a feature film.[125]
+]] Russell published his three-volume autobiography in 1967, 1968, and 1969. Russell made a cameo appearance playing himself in the anti-war Hindi film _Aman_, by Mohan Kumar, which was released in India in 1967. This was Russell's only appearance in a feature film.[125]
 
 On 23 November 1969 he wrote to _The Times_ newspaper saying that the preparation for show trials in Czechoslovakia was "highly alarming". The same month, he appealed to Secretary General U Thant of the United Nations to support an international war crimes commission to investigate alleged torture and genocide by the United States in South Vietnam during the Vietnam War. The following month, he protested to Alexei Kosygin over the expulsion of Aleksandr Solzhenitsyn from the Soviet Union of Writers.
 

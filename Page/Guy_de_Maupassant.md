@@ -5,8 +5,6 @@ Maupassant was a protégé of Gustave Flaubert and his stories are characterized
 
 Biography
 
-Maupassant_7_ans.jpg
-
 Henri-René-Albert-Guy de Maupassant was born 5 August 1850 at the _Château de Miromesnil_ (Castle Miromesnil, near Dieppe in the Seine-Inférieure (now Seine-Maritime) department in France. He was the first son of Laure Le Poittevin and Gustave de Maupassant, both from prosperous bourgeois families. His mother urged his father when they married in 1846 to obtain the right to use the particule or form "de Maupassant" instead of "Maupassant" as his family name, in order to indicate noble birth.[2] Gustave discovered a certain Jean-Baptiste Maupassant, _conseiller-secrétaire_ to the King, who was ennobled in 1752.[3] He then obtained from the _Tribunal Civil_ of Rouen by decree dated 9 July 1846 the right to style himself "de Maupassant" instead of "Maupassant" and this was his surname at the birth of his son Guy in 1850.[4]
 
 When Maupassant was 11 and his brother Hervé was five, his mother, an independent-minded woman, risked social disgrace to obtain a legal separation from her husband, who was violent towards her.
@@ -27,7 +25,7 @@ The decade from 1880 to 1891 was the most fertile period of Maupassant's life. M
 
 In 1881 he published his first volume of short stories under the title of _La Maison Tellier_; it reached its twelfth edition within two years. In 1883 he finished his first novel, _Une Vie_ (translated into English as _A Woman's Life_), 25,000 copies of which were sold in less than a year. His second novel _Bel Ami_, which came out in 1885, had thirty-seven printings in four months.
 
-Guy_de_Maupassant_photo_portrait_young.jpg His editor, Havard, commissioned him to write more stories, and Maupassant continued to produce them efficiently and frequently. At this time he wrote what many consider to be his greatest novel, _Pierre et Jean_.
+His editor, Havard, commissioned him to write more stories, and Maupassant continued to produce them efficiently and frequently. At this time he wrote what many consider to be his greatest novel, _Pierre et Jean_.
 
 With a natural aversion to society, he loved retirement, solitude, and meditation. He traveled extensively in Algeria, Italy, England, Brittany, Sicily, Auvergne, and from each voyage brought back a new volume. He cruised on his private yacht _Bel-Ami_, named after his novel. This life did not prevent him from making friends among the literary celebrities of his day: Alexandre Dumas, fils had a paternal affection for him; at Aix-les-Bains he met Hippolyte Taine and became devoted to the philosopher-historian.
 

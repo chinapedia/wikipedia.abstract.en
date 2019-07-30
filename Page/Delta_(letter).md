@@ -52,7 +52,7 @@ $$\Delta = \tfrac{1}{2} a b \sin{C}$$
 
 Lower case
 
-NAMA_Alphabet_grec.jpg on a black figure vessel, with a D-shaped delta.]]
+on a black figure vessel, with a D-shaped delta.]]
 
 The lowercase letter δ (or 𝛿) can be used to denote:
 

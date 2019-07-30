@@ -1,8 +1,8 @@
-Aguilon,_François_d'_–_Opticorum_libri,_1613_–_BEIC_1321020.jpg FRANÇOIS D'AGUILON (also d'Aguillon or in Latin FRANCISCUS AGUILONIUS) (4 January 1567 – 20 March 1617) was a Belgian Jesuit mathematician, physicist and architect.
+FRANÇOIS D'AGUILON (also d'Aguillon or in Latin FRANCISCUS AGUILONIUS) (4 January 1567 – 20 March 1617) was a Belgian Jesuit mathematician, physicist and architect.
 
 D'Aguilon was born in Brussels; his father was a secretary to Philip II of Spain.[1] He became a Jesuit in Tournai in 1586.[2] In 1598 he moved to Antwerp, where he helped plan the construction of the Saint Carolus Borromeus church.[3] In 1611, he started a special school of mathematics in Antwerp, fulfilling a dream of Christopher Clavius for a Jesuit mathematical school; in 1616, he was joined there by Grégoire de Saint-Vincent.[4] The notable geometers educated at this school included Jean-Charles della Faille,[5] André Tacquet,[6] and Theodorus Moretus.[7]
 
-RubensAguilonStereographic.jpg for _Opticorum Libri Sex_ demonstrating how the projection is computed.]]
+for _Opticorum Libri Sex_ demonstrating how the projection is computed.]]
 
 His book, _Opticorum Libri Sex philosophis juxta ac mathematicis utiles,_ or _Six Books of Optics,_ is useful for philosophers and mathematicians. It was published by Balthasar I Moretus in Antwerp in 1613 and illustrated by the famous painter Peter Paul Rubens.[8] It included one of the first studies of binocular vision.[9][10] It also gave the names we now use to stereographic projection and orthographic projection, although the projections themselves were likely known to Hipparchus.[11][12][13] This book inspired the works of Desargues[14] and Christiaan Huygens.[15]
 

@@ -43,7 +43,7 @@ In 1990, he was one of a few to be honoured by a second appearance on _This Is Y
 
 Honours
 
-Sir_Harry_Secombe_plaque_(3412015135).jpg commemorating Secombe.]] In 1963 he was appointed a Commander of the Order of the British Empire (CBE).[23]
+commemorating Secombe.]] In 1963 he was appointed a Commander of the Order of the British Empire (CBE).[23]
 
 He was knighted in 1981,[24] and jokingly referred to himself as Sir Cumference (in recognition of his rotund figure). The motto he chose for his coat of arms was "GO ON", a reference to goon.
 

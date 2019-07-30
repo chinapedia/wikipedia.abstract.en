@@ -11,7 +11,7 @@ Diderot's literary reputation during his lifetime rested primarily on his plays 
 
 Early life
 
-N°_9_de_la_place_dans_le_centre_ville_de_Langres.jpg Langres_-_Denis_Diderot.jpg, his birthplace]]
+, his birthplace]]
 
 Denis Diderot was born in Langres, Champagne. His parents were Didier Diderot (1685–1759), a cutler, _maître coutelier_, and his wife, Angélique Vigneron (1677–1748). Three of five siblings survived to adulthood, Denise Diderot (1715–1797) and their youngest brother Pierre-Didier Diderot (1722–1787), and finally their sister Angélique Diderot (1720–1749). According to Arthur McCandless Wilson, Denis Diderot greatly admired his sister Denise, sometimes referring to her as "a female Socrates".[9]
 
@@ -72,7 +72,7 @@ Encyclopédie
 
 Genesis
 
-Encyclopedie_de_D'Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg'']]
+'']]
 
 André le Breton, a bookseller and printer, approached Diderot with a project for the publication of a translation of Ephraim Chambers' _Cyclopaedia, or Universal Dictionary of Arts and Sciences_ into French, first undertaken by the Englishman John Mills, and followed by the German Gottfried Sellius.[45] Diderot accepted the proposal, and transformed it. He persuaded Le Breton to publish a new work, which would consolidate ideas and knowledge from the Republic of Letters. The publishers found capital for a larger enterprise than they had first planned. Jean le Rond d'Alembert was persuaded to become Diderot's colleague, and permission was procured from the government.
 
@@ -123,7 +123,7 @@ _Rameau's Nephew_
 
 The dialogue _Rameau's Nephew_ (French: _Le Neveu de Rameau_) is a "farce-tragedy" reminiscent of the _Satires_ of Horace, a favorite classical author of Diderot's whose lines "Vertumnis, quotquot sunt, natus iniquis" ("A man born when every single Vertumnus was out of sorts") appear as epigraph. According to Nicholas Cronk, _Rameau's Nephew_ is "arguably the greatest work of the French Enlightenment's greatest writer."[58]
 
-Un_dîner_de_philosophes.Jean_Huber.jpg. Denis Diderot is the second from the right (seated).]]
+. Denis Diderot is the second from the right (seated).]]
 
 Synopsis
 
@@ -162,8 +162,6 @@ Diderot and Catherine the Great
 
 Journey to Russia
 
-Diderot's_travel_from_Paris_to_Saint_Petersburg_in_1773-1774_map-en.svg
-
 When the Russian Empress Catherine the Great heard that Diderot was in need of money, she arranged to buy his library and appoint him caretaker of it until his death, at a salary of 1,000 livres per year. She even paid him 50 years salary in advance.[76] Although Diderot hated traveling,[77] he was obliged to visit her.[78]
 
 On 9 October 1773, he reached St. Petersburg, met Catherine the next day and they had several discussions on various subjects. During his five-month stay at her court, he met her almost every day.[79] During these conversations, he would later state, they spoke 'man to man'.[80]
@@ -196,7 +194,7 @@ In conceiving the _Encyclopédie_, Diderot had thought of the work as a fight on
 
 Appreciation and influence
 
-Jean-Simon_Berthélemy_-_Bildnis_eines_Herrn_mit_der_Büste_des_Denis_Diderot.jpg, Young man admiring Denis Diderot's bust]]
+, Young man admiring Denis Diderot's bust]]
 
 Marmontel and Henri Meister commented on the great pleasure of having intellectual conversations with Diderot.[99] Morellet, a regular attendee at D'Holbach's salon, wrote: "It is there that I heard...Diderot treat questions of philosophy, art, or literature, and by his wealth of expression, fluency, and inspired appearance, hold our attention for a long stretch of time."[100] Diderot's contemporary, and rival, Jean Jacques Rousseau wrote in his _Confessions_ that after a few centuries Diderot would be accorded as much respect by posterity as was given to Plato and Aristotle.[101] In Germany, Goethe, Schiller, and Lessing[102] expressed admiration for Diderot's writings, Goethe pronouncing Diderot's _Rameau's Nephew_ to be "the classical work of an outstanding man" and that "Diderot is Diderot, a unique individual; whoever carps at him and his affairs is a philistine."[103][104]
 
@@ -205,7 +203,7 @@ In the next century, Diderot was admired by Balzac, Delacroix, Stendhal, Zola, a
 
 Contemporary tributes
 
-Diderot-statue.jpg, by Jean Gautherin]]
+, by Jean Gautherin]]
 
 Otis Fellows and Norman Torrey have described Diderot as "the most interesting and provocative figure of the French eighteenth century."[108]
 

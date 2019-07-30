@@ -1,4 +1,4 @@
-Erdogan_Atalay_(2016).jpg ERDOĞAN ATALAY (born September 22, 1966 in Hanover, Germany)[1] is a Turkish-German actor.[2]
+ERDOĞAN ATALAY (born September 22, 1966 in Hanover, Germany)[1] is a Turkish-German actor.[2]
 
 In 2017 he married his girlfriend and manager Katja Ohneck.[3]
 

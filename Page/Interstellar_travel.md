@@ -1,4 +1,4 @@
-Bussard_Interstellar_Ramjet_Engine.jpg, one of many possible methods that could serve as propulsion of a starship.]]
+, one of many possible methods that could serve as propulsion of a starship.]]
 
 INTERSTELLAR TRAVEL is the term used for crewed or uncrewed travel between stars or planetary systems. Interstellar travel will be much more difficult than interplanetary spaceflight; the distances between the planets in the Solar System are less than 30 astronomical units (AU)—whereas the distances between stars are typically hundreds of thousands of AU, and usually expressed in light-years. Because of the vastness of those distances, interstellar travel would require a high percentage of the speed of light; huge travel time, lasting from decades to millennia or longer.
 
@@ -129,7 +129,7 @@ At higher speeds, the time on board will run even slower, so the astronaut could
 
 Constant acceleration
 
-Roundtriptimes.png (10 m/s² or about 1.0 ly/y²) "felt" or proper-acceleration[37] can go far, except for the problem of accelerating on-board propellant.]]
+(10 m/s² or about 1.0 ly/y²) "felt" or proper-acceleration[37] can go far, except for the problem of accelerating on-board propellant.]]
 
 Regardless of how it is achieved, a propulsion system that could produce acceleration continuously from departure to arrival would be the fastest method of travel. A constant acceleration journey is one where the propulsion system accelerates the ship at a constant rate for the first half of the journey, and then decelerates for the second half, so that it arrives at the destination stationary relative to where it began. If this were performed with an acceleration similar to that experienced at the Earth's surface, it would have the added advantage of producing artificial "gravity" for the crew. Supplying the energy required, however, would be prohibitively expensive with current technology.[38]
 
@@ -168,7 +168,7 @@ Fission-fragment rockets use nuclear fission to create high-speed jets of fissio
 
 Nuclear pulse
 
-Modern_Pulsed_Fission_Propulsion_Concept.jpgBased on work in the late 1950s to the early 1960s, it has been technically possible to build spaceships with nuclear pulse propulsion engines, i.e. driven by a series of nuclear explosions. This propulsion system contains the prospect of very high specific impulse (space travel's equivalent of fuel economy) and high specific power.[44]
+Based on work in the late 1950s to the early 1960s, it has been technically possible to build spaceships with nuclear pulse propulsion engines, i.e. driven by a series of nuclear explosions. This propulsion system contains the prospect of very high specific impulse (space travel's equivalent of fuel economy) and high specific power.[44]
 
 Project Orion team member Freeman Dyson proposed in 1968 an interstellar spacecraft using nuclear pulse propulsion that used pure deuterium fusion detonations with a very high fuel-burnup fraction. He computed an exhaust velocity of 15,000 km/s and a 100,000-tonne space vehicle able to achieve a 20,000 km/s delta-v allowing a flight-time to Alpha Centauri of 130 years.[45] Later studies indicate that the top cruise velocity that can theoretically be achieved by a Teller-Ulam thermonuclear unit powered Orion starship, assuming no fuel is saved for slowing back down, is about 8% to 10% of the speed of light (0.08-0.1c).[46] An atomic (fission) Orion can achieve perhaps 3%-5% of the speed of light. A nuclear pulse drive starship powered by fusion-antimatter catalyzed nuclear pulse propulsion units would be similarly in the 10% range and pure matter-antimatter annihilation rockets would be theoretically capable of obtaining a velocity between 50% to 80% of the speed of light. In each case saving fuel for slowing down halves the maximum speed. The concept of using a magnetic sail to decelerate the spacecraft as it approaches its destination has been discussed as an alternative to using propellant, this would allow the ship to travel near the maximum theoretical velocity.[47] Alternative designs utilizing similar principles include Project Longshot, Project Daedalus, and Mini-Mag Orion. The principle of external nuclear pulse propulsion to maximize survivable power has remained common among serious concepts for interstellar flight without external power beaming and for very high-performance interplanetary flight.
 
@@ -182,7 +182,7 @@ Nuclear fusion rockets
 
 Fusion rocket starships, powered by nuclear fusion reactions, should conceivably be able to reach speeds of the order of 10% of that of light, based on energy considerations alone. In theory, a large number of stages could push a vehicle arbitrarily close to the speed of light.[49] These would "burn" such light element fuels as deuterium, tritium, ³He, ¹¹B, and ⁷Li. Because fusion yields about 0.3–0.9% of the mass of the nuclear fuel as released energy, it is energetically more favorable than fission, which releases <0.1% of the fuel's mass-energy. The maximum exhaust velocities potentially energetically available are correspondingly higher than for fission, typically 4–10% of c. However, the most easily achievable fusion reactions release a large fraction of their energy as high-energy neutrons, which are a significant source of energy loss. Thus, although these concepts seem to offer the best (nearest-term) prospects for travel to the nearest stars within a (long) human lifetime, they still involve massive technological and engineering difficulties, which may turn out to be intractable for decades or centuries.
 
-Daedalus_ship.pngEarly studies include Project Daedalus, performed by the British Interplanetary Society in 1973–1978, and Project Longshot, a student project sponsored by NASA and the US Naval Academy, completed in 1988. Another fairly detailed vehicle system, "Discovery II",[50] designed and optimized for crewed Solar System exploration, based on the D³He reaction but using hydrogen as reaction mass, has been described by a team from NASA's Glenn Research Center. It achieves characteristic velocities of >300 km/s with an acceleration of ~1.7•10^(−3) _g_, with a ship initial mass of ~1700 metric tons, and payload fraction above 10%. Although these are still far short of the requirements for interstellar travel on human timescales, the study seems to represent a reasonable benchmark towards what may be approachable within several decades, which is not impossibly beyond the current state-of-the-art. Based on the concept's 2.2% burnup fraction it could achieve a pure fusion product exhaust velocity of ~3,000 km/s.
+Early studies include Project Daedalus, performed by the British Interplanetary Society in 1973–1978, and Project Longshot, a student project sponsored by NASA and the US Naval Academy, completed in 1988. Another fairly detailed vehicle system, "Discovery II",[50] designed and optimized for crewed Solar System exploration, based on the D³He reaction but using hydrogen as reaction mass, has been described by a team from NASA's Glenn Research Center. It achieves characteristic velocities of >300 km/s with an acceleration of ~1.7•10^(−3) _g_, with a ship initial mass of ~1700 metric tons, and payload fraction above 10%. Although these are still far short of the requirements for interstellar travel on human timescales, the study seems to represent a reasonable benchmark towards what may be approachable within several decades, which is not impossibly beyond the current state-of-the-art. Based on the concept's 2.2% burnup fraction it could achieve a pure fusion product exhaust velocity of ~3,000 km/s.
 
 Antimatter rockets
 
@@ -208,7 +208,7 @@ In 1960, Robert W. Bussard proposed the Bussard ramjet, a fusion rocket in which
 
 Beamed propulsion
 
-Forward-sailcraft-scheme.png's scheme for slowing down an interstellar light-sail at the star system destination.]]
+'s scheme for slowing down an interstellar light-sail at the star system destination.]]
 
 A light sail or magnetic sail powered by a massive laser or particle accelerator in the home star system could potentially reach even greater speeds than rocket- or pulse propulsion methods, because it would not need to carry its own reaction mass and therefore would only need to accelerate the craft's payload. Robert L. Forward proposed a means for decelerating an interstellar light sail in the destination star system without requiring a laser array to be present in that system. In this scheme, a smaller secondary sail is deployed to the rear of the spacecraft, whereas the large primary sail is detached from the craft to keep moving forward on its own. Light is reflected from the large primary sail to the secondary sail, which is used to decelerate the secondary sail and the spacecraft payload.[61] In 2002, Geoffrey A. Landis of NASA's Glen Research center also proposed a laser-powered, propulsion, sail ship that would host a diamond sail (of a few nanometers thick) powered with the use of solar energy.[62] With this proposal, this interstellar ship would, theoretically, be able to reach 10 percent the speed of light.
 
@@ -283,7 +283,7 @@ Theoretical concepts
 
 Faster-than-light travel
 
-Wormhole_travel_as_envisioned_by_Les_Bossinas_for_NASA.jpg paper of Miguel Alcubierre.]]
+paper of Miguel Alcubierre.]]
 
 Scientists and authors have postulated a number of ways by which it might be possible to surpass the speed of light, but even the most serious-minded of these are highly speculative.[69]
 

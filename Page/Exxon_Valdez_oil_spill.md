@@ -5,11 +5,7 @@ Spill
 
 The ship was carrying of oil, of which about were spilled into the Prince William Sound.[10][11][12][13][14][15]
 
-OilSheenFromValdezSpill.jpg
-
 Multiple factors have been identified as contributing to the incident:
-
-OilPoolFromValdezSpill.jpeg
 
 -   Exxon Shipping Company failed to supervise the master and provide a rested and sufficient crew for _Exxon Valdez_. The NTSB found this was widespread throughout the industry, prompting a safety recommendation to Exxon and to the industry.[16]
 -   The third mate failed to properly maneuver the vessel, possibly due to fatigue or excessive workload.[17]
@@ -34,19 +30,17 @@ In 2009, _Exxon Valdez_ Captain Joseph Hazelwood offered a "heartfelt apology" t
 
 Clean-up and environmental impact
 
-OilCleanupAfterValdezSpill.jpg
-
 Chemical dispersant, a surfactant and solvent mixture, was applied to the slick by a private company on March 24 with a helicopter. But the helicopter missed the target area. Scientific data on its toxicity were either thin or incomplete. In addition, public acceptance of a new, widespread chemical treatment was lacking. Landowners, fishing groups, and conservation organizations questioned the use of chemicals on hundreds of miles of shoreline when other alternatives may have been available."[31][32][33]
 
 According to a report by David Kirby for TakePart, the main component of the Corexit formulation used during cleanup, 2-butoxyethanol, was identified as "one of the agents that caused liver, kidney, lung, nervous system, and blood disorders among cleanup crews in Alaska following the 1989 _Exxon Valdez_ spill.[34]
 
-Mechanical cleanup was started shortly afterwards using booms and skimmers, but the skimmers were not readily available during the first 24 hours following the spill, and thick oil and kelp tended to clog the equipment. Despite civilian insistence for a complete clean, only 10% of total oil was actually completely cleaned.[35] Exxon was widely criticized for its slow response to cleaning up the disaster and John Devens, the mayor of Valdez, has said his community felt betrayed by Exxon's inadequate response to the crisis.[36] More than 11,000 Alaska residents, along with some Exxon employees, worked throughout the region to try to restore the environment. Exxon_Valdez_Cleanup.jpg
+Mechanical cleanup was started shortly afterwards using booms and skimmers, but the skimmers were not readily available during the first 24 hours following the spill, and thick oil and kelp tended to clog the equipment. Despite civilian insistence for a complete clean, only 10% of total oil was actually completely cleaned.[35] Exxon was widely criticized for its slow response to cleaning up the disaster and John Devens, the mayor of Valdez, has said his community felt betrayed by Exxon's inadequate response to the crisis.[36] More than 11,000 Alaska residents, along with some Exxon employees, worked throughout the region to try to restore the environment.
 
 Because Prince William Sound contained many rocky coves where the oil collected, the decision was made to displace it with high-pressure hot water. However, this also displaced and destroyed the microbial populations on the shoreline; many of these organisms (e.g. plankton) are the basis of the coastal marine food chain, and others (e.g. certain bacteria and fungi) are capable of facilitating the biodegradation of oil. At the time, both scientific advice and public pressure was to clean everything, but since then, a much greater understanding of natural and facilitated remediation processes has developed, due somewhat in part to the opportunity presented for study by the _Exxon Valdez_ spill. Despite the extensive cleanup attempts, less than ten percent of the oil was recovered.
 
 Both the long-term and short-term effects of the oil spill have been studied.[37] Immediate effects included the deaths of 100,000 to as many as 250,000 seabirds, at least 2,800 sea otters, approximately 12 river otters, 300 harbor seals, 247 bald eagles, and 22 orcas, and an unknown number of salmon and herring.[38][39]
 
-Although the volume of oil has declined considerably with oil remaining only about 0.14–0.28% of the original spilled volume, studies suggest the area of oiled beach has changed little since 1992.[40] A study by the National Marine Fisheries Service, NOAA in Juneau, determined that by 2001 approximately 90 tonnes of oil remained on beaches in Prince William Sound in the sandy soil of the contaminated shoreline, with annualized loss rates declining from 68% per year prior to 1992, to 4% per year after 2001.[41][42] EVOSWEB_013_oiled_bird3.jpg
+Although the volume of oil has declined considerably with oil remaining only about 0.14–0.28% of the original spilled volume, studies suggest the area of oiled beach has changed little since 1992.[40] A study by the National Marine Fisheries Service, NOAA in Juneau, determined that by 2001 approximately 90 tonnes of oil remained on beaches in Prince William Sound in the sandy soil of the contaminated shoreline, with annualized loss rates declining from 68% per year prior to 1992, to 4% per year after 2001.[41][42]
 
 The remaining oil lasting far longer than anticipated has resulted in more long-term losses of species than had been expected. Laboratory experiments found that at levels as low as one part per billion, polycyclic aromatic hydrocarbons are toxic for salmon and herring eggs. Species as diverse as sea otters, harlequin ducks and orcas suffered immediate and long-term losses. Oiled mussel beds and other tidal shoreline habitats may take up to 30 years to recover.[43]
 
@@ -57,7 +51,7 @@ On March 24, 2014, the twenty-fifth anniversary of the spill, NOAA scientists re
 
 Litigation and cleanup costs
 
-RaptorEducationGroupIncEagles.jpg In the case of _Exxon v. Baker_, an Anchorage jury awarded $287 million for actual damages and $5 billion for punitive damages. To protect itself in case the judgment was affirmed, Exxon obtained a $4.8 billion credit line from J.P. Morgan & Co., who created the first modern credit default swap so that they would not have to hold as much money in reserve against the risk of Exxon's default.[48]
+In the case of _Exxon v. Baker_, an Anchorage jury awarded $287 million for actual damages and $5 billion for punitive damages. To protect itself in case the judgment was affirmed, Exxon obtained a $4.8 billion credit line from J.P. Morgan & Co., who created the first modern credit default swap so that they would not have to hold as much money in reserve against the risk of Exxon's default.[48]
 
 Meanwhile, Exxon appealed the ruling, and the 9th U.S. Circuit Court of Appeals ordered the trial judge, Russel Holland, to reduce the punitive damages. On December 6, 2002, Holland announced that he had reduced the damages to $4 billion, which he concluded was justified by the facts of the case and was not grossly excessive. Exxon appealed again and the case returned to Holland to be reconsidered in light of a recent Supreme Court ruling in a similar case. Holland increased the punitive damages to $4.5 billion, plus interest.
 

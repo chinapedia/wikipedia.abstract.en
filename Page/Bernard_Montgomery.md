@@ -17,7 +17,7 @@ It was a financial relief of some magnitude when, in 1889, Henry was made Bishop
 
 The family returned to England once for a Lambeth Conference in 1897, and Bernard and his brother Harold were educated for a term at The King's School, Canterbury.[12] In 1901, Bishop Montgomery became secretary of the Society for the Propagation of the Gospel, and the family returned to London. Montgomery attended St Paul's School and then the Royal Military College, Sandhurst, from which he was almost expelled for rowdiness and violence.[13] On graduation in September 1908 he was commissioned into the 1st Battalion the Royal Warwickshire Regiment as a second lieutenant,[14] and first saw overseas service later that year in India.[15] He was promoted to lieutenant in 1910,[16] and in 1912 became adjutant of the 1st Battalion of his regiment at Shorncliffe Army Camp.[17]
 
-Montgomery_First_World_War.jpg (pictured on the right as a captain), with a fellow officer of 104th Brigade, 35th Division. Montgomery served with the brigade from January 1915 until early 1917.]]
+(pictured on the right as a captain), with a fellow officer of 104th Brigade, 35th Division. Montgomery served with the brigade from January 1915 until early 1917.]]
 
 
 First World War
@@ -25,8 +25,6 @@ First World War
 The Great War began in August 1914 and Montgomery moved to France with his battalion that month, which was at the time part of the 10th Brigade of the 4th Division.[18] He saw action at the Battle of Le Cateau that month and during the retreat from Mons.[19] At Méteren, near the Belgian border at Bailleul on 13 October 1914, during an Allied counter-offensive, he was shot through the right lung by a sniper.[20] Montgomery was hit once more, in the knee.[21] He was awarded the Distinguished Service Order for gallant leadership: the citation for this award, published in the _London Gazette_ in December 1914 reads:
 
 After recovering in early 1915, he was appointed brigade major[22] first of 112th Brigade and then with 104th Brigade under training in Lancashire.[23] He returned to the Western Front in early 1916 as a general staff officer in the 33rd Division and took part in the Battle of Arras in April/May 1917.[24] He became a general staff officer with IX Corps, part of General Sir Herbert Plumer's Second Army, in July 1917.[25]
-
-The_Hundred_Days_Offensive,_August-november_1918_Q11428.jpg
 
 Montgomery served at the Battle of Passchendaele in late 1917 before finishing the war as GSO1 (effectively Chief of Staff) of the 47th (2nd London) Division,[26] with the temporary rank of lieutenant colonel.[27] A photograph from October 1918, reproduced in many biographies, shows the then unknown Lieutenant Colonel Montgomery standing in front of Winston Churchill (then the Minister of Munitions) at the parade following the liberation of Lille.[28]
 
@@ -72,11 +70,7 @@ Britain declared war on Germany on 3 September 1939. The 3rd Division was deploy
 
 On his return Montgomery antagonised the War Office with trenchant criticisms of the command of the BEF[69] and was briefly relegated back to divisional command of 3rd Division. 3rd Division was at that time the only fully equipped division in Britain.[70] He was made a Companion of the Order of the Bath.[71]
 
-The_British_Army_in_the_United_Kingdom_1939-45_H8492.jpg
-
 Montgomery was ordered to make ready his 3rd Division to invade the neutral Portuguese Azores.[72] Models of the islands were prepared and detailed plans worked out for the invasion.[73] The invasion plans did not go ahead and plans switched to invading Cape Verde island also belonging to neutral Portugal.[74] These invasion plans also did not go ahead. Montgomery was then ordered to prepare plans for the invasion of neutral Ireland and to seize Cork, Cobh and Cork harbour.[75] These invasion plans, like those of the Portuguese islands, also did not go ahead and in July 1940, Montgomery was appointed acting lieutenant-general,[76] and placed in command of V Corps, responsible for the defence of Hampshire and Dorset, and started a long-running feud with the new Commander-in-Chief (C-in-C) of Southern Command, Lieutenant General Claude Auchinleck.[77]
-
-The_British_Army_in_the_United_Kingdom_1939-45_H14377.jpg
 
 In April 1941, he became commander of XII Corps responsible for the defence of Kent.[78] During this period he instituted a regime of continuous training and insisted on high levels of physical fitness for both officers and other ranks. He was ruthless in sacking officers he considered would be unfit for command in action.[79] Promoted to temporary lieutenant-general in July,[80] in December Montgomery was given command of South-Eastern Command[81] overseeing the defence of Kent, Sussex and Surrey.[82]
 
@@ -86,7 +80,7 @@ North Africa and Italy
 
 Montgomery's early command
 
-Bernard_Law_Montgomery_1942.jpg tank in North Africa, November 1942.]]
+tank in North Africa, November 1942.]]
 
 In 1942, a new field commander was required in the Middle East, where Auchinleck was fulfilling both the role of Commander-in-Chief (C-in-C) of Middle East Command and commander Eighth Army. He had stabilised the Allied position at the First Battle of El Alamein, but after a visit in August 1942, the Prime Minister, Winston Churchill, replaced him as C-in-C with General Sir Harold Alexander and William Gott as commander of the Eighth Army in the Western Desert. However, after Gott was killed flying back to Cairo Churchill was persuaded by Brooke, who by this time was Chief of the Imperial General Staff (CIGS), to appoint Montgomery, who had only just been nominated to replace Alexander as commander of the British First Army for Operation Torch, the invasion of French North Africa.[84]
 
@@ -96,13 +90,11 @@ Montgomery's assumption of command transformed the fighting spirit and abilities
 
 Montgomery was determined that the Army, Navy and Air Forces should fight their battles in a unified, focused manner according to a detailed plan. He ordered immediate reinforcement of the vital heights of Alam Halfa, just behind his own lines, expecting the German commander, Erwin Rommel, to attack with the heights as his objective, something that Rommel soon did. Montgomery ordered all contingency plans for retreat to be destroyed. "I have cancelled the plan for withdrawal. If we are attacked, then there will be no retreat. If we cannot stay here alive, then we will stay here dead",[89] he told his officers at the first meeting he held with them in the desert, though, in fact, Auchinleck had no plans to withdraw from the strong defensive position he had chosen and established at El Alamein.[90]
 
-The_British_Army_in_North_Africa_1942_E15787.jpg, the new GOC XIII Corps, discussing troop dispositions at 22nd Armoured Brigade HQ, 20 August 1942. The brigade commander, Brigadier George Roberts is on the right (in beret).]]
+, the new GOC XIII Corps, discussing troop dispositions at 22nd Armoured Brigade HQ, 20 August 1942. The brigade commander, Brigadier George Roberts is on the right (in beret).]]
 
 Montgomery made a great effort to appear before troops as often as possible, frequently visiting various units and making himself known to the men, often arranging for cigarettes to be distributed. Although he still wore a standard British officer's cap on arrival in the desert, he briefly wore an Australian broad-brimmed hat before switching to wearing the black beret (with the badge of the Royal Tank Regiment next to the British General Officer's badge) for which he became notable. The black beret was offered to him by Jim Fraser while the latter was driving him on an inspection tour.[91] Both Brooke and Alexander were astonished by the transformation in atmosphere when they visited on 19 August, less than a week after Montgomery had taken command.[92]
 
 First battles with Rommel
-
-Animals_in_War_1939-1945_B6541.jpg
 
 Rommel attempted to turn the left flank of the Eighth Army at the Battle of Alam el Halfa from 31 August 1942. The German/Italian armoured Corps infantry attack was stopped in very heavy fighting. Rommel's forces had to withdraw urgently lest their retreat through the British minefields be cut off.[93] Montgomery was criticised for not counter-attacking the retreating forces immediately, but he felt strongly that his methodical build-up of British forces was not yet ready. A hasty counter-attack risked ruining his strategy for an offensive on his own terms in late October, planning for which had begun soon after he took command.[94] He was confirmed in the permanent rank of lieutenant-general in mid October.[95]
 
@@ -110,7 +102,7 @@ The conquest of Libya was essential for airfields to support Malta and to threat
 
 El Alamein
 
-El_Alamein_1942_-_British_infantry.jpg in a posed photograph during the Second Battle of El Alamein (photographer: Len Chetwyn)]]
+in a posed photograph during the Second Battle of El Alamein (photographer: Len Chetwyn)]]
 
 The Second Battle of El Alamein began on 23 October 1942, and ended 12 days later with one of the first large-scale, decisive Allied land victories of the war. Montgomery correctly predicted both the length of the battle and the number of casualties (13,500).[100] Soon after Allied armoured units and infantry broke through the German and Italian lines and were pursuing the enemy forces at speed along the coast road, a violent rainstorm burst over the region, bogging down the tanks and support trucks in the desert mud. Montgomery, standing before his officers at headquarters and close to tears, announced that he was going to call off the pursuit.[101]
 
@@ -118,19 +110,17 @@ Historian Corelli Barnett has pointed out that the rain also fell on the Germans
 
 Tunisia
 
-The_Campaign_in_North_Africa_1940-1943-_Personalities_E22271.jpg with military leaders during his visit to Tripoli. The group includes: Lieutenant-General Sir Oliver Leese, General Sir Harold Alexander, General Sir Alan Brooke and General Sir Bernard Montgomery.]]
+with military leaders during his visit to Tripoli. The group includes: Lieutenant-General Sir Oliver Leese, General Sir Harold Alexander, General Sir Alan Brooke and General Sir Bernard Montgomery.]]
 
 Montgomery was advanced to KCB and promoted to full general.[105] He kept the initiative, applying superior strength when it suited him, forcing Rommel out of each successive defensive position. On 6 March 1943, Rommel's attack on the over-extended Eighth Army at Medenine (Operation Capri) with the largest concentration of German armour in North Africa was successfully repulsed.[106] At the Mareth Line, 20 to 27 March, when Montgomery encountered fiercer frontal opposition than he had anticipated, he switched his major effort into an outflanking inland pincer, backed by low-flying RAF fighter-bomber support.[107] For his role in North Africa he was awarded the Legion of Merit by the United States government in the rank of Chief Commander.[108]
 
 Sicily
 
-Gen._Bernard_Law_Montgomery_and_Lt._Gen._George_S._Patton,_Jr.,.jpg
-
 The next major Allied attack was the Allied invasion of Sicily (Operation Husky). Montgomery considered the initial plans for the Allied invasion, which had been agreed in principle by General Dwight D. Eisenhower, the Supreme Allied Commander Mediterranean, and General Alexander, the 15th Army Group commander, to be unworkable because of the dispersion of effort. He managed to have the plans recast to concentrate the Allied forces, having Lieutenant General George Patton's US Seventh Army land in the Gulf of Gela (on the Eighth Army's left flank, which landed around Syracuse in the south-east of Sicily) rather than near Palermo in the west and north of Sicily.[109] Inter-Allied tensions grew as the American commanders, Patton and Omar Bradley (then commanding US II Corps under Patton), took umbrage at what they saw as Montgomery's attitudes and boastfulness.[110] However, while all three were considered three of the greatest soldiers of their time, due to their competitiveness they were renowned for ‘squabbling like three schoolgirls’ thanks to their ‘bitchiness’, ‘whining to their superiors’ and ‘showing off’.[111]
 
 Italian campaign
 
-Montgomery_E010786478-v8.jpg aircraft (location and date unknown).]]
+aircraft (location and date unknown).]]
 
 During late 1943, Montgomery continued to command the Eighth Army during the landings on the mainland of Italy itself, beginning with Operation Baytown.[112] In conjunction with the Anglo-American landings at Salerno (near Naples) by Lieutenant General Mark Clark's US Fifth Army and seaborne landings by British paratroops in the heel of Italy (including the key port of Taranto, where they disembarked without resistance directly into the port), Montgomery led the Eighth Army up the toe of Italy.[113] Montgomery abhorred the lack of coordination, the dispersion of effort, the strategic muddle and lack of opportunism he saw in the Allied effort in Italy and was glad to leave the "dog's breakfast" on 23 December 1943.[114]
 
@@ -138,21 +128,19 @@ Normandy
 
 Montgomery returned to Britain in January 1944.[115] He was assigned to command the 21st Army Group consisting of all Allied ground forces participating in Operation Overlord, codename for the Allied invasion of Normandy. Overall direction was assigned to the Supreme Allied Commander of the Allied Expeditionary Forces, American General Dwight D. Eisenhower.[116] Both Churchill and Eisenhower had found Montgomery difficult to work with in the past and wanted the position to go to the more affable General Sir Harold Alexander.[117] However Montgomery's patron, General Sir Alan Brooke, firmly argued that Montgomery was a much superior general to Alexander and ensured his appointment.[118] Without Brooke's support, Montgomery would have remained in Italy.[119] At St Paul's School on 7 April and 15 May Montgomery presented his strategy for the invasion. He envisaged a ninety-day battle, with all forces reaching the Seine. The campaign would pivot on an Allied-held Caen in the east of the Normandy bridgehead, with relatively static British and Canadian armies forming a shoulder to attract and defeat German counter-attacks, relieving the US armies who would move and seize the Cotentin Peninsula and Brittany, wheeling south and then east on the right forming a pincer.[120]
 
-The_British_Army_in_the_United_Kingdom_1939-45_H35960.jpg of the 51st (Highland) Division, at Beaconsfield, February 1944.]]
+of the 51st (Highland) Division, at Beaconsfield, February 1944.]]
 
-Simonds.jpg. From left, Major-General Vokes, General Crerar, Field Marshal Montgomery, Lieutenant-General Horrocks, Lieutenant-General Simonds, Major-General Spry, and Major-General Matthews.]]
+. From left, Major-General Vokes, General Crerar, Field Marshal Montgomery, Lieutenant-General Horrocks, Lieutenant-General Simonds, Major-General Spry, and Major-General Matthews.]]
 
 During the ten weeks of the Battle of Normandy, unfavourable autumnal weather conditions disrupted the Normandy landing areas.[121] Montgomery's initial plan was for the Anglo-Canadian troops under his command to break out immediately from their beachheads on the Calvados coast towards Caen with the aim of taking the city on either D Day or two days later.[122] Montgomery attempted to take Caen with the 3rd Infantry Division, 50th (Northumbrian) Infantry Division and the 3rd Canadian Division but was stopped from 6–8 June by 21st Panzer Division and 12th SS Panzer Division _Hitlerjugend_, who hit the advancing Anglo-Canadian troops very hard.[123] Rommel followed up this success by ordering the 2nd Panzer Division to Caen while Field Marshal Gerd von Rundstedt asked for and received permission from Hitler to have the elite 1st Waffen SS Division _Leibstandarte Adolf Hitler_ and 2nd Waffen SS Division _Das Reich_ sent to Caen as well.[124] Montgomery thus had to face what Stephen Badsey called the "most formidable" of all the German divisions in France.[125] The 12th Waffen SS Division _Hitlerjugend_ as its name implies was drawn entirely from the more fanatical elements of the Hitler Youth and commanded by the ruthless SS-_Brigadeführer_ Kurt Meyer, aka "Panzer Meyer".[126]
 
-The_British_Army_in_Normandy_1944_B5179.jpg
-
 The failure to take Caen immediately has been the source of an immense historiographical dispute with bitter nationalist overtones.[127] Broadly, there has been a "British school" which accepts Montgomery's post-war claim that he never intended to take Caen at once, and instead the Anglo-Canadian operations around Caen were a "holding operation" intended to attract the bulk of the German forces towards the Caen sector to allow the Americans to stage the "break out operation" on the left flank of the German positions, which was all part of Montgomery's "Master Plan" that he had conceived long before the Normandy campaign.[128] By contrast, the "American school" argued that Montgomery's initial "master plan" was for the 21st Army Group to take Caen at once, move his tank divisions into the plains south of Caen to stage a breakout that would lead the 21st Army Group into the plains of northern France and hence into Antwerp and finally the Ruhr.[129] Letters written by Eisenhower at the time of the battle make it clear that Eisenhower was expecting from Montgomery "the early capture of the important focal point of Caen". Later, when this plan had clearly failed, Eisenhower wrote that Montgomery had "evolved" the plan to have the US forces achieve the break-out instead.[130]
 
-The_British_Army_in_Normandy_1944_B5787.jpg, GOC 50th (Northumbrian) Infantry Division, pictured here in Normandy, 20 June 1944.]]
+, GOC 50th (Northumbrian) Infantry Division, pictured here in Normandy, 20 June 1944.]]
 
 As the campaign progressed, Montgomery altered his initial plan for the invasion and continued the strategy of attracting and holding German counter-attacks in the area north of Caen rather than to the south, to allow the US First Army in the west to take Cherbourg. A memo summarising Montgomery's operations written by Eisenhower's chief of staff, General Walter Bedell Smith who met with Montgomery in late June 1944 says nothing about Montgomery conducting a "holding operation" in the Caen sector, and instead speaks of him seeking a "breakout" into the plains south of the Seine.[131] On 12 June, Montgomery ordered the 7th Armoured Division into an attack against the Panzer Lehr Division that made good progress at first but ended when the Panzer Lehr was joined by the 2nd Panzer Division.[132] At Villers Bocage on 14 June, the British lost twenty Cromwell tanks to five Tiger tanks led by SS _Obersturmführer_ Michael Wittmann in about five minutes.[133] Despite the setback at Villers Bocage, Montgomery was still optimistic as the Allies were landing more troops and supplies than they were losing in battle, and though the German lines were holding, the _Wehrmacht_ and _Waffen SS_ were suffering considerable attrition.[134] Air Marshal Sir Arthur Tedder complained that it was impossible to move fighter squadrons to France until Montgomery had captured some airfields, something he asserted that Montgomery appeared incapable of doing.[135] The first V-1 attacks on London, which started on 13 June further increased the pressure on Montgomery from Whitehall to speed up his advance.[136]
 
-The_British_Army_in_the_Normandy_Campaign_1944_B5634.jpg with Lieutenant-General Miles Dempsey, GOC British Second Army, and General Montgomery, 16 June 1944.]]
+with Lieutenant-General Miles Dempsey, GOC British Second Army, and General Montgomery, 16 June 1944.]]
 
 On 18 June, Montgomery ordered Bradley to take Cherbourg while the British were to take Caen by 23 June.[137] In Operation Epsom, the British VII Corps commanded by Sir Richard O'Connor attempted to outflank Caen from the west by breaking through the dividing line between the Panzer Lehr and the 12th SS to take the strategic Hill 112.[138] Epsom began well with O'Connor's assault force, the British 15th Scottish Division breaking through and with the 11th Armoured Division stopping the counter-attacks of the 12th SS Division.[139] General Friedrich Dollmann of the 7th Army had to commit the newly arrived II SS Corps to stop the British offensive.[140] Dollmann, fearing that Epsom would be a success, committed suicide and was replaced by SS _Oberstegruppenführer_ Paul Hausser. O'Connor, at the cost of about 4,000 men, had won a salient deep and wide but placed the Germans into an unviable long-term position.[141] There was a strong sense of crisis in the Allied command as the Allies had advanced only about inland, at a time when their plans called for them to have already taken Rennes, Alençon and St. Malo.[142] After Epsom, Montgomery had to tell General Harry Crerar that the activation of the First Canadian Army would have to wait as there was room at present in the Caen sector only for the newly arrived XII Corps under Lieutenant General Neil Ritchie, which caused some tension with Crerar who was anxious to get into the field.[143] Epsom had forced further German forces into Caen but all through June and the first half of July Rommel, Rundstedt, and Hitler were engaged in planning for a great offensive to drive the British into the sea; it was never launched and would have required the commitment of a large number of German forces to the Caen sector.[144]
 
@@ -160,13 +148,9 @@ It was only after several failed attempts to break out in the Caen sector that M
 
 Hampered by stormy weather and the bocage terrain, Montgomery had to ensure Rommel focused on the British in the east rather than the Americans in the west, who had to take the Cotentin Peninsula and Brittany before the Germans could be trapped by a general swing east.[146] Montgomery told General Sir Miles Dempsey, the commander of the 2nd British Army: "Go on hitting, drawing the German strength, especially some of the armour, on to yourself – so as to ease the way for Brad [Bradley]."[147] The Germans had deployed 12 divisions, of which six were Panzer divisions against the British while deploying 8 divisions, of which 3 were Panzer divisions against the Americans.[148] By the middle of July Caen had not been taken, as Rommel continued to prioritise prevention of the break-out by British forces rather than the western territories being taken by the Americans.[149] This was broadly as Montgomery had planned, albeit not with the same speed as he outlined at St Paul's, although as the American historian Carlo D'Este pointed out the actual situation in Normandy was "vastly different" from what was envisioned at the St. Paul's conference as only one of four goals outlined in May had been achieved by 10 July.[150]
 
-The_British_Army_in_Normandy_1944_B7767.jpg
-
 On 7 July, Montgomery began Operation Charnwood with a carpet bombing offensive that turned much of the French countryside and the city of Caen into a wasteland.[151] The British and Canadians succeeded in advancing into northern Caen before the Germans who used the ruins to their advantage and stopped the offensive.[152] On 10 July, Montgomery ordered Bradley to take Avranches, after which the 3rd US Army would be activated to drive towards Le Mans and Alençon.[153] On 14 July 1944, Montgomery wrote to his patron Brooke, saying he had chosen on a "real show down on the eastern flanks, and to loose a Corps of three armoured divisions in the open country about the Caen-Falaise road...The possibilities are immense; with seven hundred tanks loosed to the South-east of Caen, and the armoured cars operating far ahead, anything can happen."[154] The French Resistance had launched Plan Violet in June 1944 to systematically destroy the telephone system of France, which forced the Germans to use their radios more and more to communicate, and as the code-breakers of Bletchley Park had broken many of the German codes, Montgomery had – via Ultra intelligence – a good idea of the German situation.[155] Montgomery thus knew German Army Group B had lost 96,400 men while receiving 5,200 replacements and the Panzer Lehr Division now based at St. Lô was down to only 40 tanks.[156] Montgomery later wrote that he knew he had the Normandy campaign won at this point as the Germans had almost no reserves while he had three armoured divisions in reserve.[157]
 
 An American break-out was achieved with Operation Cobra and the encirclement of German forces in the Falaise pocket at the cost of British losses with the diversionary Operation Goodwood.[158] On the early morning of 18 July 1944, Operation Goodwood began with British heavy bombers beginning carpet bombing attacks that further devastated what was left of Caen and the surrounding countryside.[159] A British tank crewman from the Guards Armoured Division later recalled: "At 0500 hours a distant thunder in the air brought all the sleepy-eyed tank crews out of their blankets. 1,000 Lancasters were flying from the sea in groups of three or four at . Ahead of them the pathfinders were scattering their flares and before long the first bombs were dropping".[160] A German tankman from the 21st Panzer Division at the receiving end of this bombardment remembered: "We saw little dots detach themselves from the planes, so many of them that the crazy thought occurred to us: are those leaflets?...Among the thunder of the explosions, we could hear the wounded scream and the insane howling of men who had [been] driven mad".[161] The British bombing had badly smashed the German front-line units; e.g. tanks were thrown up on the roofs of French farmhouses. Initially, the three British armoured divisions assigned to lead the offensive, the 7th, 11th and the Guards, made rapid progress and were soon approaching the Borguebus ridge, which dominated the landscape south of Caen by noon.[162]
-
-The_British_Army_in_Normandy_1944_B6934.jpg
 
 If the British could take the Borguebus ridge, the way to the plains of northern France would be wide open, and potentially Paris could be taken, which explains the ferocity with which the Germans defended the Borguebus ridge. One German officer, Lieutenant Baron von Rosen recalled that to motivate a Luftwaffe officer commanding a battery of four 88mm guns to fight against the British tanks that he had to hold his handgun to his head "...and asked him whether he would like to be killed immediately or get a high decoration. He decided for the latter".[163] The well dug-in 88mm guns around the Borguebus ridge began taking a toll of the British Sherman tanks and the countryside was soon dotted with dozens of burning Shermans.[164] One British officer reported with worry: "I see palls of smoke and tanks brewing up with flames belching forth from their turrets. I see men climbing out, on fire like torches, rolling on the ground to try and douse the flames".[165] Despite Montgomery's orders to try to press on, fierce German counter-attacks stopped the British offensive.[166]
 
@@ -176,7 +160,7 @@ The long running dispute over what Montgomery's "master plan" in Normandy was, l
 
 Operation Goodwood almost cost Montgomery his job, as Eisenhower seriously considered sacking him and only chose not to do so because to sack the popular "Monty" would have caused such a political backlash in Britain against the Americans at a critical moment in the war that the resulting strains in the Atlantic alliance were not considered worth it.[177] Montgomery expressed his satisfaction at the results of Goodwood when calling the operation off. Eisenhower was under the impression that Goodwood was to be a break out operation. There was a miscommunication between the two men or Eisenhower did not understand the strategy. Alan Brooke chief of the British Imperial General Staff wrote: "Ike knows nothing about strategy and is quite unsuited to the post of Supreme Commander. It is no wonder that Monty's real high ability is not always realised"[178] Bradley fully understood Montgomery's intentions. Both men would not give away to the press the true intentions of their strategy.[179]
 
-General_Montgomery_with_Generals_Patton_(left)_and_Bradley_(centre)_at_21st_Army_Group_HQ,_Normandy,_7_July_1944._B6551.jpg (left) and Omar Bradley (centre) at 21st Army Group HQ, 7 July 1944.]]
+(left) and Omar Bradley (centre) at 21st Army Group HQ, 7 July 1944.]]
 
 Many American officers had found Montgomery a difficult man to work with, and after Goodwood, pressured Eisenhower to fire Montgomery.[180] Although the Eisenhower-Montgomery dispute is sometimes depicted in nationalist terms as being an Anglo-American struggle, it was the British Air Marshal Arthur Tedder who was pressing Eisenhower most strongly after Goodwood to fire Montgomery.[181] An American officer wrote in his diary that Tedder had come to see Eisenhower to "pursue his current favourite subject, the sacking of Monty".[182] With Tedder leading the "sack Monty" campaign, it encouraged Montgomery's American enemies to press Eisenhower to fire Montgomery.[183] Brooke was sufficiently worried about the "sack Monty" campaign to visit Montgomery at his Tactical Headquarters (TAC) in France and as he wrote in his diary; "warned [Montgomery] of a tendency in the PM [Churchill] to listen to suggestions that Monty played for safety and was not prepared to take risks".[184] Brooke advised Montgomery to invite Churchill to Normandy, arguing that if the "sack Monty" campaign had won the Prime Minister over, then his career would be over as having Churchill's backing would give Eisenhower the political "cover" to fire Montgomery.[185] On 20 July, Montgomery met Eisenhower and on 21 July Churchill at the TAC in France.[186] One of Montgomery's staff officers wrote afterwards that it was "common knowledge at Tac that Churchill had come to sack Monty".[187] No notes were taken at the Eisenhower-Montgomery and Churchill-Montgomery meetings, but Montgomery was able to persuade both men not to fire him.[188]
 
@@ -186,7 +170,7 @@ Hitler waited too long to order his soldiers to retreat from Normandy, leading M
 
 Advance to the Rhine
 
-Bundesarchiv_Bild_183-14059-0018,_Berlin,_Oberbefehlshaber_der_vier_Verbündeten.jpg, Georgy Zhukov and Jean de Lattre de Tassigny]]
+, Georgy Zhukov and Jean de Lattre de Tassigny]]
 
 General Eisenhower took over Ground Forces Command on 1 September, while continuing as Supreme Commander, with Montgomery continuing to command the 21st Army Group, now consisting mainly of British and Canadian units. Montgomery bitterly resented this change, although it had been agreed before the D-Day invasion.[204] The British journalist Mark Urban writes that Montgomery seemed unable to grasp that as the majority of the 2.2 million Allied soldiers fighting against Germany on the Western Front were now American (the ratio was 3:1) that it was politically unacceptable to American public opinion to have Montgomery remain as Land Forces Commander as: "Politics would not allow him to carry on giving orders to great armies of Americans simply because, in his view, he was better than their generals".[205]
 
@@ -228,7 +212,7 @@ It is known that the Battle of the Bulge was the largest land battle fought by t
 
 Crossing the Rhine
 
-Operationvarsity.jpg (centre) and the Commander of the British Second Army, Lieutenant General Sir Miles Dempsey, talking after a conference in which Montgomery gave the order for the Second Army to begin Operation Plunder.]] Montgomery_receives_Order_of_Victory_HD-SN-99-02756.JPG on June 5, 1945. Dwight Eisenhower, Georgy Zhukov and Sir Arthur Tedder were also present.]]
+(centre) and the Commander of the British Second Army, Lieutenant General Sir Miles Dempsey, talking after a conference in which Montgomery gave the order for the Second Army to begin Operation Plunder.]] on June 5, 1945. Dwight Eisenhower, Georgy Zhukov and Sir Arthur Tedder were also present.]]
 
 Montgomery's 21st Army Group (later) advanced to the Rhine with operations Veritable and Grenade in February 1945. A meticulously planned Rhine crossing occurred on 24 March. While successful, it was two weeks after the Americans had unexpectedly (sans meticulous planning) captured the (railway) Ludendorff Bridge at Remagen and crossed the river on 7 March.[258]
 
@@ -261,17 +245,17 @@ Later life
 
 Career
 
-Allies_at_the_Brandenburg_Gate,_1945.jpg Marshals Zhukov and Rokossovsky with General Sokolovsky leave the Brandenburg Gate on 12 July 1945 after being decorated by Montgomery.]]
+Marshals Zhukov and Rokossovsky with General Sokolovsky leave the Brandenburg Gate on 12 July 1945 after being decorated by Montgomery.]]
 
 After the war Lord Montgomery became the Commander-in-Chief (C-in-C) of the British Army of the Rhine (BAOR), the name given to the British Occupation Forces, and was the British member of the Allied Control Council.[266] Montgomery was also President of Portsmouth Football Club between 1944 and 1961.[267] He was created 1st Viscount Montgomery of Alamein in 1946.[268] He was Chief of the Imperial General Staff (CIGS) from 1946 to 1948, succeeding Alan Brooke. As CIGS, Montgomery toured Africa in 1947 and in a secret 1948 report to Prime Minister Clement Attlee's government proposed a "master plan" to exploit the raw materials of Africa, thereby counteracting the loss of British influence in Asia. Montgomery held racist views towards Africans, describing them as "complete savages" incapable of developing their own countries.[269] He was barely on speaking terms with his fellow chiefs, sending his VCIGS to attend their meetings[270] and he clashed particularly with Sir Arthur Tedder, who was by now Chief of the Air Staff (CAS). When Montgomery's term of office expired, Prime Minister Attlee appointed Sir William Slim from retirement with the rank of field marshal as his successor; when Montgomery protested that he had told his protégé, General Sir John Crocker, former commander of I Corps in the 1944–45 North-West Europe Campaign, that the job was to be his, Attlee is said to have given the memorable retort "Untell him".[271]
 
-Field_Marshal_Lord_Montgomery_(19481576520).jpg in 1947]] He was then appointed Chairman of the Western Union Defence Organization's C-in-C committee.[272] Volume 3 of Nigel Hamilton's _Life of Montgomery of Alamein_ gives an account of the bickering between Montgomery and his land forces chief, French General Jean de Lattre de Tassigny, which created splits through the Union headquarters. He was thus pleased to become Eisenhower's deputy in creating the North Atlantic Treaty Organisation's European forces in 1951.[273] He would continue to serve under Eisenhower's successors, Generals Matthew Ridgway and Al Gruenther, until his retirement, aged nearly 71, in 1958.[274] His mother Maud, Lady Montgomery, died at New Park in Moville in Inishowen in 1949; she was buried alongside her husband in the 'kirkyard' behind St. Columb's Church, the small Church of Ireland church beside New Park, overlooking Lough Foyle. Lord Montgomery did not attend the funeral, claiming he was "too busy".[275]
+in 1947]] He was then appointed Chairman of the Western Union Defence Organization's C-in-C committee.[272] Volume 3 of Nigel Hamilton's _Life of Montgomery of Alamein_ gives an account of the bickering between Montgomery and his land forces chief, French General Jean de Lattre de Tassigny, which created splits through the Union headquarters. He was thus pleased to become Eisenhower's deputy in creating the North Atlantic Treaty Organisation's European forces in 1951.[273] He would continue to serve under Eisenhower's successors, Generals Matthew Ridgway and Al Gruenther, until his retirement, aged nearly 71, in 1958.[274] His mother Maud, Lady Montgomery, died at New Park in Moville in Inishowen in 1949; she was buried alongside her husband in the 'kirkyard' behind St. Columb's Church, the small Church of Ireland church beside New Park, overlooking Lough Foyle. Lord Montgomery did not attend the funeral, claiming he was "too busy".[275]
 
 He was chairman of the governing body of St. John's School in Leatherhead, Surrey, from 1951 to 1966, and a generous supporter. Lord Montgomery was an Honorary Member of the Winkle Club, a noted charity in Hastings, East Sussex, and introduced Sir Winston Churchill to the club in 1955.[276]
 
 Views
 
-Monty,_wavvel,_auk.jpg with Lord Wavell, Viceroy of India, and Auchinleck, Commander in Chief Indian Army. Delhi 1946]] Montgomery's memoirs (1958) criticised many of his wartime comrades in harsh terms, including Eisenhower.[277] He was threatened with legal action by Field Marshal Auchinleck for suggesting that Auchinleck had intended to retreat from the Alamein position if attacked again, and had to give a radio broadcast (20 November 1958) expressing his gratitude to Auchinleck for having stabilised the front at the First Battle of Alamein.[278]
+with Lord Wavell, Viceroy of India, and Auchinleck, Commander in Chief Indian Army. Delhi 1946]] Montgomery's memoirs (1958) criticised many of his wartime comrades in harsh terms, including Eisenhower.[277] He was threatened with legal action by Field Marshal Auchinleck for suggesting that Auchinleck had intended to retreat from the Alamein position if attacked again, and had to give a radio broadcast (20 November 1958) expressing his gratitude to Auchinleck for having stabilised the front at the First Battle of Alamein.[278]
 
 The 1960 paperback edition of his memoirs contains a publisher's note drawing attention to that broadcast, and stating that in the publisher's view the reader might reasonably assume from Montgomery's text that Auchinleck had been planning to retreat "into the Nile Delta or beyond" and pointing out that it had been Auchinleck's intention to launch an offensive as soon as the Eighth Army was "rested and regrouped".[279] Montgomery was stripped of his honorary citizenship of Montgomery, Alabama, and was challenged to a duel by an Italian officer.[280]
 
@@ -284,7 +268,7 @@ During a visit to the Alamein battlefields in May 1967, he bluntly told high-ran
 
 Death
 
-BernardMontgomery_Aberdare_Blog_crop.jpg, London, by Oscar Nemon, unveiled in 1980]] Montgomery died from unspecified causes in 1976 at his home Isington Mill in Isington, in the County of Hampshire, aged 88. After a funeral at St George's Chapel, Windsor, his body was buried in Holy Cross churchyard, in Binsted, Hampshire.[286]
+, London, by Oscar Nemon, unveiled in 1980]] Montgomery died from unspecified causes in 1976 at his home Isington Mill in Isington, in the County of Hampshire, aged 88. After a funeral at St George's Chapel, Windsor, his body was buried in Holy Cross churchyard, in Binsted, Hampshire.[286]
 
 His Garter banner, which had hung in St. George's Chapel in Windsor during his lifetime, is now on display in St Mary's, Warwick.[287]
 
@@ -299,7 +283,7 @@ Legacy
 -   A statue of Montgomery by Oscar Nemon stands outside the Ministry of Defence in Whitehall, alongside those of Field Marshal Lord Slim and Field Marshal Lord Alanbrooke.[289]
 -   Montgomery gave his name to the French commune Colleville-Montgomery in Normandy.[290]
 
-M3_Monty.JPG in London]]
+in London]]
 
 -   The Imperial War Museum holds a variety of material relating to Montgomery in its collections. These include Montgomery's Grant command tank (on display in the atrium at the Museum's London branch), his command caravans as used in North West Europe (on display at IWM Duxford), and his papers are held by the Museum's Department of Documents. The Museum maintains a permanent exhibition about Montgomery, entitled _Monty: Master of the Battlefield_.[291]
 -   The World Champion Field Marshal Montgomery Pipe Band from Northern Ireland is named after him.[292]
@@ -308,8 +292,6 @@ M3_Monty.JPG in London]]
 
 
 Honours and awards
-
-Coat_of_Arms_of_Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein,_KG,_GCB,_DSO,_PC,_DL.png
 
 -   Viscountcy as _Montgomery of Alamein_ (UK, January 1946)[296]
 -   Knight of the Most Noble Order of the Garter (UK, 1946)[297]
@@ -332,16 +314,6 @@ Coat_of_Arms_of_Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein,_KG,_GCB,
 -   Grand Cross of the Royal Norwegian Order of St. Olav (Norway) (1951)[316]
 
 Viscount Montgomery's ribbons as they would appear today, not including campaign or other awards.
-
-Order_of_the_Garter_UK_ribbon.svg Order_of_the_Bath_UK_ribbon.svg Dso-ribbon.svg U.S._Army_Distinguished_Service_Medal_ribbon.svg
-
-US_Legion_of_Merit_Chief_Commander_ribbon.png Ordervictory_rib.png Order_of_Suvorov_106x30.png Croix_de_Guerre_1914-1918_ribbon.svg
-
-Orderelefant_ribbon.png GRE_Order_of_George_I_-_Grand_Commander_BAR.png Virtuti_Militari_Ribbon.png TCH_CS_Vojensky_Rad_Bileho_Lva_1st_(1945)_BAR.svg
-
-ETH_Order_of_Solomon_BAR.png BEL_Order_of_Leopold_II_-_Grand_Officer_BAR.pngUK_MID_1920-94.svg NLD_Order_of_the_Dutch_Lion_-_Grand_Cross_BAR.png
-
-St_Olavs_Orden_storkors_stripe.svg Medaille_militaire_ribbon.svg Legion_Honneur_GC_ribbon.svg Czechoslovak_War_Cross_1939-1945_Bar.png
 
 
 See also

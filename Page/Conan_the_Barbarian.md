@@ -39,7 +39,7 @@ A conspicuous element of Conan's character is his chivalry. He is extremely relu
 
 Appearance
 
-Conan has "sullen", "smoldering", and "volcanic" blue eyes with a black "square-cut mane". Howard once describes him as having a hairy chest and, while comic book interpretations often portray Conan as wearing a loincloth or other minimalist clothing to give him a more barbaric image, Howard describes the character as wearing whatever garb is typical for the kingdom and culture in which Conan finds himself. Howard never gave a strict height or weight for Conan in a story, only describing him in loose terms like "giant" and "massive".[18] In the tales, no human is ever described as being stronger than Conan, although several are mentioned as taller (such as the strangler Baal-pteor) or of larger bulk. In a letter to P. Schuyler Miller and John D. Clark in 1936, only three months before Howard's death, Conan is described as standing 6ft/183cm and weighing when he takes part in an attack on Venarium at only 14 years old, though being far from fully grown. Conan himself says in "Beyond the Black River" that he had "...not yet seen 15 snows". ConanCreepsLarge.png
+Conan has "sullen", "smoldering", and "volcanic" blue eyes with a black "square-cut mane". Howard once describes him as having a hairy chest and, while comic book interpretations often portray Conan as wearing a loincloth or other minimalist clothing to give him a more barbaric image, Howard describes the character as wearing whatever garb is typical for the kingdom and culture in which Conan finds himself. Howard never gave a strict height or weight for Conan in a story, only describing him in loose terms like "giant" and "massive".[18] In the tales, no human is ever described as being stronger than Conan, although several are mentioned as taller (such as the strangler Baal-pteor) or of larger bulk. In a letter to P. Schuyler Miller and John D. Clark in 1936, only three months before Howard's death, Conan is described as standing 6ft/183cm and weighing when he takes part in an attack on Venarium at only 14 years old, though being far from fully grown. Conan himself says in "Beyond the Black River" that he had "...not yet seen 15 snows".
 
 Although Conan is muscular, Howard frequently compares his agility and way of moving to that of a panther (see, for instance, "Jewels of Gwahlur", "Beyond the Black River", or "Rogues in the House"). His skin is frequently characterized as bronzed from constant exposure to the sun. In his younger years, he is often depicted wearing a light chain shirt and a horned helmet, though appearances vary with different stories.
 
@@ -68,7 +68,7 @@ Howard frequently corresponded with H. P. Lovecraft, and the two would sometimes
 
 Original Robert E. Howard Conan stories
 
-Weird_Tales_May_1934.jpg'' (May 1934) depicting Conan and Bêlit in _Queen of the Black Coast_, one of Robert E. Howard's original Conan stories.]]
+'' (May 1934) depicting Conan and Bêlit in _Queen of the Black Coast_, one of Robert E. Howard's original Conan stories.]]
 
 Conan stories published in _Weird Tales_
 

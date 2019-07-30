@@ -3,8 +3,6 @@ FALLACIES OF DEFINITION are the various ways in which definitions can fail to ex
 
 Circularity
 
-Circular_definition_of_inflammable_liquid.png
-
 If one concept is defined by another, and the other is defined by the first, this is known as a circular definition, akin to circular reasoning: neither offers enlightenment about what one wanted to know.[6] "It is a fallacy because by using a synonym in the _definiens_ the reader is told nothing significantly new."[7]
 
 A straightforward example would be to define "Jew" as "a person believing in Judaism", and "Judaism" as "the religion of the Jewish people", which would make "Judaism" "the religion of the people believing in Judaism."

@@ -39,7 +39,7 @@ In some traditions, tunes may be strung together in medleys or "sets".
 
 Origins
 
-Indian_village_musicians.jpg Throughout most of human prehistory and history, listening to recorded music was not possible. Music was made by common people during both their work and leisure, as well as during religious activities. The work of economic production was often manual and communal. Manual labor often included singing by the workers, which served several practical purposes. It reduced the boredom of repetitive tasks, it kept the rhythm during synchronized pushes and pulls, and it set the pace of many activities such as planting, weeding, reaping, threshing, weaving, and milling. In leisure time, singing and playing musical instruments were common forms of entertainment and history-telling—even more common than today, when electrically enabled technologies and widespread literacy make other forms of entertainment and information-sharing competitive.[22]
+Throughout most of human prehistory and history, listening to recorded music was not possible. Music was made by common people during both their work and leisure, as well as during religious activities. The work of economic production was often manual and communal. Manual labor often included singing by the workers, which served several practical purposes. It reduced the boredom of repetitive tasks, it kept the rhythm during synchronized pushes and pulls, and it set the pace of many activities such as planting, weeding, reaping, threshing, weaving, and milling. In leisure time, singing and playing musical instruments were common forms of entertainment and history-telling—even more common than today, when electrically enabled technologies and widespread literacy make other forms of entertainment and information-sharing competitive.[22]
 
 Some believe that folk music originated as art music that was changed and probably debased by oral transmission, while reflecting the character of the society that produced it.[23] In many societies, especially preliterate ones, the cultural transmission of folk music requires learning by ear, although notation has evolved in some cultures. Different cultures may have different notions concerning a division between "folk" music on the one hand and of "art" and "court" music on the other. In the proliferation of popular music genres, some traditional folk music became also referred to "World music" or "Roots music".
 
@@ -49,7 +49,7 @@ The post–World War II folk revival in America and in Britain started a new gen
 
 Subject matter
 
-Armenian_Musicians.jpg traditional musicians]] Assyrian folk music playing _zurna_ and _Davul_, the typically used instruments for their folk music and dance.]] Traditional folk music often includes sung words, although folk instrumental music occurs commonly in dance music traditions. Narrative verse looms large in the traditional folk music of many cultures. This encompasses such forms as traditional epic poetry, much of which was meant originally for oral performance, sometimes accompanied by instruments. Many epic poems of various cultures were pieced together from shorter pieces of traditional narrative verse, which explains their episodic structure, repetitive elements, and their frequent _in medias res_ plot developments. Other forms of traditional narrative verse relate the outcomes of battles or describe tragedies or natural disasters.
+traditional musicians]] playing _zurna_ and _Davul_, the typically used instruments for their folk music and dance.]] Traditional folk music often includes sung words, although folk instrumental music occurs commonly in dance music traditions. Narrative verse looms large in the traditional folk music of many cultures. This encompasses such forms as traditional epic poetry, much of which was meant originally for oral performance, sometimes accompanied by instruments. Many epic poems of various cultures were pieced together from shorter pieces of traditional narrative verse, which explains their episodic structure, repetitive elements, and their frequent _in medias res_ plot developments. Other forms of traditional narrative verse relate the outcomes of battles or describe tragedies or natural disasters.
 
 Sometimes, as in the triumphant _Song of Deborah_ found in the Biblical _Book of Judges_, these songs celebrate victory. Laments for lost battles and wars, and the lives lost in them, are equally prominent in many traditions; these laments keep alive the cause for which the battle was fought. The narratives of traditional songs often also remember folk heroes such as John Henry or Robin Hood. Some traditional song narratives recall supernatural events or mysterious deaths.
 
@@ -59,7 +59,7 @@ Work songs frequently feature call and response structures and are designed to e
 
 Folk song transformations and variations
 
-Korean_music-Nongak-03.jpg Naxi_Musicians_I.jpg Music transmitted by word of mouth through a community, in time, develops many variants, because this kind of transmission cannot produce word-for-word and note-for-note accuracy. Indeed, many traditional singers are quite creative and deliberately modify the material they learn.
+Music transmitted by word of mouth through a community, in time, develops many variants, because this kind of transmission cannot produce word-for-word and note-for-note accuracy. Indeed, many traditional singers are quite creative and deliberately modify the material they learn.
 
 For example, the words of "I'm a Man You Don't Meet Every Day" (Roud 975) are known from a broadside in the Bodleian Library.[30] The date is almost certainly before 1900, and it seems to be Irish. In 1958 the song was recorded in Canada (My Name is Pat and I'm Proud of That). Scottish traveler Jeannie Robertson from Aberdeen, made the next recorded version in 1961. She has changed it to make reference to "Jock Stewart", one of her relatives, and there are no Irish references. In 1976 Scottish artist Archie Fisher deliberately altered the song to remove the reference to a dog being shot. In 1985 The Pogues took it full circle by restoring all the Irish references.
 
@@ -71,7 +71,7 @@ Literary interest in the popular ballad form dates back at least to Thomas Percy
 
 Regional forms
 
-015_Die_Brüder_Steinegger_nach_einem_Lichtbild_in_den_1880er-Jahren_-_Änderung_der_Tracht.jpg, Styria, 1880]] While the loss of traditional folk music in the face of the rise of popular music is a worldwide phenomenon, it is not one occurring at a uniform rate throughout the world. The process is most advanced "where industrialization and commercialisation of culture are most advanced"[31] but also occurs more gradually even in settings of lower technological advancement. However, the loss of traditional music is slowed in nations or regions where traditional folk music is a badge of cultural or national identity, for instance in the case of Bangladesh, Hungary, India, Ireland, Pakistan, Scotland, Latvia, Turkey, Portugal, Brittany, Galicia, Greece and Crete. Tourism revenue can provide a potent incentive to preserve local cultural distinctives. Local government often sponsors and promotes performances during tourist seasons, and revives lost traditions.
+, Styria, 1880]] While the loss of traditional folk music in the face of the rise of popular music is a worldwide phenomenon, it is not one occurring at a uniform rate throughout the world. The process is most advanced "where industrialization and commercialisation of culture are most advanced"[31] but also occurs more gradually even in settings of lower technological advancement. However, the loss of traditional music is slowed in nations or regions where traditional folk music is a badge of cultural or national identity, for instance in the case of Bangladesh, Hungary, India, Ireland, Pakistan, Scotland, Latvia, Turkey, Portugal, Brittany, Galicia, Greece and Crete. Tourism revenue can provide a potent incentive to preserve local cultural distinctives. Local government often sponsors and promotes performances during tourist seasons, and revives lost traditions.
 
 Early folk music, fieldwork and scholarship
 
@@ -89,7 +89,7 @@ Around this time, composers of classical music developed a strong interest in co
 
 North America
 
-Cecil-sharp-appalachia-map.png in 1916 (blue), 1917 (green), and 1918 (red). Sharp sought "old world" English and Scottish ballads passed down to the region's inhabitants from their British ancestors. He collected hundreds of such ballads, the most productive areas being the Blue Ridge Mountains of North Carolina and the Cumberland Mountains of Kentucky.]]
+in 1916 (blue), 1917 (green), and 1918 (red). Sharp sought "old world" English and Scottish ballads passed down to the region's inhabitants from their British ancestors. He collected hundreds of such ballads, the most productive areas being the Blue Ridge Mountains of North Carolina and the Cumberland Mountains of Kentucky.]]
 
 The advent of audio recording technology provided folklorists with a revolutionary tool to preserve vanishing musical forms. The earliest American folk music scholars were with the American Folklore Society (AFS), which emerged in the late 1800s. Their studies expanded to include Native American music, but still treated folk music as a historical item preserved in isolated societies as well.[34] In North America, during the 1930s and 1940s, the Library of Congress worked through the offices of traditional music collectors Robert Winslow Gordon, Alan Lomax and others to capture as much North American field material as possible. Lomax was the first prominent scholar to study distinctly American folk music such as that of cowboys and southern blacks. His first major published work was in 1911, _Cowboy Songs and Other Frontier Ballads_.[35] and was arguably the most prominent US folk music scholar of his time, notably during the beginnings of the folk music revival in the 1930s and early 1940s. Cecil Sharp also worked in America, recording the traditional songs of the Appalachian Mountains in 1916–1918 in collaboration with Maud Karpeles and Olive Dame Campbell and is considered the first major scholar covering American folk music.[36] Campbell and Sharp are represented under other names by actors in the modern movie _Songcatcher_.
 
@@ -109,13 +109,13 @@ National and regional forms
 
 Africa
 
-Mbira_dzavadzimu.jpg, thumb piano or mbira]] Africa is a vast continent and its regions and nations have distinct musical traditions. The music of North Africa for the most part has a different history from Sub-Saharan African music traditions.[55]
+, thumb piano or mbira]] Africa is a vast continent and its regions and nations have distinct musical traditions. The music of North Africa for the most part has a different history from Sub-Saharan African music traditions.[55]
 
 The music and dance forms of the African diaspora, including African American music and many Caribbean genres like soca, calypso and Zouk; and Latin American music genres like the samba, Cuban rumba, salsa; and other clave (rhythm)-based genres, were founded to varying degrees on the music of African slaves, which has in turn influenced African popular music.
 
 Asia
 
-Paban_Das_Baul_at_Nine_Lives_concert,_2009.jpg, baul singer at Nine Lives concert, 2009.]] Many Asian civilizations distinguish between art/court/classical styles and "folk" music. For example, the late Alam Lohar is an example of a South Asian singer who was classified as a folk singer.[56]
+, baul singer at Nine Lives concert, 2009.]] Many Asian civilizations distinguish between art/court/classical styles and "folk" music. For example, the late Alam Lohar is an example of a South Asian singer who was classified as a folk singer.[56]
 
 However, cultures that do not depend greatly upon notation and have much anonymous art music must distinguish the two in different ways from those suggested by western scholars.
 
@@ -169,7 +169,7 @@ Indigenous Australian music includes the music of Australian Aborigines and Torr
 
 Europe
 
-2012-01-25_BattlefieldBand_0097.JPG performing in Freiburg in 2012]]
+performing in Freiburg in 2012]]
 
 Celtic traditional music
 
@@ -181,7 +181,7 @@ In Scotland, The Corries, Silly Wizard, Capercaillie, Runrig, Jackie Leven, Juli
 
 Central and Eastern Europe
 
-During the Communist era national folk dancing in the Eastern Bloc was actively promoted by the state. Dance troupes from Russia and Poland toured non-communist Europe from about 1937 to 1990. The Red Army Choir recorded many albums. Eastern Europe is also the origin of the Jewish Klezmer tradition. Ľubomír_Párička_gra_na_dudach.webm The polka is a central European dance and also a genre of dance music familiar throughout Europe and the Americas. It originated in the middle of the 19th century in Bohemia. Polka is still a popular genre of folk music in many European countries and is performed by folk artists in Poland, Latvia, Lithuania, Czech Republic, Netherlands, Croatia, Slovenia, Germany, Hungary, Austria, Switzerland, Italy, Ukraine, Belarus, Russia and Slovakia. Local varieties of this dance are also found in the Nordic countries, United Kingdom, Republic of Ireland, Latin America (especially Mexico), and in the United States.
+During the Communist era national folk dancing in the Eastern Bloc was actively promoted by the state. Dance troupes from Russia and Poland toured non-communist Europe from about 1937 to 1990. The Red Army Choir recorded many albums. Eastern Europe is also the origin of the Jewish Klezmer tradition. The polka is a central European dance and also a genre of dance music familiar throughout Europe and the Americas. It originated in the middle of the 19th century in Bohemia. Polka is still a popular genre of folk music in many European countries and is performed by folk artists in Poland, Latvia, Lithuania, Czech Republic, Netherlands, Croatia, Slovenia, Germany, Hungary, Austria, Switzerland, Italy, Ukraine, Belarus, Russia and Slovakia. Local varieties of this dance are also found in the Nordic countries, United Kingdom, Republic of Ireland, Latin America (especially Mexico), and in the United States.
 
 German Volkslieder perpetuated by Liederhandschriften manuscripts like _Carmina Burana_ date back to medieval Minnesang and Meistersinger traditions. Those folk songs revived in the late 18th century period of German Romanticism, first promoted by Johann Gottfried Herder and other advocates of the Enlightenment, later compiled by Achim von Arnim and Clemens Brentano (_Des Knaben Wunderhorn_) as well as by Ludwig Uhland.
 
@@ -191,7 +191,7 @@ The Hungarian group Muzsikás played numerous American tours and participated in
 
 Balkan music
 
-Misteriata-na-balgarskite-glasove.jpg]] Balkan folk music was influenced by the mingling of Balkan ethnic groups in the period of Ottoman Empire. It comprises the music of Bosnia and Herzegovina, Bulgaria, Croatia, Greece, Montenegro, Serbia, Romania, Republic of Macedonia, Albania, some of the historical states of Yugoslavia or the State Union of Serbia and Montenegro and geographical regions such as Thrace. Some music is characterised by complex rhythm.
+]] Balkan folk music was influenced by the mingling of Balkan ethnic groups in the period of Ottoman Empire. It comprises the music of Bosnia and Herzegovina, Bulgaria, Croatia, Greece, Montenegro, Serbia, Romania, Republic of Macedonia, Albania, some of the historical states of Yugoslavia or the State Union of Serbia and Montenegro and geographical regions such as Thrace. Some music is characterised by complex rhythm.
 
 A notable act is The Mystery Of The Bulgarian Voices, which won a Grammy Award in 1989.[74][75]
 
@@ -199,7 +199,7 @@ An important part of the whole Balkan folk music is the music of the local Roman
 
 Nordic folk music
 
-Latviu_senovinio_folkloro_grupe_Vilki.2009-08-22.jpg crafts and warfare "Apuolė 854" in Apuolė Castle mound, August 2009]]
+crafts and warfare "Apuolė 854" in Apuolė Castle mound, August 2009]]
 
 Nordic folk music includes a number of traditions in Northern European, especially Scandinavian, countries. The Nordic countries are generally taken to include Iceland, Norway, Finland, Sweden and Denmark. Sometimes it is taken to include Greenland and historically the Baltic countries of Estonia, Latvia and Lithuania.
 
@@ -229,7 +229,7 @@ North America
 
 Canada
 
-Lumbermen_violin_and_sticks_1943.jpgs playing the fiddle, with sticks for percussion, in a lumber camp in 1943.]] Canada's traditional folk music is particularly diverse.[78] Even prior to liberalizing its immigration laws in the 1960s, Canada was ethnically diverse with dozens of different Indigenous and European groups present. In terms of music, academics do not speak of a Canadian tradition, but rather ethnic traditions (Acadian music, Irish-Canadian music, Blackfoot music, Innu music, Inuit music, Métis fiddle, etc.) and later in Eastern Canada regional traditions (Newfoundland music, Cape Breton fiddling, Quebecois music, etc.)
+s playing the fiddle, with sticks for percussion, in a lumber camp in 1943.]] Canada's traditional folk music is particularly diverse.[78] Even prior to liberalizing its immigration laws in the 1960s, Canada was ethnically diverse with dozens of different Indigenous and European groups present. In terms of music, academics do not speak of a Canadian tradition, but rather ethnic traditions (Acadian music, Irish-Canadian music, Blackfoot music, Innu music, Inuit music, Métis fiddle, etc.) and later in Eastern Canada regional traditions (Newfoundland music, Cape Breton fiddling, Quebecois music, etc.)
 
 "Knowledge of the history of Canada", wrote Isabelle Mills in 1974, "is essential in understanding the mosaic of Canadian folk song. Part of this mosaic is supplied by the folk songs of Canada brought by European and Anglo-Saxon settlers to the new land."[79] She describes how the French colony at Québec brought French immigrants, followed before long by waves of immigrants from Great Britain, Germany, and other European countries, all bringing music from their homelands, some of which survives into the present day. Ethnographer and folklorist Marius Barbeau estimated that well over ten thousand French folk songs and their variants had been collected in Canada. Many of the older ones had by then died out in France.
 

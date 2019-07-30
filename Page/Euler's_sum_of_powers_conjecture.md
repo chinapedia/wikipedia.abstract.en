@@ -63,7 +63,7 @@ for 4}} by a direct computer search using techniques suggested by Elkies. This s
 
 Generalizations
 
-Plato_number.svg In 1967, L. J. Lander, T. R. Parkin, and John Selfridge conjectured[8] that if and
+In 1967, L. J. Lander, T. R. Parkin, and John Selfridge conjectured[8] that if and
 
 $$\sum_{i=1}^{n} a_i^k = \sum_{j=1}^{m} b_j^k$$
 , where are positive integers for all and , then . In the special case 1}}, the conjecture states that if

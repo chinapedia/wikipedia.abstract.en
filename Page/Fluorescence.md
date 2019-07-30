@@ -1,4 +1,4 @@
-Fluorescent_minerals_hg.jpg light.]] Adaptive-Evolution-of-Eel-Fluorescent-Proteins-from-Fatty-Acid-Binding-Proteins-Produces-Bright-pone.0140972.g001.jpg Willemite_in_natural_and_ultraviolet_light.jpg and calcite in UV light]]
+light.]] and calcite in UV light]]
 
 FLUORESCENCE is the emission of light by a substance that has absorbed light or other electromagnetic radiation. It is a form of luminescence. In most cases, the emitted light has a longer wavelength, and therefore lower energy, than the absorbed radiation. The most striking example of fluorescence occurs when the absorbed radiation is in the ultraviolet region of the spectrum, and thus invisible to the human eye, while the emitted light is in the visible region, which gives the fluorescent substance a distinct color that can be seen only when exposed to UV light. Fluorescent materials cease to glow nearly immediately when the radiation source stops, unlike phosphorescent materials, which continue to emit light for some time after.
 
@@ -7,7 +7,7 @@ Fluorescence has many practical applications, including mineralogy, gemology, me
 
 History
 
-Lignum_nephriticum_-_cup_of_Philippine_lignum_nephriticum,_Pterocarpus_indicus,_and_flask_containing_its_fluorescent_solution_Hi.jpg'' cup made from the wood of the narra tree (_Pterocarpus indicus_), and a flask containing its fluorescent solution]] Matlaline_structure.svg An early observation of fluorescence was described in 1560 by Bernardino de Sahagún and in 1565 by Nicolás Monardes in the infusion known as _lignum nephriticum_ (Latin for "kidney wood"). It was derived from the wood of two tree species, _Pterocarpus indicus_ and _Eysenhardtia polystachya_.[1][2][3][4] The chemical compound responsible for this fluorescence is matlaline, which is the oxidation product of one of the flavonoids found in this wood.[5]
+'' cup made from the wood of the narra tree (_Pterocarpus indicus_), and a flask containing its fluorescent solution]] An early observation of fluorescence was described in 1560 by Bernardino de Sahagún and in 1565 by Nicolás Monardes in the infusion known as _lignum nephriticum_ (Latin for "kidney wood"). It was derived from the wood of two tree species, _Pterocarpus indicus_ and _Eysenhardtia polystachya_.[1][2][3][4] The chemical compound responsible for this fluorescence is matlaline, which is the oxidation product of one of the flavonoids found in this wood.[5]
 
 In 1819, Edward D. Clarke[6] and in 1822 René Just Haüy[7] described fluorescence in fluorites, Sir David Brewster described the phenomenon for chlorophyll in 1833[8] and Sir John Herschel did the same for quinine in 1845.[9][10]
 
@@ -55,7 +55,7 @@ Fluorescence quantum yields are measured by comparison to a standard. The quinin
 
 Lifetime
 
-Jablonski_Diagram_of_Fluorescence_Only.png. After an electron absorbs a high-energy photon the system is excited electronically and vibrationally. The system relaxes vibrationally, and eventually fluoresces at a longer wavelength.]]
+. After an electron absorbs a high-energy photon the system is excited electronically and vibrationally. The system relaxes vibrationally, and eventually fluoresces at a longer wavelength.]]
 
 The fluorescence lifetime refers to the average time the molecule stays in its excited state before emitting a photon. Fluorescence typically follows first-order kinetics:
 
@@ -134,8 +134,6 @@ Evolutionary origins
 
 It is suspected by some scientists that GFPs and GFP like proteins began as electron donors activated by light. These electrons were then used for reactions requiring light energy. Functions of fluorescent proteins, such as protection from the sun, conversion of light into different wavelengths, or for signaling are thought to have evolved secondarily.[35]
 
-Observed_occurrences_of_green_and_red_biofluorescence_in_Actinopterygii_-_journal.pone.0083259.g002.png
-
 The incidence of fluorescence across the tree of life is widespread, and has been studied most extensively in a phylogenetic sense in fish. The phenomenon appears to have evolved multiple times in multiple taxa such as in the anguilliformes (eels), gobioidei (gobies and cardinalfishes), and tetradontiformes (triggerfishes), along with the other taxa discussed later in the article. Fluorescence is highly genotypically and phenotypically variable even within ecosystems, in regards to the wavelengths emitted, the patterns displayed, and the intensity of the fluorescence. Generally, the species relying upon camouflage exhibit the greatest diversity in fluorescence, likely because camouflage is one of the most common uses of fluorescence.[36]
 
 Adaptive functions
@@ -152,7 +150,7 @@ Photic zone
 
 Fish
 
-Diversity_of_fluorescent_patterns_and_colors_in_marine_fishes_-_journal.pone.0083259.g001.png Bony fishes living in shallow water generally have good color vision due to their living in a colorful environment. Thus, in shallow-water fishes, red, orange, and green fluorescence most likely serves as a means of communication with conspecifics, especially given the great phenotypic variance of the phenomenon.[40]
+Bony fishes living in shallow water generally have good color vision due to their living in a colorful environment. Thus, in shallow-water fishes, red, orange, and green fluorescence most likely serves as a means of communication with conspecifics, especially given the great phenotypic variance of the phenomenon.[40]
 
 Many fish that exhibit biofluorescence, such as sharks, lizardfish, scorpionfish, wrasses, and flatfishes, also possess yellow intraocular filters.[41] Yellow intraocular filters in the lenses and cornea of certain fishes function as long-pass filters. These filters enable the species that to visualize and potentially exploit fluorescence, in order to enhance visual contrast and patterns that are unseen to other fishes and predators that lack this visual specialization.[42] Fish that possess the necessary yellow intraocular filters for visualizing biofluorescence potentially exploit a light signal from members of it. Biofluorescent patterning was especially prominent in cryptically patterned fishes possessing complex camouflage. Many of these lineages also possess yellow long-pass intraocular filters that could enable visualization of such patterns.[43]
 
@@ -169,8 +167,6 @@ Cephalopods
 _Alloteuthis subulata_ and _Loligo vulgaris_, two types of nearly transparent squid, have fluorescent spots above their eyes. These spots reflect incident light, which may serve as a means of camouflage, but also for signaling to other squids for schooling purposes.[56]
 
 Jellyfish
-
-Crystal_Jelly_("Aequorea_Victoria"),_Monterey_Bay_Aquarium,_Monterey,_California,_USA.jpg
 
 Another, well-studied example of biofluorescence in the ocean is the hydrozoan _Aequorea victoria_. This jellyfish lives in the photic zone off the west coast of North America and was identified as a carrier of green fluorescent protein (GFP) by Osamu Shimomura. The gene for these green fluorescent proteins has been isolated and is scientifically significant because it is widely used in genetic studies to indicate the expression of other genes.[57]
 
@@ -204,7 +200,7 @@ Parrots have fluorescent plumage that may be used in mate signaling. A study usi
 
 Arachnids
 
-Sorpion_Under_Blacklight_edit.jpg Spiders fluoresce under UV light and possess a huge diversity of fluorophores. Remarkably, spiders are the only known group in which fluorescence is “taxonomically widespread, variably expressed, evolutionarily labile, and probably under selection and potentially of ecological importance for intraspecific and interspecific signaling". A study by Andrews et al. (2007) reveals that fluorescence has evolved multiple times across spider taxa, with novel fluorophores evolving during spider diversification. In some spiders, ultraviolet cues are important for predator-prey interactions, intraspecific communication, and camouflaging with matching fluorescent flowers. Differing ecological contexts could favor inhibition or enhancement of fluorescence expression, depending upon whether fluorescence helps spiders be cryptic or makes them more conspicuous to predators. Therefore, natural selection could be acting on expression of fluorescence across spider species.[65]
+Spiders fluoresce under UV light and possess a huge diversity of fluorophores. Remarkably, spiders are the only known group in which fluorescence is “taxonomically widespread, variably expressed, evolutionarily labile, and probably under selection and potentially of ecological importance for intraspecific and interspecific signaling". A study by Andrews et al. (2007) reveals that fluorescence has evolved multiple times across spider taxa, with novel fluorophores evolving during spider diversification. In some spiders, ultraviolet cues are important for predator-prey interactions, intraspecific communication, and camouflaging with matching fluorescent flowers. Differing ecological contexts could favor inhibition or enhancement of fluorescence expression, depending upon whether fluorescence helps spiders be cryptic or makes them more conspicuous to predators. Therefore, natural selection could be acting on expression of fluorescence across spider species.[65]
 
 Scorpions also fluoresce due to the presence of beta carboline in their cuticles.[66]
 
@@ -218,7 +214,7 @@ Abiotic fluorescence
 
 Gemology, mineralogy and geology
 
-Aragonit_-_Fluorescence.gif Gemstones, minerals, may have a distinctive fluorescence or may fluoresce differently under short-wave ultraviolet, long-wave ultraviolet, visible light, or X-rays.
+Gemstones, minerals, may have a distinctive fluorescence or may fluoresce differently under short-wave ultraviolet, long-wave ultraviolet, visible light, or X-rays.
 
 Many types of calcite and amber will fluoresce under shortwave UV, longwave UV and visible light. Rubies, emeralds, and diamonds exhibit red fluorescence under long-wave UV, blue and sometimes green light; diamonds also emit light under X-ray radiation.
 
@@ -248,7 +244,7 @@ Applications of fluorescence
 
 Lighting
 
-Www_Beo_cc.jpgs. Paintings by Beo Beyond]] The common fluorescent lamp relies on fluorescence. Inside the glass tube is a partial vacuum and a small amount of mercury. An electric discharge in the tube causes the mercury atoms to emit mostly ultraviolet light. The tube is lined with a coating of a fluorescent material, called the _phosphor_, which absorbs ultraviolet light and re-emits visible light. Fluorescent lighting is more energy-efficient than incandescent lighting elements. However, the uneven spectrum of traditional fluorescent lamps may cause certain colors to appear different than when illuminated by incandescent light or daylight. The mercury vapor emission spectrum is dominated by a short-wave UV line at 254 nm (which provides most of the energy to the phosphors), accompanied by visible light emission at 436 nm (blue), 546 nm (green) and 579 nm (yellow-orange). These three lines can be observed superimposed on the white continuum using a hand spectroscope, for light emitted by the usual white fluorescent tubes. These same visible lines, accompanied by the emission lines of trivalent europium and trivalent terbium, and further accompanied by the emission continuum of divalent europium in the blue region, comprise the more discontinuous light emission of the modern trichromatic phosphor systems used in many compact fluorescent lamp and traditional lamps where better color rendition is a goal.[70]
+s. Paintings by Beo Beyond]] The common fluorescent lamp relies on fluorescence. Inside the glass tube is a partial vacuum and a small amount of mercury. An electric discharge in the tube causes the mercury atoms to emit mostly ultraviolet light. The tube is lined with a coating of a fluorescent material, called the _phosphor_, which absorbs ultraviolet light and re-emits visible light. Fluorescent lighting is more energy-efficient than incandescent lighting elements. However, the uneven spectrum of traditional fluorescent lamps may cause certain colors to appear different than when illuminated by incandescent light or daylight. The mercury vapor emission spectrum is dominated by a short-wave UV line at 254 nm (which provides most of the energy to the phosphors), accompanied by visible light emission at 436 nm (blue), 546 nm (green) and 579 nm (yellow-orange). These three lines can be observed superimposed on the white continuum using a hand spectroscope, for light emitted by the usual white fluorescent tubes. These same visible lines, accompanied by the emission lines of trivalent europium and trivalent terbium, and further accompanied by the emission continuum of divalent europium in the blue region, comprise the more discontinuous light emission of the modern trichromatic phosphor systems used in many compact fluorescent lamp and traditional lamps where better color rendition is a goal.[70]
 
 Fluorescent lights were first available to the public at the 1939 New York World's Fair. Improvements since then have largely been better phosphors, longer life, and more consistent internal discharge, and easier-to-use shapes (such as compact fluorescent lamps). Some high-intensity discharge (HID) lamps couple their even-greater electrical efficiency with phosphor enhancement for better color rendition.
 
@@ -268,7 +264,7 @@ Usually the setup of a fluorescence assay involves a light source, which may emi
 
 Biochemistry and medicine
 
-FluorescentCells.jpg under the microscope with three separate channels marking specific cellular components]] Fluorescence in the life sciences is used generally as a non-destructive way of tracking or analysis of biological molecules by means of the fluorescent emission at a specific frequency where there is no background from the excitation light, as relatively few cellular components are naturally fluorescent (called intrinsic or autofluorescence). In fact, a protein or other component can be "labelled" with an extrinsic fluorophore, a fluorescent dye that can be a small molecule, protein, or quantum dot, finding a large use in many biological applications.[74]
+under the microscope with three separate channels marking specific cellular components]] Fluorescence in the life sciences is used generally as a non-destructive way of tracking or analysis of biological molecules by means of the fluorescent emission at a specific frequency where there is no background from the excitation light, as relatively few cellular components are naturally fluorescent (called intrinsic or autofluorescence). In fact, a protein or other component can be "labelled" with an extrinsic fluorophore, a fluorescent dye that can be a small molecule, protein, or quantum dot, finding a large use in many biological applications.[74]
 
 The quantification of a dye is done with a spectrofluorometer and finds additional applications in:
 

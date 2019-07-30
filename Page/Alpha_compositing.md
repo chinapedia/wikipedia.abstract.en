@@ -1,5 +1,3 @@
-Hue_alpha_falloff.png
-
 In computer graphics, ALPHA COMPOSITING is the process of combining an image with a background to create the appearance of partial or full transparency. It is often useful to render image elements in separate passes, and then combine the resulting multiple 2D images into a single, final image called the composite. For example, compositing is used extensively when combining computer-rendered image elements with live footage.
 
 In order to combine these image elements correctly, it is necessary to keep an associated _matte_ for each element. This matte contains the coverage information—the shape of the geometry being drawn—making it possible to distinguish between parts of the image where the geometry was actually drawn and other parts of the image that are empty.
@@ -26,8 +24,6 @@ Ordinary interpolation without premultiplied alpha leads to RGB information leak
 Premultiplication can reduce the available relative precision in the RGB values when using integer or fixed-point representation for the color components, which may cause a noticeable loss of quality if the color information is later brightened or if the alpha channel is removed. In practice, this is not usually noticeable because during typical composition operations, such as OVER, the influence of the low-precision colour information in low-alpha areas on the final output image (after composition) is correspondingly reduced. This loss of precision also makes premultiplied images easier to compress using certain compression schemes, as they do not record the color variations hidden inside transparent regions, and can allocate fewer bits to encode low-alpha areas.
 
 With the existence of an alpha channel, it is possible to express compositing image operations using a _compositing algebra_. For example, given two image elements A and B, the most common compositing operation is to combine the images such that A appears in the foreground and B appears in the background. This can be expressed as A OVER B. In addition to OVER, Porter and Duff defined the compositing operators IN, HELD OUT BY (usually abbreviated OUT), ATOP, and XOR (and the reverse operators ROVER, RIN, ROUT, and RATOP) from a consideration of choices in blending the colors of two pixels when their coverage is, conceptually, overlaid orthogonally:
-
-Image:Alpha compositing.svg
 
 The OVER operator is, in effect, the normal painting operation (see Painter's algorithm). The IN operator is the alpha compositing equivalent of clipping.
 
@@ -135,10 +131,6 @@ A similar effect can be achieved with a 1-bit alpha channel, as found in the 16-
 
 
 Composing alpha blending with gamma correction
-
-Mix_lazy.png
-
-Mix_precise.png
 
 The RGB values stored in computer images are actually not the real light intensities, but they have been transformed by a Gamma correction, in order to optimize the usage of bits when encoding an image.
 

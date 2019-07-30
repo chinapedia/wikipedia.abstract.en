@@ -16,8 +16,6 @@ Edward's forces met little resistance, sacking numerous settlements, until they 
 
 Battle
 
-Battle-poitiers(1356).jpg
-
 Preparations
 
 Edward arrayed his army in a defensive posture among the hedges and orchards of the area, in front of the forest of Nouaillé. He deployed his front line of longbowmen behind a particularly prominent thick hedge, through which the road ran at right angles. The Earl of Douglas, commanding the Scottish division in the French army, advised King John that the attack should be delivered on foot, with horses being particularly vulnerable to English arrows. John heeded this advice, his army leaving its baggage behind and forming up on foot in front of the English. The English gained vantage points on the natural high ground in order for their longbowmen to have an advantage on the heavily armored French troops.
@@ -44,15 +42,11 @@ Prior to the battle, the local prelate, Cardinal Hélie de Talleyrand-Périgord 
 
 Fighting begins
 
-Battle_of_Poitiers_1356_map-en.svg
-
 At the start of the battle, the English removed their baggage train from the field, prompting a hasty French assault, believing that what they saw was the English retreating.[15] The fighting began with a charge by a forlorn hope of 300 German knights, led by Jean de Clermont. The attack was a disaster, with many of the knights shot down or killed by English soldiery. According to Froissart, the English archers then shot their bows at the massed French infantry.[16] The Dauphin's division reached the English line. Exhausted by a long march in heavy equipment and harassed by the hail of arrows, the division was repulsed after approximately two hours of combat.[17]
 
 The retreating vanguard collided with the advancing division of the Duke of Orléans, throwing the French army into chaos. Seeing the Dauphin's troops falling back, Orléans' division fell back in confusion. The third, and strongest, division led by the King advanced forth, and the two withdrawing divisions coalesced and resumed their advance against the English. Believing that the retreat of the first two French divisions marked the withdrawal of the French, Edward had ordered a force under Captal de Buch to pursue. Sir John Chandos urged the Prince to launch this force upon the main body of the French army under the King. Seizing upon this idea, Edward ordered all his men-at-arms and knights to mount for the charge, while de Buch's men, already mounted, were instructed to advance around the French left flank and rear. [18]
 
 Capture of King John II
-
-Capture_de_Jean_le_Bon.jpg
 
 As the French advanced, the English launched their charge. Stunned by the attack, the impetus carried the English and Gascon forces right into the French line. Simultaneously, de Buch's mobile reserve of mounted troops fell upon the French left flank and rear. Fearful of encirclement, the cohesion of the French army disintegrated as many soldiers attempted to flee the field. Low on arrows, the English and Welsh archers abandoned their bows and ran forward to join the melée. Around this time, King John and his son, Philip the Bold, found themselves surrounded. As written by Froissart, an exiled French knight fighting with the English, Sir Denis Morbeke of Artois approached the king, requesting the King's surrender. The King is said to have replied, "To whom shall I yield me? Where is my cousin the Prince of Wales? If I might see him, I would speak with him". Denis replied; "Sir, he is not here; but yield you to me and I shall bring you to him". The king handed him his right gauntlet, saying; "I yield me to you".[19]
 

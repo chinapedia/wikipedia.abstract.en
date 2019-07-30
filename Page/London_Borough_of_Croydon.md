@@ -32,7 +32,7 @@ There have also been exhibitions for regional districts of Croydon, including Wa
 
 Governance
 
-Croydon_ward_map.PNG Croydon_Constituencies.PNG, Croydon Central and Croydon South]]
+, Croydon Central and Croydon South]]
 
 [27]
 
@@ -72,7 +72,7 @@ The Mayor of Croydon for 2010-11 was Councillor Avril Slipper. The Leader is Cll
 
 Government buildings
 
-Croydon_clocktower.jpg Croydon Town Hall on Katharine Street in Central Croydon houses the committee rooms, the mayor's and other councillors' offices, electoral services and the arts and heritage services. The present Town Hall is Croydon's third. The first town hall is thought to have been built in either 1566 or 1609.[31] The second was built in 1808 to serve the growing town but was demolished after the present town hall was erected in 1895.
+Croydon Town Hall on Katharine Street in Central Croydon houses the committee rooms, the mayor's and other councillors' offices, electoral services and the arts and heritage services. The present Town Hall is Croydon's third. The first town hall is thought to have been built in either 1566 or 1609.[31] The second was built in 1808 to serve the growing town but was demolished after the present town hall was erected in 1895.
 
 The 1808 building cost £8,000, which was regarded as an enormous sum for those days and was perhaps as controversial as the administrative building Bernard Weatherill House opened for occupation in 2013 and reputed to have cost £220,000,000. The early 19th century building was known initially as "Courthouse" as, like its predecessor and successor, the local court met there. The building stood on the western side of the High Street near to the junction with Surrey Street, the location of the town's market. The building became inadequate for the growing local administrative responsibilities and stood at a narrow point of a High Street in need of widening.
 
@@ -82,9 +82,9 @@ The Borough's incorporation in 1883 and a desire to improve central Croydon with
 
 Parts, including the former court rooms, have been converted into the Museum of Croydon and exhibition galleries. The original public library was converted into the David Lean Cinema, part of the Croydon Clocktower. The Braithwaite Hall is used for events and performances. The town hall was renovated in the mid-1990s and the imposing central staircase, long closed to the public and kept for councillors only, was re-opened in 1994. The civic complex, meanwhile, was substantially added to, with buildings across Mint Walk and the 19-floor Taberner House to house the rapidly expanding corporation's employees.
 
-CroydonTabHouse.jpg until September 2013]] Ruskin House is the headquarters of Croydon's Labour, Trade Union and Co-operative movements and is itself a co-operative with shareholders from organisations across the three movements. In the 19th century, Croydon was a bustling commercial centre of London. It was said that, at the turn of the 20th century, approximately £10,000 was spent in Croydon's taverns and inns every week. For the early labour movement, then, it was natural to meet in the town's public houses, in this environment. However, the temperance movement was equally strong, and Georgina King Lewis, a keen member of the Croydon United Temperance Council, took it upon herself to establish a dry centre for the labour movement. The first Ruskin House was highly successful, and there has been two more since.[33] The current house was officially opened in 1967 by the then Labour Prime Minister, Harold Wilson. Today, Ruskin House continues to serve as the headquarters of the Trade Union, Labour and Co-operative movements in Croydon, hosting a range of meetings and being the base for several labour movement groups. Office tenants include the headquarters of the Communist Party of Britain and Croydon Labour Party. Geraint Davies, the MP for Croydon Central, had offices in the building, until he was defeated by Andrew Pelling and is now the Labour representative standing for Swansea West in Wales.
+until September 2013]] Ruskin House is the headquarters of Croydon's Labour, Trade Union and Co-operative movements and is itself a co-operative with shareholders from organisations across the three movements. In the 19th century, Croydon was a bustling commercial centre of London. It was said that, at the turn of the 20th century, approximately £10,000 was spent in Croydon's taverns and inns every week. For the early labour movement, then, it was natural to meet in the town's public houses, in this environment. However, the temperance movement was equally strong, and Georgina King Lewis, a keen member of the Croydon United Temperance Council, took it upon herself to establish a dry centre for the labour movement. The first Ruskin House was highly successful, and there has been two more since.[33] The current house was officially opened in 1967 by the then Labour Prime Minister, Harold Wilson. Today, Ruskin House continues to serve as the headquarters of the Trade Union, Labour and Co-operative movements in Croydon, hosting a range of meetings and being the base for several labour movement groups. Office tenants include the headquarters of the Communist Party of Britain and Croydon Labour Party. Geraint Davies, the MP for Croydon Central, had offices in the building, until he was defeated by Andrew Pelling and is now the Labour representative standing for Swansea West in Wales.
 
-Croydon_Council.JPG Taberner House was built between 1964 and 1967, designed by architect H. Thornley, with Allan Holt and Hugh Lea as borough engineers. Although the council had needed extra space since the 1920s, it was only with the imminent creation of the London Borough of Croydon that action was taken. The building, being demolished in 2014, was in classic 1960s style, praised at the time but subsequently much derided. It has its elegant upper slab block narrowing towards both ends, a formal device which has been compared to the famous Pirelli Tower in Milan. It was named after Ernest Taberner OBE, Town Clerk from 1937 to 1963.[34] Until September 2013, Taberner House housed most of the council's central employees and was the main location for the public to access information and services, particularly with respect to housing.
+Taberner House was built between 1964 and 1967, designed by architect H. Thornley, with Allan Holt and Hugh Lea as borough engineers. Although the council had needed extra space since the 1920s, it was only with the imminent creation of the London Borough of Croydon that action was taken. The building, being demolished in 2014, was in classic 1960s style, praised at the time but subsequently much derided. It has its elegant upper slab block narrowing towards both ends, a formal device which has been compared to the famous Pirelli Tower in Milan. It was named after Ernest Taberner OBE, Town Clerk from 1937 to 1963.[34] Until September 2013, Taberner House housed most of the council's central employees and was the main location for the public to access information and services, particularly with respect to housing.
 
 In September 2013, Council staff moved into Bernard Weatherill House in Fell Road, (named after the former Speaker of the House and Member of Parliament for Croydon North-East). Staff from the Met Police, NHS, Jobcentre Plus, Croydon Credit Union, Citizens Advice Bureau as well as 75 services from the council all moved to the new building.
 
@@ -95,7 +95,7 @@ The borough is in the far south of London, with the M25 orbital motorway stretch
 
 Townscape description
 
-CroydonNorthEnd.jpg shopping street photographed in 2005, after pedestrianisation]]
+shopping street photographed in 2005, after pedestrianisation]]
 
 The CR postcode area covers most of the south and centre of the borough while the SE and SW postcodes cover the northern parts, including Crystal Palace, Upper Norwood, South Norwood, Selhurst (part), Thornton Heath (part), Norbury and Pollards Hill (part).
 
@@ -175,7 +175,7 @@ Landmarks
 
 There are a large number of attractions and places of interest all across the borough of Croydon, ranging from historic sites in the north and south to modern towers in the centre.
 
-Shirley_Windmill.jpg]] Croydon Airport was once London's main airport, but closed on 30 September 1959 due to the expansion of London and the need of more room at the airport which was impossible to provide, so Heathrow International Airport took over as London's main airport. It Has now been mostly converted to offices, although some important elements of the airport remain. It is a tourist attraction.[86]
+]] Croydon Airport was once London's main airport, but closed on 30 September 1959 due to the expansion of London and the need of more room at the airport which was impossible to provide, so Heathrow International Airport took over as London's main airport. It Has now been mostly converted to offices, although some important elements of the airport remain. It is a tourist attraction.[86]
 
 The Croydon Clocktower arts venue was opened by Elizabeth II in 1994.[87] It includes the Braithwaite Hall (the former reference library - named after the Rev. Braithwaite who donated it to the town) for live events, David Lean Cinema (built in memory of David Lean), the Museum of Croydon and Croydon Central Library. The Museum of Croydon (formerly known as Croydon Lifetimes Museum) highlights Croydon in the past and the present and currently features high-profile exhibitions including the Riesco Collection, The Art of Dr Seuss and the Whatever the Weather gallery.[88] Shirley Windmill is a working windmill and one of the few surviving large windmills in Surrey, built in 1854. It is Grade II listed and received a £218,100 grant from the Heritage Lottery Fund.[89] Addington Palace is an 18th-century mansion in Addington which was originally built as Addington Place in the 16th century. The palace became the official second residence of six archbishops, five of whom are buried in St Mary's Church and churchyard nearby.[90]
 
@@ -194,7 +194,7 @@ Transport
 
 Rail
 
-East_Croydon_Railway_Station_-_England_-_Station_Frontage_-_Evening_-_270404.jpg]] East Croydon and West Croydon are the main stations in the borough.
+]] East Croydon and West Croydon are the main stations in the borough.
 
 East Croydon is served by Govia Thameslink Railway, operating under the Southern and Thameslink brands. Services travel via the Brighton Main Line north to London Victoria, London Bridge, London St Pancras, Luton Airport, Bedford, Cambridge, Peterborough and Milton Keynes, and south to Gatwick Airport, Ore, Brighton, Littlehampton, Bognor Regis, Southampton and Portsmouth.[97] East Croydon is the largest and busiest station in Croydon and the third busiest in London, excluding Travelcard Zone 1.
 
@@ -206,13 +206,13 @@ Croydon is one of only five London Boroughs not to have at least one London Unde
 
 Bus
 
-London_buses_of_Arriva,_London_General_and_Metrobus_in_West_Croydon_Bus_Station,_London_27_June_2007.jpg in June 2007]] A sizeable bus infrastructure which is part of the London Buses network operates from a hub at West Croydon bus station.[101] The original bus station opened in May 1985, closing in October 2014. A new bus station opened in October 2016.[102]
+in June 2007]] A sizeable bus infrastructure which is part of the London Buses network operates from a hub at West Croydon bus station.[101] The original bus station opened in May 1985, closing in October 2014. A new bus station opened in October 2016.[102]
 
 Addington Village Interchange is a regional bus terminal in Addington Village which has an interchange between Tramlink and bus services in the remote area. Services are operated under contract by Abellio London, Arriva London, London Central, Metrobus, Quality Line and Selkent. {{-}}
 
 Tram
 
-Wellesley_Road_Tram_Stop_-_geograph.org.uk_-_1201669.jpg]] The Tramlink light rail system opened in 2000, serving the borough and surrounding areas. Its network consists of three lines, from Elmers End to West Croydon, from Beckenham to West Croydon, and from New Addington to Wimbledon, with all three lines running via the Croydon loop on which it is centred.[103] It is also the only tram system in London but there is another light rail system, the Docklands Light Railway. It serves Mitcham, Woodside, Addiscombe and the Purley Way retail and industrial area amongst others.
+]] The Tramlink light rail system opened in 2000, serving the borough and surrounding areas. Its network consists of three lines, from Elmers End to West Croydon, from Beckenham to West Croydon, and from New Addington to Wimbledon, with all three lines running via the Croydon loop on which it is centred.[103] It is also the only tram system in London but there is another light rail system, the Docklands Light Railway. It serves Mitcham, Woodside, Addiscombe and the Purley Way retail and industrial area amongst others.
 
 Road
 
@@ -235,7 +235,7 @@ In March 2011, the main forms of transport that residents used to travel to work
 
 Public services
 
-Cane_Hill_Asylum.jpg]] Home Office policing in Croydon is provided by the Metropolitan Police. The force's Croydon arm have their head offices for policing on Park Lane next to the Fairfield Halls and Croydon College in central Croydon. Public transport is co-ordinated by Transport for London. Statutory emergency fire and rescue service is provided by the London Fire Brigade, which has five stations in Croydon.[107]
+]] Home Office policing in Croydon is provided by the Metropolitan Police. The force's Croydon arm have their head offices for policing on Park Lane next to the Fairfield Halls and Croydon College in central Croydon. Public transport is co-ordinated by Transport for London. Statutory emergency fire and rescue service is provided by the London Fire Brigade, which has five stations in Croydon.[107]
 
 Health services
 
@@ -255,7 +255,7 @@ The fire stations, as part of the Community Fire Safety scheme, visited 49 schoo
 
 Education
 
-Croydon_College.JPG The borough compared with the other London boroughs has the highest number of schools in it, with 26% of its population under 20 years old.[119] They include primary schools (95), secondary schools (21) and four further education establishments.[120] Croydon College has its main building in Central Croydon, it is a high rise building.[121] John Ruskin College[122] is one of the other colleges in the borough, located in Addington and Coulsdon College[123] in Coulsdon. South Norwood has been the home of Spurgeon's College, a world-famous Baptist theological college, since 1923; Spurgeon's is located on South Norwood Hill and currently has some 1000 students. The London Borough of Croydon is the local education authority for the borough.[124]
+The borough compared with the other London boroughs has the highest number of schools in it, with 26% of its population under 20 years old.[119] They include primary schools (95), secondary schools (21) and four further education establishments.[120] Croydon College has its main building in Central Croydon, it is a high rise building.[121] John Ruskin College[122] is one of the other colleges in the borough, located in Addington and Coulsdon College[123] in Coulsdon. South Norwood has been the home of Spurgeon's College, a world-famous Baptist theological college, since 1923; Spurgeon's is located on South Norwood Hill and currently has some 1000 students. The London Borough of Croydon is the local education authority for the borough.[124]
 
 Overall, Croydon was ranked 77th out of the all the local education authorities in the UK, up from 92nd in 2007.[125] In 2007, the Croydon LEA was ranked 81st out of 149 in the country – and 21st in Greater London – based on the percentage of pupils attaining at least 5 A*–C grades at GCSE including maths and English (37.8% compared with the national average of 46.7%).[126] The most successful public sector schools in 2010 were Harris City Academy Crystal Palace and Coloma Convent Girls' School.[127] The percentage of pupils achieving 5 A*-C GCSEs including maths and English was above the national average in 2010.[128]
 
@@ -292,7 +292,7 @@ Sport and leisure
 
 The borough has been criticised in the past for not having enough leisure facilities, maintaining the position of Croydon as a three star borough.[134] Thornton Heath's ageing sports centre has been demolished and replaced by a newer more modern leisure centre. South Norwood Leisure Centre was closed down in 2006 so that it could be demolished and re-designed from scratch like Thornton Heath, at an estimated cost of around £10 million.[135]
 
-Countrypark2.jpg In May 2006 the Conservative Party took control of Croydon Council and decided a refurbishment would be more economical than rebuilding, this decision caused some controversy.[136][137]
+In May 2006 the Conservative Party took control of Croydon Council and decided a refurbishment would be more economical than rebuilding, this decision caused some controversy.[136][137]
 
 Sport Croydon,[138] is the commercial arm for leisure in the borough. Fusion currently provides leisure services for the council, a contract previously held by Parkwood Leisure.[139]
 
@@ -307,7 +307,7 @@ Croydon has over 120 parks and open spaces,[141] ranging from the Selsdon Wood N
 
 Culture
 
-Fairfield Halls in Central Croydon is the main entertainment venue in the borough Croydon has cut funding to the Warehouse Theatre.[142]
+Croydon has cut funding to the Warehouse Theatre.[142]
 
 In 2005, Croydon Council drew up a _Public Art Strategy_, with a vision intended to be accessible and to enhance people's enjoyment of their surroundings.[143] The public art strategy delivered a new event called _Croydon's Summer Festival_ hosted in Lloyd Park.[144] The festival consists of two days of events.[145] The first is called _Croydon's World Party_ which is a free one-day event with three stages featuring world, jazz and dance music from the UK and internationally. The final days event is the _Croydon Mela_, a day of music with a mix of traditional Asian culture and east-meets-western club beats across four stages as well as dozens of food stalls and a funfair. It has attracted crowds of over 50,000 people.[146] The strategy also created a creative industries hub in Old Town, ensured that public art is included in developments such as College Green and Ruskin Square and investigated the possibility of gallery space in the Cultural Quarter.
 

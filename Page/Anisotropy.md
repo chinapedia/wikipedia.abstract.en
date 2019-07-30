@@ -1,4 +1,4 @@
-WMAP_2010.png image of the (extremely tiny) anisotropies in the cosmic background radiation]] ANISOTROPY () is the property of being directionally dependent, which implies different properties in different directions, as opposed to isotropy. It can be defined as a difference, when measured along different axes, in a material's physical or mechanical properties (absorbance, refractive index, conductivity, tensile strength, etc.)
+image of the (extremely tiny) anisotropies in the cosmic background radiation]] ANISOTROPY () is the property of being directionally dependent, which implies different properties in different directions, as opposed to isotropy. It can be defined as a difference, when measured along different axes, in a material's physical or mechanical properties (absorbance, refractive index, conductivity, tensile strength, etc.)
 
 An example of anisotropy is light coming through a polarizer. Another is wood, which is easier to split along its grain than across it.
 
@@ -25,7 +25,7 @@ Images of a gravity-bound or man-made environment are particularly anisotropic i
 
 Physics
 
-Plasma-lamp_2.jpg displaying the nature of plasmas, in this case, the phenomenon of "filamentation"]]
+displaying the nature of plasmas, in this case, the phenomenon of "filamentation"]]
 
 Physicists from University of California, Berkeley reported about their detection of the cosine anisotropy in cosmic microwave background radiation in 1977. Their experiment demonstrated the Doppler shift caused by the movement of the earth with respect to the early Universe matter, the source of the radiation.[1] Cosmic anisotropy has also been seen in the alignment of galaxies' rotation axes and polarisation angles of quasars.
 

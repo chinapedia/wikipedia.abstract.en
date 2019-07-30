@@ -7,7 +7,7 @@ The growing popularity of bouldering has caused several environmental concerns, 
 
 Outdoor bouldering
 
-The_Cliffs_at_DUMBO.jpg.[4][5]]] The characteristics of boulder problems depend largely on the type of rock being climbed. For example, granite often features long cracks and slabs while sandstone rocks are known for their steep overhangs and frequent horizontal breaks. Limestone and volcanic rock are also used for bouldering.[6]
+.[4][5]]] The characteristics of boulder problems depend largely on the type of rock being climbed. For example, granite often features long cracks and slabs while sandstone rocks are known for their steep overhangs and frequent horizontal breaks. Limestone and volcanic rock are also used for bouldering.[6]
 
 There are many prominent bouldering areas throughout the United States, including Hueco Tanks in Texas, Mount Evans in Colorado, and The Buttermilks in Bishop, California. Squamish, British Columbia is one of the most popular bouldering areas in Canada.[7] Europe also hosts a number of bouldering sites, such as Fontainebleau in France, Albarracín in Spain, and various mountains throughout Switzerland.[8] Africa's most prominent bouldering areas are the more established Rocklands in South Africa and the new kid on the block Oukaimeden in Morocco or recently opened areas like Chimanimani in Zimbabwe.
 
@@ -29,7 +29,7 @@ _The Process_, a 55-foot V16 in Bishop, California, first climbed by Daniel Wood
 
 Indoor bouldering
 
-ボルダリング_(7955003588).jpg Artificial climbing walls are used to simulate boulder problems in an indoor environment, usually at climbing gyms. These walls are constructed with wooden panels, polymer cement panels, concrete shells, or precast molds of actual rock walls.[15] Holds, usually made of plastic, are then bolted onto the wall to create problems.[16] The walls often feature steep overhanging surfaces which force the climber to employ highly technical movements while supporting much of their weight with their upper body strength.[17]
+Artificial climbing walls are used to simulate boulder problems in an indoor environment, usually at climbing gyms. These walls are constructed with wooden panels, polymer cement panels, concrete shells, or precast molds of actual rock walls.[15] Holds, usually made of plastic, are then bolted onto the wall to create problems.[16] The walls often feature steep overhanging surfaces which force the climber to employ highly technical movements while supporting much of their weight with their upper body strength.[17]
 
 Climbing gyms often feature multiple problems within the same section of wall. In the US the most common method Routesetters use to designate the intended problem is by placing colored tape next to each hold. For example, red tape would indicate one bouldering problem while green tape would be used to set a different problem in the same area.[18] Across much of the rest of the world problems and grades are usually designated using a set color of plastic hold to indicate problems. For example, green may be v0–v1, blue may be v2–v3 and so on. Using colored holds to set has certain advantages, the most notable of which are that it makes it more obvious where the holds for a problem are, and that there is no chance of tape being accidentally kicked off footholds. Smaller, resource-poor climbing gyms may prefer taped problems because large, expensive holds can be used in multiple routes by marking them with more than one color of tape.
 
@@ -37,7 +37,7 @@ Competitions
 
 The International Federation of Sport Climbing (IFSC) employs an indoor format (although competitions can also take place in an outdoor setting[19]) that breaks the competition into three rounds: qualifications, semi-finals, and finals. The rounds feature different sets of four or five boulder problems, and each competitor has a fixed amount of time to attempt each problem. At the end of each round, competitors are ranked by the number of completed problems with ties settled by the total number of attempts taken to solve the problems.[20]
 
-Some competitions only permit climbers a fixed number of attempts at each problem with a timed rest period in between. [21] In an open-format competition, all climbers compete simultaneously, and are given a fixed amount of time to complete as many problems as possible. More points are awarded for more difficult problems, while points are deducted for multiple attempts on the same problem.[22] Hueco_Tanks_-_Baby_Martini_-_V6.webm: _Baby Martini_ (V6)]] BW_2012-08-26_Dorothea_Karalus_GER_0541.JPG
+Some competitions only permit climbers a fixed number of attempts at each problem with a timed rest period in between. [21] In an open-format competition, all climbers compete simultaneously, and are given a fixed amount of time to complete as many problems as possible. More points are awarded for more difficult problems, while points are deducted for multiple attempts on the same problem.[22] : _Baby Martini_ (V6)]]
 
 In 2012, the IFSC submitted a proposal to the International Olympic Committee (IOC) to include lead climbing in the 2020 Summer Olympics. The proposal was later revised to an "overall" competition, which would feature bouldering, lead climbing, and speed climbing.[23] In May 2013, the IOC announced that climbing would not be added to the 2020 Olympic program.[24]
 
@@ -60,7 +60,7 @@ In the 1980s, two important training tools emerged. One important training tool 
 
 As the sport grew in popularity, new bouldering areas were developed throughout Europe and the United States, and more athletes began participating in bouldering competitions. The visibility of the sport greatly increased in the early 2000s, as YouTube videos and climbing blogs helped boulderers around the world to quickly learn techniques, find hard problems, and announce newly completed projects.[33]
 
-Christian_Core_on_Gioia.jpg on _Gioia_ (Varazze, ITA), first boulder in history, 2008]] Midnight_Lightning_yosemite.jpg (Yosemite National Park, USA), one of the world's most famous bouldering problems]]
+on _Gioia_ (Varazze, ITA), first boulder in history, 2008]] (Yosemite National Park, USA), one of the world's most famous bouldering problems]]
 
 Notable ascents
 
@@ -87,7 +87,7 @@ Equipment
 
 Unlike other climbing sports, bouldering can be performed safely and effectively with very little equipment, an aspect which makes the discipline highly appealing, but opinions differ.[45] While bouldering pioneer John Sherman asserted that "The only gear really needed to go bouldering is boulders", others suggest the use of climbing shoes and a chalkbag – a small pouch where ground-up chalk is kept – as the bare minimum, and more experienced boulderers typically bring multiple pairs of climbing shoes, chalk, brushes, crash pads, and a skincare kit.[46] [47][48]
 
-Quechua_climbing_shoes.jpg ]]
+]]
 
 Climbing shoes have the most direct impact on performance. Besides protecting the climber's feet from rough surfaces, climbing shoes are designed to help the climber secure footholds. Climbing shoes typically fit much tighter than other athletic footwear and often curl the toes downwards to enable precise footwork. They are manufactured in a variety of different styles to perform in different situations. For example, High-top shoes provide better protection for the ankle, while low-top shoes provide greater flexibility and freedom of movement. Stiffer shoes excel at securing small edges, whereas softer shoes provide greater sensitivity. The front of the shoe, called the "toe box", can be asymmetric, which performs well on overhanging rocks, or symmetric, which is better suited for vertical problems and slabs.[49] [50] [51]
 
@@ -96,7 +96,7 @@ To absorb sweat, most boulderers use gymnastics chalk on their hands, stored in 
 
 Safety
 
-Joshue_Tree_National_Park_-_Manx_Boulder_-_6.jpg Boulder problems are generally shorter than from ground to top.[55] This makes the sport significantly safer than free solo climbing, which is also performed without ropes, but with no upper limit on the height of the climb.[56] However, minor injuries are common in bouldering, particularly sprained ankles and wrists. Two factors contribute to the frequency of injuries in bouldering: first, boulder problems typically feature more difficult moves than other climbing disciplines, making falls more common. Second, without ropes to arrest the climber's descent, every fall will cause the climber to hit the ground.[57]
+Boulder problems are generally shorter than from ground to top.[55] This makes the sport significantly safer than free solo climbing, which is also performed without ropes, but with no upper limit on the height of the climb.[56] However, minor injuries are common in bouldering, particularly sprained ankles and wrists. Two factors contribute to the frequency of injuries in bouldering: first, boulder problems typically feature more difficult moves than other climbing disciplines, making falls more common. Second, without ropes to arrest the climber's descent, every fall will cause the climber to hit the ground.[57]
 
 To prevent injuries, boulderers position crash pads near the boulder to provide a softer landing, as well as one or more spotters (people watching out for the climber to fall in convenient position) to help redirect the climber towards the pads.[58] Upon landing, boulderers employ falling techniques similar to those used in gymnastics: spreading the impact across the entire body to avoid bone fractures, and positioning limbs to allow joints to move freely throughout the impact.[59]
 
@@ -109,8 +109,6 @@ Bouldering movements are described as either "static" or "dynamic". Static movem
 
 
 Grading
-
-Indoor_Bouldering_V3_Rock_Spot.webm
 
 Bouldering problems are assigned numerical difficulty ratings by routesetters and climbers. The two most widely used rating systems are the V-scale and the Fontainebleau system.[63]
 

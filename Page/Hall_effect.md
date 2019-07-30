@@ -14,7 +14,7 @@ The Hall effect is due to the nature of the current in a conductor. Current cons
 
 In classical electromagnetism electrons move in the opposite direction of the current (by convention "current" describes a theoretical "hole flow"). In some semiconductors it _appears_ "holes" are actually flowing because the direction of the voltage is opposite to the derivation below.
 
-Hall_Effect_Measurement_Setup_for_Electrons.png Hall_Sensor.webm For a simple metal where there is only one type of charge carrier (electrons), the Hall voltage can be derived by using the Lorentz force and seeing that, in the steady-state condition, charges are not moving in the -axis direction. Thus, the magnetic force on each electron in the -axis direction is cancelled by a -axis electrical force due to the buildup of charges. The term is the drift velocity of the current which is assumed at this point to be holes by convention. The term is negative in the -axis direction by the right hand rule.
+For a simple metal where there is only one type of charge carrier (electrons), the Hall voltage can be derived by using the Lorentz force and seeing that, in the steady-state condition, charges are not moving in the -axis direction. Thus, the magnetic force on each electron in the -axis direction is cancelled by a -axis electrical force due to the buildup of charges. The term is the drift velocity of the current which is assumed at this point to be holes by convention. The term is negative in the -axis direction by the right hand rule.
 
 F = _q_(E + V × B)
 
@@ -110,7 +110,7 @@ Hall effect devices produce a very low signal level and thus require amplificati
 
 Advantages over other methods
 
-Hall effect devices (when appropriately packaged) are immune to dust, dirt, mud, and water. These characteristics make Hall effect devices better for position sensing than alternative means such as optical and electromechanical sensing. HallEffCurrentSense.jpg When electrons flow through a conductor, a magnetic field is produced. Thus, it is possible to create a non-contacting current sensor. The device has three terminals. A sensor voltage is applied across two terminals and the third provides a voltage proportional to the current being sensed. This has several advantages; no additional resistance (a _shunt_, required for the most common current sensing method) need to be inserted in the primary circuit. Also, the voltage present on the line to be sensed is not transmitted to the sensor, which enhances the safety of measuring equipment.
+Hall effect devices (when appropriately packaged) are immune to dust, dirt, mud, and water. These characteristics make Hall effect devices better for position sensing than alternative means such as optical and electromechanical sensing. When electrons flow through a conductor, a magnetic field is produced. Thus, it is possible to create a non-contacting current sensor. The device has three terminals. A sensor voltage is applied across two terminals and the third provides a voltage proportional to the current being sensed. This has several advantages; no additional resistance (a _shunt_, required for the most common current sensing method) need to be inserted in the primary circuit. Also, the voltage present on the line to be sensed is not transmitted to the sensor, which enhances the safety of measuring equipment.
 
 Disadvantages compared with other methods
 
@@ -124,13 +124,9 @@ Hall effect sensors are readily available from a number of different manufacture
 
 Ferrite toroid Hall effect current transducer
 
-RAZC-GENARRv1.jpg
-
 Hall sensors can detect stray magnetic fields easily, including that of Earth, so they work well as electronic compasses: but this also means that such stray fields can hinder accurate measurements of small magnetic fields. To solve this problem, Hall sensors are often integrated with magnetic shielding of some kind. For example, a Hall sensor integrated into a ferrite ring (as shown) can reduce the detection of stray fields by a factor of 100 or better (as the external magnetic fields cancel across the ring, giving no residual magnetic flux). This configuration also provides an improvement in signal-to-noise ratio and drift effects of over 20 times that of a bare Hall device.
 
 The range of a given feedthrough sensor may be extended upward and downward by appropriate wiring. To extend the range to lower currents, multiple turns of the current-carrying wire may be made through the opening, each turn adding to the sensor output the same quantity; when the sensor is installed onto a printed circuit board, the turns can be carried out by a staple on the board. To extend the range to higher currents, a current divider may be used. The divider splits the current across two wires of differing widths and the thinner wire, carrying a smaller proportion of the total current, passes through the sensor.
-
-Ampere-Turnsv1.jpg
 
 Split ring clamp-on sensor
 
@@ -173,7 +169,7 @@ A Hall-effect thruster (HET) is a relatively low power device that is used to pr
 
 The Corbino effect
 
-Corbino_disc_by_Zureks.svg paths of deflected electrons]]
+paths of deflected electrons]]
 
 The Corbino effect is a phenomenon involving the Hall effect, but a disc-shaped metal sample is used in place of a rectangular one. Because of its shape the Corbino disc allows the observation of Hall effect–based magnetoresistance without the associated Hall voltage.
 

@@ -3,7 +3,7 @@ BUNDABERG RUM is a dark rum produced in Bundaberg, Australia, by the BUNDABERG D
 
 History
 
-Queensland_State_Archives_324_Bundaberg_Rum_Distillery_Burnett_River_Bundaberg_c_1931.png Bundaberg Rum originated because the local sugar mills had a problem with what to do with the waste molasses after the sugar was extracted (it was heavy, difficult to transport and the costs of converting it to stock feed were rarely worth the effort). Sugar men first began to think of the profits that could be made from distilling. The vital meeting was held at the Royal Hotel on 1 August 1885, W M C Hickson served as the chairman, and other notables in attendance included all the big sugar mill owners of that time, W G Farquhar, F L Nott, T Austin, S McDougall, T Penny, S H Bravo and A H Young, all to become the first directors of the Company. They started with a capital of ₤5,000.[2]
+Bundaberg Rum originated because the local sugar mills had a problem with what to do with the waste molasses after the sugar was extracted (it was heavy, difficult to transport and the costs of converting it to stock feed were rarely worth the effort). Sugar men first began to think of the profits that could be made from distilling. The vital meeting was held at the Royal Hotel on 1 August 1885, W M C Hickson served as the chairman, and other notables in attendance included all the big sugar mill owners of that time, W G Farquhar, F L Nott, T Austin, S McDougall, T Penny, S H Bravo and A H Young, all to become the first directors of the Company. They started with a capital of ₤5,000.[2]
 
 The Bundaberg Distilling Company began its operations in 1888.
 
@@ -11,7 +11,7 @@ Bundaberg rum was first produced in 1889, production ceased from 1907 to 1914 an
 
 Christsen Pty Ltd operated their own Bundaberg Rum bottling plant in Bourbong Street, Bundaberg at the rear of their large grocery and hardware business in the centre of town. The spirit was sold at UP and OP strength from their business. Spokesperson for the original family, Mr Rod Patch, recalls the origins of the shape of the current "Bundy Bottle". It originated from the Bushells Coffee Chicory bottle that Bundaberg residents sold to his grandfather at the firm for one penny a bottle, after which they were washed and filled with the spirit. The shape remains the same but the capacity has been increased to the current 700ml. Patch's great grandfather, Hans Truval Christsen, a Danish immigrant from Copenhagen and his son Frederick Christsen had an employment policy of employing staff from the Salvation Army faith in the rum bottling process as they were less likely to be tempted to sample the spirit. The Christsen family supported settlement farming families through hard times and these good deeds were acknowledged with the naming of Christsen Park at Bargara Beach.
 
-BundabergRumFactory.jpg In 1961, the company introduced the polar bear as its unusual choice of mascot, to imply that the rum could ward off the coldest chill.[4]
+In 1961, the company introduced the polar bear as its unusual choice of mascot, to imply that the rum could ward off the coldest chill.[4]
 
 In 2000, the Bundaberg Rum company and distillery were sold to British company Diageo.[5]
 
@@ -26,7 +26,7 @@ Later a Diageo spokeswoman clarified by saying "Some premium products, such as t
 
 Distillery
 
-Rum-4-Large.jpg The Bundaberg Rum distillery is open to visitors for tours of the facility. There is also a museum which offers free samples of Bundaberg Rum products for visitors in a historic Queenslander house. The BIG BUNDY BOTTLE is also outside of the bondstore. A new $8.5 million visitor centre opened to the public in August 2016 replacing the smaller historic house next door.[8] Bundaberg_Original_&_Cola.jpg
+The Bundaberg Rum distillery is open to visitors for tours of the facility. There is also a museum which offers free samples of Bundaberg Rum products for visitors in a historic Queenslander house. The BIG BUNDY BOTTLE is also outside of the bondstore. A new $8.5 million visitor centre opened to the public in August 2016 replacing the smaller historic house next door.[8]
 
 In 2009 as part of the Q150 celebrations, the Bundaberg Rum Distillery was announced as one of the Q150 Icons of Queensland for its role as a "location".[9]
 
@@ -57,7 +57,7 @@ Variant flavours
 
 Sponsorship
 
-Holden_VE_Commodore_of_Fabian_Coulthard_2011.jpg Holden Commodore VE of Fabian Coulthard at the 2011 Clipsal 500 Adelaide]] Bundaberg Rum is a major sponsor of the Australian Wallabies rugby union team and also sponsors the Bundaberg Rum Rugby Series. Bundaberg is also a sponsor of the NSW Waratahs.[30] Bundaberg Rum sponsored the rugby league ANZAC Test till 2009. Bundaberg Rum signed a 5-year deal with the NRL to be the official dark rum of the NRL. They are also the naming-rights sponsor of NRL Friday Night Football.
+Holden Commodore VE of Fabian Coulthard at the 2011 Clipsal 500 Adelaide]] Bundaberg Rum is a major sponsor of the Australian Wallabies rugby union team and also sponsors the Bundaberg Rum Rugby Series. Bundaberg is also a sponsor of the NSW Waratahs.[30] Bundaberg Rum sponsored the rugby league ANZAC Test till 2009. Bundaberg Rum signed a 5-year deal with the NRL to be the official dark rum of the NRL. They are also the naming-rights sponsor of NRL Friday Night Football.
 
 From 2009 until 2011, Bundaberg Rum sponsored V8 Supercar team Walkinshaw Racing.[31]
 

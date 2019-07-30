@@ -5,7 +5,7 @@ The franchise was first created in 1997 as a series of virtual pets, akin to—a
 
 Conception and creation
 
-Digimon_Mini.jpg,[1] that allowed the popularization of Digimon in Japan. It sold units in Japan and overseas, up until March 2004.[2]]]
+,[1] that allowed the popularization of Digimon in Japan. It sold units in Japan and overseas, up until March 2004.[2]]]
 
 In 1996, the Tamagotchi was released, created by Akihiro Yokoi, Aki Maita and Takeichi Hongo. The Tamagotchi was one of the inspirations for the first release of the Digimon franchise,[3][4] a device marketed in June 1997[5][6] with the name Digimon,[7] a short for _Digital Monster_.[8][9] Aiming at the male audience and created by Akiyoshi Hongo (a pseudonym that refers to the creators of _Tamagotchi_),[10] this device shows to players a virtual pet composed entirely of data and designed to play and fight.[11][12][13][14] In February 1998, the _DigiMon_ fighting game, compatible with Windows 95 and developed by Rapture Technologies, Inc., was announced.[15] The one-shot manga _C'mon Digimon_, designed by Tenya Yabuno, was published in the Japanese magazine V-Jump by Shueisha in 1997.[16][17]
 
@@ -98,7 +98,7 @@ The Italian publishing company, Panini, approached Digimon in different ways in 
 
 Video games
 
-DigimonWorld2Battle.JPG, and SkullGreymon. The opponent's Digimon are Ninjamon, Centarumon, and SandYanmamon. Battling is an integral concept of the _Digimon_ video game series and media franchise.]]
+, and SkullGreymon. The opponent's Digimon are Ninjamon, Centarumon, and SandYanmamon. Battling is an integral concept of the _Digimon_ video game series and media franchise.]]
 
 The Digimon series has a large number of video games which usually have their own independent storylines with a few sometimes tying into the stories of the anime series or manga series. The games consists of a number of genres including life simulation, adventure, video card game, strategy and racing games, though they are mainly action role-playing games.
 
@@ -106,7 +106,7 @@ In late 2009, Bandai created a webpage in Japanese showing a new game to be rele
 
 On September 22, 2011, online game publisher Joymax announced the release of an MMORPG game called _Digimon Masters_, which was developed by the Korean publisher DIGITALIC.[53]
 
-Digimon_RPG_korea_booth.jpg'' booth in South Korea.|alt=Inside a large, brightly lit convention center room with white walls is positioned a promotional display booth for a video game. A saleswoman clad in a blue shirt and skirt and a red bowtie motions towards several illustrations on the booth, explaining their implications. The illustrations are anime-styled and depict several outlandish and brightly colored creatures. Three men in dark jackets watch the demonstration.]]
+'' booth in South Korea.|alt=Inside a large, brightly lit convention center room with white walls is positioned a promotional display booth for a video game. A saleswoman clad in a blue shirt and skirt and a red bowtie motions towards several illustrations on the booth, explaining their implications. The illustrations are anime-styled and depict several outlandish and brightly colored creatures. Three men in dark jackets watch the demonstration.]]
 
 In 2011, Bandai posted a countdown on a teaser site. Once the countdown was finished, it revealed a reboot of the Digimon World series titled _Digimon World Re:Digitize_.[54] An enhanced version of the game released on Nintendo 3DS as _Digimon World Re:Digitize Decode_ in 2013.[55]
 

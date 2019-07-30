@@ -31,8 +31,6 @@ The earliest sources do not use the term "West Saxon". According to Bede's _Eccl
 
 West Saxon expansion
 
-Ceawlin_map.png
-
 Ultimately, the kingdom of Wessex occupied the southwest of England, but the initial stages in this expansion are not apparent from the sources.[24] Cerdic's landing, whenever it is to be dated, seems to have been near the Isle of Wight, and the annals record the conquest of the island in 530. In 534, according to the _Chronicle_, Cerdic died and his son Cynric took the throne; the _Chronicle_ adds that "they gave the Isle of Wight to their nephews, Stuf and Wihtgar".[25] These records are in direct conflict with Bede, who states that the Isle of Wight was settled by Jutes, not Saxons; the archaeological record is somewhat in favour of Bede on this.[26][27]
 
 Subsequent entries in the _Chronicle_ give details of some of the battles by which the West Saxons won their kingdom. Ceawlin's campaigns are not given as near the coast. They range along the Thames valley and beyond, as far as Surrey in the east and the mouth of the Severn in the west. Ceawlin clearly is part of the West Saxon expansion, but the military history of the period is difficult to understand.[28] In what follows the dates are as given in the _Chronicle_, although, as noted above, these are earlier than now thought accurate.
@@ -73,8 +71,6 @@ The phrase "in anger he turned back to his own" probably indicates that this ann
 
 Bretwaldaship
 
-Entry_for_827_in_the_Anglo-Saxon_Chronicle,_which_lists_the_eight_bretwaldas.gif
-
 About 731, Bede, a Northumbrian monk and chronicler, wrote a work called the _Ecclesiastical History of the English People_. The work was not primarily a secular history, but Bede provides much information about the history of the Anglo-Saxons, including a list early in the history of seven kings who, he said, held "imperium" over the other kingdoms south of the Humber. The usual translation for "imperium" is "overlordship". Bede names Ceawlin as the second on the list, although he spells it "Caelin", and adds that he was "known in the speech of his own people as Ceaulin". Bede also makes it clear that Ceawlin was not a Christian—Bede mentions a later king, Æthelberht of Kent, as "the first to enter the kingdom of heaven".[46]
 
 The _Anglo-Saxon Chronicle,_ in an entry for the year 827, repeats Bede's list, adds Egbert of Wessex, and also mentions that they were known as "bretwalda", or "Britain-ruler".[47] A great deal of scholarly attention has been given to the meaning of this word. It has been described as a term "of encomiastic poetry",[48] but there also is evidence that it implied a definite role of military leadership.[49]
@@ -89,8 +85,6 @@ Ceawlin is the second king in Bede's list. All the subsequent bretwaldas followe
 
 
 Wessex at Ceawlin's death
-
-England_green_top.svg
 
 Ceawlin lost the throne of Wessex in 592. The annal for that year reads, in part: "Here there was great slaughter at Woden's Barrow, and Ceawlin was driven out." Woden's Barrow is a tumulus, now called Adam's Grave, at Alton Priors, Wiltshire.[61] No details of his opponent are given. The medieval chronicler William of Malmesbury, writing in about 1120, says that it was "the Angles and the British conspiring together".[62] Alternatively, it may have been Ceol, who is supposed to have been the next king of Wessex, ruling for six years according to the West Saxon Genealogical Regnal List.[63] According to the _Anglo-Saxon Chronicle_, Ceawlin died the following year. The relevant part of the annal reads: "Here Ceawlin and Cwichelm and Crida perished."[64] Nothing more is known of Cwichelm and Crida, although they may have been members of the Wessex royal house – their names fit the alliterative pattern common to royal houses of the time.[65][66]
 

@@ -1,4 +1,4 @@
-Bacillus_thuringiensis.jpg of _Bacillus thuringiensis_ under 1000 × magnification]]
+of _Bacillus thuringiensis_ under 1000 × magnification]]
 
 _BACILLUS THURINGIENSIS_ (or BT) is a Gram-positive, soil-dwelling bacterium, commonly used as a biological pesticide. _B. thuringiensis_ also occurs naturally in the gut of caterpillars of various types of moths and butterflies, as well on leaf surfaces, aquatic environments, animal feces, insect-rich environments, and flour mills and grain-storage facilities.[1][2] It has also been observed to parasitize other moths such as _Cadra calidella_—in laboratory experiments working with _C. calidella_, many of the moths were diseased due to this parasite.[3]
 
@@ -40,7 +40,7 @@ New strains of Bt are developed and introduced over time[44] as insects develop 
 
 Use of Bt genes in genetic engineering of plants for pest control
 
-The Belgian company Plant Genetic Systems (now part of Bayer CropScience) was the first company (in 1985) to develop genetically modified crops (tobacco) with insect tolerance by expressing _cry_ genes from _B. thuringiensis_; the resulting crops contain delta endotoxin.[54][55] The Bt tobacco was never commercialized; tobacco plants are used to test genetic modifications since they are easy to manipulate genetically and are not part of the food supply.[56][57] Bt_plants.png leaves (bottom dish) protect it from extensive damage caused to unprotected peanut leaves by lesser cornstalk borer larvae (top dish).[58]]]
+The Belgian company Plant Genetic Systems (now part of Bayer CropScience) was the first company (in 1985) to develop genetically modified crops (tobacco) with insect tolerance by expressing _cry_ genes from _B. thuringiensis_; the resulting crops contain delta endotoxin.[54][55] The Bt tobacco was never commercialized; tobacco plants are used to test genetic modifications since they are easy to manipulate genetically and are not part of the food supply.[56][57] leaves (bottom dish) protect it from extensive damage caused to unprotected peanut leaves by lesser cornstalk borer larvae (top dish).[58]]]
 
 Usage
 
@@ -56,7 +56,7 @@ In India, by 2014, more than seven million cotton farmers, occupying twenty-six 
 
 Monsanto developed a soybean expressing Cry1Ac and the glyphosate-resistance gene for the Brazilian market, which completed the Brazilian regulatory process in 2010.[67][68]
 
-Btcornafrica.jpg Bt corn]]
+Bt corn]]
 
 Safety studies
 
@@ -126,7 +126,7 @@ Some isolates of _B. thuringiensis_ produce a class of insecticidal small molecu
 
 See also
 
-Ovitrap-Ticino.jpg collects eggs from mosquitoes. The brown granules in the water are a _B. t. israelensis_ preparation that kills hatched larvae.]]
+collects eggs from mosquitoes. The brown granules in the water are a _B. t. israelensis_ preparation that kills hatched larvae.]]
 
 -   Biological insecticides
 -   Genetically modified food

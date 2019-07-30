@@ -1,5 +1,3 @@
-Latter-day_Saint_Scripture_Quadruple_Combination.jpg
-
 The STANDARD WORKS of The Church of Jesus Christ of Latter-day Saints (LDS Church) are the four books that currently constitute its open scriptural canon. (The scriptural canon is "open" due to the LDS belief in continuous revelation. Additions can be made to the scriptural canon with the "common consent" of the church's membership.[1]) The four books of the standard works are:
 
 -   The Holy Bible (King James version) (the LDS Church uses the King James Version (KJV) in English-speaking countries; other versions are used in non-English-speaking countries)[2][3][4][5][6][7]
@@ -32,7 +30,7 @@ When a doctrine undergoes this procedure, the LDS Church treats it as the word o
 
   It is not to be thought that every word spoken by the General Authorities is inspired, or that they are moved upon by the Holy Ghost in everything they speak and write. Now you keep that in mind. I don't care what his position is, if he writes something or speaks something that goes beyond anything that you can find in the standard works, unless that one be the prophet, seer, and revelator—please note that one exception—you may immediately say, "Well, that is his own idea!" And if he says something that contradicts what is found in the standard works (I think that is why we call them "standard"—it is the standard measure of all that men teach), you may know by that same token that it is false; regardless of the position of the man who says it.[18]
 
-Standard_Works_Church_of_Jesus_Christ_of_Latter-day_Saints.jpg (note the cross references between Biblical and Latter-day Saint scripture in the footnotes).]]
+(note the cross references between Biblical and Latter-day Saint scripture in the footnotes).]]
 
 
 The Bible
@@ -58,7 +56,6 @@ Joseph Smith translated selected verses of the Bible, working by subject. Smith 
 
 The Book of Mormon
 
-The_Book_of_Mormon-_An_Account_Written_by_the_Hand_of_Mormon_upon_Plates_Taken_from_the_Plates_of_Nephi.jpg
 (Image from the U.S. Library of Congress _Rare Book and Special Collections Division_.)]] Latter-day Saints consider The Book of Mormon a volume of holy scripture comparable to the Bible. It contains a record of God's dealings with the prophets and ancient inhabitants of the Americas. The introduction to the book asserts that it "contains, as does the Bible, the fullness of the everlasting gospel. The book was written by many ancient prophets by the spirit of prophecy and revelation. Their words, written on gold plates, were quoted and abridged by a prophet-historian named Mormon."
 
 Segments of the Book of Mormon provide an account of the culture, religious teachings and civilizations of groups who immigrated to the New World. One came from Jerusalem in 600 B.C., and afterward separated into two nations, identified in the book as the Nephites and the Lamanites. Some years after their arrival, the Nephites met with a similar group, the Mulekites who left the Middle East during the same period. An older group arrived in America much earlier, when the Lord confounded the tongues at the Tower of Babel. This group is known as the Jaredites and their story is condensed in the Book of Ether. The crowning event recorded in the Book of Mormon is the personal ministry of Jesus Christ among Nephites soon after his resurrection. This account presents the doctrines of the gospel, outlines the plan of salvation, and offers men peace in this life and eternal salvation in the life to come. The latter segments of the Book of Mormon details the destruction of these civilizations, as all were destroyed except the Lamanites. The book asserts that the Lamanites are among the ancestors of the indigenous peoples of the Americas.

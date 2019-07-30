@@ -1,4 +1,4 @@
-Vereenigde_Oostindische_Compagnie_spiegelretourschip_Amsterdam_replica.jpg of the Dutch East India Company/United East Indies Company (VOC).]] DejimaInNagasakiBay.jpg Nagasaki_bay_siebold.jpg Dutch_personnel_and_Japanese_women_watching_an_incoming_towed_Dutch_sailing_ship_at_Dejima_by_Kawahara_Keiga.jpg Nagasaki_Dejima_C1771.jpg
+of the Dutch East India Company/United East Indies Company (VOC).]]
 
 was a Dutch trading post located in Nagasaki, Japan from 1641 to 1854.[1]
 
@@ -54,8 +54,6 @@ In addition, the _Opperhoofd_ was treated like the representative of a tributary
 
 New introductions to Japan
 
-DejimaBadminton.jpg DejimaBillard.jpg
-
 -   Photography, first lessons in photography given to Japanese in 1856 by the physician of the island, dr. J. K. van den Broek.
 -   Badminton, a sport that originated in India, was introduced by the Dutch during the 18th century; it is mentioned in the _Sayings of the Dutch_.
 -   Billiards were introduced in Japan on Dejima in 1764; it is noted as "Ball striking table" (玉突の場) in the paintings of Kawahara Keiga (川原慶賀).
@@ -70,14 +68,14 @@ DejimaBadminton.jpg DejimaBillard.jpg
 
 Nagasaki Naval Training Center
 
-NagasakiNavalTrainingCenter.jpg, next to Dejima (in the background).]]
+, next to Dejima (in the background).]]
 
 Following the forced opening of Japan by US Navy Commodore Perry in 1854, the Bakufu suddenly increased its interactions with Dejima in an effort to build up knowledge of Western shipping methods. The , a naval training institute, was established in 1855 by the government of the _shōgun_ at the entrance of Dejima, to enable maximum interaction with Dutch naval know-how. The center was equipped with Japan's first steamship, the _Kankō Maru_, given by the government of the Netherlands the same year. The future Admiral Enomoto Takeaki was one of the students of the Training Center.
 
 
 Reconstruction
 
-C1870`s_Nagasaki_Dejima_Island.png The Dutch East India Company's trading post at Dejima was abolished when Japan concluded the Treaty of Kanagawa with the USA in 1858. This ended Dejima's role as Japan's only window on the Western world during the era of national isolation. Since then, the island was expanded by reclaimed land and merged into Nagasaki. Extensive redesigning of Nagasaki Harbor in 1904 obscured its original location.[6] The original footprint of Dejima Island has been marked by rivets; but as restoration progresses, the ambit of the island will be easier to see at a glance. Edo-era_Dejima_within_modern_Nagasaki.jpg
+The Dutch East India Company's trading post at Dejima was abolished when Japan concluded the Treaty of Kanagawa with the USA in 1858. This ended Dejima's role as Japan's only window on the Western world during the era of national isolation. Since then, the island was expanded by reclaimed land and merged into Nagasaki. Extensive redesigning of Nagasaki Harbor in 1904 obscured its original location.[6] The original footprint of Dejima Island has been marked by rivets; but as restoration progresses, the ambit of the island will be easier to see at a glance.
 
 Dejima today is a work in progress. The island was designated a national historic site in 1922, but further steps were slow to follow. Restoration work was started in 1953, but that project languished.[7] In 1996, restoration of Dejima began with plans for reconstructing 25 buildings in their early 19th-century state. To better display Dejima's fan-shaped form, the project anticipated rebuilding only parts of the surrounding embankment wall that had once enclosed the island. Buildings that remained from the Meiji period were to be used.
 

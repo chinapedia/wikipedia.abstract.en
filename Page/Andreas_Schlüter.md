@@ -1,4 +1,4 @@
-Andreas_Schlüter_(Architekt).jpg in Hamburg town hall]] Andreas_Schlueter_Palac_Krasinskich_1.jpg'' from Krasiński Palace in Warsaw]] Berlin_(5595857760).jpg of Great Elector in Berlin]] Bernsteinzimmer01.jpg]]
+in Hamburg town hall]] '' from Krasiński Palace in Warsaw]] of Great Elector in Berlin]] ]]
 
 ANDREAS SCHLÜTER (1659 – c. June 1714) was a German baroque sculptor and architect, active in the Holy Roman Empire of the German Nation, the Polish-Lithuanian Commonwealth, and the Russian Tsardom.
 

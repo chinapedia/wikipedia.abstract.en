@@ -32,13 +32,13 @@ Before the arrival of the Europeans, the boundaries between these groups and the
 
 Portuguese colonization
 
-Desembarque_de_Pedro_Álvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_(1865–1939).jpg in Porto Seguro, 1500. Painting of 1922.]]
+in Porto Seguro, 1500. Painting of 1922.]]
 
 The land now called Brazil was claimed for the Portuguese Empire on 22 April 1500, with the arrival of the Portuguese fleet commanded by Pedro Álvares Cabral.[55] The Portuguese encountered indigenous peoples divided into several tribes, most of whom spoke languages of the Tupi–Guarani family, and fought among themselves.[56] Though the first settlement was founded in 1532, colonization effectively began in 1534, when King John III of Portugal divided the territory into the fifteen private and autonomous Captaincy Colonies of Brazil.[57][58]
 
 However, the decentralized and unorganized tendencies of the captaincy colonies proved problematic, and in 1549 the Portuguese king restructured them into the Governorate General of Brazil, a single and centralized Portuguese colony in South America.[59][60] In the first two centuries of colonization, Indigenous and European groups lived in constant war, establishing opportunistic alliances in order to gain advantages against each other.[61][62][63] By the mid-16th century, cane sugar had become Brazil's most important export,[64][65] and slaves purchased in Sub-Saharan Africa, in the slave market of Western Africa[66] (not only those from Portuguese allies of their colonies in Angola and Mozambique), had become its largest import,[67][68] to cope with plantations of sugarcane, due to increasing international demand for Brazilian sugar.[69][70]
 
-Antônio_Parreiras_-_Prisão_de_Tiradentes,_1914.jpg; he was sentenced to death for his involvement in the best known movement for independence in Colonial Brazil. Painting of 1914.]]
+; he was sentenced to death for his involvement in the best known movement for independence in Colonial Brazil. Painting of 1914.]]
 
 By the end of the 17th century, sugarcane exports began to decline,[71] and the discovery of gold by bandeirantes in the 1690s would become the new backbone of the colony's economy, fostering a Brazilian Gold Rush[72] which attracted thousands of new settlers to Brazil from Portugal and all Portuguese colonies around the world.[73] This increased level of immigration in turn caused some conflicts between newcomers and old settlers.[74]
 
@@ -48,7 +48,7 @@ The Portuguese colonial administration in Brazil had two objectives that would e
 
 United Kingdom with Portugal
 
-Aclamação_do_rei_Dom_João_VI_no_Rio_de_Janeiro.jpg of the United Kingdom of Portugal, Brazil and the Algarves in Rio de Janeiro, 6 February 1818]] In late 1807, Spanish and Napoleonic forces threatened the security of continental Portugal, causing Prince Regent João, in the name of Queen Maria I, to move the royal court from Lisbon to Rio de Janeiro.[80] There they established some of Brazil's first financial institutions, such as its local stock exchanges,[81] and its National Bank, additionally ending the Portuguese monopoly on Brazilian trade and opening Brazil to other nations. In 1809, in retaliation for being forced into exile, the Prince Regent ordered the Portuguese conquest of French Guiana.[82]
+of the United Kingdom of Portugal, Brazil and the Algarves in Rio de Janeiro, 6 February 1818]] In late 1807, Spanish and Napoleonic forces threatened the security of continental Portugal, causing Prince Regent João, in the name of Queen Maria I, to move the royal court from Lisbon to Rio de Janeiro.[80] There they established some of Brazil's first financial institutions, such as its local stock exchanges,[81] and its National Bank, additionally ending the Portuguese monopoly on Brazilian trade and opening Brazil to other nations. In 1809, in retaliation for being forced into exile, the Prince Regent ordered the Portuguese conquest of French Guiana.[82]
 
 With the end of the Peninsular War in 1814, the courts of Europe demanded that Queen Maria I and Prince Regent João return to Portugal, deeming it unfit for the head of an ancient European monarchy to reside in a colony. In 1815, to justify continuing to live in Brazil, where the royal court had thrived for the prior six years, the Crown established the United Kingdom of Portugal, Brazil, and the Algarves, thus creating a pluricontinental transatlantic monarchic state.[83] However, such a ploy didn't last long, since the leadership in Portugal, resentful of the new status of its larger colony, continued to require the return of court to Lisbon (as postulated by the Liberal Revolution of 1820), and also groups of Brazilians, impatient for practical and real changes, still demanded independence and a republic, as demonstrated by the 1817 Pernambucan Revolt.[84] In 1821, as a demand of revolutionaries who had taken the city of Porto,[85] D. João VI was unable to hold out any longer, and departed for Lisbon. There he swore an oath to the new constitution, leaving his son, Prince Pedro de Alcântara, as Regent of the Kingdom of Brazil.[86]
 
@@ -58,7 +58,7 @@ upright=1.2 by Prince Pedro (later Emperor Pedro I) on 7 September 1822.]] Tens
 
 The Brazilian War of Independence, which had already begun along this process, spread through northern, northeastern regions and in Cisplatina province.[90] The last Portuguese soldiers surrendered on 8 March 1824;[91] Portugal officially recognized Brazil on 29 August 1825.[92]
 
-On 7 April 1831, worn down by years of administrative turmoil and political dissent with both liberal and conservative sides of politics, including an attempt of republican secession, and unreconciled to the way that absolutists in Portugal had given in the succession of King John VI, Pedro I went to Portugal to reclaim his daughter's crown, abdicating the Brazilian throne in favor of his five-year-old son and heir (who thus became the Empire's second monarch, with the royal title of Dom Pedro II).[93] Pedro_Américo_-_D._Pedro_II_na_abertura_da_Assembléia_Geral.jpg, Emperor of Brazil between 1831 and 1889.]]
+On 7 April 1831, worn down by years of administrative turmoil and political dissent with both liberal and conservative sides of politics, including an attempt of republican secession, and unreconciled to the way that absolutists in Portugal had given in the succession of King John VI, Pedro I went to Portugal to reclaim his daughter's crown, abdicating the Brazilian throne in favor of his five-year-old son and heir (who thus became the Empire's second monarch, with the royal title of Dom Pedro II).[93] , Emperor of Brazil between 1831 and 1889.]]
 
 As the new Emperor could not exert his constitutional powers until he became of age, a regency was set up by the National Assembly.[94] In the absence of a charismatic figure who could represent a moderate face of power, during this period a series of localized rebellions took place, such as the Cabanagem in Grão-Pará Province, the Malê Revolt in Salvador da Bahia, the Balaiada (Maranhão), the Sabinada (Bahia), and the Ragamuffin War beginning in Rio Grande do Sul and supported by Giuseppe Garibaldi. These emerged from the dissatisfaction of the provinces with the central power, coupled with old and latent social tensions peculiar to a vast, slaveholding and newly independent nation state. This period of internal political and social upheaval, which included the Praieira revolt in Pernambuco, was overcome only at the end of the 1840s, years after the end of the regency, which occurred with the premature coronation of Pedro II in 1841.
 
@@ -70,7 +70,7 @@ Although there was no desire among the majority of Brazilians to change the coun
 
 Early republic
 
-Proclamação_da_República_by_Benedito_Calixto_1893.jpg'', 1893, oil on canvas by Benedito Calixto.]]
+'', 1893, oil on canvas by Benedito Calixto.]]
 
 The early republican government was nothing more than a military dictatorship, with army dominating affairs both at Rio de Janeiro and in the states. Freedom of the press disappeared and elections were controlled by those in power. Only in 1894, following the unfoldings of two severe crises, an economic along with a military one, the civilians rose to power staying there until October 1930.[101][102]
 
@@ -98,7 +98,7 @@ Civilians returned to power in 1985 when José Sarney assumed the presidency. He
 
 Collor was succeeded by his vice-president, Itamar Franco, who appointed Fernando Henrique Cardoso Minister of Finance. In 1994, Cardoso produced a highly successful Plano Real,[147] that, after decades of failed economic plans made by previous governments attempting to curb hyperinflation, finally stabilized the Brazilian economy.[148] Cardoso won the 1994 election, and again in 1998.[149]
 
-Ulyssesguimaraesconstituicao.jpg holding the Constitution of 1988 in his hands.]]
+holding the Constitution of 1988 in his hands.]]
 
 The peaceful transition of power from Cardoso to his main opposition leader, Luiz Inácio Lula da Silva (elected in 2002 and re-elected in 2006), was seen as proof that Brazil had achieved a long-sought political stability.[150][151] However, sparked by indignation and frustrations accumulated over decades from corruption, police brutality, inefficiencies of the political establishment and public service, numerous peaceful protests erupted in Brazil from the middle of first term of Dilma Rousseff, who had succeeded Lula after winning election in 2010.[152][153]
 
@@ -106,8 +106,6 @@ Enhanced by political and economic crises with evidence of involvement by politi
 
 
 Geography
-
-Brazil_topo.jpg
 
 Brazil occupies a large area along the eastern coast of South America and includes much of the continent's interior,[162] sharing land borders with Uruguay to the south; Argentina and Paraguay to the southwest; Bolivia and Peru to the west; Colombia to the northwest; and Venezuela, Guyana, Suriname and France (French overseas region of French Guiana) to the north. It shares a border with every South American country except Ecuador and Chile.[163]
 
@@ -125,7 +123,7 @@ Brazil has a dense and complex system of rivers, one of the world's most extensi
 
 Climate
 
-Köppen_climate_types_of_Brazil.svg zones]]
+zones]]
 
 The climate of Brazil comprises a wide range of weather conditions across a large area and varied topography, but most of the country is tropical.[178] According to the Köppen system, Brazil hosts six major climatic subtypes: desert, equatorial, tropical, semiarid, oceanic and subtropical. The different climatic conditions produce environments ranging from equatorial rainforests in the north and semiarid deserts in the northeast, to temperate coniferous forests in the south and tropical savannas in central Brazil.[179] Many regions have starkly different microclimates.[180][181]
 
@@ -152,9 +150,9 @@ The construction of highways has opened up previously remote areas for agricultu
 
 Government and Politics
 
-Palácio_do_Planalto_GGFD8938.jpg ("Plateau Palace"), the official workplace of the President of Brazil.]] The form of government is a democratic federative republic, with a presidential system.[210] The president is both head of state and head of government of the Union and is elected for a four-year term,[211] with the possibility of re-election for a second successive term. The current president is Jair Bolsonaro. The previous president, Michel Temer, replaced Dilma Rousseff after her impeachment.[212] The President appoints the Ministers of State, who assist in government.[213] Legislative houses in each political entity are the main source of law in Brazil. The National Congress is the Federation's bicameral legislature, consisting of the Chamber of Deputies and the Federal Senate. Judiciary authorities exercise jurisdictional duties almost exclusively. Brazil is a democracy, according to the Democracy Index 2010.[214]
+("Plateau Palace"), the official workplace of the President of Brazil.]] The form of government is a democratic federative republic, with a presidential system.[210] The president is both head of state and head of government of the Union and is elected for a four-year term,[211] with the possibility of re-election for a second successive term. The current president is Jair Bolsonaro. The previous president, Michel Temer, replaced Dilma Rousseff after her impeachment.[212] The President appoints the Ministers of State, who assist in government.[213] Legislative houses in each political entity are the main source of law in Brazil. The National Congress is the Federation's bicameral legislature, consisting of the Chamber of Deputies and the Federal Senate. Judiciary authorities exercise jurisdictional duties almost exclusively. Brazil is a democracy, according to the Democracy Index 2010.[214]
 
-The political-administrative organization of the Federative Republic of Brazil comprises the Union, the states, the Federal District, and the municipalities.[215] The Union, the states, the Federal District, and the municipalities, are the "spheres of government". The federation is set on five fundamental principles:[216] sovereignty, citizenship, dignity of human beings, the social values of labor and freedom of enterprise, and political pluralism. The classic tripartite branches of government (executive, legislative and judicial under a checks and balances system) are formally established by the Constitution.[217] The executive and legislative are organized independently in all three spheres of government, while the judiciary is organized only at the federal and state and Federal District spheres. Brasilia_Congresso_Nacional_05_2007_221.jpg, seat of the legislative branch.]]
+The political-administrative organization of the Federative Republic of Brazil comprises the Union, the states, the Federal District, and the municipalities.[215] The Union, the states, the Federal District, and the municipalities, are the "spheres of government". The federation is set on five fundamental principles:[216] sovereignty, citizenship, dignity of human beings, the social values of labor and freedom of enterprise, and political pluralism. The classic tripartite branches of government (executive, legislative and judicial under a checks and balances system) are formally established by the Constitution.[217] The executive and legislative are organized independently in all three spheres of government, while the judiciary is organized only at the federal and state and Federal District spheres. , seat of the legislative branch.]]
 
 All members of the executive and legislative branches are directly elected.[218][219][220] Judges and other judicial officials are appointed after passing entry exams.[221] For most of its democratic history, Brazil has had a multi-party system, proportional representation. Voting is compulsory for the literate between 18 and 70 years old and optional for illiterates and those between 16 and 18 or beyond 70.[222]
 
@@ -162,7 +160,7 @@ Together with several smaller parties, four political parties stand out: Workers
 
 Law
 
-Supremo_Brasil.jpg serves primarily as the Constitutional Court of the country]]
+serves primarily as the Constitutional Court of the country]]
 
 Brazilian law is based on the civil law legal system[224] and civil law concepts prevail over common law practice. Most of Brazilian law is codified, although non-codified statutes also represent a substantial part, playing a complementary role. Court decisions set out interpretive guidelines; however, they are seldom binding on other specific cases. Doctrinal works and the works of academic jurists have strong influence in law creation and in law cases.
 
@@ -184,7 +182,7 @@ Brazil has not been invaded since 1865 during the Paraguayan War.[253] Additiona
 
 Foreign policy
 
-Brasilia-2.jpg, the seat of the Ministry of Foreign Affairs]]
+, the seat of the Ministry of Foreign Affairs]]
 
 Brazil's international relations are based on Article 4 of the Federal Constitution, which establishes non-intervention, self-determination, international cooperation and the peaceful settlement of conflicts as the guiding principles of Brazil's relationship with other countries and multilateral organizations.[259]
 
@@ -194,7 +192,7 @@ Brazil's foreign policy is a by-product of the country's unique position as a re
 
 Brazil is a founding member state of the Community of Portuguese Language Countries (CPLP), also known as the Lusophone Commonwealth, and international organization and political association of Lusophone nations across four continents, where Portuguese is an official language.
 
-An increasingly well-developed tool of Brazil's foreign policy is providing aid as a donor to other developing countries.[263] Brazil does not just use its growing economic strength to provide financial aid, but it also provides high levels of expertise and most importantly of all, a quiet non-confrontational diplomacy to improve governance levels.[264] Total aid is estimated to be around $1 billion per year, which includes:[265] Diplomatic_missions_in_Brazil.PNG]]
+An increasingly well-developed tool of Brazil's foreign policy is providing aid as a donor to other developing countries.[263] Brazil does not just use its growing economic strength to provide financial aid, but it also provides high levels of expertise and most importantly of all, a quiet non-confrontational diplomacy to improve governance levels.[264] Total aid is estimated to be around $1 billion per year, which includes:[265] ]]
 
 -   technical cooperation of around $480 million ($30 million in 2010 provided directly by the Brazilian Cooperation Agency (ABC));
 -   estimated $450 million for in-kind expertise provided by Brazilian institutions specializing in technical cooperation.
@@ -203,7 +201,7 @@ In addition, Brazil manages a peacekeeping mission in Haiti ($350 million) and 
 
 Law enforcement and crime
 
-FNSP_(7952500358).jpg]] In Brazil, the Constitution establishes five different police agencies for law enforcement: Federal Police Department, Federal Highway Police, Federal Railroad Police, Military Police and Civil Police. Of these, the first three are affiliated with federal authorities and the last two are subordinate to state governments. All police forces are the responsibility of the executive branch of any of the federal or state powers.[269] The National Public Security Force also can act in public disorder situations arising anywhere in the country.[270]
+]] In Brazil, the Constitution establishes five different police agencies for law enforcement: Federal Police Department, Federal Highway Police, Federal Railroad Police, Military Police and Civil Police. Of these, the first three are affiliated with federal authorities and the last two are subordinate to state governments. All police forces are the responsibility of the executive branch of any of the federal or state powers.[269] The National Public Security Force also can act in public disorder situations arising anywhere in the country.[270]
 
 The country still has above-average levels of violent crime and particularly high levels of gun violence and homicide. In 2012, the World Health Organization (WHO) estimated the number of 32 deaths per 100,000 inhabitants, one of the highest rates of homicide of the world.[271] The number considered tolerable by the WHO is about 10 homicides per 100,000 inhabitants.[272] However, there are differences between the crime rates in the Brazilian states. While in São Paulo the homicide rate registered in 2013 was 10.8 deaths per 100,000 inhabitants, in Alagoas it was 64.7 homicides per 100,000 inhabitants.[273]
 
@@ -311,7 +309,7 @@ Coastal shipping links widely separated parts of the country. Bolivia and Paragu
 
 Health
 
-Fotorreportagem_do_ICESP_(42627443635).jpg of the University of São Paulo Clinics Hospital, the largest hospital complex in Latin America.[364]]]
+of the University of São Paulo Clinics Hospital, the largest hospital complex in Latin America.[364]]]
 
 The Brazilian public health system, the Unified Health System (SUS), is managed and provided by all levels of government,[365] being the largest system of this type in the world.[366] On the other hand, private healthcare systems play a complementary role.[367]
 
@@ -335,7 +333,7 @@ The University of São Paulo is the second best university in Latin America, acc
 
 Media and communication
 
-Jornal_Nacional_3.jpg at _Jornal Nacional_ news program. Rede Globo is the world's second-largest commercial television network.[377]]]
+at _Jornal Nacional_ news program. Rede Globo is the world's second-largest commercial television network.[377]]]
 
 The Brazilian press was officially born in Rio de Janeiro on 13 May 1808 with the creation of the Royal Printing National Press by the Prince Regent Dom João.[378]
 
@@ -347,8 +345,6 @@ Television in Brazil began officially on 18 September 1950, with the founding of
 
 
 Demographics
-
-ARCHELLA_E_THERY_Img_05.png
 
 +------------+
 | Population |
@@ -370,7 +366,7 @@ In 2008, the illiteracy rate was 11.48%[396] and among the youth (ages 15–19) 
 
 Race and ethnicity
 
-Fachada_do_Museu_da_Imigração_de_São_Paulo.JPG in the neighborhood of Mooca, in São Paulo city. The Italian Brazilians are 15% of the population and the largest Italian community outside Italy.[399]]] According to the National Research by Household Sample (PNAD) of 2008, 48.43% of the population (about 92 million) described themselves as White; 43.80% (about 83 million) as Pardo (brown), 6.84% (about 13 million) as Black; 0.58% (about 1.1 million) as Asian; and 0.28% (about 536 thousand) as Amerindian (officially called _indígena_, Indigenous), while 0.07% (about 130 thousand) did not declare their race.[400]
+in the neighborhood of Mooca, in São Paulo city. The Italian Brazilians are 15% of the population and the largest Italian community outside Italy.[399]]] According to the National Research by Household Sample (PNAD) of 2008, 48.43% of the population (about 92 million) described themselves as White; 43.80% (about 83 million) as Pardo (brown), 6.84% (about 13 million) as Black; 0.58% (about 1.1 million) as Asian; and 0.28% (about 536 thousand) as Amerindian (officially called _indígena_, Indigenous), while 0.07% (about 130 thousand) did not declare their race.[400]
 
 In 2007, the National Indian Foundation estimated that Brazil has 67 different uncontacted tribes, up from their estimate of 40 in 2005. Brazil is believed to have the largest number of uncontacted peoples in the world.[401]
 
@@ -394,7 +390,7 @@ According to IBGE (Brazilian Institute of Geography and Statistics) urban areas 
 
 Language
 
-Interior_do_Museu_da_Língua_Portuguesa_em_São_Paulo,_Brasil.jpg in São Paulo city, São Paulo.]] Parque_Indígena_do_Xingu.jpg of the Kuikuro people, Xingu Indigenous Park, Mato Grosso]]
+in São Paulo city, São Paulo.]] of the Kuikuro people, Xingu Indigenous Park, Mato Grosso]]
 
 The official language of Brazil is Portuguese[444] (Article 13 of the Constitution of the Federal Republic of Brazil), which almost all of the population speaks and is virtually the only language used in newspapers, radio, television, and for business and administrative purposes. Brazil is the only Portuguese-speaking nation in the Americas, making the language an important part of Brazilian national identity and giving it a national culture distinct from those of its Spanish-speaking neighbors.[445]
 
@@ -404,7 +400,7 @@ In 1990, the Community of Portuguese Language Countries (CPLP), which included r
 
 The sign language law legally recognized in 2002,[450] (the law was regulated in 2005)[451] the use of the Brazilian Sign Language, more commonly known by its Portuguese acronym LIBRAS, in education and government services. The language must be taught as a part of the education and speech and language pathology curricula. LIBRAS teachers, instructors and translators are recognized professionals. Schools and health services must provide access ("inclusion") to deaf people.[452]
 
-Festapomerana.jpg, Santa Catarina, is one of the municipalities with a cooficial language. In this region, Hunsrückisch and East Pomeranian, German dialects, are two of the minor languages (see Brazilian German).]]
+, Santa Catarina, is one of the municipalities with a cooficial language. In this region, Hunsrückisch and East Pomeranian, German dialects, are two of the minor languages (see Brazilian German).]]
 
 Minority languages are spoken throughout the nation. One hundred and eighty Amerindian languages are spoken in remote areas and a significant number of other languages are spoken by immigrants and their descendants.[453] In the municipality of São Gabriel da Cachoeira, Nheengatu (a currently endangered South American creole language – or an 'anti-creole', according to some linguists – with mostly Indigenous Brazilian languages lexicon and Portuguese-based grammar that, together with its southern relative língua geral paulista, once was a major lingua franca in Brazil, being replaced by Portuguese only after governmental prohibition led by major political changes), Baniwa and Tucano languages had been granted co-official status with Portuguese.[454]
 
@@ -415,7 +411,7 @@ Learning at least one second language (generally English or Spanish) is mandator
 
 Culture
 
-Puro_ouro.jpg in Salvador, Bahia, one of the richest expressions of Brazilian baroque.]] The core culture of Brazil is derived from Portuguese culture, because of its strong colonial ties with the Portuguese Empire.[460] Among other influences, the Portuguese introduced the Portuguese language, Roman Catholicism and colonial architectural styles. The culture was, however, also strongly influenced by African, indigenous and non-Portuguese European cultures and traditions.[461] Some aspects of Brazilian culture were influenced by the contributions of Italian, German and other European as well as Japanese, Jewish and Arab immigrants who arrived in large numbers in the South and Southeast of Brazil during the 19th and 20th centuries.[462] The indigenous Amerindians influenced Brazil's language and cuisine; and the Africans influenced language, cuisine, music, dance and religion.[463]
+in Salvador, Bahia, one of the richest expressions of Brazilian baroque.]] The core culture of Brazil is derived from Portuguese culture, because of its strong colonial ties with the Portuguese Empire.[460] Among other influences, the Portuguese introduced the Portuguese language, Roman Catholicism and colonial architectural styles. The culture was, however, also strongly influenced by African, indigenous and non-Portuguese European cultures and traditions.[461] Some aspects of Brazilian culture were influenced by the contributions of Italian, German and other European as well as Japanese, Jewish and Arab immigrants who arrived in large numbers in the South and Southeast of Brazil during the 19th and 20th centuries.[462] The indigenous Amerindians influenced Brazil's language and cuisine; and the Africans influenced language, cuisine, music, dance and religion.[463]
 
 Brazilian art has developed since the 16th century into different styles that range from Baroque (the dominant style in Brazil until the early 19th century)[464][465] to Romanticism, Modernism, Expressionism, Cubism, Surrealism and Abstractionism. Brazilian cinema dates back to the birth of the medium in the late 19th century and has gained a new level of international acclaim since the 1960s.[466]
 
@@ -477,7 +473,7 @@ The most popular sport in Brazil is football.[512] The Brazilian men's national 
 
 Volleyball, basketball, auto racing, and martial arts also attract large audiences. The Brazil men's national volleyball team, for example, currently holds the titles of the World League, World Grand Champions Cup, World Championship and the World Cup. In auto racing, three Brazilian drivers have won the Formula One world championship eight times.[515][516][517]
 
-Some sport variations have their origins in Brazil: beach football,[518] futsal (indoor football)[519] and footvolley emerged in Brazil as variations of football. In martial arts, Brazilians developed Capoeira,[520] Vale tudo,[521] and Brazilian jiu-jitsu.[522] Terminam_os_Jogos_Olímpicos_Rio_2016_(29040726262).jpg of the 2016 Summer Olympics at the Maracanã Stadium, Rio de Janeiro.]]
+Some sport variations have their origins in Brazil: beach football,[518] futsal (indoor football)[519] and footvolley emerged in Brazil as variations of football. In martial arts, Brazilians developed Capoeira,[520] Vale tudo,[521] and Brazilian jiu-jitsu.[522] of the 2016 Summer Olympics at the Maracanã Stadium, Rio de Janeiro.]]
 
 Brazil has hosted several high-profile international sporting events, like the 1950 FIFA World Cup[523] and recently has hosted the 2014 FIFA World Cup and 2019 Copa América.[524] The São Paulo circuit, Autódromo José Carlos Pace, hosts the annual Grand Prix of Brazil.[525] São Paulo organized the IV Pan American Games in 1963, and Rio de Janeiro hosted the XV Pan American Games in 2007.[526] On 2 October 2009, Rio de Janeiro was selected to host the 2016 Olympic Games and 2016 Paralympic Games, making it the first South American city to host the games[527] and second in Latin America, after Mexico City. Furthermore, the country hosted the FIBA Basketball World Cups in 1954 and 1963. At the 1963 event, the Brazil national basketball team won one of its two world championship titles.[528]
 

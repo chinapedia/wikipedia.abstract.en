@@ -16,7 +16,7 @@ While the sources for north-eastern Britain, the lands of the kingdom of Northum
 
 Pictland from Constantín mac Fergusa to Constantine I
 
-Early_Alpinid_kings.svg]]
+]]
 
 The dominant kingdom in eastern Scotland before the Viking Age was the northern Pictish kingdom of Fortriu on the shores of the Moray Firth. By the 9th century, the Gaels of Dál Riata (Dalriada) were subject to the kings of Fortriu of the family of Constantín mac Fergusa (Constantine son of Fergus). Constantín's family dominated Fortriu after 789 and perhaps, if Constantín was a kinsman of Óengus I of the Picts (Óengus son of Fergus), from around 730. The dominance of Fortriu came to an end in 839 with a defeat by Viking armies reported by the _Annals of Ulster_ in which King Uen of Fortriu and his brother Bran, Constantín's nephews, together with the king of Dál Riata, Áed mac Boanta, "and others almost innumerable" were killed.[8] These deaths led to a period of instability lasting a decade as several families attempted to establish their dominance in Pictland. By around 848 Kenneth MacAlpin had emerged as the winner.[9]
 
@@ -29,7 +29,7 @@ Kenneth's son Constantine died in 876, probably killed fighting against a Viking
 
 Britain and Ireland at the end of the 9th century
 
-Locations_in_north_Britain_in_the_early_tenth_century.png, c. 890–950. The dotted line marked B represents the southern boundary of the Kingdom of Strathclyde, c. 925–945.]]
+, c. 890–950. The dotted line marked B represents the southern boundary of the Kingdom of Strathclyde, c. 925–945.]]
 
 In 899 Alfred the Great, king of Wessex, died leaving his son Edward the Elder as ruler of Britain south of the River Thames and his daughter Æthelflæd and son-in-law Æthelred ruling the western, English part of Mercia. The situation in the Danish kingdoms of eastern Britain is less clear. King Eohric was probably ruling in East Anglia, but no dates can reliably be assigned to the successors of Guthfrith of York in Northumbria. It is known that Guthfrith was succeeded by Sigurd and Cnut, although whether these men ruled jointly or one after the other is uncertain. Northumbria may have been divided by this time between the Viking kings in York and the local rulers, perhaps represented by Eadulf, based at Bamburgh who controlled the lands from the River Tyne or River Tees to the Forth in the north.[14]
 
@@ -51,7 +51,7 @@ Woolf suggests that Constantine and his cousin Donald may have passed Giric's re
 
 Vikings and bishops
 
-Monymusk_Reliquary.jpg and its relics were associated with victory in battle. The _Cathbuaid_, Columba's crozier or staff, has been lost but the 8th-century _Breccbennach_ or Monymusk Reliquary shown here, which held relics of Columba, is known to have been carried into battle from the reign of King William I onwards.[27]]]
+and its relics were associated with victory in battle. The _Cathbuaid_, Columba's crozier or staff, has been lost but the 8th-century _Breccbennach_ or Monymusk Reliquary shown here, which held relics of Columba, is known to have been carried into battle from the reign of King William I onwards.[27]]]
 
 The earliest event recorded in the _Chronicle of the Kings of Alba_ in Constantine's reign is an attack by Vikings and the plundering of Dunkeld "and all Albania" in his third year. This is the first use of the word Albania, the Latin form of the Old Irish _Alba_, in the _Chronicle_ which until then describes the lands ruled by the descendants of Cináed as Pictavia.[28]
 
@@ -63,7 +63,7 @@ The next event reported by the _Chronicle of the Kings of Alba_ is dated to 906.
 
 The meaning of this entry, and its significance, have been the subject of debate.
 
-Moot_hill.jpg at Scone, perhaps the _Hill of Belief_ of 906[31]]]
+at Scone, perhaps the _Hill of Belief_ of 906[31]]]
 
 The phrase _pariter cum Scottis_ in the Latin text of the _Chronicle_ has been translated in several ways. William Forbes Skene and Alan Orr Anderson proposed that it should be read as "in conformity with the customs of the Gaels", relating it to the claims in the king lists that Giric liberated the church from secular oppression and adopted Irish customs.[32] It has been read as "together with the Gaels", suggesting either public participation or the presence of Gaels from the western coasts as well as the people of the east coast.[33] Finally, it is suggested that it was the ceremony which followed "the custom of the Gaels" and not the agreements.[34]
 
@@ -78,7 +78,7 @@ In this period the _Chronicle of the Kings of Alba_ reports the death of Cormac 
 
 There are more reports of Viking fleets in the Irish Sea from 914 onwards. By 916 fleets under Sihtric Cáech and Ragnall, said to be grandsons of Ímar (that is, they belonged to the same Uí Ímair kindred as the Ímar who was killed in 904), were very active in Ireland. Sihtric inflicted a heavy defeat on the armies of Leinster and retook Dublin in 917.[42] The following year Ragnall appears to have returned across the Irish sea intent on establishing himself as king at York.[43] The only precisely dated event in the summer of 918 is the death of Queen Æthelflæd on 918 at Tamworth, Staffordshire. Æthelflæd had been negotiating with the Northumbrians to obtain their submission, but her death put an end to this and her successor, her brother Edward the Elder, was occupied with securing control of Mercia.[44]
 
-Dere_Street.JPG; Corbridge is just south of Hadrian's Wall in the centre of the map]]
+; Corbridge is just south of Hadrian's Wall in the centre of the map]]
 
 The northern part of Northumbria, and perhaps the whole kingdom, had probably been ruled by Ealdred son of Eadulf since 913.[45] Faced with Ragnall's invasion, Ealdred came north seeking assistance from Constantine. The two advanced south to face Ragnall, and this led to a battle somewhere on the banks of the River Tyne, probably at Corbridge where Dere Street crosses the river. The Battle of Corbridge appears to have been indecisive; the _Chronicle of the Kings of Alba_ is alone in giving Constantine the victory.[46]
 

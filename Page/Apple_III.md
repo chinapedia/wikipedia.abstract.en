@@ -19,8 +19,6 @@ The Apple III was the first Apple product to allow the user to choose both a scr
 
 Software
 
-Desktop_Computer_-_The_Future_for_Medicine_(FDA_095)_(8249708093).jpg
-
 A major limitation of the Apple II and DOS 3.3 is the way it addresses resources, which makes it highly desirable for peripherals to be installed in standardized locations (slot 5 and 6 reserved for storage devices, slot 2 reserved for serial communication interfaces, etc.) This forces the user to identify a peripheral by its physical location, such as PR#6, CATALOG, D1, and so on.[12] The Apple III introduced an advanced operating system called Apple SOS, pronounced "apple sauce". Its ability to address resources by name instead of a physical location allows the Apple III to be more scalable than the Apple II. Apple SOS also allows the full capacity of a storage device to be used as a single volume, such as the Apple ProFile hard disk drive. Also, Apple SOS supports a hierarchical file system. Some of the features and code base of Apple SOS were migrated into the Apple II's ProDOS and GS/OS operating systems, as well as Lisa 7/7 and Macintosh system software.
 
 With a starting price between $4,340 to $7,800 US, the Apple III was more expensive than many of the CP/M-based business computers that were available at the time.[13] Few software titles besides VisiCalc were available for the computer; according to a presentation at KansasFest 2012, fewer than 50 Apple III-specific software packages were published, most shipping when the III Plus was released.[14] Because Apple did not view the Apple III as suitable for hobbyists, it did not provide much of the technical software information that accompanied the Apple II.[15] Originally intended as a direct replacement to the Apple II series, it was designed to be backward compatible with Apple II software. However, since Apple did not want to encourage continued development of the II platform, Apple II compatibility existed only in a special "Apple II Mode" which was limited in its capabilities to the emulation of a basic 48 KB Apple II+ configuration. Special chips were intentionally added to prevent access to the III's advanced features such as its larger memory.[16]
@@ -43,8 +41,6 @@ Certain Apple II slot cards could be installed in the Apple III and used in nati
 
 Revisions
 
-Apple_III+.jpg
-
 Once the logic board design flaws were discovered, a newer logic board design was produced – which includes a lower power requirement, wider traces, and better-designed chip sockets.[22] The $3,495 revised model also includes 256 KiB RAM as a standard configuration.[23] The 14,000 units of the original Apple III sold were returned and replaced with the entirely new revised model.
 
 Apple III Plus
@@ -59,8 +55,6 @@ Design flaws
 According to Wozniak, the Apple III "had 100 percent hardware failures".[29] Former Apple executive Taylor Pohlman stated that:[30]
 
 Steve Jobs insisted on the idea of having no fan or air vents, in order to make the computer run quietly. Jobs would later push this same ideology onto almost all Apple models he had control of, from the Apple Lisa and Macintosh 128K to the iMac.[31] To allow the computer to dissipate heat, the base of the Apple III was made of heavy cast aluminum, which supposedly acts as a heat sink. One advantage to the aluminum case was a reduction in RFI (Radio Frequency Interference), a problem which had plagued the Apple II series throughout its history. Unlike the Apple II series, the power supply was mounted – without its own shell – in a compartment separate from the logic board. The decision to use an aluminum shell ultimately led to engineering issues which resulted in the Apple III's reliability problems. The lead time for manufacturing the shells was high, and this had to be done before the motherboard was finalized. Later, it was realized that there wasn't enough room on the motherboard for all of the components unless narrow traces were used.
-
-Apple_III+_case.jpg
 
 Many Apple IIIs were thought to have failed due to their inability to properly dissipate heat. _inCider_ stated in 1986 that "Heat has always been a formidable enemy of the Apple ///",[32] and some users reported that their Apple IIIs became so hot that the chips started dislodging from the board, causing the screen to display garbled data or their disk to come out of the slot "melted". _BYTE_ wrote, "the integrated circuits tended to wander out of their sockets".[33] Apple advised customers to tilt the front of the Apple III six inches above the desk and then drop it to reseat the chips.[34] Other analyses blame a faulty automatic chip insertion process, not heat.[35]
 

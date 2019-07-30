@@ -1,4 +1,4 @@
-Westermann_1911_Sudansprachen_cover.jpg''.]]DIEDRICH HERMANN WESTERMANN (June 24, 1875–May 31, 1956) was a German missionary, Africanist, and linguist. He substantially extended and revised the work of Carl Meinhof, his teacher, although he rejected some of Meinhof's theories only implicitly. Westermann is seen as one of the founders of modern African linguistics.
+''.]]DIEDRICH HERMANN WESTERMANN (June 24, 1875–May 31, 1956) was a German missionary, Africanist, and linguist. He substantially extended and revised the work of Carl Meinhof, his teacher, although he rejected some of Meinhof's theories only implicitly. Westermann is seen as one of the founders of modern African linguistics.
 
 He carried out extensive linguistic and anthropological research in the area ranging from Senegal eastwards to the Upper Nile. His linguistic publications cover a wide range of African languages, including the Gbe languages, Nuer, Kpelle, Shilluk, Hausa, and Guang.
 

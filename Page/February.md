@@ -10,7 +10,7 @@ February is pronounced either as or . Many people drop the first "r", replacing 
 
 History
 
-Les_Très_Riches_Heures_du_duc_de_Berry_février.jpg'']] Februar_Leandro_Bassano.jpg]] Valentines_Day_Chocolates_from_2005.jpg]] The Roman month _Februarius_ was named after the Latin term _februum_, which means _purification_, via the purification ritual _Februa_ held on February 15 (full moon) in the old lunar Roman calendar. January and February were the last two months to be added to the Roman calendar, since the Romans originally considered winter a monthless period. They were added by Numa Pompilius about 713 BC. February remained the last month of the calendar year until the time of the decemvirs (c. 450 BC), when it became the second month. At certain intervals February was truncated to 23 or 24 days, and a 27-day intercalary month, Intercalaris, was inserted immediately after February to realign the year with the seasons.
+'']] ]] ]] The Roman month _Februarius_ was named after the Latin term _februum_, which means _purification_, via the purification ritual _Februa_ held on February 15 (full moon) in the old lunar Roman calendar. January and February were the last two months to be added to the Roman calendar, since the Romans originally considered winter a monthless period. They were added by Numa Pompilius about 713 BC. February remained the last month of the calendar year until the time of the decemvirs (c. 450 BC), when it became the second month. At certain intervals February was truncated to 23 or 24 days, and a 27-day intercalary month, Intercalaris, was inserted immediately after February to realign the year with the seasons.
 
 February observances in Ancient Rome include Amburbium (precise date unknown), Sementivae (February 2), Februa (February 13–15), Lupercalia (February 13–15), Parentalia (February 13–22), Quirinalia (February 17), Feralia (February 21), Caristia (February 22), Terminalia (February 23), Regifugium (February 24), and Agonium Martiale (February 27). These days do not correspond to the modern Gregorian calendar.
 
@@ -42,10 +42,10 @@ The western zodiac signs of February are Aquarius (until February 19) and Pisces
 
 February symbols
 
-1760_-_Salzburg_-_Stiftskirche_St_Peter_-_Viola.JPG]]
+]]
 
--   Primrose_primula_cultivars_in_Great_Canfield_churchyard,_Essex,_England_01.jpg primroses]]Siberian_Iris_Iris_sibirica_Flower_Closeup_2520px.jpg]]Its birth flowers are the violet (_Viola_), the common primrose (_Primula vulgaris_), [12] and the Iris.[13]
--   Améthystre_sceptre2.jpgIts birthstone is the amethyst. It symbolizes piety, humility, spiritual wisdom, and sincerity.[14]
+-   primroses]]]]Its birth flowers are the violet (_Viola_), the common primrose (_Primula vulgaris_), [12] and the Iris.[13]
+-   Its birthstone is the amethyst. It symbolizes piety, humility, spiritual wisdom, and sincerity.[14]
 
 
 Observances

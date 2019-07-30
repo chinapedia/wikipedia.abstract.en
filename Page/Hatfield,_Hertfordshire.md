@@ -11,15 +11,14 @@ In the Saxon period Hatfield was known as Hetfelle, but by the year 970, when Ki
 
 Hatfield House is the seat of the Cecil family, the Marquesses of Salisbury. Elizabeth Tudor was confined there for three years in what is now known as The Old Palace in Hatfield Park. Legend has it that she learnt here of her accession as queen in 1558, while sitting under an oak tree in the Park. She held her first Council in the Great Hall (The Old Palace) of Hatfield. In 1851, the route of the Great North Road (now the A1000) was altered to avoid cutting through the grounds of Hatfield House.
 
-  ----------------------------
-  Hatfield_St_Etheldreda.jpg
-  ----------------------------
+  --
+  --
 
 The town grew up around the gates of Hatfield House. Old Hatfield retains many historic buildings, notably the Old Palace, St Etheldreda's Church and Hatfield House. The Old Palace was built by the Bishop of Ely, Cardinal Morton, in 1497, during the reign of Henry VII, and the only surviving wing is still used today for Elizabethan-style banquets. St Etheldreda's Church was founded by the monks from Ely, and the first wooden church, built in 1285, was probably sited where the existing building stands overlooking the old town.
 
 Aerospace industry
 
-Hatfield,_The_Comet_hotel_-_geograph.org.uk_-_209701.jpg]] In 1930 the de Havilland airfield and aircraft factory was opened at Hatfield and by 1949 it had become the largest employer in the town, with almost 4,000 staff.[5] It was taken over by Hawker Siddeley in 1960 and merged into British Aerospace in 1978.[6] In the 1930s it produced a range of small biplanes. During the Second World War it produced the Mosquito fighter bomber and developed the Vampire, the second British production jet aircraft after the Gloster Meteor. After the war, facilities were expanded and it developed the Comet airliner (the world's first production jet liner), the Trident airliner, and an early bizjet, the DH125.
+]] In 1930 the de Havilland airfield and aircraft factory was opened at Hatfield and by 1949 it had become the largest employer in the town, with almost 4,000 staff.[5] It was taken over by Hawker Siddeley in 1960 and merged into British Aerospace in 1978.[6] In the 1930s it produced a range of small biplanes. During the Second World War it produced the Mosquito fighter bomber and developed the Vampire, the second British production jet aircraft after the Gloster Meteor. After the war, facilities were expanded and it developed the Comet airliner (the world's first production jet liner), the Trident airliner, and an early bizjet, the DH125.
 
 British Aerospace closed the Hatfield site in 1993 having moved the BAe 146 production line to Woodford Aerodrome. The land was used as a film set for Steven Spielberg's movie _Saving Private Ryan_ and most of the BBC/HBO television drama _Band of Brothers_. It was later developed for housing, higher education, commerce and retail. Part of the former British Aerospace site was intended to be the site of a new £500-million hospital to replace the Queen Elizabeth II Hospital in Welwyn GC and a new campus for Oaklands College, but both projects were cancelled.
 
@@ -27,7 +26,7 @@ Today, Hatfield's aviation history is remembered by the names of certain local s
 
 New Town
 
-Hatfield_New_Town.jpg The Abercrombie Plan for London in 1944 proposed a New Town in Hatfield. It was designated in the New Towns Act 1946, forming part of the initial Hertfordshire group with nearby Stevenage, Welwyn Garden City and Letchworth. The Government allocated for Hatfield New Town, with a population target of 25,000.[8] (By 2001 the population had reached 27,833.[9]) The Hatfield Development Corporation, tasked with creating the New Town, chose to build a new town centre, rejecting Old Hatfield because it was on the wrong side of the railway, without space for expansion and "with its intimate village character, out of scale with the town it would have to serve."[10] They chose instead St Albans Road on the town's east-west bus route. A road pattern was planned that offered no temptation to through traffic to take short cuts through the town and which enabled local traffic to move rapidly.[11]
+The Abercrombie Plan for London in 1944 proposed a New Town in Hatfield. It was designated in the New Towns Act 1946, forming part of the initial Hertfordshire group with nearby Stevenage, Welwyn Garden City and Letchworth. The Government allocated for Hatfield New Town, with a population target of 25,000.[8] (By 2001 the population had reached 27,833.[9]) The Hatfield Development Corporation, tasked with creating the New Town, chose to build a new town centre, rejecting Old Hatfield because it was on the wrong side of the railway, without space for expansion and "with its intimate village character, out of scale with the town it would have to serve."[10] They chose instead St Albans Road on the town's east-west bus route. A road pattern was planned that offered no temptation to through traffic to take short cuts through the town and which enabled local traffic to move rapidly.[11]
 
 Hatfield retains New Town characteristics, including much modernist architecture of the 1950s and the trees and open spaces that were outlined in the original design. As of 2017, a redevelopment of the town centre was planned.[12]
 
@@ -53,7 +52,7 @@ Hatfield experiences an oceanic climate (Köppen climate classification _Cfb_) l
 
 Culture and recreation
 
-Hatfield_Galleria_exterior.jpg tmob_hatfield.jpg Head Office in Hatfield Business Park.]] 07-11-05_Hatfield_50.jpg.]] Hatfield_railway_station.jpg Hatfield_GascoyneCecil_statue.jpg in front of the park gates of Hatfield House.]]
+Head Office in Hatfield Business Park.]] .]] in front of the park gates of Hatfield House.]]
 
 Hatfield has a nine-screen Odeon cinema, a stately home (Hatfield House), a museum (Mill Green Museum), a contemporary art gallery (Art and Design Gallery), a theatre (The Weston Auditorium) and a music venue (The Forum Hertfordshire). There are shopping centres in the new town: the Galleria (indoor shopping centre), The Stable Yard (Hatfield House), and at two supermarkets (ASDA and Tesco).
 

@@ -20,7 +20,7 @@ Aimery's youngest brother, Guy, married Baldwin IV's widowed sister, Sibylla, in
 
 Constable of Jerusalem
 
-Gui_sybila.jpg, and Sibylla, the sister of Baldwin IV of Jerusalem]] Map_Crusader_states_1165-en.svg
+, and Sibylla, the sister of Baldwin IV of Jerusalem]]
 
 Aimery was first mentioned as Constable of Jerusalem on 24 February 1182. According to Steven Runciman and Malcolm Barber, he had already been granted the office shortly after his predecessor, Humphrey II of Toron, died in April 1179. Historian Bernard Hamilton writes, Aimery's appointment was the consequence of the growing influence of his brother and he was appointed only around 1181.
 
@@ -43,7 +43,7 @@ Guy of Lusignan died in May 1194, and bequeathed Cyprus to his elder brother, Ge
 
 Aimery realized that the treasury of Cyprus was almost empty, because his brother had granted most landed property in the island to his supporters, according to Ernoul. He summoned his vassals to an assembly. After emphasizing that each of them owned more land than he had, he persuaded them one by one "either by force, or by friendship, or by agreement" to surrender some their rents and lands.
 
-Kaiser_Heinrich_VI._im_Codex_Manesse.jpg, Henry VI, who authorized the coronation of Aimery in exchange after Aimery acknowledged his suzerainty]]
+, Henry VI, who authorized the coronation of Aimery in exchange after Aimery acknowledged his suzerainty]]
 
 Aimery dispatched an embassy to Pope Celestine III, asking him to set up Roman Catholic dioceses in Cyprus. He also sent his representative, Rainier of Jebail, to the Holy Roman Emperor, Henry VI, proposing that he would acknowledge the emperor's suzerainty, if the emperor sent a royal crown to him. Aimery primarily wanted to secure the emperor's assistance against a potential Byzantine invasion of Cyprus, but he also wanted to strengthen his own legitimacy as king. Rainier of Jebail swore loyalty to Henry VI on behalf of Aimery in Gelnhausen in October 1196. The emperor who had decided to lead a crusade to the Holy Land promised that he would personally crown Aimery king. He dispatched the archbishops of Brindisi and Trani to take a golden sceptre to Aimery as a symbol of his right to rule Cyprus.
 
@@ -57,7 +57,7 @@ King of two realms
 
 Henry of Champagne fell from the window of his palace and died in Acre on 10 September 1197. The aristocratic, but impoverished Raoul of Saint Omer was one of the possible candidates to succeed him, but the grand masters of the military orders opposed him vehemently. A few days later, Al-Adil I, the Ayyubid sultan of Egypt, occupied Jaffa.
 
-Omfroi_isabela.jpg and her first husband, Humphrey IV of Toron]]
+and her first husband, Humphrey IV of Toron]]
 
 Conrad of Wittelsbach, Archbishop of Mainz, who arrived to Acre on 20 September, was the first to propose that the crown should be offered to Aimery. Since Aimery's first wife had died, he could marry the widowed Isabella I of Jerusalem, who was the queen. Although Aymar, Patriarch of Jerusalem, stated that the marriage would be uncanonical, Joscius, Archbishop of Tyre, started negotiations with Aimery who accepted the offer. The patriarch also withdrew his objections and crowned Aimery and Isabella king and queen in Tyre in January 1198.
 

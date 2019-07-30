@@ -1,5 +1,3 @@
-Mitrailleuse_Gatling_APX1895_Paris_FRA_001.jpg
-
 The GATLING GUN is one of the best-known early rapid-fire spring loaded, hand cranked weapons, and a forerunner of the modern machine gun and rotary cannon. Invented by Richard Gatling, it saw occasional use by the Union forces during the American Civil War in the 1860s, which was the first time it was employed in combat. It was later used in numerous military conflicts, including the Boshin War, the Anglo-Zulu War, and the assault on San Juan Hill during the Spanish–American War.[1] It was also used by the Pennsylvania militia in episodes of the Great Railroad Strike of 1877, specifically in Pittsburgh.
 
 The Gatling gun's operation centered on a cyclic multi-barrel design which facilitated cooling and synchronized the firing-reloading sequence. Each barrel fired a single shot when it reached a certain point in the cycle, after which it ejected the spent cartridge, loaded a new round, and, in the process, allowed the barrel to cool. This configuration allowed higher rates of fire to be achieved without the barrels overheating.
@@ -9,7 +7,7 @@ The Gatling gun was an early form of rotary cannon, and today modern rotary cann
 
 History
 
-GatlingGunDrawing.jpg for R. J. Gatling's "battery gun", 9 May 1865]] The Gatling gun was designed by the American inventor Dr. Richard J. Gatling in 1861 and patented on November 4, 1862.[2][3] Gatling wrote that he created it to reduce the size of armies and so reduce the number of deaths by combat and disease, and to show how futile war is.[4]
+for R. J. Gatling's "battery gun", 9 May 1865]] The Gatling gun was designed by the American inventor Dr. Richard J. Gatling in 1861 and patented on November 4, 1862.[2][3] Gatling wrote that he created it to reduce the size of armies and so reduce the number of deaths by combat and disease, and to show how futile war is.[4]
 
 Although the first Gatling gun was capable of firing continuously, it required a person to crank it; therefore it was not a true automatic weapon. The Maxim gun, invented and patented in 1883, was the first true fully automatic weapon, making use of the fired projectile's recoil force to reload the weapon. Nonetheless, the Gatling gun represented a huge leap in firearm technology.
 
@@ -39,7 +37,7 @@ Sustained firing of gunpowder cartridges generated a cloud of smoke, making conc
 
 In Africa and Asia
 
-Gatling_Guns_in_Action_WDL11499.png Gatling guns from the Second Anglo-Afghan War]]
+Gatling guns from the Second Anglo-Afghan War]]
 
 The Gatling gun was used most successfully to expand European colonial empires by defeating indigenous warriors mounting massed attacks, including the Matabele, the Zulu, the Bedouin, and the Mahdists.[20] Imperial Russia purchased 400 Gatling guns and used them against Turkmen cavalry and other nomads of central Asia.[21] The British Army first deployed the Gatling gun in 1873-4 during the Anglo-Ashanti wars, and extensively during the latter actions of the 1879 Anglo-Zulu war.[22] The Royal Navy used Gatling guns during the 1882 Anglo-Egyptian War.[23]
 
@@ -52,7 +50,7 @@ Despite this remarkable achievement, the Gatling's weight and cumbersome artille
 
 Basic design
 
-Gatling_gun_1865.jpg]]
+]]
 
 The Gatling gun operated by a hand-crank mechanism, with six barrels revolving around a central shaft (although some models had as many as ten). Each barrel fires once per revolution at about the same position. The barrels, a carrier, and a lock cylinder were separate and all mounted on a solid plate revolving around a central shaft, mounted on an oblong fixed frame. Turning the crank rotated the shaft. The carrier was grooved and the lock cylinder was drilled with holes corresponding to the barrels.
 

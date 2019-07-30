@@ -153,7 +153,7 @@ At the end of the meeting, the meeting adopted the "Pyeongchang Road Map," which
 
 2016 COP 13
 
-COP13_Mexico_conference.jpg The thirteenth ordinary meeting of the parties to the convention took place between 2 and 17 December 2016 in Cancun, Mexico.
+The thirteenth ordinary meeting of the parties to the convention took place between 2 and 17 December 2016 in Cancun, Mexico.
 
 2018 COP 14
 

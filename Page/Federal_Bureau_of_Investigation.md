@@ -13,7 +13,7 @@ The FBI was established in 1908 as the Bureau of Investigation, the BOI or BI fo
 
 Budget, mission, and priorities
 
-Domestic_Investigations_and_Operations_Guide.pdf In the fiscal year 2016, the Bureau's total budget was approximately $8.7 billion.[10]
+In the fiscal year 2016, the Bureau's total budget was approximately $8.7 billion.[10]
 
 The FBI's main goal is to protect and defend the United States, to uphold and enforce the criminal laws of the United States, and to provide leadership and criminal justice services to federal, state, municipal, and international agencies and partners.[11]
 
@@ -49,8 +49,6 @@ The bureau's first official task was visiting and making surveys of the houses o
 
 J. Edgar Hoover as FBI Director
 
-Hoover-JEdgar-LOC.jpg
-
 J. Edgar Hoover served as FBI Director from 1924 to 1972, a combined 48 years with the BOI, DOI, and FBI. He was chiefly responsible for creating the Scientific Crime Detection Laboratory, or the FBI Laboratory, which officially opened in 1932, as part of his work to professionalize investigations by the government. Hoover was substantially involved in most major cases and projects that the FBI handled during his tenure. But as detailed below, his proved to be a highly controversial tenure as Bureau Director, especially in its later years. After Hoover's death, the Congress passed legislation that limited the tenure of future FBI Directors to ten years.
 
 Early homicide investigations of the new agency included the Osage Indian murders. During the "War on Crime" of the 1930s, FBI agents apprehended or killed a number of notorious criminals who carried out kidnappings, robberies, and murders throughout the nation, including John Dillinger, "Baby Face" Nelson, Kate "Ma" Barker, Alvin "Creepy" Karpis, and George "Machine Gun" Kelly.
@@ -75,7 +73,7 @@ Civil rights movement
 
 During the 1950s and 1960s, FBI officials became increasingly concerned about the influence of civil rights leaders, whom they believed either had communist ties or were unduly influenced by communists or "fellow travellers." In 1956, for example, Hoover sent an open letter denouncing Dr. T. R. M. Howard, a civil rights leader, surgeon, and wealthy entrepreneur in Mississippi who had criticized FBI inaction in solving recent murders of George W. Lee, Emmett Till, and other blacks in the South.[39] The FBI carried out controversial domestic surveillance in an operation it called the COINTELPRO, from "COunter-INTELligence PROgram."[40] It was to investigate and disrupt the activities of dissident political organizations within the United States, including both militant and non-violent organizations. Among its targets was the Southern Christian Leadership Conference, a leading civil rights organization whose clergy leadership included the Rev. Dr. Martin Luther King, Jr., who is addressed in more detail below.[41]
 
-Mlk-uncovered-letter.png",[42] mailed anonymously to King by the FBI ]] The FBI frequently investigated Martin Luther King, Jr. In the mid-1960s, King began publicly criticizing the Bureau for giving insufficient attention to the use of terrorism by white supremacists. Hoover responded by publicly calling King the most "notorious liar" in the United States.[43] In his 1991 memoir, _Washington Post_ journalist Carl Rowan asserted that the FBI had sent at least one anonymous letter to King encouraging him to commit suicide.[44] Historian Taylor Branch documents an anonymous November 1964 "suicide package" sent by the Bureau that combined a letter to the civil rights leader telling him "You are done. There is only one way out for you..." with audio recordings of King's sexual indiscretions.[45]
+",[42] mailed anonymously to King by the FBI ]] The FBI frequently investigated Martin Luther King, Jr. In the mid-1960s, King began publicly criticizing the Bureau for giving insufficient attention to the use of terrorism by white supremacists. Hoover responded by publicly calling King the most "notorious liar" in the United States.[43] In his 1991 memoir, _Washington Post_ journalist Carl Rowan asserted that the FBI had sent at least one anonymous letter to King encouraging him to commit suicide.[44] Historian Taylor Branch documents an anonymous November 1964 "suicide package" sent by the Bureau that combined a letter to the civil rights leader telling him "You are done. There is only one way out for you..." with audio recordings of King's sexual indiscretions.[45]
 
 In March 1971, the residential office of an FBI agent in Media, Pennsylvania was burgled by a group calling itself the Citizens' Commission to Investigate the FBI. Numerous files were taken and distributed to a range of newspapers, including _The Harvard Crimson._[46] The files detailed the FBI's extensive COINTELPRO program, which included investigations into lives of ordinary citizens—including a black student group at a Pennsylvania military college and the daughter of Congressman Henry Reuss of Wisconsin.[47] The country was "jolted" by the revelations, which included assassinations of political activists, and the actions were denounced by members of the Congress, including House Majority Leader Hale Boggs.[48] The phones of some members of the Congress, including Boggs, had allegedly been tapped.[49]
 
@@ -85,19 +83,19 @@ When President John F. Kennedy was shot and killed, the jurisdiction fell to the
 
 Organized crime
 
-Donnie_Brasco.jpg (aka Donnie Brasco), Benjamin "Lefty" Ruggiero and Edgar Robb (aka Tony Rossi), 1980s]] In response to organized crime, on August 25, 1953, the FBI created the Top Hoodlum Program. The national office directed field offices to gather information on mobsters in their territories and to report it regularly to Washington for a centralized collection of intelligence on racketeers.[54] After the Racketeer Influenced and Corrupt Organizations Act, or RICO Act, took effect, the FBI began investigating the former Prohibition-organized groups, which had become fronts for crime in major cities and small towns. All of the FBI work was done undercover and from within these organizations, using the provisions provided in the RICO Act. Gradually the agency dismantled many of the groups. Although Hoover initially denied the existence of a National Crime Syndicate in the United States, the Bureau later conducted operations against known organized crime syndicates and families, including those headed by Sam Giancana and John Gotti. The RICO Act is still used today for all organized crime and any individuals who may fall under the Act's provisions.
+(aka Donnie Brasco), Benjamin "Lefty" Ruggiero and Edgar Robb (aka Tony Rossi), 1980s]] In response to organized crime, on August 25, 1953, the FBI created the Top Hoodlum Program. The national office directed field offices to gather information on mobsters in their territories and to report it regularly to Washington for a centralized collection of intelligence on racketeers.[54] After the Racketeer Influenced and Corrupt Organizations Act, or RICO Act, took effect, the FBI began investigating the former Prohibition-organized groups, which had become fronts for crime in major cities and small towns. All of the FBI work was done undercover and from within these organizations, using the provisions provided in the RICO Act. Gradually the agency dismantled many of the groups. Although Hoover initially denied the existence of a National Crime Syndicate in the United States, the Bureau later conducted operations against known organized crime syndicates and families, including those headed by Sam Giancana and John Gotti. The RICO Act is still used today for all organized crime and any individuals who may fall under the Act's provisions.
 
 In 2003, a congressional committee called the FBI's organized crime informant program "one of the greatest failures in the history of federal law enforcement."[55] The FBI allowed four innocent men to be convicted of the March 1965 gangland murder of Edward "Teddy" Deegan in order to protect Vincent Flemmi, an FBI informant. Three of the men were sentenced to death (which was later reduced to life in prison), and the fourth defendant was sentenced to life in prison.[56] Two of the four men died in prison after serving almost 30 years, and two others were released after serving 32 and 36 years. In July 2007, U.S. District Judge Nancy Gertner in Boston found that the Bureau had helped convict the four men using false witness accounts given by mobster Joseph Barboza. The U.S. Government was ordered to pay $100 million in damages to the four defendants.[57]
 
 Special FBI teams
 
-FBI_SWAT_team_Watervliet_Arsenal.jpg agents in a training exercise]] In 1982, the FBI formed an elite unit[58] to help with problems that might arise at the 1984 Summer Olympics to be held in Los Angeles, particularly terrorism and major-crime. This was a result of the 1972 Summer Olympics in Munich, Germany, when terrorists murdered the Israeli athletes. Named the Hostage Rescue Team, or HRT, it acts as a dedicated FBI SWAT team dealing primarily with counter-terrorism scenarios. Unlike the Special Agents serving on local FBI SWAT teams, HRT does not conduct investigations. Instead, HRT focuses solely on additional tactical proficiency and capabilities. Also formed in 1984 was the _Computer Analysis and Response Team_, or CART.[59]
+agents in a training exercise]] In 1982, the FBI formed an elite unit[58] to help with problems that might arise at the 1984 Summer Olympics to be held in Los Angeles, particularly terrorism and major-crime. This was a result of the 1972 Summer Olympics in Munich, Germany, when terrorists murdered the Israeli athletes. Named the Hostage Rescue Team, or HRT, it acts as a dedicated FBI SWAT team dealing primarily with counter-terrorism scenarios. Unlike the Special Agents serving on local FBI SWAT teams, HRT does not conduct investigations. Instead, HRT focuses solely on additional tactical proficiency and capabilities. Also formed in 1984 was the _Computer Analysis and Response Team_, or CART.[59]
 
 From the end of the 1980s to the early 1990s, the FBI reassigned more than 300 agents from foreign counter-intelligence duties to violent crime, and made violent crime the sixth national priority. With reduced cuts to other well-established departments, and because terrorism was no longer considered a threat after the end of the Cold War,[60] the FBI assisted local and state police forces in tracking fugitives who had crossed state lines, which is a federal offense. The FBI Laboratory helped develop DNA testing, continuing its pioneering role in identification that began with its fingerprinting system in 1924.
 
 Notable efforts in the 1990s
 
-Fbi_egypt_air_990.jpg from EgyptAir Flight 990 on the deck of the USS _Grapple_ (ARS 53) at the crash site on November 13, 1999.]]
+from EgyptAir Flight 990 on the deck of the USS _Grapple_ (ARS 53) at the crash site on November 13, 1999.]]
 
 Between 1993 and 1996, the FBI increased its counter-terrorism role in the wake of the first 1993 World Trade Center bombing in New York City, New York; the 1995 Oklahoma City bombing in Oklahoma City, Oklahoma; and the arrest of the Unabomber in 1996. Technological innovation and the skills of FBI Laboratory analysts helped ensure that the three cases were successfully prosecuted.[61] But Justice Department investigations into the FBI's roles in the Ruby Ridge and Waco incidents were found to have been obstructed by agents within the Bureau. During the 1996 Summer Olympics in Atlanta, Georgia, the FBI was criticized for its investigation of the Centennial Olympic Park bombing. It has settled a dispute with Richard Jewell, who was a private security guard at the venue, along with some media organizations,[62] in regard to the leaking of his name during the investigation; this had briefly led to his being wrongly suspected of the bombing.
 
@@ -105,7 +103,7 @@ After Congress passed the Communications Assistance for Law Enforcement Act (CAL
 
 September 11 attacks
 
-9-11_Pentagon_Emergency_Response_3.jpg During the September 11, 2001, attacks on the World Trade Center, FBI agent Leonard W. Hatton Jr. was killed during the rescue effort while helping the rescue personnel evacuate the occupants of the South Tower, and he stayed when it collapsed. Within months after the attacks, FBI Director Robert Mueller, who had been sworn in a week before the attacks, called for a re-engineering of FBI structure and operations. He made countering every federal crime a top priority, including the prevention of terrorism, countering foreign intelligence operations, addressing cyber security threats, other high-tech crimes, protecting civil rights, combating public corruption, organized crime, white-collar crime, and major acts of violent crime.[63]
+During the September 11, 2001, attacks on the World Trade Center, FBI agent Leonard W. Hatton Jr. was killed during the rescue effort while helping the rescue personnel evacuate the occupants of the South Tower, and he stayed when it collapsed. Within months after the attacks, FBI Director Robert Mueller, who had been sworn in a week before the attacks, called for a re-engineering of FBI structure and operations. He made countering every federal crime a top priority, including the prevention of terrorism, countering foreign intelligence operations, addressing cyber security threats, other high-tech crimes, protecting civil rights, combating public corruption, organized crime, white-collar crime, and major acts of violent crime.[63]
 
 In February 2001, Robert Hanssen was caught selling information to the Russian government. It was later learned that Hanssen, who had reached a high position within the FBI, had been selling intelligence since as early as 1979. He pleaded guilty to espionage and received a life sentence in 2002, but the incident led many to question the security practices employed by the FBI. There was also a claim that Hanssen might have contributed information that led to the September 11, 2001 attacks.[64]
 
@@ -124,7 +122,7 @@ Organization
 
 Organizational structure
 
-FBI_Field_Divisions_map.png FBI_organizational_chart_-_2014.jpg Counterterrorism_Policy_Directive_and_Policy_Guide_(redacted).pdf)]]
+)]]
 
 The FBI is organized into functional branches and the Office of the Director, which contains most administrative offices. An executive assistant director manages each branch. Each branch is then divided into offices and divisions, each headed by an assistant director. The various divisions are further divided into sub-branches, led by deputy assistant directors. Within these sub-branches there are various sections headed by section chiefs. Section chiefs are ranked analogous to special agents in charge.
 
@@ -156,8 +154,6 @@ The Office of the Director serves as the central administrative organ of the FBI
     -   Information Management Division
     -   Office of the Chief Information Officer
 
-2008_San_Diego_federal_Courthouse_bombing.jpg
-
 Rank structure
 
 The following is a listing of the rank structure found within the FBI (in ascending order):[71]
@@ -168,7 +164,7 @@ The following is a listing of the rank structure found within the FBI (in ascend
     -   Senior Special Agent
     -   Supervisory Special Agent
     -   Assistant Special Agent-in-Charge (ASAC)
-    -   Special Agent-in-Charge (SAC)Mueller_comey_obama_september_2013.jpg speaks at the White House following his nomination by President Barack Obama to be the next director of the FBI, June 21, 2013]]
+    -   Special Agent-in-Charge (SAC) speaks at the White House following his nomination by President Barack Obama to be the next director of the FBI, June 21, 2013]]
 -   FBI Management
     -   Deputy Assistant Director
     -   Assistant Director
@@ -183,7 +179,7 @@ The following is a listing of the rank structure found within the FBI (in ascend
 
 Legal authority
 
-FBI_Badge_&_gun.jpg Model 22, .40 S&W caliber]]
+Model 22, .40 S&W caliber]]
 
 The FBI's mandate is established in Title 28 of the United States Code (U.S. Code), Section 533, which authorizes the Attorney General to "appoint officials to detect and prosecute crimes against the United States."[72] Other federal statutes give the FBI the authority and responsibility to investigate specific crimes.
 
@@ -201,7 +197,7 @@ The FBI often works in conjunction with other federal agencies, including the U.
 
 Indian reservations
 
-FBI_Director_Visits_North_Dakota_Indian_Reservation_(27474029651).jpg in North Dakota]]
+in North Dakota]]
 
 The federal government has the primary responsibility for investigating[76] and prosecuting serious crime on Indian reservations.[77]
 
@@ -210,7 +206,7 @@ The FBI does not specifically list crimes in Native American land as one of its 
 
 Infrastructure
 
-Fbi_headquarters.jpg, FBI Headquarters]] Fbi_mobile_command_center_2.jpg]]
+, FBI Headquarters]] ]]
 
 The FBI is headquartered at the J. Edgar Hoover Building in Washington, D.C., with 56 field offices[81] in major cities across the United States. The FBI also maintains over 400 resident agencies across the United States, as well as over 50 legal attachés at United States embassies and consulates. Many specialized FBI functions are located at facilities in Quantico, Virginia, as well as a "data campus" in Clarksburg, West Virginia, where 96 million sets of fingerprints "from across the United States are stored, along with others collected by American authorities from prisoners in Saudi Arabia and Yemen, Iraq and Afghanistan."[82] The FBI is in process of moving its Records Management Division, which processes Freedom of Information Act (FOIA) requests, to Winchester, Virginia.[83]
 
@@ -218,11 +214,11 @@ According to _The Washington Post_, the FBI "is building a vast repository contr
 
 The FBI Laboratory, established with the formation of the BOI,[85] did not appear in the J. Edgar Hoover Building until its completion in 1974. The lab serves as the primary lab for most DNA, biological, and physical work. Public tours of FBI headquarters ran through the FBI laboratory workspace before the move to the J. Edgar Hoover Building. The services the lab conducts include _Chemistry_, _Combined DNA Index System_ (CODIS), _Computer Analysis and Response_, _DNA Analysis_, _Evidence Response_, _Explosives_, _Firearms and Tool marks_, _Forensic Audio_, _Forensic Video_, _Image Analysis_, _Forensic Science Research_, _Forensic Science Training_, _Hazardous Materials Response_, _Investigative and Prospective Graphics_, _Latent Prints_, _Materials Analysis_, _Questioned Documents_, _Racketeering Records_, _Special Photographic Analysis_, _Structural Design_, and _Trace Evidence_.[86] The services of the FBI Laboratory are used by many state, local, and international agencies free of charge. The lab also maintains a second lab at the FBI Academy.
 
-The FBI Academy, located in Quantico, Virginia, is home to the communications and computer laboratory the FBI utilizes. It is also where new agents are sent for training to become FBI Special Agents. Going through the 21-week course is required for every Special Agent.[87] First opened for use in 1972, the facility located on 385 acres (1.6 km²) of woodland. The Academy trains state and local law enforcement agencies, which are invited to the law enforcement training center. The FBI units that reside at Quantico are the _Field and Police Training Unit_, _Firearms Training Unit_, _Forensic Science Research and Training Center_, _Technology Services Unit_ (TSU), _Investigative Training Unit_, _Law Enforcement Communication Unit_, _Leadership and Management Science Units_ (LSMU), _Physical Training Unit_, _New Agents' Training Unit_ (NATU), _Practical Applications Unit_ (PAU), the _Investigative Computer Training Unit_ and the "College of Analytical Studies." FBI_Academy.jpg, located in Quantico, Virginia]]
+The FBI Academy, located in Quantico, Virginia, is home to the communications and computer laboratory the FBI utilizes. It is also where new agents are sent for training to become FBI Special Agents. Going through the 21-week course is required for every Special Agent.[87] First opened for use in 1972, the facility located on 385 acres (1.6 km²) of woodland. The Academy trains state and local law enforcement agencies, which are invited to the law enforcement training center. The FBI units that reside at Quantico are the _Field and Police Training Unit_, _Firearms Training Unit_, _Forensic Science Research and Training Center_, _Technology Services Unit_ (TSU), _Investigative Training Unit_, _Law Enforcement Communication Unit_, _Leadership and Management Science Units_ (LSMU), _Physical Training Unit_, _New Agents' Training Unit_ (NATU), _Practical Applications Unit_ (PAU), the _Investigative Computer Training Unit_ and the "College of Analytical Studies." , located in Quantico, Virginia]]
 
 In 2000, the FBI began the Trilogy project to upgrade its outdated information technology (IT) infrastructure. This project, originally scheduled to take three years and cost around $380 million, ended up over budget and behind schedule.[88] Efforts to deploy modern computers and networking equipment were generally successful, but attempts to develop new investigation software, outsourced to Science Applications International Corporation (SAIC), were not. Virtual Case File, or VCF, as the software was known, was plagued by poorly defined goals, and repeated changes in management.[89] In January 2005, more than two years after the software was originally planned for completion, the FBI officially abandoned the project. At least $100 million (and much more by some estimates) was spent on the project, which never became operational. The FBI has been forced to continue using its decade-old Automated Case Support system, which IT experts consider woefully inadequate. In March 2005, the FBI announced it was beginning a new, more ambitious software project, code-named Sentinel, which they expected to complete by 2009.[90]
 
-FBI_Field_Office_in_Chelsea_Massachusetts.jpg]] Carnivore was an electronic eavesdropping software system implemented by the FBI during the Clinton administration; it was designed to monitor email and electronic communications. After prolonged negative coverage in the press, the FBI changed the name of its system from "Carnivore" to "DCS1000." DCS is reported to stand for "Digital Collection System"; the system has the same functions as before. The Associated Press reported in mid-January 2005 that the FBI essentially abandoned the use of Carnivore in 2001, in favor of commercially available software, such as NarusInsight.
+]] Carnivore was an electronic eavesdropping software system implemented by the FBI during the Clinton administration; it was designed to monitor email and electronic communications. After prolonged negative coverage in the press, the FBI changed the name of its system from "Carnivore" to "DCS1000." DCS is reported to stand for "Digital Collection System"; the system has the same functions as before. The Associated Press reported in mid-January 2005 that the FBI essentially abandoned the use of Carnivore in 2001, in favor of commercially available software, such as NarusInsight.
 
 The Criminal Justice Information Services (CJIS) Division[91] is located in Clarksburg, West Virginia. Organized beginning in 1991, the office opened in 1995 as the youngest agency division. The complex is the length of three football fields. It provides a main repository for information in various data systems. Under the roof of the CJIS are the programs for the _National Crime Information Center_ (NCIC), _Uniform Crime Reporting_ (UCR), _Fingerprint Identification_, _Integrated Automated Fingerprint Identification System_ (IAFIS), _NCIC 2000_, and the _National Incident-Based Reporting System_ (NIBRS). Many state and local agencies use these data systems as a source for their own investigations and contribute to the database using secure communications. FBI provides these tools of sophisticated identification and information services to local, state, federal, and international law enforcement agencies.
 
@@ -231,7 +227,7 @@ FBI is in charge of National Virtual Translation Center, which provides "timely 
 
 Personnel
 
-FBI_Evidence_Response_Team.jpg Potential_Agents_on_the_FBI_Fireing_Range.jpg firing range]]
+firing range]]
 
 , the FBI had a total of 33,852 employees. That includes 13,412 special agents and 20,420 support professionals, such as intelligence analysts, language specialists, scientists, information technology specialists, and other professionals.[93]
 
@@ -252,7 +248,7 @@ The FBI director is responsible for the day-to-day operations at the FBI. Along 
 
 Firearms
 
-Glock22inOliveDrab.jpg Upon qualification, an FBI special agent is issued a full-size Glock 22 or compact Glock 23 semi-automatic pistol, both of which are chambered in the .40 S&W cartridge. In May 1997, the FBI officially adopted the Glock, in .40 S&W, for general agent use, and first issued it to New Agent Class 98-1 in October 1997. At present, the Glock 23 "FG&R" (finger groove and rail; either 3rd generation or "Gen4") is the issue sidearm.[103] New agents are issued firearms, on which they must qualify, on successful completion of their training at the FBI Academy. The Glock 26 (subcompact 9mm Parabellum), Glock 23 and Glock 27 (.40 S&W compact and subcompact, respectively) are authorized as secondary weapons. Special agents are also authorized to purchase and qualify with the Glock 21 in .45 ACP.[104]
+Upon qualification, an FBI special agent is issued a full-size Glock 22 or compact Glock 23 semi-automatic pistol, both of which are chambered in the .40 S&W cartridge. In May 1997, the FBI officially adopted the Glock, in .40 S&W, for general agent use, and first issued it to New Agent Class 98-1 in October 1997. At present, the Glock 23 "FG&R" (finger groove and rail; either 3rd generation or "Gen4") is the issue sidearm.[103] New agents are issued firearms, on which they must qualify, on successful completion of their training at the FBI Academy. The Glock 26 (subcompact 9mm Parabellum), Glock 23 and Glock 27 (.40 S&W compact and subcompact, respectively) are authorized as secondary weapons. Special agents are also authorized to purchase and qualify with the Glock 21 in .45 ACP.[104]
 
 Special agents of the FBI Hostage Rescue Team (HRT) and regional SWAT teams are issued the Springfield Armory Professional Model 1911 pistol in .45 ACP.[105][106][107]
 
@@ -294,7 +290,7 @@ Throughout its history, the FBI has been the subject of many controversies, both
 
 Media portrayal
 
-Gillian_Anderson_&_David_Duchovny_(9344570889).jpg'' depicts the fictional FBI Special Agents Dana Scully (Gillian Anderson) and Fox Mulder (David Duchovny) who investigate paranormal phenomena.]] The FBI has been frequently depicted in popular media since the 1930s. The bureau has participated to varying degrees, which has ranged from direct involvement in the creative process of film or TV series development, to providing consultation on operations and closed cases.[121] A few of the notable portrayals of the FBI on television are the series _The X-Files_, which started in 1993 and concluded its eleventh season in early 2018, and concerned investigations into paranormal phenomena by five fictional Special Agents, and the fictional Counter Terrorist Unit (CTU) agency in the TV drama _24_, which is patterned after the FBI Counterterrorism Division. The 1991 movie _Point Break_ depicts an undercover FBI agent who infiltrated a gang of bank robbers. The 1997 movie _Donnie Brasco_ is based on the true story of undercover FBI agent Joseph D. Pistone infiltrating the Mafia. The 2015 TV series _Quantico_, titled after the location of the Bureau's training facility, deals with Probationary and Special Agents, not all of whom, within the show's format, may be fully reliable or even trustworthy.
+'' depicts the fictional FBI Special Agents Dana Scully (Gillian Anderson) and Fox Mulder (David Duchovny) who investigate paranormal phenomena.]] The FBI has been frequently depicted in popular media since the 1930s. The bureau has participated to varying degrees, which has ranged from direct involvement in the creative process of film or TV series development, to providing consultation on operations and closed cases.[121] A few of the notable portrayals of the FBI on television are the series _The X-Files_, which started in 1993 and concluded its eleventh season in early 2018, and concerned investigations into paranormal phenomena by five fictional Special Agents, and the fictional Counter Terrorist Unit (CTU) agency in the TV drama _24_, which is patterned after the FBI Counterterrorism Division. The 1991 movie _Point Break_ depicts an undercover FBI agent who infiltrated a gang of bank robbers. The 1997 movie _Donnie Brasco_ is based on the true story of undercover FBI agent Joseph D. Pistone infiltrating the Mafia. The 2015 TV series _Quantico_, titled after the location of the Bureau's training facility, deals with Probationary and Special Agents, not all of whom, within the show's format, may be fully reliable or even trustworthy.
 
 The Bureau of Investigation is also depicted in the 2010 video game Red Dead Redemption, where the story follows the protagonist John Marston as he tries to brings three of the members of his old outlaws gang to justice to free his wife and son from the Bureau.
 

@@ -7,7 +7,7 @@ In September 2018, researchers at the National Geospatial-Intelligence Agency re
 
 Regions
 
-Antarctica.A2010286.0735.250m.jpg Antarctica.A2010287.0140.250m.jpg Physically, Antarctica is divided in two by Transantarctic Mountains close to the neck between the Ross Sea and the Weddell Sea. Western Antarctica and Eastern Antarctica correspond roughly to the eastern and western hemispheres relative to the Greenwich meridian. This usage has been regarded as Eurocentric by some, and the alternative terms Lesser Antarctica and Greater Antarctica (respectively) are sometimes preferred.
+Physically, Antarctica is divided in two by Transantarctic Mountains close to the neck between the Ross Sea and the Weddell Sea. Western Antarctica and Eastern Antarctica correspond roughly to the eastern and western hemispheres relative to the Greenwich meridian. This usage has been regarded as Eurocentric by some, and the alternative terms Lesser Antarctica and Greater Antarctica (respectively) are sometimes preferred.
 
 Lesser Antarctica is covered by the West Antarctic Ice Sheet. There has been some concern about this ice sheet, because there is a small chance that it will collapse. If it does, ocean levels would rise by a few metres in a very short period of time.
 
@@ -66,9 +66,7 @@ There are three vast canyons that run for hundreds of kilometers, cutting throug
 
 West Antarctica
 
-Antarctica.svg
-
-Antarctica_(6),_Laubeuf_Fjord,_Webb_Island.JPG area, with fjords, high coastal mountains and islands. Click on the image for geographical details.]] West Antarctica is the smaller part of the continent, divided into:
+area, with fjords, high coastal mountains and islands. Click on the image for geographical details.]] West Antarctica is the smaller part of the continent, divided into:
 
 Areas
 
@@ -116,7 +114,7 @@ For a list of all Antarctic islands see List of Antarctic and sub-Antarctic isla
 
 East Antarctica
 
-Antarctica.svg East Antarctica is the larger part of the continent, both the South Magnetic Pole and geographic South Pole are situated here. Divided into:
+East Antarctica is the larger part of the continent, both the South Magnetic Pole and geographic South Pole are situated here. Divided into:
 
 Areas
 

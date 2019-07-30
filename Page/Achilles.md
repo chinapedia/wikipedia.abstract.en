@@ -1,4 +1,4 @@
-Achilles_fighting_against_Memnon_Leiden_Rijksmuseum_voor_Oudheden.jpg (dating to 300 BC) of Achilles killing the Ethiopian king Memnon, who fought as an ally of the Trojans during the Trojan War]]
+(dating to 300 BC) of Achilles killing the Ethiopian king Memnon, who fought as an ally of the Trojans during the Trojan War]]
 
 In Greek mythology, ACHILLES or ACHILLEUS ( ; , _Achilleus_ ) was a hero of the Trojan War, the greatest of all the Greek warriors, and is the central character of Homer's _Iliad_. He was the son of the Nereid Thetis and Peleus, king of Phthia.
 
@@ -11,7 +11,7 @@ Linear B tablets attest to the personal name _Achilleus_ in the forms _a-ki-re-u
 
 Achilles' name can be analyzed as a combination of (__) "distress, pain, sorrow, grief"[4] and (__) "people, soldiers, nation", resulting in a proto-form _*Akhí-lāu̯os_ "he who has the people distressed" or "he whose people have distress".[5][6] The grief or distress of the people is a theme raised numerous times in the _Iliad_ (and frequently by Achilles himself). Achilles' role as the hero of grief or distress forms an ironic juxtaposition with the conventional view of him as the hero of __ ("glory", usually in war). Furthermore, _laós_ has been construed by Gregory Nagy, following Leonard Palmer, to mean "a corps of soldiers", a muster.[7] With this derivation, the name obtains a double meaning in the poem: when the hero is functioning rightly, his men bring distress to the enemy, but when wrongly, his men get the grief of war. The poem is in part about the misdirection of anger on the part of leadership.
 
-The_Education_of_Achilles_1862_Delacroix.jpg, pastel on paper, c. 1862 (Getty Center, Los Angeles)]]
+, pastel on paper, c. 1862 (Getty Center, Los Angeles)]]
 
 Another etymology relates the name to a Proto-Indo-European compound _*h₂eḱ-pṓds_ "sharp foot" which first gave an Illyrian _*āk̂pediós_, evolving through time into _*ākhpdeós_ and then _*akhiddeús_. The shift from _-dd-_ to _-ll-_ is then ascribed to the passing of the name into Greek via a Pre-Greek source. The first root part _*h₂eḱ-_ "sharp, pointed" also gave Greek ἀκή (_akḗ_ "point, silence, healing"), ἀκμή (_akmḗ_ "point, edge, zenith") and ὀξύς (_oxús_ "sharp, pointed, keen, quick, clever"), whereas ἄχος stems from the root _*h₂egʰ-_ "to be upset, afraid". The whole expression would be comparable to the Latin _acupedius_ "swift of foot". Compare also the Latin word family of _aciēs_ "sharp edge or point, battle line, battle, engagement", _acus_ "needle, pin, bodkin", and _acuō_ "to make pointed, sharpen, whet; to exercise; to arouse" (whence _acute_).[8] Some topical epitheta of Achilles in the _Iliad_ point to this "swift-footedness", namely ποδάρκης δῖος Ἀχιλλεὺς (_podárkēs dĩos Achilleús_ "swift-footed divine Achilles")[9] or, even more frequently, πόδας ὠκὺς Ἀχιλλεύς (_pódas ōkús Achilleús_ "quick-footed Achilles").[10]
 
@@ -22,11 +22,11 @@ Birth and early years
 
 Achilles was the son of the Nereid Thetis and of Peleus, the king of the Myrmidons. Zeus and Poseidon had been rivals for the hand of Thetis until Prometheus, the fore-thinker, warned Zeus of a prophecy (originally uttered by Themis, goddess of divine law) that Thetis would bear a son greater than his father. For this reason, the two gods withdrew their pursuit, and had her wed Peleus.[14]
 
-Peter_Paul_Rubens_181.jpg (c. 1625; Museum Boijmans Van Beuningen, Rotterdam)]]
+(c. 1625; Museum Boijmans Van Beuningen, Rotterdam)]]
 
 There is a tale which offers an alternative version of these events: In the _Argonautica_ (4.760) Zeus' sister and wife Hera alludes to Thetis' chaste resistance to the advances of Zeus, pointing out that Thetis was so loyal to Hera's marriage bond that she coolly rejected the father of gods. Thetis, although a daughter of the sea-god Nereus, was also brought up by Hera, further explaining her resistance to the advances of Zeus. Zeus was furious and decreed that she would never marry an immortal.[15]
 
-Achilleus_Lyra.jpg teaching Achilles how to play the lyre, Roman fresco from Herculaneum, 1st century AD]] The_Education_of_Achilles,_by_James_Barry.jpg (Yale Center for British Art)]]
+teaching Achilles how to play the lyre, Roman fresco from Herculaneum, 1st century AD]] (Yale Center for British Art)]]
 
 According to the _Achilleid_, written by Statius in the 1st century AD, and to non-surviving previous sources, when Achilles was born Thetis tried to make him immortal by dipping him in the river Styx.[16] However, he was left vulnerable at the part of the body by which she held him: his left heel[17] (see Achilles' heel, Achilles' tendon). It is not clear if this version of events was known earlier. In another version of this story, Thetis anointed the boy in ambrosia and put him on top of a fire in order to burn away the mortal parts of his body. She was interrupted by Peleus and abandoned both father and son in a rage.[18]
 
@@ -59,7 +59,7 @@ Some post-Homeric sources[24] claim that in order to keep Achilles safe from the
 
 In the Trojan War
 
-Achilles_Agamemnon_Pompei_mosaic_NAMNaples_10006.jpg, from a fresco of Pompeii, 1st century AD]]
+, from a fresco of Pompeii, 1st century AD]]
 
 According to the _Iliad_, Achilles arrived at Troy with 50 ships, each carrying 50 Myrmidons. He appointed five leaders (each leader commanding 500 Myrmidons): Menesthius, Eudorus, Peisander, Phoenix and Alcimedon.[25]
 
@@ -71,7 +71,7 @@ According to other reports in Euripides' lost play about Telephus, he went to Au
 
 Troilus
 
-Achilles_slaying_Troilus.PNG]]
+]]
 
 According to the _Cypria_ (the part of the Epic Cycle that tells the events of the Trojan War before Achilles' wrath), when the Achaeans desired to return home, they were restrained by Achilles, who afterwards attacked the cattle of Aeneas, sacked neighbouring cities (like Pedasus and Lyrnessus, where the Greeks capture the queen Briseis) and killed Tenes, a son of Apollo, as well as Priam's son Troilus in the sanctuary of Apollo Thymbraios.[28] However, the romance between Troilus and Chryseis described in Geoffrey Chaucer's _Troilus and Criseyde_ and in William Shakespeare's _Troilus and Cressida_ is a medieval invention.[29]
 
@@ -79,7 +79,7 @@ In Dares Phrygius' _Account of the Destruction of Troy_,[30] the Latin summary t
 
 In the _Iliad_
 
-Achilles_Briseis_MAN_Napoli_Inv9105_n01.jpg to Agamemnon, from the House of the Tragic Poet in Pompeii, fresco, 1st century AD (Naples National Archaeological Museum)]]
+to Agamemnon, from the House of the Tragic Poet in Pompeii, fresco, 1st century AD (Naples National Archaeological Museum)]]
 
 Homer's _Iliad_ is the most famous narrative of Achilles' deeds in the Trojan War. Achilles' wrath (μῆνις Ἀχιλλέως, _mênis Achilléōs_) is the central theme of the poem. The first two lines of the _Iliad_ read:
 
@@ -92,7 +92,7 @@ The Homeric epic only covers a few weeks of the decade-long war, and does not na
 
 As the battle turns against the Greeks, thanks to the influence of Zeus, Nestor declares that the Trojans are winning because Agamemnon has angered Achilles, and urges the king to appease the warrior. Agamemnon agrees and sends Odysseus and two other chieftains, Ajax and Phoenix, to Achilles with the offer of the return of Briseis and other gifts. Achilles rejects all Agamemnon offers him and simply urges the Greeks to sail home as he was planning to do.
 
-The_Rage_of_Achilles_by_Giovanni_Battista_Tiepolo.jpeg (1757, Villa Valmarana ai Nani, Vicenza)]]
+(1757, Villa Valmarana ai Nani, Vicenza)]]
 
 The Trojans, led by Hector, subsequently push the Greek army back toward the beaches and assault the Greek ships. With the Greek forces on the verge of absolute destruction, Patroclus leads the Myrmidons into battle, wearing Achilles' armour, though Achilles remains at his camp. Patroclus succeeds in pushing the Trojans back from the beaches, but is killed by Hector before he can lead a proper assault on the city of Troy.
 
@@ -106,8 +106,6 @@ With the assistance of the god Hermes (Argeiphontes), Hector's father Priam goes
 
 Later epic accounts: fighting Penthesilea and Memnon
 
-Akhilleus_Memnon_Staatliche_Antikensammlungen_1410.jpg
-
 The _Aethiopis_ (7th century BC) and a work named _Posthomerica_, composed by Quintus of Smyrna in the fourth century AD, relate further events from the Trojan War. When Penthesilea, queen of the Amazons and daughter of Ares, arrives in Troy, Priam hopes that she will defeat Achilles. After his temporary truce with Priam, Achilles fights and kills the warrior queen, only to grieve over her death later.[40] At first, he was so distracted by her beauty, he did not fight as intensely as usual. Once he realized that his distraction was endangering his life, he refocused and killed her.
 
 Following the death of Patroclus, Nestor's son Antilochus becomes Achilles' closest companion. When Memnon, son of the Dawn Goddess Eos and king of Ethiopia, slays Antilochus, Achilles once more obtains revenge on the battlefield, killing Memnon. Consequently, Eos will not let the sun rise, until Zeus persuades her. The fight between Achilles and Memnon over Antilochus echoes that of Achilles and Hector over Patroclus, except that Memnon (unlike Hector) was also the son of a goddess.
@@ -116,15 +114,13 @@ Many Homeric scholars argued that episode inspired many details in the _Iliad_{{
 
 Achilles and Patroclus
 
-Akhilleus_Patroklos_Antikensammlung_Berlin_F2278.jpg, c. 500 BC (Altes Museum, Berlin)]]
+, c. 500 BC (Altes Museum, Berlin)]]
 
 The exact nature of Achilles' relationship with Patroclus has been a subject of dispute in both the classical period and modern times. In the _Iliad_, it appears to be the model of a deep and loyal friendship. Homer does not suggest that Achilles and his close friend Patroclus were lovers.[41][42] Despite there being no direct evidence in the text of the _Iliad_ that Achilles and Patroclus were lovers, this theory was expressed by some later authors.[43] Commentators from classical antiquity to the present have often interpreted the relationship through the lens of their own cultures. In 5th-century BC Athens, the intense bond was often viewed in light of the Greek custom of _paiderasteia_. In Plato's _Symposium_, the participants in a dialogue about love assume that Achilles and Patroclus were a couple; Phaedrus argues that Achilles was the younger and more beautiful one so he was the beloved and Patroclus was the lover.[44] But ancient Greek had no words to distinguish heterosexual and homosexual,[45] and it was assumed that a man could both desire handsome young men and have sex with women. Many pairs of men throughout history have been compared to Achilles and Patroclus to imply a homosexual relationship.
 
 Death
 
 The death of Achilles, even if considered solely as it occurred in the oldest sources, is a complex one, with many different versions.[46] In the oldest one, the Iliad, and as predicted by Hector with his dying breath, the hero's death was brought about by Paris with an arrow (to the heel according to Statius). In some versions, the god Apollo guided Paris' arrow. Some retellings also state that Achilles was scaling the gates of Troy and was hit with a poisoned arrow. All of these versions deny Paris any sort of valour, owing to the common conception that Paris was a coward and not the man his brother Hector was, and Achilles remained undefeated on the battlefield. His bones were mingled with those of Patroclus, and funeral games were held. He was represented in the _Aethiopis_ as living after his death in the island of Leuke at the mouth of the river Danube.
-
-Closeup_of_Achilles_thniskon_in_Corfu_Achilleion_autocorrected.JPG
 
 Another version of Achilles' death is that he fell deeply in love with one of the Trojan princesses, Polyxena. Achilles asks Priam for Polyxena's hand in marriage. Priam is willing because it would mean the end of the war and an alliance with the world's greatest warrior. But while Priam is overseeing the private marriage of Polyxena and Achilles, Paris, who would have to give up Helen if Achilles married his sister, hides in the bushes and shoots Achilles with a divine arrow, killing him.
 
@@ -136,7 +132,7 @@ According to some accounts, he had married Medea in life, so that after both the
 
 Fate of Achilles' armour
 
-Aias_body_Akhilleus_Staatliche_Antikensammlungen_1884.jpg black-figure lekythos from Sicily (c. 510 BC - Staatliche Antikensammlungen, Munich)]]
+black-figure lekythos from Sicily (c. 510 BC - Staatliche Antikensammlungen, Munich)]]
 
 Achilles' armour was the object of a feud between Odysseus and Telamonian Ajax (Ajax the greater). They competed for it by giving speeches on why they were the bravest after Achilles to their Trojan prisoners, who after considering both men, decided Odysseus was more deserving of the armour. Furious, Ajax cursed Odysseus, which earned him the ire of Athena. Athena temporarily made Ajax so mad with grief and anguish that he began killing sheep, thinking them his comrades. After a while, when Athena lifted his madness and Ajax realized that he had actually been killing sheep, Ajax was left so ashamed that he committed suicide. Odysseus eventually gave the armour to Neoptolemus, the son of Achilles.
 
@@ -149,7 +145,7 @@ Numerous paintings on pottery have suggested a tale not mentioned in the literar
 
 Worship and heroic cult
 
-Tumulus_of_Achilles_and_sacrifice_of_Polyxena.jpg in front, on the Polyxena sarcophagus, circa 500 BC.[57]]] Achilles_Troilus_MAN_Napoli_Inv5999.jpg)]] The tomb of Achilles,[58] extant throughout antiquity in Troad,[59] was venerated by Thessalians, but also by Persian expeditionary forces, as well as by Alexander the Great and the Roman emperor Caracalla.[60] Achilles' cult was also to be found at other places, e. g. on the island of Astypalaea in the Sporades,[61] in Sparta which had a sanctuary,[62] in Elis and in Achilles' homeland Thessaly, as well as in the Magna Graecia cities of Tarentum, Locri and Croton,[63] accounting for an almost Panhellenic cult to the hero.
+in front, on the Polyxena sarcophagus, circa 500 BC.[57]]] )]] The tomb of Achilles,[58] extant throughout antiquity in Troad,[59] was venerated by Thessalians, but also by Persian expeditionary forces, as well as by Alexander the Great and the Roman emperor Caracalla.[60] Achilles' cult was also to be found at other places, e. g. on the island of Astypalaea in the Sporades,[61] in Sparta which had a sanctuary,[62] in Elis and in Achilles' homeland Thessaly, as well as in the Magna Graecia cities of Tarentum, Locri and Croton,[63] accounting for an almost Panhellenic cult to the hero.
 
 The cult of Achilles is illustrated in the 500 BC Polyxena sarcophagus, where the sacrifice of Polixena near the tumulus of Achilles is depicted.[64] Strabo (13.1.32) also suggested that such a cult of Achilles existed in Troad:[65][66]
 
@@ -193,15 +189,13 @@ Achilles was described by the Byzantine chronicler Leo the Deacon, not as Hellen
 
 In modern literature and arts
 
-Wenceslas_Hollar_-_Briseis_and_Achilles.jpg (1607–1677)]]
+(1607–1677)]]
 
-Peter_Paul_Rubens_-_The_Wrath_of_Achilles_-_Google_Art_Project.jpg]]
+]]
 
-Peter_Paul_Rubens_003.jpg]]
+]]
 
-Gottlieb_Schick_Achille_and_Agamemnon_1801.jpg
-
-Leon_Benouville_The_Wrath_of_Achilles.jpg (1847; Musée Fabre)]]
+(1847; Musée Fabre)]]
 
 Literature
 

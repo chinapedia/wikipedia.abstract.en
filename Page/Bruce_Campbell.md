@@ -16,7 +16,7 @@ Career
 
 Early years
 
-Bruce_Campbell_.jpg'' at a fan meet-and-greet]] Campbell began acting as a teenager and soon began making short Super 8 movies with friends. After meeting Sam Raimi in Wylie E. Groves High School, the two became very good friends and started making movies together. Campbell would go on to attend Western Michigan University while he continued to work on his acting career.[7] Campbell and Raimi collaborated on a 30-minute Super 8 version of the first _Evil Dead_ film, titled _Within the Woods_, which was initially used to attract investors.
+'' at a fan meet-and-greet]] Campbell began acting as a teenager and soon began making short Super 8 movies with friends. After meeting Sam Raimi in Wylie E. Groves High School, the two became very good friends and started making movies together. Campbell would go on to attend Western Michigan University while he continued to work on his acting career.[7] Campbell and Raimi collaborated on a 30-minute Super 8 version of the first _Evil Dead_ film, titled _Within the Woods_, which was initially used to attract investors.
 
 Major film roles
 
@@ -26,7 +26,7 @@ Campbell was also drawn in the Marvel Zombie comics as his character, Ash Willia
 
 He has appeared in many of Raimi's films outside of the _Evil Dead_ series, notably having cameos in the director's _Spider-Man_ film series. Campbell also joined the cast in Raimi's _Darkman_ and _The Quick and the Dead_, though having no actual screen time in the latter film's theatrical cut.
 
-Bruce_Campbell_by_Gage_Skidmore.jpg in 2013]]
+in 2013]]
 
 Campbell often takes on quirky roles, such as Elvis Presley in the film _Bubba Ho-Tep_. Along with _Bubba Ho-Tep_, he played a supporting role in _Maniac Cop_ and _Maniac Cop 2_, and spoofed his career in the self-directed _My Name is Bruce._
 

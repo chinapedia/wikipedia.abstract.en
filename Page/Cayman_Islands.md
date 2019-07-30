@@ -5,11 +5,11 @@ The Cayman Islands is considered to be part of the geographic Western Caribbean 
 
 History
 
-No archaeological evidence for an indigenous presence has been founds on the islands[3] and it therefore thought they were discovered by Christopher Columbus on 10 May 1503 on his final voyage to the Americas.[4][5] He named 'Las Tortugas' due to the large number of turtles on the islands (which were soon hunted to near-extinction)[6][7], however in the succeeding decades the islands began to be referred to as the Caymans, after the caimans present there.[8][9] No immediate colonisation occurred following Columbus's discovery, however a variety of settlers from various backgrounds made their home on the islands, including pirates, shipwrecked sailors, and deserters from Oliver Cromwell's army in Jamaica.[10] Sir Francis Drake briefly visited the islands in 1586.[11] Cayman_Islands_National_Museum_-_George_Town,_Grand_Cayman.jpg The first recorded permanent inhabitant of the Cayman Islands, Isaac Bodden, was born on Grand Cayman around 1661. He was the grandson of the original settler named Bodden who was probably one of Oliver Cromwell's soldiers at the taking of Jamaica in 1655.[12]
+No archaeological evidence for an indigenous presence has been founds on the islands[3] and it therefore thought they were discovered by Christopher Columbus on 10 May 1503 on his final voyage to the Americas.[4][5] He named 'Las Tortugas' due to the large number of turtles on the islands (which were soon hunted to near-extinction)[6][7], however in the succeeding decades the islands began to be referred to as the Caymans, after the caimans present there.[8][9] No immediate colonisation occurred following Columbus's discovery, however a variety of settlers from various backgrounds made their home on the islands, including pirates, shipwrecked sailors, and deserters from Oliver Cromwell's army in Jamaica.[10] Sir Francis Drake briefly visited the islands in 1586.[11] The first recorded permanent inhabitant of the Cayman Islands, Isaac Bodden, was born on Grand Cayman around 1661. He was the grandson of the original settler named Bodden who was probably one of Oliver Cromwell's soldiers at the taking of Jamaica in 1655.[12]
 
 England took formal control of the Cayman Islands, along with Jamaica, as a result of the Treaty of Madrid of 1670.[13] That same year saw an attack on a turtle fishing settlement on Little Cayman by the Spanish under Manuel Ribeiro Pardal.[14] Following several unsuccessful attempts at settlement in what had by now become a haven for pirates[15], a permanent English-speaking population in the islands dates from the 1730s.[16] With settlement, after the first royal land grant by the Governor of Jamaica in 1734, came the perceived need for slaves.[17] Many were brought to the islands from Africa; this is evident today with the majority of native Caymanians being of African and/or English descent.[18] The results of the first census taken in the islands in 1802 showed the population on Grand Cayman to be 933, with 545 of those inhabitants being enslaved.[19] Slavery was abolished in the Cayman Islands in 1833. At the time of abolition, there were over 950 blacks of African ancestry enslaved by 116 white families of English ancestry.[20][21]
 
-The islands continued to be governed as part of the Colony of Jamaica until 1962, when they became a separate Crown colony while Jamaica became an independent Commonwealth realm.[22][23] Heroes_Square_of_George_Town.jpg On 8 February 1794, the Caymanians rescued the crews of a group of ten merchant ships, including HMS _Convert_, an incident that has since become known as the Wreck of the Ten Sail.[24][25] The ships had struck a reef and run aground during rough seas.[26] Legend has it that King George III rewarded the island with a promise never to introduce taxes as compensation for their generosity, as one of the ships carried a member of the King's own family. While this remains a popular legend, the story is not true.[27][28]
+The islands continued to be governed as part of the Colony of Jamaica until 1962, when they became a separate Crown colony while Jamaica became an independent Commonwealth realm.[22][23] On 8 February 1794, the Caymanians rescued the crews of a group of ten merchant ships, including HMS _Convert_, an incident that has since become known as the Wreck of the Ten Sail.[24][25] The ships had struck a reef and run aground during rough seas.[26] Legend has it that King George III rewarded the island with a promise never to introduce taxes as compensation for their generosity, as one of the ships carried a member of the King's own family. While this remains a popular legend, the story is not true.[27][28]
 
 Tourism began to take off in the 1950s with the opening of the airport, a bank and several hotels, plus a number of scheduled flights and cruise stop-overs.[29][30] Politically the Cayman Islands were an internally self-governing territory of Jamaica from 1958 to 1962, however they reverted to direct British rule following the independence of Jamaica in 1962.[31] A large degree of internal autonomy was granted by a new constitution in 1972, with further revisions being made in 1994.[32] The Cayman Islands government focused on boosting the territory's economy via tourism and off-shore finance, both of which mushroomed from the 1970s onwards.[33][34] The Caymans have historically has been a tax-exempt destination, and the government has always relied on indirect and not direct taxes. The territory has never levied income tax, capital gains tax, or any wealth tax, making them a popular tax haven.[35]
 
@@ -20,9 +20,7 @@ On 11 September 2004 the island of Grand Cayman, which lies largely unprotected 
 
 Geography
 
-Cayman_Islands_Map.svg
-
-The islands are in the western Caribbean Sea and are the peaks of an undersea mountain range called the Cayman Ridge (or Cayman Rise). This ridge flanks the Cayman Trough, deep[41] which lies to the south.[42] The islands lie in the northwest of the Caribbean Sea, east of Quintana Roo, Mexico and Yucatán State, Mexico, northeast of Costa Rica, north of Panama, south of Cuba and west of Jamaica. They are situated about south of Miami,[43] east of Mexico,[44] south of Cuba,[45] and about northwest of Jamaica.[46] Grand Cayman is by far the largest, with an area of .[47] Grand Cayman's two "sister islands", Cayman Brac and Little Cayman, are about east north-east of Grand Cayman and have areas of [48] respectively. The nearest land mass from Grand Cayman is the Canarreos Archipelago (about 150 miles away), whereas the nearest from the easternmost island Cayman Brac is the Jardines de la Reina archipelago (about 100 miles away) - both of which are part of Cuba. Waterfront,_George_Town,_Grand_Cayman.jpg
+The islands are in the western Caribbean Sea and are the peaks of an undersea mountain range called the Cayman Ridge (or Cayman Rise). This ridge flanks the Cayman Trough, deep[41] which lies to the south.[42] The islands lie in the northwest of the Caribbean Sea, east of Quintana Roo, Mexico and Yucatán State, Mexico, northeast of Costa Rica, north of Panama, south of Cuba and west of Jamaica. They are situated about south of Miami,[43] east of Mexico,[44] south of Cuba,[45] and about northwest of Jamaica.[46] Grand Cayman is by far the largest, with an area of .[47] Grand Cayman's two "sister islands", Cayman Brac and Little Cayman, are about east north-east of Grand Cayman and have areas of [48] respectively. The nearest land mass from Grand Cayman is the Canarreos Archipelago (about 150 miles away), whereas the nearest from the easternmost island Cayman Brac is the Jardines de la Reina archipelago (about 100 miles away) - both of which are part of Cuba.
 
 All three islands were formed by large coral heads covering submerged ice age peaks of western extensions of the Cuban Sierra Maestra range and are mostly flat. One notable exception to this is The Bluff on Cayman Brac's eastern part, which rises to above sea level, the highest point on the islands.[49]
 
@@ -40,7 +38,7 @@ The Cuban crocodile (_Crocodylus rhombifer_) once inhabited the islands;[56] and
 
 Climate
 
-Hurricane_signs_rum_point.jpg The Cayman Islands has a tropical wet and dry climate, with a wet season from May to October, and a dry season that runs from November to April. Seasonally, there is little temperature change.[58]
+The Cayman Islands has a tropical wet and dry climate, with a wet season from May to October, and a dry season that runs from November to April. Seasonally, there is little temperature change.[58]
 
 A major natural hazard is the tropical cyclones that form during the Atlantic hurricane season from June to November.
 
@@ -53,7 +51,7 @@ According to the Economics and Statistics Office of the Government of the Cayman
 
 District populations
 
-Traditional_caymanian_home_east_end.jpg According to the Cayman Islands 2016 Compendium of Statistics released by the Economics and Statistics Office (ESO) the estimated resident population is above 61,000 people,[65] broken down as follows:
+According to the Cayman Islands 2016 Compendium of Statistics released by the Economics and Statistics Office (ESO) the estimated resident population is above 61,000 people,[65] broken down as follows:
 
 -   George Town: 31,935
 -   West Bay: 11,686
@@ -64,8 +62,6 @@ Traditional_caymanian_home_east_end.jpg According to the Cayman Islands 2016 Com
 
 
 Economy
-
-Tree_map_export_2009_Cayman_Islands.jpeg
 
 Sir Vassel Johnson, who became the only Caymanian ever knighted, was a pioneer of Cayman's financial services industry. Cayman Islands Past Governor Stuart Jack said ‘As one of the architects of modern Cayman, especially the financial industry, Sir Vassel guided the steady growth of these Islands as the first financial secretary. His remarkable vision set the foundation for the prosperity and economic stability of these islands. Without his input, Cayman might well have remained the islands that time forgot.’[66]
 
@@ -79,7 +75,7 @@ Tourism
 
 One of Grand Cayman's main attractions is Seven Mile Beach, site of a number of the island's hotels and resorts. Named one of the Ultimate Beaches by Caribbean Travel and Life, Seven Mile Beach is on the western shore of Grand Cayman Island. It is a public property and possible to walk the full length of the beach, past all the hotels, resorts, and public beach bars.[74] Historical sites in Grand Cayman, such as Pedro St. James Castle in Savannah, also attract visitors.[75] Tourists also visit the "sister islands", Little Cayman[76] and Cayman Brac.[77]
 
-Stingraypassing.jpg]] Southern_Stingrays_At_Stingray_City_Grand_Cayman.jpg All three islands offer scuba diving, and the Cayman Islands is home to several snorkelling locations where tourists can swim with stingrays. The most popular area to do this is Stingray City, Grand Cayman. Stingray City is a top attraction in Grand Cayman and originally started in the 1980s, when divers started feeding squid to stingrays. The stingrays started to associate the sound of the boat motors with food, and thus visit this area year round.[78]
+]] All three islands offer scuba diving, and the Cayman Islands is home to several snorkelling locations where tourists can swim with stingrays. The most popular area to do this is Stingray City, Grand Cayman. Stingray City is a top attraction in Grand Cayman and originally started in the 1980s, when divers started feeding squid to stingrays. The stingrays started to associate the sound of the boat motors with food, and thus visit this area year round.[78]
 
 There are two shipwrecks off the shores of Cayman Brac, including the MV Captain Keith Tibbetts;[79] Grand Cayman also has several shipwrecks off its shores, including one deliberate one. On 30 September 1994 the was decommissioned and struck from the Naval Vessel Register. In November 2008 her ownership was transferred for an undisclosed amount to the government of the Cayman Islands, which had decided to sink the _Kittiwake_ in June 2009 to form a new artificial reef off Seven Mile Beach, Grand Cayman. Following several delays, the ship was finally scuttled according to plan on 5 January 2011. The _Kittiwake_ has become a dynamic environment for marine life. While visitors are not allowed to take anything, there are endless sights. Each of the five decks of the ship offers squirrelfish, rare sponges, Goliath groupers, urchins, and more. Experienced and beginner divers are invited to swim around the _Kittiwake_.[80] Pirates Week, an annual 11-day November festival, was started in 1977 by Jim Bodden, then Minister of Tourism, to boost tourism during the country's tourism slow season.[81]
 
@@ -95,7 +91,7 @@ Shipping
 
 Labour
 
-Jamaican_woodcarver_Bodden_Town_Grand_Cayman.jpg]]
+]]
 
 The Cayman Islands has a small population of 64,420 () and therefore a limited workforce.[85] Work permits may, therefore, be granted to foreigners. On average, there have been more than 21,000 foreigners holding valid work permits.[86]
 
@@ -118,7 +114,7 @@ In recognition of the CARICOM (Free Movement) Skilled Persons Act which came int
 
 Government
 
-Cayman_islands_legislative_assembly.JPG]] EU_OCT_and_OMR_map_en.png]] The Cayman Islands is a British overseas territory, listed by the UN Special Committee of 24 as one of the 16 non-self-governing territories. The current Constitution, incorporating a Bill of Rights, was ordained by a statutory instrument of the United Kingdom in 2009.[95] A 19-seat (not including two non-voting members appointed by the Governor which brings the total to 21 members) Legislative Assembly is elected by the people every four years to handle domestic affairs.[96] Of the elected Members of the Legislative Assembly (MLAs), seven are chosen to serve as government Ministers in a Cabinet headed by the Governor. The Premier is appointed by the Governor.[97]
+]] ]] The Cayman Islands is a British overseas territory, listed by the UN Special Committee of 24 as one of the 16 non-self-governing territories. The current Constitution, incorporating a Bill of Rights, was ordained by a statutory instrument of the United Kingdom in 2009.[95] A 19-seat (not including two non-voting members appointed by the Governor which brings the total to 21 members) Legislative Assembly is elected by the people every four years to handle domestic affairs.[96] Of the elected Members of the Legislative Assembly (MLAs), seven are chosen to serve as government Ministers in a Cabinet headed by the Governor. The Premier is appointed by the Governor.[97]
 
 A Governor is appointed by the Queen of the United Kingdom on the advice of the British Government to represent the monarch.[98] Governors can exercise complete legislative and executive authority if they wish through blanket powers reserved to them in the constitution.[99] Bills which have passed the Legislative Assembly require royal assent before becoming effective. The Constitution empowers the Governor to withhold royal assent in cases where the legislation appears to him or her to be repugnant to or inconsistent with the Constitution or affects the rights and privileges of the Legislative Assembly or the Royal Prerogative, or matters reserved to the Governor by article 55.[100] The executive authority of the Cayman Islands is vested in the Queen and is exercised by the Government, consisting of the Governor and the Cabinet.[101] There is an office of the Deputy Governor, who must be a Caymanian and have served in a senior public office. The Deputy Governor is the acting Governor when the office of Governor is vacant, or the Governor is not able to discharge his or her duties or is absent from the Cayman Islands.[102] The current Governor of the Cayman Islands is Martyn Roper.[103]
 
@@ -144,7 +140,7 @@ No direct taxation is imposed on residents and Cayman Islands companies. The gov
 
 Foreign relations
 
-1953caymanislands1poundelizabethIIblue.jpg, 1953]]
+, 1953]]
 
 Foreign policy is controlled by the United Kingdom, as the islands remain an overseas territory of the United Kingdom. Although in its early days, the Cayman Islands' most important relationships were with Britain and Jamaica, in recent years, as a result of economic dependence, a relationship with the United States has developed.
 
@@ -170,7 +166,7 @@ The Cayman Islands Education Department operates state schools. Caymanian childr
 
 Colleges and universities
 
-St_Matthews_2.jpg campus]] The University College of the Cayman Islands has campuses on Grand Cayman and Cayman Brac and is the only government-run university on the Cayman Islands.[110] A hall at the University College of the Cayman Islands is named after Sir Vassel Johnson, who The Cayman Islands Financial Services Association credited as one of the founding fathers of the financial services sector in the Cayman Islands. Sir Vassel is also the only person to ever be knighted in any British Dependent Territory. http://www.gov.ky/portal/page/portal/cighome/pressroom/archive/200811/governorstributetosirvassel
+campus]] The University College of the Cayman Islands has campuses on Grand Cayman and Cayman Brac and is the only government-run university on the Cayman Islands.[110] A hall at the University College of the Cayman Islands is named after Sir Vassel Johnson, who The Cayman Islands Financial Services Association credited as one of the founding fathers of the financial services sector in the Cayman Islands. Sir Vassel is also the only person to ever be knighted in any British Dependent Territory. http://www.gov.ky/portal/page/portal/cighome/pressroom/archive/200811/governorstributetosirvassel
 
 The International College of the Cayman Islands is a private college in Grand Cayman. The college was established in 1970 and offers associate's, bachelor's and master's degree programmes.[111] Grand Cayman is also home to St. Matthew's University, which includes a medical school and a school of veterinary medicine.[112] The Cayman Islands Law School, a branch of the University of Liverpool, is based on Grand Cayman.[113]
 
@@ -185,7 +181,7 @@ _See Health in the Cayman Islands._
 
 Emergency services
 
-The Royal Cayman Islands Police Service (RCIPS) provides law enforcement for the three islands. Regular off-shore marine and air patrols are conducted by the RCIP using a small fleet of vessels and a helicopter. Grand Cayman is a port of call for Britain's Royal Navy and the United States Coast Guard who often assist with sea rescues when their resources are in the Cayman Islands area. The Cayman Islands Fire Service provides fire prevention, fire fighting and rescue.[115] Its headquarters are in George Town and has substations in Frank Sound, West Bay, Cayman Brac and Little Cayman.[116] Grand_Cayman_Island.jpg Access to Emergency Services is available using 9-1-1, the Emergency telephone number, the same number as is used in Canada and the United States.[117] The Cayman Islands Department of Public Safety's Communications Centre processes 9-1-1 and non-emergency law enforcement, EMS, fire, and search and rescue calls for all three islands. The Communications Centre dispatches RCIP and EMS units directly, however, the Cayman Islands Fire Service maintains their own dispatch room at the airport fire station.[118]
+The Royal Cayman Islands Police Service (RCIPS) provides law enforcement for the three islands. Regular off-shore marine and air patrols are conducted by the RCIP using a small fleet of vessels and a helicopter. Grand Cayman is a port of call for Britain's Royal Navy and the United States Coast Guard who often assist with sea rescues when their resources are in the Cayman Islands area. The Cayman Islands Fire Service provides fire prevention, fire fighting and rescue.[115] Its headquarters are in George Town and has substations in Frank Sound, West Bay, Cayman Brac and Little Cayman.[116] Access to Emergency Services is available using 9-1-1, the Emergency telephone number, the same number as is used in Canada and the United States.[117] The Cayman Islands Department of Public Safety's Communications Centre processes 9-1-1 and non-emergency law enforcement, EMS, fire, and search and rescue calls for all three islands. The Communications Centre dispatches RCIP and EMS units directly, however, the Cayman Islands Fire Service maintains their own dispatch room at the airport fire station.[118]
 
 
 Sports

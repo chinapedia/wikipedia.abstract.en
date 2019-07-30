@@ -40,7 +40,7 @@ Cambridgeshire contains all its green belt around the city of Cambridge, extendi
 
 Politics
 
-Flag_of_Cambridgeshire.svg of Cambridgeshire County Council, used as _de facto_ flag of the County of Cambridgeshire until 1 February 2015]]
+of Cambridgeshire County Council, used as _de facto_ flag of the County of Cambridgeshire until 1 February 2015]]
 
 Cambridgeshire contains seven Parliamentary constituencies:
 
@@ -90,8 +90,6 @@ In addition, Cambridge Regional College and Huntingdonshire Regional College bot
 
 
 Settlements
-
-Cambridge-260x345.jpg
 
 These are the settlements in Cambridgeshire with a town charter, city status or a population over 5,000; for a complete list of settlements see list of places in Cambridgeshire.
 

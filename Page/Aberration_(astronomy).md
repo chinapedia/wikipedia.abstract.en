@@ -1,5 +1,3 @@
-simple_stellar_aberration_diagram.svg
-
 In astronomy, ABERRATION (also referred to as ASTRONOMICAL ABERRATION, STELLAR ABERRATION, or VELOCITY ABERRATION) is a phenomenon which produces an apparent motion of celestial objects about their true positions, dependent on the velocity of the observer.
 
 Aberration causes objects to appear to be displaced towards the direction of motion of the observer compared to when the observer is stationary. The change in angle is typically very small — of the order of _v/c_ where _c_ is the speed of light and _v_ the velocity of the observer. In the case of "stellar" or "annual" aberration, the apparent position of a star to an observer on Earth varies periodically over the course of a year as the Earth's velocity changes as it revolves around the Sun, by a maximum angle of approximately 20 arcseconds in right ascension or declination.
@@ -10,8 +8,6 @@ Aberration is historically significant because of its role in the development of
 
 
 Explanation
-
-Sun_earth_relativistic_aberration.svg
 
 Aberration may be explained as the difference in angle of a beam of light in different inertial frames of reference. A common analogy is to consider the apparent direction of falling rain. If rain is falling vertically in the frame of reference of a person standing still, then to a person moving forwards the rain will appear to arrive at an angle, requiring the moving observer to tilt their umbrella forwards. The faster the observer moves, the more tilt is needed.
 
@@ -45,8 +41,6 @@ In the case of θ = 90^(∘), this result reduces to sin (θ − ϕ)�
 
 Relationship to light-time correction and relativistic beaming
 
-aberrationlighttimebeaming.gif
-
 Aberration is related to two other phenomena, light-time correction, which is due to the motion of an observed object during the time taken by its light to reach an observer, and relativistic beaming, which is an angling of the light emitted by a moving light source. It can be considered equivalent to them but in a different inertial frame of reference. In aberration, the observer is considered to be moving relative to a (for the sake of simplicity[7]) stationary light source, while in light-time correction and relativistic beaming the light source is considered to be moving relative to a stationary observer.
 
 Consider the case of an observer and a light source moving relative to each other at constant velocity, with a light beam moving from the source to the observer. At the moment of emission, the beam in the observer's rest frame is tilted compared to the one in the source's rest frame, as understood through relativistic beaming. During the time it takes the light beam to reach the observer the light source moves in the observer's frame, and the 'true position' of the light source is displaced relative to the apparent position the observer sees, as explained by light-time correction. Finally, the beam in the observer's frame at the moment of observation is tilted compared to the beam in source's frame, which can be understood as an aberrational effect. Thus, a person in the light source's frame would describe the apparent tilting of the beam in terms of aberration, while a person in the observer's frame would describe it as a light-time effect.
@@ -65,7 +59,7 @@ There are a number of types of aberration, caused by the differing components of
 
 Annual aberration
 
-Aberration3.svgs appear to move in circles, stars exactly in the ecliptic plane move in lines, and stars at intermediate angles move in ellipses. Shown here are the apparent motions of stars with the ecliptic latitudes corresponding to these cases, and with ecliptic longitude of 270°.]] aberrationseasons.svg
+s appear to move in circles, stars exactly in the ecliptic plane move in lines, and stars at intermediate angles move in ellipses. Shown here are the apparent motions of stars with the ecliptic latitudes corresponding to these cases, and with ecliptic longitude of 270°.]]
 
 Annual aberration is caused by the motion of an observer on Earth as the planet revolves around the Sun. Due to orbital eccentricity, the orbital velocity v of Earth (in the Sun's rest frame) varies periodically during the year as the planet traverses its elliptic orbit and consequently the aberration also varies periodically, typically causing stars to appear to move in small ellipses.
 
@@ -112,17 +106,11 @@ The Copernican heliocentric theory of the Solar System had received confirmation
 
 James Bradley's observations
 
-Bradley's_observations_of_γ_Draconis_and_35_Camelopardalis_as_reduced_by_Busch.jpg
-
 Consequently, when Bradley and Samuel Molyneux entered this sphere of research in 1725, there was still considerable uncertainty as to whether stellar parallaxes had been observed or not, and it was with the intention of definitely answering this question that they erected a large telescope at Molyneux's house at Kew.[12] They decided to reinvestigate the motion of γ Draconis with a telescope constructed by George Graham (1675–1751), a celebrated instrument-maker. This was fixed to a vertical chimney stack in such manner as to permit a small oscillation of the eyepiece, the amount of which (i.e. the deviation from the vertical) was regulated and measured by the introduction of a screw and a plumb line.
 
 The instrument was set up in November 1725, and observations on γ Draconis were made starting in December. The star was observed to move 40″ southwards between September and March, and then reversed its course from March to September. At the same time, 35 Camelopardalis, a star with a right ascension nearly exactly opposite to that of γ Draconis, was 19" more northerly at the beginning of March than in September.[13] These results were completely unexpected and inexplicable by existing theories.
 
 Early hypotheses
-
-Hypothetical_movement_of_γ_Draconis_caused_by_parallax.jpg
-
-Hypothetical_movement_of_γ_Draconis_and_35_Camelopardalis_caused_by_nutation.jpg
 
 Bradley and Molyneux discussed several hypotheses in the hope of finding the solution. Since the apparent motion was evidently caused neither by parallax nor observational errors, Bradley first hypothesized that it could be due to oscillations in the orientation of the Earth's axis relative to the celestial sphere – a phenomenon known as nutation. 35 Camelopardalis was seen to possess an apparent motion which could be consistent with nutation, but since its declination varied only one half as much as that of γ Draconis, it was obvious that nutation did not supply the answer (however, Bradley later went on to discover that the Earth does indeed nutate).[14] He also investigated the possibility that the motion was due to an irregular distribution of the Earth's atmosphere, thus involving abnormal variations in the refractive index, but again obtained negative results.
 
@@ -172,8 +160,6 @@ The first classical explanation was provided in 1729, by James Bradley as descri
 
 Bradley's classical explanation
 
-Stellar_aberration.JPG
-
 Bradley conceived of an explanation in terms of a corpuscular theory of light in which light is made of particles unaffected by gravity.[20] His classical explanation appeals to the motion of the earth relative to a beam of light-particles moving at a finite velocity, and is developed in the Sun's frame of reference, unlike the classical derivation given above.
 
 Consider the case where a distant star is motionless relative to the Sun, and the star is extremely far away, so that parallax may be ignored. In the rest frame of the Sun, this means light from the star travels in parallel paths to the Earth observer, and arrives at the same angle regardless of where the Earth is in its orbit. Suppose the star is observed on Earth with a telescope, idealized as a narrow tube. The light enters the tube from the star at angle θ and travels at speed c taking a time h/c to reach the bottom of the tube, where it is detected. Suppose observations are made from Earth, which is moving with a speed v. During the transit of the light, the tube moves a distance vh/c. Consequently, for the particles of light to reach the bottom of the tube, the tube must be inclined at an angle ϕ different from θ, resulting in an _apparent_ position of the star at angle ϕ. As the Earth proceeds in its orbit it changes direction, so ϕ changes with the time of year the observation is made. The apparent angle and true angle are related using trigonometry as:
@@ -185,7 +171,7 @@ In the case of θ = 90^(∘), this gives tan (θ − ϕ) = v/c. Wh
 
 Luminiferous aether
 
-Stellar_aberration_versus_the_dragged_aether.gif In the early nineteenth century the wave theory of light was being rediscovered, and in 1804 Thomas Young adapted Bradley's explanation for corpuscular light to wavelike light traveling through a medium known as the luminiferous aether. His reasoning was the same as Bradley's, but it required that this medium be immobile in the Sun's reference frame and must pass through the earth unaffected, otherwise the medium (and therefore the light) would move along with the earth and no aberration would be observed. [23] He wrote:
+In the early nineteenth century the wave theory of light was being rediscovered, and in 1804 Thomas Young adapted Bradley's explanation for corpuscular light to wavelike light traveling through a medium known as the luminiferous aether. His reasoning was the same as Bradley's, but it required that this medium be immobile in the Sun's reference frame and must pass through the earth unaffected, otherwise the medium (and therefore the light) would move along with the earth and no aberration would be observed. [23] He wrote:
 
 However, it soon became clear Young's theory could not account for aberration when materials with a non-vacuum index of refraction were present. An important example is of a telescope filled with water. The velocity of the light in such a telescope will be slower than in vacuum, and is given by c/n rather than c where n is the index of refraction of the water. Thus, by Bradley and Young's reasoning the aberration angle is given by
 
@@ -199,8 +185,6 @@ Aether drag models
 Fresnel's aether drag
 
 In 1818, Augustin Fresnel developed a modified explanation to account for the water telescope and for other aberration phenomena. He explained that the aether is generally at rest in the Sun's frame of reference, but objects partially drag the aether along with them as they move. That is, the aether in an object of index of refraction n moving at velocity v is partially dragged with a velocity (1 − 1/n²)v bringing the light along with it. This factor is known as "Fresnel's dragging coefficient". This dragging effect, along with refraction at the telescope's objective, compensates for the slower speed of light in the water telescope in Bradley's explanation. With this modification Fresnel obtained Bradley's vacuum result even for non-vacuum telescopes, and was also able to predict many other phenomena related to the propagation of light in moving bodies. Fresnel's dragging coefficient became the dominant explanation of aberration for the next decades.
-
-Stokes_aether_drag.svg
 
 Stokes' aether drag
 

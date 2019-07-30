@@ -1,4 +1,4 @@
-HBC-coa.JPG of Hudson's Bay Company: _Argent, a cross gules between four beavers passant proper_. Crest: _On a chapeau gules turned up ermine a fox sejant proper_. Supporters: _Two bucks proper_. Latin Motto: [1] apparently a play on Job, 2:4: [2] "skin for skin".[3][4][5]]]
+of Hudson's Bay Company: _Argent, a cross gules between four beavers passant proper_. Crest: _On a chapeau gules turned up ermine a fox sejant proper_. Supporters: _Two bucks proper_. Latin Motto: [1] apparently a play on Job, 2:4: [2] "skin for skin".[3][4][5]]]
 
 The HUDSON'S BAY COMPANY (HBC; ) is a Canadian retail business group. A fur trading business for much of its existence, HBC now owns and operates retail stores in Canada, the United States, and parts of Europe, including Belgium, the Netherlands, and Germany. The company's namesake business division is Hudson's Bay, commonly referred to as THE BAY ( in French).[6] Other divisions include Galeria Kaufhof, Home Outfitters, Lord & Taylor and Saks Fifth Avenue. HBC's head office is currently located in Brampton, Ontario.[7] The company is listed on the Toronto Stock Exchange under the symbol "HBC".
 
@@ -13,7 +13,7 @@ History
 
 17th century
 
-Hudson's_Bay_Company_Flag.svg which originated from its days as an English trading company]] Hudson's_Bay_Company_Flag_(1707-1801).svg
+which originated from its days as an English trading company]]
 
 In the 17th century the French had a de facto monopoly on the Canadian fur trade with their colony of New France. Two French traders, Pierre-Esprit Radisson and Médard des Groseilliers (Médard de Chouart, Sieur des Groseilliers), Radisson's brother-in-law, learned from the Cree that the best fur country lay north and west of Lake Superior, and that there was a "frozen sea" still further north.[21] Assuming this was Hudson Bay, they sought French backing for a plan to set up a trading post on the Bay, to reduce the cost of moving furs overland. According to Peter C. Newman, "concerned that exploration of the Hudson Bay route might shift the focus of the fur trade away from the St. Lawrence River, the French governor", Marquis d'Argenson (in office 1658–61), "refused to grant the coureurs de bois permission to scout the distant territory".[22] Despite this refusal, in 1659 Radisson and Groseilliers set out for the upper Great Lakes basin. A year later they returned with premium furs, evidence of the potential of the Hudson Bay region. Subsequently, they were arrested for trading without a licence and fined, and their furs were confiscated by the government.[23]
 
@@ -21,7 +21,7 @@ Determined to establish trade in the Hudson Bay, Radisson and Groseilliers appro
 
 The _Nonsuch_ continued to James Bay, the southern portion of Hudson Bay, where its explorers founded, in 1668, the first fort on Hudson Bay, Charles Fort[27] at the mouth of the Rupert River. (It was later known as Rupert House, and developed as the community of present-day Waskaganish, Quebec.) Both the fort and the river were named after the sponsor of the expedition, Prince Rupert of the Rhine, one of the major investors and soon to be the new company's first governor. After a successful trading expedition over the winter of 1668–69, _Nonsuch_ returned to England on 9 October 1669 with the first cargo of fur resulting from trade in Hudson Bay.[28] The bulk of the fur – worth £1,233 – was sold to Thomas Glover, one of London's most prominent furriers. This and subsequent purchases by Glover made it clear the fur trade in Hudson Bay was viable.
 
-Ruperts_land.svg, the drainage basin of Hudson Bay, the company's grant]]
+, the drainage basin of Hudson Bay, the company's grant]]
 
 The Governor and Company of Adventurers of England Trading into Hudson's Bay was incorporated on 2 May 1670, with a royal charter from King Charles II.[29] The charter granted the company a monopoly over the region drained by all rivers and streams flowing into Hudson Bay in northern Canada. The area was named "Rupert's Land" after Prince Rupert, the first governor of the company appointed by the King. This drainage basin of Hudson Bay constitutes , comprising over one-third of the area of modern-day Canada and stretches into the present-day north-central United States. The specific boundaries were unknown at the time. Rupert's Land would eventually become Canada's largest land "purchase" in the 19th century.[30]
 
@@ -29,15 +29,11 @@ The HBC established six posts between 1668 and 1717. Rupert House[31](1668, sout
 
 During the fall and winter, First Nations men and European trappers accomplished the vast majority of the animal trapping and pelt preparation. They travelled by canoe and on foot to the forts to sell their pelts. In exchange they typically received popular trade goods such as knives, kettles, beads, needles, and the Hudson's Bay point blanket. The arrival of the First Nations trappers was one of the high points of the year, met with pomp and circumstance. The highlight was very formal, an almost ritualized "Trading Ceremony" between the Chief Trader and the Captain of the aboriginal contingent who traded on their behalf.[35] During the initial years of the fur trade, prices for items varied from post to post.[36]
 
-Hudsons_Bay-Logo-Old.JPG
-
 The early coastal factory model of the English contrasted with the system of the French. They established an extensive system of inland posts at native villages, and sent traders to live among the tribes of the region, learning their languages and often forming alliances through marriages with indigenous women. In March 1686, the French sent a raiding party under the Chevalier des Troyes more than to capture the HBC posts along James Bay. The French appointed Pierre Le Moyne d'Iberville, who had shown great heroism during the raids, as commander of the company's captured posts. In 1687 an English attempt to resettle Fort Albany failed due to strategic deceptions by d'Iberville. After 1688 England and France were officially at war, and the conflict played out in North America as well. D'Iberville raided Fort Severn in 1690 but did not attempt to raid the well-defended local headquarters at York Factory. In 1693 the HBC recovered Fort Albany; d'Iberville captured York Factory in 1694, but the company recovered it the next year.[37]
 
 In 1697, d'Iberville again commanded a French naval raid on York Factory. On the way to the fort, he defeated three ships of the Royal Navy in the Battle of Hudson's Bay (5 September 1697), the largest naval battle in the history of the North American Arctic. D'Iberville's depleted French force captured York Factory by laying siege to the fort and pretending to be a much larger army. The French retained all of the outposts except Fort Albany until 1713. (A small French and Indian force attacked Fort Albany again in 1709 during Queen Anne's War but was unsuccessful. The economic consequences of the French possession of these posts for the company were significant; HBC did not pay any dividends for more than 20 years. See Anglo-French conflicts on Hudson Bay.[38]
 
 18th century
-
-Indians_at_a_Hudson_Bay_Company_trading_post.jpg
 
 With the ending of the Nine Years' War in 1697, and the War of the Spanish Succession in 1713 with the signing of the Treaty of Utrecht, France had gotten the short end of the stick. Among the treaty's many provisions, it required France to relinquish all claims to Great Britain on the Hudson Bay, which again became a British possession. (The Kingdom of Great Britain had been established following the union of Scotland and England in 1707). After the treaty, the HBC built Prince of Wales Fort, a stone star fort at the mouth of the nearby Churchill River.[39] In 1782, during the American Revolutionary War, a French squadron under Jean-François de Galaup, comte de Lapérouse captured and demolished York Factory and Prince of Wales Fort in support of the American rebels.[40]
 
@@ -51,25 +47,23 @@ In 1779, other traders founded the North West Company (NWC) in Montreal as a sea
 
 19th century
 
-Hudson's_Bay_Company_express_canoe.jpg In 1821, the North West Company of Montreal and Hudson's Bay Company were forcibly merged by intervention of the British government to put an end to often-violent competition. 175 posts, 68 of them the HBC's, were reduced to 52 for efficiency and because many were redundant as a result of the rivalry and were inherently unprofitable.[46] Their combined territory was extended by a licence to the North-Western Territory, which reached to the Arctic Ocean in the north and, with the creation of the Columbia Department in the Pacific Northwest, to the Pacific Ocean in the west. The NWC's regional headquarters at Fort George (Fort Astoria) was relocated to Fort Vancouver on the north bank of the Columbia River; it became the HBC base of operations on the Pacific Slope.[47]
+In 1821, the North West Company of Montreal and Hudson's Bay Company were forcibly merged by intervention of the British government to put an end to often-violent competition. 175 posts, 68 of them the HBC's, were reduced to 52 for efficiency and because many were redundant as a result of the rivalry and were inherently unprofitable.[46] Their combined territory was extended by a licence to the North-Western Territory, which reached to the Arctic Ocean in the north and, with the creation of the Columbia Department in the Pacific Northwest, to the Pacific Ocean in the west. The NWC's regional headquarters at Fort George (Fort Astoria) was relocated to Fort Vancouver on the north bank of the Columbia River; it became the HBC base of operations on the Pacific Slope.[47]
 
 Before the merger, the employees of the HBC, unlike those of the North West Company, did not participate in its profits. After the merger, with all operations under the management of Sir George Simpson (1826–60), the company had a corps of commissioned officers: 25 chief factors and 28 chief traders, who shared in the company's profits during the monopoly years. Its trade covered , and it had 1,500 contract employees.[48]
 
 The career progression for officers, together referred to as the Commissioned Gentlemen, was to enter the company as a fur trader. Typically, they were men who had the capital to invest in starting up their trading. They sought to be promoted to the rank of Chief Trader. A Chief Trader would be in charge of an individual post and was entitled to one share of the company's profits. Chief Factors sat in council with the Governors and were the heads of districts. They were entitled to two shares of the company's profits or losses. The average income of a Chief Trader was £360 and that of a Chief Factor was £720. [49]
 
-Hbc_post_Lake_Winnipeg.jpg, c.1884]]
+, c.1884]]
 
 Although the HBC maintained a monopoly on the fur trade during the early to mid-19th century, there was competition from James Sinclair and Andrew McDermot (Dermott), independent traders in the Red River Colony. They shipped furs by the Red River Trails to Norman Kittson a buyer in the United States. In addition, Americans controlled the Maritime fur trade on the Northwest Coast until the 1830s.[50]
 
 Throughout the 1820s and 1830s, the HBC controlled nearly all trading operations in the Pacific Northwest, based at the company headquarters at Fort Vancouver on the Columbia River. Although claims to the region were by agreement in abeyance, commercial operating rights were nominally shared by the United States and Britain through the Anglo-American Convention of 1818, but company policy, enforced via Chief Factor John McLoughlin of the company's Columbia District, was to discourage U.S. settlement of the territory. The company's effective monopoly on trade virtually forbade any settlement in the region.[51] It established Fort Boise in 1834 (in present-day southwestern Idaho) to compete with the American Fort Hall, to the east. In 1837, it purchased Fort Hall, also along the route of the Oregon Trail. The outpost director displayed the abandoned wagons of discouraged settlers to those seeking to move west along the trail.[52]
 
-Running_them_down.jpeg]]
+]]
 
 The company's stranglehold on the region was broken by the first successful large wagon train to reach Oregon in 1843, led by Marcus Whitman. In the years that followed, thousands of emigrants poured into the Willamette Valley of Oregon. In 1846, the United States acquired full authority south of the 49th parallel; the most settled areas of the Oregon Country were south of the Columbia River in what is now Oregon. McLoughlin, who had once turned away would-be settlers as company director, then welcomed them from his general store at Oregon City. He was later proclaimed the "Father of Oregon". The company retains no presence today in what is now the United States portion of the Pacific Northwest.
 
 During the 1820s and 1830s, HBC trappers were deeply involved in the early exploration and development of Northern California. Company trapping brigades were sent south from Fort Vancouver, along what became known as the Siskiyou Trail, into Northern California as far south as the San Francisco Bay Area, where the company operated a trading post at Yerba Buena (San Francisco). These trapping brigades in Northern California faced serious risks, and were often the first to explore relatively uncharted territory. They included the lesser known Peter Skene Ogden and Samuel Black.
-
-Coming_in_for_Christmas.jpg
 
 Between 1820 and 1870, the HBC issued its own paper money. The notes, denominated in pounds sterling, were printed in London and issued at the York Factory, Fort Garry and the Red River Colony.[53] For forty or so years beginning in 1870, the company employed paddle wheel steamships on the rivers of the prairies.
 
@@ -79,7 +73,7 @@ Another factor was the findings of the Palliser Expedition of 1857 to 1860, led 
 
 In 1863, the International Financial Society bought controlling interest in the HBC, signalling a shift in the company’s outlook: most of the new shareholders were less interested in the fur trade than in real estate speculation and economic development in the West. The Society floated £2 million in public shares on non-ceded land held ostensibly by the Hudson's Bay Company as an asset and leveraged this asset for collateral for these funds. These funds allowed the Society the financial means to weather the financial collapse of 1866 which destroyed many competitors and invest in railways in North America.[54]
 
-SketchesGrizzly.jpeg'' (Harry Bullock-Webster)]]
+'' (Harry Bullock-Webster)]]
 
 In 1869, after rejecting the American government offer of ,[55] the company approved the return of Rupert’s Land to Britain. The government gave it to Canada and loaned the new country the £300,000 required to compensate HBC for its losses.[56] HBC also received one-twentieth of the fertile areas to be opened for settlement and retained title to the lands on which it had built trading establishments.[57] The deal, known as The Deed of Surrender, came into force the following year. The resulting territory, now known as the Northwest Territories, was brought under Canadian jurisdiction under the terms of the Rupert's Land Act 1868, enacted by the Parliament of the United Kingdom. The Deed enabled the admission of the fifth province, Manitoba, to the Confederation on 15 July 1870, the same day that the deed itself came into force.[58]
 
@@ -87,7 +81,7 @@ During the 19th century the Hudson Bay's Company went through great changes in r
 
 20th century
 
-Simpson_Tower.JPG, the company's former headquarters]]
+, the company's former headquarters]]
 
 Department stores and diversification
 
@@ -100,8 +94,6 @@ Oil and gas operations
 The company co-founded Hudson's Bay Oil and Gas Company (HBOG) in 1926 with Marland Oil Company (which merged with Conoco in 1929). HBOG expanded during the 1940s and 1950s, and in 1960 began shipping Canadian crude through a new link to the Glacier pipeline and on to the refinery in Billings, Montana. The company became the sixth-largest Canadian oil producer in 1967.[65] In 1973, HBOG acquired a 35% stake in Siebens Oil and Gas, and, in 1979, it divested that interest. In 1980, it bought a controlling interest in Roxy Petroleum. In the 1980s, sales and oil prices slipped, while debt from acquisitions piled up which led to Hudson's Bay Company selling its 52.9% stake in HBOG to Dome Petroleum in 1981.[66]
 
 Retail expansion
-
-HBC_Logo.svg
 
 In 1960, the company acquired Morgan's allowing it to expand into Montreal, Toronto, Hamilton, and Ottawa. In 1965, HBC rebranded its department stores as The Bay. The Morgan's logo was changed to match the new visual identity. By 1972 the last of the former Morgan's stores had been rebranded to Bay stores.[67]
 
@@ -121,11 +113,9 @@ In 1991, the Bay agreed to stop retailing fur in response to complaints from peo
 
 21st century
 
-hudsonsbayco.jpg In December 2003, Maple Leaf Heritage Investments, a Nova Scotia-based company created to acquire shares of Hudson's Bay Company, announced that it was considering making an offer to acquire all or some of the common shares of Hudson's Bay Company.[79] Maple Leaf Heritage Investments is a subsidiary of B-Bay Inc. Its CEO and chairman is American businesswoman Anita Zucker, widow of Jerry Zucker. Zucker had previously been the head of the Polymer Group, which acquired another Canadian institution, Dominion Textile.
+In December 2003, Maple Leaf Heritage Investments, a Nova Scotia-based company created to acquire shares of Hudson's Bay Company, announced that it was considering making an offer to acquire all or some of the common shares of Hudson's Bay Company.[79] Maple Leaf Heritage Investments is a subsidiary of B-Bay Inc. Its CEO and chairman is American businesswoman Anita Zucker, widow of Jerry Zucker. Zucker had previously been the head of the Polymer Group, which acquired another Canadian institution, Dominion Textile.
 
 On 26 January 2006, the HBC's board unanimously agreed to a bid of $15.25 CAD/share from Jerry Zucker, whose original bid was $14.75 CAD/share, ending a prolonged fight between the HBC and Zucker. The South Carolina billionaire financier was a longtime HBC minority shareholder. In a 9 March 2006 press release,[80] the HBC announced that Zucker would replace Yves Fortier as governor and George Heller as CEO, becoming the first US citizen to lead the company. After Jerry Zucker's death the board named his widow, Anita Zucker, as HBC Governor and HBC Deputy-Governor Rob Johnston as CEO.[81]
-
-HBCWinnipeg.JPG
 
 On 16 July 2008, the company was sold to NRDC Equity Partners, a private equity firm based in Purchase, New York, which already owned Lord & Taylor, the oldest luxury department store chain in the United States.[82][83] The Canadian and U.S. holdings were transferred to NRDC Equity Partners' holding company, Hudson's Bay Trading Company, as of fall 2008.
 
@@ -164,7 +154,7 @@ Olympic outfitter
 
 The HBC was the official outfitter of clothing for members of the Canadian Olympic team in 1936, 1960, 1964, 1968, 2006, 2008, 2010, 2012, 2014 and 2016. The sponsorship has been renewed through 2020. Since the late 2000s, HBC has used its status as the official Canadian Olympics team outfitter to gain global exposure, as part of a turnaround plan that included shedding under-performing brands and luring new high-end brands.[129]
 
-Vancouver_2010_red_mittens_HBC.JPG.]]
+.]]
 
 On 2 March 2005, the company was announced as the new clothing outfitter for the Canadian Olympic team, in a $100 million deal, providing apparel for the 2006, 2008, 2010, and 2012 Games, having outbid the existing Canadian Olympic wear-supplier, Roots Canada, which had supplied Canada's Olympic teams from 1998 to 2004.[130][131] The Canadian Olympic collection is sold through Hudson's Bay (and Zellers until 2013 when the Zellers leases were sold to Target Canada).
 
@@ -187,7 +177,7 @@ At the time of the donation, the appraised value of the records was nearly $60 m
 
 In 2007, Hudson's Bay Company Archives became part of the United Nations "Memory of the World Programme" project, under UNESCO. The records covered the HBC history from the founding of the company in 1670. The records contained business transactions, medical records, personal journals of officials, inventories, company reports, etc.[140]
 
-The_Bay_Queen_Street_facade_2012.jpg]]
+]]
 
 
 Corporate governance
@@ -337,8 +327,6 @@ Rent obligation under charter
 Under the charter establishing Hudson's Bay Company, the company was required to give two elk skins and two black beaver pelts to the English king, then Charles II, or his heirs, whenever the monarch visited Rupert's Land. The exact text from the 1670 Charter reads:
 
 The ceremony was first conducted with the Prince of Wales (the future Edward VIII) in 1927, then with King George VI in 1939, and last with his daughter, Queen Elizabeth II in 1959 and 1970. On the last such visit, the pelts were given in the form of two live beavers, which the Queen donated to the Winnipeg Zoo in Assiniboine Park. However, when the company permanently moved its headquarters to Canada, the Charter was amended to remove the rent obligation. Each of the four "rent ceremonies" took place in or around Winnipeg.[177]
-
-Hudson_Bay_Exploration_Western_Interior_map_de.png
 
 Notable HBC explorers, builders, and associates
 

@@ -36,8 +36,6 @@ Google reserves very high standards for YMYL (Your Money or Your Life) pages. Th
 
 Performing a search
 
-Google_Web_Search_Wikipedia_result.png
-
 Google Search consists of a series of localized websites. The largest of those, the google.com site, is the top most-visited website in the world.[31] Some of its features include a definition link for most searches including dictionary words, the number of results you got on your search, links to other searches (e.g. for words that Google believes to be misspelled, it provides a link to the search results using its proposed spelling), and many more.
 
 Search syntax
@@ -67,7 +65,7 @@ Google applies query expansion to submitted search queries, using techniques to 
 -   Translations – The search engine can, in some instances, suggest results for specific words in a different language
 -   Ignoring words – In some search queries containing extraneous or insignificant words, Google search will simply drop those specific words from the query
 
-Google_Instant_Screenshot.png In 2008, Google started to give users autocompleted search suggestions in a list below the search bar while typing.[37]
+In 2008, Google started to give users autocompleted search suggestions in a list below the search bar while typing.[37]
 
 "I'm Feeling Lucky"
 
@@ -200,8 +198,6 @@ Since 2012, Google Inc. has globally introduced encrypted connections for most o
 
 Redesign
 
-Product_Sans_typeface_sample.svg
-
 In late June 2011, Google introduced a new look to the Google home page in order to boost the use of the Google+ social tools.[130]
 
 One of the major changes was replacing the classic navigation bar with a black one. Google's digital creative director Chris Wiggins explains: "We're working on a project to bring you a new and improved Google experience, and over the next few months, you'll continue to see more updates to our look and feel."[131] The new navigation bar has been negatively received by a vocal minority.[132]
@@ -232,8 +228,6 @@ Complaints about indexing
 In 2003, _The New York Times_ complained about Google's indexing, claiming that Google's caching of content on its site infringed its copyright for the content.[139] In both _Field v. Google_ and _Parker v. Google_, the United States District Court of Nevada ruled in favor of Google.[140][141]
 
 January 2009 malware bug
-
-Google_Search_error_of_January_31,_2009.png
 
 Google flags search results with the message "This site may harm your computer" if the site is known to install malicious software in the background or otherwise surreptitiously. Google does this to protect users against visiting sites that could harm their computers. For approximately 40 minutes on January 31, 2009, all search results were mistakenly classified as malware and could therefore not be clicked; instead a warning message was displayed and the user was required to enter the requested URL manually. The bug was caused by human error.[142][143][144][145] The URL of "/" (which expands to all URLs) was mistakenly added to the malware patterns file.[146][147]
 

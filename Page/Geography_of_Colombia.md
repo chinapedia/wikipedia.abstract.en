@@ -1,5 +1,5 @@
 +:----------------------------------------------------:+
-| Mapa_de_Colombia_(relieve).svg                       |
+|                                                      |
 +------------------------------------------------------+
 | _RELIEF MAP OF COLOMBIA.                             |
 | (SAN ANDRES ARCHIPIELAGO NOT SHOWN)_                 |
@@ -54,7 +54,7 @@ This cross section of the republic does not include two of Colombia's regions: t
 
 Andean region
 
-Rabanal.JPG, Boyacá.]] Usgs-glaciers-colombia.png
+, Boyacá.]]
 
 Near the Ecuadorian frontier, the Andes Mountains divide into three distinct, roughly parallel chains, called cordilleras, that extend northeastward almost to the Caribbean Sea. Altitudes reach more than , and mountain peaks are permanently covered with snow. The elevated basins and plateaus of these ranges have a moderate climate that provides pleasant living conditions and in many places enables farmers to harvest twice a year. Torrential rivers on the slopes of the mountains produce a large hydroelectric power potential and add their volume to the navigable rivers in the valleys. In the late 1980s, approximately 78 percent of the country's population lived in the Andean highlands.
 
@@ -74,7 +74,7 @@ To the north of Bogotá, in the densely populated basins of Chiquinquirá and Bo
 
 Caribbean region
 
-Sierra_Nevada_de_Santa_Marta_desde_el_espacio.jpg, the highest standing mountain by the sea.]]
+, the highest standing mountain by the sea.]]
 
 The Caribbean lowlands consist of all of Colombia north of an imaginary line extending northeastward from the Golfo de Urabá to the Venezuelan frontier at the northern extremity of the Cordillera Oriental. The semiarid Guajira Peninsula and Guajira-Barranquilla xeric scrub, in the extreme north, bear little resemblance to the rest of the region. In the southern part rises the Sierra Nevada de Santa Marta, an isolated mountain system with peaks reaching heights over and slopes generally too steep for cultivation.
 
@@ -116,7 +116,7 @@ Many of the numerous large rivers of eastern Colombia are navigable. The Río Gu
 
 Climate
 
-Colombia_Köppen.svg zones]] Colombia.A2004117.1535.250m.jpg
+zones]]
 
 The striking variety in temperature and precipitation results principally from differences in elevation. Temperatures range from very hot at sea level to relatively cold at higher elevations but vary little with the season. At Bogotá, for example, the average annual temperature is , and the difference between the average of the coldest and the warmest months is less than 1 °C (1.8 °F). More significant, however, is the daily variation in temperature, from at night to during the day.
 
@@ -128,7 +128,7 @@ Rainfall in the hot zone is heaviest in the Pacific lowlands and in parts of eas
 
 The temperate zone covers about 8% of the country. This zone includes the lower slopes of the Cordillera Oriental and the Cordillera Central and most of the intermontane valleys. The important cities of Medellín () and Cali () are located in this zone, where rainfall is moderate and the mean annual temperature varies between , depending on the elevation. In the higher elevations of this zone, farmers benefit from two wet and two dry seasons each year; January through March and July through September are the dry seasons.
 
-Rio_Atrato.JPG.]]
+.]]
 
 The cold or cool zone constitutes about 6% of the total area, including some of the most densely populated plateaus and terraces of the Colombian Andes; this zone supports about one fourth of the country's total population. The mean temperature ranges between , and the wet seasons occur in April and May and from September to December, as in the high elevations of the temperate zone.
 
@@ -150,8 +150,6 @@ Vegetation also responds to rainfall patterns. A scrub woodland of scattered tre
 
 Relief
 
-Mapa_de_Colombia_(relieve).svg
-
 The Andean range is located in Colombia from the southwest (Ecuador border) toward the northeast (Venezuela border) and is divided in the Colombian Massif (_Macizo Colombiano_) in three ranges (East Andes, Central Andes and West Andes) that form two long valleys, Magdalena and Cauca follow by the rivers of the same name.
 
 The eastern half of Colombia, comprising more than half its territory, is plain and composed by savanna and rainforest, crossed by rivers belonging to the Amazon and Orinoco basins. The northern part, called "Los Llanos" is a savanna region, mostly in the Orinoco basin (therefore called also Orinoquía). The southern part is covered by the Amazon rain forest and belongs mostly to the Amazon basin. It is usually called Amazonía.
@@ -169,8 +167,6 @@ In the eastern Region, there is the Serranía de la Macarena and there are forma
 
 Protected areas
 
-Mapa_de_Colombia_(parques_naturales).svg
-
 
 Natural resources
 
@@ -178,8 +174,6 @@ The natural resources of Colombia are varied and extensive with most of its terr
 
 
 Environmental issues
-
-Colombia_land_1970.jpg Colombia_econ_1970.jpg
 
 The main environmental issues affecting Colombia are deforestation; soil and water quality damage from overuse of pesticides; air pollution, especially in Bogota, from vehicle emissions and other main cities. The collateral damaged produced by attacks against oil pipeline infrastructure by rebel guerrillas in the Colombian armed conflict has produced long term damage to the environment. The armed groups also deforest large areas to cultivate illegal crops and open unauthorized highways in protected areas.
 
@@ -247,7 +241,7 @@ The Orinoco and Amazon Rivers mark limits with Colombia to Venezuela and Peru re
 
 Lakes
 
-Rio_magdalena_mundung.JPG and the Ciénaga Grande de Santa Marta.]]
+and the Ciénaga Grande de Santa Marta.]]
 
 -   Ciénaga Grande de Santa Marta
 -   La Cocha Lagoon

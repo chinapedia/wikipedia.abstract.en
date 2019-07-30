@@ -76,7 +76,7 @@ Notable pioneers of afrobeat
 
 Afrobeats
 
-Iyanya_vs_desire_concert_performance-9764-2.jpg during a performance]] From early in the 21st century, a new type of sound, originating in Nigeria, has become increasingly prominent in African popular music.This name echoes Afrobeat, the 1970s fusion of Jazz and traditional Nigerian and Ghanaian music which is an important influence, but Afrobeats is a largely different style.
+during a performance]] From early in the 21st century, a new type of sound, originating in Nigeria, has become increasingly prominent in African popular music.This name echoes Afrobeat, the 1970s fusion of Jazz and traditional Nigerian and Ghanaian music which is an important influence, but Afrobeats is a largely different style.
 
   "Afrobeats is not a style, per se, like Afrobeat. It simply means the new sound of Africa, which takes in diverse influences that take inspiration from its African roots and is combined with the sounds of Rap, Reggae/Dancehall, and even R&B. It's an extremely eclectic combination that makes for quite the enjoyable sound."[10]
 

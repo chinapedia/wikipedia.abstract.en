@@ -1,4 +1,4 @@
-US_Navy_090407-N-4669J-042_Sailors_assigned_to_the_air_department_of_the_aircraft_carrier_USS_George_H.W._Bush_(CVN_77)_test_the_ship's_catapult_systems_during_acceptance_trials.jpg]] James_Webb_Primary_Mirror.jpg being prepared for acceptance testing]] In engineering and its various subdisciplines, ACCEPTANCE TESTING is a test conducted to determine if the requirements of a specification or contract are met. It may involve chemical tests, physical tests, or performance tests.
+]] being prepared for acceptance testing]] In engineering and its various subdisciplines, ACCEPTANCE TESTING is a test conducted to determine if the requirements of a specification or contract are met. It may involve chemical tests, physical tests, or performance tests.
 
 In systems engineering it may involve black-box testing performed on a system (for example: a piece of software, lots of manufactured mechanical parts, or batches of chemical products) prior to its delivery.[1]
 

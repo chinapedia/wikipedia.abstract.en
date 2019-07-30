@@ -1,4 +1,4 @@
-Friction_between_surfaces.jpg rough surfaces, exhibiting static frictional interactions[1]]] FRICTION is the force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding against each other.[2] There are several types of friction:
+rough surfaces, exhibiting static frictional interactions[1]]] FRICTION is the force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding against each other.[2] There are several types of friction:
 
 -   DRY FRICTION is a force that opposes the relative lateral motion of two solid surfaces in contact. Dry friction is subdivided into _static friction_ ("stiction") between non-moving surfaces, and _kinetic friction_ between moving surfaces. With the exception of atomic or molecular friction, dry friction generally arises from the interaction of surface features, known as asperities
 -   FLUID FRICTION describes the friction between layers of a viscous fluid that are moving relative to each other.[3][4]
@@ -60,7 +60,7 @@ The force of friction is always exerted in a direction that opposes movement (fo
 
 Normal force
 
-Free_body_diagram2.svg for a block on a ramp. Arrows are vectors indicating directions and magnitudes of forces. _N_ is the normal force, _mg_ is the force of gravity, and _F_(f)_ is the force of friction.]]
+for a block on a ramp. Arrows are vectors indicating directions and magnitudes of forces. _N_ is the normal force, _mg_ is the force of gravity, and _F_(f)_ is the force of friction.]]
 
 The normal force is defined as the net force compressing two parallel surfaces together, and its direction is perpendicular to the surfaces. In the simple case of a mass resting on a horizontal surface, the only component of the normal force is the force due to gravity, where N = mg . In this case, the magnitude of the friction force is the product of the mass of the object, the acceleration due to gravity, and the coefficient of friction. However, the coefficient of friction is not a function of mass or volume; it depends only on the material. For instance, a large aluminum block has the same coefficient of friction as a small aluminum block. However, the magnitude of the friction force itself depends on the normal force, and hence on the mass of the block.
 
@@ -115,8 +115,6 @@ Under certain conditions some materials have very low friction coefficients. An 
 
 Static friction
 
-Static_kinetic_friction_vs_time.png
-
 Static friction is friction between two or more solid objects that are not moving relative to each other. For example, static friction can prevent an object from sliding down a sloped surface. The coefficient of static friction, typically denoted as _μ__(s), is usually higher than the coefficient of kinetic friction. Static friction is considered to arise as the result of surface roughness features across multiple length-scales at solid surfaces. These features, known as asperities are present down to nano-scale dimensions and result in true solid to solid contact existing only at a limited number of points accounting for only a fraction of the apparent or nominal contact area. The linearity between applied load and true contact area, arising from asperity deformation, gives rise to the linearity between static frictional force and normal force, found for typical Amonton-Coulomb type friction.[59]
 
 The static friction force must be overcome by an applied force before an object can move. The maximum possible friction force between two surfaces before sliding begins is the product of the coefficient of static friction and the normal force: F_(max) = μ_(s)F_(n) . When there is no sliding occurring, the friction force can have any value from zero up to F_(max) . Any force smaller than F_(max)  attempting to slide one surface over the other is opposed by a frictional force of equal magnitude and opposite direction. Any force larger than F_(max)  overcomes the force of static friction and causes sliding to occur. The instant sliding occurs, static friction is no longer applicable—the friction between the two surfaces is then called kinetic friction.
@@ -132,8 +130,6 @@ KINETIC FRICTION, also known as DYNAMIC FRICTION or SLIDING FRICTION, occurs whe
 New models are beginning to show how kinetic friction can be greater than static friction.[65] Kinetic friction is now understood, in many cases, to be primarily caused by chemical bonding between the surfaces, rather than interlocking asperities;[66] however, in many other cases roughness effects are dominant, for example in rubber to road friction.[67] Surface roughness and contact area affect kinetic friction for micro- and nano-scale objects where surface area forces dominate inertial forces.[68]
 
 The origin of kinetic friction at nanoscale can be explained by thermodynamics.[69] Upon sliding, new surface forms at the back of a sliding true contact, and existing surface disappears at the front of it. Since all surfaces involve the thermodynamic surface energy, work must be spent in creating the new surface, and energy is released as heat in removing the surface. Thus, a force is required to move the back of the contact, and frictional heat is released at the front.
-
-Free_body.svg
 
 Angle of friction
 

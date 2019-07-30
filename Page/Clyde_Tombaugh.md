@@ -26,7 +26,7 @@ Through the daughter of his youngest brother, Robert M. Tombaugh is the great un
 
 Discovery of Pluto
 
-Lowell_astrograph.jpg]]
+]]
 
 While a young researcher working for the Lowell Observatory in Flagstaff, Arizona, Tombaugh was given the job to perform a systematic search for a trans-Neptunian planet (also called Planet X), which had been predicted by Percival Lowell and William Pickering.
 
@@ -44,7 +44,7 @@ However, more recently the relatively bright object has been discovered. It has 
 
 Asteroids discovered
 
-Lowell_blink_comparator.jpg Tombaugh is officially credited by the Minor Planet Center with discovering 15 asteroids, and he observed nearly 800 asteroids[26] during his search for Pluto and years of follow-up searches looking for another candidate for the postulated Planet X. Tombaugh is also credited with the discovery of periodic comet 274P/Tombaugh–Tenagra.[27] He also discovered hundreds of variable stars, as well as star clusters, galaxy clusters, and a galaxy supercluster.[28]
+Tombaugh is officially credited by the Minor Planet Center with discovering 15 asteroids, and he observed nearly 800 asteroids[26] during his search for Pluto and years of follow-up searches looking for another candidate for the postulated Planet X. Tombaugh is also credited with the discovery of periodic comet 274P/Tombaugh–Tenagra.[27] He also discovered hundreds of variable stars, as well as star clusters, galaxy clusters, and a galaxy supercluster.[28]
 
 +----------------+--------------------+
 | Designation    | Discovery          |

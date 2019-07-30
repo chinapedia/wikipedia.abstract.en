@@ -11,15 +11,13 @@ The first group of Euro-American settlers to reach the area that is now Brown Co
 
 Creation of the town
 
-Aberdeen_1883.jpg Aberdeen, like many towns of the Midwest, was built around the newly developing railroad systems. Aberdeen was first officially plotted as a town site on January 3, 1881, by Charles Prior, the superintendent of the Minneapolis office of the Chicago, Milwaukee, and St. Paul Railroad, or the Milwaukee Road for short, which was presided over by Alexander Mitchell. Mitchell, Charles Prior's boss, was responsible for the choice of town names, was born in Aberdeen, Scotland, after which the town of Aberdeen, South Dakota, was named.[4] Aberdeen was officially founded on July 6, 1881, the date of the first arrival of a Milwaukee Railroad train. Aberdeen then operated under a city charter granted by the Territorial Legislature in March 1883.
+Aberdeen, like many towns of the Midwest, was built around the newly developing railroad systems. Aberdeen was first officially plotted as a town site on January 3, 1881, by Charles Prior, the superintendent of the Minneapolis office of the Chicago, Milwaukee, and St. Paul Railroad, or the Milwaukee Road for short, which was presided over by Alexander Mitchell. Mitchell, Charles Prior's boss, was responsible for the choice of town names, was born in Aberdeen, Scotland, after which the town of Aberdeen, South Dakota, was named.[4] Aberdeen was officially founded on July 6, 1881, the date of the first arrival of a Milwaukee Railroad train. Aberdeen then operated under a city charter granted by the Territorial Legislature in March 1883.
 
 As Aberdeen grew, many businesses and buildings were constructed along Aberdeen's Main Street. However, this soon became a problem due to Aberdeen's periodic flooding, which led to it being referred to as "The Town in the Frog Pond". At first, this unique condition presented no problem to the newly constructed buildings because it had not rained very much but, when heavy rains fell, the Pond reappeared and flooded the basements of every building on Main Street, causing many business owners and home owners much turmoil. When this flooding happened, the city had one steam-powered pump that had to be used to dry out the entire area that had been flooded, which would take days, if not weeks – and more often than not, it would have rained again in this time period and caused even more flooding, even in the basements that had already been emptied of the water. When the water was gone from the basements, the city still had to deal with the mud that also resulted from the heavy rains.
 
 The city decided in 1882 to build an artesian ditch to control the "Frog Pond" effects; the plan was later upgraded and developed into an artesian well in 1884 to combat the heavy rains and keep the basements from flooding. The artesian well was designed by the city engineers to prevent flooding and develop a water system. However, during the digging of the well, the water stream that was found underground was too powerful to be contained. The water came blasting out with violent force and had the entire Main Street submerged in up to four feet of water. The engineers realized the previous flaws of the artesian well plan and soon added a gate valve to the well to control the flow of water, giving Aberdeen its first working water supply.
 
 Aberdeen had four different railroad companies with depots built in the newly developing town. With these four railroads intersecting here, Aberdeen soon became known as the "Hub City of the Dakotas". When looking down on Aberdeen from above, the railroad tracks converging in Aberdeen resembled the spokes of a wheel converging at a hub, hence the name "Hub City of the Dakotas". These four railroad companies are the reason why Aberdeen was able to grow and flourish as it did. The only railroad still running through Aberdeen is the Burlington Northern Santa Fe.
-
-Aberdeen,_South_Dakota_1910.jpg
 
 1999 South Dakota Learjet Crash
 
@@ -163,7 +161,7 @@ Completed in the summer of 2007, this complex includes a zero entry pool, compet
 
 Wylie Park Recreation Area
 
-Wylie Park Recreation Area features go-kart racing, sand volleyball courts, access to Wylie Lake, camping area, picnic areas, and is connected to Storybook Land. Wylie Lake is a small man-made lake, open in the summer months for swimming, lying on the beach, and paddle boating. Storybookland_castle_aberdeen_sd.jpg in the foreground]]
+Wylie Park Recreation Area features go-kart racing, sand volleyball courts, access to Wylie Lake, camping area, picnic areas, and is connected to Storybook Land. Wylie Lake is a small man-made lake, open in the summer months for swimming, lying on the beach, and paddle boating. in the foreground]]
 
 Storybook Land
 
@@ -187,8 +185,6 @@ The park has multiple private and public boat ramps as well as an accessible fis
 Government
 
 Aberdeen is the center of government for Brown County. City government is overseen by a mayor/city manager and eight council members. The city council is composed of Mayor Travis Schaunaman, City Manager Lynn Lander, and council members Dave Lunzman, Josh Rife, Mark Remily, Rob Ronayne, Alan Johnson, David Bunsness, Clint Rux and Dennis 'Mike' Olson.[16] Each council member serves a five-year term.
-
-Brown_county_south_dakota_courthouse_aberdeen.jpg Aberdeen_sd_city_hall.jpg
 
 County government is overseen by five commissioners. Each county commissioner serves a five-year term. The county commissioners include Duane Sutton, Tom Fischbach, Mike Wiese, Rachel Kippley, and Doug Fjeldheim. Aberdeen is home to Brown County offices including clerk-magistrate, county auditor, landfill office, register of deeds, county treasurer, coroner, emergency management, highway superintendent, public welfare, state's attorney, and a few others.
 
@@ -322,8 +318,6 @@ Jefferson Lines is a bus service from Aberdeen that connects to Sioux Falls, Sou
 CAR RENTAL
 
 There are five car rental services in Aberdeen: Hertz, Avis, Dollar-Thrifty, Toyota Rent-a-Car and Nissan Rental Car. Hertz and Avis Car rental are located in the airport terminal. Dollar-Thrifty is located in Aberdeen Flying Service. Toyota Rent-a-Car and Nissan Rental Car are located at Harr Motors across from the airport.
-
-Chicago_Milwaukee_St._Paul_and_Pacific_Railroad_Depot_Aberdeen_SD.jpg
 
 TRAIN
 

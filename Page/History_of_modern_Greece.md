@@ -7,20 +7,20 @@ The Byzantine Empire had ruled most of the Greek-speaking world since late Antiq
 
 Ottoman control was largely absent in the mountainous interior of Greece, and many fled there, often becoming brigands.[1] Otherwise, only the islands of the Aegean and a few coastal fortresses on the mainland, under Venetian and Genoese rule, remained free from Ottoman rule, but by the mid-16th century, the Ottomans had conquered most of them as well. Rhodes fell in 1522, Cyprus in 1571, and the Venetians retained Crete until 1670. The Ionian Islands were only briefly ruled by the Ottomans (Kefalonia from 1479 to 1481 and from 1485 to 1500), and remained primarily under the rule of Venice.
 
-Η_μάχη_της_Αλαμάνας.jpg, 1821–1829]] The first large-scale insurrection against Ottoman rule was the Orlov Revolt of the early 1770s, but it was brutally repressed. The same time, however, also marks the start of the Modern Greek Enlightenment, as Greeks who studied in Western Europe brought knowledge and ideas back to their homeland, and as Greek merchants and shipowners increased their wealth. As a result, especially in the aftermath of the French Revolution, liberal and nationalist ideas began to spread across the Greek lands.
+, 1821–1829]] The first large-scale insurrection against Ottoman rule was the Orlov Revolt of the early 1770s, but it was brutally repressed. The same time, however, also marks the start of the Modern Greek Enlightenment, as Greeks who studied in Western Europe brought knowledge and ideas back to their homeland, and as Greek merchants and shipowners increased their wealth. As a result, especially in the aftermath of the French Revolution, liberal and nationalist ideas began to spread across the Greek lands.
 
 In 1821, the Greeks rose up against the Ottoman Empire. Initial successes were followed by infighting, which almost caused the Greek struggle to collapse; nevertheless, the prolongation of the fight forced the Great Powers (Britain, Russia and France) to recognize the claims of the Greek rebels to separate statehood (Treaty of London) and intervene against the Ottomans at the Battle of Navarino. Greece was initially to be an autonomous state under Ottoman suzerainty, but by 1832, in the Treaty of Constantinople, it was recognized as a fully independent kingdom. In the meantime, the 3rd National Assembly of the Greek insurgents called upon Ioannis Kapodistrias, a former foreign minister of Russia, to take over the governance of the fledgling state in 1827.
 
 
 Administration of Ioannis Kapodistrias
 
-Kapodistrias3.jpg.]]
+.]]
 
 On his arrival, Kapodistrias launched a major reform and modernisation programme that covered all areas. He re-established military unity by bringing an end to the second phase of the civil war; re-organised the military, which was then able to reconquer territory lost to the Ottoman military during the civil wars; and introduced the first modern quarantine system in Greece, which brought diseases such typhoid fever, cholera and dysentery under control for the first time since the start of the War of Independence.
 
 Kapodistrias also negotiated with the Great Powers and the Ottoman Empire to establish the borders and degree of independence of the Greek state; signed the peace treaty that ended the War of Independence with the Ottomans; introduced the _phoenix_, the first modern Greek currency; organised local administration; and, in an effort to raise the living standards of the population, introduced the cultivation of the potato into Greece.
 
-Phoenix_Greek_coin_1828-1833.jpg coin.]]
+coin.]]
 
 Furthermore, he tried to undermine the authority of the traditional clans (or dynasties) that he considered the useless legacy of a bygone and obsolete era.[2] However, he underestimated the political and military strength of the _capetanei_ (καπεταναίοι – commanders) who had led the revolt against Ottoman Empire in 1821, and who had expected a leadership role in the post-revolution Government. When a dispute between the _capetanei_ of Laconia and the appointed governor of the province escalated into an armed conflict, he called in Russian troops to restore order, because much of the army was controlled by _capetanei_ who had been part of the rebellion.
 
@@ -33,7 +33,7 @@ The loss of the best ships in the fleet crippled the Hellenic Navy for many year
 
 Assassination of Kapodistrias and the creation of the Kingdom of Greece
 
-Kapodistrias_death.jpg.]] Peter_von_Hess_-_The_Entry_of_King_Othon_of_Greece_in_Athens_-_WGA11387.jpg in Athens'' by Peter von Hess.]]
+.]] in Athens'' by Peter von Hess.]]
 
 In 1831, Kapodistrias ordered the imprisonment of Petrobey Mavromichalis, the Bey of the Mani Peninsula, one of the wildest and most rebellious parts of Greece. This was a mortal offence to the Mavromichalis family, and on 9 October 1831 (27 September in the Julian Calendar) Kapodistrias was assassinated by Petros' brother Konstantis and son Georgios on the steps of the church of Saint Spyridon in Nafplio.
 
@@ -42,7 +42,7 @@ Ioannis Kapodistrias was succeeded as Governor by his younger brother, Augustino
 
 Reign of King Otto, 1833–1863
 
-Prinz_Otto_von_Bayern_Koenig_von_Griechenland_1833.jpg, the first King of modern Greece.]]
+, the first King of modern Greece.]]
 
 Otto's reign would prove troubled, but he managed to hang on for 30 years before he and his wife, Queen Amalia, left the same way they came, aboard a British warship. During the early years of his reign, a group of Bavarian Regents ruled in his name, and they made themselves very unpopular by trying to impose German ideas of rigid hierarchical government on the Greeks, while keeping most significant state offices away from them. Nevertheless, they laid the foundations of a Greek administration, army, justice system and education system. Otto was sincere in his desire to give Greece good government, but he suffered from two great handicaps: his Roman Catholic faith and his childless marriage to Queen Amalia. This meant he could neither be crowned as King of Greece under the Orthodox rite nor establish a dynasty.
 
@@ -59,7 +59,7 @@ The Greeks then asked Britain to send Queen Victoria's son Prince Alfred as thei
 
 Reign of King George I, 1864–1913
 
-King_George_of_Hellenes.jpg in Hellenic Navy uniform.]]
+in Hellenic Navy uniform.]]
 
 At the urging of Britain and King George, Greece adopted the much more democratic Greek Constitution of 1864. The powers of the King were reduced, the Senate was abolished, and the franchise was extended to all adult males. Approval voting was used in elections, with one urn for each candidate divided into "yes" and "no" portions into which voters dropped lead beads. Nevertheless, Greek politics remained heavily dynastic, as it has always been. Family names such as Zaimis, Rallis and Trikoupis occurred repeatedly as Prime Ministers.
 
@@ -69,17 +69,17 @@ Greece remained a very poor country throughout the 19th century. The country lac
 
 By the 1890s Greece was virtually bankrupt. Poverty was rife in the rural areas and the islands, and was eased only by large-scale emigration to the United States. There was little education in the rural areas. Nevertheless, there was progress in building communications and infrastructure, and fine public buildings were erected in Athens. Despite the bad financial situation, Athens staged the revival of the Olympic Games in 1896, which proved a great success.
 
-The_Hellenic_Parliament_(4551856563).jpg in the 1880s, with PM Charilaos Trikoupis standing at the podium.]] The parliamentary process developed greatly in Greece during the reign of George I. Initially, the royal prerogative in choosing his prime minister remained and contributed to governmental instability, until the introduction of the _dedilomeni_ principle of parliamentary confidence in 1875 by the reformist Charilaos Trikoupis. Clientelism and frequent electoral upheavals however remained the norm in Greek politics, and frustrated the country's development.
+in the 1880s, with PM Charilaos Trikoupis standing at the podium.]] The parliamentary process developed greatly in Greece during the reign of George I. Initially, the royal prerogative in choosing his prime minister remained and contributed to governmental instability, until the introduction of the _dedilomeni_ principle of parliamentary confidence in 1875 by the reformist Charilaos Trikoupis. Clientelism and frequent electoral upheavals however remained the norm in Greek politics, and frustrated the country's development.
 
 Corruption and Trikoupis' increased spending (to create necessary infrastructure such as the Corinth Canal) overtaxed the weak Greek economy, forcing the declaration of public insolvency in 1893 and to accept the imposition of an International Financial Control authority to pay off the country's creditors.
 
 Another political issue in 19th-century Greece was the Greek language question. The Greek people spoke a form of Greek called Demotic. Many of the educated elite saw this as a peasant dialect and were determined to restore the glories of Ancient Greek. Government documents and newspapers were consequently published in _Katharevousa_ (purified) Greek, a form that few ordinary Greeks could read. Liberals favoured recognising Demotic as the national language, but conservatives and the Orthodox Church resisted all such efforts, to the extent that when the New Testament was translated into Demotic in 1901, riots erupted in Athens and the government fell (the _Evangeliaka_). This issue would continue to plague Greek politics until the 1970s.
 
-Map_of_Greece_1903.png, the Cretan State and the Principality of Samos in 1903, before the Balkan Wars.]] All Greeks were united, however, in their determination to liberate the Greek-speaking provinces of the Ottoman Empire. Especially in Crete, the Cretan Revolt (1866–1869) raised nationalist fervour. When war broke out between Russian and the Ottomans in the Russo-Turkish War (1877–1878), Greek popular sentiment rallied to Russia's side, but Greece was too poor and too concerned about British intervention to enter the war officially. Nevertheless, in 1881, Thessaly and small parts of Epirus were ceded to Greece as part of the Treaty of Berlin.
+, the Cretan State and the Principality of Samos in 1903, before the Balkan Wars.]] All Greeks were united, however, in their determination to liberate the Greek-speaking provinces of the Ottoman Empire. Especially in Crete, the Cretan Revolt (1866–1869) raised nationalist fervour. When war broke out between Russian and the Ottomans in the Russo-Turkish War (1877–1878), Greek popular sentiment rallied to Russia's side, but Greece was too poor and too concerned about British intervention to enter the war officially. Nevertheless, in 1881, Thessaly and small parts of Epirus were ceded to Greece as part of the Treaty of Berlin.
 
 Greeks in Crete continued to stage regular revolts, and in 1897, the Greek government under Theodoros Deligiannis, bowing to popular pressure, declared war on the Ottomans. In the ensuing Greco-Turkish War of 1897, the badly trained and equipped Greek army was defeated by the Ottomans. Through the intervention of the Great Powers however, Greece lost only a little territory along the border to Turkey, while Crete was established as an autonomous state under Prince George of Greece as the Cretan State.
 
-Goudi_coup_poster.jpg of 1909 as a national rebirth.]] Nationalist sentiment among Greeks in the Ottoman Empire continued to grow, and by the 1890s there were constant disturbances in Macedonia. Here, the Greeks were in competition not only with the Ottomans, but also with the Bulgarians, in an armed propaganda struggle for the hearts and minds of the ethnically mixed local population, the so-called "Macedonian Struggle".
+of 1909 as a national rebirth.]] Nationalist sentiment among Greeks in the Ottoman Empire continued to grow, and by the 1890s there were constant disturbances in Macedonia. Here, the Greeks were in competition not only with the Ottomans, but also with the Bulgarians, in an armed propaganda struggle for the hearts and minds of the ethnically mixed local population, the so-called "Macedonian Struggle".
 
 In July 1908, the Young Turk Revolution broke out in the Ottoman Empire. Taking advantage of the Ottoman internal turmoil, Austria-Hungary annexed Bosnia and Herzegovina and Bulgaria declared its independence from the Ottoman Empire. On Crete, the local population, led by a young politician named Eleftherios Venizelos, declared _Enosis_, Union with Greece, provoking another crisis. The fact that the Greek government, led by Dimitrios Rallis, proved unable to likewise take advantage of the situation and bring Crete into the fold, rankled many Greeks, especially young military officers. These formed a secret society, the "Military League", with the purpose of emulating their Ottoman colleagues to seek governmental reforms.
 
@@ -89,7 +89,7 @@ Venizelos initiated a major reform program, including a new and more liberal con
 
 Balkan Wars
 
-Lahanas1913.jpg]] Through the spring of 1912, a series of bilateral agreements between the Christian Balkan states (Greece, Bulgaria, Montenegro and Serbia) formed the Balkan League, which in October 1912 declared war on the Ottoman Empire. In the First Balkan War, the Ottomans were defeated on all fronts, and the four allies rushed to grab as much territory as they could. The Greeks occupied Thessaloniki just ahead of the Bulgarians, and also took much of Epirus with Ioannina, as well as Crete and the Aegean Islands.
+]] Through the spring of 1912, a series of bilateral agreements between the Christian Balkan states (Greece, Bulgaria, Montenegro and Serbia) formed the Balkan League, which in October 1912 declared war on the Ottoman Empire. In the First Balkan War, the Ottomans were defeated on all fronts, and the four allies rushed to grab as much territory as they could. The Greeks occupied Thessaloniki just ahead of the Bulgarians, and also took much of Epirus with Ioannina, as well as Crete and the Aegean Islands.
 
 The Treaty of London (1913) ended the war, but no one was left satisfied, and soon, the four allies fell out over the partition of Macedonia. In June 1913, Bulgaria attacked Greece and Serbia, beginning the Second Balkan War, but was beaten back. The Treaty of Bucharest (1913), which concluded the Second Balkan War, left Greece with southern Epirus, the southern half of Macedonia (known as Greek Macedonia), Crete and the Aegean islands, except for the Dodecanese, which had been occupied by Italy since 1911. These gains nearly doubled Greece's area and population.
 
@@ -102,7 +102,7 @@ When World War I broke out in 1914, the King and his Prime Minister Venizelos bo
 
 Since Greece, a maritime country, could not oppose the mighty British navy, and citing the need for a respite after two wars, King Constantine favored continued neutrality, while Venizelos actively sought Greek entry in the war on the Allied side. Venizelos resigned, but won the Greek elections of 1915 and again formed the government. When Bulgaria entered the war as a German ally in October 1915, Venizelos invited Allied forces into Greece (the Salonika Front), for which he was again dismissed by Constantine.
 
-Venizelos_WWI_1918.jpg during the First World War, 1917. He is accompanied by Admiral Pavlos Koundouriotis (left) and General Maurice Sarrail (right).]]
+during the First World War, 1917. He is accompanied by Admiral Pavlos Koundouriotis (left) and General Maurice Sarrail (right).]]
 
 In August 1916, after several incidents in which both sides in the war had encroached upon the still theoretically neutral Greek territory, Venizelist officers rose up in Allied-controlled Thessaloniki and Venizelos established a separate government there known as the result of a so-called Movement of National Defence. Constantine was now ruling only in what was Greece before the Balkan Wars ("Old Greece"), and his government was subject to repeated humiliations from the Allies. In November 1916 the French occupied Piraeus, bombarded Athens and forced the Greek fleet to surrender. The royalist troops fired at them, leading to a battle between French and Greek royalist troops. There were also riots against supporters of Venizelos in Athens (the _Noemvriana_).
 
@@ -110,11 +110,11 @@ Following the February Revolution in Russia in 1917, the Tsar's support for his 
 
 Greco-Turkish War (1919–1922)
 
-Hellenism_in_the_Near_East_1918.jpg in the Balkans and western Asia Minor, according to a 1919 map submitted to the Paris Peace Conference.]]
+in the Balkans and western Asia Minor, according to a 1919 map submitted to the Paris Peace Conference.]]
 
 With the end of the war in November 1918, the moribund Ottoman Empire was ready to be carved up among the victors, and Greece now expected the Allies to deliver on their promises. In no small measure through the diplomatic efforts of Venizelos, Greece secured Western Thrace in the Treaty of Neuilly in November 1919 and Eastern Thrace and a zone around Smyrna in western Anatolia (already under Greek administration as the Occupation of İzmir since May 1919) in the Treaty of Sèvres of August 1920. The future of Constantinople was left to be determined. But at the same time, a Turkish National Movement rose in Turkey led by Mustafa Kemal (later Kemal Atatürk), who set up a rival government in Ankara and was engaged in fighting the Greek army.
 
-Greco_Turkish_War_1919-1922.svg.]]
+.]]
 
 At this point, the fulfillment of the _Megali Idea_ seemed near. Yet so deep was the rift in Greek society that on his return to Greece, an assassination attempt was made on Venizelos by two royalist former officers. Even more surprisingly, Venizelos' Liberal Party lost the Greek elections of November 1920, and in the Greek plebescite of 1920, the Greek people voted for the return of King Constantine from exile after the sudden death of King Alexander.
 
@@ -125,7 +125,7 @@ The Greek army evacuated not only Anatolia, but also Eastern Thrace and the isla
 
 Republic and Monarchy (1922–1940)
 
-Demonstration_for_the_declaration_of_the_Greek_Republic_-_1924.jpg, 1924, with placards of republican leaders Papanastasiou, Hatzikyriakos and Kondylis.]]
+, 1924, with placards of republican leaders Papanastasiou, Hatzikyriakos and Kondylis.]]
 
 The catastrophe deepened the political crisis, with the returning army rising up under Venizelist officers and forcing King Constantine to abdicate again, in September 1922, in favour of his firstborn son, George II. The "Revolutionary Committee" headed by Colonels Stylianos Gonatas (soon to become Prime Minister) and Nikolaos Plastiras engaged in a witch-hunt against the royalists, culminating in the "Trial of the Six".
 
@@ -143,7 +143,7 @@ The Great Depression hit Greece, an already poor country dependent on agricultur
 
 Two failed Venizelist military coups followed in 1933 and 1935 in an effort to preserve the Republic, but they had the opposite effect. On 10 October 1935, a few months after he suppressed the 1935 Greek coup d'état attempt, Georgios Kondylis, the former Venizelist stalwart, abolished the Republic in another coup, and declared the monarchy restored. The rigged Greek plebiscite of 1935 confirmed the regime change (with an unsurprising 97.88% of votes), and King George II returned.
 
-Metaxas-regime-greek-fascism.png (4th of August Regime) adopted many of the ideas and symbolism of Italian Fascism. Here members of the National Organisation of Youth give the Roman salute to Metaxas.]]
+(4th of August Regime) adopted many of the ideas and symbolism of Italian Fascism. Here members of the National Organisation of Youth give the Roman salute to Metaxas.]]
 
 King George II immediately dismissed Kondylis and appointed Professor Konstantinos Demertzis as interim Prime Minister. Venizelos meanwhile, in exile, urged an end to the conflict over the monarchy in view of the threat to Greece from the rise of Fascist Italy. His successors as Liberal leader, Themistoklis Sophoulis and Georgios Papandreou, agreed, and the restoration of the monarchy was accepted. The Greek elections of 1936 resulted in a hung parliament, with the Communists holding the balance. As no government could be formed, Demertzis continued on. At the same time, a series of deaths left the Greek political scene in disarray: Kondylis died in February, Venizelos in March, Demertzis in April and Tsaldaris in May. The road was now clear for Ioannis Metaxas, who had succeeded Demertzis as interim Prime Minister.
 
@@ -154,7 +154,7 @@ Despite these efforts, the regime lacked a broad popular base or a mass movement
 
 World War II
 
-Bundesarchiv_Bild_101I-164-0389-23A,_Athen,_Hissen_der_Hakenkreuzflagge.jpg: German soldiers raising the German War Flag over the Acropolis. It would be taken down in one of the first acts of the Greek Resistance.]] Triple_Occupation_of_Greece.png Αντάρτες_του_ΕΑΜ-ΕΛΑΣ.jpg]]
+: German soldiers raising the German War Flag over the Acropolis. It would be taken down in one of the first acts of the Greek Resistance.]] ]]
 
 Despite this declared neutrality, Greece became a target for Mussolini's expansionist policies. Provocations against Greece included the sinking of the Greek cruiser _Elli_ on 15 August 1940. Italian troops crossed the border on 28 October 1940, beginning the Greco-Italian War, but were stopped by a determined Greek defence that ultimately drove them back into Albania.
 
@@ -175,7 +175,7 @@ German forces withdrew on 12 October 1944, and the government in exile returned 
 
 A few days later, on 3 December 1944, a large-scale pro-EAM demonstration in Athens ended in violence and ushered an intense, house-to-house struggle with British and monarchist forces (the _Dekemvriana_). After three weeks, the Communists were defeated: the Varkiza agreement ended the conflict and disarmed ELAS, and an unstable coalition government was formed. The anti-EAM backlash grew into a full-scale "White Terror", which exacerbated tensions.
 
-Gde.svg", as well as entry routes to Greece.]]
+", as well as entry routes to Greece.]]
 
 The Communists boycotted the March 1946 elections, and on the same day, fighting broke out again. By the end of 1946, the Communist Democratic Army of Greece had been formed, pitted against the governmental National Army, which was backed first by Britain and after 1947 by the United States.
 
@@ -192,7 +192,7 @@ After the civil war, Greece sought to join the Western democracies and became a 
 
 Since the Civil war (1946–49) but even more after that, the parties in the parliament were divided in three political concentrations. The political formation Right-Centre-Left, given the exacerbation of political animosity that had preceded dividing the country in the 40s, tended to turn the concurrence of parties into ideological positions.
 
-Greece._Workmen_grade_the_street_in_front_of_new_housing_constructed_with_the_help_of_Marshall_Plan_funds_in_Greece_-_NARA_-_541700.tif funds in Greece.]]
+funds in Greece.]]
 
 In the beginning of the 1950s, the forces of the Centre (EPEK) succeeded in gaining the power and under the leadership of the aged general N. Plastiras they governed for about half a four-year term. These were a series of governments having limited manoeuvreability and inadequate influence in the political arena. This government, as well as those that followed, was constantly under the American auspices. The defeat of EPEK in the elections of 1952, apart from increasing the repressive measures that concerned the defeated of the Civil war, also marked the end of the general political position that it represented, namely political consensus and social reconciliation.
 
@@ -216,8 +216,6 @@ Even the armed forces, the regime's foundation, were not immune: In May 1973, a 
 
 
 Transition and democracy (1973–2009)
-
-Territorial_Expansion_of_Greece_from_1832–1947.gif
 
 On 25 November 1973, following the bloody suppression of Athens Polytechnic uprising on the 17th, the hardliner Brigadier Dimitrios Ioannides overthrew Papadopoulos and tried to continue the dictatorship despite the popular unrest the uprising had triggered. Ioannides' attempt in July 1974 to overthrow Archbishop Makarios, the President of Cyprus, brought Greece to the brink of war with Turkey, which invaded Cyprus and occupied part of the island.[8]
 

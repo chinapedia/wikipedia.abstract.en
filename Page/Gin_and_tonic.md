@@ -1,10 +1,10 @@
 A GIN AND TONIC is a highball cocktail made with gin and tonic water poured over ice. The ratio of gin to tonic varies according to taste, strength of the gin, other drink mixers being added, etc., with most recipes calling for between a 1:1 to 1:3 ratio. It is usually garnished with a slice or wedge of lime.
 
-The drink is a particular phenomenon as its taste is quite different from the taste of its constituent liquids which are rather bitter. The chemical structures of both ingredients are of a similar molecular shape and attract each other, shielding the bitter taste.[1] Gin_and_tonic_with_lemon.jpg
+The drink is a particular phenomenon as its taste is quite different from the taste of its constituent liquids which are rather bitter. The chemical structures of both ingredients are of a similar molecular shape and attract each other, shielding the bitter taste.[1]
 
 In some countries (e.g., UK), gin and tonic is also marketed pre-mixed in single-serving cans.[2] In the United States, most bars use "soda out of a gun that in no way, shape, or form resembles quinine water", according to bartender Dale DeGroff.[3] To get a real gin and tonic, DeGroff recommends specifying bottled tonic.[4] Alternatively, one can add tonic syrup to soda water.[5]
 
-Self-made_gin_and_tonic_cropped.jpg London Dry Gin and Schweppes Indian Tonic, garnished with slices of lime.]]
+London Dry Gin and Schweppes Indian Tonic, garnished with slices of lime.]]
 
 It is commonly referred to as a "G and T" in the UK, US, Canada, Australia, New Zealand and Ireland.[6] In some parts of the world, it is called a "gin tonic" (e.g. in Germany, Italy, Japan – ジン・トニック, phonetically "jin tonikku" – , the Netherlands, Spain, Turkey).
 
@@ -31,7 +31,7 @@ Some gin-and-tonic inspired drinks also have champagne (e.g. the Parisian), verm
 
 Spanish variations
 
-A_Gin_Tonica_with_Fruit_Garnish_at_Cappuccino_Gin_Bar_in_Salou,_Spain,_June-2013.jpg In Spain, a variation on the drink called Gin-Tonic has become popular. This differs from a traditional gin and tonic as it is served in a balloon glass (copa de balon)[30] or coupe glass with plenty of ice and a garnish tailored to the flavours of the gin. The drink could be fruit-based but the use of herbs and vegetables, reflecting the gin's botanicals, is increasingly popular.[31] The balloon glass is used because the aromas of the drink can gather at its opening for the drinker to more easily appreciate.[32]
+In Spain, a variation on the drink called Gin-Tonic has become popular. This differs from a traditional gin and tonic as it is served in a balloon glass (copa de balon)[30] or coupe glass with plenty of ice and a garnish tailored to the flavours of the gin. The drink could be fruit-based but the use of herbs and vegetables, reflecting the gin's botanicals, is increasingly popular.[31] The balloon glass is used because the aromas of the drink can gather at its opening for the drinker to more easily appreciate.[32]
 
 The popularity of this variation of the gin and tonic has led to the establishment of Gin-Tonic bars, in which customers can choose their preferred gin, tonic, and garnish from a menu.[33]
 

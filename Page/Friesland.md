@@ -14,8 +14,6 @@ History
 
 Prehistory
 
-Continental.coast.150AD.Germanic.peoples.jpg
-
 The Frisii were among the migrating Germanic tribes that, following the breakup of Celtic Europe in the 4th century BC, settled along the North Sea. They came to control the area from roughly present-day Bremen to Brugge, and conquered many of the smaller offshore islands. What little is known of the Frisii is provided by a few Roman accounts, most of them military. Pliny the Elder said their lands were forest-covered with tall trees growing up to the edge of the lakes.[5] They lived by agriculture[6] and raising cattle.[7]
 
 In his _Germania_, Tacitus would describe all the Germanic peoples of the region as having elected kings with limited powers and influential military leaders who led by example rather than by authority. The people lived in spread-out settlements.[8] He specifically noted the weakness of Germanic political hierarchies in reference to the Frisii, when he mentioned the names of two kings of the 1st century Frisii and added that they were kings "as far as the Germans are under kings".[9]
@@ -24,15 +22,13 @@ In the 1st century BC, the Frisii halted a Roman advance and thus managed to mai
 
 Early Middle Ages
 
-Frisia_716-la.svg
-
 The area lay empty for one or two centuries, when changing environmental and political conditions made the region habitable again. At that time, during the Migration Period, "new" Frisians (probably descended from a merging of Angles, Saxons, Jutes and Frisii) repopulated the coastal regions.[13][14] These Frisians consisted of tribes with loose bonds, centred on war bands but without great power. The earliest Frisian records name four social classes, the _ethelings_ (_nobiles_ in Latin documents) and _frilings_, who together made up the "Free Frisians" who might bring suit at court, and the _laten_ or _liten_ with the slaves, who were absorbed into the _laten_ during the Early Middle Ages, as slavery was not so much formally abolished, as evaporated. The _laten_ were tenants of lands they did not own and might be tied to it in the manner of serfs, but in later times might buy their freedom.[15]
 
 Under the rule of King Aldgisl, the Frisians came in conflict with the Frankish mayor of the palace Ebroin, over the old Roman border fortifications. Aldgisl could keep the Franks at a distance with his army. During the reign of Redbad, however, the tide turned in favour of the Franks; in 690, the Franks were victorious in the Battle of Dorestad.[16] In 733, Charles Martel sent an army against the Frisians. The Frisian army was pushed back to Eastergoa. The next year the Battle of the Boarn took place. Charles ferried an army across the Almere with a fleet that enabled him to sail up to De Boarn. The Frisians were defeated in the ensuing battle,[17] and their last king Poppo was killed.[18] The victors began plundering and burning heathen sanctuaries. Charles Martel returned with much loot, and broke the power of the Frisian kings for good. The Franks annexed the Frisian lands between the Vlie and the Lauwers. They conquered the area east of the Lauwers in 785, when Charlemagne defeated Widukind. The Carolingians laid Frisia under the rule of _grewan_, a title that has been loosely related to count in its early sense of "governor" rather than "feudal overlord".[19] About 100,000 Dutch drowned in a flood in 1228.[20]
 
 Frisian freedom
 
-Dapperheidgrotepier.jpg in 1516 as depicted in a 19th-century painting by Johannes Hinderikus Egenberger]]
+in 1516 as depicted in a 19th-century painting by Johannes Hinderikus Egenberger]]
 
 When, around 800, the Scandinavian Vikings first attacked Frisia, which was still under Carolingian rule, the Frisians were released from military service on foreign territory in order to be able to defend themselves against the heathen Vikings. With their victory in the Battle of Norditi in 884 they were able to drive the Vikings permanently out of East Frisia, although it remained under constant threat. Over the centuries, whilst feudal lords reigned in the rest of Europe, no aristocratic structures emerged in Frisia. This 'Frisian freedom' was represented abroad by _redjeven_ who were elected from among the wealthier farmers or from elected representatives of the autonomous rural municipalities. Originally the _redjeven_ were all judges, so-called _Asega_, who were appointed by the territorial lords.[21]
 
@@ -42,7 +38,7 @@ In 1515, an army of peasant rebels and mercenaries known as the Arumer Zwarte Ho
 
 Modern times
 
-Gemme_van_Burmania_voor_Philips_II.jpg at his coronation]]
+at his coronation]]
 
 Charles V, the Holy Roman Emperor, became the first lord of the Lordship of Frisia. He appointed Georg Schenck van Toutenburg, who had crushed the peasants' revolt, as Stadtholder to rule over the province in his stead. When Charles abdicated in 1556, Frisia was inherited by Philip II of Spain along with the rest of the Netherlands. In 1566, Frisia joined the Dutch Revolt against Spanish rule.
 
@@ -53,7 +49,7 @@ In 1798, three years after the Batavian Revolution, the Lordship of Frisia was a
 
 Geography
 
-North_Holland,_Friesland_and_Flevoland_by_Sentinel-2.jpg Eerste_zonnestralen_strijken_over_een_winters_landschap._Locatie,_Langweerderwielen_(Langwarder_Wielen)_en_omgeving_04.jpg]] Uniek_door_eb_en_vloed_steeds_wisselend_kweldergebied._Locatie,_Noarderleech_Provincie_Friesland_013.jpg]] Larus_argentatus_Fries_wad.jpg
+]] ]]
 
 Friesland is situated at in the northwest of the Netherlands, west of the province of Groningen, northwest of Drenthe and Overijssel, north of Flevoland, northeast of the IJsselmeer and North Holland, and south of the North Sea. It is the largest province of the Netherlands if one includes areas of water; in terms of land area only, it is the third-largest province.
 
@@ -80,7 +76,7 @@ The ten urban areas in Friesland with the largest population are:[29]
 
 Municipalities
 
-Prov-Friesland-OpenTopo.jpg The province is divided into 18 municipalities, each with local government (municipal council, mayor and aldermen).
+The province is divided into 18 municipalities, each with local government (municipal council, mayor and aldermen).
 
 +-------------------+----------------+----------------+----------------------------+----------------------+
 | Municipality      | Population[30] | Total area[31] | Population density[32][33] | COROP                |
@@ -147,35 +143,35 @@ In 2010, Friesland had a population of 646,305 and a population density of .
 
 The years 1880–1900 show slower population growth due to a farm crisis during which some 20,000 Frisians emigrated to the United States.[34]
 
-+-----------------------+-----------------------+--------------------------------------+
-| +------+------------+ | +------+------------+ | Bevolkingsontwikkeling_Friesland.jpg |
-| | Year | Population | | | Year | Population | |                                      |
-| +======+============+ | +======+============+ |                                      |
-| | 1714 |            | | | 1910 |            | |                                      |
-| +------+------------+ | +------+------------+ |                                      |
-| | 1748 |            | | | 1920 |            | |                                      |
-| +------+------------+ | +------+------------+ |                                      |
-| | 1796 |            | | | 1930 |            | |                                      |
-| +------+------------+ | +------+------------+ |                                      |
-| | 1811 |            | | | 1940 |            | |                                      |
-| +------+------------+ | +------+------------+ |                                      |
-| | 1830 |            | | | 1950 |            | |                                      |
-| +------+------------+ | +------+------------+ |                                      |
-| | 1840 |            | | | 1960 |            | |                                      |
-| +------+------------+ | +------+------------+ |                                      |
-| | 1850 |            | | | 1970 |            | |                                      |
-| +------+------------+ | +------+------------+ |                                      |
-| | 1860 |            | | | 1982 |            | |                                      |
-| +------+------------+ | +------+------------+ |                                      |
-| | 1870 |            | | | 1990 |            | |                                      |
-| +------+------------+ | +------+------------+ |                                      |
-| | 1880 |            | | | 1999 |            | |                                      |
-| +------+------------+ | +------+------------+ |                                      |
-| | 1890 |            | | | 2010 |            | |                                      |
-| +------+------------+ | +------+------------+ |                                      |
-| | 1900 |            | |                       |                                      |
-| +------+------------+ |                       |                                      |
-+-----------------------+-----------------------+--------------------------------------+
++-----------------------+-----------------------+--+
+| +------+------------+ | +------+------------+ |  |
+| | Year | Population | | | Year | Population | |  |
+| +======+============+ | +======+============+ |  |
+| | 1714 |            | | | 1910 |            | |  |
+| +------+------------+ | +------+------------+ |  |
+| | 1748 |            | | | 1920 |            | |  |
+| +------+------------+ | +------+------------+ |  |
+| | 1796 |            | | | 1930 |            | |  |
+| +------+------------+ | +------+------------+ |  |
+| | 1811 |            | | | 1940 |            | |  |
+| +------+------------+ | +------+------------+ |  |
+| | 1830 |            | | | 1950 |            | |  |
+| +------+------------+ | +------+------------+ |  |
+| | 1840 |            | | | 1960 |            | |  |
+| +------+------------+ | +------+------------+ |  |
+| | 1850 |            | | | 1970 |            | |  |
+| +------+------------+ | +------+------------+ |  |
+| | 1860 |            | | | 1982 |            | |  |
+| +------+------------+ | +------+------------+ |  |
+| | 1870 |            | | | 1990 |            | |  |
+| +------+------------+ | +------+------------+ |  |
+| | 1880 |            | | | 1999 |            | |  |
+| +------+------------+ | +------+------------+ |  |
+| | 1890 |            | | | 2010 |            | |  |
+| +------+------------+ | +------+------------+ |  |
+| | 1900 |            | |                       |  |
+| +------+------------+ |                       |  |
++-----------------------+-----------------------+--+
 
 : HISTORICAL POPULATION OF FRIESLAND[35][36]
 
@@ -186,7 +182,7 @@ Since the late Middle Ages, Friesland has been renowned for the exceptional heig
 
 Economy
 
-Friesian_Stallion.jpg]]
+]]
 
 Friesland is mainly an agricultural province. The black and white Frisian cattle, black and white Stabyhoun and the black Frisian horse originated here. Tourism is another important source of income: the principal tourist destinations include the lakes in the southwest of the province and the islands in the Wadden Sea to the north. There are 195 windmills in the province of Friesland, out of a total of about 1200 in the entire country.
 
@@ -207,7 +203,7 @@ The language policy in Friesland is preservation. West Frisian is a mandatory su
 
 Sports
 
-Finish_11-stedentocht_1956.jpg in 1956]]
+in 1956]]
 
 The province is famous for its speed skaters, with mass participation in cross-country ice skating when weather conditions permit. When winters are cold enough to allow the freshwater canals to freeze hard, the province holds its traditional Elfstedentocht (Eleven cities tour), a ice skating tour. A traditional sport is Frisian handball. Another Frisian practice is _fierljeppen_, a sport with some similarities to pole vaulting. A jump consists of an intense sprint to the pole (_polsstok_), jumping and grabbing it, then climbing to the top while trying to control the pole's forward and lateral movements over a body of water and finishing with a graceful landing on a sand bed opposite to the starting point. Because of all the diverse skills required in fierljeppen, fierljeppers are considered to be very complete athletes with superbly developed strength and coordination. In the warmer months, many Frisians practice _wadlopen_, the traditional art of wading across designated sections of the Wadden Sea at low tide.
 
@@ -216,7 +212,7 @@ There are currently two top level football clubs playing in Friesland: SC Cambuu
 
 Politics
 
-Leeuwarden_Tweebaksmarkt_52_Provinsjehûs.jpg]]
+]]
 
 The King's Commissioner of Friesland is Arno Brok.[43] The States of Friesland have 43 seats. The Provincial Executive is a coalition of the Christian Democratic Appeal, the People's Party for Freedom and Democracy, the Socialist Party and the Frisian National Party (FNP).
 
@@ -227,7 +223,7 @@ The King's Commissioner of Friesland is Arno Brok.[43] The States of Friesland h
 
 Transport
 
-NS-Station-Leeuwarden-Centraal_Nederland.JPG is a national heritage site[44]]]
+is a national heritage site[44]]]
 
 The four motorways in the province are A6, A7 (E22), A31, and A32.[45]
 

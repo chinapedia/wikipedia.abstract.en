@@ -21,8 +21,6 @@ _Diablo II_ includes an item crafting system. An item known as the Horadric Cube
 
 Character classes
 
-Diablo_II_characters.jpg
-
 _Diablo II_ allows the player to choose between five different character classes: Amazon, Necromancer, Barbarian, Sorceress, and Paladin. Each character has different strengths, weaknesses and sets of skills to choose from, as well as varying beginning attributes. The maximum level that any character can obtain is level 99.
 
 -   THE AMAZON hails from the islands of the Twin Seas, near the border of the Great Ocean, and her clan is a rival to the Sisters of the Sightless Eye (known as Rogues). The Amazon is akin to the Rogue of _Diablo_: both primarily use bows, and both make equal use of strength and magic, however the Amazon can also use javelins and spears. Many of her defensive skills are passive in nature, especially Dodge, Avoid, and Evade.[8] The Amazon is voiced by Jessica Straus.[9]

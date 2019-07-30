@@ -1,5 +1,3 @@
-Passive_Mixer.jpg Virtual_Ground_Active_Mixer.jpg
-
 An ELECTRONIC MIXER is a device that combines two or more electrical or electronic signals into one or two composite output signals. There are two basic circuits that both use the term _mixer_, but they are very different types of circuits: additive mixers and multiplicative mixers. Additive mixers are also known as "ANALOG ADDERS" to distinguish from the related digital adder circuits.
 
 Simple additive mixers use Kirchhoff's circuit laws to add the currents of two or more signals together, and this terminology ("mixer") is only used in the realm of audio electronics where audio mixers are used to add together audio signals such as voice signals, music signals, and sound effects.

@@ -111,7 +111,7 @@ These diacritics are used in addition to the acute, grave, and circumflex accent
 
 Hebrew
 
-Example_of_biblical_Hebrew_trope.svg in red, cantillation in blue''']]
+in red, cantillation in blue''']]
 
 -   Niqqud
     -   _' ּ_' – Dagesh
@@ -134,13 +134,11 @@ Example_of_biblical_Hebrew_trope.svg in red, cantillation in blue''']]
 
 Korean
 
-Hunmin_jeong-eum.jpg, the Korean alphabet]] The diacritics >〮 and _' 〯_'  , known as Bangjeom (), were used to mark pitch accents in Hangul for Middle Korean. They were written to the left of a syllable in vertical writing and above a syllable in horizontal writing.
+, the Korean alphabet]] The diacritics >〮 and _' 〯_'  , known as Bangjeom (), were used to mark pitch accents in Hangul for Middle Korean. They were written to the left of a syllable in vertical writing and above a syllable in horizontal writing.
 
 The South Korean government officially revised the romanization of the Korean language in July 2000 to eliminate diacritics.
 
 Sanskrit and Indic
-
-Devanagari_matras.png
 
 Syriac
 

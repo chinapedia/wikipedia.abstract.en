@@ -17,7 +17,7 @@ The remaining isotopes of aluminium, with mass numbers ranging from 22 to 43, al
 
 Electron shell
 
-An aluminium atom has 13 electrons, arranged in an electron configuration of Ne]3s²3p¹, with three electrons beyond a stable noble gas configuration. Accordingly, the combined first three ionization energies of aluminium are far lower than the fourth ionization energy alone. Aluminium can relatively easily surrender its three outermost electrons in many chemical reactions (see below). The electronegativity of aluminium is 1.61 (Pauling scale). Aluminium_Atomic_lattice.png-HAADF micrograph of Al atoms viewed along the [001] zone axis.]] A free aluminium atom has a radius of 143 pm. With the three outermost electrons removed, the radius shrinks to 39 pm for a 4-coordinated atom or 53.5 pm for a 6-coordinated atom. At standard temperature and pressure, aluminium atoms (when not affected by atoms of other elements) form a face-centered cubic crystal system bound by metallic bonding provided by atoms' outermost electrons; hence aluminium (at these conditions) is a metal. This crystal system is shared by some other metals, such as lead and copper; the size of a unit cell of aluminium is comparable to that of those other metals.[9]
+An aluminium atom has 13 electrons, arranged in an electron configuration of Ne]3s²3p¹, with three electrons beyond a stable noble gas configuration. Accordingly, the combined first three ionization energies of aluminium are far lower than the fourth ionization energy alone. Aluminium can relatively easily surrender its three outermost electrons in many chemical reactions (see below). The electronegativity of aluminium is 1.61 (Pauling scale). -HAADF micrograph of Al atoms viewed along the [001] zone axis.]] A free aluminium atom has a radius of 143 pm. With the three outermost electrons removed, the radius shrinks to 39 pm for a 4-coordinated atom or 53.5 pm for a 6-coordinated atom. At standard temperature and pressure, aluminium atoms (when not affected by atoms of other elements) form a face-centered cubic crystal system bound by metallic bonding provided by atoms' outermost electrons; hence aluminium (at these conditions) is a metal. This crystal system is shared by some other metals, such as lead and copper; the size of a unit cell of aluminium is comparable to that of those other metals.[9]
 
 Bulk
 
@@ -28,8 +28,6 @@ The density of aluminium is 2.70 g/cm³, about 1/3 that of steel, much lower th
 Pure aluminum is quite soft and lacking in strength. In most applications various aluminium alloys are used instead because of their higher strength and hardness. The yield strength of pure aluminium is 7–11 MPa, while aluminium alloys have yield strengths ranging from 200 MPa to 600 MPa.[10] Aluminium is ductile, and malleable allowing it to be easily drawn and extruded. It is also easily machined, and the low melting temperature of 660 °C allows for easy casting.
 
 Aluminium is an excellent thermal and electrical conductor, having 59% the conductivity of copper, both thermal and electrical, while having only 30% of copper's density. Aluminium is capable of superconductivity, with a superconducting critical temperature of 1.2 kelvin and a critical magnetic field of about 100 gauss (10 milliteslas).[11] It is paramagnetic and thus essentially unaffected by static magnetic fields. The high electrical conductivity, however, means that it is strongly affected by changing magnetic field through the induction of eddy currents.
-
-Aluminium_bar_surface_etched.jpg
 
 
 Chemistry
@@ -51,8 +49,6 @@ Inorganic compounds
 The vast majority of compounds, including all Al-containing minerals and all commercially significant aluminium compounds, feature aluminium in the oxidation state 3+. The coordination number of such compounds varies, but generally Al³⁺ is six-coordinate or tetracoordinate. Almost all compounds of aluminium(III) are colorless.[17]
 
 All four trihalides are well known. Unlike the structures of the three heavier trihalides, aluminium fluoride (AlF₃) features six-coordinate Al. The octahedral coordination environment for AlF₃ is related to the compactness of the fluoride ion, six of which can fit around the small Al³⁺ center. AlF₃ sublimes (with cracking) at . With heavier halides, the coordination numbers are lower. The other trihalides are dimeric or polymeric with tetrahedral Al centers. These materials are prepared by treating aluminium metal with the halogen, although other methods exist. Acidification of the oxides or hydroxides affords hydrates. In aqueous solution, the halides often form mixtures, generally containing six-coordinate Al centers that feature both halide and aquo ligands. When aluminium and fluoride are together in aqueous solution, they readily form complex ions such as , , and . In the case of chloride, polyaluminium clusters are formed such as [Al₁₃O₄(OH)₂₄(H₂O)₁₂]⁷⁺.
-
-AlHydrolysis.png
 
 Aluminium forms one stable oxide with the chemical formula Al₂O_(3.) It can be found in nature in the mineral corundum.[18] Aluminium oxide is also commonly called alumina.[19] Sapphire and ruby are impure corundum contaminated with trace amounts of other metals. The two oxide-hydroxides, AlO(OH), are boehmite and diaspore. There are three trihydroxides: bayerite, gibbsite, and nordstrandite, which differ in their crystalline structure (polymorphs). Most are produced from ores by a variety of wet processes using acid and base. Heating the hydroxides leads to formation of corundum. These materials are of central importance to the production of aluminium and are themselves extremely useful.
 
@@ -80,7 +76,7 @@ Very simple Al(II) compounds are invoked or observed in the reactions of Al meta
 
 Organoaluminium compounds and related hydrides
 
-Trimethylaluminium-3D-balls.png, a compound that features five-coordinate carbon.]]
+, a compound that features five-coordinate carbon.]]
 
 A variety of compounds of empirical formula AlR₃ and AlR_(1.5)Cl_(1.5) exist.[25] These species usually feature tetrahedral Al centers formed by dimerization with some R or Cl bridging between both Al atoms, e.g. "trimethylaluminium" has the formula Al₂(CH₃)₆ (see figure). With large organic groups, triorganoaluminium compounds exist as three-coordinate monomers, such as triisobutylaluminium. Such compounds are widely used in industrial chemistry, despite the fact that they are often highly pyrophoric. Few analogues exist between organoaluminium and organoboron compounds other than large organic groups.
 
@@ -99,7 +95,7 @@ Aluminium's per-particle abundance in the Solar System is 3.15 ppm (parts per mi
 
 On Earth
 
-Bauxite_hérault.JPG minerals.]] Overall, the Earth is about 1.59% aluminium by mass (seventh in abundance by mass).[30] Aluminium occurs in greater proportion in the Earth than in the Universe because aluminium easily forms the oxide and becomes bound into rocks and aluminium stays in the Earth's crust while less reactive metals sink to the core.[31] In the Earth's crust, aluminium is the most abundant (8.3% by mass) metallic element and the third most abundant of all elements (after oxygen and silicon).[32] A large number of silicates in the Earth's crust contain aluminium.[33] In contrast, the Earth's mantle is only 2.38% aluminium by mass.[34]
+minerals.]] Overall, the Earth is about 1.59% aluminium by mass (seventh in abundance by mass).[30] Aluminium occurs in greater proportion in the Earth than in the Universe because aluminium easily forms the oxide and becomes bound into rocks and aluminium stays in the Earth's crust while less reactive metals sink to the core.[31] In the Earth's crust, aluminium is the most abundant (8.3% by mass) metallic element and the third most abundant of all elements (after oxygen and silicon).[32] A large number of silicates in the Earth's crust contain aluminium.[33] In contrast, the Earth's mantle is only 2.38% aluminium by mass.[34]
 
 Because of its strong affinity for oxygen, aluminium is almost never found in the elemental state; instead it is found in oxides or silicates. Feldspars, the most common group of minerals in the Earth's crust, are aluminosilicates. Aluminium also occurs in the minerals beryl, cryolite, garnet, spinel, and turquoise.[35] Impurities in Al₂O₃, such as chromium and iron, yield the gemstones ruby and sapphire, respectively.[36] Native aluminium metal can only be found as a minor phase in low oxygen fugacity environments, such as the interiors of certain volcanoes.[37] Native aluminium has been reported in cold seeps in the northeastern continental slope of the South China Sea. It is possible that these deposits resulted from bacterial reduction of tetrahydroxoaluminate Al(OH)₄^(−).[38]
 
@@ -108,7 +104,7 @@ Although aluminium is a common and widespread element, not all aluminium mineral
 
 History
 
-Friedrich_W%C3%B6hler_Litho.jpg, the chemist who first thoroughly described metallic elemental aluminium]]
+, the chemist who first thoroughly described metallic elemental aluminium]]
 
 The history of aluminium has been shaped by usage of alum. The first written record of alum, made by Greek historian Herodotus, dates back to the 5th century BCE. The ancients are known to have used alum as a dyeing mordant and for city defense. After the Crusades, alum, an indispensable good in the European fabric industry,[41] was a subject of international commerce; it was imported to Europe from the eastern Mediterranean until the mid-15th century.[42]
 
@@ -116,7 +112,7 @@ The nature of alum remained unknown. Around 1530, Swiss physician Paracelsus sug
 
 Attempts to produce aluminium metal date back to 1760. The first successful attempt, however, was completed in 1824 by Danish physicist and chemist Hans Christian Ørsted. He reacted anhydrous aluminium chloride with potassium amalgam, yielding a lump of metal looking similar to tin.[44][45] He presented his results and demonstrated a sample of the new metal in 1825.[46] In 1827, German chemist Friedrich Wöhler repeated Ørsted's experiments but did not identify any aluminium.[47] (The reason for this inconsistency was only discovered in 1921.) He conducted a similar experiment in the same year by mixing anhydrous aluminium chloride with potassium and produced a powder of aluminium.[48] In 1845, he was able to produce small pieces of the metal and described some physical properties of this metal. For many years thereafter, Wöhler was credited as the discoverer of aluminium.[49]
 
-Eros-piccadilly-circus.jpg in Piccadilly Circus, London, was made in 1893 and is one of the first statues cast in aluminium.]]
+in Piccadilly Circus, London, was made in 1893 and is one of the first statues cast in aluminium.]]
 
 As Wöhler's method could not yield great quantities of aluminium, the metal remained rare; its cost exceeded that of gold.[50] The first industrial production of aluminium was established in 1856 by French chemist Henri Etienne Sainte-Claire Deville and companions. Deville had discovered that aluminium trichloride could be reduced by sodium, which was more convenient and less expensive than potassium, which Wöhler had used.[51] Even then, aluminium was still not of great purity and produced aluminium differed in properties by sample.
 
@@ -126,8 +122,6 @@ Prices of aluminium dropped and aluminium became widely used in jewelry, everyda
 
 By the mid-20th century, aluminium had become a part of everyday life and an essential component of housewares. During the mid-20th century, aluminium emerged as a civil engineering material, with building applications in both basic construction and interior finish work, and increasingly being used in military engineering, for both airplanes and land armor vehicle engines. Earth's first artificial satellite, launched in 1957, consisted of two separate aluminium semi-spheres joined together and all subsequent space vehicles have used aluminium to some extent.[54] The aluminium can was invented in 1956 and employed as a storage for drinks in 1958.
 
-Aluminium_-_world_production_trend.svg
-
 Throughout the 20th century, the production of aluminium rose rapidly: while the world production of aluminium in 1900 was 6,800 metric tons, the annual production first exceeded 100,000 metric tons in 1916; 1,000,000 tons in 1941; 10,000,000 tons in 1971.[55] In the 1970s, the increased demand for aluminium made it an exchange commodity; it entered the London Metal Exchange, the oldest industrial metal exchange in the world, in 1978.[56] The output continued to grow: the annual production of aluminium exceeded 50,000,000 metric tons in 2013.[57]
 
 The real price for aluminium declined from $14,000 per metric ton in 1900 to $2,340 in 1948 (in 1998 United States dollars).[58] Extraction and processing costs were lowered over technological progress and the scale of the economies. However, the need to exploit lower-grade poorer quality deposits and the use of fast increasing input costs (above all, energy) increased the net cost of aluminium; the real price began to grow in the 1970s with the rise of energy cost. Production moved from the industrialized countries to countries where production was cheaper. Production costs in the late 20th century changed because of advances in technology, lower energy prices, exchange rates of the United States dollar, and alumina prices. The BRIC countries' combined share grew in the first decade of the 21st century from 32.6% to 56.5% in primary production and 21.4% to 47.8% in primary consumption. China is accumulating an especially large share of world's production thanks to abundance of resources, cheap energy, and governmental stimuli; it also increased its consumption share from 2% in 1972 to 40% in 2010. In the United States, Western Europe, and Japan, most aluminium was consumed in transportation, engineering, construction, and packaging.
@@ -136,8 +130,6 @@ The real price for aluminium declined from $14,000 per metric ton in 1900 to $2,
 Etymology
 
 Aluminium is named after alumina, or aluminium oxide in modern nomenclature. The word "alumina" comes from "alum", the mineral from which it was collected. The word "alum" comes from _alumen_, a Latin word meaning "bitter salt".[59] The word _alumen_ stems from the Proto-Indo-European root _*alu-_ meaning "bitter" or "beer".[60]
-
-The_Turner_Brass_Works_ad_1897.jpg
 
 British chemist Humphry Davy, who performed a number of experiments aimed to synthesize the metal, is credited as the person who named the element. In 1808, he suggested the metal be named _alumium_.[61] This suggestion was criticized by contemporary chemists from France, Germany, and Sweden, who insisted the metal should be named for the oxide, alumina, from which it would be isolated. In 1812, Davy chose _aluminum_, thus producing the modern name.[62] However, its spelling and pronunciation varies: _aluminum_ is in use in the United States and Canada while _aluminium_ is in use elsewhere.[63]
 
@@ -204,15 +196,13 @@ Hall–Héroult process
 
 The conversion of alumina to aluminium metal is achieved by the Hall–Héroult process. In this energy-intensive process, a solution of alumina in a molten () mixture of cryolite (Na₃AlF₆) with calcium fluoride is electrolyzed to produce metallic aluminium. The liquid aluminium metal sinks to the bottom of the solution and is tapped off, and usually cast into large blocks called aluminium billets for further processing.[83]
 
-Tovarna_glinice_in_aluminija_Kidričevo_-_kupi_aluminija_1968.jpg billets of aluminium]]
+billets of aluminium]]
 
 Anodes of the electrolysis cell are made of carbon—the most resistant material against fluoride corrosion—and either bake at the process or are prebaked. The former, also called Söderberg anodes, are less power-efficient and fumes released during baking are costly to collect, which is why they are being replaced by prebaked anodes even though they save the power, energy, and labor to prebake the cathodes. Carbon for anodes should be preferably pure so that neither aluminium nor the electrolyte is contaminated with ash. Despite carbon's resistivity against corrosion, it is still consumed at a rate of 0.4–0.5 kg per each kilogram of produced aluminium. Cathodes are made of anthracite; high purity for them is not required because impurities leach only very slowly. Cathode is consumed at a rate of 0.02–0.04 kg per each kilogram of produced aluminium. A cell is usually a terminated after 2–6 years following a failure of the cathode.[84]
 
 The Hall–Heroult process produces aluminium with a purity of above 99%. Further purification can be done by the Hoopes process. This process involves the electrolysis of molten aluminium with a sodium, barium, and aluminium fluoride electrolyte. The resulting aluminium has a purity of 99.99%.[85][86]
 
 Electric power represents about 20 to 40% of the cost of producing aluminium, depending on the location of the smelter. Aluminium production consumes roughly 5% of electricity generated in the United States.[87] Because of this, alternatives to the Hall–Héroult process have been researched, but none has turned out to be economically feasible.[88]
-
-Waste_bins_recyclable.jpg
 
 Recycling
 
@@ -225,7 +215,7 @@ White dross from primary aluminium production and from secondary recycling opera
 
 Applications
 
-Austin_A40_Roadster_ca_1951.jpg (c. 1951)]]
+(c. 1951)]]
 
 Metal
 
@@ -233,7 +223,7 @@ Aluminium is the most widely used non-ferrous metal.[94] The global production o
 
 Aluminium is almost always alloyed, which markedly improves its mechanical properties, especially when tempered. For example, the common aluminium foils and beverage cans are alloys of 92% to 99% aluminium.[96] The main alloying agents are copper, zinc, magnesium, manganese, and silicon (e.g., duralumin) with the levels of other metals in a few percent by weight.[97]
 
-Drinking_can_ring-pull_tab.jpg]]
+]]
 
 The major uses for aluminium metal are in:[98]
 
@@ -248,7 +238,7 @@ Compounds
 
 The great majority (about 90%) of aluminium oxide is converted to metallic aluminium.[99] Being a very hard material (Mohs hardness 9),[100] alumina is widely used as an abrasive;[101] being extraordinarily chemically inert, it is useful in highly reactive environments such as high pressure sodium lamps.[102] Aluminium oxide is commonly used as a catalyst for industrial processes;[103] e.g. the Claus process to convert hydrogen sulfide to sulfur in refineries and to alkylate amines.[104][105] Many industrial catalysts are supported by alumina, meaning that the expensive catalyst material is dispersed over a surface of the inert alumina.[106] Another principal use is as a drying agent or absorbent.[107][108]
 
-Pulsed_Laser_Deposition_in_Action.jpg Several sulfates of aluminium have industrial and commercial application. Aluminium sulfate (in its hydrate form) is produced on the annual scale of several millions of metric tons.[109] About two-thirds is consumed in water treatment.[110] The next major application is in the manufacture of paper.[111] It is also used as a mordant in dyeing, in pickling seeds, deodorizing of mineral oils, in leather tanning, and in production of other aluminium compounds.[112] Two kinds of alum, ammonium alum and potassium alum, were formerly used as mordants and in leather tanning, but their use has significantly declined following availability of high-purity aluminium sulfate.[113] Anhydrous aluminium chloride is used as a catalyst in chemical and petrochemical industries, the dyeing industry, and in synthesis of various inorganic and organic compounds.[114] Aluminium hydroxychlorides are used in purifying water, in the paper industry, and as antiperspirants.[115] Sodium aluminate is used in treating water and as an accelerator of solidification of cement.[116]
+Several sulfates of aluminium have industrial and commercial application. Aluminium sulfate (in its hydrate form) is produced on the annual scale of several millions of metric tons.[109] About two-thirds is consumed in water treatment.[110] The next major application is in the manufacture of paper.[111] It is also used as a mordant in dyeing, in pickling seeds, deodorizing of mineral oils, in leather tanning, and in production of other aluminium compounds.[112] Two kinds of alum, ammonium alum and potassium alum, were formerly used as mordants and in leather tanning, but their use has significantly declined following availability of high-purity aluminium sulfate.[113] Anhydrous aluminium chloride is used as a catalyst in chemical and petrochemical industries, the dyeing industry, and in synthesis of various inorganic and organic compounds.[114] Aluminium hydroxychlorides are used in purifying water, in the paper industry, and as antiperspirants.[115] Sodium aluminate is used in treating water and as an accelerator of solidification of cement.[116]
 
 Many aluminium compounds have niche applications, for example:
 
@@ -264,8 +254,6 @@ Many aluminium compounds have niche applications, for example:
 
 Biology
 
-Al_absorption_by_skin.jpg
-
 Despite its widespread occurrence in the Earth's crust, aluminium has no known function in biology. Aluminium salts are remarkably nontoxic, aluminium sulfate having an LD₅₀ of 6207 mg/kg (oral, mouse), which corresponds to 500 grams for an person.[127]
 
 Toxicity
@@ -276,7 +264,7 @@ Effects
 
 Aluminium, although rarely, can cause vitamin D-resistant osteomalacia, erythropoietin-resistant microcytic anemia, and central nervous system alterations. People with kidney insufficiency are especially at a risk.[134] Chronic ingestion of hydrated aluminium silicates (for excess gastric acidity control) may result in aluminium binding to intestinal contents and increased elimination of other metals, such as iron or zinc; sufficiently high doses (>50 g/day) can cause anemia.[135] Since aluminium is excreted by kidneys, their function may be impaired by toxic amounts of aluminium.[136]
 
-Al_transport_across_human_cells.jpg through five major routes: (1) paracellular; (2) transcellular; (3) active transport; (4) channels; (5) adsorptive or receptor-mediated endocytosis.[137]]]
+through five major routes: (1) paracellular; (2) transcellular; (3) active transport; (4) channels; (5) adsorptive or receptor-mediated endocytosis.[137]]]
 
 An accident in England revealed that millimolar quantities of aluminium in drinking water cause significant cognitive deficits.[138] Orally ingested aluminium salts can deposit in the brain. There is research on correlation between neurological disorders, including Alzheimer's disease, and aluminium levels, but it has been inconclusive so far.[139]
 
@@ -297,7 +285,7 @@ In case of suspected sudden intake of a large amount of aluminium, the only trea
 
 Environmental effects
 
-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-478.jpg" storage facility in Stade, Germany. The aluminium industry generates about 70 million tons of this waste annually.]]High levels of aluminium occur near mining sites; small amounts of aluminium are released to the environment at the coal-fired power plants or incinerators.[159] Aluminium in the air is washed out by the rain or normally settles down but small particles of aluminium remain in the air for a long time.[160]
+" storage facility in Stade, Germany. The aluminium industry generates about 70 million tons of this waste annually.]]High levels of aluminium occur near mining sites; small amounts of aluminium are released to the environment at the coal-fired power plants or incinerators.[159] Aluminium in the air is washed out by the rain or normally settles down but small particles of aluminium remain in the air for a long time.[160]
 
 Acidic precipitation is the main natural factor to mobilize aluminium from natural sources[161] and the main reason for the environmental effects of aluminium;[162] however, the main factor of presence of aluminium in salt and freshwater are the industrial processes that also release aluminium into air.[163]
 

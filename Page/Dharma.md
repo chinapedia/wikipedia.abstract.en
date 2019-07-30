@@ -10,7 +10,7 @@ The word _dharma_ was already in use in the historical Vedic religion, and its m
 
 Etymology
 
-Dhamma_inscription.jpg word "_Dha-ṃ-ma_"/𑀥𑀁𑀫 (Sanskrit: Dharma धर्म) in the Brahmi script, as inscribed by Emperor Ashoka in his Edicts of Ashoka (3rd century BCE).]] The Classical Sanskrit noun _dharma_ (धर्म) or the Prakrit Dhaṃma (𑀥𑀁𑀫) are a derivation from the root _dhṛ_, which means "to hold, maintain, keep",. Hence, _dharma_ holds one falling down or falling to hell. Therefore, takes the meaning of "what is established or firm", and hence "law". It is derived from an older Vedic Sanskrit _n_-stem _dharman-_, with a literal meaning of "bearer, supporter", in a religious sense conceived as an aspect of Rta.
+word "_Dha-ṃ-ma_"/𑀥𑀁𑀫 (Sanskrit: Dharma धर्म) in the Brahmi script, as inscribed by Emperor Ashoka in his Edicts of Ashoka (3rd century BCE).]] The Classical Sanskrit noun _dharma_ (धर्म) or the Prakrit Dhaṃma (𑀥𑀁𑀫) are a derivation from the root _dhṛ_, which means "to hold, maintain, keep",. Hence, _dharma_ holds one falling down or falling to hell. Therefore, takes the meaning of "what is established or firm", and hence "law". It is derived from an older Vedic Sanskrit _n_-stem _dharman-_, with a literal meaning of "bearer, supporter", in a religious sense conceived as an aspect of Rta.
 
 In the Rigveda, the word appears as an _n_-stem, __, with a range of meanings encompassing "something established or firm" (in the literal sense of prods or poles). Figuratively, it means "sustainer" and "supporter" (of deities). It is semantically similar to the Greek _Themis_ ("fixed decree, statute, law").[11] In Classical Sanskrit, the noun becomes thematic: __.
 
@@ -74,7 +74,7 @@ Indo-European parallels for "Dharma" are known, but the only Iranian equivalent 
 
 Eusebeia and dharma
 
-AsokaKandahar.jpg is from Indian Emperor Asoka in 258 BC, and found in Afghanistan. The inscription renders the word _Dharma_ in Sanskrit as Eusebeia in Greek, suggesting _dharma_ in ancient India meant spiritual maturity, devotion, piety, duty towards and reverence for human community.[39]]] In mid-20th century, an inscription of the Indian Emperor Asoka from the year 258 BC was discovered in Afghanistan, the Kandahar Bilingual Rock Inscription. This rock inscription contains Greek and Aramaic text. According to Paul Hacker,[40] on the rock appears a Greek rendering for the Sanskrit word dharma: the word eusebeia.[41] Scholars of Hellenistic Greece explain eusebeia as a complex concept. Eusebia means not only to venerate gods, but also spiritual maturity, a reverential attitude toward life, and includes the right conduct toward one's parents, siblings and children, the right conduct between husband and wife, and the conduct between biologically unrelated people. This rock inscription, concludes Paul Hacker,[42] suggests dharma in India, about 2300 years ago, was a central concept and meant not only religious ideas, but ideas of right, of good, of one's duty toward the human community.[43]
+is from Indian Emperor Asoka in 258 BC, and found in Afghanistan. The inscription renders the word _Dharma_ in Sanskrit as Eusebeia in Greek, suggesting _dharma_ in ancient India meant spiritual maturity, devotion, piety, duty towards and reverence for human community.[39]]] In mid-20th century, an inscription of the Indian Emperor Asoka from the year 258 BC was discovered in Afghanistan, the Kandahar Bilingual Rock Inscription. This rock inscription contains Greek and Aramaic text. According to Paul Hacker,[40] on the rock appears a Greek rendering for the Sanskrit word dharma: the word eusebeia.[41] Scholars of Hellenistic Greece explain eusebeia as a complex concept. Eusebia means not only to venerate gods, but also spiritual maturity, a reverential attitude toward life, and includes the right conduct toward one's parents, siblings and children, the right conduct between husband and wife, and the conduct between biologically unrelated people. This rock inscription, concludes Paul Hacker,[42] suggests dharma in India, about 2300 years ago, was a central concept and meant not only religious ideas, but ideas of right, of good, of one's duty toward the human community.[43]
 
 Rta, maya and dharma
 
@@ -179,8 +179,6 @@ Dharma is employed in Ch'an in a specific context in relation to transmission of
 
 Jainism
 
-Jain_Prateek_Chihna.svg
-
 The word Dharma in Jainism is found in all its key texts. It has a contextual meaning and refers to a number of ideas. In the broadest sense, it means the teachings of the Jinas,[104] or teachings of any competing spiritual school,[105] a supreme path,[106] socio-religious duty,[107] and that which is the highest _mangala_ (holy).[108]
 
 The term _dharma_ also has a specific ontological and soteriological meaning in Jainism, as a part of its theory of six dravya (substance or a reality). In the Jain tradition, existence consists of _jiva_ (soul, atman) and _ajiva_ (non-soul), the latter consisting of five categories: inert non-sentient atomic matter (pudgala), space (akasha), time (kala), principle of motion (dharma), and principle of rest (adharma).[109][110] The use of the term _dharma_ to mean motion and to refer to an ontological sub-category is peculiar to Jainism, and not found in the metaphysics of Buddhism and various schools of Hinduism.[111]
@@ -190,12 +188,12 @@ The major Jain text, _Tattvartha Sutra_ mentions _Das-dharma_ with the meaning o
 
 Sikhism
 
-Khanda_Orange.jpg For Sikhs, the word _dharam_ () means the path of righteousness and proper religious practice.[112] Guru Granth Sahib in hymn 1353 connotes dharma as duty.[113] The 3HO movement in Western culture, which has incorporated certain Sikh beliefs, defines Sikh Dharma broadly as all that constitutes religion, moral duty and way of life.[114]
+For Sikhs, the word _dharam_ () means the path of righteousness and proper religious practice.[112] Guru Granth Sahib in hymn 1353 connotes dharma as duty.[113] The 3HO movement in Western culture, which has incorporated certain Sikh beliefs, defines Sikh Dharma broadly as all that constitutes religion, moral duty and way of life.[114]
 
 
 Dharma in symbols
 
-Flag_of_India.svg The importance of _dharma_ to Indian sentiments is illustrated by India's decision in 1947 to include the Ashoka Chakra, a depiction of the _dharmachakra_ ( the "wheel of dharma"), as the central motif on its flag.[115]
+The importance of _dharma_ to Indian sentiments is illustrated by India's decision in 1947 to include the Ashoka Chakra, a depiction of the _dharmachakra_ ( the "wheel of dharma"), as the central motif on its flag.[115]
 
 
 See also

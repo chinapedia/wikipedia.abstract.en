@@ -34,7 +34,7 @@ The final strip ran on Sunday, December 31, 1995.[16] It depicted Calvin and Hob
 
 Sunday formatting
 
-Comics_half_page.svg, third, and quarter pages (optionally discarding panels 1 and 2). However, Watterson wished to draw comics which did not conform to the standard panel division.|alt=|205x205px]] Syndicated comics were typically published five times a week in black and white, with a Sunday supplement version in a larger, full colour format. This larger format version of the strip was constrained by mandatory layout requirements that made it possible for newspaper editors to format the strip for different page sizes and layouts.
+, third, and quarter pages (optionally discarding panels 1 and 2). However, Watterson wished to draw comics which did not conform to the standard panel division.|alt=|205x205px]] Syndicated comics were typically published five times a week in black and white, with a Sunday supplement version in a larger, full colour format. This larger format version of the strip was constrained by mandatory layout requirements that made it possible for newspaper editors to format the strip for different page sizes and layouts.
 
 Watterson grew increasingly frustrated by the shrinking of the available space for comics in the newspapers and the mandatory panel divisions that restricted his ability to produce better artwork and more creative storytelling. He lamented that without space for anything more than simple dialogue or sparse artwork, comics as an art form were becoming dilute, bland, and unoriginal.[19][20]
 
@@ -132,13 +132,13 @@ Calvin imagines himself as a great many things including dinosaurs, elephants, j
 
 Cardboard boxes
 
-Scientific_Progress_Goes_Boink_(Calvin_and_Hobbes).jpg Calvin has had several adventures involving corrugated cardboard boxes, which he adapts for many imaginative uses. In one strip, when Calvin shows off his Transmogrifier, a device that transforms its user into any desired creature or item, Hobbes remarks, "It's amazing what they do with corrugated cardboard these days."[78] Calvin is able to change the function of the boxes by rewriting the label and flipping the box onto another side. In this way, a box can be used not only for its conventional purposes (a storage container for water balloons, for example), but also as a flying time machine, a duplicator or, with the attachment of a few wires and a colander, a "Cerebral Enhance-o-tron."
+Calvin has had several adventures involving corrugated cardboard boxes, which he adapts for many imaginative uses. In one strip, when Calvin shows off his Transmogrifier, a device that transforms its user into any desired creature or item, Hobbes remarks, "It's amazing what they do with corrugated cardboard these days."[78] Calvin is able to change the function of the boxes by rewriting the label and flipping the box onto another side. In this way, a box can be used not only for its conventional purposes (a storage container for water balloons, for example), but also as a flying time machine, a duplicator or, with the attachment of a few wires and a colander, a "Cerebral Enhance-o-tron."
 
 In the real world, Calvin's antics with his box have had varying effects. When he transmogrified into a tiger, he still appeared as a regular human child to his parents. However, in a story where he made several duplicates of himself, his parents are seen interacting with what does seem like multiple Calvins, including in a strip where two of him are seen in the same panel as his father. It is ultimately unknown what his parents do or do not see, as Calvin tries to hide most of his creations (or conceal their effects) so as not to traumatize them.
 
 In addition, Calvin uses a cardboard box as a sidewalk kiosk to sell things. Often, Calvin offers merchandise no one would want, such as "suicide drink", "a swift kick in the butt" for one dollar,[79] or a "frank appraisal of your looks" for fifty cents. In one strip, he sells "happiness" for ten cents: Calvin hit the customer in the face with a water balloon, explaining that he meant his own happiness. In another strip, he sold "insurance", firing a slingshot at those who refused to buy it. In some strips, he tried to sell "great ideas", and in one earlier strip, he attempted to sell the family car to obtain money for a grenade launcher. In yet another strip, he sells "life" for five cents, where the customer receives nothing in return, which, in Calvin's opinion, is life.
 
-The box has also functioned as a secret meeting place for G.R.O.S.S., as the "Box of Secrecy". Calvin_and_Hobbes_playing_Calvinball.jpg
+The box has also functioned as a secret meeting place for G.R.O.S.S., as the "Box of Secrecy".
 
 Calvinball
 

@@ -1,4 +1,4 @@
-HardDiskAnatomy.jpg Harddrive-engineerguy.ogv A HARD DISK DRIVE (HDD), HARD DISK, HARD DRIVE, or FIXED DISK, is an electro-mechanical data storage device that uses magnetic storage to store and retrieve digital information using one or more rigid rapidly rotating disks (platters) coated with magnetic material. The platters are paired with magnetic heads, usually arranged on a moving actuator arm, which read and write data to the platter surfaces.[1] Data is accessed in a random-access manner, meaning that individual blocks of data can be stored or retrieved in any order and not only sequentially. HDDs are a type of non-volatile storage, retaining stored data even when powered off.[2][3][4]
+A HARD DISK DRIVE (HDD), HARD DISK, HARD DRIVE, or FIXED DISK, is an electro-mechanical data storage device that uses magnetic storage to store and retrieve digital information using one or more rigid rapidly rotating disks (platters) coated with magnetic material. The platters are paired with magnetic heads, usually arranged on a moving actuator arm, which read and write data to the platter surfaces.[1] Data is accessed in a random-access manner, meaning that individual blocks of data can be stored or retrieved in any order and not only sequentially. HDDs are a type of non-volatile storage, retaining stored data even when powered off.[2][3][4]
 
 Introduced by IBM in 1956,[5] HDDs became the dominant secondary storage device for general-purpose computers by the early 1960s. Continuously improved, HDDs have maintained this position into the modern era of servers and personal computers. More than 224 companies have produced HDDs historically, though after extensive industry consolidation most units are manufactured by Seagate, Toshiba, and Western Digital. HDDs dominate the volume of storage produced (exabytes per year) for servers. Though production is growing slowly, sales revenues and unit shipments are declining because solid-state drives (SSDs) have higher data-transfer rates, higher areal storage density, better reliability,[6] and much lower latency and access times.[7][8][9][10]
 
@@ -10,8 +10,6 @@ The two most common form factors for modern HDDs are 3.5-inch, for desktop compu
 
 
 History
-
-HardDisk1.ogg
 
 +---------------------+--------------------------------------+--------------------------------------------------------------------------------+------------------------------------------+
 | Parameter           | Started with (1957)                  | Developed to (2019)                                                            | Improvement                              |
@@ -62,7 +60,7 @@ The 2011 Thailand floods damaged the manufacturing plants and impacted hard dis
 
 Technology
 
-magneticMedia.svg encoded binary data]]
+encoded binary data]]
 
 Magnetic recording
 
@@ -70,7 +68,7 @@ A modern HDD records data by magnetizing a thin film of ferromagnetic material o
 
 A typical HDD design consists of a __ that holds flat circular disks, called platters, which hold the recorded data. The platters are made from a non-magnetic material, usually aluminum alloy, glass, or ceramic. They are coated with a shallow layer of magnetic material typically 10–20 nm in depth, with an outer layer of carbon for protection.[39][40][41] For reference, a standard piece of copy paper is [42] thick.
 
-Toshiba_MK1403MAV_-_broken_glass_platter-93375.jpg Hard_drive-en.svg Aufnahme_einzelner_Magnetisierungen_gespeicherter_Bits_auf_einem_Festplatten-Platter..jpg Perpendicular_Recording_Diagram.svg diagram]]
+diagram]]
 
 The platters in contemporary HDDs are spun at speeds varying from 4,200 RPM in energy-efficient portable devices, to 15,000 rpm for high-performance servers.[43] The first HDDs spun at 1,200 rpm[44] and, for many years, 3,600 rpm was the norm.[45] As of December 2013, the platters in most consumer-grade HDDs spin at either 5,400 RPM or 7,200 RPM.[46]
 
@@ -84,11 +82,9 @@ In 2004, a new concept was introduced to allow further increase of the data dens
 
 Components
 
-Hard_disk_dismantled.jpg
-
 A typical HDD has two electric motors; a spindle motor that spins the disks and an actuator (motor) that positions the read/write head assembly across the spinning disks. The disk motor has an external rotor attached to the disks; the stator windings are fixed in place. Opposite the actuator at the end of the head support arm is the read-write head; thin printed-circuit cables connect the read-write heads to amplifier electronics mounted at the pivot of the actuator. The head support arm is very light, but also stiff; in modern drives, acceleration at the head reaches 550 _g_.
 
-Kopftraeger_WD2500JS-00MHB0.jpg HDD_read-write_head.jpg, showing the side facing the platter]]
+, showing the side facing the platter]]
 
 The __ is a permanent magnet and moving coil motor that swings the heads to the desired position. A metal plate supports a squat neodymium-iron-boron (NIB) high-flux magnet. Beneath this plate is the moving coil, often referred to as the _voice coil_ by analogy to the coil in loudspeakers, which is attached to the actuator hub, and beneath that is a second NIB magnet, mounted on the bottom plate of the motor (some drives have only one magnet).
 
@@ -116,8 +112,6 @@ Within a given manufacturers model the uncorrected bit error rate is typically t
 The worst type of errors are silent data corruptions which are errors undetected by the disk firmware or the host operating system; some of these errors may be caused by hard disk drive malfunctions while others originate elsewhere in the connection between the drive and the host.[69]
 
 Development
-
-Full_History_Disk_Areal_Density_Trend.png
 
 The rate of areal density advancement was similar to Moore's law (doubling every two years) through 2010: 60% per year during 1988–1996, 100% during 1996–2003 and 30% during 2003–2010.[70] Speaking in 1997, Gordon Moore called the increase "flabbergasting",[71] while observing later that growth cannot continue forever.[72] Price improvement decelerated to −12% per year during 2010–2017,[73] as the growth of areal density slowed. The rate of advancement for areal density slowed to 10% per year during 2010–2016,[74] and there was difficulty in migrating from perpendicular recording to newer technologies.[75]
 
@@ -179,8 +173,6 @@ HDD price per byte improved at the rate of −40% per year during 1988–1996, �
 
 Form factors
 
-SixHardDriveFormFactors.jpg 5.25_inch_MFM_hard_disk_drive.JPG
-
 IBM's first hard disk drive, the IBM 350, used a stack of fifty 24-inch platters and was of a size comparable to two large refrigerators. In 1962, IBM introduced its model 1311 disk, which used six 14-inch (nominal size) platters in a removable pack and was roughly the size of a washing machine. This became a standard platter size for many years, used also by other manufacturers.[118] The IBM 2314 used platters of the same size in an eleven-high pack and introduced the "drive in a drawer" layout. sometimes called the"pizza oven", although the "drawer" was not the complete drive. Into the 1970s HDDs were offered in standalone cabinets of varying dimensions containing from one to four HDDs.
 
 Beginning in the late 1960s drives were offered that fit entirely into a chassis that would mount in a 19-inch rack. Digital's RK05 and RL01 were early examples using single 14-inch platters in removable packs, the entire drive fitting in a 10.5-inch-high rack space (six rack units). In the mid-to-late 1980s the similarly sized Fujitsu Eagle, which used (coincidentally) 10.5-inch platters, was a popular product.
@@ -236,7 +228,7 @@ The Federal Reserve Board has a quality-adjusted price index for large-scale ent
 
 Access and interfaces
 
-Seagate_ST33232A_hard_disk_inner_view.jpg HDD that used Parallel ATA interface]] 2.5-inch_SATA_drive_on_top_of_a_3.5-inch_SATA_drive,_close-up_of_data_and_power_connectors.jpg
+HDD that used Parallel ATA interface]]
 
 Current hard drives connect to a computer over one of several bus types, including parallel ATA, Serial ATA , SCSI, Serial Attached SCSI (SAS), and Fibre Channel. Some drives, especially external portable drives, use IEEE 1394, or USB. All of these interfaces are digital; electronics on the drive process the analog signals from the read/write heads. Current drives present a consistent interface to the rest of the computer, independent of the data encoding scheme used internally, and independent of the physical number of disks and heads within the drive.
 
@@ -254,8 +246,6 @@ Modern interfaces connect the drive to the host interface with a single data/con
 
 
 Integrity and failure
-
-Hard_disk_head.jpg
 
 Due to the extremely close spacing between the heads and the disk surface, HDDs are vulnerable to being damaged by a head crash – a failure of the disk in which the head scrapes across the platter surface, often grinding away the thin magnetic film and causing data loss. Head crashes can be caused by electronic failure, a sudden power failure, physical shock, contamination of the drive's internal enclosure, wear and tear, corrosion, or poorly manufactured platters and heads.
 
@@ -282,7 +272,7 @@ Desktop HDDs
     They typically store between 60 GB and 8 TB and rotate at 5,400 to 10,000 rpm, and have a media transfer rate of 0.5 Gbit/s or higher (1 GB = 10⁹ bytes; 1 Gbit/s = 10⁹ bit/s). As of May 2019, the highest-capacity desktop HDDs stored 14 TB,[138] with plans to release 16 TB and 18 TB drives later in 2019.[139] As of 2016, the typical speed of a hard drive in an average desktop computer is 7200 RPM, whereas low-cost desktop computers may use 5900 RPM or 5400 RPM drives. For some time in the 2000s and early 2010s some desktop users also used 10k RPM drives such as Western Digital Raptor but such drives have become much rarer as of 2016 and are not commonly used now, having been replaced by NAND flash-based SSDs.
 
 Mobile (laptop) HDDs
-    Two_Western_Digital_VelociRaptor_1_TB_SATA_10,000_rpm_3.5-inch_HDDs.jpg
+
     Smaller than their desktop and enterprise counterparts, they tend to be slower and have lower capacity. Mobile HDDs spin at 4,200 rpm, 5,200 rpm, 5,400 rpm, or 7,200 rpm, with 5,400 rpm being typical. 7,200 rpm drives tend to be more expensive and have smaller capacities, while 4,200 rpm models usually have very high storage capacities. Because of smaller platter(s), mobile HDDs generally have lower capacity than their desktop counterparts.
     There are also 2.5-inch drives spinning at 10,000 rpm, which belong to the enterprise segment with no intention to be used in laptops.
 
@@ -296,8 +286,6 @@ Consumer electronics HDDs
 
 
 Manufacturers and sales
-
-Diagram_of_Hard_Disk_Drive_Manufacturer_Consolidation.svg
 
 More than 200 companies have manufactured HDDs over time, but consolidations have concentrated production to just three manufacturers today: Western Digital, Seagate, and Toshiba. Production is mainly in the Pacific rim.
 

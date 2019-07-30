@@ -5,8 +5,6 @@ The main objectives of Croatian foreign policy during the 1990s were gaining int
 
 History
 
-Croatia_diplomatic_relations.png
-
 Croatian foreign policy has focused on greater Euro-Atlantic integration, mainly entering the European Union and NATO. In order to gain access to European and trans-Atlantic institutions, it has had to undo many negative effects of the breakup of Yugoslavia and the war that ensued, and improve and maintain good relations with its neighbors.
 
 Key issues over the last decade have been the implementation of the Dayton Accords and the Erdut Agreement, nondiscriminatory facilitation of the return of refugees and displaced persons from the 1991–95 war including property restitution for ethnic Serbs, resolution of border disputes with Slovenia, Bosnia and Herzegovina, Serbia and Montenegro, and general democratization.
@@ -81,7 +79,7 @@ Relations with neighbouring states have normalized somewhat since the breakup of
 
 Bosnia and Herzegovina
 
-Генерални_конзулат_Републике_Хрватске_у_Бањалуци.jpg]] Discussions continue between Croatia and Bosnia and Herzegovina on various sections of the border, the longest border with another country for each of these countries.
+]] Discussions continue between Croatia and Bosnia and Herzegovina on various sections of the border, the longest border with another country for each of these countries.
 
 Sections of the Una river and villages at the base of Mount Plješevica are in Croatia, while some are in Bosnia, which causes an excessive number of border crossings on a single route and impedes any serious development in the region. The Zagreb-Bihać-Split railway line is still closed for major traffic due to this issue.
 

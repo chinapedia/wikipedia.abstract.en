@@ -5,7 +5,7 @@ Biography
 
 _For All Tid_ and _Stormblåst_ period
 
-Dimmu_Borgir_-_Wacken_Open_Air_2018-3400.jpg 2018]] Dimmu Borgir was founded in 1993 by Shagrath, Silenoz and Tjodalv; the band released an EP in 1994 entitled _Inn i evighetens mørke_ ("_Into Eternal Darkness_" in English). This short EP sold out within weeks, and the band followed up with the 1994 full-length album _For All Tid_ ("_For All Time_" in English). This album featured vocal contributions by Vicotnik of Ved Buens Ende and Dødheimsgard and Aldrahn of Dødheimsgard and Zyklon-B. The initial line-up consisted of Shagrath playing drums with Tjodalv on guitar and Silenoz contributing lead vocals. This line-up changed before the release of _Stormblåst_ ("_Stormblown_" in English) on Cacophonous Records in 1996, an album considered by many to be their finest.[3] It is also the last album which features all lyrics written and sung in Norwegian.[4][5]
+2018]] Dimmu Borgir was founded in 1993 by Shagrath, Silenoz and Tjodalv; the band released an EP in 1994 entitled _Inn i evighetens mørke_ ("_Into Eternal Darkness_" in English). This short EP sold out within weeks, and the band followed up with the 1994 full-length album _For All Tid_ ("_For All Time_" in English). This album featured vocal contributions by Vicotnik of Ved Buens Ende and Dødheimsgard and Aldrahn of Dødheimsgard and Zyklon-B. The initial line-up consisted of Shagrath playing drums with Tjodalv on guitar and Silenoz contributing lead vocals. This line-up changed before the release of _Stormblåst_ ("_Stormblown_" in English) on Cacophonous Records in 1996, an album considered by many to be their finest.[3] It is also the last album which features all lyrics written and sung in Norwegian.[4][5]
 
 _Enthrone Darkness Triumphant_ period
 
@@ -25,7 +25,7 @@ _In Sorte Diaboli_ period
 
 Dimmu Borgir's eighth studio album, _In Sorte Diaboli_, was released on 24 April 2007.[17] A special edition version was released in a boxed case with a DVD, backward-printed lyrics, and a mirror. The album artwork was released on 14 February 2007 on a promotional webpage for the album. This album features once more the drumming of Hellhammer of Mayhem. Blomberg left the band in mid-tour in 2007 because of a neck injury that resulted in limited movement of his right arm. With the release of this album, Dimmu Borgir became the first black metal band with a number one album on the charts in their native country.[18] In October 2008, they released their second live DVD set titled The Invaluable Darkness, which was based on several shows during the world tour supporting 'In Sorte Diaboli'.
 
-Dimmu_Borgir_18.jpg performing on Gods of Metal 2007.]]
+performing on Gods of Metal 2007.]]
 
 In 2009, members ICS Vortex and Mustis independently announced their departure from Dimmu Borgir. Mustis released a statement claiming his disfavor with the band, stating that he was not properly credited for his writing contributions to the band's music, mentioning possibly taking legal action.[19]
 
@@ -52,8 +52,6 @@ Dimmu Borgir's older releases (since 1994 to 1999) are, according to _Allmusic_ 
 
 
 Discography
-
-Dimmu_Borgir_15.jpg
 
 -   _For all tid_ (1995)
 -   _Stormblåst_ (1996)

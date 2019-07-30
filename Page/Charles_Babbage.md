@@ -7,9 +7,9 @@ Parts of Babbage's incomplete mechanisms are on display in the Science Museum in
 
 Early life
 
-Portrait_of_Charles_Babbage_(4672397).jpg Babbage's birthplace is disputed, but according to the _Oxford Dictionary of National Biography_ he was most likely born at 44 Crosby Row, Walworth Road, London, England.[10] A blue plaque on the junction of Larcom Street and Walworth Road commemorates the event.[11]
+Babbage's birthplace is disputed, but according to the _Oxford Dictionary of National Biography_ he was most likely born at 44 Crosby Row, Walworth Road, London, England.[10] A blue plaque on the junction of Larcom Street and Walworth Road commemorates the event.[11]
 
-His date of birth was given in his obituary in _The Times_ as 26 December 1792; but then a nephew wrote to say that Babbage was born one year earlier, in 1791. The parish register of St. Mary's, Newington, London, shows that Babbage was baptised on 6 January 1792, supporting a birth year of 1791.[12][13][14] Charles_Babbage_by_Antoine_Claudet_c1847-51-crop.jpg
+His date of birth was given in his obituary in _The Times_ as 26 December 1792; but then a nephew wrote to say that Babbage was born one year earlier, in 1791. The parish register of St. Mary's, Newington, London, shows that Babbage was baptised on 6 January 1792, supporting a birth year of 1791.[12][13][14]
 
 Babbage was one of four children of Benjamin Babbage and Betsy Plumleigh Teape. His father was a banking partner of William Praed in founding Praed's & Co. of Fleet Street, London, in 1801.[15] In 1808, the Babbage family moved into the old Rowdens house in East Teignmouth. Around the age of eight, Babbage was sent to a country school in Alphington near Exeter to recover from a life-threatening fever. For a short time he attended King Edward VI Grammar School in Totnes, South Devon, but his health forced him back to private tutors for a time.[16]
 
@@ -39,7 +39,7 @@ Royal Astronomical Society
 
 Babbage was instrumental in founding the Royal Astronomical Society in 1820, initially known as the Astronomical Society of London.[41] Its original aims were to reduce astronomical calculations to a more standard form, and to circulate data.[42] These directions were closely connected with Babbage's ideas on computation, and in 1824 he won its Gold Medal, cited "for his invention of an engine for calculating mathematical and astronomical tables".
 
-Babbage's motivation to overcome errors in tables by mechanisation has been a commonplace since Dionysius Lardner wrote about it in 1834 in the _Edinburgh Review_ (under Babbage's guidance).[43][44] The context of these developments is still debated. Babbage's own account of the origin of the difference engine begins with the Astronomical Society's wish to improve _The Nautical Almanac_. Babbage and Herschel were asked to oversee a trial project, to recalculate some part of those tables. With the results to hand, discrepancies were found. This was in 1821 or 1822, and was the occasion on which Babbage formulated his idea for mechanical computation.[45] The issue of the _Nautical Almanac_ is now described as a legacy of a polarisation in British science caused by attitudes to Sir Joseph Banks, who had died in 1820.[46] Difference_engine_plate_1853.jpg]] Babbage studied the requirements to establish a modern postal system, with his friend Thomas Frederick Colby, concluding there should be a uniform rate that was put into effect with the introduction of the Uniform Fourpenny Post supplanted by the Uniform Penny Post[47] in 1839 and 1840. Colby was another of the founding group of the Society.[48] He was also in charge of the Survey of Ireland. Herschel and Babbage were present at a celebrated operation of that survey, the remeasuring of the Lough Foyle baseline.[49]
+Babbage's motivation to overcome errors in tables by mechanisation has been a commonplace since Dionysius Lardner wrote about it in 1834 in the _Edinburgh Review_ (under Babbage's guidance).[43][44] The context of these developments is still debated. Babbage's own account of the origin of the difference engine begins with the Astronomical Society's wish to improve _The Nautical Almanac_. Babbage and Herschel were asked to oversee a trial project, to recalculate some part of those tables. With the results to hand, discrepancies were found. This was in 1821 or 1822, and was the occasion on which Babbage formulated his idea for mechanical computation.[45] The issue of the _Nautical Almanac_ is now described as a legacy of a polarisation in British science caused by attitudes to Sir Joseph Banks, who had died in 1820.[46] ]] Babbage studied the requirements to establish a modern postal system, with his friend Thomas Frederick Colby, concluding there should be a uniform rate that was put into effect with the introduction of the Uniform Fourpenny Post supplanted by the Uniform Penny Post[47] in 1839 and 1840. Colby was another of the founding group of the Society.[48] He was also in charge of the Survey of Ireland. Herschel and Babbage were present at a celebrated operation of that survey, the remeasuring of the Lough Foyle baseline.[49]
 
 British Lagrangian School
 
@@ -58,7 +58,7 @@ It was during this period that Babbage tried to enter politics. Simon Schaffer w
 
 "Declinarians", learned societies and the BAAS
 
-Babbage_-_Letter_to_sir_Humphry_Davy_on_the_application_of_machinery_to_the_purpose_of_calculating_and_printing_mathematical_tables,_1822_-_721620.tif Babbage now emerged as a polemicist. One of his biographers notes that all his books contain a "campaigning element". His _Reflections on the Decline of Science and some of its Causes_ (1830) stands out, however, for its sharp attacks. It aimed to improve British science, and more particularly to oust Davies Gilbert as President of the Royal Society, which Babbage wished to reform.[68] It was written out of pique, when Babbage hoped to become the junior secretary of the Royal Society, as Herschel was the senior, but failed because of his antagonism to Humphry Davy.[69] Michael Faraday had a reply written, by Gerrit Moll, as _On the Alleged Decline of Science in England_ (1831).[70] On the front of the Royal Society Babbage had no impact, with the bland election of the Duke of Sussex to succeed Gilbert the same year. As a broad manifesto, on the other hand, his _Decline_ led promptly to the formation in 1831 of the British Association for the Advancement of Science (BAAS).[71]
+Babbage now emerged as a polemicist. One of his biographers notes that all his books contain a "campaigning element". His _Reflections on the Decline of Science and some of its Causes_ (1830) stands out, however, for its sharp attacks. It aimed to improve British science, and more particularly to oust Davies Gilbert as President of the Royal Society, which Babbage wished to reform.[68] It was written out of pique, when Babbage hoped to become the junior secretary of the Royal Society, as Herschel was the senior, but failed because of his antagonism to Humphry Davy.[69] Michael Faraday had a reply written, by Gerrit Moll, as _On the Alleged Decline of Science in England_ (1831).[70] On the front of the Royal Society Babbage had no impact, with the bland election of the Duke of Sussex to succeed Gilbert the same year. As a broad manifesto, on the other hand, his _Decline_ led promptly to the formation in 1831 of the British Association for the Advancement of Science (BAAS).[71]
 
 The _Mechanics' Magazine_ in 1831 identified as Declinarians the followers of Babbage. In an unsympathetic tone it pointed out David Brewster writing in the _Quarterly Review_ as another leader; with the barb that both Babbage and Brewster had received public money.[72]
 
@@ -66,7 +66,7 @@ In the debate of the period on statistics (_qua_ data collection) and what is no
 
 _On the Economy of Machinery and Manufactures_
 
-Babbage_-_On_the_economy_of_machinery_and_manufactures,_1835_-_5864499.tif Babbage_sign_language.jpg Babbage published _On the Economy of Machinery and Manufactures_ (1832), on the organisation of industrial production. It was an influential early work of operational research.[77] John Rennie the Younger in addressing the Institution of Civil Engineers on manufacturing in 1846 mentioned mostly surveys in encyclopaedias, and Babbage's book was first an article in the _Encyclopædia Metropolitana_, the form in which Rennie noted it, in the company of related works by John Farey, Jr., Peter Barlow and Andrew Ure.[78] From _An essay on the general principles which regulate the application of machinery to manufactures and the mechanical arts_ (1827), which became the _Encyclopædia Metropolitana_ article of 1829, Babbage developed the schematic classification of machines that, combined with discussion of factories, made up the first part of the book. The second part considered the "domestic and political economy" of manufactures.[79]
+Babbage published _On the Economy of Machinery and Manufactures_ (1832), on the organisation of industrial production. It was an influential early work of operational research.[77] John Rennie the Younger in addressing the Institution of Civil Engineers on manufacturing in 1846 mentioned mostly surveys in encyclopaedias, and Babbage's book was first an article in the _Encyclopædia Metropolitana_, the form in which Rennie noted it, in the company of related works by John Farey, Jr., Peter Barlow and Andrew Ure.[78] From _An essay on the general principles which regulate the application of machinery to manufactures and the mechanical arts_ (1827), which became the _Encyclopædia Metropolitana_ article of 1829, Babbage developed the schematic classification of machines that, combined with discussion of factories, made up the first part of the book. The second part considered the "domestic and political economy" of manufactures.[79]
 
 The book sold well, and quickly went to a fourth edition (1836).[80] Babbage represented his work as largely a result of actual observations in factories, British and abroad. It was not, in its first edition, intended to address deeper questions of political economy; the second (late 1832) did, with three further chapters including one on piece rate.[81] The book also contained ideas on rational design in factories, and profit sharing.[82]
 
@@ -100,7 +100,7 @@ The book is a work of natural theology, and incorporates extracts from related c
 
 The Ninth Bridgewater Treatise was quoted extensively in _Vestiges of the Natural History of Creation_.[111] The parallel with Babbage's computing machines is made explicit, as allowing plausibility to the theory that transmutation of species could be pre-programmed.[112]
 
-Babbage_curve_singular_points.pngs acquiring isolated real points]] Jonar Ganeri, author of _Indian Logic_, believes Babbage may have been influenced by Indian thought; one possible route would be through Henry Thomas Colebrooke.[113] Mary Everest Boole argues that Babbage was introduced to Indian thought in the 1820s by her uncle George Everest:
+s acquiring isolated real points]] Jonar Ganeri, author of _Indian Logic_, believes Babbage may have been influenced by Indian thought; one possible route would be through Henry Thomas Colebrooke.[113] Mary Everest Boole argues that Babbage was introduced to Indian thought in the 1820s by her uncle George Everest:
 
   Some time about 1825, [Everest] came to England for two or three years, and made a fast and lifelong friendship with Herschel and with Babbage, who was then quite young. I would ask any fair-minded mathematician to read Babbage's Ninth Bridgewater Treatise and compare it with the works of his contemporaries in England; and then ask himself whence came the peculiar conception of the nature of miracle which underlies Babbage's ideas of Singular Points on Curves (Chap, viii) – from European Theology or Hindu Metaphysic? Oh! how the English clergy of that day hated Babbage's book![114]
 
@@ -123,7 +123,7 @@ Like Samuel Vince, Babbage also wrote a defence of the belief in divine miracles
 
 Later life
 
-Charles_Babbage_1860.jpg The British Association was consciously modelled on the Deutsche Naturforscher-Versammlung, founded in 1822.[122] It rejected romantic science as well as metaphysics, and started to entrench the divisions of science from literature, and professionals from amateurs.[123] Belonging as he did to the "Wattite" faction in the BAAS, represented in particular by James Watt the younger, Babbage identified closely with industrialists. He wanted to go faster in the same directions, and had little time for the more gentlemanly component of its membership. Indeed, he subscribed to a version of conjectural history that placed industrial society as the culmination of human development (and shared this view with Herschel). A clash with Roderick Murchison led in 1838 to his withdrawal from further involvement.[124][125] At the end of the same year he sent in his resignation as Lucasian professor, walking away also from the Cambridge struggle with Whewell. His interests became more focussed, on computation and metrology, and on international contacts.[126]
+The British Association was consciously modelled on the Deutsche Naturforscher-Versammlung, founded in 1822.[122] It rejected romantic science as well as metaphysics, and started to entrench the divisions of science from literature, and professionals from amateurs.[123] Belonging as he did to the "Wattite" faction in the BAAS, represented in particular by James Watt the younger, Babbage identified closely with industrialists. He wanted to go faster in the same directions, and had little time for the more gentlemanly component of its membership. Indeed, he subscribed to a version of conjectural history that placed industrial society as the culmination of human development (and shared this view with Herschel). A clash with Roderick Murchison led in 1838 to his withdrawal from further involvement.[124][125] At the end of the same year he sent in his resignation as Lucasian professor, walking away also from the Cambridge struggle with Whewell. His interests became more focussed, on computation and metrology, and on international contacts.[126]
 
 Metrology programme
 
@@ -162,8 +162,6 @@ In the 1860s, Babbage also took up the anti-hoop-rolling campaign. He blamed hoo
 
 Computing pioneer
 
-BabbageDifferenceEngine.jpg
-
 Babbage's machines were among the first mechanical computers. That they were not actually completed was largely because of funding problems and clashes of personality, most notably with Airy, the Astronomer Royal.[154]
 
 Babbage directed the building of some steam-powered machines that achieved some modest success, suggesting that calculations could be mechanised. For more than ten years he received government funding for his project, which amounted to £17,000, but eventually the Treasury lost confidence in him.[155]
@@ -180,7 +178,7 @@ There was another period, seven years later, when his interest was aroused by th
 
 Difference engine
 
-Babbage_Difference_Engine.jpg's Difference Engine No. 2, built from Babbage's design]]
+'s Difference Engine No. 2, built from Babbage's design]]
 
 Babbage began in 1822 with what he called the difference engine, made to compute values of polynomial functions. It was created to calculate a series of values automatically. By using the method of finite differences, it was possible to avoid the need for multiplication and division.[160]
 
@@ -198,7 +196,7 @@ Analytical Engine
 
 After the attempt at making the first difference engine fell through, Babbage worked to design a more complex machine called the Analytical Engine. He hired C. G. Jarvis, who had previously worked for Clement as a draughtsman.[166] The Analytical Engine marks the transition from mechanised arithmetic to fully-fledged general purpose computation. It is largely on it that Babbage's standing as computer pioneer rests.[167]
 
-The major innovation was that the Analytical Engine was to be programmed using punched cards: the Engine was intended to use loops of Jacquard's punched cards to control a mechanical calculator, which could use as input the results of preceding computations.[168][169] The machine was also intended to employ several features subsequently used in modern computers, including sequential control, branching and looping. It would have been the first mechanical device to be, in principle, Turing-complete. The Engine was not a single physical machine, but rather a succession of designs that Babbage tinkered with until his death in 1871. Opening_George_III_museum.jpg in King's College, London.]]
+The major innovation was that the Analytical Engine was to be programmed using punched cards: the Engine was intended to use loops of Jacquard's punched cards to control a mechanical calculator, which could use as input the results of preceding computations.[168][169] The machine was also intended to employ several features subsequently used in modern computers, including sequential control, branching and looping. It would have been the first mechanical device to be, in principle, Turing-complete. The Engine was not a single physical machine, but rather a succession of designs that Babbage tinkered with until his death in 1871. in King's College, London.]]
 
 Ada Lovelace and Italian followers
 
@@ -223,7 +221,7 @@ Due to his association with the town Babbage was chosen in 2007 to appear on the
 
 Family
 
-Charles_Babbage_grave_Kensal_Green_2014.jpg, London, photographed in 2014]]
+, London, photographed in 2014]]
 
 On 25 July 1814, Babbage married Georgiana Whitmore at St. Michael's Church in Teignmouth, Devon; her sister Louisa married Edward Ryan.[188] The couple lived at Dudmaston Hall,[189] Shropshire (where Babbage engineered the central heating system), before moving to 5 Devonshire Street, London in 1815.[190]
 
@@ -243,7 +241,7 @@ His youngest surviving son, Henry Prevost Babbage (1824–1918), went on to crea
 
 Death
 
-Babbages_Brain.jpg]] Babbage lived and worked for over 40 years at 1 Dorset Street, Marylebone, where he died, at the age of 79, on 18 October 1871; he was buried in London's Kensal Green Cemetery. According to Horsley, Babbage died "of renal inadequacy, secondary to cystitis."[194] He had declined both a knighthood and baronetcy. He also argued against hereditary peerages, favouring life peerages instead.[195]
+]] Babbage lived and worked for over 40 years at 1 Dorset Street, Marylebone, where he died, at the age of 79, on 18 October 1871; he was buried in London's Kensal Green Cemetery. According to Horsley, Babbage died "of renal inadequacy, secondary to cystitis."[194] He had declined both a knighthood and baronetcy. He also argued against hereditary peerages, favouring life peerages instead.[195]
 
 Autopsy report
 
@@ -252,7 +250,7 @@ In 1983 the autopsy report for Charles Babbage was discovered and later publishe
 
 Memorials
 
-Green plaque in London There is a black plaque commemorating the 40 years Babbage spent at 1 Dorset Street, London.[201] Locations, institutions and other things named after Babbage include:
+There is a black plaque commemorating the 40 years Babbage spent at 1 Dorset Street, London.[201] Locations, institutions and other things named after Babbage include:
 
 -   The Moon crater Babbage
 -   The Charles Babbage Institute, an information technology archive and research center at the University of Minnesota

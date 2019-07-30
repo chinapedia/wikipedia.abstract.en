@@ -3,7 +3,7 @@ All of the major transportation systems in Haiti are located near or run through
 
 Roads
 
-Tap_tap_public_transportation_Haiti.jpg" bus, used for public transportation in Haiti]] Haiti's network of roads consists of National Roads, Department Roads, and county roads. The hub of the road network is located at the old airport (at the intersection of Boulevard Jean-Jacques Dessalines and Autoroute de Delmas). From this intersection, Route Nationale #1 and Route Nationale #2 commence.
+" bus, used for public transportation in Haiti]] Haiti's network of roads consists of National Roads, Department Roads, and county roads. The hub of the road network is located at the old airport (at the intersection of Boulevard Jean-Jacques Dessalines and Autoroute de Delmas). From this intersection, Route Nationale #1 and Route Nationale #2 commence.
 
 -   ROUTE NATIONALE #1 (RN1) heads north, passing through Saint-Marc and Gonaïves to its terminus at Rue 22 in Cap-Haïtien.
 -   ROUTE NATIONALE #2 (RN2) is commonly known as “Boulevard Jean-Jacques Dessalines” within Port-au-Prince and as “Route du Sud” outside the capital region. After heading south through downtown Port-au-Prince, it travels west through the capital's western boroughs and then through Petit-Goâve and Aquin to its terminus at Avenue des Quatre Chemins in Les Cayes. (However, its “extension” continues southwest almost to the sea south of Port Salut.)

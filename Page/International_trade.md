@@ -13,7 +13,7 @@ A product that is transferred or sold from a party in one country to a party in 
 
 Trading globally gives consumers and countries the opportunity to be exposed to new markets and products. Almost every kind of product can be found in the international market: food, clothes, spare parts, oil, jewellery, wine, stocks, currencies, and water. Services are also traded: tourism, banking, consulting, and transportation
 
-Silkroutes.jpg trade routes across Eurasia]]
+trade routes across Eurasia]]
 
 Advanced technology (including transportation), globalisation, industrialisation, outsourcing and multinational corporations have major impact on the international trade system.
 
@@ -45,8 +45,6 @@ upright=3.65
 
 
 Largest countries by total international trade
-
-Volume_of_world_merchandise_exports.png
 
 The following table is a list of the 21 largest trading nations according to the World Trade Organization.[4]
 
@@ -104,8 +102,6 @@ The following table is a list of the 21 largest trading nations according to the
 
 
 Top traded commodities by value (exports)
-
-Volume_of_world_merchandise_exports.png
 
 +------+----------------------------------------------------+--------------------+-------------+
 | Rank | Commodity                                          | Value in US$('000) | Date of     |

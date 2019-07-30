@@ -23,7 +23,7 @@ In 697, Jitō abdicated in Mommu's favor; and as a retired sovereign, she took t
 
 Jitō continued to hold power as a cloistered ruler, which became a persistent trend in Japanese politics.
 
-TenmuJitoTomb.jpg Shinto shrine and mausoleum honoring Empress Jitō]] The actual site of Jitō's grave is known.[13] This empress is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Nara.
+Shinto shrine and mausoleum honoring Empress Jitō]] The actual site of Jitō's grave is known.[13] This empress is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Nara.
 
 The Imperial Household Agency designates this location as Jitō's mausoleum. It is formally named _Ochi-no-Okanoe no misasagi_.[14]
 
@@ -85,7 +85,7 @@ See also
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

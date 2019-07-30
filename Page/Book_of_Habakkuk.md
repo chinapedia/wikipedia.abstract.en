@@ -17,7 +17,7 @@ Although his name does not appear in any other part of the Jewish Bible, Rabbini
 
 Historical context
 
-Chaldean-empire-600BCE.png around 600 BC.]] It is unknown when Habakkuk lived and preached, but the reference to the rise and advance of the Chaldeans in 1:6–11 places him in the middle to last quarter of the 7th century BC. One possible period might be during the reign of Jehoiakim, from 609–598 BC. The reasoning for this date is that it is during his reign that the Neo-Babylonian Empire of the Chaldeans was growing in power. The Babylonians marched against Jerusalem in 598 BC. Jehoiakim died while the Babylonians were marching towards Jerusalem and Jehoiakim's eighteen-year-old son Jehoiachin assumed the throne. Upon the Babylonians' arrival, Jehoiachin and his advisors surrendered Jerusalem after a short time. With the transition of rulers and the young age and inexperience of Jehoiachin, they were not able to stand against Chaldean forces. There is a sense of an intimate knowledge of the Babylonian brutality in 1:12–17.
+around 600 BC.]] It is unknown when Habakkuk lived and preached, but the reference to the rise and advance of the Chaldeans in 1:6–11 places him in the middle to last quarter of the 7th century BC. One possible period might be during the reign of Jehoiakim, from 609–598 BC. The reasoning for this date is that it is during his reign that the Neo-Babylonian Empire of the Chaldeans was growing in power. The Babylonians marched against Jerusalem in 598 BC. Jehoiakim died while the Babylonians were marching towards Jerusalem and Jehoiakim's eighteen-year-old son Jehoiachin assumed the throne. Upon the Babylonians' arrival, Jehoiachin and his advisors surrendered Jerusalem after a short time. With the transition of rulers and the young age and inexperience of Jehoiachin, they were not able to stand against Chaldean forces. There is a sense of an intimate knowledge of the Babylonian brutality in 1:12–17.
 
 
 Overview
@@ -33,7 +33,7 @@ The book consists of three chapters and the book is neatly divided into three di
 
 Themes
 
-Habacuc_e_Deus_(Biblioteca_Nacional_de_Portugal_ALC.455,_fl.301).png and God; Illuminated Bible from the 1220s, National Library of Portugal]] The major theme of Habakkuk is trying to grow from a faith of perplexity and doubt to the height of absolute trust in God. Habakkuk addresses his concerns over the fact that God will use the Babylonian empire to execute judgment on Judah for their sins.
+and God; Illuminated Bible from the 1220s, National Library of Portugal]] The major theme of Habakkuk is trying to grow from a faith of perplexity and doubt to the height of absolute trust in God. Habakkuk addresses his concerns over the fact that God will use the Babylonian empire to execute judgment on Judah for their sins.
 
 Habakkuk openly questions the wisdom of God. In the first part of the first chapter, the Prophet sees the injustice among his people and asks why God does not take action. _"1:2 Yahweh, how long will I cry, and you will not hear? I cry out to you “Violence!” and will you not save?" – World English Bible._
 
@@ -64,7 +64,7 @@ The Talmud (Makkot 24a) mentions that various Biblical figures summarized the 61
 
 Christianity
 
-PaulT.jpg Habakkuk 2:4 is well known in Christianity:
+Habakkuk 2:4 is well known in Christianity:
 
     _Behold, his soul is puffed up; it is not upright within him,_
 

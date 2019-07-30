@@ -5,7 +5,7 @@ The rock unit is a black shale and crops out at a number of localities near the 
 
 History and significance
 
-ROM-BurgessShale-CompleteAnomalocarisFossil.png'' fossil found.]]
+'' fossil found.]]
 
 The Burgess Shale was discovered by palaeontologist Charles Walcott on 30 August 1909,[3] towards the end of the season's fieldwork. He returned in 1910 with his sons, daughter, and wife, establishing a quarry on the flanks of Fossil Ridge. The significance of soft-bodied preservation, and the range of organisms he recognised as new to science, led him to return to the quarry almost every year until 1924. At that point, aged 74, he had amassed over 65,000 specimens. Describing the fossils was a vast task, pursued by Walcott until his death in 1927.[4] Walcott, led by scientific opinion at the time, attempted to categorise all fossils into living taxa, and as a result, the fossils were regarded as little more than curiosities at the time. It was not until 1962 that a first-hand reinvestigation of the fossils was attempted, by Alberto Simonetta. This led scientists to recognise that Walcott had barely scratched the surface of information available in the Burgess Shale, and also made it clear that the organisms did not fit comfortably into modern groups.
 
@@ -24,7 +24,7 @@ In February 2014, the discovery was announced of another Burgess Shale outcrop i
 
 Geological setting
 
-Burgess_Shale,_Yoho_National_Park_of_Canada.jpg image of the area.]]
+image of the area.]]
 
 The fossil-bearing deposits of the Burgess Shale correlate to the Stephen Formation, a collection of slightly calcareous dark mudstones, about old.[11] The beds were deposited at the base of a cliff about 160 m tall,[12] below the depth agitated by waves during storms.[13] This vertical cliff was composed of the calcareous reefs of the Cathedral Formation, which probably formed shortly before the deposition of the Burgess Shale.[14] The precise formation mechanism is not known for certain, but the most widely accepted hypothesis suggests that the edge of the Cathedral Formation reef became detached from the rest of the reef, slumping and being transported some distance — perhaps kilometers — away from the reef edge.[15] Later reactivation of faults at the base of the formation led to its disintegration from about .[16] This would have left a steep cliff, the bottom of which would be protected from tectonic decompression because the limestone of the Cathedral Formation is difficult to compress. This protection explains why fossils preserved further from the Cathedral Formation are impossible to work with — tectonic squeezing of the beds has produced a vertical cleavage that fractures the rocks, so they split perpendicular to the fossils.[17] The Walcott quarry produced such spectacular fossils because it was so close to the Stephen Formation — indeed the quarry has now been excavated to the very edge of the Cambrian cliff.[18]
 
@@ -32,8 +32,6 @@ It was originally thought that the Burgess Shale was deposited in anoxic conditi
 
 
 Stratigraphy
-
-WalcottQuarry080509.jpg
 
 The Burgess Shale Formation comprises 10 members, the most famous being the Walcott Quarry Shale Member comprising the greater phyllopod bed.[21]
 
@@ -47,7 +45,7 @@ There are many other comparable Cambrian _lagerstätten_; indeed such assemblage
 
 Biota
 
-_Burgess_Shale_reconstruction.jpg and a variety of life from the Burgess Shale]]
+and a variety of life from the Burgess Shale]]
 
 The biota of the Burgess Shale appears to be typical of middle Cambrian deposits.[29] Although the hard-part bearing organisms make up as little as 14% of the community,[30] these same organisms are found in similar proportions in other Cambrian localities. This means that there is no reason to assume that the organisms without hard parts are exceptional in any way; indeed, many appear in other lagerstätten of different age and locations.[31]
 

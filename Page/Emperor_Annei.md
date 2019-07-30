@@ -5,8 +5,6 @@ Legendary narrative
 
 Emperor Annei's name appears in both the _Kojiki_ and _Nihon Shoki_ where only his genealogy are recorded. While the Japanese have traditionally accepted this sovereign's historical existence, no extant contemporary records have been discovered that confirm a view that this historical figure actually reigned. Before his accession to the throne, he was allegedly known as Prince Shikitsu-hiko Tamatemi.[3] Shikitsu-hiko Tamatemi was either the eldest son or the only son of Emperor Suizei with Isuzuyori-hime.[4][5] The _Kojiki_ records that he ruled from the palace of at Katashiro in Kawachi in what would come to be known as Yamato Province.[6] During Emperor Annei's alleged lifetime, he had one wife named "Nunasoko-Nakatsu-hime" and fathered three children with her. Annei's reign lasted from 549 BC until his death in 511 BC, his second or third son then took the throne and would later be referred to as Emperor Itoku.[7][8]
 
-Annei_misasagi_Nara.jpg
-
 
 Known information
 
@@ -34,7 +32,7 @@ Notes
 
 References
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 Further reading

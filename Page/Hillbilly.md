@@ -1,4 +1,4 @@
-HatfieldClan.jpg clan in 1897]] "HILLBILLY" is a term (often derogatory) for white people who dwell in rural, mountainous areas in the United States, primarily in southern Appalachia and the Ozarks.
+clan in 1897]] "HILLBILLY" is a term (often derogatory) for white people who dwell in rural, mountainous areas in the United States, primarily in southern Appalachia and the Ozarks.
 
 The first known instances of "hillbilly" in print were in _The Railroad Trainmen's Journal_ (vol. ix, July 1892),[1] an 1899 photograph of men and women in West Virginia labeled "Camp Hillbilly",[2] and a 1900 _New York Journal_ article containing the definition: "a Hill-Billie is a free and untrammeled white citizen of Alabama, who lives in the hills, has no means to speak of, dresses as he can, talks as he pleases, drinks whiskey when he gets it, and fires off his revolver as the fancy takes him".[3] The stereotype is twofold in that it incorporates both positive and negative traits: "Hillbillies" are often considered independent and self-reliant individuals who resist the modernization of society, but at the same time they are also defined as backward and violent. Scholars argue this duality is reflective of the split ethnic identities in white America.[4]
 
@@ -33,7 +33,7 @@ A family of "Hill People", who are employed as migrant workers on a farm in 1952
 
 Music
 
-HillbillyFamilyBandDLange.jpg _Hillbilly music_ was at one time considered an acceptable label for what is now known as country music. The label, coined in 1925 by country pianist Al Hopkins,[15] persisted until the 1950s.
+_Hillbilly music_ was at one time considered an acceptable label for what is now known as country music. The label, coined in 1925 by country pianist Al Hopkins,[15] persisted until the 1950s.
 
 The "hillbilly music" categorization covers a wide variety of musical genres including bluegrass, country, western, and gospel. Appalachian folk song existed long before the "hillbilly" label. When the commercial industry was combined with "traditional Appalachian folksong", "hillbilly music" was formed. Some argue this is a "High Culture" issue where sophisticated individuals may see something considered "unsophisticated" as "trash".[16]
 

@@ -28,7 +28,7 @@ A speaker of both Souletin and Lapurdian, a resident of Lapurdi, Abbadie conside
 
 The castle or château
 
-Chateau_d_Abbadie.jpg, designed by Viollet-le-Duc]] Abbadie gave his castle home the name _Abbadia_, which is the name still used in Basque. However, in French it is usually referred to as _Chateau d'Abbadie_ or _Domaine d'Abbadia_, and locally it is not unusual for it to be called _le Chateau d'Antoine d'Abbadie_.
+, designed by Viollet-le-Duc]] Abbadie gave his castle home the name _Abbadia_, which is the name still used in Basque. However, in French it is usually referred to as _Chateau d'Abbadie_ or _Domaine d'Abbadia_, and locally it is not unusual for it to be called _le Chateau d'Antoine d'Abbadie_.
 
 The château was built between 1864 and 1879 on a cliff by the Atlantic Ocean, and was designed by Viollet Le Duc in the Neo Gothic style, and is considered one of the most important examples of French Gothic Revival Architecture.[17] It is divided in three parts : the observatory and library, the chapel, and the living quarters.
 

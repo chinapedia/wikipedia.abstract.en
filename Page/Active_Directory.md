@@ -53,7 +53,7 @@ As a directory service, an Active Directory instance consists of a database and 
 
 Objects
 
-Publishing_Company_Network_Diagram.pngActive Directory structures are arrangements of information about objects. The objects fall into two broad categories: resources (e.g., printers) and security principals (user or computer accounts and groups). Security principals are assigned unique security identifiers (SIDs).
+Active Directory structures are arrangements of information about objects. The objects fall into two broad categories: resources (e.g., printers) and security principals (user or computer accounts and groups). Security principals are assigned unique security identifiers (SIDs).
 
 Each object represents a single entity—whether a user, a computer, a printer, or a group—and its attributes. Certain objects can contain other objects. An object is uniquely identified by its name and has a set of attributes—the characteristics and information that the object represents— defined by a schema, which also determines the kinds of objects that can be stored in Active Directory.
 
@@ -71,20 +71,20 @@ A tree is a collection of one or more domains and domain trees in a contiguous n
 
 At the top of the structure is the _forest._ A forest is a collection of trees that share a common global catalog, directory schema, logical structure, and directory configuration. The forest represents the security boundary within which users, computers, groups, and other objects are accessible.
 
-+---------------------------------------------------------------------------------------+---------------------------------------------------------------+
-|                                                                                       |   ------------------------------ ---------------------------- |
-|                                                                                       |   File:Icons-mini-page url.gif   Domain-Dallas                |
-|                                                                                       |                                  File:Icons-mini-folder.gif   |
-|                                                                                       |                                                               |
-|                                                                                       |                                                               |
-|                                                                                       |                                                               |
-|                                                                                       |                                  File:Icons-mini-folder.gif   |
-|                                                                                       |                                                               |
-|                                                                                       |                                                               |
-|                                                                                       |   ------------------------------ ---------------------------- |
-+---------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| Example of the geographical organizing of zones of interest within trees and domains. |                                                               |
-+---------------------------------------------------------------------------------------+---------------------------------------------------------------+
++---------------------------------------------------------------------------------------+-----------------------+
+|                                                                                       |   --- --------------- |
+|                                                                                       |       Domain-Dallas   |
+|                                                                                       |                       |
+|                                                                                       |                       |
+|                                                                                       |                       |
+|                                                                                       |                       |
+|                                                                                       |                       |
+|                                                                                       |                       |
+|                                                                                       |                       |
+|                                                                                       |   --- --------------- |
++---------------------------------------------------------------------------------------+-----------------------+
+| Example of the geographical organizing of zones of interest within trees and domains. |                       |
++---------------------------------------------------------------------------------------+-----------------------+
 
 Organizational units
 
@@ -100,7 +100,7 @@ Because duplicate usernames cannot exist within a domain, account name generatio
 
 Shadow groups
 
-Active_directory_-_OUs_can_not_be_given_rights_to_objects.png In Microsoft's Active Directory, OUs do not confer access permissions, and objects placed within OUs are not automatically assigned access privileges based on their containing OU. This is a design limitation specific to Active Directory. Other competing directories such as Novell NDS are able to assign access privileges through object placement within an OU.
+In Microsoft's Active Directory, OUs do not confer access permissions, and objects placed within OUs are not automatically assigned access privileges based on their containing OU. This is a design limitation specific to Active Directory. Other competing directories such as Novell NDS are able to assign access privileges through object placement within an OU.
 
 Active Directory requires a separate step for an administrator to assign an object in an OU as a member of a group also within that OU. Relying on OU location alone to determine access permissions is unreliable, because the object may not have been assigned to the group object for that OU.
 

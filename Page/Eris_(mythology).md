@@ -10,7 +10,7 @@ _Eris_ is of uncertain etymology; connections with the verb ὀρίνειν _ori
 
 Characteristics in Greek mythology
 
-Enrique_Simonet_-_El_Juicio_de_Paris_-_1904.jpg'' by Enrique Simonet, 1904]] Golden_Apple_of_Discord_by_Jacob_Jordaens.jpg'' by Jakob Jordaens, 1633]] Mengs,_Urteil_des_Paris.jpg, c. 1757]]
+'' by Enrique Simonet, 1904]] '' by Jakob Jordaens, 1633]] , c. 1757]]
 
 In Hesiod's _Works and Days_ 11–24, two different goddesses named Eris are distinguished:
 

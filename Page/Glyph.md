@@ -1,4 +1,4 @@
-A-small_glyphs.svg"; they are allographs of the grapheme "a"]] Garamond_type_ſi-ligature.jpg and _i_ (that would separately be represented by two distinct graphemes _s_ and _i_) represented as a single glyph (typographic ligature)]]
+"; they are allographs of the grapheme "a"]] and _i_ (that would separately be represented by two distinct graphemes _s_ and _i_) represented as a single glyph (typographic ligature)]]
 
 In typography, a GLYPH is an elemental symbol within an agreed set of symbols, intended to represent a readable character for the purposes of writing. Glyphs are considered to be unique marks that collectively add up to the spelling of a word or contribute to a specific meaning of what is written, with that meaning dependent on cultural and social usage.
 
@@ -26,7 +26,7 @@ In graphonomics, the term glyph is used for a noncharacter, i.e. either a subcha
 
 Archaeology
 
-MAYA-g-log-cal-D10-Ok.svg for Day 10 of the tzolkin calendar]] In archaeology, a glyph is a carved or inscribed symbol. It may be a pictogram or ideogram, or part of a writing system such as a syllable, or a logogram.
+for Day 10 of the tzolkin calendar]] In archaeology, a glyph is a carved or inscribed symbol. It may be a pictogram or ideogram, or part of a writing system such as a syllable, or a logogram.
 
 A glyph is "the specific shape, design, or representation of a character".[4] It is a particular graphical representation, in a particular typeface, of an element of written language, which could be a grapheme, or part of a grapheme, or sometimes several graphemes in combination (a composed glyph[5]). If there is more than one allograph of a unit of writing, and the choice between them depends on context or on the preference of the author, they now have to be treated as separate glyphs, because mechanical arrangements have to be available to differentiate between them and to print whichever of them is required. The same is true in computing. In computing as well as typography, the term "character" refers to a grapheme or grapheme-like unit of text, as found in natural language writing systems (_scripts_). In typography and computing, the range of graphemes is broader than in a written language in other ways too: a typographical font often has to cope with a range of different languages each of which contribute their own graphemes, and it may also be required to print other symbols such as dingbats. The range of glyphs required increases correspondingly. In summary, in typography and computing, a glyph is a graphical unit.[6]
 

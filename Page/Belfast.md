@@ -22,7 +22,7 @@ Although the county borough of Belfast was created when it was granted city stat
 
 Origins
 
-Belfast_Castle,_Northern_Ireland.jpg]]
+]]
 
 The site of Belfast has been occupied since the Bronze Age. The Giant's Ring, a 5,000-year-old henge, is located near the city,[25] and the remains of Iron Age hill forts can still be seen in the surrounding hills. Belfast remained a small settlement of little importance during the Middle Ages. John de Courcy built a castle on what is now Castle Street in the city centre in the 12th century, but this was on a lesser scale and not as strategically important as Carrickfergus Castle to the north, which was built by de Courcy in 1177. The O'Neill clan had a presence in the area.
 
@@ -30,21 +30,19 @@ In the 14th century, Cloinne Aodha Buidhe, descendants of Aodh Buidhe O'Neill, b
 
 Growth
 
-DV405_no.227_Castle_Place,_Belfast.png
-
 Belfast became a substantial settlement in the 17th century after being established as a town by Sir Arthur Chichester.[28] It was initially settled by Protestant English and Scottish migrants at the time of the Plantation of Ulster. (Belfast and County Antrim, however, did not form part of this particular Plantation scheme as they were privately colonised.) In 1791, the Society of United Irishmen was founded in Belfast, after Henry Joy McCracken and other prominent Presbyterians from the city invited Theobald Wolfe Tone and Thomas Russell to a meeting, after having read Tone's "Argument on Behalf of the Catholics of Ireland".[29] Evidence of this period of Belfast's growth can still be seen in the oldest areas of the city, known as the Entries.
 
-City_Hall,_Donegall_Square,_Belfast_(7560740480).jpg in the early 1900s]] Belfast blossomed as a commercial and industrial centre in the 18th and 19th centuries and became Ireland's pre-eminent industrial city. Industries thrived, including linen, rope-making, tobacco, heavy engineering and shipbuilding, and at the end of the 19th century, Belfast briefly overtook Dublin as the largest city in Ireland. The Harland and Wolff shipyards became one of the largest shipbuilders in the world, employing up to 35,000 workers.[30] In 1886 the city suffered intense riots over the issue of home rule, which had divided the city.[31]
+in the early 1900s]] Belfast blossomed as a commercial and industrial centre in the 18th and 19th centuries and became Ireland's pre-eminent industrial city. Industries thrived, including linen, rope-making, tobacco, heavy engineering and shipbuilding, and at the end of the 19th century, Belfast briefly overtook Dublin as the largest city in Ireland. The Harland and Wolff shipyards became one of the largest shipbuilders in the world, employing up to 35,000 workers.[30] In 1886 the city suffered intense riots over the issue of home rule, which had divided the city.[31]
 
 In 1920–22, Belfast became the capital of the new entity of Northern Ireland as the island of Ireland was partitioned. The accompanying conflict (the Irish War of Independence) cost up to 500 lives in Belfast, the bloodiest sectarian strife in the city until the Troubles of the late 1960s onwards.[32]
 
-AIR_RAID_DAMAGE_IN_THE_UNITED_KINGDOM_1939-1945_-_H_9476.jpg Belfast was heavily bombed during World War II. Initial raids were a surprise as the city was believed to be outside of the range of German bomber planes. In one raid, in 1941, German bombers killed around one thousand people and left tens of thousands homeless. Apart from London, this was the greatest loss of life in a night raid during the Blitz.[33]
+Belfast was heavily bombed during World War II. Initial raids were a surprise as the city was believed to be outside of the range of German bomber planes. In one raid, in 1941, German bombers killed around one thousand people and left tens of thousands homeless. Apart from London, this was the greatest loss of life in a night raid during the Blitz.[33]
 
 The Troubles
 
 Belfast has been the capital of Northern Ireland since its establishment in 1921 following the Government of Ireland Act 1920. It had been the scene of various episodes of sectarian conflict between its Catholic and Protestant populations. These opposing groups in this conflict are now often termed republican and loyalist respectively, although they are also loosely referred to as 'nationalist' and 'unionist'. The most recent example of this conflict was known as the Troubles – a civil conflict that raged from around 1969 to 1998.[34]
 
-Shankilltroubles.jpg during the Troubles, 1970s]] Belfast saw some of the worst of the Troubles in Northern Ireland, particularly in the 1970s, with rival paramilitary groups formed on both sides. Bombing, assassination and street violence formed a backdrop to life throughout the Troubles. The Provisional IRA detonated 22 bombs within the confines of Belfast city centre on 21 July 1972, on what is known as "Bloody Friday", killing nine people. Loyalist paramilitaries including the Ulster Volunteer Force (UVF) and the Ulster Defence Association (UDA) claimed that the killings they carried out were in retaliation for the IRA campaign. Most of their victims were Catholics with no links to the Provisional IRA.[35] A particularly notorious group, based on the Shankill Road in the mid-1970s, became known as the Shankill Butchers.
+during the Troubles, 1970s]] Belfast saw some of the worst of the Troubles in Northern Ireland, particularly in the 1970s, with rival paramilitary groups formed on both sides. Bombing, assassination and street violence formed a backdrop to life throughout the Troubles. The Provisional IRA detonated 22 bombs within the confines of Belfast city centre on 21 July 1972, on what is known as "Bloody Friday", killing nine people. Loyalist paramilitaries including the Ulster Volunteer Force (UVF) and the Ulster Defence Association (UDA) claimed that the killings they carried out were in retaliation for the IRA campaign. Most of their victims were Catholics with no links to the Provisional IRA.[35] A particularly notorious group, based on the Shankill Road in the mid-1970s, became known as the Shankill Butchers.
 
 In all, over 1,600 people were killed in political violence in the city between 1969 and 2001.[36]
 
@@ -57,32 +55,32 @@ Belfast and the Causeway Coast were together named the best place to visit in 20
 
 Governance
 
-Flag_of_Belfast.svg Belfast was granted borough status by James VI and I in 1613 and official city status by Queen Victoria in 1888.[42] Since 1973 it has been a local government district under local administration by Belfast City Council.[43] Belfast is represented in both the British House of Commons and in the Northern Ireland Assembly. For elections to the European Parliament, Belfast is within the Northern Ireland constituency.
+Belfast was granted borough status by James VI and I in 1613 and official city status by Queen Victoria in 1888.[42] Since 1973 it has been a local government district under local administration by Belfast City Council.[43] Belfast is represented in both the British House of Commons and in the Northern Ireland Assembly. For elections to the European Parliament, Belfast is within the Northern Ireland constituency.
 
 Local government
 
 Belfast City Council is the local council with responsibility for the city. The city's elected officials are the Lord Mayor of Belfast, Deputy Lord Mayor and High Sheriff who are elected from among 60 councillors. The first Lord Mayor of Belfast was Daniel Dixon, who was elected in 1892.[44] The Lord Mayor for 2019–20 is John Finucane Sinn Féin, while the Deputy Lord Mayor is an Alliance Party of Northern Ireland councillor. The Lord Mayor's duties include presiding over meetings of the council, receiving distinguished visitors to the city, representing and promoting the city on the national and international stage.[45]
 
-Belfast_City_Hall_2.jpg In 1997, Unionists lost overall control of Belfast City Council for the first time in its history, with the Alliance Party of Northern Ireland gaining the balance of power between Nationalists and Unionists. This position was confirmed in four subsequent council elections, with mayors from Sinn Féin and the Social Democratic and Labour Party (SDLP), both of whom are Nationalist parties, and the cross-community Alliance Party regularly elected since. The first nationalist Lord Mayor of Belfast was Alban Maginness of the SDLP, in 1997.
+In 1997, Unionists lost overall control of Belfast City Council for the first time in its history, with the Alliance Party of Northern Ireland gaining the balance of power between Nationalists and Unionists. This position was confirmed in four subsequent council elections, with mayors from Sinn Féin and the Social Democratic and Labour Party (SDLP), both of whom are Nationalist parties, and the cross-community Alliance Party regularly elected since. The first nationalist Lord Mayor of Belfast was Alban Maginness of the SDLP, in 1997.
 
 Belfast council takes part in the twinning scheme,[46] and is twinned with Nashville, in the United States,[47] Hefei in China,[48] and Boston, in the United States.[49][50]
 
 Northern Ireland Assembly and Westminster
 
-Stormont_Parliament_Buildings_during_Giro_d'Italia,_May_2014(6).jpg is home to the Northern Ireland Assembly.]]
+is home to the Northern Ireland Assembly.]]
 
 As Northern Ireland's capital city, Belfast is host to the Northern Ireland Assembly at Stormont, the site of the devolved legislature for Northern Ireland. Belfast is divided into four Northern Ireland Assembly and UK parliamentary constituencies: Belfast North, Belfast West, Belfast South and Belfast East. All four extend beyond the city boundaries to include parts of Castlereagh, Lisburn and Newtownabbey districts. In the Northern Ireland Assembly Elections in 2017, Belfast elected 20 Members of the Legislative Assembly (MLAs), 5 from each constituency. Belfast elected 7 Sinn Féin, 5 DUP, 2 SDLP, 3 Alliance Party, 1 UUP, 1 Green and 1 PBPA MLAs.[51] In the 2017 UK general election, Belfast elected one MP from each constituency to the House of Commons at Westminster, London. This comprised 3 DUP and 1 Sinn Féin.
 
 
 Geography
 
-Belfast_Aerial.jpg Belfast_with_Lough_by_Sentinel-2.jpg Belfast is at the western end of Belfast Lough and at the mouth of the River Lagan giving it the ideal location for the shipbuilding industry that once made it famous. When the _Titanic_ was built in Belfast in 1911–1912, Harland and Wolff had the largest shipyard in the world.[52] Belfast is situated on Northern Ireland's eastern coast at . A consequence of this northern latitude is that it both endures short winter days and enjoys long summer evenings. During the winter solstice, the shortest day of the year, local sunset is before 16:00 while sunrise is around 08:45. This is balanced by the summer solstice in June, when the sun sets after 22:00 and rises before 05:00.[53]
+Belfast is at the western end of Belfast Lough and at the mouth of the River Lagan giving it the ideal location for the shipbuilding industry that once made it famous. When the _Titanic_ was built in Belfast in 1911–1912, Harland and Wolff had the largest shipyard in the world.[52] Belfast is situated on Northern Ireland's eastern coast at . A consequence of this northern latitude is that it both endures short winter days and enjoys long summer evenings. During the winter solstice, the shortest day of the year, local sunset is before 16:00 while sunrise is around 08:45. This is balanced by the summer solstice in June, when the sun sets after 22:00 and rises before 05:00.[53]
 
 In 1994, a weir was built across the river by the Laganside Corporation to raise the average water level so that it would cover the unseemly mud flats which gave Belfast its name[54] ().[55] The area of Belfast Local Government District is .[56]
 
 The River Farset is also named after this silt deposit (from the Irish _feirste_ meaning "sand spit"). Originally a more significant river than it is today, the Farset formed a dock on High Street until the mid 19th century. Bank Street in the city centre referred to the river bank and Bridge Street was named for the site of an early Farset bridge.[57] Superseded by the River Lagan as the more important river in the city, the Farset now languishes in obscurity, under High Street. There are no less than eleven other minor rivers in and around Belfast, namely the Blackstaff, the Colin, the Connswater, the Cregagh, the Derriaghy, the Forth, the Knock, the Legoniel, the Milewater, the Purdysburn and the Ravernet.[58]
 
-Cavehill,_Belfast.jpg, a basaltic hill overlooking the city]] The city is flanked on the north and northwest by a series of hills, including Divis Mountain, Black Mountain and Cavehill, thought to be the inspiration for Jonathan Swift's _Gulliver's Travels_. When Swift was living at Lilliput Cottage near the bottom of Belfast's Limestone Road, he imagined that the Cavehill resembled the shape of a sleeping giant safeguarding the city.[59] The shape of the giant's nose, known locally as _Napoleon's Nose_, is officially called McArt's Fort probably named after Art O'Neill, a 17th-century chieftain who controlled the area at that time.[60] The Castlereagh Hills overlook the city on the southeast.
+, a basaltic hill overlooking the city]] The city is flanked on the north and northwest by a series of hills, including Divis Mountain, Black Mountain and Cavehill, thought to be the inspiration for Jonathan Swift's _Gulliver's Travels_. When Swift was living at Lilliput Cottage near the bottom of Belfast's Limestone Road, he imagined that the Cavehill resembled the shape of a sleeping giant safeguarding the city.[59] The shape of the giant's nose, known locally as _Napoleon's Nose_, is officially called McArt's Fort probably named after Art O'Neill, a 17th-century chieftain who controlled the area at that time.[60] The Castlereagh Hills overlook the city on the southeast.
 
 Climate
 
@@ -94,11 +92,9 @@ The nearest weather station for which sunshine data and longer term observations
 
 Areas and districts
 
-RoyalAvenueBelfast.jpg
-
 Belfast expanded very rapidly from being a market town to becoming an industrial city during the course of the 19th century. Because of this, it is less an agglomeration of villages and towns which have expanded into each other, than other comparable cities, such as Manchester or Birmingham. The city expanded to the natural barrier of the hills that surround it, overwhelming other settlements. Consequently, the arterial roads along which this expansion took place (such as the Falls Road or the Newtownards Road) are more significant in defining the districts of the city than nucleated settlements. Belfast remains segregated by walls, commonly known as "peace lines", erected by the British Army after August 1969, and which still divide 14 districts in the inner city.[78] In 2008 a process was proposed for the removal of the 'peace walls'.[79] In June 2007, a £16 million programme was announced which will transform and redevelop streets and public spaces in the city centre.[80] Major arterial roads (quality bus corridor) into the city include the Antrim Road, Shore Road, Holywood Road, Newtownards Road, Castlereagh Road, Cregagh Road, Ormeau Road, Malone Road, Lisburn Road, Falls Road, Springfield Road, Shankill Road, and Crumlin Road, Four Winds.[81]
 
-Cathedral_St._Anne_Belfast.jpg Belfast city centre is divided into two postcode districts, _BT1_ for the area lying north of the City Hall, and _BT2_ for the area to its south. The industrial estate and docklands _BT3_. The rest of the Belfast post town is divided in a broadly clockwise system from _BT3_ in the north-east round to _BT15_, with _BT16_ and _BT17_ further out to the east and west respectively. Although _BT_ derives from _Belfast_, the BT postcode area extends across the whole of Northern Ireland.[82]
+Belfast city centre is divided into two postcode districts, _BT1_ for the area lying north of the City Hall, and _BT2_ for the area to its south. The industrial estate and docklands _BT3_. The rest of the Belfast post town is divided in a broadly clockwise system from _BT3_ in the north-east round to _BT15_, with _BT16_ and _BT17_ further out to the east and west respectively. Although _BT_ derives from _Belfast_, the BT postcode area extends across the whole of Northern Ireland.[82]
 
 Since 2001, boosted by increasing numbers of tourists, the city council has developed a number of cultural quarters. The CATHEDRAL QUARTER takes its name from St Anne's Cathedral (Church of Ireland) and has taken on the mantle of the city's key cultural locality.[83] It hosts a yearly visual and performing arts festival.
 
@@ -113,7 +109,7 @@ Cityscape
 
 Architecture
 
-Obel_Tower_completed.jpg is the tallest building in Belfast and Ireland.]]
+is the tallest building in Belfast and Ireland.]]
 
 The architectural style of Belfast's public buildings range from a small set go Georgian buildings, many examples of Victorian, including the main _Lanyon Building_ at Queen's University Belfast and the Linenhall Library, (both designed by Sir Charles Lanyon). There are also many examples of Edwardian, such as the City Hall, to modern, such as the Waterfront Hall.
 
@@ -121,7 +117,7 @@ The City Hall was finished in 1906 and was built to reflect Belfast's city statu
 
 Among the city's grandest buildings are two former banks: Ulster Bank in Waring Street (built in 1860) and Northern Bank, in nearby Donegall Street (built in 1769). The Royal Courts of Justice in Chichester Street are home to Northern Ireland's Supreme Court. Many of Belfast's oldest buildings are found in the Cathedral Quarter area, which is currently undergoing redevelopment as the city's main cultural and tourist area.[97] Windsor House, high, has 23 floors and is the second tallest building (as distinct from structure) in Ireland.[98] Work has started on the taller Obel Tower, which already surpasses the height of Windsor House in its unfinished state.
 
-Scottish_Provident_Institution,_Belfast.jpg in Belfast]] The ornately decorated Crown Liquor Saloon, designed by Joseph Anderson in 1876, in Great Victoria Street is one of only two pubs in the UK that are owned by the National Trust (the other is the George Inn, Southwark in London). It was made internationally famous as the setting for the classic film, _Odd Man Out_, starring James Mason.[99] The restaurant panels in the Crown Bar were originally made for _Britannic_, the sister ship of the _Titanic_,[100] built in Belfast.
+in Belfast]] The ornately decorated Crown Liquor Saloon, designed by Joseph Anderson in 1876, in Great Victoria Street is one of only two pubs in the UK that are owned by the National Trust (the other is the George Inn, Southwark in London). It was made internationally famous as the setting for the classic film, _Odd Man Out_, starring James Mason.[99] The restaurant panels in the Crown Bar were originally made for _Britannic_, the sister ship of the _Titanic_,[100] built in Belfast.
 
 The Harland and Wolff shipyard has two of the largest dry docks in Europe,[101] where the giant cranes, Samson and Goliath stand out against Belfast's skyline. Including the Waterfront Hall and the Odyssey Arena, Belfast has several other venues for performing arts. The architecture of the Grand Opera House has an oriental theme and was completed in 1895. It was bombed several times during the Troubles but has now been restored to its former glory.[102] The Lyric Theatre, (re-opened 1 May 2011 after undergoing a rebuilding programme) the only full-time producing theatre in the country, is where film star Liam Neeson began his career.[103] The Ulster Hall (1859–1862) was originally designed for grand dances but is now used primarily as a concert and sporting venue. Lloyd George, Parnell and Patrick Pearse all attended political rallies there.[104]
 
@@ -129,13 +125,13 @@ A legacy of the Troubles are the many 'peace lines' or 'peace walls' that still 
 
 Parks and gardens
 
-Flower_bed,_Botanic_Gardens,_Belfast_-_geograph.org.uk_-_1454550.jpg]]
+]]
 
 Sitting at the mouth of the River Lagan where it becomes a deep and sheltered lough, Belfast is surrounded by mountains that create a micro-climate conducive to horticulture. From the Victorian Botanic Gardens in the heart of the city to the heights of Cave Hill Country Park, the great expanse of Lagan Valley Regional Park[106] to Colin Glen, Belfast contains an abundance of parkland and forest parks.[107]
 
 Parks and gardens are an integral part of Belfast's heritage, and home to an abundance of local wildlife and popular places for a picnic, a stroll or a jog. Numerous events take place throughout including festivals such as Rose Week and special activities such as bird watching evenings and great beast hunts.[108]
 
-Belfast has over forty public parks. The Forest of Belfast is a partnership between government and local groups, set up in 1992 to manage and conserve the city's parks and open spaces. They have commissioned more than 30 public sculptures since 1993.[109] In 2006, the City Council set aside £8 million to continue this work.[110] The Belfast Naturalists' Field Club was founded in 1863 and is administered by National Museums and Galleries of Northern Ireland.[111] City_Quays_Rec.jpg. The Salmon of Knowledge is visible on the left.]] With an average of 670,000 visitors per year between 2007 and 2011, one of the most popular parks is Botanic Gardens[112] in the Queen's Quarter. Built in the 1830s and designed by Sir Charles Lanyon, Botanic Gardens Palm House is one of the earliest examples of a curvilinear and cast iron glasshouse.[113] Other attractions in the park include the Tropical Ravine, a humid jungle glen built in 1889, rose gardens and public events ranging from live opera broadcasts to pop concerts.[114] U2 played here in 1997. Sir Thomas and Lady Dixon Park, to the south of the city centre, attracts thousands of visitors each year to its International Rose Garden.[115] Rose Week in July each year features over 20,000 blooms.[116] It has an area of of meadows, woodland and gardens and features a Diana, Princess of Wales Memorial Garden, a Japanese garden, a walled garden, and the Golden Crown Fountain commissioned in 2002 as part of the Queen's Golden Jubilee celebrations.[117]
+Belfast has over forty public parks. The Forest of Belfast is a partnership between government and local groups, set up in 1992 to manage and conserve the city's parks and open spaces. They have commissioned more than 30 public sculptures since 1993.[109] In 2006, the City Council set aside £8 million to continue this work.[110] The Belfast Naturalists' Field Club was founded in 1863 and is administered by National Museums and Galleries of Northern Ireland.[111] . The Salmon of Knowledge is visible on the left.]] With an average of 670,000 visitors per year between 2007 and 2011, one of the most popular parks is Botanic Gardens[112] in the Queen's Quarter. Built in the 1830s and designed by Sir Charles Lanyon, Botanic Gardens Palm House is one of the earliest examples of a curvilinear and cast iron glasshouse.[113] Other attractions in the park include the Tropical Ravine, a humid jungle glen built in 1889, rose gardens and public events ranging from live opera broadcasts to pop concerts.[114] U2 played here in 1997. Sir Thomas and Lady Dixon Park, to the south of the city centre, attracts thousands of visitors each year to its International Rose Garden.[115] Rose Week in July each year features over 20,000 blooms.[116] It has an area of of meadows, woodland and gardens and features a Diana, Princess of Wales Memorial Garden, a Japanese garden, a walled garden, and the Golden Crown Fountain commissioned in 2002 as part of the Queen's Golden Jubilee celebrations.[117]
 
 In 2008, Belfast was named a finalist in the Large City (200,001 and over) category of the RHS Britain in Bloom competition along with London Borough of Croydon and Sheffield.
 
@@ -154,7 +150,7 @@ The 2001 census recorded 81,650 people from Catholic backgrounds and 79,650 peop
 
 As with many cities, Belfast's inner city is currently characterised by the elderly, students and single young people, while families tend to live on the periphery. Socio-economic areas radiate out from the Central Business District, with a pronounced wedge of affluence extending out the Malone Road and Upper Malone Road to the south.[127] An area of deprivation is found in the inner parts of the north and west of the city. The areas around the Falls Road, Ardoyne and New Lodge (Catholic nationalist) and the Shankill Road (Protestant loyalist) are among the ten most deprived wards in Northern Ireland.[128]
 
-Belfast_murals_Ac.jpg Despite a period of relative peace, most areas and districts of Belfast still reflect the divided nature of Northern Ireland as a whole. Many areas are still highly segregated along ethnic, political and religious lines, especially in working-class neighbourhoods.[129]
+Despite a period of relative peace, most areas and districts of Belfast still reflect the divided nature of Northern Ireland as a whole. Many areas are still highly segregated along ethnic, political and religious lines, especially in working-class neighbourhoods.[129]
 
 These zones – Catholic/Republican on one side and Protestant/Loyalist on the other – are invariably marked by flags, graffiti and murals. Segregation has been present throughout the history of Belfast but has been maintained and increased by each outbreak of violence in the city. This escalation in segregation, described as a "ratchet effect", has shown little sign of decreasing.[130]
 
@@ -169,7 +165,7 @@ File:Population Density Belfast City Council 2011 Census.png|Population density 
 
 Economy
 
-The IRA Ceasefire in 1994 and the signing of the Good Friday Agreement in 1998 have given investors increased confidence to invest in Belfast.[143][144] This has led to a period of sustained economic growth and large-scale redevelopment of the city centre. Developments include Victoria Square, the Cathedral Quarter, and the Laganside with the Odyssey complex and the landmark Waterfront Hall. Waterfront_Hall,_Belfast.jpg Other major developments include the regeneration of the Titanic Quarter, and the erection of the Obel Tower, a skyscraper set to be the tallest tower on the island.[145] Today, Belfast is Northern Ireland's educational and commercial hub. In February 2006, Belfast's unemployment rate stood at 4.2%, lower than both the Northern Ireland[146] and the UK average of 5.5%.[147] Over the past 10 years employment has grown by 16.4%, compared with 9.2% for the UK as a whole.[148]
+The IRA Ceasefire in 1994 and the signing of the Good Friday Agreement in 1998 have given investors increased confidence to invest in Belfast.[143][144] This has led to a period of sustained economic growth and large-scale redevelopment of the city centre. Developments include Victoria Square, the Cathedral Quarter, and the Laganside with the Odyssey complex and the landmark Waterfront Hall. Other major developments include the regeneration of the Titanic Quarter, and the erection of the Obel Tower, a skyscraper set to be the tallest tower on the island.[145] Today, Belfast is Northern Ireland's educational and commercial hub. In February 2006, Belfast's unemployment rate stood at 4.2%, lower than both the Northern Ireland[146] and the UK average of 5.5%.[147] Over the past 10 years employment has grown by 16.4%, compared with 9.2% for the UK as a whole.[148]
 
 Northern Ireland's peace dividend has led to soaring property prices in the city. In 2007, Belfast saw house prices grow by 50%, the fastest rate of growth in the UK.[149] In March 2007, the average house in Belfast cost £91,819, with the average in south Belfast being £141,000.[150] In 2004, Belfast had the lowest owner occupation rate in Northern Ireland at 54%.[151]
 
@@ -185,28 +181,26 @@ _Der Spiegel_, a German weekly magazine for politics and economy, titled Belfast
 
 Industrial growth
 
-Belfast's_Harland_and_Wolff_Shipyard_(RMS_Adriatic),_1907.jpg postcard depicting the construction of a passenger liner (the RMS _Adriatic_) at the Harland and Wolff shipyard]]
+postcard depicting the construction of a passenger liner (the RMS _Adriatic_) at the Harland and Wolff shipyard]]
 
 When the population of Belfast town began to grow in the 17th century, its economy was built on commerce.[159] It provided a market for the surrounding countryside and the natural inlet of Belfast Lough gave the city its own port. The port supplied an avenue for trade with Great Britain and later Europe and North America. In the mid-17th century, Belfast exported beef, butter, hides, tallow and corn and it imported coal, cloth, wine, brandy, paper, timber and tobacco.[160]
 
 Around this time, the linen trade in Northern Ireland blossomed and by the middle of the 18th century, one fifth of all the linen exported from Ireland was shipped from Belfast.[161] The present city however is a product of the Industrial Revolution.[162] It was not until industry transformed the linen and shipbuilding trades that the economy and the population boomed. By the turn of the 19th century, Belfast had transformed into the largest linen producing centre in the world,[163] earning the nickname "Linenopolis".
 
-Belfast harbour was dredged in 1845 to provide deeper berths for larger ships. Donegall Quay was built out into the river as the harbour was developed further and trade flourished.[164] The Harland and Wolff shipbuilding firm was created in 1861, and by the time the _Titanic_ was built, in 1912, it had become the largest shipyard in the world.[165] Harlandandwolffcranes.JPG Short Brothers plc is a British aerospace company based in Belfast. It was the first aircraft manufacturing company in the world. The company began its association with Belfast in 1936, with Short & Harland Ltd, a venture jointly owned by Shorts and Harland and Wolff. Now known as Shorts Bombardier it works as an international aircraft manufacturer located near the Port of Belfast.[166]
+Belfast harbour was dredged in 1845 to provide deeper berths for larger ships. Donegall Quay was built out into the river as the harbour was developed further and trade flourished.[164] The Harland and Wolff shipbuilding firm was created in 1861, and by the time the _Titanic_ was built, in 1912, it had become the largest shipyard in the world.[165] Short Brothers plc is a British aerospace company based in Belfast. It was the first aircraft manufacturing company in the world. The company began its association with Belfast in 1936, with Short & Harland Ltd, a venture jointly owned by Shorts and Harland and Wolff. Now known as Shorts Bombardier it works as an international aircraft manufacturer located near the Port of Belfast.[166]
 
 The rise of mass-produced and cotton clothing following World War I were some of the factors which led to the decline of Belfast's international linen trade.[167] Like many British cities dependent on traditional heavy industry, Belfast suffered serious decline since the 1960s, exacerbated greatly in the 1970s and 1980s by the Troubles. More than 100,000 manufacturing jobs have been lost since the 1970s.[168] For several decades, Northern Ireland's fragile economy required significant public support from the British exchequer of up to £4 billion per year.[169]
 
 
 Infrastructure
 
-Belfast-University-of-Ulster.jpg, Belfast campus]]
+, Belfast campus]]
 
 Belfast saw the worst of the Troubles in Northern Ireland, with nearly half of the total deaths in the conflict occurring in the city. However, since the Good Friday Agreement in 1998, there has been significant urban regeneration in the city centre including Victoria Square, Queen's Island and Laganside as well as the Odyssey complex and the landmark Waterfront Hall. The city is served by two airports: The George Best Belfast City Airport adjacent to Belfast Lough and Belfast International Airport which is near Lough Neagh. Queen's University of Belfast is the main university in the city. The Ulster University also maintains a campus in the city, which concentrates on fine art, design and architecture.
 
 Belfast is one of the constituent cities that makes up the Dublin-Belfast corridor region, which has a population of just under 3 million.
 
 Utilities
-
-SilentValley.jpg
 
 Most of Belfast's water is supplied from the Silent Valley Reservoir in County Down, created to collect water from the Mourne Mountains.[170] The rest of the city's water is sourced from Lough Neagh, via _Dunore Water Treatment Works_ in County Antrim.[171] The citizens of Belfast pay for their water in their rates bill. Plans to bring in additional water tariffs have been deferred by devolution in May 2007.[172] Belfast has approximately of sewers, which are currently being replaced in a project costing over £100 million and due for completion in 2009.[173]
 
@@ -218,17 +212,17 @@ The Belfast Health & Social Care Trust is one of five trusts that were created o
 
 Transport
 
-George_Best_Belfast_City_Airport_-_geograph.org.uk_-_714574.jpg.]]
+.]]
 
 Belfast is a relatively car-dependent city by European standards, with an extensive road network including the M2 and M22 motorway route.[182] A 2005 survey of how people travel in Northern Ireland showed that people in Belfast made 77% of all journeys by car, 11% by public transport and 6% on foot.[183] It showed that Belfast has 0.70 cars per household compared to figures of 1.18 in the East and 1.14 in the West of Northern Ireland.[184] A road improvement-scheme in Belfast began early in 2006, with the upgrading of two junctions along the Westlink dual-carriageway to grade-separated standard. The improvement scheme was completed five months ahead of schedule on February 2009, with the official opening taking place on 4 March 2009.[185]
 
 Commentators have argued that this may create a bottleneck at York Street, the next at-grade intersection, until that too is upgraded. On 25 October 2012 the stage 2 report for the York Street intersection was approved[186] and in December 2012 the planned upgrade moved into stage 3 of the development process. If successfully completing the necessary statutory procedures, work on a grade separated junction to connect the Westlink to the M2/M3 motorways is scheduled to take place between 2014 and 2018,[187] creating a continuous link between the M1 and M2, the two main motorways in Northern Ireland.
 
-Gt_Victoria_Street_station,_Belfast_(9)_-_geograph.org.uk_-_2223181.jpg station on Northern Ireland Railways]] Black taxis are common in the city, operating on a share basis in some areas.[188] These are outnumbered by private hire taxis. Bus and rail public transport in Northern Ireland is operated by subsidiaries of Translink. Bus services in the city proper and the nearer suburbs are operated by Translink Metro, with services focusing on linking residential districts with the city centre on 12 quality bus corridors running along main radial roads,[189]
+station on Northern Ireland Railways]] Black taxis are common in the city, operating on a share basis in some areas.[188] These are outnumbered by private hire taxis. Bus and rail public transport in Northern Ireland is operated by subsidiaries of Translink. Bus services in the city proper and the nearer suburbs are operated by Translink Metro, with services focusing on linking residential districts with the city centre on 12 quality bus corridors running along main radial roads,[189]
 
 More distant suburbs are served by Ulsterbus. Northern Ireland Railways provides suburban services along three lines running through Belfast's northern suburbs to Carrickfergus, Larne and Larne Harbour, eastwards towards Bangor and south-westwards towards Lisburn and Portadown. This service is known as the Belfast Suburban Rail system. Belfast is linked directly to Coleraine, Portrush and Derry. Belfast has a direct rail connection with Dublin called _Enterprise_ which is operated jointly by NIR and Iarnród Éireann, the state railway company of the Republic of Ireland. There are no rail services to cities in other countries of the United Kingdom, due to the lack of a bridge or tunnel connecting Great Britain to the island of Ireland. There is, however, a combined ferry and rail ticket between Belfast and cities in Great Britain, which is referred to as _Sailrail_.[190]
 
-Belfast-GliderBus-TitanicQuarter-P1510185.jpg bus rapid transit services opened in 2018.[191]]]
+bus rapid transit services opened in 2018.[191]]]
 
 In April 2008, the Department for Regional Development reported on a plan for a light-rail system, similar to that in Dublin. The consultants said Belfast does not have the population to support a light rail system, suggesting that investment in bus-based rapid transit would be preferable. The study found that bus-based rapid transit produces positive economic results, but light rail does not. The report by Atkins & KPMG, however, said there would be the option of migrating to light rail in the future should the demand increase.[192][193]
 
@@ -243,7 +237,7 @@ The new 90 million pound bus service saw a 17% increase in its first month in Be
 
 Culture
 
-ACDC-Hughes-long_ago.jpg with Bon Scott (centre) pictured with guitarist Angus Young (left) and bassist Cliff Williams (back), performing at the Ulster Hall in August 1979]]
+with Bon Scott (centre) pictured with guitarist Angus Young (left) and bassist Cliff Williams (back), performing at the Ulster Hall in August 1979]]
 
 Belfast's population is evenly split between its Protestant and Catholic residents.[197] These two distinct cultural communities have both contributed significantly to the city's culture. Throughout the Troubles, Belfast artists continued to express themselves through poetry, art and music. In the period since the Good Friday Agreement in 1998, Belfast has begun a social, economic and cultural transformation giving it a growing international cultural reputation.[198] In 2003, Belfast had an unsuccessful bid for the 2008 European Capital of Culture. The bid was run by an independent company, _Imagine Belfast_, who boasted that it would "make Belfast the meeting place of Europe's legends, where the meaning of history and belief find a home and a sanctuary from caricature, parody and oblivion."[199] According to _The Guardian_ the bid may have been undermined by the city's history and volatile politics.[200]
 
@@ -251,7 +245,7 @@ In 2004–05, art and cultural events in Belfast were attended by 1.8 million p
 
 The Ulster Orchestra, based in Belfast, is Northern Ireland's only full-time symphony orchestra and is well renowned in the United Kingdom. Founded in 1966, it has existed in its present form since 1981, when the BBC Northern Ireland Orchestra was disbanded.[203] The music school of Queen's University is responsible for arranging a notable series of lunchtime and evening concerts, often given by renowned musicians which are usually given in The Harty Room at the university (University Square).
 
-The_Beatles_emerging_from_the_Ritz_Cinema,_Fisherwick_Place,_Belfast_November_8,_1963.jpg emerging from the Ritz Cinema, Belfast following their concert, 8 November 1963.]] There are many Traditional Irish bands playing throughout the city and quite a few music schools concentrate on teaching Traditional music.
+emerging from the Ritz Cinema, Belfast following their concert, 8 November 1963.]] There are many Traditional Irish bands playing throughout the city and quite a few music schools concentrate on teaching Traditional music.
 
 Musicians and bands who have written songs about or dedicated to Belfast:
 
@@ -269,7 +263,7 @@ In late August 2018, at least three groups were vying for the right to purchase 
 
 Media
 
-Belfast_Telegraph,_July_2010_(01).JPG'' headquarters]]
+'' headquarters]]
 
 Belfast is the home of the _Belfast Telegraph_, _Irish News_, and _The News Letter_, the oldest English-language newspaper in the world still in publication.[208][209] The city has a number of free publications including _Fate_ magazine, _Go Belfast_, and the _Vacuum_, that are distributed through bar, cafes and public venues.
 
@@ -281,7 +275,7 @@ In November 2011, Belfast became the smallest city to host the MTV Europe Music 
 
 Sports
 
-Kingspan_Stadium,_Belfast.jpg is the home of Ulster Rugby]]
+is the home of Ulster Rugby]]
 
 Belfast has several notable sports teams playing a diverse variety of sports such as football, Gaelic games, rugby, cricket, and ice hockey. The Belfast Marathon is run annually on May Day, and attracted 20,000 participants in 2011.[213]
 
@@ -300,7 +294,7 @@ Other significant sportspeople from Belfast include double world snooker champio
 
 Notable people
 
-Brian_Desmond_Hurst._Allan_Warren.jpg)]] Mary_McAleese_2007.JPG Alexhiggins2008.jpg
+)]]
 
 ACADEMIA AND SCIENCE
 
@@ -392,7 +386,7 @@ The Ulster Museum is located in Belfast.
 
 Tourism
 
-Titanic_Belfast_side_view.jpg, devoted to the Belfast-built RMS _Titanic_, opened in 2012]]
+, devoted to the Belfast-built RMS _Titanic_, opened in 2012]]
 
 Belfast is one of the most visited cities in the UK,[233] and the second most visited on the island of Ireland.[234] In 2008, 7.1 million tourists visited the city.[235] Numerous popular tour bus companies and boat tours run there throughout the year, including tours based on the popular series Game of Thrones, which has had various filming locations around Northern Ireland.[236]
 

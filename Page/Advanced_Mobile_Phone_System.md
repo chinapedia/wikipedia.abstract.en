@@ -1,4 +1,4 @@
-DynaTAC8000X.jpg 8000X TACS mobile phone]] ADVANCED MOBILE PHONE SYSTEM (AMPS) was an analog mobile phone system standard developed by Bell Labs, and officially introduced in the Americas on October 13, 1983,[1][2][3] Israel in 1986, Australia in 1987, Singapore in 1988, and Pakistan in 1990.[4] It was the primary analog mobile phone system in North America (and other locales) through the 1980s and into the 2000s. As of February 18, 2008, carriers in the United States were no longer required to support AMPS and companies such as AT&T and Verizon Communications have discontinued this service permanently. AMPS was discontinued in Australia in September 2000, in Pakistan by October 2004,[5][6], in Israel by January 2010, and Brazil by 2010.[7]
+8000X TACS mobile phone]] ADVANCED MOBILE PHONE SYSTEM (AMPS) was an analog mobile phone system standard developed by Bell Labs, and officially introduced in the Americas on October 13, 1983,[1][2][3] Israel in 1986, Australia in 1987, Singapore in 1988, and Pakistan in 1990.[4] It was the primary analog mobile phone system in North America (and other locales) through the 1980s and into the 2000s. As of February 18, 2008, carriers in the United States were no longer required to support AMPS and companies such as AT&T and Verizon Communications have discontinued this service permanently. AMPS was discontinued in Australia in September 2000, in Pakistan by October 2004,[5][6], in Israel by January 2010, and Brazil by 2010.[7]
 
 
 History
@@ -27,7 +27,7 @@ Cloning
 
 In the 1990s an epidemic of "cloning" cost the cellular carriers millions of dollars.[17] An eavesdropper with specialized equipment could intercept a handset's ESN (Electronic Serial Number) and MDN or CTN (Mobile Directory Number or Cellular Telephone Number). The Electronic Serial Number, a 12-digit number sent by the handset to the cellular system for billing purposes, uniquely identified that phone on the network. The system then allowed or disallowed calls and/or features based on its customer file. A person intercepting an ESN/MDN pair could clone the combination onto a different phone and use it in other areas for making calls without paying.
 
-2007Computex_e21Forum-MartinCooper.jpg of Motorola made the first private handheld mobile-phone call on a larger prototype model in 1973. (The image shows a reenactment.)]]
+of Motorola made the first private handheld mobile-phone call on a larger prototype model in 1973. (The image shows a reenactment.)]]
 
 Cellular phone cloning became possible with off-the-shelf technology in the 1990s. Would-be cloners required three key items :
 

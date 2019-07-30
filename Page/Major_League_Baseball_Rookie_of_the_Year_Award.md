@@ -1,11 +1,11 @@
-Aaron_Judge_spring_training_2015_osceola.jpg In Major League Baseball, the ROOKIE OF THE YEAR AWARD is annually given to one player from each league as voted on by the Baseball Writers' Association of America (BBWAA). The award was established in 1940 by the Chicago chapter of the BBWAA, which selected an annual winner from 1940 through 1946.[1] The award became national in 1947; Jackie Robinson, the Brooklyn Dodgers' second baseman, won the inaugural award. One award was presented for both leagues in 1947 and 1948; since 1949, the honor has been given to one player each in the National and American League. Originally, the award was known as the J. Louis Comiskey Memorial Award, named after the Chicago White Sox owner of the 1930s. The award was renamed the JACKIE ROBINSON AWARD in July 1987,[2] 40 years after Jackie Robinson broke the baseball color line.
+In Major League Baseball, the ROOKIE OF THE YEAR AWARD is annually given to one player from each league as voted on by the Baseball Writers' Association of America (BBWAA). The award was established in 1940 by the Chicago chapter of the BBWAA, which selected an annual winner from 1940 through 1946.[1] The award became national in 1947; Jackie Robinson, the Brooklyn Dodgers' second baseman, won the inaugural award. One award was presented for both leagues in 1947 and 1948; since 1949, the honor has been given to one player each in the National and American League. Originally, the award was known as the J. Louis Comiskey Memorial Award, named after the Chicago White Sox owner of the 1930s. The award was renamed the JACKIE ROBINSON AWARD in July 1987,[2] 40 years after Jackie Robinson broke the baseball color line.
 
 Of the 140 players named Rookie of the Year (as of 2016), 16 have been elected to the National Baseball Hall of Fame—Jackie Robinson, five American League players, and ten others from the National League. The award has been shared twice: once by Butch Metzger and Pat Zachry of the National League in 1976; and once by John Castino and Alfredo Griffin of the American League in 1979. Members of the Brooklyn and Los Angeles Dodgers have won the most awards of any franchise (with 18), twice the total of the New York Yankees, and members of the Philadelphia and Oakland Athletics (eight), who have produced the most in the American League. Fred Lynn and Ichiro Suzuki are the only two players who have been named Rookie of the Year and Most Valuable Player in the same year, and Fernando Valenzuela is the only player to have won Rookie of the Year and the Cy Young Award in the same year. Sam Jethroe is the oldest player to have won the award, at age 32,[3] 33 days older than 2000 winner Kazuhiro Sasaki (also 32).[4] Shohei Ohtani of the Los Angeles Angels and Ronald Acuña Jr. of the Atlanta Braves are the most recent winners.
 
 
 Qualifications and voting
 
-HideoNomo.png won in 1995, the first of several players to win with past professional baseball experience in Nippon Professional Baseball.]] From 1947 through 1956, each BBWAA voter used discretion as to who qualified as a rookie. In 1957, the term was first defined as someone with fewer than 75 at bats or 45 innings pitched in any previous Major League season.[5] This guideline was later amended to 90 at bats, 45 innings pitched, or 45 days on a Major League roster before September 1 of the previous year.[6] The current standard of 130 at bats, 50 innings pitched or 45 days on the active roster of a Major League club (excluding time in military service or on the injury list) before September 1 was adopted in 1971.[7][8]
+won in 1995, the first of several players to win with past professional baseball experience in Nippon Professional Baseball.]] From 1947 through 1956, each BBWAA voter used discretion as to who qualified as a rookie. In 1957, the term was first defined as someone with fewer than 75 at bats or 45 innings pitched in any previous Major League season.[5] This guideline was later amended to 90 at bats, 45 innings pitched, or 45 days on a Major League roster before September 1 of the previous year.[6] The current standard of 130 at bats, 50 innings pitched or 45 days on the active roster of a Major League club (excluding time in military service or on the injury list) before September 1 was adopted in 1971.[7][8]
 
 Since 1980, each voter names three rookies: a first-place choice is given five points, a second-place choice three points, and a third-place choice one point. The award goes to the player who receives the most overall points.[9][10] Edinson Vólquez received three second-place votes in 2008 balloting despite no longer being a rookie under the award's definition.[11][12]
 
@@ -16,7 +16,7 @@ Winners
 
 Key
 
-Cal_Ripken_Jr._in_1993.jpg won in 1982, and is one of 16 Hall of Famers to win Rookie of the Year honors.]]
+won in 1982, and is one of 16 Hall of Famers to win Rookie of the Year honors.]]
 
   ------------------------------------ ---------------------------------------------------------------------------
   YEAR                                 Links to the article about the corresponding Major League Baseball season
@@ -42,7 +42,7 @@ Major Leagues combined (1947–48)
 
 American League winners (1949–present)
 
-Los_Angeles_Angels_center_fielder_Mike_Trout_(27)_(5971760364).jpg, 2012 AL winner]] Jeremy_Hellickson_on_June_10,_2011.jpg, the 2011 AL winner]] EvanLongoria.jpg, the 2008 AL winner]] Pedroia_on_deck.jpg, the 2007 AL winner]] Verlander_warms_up.jpg, the 2006 AL winner]]
+, 2012 AL winner]] , the 2011 AL winner]] , the 2008 AL winner]] , the 2007 AL winner]] , the 2006 AL winner]]
 
 +------+---------------------------+------------------------+-------------------+-------------------------------------------------------+--------------------------+
 | Year | Player                    | Team                   | Position          | Selected statistics                                   | Ref                      |
@@ -337,7 +337,7 @@ Los_Angeles_Angels_center_fielder_Mike_Trout_(27)_(5971760364).jpg, 2012 AL winn
 
 National League winners (1949–present)
 
-9TH_Bryce_Harper.jpg, 2012 NL winner]] Craig_Kimbrel_9-12-11.jpg, 2011 NL winner]] Geovany_Soto_-_2008_-_cropped.jpg, 2008 NL winner]] Ryan_Braun.jpg, 2007 NL winner]] Ryan_Howard3.jpg, 2005 NL winner]]
+, 2012 NL winner]] , 2011 NL winner]] , 2008 NL winner]] , 2007 NL winner]] , 2005 NL winner]]
 
 +------+--------+-----------------------+----------+-------------------------------------------------------+-------+
 | Year | Player | Team                  | Position | Selected statistics                                   | Ref   |

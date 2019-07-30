@@ -3,7 +3,7 @@ The Republic of Estonia gained its independence from the Russian Empire on 24 Fe
 
 Trends following re-independence
 
-Since regaining independence, Estonia has pursued a foreign policy of close cooperation with Western European nations. GW_Bush,_TH_Ilves_2006-2.jpg and President George W. Bush, in Estonia 2006.]] The two most important policy objectives in this regard have been accession into NATO and the European Union, achieved in March and May 2004 respectively. Estonia's international realignment toward the West has been accompanied by a general deterioration in relations with Russia, most recently demonstrated by the controversy surrounding relocation of the Bronze Soldier WWII memorial in Tallinn.[1] Estonia has become an increasingly strong supporter of deepening European integration. The decision to participate in the preparation of a financial transaction tax in 2012 reflects this shift in Estonia’s EU policy.[2]
+Since regaining independence, Estonia has pursued a foreign policy of close cooperation with Western European nations. and President George W. Bush, in Estonia 2006.]] The two most important policy objectives in this regard have been accession into NATO and the European Union, achieved in March and May 2004 respectively. Estonia's international realignment toward the West has been accompanied by a general deterioration in relations with Russia, most recently demonstrated by the controversy surrounding relocation of the Bronze Soldier WWII memorial in Tallinn.[1] Estonia has become an increasingly strong supporter of deepening European integration. The decision to participate in the preparation of a financial transaction tax in 2012 reflects this shift in Estonia’s EU policy.[2]
 
 An important element in Estonia's post-independence reorientation has been closer ties with the Nordic countries, especially Finland and Sweden. Indeed, Estonians consider themselves a Nordic people due to being Finno-Ugric people like the Finns rather than Balts,[3][4] based on their historical ties with Denmark and particularly Finland and Sweden. In December 1999 Estonian foreign minister (and since 2006, president of Estonia) Toomas Hendrik Ilves delivered a speech entitled "Estonia as a Nordic Country" to the Swedish Institute for International Affairs.[5] In 2003, the foreign ministry also hosted an exhibit called "Estonia: Nordic with a Twist".[6] And in 2005, Estonia joined the European Union's Nordic Battle Group. It has also shown continued interest in becoming a full member in the Nordic Council.
 
@@ -16,14 +16,14 @@ International disputes
 
 Territorial issues between Estonia and Russia
 
-Vladimir_Putin_and_Kersti_Kaljulaid_(2019-04-18)_04.jpg with Russian President Vladimir Putin in Moscow on 18 April 2019]] After the dissolution of the Soviet Union Estonia had hoped for the return of more than 2,000 square kilometers of territory annexed to Russia after World War II in 1945. The annexed land had been within the borders Estonia approved by Russia in the 1920 Tartu Peace Treaty. However, the Boris Yeltsin government disavowed any responsibility for acts committed by the Soviet Union.
+with Russian President Vladimir Putin in Moscow on 18 April 2019]] After the dissolution of the Soviet Union Estonia had hoped for the return of more than 2,000 square kilometers of territory annexed to Russia after World War II in 1945. The annexed land had been within the borders Estonia approved by Russia in the 1920 Tartu Peace Treaty. However, the Boris Yeltsin government disavowed any responsibility for acts committed by the Soviet Union.
 
 After signing the border treaty by the corresponding foreign minister in 2005, it was ratified by the Estonian government and president. The Russian side interpreted the preamble as giving Estonia a possibility for future territorial claim, and Vladimir Putin notified Estonia that Russia will not consider these. Negotiations were reopened in 2012 and the Treaty was signed in February 2014. Ratification is still pending.[9]
 
 
 Diplomatic relationships
 
-FM_Javad_Zarif_meets_with_Estonian_FM_Marina_Kaljurand_02.jpg meeting Iranian foreign minister Mohammad Javad Zarif, 12 April 2016]] Estonia established diplomatic relations with Kazakhstan on 27 May 1992. Estonia is represented in Kazakhstan through its embassy in Moscow (Russia). Kazakhstan is represented in Estonia through its embassy in Vilnius (Lithuania).
+meeting Iranian foreign minister Mohammad Javad Zarif, 12 April 2016]] Estonia established diplomatic relations with Kazakhstan on 27 May 1992. Estonia is represented in Kazakhstan through its embassy in Moscow (Russia). Kazakhstan is represented in Estonia through its embassy in Vilnius (Lithuania).
 
 Uruguay was among the countries that refused to recognize the Soviet occupation of the Baltic countries. Uruguay re-recognised Estonia’s independence on 28 August 1991. Estonia and Uruguay established diplomatic relations on 30 September 1992. Estonia is represented in Uruguay through an honorary consulate in Montevideo. Uruguay is represented in Estonia through its embassy in Helsinki (Finland) and an honorary consulate in Tallinn.[10]
 

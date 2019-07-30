@@ -39,7 +39,7 @@ In the early 21st century, the ("Office of the Breton language") began a campaig
 
 Geographic distribution and dialects
 
-Breton_dialectes-en.svg Breton is spoken mainly in Lower Brittany, but also in a more dispersed way in Upper Brittany (where Gallo is spoken alongside Breton and French), and in areas around the world that have Breton emigrants.
+Breton is spoken mainly in Lower Brittany, but also in a more dispersed way in Upper Brittany (where Gallo is spoken alongside Breton and French), and in areas around the world that have Breton emigrants.
 
 The four traditional dialects of Breton correspond to medieval bishoprics rather than to linguistic divisions. They are (, of the county of Léon), (, of Trégor), (, of ), and (, of Vannes).[19] was spoken up to the beginning of the 20th century in the region of Guérande and Batz-sur-Mer. There are no clear boundaries between the dialects because they form a dialect continuum, varying only slightly from one village to the next.[20] , however, is almost mutually unintelligible with most of the other dialects.[21] {{-}}
 
@@ -69,7 +69,7 @@ The four traditional dialects of Breton correspond to medieval bishoprics rather
 
 Official status
 
-Ofis_ar_Brezhoneg_vehicle.jpg'', the Breton language agency, was set up in 1999 by the Brittany region to promote and develop the use of Breton.]]
+'', the Breton language agency, was set up in 1999 by the Brittany region to promote and develop the use of Breton.]]
 
 Nation
 
@@ -81,8 +81,6 @@ In July 2008, the legislature amended the French Constitution, adding article 75
 
 The European Charter for Regional or Minority Languages, which obliges signatory states to recognize minority and regional languages, was signed by France in 1999 but has not been ratified. On 27 October 2015, the Senate rejected a draft constitutional law ratifying the charter.[24]
 
-Bilingual_sin_in_Gwened.jpg
-
 Region
 
 Regional and departmental authorities use Breton to a very limited extent, for example in signage. Some bilingual signage has also been installed, such as street name signs in Breton towns. One station of the Rennes metro system has signs in both French and Breton.
@@ -93,8 +91,6 @@ Under the French law known as Toubon, it is illegal for commercial signage to be
 
 
 Education
-
-Breton_school_sign_in_Rennes.jpg
 
 In the late 20th century, the French government considered incorporating the independent Breton-language immersion schools (called ) into the state education system. This action was blocked by the French Constitutional Council based on the 1994 amendment to the Constitution that establishes French as the language of the republic. Therefore, no other language may be used as a language of instruction in state schools. The Toubon Law implemented the amendment, asserting that French is the language of public education.
 
@@ -610,7 +606,7 @@ Lord's Prayer
 
 Words and phrases in Breton
 
-Road_signs_bilingual_Breton_in_Quimper.jpg. Note the use of the word _ti_ in the Breton for _police station_ and _tourist office_, plus _da bep lec'h_ for _all directions_.]] Visitors to Brittany may encounter words and phrases (especially on signs and posters) such as the following:
+. Note the use of the word _ti_ in the Breton for _police station_ and _tourist office_, plus _da bep lec'h_ for _all directions_.]] Visitors to Brittany may encounter words and phrases (especially on signs and posters) such as the following:
 
   Breton           English
   ---------------- --------------------------------------------------------------------

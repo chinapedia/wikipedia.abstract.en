@@ -10,7 +10,7 @@ The ACM was founded in 1947 under the name _Eastern Association for Computing Ma
 
 Activities
 
-1601Broadway.jpg ACM is organized into over 171 local chapters and 37 Special Interest Groups (SIGs), through which it conducts most of its activities. Additionally, there are over 500 college and university chapters. The first student chapter was founded in 1961 at the University of Louisiana at Lafayette.
+ACM is organized into over 171 local chapters and 37 Special Interest Groups (SIGs), through which it conducts most of its activities. Additionally, there are over 500 college and university chapters. The first student chapter was founded in 1961 at the University of Louisiana at Lafayette.
 
 Many of the SIGs, such as SIGGRAPH, SIGPLAN, SIGCSE and SIGCOMM, sponsor regular conferences, which have become famous as the dominant venue for presenting innovations in certain fields. The groups also publish a large number of specialized journals, magazines, and newsletters.
 

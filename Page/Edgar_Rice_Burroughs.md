@@ -11,7 +11,7 @@ Through his Rice grandmother, Burroughs was descended from settler Edmund Rice, 
 
 Burroughs was educated at a number of local schools. He then attended Phillips Academy, in Andover, Massachusetts, and then the Michigan Military Academy. Graduating in 1895, and failing the entrance exam for the United States Military Academy at West Point, he became an enlisted soldier with the 7th U.S. Cavalry in Fort Grant, Arizona Territory. After being diagnosed with a heart problem and thus ineligible to serve, he was discharged in 1897.[8]
 
-Bookplate_of_Edgar_Rice_Burroughs.jpg, showing Tarzan holding the planet Mars, surrounded by other characters from his stories and symbols relating to his personal interests and career]] Letter_from_Edgar_Rice_Burroughs_to_Ruthven_Deane_1922.jpg, explaining the design and significance of his bookplate]]
+, showing Tarzan holding the planet Mars, surrounded by other characters from his stories and symbols relating to his personal interests and career]] , explaining the design and significance of his bookplate]]
 
 After his discharge Burroughs worked a number of different jobs. During the Chicago influenza epidemic of 1891, he spent half a year at his brother's ranch on the Raft River in Idaho, as a cowboy, drifted somewhat afterward, then worked at his father's Chicago battery factory in 1899, marrying his childhood sweetheart, Emma Hulbert (1876–1944), in January 1900.
 

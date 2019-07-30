@@ -7,15 +7,13 @@ History
 
 After Adolf Hitler became Chancellor of Germany, Hermann Göring—future commander of the Luftwaffe and the number two man in the Nazi Party—was named Interior Minister of Prussia. This gave Göring command of the largest police force in Germany. Soon afterward, Göring detached the political and intelligence sections from the police and filled their ranks with Nazis. On 26 April 1933, Göring merged the two units as the _Geheime Staatspolizei_, which was abbreviated by a post office clerk for a franking stamp and became known as the "Gestapo". He originally wanted to name it the Secret Police Office (_Geheimes Polizeiamt_), but the German initials, "GPA", were too similar to those of the Soviet _Gosudarstvennoye Politicheskoye Upravlenie_ or "State Political Directorate", known as the GPU.
 
-Bundesarchiv_Bild_183-K0108-0501-003,_Rudolf_Diels.jpg, first Commander of the Gestapo; 1933–1934]] Bundesarchiv_Bild_183-R96954,_Berlin,_Hermann_Göring_ernennt_Himmler_zum_Leiter_der_Gestapo.jpg and Hermann Göring at the meeting to formally hand over control of the Gestapo (Berlin, 1934).]]
+, first Commander of the Gestapo; 1933–1934]] and Hermann Göring at the meeting to formally hand over control of the Gestapo (Berlin, 1934).]]
 
 The first commander of the Gestapo was Rudolf Diels, a protégé of Göring. Diels was appointed with the title of chief of _Abteilung Ia_ (Department 1a) of the Political Police of the Prussian Interior Ministry. Diels was best known as the primary interrogator of Marinus van der Lubbe after the _Reichstag_ fire. In late 1933, the _Reich_ Interior Minister Wilhelm Frick wanted to integrate all the police forces of the German states under his control. Göring outflanked him by removing the Prussian political and intelligence departments from the state interior ministry. Göring took over the Gestapo in 1934 and urged Hitler to extend the agency's authority throughout Germany. This represented a radical departure from German tradition, which held that law enforcement was (mostly) a _Land_ (state) and local matter. In this, he ran into conflict with Heinrich Himmler, who was police chief of the second most powerful German state, Bavaria. Frick did not have the political power to take on Göring by himself so he allied with Himmler. With Frick's support, Himmler (pushed on by his right-hand man, Reinhard Heydrich) took over the political police of state after state. Soon only Prussia was left.
 
 Concerned that Diels was not ruthless enough to effectively counteract the power of the _Sturmabteilung_ (SA), Göring handed over control of the Gestapo to Himmler on 20 April 1934. Also on that date, Hitler appointed Himmler chief of all German police outside Prussia. Heydrich, named chief of the Gestapo by Himmler on 22 April 1934, also continued as head of the SS Security Service (_Sicherheitsdienst_; SD). Himmler and Heydrich both immediately began installing their own personnel in select positions, several of whom were directly from the Bavarian Political Police, such as Heinrich Müller, Franz Josef Huber and Josef Meisinger. Many of the Gestapo employees in the newly established offices were young and highly educated in a wide-variety of academic fields and moreover, represented a new generation of National Socialist adherents, who were hard-working, efficient, and prepared to carry the Nazi state forward through the persecution of their political opponents.
 
 By the spring of 1934 Himmler's SS controlled the SD and the Gestapo, but for him, there was still a problem, as technically the SS (and the Gestapo by proxy) was subordinated to the SA, which was under the command of Ernst Röhm. Himmler wanted to free himself entirely from Röhm, whom he viewed as an obstacle. Röhm's position was menacing as more than 4.5 million men fell under his command once the militias and veterans organisations were absorbed by the SA, a fact which fuelled Röhm's aspirations; his dream of fusing the SA and _Reichswehr_ together was undermining Hitler's relationships with the leadership of Germany's armed forces. Several Nazi chieftains, among them Göring, Joseph Goebbels, Rudolf Hess, and Himmler, began a concerted campaign to convince Hitler to take action against Röhm. Both the SD and Gestapo released information concerning an imminent putsch by the SA. Once persuaded, Hitler acted by setting Himmler's SS into action, who then proceeded to murder over 100 of Hitler's identified antagonists. The Gestapo supplied the information which implicated the SA and ultimately enabled Himmler and Heydrich to emancipate themselves entirely from the organisation. For the Gestapo, the next two years following the Night of the Long Knives, a term describing the putsch against Röhm and the SA, were characterised by "behind-the-scenes political wrangling over policing".
-
-Gestapo_border_inspection_stamp_-_1938.jpg
 
 On 17 June 1936, Hitler decreed the unification of all police forces in Germany and named Himmler as Chief of German Police. This action effectively merged the police into the SS and removed it from Frick's control. Himmler was nominally subordinate to Frick as police chief, but as _Reichsführer-SS_, he answered only to Hitler. This move also gave Himmler operational control over Germany's entire detective force. The Gestapo became a national state agency. Himmler also gained authority over all of Germany's uniformed law enforcement agencies, which were amalgamated into the new _Ordnungspolizei_ (Orpo; Order Police), which became a national agency under SS general Kurt Daluege. Shortly thereafter, Himmler created the _Kriminalpolizei_ (Kripo; Criminal Police), merging it with the Gestapo into the _Sicherheitspolizei_ (SiPo; Security Police), under Heydrich's command. Heinrich Müller was at that time the Gestapo operations chief. He answered to Heydrich; Heydrich answered only to Himmler and Himmler answered only to Hitler.
 
@@ -59,7 +57,7 @@ Between 1934 and 1938, opponents of the Nazi regime and their fellow travellers 
 
 During May 1935, the Gestapo broke up and arrested members of the "Markwitz Circle", a group of former socialists in contact with Otto Strasser, who sought Hitler's downfall. From the mid-1930s into the early 1940s—various groups made up of communists, idealists, working-class people, and far-right conservative opposition organisations covertly fought against Hitler's government, and several of them fomented plots that included Hitler's assassination. Nearly all of them, including: the Römer Group, Robby Group, Solf Circle, _Schwarze Reichswehr_, the Party of the Radical Middle Class, _Jungdeutscher Orden_, _Schwarze Front_ and _Stahlhelm_ were either discovered or infiltrated by the Gestapo. This led to corresponding arrests, being sent to concentration camps and execution. One of the methods employed by the Gestapo to contend with these resistance factions was 'protective detention' which facilitated the process in expediting dissenters to concentration camps and against which there was no legal defence.
 
-Bundesarchiv_Bild_183-R98680,_Besprechung_Himmler_mit_Müller,_Heydrich,_Nebe,_Huber2.jpg, Arthur Nebe, Heinrich Himmler, Reinhard Heydrich and Heinrich Müller planning the investigation of the bomb assassination attempt on Adolf Hitler on 8 November 1939 in Munich.]]
+, Arthur Nebe, Heinrich Himmler, Reinhard Heydrich and Heinrich Müller planning the investigation of the bomb assassination attempt on Adolf Hitler on 8 November 1939 in Munich.]]
 
 Early efforts to resist the Nazis with aid from abroad were hindered when the opposition's peace feelers to the Western Allies did not meet with success. This was partly because of the Venlo incident of 9 November 1939, in which SD and Gestapo agents, posing as anti-Nazis in the Netherlands, kidnapped two British Secret Intelligence Service (SIS) officers after having lured them to a meeting to discuss peace terms. This prompted Winston Churchill to ban any further contact with the German opposition. Later, the British and Americans did not want to deal with anti-Nazis because they were fearful that the Soviet Union would believe they were attempting to make deals behind their back.
 
@@ -70,7 +68,7 @@ Some Germans were convinced that it was their duty to apply all possible expedie
 
 Organization
 
-Bundesarchiv_Bild_183-R97512,_Berlin,_Geheimes_Staatspolizeihauptamt.jpg in Berlin (1933)]]
+in Berlin (1933)]]
 
 In January 1933, Hermann Göring, Hitler's minister without portfolio, was appointed the head of the Prussian Police and began filling the political and intelligence units of the Prussian Secret Police with Nazi Party members. A year after the organisations inception, Göring wrote in a British publication about having created the organisation on his own initiative and how he was "chiefly responsible" for the elimination of the Marxist and Communist threat to Germany and Prussia. Describing the activities of the organisation, Göring boasted about the utter ruthlessness required for Germany's recovery, the establishment of concentration camps for that purpose, and even went on to claim that excesses were committed in the beginning, recounting how beatings took place here and there. On 26 April 1933, he reorganised the force's _Amt III_ as the _Gestapa_ (better-known by the "sobriquet" Gestapo), a secret state police intended to serve the Nazi cause. Less than two weeks later in early May 1933, the Gestapo moved into their Berlin headquarters at Prinz-Albrecht-Straße 8.
 
@@ -78,7 +76,7 @@ With its 1936 merging with the Kripo (National criminal police) to form sub-unit
 
 The SiPo was placed under the direct command of Reinhard Heydrich who was already chief of the Nazi Party's intelligence service, the _Sicherheitsdienst_ (SD). The idea was to fully identify and integrate the party agency (SD) with the state agency (SiPo). Most of the SiPo members were encouraged or volunteered to become members of the SS and many held a rank in both organisations. Nevertheless, in practice there was jurisdictional overlap and operational conflict between the SD and Gestapo.
 
-Heinrich_Müller.jpg, Chief of the Gestapo; 1939–1945]] In September 1939, the SiPo together with the SD were merged into the newly created _Reichssicherheitshauptamt_ (RSHA; Reich Main Security Office). Both the Gestapo and Kripo became distinct departments within the RSHA. Although the _Sicherheitspolizei_ was officially disbanded, the term SiPo was figuratively used to describe any RSHA personnel throughout the remainder of the war. In lieu of naming convention changes, the original construct of the SiPo, Gestapo, and Kripo cannot be fully comprehended as "discrete entities", since they ultimately formed "a conglomerate in which each was wedded to each other and the SS through its Security Service, the SD".
+, Chief of the Gestapo; 1939–1945]] In September 1939, the SiPo together with the SD were merged into the newly created _Reichssicherheitshauptamt_ (RSHA; Reich Main Security Office). Both the Gestapo and Kripo became distinct departments within the RSHA. Although the _Sicherheitspolizei_ was officially disbanded, the term SiPo was figuratively used to describe any RSHA personnel throughout the remainder of the war. In lieu of naming convention changes, the original construct of the SiPo, Gestapo, and Kripo cannot be fully comprehended as "discrete entities", since they ultimately formed "a conglomerate in which each was wedded to each other and the SS through its Security Service, the SD".
 
 The creation of the RSHA represented the formalisation, at the top level, of the relationship under which the SD served as the intelligence agency for the security police. A similar co-ordination existed in the local offices. Within Germany and areas which were incorporated within the Reich for the purpose of civil administration, local offices of the Gestapo, criminal police, and SD were formally separate. They were subject to co-ordination by inspectors of the security police and SD on the staffs of the local higher SS and police leaders, however, and one of the principal functions of the local SD units was to serve as the intelligence agency for the local Gestapo units. In the occupied territories, the formal relationship between local units of the Gestapo, criminal police, and SD was slightly closer.
 
@@ -186,42 +184,42 @@ According to regulations issued by the Reich Main Security Office in 1940, women
 
 Rank insignia
 
-+-------------------------------------+------------------------------------+---------------------------+
-| _Sicherheitspolizei_                | _Rank insignia_                    | _Sicherheitsdienst_       |
-+:====================================+:===================================+:==========================+
-| '''Kriminalassistent                | SS-Oberscharführer.svg             | '''SS-Oberscharführer     |
-+-------------------------------------+------------------------------------+---------------------------+
-| '''Kriminaloberassistent            | SS-Hauptscharführer.svg            | '''SS-Hauptscharführer    |
-+-------------------------------------+------------------------------------+---------------------------+
-| '''Kriminalsekretär                 | SS-Untersturmführer.svg            | '''SS-Untersturmführer    |
-+-------------------------------------+------------------------------------+---------------------------+
-| '''Kriminalobersekretär             |                                    |                           |
-+-------------------------------------+------------------------------------+---------------------------+
-| '''Kriminalinspektor                | SS-Obersturmfuehrer_collar.jpg     | '''SS-Obersturmführer     |
-+-------------------------------------+------------------------------------+---------------------------+
-| '''Kriminalkommissar                |                                    |                           |
-+-------------------------------------+------------------------------------+---------------------------+
-| '''Kriminalkommissar                | SS-Hauptsturmfuehrer_collar.jpg    | '''SS-Hauptsturmführer    |
-+-------------------------------------+------------------------------------+---------------------------+
-| '''Kriminalrat                      |                                    |                           |
-+-------------------------------------+------------------------------------+---------------------------+
-| '''Kriminalrat                      | SS-Sturmbannfuehrer_collar.jpg     | '''SS-Sturmbannführer     |
-+-------------------------------------+------------------------------------+---------------------------+
-| '''Kriminaldirektor                 |                                    |                           |
-+-------------------------------------+------------------------------------+---------------------------+
-| '''Regierungs- und Kriminalrat      |                                    |                           |
-+-------------------------------------+------------------------------------+---------------------------+
-| '''Oberregierungs- und Kriminalrat  | SS-Obersturmbannfuehrer_collar.jpg | '''SS-Obersturmbannführer |
-+-------------------------------------+------------------------------------+---------------------------+
-| '''Regierungs- und Kriminaldirektor | SS-Standartenfuehrer_collar.jpg    | '''SS-Standartenführer    |
-| Reichskriminaldirektor              |                                    |                           |
-+-------------------------------------+------------------------------------+---------------------------+
-| SS-Oberfuehrer_collar.jpg           | '''SS-Oberführer                   |                           |
-+-------------------------------------+------------------------------------+---------------------------+
++-------------------------------------+------------------+---------------------------+
+| _Sicherheitspolizei_                | _Rank insignia_  | _Sicherheitsdienst_       |
++:====================================+:=================+:==========================+
+| '''Kriminalassistent                |                  | '''SS-Oberscharführer     |
++-------------------------------------+------------------+---------------------------+
+| '''Kriminaloberassistent            |                  | '''SS-Hauptscharführer    |
++-------------------------------------+------------------+---------------------------+
+| '''Kriminalsekretär                 |                  | '''SS-Untersturmführer    |
++-------------------------------------+------------------+---------------------------+
+| '''Kriminalobersekretär             |                  |                           |
++-------------------------------------+------------------+---------------------------+
+| '''Kriminalinspektor                |                  | '''SS-Obersturmführer     |
++-------------------------------------+------------------+---------------------------+
+| '''Kriminalkommissar                |                  |                           |
++-------------------------------------+------------------+---------------------------+
+| '''Kriminalkommissar                |                  | '''SS-Hauptsturmführer    |
++-------------------------------------+------------------+---------------------------+
+| '''Kriminalrat                      |                  |                           |
++-------------------------------------+------------------+---------------------------+
+| '''Kriminalrat                      |                  | '''SS-Sturmbannführer     |
++-------------------------------------+------------------+---------------------------+
+| '''Kriminaldirektor                 |                  |                           |
++-------------------------------------+------------------+---------------------------+
+| '''Regierungs- und Kriminalrat      |                  |                           |
++-------------------------------------+------------------+---------------------------+
+| '''Oberregierungs- und Kriminalrat  |                  | '''SS-Obersturmbannführer |
++-------------------------------------+------------------+---------------------------+
+| '''Regierungs- und Kriminaldirektor |                  | '''SS-Standartenführer    |
+| Reichskriminaldirektor              |                  |                           |
++-------------------------------------+------------------+---------------------------+
+|                                     | '''SS-Oberführer |                           |
++-------------------------------------+------------------+---------------------------+
 
 Membership
 
-Gestapo_Klatovy.jpg, German-occupied Czechoslovakia]] In 1933, there was no purge of the German police forces. The vast majority of Gestapo officers came from the police forces of the Weimar Republic; members of the SS, the SA, and the NSDAP also joined the Gestapo but were less numerous. By March 1937, the Gestapo employed an estimated 6,500 people in fifty-four regional offices across the Reich. Additional staff were added in March 1938 consequent the annexation of Austria and again in October 1938 with the acquisition of the Sudetenland. In 1939, only 3,000 out of the total of 20,000 Gestapo men held SS ranks, and in most cases, these were honorary. One man who served in the Prussian Gestapo in 1933 recalled that most of his co-workers "were by no means Nazis. For the most part they were young professional civil service officers..." The Nazis valued police competence more than politics, so in general in 1933, almost all of the men who served in the various state police forces under the Weimar Republic stayed on in their jobs. In Würzburg, which is one of the few places in Germany where most of the Gestapo records survived, every member of the Gestapo was a career policeman or had a police background.
+, German-occupied Czechoslovakia]] In 1933, there was no purge of the German police forces. The vast majority of Gestapo officers came from the police forces of the Weimar Republic; members of the SS, the SA, and the NSDAP also joined the Gestapo but were less numerous. By March 1937, the Gestapo employed an estimated 6,500 people in fifty-four regional offices across the Reich. Additional staff were added in March 1938 consequent the annexation of Austria and again in October 1938 with the acquisition of the Sudetenland. In 1939, only 3,000 out of the total of 20,000 Gestapo men held SS ranks, and in most cases, these were honorary. One man who served in the Prussian Gestapo in 1933 recalled that most of his co-workers "were by no means Nazis. For the most part they were young professional civil service officers..." The Nazis valued police competence more than politics, so in general in 1933, almost all of the men who served in the various state police forces under the Weimar Republic stayed on in their jobs. In Würzburg, which is one of the few places in Germany where most of the Gestapo records survived, every member of the Gestapo was a career policeman or had a police background.
 
 The Canadian historian Robert Gellately wrote that most Gestapo men were not Nazis, but at the same time were not opposed to the Nazi regime, which they were willing to serve, in whatever task they were called upon to perform. Over time, membership in the Gestapo included ideological training, particularly once Werner Best assumed a leading role for training in April 1936. Employing biological metaphors, Best emphasised a doctrine which encouraged members of the Gestapo to view themselves as 'doctors' to the 'national body' in the struggle against "pathogens" and "diseases"; among the implied sicknesses were "communists, Freemasons, and the churches—and above and behind all these stood the Jews". Heydrich thought along similar lines and advocated both defensive and offensive measures on the part of the Gestapo, so as to prevent any subversion or destruction of the National Socialist body.
 
@@ -231,7 +229,7 @@ Uniforms
 
 The Gestapo was a secretive plainclothes agency and agents typically wore civilian suits. There were strict protocols protecting the identity of Gestapo field personnel. When asked for identification, an operative was required only to present his warrant disc. This identified the operative as Gestapo without revealing personal identity and agents, except when ordered to do so by an authorised official, were not required to show picture identification.
 
-Leitstellung (district office) staff did wear the grey SS service uniform, but with police-pattern shoulderboards, and SS rank insignia on the left collar patch. The right collar patch was black without the Sig_runes.svg runes. The SD sleeve diamond (SD _Raute_) insignia was worn on the lower left sleeve, even by SiPo men who were not in the SD. Uniforms were also worn by Gestapo men assigned to the _Einsatzgruppen_ in occupied territories, in this case the Waffen-SS field uniform.
+Leitstellung (district office) staff did wear the grey SS service uniform, but with police-pattern shoulderboards, and SS rank insignia on the left collar patch. The right collar patch was black without the runes. The SD sleeve diamond (SD _Raute_) insignia was worn on the lower left sleeve, even by SiPo men who were not in the SD. Uniforms were also worn by Gestapo men assigned to the _Einsatzgruppen_ in occupied territories, in this case the Waffen-SS field uniform.
 
 
 Population ratios, methods and effectiveness
@@ -255,7 +253,7 @@ While the total numbers of Gestapo officials was limited when contrasted against
 
 Nuremberg trials
 
-Capturedgestapoagents.jpg, Belgium, are herded together in a cell at the Citadel of Liège, October 1944]]
+, Belgium, are herded together in a cell at the Citadel of Liège, October 1944]]
 
 Between 14 November 1945 and 3 October 1946, the Allies established an International Military Tribunal (IMT) to try 22 major Nazi war criminals and six groups for crimes against peace, war crimes and crimes against humanity. Nineteen of the 22 were convicted, and twelve—Martin Bormann (in absentia), Hans Frank, Wilhelm Frick, Hermann Göring, Alfred Jodl, Ernst Kaltenbrunner, Wilhelm Keitel, Joachim von Ribbentrop, Alfred Rosenberg, Fritz Sauckel, Arthur Seyss-Inquart, Julius Streicher—were given the death penalty. Three—Walther Funk, Rudolf Hess, Erich Raeder—received life terms; and the remaining four—Karl Dönitz, Konstantin von Neurath, Albert Speer, and Baldur von Schirach—received shorter prison sentences. Three others—Hans Fritzsche, Hjalmar Schacht, and Franz von Papen—were acquitted. At that time, the Gestapo was condemned as a criminal organisation, along with the SS. However, Gestapo leader Heinrich Müller was never tried, as he disappeared at the end of the war.
 

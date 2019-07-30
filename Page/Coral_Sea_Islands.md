@@ -18,7 +18,7 @@ In 2004, the Gay and Lesbian Kingdom of the Coral Sea Islands was declared as a 
 
 Geography
 
-Wyspy_Morza_Koralowego.png There are about 30 separate reefs and atolls, twelve being wholly submerged or drying only during low tide, and 18 others with a total of about 51 islets and cays (18 alone on the atoll Lihou Reef), some of which are vegetated. The atolls exhibit a wide range of size, from a few kilometres in diameter to perhaps the second largest atoll in the world by total area (including lagoon): LIHOU REEF, with a lagoon size of and an area of , which compares to a combined land area of the 18 individual islets of only . The islands are all very low.
+There are about 30 separate reefs and atolls, twelve being wholly submerged or drying only during low tide, and 18 others with a total of about 51 islets and cays (18 alone on the atoll Lihou Reef), some of which are vegetated. The atolls exhibit a wide range of size, from a few kilometres in diameter to perhaps the second largest atoll in the world by total area (including lagoon): LIHOU REEF, with a lagoon size of and an area of , which compares to a combined land area of the 18 individual islets of only . The islands are all very low.
 
 The Willis Islets are important nesting areas for birds and turtles but contain negligible natural resources. They comprise less than of land. There is no port or harbour, only offshore anchorage.
 

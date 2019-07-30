@@ -1,4 +1,4 @@
-Alpha_Decay.svg ALPHA DECAY or Α-DECAY is a type of radioactive decay in which an atomic nucleus emits an alpha particle (helium nucleus) and thereby transforms or 'decays' into a different atomic nucleus, with a mass number that is reduced by four and an atomic number that is reduced by two. An alpha particle is identical to the nucleus of a helium-4 atom, which consists of two protons and two neutrons. It has a charge of and a mass of . For example, uranium-238 decays to form thorium-234. Alpha particles have a charge , but as a nuclear equation describes a nuclear reaction without considering the electrons – a convention that does not imply that the nuclei necessarily occur in neutral atoms – the charge is not usually shown.
+ALPHA DECAY or Α-DECAY is a type of radioactive decay in which an atomic nucleus emits an alpha particle (helium nucleus) and thereby transforms or 'decays' into a different atomic nucleus, with a mass number that is reduced by four and an atomic number that is reduced by two. An alpha particle is identical to the nucleus of a helium-4 atom, which consists of two protons and two neutrons. It has a charge of and a mass of . For example, uranium-238 decays to form thorium-234. Alpha particles have a charge , but as a nuclear equation describes a nuclear reaction without considering the electrons – a convention that does not imply that the nuclei necessarily occur in neutral atoms – the charge is not usually shown.
 
 Alpha decay typically occurs in the heaviest nuclides. Theoretically, it can occur only in nuclei somewhat heavier than nickel (element 28), where the overall binding energy per nucleon is no longer a minimum and the nuclides are therefore unstable toward spontaneous fission-type processes. In practice, this mode of decay has only been observed in nuclides considerably heavier than nickel, with the lightest known alpha emitters being the lightest isotopes (mass numbers 104–109) of tellurium (element 52). Exceptionally, however, beryllium-8 decays to two alpha particles.
 
@@ -68,7 +68,7 @@ Notes
 
 External links
 
--   Image:Ndslivechart.png THE LIVECHART OF NUCLIDES - IAEA with filter on alpha decay
+-   THE LIVECHART OF NUCLIDES - IAEA with filter on alpha decay
 -   Alpha decay with 3 animated examples showing the recoil of daughter
 
 Category:Helium Category:Nuclear physics Category:Radioactivity

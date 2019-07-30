@@ -30,7 +30,7 @@ The death of William, one of the king's most powerful vassals, made available th
 
 First marriage
 
-Louis_vii_and_alienor.jpg Vase_de_cristal_d'Aliénor.jpg, gave her this rock crystal vase, which she gave to Louis as a wedding gift. He later donated it to the Abbey of Saint-Denis. This is the only surviving artifact known to have belonged to Eleanor.]]
+, gave her this rock crystal vase, which she gave to Louis as a wedding gift. He later donated it to the Abbey of Saint-Denis. This is the only surviving artifact known to have belonged to Eleanor.]]
 
 On 25 July 1137, Eleanor and Louis were married in the Cathedral of Saint-André in Bordeaux by the archbishop of Bordeaux. Immediately after the wedding, the couple were enthroned as duke and duchess of Aquitaine. However, there was a catch: the land would remain independent of France until Eleanor's oldest son became both king of France and duke of Aquitaine. Thus, her holdings would not be merged with France until the next generation. As a wedding present she gave Louis a rock crystal vase {FR}, currently on display at the Louvre. Louis gave the vase to the Basilica of St Denis. This vase is the only object connected with Eleanor of Aquitaine that still survives.
 
@@ -54,7 +54,7 @@ Eleanor of Aquitaine also formally took up the cross symbolic of the Second Crus
 
 The Crusade itself achieved little. Louis was a weak and ineffectual military leader with no skill for maintaining troop discipline or morale, or of making informed and logical tactical decisions. In eastern Europe, the French army was at times hindered by Manuel I Comnenus, the Byzantine Emperor, who feared that the Crusade would jeopardize the tenuous safety of his empire. Notwithstanding, during their three-week stay at Constantinople, Louis was fêted and Eleanor was much admired. She was compared with Penthesilea, mythical queen of the Amazons, by the Greek historian Nicetas Choniates. He added that she gained the epithet _chrysopous_ (golden-foot) from the cloth of gold that decorated and fringed her robe. Louis and Eleanor stayed in the Philopation palace just outside the city walls.
 
-2nd_Crusade_council_at_Jerusalem.jpg council: Conrad III of Germany, Eleanor's husband Louis VII of France, and Baldwin III of Jerusalem]]
+council: Conrad III of Germany, Eleanor's husband Louis VII of France, and Baldwin III of Jerusalem]]
 
 From the moment the Crusaders entered Asia Minor, things began to go badly. The king and queen were still optimistic —the Byzantine Emperor had told them that the German King Conrad had won a great victory against a Turkish army when in fact the German army had been massacred. However, while camping near Nicea, the remnants of the German army, including a dazed and sick King Conrad, staggered past the French camp, bringing news of their disaster. The French, with what remained of the Germans, then began to march in increasingly disorganized fashion towards Antioch. They were in high spirits on Christmas Eve, when they chose to camp in a lush valley near Ephesus. Here they were ambushed by a Turkish detachment, but the French proceeded to slaughter this detachment and appropriate their camp.
 
@@ -87,7 +87,7 @@ On 21 March, the four archbishops, with the approval of Pope Eugene, granted an 
 
 Second marriage
 
-Henry_II_of_England.jpg France_12thC.jpg.]] As Eleanor traveled to Poitiers, two lords —Theobald V, Count of Blois, and Geoffrey, Count of Nantes, brother of Henry II, Duke of Normandy —tried to kidnap and marry her to claim her lands. As soon as she arrived in Poitiers, Eleanor sent envoys to Henry, duke of Normandy and future king of England, asking him to come at once to marry her. On 18 May 1152 (Whit Sunday), eight weeks after her annulment, Eleanor married Henry "without the pomp and ceremony that befitted their rank."[3]
+.]] As Eleanor traveled to Poitiers, two lords —Theobald V, Count of Blois, and Geoffrey, Count of Nantes, brother of Henry II, Duke of Normandy —tried to kidnap and marry her to claim her lands. As soon as she arrived in Poitiers, Eleanor sent envoys to Henry, duke of Normandy and future king of England, asking him to come at once to marry her. On 18 May 1152 (Whit Sunday), eight weeks after her annulment, Eleanor married Henry "without the pomp and ceremony that befitted their rank."[3]
 
 Eleanor was related to Henry even more closely than she had been to Louis: they were cousins to the third degree through their common ancestor Ermengarde of Anjou, wife of Robert I, Duke of Burgundy and Geoffrey, Count of Gâtinais, and they were also descended from King Robert II of France. A marriage between Henry and Eleanor's daughter Marie had earlier been declared impossible due to their status as third cousins once removed. It was rumored by some that Eleanor had had an affair with Henry's own father, Geoffrey V, Count of Anjou, who had advised his son to avoid any involvement with her.
 
@@ -101,7 +101,7 @@ In 1167, Eleanor's third daughter, Matilda, married Henry the Lion of Saxony. El
 
 The Court of Love in Poitiers
 
-Poitiers_-_Palais_de_Justice_2.jpg, seat of the counts of Poitou and dukes of Aquitaine in the 10th through 12th centuries, where Eleanor's highly literate and artistic court inspired tales of Courts of Love.]]
+, seat of the counts of Poitou and dukes of Aquitaine in the 10th through 12th centuries, where Eleanor's highly literate and artistic court inspired tales of Courts of Love.]]
 
 Of all her influence on culture, Eleanor's time in Poitiers between 1168 and 1173 was perhaps the most critical, yet very little is known about it. Henry II was elsewhere, attending to his own affairs after escorting Eleanor there. Some believe that Eleanor's court in Poitiers was the "Court of Love" where Eleanor and her daughter Marie meshed and encouraged the ideas of troubadours, chivalry, and courtly love into a single court. It may have been largely to teach manners, something the French courts would be known for in later generations. Yet the existence and reasons for this court are debated.
 
@@ -118,8 +118,6 @@ In March 1173, aggrieved at his lack of power and egged on by Henry's enemies, h
 Sometime between the end of March and the beginning of May, Eleanor left Poitiers, but was arrested and sent to the king at Rouen. The king did not announce the arrest publicly; for the next year, the queen's whereabouts were unknown. On 8 July 1174, Henry and Eleanor took ship for England from Barfleur. As soon as they disembarked at Southampton, Eleanor was taken either to Winchester Castle or Sarum Castle and held there.
 
 Years of imprisonment 1173–1189
-
-EleanorAkvitanie1068.jpg
 
 Eleanor was imprisoned for the next 16 years, much of the time in various locations in England. During her imprisonment, Eleanor became more and more distant from her sons, especially from Richard, who had always been her favorite. She did not have the opportunity to see her sons very often during her imprisonment, though she was released for special occasions such as Christmas. About four miles from Shrewsbury and close by Haughmond Abbey is "Queen Eleanor's Bower," the remains of a triangular castle which is believed to have been one of her prisons.
 
@@ -138,7 +136,7 @@ Eleanor survived Richard and lived well into the reign of her youngest son, King
 
 King Alfonso VIII and Eleanor's daughter, Queen Eleanor of Castile, had two remaining unmarried daughters, Urraca and Blanche. Eleanor selected the younger daughter, Blanche. She stayed for two months at the Castilian court, then late in March journeyed with granddaughter Blanche back across the Pyrenees. She celebrated Easter in Bordeaux, where the famous warrior Mercadier came to her court. It was decided that he would escort the queen and princess north. "On the second day in Easter week, he was slain in the city by a man-at-arms in the service of Brandin,"[7] a rival mercenary captain. This tragedy was too much for the elderly queen, who was fatigued and unable to continue to Normandy. She and Blanche rode in easy stages to the valley of the Loire, and she entrusted Blanche to the archbishop of Bordeaux, who took over as her escort. The exhausted Eleanor went to Fontevraud, where she remained. In early summer, Eleanor was ill, and John visited her at Fontevraud.
 
-Gisant_alienor_d_aquitaine_et_henri2.jpg]] Eleanor was again unwell in early 1201. When war broke out between John and Philip, Eleanor declared her support for John and set out from Fontevraud to her capital Poitiers to prevent her grandson Arthur I, Duke of Brittany, posthumous son of Eleanor's son Geoffrey and John's rival for the English throne, from taking control. Arthur learned of her whereabouts and besieged her in the castle of Mirebeau. As soon as John heard of this, he marched south, overcame the besiegers, and captured the 15-year-old Arthur, and probably his sister Eleanor, Fair Maid of Brittany, whom Eleanor had raised with Richard. Eleanor then returned to Fontevraud where she took the veil as a nun.
+]] Eleanor was again unwell in early 1201. When war broke out between John and Philip, Eleanor declared her support for John and set out from Fontevraud to her capital Poitiers to prevent her grandson Arthur I, Duke of Brittany, posthumous son of Eleanor's son Geoffrey and John's rival for the English throne, from taking control. Arthur learned of her whereabouts and besieged her in the castle of Mirebeau. As soon as John heard of this, he marched south, overcame the besiegers, and captured the 15-year-old Arthur, and probably his sister Eleanor, Fair Maid of Brittany, whom Eleanor had raised with Richard. Eleanor then returned to Fontevraud where she took the veil as a nun.
 
 Eleanor died in 1204 and was entombed in Fontevraud Abbey next to her husband Henry and her son Richard. Her tomb effigy shows her reading a Bible and is decorated with magnificent jewelry. By the time of her death she had outlived all of her children except for King John of England and Queen Eleanor of Castile.
 
@@ -172,7 +170,7 @@ Historical fiction author Elizabeth Chadwick wrote a three-volume series about E
 
 Film, radio and television
 
-Hep-lion.jpg as Queen Eleanor in _The Lion in Winter_ (1968)]] Eleanor has featured in a number of screen versions of the _Ivanhoe_ and _Robin Hood_ stories. She has been played by Martita Hunt in _The Story of Robin Hood and His Merrie Men_ (1952), Jill Esmond in the British TV adventure series _The Adventures of Robin Hood_ (1955–1960), Phyllis Neilson-Terry in the British TV adventure series _Ivanhoe_ (1958), Yvonne Mitchell in the BBC TV drama series _The Legend of Robin Hood_ (1975), Siân Phillips in the TV series _Ivanhoe_ (1997), and Tusse Silberg in the TV series _The New Adventures of Robin Hood_ (1997). She was portrayed by Lynda Bellingham in the BBC series _Robin Hood_. Most recently, she was portrayed by Eileen Atkins in _Robin Hood_ (2010).
+as Queen Eleanor in _The Lion in Winter_ (1968)]] Eleanor has featured in a number of screen versions of the _Ivanhoe_ and _Robin Hood_ stories. She has been played by Martita Hunt in _The Story of Robin Hood and His Merrie Men_ (1952), Jill Esmond in the British TV adventure series _The Adventures of Robin Hood_ (1955–1960), Phyllis Neilson-Terry in the British TV adventure series _Ivanhoe_ (1958), Yvonne Mitchell in the BBC TV drama series _The Legend of Robin Hood_ (1975), Siân Phillips in the TV series _Ivanhoe_ (1997), and Tusse Silberg in the TV series _The New Adventures of Robin Hood_ (1997). She was portrayed by Lynda Bellingham in the BBC series _Robin Hood_. Most recently, she was portrayed by Eileen Atkins in _Robin Hood_ (2010).
 
 In the 1964 film _Becket_, Eleanor is briefly played by Pamela Brown to Peter O'Toole's first performance as a young Henry II.
 
@@ -193,8 +191,6 @@ Ancestors
 
 
 Issue
-
-The_Children_of_Henry_II.jpg
 
   Name                                                                    Birth               Death              Marriage(s)
   ----------------------------------------------------------------------- ------------------- ------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

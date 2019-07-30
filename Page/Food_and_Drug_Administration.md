@@ -6,7 +6,7 @@ The FDA is led by the Commissioner of Food and Drugs, appointed by the President
 
 The FDA has its headquarters in unincorporated White Oak, Maryland.[3] The agency also has 223 field offices and 13 laboratories located throughout the 50 states, the United States Virgin Islands, and Puerto Rico.[4] In 2008, the FDA began to post employees to foreign countries, including China, India, Costa Rica, Chile, Belgium, and the United Kingdom.[5]
 
-FDA_Bldg_31_-_Exterior_(5161375422).jpg.[6] The agency consists of fourteen Centers and Offices:]]
+.[6] The agency consists of fourteen Centers and Offices:]]
 
 
 Organizational chart
@@ -45,20 +45,18 @@ Organizational chart
 
 Location
 
-FDA_Building_66_-_CDRH_(5160772175).jpg
-
 In recent years, the agency began undertaking a large-scale effort to consolidate its 25 operations in the Washington metropolitan area, moving from its main headquarters in Rockville and several fragmented office buildings to the former site of the Naval Ordnance Laboratory in the White Oak area of Silver Spring, Maryland.[10][11] The site was renamed from the White Oak Naval Surface Warfare Center to the Federal Research Center at White Oak. The first building, the Life Sciences Laboratory, was dedicated and opened with 104 employees on the campus in December 2003. Only one original building from the naval facility was kept. All other buildings are new construction.[12] The project is slated to be completed by 2021, assuming future Congressional funding[13]
 
 
 Regional facilities
 
-Toxicology_Research_at_FDA_(NCTR_Campus)_(6023336064).jpg is the headquarters of the National Center for Toxicological Research]] While most of the Centers are located in the Washington, D.C. area as part of the Headquarters divisions, two offices – the Office of Regulatory Affairs (ORA) and the Office of Criminal Investigations (OCI) – are primarily field offices with a workforce spread across the country.
+is the headquarters of the National Center for Toxicological Research]] While most of the Centers are located in the Washington, D.C. area as part of the Headquarters divisions, two offices – the Office of Regulatory Affairs (ORA) and the Office of Criminal Investigations (OCI) – are primarily field offices with a workforce spread across the country.
 
 The Office of Regulatory Affairs is considered the "eyes and ears" of the agency, conducting the vast majority of the FDA's work in the field. Consumer Safety Officers, more commonly called Investigators, are the individuals who inspect production and warehousing facilities, investigate complaints, illnesses, or outbreaks, and review documentation in the case of medical devices, drugs, biological products, and other items where it may be difficult to conduct a physical examination or take a physical sample of the product.
 
 The Office of Regulatory Affairs is divided into five regions, which are further divided into 20 districts. Districts are based roughly on the geographic divisions of the federal court system. Each district comprises a main district office and a number of Resident Posts, which are FDA remote offices that serve a particular geographic area. ORA also includes the Agency's network of regulatory laboratories, which analyze any physical samples taken. Though samples are usually food-related, some laboratories are equipped to analyze drugs, cosmetics, and radiation-emitting devices.
 
-US_Food_and_Drug_Administration_Office_20180930.jpg The Office of Criminal Investigations was established in 1991 to investigate criminal cases. Unlike ORA Investigators, OCI Special Agents are armed, and don't focus on technical aspects of the regulated industries. OCI agents pursue and develop cases where individuals and companies have committed criminal actions, such as fraudulent claims, or knowingly and willfully shipping known adulterated goods in interstate commerce. In many cases, OCI pursues cases involving Title 18 violations (e.g., conspiracy, false statements, wire fraud, mail fraud), in addition to prohibited acts as defined in Chapter III of the FD&C Act. OCI Special Agents often come from other criminal investigations backgrounds, and work closely with the Federal Bureau of Investigation, Assistant Attorney General, and even Interpol. OCI receives cases from a variety of sources—including ORA, local agencies, and the FBI—and works with ORA Investigators to help develop the technical and science-based aspects of a case. OCI is a smaller branch, comprising about 200 agents nationwide.
+The Office of Criminal Investigations was established in 1991 to investigate criminal cases. Unlike ORA Investigators, OCI Special Agents are armed, and don't focus on technical aspects of the regulated industries. OCI agents pursue and develop cases where individuals and companies have committed criminal actions, such as fraudulent claims, or knowingly and willfully shipping known adulterated goods in interstate commerce. In many cases, OCI pursues cases involving Title 18 violations (e.g., conspiracy, false statements, wire fraud, mail fraud), in addition to prohibited acts as defined in Chapter III of the FD&C Act. OCI Special Agents often come from other criminal investigations backgrounds, and work closely with the Federal Bureau of Investigation, Assistant Attorney General, and even Interpol. OCI receives cases from a variety of sources—including ORA, local agencies, and the FBI—and works with ORA Investigators to help develop the technical and science-based aspects of a case. OCI is a smaller branch, comprising about 200 agents nationwide.
 
 The FDA frequently works with other federal agencies, including the Department of Agriculture, Drug Enforcement Administration, Customs and Border Protection, and Consumer Product Safety Commission. Often local and state government agencies also work with the FDA to provide regulatory inspections and enforcement action.
 
@@ -107,8 +105,6 @@ The FDA does not approve applied coatings used in the food processing industry.[
 
 Medications
 
-FDA_Bldg_51_-_Main_Entrance_(5161374834).jpg
-
 The Center for Drug Evaluation and Research uses different requirements for the three main drug product types: new drugs, generic drugs, and over-the-counter drugs. A drug is considered "new" if it is made by a different manufacturer, uses different excipients or inactive ingredients, is used for a different purpose, or undergoes any substantial change. The most rigorous requirements apply to _new molecular entities_: drugs that are not based on existing medications.
 
 New medications
@@ -151,13 +147,13 @@ In 2014, the FDA added an Ebola treatment being developed by Canadian pharmaceut
 
 Vaccines, blood and tissue products, and biotechnology
 
-Blood_Research-_Saving_Lives_(8352)_(9759352093).jpg The Center for Biologics Evaluation and Research is the branch of the FDA responsible for ensuring the safety and efficacy of biological therapeutic agents.[49] These include blood and blood products, vaccines, allergenics, cell and tissue-based products, and gene therapy products. New biologics are required to go through a premarket approval process called a Biologics License Application (BLA), similar to that for drugs.
+The Center for Biologics Evaluation and Research is the branch of the FDA responsible for ensuring the safety and efficacy of biological therapeutic agents.[49] These include blood and blood products, vaccines, allergenics, cell and tissue-based products, and gene therapy products. New biologics are required to go through a premarket approval process called a Biologics License Application (BLA), similar to that for drugs.
 
 The original authority for government regulation of biological products was established by the 1902 Biologics Control Act, with additional authority established by the 1944 Public Health Service Act. Along with these Acts, the Federal Food, Drug, and Cosmetic Act applies to all biologic products, as well. Originally, the entity responsible for regulation of biological products resided under the National Institutes of Health; this authority was transferred to the FDA in 1972.
 
 Medical and radiation-emitting devices
 
-FDA_Bldg_62_-_Exterior_(5161375340).jpg The Center for Devices and Radiological Health (CDRH) is the branch of the FDA responsible for the premarket approval of all medical devices, as well as overseeing the manufacturing, performance and safety of these devices.[50] The definition of a medical device is given in the FD&C Act, and it includes products from the simple toothbrush to complex devices such as implantable neurostimulators. CDRH also oversees the safety performance of non-medical devices that emit certain types of electromagnetic radiation. Examples of CDRH-regulated devices include cellular phones, airport baggage screening equipment, television receivers, microwave ovens, tanning booths, and laser products.
+The Center for Devices and Radiological Health (CDRH) is the branch of the FDA responsible for the premarket approval of all medical devices, as well as overseeing the manufacturing, performance and safety of these devices.[50] The definition of a medical device is given in the FD&C Act, and it includes products from the simple toothbrush to complex devices such as implantable neurostimulators. CDRH also oversees the safety performance of non-medical devices that emit certain types of electromagnetic radiation. Examples of CDRH-regulated devices include cellular phones, airport baggage screening equipment, television receivers, microwave ovens, tanning booths, and laser products.
 
 CDRH regulatory powers include the authority to require certain technical reports from the manufacturers or importers of regulated products, to require that radiation-emitting products meet mandatory safety performance standards, to declare regulated products defective, and to order the recall of defective or noncompliant products. CDRH also conducts limited amounts of direct product testing.
 
@@ -202,7 +198,7 @@ The FDA cooperated with international regulatory and law enforcement agencies th
 
 Science and research programs
 
-FDA_Bldg_64_-_Lab_(5160771733).jpg In addition to its regulatory functions, the FDA carries out research and development activities to develop technology and standards that support its regulatory role, with the objective of resolving scientific and technical challenges before they become impediments. The FDA's research efforts include the areas of biologics, medical devices, drugs, women's health, toxicology, food safety and applied nutrition, and veterinary medicine.[66]
+In addition to its regulatory functions, the FDA carries out research and development activities to develop technology and standards that support its regulatory role, with the objective of resolving scientific and technical challenges before they become impediments. The FDA's research efforts include the areas of biologics, medical devices, drugs, women's health, toxicology, food safety and applied nutrition, and veterinary medicine.[66]
 
 
 Data management
@@ -214,7 +210,7 @@ History
 
 Up until the 20th century, there were few federal laws regulating the contents and sale of domestically produced food and pharmaceuticals, with one exception being the short-lived Vaccine Act of 1813. The history of the FDA can be traced to the latter part of the 19th century and the U.S. Department of Agriculture's Division of Chemistry, later its BUREAU OF CHEMISTRY. Under Harvey Washington Wiley, appointed chief chemist in 1883, the Division began conducting research into the adulteration and misbranding of food and drugs on the American market. Wiley's advocacy came at a time when the public had become aroused to hazards in the marketplace by muckraking journalists like Upton Sinclair, and became part of a general trend for increased federal regulations in matters pertinent to public safety during the Progressive Era.[67] The 1902 Biologics Control Act was put in place after a diphtheria antitoxin—derived from tetanus-contaminated serum—was used to produce a vaccine that caused the deaths of thirteen children in St. Louis, Missouri. The serum was originally collected from a horse named Jim, who had contracted tetanus.
 
-Portrait_of_Dr._Harvey_W._Wiley_(FDA_107)_(8203830456).jpg, chief advocate of the Food and Drug Act]]
+, chief advocate of the Food and Drug Act]]
 
 In June 1906, President Theodore Roosevelt signed into law the Pure Food and Drug Act, also known as the "Wiley Act" after its chief advocate.[68] The Act prohibited, under penalty of seizure of goods, the interstate transport of food that had been "adulterated". The act applied similar penalties to the interstate marketing of "adulterated" drugs, in which the "standard of strength, quality, or purity" of the active ingredient was not either stated clearly on the label or listed in the _United States Pharmacopeia_ or the _National Formulary_.[69]
 
@@ -223,8 +219,6 @@ The responsibility for examining food and drugs for such "adulteration" or "misb
 By the 1930s, muckraking journalists, consumer protection organizations, and federal regulators began mounting a campaign for stronger regulatory authority by publicizing a list of injurious products that had been ruled permissible under the 1906 law, including radioactive beverages, the mascara Lash lure, which caused blindness, and worthless "cures" for diabetes and tuberculosis. The resulting proposed law was unable to get through the Congress of the United States for five years, but was rapidly enacted into law following the public outcry over the 1937 Elixir Sulfanilamide tragedy, in which over 100 people died after using a drug formulated with a toxic, untested solvent.[73]
 
 President Franklin Delano Roosevelt signed the new Food, Drug, and Cosmetic Act (FD&C Act) into law on June 24, 1938. The new law significantly increased federal regulatory authority over drugs by mandating a pre-market review of the safety of all new drugs, as well as banning false therapeutic claims in drug labeling without requiring that the FDA prove fraudulent intent. Soon after passage of the 1938 Act, the FDA began to designate certain drugs as safe for use only under the supervision of a medical professional, and the category of "prescription-only" drugs was securely codified into law by the 1951 Durham-Humphrey Amendment. These developments confirmed extensive powers for the FDA to enforce post-marketing recalls of ineffective drugs.[74]
-
-Examining_New_Drug_Applications_(067)_(7184535293).jpg
 
 In 1959, the thalidomide tragedy, in which thousands of European babies were born deformed after their mothers took that drug – marketed for treatment of nausea – during their pregnancies,[75] Considering the US was largely spared that tragedy because Dr. Frances Oldham Kelsey of the FDA refused to authorize the medication for market, the 1962 Kefauver-Harris Amendment to the FD&C Act was passed, which represented a "revolution" in FDA regulatory authority.[76] The most important change was the requirement that all new drug applications demonstrate "substantial evidence" of the drug's efficacy for a marketed indication, in addition to the existing requirement for pre-marketing demonstration of safety. This marked the start of the FDA approval process in its modern form.
 

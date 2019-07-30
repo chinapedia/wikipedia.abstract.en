@@ -513,7 +513,7 @@ The following terms used with regards to computer security are explained below:
 -   Cyberwarfare is an Internet-based conflict that involves politically motivated attacks on information and information systems. Such attacks can, for example, disable official websites and networks, disrupt or disable essential services, steal or alter classified data, and cripple financial systems.
 -   Data integrity is the accuracy and consistency of stored data, indicated by an absence of any alteration in data between two updates of a data record.[237]
 
-Encryption_-_decryption.svg techniques involve transforming information, scrambling it, so it becomes unreadable during transmission. The intended recipient can unscramble the message; ideally, eavesdroppers cannot.]]
+techniques involve transforming information, scrambling it, so it becomes unreadable during transmission. The intended recipient can unscramble the message; ideally, eavesdroppers cannot.]]
 
 -   Encryption is used to protect the confidentiality of a message. Cryptographically secure ciphers are designed to make any practical attempt of breaking them infeasible. Symmetric-key ciphers are suitable for bulk encryption using shared keys, and public-key encryption using digital certificates can provide a practical solution for the problem of securely communicating when no key is shared in advance.
 -   Endpoint security software aids networks in preventing malware infection and data theft at network entry points made vulnerable by the prevalence of potentially infected devices such as laptops, mobile devices, and USB drives.[238]

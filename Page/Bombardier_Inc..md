@@ -1,4 +1,4 @@
-BombardierSnowmobile-pjt.jpg, built in 1952]] BR100+sidea.jpg Bombardier_old.svg wheel logo]]
+, built in 1952]] wheel logo]]
 
 BOMBARDIER INC. () is a multinational manufacturer of regional airliners, business jets, and equipment for public transport. Its aviation division, Bombardier Aviation, is headquartered in Montreal and its public transport division, Bombardier Transportation, is headquartered in Berlin.
 
@@ -53,7 +53,7 @@ In 2003, the company sold Bombardier Recreational Products to a group of investo
 
 Aerospace
 
-Bd700.jpg Global 6000 landing at Montreal International Airport]] CS100-FTV1.jpg In 1986, Bombardier acquired Canadair for C$120 million from the Government of Canada after it recorded the largest corporate loss in Canadian history.[23]
+Global 6000 landing at Montreal International Airport]] In 1986, Bombardier acquired Canadair for C$120 million from the Government of Canada after it recorded the largest corporate loss in Canadian history.[23]
 
 In 1989, the company acquired Short Brothers.[24]
 
@@ -61,7 +61,7 @@ In 1990, it acquired Learjet. In 1992, the company acquired de Havilland Canada 
 
 In 1995, the company founded Flexjet. In December 2013, the division was sold for $195 million.[26]
 
-Bombardier_CSeries_CS100_in_Swiss_livery_at_PAS15.jpg) in Swiss livery]] On June 29, 2016, Bombardier delivered the first C Series CS100 aircraft (now called the Airbus A220) to Swiss International Air Lines. Air Canada placed an order for the aircraft one day earlier.[27]
+) in Swiss livery]] On June 29, 2016, Bombardier delivered the first C Series CS100 aircraft (now called the Airbus A220) to Swiss International Air Lines. Air Canada placed an order for the aircraft one day earlier.[27]
 
 In April 2016, Delta Air Lines placed an order for the aircraft.[28][29] On September 26, 2017, after Boeing complained that Bombardier was selling the CS100 to Delta Air Lines below cost due to subsidies from the governments of Canada and Quebec, the United States Department of Commerce proposed a 219% tariff on the aircraft. Boeing's complaint stated that the CS100 planes were being sold at US$19.6 million each, below the US$33.2 million production cost.[30][31] The governments of Canada and the United Kingdom threatened to stop ordering Boeing aircraft since the company was putting aerospace jobs at risk.[32][33] On January 26, 2018 the United States International Trade Commission overturned the tariffs.[34] Boeing did not appeal.[35]
 
@@ -73,7 +73,7 @@ In March 2019, the company sold its Business Aircraft Training business to CAE I
 
 Rail equipment
 
-Lucien-L'Allier_1.jpg train arriving at Lucien-L'Allier station, February 2009]] The company diversified into rail transport after the 1970s energy crisis reduced demand for snowmobiles.
+train arriving at Lucien-L'Allier station, February 2009]] The company diversified into rail transport after the 1970s energy crisis reduced demand for snowmobiles.
 
 In 1974, the company received its first order - to build MR-73 trains for Société de transport de Montréal for use on the Montreal Metro. In 1975, the company acquired Montreal Locomotive Works. It was sold to General Electric in 1988.
 
@@ -127,7 +127,7 @@ In the late 1970s in the Republic of Ireland, CIÉ (now Bus Éireann and Dublin 
 
 Bombardier Museum
 
-1951B12a.jpg The MUSEUM OF INGENUITY J. ARMAND BOMBARDIER is a museum in Valcourt, Quebec dedicated to the life of Joseph-Armand Bombardier and the snowmobile industry. Opened in 1971, with substantial renovations in 1990, the museum is professionally curated and features a wide array of Ski-Doos, other industrial designs, and a selection of related books, booklets and other items of interest to snowmobile enthusiasts.[53]
+The MUSEUM OF INGENUITY J. ARMAND BOMBARDIER is a museum in Valcourt, Quebec dedicated to the life of Joseph-Armand Bombardier and the snowmobile industry. Opened in 1971, with substantial renovations in 1990, the museum is professionally curated and features a wide array of Ski-Doos, other industrial designs, and a selection of related books, booklets and other items of interest to snowmobile enthusiasts.[53]
 
 The museum includes the original garage "factory" where the first snowmobile was built. The garage was carefully removed from its original location in Valcourt and moved to its present site at the museum, which is located blocks away from the present-day Bombardier Recreational Products factory.[54]
 

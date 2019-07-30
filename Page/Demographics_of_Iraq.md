@@ -136,7 +136,6 @@ Structure of the population (1 July 2013) (Estimates) :
 
 Ethnic and religious groups
 
-Ethnic and religious groups in Iraq
 Iraq's dominant ethnic group are the Mesopotamian Arabs, who account for more than three-quarters of the population.
 
 According to the CIA World Factbook, citing a 1987 Iraqi government estimate,[26] the population of Iraq is formed of 70% Arabs followed by 25% Kurds.[27] In addition, the estimate claims that other minorities form 5% of the country's population, including the Turkmen/Turcoman, Yazidis, Shabaks, Kaka'i, Bedouins, Roma, Chaldeans, Assyrians, Circassians, Sabaean-Mandaean, and Persians.[28] However, the International Crisis Group points out that figures from the 1987 census, as well as the 1967, 1977, and 1997 censuses, "are all considered highly problematic, due to suspicions of regime manipulation" because Iraqi citizens were only allowed to indicate belonging to either the Arab or Kurdish ethnic groups;[29] consequently, this skewed the number of other ethnic minorities, such as Iraq's third largest ethnic group – the Turkmens/Turkomans.[30]

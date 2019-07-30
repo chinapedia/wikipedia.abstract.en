@@ -6,7 +6,7 @@ Cornwall Wildlife Trust is part of The Wildlife Trusts partnership of 47 wildlif
 
 The direction and work that the Trust currently does is guided by the Cornwall Biodiversity action plan. Living Seas and Living Landscapes are two such projects. The Trust runs ERCCIS (Environmental Records Centre for Cornwall and the Isles of Scilly), a county wide database of sightings of animals and plants. It also gives planning advice (CEC - Cornwall Environmental Consultants) to land developers.
 
-The Trust is based at Allet near Truro in Cornwall. The headquarters and offices are adjacent to the Trust's FIVE ACRES nature reserve. This reserve includes two ponds, as well as mixed broadleaved woodland. Five_Acres_Nature_Reserve.jpg
+The Trust is based at Allet near Truro in Cornwall. The headquarters and offices are adjacent to the Trust's FIVE ACRES nature reserve. This reserve includes two ponds, as well as mixed broadleaved woodland.
 
 
 List of reserves
@@ -74,8 +74,6 @@ See also
 
 
 External links
-
-Cornwall_Wildlife_Trust_-_Allet.jpg
 
 -   -   -
 

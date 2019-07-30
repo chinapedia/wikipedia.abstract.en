@@ -3,7 +3,7 @@ COUNTY MAYO (, meaning "Plain of the yew trees") is a county in Ireland. In the 
 
 Geography
 
-Glengad_Stone_circle_overlooking_Broadhaven_Bay_Kilcommon,_Erris_North_Mayo.jpg stone circle, Kilcommon, Erris]] It is bounded on the north and west by the Atlantic Ocean; to the south by County Galway; the east by County Roscommon; and the northeast by County Sligo. Mayo is the third-largest of Ireland's 32 counties in area and 15th largest in terms of population.[2] It is the second-largest of Connacht’s five counties in both size and population. Mayo is located along the west coast of Ireland which is approximately 7,400 km in length.[3] There is a distinct geological difference between the west and the east of the county. The west consists largely of poor subsoils and is covered with large areas of extensive Atlantic blanket bog, whereas the east is largely a limestone landscape. Agricultural land is therefore more productive in the east than in the west.
+stone circle, Kilcommon, Erris]] It is bounded on the north and west by the Atlantic Ocean; to the south by County Galway; the east by County Roscommon; and the northeast by County Sligo. Mayo is the third-largest of Ireland's 32 counties in area and 15th largest in terms of population.[2] It is the second-largest of Connacht’s five counties in both size and population. Mayo is located along the west coast of Ireland which is approximately 7,400 km in length.[3] There is a distinct geological difference between the west and the east of the county. The west consists largely of poor subsoils and is covered with large areas of extensive Atlantic blanket bog, whereas the east is largely a limestone landscape. Agricultural land is therefore more productive in the east than in the west.
 
 -   The highest point in Mayo (and Connacht) is Mweelrea, at
 -   The River Moy in the northeast of the county is renowned for its salmon fishing
@@ -13,7 +13,7 @@ Glengad_Stone_circle_overlooking_Broadhaven_Bay_Kilcommon,_Erris_North_Mayo.jpg 
 
 Local government and political subdivisions
 
-Mweelrea.jpg]] Mayo County Council () is the authority responsible for local government. As a county council, it is governed by the Local Government Act 2001. The County is divided into four municipal areas Castlebar, Ballina, Claremorris and West (an area which stretches from Westport to Belmullet). The council is responsible for housing and community, roads and transportation, urban planning and development, amenity and culture, and environment. For the purpose of local elections the county is divided into its four municipal districts, replacing the former six local electoral areas: Ballina (6), Belmullet (4), Castlebar (7), Claremorris (6), Swinford (4) and Westport (4).[9] The county town is at _Áras an Contae_ in Castlebar, the main population centre located in the centre of the county. For national elections, half of the Claremorris Municipal District is in Galway West, and stretches from Ashford Castle to Ireland West Airport.
+]] Mayo County Council () is the authority responsible for local government. As a county council, it is governed by the Local Government Act 2001. The County is divided into four municipal areas Castlebar, Ballina, Claremorris and West (an area which stretches from Westport to Belmullet). The council is responsible for housing and community, roads and transportation, urban planning and development, amenity and culture, and environment. For the purpose of local elections the county is divided into its four municipal districts, replacing the former six local electoral areas: Ballina (6), Belmullet (4), Castlebar (7), Claremorris (6), Swinford (4) and Westport (4).[9] The county town is at _Áras an Contae_ in Castlebar, the main population centre located in the centre of the county. For national elections, half of the Claremorris Municipal District is in Galway West, and stretches from Ashford Castle to Ireland West Airport.
 
 The Municipal Area populations are as follows:
 
@@ -21,8 +21,6 @@ The Municipal Area populations are as follows:
 -   Castlebar – 34,000
 -   Claremorris – 32,469
 -   West Mayo – 31,190
-
-Near_Roonagh_Quay_looking_towards_Croagh_Patrick._-_geograph.org.uk_-_71331.jpg
 
 There are nine historic baronies, four in the northern area and five in the south of the county:
 
@@ -41,7 +39,7 @@ SOUTH MAYO
 -   Kilmaine (south, containing Ballinrobe, Cong etc.)
 -   Carra (south, containing Castlebar, Partry etc.)
 
-Newport_County_Mayo_old_bridge.JPG]]
+]]
 
 Largest towns by population (according to the 2016 Census)
 
@@ -62,7 +60,7 @@ History
 
 Prehistory
 
-Ceide_Fields_Visitor_Centre.jpg]]
+]]
 
 County Mayo has a long history and prehistory.[12] At Belderrig on the north Mayo coast, there is evidence for Mesolithic (Middle Stone Age) communities around 4500 cal. BC.,[13][14] while throughout the county there is a wealth of archaeological remains from the Neolithic (New Stone Age) period (ca. 4,000 BC to 2,500 BC), particularly in terms of megalithic tombs and ritual stone circles.
 
@@ -72,7 +70,7 @@ Extensive pre-bog field systems have been discovered under the blanket bog, part
 
 The Neolithic people developed rituals associated with burying their dead; this is why they built huge, elaborate, galleried stone tombs for their dead leaders, known nowadays as megalithic tombs. There are over 160 recorded megaliths in County Mayo, such as Faulagh.
 
-Greystone011-6may08_004.JPG, Erris]]
+, Erris]]
 
 Megalithic tombs
 
@@ -88,7 +86,7 @@ Around 2,500 years ago the Iron Age took over from the Bronze Age as more and mo
 
 Early Christian period (ca. AD 325 to AD 800)
 
-Aghagower_St_Patrick_Statue_2007_08_12.jpg Christianity came to Ireland around the start of the 5th century. It brought many changes including the introduction of writing and recording events. The tribal 'tuatha' and the new religious settlements existed side by side. Sometimes it suited the chieftains to become part of the early Churches, other times they remained as separate entities. St. Patrick (4th century) may have spent time in County Mayo and it is believed that he spent forty days and forty nights on Croagh Patrick praying for the people of Ireland. From the middle of the 6th century hundreds of small monastic settlements were established around the county.[18] Some examples of well-known early monastic sites in Mayo include Mayo Abbey, Aughagower, Ballintubber, Errew Abbey, Cong Abbey, Killala, Turlough on the outskirts of Castlebar, and island settlements off the Mullet Peninsula like the Inishkea Islands, Inishglora and Duvillaun.
+Christianity came to Ireland around the start of the 5th century. It brought many changes including the introduction of writing and recording events. The tribal 'tuatha' and the new religious settlements existed side by side. Sometimes it suited the chieftains to become part of the early Churches, other times they remained as separate entities. St. Patrick (4th century) may have spent time in County Mayo and it is believed that he spent forty days and forty nights on Croagh Patrick praying for the people of Ireland. From the middle of the 6th century hundreds of small monastic settlements were established around the county.[18] Some examples of well-known early monastic sites in Mayo include Mayo Abbey, Aughagower, Ballintubber, Errew Abbey, Cong Abbey, Killala, Turlough on the outskirts of Castlebar, and island settlements off the Mullet Peninsula like the Inishkea Islands, Inishglora and Duvillaun.
 
 In 795 the first of the Viking raids took place. The Vikings came from Scandinavia to raid the monasteries as they were places of wealth with precious metal working taking place in them. Some of the larger ecclesiastical settlements erected round towers to prevent their precious items being plundered and also to show their status and strength against these pagan raiders from the north. There are round towers at Aughagower, Balla, Killala, Turlough and Meelick. The Vikings established settlements which later developed into towns (Dublin, Cork, Wexford, Waterford etc..) but none were in County Mayo. Between the reigns of Kings of Connacht Cathal mac Conchobar mac Taidg (973–1010) and Tairrdelbach Ua Conchobair (1106–1156), various tribal territories were incorporated into the kingdom of Connacht and ruled by the Siol Muirdaig dynasty, based initially at Rathcroghan in County Roscommon, and from c. 1050 at Tuam. The families of O'Malley and O'Dowd of Mayo served as admirals of the fleet of Connacht, while families such as O'Lachtnan, Mac Fhirbhisigh, and O'Cleary were ecclesiastical and bardic clans.
 
@@ -104,7 +102,7 @@ Protestant settlers from Scotland, England, and elsewhere in Ireland, settled in
 
 17th and 18th centuries
 
-Grace_O'Malley00.jpg meeting Queen Elizabeth I]] Pirate Queen Gráinne O'Malley is probably the best known person from County Mayo between the mid-16th century and the turn of the 17th century.[22] In the 1640s, when Oliver Cromwell overthrew the English monarchy and set up a parliamentarian government, Ireland suffered severely. With a stern regime in absolute control needing to pay its armies and friends, the need to pay them with grants of land in Ireland led to the 'to hell or to Connaught' policies.[23] Displaced native Irish families from other (eastern and southern mostly) parts of the country were either forced to leave the country, often as slaves, or (if they had been well behaved and compliant with the orders of the parliamentarians) awarded grants of land 'west of the Shannon' and put off their own lands in the east. The land in the west was divided and sub-divided between more and more people as huge estates were granted on the best land in the east to those who best pleased the English.[24] Mayo does not seem to have been affected much during the Williamite War in Ireland, though many natives were outlawed and exiled. Nephin_Mountain,_County_Mayo_July_2010.jpg For the vast majority of people in County Mayo the 18th century was a period of unrelieved misery. Because of the penal laws, Catholics had no hope of social advancement while they remained in their native land. Some, like William Brown (1777–1857), left Foxford with his family at the age of nine and thirty years later was an admiral in the fledgling Argentine Navy. Today he is a national hero in that country.[25]
+meeting Queen Elizabeth I]] Pirate Queen Gráinne O'Malley is probably the best known person from County Mayo between the mid-16th century and the turn of the 17th century.[22] In the 1640s, when Oliver Cromwell overthrew the English monarchy and set up a parliamentarian government, Ireland suffered severely. With a stern regime in absolute control needing to pay its armies and friends, the need to pay them with grants of land in Ireland led to the 'to hell or to Connaught' policies.[23] Displaced native Irish families from other (eastern and southern mostly) parts of the country were either forced to leave the country, often as slaves, or (if they had been well behaved and compliant with the orders of the parliamentarians) awarded grants of land 'west of the Shannon' and put off their own lands in the east. The land in the west was divided and sub-divided between more and more people as huge estates were granted on the best land in the east to those who best pleased the English.[24] Mayo does not seem to have been affected much during the Williamite War in Ireland, though many natives were outlawed and exiled. For the vast majority of people in County Mayo the 18th century was a period of unrelieved misery. Because of the penal laws, Catholics had no hope of social advancement while they remained in their native land. Some, like William Brown (1777–1857), left Foxford with his family at the age of nine and thirty years later was an admiral in the fledgling Argentine Navy. Today he is a national hero in that country.[25]
 
 The general unrest in Ireland was felt just as keenly across Mayo, and as the 18th century approached and news reached Ireland about the American War of Independence and the French Revolution, the downtrodden Irish, constantly suppressed by Government policies and decisions from Dublin and London, began to rally themselves for their own stand against English rule in their country. By 1798 the Irish were ready for rebellion. The French came to help the Irish cause. General Humbert, from France landed in Killala with over 1,000 officers where they started to march across the county towards Castlebar where there was an English garrison. Taking them by surprise Humbert's army was victorious. He established a 'Republic of Connacht' with one of the Moore family from Moore Hall near Partry. Humbert's army marched on towards Sligo, Leitrim and Longford where they were suddenly faced with a massive English army and were forced to surrender in less than half an hour. The French soldiers were treated honourably, but for the Irish the surrender meant slaughter. Many died on the scaffold in towns like Castlebar and Claremorris, where the high sheriff for County Mayo, the Honourable Denis Browne, M.P., brother of Lord Altamont, wreaked a terrible vengeance – thus earning for himself the nickname which has survived in folk memory to the present day, 'Donnchadh an Rópa' (Denis of the Rope).
 
@@ -114,9 +112,9 @@ In the 18th century and early 19th century, sectarian tensions arose as evangeli
 
 During the early years of the 19th century, famine was a common occurrence, particularly where population pressure was a problem. The population of Ireland grew to over eight million people prior to the Irish Famine (or Great Famine) of 1845–47. The Irish people depended on the potato crop for their sustenance. Disaster struck in August 1845, when a killer fungus (later diagnosed as Phytophthora infestans) started to destroy the potato crop. When widespread famine struck, about a million people died and a further million left the country. People died in the fields from starvation and disease. The catastrophe was particularly bad in County Mayo, where nearly ninety per cent of the population depended on the potato as their staple food. By 1848, Mayo was a county of total misery and despair, with any attempts at alleviating measures in complete disarray.[27]
 
-Michael_davitt.jpg]] There are numerous reminders of the Great Famine to be seen on the Mayo landscape: workhouse sites, famine graves, sites of soup kitchens, deserted homes and villages and even traces of undug 'lazy-beds' in fields on the sides of hills. Many roads and lanes were built as famine relief measures. There were nine workhouses in the county: Ballina, Ballinrobe, Belmullet, Castlebar, Claremorris, Killala, Newport, Swinford and Westport.[28]
+]] There are numerous reminders of the Great Famine to be seen on the Mayo landscape: workhouse sites, famine graves, sites of soup kitchens, deserted homes and villages and even traces of undug 'lazy-beds' in fields on the sides of hills. Many roads and lanes were built as famine relief measures. There were nine workhouses in the county: Ballina, Ballinrobe, Belmullet, Castlebar, Claremorris, Killala, Newport, Swinford and Westport.[28]
 
-Irishin1871.jpg in 1871. Mayo's relative remoteness meant that Irish was still widely spoken decades after the Great Famine and is still spoken today in the north-west of the county]]
+in 1871. Mayo's relative remoteness meant that Irish was still widely spoken decades after the Great Famine and is still spoken today in the north-west of the county]]
 
 A small poverty-stricken place called Knock, County Mayo, made headlines when it was announced that an apparition of the Blessed Virgin Mary, St. Joseph and St. John had taken place there on 21 August 1879, witnessed by fifteen local people.[29]
 
@@ -189,8 +187,6 @@ Irish language
 
 Transport
 
-Mayo_border_sign.jpg
-
 Rail
 
 Mayo is well served by rail travel. Westport railway station is the terminus station on the Dublin to Westport Rail service. Railway stations are also located at Ballyhaunis, Claremorris, Castlebar, Manulla, Ballina and Foxford. All railway stations are located on the same railway line, with exception to Ballina and Foxford which requires passengers to change at Manulla Junction. There are currently four services each way every day on the line.
@@ -208,7 +204,7 @@ Ireland West Airport Knock is an international airport located in the county. Th
 
 Places of interest
 
-Cliffs_CtyMayo_IRE.jpg]]
+]]
 
 +-----------------------------+---------------------------------------------+
 | -   Achill Island           | -   List of designated highly scenic vistas |
@@ -232,14 +228,12 @@ Cliffs_CtyMayo_IRE.jpg]]
 
 Media
 
-Flag_of_County_Mayo.jpg Newspapers in County Mayo include the _Mayo News_, the _Connaught Telegraph_, the _Connacht Tribune_, _Western People_, and _Mayo Advertiser_, which is Mayo's only free newspaper.[38] Mayo has its own online TV channel _Mayo TV_ which was launched in 2011. It covers news and events from around the county and regularly broadcasts live to a worldwide audience. Local radio stations include "Erris FM",_Community Radio Castlebar_, Westport Community Radio and _M.W.R._ (Mid West Radio).
+Newspapers in County Mayo include the _Mayo News_, the _Connaught Telegraph_, the _Connacht Tribune_, _Western People_, and _Mayo Advertiser_, which is Mayo's only free newspaper.[38] Mayo has its own online TV channel _Mayo TV_ which was launched in 2011. It covers news and events from around the county and regularly broadcasts live to a worldwide audience. Local radio stations include "Erris FM",_Community Radio Castlebar_, Westport Community Radio and _M.W.R._ (Mid West Radio).
 
 The documentary _Pipe Down_, which won best feature documentary at the 2009 Waterford Film Festival, was made in Mayo.[39]
 
 
 Energy
-
-Justice_for_the_Rossport_5.jpg
 
 Energy controversy
 
@@ -252,7 +246,7 @@ The Mayo Energy Audit 2009–2020 is an investigation into the implications of p
 
 Sport
 
-Croke_Park_from_the_hill.jpg kitted out in the Mayo colours for the 2004 All-Ireland Senior Football Final]] The Mayo GAA senior team last won the Sam Maguire Cup in 1951, when the team was captained by Seán Flanagan. The team's third title, this followed victories in 1936 and the previous year, 1950. Since 1951, the team have made numerous All-Ireland Final appearances (in 1989, twice in 1996, 1997, 2004, 2006, 2012, 2013, twice again in 2016 against Dublin, with their latest appearance coming in 2017 against Dublin, again), though the team have failed on all occasions to achieve victory over their opponents.[43]
+kitted out in the Mayo colours for the 2004 All-Ireland Senior Football Final]] The Mayo GAA senior team last won the Sam Maguire Cup in 1951, when the team was captained by Seán Flanagan. The team's third title, this followed victories in 1936 and the previous year, 1950. Since 1951, the team have made numerous All-Ireland Final appearances (in 1989, twice in 1996, 1997, 2004, 2006, 2012, 2013, twice again in 2016 against Dublin, with their latest appearance coming in 2017 against Dublin, again), though the team have failed on all occasions to achieve victory over their opponents.[43]
 
 The team's unofficial supporters club are Mayo Club '51, named after the last team who won the Sam Maguire. The county colours of Mayo GAA are traditionally green and red.[44]
 
@@ -263,7 +257,7 @@ Although Gaelic football and association football are the most popular sport in 
 
 People
 
-Michael_davitt.jpg]] Enda_Kenny_2015_(cropped).jpg]] Louis_Walsh2009July.jpg]]
+]] ]] ]]
 
 -   Richard Bourke, 6th Earl of Mayo (1822–1872) – Viceroy of India (1869–1872).
 -   Louis Brennan (1852–1932) – inventor.

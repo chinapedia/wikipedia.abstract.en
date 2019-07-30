@@ -1,4 +1,4 @@
-Map_of_Finland-en.svg Finlandsat.jpg The GEOGRAPHY OF FINLAND is characterized by its northern position, its ubiquitous landscapes of intermingled boreal forests and lakes, and its low population density. Finland can be divided into three areas: archipelagoes and coastal lowlands, a slightly higher central lake plateau and uplands to north and northeast. Bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland, as well as Sweden, Norway, and Russia, Finland is the northernmost country in the European Union. Most of the population and agricultural resources are concentrated in the south. Northern and eastern Finland are sparsely populated containing vast wilderness areas. Taiga forest is the dominant vegetation type.
+The GEOGRAPHY OF FINLAND is characterized by its northern position, its ubiquitous landscapes of intermingled boreal forests and lakes, and its low population density. Finland can be divided into three areas: archipelagoes and coastal lowlands, a slightly higher central lake plateau and uplands to north and northeast. Bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland, as well as Sweden, Norway, and Russia, Finland is the northernmost country in the European Union. Most of the population and agricultural resources are concentrated in the south. Northern and eastern Finland are sparsely populated containing vast wilderness areas. Taiga forest is the dominant vegetation type.
 
 
 Size and external boundaries
@@ -12,7 +12,7 @@ Relief and geology
 
 Geology
 
-Ice-age_glacial_striation_in_Finland.jpgs in a country without glaciers.]] The bedrock of Finland belong to the Baltic Shield[1] and was formed by a succession of orogenies in Precambrian time.[2] The oldest rocks of Finland, those of Archean age, are found in the east and north. These rocks are chiefly granitoids and migmatitic gneiss.[3] Rocks in central and western Finland originated or came to place during the Svecokarelian orogeny.[4] Following this last orogeny Rapakivi granites intruded various locations of Finland during the Mesoproterozoic and Neoproterozoic, specially at Åland and the southeast.[5] So-called Jotnian sediments occur usually together with Rapakivi granites.[6] The youngest rocks in Finland are those found in the northwestern arm which belong to Scandinavian Caledonides that assembled in Paleozoic times.[7] During the Caledonian orogeny Finland was likely a sunken foreland basin covered by sediments, subsequent uplift and erosion would have eroded all of these sediments.[8]
+s in a country without glaciers.]] The bedrock of Finland belong to the Baltic Shield[1] and was formed by a succession of orogenies in Precambrian time.[2] The oldest rocks of Finland, those of Archean age, are found in the east and north. These rocks are chiefly granitoids and migmatitic gneiss.[3] Rocks in central and western Finland originated or came to place during the Svecokarelian orogeny.[4] Following this last orogeny Rapakivi granites intruded various locations of Finland during the Mesoproterozoic and Neoproterozoic, specially at Åland and the southeast.[5] So-called Jotnian sediments occur usually together with Rapakivi granites.[6] The youngest rocks in Finland are those found in the northwestern arm which belong to Scandinavian Caledonides that assembled in Paleozoic times.[7] During the Caledonian orogeny Finland was likely a sunken foreland basin covered by sediments, subsequent uplift and erosion would have eroded all of these sediments.[8]
 
 Relief and hydrography
 
@@ -49,7 +49,7 @@ As the ice sheet became thinner and retreated the land begun to rise by effect o
 
 Climate
 
-Latitude is the principal influence on Finland's climate. Because of Finland's northern location, winter is the longest season. Only in the south coast is summer as long as winter. On the average, winter lasts from early December to mid March in the archipelago and the southwestern coast and from early October to early May in Lapland. This means that southern portions of the country are snow-covered about three to four months of the year and the northern, about seven months. The long winter causes about half of the annual of precipitation in the north to fall as snow. Precipitation in the south amounts to about annually. Like that of the north, it occurs all through the year, though not so much of it is snow. Finland_Köppen.svg The Atlantic Ocean to the west and the Eurasian continent to the east interact to modify the climate of the country. The warm waters of the Gulf Stream and the North Atlantic Drift Current, which warm Norway and Sweden, also warm Finland. Westerly winds bring the warm air currents into the Baltic areas and to the country's shores, moderating winter temperatures, especially in the south. These winds, because of clouds associated with weather systems accompanying the westerlies, also decrease the amount of sunshine received during the summer. By contrast, the continental high pressure system situated over the Eurasian continent counteracts the maritime influences, occasionally causing severe winters and high temperatures in the summer.
+Latitude is the principal influence on Finland's climate. Because of Finland's northern location, winter is the longest season. Only in the south coast is summer as long as winter. On the average, winter lasts from early December to mid March in the archipelago and the southwestern coast and from early October to early May in Lapland. This means that southern portions of the country are snow-covered about three to four months of the year and the northern, about seven months. The long winter causes about half of the annual of precipitation in the north to fall as snow. Precipitation in the south amounts to about annually. Like that of the north, it occurs all through the year, though not so much of it is snow. The Atlantic Ocean to the west and the Eurasian continent to the east interact to modify the climate of the country. The warm waters of the Gulf Stream and the North Atlantic Drift Current, which warm Norway and Sweden, also warm Finland. Westerly winds bring the warm air currents into the Baltic areas and to the country's shores, moderating winter temperatures, especially in the south. These winds, because of clouds associated with weather systems accompanying the westerlies, also decrease the amount of sunshine received during the summer. By contrast, the continental high pressure system situated over the Eurasian continent counteracts the maritime influences, occasionally causing severe winters and high temperatures in the summer.
 
 The highest ever recorded temperature is (Liperi, 29 July 2010).[41] The lowest, (Kittilä, 28 January 1999). The annual middle temperature is relatively high in the southwestern part of the country (), with quite mild winters and warm summers, and low in the northeastern part of Lapland ().
 
@@ -88,7 +88,7 @@ Extreme lows:
 
 Area and boundaries
 
-Savivuori_view.jpg]] AREA:
+]] AREA:
 _total:_
 _land:_
 _water:_
@@ -99,7 +99,7 @@ LAND BOUNDARIES:
 _total:_
 _border countries:_ Norway , Sweden , Russia
 
-Lempisaari,_Naantali,_Finland..jpg]] COASTLINE:
+]] COASTLINE:
 
 MARITIME CLAIMS:
 _territorial sea:_ , in the Gulf of Finland; there is a stretch of international waters between Finnish and Estonian claims; Bogskär has separate internal waters and 3 nmi of territorial waters
@@ -114,7 +114,7 @@ _highest point:_ Haltitunturi
 
 Resources and land use
 
-Lake_Inari.jpg, Lapland]] NATURAL RESOURCES: timber, iron ore, copper, lead, zinc, chromite, nickel, gold, silver, limestone
+, Lapland]] NATURAL RESOURCES: timber, iron ore, copper, lead, zinc, chromite, nickel, gold, silver, limestone
 
 LAND USE:
 _arable land:_ 7.40%

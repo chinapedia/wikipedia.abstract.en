@@ -1,4 +1,4 @@
-FrankfurterBuchmesse2008.JPG]]
+]]
 
 GERMAN LITERATURE comprises those literary texts written in the German language. This includes literature written in Germany, Austria, the German parts of Switzerland and Belgium, Liechtenstein, South Tyrol in Italy and to a lesser extent works of the German diaspora. German literature of the modern period is mostly in Standard German, but there are some currents of literature influenced to a greater or lesser degree by dialects (e.g. Alemannic).
 
@@ -10,9 +10,6 @@ Biedermeier refers to the literature, music, the visual arts and interior design
 Periodization
 
 Periodization is not an exact science but the following list contains movements or time periods typically used in discussing German literature. It seems worth noting that the periods of medieval German literature span two or three centuries, those of early modern German literature span one century, and those of modern German literature each span one or two decades. The closer one nears the present, the more debated the periodizations become.
-
-Graph of works listed in Frenzel, _Daten deutscher Dichtung_ (1953). Visible is medieval literature overlapping with Renaissance up to the 1540s, modern literature beginning 1720, and baroque-era works (1570 to 1730) in between; there is a 20-year gap, 1545–1565, separating the Renaissance from the Baroque era.
-The Diagram was first published in Olaf Simons, _Marteaus Europa, oder Der Roman, bevor er Literatur wurde_ (Amsterdam/ Atlanta: Rodopi, 2001), p. 12. It does not give a picture of the actual production of German literature, but the selection and classification of literary works by Herbert Alfred and Elizabeth Frenzel.[1]
 
 -   Medieval German literature
     -   Old High German literature (750–1050)
@@ -86,7 +83,7 @@ German Renaissance and Reformation
 
 Baroque period
 
-The BAROQUE PERIOD (1600 to 1720) was one of the most fertile times in German literature. Many writers reflected the horrible experiences of the Thirty Years' War, in poetry and prose. Grimmelshausen's adventures of the young and naïve Simplicissimus, in the eponymous book _Simplicius Simplicissimus_[2], became the most famous novel of the Baroque period. Martin Opitz established rules for the "purity" of language, style, verse and rhyme. Andreas Gryphius and Daniel Caspar von Lohenstein wrote German language tragedies, or _Trauerspiele_, often on Classical themes and frequently quite violent. Erotic, religious and occasional poetry appeared in both German and Latin. Sibylle Ursula von Braunschweig-Lüneburg wrote part of a novel, _Die Durchlauchtige Syrerin Aramena_ (_Aramena, the noble Syrian lady_), which when complete would be the most famous courtly novel in German Baroque literature; it was finished by her brother Anton Ulrich and edited by Sigmund von Birken.[3][4]
+The BAROQUE PERIOD (1600 to 1720) was one of the most fertile times in German literature. Many writers reflected the horrible experiences of the Thirty Years' War, in poetry and prose. Grimmelshausen's adventures of the young and naïve Simplicissimus, in the eponymous book _Simplicius Simplicissimus_[1], became the most famous novel of the Baroque period. Martin Opitz established rules for the "purity" of language, style, verse and rhyme. Andreas Gryphius and Daniel Caspar von Lohenstein wrote German language tragedies, or _Trauerspiele_, often on Classical themes and frequently quite violent. Erotic, religious and occasional poetry appeared in both German and Latin. Sibylle Ursula von Braunschweig-Lüneburg wrote part of a novel, _Die Durchlauchtige Syrerin Aramena_ (_Aramena, the noble Syrian lady_), which when complete would be the most famous courtly novel in German Baroque literature; it was finished by her brother Anton Ulrich and edited by Sigmund von Birken.[2][3]
 
 18th century
 
@@ -175,15 +172,15 @@ Under the Nazi regime, some authors went into exile (_Exilliteratur_) and others
 
 21st century
 
-Frankfurt_book_fair_20161021.jpg Much of contemporary poetry in the German language is published in literary magazines. DAS GEDICHT, for instance, has featured German poetry from Germany, Austria, Switzerland, and Luxemburg for the last twenty years.
+Much of contemporary poetry in the German language is published in literary magazines. DAS GEDICHT, for instance, has featured German poetry from Germany, Austria, Switzerland, and Luxemburg for the last twenty years.
 
 -   Science-Fiction, Fantasy: Andreas Eschbach, Frank Schätzing, Wolfgang Hohlbein, Bernhard Hennen, Walter Moers
 -   Pop Literature: Benjamin von Stuckrad-Barre
--   Migrant literature: Wladimir Kaminer, Feridun Zaimoglu, Rafik Schami[5]
+-   Migrant literature: Wladimir Kaminer, Feridun Zaimoglu, Rafik Schami[4]
 -   Poetry: Jürgen Becker, Marcel Beyer, Theo Breuer, Rolf Dieter Brinkmann, Hans Magnus Enzensberger, Aldona Gustas, Ernst Jandl, Thomas Kling, Uwe Kolbe, Friederike Mayröcker, Durs Grünbein, Kurt Marti, Karl Krolow
 -   Aphorists: Hans Kruppa
 -   Thriller: Ingrid Noll
--   Novel: Wilhelm Genazino, Günter Grass, Herta Müller, Siegfried Lenz, Charlotte Link, Rainald Goetz, Anna Kaleri, Norbert Scheuer, Dietmar Dath, Christian Kracht, Kathrin Schmidt, Burkhard Spinnen, Robert Menasse, Martin Walser, Andreas Mand,[6] Zsuzsa Bánk, Marc Degens, Jenny Erpenbeck, Klaus Modick
+-   Novel: Wilhelm Genazino, Günter Grass, Herta Müller, Siegfried Lenz, Charlotte Link, Rainald Goetz, Anna Kaleri, Norbert Scheuer, Dietmar Dath, Christian Kracht, Kathrin Schmidt, Burkhard Spinnen, Robert Menasse, Martin Walser, Andreas Mand,[5] Zsuzsa Bánk, Marc Degens, Jenny Erpenbeck, Klaus Modick
 -   Literaturport (in German): audio clips of contemporary literature, many read out by the authors themselves
 -   German-American literature: Paul-Henri Campbell, Walter Abish
 
@@ -194,12 +191,12 @@ The Nobel Prize in Literature has been awarded to German-language authors thirte
 
 The following writers are from Germany unless stated otherwise:
 
-+----------------------+-------------------------------------------+
-| Thomas Mann          | Hermann Hesse                             |
-| (1875–1955)          | (1877–1962)                               |
-+:====================:+:=========================================:+
-| Thomas_Mann_1929.jpg | Hermann_Hesse_1927_Photo_Gret_Widmann.jpg |
-+----------------------+-------------------------------------------+
++-------------+---------------+
+| Thomas Mann | Hermann Hesse |
+| (1875–1955) | (1877–1962)   |
++:===========:+:=============:+
+|             |               |
++-------------+---------------+
 
 -   1902 Theodor Mommsen
 -   1908 Rudolf Christoph Eucken
@@ -285,7 +282,7 @@ External links
 
 German-language_literature German_literature
 
-[1] The Frenzels' work remains standard as defining a modern canon of German literature; however, the selection of authors especially for the Nazi era has been criticized as "grotesque" or as exhibiting "bizarre gaps" (viz. omitting Jewish authors); see Volker Weidermann, Ein grotesker Kanon, Frankfurter Allgemeine Zeitung, 11 May 2009. _Daten deutscher Dichtung_ was reprinted in 35 editions, but was discontinued in 2009.
+[1]
 
 [2]
 
@@ -293,6 +290,4 @@ German-language_literature German_literature
 
 [4]
 
-[5]
-
-[6] Twenty-Third Annual Bibliography, Max Kade Center for Contemporary German Literature at the Washington University, in St. Louis, Missouri, Retrieved 2011-12-13
+[5] Twenty-Third Annual Bibliography, Max Kade Center for Contemporary German Literature at the Washington University, in St. Louis, Missouri, Retrieved 2011-12-13

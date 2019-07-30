@@ -1,4 +1,4 @@
-Microwriter.png MW4 (circa 1980)]]
+MW4 (circa 1980)]]
 
 A KEYSET or CHORDED KEYBOARD (also called a chorded keyset, _chord keyboard_ or _chording keyboard_) is a computer input device that allows the user to enter characters or commands formed by pressing several keys together, like playing a "chord" on a piano. The large number of combinations available from a small number of keys allows text or commands to be entered with one hand, leaving the other hand free. A secondary advantage is that it can be built into a device (such as a pocket-sized computer or a bicycle handlebar) that is too small to contain a normal-sized keyboard.
 
@@ -7,7 +7,7 @@ A chorded keyboard minus the board, typically designed to be used while held in 
 
 Principles of operation
 
-Septambic_key_numbering.jpg.]] Each key is mapped to a number and then can be mapped to a corresponding letter or command. By pressing two or more keys together the user can generate many combinations. In Engelbart's original mapping, he used five keys: 1,2,4,8,16. The keys were mapped as follows: a = 1, b = 2, c = 3, d = 4, and so on. If the user pressed keys 1 + 2 = 3 simultaneously, and then released the keys, the letter "c" appeared. Unlike pressing a chord on a piano, the chord is recognized only after all the keys or mouse buttons are released. Since Engelbart introduced the keyset, several different designs have been developed based on similar concepts.
+.]] Each key is mapped to a number and then can be mapped to a corresponding letter or command. By pressing two or more keys together the user can generate many combinations. In Engelbart's original mapping, he used five keys: 1,2,4,8,16. The keys were mapped as follows: a = 1, b = 2, c = 3, d = 4, and so on. If the user pressed keys 1 + 2 = 3 simultaneously, and then released the keys, the letter "c" appeared. Unlike pressing a chord on a piano, the chord is recognized only after all the keys or mouse buttons are released. Since Engelbart introduced the keyset, several different designs have been developed based on similar concepts.
 
 As a crude example, each finger might control one key which corresponds to one bit in a byte, so that using seven keys and seven fingers, one could enter any character in the ASCII set—if the user could remember the binary codes. Due to the small number of keys required, chording is easily adapted from a desktop to mobile environment.
 
@@ -26,7 +26,7 @@ In 1874, the five-bit Baudot telegraph code and a matching 5-key chord keyboard 
 
 Some early keypunch machines used a keyboard with 12 labeled keys to punch the correct holes in paper cards. The numbers 0 through 9 were represented by one punch; 26 letters were represented by combinations of two punches, and symbols were represented by combinations of two or three punches.
 
-Braille_Writer.jpg keyboard]] Braille (a writing system for the blind) uses either 6 or 8 tactile 'points' from which all letters and numbers are formed. When Louis Braille invented it, it was produced with a needle holing successively all needed points in a cardboard sheet. In 1892, Frank Haven Hall, superintendent of the Illinois Institute for the Education of the Blind, created the Hall Braille Writer, which was like a typewriter with 6 keys, one for each dot in a braille cell.[5] The Perkins Brailler, first manufactured in 1951, uses a 6-key chord keyboard (plus a spacebar) to produce braille output, and has been very successful as a mass market affordable product. Braille, like Baudot, uses a number symbol and a shift symbol, which may be repeated for shift lock, to fit numbers and upper case into the 63 codes that 6 bits offer.
+keyboard]] Braille (a writing system for the blind) uses either 6 or 8 tactile 'points' from which all letters and numbers are formed. When Louis Braille invented it, it was produced with a needle holing successively all needed points in a cardboard sheet. In 1892, Frank Haven Hall, superintendent of the Illinois Institute for the Education of the Blind, created the Hall Braille Writer, which was like a typewriter with 6 keys, one for each dot in a braille cell.[5] The Perkins Brailler, first manufactured in 1951, uses a 6-key chord keyboard (plus a spacebar) to produce braille output, and has been very successful as a mass market affordable product. Braille, like Baudot, uses a number symbol and a shift symbol, which may be repeated for shift lock, to fit numbers and upper case into the 63 codes that 6 bits offer.
 
 After World War II, with the arrival of electronics for reading chords and looking in tables of "codes", the postal sorting offices started to research chordic solutions to be able to employ people other than trained and expensive typists. In 1954, an important concept was discovered: chordic production is easier to master when the production is done at the release of the keys instead of when they are pressed.
 
@@ -48,7 +48,7 @@ The only proposed modern standard, GKOS (or Global Keyboard Open Standard)[10] c
 
 Open-source designs
 
-Chording_Keyboard.png Four open source keyer/keyset designs are available: The pickey,[11] a PS/2 device based on the PIC microcontroller; the spiffchorder,[12] a USB device based on the Atmel AVR family of microcontrollers; the FeatherChorder,[13] a BLE chorder based on the Adafruit Feather, an all in one board incorporating an Arduino-compatible microcontroller; and the GKOS keypad driver for Linux[14] as well as the Gkos library for the Atmel/Arduino[15] open source board.
+Four open source keyer/keyset designs are available: The pickey,[11] a PS/2 device based on the PIC microcontroller; the spiffchorder,[12] a USB device based on the Atmel AVR family of microcontrollers; the FeatherChorder,[13] a BLE chorder based on the Adafruit Feather, an all in one board incorporating an Arduino-compatible microcontroller; and the GKOS keypad driver for Linux[14] as well as the Gkos library for the Atmel/Arduino[15] open source board.
 
 Plover[16] is a free, open-source, cross-platform program intended to bring realtime stenographic technology not just to stenographers, but also to hobbyists using anything from professional Stenotype machines to low-cost NKRO gaming keyboards. It is available for GNU/Linux, Microsoft Windows, and Apple Mac macOS.
 

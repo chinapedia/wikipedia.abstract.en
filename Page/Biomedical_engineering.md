@@ -1,4 +1,4 @@
-UltrasoundBPH.jpg (black butterfly-like shape) a hyperplastic prostate. An example of practical science and medical science working together.]] Microarray2.gif with enlarged inset to show detail.]]
+(black butterfly-like shape) a hyperplastic prostate. An example of practical science and medical science working together.]] with enlarged inset to show detail.]]
 
 BIOMEDICAL ENGINEERING (BME) or MEDICAL ENGINEERING is the application of engineering principles and design concepts to medicine and biology for healthcare purposes (e.g. diagnostic or therapeutic). This field seeks to close the gap between engineering and medicine, combining the design and problem solving skills of engineering with medical biological sciences to advance health care treatment, including diagnosis, monitoring, and therapy.[1][2] Also included under the scope of a biomedical engineer is the management of current medical equipment within hospitals while adhering to relevant industry standards. This involves equipment recommendations, procurement, routine testing and preventative maintenance, through to decommissioning and disposal. This role is also known as a Biomedical Equipment Technician (BMET) or clinical engineering.
 
@@ -14,7 +14,7 @@ Bioinformatics is considered both an umbrella term for the body of biological st
 
 Biomechanics
 
-Protein_translation.gif is a biological machine that utilizes protein dynamics]] Biomechanics is the study of the structure and function of the mechanical aspects of biological systems, at any level from whole organisms to organs, cells and cell organelles,[3] using the methods of mechanics.[4]
+is a biological machine that utilizes protein dynamics]] Biomechanics is the study of the structure and function of the mechanical aspects of biological systems, at any level from whole organisms to organs, cells and cell organelles,[3] using the methods of mechanics.[4]
 
 
 Biomaterial
@@ -33,7 +33,7 @@ Tissue engineering, like genetic engineering (see below), is a major segment of 
 
 One of the goals of tissue engineering is to create artificial organs (via biological material) for patients that need organ transplants. Biomedical engineers are currently researching methods of creating such organs. Researchers have grown solid jawbones[6] and tracheas[7] from human stem cells towards this end. Several artificial urinary bladders have been grown in laboratories and transplanted successfully into human patients.[8] Bioartificial organs, which use both synthetic and biological component, are also a focus area in research, such as with hepatic assist devices that use liver cells within an artificial bioreactor construct.[9]
 
-Alcian_stain_micromass.jpg.]]
+.]]
 
 
 Genetic engineering
@@ -60,7 +60,7 @@ A medical device is intended for use in:
 -   the diagnosis of disease or other conditions, or
 -   in the cure, mitigation, treatment, or prevention of disease.
 
-Some examples include pacemakers, infusion pumps, the heart-lung machine, dialysis machines, artificial organs, implants, artificial limbs, corrective lenses, cochlear implants, ocular prosthetics, facial prosthetics, somato prosthetics, and dental implants. Opampinstrumentation.svg schematic used in monitoring low voltage biological signals, an example of a biomedical engineering application of electronic engineering to electrophysiology.]]
+Some examples include pacemakers, infusion pumps, the heart-lung machine, dialysis machines, artificial organs, implants, artificial limbs, corrective lenses, cochlear implants, ocular prosthetics, facial prosthetics, somato prosthetics, and dental implants. schematic used in monitoring low voltage biological signals, an example of a biomedical engineering application of electronic engineering to electrophysiology.]]
 
 Stereolithography is a practical example of _medical modeling_ being used to create physical objects. Beyond modeling organs and the human body, emerging engineering techniques are also currently used in the research and development of new devices for innovative therapies,[10] treatments,[11] patient monitoring,[12] of complex diseases.
 
@@ -74,13 +74,13 @@ Medical imaging
 
 Medical/biomedical imaging is a major segment of medical devices. This area deals with enabling clinicians to directly or indirectly "view" things not visible in plain sight (such as due to their size, and/or location). This can involve utilizing ultrasound, magnetism, UV, radiology, and other means.
 
-brain_chrischan.jpg scan of a human head, an example of a biomedical engineering application of electrical engineering to diagnostic imaging. Click here to view an animated sequence of slices.]]Imaging technologies are often essential to medical diagnosis, and are typically the most complex equipment found in a hospital including: fluoroscopy, magnetic resonance imaging (MRI), nuclear medicine, positron emission tomography (PET), PET-CT scans, projection radiography such as X-rays and CT scans, tomography, ultrasound, optical microscopy, and electron microscopy.
+scan of a human head, an example of a biomedical engineering application of electrical engineering to diagnostic imaging. Click here to view an animated sequence of slices.]]Imaging technologies are often essential to medical diagnosis, and are typically the most complex equipment found in a hospital including: fluoroscopy, magnetic resonance imaging (MRI), nuclear medicine, positron emission tomography (PET), PET-CT scans, projection radiography such as X-rays and CT scans, tomography, ultrasound, optical microscopy, and electron microscopy.
 
 Implants
 
 An implant is a kind of medical device made to replace and act as a missing biological structure (as compared with a transplant, which indicates transplanted biomedical tissue). The surface of implants that contact the body might be made of a biomedical material such as titanium, silicone or apatite depending on what is the most functional. In some cases, implants contain electronics, e.g. artificial pacemakers and cochlear implants. Some implants are bioactive, such as subcutaneous drug delivery devices in the form of implantable pills or drug-eluting stents.
 
-Army_prosthetic.jpgs: The right arm is an example of a prosthesis, and the left arm is an example of myoelectric control.]] Prosthetic_eye.png, an example of a biomedical engineering application of mechanical engineering and biocompatible materials to ophthalmology.]]
+s: The right arm is an example of a prosthesis, and the left arm is an example of myoelectric control.]] , an example of a biomedical engineering application of mechanical engineering and biocompatible materials to ophthalmology.]]
 
 Bionics
 
@@ -104,7 +104,7 @@ REHABILITATION ENGINEERING is the systematic application of engineering sciences
 
 While some rehabilitation engineers have master's degrees in rehabilitation engineering, usually a subspecialty of Biomedical engineering, most rehabilitation engineers have undergraduate or graduate degrees in biomedical engineering, mechanical engineering, or electrical engineering. A Portuguese university provides an undergraduate degree and a master's degree in Rehabilitation Engineering and Accessibility.[15][16] Qualification to become a Rehab' Engineer in the UK is possible via a University BSc Honours Degree course such as Health Design & Technology Institute, Coventry University.[17]
 
-The rehabilitation process for people with disabilities often entails the design of assistive devices such as Walking aids intended to promote inclusion of their users into the mainstream of society, commerce, and recreation.SinusRhythmLabels.svg;'' an example of widely used clinical medical equipment (operates by applying electronic engineering to electrophysiology and medical diagnosis).]]
+The rehabilitation process for people with disabilities often entails the design of assistive devices such as Walking aids intended to promote inclusion of their users into the mainstream of society, commerce, and recreation.;'' an example of widely used clinical medical equipment (operates by applying electronic engineering to electrophysiology and medical diagnosis).]]
 
 
 Regulatory issues
@@ -123,7 +123,7 @@ The medical device engineering area is among the most heavily regulated fields o
 
 In the European context, safety effectiveness and quality is ensured through the "Conformity Assessment" that is defined as "the method by which a manufacturer demonstrates that its device complies with the requirements of the European Medical Device Directive". The directive specifies different procedures according to the class of the device ranging from the simple Declaration of Conformity (Annex VII) for Class I devices to EC verification (Annex IV), Production quality assurance (Annex V), Product quality assurance (Annex VI) and Full quality assurance (Annex II). The Medical Device Directive specifies detailed procedures for Certification. In general terms, these procedures include tests and verifications that are to be contained in specific deliveries such as the risk management file, the technical file and the quality system deliveries. The risk management file is the first deliverable that conditions the following design and manufacturing steps. Risk management stage shall drive the product so that product risks are reduced at an acceptable level with respect to the benefits expected for the patients for the use of the device. The technical file contains all the documentation data and records supporting medical device certification. FDA technical file has similar content although organized in different structure. The Quality System deliverables usually includes procedures that ensure quality throughout all product life cycle. The same standard (ISO EN 13485) is usually applied for quality management systems in US and worldwide.
 
-Hip_replacement_Image_3684-PH.jpg joints, are generally extensively regulated due to the invasive nature of such devices.]]
+joints, are generally extensively regulated due to the invasive nature of such devices.]]
 
 In the European Union, there are certifying entities named "Notified Bodies", accredited by European Member States. The Notified Bodies must ensure the effectiveness of the certification process for all medical devices apart from the class I devices where a declaration of conformity produced by the manufacturer is sufficient for marketing. Once a product has passed all the steps required by the Medical Device Directive, the device is entitled to bear a CE marking, indicating that the device is believed to be safe and effective when used as intended, and, therefore, it can be marketed within the European Union area.
 

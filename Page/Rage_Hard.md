@@ -39,7 +39,7 @@ Track listing
 -   Stamped is an edit of the "Broad Mix" from the 2nd 12" (sleeve featured the Blue fist)
 -   Was released to celebrate the song entering #6 on the UK charts on 6th September 1986.
 
-Full_Rage_Hard_releases.jpg (All discographical information pertains to UK releases only)
+(All discographical information pertains to UK releases only)
 
 12": ZTT / 12 ZTAS 22 United Kingdom
 

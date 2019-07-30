@@ -17,7 +17,7 @@ The other main course in Smith's self-education was to read the complete 11th ed
 
 Early writing
 
-Clark_Ashton_Smith_WS_3010.jpg'' in 1930]]
+'' in 1930]]
 
 His first literary efforts, at the age of 11, took the form of fairy tales and imitations of the Arabian Nights. Later, he wrote long adventure novels dealing with Oriental life. By 14 he had already written a short adventure novel called _The Black Diamonds_ which was lost for years until published in 2002. Another juvenile novel was written in his teenaged years—_The Sword of Zagan_ (unpublished until 2004). Like _The Black Diamonds_, it uses a medieval, _Arabian Nights_-like setting, and the _Arabian Nights_, like the fairy tales of the Brothers Grimm and the works of Edgar Allan Poe, are known to have strongly influenced Smith's early writing, as did William Beckford's _Vathek_.
 
@@ -80,7 +80,7 @@ Smith published most of his volumes of poetry in this period, including the afor
 
 Weird fiction: 1926–1935
 
-Strange_tales_193210.jpg''.]]
+''.]]
 
 Smith wrote most of his weird fiction and Cthulhu Mythos stories, partially inspired by H. P. Lovecraft. Creatures of his invention include Aforgomon, Rlim-Shaikorth, Mordiggian, Tsathoggua, the wizard Eibon, and various others. In an homage to his friend, Lovecraft referred in "The Whisperer in Darkness" and "The Battle That Ended the Century" (written in collaboration with R. H. Barlow) to an Atlantean high-priest, "Klarkash-Ton".
 
@@ -126,8 +126,6 @@ By this time his interest in writing fiction began to lessen and he turned to cr
 Bibliography
 
 Books published in Smith's lifetime
-
-Star_Treader.jpg Ebony_and_Crystal_1922.jpg
 
 -   1912: _The Star-Treader and Other Poems_. San Francisco: A.M. Robertson, Nov 1912. 100 pages. 2000 copies. Some copies have a frontispiece photo by Bianca Conti; others lack it.
 -   1918: _Odes and Sonnets_. San Francisco: The Book Club of California, June 1918. 28 pages. 300 copies.

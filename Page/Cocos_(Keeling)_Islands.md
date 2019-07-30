@@ -22,8 +22,6 @@ North Keeling Island is an atoll consisting of just one C-shaped island, a nearl
 
 South Keeling Islands is an atoll consisting of 24 individual islets forming an incomplete atoll ring, with a total land area of . Only Home Island and West Island are populated. The Cocos Malays maintain weekend shacks, referred to as pondoks, on most of the larger islands.
 
-Cocos_(Keeling)_Islands-CIA_WFB_Map.png Cocos_Islands_1889.jpg Cocos(keeling)_76.jpg
-
 +----+----------------------+---------------------------+-----------------------------------------+-------+
 |    | Islet                | Translation of Malay name | English name                            | Area  |
 |    | (Malay name)         |                           |                                         | (km²) |
@@ -98,7 +96,7 @@ History
 
 Discovery and early history
 
-AMH-5134-NA_Compass_chart_of_the_Kokos_islands.jpg The archipelago was discovered in 1609 by Captain William Keeling of the East India Company, on a return voyage from the East Indies. North Keeling was sketched by Ekeberg, a Swedish captain, in 1749, showing the presence of coconut palms. It also appears on a 1789 chart produced by British hydrographer Alexander Dalrymple.[12]
+The archipelago was discovered in 1609 by Captain William Keeling of the East India Company, on a return voyage from the East Indies. North Keeling was sketched by Ekeberg, a Swedish captain, in 1749, showing the presence of coconut palms. It also appears on a 1789 chart produced by British hydrographer Alexander Dalrymple.[12]
 
 In 1825, Scottish merchant seaman Captain John Clunies-Ross stopped briefly at the islands on a trip to India, nailing up a Union Jack and planning to return and settle on the islands with his family in the future.[13] Wealthy Englishman Alexander Hare had similar plans, and hired a captain coincidentally, Clunies-Ross's brotherto bring him and a volunteer harem of 40 Malay women to the islands, where he hoped to establish his private residence.[14] Hare had previously served as resident of Banjarmasin, a town in Borneo, and found that "he could not confine himself to the tame life that civilisation affords".[15]
 
@@ -108,7 +106,7 @@ After some time, Hare's women began deserting him, and instead finding themselve
 
 Clunies-Ross's workers were paid in a currency called the Cocos rupee, a currency John Clunies-Ross minted himself that could only be redeemed at the company store.[20]
 
-Chart_of_Cocos_Keeling_Islands.png WW1_Landing_at_Direction_Island.jpg cruiser _Emden_ leaves Cocos (Keeling) Islands via this jetty on Direction Island on 9 November 1914.]] On 1 April 1836, under Captain Robert FitzRoy arrived to take soundings to establish the profile of the atoll as part of the survey expedition of the _Beagle_. To the naturalist Charles Darwin, aboard the ship, the results supported a theory he had developed of how atolls formed, which he later published as _The Structure and Distribution of Coral Reefs_. He studied the natural history of the islands and collected specimens.[21] Darwin's assistant Syms Covington noted that "an Englishman [he was in fact Scottish] and HIS family, with about sixty or seventy mulattos from the Cape of Good Hope, live on one of the islands. Captain Ross, the governor, is now absent at the Cape."
+cruiser _Emden_ leaves Cocos (Keeling) Islands via this jetty on Direction Island on 9 November 1914.]] On 1 April 1836, under Captain Robert FitzRoy arrived to take soundings to establish the profile of the atoll as part of the survey expedition of the _Beagle_. To the naturalist Charles Darwin, aboard the ship, the results supported a theory he had developed of how atolls formed, which he later published as _The Structure and Distribution of Coral Reefs_. He studied the natural history of the islands and collected specimens.[21] Darwin's assistant Syms Covington noted that "an Englishman [he was in fact Scottish] and HIS family, with about sixty or seventy mulattos from the Cape of Good Hope, live on one of the islands. Captain Ross, the governor, is now absent at the Cape."
 
 Annexation by the British Empire
 

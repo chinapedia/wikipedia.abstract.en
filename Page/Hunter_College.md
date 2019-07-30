@@ -7,7 +7,7 @@ The college is the only one in the nation whose roster of alumni includes two fe
 
 History
 
-Normal_College_of_Women_801201.png]]
+]]
 
 Founding
 
@@ -15,7 +15,7 @@ Hunter College has its origins in the 19th-century movement for normal school tr
 
 Created by the New York State Legislature, Hunter was deemed the only approved institution for those seeking to teach in New York City. The school incorporated an elementary and high school for gifted children, where students practiced teaching. In 1887, a kindergarten was established as well. (Today, the elementary school and the high school still exist at a different location, and are now called the Hunter College Campus Schools.)
 
-Helen_Campbell_studying_radio_science_at_Hunter_College_LC-DIG-ggbain-24344.tif to train female radio operators during World War I.]]
+to train female radio operators during World War I.]]
 
 During Thomas Hunter's tenure as president of the school, Hunter became known for its impartiality regarding race, religion, ethnicity, financial or political favoritism; its pursuit of higher education for women; its high entry requirements; and its rigorous academics. The first female professor at the school, Helen Gray Cone, was elected to the position in 1899.[6] The college's student population quickly expanded, and the college subsequently moved uptown, in 1873, into a new Gothic structure, now known as Thomas Hunter Hall, on Lexington Avenue between 68th and 69th Streets. The hall was probably designed by the architect Snyder.
 
@@ -25,7 +25,7 @@ Expansion
 
 In 1914 the Normal College became Hunter College in honor of its first president. At the same time, the college was experiencing a period of great expansion as increasing student enrollments necessitated more space. The college reacted by establishing branches in the boroughs of Brooklyn, Queens, and Staten Island. By 1920, Hunter College had the largest enrollment of women of any municipally financed college in the United States. In 1930, Hunter's Brooklyn campus merged with City College's Brooklyn campus, and the two were spun off to form Brooklyn College.
 
-Hunter_College_NY_WAVES_camp_opening_1943.JPG recruit camp for WAVES at Bronx Campus, February 8, 1943]]
+recruit camp for WAVES at Bronx Campus, February 8, 1943]]
 
 Between 1938 and 1939 the garden at Park Avenue was given up for the construction of the north building. The expansion also destroyed a large part of the neo-gothic original structure, fusing them together. Only the back part facing Lexington Avenue between 68th and 69th street remain from the original building.
 
@@ -33,7 +33,7 @@ The late 1930s saw the construction of Hunter College in the Bronx (later known 
 
 In 1943, Eleanor Roosevelt dedicated a town house at 47–49 East 65th Street in Manhattan to the college. The house had been a home for the future President and First Lady. Today it is known as The Roosevelt House of Public Policy and opened in fall 2010 as an academic center hosting prominent speakers.
 
-West_Building_Hunter_College_CUNY.jpg – and were designed in the Modernist style by Ulrich Franzen & Associates; skyways connect all the buildings]]
+– and were designed in the Modernist style by Ulrich Franzen & Associates; skyways connect all the buildings]]
 
 CUNY era
 
@@ -49,8 +49,6 @@ Although far from the polar regions, Hunter is a member institution of the Unive
 
 
 Campuses
-
-Hunter_College.jpg Hunter_College_bridge.jpg
 
 Main Campus
 
@@ -68,7 +66,7 @@ Satellite campuses
 
 Hunter has two satellite campuses: The Silberman School of Social Work Building, located on 3rd Avenue between East 118th and East 119th Streets, which houses the School of Social Work, the School of Urban Public Health, and the Brookdale Center on Aging; and the Brookdale Campus, located at East 25th Street and 1st Avenue, which houses the Hunter-Bellevue School of Nursing, the Schools of the Health Professions, the Health Professions Library and several research centers and computer labs.[14]
 
-Thomas_Hunter_Hall_Hunter_College_CUNY_from_north.jpg), and was designed by C. B. J. Snyder. A large part of the building was razed to make way for the North Building, built in 1938-41]]
+), and was designed by C. B. J. Snyder. A large part of the building was razed to make way for the North Building, built in 1938-41]]
 
 The Brookdale Campus is the site of the Hunter dormitory, which is home to over 600 undergraduate and graduate students, as well as a limited number of nurses employed at Bellevue Hospital. Prior to the opening of City College's new "Towers," the Brookdale complex was the City University's only dormitory facility.
 

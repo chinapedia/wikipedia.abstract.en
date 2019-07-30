@@ -7,7 +7,7 @@ The brightest star is the 2.8-magnitude Beta Hydri, also the closest reasonably 
 
 History
 
-Johann_Bayer_-_Uraniometria_-_Southern_Birds.jpg's _Uranometria_, its first appearance in a celestial atlas.]] Hydrus was one of the twelve constellations established by the Dutch astronomer Petrus Plancius from the observations of the southern sky by the Dutch explorers Pieter Dirkszoon Keyser and Frederick de Houtman, who had sailed on the first Dutch trading expedition, known as the _Eerste Schipvaart_, to the East Indies. It first appeared on a 35-cm (14 in) diameter celestial globe published in 1598 in Amsterdam by Plancius with Jodocus Hondius. The first depiction of this constellation in a celestial atlas was in the German cartographer Johann Bayer's _Uranometria_ of 1603.[1] [2] De Houtman included it in his southern star catalogue the same year under the Dutch name _De Waterslang_, "The Water Snake",[3] it representing a type of snake encountered on the expedition rather than a mythical creature.[4] The French explorer and astronomer Nicolas Louis de Lacaille called it _l’Hydre Mâle_ on the 1756 version of his planisphere of the southern skies, distinguishing it from the feminine Hydra. The French name was retained by Jean Fortin in 1776 for his _Atlas Céleste_, while Lacaille Latinised the name to Hydrus for his revised _Coelum Australe Stelliferum_ in 1763.[5]
+'s _Uranometria_, its first appearance in a celestial atlas.]] Hydrus was one of the twelve constellations established by the Dutch astronomer Petrus Plancius from the observations of the southern sky by the Dutch explorers Pieter Dirkszoon Keyser and Frederick de Houtman, who had sailed on the first Dutch trading expedition, known as the _Eerste Schipvaart_, to the East Indies. It first appeared on a 35-cm (14 in) diameter celestial globe published in 1598 in Amsterdam by Plancius with Jodocus Hondius. The first depiction of this constellation in a celestial atlas was in the German cartographer Johann Bayer's _Uranometria_ of 1603.[1] [2] De Houtman included it in his southern star catalogue the same year under the Dutch name _De Waterslang_, "The Water Snake",[3] it representing a type of snake encountered on the expedition rather than a mythical creature.[4] The French explorer and astronomer Nicolas Louis de Lacaille called it _l’Hydre Mâle_ on the 1756 version of his planisphere of the southern skies, distinguishing it from the feminine Hydra. The French name was retained by Jean Fortin in 1776 for his _Atlas Céleste_, while Lacaille Latinised the name to Hydrus for his revised _Coelum Australe Stelliferum_ in 1763.[5]
 
 
 Characteristics
@@ -16,8 +16,6 @@ Irregular in shape,[6] Hydrus is bordered by Mensa to the southeast, Eridanus to
 
 
 Features
-
-Constellation_Hydrus.jpg
 
 Stars
 

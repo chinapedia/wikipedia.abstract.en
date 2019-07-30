@@ -1,4 +1,4 @@
-High hat}} Hi-hat.jpg A HI-HAT (HIHAT, HIGH-HAT, etc.) is a combination of two cymbals and a foot pedal, all mounted on a metal stand. It is a part of the standard drum kit used by drummers in many styles of music including rock, pop, and blues.[1] Hi-hats consist of a matching pair of small to medium-sized cymbals mounted on a stand, with the two cymbals facing each other. The bottom cymbal is fixed and the top is mounted on a rod which moves the top cymbal towards the bottom one when the pedal is depressed (a hi-hat that is in this position is said to be "closed" or "closed hi-hats").
+High hat}} A HI-HAT (HIHAT, HIGH-HAT, etc.) is a combination of two cymbals and a foot pedal, all mounted on a metal stand. It is a part of the standard drum kit used by drummers in many styles of music including rock, pop, and blues.[1] Hi-hats consist of a matching pair of small to medium-sized cymbals mounted on a stand, with the two cymbals facing each other. The bottom cymbal is fixed and the top is mounted on a rod which moves the top cymbal towards the bottom one when the pedal is depressed (a hi-hat that is in this position is said to be "closed" or "closed hi-hats").
 
 The hi-hat evolved from a "sock cymbal", a pair of similar cymbals mounted at ground level on a hinged, spring-loaded foot apparatus. Drummers invented the first sock cymbals to enable one drummer to play multiple percussion instruments at the same time. Over time these became mounted on short stands - also known as "low-boys" - and activated by foot pedals similar to those used in the 2010s. When extended upwards roughly 3' (76 cm) they were originally known as "high sock" cymbals, which evolved over time to the familiar "high-hat" term.[2]
 
@@ -9,7 +9,7 @@ While the term hi-hat normally refers to the entire setup (two cymbals, stand, f
 
 History
 
-Dance_band_drummer_at_Mark_Foy's_Empress_Ballroom_from_The_Powerhouse_Museum.jpg Sabian_mini_hats.jpg UFIP_hi_hats.JPG 14" hi-hat cymbals]] Initial versions of the hi-hat were called clangers, which were small cymbals mounted onto a bass drum rim and struck with an arm on the bass drum pedal. Then came shoes, which were two hinged boards with cymbals on the ends that were clashed together. Next was the low-sock, low-boy or low-hat, pedal-activated cymbals employing an ankle-high apparatus similar to a modern hi-hat stand. A standard size was , some with heavy bells up to wide.[3]
+14" hi-hat cymbals]] Initial versions of the hi-hat were called clangers, which were small cymbals mounted onto a bass drum rim and struck with an arm on the bass drum pedal. Then came shoes, which were two hinged boards with cymbals on the ends that were clashed together. Next was the low-sock, low-boy or low-hat, pedal-activated cymbals employing an ankle-high apparatus similar to a modern hi-hat stand. A standard size was , some with heavy bells up to wide.[3]
 
 Hi-hats that were raised and could be played by hand as well as foot may have been developed around 1926 by Barney Walberg of the drum accessory company Walberg and Auge.[4] The first recognized master[5] of the new instrument was "Papa" Jo Jones, whose playing of timekeeping "ride" rhythms while striking the hi-hat as it opened and closed inspired the innovation of the ride cymbal. Another claim, published in Jazz Profiles Blogspot on August 8, 2008, to the invention of the hi-hat is attributed to drummer William "O'Neil" Spencer (b.1909-d.1944). Legendary Jazz drummer, "Philly Jo Jones" (born as Joseph Rudolph Jones, b.1923-d.1985), was quoted describing his understanding about the hi-hat history. Jones said, "I really dug O'Neil. He came to club in Philadelphia where I was working in 1943, I think it was, and talked to me about the hi-hat. I was using a foot cymbal, the low-hat. O'Neil was the one who invented the hi-hat. I believe that, man. He suggested I close the hat on '2' and '4' when playing 4/4 time. The idea seemed so right hadn't heard anyone do that before."[6] The editor of the 2008 Jazz Profiles article made specific mention to others who are thought to invent the hi-hat, including Jo Jones, but also Kaiser Marshall. Not to take away from Papa Jones accomplishments in drumming style and technique, a 2013 Modern Drummer article credits Papa Jones with being the first to use brushes on drums and shifting time keeping from the bass drum to the hi-hat (providing a "swing-pulse focus").[7]
 
@@ -24,7 +24,7 @@ Drop-clutches are also used to lock and release hi-hats while both feet are in u
 
 Modern stands
 
-Hi-hat_stand_tilt_mechanisms.JPG Hi-hat_stand_spikes.PNG Hihat_rod_clutch_clamps_pedal.jpg Hihat_pedal.JPG The standard hi-hat features two cymbals mounted on a stand consisting of a mating metal tube and rod supported by a tripod and linked to a foot pedal. The stationary bottom cymbal sits atop the tube, typically perpendicular to the ground, but is but often fitted with an adjustment screw allowing it to be set slightly tilted. The top cymbal is mounted bell up on the rod and closed against the bottom by foot pressure on the pedal.
+The standard hi-hat features two cymbals mounted on a stand consisting of a mating metal tube and rod supported by a tripod and linked to a foot pedal. The stationary bottom cymbal sits atop the tube, typically perpendicular to the ground, but is but often fitted with an adjustment screw allowing it to be set slightly tilted. The top cymbal is mounted bell up on the rod and closed against the bottom by foot pressure on the pedal.
 
 An integrated clutch assembly includes a spring which may be adjusted to set resistance, which also varies rate and tension of return, as well as an adjustment for the gap between cymbals when open.[9]
 
@@ -59,7 +59,7 @@ An X-HAT is an adapter to allow a pair of hi-hat cymbals to be mounted in a clos
 
 Use
 
-Characteristic_rock_hi-hat_pattern.png Four-four_pattern_with_open_and_closed_hi-hats.png) ]] Hi-hat_crescendo.png" from closed to open leading to the ride cymbal[12] ]]
+) ]] " from closed to open leading to the ride cymbal[12] ]]
 
 When struck closed or played with the pedal, the hi-hat gives a short, crisp, muted percussive sound, referred to as a "chick". Adjusting the gap between the cymbals can alter the sound of the open hi-hat from a shimmering, sustained tone to something similar to a ride cymbal. When struck with a drumstick, the cymbals make either a short, snappy sound or a longer sustaining sandy sound depending on the position of the pedal.
 

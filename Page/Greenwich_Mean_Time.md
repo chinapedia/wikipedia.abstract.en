@@ -11,7 +11,7 @@ The term "GMT" is especially used by bodies connected with the United Kingdom, s
 
 History
 
-Greenwich_clock.jpg with standard measurements]]
+with standard measurements]]
 
 As the United Kingdom grew into an advanced maritime nation, British mariners kept at least one chronometer on GMT to calculate their longitude from the Greenwich meridian, which was by convention considered to have longitude zero degrees, adopted in the International Meridian Conference of 1884. Synchronisation of the chronometer on GMT did not affect shipboard time, which was still solar time. But this practice, combined with mariners from other nations drawing from Nevil Maskelyne's method of lunar distances based on observations at Greenwich, led to GMT being used worldwide as a standard time independent of location. Most time zones were based upon GMT, as an offset of a number of hours (and possibly half or quarter hours) "ahead of GMT" or "behind GMT".
 
@@ -88,7 +88,7 @@ Discrepancies between legal GMT and geographical GMT
            2 h ± 30 m ahead
            3 h ± 30 m ahead
 
-Tzdiff-Europe-winter.png Tzdiff-Europe-summer.png Since legal, political, social and economic criteria, in addition to physical or geographical criteria, are used in the drawing of time zones, actual time zones do not precisely adhere to meridian lines. The "GMT" time zone, were it drawn by purely geographical terms, would consist of the area between meridians 7°30'W and 7°30'E. As a result, there are European locales that despite lying in an area with a physical UTC time use another time zone (UTC+1 in particular); conversely, there are European areas that use UTC, even though their physical time zone is UTC−1 (e.g., most of Portugal), or UTC−2 (the westernmost part of Iceland). Because the UTC time zone in Europe is shifted to the west, Lowestoft in the United Kingdom, at only 1°45'E, is the easternmost settlement in Europe in which UTC is applied. Following is a list of the incongruencies:
+ Since legal, political, social and economic criteria, in addition to physical or geographical criteria, are used in the drawing of time zones, actual time zones do not precisely adhere to meridian lines. The "GMT" time zone, were it drawn by purely geographical terms, would consist of the area between meridians 7°30'W and 7°30'E. As a result, there are European locales that despite lying in an area with a physical UTC time use another time zone (UTC+1 in particular); conversely, there are European areas that use UTC, even though their physical time zone is UTC−1 (e.g., most of Portugal), or UTC−2 (the westernmost part of Iceland). Because the UTC time zone in Europe is shifted to the west, Lowestoft in the United Kingdom, at only 1°45'E, is the easternmost settlement in Europe in which UTC is applied. Following is a list of the incongruencies:
 
 Countries (or parts thereof) west of 22°30'W ("physical" UTC−2) that use UTC
 
@@ -105,7 +105,7 @@ Countries (or parts thereof) west of 7°30'W ("physical" UTC−1) that use UTC
 -   Iceland, including Reykjavík
 -   Northeastern part of Greenland, including Danmarkshavn
 
-Greenwich_mean_time_line.jpg indicates the prime meridian in Spain.]]
+indicates the prime meridian in Spain.]]
 
 Countries (mostly) between meridians 7°30'W and 7°30'E ("physical" UTC) that use UTC+1
 

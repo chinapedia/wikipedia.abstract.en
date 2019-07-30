@@ -1,13 +1,11 @@
-Refraction_-_Huygens-Fresnel_principle.svg in the manner of Huygens]]
-
-Refraction_on_an_aperture_-_Huygens-Fresnel_principle.svg
+in the manner of Huygens]]
 
 The HUYGENS–FRESNEL PRINCIPLE (named after Dutch physicist Christiaan Huygens and French physicist Augustin-Jean Fresnel) is a method of analysis applied to problems of wave propagation both in the far-field limit and in near-field diffraction and also reflection. It states that every point on a wavefront is itself the source of spherical wavelets.[1] The sum of these spherical wavelets forms the wavefront.
 
 
 History
 
-Wavelength=slitwidth.gif of a plane wave when the slit width equals the wavelength]] In 1678, Huygens[2] proposed that every point to which a luminous disturbance reaches becomes a source of a spherical wave; the sum of these secondary waves determines the form of the wave at any subsequent time. He assumed that the secondary waves travelled only in the "forward" direction and it is not explained in the theory why this is the case. He was able to provide a qualitative explanation of linear and spherical wave propagation, and to derive the laws of reflection and refraction using this principle, but could not explain the deviations from rectilinear propagation that occur when light encounters edges, apertures and screens, commonly known as diffraction effects.[3] The resolution of this error was finally explained by David A.B. Miller in 1991.[4] The resolution is that the source is a dipole (not the monopole assumed by Huygens), which cancels in the reflected direction.
+of a plane wave when the slit width equals the wavelength]] In 1678, Huygens[2] proposed that every point to which a luminous disturbance reaches becomes a source of a spherical wave; the sum of these secondary waves determines the form of the wave at any subsequent time. He assumed that the secondary waves travelled only in the "forward" direction and it is not explained in the theory why this is the case. He was able to provide a qualitative explanation of linear and spherical wave propagation, and to derive the laws of reflection and refraction using this principle, but could not explain the deviations from rectilinear propagation that occur when light encounters edges, apertures and screens, commonly known as diffraction effects.[3] The resolution of this error was finally explained by David A.B. Miller in 1991.[4] The resolution is that the source is a dipole (not the monopole assumed by Huygens), which cancels in the reflected direction.
 
 In 1818, Fresnel[5] showed that Huygens' principle, together with his own principle of interference could explain both the rectilinear propagation of light and also diffraction effects. To obtain agreement with experimental results, he had to include additional arbitrary assumptions about the phase and amplitude of the secondary waves, and also an obliquity factor. These assumptions have no obvious physical foundation but led to predictions that agreed with many experimental observations, including the Arago spot.
 
@@ -22,7 +20,7 @@ A simple example of the operation of the principle can be seen when an open door
 
 Mathematical expression of the principle
 
-Huygens-Fresnel_BW.svg Consider the case of a point source located at a point P₀, vibrating at a frequency _f_. The disturbance may be described by a complex variable _U_₀ known as the complex amplitude. It produces a spherical wave with wavelength λ, wavenumber _k_ = 2π/λ. The complex amplitude of the primary wave at the point Q located at a distance _r_₀ from P₀ is given by:
+Consider the case of a point source located at a point P₀, vibrating at a frequency _f_. The disturbance may be described by a complex variable _U_₀ known as the complex amplitude. It produces a spherical wave with wavelength λ, wavenumber _k_ = 2π/λ. The complex amplitude of the primary wave at the point Q located at a distance _r_₀ from P₀ is given by:
 
 $$U(r_0) = \frac {U_0 e^{ikr_0}}{r_0}$$
 

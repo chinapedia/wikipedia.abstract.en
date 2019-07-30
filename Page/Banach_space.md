@@ -293,7 +293,7 @@ Robert C. James characterized reflexivity in Banach spaces with a basis: the spa
 
 Tensor product
 
-Tensor-diagramB.jpg Let and be two -vector spaces. The tensor product of and is a -vector space with a bilinear mapping which has the following universal property:
+Let and be two -vector spaces. The tensor product of and is a -vector space with a bilinear mapping which has the following universal property:
 
     If is any bilinear mapping into a -vector space , then there exists a unique linear mapping such that _f_ ∘ _T_}}.
 

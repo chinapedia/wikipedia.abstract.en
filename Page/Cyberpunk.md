@@ -139,7 +139,7 @@ Social impact
 
 Art and architecture
 
-SonyCenterAtNight.jpg's Sony Center]]
+'s Sony Center]]
 
 Some Neo-Futurism artworks and cityscapes have been influenced by cyberpunk, such as[91] the Sony Center in the Potsdamer Platz public square of Berlin, Germany.[92]
 

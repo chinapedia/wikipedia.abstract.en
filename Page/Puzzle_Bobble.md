@@ -5,7 +5,7 @@ The characters and theme of the game are based on the 1986 arcade game _Bubble B
 
 Gameplay
 
-ARC_Puzzle_Bobble_(Bust-a-Move).png At the start of each round, the rectangular playing arena contains a prearranged pattern of colored "bubbles". (These are actually referred to in the translation as "balls"; however, they were clearly intended to be bubbles, since they pop, and are taken from _Bubble Bobble_.) At the bottom of the screen, the player controls a device called a "pointer", which aims and fires bubbles up the screen. The color of bubbles fired is randomly generated and chosen from the colors of bubbles still left on the screen.
+At the start of each round, the rectangular playing arena contains a prearranged pattern of colored "bubbles". (These are actually referred to in the translation as "balls"; however, they were clearly intended to be bubbles, since they pop, and are taken from _Bubble Bobble_.) At the bottom of the screen, the player controls a device called a "pointer", which aims and fires bubbles up the screen. The color of bubbles fired is randomly generated and chosen from the colors of bubbles still left on the screen.
 
 The fired bubbles travel in straight lines (possibly bouncing off the side walls of the arena), stopping when they touch other bubbles or reach the top of the arena. If a bubble touches identically-colored bubbles, forming a group of three or more, those bubbles—as well as any bubbles hanging from them—are removed from the field of play, and points are awarded.
 

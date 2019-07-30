@@ -20,7 +20,7 @@ There is also a more specific use of "French horn" to describe a particular horn
 
 History
 
-French-horn.png]] How_to_shout_and_blow_Horns_Fac_simile_of_a_Miniature_in_the_Manuscript_of_Phoebus_Fifteenth_Century.png (15th century)]]
+]] (15th century)]]
 
 As the name indicates, humans originally used to blow on the actual horns of animals before starting to emulate them in metal. This original usage survives in the shofar, a ram's horn, which plays an important role in Jewish religious rituals.
 
@@ -39,7 +39,7 @@ In English, the term "French horn" is often used.[16] Nevertheless, the Internat
 
 Types
 
-Horns may be classified in single horn, double horn, compensating double horn, and triple horn as well as the versatility of detachable bells. Yamaha_Horn_YHR-314II.tif
+Horns may be classified in single horn, double horn, compensating double horn, and triple horn as well as the versatility of detachable bells.
 
 Single horn
 
@@ -49,7 +49,7 @@ Dennis Brain's benchmark recordings of the Mozart Horn Concerti were made on a s
 
 Double horn
 
-French_horn_detail.jpg of a Conn 6D double horn. The three lever keys (above the large valves) can be depressed toward the large outer tube. The thumb key (_near the left-most valve_) moves inward toward the three finger keys.]] Scheme of a double horn (_view from underneath_) Despite the introduction of valves, the single F horn proved difficult for use in the highest range, where the partials grew closer and closer, making accuracy a great challenge. An early solution was simply to use a horn of higher pitch—usually B. The use of the F versus the B horn was extensively debated among horn players of the late 19th century, until the German horn maker Ed. Kruspe (namesake of his family's brass instrument firm) produced a prototype of the "double horn" in 1897.
+of a Conn 6D double horn. The three lever keys (above the large valves) can be depressed toward the large outer tube. The thumb key (_near the left-most valve_) moves inward toward the three finger keys.]] Despite the introduction of valves, the single F horn proved difficult for use in the highest range, where the partials grew closer and closer, making accuracy a great challenge. An early solution was simply to use a horn of higher pitch—usually B. The use of the F versus the B horn was extensively debated among horn players of the late 19th century, until the German horn maker Ed. Kruspe (namesake of his family's brass instrument firm) produced a prototype of the "double horn" in 1897.
 
 The double horn also combines two instruments into a single frame: the original horn in F, and a second, higher horn keyed in B. By using a fourth valve (usually operated by the thumb), the horn player can quickly switch from the deep, warm tones of the F horn to the higher, brighter tones of the B horn, or vice versa, as the horn player may choose to have the horn set into B by default by making a simple adjustment to the valves. The two sets of tones are commonly called "sides" of the horn. Using the fourth valve not only changes the basic length (and thus the harmonic series and pitch) of the instrument, it also causes the three main valves to use proportionate slide lengths.[19]
 
@@ -68,11 +68,11 @@ The variety in horn history necessitates consideration of the natural horn, Vien
 
 Natural horn
 
-Natural_Horn_(instrument).JPG The natural horn is the ancestor of the modern horn. It is essentially descended from hunting horns, with its pitch controlled by air speed, aperture (opening of the lips through which air passes) and the use of the right hand moving around, as well as in and out of the bell. Although a few recent composers have written specifically for the natural horn (e.g., György Ligeti's _Hamburg Concerto_), today it is played primarily as a period instrument. The natural horn can only play from a single harmonic series at a time because there is only one length of tubing available to the horn player. A proficient player can indeed alter the pitch by partially muting the bell with the right hand, thus enabling the player to reach some notes that are not part of the instrument's natural harmonic series – of course this technique also affects the quality of the tone. The player has a choice of key by using crooks to change the length of tubing.[20]
+The natural horn is the ancestor of the modern horn. It is essentially descended from hunting horns, with its pitch controlled by air speed, aperture (opening of the lips through which air passes) and the use of the right hand moving around, as well as in and out of the bell. Although a few recent composers have written specifically for the natural horn (e.g., György Ligeti's _Hamburg Concerto_), today it is played primarily as a period instrument. The natural horn can only play from a single harmonic series at a time because there is only one length of tubing available to the horn player. A proficient player can indeed alter the pitch by partially muting the bell with the right hand, thus enabling the player to reach some notes that are not part of the instrument's natural harmonic series – of course this technique also affects the quality of the tone. The player has a choice of key by using crooks to change the length of tubing.[20]
 
 Vienna horn
 
-Viennese_horn.jpg The Vienna horn is a special horn used primarily in Vienna, Austria. Instead of using rotary valves or piston valves, it uses the pumpenvalve (or Vienna valve), which is a double-piston operating inside the valve slides, and usually situated on the opposite side of the corpus from the player's left hand, and operated by a long pushrod. Unlike the modern horn, which has grown considerably larger internally (for a bigger, broader, and louder tone), and considerably heavier (with the addition of valves and tubing in the case of the double horn) the Vienna horn very closely mimics the size and weight of the natural horn, (although the valves do add some weight, they are lighter than rotary valves) even using crooks in the front of the horn, between the mouthpiece and the instrument. Although instead of the full range of keys, Vienna horn players usually use an F crook and it is looked down upon to use others, though switching to an A or B crook for higher pitched music does happen on occasion. Vienna horns are often used with funnel shaped mouthpieces similar to those used on the natural horn, with very little (if any) backbore and a very thin rim. The Viennese horn requires very specialized technique and can be quite challenging to play, even for accomplished players of modern horns. The Vienna horn has a warmer, softer sound than the modern horn. Its pumpenvalves facilitate a continuous transition between notes (glissando); conversely, a more precise operating of the valves is required to avoid notes that sound out of tune.
+The Vienna horn is a special horn used primarily in Vienna, Austria. Instead of using rotary valves or piston valves, it uses the pumpenvalve (or Vienna valve), which is a double-piston operating inside the valve slides, and usually situated on the opposite side of the corpus from the player's left hand, and operated by a long pushrod. Unlike the modern horn, which has grown considerably larger internally (for a bigger, broader, and louder tone), and considerably heavier (with the addition of valves and tubing in the case of the double horn) the Vienna horn very closely mimics the size and weight of the natural horn, (although the valves do add some weight, they are lighter than rotary valves) even using crooks in the front of the horn, between the mouthpiece and the instrument. Although instead of the full range of keys, Vienna horn players usually use an F crook and it is looked down upon to use others, though switching to an A or B crook for higher pitched music does happen on occasion. Vienna horns are often used with funnel shaped mouthpieces similar to those used on the natural horn, with very little (if any) backbore and a very thin rim. The Viennese horn requires very specialized technique and can be quite challenging to play, even for accomplished players of modern horns. The Vienna horn has a warmer, softer sound than the modern horn. Its pumpenvalves facilitate a continuous transition between notes (glissando); conversely, a more precise operating of the valves is required to avoid notes that sound out of tune.
 
 Mellophone
 
@@ -95,8 +95,6 @@ The Wagner tuba is a rare brass instrument that is essentially a horn modified t
 
 Repertoire
 
-Paxman-horns.jpg
-
 Discussion of the repertoire of horns must recognize the different needs of orchestras and concert bands in contrast to marching bands, as above, but also the use of horns in a wide variety of music, including chamber music and jazz.
 
 Orchestra and concert band
@@ -114,7 +112,7 @@ There is an abundance of chamber music repertoire for horn. It is a standard mem
 
 Orchestral and concert band horns
 
-DSC_8763_(7084102945).jpg]] A classical orchestra usually has at least two French horn players. Typically, the first horn played a high part and the second horn played a low part. Composers from Beethoven (early 1800s) onwards commonly used four horns. Here, the first and second horns played as a pair (first horn being high, second horn being low), and the third and fourth horns played as another pair (third horn being high, fourth horn being low).
+]] A classical orchestra usually has at least two French horn players. Typically, the first horn played a high part and the second horn played a low part. Composers from Beethoven (early 1800s) onwards commonly used four horns. Here, the first and second horns played as a pair (first horn being high, second horn being low), and the third and fourth horns played as another pair (third horn being high, fourth horn being low).
 
 Music written for the modern horn follows a similar pattern with the first and third horns being high and the second and fourth horns being low. This configuration serves multiple purposes. It is easier to play high when the adjacent player is playing low and vice versa. Pairing makes it easier to write for horns, as the third and fourth horns can take over from the first and second horns or play contrasting material. For example, if the piece is in C minor, the first and second horns might be in C, the tonic major key, which could get most of the notes, and the third and fourth horns might be in E, the relative major key, to fill in the gaps.
 

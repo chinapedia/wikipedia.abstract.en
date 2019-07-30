@@ -1,5 +1,3 @@
-Gardner's_Book_of_Shadows_front.JPG
-
 GARDNERIAN WICCA, or GARDNERIAN WITCHCRAFT, is a tradition in the neopagan religion of Wicca, whose members can trace initiatory descent from Gerald Gardner.[1] The tradition is itself named after Gardner (1884–1964), a British civil servant and amateur scholar of magic. The term "Gardnerian" was probably coined by the founder of Cochranian Witchcraft, Robert Cochrane in the 1950s or 60s, who himself left that tradition to found his own.[2]
 
 Gardner claimed to have learned the beliefs and practises that would later become known as Gardnerian Wicca from the New Forest coven, who allegedly initiated him into their ranks in 1939. For this reason, Gardnerian Wicca is usually considered to be the earliest created tradition of Wicca, from which most subsequent Wiccan traditions are derived.

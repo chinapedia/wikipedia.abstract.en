@@ -10,7 +10,7 @@ There are 22 satellites in usable condition (satellite is operational and contri
 
 History
 
-Nábřeží_Kapitána_Jaroše,_budova_Galileo.jpg]]
+]]
 
 Main objectives
 
@@ -26,7 +26,7 @@ The European Union and the European Space Agency agreed in March 2002 to fund th
 
 Tension with the United States
 
-Galileo_-_Wolfowitz_-_Letter.png Paul Wolfowitz to the Ministers of the EU states as part of the US-lobbying campaign against Galileo]]
+Paul Wolfowitz to the Ministers of the EU states as part of the US-lobbying campaign against Galileo]]
 
 Galileo is intended to be an EU civilian GNSS that allows all users access to it. Initially GPS reserved the highest quality signal for military use, and the signal available for civilian use was intentionally degraded (Selective Availability). This changed with President Bill Clinton signing a policy directive in 1996 to turn off Selective Availability. Since May 2000 the same precision signal has been provided to both civilians and the military.[26]
 
@@ -76,7 +76,7 @@ In July 2010, the European Commission estimated further delays and additional co
 
 In December 2010, EU ministers in Brussels voted Prague, in the Czech Republic, as the headquarters of the Galileo project.[50]
 
-In January 2011, infrastructure costs up to 2020 were estimated at €5.3 billion. In that same month, Wikileaks revealed that Berry Smutny, the CEO of the German satellite company OHB-System, said that Galileo "is a stupid idea that primarily serves French interests".[51] The BBC learned in 2011 that €500 million (£440M) would become available to make the extra purchase, taking Galileo within a few years from 18 operational satellites to 24.[52] Galileo_launch_on_Soyuz,_21_Oct_2011_(6266227357).jpg rocket, 21 October 2011]] The first two Galileo In-Orbit Validation satellites were launched by Soyuz ST-B flown from Guiana Space Centre on 21 October 2011,[53] and the remaining two on 12 October 2012.[54]
+In January 2011, infrastructure costs up to 2020 were estimated at €5.3 billion. In that same month, Wikileaks revealed that Berry Smutny, the CEO of the German satellite company OHB-System, said that Galileo "is a stupid idea that primarily serves French interests".[51] The BBC learned in 2011 that €500 million (£440M) would become available to make the extra purchase, taking Galileo within a few years from 18 operational satellites to 24.[52] rocket, 21 October 2011]] The first two Galileo In-Orbit Validation satellites were launched by Soyuz ST-B flown from Guiana Space Centre on 21 October 2011,[53] and the remaining two on 12 October 2012.[54]
 
 Twenty-two further satellites with Full Operational Capability (FOC) were on order . The first four pairs of satellites were launched on 22 August 2014, 27 March 2015, 11 September 2015 and 17 December 2015.[55]
 
@@ -116,7 +116,7 @@ System description
 
 Space segment
 
-Galileo_sat_constallation.gif As of 2012,[89] the system is scheduled to reach full operation in 2020 with the following specifications:
+As of 2012,[89] the system is scheduled to reach full operation in 2020 with the following specifications:
 
 -   30 in-orbit spacecraft (24 in full service and 6 spares)
 -   Orbital altitude: 23,222 km (MEO)
@@ -129,7 +129,7 @@ Galileo_sat_constallation.gif As of 2012,[89] the system is scheduled to reach f
 
 Ground segment
 
-Galileo_IOT_L-band_antenna_at_Redu_ESA219283.jpg Redu Station]]
+Redu Station]]
 
 The system's orbit and signal accuracy is controlled by a ground segment consisting of:
 
@@ -164,8 +164,6 @@ Search and rescue: System will pick up distress beacon locations; feasible to se
 Other secondary services will also be available.
 
 Concept
-
-ESA_Galileo_Passive_Hydrogen_Maser.jpg
 
 Each Galileo satellite has two master passive hydrogen maser atomic clocks and two secondary rubidium atomic clocks which are independent of one other.[91][92] As precise and stable space-qualified atomic clocks are critical components to any satellite-navigation system, the employed quadruple redundancy keeps Galileo functioning when onboard atomic clocks fail in space. The onboard passive hydrogen maser clocks' precision is four times better than the onboard rubidium atomic clocks and estimated at 1 second per 3 million years (a timing error of a nanosecond or 1 billionth of a second (10^(−9) or ¹/_(1,000,000,000) s) translates into a positional error on Earth's surface), and will provide an accurate timing signal to allow a receiver to calculate the time that it takes the signal to reach it.[93][94][95] The Galileo satellites are configured to run one hydrogen maser clock in primary mode and a rubidium clock as hot backup. Under normal conditions, the operating hydrogen maser clock produces the reference frequency from which the navigation signal is generated. Should the hydrogen maser encounter any problem, an instantaneous switchover to the rubidium clock would be performed. In case of a failure of the primary hydrogen maser the secondary hydrogen maser could be activated by the ground segment to take over within a period of days as part of the redundant system. A clock monitoring and control unit provides the interface between the four clocks and the navigation signal generator unit (NSU). It passes the signal from the active hydrogen master clock to the NSU and also ensures that the frequencies produced by the master clock and the active spare are in phase, so that the spare can take over instantly should the master clock fail. The NSU information is used to calculate the position of the receiver by trilaterating the difference in received signals from multiple satellites.
 
@@ -204,7 +202,7 @@ Constellation
 
 Galileo satellite test beds: GIOVE
 
-Giovea.jpg was successfully launched 28 December 2005]] In 2004 the Galileo System Test Bed Version 1 (GSTB-V1) project validated the on-ground algorithms for Orbit Determination and Time Synchronisation (OD&TS). This project, led by ESA and European Satellite Navigation Industries, has provided industry with fundamental knowledge to develop the mission segment of the Galileo positioning system.[99]
+was successfully launched 28 December 2005]] In 2004 the Galileo System Test Bed Version 1 (GSTB-V1) project validated the on-ground algorithms for Orbit Determination and Time Synchronisation (OD&TS). This project, led by ESA and European Satellite Navigation Industries, has provided industry with fundamental knowledge to develop the mission segment of the Galileo positioning system.[99]
 
 -   GIOVE-A is the first GIOVE (Galileo In-Orbit Validation Element) test satellite. It was built by Surrey Satellite Technology Ltd (SSTL), and successfully launched on 28 December 2005 by the European Space Agency and the Galileo Joint. Operation of GIOVE-A ensured that Galileo meets the frequency-filing allocation and reservation requirements for the International Telecommunication Union (ITU), a process that was required to be complete by June 2006.
 -   GIOVE-B, built by Astrium and Thales Alenia Space, has a more advanced payload than GIOVE-A. It was successfully launched on 27 April 2008 at 22:16 UTC (4.16 am Baikonur time) aboard a Soyuz-FG/Fregat rocket provided by Starsem.
@@ -264,7 +262,7 @@ These applications will help to increase and optimise the use of the EGNOS servi
 
 Receivers
 
-Galileo_in_smartphones_ESA385423.jpg smartphones receiving Galileo and other GNSS signals]]
+smartphones receiving Galileo and other GNSS signals]]
 
 All major GNSS receiver chips support Galileo and hundreds of end-user devices are compatible with Galileo.[138] The first, dual-frequency GNSS (tracks more than one radio signal from each satellite, E1 and E5a frequencies for Galileo) capable Android devices were the Huawei Mate 20 line, Xiaomi Mi 8, Xiaomi Mi 9 and Xiaomi Mi MIX 3.[139][140][141] , there were more than 140 Galileo-enabled smartphones on the market of which 9 were dual-frequency enabled.[142] On 24 December 2018, the European Commission passed a mandate for all new smartphones to implement Galileo for E112 support.[143]
 
@@ -274,7 +272,7 @@ Until late 2018, Galileo was not authorized for use in the United States, and as
 
 Coins
 
-2006_Austria_25_Euro_European_Satellite_Navigation_back.jpg, back]]
+, back]]
 
 The European Satellite Navigation project was selected as the main motif of a very high-value collectors' coin: the Austrian European Satellite Navigation commemorative coin, minted on 1 March 2006. The coin has a silver ring and gold-brown niobium "pill". In the reverse, the niobium portion depicts navigation satellites orbiting the Earth. The ring shows different modes of transport, for which satellite navigation was developed: an airplane, a car, a lorry, a train and a container ship.
 

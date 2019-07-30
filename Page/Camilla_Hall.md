@@ -3,7 +3,7 @@ CAMILLA CHRISTINE HALL (March 24, 1945 - May 17, 1974) was an artist, college tr
 
 Early life
 
-Camilla_Hall_as_a_child.jpg On March 24, 1945, Camilla Christine Hall was born in Saint Peter, Minnesota.[1] Her parents, George Fridolph Hall (1908-2000) and Lorena Daeschner Hall (1911-1995), worked at Gustavus Adolphus College in Saint Peter, Minnesota from 1938-1952. In addition, her father was a minister in the Augustana Evangelical Lutheran Church, Lutheran Church in America, and later the Evangelical Lutheran Church in America. Her mother, Lorena (Daeschner) Hall, helped found Gustavus Adolphus College's Art Department and served as the department head.[2] Camilla Hall was the only surviving child of four; two of her siblings died of a kidney disorder, Peter and Nan, and a third, Terry, of congenital heart disease.[3][4]
+On March 24, 1945, Camilla Christine Hall was born in Saint Peter, Minnesota.[1] Her parents, George Fridolph Hall (1908-2000) and Lorena Daeschner Hall (1911-1995), worked at Gustavus Adolphus College in Saint Peter, Minnesota from 1938-1952. In addition, her father was a minister in the Augustana Evangelical Lutheran Church, Lutheran Church in America, and later the Evangelical Lutheran Church in America. Her mother, Lorena (Daeschner) Hall, helped found Gustavus Adolphus College's Art Department and served as the department head.[2] Camilla Hall was the only surviving child of four; two of her siblings died of a kidney disorder, Peter and Nan, and a third, Terry, of congenital heart disease.[3][4]
 
 In 1952, the Hall family moved to what is now Tanzania in East Africa. George and Lorena Hall taught in schools and did mission work, while Camilla and Nan played with the native children.[5] In 1954, when Camilla was nine, the family moved back to Saint Peter, because of seven-year-old Nan's poor health. While Camilla Hall attended elementary school in Minnesota, the family moved to Montclair, New Jersey until Hall was to start high school.
 
@@ -24,7 +24,7 @@ In June 1968, Hall returned to Minneapolis, Minnesota and worked as a caseworker
 
 In California
 
-Camilla_Hall_with_her_art.jpg In November 1969, Hall moved to Topanga, a northern suburb of Los Angeles, California.[21] In March, she moved into Los Angeles proper in west Los Angeles. According to Rachael Hanel, "She lived off her savings, interest income from a trust, money from her parents, and selling her simple, Rubenesque line drawings."[22] Even though Hall didn't express dissatisfaction at being an artist, she decided to move again.
+In November 1969, Hall moved to Topanga, a northern suburb of Los Angeles, California.[21] In March, she moved into Los Angeles proper in west Los Angeles. According to Rachael Hanel, "She lived off her savings, interest income from a trust, money from her parents, and selling her simple, Rubenesque line drawings."[22] Even though Hall didn't express dissatisfaction at being an artist, she decided to move again.
 
 Hall moved to Berkeley in February 1971. In May 1971, Hall moved into an apartment complex on Channing Way where she met Patricia Soltysik.[23] Previous to this relationship, Hall had not lived publicly in a lesbian relationship.[24] Patricia Soltysik was the object of Hall's love poem named "Mizmoon".[25][26]
 
@@ -33,7 +33,7 @@ In Berkeley, Hall continued being politically active. She was one of the activis
 
 LA Shootout
 
-Camilla_Hall.jpg Hall died in a shootout (May 17, 1974) with police in which five other SLA members were killed. As their hideout burned, Hall and fellow SLA member Nancy Ling Perry exited from the back door. Police claimed that Perry came out firing a revolver while Hall was firing an automatic pistol. Police shot them immediately, killing both. Perry was shot twice. One shot hit her right lung, the other shot severed her spine. Hall was shot once in the forehead. Her body was pulled back into the burning house by SLA member Angela Atwood, who also died.
+Hall died in a shootout (May 17, 1974) with police in which five other SLA members were killed. As their hideout burned, Hall and fellow SLA member Nancy Ling Perry exited from the back door. Police claimed that Perry came out firing a revolver while Hall was firing an automatic pistol. Police shot them immediately, killing both. Perry was shot twice. One shot hit her right lung, the other shot severed her spine. Hall was shot once in the forehead. Her body was pulled back into the burning house by SLA member Angela Atwood, who also died.
 
 Investigators working for Hall's parents claimed that Perry had come walking out of the house intending to surrender.[29]
 

@@ -1,4 +1,4 @@
-AttilatheHunonhorsebackbyGeorgeSStuart.jpg created from his physical description mentioned in historical records.]] ATTILA (; fl. c. 406–453), frequently called ATTILA THE HUN, was the ruler of the Huns from 434 until his death in March 453. He was also the leader of a tribal empire consisting of Huns, Ostrogoths, and Alans among others, in Central and Eastern Europe.
+created from his physical description mentioned in historical records.]] ATTILA (; fl. c. 406–453), frequently called ATTILA THE HUN, was the ruler of the Huns from 434 until his death in March 453. He was also the leader of a tribal empire consisting of Huns, Ostrogoths, and Alans among others, in Central and Eastern Europe.
 
 During his reign, he was one of the most feared enemies of the Western and Eastern Roman Empires. He crossed the Danube twice and plundered the Balkans, but was unable to take Constantinople. His unsuccessful campaign in Persia was followed in 441 by an invasion of the Eastern Roman (Byzantine) Empire, the success of which emboldened Attila to invade the West. He also attempted to conquer Roman Gaul (modern France), crossing the Rhine in 451 and marching as far as Aurelianum (Orléans) before being defeated at the Battle of the Catalaunian Plains.
 
@@ -7,14 +7,14 @@ He subsequently invaded Italy, devastating the northern provinces, but was unabl
 
 Appearance and character
 
-Attila_Museum.JPG There is no surviving first-hand account of Attila's appearance, but there is a possible second-hand source provided by Jordanes, who cites a description given by Priscus.
+There is no surviving first-hand account of Attila's appearance, but there is a possible second-hand source provided by Jordanes, who cites a description given by Priscus.
 
 Some scholars have suggested that this description is typically East Asian, because it has all the combined features that fit the physical type of people from Eastern Asia, and Attila's ancestors may have come from there. Other historians also believed that the same descriptions were also evident on some Scythian people.[1][2]
 
 
 Etymology
 
-Eugene_Ferdinand_Victor_Delacroix_Attila_fragment.jpg (1798–1863)]]
+(1798–1863)]]
 
 Many scholars have argued that Attila derives from East Germanic origin; _Attila_ is formed from the Gothic or Gepidic noun _atta_, "father", by means of the diminutive suffix _-ila_, meaning "little father". The Gothic etymology was first proposed by Jacob and Wilhelm Grimm in the early 19th century. Maenchen-Helfen notes that this derivation of the name "offers neither phonetic nor semantic difficulties", and Gerhard Doerfer notes that the name is simply correct Gothic. The name has sometimes been interpreted as a Germanization of a name of Hunnic origin.
 
@@ -38,7 +38,7 @@ Archaeological investigation has uncovered some details about the lifestyle, art
 
 Early life and background
 
-Hunnen.jpg. An 1870s engraving after a drawing by Johann Nepomuk Geiger (1805–1880).]] The Huns were a group of Eurasian nomads, appearing from east of the Volga, who migrated further into Western Europe c. 370 and built up an enormous empire there. Their main military techniques were mounted archery and javelin throwing. They were in the process of developing settlements before their arrival in Western Europe, yet the Huns were a society of pastoral warriors whose primary form of nourishment was meat and milk, products of their herds.
+. An 1870s engraving after a drawing by Johann Nepomuk Geiger (1805–1880).]] The Huns were a group of Eurasian nomads, appearing from east of the Volga, who migrated further into Western Europe c. 370 and built up an enormous empire there. Their main military techniques were mounted archery and javelin throwing. They were in the process of developing settlements before their arrival in Western Europe, yet the Huns were a society of pastoral warriors whose primary form of nourishment was meat and milk, products of their herds.
 
 The origin and language of the Huns has been the subject of debate for centuries. According to some theories, their leaders at least may have spoken a Turkic language, perhaps closest to the modern Chuvash language. One scholar suggests a relationship to Yeniseian. According to the _Encyclopedia of European Peoples_, "the Huns, especially those who migrated to the west, may have been a combination of central Asian Turkic, Mongolic, and Ugric stocks".
 
@@ -51,7 +51,7 @@ The Huns dominated a vast territory with nebulous borders determined by the will
 
 Campaigns against the Eastern Roman Empire
 
-Huns450.png The death of Rugila (also known as Rua or Ruga) in 434 left the sons of his brother Mundzuk, Attila and Bleda, in control of the united Hun tribes. At the time of the two brothers' accession, the Hun tribes were bargaining with Eastern Roman Emperor Theodosius II's envoys for the return of several renegades who had taken refuge within the Eastern Roman Empire, possibly Hunnic nobles who disagreed with the brothers' assumption of leadership.
+The death of Rugila (also known as Rua or Ruga) in 434 left the sons of his brother Mundzuk, Attila and Bleda, in control of the united Hun tribes. At the time of the two brothers' accession, the Hun tribes were bargaining with Eastern Roman Emperor Theodosius II's envoys for the return of several renegades who had taken refuge within the Eastern Roman Empire, possibly Hunnic nobles who disagreed with the brothers' assumption of leadership.
 
 The following year, Attila and Bleda met with the imperial legation at Margus (Požarevac), all seated on horseback in the Hunnic manner, and negotiated an advantageous treaty. The Romans agreed to return the fugitives, to double their previous tribute of 350 Roman pounds (c. 115 kg) of gold, to open their markets to Hunnish traders, and to pay a ransom of eight _solidi_ for each Roman taken prisoner by the Huns. The Huns, satisfied with the treaty, decamped from the Roman Empire and returned to their home in the Great Hungarian Plain, perhaps to consolidate and strengthen their empire. Theodosius used this opportunity to strengthen the walls of Constantinople, building the city's first sea wall, and to build up his border defenses along the Danube.
 
@@ -74,14 +74,14 @@ Their demands were met for a time, and the Hun kings withdrew into the interior 
 
 Solitary kingship
 
-MorThanFeastofAttila.jpg's painting _The Feast of Attila_, based on a fragment of Priscus]] In 447, Attila again rode south into the Eastern Roman Empire through Moesia. The Roman army, under Gothic _magister militum_ Arnegisclus, met him in the Battle of the Utus and was defeated, though not without inflicting heavy losses. The Huns were left unopposed and rampaged through the Balkans as far as Thermopylae.
+'s painting _The Feast of Attila_, based on a fragment of Priscus]] In 447, Attila again rode south into the Eastern Roman Empire through Moesia. The Roman army, under Gothic _magister militum_ Arnegisclus, met him in the Battle of the Utus and was defeated, though not without inflicting heavy losses. The Huns were left unopposed and rampaged through the Balkans as far as Thermopylae.
 
 Constantinople itself was saved by the Isaurian troops of _magister militum per Orientem_ Zeno and protected by the intervention of prefect Constantinus, who organized the reconstruction of the walls that had been previously damaged by earthquakes and, in some places, to construct a new line of fortification in front of the old. An account of this invasion survives:
 
 
 In the west
 
-Attila_in_Gaul_451CE.svg]] In 450, Attila proclaimed his intent to attack the Visigoth kingdom of Toulouse by making an alliance with Emperor Valentinian III. He had previously been on good terms with the Western Roman Empire and its influential general Flavius Aëtius. Aëtius had spent a brief exile among the Huns in 433, and the troops that Attila provided against the Goths and Bagaudae had helped earn him the largely honorary title of _magister militum_ in the west. The gifts and diplomatic efforts of Geiseric, who opposed and feared the Visigoths, may also have influenced Attila's plans.
+]] In 450, Attila proclaimed his intent to attack the Visigoth kingdom of Toulouse by making an alliance with Emperor Valentinian III. He had previously been on good terms with the Western Roman Empire and its influential general Flavius Aëtius. Aëtius had spent a brief exile among the Huns in 433, and the troops that Attila provided against the Goths and Bagaudae had helped earn him the largely honorary title of _magister militum_ in the west. The gifts and diplomatic efforts of Geiseric, who opposed and feared the Visigoths, may also have influenced Attila's plans.
 
 However, Valentinian's sister was Honoria, who had sent the Hunnish king a plea for help—and her engagement ring—in order to escape her forced betrothal to a Roman senator in the spring of 450. Honoria may not have intended a proposal of marriage, but Attila chose to interpret her message as such. He accepted, asking for half of the western Empire as dowry.
 
@@ -98,7 +98,7 @@ The two armies clashed in the Battle of the Catalaunian Plains, the outcome of w
 
 Invasion of Italy and death
 
-Leoattila-Raphael.jpg's _The Meeting between Leo the Great and Attila_ depicts Leo, escorted by Saint Peter and Saint Paul, meeting with the Hun emperor outside Rome.]] Attila returned in 452 to renew his marriage claim with Honoria, invading and ravaging Italy along the way. Communities became established in what would later become Venice as a result of these attacks when the residents fled to small islands in the Venetian Lagoon. His army sacked numerous cities and razed Aquileia so completely that it was afterwards hard to recognize its original site. Aëtius lacked the strength to offer battle, but managed to harass and slow Attila's advance with only a shadow force. Attila finally halted at the River Po. By this point, disease and starvation may have taken hold in Attila's camp, thus hindering his war efforts and potentially contributing to the cessation of invasion.[5]
+'s _The Meeting between Leo the Great and Attila_ depicts Leo, escorted by Saint Peter and Saint Paul, meeting with the Hun emperor outside Rome.]] Attila returned in 452 to renew his marriage claim with Honoria, invading and ravaging Italy along the way. Communities became established in what would later become Venice as a result of these attacks when the residents fled to small islands in the Venetian Lagoon. His army sacked numerous cities and razed Aquileia so completely that it was afterwards hard to recognize its original site. Aëtius lacked the strength to offer battle, but managed to harass and slow Attila's advance with only a shadow force. Attila finally halted at the River Po. By this point, disease and starvation may have taken hold in Attila's camp, thus hindering his war efforts and potentially contributing to the cessation of invasion.[5]
 
 Emperor Valentinian III sent three envoys, the high civilian officers Gennadius Avienus and Trigetius, as well as the Bishop of Rome Leo I, who met Attila at Mincio in the vicinity of Mantua and obtained from him the promise that he would withdraw from Italy and negotiate peace with the Emperor. Prosper of Aquitaine gives a short description of the historic meeting, but gives all the credit to Leo for the successful negotiation. Priscus reports that superstitious fear of the fate of Alaric gave him pause—as Alaric died shortly after sacking Rome in 410.
 
@@ -108,7 +108,7 @@ Furthermore, an East Roman force had crossed the Danube under the command of ano
 
 Death
 
-Ulpiano_Checa_La_invasión_de_los_bárbaros.jpg, led by Attila, invade Italy (_Attila, the Scourge of God_, by Ulpiano Checa, 1887).]] Marcian was the successor of Theodosius, and he had ceased paying tribute to the Huns in late 450 while Attila was occupied in the west. Multiple invasions by the Huns and others had left the Balkans with little to plunder. After Attila left Italy and returned to his palace across the Danube, he planned to strike at Constantinople again and reclaim the tribute which Marcian had stopped. However, he died in the early months of 453.
+, led by Attila, invade Italy (_Attila, the Scourge of God_, by Ulpiano Checa, 1887).]] Marcian was the successor of Theodosius, and he had ceased paying tribute to the Huns in late 450 while Attila was occupied in the west. Multiple invasions by the Huns and others had left the Balkans with little to plunder. After Attila left Italy and returned to his palace across the Danube, he planned to strike at Constantinople again and reclaim the tribute which Marcian had stopped. However, he died in the early months of 453.
 
 The conventional account from Priscus says that Attila was at a feast celebrating his latest marriage, this time to the beautiful young Ildico (the name suggests Gothic or Ostrogoth origins). In the midst of the revels, however, he suffered a severe nosebleed and choked to death in a stupor. An alternative theory is that he succumbed to internal bleeding after heavy drinking, possibly a condition called esophageal varices, where dilated veins in the lower part of the esophagus rupture leading to death by hemorrhage.
 
@@ -121,7 +121,7 @@ Attila's many children and relatives are known by name and some even by deeds, b
 
 Later folklore and iconography
 
-Chronicon_Pictum_P016_Attila_és_Leó_pápa.JPG, c. 1360]] Attila himself is said to have claimed the titles "Descendant of the Great Nimrod", and "King of the Huns, the Goths, the Danes, and the Medes"—the last two peoples being mentioned to show the extent of his control over subject nations even on the peripheries of his domain.
+, c. 1360]] Attila himself is said to have claimed the titles "Descendant of the Great Nimrod", and "King of the Huns, the Goths, the Danes, and the Medes"—the last two peoples being mentioned to show the extent of his control over subject nations even on the peripheries of his domain.
 
 Jordanes embellished the report of Priscus, reporting that Attila had possessed the "Holy War Sword of the Scythians", which was given to him by Mars and made him a "prince of the entire world".
 

@@ -1,4 +1,4 @@
-Cocacola-5cents-1900_edit1.jpg advertisement from the 1890s]]
+advertisement from the 1890s]]
 
 ADVERTISING is a marketing communication that employs an openly sponsored, non-personal message to promote or sell a product, service or idea.[1] Sponsors of advertising are typically businesses wishing to promote their products or services. Advertising is differentiated from public relations in that an advertiser pays for and has control over the message. It differs from personal selling in that the message is non-personal, i.e., not directed to a particular individual.[2] Advertising is communicated through various mass media,[3] including traditional media such as newspapers, magazines, television, radio, outdoor advertising or direct mail; and new media such as search results, blogs, social media, websites or text messages. The actual presentation of the message in a medium is referred to as an ADVERTISEMENT, or "AD" or ADVERT for short.
 
@@ -13,7 +13,7 @@ In Latin, _advertere_ means "to turn towards".[9]
 
 History
 
-Bronze_printing_plate_for_an_advertisement.jpg, Song dynasty China. It is the world's earliest identified printed advertising medium.]]
+, Song dynasty China. It is the world's earliest identified printed advertising medium.]]
 
 Egyptians used papyrus to make sales messages and wall posters.[10] Commercial messages and political campaign displays have been found in the ruins of Pompeii and ancient Arabia. Lost and found advertising on papyrus was common in ancient Greece and ancient Rome. Wall or rock painting for commercial advertising is another manifestation of an ancient advertising form, which is present to this day in many parts of Asia, Africa, and South America. The tradition of wall painting can be traced back to Indian rock art paintings that date back to 4000 BC.[11]
 
@@ -25,7 +25,7 @@ In the 18th century advertisements started to appear in weekly newspapers in Eng
 
 19th century
 
-Edo_period_advertising_in_Japan.jpg LEL flyer from 1806 for a traditional medicine called _Kinseitan_]] Scott_Omnibus.jpg's depiction of the interior of an early 19th Century omnibus conspicuously shows the advertisements placed overhead]] Thomas J. Barratt of London has been called "the father of modern advertising".[15][16][17] Working for the Pears Soap company, Barratt created an effective advertising campaign for the company products, which involved the use of targeted slogans, images and phrases. One of his slogans, "Good morning. Have you used Pears' soap?" was famous in its day and into the 20th century.[18][19]
+LEL flyer from 1806 for a traditional medicine called _Kinseitan_]] 's depiction of the interior of an early 19th Century omnibus conspicuously shows the advertisements placed overhead]] Thomas J. Barratt of London has been called "the father of modern advertising".[15][16][17] Working for the Pears Soap company, Barratt created an effective advertising campaign for the company products, which involved the use of targeted slogans, images and phrases. One of his slogans, "Good morning. Have you used Pears' soap?" was famous in its day and into the 20th century.[18][19]
 
 Barratt introduced many of the crucial ideas that lie behind successful advertising and these were widely circulated in his day. He constantly stressed the importance of a strong and exclusive brand image for Pears and of emphasizing the product's availability through saturation campaigns. He also understood the importance of constantly reevaluating the market for changing tastes and mores, stating in 1907 that "tastes change, fashions change, and the advertiser has to change with them. An idea that was effective a generation ago would fall flat, stale, and unprofitable if presented to the public today. Not that the idea of today is always better than the older idea, but it is different – it hits the present taste."[20]
 
@@ -35,7 +35,7 @@ In June 1836, French newspaper _La Presse_ was the first to include paid adverti
 
 20th century
 
-Advertising_as_a_percent_of_Gross_Domestice_Product_in_the_United_States.svg Advert_for_Guy's_Tonic_Wellcome_L0040436.jpg Ad_Encyclopaedia-Britannica_05-1913.jpg'']]
+'']]
 
 Advertising increased dramatically in the United States as industrialization expanded the supply of manufactured products. In 1919 it was 2.5 percent of gross domestic product (GDP) in the US, and it averaged 2.2 percent of GDP between then and at least 2007, though it may have declined dramatically since the Great Recession.
 
@@ -49,7 +49,7 @@ In the 1920s, under Secretary of Commerce Herbert Hoover, the American governmen
 
 The tobacco companies became major advertisers in order to sell packaged cigarettes.[32] The tobacco companies pioneered the new advertising techniques when they hired Bernays to create positive associations with tobacco smoking.[33][34]
 
-Advertising was also used as a vehicle for cultural assimilation, encouraging workers to exchange their traditional habits and community structure in favor of a shared "modern" lifestyle.[35] An important tool for influencing immigrant workers was the American Association of Foreign Language Newspapers (AAFLN). The AAFLN was primarily an advertising agency but also gained heavily centralized control over much of the immigrant press.[36][37] 1916-skin-touch-soap-ad.jpg of the J. Walter Thompson Agency]]
+Advertising was also used as a vehicle for cultural assimilation, encouraging workers to exchange their traditional habits and community structure in favor of a shared "modern" lifestyle.[35] An important tool for influencing immigrant workers was the American Association of Foreign Language Newspapers (AAFLN). The AAFLN was primarily an advertising agency but also gained heavily centralized control over much of the immigrant press.[36][37] of the J. Walter Thompson Agency]]
 
 At the turn of the 20th century, advertising was one of the few career choices for women. Since women were responsible for most household purchasing done, advertisers and agencies recognized the value of women's insight during the creative process. In fact, the first American advertising to use a sexual sell was created by a woman – for a soap product. Although tame by today's standards, the advertisement featured a couple with the message "A skin you love to touch".[38]
 
@@ -57,7 +57,7 @@ In the 1920s psychologists Walter D. Scott and John B. Watson contributed applie
 
 On the radio from the 1920s
 
-1930.05.06_Advertisement_for_Radio_Broadcast_With_Lisa_Roma.gif'' on May 6, 1930]]
+'' on May 6, 1930]]
 
 In the early 1920s, the first radio stations were established by radio equipment manufacturers, followed by non-profit organizations such as schools, clubs and civic groups who also set up their own stations.[40] Retailer and consumer goods manufacturers quickly recognised radio's potential to reach consumers in their home and soon adopted advertising techniques that would allow their messages to stand out; slogans, mascots, and jingles began to appear on radio in the 1920s and early television in the 1930s.[41]
 
@@ -88,7 +88,7 @@ Domain name registrants (usually those who register and renew domains as an inve
 
 Classification
 
-thumbtime=3:52]] Clarkes_on_Belmont.jpg Advertisingman.jpg.]] Hyundai_i40_with_Dalkin_Advertising_operating_under_Comfort_taxis.jpg in Singapore. Buses and other vehicles are popular media for advertisers.]] Mobile_Bicycle_Billboard_from_Singapore,_April_9_2013.jpg]] 101_016_DRI_Ingolstadt.jpg with UNICEF ads at Ingolstadt main railway station]] 2008_Volgren_CR228L_on_Mercedes-Benz_OC_500_LE_CNG_(Transperth_(Transdev))_(TP1970).jpg bus with an advertisement on its side]] Heissluftballon_over_Uetersen_3493_1.jpg displaying advertising for _GEO_ magazine]]
+thumbtime=3:52]] .]] in Singapore. Buses and other vehicles are popular media for advertisers.]] ]] with UNICEF ads at Ingolstadt main railway station]] bus with an advertisement on its side]] displaying advertising for _GEO_ magazine]]
 
 Advertising may be categorized in a variety of ways, including by style, target audience, geographic scope, medium, or purpose.[55] For example, in print advertising, classification by style can include display advertising (ads with design elements sold by size) vs. classified advertising (ads without design elements sold by the word or line). Advertising may be local, national or global. An ad campaign may be directed toward consumers or to businesses. The purpose of an ad may be to raise awareness (brand advertising), or to elicit an immediate sale (direct response advertising). The term ABOVE THE LINE (ATL) is used for advertising involving mass media; more targeted forms of advertising and promotion are referred to as BELOW THE LINE (BTL).[56][57] The two terms date back to 1954 when Procter & Gamble began paying their advertising agencies differently from other promotional agencies.[58] In the 2010s, as advertising technology developed, a new term, THROUGH THE LINE (TTL) began to come into use, referring to integrated advertising campaigns.[59][60]
 
@@ -111,8 +111,6 @@ Virtually any medium can be used for advertising. Commercial advertising media c
 
 Television: Television advertising is one of the most expensive types of advertising; networks charge large amounts for commercial airtime during popular events. The annual Super Bowl football game in the United States is known as the most prominent advertising event on television – with an audience of over 108 million and studies showing that 50% of those only tuned in to see the advertisements.[63][64] During the 2014 edition of this game, the average thirty-second ad cost US$4 million, and $8 million was charged for a 60-second spot.[65] Virtual advertisements may be inserted into regular programming through computer graphics. It is typically inserted into otherwise blank backdrops[66] or used to replace local billboards that are not relevant to the remote broadcast audience.[67] More controversially, virtual billboards may be inserted into the background where none exist in real-life. This technique is especially used in televised sporting events. Virtual product placement is also possible.[68][69] An infomercial is a long-format television commercial, typically five minutes or longer. The word "infomercial" is a portmanteau of the words "information" and "commercial". The main objective in an infomercial is to create an impulse purchase, so that the target sees the presentation and then immediately buys the product through the advertised toll-free telephone number or website. Infomercials describe, display, and often demonstrate products and their features, and commonly have testimonials from customers and industry professionals.
 
-Television_commercial_1948.JPG
-
 Radio: Radio advertisements are broadcast as radio waves to the air from a transmitter to an antenna and a thus to a receiving device. Airtime is purchased from a station or network in exchange for airing the commercials. While radio has the limitation of being restricted to sound, proponents of radio advertising often cite this as an advantage. Radio is an expanding medium that can be found on air, and also online. According to Arbitron, radio has approximately 241.6 million weekly listeners, or more than 93 percent of the U.S. population.
 
 Online: Online advertising is a form of promotion that uses the Internet and World Wide Web for the expressed purpose of delivering marketing messages to attract customers. Online ads are delivered by an ad server. Examples of online advertising include contextual ads that appear on search engine results pages, banner ads, in pay per click text ads, rich media ads, Social network advertising, online classified advertising, advertising networks and e-mail marketing, including e-mail spam. A newer form of online advertising is Native Ads; they go in a website's news feed and are supposed to improve user experience by being less intrusive. However, some people argue this practice is deceptive.[70]
@@ -125,7 +123,7 @@ Print: Print advertising describes advertising in a printed medium such as a new
 
 Outdoor: Billboards, also known as hoardings in some parts of the world, are large structures located in public places which display advertisements to passing pedestrians and motorists. Most often, they are located on main roads with a large amount of passing motor and pedestrian traffic; however, they can be placed in any location with large numbers of viewers, such as on mass transit vehicles and in stations, in shopping malls or office buildings, and in stadiums. The form known as street advertising first came to prominence in the UK by Street Advertising Services to create outdoor advertising on street furniture and pavements. Working with products such as Reverse Graffiti, air dancers and 3D pavement advertising, for getting brand messages out into public spaces. Sheltered outdoor advertising combines outdoor with indoor advertisement by placing large mobile, structures (tents) in public places on temporary bases. The large outer advertising space aims to exert a strong pull on the observer, the product is promoted indoors, where the creative decor can intensify the impression. Mobile billboards are generally vehicle mounted billboards or digital screens. These can be on dedicated vehicles built solely for carrying advertisements along routes preselected by clients, they can also be specially equipped cargo trucks or, in some cases, large banners strewn from planes. The billboards are often lighted; some being backlit, and others employing spotlights. Some billboard displays are static, while others change; for example, continuously or periodically rotating among a set of advertisements. Mobile displays are used for various situations in metropolitan areas throughout the world, including: target advertising, one-day and long-term campaigns, conventions, sporting events, store openings and similar promotional events, and big advertisements from smaller companies.
 
-Redeye_Sailboat.jpg'' newspaper advertised to its target market at North Avenue Beach with a sailboat billboard on Lake Michigan.]]
+'' newspaper advertised to its target market at North Avenue Beach with a sailboat billboard on Lake Michigan.]]
 
 Point-of-sale: In-store advertising is any advertisement placed in a retail store. It includes placement of a product in visible locations in a store, such as at eye level, at the ends of aisles and near checkout counters (a.k.a. POP – point of purchase display), eye-catching displays promoting a specific product, and advertisements in such places as shopping carts and in-store video displays.
 
@@ -135,7 +133,7 @@ Celebrity endorsements: Advertising in which a celebrity endorses a product or b
 
 Aerial: Using aircraft, balloons or airships to create or display advertising media. Skywriting is a notable example.
 
-Allegiant_blueman_md80_(cropped).jpg aircraft in the special Blue Man Group livery]]
+aircraft in the special Blue Man Group livery]]
 
 New media and advertising approaches
 
@@ -217,7 +215,7 @@ Sales promotions are another way to advertise. Sales promotions are double purpo
 
 Criticisms
 
-Mobstr_-_Visual_Pollution,_London_(5914547783).jpg While advertising can be seen as necessary for economic growth,[102] it is not without social costs. Unsolicited commercial e-mail and other forms of spam have become so prevalent as to have become a major nuisance to users of these services, as well as being a financial burden on internet service providers.[103] Advertising is increasingly invading public spaces, such as schools, which some critics argue is a form of child exploitation.[104] This increasing difficulty in limiting exposure to specific audiences can result in negative backlash for advertisers.[105] In tandem with these criticisms, the advertising industry has seen low approval rates in surveys and negative cultural portrayals.[106]
+While advertising can be seen as necessary for economic growth,[102] it is not without social costs. Unsolicited commercial e-mail and other forms of spam have become so prevalent as to have become a major nuisance to users of these services, as well as being a financial burden on internet service providers.[103] Advertising is increasingly invading public spaces, such as schools, which some critics argue is a form of child exploitation.[104] This increasing difficulty in limiting exposure to specific audiences can result in negative backlash for advertisers.[105] In tandem with these criticisms, the advertising industry has seen low approval rates in surveys and negative cultural portrayals.[106]
 
 One of the most controversial criticisms of advertisement in the present day is that of the predominance of advertising of foods high in sugar, fat, and salt specifically to children. Critics claim that food advertisements targeting children are exploitive and are not sufficiently balanced with proper nutritional education to help children understand the consequences of their food choices. Additionally, children may not understand that they are being sold something, and are therefore more impressionable.[107] Michelle Obama has criticized large food companies for advertising unhealthy foods largely towards children and has requested that food companies either limit their advertising to children or advertise foods that are more in line with dietary guidelines.[108] The other criticisms include the change that are brought by those advertisements on the society and also the deceiving ads that are aired and published by the corporations. Cosmetic and health industry are the ones which exploited the highest and created reasons of concern.[109]
 

@@ -71,7 +71,7 @@ In 1500, Charles V was born in Ghent. He inherited the Seventeen Provinces (1506
 
 Over the first half of the 16th century Antwerp grew to become the second-largest European city north of the Alps by 1560. Antwerp was the richest city in Europe at this time.[6] According to Luc-Normand Tellier "It is estimated that the port of Antwerp was earning the Spanish crown seven times more revenues than the Americas."[7]
 
-Incendio_Ayuntamiento_Amberes.jpg in 1576, in which about 7,000 people died]] Meanwhile, Protestantism had reached the Low Countries. Among the wealthy traders of Antwerp, the Lutheran beliefs of the German Hanseatic traders found appeal, perhaps partly for economic reasons. The spread of Protestantism in this city was aided by the presence of an Augustinian cloister (founded 1514) in the St. Andries quarter. Luther, an Augustinian himself, had taught some of the monks, and his works were in print by 1518. The first Lutheran martyrs came from Antwerp. The Reformation resulted in consecutive but overlapping waves of reform: a Lutheran, followed by a militant Anabaptist, then a Mennonite, and finally a Calvinistic movement. These movements existed independently of each other.
+in 1576, in which about 7,000 people died]] Meanwhile, Protestantism had reached the Low Countries. Among the wealthy traders of Antwerp, the Lutheran beliefs of the German Hanseatic traders found appeal, perhaps partly for economic reasons. The spread of Protestantism in this city was aided by the presence of an Augustinian cloister (founded 1514) in the St. Andries quarter. Luther, an Augustinian himself, had taught some of the monks, and his works were in print by 1518. The first Lutheran martyrs came from Antwerp. The Reformation resulted in consecutive but overlapping waves of reform: a Lutheran, followed by a militant Anabaptist, then a Mennonite, and finally a Calvinistic movement. These movements existed independently of each other.
 
 Philip II, a devout Catholic and self-proclaimed protector of the Counter-Reformation, suppressed Calvinism in Flanders, Brabant and Holland (what is now approximately Belgian Limburg was part of the Bishopric of Liège and was Catholic _de facto_). In 1566, the wave of iconoclasm known as the _Beeldenstorm_ was a prelude to religious war between Catholics and Protestants, especially the Anabaptists. The _Beeldenstorm_ started in what is now French Flanders, with open-air sermons () that spread through the Low Countries, first to Antwerp and Ghent, and from there further east and north. In total it lasted not even a month.
 
@@ -79,7 +79,7 @@ The Eighty Years' War and its consequences
 
 Subsequently, Philip II sent the Duke of Alba to the Provinces to repress the revolt. Alba recaptured the southern part of the Provinces, who signed the Union of Atrecht, which meant that they would accept the Spanish government on condition of more freedom. But the northern part of the provinces signed the Union of Utrecht and settled in 1581 the Republic of the Seven United Netherlands. Spanish troops quickly started fighting the rebels, but before the revolt could be completely defeated, a war between England and Spain had broken out, forcing Philip's Spanish troops to halt their advance. Meanwhile, the Spanish armies had already conquered the important trading cities of Bruges and Ghent. Antwerp, which was then the most important port in the world, also had to be conquered. On 17 August 1585, Antwerp fell. This ended the Eighty Years' War for the (from now on) Southern Netherlands. The United Provinces (the Northern Netherlands) fought on until 1648 – the Peace of Westphalia.
 
-Sebastian_Vrancx02.jpg, 1622]] While Spain was at war with England, the rebels from the north, strengthened by refugees from the south, started a campaign to reclaim areas lost to Philip II's Spanish troops. They managed to conquer a considerable part of Brabant (the later Noord-Brabant of the Netherlands), and the south bank of the Scheldt estuary (Zeelandic Flanders), before being stopped by Spanish troops. The front line at the end of this war stabilized and became the current border between present-day Belgium and the Netherlands. The Dutch (as they later became known) had managed to reclaim enough of Spanish-controlled Flanders to close off the river Scheldt, effectively cutting Antwerp off from its trade routes.
+, 1622]] While Spain was at war with England, the rebels from the north, strengthened by refugees from the south, started a campaign to reclaim areas lost to Philip II's Spanish troops. They managed to conquer a considerable part of Brabant (the later Noord-Brabant of the Netherlands), and the south bank of the Scheldt estuary (Zeelandic Flanders), before being stopped by Spanish troops. The front line at the end of this war stabilized and became the current border between present-day Belgium and the Netherlands. The Dutch (as they later became known) had managed to reclaim enough of Spanish-controlled Flanders to close off the river Scheldt, effectively cutting Antwerp off from its trade routes.
 
 First the fall of Antwerp to the Spanish and later also the closing of the Scheldt were causes of a considerable emigration of Antverpians. Many of the Calvinist merchants of Antwerp and also of other Flemish cities left Flanders and emigrated to the north. A large number of them settled in Amsterdam, which was at the time a smaller port, of significance only in the Baltic trade. In the following years Amsterdam was rapidly transformed into one of the world's most important ports. Because of the contribution of the Flemish exiles to this transformation, the exodus is sometimes described as "_creating a new Antwerp_".
 
@@ -87,7 +87,7 @@ Flanders and Brabant, due to these events, went into a period of relative declin
 
 Southern Netherlands (1581–1795)
 
-Quad_Flandria.jpg Although arts remained at a relatively impressive level for another century with Peter Paul Rubens (1577–1640) and Anthony van Dyck, Flanders experienced a loss of its former economic and intellectual power under Spanish, Austrian, and French rule, with heavy taxation and rigid imperial political control compounding the effects of industrial stagnation and Spanish-Dutch and Franco-Austrian conflict. The Southern Netherlands suffered severely under the War of the Spanish Succession, but under the reign of Empress Maria-Theresia these lands economically flourished again. Influenced by the Enlightenment, the Austrian Emperor Joseph II was the first sovereign who had been in the Southern Netherlands since King Philip II of Spain left them in 1559.
+Although arts remained at a relatively impressive level for another century with Peter Paul Rubens (1577–1640) and Anthony van Dyck, Flanders experienced a loss of its former economic and intellectual power under Spanish, Austrian, and French rule, with heavy taxation and rigid imperial political control compounding the effects of industrial stagnation and Spanish-Dutch and Franco-Austrian conflict. The Southern Netherlands suffered severely under the War of the Spanish Succession, but under the reign of Empress Maria-Theresia these lands economically flourished again. Influenced by the Enlightenment, the Austrian Emperor Joseph II was the first sovereign who had been in the Southern Netherlands since King Philip II of Spain left them in 1559.
 
 French Revolution and Napoleonic France (1795–1815)
 
@@ -115,7 +115,7 @@ All of these events led to a silent uprising in Flanders against the French-spea
 
 In 1873, Dutch became the official language in public secondary schools. In 1898 Dutch and French were declared equal languages in laws and Royal orders. In 1930 the first Flemish university was opened.
 
-The first official translation of the Belgian constitution in Dutch was not published until 1967. Gesneuvelden_Koksijde_-_België.jpg, a memorial to soldiers killed in World War I]]
+The first official translation of the Belgian constitution in Dutch was not published until 1967. , a memorial to soldiers killed in World War I]]
 
 World War I and its consequences
 
@@ -142,7 +142,7 @@ However, sociological studies show no parallel between the rise of nationalist p
 
 Government and politics
 
-Kris_Peeters_675.jpg, former Minister-President of Flanders, promoting Flanders in Action]]
+, former Minister-President of Flanders, promoting Flanders in Action]]
 
 Both the Flemish Community and the Flemish Region are constitutional institutions of the Kingdom of Belgium, exercising certain powers within their jurisdiction, granted following a series of state reforms. In practice, the Flemish Community and Region together form a single body, with its own parliament and government, as the Community legally absorbed the competences of the Region. The parliament is a directly elected legislative body composed of 124 representatives. The government consists of up to a maximum of eleven members and is presided by a Minister-President, currently Geert Bourgeois (New Flemish Alliance) leading a coalition of his party (N-VA) with Christen-Democratisch en Vlaams (CD&V) and Open Vlaamse Liberalen en Democraten (Open VLD).
 
@@ -152,7 +152,7 @@ The area of the Flemish Region is represented on the maps above. It has a popula
 
 The number of Dutch-speaking Flemish people in the Capital Region is estimated to be between 11% and 15% (official figures do not exist as there is no language census and no official subnationality). According to a survey conducted by the University of Louvain (UCLouvain) in Louvain-la-Neuve and published in June 2006, 51% of respondents from Brussels claimed to be bilingual, even if they do not have Dutch as their first language.[16][17] They are governed by the Brussels Region for economics affairs and by the Flemish Community for educational and cultural issues.
 
-Brussels_-_Vlaams_Parlement.jpg]] As mentioned above, Flemish institutions such as the Flemish Parliament and Government, represent the Flemish Community and the Flemish Region. The region and the community thus _de facto_ share the same parliament and the same government. All these institutions are based in Brussels. Nevertheless, both types of subdivisions (the Community and the Region) still exist legally and the distinction between both is important for the people living in Brussels. Members of the Flemish Parliament who were elected in the Brussels Region cannot vote on affairs belonging to the competences of the Flemish Region.
+]] As mentioned above, Flemish institutions such as the Flemish Parliament and Government, represent the Flemish Community and the Flemish Region. The region and the community thus _de facto_ share the same parliament and the same government. All these institutions are based in Brussels. Nevertheless, both types of subdivisions (the Community and the Region) still exist legally and the distinction between both is important for the people living in Brussels. Members of the Flemish Parliament who were elected in the Brussels Region cannot vote on affairs belonging to the competences of the Flemish Region.
 
 The official language for all Flemish institutions is Dutch. French enjoys a limited official recognition in a dozen municipalities along the borders with French-speaking Wallonia, and a large recognition in the bilingual Brussels Region. French is widely known in Flanders, with 59% claiming to know French according to a survey conducted by UCLouvain in Louvain-la-Neuve and published in June 2006.[18][19]
 
@@ -166,7 +166,7 @@ Particularly the Flemish Block/Flemish Interest has seen electoral success rough
 
 Flemish independence
 
-Menen_-_Border_crossing_1_cropped.jpg.]]
+.]]
 
 For some inhabitants, Flanders is more than just a geographical area or the federal institutions (Flemish Community and Region). Supporters of the Flemish Movement even call it a nation and pursue Flemish independence, but most people (approximately 75%) living in Flanders say they are proud to be Belgian and opposed to the dissolution of Belgium. 20% is even _very proud_, while some 25% are not proud and 8% is _very not proud_. Mostly students claim to be proud of their nationality, with 90% of them staying so. Of the people older than 55, 31% claim to be proud of being a Belgian. Particular opposition to secession comes from women, people employed in services, the highest social classes and people from big families. Strongest of all opposing the notion are housekeepers—both housewives and house husbands.[20]
 
@@ -175,7 +175,7 @@ In 2012, the Flemish government drafted a "Charter for Flanders" (_Handvest voor
 
 Geography
 
-Zonien.jpg]] Flanders shares its borders with Wallonia in the south, Brussels being an enclave within the Flemish Region. The rest of the border is shared with the Netherlands (Zeelandic Flanders in Zeeland, North Brabant and Limburg) in the north and east, and with France (French Flanders in Hauts-de-France) and the North Sea in the west. Voeren is an exclave of Flanders between Wallonia and the Netherlands, while Baarle-Hertog in Flanders forms a complicated series of enclaves and exclaves with Baarle-Nassau in the Netherlands. Germany, although bordering Wallonia and close to Voeren in Limburg, does not share a border with Flanders. The German-speaking Community of Belgium, also close to Voeren, does not border Flanders either. (The commune of Plombières, majority French speaking, lies between them.)
+]] Flanders shares its borders with Wallonia in the south, Brussels being an enclave within the Flemish Region. The rest of the border is shared with the Netherlands (Zeelandic Flanders in Zeeland, North Brabant and Limburg) in the north and east, and with France (French Flanders in Hauts-de-France) and the North Sea in the west. Voeren is an exclave of Flanders between Wallonia and the Netherlands, while Baarle-Hertog in Flanders forms a complicated series of enclaves and exclaves with Baarle-Nassau in the Netherlands. Germany, although bordering Wallonia and close to Voeren in Limburg, does not share a border with Flanders. The German-speaking Community of Belgium, also close to Voeren, does not border Flanders either. (The commune of Plombières, majority French speaking, lies between them.)
 
 Flanders is a highly urbanised area, lying completely within the Blue Banana. Antwerp, Ghent, Bruges and Leuven are the largest cities of the Flemish Region. Antwerp has a population of more than 500,000 citizens and is the largest city, Ghent has a population of 250,000 citizens, followed by Bruges with 120,000 citizens and Leuven counts almost 100,000 citizens.
 
@@ -184,8 +184,6 @@ Brussels is a part of Flanders as far as community matters are concerned, but do
 Flanders has two main geographical regions: the coastal Yser basin plain in the north-west and a central plain. The first consists mainly of sand dunes and clayey alluvial soils in the polders. Polders are areas of land, close to or below sea level that have been reclaimed from the sea, from which they are protected by dikes or, a little further inland, by fields that have been drained with canals. With similar soils along the lowermost Scheldt basin starts the central plain, a smooth, slowly rising fertile area irrigated by many waterways that reaches an average height of about five metres (16.4 ft) above sea level with wide valleys of its rivers upstream as well as the Campine region to the east having sandy soils at altitudes around thirty metres. Near its southern edges close to Wallonia one can find slightly rougher land richer of calcium with low hills reaching up to and small valleys, and at the eastern border with the Netherlands, in the Meuse basin, there are marl caves (_mergelgrotten_). Its exclave around Voeren between the Dutch border and the Walloon province of Liège attains a maximum altitude of above sea level.[22][23]
 
 Administrative divisions
-
-VlaanderenProvincies.png
 
 The present-day FLEMISH REGION covers and is divided into five provinces, 22 arrondissements and 308 cities or municipalities.
 
@@ -207,7 +205,7 @@ The province of Flemish Brabant is the most recent one, being formed in 1995 aft
 
 Most municipalities are made up of several former municipalities, now called _deelgemeenten_. The largest municipality (both in terms of population and area) is Antwerp, having more than half a million inhabitants. Its nine _deelgemeenten_ have a special status and are called districts, which have an elected council and a college. While any municipality with more than 100,000 inhabitants can establish districts, only Antwerp did this so far. The smallest municipality (also both in terms of population and area) is Herstappe (Limburg).
 
-BrusselLocatie.png (one of 19 municipalities) in red]] The FLEMISH COMMUNITY covers both the Flemish Region and, together with the French Community, the Brussels-Capital Region. Brussels, an enclave within the province of Flemish Brabant, is not divided into any province nor is it part of any. It coincides with the Arrondissement of Brussels-Capital and includes 19 municipalities.
+(one of 19 municipalities) in red]] The FLEMISH COMMUNITY covers both the Flemish Region and, together with the French Community, the Brussels-Capital Region. Brussels, an enclave within the province of Flemish Brabant, is not divided into any province nor is it part of any. It coincides with the Arrondissement of Brussels-Capital and includes 19 municipalities.
 
 The Flemish Government has its own local institutions in the Brussels-Capital Region, being the _Vlaamse Gemeenschapscommissie_ (VGC), and its municipal antennae (_Gemeenschapscentra_, community centres for the Flemish community in Brussels). These institutions are independent from the educational, cultural and social institutions that depend directly on the Flemish Government. They exert, among others, all those cultural competences that outside Brussels fall under the provinces.
 
@@ -219,7 +217,7 @@ The climate is maritime temperate, with significant precipitation in all seasons
 
 Economy
 
-Zicht_op_het_Delwaidedok.jpg Lijn11_a12.jpg with a railway in the centre.]] Total GDP of the Flemish Region in 2004 was €165,847 billion (Eurostat figures). Per capita GDP at purchasing power parity was 23% above the EU average. Flemish productivity per capita is about 13% higher than that in Wallonia, and wages are about 7% higher than in Wallonia.[24]
+with a railway in the centre.]] Total GDP of the Flemish Region in 2004 was €165,847 billion (Eurostat figures). Per capita GDP at purchasing power parity was 23% above the EU average. Flemish productivity per capita is about 13% higher than that in Wallonia, and wages are about 7% higher than in Wallonia.[24]
 
 Flanders was one of the first continental European areas to undergo the Industrial Revolution, in the 19th century. Initially, the modernization relied heavily on food processing and textile. However, by the 1840s the textile industry of Flanders was in severe crisis and there was famine in Flanders (1846–50). After World War II, Antwerp and Ghent experienced a fast expansion of the chemical and petroleum industries. Flanders also attracted a large majority of foreign investments in Belgium. The 1973 and 1979 oil crises sent the economy into a recession. The steel industry remained in relatively good shape. In the 1980s and 90s, the economic centre of Belgium continued to shift further to Flanders and is now concentrated in the populous Flemish Diamond area.[25] Nowadays, the Flemish economy is mainly service-oriented.
 
@@ -244,7 +242,7 @@ Demographics
 
 The highest population density is found in the area circumscribed by the Brussels-Antwerp-Ghent-Leuven agglomerations that surround Mechelen and is known as the Flemish Diamond, in other important urban centres as Bruges, Roeselare and Kortrijk to the west, and notable centres Turnhout and Hasselt to the east. On 1 January 2015, the Flemish Region had a population of 6,444,127 and about 15% of the 1,175,173 people in the Brussels Region are also considered Flemish.[29]
 
-Houthalen_-_Onze-Lieve-Vrouw_van_Zeven_Weeënkerk.jpg. A typical church, similar to those in many villages in Flanders]]
+. A typical church, similar to those in many villages in Flanders]]
 
 Religion
 
@@ -252,7 +250,7 @@ The (Belgian) _laicist_, or secularist, constitution provides for freedom of rel
 
 Jews have been present in Flanders for a long time, in particular in Antwerp. More recently, Muslims have immigrated to Flanders, now forming the largest minority religion with about 3.9% in the Flemish Region and 25% in Brussels.[32] The largest Muslim group is Moroccan in origin, while the second largest is Turkish in origin.
 
-Castle_Arenberg,_Katholieke_Universiteit_Leuven_adj.jpg, part of the Katholieke Universiteit Leuven, the oldest university in Belgium and the Low Countries.]]
+, part of the Katholieke Universiteit Leuven, the oldest university in Belgium and the Low Countries.]]
 
 Education
 
@@ -301,7 +299,7 @@ At first sight, _Flemish culture_ is defined by the Dutch language and its gourm
 
 Language and literature
 
-Guidogezelle.jpg in Bruges, by sculptor Jules Lagae]]
+in Bruges, by sculptor Jules Lagae]]
 
 The standard language in Flanders is Dutch; spelling and grammar are regulated by a single authority, the Dutch Language Union (_Nederlandse Taalunie_), comprising a committee of ministers of the Flemish and Dutch governments, their advisory council of appointed experts, a controlling commission of 22 parliamentarians, and a secretariate.[34][35] The term Flemish can be applied to the Dutch spoken in Flanders; it shows many regional and local variations.[36]
 
@@ -335,7 +333,7 @@ Magazines include _Knack_ and _HUMO_.
 
 Sports
 
-Kim_Clijsters_2006.jpg in 2005 and 2010]] Association football (soccer) is one of the most popular sports in both parts of Belgium, together with cycling, tennis, swimming and judo.[46]
+in 2005 and 2010]] Association football (soccer) is one of the most popular sports in both parts of Belgium, together with cycling, tennis, swimming and judo.[46]
 
 In cycling, the Tour of Flanders is considered one of the five "Monuments". Other "Flanders Classics" races include _Dwars door Vlaanderen_ and Gent–Wevelgem. Eddy Merckx is widely regarded as the greatest cyclist of all time, with five victories in the Tour de France and numerous other cycling records.[47] His hour speed record (set in 1972) stood for 12 years.
 

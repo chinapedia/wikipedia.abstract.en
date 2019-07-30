@@ -11,7 +11,7 @@ Significant international memberships
 
 ASEAN
 
-ASEAN_HQ_2.jpg, the cornerstone of Indonesian foreign policy.]] A cornerstone of Indonesia's contemporary foreign policy is its participation in the Association of Southeast Asian Nations (ASEAN), of which it was a founding member in 1967 with Thailand, Malaysia, Singapore, and the Philippines. Since then, Brunei, Vietnam, Laos, Burma, and Cambodia also have joined ASEAN. While organised to promote common economic, social, and cultural goals, ASEAN acquired a security dimension after Vietnam's invasion of Cambodia in 1979; this aspect of ASEAN expanded with the establishment of the ASEAN Regional Forum in 1994, which comprises 22 countries, including the US.
+, the cornerstone of Indonesian foreign policy.]] A cornerstone of Indonesia's contemporary foreign policy is its participation in the Association of Southeast Asian Nations (ASEAN), of which it was a founding member in 1967 with Thailand, Malaysia, Singapore, and the Philippines. Since then, Brunei, Vietnam, Laos, Burma, and Cambodia also have joined ASEAN. While organised to promote common economic, social, and cultural goals, ASEAN acquired a security dimension after Vietnam's invasion of Cambodia in 1979; this aspect of ASEAN expanded with the establishment of the ASEAN Regional Forum in 1994, which comprises 22 countries, including the US.
 
 Indonesian national capital Jakarta is also the seat of ASEAN Secretariat, located at Jalan Sisingamangaraja No.70A, Kebayoran Baru, South Jakarta. Other than serving their diplomatic missions for Indonesia, numbers of foreign embassies and diplomatic mission in Jakarta are also accredited to ASEAN. ASEAN Headquarter has led to the prominence of Jakarta as a diplomatic hub in Southeast Asia.
 

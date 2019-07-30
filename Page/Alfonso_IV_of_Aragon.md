@@ -18,7 +18,7 @@ Alfonso died in January 1336, aged only 36. He was succeeded by Peter IV, his 16
 
 Children
 
-Alifonso_IV_d'Aragón.jpg (1822–1856)]] By Teresa d'Entença:
+(1822–1856)]] By Teresa d'Entença:
 
 -   Alfonso (1315–1317)
 -   Constance (1318–1346), married in 1336 to James III of Majorca.

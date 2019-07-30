@@ -17,7 +17,7 @@ According to the United States Census Bureau, the city has a total area of , of 
 
 Demographics
 
-Stlouisflags.jpg in Eureka]]
+in Eureka]]
 
 2010 census
 
@@ -44,7 +44,7 @@ Rockwood R-Vi School District operates 3 elementary schools, Lasalle Springs Mid
 
 The city also contains two private schools, St. Mark's Lutheran Church and School and Sacred Heart Church and School.
 
-The city has the Eureka Hills Branch lending library, a branch of the St. Louis County Library.[7] Eureka_Missouri.JPG]]
+The city has the Eureka Hills Branch lending library, a branch of the St. Louis County Library.[7] ]]
 
 
 News media

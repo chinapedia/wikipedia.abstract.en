@@ -17,8 +17,6 @@ Across all eukaryotic genes in GenBank there were (in 2002), on average, 5.48 ex
 
 Structure and function
 
-Gene_structure.svg
-
 In protein-coding genes, the exons include both the protein-coding sequence and the 5′- and 3′-untranslated regions (UTR). Often the first exon includes both the 5′-UTR and the first part of the coding sequence, but exons containing only regions of 5′-UTR or (more rarely) 3′-UTR occur in some genes, i.e. the UTRs may contain introns.[9] Some non-coding RNA transcripts also have exons and introns.
 
 Mature mRNAs originating from the same gene need not include the same exons, since different introns in the pre-mRNA can be removed by the process of alternative splicing.

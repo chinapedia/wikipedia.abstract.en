@@ -11,7 +11,7 @@ Biography
 
 Childhood
 
-Little_Lea.JPG Clive Staples Lewis was born in Belfast, Ireland , on 29 November 1898.[3] His father was Albert James Lewis (1863–1929), a solicitor whose father Richard had come to Ireland from Wales during the mid-19th century. His mother was Florence Augusta Lewis, née Hamilton (1862–1908), known as Flora, the daughter of a Church of Ireland priest, and great granddaughter of both Bishop Hugh Hamilton and John Staples. He had an elder brother, Warren Hamilton Lewis (known as "Warnie").[4][5]
+Clive Staples Lewis was born in Belfast, Ireland , on 29 November 1898.[3] His father was Albert James Lewis (1863–1929), a solicitor whose father Richard had come to Ireland from Wales during the mid-19th century. His mother was Florence Augusta Lewis, née Hamilton (1862–1908), known as Flora, the daughter of a Church of Ireland priest, and great granddaughter of both Bishop Hugh Hamilton and John Staples. He had an elder brother, Warren Hamilton Lewis (known as "Warnie").[4][5]
 
 When his dog Jacksie was killed by a car, the four-year old Lewis adopted the name Jacksie. At first, he would answer to no other name, but later accepted Jack, the name by which he was known to friends and family for the rest of his life.[6] When he was seven, his family moved into "Little Lea", the family home of his childhood, in the Strandtown area of East Belfast.[7]
 
@@ -21,7 +21,7 @@ As a teenager, Lewis was wonder-struck by the songs and legends of what he calle
 
 "My Irish life"
 
-CSLewisPlaque.jpg]] Lewis experienced a certain cultural shock on first arriving in England: "No Englishman will be able to understand my first impressions of England," Lewis wrote in _Surprised by Joy_. "The strange English accents with which I was surrounded seemed like the voices of demons. But what was worst was the English landscape ... I have made up the quarrel since; but at that moment I conceived a hatred for England which took many years to heal."
+]] Lewis experienced a certain cultural shock on first arriving in England: "No Englishman will be able to understand my first impressions of England," Lewis wrote in _Surprised by Joy_. "The strange English accents with which I was surrounded seemed like the voices of demons. But what was worst was the English landscape ... I have made up the quarrel since; but at that moment I conceived a hatred for England which took many years to heal."
 
 From boyhood, Lewis had immersed himself in Norse and Greek mythology, and later in Irish mythology and literature. He also expressed an interest in the Irish language,[13] though there is not much evidence that he laboured to learn it. He developed a particular fondness for W. B. Yeats, in part because of Yeats's use of Ireland's Celtic heritage in poetry. In a letter to a friend, Lewis wrote, "I have here discovered an author exactly after my own heart, whom I am sure you would delight in, W. B. Yeats. He writes plays and poems of rare spirit and beauty about our old Irish mythology."
 
@@ -105,7 +105,7 @@ Lewis continued to raise Gresham's two sons after her death. Douglas Gresham is 
 
 Illness and death
 
-C._S._Lewis'_grave.jpg]] In early June 1961, Lewis began suffering from nephritis, which resulted in blood poisoning. His illness caused him to miss the autumn term at Cambridge, though his health gradually began improving in 1962 and he returned that April. His health continued to improve and, according to his friend George Sayer, Lewis was fully himself by early 1963. On 15 July that year, he fell ill and was admitted to the hospital; he suffered a heart attack at 5:00 pm the next day and lapsed into a coma, unexpectedly waking the following day at 2:00 pm. After he was discharged from the hospital, Lewis returned to the Kilns, though he was too ill to return to work. As a result, he resigned from his post at Cambridge in August.
+]] In early June 1961, Lewis began suffering from nephritis, which resulted in blood poisoning. His illness caused him to miss the autumn term at Cambridge, though his health gradually began improving in 1962 and he returned that April. His health continued to improve and, according to his friend George Sayer, Lewis was fully himself by early 1963. On 15 July that year, he fell ill and was admitted to the hospital; he suffered a heart attack at 5:00 pm the next day and lapsed into a coma, unexpectedly waking the following day at 2:00 pm. After he was discharged from the hospital, Lewis returned to the Kilns, though he was too ill to return to work. As a result, he resigned from his post at Cambridge in August.
 
 Lewis's condition continued to decline, and he was diagnosed with end-stage renal failure in mid-November. He collapsed in his bedroom at 5:30 pm on 22 November, exactly one week before his 65th birthday, and died a few minutes later.[43] He is buried in the churchyard of Holy Trinity Church, Headington, Oxford. His brother Warren died on 9 April 1973 and was buried in the same grave.[44]
 
@@ -116,13 +116,11 @@ Career
 
 Scholar
 
-Magdalen_College_Oxford_20040613.jpg Lewis began his academic career as an undergraduate student at Oxford University, where he won a triple first, the highest honours in three areas of study.[47] He was then elected a Fellow of Magdalen College, Oxford, where he worked for nearly thirty years, from 1925 to 1954.[48] In 1954, he was awarded the newly founded chair of Mediaeval and Renaissance Literature at Cambridge University, and was elected a fellow of Magdalene College.[49] Concerning his appointed academic field, he argued that there was no such thing as an English Renaissance.[50][51] Much of his scholarly work concentrated on the later Middle Ages, especially its use of allegory. His _The Allegory of Love_ (1936) helped reinvigorate the serious study of late medieval narratives such as the _Roman de la Rose_.[52]
+Lewis began his academic career as an undergraduate student at Oxford University, where he won a triple first, the highest honours in three areas of study.[47] He was then elected a Fellow of Magdalen College, Oxford, where he worked for nearly thirty years, from 1925 to 1954.[48] In 1954, he was awarded the newly founded chair of Mediaeval and Renaissance Literature at Cambridge University, and was elected a fellow of Magdalene College.[49] Concerning his appointed academic field, he argued that there was no such thing as an English Renaissance.[50][51] Much of his scholarly work concentrated on the later Middle Ages, especially its use of allegory. His _The Allegory of Love_ (1936) helped reinvigorate the serious study of late medieval narratives such as the _Roman de la Rose_.[52]
 
 Lewis was commissioned to write the volume _English Literature in the Sixteenth Century (Excluding Drama)_ for the Oxford History of English Literature,[53] His book "A Preface to _Paradise Lost_"[54] is still cited as a criticism of that work. His last academic work, _The Discarded Image: An Introduction to Medieval and Renaissance Literature_ (1964), is a summary of the medieval world view, a reference to the "discarded image" of the cosmos.[55]
 
-Eagle_and_Child.jpg pub in Oxford where the Inklings met on Tuesday mornings in 1939]] Lewis was a prolific writer, and his circle of literary friends became an informal discussion society known as the "Inklings", including J. R. R. Tolkien, Nevill Coghill, Lord David Cecil, Charles Williams, Owen Barfield, and his brother Warren Lewis. Glyer points to December 1929 as the Inklings' beginning date. Lewis's friendship with Coghill and Tolkien grew during their time as members of the Kolbítar, an Old Norse reading group that Tolkien founded and which ended around the time of the inception of the Inklings. At Oxford, he was the tutor of poet John Betjeman, critic Kenneth Tynan, mystic Bede Griffiths, novelist Roger Lancelyn Green and Sufi scholar Martin Lings, among many other undergraduates. Curiously, the religious and conservative Betjeman detested Lewis, whereas the anti-establishment Tynan retained a lifelong admiration for him.
-
-MagdaleneCollegeCam.jpg
+pub in Oxford where the Inklings met on Tuesday mornings in 1939]] Lewis was a prolific writer, and his circle of literary friends became an informal discussion society known as the "Inklings", including J. R. R. Tolkien, Nevill Coghill, Lord David Cecil, Charles Williams, Owen Barfield, and his brother Warren Lewis. Glyer points to December 1929 as the Inklings' beginning date. Lewis's friendship with Coghill and Tolkien grew during their time as members of the Kolbítar, an Old Norse reading group that Tolkien founded and which ended around the time of the inception of the Inklings. At Oxford, he was the tutor of poet John Betjeman, critic Kenneth Tynan, mystic Bede Griffiths, novelist Roger Lancelyn Green and Sufi scholar Martin Lings, among many other undergraduates. Curiously, the religious and conservative Betjeman detested Lewis, whereas the anti-establishment Tynan retained a lifelong admiration for him.
 
 Of Tolkien, Lewis writes in _Surprised by Joy_:
 
@@ -140,7 +138,7 @@ Many ideas in the trilogy, particularly opposition to dehumanization as portraye
 
 Walter Hooper, Lewis's literary executor, discovered a fragment of another science-fiction novel apparently written by Lewis called _The Dark Tower_. Ransom appears in the story but it is not clear whether the book was intended as part of the same series of novels. The manuscript was eventually published in 1977, though Lewis scholar Kathryn Lindskoog doubts its authenticity.[57]
 
-Mourne_mountains.jpg inspired Lewis to write _The Chronicles of Narnia_. About them, Lewis wrote "I have seen landscapes ... which, under a particular light, make me feel that at any moment a giant might raise his head over the next ridge."[58]]]
+inspired Lewis to write _The Chronicles of Narnia_. About them, Lewis wrote "I have seen landscapes ... which, under a particular light, make me feel that at any moment a giant might raise his head over the next ridge."[58]]]
 
 _The Chronicles of Narnia_ is a series of seven fantasy novels for children and is considered a classic of children's literature. Written between 1949 and 1954 and illustrated by Pauline Baynes, the series is Lewis's most popular work, having sold over 100 million copies in 41 languages .
 
@@ -187,11 +185,9 @@ Lewis also had fairly progressive views on the topic of "animal morality", in pa
 
 Legacy
 
-Statue_of_C.S._Lewis,_Belfast.jpg's statue of C. S. Lewis in front of the wardrobe from his book _The Lion, the Witch and the Wardrobe_ in East Belfast]]
+'s statue of C. S. Lewis in front of the wardrobe from his book _The Lion, the Witch and the Wardrobe_ in East Belfast]]
 
 Lewis continues to attract a wide readership. In 2008, _The Times_ ranked him eleventh on their list of "the 50 greatest British writers since 1945".[78] Readers of his fiction are often unaware of what Lewis considered the Christian themes of his works. His Christian apologetics are read and quoted by members of many Christian denominations. In 2013, on the 50th anniversary of his death, Lewis joined some of Britain's greatest writers recognised at Poets' Corner, Westminster Abbey.[79] The dedication service, at noon on 22 November 2013, included a reading from _The Last Battle_ by Douglas Gresham, younger stepson of Lewis. Flowers were laid by Walter Hooper, trustee and literary advisor to the Lewis Estate. An address was delivered by former Archbishop of Canterbury Rowan Williams.[80] The floor stone inscription is a quotation from an address by Lewis:
-
-CSLewismural.png
 
 Many books have been inspired by Lewis, including _A Severe Mercy_ by his correspondent and friend Sheldon Vanauken. _The Chronicles of Narnia_ has been particularly influential. Modern children's literature has been more or less influenced by Lewis's series, such as Daniel Handler's _A Series of Unfortunate Events_, Eoin Colfer's _Artemis Fowl_, Philip Pullman's _His Dark Materials_, and J. K. Rowling's _Harry Potter_ . Pullman is an atheist and so fierce a critic of Lewis's work as to be dubbed "the anti-Lewis".[81][82] He considers C. S. Lewis a negative influence and has accused Lewis of featuring religious propaganda, misogyny, racism, and emotional sadism in his books. Authors of adult fantasy literature such as Tim Powers have also testified to being influenced by Lewis's work.
 

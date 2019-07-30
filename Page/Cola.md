@@ -12,7 +12,7 @@ A variety of different sweeteners may be added to cola, often partly dependent o
 
 Clear cola
 
-Crystal_Pepsi_20oz.jpg In the 1940s, Coca-Cola produced White Coke at the request of Marshal of the Soviet Union Georgy Zhukov.[7]
+In the 1940s, Coca-Cola produced White Coke at the request of Marshal of the Soviet Union Georgy Zhukov.[7]
 
 Clear colas were again produced during the Clear Craze of the early 1990s. Brands included Crystal Pepsi, Tab Clear, and 7 Up Ice Cola. Crystal Pepsi has been repeatedly reintroduced in the 2010s.
 
@@ -55,7 +55,7 @@ Asia
 
 Europe
 
-Berry_cola_stand_Reuilly.jpg cola", a soft drink produced in Indre (France)]]
+cola", a soft drink produced in Indre (France)]]
 
 -   Afri-Cola, a German brand, was relaunched in April 2006 with the original formulation with the higher caffeine content.
 -   Barr Cola made by A.G. Barr (the makers of the popular Irn-Bru drink) in the United Kingdom
@@ -86,8 +86,6 @@ Berry_cola_stand_Reuilly.jpg cola", a soft drink produced in Indre (France)]]
 -   Mole Cola is an Italian cola sold in Italy it is also occasionally sold in France in stores called Noz only.
 
 North America
-
-Flasche_Coca-Cola_0,2_Liter.jpg
 
 -   Coca-Cola, often referred to simply as COKE, is produced and manufactured by The Coca-Cola Company. It is one of the most popular cola brands in North America and worldwide.
 -   Pepsi, produced and manufactured by PepsiCo, is also one of the most popular cola brands in North America and worldwide. Pepsi is the main competitor and rival of Coca-Cola.

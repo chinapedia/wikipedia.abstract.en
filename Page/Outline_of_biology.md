@@ -1,4 +1,4 @@
-Drosophila-melanogaster-Nauener-Stadtwald-03-VII-2007-12.jpg, commonly used as a model organism]]
+, commonly used as a model organism]]
 
 BIOLOGY – The natural science that involves the study of life and living organisms, including their structure, function, growth, origin, evolution, distribution, and taxonomy.
 

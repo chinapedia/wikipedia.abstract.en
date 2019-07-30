@@ -7,7 +7,7 @@ Biography
 
 Early life and career
 
-Amazing_stories_195703.jpg_, has never been included in an authorized collection or anthology.]] Amazing_stories_195706.jpgFantastic_195705.jpg_.]] Fantastic_195711.jpg "Clyde Mitchell". The novella has never been republished.]] Fantastic_195810.jpg Fantastic_195904.jpg".]] Ellison was born to a Jewish family[5] in Cleveland, Ohio, on May 27, 1934, the son of Serita (née Rosenthal) and Louis Laverne Ellison, a dentist and jeweler.
+_, has never been included in an authorized collection or anthology.]] _.]] "Clyde Mitchell". The novella has never been republished.]] ".]] Ellison was born to a Jewish family[5] in Cleveland, Ohio, on May 27, 1934, the son of Serita (née Rosenthal) and Louis Laverne Ellison, a dentist and jeweler.
 
 -   -   "Harlan Ellison Biography (1934–)". filmreference.com His family subsequently moved to Painesville, Ohio, but returned to Cleveland in 1949, following his father's death. Ellison frequently ran away from home, taking an array of odd jobs—including, by age 18, "tuna fisherman off the coast of Galveston, itinerant crop-picker down in New Orleans, hired gun for a wealthy neurotic, nitroglycerine truck driver in North Carolina, short-order cook, cab driver, lithographer, book salesman, floorwalker in a department store, door-to-door brush salesman, and as a youngster, an actor in several productions at the Cleveland Play House".[6] In 1947, a fan letter he wrote to _Real Fact Comics_ became his first published writing.[7]
 
@@ -19,7 +19,7 @@ He served in the U.S. Army from 1957 to 1959.[13] His first novel, _Web of the C
 
 Hollywood and beyond
 
-Sfcon-ellison-talk-ddb.jpg Ellison moved to California in 1962, and subsequently began to sell his writing to Hollywood. He co-wrote the screenplay for _The Oscar_ (1966), starring Stephen Boyd and Elke Sommer. Ellison also sold scripts to many television shows: _The Loretta Young Show_ (using the name Harlan Ellis),_The Flying Nun_, _Burke's Law_, _Route 66,_ _The Outer Limits_,[16] _Star Trek_, _The Man from U.N.C.L.E._, _Cimarron Strip_, and _The Alfred Hitchcock Hour_. Ellison's screenplay for the _Star Trek_ episode "The City on the Edge of Forever" has been considered the best of the 79 episodes in the series.[17]
+Ellison moved to California in 1962, and subsequently began to sell his writing to Hollywood. He co-wrote the screenplay for _The Oscar_ (1966), starring Stephen Boyd and Elke Sommer. Ellison also sold scripts to many television shows: _The Loretta Young Show_ (using the name Harlan Ellis),_The Flying Nun_, _Burke's Law_, _Route 66,_ _The Outer Limits_,[16] _Star Trek_, _The Man from U.N.C.L.E._, _Cimarron Strip_, and _The Alfred Hitchcock Hour_. Ellison's screenplay for the _Star Trek_ episode "The City on the Edge of Forever" has been considered the best of the 79 episodes in the series.[17]
 
 In 1965, he participated in the Selma to Montgomery marches led by Martin Luther King, Jr.[18]
 

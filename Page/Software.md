@@ -1,4 +1,4 @@
-Operating_system_placement_(software).svg interacts with application software on a typical desktop computer.The application software layer interfaces with the operating system, which in turn communicates with the hardware. The arrows indicate information flow.]]
+interacts with application software on a typical desktop computer.The application software layer interfaces with the operating system, which in turn communicates with the hardware. The arrows indicate information flow.]]
 
 COMPUTER SOFTWARE, or simply SOFTWARE, is a collection of data or computer instructions that tell the computer how to work. This is in contrast to physical hardware, from which the system is built and actually performs the work. In computer science and software engineering, computer software is all information processed by computer systems, programs and data. Computer software includes computer programs, libraries and related non-executable data, such as online documentation or digital media. Computer hardware and software require each other and neither can be realistically used on its own.
 

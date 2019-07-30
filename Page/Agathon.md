@@ -1,4 +1,4 @@
-Feuerbach_symposium.jpg re-imagines a scene from Plato's _Symposium_, in which the tragedian Agathon welcomes the drunken Alcibiades into his home. 1869.]]
+re-imagines a scene from Plato's _Symposium_, in which the tragedian Agathon welcomes the drunken Alcibiades into his home. 1869.]]
 
 AGATHON (; ; ) was an Athenian tragic poet whose works have been lost. He is best known for his appearance in Plato's _Symposium,_ which describes the banquet given to celebrate his obtaining a prize for his first tragedy at the Lenaia in 416.[1] He is also a prominent character in Aristophanes' comedy the _Thesmophoriazusae_.
 

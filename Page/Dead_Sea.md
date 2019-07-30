@@ -1,4 +1,4 @@
-Channel2_-_Dead_Sea.webm|thumb]]
+|thumb]]
 
 The DEAD SEA ( lit. SEA OF SALT; [1]) is a salt lake bordered by Jordan to the east and Israel and the West Bank to the west. It lies in the Jordan Rift Valley, and its main tributary is the Jordan River.
 
@@ -18,7 +18,7 @@ In prose sometimes the term __ (, "sea of death") is used, due to the scarcity o
 
 Geography
 
-Dead_Sea_Galilee.jpg showing the location of the Dead Sea east of the Mediterranean Sea]] The Dead Sea is an endorheic lake located in the Jordan Rift Valley, a geographic feature formed by the Dead Sea Transform (DST). This left lateral-moving transform fault lies along the tectonic plate boundary between the African Plate and the Arabian Plate. It runs between the East Anatolian Fault zone in Turkey and the northern end of the Red Sea Rift offshore of the southern tip of Sinai. It is here that the Upper Jordan River/Sea of Galilee/Lower Jordan River water system comes to an end.
+showing the location of the Dead Sea east of the Mediterranean Sea]] The Dead Sea is an endorheic lake located in the Jordan Rift Valley, a geographic feature formed by the Dead Sea Transform (DST). This left lateral-moving transform fault lies along the tectonic plate boundary between the African Plate and the Arabian Plate. It runs between the East Anatolian Fault zone in Turkey and the northern end of the Red Sea Rift offshore of the southern tip of Sinai. It is here that the Upper Jordan River/Sea of Galilee/Lower Jordan River water system comes to an end.
 
 The Jordan River is the only major water source flowing into the Dead Sea, although there are small perennial springs under and around the Dead Sea, forming pools and quicksand pits along the edges.[12] There are no outlet streams.
 
@@ -31,7 +31,7 @@ To the west of the Dead Sea, the Judaean mountains rise less steeply and are muc
 
 Natural history
 
-Dead_Sea,_Jordanian_Shore.jpg There are two contending hypotheses about the origin of the low elevation of the Dead Sea. The older hypothesis is that the Dead Sea lies in a true rift zone, an extension of the Red Sea Rift, or even of the Great Rift Valley of eastern Africa. A more recent hypothesis is that the Dead Sea basin is a consequence of a "step-over" discontinuity along the Dead Sea Transform, creating an extension of the crust with consequent subsidence.
+There are two contending hypotheses about the origin of the low elevation of the Dead Sea. The older hypothesis is that the Dead Sea lies in a true rift zone, an extension of the Red Sea Rift, or even of the Great Rift Valley of eastern Africa. A more recent hypothesis is that the Dead Sea basin is a consequence of a "step-over" discontinuity along the Dead Sea Transform, creating an extension of the crust with consequent subsidence.
 
 Around 3.7 million years ago, what is now the valley of the Jordan River, Dead Sea, and the northern Wadi Arabah was repeatedly inundated by waters from the Mediterranean Sea. The waters formed in a narrow, crooked bay that is called by geologists the Sedom Lagoon, which was connected to the sea through what is now the Jezreel Valley. The floods of the valley came and went depending on long-scale climate change. The Sedom Lagoon[17] deposited beds of salt that eventually became thick.
 
@@ -51,13 +51,13 @@ The Dead Sea's climate (_BWh_) offers year-round sunny skies and dry air. It has
 
 Chemistry
 
-Dead_Sea_Halite_View_031712.jpgWith 34.2% salinity (in 2011), it is one of the world's saltiest bodies of water, though Lake Vanda in Antarctica (35%), Lake Assal in Djibouti (34.8%), Lagoon Garabogazköl in the Caspian Sea (up to 35%) and some hypersaline ponds and lakes of the McMurdo Dry Valleys in Antarctica (such as Don Juan Pond (44%)) have reported higher salinities.
+With 34.2% salinity (in 2011), it is one of the world's saltiest bodies of water, though Lake Vanda in Antarctica (35%), Lake Assal in Djibouti (34.8%), Lagoon Garabogazköl in the Caspian Sea (up to 35%) and some hypersaline ponds and lakes of the McMurdo Dry Valleys in Antarctica (such as Don Juan Pond (44%)) have reported higher salinities.
 
 Until the winter of 1978–79, when a major mixing event took place,[27] the Dead Sea was composed of two stratified layers of water that differed in temperature, density, age, and salinity. The topmost or so of the Dead Sea had an average salinity of 342 parts per thousand (in 2002), and a temperature that swung between and . Underneath a zone of transition, the lowest level of the Dead Sea had waters of a consistent temperature and complete saturation of sodium chloride (NaCl). Since the water near the bottom is saturated, the salt precipitates out of solution onto the sea floor.
 
-Beginning in the 1960s, water inflow to the Dead Sea from the Jordan River was reduced as a result of large-scale irrigation and generally low rainfall. By 1975, the upper water layer was saltier than the lower layer. Nevertheless, the upper layer remained suspended above the lower layer because its waters were warmer and thus less dense. When the upper layer cooled so its density was greater than the lower layer, the waters mixed (1978–79). For the first time in centuries, the lake was a homogeneous body of water. Since then, stratification has begun to redevelop.[28]SaltCementedPebblesDeadSea.JPG on the western shore of the Dead Sea near Ein Gedi|alt=|left]]
+Beginning in the 1960s, water inflow to the Dead Sea from the Jordan River was reduced as a result of large-scale irrigation and generally low rainfall. By 1975, the upper water layer was saltier than the lower layer. Nevertheless, the upper layer remained suspended above the lower layer because its waters were warmer and thus less dense. When the upper layer cooled so its density was greater than the lower layer, the waters mixed (1978–79). For the first time in centuries, the lake was a homogeneous body of water. Since then, stratification has begun to redevelop.[28] on the western shore of the Dead Sea near Ein Gedi|alt=|left]]
 
-The mineral content of the Dead Sea is very different from that of ocean water. The exact composition of the Dead Sea water varies mainly with season, depth and temperature. In the early 1980s, the concentration of ionic species (in g/kg) of Dead Sea surface water was Cl^(−) (181.4), Br^(−) (4.2), SO₄^(2−) (0.4), HCO₃^(−) (0.2), Ca²⁺ (14.1), Na⁺ (32.5), K⁺ (6.2) and Mg²⁺ (35.2). The total salinity was 276 g/kg.[29] These results show that the composition of the salt, as anhydrous chlorides on a weight percentage basis, was calcium chloride (CaCl₂) 14.4%, potassium chloride (KCl) 4.4%, magnesium chloride (MgCl₂) 50.8% and sodium chloride (NaCl) 30.4%. In comparison, the salt in the water of most oceans and seas is approximately 85% sodium chloride. The concentration of sulfate ions (SO₄^(2−)) is very low, and the concentration of bromide ions (Br^(−)) is the highest of all waters on Earth.Halite_Dead_Sea_Beach_Pebbles.JPG; western coast]]
+The mineral content of the Dead Sea is very different from that of ocean water. The exact composition of the Dead Sea water varies mainly with season, depth and temperature. In the early 1980s, the concentration of ionic species (in g/kg) of Dead Sea surface water was Cl^(−) (181.4), Br^(−) (4.2), SO₄^(2−) (0.4), HCO₃^(−) (0.2), Ca²⁺ (14.1), Na⁺ (32.5), K⁺ (6.2) and Mg²⁺ (35.2). The total salinity was 276 g/kg.[29] These results show that the composition of the salt, as anhydrous chlorides on a weight percentage basis, was calcium chloride (CaCl₂) 14.4%, potassium chloride (KCl) 4.4%, magnesium chloride (MgCl₂) 50.8% and sodium chloride (NaCl) 30.4%. In comparison, the salt in the water of most oceans and seas is approximately 85% sodium chloride. The concentration of sulfate ions (SO₄^(2−)) is very low, and the concentration of bromide ions (Br^(−)) is the highest of all waters on Earth.; western coast]]
 
 The salt concentration of the Dead Sea fluctuates around 31.5%. This is unusually high and results in a nominal density of 1.24 kg/l. Anyone can easily float in the Dead Sea because of natural buoyancy. In this respect the Dead Sea is similar to the Great Salt Lake in Utah in the United States.
 
@@ -89,7 +89,7 @@ Dead Sea mud pack therapy has been suggested to temporarily relieve pain in pati
 
 Fauna and flora
 
-Dead_Sea_Sunrise.jpg]]
+]]
 
 The sea is called "dead" because its high salinity prevents macroscopic aquatic organisms, such as fish and aquatic plants, from living in it, though minuscule quantities of bacteria and microbial fungi are present.
 
@@ -111,7 +111,7 @@ Potash City is a small community on the Jordanian side of the Dead Sea, and othe
 
 Human history
 
-MountSodom061607.jpg, Israel, showing the so-called "Lot's Wife" pillar (made of Halite (mineral) like the rest of the mountain)]]
+, Israel, showing the so-called "Lot's Wife" pillar (made of Halite (mineral) like the rest of the mountain)]]
 
 Biblical period
 
@@ -125,7 +125,7 @@ Greek and Roman period
 
 Aristotle wrote about the remarkable waters. The Nabateans and others discovered the value of the globs of natural asphalt that constantly floated to the surface where they could be harvested with nets. The Egyptians were steady customers, as they used asphalt in the embalming process that created mummies. The Ancient Romans knew the Dead Sea as "_Palus Asphaltites_"[39] (Asphalt Lake).
 
-Madaba_BW_9_THERMA_KALLIROIS_highlighted.jpg, from the 6th century AD]] The Dead Sea was an important trade route with ships carrying salt, asphalt and agricultural produce. Multiple anchorages existed on both sides of the sea, including in Ein Gedi, Khirbet Mazin (where the ruins of a Hasmonean-era dry dock are located), Numeira and near Masada.[40][41]
+, from the 6th century AD]] The Dead Sea was an important trade route with ships carrying salt, asphalt and agricultural produce. Multiple anchorages existed on both sides of the sea, including in Ein Gedi, Khirbet Mazin (where the ruins of a Hasmonean-era dry dock are located), Numeira and near Masada.[40][41]
 
 King Herod the Great built or rebuilt several fortresses and palaces on the western bank of the Dead Sea. The most famous was Masada, where in 70 CE a small group of Jewish zealots fled after the fall of the destruction of the Second Temple. The zealots survived until 73 CE, when a siege by the X Legion ended in the deaths by suicide of its 960 inhabitants. Another historically important fortress was Machaerus (מכוור), on the eastern bank, where, according to Josephus, John the Baptist was imprisoned by Herod Antipas and died.[42]
 
@@ -141,7 +141,7 @@ Intimately connected with the Judean wilderness to its northwest and west, the D
 
 Modern times
 
-IRBY(1823)_p507_SKETCH_OF_THE_BACKWATER_AT_THE_SOUTH_END_OF_THE_DEAD_SEA.jpg In the 19th century the River Jordan and the Dead Sea were explored by boat primarily by Christopher Costigan in 1835, Thomas Howard Molyneux in 1847, William Francis Lynch in 1848, and John MacGregor in 1869.[47] The full text of W. F. Lynch's 1949 book _Narrative of the United States' Expedition to the River Jordan and the Dead Sea_ is available online. Charles Leonard Irby and James Mangles travelled along the shores of the Dead Sea already in 1817–18, but didn't navigate on its waters.[48] World's_lowest_point_(1971).jpg, 1971]]
+In the 19th century the River Jordan and the Dead Sea were explored by boat primarily by Christopher Costigan in 1835, Thomas Howard Molyneux in 1847, William Francis Lynch in 1848, and John MacGregor in 1869.[47] The full text of W. F. Lynch's 1949 book _Narrative of the United States' Expedition to the River Jordan and the Dead Sea_ is available online. Charles Leonard Irby and James Mangles travelled along the shores of the Dead Sea already in 1817–18, but didn't navigate on its waters.[48] , 1971]]
 
 Explorers and scientists arrived in the area to analyze the minerals and research the unique climate.
 
@@ -154,7 +154,7 @@ The world's lowest roads, Highway 90, run along the Israeli and West Bank shores
 
 Tourism and leisure
 
-Ein_Bokek_-_Dead_Sea2.jpg, a resort on the Israeli shore]]
+, a resort on the Israeli shore]]
 
 British Mandate period
 
@@ -168,7 +168,7 @@ Israel has 15 hotels along the Dead Sea shore, generating total revenues of $291
 
 Jordan
 
-Kempinski_Hotel_Ishtar_-_Dead_Sea_-_Jordan.jpgian shore]] On the Jordanian side, nine international franchises have opened seaside resort hotels near the King Hussein Bin Talal Convention Center, along with resort apartments, on the eastern shore of the Dead Sea. The 9 hotels have boosted the Jordanian side's capacity to 2,800 rooms.[50]
+ian shore]] On the Jordanian side, nine international franchises have opened seaside resort hotels near the King Hussein Bin Talal Convention Center, along with resort apartments, on the eastern shore of the Dead Sea. The 9 hotels have boosted the Jordanian side's capacity to 2,800 rooms.[50]
 
 On November 22, 2015, the Dead Sea panorama road was included along with 40 archaeological locations in Jordan, to become live on Google Street View.[51]
 
@@ -179,7 +179,7 @@ The Palestinian Dead Sea Coast is about long. The World Bank estimates that a Pa
 
 Chemical industry
 
-STS028-96-65.jpg (STS-28). The southern half is separated from the northern half at what used to be the Lisan Peninsula because of the fall in level of the Dead Sea.]] Dead-Sea---Salt-Evaporation-Ponds.jpg). A northern and small southeastern extension were added and the large polygonal ponds subdivided.]] Dead_sea_ecological_disaster_1960_-_2007.gif
+(STS-28). The southern half is separated from the northern half at what used to be the Lisan Peninsula because of the fall in level of the Dead Sea.]] ). A northern and small southeastern extension were added and the large polygonal ponds subdivided.]]
 
 British Mandate period
 
@@ -208,7 +208,7 @@ Due to the popularity of the sea's therapeutic and healing properties, several c
 
 Recession and environmental concerns
 
-Dead_Sea_Coastal_Erosion_March_2012.JPG in less than a year.]]
+in less than a year.]]
 
 Since 1930, when its surface was and its level was below sea level, the Dead Sea has been monitored continuously.[63] In recent decades, the Dead Sea has been rapidly shrinking because of diversion of incoming water from the Jordan River to the north. The southern end is fed by a canal maintained by the Dead Sea Works, a company that converts the sea's raw materials. From a water surface of below sea level in 1970[64] it fell to below sea level in 2006, reaching a drop rate of per year. As the water level decreases, the characteristics of the Sea and surrounding region may substantially change.
 
@@ -216,7 +216,7 @@ The Dead Sea level drop has been followed by a groundwater level drop, causing b
 
 In May 2009 at the World Economic Forum, Jordan announced its plans to construct the "Jordan National Red Sea Development Project" (JRSP). This is a plan to convey seawater from the Red Sea near Aqaba to the Dead Sea. Water would be desalinated along the route to provide fresh water to Jordan, with the brine discharge sent to the Dead Sea for replenishment. Israel has expressed its support and will likely benefit from some of the water delivery to its Negev region.[66][67]
 
-At a regional conference in July 2009, officials expressed concern about the declining water levels. Some suggested industrial activities around the Dead Sea might need to be reduced. Others advised environmental measures to restore conditions such as increasing the volume of flow from the Jordan River to replenish the Dead Sea. Currently, only sewage and effluent from fish ponds run in the river's channel. Experts also stressed the need for strict conservation efforts. They said agriculture should not be expanded, sustainable support capabilities should be incorporated into the area and pollution sources should be reduced.[68] Red_Sea_-_Dead_Sea_Canal_map.jpg, whose first phase will begin construction in 2021, will work towards stabilizing the falling levels of the Dead Sea]]
+At a regional conference in July 2009, officials expressed concern about the declining water levels. Some suggested industrial activities around the Dead Sea might need to be reduced. Others advised environmental measures to restore conditions such as increasing the volume of flow from the Jordan River to replenish the Dead Sea. Currently, only sewage and effluent from fish ponds run in the river's channel. Experts also stressed the need for strict conservation efforts. They said agriculture should not be expanded, sustainable support capabilities should be incorporated into the area and pollution sources should be reduced.[68] , whose first phase will begin construction in 2021, will work towards stabilizing the falling levels of the Dead Sea]]
 
   Year   Water level (m)   Surface (km²)
   ------ ----------------- ---------------
@@ -235,8 +235,6 @@ In October 2009, the Jordanians announced accelerated plans to extract around of
 In December 2013, Israel, Jordan and the Palestinian Authority signed an agreement for laying a water pipeline to link the Red Sea with the Dead Sea. The pipeline will be long and is estimated to take up to five years to complete.[75] In January 2015 it was reported that the level of water is now dropping by a year.[76]
 
 On 27 November 2016, it was announced that the Jordanian government is shortlisting five consortiums to implement the project. Jordan's ministry of Water and Irrigation said that the $100 million first phase of the project will begin construction in the first quarter of 2018, and will be completed by 2021.[77]
-
-The_Dead_Sea_1972-2011_-_NASA_Earth_Observatory.jpg
 
 
 See also

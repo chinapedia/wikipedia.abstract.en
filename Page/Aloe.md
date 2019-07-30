@@ -1,4 +1,4 @@
-Split_Aloe.jpgs, such as this aloe, store water in their enlarged fleshy leaves, stems, or roots, as shown in this split aloe leaf. This allows them to survive in arid environments.]] Aloe_vossii_-_plant_(aka).jpg_]] Aloe_rubroviolacea2.jpg_]] _ALOE_ ( , ), also written _Aloë_, is a genus containing over 500 species of flowering succulent plants.[1] The most widely known species is _Aloe vera_, or "true aloe", so called because it is cultivated as the standard source of so-called "aloe vera" for assorted pharmaceutical purposes.[2] Other species, such as _Aloe ferox_, also are cultivated or harvested from the wild for similar applications.
+s, such as this aloe, store water in their enlarged fleshy leaves, stems, or roots, as shown in this split aloe leaf. This allows them to survive in arid environments.]] _]] _]] _ALOE_ ( , ), also written _Aloë_, is a genus containing over 500 species of flowering succulent plants.[1] The most widely known species is _Aloe vera_, or "true aloe", so called because it is cultivated as the standard source of so-called "aloe vera" for assorted pharmaceutical purposes.[2] Other species, such as _Aloe ferox_, also are cultivated or harvested from the wild for similar applications.
 
 The APG IV system (2016) places the genus in the family Asphodelaceae, subfamily Asphodeloideae. Within the subfamily it may be placed in the tribe Aloeae.[3] In the past, it has been assigned to the family Aloaceae (now included in the Asphodeloidae) or to a broadly circumscribed family Liliaceae (the lily family). The plant _Agave americana_, which is sometimes called "American aloe", belongs to the Asparagaceae, a different family.
 
@@ -75,7 +75,7 @@ Over 500 species are accepted in the genus _Aloe_, plus even more synonyms and u
 -   _Aloe viridiflora_ Reynolds
 -   _Aloe wildii_ (Reynolds) Reynolds
 
-In addition to the species and hybrids between species within the genus, several hybrids with other genera have been created in cultivation, such as between _Aloe_ and _Gasteria_ (_×Gasteraloe_), and between _Aloe_ and _Astroloba_ (_×Aloloba_). Aloe_diversity.jpg ]]
+In addition to the species and hybrids between species within the genus, several hybrids with other genera have been created in cultivation, such as between _Aloe_ and _Gasteria_ (_×Gasteraloe_), and between _Aloe_ and _Astroloba_ (_×Aloloba_). ]]
 
 
 Uses
@@ -86,7 +86,7 @@ Numerous cultivars with mixed or uncertain parentage are grown. Of these, _Aloe_
 
 Historical uses
 
-Aloe,_Juliana_Anicia_Codex.jpg, a copy, written in Constantinople in 515 AD, of Dioscorides' 1st century AD work.[12]]] Historical use of various aloe species is well documented. Documentation of the clinical effectiveness is available, although relatively limited.[13][14]
+, a copy, written in Constantinople in 515 AD, of Dioscorides' 1st century AD work.[12]]] Historical use of various aloe species is well documented. Documentation of the clinical effectiveness is available, although relatively limited.[13][14]
 
 Of the 500+ species, only a few were used traditionally as herbal medicines, _Aloe vera_ again being the most commonly used species. Also included are _A. perryi_ and _A. ferox_. The Ancient Greeks and Romans used _Aloe vera_ to treat wounds. In the Middle Ages, the yellowish liquid found inside the leaves was favored as a purgative.[15] Unprocessed aloe that contains aloin is generally used as a laxative, whereas processed juice does not usually contain significant aloin.[16]
 

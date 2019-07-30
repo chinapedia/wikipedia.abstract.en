@@ -7,8 +7,6 @@ IUPAC is best known for its works standardizing nomenclature in chemistry and ot
 
 Creation and history
 
-Frkekulé.jpg
-
 The need for an international standard for chemistry was first addressed in 1860 by a committee headed by German scientist Friedrich August Kekulé von Stradonitz. This committee was the first international conference to create an international naming system for organic compounds.[14] The ideas that were formulated in that conference evolved into the official IUPAC nomenclature of organic chemistry.[15] IUPAC stands as a legacy of this meeting, making it one of the most important historical international collaborations of chemistry societies.[16] Since this time, IUPAC has been the official organization held with the responsibility of updating and maintaining official organic nomenclature.[17] IUPAC as such was established in 1919.[18] One notable country excluded from this early IUPAC is Germany. Germany's exclusion was a result of prejudice towards Germans by the Allied powers after World War I.[19] Germany was finally admitted into IUPAC during 1929. However, Nazi Germany was removed from IUPAC during World War II.
 
 During World War II, IUPAC was affiliated with the Allied powers, but had little involvement during the war effort itself. After the war, East and West Germany were eventually readmitted to IUPAC.[20][21] Since World War II, IUPAC has been focused on standardizing nomenclature and methods in science without interruption.
@@ -115,8 +113,6 @@ IUPAC organic nomenclature has three basic parts: the substituents, carbon chain
 
 Another example of IUPAC organic nomenclature is cyclohexanol:
 
-Cyclohexanol_acsv.svg
-
 -   The substituent name for a ring compound is _cyclo_.
 -   The indication (substituent name) for a six carbon chain is _hex_.
 -   The chemical ending for a single bonded carbon chain is _ane_
@@ -128,8 +124,6 @@ Inorganic nomenclature
 Basic IUPAC inorganic nomenclature has two main parts: the cation and the anion. The cation is the name for the positively charged ion and the anion is the name for the negatively charged ion.[44]
 
 An example of IUPAC nomenclature of inorganic chemistry is potassium chlorate (KClO₃):
-
-Potassium-chlorate-composition.png
 
 -   "Potassium" is the cation name.
 -   "Chlorate" is the anion name.[45]
@@ -256,8 +250,6 @@ IUPAC color code their books in order to make each publication distinguishable.[
 
 
 International Year of Chemistry
-
-Internationales_Jahr_der_Chemie.svg
 
 IUPAC and UNESCO were the lead organizations coordinating events for the International Year of Chemistry, which took place in 2011.[84][85] The International Year of Chemistry was originally proposed by IUPAC at the general assembly in Turin, Italy.[86] This motion was adopted by UNESCO at a meeting in 2008.[87] The main objectives of the International Year of Chemistry were to increase public appreciation of chemistry and gain more interest in the world of chemistry. This event is also being held to encourage young people to get involved and contribute to chemistry. A further reason for this event being held is to honour how chemistry has made improvements to everyone's way of life.[88]
 

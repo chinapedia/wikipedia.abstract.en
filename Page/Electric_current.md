@@ -14,7 +14,7 @@ The conventional symbol for current is , which originates from the French phrase
 
 Conventions
 
-Current_notation.svgs, the charge carriers in an electrical circuit, flow in the opposite direction of the conventional electric current.]] Battery_symbol2.svg for a battery in a circuit diagram.]]
+s, the charge carriers in an electrical circuit, flow in the opposite direction of the conventional electric current.]] for a battery in a circuit diagram.]]
 
 In a conductive material, the moving charged particles that constitute the electric current are called charge carriers. In metals, which make up the wires and other conductors in most electrical circuits, the positively charged atomic nuclei of the atoms are held in a fixed position, and the negatively charged electrons are the charge carriers, free to move about in the metal. In other materials, notably the semiconductors, the charge carriers can be positive _or_ negative, depending on the dopant used. Positive and negative charge carriers may even be present at the same time, as happens in an electrolyte in an electrochemical cell.
 
@@ -83,7 +83,7 @@ Electromagnetism
 
 Electromagnet
 
-In an electromagnet a coil of wires behaves like a magnet when an electric current flows through it. When the current is switched off, the coil loses its magnetism immediately. Electromagnetism.svg, an electric current produces a magnetic field.]] Electric current produces a magnetic field. The magnetic field can be visualized as a pattern of circular field lines surrounding the wire that persists as long as there is current.
+In an electromagnet a coil of wires behaves like a magnet when an electric current flows through it. When the current is switched off, the coil loses its magnetism immediately. , an electric current produces a magnetic field.]] Electric current produces a magnetic field. The magnetic field can be visualized as a pattern of circular field lines surrounding the wire that persists as long as there is current.
 
 Electromagnetic induction
 

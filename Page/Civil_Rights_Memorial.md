@@ -1,5 +1,3 @@
-The_Civil_Rights_Memorial,_Montgomery,_AL.jpg
-
 The CIVIL RIGHTS MEMORIAL is a memorial in Montgomery, Alabama, to 41 people who were killed in the struggle for the equal and integrated treatment of all people, regardless of race, during the 1954-1968 civil rights movement in the United States.[1] The memorial is sponsored by the Southern Poverty Law Center.[2]
 
 

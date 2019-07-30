@@ -36,7 +36,7 @@ Number One Observatory Circle, located on the northeast grounds of the United St
 
 Office of the Chief of Naval Operations
 
-US_Navy_Office_of_Chief_Naval_Operations_Org_Chart.png of the Office of the Chief of Naval Operations (OPNAV).]] The Chief of Naval Operations presides over the NAVY STAFF, formally known as the OFFICE OF THE CHIEF OF NAVAL OPERATIONS (OPNAV).[13][14] The Office of the Chief of Naval Operations is a statutory organization within the executive part of the Department of the Navy, and its purpose is to furnish professional assistance to the Secretary of the Navy (SECNAV) and the CNO in carrying out their responsibilities.[15][16]
+of the Office of the Chief of Naval Operations (OPNAV).]] The Chief of Naval Operations presides over the NAVY STAFF, formally known as the OFFICE OF THE CHIEF OF NAVAL OPERATIONS (OPNAV).[13][14] The Office of the Chief of Naval Operations is a statutory organization within the executive part of the Department of the Navy, and its purpose is to furnish professional assistance to the Secretary of the Navy (SECNAV) and the CNO in carrying out their responsibilities.[15][16]
 
 The OPNAV organization consists of:
 
@@ -71,7 +71,7 @@ List of Chiefs of Naval Operations (1915–present)
 
 The position of CNO replaced the position of Aide for Naval Operations, which was a position established by regulation rather than statutory law.[21] († - _died in office_)
 
-US_Navy_061205-N-0696M-018_Chief_of_Naval_Operations_(CNO)_Adm._Mike_Mullen_meets_with_former_Navy_Chief's_at_a_CNO_Conference_at_the_Pentagon.jpg (CNO in December 2006) with some of his predecessors: Clark, Watkins, Hayward and Johnson]]
+(CNO in December 2006) with some of his predecessors: Clark, Watkins, Hayward and Johnson]]
 
 
 See also

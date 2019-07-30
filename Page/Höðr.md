@@ -1,4 +1,4 @@
-Loki_and_Hod.jpg tricks Höðr into shooting Baldr]] HÖÐR ( ; often anglicized as HOD, HODER, or HODUR) is a blind god and a son of Odin and Frigg in Norse mythology. Tricked and guided by Loki, he shot the mistletoe arrow which was to slay the otherwise invulnerable Baldr.
+tricks Höðr into shooting Baldr]] HÖÐR ( ; often anglicized as HOD, HODER, or HODUR) is a blind god and a son of Odin and Frigg in Norse mythology. Tricked and guided by Loki, he shot the mistletoe arrow which was to slay the otherwise invulnerable Baldr.
 
 According to the _Prose Edda_ and the _Poetic Edda_, the goddess Frigg, Baldr's mother, made everything in existence swear never to harm Baldr, except for the mistletoe, which she found too unimportant to ask (alternatively, which she found too young to demand an oath from). The gods amused themselves by trying weapons on Baldr and seeing them fail to do any harm. Loki, the mischief-maker, upon finding out about Baldr's one weakness, made a spear from mistletoe, and helped Höðr shoot it at Baldr.[1][2][3] In reaction to this, Odin and the giantess Rindr gave birth to Váli, who grew to adulthood within a day and slew Höðr.
 
@@ -169,7 +169,7 @@ The name of Höðr occurs several times in skaldic poetry as a part of warrior-k
 
 _Gesta Danorum_
 
-Hotherus_and_wood_maidens_by_Froelich.jpg's version of the story Høtherus meets wood maidens who warn him that Balderus is a demi-god who can't be killed by normal means.]]
+'s version of the story Høtherus meets wood maidens who warn him that Balderus is a demi-god who can't be killed by normal means.]]
 
 In _Gesta Danorum_ HOTHERUS is a human hero of the Danish and Swedish royal lines. He is gifted in swimming, archery, fighting and music and Nanna, daughter of King Gevarus falls in love with him. But at the same time Balderus, son of Othinus, has caught sight of Nanna bathing and fallen violently in love with her. He resolves to slay Hotherus, his rival.
 

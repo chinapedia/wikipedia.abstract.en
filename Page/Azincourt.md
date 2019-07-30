@@ -31,7 +31,7 @@ Sights
 
 The original battlefield museum in the village featured model knights made out of Action Man figures. However, this has now been replaced by the Centre Historique Medieval (CHM) a more professional museum, conference centre and exhibition space incorporating laser, video, slide shows, audio commentaries, and some interactive elements.[6] The museum building is shaped like a longbow similar to those used at the battle by archers under King Henry.
 
-Since 2004 a large medieval festival organised by the local community, the CHM, The Azincourt Alliance,[7] and various other UK societies commemorating the battle, local history and medieval life, arts and crafts has been held in the village.[8] Prior to this date the festival was held in October, but due to the inclement weather and local heavy clay soil (like the battle) making the festival difficult, it was moved to the last Sunday in July. Azincourt.jpg
+Since 2004 a large medieval festival organised by the local community, the CHM, The Azincourt Alliance,[7] and various other UK societies commemorating the battle, local history and medieval life, arts and crafts has been held in the village.[8] Prior to this date the festival was held in October, but due to the inclement weather and local heavy clay soil (like the battle) making the festival difficult, it was moved to the last Sunday in July.
 
 
 International relations

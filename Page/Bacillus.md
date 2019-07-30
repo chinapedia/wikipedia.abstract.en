@@ -359,7 +359,7 @@ A portion of the _Bacillus thuringiensis_ genome was incorporated into corn (and
 
 Use as model organism
 
-Bacillus_subtilis_colonies.jpg'' on an agar plate.]] _Bacillus subtilis_ is one of the best understood prokaryotes, in terms of molecular and cellular biology. Its superb genetic amenability and relatively large size have provided the powerful tools required to investigate a bacterium from all possible aspects. Recent improvements in fluorescent microscopy techniques have provided novel insight into the dynamic structure of a single cell organism. Research on _B. subtilis_ has been at the forefront of bacterial molecular biology and cytology, and the organism is a model for differentiation, gene/protein regulation, and cell cycle events in bacteria.[21]
+'' on an agar plate.]] _Bacillus subtilis_ is one of the best understood prokaryotes, in terms of molecular and cellular biology. Its superb genetic amenability and relatively large size have provided the powerful tools required to investigate a bacterium from all possible aspects. Recent improvements in fluorescent microscopy techniques have provided novel insight into the dynamic structure of a single cell organism. Research on _B. subtilis_ has been at the forefront of bacterial molecular biology and cytology, and the organism is a model for differentiation, gene/protein regulation, and cell cycle events in bacteria.[21]
 
 
 See also

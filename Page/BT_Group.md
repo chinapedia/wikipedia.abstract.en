@@ -25,7 +25,7 @@ In 1969 the GPO, a government department, became the Post Office, a nationalised
 
 Formation of British Telecom
 
-British_Telecom_1981.svg The _British Telecom_ brand was introduced in 1980. On 1 October 1981, this became the official name of Post Office Telecommunications, which became a state-owned corporation independent of the Post Office under the provisions of the British Telecommunications Act 1981. In 1982 BT's monopoly on telecommunications was broken with the granting of a licence to Mercury Communications.[9]
+The _British Telecom_ brand was introduced in 1980. On 1 October 1981, this became the official name of Post Office Telecommunications, which became a state-owned corporation independent of the Post Office under the provisions of the British Telecommunications Act 1981. In 1982 BT's monopoly on telecommunications was broken with the granting of a licence to Mercury Communications.[9]
 
 Privatisation
 
@@ -136,7 +136,7 @@ On 18 April 2018, BT announced further organisational changes following unificat
 
 Operations
 
-BT_Adastral_Park,_Ipswich,_UK_-_geograph.org.uk_-_39100.jpg campus at Martlesham Heath in Suffolk, the principal site of BT Research.]] BT Group is a holding company; the majority of its businesses and assets are held by its wholly owned subsidiary British Telecommunications plc.[90] BT's businesses are operated under special government regulation by the British telecoms regulator Ofcom (formerly Oftel). BT has been found to have significant market power in some markets following market reviews by Ofcom. In these markets, BT is required to comply with additional obligations such as meeting reasonable requests to supply services and not to discriminate.[91]
+campus at Martlesham Heath in Suffolk, the principal site of BT Research.]] BT Group is a holding company; the majority of its businesses and assets are held by its wholly owned subsidiary British Telecommunications plc.[90] BT's businesses are operated under special government regulation by the British telecoms regulator Ofcom (formerly Oftel). BT has been found to have significant market power in some markets following market reviews by Ofcom. In these markets, BT is required to comply with additional obligations such as meeting reasonable requests to supply services and not to discriminate.[91]
 
 BT runs the telephone exchanges, trunk network and local loop connections for the vast majority of British fixed-line telephones. Currently BT is responsible for approximately 28 million telephone lines in GB. Apart from KCOM Group, which serves Kingston upon Hull, BT is the only UK telecoms operator to have a _Universal service Obligation,_ (USO) which means it must provide a fixed telephone line to any address in the UK. It is also obliged to provide public call boxes.[92]
 
@@ -151,7 +151,7 @@ As BT operates in around 180 countries, it owns and leases a range of buildings 
 
 Headquarters
 
-BT_Centre_3195_stitched.jpg BT Group's world headquarters and registered office is the BT Centre, a 10-storey office building at 81 Newgate Street in the City of London, opposite St. Paul's tube station.[95]
+BT Group's world headquarters and registered office is the BT Centre, a 10-storey office building at 81 Newgate Street in the City of London, opposite St. Paul's tube station.[95]
 
 Buildings and stations
 
@@ -190,7 +190,7 @@ Internal service unit
 
 Corporate governance
 
-Gavin_Patterson_at_Chatham_House_2016.jpg at the 2016 Chatham House Corporate Leaders Series.]] BT's current board of directors as of November 2018:[101]
+at the 2016 Chatham House Corporate Leaders Series.]] BT's current board of directors as of November 2018:[101]
 
 BT's current executive committee as of March 2018:[102]
 

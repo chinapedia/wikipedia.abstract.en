@@ -1,4 +1,4 @@
-Chinese_Calendar_of_2017.png Chinese_Calendar(Daoguang_15).jpg The traditional CHINA CALENDAR (officially known as the Rural Calendar []), or Former Calendar (), Traditional Calendar () or Lunar Calendar (), is a lunisolar calendar which reckons years, months and days according to astronomical phenomena. It is defined by GB/T 33661-2017, "Calculation and promulgation of the Chinese calendar", issued by the Standardisation Administration of China on 12 May 2017.
+The traditional CHINA CALENDAR (officially known as the Rural Calendar []), or Former Calendar (), Traditional Calendar () or Lunar Calendar (), is a lunisolar calendar which reckons years, months and days according to astronomical phenomena. It is defined by GB/T 33661-2017, "Calculation and promulgation of the Chinese calendar", issued by the Standardisation Administration of China on 12 May 2017.
 
 Although modern-day China uses the Gregorian calendar, the traditional Chinese calendar governs holidays—such as the Lantern Festival—in both China and in overseas Chinese communities. It also gives the traditional Chinese nomenclature of dates within a year, which people use for selecting auspicious days for weddings, funerals, moving, or starting a business.
 
@@ -11,7 +11,7 @@ History
 
 Solar calendars
 
-Five_Phases_and_Four_Seasons_Calendar.png The traditional Chinese calendar was developed between 771 and 476 BC, during the Spring and Autumn period of the Eastern Zhou dynasty. Before the Zhou dynasty, solar calendars were used.
+The traditional Chinese calendar was developed between 771 and 476 BC, during the Spring and Autumn period of the Eastern Zhou dynasty. Before the Zhou dynasty, solar calendars were used.
 
 One version of the solar calendar is the five-elements calendar (), which derives from the Wu Xing. A 365-day year was divided into five phases of 73 days, with each phase corresponding to a Day 1 Wu Xing element. A phase began with a governing-element day (), followed by six 12-day weeks. Each phase consisted of two three-week months, making each year ten months long. Years began on a _jiǎzǐ_ () day (and a 72-day wood phase), followed by a _bǐngzǐ_ day () and a 72-day fire phase; a _wùzǐ_ () day and a 72-day earth phase; a _gēngzǐ_ () day and a 72-day metal phase, and a _rénzǐ_ day () followed by a water phase.[1] Other days were tracked using the Yellow River Map (_He Tu_).
 
@@ -96,7 +96,7 @@ The stem-branches is a sexagesimal system. The Heavenly Stems and Earthly Branch
 
 Day
 
-Chinese_time.png China has used the Western hour-minute-second system to divide the day since the Qing dynasty.[11] Several era-dependent systems had been in use; systems using multiples of twelve and ten were popular, since they could be easily counted and aligned with the Heavenly Stems and Earthly Branches.
+China has used the Western hour-minute-second system to divide the day since the Qing dynasty.[11] Several era-dependent systems had been in use; systems using multiples of twelve and ten were popular, since they could be easily counted and aligned with the Heavenly Stems and Earthly Branches.
 
 Week
 

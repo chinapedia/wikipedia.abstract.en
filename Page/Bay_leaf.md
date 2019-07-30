@@ -1,4 +1,4 @@
-Bay_Leaves.JPG Indian_bay_leaf_-_tejpatta_-_indisches_Lorbeerblatt.jpg_]] Syzy_polyan_070404-3398_sbrg.jpg_]]
+_]] _]]
 
 The BAY LEAF is an aromatic leaf commonly used in cooking. It can be used whole, or as dried and ground.
 

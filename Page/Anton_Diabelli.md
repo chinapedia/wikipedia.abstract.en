@@ -1,4 +1,4 @@
-Anton_Diabelli.jpg]]
+]]
 
 ANTON (or ANTONIO) DIABELLI (6 September 17817 April 1858) was an Austrian music publisher, editor and composer. Best known in his time as a publisher, he is most familiar today as the composer of the waltz on which Ludwig van Beethoven wrote his set of thirty-three _Diabelli Variations_.[1]
 

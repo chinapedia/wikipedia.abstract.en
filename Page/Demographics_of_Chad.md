@@ -1,4 +1,4 @@
-Chad-demography.png, year 2005 ; Number of inhabitants in thousands.]] The people of Chad speak more than 100 different languages and divide themselves into many ethnic groups. However, language and ethnicity are not the same. Moreover, neither element can be tied to a particular physical type.[1]
+, year 2005 ; Number of inhabitants in thousands.]] The people of Chad speak more than 100 different languages and divide themselves into many ethnic groups. However, language and ethnicity are not the same. Moreover, neither element can be tied to a particular physical type.[1]
 
 Although the possession of a common language shows that its speakers have lived together and have a common history, peoples also change languages. This is particularly so in Chad, where the openness of the terrain, marginal rainfall, frequent drought and famine, and low population densities have encouraged physical and linguistic mobility. Slave raids among non-Muslim peoples, internal slave trade, and exports of captives northward from the ninth to the twentieth centuries also have resulted in language changes.
 
@@ -149,8 +149,6 @@ Population
     12,075,985 (2017 est.)
 
 Age structure
-
-Chadpop.svg
 
     _0-14 years:_ 48.12% (male 3,856,001 /female 3,763,622)
     _15-24 years:_ 19.27% (male 1,532,687 /female 1,518,940)

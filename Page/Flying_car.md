@@ -1,4 +1,4 @@
-whereismyflyingcar.jpg'', a technology magazine that has reported on flying cars and other futuristic aircraft throughout the 20th century.]]
+'', a technology magazine that has reported on flying cars and other futuristic aircraft throughout the 20th century.]]
 
 A FLYING CAR is a type of personal air vehicle or roadable aircraft that provides door-to-door transportation by both ground and air. The term "flying car" is also sometimes used to include hovercars.
 
@@ -31,7 +31,7 @@ In the mid-1980s, former Boeing engineer, Fred Barker, founded Flight Innovation
 
 Modern developments
 
-Terrafugia_--_2012_NYIAS_cropped.jpg at the N.Y. Int'l Auto Show in April 2012]]
+at the N.Y. Int'l Auto Show in April 2012]]
 
 As of 2016, AeroMobil was test-flying a prototype that obtained Slovak ultralight certification. When the final product will be available or how much it will cost is not yet specified.[9] In 2018, it unveiled a concept that resembled a flying sportscar with VTOL capabilty.[10]
 
@@ -122,7 +122,7 @@ Live action films
 
 -   _Blade Runner_ (1982)
 
-Spinner3.jpg Spinner prop car at Disney/MGM Studios.]]
+Spinner prop car at Disney/MGM Studios.]]
 
 *:"Spinner" is the generic term for the fictional flying cars used in _Blade Runner_, set in futuristic-cyberpunk Los Angeles of 2019. A Spinner can be driven as a ground-based vehicle, and take off vertically, hover, and cruise using jet propulsion much like Vertical Take-Off and Landing (VTOL) aircraft. They are used extensively by the police to patrol and survey the population, and it is clear that despite restrictions wealthy people can acquire spinner licenses.[34] The vehicle was conceived and designed by Syd Mead who described the spinner as an "aerodyne"—a vehicle which directs air downward to create lift, though press kits for the film stated that the spinner was propelled by three engines: "conventional internal combustion, jet, and anti-gravity"[35] Mead's conceptual drawings were transformed into 25 working vehicles by automobile customizer Gene Winfield.[36] A Spinner is on permanent exhibit at the Science Fiction Museum and Hall of Fame in Seattle, Washington.[37]
 

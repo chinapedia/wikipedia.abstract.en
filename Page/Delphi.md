@@ -5,7 +5,7 @@ It occupies an impressive site on the south-western slope of Mount Parnassus, ov
 
 Origins and location
 
-Map_greek_sanctuaries-en.svg Delphi is located in upper central Greece, on multiple plateaux along the slope of Mount Parnassus, and includes the Sanctuary of Apollo (the god of light, knowledge and harmony), the site of the ancient Oracle. This semicircular spur is known as Phaedriades, and overlooks the Pleistos Valley.
+Delphi is located in upper central Greece, on multiple plateaux along the slope of Mount Parnassus, and includes the Sanctuary of Apollo (the god of light, knowledge and harmony), the site of the ancient Oracle. This semicircular spur is known as Phaedriades, and overlooks the Pleistos Valley.
 
 In myths dating to the classical period of Ancient Greece (510-323 BC), Zeus determined the site of Delphi when he sought to find the centre of his "Grandmother Earth" (Gaia). He sent two eagles flying from the eastern and western extremities, and the path of the eagles crossed over Delphi where the omphalos, or navel of Gaia was found.[2]
 
@@ -21,8 +21,6 @@ In the inner _hestia_ (hearth) of the Temple of Apollo, an eternal flame burned.
 
 
 Religious significance
-
-Delphi_Temple_of_Apollo.jpg
 
 The name _Delphi_ comes from the same root as δελφύς _delphys_, "womb" and may indicate archaic veneration of Gaia at the site.[8][9] Apollo is connected with the site by his epithet Δελφίνιος _Delphinios_, "the Delphinian". The epithet is connected with dolphins (Greek δελφίς,-ῖνος) in the Homeric _Hymn to Apollo_ (line 400), recounting the legend of how Apollo first came to Delphi in the shape of a dolphin, carrying Cretan priests on his back. The Homeric name of the oracle is _Pytho_ (Πυθώ).[10] Another legend held that Apollo walked to Delphi from the north and stopped at Tempe, a city in Thessaly, to pick laurel (also known as bay tree) which he considered to be a sacred plant. In commemoration of this legend, the winners at the Pythian Games received a wreath of laurel picked in the temple.
 
@@ -41,7 +39,7 @@ Erwin Rohde wrote that the Python was an earth spirit, who was conquered by Apol
 
 Oracle of Delphi
 
-Delphi-01.jpg) struck at Delphi, 480 BC. Obverse: Short tripod. Reverse: Pellet within circle (omphalos or phiale).]]
+) struck at Delphi, 480 BC. Obverse: Short tripod. Reverse: Pellet within circle (omphalos or phiale).]]
 
 Delphi is perhaps best known for its oracle, the Pythia, the sibyl or priestess at the sanctuary dedicated to Apollo. According to Aeschylus in the prologue of the _Eumenides_, the oracle had origins in prehistoric times and the worship of Gaea, a view echoed by H.W. Parke.[24]
 
@@ -54,8 +52,6 @@ The time to consult pythia for an oracle during the year is determined from astr
 While in a trance the Pythia "raved" – probably a form of ecstatic speech – and her ravings were "translated" by the priests of the temple into elegant hexameters. It has been speculated that the ancient writers, including Plutarch who had worked as a priest at Delphi, were correct in attributing the oracular effects to the sweet-smelling _pneuma_ (Ancient Greek for breath, wind or vapour) escaping from the chasm in the rock. That exhalation could have been high in the known anaesthetic and sweet-smelling ethylene or other hydrocarbons such as ethane known to produce violent trances. Though this theory remains debatable the authors put up a detailed answer to their critics.[29][30][31]
 
 Ancient sources describe the priestess using “laurel” to inspire her prophecies. Several alternative plant candidates have been suggested including Cannabis, Hyoscyamus, Rhododendron and Oleander. Harissis claims that a review of contemporary toxicological literature indicates that oleander causes symptoms similar to those shown by the Pythia, and his study of ancient texts shows that oleander was often included under the term "laurel". The Pythia may have chewed oleander leaves and inhaled their smoke prior to her oracular pronouncements and sometimes dying from the toxicity. The toxic substances of oleander resulted in symptoms similar to those of epilepsy, the “sacred disease,” which may have been seen as the possession of the Pythia by the spirit of Apollo.[32]
-
-'Delphic_Sibyl_Sistine_Chapel_ceiling'_by_Michelangelo_JBU37.jpg
 
 The Delphic oracle exerted considerable influence throughout the Greek world, and she was consulted before all major undertakings including wars and the founding of colonies.[33] She also was respected by the Greek-influenced countries around the periphery of the Greek world, such as Lydia, Caria, and even Egypt.
 
@@ -72,7 +68,7 @@ History
 
 Ancient Delphi
 
-Delphi_by_Albert_Tournaire.jpg Delphi was since ancient times a place of worship for Gaia, the mother goddess connected with fertility. The town started to gain pan-Hellenic relevance as both a shrine and an oracle in the 7th century BC. Initially under the control of Phocaean settlers based in nearby Kirra (currently Itea), Delphi was reclaimed by the Athenians during the First Sacred War (597–585 BC). The conflict resulted in the consolidation of the Amphictyonic League, which had both a military and a religious function revolving around the protection of the Temple of Apollo. This shrine was destroyed by fire in 548 BC and then fell under the control of the Alcmaeonids banned from Athens. In 449–448 BC, the Second Sacred War (fought in the wider context of the First Peloponnesian War between the Peloponnesian League led by Sparta and the Delian-Attic League led by Athens) resulted in the Phocians gaining control of Delphi and the management of the Pythian Games.
+Delphi was since ancient times a place of worship for Gaia, the mother goddess connected with fertility. The town started to gain pan-Hellenic relevance as both a shrine and an oracle in the 7th century BC. Initially under the control of Phocaean settlers based in nearby Kirra (currently Itea), Delphi was reclaimed by the Athenians during the First Sacred War (597–585 BC). The conflict resulted in the consolidation of the Amphictyonic League, which had both a military and a religious function revolving around the protection of the Temple of Apollo. This shrine was destroyed by fire in 548 BC and then fell under the control of the Alcmaeonids banned from Athens. In 449–448 BC, the Second Sacred War (fought in the wider context of the First Peloponnesian War between the Peloponnesian League led by Sparta and the Delian-Attic League led by Athens) resulted in the Phocians gaining control of Delphi and the management of the Pythian Games.
 
 In 356 BC the Phocians under Philomelos captured and sacked Delphi, leading to the Third Sacred War (356–346 BC), which ended with the defeat of the former and the rise of Macedon under the reign of Philip II. This led to the Fourth Sacred War (339 BC), which culminated in the Battle of Chaeronea (338 BC) and the establishment of Macedonian rule over Greece. In Delphi, Macedonian rule was superseded by the Aetolians in 279 BC, when a Gallic invasion was repelled, and by the Romans in 191 BC. The site was sacked by Lucius Cornelius Sulla in 86 BC, during the Mithridatic Wars, and by Nero in 66 AD. Although subsequent Roman emperors of the Flavian dynasty contributed towards to the restoration of the site, it gradually lost importance. In the course of the 3rd century mystery cults became more popular than the traditional Greek pantheon. Christianity, which started as yet one more mystery cult, soon gained ground, and this eventually resulted in the persecution of pagans in the late Roman Empire. The anti-pagan legislation of the Flavian dynasty deprived ancient sanctuaries of their assets. The emperor Julian attempted to reverse this religious climate, yet his "pagan revival" was particularly short-lived. When the doctor Oreibasius visited the oracle of Delphi, in order to question the fate of paganism,he received a pessimistic answer:
 
@@ -82,7 +78,7 @@ It was shut down during the persecution of pagans in the late Roman Empire by Th
 
 Abandonment and rediscovery
 
-07Delphi_Fries01_(cropped).jpg, now in the museum.]] The Ottomans finalized their domination over Phocis and Delphi in about 1410CE. Delphi itself remained almost uninhabited for centuries. It seems that one of the first buildings of the early modern era was the monastery of the Dormition of Mary or of Panagia (the Mother of God) built above the ancient gymnasium at Delphi. It must have been towards the end of the 15th or in the 16th century that a settlement started forming there, which eventually ended up forming the village of Kastri.
+, now in the museum.]] The Ottomans finalized their domination over Phocis and Delphi in about 1410CE. Delphi itself remained almost uninhabited for centuries. It seems that one of the first buildings of the early modern era was the monastery of the Dormition of Mary or of Panagia (the Mother of God) built above the ancient gymnasium at Delphi. It must have been towards the end of the 15th or in the 16th century that a settlement started forming there, which eventually ended up forming the village of Kastri.
 
 Ottoman Delphi gradually began to be investigated. The first Westerner to describe the remains in Delphi was Ciriaco de' Pizzicolli (Cyriacus of Ancona), a 15th-century merchant turned diplomat and antiquarian. He visited Delphi in March 1436 and remained there for six days. He recorded all the visible archaeological remains based on Pausanias for identification. He described the stadium and the theatre at that date as well as some free standing pieces of sculpture. He also recorded several inscriptions, most of which are now lost. His identifications however were not always correct: for example he described a round building he saw as the temple of Apollo while this was simply the base of the Argives' ex-voto. A severe earthquake in 1500 caused much damage.
 
@@ -99,8 +95,6 @@ He carved his name on the same column in the gymnasium as Lord Aberdeen, later P
 
 Buildings and structures
 
-Santuario_de_Apolo_Pitio.gif
-
 Occupation of the site at Delphi can be traced back to the Neolithic period with extensive occupation and use beginning in the Mycenaean period (1600–1100 BC). Most of the ruins that survive today date from the most intense period of activity at the site in the 6th century BC.[48]
 
 Temple of Apollo
@@ -113,7 +107,7 @@ The Amphictyonic Council was a council of representatives from six Greek tribes 
 
 Treasuries
 
-Treasury_of_Athens_at_Delphi.jpg.]] From the entrance of the site, continuing up the slope almost to the temple itself, are a large number of votive statues, and numerous so-called treasuries. These were built by many of the Greek city states to commemorate victories and to thank the oracle for her advice which was thought to have contributed to those victories. These buildings held the rich offerings made to Apollo; these were frequently a "tithe" or tenth of the spoils of a battle. The most impressive is the now-restored Athenian Treasury, built to commemorate their victory at the Battle of Marathon in 490 BC.
+.]] From the entrance of the site, continuing up the slope almost to the temple itself, are a large number of votive statues, and numerous so-called treasuries. These were built by many of the Greek city states to commemorate victories and to thank the oracle for her advice which was thought to have contributed to those victories. These buildings held the rich offerings made to Apollo; these were frequently a "tithe" or tenth of the spoils of a battle. The most impressive is the now-restored Athenian Treasury, built to commemorate their victory at the Battle of Marathon in 490 BC.
 
 The Siphnian Treasury was dedicated by the city of Siphnos whose citizens gave a tithe of the yield from their silver mines until the mines came to an abrupt end when the sea flooded the workings.
 
@@ -127,8 +121,6 @@ Located in front of the Temple of Apollo, the main altar of the sanctuary was pa
 
 Stoa of the Athenians
 
-Delphi-2.jpg
-
 The stoa leads off north-east from the main sanctuary. It was built in the Ionic order and consists of seven fluted columns, unusually carved from single pieces of stone (most columns were constructed from a series of discs joined together). The inscription on the stylobate indicates that it was built by the Athenians after their naval victory over the Persians in 478 BC, to house their war trophies. The stoa was attached to the existing Polygonal Wall.[51]
 
 Sibyl rock
@@ -137,13 +129,13 @@ The Sibyl rock is a pulpit-like outcrop of rock between the Athenian Treasury an
 
 Theatre
 
-Delphi_amphitheater_from_above_dsc06297.jpg The ancient theatre at Delphi was built further up the hill from the Temple of Apollo giving spectators a view of the entire sanctuary and the valley below.[52] It was originally built in the 4th century BC but was remodeled on several occasions, particularly in 160/159 B.C. at the expenses of king Eumenes II of Pergamon and in 67 A.D. on the occasion of emperor Nero's visit.[53] The koilon (cavea) leans against the natural slope of the mountain whereas its eastern part overrides a little torrent which led the water of the fountain Cassotis right underneath the temple of Apollo. The orchestra was initially a full circle with a diameter measuring 7 meters. The rectangular scene building ended up in two arched openings, of which the foundations are preserved today. Access to the theatre was possible through the parodoi, i.e. the side corridors. On the support walls of the parodoi are engraved large numbers of manumission inscriptions recording fictitious sales of the slaves to the god. The koilon was divided horizontally in two zones via a corridor called diazoma. The lower zone had 27 rows of seats and the upper one only 8. Six radially arranged stairs divided the lower part of the koilon in seven tiers. The theatre could accommodate about 4,500 spectators.[54]
+The ancient theatre at Delphi was built further up the hill from the Temple of Apollo giving spectators a view of the entire sanctuary and the valley below.[52] It was originally built in the 4th century BC but was remodeled on several occasions, particularly in 160/159 B.C. at the expenses of king Eumenes II of Pergamon and in 67 A.D. on the occasion of emperor Nero's visit.[53] The koilon (cavea) leans against the natural slope of the mountain whereas its eastern part overrides a little torrent which led the water of the fountain Cassotis right underneath the temple of Apollo. The orchestra was initially a full circle with a diameter measuring 7 meters. The rectangular scene building ended up in two arched openings, of which the foundations are preserved today. Access to the theatre was possible through the parodoi, i.e. the side corridors. On the support walls of the parodoi are engraved large numbers of manumission inscriptions recording fictitious sales of the slaves to the god. The koilon was divided horizontally in two zones via a corridor called diazoma. The lower zone had 27 rows of seats and the upper one only 8. Six radially arranged stairs divided the lower part of the koilon in seven tiers. The theatre could accommodate about 4,500 spectators.[54]
 
 On the occasion of Nero's visit to Greece in 67 A.D. various alterations took place. The orchestra was paved and delimited by a parapet made of stone. The proscenium was replaced by a low pedestal, the pulpitum; its façade was decorated with scenes from Hercules' myth in relief. Further repairs and transformations took place in the 2nd century A.D. Pausanias mentions that these were carried out under the auspices of Herod Atticus. In antiquity, the theatre was used for the vocal and musical contests which formed part of the programme of the Pythian Games in the late Hellenistic and Roman period.[55] The theatre was abandoned when the sanctuary declined in Late Antiquity. After its excavation and initial restoration it hosted theatrical performances during the Delphic Festivals organized by A. Sikelianos and his wife, Eva Palmer, in 1927 and in 1930. It has recently been restored again as the serious landslides posed a grave threat for its stability for decades.[56][57]
 
 Tholos
 
-Delphi_tholos_cazzul.JPG at the base of Mount Parnassus: 3 of 20 Doric columns.]] Athina_Pronaia_Sanctuary_at_Delphi.jpg
+at the base of Mount Parnassus: 3 of 20 Doric columns.]]
 
 The Tholos at the sanctuary of Athena Pronoia (Ἀθηνᾶ Πρόνοια, "Athena of forethought") is a circular building that was constructed between 380 and 360 BC. It consisted of 20 Doric columns arranged with an exterior diameter of 14.76 meters, with 10 Corinthian columns in the interior.
 
@@ -153,11 +145,11 @@ The architect of the "vaulted temple at Delphi" is named by Vitruvius, in _De ar
 
 Gymnasium
 
-Delphi1.JPG The gymnasium, which is half a mile away from the main sanctuary, was a series of buildings used by the youth of Delphi. The building consisted of two levels: a stoa on the upper level providing open space, and a palaestra, pool and baths on lower floor. These pools and baths were said to have magical powers, and imparted the ability to communicate to Apollo himself.[59]
+The gymnasium, which is half a mile away from the main sanctuary, was a series of buildings used by the youth of Delphi. The building consisted of two levels: a stoa on the upper level providing open space, and a palaestra, pool and baths on lower floor. These pools and baths were said to have magical powers, and imparted the ability to communicate to Apollo himself.[59]
 
 Stadium
 
-Delphi_stadium_DSC06305.jpg The stadium is located further up the hill, beyond the _via sacra_ and the theatre. It was originally built in the 5th century BC but was altered in later centuries. The last major remodelling took place in the 2nd century AD under the patronage of Herodes Atticus when the stone seating was built and (arched) entrance. It could seat 6500 spectators and the track was 177 metres long and 25.5 metres wide.[60]
+The stadium is located further up the hill, beyond the _via sacra_ and the theatre. It was originally built in the 5th century BC but was altered in later centuries. The last major remodelling took place in the 2nd century AD under the patronage of Herodes Atticus when the stone seating was built and (arched) entrance. It could seat 6500 spectators and the track was 177 metres long and 25.5 metres wide.[60]
 
 Hippodrome
 
@@ -167,7 +159,7 @@ Its traces have recently been found at Gonia in the plain of Krisa in the place 
 
 Polygonal wall
 
-Section_of_Polygonal_Wall_at_Delphi.jpg The retaining wall was built to support the terrace housing the construction of the second temple of Apollo in 548 BC. Its name is taken from the polygonal masonry of which it is constructed. At a later date, from 200 BC onwards, the stones were inscribed with the manumission contracts of slaves who were consecrated to Apollo. Approximately a thousand manumissions are recorded on the wall.[63]
+The retaining wall was built to support the terrace housing the construction of the second temple of Apollo in 548 BC. Its name is taken from the polygonal masonry of which it is constructed. At a later date, from 200 BC onwards, the stones were inscribed with the manumission contracts of slaves who were consecrated to Apollo. Approximately a thousand manumissions are recorded on the wall.[63]
 
 Castalian spring
 
@@ -177,7 +169,7 @@ Athletic statues
 
 Delphi is famous for its many preserved athletic statues. It is known that Olympia originally housed far more of these statues, but time brought ruin to many of them, leaving Delphi as the main site of athletic statues. Kleobis and Biton, two brothers renowned for their strength, are modeled in two of the earliest known athletic statues at Delphi. The statues commemorate their feat of pulling their mother's cart several miles to the Sanctuary of Hera in the absence of oxen. The neighbors were most impressed and their mother asked Hera to grant them the greatest gift. When they entered Hera's temple, they fell into a slumber and never woke, dying at the height of their admiration, the perfect gift.
 
-The Charioteer of Delphi is another ancient relic that has withstood the centuries. It is one of the best known statues from antiquity. The charioteer has lost many features, including his chariot and his left arm, but he stands as a tribute to athletic art of antiquity. AurigaDelfi.jpg
+The Charioteer of Delphi is another ancient relic that has withstood the centuries. It is one of the best known statues from antiquity. The charioteer has lost many features, including his chariot and his left arm, but he stands as a tribute to athletic art of antiquity.
 
 
 Architectural traditions
@@ -206,7 +198,7 @@ The fourth temple was said to have been constructed from stone by Trophonius and
 
 The Delphi Archaeological Museum
 
-Museuarqueologicodelfos.jpg]] The Delphi Archaeological Museum is at the foot of the main archaeological complex, on the east side of the village, and on the north side of the main road. The museum houses an impressive collection associated with ancient Delphi, including the earliest known notation of a melody, the famous Charioteer, golden treasures discovered beneath the Sacred Way, and fragments of reliefs from the Siphnian Treasury. Immediately adjacent to the exit (and overlooked by most tour guides) is the inscription that mentions the Roman proconsul Gallio.
+]] The Delphi Archaeological Museum is at the foot of the main archaeological complex, on the east side of the village, and on the north side of the main road. The museum houses an impressive collection associated with ancient Delphi, including the earliest known notation of a melody, the famous Charioteer, golden treasures discovered beneath the Sacred Way, and fragments of reliefs from the Siphnian Treasury. Immediately adjacent to the exit (and overlooked by most tour guides) is the inscription that mentions the Roman proconsul Gallio.
 
 Entries to the museum and to the main complex are separate and chargeable, and a reduced rate ticket gets entry to both. There is a small cafe, and a post office by the museum.
 
@@ -230,13 +222,13 @@ The Sacred Way remained the main street of the settlement, transformed, however,
 
 Depiction of Delphi in art
 
-Claude_Lorrain_027.jpg.]]
+.]]
 
 From the 16th century onwards, West Europe developed an interest in Delphi. In the mid-15th century Strabo was first translated in Latin. The earliest depictions of Delphi were totally imaginary, created by the German N. Gerbel, who published in 1545 a text based on the map of Greece by N. Sofianos. The ancient sanctuary was depicted as a fortified city. The first travelers with archaeological interests, apart from the precursor Cyriacus of Ancona, were the British George Wheler and the French Jacob Spon, who visited Greece in a joint expedition in 1675-76. They published their impressions separately. In Wheler's "Journey into Greece", published in 1682, a sketch of the region of Dephi appeared, where the settlement of Kastri and some ruins were depicted. The illustrations in Spon's publication "Voyage d'Italie, de Dalmatie, de Grèce et du Levant, 1678" are considered original and groundbreaking.
 
 Travelers continued to visit Delphi throughout the 19th century and published their books which contained diaries, sketches, views of the site as well as pictures of coins. The illustrations often reflected the spirit of romanticism, as evident by the works of Otto Magnus von Stackelberg, where, apart from the landscapes (_La Grèce. Vues pittoresques et topographiques_, Paris 1834) are depicted also human types (_Costumes et usages des peuples de la Grèce moderne dessinés sur les lieux_, Paris 1828). The philhellene painter W. Williams has comprised the landscape of Delphi in his themes (1829). important personalities such as F.Ch.-H.-L. Pouqueville, W.M. Leake, Chr. Wordsworth and Lord Byron are amongst the most important visitors of Delphi.
 
-'Delphi'_by_Edward_Lear,_watercolor,_12_by_19_cm..jpg features the Phaedriades.]] After the foundation of the modern Greek state, the press becomes also interested in these travelers. Thus "Ephemeris" writes (17/03/1889): “In the "Revues des Deux Mondes" Paul Lefaivre published his memoirs from an excursion to Delphi. The French author relates in a charming style his adventures on the road, praising particularly the ability of an old woman to put back in its place the dismantled arm of one of his foreign traveling companions, who had fallen off the horse. In Arachova the Greek type is preserved intact. The men are rather athletes than farmers, built for running and wrestling, particularly elegant and slender under their mountain gear. Only briefly does he refer to the antiquities of Delphi, but he refers to a pelasgian wall 80 meters long, on which innumerable inscriptions are carved, decrees, conventions, manumissions".
+features the Phaedriades.]] After the foundation of the modern Greek state, the press becomes also interested in these travelers. Thus "Ephemeris" writes (17/03/1889): “In the "Revues des Deux Mondes" Paul Lefaivre published his memoirs from an excursion to Delphi. The French author relates in a charming style his adventures on the road, praising particularly the ability of an old woman to put back in its place the dismantled arm of one of his foreign traveling companions, who had fallen off the horse. In Arachova the Greek type is preserved intact. The men are rather athletes than farmers, built for running and wrestling, particularly elegant and slender under their mountain gear. Only briefly does he refer to the antiquities of Delphi, but he refers to a pelasgian wall 80 meters long, on which innumerable inscriptions are carved, decrees, conventions, manumissions".
 
 Gradually the first travelling guides appeared. The revolutionary "pocket" books invented by Karl Baedeker, accompanied by maps useful for visiting archaeological sites such as Delphi (1894) and the informed plans, the guides became practical and popular. The photographic lens revolutionized the way of depicting the landscape and the antiquities, particularly from 1893 onwards, when the systematic excavations of the French Archaeological School started. However, artists such as Vera Willoughby, continued to be inspired by the landscape.
 

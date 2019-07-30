@@ -1,4 +1,4 @@
-US_$2_bill_obverse_series_2003_A.jpg. Rarely seen in circulation, but still in production and legal tender.]] Bohemia,_Joachimsthaler_1525_Electrotype_Copy._VF._Reverse..jpg and the name of Ludovicus, the Czech king (Louis II)]]
+. Rarely seen in circulation, but still in production and legal tender.]] and the name of Ludovicus, the Czech king (Louis II)]]
 
 DOLLAR (often represented by the dollar sign $) is the name of more than 20 currencies, including those of Australia, Canada, Hong Kong, Jamaica, Liberia, Namibia, New Zealand, Singapore, Taiwan, and the United States. The U.S. dollar is also the official currency of the Caribbean Netherlands, East Timor, Ecuador, El Salvador, the Federated States of Micronesia, the Marshall Islands, Palau, and Zimbabwe. One dollar is generally divided into 100 cents.
 
@@ -52,7 +52,7 @@ Chinese demand for silver in the 19th and early 20th centuries led several count
 
 Other national currencies called “dollar”
 
-Nz_1d_front.jpg one-dollar coin]] Zimbabwe_100000000000_Dollars_Bill_2008.jpg]]
+one-dollar coin]] ]]
 
 Prior to 1873, the silver dollar circulated in many parts of the world, with a value in relation to the British gold sovereign of roughly $1 = 4s 2d (21p approx). As a result of the decision of the German Empire to stop minting silver _thaler_ coins in 1871, in the wake of the Franco-Prussian War, the worldwide price of silver began to fall.[30] This resulted in the U.S. Coinage Act (1873) which put the United States onto a 'de facto' gold standard. Canada and Newfoundland were already on the gold standard, and the result was that the value of the dollar in North America increased in relation to silver dollars being used elsewhere, particularly Latin America and the Far East. By 1900, value of silver dollars had fallen to 50 percent of gold dollars. Following the abandonment of the gold standard by Canada in 1931, the Canadian dollar began to drift away from parity with the U.S. dollar. It returned to parity a few times, but since the end of the Bretton Woods system of fixed exchange rates that was agreed to in 1944, the Canadian dollar has been floating against the U.S. dollar. The silver dollars of Latin America and South East Asia began to diverge from each other as well during the course of the 20th century. The Straits dollar adopted a gold exchange standard in 1906 after it had been forced to rise in value against other silver dollars in the region. Hence, by 1935, when China and Hong Kong came off the silver standard, the Straits dollar was worth 2s 4d (11.5p approx) sterling, whereas the Hong Kong dollar was worth only 1s 3d sterling (6p approx).
 
@@ -210,7 +210,7 @@ Countries unofficially accepting a dollar
 
 Countries and regions that have previously used a dollar currency
 
-Sarawak_$.jpg from 1935, featuring Charles Vyner Brooke, the 3rd and last White Rajah of Sarawak]]
+from 1935, featuring Charles Vyner Brooke, the 3rd and last White Rajah of Sarawak]]
 
 -   Ethiopia: The name "Ethiopian dollar" was used in the English text on the birr banknotes before the Derg takeover in 1974.
 -   Malaysia: the Malaysian ringgit used to be called the "Malaysian Dollar". The surrounding territories (that is, Malaya, British North Borneo, Sarawak, Brunei, and Singapore) used several varieties of dollars (for example, Straits dollar, Malayan dollar, Sarawak dollar, British North Borneo dollar; Malaya and British Borneo dollar) before Malaya, British North Borneo, Sarawak, Singapore and Brunei gained their independence from the United Kingdom. See also for a complete list of currencies.

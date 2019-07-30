@@ -1,4 +1,4 @@
-NOAH_-_New_Orleans_Arcology_Habitat_-_Ahearn_Schopfer_and_Assocs_crop.jpg for the NOAH (New Orleans Arcology Habitat) proposal, designed by E. Kevin Schopfer.[1]]]
+for the NOAH (New Orleans Arcology Habitat) proposal, designed by E. Kevin Schopfer.[1]]]
 
 ARCOLOGY, a portmanteau of "architecture" and "ecology",[2] is a field of creating architectural design principles for very densely populated, ecologically low-impact human habitats.
 
@@ -22,7 +22,7 @@ Paolo Soleri proposed later solutions, and coined the term 'arcology'.[4] Soleri
 
 Similar real-world projects
 
-Arcosanti_Cliff_View.png city]] Arcosanti is an experimental "arcology prototype" – a demonstration project under construction in central Arizona since 1970. Designed by Paolo Soleri, its primary purpose is to demonstrate Soleri's personal designs, his application of principles of arcology to create a pedestrian-friendly urban form.
+city]] Arcosanti is an experimental "arcology prototype" – a demonstration project under construction in central Arizona since 1970. Designed by Paolo Soleri, its primary purpose is to demonstrate Soleri's personal designs, his application of principles of arcology to create a pedestrian-friendly urban form.
 
 Many cities in the world have proposed projects adhering to the design principles of the arcology concept, like Tokyo, and Dongtan near Shanghai.[5] The Dongtan project may have collapsed, and it failed to open for the Shanghai World Expo in 2010.[6]
 

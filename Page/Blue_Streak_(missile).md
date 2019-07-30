@@ -56,7 +56,7 @@ It was planned that Black Prince would be a Commonwealth project. As the governm
 
 European Launcher Development Organisation
 
-Blue_Streak_rocket_remains.jpg The UK instead proposed a collaboration with other European countries to build a three-stage launcher capable of placing a one-ton payload into low Earth orbit. The European Launcher Development Organisation consisted of Belgium, Britain, France, West Germany, Italy and the Netherlands, with Australia as an associate member.
+The UK instead proposed a collaboration with other European countries to build a three-stage launcher capable of placing a one-ton payload into low Earth orbit. The European Launcher Development Organisation consisted of Belgium, Britain, France, West Germany, Italy and the Netherlands, with Australia as an associate member.
 
 Preliminary work began in 1962 and ELDO was formally signed into existence in 1964.
 

@@ -1,4 +1,4 @@
-Jupitermoon.jpg's four Galilean moons, in a composite image depicting part of Jupiter and their relative sizes (positions are illustrative, not actual). From top to bottom: Io, Europa, Ganymede, Callisto.]] Galilean_satellite_triple_conjunction_2015-01-24.jpg views of a rare triple transit of Jupiter by Europa, Callisto and Io (24 January 2015)]] The GALILEAN MOONS are the four largest moons of Jupiter—Io, Europa, Ganymede, and Callisto. They were first seen by Galileo Galilei in December 1609 or January 1610, and recognized by him as satellites of Jupiter in March 1610.[1] They were the first objects found to orbit another planet.
+'s four Galilean moons, in a composite image depicting part of Jupiter and their relative sizes (positions are illustrative, not actual). From top to bottom: Io, Europa, Ganymede, Callisto.]] views of a rare triple transit of Jupiter by Europa, Callisto and Io (24 January 2015)]] The GALILEAN MOONS are the four largest moons of Jupiter—Io, Europa, Ganymede, and Callisto. They were first seen by Galileo Galilei in December 1609 or January 1610, and recognized by him as satellites of Jupiter in March 1610.[1] They were the first objects found to orbit another planet.
 
 They are among the largest objects in the Solar System with the exception of the Sun and the eight planets, with a radius larger than any of the dwarf planets. Ganymede is the largest moon in the Solar System, and is even bigger than the planet Mercury, though only around half as massive. The three inner moons—Io, Europa, and Ganymede—are in a 4:2:1 orbital resonance with each other. Because of their much smaller size, and therefore weaker self-gravitation, all of Jupiter's remaining moons have irregular forms rather than a spherical shape.
 
@@ -11,7 +11,7 @@ History
 
 Discovery
 
-Galileo.arp.300pix.jpg, the discoverer of the four moons]] As a result of improvements Galileo Galilei made to the telescope, with a magnifying capability of 20×,[4] he was able to see celestial bodies more distinctly than was ever possible before. This allowed Galilei to observe in either December 1609 or January 1610 what came to be known as the Galilean moons.[5][6]
+, the discoverer of the four moons]] As a result of improvements Galileo Galilei made to the telescope, with a magnifying capability of 20×,[4] he was able to see celestial bodies more distinctly than was ever possible before. This allowed Galilei to observe in either December 1609 or January 1610 what came to be known as the Galilean moons.[5][6]
 
 On January 7, 1610, Galileo wrote a letter containing the first mention of Jupiter's moons. At the time, he saw only three of them, and he believed them to be fixed stars near Jupiter. He continued to observe these celestial orbs from January 8 to March 2, 1610. In these observations, he discovered a fourth body, and also observed that the four were not fixed stars, but rather were orbiting Jupiter.[7]
 
@@ -21,7 +21,7 @@ A Chinese historian of astronomy, Xi Zezong, has claimed that a "small reddish s
 
 Dedication to the Medicis
 
-Sidereus_Nuncius_Medicean_Stars.jpg'' (the 'starry messenger'), 1610. The moons are drawn in changing positions.]] In 1605, Galileo had been employed as a mathematics tutor for Cosimo de' Medici. In 1609, Cosimo became Grand Duke Cosimo II of Tuscany. Galileo, seeking patronage from his now-wealthy former student and his powerful family, used the discovery of Jupiter's moons to gain it.[11] On February 13, 1610, Galileo wrote to the Grand Duke's secretary:
+'' (the 'starry messenger'), 1610. The moons are drawn in changing positions.]] In 1605, Galileo had been employed as a mathematics tutor for Cosimo de' Medici. In 1609, Cosimo became Grand Duke Cosimo II of Tuscany. Galileo, seeking patronage from his now-wealthy former student and his powerful family, used the discovery of Jupiter's moons to gain it.[11] On February 13, 1610, Galileo wrote to the Grand Duke's secretary:
 
   "God graced me with being able, through such a singular sign, to reveal to my Lord my devotion and the desire I have that his glorious name live as equal among the stars, and since it is up to me, the first discoverer, to name these new planets, I wish, in imitation of the great sages who placed the most excellent heroes of that age among the stars, to inscribe these with the name of the Most Serene Grand Duke."[12]
 
@@ -33,7 +33,7 @@ On March 12, 1610, Galileo wrote his dedicatory letter to the Duke of Tuscany, a
 
 Name
 
-Apparatus_to_demonstrate_the_motion_of_Jupiter's_satellites_in_Putnam_Gallery,_2009-11-24.jpg | accessdate=15 April 2015 | deadurl=no | archiveurl=http://archive.wikiwix.com/cache/20150416155028/http://catalogue.museogalileo.it/object/Jovilabe.html | archivedate=16 April 2015 | df= }} an apparatus from the mid-18th century for demonstrating the orbits of Jupiter's satellites]] Galileo initially called his discovery the COSMICA SIDERA ("Cosimo's stars"), in honour of Cosimo II de' Medici (1590–1621).[16] At Cosimo's suggestion, Galileo changed the name to MEDICEA SIDERA ("the MEDICIAN STARS"), honouring all four Medici brothers (Cosimo, Francesco, Carlo, and Lorenzo). The discovery was announced in the _Sidereus Nuncius_ ("Starry Messenger"), published in Venice in March 1610, less than two months after the first observations.
+| accessdate=15 April 2015 | deadurl=no | archiveurl=http://archive.wikiwix.com/cache/20150416155028/http://catalogue.museogalileo.it/object/Jovilabe.html | archivedate=16 April 2015 | df= }} an apparatus from the mid-18th century for demonstrating the orbits of Jupiter's satellites]] Galileo initially called his discovery the COSMICA SIDERA ("Cosimo's stars"), in honour of Cosimo II de' Medici (1590–1621).[16] At Cosimo's suggestion, Galileo changed the name to MEDICEA SIDERA ("the MEDICIAN STARS"), honouring all four Medici brothers (Cosimo, Francesco, Carlo, and Lorenzo). The discovery was announced in the _Sidereus Nuncius_ ("Starry Messenger"), published in Venice in March 1610, less than two months after the first observations.
 
 Other names put forward include:
 
@@ -58,7 +58,7 @@ Some models predict that there may have been several generations of Galilean sat
 
 Io
 
-Io_Tupan_Patera.jpg on Io
+on Io
 
 ]]
 
@@ -70,32 +70,28 @@ Although not proven, recent data from the Galileo orbiter indicate that Io might
 
 Europa
 
-PIA19048_realistic_color_Europa_mosaic.jpg
-
 Europa (Jupiter II), the second of the four Galilean moons, is the second closest to Jupiter and the smallest at 3121.6 kilometers in diameter, which is slightly smaller than the Moon. The name comes from a mythical Phoenician noblewoman, Europa, who was courted by Zeus and became the queen of Crete, though the name did not become widely used until the mid-20th century.[34]
 
 It has a smooth and bright surface,[35] with a layer of water surrounding the mantle of the planet, thought to be 100 kilometers thick.[36] The smooth surface includes a layer of ice, while the bottom of the ice is theorized to be liquid water.[37] The apparent youth and smoothness of the surface have led to the hypothesis that a water ocean exists beneath it, which could conceivably serve as an abode for extraterrestrial life.[38] Heat energy from tidal flexing ensures that the ocean remains liquid and drives geological activity.[39] Life may exist in Europa's under-ice ocean. So far, there is no evidence that life exists on Europa, but the likely presence of liquid water has spurred calls to send a probe there.[40]
-
-Hubble_sees_recurring_plume_erupting_from_Europa.jpg
 
 The prominent markings that criss-cross the moon seem to be mainly albedo features, which emphasize low topography. There are few craters on Europa because its surface is tectonically active and young.[41] Some theories suggest that Jupiter's gravity is causing these markings, as one side of Europa is constantly facing Jupiter. Also, volcanic water eruptions splitting the surface of Europa, and even geysers have been considered as a cause. The color of the markings, reddish-brown, is theorized to be caused by sulfur, but scientists cannot confirm that, because no data collection devices have been sent to Europa.[42] Europa is primarily made of silicate rock and likely has an iron core. It has a tenuous atmosphere composed primarily of oxygen.
 
 Ganymede
 
-Ganymede_g1_true-edit1.jpg Ganymede (Jupiter III), the third Galilean moon is named after the mythological Ganymede, cupbearer of the Greek gods and Zeus's beloved.[43] Ganymede is the largest natural satellite in the Solar System at 5262.4 kilometers in diameter, which makes it larger than the planet Mercury – although only at about half of its mass[44] since Ganymede is an icy world. It is the only satellite in the Solar System known to possess a magnetosphere, likely created through convection within the liquid iron core.[45]
+Ganymede (Jupiter III), the third Galilean moon is named after the mythological Ganymede, cupbearer of the Greek gods and Zeus's beloved.[43] Ganymede is the largest natural satellite in the Solar System at 5262.4 kilometers in diameter, which makes it larger than the planet Mercury – although only at about half of its mass[44] since Ganymede is an icy world. It is the only satellite in the Solar System known to possess a magnetosphere, likely created through convection within the liquid iron core.[45]
 
 Ganymede is composed primarily of silicate rock and water ice, and a salt-water ocean is believed to exist nearly 200 km below Ganymede's surface, sandwiched between layers of ice.[46] The metallic core of Ganymede suggests a greater heat at some time in its past than had previously been proposed. The surface is a mix of two types of terrain—highly cratered dark regions and younger, but still ancient, regions with a large array of grooves and ridges. Ganymede has a high number of craters, but many are gone or barely visible due to its icy crust forming over them. The satellite has a thin oxygen atmosphere that includes O, O₂, and possibly O₃ (ozone), and some atomic hydrogen.[47][48]
 
 Callisto
 
-Valhalla_crater_on_Callisto.jpg Callisto (Jupiter IV) is the fourth and last Galilean moon, and is the second largest of the four, and at 4820.6 kilometers in diameter, it is the third largest moon in the Solar System, and barely smaller than Mercury, though only a third of the latter's mass. It is named after the Greek mythological nymph Callisto, a lover of Zeus who was a daughter of the Arkadian King Lykaon and a hunting companion of the goddess Artemis. The moon does not form part of the orbital resonance that affects three inner Galilean satellites and thus does not experience appreciable tidal heating.[49] Callisto is composed of approximately equal amounts of rock and ices, which makes it the least dense of the Galilean moons. It is one of the most heavily cratered satellites in the Solar System, and one major feature is a basin around 3000 km wide called Valhalla.
+Callisto (Jupiter IV) is the fourth and last Galilean moon, and is the second largest of the four, and at 4820.6 kilometers in diameter, it is the third largest moon in the Solar System, and barely smaller than Mercury, though only a third of the latter's mass. It is named after the Greek mythological nymph Callisto, a lover of Zeus who was a daughter of the Arkadian King Lykaon and a hunting companion of the goddess Artemis. The moon does not form part of the orbital resonance that affects three inner Galilean satellites and thus does not experience appreciable tidal heating.[49] Callisto is composed of approximately equal amounts of rock and ices, which makes it the least dense of the Galilean moons. It is one of the most heavily cratered satellites in the Solar System, and one major feature is a basin around 3000 km wide called Valhalla.
 
 Callisto is surrounded by an extremely thin atmosphere composed of carbon dioxide[50] and probably molecular oxygen.[51] Investigation revealed that Callisto may possibly have a subsurface ocean of liquid water at depths less than 300 kilometres.[52] The likely presence of an ocean within Callisto indicates that it can or could harbour life. However, this is less likely than on nearby Europa.[53] Callisto has long been considered the most suitable place for a human base for future exploration of the Jupiter system since it is furthest from the intense radiation of Jupiter.[54]
 
 
 Comparative structure
 
-Jupiter.moons2.jpg) Jupiter and its four largest natural satellites]]
+) Jupiter and its four largest natural satellites]]
 
   Moon       rem/day
   ---------- ----------
@@ -108,18 +104,12 @@ Jupiter.moons2.jpg) Jupiter and its four largest natural satellites]]
 
 Fluctuations in the orbits of the moons indicate that their mean density decreases with distance from Jupiter. Callisto, the outermost and least dense of the four, has a density intermediate between ice and rock whereas Io, the innermost and densest moon, has a density intermediate between rock and iron. Callisto has an ancient, heavily cratered and unaltered ice surface and the way it rotates indicates that its density is equally distributed, suggesting that it has no rocky or metallic core but consists of a homogeneous mix of rock and ice. This may well have been the original structure of all the moons. The rotation of the three inner moons, in contrast, indicates differentiation of their interiors with denser matter at the core and lighter matter above. They also reveal significant alteration of the surface. Ganymede reveals past tectonic movement of the ice surface which required partial melting of subsurface layers. Europa reveals more dynamic and recent movement of this nature, suggesting a thinner ice crust. Finally, Io, the innermost moon, has a sulfur surface, active volcanism and no sign of ice. All this evidence suggests that the nearer a moon is to Jupiter the hotter its interior. The current model is that the moons experience tidal heating as a result of the gravitational field of Jupiter in inverse proportion to the square of their distance from the giant planet. In all but Callisto this will have melted the interior ice, allowing rock and iron to sink to the interior and water to cover the surface. In Ganymede a thick and solid ice crust then formed. In warmer Europa a thinner more easily broken crust formed. In Io the heating is so extreme that all the rock has melted and water has long ago boiled out into space.
 
-Jupiter.moons1.jpg
-
 Size
-
-Moons_of_solar_system_v7.jpg
 
 Latest flyby
 
 
 Origin and evolution
-
-Relative_Masses_of_Jovian_Satellites.png
 
 Jupiter's regular satellites are believed to have formed from a circumplanetary disk, a ring of accreting gas and solid debris analogous to a protoplanetary disk.[59][60] They may be the remnants of a score of Galilean-mass satellites that formed early in Jupiter's history.[61][62]
 
@@ -128,14 +118,14 @@ Simulations suggest that, while the disk had a relatively high mass at any given
 
 Visibility
 
-Thomas_Bresson_-_Jupiter(2)_(by).jpg Jupiter.mit.Io.Ganymed.Europa.Calisto.Vollmond.10.4.2017.jpg), respectively – and the full Moon as seen around conjunction on 10 April 2017]]
+), respectively – and the full Moon as seen around conjunction on 10 April 2017]]
 
 All four Galilean moons are bright enough to be viewed from Earth without a telescope, if only they could appear farther away from Jupiter. (They are, however, easily distinguished with even low-powered binoculars.) They have apparent magnitudes between 4.6 and 5.6 when Jupiter is in opposition with the Sun,[67] and are about one unit of magnitude dimmer when Jupiter is in conjunction. The main difficulty in observing the moons from Earth is their proximity to Jupiter, since they are obscured by its brightness.[68] The maximum angular separations of the moons are between 2 and 10 arcminutes from Jupiter,[69] which is close to the limit of human visual acuity. Ganymede and Callisto, at their maximum separation, are the likeliest targets for potential naked-eye observation.
 
 
 Orbit animation
 
-GIF animation of the resonance of Io, Europa, and Ganymede Galilean_moon_Laplace_resonance_animation.gif.]]
+GIF animation of the resonance of Io, Europa, and Ganymede .]]
 
 
 See also

@@ -12,7 +12,7 @@ gzip is based on the DEFLATE algorithm, which is a combination of LZ77 and Huffm
 -   a body, containing a DEFLATE-compressed payload
 -   an 8-byte footer, containing a CRC-32 checksum and the length of the original uncompressed data, modulo 2³².[1]
 
-Targzip.svg Although its file format also allows for multiple such streams to be concatenated (gzipped files are simply decompressed concatenated as if they were originally one file[2]), gzip is normally used to compress just single files.[3] Compressed archives are typically created by assembling collections of files into a single tar archive (also called tarball[4]), and then compressing that archive with gzip. The final compressed file usually has the extension or .
+Although its file format also allows for multiple such streams to be concatenated (gzipped files are simply decompressed concatenated as if they were originally one file[2]), gzip is normally used to compress just single files.[3] Compressed archives are typically created by assembling collections of files into a single tar archive (also called tarball[4]), and then compressing that archive with gzip. The final compressed file usually has the extension or .
 
 gzip is not to be confused with the ZIP archive format, which also uses DEFLATE. The ZIP format can hold collections of files without an external archiver, but is less compact than compressed tarballs holding the same data, because it compresses files individually and cannot take advantage of redundancy between files (solid compression).
 

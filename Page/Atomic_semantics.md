@@ -26,15 +26,9 @@ Failed operation(The atomic term comes from this notion):It appears as if it is 
 
 Example : We know that an atomic register is one that is linearizable to a sequential safe register.
 
-centre
-
 The following picture shows where we should put the linearization point for each operation:
 
-Atomic_register.jpg
-
 An atomic register could be defined for a variable with a single writer but multi- readers(SWMR),single-writer/single-reader (SWSR),or multi-writer/multi-reader(MWMR). Here is an example of a multi-reader multi-writer atomic register which is accessed by three processes (P1,P2,P3).Note that R.read() → v means that the corresponding read operation returns v, which is the value of the register. Therefore, the following execution of the register R could satisfies the definition of the atomic registers: R.write(1), R.read()→1, R.write(3), R.write(2), R.read()→2, R.read()→2.
-
-Atomic_MWMR1.jpg
 
 
 See also

@@ -1,4 +1,4 @@
-Dandys_1830.jpg helped one achieve his silhouette. The man on the left wears a frock, the man on the right wears morning dress.]]
+helped one achieve his silhouette. The man on the left wears a frock, the man on the right wears morning dress.]]
 
 A DANDY, historically, is a man who places particular importance upon physical appearance, refined language, and leisurely hobbies, pursued with the appearance of nonchalance in a cult of self.[1][2][3] A dandy could be a self-made man who strove to imitate an aristocratic lifestyle despite coming from a middle-class background, especially in late 18th- and early 19th-century Britain.
 
@@ -18,7 +18,7 @@ In the twenty-first century, the word _dandy_ is a jocular, often sarcastic adje
 
 Beau Brummell and early British dandyism
 
-BrummellDighton1805.jpg by Richard Dighton (1805).]] The model dandy in British society was George Bryan "Beau" Brummell (1778–1840), in his early days, an undergraduate student at Oriel College, Oxford and later, an associate of the Prince Regent. Brummell was not from an aristocratic background; indeed, his greatness was "based on nothing at all," as J.A. Barbey d'Aurevilly observed in 1845.[13] Never unpowdered or unperfumed, immaculately bathed and shaved, and dressed in a plain dark blue coat,[14] he was always perfectly brushed, perfectly fitted, showing much perfectly starched linen, all freshly laundered, and composed with an elaborately knotted cravat. From the mid-1790s, Beau Brummell was the early incarnation of "the celebrity", a man chiefly famous for _being_ famous.{{[15]}}
+by Richard Dighton (1805).]] The model dandy in British society was George Bryan "Beau" Brummell (1778–1840), in his early days, an undergraduate student at Oriel College, Oxford and later, an associate of the Prince Regent. Brummell was not from an aristocratic background; indeed, his greatness was "based on nothing at all," as J.A. Barbey d'Aurevilly observed in 1845.[13] Never unpowdered or unperfumed, immaculately bathed and shaved, and dressed in a plain dark blue coat,[14] he was always perfectly brushed, perfectly fitted, showing much perfectly starched linen, all freshly laundered, and composed with an elaborately knotted cravat. From the mid-1790s, Beau Brummell was the early incarnation of "the celebrity", a man chiefly famous for _being_ famous.{{[15]}}
 
 By the time Pitt taxed hair powder in 1795 to help pay for the war against France and to discourage the use of flour (which had recently increased in both rarity and price, owing to bad harvests) in such a frivolous product, Brummell had already abandoned wearing a wig, and had his hair cut in the Roman fashion, "à la Brutus". Moreover, he led the transition from breeches to snugly tailored dark "pantaloons," which directly led to contemporary trousers, the sartorial mainstay of men's clothes in the Western world for the past two centuries. In 1799, upon coming of age, Beau Brummell inherited from his father a fortune of thirty thousand pounds, which he spent mostly on costume, gambling, and high living. In 1816 he suffered bankruptcy, the dandy's stereotyped fate; he fled his creditors to France, quietly dying in 1840, in a lunatic asylum in Caen, aged 61.[16]
 
@@ -35,7 +35,7 @@ By the mid-19th century, the English dandy, within the muted palette of male fas
 
 Dandyism in France
 
-Murat2.jpg, the French King of Naples, was dubbed the "Dandy King" because of his highly groomed appearance.[20]]] The beginnings of dandyism in France were bound to the politics of the French revolution; the initial stage of dandyism, the gilded youth, was a political statement of dressing in an aristocratic style in order to distinguish its members from the sans-culottes.
+, the French King of Naples, was dubbed the "Dandy King" because of his highly groomed appearance.[20]]] The beginnings of dandyism in France were bound to the politics of the French revolution; the initial stage of dandyism, the gilded youth, was a political statement of dressing in an aristocratic style in order to distinguish its members from the sans-culottes.
 
 During his heyday, Beau Brummell's _dictat_ on both fashion and etiquette reigned supreme. His habits of dress and fashion were much imitated, especially in France, where, in a curious development, they became the rage, especially in bohemian quarters. There, dandies sometimes were celebrated in revolutionary terms: self-created men of consciously designed personality, radically breaking with past traditions. With elaborate dress and idle, decadent styles of life, French bohemian dandies sought to convey contempt for and superiority to bourgeois society. In the latter 19th century, this fancy-dress bohemianism was a major influence on the Symbolist movement in French literature.
 
@@ -44,7 +44,7 @@ Baudelaire was deeply interested in dandyism, and memorably wrote that a dandy a
 
 Later dandyism
 
-Montesquiou,_Robert_de_-_Boldini.jpg (1855–1921) portrait by Giovanni Boldini]] The literary dandy is a familiar figure in the writings, and sometimes the self-presentation, of Oscar Wilde, H.H. Munro (Clovis and Reginald), P.G. Wodehouse (Bertie Wooster) and Ronald Firbank, writers linked by their subversive air.
+(1855–1921) portrait by Giovanni Boldini]] The literary dandy is a familiar figure in the writings, and sometimes the self-presentation, of Oscar Wilde, H.H. Munro (Clovis and Reginald), P.G. Wodehouse (Bertie Wooster) and Ronald Firbank, writers linked by their subversive air.
 
 The poets Algernon Charles Swinburne and Oscar Wilde, Walter Pater, the American artist James McNeill Whistler, the Spanish artist Salvador Dalí, Joris-Karl Huysmans, and Max Beerbohm were dandies of the Belle Époque, as was Robert de Montesquiou — Marcel Proust's inspiration for the Baron de Charlus. In Italy, Gabriele d'Annunzio and Carlo Bugatti exemplified the artistic bohemian dandyism of the fin de siecle. Wilde wrote that, "One should either be a work of Art, or wear a work of Art."
 
@@ -70,7 +70,7 @@ Jean Baudrillard said that dandyism is "an aesthetic form of nihilism".[27]
 
 Quaintrelle
 
-Dandizette.jpg The female counterpart is a quaintrelle, a woman who emphasizes a life of passion expressed through personal style, leisurely pastimes, charm, and cultivation of life's pleasures.
+The female counterpart is a quaintrelle, a woman who emphasizes a life of passion expressed through personal style, leisurely pastimes, charm, and cultivation of life's pleasures.
 
 In the 12th century, _cointerrels_ (male) and _cointrelles_ (female) emerged, based upon _coint_,[28] a word applied to things skillfully made, later indicating a person of beautiful dress and refined speech.[29] By the 18th century, _coint_ became _quaint_,[30] indicating elegant speech and beauty. Middle English dictionaries note _quaintrelle_ as a beautifully dressed woman (or overly dressed), but do not include the favorable personality elements of grace and charm. The notion of a quaintrelle sharing the major philosophical components of refinement with dandies is a modern development that returns quaintrelles to their historic roots.
 

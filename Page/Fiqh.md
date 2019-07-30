@@ -60,7 +60,7 @@ During the early Ummayad period, there was more community involvement. The Quran
 
 Components
 
-Map_of_the_Legal_systems_of_the_world_(en).png The sources of _fiqh_ in order of importance are
+The sources of _fiqh_ in order of importance are
 
 1.  the Qur'an
 2.  Hadith
@@ -133,7 +133,7 @@ Fields of jurisprudence
 
 Schools of jurisprudence
 
-There are several schools of fiqh thought ( __; pl. __) Madhhab_Map3.pngs.]] The schools of Sunni Islam are each named by students of the classical jurist who taught them. The Sunni schools (and where they are commonly found) are
+There are several schools of fiqh thought ( __; pl. __) s.]] The schools of Sunni Islam are each named by students of the classical jurist who taught them. The Sunni schools (and where they are commonly found) are
 
 -   Hanafi (Turkey, the Balkans, the Levant, Central Asia, Indian subcontinent, China, Egypt, and Russia's Muslim community)
 -   Maliki (North Africa, West Africa and several of the Arab states of the Persian Gulf)

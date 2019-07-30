@@ -1,6 +1,4 @@
-Golden_ratio_line.svg
-
-SimilarGoldenRectangles.svg with longer side _A_ AND SHORTER SIDE _B_, WHEN PLACED ADJACENT TO A SQUARE WITH SIDES OF LENGTH _A_, WILL PRODUCE A SIMILAR GOLDEN RECTANGLE WITH LONGER SIDE _A + B_ AND SHORTER SIDE _A_. This illustrates the relationship $\frac{a+b}{a} = \frac{a}{b} \equiv \varphi$.]]
+with longer side _A_ AND SHORTER SIDE _B_, WHEN PLACED ADJACENT TO A SQUARE WITH SIDES OF LENGTH _A_, WILL PRODUCE A SIMILAR GOLDEN RECTANGLE WITH LONGER SIDE _A + B_ AND SHORTER SIDE _A_. This illustrates the relationship $\frac{a+b}{a} = \frac{a}{b} \equiv \varphi$.]]
 
 In mathematics, two quantities are in the GOLDEN RATIO if their ratio is the same as the ratio of their sum to the larger of the two quantities. The figure on the right illustrates the geometric relationship. Expressed algebraically, for quantities _a_ and _b_ with _a_ > _b_ > 0,
 
@@ -33,7 +31,7 @@ Calculation
 | Algebraic form     |
 +--------------------+
 
-Phi_uc_lc.svg of the golden ratio, 1/.[9]]]
+of the golden ratio, 1/.[9]]]
 
 Two quantities _a_ and _b_ are said to be in the _golden ratio_ if
 
@@ -71,7 +69,7 @@ According to Mario Livio:
 
 Ancient Greek mathematicians first studied what we now call the golden ratio because of its frequent appearance in geometry; the division of a line into "extreme and mean ratio" (the golden section) is important in the geometry of regular pentagrams and pentagons. According to one story, 5th-century BC mathematician Hippasus discovered that the golden ratio was neither a whole number nor a fraction (an irrational number), surprising Pythagoreans. Euclid's _Elements_ () provides several propositions and their proofs employing the golden ratio and contains the first known definition:[10]
 
-Michael_Maestlin.jpg, the first to write a decimal approximation of the ratio]] The golden ratio was studied peripherally over the next millennium. Abu Kamil (c. 850–930) employed it in his geometric calculations of pentagons and decagons; his writings influenced that of Fibonacci (Leonardo of Pisa) (c. 1170–1250), who used the ratio in related geometry problems, though never connected it to the series of numbers named after him. Luca Pacioli named his book _Divina proportione_ (1509) after the ratio and explored its properties including its appearance in some of the Platonic solids.[11] Leonardo da Vinci, who illustrated the aforementioned book, called the ratio the _sectio aurea_ ('golden section').[12] 16th-century mathematicians such as Rafael Bombelli solved geometric problems using the ratio.
+, the first to write a decimal approximation of the ratio]] The golden ratio was studied peripherally over the next millennium. Abu Kamil (c. 850–930) employed it in his geometric calculations of pentagons and decagons; his writings influenced that of Fibonacci (Leonardo of Pisa) (c. 1170–1250), who used the ratio in related geometry problems, though never connected it to the series of numbers named after him. Luca Pacioli named his book _Divina proportione_ (1509) after the ratio and explored its properties including its appearance in some of the Platonic solids.[11] Leonardo da Vinci, who illustrated the aforementioned book, called the ratio the _sectio aurea_ ('golden section').[12] 16th-century mathematicians such as Rafael Bombelli solved geometric problems using the ratio.
 
 German mathematician Simon Jacob (d. 1564) noted that consecutive Fibonacci numbers converge to the golden ratio;[13] this was rediscovered by Johannes Kepler in 1608. The first known decimal approximation of the (inverse) golden ratio was stated as "about 0.6180340" in 1597 by Michael Maestlin of the University of Tübingen in a letter to Kepler, his former student.[14] The same year, Kepler wrote to Maestlin of the Kepler triangle, which combines the golden ratio with the Pythagorean theorem. Kepler said of these:
 
@@ -98,7 +96,7 @@ Another Swiss architect, Mario Botta, bases many of his designs on geometric fig
 
 Art
 
-Divina_proportione_-_Illustration_13,_crop_&_monochrome.jpg's illustration of a dodecahedron from Pacioli's _Divina proportione_ (1509)]] _Divina proportione_ (_Divine proportion_), a three-volume work by Luca Pacioli, was published in 1509. Pacioli, a Franciscan friar, was known mostly as a mathematician, but he was also trained and keenly interested in art. _Divina proportione_ explored the mathematics of the golden ratio. Though it is often said that Pacioli advocated the golden ratio's application to yield pleasing, harmonious proportions, Livio points out that the interpretation has been traced to an error in 1799, and that Pacioli actually advocated the Vitruvian system of rational proportions. Pacioli also saw Catholic religious significance in the ratio, which led to his work's title.
+'s illustration of a dodecahedron from Pacioli's _Divina proportione_ (1509)]] _Divina proportione_ (_Divine proportion_), a three-volume work by Luca Pacioli, was published in 1509. Pacioli, a Franciscan friar, was known mostly as a mathematician, but he was also trained and keenly interested in art. _Divina proportione_ explored the mathematics of the golden ratio. Though it is often said that Pacioli advocated the golden ratio's application to yield pleasing, harmonious proportions, Livio points out that the interpretation has been traced to an error in 1799, and that Pacioli actually advocated the Vitruvian system of rational proportions. Pacioli also saw Catholic religious significance in the ratio, which led to his work's title.
 
 Leonardo da Vinci's illustrations of polyhedra in _Divina proportione_[32] have led some to speculate that he incorporated the golden ratio in his paintings. But the suggestion that his _Mona Lisa_, for example, employs golden ratio proportions, is not supported by Leonardo's own writings.[33] Similarly, although the _Vitruvian Man_ is often shown in connection with the golden ratio, the proportions of the figure do not actually match it, and the text only mentions whole number ratios.[34][35]
 
@@ -106,7 +104,7 @@ Salvador Dalí, influenced by the works of Matila Ghyka,[36] explicitly used the
 
 A statistical study on 565 works of art of different great painters, performed in 1999, found that these artists had not used the golden ratio in the size of their canvases. The study concluded that the average ratio of the two sides of the paintings studied is 1.34, with averages for individual artists ranging from 1.04 (Goya) to 1.46 (Bellini).[39] On the other hand, Pablo Tosto listed over 350 works by well-known artists, including more than 100 which have canvasses with golden rectangle and root-5 proportions, and others with proportions like root-2, 3, 4, and 6.[40]
 
-Medieval_manuscript_framework.svg: "Page proportion 2:3. Margin proportions 1:1:2:3. Text area proportioned in the Golden Section."[41]]]
+: "Page proportion 2:3. Margin proportions 1:1:2:3. Text area proportioned in the Golden Section."[41]]]
 
 Books and design
 
@@ -128,7 +126,7 @@ Though Heinz Bohlen proposed the non-octave-repeating 833 cents scale based on c
 
 Nature
 
-Aeonium_tabuliforme.jpg'' showing the multiple spiral arrangement (parastichy)]]
+'' showing the multiple spiral arrangement (parastichy)]]
 
 Johannes Kepler wrote that "the image of man and woman stems from the divine proportion. In my opinion, the propagation of plants and the progenitive acts of animals are in the same ratio".
 
@@ -151,7 +149,7 @@ The golden ratio is an irrational number. Below are two short proofs of irration
 
 Contradiction from an expression in lowest terms
 
-Whirling_squares.svg, then it would be the ratio of sides of a rectangle with integer sides (the rectangle comprising the entire diagram). But it would also be a ratio of integer sides of the smaller rectangle (the rightmost portion of the diagram) obtained by deleting a square. The sequence of decreasing integer side lengths formed by deleting squares cannot be continued indefinitely because the integers have a lower bound, so φ cannot be rational.]]
+, then it would be the ratio of sides of a rectangle with integer sides (the rectangle comprising the entire diagram). But it would also be a ratio of integer sides of the smaller rectangle (the rightmost portion of the diagram) obtained by deleting a square. The sequence of decreasing integer side lengths formed by deleting squares cannot be continued indefinitely because the integers have a lower bound, so φ cannot be rational.]]
 
 Recall that:
 
@@ -206,8 +204,6 @@ This means 0.61803...:1 = 1:1.61803....
 
 Alternative forms
 
-Golden_mean.png
-
 The formula = 1 + 1/ can be expanded recursively to obtain a continued fraction for the golden ratio:[58]
 
 $$\varphi = [1; 1, 1, 1, \dots] = 1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \ddots}}}$$
@@ -240,21 +236,17 @@ These correspond to the fact that the length of the diagonal of a regular pentag
 
 Geometry
 
-FakeRealLogSpiral.svgs. The green spiral is made from quarter-circles tangent to the interior of each square, while the red spiral is a Golden Spiral, a special type of logarithmic spiral. Overlapping portions appear yellow. The length of the side of one square divided by that of the next smaller square is the golden ratio.]] The number turns up frequently in geometry, particularly in figures with pentagonal symmetry. The length of a regular pentagon's diagonal is times its side. The vertices of a regular icosahedron are those of three mutually orthogonal golden rectangles.
+s. The green spiral is made from quarter-circles tangent to the interior of each square, while the red spiral is a Golden Spiral, a special type of logarithmic spiral. Overlapping portions appear yellow. The length of the side of one square divided by that of the next smaller square is the golden ratio.]] The number turns up frequently in geometry, particularly in figures with pentagonal symmetry. The length of a regular pentagon's diagonal is times its side. The vertices of a regular icosahedron are those of three mutually orthogonal golden rectangles.
 
 There is no known general algorithm to arrange a given number of nodes evenly on a sphere, for any of several definitions of even distribution (see, for example, _Thomson problem_). However, a useful approximation results from dividing the sphere into parallel bands of equal surface area and placing one node in each band at longitudes spaced by a golden section of the circle, i.e. 360°/ ≅ 222.5°. This method was used to arrange the 1500 mirrors of the student-participatory satellite Starshine-3.[60]
 
 Dividing a line segment by interior division
-
-Goldener_Schnitt_Konstr_beliebt.svg
 
 1.  Having a line segment AB, construct a perpendicular BC at point B, with BC half the length of AB. Draw the hypotenuse AC.
 2.  Draw an arc with center C and radius BC. This arc intersects the hypotenuse AC at point D.
 3.  Draw an arc with center A and radius AD. This arc intersects the original line segment AB at point S. Point S divides the original line segment AB into line segments AS and SB with lengths in the golden ratio.
 
 Dividing a line segment by exterior division
-
-Goldener_Schnitt_(Äußere_Teilung).svg
 
 1.  Draw a line segment AS and construct off the point S a segment SC perpendicular to AS and with the same length as AS.
 2.  Do bisect the line segment AS with M.
@@ -266,7 +258,7 @@ Both the above displayed different algorithms produce geometric constructions th
 
 Golden triangle, pentagon and pentagram
 
-Golden_triangle_(math).svg. The double-red-arched angle is 36 degrees, or $\frac{\pi}{5}$ radians.]]
+. The double-red-arched angle is 36 degrees, or $\frac{\pi}{5}$ radians.]]
 
 Golden triangle
 
@@ -284,17 +276,17 @@ In a regular pentagon the ratio of a diagonal to a side is the golden ratio, whi
 
 Odom's construction
 
-Odom.svg George Odom has given a remarkably simple construction for involving an equilateral triangle: if an equilateral triangle is inscribed in a circle and the line segment joining the midpoints of two sides is produced to intersect the circle in either of two points, then these three points are in golden proportion. This result is a straightforward consequence of the intersecting chords theorem and can be used to construct a regular pentagon, a construction that attracted the attention of the noted Canadian geometer H. S. M. Coxeter who published it in Odom's name as a diagram in the _American Mathematical Monthly_ accompanied by the single word "Behold!" [62]
+George Odom has given a remarkably simple construction for involving an equilateral triangle: if an equilateral triangle is inscribed in a circle and the line segment joining the midpoints of two sides is produced to intersect the circle in either of two points, then these three points are in golden proportion. This result is a straightforward consequence of the intersecting chords theorem and can be used to construct a regular pentagon, a construction that attracted the attention of the noted Canadian geometer H. S. M. Coxeter who published it in Odom's name as a diagram in the _American Mathematical Monthly_ accompanied by the single word "Behold!" [62]
 
 Pentagram
 
-A pentagram colored to distinguish its line segments of different lengths. The four lengths are in golden ratio to one another. The golden ratio plays an important role in the geometry of pentagrams. Each intersection of edges sections other edges in the golden ratio. Also, the ratio of the length of the shorter segment to the segment bounded by the two intersecting edges (a side of the pentagon in the pentagram's center) is , as the four-color illustration shows.
+The golden ratio plays an important role in the geometry of pentagrams. Each intersection of edges sections other edges in the golden ratio. Also, the ratio of the length of the shorter segment to the segment bounded by the two intersecting edges (a side of the pentagon in the pentagram's center) is , as the four-color illustration shows.
 
 The pentagram includes ten isosceles triangles: five acute and five obtuse isosceles triangles. In all of them, the ratio of the longer side to the shorter side is . The acute triangles are golden triangles. The obtuse isosceles triangles are golden gnomons.
 
 Ptolemy's theorem
 
-Ptolemy_Pentagon.svg.]]
+.]]
 
 The golden ratio properties of a regular pentagon can be confirmed by applying Ptolemy's theorem to the quadrilateral formed by removing one of its vertices. If the quadrilateral's long edge and diagonals are _b_, and short edges are _a_, then Ptolemy's theorem gives _b_² = _a_² + _ab_ which yields
 
@@ -310,10 +302,6 @@ If the side lengths of a triangle form a geometric progression and are in the ra
 
 Golden triangle, rhombus, and rhombic triacontahedron
 
-GoldenRhombus.svg
-
-Rhombictriacontahedron.svg
-
 A golden rhombus is a rhombus whose diagonals are in the golden ratio. The rhombic triacontahedron is a convex polytope that has a very special property: all of its faces are golden rhombi. In the rhombic triacontahedron the dihedral angle between any two adjacent rhombi is 144°, which is twice the isosceles angle of a golden triangle and four times its most acute angle.[65]
 
 Relationship to Fibonacci sequence
@@ -328,7 +316,7 @@ $$F\left(n\right)
  = {{\varphi^n-(1-\varphi)^n} \over {\sqrt 5}}
  = {{\varphi^n-(-\varphi)^{-n}} \over {\sqrt 5}}.$$
 
-Fibonacci_spiral_34.svg which approximates the golden spiral, using Fibonacci sequence square sizes up to 34. The spiral is drawn starting from the inner 1×1 square and continues outwards to successively larger squares.]] Golden_Square_fractal_with_T-branching_8.svg]] Golden_Square_fractal_6.svg
+which approximates the golden spiral, using Fibonacci sequence square sizes up to 34. The spiral is drawn starting from the inner 1×1 square and continues outwards to successively larger squares.]] ]]
 
 The golden ratio is the limit of the ratios of successive terms of the Fibonacci sequence (or any Fibonacci-like sequence), as shown by Kepler:[66]
 
@@ -429,7 +417,7 @@ The decimal expansion of the golden ratio [70] has been calculated to an accurac
 
 Pyramids
 
-Mathematical_Pyramid.svg Both Egyptian pyramids and the regular square pyramids that resemble them can be analyzed with respect to the golden ratio and other ratios.
+Both Egyptian pyramids and the regular square pyramids that resemble them can be analyzed with respect to the golden ratio and other ratios.
 
 Mathematical pyramids
 
@@ -445,7 +433,7 @@ Egyptian pyramids very close in proportion to these mathematical pyramids are kn
 
 Egyptian pyramids
 
-Egypt._Pyramids._Pyramids_and_palm_grove_reflections_LOC_matpc.23063.jpg]] One Egyptian pyramid that is close to a "golden pyramid" is the Great Pyramid of Giza (also known as the Pyramid of Cheops or Khufu). Its slope of 51° 52' is close to the "golden" pyramid inclination of 51° 50' – and even closer to the -based pyramid inclination of 51° 51'. However, several other mathematical theories of the shape of the great pyramid, based on rational slopes, have been found to be both more accurate and more plausible explanations for the 51° 52' slope.[81]
+]] One Egyptian pyramid that is close to a "golden pyramid" is the Great Pyramid of Giza (also known as the Pyramid of Cheops or Khufu). Its slope of 51° 52' is close to the "golden" pyramid inclination of 51° 50' – and even closer to the -based pyramid inclination of 51° 51'. However, several other mathematical theories of the shape of the great pyramid, based on rational slopes, have been found to be both more accurate and more plausible explanations for the 51° 52' slope.[81]
 
 In the mid-nineteenth century, Friedrich Röber studied various Egyptian pyramids including those of Khafre, Menkaure, and some of the Giza, Saqqara, and Abusir groups. He did not apply the golden ratio to the Great Pyramid of Giza, but instead agreed with John Shae Perring that its side-to-height ratio is 8:5. For all the other pyramids he applied measurements related to the Kepler triangle, and claimed that either their whole or half-side lengths are related to their heights by the golden ratio.[82]
 
@@ -458,7 +446,7 @@ Michael Rice[87] asserts that principal authorities on the history of Egyptian a
 
 Disputed observations
 
-Examples of disputed observations of the golden ratio include the following: NautilusCutawayLogarithmicSpiral.jpg shells are often erroneously claimed to be golden-proportioned.]]
+Examples of disputed observations of the golden ratio include the following: shells are often erroneously claimed to be golden-proportioned.]]
 
 -   Some specific proportions in the bodies of many animals (including humans)[90][91] and parts of the shells of mollusks[92] are often claimed to be in the golden ratio. There is a large variation in the real measures of these elements in specific individuals, however, and the proportion in question is often significantly different from the golden ratio.[93] The ratio of successive phalangeal bones of the digits and the metacarpal bone has been said to approximate the golden ratio.[94] The nautilus shell, the construction of which proceeds in a logarithmic spiral, is often cited, usually with the idea that any logarithmic spiral is related to the golden ratio, but sometimes with the claim that each new chamber is golden-proportioned relative to the previous one.[95] However, measurements of nautilus shells do not support this claim.[96]
 -   Historian John Man states that both the pages and text area of the Gutenberg Bible were "based on the golden section shape". However, according to his own measurements, the ratio of height to width of the pages is 1.45.[97]
@@ -467,7 +455,7 @@ Examples of disputed observations of the golden ratio include the following: Nau
 
 The Parthenon
 
-7234014_Parthenonas_(cropped).jpg are alleged to exhibit the golden ratio, but this has largely been discredited.]]
+are alleged to exhibit the golden ratio, but this has largely been discredited.]]
 
 The Parthenon's façade (c. 432 BC) as well as elements of its façade and elsewhere are said by some to be circumscribed by golden rectangles.[101] Other scholars deny that the Greeks had any aesthetic association with golden ratio. For example, Keith Devlin says, "Certainly, the oft repeated assertion that the Parthenon in Athens is based on the golden ratio is not supported by actual measurements. In fact, the entire story about the Greeks and golden ratio seems to be without foundation."[102] Midhat J. Gazalé affirms that "It was not until Euclid ... that the golden ratio's mathematical properties were studied."[103]
 
@@ -475,7 +463,7 @@ From measurements of 15 temples, 18 monumental tombs, 8 sarcophagi, and 58 grave
 
 Modern art
 
-Albert_Gleizes,_1912,_Les_Baigneuses,_oil_on_canvas,_105_x_171_cm,_Paris,_Musée_d'Art_Moderne_de_la_Ville_de_Paris.jpg, _Les Baigneuses_ (1912)]] The Section d'Or ('Golden Section') was a collective of painters, sculptors, poets and critics associated with Cubism and Orphism.[105] Active from 1911 to around 1914, they adopted the name both to highlight that Cubism represented the continuation of a grand tradition, rather than being an isolated movement, and in homage to the mathematical harmony associated with Georges Seurat.[106] The Cubists observed in its harmonies, geometric structuring of motion and form, the primacy of idea over nature, an absolute scientific clarity of conception.[107] However, despite this general interest in mathematical harmony, whether the paintings featured in the celebrated 1912 _Salon de la Section d'Or_ exhibition used the golden ratio in any compositions is more difficult to determine. Livio, for example, claims that they did not, and Marcel Duchamp said as much in an interview.[108] On the other hand, an analysis suggests that Juan Gris made use of the golden ratio in composing works that were likely, but not definitively, shown at the exhibition.[109][110][111] Art historian Daniel Robbins has argued that in addition to referencing the mathematical term, the exhibition's name also refers to the earlier _Bandeaux d'Or_ group, with which Albert Gleizes and other former members of the Abbaye de Créteil had been involved.[112]
+, _Les Baigneuses_ (1912)]] The Section d'Or ('Golden Section') was a collective of painters, sculptors, poets and critics associated with Cubism and Orphism.[105] Active from 1911 to around 1914, they adopted the name both to highlight that Cubism represented the continuation of a grand tradition, rather than being an isolated movement, and in homage to the mathematical harmony associated with Georges Seurat.[106] The Cubists observed in its harmonies, geometric structuring of motion and form, the primacy of idea over nature, an absolute scientific clarity of conception.[107] However, despite this general interest in mathematical harmony, whether the paintings featured in the celebrated 1912 _Salon de la Section d'Or_ exhibition used the golden ratio in any compositions is more difficult to determine. Livio, for example, claims that they did not, and Marcel Duchamp said as much in an interview.[108] On the other hand, an analysis suggests that Juan Gris made use of the golden ratio in composing works that were likely, but not definitively, shown at the exhibition.[109][110][111] Art historian Daniel Robbins has argued that in addition to referencing the mathematical term, the exhibition's name also refers to the earlier _Bandeaux d'Or_ group, with which Albert Gleizes and other former members of the Abbaye de Créteil had been involved.[112]
 
 Piet Mondrian has been said to have used the golden section extensively in his geometrical paintings,[113] though other experts (including critic Yve-Alain Bois) have discredited these claims.[114]
 

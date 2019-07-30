@@ -1,4 +1,4 @@
-Cluny_-_Mero_-_Croix-Talisman_motifs_magiques_basé_sur_Abracadabra_-_VIe-VII_siècle-_Ag_niellé.jpg _ABRACADABRA_ is an incantation used as a magic word in stage magic tricks, and historically was believed to have healing powers when inscribed on an amulet.
+_ABRACADABRA_ is an incantation used as a magic word in stage magic tricks, and historically was believed to have healing powers when inscribed on an amulet.
 
 
 Etymology
@@ -8,7 +8,7 @@ _Abracadabra_ is of unknown origin, and its first occurrence is in the second ce
 
 History
 
-Abracadabra_triangle_(cropped).jpg'']] The first known mention of the word was in the second century AD in a book called _Liber Medicinalis_ (sometimes known as _De Medicina Praecepta Saluberrima_) by Serenus Sammonicus,[7] physician to the Roman emperor Caracalla, who in chapter 51 prescribed that malaria sufferers wear an amulet containing the word written in the form of a triangle.[8][9]
+'']] The first known mention of the word was in the second century AD in a book called _Liber Medicinalis_ (sometimes known as _De Medicina Praecepta Saluberrima_) by Serenus Sammonicus,[7] physician to the Roman emperor Caracalla, who in chapter 51 prescribed that malaria sufferers wear an amulet containing the word written in the form of a triangle.[8][9]
 
 The power of the amulet, he claimed, makes lethal diseases go away. Other Roman emperors, including Geta and Severus Alexander, were followers of the medical teachings of Serenus Sammonicus and may have used the incantation as well.[10]
 

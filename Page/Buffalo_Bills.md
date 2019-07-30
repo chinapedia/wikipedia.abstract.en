@@ -20,8 +20,6 @@ In 1947 a contest was held to rename the AAFC Bisons, which was owned by James B
 
 Logos and uniforms
 
-Buffalo_Bills_classic_logo.svg
-
 The Bills' uniforms in its first two seasons were based on those of the Detroit Lions at the time.[9][10]
 
 The team's original colors were Honolulu blue, silver and white, and the helmets were silver with no striping. There was no logo on the helmet, which displayed the players' numbers on each side.

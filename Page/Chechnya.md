@@ -13,7 +13,7 @@ According to Leonti Mroveli, the 11th-century Georgian chronicler, the word Cauc
 
 Prehistory
 
-Colton,_G.W._Turkey_In_Asia_And_The_Caucasian_Provinces_Of_Russia._1856_(A).jpg), Basdet and Leshistan cities: Andi, Metiro.]] People living in prehistoric mountain cave settlements used tools, mastered fire, and used animal skins for warmth and other purposes.[13] Traces of human settlement that date back to 40,000 BC were found near Lake Kezanoi. Cave paintings, artifacts, and other archaeological evidence indicates continuous habitation for some 8,000 years.[14] In the Caucasian Epipaleolithic and early Caucasian Neolithic era, introduction of agriculture, irrigation, and the domestication of animals to the region.[15] Caucasian Neolithic. Pottery is known to the region. Old settlements near Ali-Yurt and Magas, discovered in the modern times, revealed tools made out of stone: stone axes, polished stones, stone knives, stones with holes drilled in them, clay dishes etc. Settlements made out of clay bricks discovered in the plains. In the mountains there were discovered settlements made out of stone and surrounded by walls; some of them dated back to 8000 BC.[16] Invention of the wheel (3000 BC), horseback riding, metal works (copper, gold, silver, iron), dishes, armor, daggers, knives, arrow tips. The artifacts were found near Nasare-Cort, Muzhichi, Ja-E-Bortz (also known as Surkha-khi), Abbey-Gove (also known as Nazran or Nasare)[17]
+), Basdet and Leshistan cities: Andi, Metiro.]] People living in prehistoric mountain cave settlements used tools, mastered fire, and used animal skins for warmth and other purposes.[13] Traces of human settlement that date back to 40,000 BC were found near Lake Kezanoi. Cave paintings, artifacts, and other archaeological evidence indicates continuous habitation for some 8,000 years.[14] In the Caucasian Epipaleolithic and early Caucasian Neolithic era, introduction of agriculture, irrigation, and the domestication of animals to the region.[15] Caucasian Neolithic. Pottery is known to the region. Old settlements near Ali-Yurt and Magas, discovered in the modern times, revealed tools made out of stone: stone axes, polished stones, stone knives, stones with holes drilled in them, clay dishes etc. Settlements made out of clay bricks discovered in the plains. In the mountains there were discovered settlements made out of stone and surrounded by walls; some of them dated back to 8000 BC.[16] Invention of the wheel (3000 BC), horseback riding, metal works (copper, gold, silver, iron), dishes, armor, daggers, knives, arrow tips. The artifacts were found near Nasare-Cort, Muzhichi, Ja-E-Bortz (also known as Surkha-khi), Abbey-Gove (also known as Nazran or Nasare)[17]
 
 Pre-imperial era
 
@@ -21,7 +21,7 @@ In 900–1200 AD, the kingdom in the center of the Caucasus splits into Alania a
 
 Imperial rule
 
-Imam_Shamil_surrendered_to_Count_Baryatinsky_on_August_25,_1859_by_Kivshenko,_Alexei_Danilovich.jpg of Chechnya and Dagestan surrendering to Russian general Baryatinsky in 1859; painting by Aleksey Kivshenko]] Karte_des_Kaukasischen_Isthmus_-_Entworfen_und_gezeichnet_von_J-Grassl_-_1856.jpg
+of Chechnya and Dagestan surrendering to Russian general Baryatinsky in 1859; painting by Aleksey Kivshenko]]
 by J. Grassl, 1856]] Peter I first sought to increase Russia's political influence in the Caucasus and the Caspian Sea at the expense of Safavid Persia when he launched the Russo-Persian War (1722–1723). Notable in Chechen history, this particular Russo-Persian War marked the first military encounter between Imperial Russia and the Vainakh. Russian forces succeeded in taking much of the Caucasian territories from Iran for several years.[24]
 
 As the Russians took control of the Caspian corridor and moved into Persian-ruled Dagestan, Peter's forces ran into mountain tribes. Peter sent a cavalry force to subdue them, but the Chechens routed them.[25] In 1732, after Russia already ceded back most of the Caucasus to Persia, now led by Nader Shah, following the Treaty of Resht, Russian troops clashed again with Chechens in a village called Chechen-aul along the Argun River.[26] The Russians were defeated again and withdrew, but this battle is responsible for the apocryphal story about how the Nokchi came to be known as "Chechens"-the people ostensibly named for the place the battle had taken place. The name Chechen was however already used since as early as 1692.[27]
@@ -54,7 +54,7 @@ In the ensuing decade, the territory was locked in an ongoing struggle between v
 
 Chechen Wars
 
-Evstafiev-chechnya-prayer3.jpg.]]The First Chechen War took place from 1994 to 1996, when Russian forces attempted to regain control over Chechnya, which had declared independence in November 1991. Despite overwhelming numerical superiority in men, weaponry, and air support, the Russian forces were unable to establish effective permanent control over the mountainous area due to numerous successful full-scale battles and insurgency raids. In three months, Russia lost more tanks (over 1,997 tanks) in Grozny than during the Battle of Berlin in 1945.[47] The Budyonnovsk hospital hostage crisis in 1995 shocked the Russian public and led to international condemnation of the Chechen rebels.
+.]]The First Chechen War took place from 1994 to 1996, when Russian forces attempted to regain control over Chechnya, which had declared independence in November 1991. Despite overwhelming numerical superiority in men, weaponry, and air support, the Russian forces were unable to establish effective permanent control over the mountainous area due to numerous successful full-scale battles and insurgency raids. In three months, Russia lost more tanks (over 1,997 tanks) in Grozny than during the Battle of Berlin in 1945.[47] The Budyonnovsk hospital hostage crisis in 1995 shocked the Russian public and led to international condemnation of the Chechen rebels.
 
 In April 1996 the first democratically elected president of Chechnya, Dzhokhar Dudayev, was killed by Russian forces using a booby trap bomb and a missile fired from a warplane after he was located by triangulating the position of a satellite phone he was using.[48]
 
@@ -68,7 +68,7 @@ The War of Dagestan began on August 7, 1999, during which the Islamic Internati
 
 Post-war reconstruction and insurgency
 
-RU034_09.jpg issued in 2009 by the Russian Post dedicated to Chechnya]] Chechen rebels continued to fight Russian troops and conduct terrorist attacks.[60] In October 2002, 40–50 Chechen rebels seized a Moscow theater and took about 900 civilians hostage.[61] The crisis ended with 117 hostages and up to 50 rebels dead, mostly due to an unknown aerosol pumped throughout the building by Russian special forces to incapacitate the people inside.[62][63][64]
+issued in 2009 by the Russian Post dedicated to Chechnya]] Chechen rebels continued to fight Russian troops and conduct terrorist attacks.[60] In October 2002, 40–50 Chechen rebels seized a Moscow theater and took about 900 civilians hostage.[61] The crisis ended with 117 hostages and up to 50 rebels dead, mostly due to an unknown aerosol pumped throughout the building by Russian special forces to incapacitate the people inside.[62][63][64]
 
 In September 2004, separatist rebels occupied a school in the town of Beslan, North Ossetia, demanding recognition of the independence of Chechnya and a Russian withdrawal. 1,100 people (including 777 children) were taken hostage. The attack lasted three days, resulting in the deaths of over 331 people, including 186 children.[65][66][67][68]
 
@@ -81,7 +81,7 @@ In April 2009, Russia ended its counter-terrorism operation and pulled out the b
 
 Geography
 
-Шаройский_район.jpg Kezenoy-lake.jpg]]
+]]
 
 Situated in the eastern part of the North Caucasus, partially in Eastern Europe, Chechnya is surrounded on nearly all sides by Russian Federal territory. In the west, it borders North Ossetia and Ingushetia, in the north, Stavropol Krai, in the east, Dagestan, and to the south, Georgia. Its capital is Grozny.
 
@@ -103,8 +103,6 @@ RIVERS:
 
 Cities and towns with over 20,000 people
 
-Map_of_Chechen_Republic_(Chechnya).png
-
 -   Grozny (capital)
 -   Shali
 -   Urus-Martan
@@ -124,7 +122,7 @@ There are other dialects which are believed to define districts, but because the
 
 Demographics
 
-RIAN_archive_908389_Victory_Day_parade_in_Russian_Regions.jpg]]
+]]
 
 According to the 2010 Census, the population of the republic is 1,268,989,[76] up from 1,103,686 recorded in the 2002 Census.[77] As of the 2010 Census,[78] Chechens at 1,206,551 make up 95.3% of the republic's population. Other groups include Russians (24,382, or 1.9%), Kumyks (12,221, or 1%), Ingush (1,296 or 0.1%) and a host of smaller groups, each accounting for less than 0.5% of the total population. The Armenian community, which used to number around 15,000 in Grozny alone, has dwindled to a few families.[79] The Armenian church of Grozny was demolished in 1930. The birth rate was 25.41 in 2004. (25.7 in Achkhoi Martan, 19.8 in Groznyy, 17.5 in Kurchaloi, 28.3 in Urus Martan and 11.1 in Vedeno). According to the Chechen State Statistical Committee, Chechnya's population had grown to 1.205 million in January 2006.[80]
 
@@ -147,8 +145,6 @@ Settlements
 Administrative Division | city_1 = Grozny | div_1 = Grozny{{!}}City of republic significance of Grozny | pop_1 = 271,573 | img_1 = Grozny PB040082 2430.jpg | city_2 = Urus-Martan | div_2 = Urus-Martanovsky District | pop_2 = 49,070 | img_2 = Урус-Мартан.jpg | city_3 = Shali, Chechen Republic{{!}}Shali | div_3 = Shalinsky District, Chechen Republic{{!}}Shalinsky District | pop_3 = 47,708 | img_3 = Город Шали.jpg | city_4 = Gudermes | div_4 = Gudermessky District | pop_4 = 45,631 | img_4 = Gudermes City4.jpg | city_5 = Argun, Chechen Republic{{!}}Argun | div_5 = Argun, Chechen Republic{{!}}Town of republic significance of Argun | pop_5 = 29,525 | city_6 = Kurchaloy | div_6 = Kurchaloyevsky District | pop_6 = 22,723 | city_7 = Achkhoy-Martan | div_7 = Achkhoy-Martanovsky District | pop_7 = 20,172 | city_8 = Tsotsi-Yurt | div_8 = Kurchaloyevsky District | pop_8 = 18,306 | city_9 = Bachi-Yurt | div_9 = Kurchaloyevsky District | pop_9 = 16,485 | city_10 = Goyty | div_10 = Urus-Martanovsky District | pop_10 = 16,177 }}
 
 Vital statistics
-
-Caucasus-ethnic_en.svg
 
     Source: Russian Federal State Statistics Service
 
@@ -206,7 +202,7 @@ Ethnic groups
 
 Religion
 
-Achmat-Kadyrow-Mosche,_Grosny_2.jpg in Grozny]]
+in Grozny]]
 
 Islam is the predominant religion in Chechnya, practiced by 95% of those polled in Grozny in 2010.[98] Chechens are overwhelmingly adherents to the Shafi'i Madhhab of Sunni Islam,[99] the republic having converted to Islam between the 16th and the 19th centuries. Due to historical importance, many Chechens are Sufis, of either the Qadiri or Naqshbandi orders. Most of the population follows either the Shafi'i or the Hanafi,[100] schools of jurisprudence, fiqh. The Shafi'i school of jurisprudence has a long tradition among the Chechens,[101] and thus it remains the most practiced.[102]
 
@@ -221,15 +217,13 @@ Since 1990, the Chechen Republic has had many legal, military, and civil conflic
 
 Regional government
 
-Chechnya_and_Caucasus.png
-
 The former separatist religious leader (mufti) Akhmad Kadyrov, looked upon as a traitor by many separatists, was elected president with 83% of the vote in an internationally monitored election on October 5, 2003. Incidents of ballot stuffing and voter intimidation by Russian soldiers and the exclusion of separatist parties from the polls were subsequently reported by the Organization for Security and Co-operation in Europe (OSCE) monitors. On May 9, 2004, Kadyrov was assassinated in Grozny football stadium by a landmine explosion that was planted beneath a VIP stage and detonated during a parade, and Sergey Abramov was appointed to the position of acting prime minister after the incident. However, since 2005 Ramzan Kadyrov (son of Akhmad Kadyrov) has been the caretaker prime minister, and in 2007 was appointed as the new president. Many allege he is the wealthiest and most powerful man in the republic, with control over a large private militia referred to as the _Kadyrovtsy_. The militia, which began as his father's security force, has been accused of killings and kidnappings by human rights organizations such as Human Rights Watch.
 
 In 2009, the US government financed American organization Freedom House included Chechnya in the "Worst of the Worst" list of most repressive societies in the world, together with Burma, North Korea, Tibet, and others.[106]
 
 Separatist government
 
-Shamil_Basaev.jpg, Chechen militant Islamist and a leader of the Chechen rebel movement]] Vladimir_Putin_8_November_2000-1.jpg, former separatist and head of the Chechen Republic, with Russian President Vladimir Putin]] In addition to the Russian regional government, there was a separatist Ichkeria government that was not recognized by any state (although members have been given political asylum in European and Arab countries, as well as the United States).
+, Chechen militant Islamist and a leader of the Chechen rebel movement]] , former separatist and head of the Chechen Republic, with Russian President Vladimir Putin]] In addition to the Russian regional government, there was a separatist Ichkeria government that was not recognized by any state (although members have been given political asylum in European and Arab countries, as well as the United States).
 
 Ichkeria was a member of the Unrepresented Nations and Peoples Organization between 1991 and 2010.[107] Former president of Georgia Zviad Gamsakhurdia deposed in a military coup of 1991 and a participant of the Georgian Civil War, recognized the independence of the Chechen Republic of Ichkeria in 1993.[108] Diplomatic relations with Ichkeria were also established by the partially recognized Islamic Emirate of Afghanistan under the Taliban government on January 16, 2000. This recognition ceased with the fall of the Taliban in 2001.[109] However, despite Taliban recognition, there were no friendly relations between the Taliban and Ichkeria—Maskhadov rejected their recognition, stating that the Taliban were illegitimate.[110] Ichkeria also received vocal support from the Baltic countries, a group of Ukrainian nationalists and Poland; Estonia once voted to recognize, but the act never was followed through due to pressure applied by both Russia and the EU.[111][112][113]
 
@@ -240,7 +234,7 @@ The successor of Saidullayev became Doku Umarov. On October 31, 2007, Umarov abo
 
 Human rights
 
-Mass_grave_in_Chechnya.jpg (2000)]]
+(2000)]]
 
 The Internal Displacement Monitoring Centre reports that after hundreds of thousands of ethnic Russians and Chechens fled their homes following inter-ethnic and separatist conflicts in Chechnya in 1994 and 1999, more than 150,000 people still remain displaced in Russia today.[115]
 
@@ -254,7 +248,7 @@ On February 1, 2009, _The New York Times_ released extensive evidence to suppor
 
 On July 1, 2009, Amnesty International released a detailed report covering the human rights violations committed by the Russian Federation against Chechen citizens. Among the most prominent features was that those abused had no method of redress against assaults, ranging from kidnapping to torture, while those responsible were never held accountable. This led to the conclusion that Chechnya was being ruled without law, being run into further devastating destabilization.[120]
 
-Ramzan_Kadyrov_(2018-06-15)_02.jpg in 2018]] On March 10, 2011, Human Rights Watch reported that since Chechenization, the government has pushed for enforced Islamic dress code and other traditions which violently repress women.[121] The president Ramzan Kadyrov is quoted as saying "I have the right to criticize my wife. She doesn't. With us [in Chechen society], a wife is a housewife. A woman should know her place. A woman should give her love to us [men]... She would be [man's] property. And the man is the owner. Here, if a woman does not behave properly, her husband, father, and brother are responsible. According to our tradition, if a woman fools around, her family members kill her... That's how it happens, a brother kills his sister or a husband kills his wife... As a president, I cannot allow for them to kill. So, let women not wear shorts...".[122] He has also openly defended honor killings on several occasions.[123]
+in 2018]] On March 10, 2011, Human Rights Watch reported that since Chechenization, the government has pushed for enforced Islamic dress code and other traditions which violently repress women.[121] The president Ramzan Kadyrov is quoted as saying "I have the right to criticize my wife. She doesn't. With us [in Chechen society], a wife is a housewife. A woman should know her place. A woman should give her love to us [men]... She would be [man's] property. And the man is the owner. Here, if a woman does not behave properly, her husband, father, and brother are responsible. According to our tradition, if a woman fools around, her family members kill her... That's how it happens, a brother kills his sister or a husband kills his wife... As a president, I cannot allow for them to kill. So, let women not wear shorts...".[122] He has also openly defended honor killings on several occasions.[123]
 
 On July 9, 2017, Russian newspaper Novaya Gazeta reported that a number of people were subject to an extrajudicial execution on the night of January 26, 2017. It published 27 names of the people known to be dead, but stressed that the list is "not all [of those killed]"; the newspaper asserted that 50 people may have been killed in the execution.[124] Some of the dead were gay, but not all; the deaths appeared to have been triggered by the death of a policeman,[125] and according to the author of the report, Elena Milashina, were executed for terrorism.[126]
 
@@ -267,7 +261,7 @@ On 11 January 2019, it was reported that another 'gay purge' had begun in the co
 
 Economy
 
-Мечеть_"Сердце_Чечни".jpg During the war, the Chechen economy fell apart.[137] In 1994, the separatists planned to introduce a new currency, but the change did not occur due to the re-taking of Chechnya by Russian troops in the Second Chechen War.[138]
+During the war, the Chechen economy fell apart.[137] In 1994, the separatists planned to introduce a new currency, but the change did not occur due to the re-taking of Chechnya by Russian troops in the Second Chechen War.[138]
 
 The economic situation in Chechnya has improved considerably since 2000. According to the _New York Times_, major efforts to rebuild Grozny have been made, and improvements in the political situation have led some officials to consider setting up a tourism industry, though there are claims that construction workers are being irregularly paid and that poor people have been displaced.[139]
 

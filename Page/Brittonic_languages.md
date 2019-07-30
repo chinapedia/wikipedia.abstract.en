@@ -90,7 +90,7 @@ Brittonic languages in use today are Welsh, Cornish and Breton. Welsh and Breton
 
 History and origins
 
-Map_Gaels_Brythons_Picts.png. ]] The modern Brittonic languages are generally considered to all derive from a common ancestral language termed _Brittonic_, _British_, _Common Brittonic_, _Old Brittonic_ or _Proto-Brittonic_, which is thought to have developed from Proto-Celtic or early Insular Celtic by the 6th century BC.[16]
+. ]] The modern Brittonic languages are generally considered to all derive from a common ancestral language termed _Brittonic_, _British_, _Common Brittonic_, _Old Brittonic_ or _Proto-Brittonic_, which is thought to have developed from Proto-Celtic or early Insular Celtic by the 6th century BC.[16]
 
 Brittonic languages were probably spoken prior to the Roman invasion at least in the majority of Great Britain south of the rivers Forth and Clyde, though the Isle of Man later had a Goidelic language, Manx. Northern Scotland mainly spoke Pritennic, which became the Pictish language, which may have been a Brittonic language like that of its neighbors. The theory has been advanced (notably by T. F. O'Rahilly) that part of Ireland spoke a Brittonic language, usually termed _Ivernic_, before it was displaced by Primitive Irish, although the authors Dillon and Chadwick reject this theory as being implausible.
 

@@ -3,8 +3,6 @@ In chemistry, CONCENTRATION is the abundance of a constituent divided by the tot
 
 Qualitative description
 
-Dilution-concentration_simple_example.jpg
-
 Often in informal, non-technical language, concentration is described in a qualitative way, through the use of adjectives such as "dilute" for solutions of relatively low concentration and "concentrated" for solutions of relatively high concentration. To CONCENTRATE a solution, one must add more solute (for example, alcohol), or reduce the amount of solvent (for example, water). By contrast, to DILUTE a solution, one must add more solvent, or reduce the amount of solute. Unless two substances are _fully_ miscible there exists a concentration at which no further solute will dissolve in a solution. At this point, the solution is said to be saturated. If additional solute is added to a saturated solution, it will not dissolve, except in certain circumstances, when supersaturation may occur. Instead, phase separation will occur, leading to coexisting phases, either completely separated or mixed as a suspension. The point of saturation depends on many variables such as ambient temperature and the precise chemical nature of the solvent and solute.
 
 Concentrations are often called LEVELS, reflecting the mental schema of levels on the vertical axis of a graph, which can be high or low (for example, "high serum levels of bilirubin" are concentrations of bilirubin in the blood serum that are greater than normal).

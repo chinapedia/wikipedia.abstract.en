@@ -45,8 +45,6 @@ Synthetic glues
 
 Synthetic monomer glues
 
-Super_glue.jpg
-
 -   Acrylonitrile
 -   Cyanoacrylate ("Superglue", "Krazy Glue")
 -   Acrylic

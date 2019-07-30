@@ -1,4 +1,4 @@
-Edwin_Booth_Hamlet_1870.jpg portrayed by the actor Edwin Booth, ca. 1870]]
+portrayed by the actor Edwin Booth, ca. 1870]]
 
 _THE TRAGEDY OF HAMLET, PRINCE OF DENMARK_, often shortened to _HAMLET_ (), is a tragedy written by William Shakespeare sometime between 1599 and 1602. Set in Denmark, the play depicts Prince Hamlet and his revenge against his uncle, Claudius, who has murdered Hamlet's father in order to seize his throne and marry Hamlet's mother.
 
@@ -41,7 +41,7 @@ On a cold night on the ramparts of Elsinore, the Danish royal castle, the sentri
 
 As the court gathers the next day, while King Claudius and Queen Gertrude discuss affairs of state with their elderly adviser Polonius, Hamlet looks on glumly. During the court, Claudius grants permission for Polonius's son Laertes to return to school in France and sends envoys to inform the King of Norway about Fortinbras. Claudius also scolds Hamlet for continuing to grieve over his father and forbids him to return to his schooling in Wittenberg. After the court exits, Hamlet despairs of his father's death and his mother's hasty remarriage. Learning of the ghost from Horatio, Hamlet resolves to see it himself.
 
-Henry_Fuseli_-_Hamlet_and_the_Ghost.JPG, 1789)[1]]] As Polonius's son Laertes prepares to depart for a visit to France, Polonius gives him contradictory advice that culminates in the ironic maxim "to thine own self be true." Polonius's daughter, Ophelia, admits her interest in Hamlet, but Laertes warns her against seeking the prince's attention, and Polonius orders her to reject his advances. That night on the rampart, the ghost appears to Hamlet, telling the prince that he was murdered by Claudius and demanding that Hamlet avenge him. Hamlet agrees, and the ghost vanishes. The prince confides to Horatio and the sentries that from now on he plans to "put an antic disposition on", or act as though he has gone mad, and forces them to swear to keep his plans for revenge secret. Privately, however, he remains uncertain of the ghost's reliability.
+, 1789)[1]]] As Polonius's son Laertes prepares to depart for a visit to France, Polonius gives him contradictory advice that culminates in the ironic maxim "to thine own self be true." Polonius's daughter, Ophelia, admits her interest in Hamlet, but Laertes warns her against seeking the prince's attention, and Polonius orders her to reject his advances. That night on the rampart, the ghost appears to Hamlet, telling the prince that he was murdered by Claudius and demanding that Hamlet avenge him. Hamlet agrees, and the ghost vanishes. The prince confides to Horatio and the sentries that from now on he plans to "put an antic disposition on", or act as though he has gone mad, and forces them to swear to keep his plans for revenge secret. Privately, however, he remains uncertain of the ghost's reliability.
 
 Act II
 
@@ -53,7 +53,7 @@ Act III
 
 Polonius forces Ophelia to return Hamlet's love letters and tokens of affection to the prince while he and Claudius watch from afar to evaluate Hamlet's reaction. Hamlet is walking alone in the hall as the King and Polonius await Ophelia's entrance, musing whether "to be or not to be". When Ophelia enters and tries to return Hamlet's things, Hamlet accuses her of immodesty and cries "get thee to a nunnery", though it is unclear whether this, too, is a show of madness or genuine distress. His reaction convinces Claudius that Hamlet is not mad for love. Shortly thereafter, the court assembles to watch the play Hamlet has commissioned. After seeing the Player King murdered by his rival pouring poison in his ear, Claudius abruptly rises and runs from the room; for Hamlet, this is proof positive of his uncle's guilt.
 
-Hamlet_stabs_Polonius.jpg Gertrude summons Hamlet to her room to demand an explanation. Meanwhile, Claudius talks to himself about the impossibility of repenting, since he still has possession of his ill-gotten goods: his brother's crown and wife. He sinks to his knees. Hamlet, on his way to visit his mother, sneaks up behind him but does not kill him, reasoning that killing Claudius while he is praying will send him straight to heaven while his father's ghost is stuck in purgatory. In the queen's bedchamber, Hamlet and Gertrude fight bitterly. Polonius, spying on the conversation from behind a tapestry, calls for help as Gertrude, believing Hamlet wants to kill her, calls out for help herself.
+Gertrude summons Hamlet to her room to demand an explanation. Meanwhile, Claudius talks to himself about the impossibility of repenting, since he still has possession of his ill-gotten goods: his brother's crown and wife. He sinks to his knees. Hamlet, on his way to visit his mother, sneaks up behind him but does not kill him, reasoning that killing Claudius while he is praying will send him straight to heaven while his father's ghost is stuck in purgatory. In the queen's bedchamber, Hamlet and Gertrude fight bitterly. Polonius, spying on the conversation from behind a tapestry, calls for help as Gertrude, believing Hamlet wants to kill her, calls out for help herself.
 
 Hamlet, believing it is Claudius, stabs wildly, killing Polonius, but he pulls aside the curtain and sees his mistake. In a rage, Hamlet brutally insults his mother for her apparent ignorance of Claudius's villainy, but the ghost enters and reprimands Hamlet for his inaction and harsh words. Unable to see or hear the ghost herself, Gertrude takes Hamlet's conversation with it as further evidence of madness. After begging the queen to stop sleeping with Claudius, Hamlet leaves, dragging Polonius's corpse away.
 
@@ -63,7 +63,7 @@ Hamlet jokes with Claudius about where he has hidden Polonius's body, and the ki
 
 Demented by grief at Polonius's death, Ophelia wanders Elsinore. Laertes arrives back from France, enraged by his father's death and his sister's madness. Claudius convinces Laertes that Hamlet is solely responsible, but a letter soon arrives indicating that Hamlet has returned to Denmark, foiling Claudius' plan. Claudius switches tactics, proposing a fencing match between Laertes and Hamlet to settle their differences. Laertes will be given a poison-tipped foil, and, if that fails, Claudius will offer Hamlet poisoned wine as a congratulation. Gertrude interrupts to report that Ophelia has drowned, though it is unclear whether it was suicide or an accident exacerbated by her madness.
 
-Eugène_Ferdinand_Victor_Delacroix_018.jpg, 1839)]]
+, 1839)]]
 
 Act V
 
@@ -74,13 +74,13 @@ Back at Elsinore, Hamlet explains to Horatio that he had discovered Claudius's l
 
 Sources
 
-Saxo_original_001.jpg'' by Saxo Grammaticus, which contains the legend of Amleth]]
+'' by Saxo Grammaticus, which contains the legend of Amleth]]
 
 _Hamlet_-like legends are so widely found (for example in Italy, Spain, Scandinavia, Byzantium, and Arabia) that the core "hero-as-fool" theme is possibly Indo-European in origin. Several ancient written precursors to _Hamlet_ can be identified. The first is the anonymous Scandinavian _Saga of Hrolf Kraki_. In this, the murdered king has two sons—Hroar and Helgi—who spend most of the story in disguise, under false names, rather than feigning madness, in a sequence of events that differs from Shakespeare's. The second is the Roman legend of Brutus, recorded in two separate Latin works. Its hero, Lucius ("shining, light"), changes his name and persona to Brutus ("dull, stupid"), playing the role of a fool to avoid the fate of his father and brothers, and eventually slaying his family's killer, King Tarquinius. A 17th-century Nordic scholar, Torfaeus, compared the Icelandic hero Amlodi and the Spanish hero Prince Ambales (from the _Ambales Saga_) to Shakespeare's _Hamlet_. Similarities include the prince's feigned madness, his accidental killing of the king's counsellor in his mother's bedroom, and the eventual slaying of his uncle.
 
 Many of the earlier legendary elements are interwoven in the 13th-century "Life of Amleth" () by Saxo Grammaticus, part of _Gesta Danorum_. Written in Latin, it reflects classical Roman concepts of virtue and heroism, and was widely available in Shakespeare's day. Significant parallels include the prince feigning madness, his mother's hasty marriage to the usurper, the prince killing a hidden spy, and the prince substituting the execution of two retainers for his own. A reasonably faithful version of Saxo's story was translated into French in 1570 by François de Belleforest, in his _Histoires tragiques_. Belleforest embellished Saxo's text substantially, almost doubling its length, and introduced the hero's melancholy.
 
-The_Spanish_Tragedy.jpg'' by Thomas Kyd]]
+'' by Thomas Kyd]]
 
 According to one theory, Shakespeare's main source is an earlier play—now lost—known today as the _Ur-Hamlet_. Possibly written by Thomas Kyd or even William Shakespeare, the _Ur-Hamlet_ would have existed by 1589, and would have incorporated a ghost. Shakespeare's company, the Chamberlain's Men, may have purchased that play and performed a version for some time, which Shakespeare reworked. However, since no copy of the _Ur-Hamlet_ has survived, it is impossible to compare its language and style with the known works of any of its putative authors. Consequently, there is no direct evidence that Kyd wrote it, nor any evidence that the play was not an early version of _Hamlet_ by Shakespeare himself. This latter idea—placing _Hamlet_ far earlier than the generally accepted date, with a much longer period of development—has attracted some support.
 
@@ -93,7 +93,7 @@ Scholars have often speculated that _Hamlet_{{'}}s Polonius might have been insp
 
 Date
 
-John_Barrymore_Hamlet_1922.jpg as Hamlet (1922)]] "Any dating of _Hamlet_ must be tentative", cautions the _New Cambridge_ editor, Phillip Edwards. The earliest date estimate relies on _Hamlet_{{'}}s frequent allusions to Shakespeare's _Julius Caesar_, itself dated to mid-1599. The latest date estimate is based on an entry, of 26 July 1602, in the Register of the Stationers' Company, indicating that _Hamlet_ was "latelie Acted by the Lo: Chamberleyne his servantes".
+as Hamlet (1922)]] "Any dating of _Hamlet_ must be tentative", cautions the _New Cambridge_ editor, Phillip Edwards. The earliest date estimate relies on _Hamlet_{{'}}s frequent allusions to Shakespeare's _Julius Caesar_, itself dated to mid-1599. The latest date estimate is based on an entry, of 26 July 1602, in the Register of the Stationers' Company, indicating that _Hamlet_ was "latelie Acted by the Lo: Chamberleyne his servantes".
 
 In 1598, Francis Meres published his _Palladis Tamia_, a survey of English literature from Chaucer to its present day, within which twelve of Shakespeare's plays are named. _Hamlet_ is not among them, suggesting that it had not yet been written. As _Hamlet_ was very popular, Bernard Lott, the series editor of _New Swan_, believes it "unlikely that he [Meres] would have overlooked ... so significant a piece".
 
@@ -104,7 +104,7 @@ A contemporary of Shakespeare's, Gabriel Harvey, wrote a marginal note in his co
 
 Texts
 
-Hamlet.jpg of the 1605 printing (Q2) of _Hamlet_]]
+of the 1605 printing (Q2) of _Hamlet_]]
 
 Three early editions of the text have survived, making attempts to establish a single "authentic" text problematic and inconclusive. Each surviving edition differs from the others:
 
@@ -114,11 +114,11 @@ Three early editions of the text have survived, making attempts to establish a s
 
 Other folios and quartos were subsequently published—including John Smethwick's Q3, Q4, and Q5 (1611–37)—but these are regarded as derivatives of the first three editions.
 
-First-page-first-folio-Hamlet.jpg printing of _Hamlet_, 1623]] Early editors of Shakespeare's works, beginning with Nicholas Rowe (1709) and Lewis Theobald (1733), combined material from the two earliest sources of _Hamlet_ available at the time, Q2 and F1. Each text contains material that the other lacks, with many minor differences in wording: scarcely 200 lines are identical in the two. Editors have combined them in an effort to create one "inclusive" text that reflects an imagined "ideal" of Shakespeare's original. Theobald's version became standard for a long time, and his "full text" approach continues to influence editorial practice to the present day. Some contemporary scholarship, however, discounts this approach, instead considering "an authentic _Hamlet_ an unrealisable ideal. ... there are _texts_ of this play but no _text_". The 2006 publication by Arden Shakespeare of different _Hamlet_ texts in different volumes is perhaps evidence of this shifting focus and emphasis. Other editors have continued to argue the need for well-edited editions taking material from all versions of the play. Colin Burrow has argued that "most of us should read a text that is made up by conflating all three versions ... it's about as likely that Shakespeare wrote: "To be or not to be, ay, there's the point" [in Q1], as that he wrote the works of Francis Bacon. I suspect most people just won't want to read a three-text play ... [multi-text editions are] a version of the play that is out of touch with the needs of a wider public."
+printing of _Hamlet_, 1623]] Early editors of Shakespeare's works, beginning with Nicholas Rowe (1709) and Lewis Theobald (1733), combined material from the two earliest sources of _Hamlet_ available at the time, Q2 and F1. Each text contains material that the other lacks, with many minor differences in wording: scarcely 200 lines are identical in the two. Editors have combined them in an effort to create one "inclusive" text that reflects an imagined "ideal" of Shakespeare's original. Theobald's version became standard for a long time, and his "full text" approach continues to influence editorial practice to the present day. Some contemporary scholarship, however, discounts this approach, instead considering "an authentic _Hamlet_ an unrealisable ideal. ... there are _texts_ of this play but no _text_". The 2006 publication by Arden Shakespeare of different _Hamlet_ texts in different volumes is perhaps evidence of this shifting focus and emphasis. Other editors have continued to argue the need for well-edited editions taking material from all versions of the play. Colin Burrow has argued that "most of us should read a text that is made up by conflating all three versions ... it's about as likely that Shakespeare wrote: "To be or not to be, ay, there's the point" [in Q1], as that he wrote the works of Francis Bacon. I suspect most people just won't want to read a three-text play ... [multi-text editions are] a version of the play that is out of touch with the needs of a wider public."
 
 Traditionally, editors of Shakespeare's plays have divided them into five acts. None of the early texts of _Hamlet_, however, were arranged this way, and the play's division into acts and scenes derives from a 1676 quarto. Modern editors generally follow this traditional division but consider it unsatisfactory; for example, after Hamlet drags Polonius's body out of Gertrude's bedchamber, there is an act-break[3] after which the action appears to continue uninterrupted.
 
-Bad_quarto,_good_quarto,_first_folio.png, the Good Quarto and the First Folio]]
+, the Good Quarto and the First Folio]]
 
 The discovery in 1823 of Q1—whose existence had been quite unsuspected—caused considerable interest and excitement, raising many questions of editorial practice and interpretation. Scholars immediately identified apparent deficiencies in Q1, which was instrumental in the development of the concept of a Shakespearean "bad quarto". Yet Q1 has value: it contains stage directions (such as Ophelia entering with a lute and her hair down) that reveal actual stage practices in a way that Q2 and F1 do not; it contains an entire scene (usually labelled 4.6)[4] that does not appear in either Q2 or F1; and it is useful for comparison with the later editions. The major deficiency of Q1 is in the language: particularly noticeable in the opening lines of the famous "To be, or not to be" soliloquy: "To be, or not to be, aye there's the point. / To die, to sleep, is that all? Aye all: / No, to sleep, to dream, aye marry there it goes." However, the scene order is more coherent, without the problems of Q2 and F1 of Hamlet seeming to resolve something in one scene and enter the next drowning in indecision. New Cambridge editor Kathleen Irace has noted that "Q1's more linear plot design is certainly easier [...] to follow [...] but the simplicity of the Q1 plot arrangement eliminates the alternating plot elements that correspond to Hamlet's shifts in mood."
 
@@ -141,7 +141,7 @@ _Hamlet_ is Shakespeare's longest play. The Riverside edition constitutes 4,042 
 
 Language
 
-Delacroix-1834-I2-QueenConsolesHamlet.JPG 1834).]]
+1834).]]
 
 Much of _Hamlet_'s language is courtly: elaborate, witty discourse, as recommended by Baldassare Castiglione's 1528 etiquette guide, _The Courtier_. This work specifically advises royal retainers to amuse their masters with inventive language. Osric and Polonius, especially, seem to respect this injunction. Claudius's speech is rich with rhetorical figures—as is Hamlet's and, at times, Ophelia's—while the language of Horatio, the guards, and the gravediggers is simpler. Claudius's high status is reinforced by using the royal first person plural ("we" or "us"), and anaphora mixed with metaphor to resonate with Greek political speeches.
 
@@ -156,7 +156,7 @@ Context and interpretation
 
 Religious
 
-John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg' _Ophelia_ (1852) depicts Lady Ophelia's mysterious death by drowning. In the play, the gravediggers discuss whether Ophelia's death was a suicide and whether she merits a Christian burial.]]
+' _Ophelia_ (1852) depicts Lady Ophelia's mysterious death by drowning. In the play, the gravediggers discuss whether Ophelia's death was a suicide and whether she merits a Christian burial.]]
 
 Written at a time of religious upheaval and in the wake of the English Reformation, the play is alternately Catholic (or piously medieval) and Protestant (or consciously modern). The ghost describes himself as being in purgatory and as dying without last rites. This and Ophelia's burial ceremony, which is characteristically Catholic, make up most of the play's Catholic connections. Some scholars have observed that revenge tragedies come from Catholic countries like Italy and Spain, where the revenge tragedies present contradictions of motives, since according to Catholic doctrine the duty to God and family precedes civil justice. Hamlet's conundrum then is whether to avenge his father and kill Claudius or to leave the vengeance to God, as his religion requires.
 
@@ -164,7 +164,7 @@ Much of the play's Protestant tones derive from its setting in Denmark—both th
 
 Philosophical
 
-Michel_de_Montaigne_1.jpg, a contemporary of Shakespeare's (artist: Thomas de Leu, fl. 1560–1612).]]
+, a contemporary of Shakespeare's (artist: Thomas de Leu, fl. 1560–1612).]]
 
 Hamlet is often perceived as a philosophical character, expounding ideas that are now described as relativist, existentialist, and sceptical. For example, he expresses a subjectivistic idea when he says to Rosencrantz: "there is nothing either good or bad, but thinking makes it so".[10] The idea that nothing is real except in the mind of the individual finds its roots in the Greek Sophists, who argued that since nothing can be perceived except through the senses—and since all individuals sense, and therefore perceive things differently—there is no absolute truth, but rather only relative truth. The clearest alleged instance of existentialism is in the "to be, or not to be"[11] speech, where Hamlet is thought by some to use "being" to allude to life and action, and "not being" to death and inaction.
 
@@ -172,7 +172,7 @@ _Hamlet_ reflects the contemporary scepticism promoted by the French Renaissance
 
 Psychoanalytic
 
-Claudius_at_Prayer_Hamlet_3-3_Delacroix_1844.JPG suggested that an unconscious Oedipal conflict caused Hamlet's hesitations (artist: Eugène Delacroix 1844).]]
+suggested that an unconscious Oedipal conflict caused Hamlet's hesitations (artist: Eugène Delacroix 1844).]]
 
 Sigmund Freud
 
@@ -202,7 +202,7 @@ In the 1950s, Lacan's structuralist theories about _Hamlet_ were first presented
 
 Feminist
 
-Ophelia_-_Henrietta_Rae.jpg is distracted by grief.[12] Feminist critics have explored her descent into madness (artist: Henrietta Rae 1890).]] In the 20th century, feminist critics opened up new approaches to Gertrude and Ophelia. New Historicist and cultural materialist critics examined the play in its historical context, attempting to piece together its original cultural environment. They focused on the gender system of early modern England, pointing to the common trinity of _maid, wife, or widow_, with _whores_ outside of that stereotype. In this analysis, the essence of _Hamlet_ is the central character's changed perception of his mother as a whore because of her failure to remain faithful to Old Hamlet. In consequence, Hamlet loses his faith in all women, treating Ophelia as if she too were a whore and dishonest with Hamlet. Ophelia, by some critics, can be seen as honest and fair; however, it is virtually impossible to link these two traits, since 'fairness' is an outward trait, while 'honesty' is an inward trait. Nicolai_Abildgaard_-_Hamlet_hos_sin_moder_-_KMS1019_-_Statens_Museum_for_Kunst.jpg, ca. 1778).]]
+is distracted by grief.[12] Feminist critics have explored her descent into madness (artist: Henrietta Rae 1890).]] In the 20th century, feminist critics opened up new approaches to Gertrude and Ophelia. New Historicist and cultural materialist critics examined the play in its historical context, attempting to piece together its original cultural environment. They focused on the gender system of early modern England, pointing to the common trinity of _maid, wife, or widow_, with _whores_ outside of that stereotype. In this analysis, the essence of _Hamlet_ is the central character's changed perception of his mother as a whore because of her failure to remain faithful to Old Hamlet. In consequence, Hamlet loses his faith in all women, treating Ophelia as if she too were a whore and dishonest with Hamlet. Ophelia, by some critics, can be seen as honest and fair; however, it is virtually impossible to link these two traits, since 'fairness' is an outward trait, while 'honesty' is an inward trait. , ca. 1778).]]
 
 Carolyn Heilbrun's 1957 essay "The Character of Hamlet's Mother" defends Gertrude, arguing that the text never hints that Gertrude knew of Claudius poisoning King Hamlet. This analysis has been praised by many feminist critics, combating what is, by Heilbrun's argument, centuries' worth of misinterpretation. By this account, Gertrude's worst crime is of pragmatically marrying her brother-in-law in order to avoid a power vacuum. This is borne out by the fact that King Hamlet's ghost tells Hamlet to leave Gertrude out of Hamlet's revenge, to leave her to heaven, an arbitrary mercy to grant to a conspirator to murder. This view has not been without objection from some critics.
 
@@ -213,7 +213,7 @@ Influence
 
 _Hamlet_ is one of the most quoted works in the English language, and is often included on lists of the world's greatest literature. As such, it reverberates through the writing of later centuries. Academic Laurie Osborne identifies the direct influence of _Hamlet_ in numerous modern narratives, and divides them into four main categories: fictional accounts of the play's composition, simplifications of the story for young readers, stories expanding the role of one or more characters, and narratives featuring performances of the play.
 
-Czachórski_Actors_before_Hamlet.jpg (1875), National Museum in Warsaw.]]
+(1875), National Museum in Warsaw.]]
 
 English poet John Milton was an early admirer of Shakespeare and took evident inspiration from his work. As John Kerrigan discusses, Milton originally considered writing his epic poem _Paradise Lost_ (1667) as a tragedy. While Milton did not ultimately go that route, the poem still shows distinct echoes of Shakespearean revenge tragedy, and of _Hamlet_ in particular. As scholar Christopher N. Warren argues, _Paradise Lost_'s Satan "undergoes a transformation in the poem from a Hamlet-like avenger into a Claudius-like usurper," a plot device that supports Milton's larger Republican internationalist project. The poem also reworks theatrical language from _Hamlet_, especially around the idea of "putting on" certain dispositions, as when Hamlet puts on "an antic disposition," similarly to the Son in _Paradise Lost_ who "can put on / [God's] terrors."
 
@@ -240,15 +240,15 @@ All theatres were closed down by the Puritan government during the Interregnum. 
 
 Restoration and 18th century
 
-Hamlet,_Drury_Lane_Edition.jpg The play was revived early in the Restoration. When the existing stock of pre-civil war plays was divided between the two newly created patent theatre companies, _Hamlet_ was the only Shakespearean favourite that Sir William Davenant's Duke's Company secured. It became the first of Shakespeare's plays to be presented with movable flats painted with generic scenery behind the proscenium arch of Lincoln's Inn Fields Theatre. This new stage convention highlighted the frequency with which Shakespeare shifts dramatic location, encouraging the recurrent criticism of his failure to maintain unity of place. In the title role, Davenant cast Thomas Betterton, who continued to play the Dane until he was 74. David Garrick at Drury Lane produced a version that adapted Shakespeare heavily; he declared: "I had sworn I would not leave the stage till I had rescued that noble play from all the rubbish of the fifth act. I have brought it forth without the grave-digger's trick, Osrick, & the fencing match". The first actor known to have played Hamlet in North America is Lewis Hallam Jr., in the American Company's production in Philadelphia in 1759.
+The play was revived early in the Restoration. When the existing stock of pre-civil war plays was divided between the two newly created patent theatre companies, _Hamlet_ was the only Shakespearean favourite that Sir William Davenant's Duke's Company secured. It became the first of Shakespeare's plays to be presented with movable flats painted with generic scenery behind the proscenium arch of Lincoln's Inn Fields Theatre. This new stage convention highlighted the frequency with which Shakespeare shifts dramatic location, encouraging the recurrent criticism of his failure to maintain unity of place. In the title role, Davenant cast Thomas Betterton, who continued to play the Dane until he was 74. David Garrick at Drury Lane produced a version that adapted Shakespeare heavily; he declared: "I had sworn I would not leave the stage till I had rescued that noble play from all the rubbish of the fifth act. I have brought it forth without the grave-digger's trick, Osrick, & the fencing match". The first actor known to have played Hamlet in North America is Lewis Hallam Jr., in the American Company's production in Philadelphia in 1759.
 
-Garrick_as_Hamlet.jpg expresses Hamlet's shock at his first sighting of the ghost (artist: unknown).]]
+expresses Hamlet's shock at his first sighting of the ghost (artist: unknown).]]
 
 John Philip Kemble made his Drury Lane debut as Hamlet in 1783. His performance was said to be 20 minutes longer than anyone else's, and his lengthy pauses provoked the suggestion by Richard Brinsley Sheridan that "music should be played between the words". Sarah Siddons was the first actress known to play Hamlet; many women have since played him as a breeches role, to great acclaim. In 1748, Alexander Sumarokov wrote a Russian adaptation that focused on Prince Hamlet as the embodiment of an opposition to Claudius's tyranny—a treatment that would recur in Eastern European versions into the 20th century. In the years following America's independence, Thomas Apthorpe Cooper, the young nation's leading tragedian, performed _Hamlet_ among other plays at the Chestnut Street Theatre in Philadelphia, and at the Park Theatre in New York. Although chided for "acknowledging acquaintances in the audience" and "inadequate memorisation of his lines", he became a national celebrity.
 
 19th century
 
-Thos._W._Keene_in_Hamlet.png), showing several of the key scenes]]
+), showing several of the key scenes]]
 
 From around 1810 to 1840, the best-known Shakespearean performances in the United States were tours by leading London actors—including George Frederick Cooke, Junius Brutus Booth, Edmund Kean, William Charles Macready, and Charles Kemble. Of these, Booth remained to make his career in the States, fathering the nation's most notorious actor, John Wilkes Booth (who later assassinated Abraham Lincoln), and its most famous Hamlet, Edwin Booth. Edwin Booth's _Hamlet_ at the Fifth Avenue Theatre in 1875 was described as "... the dark, sad, dreamy, mysterious hero of a poem. [... acted] in an ideal manner, as far removed as possible from the plane of actual life". Booth played Hamlet for 100 nights in the 1864/5 season at The Winter Garden Theatre, inaugurating the era of long-run Shakespeare in America.
 
@@ -266,7 +266,7 @@ Konstantin Stanislavski and Edward Gordon Craig—two of the 20th century's most
 
 _Hamlet_ is often played with contemporary political overtones. Leopold Jessner's 1926 production at the Berlin Staatstheater portrayed Claudius's court as a parody of the corrupt and fawning court of Kaiser Wilhelm. In Poland, the number of productions of _Hamlet_ has tended to increase at times of political unrest, since its political themes (suspected crimes, coups, surveillance) can be used to comment on a contemporary situation. Similarly, Czech directors have used the play at times of occupation: a 1941 Vinohrady Theatre production "emphasised, with due caution, the helpless situation of an intellectual attempting to endure in a ruthless environment". In China, performances of Hamlet often have political significance: Gu Wuwei's 1916 _The Usurper of State Power_, an amalgam of _Hamlet_ and _Macbeth_, was an attack on Yuan Shikai's attempt to overthrow the republic. In 1942, Jiao Juyin directed the play in a Confucian temple in Sichuan Province, to which the government had retreated from the advancing Japanese. In the immediate aftermath of the collapse of the protests at Tiananmen Square, Lin Zhaohua staged a 1990 _Hamlet_ in which the prince was an ordinary individual tortured by a loss of meaning. In this production, the actors playing Hamlet, Claudius and Polonius exchanged roles at crucial moments in the performance, including the moment of Claudius's death, at which point the actor mainly associated with Hamlet fell to the ground.
 
-Mignon_Nevada_Ophelia2.jpg as Ophelia, 1910]]
+as Ophelia, 1910]]
 
 Notable stagings in London and New York include Barrymore's 1925 production at the Haymarket; it influenced subsequent performances by John Gielgud and Laurence Olivier. Gielgud played the central role many times: his 1936 New York production ran for 132 performances, leading to the accolade that he was "the finest interpreter of the role since Barrymore". Although "posterity has treated Maurice Evans less kindly", throughout the 1930s and 1940s he was regarded by many as the leading interpreter of Shakespeare in the United States and in the 1938/39 season he presented Broadway's first uncut _Hamlet_, running four and a half hours. Evans later performed a highly truncated version of the play that he played for South Pacific war zones during World War II which made the prince a more decisive character. The staging, known as the "G.I. Hamlet", was produced on Broadway for 131 performances in 1945/46. Olivier's 1937 performance at The Old Vic was popular with audiences but not with critics, with James Agate writing in a famous review in _The Sunday Times,_ "Mr. Olivier does not speak poetry badly. He does not speak it at all." In 1937 Tyrone Guthrie directed the play at Elsinore, Denmark with Laurence Olivier as Hamlet and Vivien Leigh as Ophelia.
 
@@ -280,7 +280,7 @@ Ian Charleson performed Hamlet from 9 October to 13 November 1989, in Richard Ey
 
 21st century
 
-Benedict_Cumberbatch_2011.jpg in August 2015.]] _Hamlet_ continues to be staged regularly, with such actors performing the lead role as Simon Russell Beale, Ben Whishaw, David Tennant, Tom Hiddleston, Angela Winkler, Samuel West, Christopher Eccleston, Maxine Peake, Rory Kinnear, Oscar Isaac, Michael Sheen, Christian Camargo, Andrew Scott, Paapa Essiedu and Michael Urie.
+in August 2015.]] _Hamlet_ continues to be staged regularly, with such actors performing the lead role as Simon Russell Beale, Ben Whishaw, David Tennant, Tom Hiddleston, Angela Winkler, Samuel West, Christopher Eccleston, Maxine Peake, Rory Kinnear, Oscar Isaac, Michael Sheen, Christian Camargo, Andrew Scott, Paapa Essiedu and Michael Urie.
 
 In May 2009, _Hamlet_ opened with Jude Law in the title role at the Donmar Warehouse West End season at Wyndham's Theatre. The production officially opened on 3 June and ran through 22 August 2009. A further production of the play ran at Elsinore Castle in Denmark from 25–30 August 2009. The Jude Law _Hamlet_ then moved to Broadway, and ran for 12 weeks at the Broadhurst Theatre in New York.
 
@@ -306,7 +306,7 @@ In 1953, actor Jack Manning performed the play in 15-minute segments over two we
 
 The 1964 Soviet film _Hamlet_ () is based on a translation by Boris Pasternak and directed by Grigori Kozintsev, with a score by Dmitri Shostakovich. Innokenty Smoktunovsky was cast in the role of Hamlet.
 
-John Gielgud directed Richard Burton in a Broadway production at the Lunt-Fontanne Theatre in 1964–5, the longest-running _Hamlet_ in the U.S. to date. A live film of the production was produced using "Electronovision", a method of recording a live performance with multiple video cameras and converting the image to film. Eileen Herlie repeated her role from Olivier's film version as the Queen, and the voice of Gielgud was heard as the ghost. The Gielgud/Burton production was also recorded complete and released on LP by Columbia Masterworks. Bernhardt_Hamlet2.jpg as Hamlet, with Yorick's skull (photographer: James Lafayette, c. 1885–1900).]] The first _Hamlet_ in color was a 1969 film directed by Tony Richardson with Nicol Williamson as Hamlet and Marianne Faithfull as Ophelia.
+John Gielgud directed Richard Burton in a Broadway production at the Lunt-Fontanne Theatre in 1964–5, the longest-running _Hamlet_ in the U.S. to date. A live film of the production was produced using "Electronovision", a method of recording a live performance with multiple video cameras and converting the image to film. Eileen Herlie repeated her role from Olivier's film version as the Queen, and the voice of Gielgud was heard as the ghost. The Gielgud/Burton production was also recorded complete and released on LP by Columbia Masterworks. as Hamlet, with Yorick's skull (photographer: James Lafayette, c. 1885–1900).]] The first _Hamlet_ in color was a 1969 film directed by Tony Richardson with Nicol Williamson as Hamlet and Marianne Faithfull as Ophelia.
 
 In 1990 Franco Zeffirelli, whose Shakespeare films have been described as "sensual rather than cerebral", cast Mel Gibson—then famous for the _Mad Max_ and _Lethal Weapon_ movies—in the title role of his 1990 version; Glenn Close—then famous as the psychotic "other woman" in _Fatal Attraction_—played Gertrude, and Paul Scofield played Hamlet's father.
 

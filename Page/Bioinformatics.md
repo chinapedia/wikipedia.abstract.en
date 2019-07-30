@@ -1,4 +1,4 @@
-Genome_viewer_screenshot_small.png website).]] BIOINFORMATICS is an interdisciplinary field that develops methods and software tools for understanding biological data. As an interdisciplinary field of science, bioinformatics combines biology, computer science, information engineering, mathematics and statistics to analyze and interpret biological data. Bioinformatics has been used for _in silico_ analyses of biological queries using mathematical and statistical techniques.
+website).]] BIOINFORMATICS is an interdisciplinary field that develops methods and software tools for understanding biological data. As an interdisciplinary field of science, bioinformatics combines biology, computer science, information engineering, mathematics and statistics to analyze and interpret biological data. Bioinformatics has been used for _in silico_ analyses of biological queries using mathematical and statistical techniques.
 
 Bioinformatics is both an umbrella term for the body of biological studies that use computer programming as part of their methodology, as well as a reference to specific analysis "pipelines" that are repeatedly used, particularly in the field of genomics. Common uses of bioinformatics include the identification of candidates genes and single nucleotide polymorphisms (SNPs). Often, such identification is made with the aim of better understanding the genetic basis of disease, unique adaptations, desirable properties (esp. in agricultural species), or differences between populations. In a less formal way, bioinformatics also tries to understand the organisational principles within nucleic acid and protein sequences, called proteomics.[1]
 
@@ -12,8 +12,6 @@ History
 Historically, the term _bioinformatics_ did not mean what it means today. Paulien Hogeweg and Ben Hesper coined it in 1970 to refer to the study of information processes in biotic systems.[10][11][12] This definition placed bioinformatics as a field parallel to biochemistry (the study of chemical processes in biological systems).[13]
 
 Sequences
-
-Image_DNA_sequence_-_png.png
 
 Computers became essential in molecular biology when protein sequences became available after Frederick Sanger determined the sequence of insulin in the early 1950s. Comparing multiple sequences manually turned out to be impractical. A pioneer in the field was Margaret Oakley Dayhoff.[14] She compiled one of the first protein sequence databases, initially published as books[15] and pioneered methods of sequence alignment and molecular evolution.[16] Another early contributor to bioinformatics was Elvin A. Kabat, who pioneered biological sequence analysis in 1970 with his comprehensive volumes of antibody sequences released with Tai Te Wu between 1980 and 1991.[17]
 
@@ -41,7 +39,7 @@ Analyzing biological data to produce meaningful information involves writing and
 
 Sequence analysis
 
-WPP_domain_alignment.PNGs.]]
+s.]]
 
 Since the Phage Φ-X174 was sequenced in 1977,[19] the DNA sequences of thousands of organisms have been decoded and stored in databases. This sequence information is analyzed to determine genes that encode proteins, RNA genes, regulatory sequences, structural motifs, and repetitive sequences. A comparison of genes within a species or between different species can show similarities between protein functions, or relations between species (the use of molecular systematics to construct phylogenetic trees). With the growing amount of data, it long ago became impractical to analyze DNA sequences manually. Today, computer programs such as BLAST are used daily to search sequences from more than 260 000 organisms, containing over 190 billion nucleotides.[20] These programs can compensate for mutations (exchanged, deleted or inserted bases) in the DNA sequence, to identify sequences that are related, but not identical. A variant of this sequence alignment is used in the sequencing process itself. For the special task of taxonomic classification of sequence snippets, modern k-mer based software like Kraken achieves throughput unreachable by alignment methods.
 
@@ -137,8 +135,6 @@ Data from high-throughput chromosome conformation capture experiments, such as H
 
 Structural bioinformatics
 
-1kqf_opm.png
-
 Protein structure prediction is another important application of bioinformatics. The amino acid sequence of a protein, the so-called primary structure, can be easily determined from the sequence on the gene that codes for it. In the vast majority of cases, this primary structure uniquely determines a structure in its native environment. (Of course, there are exceptions, such as the bovine spongiform encephalopathy – a.k.a. Mad Cow Disease – prion.) Knowledge of this structure is vital in understanding the function of the protein. Structural information is usually classified as one of _secondary_, _tertiary_ and _quaternary_ structure. A viable general solution to such predictions remains an open problem. Most efforts have so far been directed towards heuristics that work most of the time.
 
 One of the key ideas in bioinformatics is the notion of homology. In the genomic branch of bioinformatics, homology is used to predict the function of a gene: if the sequence of gene _A_, whose function is known, is homologous to the sequence of gene _B,_ whose function is unknown, one could infer that B may share A's function. In the structural branch of bioinformatics, homology is used to determine which parts of a protein are important in structure formation and interaction with other proteins. In a technique called homology modeling, this information is used to predict the structure of a protein once the structure of a homologous protein is known. This currently remains the only way to predict protein structures reliably.
@@ -158,7 +154,7 @@ _Systems biology_ involves the use of computer simulations of cellular subsystem
 
 Molecular interaction networks
 
-The_protein_interaction_network_of_Treponema_pallidum.png'', the causative agent of syphilis and other diseases.]]
+'', the causative agent of syphilis and other diseases.]]
 
 Tens of thousands of three-dimensional protein structures have been determined by X-ray crystallography and protein nuclear magnetic resonance spectroscopy (protein NMR) and a central question in structural bioinformatics is whether it is practical to predict possible protein–protein interactions only based on these 3D shapes, without performing protein–protein interaction experiments. A variety of methods have been developed to tackle the protein–protein docking problem, though it seems that there is still much work to be done in this field.
 

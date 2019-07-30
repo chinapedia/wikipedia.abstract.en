@@ -26,7 +26,7 @@ Some time late in 2000, Haznawi traveled to the United Arab Emirates, where he p
 
 2001
 
-Alhaznawi_video_aljazeera.jpg video, pledging to give his life to martyrdom.]] He was one of four hijackers believed to be staying at a Kandahar guest house in March 2001, where they were seen by Mohammed Jabarah. Jabarah remembered Haznawi specifically, saying that he was "very devout and could recite the entire Koran from memory."[5]
+video, pledging to give his life to martyrdom.]] He was one of four hijackers believed to be staying at a Kandahar guest house in March 2001, where they were seen by Mohammed Jabarah. Jabarah remembered Haznawi specifically, saying that he was "very devout and could recite the entire Koran from memory."[5]
 
 On June 8, he arrived in Miami, Florida, with fellow hijacker Wail al-Shehri. He was one of 9 hijackers to open a SunTrust bank account with a cash deposit around June 2001. He is believed to have moved in with Ziad Jarrah, who got a new apartment on Bougainvilla Dr. in Lauderdale-by-the-Sea, after both men gave the landlord photocopies of their German passports, which he later turned over to the FBI.[6]
 

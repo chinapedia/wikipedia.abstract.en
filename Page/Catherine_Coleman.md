@@ -13,9 +13,9 @@ After completing her regular education, Coleman joined the U.S. Air Force as a S
 
 NASA career
 
-Catherine_(Cady)_Coleman,_Expedition_26_flight_engineer.jpg Coleman was selected by NASA in 1992 to join the NASA Astronaut Corps. In 1995, she was a member of the STS-73 crew on the scientific mission USML-2 with experiments including biotechnology, combustion science, and the physics of fluids. During the flight, she reported to Houston Mission Control that she had spotted an unidentified flying object. She also trained for the mission STS-83 to be the backup for Donald A. Thomas; however, as he recovered on time, she did not fly that mission. STS-93 was Coleman's second space flight in 1999. She was mission specialist in charge of deploying the Chandra X-ray Observatory and its Inertial Upper Stage out of the shuttle's cargo bay.[11]
+Coleman was selected by NASA in 1992 to join the NASA Astronaut Corps. In 1995, she was a member of the STS-73 crew on the scientific mission USML-2 with experiments including biotechnology, combustion science, and the physics of fluids. During the flight, she reported to Houston Mission Control that she had spotted an unidentified flying object. She also trained for the mission STS-83 to be the backup for Donald A. Thomas; however, as he recovered on time, she did not fly that mission. STS-93 was Coleman's second space flight in 1999. She was mission specialist in charge of deploying the Chandra X-ray Observatory and its Inertial Upper Stage out of the shuttle's cargo bay.[11]
 
-Valentina_Tereshkova_and_Catherine_Coleman.jpg at the Gagarin Cosmonaut Training Center in December 2010.]]
+at the Gagarin Cosmonaut Training Center in December 2010.]]
 
 Coleman served as Chief of Robotics for the Astronaut Office, to include robotic arm operations and training for all Space Shuttle and International Space Station missions.[12] In October 2004, Coleman served as an aquanaut during the NEEMO 7 mission aboard the Aquarius underwater laboratory, living and working underwater for eleven days.[13][14]
 
@@ -26,8 +26,6 @@ Coleman launched on December 15, 2010 (December 16 Baikonur time), aboard Soyuz 
 Spaceflight experience
 
 STS-73 on Space Shuttle _Columbia_ (October 20 to November 5, 1995) was the second United States Microgravity Laboratory mission. The mission focused on materials science, biotechnology, combustion science, the physics of fluids, and numerous scientific experiments housed in the pressurized Spacelab module. In completing her first space flight, Coleman orbited the Earth 256 times, traveled over 6 million miles, and logged a total of 15 days, 21 hours, 52 minutes and 21 seconds in space.
-
-ISS27_Catherine_Coleman_plays_a_flute.jpg
 
 STS-93 on _Columbia_ (July 22 to 27, 1999) was a five-day mission during which Coleman was the lead mission specialist for the deployment of the Chandra X-ray Observatory. Designed to conduct comprehensive studies of the universe, the telescope will enable scientists to study exotic phenomena such as exploding stars, quasars, and black holes. Mission duration was 118 hours and 50 minutes.
 

@@ -30,8 +30,6 @@ Her father then sets out with Laura, in a carriage, for the ruined village of Ka
 
 At a costume ball, Spielsdorf and his niece Bertha had met a very beautiful young woman named Millarca and her enigmatic mother. Bertha was immediately taken with Millarca. The mother convinced the General that she was an old friend of his and asked that Millarca be allowed to stay with them for three weeks while she attended to a secret matter of great importance.
 
-Fitzgerald,_funeral_from_Carmilla.jpg
-
 Bertha fell mysteriously ill, suffering the same symptoms as Laura. After consulting with a specially-ordered priestly doctor, the General realized that Bertha was being visited by a vampire. He hid with a sword and waited until a large black creature of undefined shape crawled onto his niece's bed and spread itself onto her throat. He leapt from his hiding place and attacked the creature, which had then taken the form of Millarca. She fled through the locked door, unharmed. Bertha died before the morning dawned.
 
 Upon arriving at Karnstein, the General asks a woodman where he can find the tomb of Mircalla Karnstein. The woodman says the tomb was relocated long ago by the hero, a Moravian nobleman, who vanquished the vampires that haunted the region.
@@ -45,7 +43,7 @@ Afterward, Laura's father takes his daughter on a year-long tour through Italy t
 
 Sources
 
-Dom_Augustin_Calmet.jpeg.
+.
 
 ]] As with _Dracula_, critics have looked for the sources used in the writing of _Carmilla_. One source used was from a dissertation on magic, vampires and the apparitions of spirits written by Dom Augustin Calmet entitled _Traité sur les apparitions des esprits et sur les vampires ou les revenants de Hongrie, de Moravie, &c._ (1751). This is evidenced by a report analyzed by Calmet, from a priest who learned information of a town being tormented by a vampiric entity three years earlier. Having traveled to the town to investigate and collecting information of the various inhabitants there, the priest learned that a vampire had tormented many of the inhabitants at night by coming from the nearby cemetery and would haunt many of the residents on their beds. An unknown Hungarian traveler came to the town during this period and helped the town by setting a trap at the cemetery and decapitating the vampire that resided there, curing the town of their torment. This story was retold by LeFanu and adapted into the thirteenth chapter of Carmilla [9][10][11][12]
 

@@ -1,5 +1,3 @@
-Greenhouse-effect-t2.svg
-
 The GREENHOUSE EFFECT is the process by which radiation from a planet's atmosphere warms the planet's surface to a temperature above what it would be without this atmosphere.[1][2]
 
 Radiatively active gases (i.e., greenhouse gases) in a planet's atmosphere radiate energy in all directions. Part of this radiation is directed towards the surface, warming it. [3] The intensity of the downward radiation – that is, the strength of the greenhouse effect – will depend on the atmosphere's temperature and on the amount of greenhouse gases that the atmosphere contains.
@@ -18,7 +16,7 @@ The existence of the greenhouse effect was argued for by Joseph Fourier in 1824.
 
 Description
 
-Solar_Spectrum.png spectrum for direct light at both the top of Earth's atmosphere and at sea level]] Earth receives energy from the Sun in the form of ultraviolet, visible, and near-infrared radiation. About 26% of the incoming solar energy is reflected to space by the atmosphere and clouds, and 19% is absorbed by the atmosphere and clouds. Most of the remaining energy is absorbed at the surface of Earth. Because the Earth's surface is colder than the Sun, it radiates at wavelengths that are much longer than the wavelengths that were absorbed. Most of this thermal radiation is absorbed by the atmosphere and warms it. The atmosphere also gains heat by sensible and latent heat fluxes from the surface. The atmosphere radiates energy both upwards and downwards; the part radiated downwards is absorbed by the surface of Earth. This leads to a higher equilibrium temperature than if the atmosphere did not radiate.
+spectrum for direct light at both the top of Earth's atmosphere and at sea level]] Earth receives energy from the Sun in the form of ultraviolet, visible, and near-infrared radiation. About 26% of the incoming solar energy is reflected to space by the atmosphere and clouds, and 19% is absorbed by the atmosphere and clouds. Most of the remaining energy is absorbed at the surface of Earth. Because the Earth's surface is colder than the Sun, it radiates at wavelengths that are much longer than the wavelengths that were absorbed. Most of this thermal radiation is absorbed by the atmosphere and warms it. The atmosphere also gains heat by sensible and latent heat fluxes from the surface. The atmosphere radiates energy both upwards and downwards; the part radiated downwards is absorbed by the surface of Earth. This leads to a higher equilibrium temperature than if the atmosphere did not radiate.
 
 An ideal thermally conductive blackbody at the same distance from the Sun as Earth would have a temperature of about . However, because Earth reflects about 30%[17][18] of the incoming sunlight, this idealized planet's effective temperature (the temperature of a blackbody that would emit the same amount of radiation) would be about .[19][20] The surface temperature of this hypothetical planet is below Earth's actual surface temperature of approximately .[21] The greenhouse effect is the contribution of greenhouse gases to this difference.
 
@@ -34,7 +32,7 @@ Greenhouse gases—including most diatomic gases with two different atoms (such 
 
 Greenhouse gases
 
-By their percentage contribution to the greenhouse effect on Earth the four major gases are:[25][26] CO2_H2O_absorption_atmospheric_gases_unique_pattern_energy_wavelengths_of_energy_transparent_to_others.png
+By their percentage contribution to the greenhouse effect on Earth the four major gases are:[25][26]
 
 -   water vapor, 36–70%
 -   carbon dioxide, 9–26%
@@ -46,7 +44,7 @@ It is not possible to assign a specific percentage to each gas because the absor
 
 Role in climate change
 
-Mauna_Loa_CO2_monthly_mean_concentration.svg of atmospheric CO₂ concentrations measured at Mauna Loa Observatory.]]
+of atmospheric CO₂ concentrations measured at Mauna Loa Observatory.]]
 
 Strengthening of the greenhouse effect through human activities is known as the enhanced (or anthropogenic) greenhouse effect.[28] This increase in radiative forcing from human activity is attributable mainly to increased atmospheric carbon dioxide levels.[29] According to the latest Assessment Report from the Intergovernmental Panel on Climate Change, "_atmospheric concentrations of carbon dioxide, methane and nitrous oxide are unprecedented in at least the last 800,000 years. Their effects, together with those of other anthropogenic drivers, have been detected throughout the climate system and are extremely likely to have been the dominant cause of the observed warming since the mid-20th century_".[30]
 
@@ -57,7 +55,7 @@ Over the past 800,000 years,[35] ice core data shows that carbon dioxide has var
 
 Real greenhouses
 
-RHSGlasshouse.JPG in RHS Wisley]]
+in RHS Wisley]]
 
 The "greenhouse effect" of the atmosphere is named by analogy to greenhouses which become warmer in sunlight. However, a greenhouse is not primarily warmed by the "greenhouse effect".[39] "Greenhouse effect" is actually a misnomer since heating in the usual greenhouse is due to the reduction of convection,[40] while the "greenhouse effect" works by preventing absorbed heat from leaving the structure through radiative transfer.
 

@@ -1,4 +1,4 @@
-Sauce_Spagnole-09.JPG ESPAGNOLE SAUCE () is a basic brown sauce, and is one of Auguste Escoffier's five mother sauces of classic French cooking. This sauce was already compiled in different Spanish cooking handbooks of the late 19th century,[1] and Escoffier popularized the recipe, which is still followed today.[2]
+ESPAGNOLE SAUCE () is a basic brown sauce, and is one of Auguste Escoffier's five mother sauces of classic French cooking. This sauce was already compiled in different Spanish cooking handbooks of the late 19th century,[1] and Escoffier popularized the recipe, which is still followed today.[2]
 
 Espagnole has a strong taste, and is rarely used directly on food. As a mother sauce, it serves as the starting point for many derivatives, such as sauce africaine, sauce bigarade, sauce bourguignonne, sauce aux champignons, sauce charcutière, sauce chasseur, sauce chevreuil, and demi-glace. Hundreds of other derivatives are in the classical French repertoire.
 

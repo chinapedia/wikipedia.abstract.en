@@ -5,7 +5,7 @@ The common ancestor of all of the languages in this family is called Proto-Indo-
 
 Languages
 
-Indo-Iranian_languages.png Lenguas_indoiranias.PNG The Indo-Iranian languages consist of three groups:
+The Indo-Iranian languages consist of three groups:
 
 -   Indo-Aryan languages
 -   Iranian/Iranic

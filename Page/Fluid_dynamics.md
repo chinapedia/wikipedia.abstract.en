@@ -1,4 +1,4 @@
-Teardrop_shape.svg teardrop shape, assuming a viscous medium passing from left to right, the diagram shows the pressure distribution as the thickness of the black line and shows the velocity in the boundary layer as the violet triangles. The green vortex generators prompt the transition to turbulent flow and prevent back-flow also called flow separation from the high-pressure region in the back. The surface in front is as smooth as possible or even employs shark-like skin, as any turbulence here increases the energy of the airflow. The truncation on the right, known as a Kammback, also prevents backflow from the high-pressure region in the back across the spoilers to the convergent part.]]
+teardrop shape, assuming a viscous medium passing from left to right, the diagram shows the pressure distribution as the thickness of the black line and shows the velocity in the boundary layer as the violet triangles. The green vortex generators prompt the transition to turbulent flow and prevent back-flow also called flow separation from the high-pressure region in the back. The surface in front is as smooth as possible or even employs shark-like skin, as any turbulence here increases the energy of the airflow. The truncation on the right, known as a Kammback, also prevents backflow from the high-pressure region in the back across the spoilers to the convergent part.]]
 
 In physics and engineering, FLUID DYNAMICS is a subdiscipline of fluid mechanics that describes the flow of fluids—liquids and gases. It has several subdisciplines, including aerodynamics (the study of air and other gases in motion) and HYDRODYNAMICS (the study of liquids in motion). Fluid dynamics has a wide range of applications, including calculating forces and moments on aircraft, determining the mass flow rate of petroleum through pipelines, predicting weather patterns, understanding nebulae in interstellar space and modelling fission weapon detonation,
 
@@ -65,7 +65,7 @@ For flow of gases, to determine whether to use compressible or incompressible fl
 
 Newtonian vs non-Newtonian fluids
 
-Flow_around_a_wing.gif]]
+]]
 
 All fluids are viscous, meaning that they exert some resistance to deformation: neighbouring parcels of fluid moving at different velocities exert viscous forces on each other. The velocity gradient is referred to as a strain rate; it has dimensions T^( − 1). Isaac Newton showed that for many familiar fluids such as water and air, the stress due to these viscous forces is linearly related to the strain rate. Such fluids are called Newtonian fluids. The coefficient of proportionality is called the fluid's viscosity; for Newtonian fluids, it is a fluid property that is independent of the strain rate.
 
@@ -85,7 +85,7 @@ A commonly used model, especially in computational fluid dynamics, is to use two
 
  Steady vs unsteady flow
 
-HD-Rayleigh-Taylor.gif [5] ]] A flow that is not a function of time is called STEADY FLOW. Steady-state flow refers to the condition where the fluid properties at a point in the system do not change over time. Time dependent flow is known as unsteady (also called transient[6]). Whether a particular flow is steady or unsteady, can depend on the chosen frame of reference. For instance, laminar flow over a sphere is steady in the frame of reference that is stationary with respect to the sphere. In a frame of reference that is stationary with respect to a background flow, the flow is unsteady.
+[5] ]] A flow that is not a function of time is called STEADY FLOW. Steady-state flow refers to the condition where the fluid properties at a point in the system do not change over time. Time dependent flow is known as unsteady (also called transient[6]). Whether a particular flow is steady or unsteady, can depend on the chosen frame of reference. For instance, laminar flow over a sphere is steady in the frame of reference that is stationary with respect to the sphere. In a frame of reference that is stationary with respect to a background flow, the flow is unsteady.
 
 Turbulent flows are unsteady by definition. A turbulent flow can, however, be statistically stationary. According to Pope:[7] This roughly means that all statistical properties are constant in time. Often, the mean field is the object of interest, and this is constant too in a statistically stationary flow.
 

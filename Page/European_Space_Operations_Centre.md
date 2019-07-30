@@ -1,4 +1,4 @@
-Signal_received_from_Rosetta_(12055070794).jpg (January 2014), the first comet landing mission]]
+(January 2014), the first comet landing mission]]
 
 The EUROPEAN SPACE OPERATIONS CENTRE (ESOC) serves as the main mission control centre for the European Space Agency (ESA) and is located in Darmstadt, Germany. ESOC's primary function is the operation of unmanned spacecraft on behalf of ESA and the launch and early orbit phases (LEOP) of ESA and third-party missions.[1] The Centre is also responsible for a range of operations-related activities within ESA and in cooperation with ESA's industry and international partners, including ground systems engineering, software development, flight dynamics and navigation, development of mission control tools and techniques and space debris studies.[2]
 
@@ -56,8 +56,6 @@ ESOC hosts the control centre for the Agency's European Tracking ESTRACK station
 
 Activities
 
-European_Space_Operations_Centre,_Darmstadt-space_telescope.jpg
-
 In addition to 'pure' mission operations, a number of other activities take place at the Centre, most of which are directly related to ESA's broader space operations activities.
 
 -   Flight dynamics: A team is responsible for all orbital calculations and orbit determinations.[7]
@@ -81,8 +79,6 @@ By July 2012, ESOC had operated over 56 missions[19] spanning science, Earth obs
 
 
 Location and expansion
-
-European_Space_Operations_Centre.jpg
 
 ESOC is located on the west side of the city of Darmstadt,[20] some from the main train station, at Robert-Bosch-Straße 5. In 2011, ESA announced the first phase of the ESOC II modernisation and expansion project valued at €60 million.[21] The new construction will be located across Robert-Bosch-Straße, opposite the current centre.
 

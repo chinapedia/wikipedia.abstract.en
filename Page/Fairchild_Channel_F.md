@@ -7,7 +7,7 @@ The Channel F electronics were designed by Jerry Lawson using the Fairchild F8 C
 
 Lawson worked with Nick Talesfore and Ron Smith. As manager of Industrial Design, Talesfore was responsible for the design of the hand controllers, console, and video game cartridges. Smith was responsible for the mechanical engineering of the video cartridges and controllers. All worked for Wilf Corigan, head of Fairchild Semiconductor, a division of Fairchild Camera & Instrument.
 
-Fairchild_Channel_F_test_picture.png of the Channel F]] The graphics are quite basic by modern standards. The Channel F is only able to use one plane of graphics and one of four background colors per line, only three plot colors to choose from (red, green, and blue) that turned into white if the background is set to black, at a resolution of 128 × 64, with approximately 102 × 58 pixels visible and help from only 64 bytes of system RAM, half the amount of the Atari 2600.[4][5] The F8 processor at the heart of the console is able to produce enough AI to allow for player versus computer matches, a first in console history. All previous machines required a human opponent. Tic-Tac-Toe on Videocart 1 had this feature, it was only for one player against the machine.
+of the Channel F]] The graphics are quite basic by modern standards. The Channel F is only able to use one plane of graphics and one of four background colors per line, only three plot colors to choose from (red, green, and blue) that turned into white if the background is set to black, at a resolution of 128 × 64, with approximately 102 × 58 pixels visible and help from only 64 bytes of system RAM, half the amount of the Atari 2600.[4][5] The F8 processor at the heart of the console is able to produce enough AI to allow for player versus computer matches, a first in console history. All previous machines required a human opponent. Tic-Tac-Toe on Videocart 1 had this feature, it was only for one player against the machine.
 
 One feature unique to this console is the 'hold' button, which allow the player to freeze the game, change the time or change the speed of the game.[6] The functions printed on the console is how they work in the built-in games and also some of the original games, all buttons (except reset) are controlled by the programming and can be used for anything the programmer decides. The hold function is not universal (like the hardwired reset). In the original unit, sound is played through an internal speaker, rather than the TV set. However, the System II passed sound to the television through the RF modulator.
 
@@ -87,7 +87,7 @@ In 1983, after Zircon announced its discontinuation of the Channel F, _Video Gam
 
 Technical specifications
 
-Grandstand-video-entertainment-computer-pcb.jpg Original Channel F technical specifications:
+Original Channel F technical specifications:
 
 -   CPU microprocessor: Fairchild F8 (8-bit)[16] operating at 1.7897725 MHz (NTSC) (PAL gen. 1: 2.0000 MHz, PAL gen. 2: 1.7734475 MHz)
 -   RAM: 2 KB (128 × 64 × 2 bits)[17] for the framebuffer plus the 64 bytes of scratchpad memory

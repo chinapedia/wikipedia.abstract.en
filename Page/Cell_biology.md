@@ -13,7 +13,7 @@ There are two fundamental classifications of cells: prokaryotes and eukaryotes. 
 
 Internal cellular structures
 
-Illu_cell_structure.jpg components of a cell]]
+components of a cell]]
 
 Chemical and molecular environment
 
@@ -67,7 +67,7 @@ Notable cell biologists
 -   George Emil Palade
 -   Keith R. Porter
 
--   Jan Evangelista Purkyně Jan_Evangelista_Purkyne_2.jpg anatomist Jan Evangelista Purkyně is best known for his 1837 discovery of Purkinje cells.]]
+-   Jan Evangelista Purkyně anatomist Jan Evangelista Purkyně is best known for his 1837 discovery of Purkinje cells.]]
 -   Ray Rappaport
 -   Michael Swann
 -   Roger Tsien

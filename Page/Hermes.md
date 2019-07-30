@@ -20,7 +20,7 @@ Mythology
 
 Early Greek sources
 
-Hermes_Maia_Staatliche_Antikensammlungen_2304.jpg Hermes_crioforo.jpg, Rome]]
+, Rome]]
 
 Homer and Hesiod
 
@@ -51,7 +51,7 @@ Hermes' lovers
 
 Hellenistic Greek sources
 
-Cameo_Ptolemaic_prince_Bab111_CdM_Paris.jpg cameo of a Ptolemaic prince as Hermes, Cabinet des médailles, Paris]]
+cameo of a Ptolemaic prince as Hermes, Cabinet des médailles, Paris]]
 
 Several writers of the Hellenistic period expanded the list of Hermes's achievements. Callimachus said that Hermes disguised himself as a cyclops to scare the Oceanides and was disobedient to his mother.[38] One of the Orphic Hymns Khthonios is dedicated to Hermes, indicating that he was also a god of the underworld. Aeschylus had called him by this epithet several times.[39] Another is the Orphic Hymn to Hermes, where his association with the athletic games held is mystic in tone.[40]
 
@@ -62,7 +62,7 @@ Anyte of Tegea of the 3rd century BC,[44] in translation by Richard Aldington, w
 
 Epithets of Hermes
 
-Man_wearing_Petasos_Coinage_of_Kapsa_Macedon_circa_400_BCE.jpg hat. Coinage of Kapsa, Macedon, circa 400 BC.]]
+hat. Coinage of Kapsa, Macedon, circa 400 BC.]]
 
 Atlantiades
 
@@ -78,7 +78,7 @@ Hermes's epithet Argeiphontes (; ), meaning "Argus-slayer",[49][50] recalls his 
 
 Messenger and guide
 
-Euphronios_krater_side_A_MET_L.2006.10.jpg and Thanatos (Sleep and Death), while Hermes watches. Side A of the so-called "Euphronios krater", Attic red-figured calyx-krater signed by Euxitheos (potter) and Euphronios (painter), c. 515 BC.]] The chief office of the god was as messenger.[52] Explicitly, at least in sources of classical writings, of Euripides _Electra_ and _Iphigenia in Aulis_[53] and in Epictetus _Discourses_.[54] Hermes (_Diactoros_, _Angelos_)[55] the messenger,[56] is in fact only seen in this role, for Zeus, from within the pages of the _Odyssey_.[57] The messenger divine and herald of the Gods, he wears the gifts from his father, the Petasus and Talaria.[58]
+and Thanatos (Sleep and Death), while Hermes watches. Side A of the so-called "Euphronios krater", Attic red-figured calyx-krater signed by Euxitheos (potter) and Euphronios (painter), c. 515 BC.]] The chief office of the god was as messenger.[52] Explicitly, at least in sources of classical writings, of Euripides _Electra_ and _Iphigenia in Aulis_[53] and in Epictetus _Discourses_.[54] Hermes (_Diactoros_, _Angelos_)[55] the messenger,[56] is in fact only seen in this role, for Zeus, from within the pages of the _Odyssey_.[57] The messenger divine and herald of the Gods, he wears the gifts from his father, the Petasus and Talaria.[58]
 
 -   HODIOS, patron of travelers and wayfarers.[59]
 -   ONEIROPOMPUS, conductor of dreams.[60]
@@ -86,8 +86,6 @@ Euphronios_krater_side_A_MET_L.2006.10.jpg and Thanatos (Sleep and Death), while
 -   PSYCHOPOMPOS, conveyor or conductor of souls,[62][63] and _psychogogue_, conductor or leader of souls in (or through) the underworld.[64]
 
 Trade
-
-Hermes_Logios_Altemps_33.jpg
 
 -   _Agoraeus_, of the agora;[65] belonging to _the market_ (Aristophanes)[66]
 -   _Empolaios_, "engaged in traffic and commerce"[67]
@@ -139,7 +137,7 @@ Other epithets included:
 
 Worship and cult
 
-Statue_Hermes_Chiaramonti.jpg'', a voyager's cloak, the caduceus and a purse. Roman copy after a Greek original (Vatican Museums).]]
+'', a voyager's cloak, the caduceus and a purse. Roman copy after a Greek original (Vatican Museums).]]
 
 Prior to being known as Hermes, Frothingham thought the god to have existed as a snake-god.[112] Angelo (1997) thinks Hermes to be based on the Thoth archetype.[113] The absorbing ("combining") of the attributes of Hermes to Thoth developed after the time of Homer amongst Greek and Roman; Herodotus was the first to identify the Greek god with the Egyptian (Hermopolis), Plutarch and Diodorus also, although Plato thought the gods to be dis-similar (Friedlander 1992).[114][115]
 
@@ -163,8 +161,6 @@ Hermes's feast was the special Hermaea which was celebrated with sacrifices to t
 
 
 Hermai/Herms
-
-Byzantine_-_Circular_Pyxis_-_Walters_7164_-_View_C.jpg
 
 |url= http://art.thewalters.org/detail/28991
 |title= Circular Pyxis}} The Walters Art Museum.]]
@@ -219,7 +215,7 @@ Genealogy
 
 Art and iconography
 
-AGMA_Tête_d'Hermès.jpg Hermes-louvre3.jpg'', early Imperial Roman marble copy of a Lysippan bronze (Louvre Museum)]]
+'', early Imperial Roman marble copy of a Lysippan bronze (Louvre Museum)]]
 
 The image of Hermes evolved and varied according to Greek art and culture. During Archaic Greece he was usually depicted as a mature man, bearded, dressed as a traveler, herald, or pastor. During Classical and Hellenistic Greece he is usually depicted young and nude, with athleticism, as befits the god of speech and of the gymnastics, or a robe, a formula is set predominantly through the centuries. When represented as Logios (Greek: Λόγιος, speaker), his attitude is consistent with the attribute. Phidias left a statue of a famous Hermes Logios and Praxiteles another, also well known, showing him with the baby Dionysus in his arms. At all times, however, through the Hellenistic periods, Roman, and throughout Western history into the present day, several of his characteristic objects are present as identification, but not always all together.[152][153]
 
@@ -241,7 +237,7 @@ According to Acts 14, when Paul the Apostle visited the city of Lystra, the peop
 
 Modern interpretation
 
-Hermes-Figur_an_der_Alten_Post_(Flensburg).jpg on the Old-Mail-Office-Building in Flensburg]]
+on the Old-Mail-Office-Building in Flensburg]]
 
 Psychology
 

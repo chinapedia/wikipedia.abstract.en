@@ -3,7 +3,7 @@ This article is about the demographic features of the population of Denmark, inc
 
 National demographics
 
-Population_of_Denmark_1.January_2012_by_ancestry..gif Since 1980, the number of Danes has remained constant at around 5 million in Denmark and nearly all the population growth from 5.1 up to the 2018 total of 5.8 million was due to immigration.[1]
+Since 1980, the number of Danes has remained constant at around 5 million in Denmark and nearly all the population growth from 5.1 up to the 2018 total of 5.8 million was due to immigration.[1]
 
 According to 2017 figures from Statistics Denmark, 86.9%[2][3] of Denmark’s population of over 5,760,694 was of Danish descent, defined as having at least one parent who was born in Denmark and has Danish citizenship.[4][5] The remaining 13.1% were of a foreign background, defined as immigrants or descendants of recent immigrants. With the same definition, the most common countries of origin were Poland, Turkey, Germany, Iraq, Romania, Syria, Somalia, Iran, Afghanistan, and Yugoslavia and its successor states. More than 752 618 individuals (13.1%)[6][7] are migrants and their descendants (146 798 second generation migrants born in Denmark[8]).
 
@@ -298,7 +298,7 @@ For historical reasons, there is a formal distinction between 'approved' (_godke
 
 Demographic statistics
 
-Population_of_Denmark_1769-2006.jpg COB_data_Denmark.PNG Denmark_population_2008-1_to_2013-1.svg crosses ordinate at population=2,225,000.]]
+crosses ordinate at population=2,225,000.]]
 
 Population
 
@@ -356,8 +356,6 @@ Population:
 
 Age structure:
 
-Denmarkpop.svg
-
     _0-14 years:_ 16.57% (male 493,829 /female 468,548)
     _15-24 years:_ 12.67% (male 377,094 /female 358,807)
     _25-54 years:_ 39.03% (male 1,147,196 /female 1,119,967)
@@ -370,8 +368,6 @@ Median age:
     female: 42.9 years (2018 est.)
 
 Birth rate:
-
-BirthDeath_1950_DK.svg
 
     10.9 births/1,000 population (2018 est.) Country comparison to the world: 178th
 

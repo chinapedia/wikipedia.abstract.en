@@ -1,4 +1,4 @@
-hyperbola_E.svg The number is a mathematical constant that is the base of the natural logarithm: the unique number whose natural logarithm is equal to one. It is approximately equal to 2.71828,[1] and is the limit of as approaches infinity, an expression that arises in the study of compound interest. It can also be calculated as the sum of the infinite series[2]
+The number is a mathematical constant that is the base of the natural logarithm: the unique number whose natural logarithm is equal to one. It is approximately equal to 2.71828,[1] and is the limit of as approaches infinity, an expression that arises in the study of compound interest. It can also be calculated as the sum of the infinite series[2]
 
 $$e =  \sum\limits_{n = 0}^{\infty} \frac{1}{n!} = \frac{1}{1} + \frac{1}{1} + \frac{1}{1\cdot 2} + \frac{1}{1\cdot 2\cdot 3} + \cdots$$
 
@@ -15,8 +15,6 @@ Applications
 
 Compound interest
 
-Compound_Interest_with_Varying_Frequencies.svg
-
 Jacob Bernoulli discovered this constant in 1683 by studying a question about compound interest:[7]
 
 If the interest is credited twice in the year, the interest rate for each 6 months will be 50%, so the initial $1 is multiplied by 1.5 twice, yielding at the end of the year. Compounding quarterly yields , and compounding monthly yields If there are compounding intervals, the interest for each interval will be and the value at the end of the year will be $1.00×.
@@ -27,7 +25,7 @@ More generally, an account that starts at $1 and offers an annual interest rate 
 
 Bernoulli trials
 
-Bernoulli_trial_sequence.svg The number itself also has applications to probability theory, where it arises in a way not obviously related to exponential growth. Suppose that a gambler plays a slot machine that pays out with a probability of one in and plays it times. Then, for large (such as a million) the probability that the gambler will lose every bet is approximately . For it is already approximately 1/2.79.
+The number itself also has applications to probability theory, where it arises in a way not obviously related to exponential growth. Suppose that a gambler plays a slot machine that pays out with a probability of one in and plays it times. Then, for large (such as a million) the probability that the gambler will lose every bet is approximately . For it is already approximately 1/2.79.
 
 This is an example of a Bernoulli trial process. Each time the gambler plays the slots, there is a one in one million chance of winning. Playing one million times is modelled by the binomial distribution, which is closely related to the binomial theorem and Pascal's triangle. The probability of winning times out of a million trials is:
 
@@ -79,10 +77,6 @@ $$e = \lim_{n\to\infty} \frac{n}{\sqrt[n]{n!}} .$$
 
 In calculus
 
-Exp_derivative_at_0.svg
-
-Ln+e.svg
-
 The principal motivation for introducing the number , particularly in calculus, is to perform differential and integral calculus with exponential functions and logarithms.[11] A general exponential }} has a derivative, given by a limit:
 
 $$\begin{align}
@@ -117,7 +111,7 @@ There are thus two ways in which to select such special numbers . One way is to 
 
 Alternative characterizations
 
-Part38figure02.gif along the ]]
+along the ]]
 
 Other characterizations of are also possible: one is as the limit of a sequence, another is as the sum of an infinite series, and still others rely on integral calculus. So far, the following two (equivalent) properties have been introduced:
 
@@ -155,7 +149,7 @@ and therefore its own antiderivative as well:
 
 Inequalities
 
-Exponentials_vs_x+1.pdf The number is the unique real number such that
+The number is the unique real number such that
 
 $$\left(1 + \frac{1}{x}\right)^x < e < \left(1 + \frac{1}{x}\right)^{x+1}$$
 
@@ -169,7 +163,7 @@ for all real , with equality if and only if 0}}. Furthermore, is the unique base
 
 Exponential-like functions
 
-Xth_root_of_x.svg of $\sqrt[x]{x}$ .}}]]
+of $\sqrt[x]{x}$ .}}]]
 
 Steiner's problem asks to find the global maximum for the function
 

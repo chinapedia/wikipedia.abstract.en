@@ -12,7 +12,7 @@ Gabon's name originates from _gabão_, Portuguese for "cloak" (and, capitalized,
 
 History
 
-1670_Ogilby_Map_of_West_Africa_(_Gold_Coast,_Slave_Coast,_Ivory_Coast_)_-_Geographicus_-_Guinea-ogilby-1670.jpg in 1670]]
+in 1670]]
 
 The earliest inhabitants of the area were Pygmy peoples. They were largely replaced and absorbed by Bantu tribes as they migrated.
 
@@ -28,7 +28,7 @@ After M'ba's accession to power, the press was suppressed, political demonstrati
 
 After a few days of fighting, the coup ended and the opposition was imprisoned, despite widespread protests and riots. French soldiers still remain in the Camp de Gaulle on the outskirts of Gabon's capital to this day. When M'Ba died in 1967, Bongo replaced him as president.
 
-Gabon_campaign_'1e_Compagnie_de_Chars_de_Combat_de_la_France_Libre'.jpg resulted in the Free French Forces taking the colony of Gabon from Vichy French forces, 1940]] In March 1968, Bongo declared Gabon a one-party state by dissolving the BDG and establishing a new party—the Parti Democratique Gabonais (PDG). He invited all Gabonese, regardless of previous political affiliation, to participate. Bongo sought to forge a single national movement in support of the government's development policies, using the PDG as a tool to submerge the regional and tribal rivalries that had divided Gabonese politics in the past. Bongo was elected President in February 1975; in April 1975, the position of vice president was abolished and replaced by the position of prime minister, who had no right to automatic succession. Bongo was re-elected President in both December 1979 and November 1986 to 7-year terms.[3]
+resulted in the Free French Forces taking the colony of Gabon from Vichy French forces, 1940]] In March 1968, Bongo declared Gabon a one-party state by dissolving the BDG and establishing a new party—the Parti Democratique Gabonais (PDG). He invited all Gabonese, regardless of previous political affiliation, to participate. Bongo sought to forge a single national movement in support of the government's development policies, using the PDG as a tool to submerge the regional and tribal rivalries that had divided Gabonese politics in the past. Bongo was elected President in February 1975; in April 1975, the position of vice president was abolished and replaced by the position of prime minister, who had no right to automatic succession. Bongo was re-elected President in both December 1979 and November 1986 to 7-year terms.[3]
 
 In early 1990 economic discontent and a desire for political liberalization provoked violent demonstrations and strikes by students and workers. In response to grievances by workers, Bongo negotiated with them on a sector-by-sector basis, making significant wage concessions. In addition, he promised to open up the PDG and to organize a national political conference in March–April 1990 to discuss Gabon's future political system. The PDG and 74 political organizations attended the conference. Participants essentially divided into two loose coalitions, the ruling PDG and its allies, and the United Front of Opposition Associations and Parties, consisting of the breakaway Morena Fundamental and the Gabonese Progress Party.[4]
 
@@ -36,13 +36,13 @@ The April 1990 conference approved sweeping political reforms, including creatio
 
 Opposition to the PDG continued after the April 1990 conference, however, and in September 1990, two coup d'état attempts were uncovered and aborted. Despite anti-government demonstrations after the untimely death of an opposition leader, the first multiparty National Assembly elections in almost 30 years took place in September–October 1990, with the PDG garnering a large majority.[6]
 
-Omar_Bongo_with_George_Bush_May_26_2004-01.jpg welcomes President Omar Bongo to the Oval Office, May 2004]] Following President Omar Bongo's re-election in December 1993 with 51% of the vote, opposition candidates refused to validate the election results. Serious civil disturbances and violent repression led to an agreement between the government and opposition factions to work toward a political settlement. These talks led to the Paris Accords in November 1994, under which several opposition figures were included in a government of national unity. This arrangement soon broke down, however, and the 1996 and 1997 legislative and municipal elections provided the background for renewed partisan politics. The PDG won a landslide victory in the legislative election, but several major cities, including Libreville, elected opposition mayors during the 1997 local election.[7]
+welcomes President Omar Bongo to the Oval Office, May 2004]] Following President Omar Bongo's re-election in December 1993 with 51% of the vote, opposition candidates refused to validate the election results. Serious civil disturbances and violent repression led to an agreement between the government and opposition factions to work toward a political settlement. These talks led to the Paris Accords in November 1994, under which several opposition figures were included in a government of national unity. This arrangement soon broke down, however, and the 1996 and 1997 legislative and municipal elections provided the background for renewed partisan politics. The PDG won a landslide victory in the legislative election, but several major cities, including Libreville, elected opposition mayors during the 1997 local election.[7]
 
 Facing a divided opposition, President Omar Bongo coasted to easy re-election in December 1998, with large majorities of the vote. While Bongo's major opponents rejected the outcome as fraudulent, some international observers characterized the results as representative despite many perceived irregularities, and there were none of the civil disturbances that followed the 1993 election. Peaceful though flawed legislative elections held in 2001–2002, which were boycotted by a number of smaller opposition parties and were widely criticized for their administrative weaknesses, produced a National Assembly almost completely dominated by the PDG and allied independents. In November 2005 President Omar Bongo was elected for his sixth term. He won re-election easily, but opponents claim that the balloting process was marred by irregularities. There were some instances of violence following the announcement of his win, but Gabon generally remained peaceful.[8]
 
 National Assembly elections were held again in December 2006. Several seats contested because of voting irregularities were overturned by the Constitutional Court, but the subsequent run-off elections in early 2007 again yielded a PDG-controlled National Assembly.[9]
 
-Independence_Celebration_in_Gabon.JPG On June 8, 2009, President Omar Bongo died of cardiac arrest at a Spanish hospital in Barcelona, ushering in a new era in Gabonese politics. In accordance with the amended constitution, Rose Francine Rogombé, the President of the Senate, became Interim President on June 10, 2009. The first contested elections in Gabon's history that did not include Omar Bongo as a candidate were held on August 30, 2009 with 18 candidates for president. The lead-up to the elections saw some isolated protests, but no significant disturbances. Omar Bongo's son, ruling party leader Ali Bongo Ondimba, was formally declared the winner after a 3-week review by the Constitutional Court; his inauguration took place on October 16, 2009.[10]
+On June 8, 2009, President Omar Bongo died of cardiac arrest at a Spanish hospital in Barcelona, ushering in a new era in Gabonese politics. In accordance with the amended constitution, Rose Francine Rogombé, the President of the Senate, became Interim President on June 10, 2009. The first contested elections in Gabon's history that did not include Omar Bongo as a candidate were held on August 30, 2009 with 18 candidates for president. The lead-up to the elections saw some isolated protests, but no significant disturbances. Omar Bongo's son, ruling party leader Ali Bongo Ondimba, was formally declared the winner after a 3-week review by the Constitutional Court; his inauguration took place on October 16, 2009.[10]
 
 The court's review had been prompted by claims of fraud by the many opposition candidates, with the initial announcement of election results sparking unprecedented violent protests in Port-Gentil, the country's second-largest city and a long-time bastion of opposition to PDG rule. The citizens of Port-Gentil took to the streets, and numerous shops and residences were burned, including the French Consulate and a local prison. Officially, only four deaths occurred during the riots, but opposition and local leaders claim many more. Gendarmes and the military were deployed to Port-Gentil to support the beleaguered police, and a curfew was in effect for more than three months.[11]
 
@@ -53,7 +53,7 @@ In January 2019, there was an attempted coup d'état led by soldiers against the
 
 Government
 
-Ali_Bongo_Ondimba_with_Obamas_2014.jpg, President of the Gabonese Republic, his wife Sylvia Bongo Ondimba, US president Barack Obama and his wife Michelle Obama in 2014]]
+, President of the Gabonese Republic, his wife Sylvia Bongo Ondimba, US president Barack Obama and his wife Michelle Obama in 2014]]
 
 Gabon is a republic with a presidential form of government under the 1961 constitution (revised in 1975, rewritten in 1991, and revised in 2003). The president is elected by universal suffrage for a seven-year term; a 2003 constitutional amendment removed presidential term limits and facilitated a presidency for life. The president can appoint and dismiss the prime minister, the cabinet, and judges of the independent Supreme Court. The president also has other strong powers, such as authority to dissolve the National Assembly, declare a state of siege, delay legislation, and conduct referenda.[14]
 
@@ -83,7 +83,7 @@ Since independence, Gabon has followed a nonaligned policy, advocating dialogue 
 
 In December 1999, through the mediation efforts of President Bongo, a peace accord was signed in the Republic of the Congo (Brazzaville) between the government and most leaders of an armed rebellion. President Bongo was also involved in the continuing D.R.C. peace process, and played a role in mediating the crisis in Ivory Coast. Gabonese armed forces were also an integral part of the Central African Economic and Monetary Community (CEMAC) mission to the Central African Republic.
 
-US_Navy_080107-N-4044H-049_Capt._John_B._Nowell_Jr.,_commodore,_Africa_Partnership_Station_(APS)_is_greeted_by_Gabonese_Army_as_he_arrives_at_a_scheduled_meeting_with_General_Ntori_Longo,_chief_of_Gabonese_Armed_Services,_about.jpg Gabon is a member of the United Nations (UN) and some of its specialized and related agencies, as well as of the World Bank; the IMF; the African Union (AU); the Central African Customs Union/Central African Economic and Monetary Community (UDEAC/CEMAC); EU/ACP association under the Lome Convention; the Communaute Financiere Africaine (CFA); the Organization of the Islamic Conference (OIC); the Nonaligned Movement; and the Economic Community of Central African States (ECCAS/CEEAC), among others. In 1995, Gabon withdrew from the Organization of the Petroleum Exporting Countries (OPEC), rejoining in 2016. Gabon was elected to a non-permanent seat on the United Nations Security Council for January 2010 through December 2011 and held the rotating presidency in March 2010.[24]
+Gabon is a member of the United Nations (UN) and some of its specialized and related agencies, as well as of the World Bank; the IMF; the African Union (AU); the Central African Customs Union/Central African Economic and Monetary Community (UDEAC/CEMAC); EU/ACP association under the Lome Convention; the Communaute Financiere Africaine (CFA); the Organization of the Islamic Conference (OIC); the Nonaligned Movement; and the Economic Community of Central African States (ECCAS/CEEAC), among others. In 1995, Gabon withdrew from the Organization of the Petroleum Exporting Countries (OPEC), rejoining in 2016. Gabon was elected to a non-permanent seat on the United Nations Security Council for January 2010 through December 2011 and held the rotating presidency in March 2010.[24]
 
 Military
 
@@ -108,8 +108,6 @@ The provinces are (capitals in parentheses):
 
 Geography
 
-Koppen-Geiger_Map_GAB_present.svg Beach_scene_Libreville_5.JPG
-
 Gabon is located on the Atlantic coast of central Africa on the equator, between latitudes 3°N and 4°S, and longitudes 8° and 15°E. Gabon generally has an equatorial climate with an extensive system of rainforests covering 84.5% of the country.[27]
 
 There are three distinct regions: the coastal plains (ranging between from the ocean's shore), the mountains (the Cristal Mountains to the northeast of Libreville, the Chaillu Massif in the centre), and the savanna in the east. The coastal plains form a large section of the World Wildlife Fund's Atlantic Equatorial coastal forests ecoregion and contain patches of Central African mangroves especially on the Muni River estuary on the border with Equatorial Guinea.
@@ -124,8 +122,6 @@ Natural resources include petroleum, magnesium, iron, gold, uranium, and forests
 
 
 Economy
-
-Gabon_Export_Treemap.jpg
 
 Gabon's economy is dominated by oil. Oil revenues constitute roughly 46% of the government's budget, 43% of the gross domestic product (GDP), and 81% of exports. Oil production is currently declining rapidly from its high point of 370,000 barrels per day in 1997. Some estimates suggest that Gabonese oil will be expended by 2025. In spite of the decreasing oil revenues, planning is only now beginning for an after-oil scenario.[30] The Grondin Oil Field was discovered in water depths offshore, in 1971 and produces from the Batanga sandstones of Maastrichtian age forming an anticline salt structural trap which is about deep.[31]
 
@@ -166,7 +162,7 @@ Demographics
 |                     |
 +---------------------+
 
-Crowd_on_Beach_in_Gabon.JPG Gabon has a population of approximately {{#expr:/1e6 round 1}} million. Historical and environmental factors caused Gabon's population to decline between 1900 and 1940.[39] Gabon has one of the lowest population densities of any country in Africa,[40] and the fourth highest Human Development Index in Sub-Saharan Africa.[41]
+Gabon has a population of approximately {{#expr:/1e6 round 1}} million. Historical and environmental factors caused Gabon's population to decline between 1900 and 1940.[39] Gabon has one of the lowest population densities of any country in Africa,[40] and the fourth highest Human Development Index in Sub-Saharan Africa.[41]
 
 Ethnic groups
 
@@ -175,8 +171,6 @@ Almost all Gabonese are of Bantu origin. Gabon has at least forty ethnic groups 
 Ethnic boundaries are less sharply drawn in Gabon than elsewhere in Africa. Most ethnicities are spread throughout Gabon, leading to constant contact and interaction among the groups, and there is no ethnic tension. One important reason for this is that intermarriage is extremely common and every Gabonese person is connected by blood to many different tribes. Indeed, intermarriage is often required because among many tribes, marriage within the same tribe is prohibited because it is regarded as incest. This is because those tribes consist of the descendants of a specific ancestor, and therefore all members of the tribe are regarded as close kin to each other (identical to the clan system of Scotland or the Gotra system in the Hindu caste system). French, the language of its former colonial ruler, is a unifying force. The Democratic Party of Gabon (PDG)'s historical dominance also has served to unite various ethnicities and local interests into a larger whole.
 
 Population centres
-
-Front_de_mer.jpg Park_In_Gabon.JPG
 
   -----------------
   CITIES OF GABON
@@ -224,8 +218,6 @@ The government has used oil revenue for school construction, paying teachers' sa
 
 
 Culture
-
-TsogoMask.jpg
 
 A country with a primarily oral tradition up until the spread of literacy in the 21st century, Gabon is rich in folklore and mythology. "Raconteurs" are currently working to keep traditions alive such as the mvett among the Fangs and the ingwala among the Nzebis.
 

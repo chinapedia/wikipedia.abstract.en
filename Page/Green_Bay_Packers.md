@@ -11,7 +11,7 @@ History
 
 Founding
 
-CurlyLambeauNotreDame.jpgThe Green Bay Packers were founded on August 11, 1919[6] by former high-school football rivals Earl "Curly" Lambeau and George Whitney Calhoun.[7] Lambeau solicited funds for uniforms from his employer, the Indian Packing Company.[8] He was given $500 ($ today) for uniforms and equipment, on the condition that the team be named for its sponsor.[9] The Green Bay Packers have played in their original city longer than any other team in the NFL.
+The Green Bay Packers were founded on August 11, 1919[6] by former high-school football rivals Earl "Curly" Lambeau and George Whitney Calhoun.[7] Lambeau solicited funds for uniforms from his employer, the Indian Packing Company.[8] He was given $500 ($ today) for uniforms and equipment, on the condition that the team be named for its sponsor.[9] The Green Bay Packers have played in their original city longer than any other team in the NFL.
 
 On August 27, 1921, the Packers were granted a franchise in the new national pro football league that had been formed the previous year. Financial troubles plagued the team and the franchise was forfeited within the year before Lambeau found new financial backers and regained the franchise the next year. These backers, known as "The Hungry Five", formed the Green Bay Football Corporation.[10]
 
@@ -21,19 +21,19 @@ After a near-miss in 1927, Lambeau's squad claimed the Packers' first NFL title 
 
 1935–1945: The Don Hutson era
 
-Don_hutson_packers.jpg The arrival of end Don Hutson from Alabama in 1935 gave Lambeau and the Packers the most-feared and dynamic offensive weapon in the game. Credited with inventing pass patterns, Hutson would lead the league in receptions eight seasons and spur the Packers to NFL championships in 1936, 1939 and 1944. An iron man, Hutson played both ways, leading the league in interceptions as a safety in 1940. Hutson claimed 18 NFL records when he retired in 1945, many of which still stand.[15] In 1951, his number 14 was the first to be retired by the Packers, and he was inducted as a charter member of the Pro Football Hall of Fame in 1963.
+The arrival of end Don Hutson from Alabama in 1935 gave Lambeau and the Packers the most-feared and dynamic offensive weapon in the game. Credited with inventing pass patterns, Hutson would lead the league in receptions eight seasons and spur the Packers to NFL championships in 1936, 1939 and 1944. An iron man, Hutson played both ways, leading the league in interceptions as a safety in 1940. Hutson claimed 18 NFL records when he retired in 1945, many of which still stand.[15] In 1951, his number 14 was the first to be retired by the Packers, and he was inducted as a charter member of the Pro Football Hall of Fame in 1963.
 
 1946–1958: Wilderness
 
-After Hutson's retirement, Lambeau could not stop the Packers' slide. He purchased a large lodge near Green Bay for team members and families to live. Rockwood Lodge was the home of the 1946–49 Packers. The 1947 and 1948 seasons produced a record of 12–10–1, and 1949 was even worse at 3–9. The lodge burned down on January 24, 1950, and insurance money paid for many of the Packers' debts.[16] Tony_Canadeo_1950_Bowman.jpg Curly Lambeau departed after the 1949 season. Gene Ronzani and Lisle Blackbourn could not coach the Packers back to their former magic, even as a new stadium was unveiled in 1957. The losing would descend to the disastrous 1958 campaign under coach Ray "Scooter" McLean, whose lone 1–10–1 year at the helm is the worst in Packers history.[17]
+After Hutson's retirement, Lambeau could not stop the Packers' slide. He purchased a large lodge near Green Bay for team members and families to live. Rockwood Lodge was the home of the 1946–49 Packers. The 1947 and 1948 seasons produced a record of 12–10–1, and 1949 was even worse at 3–9. The lodge burned down on January 24, 1950, and insurance money paid for many of the Packers' debts.[16] Curly Lambeau departed after the 1949 season. Gene Ronzani and Lisle Blackbourn could not coach the Packers back to their former magic, even as a new stadium was unveiled in 1957. The losing would descend to the disastrous 1958 campaign under coach Ray "Scooter" McLean, whose lone 1–10–1 year at the helm is the worst in Packers history.[17]
 
 1959–1967: The Lombardi era and the glory years
 
-Vince_lombardi_bart_starr.jpg Former New York Giants assistant Vince Lombardi was hired as Packers head coach and general manager on February 2, 1959. Few suspected the hiring represented the beginning of a remarkable, immediate turnaround. Under Lombardi, the Packers would become _the_ team of the 1960s, winning five World Championships over a seven-year span, including victories in the first two Super Bowls. During the Lombardi era, the stars of the Packers' offense included Bart Starr, Jim Taylor, Carroll Dale, Paul Hornung (as halfback and placekicker), Forrest Gregg, and Jerry Kramer. The defense included Willie Davis, Henry Jordan, Willie Wood, Ray Nitschke, Dave Robinson, and Herb Adderley.
+Former New York Giants assistant Vince Lombardi was hired as Packers head coach and general manager on February 2, 1959. Few suspected the hiring represented the beginning of a remarkable, immediate turnaround. Under Lombardi, the Packers would become _the_ team of the 1960s, winning five World Championships over a seven-year span, including victories in the first two Super Bowls. During the Lombardi era, the stars of the Packers' offense included Bart Starr, Jim Taylor, Carroll Dale, Paul Hornung (as halfback and placekicker), Forrest Gregg, and Jerry Kramer. The defense included Willie Davis, Henry Jordan, Willie Wood, Ray Nitschke, Dave Robinson, and Herb Adderley.
 
 1959: Lombardi's first season
 
-Nitschke_packers.jpg]] The Packers' first regular season game under Lombardi was on September 27, 1959, a 9–6 victory over the Chicago Bears in Green Bay. After winning their first three, the Packers lost the next five before finishing strong by sweeping their final four. The 7–5 record represented the Packers' first winning season since 1947, enough to earn rookie head coach Lombardi the NFL Coach of the Year.
+]] The Packers' first regular season game under Lombardi was on September 27, 1959, a 9–6 victory over the Chicago Bears in Green Bay. After winning their first three, the Packers lost the next five before finishing strong by sweeping their final four. The 7–5 record represented the Packers' first winning season since 1947, enough to earn rookie head coach Lombardi the NFL Coach of the Year.
 
 1960
 
@@ -41,7 +41,7 @@ The next year, the Packers, led by Paul Hornung's 176 points, won the NFL West t
 
 1961
 
-1961_Topps_40_Paul_Hornung.jpg The Packers returned to the NFL Championship game the following season and faced the New York Giants in the first league title game to be played in Green Bay. The Packers scored 24 second-quarter points, including a championship-record 19 by Paul Hornung, on special "loan" from the Army (one touchdown, four extra-points and three field goals), powering the Packers to a 37–0 rout of the Giants, their first NFL Championship since 1944.[18] It was in 1961 that Green Bay became known as "Titletown."
+The Packers returned to the NFL Championship game the following season and faced the New York Giants in the first league title game to be played in Green Bay. The Packers scored 24 second-quarter points, including a championship-record 19 by Paul Hornung, on special "loan" from the Army (one touchdown, four extra-points and three field goals), powering the Packers to a 37–0 rout of the Giants, their first NFL Championship since 1944.[18] It was in 1961 that Green Bay became known as "Titletown."
 
 1962
 
@@ -53,7 +53,7 @@ The Packers returned to the championship game in 1965 following a two-year absen
 
 1966: the first "AFL-NFL World Championship Game"
 
-1986_Jeno's_Pizza_-_15_-_Willie_Davis.jpg (left) and Henry Jordan tackling a Chiefs player in the first AFL-NFL Championship (Super Bowl I). ]] The 1966 season saw the Packers led to the first-ever Super Bowl by MVP quarterback Bart Starr. The team went 12–2, and as time wound down in the NFL Championship against the Dallas Cowboys, the Packers clung to a 34–27 lead. Dallas had the ball on the Packers' two-yard line, threatening to tie the ballgame. But on fourth down the Packers' Tom Brown intercepted Don Meredith's pass in the end zone to seal the win. The team crowned its season by rolling over the AFL champion Kansas City Chiefs 35–10 in Super Bowl I.
+(left) and Henry Jordan tackling a Chiefs player in the first AFL-NFL Championship (Super Bowl I). ]] The 1966 season saw the Packers led to the first-ever Super Bowl by MVP quarterback Bart Starr. The team went 12–2, and as time wound down in the NFL Championship against the Dallas Cowboys, the Packers clung to a 34–27 lead. Dallas had the ball on the Packers' two-yard line, threatening to tie the ballgame. But on fourth down the Packers' Tom Brown intercepted Don Meredith's pass in the end zone to seal the win. The team crowned its season by rolling over the AFL champion Kansas City Chiefs 35–10 in Super Bowl I.
 
 1967: Super Bowl II, and Lombardi's departure
 
@@ -63,11 +63,11 @@ After Lombardi died of cancer on September 3, 1970, the NFL renamed the Super Bo
 
 1968–1991: Post-Lombardi and decline
 
-1986_Jeno's_Pizza_-_16_-_Eddie_Lee_Ivery.jpg, only qualified for the postseason twice during the team's post-Lombardi "dark ages" (1969–91).]] For about a quarter-century after Lombardi's departure, the Packers had relatively little on-field success. In the 24 seasons from 1968 to 1991, they had only five seasons with a winning record, one being the shortened 1982 strike season. They appeared in the playoffs twice, with a 1–2 record. The period saw five different head coaches – Phil Bengtson, Dan Devine, Bart Starr, Forrest Gregg, and Lindy Infante – two of whom, Starr and Gregg, were Lombardi's era stars, while Bengtson was a former Packer coach. Each led the Packers to a worse record than his predecessor. Poor personnel decisions were rife, notoriously the 1974 trade by acting general manager Dan Devine which sent five 1975 or 1976 draft picks (two first-rounders, two second-rounders and a third) to the Los Angeles Rams for aging quarterback John Hadl, who would spend only 1 seasons in Green Bay.[23] Another came in the 1989 NFL Draft, when offensive lineman Tony Mandarich was taken with the second overall pick ahead of future Hall of Fame inductees Barry Sanders, Derrick Thomas, and Deion Sanders. Though rated highly by nearly every professional scout at the time, Mandarich's performance failed to meet expectations, earning him ESPN's ranking as the third "biggest sports flop" in the last 25 years.[24]
+, only qualified for the postseason twice during the team's post-Lombardi "dark ages" (1969–91).]] For about a quarter-century after Lombardi's departure, the Packers had relatively little on-field success. In the 24 seasons from 1968 to 1991, they had only five seasons with a winning record, one being the shortened 1982 strike season. They appeared in the playoffs twice, with a 1–2 record. The period saw five different head coaches – Phil Bengtson, Dan Devine, Bart Starr, Forrest Gregg, and Lindy Infante – two of whom, Starr and Gregg, were Lombardi's era stars, while Bengtson was a former Packer coach. Each led the Packers to a worse record than his predecessor. Poor personnel decisions were rife, notoriously the 1974 trade by acting general manager Dan Devine which sent five 1975 or 1976 draft picks (two first-rounders, two second-rounders and a third) to the Los Angeles Rams for aging quarterback John Hadl, who would spend only 1 seasons in Green Bay.[23] Another came in the 1989 NFL Draft, when offensive lineman Tony Mandarich was taken with the second overall pick ahead of future Hall of Fame inductees Barry Sanders, Derrick Thomas, and Deion Sanders. Though rated highly by nearly every professional scout at the time, Mandarich's performance failed to meet expectations, earning him ESPN's ranking as the third "biggest sports flop" in the last 25 years.[24]
 
 1992–2007: Brett Favre era
 
-David_Martin82_Brett_Favre4-Edit2.jpg played for 16 years in Green Bay. He had his #4 jersey retired by the Packers in 2015.]] The Packers' performance in the 1970s, 1980s, and early 1990s led to a shakeup, with Ron Wolf hired as general manager and given full control of the team's football operations to start the 1991 season. In 1992, Wolf hired San Francisco 49ers offensive coordinator Mike Holmgren as the Packers' new head coach.
+played for 16 years in Green Bay. He had his #4 jersey retired by the Packers in 2015.]] The Packers' performance in the 1970s, 1980s, and early 1990s led to a shakeup, with Ron Wolf hired as general manager and given full control of the team's football operations to start the 1991 season. In 1992, Wolf hired San Francisco 49ers offensive coordinator Mike Holmgren as the Packers' new head coach.
 
 Soon afterward, Wolf acquired quarterback Brett Favre from the Atlanta Falcons for a first-round pick. Favre got the Packers their first win of the 1992 season, stepping in for injured quarterback Don Majkowski and leading a comeback over the Cincinnati Bengals. He started the following week, a win against the Pittsburgh Steelers, and never missed another start for Green Bay through the end of the 2007 season. He would go on to break the record for consecutive starts by an NFL quarterback, starting 297 consecutive games including stints with the New York Jets and Minnesota Vikings with the streak finally coming to an end late in the 2010 season.
 
@@ -75,7 +75,7 @@ The Packers had a 9–7 record in 1992, and began to turn heads around the leagu
 
 1996: Super Bowl XXXI champions
 
-19981213_28_Reggie_White,_Lambeau_Field.jpg In 1996, the Packers' turnaround was complete. The team posted a league-best 13–3 record in the regular season, dominating the competition and securing home-field advantage throughout the playoffs. They were ranked no. 1 in offense with Brett Favre leading the way, no. 1 in defense with Reggie White as the leader of the defense and no. 1 in special teams with former Heisman Trophy winner Desmond Howard returning punts and kickoffs for touchdowns. After relatively easy wins against the 49ers in a muddy 35–14 beatdown and Carolina Panthers 30–13, the Packers advanced to the Super Bowl for the first time in 29 years. In Super Bowl XXXI, Green Bay defeated the New England Patriots 35–21 to win their 12th world championship. Desmond Howard was named MVP of the game for his kickoff return for a touchdown that ended the Patriots' bid for a comeback. Then-Packers president Bob Harlan credited Wolf, Holmgren, Favre, and White for ultimately changing the fortunes of the organization and turning the Green Bay Packers into a model NFL franchise. A 2007 panel of football experts at ESPN ranked the 1996 Packers the 6th-greatest team ever to play in the Super Bowl.
+In 1996, the Packers' turnaround was complete. The team posted a league-best 13–3 record in the regular season, dominating the competition and securing home-field advantage throughout the playoffs. They were ranked no. 1 in offense with Brett Favre leading the way, no. 1 in defense with Reggie White as the leader of the defense and no. 1 in special teams with former Heisman Trophy winner Desmond Howard returning punts and kickoffs for touchdowns. After relatively easy wins against the 49ers in a muddy 35–14 beatdown and Carolina Panthers 30–13, the Packers advanced to the Super Bowl for the first time in 29 years. In Super Bowl XXXI, Green Bay defeated the New England Patriots 35–21 to win their 12th world championship. Desmond Howard was named MVP of the game for his kickoff return for a touchdown that ended the Patriots' bid for a comeback. Then-Packers president Bob Harlan credited Wolf, Holmgren, Favre, and White for ultimately changing the fortunes of the organization and turning the Green Bay Packers into a model NFL franchise. A 2007 panel of football experts at ESPN ranked the 1996 Packers the 6th-greatest team ever to play in the Super Bowl.
 
 1997: defeat in Super Bowl XXXII
 
@@ -83,7 +83,7 @@ The following season the Packers recorded another 13–3 record and won their se
 
 1998: Holmgren's last season
 
-19981213_24_Mike_Holmgren,_Lambeau_Field,.jpg In 1998, the Packers went 11–5 and met the San Francisco 49ers in the first-round of the NFC playoffs. It was the fourth consecutive year these teams had met in the playoffs and the sixth overall contest since the 1995 season. The Packers had won all previous games, and the media speculated that another 49ers loss would result in the dismissal of San Francisco head coach Steve Mariucci. Unlike the previous playoff matches, this game was hotly contested, with the teams frequently exchanging leads. With 4:19 left in the 4th quarter, Brett Favre and the Packers embarked on an 89-yard drive, which concluded with a Favre touchdown pass to receiver Antonio Freeman. This play appeared to give Green Bay the victory. But San Francisco quarterback Steve Young led the 49ers on an improbable touchdown drive, which culminated when Terrell Owens caught Young's pass between several defenders to give the 49ers a lead with three seconds remaining. Afterwards, the game was mired in controversy. Many argued that during the 49ers game-winning drive, Niners receiver Jerry Rice fumbled the ball but officials stated he was down by contact. Television replays confirmed the fumble, but referees were unable to review the play; the next season the NFL reinstituted an instant replay system.[25] In the end, this game turned out to be the end of an era in Green Bay. Days later Mike Holmgren left the Packers to become vice president, general manager and head coach of the Seattle Seahawks. Much of Holmgren's coaching staff went with him, and Reggie White also retired after the season (but later played one season for the Carolina Panthers in 2000).
+In 1998, the Packers went 11–5 and met the San Francisco 49ers in the first-round of the NFC playoffs. It was the fourth consecutive year these teams had met in the playoffs and the sixth overall contest since the 1995 season. The Packers had won all previous games, and the media speculated that another 49ers loss would result in the dismissal of San Francisco head coach Steve Mariucci. Unlike the previous playoff matches, this game was hotly contested, with the teams frequently exchanging leads. With 4:19 left in the 4th quarter, Brett Favre and the Packers embarked on an 89-yard drive, which concluded with a Favre touchdown pass to receiver Antonio Freeman. This play appeared to give Green Bay the victory. But San Francisco quarterback Steve Young led the 49ers on an improbable touchdown drive, which culminated when Terrell Owens caught Young's pass between several defenders to give the 49ers a lead with three seconds remaining. Afterwards, the game was mired in controversy. Many argued that during the 49ers game-winning drive, Niners receiver Jerry Rice fumbled the ball but officials stated he was down by contact. Television replays confirmed the fumble, but referees were unable to review the play; the next season the NFL reinstituted an instant replay system.[25] In the end, this game turned out to be the end of an era in Green Bay. Days later Mike Holmgren left the Packers to become vice president, general manager and head coach of the Seattle Seahawks. Much of Holmgren's coaching staff went with him, and Reggie White also retired after the season (but later played one season for the Carolina Panthers in 2000).
 
 1999: Ray Rhodes' one-year tenure
 
@@ -91,7 +91,7 @@ In 1999, the team struggled to find an identity after the departure of so many o
 
 2000–05: Mike Sherman as head coach
 
-MikeSherman2003.jpg In 2000, Wolf replaced Rhodes with Mike Sherman. Sherman had never been a head coach at any level of football and was relatively unknown in NFL circles. He had only coached in professional football for three years starting as the Packers' tight ends coach in 1997 and 1998. In 1999, he followed Mike Holmgren to Seattle and became the Seahawks' offensive coordinator, although Sherman did not call the plays during games. Despite Sherman's apparent anonymity, Wolf was blown away in the interview process by the coach's organizational skills and attention to detail. Sherman's inaugural season started slowly, but the Packers won their final four games to achieve a 9–7 record. Brett Favre praised the atmosphere Sherman had cultivated in Green Bay's locker room and fans were optimistic about the team's future. In the offseason, however, Wolf suddenly announced his own resignation as general manager to take effect after the April 2001 draft. Packers' president Bob Harlan was surprised by Wolf's decision and felt unsure of how to replace him. Harlan preferred the structure Green Bay had employed since 1991; a general manager who ran football operations and hired a subservient head coach. But with the momentum and locker room chemistry that was built during the 2000 season, Harlan was reluctant to bring in a new individual with a potentially different philosophy. Wolf recommended that Harlan give the job to Sherman. Though Harlan was wary of the structure in principle, he agreed with Wolf that it was the best solution. In 2001, Sherman assumed the duties of both general manager and head coach.
+In 2000, Wolf replaced Rhodes with Mike Sherman. Sherman had never been a head coach at any level of football and was relatively unknown in NFL circles. He had only coached in professional football for three years starting as the Packers' tight ends coach in 1997 and 1998. In 1999, he followed Mike Holmgren to Seattle and became the Seahawks' offensive coordinator, although Sherman did not call the plays during games. Despite Sherman's apparent anonymity, Wolf was blown away in the interview process by the coach's organizational skills and attention to detail. Sherman's inaugural season started slowly, but the Packers won their final four games to achieve a 9–7 record. Brett Favre praised the atmosphere Sherman had cultivated in Green Bay's locker room and fans were optimistic about the team's future. In the offseason, however, Wolf suddenly announced his own resignation as general manager to take effect after the April 2001 draft. Packers' president Bob Harlan was surprised by Wolf's decision and felt unsure of how to replace him. Harlan preferred the structure Green Bay had employed since 1991; a general manager who ran football operations and hired a subservient head coach. But with the momentum and locker room chemistry that was built during the 2000 season, Harlan was reluctant to bring in a new individual with a potentially different philosophy. Wolf recommended that Harlan give the job to Sherman. Though Harlan was wary of the structure in principle, he agreed with Wolf that it was the best solution. In 2001, Sherman assumed the duties of both general manager and head coach.
 
 From 2001 to 2004, Sherman coached the Packers to respectable regular-season success, led by the spectacular play of Brett Favre, Ahman Green, and a formidable offensive line. But Sherman's teams faltered in the playoffs. Prior to 2003, the Packers had never lost a home playoff game since the NFL instituted a post-season in 1933 (they were 13–0, with 11 of the wins at Lambeau and two more in Milwaukee.). That ended January 4, 2003, when the Atlanta Falcons defeated the Packers 27–7 in an NFC Wild Card game. The Packers would also lose at home in the playoffs to the Minnesota Vikings two years later.
 
@@ -99,7 +99,7 @@ By the end of the 2004 season, the Packers team depth appeared to be diminishing
 
 2006–07: McCarthy arrives, Favre departs
 
-Donald_Driver_-_October_24,_2010.jpg]] In 2006, Thompson hired Mike McCarthy, the former offensive coordinator for the San Francisco 49ers and New Orleans Saints as his new head coach. McCarthy had also previously served as the quarterbacks coach for the Packers in 1999.
+]] In 2006, Thompson hired Mike McCarthy, the former offensive coordinator for the San Francisco 49ers and New Orleans Saints as his new head coach. McCarthy had also previously served as the quarterbacks coach for the Packers in 1999.
 
 After missing the playoffs in 2006, Brett Favre announced that he would return for the 2007 season; it would turn out to be one of his best. The Packers won 10 of their first 11 games and finished 13–3, earning a first-round bye in the playoffs. The Packers' passing offense, led by Favre and a very skilled wide receiver group, finished second in the NFC, behind the Dallas Cowboys, and third overall in the league. Running back Ryan Grant, acquired for a sixth-round draft pick from the New York Giants, became the featured back in Green Bay and rushed for 956 yards and 8 touchdowns in the final 10 games of the regular season. In the divisional playoff round, in a heavy snowstorm, the Packers beat the Seattle Seahawks 42–20. Grant rushed for 201 yards and three touchdowns, while Favre tossed an additional three touchdown passes to receiver Donald Driver (as well as a snowball, which Favre memorably threw at Driver in celebration).[26]
 
@@ -113,7 +113,7 @@ In December 2007, Ted Thompson was signed to a 5-year contract extension with th
 
 2008: Transition
 
-Aaron_Rodgers_2008_(cropped).jpg in 2008.]]
+in 2008.]]
 
 On March 4, 2008, Brett Favre tearfully announced his retirement. Within five months, however, he filed for reinstatement with the NFL on July 29. Favre's petition was granted by Commissioner Roger Goodell, effective August 4, 2008.[27] On August 6, 2008, it was announced that Brett Favre was traded to the New York Jets for a conditional draft pick in 2009.[28]
 
@@ -127,7 +127,7 @@ During the 2009 NFL season, two match-ups between the franchise and its former q
 
 2010: Super Bowl XLV championship
 
-Mike_McCarthy_(TJG).JPG winning Packers head coach Mike McCarthy]]
+winning Packers head coach Mike McCarthy]]
 
 The team lost Johnny Jolly to a season-long suspension after he violated the NFL drug policy. Their running corps suffered a blow when RB Ryan Grant sustained a season-ending ankle injury in Week 1.[30] By the end of the season, the team had 16 people on injured reserve, including 7 starters: running back Ryan Grant, tight end Jermichael Finley, linebacker Nick Barnett, safety Morgan Burnett, linebacker Brandon Chillar, tackle Mark Tauscher, and linebacker Brad Jones.
 
@@ -135,7 +135,7 @@ After finishing the regular season 10–6 the Packers clinched the No. 6 seed in
 
 2011: 15–1 season
 
-Clay_Matthews_(52),_Charles_Woodson_(21).jpg In 2011, coming off their victory in Super Bowl XLV, the Packers won their first 13 games, eventually finishing the season 15–1. The 15 victories marked the franchise record for wins in a season, and tied for second most regular-season wins in NFL history, behind only the 2007 Patriots who went 16–0. Following the season, Aaron Rodgers would be named the NFL's MVP, his first such award.
+In 2011, coming off their victory in Super Bowl XLV, the Packers won their first 13 games, eventually finishing the season 15–1. The 15 victories marked the franchise record for wins in a season, and tied for second most regular-season wins in NFL history, behind only the 2007 Patriots who went 16–0. Following the season, Aaron Rodgers would be named the NFL's MVP, his first such award.
 
 Despite receiving home-field advantage, Green Bay lost their first game to eventual Super Bowl XLVI champion New York Giants, 37–20.
 
@@ -159,7 +159,7 @@ Following the season, quarterback Aaron Rodgers was named the league's Most Valu
 
 2015
 
-Jordy_Nelson_2011.jpg the following 2016 season upon returning from his injury]] During Week 2 of the preseason against the Pittsburgh Steelers, wide receiver Jordy Nelson caught an eight-yard pass from Aaron Rodgers, but then fell to the turf without contact. A few days later, it was revealed that Nelson had torn his ACL. He would remain inactive for the rest of the 2015 season.[36] Even without Nelson, the Packers managed to get off to a 6–0 start, but the Packers then lost four of their next five games, falling to 7–4.[37]
+the following 2016 season upon returning from his injury]] During Week 2 of the preseason against the Pittsburgh Steelers, wide receiver Jordy Nelson caught an eight-yard pass from Aaron Rodgers, but then fell to the turf without contact. A few days later, it was revealed that Nelson had torn his ACL. He would remain inactive for the rest of the 2015 season.[36] Even without Nelson, the Packers managed to get off to a 6–0 start, but the Packers then lost four of their next five games, falling to 7–4.[37]
 
 On December 3, against the Detroit Lions, the Packers quickly fell to a 20–0 deficit going into halftime. Green Bay started to make a comeback in the second half thanks to a touchdown by Davante Adams and a 27-yard touchdown run by Aaron Rodgers to bring the game within two points at 23–21. The Packers then got the ball back in their possession with 23 seconds left in the game. While attempting a "lateral" play, Rodgers was sacked with no time remaining but then a flag was thrown for a facemask penalty on Detroit. The Packers now had one more un-timed play, which Aaron Rodgers threw a 61-yard Hail Mary touchdown to tight end Richard Rodgers.[38] It was the longest Hail Mary touchdown pass thrown in NFL history.[39] Green Bay then finished the season 10–6 and 2nd in the NFC North behind the Minnesota Vikings.
 
@@ -180,7 +180,7 @@ In 2018, the Packers again failed to qualify for the playoffs, finishing third i
 
 Community ownership
 
-DonHutsonCenter2007.jpg The Packers are the only community-owned franchise in North America's four traditional major leagues.[53][54][55] Rather than being the property of an individual, partnership, or corporate entity, they are held in 2014 by 360,584 stockholders. No one is allowed to hold more than 200,000 shares,[56] or approximately 4% of the 5,011,557 shares[57] currently outstanding. It is this broad-based community support and non-profit structure[58] which has kept the team in Green Bay for nearly a century in spite of being the smallest market in all of North American professional sports.
+The Packers are the only community-owned franchise in North America's four traditional major leagues.[53][54][55] Rather than being the property of an individual, partnership, or corporate entity, they are held in 2014 by 360,584 stockholders. No one is allowed to hold more than 200,000 shares,[56] or approximately 4% of the 5,011,557 shares[57] currently outstanding. It is this broad-based community support and non-profit structure[58] which has kept the team in Green Bay for nearly a century in spite of being the smallest market in all of North American professional sports.
 
 The city of Green Bay had a population of only 104,057 as of the 2010 census,[59] and 600,000 in its television market, significantly less than the average NFL figures. The team, however, has long had an extended fan base throughout Wisconsin and parts of the Midwest, thanks in part to playing one pre-season and three regular-season home games each year in Milwaukee through 1995. It was only when baseball-only Miller Park preempted football there that the Packers' home slate became played entirely in Green Bay.
 
@@ -207,9 +207,7 @@ At the team's 1997 annual stockholders meeting the foundation was designated in 
 
 Fan base
 
-Waitlist_Postcard.jpg The Packers have an exceptionally loyal fan base. Regardless of team performance, every game played in Green Bay has been sold out since 1960.[67] Despite the Packers having by far the smallest local TV market, the team consistently ranks as one of the most popular in the NFL.[68] They also have one of the longest season ticket waiting lists in professional sports: 86,000 names long, more than there are seats at Lambeau Field.[69][70] The average wait is said to be over 30 years,[71] but with only 90 or so tickets turned over annually it would be 955 years before the newest name on the list got theirs.[72] As a result, season tickets are willed to next of kin and newborns placed optimistically on the waiting list.[73]
-
-cheesehead.jpg
+The Packers have an exceptionally loyal fan base. Regardless of team performance, every game played in Green Bay has been sold out since 1960.[67] Despite the Packers having by far the smallest local TV market, the team consistently ranks as one of the most popular in the NFL.[68] They also have one of the longest season ticket waiting lists in professional sports: 86,000 names long, more than there are seats at Lambeau Field.[69][70] The average wait is said to be over 30 years,[71] but with only 90 or so tickets turned over annually it would be 955 years before the newest name on the list got theirs.[72] As a result, season tickets are willed to next of kin and newborns placed optimistically on the waiting list.[73]
 
 Packers fans are often referred to as cheeseheads,[74] a nickname for Wisconsin residents reflecting the state's bountiful cheese production first leveled as an insult at a 1987 game between the Chicago White Sox and Milwaukee Brewers. Instead, it came to be a statewide source of pride, and particularly since 1994 has been embraced by Packers fans.[75] Bright orange triangular cheesehead hats are a fixture wherever the team plays.
 
@@ -222,11 +220,7 @@ In August 2008, ESPN.com ranked Packers fans as second-best in the NFL.[78] The 
 
 Branding
 
-Green_Bay_Packers_logo.svg Green_Bay_Packers_yellow_wordmark.svg
-
 Nickname
-
-Packers_throwback.png
 
 Needing to outfit his new squad, team founder Curly Lambeau solicited funds from his employer, the Indian Packing Company. He was given $500 for uniforms and equipment in return for the team being named for its sponsor. An early newspaper article referred to the fledglings as "the Indians", but by the time they played their first game "Packers" had taken hold.
 
@@ -240,7 +234,7 @@ By 1950, Green Bay had changed its colors to hunter green and gold. Navy blue wa
 
 Logo
 
-Green_Bay_Packers.jpg In 1951, the team finally stopped wearing leather helmets, adopting the metallic gold plastic headgear it has used ever since. The oval "G" logo was added in 1961 when Lombardi asked Packers equipment manager Gerald "Dad" Braisher to design a logo. Braisher tasked his assistant, St. Norbert College art student John Gordon. Satisfied with a football-shaped letter "G", the pair presented it to Lombardi, who then approved the addition.[81] Tiki Barber falsely reported[82] it to stand for "greatness" without a reliable source to back up his claims. Other reputable media outlets then published similar stories using Barber's false claim as a source.[83] The Packers' Assistant Director of PR and Corporate Communications had the following to say: "There’s nothing in our history that suggests there's any truth to this. The Packers Hall of Fame archivist said the same thing."[84] The team used a number of different logos prior to 1961, but the "G" is the only logo that has ever appeared on the helmet.[85][86] The Packers hold the trademark on the "G" logo, and have granted limited permission to other organizations to utilize a similar logo, such as the University of Georgia and Grambling State University, in addition to the city of Green Bay itself as part of its civic logo.[87] Adopted in 1964, the Georgia "G", though different in design and color, was similar to the Packers' "G". Then-Georgia head coach Vince Dooley thought it best to clear the use of Georgia's new emblem with the Packers.[88]
+In 1951, the team finally stopped wearing leather helmets, adopting the metallic gold plastic headgear it has used ever since. The oval "G" logo was added in 1961 when Lombardi asked Packers equipment manager Gerald "Dad" Braisher to design a logo. Braisher tasked his assistant, St. Norbert College art student John Gordon. Satisfied with a football-shaped letter "G", the pair presented it to Lombardi, who then approved the addition.[81] Tiki Barber falsely reported[82] it to stand for "greatness" without a reliable source to back up his claims. Other reputable media outlets then published similar stories using Barber's false claim as a source.[83] The Packers' Assistant Director of PR and Corporate Communications had the following to say: "There’s nothing in our history that suggests there's any truth to this. The Packers Hall of Fame archivist said the same thing."[84] The team used a number of different logos prior to 1961, but the "G" is the only logo that has ever appeared on the helmet.[85][86] The Packers hold the trademark on the "G" logo, and have granted limited permission to other organizations to utilize a similar logo, such as the University of Georgia and Grambling State University, in addition to the city of Green Bay itself as part of its civic logo.[87] Adopted in 1964, the Georgia "G", though different in design and color, was similar to the Packers' "G". Then-Georgia head coach Vince Dooley thought it best to clear the use of Georgia's new emblem with the Packers.[88]
 
 Uniform variation
 
@@ -253,7 +247,7 @@ Upon the NFL's switch of uniform suppliers in 2012 to Nike from Reebok,[92] the 
 
 Stadium history
 
-Lambeau-field.jpg After their early seasons at Bellevue Park and Hagemeister Park, the Packers played home games in City Stadium from 1925 to 1956.[94] The team won its first six NFL world championships there.
+After their early seasons at Bellevue Park and Hagemeister Park, the Packers played home games in City Stadium from 1925 to 1956.[94] The team won its first six NFL world championships there.
 
 By the 1950s the wooden 25,000 seat arena was considered outmoded.[95] The NFL threatened to move the franchise to Milwaukee full-time unless it got a better stadium.[96] The city responded by building a new 32,150 seat City Stadium for the team, the first built exclusively for an NFL team, which opened in time for the 1957 season.[97] It was renamed Lambeau Field in 1965 to honor Curly Lambeau, who had died earlier in the year.[98]
 
@@ -431,15 +425,15 @@ Many Packers players and coaches are also enshrined in the Wisconsin Athletic Ha
 
 Retired numbers
 
-Packers_Retired_Numbers_at_Lambeau_Field.jpg's north end zone with the six retired numbers|alt=A photo of the part of Lambeau field that shows all of the Packers' retired numbers and player names.]]
+'s north end zone with the six retired numbers|alt=A photo of the part of Lambeau field that shows all of the Packers' retired numbers and player names.]]
 
 In nearly nine decades of Packers football, the Packers have formally retired six numbers.[106] All six Packers are members of the Pro Football Hall of Fame and their numbers and names are displayed on the green facade of Lambeau Field's north endzone as well as in the Lambeau Field Atrium.
 
-+------------------------------------+------------------------------------+-------------------------------------+-------------------------------+-------------------------------+-------------------------------+
-| Packers_retired_number_3_green.svg | Packers_retired_number_4_green.svg | Packers_retired_number_14_green.svg | Packers_retired_number_15.svg | Packers_retired_number_66.svg | Packers_retired_number_92.svg |
-+------------------------------------+------------------------------------+-------------------------------------+-------------------------------+-------------------------------+-------------------------------+
-| TONY CANADEO                       | BRETT FAVRE                        | DON HUTSON                          | BART STARR                    | RAY NITSCHKE                  | REGGIE WHITE                  |
-+------------------------------------+------------------------------------+-------------------------------------+-------------------------------+-------------------------------+-------------------------------+
++--------------+-------------+------------+------------+--------------+--------------+
+|              |             |            |            |              |              |
++--------------+-------------+------------+------------+--------------+--------------+
+| TONY CANADEO | BRETT FAVRE | DON HUTSON | BART STARR | RAY NITSCHKE | REGGIE WHITE |
++--------------+-------------+------------+------------+--------------+--------------+
 
 
 Notable coaches

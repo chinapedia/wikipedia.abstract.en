@@ -1,4 +1,4 @@
-Johansen_Viggo_-_Radosne_Boże_Narodzenie.jpg (1891)]] Décoration_du_sapin_de_Noël.jpg Christmas_tree,_Bethlehem.jpg, 2014]] A CHRISTMAS TREE is a decorated tree, usually an evergreen conifer such as a spruce, pine or fir, or an artificial tree of similar appearance, associated with the celebration of Christmas, originating in Northern Europe.[1] The custom was developed in medieval Livonia (present-day Estonia and Latvia), and in early modern Germany where Protestant Germans brought decorated trees into their homes.[2][3] It acquired popularity beyond the Lutheran areas of Germany[4][5] and the Baltic countries during the second half of the 19th century, at first among the upper classes.[6]
+(1891)]] , 2014]] A CHRISTMAS TREE is a decorated tree, usually an evergreen conifer such as a spruce, pine or fir, or an artificial tree of similar appearance, associated with the celebration of Christmas, originating in Northern Europe.[1] The custom was developed in medieval Livonia (present-day Estonia and Latvia), and in early modern Germany where Protestant Germans brought decorated trees into their homes.[2][3] It acquired popularity beyond the Lutheran areas of Germany[4][5] and the Baltic countries during the second half of the 19th century, at first among the upper classes.[6]
 
 The tree was traditionally decorated with "roses made of colored paper, apples, wafers, tinsel, [and] sweetmeats". In the 18th century, it began to be illuminated by candles, which were ultimately replaced by Christmas lights after the advent of electrification. Today, there is a wide variety of traditional ornaments, such as garlands, baubles, tinsel, and candy canes. An angel or star might be placed at the top of the tree to represent the Angel Gabriel or the Star of Bethlehem, respectively, from the Nativity.[7][8] Edible items such as gingerbread, chocolate and other sweets are also popular and are tied to or hung from the tree's branches with ribbons.
 
@@ -19,7 +19,7 @@ While today the Christmas tree is a recognized symbol for the holidays, it was o
 
 Possible predecessors
 
-yggdrasil.jpg from 1847. Painted by Oluf Olufsen Bagge.]] Modern Christmas trees have been related to the "tree of paradise" of medieval mystery plays that were given on 24 December, the commemoration and name day of Adam and Eve in various countries. In such plays, a tree decorated with apples (to represent the forbidden fruit) and wafers (to represent the Eucharist and redemption) was used as a setting for the play. Like the Christmas crib, the Paradise tree was later placed in homes. The apples were replaced by round objects such as shiny red balls.[20][21][22][23][24][25]
+from 1847. Painted by Oluf Olufsen Bagge.]] Modern Christmas trees have been related to the "tree of paradise" of medieval mystery plays that were given on 24 December, the commemoration and name day of Adam and Eve in various countries. In such plays, a tree decorated with apples (to represent the forbidden fruit) and wafers (to represent the Eucharist and redemption) was used as a setting for the play. Like the Christmas crib, the Paradise tree was later placed in homes. The apples were replaced by round objects such as shiny red balls.[20][21][22][23][24][25]
 
 At the end of the Middle Ages, an early predecessor appears referred in the Regiment of the Order of Cister around 1400, in Alcobaça, Portugal. The Regiment of the local _high-Sacristans_ of the Cistercian Order refers to what may be considered one of the oldest references to the Christmas tree: "Note on how to put the Christmas branch, _scilicet_: On the Christmas eve, you will look for a large Branch of green laurel, and you shall reap many red oranges, and place them on the branches that come of the laurel, specifically as you have seen, and in every orange you shall put a candle, and hang the Branch by a rope in the pole, which shall be by the candle of the _altar-mor_."[26]
 
@@ -33,7 +33,7 @@ The Vikings and Saxons worshiped trees.[30] The story of Saint Boniface cutting 
 
 Georgia
 
-Chichilaki_Georgian_christmass_tree.jpg, a Georgian Christmas tree variety]]
+, a Georgian Christmas tree variety]]
 
 Georgians have their own traditional Christmas tree called Chichilaki, made from dried up hazelnut or walnut branches that are shaped to form a small coniferous tree.[33] These pale-colored ornaments differ in height from to . Chichilakis are most common in the Guria and Samegrelo regions of Georgia near the Black Sea, but they can also be found in some stores around the capital of Tbilisi. Georgians believe that Chichilaki resembles the famous beard of St. Basil the Great, because Eastern Orthodox Church commemorates St. Basil on 1 January.
 
@@ -45,7 +45,7 @@ In the late 18th and early 19th century, these traditions were almost completely
 
 Estonia, Latvia and Germany
 
-Franz_Skarbina_Unter_dem_Weihnachtsbaum.jpg (1849–1910)]] Customs of erecting decorated trees in wintertime can be traced to Christmas celebrations in Renaissance-era guilds in Northern Germany and Livonia. The first evidence of decorated trees associated with Christmas Day are trees in guildhalls decorated with sweets to be enjoyed by the apprentices and children. In Livonia (present-day Estonia and Latvia), in 1441, 1442, 1510 and 1514, the Brotherhood of Blackheads erected a tree for the holidays in their guild houses in Reval (now Tallinn) and Riga. On the last night of the celebrations leading up to the holidays, the tree was taken to the Town Hall Square, where the members of the brotherhood danced around it.[34]
+(1849–1910)]] Customs of erecting decorated trees in wintertime can be traced to Christmas celebrations in Renaissance-era guilds in Northern Germany and Livonia. The first evidence of decorated trees associated with Christmas Day are trees in guildhalls decorated with sweets to be enjoyed by the apprentices and children. In Livonia (present-day Estonia and Latvia), in 1441, 1442, 1510 and 1514, the Brotherhood of Blackheads erected a tree for the holidays in their guild houses in Reval (now Tallinn) and Riga. On the last night of the celebrations leading up to the holidays, the tree was taken to the Town Hall Square, where the members of the brotherhood danced around it.[34]
 
 A Bremen guild chronicle of 1570 reports that a small tree decorated with "apples, nuts, dates, pretzels and paper flowers" was erected in the guild-house for the benefit of the guild members' children, who collected the dainties on Christmas Day.[35] In 1584, the pastor and chronicler Balthasar Russow in his (1584) wrote of an established tradition of setting up a decorated spruce at the market square, where the young men "went with a flock of maidens and women, first sang and danced there and then set the tree aflame".
 
@@ -54,8 +54,6 @@ After the Protestant Reformation, such trees are seen in the houses of upper-cla
 18th to early 20th centuries
 
 Germany
-
-Die_Gartenlaube_(1888)_Nr49_Beilage.jpg
 
 By the early 18th century, the custom had become common in towns of the upper Rhineland, but it had not yet spread to rural areas. Wax candles, expensive items at the time, are found in attestations from the late 18th century.
 
@@ -67,11 +65,11 @@ A decisive factor in winning general popularity was the German army's decision t
 
 Adoption by European nobility
 
-Woonkamer_vol_keurig_geklede_kinderen_die_bij_de_kerstboom_dansen.jpg In the early 19th century, the custom became popular among the nobility and spread to royal courts as far as Russia. Princess Henrietta of Nassau-Weilburg introduced the Christmas tree to Vienna in 1816, and the custom spread across Austria in the following years. In France, the first Christmas tree was introduced in 1840 by the duchesse d'Orléans. In Denmark a Danish newspaper claims that the first attested Christmas tree was lit in 1808 by countess Wilhemine of Holsteinborg. It was the aging countess who told the story of the first Danish Christmas tree to the Danish writer Hans Christian Andersen in 1865. He had published a fairy-tale called _The Fir-Tree_ in 1844, recounting the fate of a fir-tree being used as a Christmas tree.[38]
+In the early 19th century, the custom became popular among the nobility and spread to royal courts as far as Russia. Princess Henrietta of Nassau-Weilburg introduced the Christmas tree to Vienna in 1816, and the custom spread across Austria in the following years. In France, the first Christmas tree was introduced in 1840 by the duchesse d'Orléans. In Denmark a Danish newspaper claims that the first attested Christmas tree was lit in 1808 by countess Wilhemine of Holsteinborg. It was the aging countess who told the story of the first Danish Christmas tree to the Danish writer Hans Christian Andersen in 1865. He had published a fairy-tale called _The Fir-Tree_ in 1844, recounting the fate of a fir-tree being used as a Christmas tree.[38]
 
 Britain
 
-Christmas_Tree_1848.jpg and Prince Albert created a craze for Christmas trees.[39]]] Albert_Chevallier_Tayler_-_The_Christmas_Tree_1911.jpg]] Although the tradition of decorating churches and homes with evergreens at Christmas was long established,[40] the custom of decorating an entire small tree was unknown in Britain until some two centuries ago. At the time of the personal union with Hanover, George III's German-born wife, Charlotte of Mecklenburg-Strelitz, introduced a Christmas tree at a party she gave for children in 1800.[41] The custom did not at first spread much beyond the royal family.[42] Queen Victoria as a child was familiar with it and a tree was placed in her room every Christmas. In her journal for Christmas Eve 1832, the delighted 13-year-old princess wrote:[43]
+and Prince Albert created a craze for Christmas trees.[39]]] ]] Although the tradition of decorating churches and homes with evergreens at Christmas was long established,[40] the custom of decorating an entire small tree was unknown in Britain until some two centuries ago. At the time of the personal union with Hanover, George III's German-born wife, Charlotte of Mecklenburg-Strelitz, introduced a Christmas tree at a party she gave for children in 1800.[41] The custom did not at first spread much beyond the royal family.[42] Queen Victoria as a child was familiar with it and a tree was placed in her room every Christmas. In her journal for Christmas Eve 1832, the delighted 13-year-old princess wrote:[43]
 
   After dinner... we then went into the drawing-room near the dining-room... There were two large round tables on which were placed two trees hung with lights and sugar ornaments. All the presents being placed round the trees...
 
@@ -81,7 +79,7 @@ Their use at public entertainments, charity bazaars and in hospitals made them i
 
 North America
 
-1836-print-of-american-christmas-tree.jpg Godey'streeDec1850.GIF Christmas tree at Windsor Castle published in _The Illustrated London News_, 1848]]
+Christmas tree at Windsor Castle published in _The Illustrated London News_, 1848]]
 
 The tradition was introduced to North America in the winter of 1781 by Hessian soldiers stationed in the Province of Québec (1763–1791) to garrison the colony against American attack. General Friedrich Adolf Riedesel and his wife, the Baroness von Riedesel, held a Christmas party for the officers at Sorel, delighting their guests with a fir tree decorated with candles and fruits.[62]
 
@@ -97,8 +95,6 @@ File:The Christmas tree (Boston Public Library).jpg |_The Christmas tree_ by Win
 
 1935 to present
 
-xmas1951.jpg
-
 In Russia, the Christmas tree was banned after the October Revolution[73] but then reinstated as a _New-year spruce_ (, ) in 1935. It became a fully secular icon of the New Year holiday, for example, the crowning star was regarded not as a symbol of Bethlehem Star, but as the Red star. Decorations, such as figurines of airplanes, bicycles, space rockets, cosmonauts, and characters of Russian fairy tales, were produced. This tradition persists after the fall of the USSR, with the New Year holiday outweighing the Christmas (7 January) for a wide majority of Russian people.[74]
 
 The TV special _A Charlie Brown Christmas_ (1965) was influential on the pop culture surrounding the Christmas tree. Aluminum Christmas trees were popular during the early 1960s in the US. They were satirized in the Charlie Brown show and came to be seen as symbolizing the commercialization of Christmas. The term _Charlie Brown Christmas tree_, describing any poor-looking or malformed little tree, also derives from the 1965 TV special, based on the appearance of Charlie Brown's Christmas tree.[75]
@@ -107,7 +103,7 @@ File:Christmas tree with presents - 2015.JPG| Christmas tree with presents File:
 
 Public Christmas trees
 
-Bundesarchiv_Bild_102-12787,_Prag,_Weihnachtsfeier_für_Erwerbslose.jpg ]] Since the early 20th century, it has become common in many cities, towns, and department stores to put up public Christmas trees outdoors, such as the Macy's Great Tree in Atlanta (since 1948), the Rockefeller Center Christmas Tree in New York City, and the large Christmas tree at Victoria Square in Adelaide. The use of fire retardant allows many indoor public areas to place real trees and be compliant with code. Licensed applicants of fire retardant solution spray the tree, tag the tree, and provide a certificate for inspection. Real trees are popular with high end visual merchandising displays around the world. Leading global retailers such as Apple often place real trees in their window displays. In 2009, Apple placed two Fraser fir trees in every one of its retail establishments.
+]] Since the early 20th century, it has become common in many cities, towns, and department stores to put up public Christmas trees outdoors, such as the Macy's Great Tree in Atlanta (since 1948), the Rockefeller Center Christmas Tree in New York City, and the large Christmas tree at Victoria Square in Adelaide. The use of fire retardant allows many indoor public areas to place real trees and be compliant with code. Licensed applicants of fire retardant solution spray the tree, tag the tree, and provide a certificate for inspection. Real trees are popular with high end visual merchandising displays around the world. Leading global retailers such as Apple often place real trees in their window displays. In 2009, Apple placed two Fraser fir trees in every one of its retail establishments.
 
 The United States' National Christmas Tree has been lit each year since 1923 on the South Lawn of the White House. Today, the lighting of the National Christmas Tree is part of what has become a major holiday event at the White House. President Jimmy Carter lit only the crowning star atop the tree in 1979 in honor of the Americans being held hostage in Iran.[76] The same was true in 1980, except that the tree was fully lit for 417 seconds, one second for each day the hostages had been in captivity.[77]
 
@@ -121,7 +117,7 @@ File:Albero di Natale Milano dicembre 2008.jpg|Christmas tree in Milan, Italy, 2
 
 Chrismon trees
 
-Chrismon_tree_stalbans_oviedo_fl.jpg]] A "Chrismon tree" is a Christmas tree decorated with explicitly Christian symbols in white and gold.[82][83] First introduced by North American Lutherans in 1957,[84] the practice has rapidly spread to other Christian denominations,[85] including Anglicans,[86] Catholics,[87] Methodists,[88] and the Reformed.[89]
+]] A "Chrismon tree" is a Christmas tree decorated with explicitly Christian symbols in white and gold.[82][83] First introduced by North American Lutherans in 1957,[84] the practice has rapidly spread to other Christian denominations,[85] including Anglicans,[86] Catholics,[87] Methodists,[88] and the Reformed.[89]
 
 "Chrismon" (plural "Chrismons") was adopted for the type of Christmas decoration and explained as a portmanteau of "CHRISt-MONogram" (a Christogram).[90][91]
 
@@ -130,7 +126,7 @@ Customs and traditions
 
 Setting up and taking down
 
-Candle_on_Christmas_tree_3.jpg Both setting up and taking down a Christmas tree are associated with specific dates. Traditionally, Christmas trees were not brought in and decorated until Christmas Eve (24 December) or, in the traditions celebrating Christmas Eve rather than the first day of Christmas, 23 December, and then removed the day after Twelfth Night (5 January); to have a tree up before or after these dates was even considered bad luck, and that to avoid bad luck from affecting the house's residents, the tree must be left up until after the following Twelfth Night passes.
+Both setting up and taking down a Christmas tree are associated with specific dates. Traditionally, Christmas trees were not brought in and decorated until Christmas Eve (24 December) or, in the traditions celebrating Christmas Eve rather than the first day of Christmas, 23 December, and then removed the day after Twelfth Night (5 January); to have a tree up before or after these dates was even considered bad luck, and that to avoid bad luck from affecting the house's residents, the tree must be left up until after the following Twelfth Night passes.
 
 In many areas, it has become customary to set up one's Christmas tree at the beginning of the Advent season.[92] Some families in the U.S. and Canada will put up a Christmas tree a week prior to American Thanksgiving (the fourth Thursday of November), and Christmas decorations can show up even earlier in retail stores, often the day after Halloween (31 October). In Canada many stores wait until after Remembrance Day, as to show respect to fallen soldiers.[93] Some households do not put up the tree until the second week of December, and leave it up until 6 January (Epiphany). In Germany, traditionally the tree is put up on 24 December and taken down on 7 January, though many start one or two weeks earlier, and in Roman Catholic homes the tree may be kept until 2 February (Candlemas).
 
@@ -138,9 +134,7 @@ In Italy, Ireland and Argentina, along with many countries in Latin America, the
 
 Decoration
 
-2002_Blue_Room_Christmas_tree.jpg
-
-Christmas_market,_Strasbourg_(5226805005).jpg, Strasbourg ]]
+, Strasbourg ]]
 
 Christmas ornaments are decorations (usually made of glass, metal, wood, or ceramics) that are used to decorate a Christmas tree. The first decorated trees were adorned with apples, white candy canes and pastries in the shapes of stars, hearts and flowers. Glass baubles were first made in Lauscha, Germany, and also garlands of glass beads and tin figures that could be hung on trees. The popularity of these decorations grew into the production of glass figures made by highly skilled artisans with clay molds.
 
@@ -155,13 +149,13 @@ File:Christmas baubles 08 - 02.JPG|Christmas baubles
 
 Production
 
-Christmas_tree_for_sale.jpg Each year, 33 to 36 million Christmas trees are produced in America, and 50 to 60 million are produced in Europe. In 1998, there were about 15,000 growers in America (a third of them "choose and cut" farms). In that same year, it was estimated that Americans spent $1.5 billion on Christmas trees.[96] By 2016 that had climbed to $2.04 billion for natural trees and a further $1.86 billion for artificial trees. In Europe, 75 million trees worth €2.4 billion ($3.2 billion) are harvested annually.[97]
+Each year, 33 to 36 million Christmas trees are produced in America, and 50 to 60 million are produced in Europe. In 1998, there were about 15,000 growers in America (a third of them "choose and cut" farms). In that same year, it was estimated that Americans spent $1.5 billion on Christmas trees.[96] By 2016 that had climbed to $2.04 billion for natural trees and a further $1.86 billion for artificial trees. In Europe, 75 million trees worth €2.4 billion ($3.2 billion) are harvested annually.[97]
 
 Consumer cost
 
 The average cost of a live cut tree in the United States was $64 in 2015 and this rose to $73 in 2017. The price is expected to hold steady for the next year.[98]
 
-F_Krüger_Vorweihnacht.jpg (1797–1857)]] Karl_Wenzel_Zajicek_A_Christmas_market_in_Am_Hof_Vienna_1908.jpg, painting by Carl Wenzel Zajicek (1908)]] Balsam_Fir_Christmas_Tree_Pruning.jpg, prunes balsam fir trees in October. The tree must experience three frosts to stabilize the needles before cutting.]]
+(1797–1857)]] , painting by Carl Wenzel Zajicek (1908)]] , prunes balsam fir trees in October. The tree must experience three frosts to stabilize the needles before cutting.]]
 
 Natural trees
 
@@ -205,7 +199,7 @@ In the past, Christmas trees were often harvested from wild forests, but now alm
 
 Artificial trees
 
-Christmas_tree_in_Poland_2004.jpg Balsam-Hill-artificial-Christmas-tree.jpg]]
+]]
 
 The first artificial Christmas trees were developed in Germany during the 19th century,[104][105] though earlier examples exist.[106] These "trees" were made using goose feathers that were dyed green.,[107] as one response by Germans to continued deforestation.[108] Feather Christmas trees ranged widely in size, from a small tree to a large tree sold in department stores during the 1920s.[109] Often, the tree branches were tipped with artificial red berries which acted as candle holders.[110]
 
@@ -218,18 +212,18 @@ File:Fiber-optic Christmas tree.jpg|A tree with fibre optic lights File:Christma
 
 Environmental issues
 
-Poinsettia_tree.jpg flowers arranged into the conical shape of a "Christmas tree", topped with a "Star of Bethlehem", in San Diego (2005)]] The debate about the environmental impact of artificial trees is ongoing. Generally, natural tree growers contend that artificial trees are more environmentally harmful than their natural counterparts.[127] However, trade groups such as the American Christmas Tree Association, continue to refute that artificial trees are more harmful to the environment, and maintain that the PVC used in Christmas trees has excellent recyclable properties.[128]
+flowers arranged into the conical shape of a "Christmas tree", topped with a "Star of Bethlehem", in San Diego (2005)]] The debate about the environmental impact of artificial trees is ongoing. Generally, natural tree growers contend that artificial trees are more environmentally harmful than their natural counterparts.[127] However, trade groups such as the American Christmas Tree Association, continue to refute that artificial trees are more harmful to the environment, and maintain that the PVC used in Christmas trees has excellent recyclable properties.[128]
 
-Recycletree.jpg point () in Paris, 22 January 2010]] Live trees are typically grown as a crop and replanted in rotation after cutting, often providing suitable habitat for wildlife. Alternately, live trees can be donated to livestock farmers of such animals like goats who find that such trees uncontaminated by chemical additives are excellent fodder.[129] In some cases management of Christmas tree crops can result in poor habitat since it sometimes involves heavy input of pesticides.[130] Concerns have been raised about people cutting down old and rare conifers, such as the _Keteleeria evelyniana_ and _Abies fraseri_, for Christmas trees.
+point () in Paris, 22 January 2010]] Live trees are typically grown as a crop and replanted in rotation after cutting, often providing suitable habitat for wildlife. Alternately, live trees can be donated to livestock farmers of such animals like goats who find that such trees uncontaminated by chemical additives are excellent fodder.[129] In some cases management of Christmas tree crops can result in poor habitat since it sometimes involves heavy input of pesticides.[130] Concerns have been raised about people cutting down old and rare conifers, such as the _Keteleeria evelyniana_ and _Abies fraseri_, for Christmas trees.
 
-Curbside_Christmas_trees_SFV_2016-12-30.jpg]] Real or cut trees are used only for a short time, but can be recycled and used as mulch, wildlife habitat, or used to prevent erosion.[131][132][133] Real trees are carbon-neutral, they emit no more carbon dioxide by being cut down and disposed of than they absorb while growing.[134] However, emissions can occur from farming activities and transportation. An independent life-cycle assessment study, conducted by a firm of experts in sustainable development, states that a natural tree will generate of greenhouse gases every year (based on purchasing from home) whereas the artificial tree will produce over its lifetime.[135] Some people use living Christmas or potted trees for several seasons, providing a longer life cycle for each tree. Living Christmas trees can be purchased or rented from local market growers. Rentals are picked up after the holidays, while purchased trees can be planted by the owner after use or donated to local tree adoption or urban reforestation services.[136] Smaller and younger trees may be replanted after each season, with the following year running up to the next Christmas allowing the tree to carry out further growth.
+]] Real or cut trees are used only for a short time, but can be recycled and used as mulch, wildlife habitat, or used to prevent erosion.[131][132][133] Real trees are carbon-neutral, they emit no more carbon dioxide by being cut down and disposed of than they absorb while growing.[134] However, emissions can occur from farming activities and transportation. An independent life-cycle assessment study, conducted by a firm of experts in sustainable development, states that a natural tree will generate of greenhouse gases every year (based on purchasing from home) whereas the artificial tree will produce over its lifetime.[135] Some people use living Christmas or potted trees for several seasons, providing a longer life cycle for each tree. Living Christmas trees can be purchased or rented from local market growers. Rentals are picked up after the holidays, while purchased trees can be planted by the owner after use or donated to local tree adoption or urban reforestation services.[136] Smaller and younger trees may be replanted after each season, with the following year running up to the next Christmas allowing the tree to carry out further growth.
 
 Most artificial trees are made of recycled PVC rigid sheets using tin stabilizer in the recent years. In the past, lead was often used as a stabilizer in PVC, but is now banned by Chinese laws. The use of lead stabilizer in Chinese imported trees has been an issue of concern among politicians and scientists over recent years. A 2004 study found that while in general artificial trees pose little health risk from lead contamination, there do exist "worst-case scenarios" where major health risks to young children exist.[137] A 2008 United States Environmental Protection Agency report found that as the PVC in artificial Christmas trees aged it began to degrade.[138] The report determined that of the 50 million artificial trees in the United States approximately 20 million were 9 or more years old, the point where dangerous lead contamination levels are reached.[139] A professional study on the life-cycle assessment of both real and artificial Christmas trees revealed that one must use an artificial Christmas tree at least 20 years to leave an environmental footprint as small as the natural Christmas tree.[140]
 
 
 Religious issues
 
-Bezbozhnik_u_stanka_-_Run_along,_Lord,_1931,_n._22.jpg_, distributed by the League of Militant Atheists, depicting an Orthodox Christian priest being forbidden to cut down a tree for Christmas]] The earliest legend of the origin of the Christmas tree dates back to 723, involving Saint Boniface[141] as he was evangelizing Germany. According to a story not mentioned in his biographies (_vitae''), he stumbled upon a pagan gathering where a group of people dancing under a decorated oak tree were about to sacrifice a baby in the name of Thor. Boniface took an axe and called on the name of Jesus. In one swipe, he managed to take down the entire tree, to the crowds astonishment. Behind the fallen tree was a baby fir. Boniface said, "let this tree be the symbol of the true God, its leaves are ever green and will not die." The tree's needles pointed to heaven. Tradition holds that trees were used in formerly pagan homes from that moment forth, but decorated in the name of Jesus.[142]
+_, distributed by the League of Militant Atheists, depicting an Orthodox Christian priest being forbidden to cut down a tree for Christmas]] The earliest legend of the origin of the Christmas tree dates back to 723, involving Saint Boniface[141] as he was evangelizing Germany. According to a story not mentioned in his biographies (_vitae''), he stumbled upon a pagan gathering where a group of people dancing under a decorated oak tree were about to sacrifice a baby in the name of Thor. Boniface took an axe and called on the name of Jesus. In one swipe, he managed to take down the entire tree, to the crowds astonishment. Behind the fallen tree was a baby fir. Boniface said, "let this tree be the symbol of the true God, its leaves are ever green and will not die." The tree's needles pointed to heaven. Tradition holds that trees were used in formerly pagan homes from that moment forth, but decorated in the name of Jesus.[142]
 
 The Christmas tree was first recorded to be used by German Lutherans in the 16th century, with records indicating that a Christmas tree was placed in the Cathedral of Strassburg in 1539, under the leadership of the Protestant Reformer, Martin Bucer.[143][144] In the United States, these "German Lutherans brought the decorated Christmas tree with them; the Moravians put lighted candles on those trees."[145][146] When decorating the Christmas tree, many individuals place a star at the top of the tree symbolizing the Star of Bethlehem, a fact recorded by _The School Journal_ in 1897.[147][148] Professor David Albert Jones of Oxford University writes that in the 19th century, it became popular for people to also use an angel to top the Christmas tree in order to symbolize the angels mentioned in the accounts of the Nativity of Jesus.[149]
 

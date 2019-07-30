@@ -1,4 +1,4 @@
-Amazing_stories_196201.jpg'', illustrated by Ed Emshwiller]]
+'', illustrated by Ed Emshwiller]]
 
 BENJAMIN WILLIAM "BEN" BOVA (born November 8, 1932) is an American writer. He is the author of more than 120[1] works of science fact and fiction, he is six-time winner of the Hugo Award, a former editor of _Analog Magazine_, a former editorial director of _Omni_; he was also president of both the National Space Society and the Science Fiction Writers of America. He lives in Florida.[2]
 

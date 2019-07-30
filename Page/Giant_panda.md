@@ -17,7 +17,7 @@ Despite the shared name, habitat type, and diet, as well as a unique enlarged bo
 
 Etymology
 
-The word _panda_ was borrowed into English from French, but no conclusive explanation of the origin of the French word _panda_ has been found.[24] The closest candidate is the Nepali word _ponya,_ possibly referring to the adapted wrist bone of the red panda, which is native to Nepal. The Western world originally applied this name to the red panda. Baby_Pandas.JPG In many older sources, the name "panda" or "common panda" refers to the lesser-known red panda,[25] thus necessitating the inclusion of "giant" and "lesser/red" prefixes in front of the names. Even in 2013, the _Encyclopædia Britannica_ still used "giant panda" or "panda bear" for the bear,[26] and simply "panda" for the red panda,[27] despite the popular usage of the word "panda" to refer to giant pandas.
+The word _panda_ was borrowed into English from French, but no conclusive explanation of the origin of the French word _panda_ has been found.[24] The closest candidate is the Nepali word _ponya,_ possibly referring to the adapted wrist bone of the red panda, which is native to Nepal. The Western world originally applied this name to the red panda. In many older sources, the name "panda" or "common panda" refers to the lesser-known red panda,[25] thus necessitating the inclusion of "giant" and "lesser/red" prefixes in front of the names. Even in 2013, the _Encyclopædia Britannica_ still used "giant panda" or "panda bear" for the bear,[26] and simply "panda" for the red panda,[27] despite the popular usage of the word "panda" to refer to giant pandas.
 
 Since the earliest collection of Chinese writings, the Chinese language has given the bear 20 different names, such as _huāxióng_ ( "spotted bear") and _zhúxióng_ ( "bamboo bear").[28] The most popular names in China today is _dàxióngmāo_ ( literally "giant bear cat"), or simply _xióngmāo_ ( "bear cat"). The name _xióngmāo_ ( "bear cat") was originally used to describe the red panda (_Ailurus fulgens_), but since the giant panda was thought to be closely related to the red panda, _dàxióngmāo_ () was named relatively.[29]
 
@@ -25,7 +25,7 @@ In Taiwan, another popular name for panda is the inverted _dàmāoxióng_ ( "gia
 
 Subspecies
 
-Quinlingpandabearr.jpg has a light-brown and white pattern]] Two subspecies of giant panda have been recognized on the basis of distinct cranial measurements, colour patterns, and population genetics.
+has a light-brown and white pattern]] Two subspecies of giant panda have been recognized on the basis of distinct cranial measurements, colour patterns, and population genetics.
 
 -   The nominate subspecies _Ailuropoda m. melanoleuca_ consists of most extant populations of panda. These animals are principally found in Sichuan and display the typical stark black and white contrasting colours.
 -   The Qinling panda, _A. m. qinlingensis_[33] is restricted to the Qinling Mountains in Shaanxi at elevations of 1,300–3,000 m. The typical black and white pattern of Sichuan giant pandas is replaced with a dark brown versus light brown pattern. The skull of _A. m. qinlingensis_ is smaller than its relatives, and it has larger molars.
@@ -35,11 +35,11 @@ A detailed study of the giant panda's genetic history from 2012[34] confirms tha
 
 Description
 
-Giant_Panda_Skull.JPG]] Giant_panda-Tonton-1.jpg at the National Museum of Nature and Science, Tokyo]] The giant panda has luxuriant black-and-white fur. Adults measure around long, including a tail of about , and tall at the shoulder.[36][37] Males can weigh up to .[38] Females (generally 10–20% smaller than males)[39] can weigh as little as , but can also weigh up to .[40][41][42] Average adult weight is .[43]
+]] at the National Museum of Nature and Science, Tokyo]] The giant panda has luxuriant black-and-white fur. Adults measure around long, including a tail of about , and tall at the shoulder.[36][37] Males can weigh up to .[38] Females (generally 10–20% smaller than males)[39] can weigh as little as , but can also weigh up to .[40][41][42] Average adult weight is .[43]
 
 The giant panda has a body shape typical of bears. It has black fur on its ears, eye patches, muzzle, legs, arms and shoulders. The rest of the animal's coat is white. Although scientists do not know why these unusual bears are black and white, speculation suggests that the bold colouring provides effective camouflage in their shade-dappled snowy and rocky habitat.[44] The giant panda's thick, wooly coat keeps it warm in the cool forests of its habitat.[45] The panda's skull shape is typical of durophagous carnivorans. It has evolved from previous ancestors to exhibit larger molars with increased complexity and expanded temporal fossa.[46][47] A 110.45 kg (243.5 lb) giant panda has a 3D canine teeth bite force of 2603.47 newtons and bite force quotient of 292. Another study had a 117.5 kg (259 lb) giant panda bite of 1298.9 newtons (BFQ 151.4) at canine teeth and 1815.9 newtons (BFQ 141.8) at carnassial teeth.[48]
 
-Giant_panda_Left_hand_Bone_2.jpg The giant panda's paw has a "thumb" and five fingers; the "thumb" – actually a modified sesamoid bone – helps it to hold bamboo while eating.[49] Stephen Jay Gould discusses this feature in his book of essays on evolution and biology, _The Panda's Thumb_.
+The giant panda's paw has a "thumb" and five fingers; the "thumb" – actually a modified sesamoid bone – helps it to hold bamboo while eating.[49] Stephen Jay Gould discusses this feature in his book of essays on evolution and biology, _The Panda's Thumb_.
 
 The giant panda's tail, measuring , is the second-longest in the bear family. (The longest belongs to the sloth bear.)[50]
 
@@ -47,7 +47,7 @@ The giant panda typically lives around 20 years in the wild and up to 30 years i
 
 Pathology
 
-Parasite150075-fig1_Toxoplasma_gondii_in_Giant_panda.tif'' (arrow) in macrophages in the lung of a giant panda[53]]] A seven-year-old female named Jin Yi died in 2014 in a zoo in Zhengzhou, China, after showing symptoms of gastroenteritis and respiratory disease. It was found that the cause of death was toxoplasmosis, a disease caused by _Toxoplasma gondii_ and infecting most warm-blooded animals, including humans.[54]
+'' (arrow) in macrophages in the lung of a giant panda[53]]] A seven-year-old female named Jin Yi died in 2014 in a zoo in Zhengzhou, China, after showing symptoms of gastroenteritis and respiratory disease. It was found that the cause of death was toxoplasmosis, a disease caused by _Toxoplasma gondii_ and infecting most warm-blooded animals, including humans.[54]
 
 Genomics
 
@@ -57,8 +57,6 @@ The giant panda genome was sequenced in 2009 using Illumina dye sequencing.[55] 
 Ecology
 
 Diet
-
-Giant_Pandas_having_a_snack.jpg Pandas_playing_640x480.ogv
 
 Despite its taxonomic classification as a carnivoran, the giant panda's diet is primarily herbivorous, consisting almost exclusively of bamboo.[56] However, the giant panda still has the digestive system of a carnivore, as well as carnivore-specific genes,[57] and thus derives little energy and little protein from consumption of bamboo. Its ability to digest cellulose is ascribed to the microbes in its gut.[58][59] Pandas are born with sterile intestines and require bacteria obtained from their mother's feces to digest vegetation.[60] The giant panda is a highly specialised animal with unique adaptations, and has lived in bamboo forests for millions of years.[61]
 
@@ -91,11 +89,9 @@ Though the panda is often assumed to be docile, it has been known to attack huma
 
 Reproduction
 
-Chengdu-pandas-d18.jpg
-
 Initially, the primary method of breeding giant pandas in captivity was by artificial insemination, as they seemed to lose their interest in mating once they were captured.[96] This led some scientists to try extreme methods, such as showing them videos of giant pandas mating[97] and giving the males sildenafil (commonly known by name Viagra).[98] Only recently have researchers started having success with captive breeding programs, and they have now determined giant pandas have comparable breeding to some populations of the American black bear, a thriving bear species. The normal reproductive rate is considered to be one young every two years.[99][100]
 
-_Chengdu_panda_breeding.jpg.]]
+.]]
 
 Giant pandas reach sexual maturity between the ages of four and eight, and may be reproductive until age 20.[101] The mating season is between March and May, when a female goes into estrus, which lasts for two or three days and only occurs once a year.[102] When mating, the female is in a crouching, head-down position as the male mounts her from behind. Copulation time is short, ranging from 30 seconds to five minutes, but the male may mount her repeatedly to ensure successful fertilisation. The gestation period ranges from 95 to 160 days.[103]
 
@@ -122,7 +118,7 @@ The comparative obscurity of the giant panda throughout most of China's history 
 
 Western discovery
 
-The West first learned of the giant panda on 11 March 1869, when the French missionary Armand David[128] received a skin from a hunter. The first Westerner known to have seen a living giant panda is the German zoologist Hugo Weigold, who purchased a cub in 1916. Kermit and Theodore Roosevelt, Jr., became the first Westerners to shoot a panda, on an expedition funded by the Field Museum of Natural History in the 1920s. In 1936, Ruth Harkness became the first Westerner to bring back a live giant panda, a cub named Su Lin[129] which went to live at the Brookfield Zoo in Chicago. In 1938, five giant pandas were sent to London.[130][131] Lightmatter_panda.jpg
+The West first learned of the giant panda on 11 March 1869, when the French missionary Armand David[128] received a skin from a hunter. The first Westerner known to have seen a living giant panda is the German zoologist Hugo Weigold, who purchased a cub in 1916. Kermit and Theodore Roosevelt, Jr., became the first Westerners to shoot a panda, on an expedition funded by the Field Museum of Natural History in the 1920s. In 1936, Ruth Harkness became the first Westerner to bring back a live giant panda, a cub named Su Lin[129] which went to live at the Brookfield Zoo in Chicago. In 1938, five giant pandas were sent to London.[130][131]
 
 Panda diplomacy
 
@@ -141,8 +137,6 @@ Conservation
 The giant panda is a vulnerable species, threatened by continued habitat loss and habitat fragmentation,[135] and by a very low birthrate, both in the wild and in captivity.[136] Its range is currently confined to a small portion on the western edge of its historical range, which stretched through southern and eastern China, northern Myanmar, and northern Vietnam.[137]
 
 The giant panda has been a target of poaching by locals since ancient times and by foreigners since it was introduced to the West. Starting in the 1930s, foreigners were unable to poach giant pandas in China because of the Second Sino-Japanese War and the Chinese Civil War, but pandas remained a source of soft furs for the locals. The population boom in China after 1949 created stress on the pandas' habitat and the subsequent famines led to the increased hunting of wildlife, including pandas. During the Cultural Revolution, all studies and conservation activities on the pandas were stopped. After the Chinese economic reform, demand for panda skins from Hong Kong and Japan led to illegal poaching for the black market, acts generally ignored by the local officials at the time.
-
-Panda_Cub_from_Wolong,_Sichuan,_China.JPG
 
 Though the Wolong National Nature Reserve was set up by the PRC government in 1958 to save the declining panda population, few advances in the conservation of pandas were made, owing to inexperience and insufficient knowledge of ecology. Many believed the best way to save the pandas was to cage them. As a result, pandas were caged at any sign of decline and suffered from terrible conditions. Because of pollution and destruction of their natural habitat, along with segregation caused by caging, reproduction of wild pandas was severely limited. In the 1990s, however, several laws (including gun control and the removal of resident humans from the reserves) helped their chances of survival. With these renewed efforts and improved conservation methods, wild pandas have started to increase in numbers in some areas, though they still are classified as a rare species.
 

@@ -7,7 +7,7 @@ Pissarro is the only artist to have shown his work at all eight Paris Impression
 
 Early years
 
-Camille_Pissarro_-_Paisaje_tropical.jpg]] Deux_femmes_causant_au_bord_de_la_mer,_Saint_Thomas_(Camille_Pissarro)_–_NGA_1985.64.30.jpg, 1856]] JACOB ABRAHAM CAMILLE PISSARRO was born on 10 July 1830 on the island of St. Thomas to Frederick and Rachel Manzano de Pissarro.[3][4] His father was of Portuguese Jewish descent and held French nationality. His mother was from a French-Jewish family from the island of St. Thomas.[5] His father was a merchant who came to the island from France to deal with the hardware store of a deceased uncle, Isaac Petit, and married his widow. The marriage caused a stir within St. Thomas' small Jewish community because she was previously married to Frederick's uncle and according to Jewish law a man is forbidden from marrying his aunt. In subsequent years his four children attended the all-black primary school.[6] Upon his death, his will specified that his estate be split equally between the synagogue and St. Thomas' Protestant church.[7]
+]] , 1856]] JACOB ABRAHAM CAMILLE PISSARRO was born on 10 July 1830 on the island of St. Thomas to Frederick and Rachel Manzano de Pissarro.[3][4] His father was of Portuguese Jewish descent and held French nationality. His mother was from a French-Jewish family from the island of St. Thomas.[5] His father was a merchant who came to the island from France to deal with the hardware store of a deceased uncle, Isaac Petit, and married his widow. The marriage caused a stir within St. Thomas' small Jewish community because she was previously married to Frederick's uncle and according to Jewish law a man is forbidden from marrying his aunt. In subsequent years his four children attended the all-black primary school.[6] Upon his death, his will specified that his estate be split equally between the synagogue and St. Thomas' Protestant church.[7]
 
 When Camille was twelve his father sent him to boarding school in France. He studied at the Savary Academy in Passy near Paris. While a young student, he developed an early appreciation of the French art masters. Monsieur Savary himself gave him a strong grounding in drawing and painting and suggested he draw from nature when he returned to St. Thomas, which he did when he was seventeen. However, his father preferred he work in his business, giving him a job working as a cargo clerk. He took every opportunity during those next five years at the job to practise drawing during breaks and after work.[8]
 
@@ -16,7 +16,7 @@ When Pissarro turned twenty-one, Danish artist Fritz Melbye, then living on St. 
 
 Life in France
 
-Camille_Pissarro_Jalais_Hill,_Pontoise_The_Metropolitan_Museum_of_Art.jpg]] In Paris he worked as assistant to Danish painter Anton Melbye. He also studied paintings by other artists whose style impressed him: Courbet, Charles-François Daubigny, Jean-François Millet, and Corot. He also enrolled in various classes taught by masters, at schools such as École des Beaux-Arts and Académie Suisse. But Pissarro eventually found their teaching methods "stifling," states art historian John Rewald. This prompted him to search for alternative instruction, which he requested and received from Corot.[11]
+]] In Paris he worked as assistant to Danish painter Anton Melbye. He also studied paintings by other artists whose style impressed him: Courbet, Charles-François Daubigny, Jean-François Millet, and Corot. He also enrolled in various classes taught by masters, at schools such as École des Beaux-Arts and Académie Suisse. But Pissarro eventually found their teaching methods "stifling," states art historian John Rewald. This prompted him to search for alternative instruction, which he requested and received from Corot.[11]
 
 Paris Salon and Corot's influence
 
@@ -26,7 +26,7 @@ In 1859 his first painting was accepted and exhibited. His other paintings durin
 
 Use of natural outdoor settings
 
-Camille_Pissarro_012.jpg'', 1872. Musée D'Orsay, Paris.]]
+'', 1872. Musée D'Orsay, Paris.]]
 
 During this period Pissarro began to understand and appreciate the importance of expressing on canvas the beauties of nature without adulteration.[15] After a year in Paris, he therefore began to leave the city and paint scenes in the countryside to capture the daily reality of village life. He found the French countryside to be "picturesque," and worthy of being painted. It was still mostly agricultural and sometimes called the "golden age of the peasantry".[16] Pissarro later explained the technique of painting outdoors to a student:
 
@@ -36,7 +36,7 @@ Corot, however, would complete his own scenic paintings back in his studio where
 
 With Monet, Cézanne, and Guillaumin
 
-Road_to_Versailles_at_Louveciennes_1869_Camille_Pissarro.jpg and would often paint the road to Versailles in various seasons.[19] The Walters Art Museum.]] In 1859, while attending the free school, the Académie Suisse, Pissarro became friends with a number of younger artists who likewise chose to paint in the more realistic style. Among them were Claude Monet, Armand Guillaumin and Paul Cézanne. What they shared in common was their dissatisfaction with the dictates of the Salon. Cézanne's work had been mocked at the time by the others in the school, and, writes Rewald, in his later years Cézanne "never forgot the sympathy and understanding with which Pissarro encouraged him."[20] As a part of the group, Pissarro was comforted from knowing he was not alone, and that others similarly struggled with their art.
+and would often paint the road to Versailles in various seasons.[19] The Walters Art Museum.]] In 1859, while attending the free school, the Académie Suisse, Pissarro became friends with a number of younger artists who likewise chose to paint in the more realistic style. Among them were Claude Monet, Armand Guillaumin and Paul Cézanne. What they shared in common was their dissatisfaction with the dictates of the Salon. Cézanne's work had been mocked at the time by the others in the school, and, writes Rewald, in his later years Cézanne "never forgot the sympathy and understanding with which Pissarro encouraged him."[20] As a part of the group, Pissarro was comforted from knowing he was not alone, and that others similarly struggled with their art.
 
 Pissarro agreed with the group about the importance of portraying individuals in natural settings, and expressed his dislike of any artifice or grandeur in his works, despite what the Salon demanded for its exhibits. In 1863 almost all of the group's paintings were rejected by the Salon, and French Emperor Napoleon III instead decided to place their paintings in a separate exhibit hall, the Salon des Refusés. However, only works of Pissarro and Cézanne were included, and the separate exhibit brought a hostile response from both the officials of the Salon and the public.[21]
 
@@ -44,7 +44,7 @@ In subsequent Salon exhibits of 1865 and 1866, Pissarro acknowledged his influen
 
     "Camille Pissarro is one of the three or four true painters of this day ... I have rarely encountered a technique that is so sure."[22]
 
-Camille_Pissaro_et_sa_femme_Julie_Vellay_en_1877_à_Pontoise.jpg]] Another writer tries to describe elements of Pissarro's style:
+]] Another writer tries to describe elements of Pissarro's style:
 
     "The brightness of his palette envelops objects in atmosphere ... He paints the smell of the earth."[23]
 
@@ -61,7 +61,7 @@ In 1871 in Croydon he married his mother's maid, Julie Vellay, a vineyard grower
 
 The London years
 
-Bath_Road,_London_by_Camille_Pissarro.jpg, Oxford.]] After the outbreak of the Franco-Prussian War of 1870–71, having only Danish nationality and being unable to join the army, he moved his family to Norwood, then a village on the edge of London. However, his style of painting, which was a forerunner of what was later called "Impressionism", did not do well. He wrote to his friend, Theodore Duret, that "my painting doesn't catch on, not at all ..."[27]
+, Oxford.]] After the outbreak of the Franco-Prussian War of 1870–71, having only Danish nationality and being unable to join the army, he moved his family to Norwood, then a village on the edge of London. However, his style of painting, which was a forerunner of what was later called "Impressionism", did not do well. He wrote to his friend, Theodore Duret, that "my painting doesn't catch on, not at all ..."[27]
 
 Pissarro met the Paris art dealer Paul Durand-Ruel, in London, who became the dealer who helped sell his art for most of his life. Durand-Ruel put him in touch with Monet who was likewise in London during this period. They both viewed the work of British landscape artists John Constable and J. M. W. Turner, which confirmed their belief that their style of open air painting gave the truest depiction of light and atmosphere, an effect that they felt could not be achieved in the studio alone. Pissarro's paintings also began to take on a more spontaneous look, with loosely blended brushstrokes and areas of impasto, giving more depth to the work.[28]
 
@@ -74,7 +74,7 @@ Returning to France, in 1890 Pissarro again visited England and painted some ten
 
 French Impressionism
 
-Camille_Pissarro_023.jpg'', 1874]] When Pissarro returned to his home in France after the war, he discovered that of the 1,500 paintings he had done over 20 years, which he was forced to leave behind when he moved to London, only 40 remained. The rest had been damaged or destroyed by the soldiers, who often used them as floor mats outside in the mud to keep their boots clean. It is assumed that many of those lost were done in the Impressionist style he was then developing, thereby "documenting the birth of Impressionism." Armand Silvestre, a critic, went so far as to call Pissarro "basically the inventor of this [Impressionist] painting"; however, Pissarro's role in the Impressionist movement was "less that of the great man of ideas than that of the good counselor and appeaser ..." "Monet ... could be seen as the guiding force."[32]
+'', 1874]] When Pissarro returned to his home in France after the war, he discovered that of the 1,500 paintings he had done over 20 years, which he was forced to leave behind when he moved to London, only 40 remained. The rest had been damaged or destroyed by the soldiers, who often used them as floor mats outside in the mud to keep their boots clean. It is assumed that many of those lost were done in the Impressionist style he was then developing, thereby "documenting the birth of Impressionism." Armand Silvestre, a critic, went so far as to call Pissarro "basically the inventor of this [Impressionist] painting"; however, Pissarro's role in the Impressionist movement was "less that of the great man of ideas than that of the good counselor and appeaser ..." "Monet ... could be seen as the guiding force."[32]
 
 He soon reestablished his friendships with the other Impressionist artists of his earlier group, including Cézanne, Monet, Manet, Renoir, and Degas. Pissarro now expressed his opinion to the group that he wanted an alternative to the Salon so their group could display their own unique styles.
 
@@ -82,7 +82,7 @@ To assist in that endeavour, in 1873 he helped establish a separate collective, 
 
 Impressionist exhibitions that shocked the critics
 
-Camille_Pissarro_(French,_1830-1903)_Le_grand_noyer_à_l'Hermitage.jpg The following year, in 1874, the group held their first 'Impressionist' Exhibition, which shocked and "horrified" the critics, who primarily appreciated only scenes portraying religious, historical, or mythological settings. They found fault with the Impressionist paintings on many grounds:[35]
+The following year, in 1874, the group held their first 'Impressionist' Exhibition, which shocked and "horrified" the critics, who primarily appreciated only scenes portraying religious, historical, or mythological settings. They found fault with the Impressionist paintings on many grounds:[35]
 
 -   The subject matter was considered "vulgar" and "commonplace," with scenes of street people going about their everyday lives. Pissarro's paintings, for instance, showed scenes of muddy, dirty, and unkempt settings;
 -   The manner of painting was too sketchy and looked incomplete, especially compared to the traditional styles of the period. The use of visible and expressive brushwork by all the artists was considered an insult to the craft of traditional artists, who often spent weeks on their work. Here, the paintings were often done in one sitting and the paints were applied wet-on-wet;
@@ -90,7 +90,7 @@ Camille_Pissarro_(French,_1830-1903)_Le_grand_noyer_à_l'Hermitage.jpg The follo
 
 A "revolutionary" style
 
-Camille_Pissarro,_Le_verger_(The_Orchard),_1872.jpg_, 1872]] Camille_Pissarro_-_The_Hay_Cart,_Montfoucault_-_Google_Art_Project.jpg_, 1879]] Pissarro showed five of his paintings, all landscapes, at the exhibit, and again Émile Zola praised his art and that of the others. In the Impressionist exhibit of 1876; however, art critic Albert Wolff complained in his review, "Try to make M. Pissarro understand that trees are not violet, that sky is not the color of fresh butter ..." Journalist and art critic Octave Mirbeau on the other hand, writes, "Camille Pissarro has been a revolutionary through the revitalized working methods with which he has endowed painting".[36] According to Rewald, Pissarro had taken on an attitude more simple and natural than the other artists. He writes:
+_, 1872]] _, 1879]] Pissarro showed five of his paintings, all landscapes, at the exhibit, and again Émile Zola praised his art and that of the others. In the Impressionist exhibit of 1876; however, art critic Albert Wolff complained in his review, "Try to make M. Pissarro understand that trees are not violet, that sky is not the color of fresh butter ..." Journalist and art critic Octave Mirbeau on the other hand, writes, "Camille Pissarro has been a revolutionary through the revitalized working methods with which he has endowed painting".[36] According to Rewald, Pissarro had taken on an attitude more simple and natural than the other artists. He writes:
 
     "Rather than glorifying—consciously or not—the rugged existence of the peasants, he placed them without any 'pose' in their habitual surroundings, thus becoming an objective chronicler of one of the many facets of contemporary life."[37]
 
@@ -103,7 +103,7 @@ Cassatt had befriended Degas and Pissarro years earlier when she joined Pissarro
 
 Neo-Impressionist period
 
-Hay_Harvest_at_Éragny,_1901,_Camille_Pissarro.jpg'', 1901. National Gallery of Canada, Ottawa]] Enfant_tétant_sa_mère_by_Camille_Pissarro_1882.jpg]] By the 1880s, Pissarro began to explore new themes and methods of painting to break out of what he felt was an artistic "mire". As a result, Pissarro went back to his earlier themes by painting the life of country people, which he had done in Venezuela in his youth. Degas described Pissarro's subjects as "peasants working to make a living".[44]
+'', 1901. National Gallery of Canada, Ottawa]] ]] By the 1880s, Pissarro began to explore new themes and methods of painting to break out of what he felt was an artistic "mire". As a result, Pissarro went back to his earlier themes by painting the life of country people, which he had done in Venezuela in his youth. Degas described Pissarro's subjects as "peasants working to make a living".[44]
 
 However, this period also marked the end of the Impressionist period due to Pissarro's leaving the movement. As Joachim Pissarro points out, "Once such a die-hard Impressionist as Pissarro had turned his back on Impressionism, it was apparent that Impressionism had no chance of surviving ..."[45]
 
@@ -111,7 +111,7 @@ It was Pissarro's intention during this period to help "educate the public" by p
 
 Studying with Seurat and Signac
 
-Camille_Pissarro_-_La_Récolte_des_Foins,_Éragny_-_Google_Art_Project.jpg In 1885 he met Georges Seurat and Paul Signac,[46] both of whom relied on a more "scientific" theory of painting by using very small patches of pure colours to create the illusion of blended colours and shading when viewed from a distance. Pissarro then spent the years from 1885 to 1888 practising this more time-consuming and laborious technique, referred to as pointillism. The paintings that resulted were distinctly different from his Impressionist works, and were on display in the 1886 Impressionist Exhibition, but under a separate section, along with works by Seurat, Signac, and his son Lucien.
+In 1885 he met Georges Seurat and Paul Signac,[46] both of whom relied on a more "scientific" theory of painting by using very small patches of pure colours to create the illusion of blended colours and shading when viewed from a distance. Pissarro then spent the years from 1885 to 1888 practising this more time-consuming and laborious technique, referred to as pointillism. The paintings that resulted were distinctly different from his Impressionist works, and were on display in the 1886 Impressionist Exhibition, but under a separate section, along with works by Seurat, Signac, and his son Lucien.
 
 All four works were considered an "exception" to the eighth exhibition. Joachim Pissarro notes that virtually every reviewer who commented on Pissarro's work noted "his extraordinary capacity to change his art, revise his position and take on new challenges."[47] One critic writes:
 
@@ -123,7 +123,7 @@ In 1884, art dealer Theo van Gogh asked Pissarro if he would take in his older b
 
 Abandoning Neo-Impressionism
 
-Pissarro_-_Pont_Boieldieu_in_Rouen,_Rainy_Weather.jpg'', 1896. Art Gallery of Ontario]] Pissarro eventually turned away from Neo-Impressionism, claiming its system was too artificial. He explains in a letter to a friend:
+'', 1896. Art Gallery of Ontario]] Pissarro eventually turned away from Neo-Impressionism, claiming its system was too artificial. He explains in a letter to a friend:
 
     "Having tried this theory for four years and having then abandoned it ... I can no longer consider myself one of the neo-impressionists ... It was impossible to be true to my sensations and consequently to render life and movement, impossible to be faithful to the effects, so random and so admirable, of nature, impossible to give an individual character to my drawing, [that] I had to give up."[51]
 
@@ -134,7 +134,7 @@ But the change also added to Pissarro's continual financial hardship which he fe
 
 Later years
 
-Camille_Pissarro_Two_Young_Peasant_Women_The_Metropolitan_Museum_of_Art.jpg]]
+]]
 
 In his older age Pissarro suffered from a recurring eye infection that prevented him from working outdoors except in warm weather. As a result of this disability, he began painting outdoor scenes while sitting by the window of hotel rooms. He often chose hotel rooms on upper levels to get a broader view. He moved around northern France and painted from hotels in Rouen, Paris, Le Havre and Dieppe. On his visits to London, he would do the same.[55]
 
@@ -143,7 +143,7 @@ Pissarro died in Paris on 13 November 1903 and was buried in Père Lachaise Ceme
 
 Legacy and influence
 
-Camille_Pissarro.jpg During the period Pissarro exhibited his works, art critic Armand Silvestre had called Pissarro the "most real and most naive member" of the Impressionist group.[57] His work has also been described by art historian Diane Kelder as expressing "the same quiet dignity, sincerity, and durability that distinguished his person." She adds that "no member of the group did more to mediate the internecine disputes that threatened at times to break it apart, and no one was a more diligent proselytizer of the new painting."[58]
+During the period Pissarro exhibited his works, art critic Armand Silvestre had called Pissarro the "most real and most naive member" of the Impressionist group.[57] His work has also been described by art historian Diane Kelder as expressing "the same quiet dignity, sincerity, and durability that distinguished his person." She adds that "no member of the group did more to mediate the internecine disputes that threatened at times to break it apart, and no one was a more diligent proselytizer of the new painting."[58]
 
 According to Pissarro's son, Lucien, his father painted regularly with Cézanne beginning in 1872. He recalls that Cézanne walked a few miles to join Pissarro at various settings in Pontoise. While they shared ideas during their work, the younger Cézanne wanted to study the countryside through Pissarro's eyes, as he admired Pissarro's landscapes from the 1860s. Cézanne, although only nine years younger than Pissarro, said that "he was a father for me. A man to consult and a little like the good Lord."[59]
 
@@ -157,7 +157,7 @@ Caribbean author and scholar Derek Walcott based his book-length poem, _Tiepolo'
 
 Lost and found paintings
 
-Camille_Pissarro_-_Self-portrait2_-_Tate_Britain.jpg'', 1903. Tate Gallery, London]] During the early 1930s throughout Europe, Jewish owners of numerous fine art masterpieces found themselves forced to give up or sell off their collections for minimal prices due to anti-Jewish laws created by the new Nazi regime. Many Jews were forced to flee Germany. When those forced into exile owned valuables, including artwork, they were often seized by officials for personal gain. In the decades after World War II, many art masterpieces were found on display in various galleries and museums in Europe and the United States. Some, as a result of legal action, were later returned to the families of the original owners. Many of the recovered paintings were then donated to the same or other museums as a gift.[65]
+'', 1903. Tate Gallery, London]] During the early 1930s throughout Europe, Jewish owners of numerous fine art masterpieces found themselves forced to give up or sell off their collections for minimal prices due to anti-Jewish laws created by the new Nazi regime. Many Jews were forced to flee Germany. When those forced into exile owned valuables, including artwork, they were often seized by officials for personal gain. In the decades after World War II, many art masterpieces were found on display in various galleries and museums in Europe and the United States. Some, as a result of legal action, were later returned to the families of the original owners. Many of the recovered paintings were then donated to the same or other museums as a gift.[65]
 
 One such lost piece, Pissarro's 1897 oil painting, _Rue St. Honoré, Apres Midi, Effet de Pluie_, was discovered hanging at Madrid's government-owned museum, the Museo Thyssen-Bornemisza. In January 2011 the Spanish government denied a request by the US ambassador to return the painting.[66] At the subsequent trial in Los Angeles,[67] the court ruled that the Thyssen-Bornemisza Collection Foundation was the rightful owner.[68] Pissarro's _Le Quai Malaquais, Printemps_ is said to have been similarly stolen,[69] while in 1999, Pissarro's 1897 _Le Boulevard de Montmartre, Matinée de Printemps_ appeared in the Israel Museum in Jerusalem, its donor having been unaware of its pre-war provenance.[70] In January 2012, _Le Marché aux Poissons_ (The Fish Market), a color monotype, was returned after 30 years.[71]
 
@@ -168,7 +168,7 @@ File:Pissarro Camille - Boulevard Montmartre à Paris.jpg| _Boulevard Montmartre
 
 A family of painters
 
-Camille_Pissarro_-_The_Artist's_Palette_with_a_Landscape_(c.1878).jpg]] Camille's son Lucien was an Impressionist and Neo-impressionist painter as were his second and third sons Georges Henri Manzana Pissarro and Félix Pissarro. Lucien's daughter Orovida Pissarro was also a painter. Camille's great-grandson, Joachim Pissarro, became Head Curator of Drawing and Painting at the Museum of Modern Art in New York City and a professor in Hunter College's Art Department.[73] Camille's great-granddaughter, Lélia Pissarro, has had her work exhibited alongside her great-grandfather.[74] From the only daughter of Camille, Jeanne Pissarro, other painters include Henri Bonin-Pissarro (1918–2003) and Claude Bonin-Pissarro (born 1921), who is the father of the Abstract artist Frédéric Bonin-Pissarro (born 1964).
+]] Camille's son Lucien was an Impressionist and Neo-impressionist painter as were his second and third sons Georges Henri Manzana Pissarro and Félix Pissarro. Lucien's daughter Orovida Pissarro was also a painter. Camille's great-grandson, Joachim Pissarro, became Head Curator of Drawing and Painting at the Museum of Modern Art in New York City and a professor in Hunter College's Art Department.[73] Camille's great-granddaughter, Lélia Pissarro, has had her work exhibited alongside her great-grandfather.[74] From the only daughter of Camille, Jeanne Pissarro, other painters include Henri Bonin-Pissarro (1918–2003) and Claude Bonin-Pissarro (born 1921), who is the father of the Abstract artist Frédéric Bonin-Pissarro (born 1964).
 
 
 Paintings

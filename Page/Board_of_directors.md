@@ -1,4 +1,4 @@
-Direktorium_LDE.jpg in 1852]]
+in 1852]]
 
 A BOARD OF DIRECTORS is a group of people who jointly supervise the activities of an organization, which can be either a for-profit business, nonprofit organization, or a government agency. Such a board's powers, duties, and responsibilities are determined by government regulations (including the jurisdiction's corporations law) and the organization's own constitution and bylaws. These authorities may specify the number of members of the board, how they are to be chosen, and how often they are to meet.
 
@@ -65,13 +65,13 @@ Individual directors often serve on more than one board.[8] This practice result
 
 Process and structure
 
-Tetley_Board_Room_31_August_2018_1.jpg in Leeds, England.]]
+in Leeds, England.]]
 
 The process for running a board, sometimes called the board process, includes the selection of board members, the setting of clear board objectives, the dissemination of documents or board package to the board members, the collaborative creation of an agenda for the meeting, the creation and follow-up of assigned action items, and the assessment of the board process through standardized assessments of board members, owners, and CEOs.[9] The science of this process has been slow to develop due to the secretive nature of the way most companies run their boards, however some standardization is beginning to develop. Some who are pushing for this standardization in the USA are the National Association of Corporate Directors, McKinsey and The Board Group.
 
 Board meetings
 
-Board_room_at_the_Walter_Cronkite_School_of_Journalism_and_Mass_Communication.jpg A board of directors conducts its meetings according to the rules and procedures contained in its governing documents. These procedures may allow the board to conduct its business by conference call or other electronic means.[10] They may also specify how a quorum is to be determined.[11]
+A board of directors conducts its meetings according to the rules and procedures contained in its governing documents. These procedures may allow the board to conduct its business by conference call or other electronic means.[10] They may also specify how a quorum is to be determined.[11]
 
 Most organizations have adopted _Robert's Rules of Order_ as its guide to supplement its own rules.[12] In this book, the rules for conducting board meetings may be less formal if there is no more than about a dozen board members present. An example of the informality is that motions are not required if it's clear what is being discussed.[13]
 
@@ -117,7 +117,7 @@ In some European and Asian countries, there are two separate boards, an executiv
 
 History
 
-DirectiekamerVOC.jpg of the , the Dutch East India Company's board of directors, in the Oost-Indisch Huis (Amsterdam). The Dutch East India Company (VOC) is often considered by many to be an early pioneering model of the modern corporation.[23][24][25][26] In 1610, the company established its administrative center (the VOC's second headquarters) in Batavia with a Governor-General in charge, as the company's _de facto_ chief executive.]]
+of the , the Dutch East India Company's board of directors, in the Oost-Indisch Huis (Amsterdam). The Dutch East India Company (VOC) is often considered by many to be an early pioneering model of the modern corporation.[23][24][25][26] In 1610, the company established its administrative center (the VOC's second headquarters) in Batavia with a Governor-General in charge, as the company's _de facto_ chief executive.]]
 
 The development of a separate board of directors to manage/govern/oversee a company has occurred incrementally and indefinitely over legal history. Until the end of the 19th century, it seems to have been generally assumed that the general meeting (of all shareholders) was the supreme organ of a company, and that the board of directors merely acted as an agent of the company subject to the control of the shareholders in general meeting.[27]
 

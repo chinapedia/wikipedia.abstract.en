@@ -12,8 +12,6 @@ Despite their proximity to Qatar (they are only about from the Qatari mainland w
 
 Although there are 36 islands in the group,[8] many of the smaller islands are little more than sand or shingle accumulations on areas of exposed bedrock molded by the ongoing processes of sedimentation and accretion. The application named 8 major islands (see table hereafter), which conforms to the description of the islands when first surveyed as consisting of 8 or 9 islands.[9] It has often been described as an archipelago of 16 islands.[10] Janan Island, to the south of Hawar island, is not legally considered to be a part of the group and is owned by Qatar.[11]
 
-Socotra_Cormorant.jpg
-
 
 Flora and fauna
 
@@ -27,8 +25,6 @@ The islands were listed as a Ramsar site in 1997.[13] In 2002, the Bahraini gove
 Administration
 
 The islands were formerly coincident with municipality or _Minţaqat_ Juzur Ḩawār (مِنْطَقَة جُزُر حَوَار) and are now administered as part of the Southern Governorate of Bahrain.[16]
-
-Hawar_Islands.jpg
 
 
 Tourism

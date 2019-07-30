@@ -41,7 +41,7 @@ Affairs in Constantinople remained confused as Gregory's position was still unof
 
 Second Ecumenical Council and retirement to Nazianzus
 
-3HolyHierarchs.jpg: _(left to right:)_ Basil the Great, John Chrysostom and Gregory the Theologian.]] Theodosius wanted to further unify the entire empire behind the orthodox position and decided to convene a church council to resolve matters of faith and discipline.[44] Gregory was of similar mind in wishing to unify Christianity. In the spring of 381 they convened the Second Ecumenical Council in Constantinople, which was attended by 150 Eastern bishops. After the death of the presiding bishop, Meletius of Antioch, Gregory was selected to lead the Council. Hoping to reconcile the West with the East, he offered to recognize Paulinus as Patriarch of Antioch. The Egyptian and Macedonian bishops who had supported Maximus's ordination arrived late for the Council. Once there, they refused to recognise Gregory's position as head of the church of Constantinople, arguing that his transfer from the See of Sasima was canonically illegitimate.[45]
+: _(left to right:)_ Basil the Great, John Chrysostom and Gregory the Theologian.]] Theodosius wanted to further unify the entire empire behind the orthodox position and decided to convene a church council to resolve matters of faith and discipline.[44] Gregory was of similar mind in wishing to unify Christianity. In the spring of 381 they convened the Second Ecumenical Council in Constantinople, which was attended by 150 Eastern bishops. After the death of the presiding bishop, Meletius of Antioch, Gregory was selected to lead the Council. Hoping to reconcile the West with the East, he offered to recognize Paulinus as Patriarch of Antioch. The Egyptian and Macedonian bishops who had supported Maximus's ordination arrived late for the Council. Once there, they refused to recognise Gregory's position as head of the church of Constantinople, arguing that his transfer from the See of Sasima was canonically illegitimate.[45]
 
 Gregory was physically exhausted and worried that he was losing the confidence of the bishops and the emperor.[46] Rather than press his case and risk further division, he decided to resign his office: "Let me be as the Prophet Jonah! I was responsible for the storm, but I would sacrifice myself for the salvation of the ship. Seize me and throw me ... I was not happy when I ascended the throne, and gladly would I descend it."[47] He shocked the Council with his surprise resignation and then delivered a dramatic speech to Theodosius asking to be released from his offices. The emperor, moved by his words, applauded, commended his labor and granted his resignation. The Council asked him to appear once more for a farewell ritual and celebratory orations. Gregory used this occasion to deliver a final address (Or. 42) and then departed.[48]
 
@@ -52,7 +52,7 @@ Throughout his life Gregory faced stark choices. Should he pursue studies as a r
 
 Legacy
 
-Gregory_of_Nazianzus_from_Vasilyevskiy_chin_(15th_c.,_GTG).jpg, _Gregory the Theologian_ (1408), Dormition Cathedral, Vladimir.]]
+, _Gregory the Theologian_ (1408), Dormition Cathedral, Vladimir.]]
 
 Theological and other works
 

@@ -1,7 +1,5 @@
  ab^(x)|functions of the form f(x,y) {{=}} x^(y)|Exponentiation|functions of the form f(x) {{=}} x^(r)|Power function}}
 
-exp.svg Exponenciala_priklad.png
-
 In mathematics, an EXPONENTIAL FUNCTION is a function of the form where is a positive real number, and in which the argument occurs as an exponent. For real numbers and a function of the form f(x) = ab^(cx + d) is also an exponential function, as it can be rewritten as
 
 _a__b_^(_c__x_ + _d_) = (_a__b_^(_d_))(_b_^(_c_))^(_x_).
@@ -20,8 +18,6 @@ The graph of y = e^(x) is upward-sloping, and increases faster as increases.
 
 
 Formal definition
-
-Exp_series.gif
 
 The real exponential function exp  : ℝ → ℝ can be characterized in a variety of equivalent ways. Most commonly, it is defined by the following power series:[5]
 
@@ -46,7 +42,7 @@ By way of the binomial theorem and the power series definition, the exponential 
 
 Overview
 
-Animation_of_exponential_function.gif The exponential function arises whenever a quantity grows or decays at a rate proportional to its current value. One such situation is continuously compounded interest, and in fact it was this observation that led Jacob Bernoulli in 1683[7] to the number
+The exponential function arises whenever a quantity grows or decays at a rate proportional to its current value. One such situation is continuously compounded interest, and in fact it was this observation that led Jacob Bernoulli in 1683[7] to the number
 
 $$\lim_{n\to\infty}\left(1 + \frac{1}{n}\right)^{n}$$
 
@@ -70,8 +66,6 @@ The exponential function extends to an entire function on the complex plane. Eul
 
 
 Derivatives and differential equations
-
-Exp_tangent.svg
 
 The importance of the exponential function in mathematics and the sciences stems mainly from its definition as the unique function which is equal to its derivative and is equal to 1 when . That is,
 
@@ -116,7 +110,7 @@ $$e^3 = 1 + \cfrac{6}{-1 + \cfrac{3^2}{6 + \cfrac{3^2}{10 + \cfrac{3^2}{14 + \dd
 
 Complex plane
 
-Complex_exp.jpg in the imaginary part of its argument.]]
+in the imaginary part of its argument.]]
 
 As in the real case, the exponential function can be defined on the complex plane in several equivalent forms. The most common definition of the complex exponential function parallels the power series definition for real arguments, where the real variable is replaced by a complex one:
 

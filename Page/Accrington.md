@@ -92,7 +92,7 @@ Bus operators Pilkington Bus and M&M Coaches are based in Accrington, and Holmes
 
 Public services
 
-03-10-08_Accrington_Library.jpg Accrington Library, on St James Street, is a Carnegie library that opened in 1908. It is noted for its stained glass window designed by Gustav Hiller and as a place of inspiration for the young Jeanette Winterson.[53]
+Accrington Library, on St James Street, is a Carnegie library that opened in 1908. It is noted for its stained glass window designed by Gustav Hiller and as a place of inspiration for the young Jeanette Winterson.[53]
 
 Near the Tesco supermarket, there is Accrington Skate Park which is popular during the school holidays. On Broadway, Accrington Police Station serves the Borough of Hyndburn. In April 2003, Hyndburn Community Fire Station opened, also serving the Borough of Hyndburn.
 
@@ -118,7 +118,7 @@ Hyndburn consists of 16 wards, electing a total of 35 councillors. Due to its si
 
 Health
 
-Blackburn-Rd-Regeneration.jpg The local hospital is Accrington Victoria Hospital however, as it only deals with minor issues, Accident and Emergency is provided by the Royal Blackburn Hospital. Other services are provided at the Accrington Pals Primary Health Care Centre and the Accrington Acorn Primary Health Care Centre.
+The local hospital is Accrington Victoria Hospital however, as it only deals with minor issues, Accident and Emergency is provided by the Royal Blackburn Hospital. Other services are provided at the Accrington Pals Primary Health Care Centre and the Accrington Acorn Primary Health Care Centre.
 
 Media
 
@@ -134,7 +134,7 @@ Sport
 
 Football team
 
-Accrington_Stanley_plaque.JPG wall plaque: "Industry and Prudence Conquer"]] Accrington Stanley F.C.,[55] entered the Football League in 1921 with the formation of the old Third Division (North); after haunting the lower reaches of English football for forty years, they eventually resigned from the League in 1962, due to financial problems, and folded in 1965. The club was reformed three years later and then worked its way through the non-league divisions to reach the Nationwide Conference in 2003. In the 2005–06 season, Stanley, after winning against Woking with three matches to spare, secured a place back in the Football League and the town celebrated with a small parade and honours placed on senior executives of the team. One of the teams relegated—and thus being replaced by Stanley—were Oxford United, who were voted into the Football League to replace the previous Accrington Stanley. The football stadium is called the Crown Ground. Until the 2012-13 season, when Fleetwood Town entered the league, Accrington was the smallest town in England and Wales with a Football League club.[56]
+wall plaque: "Industry and Prudence Conquer"]] Accrington Stanley F.C.,[55] entered the Football League in 1921 with the formation of the old Third Division (North); after haunting the lower reaches of English football for forty years, they eventually resigned from the League in 1962, due to financial problems, and folded in 1965. The club was reformed three years later and then worked its way through the non-league divisions to reach the Nationwide Conference in 2003. In the 2005–06 season, Stanley, after winning against Woking with three matches to spare, secured a place back in the Football League and the town celebrated with a small parade and honours placed on senior executives of the team. One of the teams relegated—and thus being replaced by Stanley—were Oxford United, who were voted into the Football League to replace the previous Accrington Stanley. The football stadium is called the Crown Ground. Until the 2012-13 season, when Fleetwood Town entered the league, Accrington was the smallest town in England and Wales with a Football League club.[56]
 
 Accrington Stanley Football Club has had its own pub in the town, the Crown, since July 2007.[57]
 

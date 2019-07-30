@@ -42,7 +42,7 @@ One of the major themes of the novel is the difficulty of soldiers to revert to 
 
 Main characters
 
-AllQuietOnTheWesternFront.jpg poster by Fritz Erler.]]
+poster by Fritz Erler.]]
 
 Albert Kropp
 
@@ -131,7 +131,7 @@ Adaptations
 
 Film
 
-AllQuietWesternFrontPosterA.jpg]]
+]]
 
 In 1930, an American film of the novel was made, directed by Lewis Milestone; with a screenplay by Maxwell Anderson, George Abbott, Del Andrews, C. Gardner Sullivan; and with uncredited work by Walter Anthony and Milestone. It stars Louis Wolheim, Lew Ayres, John Wray, Arnold Lucy, and Ben Alexander.
 

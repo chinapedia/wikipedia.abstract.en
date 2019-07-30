@@ -1,4 +1,4 @@
-Aristotle_and_Phyllis.jpg. Work from 1515.]] A DOMINATRIX (, plural DOMINATRICES ), is a woman who takes the dominant role in BDSM activities. A dominatrix might be of any sexual orientation, but her orientation does not necessarily limit the genders of her submissive partners. The role of a dominatrix may not even involve physical pain toward the submissive; her domination can be verbal, involving humiliating tasks, or servitude. A dominatrix is typically a paid professional (_pro-domme_) as the term _dominatrix_ is little-used within the non-professional BDSM scene.
+. Work from 1515.]] A DOMINATRIX (, plural DOMINATRICES ), is a woman who takes the dominant role in BDSM activities. A dominatrix might be of any sexual orientation, but her orientation does not necessarily limit the genders of her submissive partners. The role of a dominatrix may not even involve physical pain toward the submissive; her domination can be verbal, involving humiliating tasks, or servitude. A dominatrix is typically a paid professional (_pro-domme_) as the term _dominatrix_ is little-used within the non-professional BDSM scene.
 
 The term _domme_ is a coined pseudo-French female variation of the slang _dom_ (short for _dominant_). The use of _domme_, _dominatrix_, _dom_, or _dominant_ by any woman in a dominant role is chosen mostly by personal preference and the conventions of the local BDSM scene.[1] The term MISTRESS or DOMINANT MISTRESS is sometimes also used. _FEMALE DOMINANCE_, _FEMALE DOMINATION_ or _FEMDOM_ refer to BDSM activities in which the dominant partner is female.
 
@@ -14,7 +14,7 @@ Although the term _dominatrix_ was not used, the classic example in literature o
 
 History
 
-Ostra_Studio_violin_student.jpg.]]
+.]]
 
 The history of the dominatrix is argued to date back to rituals of the Goddess Inanna (or Ishtar as she was known in Akkadian), in ancient Mesopotamia. Ancient cuneiform texts consisting of "Hymns to Inanna" have been cited as examples of the archetype of powerful, sexual female displaying dominating behaviors and forcing Gods and men into submission to her.[5] Archaeologist and historian Anne O. Nomis notes that Inanna's rituals included cross-dressing of cult personnel, and rituals "imbued with pain and ecstasy, bringing about initiation and journeys of altered consciousness; punishment, moaning, ecstasy, lament and song, participants exhausting themselves with weeping and grief."[6]
 
@@ -29,7 +29,7 @@ The "bizarre style" (as it came to be called) of leather catsuits, claws, tail w
 
 Professional vs. personal
 
-Dresseuses_d'Hommes_7.jpg of a dominatrix by a submissive man, 1931]] Femdom_at_Eros_Pyramide.jpg in Austria.]]
+of a dominatrix by a submissive man, 1931]] in Austria.]]
 
 The term _dominatrix_ is mostly used to describe a female professional dominant (or "pro-domme") who is paid to engage in BDSM play with a submissive. An appointment or roleplay is referred to as a "session", and is often conducted in a dedicated professional play space which has been set up with specialist equipment, known as a "dungeon". Sessions may also be conducted remotely by letter or telephone, or in the contemporary era of technological connectivity by email or online chat. Most, but not all, clients of female professional dominants are men. Male professional dominants also exist, catering predominantly to the gay male market.
 
@@ -52,7 +52,7 @@ To differentiate women who identify as a dominatrix but do not offer paid servic
 
 Imagery
 
-Vivian_LaVey_at_AVN_Adult_Entertainment_Expo_2011_1.jpg themed latex dress, fishnet stockings and stiletto heels. She is holding a spanking paddle.]]
+themed latex dress, fishnet stockings and stiletto heels. She is holding a spanking paddle.]]
 
 The dominatrix is a female archetype which operates on a symbolic mode of representation, associated with particular attire and props that are drawn on within popular culture to signify her role—as a strong, dominant, sexualised woman—linked to but distinct from images of sexual fetish.[35] During the twentieth century, the imagery associated with dominatrices was developed by the work of a number of artists including the costume designer and photographer Charles Guyette, the publisher and film director Irving Klaw, and the illustrators Eric Stanton and Gene Bilbrew who drew for the fetish magazine Exotique.
 
@@ -109,7 +109,7 @@ Bibliography
 
 External links
 
-David_Shankbone_interviews_two_dominatices_about_strange_client_requests.ogg for the full transcript.]]
+for the full transcript.]]
 
 -   -   Internet Movie Database — dominatrix appearances in films
 -   Femdom lifestyle in erotic industry

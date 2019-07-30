@@ -5,7 +5,7 @@ A second use of the term ARMOUR describes armoured forces, armoured weapons, and
 
 Etymology
 
-Paris_bordone_016.jpg.]] The word "armour" began to appear in the Middle Ages as a derivative of Old French. It is dated from 1297 as a "mail, defensive covering worn in combat". The word originates from the Old French , itself derived from the Latin meaning "arms and/or equipment", with the root meaning "arms or gear".[1]
+.]] The word "armour" began to appear in the Middle Ages as a derivative of Old French. It is dated from 1297 as a "mail, defensive covering worn in combat". The word originates from the Old French , itself derived from the Latin meaning "arms and/or equipment", with the root meaning "arms or gear".[1]
 
 
 Personal
@@ -14,7 +14,7 @@ Armour has been used throughout recorded history. It has been made from a variet
 
 History
 
-Mycenaean_armour_1400BC.jpg, Mycenaean Greek armour, c. 1400 BC]]
+, Mycenaean Greek armour, c. 1400 BC]]
 
 Significant factors in the development of armour include the economic and technological necessities of its production. For instance, plate armour first appeared in Medieval Europe when water-powered trip hammers made the formation of plates faster and cheaper. Also, modern militaries usually do not equip their forces with the best armour available because it would be prohibitively expensive. At times the development of armour has paralleled the development of increasingly effective weaponry on the battlefield, with armourers seeking to create better protection without sacrificing mobility.
 
@@ -34,13 +34,13 @@ Gradually, small additional plates or discs of iron were added to the mail to pr
 
 13th to 18th century Europe
 
-Owain_Glyndwr_Siegel_2.jpg (early 15th century) depicting Owain Glyndŵr, Prince of Wales, in full armour, riding his full barded steed, they are both wearing gold dragon headgear symbolising Arthurian legend]]
+(early 15th century) depicting Owain Glyndŵr, Prince of Wales, in full armour, riding his full barded steed, they are both wearing gold dragon headgear symbolising Arthurian legend]]
 
 Early plate in Italy, and elsewhere in the 13th–15th century, were made of iron. Iron armour could be carburised or case hardened to give a surface of harder steel.[8] Plate armour became cheaper than mail by the 15th century as it required much less labour and labour had become much more expensive after the Black Death, though it did require larger furnaces to produce larger blooms. Mail continued to be used to protect those joints which could not be adequately protected by plate, such as the armpit, crook of the elbow and groin. Another advantage of plate was that a lance rest could be fitted to the breast plate.[9]
 
 The small skull cap evolved into a bigger true helmet, the bascinet, as it was lengthened downward to protect the back of the neck and the sides of the head. Additionally, several new forms of fully enclosed helmets were introduced in the late 14th century.
 
-MET_Armures.jpg war horses, 16th century]] Probably the most recognised style of armour in the world became the plate armour associated with the knights of the European Late Middle Ages, but continuing to the early 17th century Age of Enlightenment in all European countries.
+war horses, 16th century]] Probably the most recognised style of armour in the world became the plate armour associated with the knights of the European Late Middle Ages, but continuing to the early 17th century Age of Enlightenment in all European countries.
 
 By about 1400 the full harness of plate armour had been developed in armouries of Lombardy.[10] Heavy cavalry dominated the battlefield for centuries in part because of their armour.
 
@@ -52,7 +52,7 @@ The horse was afforded protection from lances and infantry weapons by steel plat
 
 Later
 
-Elements_of_a_Light-Cavalry_Armor_MET_DT780.jpg] Gradually, starting in the mid-16th century, one plate element after another was discarded to save weight for foot soldiers.
+] Gradually, starting in the mid-16th century, one plate element after another was discarded to save weight for foot soldiers.
 
 Back and breast plates continued to be used throughout the entire period of the 18th century and through Napoleonic times, in many European (heavy) cavalry units, until the early 20th century. From their introduction, muskets could pierce plate armour, so cavalry had to be far more mindful of the fire. In Japan armour continued to be used until the end of the samurai era, with the last major fighting in which armour was used happening in 1868.[12] Samurai armour had one last short lived use in 1877 during the Satsuma Rebellion.[13]
 
@@ -85,7 +85,7 @@ History
 
 Ships
 
-HMS_Warrior_(1860).jpg during her third commission between 1867 and 1871]]
+during her third commission between 1867 and 1871]]
 
 The first ironclad battleship, with iron armour over a wooden hull, _La Gloire_, was launched by the French Navy in 1859[16] prompting the British Royal Navy to build a counter. The following year they launched HMS _Warrior_, which was twice the size and had iron armour over an iron hull. After the first battle between two ironclads took place in 1862 during the American Civil War, it became clear that the ironclad had replaced the unarmoured line-of-battle ship as the most powerful warship afloat.[17]
 
@@ -94,8 +94,6 @@ Ironclads were designed for several roles, including as high seas battleships, c
 The rapid pace of change in the ironclad period meant that many ships were obsolete as soon as they were complete, and that naval tactics were in a state of flux. Many ironclads were built to make use of the ram or the torpedo, which a number of naval designers considered the crucial weapons of naval combat. There is no clear end to the ironclad period, but towards the end of the 1890s the term _ironclad_ dropped out of use. New ships were increasingly constructed to a standard pattern and designated battleships or armoured cruisers.
 
 Trains
-
-Wagon_pancerny_s.jpg
 
 Armoured trains saw use during the 19th century in the American Civil War (1861–1865), the Franco-Prussian War (1870–1871), the First and Second Boer Wars (1880–81 and 1899–1902),the Polish–Soviet War (1919–1921); the First (1914–1918) and Second World Wars (1939–1945) and the First Indochina War (1946–1954). The most intensive use of armoured trains was during the Russian Civil War (1918–1920).
 
@@ -119,7 +117,7 @@ With the development of effective anti-aircraft artillery in the period before t
 
 Present
 
-Abrams-transparent.png's M1 Abrams MBT uses composite, reactive, and cage armour]] Pannzerung_plastische_deformation.png from defeating projectiles in ballistics testing. Note: When exposed to fire, steel first expands and then loses its strength, exceeding critical temperature at 538°C or 1000°F per ASTM E119 unless treated with fireproofing.]]
+'s M1 Abrams MBT uses composite, reactive, and cage armour]] from defeating projectiles in ballistics testing. Note: When exposed to fire, steel first expands and then loses its strength, exceeding critical temperature at 538°C or 1000°F per ASTM E119 unless treated with fireproofing.]]
 
 Tank armour has progressed from the Second World War armour forms, now incorporating not only harder composites, but also reactive armour designed to defeat shaped charges. As a result of this, the main battle tank (MBT) conceived in the Cold War era can survive multiple RPG strikes with minimal effect on the crew or the operation of the vehicle. The light tanks that were the last descendants of the light cavalry during the Second World War have almost completely disappeared from the world's militaries due to increased lethality of the weapons available to the vehicle-mounted infantry.
 
@@ -138,7 +136,7 @@ Animal armour
 
 Horse armour
 
-Dresden-Zwinger-Armoury-Armor.02.JPG BARDING (also spelled _bard_ or _barb_) is body armour for war horses, especially as used by European knights.
+BARDING (also spelled _bard_ or _barb_) is body armour for war horses, especially as used by European knights.
 
 During the late Middle Ages as armour protection for knights became more effective, their mounts became targets. This vulnerability was exploited by the Scots at the Battle of Bannockburn in the 14th century, when horses were killed by the infantry, and for the English at the Battle of Crécy in the same century where longbowmen shot horses and the then dismounted French knights were killed by heavy infantry. Barding developed as a response to such events.
 

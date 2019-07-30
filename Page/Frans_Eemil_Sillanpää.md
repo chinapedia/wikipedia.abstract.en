@@ -34,8 +34,6 @@ Sillanpää died on 3 June 1964 in Helsinki aged 75.
 
 Works
 
-Mauno-Oittinen-1931.jpg
-
 -   _Elämä ja aurinko_ (1916)
 -   _Ihmislapsia elämän saatossa_ (1917)
 -   _Hurskas kurjuus_ (translated as _Meek Heritage_) (1919)
@@ -58,7 +56,7 @@ Mauno-Oittinen-1931.jpg
 
 Films
 
-F-E-Sillanpaa-1980.jpg Numerous of his works have been made into films:
+Numerous of his works have been made into films:
 
 -   _Nuorena nukkunut_, Teuvo Tulio. 1937
 -   _One Man's Faith_, Nyrki Tapiovaara and Hugo Hytönen. 1940

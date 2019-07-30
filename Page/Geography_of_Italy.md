@@ -1,4 +1,4 @@
-Italy_and_Mediterranean_ESA391025.jpg Italy_Köppen.svg types of Italy]] ITALY is located in southern Europe and comprises the long, boot-shaped Italian Peninsula, the southern side of Alps, the large plain of the Po Valley and some islands including Sicily and Sardinia. Corsica, although belonging to the Italian geographical region, has been a part of France since 1769. Italy is part of the Northern Hemisphere.
+types of Italy]] ITALY is located in southern Europe and comprises the long, boot-shaped Italian Peninsula, the southern side of Alps, the large plain of the Po Valley and some islands including Sicily and Sardinia. Corsica, although belonging to the Italian geographical region, has been a part of France since 1769. Italy is part of the Northern Hemisphere.
 
 Its total area is , of which is land and . It lies between latitudes 35° and 48° N, and longitudes 6° and 19° E.
 
@@ -9,7 +9,7 @@ Including islands, Italy has a coastline of on the Adriatic Sea, Ionian Sea, Tyr
 
 Mountains and plains
 
-Mont_Blanc_from_Aosta_Valley.JPG.]] Italy_topographic_map-blank.svg Almost 40% of the Italian territory is mountainous,[1] with the Alps as the northern boundary and the Apennine Mountains forming the backbone of the peninsula and extending for .[2] In between the two lies a large plain in the valley of the Po, the largest river in Italy, which flows eastward from the Cottian Alps to the Adriatic. The Po Valley is the largest plain in Italy, with , and it represents over 70% of the total plain area in the country.[3]
+.]] Almost 40% of the Italian territory is mountainous,[1] with the Alps as the northern boundary and the Apennine Mountains forming the backbone of the peninsula and extending for .[2] In between the two lies a large plain in the valley of the Po, the largest river in Italy, which flows eastward from the Cottian Alps to the Adriatic. The Po Valley is the largest plain in Italy, with , and it represents over 70% of the total plain area in the country.[3]
 
 The Alpine mountain range is linked with the Apennines with the Colle di Cadibona pass in the Ligurian Alps.
 
@@ -32,7 +32,7 @@ Maritime claims
 
 Lakes
 
-Altstadt_von_Malcesine-2.jpg is the largest of the Italian lakes.]] In the north of the country are a number of subalpine moraine-dammed lakes, the largest of which is Garda (). Other well known of these subalpine lakes are Lake Maggiore (), whose most northerly section is part of Switzerland, Como (), Orta, Lugano, Iseo, Idro.
+is the largest of the Italian lakes.]] In the north of the country are a number of subalpine moraine-dammed lakes, the largest of which is Garda (). Other well known of these subalpine lakes are Lake Maggiore (), whose most northerly section is part of Switzerland, Como (), Orta, Lugano, Iseo, Idro.
 
 Other notable lakes in the Italian peninsula are Trasimeno, Bolsena, Bracciano, Vico, Varano and Lesina in Gargano and Omodeo in Sardinia.
 

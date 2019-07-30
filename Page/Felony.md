@@ -90,7 +90,7 @@ The 1937 Constitution declares that the parliamentary privilege, which protects 
 
 United States
 
-Felony_Sentences_in_State_Courts.pdf.]]
+.]]
 
 The reform of harsh felony laws that had originated in Great Britain was deemed "one of the first fruits of liberty" after the United States became independent.[23]
 

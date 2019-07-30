@@ -31,7 +31,7 @@ Despite the good news, Shōmu did not return to Heijō-kyō immediately, but sta
 
 Timeline
 
-Tōdai-ji_Kon-dō.jpg]]
+]]
 
 -   724 (_Jinki 1_): Emperor Shōmu rises to throne.[35]
 -   740 (_Tenpyō 12, 8th month_): In the Imperial court in Nara, Kibi no Makibi and Genbō conspire to discredit Fujiwara no Hirotsugu, who is _Dazai shoni_ in Kyushu.[36]
@@ -57,7 +57,7 @@ Earlier in 741, he established the system of provincial temples, making this the
 
 Emperor Shōmu died at age 56.[51]
 
-Burialmound_EmperorShomu_Nara.jpg The actual site of Shōmu's grave is known.[52] This emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Nara.
+The actual site of Shōmu's grave is known.[52] This emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Nara.
 
 The Imperial Household Agency designates this location as Shōmu's mausoleum. It is formally named _Sahoyama no minami no misasagi_.[53] The tomb site can be visited today in Horenji-cho, Tenri City near Nara City.[54] The Imperial tomb of Shōmu's consort, Empress Kōmyō, is located nearby.[55]
 
@@ -115,7 +115,7 @@ See also
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

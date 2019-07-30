@@ -95,7 +95,7 @@ In 2006, Knuth was diagnosed with prostate cancer. He underwent surgery in Decem
 
 Humor
 
-knuth-check2.png]] Jacob_Appelbaum_and_Donald_Knuth.jpg"—Donald Knuth (on Jacob Appelbaum's shirt within the two parentheses), Jacob Appelbaum, and Donald Knuth]] Knuth used to pay a finder's fee of $2.56 for any typographical errors or mistakes discovered in his books, because "256 pennies is one hexadecimal dollar", and $0.32 for "valuable suggestions". According to an article in the Massachusetts Institute of Technology's _Technology Review_, these Knuth reward checks are "among computerdom's most prized trophies". Knuth had to stop sending real checks in 2008 due to bank fraud, and instead now gives each error finder a "certificate of deposit" from a publicly listed balance in his fictitious "Bank of San Serriffe".[49]
+]] "—Donald Knuth (on Jacob Appelbaum's shirt within the two parentheses), Jacob Appelbaum, and Donald Knuth]] Knuth used to pay a finder's fee of $2.56 for any typographical errors or mistakes discovered in his books, because "256 pennies is one hexadecimal dollar", and $0.32 for "valuable suggestions". According to an article in the Massachusetts Institute of Technology's _Technology Review_, these Knuth reward checks are "among computerdom's most prized trophies". Knuth had to stop sending real checks in 2008 due to bank fraud, and instead now gives each error finder a "certificate of deposit" from a publicly listed balance in his fictitious "Bank of San Serriffe".[49]
 
 He once warned a correspondent, "Beware of bugs in the above code; I have only proved it correct, not tried it."[50]
 

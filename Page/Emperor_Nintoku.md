@@ -45,8 +45,6 @@ Consort: , daughter of
 
 Nintoku's tomb
 
-NintokuTomb.jpg К_душам.jpg
-
 Daisen Kofun (the largest tomb in Japan) in Sakai, Osaka, is considered to be his final resting place. The actual site of Nintoku's grave is not known.[10]
 
 The Nintoku-ryo tumulus is one of almost 50 tumuli collectively known as "Mozu Kofungun" clustered around the city, and covers the largest area of any tomb in the world. Built in the middle of the 5th century by an estimated 2,000 men working daily for almost 16 years, the Nintoku tumulus, at 486 meters long and with a mound 35 meters high, is twice as long as the base of the famous Great Pyramid of Pharaoh Khufu (Cheops) in Giza.[11]

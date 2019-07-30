@@ -1,12 +1,10 @@
-Aegadian_Islands_map.png Mare_Favignana.JPG
-
 The '''Aegadian Islands ''' (; , , ) are a group of five small mountainous islands in the Mediterranean Sea off the northwest coast of Sicily, Italy, near the cities of Trapani and Marsala, with a total area of .[1]
 
 The Island of Favignana (_Aegusa_), the largest, lies southwest of Trapani; Levanzo (_Phorbantia_) lies west; and Marettimo, the ancient _Hiera Nesos_, west of Trapani, is now reckoned as a part of the group. There are also two minor islands, Formica and Maraone, lying between Levanzo and Sicily. For administrative purposes the archipelago constitutes the comune of Favignana in the Province of Trapani.
 
 The overall population in 2017 was 4,292.[2] Winter frost is unknown and rainfall is low. The main occupation of the islanders is fishing, and the largest tuna fishery in Sicily is there.
 
-Favignana_cala_azzurra.jpg Erice-views-bjs-2.jpg to Favignana and Levanzo. On the horizon Marettimo is faintly visible.]] {{-}}
+to Favignana and Levanzo. On the horizon Marettimo is faintly visible.]] {{-}}
 
 
 History

@@ -1,4 +1,4 @@
-Light_wave_harmonic_diagram.svg. The harmonic-analysis chart shows how the different wavelengths interact with red light. At a difference of λ/2 (half wavelength), red is perfectly in sync with its second harmonic in the ultraviolet. All other wavelengths in the visual spectrum have less than a λ/2 difference between them, forming harmonic oscillations in the combined waves. At λ/14, the oscillations cycle every 14th wave, while at λ/8 they will cycle every 8th. The oscillations are most rapid at λ/4, cycling every 4th wave, while at λ/3 they cycle every 7th wave, and at λ/2.5 they cycle every 13th. The lower section shows how the λ/4 harmonic interacts in visible light (green and red), as photographed in an optical flat.]]
+. The harmonic-analysis chart shows how the different wavelengths interact with red light. At a difference of λ/2 (half wavelength), red is perfectly in sync with its second harmonic in the ultraviolet. All other wavelengths in the visual spectrum have less than a λ/2 difference between them, forming harmonic oscillations in the combined waves. At λ/14, the oscillations cycle every 14th wave, while at λ/8 they will cycle every 8th. The oscillations are most rapid at λ/4, cycling every 4th wave, while at λ/3 they cycle every 7th wave, and at λ/2.5 they cycle every 13th. The lower section shows how the λ/4 harmonic interacts in visible light (green and red), as photographed in an optical flat.]]
 
 HARMONIC ANALYSIS is a branch of mathematics concerned with the representation of functions or signals as the superposition of basic waves, and the study of and generalization of the notions of Fourier series and Fourier transforms (i.e. an extended form of Fourier analysis). In the past two centuries, it has become a vast subject with applications in areas as diverse as number theory, representation theory, signal processing, quantum mechanics, tidal analysis and neuroscience.
 
@@ -11,8 +11,6 @@ Fourier series can be conveniently studied in the context of Hilbert spaces, whi
 
 Applied harmonic analysis
 
-Bass_Guitar_Time_Signal_of_open_string_A_note_(55_Hz).png Fourier_Transform_of_bass_guitar_time_signal.png
-
 Many applications of harmonic analysis in science and engineering begin with the idea or hypothesis that a phenomenon or signal is composed of a sum of individual oscillatory components. Ocean tides and vibrating strings are common and simple examples. The theoretical approach is often to try to describe the system by a differential equation or system of equations to predict the essential features, including the amplitude, frequency, and phases of the oscillatory components. The specific equations depend on the field, but theories generally try to select equations that represent major principles that are applicable.
 
 The experimental approach is usually to acquire data that accurately quantifies the phenomenon. For example, in a study of tides, the experimentalist would acquire samples of water depth as a function of time at closely enough spaced intervals to see each oscillation and over a long enough duration that multiple oscillatory periods are likely included. In a study on vibrating strings, it is common for the experimentalist to acquire a sound waveform sampled at a rate at least twice that of the highest frequency expected and for a duration many times the period of the lowest frequency expected.
@@ -22,7 +20,7 @@ For example, the top signal at the right is a sound waveform of a bass guitar pl
 
 Abstract harmonic analysis
 
-Lord_Kelvin's_harmonic_analyser_1876,_Hunterian_Museum,_Glasgow.jpg's harmonic analyser 1876, Hunterian Museum, Glasgow]] One of the most modern branches of harmonic analysis, having its roots in the mid-20th century, is analysis on topological groups. The core motivating ideas are the various Fourier transforms, which can be generalized to a transform of functions defined on Hausdorff locally compact topological groups.
+'s harmonic analyser 1876, Hunterian Museum, Glasgow]] One of the most modern branches of harmonic analysis, having its roots in the mid-20th century, is analysis on topological groups. The core motivating ideas are the various Fourier transforms, which can be generalized to a transform of functions defined on Hausdorff locally compact topological groups.
 
 The theory for abelian locally compact groups is called Pontryagin duality.
 

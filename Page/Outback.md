@@ -1,15 +1,15 @@
-Yalgoo_Shire.jpg sign post in Yalgoo, Western Australia]] The OUTBACK is the vast, remote interior of Australia. "The Outback" is more remote than those areas named "the bush", which include any location outside the main urban areas.
+sign post in Yalgoo, Western Australia]] The OUTBACK is the vast, remote interior of Australia. "The Outback" is more remote than those areas named "the bush", which include any location outside the main urban areas.
 
 While often envisaged as being arid, the Outback regions extend from the northern to southern Australian coastlines and encompass a number of climatic zones, including tropical and monsoonal climates in northern areas, arid areas in the "red centre" and semi-arid and temperate climates in southerly regions.[1]
 
 Geographically, the Outback is unified by a combination of factors, most notably a low human population density, a largely intact natural environment and, in many places, low-intensity land uses, such as pastoralism (livestock grazing) in which production is reliant on the natural environment.[2]
 
-Culturally, the Outback is deeply ingrained in Australian heritage, history and folklore. In 2009, as part of the Q150 celebrations, the Queensland Outback was announced as one of the Q150 Icons of Queensland for its role as a "natural attraction".[3] Dogfence.jpg near Coober Pedy]]
+Culturally, the Outback is deeply ingrained in Australian heritage, history and folklore. In 2009, as part of the Q150 celebrations, the Queensland Outback was announced as one of the Q150 Icons of Queensland for its role as a "natural attraction".[3] near Coober Pedy]]
 
 
 History
 
-Kata_Tjuta_Aerial.jpg]] Indigenous Australians have lived in the Outback for approximately 50,000 years[4] and occupied all Outback regions, including the driest deserts, when Europeans first entered central Australia in the 1800s. Many Indigenous Australians retain strong physical and cultural links to their traditional country and are legally recognised as the Traditional Owners of large parts of the Outback under Commonwealth Native Title legislation.
+]] Indigenous Australians have lived in the Outback for approximately 50,000 years[4] and occupied all Outback regions, including the driest deserts, when Europeans first entered central Australia in the 1800s. Many Indigenous Australians retain strong physical and cultural links to their traditional country and are legally recognised as the Traditional Owners of large parts of the Outback under Commonwealth Native Title legislation.
 
 Early European exploration of inland Australia was sporadic. More focus was on the more accessible and fertile coastal areas. The first party to successfully cross the Blue Mountains just outside Sydney was led by Gregory Blaxland in 1813, 25 years after the colony was established. People starting with John Oxley in 1817, 1818 and 1821, followed by Charles Sturt in 1829–1830 attempted to follow the westward-flowing rivers to find an "inland sea", but these were found to all flow into the Murray River and Darling River which turn south.
 
@@ -23,14 +23,14 @@ In 1865 the surveyor George Goyder, using changes in vegetation patterns, mapped
 
 Exploration of the outback continued in the 1950s when Len Beadell explored, surveyed and built many roads in support of the nuclear weapons tests at Emu Field and Maralinga and rocket testing on the Woomera Prohibited Area. Mineral exploration continues as new mineral deposits are identified and developed.
 
-While the early explorers used horses to cross the outback, the first woman to make the journey riding a horse was Anna Hingley, who rode from Broome to Cairns in 2006.[7] Australia_satellite_plane.jpg
+While the early explorers used horses to cross the outback, the first woman to make the journey riding a horse was Anna Hingley, who rode from Broome to Cairns in 2006.[7]
 
 
 Environment
 
 Global significance
 
-West_MacDonnell_National_Park.JPG are found in the centre of the country]] Fitzgerald_River_National_Park_DSC04436.JPG in Western Australia]] BrunbyAusschnitt.jpg The paucity of industrial land use has led to the Outback being recognised globally as one of the largest remaining intact natural areas on Earth.[8] Global "Human Footprint"[9] and wilderness[10] reviews highlight the importance of Outback Australia as one of the world's large natural areas, along with the Boreal forests and Tundra regions in North America, the Sahara and Gobi deserts and the tropical forests of the Amazon and Congo Basins. The savanna (or grassy woodlands) of northern Australia are the largest, intact savanna regions in the world.[11] In the south, the Great Western Woodlands, which occupy , an area larger than all of England and Wales, are the largest remaining temperate woodland left on Earth.
+are found in the centre of the country]] in Western Australia]] The paucity of industrial land use has led to the Outback being recognised globally as one of the largest remaining intact natural areas on Earth.[8] Global "Human Footprint"[9] and wilderness[10] reviews highlight the importance of Outback Australia as one of the world's large natural areas, along with the Boreal forests and Tundra regions in North America, the Sahara and Gobi deserts and the tropical forests of the Amazon and Congo Basins. The savanna (or grassy woodlands) of northern Australia are the largest, intact savanna regions in the world.[11] In the south, the Great Western Woodlands, which occupy , an area larger than all of England and Wales, are the largest remaining temperate woodland left on Earth.
 
 Major ecosystems
 
@@ -61,7 +61,7 @@ Industry
 
 Pastoralism
 
-ISS007_Gosses_Bluff.jpg, one of a number of meteor impact craters that can be found across outback Australia]] The largest industry across the Outback, in terms of the area occupied, is pastoralism, in which cattle, sheep, and sometimes goats, are grazed in mostly intact, natural ecosystems. Widespread use of bore water, obtained from underground aquifers, including the Great Artesian Basin, has enabled livestock to be grazed across vast areas in which no permanent surface water exists naturally.
+, one of a number of meteor impact craters that can be found across outback Australia]] The largest industry across the Outback, in terms of the area occupied, is pastoralism, in which cattle, sheep, and sometimes goats, are grazed in mostly intact, natural ecosystems. Widespread use of bore water, obtained from underground aquifers, including the Great Artesian Basin, has enabled livestock to be grazed across vast areas in which no permanent surface water exists naturally.
 
 Capitalising on the lack of pasture improvement and absence of fertiliser and pesticide use, many Outback pastoral properties are certified as organic livestock producers. In 2014, , most of which is in Outback Australia, was fully certified as organic farm production, making Australia the largest certified organic production area in the world.
 
@@ -94,7 +94,7 @@ There are many popular tourist attractions in the Outback. Some of the well know
 
 Mining
 
-LightningRidgeMines.jpg]] Other than agriculture and tourism, the main economic activity in this vast and sparsely settled area is mining. Owing to the almost complete absence of mountain building and glaciation since the Permian (in many areas since the Cambrian) ages, the outback is extremely rich in iron, aluminium, manganese and uranium ores, and also contains major deposits of gold, nickel, copper, lead and zinc ores. Because of its size, the value of grazing and mining is considerable. Major mines and mining areas in the Outback include opals at Coober Pedy, Lightning Ridge and White Cliffs, metals at Broken Hill, Tennant Creek, Olympic Dam and the remote Challenger Mine. Oil and gas are extracted in the Cooper Basin around Moomba.
+]] Other than agriculture and tourism, the main economic activity in this vast and sparsely settled area is mining. Owing to the almost complete absence of mountain building and glaciation since the Permian (in many areas since the Cambrian) ages, the outback is extremely rich in iron, aluminium, manganese and uranium ores, and also contains major deposits of gold, nickel, copper, lead and zinc ores. Because of its size, the value of grazing and mining is considerable. Major mines and mining areas in the Outback include opals at Coober Pedy, Lightning Ridge and White Cliffs, metals at Broken Hill, Tennant Creek, Olympic Dam and the remote Challenger Mine. Oil and gas are extracted in the Cooper Basin around Moomba.
 
 In Western Australia the Argyle diamond mine in the Kimberley is the world's biggest producer of natural diamonds and contributes approximately one-third of the world's natural supply. The Pilbara region's economy is dominated by mining and petroleum industries.[17] Most of Australia's iron ore is also mined in the Pilbara and it also has one of the world's major manganese mines.
 
@@ -108,7 +108,7 @@ The total population of the Outback in Australia declined from 700,000 in 1996 t
 
 Medicine
 
-RFDS_emergency_landing_strip_sign.jpg indicating that an RFDS emergency airstrip is ahead]] The Royal Flying Doctor Service (RFDS) started service in 1928 and helps people who live in the outback of Australia. In former times, serious injuries or illnesses often meant death due to the lack of proper medical facilities and trained personnel.
+indicating that an RFDS emergency airstrip is ahead]] The Royal Flying Doctor Service (RFDS) started service in 1928 and helps people who live in the outback of Australia. In former times, serious injuries or illnesses often meant death due to the lack of proper medical facilities and trained personnel.
 
 
 Education
@@ -127,7 +127,7 @@ It is colloquially said that 'the outback' is located "beyond the Black Stump". 
 
 Transport
 
-Gibb_River_Rd-1.jpg The outback is criss-crossed by historic tracks. Most of the major highways have an excellent bitumen surface and other major roads are usually well-maintained dirt roads. Tracks in very sandy or exceedingly rocky areas may require high-clearance four wheel drives and spare fuel, tyres, food and water before attempting to travel them, however most outback roads are easily traversed in ordinary vehicles, provided care is taken. Drivers unused to dirt roads should be especially cautious – it is recommended that drivers reduce their speed, drive with extra care, and avoid driving at night because animals can stray onto roads. Travelling in remote areas in northern Australia is not advisable during the wet season (November to April), as heavy tropical downpours can quickly make dirt roads impassable. In the remotest parts of Australia fuel sellers are located hundreds of kilometres apart, so spare fuel must be carried or refuelling spots calculated carefully in order not to run out of fuel in between towns. In addition, multiple trailer trucks (known as Road Trains) traverse these roads and extreme care must be taken when around these vehicles, due to their weight, length (often three full trailers long) and amount of dust thrown up by over 46 tyres.
+The outback is criss-crossed by historic tracks. Most of the major highways have an excellent bitumen surface and other major roads are usually well-maintained dirt roads. Tracks in very sandy or exceedingly rocky areas may require high-clearance four wheel drives and spare fuel, tyres, food and water before attempting to travel them, however most outback roads are easily traversed in ordinary vehicles, provided care is taken. Drivers unused to dirt roads should be especially cautious – it is recommended that drivers reduce their speed, drive with extra care, and avoid driving at night because animals can stray onto roads. Travelling in remote areas in northern Australia is not advisable during the wet season (November to April), as heavy tropical downpours can quickly make dirt roads impassable. In the remotest parts of Australia fuel sellers are located hundreds of kilometres apart, so spare fuel must be carried or refuelling spots calculated carefully in order not to run out of fuel in between towns. In addition, multiple trailer trucks (known as Road Trains) traverse these roads and extreme care must be taken when around these vehicles, due to their weight, length (often three full trailers long) and amount of dust thrown up by over 46 tyres.
 
 The Stuart Highway runs from north to south through the centre of the continent, roughly paralleled by the Adelaide–Darwin railway. There is a proposal to develop some of the roads running from the south-west to the north-east to create an all-weather road named the Outback Highway, crossing the continent diagonally from Laverton, Western Australia (north of Kalgoorlie, through the Northern Territory to Winton, in Queensland.
 

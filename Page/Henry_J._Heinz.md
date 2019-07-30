@@ -1,4 +1,4 @@
-F.L._Brown,_S.P._Leet,_Rev._J.G._Holdcroft,_Marion_Lawrence,_H.J._Heinz,_Bishop_J.C._Hartzell_in_1917.jpg in 1917]]
+in 1917]]
 
 HENRY JOHN HEINZ (October 11, 1844 – May 14, 1919) was a German-American entrepreneur who founded the H. J. Heinz Company based in Pittsburgh, Pennsylvania. He was born in that city, the son of German immigrants who came independently to the United States in the early 1840s. Heinz developed his business into a national company which made more than 60 food products; one of its first was tomato ketchup. He was influential for introducing high sanitary standards for food manufacturing. He also exercised a paternal relationship with his workers, providing health benefits, recreation facilities, and cultural amenities. Heinz was the great-grandfather of former U.S. Senator H. John Heinz III of Pennsylvania.
 

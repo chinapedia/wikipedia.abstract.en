@@ -11,7 +11,7 @@ Unlike all subsequent Pauline epistles, 1 Thessalonians does not focus on justif
 
 Authenticity
 
-Minuscule_699_(GA)_folio_18.jpg gives its title as προς θεσσαλονικεις, "To the Thessalonians."]] The majority of New Testament scholars hold 1 Thessalonians to be authentic, although a number of scholars in the mid-19th century contested its authenticity, most notably Clement Schrader and F.C. Baur.[4] 1 Thessalonians matches other accepted Pauline letters, both in style and in content, and its authorship is also affirmed by 2 Thessalonians.[5]
+gives its title as προς θεσσαλονικεις, "To the Thessalonians."]] The majority of New Testament scholars hold 1 Thessalonians to be authentic, although a number of scholars in the mid-19th century contested its authenticity, most notably Clement Schrader and F.C. Baur.[4] 1 Thessalonians matches other accepted Pauline letters, both in style and in content, and its authorship is also affirmed by 2 Thessalonians.[5]
 
 have often been regarded as a post-Pauline interpolation. The following arguments have been based on the content:
 

@@ -1,11 +1,11 @@
-DSCN3606-hydraulic-ram.JPG]]
+]]
 
 A HYDRAULIC RAM, or HYDRAM, is a cyclic water pump powered by hydropower. It takes in water at one "hydraulic head" (pressure) and flow rate, and outputs water at a higher hydraulic head and lower flow rate. The device uses the water hammer effect to develop pressure that allows a portion of the input water that powers the pump to be lifted to a point higher than where the water originally started. The hydraulic ram is sometimes used in remote areas, where there is both a source of low-head hydropower and a need for pumping water to a destination higher in elevation than the source. In this situation, the ram is often useful, since it requires no outside source of power other than the kinetic energy of flowing water.
 
 
 History
 
-Ram_Pump_(Vogn_2011)_ubt.ogv, Nordjylland, Denmark]]
+, Nordjylland, Denmark]]
 
 In 1772, John Whitehurst of Cheshire, United Kingdom, invented a manually controlled precursor of the hydraulic ram called the "pulsation engine" and installed the first one at Oulton, Cheshire to raise water to a height of .[1][2] In 1783, he installed another in Ireland. He did not patent it, and details are obscure, but it is known to have had an air vessel.
 
@@ -15,7 +15,7 @@ Easton's firm, inherited by his son James (1796–1871), grew during the ninetee
 
 The firm closed in 1909, but the ram business was continued by James R. Easton. In 1929, it was acquired by Green & Carter[6] [7] of Winchester, Hampshire, who were engaged in the manufacturing and installation of Vulcan and Vacher Rams.
 
-Roscheiderhof-lambachpumpe.jpg]] The first US patent was issued to Joseph Cerneau (or Curneau) and Stephen (Étienne) S. Hallet (1755-1825) in 1809.See:
+]] The first US patent was issued to Joseph Cerneau (or Curneau) and Stephen (Étienne) S. Hallet (1755-1825) in 1809.See:
 
 -   _Executive Documents of the House of Representatives at the Second Session of the Twenty-first Congress_, vol. 2 (Washington, D.C.: Duff Green, 1831), pages 328 and 332.
 -   Letter from Stephen S. Hallet to U.S. President James Madison, September 9, 1808. Available on-line at: U.S. National Archives.[8] US interest in hydraulic rams picked up around 1840, as further patents were issued and domestic companies started offering rams for sale. Toward the end of the 19th century, interest waned as electricity and electric pumps became widely available.
@@ -33,13 +33,7 @@ The Papa hydraulic ram pump also has only two moving parts. However, these are n
 
 Sequence of operation
 
-Figure 2: Basic components of a hydraulic ram:
-1. Inlet – drive pipe
-2. Free flow at waste valve
-3. Outlet – delivery pipe
-4. Waste valve
-5. Delivery check valve
-6. Pressure vessel A simplified hydraulic ram is shown in Figure 2. Initially, the waste valve [4] is open (i.e. lowered) because of its own weight, and the delivery valve [5] is closed under the pressure caused by the water column from the outlet [3]. The water in the inlet pipe [1] starts to flow under the force of gravity and picks up speed and kinetic energy until the increasing drag force lifts the waste valve's weight and closes it. The momentum of the water flow in the inlet pipe against the now closed waste valve causes a water hammer that raises the pressure in the pump beyond the pressure caused by the water column pressing down from the outlet. This pressure differential now opens the delivery valve [5], and forces some water to flow into the delivery pipe [3]. Because this water is being forced uphill through the delivery pipe farther than it is falling downhill from the source, the flow slows; when the flow reverses, the delivery check valve [5] closes. Meanwhile, the water hammer from the closing of the waste valve also produces a pressure pulse which propagates back up the inlet pipe to the source where it converts to a suction pulse that propagates back down the inlet pipe. This suction pulse, with the weight or spring on the valve, pulls the waste valve back open and allows the process to begin again.
+A simplified hydraulic ram is shown in Figure 2. Initially, the waste valve [4] is open (i.e. lowered) because of its own weight, and the delivery valve [5] is closed under the pressure caused by the water column from the outlet [3]. The water in the inlet pipe [1] starts to flow under the force of gravity and picks up speed and kinetic energy until the increasing drag force lifts the waste valve's weight and closes it. The momentum of the water flow in the inlet pipe against the now closed waste valve causes a water hammer that raises the pressure in the pump beyond the pressure caused by the water column pressing down from the outlet. This pressure differential now opens the delivery valve [5], and forces some water to flow into the delivery pipe [3]. Because this water is being forced uphill through the delivery pipe farther than it is falling downhill from the source, the flow slows; when the flow reverses, the delivery check valve [5] closes. Meanwhile, the water hammer from the closing of the waste valve also produces a pressure pulse which propagates back up the inlet pipe to the source where it converts to a suction pulse that propagates back down the inlet pipe. This suction pulse, with the weight or spring on the valve, pulls the waste valve back open and allows the process to begin again.
 
 A pressure vessel [6] containing air cushions the hydraulic pressure shock when the waste valve closes, and it also improves the pumping efficiency by allowing a more constant flow through the delivery pipe. Although the pump could in theory work without it, the efficiency would drop drastically and the pump would be subject to extraordinary stresses that could shorten its life considerably. One problem is that the pressurized air will gradually dissolve into the water until none remains. One solution to this problem is to have the air separated from the water by an elastic diaphragm (similar to an expansion tank); however, this solution can be problematic in developing countries where replacements are difficult to procure. Another solution is to have a mechanism such as a snifting valve that automatically inserts a small bubble of air when the suction pulse described above reaches the pump.[12] Another solution is to insert an inner tube of a car or bicycle tire into the pressure vessel with some air in it and the valve closed. This tube is in effect the same as the diaphragm, but it is implemented with more widely available materials. The air in the tube cushions the shock of the water the same as the air in other configurations does.
 

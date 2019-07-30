@@ -1,11 +1,11 @@
-Arc_welding_electrodes_and_electrode_holder.triddle.jpg]] An ELECTRODE is an electrical conductor used to make contact with a nonmetallic part of a circuit (e.g. a semiconductor, an electrolyte, a vacuum or air). The word was coined by William Whewell at the request of the scientist Michael Faraday from two Greek words: _elektron_, meaning amber (from which the word electricity is derived), and _hodos_, a way.[1][2]
+]] An ELECTRODE is an electrical conductor used to make contact with a nonmetallic part of a circuit (e.g. a semiconductor, an electrolyte, a vacuum or air). The word was coined by William Whewell at the request of the scientist Michael Faraday from two Greek words: _elektron_, meaning amber (from which the word electricity is derived), and _hodos_, a way.[1][2]
 
 The electrophore, invented by Johan Wilcke, was an early version of an electrode used to study static electricity.[3]
 
 
 Anode and cathode in electrochemical cells
 
-Конфигурација_на_електрода.jpg An electrode in an electrochemical cell is referred to as either an _anode_ or a _cathode_ (words that were coined by William Whewell at Faraday's request).[4] The anode is now defined as the electrode at which electrons leave the cell and oxidation occurs (indicated by a minus symbol, "−"), and the cathode as the electrode at which electrons enter the cell and reduction occurs (indicated by a plus symbol, "+"). Each electrode may become either the anode or the cathode depending on the direction of current through the cell. A bipolar electrode is an electrode that functions as the anode of one cell and the cathode of another cell.
+An electrode in an electrochemical cell is referred to as either an _anode_ or a _cathode_ (words that were coined by William Whewell at Faraday's request).[4] The anode is now defined as the electrode at which electrons leave the cell and oxidation occurs (indicated by a minus symbol, "−"), and the cathode as the electrode at which electrons enter the cell and reduction occurs (indicated by a plus symbol, "+"). Each electrode may become either the anode or the cathode depending on the direction of current through the cell. A bipolar electrode is an electrode that functions as the anode of one cell and the cathode of another cell.
 
 Primary cell
 

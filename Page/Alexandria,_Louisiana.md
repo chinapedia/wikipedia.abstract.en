@@ -1,6 +1,6 @@
-Alexandria_Welcome_Sign.JPG West.]]
+West.]]
 
-Rotary_Club_clock_(1916)_with_Alexandria_City_Hall_in_background_IMG_4314.JPG Clock (1916), with Alexandria City Hall (constructed 1963) in the background]]
+Clock (1916), with Alexandria City Hall (constructed 1963) in the background]]
 
 ALEXANDRIA is the ninth-largest city in the state of Louisiana and is the parish seat of Rapides Parish, Louisiana, United States.[1] It lies on the south bank of the Red River in almost the exact geographic center of the state. It is the principal city of the Alexandria metropolitan area (population 153,922) which encompasses all of Rapides and Grant parishes. Its neighboring city is Pineville. In 2010, the population was 47,723, an increase of 3 percent from the 2000 census.[2]
 
@@ -36,9 +36,7 @@ Alexandria is located at [17] and has an elevation of .[18]
 
 According to the United States Census Bureau, the city has a total area of , of which 26.4 square miles (68.4 km²) is land and 0.6 square mile (1.5 km²) (2.15%) is water.
 
-Bayou_Rapides_in_Alexandria,_LA_IMG_1082.JPG
-
-AlexandriaRitaDamage.jpg]]
+]]
 
 Alexandria is on a level plain in the center of the Louisiana Longleaf Pine forests, in which pine is interspersed with various hardwoods. A number of small bayous, such as Bayou Rapides, Bayou Robert, and Hynson Bayou, meander throughout the city. In the immediate vicinity of the city, cotton, sugar, alfalfa, and garden vegetables are cultivated.
 
@@ -60,11 +58,9 @@ The median income for a household in the city was $26,097, and the median income
 
 Religion
 
-St._Francis_Xavier_Cathedral,_Alexandria,_LA_IMG_4357.JPG
+in Alexandria]]
 
-Pentecostal_Church,_Alexandria,_LA_IMG_1081.JPG in Alexandria]]
-
-Emmanuel_Baptist_Church,_Alexandria,_LA_IMG_1165.JPG Church on Jackson Street in downtown Alexandria]]
+Church on Jackson Street in downtown Alexandria]]
 
 Like many other southern cities, the largest single church denomination in the Alexandria area is Southern Baptist. Large congregations include Emmanuel Baptist Church downtown on Jackson Street and Calvary Baptist off Jackson Street Extension. Alexandria is also headquarters of the Louisiana Baptist Convention. A significant Roman Catholic population is also present,[25] a result of the large Catholic Acadian French population which resides in and around Alexandria, many from neighboring Avoyelles Parish. Alexandria is the headquarters for the Diocese of Alexandria, Louisiana, which is headed by Bishop David Talley.
 
@@ -75,19 +71,13 @@ Annual cultural events and festivals
 
 Mardi Gras
 
-AMGA_Krewes_Parade.jpg
-
 As Alexandria is at the cusp of Cajun culture's extension to the north, the city recognizes Mardi Gras as an official holiday. The annual Mardi Gras Krewes Parade – occurring on the Sunday before Mardi Gras – on Texas Avenue is a major cultural festivity in the area. It is featured as a family-oriented event, and parade goers can enjoy over 20 New Orleans style floats, high school and college marching bands, as well as appearances by local celebrities. In addition to the main Sunday parade, the College Cheerleaders & Classic Cars Parade, which was established in 2008, takes place downtown on the Friday before Mardi Gras, the Children's Parade takes place downtown on the Saturday before Mardi Gras, and the Krewe of Provine Parade is held on Fat Tuesday, processing along Coliseum Boulevard. All the events are organized by the Alexandria Mardi Gras Association (AMGA). The Krewe Parade can attract from 120,000 to 150,000; the Children's parade, up to 40,000 to 50,000, and the College Cheerleaders & Classic Cars, about 5,000 to 15,000 people.[26]
 
 Alex River Fête
 
-Alex_River_Fête.jpg
-
 An annual three-day festival is held in downtown Alexandria around late April and early May. The festival, established in 2013, was created around a former successful stand-alone event, the Louisiana Dragon Boat Races.[27] It features the race and other former stand-alone events such as Dinner on the Bricks and the ArtWalk (now Art Fête) along with various booth venues, food, and live music, as well as the Kids Fête and Classic Car Fête.
 
 Alex Winter Fête
-
-Alex_Winter_Fête_Ice_Rink.jpg
 
 An annual three day festival held in downtown Alexandria around early December. Launched in 2015, the festival first year drew about double the anticipated crowd of 15,000.[28] The festival, like the Alex River Fête, feature booth venues, food, and live music but also features an ice rink. In January 2017, the Alex Winter Fête was voted Festival of the Year by the Louisiana Travel Promotion Association.[29]
 
@@ -122,13 +112,11 @@ An annual barbecue festival launched in 2006, the festival was held on the levee
 
 Museums
 
-Alexandria,_LA,_art_museum_IMG_1136.JPG is located downtown along the Red River.]]
+is located downtown along the Red River.]]
 
-Alexandria_museum.JPG
+'' building]]
 
-Coughlin-Saunders_Performing_Arts_Center_(revised)_in_Alexandria,_LA_IMG_4277.JPG'' building]]
-
-Arna_Bontemps_African_American_Museum,_Alexandria,_LA_IMG_4280.JPG African American Museum in downtown Alexandria]]
+African American Museum in downtown Alexandria]]
 
 The Alexandria Museum of Art was founded in 1977 and occupies an historic Rapides Bank Building on the banks of the Red River. The building was built c. 1898 and is listed on the National Register of Historic Places. The museum opened to the public in March 1998. In 1998, the Alexandria Museum of Art expanded and constructed its grand foyer and offices as an annex to the Rapides Bank Building. In 1999, the Alexandria Museum of Art was honored as an Outstanding Arts Organization in the Louisiana Governor's Arts Awards. In 2007, the Alexandria Museum of Art entered into a collaborative endeavor agreement with Louisiana State University of Alexandria (LSUA). The Alexandria Museum of Art now also serves as a downtown campus for LSUA classes, and is host to multidisciplinary community events, including concerts and recitals, lectures, yoga classes, Second Saturday Markets, and Museum Afterhours.
 
@@ -156,9 +144,9 @@ The spring and fall seasons also feature Downtown Rocks, a free outdoor concert 
 
 Sports
 
-Rapides_Coliseum.jpg on Louisiana Highway 28]]
+on Louisiana Highway 28]]
 
-Bringhurst_Stadium_Entrance.JPG (1933–2013)]]
+(1933–2013)]]
 
 Alexandria was home to the Alexandria Aces, a summer college league team. The Aces were champions in various leagues in 1997, 1998, 2006, and 2007. They played their home games at Bringhurst Field. The remaining games of the 2013 season were cancelled in mid-July because of low attendance, which averaged fewer than two hundred per game.[34] In 1974, a Little League team from Alexandria won the Louisiana state championship.
 
@@ -288,7 +276,7 @@ Media
 
 Newspapers
 
-The_Town_Talk,_Alexandria,_LA_IMG_4276.JPG'' offices are located downtown on Third Street.]]
+'' offices are located downtown on Third Street.]]
 
 Established March 17, 1883, _THE ALEXANDRIA TOWN TALK_ is a daily newspaper for Alexandria-Pineville and the thirteen parishes which comprise central Louisiana. The newspaper was owned by the family of the late Jane Wilson Smith and Joe D. Smith, Jr., until March 1996, when it was sold to Central Newspapers. In August 2000, the Gannett Company acquired the Central Newspapers properties, including _The Town Talk_. The name of the paper on its inaugural issue was the _Alexandria Daily Town Talk_. Although it has since been shorted to the current _The Town Talk_, it is still frequently referred to by long-time residents as the _Daily Town Talk_.
 
@@ -351,8 +339,6 @@ Digital broadcasting
 
 Parks and outdoor attractions
 
-Scene_at_Alexandria_(LA)_Zoo_Picture_299.jpg
-
 Alexandria Zoological Park
 
 The Alexandria Zoological Park is a zoo first opened to the public in 1926. Owned by the City of Alexandria and operated by the Division of Public Works, it is home to about 500 animals and includes an award-winning Louisiana Habitat exhibit. Much of the credit for the quality of the zoo has been given to Robert Leslie Whitt (1951–2008), who served as director for 34 years prior to his death. Whitt was hired in 1974 by then Streets and Parks Commissioner Malcolm Hebert. The zoo is accredited by the Association of Zoos and Aquariums (AZA) and takes part in about 20 Species Survival Plans (SSP) as part of its conservation efforts.
@@ -373,10 +359,6 @@ Alexandria sits in the middle of the Kisatchie National Forest. Ranger districts
 
 
 Other points of interest
-
-Red_River_Amphitheatre.JPG
-
-Alexandria,_LA,_Memorial_Gardens_Cemetery_IMG_1143.JPG
 
 -   ALEXANDRIA MEMORIAL GARDENS – large cemetery on U.S. Highway 165 south. Other cemeteries are also available in Pineville.
 -   ALEXANDRIA LEVEE PARK – a park located downtown, adjacent to the Red River, that serves as the grounds for some local festivals. It contains an amphitheatre that is used for concerts.
@@ -404,17 +386,13 @@ Alexandria served as the home of England Air Force Base from its origins as an e
 
 Economy
 
-Alexandria,_LA,_tallest_building_IMG_1127.JPG
-
 According to Census ACS 1-year survey for 2016, the per capita income of Alexandria was $23,962. This is $1,702 lower than the Louisiana average for per capita income in the same period. That figure is at $31,128 nationally. The Alexandria workforce consists of about 55,000 residents.[58] Union Tank Car Company has recently located a plant northwest of Alexandria near the airport creating hundreds of jobs. Expansions at the Procter & Gamble plant and the construction of a PlastiPak plant in nearby Pineville have also created a number of new jobs for the area. Sundrop Fuels Inc., a Colorado-based biofuels start-up, plans to construct an over 1,200 acre plant just northwest of Alexandria in Rapides Station area. The facility will serve as the headquarters for the company because aside from the plant itself, Sundrop has also bought Cowboy Town, an abandon entertainment venue that sits inside the surrounding land that was purchased, to house their offices and their maintenance and fabrication operations.[59]
 
 In 2007, Inc. Magazine rated Alexandria as the 77th best place in which to conduct business out of the 393 U.S. cities ranked, a significant increase from its ranking as No. 276 in 2006. Among other Louisiana cities, Alexandria ranked second, following only Baton Rouge, which ranked 59th nationally.[60]
 
 Healthcare
 
-Rapides_Regional_Medical_Center,_Alexandria,_LA_IMG_4350.JPG
-
-Veterans_Hospital,_Alexandria,_LA_IMG_4177.JPG, Louisiana.]]
+, Louisiana.]]
 
 Alexandria is home to two major hospitals: Rapides Regional Medical Center, a former Baptist hospital is located downtown. Christus St. Frances Cabrini Hospital was opened in 1950 and is located at the corner of Masonic Drive and Texas Avenue. Both hospitals have undergone expansion.
 
@@ -434,7 +412,7 @@ Today's modern facilities and the Port's central location with its connection to
 
 Alexandria International Airport
 
-Alexandria_International_Airport_terminal,_Alexandria,_Louisiana.jpg Alexandria International Airport (AEX) is a regional airport, providing flights to Atlanta, Dallas/Ft. Worth, and Houston.[62] In 2006 a new-state-of-the-art passenger terminal was dedicated. Alexandria is served by American, United, and Delta.
+Alexandria International Airport (AEX) is a regional airport, providing flights to Atlanta, Dallas/Ft. Worth, and Houston.[62] In 2006 a new-state-of-the-art passenger terminal was dedicated. Alexandria is served by American, United, and Delta.
 
 Current military use
 
@@ -445,15 +423,11 @@ Neighborhoods
 
 Downtown
 
-DowntownAlexandria3rd.jpg
-
-Alexandria,_LA,_Civic_Center_IMG_4303.JPG
-
 Downtown Alexandria, including the Alexandria Cultural Arts District, is currently in the process of revitalization. It is home to five museums, three performance venues, and several galleries. In recent years, several bars, cafes, and restaurants have opened.
 
 Hotel Bentley
 
-Hotel_Bentley,_Alexandria,_LA_(2014)_IMG_4301.JPG awaits reopening (2014 photo).]]
+awaits reopening (2014 photo).]]
 
 Across the street from the venues is the Hotel Bentley. The Bentley was built in 1908 by lumberman and local eccentric Joseph A. Bentley. The Bentley's heyday was during the 1940s and 1950s, when senior military officials, including General Dwight D. Eisenhower, stayed for extended periods. The Bentley, which was closed on December 12, 2004, was once one of only two four-star hotels in Louisiana. The hotel was set to reopen in August 2007, in time for the 100th anniversary of its construction, but was prevented by funding issues. The current owner, Michael Jenkins, purchased the Bentley for $3.4 million. His plan is to keep the older portion of the building to remain a hotel and turn the 7-story tower portion into luxury condominiums, and also to reopen Bentley's restaurant and Mirror Room lounge. The hotel and all of its components were to have been opened by the summer of 2013,[63] but the hotel remained unfinished as of November 2014.
 
@@ -610,9 +584,9 @@ Education
 
 Colleges and universities
 
-LSUA_sign_in_Alexandria,_LA_IMG_1149.JPG off U.S. Highway 71 south]]
+off U.S. Highway 71 south]]
 
-Entrance_to_Louisiana_College,_Pineville,_LA_IMG_4369.JPG-affiliated Louisiana College in Pineville]]
+-affiliated Louisiana College in Pineville]]
 
 Situated south of the city, Louisiana State University at Alexandria (or LSUA) is a regional campus of the state's flagship university system, Louisiana State University. From its establishment in 1959, the campus offered only two-year degrees; students seeking baccalaureate degrees had to commute or move to the main campus in Baton Rouge in order to gain a four-year degree. After 1976, students could either commute or telecommute in order to attend upper level courses, including graduate classes. In 2002, following approval by the Louisiana State University Board of Supervisors and the Louisiana Board of Regents the Louisiana Legislature passed legislation allowing LSUA to offer baccalaureate degrees.
 
@@ -622,9 +596,9 @@ Alexandria also has one of the Region 6 Louisiana Technical College campuses.
 
 Primary and secondary schools
 
-Bolton_High_School,_Alexandria,_LA_IMG_4265.JPG]]
+]]
 
-Menard_High_School,_Alexandria,_LA_IMG_1158.JPG on Louisiana Highway 28 West]] Rapides Parish School Board operates public schools.
+on Louisiana Highway 28 West]] Rapides Parish School Board operates public schools.
 
 Alexandria has three public high schools: Bolton High School, Alexandria Senior High School, and Peabody Magnet High School. In addition, there are two private high schools: the Roman Catholic Holy Savior Menard Central High School, and Grace Christian.
 
@@ -648,8 +622,6 @@ Bridges
 Three road bridges cross the Red River in the Alexandria area. They are:
 
 -   The PURPLE HEART MEMORIAL BRIDGE. Part of the Alexandria-Pineville Expressway (also referred to as the Cottingham Expressway), it connects Interstate 49 to Highway 167 by crossing the Red River from downtown Alexandria to Pineville. It replaced the Fulton Street Bridge and has six lanes of traffic. Designed by the Louisiana Department of Transportation and Development (LADOTD), the bridge cost $15.9 million in federal and state funds. The northbound portion was completed in 1995, the southbound in 1998.
-
-Jackson_St._bridge.JPG
 
 -   The U.S. 165 BUSINESS BRIDGE (alternatively, the GILLIS LONG BRIDGE, the RED RIVER BRIDGE or the JACKSON STREET BRIDGE) connecting downtown Pineville with the business district in Alexandria. It is a two-lane vertical-lift bridge with a sidewalk/bikepath on either side. The bridge is named after U.S. Representative Gillis Long, who represented Louisiana's Eighth Congressional District. It was built in 1985 to replace the MURRAY STREET BRIDGE.
 -   The OSCAR K. ALLEN BRIDGE connecting Highway 165/71 on both sides of the Red River. It is a two-lane K-truss type bridge, named after Governor Oscar K. Allen. It was built in 1936 to connect Alexandria to the (former) Fort Buhlow. A new four-lane (two lanes in each direction) bridge is being built beside the aging OK Allen Bridge (appropriately named the Fort Buhlow Bridge) and should be open in mid-2013. At that time US 165 will be completely four-laned for most of its traverse of Louisiana.

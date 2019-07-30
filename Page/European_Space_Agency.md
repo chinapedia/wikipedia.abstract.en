@@ -18,7 +18,7 @@ History
 
 Foundation
 
-ESA-ESTEC5.jpg buildings in Noordwijk, Netherlands. ESTEC was the main technical centre of ESRO and remains so for the successor organisation, ESA.]]
+buildings in Noordwijk, Netherlands. ESTEC was the main technical centre of ESRO and remains so for the successor organisation, ESA.]]
 
 After World War II, many European scientists left Western Europe in order to work with the United States. Although the 1950s boom made it possible for Western European countries to invest in research and specifically in space-related activities, Western European scientists realised solely national projects would not be able to compete with the two main superpowers. In 1958, only months after the Sputnik shock, Edoardo Amaldi (Italy) and Pierre Auger (France), two prominent members of the Western European scientific community, met to discuss the foundation of a common Western European space agency. The meeting was attended by scientific representatives from eight countries, including Harrie Massey (United Kingdom).
 
@@ -28,7 +28,7 @@ ESA in its current form was founded with the ESA Convention in 1975, when ESRO w
 
 Later activities
 
-Ariane_1_Le_Bourget_FRA_001.jpg}}]]
+}}]]
 
 ESA collaborated with NASA on the International Ultraviolet Explorer (IUE), the world's first high-orbit telescope, which was launched in 1978 and operated successfully for 18 years. A number of successful Earth-orbit projects followed, and in 1986 ESA began Giotto, its first deep-space mission, to study the comets Halley and Grigg–Skjellerup. Hipparcos, a star-mapping mission, was launched in 1989 and in the 1990s SOHO, Ulysses and the Hubble Space Telescope were all jointly carried out with NASA. Later scientific missions in cooperation with NASA include the Cassini–Huygens space probe, to which ESA contributed by building the Titan landing module Huygens.
 
@@ -195,8 +195,6 @@ Since 1 January 1979, Canada has had the special status of a Cooperating State w
 
 Budget appropriation and allocation
 
-Easbars.png
-
 ESA is funded from annual contributions by national governments as well as from an annual contribution by the European Union (EU).[66]
 
 The budget of ESA was €5.250 billion in 2016.[67] Every 3–4 years, ESA member states agree on a budget plan for several years at an ESA member states conference. This plan can be amended in future years, however provides the major guideline for ESA for several years. The 2016 budget allocations for major areas of ESA activity are shown in the chart on the right.[68]
@@ -248,7 +246,7 @@ ESA has a fleet of different launch vehicles in service with which it competes i
 
 Ariane 5
 
-Ariane_5ECA_on_its_way_to_launch_pad_ELA-3.jpg ECA transported to the ELA-3 launch pad]] The Ariane 5 rocket is ESA's primary launcher. It has been in service since 1997 and replaced Ariane 4. Two different variants are currently in use. The heaviest and most used version, the , delivers two communications satellites of up to 10 tonnes into GTO. It failed during its first test flight in 2002, but has since made 82 consecutive successful flights until a partial failure in January 2018. The other version, , was used to launch the Automated Transfer Vehicle (ATV) to the International Space Station (ISS) and will be used to launch four Galileo navigational satellites at a time.[97][98]
+ECA transported to the ELA-3 launch pad]] The Ariane 5 rocket is ESA's primary launcher. It has been in service since 1997 and replaced Ariane 4. Two different variants are currently in use. The heaviest and most used version, the , delivers two communications satellites of up to 10 tonnes into GTO. It failed during its first test flight in 2002, but has since made 82 consecutive successful flights until a partial failure in January 2018. The other version, , was used to launch the Automated Transfer Vehicle (ATV) to the International Space Station (ISS) and will be used to launch four Galileo navigational satellites at a time.[97][98]
 
 In November 2012, ESA agreed to build an upgraded variant called {{nowrap (Mid-life Evolution) which would increase payload capacity to 11.5 tonnes to GTO and feature a restartable second stage to allow more complex missions. Ariane 5 ME was scheduled to fly in 2018,[99] but the whole project was scrapped in favor of Ariane 6, planned to replace Ariane 5 in the 2020s.
 
@@ -256,15 +254,13 @@ ESA's Ariane 1, 2, 3 and 4 launchers (the last of which was ESA's long-time work
 
 Soyuz
 
-CSG_Soyuz_01.JPG]] Soyuz-2 (also called the Soyuz-ST or Soyuz-STK) is a Russian medium payload launcher (ca. 3 metric tons to GTO) which was brought into ESA service in October 2011.[100][101] ESA entered into a €340 million joint venture with the Russian Federal Space Agency over the use of the Soyuz launcher.[102] Under the agreement, the Russian agency manufactures Soyuz rocket parts for ESA, which are then shipped to French Guiana for assembly.
+]] Soyuz-2 (also called the Soyuz-ST or Soyuz-STK) is a Russian medium payload launcher (ca. 3 metric tons to GTO) which was brought into ESA service in October 2011.[100][101] ESA entered into a €340 million joint venture with the Russian Federal Space Agency over the use of the Soyuz launcher.[102] Under the agreement, the Russian agency manufactures Soyuz rocket parts for ESA, which are then shipped to French Guiana for assembly.
 
 ESA benefits because it gains a medium payload launcher, complementing its fleet while saving on development costs. In addition, the Soyuz rocket—which has been the Russian's space launch workhorse for some 40 years—is proven technology with a very good safety record. Russia benefits in that it gets access to the Kourou launch site. Due to its proximity to the equator, launching from Kourou rather than Baikonur nearly doubles Soyuz's payload to GTO (3.0 tonnes vs. 1.7 tonnes).
 
 Soyuz first launched from Kourou on 21 October 2011, and successfully placed two Galileo satellites into orbit 23,222 kilometres above Earth.[103]
 
 Vega
-
-Sentinel-2_and_vega.jpg
 
 Vega is ESA's carrier for small satellites. Developed by seven ESA members led by Italy, it is capable of carrying a payload with a mass of between 300 and 1500 kg to an altitude of 700 km, for low polar orbit. Its maiden launch from Kourou was on 13 February 2012.[104] Vega began full commercial exploitation in December 2015 [105]
 
@@ -279,7 +275,7 @@ Human space flight
 
 History
 
-Ulf_D._Merbold.jpg became the first ESA astronaut to fly into space.]] At the time ESA was formed, its main goals did not encompass human space flight; rather it considered itself to be primarily a scientific research organisation for unmanned space exploration in contrast to its American and Soviet counterparts. It is therefore not surprising that the first non-Soviet European in space was not an ESA astronaut on a European space craft; it was Czechoslovak Vladimír Remek who in 1978 became the first non-Soviet or American in space (the first man in space being Yuri Gagarin of the Soviet Union) – on a Soviet Soyuz spacecraft, followed by the Pole Mirosław Hermaszewski and East German Sigmund Jähn in the same year. This Soviet co-operation programme, known as Intercosmos, primarily involved the participation of Eastern bloc countries. In 1982, however, Jean-Loup Chrétien became the first non-Communist Bloc astronaut on a flight to the Soviet Salyut 7 space station.
+became the first ESA astronaut to fly into space.]] At the time ESA was formed, its main goals did not encompass human space flight; rather it considered itself to be primarily a scientific research organisation for unmanned space exploration in contrast to its American and Soviet counterparts. It is therefore not surprising that the first non-Soviet European in space was not an ESA astronaut on a European space craft; it was Czechoslovak Vladimír Remek who in 1978 became the first non-Soviet or American in space (the first man in space being Yuri Gagarin of the Soviet Union) – on a Soviet Soyuz spacecraft, followed by the Pole Mirosław Hermaszewski and East German Sigmund Jähn in the same year. This Soviet co-operation programme, known as Intercosmos, primarily involved the participation of Eastern bloc countries. In 1982, however, Jean-Loup Chrétien became the first non-Communist Bloc astronaut on a flight to the Soviet Salyut 7 space station.
 
 Because Chrétien did not officially fly into space as an ESA astronaut, but rather as a member of the French CNES astronaut corps, the German Ulf Merbold is considered the first ESA astronaut to fly into space. He participated in the STS-9 Space Shuttle mission that included the first use of the European-built Spacelab in 1983. STS-9 marked the beginning of an extensive ESA/NASA joint partnership that included dozens of space flights of ESA astronauts in the following years. Some of these missions with Spacelab were fully funded and organizationally and scientifically controlled by ESA (such as two missions by Germany and one by Japan) with European astronauts as full crew members rather than guests on board. Beside paying for Spacelab flights and seats on the shuttles, ESA continued its human space flight co-operation with the Soviet Union and later Russia, including numerous visits to Mir.
 
@@ -358,7 +354,7 @@ Additionally, ESA has joint projects with the European Union, NASA of the United
 
 European Union
 
-ESA_and_EU.png ESA is not an agency or body of the European Union (EU), and has non-EU countries (Norway, and Switzerland) as members. There are however ties between the two, with various agreements in place and being worked on, to define the legal status of ESA with regard to the EU.[153]
+ESA is not an agency or body of the European Union (EU), and has non-EU countries (Norway, and Switzerland) as members. There are however ties between the two, with various agreements in place and being worked on, to define the legal status of ESA with regard to the EU.[153]
 
 There are common goals between ESA and the EU. ESA has an EU liaison office in Brussels. On certain projects, the EU and ESA co-operate, such as the upcoming Galileo satellite navigation system. Space policy has since December 2009 been an area for voting in the European Council. Under the European Space Policy of 2007, the EU, ESA and its Member States committed themselves to increasing co-ordination of their activities and programmes and to organising their respective roles relating to space.[154]
 
@@ -392,7 +388,7 @@ Speaking to reporters at an air show near Moscow in August 2011, ESA head Jean-J
 
 International Space Station
 
-Columbus_module_delivered_to_KSC.jpg'' at Kennedy Space Center's Space Station Processing Facility]]
+'' at Kennedy Space Center's Space Station Processing Facility]]
 
 With regard to the International Space Station (ISS) ESA is not represented by all of its member states:[163] 10 of the 21 ESA member states currently participate in the project: Belgium, Denmark, France, Germany, Italy, Netherlands, Norway, Spain, Sweden and Switzerland. Austria, Finland and Ireland chose not to participate, because of lack of interest or concerns about the expense of the project. The United Kingdom withdrew from the preliminary agreement because of concerns about the expense of the project. Portugal, Luxembourg, Greece, the Czech Republic, Romania and Poland joined ESA after the agreement had been signed. ESA is taking part in the construction and operation of the ISS with contributions such as Columbus, a science laboratory module that was brought into orbit by NASA's STS-122 Space Shuttle mission and the Cupola observatory module that was completed in July 2005 by Alenia Spazio for ESA. The current estimates for the ISS are approaching €100 billion in total (development, construction and 10 years of maintaining the station) of which ESA has committed to paying €8 billion.[164] About 90% of the costs of ESA's ISS share will be contributed by Germany (41%), France (28%) and Italy (20%). German ESA astronaut Thomas Reiter was the first long-term ISS crew member.
 
@@ -408,7 +404,7 @@ According to Annex 1, Resolution No. 8 of the _ESA Convention and Council Rules 
 
 Facilities
 
-Views_in_the_Main_Control_Room_(12052189474).jpg in Darmstadt, Germany]]
+in Darmstadt, Germany]]
 
 -   ESA Headquarters (HQ), Paris, France
 -   European Space Operations Centre (ESOC), Darmstadt, Germany

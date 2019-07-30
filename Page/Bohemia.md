@@ -18,7 +18,7 @@ The Czech name "Čechy" is derived from the name of the Slavic ethnic group, the
 
 History
 
-Böhmen_Mähren_Österreich_Schlesien.jpg in yellow, and Austrian Silesia in orange.]]
+in yellow, and Austrian Silesia in orange.]]
 
 Ancient Bohemia
 
@@ -38,7 +38,7 @@ The 9th century was crucial for the future of Bohemia. The manorial system sharp
 
 Přemysl dynasty
 
-Přemyslovci_erb.svg (until 1253-62).]]
+(until 1253-62).]]
 
 Bohemia was made a part of the early Slavic state of Great Moravia, under the rule of Svatopluk I (r. 870–894). After Svatopluk's death Great Moravia was weakened by years of internal conflict and constant warfare, ultimately collapsing and fragmenting due to the continual incursions of the invading nomadic Magyars. Bohemia's initial incorporation into the Moravian Empire resulted in the extensive Christianization of the population. A native monarchy arose to the throne, and Bohemia came under the rule of the Přemyslid dynasty, which would rule the Czech lands for the next several hundred years.
 
@@ -50,7 +50,7 @@ The first to use the title of "King of Bohemia" were the Přemyslid dukes Vratis
 
 Luxembourg dynasty
 
-Wappen_Königreich_Böhmen.png The House of Luxembourg accepted the invitation to the Bohemian throne with the marriage to the Premyslid heiress, Elizabeth and the crowning subsequent of John I of Bohemia in 1310. His son, Charles IV became King of Bohemia in 1346. He founded Charles University in Prague, central Europe's first university, two years later.
+The House of Luxembourg accepted the invitation to the Bohemian throne with the marriage to the Premyslid heiress, Elizabeth and the crowning subsequent of John I of Bohemia in 1310. His son, Charles IV became King of Bohemia in 1346. He founded Charles University in Prague, central Europe's first university, two years later.
 
 His reign brought Bohemia to its peak both politically and in total area, resulting in his being the first King of Bohemia to also be elected as Holy Roman Emperor. Under his rule the Bohemian crown controlled such diverse lands as Moravia, Silesia, Upper Lusatia and Lower Lusatia, Brandenburg, an area around Nuremberg called New Bohemia, Luxembourg, and several small towns scattered around Germany.
 
@@ -60,7 +60,7 @@ During this time, Prague German intermediated between Upper German and East Cent
 
 Hussite Bohemia
 
-Tabor_CZ_aerial_old_town_from_north_B1.jpgs, after the city of Tábor that became their center.]] During the ecumenical Council of Constance in 1415, Jan Hus was sentenced to be burnt at the stake as a heretic. The verdict was passed despite the fact that Hus was granted formal protection by Emperor Sigismund of Luxembourg prior to the journey. Hus was invited to attend the council to defend himself and the Czech positions in the religious court, but with the emperor's approval, he was executed on 6 July 1415. The execution of Hus, as well as five consecutive papal crusades against followers of Hus, forced the Bohemians to defend themselves in the Hussite Wars.
+s, after the city of Tábor that became their center.]] During the ecumenical Council of Constance in 1415, Jan Hus was sentenced to be burnt at the stake as a heretic. The verdict was passed despite the fact that Hus was granted formal protection by Emperor Sigismund of Luxembourg prior to the journey. Hus was invited to attend the council to defend himself and the Czech positions in the religious court, but with the emperor's approval, he was executed on 6 July 1415. The execution of Hus, as well as five consecutive papal crusades against followers of Hus, forced the Bohemians to defend themselves in the Hussite Wars.
 
 The uprising against imperial forces was led by a former mercenary, Jan Žižka of Trocnov. As the leader of the Hussite armies, he used innovative tactics and weapons, such as howitzers, pistols, and fortified wagons, which were revolutionary for the time, and established Žižka as a great general who never lost a battle.
 
@@ -72,7 +72,7 @@ In 1458, George of Podebrady was elected to ascend to the Bohemian throne. He is
 
 Habsburg Monarchy
 
-Europe_As_A_Queen_Sebastian_Munster_1570.jpg'', 1570.]] After the death of King Louis II of Hungary and Bohemia in the Battle of Mohács in 1526, Archduke Ferdinand I of Austria became the new King of Bohemia and the country became a constituent state of the Habsburg Monarchy.
+'', 1570.]] After the death of King Louis II of Hungary and Bohemia in the Battle of Mohács in 1526, Archduke Ferdinand I of Austria became the new King of Bohemia and the country became a constituent state of the Habsburg Monarchy.
 
 Bohemia enjoyed religious freedom between 1436 and 1620, and became one of the most liberal countries of the Christian world during that period. In 1609, Holy Roman Emperor Rudolph II, who made Prague again the capital of the Empire at the time, himself a Roman Catholic, was moved by the Bohemian nobility to publish _Maiestas Rudolphina_, which confirmed the older _Confessio Bohemica_ of 1575.
 
@@ -94,15 +94,13 @@ Under the "state rights program", appealing to the stability of Bohemia's border
 
 20th century
 
-Czechoslovakia01.png Czechoslovakia1930linguistic.jpg
-
 After World War I, Bohemia (as the largest and most populous land) became the core of the newly formed country of Czechoslovakia, which combined Bohemia, Moravia, Czech Silesia, Upper Hungary (present-day Slovakia) and Carpathian Ruthenia into one state. Under its first president, Tomáš Masaryk, Czechoslovakia became a liberal democratic republic but serious issues emerged regarding the Czech majority's relationship with the native German and Hungarian minorities. The German Bohemians had demanded that the regions with German speaking majority be included in a German state.
 
 Following the Munich Agreement in 1938, the border regions of Bohemia historically inhabited predominantly by ethnic Germans (the Sudetenland) were annexed to Nazi Germany. This was the only time in Bohemian history that its territory was politically divided. The remnants of Bohemia and Moravia were then annexed by Germany in 1939, while the Slovak lands became the separate Slovak Republic, a puppet state of Nazi Germany. From 1939 to 1945 Bohemia, (without the Sudetenland), together with Moravia formed the German Protectorate of Bohemia and Moravia (_Reichsprotektorat Böhmen und Mähren_).
 
 Any open opposition to German occupation was brutally suppressed by the Nazi authorities and many Czech patriots were executed as a result. In 1942, Nazi forces murdered the population of a whole village Lidice. After World War II ended in 1945, after initial plans to cede lands to Germany or to create German speaking cantons had been abandoned,[22] the vast majority the Bohemian Germans were expelled by force by the order of the re-established Czechoslovak central government, based on the Potsdam Agreement that acquiesced in this large-scale ethnic cleansing. The Bohemian Germans' property was confiscated by the Czech authorities, amounting, according to contemporary estimates, to a third of the Czechoslovak national income. Germans who were valued for their skills were allowed to stay to pass on their knowledge to the Czech migrants.[23] The expulsion severely depopulated the area and from this moment on locales were only referred to in their Czech equivalents regardless of their previous demographic makeup. The re-settlement of the formerly German-settled areas allowed many poorer people to acquire property, thus equalizing the Czechoslovak society.[24]
 
-The Communist Party won the most votes in free elections but not a simple majority. Klement Gottwald, the communist leader, became Prime Minister of a coalition government. Karlovy_Vary_Czech_Rep.jpg.]] In February 1948 the non-communist members of the government resigned in protest against arbitrary measures by the communists and their Soviet protectors in many of the state's institutions. Gottwald and the communists responded with a coup d'état and installed a pro-Soviet authoritarian state. In 1949, Bohemia ceased to be an administrative unit of Czechoslovakia, as the country was divided into administrative regions that did not follow the historical borders.
+The Communist Party won the most votes in free elections but not a simple majority. Klement Gottwald, the communist leader, became Prime Minister of a coalition government. .]] In February 1948 the non-communist members of the government resigned in protest against arbitrary measures by the communists and their Soviet protectors in many of the state's institutions. Gottwald and the communists responded with a coup d'état and installed a pro-Soviet authoritarian state. In 1949, Bohemia ceased to be an administrative unit of Czechoslovakia, as the country was divided into administrative regions that did not follow the historical borders.
 
 In 1989, Agnes of Bohemia became the first saint from a Central European country to be canonized by Pope John Paul II before the "Velvet Revolution" later that year.
 
@@ -119,12 +117,12 @@ The last attempt occurred in May 1945 when Czechoslovakia tried to annex the are
 
 Capitalizing on interest regarding the Kladsko area in the Czech national psyche, a special tourist area in the Náchod District has been designated as the _Kladsko Borderland Tourist Area_[31] (tourism district; ). This area, entirely within the Czech Republic, was formerly known as the _Jirásek's Region_ (), _Adršpach rocks_ ().
 
-2014_Stare_miasto_w_Kłodzku,_panorama,_02.jpg, the capital city of Kłodzko Land which is referred to as _"Little Prague"_.]]
+, the capital city of Kłodzko Land which is referred to as _"Little Prague"_.]]
 
 
 Traditional administrative divisions
 
-Země_Koruny_české.jpg KRAJE OF BOHEMIA DURING THE KINGDOM OF BOHEMIA
+KRAJE OF BOHEMIA DURING THE KINGDOM OF BOHEMIA
 
 -   Bechyně ()
 -   Boleslav ()

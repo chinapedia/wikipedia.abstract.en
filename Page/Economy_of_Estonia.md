@@ -1,4 +1,4 @@
-Labour_productivity_levels_in_Europe._OECD,_2015.png level of Estonia is one of the lowest in EU, but also on par with much of the rest of Eastern Europe. OECD, 2015[1]]]
+level of Estonia is one of the lowest in EU, but also on par with much of the rest of Eastern Europe. OECD, 2015[1]]]
 
 The Estonian economy is an advanced economy and a member of the European Union and of the eurozone.[2] The Estonian economy is heavily influenced by developments in the Finnish and Swedish economies.[3]
 
@@ -40,7 +40,7 @@ The USSR's forcible annexation of Estonia in 1940 and the ensuing Nazi and Sovie
 
 Restoration of independence, modernisation and liberalisation
 
-Tln1.jpg has become the Central business district of Tallinn in the 21st century]] Since reestablishing independence, Estonia has styled itself as the gateway between East and West and pursued economic reform and integration with the West. Estonia's market reforms put it among the economic leaders in the former COMECON area. A balanced budget, almost non-existent public debt, flat-rate income tax, free trade regime, fully convertible currency backed by currency board and a strong peg to the euro, competitive commercial banking sector, hospitable environment for foreign investment, innovative e-Services and mobile-based services are all hallmarks of Estonia's free-market-based economy.
+has become the Central business district of Tallinn in the 21st century]] Since reestablishing independence, Estonia has styled itself as the gateway between East and West and pursued economic reform and integration with the West. Estonia's market reforms put it among the economic leaders in the former COMECON area. A balanced budget, almost non-existent public debt, flat-rate income tax, free trade regime, fully convertible currency backed by currency board and a strong peg to the euro, competitive commercial banking sector, hospitable environment for foreign investment, innovative e-Services and mobile-based services are all hallmarks of Estonia's free-market-based economy.
 
 In June 1992, Estonia replaced the ruble with its own freely convertible currency, the kroon (EEK). A currency board was created and the new currency was pegged to the German Mark at the rate of 8 Estonian kroons for 1 Deutsche Mark. When Germany introduced the euro the peg was changed to 15.6466 kroons for 1 euro.
 
@@ -64,7 +64,7 @@ GDP grew by 7.9% in 2007 alone. Increases in labor costs, the imposition of tax 
 
 The 2008 financial crisis, response and recovery
 
-Real_GDP_growth_in_Estonia,_2002-2012.png The Financial Crisis of 2008 has had a deep effect on the Estonian economy, primarily as a result of an investment and consumption slump that followed the burst of the real estate market bubble that had been building up during the preceding years.
+The Financial Crisis of 2008 has had a deep effect on the Estonian economy, primarily as a result of an investment and consumption slump that followed the burst of the real estate market bubble that had been building up during the preceding years.
 
 After a long period of very high growth of GDP, the GDP of Estonia decreased. In the first quarter 2008, GDP grew only 0.1%, and then decreased: negative growth was −1.4% in the 2nd quarter, a little over −3% (on a year-to-year basis) in the 3rd quarter, and −9.4% in the 4th quarter of that year.[15]
 
@@ -114,7 +114,7 @@ Long-term prospects for the Estonian economy remain among the most promising in 
 
 Employment participation
 
-Estonia_Unemployment_Rates.png according to Statistics Estonia.]]
+according to Statistics Estonia.]]
 
 Estonia has around 600,000 employees, yet the country has a shortage of skilled labor, and since skill shortages are experienced everywhere in Europe, the government has increased working visa quota for non-EEA citizens, although it has nevertheless been criticized for being inadequate for addressing the shortages.
 
@@ -192,7 +192,7 @@ Largest companies by profit
 
 Infrastructure
 
-VKG_Ojamaa_kaevandus.jpg supplies around 70% of the country's primary energy. Oil shale extraction in VKG Ojamaa mine.]] Railway transport dominates the cargo sector, comprising 70% of all carried goods, domestic and international. Road transport is the one that prevails in the passenger sector, accounting for over 90% of all transported passengers. 5 major cargo ports offer easy navigational access, deep waters, and good ice conditions. There are 12 airports and 1 heliport in Estonia. Lennart Meri Tallinn Airport is the largest airport in Estonia, with 1,73 million passengers and 22,764 tons of cargo (annual cargo growth 119.7%) in 2007. International flight companies such as SAS, Finnair, Lufthansa, EasyJet, and Nordic Aviation Group provide direct flights to 27 destinations.[54]
+supplies around 70% of the country's primary energy. Oil shale extraction in VKG Ojamaa mine.]] Railway transport dominates the cargo sector, comprising 70% of all carried goods, domestic and international. Road transport is the one that prevails in the passenger sector, accounting for over 90% of all transported passengers. 5 major cargo ports offer easy navigational access, deep waters, and good ice conditions. There are 12 airports and 1 heliport in Estonia. Lennart Meri Tallinn Airport is the largest airport in Estonia, with 1,73 million passengers and 22,764 tons of cargo (annual cargo growth 119.7%) in 2007. International flight companies such as SAS, Finnair, Lufthansa, EasyJet, and Nordic Aviation Group provide direct flights to 27 destinations.[54]
 
 Approximately 7.5% of the country's workforce is employed in transportation and the sector contributes over 10% of GDP. Estonia is getting much business from traffic between Europe and Russia, especially oil cargo through Estonian ports. Transit trade's share of GDP is disputed, but many agree that Russia's increased hostility is decreasing the share.[55][56]
 
@@ -204,8 +204,6 @@ Estonia has high Internet penetration, and connections are available throughout 
 
 
 Trade
-
-Tree_Map_of_Estonia's_Exports_in_2011.svg
 
 +---------+--------+--------+
 | Country | Export | Import |

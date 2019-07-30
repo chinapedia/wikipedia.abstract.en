@@ -1,4 +1,4 @@
-the magazine|Computing (journal){{!}}the scientific journal}} Babbage_Difference_Engine_(Being_utilised).jpg: computing the solution to a polynomial function]] Moody_Hall_computer_lab.jpgoratory, Moody Hall, James Madison University, 2003]] Computer_server_rack.jpgs from 2006]]
+the magazine|Computing (journal){{!}}the scientific journal}} : computing the solution to a polynomial function]] oratory, Moody Hall, James Madison University, 2003]] s from 2006]]
 
 COMPUTING is any activity that uses computers to manage, process, and communicate information for various purposes. It includes development of both hardware and software. Computing is a critical, integral component of modern industrial technology. Major computing disciplines include computer engineering, software engineering, computer science, information systems, and information technology.
 

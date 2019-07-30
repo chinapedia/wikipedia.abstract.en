@@ -1,4 +1,4 @@
-Angkor_Wat.jpg is the masterpiece of Angkorian architecture. Constructed under the direction of the Khmer king Suryavarman II, it was to serve as the monarch's personal mausoleum and as a temple to the Hindu god Vishnu. Based on Dravidian architecture, it was designed as a pyramid representing the structure of the universe: the highest level at the center of the temple represented Mount Meru, the home of the Hindu gods, with the five towers on the highest level representing the five peaks of the mountain. The broad moat around the complex represented the oceans that surround the world.]]
+is the masterpiece of Angkorian architecture. Constructed under the direction of the Khmer king Suryavarman II, it was to serve as the monarch's personal mausoleum and as a temple to the Hindu god Vishnu. Based on Dravidian architecture, it was designed as a pyramid representing the structure of the universe: the highest level at the center of the temple represented Mount Meru, the home of the Hindu gods, with the five towers on the highest level representing the five peaks of the mountain. The broad moat around the complex represented the oceans that surround the world.]]
 
 In KHMER ARCHITECTURE (), the period of Angkor is the period in the history of the Khmer Empire from approximately the later half of the 8th century CE to the first half of the 15th century CE.
 
@@ -9,7 +9,7 @@ The religious architecture of Angkor has characteristic structures, elements, an
 
 Periodization
 
-One_of_many_temples_in_Sambor_Prei_Kuk.jpg Many temples had been built before Cambodia became a powerful Kingdom of Khmer Empire which dominated most of the Indochina region. At that time, Cambodia was known as Chenla kingdom, the predecessor state of Khmer empire. There are three pre-Angkorean architectural styles :[1]
+Many temples had been built before Cambodia became a powerful Kingdom of Khmer Empire which dominated most of the Indochina region. At that time, Cambodia was known as Chenla kingdom, the predecessor state of Khmer empire. There are three pre-Angkorean architectural styles :[1]
 
 -   Sambor Prei Kuk style (610–650): Sambor Prei Kuk also known as Isanapura where was the capital of Chenla Kingdom. Temples of Sambor Prei Kuk were built in round shape, plain colonettes with capitals that include a bulb.
 -   Prei Khmeng style (635–700): Structures reveal masterpieces of sculpture but architecture scarce. Colonettes are larger than previous style. Buildings were more heavily decorated but they had general decline of standards.
@@ -65,11 +65,11 @@ Khmer temples were typically enclosed by a concentric series of walls, with the 
 
 Gallery
 
-Angkor_Wat,_Camboya,_2013-08-15,_DD_038.JPG.]] A gallery is a passageway running along the wall of an enclosure or along the axis of a temple, often open to one or both sides. Historically, the form of the gallery evolved during the 10th century from the increasingly long hallways which had earlier been used to surround the central sanctuary of a temple. During the period of Angkor Wat in the first half of the 12th century, additional half galleries on one side were introduced to buttress the structure of the temple.
+.]] A gallery is a passageway running along the wall of an enclosure or along the axis of a temple, often open to one or both sides. Historically, the form of the gallery evolved during the 10th century from the increasingly long hallways which had earlier been used to surround the central sanctuary of a temple. During the period of Angkor Wat in the first half of the 12th century, additional half galleries on one side were introduced to buttress the structure of the temple.
 
 Gopura
 
-Ta_Phrom,_Angkor,_Camboya,_2013-08-16,_DD_01.JPG.]] 2016_Angkor,_Angkor_Thom,_Brama_północna_(01).jpg toward the end of the 12th century, such as this one at Angkor Thom, are adorned with gigantic stone faces of Avalokiteshvara.]] A gopura is an entrance building. At Angkor, passage through the enclosure walls surrounding a temple compound is frequently accomplished by means of an impressive gopura, rather than just an aperture in the wall or a doorway. Enclosures surrounding a temple are often constructed with a gopura at each of the four cardinal points. In plan, gopuras are usually cross-shaped and elongated along the axis of the enclosure wall; if the wall is constructed with an accompanying gallery, the gallery is sometimes connected to the arms of the gopura. Many Angkorian gopuras have a tower at the centre of the cross. The lintels and pediments are often decorated, and guardian figures (dvarapalas) are often placed or carved on either side of the doorways.
+.]] toward the end of the 12th century, such as this one at Angkor Thom, are adorned with gigantic stone faces of Avalokiteshvara.]] A gopura is an entrance building. At Angkor, passage through the enclosure walls surrounding a temple compound is frequently accomplished by means of an impressive gopura, rather than just an aperture in the wall or a doorway. Enclosures surrounding a temple are often constructed with a gopura at each of the four cardinal points. In plan, gopuras are usually cross-shaped and elongated along the axis of the enclosure wall; if the wall is constructed with an accompanying gallery, the gallery is sometimes connected to the arms of the gopura. Many Angkorian gopuras have a tower at the centre of the cross. The lintels and pediments are often decorated, and guardian figures (dvarapalas) are often placed or carved on either side of the doorways.
 
 Hall of Dancers
 
@@ -81,7 +81,7 @@ House of Fire, or _Dharmasala_, is the name given to a type of building found on
 
 Scholars theorize that the House of Fire functioned as a "rest house with fire" for travellers. An inscription at Preah Khan tells of 121 such rest houses lining the highways into Angkor. The Chinese traveller Zhou Daguan expressed his admiration for these rest houses when he visited Angkor in 1296 CE.[11] Another theory is that the House of Fire had a religious function as the repository the sacred flame used in sacred ceremonies.
 
-Libraryangkorwat.JPG open to both the East and the West.]]
+open to both the East and the West.]]
 
 Library
 
@@ -97,7 +97,7 @@ The baray associated with Preah Khan is the Jayataka, in the middle of which sta
 
 Temple mountain
 
-Roulos_Group_-_005_Bakong_(8587796725).jpg is the earliest surviving Temple Mountain at Angkor.]] The dominant scheme for the construction of state temples in the Angkorian period was that of the Temple Mountain, an architectural representation of Mount Meru, the home of the gods in Hinduism.[15] The style was influenced by South indian temple architecture. Enclosures represented the mountain chains surrounding Mount Meru, while a moat represented the ocean. The temple itself took shape as a pyramid of several levels, and the home of the gods was represented by the elevated sanctuary at the center of the temple.
+is the earliest surviving Temple Mountain at Angkor.]] The dominant scheme for the construction of state temples in the Angkorian period was that of the Temple Mountain, an architectural representation of Mount Meru, the home of the gods in Hinduism.[15] The style was influenced by South indian temple architecture. Enclosures represented the mountain chains surrounding Mount Meru, while a moat represented the ocean. The temple itself took shape as a pyramid of several levels, and the home of the gods was represented by the elevated sanctuary at the center of the temple.
 
 The first great temple mountain was the Bakong, a five-level pyramid dedicated in 881 by King Indravarman I.[16] The structure of Bakong took shape of stepped pyramid, popularly identified as temple mountain of early Khmer temple architecture. The striking similarity of the Bakong and Borobudur in Java, going into architectural details such as the gateways and stairs to the upper terraces, strongly suggests that Borobudur might served as the prototype of Bakong. There must have been exchanges of travelers, if not mission, between Khmer kingdom and the Sailendras in Java. Transmitting to Cambodia not only ideas, but also technical and architectural details of Borobudur, including arched gateways in corbelling method.[17]
 
@@ -114,7 +114,7 @@ Bas-reliefs are individual figures, groups of figures, or entire scenes cut into
 
 Narrative bas-reliefs are bas-reliefs depicting stories from mythology or history. Until about the 11th century, the Angkorian Khmer confined their narrative bas-reliefs to the space on the tympana above doorways. The most famous early narrative bas-reliefs are those on the tympana at the 10th-century temple of Banteay Srei, depicting scenes from Hindu mythology as well as scenes from the great works of Indian literature, the Ramayana and the Mahabharata. By the 12th century, however, the Angkorian artists were covering entire walls with narrative scenes in bas-relief. At Angkor Wat, the external gallery wall is covered with some 12,000 or 13,000 square meters of such scenes, some of them historical, some mythological. Similarly, the outer gallery at the Bayon contains extensive bas-reliefs documenting the everyday life of the medieval Khmer as well as historical events from the reign of King Jayavarman VII.[20]
 
-Indraforestped01.JPG at Banteay Srei shows Indra releasing the rains in an attempt to extinguish the fire created by Agni.]] Angkor_Wat,_wall_details.JPG is the subject of this bas-relief at Angkor Wat.]] Bayonmarket01.JPG The following is a listing of the motifs illustrated in some of the more famous Angkorian narrative bas-reliefs:
+at Banteay Srei shows Indra releasing the rains in an attempt to extinguish the fire created by Agni.]] is the subject of this bas-relief at Angkor Wat.]] The following is a listing of the motifs illustrated in some of the more famous Angkorian narrative bas-reliefs:
 
 -   bas-reliefs in the tympana at Banteay Srei (10th century)
     -   the duel of the monkey princes Vali and Sugriva, and the intervention of the human hero Rama on behalf of the latter
@@ -140,7 +140,7 @@ Indraforestped01.JPG at Banteay Srei shows Indra releasing the rains in an attem
     -   the worship of Shiva
     -   groups of dancing apsaras
 
-Colonettesbanteaysrei.JPG is flanked by colonettes. Above the door is a lintel, above which is a tympanum with a scene from the Mahabharata.]]
+is flanked by colonettes. Above the door is a lintel, above which is a tympanum with a scene from the Mahabharata.]]
 
 Blind door and window
 
@@ -152,13 +152,13 @@ Colonettes were narrow decorative columns that served as supports for the beams 
 
 Corbelling
 
-Corbelangkorthomsouth.JPG.]] Ta-Prom_IntérieurGalerie.jpg.]] Angkorian engineers tended to use the corbel arch in order to construct rooms, passageways and openings in buildings. A corbel arch is constructed by adding layers of stones to the walls on either side of an opening, with each successive layer projecting further towards the centre than the one supporting it from below, until the two sides meet in the middle. The corbel arch is structurally weaker than the true arch. The use of corbelling prevented the Angkorian engineers from constructing large openings or spaces in buildings roofed with stone, and made such buildings particularly prone to collapse once they were no longer maintained. These difficulties did not, of course, exist for buildings constructed with stone walls surmounted by a light wooden roof. The problem of preventing the collapse of corbelled structures at Angkor remains a serious one for modern conservation.[23]
+.]] .]] Angkorian engineers tended to use the corbel arch in order to construct rooms, passageways and openings in buildings. A corbel arch is constructed by adding layers of stones to the walls on either side of an opening, with each successive layer projecting further towards the centre than the one supporting it from below, until the two sides meet in the middle. The corbel arch is structurally weaker than the true arch. The use of corbelling prevented the Angkorian engineers from constructing large openings or spaces in buildings roofed with stone, and made such buildings particularly prone to collapse once they were no longer maintained. These difficulties did not, of course, exist for buildings constructed with stone walls surmounted by a light wooden roof. The problem of preventing the collapse of corbelled structures at Angkor remains a serious one for modern conservation.[23]
 
 Lintel, pediment, and tympanum
 
 A lintel is a horizontal beam connecting two vertical columns between which runs a door or passageway. Because the Angkorean Khmer lacked the ability to construct a true arch, they constructed their passageways using lintels or corbelling. A pediment is a roughly triangular structure above a lintel. A tympanum is the decorated surface of a pediment.
 
-Pedlintelsrei_2.JPG and pediment at Banteay Srei; the motif on the pediment is Shiva Nataraja.]] The styles employed by Angkorean artists in the decoration of lintels evolved over time, as a result, the study of lintels has proven a useful guide to the dating of temples. Some scholars have endeavored to develop a periodization of lintel styles.[24] The most beautiful Angkorean lintels are thought to be those of the Preah Ko style from the late 9th century.[25]
+and pediment at Banteay Srei; the motif on the pediment is Shiva Nataraja.]] The styles employed by Angkorean artists in the decoration of lintels evolved over time, as a result, the study of lintels has proven a useful guide to the dating of temples. Some scholars have endeavored to develop a periodization of lintel styles.[24] The most beautiful Angkorean lintels are thought to be those of the Preah Ko style from the late 9th century.[25]
 
 Common motifs in the decoration of lintels include the kala, the nāga and the makara, as well as various forms of vegetation.[26] Also frequently depicted are the Hindu gods associated with the four cardinal directions, with the identity of the god depicted on a given lintel or pediment depending on the direction faced by that element. Indra, the god of the sky, is associated with East; Yama, the god of judgment and Hell, with South; Varuna, the god of the ocean, with West; and Kubera, god of wealth, with North.[27]
 
@@ -168,7 +168,7 @@ List of Khmer lintel styles
 -   Prei Khmeng style : Continuation of Sambor Prei Kuk but makaras disappear, being replaced by incurving ends and figures. Arches more rectilinear. Large figures sometimes at each end. A variation is a central scene below the arch, usually Vishnu Reclining.
 -   Kompong Preah style : High quality carving. Arches replaced by a garland of vegetation (like a wreath) more or less segmented. Medallions disappear, central one sometimes replaced by a knot of leaves. Leafy pendants spray out above and below garland.
 -   Kulen style : Great diversity, with influences from Champa and Java, including the kala and outward-facing makaras.
--   Preah Ko style : Some of the most beautiful of all Khmer lintels, rich, will-carved and imaginative. Kala in center, issuing garland on either side. Distinct loops of vegetation curl down from garland. Outward-facing makaras sometimes appear at the ends. Vishnu on Garuda common.Linteau_du_temple_Preah_Kô_(Angkor)_(6967952503).jpg
+-   Preah Ko style : Some of the most beautiful of all Khmer lintels, rich, will-carved and imaginative. Kala in center, issuing garland on either side. Distinct loops of vegetation curl down from garland. Outward-facing makaras sometimes appear at the ends. Vishnu on Garuda common.
 -   Bakheng style : Continuation of Preah Ko but less fanciful and tiny figures disappear. Loop of vegetation below the naga form tight circular coils. Garland begins to dip in the center.
 -   Koh Ker style : Center occupied by a prominent scene, taking up almost the entire height of the lintel. Usually no lower border. Dress of figures shows a curved line to the sampot tucked in below waist.
 -   Pre Rup style : Tendency to copy earlier style, especially Preah Ko and Bakheng. Central figures. Re-appearance of lower border.
@@ -180,20 +180,20 @@ List of Khmer lintel styles
 
 Stairs
 
-Angkor_Wat,_Camboya,_2013-08-15,_DD_054.JPG are daunting.]] Angkorean stairs are notoriously steep. Frequently, the length of the riser exceeds that of the tread, producing an angle of ascent somewhere between 45 and 70 degrees. The reasons for this peculiarity appear to be both religious and monumental. From the religious perspective, a steep stairway can be interpreted as a "stairway to heaven," the realm of the gods. "From the monumental point of view," according to Angkor-scholar Maurice Glaize, "the advantage is clear – the square of the base not having to spread in surface area, the entire building rises to its zenith with a particular thrust."[29]
+are daunting.]] Angkorean stairs are notoriously steep. Frequently, the length of the riser exceeds that of the tread, producing an angle of ascent somewhere between 45 and 70 degrees. The reasons for this peculiarity appear to be both religious and monumental. From the religious perspective, a steep stairway can be interpreted as a "stairway to heaven," the realm of the gods. "From the monumental point of view," according to Angkor-scholar Maurice Glaize, "the advantage is clear – the square of the base not having to spread in surface area, the entire building rises to its zenith with a particular thrust."[29]
 
 
 Motifs
 
 Apsara and devata
 
-Apsarasdevatakdei01.jpg.]] Bayon,_Angkor_Thom,_Camboya,_2013-08-16,_DD_04.jpgs''' appear on this pillar at the 12th-century Buddhist temple the Bayon.]] Apsaras, divine nymphs or celestial dancing girls, are characters from Indian mythology. Their origin is explained in the story of the churning of the Ocean of Milk, or samudra manthan, found in the Vishnu Purana. Other stories in the Mahabharata detail the exploits of individual apsaras, who were often used by the gods as agents to persuade or seduce mythological demons, heroes and ascetics. The widespread use of apsaras as a motif for decorating the walls and pillars of temples and other religious buildings, however, was a Khmer innovation. In modern descriptions of Angkorian temples, the term "apsara" is sometimes used to refer not only to dancers but also to other minor female deities, though minor female deities who are depicted standing about rather than dancing are more commonly called "devatas".[30]
+.]] s''' appear on this pillar at the 12th-century Buddhist temple the Bayon.]] Apsaras, divine nymphs or celestial dancing girls, are characters from Indian mythology. Their origin is explained in the story of the churning of the Ocean of Milk, or samudra manthan, found in the Vishnu Purana. Other stories in the Mahabharata detail the exploits of individual apsaras, who were often used by the gods as agents to persuade or seduce mythological demons, heroes and ascetics. The widespread use of apsaras as a motif for decorating the walls and pillars of temples and other religious buildings, however, was a Khmer innovation. In modern descriptions of Angkorian temples, the term "apsara" is sometimes used to refer not only to dancers but also to other minor female deities, though minor female deities who are depicted standing about rather than dancing are more commonly called "devatas".[30]
 
 Apsaras and devatas are ubiquitous at Angkor, but are most common in the foundations of the 12th century. Depictions of true (dancing) apsaras are found, for example, in the Hall of Dancers at Preah Khan, in the pillars that line the passageways through the outer gallery of the Bayon, and in the famous bas-relief of Angkor Wat depicting the churning of the Ocean of Milk. The largest population of devatas (around 2,000) is at Angkor Wat, where they appear individually and in groups.[31]
 
 Dvarapala
 
-Banteay_Kdei,_Angkor,_Camboya,_2013-08-16,_DD_15.JPG.]] Dvarapalas are human or demonic temple guardians, generally armed with lances and clubs. They are presented either as a stone statues or as relief carvings in the walls of temples and other buildings, generally close to entrances or passageways. Their function is to protect the temples. Dvarapalas may be seen, for example, at Preah Ko, Lolei, Banteay Srei, Preah Khan and Banteay Kdei.[32]
+.]] Dvarapalas are human or demonic temple guardians, generally armed with lances and clubs. They are presented either as a stone statues or as relief carvings in the walls of temples and other buildings, generally close to entrances or passageways. Their function is to protect the temples. Dvarapalas may be seen, for example, at Preah Ko, Lolei, Banteay Srei, Preah Khan and Banteay Kdei.[32]
 
 Gajasimha and Reachisey
 
@@ -203,7 +203,7 @@ The reachisey is another mythical animal, similar to the gajasimha, with the hea
 
 Garuda
 
-Linteau_Musée_Guimet_25972.jpg, GARUDA bears Vishnu on his shoulders.]] Garuda is a divine being that is part man and part bird. He is the lord of birds, the mythologial enemy of nāgas, and the battle steed of Vishnu. Depictions of Garuda at Angkor number in the thousands, and though Indian in inspiration exhibit a style that is uniquely Khmer.[34] They may be classified as follows:
+, GARUDA bears Vishnu on his shoulders.]] Garuda is a divine being that is part man and part bird. He is the lord of birds, the mythologial enemy of nāgas, and the battle steed of Vishnu. Depictions of Garuda at Angkor number in the thousands, and though Indian in inspiration exhibit a style that is uniquely Khmer.[34] They may be classified as follows:
 
 -   As part of a narrative bas relief, Garuda is shown as the battle steed of Vishnu or Krishna, bearing the god on his shoulders, and simultaneously fighting against the god's enemies. Numerous such images of Garuda may be observed in the outer gallery of Angkor Wat.
 -   Garuda serves as an atlas supporting a superstructure, as in the bas relief at Angkor Wat that depicts heaven and hell. Garudas and stylized mythological lions are the most common atlas figures at Angkor.
@@ -216,7 +216,7 @@ In the ancient religion of the Vedas, Indra the sky-god reigned supreme. In the 
 
 Kala
 
-Banteay_Srei_Kala.jpg.]] The kala is a ferocious monster symbolic of time in its all-devouring aspect and associated with the destructive side of the god Siva.[37] In Khmer temple architecture, the kala serves as a common decorative element on lintels, tympana and walls, where it is depicted as a monstrous head with a large upper jaw lined by large carnivorous teeth, but with no lower jaw. Some kalas are shown disgorging vine-like plants, and some serve as the base for other figures.
+.]] The kala is a ferocious monster symbolic of time in its all-devouring aspect and associated with the destructive side of the god Siva.[37] In Khmer temple architecture, the kala serves as a common decorative element on lintels, tympana and walls, where it is depicted as a monstrous head with a large upper jaw lined by large carnivorous teeth, but with no lower jaw. Some kalas are shown disgorging vine-like plants, and some serve as the base for other figures.
 
 Scholars have speculated that the origin of the kala as a decorative element in Khmer temple architecture may be found in an earlier period when the skulls of human victims were incorporated into buildings as a kind of protective magic or apotropaism. Such skulls tended to lose their lower jaws when the ligaments holding them together dried out. Thus, the kalas of Angkor may represent the Khmer civilization's adoption into its decorative iconography of elements derived from long forgotten primitive antecedents.[38]
 
@@ -232,7 +232,7 @@ Scenes from the life of Krishna, a hero and Avatar of the god Vishnu, are common
 
 Linga
 
-Linga_Musée_Guimet_2597.jpg The linga is a phallic post or cylinder symbolic of the god Shiva and of creative power.[44] As a religious symbol, the function of the linga is primarily that of worship and ritual, and only secondarily that of decoration. In the Khmer empire, certain lingas were erected as symbols of the king himself, and were housed in royal temples in order to express the king's consubstantiality with Siva.[45] The lingas that survive from the Angkorean period are generally made of polished stone.
+The linga is a phallic post or cylinder symbolic of the god Shiva and of creative power.[44] As a religious symbol, the function of the linga is primarily that of worship and ritual, and only secondarily that of decoration. In the Khmer empire, certain lingas were erected as symbols of the king himself, and were housed in royal temples in order to express the king's consubstantiality with Siva.[45] The lingas that survive from the Angkorean period are generally made of polished stone.
 
 The lingas of the Angkorian period are of several different types.
 
@@ -242,27 +242,27 @@ The lingas of the Angkorian period are of several different types.
 
 Makara
 
-Lintel_corner_with_makara_rider_1.jpg shows a man riding on the back of a MAKARA that in turn disgorges another monster.]] A makara is a mythical sea monster with the body of a serpent, the trunk of an elephant, and a head that can have features reminiscent of a lion, a crocodile, or a dragon. In Khmer temple architecture, the motif of the makara is generally part of a decorative carving on a lintel, tympanum, or wall. Often the makara is depicted with some other creature, such as a lion or serpent, emerging from its gaping maw. The makara is a central motif in the design of the famously beautiful lintels of the Roluos group of temples: Preah Ko, Bakong, and Lolei. At Banteay Srei, carvings of makaras disgorging other monsters may be observed on many of the corners of the buildings.
+shows a man riding on the back of a MAKARA that in turn disgorges another monster.]] A makara is a mythical sea monster with the body of a serpent, the trunk of an elephant, and a head that can have features reminiscent of a lion, a crocodile, or a dragon. In Khmer temple architecture, the motif of the makara is generally part of a decorative carving on a lintel, tympanum, or wall. Often the makara is depicted with some other creature, such as a lion or serpent, emerging from its gaping maw. The makara is a central motif in the design of the famously beautiful lintels of the Roluos group of temples: Preah Ko, Bakong, and Lolei. At Banteay Srei, carvings of makaras disgorging other monsters may be observed on many of the corners of the buildings.
 
 Nāga
 
-Buddha_shielded_by_Naga.jpg, the NĀGA king who shielded Buddha as he sat in meditation, was a favorite motif for Cambodian Buddhist sculptors from the 11th century. This statue is dated between 1150 and 1175 CE]]
+, the NĀGA king who shielded Buddha as he sat in meditation, was a favorite motif for Cambodian Buddhist sculptors from the 11th century. This statue is dated between 1150 and 1175 CE]]
 
 Mythical serpents, or nāgas, represent an important motif in Khmer architecture as well as in free-standing sculpture. They are frequently depicted as having multiple heads, always uneven in number, arranged in a fan. Each head has a flared hood, in the manner of a cobra.
 
-Linteau_Musée_Guimet_25973.jpg Nāgas are frequently depicted in Angkorian lintels. The composition of such lintels characteristically consists in a dominant image at the center of a rectangle, from which issue swirling elements that reach to the far ends of the rectangle. These swirling elements may take shape as either vinelike vegetation or as the bodies of nāgas. Some such nāgas are depicted wearing crowns, and others are depicted serving as mounts for human riders.
+Nāgas are frequently depicted in Angkorian lintels. The composition of such lintels characteristically consists in a dominant image at the center of a rectangle, from which issue swirling elements that reach to the far ends of the rectangle. These swirling elements may take shape as either vinelike vegetation or as the bodies of nāgas. Some such nāgas are depicted wearing crowns, and others are depicted serving as mounts for human riders.
 
 To the Angkorian Khmer, nāgas were symbols of water and figured in the myths of origin for the Khmer people, who were said to be descended from the union of an Indian Brahman and a serpent princess from Cambodia.[46] Nāgas were also characters in other well-known legends and stories depicted in Khmer art, such as the churning of the Ocean of Milk, the legend of the Leper King as depicted in the bas-reliefs of the Bayon, and the story of Mucalinda, the serpent king who protected the Buddha from the elements.[47]
 
 Nāga Bridge
 
-Statues_over_a_bridge-angkor.jpg hold the NĀGA Vasuki on a bridge leading into the 12th century city of Angkor Thom.]] Nāga bridges are causeways or true bridges lined by stone balustrades shaped as nāgas.
+hold the NĀGA Vasuki on a bridge leading into the 12th century city of Angkor Thom.]] Nāga bridges are causeways or true bridges lined by stone balustrades shaped as nāgas.
 
 In some Angkorian nāga-bridges, as for example those located at the entrances to 12th century city of Angkor Thom, the nāga-shaped balustrades are supported not by simple posts but by stone statues of gigantic warriors. These giants are the devas and asuras who used the nāga king Vasuki in order to the churn the Ocean of Milk in quest of the amrita or elixir of immortality. The story of the Churning of the Ocean of Milk or samudra manthan has its source in Indian mythology.
 
 Quincunx
 
-Quincunxlingakbalspean01.JPG, is carved into the riverbed at Kbal Spean.]] A quincunx is a spatial arrangement of five elements, with four elements placed as the corners of a square and the fifth placed in the center. The five peaks of Mount Meru were taken to exhibit this arrangement, and Khmer temples was arranged accordingly in order to convey a symbolic identification with the sacred mountain. The five brick towers of the 10th-century temple known as East Mebon, for example, are arranged in the shape of a quincunx. The quincunx also appears elsewhere in designs of the Angkorian period, as in the riverbed carvings of Kbal Spean.
+, is carved into the riverbed at Kbal Spean.]] A quincunx is a spatial arrangement of five elements, with four elements placed as the corners of a square and the fifth placed in the center. The five peaks of Mount Meru were taken to exhibit this arrangement, and Khmer temples was arranged accordingly in order to convey a symbolic identification with the sacred mountain. The five brick towers of the 10th-century temple known as East Mebon, for example, are arranged in the shape of a quincunx. The quincunx also appears elsewhere in designs of the Angkorian period, as in the riverbed carvings of Kbal Spean.
 
 Shiva
 

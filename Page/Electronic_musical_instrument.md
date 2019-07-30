@@ -1,4 +1,4 @@
-Bob_Moog3.jpg, inventor of the Moog synthesizer]] An ELECTRONIC MUSICAL INSTRUMENT is a musical instrument that produces sound using electronic circuitry. Such an instrument sounds by outputting an electrical, electronic or digital audio signal that ultimately is plugged into a power amplifier which drives a loudspeaker, creating the sound heard by the performer and listener.
+, inventor of the Moog synthesizer]] An ELECTRONIC MUSICAL INSTRUMENT is a musical instrument that produces sound using electronic circuitry. Such an instrument sounds by outputting an electrical, electronic or digital audio signal that ultimately is plugged into a power amplifier which drives a loudspeaker, creating the sound heard by the performer and listener.
 
 An electronic instrument might include a user interface for controlling its sound, often by adjusting the pitch, frequency, or duration of each note. A common user interface is the musical keyboard, which functions similarly to the keyboard on an acoustic piano, except that with an electronic keyboard, the keyboard itself does not make any sound. An electronic keyboard sends a signal to a synth module, computer or other electronic or digital sound generator, which then creates a sound. However, it is increasingly common to separate user interface and sound-generating functions into a music controller (input device) and a music synthesizer, respectively, with the two devices communicating through a musical performance description language such as MIDI or Open Sound Control.
 
@@ -9,7 +9,7 @@ In the 2010s, electronic musical instruments are now widely used in most styles 
 
 Early examples
 
-Clavecin_électrique.jpg In the 18th-century, musicians and composers adapted a number of acoustic instruments to exploit the novelty of electricity. Thus, in the broadest sense, the first electrified musical instrument was the Denis d'or keyboard, dating from 1753, followed shortly by the clavecin électrique by the Frenchman Jean-Baptiste de Laborde in 1761. The Denis d'or consisted of a keyboard instrument of over 700 strings, electrified temporarily to enhance sonic qualities. The clavecin électrique was a keyboard instrument with plectra (picks) activated electrically. However, neither instrument used electricity as a sound-source.
+In the 18th-century, musicians and composers adapted a number of acoustic instruments to exploit the novelty of electricity. Thus, in the broadest sense, the first electrified musical instrument was the Denis d'or keyboard, dating from 1753, followed shortly by the clavecin électrique by the Frenchman Jean-Baptiste de Laborde in 1761. The Denis d'or consisted of a keyboard instrument of over 700 strings, electrified temporarily to enhance sonic qualities. The clavecin électrique was a keyboard instrument with plectra (picks) activated electrically. However, neither instrument used electricity as a sound-source.
 
 The first electric synthesizer was invented in 1876 by Elisha Gray.[1][2] The "Musical Telegraph" was a chance by-product of his telephone technology when Gray accidentally discovered that he could control sound from a self-vibrating electromagnetic circuit and so invented a basic oscillator. The Musical Telegraph used steel reeds oscillated by electromagnets and transmitted over a telephone line. Gray also built a simple loudspeaker device into later models, which consisted of a diaphragm vibrating in a magnetic field.
 
@@ -19,7 +19,7 @@ Hugh Le Caine, John Hanert, Raymond Scott, composer Percy Grainger (with Burnett
 
 Telharmonium
 
-Teleharmonium1897.jpg 1897]]
+1897]]
 
 In 1897 Thaddeus Cahill patented an instrument called the Telharmonium (or Teleharmonium, also known as the Dynamaphone). Using tonewheels to generate musical sounds as electrical signals by additive synthesis, it was capable of producing any combination of notes and overtones, at any dynamic level. This technology was later used to design the Hammond organ. Between 1901 and 1910 Cahill had three progressively larger and more complex versions made, the first weighing seven tons, the last in excess of 200 tons. Portability was managed only by rail and with the use of thirty boxcars. By 1912, public interest had waned, and Cahill's enterprise was bankrupt.[6]
 
@@ -29,19 +29,13 @@ Another development, which aroused the interest of many composers, occurred in 1
 
 Ondes Martenot
 
-Ondes_martenot.jpg
-
 The 1920s have been called the apex of the Mechanical Age and the dawning of the Electrical Age. In 1922, in Paris, Darius Milhaud began experiments with "vocal transformation by phonograph speed change."[7] These continued until 1927. This decade brought a wealth of early electronic instruments—along with the Theremin, there is the presentation of the Ondes Martenot, which was designed to reproduce the microtonal sounds found in Hindu music, and the Trautonium. Maurice Martenot invented the Ondes Martenot in 1928, and soon demonstrated it in Paris. Composers using the instrument ultimately include Boulez, Honegger, Jolivet, Koechlin, Messiaen, Milhaud, Tremblay, and Varèse. Radiohead guitarist and multi-instrumentalist Jonny Greenwood also uses it in his compositions and a plethora of Radiohead songs. In 1937, Messiaen wrote _Fête des belles eaux_ for 6 ondes Martenot, and wrote solo parts for it in _Trois petites Liturgies de la Présence Divine_ (1943–44) and the _Turangalîla-Symphonie_ (1946–48/90).
 
 Trautonium
 
-Volkstrautonium_MIM.jpg
-
 The Trautonium was invented in 1928. It was based on the subharmonic scale, and the resulting sounds were often used to emulate bell or gong sounds, as in the 1950s Bayreuth productions of _Parsifal_. In 1942, Richard Strauss used it for the bell- and gong-part in the Dresden première of his _Japanese Festival Music_. This new class of instruments, microtonal by nature, was only adopted slowly by composers at first, but by the early 1930s there was a burst of new works incorporating these and other electronic instruments.
 
 Hammond organ and Novachord
-
-Novachord_frontS.jpg
 
 In 1929 Laurens Hammond established his company for the manufacture of electronic instruments. He went on to produce the Hammond organ, which was based on the principles of the Telharmonium, along with other developments including early reverberation units.[8] The Hammond organ is an electromechanical instrument, as it used both mechanical elements and electronic parts. A Hammond organ used spinning metal tonewheels to produce different sounds. A magnetic pickup similar in design to the pickups in an electric guitar is used to transmit the pitches in the tonewheels to an amplifier and speaker enclosure. While the Hammond organ was designed to be a lower-cost alternative to a pipe organ for church music, musicians soon discovered that the Hammond was an excellent instrument for blues and jazz; indeed, an entire genre of music developed built around this instrument, known as the organ trio (typically Hammond organ, drums, and a third instrument, either saxophone or guitar).
 
@@ -56,15 +50,11 @@ Modular synthesizers
 
 RCA produced experimental devices to synthesize voice and music in the 1950s. The Mark II Music Synthesizer, housed at the Columbia-Princeton Electronic Music Center in New York City. Designed by Herbert Belar and Harry Olson at RCA, with contributions from Vladimir Ussachevsky and Peter Mauzey, it was installed at Columbia University in 1957. Consisting of a room-sized array of interconnected sound synthesis components, it was only capable of producing music by programming,[9] using a paper tape sequencer punched with holes to control pitch sources and filters, similar to a mechanical player piano but capable of generating a wide variety of sounds. The vacuum tube system had to be patched to create timbres.
 
-Bob_Moog3.jpg In the 1960s synthesizers were still usually confined to studios due to their size. They were usually modular in design, their stand-alone signal sources and processors connected with patch cords or by other means and controlled by a common controlling device. Harald Bode, Don Buchla, Hugh Le Caine, Raymond Scott and Paul Ketoff were among the first to build such instruments, in the late 1950s and early 1960s. Buchla later produced a commercial modular synthesizer, the Buchla Music Easel.[10] Robert Moog, who had been a student of Peter Mauzey and one of the RCA Mark II engineers, created a synthesizer that could reasonably be used by musicians, designing the circuits while he was at Columbia-Princeton. The Moog synthesizer was first displayed at the Audio Engineering Society convention in 1964.[11] It required experience to set up sounds but was smaller and more intuitive than what had come before, less like a machine and more like a musical instrument. Moog established standards for control interfacing, using a logarithmic 1-volt-per-octave for pitch control and a separate triggering signal. This standardization allowed synthesizers from different manufacturers to operate simultaneously. Pitch control was usually performed either with an organ-style keyboard or a music sequencer producing a timed series of control voltages. During the late 1960s hundreds of popular recordings used Moog synthesizers. Other early commercial synthesizer manufacturers included ARP, who also started with modular synthesizers before producing all-in-one instruments, and British firm EMS.
-
-R.A.Moog_minimoog_2.jpg
+In the 1960s synthesizers were still usually confined to studios due to their size. They were usually modular in design, their stand-alone signal sources and processors connected with patch cords or by other means and controlled by a common controlling device. Harald Bode, Don Buchla, Hugh Le Caine, Raymond Scott and Paul Ketoff were among the first to build such instruments, in the late 1950s and early 1960s. Buchla later produced a commercial modular synthesizer, the Buchla Music Easel.[10] Robert Moog, who had been a student of Peter Mauzey and one of the RCA Mark II engineers, created a synthesizer that could reasonably be used by musicians, designing the circuits while he was at Columbia-Princeton. The Moog synthesizer was first displayed at the Audio Engineering Society convention in 1964.[11] It required experience to set up sounds but was smaller and more intuitive than what had come before, less like a machine and more like a musical instrument. Moog established standards for control interfacing, using a logarithmic 1-volt-per-octave for pitch control and a separate triggering signal. This standardization allowed synthesizers from different manufacturers to operate simultaneously. Pitch control was usually performed either with an organ-style keyboard or a music sequencer producing a timed series of control voltages. During the late 1960s hundreds of popular recordings used Moog synthesizers. Other early commercial synthesizer manufacturers included ARP, who also started with modular synthesizers before producing all-in-one instruments, and British firm EMS.
 
 Integrated synthesizers
 
 In 1970, Moog designed the Minimoog, a non-modular synthesizer with a built-in keyboard. The analogue circuits were interconnected with switches in a simplified arrangement called "normalization." Though less flexible than a modular design, normalization made the instrument more portable and easier to use. The Minimoog sold 12,000 units.[12] further standardized the design of subsequent synthesizers with its integrated keyboard, pitch and modulation wheels and VCO->VCF->VCA signal flow. It has become celebrated for its "fat" sound—and its tuning problems. Miniaturized solid-state components allowed synthesizers to become self-contained, portable instruments that soon appeared in live performance and quickly became widely used in popular music and electronic art music.[13]
-
-SCI_Prophet_5.jpg
 
 Polyphony
 
@@ -111,7 +101,7 @@ In mid 80s, Miller Puckette at IRCAM developed graphic signal-processing softwar
 
 MIDI
 
-Midiaansl.jpg In 1980, a group of musicians and music merchants met to standardize an interface by which new instruments could communicate control instructions with other instruments and the prevalent microcomputer. This standard was dubbed MIDI (Musical Instrument Digital Interface). A paper was authored by Dave Smith of Sequential Circuits and proposed to the Audio Engineering Society in 1981. Then, in August 1983, the MIDI Specification 1.0 was finalized.
+In 1980, a group of musicians and music merchants met to standardize an interface by which new instruments could communicate control instructions with other instruments and the prevalent microcomputer. This standard was dubbed MIDI (Musical Instrument Digital Interface). A paper was authored by Dave Smith of Sequential Circuits and proposed to the Audio Engineering Society in 1981. Then, in August 1983, the MIDI Specification 1.0 was finalized.
 
 The advent of MIDI technology allows a single keystroke, control wheel motion, pedal movement, or command from a microcomputer to activate every device in the studio remotely and in synchrony, with each device responding according to conditions predetermined by the composer.
 
@@ -126,19 +116,13 @@ By far the most common musical controller is the musical keyboard. Other control
 
 Reactable
 
-Reactable_Multitouch.jpg
-
 The Reactable is a round translucent table with a backlit interactive display. By placing and manipulating blocks called _tangibles_ on the table surface, while interacting with the visual display via finger gestures, a virtual modular synthesizer is operated, creating music or sound effects.
 
 Percussa AudioCubes
 
-Detailed_view_of_Audiocubes.jpg
-
 AudioCubes are autonomous wireless cubes powered by an internal computer system and rechargeable battery. They have internal RGB lighting, and are capable of detecting each other's location, orientation and distance. The cubes can also detect distances to the user's hands and fingers. Through interaction with the cubes, a variety of music and sound software can be operated. AudioCubes have applications in sound design, music production, DJing and live performance.
 
 Kaossilator
-
-KORG_Kaossilator.jpg
 
 The Kaossilator and Kaossilator Pro are compact instruments where the position of a finger on the touch pad controls two note-characteristics; usually the pitch is changed with a left-right motion and the tonal property, filter or other parameter changes with an up-down motion. The touch pad can be set to different musical scales and keys. The instrument can record a repeating loop of adjustable length, set to any tempo, and new loops of sound can be layered on top of existing ones. This lends itself to electronic dance-music but is more limited for controlled sequences of notes, as the pad on a regular Kaossilator is featureless.
 
@@ -165,8 +149,6 @@ DIY culture
 During the late 1970s and early 1980s, DIY (Do it yourself) designs were published in hobby electronics magazines (notably the Formant modular synth, a DIY clone of the Moog system, published by Elektor) and kits were supplied by companies such as Paia in the US, and Maplin Electronics in the UK.
 
 Circuit bending
-
-Bending.jpg
 
 In 1966, Reed Ghazala discovered and began to teach math "circuit bending"—the application of the creative short circuit, a process of chance short-circuiting, creating experimental electronic instruments, exploring sonic elements mainly of timbre and with less regard to pitch or rhythm, and influenced by John Cage’s aleatoric music concept.[30]
 

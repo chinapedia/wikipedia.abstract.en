@@ -5,7 +5,7 @@ The gray whale is distributed in an eastern North Pacific (North American), and 
 
 Taxonomy
 
-Gray_whale_skeleton.jpg The gray whale is traditionally placed as the only living species in its genus and family, _Eschrichtius_ and Eschrichtiidae,[12] but an extinct species was discovered and placed in the genus in 2017, the Akishima whale (_E. akishimaensis_).[13] Some recent DNA analyses have suggested that certain rorquals of the family Balaenopteridae, such as the humpback whale, _Megaptera novaeangliae_, and fin whale, _Balaenoptera physalus_, are more closely related to the gray whale than they are to some other rorquals, such as the minke whales.[14][15] But other recent studies place gray whales as being outside the rorqual clade, but as the closest relatives to the rorquals.[16]
+The gray whale is traditionally placed as the only living species in its genus and family, _Eschrichtius_ and Eschrichtiidae,[12] but an extinct species was discovered and placed in the genus in 2017, the Akishima whale (_E. akishimaensis_).[13] Some recent DNA analyses have suggested that certain rorquals of the family Balaenopteridae, such as the humpback whale, _Megaptera novaeangliae_, and fin whale, _Balaenoptera physalus_, are more closely related to the gray whale than they are to some other rorquals, such as the minke whales.[14][15] But other recent studies place gray whales as being outside the rorqual clade, but as the closest relatives to the rorquals.[16]
 
 John Edward Gray placed it in its own genus in 1865, naming it in honour of physician and zoologist Daniel Frederik Eschricht.[17] The common name of the whale comes from its coloration. The subfossil remains of now extinct gray whales from the Atlantic coasts of England and Sweden were used by Gray to make the first scientific description of a species then surviving only in Pacific waters.[18] The living Pacific species was described by Cope as _Rhachianectes glaucus_ in 1869.[19] Skeletal comparisons showed the Pacific species to be identical to the Atlantic remains in the 1930s, and Gray's naming has been generally accepted since.[20][21] Although identity between the Atlantic and Pacific populations cannot be proven by anatomical data, its skeleton is distinctive and easy to distinguish from that of all other living whales.[22]
 
@@ -14,11 +14,9 @@ Many other names have been ascribed to the gray whale, including desert whale,[2
 
 Description
 
-Grauwal.png The gray whale has a dark slate-gray color and is covered by characteristic gray-white patterns, scars left by parasites which drop off in its cold feeding grounds. Individual whales are typically identified using photographs of their dorsal surface and matching the scars and patches associated with parasites that have fallen off the whale or are still attached. They have two blowholes on top of their head, which can create a distinctive heart-shaped blow[26] at the surface in calm wind conditions.
+The gray whale has a dark slate-gray color and is covered by characteristic gray-white patterns, scars left by parasites which drop off in its cold feeding grounds. Individual whales are typically identified using photographs of their dorsal surface and matching the scars and patches associated with parasites that have fallen off the whale or are still attached. They have two blowholes on top of their head, which can create a distinctive heart-shaped blow[26] at the surface in calm wind conditions.
 
 Gray whales measure from in length for newborns to for adults (females tend to be slightly larger than adult males). Newborns are a darker gray to black in color. A mature gray whale can reach , with a typical range of .[27]
-
-GrayWhaleByPhilKonstantin.jpg
 
 Notable features that distinguish the gray whale from other mysticetes include its baleen that is variously described as cream, off-white, or blond in color and is unusually short. Small depressions on the upper jaw each contain a lone stiff hair, but are only visible on close inspection. Its head's ventral surface lacks the numerous prominent furrows of the related rorquals, instead bearing two to five shallow furrows on the throat's underside. The gray whale also lacks a dorsal fin, instead bearing 6 to 12 dorsal crenulations ("knuckles"), which are raised bumps on the midline of its rear quarter, leading to the flukes. This is known as the dorsal ridge. The tail itself is across and deeply notched at the center while its edges taper to a point.
 
@@ -31,7 +29,7 @@ Populations
 
 North Pacific
 
-Eschrichtius_robustus_01-cropped.jpg]] Spouting_gray_whale_Yachats,_OR_(8008163164).jpg]] Two Pacific Ocean populations are known to exist: one of not more than 130 individuals (according to the most recent population assessment in 2008[33]) whose migratory route is presumed to be between the Sea of Okhotsk and southern Korea, and a larger one with a population between 20,000 and 22,000 individuals in the eastern Pacific traveling between the waters off northernmost Alaska and Baja California Sur. Mothers make this journey accompanied by their calves, usually hugging the shore in shallow kelp beds, and fight viciously to protect their young if they are attacked.[34]
+]] ]] Two Pacific Ocean populations are known to exist: one of not more than 130 individuals (according to the most recent population assessment in 2008[33]) whose migratory route is presumed to be between the Sea of Okhotsk and southern Korea, and a larger one with a population between 20,000 and 22,000 individuals in the eastern Pacific traveling between the waters off northernmost Alaska and Baja California Sur. Mothers make this journey accompanied by their calves, usually hugging the shore in shallow kelp beds, and fight viciously to protect their young if they are attacked.[34]
 
 The western population has had a very slow growth rate despite heavy conservation action over the years, likely due to their very slow reproduction rate.[35] The state of the population hit an all-time low in 2010, when no new reproductive females were recorded, resulting in a minimum of 26 reproductive females being observed since 1995.[36] Even a very small number of additional annual female deaths will cause the subpopulation to decline.[37] However, as of 2018, evidence has indicated that the western population is markedly increasing in number, especially off Sakhalin Island. Following this, the IUCN downlisted the population's conservation status from critically endangered to endangered.[38][39]
 
@@ -49,7 +47,7 @@ Researchers[52] used a genetic approach to estimate pre-whaling abundance based 
 
 Integration and recolonization
 
-Gray_whale_calf_by_Marc_Webber_USFWS.jpg Several whales seen off Sakhalin and on Kamchatka Peninsula are confirmed to migrate towards eastern side of Pacific and join the larger eastern population. In January 2011, a gray whale that had been tagged in the western population was tracked as far east as the eastern population range off the coast of British Columbia.[55] Recent findings from either stranded or entangled specimens indicate that the original western population have become functionally extinct and possibly all the whales appeared on Japanese and Chinese coasts in modern times are vagrants or re-colonizers from the eastern population.[56][57]
+Several whales seen off Sakhalin and on Kamchatka Peninsula are confirmed to migrate towards eastern side of Pacific and join the larger eastern population. In January 2011, a gray whale that had been tagged in the western population was tracked as far east as the eastern population range off the coast of British Columbia.[55] Recent findings from either stranded or entangled specimens indicate that the original western population have become functionally extinct and possibly all the whales appeared on Japanese and Chinese coasts in modern times are vagrants or re-colonizers from the eastern population.[56][57]
 
 In mid-1980, there were three gray whale sightings in the eastern Beaufort Sea, placing them further east than their known range at the time.[58] Recent increases in sightings are confirmed in Arctic areas of the historic range for Atlantic stocks, most notably on several locations in the Laptev Sea including the New Siberian Islands in the East Siberian Sea,[59] and around the marine mammal sanctuary[60] of the Franz Josef Land,[61] indicating possible earlier pioneers of re-colonizations. These whales were darker in body color than those whales seen in Sea of Okhotsk.[62] In May 2010, a gray whale was sighted off the Mediterranean shore of Israel.[63] It has been speculated that this whale crossed from the Pacific to the Atlantic via the Northwest Passage, since an alternative route around Cape Horn would not be contiguous to the whale's established territory. There has been gradual melting and recession of Arctic sea ice with extreme loss in 2007 rendering the Northwest Passage "fully navigable".[64] The same whale was sighted again on May 30, 2010, off the coast of Barcelona, Spain.[65]
 
@@ -60,7 +58,7 @@ Genetic analysis of fossil and prefossil gray whale remains in the Atlantic Ocea
 
 Life history
 
-Whale_with_Laguna_Peak,_California,_in_background.jpg.]]
+.]]
 
 Reproduction
 
@@ -72,11 +70,9 @@ On 7 January 2014, a pair of newborn or aborted conjoined twin grey whale calves
 
 Feeding
 
-Gray-Whale-Collage.jpg, California]] The whale feeds mainly on benthic crustaceans, which it eats by turning on its side and scooping up sediments from the sea floor. This unique feeding selection makes gray whales one of the most strongly reliant on coastal waters among baleen whales. It is classified as a baleen whale and has baleen, or whalebone, which acts like a sieve, to capture small sea animals, including amphipods taken in along with sand, water and other material. Mostly, the animal feeds in the northern waters during the summer; and opportunistically feeds during its migration, depending primarily on its extensive fat reserves. Calf gray whales drink of their mothers' 53% fat milk per day.[81]
+, California]] The whale feeds mainly on benthic crustaceans, which it eats by turning on its side and scooping up sediments from the sea floor. This unique feeding selection makes gray whales one of the most strongly reliant on coastal waters among baleen whales. It is classified as a baleen whale and has baleen, or whalebone, which acts like a sieve, to capture small sea animals, including amphipods taken in along with sand, water and other material. Mostly, the animal feeds in the northern waters during the summer; and opportunistically feeds during its migration, depending primarily on its extensive fat reserves. Calf gray whales drink of their mothers' 53% fat milk per day.[81]
 
 The main feeding habitat of the western Pacific subpopulation is the shallow ( depth) shelf off northeastern Sakhalin Island, particularly off the southern portion of Piltun Lagoon, where the main prey species appear to be amphipods and isopods.[82] In some years, the whales have also used an offshore feeding ground in depth southeast of Chayvo Bay, where benthic amphipods and cumaceans are the main prey species.[83] Some gray whales have also been seen off western Kamchatka, but to date all whales photographed there are also known from the Piltun area.[84][85]
-
-Greywhale845.jpg
 
 Migration
 
@@ -84,7 +80,7 @@ Predicted distribution models indicate that overall range in the last glacial pe
 
 Eastern Pacific population
 
-Anim1723_-_Flickr_-_NOAA_Photo_Library.jpg Each October, as the northern ice pushes southward, small groups of eastern gray whales in the eastern Pacific start a two- to three-month, trip south. Beginning in the Bering and Chukchi seas and ending in the warm-water lagoons of Mexico's Baja California Peninsula and the southern Gulf of California, they travel along the west coast of Canada, the United States and Mexico.
+Each October, as the northern ice pushes southward, small groups of eastern gray whales in the eastern Pacific start a two- to three-month, trip south. Beginning in the Bering and Chukchi seas and ending in the warm-water lagoons of Mexico's Baja California Peninsula and the southern Gulf of California, they travel along the west coast of Canada, the United States and Mexico.
 
 Traveling night and day, the gray whale averages approximately per day at an average speed of . This round trip of is believed to be the longest annual migration of any mammal. By mid-December to early January, the majority are usually found between Monterey and San Diego such as at Morro bay, often visible from shore. The whale watching industry provides ecotourists and marine mammal enthusiasts the opportunity to see groups of gray whales as they migrate.
 
@@ -100,13 +96,13 @@ By late March or early April, the returning animals can be seen from Puget Sound
 
 Resident groups
 
-Eschrichtius_robustus_Nootka_1.jpg within residential range.]] A population of about 200 gray whales stay along the eastern Pacific coast from Canada to California throughout the summer, not making the farther trip to Alaskan waters. This summer resident group is known as the Pacific Coast feeding group.[90]
+within residential range.]] A population of about 200 gray whales stay along the eastern Pacific coast from Canada to California throughout the summer, not making the farther trip to Alaskan waters. This summer resident group is known as the Pacific Coast feeding group.[90]
 
 Any historical or current presence of similar groups of residents among the western population is currently unknown, however, whalers' logbooks and scientific observations indicate that possible year-round occurrences in Chinese waters and Yellow and Bohai basins were likely to be summering grounds.[91][92] Some of the better documented historical catches show that it was common for whales to stay for months in enclosed waters elsewhere, with known records in the Seto Inland Sea[93] and the Gulf of Tosa. Former feeding areas were once spread over large portions on mid-Honshu to northern Hokkaido, and at least whales were recorded for majority of annual seasons including wintering periods at least along east coasts of Korean Peninsula and Yamaguchi Prefecture.[94] Some recent observations indicate that historic presences of resident whales are possible: a group of two or three were observed feeding in Izu Ōshima in 1994 for almost a month,[95] two single individuals stayed in Ise Bay for almost two months in the 1980s and in 2012, the first confirmed living individuals in Japanese EEZ in the Sea of Japan and the first of living cow-calf pairs since the end of whaling stayed for about three weeks on the coastline of Teradomari in 2014.[96][97] One of the pair returned to the same coasts at the same time of the year in 2015 again.[98] Reviewing on other cases on different locations among Japanese coasts and islands observed during 2015 indicate that spatial or seasonal residencies regardless of being temporal or permanental staying once occurred throughout many parts of Japan or on other coastal Asia.[99]
 
 Western population
 
-Sakhalin-gray-whale-small.jpg The current western gray whale population summers in the Sea of Okhotsk, mainly off Piltun Bay region at the northeastern coast of Sakhalin Island (Russian Federation). There are also occasional sightings off the eastern coast of Kamchatka (Russian Federation) and in other coastal waters of the northern Okhotsk Sea.[100][101] Its migration routes and wintering grounds are poorly known, the only recent information being from occasional records on both the eastern and western coasts of Japan[102] and along the Chinese coast.[103] Gray whale had not been observed on Commander Islands until 2016.[104]
+The current western gray whale population summers in the Sea of Okhotsk, mainly off Piltun Bay region at the northeastern coast of Sakhalin Island (Russian Federation). There are also occasional sightings off the eastern coast of Kamchatka (Russian Federation) and in other coastal waters of the northern Okhotsk Sea.[100][101] Its migration routes and wintering grounds are poorly known, the only recent information being from occasional records on both the eastern and western coasts of Japan[102] and along the Chinese coast.[103] Gray whale had not been observed on Commander Islands until 2016.[104]
 
 The Sea of Japan was once thought not to have been a migration route, until several entanglements were recorded.[105] Any records of the species had not been confirmed since after 1921 on Kyushu.[106] However, there were numerous records of whales along the Genkai Sea off Yamaguchi Prefecture,[107] in Ine Bay in the Gulf of Wakasa, and in Tsushima. Gray whales, along with other species such as right whales and Baird's beaked whales, were common features off the north eastern coast of Hokkaido near Teshio, Ishikari Bay near Otaru, the Shakotan Peninsula, and islands in the La Pérouse Strait such as Rebun Island and Rishiri Island. These areas may also have included feeding grounds.[108] There are shallow, muddy areas favorable for feeding whales off Shiretoko, such as at Shibetsu, the Notsuke Peninsula, Cape Ochiishi on Nemuro Peninsula, Mutsu Bay,[109] along the Tottori Sand Dunes, in the Suou-nada Sea, and Ōmura Bay.
 
@@ -144,7 +140,7 @@ Whaling
 
 North Pacific
 
-Eschrichtius_robustus1.jpg's 1874 illustration of a gray whale]]
+'s 1874 illustration of a gray whale]]
 
 Eastern population
 
@@ -156,7 +152,7 @@ Gray whaling in Magdalena Bay was revived in the winter of 1855–56 by several 
 
 In December 1857, Charles Scammon, in the brig _Boston_, along with his schooner-tender _Marin_, entered Laguna Ojo de Liebre (Jack-Rabbit Spring Lagoon) or later known as Scammon's Lagoon (by 1860) and found one of the gray's last refuges. He caught 20 whales.[168] He returned the following winter (1858–59) with the bark _Ocean Bird_ and schooner tenders _A.M. Simpson_ and _Kate_. In three months, he caught 47 cows, yielding of oil.[169] In the winter of 1859–60, Scammon, again in the bark _Ocean Bird_, along with several other vessels, entered San Ignacio Lagoon to the south where he discovered the last breeding lagoon. Within only a couple of seasons, the lagoon was nearly devoid of whales.[170]
 
-Between 1846 and 1874, an estimated 8,000 gray whales were killed by American and European whalemen, with over half having been killed in the Magdalena Bay complex (Estero Santo Domingo, Magdalena Bay itself, and Almejas Bay) and by shore whalemen in California and Baja California.[171] Gray_Whale_Spyhopping_courtesy_of_Marc_Webber_USFWS.jpg A second, shorter, and less intensive hunt occurred for gray whales in the eastern North Pacific. Only a few were caught from two whaling stations on the coast of California from 1919 to 1926, and a single station in Washington (1911–21) accounted for the capture of another. For the entire west coast of North America for the years 1919 to 1929, 234 gray whales were caught. Only a dozen or so were taken by British Columbian stations, nearly all of them in 1953 at Coal Harbour.[172] A whaling station in Richmond, California, caught 311 gray whales for "scientific purposes" between 1964 and 1969. From 1961 to 1972, the Soviet Union caught 138 gray whales (they originally reported not having taken any). The only other significant catch was made in two seasons by the steam-schooner _California_ off Malibu, California. In the winters of 1934–35 and 1935–36, the _California_ anchored off Point Dume in Paradise Cove, processing gray whales. In 1936, gray whales became protected in the United States.[173]
+Between 1846 and 1874, an estimated 8,000 gray whales were killed by American and European whalemen, with over half having been killed in the Magdalena Bay complex (Estero Santo Domingo, Magdalena Bay itself, and Almejas Bay) and by shore whalemen in California and Baja California.[171] A second, shorter, and less intensive hunt occurred for gray whales in the eastern North Pacific. Only a few were caught from two whaling stations on the coast of California from 1919 to 1926, and a single station in Washington (1911–21) accounted for the capture of another. For the entire west coast of North America for the years 1919 to 1929, 234 gray whales were caught. Only a dozen or so were taken by British Columbian stations, nearly all of them in 1953 at Coal Harbour.[172] A whaling station in Richmond, California, caught 311 gray whales for "scientific purposes" between 1964 and 1969. From 1961 to 1972, the Soviet Union caught 138 gray whales (they originally reported not having taken any). The only other significant catch was made in two seasons by the steam-schooner _California_ off Malibu, California. In the winters of 1934–35 and 1935–36, the _California_ anchored off Point Dume in Paradise Cove, processing gray whales. In 1936, gray whales became protected in the United States.[173]
 
 Western population
 
@@ -171,7 +167,7 @@ The North Atlantic population may have been hunted to extinction in the 18th cen
 
 Conservation
 
-Gray_whale,_theb3672.jpg Gray whales have been granted protection from commercial hunting by the International Whaling Commission (IWC) since 1949, and are no longer hunted on a large scale.
+Gray whales have been granted protection from commercial hunting by the International Whaling Commission (IWC) since 1949, and are no longer hunted on a large scale.
 
 Limited hunting of gray whales has continued since that time, however, primarily in the Chukotka region of northeastern Russia, where large numbers of gray whales spend the summer months. This hunt has been allowed under an "aboriginal/subsistence whaling" exception to the commercial-hunting ban. Anti-whaling groups have protested the hunt, saying the meat from the whales is not for traditional native consumption, but is used instead to feed animals in government-run fur farms; they cite annual catch numbers that rose dramatically during the 1940s, at the time when state-run fur farms were being established in the region. Although the Soviet government denied these charges as recently as 1987, in recent years the Russian government has acknowledged the practice. The Russian IWC delegation has said that the hunt is justified under the aboriginal/subsistence exemption, since the fur farms provide a necessary economic base for the region's native population.
 
@@ -203,7 +199,7 @@ Killer whales are "a prime predator of gray whale calves."[202] Typically three 
 
 Captivity
 
-Graywhale_MMC.jpg Because of their size and need to migrate, gray whales have rarely been held in captivity, and then only for brief periods of time. The first captive gray whale, who was captured in Scammon's Lagoon, Baja California in 1965, was named Gigi and died two months later from an infection.[204] The second gray whale, who was captured in 1972 from the same lagoon, was named Gigi II and was released a year later after becoming too large for the facilities.[205] The last gray whale, J.J., first beached herself in Marina del Rey, California where she was rushed to SeaWorld San Diego. After 14 months, she was released because she also grew too large to be cared for in the existing facilities. Reaching and , J.J. was the largest creature ever to be kept in captivity.[206]
+Because of their size and need to migrate, gray whales have rarely been held in captivity, and then only for brief periods of time. The first captive gray whale, who was captured in Scammon's Lagoon, Baja California in 1965, was named Gigi and died two months later from an infection.[204] The second gray whale, who was captured in 1972 from the same lagoon, was named Gigi II and was released a year later after becoming too large for the facilities.[205] The last gray whale, J.J., first beached herself in Marina del Rey, California where she was rushed to SeaWorld San Diego. After 14 months, she was released because she also grew too large to be cared for in the existing facilities. Reaching and , J.J. was the largest creature ever to be kept in captivity.[206]
 
 
 See also

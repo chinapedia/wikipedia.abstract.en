@@ -110,7 +110,7 @@ Design methods is a broad area that focuses on:
 
 Terminology
 
-The word "design" is often considered ambiguous, as it is applied in varying contexts. M-T4.jpg in Madrid, Spain]]
+The word "design" is often considered ambiguous, as it is applied in varying contexts. in Madrid, Spain]]
 
 Design and art
 
@@ -120,13 +120,13 @@ The boundaries between art and design are blurred, largely due to a range of app
 
 To a degree, some methods for creating work, such as employing intuition, are shared across the disciplines within the applied arts and fine art. Mark Getlein, writer, suggests the principles of design are "almost instinctive", "built-in", "natural", and part of "our sense of 'rightness'."[37] However, the intended application and context of the resulting works will vary greatly.
 
-Booster-Layout.jpgs. Engineering is applied to design, with emphasis on function and the utilization of mathematics and science.]]
+s. Engineering is applied to design, with emphasis on function and the utilization of mathematics and science.]]
 
 Design and engineering
 
 In engineering, design is a component of the engineering process. Many overlapping methods and processes can be seen when comparing Product design, Industrial design and Engineering. The American Heritage Dictionary defines design as: _"To conceive or fashion in the mind; invent,"_ and _"To formulate a plan"_, and defines engineering as: _"The application of scientific and mathematical principles to practical ends such as the design, manufacture, and operation of efficient and economical structures, machines, processes, and systems."_.[38][39] Both are forms of problem-solving with a defined distinction being the application of "scientific and mathematical principles". The increasingly scientific focus of engineering in practice, however, has raised the importance of more new "human-centered" fields of design.[40] How much science is applied in a design is a question of what is considered "science". Along with the question of what is considered science, there is social science versus natural science. Scientists at Xerox PARC made the distinction of design versus engineering at "moving minds" versus "moving atoms" (probably in contradiction to the origin of term "engineering – engineer" from Latin "in genio" in meaning of a "genius" what assumes existence of a "mind" not of an "atom").
 
-Aluminium_MacBook.png has received several awards for his design of Apple Inc. products like this MacBook. In some design fields, personal computers are also used for both design and production]]
+has received several awards for his design of Apple Inc. products like this MacBook. In some design fields, personal computers are also used for both design and production]]
 
 Design and production
 
@@ -136,7 +136,7 @@ Design and production are intertwined in many creative professional careers, mea
 
 This is not to say that production never involves problem-solving or creativity, nor that design always involves creativity. Designs are rarely perfect and are sometimes repetitive. The imperfection of a design may task a production position (e.g. production artist, construction worker) with utilizing creativity or problem-solving skills to compensate for what was overlooked in the design process. Likewise, a design may be a simple repetition (copy) of a known preexisting solution, requiring minimal, if any, creativity or problem-solving skills from the designer.
 
-BPMN-DiscussionCycle.jpg.]]
+.]]
 
 Process design
 

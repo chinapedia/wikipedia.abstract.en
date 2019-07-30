@@ -1,5 +1,3 @@
-Amber_Road.jpg Baltis_amber_road.jpg
-
 The AMBER ROAD was an ancient trade route for the transfer of amber from coastal areas of the North Sea and the Baltic Sea to the Mediterranean Sea.[1] Prehistoric trade routes between Northern and Southern Europe were defined by the amber trade. As an important commodity, sometimes dubbed "the gold of the north", amber was transported from the North Sea and Baltic Sea coasts overland by way of the Vistula and Dnieper rivers to Italy, Greece, the Black Sea, Syria and Egypt over a period of thousands of years.
 
 
@@ -16,7 +14,7 @@ Kaliningrad Oblast is occasionally referred to in Russian as , which means "the 
 
 Overview of known amber finding places in Europe
 
-Amber_sources_in_Europe.jpg Amber roads connect amber finding locations to customer sites in Europe, in the Middle East regions and in the Far East.
+Amber roads connect amber finding locations to customer sites in Europe, in the Middle East regions and in the Far East.
 
 
 Overview of known amber roads by country
@@ -27,7 +25,7 @@ The shortest (and possibly oldest) road avoids alpine areas and led from the Bal
 
 Germany
 
-German_Amber_Roads.gif Several roads connected the North Sea and Baltic Sea, especially the city of Hamburg to the Brenner Pass, proceeding southwards to Brindisi (nowadays Italy) and Ambracia (nowadays Greece).
+Several roads connected the North Sea and Baltic Sea, especially the city of Hamburg to the Brenner Pass, proceeding southwards to Brindisi (nowadays Italy) and Ambracia (nowadays Greece).
 
 Switzerland
 

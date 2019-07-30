@@ -7,7 +7,7 @@ A majority of mainstream scientists have historically discounted the existence o
 
 Description
 
-Pikes_Peak_Bigfoot_P4160515.jpg]] People who claim to have seen it describe Bigfoot as large, muscular, bipedal ape-like creatures, roughly tall, covered in hair described as black, dark brown, or dark reddish.[6][7]
+]] People who claim to have seen it describe Bigfoot as large, muscular, bipedal ape-like creatures, roughly tall, covered in hair described as black, dark brown, or dark reddish.[6][7]
 
 The enormous footprints for which the creatures are named are claimed to be as large as long and wide.[8] Some footprint casts have also contained claw marks, making it likely that they came from known animals such as bears, which have five toes and claws.[9][10]
 
@@ -38,8 +38,6 @@ Various explanations have been suggested for the sightings and to offer conjectu
 
 Misidentification
 
-Croped_BFRO_image.jpg
-
 In 2007 the Bigfoot Field Researchers Organization put forward some photos which they claimed showed a juvenile Bigfoot. The Pennsylvania Game Commission, however, said that the photos were of a bear with mange.[33][34] However, anthropologist Jeffrey Meldrum,[35] and Ohio scientist Jason Jarvis said that the limb proportions of the creature were not bear-like, they were "more like a chimpanzee."[36]
 
 Hoaxes
@@ -56,7 +54,7 @@ In January 2014, Rick Dyer, perpetrator of a previous Bigfoot hoax, said that he
 
 _Gigantopithecus_
 
-Gigantopithecus_blacki_mandible_010112.jpg Bigfoot proponents Grover Krantz and Geoffrey H. Bourne believed that Bigfoot could be a relict population of _Gigantopithecus_. All _Gigantopithecus_ fossils were found in Asia, but according to Bourne, many species of animals migrated across the Bering land bridge and he suggested that _Gigantopithecus_ might have done so, as well.[59] _Gigantopithecus_ fossils have not been found in the Americas. The only recovered fossils are of mandibles and teeth, leaving uncertainty about _Gigantopithecus_'s locomotion. Krantz has argued that _Gigantopithecus blacki_ could have been bipedal, based on his extrapolation of the shape of its mandible. However, the relevant part of the mandible is not present in any fossils.[60] An alternative view is that _Gigantopithecus_ was quadrupedal; its enormous mass would have made it difficult for it to adopt a bipedal gait.
+Bigfoot proponents Grover Krantz and Geoffrey H. Bourne believed that Bigfoot could be a relict population of _Gigantopithecus_. All _Gigantopithecus_ fossils were found in Asia, but according to Bourne, many species of animals migrated across the Bering land bridge and he suggested that _Gigantopithecus_ might have done so, as well.[59] _Gigantopithecus_ fossils have not been found in the Americas. The only recovered fossils are of mandibles and teeth, leaving uncertainty about _Gigantopithecus_'s locomotion. Krantz has argued that _Gigantopithecus blacki_ could have been bipedal, based on his extrapolation of the shape of its mandible. However, the relevant part of the mandible is not present in any fossils.[60] An alternative view is that _Gigantopithecus_ was quadrupedal; its enormous mass would have made it difficult for it to adopt a bipedal gait.
 
 Matt Cartmill criticizes the _Gigantopithecus_ hypothesis:
 
@@ -134,7 +132,7 @@ In February 2016, the University of New Mexico at Gallup held a two-day Bigfoot 
 
 In popular culture
 
-Pikes_peak_highway_big_foot.jpg sign warning of Bigfoot crossings on Pikes Peak Highway in Colorado]] Bigfoot has had a demonstrable impact as a popular culture phenomenon.
+sign warning of Bigfoot crossings on Pikes Peak Highway in Colorado]] Bigfoot has had a demonstrable impact as a popular culture phenomenon.
 
 When asked for her opinion of Bigfoot in a September 27, 2002, interview on National Public Radio's "Science Friday", Jane Goodall said "I'm sure they exist", and later said, chuckling, "Well, I'm a romantic, so I always wanted them to exist", and finally, "You know, why isn't there a body? I can't answer that, and maybe they don't exist, but I want them to."[105] In 2012, when asked again by _The Huffington Post_, Goodall said, "I'm fascinated and would actually love them to exist," adding, "Of course, it's strange that there has never been a single authentic hide or hair of the Bigfoot, but I've read all the accounts."[106]
 

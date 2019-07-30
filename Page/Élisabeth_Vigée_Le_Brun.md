@@ -7,8 +7,6 @@ Vigée Le Brun created some 660 portraits and 200 landscapes.[4] In addition to 
 
 Biography
 
-Madame_Vigee-Lebrun_and_her_daughter,_Jeanne_Lucia_(Julie).jpg
-
 Early life
 
 Born in Paris on 16 April 1755, Élisabeth Louise Vigée was the daughter of a portraitist and fan painter, Louis Vigée, from whom she received her first instruction.[5] Her mother, Jeanne (née Maissin) (1728–1800), was a hairdresser.[6] In 1760, at the age of five, she entered a convent, where she remained until 1766.[7] Her father died when she was twelve years old. In 1768, her mother married a wealthy jeweler, Jacques-François Le Sèvre, and shortly after, the family moved to the Rue Saint-Honoré, close to the Palais Royal.[8] In her memoir, Vigée Le Brun directly stated her feelings about her step-father: "I hated this man; even more so since he made use of my father's personal possessions. He wore his clothes, just as they were, without altering them to fit his figure."[9] During this period, Élisabeth benefited from the advice of Gabriel François Doyen, Jean-Baptiste Greuze, and Joseph Vernet, whose influence is evident in her portrait of her younger brother, Étienne Vigée (1773).[10]
@@ -17,19 +15,13 @@ By the time she was in her early teens, Élisabeth was painting portraits profes
 
 On 12 February 1780, Vigée-Le Brun gave birth to a daughter, Jeanne Lucie Louise, whom she called Julie and nicknamed "Brunette."[14]
 
-Elisabeth_Vig%C3%A9e-Lebrun_-_Madame_Perregaux_-_WGA25078.jpg
-
 In 1781 she and her husband toured Flanders and the Netherlands, where seeing the works of the Flemish masters inspired her to try new techniques. Her _Self-Portrait with Straw Hat_ (1782) was a "free imitation" of Peter Paul Rubens' _La Chapeau de Paille_ (ca. 1622–25).[15][16] Dutch and Flemish influences have also been noted in _The Comte d'Espagnac_ (1786) and _Madame Perregaux_ (1789).[17]
 
 In 1787, she caused a minor public scandal when her _Self-Portrait with Her Daughter Julie_ (1787) was exhibited at the Salon of 1787 showing her smiling and open-mouthed, which was in direct contravention of traditional painting conventions going back to antiquity. The court gossip-sheet _Mémoires secrets_ commented: "An affectation which artists, art-lovers and persons of taste have been united in condemning, and which finds no precedent among the Ancients, is that in smiling, [Madame Vigée LeBrun] shows her teeth."[18] In light of this and her other _Self-Portrait with Her Daughter Julie_ (1789), Simone de Beauvoir dismissed Vigée Le Brun as narcissistic in _The Second Sex_ (1949): "Madame Vigée-Lebrun never wearied of putting her smiling maternity on her canvases."[19]
 
-Marie_Antoinette_and_her_Children_by_Élisabeth_Vigée-Lebrun.jpg
-
 Marie Antoinette
 
 As her career blossomed, Vigée Le Brun was granted patronage by Marie Antoinette.[20] She painted more than thirty portraits of the queen and her family,[21] leading to the common perception that she was the official portraitist of Marie Antoinette. At the Salon of 1783, Vigée Le Brun exhibited _Marie-Antoinette in a Muslin Dress_ (1783), sometimes called _Marie-Antoinette en gaulle_, in which the queen chose to be shown in a simple, informal white cotton garment.[22] The resulting scandal was prompted by both the informality and the queen's decision to be shown in that way.[23] Vigée Le Brun's later _Marie-Antoinette and her Children_ (1787) was evidently an attempt to improve the queen's image by making her more relatable to the public, in the hopes of countering the bad press and negative judgments that the queen had recently received.[24] The portrait shows the queen at home in the Palace of Versailles, engaged in her official function as the mother of the king's children, but also suggests Marie-Antoinette's uneasy identity as a foreign-born queen whose maternal role was her only true function under Salic law.[25]
-
-%C3%89lisabeth_Vig%C3%A9e_Le_Brun._La_paix_ramenant_l%27abondance.jpg
 
 Académie royale de peinture et de sculpture
 
@@ -39,13 +31,9 @@ Exile
 
 In October 1789, after the arrest of the royal family during the French Revolution, Vigée Le Brun fled France with her young daughter, Julie.[33] Her husband, who remained in Paris, claimed that Vigée Le Brun went to Italy "to instruct and improve herself",[34] but she certainly feared for her own safety.[35][36][37] In her twelve-year absence from France, she lived and worked in Italy (1789–92), Austria (1792–95), Russia (1795–1801), and Germany (1801).[38]
 
-Elisabeth_Vig%C3%A9e-Lebrun_-_Lady_Hamilton_as_the_Persian_Sibyl.jpg
-
 Italy
 
 While in Italy, Vigée Le Brun was elected to the Academy in Parma (1789) and the Accademia di San Luca in Rome (1790).[39] In Naples, she painted portraits of Maria Carolina of Austria (sister of Marie Antoinette) and her eldest four living children: Maria Teresa, Francesco, Luisa, and Maria Cristina.[40] She later recalled that Luisa "was extremely ugly, and pulled such faces that I was most reluctant to finish her portrait."[41] Vigée Le Brun also painted allegorical portraits of the notorious Emma Hamilton as Ariadne (1790) and as a Bacchante (ca. 1792). Lady Hamilton was similarly the model for Vigée Le Brun's _Sibyl_ (1792), which was inspired by the painted sibyls of Domenichino.[42][43] The painting represents the Cumaean Sibyl, as indicated by the Greek inscription on the figure's scroll, which is taken from Virgil's fourth Eclogue.[44] The _Sibyl_ was Vigée Le Brun's favorite painting.[45] It is mentioned in her memoir more than any other work.[46][47] She displayed it while in Venice (1792), Vienna (1792), Dresden (1794), and Saint Petersburg (1795); she also sent it to be shown at the Salon of 1798.[48][49] Like her reception piece, _Peace Bringing Back Abundance_ (1783), Vigée Le Brun regarded her _Sibyl_ as a history painting, the most elevated category in the Académie's hierarchy.[50]
-
-Portrait_of_Princess_Maria_Josefa_Hermenegilde_von_Esterhazy_(1793)_Le_Brun.jpg
 
 Austria
 
@@ -53,11 +41,11 @@ While in Vienna, Vigée Le Brun was commissioned to paint _Princess Maria Josefa
 
 Russia
 
-Alexandra_and_Elena_Pavlovna_of_Russia_by_E.Vigee-Lebrun_(1796,_Hermitage).jpg'', 1795–97]]
+'', 1795–97]]
 
 In Russia, where she stayed from 1795 until 1801, she was received by the nobility and painted numerous aristocrats, including the last king of Poland, Stanisław August Poniatowski, and members of the family of Catherine the Great.[53] Although the French aesthetic was widely admired in Russia,[54] there remained various cultural differences as to what was deemed acceptable. Catherine was not initially happy with Vigée Le Brun's portrait of her granddaughters, Elena and Alexandra Pavlovna, due to the amount of bare skin the short-sleeved gowns revealed.[55] In order to please the Empress, Vigée Le Brun added sleeves. This tactic seemed effective in pleasing Catherine, as she agreed to sit herself for Vigée Le Brun (although Catherine died of a stroke before this work was due to begin).[56] While in Russia, Vigée Le Brun was made a member of the Academy of Fine Arts of Saint Petersburg.[57] Much to Vigée Le Brun's dismay, her daughter Julie married Gaétan Bernard Nigris, secretary to the Director of the Imperial Theaters of Saint Petersburg.[58]
 
-Marie_Louise_Elisabeth_Vig%C3%A9e-Lebrun_001.jpg as Corinne at Cape Miseno'', 1807–09]]
+as Corinne at Cape Miseno'', 1807–09]]
 
 Return to France and later life
 

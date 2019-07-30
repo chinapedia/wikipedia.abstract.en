@@ -31,7 +31,7 @@ The poet James Whitcomb Riley facetiously suggested that the fierce brawling tha
 
 Mr. Hoosier's men
 
-Portland1850s.jpg (1826–1833).]] Two related stories trace the origin of the term to gangs of workers from Indiana under the direction of a Mr. Hoosier.
+(1826–1833).]] Two related stories trace the origin of the term to gangs of workers from Indiana under the direction of a Mr. Hoosier.
 
 The account related by Dunn[17] is that a Louisville contractor named Samuel Hoosier preferred to hire workers from communities on the Indiana side of the Ohio River like New Albany rather than Kentuckians. During the excavation of the first canal around the Falls of the Ohio from 1826 to 1833, his employees became known as "Hoosier's men" and then simply "Hoosiers". The usage spread from these hard-working laborers to all of the Indiana boatmen in the area and then spread north with the settlement of the state. The story was told to Dunn in 1901 by a man who had heard it from a Hoosier relative while traveling in southern Tennessee. Dunn could not find any family of the given name in any directory in the region or anyone else in southern Tennessee who had heard the story and accounted himself dubious. This version was subsequently retold by Gov. Evan Bayh and Sen. Vance Hartke, who introduced the story into the _Congressional Record_ in 1975, and matches the timing and location of Smith's subsequent research. However, the U.S. Army Corps of Engineers has been unable to find any record of a Hoosier or Hosier in surviving canal company records.[18]
 

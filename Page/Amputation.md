@@ -13,7 +13,7 @@ Lower limb amputations can be divided into two broad categories: minor and major
 
 Common forms of ankle disarticulations include Pyrogoff, Boyd, and Syme amputations.[14] A less common major amputation is the Van Nes rotation, or rotationplasty, i.e. the turning around and reattachment of the foot to allow the ankle joint to take over the function of the knee.
 
-Types of amputations include: Diagram_showing_an_above_knee_amputation_CRUK_094.svg
+Types of amputations include:
 
 partial foot amputation: amputation of the lower limb distal to the ankle joint
 ankle disarticulation: amputation of the lower limb at the ankle joint
@@ -25,7 +25,7 @@ trans-pelvic disarticulation: amputation of the whole lower limb together with a
 
 Arm
 
-Amputations_18c.jpgTypes of upper extremity amputations include:
+Types of upper extremity amputations include:
 
 -   partial hand amputation
 -   wrist disarticulation
@@ -73,13 +73,13 @@ Circulatory disorders
 
 Neoplasm
 
-1daypost.jpg]]
+]]
 
 -   Cancerous bone or soft tissue tumors (e.g. osteosarcoma, chondrosarcoma, fibrosarcoma, epithelioid sarcoma, Ewing's sarcoma, synovial sarcoma, sacrococcygeal teratoma, liposarcoma), melanoma
 
 Trauma
 
-World_War_I_radiography_amputee.jpg.]]
+.]]
 
 -   Severe limb injuries in which the limb cannot be saved or efforts to save the limb fail.
 -   Traumatic amputation (an unexpected amputation that occurs at the scene of an accident, where the limb is partially or entirely severed as a direct result of the accident, for example, a finger that is severed from the blade of a table saw)
@@ -113,7 +113,7 @@ Surgery
 
 Method
 
-Curvy_amputation_knife_DSC09451.jpg The first step is ligating the supplying artery and vein, to prevent hemorrhage (bleeding). The muscles are transected, and finally, the bone is sawed through with an oscillating saw. Sharp and rough edges of the bone(s) are filed down, skin and muscle flaps are then transposed over the stump, occasionally with the insertion of elements to attach a prosthesis.
+The first step is ligating the supplying artery and vein, to prevent hemorrhage (bleeding). The muscles are transected, and finally, the bone is sawed through with an oscillating saw. Sharp and rough edges of the bone(s) are filed down, skin and muscle flaps are then transposed over the stump, occasionally with the insertion of elements to attach a prosthesis.
 
 Distal stabilisation of muscles is recommended. This allows effective muscle contraction which reduces atrophy, allows functional use of the stump and maintains soft tissue coverage of the remnant bone. The preferred stabilisation technique is myodesis where the muscle is attached to the bone or its periosteum. In joint disarticulation amputations tenodesis may be used where the muscle tendon is attached to the bone. Muscles should be attached under similar tension to normal physiological conditions.[18]
 
@@ -138,7 +138,7 @@ Orthopedic surgeons often assess the severity of different injuries using the Ma
 
 Causes
 
-3372709503_10dc75d783_oSéquelleAmputation.jpg by a bayonet to the knee.]] Traumatic amputation is uncommon in humans (1 per 20,804 population per year). Loss of limb usually happens immediately during the accident, but sometimes a few days later after medical complications. Statistically the most common causes of traumatic amputations are:[29]
+by a bayonet to the knee.]] Traumatic amputation is uncommon in humans (1 per 20,804 population per year). Loss of limb usually happens immediately during the accident, but sometimes a few days later after medical complications. Statistically the most common causes of traumatic amputations are:[29]
 
 -   Traffic accidents (cars, motorcycles, bicycles, trains, etc.)
 -   Labor accidents (equipment, instruments, cylinders, chainsaws, press machines, meat machines, wood machines, etc.)

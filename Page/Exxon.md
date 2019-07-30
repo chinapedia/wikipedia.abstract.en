@@ -1,4 +1,4 @@
-1251_Avenue_of_the_Americas.JPG (1251 Avenue of Americas), former headquarters of Exxon]]
+(1251 Avenue of Americas), former headquarters of Exxon]]
 
 EXXON is the former brand name of oil and natural resources company Exxon Corporation, prior to 1972 known as Standard Oil Company of New Jersey. In 1999, Exxon Corporation merged with Mobil to form ExxonMobil. The _Exxon_ brand is still used by ExxonMobil's downstream operations as a brand for certain gas stations, motor fuel and related products (the highest concentration of which are located in New Jersey, Pennsylvania, Texas and in the Mid-Atlantic and Southeastern states). Standard Oil Company of New Jersey was one of the Seven Sisters that dominated the global petroleum industry from the mid-1940s to the 1970s.[1]
 
@@ -21,7 +21,7 @@ In 1966, the U.S. Justice Department ordered Humble Oil to "cease and desist" fr
 
 In the 1960s and early 1970s, Humble Oil continued to have difficulties promoting itself as a nationwide marketer of petroleum products, despite a number of high-profile marketing strategies. These included the popular "Put a Tiger in Your Tank" advertising campaign and accompanying tiger mascot created by American illustrator Bob Jones,[4][5] to promote Enco Extra and Esso Extra gasolines. Humble Oil also used similar logotypes, use of the Humble name in all Enco and Esso advertising, and uniform designs for all stations regardless of brand. In addition, Humble Oil was a major promoter and broadcast sponsor for college football in the Pacific-8 (now Pac-12) and Southwestern conferences.
 
-But Humble Oil still faced stiff competition from national brands such as Shell and Texaco, which at that time was the only company to market under one brand name in all 50 states. By the late 1960s, Humble officials realized that the time had come to develop a new brand name that could be used nationwide. ExxonGasKellerTX.jpg with a 7-Eleven convenience store that opened in 2001.]] At first, consideration was given to simply rebranding all stations as Enco, but that was shelved when it was learned that the word "Enco" is similar in pronunciation to the Japanese slang term _enko_, meaning "stalled car" (an abbreviation of _enjin no kosho_, "engine breakdown").[6]
+But Humble Oil still faced stiff competition from national brands such as Shell and Texaco, which at that time was the only company to market under one brand name in all 50 states. By the late 1960s, Humble officials realized that the time had come to develop a new brand name that could be used nationwide. with a 7-Eleven convenience store that opened in 2001.]] At first, consideration was given to simply rebranding all stations as Enco, but that was shelved when it was learned that the word "Enco" is similar in pronunciation to the Japanese slang term _enko_, meaning "stalled car" (an abbreviation of _enjin no kosho_, "engine breakdown").[6]
 
 In 1972, Exxon was unveiled as the new, unified brand name for all former Enco and Esso outlets. At the same time, the company changed its corporate name from Standard Oil of New Jersey to Exxon Corporation.[7] The rebranding came after successful test-marketing of the Exxon name, under two experimental logos, in the fall and winter of 1971–1972. Along with the new name, Exxon settled on a rectangular logo using red lettering and blue trim on a white background, similar to the familiar color scheme on the old Enco and Esso logos.
 
@@ -44,14 +44,12 @@ In 2016, ExxonMobil successfully asked a U.S. federal court to lift the aforemen
 
 Logo
 
-Exxon_logo.svg The rectangular Exxon logo, with the blue strip at the bottom and red lettering with the two 'X's interlinked together, was designed by noted industrial stylist Raymond Loewy.[14] The interlinked 'X's are incorporated in the modern-day ExxonMobil corporate logo; in mid-2016, as part of a corporate rebranding accompanying the launch of ExxonMobil's "Synergy" fuel products, the mixed-case Exxon wordmark from the ExxonMobil corporate logo became the brand's main logo.[15]
+The rectangular Exxon logo, with the blue strip at the bottom and red lettering with the two 'X's interlinked together, was designed by noted industrial stylist Raymond Loewy.[14] The interlinked 'X's are incorporated in the modern-day ExxonMobil corporate logo; in mid-2016, as part of a corporate rebranding accompanying the launch of ExxonMobil's "Synergy" fuel products, the mixed-case Exxon wordmark from the ExxonMobil corporate logo became the brand's main logo.[15]
 
 In 1985, Minolta introduced an autofocus SLR camera system named "Maxxum" in the United States. Originally, cameras (such as the Maxxum 7000) lenses and flashes used a logo with the X's crossed in 'MAXXUM'.[16] Exxon considered this a violation of their trademark, and as a result, Minolta was allowed to distribute cameras already produced, but was forced to change the stylistic 'XX' and implement this as a change in new production.[17] ExxonMobil similarly sued 21st Century Fox over its cable channel FXX, but the parties agreed to dismiss the suit in October 2015.[18]
 
 
 Branding
-
-Exxon_footprint_2012-08.png
 
 Exxon is ExxonMobil's primary retail gasoline brand in most of the United States, with the highest concentration of retail outlets located in New Jersey, Pennsylvania, Texas and in the Mid-Atlantic and Southeastern states. The Exxon brand also has a market presence in the following metropolitan areas:
 

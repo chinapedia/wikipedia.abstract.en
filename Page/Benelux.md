@@ -14,12 +14,12 @@ The main institutions of the Union are the Committee of Ministers, the Council o
 
 The Benelux General Secretariat is located in Brussels. It is the central platform of the Benelux Union cooperation. It handles the secretariat of the Committee of Ministers, the Council of Benelux Union and the various committees and working parties. The General Secretariat provides day-to-day support for the Benelux cooperation on the substantive, procedural, diplomatic and logistical levels.
 
-The presidency of the Benelux is held in turn by the three countries for a period of one year. Luxembourg holds the presidency in 2019. Photo_Sommet_PB.jpg In addition to cooperation based on a Treaty, there is also political cooperation in the Benelux context, including summits of the Benelux government leaders.
+The presidency of the Benelux is held in turn by the three countries for a period of one year. Luxembourg holds the presidency in 2019. In addition to cooperation based on a Treaty, there is also political cooperation in the Benelux context, including summits of the Benelux government leaders.
 
 
 Politics
 
-Benelux_conferentie_te_Den_Haag._De_premiers_van_de_drie_landen_vlnr._P._Werner,_Bestanddeelnr_121-0413.jpg Gaston Eyskens, Dutch Prime Minister Piet de Jong, and Luxembourg Prime Minister Pierre Werner during a Benelux conference in The Hague, Netherlands, on 28 April 1968.]] V.l.n.r._premiers_Lubbers,_Pierre_Werner_(Luxemburg)_en_Wilfried_Martens_(België,_Bestanddeelnr_932-3952.jpg Ruud Lubbers, Luxembourg Prime Minister Pierre Werner, and Belgian Prime Minister Wilfried Martens at the Ministry of General Affairs, on 10 November 1982.]] Terras_van_het_Catshuis.jpg Mark Rutte, Luxembourg Prime Minister Jean-Claude Juncker, and Belgian Prime Minister Yves Leterme in The Hague, Netherlands, on 24 May 2011.]] A Benelux Parliament (originally referred to as an "Interparliamentary Consultative Council") was created in 1955. This parliamentary assembly is composed of 21 members of the Dutch parliament, 21 members of the Belgian national and regional parliaments, and 7 members of the Luxembourg parliament. On 20 January 2015, the governments of the three countries, including, as far as Belgium is concerned, the community and regional governments, signed in Brussels the Treaty of the Benelux Interparliamentary Assembly 2. This treaty will enter into force on the 1st of August 2019. This means the 1955 Convention on the Consultative Interparliamentary Council for the Benelux expires. Moreover, the current official name has been largely obsolete in daily practice for a number of years now. Both internally in the Benelux and in external references, the name Benelux Parliament has been used de facto for a number of years now.
+Gaston Eyskens, Dutch Prime Minister Piet de Jong, and Luxembourg Prime Minister Pierre Werner during a Benelux conference in The Hague, Netherlands, on 28 April 1968.]] Ruud Lubbers, Luxembourg Prime Minister Pierre Werner, and Belgian Prime Minister Wilfried Martens at the Ministry of General Affairs, on 10 November 1982.]] Mark Rutte, Luxembourg Prime Minister Jean-Claude Juncker, and Belgian Prime Minister Yves Leterme in The Hague, Netherlands, on 24 May 2011.]] A Benelux Parliament (originally referred to as an "Interparliamentary Consultative Council") was created in 1955. This parliamentary assembly is composed of 21 members of the Dutch parliament, 21 members of the Belgian national and regional parliaments, and 7 members of the Luxembourg parliament. On 20 January 2015, the governments of the three countries, including, as far as Belgium is concerned, the community and regional governments, signed in Brussels the Treaty of the Benelux Interparliamentary Assembly 2. This treaty will enter into force on the 1st of August 2019. This means the 1955 Convention on the Consultative Interparliamentary Council for the Benelux expires. Moreover, the current official name has been largely obsolete in daily practice for a number of years now. Both internally in the Benelux and in external references, the name Benelux Parliament has been used de facto for a number of years now.
 
 In 1944, exiled representatives of the three countries signed the London Customs Convention, the treaty that established the Benelux Customs Union. Ratified in 1947, the treaty was in force from 1948 until it was superseded by the Benelux Economic Union. The treaty establishing the Benelux Economic Union (_Benelux Economische Unie/Union Économique Benelux_) was signed on 3 February 1958 in The Hague and came into force on 1 November 1960 to promote the free movement of workers, capital, services, and goods in the region. Under the Treaty the Union implies the co-operation of economic, financial and social policies.
 
@@ -34,7 +34,7 @@ In 2018 Benelux Union signed a declaration with France to strengthen cross-borde
 
 Benelux legal instruments
 
-Benelux_Conferentie_1e_Kamer_Den_Haag._Opening_rede_Dr._W._Drees,_Bestanddeelnr_903-2602.jpg, 1949]] The Benelux Union involves an intergovernmental cooperation.[7]
+, 1949]] The Benelux Union involves an intergovernmental cooperation.[7]
 
 The Treaty establishing the Benelux Union explicitly provides that the Benelux Committee of Ministers can resort to four legal instruments (art. 6, paragraph 2, under a), f), g) and h)) 3:
 
@@ -83,7 +83,7 @@ The Benelux is particularly active in the field of intellectual property. The th
 ALL HIGHER EDUCATION DEGREES RECOGNIZED THROUGHOUT BENELUX
 
 
-EducationBenelux.jpg In 2018 Education ministers from all three of Belgium’s regions as well as from the Netherlands and Luxembourg have signed an agreement 5 to recognise the level of all higher education diplomas between the three countries. This is unique in the EU. To continue studies or get a job in another country, applicants must get their locally earned degree recognised by the other country, which entails a lot of paperwork, fees and sometimes a months-long wait. In 2015, the Benelux countries agreed to automatically recognise each other’s bachelor’s and master’s diplomas. Now that recognition is extended to PhDs and to so-called graduate degrees, which are earned from adult educational institutions. This means that a graduate of any of the three countries can continue their education or seek a job in the other countries without having to get their degree officially recognised.
+In 2018 Education ministers from all three of Belgium’s regions as well as from the Netherlands and Luxembourg have signed an agreement 5 to recognise the level of all higher education diplomas between the three countries. This is unique in the EU. To continue studies or get a job in another country, applicants must get their locally earned degree recognised by the other country, which entails a lot of paperwork, fees and sometimes a months-long wait. In 2015, the Benelux countries agreed to automatically recognise each other’s bachelor’s and master’s diplomas. Now that recognition is extended to PhDs and to so-called graduate degrees, which are earned from adult educational institutions. This means that a graduate of any of the three countries can continue their education or seek a job in the other countries without having to get their degree officially recognised.
 
 
 
@@ -111,7 +111,7 @@ After approval by the parliaments, and the elaboration of implementation agreeme
 BENELUX TREATY OF LIÈGE : JOINT BENELUX ROAD TRANSPORT INSPECTIONS
 
 
-Signature_Traité_de_Liège.jpg The Treaty of Liège entered into force in 2017. As a result, Dutch, Belgian and Luxembourg inspectors may carry out joint inspections of trucks and buses in the three countries. This treaty was signed in 2014 in Liège (Belgium) by the three countries. In the meantime, on the basis of a transitional regime and pending the entry into force of the Treaty, several major Benelux road transport inspections have taken place. Under this transition regime, inspectors from neighboring countries could only act as observers. Now they can exercise all of their skills.
+The Treaty of Liège entered into force in 2017. As a result, Dutch, Belgian and Luxembourg inspectors may carry out joint inspections of trucks and buses in the three countries. This treaty was signed in 2014 in Liège (Belgium) by the three countries. In the meantime, on the basis of a transitional regime and pending the entry into force of the Treaty, several major Benelux road transport inspections have taken place. Under this transition regime, inspectors from neighboring countries could only act as observers. Now they can exercise all of their skills.
 
 Co-operation on the basis of this Benelux Treaty leads to a more uniform control of road transport, cost reductions, more honest competition between transport companies and better working conditions for drivers. In addition, this cooperation strengthens general road safety in the three countries.
 
@@ -123,8 +123,6 @@ By June 2019 already a total of 922 vehicles were subject to common Benelux insp
 
 
 Characteristics
-
-Benelux.png
 
 Countries
 
@@ -238,7 +236,7 @@ Associated territories
 
 Renewal of the agreement
 
-Insta8.jpg The Treaty between the Benelux countries establishing the Benelux Economic Union was limited to a period of 50 years. During the following years, and even more so after the creation of the European Union, the Benelux cooperation focused on developing other fields of activity within a constantly changing international context.
+The Treaty between the Benelux countries establishing the Benelux Economic Union was limited to a period of 50 years. During the following years, and even more so after the creation of the European Union, the Benelux cooperation focused on developing other fields of activity within a constantly changing international context.
 
 At the end of the 50 years, the governments of the three Benelux countries decided to renew the agreement, taking into account the new aspects of the Benelux-cooperation – such as security – and the new federal government structure of Belgium. The original establishing treaty, set to expire in 2010, was replaced by a new legal framework (called the Treaty revising the Treaty establishing the Benelux Economic Union), which was signed on 17 June 2008.
 

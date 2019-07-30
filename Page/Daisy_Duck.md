@@ -51,7 +51,7 @@ Daisy debuted in theatrical animation and has appeared in a total of 15 films.[9
 
 First appearance
 
-Daisy_Duck_first_appearance.png'' (1940).]] Daisy Duck in her familiar name and design first appeared in _Mr. Duck Steps Out_ (June 7, 1940). The short was directed by Jack King and scripted by Carl Barks. There Donald visits the house of his new romantic interest for their first known date. At first, Daisy acts shy and has her back turned to her visitor. But Donald soon notices her tail-feathers taking the form of a hand and signaling for him to come closer. But their time alone is soon interrupted by Huey, Dewey, and Louie who have followed their uncle and clearly compete with him for the attention of Daisy. Uncle and nephews take turns dancing the jitterbug with her while trying to get rid of each other. In their final effort, the three younger Ducks feed their uncle maize (corn) in the process of becoming popcorn. The process is completed within Donald himself who continues to move spastically around the house while maintaining the appearance of dancing. The short ends with an impressed Daisy showering her new boyfriend with kisses. Like her precursor, she was initially voiced by Clarence Nash, but later had a more ladylike voice.
+'' (1940).]] Daisy Duck in her familiar name and design first appeared in _Mr. Duck Steps Out_ (June 7, 1940). The short was directed by Jack King and scripted by Carl Barks. There Donald visits the house of his new romantic interest for their first known date. At first, Daisy acts shy and has her back turned to her visitor. But Donald soon notices her tail-feathers taking the form of a hand and signaling for him to come closer. But their time alone is soon interrupted by Huey, Dewey, and Louie who have followed their uncle and clearly compete with him for the attention of Daisy. Uncle and nephews take turns dancing the jitterbug with her while trying to get rid of each other. In their final effort, the three younger Ducks feed their uncle maize (corn) in the process of becoming popcorn. The process is completed within Donald himself who continues to move spastically around the house while maintaining the appearance of dancing. The short ends with an impressed Daisy showering her new boyfriend with kisses. Like her precursor, she was initially voiced by Clarence Nash, but later had a more ladylike voice.
 
 The short stands out among other Donald shorts of the period for its use of modern music and surreal situations throughout.
 
@@ -83,7 +83,7 @@ Daisy's final appearance in the Golden Age of American animation was in _Donald'
 
 Later theatrical appearances
 
-Donald_and_Daisy_-_Fantasia_2000.png'']] Daisy appeared in _Mickey's Christmas Carol_ in 1983, playing the character Isabelle, the neglected love interest of a young Ebenezer Scrooge, played by Scrooge McDuck. The film was Daisy's first theatrical appearance in almost 30 years and was also the first time she appeared apart from Donald. Although the nature of the film was that of Disney characters "playing" other characters and was not part of any story continuity. Daisy was voiced by Patricia Parris in the film.
+'']] Daisy appeared in _Mickey's Christmas Carol_ in 1983, playing the character Isabelle, the neglected love interest of a young Ebenezer Scrooge, played by Scrooge McDuck. The film was Daisy's first theatrical appearance in almost 30 years and was also the first time she appeared apart from Donald. Although the nature of the film was that of Disney characters "playing" other characters and was not part of any story continuity. Daisy was voiced by Patricia Parris in the film.
 
 In 1988 Daisy made a cameo appearance in _Who Framed Roger Rabbit_ along with many other Disney characters.
 
@@ -122,7 +122,7 @@ Since 1999 Daisy, like Donald Duck has her own magazine in the Netherlands. She 
 
 Super Daisy
 
-Paperinika.png Since the early 1970s, Daisy has been featured as a crimefighter in Italian Disney comics. The character of "Super Daisy" (_"Paperinika"_ in Italian) was designed as a female counterpart to the "Duck Avenger" (_"Paperinik"_ in Italian). While the character of the Duck Avenger was originally created to place Donald into situations where he was finally a "winner" (versus his usual portrayal as a "loser"), when Super Daisy appeared in the same story as the Duck Avenger, she then became the "winner" and Donald was once more relegated to the role of "loser". This upset some children, who complained to the comics' editors, which resulted in the Italian comics ceasing to use Super Daisy, though the Brazil Disney comics continue to make use of Daisy's superhero alter ego.
+Since the early 1970s, Daisy has been featured as a crimefighter in Italian Disney comics. The character of "Super Daisy" (_"Paperinika"_ in Italian) was designed as a female counterpart to the "Duck Avenger" (_"Paperinik"_ in Italian). While the character of the Duck Avenger was originally created to place Donald into situations where he was finally a "winner" (versus his usual portrayal as a "loser"), when Super Daisy appeared in the same story as the Duck Avenger, she then became the "winner" and Donald was once more relegated to the role of "loser". This upset some children, who complained to the comics' editors, which resulted in the Italian comics ceasing to use Super Daisy, though the Brazil Disney comics continue to make use of Daisy's superhero alter ego.
 
 As Super Daisy, Daisy has no superpowers but instead uses devices created by high society fashion designer Genialina Edy Son. Genialina personally designed Daisy's costume, as well as supplying her with crime-fighting gear such as sleeping pills and a James Bond-esque sports car. Very frequently, Super Daisy will both fight alongside and against the Duck Avenger. In the Brazilian stories, Super Daisy often teams up with other Disney comic superheroes, such as "Super Goof" (Goofy), "Super Gilly" ("Gilbert"), the "Red Bat" (Fethry Duck), etc.
 
@@ -167,7 +167,7 @@ Daisy appears in an MMORPG game called Toontown Online. She appears in the playg
 
 On television
 
-Quackpack6.jpg In the 1996 television series _Quack Pack_, Daisy was presented as a much more liberated (and patient) woman than in her previous appearances, where she was employed as a television station reporter, with Donald as her cameraman. In _Quack Pack_, Daisy had a pet Iguana named Knuckles.
+In the 1996 television series _Quack Pack_, Daisy was presented as a much more liberated (and patient) woman than in her previous appearances, where she was employed as a television station reporter, with Donald as her cameraman. In _Quack Pack_, Daisy had a pet Iguana named Knuckles.
 
 Daisy also has appeared in the later television series _Mickey Mouse Works_, _Disney's House of Mouse_ and _Mickey Mouse Clubhouse_ as a regular character (all of which were on the Disney Channel). She is also a main character in the _Minnie's Bow-Toons_ shorts and _Mickey and the Roadster Racers._ Daisy is set to appear in the 2017 TV series _DuckTales_.[21]
 

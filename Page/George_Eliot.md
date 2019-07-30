@@ -29,7 +29,7 @@ Women writers were common at the time, but Evans's role as the female editor of 
 
 Relationship with George Lewes
 
-George_Eliot_by_Samuel_Laurence.jpg, c. 1860]]
+, c. 1860]]
 
 The philosopher and critic George Henry Lewes (1817–78) met Evans in 1851, and by 1854 they had decided to live together. Lewes was already married to Agnes Jervis, although in an open marriage. In addition to the three children they had together, Agnes also had four children by Thornton Leigh Hunt.[15] In July 1854, Lewes and Evans travelled to Weimar and Berlin together for the purpose of research. Before going to Germany, Evans continued her theological work with a translation of Feuerbach's _The Essence of Christianity_, and while abroad she wrote essays and worked on her translation of Baruch Spinoza's _Ethics_, which she completed in 1856, but which was not published in her lifetime.[16]
 
@@ -43,7 +43,7 @@ In 1857, when she was 37 years of age, "The Sad Fortunes of the Reverend Amos Ba
 
 The revelations about Eliot's private life surprised and shocked many of her admiring readers, but this did not affect her popularity as a novelist. Her relationship with Lewes afforded her the encouragement and stability she needed to write fiction, but it would be some time before the couple were accepted into polite society. Acceptance was finally confirmed in 1877 when they were introduced to Princess Louise, the daughter of Queen Victoria. The queen herself was an avid reader of all of Eliot's novels and was so impressed with _Adam Bede_ that she commissioned the artist Edward Henry Corbould to paint scenes from the book.[23]
 
-George_Eliot_31_Wimbledon_Park_Road_blue_plaque.jpg When the American Civil War broke out, Eliot expressed sympathy with the North, which was a rare stance in England at the time.[24][25] In 1868 she supported Richard Congreve's protests against Britain's imperial policy toward Ireland and her view of the growing movement in support of Irish Home Rule was positive.[26][27]
+When the American Civil War broke out, Eliot expressed sympathy with the North, which was a rare stance in England at the time.[24][25] In 1868 she supported Richard Congreve's protests against Britain's imperial policy toward Ireland and her view of the growing movement in support of Irish Home Rule was positive.[26][27]
 
 She was influenced by the writings of John Stuart Mill and read all of his major works as they were published.[28] In Mill's _Subjection of Women_ (1869) she judged the second chapter excoriating the laws which oppress married women "excellent."[29] She was supportive of Mill's parliamentary run, but believed that the electorate was unlikely to vote for a philosopher and was surprised when he won.[30] While Mill served in parliament, she expressed her agreement with Mill's efforts on behalf of female suffrage, being "inclined to hope for much good from the serious presentation of women's claims before Parliament."[31] In a letter to John Morley, she declared her support for plans "which held out reasonable promise of tending to establish as far as possible an equivalence of advantage for the two sexes, as to education and the possibilities of free development", and dismissed appeals to nature in explaining women's lower status.[32][33] In 1870, she responded enthusiastically to Lady Amberley's feminist lecture on the claims of women for education, occupations, equality in marriage, and child custody.[34]
 
@@ -53,7 +53,7 @@ Her last novel was _Daniel Deronda_, published in 1876, after which she and Lewe
 
 Marriage to John Cross and death
 
-Highgate_Cemetery_-_East_-_George_Eliot_01.jpg]]
+]]
 
 On 16 May 1880 Eliot married John Cross and again changed her name, this time to Mary Ann Cross. While the marriage courted some controversy due to the difference in ages, it pleased her brother Isaac, who had broken off relations with her when she had begun to live with Lewes, and now sent congratulations. While the couple were honeymooning in Venice, Cross, in a fit of depression, jumped from the hotel balcony into the Grand Canal. He survived, and the newlyweds returned to England. They moved to a new house in Chelsea, but Eliot fell ill with a throat infection. This, coupled with the kidney disease with which she had been afflicted for several years, led to her death on 22 December 1880 at the age of 61.[36][37]
 
@@ -66,7 +66,7 @@ A statue of Eliot is in Newdegate Street, Nuneaton, and Nuneaton Museum & Art Ga
 
 Literary assessment
 
-George_Eliot_7.jpg, 1864]]
+, 1864]]
 
 Throughout her career, Eliot wrote with a politically astute pen. From _Adam Bede_ to _The Mill on the Floss_ and _Silas Marner_, Eliot presented the cases of social outsiders and small-town persecution. _Felix Holt, the Radical_ and _The Legend of Jubal_ were overtly political, and political crisis is at the heart of _Middlemarch_, in which she presents the stories of a number of inhabitants of a small English town on the eve of the Reform Bill of 1832; the novel is notable for its deep psychological insight and sophisticated character portraits. The roots of her realist philosophy can be found in her review of John Ruskin's _Modern Painters_ in _Westminster Review_ in 1856.
 
@@ -142,7 +142,7 @@ Sources
 
 Further reading
 
-Nuneaton_Museum_and_Art_Gallery_Riversley_Park.jpg Museum and Art Gallery, in Riversley Park, home of collection on writer George Eliot]]
+Museum and Art Gallery, in Riversley Park, home of collection on writer George Eliot]]
 
 -   Haight, Gordon S., ed., _George Eliot: Letters_, New Haven, Connecticut, Yale University Press, 1954, .
 -   Henry, Nancy, _The Life of George Eliot: A Critical Biography_, Wiley-Blackwell, 2012

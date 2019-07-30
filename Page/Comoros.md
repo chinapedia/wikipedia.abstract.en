@@ -16,7 +16,7 @@ History
 
 Precolonial peoples
 
-Dhow.jpg with lateen sail rigs]] Vanilla_plantation_in_wood_dsc00190.jpg plantation]]
+with lateen sail rigs]] plantation]]
 
 The first human inhabitants of the Comoro Islands are thought to have been Austronesian settlers travelling by boat from islands in Southeast Asia. These people arrived no later than the sixth century AD, the date of the earliest known archaeological site, found on Nzwani, although settlement beginning as early as the first century has been postulated.[9]
 
@@ -38,9 +38,7 @@ By the time Europeans showed interest in the Comoros, the islanders were well pl
 
 European contact and French colonisation
 
-Carte_des_isles_de_Comore_Johanna_ou_Anjouan_Mohilla_ou_Moaly_et_Mayote_Bnf40600530t.jpg
-
-Portuguese explorers first visited the archipelago in 1503. The islands provided provisions to the Portuguese fort at Mozambique throughout the 16th century. Camora.jpg Moroni-Place_des_Assemblées.jpg
+Portuguese explorers first visited the archipelago in 1503. The islands provided provisions to the Portuguese fort at Mozambique throughout the 16th century.
 
 In 1793, Malagasy warriors from Madagascar first started raiding the islands for slaves. On the Comoros, it was estimated in 1865 that as much as 40% of the population consisted of slaves.[15] France first established colonial rule in the Comoros in 1841. The first French colonists landed in Mayotte, and _Andriantsoly_ (also known as Andrian Tsouli, the Sakalava Dia-Ntsoli, the Sakalava of Boina, and the Malagasy King of Mayotte) signed the Treaty of April 1841,[16] which ceded the island to the French authorities.[17]
 
@@ -52,7 +50,7 @@ Agreement was reached with France in 1973 for the Comoros to become independent 
 
 Independence (1975)
 
-Flag_of_the_Comoros_(1963_to_1975).svg (1963 to 1975)]] Flag_of_the_Comoros_(1975-1978).svg (1975 to 1978)]] Ikililou_Dhoinine_2012.jpg, President of Comoros from 2011 to 2016]] The next 30 years were a period of political turmoil. On 3 August 1975, less than one month after independence, president Ahmed Abdallah was removed from office in an armed coup and replaced with United National Front of the Comoros (FNUK) member Prince Said Mohamed Jaffar. Months later, in January 1976, Jaffar was ousted in favour of his Minister of Defense Ali Soilih.[20]
+(1963 to 1975)]] (1975 to 1978)]] , President of Comoros from 2011 to 2016]] The next 30 years were a period of political turmoil. On 3 August 1975, less than one month after independence, president Ahmed Abdallah was removed from office in an armed coup and replaced with United National Front of the Comoros (FNUK) member Prince Said Mohamed Jaffar. Months later, in January 1976, Jaffar was ousted in favour of his Minister of Defense Ali Soilih.[20]
 
 At this time, the population of Mayotte voted against independence from France in two referenda. The first, held on 22 December 1974, won 63.8% support for maintaining ties with France, while the second, held in February 1976, confirmed that vote with an overwhelming 99.4%. The three remaining islands, ruled by President Soilih, instituted a number of socialist and isolationist policies that soon strained relations with France. On 13 May 1978, Bob Denard returned to overthrow President Soilih and reinstate Abdallah with the support of the French, Rhodesian and South African governments. During Soilih's brief rule, he faced seven additional coup attempts until he was finally forced from office and killed.[21][22]
 
@@ -74,8 +72,6 @@ Following elections in late 2010, former Vice-President Ikililou Dhoinine was in
 
 
 Geography
-
-Cn-map.png
 
 The Comoros is formed by Ngazidja (Grande Comore), Mwali (Mohéli) and Nzwani (Anjouan), three major islands in the Comoros Archipelago, as well as many minor islets. The islands are officially known by their Comorian language names, though international sources still use their French names (given in parentheses above). The capital and largest city, Moroni, is located on Ngazidja. The archipelago is situated in the Indian Ocean, in the Mozambique Channel, between the African coast (nearest to Mozambique and Tanzania) and Madagascar, with no land borders.
 
@@ -100,7 +96,7 @@ In December 1952 a specimen of the Coelacanth fish was re-discovered off the Com
 
 Government
 
-Moroni_harbour_(2).jpg, capital of the Comoros, with Harbor Bay and Central Mosque]]
+, capital of the Comoros, with Harbor Bay and Central Mosque]]
 
 Politics of the Comoros takes place in a framework of a federal presidential republic, whereby the President of the Comoros is both head of state and head of government, and of a multi-party system. The Constitution of the Union of the Comoros was ratified by referendum on 23 December 2001, and the islands' constitutions and executives were elected in the following months. It had previously been considered a military dictatorship, and the transfer of power from Azali Assoumani to Ahmed Abdallah Mohamed Sambi in May 2006 was a watershed moment as it was the first peaceful transfer in Comorian history.
 
@@ -133,8 +129,6 @@ Once the new government was installed in May–June 2011, an expert mission from
 
 Economy
 
-Tree_map_export_2009_Comoros.jpeg
-
 The Comoros is one of the world's poorest countries. Economic growth and poverty reduction are major priorities for the government. With a rate of 14.3%, unemployment is considered very high. Agriculture, including fishing, hunting, and forestry, is the leading sector of the economy, and 38.4% of the working population is employed in the primary sector.[54]
 
 High population densities, as much as 1000 per square kilometre in the densest agricultural zones, for what is still a mostly rural, agricultural economy may lead to an environmental crisis in the near future, especially considering the high rate of population growth. In 2004 the Comoros' real GDP growth was a low 1.9% and real GDP per capita continued to decline. These declines are explained by factors including declining investment, drops in consumption, rising inflation, and an increase in trade imbalance due in part to lowered cash crop prices, especially vanilla.[55]
@@ -151,8 +145,6 @@ The Comoros is a member of the Organization for the Harmonization of Business La
 
 
 Demographics
-
-Moroni_Mosque_Photo_by_Sascha_Grabow.jpg
 
 +------+------------------------+
 | Year | Million                |
@@ -182,7 +174,7 @@ Arabic and French are also official languages, along with Comorian. Arabic is wi
 
 Religion
 
-Anjouan_-_Islands_of_Comoros.jpg including mosque]] Sunni Islam is the dominant religion, representing as much as 99% of the population.[65] A minority of the population of the Comoros, mostly immigrants from metropolitan France, are Roman Catholic.[66] Comoros is the only Muslim-majority country in Southern Africa and the second southernmost Muslim-majority territory after the French territory of Mayotte.
+including mosque]] Sunni Islam is the dominant religion, representing as much as 99% of the population.[65] A minority of the population of the Comoros, mostly immigrants from metropolitan France, are Roman Catholic.[66] Comoros is the only Muslim-majority country in Southern Africa and the second southernmost Muslim-majority territory after the French territory of Mayotte.
 
 
 Health
@@ -217,7 +209,7 @@ The continuation of the grand marriage tradition is criticized because of its gr
 
 Kinship and social structure
 
-JOUR_DE_L'AÏDE_DHUL_HAJJ_BANGOI-KOUNI.jpg Comorian society has a bilateral descent system. Lineage membership and inheritance of immovable goods (land, housing) is matrilineal, passed in the maternal line, similar to many Bantu peoples who are also matrilineal, while other goods and patronymics are passed in the male line. However, there are differences between the islands, the matrilineal element being stronger on Ngazidja.
+Comorian society has a bilateral descent system. Lineage membership and inheritance of immovable goods (land, housing) is matrilineal, passed in the maternal line, similar to many Bantu peoples who are also matrilineal, while other goods and patronymics are passed in the male line. However, there are differences between the islands, the matrilineal element being stronger on Ngazidja.
 
 Music
 

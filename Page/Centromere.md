@@ -1,4 +1,4 @@
-Chromosome.svg, or each half of the chromosome. In prophase of mitosis, specialized regions on centromeres called kinetochores attach chromosomes to spindle fibers.]]
+, or each half of the chromosome. In prophase of mitosis, specialized regions on centromeres called kinetochores attach chromosomes to spindle fibers.]]
 
 The CENTROMERE is the specialized DNA sequence of a chromosome that links a pair of sister chromatids (a dyad).[1] During mitosis, spindle fibers attach to the centromere via the kinetochore.[2] Centromeres were first thought to be genetic loci that direct the behavior of chromosomes.
 
@@ -11,11 +11,7 @@ Regarding mitotic chromosome structure, centromeres represent a constricted regi
 
 Positions
 
-CLASSIFICATIONS OF CHROMOSOMES
-{| class="wikitable sortable" style="text-align: left;" |- | I || Telocentric || Centromere placement very close to the top, p arms barely visible if visible at all. |- | II || Acrocentric || q arms are still much longer than the p arms, but the p arms are longer than those in telocentric. |- | III || Submetacentric || p and q arms are very close in length but not equal. |- | IV || Metacentric || p and q arms are equal in length. |- |} A: Short arm (p arm)
-B: Centromere
-C: Long arm (q arm)
-D: Sister Chromatids Each chromosome has two arms, labeled _p_ (the shorter of the two) and _q_ (the longer). Many remember that the short arm 'p' is named for the French word "petit" meaning 'small', although this explanation was shown to be apocryphal.[7] They can be connected in either metacentric, submetacentric, acrocentric or telocentric manner.[8][9]
+Each chromosome has two arms, labeled _p_ (the shorter of the two) and _q_ (the longer). Many remember that the short arm 'p' is named for the French word "petit" meaning 'small', although this explanation was shown to be apocryphal.[7] They can be connected in either metacentric, submetacentric, acrocentric or telocentric manner.[8][9]
 
   ----------------------------------------------------------------------------------------
   colspan ="7" | CATEGORIZATION OF CHROMOSOMES ACCORDING TO THE RELATIVE ARMS LENGTH[10]

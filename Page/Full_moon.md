@@ -1,4 +1,4 @@
-Supermoon_Nov-14-2016-minneapolis.jpg of 14 November 2016 was away[1] from the center of Earth, This occurrence happens yearly with the next one in 2019, the previous being in 2018.[2]]] FullMoon2010.jpg. The Moon was near its northernmost ecliptic latitude, so the southern craters are especially prominent.]] Lunar_eclipse_January_31_2018_California_Alfredo_Garcia_Jr_mideclipse.jpg]]
+of 14 November 2016 was away[1] from the center of Earth, This occurrence happens yearly with the next one in 2019, the previous being in 2018.[2]]] . The Moon was near its northernmost ecliptic latitude, so the southern craters are especially prominent.]] ]]
 
 The FULL MOON is the lunar phase when the Moon appears fully illuminated from Earth's perspective. This occurs when Earth is located between the Sun and the Moon (more exactly, when the ecliptic longitudes of the Sun and Moon differ by 180°). This means that the lunar hemisphere facing Earth – the near side – is completely sunlit and appears as a circular disk. The full moon occurs roughly once a month.
 
@@ -34,12 +34,12 @@ The age and apparent size of the full moon vary in a cycle of just under 14 syno
 
 Lunar eclipses
 
-Trifecta_Morning_Mountain_Moonset_01-31-2018.jpg in California, on the morning of the Trifecta: full moon, supermoon, eclipse, 01-31-2018]] When the Moon moves into Earth's shadow, a lunar eclipse occurs, during which all or part of the Moon's face may appear reddish due to the Rayleigh scattering of blue wavelengths and the refraction of sunlight through Earth's atmosphere.[8][9][10] Lunar eclipses happen only during full moon and around points on its orbit where the satellite may pass through the planet's shadow. A lunar eclipse does not occur every month because the Moon's orbit is inclined 5.14° with respect to the ecliptic plane of Earth; thus, the Moon usually passes north or south of Earth's shadow, which is mostly restricted to this plane of reference. Lunar eclipses happen only when the full moon occurs around either node of its orbit (ascending or descending). Therefore, a lunar eclipse occurs about every six months, and often two weeks before or after a solar eclipse, which occurs during new moon around the opposite node.
+in California, on the morning of the Trifecta: full moon, supermoon, eclipse, 01-31-2018]] When the Moon moves into Earth's shadow, a lunar eclipse occurs, during which all or part of the Moon's face may appear reddish due to the Rayleigh scattering of blue wavelengths and the refraction of sunlight through Earth's atmosphere.[8][9][10] Lunar eclipses happen only during full moon and around points on its orbit where the satellite may pass through the planet's shadow. A lunar eclipse does not occur every month because the Moon's orbit is inclined 5.14° with respect to the ecliptic plane of Earth; thus, the Moon usually passes north or south of Earth's shadow, which is mostly restricted to this plane of reference. Lunar eclipses happen only when the full moon occurs around either node of its orbit (ascending or descending). Therefore, a lunar eclipse occurs about every six months, and often two weeks before or after a solar eclipse, which occurs during new moon around the opposite node.
 
 
 In folklore and tradition
 
-Moon_and_red_blue_haze.jpg]] Full moons are traditionally associated with insomnia (inability to sleep), insanity (hence the terms _lunacy_ and _lunatic_) and various "magical phenomena" such as lycanthropy. Psychologists, however, have found that there is no strong evidence for effects on human behavior around the time of a full moon.[11] They find that studies are generally not consistent, with some showing a positive effect and others showing a negative effect. In one instance, the 23 December 2000 issue of the _British Medical Journal_ published two studies on dog bite admission to hospitals in England and Australia. The study of the Bradford Royal Infirmary found that dog bites were twice as common during a full moon, whereas the study conducted by the public hospitals in Australia found that they were less likely.
+]] Full moons are traditionally associated with insomnia (inability to sleep), insanity (hence the terms _lunacy_ and _lunatic_) and various "magical phenomena" such as lycanthropy. Psychologists, however, have found that there is no strong evidence for effects on human behavior around the time of a full moon.[11] They find that studies are generally not consistent, with some showing a positive effect and others showing a negative effect. In one instance, the 23 December 2000 issue of the _British Medical Journal_ published two studies on dog bite admission to hospitals in England and Australia. The study of the Bradford Royal Infirmary found that dog bites were twice as common during a full moon, whereas the study conducted by the public hospitals in Australia found that they were less likely.
 
 Full moon names
 
@@ -51,7 +51,7 @@ Lunar eclipses occur only at full moon and often cause a reddish hue on the near
 
 Harvest and hunter's moons
 
-harvest_moon.jpg the lower it is above the horizon, rather than being unique to harvest moons.[13]]]
+the lower it is above the horizon, rather than being unique to harvest moons.[13]]]
 
 The "harvest moon" and the "hunter's moon" are traditional names for the full moons in late summer and in the autumn in the Northern Hemisphere, usually in September and October, respectively.
 
@@ -122,7 +122,7 @@ In Hinduism, most festivals are celebrated on auspicious days. Many of the Hindu
 
 Lunar and lunisolar calendars
 
-Christmas_full_moons_1977-2091.gif.[32] This last occurred in 1977, with a Christmas Eve full moon between in 1996 and a full moon the day after Christmas in 2004 and before Christmas Eve in 2007 (both not shown here). A small horizontal libration is visible comparing their appearances. By the 19-year metonic cycle the full moon will repeat on Christmas day in 2034, 2053, 2072, and 2091.[33]]] Most pre-modern calendars the world over were lunisolar, combining the solar year with the lunation by means of intercalary months.[34][35] The Julian calendar abandoned this method in favour of a purely solar reckoning while conversely the 7th-century Islamic calendar opted for a purely lunar one.
+.[32] This last occurred in 1977, with a Christmas Eve full moon between in 1996 and a full moon the day after Christmas in 2004 and before Christmas Eve in 2007 (both not shown here). A small horizontal libration is visible comparing their appearances. By the 19-year metonic cycle the full moon will repeat on Christmas day in 2034, 2053, 2072, and 2091.[33]]] Most pre-modern calendars the world over were lunisolar, combining the solar year with the lunation by means of intercalary months.[34][35] The Julian calendar abandoned this method in favour of a purely solar reckoning while conversely the 7th-century Islamic calendar opted for a purely lunar one.
 
 A continuing lunisolar calendar is in the Hebrew calendar. Evidence of this is noted in the dates of Passover and Easter in Judaism and Christianity, respectively. Passover falls on the full moon on 15 Nisan of the Hebrew calendar. The date of the Jewish Rosh Hashana and Sukkot festivals along with all other Jewish holidays are dependent on the dates of the new moons.[36]
 

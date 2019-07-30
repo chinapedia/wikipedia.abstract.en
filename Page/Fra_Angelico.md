@@ -19,15 +19,13 @@ From 1408 to 1418, Fra Angelico was at the Dominican friary of Cortona, where he
 
 San Marco, Florence, 1436–1445
 
-ANGELICO,_Fra_Annunciation,_1437-46_(2236990916).jpg In 1436, Fra Angelico was one of a number of the friars from Fiesole who moved to the newly built convent or friary of San Marco in Florence. This was an important move which put him in the centre of artistic activity of the region and brought about the patronage of one of the wealthiest and most powerful members of the city's governing authority, or "Signoria" (namely Cosimo de' Medici), who had a cell reserved for himself at the friary in order that he might retreat from the world. It was, according to Vasari, at Cosimo's urging that Fra Angelico set about the task of decorating the convent, including the magnificent fresco of the Chapter House, the often-reproduced Annunciation at the top of the stairs leading to the cells, the Maesta (or Coronation of the Madonna) with Saints (cell 9) and the many other devotional frescoes, of smaller format but remarkable luminous quality, depicting aspects of the Life of Christ that adorn the walls of each cell.[13]
+In 1436, Fra Angelico was one of a number of the friars from Fiesole who moved to the newly built convent or friary of San Marco in Florence. This was an important move which put him in the centre of artistic activity of the region and brought about the patronage of one of the wealthiest and most powerful members of the city's governing authority, or "Signoria" (namely Cosimo de' Medici), who had a cell reserved for himself at the friary in order that he might retreat from the world. It was, according to Vasari, at Cosimo's urging that Fra Angelico set about the task of decorating the convent, including the magnificent fresco of the Chapter House, the often-reproduced Annunciation at the top of the stairs leading to the cells, the Maesta (or Coronation of the Madonna) with Saints (cell 9) and the many other devotional frescoes, of smaller format but remarkable luminous quality, depicting aspects of the Life of Christ that adorn the walls of each cell.[13]
 
 In 1439 Fra Angelico completed one of his most famous works, the _San Marco Altarpiece_ at Florence. The result was unusual for its time. Images of the enthroned Madonna and Child surrounded by saints were common, but they usually depicted a setting that was clearly heaven-like, in which saints and angels hovered about as divine presences rather than people. But in this instance, the saints stand squarely within the space, grouped in a natural way as if they were able to converse about the shared experience of witnessing the Virgin in glory. Paintings such as this, known as Sacred Conversations, were to become the major commissions of Giovanni Bellini, Perugino and Raphael.[14]
 
-Fra_Angelico_-_San_Marco_Altarpiece_-_WGA00509_02.jpg'']]
+'']]
 
 The Vatican, 1445–1455
-
-Fra_Angelico_012.jpg
 
 In 1445 Pope Eugene IV summoned him to Rome to paint the frescoes of the Chapel of the Holy Sacrament at St Peter's, later demolished by Pope Paul III. Vasari claims that at this time Fra Angelico was offered the Archbishopric of Florence by Pope Nicholas V, and that he refused it, recommending another friar for the position. The story seems possible and even likely. However, if Vasari's date is correct, then the pope must have been Eugene IV and not Nicholas, who was elected Pope only on 6 March 1447. Moreover, the archbishop in 1446–1459 was the Dominican Antoninus of Florence (Antonio Pierozzi), canonized by Pope Adrian VI in 1523. In 1447 Fra Angelico was in Orvieto with his pupil, Benozzo Gozzoli, executing works for the Cathedral. Among his other pupils were Zanobi Strozzi.[15]
 
@@ -35,7 +33,7 @@ From 1447 to 1449 Fra Angelico was back at the Vatican, designing the frescoes f
 
 Death and beatification
 
-Fra_Angelico,_Fra_Filippo_Lippi,_The_Adoration_of_the_Magi.jpg'' is a tondo of the Adoration of the Magi. It is credited to Fra Angelico and Filippo Lippi and dates to c. 1440/1460.]] In 1455, Fra Angelico died while staying at a Dominican convent in Rome, perhaps on an order to work on Pope Nicholas' chapel. He was buried in the church of Santa Maria sopra Minerva.[18][19][20]
+'' is a tondo of the Adoration of the Magi. It is credited to Fra Angelico and Filippo Lippi and dates to c. 1440/1460.]] In 1455, Fra Angelico died while staying at a Dominican convent in Rome, perhaps on an order to work on Pope Nicholas' chapel. He was buried in the church of Santa Maria sopra Minerva.[18][19][20]
 
 The English writer and critic William Michael Rossetti wrote of the friar:
 
@@ -44,9 +42,7 @@ Pope John Paul II beatified Fra Angelico on October 3, 1982, and in 1984 declare
 
 Evaluation
 
-Fra_Angelico_009.jpg,_The Day of Judgement_, upper panel of an altarpiece. It shows the precision, detail and colour required in a commissioned work]] Angelico,_tebaide_01.jpg
-
-Fra_Angelico_and_workshop_-_Reconstruction_Thebaide_-_1430-1435.jpg
+,_The Day of Judgement_, upper panel of an altarpiece. It shows the precision, detail and colour required in a commissioned work]]
 
 Background
 
@@ -64,7 +60,7 @@ Altarpieces
 
 The works of Fra Angelico reveal elements that are both conservatively Gothic and progressively Renaissance. In the altarpiece of the Coronation of the Virgin, painted for the Florentine church of Santa Maria Novella, are all the elements that a very expensive altarpiece of the 14th century was expected to provide; a precisely tooled gold background, lots of azure, lots of vermilion and an obvious display of arsenic green. The workmanship of the gilded haloes and gold-edged robes is exquisite and all very Gothic. What makes this a Renaissance painting, as against Gentile da Fabriano's masterpiece, is the solidity, the three-dimensionality and naturalism of the figures and the realistic way in which their garments hang or drape around them. Even though it is clouds these figures stand upon, and not the earth, they do so with weight.[25]
 
-Fra_Angelico_042_adjusted.jpg'' shows the directness, simplicity and restrained palette typical of these frescoes. Located in a monk's cell at the Convent San' Marco, its apparent purpose is to encourage private devotion.]]
+'' shows the directness, simplicity and restrained palette typical of these frescoes. Located in a monk's cell at the Convent San' Marco, its apparent purpose is to encourage private devotion.]]
 
 Frescoes
 
@@ -74,15 +70,13 @@ Masaccio ventured into perspective with his creation of a realistically painted 
 
 Lives of the Saints
 
-Angelico,_niccolina_12.jpg distributing alms'' (1447), in the Vatican, incorporates the expensive pigments, gold leaf and elaborate design typical of Vatican commissions.]]
+distributing alms'' (1447), in the Vatican, incorporates the expensive pigments, gold leaf and elaborate design typical of Vatican commissions.]]
 
 When Fra Angelico and his assistants went to the Vatican to decorate the chapel of Pope Nicholas, the artist was again confronted with the need to please the very wealthiest of clients. In consequence, walking into the small chapel is like stepping into a jewel box. The walls are decked with the brilliance of colour and gold that one sees in the most lavish creations of the Gothic painter Simone Martini at the Lower Church of St Francis of Assisi, a hundred years earlier. Yet Fra Angelico has succeeded in creating designs which continue to reveal his own preoccupation with humanity, with humility and with piety. The figures, in their lavish gilded robes, have the sweetness and gentleness for which his works are famous. According to Vasari:
 
   In their bearing and expression, the saints painted by Fra Angelico come nearer to the truth than the figures done by any other artist.[29]
 
 It is probable that much of the actual painting was done by his assistants to his design. Both Benozzo Gozzoli and Gentile da Fabriano were highly accomplished painters. Benozzo took his art further towards the fully developed Renaissance style with his expressive and lifelike portraits in his masterpiece depicting the Journey of the Magi, painted in the Medici's private chapel at their palazzo.[30]
-
-Blessing_Redeemer_(1423);_Fra_Angelico1.jpg
 
 Artistic legacy
 
@@ -96,8 +90,6 @@ Within the cells of San’Marco, Fra Angelico had demonstrated that painterly sk
 
 
 Works
-
-Angelico,_pala_di_fiesole,_full.jpg
 
 Early works, 1408–1436
 
@@ -133,7 +125,7 @@ San Marco, Florence, 1436–1445
 
 -   Altarpiece for chancel – _Virgin with Saints Cosmas and Damian, attended by Saints Dominic, Peter, Francis, Mark, John Evangelist and Stephen_. Cosmas and Damian were patrons of the Medici. The altarpiece was commissioned in 1438 by Cosimo de' Medici. It was removed and disassembled during the renovation of the convent church in the seventeenth century. Two of the nine predella panels remain at the convent; seven are in Washington, Munich, Dublin and Paris. Unexpectedly, in 2006 the last two missing panels, Dominican saints from the side panels, turned up in the estate of a modest collector in Oxfordshire, who had bought them in California in the 1960s.[34]
 
-Fra_Angelico_073.jpg Beato_angelico,_madonna_delle_ombre.jpg, Saint Mark and Saint John, Saint Lawrence and three Dominicans, Saint Dominic, Saint Thomas Aquinas and Saint Peter Martyr; San Marco, Florence]]
+, Saint Mark and Saint John, Saint Lawrence and three Dominicans, Saint Dominic, Saint Thomas Aquinas and Saint Peter Martyr; San Marco, Florence]]
 
 -   Altarpiece ? – _Madonna and Child with twelve Angels_ (life sized); Uffizi.
 -   Altarpiece – _The Annunciation_
@@ -143,7 +135,7 @@ Fra_Angelico_073.jpg Beato_angelico,_madonna_delle_ombre.jpg, Saint Mark and Sai
 -   _The Annunciation_; at the top of the Dormitory stairs. This is probably the most reproduced of all Fra Angelico's paintings.
 -   _Virgin enthroned with Four Saints_; in the Dormitory passage
 
-Fra_Angelico_049.jpg Each cell is decorated with a fresco which matches in size and shape the single round-headed window beside it. The frescoes are apparently for contemplative purpose. They have a pale, serene, unearthly beauty. Many of Fra Angelico's finest and most reproduced works are among them. There are, particularly in the inner row of cells, some of less inspiring quality and of more repetitive subject, perhaps completed by assistants.[35] Many pictures include Dominican saints as witnesses of scene each in one of the nine traditional prayer postures depicted in De Modo Orandi.
+Each cell is decorated with a fresco which matches in size and shape the single round-headed window beside it. The frescoes are apparently for contemplative purpose. They have a pale, serene, unearthly beauty. Many of Fra Angelico's finest and most reproduced works are among them. There are, particularly in the inner row of cells, some of less inspiring quality and of more repetitive subject, perhaps completed by assistants.[35] Many pictures include Dominican saints as witnesses of scene each in one of the nine traditional prayer postures depicted in De Modo Orandi.
 
 Each cell is decorated with a fresco which matches in size and shape the single round-headed window beside it. The frescoes are apparently for contemplative purpose. They have a pale, serene, unearthly beauty. Many of Fra Angelico's finest and most reproduced works are among them. There are, particularly in the inner row of cells, some of less inspiring quality and of more repetitive subject, perhaps completed by assistants.☃☃ Many pictures include Dominican saints as witnesses of scene each in one of the nine traditional prayer postures depicted in De Modo Orandi. The friar using the cell could place himself in the scene.
 

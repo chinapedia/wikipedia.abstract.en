@@ -1,4 +1,4 @@
-KochFlake.svgs of the Koch curve, where after each iteration, all original line segments are replaced with four, each a self-similar copy that is 1/3 the length of the original. One formalism of the Hausdorff dimension uses this scale factor (3) and the number of self-similar objects (4) to calculate the dimension, D, after the first iteration to be D = (log N)/(log S) = (log 4)/(log 3) ≈ 1.26.[1] That is, while the Hausdorff dimension of a single point is zero, of a line segment is 1, of a square is 2, and of a cube is 3, for fractals such as this, the object can have a non-integer dimension.]]
+s of the Koch curve, where after each iteration, all original line segments are replaced with four, each a self-similar copy that is 1/3 the length of the original. One formalism of the Hausdorff dimension uses this scale factor (3) and the number of self-similar objects (4) to calculate the dimension, D, after the first iteration to be D = (log N)/(log S) = (log 4)/(log 3) ≈ 1.26.[1] That is, while the Hausdorff dimension of a single point is zero, of a line segment is 1, of a square is 2, and of a cube is 3, for fractals such as this, the object can have a non-integer dimension.]]
 
 In mathematics, HAUSDORFF DIMENSION (a.k.a. FRACTAL DIMENSION) is a measure of _roughness_ and/or chaos that was first introduced in 1918 by mathematician Felix Hausdorff[2]. Applying the mathematical formula, the Hausdorff dimension of a single point is zero, of a line segment is 1, of a square is 2, and of a cube is 3. That is, for sets of points that define a smooth shape or a shape that has a small number of corners—the shapes of traditional geometry and science—the Hausdorff dimension is an integer agreeing with the usual sense of dimension, also known as the topological dimension. However, formulas have also been developed that allow calculation of the dimension of other less simple objects, where, based solely on their properties of scaling and self-similarity, one is led to the conclusion that particular objects—including fractals—have non-integer Hausdorff dimensions. Because of the significant technical advances made by Abram Samoilovitch Besicovitch allowing computation of dimensions for highly irregular or "rough" sets, this dimension is also commonly referred to as the _Hausdorff–Besicovitch dimension._
 
@@ -46,7 +46,7 @@ Equivalently, dim_(H)(_X_) may be defined as the infimum of the set of _d_ ∈ [
 
 Examples
 
-Sierpinski_deep.svg example. The Sierpinski triangle, an object with Hausdorff dimension of log(3)/log(2)≈1.58.[7]]]
+example. The Sierpinski triangle, an object with Hausdorff dimension of log(3)/log(2)≈1.58.[7]]]
 
 -   Countable sets have Hausdorff dimension 0.[8]
 -   The Euclidean space ℝ^(_n_) has Hausdorff dimension _n_, and the circle S¹ has Hausdorff dimension 1.[9]

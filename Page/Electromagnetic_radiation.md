@@ -1,4 +1,4 @@
-Onde_electromagnetique.svg sinusoidal electromagnetic wave, propagating in the direction +Z through a homogeneous, isotropic, dissipationless medium, such as vacuum. The electric field (blue arrows) oscillates in the ±X-direction, and the orthogonal magnetic field (red arrows) oscillates in phase with the electric field, but in the ±Y-direction.]]
+sinusoidal electromagnetic wave, propagating in the direction +Z through a homogeneous, isotropic, dissipationless medium, such as vacuum. The electric field (blue arrows) oscillates in the ±X-direction, and the orthogonal magnetic field (red arrows) oscillates in phase with the electric field, but in the ±Y-direction.]]
 
 In physics, ELECTROMAGNETIC RADIATION (EM RADIATION or EMR) refers to the waves (or their quanta, photons) of the electromagnetic field, propagating (radiating) through space, carrying electromagnetic radiant energy.[1] It includes radio waves, microwaves, infrared, (visible) light, ultraviolet, X-rays, and gamma rays.[2]
 
@@ -15,7 +15,7 @@ Physics
 
 Theory
 
-VisibleEmrWavelengths.svg (blue, green, and red) with a distance scale in micrometers along the x-axis.]]
+(blue, green, and red) with a distance scale in micrometers along the x-axis.]]
 
 Maxwell’s equations
 
@@ -25,7 +25,7 @@ According to Maxwell's equations, a spatially varying electric field is always a
 
 Near and far fields
 
-FarNearFields-USP-4998112-1.svg that radiate into infinite space and decrease in intensity by an inverse-square law of power, so that the total radiation energy that crosses through an imaginary spherical surface is the same, no matter how far away from the antenna the spherical surface is drawn. Electromagnetic radiation thus includes the far field part of the electromagnetic field around a transmitter. A part of the "near-field" close to the transmitter, forms part of the changing electromagnetic field, but does not count as electromagnetic radiation.]] Maxwell's equations established that some charges and currents ("sources") produce a local type of electromagnetic field near them that does _not_ have the behaviour of EMR. Currents directly produce a magnetic field, but it is of a magnetic dipole type that dies out with distance from the current. In a similar manner, moving charges pushed apart in a conductor by a changing electrical potential (such as in an antenna) produce an electric dipole type electrical field, but this also declines with distance. These fields make up the near-field near the EMR source. Neither of these behaviours are responsible for EM radiation. Instead, they cause electromagnetic field behaviour that only efficiently transfers power to a receiver very close to the source, such as the magnetic induction inside a transformer, or the feedback behaviour that happens close to the coil of a metal detector. Typically, near-fields have a powerful effect on their own sources, causing an increased “load” (decreased electrical reactance) in the source or transmitter, whenever energy is withdrawn from the EM field by a receiver. Otherwise, these fields do not “propagate” freely out into space, carrying their energy away without distance-limit, but rather oscillate, returning their energy to the transmitter if it is not received by a receiver.
+that radiate into infinite space and decrease in intensity by an inverse-square law of power, so that the total radiation energy that crosses through an imaginary spherical surface is the same, no matter how far away from the antenna the spherical surface is drawn. Electromagnetic radiation thus includes the far field part of the electromagnetic field around a transmitter. A part of the "near-field" close to the transmitter, forms part of the changing electromagnetic field, but does not count as electromagnetic radiation.]] Maxwell's equations established that some charges and currents ("sources") produce a local type of electromagnetic field near them that does _not_ have the behaviour of EMR. Currents directly produce a magnetic field, but it is of a magnetic dipole type that dies out with distance from the current. In a similar manner, moving charges pushed apart in a conductor by a changing electrical potential (such as in an antenna) produce an electric dipole type electrical field, but this also declines with distance. These fields make up the near-field near the EMR source. Neither of these behaviours are responsible for EM radiation. Instead, they cause electromagnetic field behaviour that only efficiently transfers power to a receiver very close to the source, such as the magnetic induction inside a transformer, or the feedback behaviour that happens close to the coil of a metal detector. Typically, near-fields have a powerful effect on their own sources, causing an increased “load” (decreased electrical reactance) in the source or transmitter, whenever energy is withdrawn from the EM field by a receiver. Otherwise, these fields do not “propagate” freely out into space, carrying their energy away without distance-limit, but rather oscillate, returning their energy to the transmitter if it is not received by a receiver.
 
 By contrast, the EM far-field is composed of _radiation_ that is free of the transmitter in the sense that (unlike the case in an electrical transformer) the transmitter requires the same power to send these changes in the fields out, whether the signal is immediately picked up or not. This distant part of the electromagnetic field _is_ "electromagnetic radiation" (also called the far-field). The far-fields propagate (radiate) without allowing the transmitter to affect them. This causes them to be independent in the sense that their existence and their energy, after they have left the transmitter, is completely independent of both transmitter and receiver. Due to conservation of energy, the amount of power passing through any spherical surface drawn around the source is the same. Because such a surface has an area proportional to the square of its distance from the source, the power density of EM radiation always decreases with the inverse square of distance from the source; this is called the inverse-square law. This is in contrast to dipole parts of the EM field close to the source (the near-field), which varies in power according to an inverse cube power law, and thus does _not_ transport a conserved amount of energy over distances, but instead fades with distance, with its energy (as noted) rapidly returning to the transmitter or absorbed by a nearby receiver (such as a transformer secondary coil).
 
@@ -36,8 +36,6 @@ A more compact view of EMR is that the far-field that composes EMR is generally 
 In the Liénard–Wiechert potential formulation of the electric and magnetic fields due to motion of a single particle (according to Maxwell's equations), the terms associated with acceleration of the particle are those that are responsible for the part of the field that is regarded as electromagnetic radiation. By contrast, the term associated with the changing static electric field of the particle and the magnetic term that results from the particle's uniform velocity, are both associated with the electromagnetic near-field, and do not comprise EM radiation.
 
 Properties
-
-Electromagneticwave3D.gif
 
 Electrodynamics is the physics of electromagnetic radiation, and electromagnetism is the physical phenomenon associated with the theory of electrodynamics. Electric and magnetic fields obey the properties of superposition. Thus, a field due to any particular particle or time-varying electric or magnetic field contributes to the fields present in the same space due to other causes. Further, as they are vector fields, all magnetic and electric field vectors add together according to vector addition.[12] For example, in optics two or more coherent lightwaves may interact and by constructive or destructive interference yield a resultant irradiance deviating from the sum of the component irradiances of the individual lightwaves.
 
@@ -55,7 +53,7 @@ Electromagnetic waves can be polarized, reflected, refracted, diffracted or inte
 
 Wave model
 
-Circular.Polarization.Circularly.Polarized.Light_Right.Handed.Animation.305x190.255Colors.gif In homogeneous, isotropic media, electromagnetic radiation is a transverse wave,[20] meaning that its oscillations are perpendicular to the direction of energy transfer and travel.[21] The electric and magnetic parts of the field stand in a fixed ratio of strengths in order to satisfy the two Maxwell equations that specify how one is produced from the other. In dissipation less (lossless) media, these E and B fields are also in phase, with both reaching maxima and minima at the same points in space (see illustrations). A common misconception is that the E and B fields in electromagnetic radiation are out of phase because a change in one produces the other, and this would produce a phase difference between them as sinusoidal functions (as indeed happens in electromagnetic induction, and in the near-field close to antennas). However, in the far-field EM radiation which is described by the two source-free Maxwell curl operator equations, a more correct description is that a time-change in one type of field is proportional to a space-change in the other. These derivatives require that the E and B fields in EMR are in-phase (see math section below).
+In homogeneous, isotropic media, electromagnetic radiation is a transverse wave,[20] meaning that its oscillations are perpendicular to the direction of energy transfer and travel.[21] The electric and magnetic parts of the field stand in a fixed ratio of strengths in order to satisfy the two Maxwell equations that specify how one is produced from the other. In dissipation less (lossless) media, these E and B fields are also in phase, with both reaching maxima and minima at the same points in space (see illustrations). A common misconception is that the E and B fields in electromagnetic radiation are out of phase because a change in one produces the other, and this would produce a phase difference between them as sinusoidal functions (as indeed happens in electromagnetic induction, and in the near-field close to antennas). However, in the far-field EM radiation which is described by the two source-free Maxwell curl operator equations, a more correct description is that a time-change in one type of field is proportional to a space-change in the other. These derivatives require that the E and B fields in EMR are in-phase (see math section below).
 
 An important aspect of light's nature is its frequency. The frequency of a wave is its rate of oscillation and is measured in hertz, the SI unit of frequency, where one hertz is equal to one oscillation per second. Light usually has multiple frequencies that sum to form the resultant wave. Different frequencies undergo different angles of refraction, a phenomenon known as dispersion.
 
@@ -73,7 +71,7 @@ The energy in electromagnetic waves is sometimes called radiant energy.[23][24][
 
 Particle model and quantum theory
 
-Laser_photons.gif An anomaly arose in the late 19th century involving a contradiction between the wave theory of light and measurements of the electromagnetic spectra that were being emitted by thermal radiators known as black bodies. Physicists struggled with this problem unsuccessfully for many years. It later became known as the ultraviolet catastrophe. In 1900, Max Planck developed a new theory of black-body radiation that explained the observed spectrum. Planck's theory was based on the idea that black bodies emit light (and other electromagnetic radiation) only as discrete bundles or packets of energy. These packets were called quanta. In 1905, Albert Einstein proposed that light quanta be regarded as real particles. Later the particle of light was given the name photon, to correspond with other particles being described around this time, such as the electron and proton. A photon has an energy, _E_, proportional to its frequency, _f_, by
+An anomaly arose in the late 19th century involving a contradiction between the wave theory of light and measurements of the electromagnetic spectra that were being emitted by thermal radiators known as black bodies. Physicists struggled with this problem unsuccessfully for many years. It later became known as the ultraviolet catastrophe. In 1900, Max Planck developed a new theory of black-body radiation that explained the observed spectrum. Planck's theory was based on the idea that black bodies emit light (and other electromagnetic radiation) only as discrete bundles or packets of energy. These packets were called quanta. In 1905, Albert Einstein proposed that light quanta be regarded as real particles. Later the particle of light was given the name photon, to correspond with other particles being described around this time, such as the electron and proton. A photon has an energy, _E_, proportional to its frequency, _f_, by
 
     $E = hf = \frac{hc}{\lambda} \,\!$
 
@@ -120,7 +118,7 @@ Electromagnetic radiation of wavelengths other than those of visible light were 
 
 In 1801, German physicist Johann Wilhelm Ritter discovered ultraviolet in an experiment similar to Hershel's, using sunlight and a glass prism. Ritter noted that invisible rays near the violet edge of a solar spectrum dispersed by a triangular prism darkened silver chloride preparations more quickly than did the nearby violet light. Ritter's experiments were an early precursor to what would become photography. Ritter noted that the ultraviolet rays (which at first were called "chemical rays") were capable of causing chemical reactions.
 
-James_Clerk_Maxwell_sitting.jpg]] In 1862-4 James Clerk Maxwell developed equations for the electromagnetic field which suggested that waves in the field would travel with a speed that was very close to the known speed of light. Maxwell therefore suggested that visible light (as well as invisible infrared and ultraviolet rays by inference) all consisted of propagating disturbances (or radiation) in the electromagnetic field. Radio waves were first produced deliberately by Heinrich Hertz in 1887, using electrical circuits calculated to produce oscillations at a much lower frequency than that of visible light, following recipes for producing oscillating charges and currents suggested by Maxwell's equations. Hertz also developed ways to detect these waves, and produced and characterized what were later termed radio waves and microwaves.[34]
+]] In 1862-4 James Clerk Maxwell developed equations for the electromagnetic field which suggested that waves in the field would travel with a speed that was very close to the known speed of light. Maxwell therefore suggested that visible light (as well as invisible infrared and ultraviolet rays by inference) all consisted of propagating disturbances (or radiation) in the electromagnetic field. Radio waves were first produced deliberately by Heinrich Hertz in 1887, using electrical circuits calculated to produce oscillations at a much lower frequency than that of visible light, following recipes for producing oscillating charges and currents suggested by Maxwell's equations. Hertz also developed ways to detect these waves, and produced and characterized what were later termed radio waves and microwaves.[34]
 
 Wilhelm Röntgen discovered and named X-rays. After experimenting with high voltages applied to an evacuated tube on 8 November 1895, he noticed a fluorescence on a nearby plate of coated glass. In one month, he discovered X-rays' main properties.[35]
 
@@ -129,28 +127,7 @@ The last portion of the EM spectrum to be discovered was associated with radioac
 
 Electromagnetic spectrum
 
-EM_spectrumrevised.png with visible light highlighted]] LEGEND:
-γ = Gamma rays
-HX = Hard X-rays
-SX = Soft X-Rays
-EUV = Extreme-ultraviolet
-NUV = Near-ultraviolet
-Visible light (colored bands)
-NIR = Near-infrared
-MIR = Mid-infrared
-FIR = Far-infrared
-EHF = Extremely high frequency (microwaves)
-SHF = Super-high frequency (microwaves)
-UHF = Ultrahigh frequency (radio waves)
-VHF = Very high frequency (radio)
-HF = High frequency (radio)
-MF = Medium frequency (radio)
-LF = Low frequency (radio)
-VLF = Very low frequency (radio)
-VF = Voice frequency
-ULF = Ultra-low frequency (radio)
-SLF = Super-low frequency (radio)
-ELF = Extremely low frequency(radio)
+with visible light highlighted]]
 
 EM radiation (the designation 'radiation' excludes static electric and magnetic and near fields) is classified by wavelength into radio, microwave, infrared, visible, ultraviolet, X-rays and gamma rays. Arbitrary electromagnetic waves can be expressed by Fourier analysis in terms of sinusoidal monochromatic waves, which in turn can each be classified into these regions of the EMR spectrum.
 
@@ -191,7 +168,7 @@ Electromagnetic radiation composed of photons that carry minimum-ionization ener
 
 Atmosphere and magnetosphere
 
-Atmospheric_electromagnetic_opacity.svg) of various wavelengths of electromagnetic radiation]] Most UV and X-rays are blocked by absorption first from molecular nitrogen, and then (for wavelengths in the upper UV) from the electronic excitation of dioxygen and finally ozone at the mid-range of UV. Only 30% of the Sun's ultraviolet light reaches the ground, and almost all of this is well transmitted.
+) of various wavelengths of electromagnetic radiation]] Most UV and X-rays are blocked by absorption first from molecular nitrogen, and then (for wavelengths in the upper UV) from the electronic excitation of dioxygen and finally ozone at the mid-range of UV. Only 30% of the Sun's ultraviolet light reaches the ground, and almost all of this is well transmitted.
 
 Visible light is well transmitted in air, as it is not energetic enough to excite nitrogen, oxygen, or ozone, but too energetic to excite molecular vibrational frequencies of water vapor.
 

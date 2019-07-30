@@ -1,20 +1,20 @@
-Beadwork_on_Container_(2131611625).jpgn beadwork on basket, from the ethnographic collection of the National Museum, Addis Ababa]] BEADWORK is the art or craft of attaching beads to one another by stringing them with a sewing needle or beading needle and thread or thin wire, or sewing them to cloth.[1] Beads come in a variety of materials, shapes and sizes. Beads are used to create jewelry or other articles of personal adornment; they are also used in wall hangings and sculpture and many other artworks.
+n beadwork on basket, from the ethnographic collection of the National Museum, Addis Ababa]] BEADWORK is the art or craft of attaching beads to one another by stringing them with a sewing needle or beading needle and thread or thin wire, or sewing them to cloth.[1] Beads come in a variety of materials, shapes and sizes. Beads are used to create jewelry or other articles of personal adornment; they are also used in wall hangings and sculpture and many other artworks.
 
 Beadwork techniques are broadly divided into loom and off-loom weaving, stringing, bead embroidery, bead crochet, bead knitting, and bead tatting.[2]
 
 Beads, made of durable materials, survive in the archaeological record appearing with the very advent of modern man, _Homo sapiens_.[3]
 
-Beads are used for religious purposes, as good luck talismans, for barter, and as curative agents. MRAW_Bellyband_Tri_Wing_Ring_from_Contemporary_Geometric_Beadwork_by_Kate_McKinnon_.webm
+Beads are used for religious purposes, as good luck talismans, for barter, and as curative agents.
 
 
 Modern beading
 
-Beadwork_adaptation_of_Vittore_Crivelli.jpg.]] Modern beadwork is often used as a creative hobby to create jewelry, handbags, coasters, plus dozens of other crafts, and even copies of paintings. Beads are available in many different designs, sizes, colors, shapes, and materials, allowing much variation among bead artisans and projects. Simple projects can be created in less than an hour by novice beaders, while complex beadwork may take weeks of meticulous work with specialized tools and equipment. Many free patterns and tutorials can be found in Internet.
+.]] Modern beadwork is often used as a creative hobby to create jewelry, handbags, coasters, plus dozens of other crafts, and even copies of paintings. Beads are available in many different designs, sizes, colors, shapes, and materials, allowing much variation among bead artisans and projects. Simple projects can be created in less than an hour by novice beaders, while complex beadwork may take weeks of meticulous work with specialized tools and equipment. Many free patterns and tutorials can be found in Internet.
 
 
 Ancient beading
 
-Broad_Collar,_ca._1336-1327_B.C.E.,_ca._1327-1323_B.C.E.,_or_ca.1323-1295_B.C.E.,40.522.jpg]] Faience is a mixture of powdered clays and lime, soda and silica sand. This is mixed with water to make a paste and molded around a small stick or bit of straw. It is then ready to be fired into a bead. As the bead heats up, the soda, sand and lime melt into glass that incorporates and covers the clay. The result is a hard bead covered in bluish glass.
+]] Faience is a mixture of powdered clays and lime, soda and silica sand. This is mixed with water to make a paste and molded around a small stick or bit of straw. It is then ready to be fired into a bead. As the bead heats up, the soda, sand and lime melt into glass that incorporates and covers the clay. The result is a hard bead covered in bluish glass.
 
 This process was probably discovered first in Mesopotamia and then imported to ancient Egypt. However, it was the Egyptians who made it their own art form. Since before the 1st dynasty of Narmer (3100 B.C.) to the last dynasty of the Ptolemaic Kingdom (33 B.C.) and to the present day, faience beads have been made in the same way.
 
@@ -31,7 +31,7 @@ In the Americas, the Cherokee used bead work to tell stories. They told them by 
 
 3D beading
 
-Perlentier.JPG Beadknitting.JPG on double-pointed
+on double-pointed
 
 knitting needles]]
 
@@ -57,7 +57,7 @@ Glass beads were being made in Murano by the end of the 14th century. French bea
 
 Native American beadwork
 
-Nat_Am_beadwork_sampler.jpg Beadwork is a Native American art form which evolved to mostly use glass beads imported from Europe and recently Asia. Glass beads have been in use for almost five centuries in the Americas. Today a wide range of beading styles flourish.
+Beadwork is a Native American art form which evolved to mostly use glass beads imported from Europe and recently Asia. Glass beads have been in use for almost five centuries in the Americas. Today a wide range of beading styles flourish.
 
 Alongside the widespread popularity of glass beads, bead artists continue incorporating natural items such as dyed porcupine quills, shell such as wampum, and dendrite, and even sea urchin spines in a similar manner as beads.
 
@@ -65,7 +65,7 @@ Wampum shell beads are ceremonially and politically important to a range of East
 
 In the Great Lakes, Ursuline nuns introduced floral patterns to tribes who quickly applied them to beadwork.[9] Great Lakes tribes are known for their bandolier bags that might take an entire year to complete.[10] During the 20th century the Plateau tribes, such as the Nez Perce, perfected contour-style beadwork in which the lines of beads are stitched to emphasize the pictorial imagery. Plains tribes are master beaders, and today dance regalia for men and women feature a variety of beadwork styles. While Plains and Plateau tribes are renowned for their beaded horse trappings, Subarctic tribes such as the Dene create lavish beaded floral dog blankets.[11] Eastern tribes have a completely different beadwork aesthetic: Innu, Mi'kmaq, Penobscot, and Haudenosaunee tribes are known for symmetrical scroll motifs in white beads, called the "double curve."[12] Iroquois are also known for "embossed" beading in which strings pulled taut force beads to pop up from the surface, creating a bas-relief. Tammy Rahr (Cayuga) is a contemporary practitioner of this style. Zuni artists have developed a tradition of three-dimensional beaded sculptures.
 
-Huichol_Trabajando.JPGHuichol Indians of Jalisco and Nayarit, Mexico have a completely unique approach to beadwork. They adhere beads one by one to a surface such as wood or a gourd with a mixture of resin and beeswax.[13]
+Huichol Indians of Jalisco and Nayarit, Mexico have a completely unique approach to beadwork. They adhere beads one by one to a surface such as wood or a gourd with a mixture of resin and beeswax.[13]
 
 Most Native beadwork is created for tribal use, but beadworkers also create conceptual work for the art world. Richard Aitson (Kiowa-Apache), enjoying both an Indian and non-Indian audience, is known for his fully beaded cradleboards. Another Kiowa beadworker, Teri Greeves, has won top honors for her beadwork which consciously integrates both traditional and contemporary motifs such as beaded dancers on Converse high-tops. Greeves also beads on buckskin and explores such issues as warfare or Native American voting rights.[14]
 

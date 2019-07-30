@@ -1,4 +1,4 @@
-Schriftprobe_Latein_15_Jh.jpg text with abbreviations]]
+text with abbreviations]]
 
 An ABBREVIATION (from Latin _brevis_, meaning _short_ [1]) is a shortened form of a word or phrase, by any method. It may consist of a group of letters or words taken from the full version of the word or phrase, for example, the word _abbreviation_ can itself be represented by the abbreviation _abbr._, _abbrv._, or _abbrev._; nil by mouth is an abbreviated medical instruction. It may also consist of initials only, a mixture of initials and words, or words or letters representing words in another language (for example, e.g., i.e. or RSVP). Some types of abbreviations are acronyms (which are pronounceable), initialisms (using initials only), or grammatical contractions or crasis.
 
@@ -45,7 +45,7 @@ If the original word was capitalized then the first letter of its abbreviation s
 
 Periods (full stops) and spaces
 
-“To_Penna._R.R._Station”.jpg A period (full stop) is often used to signify an abbreviation, but opinion is divided as to when and if this should happen.
+A period (full stop) is often used to signify an abbreviation, but opinion is divided as to when and if this should happen.
 
 According to Hart's Rules, the traditional rule is that abbreviations (in the narrow sense that includes only words with the ending, and not the middle, dropped) terminate with a full stop, whereas contractions (in the sense of words missing a middle part) do not, but there are exceptions.[11] Fowler's Modern English Usage says full stops are used to mark both abbreviations and contractions, but recommends against this practice: advising them only for abbreviations and lower-case initialisms and not for upper-case initialisms and contractions.[12]
 
@@ -160,8 +160,6 @@ Miscellaneous and general rules
 
 
 Measurement shorthand—symbol or abbreviation
-
-PRC_Expressway_RoadSign_Distances.jpg
 
 Writers often use shorthand to denote units of measure. Such shorthand can be an abbreviation, such as "in" for "inch" or can be a symbol such as "km" for "kilometre/kilometer".
 

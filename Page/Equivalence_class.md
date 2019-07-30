@@ -1,4 +1,4 @@
-Congruent_non-congruent_triangles.svg is an example of an equivalence relation. The leftmost two triangles are congruent, while the third and fourth triangles are not congruent to any other triangle shown here. Thus, the first two triangles are in the same equivalence class, while the third and fourth triangles are each in their own equivalence class.]]
+is an example of an equivalence relation. The leftmost two triangles are congruent, while the third and fourth triangles are not congruent to any other triangle shown here. Thus, the first two triangles are in the same equivalence class, while the third and fourth triangles are each in their own equivalence class.]]
 
 In mathematics, when the elements of some set have a notion of equivalence (formalized as an equivalence relation) defined on them, then one may naturally split the set into EQUIVALENCE CLASSES. These equivalence classes are constructed so that elements and belong to the same EQUIVALENCE CLASS if and only if they are equivalent.
 
@@ -58,7 +58,7 @@ In other words, if is an equivalence relation on a set , and and are two element
 
 Graphical representation
 
-Equivalentie.svg An undirected graph may be associated to any symmetric relation on a set , where the vertices are the elements of , and two vertices and are joined if and only if . Among these graphs are the graphs of equivalence relations; they are characterized as the graphs such that the connected components are cliques.[8]
+An undirected graph may be associated to any symmetric relation on a set , where the vertices are the elements of , and two vertices and are joined if and only if . Among these graphs are the graphs of equivalence relations; they are characterized as the graphs such that the connected components are cliques.[8]
 
 
 Invariants

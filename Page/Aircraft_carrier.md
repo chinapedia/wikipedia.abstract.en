@@ -1,13 +1,13 @@
-Fleet_5_nations.jpg, , helicopter carrier —and escort vessels, 2002]] Principe-de-Asturias_Wasp_Forrestal_Invincible_1991_DN-ST-92-01129s.jpg carrier _Príncipe de Asturias_, amphibious assault ship , fleet carrier , and light V/STOL carrier , showing size differences of late 20th century carriers, 1991]]
+, , helicopter carrier —and escort vessels, 2002]] carrier _Príncipe de Asturias_, amphibious assault ship , fleet carrier , and light V/STOL carrier , showing size differences of late 20th century carriers, 1991]]
 
-An AIRCRAFT CARRIER is a warship that serves as a seagoing airbase, equipped with a full-length flight deck and facilities for carrying, arming, deploying, and recovering aircraft.[1] Typically, it is the capital ship of a fleet, as it allows a naval force to project air power worldwide without depending on local bases for staging aircraft operations. Carriers have evolved since their inception in the early twentieth century from wooden vessels used to deploy balloons to nuclear-powered warships that carry numerous fighters, strike aircraft, helicopters, and other types of aircraft. While heavier aircraft such as fixed-wing gunships and bombers have been launched from aircraft carriers, it is currently not possible to land them. By its diplomatic and tactical power, its mobility, its autonomy and the variety of its means, the aircraft carrier is often the centerpiece of modern combat fleets. Tactically or even strategically, it replaced the battleship in the role of flagship of a fleet. One of its great advantages is that, by sailing in international waters, it does not interfere with any territorial sovereignty and thus obviates the need for overflight authorizations from third party countries, reduce the times and transit distances of aircraft and therefore significantly increase the time of availability on the combat zone. World_Navy_Aircraft_carries_chart.svg There is no single definition of an "aircraft carrier",[2] and modern navies use several variants of the type. These variants are sometimes categorized as sub-types of aircraft carriers,[3] and sometimes as distinct types of naval aviation-capable ships.[4][5] Aircraft carriers may be classified according to the type of aircraft they carry and their operational assignments. Admiral Sir Mark Stanhope, RN, former First Sea Lord (head) of the Royal Navy, has said, "To put it simply, countries that aspire to strategic international influence have aircraft carriers."[6] Henry Kissinger, while United States Secretary of State, also said: "An aircraft carrier is 100,000 tons of diplomacy".[7]
+An AIRCRAFT CARRIER is a warship that serves as a seagoing airbase, equipped with a full-length flight deck and facilities for carrying, arming, deploying, and recovering aircraft.[1] Typically, it is the capital ship of a fleet, as it allows a naval force to project air power worldwide without depending on local bases for staging aircraft operations. Carriers have evolved since their inception in the early twentieth century from wooden vessels used to deploy balloons to nuclear-powered warships that carry numerous fighters, strike aircraft, helicopters, and other types of aircraft. While heavier aircraft such as fixed-wing gunships and bombers have been launched from aircraft carriers, it is currently not possible to land them. By its diplomatic and tactical power, its mobility, its autonomy and the variety of its means, the aircraft carrier is often the centerpiece of modern combat fleets. Tactically or even strategically, it replaced the battleship in the role of flagship of a fleet. One of its great advantages is that, by sailing in international waters, it does not interfere with any territorial sovereignty and thus obviates the need for overflight authorizations from third party countries, reduce the times and transit distances of aircraft and therefore significantly increase the time of availability on the combat zone. There is no single definition of an "aircraft carrier",[2] and modern navies use several variants of the type. These variants are sometimes categorized as sub-types of aircraft carriers,[3] and sometimes as distinct types of naval aviation-capable ships.[4][5] Aircraft carriers may be classified according to the type of aircraft they carry and their operational assignments. Admiral Sir Mark Stanhope, RN, former First Sea Lord (head) of the Royal Navy, has said, "To put it simply, countries that aspire to strategic international influence have aircraft carriers."[6] Henry Kissinger, while United States Secretary of State, also said: "An aircraft carrier is 100,000 tons of diplomacy".[7]
 
 As of {{#time:F Y}}, there are 41 active aircraft carriers in the world operated by thirteen navies. The United States Navy has 11 large nuclear-powered fleet carriers—carrying around 80 fighter jets each—the largest carriers in the world; the total combined deckspace is over twice that of all other nations combined.[8] As well as the aircraft carrier fleet, the U.S. Navy has nine amphibious assault ships used primarily for helicopters, although these also carry up to 20 vertical or short take-off and landing (V/STOL) fighter jets and are similar in size to medium-sized fleet carriers. China, France, India, Russia, and the UK each operate a single large/medium-size carrier, with capacity from 30 to 60 fighter jets. Italy operates two light fleet carriers and Spain operates one. Helicopter carriers are operated by Japan (4), France (3), Australia (2), Egypt (2), Brazil (1), South Korea (1), and Thailand (1). Future aircraft carriers are under construction or in planning by Brazil, China, India, Russia, the United Kingdom, and the United States.
 
 
 Types of carrier
 
-A12_&_CVN76.jpg USS_Enterprise_FS_Charles_de_Gaulle.jpg (left), sails alongside , a fleet carrier of the French Navy (right), both of which have the CATOBAR configuration.]] Cavour_(550)_-_Civitavecchia_harbour,_Italy_-_June_2011.jpg of the Italian Navy]] HMS_Queen_Elizabeth_in_Gibraltar_-_2018_(28386226189).jpg]]
+(left), sails alongside , a fleet carrier of the French Navy (right), both of which have the CATOBAR configuration.]] of the Italian Navy]] ]]
 
 Basic types
 
@@ -33,7 +33,7 @@ The Soviet aircraft carrier _Admiral Kusnetsov_ was termed a _heavy aircraft-car
 
 By configuration
 
-INS_Vikramaditya_(R33)_close_shot.jpg has the STOBAR configuration.]]
+has the STOBAR configuration.]]
 
 Aircraft carriers today are usually divided into the following four categories based on the way that aircraft take off and land:
 
@@ -44,7 +44,7 @@ Aircraft carriers today are usually divided into the following four categories b
 
 By size
 
-Japanese_aircraft_carrier_Shinano.jpg was the biggest carrier in World War II, and the largest ship destroyed by a submarine.[10]]]
+was the biggest carrier in World War II, and the largest ship destroyed by a submarine.[10]]]
 
 -   Fleet carrier
 -   Light aircraft carrier
@@ -85,15 +85,13 @@ History
 
 Origins
 
-Wakamiya.jpg
-
 The 1903 advent of heavier-than-air fixed-wing aircraft with the Wright brothers' first flight at Kitty Hawk, North Carolina, was closely followed on 14 November 1910, by Eugene Burton Ely's first experimental take-off of a Curtiss Pusher airplane from the deck of a United States Navy ship, the cruiser anchored off Norfolk Navy Base in Virginia. Two months later, on 18 January 1911, Ely landed his Curtiss Pusher airplane on a platform on the armored cruiser anchored in San Francisco Bay. On 9 May 1912, the first airplane take-off from a ship underway was made from the deck of the Royal Navy's pre-dreadnought battleship .[31][32] Seaplane tender support ships came next, with the French of 1911. Early in World War I, the Imperial Japanese Navy ship conducted the world's first successful ship-launched air raid:[33][34] on 6 September 1914, a Farman aircraft launched by _Wakamiya_ attacked the Austro-Hungarian cruiser and the Imperial German gunboat _Jaguar_ in Kiaochow Bay off Tsingtao; neither was hit.[35][36] The first carrier-launched airstrike was the Tondern Raid in July 1918. Seven Sopwith Camels launched from the converted battlecruiser damaged the German airbase at Tondern, Germany (modern day Tønder, Denmark) and destroyed two zeppelin airships.[37]
 
-Japanese_aircraft_carrier_Hōshō_Tokyo_Bay.jpg as completed in December 1922]] The development of flattop vessels produced the first large fleet ships. In 1918, became the world's first carrier capable of launching and recovering naval aircraft.[38] As a result of the Washington Naval Treaty of 1922, which limited the construction of new heavy surface combat ships, most early aircraft carriers were conversions of ships that were laid down (or had served) as different ship types: cargo ships, cruisers, battlecruisers, or battleships. These conversions gave rise to the US s (1927), Japanese , and British . Specialist carrier evolution was well underway, with several navies ordering and building warships that were purposefully designed to function as aircraft carriers by the mid-1920s. This resulted in the commissioning of ships such as the Japanese (1922),[39] followed by (1924, although laid down before _Hōshō_ in 1918) and (1927). During World War II, these ships would become known as fleet carriers.
+as completed in December 1922]] The development of flattop vessels produced the first large fleet ships. In 1918, became the world's first carrier capable of launching and recovering naval aircraft.[38] As a result of the Washington Naval Treaty of 1922, which limited the construction of new heavy surface combat ships, most early aircraft carriers were conversions of ships that were laid down (or had served) as different ship types: cargo ships, cruisers, battlecruisers, or battleships. These conversions gave rise to the US s (1927), Japanese , and British . Specialist carrier evolution was well underway, with several navies ordering and building warships that were purposefully designed to function as aircraft carriers by the mid-1920s. This resulted in the commissioning of ships such as the Japanese (1922),[39] followed by (1924, although laid down before _Hōshō_ in 1918) and (1927). During World War II, these ships would become known as fleet carriers.
 
 World War II
 
-HMS_Ark_Royal_h85716.jpg in 1939, with Swordfish biplane bombers passing overhead. The British aircraft carrier was involved in the crippling of the German battleship _Bismarck_ in May 1941]] USS_Enterprise_(CV-6)_in_Puget_Sound,_September_1945.jpg]]
+in 1939, with Swordfish biplane bombers passing overhead. The British aircraft carrier was involved in the crippling of the German battleship _Bismarck_ in May 1941]] ]]
 
 The aircraft carrier dramatically changed naval warfare in World War II, because air power was becoming a significant factor in warfare. The advent of aircraft as focal weapons was driven by the superior range, flexibility, and effectiveness of carrier-launched aircraft. They had greater range and precision than naval guns, making them highly effective. The versatility of the carrier was demonstrated in November 1940, when launched a long-range strike on the Italian fleet at their base in Taranto, signalling the beginning of the effective and highly mobile aircraft strikes. This operation in the shallow water harbor incapacitated three of the anchored six battleships at a cost of two torpedo bombers.
 
@@ -103,7 +101,7 @@ This new-found importance of naval aviation forced nations to create a number of
 
 Postwar era
 
-Arromanches_(R95)_with_Hellcat_landing_c1953.jpg landing on the French _Arromanches_ in the Tonkin Gulf, 1953.]] USS_Tripoli_LPH10_a.jpg _Iwo Jima_-class helicopter carrier]] USS_Enterprise_(CVN-65).jpg
+landing on the French _Arromanches_ in the Tonkin Gulf, 1953.]] _Iwo Jima_-class helicopter carrier]]
 
 Before World War II, international naval treaties of 1922, 1930, and 1936 limited the size of capital ships including carriers. Since World War II, aircraft carrier designs have increased in size to accommodate a steady increase in aircraft size. The large, modern of U.S.N. carriers has a displacement nearly four times that of the World War II–era , yet its complement of aircraft is roughly the same—a consequence of the steadily increasing size and weight of individual military aircraft over the years. Today's aircraft carriers are so expensive that some nations which operate them risk significant political, economic, social and military impact if a carrier is lost, or is even sent to a potential crisis zone or used in conflict.
 
@@ -118,8 +116,6 @@ Description
 
 Structure
 
-USS_Roosevelt_CV-42_Med_1976-77.jpg
-
 Carriers are large and long ships, although there is a high degree of variation depending on their intended role and aircraft complement. The size of the carrier has varied over history and among navies, to cater to the various roles that global climates have demanded from naval aviation.
 
 Regardless of size, the ship itself must house their complement of aircraft, with space for launching, storing, and maintaining them. Space is also required for the large crew, supplies (food, munitions, fuel, engineering parts), and propulsion. US aircraft carriers are notable for having nuclear reactors powering their systems and propulsion. This makes the carrier reasonably tall.
@@ -128,13 +124,13 @@ The top of the carrier is the flight deck, where aircraft are launched and recov
 
 The constraints of constructing a flight deck affect the role of a given carrier strongly, as they influence the weight, type, and configuration of the aircraft that may be launched. For example, assisted launch mechanisms are used primarily for heavy aircraft, especially those loaded with air-to-ground weapons. CATOBAR is most commonly used on USN fleet carriers as it allows the deployment of heavy jets with full loadouts, especially on ground-attack missions. STOVL is used by other navies because it is cheaper to operate and still provides good deployment capability for fighter aircraft.
 
-DeHavilland_Vampire_HMS_Ocean_Dec1945_NAN1_47.jpg landing on in 1945]] Due to the busy nature of the flight deck, only 20 or so aircraft may be on it at any one time. A hangar storage several decks below the flight deck is where most aircraft are kept, and aircraft are taken from the lower storage decks to the flight deck through the use of an elevator. The hangar is usually quite large and can take up several decks of vertical space.[45]
+landing on in 1945]] Due to the busy nature of the flight deck, only 20 or so aircraft may be on it at any one time. A hangar storage several decks below the flight deck is where most aircraft are kept, and aircraft are taken from the lower storage decks to the flight deck through the use of an elevator. The hangar is usually quite large and can take up several decks of vertical space.[45]
 
 Munitions are commonly stored on the lower decks because they are highly explosive. Usually this is below the water line so that the area can be flooded in case of emergency.
 
 Flight deck
 
-US_Navy_081124-N-3659B-305_F-A-18C_Hornets_launch_from_the_Nimitz-class_aircraft_carrier_USS_Ronald_Reagan_(CVN_76).jpg launches aboard ]] Vikramaditya_5.jpg used for STOBAR configuration]]
+launches aboard ]] used for STOBAR configuration]]
 
 As "runways at sea", aircraft carriers have a flat-top flight deck, which launches and recovers aircraft. Aircraft launch forward, into the wind, and are recovered from astern. The flight deck is where the most notable differences between a carrier and a land runway are found. Creating such a surface at sea poses constraints on the carrier. For example, the fact that it is a ship means that a full-length runway would be costly to construct and maintain. This affects take-off procedure, as a shorter runway length of the deck requires that aircraft accelerate more quickly to gain lift. This either requires a thrust boost, a vertical component to its velocity, or a reduced take-off load (to lower mass). The differing types of deck configuration, as above, influence the structure of the flight deck. The form of launch assistance a carrier provides is strongly related to the types of aircraft embarked and the design of the carrier itself.
 
@@ -151,27 +147,23 @@ If the aircraft are VTOL-capable or helicopters, they do not need to decelerate 
 
 Staff and deck operations
 
-F-18_-_A_3-wire_landing.ogv
-
 Carriers steam at speed, up to into the wind during flight deck operations to increase wind speed over the deck to a safe minimum. This increase in effective wind speed provides a higher launch airspeed for aircraft at the end of the catapult stroke or ski-jump, as well as making recovery safer by reducing the difference between the relative speeds of the aircraft and ship.
 
 Since the early 1950s on conventional carriers it has been the practice to recover aircraft at an angle to port of the axial line of the ship. The primary function of this angled deck is to allow aircraft that miss the arresting wires, referred to as a bolter, to become airborne again without the risk of hitting aircraft parked forward. The angled deck allows the installation of one or two "waist" catapults in addition to the two bow cats. An angled deck also improves launch and recovery cycle flexibility with the option of simultaneous launching and recovery of aircraft.
 
 Conventional ("tailhook") aircraft rely upon a landing signal officer (LSO, radio call sign _paddles_) to monitor the aircraft's approach, visually gauge glideslope, attitude, and airspeed, and transmit that data to the pilot. Before the angled deck emerged in the 1950s, LSOs used colored paddles to signal corrections to the pilot (hence the nickname). From the late 1950s onward, visual landing aids such as the optical landing system have provided information on proper glide slope, but LSOs still transmit voice calls to approaching pilots by radio.
 
-USS_John_C._Stennis_flight_operations_121229-N-OY799-239.jpg Key personnel involved in the flight deck include the shooters, the handler, and the air boss. Shooters are naval aviators or naval flight officers and are responsible for launching aircraft. The handler works just inside the island from the flight deck and is responsible for the movement of aircraft before launching and after recovery. The "air boss" (usually a commander) occupies the top bridge (Primary Flight Control, also called _primary_ or _the tower_) and has the overall responsibility for controlling launch, recovery and "those aircraft in the air near the ship, and the movement of planes on the flight deck, which itself resembles a well-choreographed ballet."[46] The captain of the ship spends most of his time one level below primary on the Navigation Bridge. Below this is the Flag Bridge, designated for the embarked admiral and his staff.
+Key personnel involved in the flight deck include the shooters, the handler, and the air boss. Shooters are naval aviators or naval flight officers and are responsible for launching aircraft. The handler works just inside the island from the flight deck and is responsible for the movement of aircraft before launching and after recovery. The "air boss" (usually a commander) occupies the top bridge (Primary Flight Control, also called _primary_ or _the tower_) and has the overall responsibility for controlling launch, recovery and "those aircraft in the air near the ship, and the movement of planes on the flight deck, which itself resembles a well-choreographed ballet."[46] The captain of the ship spends most of his time one level below primary on the Navigation Bridge. Below this is the Flag Bridge, designated for the embarked admiral and his staff.
 
 To facilitate working on the flight deck of a U.S. aircraft carrier, the sailors wear colored shirts that designate their responsibilities. There are at least seven different colors worn by flight deck personnel for modern United States Navy carrier air operations. Carrier operations of other nations use similar color schemes.
 
 Deck structures
 
-US_Navy_100512-N-8446A-004_An_F-A-18F_Super_Hornet_assigned_to_the_Fighting_Checkmates_of_Strike_Fighter_Squadron_(VFA)_211_lands_aboard_the_aircraft_carrier_USS_Enterprise_(CVN_65).jpg FS_CDG_bridge3.jpg
-
 The superstructure of a carrier (such as the bridge, flight control tower) are concentrated in a relatively small area called an _island_, a feature pioneered on in 1923. While the island is usually built on the starboard side of the flight deck, the Japanese aircraft carriers and had their islands built on the port side. Very few carriers have been designed or built without an island. The _flush deck_ configuration proved to have significant drawbacks, primary of which was management of the exhaust from the power plant. Fumes coming across the deck were a major issue in . In addition, lack of an island meant difficulties managing the flight deck, performing air traffic control, a lack of radar housing placements and problems with navigating and controlling the ship itself.
 
 Another deck structure that can be seen is a ski-jump ramp at the forward end of the flight deck. This was first developed to help launch STOVL aircraft take off at far higher weights than is possible with a vertical or rolling takeoff on flat decks. Originally developed by the Royal Navy, it since has been adopted by many navies for smaller carriers. A ski-jump ramp works by converting some of the forward rolling movement of the aircraft into vertical velocity and is sometimes combined with the aiming of jet thrust partly downwards. This allows heavily loaded and fueled aircraft a few more precious seconds to attain sufficient air velocity and lift to sustain normal flight. Without a ski-jump launching fully loaded and fueled aircraft such as the Harrier would not be possible on a smaller flat deck ship before either stalling out or crashing directly into the sea.
 
-FRS.1_ski-jump_take-off_HMS_Invincible.JPEG Although STOVL aircraft are capable of taking off vertically from a spot on the deck, using the ramp and a running start is far more fuel efficient and permits a heavier launch weight. As catapults are unnecessary, carriers with this arrangement reduce weight, complexity, and space needed for complex steam or electromagnetic launching equipment, vertical landing aircraft also remove the need for arresting cables and related hardware. Russian, Chinese, and future Indian carriers include a ski-jump ramp for launching lightly loaded conventional fighter aircraft but recover using traditional carrier arresting cables and a tailhook on their aircraft.
+Although STOVL aircraft are capable of taking off vertically from a spot on the deck, using the ramp and a running start is far more fuel efficient and permits a heavier launch weight. As catapults are unnecessary, carriers with this arrangement reduce weight, complexity, and space needed for complex steam or electromagnetic launching equipment, vertical landing aircraft also remove the need for arresting cables and related hardware. Russian, Chinese, and future Indian carriers include a ski-jump ramp for launching lightly loaded conventional fighter aircraft but recover using traditional carrier arresting cables and a tailhook on their aircraft.
 
 The disadvantage of the ski-jump is the penalty it exacts on aircraft size, payload, and fuel load (and thus range); heavily laden aircraft can not launch using a ski-jump because their high loaded weight requires either a longer takeoff roll than is possible on a carrier deck, or assistance from a catapult or JATO rocket. For example, the Russian Su-33 is only able to launch from the carrier with a minimal armament and fuel load. Another disadvantage is on mixed flight deck operations where helicopters are also present such as a US landing helicopter dock or landing helicopter assault amphibious assault ship a ski jump is not included as this would eliminate one or more helicopter landing areas, this flat deck limits the loading of Harriers but is somewhat mitigated by the longer rolling start provided by a long flight deck compared to many STOVL carriers.
 
@@ -186,15 +178,13 @@ Australia
 
 Current
 
-HMAS_Canberra_(LHD_02)_at_berth_prior_to_commissioning.jpg
-
 The of landing helicopter docks is based on the Spanish vessel . The two ship class, built by Navantia and BAE Systems Australia, represents the largest ships ever built for the Royal Australian Navy.[47]
 
 underwent sea trials in late 2013 and was commissioned in 2014. Her sister ship, , was commissioned in December 2015. The Australian ships retain the ski-ramp from the _Juan Carlos I_ design, although the RAN has not acquired carrier-based fixed-wing aircraft.
 
 Brazil
 
-HMS_Ocean_MOD_45151277.jpg, seen in 2010. The ship is now operated by the Brazilian Navy as _Atlântico_]]
+, seen in 2010. The ship is now operated by the Brazilian Navy as _Atlântico_]]
 
 Current
 
@@ -204,7 +194,7 @@ It was reported in 2017 that Brazil was interested in purchasing _Ocean_ from th
 
 China
 
-Aircraft_Carrier_Liaoning_CV-16.jpg, a Type 001 aircraft carrier]]
+, a Type 001 aircraft carrier]]
 
 Current
 
@@ -218,7 +208,7 @@ Chinese officials stated that a third carrier, also known as Type 002 carrier is
 
 Egypt
 
-ENS_Gamal_Abdel_Nasser_LHD.jpg'' LHD docked at Saint-Nazaire, April 2016]]
+'' LHD docked at Saint-Nazaire, April 2016]]
 
 Current
 
@@ -230,7 +220,7 @@ Egypt is so far the only country in Africa or the Middle East to possess an airc
 
 France
 
-Charles_De_Gaulle_(R91)_underway_2009.jpg]]
+]]
 
 Current
 
@@ -239,8 +229,6 @@ Current
 3 amphibious assault ships: , 21,500 tonne full deck amphibious assault ships with hospital and well deck.[74]
 
 India
-
-INS_Vikramaditya_13.jpg
 
 Current
 
@@ -254,7 +242,7 @@ A second carrier, , with a displacement of over 65,000 tons is planned and likel
 
 Italy
 
-Cavour_(550).jpg]]
+]]
 
 Current
 
@@ -270,8 +258,6 @@ Italy plans to replace aging aircraft carrier _Garibaldi_, as well as one of the
 
 Japan
 
-Helicopter_carrier_Hyūga_(16DDH).jpg
-
 Current
 
 4 helicopter carriers:
@@ -280,8 +266,6 @@ Current
 -   2 – , 19,500-ton (27,000 tons full load) helicopter carrier, launched August 2013 and commissioned March 2015. This is the largest military ship Japan has had since World War II.[88] _Izumo_{{'}}s sister ship, _Kaga_, was commissioned in 2017. In December 2018, the Japanese Cabinet gave approval to convert both ships into aircraft carriers for STOVL operations.[89]
 
 Russia
-
-Russian_aircraft_carrier_Kuznetsov.jpg
 
 Current
 
@@ -293,7 +277,7 @@ The Russian Government just recently gave the green light for the construction o
 
 South Korea
 
-ROKS_Dokdo_(LPH_6111).jpg]]
+]]
 
 Current
 
@@ -305,7 +289,7 @@ South Korea believes it can procure 2 light aircraft carriers by 2036, which wil
 
 Spain
 
-El_L-61_virando_a_babor_en_su_partida_de_Vigo_(34939349652).jpg]]
+]]
 
 Current
 
@@ -319,7 +303,7 @@ TCG _Anadolu_ L-408 is a planned amphibious assault ship (LHD) of the Turkish Na
 
 Thailand
 
-DN-SD-03-08801-1-.JPG]]
+]]
 
 Current
 
@@ -337,8 +321,6 @@ The Royal Navy is constructing the second of its larger STOVL aircraft carriers,
 
 United States
 
-USS_Wasp_(LHD_1).jpg
-
 Current
 
 11 CATOBAR carriers, all nuclear-powered:
@@ -354,8 +336,6 @@ Nine amphibious assault ships carrying vehicles, Marine fighters, attack and tra
 -   : a class of eight 41,000-ton amphibious assault ships, members of this class have been used in wartime in their secondary mission as light carriers with 20 to 25 AV-8Bs after unloading their Marine expeditionary unit.
 
 Future
-
-USS_Gerald_R._Ford_(CVN-78)_underway_on_8_April_2017.JPG
 
 The current US fleet of _Nimitz_-class carriers will be followed into service (and in some cases replaced) by the . It is expected that the ships will be more automated in an effort to reduce the amount of funding required to maintain and operate the vessels. The main new features are implementation of Electromagnetic Aircraft Launch System (EMALS) (which replace the old steam catapults) and unmanned aerial vehicles.[105]
 

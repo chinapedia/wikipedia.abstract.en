@@ -9,7 +9,7 @@ Characteristics
 
 Physical properties
 
-Barium_1.jpg Barium is a soft, silvery-white metal, with a slight golden shade when ultrapure.[3] The silvery-white color of barium metal rapidly vanishes upon oxidation in air yielding a dark gray oxide layer. Barium has a medium specific weight and good electrical conductivity. Ultrapure barium is very difficult to prepare, and therefore many properties of barium have not been accurately measured yet.[4]
+Barium is a soft, silvery-white metal, with a slight golden shade when ultrapure.[3] The silvery-white color of barium metal rapidly vanishes upon oxidation in air yielding a dark gray oxide layer. Barium has a medium specific weight and good electrical conductivity. Ultrapure barium is very difficult to prepare, and therefore many properties of barium have not been accurately measured yet.[4]
 
 At room temperature and pressure, barium has a body-centered cubic structure, with a barium–barium distance of 503 picometers, expanding with heating at a rate of approximately 1.8/°C.[5] It is a very soft metal with a Mohs hardness of 1.25.[6] Its melting temperature of [7] is intermediate between those of the lighter strontium ()[8] and heavier radium ();[9] however, its boiling point of exceeds that of strontium ().[10] The density (3.62 g/cm³)[11] is again intermediate between those of strontium (2.36 g/cm³)[12] and radium (≈5 g/cm³).[13]
 
@@ -53,7 +53,7 @@ In total, barium has about 40 known isotopes, ranging in mass between 114 and 15
 
 History
 
-Humphry_Davy_Engraving_1830.jpg, who first isolated barium metal]] Alchemists in the early Middle Ages knew about some barium minerals. Smooth pebble-like stones of mineral baryte were found in volcanic rock near Bologna, Italy, and so were called "Bologna stones." Alchemists were attracted to them because after exposure to light they would glow for years.[34] The phosphorescent properties of baryte heated with organics were described by V. Casciorolus in 1602.[35]
+, who first isolated barium metal]] Alchemists in the early Middle Ages knew about some barium minerals. Smooth pebble-like stones of mineral baryte were found in volcanic rock near Bologna, Italy, and so were called "Bologna stones." Alchemists were attracted to them because after exposure to light they would glow for years.[34] The phosphorescent properties of baryte heated with organics were described by V. Casciorolus in 1602.[35]
 
 Carl Scheele determined that baryte contained a new element in 1774, but could not isolate barium, only barium oxide. Johan Gottlieb Gahn also isolated barium oxide two years later in similar studies. Oxidized barium was at first called "barote" by Guyton de Morveau, a name that was changed by Antoine Lavoisier to _baryta._ Also in the 18th century, English mineralogist William Withering noted a heavy mineral in the lead mines of Cumberland, now known to be witherite. Barium was first isolated by electrolysis of molten barium salts in 1808 by Sir Humphry Davy in England.[36] Davy, by analogy with calcium, named "barium" after baryta, with the "-ium" ending signifying a metallic element.[37] Robert Bunsen and Augustus Matthiessen obtained pure barium by electrolysis of a molten mixture of barium chloride and ammonium chloride.[38][39]
 
@@ -92,7 +92,7 @@ and the overall reaction is[54]
 
 Barium vapor is condensed and packed into molds in an atmosphere of argon.[55] This method is used commercially, yielding ultrapure barium.[56] Commonly sold barium is about 99% pure, with main impurities being strontium and calcium (up to 0.8% and 0.25%) and other contaminants contributing less than 0.1%.[57]
 
-A similar reaction with silicon at yields barium and barium metasilicate.[58] Electrolysis is not used because barium readily dissolves in molten halides and the product is rather impure.[59] Benitoite_HD.jpg in San Benito County where it was first found.]]
+A similar reaction with silicon at yields barium and barium metasilicate.[58] Electrolysis is not used because barium readily dissolves in molten halides and the product is rather impure.[59] in San Benito County where it was first found.]]
 
 Gemstone
 
@@ -115,13 +115,13 @@ Other uses of elemental barium are minor and include an additive to silumin (alu
 
 Barium sulfate and baryte
 
-BariumXray.jpg as seen in a radiograph of a barium-filled colon]] Barium sulfate (the mineral baryte, BaSO₄) is important to the petroleum industry as a drilling fluid in oil and gas wells.[63] The precipitate of the compound (called "blanc fixe", from the French for "permanent white") is used in paints and varnishes; as a filler in ringing ink, plastics, and rubbers; as a paper coating pigment; and in nanoparticles, to improve physical properties of some polymers, such as epoxies.[64]
+as seen in a radiograph of a barium-filled colon]] Barium sulfate (the mineral baryte, BaSO₄) is important to the petroleum industry as a drilling fluid in oil and gas wells.[63] The precipitate of the compound (called "blanc fixe", from the French for "permanent white") is used in paints and varnishes; as a filler in ringing ink, plastics, and rubbers; as a paper coating pigment; and in nanoparticles, to improve physical properties of some polymers, such as epoxies.[64]
 
 Barium sulfate has a low toxicity and relatively high density of ca. 4.5 g/cm³ (and thus opacity to X-rays). For this reason it is used as a radiocontrast agent in X-ray imaging of the digestive system ("barium meals" and "barium enemas").[65] Lithopone, a pigment that contains barium sulfate and zinc sulfide, is a permanent white with good covering power that does not darken when exposed to sulfides.[66]
 
 Other barium compounds
 
-2006_Fireworks_1.JPG Other compounds of barium find only niche applications, limited by the toxicity of Ba²⁺ ions (barium carbonate is a rat poison), which is not a problem for the insoluble BaSO₄.
+Other compounds of barium find only niche applications, limited by the toxicity of Ba²⁺ ions (barium carbonate is a rat poison), which is not a problem for the insoluble BaSO₄.
 
 -   Barium oxide coating on the electrodes of fluorescent lamps facilitates the release of electrons.
 -   By its great atomic density, barium carbonate increases the refractive index and luster of glass[67] and reduces leaks of X-rays from cathode ray tubes (CRT) TV sets.[68]

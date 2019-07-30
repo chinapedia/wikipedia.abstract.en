@@ -1,6 +1,6 @@
 FIRST FANDOM is an informal association of early, active and well-known science fiction fans.
 
-First_Fandom_Patch.jpg]]
+]]
 
 In 1958 a number of fans at Midwestcon realized amid table-talk that they all had been active in fandom for more than 20 years. This inspired the creation of an organization for longstanding fans under the initial chairmanship of Robert A. Madle. Originally only those fans who were known to have been active in fandom before the cutoff date, January 1, 1938, were eligible. Such fannish activity (or "fanac") including writing to letter columns in science fiction magazines, having been published in fanzines, or having participated in science fiction oriented clubs, or just generally doing fannish things.[1]
 

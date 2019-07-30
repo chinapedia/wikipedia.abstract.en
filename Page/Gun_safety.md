@@ -1,11 +1,9 @@
 GUN SAFETY rules and practice recommendations are intended to avoid accidental discharge or negligent discharge, or the consequences of firearm malfunctions. Their purpose is to eliminate or minimize the risks of unintentional death, injury or property damage caused by improper possession, storage or handling of firearms. There were 47,000 unintentional firearm deaths worldwide in 2013.[1]
 
-Glock17_With_Cable_Lock.jpg disarmed and secured for transport (or storage) with a cable lock through its receiver.]]
+disarmed and secured for transport (or storage) with a cable lock through its receiver.]]
 
 
 Rules and mindset
-
-Gun_safety.jpg
 
 Gun safety training seeks to instill a certain mindset and appropriate habits by following specific rules. The mindset is that firearms are inherently dangerous and must always be stored carefully and handled with care. Handlers are taught to treat firearms with respect for their destructive capabilities, and strongly discouraged from playing or toying with firearms, a common cause of accidents. The rules of gun safety follow from this mindset.
 
@@ -41,7 +39,7 @@ Blank ammunition, which is a primed casing filled with gunpowder, either crimped
 
 Treat firearms as if they are loaded
 
-Vybijeci_zarizeni.jpg, in order to ultimately check the unloaded state of a firearm]]
+, in order to ultimately check the unloaded state of a firearm]]
 
 This rule is a matter of keeping a vigilant mindset. The purpose is to create safe handling habits, and to discourage presumptive reasoning along the lines of, "I know my gun is unloaded so certain unsafe practices are OK". The proposition "the gun is _always_ loaded" means that, even though it may be known that this is not true of a particular firearm, that knowledge is never trusted or relied upon until definitively proven. Thus even if the firearm turned out to be loaded when the handler thought it was not, treating it as loaded would avoid an "unintentional discharge", and if one should occur anyway, avoiding damage, injury or death.
 
@@ -55,7 +53,7 @@ If a handler always treats firearms as capable of being discharged at any time, 
 
 Point the muzzle away from non-targets
 
-Sgt._Ronald_H._Payne_Tunnel_Rat_Vietnam_War_1967.jpg Also known as MUZZLE DISCIPLINE, this rule is intended to minimize the potential damage caused by an unintended discharge. While the first rule teaches that a firearm must be assumed to be ready to fire, this second rule goes beyond that and says, "Since the firearm _might_ fire, assume that it _will_ and make sure no harm occurs when it does."
+Also known as MUZZLE DISCIPLINE, this rule is intended to minimize the potential damage caused by an unintended discharge. While the first rule teaches that a firearm must be assumed to be ready to fire, this second rule goes beyond that and says, "Since the firearm _might_ fire, assume that it _will_ and make sure no harm occurs when it does."
 
 A consequence of this rule is that any kind of playing or "toying" with firearms is prohibited. Playfully pointing firearms at people or other non-targets violates this rule and is possibly an extreme endangerment to life and/or property. To discourage this kind of behavior, the rule is sometimes alternately stated, "Never point a firearm at anything unless you intend to destroy it."
 
@@ -65,7 +63,7 @@ In cases where the firearm is being handled indoors, up and down may not be safe
 
 Keep fingers off the trigger
 
-Designated_Marksman_Rifle_2.jpg Also known as TRIGGER DISCIPLINE, this rule is intended to prevent an undesired discharge. Normally a firearm is discharged by depressing its trigger. A handler's finger may involuntarily move for any of several reasons: the handler is startled, a lack of full attention on body movements, physiological reasons beyond conscious control such as a spasm, stumbling or falling, or the finger being pushed by something (as when trying to holster a handgun with one's finger on the trigger). Handlers are therefore taught to minimize the harmful effects of such a motion by keeping their finger off and far away from the trigger until the muzzle is pointing at the target and the handler wishes to discharge the firearm.
+Also known as TRIGGER DISCIPLINE, this rule is intended to prevent an undesired discharge. Normally a firearm is discharged by depressing its trigger. A handler's finger may involuntarily move for any of several reasons: the handler is startled, a lack of full attention on body movements, physiological reasons beyond conscious control such as a spasm, stumbling or falling, or the finger being pushed by something (as when trying to holster a handgun with one's finger on the trigger). Handlers are therefore taught to minimize the harmful effects of such a motion by keeping their finger off and far away from the trigger until the muzzle is pointing at the target and the handler wishes to discharge the firearm.
 
 The trigger guard and the receiver area above the trigger of a firearm presents a natural point for a handler to keep their finger out straight alongside the weapon, so as not to violate this rule. Another recommendation is to keep the trigger finger above the trigger guard, so that there is less chance of the finger involuntarily slipping into the guard when startled.[16] A properly indexed trigger finger also helps remind the person holding the firearm of the direction of the muzzle.
 
@@ -139,7 +137,7 @@ Access to a functioning firearm can be prevented by keeping the firearm disassem
 
 Locks
 
-Trigger_lock_on_a_revolver.jpg]] There are several types of locks that serve to make it difficult to discharge a firearm. Locks are considered less effective than keeping firearms stored in a lockable safe since locks are more easily defeated than approved safes. An unauthorized handler can bypass the locked firearm at their leisure.[27] Some manufacturers, such as Taurus, build locks into the firearm itself.
+]] There are several types of locks that serve to make it difficult to discharge a firearm. Locks are considered less effective than keeping firearms stored in a lockable safe since locks are more easily defeated than approved safes. An unauthorized handler can bypass the locked firearm at their leisure.[27] Some manufacturers, such as Taurus, build locks into the firearm itself.
 
 California effected regulations in 2000 that forced gun locks to be approved by a firearm safety device laboratory via California Penal Code Section 12088.[28] All gun locks under this code must receive extensive tests including saw, pick, pull, and many other tests in order to be approved for the state of California. If a lock passes the requirements then it is said to be California Department of Justice (CADOJ) approved.[29]
 

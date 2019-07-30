@@ -9,7 +9,7 @@ Skin abscesses are common and have become more common in recent years.[18] Risk 
 
 Signs and symptoms
 
-Abszess.jpg Abscesses may occur in any kind of tissue but most frequently on skin surface (where they may be superficial pustules (boils) or deep skin abscesses), in the lungs, brain, teeth, kidneys, and tonsils. Major complications are spreading of the abscess material to adjacent or remote tissues, and extensive regional tissue death (gangrene).
+Abscesses may occur in any kind of tissue but most frequently on skin surface (where they may be superficial pustules (boils) or deep skin abscesses), in the lungs, brain, teeth, kidneys, and tonsils. Major complications are spreading of the abscess material to adjacent or remote tissues, and extensive regional tissue death (gangrene).
 
 The main symptoms and signs of a skin abscess are redness, heat, swelling, pain, and loss of function. There may also be high temperature (fever) and chills.[22] If superficial, abscesses may be fluctuant when palpated; this wave-like motion is caused by movement of the pus inside the abscess.[23]
 
@@ -48,10 +48,6 @@ File:Blausen 0007 Abscess.png|A diagram of an abscess file:Pyemic abscesses of k
 
 Diagnosis
 
-UOTW_66_-_Ultrasound_of_the_Week_1.webm
-
-Ultrasound image of breast abscess, appearing as a mushroom-shaped dark (hypoechoic) area
-
 An abscess is a localized collection of pus (purulent inflammatory tissue) caused by suppuration buried in a tissue, an organ, or a confined space, lined by pyogenic membrane.[38] Ultrasound imaging in the emergency department can help in diagnosis.[39]
 
 Classification
@@ -75,7 +71,7 @@ The standard treatment for an uncomplicated skin or soft tissue abscess is openi
 
 Incision and drainage
 
-Cleaned_abscess_day_5.jpg HumeralAbscess.jpg]] The abscess should be inspected to identify if foreign objects are a cause, which may require their removal. If foreign objects are not the cause, incising and draining the abscess is standard treatment.[49][50]
+]] The abscess should be inspected to identify if foreign objects are a cause, which may require their removal. If foreign objects are not the cause, incising and draining the abscess is standard treatment.[49][50]
 
 In critical areas where surgery presents a high risk, it may be delayed or used as a last resort. The drainage of a lung abscess may be performed by positioning the patient in a way that enables the contents to be discharged via the respiratory tract. Warm compresses and elevation of the limb may be beneficial for a skin abscess.
 

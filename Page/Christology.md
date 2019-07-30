@@ -1,5 +1,3 @@
-La_Résurrection_du_Christ_1560_Véronèse.jpg
-
 CHRISTOLOGY (from Greek Χριστός _Khristós_ and , _-logia_), literally "the understanding of Christ," is the study of the nature (person) and work (role in salvation) of Jesus Christ.[1] It studies Jesus Christ's humanity and divinity, and the relation between these two aspects; and the role he plays in salvation.
 
 The earliest Christian writings gave several titles to Jesus, such as Son of Man, Son of God, Messiah, and Kyrios, which were all derived from the Hebrew scriptures.[2] These terms centered around two themes, namely "Jesus as a preexistent figure who becomes human and then returns to God," and "Jesus as a creature elected and 'adopted' by God."[3]
@@ -17,7 +15,7 @@ Several approaches can be distinguished within Christology. The term "Christolog
 
 Person of Christ
 
-Christ_Pantocrator_niche_Holy_Trinity_Meteora.jpg, Holy Trinity's monastery, Meteora, Greece]]
+, Holy Trinity's monastery, Meteora, Greece]]
 
 A basic Christological teaching is that the person of Jesus Christ is both human and divine. The human and divine natures of Jesus Christ apparently (_prosopic_) form a duality, as they coexist within one person (_hypostasis_).[8] There are no direct discussions in the New Testament regarding the dual nature of the Person of Christ as both divine and human,[9] and since the early days of Christianity, theologians have debated various approaches to the understanding of these natures, at times resulting in ecumenical councils, and schisms.[10]
 
@@ -88,7 +86,7 @@ The study of the various Christologies of the Apostolic Age is based on early Ch
 
 Paul
 
-V&A_-_Raphael,_St_Paul_Preaching_in_Athens_(1515).jpg delivering the _Areopagus sermon_ in Athens, by Raphael, 1515]] The oldest Christian sources are the writings of Paul. The central Christology of Paul conveys the notion of Christ's pre-existence and the identification of Christ as _Kyrios_. Both notions already existed before him in the early Christian communities, and Paul deepened them and used them for preaching in the Hellenistic communities.
+delivering the _Areopagus sermon_ in Athens, by Raphael, 1515]] The oldest Christian sources are the writings of Paul. The central Christology of Paul conveys the notion of Christ's pre-existence and the identification of Christ as _Kyrios_. Both notions already existed before him in the early Christian communities, and Paul deepened them and used them for preaching in the Hellenistic communities.
 
 The Pauline epistles use _Kyrios_ to identify Jesus almost 230 times, and express the theme that the true mark of a Christian is the confession of Jesus as the true Lord. Paul viewed the superiority of the Christian revelation over all other divine manifestations as a consequence of the fact that Christ is the Son of God.[42]
 
@@ -96,7 +94,7 @@ The Pauline epistles also advanced the "cosmic Christology" later developed in t
 
 The Gospels
 
-The_Four_Evangelists.jpg, by Pieter Soutman, 17th century]]
+, by Pieter Soutman, 17th century]]
 
 The synoptic Gospels date from after the writings of Paul. They provide episodes from the life of Jesus and some of his works, but the authors of the New Testament show little interest in an absolute chronology of Jesus or in synchronizing the episodes of his life,[45] and as in John 21:25, the Gospels do not claim to be an exhaustive list of his works.
 
@@ -123,7 +121,7 @@ The First Council of Ephesus debated miaphysitism (two natures united as one aft
 
 Council of Chalcedon (451)
 
-Christological_spectrum-o2p.svg (pink).]]
+(pink).]]
 
 The 451 Council of Chalcedon was highly influential, and marked a key turning point in the Christological debates. It is the last council which many Anglicans and most Protestants consider ecumenical.
 

@@ -1,6 +1,6 @@
 This article is about the demographic features of the population of the Central African Republic, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
-Central_African_Republic-demography.png, year 2005 ; Number of inhabitants in thousands.]] There are more than 80 ethnic groups in the Central African Republic (CAR), each with its own language. About 50% are Baya-Mandjia, 40% Banda (largely located in the northern and central parts of the country), and 7% are M'Baka (southwestern corner of the CAR). Sangho, the language of a small group along the Oubangui River, is the national language spoken by the majority of Central Africans. Only a small part of the population has more than an elemental knowledge of French, the official language.
+, year 2005 ; Number of inhabitants in thousands.]] There are more than 80 ethnic groups in the Central African Republic (CAR), each with its own language. About 50% are Baya-Mandjia, 40% Banda (largely located in the northern and central parts of the country), and 7% are M'Baka (southwestern corner of the CAR). Sangho, the language of a small group along the Oubangui River, is the national language spoken by the majority of Central Africans. Only a small part of the population has more than an elemental knowledge of French, the official language.
 
 More than 55% of the population of the CAR lives in rural areas. The chief agricultural areas are around the Bossangoa and Bambari. Bangui, Berberati, Bangassou, and Bossangoa are the most densely populated urban centers.
 
@@ -110,8 +110,6 @@ Population
     _Note_: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2015 est.)
 
 Age structure
-
-CARpop.svg
 
     _0-14 years:_ 39.89% (male 1,151,724 /female 1,140,083)
     _15-24 years:_ 19.91% (male 574,969 /female 568,942)

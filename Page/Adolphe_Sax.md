@@ -1,4 +1,4 @@
-X5228_-_Altsaxofon_-_Adolphe_Sax_-_foto_Mikael_Bodner.jpg ANTOINE-JOSEPH "ADOLPHE" SAX (; 6 November 1814 – 7 February 1894)[1] was a Belgian inventor and musician who created the saxophone in the early 1840s, patenting it in 1846. He also invented the saxotromba, saxhorn and saxtuba. He played the flute and clarinet.
+ANTOINE-JOSEPH "ADOLPHE" SAX (; 6 November 1814 – 7 February 1894)[1] was a Belgian inventor and musician who created the saxophone in the early 1840s, patenting it in 1846. He also invented the saxotromba, saxhorn and saxtuba. He played the flute and clarinet.
 
 
 Early life

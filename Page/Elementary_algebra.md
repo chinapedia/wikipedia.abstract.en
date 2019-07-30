@@ -1,5 +1,3 @@
-Polynomialdeg2.svg
-
 ELEMENTARY ALGEBRA encompasses some of the basic concepts of algebra, one of the main branches of mathematics. It is typically taught to secondary school students and builds on their understanding of arithmetic. Whereas arithmetic deals with specified numbers,[1] algebra introduces quantities without fixed values, known as variables.[2] This use of variables entails a use of algebraic notation and an understanding of the general rules of the operators introduced in arithmetic. Unlike abstract algebra, elementary algebra is not concerned with algebraic structures outside the realm of real and complex numbers.
 
 The use of variables to denote quantities allows general relationships between quantities to be formally and concisely expressed, and thus enables solving a broader scope of problems. Many quantitative relationships in science and mathematics are expressed as algebraic equations.
@@ -24,7 +22,7 @@ Concepts
 
 Variables
 
-Pi-equals-circumference-over-diametre.svg, its circumference , divided by its diameter , is equal to the constant pi, π (approximately 3.14).]] Elementary algebra builds on and extends arithmetic[20] by introducing letters called variables to represent general (non-specified) numbers. This is useful for several reasons.
+, its circumference , divided by its diameter , is equal to the constant pi, π (approximately 3.14).]] Elementary algebra builds on and extends arithmetic[20] by introducing letters called variables to represent general (non-specified) numbers. This is useful for several reasons.
 
 1.  VARIABLES MAY REPRESENT NUMBERS WHOSE VALUES ARE NOT YET KNOWN. For example, if the temperature of the current day, C, is 20 degrees higher than the temperature of the previous day, P, then the problem can be described algebraically as C = P + 20.[21]
 2.  VARIABLES ALLOW ONE TO DESCRIBE _GENERAL_ PROBLEMS,[22] WITHOUT SPECIFYING THE VALUES OF THE QUANTITIES THAT ARE INVOLVED. For example, it can be stated specifically that 5 minutes is equivalent to 60 × 5 = 300 seconds. A more general (algebraic) description may state that the number of seconds, s = 60 × m, where m is the number of minutes.
@@ -43,7 +41,7 @@ Algebraic expressions may be evaluated and simplified, based on the basic proper
 
 Equations
 
-Pythagorean_theorem_-_Ani.gif for a right-angle triangle, which shows the algebraic relationship between the triangle's hypotenuse, and the other two sides.]] An equation states that two expressions are equal using the symbol for equality, {{=}} (the equals sign).[26] One of the best-known equations describes Pythagoras' law relating the length of the sides of a right angle triangle:[27]
+for a right-angle triangle, which shows the algebraic relationship between the triangle's hypotenuse, and the other two sides.]] An equation states that two expressions are equal using the symbol for equality, {{=}} (the equals sign).[26] One of the best-known equations describes Pythagoras' law relating the length of the sides of a right angle triangle:[27]
 
 _c_² = _a_² + _b_²
 
@@ -85,8 +83,6 @@ Consider if the original fact were stated as "_ab_=0 implies _a_=0 or _b_=0." Th
 
 Solving algebraic equations
 
-Algebraproblem.jpg
-
 The following sections lay out examples of some of the types of algebraic equations that may be encountered.
 
 Linear equations with one variable
@@ -115,7 +111,7 @@ Following the same procedure (i.e. subtract from both sides, and then divide by 
 
 Linear equations with two variables
 
-Linear-equations-two-unknowns.svg A linear equation with two variables has many (i.e. an infinite number of) solutions.[33] For example:
+A linear equation with two variables has many (i.e. an infinite number of) solutions.[33] For example:
 
     Problem in words: A father is 22 years older than his son. How old are they?
     Equivalent equation: y = x + 22 where is the father's age, is the son's age.
@@ -153,7 +149,7 @@ For other ways to solve this kind of equations, see below, SYSTEM OF LINEAR EQUA
 
 Quadratic equations
 
-Quadratic equation plot of y = x² + 3x − 10 showing its roots at x =  − 5 and x = 2, and that the quadratic can be rewritten as y = (x + 5)(x − 2) A quadratic equation is one which includes a term with an exponent of 2, for example, x²,[35] and no term with higher exponent. The name derives from the Latin _quadrus_, meaning square.[36] In general, a quadratic equation can be expressed in the form ax² + bx + c = 0,[37] where is not zero (if it were zero, then the equation would not be quadratic but linear). Because of this a quadratic equation must contain the term ax², which is known as the quadratic term. Hence a ≠ 0, and so we may divide by and rearrange the equation into the standard form
+A quadratic equation is one which includes a term with an exponent of 2, for example, x²,[35] and no term with higher exponent. The name derives from the Latin _quadrus_, meaning square.[36] In general, a quadratic equation can be expressed in the form ax² + bx + c = 0,[37] where is not zero (if it were zero, then the equation would not be quadratic but linear). Because of this a quadratic equation must contain the term ax², which is known as the quadratic term. Hence a ≠ 0, and so we may divide by and rearrange the equation into the standard form
 
     x² + px + q = 0
 
@@ -201,7 +197,7 @@ Since $\sqrt{-3}$ is not any real number, both of these solutions for _x_ are co
 
 Exponential and logarithmic equations
 
-Binary_logarithm_plot_with_ticks.svg of the logarithm to base 2 crosses the _x_ axis (horizontal axis) at 1 and passes through the points with coordinates , , and . For example, 3}}, because 8.}} The graph gets arbitrarily close to the _y_ axis, but does not meet or intersect it.]]
+of the logarithm to base 2 crosses the _x_ axis (horizontal axis) at 1 and passes through the points with coordinates , , and . For example, 3}}, because 8.}} The graph gets arbitrarily close to the _y_ axis, but does not meet or intersect it.]]
 
 An exponential equation is one which has the form a^(x) = b for a > 0,[38] which has solution
 
@@ -276,8 +272,6 @@ There are different methods to solve a system of linear equations with two varia
 
 Elimination method
 
-Intersecting_Lines.svg
-
 An example of solving a system of linear equations is by using the elimination method:
 
     \begin{cases}4x + 2y&= 14 \\
@@ -350,8 +344,6 @@ Note that this is not the only way to solve this specific system; in this case a
 Other types of systems of linear equations
 
 Inconsistent systems
-
-Parallel_Lines.svg Quadratic-linear-equations.svg
 
 In the above example, a solution exists. However, there are also systems of equations which do not have any solution. Such a system is called inconsistent. An obvious example is
 

@@ -5,7 +5,7 @@ Only seven of his estimated seventy to ninety plays have survived, and there is 
 
 Life
 
-Aeschylus_Bust.jpg]]
+]]
 
 Aeschylus was born in c. 525 BC in Eleusis, a small town about 27 kilometers northwest of Athens, which is nestled in the fertile valleys of western Attica,[11] though the date is most likely based on counting back forty years from his first victory in the Great Dionysia. His family was wealthy and well established; his father, Euphorion, was a member of the Eupatridae, the ancient nobility of Attica,[12] though this might be a fiction that the ancients invented to account for the grandeur of his plays.[13]
 
@@ -25,7 +25,7 @@ Aeschylus travelled to Sicily once or twice in the 470s BC, having been invited
 
 Death
 
-Death_of_Aeschylus_in_Florentine_Picture_Chronicle.jpg[33]]]
+[33]]]
 
 In 458 BC, he returned to Sicily for the last time, visiting the city of Gela where he died in 456 or 455 BC. Valerius Maximus wrote that he was killed outside the city by a tortoise dropped by an eagle (possibly a lammergeier or Cinereous vulture, which do feed on tortoises by dropping them on hard objects[34]) which had mistaken his bald head for a rock suitable for shattering the shell of the reptile.[35] Pliny, in his _Naturalis Historiæ_, adds that Aeschylus had been staying outdoors to avoid a prophecy that he would be killed by a falling object.[36] But this story may be legendary and due to a misunderstanding of the iconography on Aeschylus's tomb.[37] Aeschylus's work was so respected by the Athenians that after his death, his were the only tragedies allowed to be restaged in subsequent competitions.[38] His sons Euphorion and Euæon and his nephew Philocles also became playwrights.[39]
 
@@ -50,7 +50,7 @@ Aeschylus married and had two sons, Euphorion and Euaeon, both of whom became tr
 
 Works
 
-Athen_Dionysos-Theater.JPG in Athens, where many of Aeschylus's plays were performed]] Tragediae_septem.tif The roots of Greek drama are in religious festivals for the gods, chiefly Dionysus, the god of wine.[44] During Aeschylus's lifetime, dramatic competitions became part of the City Dionysia in the spring.[45] The festival opened with a procession, followed with a competition of boys singing dithyrambs and culminated in a pair of dramatic competitions.[46] The first competition Aeschylus would have participated in, consisted of three playwrights each presenting three tragic plays followed by a shorter comedic satyr play.[47] A second competition of five comedic playwrights followed, and the winners of both competitions were chosen by a panel of judges.[48]
+in Athens, where many of Aeschylus's plays were performed]] The roots of Greek drama are in religious festivals for the gods, chiefly Dionysus, the god of wine.[44] During Aeschylus's lifetime, dramatic competitions became part of the City Dionysia in the spring.[45] The festival opened with a procession, followed with a competition of boys singing dithyrambs and culminated in a pair of dramatic competitions.[46] The first competition Aeschylus would have participated in, consisted of three playwrights each presenting three tragic plays followed by a shorter comedic satyr play.[47] A second competition of five comedic playwrights followed, and the winners of both competitions were chosen by a panel of judges.[48]
 
 Aeschylus entered many of these competitions in his lifetime, and various ancient sources attribute between seventy and ninety plays to him.[49][50] Only seven tragedies have survived intact: _The Persians_, _Seven against Thebes_, _The Suppliants_, the trilogy known as _The Oresteia_, consisting of the three tragedies _Agamemnon_, _The Libation Bearers_ and _The Eumenides_, together with _Prometheus Bound_ (whose authorship is disputed). With the exception of this last play – the success of which is uncertain – all of Aeschylus's extant tragedies are known to have won first prize at the City Dionysia.
 
@@ -69,7 +69,7 @@ Surviving plays
 
 _The Persians_
 
-Dariuslarge.jpg.]] The earliest of his plays to survive is _The Persians_ (_Persai_), performed in 472 BC and based on experiences in Aeschylus's own life, specifically the Battle of Salamis.[53] It is unique among surviving Greek tragedies in that it describes a recent historical event.[54] _The Persians_ focuses on the popular Greek theme of _hubris_ by blaming Persia's loss on the pride of its king.[55]
+.]] The earliest of his plays to survive is _The Persians_ (_Persai_), performed in 472 BC and based on experiences in Aeschylus's own life, specifically the Battle of Salamis.[53] It is unique among surviving Greek tragedies in that it describes a recent historical event.[54] _The Persians_ focuses on the popular Greek theme of _hubris_ by blaming Persia's loss on the pride of its king.[55]
 
 It opens with the arrival of a messenger in Susa, the Persian capital, bearing news of the catastrophic Persian defeat at Salamis to Atossa, the mother of the Persian King Xerxes. Atossa then travels to the tomb of Darius, her husband, where his ghost appears to explain the cause of the defeat. It is, he says, the result of Xerxes' hubris in building a bridge across the Hellespont, an action which angered the gods. Xerxes appears at the end of the play, not realizing the cause of his defeat, and the play closes to lamentations by Xerxes and the chorus.[56]
 
@@ -83,7 +83,7 @@ A new ending was added to the play some fifty years later: Antigone and Ismene m
 
 _The Suppliants_
 
-Danaïdes_tuant_leurs_maris_BnF_Français_874_fol._170v.jpg showing the Danaids murdering their husbands]] Aeschylus continued his emphasis on the polis with _The Suppliants_ in 463 BC (_Hiketides_), which pays tribute to the democratic undercurrents running through Athens in advance of the establishment of a democratic government in 461. In the play, the Danaids, the fifty daughters of Danaus, founder of Argos, flee a forced marriage to their cousins in Egypt. They turn to King Pelasgus of Argos for protection, but Pelasgus refuses until the people of Argos weigh in on the decision, a distinctly democratic move on the part of the king. The people decide that the Danaids deserve protection, and they are allowed within the walls of Argos despite Egyptian protests.[62]
+showing the Danaids murdering their husbands]] Aeschylus continued his emphasis on the polis with _The Suppliants_ in 463 BC (_Hiketides_), which pays tribute to the democratic undercurrents running through Athens in advance of the establishment of a democratic government in 461. In the play, the Danaids, the fifty daughters of Danaus, founder of Argos, flee a forced marriage to their cousins in Egypt. They turn to King Pelasgus of Argos for protection, but Pelasgus refuses until the people of Argos weigh in on the decision, a distinctly democratic move on the part of the king. The people decide that the Danaids deserve protection, and they are allowed within the walls of Argos despite Egyptian protests.[62]
 
 The 1952 publication of Oxyrhynchus Papyrus 2256 fr. 3 confirmed a long-assumed (because of _The Suppliants_' cliffhanger ending) Danaid trilogy, whose constituent plays are generally agreed to be _The Suppliants_, _The Egyptians_ and _The Danaids_. A plausible reconstruction of the trilogy's last two-thirds runs thus:[63] In _The Egyptians_, the Argive-Egyptian war threatened in the first play has transpired. During the course of the war, King Pelasgus has been killed, and Danaus rules Argos. He negotiates a peace settlement with Aegyptus, as a condition of which, his fifty daughters will marry the fifty sons of Aegyptus. Danaus secretly informs his daughters of an oracle predicting that one of his sons-in-law would kill him; he therefore orders the Danaids to murder their husbands on their wedding night. His daughters agree. _The Danaids_ would open the day after the wedding.[64]
 
@@ -95,7 +95,7 @@ The only complete trilogy of Greek plays by any playwright still extant (save a 
 
 _Agamemnon_
 
-Gérin_Clytemnestre_hésitant_avant_de_frapper_Agamemnon_endormi_Louvre_5185.jpg (1817)]]
+(1817)]]
 
 Aeschylus begins in Greece describing the return of King Agamemnon from his victory in the Trojan War, from the perspective of the towns people (the Chorus) and his wife, Clytemnestra. However, dark foreshadowings build to the death of the king at the hands of his wife, who was angry at his sacrifice of their daughter Iphigenia, who was killed so that the gods would restore the winds and allow the Greek fleet to sail to Troy. She was also unhappy at his keeping of the Trojan prophetess Cassandra as a concubine. Cassandra foretells of the murder of Agamemnon, and of herself, to the assembled townsfolk, who are horrified. She then enters the palace knowing that she cannot avoid her fate. The ending of the play includes a prediction of the return of Orestes, son of Agamemnon, who will seek to avenge his father.[68]''
 
@@ -111,7 +111,7 @@ The Furies track him down, and the goddess Athena, patron of Athens, steps in an
 
 _Prometheus Bound_
 
-Dirck_van_Baburen_-_Prometheus_Being_Chained_by_Vulcan_Rijksmuseum_SK-A-1606.jpg'' by Dirck van Baburen (1623)]]
+'' by Dirck van Baburen (1623)]]
 
 In addition to these six works, a seventh tragedy, _Prometheus Bound_, is attributed to Aeschylus by ancient authorities. Since the late 19th century, however, scholars have increasingly doubted this ascription, largely on stylistic grounds. Its production date is also in dispute, with theories ranging from the 480s BC to as late as the 410s.[73][74]
 
@@ -221,7 +221,7 @@ Influence
 
 Influence on Greek drama and culture
 
-Mosaic_Orestes_Iphigenia_Musei_Capitolini_MC4948.jpg, main character in Aeschylus's only surviving trilogy, _The Oresteia_]] When Aeschylus first began writing, the theatre had only just begun to evolve, although earlier playwrights like Thespis had already expanded the cast to include an actor who was able to interact with the chorus.[82] Aeschylus added a second actor, allowing for greater dramatic variety, while the chorus played a less important role.[83] He is sometimes credited with introducing _skenographia_, or scene-decoration,[84] though Aristotle gives this distinction to Sophocles. Aeschylus is also said to have made the costumes more elaborate and dramatic, and having his actors wear platform boots (_cothurni_) to make them more visible to the audience. According to a later account of Aeschylus's life, as they walked on stage in the first performance of the _Eumenides_, the chorus of Furies were so frightening in appearance that they caused young children to faint, patriarchs to urinate, and pregnant women to go into labour.[85]
+, main character in Aeschylus's only surviving trilogy, _The Oresteia_]] When Aeschylus first began writing, the theatre had only just begun to evolve, although earlier playwrights like Thespis had already expanded the cast to include an actor who was able to interact with the chorus.[82] Aeschylus added a second actor, allowing for greater dramatic variety, while the chorus played a less important role.[83] He is sometimes credited with introducing _skenographia_, or scene-decoration,[84] though Aristotle gives this distinction to Sophocles. Aeschylus is also said to have made the costumes more elaborate and dramatic, and having his actors wear platform boots (_cothurni_) to make them more visible to the audience. According to a later account of Aeschylus's life, as they walked on stage in the first performance of the _Eumenides_, the chorus of Furies were so frightening in appearance that they caused young children to faint, patriarchs to urinate, and pregnant women to go into labour.[85]
 
 His plays were written in verse, no violence is performed on stage, and the plays have a remoteness from daily life in Athens, either by relating stories about the gods or by being set, like _The Persians_, in far-away locales.[86] Aeschylus's work has a strong moral and religious emphasis.[87] The _Oresteia_ trilogy concentrated on man's position in the cosmos in relation to the gods, divine law, and divine punishment.[88]
 

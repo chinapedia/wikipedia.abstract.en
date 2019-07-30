@@ -17,7 +17,7 @@ In the meantime Wankel's mother had helped founding the local chapter of the NSD
 
 Career
 
-DrehkolbenmotorDKM54.JPG, type DKM54 (1957)]] During World War II, Wankel developed seals and rotary valves for German air force aircraft and navy torpedoes, for BMW and Daimler-Benz. After the war, he was imprisoned by France for some months in 1945 and his laboratory was closed by French occupation troops. Wankel's work was confiscated and he was prohibited from doing more work.[11] However, by 1951, he got funding from the Goetze AG company to furnish the new Technical Development Center in his private house in Lindau on Lake Constance. He began development of the engine at NSU Motorenwerke AG, leading to the first running prototype on 1 February 1957.[12] Unlike modern Wankel engines, this 21 horsepower version had both the rotor and housing rotating.[13] His engine design was first licensed by Curtiss-Wright in New Jersey, United States.
+, type DKM54 (1957)]] During World War II, Wankel developed seals and rotary valves for German air force aircraft and navy torpedoes, for BMW and Daimler-Benz. After the war, he was imprisoned by France for some months in 1945 and his laboratory was closed by French occupation troops. Wankel's work was confiscated and he was prohibited from doing more work.[11] However, by 1951, he got funding from the Goetze AG company to furnish the new Technical Development Center in his private house in Lindau on Lake Constance. He began development of the engine at NSU Motorenwerke AG, leading to the first running prototype on 1 February 1957.[12] Unlike modern Wankel engines, this 21 horsepower version had both the rotor and housing rotating.[13] His engine design was first licensed by Curtiss-Wright in New Jersey, United States.
 
 On 19 January 1960 the rotary engine was presented for the first time to specialists and the press in a meeting of the German Engineers' Union at the Deutsches Museum in Munich. In the same year, with the KKM 250, the first practical rotary engine was presented in a converted NSU Prinz. At this time the "Wankel engine" became synonymous with the rotary engine, whereas previously it was called the "Motor nach System NSU/Wankel". At the 1963 IAA, the NSU company presented the NSU Wankel-Spider, the first consumer vehicle, which went into production in 1964. Great attention was received by the NSU in August 1967 for the very modern NSU Ro 80, which had a 115-horsepower engine with two rotors. It was the first German car selected as "Car of the Year" in 1968.
 
@@ -30,7 +30,7 @@ From 1986 the Felix Wankel Institute cooperated with Daimler Benz AG. Daimler Be
 
 Personal life
 
-Felix-wankel_grab.JPG Wankel married Emma "Mi" Kirin in 1936. Though married until death, they had no children.
+Wankel married Emma "Mi" Kirin in 1936. Though married until death, they had no children.
 
 He never had a driver's license, because he was extremely near-sighted.[14] He was, however, the owner of an NSU Ro 80 with a Wankel engine, which was chauffeured for him.
 

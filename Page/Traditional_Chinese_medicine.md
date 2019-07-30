@@ -9,7 +9,7 @@ TCM describes health as the harmonious interaction of these entities and the out
 
 History
 
-Compendium_of_Materia_Medica.png (1518–1593 CE) during the Ming Dynasty of China. This edition was published in 1593.]] hua_t08.jpg 1340s, Yuan Dynasty). This image from _Shi si jing fa hui (Expression of the Fourteen Meridians)._ (Tokyo: Suharaya Heisuke kanko, Kyoho gan 1716).]]
+(1518–1593 CE) during the Ming Dynasty of China. This edition was published in 1593.]] 1340s, Yuan Dynasty). This image from _Shi si jing fa hui (Expression of the Fourteen Meridians)._ (Tokyo: Suharaya Heisuke kanko, Kyoho gan 1716).]]
 
 Traces of therapeutic activities in China date from the Shang dynasty (14th–11th centuries BCE).[19] Though the Shang did not have a concept of "medicine" as distinct from other fields,[20] their oracular inscriptions on bones and tortoise shells refer to illnesses that affected the Shang royal family: eye disorders, toothaches, bloated abdomen, etc.,[21][22] which Shang elites usually attributed to curses sent by their ancestors.[23] There is no evidence that the Shang nobility used herbal remedies.[24] According to a 2006 overview, the "Documentation of Chinese materia medica (CMM) dates back to around 1,100 BCE when only dozens of drugs were first described. By the end of the 16th century, the number of drugs documented had reached close to 1,900. And by the end of the last century, published records of CMM had reached 12,800 drugs."[25]
 
@@ -46,7 +46,7 @@ The establishment in 1870 of the Tung Wah Hospital was the first use of Chinese 
 
 Philosophical background
 
-Traditional Chinese medicine (TCM) is a broad range of medicine practices sharing common concepts which have been developed in China and are based on a tradition of more than 2,000 years, including various forms of herbal medicine, acupuncture, massage (Tui na), exercise (qigong), and dietary therapy.[64][65] It is primarily used as a complementary alternative medicine approach.[66] TCM is widely used in China and it is also used in the West.[67] Its philosophy is based on Yinyangism (i.e., the combination of Five Phases theory with Yin–Yang theory),[68] which was later absorbed by Daoism.[69] Yin_yang.svg
+Traditional Chinese medicine (TCM) is a broad range of medicine practices sharing common concepts which have been developed in China and are based on a tradition of more than 2,000 years, including various forms of herbal medicine, acupuncture, massage (Tui na), exercise (qigong), and dietary therapy.[64][65] It is primarily used as a complementary alternative medicine approach.[66] TCM is widely used in China and it is also used in the West.[67] Its philosophy is based on Yinyangism (i.e., the combination of Five Phases theory with Yin–Yang theory),[68] which was later absorbed by Daoism.[69]
 
 Yin and yang
 
@@ -66,7 +66,7 @@ The concept of yin and yang is also applicable to the human body; for example, t
 -   Yang vacuity (also termed "vacuity-heat"): heat sensations, possible sweating at night, insomnia, dry pharynx, dry mouth, dark urine, and a "fine" and rapid pulse.[81]
 -   Yin vacuity ("vacuity-cold"): aversion to cold, cold limbs, bright white complexion, long voidings of clear urine, diarrhea, pale and enlarged tongue, and a slightly weak, slow and fine pulse.[82]
 
-TCM also identifies drugs believed to treat these specific symptom combinations, i.e., to reinforce yin and yang.[83] Wuxing_en.svg
+TCM also identifies drugs believed to treat these specific symptom combinations, i.e., to reinforce yin and yang.[83]
 
 Five Phases theory
 
@@ -90,8 +90,6 @@ Correspondences between the body and the universe have historically not only bee
 
 
 Model of the body
-
-ChineseMedecine.JPG
 
 TCM "holds that the body's vital energy (_chi_ or _qi_) circulates through channels, called _meridians_, that have branches connected to bodily organs and functions."[101] Its view of the human body is only marginally concerned with anatomical structures, but focuses primarily on the body's _functions_[102][103] (such as digestion, breathing, temperature maintenance, etc.):
 
@@ -153,7 +151,7 @@ The zàng-fǔ are also connected to the twelve standard meridians–each yang me
 
 Jing-luo
 
-Acupuncture_chart_300px.jpg (c. 1368–1644)|200px]]
+(c. 1368–1644)|200px]]
 
 The meridians (经络, ) are believed to be channels running from the zàng-fǔ in the interior (里, ) of the body to the limbs and joints ("the surface" [表, ]), transporting qi and xuĕ.[140][141] TCM identifies 12 "regular" and 8 "extraordinary" meridians;[142] the Chinese terms being 十二经脉 (, lit. "the Twelve Vessels") and 奇经八脉 () respectively.[143] There's also a number of less customary channels branching from the "regular" meridians.[144]
 
@@ -253,7 +251,7 @@ Pulse palpation involves measuring the pulse both at a superficial and at a deep
 
 Herbal medicine
 
-Traditional_Chinese_medicine_in_Xi'an_market.jpg (lit. "spirit mushrooms"), ginseng, Luo Han Guo, turtle shell underbelly (plastron), and dried curled snakes.]] Red_ginseng.JPG Bile_bear.jpg in a “crush cage” on Huizhou Farm, China.[255]]] Seahorse_Skeleton_Macro_8_-_edit.jpgs are extensively used in traditional medicine in China and elsewhere.[256]]] The term "herbal medicine" is somewhat misleading in that, while plant elements are by far the most commonly used substances in TCM, other, non-botanic substances are used as well: animal, human, and mineral products are also utilized.[257] Thus, the term "medicinal" (instead of herb) is usually preferred.[258]
+(lit. "spirit mushrooms"), ginseng, Luo Han Guo, turtle shell underbelly (plastron), and dried curled snakes.]] in a “crush cage” on Huizhou Farm, China.[255]]] s are extensively used in traditional medicine in China and elsewhere.[256]]] The term "herbal medicine" is somewhat misleading in that, while plant elements are by far the most commonly used substances in TCM, other, non-botanic substances are used as well: animal, human, and mineral products are also utilized.[257] Thus, the term "medicinal" (instead of herb) is usually preferred.[258]
 
 Prescriptions
 
@@ -275,7 +273,7 @@ The tortoise (freshwater turtle, _guiban_) and turtle (Chinese softshell turtle,
 
 Human body parts
 
-Ziheche.jpg (Ziheche (紫河车) is used in traditional Chinese medicine.[299]]] Traditional Chinese Medicine also includes some human parts: the classic Materia medica (Bencao Gangmu) describes (also criticizes) the use of 35 human body parts and excreta in medicines, including bones, fingernail, hairs, dandruff, earwax, impurities on the teeth, feces, urine, sweat, organs, but most are no longer in use.[300][301][302]
+(Ziheche (紫河车) is used in traditional Chinese medicine.[299]]] Traditional Chinese Medicine also includes some human parts: the classic Materia medica (Bencao Gangmu) describes (also criticizes) the use of 35 human body parts and excreta in medicines, including bones, fingernail, hairs, dandruff, earwax, impurities on the teeth, feces, urine, sweat, organs, but most are no longer in use.[300][301][302]
 
 Human placenta has been used an ingredient in certain traditional Chinese medicines,[303] including using dried human placenta, known as "Ziheche", to treat infertility, impotence and other conditions.[304] The consumption of the human placenta is a potential source of infection.[305]
 
@@ -307,7 +305,7 @@ there were not enough good-quality trials of herbal therapies to allow their eff
 
 Drug research
 
-Artemisia_annua(01).jpg'' is traditionally used to treat fever.[375] It has been found to have antimalarial properties.[376]]] With an eye to the enormous Chinese market, pharmaceutical companies have explored the potential for creating new drugs from traditional remedies.[377] A _Nature_ editorial described TCM as "fraught with pseudoscience", and stated that having "no rational mechanism of action for most of its therapies" is the "most obvious answer" to why its study didn't provide a "flood of cures", while advocates responded that "researchers are missing aspects of the art, notably the interactions between different ingredients in traditional therapies."[378]
+'' is traditionally used to treat fever.[375] It has been found to have antimalarial properties.[376]]] With an eye to the enormous Chinese market, pharmaceutical companies have explored the potential for creating new drugs from traditional remedies.[377] A _Nature_ editorial described TCM as "fraught with pseudoscience", and stated that having "no rational mechanism of action for most of its therapies" is the "most obvious answer" to why its study didn't provide a "flood of cures", while advocates responded that "researchers are missing aspects of the art, notably the interactions between different ingredients in traditional therapies."[378]
 
 One of the successes was the development in the 1970s of the antimalarial drug artemisinin, which is a processed extract of _Artemisia annua_, a herb traditionally used as a fever treatment.[379][380] Artemisia annua has been used by Chinese herbalists in traditional Chinese medicines for 2,000 years. In 1596, Li Shizhen recommended tea made from qinghao specifically to treat malaria symptoms in his _Compendium of Materia Medica_. Researcher Tu Youyou discovered that a low-temperature extraction process could isolate an effective antimalarial substance from the plant.[381] Tu says she was influenced by a traditional Chinese herbal medicine source, _The Handbook of Prescriptions for Emergency Treatments_, written in 340 by Ge Hong, which states that this herb should be steeped in cold water.[382] The extracted substance, once subject to detoxification and purification processes, is a usable antimalarial drug[383] – a 2012 review found that artemisinin-based remedies were the most effective drugs for the treatment of malaria.[384] For her work on malaria, Tu received the 2015 Nobel Prize in Physiology or Medicine. Despite global efforts in combating malaria, it remains a large burden for the population.[385] Although WHO recommends artemisinin-based remedies for treating uncomplicated malaria, artemisinin resistance can no longer be ignored.[386]
 
@@ -340,7 +338,7 @@ However, many adverse reactions are due to misuse or abuse of Chinese medicine.[
 
 Acupuncture and moxibustion
 
-Acupuncture1-1.jpg Ibuki_moxa_set.jpg Acupuncture is the insertion of needles into superficial structures of the body (skin, subcutaneous tissue, muscles) – usually at acupuncture points (acupoints) – and their subsequent manipulation; this aims at influencing the flow of qi.[431] According to TCM it relieves pain and treats (and prevents) various diseases.[432] The US FDA classifies single-use acupuncture needles as Class II medical devices, under CFR 21.[433]
+Acupuncture is the insertion of needles into superficial structures of the body (skin, subcutaneous tissue, muscles) – usually at acupuncture points (acupoints) – and their subsequent manipulation; this aims at influencing the flow of qi.[431] According to TCM it relieves pain and treats (and prevents) various diseases.[432] The US FDA classifies single-use acupuncture needles as Class II medical devices, under CFR 21.[433]
 
 Acupuncture is often accompanied by moxibustion – the Chinese characters for acupuncture () literally meaning "acupuncture-moxibustion" – which involves burning mugwort on or near the skin at an acupuncture point.[434] According to the American Cancer Society, "available scientific evidence does not support claims that moxibustion is effective in preventing or treating cancer or any other disease".[435]
 
@@ -359,7 +357,7 @@ Acupuncture is generally safe when administered using Clean Needle Technique (CN
 
 Tui na
 
-Zheng_Gu_Shui.jpg Tui na (推拿) is a form of massage akin to acupressure (from which shiatsu evolved). Asian massage is typically administered with the person fully clothed, without the application of grease or oils.[452] Techniques employed may include thumb presses, rubbing, percussion, and assisted stretching.
+Tui na (推拿) is a form of massage akin to acupressure (from which shiatsu evolved). Asian massage is typically administered with the person fully clothed, without the application of grease or oils.[452] Techniques employed may include thumb presses, rubbing, percussion, and assisted stretching.
 
 
 Qigong
@@ -385,13 +383,13 @@ Other therapies
 
 Cupping
 
-Kyutoshin.JPG Cupping (Chinese: 拔罐; pinyin: báguàn) is a type of Chinese massage, consisting of placing several glass "cups" (open spheres) on the body. A match is lit and placed inside the cup and then removed before placing the cup against the skin. As the air in the cup is heated, it expands, and after placing in the skin, cools, creating lower pressure inside the cup that allows the cup to stick to the skin via suction.[458] When combined with massage oil, the cups can be slid around the back, offering "reverse-pressure massage".
+Cupping (Chinese: 拔罐; pinyin: báguàn) is a type of Chinese massage, consisting of placing several glass "cups" (open spheres) on the body. A match is lit and placed inside the cup and then removed before placing the cup against the skin. As the air in the cup is heated, it expands, and after placing in the skin, cools, creating lower pressure inside the cup that allows the cup to stick to the skin via suction.[458] When combined with massage oil, the cups can be slid around the back, offering "reverse-pressure massage".
 
 It has not been found to be effective for the treatment of any disease.[459] The 2008 _Trick or Treatment_ book said that no evidence exists of any beneficial effects of cupping for any medical condition.[460]
 
 Gua Sha
 
-Gua_Sha.jpg GUA SHA (Chinese: 刮痧； pinyin: guāshā) is abrading the skin with pieces of smooth jade, bone, animal tusks or horns or smooth stones; until red spots then bruising cover the area to which it is done. It is believed that this treatment is for almost any ailment including cholera. The red spots and bruising take three to ten days to heal, there is often some soreness in the area that has been treated.[461]
+GUA SHA (Chinese: 刮痧； pinyin: guāshā) is abrading the skin with pieces of smooth jade, bone, animal tusks or horns or smooth stones; until red spots then bruising cover the area to which it is done. It is believed that this treatment is for almost any ailment including cholera. The red spots and bruising take three to ten days to heal, there is often some soreness in the area that has been treated.[461]
 
 Die-da
 
@@ -426,7 +424,7 @@ The Chinese Medicine Council of Hong Kong was established in 1999. It regulates 
 
 Indonesia
 
-Chinese_traditional_medicine.jpg All traditional medicines, including TCM, are regulated by Indonesian Minister of Health Regulation of 2013 on traditional medicine. Traditional medicine license (_Surat Izin Pengobatan Tradisional_ – SIPT) is granted to the practitioners whose methods are scientifically recognized as safe and bring the benefit for health.[469] The TCM clinics are registered but there is no explicit regulation for it. The only TCM method which is accepted by medical logic and is empirically proofed is acupuncture.[470] The acupuncturists can get SIPT and participate on health care facilities.[471]
+All traditional medicines, including TCM, are regulated by Indonesian Minister of Health Regulation of 2013 on traditional medicine. Traditional medicine license (_Surat Izin Pengobatan Tradisional_ – SIPT) is granted to the practitioners whose methods are scientifically recognized as safe and bring the benefit for health.[469] The TCM clinics are registered but there is no explicit regulation for it. The only TCM method which is accepted by medical logic and is empirically proofed is acupuncture.[470] The acupuncturists can get SIPT and participate on health care facilities.[471]
 
 Malaysia
 

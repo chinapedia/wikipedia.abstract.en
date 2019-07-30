@@ -1,6 +1,6 @@
 GLYCINE (symbol GLY or G;[1] )[2] is an amino acid that has a single hydrogen atom as its side chain. It is the simplest amino acid (since carbamic acid is unstable), with the chemical formula NH₂‐CH₂‐COOH. Glycine is one of the proteinogenic amino acids. It is encoded by all the codons starting with GG (GGU, GGC, GGA, GGG). Glycine is integral to the formation of alpha-helices in secondary protein structure due to its compact form. For the same reason, it is most abundant amino acid in collagen triple-helices. Glycine is also an inhibitory neurotransmitter - interference with its release within the spinal cord (such as during a Clostridium tetani infection) can cause spastic paralysis due to uninhibited muscle contraction.
 
-Glycine is a colorless, sweet-tasting crystalline solid. It is the only achiral proteinogenic amino acid. It can fit into hydrophilic or hydrophobic environments, due to its minimal side chain of only one hydrogen atom. The acyl radical is GLYCYL. Glycin.jpg
+Glycine is a colorless, sweet-tasting crystalline solid. It is the only achiral proteinogenic amino acid. It can fit into hydrophilic or hydrophobic environments, due to its minimal side chain of only one hydrogen atom. The acyl radical is GLYCYL.
 
 
 History and etymology
@@ -16,8 +16,6 @@ Glycine is also cogenerated as an impurity in the synthesis of EDTA, arising fro
 
 
 Acid-base properties
-
-Glycine-protonation-states-2D-skeletal.png
 
 In aqueous solution, glycine itself is amphoteric: at low pH the molecule can be protonated with a pK_(a) of about 2.4 and at high pH it loses a proton with a pK_(a) of about 9.6 (precise values of pK_(a) depend on temperature and ionic strength).
 

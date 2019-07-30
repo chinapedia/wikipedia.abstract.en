@@ -6,7 +6,7 @@ Geology describes the structure of the Earth on and beneath its surface, and the
 
 Geologists use a wide variety of methods to understand the Earth's structure and evolution, including field work, rock description, geophysical techniques, chemical analysis, physical experiments, and numerical modelling. In practical terms, geology is important for mineral and hydrocarbon exploration and exploitation, evaluating water resources, understanding of natural hazards, the remediation of environmental problems, and providing insights into past climate change. Geology is a major academic discipline, and it plays an important role in geotechnical engineering.
 
-Sarychev_Peak.jpg Volcano erupts June 12, 2009, on Matua Island. ]]
+Volcano erupts June 12, 2009, on Matua Island. ]]
 
 
 Geologic materials
@@ -15,13 +15,13 @@ The majority of geological data comes from research on solid Earth materials. Th
 
 Rock
 
-Rockcycle_edit.jpg shows the relationship between igneous, sedimentary, and metamorphic rocks.]]
+shows the relationship between igneous, sedimentary, and metamorphic rocks.]]
 
 The majority of research in geology is associated with the study of rock, as rock provides the primary record of the majority of the geologic history of the Earth. There are three major types of rock: igneous, sedimentary, and metamorphic. The rock cycle illustrates the relationships among them (see diagram).
 
 When a rock solidifies or crystallizes from melt (magma or lava), it is an igneous rock. This rock can be weathered and eroded, then redeposited and lithified into a sedimentary rock. It can then be turned into a metamorphic rock by heat and pressure that change its mineral content, resulting in a characteristic fabric. All three types may melt again, and when this happens, new magma is formed, from which an igneous rock may once more solidify.
 
-Or_Venezuela.jpg gold from Venezuela ]] Quartz,_Tibet.jpg from Tibet]]
+gold from Venezuela ]] from Tibet]]
 
 Tests
 
@@ -51,13 +51,13 @@ Whole-Earth structure
 
 Plate tectonics
 
-Active_Margin.svg and volcanic arcs illustrates one effect of plate tectonics.]] Plates_tect2_en.svg of the Earth. ]]
+and volcanic arcs illustrates one effect of plate tectonics.]] of the Earth. ]]
 
 In the 1960s, it was discovered that the Earth's lithosphere, which includes the crust and rigid uppermost portion of the upper mantle, is separated into tectonic plates that move across the plastically deforming, solid, upper mantle, which is called the asthenosphere. This theory is supported by several types of observations, including seafloor spreading[6][7] and the global distribution of mountain terrain and seismicity.
 
 There is an intimate coupling between the movement of the plates on the surface and the convection of the mantle (that is, the heat transfer caused by bulk movement of molecules within fluids). Thus, oceanic plates and the adjoining mantle convection currents always move in the same direction – because the oceanic lithosphere is actually the rigid upper thermal boundary layer of the convecting mantle. This coupling between rigid plates moving on the surface of the Earth and the convecting mantle is called plate tectonics.
 
-Farallon_Plate.jpg, subducting slabs are in blue and continental margins and a few plate boundaries are in red. The blue blob in the cutaway section is the Farallon Plate, which is subducting beneath North America. The remnants of this plate on the surface of the Earth are the Juan de Fuca Plate and Explorer Plate, both in the northwestern United States and southwestern Canada, and the Cocos Plate on the west coast of Mexico.]]
+, subducting slabs are in blue and continental margins and a few plate boundaries are in red. The blue blob in the cutaway section is the Farallon Plate, which is subducting beneath North America. The remnants of this plate on the surface of the Earth are the Juan de Fuca Plate and Explorer Plate, both in the northwestern United States and southwestern Canada, and the Cocos Plate on the west coast of Mexico.]]
 
 The development of plate tectonics has provided a physical basis for many observations of the solid Earth. Long linear regions of geologic features are explained as plate boundaries.[8] For example:
 
@@ -68,7 +68,7 @@ Transform boundaries, such as the San Andreas Fault system, resulted in widespre
 
 Earth structure
 
-Jordens_inre-numbers.svg's layered structure. (1) inner core; (2) outer core; (3) lower mantle; (4) upper mantle; (5) lithosphere; (6) crust (part of the lithosphere)]] Earthquake_wave_paths.svg
+'s layered structure. (1) inner core; (2) outer core; (3) lower mantle; (4) upper mantle; (5) lithosphere; (6) crust (part of the lithosphere)]]
 
 Advances in seismology, computer modeling, and mineralogy and crystallography at high temperatures and pressures give insights into the internal composition and structure of the Earth.
 
@@ -85,7 +85,7 @@ Timescale of the Earth
 
 Important milestones on Earth
 
-Geologic_Clock_with_events_and_periods.svg, showing the relative lengths of the eons of the Earth's history.]]
+, showing the relative lengths of the eons of the Earth's history.]]
 
 -   4.567 Ga (gigaannum: billion years ago): Solar system formation[14]
 -   4.54 Ga: Accretion, or formation, of Earth[15][16]
@@ -101,8 +101,6 @@ Geologic_Clock_with_events_and_periods.svg, showing the relative lengths of the 
 -   3.9 Ma: First Australopithecus, direct ancestor to modern Homo sapiens, appear
 -   200 ka (kiloannum: thousand years ago): First modern Homo sapiens appear in East Africa
 
-Anticlinal_à_Durbuy,_Belgique.jpg
-
 Timescale of the Moon
 
 Timescale of Mars
@@ -112,7 +110,7 @@ Dating methods
 
 Relative dating
 
-Cross-cutting_relations.svg can be used to determine the relative ages of rock strata and other geological structures. Explanations: A – folded rock strata cut by a thrust fault; B – large intrusion (cutting through A); C – erosional angular unconformity (cutting off A & B) on which rock strata were deposited; D – volcanic dyke (cutting through A, B & C); E – even younger rock strata (overlying C & D); F – normal fault (cutting through A, B, C & E).]]
+can be used to determine the relative ages of rock strata and other geological structures. Explanations: A – folded rock strata cut by a thrust fault; B – large intrusion (cutting through A); C – erosional angular unconformity (cutting off A & B) on which rock strata were deposited; D – volcanic dyke (cutting through A, B & C); E – even younger rock strata (overlying C & D); F – normal fault (cutting through A, B, C & E).]]
 
 Methods for relative dating were developed when geology first emerged as a natural science. Geologists still use the following principles today as a means to provide information about geologic history and the timing of geologic events.
 
@@ -124,7 +122,7 @@ THE PRINCIPLE OF CROSS-CUTTING RELATIONSHIPS pertains to the formation of faults
 
 THE PRINCIPLE OF INCLUSIONS AND COMPONENTS states that, with sedimentary rocks, if inclusions (or _clasts_) are found in a formation, then the inclusions must be older than the formation that contains them. For example, in sedimentary rocks, it is common for gravel from an older formation to be ripped up and included in a newer layer. A similar situation with igneous rocks occurs when xenoliths are found. These foreign bodies are picked up as magma or lava flows, and are incorporated, later to cool in the matrix. As a result, xenoliths are older than the rock that contains them.
 
-SEUtahStrat.JPG through Jurassic stratigraphy of the Colorado Plateau area of southeastern Utah is an example of both original horizontality and the law of superposition. These strata make up much of the famous prominent rock formations in widely spaced protected areas such as Capitol Reef National Park and Canyonlands National Park. From top to bottom: Rounded tan domes of the Navajo Sandstone, layered red Kayenta Formation, cliff-forming, vertically jointed, red Wingate Sandstone, slope-forming, purplish Chinle Formation, layered, lighter-red Moenkopi Formation, and white, layered Cutler Formation sandstone. Picture from Glen Canyon National Recreation Area, Utah.]] THE PRINCIPLE OF ORIGINAL HORIZONTALITY states that the deposition of sediments occurs as essentially horizontal beds. Observation of modern marine and non-marine sediments in a wide variety of environments supports this generalization (although cross-bedding is inclined, the overall orientation of cross-bedded units is horizontal).[20]
+through Jurassic stratigraphy of the Colorado Plateau area of southeastern Utah is an example of both original horizontality and the law of superposition. These strata make up much of the famous prominent rock formations in widely spaced protected areas such as Capitol Reef National Park and Canyonlands National Park. From top to bottom: Rounded tan domes of the Navajo Sandstone, layered red Kayenta Formation, cliff-forming, vertically jointed, red Wingate Sandstone, slope-forming, purplish Chinle Formation, layered, lighter-red Moenkopi Formation, and white, layered Cutler Formation sandstone. Picture from Glen Canyon National Recreation Area, Utah.]] THE PRINCIPLE OF ORIGINAL HORIZONTALITY states that the deposition of sediments occurs as essentially horizontal beds. Observation of modern marine and non-marine sediments in a wide variety of environments supports this generalization (although cross-bedding is inclined, the overall orientation of cross-bedded units is horizontal).[20]
 
 THE PRINCIPLE OF SUPERPOSITION states that a sedimentary rock layer in a tectonically undisturbed sequence is younger than the one beneath it and older than the one above it. Logically a younger layer cannot slip beneath a layer previously deposited. This principle allows sedimentary layers to be viewed as a form of vertical time line, a partial or complete record of the time elapsed from deposition of the lowest layer to deposition of the highest bed.[21]
 
@@ -132,7 +130,7 @@ THE PRINCIPLE OF FAUNAL SUCCESSION is based on the appearance of fossils in sedi
 
 Absolute dating
 
-Zircon-tuc1001b.jpg zircon is often used in radiometric dating. ]]
+zircon is often used in radiometric dating. ]]
 
 Geologists also use methods to determine the absolute age of rock samples and geological events. These dates are useful on their own and may also be used in conjunction with relative dating methods or to calibrate relative methods.[23]
 
@@ -147,12 +145,12 @@ Other methods are used for more recent events. Optically stimulated luminescence
 
 Geological development of an area
 
-Volcanosed.svg activity. Deep below the surface are a magma chamber and large associated igneous bodies. The magma chamber feeds the volcano, and sends offshoots of magma that will later crystallize into dikes and sills. Magma also advances upwards to form intrusive igneous bodies. The diagram illustrates both a cinder cone volcano, which releases ash, and a composite volcano, which releases both lava and ash.]] thumb|left|upright=0.9| An illustration of the three types of faults.
+activity. Deep below the surface are a magma chamber and large associated igneous bodies. The magma chamber feeds the volcano, and sends offshoots of magma that will later crystallize into dikes and sills. Magma also advances upwards to form intrusive igneous bodies. The diagram illustrates both a cinder cone volcano, which releases ash, and a composite volcano, which releases both lava and ash.]] thumb|left|upright=0.9| An illustration of the three types of faults.
 A. Strike-slip faults occur when rock units slide past one another.
 B. Normal faults occur when rocks are undergoing horizontal extension.
 C. Reverse (or thrust) faults occur when rocks are undergoing horizontal shortening.
 
-San_Andreas.jpg in California.]]
+in California.]]
 
 The geology of an area changes through time as rock units are deposited and inserted, and deformational processes change their shapes and locations.
 
@@ -162,26 +160,26 @@ After the initial sequence of rocks has been deposited, the rock units can be de
 
 When rock units are placed under horizontal compression, they shorten and become thicker. Because rock units, other than muds, do not significantly change in volume, this is accomplished in two primary ways: through faulting and folding. In the shallow crust, where brittle deformation can occur, thrust faults form, which causes deeper rock to move on top of shallower rock. Because deeper rock is often older, as noted by the principle of superposition, this can result in older rocks moving on top of younger ones. Movement along faults can result in folding, either because the faults are not planar or because rock layers are dragged along, forming drag folds as slip occurs along the fault. Deeper in the Earth, rocks behave plastically and fold instead of faulting. These folds can either be those where the material in the center of the fold buckles upwards, creating "antiforms", or where it buckles downwards, creating "synforms". If the tops of the rock units within the folds remain pointing upwards, they are called anticlines and synclines, respectively. If some of the units in the fold are facing downward, the structure is called an overturned anticline or syncline, and if all of the rock units are overturned or the correct up-direction is unknown, they are simply called by the most general terms, antiforms and synforms.
 
-Antecline_(PSF).png and a syncline.]] Even higher pressures and temperatures during horizontal shortening can cause both folding and metamorphism of the rocks. This metamorphism causes changes in the mineral composition of the rocks; creates a foliation, or planar surface, that is related to mineral growth under stress. This can remove signs of the original textures of the rocks, such as bedding in sedimentary rocks, flow features of lavas, and crystal patterns in crystalline rocks.
+and a syncline.]] Even higher pressures and temperatures during horizontal shortening can cause both folding and metamorphism of the rocks. This metamorphism causes changes in the mineral composition of the rocks; creates a foliation, or planar surface, that is related to mineral growth under stress. This can remove signs of the original textures of the rocks, such as bedding in sedimentary rocks, flow features of lavas, and crystal patterns in crystalline rocks.
 
 Extension causes the rock units as a whole to become longer and thinner. This is primarily accomplished through normal faulting and through the ductile stretching and thinning. Normal faults drop rock units that are higher below those that are lower. This typically results in younger units ending up below older units. Stretching of units can result in their thinning. In fact, at one location within the Maria Fold and Thrust Belt, the entire sedimentary sequence of the Grand Canyon appears over a length of less than a meter. Rocks at the depth to be ductilely stretched are often also metamorphosed. These stretched rocks can also pinch into lenses, known as _boudins_, after the French word for "sausage" because of their visual similarity.
 
 Where rock units slide past one another, strike-slip faults develop in shallow regions, and become shear zones at deeper depths where the rocks deform ductilely.
 
-Kittatinny_Mountain_Cross_Section.jpg of Kittatinny Mountain. This cross section shows metamorphic rocks, overlain by younger sediments deposited after the metamorphic event. These rock units were later folded and faulted during the uplift of the mountain.]] The addition of new rock units, both depositionally and intrusively, often occurs during deformation. Faulting and other deformational processes result in the creation of topographic gradients, causing material on the rock unit that is increasing in elevation to be eroded by hillslopes and channels. These sediments are deposited on the rock unit that is going down. Continual motion along the fault maintains the topographic gradient in spite of the movement of sediment, and continues to create accommodation space for the material to deposit. Deformational events are often also associated with volcanism and igneous activity. Volcanic ashes and lavas accumulate on the surface, and igneous intrusions enter from below. Dikes, long, planar igneous intrusions, enter along cracks, and therefore often form in large numbers in areas that are being actively deformed. This can result in the emplacement of dike swarms, such as those that are observable across the Canadian shield, or rings of dikes around the lava tube of a volcano.
+of Kittatinny Mountain. This cross section shows metamorphic rocks, overlain by younger sediments deposited after the metamorphic event. These rock units were later folded and faulted during the uplift of the mountain.]] The addition of new rock units, both depositionally and intrusively, often occurs during deformation. Faulting and other deformational processes result in the creation of topographic gradients, causing material on the rock unit that is increasing in elevation to be eroded by hillslopes and channels. These sediments are deposited on the rock unit that is going down. Continual motion along the fault maintains the topographic gradient in spite of the movement of sediment, and continues to create accommodation space for the material to deposit. Deformational events are often also associated with volcanism and igneous activity. Volcanic ashes and lavas accumulate on the surface, and igneous intrusions enter from below. Dikes, long, planar igneous intrusions, enter along cracks, and therefore often form in large numbers in areas that are being actively deformed. This can result in the emplacement of dike swarms, such as those that are observable across the Canadian shield, or rings of dikes around the lava tube of a volcano.
 
 All of these processes do not necessarily occur in a single environment, and do not necessarily occur in a single order. The Hawaiian Islands, for example, consist almost entirely of layered basaltic lava flows. The sedimentary sequences of the mid-continental United States and the Grand Canyon in the southwestern United States contain almost-undeformed stacks of sedimentary rocks that have remained in place since Cambrian time. Other areas are much more geologically complex. In the southwestern United States, sedimentary, volcanic, and intrusive rocks have been metamorphosed, faulted, foliated, and folded. Even older rocks, such as the Acasta gneiss of the Slave craton in northwestern Canada, the oldest known rock in the world have been metamorphosed to the point where their origin is undiscernable without laboratory analysis. In addition, these processes can occur in stages. In many places, the Grand Canyon in the southwestern United States being a very visible example, the lower rock units were metamorphosed and deformed, and then deformation ended and the upper, undeformed units were deposited. Although any amount of rock emplacement and rock deformation can occur, and they can occur any number of times, these concepts provide a guide to understanding the geological history of an area.
 
 
 Methods of geology
 
-Brunton.JPG, commonly used by geologists for mapping and surveying.]]
+, commonly used by geologists for mapping and surveying.]]
 
 Geologists use a number of field, laboratory, and numerical modeling methods to decipher Earth history and to understand the processes that occur on and inside the Earth. In typical geological investigations, geologists use primary information related to petrology (the study of rocks), stratigraphy (the study of sedimentary layers), and structural geology (the study of positions of rock units and their deformation). In many cases, geologists also study modern soils, rivers, landscapes, and glaciers; investigate past and current life and biogeochemical pathways, and use geophysical methods to investigate the subsurface. Sub-specialities of geology may distinguish ENDOGENOUS and EXOGENOUS geology.[26]
 
 Field methods
 
-USGS_1950s_mapping_field_camp.jpg field mapping camp in the 1950s]] PDA_Mapping.jpgs with GPS and geographic information systems software are often used in geological field work (digital geologic mapping).]] Petrified_forest_log_1_md.jpg log in Petrified Forest National Park, Arizona, U.S.A.]]
+field mapping camp in the 1950s]] s with GPS and geographic information systems software are often used in geological field work (digital geologic mapping).]] log in Petrified Forest National Park, Arizona, U.S.A.]]
 
 Geological field work varies depending on the task at hand. Typical fieldwork could consist of:
 
@@ -222,11 +220,11 @@ Geological field work varies depending on the task at hand. Typical fieldwork co
 -   Collection of samples for geochronology and thermochronology[31]
 -   Glaciology: measurement of characteristics of glaciers and their motion[32]
 
-Leica_DMRX.jpg – an optical microscope fitted with cross-polarizing lenses, a conoscopic lens, and compensators (plates of anisotropic materials; gypsum plates and quartz wedges are common), for crystallographic analysis.]]
+– an optical microscope fitted with cross-polarizing lenses, a conoscopic lens, and compensators (plates of anisotropic materials; gypsum plates and quartz wedges are common), for crystallographic analysis.]]
 
 Petrology
 
-Agiospavlos_DM_2004_IMG003_Felsenformation_nahe.JPG strata ]]
+strata ]]
 
 In addition to identifying rocks in the field (lithology), petrologists identify rock samples in the laboratory. Two of the primary methods for identifying rocks in the laboratory are through optical microscopy and by using an electron microprobe. In an optical mineralogy analysis, petrologists analyze thin sections of rock samples using a petrographic microscope, where the minerals can be identified through their different properties in plane-polarized and cross-polarized light, including their birefringence, pleochroism, twinning, and interference properties with a conoscopic lens.[33] In the electron microprobe, individual locations are analyzed for their exact chemical compositions and variation in composition within individual crystals.[34] Stable[35] and radioactive isotope[36] studies provide insight into the geochemical evolution of rock units.
 
@@ -234,7 +232,7 @@ Petrologists can also use fluid inclusion data[37] and perform high temperature 
 
 Structural geology
 
-Orogenic_wedge.jpg. It builds its shape into a critical taper, in which the angles within the wedge remain the same as failures inside the material balance failures along the décollement. It is analogous to a bulldozer pushing a pile of dirt, where the bulldozer is the overriding plate.]]
+. It builds its shape into a critical taper, in which the angles within the wedge remain the same as failures inside the material balance failures along the décollement. It is analogous to a bulldozer pushing a pile of dirt, where the bulldozer is the overriding plate.]]
 
 Structural geologists use microscopic analysis of oriented thin sections of geologic samples to observe the fabric within the rocks, which gives information about strain within the crystalline structure of the rocks. They also plot and combine measurements of geological structures to better understand the orientations of faults and folds to reconstruct the history of rock deformation in the area. In addition, they perform analog and numerical experiments of rock deformation in large and small settings.
 
@@ -244,14 +242,14 @@ Among the most well-known experiments in structural geology are those involving 
 
 Stratigraphy
 
-Ritagli_di_Lecca,_Fondachelli_Fantina.JPG, Sicily]] In the laboratory, stratigraphers analyze samples of stratigraphic sections that can be returned from the field, such as those from drill cores.[45] Stratigraphers also analyze data from geophysical surveys that show the locations of stratigraphic units in the subsurface.[46] Geophysical data and well logs can be combined to produce a better view of the subsurface, and stratigraphers often use computer programs to do this in three dimensions.[47] Stratigraphers can then use these data to reconstruct ancient processes occurring on the surface of the Earth,[48] interpret past environments, and locate areas for water, coal, and hydrocarbon extraction.
+, Sicily]] In the laboratory, stratigraphers analyze samples of stratigraphic sections that can be returned from the field, such as those from drill cores.[45] Stratigraphers also analyze data from geophysical surveys that show the locations of stratigraphic units in the subsurface.[46] Geophysical data and well logs can be combined to produce a better view of the subsurface, and stratigraphers often use computer programs to do this in three dimensions.[47] Stratigraphers can then use these data to reconstruct ancient processes occurring on the surface of the Earth,[48] interpret past environments, and locate areas for water, coal, and hydrocarbon extraction.
 
 In the laboratory, biostratigraphers analyze rock samples from outcrop and drill cores for the fossils found in them.[49] These fossils help scientists to date the core and to understand the depositional environment in which the rock units formed. Geochronologists precisely date rocks within the stratigraphic section to provide better absolute bounds on the timing and rates of deposition.[50] Magnetic stratigraphers look for signs of magnetic reversals in igneous rock units within the drill cores.[51] Other scientists perform stable-isotope studies on the rocks to gain information about past climate.[52]
 
 
 Planetary geology
 
-Mars_Viking_21i093.png lander December 9, 1977.]]
+lander December 9, 1977.]]
 
 With the advent of space exploration in the twentieth century, geologists have begun to look at other planetary bodies in the same ways that have been developed to study the Earth. This new field of study is called planetary geology (sometimes known as astrogeology) and relies on known geologic principles to study other bodies of the solar system.
 
@@ -262,7 +260,7 @@ Although planetary geologists are interested in studying all aspects of other pl
 
 Applied geology
 
-Panning_on_the_Mokelumne.jpg on the Mokelumne. Harper's Weekly: How We Got Gold in California. 1860 ]]
+on the Mokelumne. Harper's Weekly: How We Got Gold in California. 1860 ]]
 
 Economic geology
 
@@ -274,7 +272,7 @@ Mining geology consists of the extractions of mineral resources from the Earth. 
 
 Petroleum geology
 
-Mudlogging.JPG when drilling oil wells.]] Petroleum geologists study the locations of the subsurface of the Earth that can contain extractable hydrocarbons, especially petroleum and natural gas. Because many of these reservoirs are found in sedimentary basins,[53] they study the formation of these basins, as well as their sedimentary and tectonic evolution and the present-day positions of the rock units.
+when drilling oil wells.]] Petroleum geologists study the locations of the subsurface of the Earth that can contain extractable hydrocarbons, especially petroleum and natural gas. Because many of these reservoirs are found in sedimentary basins,[53] they study the formation of these basins, as well as their sedimentary and tectonic evolution and the present-day positions of the rock units.
 
 Engineering geology
 
@@ -282,7 +280,7 @@ Engineering geology is the application of the geologic principles to engineering
 
 In the field of civil engineering, geological principles and analyses are used in order to ascertain the mechanical principles of the material on which structures are built. This allows tunnels to be built without collapsing, bridges and skyscrapers to be built with sturdy foundations, and buildings to be built that will not settle in clay and mud.[54]
 
-New_water_well_opens_in_Shant_Abak_DVIDS92609.jpg built as part of a hydrogeological humanitarian project in Shant Abak, Kenya. ]]
+built as part of a hydrogeological humanitarian project in Shant Abak, Kenya. ]]
 
 Hydrology and environmental issues
 
@@ -292,12 +290,12 @@ Geologists also obtain data through stratigraphy, boreholes, core samples, and i
 
 Natural hazards
 
-Geologists and geophysicists study natural hazards in order to enact safe building codes and warning systems that are used to prevent loss of property and life.[62] Examples of important natural hazards that are pertinent to geology (as opposed those that are mainly or only pertinent to meteorology) are: GCRockfall.JPG
+Geologists and geophysicists study natural hazards in order to enact safe building codes and warning systems that are used to prevent loss of property and life.[62] Examples of important natural hazards that are pertinent to geology (as opposed those that are mainly or only pertinent to meteorology) are:
 
 
 History
 
-Geological_map_Britain_William_Smith_1815.jpg's geologic map of England, Wales, and southern Scotland. Completed in 1815, it was the second national-scale geologic map, and by far the most accurate of its time.[63]]] The study of the physical material of the Earth dates back at least to ancient Greece when Theophrastus (372–287 BCE) wrote the work _Peri Lithon_ (_On Stones_). During the Roman period, Pliny the Elder wrote in detail of the many minerals and metals then in practical use – even correctly noting the origin of amber.
+'s geologic map of England, Wales, and southern Scotland. Completed in 1815, it was the second national-scale geologic map, and by far the most accurate of its time.[63]]] The study of the physical material of the Earth dates back at least to ancient Greece when Theophrastus (372–287 BCE) wrote the work _Peri Lithon_ (_On Stones_). During the Roman period, Pliny the Elder wrote in detail of the many minerals and metals then in practical use – even correctly noting the origin of amber.
 
 File:Hutton James portrait Raeburn.jpg|James Hutton, Scottish geologist and father of modern geology File:John Tuzo Wilson in 1992.jpg|John Tuzo Wilson, Canadian geophysicist and father of plate tectonics File:MSH80 david johnston at camp 05-17-80 med (cropped).jpg|The volcanologist David A. Johnston 13 hours before his death at the
 1980 eruption of Mount St. Helens

@@ -7,8 +7,6 @@ The title of Lord High Admiral of the United Kingdom was vested in the monarch f
 
 History
 
-Flag_of_the_Lord_High_Admiral_of_the_United_Kingdom.svg
-
 The office of Admiral of England (later Lord Admiral, and later Lord High Admiral) was created around 1400; there had previously been Admirals of the northern and western seas. King Henry VIII established the Council of the Marine—later to become the Navy Board—in 1546, to oversee administrative affairs of the naval service. Operational control of the Royal Navy remained the responsibility of the Lord High Admiral, who was one of the nine Great Officers of State. This management approach would continue in force in the Royal Navy until to 1832.
 
 King Charles I put the office of Lord High Admiral into commission in 1628, and control of the Royal Navy passed to a committee in the form of the Board of Admiralty. The office of Lord High Admiral passed a number of times in and out of commission until 1709, after which the office was almost permanently in commission (the last Lord High Admiral being the future King William IV in the early 19th century).
@@ -30,7 +28,7 @@ Full operational control of the Royal Navy was finally handed over to the Chief 
 
 Organizational structure
 
-Board_Room_of_Admiralty_Microcosm_edited.jpg, about 1810]]
+, about 1810]]
 
 In the 20th century the structure of the Admiralty Headquarters was predominantly organized into four parts:[8]
 
@@ -82,7 +80,7 @@ Organizational structure by time period
 
 Admiralty Buildings
 
-Admiralty_1794_Draughtsman;_Chawner,_Thomas.jpg The Admiralty complex lies between Whitehall, Horse Guards Parade and The Mall and includes five inter-connected buildings. Since the Admiralty no longer exists as a department, these buildings are now used by separate government departments:
+The Admiralty complex lies between Whitehall, Horse Guards Parade and The Mall and includes five inter-connected buildings. Since the Admiralty no longer exists as a department, these buildings are now used by separate government departments:
 
 The Admiralty
 
@@ -96,11 +94,11 @@ Admiralty House is a moderately proportioned mansion to the south of the Ripley 
 
 Admiralty Extension
 
-Admiralty_Extension_from_Horse_Guards_Parade_-_Sept_2006.jpg This is the largest of the Admiralty Buildings. It was begun in the late 19th century and redesigned while the construction was in progress to accommodate the extra offices needed by the naval arms race with the German Empire. It is a red brick building with white stone, detailing in the Queen Anne style with French influences. It has been used by the Foreign and Commonwealth Office from the 1960s to 2016. The Department for Education planned to move into the building in September 2017 following the Foreign and Commonwealth Office's decision to leave the building and consolidate its London staff into one building on King Charles Street. Change of contractor (BAM was replaced by Willmott Dixon) delayed consolidation of Department for Education to the autumn 2018[29] .
+This is the largest of the Admiralty Buildings. It was begun in the late 19th century and redesigned while the construction was in progress to accommodate the extra offices needed by the naval arms race with the German Empire. It is a red brick building with white stone, detailing in the Queen Anne style with French influences. It has been used by the Foreign and Commonwealth Office from the 1960s to 2016. The Department for Education planned to move into the building in September 2017 following the Foreign and Commonwealth Office's decision to leave the building and consolidate its London staff into one building on King Charles Street. Change of contractor (BAM was replaced by Willmott Dixon) delayed consolidation of Department for Education to the autumn 2018[29] .
 
 Admiralty Arch
 
-Admiralty_Arch_at_Dusk,_London,_UK_-_Diliff.jpg Admiralty Arch is linked to the Old Admiralty Building by a bridge and is part of the ceremonial route from Trafalgar Square to Buckingham Palace.
+Admiralty Arch is linked to the Old Admiralty Building by a bridge and is part of the ceremonial route from Trafalgar Square to Buckingham Palace.
 
 The Admiralty Citadel
 
@@ -109,7 +107,7 @@ This is a squat, windowless World War II fortress north west of Horse Guards Par
 
 "Admiralty" as a metonym for "sea power"
 
-Admiralty_Citadel2008.jpg In some cases, the term _admiralty_ is used in a wider sense, as meaning _sea power_ or _rule over the seas_, rather than in strict reference to the institution exercising such power. For example, the well-known lines from Kipling's _Song of the Dead_:
+In some cases, the term _admiralty_ is used in a wider sense, as meaning _sea power_ or _rule over the seas_, rather than in strict reference to the institution exercising such power. For example, the well-known lines from Kipling's _Song of the Dead_:
 
 
 See also

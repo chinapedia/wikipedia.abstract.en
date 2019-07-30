@@ -1,4 +1,4 @@
-upright=1.35, one of the constituent colleges of the University of Cambridge in England.]] Chapin_Hall,_Williams_College_-_Williamstown,_Massachusetts.jpg in Williamstown, Massachusetts, United States, one of the oldest liberal arts colleges in the country.]] A COLLEGE (Latin: _collegium_) is an educational institution or a constituent part of one. A college may be a degree-awarding tertiary educational institution, a part of a collegiate or federal university, an institution offering vocational education or a secondary school.
+upright=1.35, one of the constituent colleges of the University of Cambridge in England.]] in Williamstown, Massachusetts, United States, one of the oldest liberal arts colleges in the country.]] A COLLEGE (Latin: _collegium_) is an educational institution or a constituent part of one. A college may be a degree-awarding tertiary educational institution, a part of a collegiate or federal university, an institution offering vocational education or a secondary school.
 
 In the United States, "college" may refer to a constituent part of a university or to a degree-awarding tertiary educational institution, but generally "college" and "university" are used interchangeably,[1] whereas in the United Kingdom, Oceania, South Asia, Southern Africa and Canada, "college" may refer to a secondary or high school, a college of further education, a training institution that awards trade qualifications, a higher education provider that does not have university status (often without its own degree-awarding powers), or a constituent part of a university (See this comparison of British and American English educational terminology for further information).
 
@@ -22,7 +22,7 @@ Within higher education, the term can be used to refer to:[2]
 -   an institute providing specialised training, such as a college of further education, for example Belfast Metropolitan College, a teacher training college, or an art college
 -   In the United States, college is sometimes but rarely a synonym for a research university, such as Dartmouth College, one of the eight universities in the Ivy League
 
-Strand102.jpg, established by a Royal Charter in 1829, is one of the founding colleges of the University of London.]]
+, established by a Royal Charter in 1829, is one of the founding colleges of the University of London.]]
 
 Further education
 
@@ -30,7 +30,7 @@ A sixth form college or college of further education is an educational instituti
 
 Secondary education
 
-Scotch_from_chapel.JPG, an independent secondary school in Australia.]] In some national education systems, secondary schools may be called "colleges" or have "college" as part of their title.
+, an independent secondary school in Australia.]] In some national education systems, secondary schools may be called "colleges" or have "college" as part of their title.
 
 In Australia the term "college" is applied to any private or independent (non-government) primary and, especially, secondary school as distinct from a state school. Melbourne Grammar School, Cranbrook School, Sydney and The King's School, Parramatta are considered colleges.
 
@@ -40,7 +40,7 @@ In a number of Canadian cities, many government-run secondary schools are called
 
 In New Zealand the word "college" normally refers to a secondary school for ages 13 to 17 and "college" appears as part of the name especially of private or integrated schools. "Colleges" most frequently appear in the North Island, whereas "high schools" are more common in the South Island.
 
-St_Johns_College_Johannesburg.jpg, aboys' school in South Africa.]]
+, aboys' school in South Africa.]]
 
 In South Africa, some secondary schools, especially private schools on the English public school model, have "college" in their title. Thus no less than six of South Africa's Elite Seven high schools call themselves "college" and fit this description. A typical example of this category would be St John's College.
 
@@ -50,7 +50,7 @@ In Sri Lanka the word "college" (known as _Vidyalaya_ in _Sinhala_) normally ref
 
 Other
 
-Royal_College_Colombo_main_building.jpg, a boys' school located in Colombo, Sri Lanka.]]
+, a boys' school located in Colombo, Sri Lanka.]]
 
 As well as an educational institution, the term can also refer, following its etymology, to any formal group of colleagues set up under statute or regulation; often under a Royal Charter. Examples are an electoral college, the College of Arms, a college of canons, and the College of Cardinals. Other collegiate bodies include professional associations, particularly in medicine and allied professions. In the UK these include the Royal College of Nursing and the Royal College of Physicians. Examples in the United States include the American College of Physicians, the American College of Surgeons, and the American College of Dentists. An example in Australia is the Royal Australian College of General Practitioners.
 
@@ -103,7 +103,7 @@ The first liberal arts and sciences college in India was C. M. S. College Kottay
 
 Ireland
 
-Trinity_college_front_square_cropped.jpg in Ireland.]]
+in Ireland.]]
 
 In Ireland the term "college" is normally used to describe an institution of tertiary education. University students often say they attend "college" rather than "university". Until 1989, no university provided teaching or research directly; they were formally offered by a constituent college of the university.
 
@@ -139,7 +139,7 @@ Following the Portuguese usage, the term "college" (_colégio_) in Macau has tra
 
 New Zealand
 
-universityofotagoclocktower_small.jpg in New Zealand.]]
+in New Zealand.]]
 
 The constituent colleges of the former University of New Zealand (such as Canterbury University College) have become independent universities. Some halls of residence associated with New Zealand universities retain the name of "college", particularly at the University of Otago (which although brought under the umbrella of the University of New Zealand, already possessed university status and degree awarding powers). The institutions formerly known as "Teacher-training colleges" now style themselves "College of education".
 
@@ -201,27 +201,27 @@ A university college is an independent institution with the power to award taugh
 
 United States
 
-North_Academic_Center_jeh.jpg]]
+]]
 
 In the United States, there are over 7021 colleges and universities.[27] A "college" in the US formally denotes a constituent part of a university, but in popular usage, the word "college" is the generic term for any post-secondary undergraduate education. Americans "go to college" after high school, regardless of whether the specific institution is formally a college or a university. Some students choose to dual-enroll, by taking college classes while still in high school. The word and its derivatives are the standard terms used to describe the institutions and experiences associated with American post-secondary undergraduate education.
 
 Students must pay for college before taking classes. Some borrow the money via loans, and some students fund their educations with cash, scholarships, or grants, or some combination of any two or more of those payment methods. In 2011, the state or federal government subsidized $8,000 to $100,000 for each undergraduate degree. For state-owned schools (called "public" universities), the subsidy was given to the college, with the student benefiting from lower tuition.[28][29] The state subsidized on average 50% of public university tuition.[30]
 
-Alumni_Hall_1889_Sun.jpg]] Colleges vary in terms of size, degree, and length of stay. Two-year colleges, also known as junior or community colleges, usually offer an associate's degree, and four-year colleges usually offer a bachelor's degree. Often, these are entirely undergraduate institutions, although some have graduate school programs.
+]] Colleges vary in terms of size, degree, and length of stay. Two-year colleges, also known as junior or community colleges, usually offer an associate's degree, and four-year colleges usually offer a bachelor's degree. Often, these are entirely undergraduate institutions, although some have graduate school programs.
 
 Four-year institutions in the U.S. that emphasize a liberal arts curriculum are known as liberal arts colleges. Until the 20th century, liberal arts, law, medicine, theology, and divinity were about the only form of higher education available in the United States.[31] These schools have traditionally emphasized instruction at the undergraduate level, although advanced research may still occur at these institutions.
 
 While there is no national standard in the United States, the term "university" primarily designates institutions that provide undergraduate and graduate education. A university typically has as its core and its largest internal division an undergraduate college teaching a liberal arts curriculum, also culminating in a bachelor's degree. What often distinguishes a university is having, in addition, one or more graduate schools engaged in both teaching graduate classes and in research. Often these would be called a School of Law or School of Medicine, (but may also be called a college of law, or a faculty of law). An exception is Vincennes University, Indiana, which is styled and chartered as a "university" even though almost all of its academic programs lead only to two-year associate degrees. Some institutions, such as Dartmouth College and The College of William & Mary, have retained the term "college" in their names for historical reasons. In one unique case, Boston College and Boston University, the former located in Chestnut Hill, Massachusetts and the latter located in Boston, Massachusetts, are completely separate institutions.
 
-BCburnslawnsunset.jpg]] Usage of the terms varies among the states. In 1996 for example, Georgia changed all of its four-year institutions previously designated as colleges to universities, and all of its vocational technology schools to technical colleges.
+]] Usage of the terms varies among the states. In 1996 for example, Georgia changed all of its four-year institutions previously designated as colleges to universities, and all of its vocational technology schools to technical colleges.
 
-Johnson_Student_Center_and_Freeman_College_Union.jpg]] The terms "university" and "college" do not exhaust all possible titles for an American institution of higher education. Other options include "Polytechnic" (Rensselaer Polytechnic Institute), "Institute of Technology" (Massachusetts Institute of Technology), "academy" (United States Military Academy), "union" (Cooper Union), "conservatory" (New England Conservatory), and "school" (Juilliard School). In colloquial use, they are still referred to as "college" when referring to their undergraduate studies.
+]] The terms "university" and "college" do not exhaust all possible titles for an American institution of higher education. Other options include "Polytechnic" (Rensselaer Polytechnic Institute), "Institute of Technology" (Massachusetts Institute of Technology), "academy" (United States Military Academy), "union" (Cooper Union), "conservatory" (New England Conservatory), and "school" (Juilliard School). In colloquial use, they are still referred to as "college" when referring to their undergraduate studies.
 
 The term _college_ is also, as in the United Kingdom, used for a constituent semi-autonomous part of a larger university but generally organized on academic rather than residential lines. For example, at many institutions, the undergraduate portion of the university can be briefly referred to as THE COLLEGE (such as The College of the University of Chicago, Harvard College at Harvard, or Columbia College at Columbia) while at others, such as the University of California, Berkeley, each of the faculties may be called a "college" (the "college of engineering", the "college of nursing", and so forth). There exist other variants for historical reasons; for example, Duke University, which was called Trinity College until the 1920s, still calls its main undergraduate subdivision Trinity College of Arts and Sciences.
 
 Residential colleges
 
-Scripps_College_for_Women-9.jpg]] Some American universities, such as Princeton, Rice, and Yale have established residential colleges (sometimes, as at Harvard, the first to establish such a system in the 1930s, known as houses) along the lines of Oxford or Cambridge.[32] Unlike the Oxbridge colleges, but similarly to Durham, these residential colleges are not autonomous legal entities nor are they typically much involved in education itself, being primarily concerned with room, board, and social life.[33] At the University of Michigan, University of California, San Diego and the University of California, Santa Cruz, however, each of the residential colleges does teach its own core writing courses and has its own distinctive set of graduation requirements.
+]] Some American universities, such as Princeton, Rice, and Yale have established residential colleges (sometimes, as at Harvard, the first to establish such a system in the 1930s, known as houses) along the lines of Oxford or Cambridge.[32] Unlike the Oxbridge colleges, but similarly to Durham, these residential colleges are not autonomous legal entities nor are they typically much involved in education itself, being primarily concerned with room, board, and social life.[33] At the University of Michigan, University of California, San Diego and the University of California, Santa Cruz, however, each of the residential colleges does teach its own core writing courses and has its own distinctive set of graduation requirements.
 
 Many U.S. universities have placed increased emphasis on their residential colleges in recent years. This is exemplified by the creation of new colleges at Ivy League schools such as Yale University[34] and Princeton University,[35] and efforts to strengthen the contribution of the residential colleges to student education, including through a 2016 taskforce at Princeton on residential colleges.[36]
 
@@ -229,7 +229,7 @@ Origin of the U.S. usage
 
 The founders of the first institutions of higher education in the United States were graduates of the University of Oxford and the University of Cambridge. The small institutions they founded would not have seemed to them like universities – they were tiny and did not offer the higher degrees in medicine and theology. Furthermore, they were not composed of several small colleges. Instead, the new institutions felt like the Oxford and Cambridge colleges they were used to – small communities, housing and feeding their students, with instruction from residential tutors (as in the United Kingdom, described above). When the first students graduated, these "colleges" assumed the right to confer degrees upon them, usually with authority—for example, The College of William & Mary has a Royal Charter from the British monarchy allowing it to confer degrees while Dartmouth College has a charter permitting it to award degrees "as are usually granted in either of the universities, or any other college in our realm of Great Britain."
 
-Agnes_Scott_College_-_Buttrick_Hall.jpg]] The leaders of Harvard College (which granted America's first degrees in 1642) might have thought of their college as the first of many residential colleges that would grow up into a New Cambridge university. However, over time, few new colleges were founded there, and Harvard grew and added higher faculties. Eventually, it changed its title to university, but the term "college" had stuck and "colleges" have arisen across the United States.
+]] The leaders of Harvard College (which granted America's first degrees in 1642) might have thought of their college as the first of many residential colleges that would grow up into a New Cambridge university. However, over time, few new colleges were founded there, and Harvard grew and added higher faculties. Eventually, it changed its title to university, but the term "college" had stuck and "colleges" have arisen across the United States.
 
 In U.S. usage, the word "college" embodies not only a particular type of school, but has historically been used to refer to the general concept of higher education when it is not necessary to specify a school, as in "going to college" or "college savings accounts" offered by banks.
 
@@ -237,7 +237,7 @@ In a survey of more than 2,000 college students in 33 states and 156 different c
 
 Morrill Land-Grant Act
 
-SUNY_Purchase_College.jpg]] In addition to private colleges and universities, the U.S. also has a system of government funded, public universities. Many were founded under the Morrill Land-Grant Colleges Act of 1862. A movement had arisen to bring a form of more practical higher education to the masses, as "...many politicians and educators wanted to make it possible for all young Americans to receive some sort of advanced education."[38] The Morrill Act "...made it possible for the new western states to establish colleges for the citizens."[39] Its goal was to make higher education more easily accessible to the citizenry of the country, specifically to improve agricultural systems by providing training and scholarship in the production and sales of agricultural products,[40] and to provide formal education in "...agriculture, home economics, mechanical arts, and other professions that seemed practical at the time."[41]
+]] In addition to private colleges and universities, the U.S. also has a system of government funded, public universities. Many were founded under the Morrill Land-Grant Colleges Act of 1862. A movement had arisen to bring a form of more practical higher education to the masses, as "...many politicians and educators wanted to make it possible for all young Americans to receive some sort of advanced education."[38] The Morrill Act "...made it possible for the new western states to establish colleges for the citizens."[39] Its goal was to make higher education more easily accessible to the citizenry of the country, specifically to improve agricultural systems by providing training and scholarship in the production and sales of agricultural products,[40] and to provide formal education in "...agriculture, home economics, mechanical arts, and other professions that seemed practical at the time."[41]
 
 The act was eventually extended to allow all states that had remained with the Union during the American Civil War, and eventually all states, to establish such institutions. Most of the colleges established under the Morrill Act have since become full universities, and some are among the elite of the world.
 

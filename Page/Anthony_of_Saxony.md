@@ -27,7 +27,7 @@ The Electress gave birth for last time in 1799 to another stillborn child. After
 
 King of Saxony
 
-Saxony_1831_Pewter_Medal_for_the_1st_Constitution,_obverse.jpg.]] Saxony_1831_Pewter_Medal_for_the_1st_Constitution,_reverse.jpg Anton succeeded his brother Frederick August I as King of Saxony when he died, on 5 May 1827. The 71-year-old new king was completely inexperienced in government, thus he had no intention of initiating profound changes in foreign or domestic policy.
+.]] Anton succeeded his brother Frederick August I as King of Saxony when he died, on 5 May 1827. The 71-year-old new king was completely inexperienced in government, thus he had no intention of initiating profound changes in foreign or domestic policy.
 
 Prussian diplomats discussed granting the Prussian Rhineland (predominantly Catholic) to Anton (a Catholic) in exchange for Lutheran Saxony in 1827, but nothing came of these talks.[5]
 

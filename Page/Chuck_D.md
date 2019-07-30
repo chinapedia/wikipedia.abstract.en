@@ -1,4 +1,4 @@
-CARLTON DOUGLAS RIDENHOUR (born August 1, 1960), known professionally as CHUCK D, is an American rapper, author, and producer.[1] As the leader of the rap group Public Enemy, he helped create politically and socially conscious hip hop music in the mid-1980s. _The Source_ ranked him at No. 12 on their list of the Top 50 Hip-Hop Lyricists of All Time.[2] Chuck_D._Slakthuset_i_Malmö_1991.jpg 1991.]]
+CARLTON DOUGLAS RIDENHOUR (born August 1, 1960), known professionally as CHUCK D, is an American rapper, author, and producer.[1] As the leader of the rap group Public Enemy, he helped create politically and socially conscious hip hop music in the mid-1980s. _The Source_ ranked him at No. 12 on their list of the Top 50 Hip-Hop Lyricists of All Time.[2] 1991.]]
 
 
 Early life

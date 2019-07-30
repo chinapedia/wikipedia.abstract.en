@@ -32,7 +32,7 @@ History
 
 Economic writings date from earlier Mesopotamian, Greek, Roman, Indian subcontinent, Chinese, Persian, and Arab civilizations. Economic precepts occur throughout the writings of the Boeotian poet Hesiod and several economic historians have described Hesiod himself as the "first economist".[23] Other notable writers from Antiquity through to the Renaissance include Aristotle, Xenophon, Chanakya (also known as Kautilya), Qin Shi Huang, Thomas Aquinas, and Ibn Khaldun. Joseph Schumpeter described Aquinas as "coming nearer than any other group to being the "founders' of scientific economics" as to monetary, interest, and value theory within a natural-law perspective.[24]
 
-Lorrain.seaport.jpg.|alt=A seaport with a ship arriving]]
+.|alt=A seaport with a ship arriving]]
 
 Two groups, later called "mercantilists" and "physiocrats", more directly influenced the subsequent development of the subject. Both groups were associated with the rise of economic nationalism and modern capitalism in Europe. Mercantilism was an economic doctrine that flourished from the 16th to 18th century in a prolific pamphlet literature, whether of merchants or statesmen. It held that a nation's wealth depended on its accumulation of gold and silver. Nations without access to mines could obtain gold and silver from trade only by selling goods abroad and restricting imports other than of gold and silver. The doctrine called for importing cheap raw materials to be used in manufacturing goods, which could be exported, and for state regulation to impose protective tariffs on foreign manufactured goods and prohibit manufacturing in the colonies.[25]
 
@@ -42,7 +42,7 @@ Adam Smith (1723–1790) was an early economic theorist.[27] Smith was harshly c
 
 Classical political economy
 
-AdamSmith.jpg's _The Wealth of Nations_ in 1776 is considered to be the first formalisation of economic thought.|alt=Picture of Adam Smith facing to the right]]
+'s _The Wealth of Nations_ in 1776 is considered to be the first formalisation of economic thought.|alt=Picture of Adam Smith facing to the right]]
 
 The publication of Adam Smith's _The Wealth of Nations_ in 1776, has been described as "the effective birth of economics as a separate discipline." The book identified land, labour, and capital as the three factors of production and the major contributors to a nation's wealth, as distinct from the physiocratic idea that only agriculture was productive.
 
@@ -60,7 +60,7 @@ Value theory was important in classical theory. Smith wrote that the "real price
 
 Marxism
 
-Karl_Marx_001.jpg.|alt=Photograph of Karl Marx facing the viewer]]
+.|alt=Photograph of Karl Marx facing the viewer]]
 
 Marxist (later, Marxian) economics descends from classical economics. It derives from the work of Karl Marx. The first volume of Marx's major work, _Das Kapital_, was published in German in 1867. In it, Marx focused on the labour theory of value and the theory of surplus value which, he believed, explained the exploitation of labour by capital.[37] The labour theory of value held that the value of an exchanged commodity was determined by the labour that went into its production and the theory of surplus value demonstrated how the workers only got paid a proportion of the value their work had created.[38]
 
@@ -84,7 +84,7 @@ The continuous interplay (exchange or trade) done by economic actors in all mark
 
 Keynesian economics
 
-WhiteandKeynes.jpg (right), was a key theorist in economics.]]
+(right), was a key theorist in economics.]]
 
 Keynesian economics derives from John Maynard Keynes, in particular his book _The General Theory of Employment, Interest and Money_ (1936), which ushered in contemporary macroeconomics as a distinct field.[50] The book focused on determinants of national income in the short run when prices are relatively inflexible. Keynes attempted to explain in broad theoretical detail why high labour-market unemployment might not be self-correcting due to low "effective demand" and why even price flexibility and monetary policy might be unavailing. The term "revolutionary" has been applied to the book in its impact on economic analysis.[51]
 
@@ -129,7 +129,7 @@ Microeconomics
 
 Markets
 
-Ballard_Farmers'_Market_-_vegetables.jpg.|alt=A vegetable vendor in a marketplace.]] Sao_Paulo_Stock_Exchange.jpg brings together buyers and sellers through an electronic trading platform and network to create virtual market places. Pictured: São Paulo Stock Exchange, Brazil.|alt=Two traders sit at computer monitors with financial information.]] Microeconomics examines how entities, forming a market structure, interact within a market to create a market system. These entities include private and public players with various classifications, typically operating under scarcity of tradable units and light government regulation. The item traded may be a tangible product such as apples or a service such as repair services, legal counsel, or entertainment.
+.|alt=A vegetable vendor in a marketplace.]] brings together buyers and sellers through an electronic trading platform and network to create virtual market places. Pictured: São Paulo Stock Exchange, Brazil.|alt=Two traders sit at computer monitors with financial information.]] Microeconomics examines how entities, forming a market structure, interact within a market to create a market system. These entities include private and public players with various classifications, typically operating under scarcity of tradable units and light government regulation. The item traded may be a tangible product such as apples or a service such as repair services, legal counsel, or entertainment.
 
 In theory, in a free market the aggregates (sum of) of _quantity demanded_ by buyers and _quantity supplied_ by sellers may reach economic equilibrium over time in reaction to price changes; in practice, various issues may prevent equilibrium, and any equilibrium reached may not necessarily be morally equitable. For example, if the supply of healthcare services is limited by external factors, the equilibrium price may be unaffordable for many who desire it but cannot pay for it.
 
@@ -149,7 +149,7 @@ Inputs used in the production process include such primary factors of production
 
 Economic efficiency measures how well a system generates desired output with a given set of inputs and available technology. Efficiency is improved if more output is generated without changing inputs, or in other words, the amount of "waste" is reduced. A widely accepted general standard is Pareto efficiency, which is reached when no further change can make someone better off without making someone else worse off.
 
-Production_Possibilities_Frontier_Curve.svg with illustrative points marked.]] The production–possibility frontier (PPF) is an expository figure for representing scarcity, cost, and efficiency. In the simplest case an economy can produce just two goods (say "guns" and "butter"). The PPF is a table or graph (as at the right) showing the different quantity combinations of the two goods producible with a given technology and total factor inputs, which limit feasible total output. Each point on the curve shows potential total output for the economy, which is the maximum feasible output of one good, given a feasible output quantity of the other good.
+with illustrative points marked.]] The production–possibility frontier (PPF) is an expository figure for representing scarcity, cost, and efficiency. In the simplest case an economy can produce just two goods (say "guns" and "butter"). The PPF is a table or graph (as at the right) showing the different quantity combinations of the two goods producible with a given technology and total factor inputs, which limit feasible total output. Each point on the curve shows potential total output for the economy, which is the maximum feasible output of one good, given a feasible output quantity of the other good.
 
 Scarcity is represented in the figure by people being willing but unable in the aggregate to consume _beyond the PPF_ (such as at _X_) and by the negative slope of the curve.[67] If production of one good _increases_ along the curve, production of the other good _decreases_, an inverse relationship. This is because increasing output of one good requires transferring inputs to it from production of the other good, decreasing the latter.
 
@@ -161,7 +161,7 @@ Much applied economics in public policy is concerned with determining how the ef
 
 Specialization
 
-Late_Medieval_Trade_Routes.jpgs for goods within late medieval Europe.]] Specialization is considered key to economic efficiency based on theoretical and empirical considerations. Different individuals or nations may have different real opportunity costs of production, say from differences in stocks of human capital per worker or capital/labour ratios. According to theory, this may give a comparative advantage in production of goods that make more intensive use of the relatively more abundant, thus _relatively_ cheaper, input.
+s for goods within late medieval Europe.]] Specialization is considered key to economic efficiency based on theoretical and empirical considerations. Different individuals or nations may have different real opportunity costs of production, say from differences in stocks of human capital per worker or capital/labour ratios. According to theory, this may give a comparative advantage in production of goods that make more intensive use of the relatively more abundant, thus _relatively_ cheaper, input.
 
 Even if one region has an absolute advantage as to the ratio of its outputs to inputs in every type of output, it may still specialize in the output in which it has a comparative advantage and thereby gain from trading with a region that lacks any absolute advantage but has a comparative advantage in producing something else.
 
@@ -175,7 +175,7 @@ Theory and observation set out the conditions such that market prices of outputs
 
 Supply and demand
 
-Supply-demand-right-shift-demand.svg model describes how prices vary as a result of a balance between product availability and demand. The graph depicts an increase (that is, right-shift) in demand from D₁ to D₂ along with the consequent increase in price and quantity required to reach a new equilibrium point on the supply curve (S).|alt=A graph depicting Quantity on the X-axis and Price on the Y-axis]]
+model describes how prices vary as a result of a balance between product availability and demand. The graph depicts an increase (that is, right-shift) in demand from D₁ to D₂ along with the consequent increase in price and quantity required to reach a new equilibrium point on the supply curve (S).|alt=A graph depicting Quantity on the X-axis and Price on the Y-axis]]
 
 Prices and quantities have been described as the most directly observable attributes of goods produced and exchanged in a market economy.[72] The theory of supply and demand is an organizing principle for explaining how prices coordinate the amounts produced and consumed. In microeconomics, it applies to price and output determination for a market with perfect competition, which includes the condition of no buyers or sellers large enough to have price-setting power.
 
@@ -223,7 +223,7 @@ Both problems may raise insurance costs and reduce efficiency by driving otherwi
 
 Market failure
 
-Smokestack_in_Detroit.jpg can be a simple example of market failure. If costs of production are not borne by producers but are by the environment, accident victims or others, then prices are distorted.|alt=A smokestack releasing smoke]]
+can be a simple example of market failure. If costs of production are not borne by producers but are by the environment, accident victims or others, then prices are distorted.|alt=A smokestack releasing smoke]]
 
 The term "market failure" encompasses several problems which may undermine standard economic assumptions. Although economists categorize market failures differently, the following categories emerge in the main texts.
 
@@ -237,7 +237,7 @@ Externalities occur where there are significant social costs or benefits from pr
 
 In many areas, some form of price stickiness is postulated to account for quantities, rather than prices, adjusting in the short run to changes on the demand side or the supply side. This includes standard analysis of the business cycle in macroeconomics. Analysis often revolves around causes of such price stickiness and their implications for reaching a hypothesized long-run equilibrium. Examples of such price stickiness in particular markets include wage rates in labour markets and posted prices in markets deviating from perfect competition.
 
-Field_Trip-_water_sampling.jpg sampling water|alt=A woman takes samples of water from a river.]]
+sampling water|alt=A woman takes samples of water from a river.]]
 
 Some specialized fields of economics deal in market failure more than others. The economics of the public sector is one example. Much environmental economics concerns externalities or "public bads".
 
@@ -254,7 +254,7 @@ Welfare economics is a normative branch of economics that uses microeconomic tec
 
 Macroeconomics
 
-DiagFuncMacroSyst.pdf in a macroeconomic model.]]
+in a macroeconomic model.]]
 
 Macroeconomics examines the economy as a whole to explain broad aggregates and their interactions "top down", that is, using a simplified form of general-equilibrium theory. Such aggregates include national income and output, the unemployment rate, and price inflation and subaggregates like total consumption and investment spending and their components. It also studies effects of monetary policy and fiscal policy.
 
@@ -270,7 +270,7 @@ Much-studied factors include the rate of investment, population growth, and tech
 
 Business cycle
 
-Economic_cycle.svg.]]
+.]]
 
 The economics of a depression were the spur for the creation of "macroeconomics" as a separate discipline. During the Great Depression of the 1930s, John Maynard Keynes authored a book entitled _The General Theory of Employment, Interest and Money_ outlining the key theories of Keynesian economics. Keynes contended that aggregate demand for goods might be insufficient during economic downturns, leading to unnecessarily high unemployment and losses of potential output.
 
@@ -286,7 +286,7 @@ Thus, the new classicals assume that prices and wages adjust automatically to at
 
 Unemployment
 
-US_employment_1995-2012.png, 1995–2012.]] The amount of unemployment in an economy is measured by the unemployment rate, the percentage of workers without jobs in the labour force. The labour force only includes workers actively looking for jobs. People who are retired, pursuing education, or discouraged from seeking work by a lack of job prospects are excluded from the labour force. Unemployment can be generally broken down into several types that are related to different causes.[104]
+, 1995–2012.]] The amount of unemployment in an economy is measured by the unemployment rate, the percentage of workers without jobs in the labour force. The labour force only includes workers actively looking for jobs. People who are retired, pursuing education, or discouraged from seeking work by a lack of job prospects are excluded from the labour force. Unemployment can be generally broken down into several types that are related to different causes.[104]
 
 Classical models of unemployment occurs when wages are too high for employers to be willing to hire more workers. Consistent with classical unemployment, frictional unemployment occurs when appropriate job vacancies exist for a worker, but the length of time needed to search for and find the job leads to a period of unemployment.[105]
 
@@ -315,7 +315,7 @@ Sceptics of fiscal policy also make the argument of Ricardian equivalence. They 
 
 International economics
 
-Countries_by_GDP_(PPP)_Per_Capita_in_2014.svg International trade studies determinants of goods-and-services flows across international boundaries. It also concerns the size and distribution of gains from trade. Policy applications include estimating the effects of changing tariff rates and trade quotas. International finance is a macroeconomic field which examines the flow of capital across international borders, and the effects of these movements on exchange rates. Increased trade in goods, services and capital between countries is a major effect of contemporary globalization.[111]
+International trade studies determinants of goods-and-services flows across international boundaries. It also concerns the size and distribution of gains from trade. Policy applications include estimating the effects of changing tariff rates and trade quotas. International finance is a macroeconomic field which examines the flow of capital across international borders, and the effects of these movements on exchange rates. Increased trade in goods, services and capital between countries is a major effect of contemporary globalization.[111]
 
 
 Development economics

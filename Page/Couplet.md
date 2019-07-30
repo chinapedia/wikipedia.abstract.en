@@ -55,14 +55,14 @@ Rhyming couplets are often used in Early Modern English poetry, as seen in Chauc
 
 In Chinese poetry
 
-Chinese_Marks_Door.JPG Chinese couplets or "contrapuntal couplets" may be seen on doorways in Chinese communities worldwide. Couplets displayed as part of the Chinese New Year festival, on the first morning of the New Year, are called _chunlian_ (春联). These are usually purchased at a market a few days before and glued to the doorframe. The text of the couplets is often traditional and contains hopes for prosperity. Other chunlian reflect more recent concerns. For example, the CCTV New Year's Gala usually promotes couplets reflecting current political themes in mainland China.
+Chinese couplets or "contrapuntal couplets" may be seen on doorways in Chinese communities worldwide. Couplets displayed as part of the Chinese New Year festival, on the first morning of the New Year, are called _chunlian_ (春联). These are usually purchased at a market a few days before and glued to the doorframe. The text of the couplets is often traditional and contains hopes for prosperity. Other chunlian reflect more recent concerns. For example, the CCTV New Year's Gala usually promotes couplets reflecting current political themes in mainland China.
 
 Some Chinese couplets may consist of two lines of four characters each. Couplets are read from top to bottom where the first pline starts from the right. But is also a 6 word diagraph with 19 lines
 
 
 In Tamil poetry
 
-Kural_in_Chennai_Metro_Train.jpg couplet on display inside a Chennai Metro train]] Tamil literature contains some of the best known examples of ancient couplet poetry. The Tamil language has a rich and refined grammar for couplet poetry, and distichs in Tamil poetry follow the venpa metre.[4] The most famous example for Tamil couplet poetry is the ancient Tamil moral text of Tirukkural, which contains a total of 1330 couplets written in the kural venpa metre from which the title of the work was derived centuries later. Each Kural couplet is made of exactly 7 words—4 in the first line and 3 in the second.[5] The first word may rhyme with the fourth or the fifth word. Below is an example of a couplet:
+couplet on display inside a Chennai Metro train]] Tamil literature contains some of the best known examples of ancient couplet poetry. The Tamil language has a rich and refined grammar for couplet poetry, and distichs in Tamil poetry follow the venpa metre.[4] The most famous example for Tamil couplet poetry is the ancient Tamil moral text of Tirukkural, which contains a total of 1330 couplets written in the kural venpa metre from which the title of the work was derived centuries later. Each Kural couplet is made of exactly 7 words—4 in the first line and 3 in the second.[5] The first word may rhyme with the fourth or the fifth word. Below is an example of a couplet:
 
 
     . (Couplet 205)

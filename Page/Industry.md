@@ -22,12 +22,12 @@ Since the Industrial Revolution
 
 Industrial development
 
-Regenerative-thermal-oxidizer-logistics.jpg have enabled the rapid development of industry. Here is a thermal oxidizer during the industrial shipping process.]] Kunda_tsemenditehas.jpg factory in Kunda, Estonia)]] The Industrial Revolution led to the development of factories for large-scale production with consequent changes in society.[12] Originally the factories were steam-powered, but later transitioned to electricity once an electrical grid was developed. The mechanized assembly line was introduced to assemble parts in a repeatable fashion, with individual workers performing specific steps during the process. This led to significant increases in efficiency, lowering the cost of the end process. Later automation was increasingly used to replace human operators. This process has accelerated with the development of the computer and the robot.
+have enabled the rapid development of industry. Here is a thermal oxidizer during the industrial shipping process.]] factory in Kunda, Estonia)]] The Industrial Revolution led to the development of factories for large-scale production with consequent changes in society.[12] Originally the factories were steam-powered, but later transitioned to electricity once an electrical grid was developed. The mechanized assembly line was introduced to assemble parts in a repeatable fashion, with individual workers performing specific steps during the process. This led to significant increases in efficiency, lowering the cost of the end process. Later automation was increasingly used to replace human operators. This process has accelerated with the development of the computer and the robot.
 
 
 Deindustrialisation
 
-Clark's_Sector_Model.png's sector model of an economy undergoing technological change. In later stages, the Quaternary sector of the economy grows.]]
+'s sector model of an economy undergoing technological change. In later stages, the Quaternary sector of the economy grows.]]
 
 Historically certain manufacturing industries have gone into a decline due to various economic factors, including the development of replacement technology or the loss of competitive advantage. An example of the former is the decline in carriage manufacturing when the automobile was mass-produced.
 
@@ -45,12 +45,12 @@ An industrial society is a society driven by the use of technology to enable mas
 
 Industrial labour
 
-Worker_9.JPG amidst heavy steel components (KINEX BEARINGS, Bytča, Slovakia, c. 1995–2000)]] In an industrial society, industry employs a major part of the population. This occurs typically in the manufacturing sector. A labour union is an organization of workers who have banded together to achieve common goals in key areas such as wages, hours, and other working conditions. The trade union, through its leadership, bargains with the employer on behalf of union members (rank and file members) and negotiates labour contracts with employers. This movement first rose among industrial workers.
+amidst heavy steel components (KINEX BEARINGS, Bytča, Slovakia, c. 1995–2000)]] In an industrial society, industry employs a major part of the population. This occurs typically in the manufacturing sector. A labour union is an organization of workers who have banded together to achieve common goals in key areas such as wages, hours, and other working conditions. The trade union, through its leadership, bargains with the employer on behalf of union members (rank and file members) and negotiates labour contracts with employers. This movement first rose among industrial workers.
 
 
 War
 
-Airacobra_P39_Assembly_LOC_02902u.jpg (Wheatfield, New York, United States, 1944) producing P-39 Airacobra fighters]] The Industrial Revolution changed warfare, with mass-produced weaponry and supplies, machine-powered transportation, mobilization, the total war concept and weapons of mass destruction. Early instances of industrial warfare were the Crimean War and the American Civil War, but its full potential showed during the world wars. See also military-industrial complex, arms industries, military industry and modern warfare.
+(Wheatfield, New York, United States, 1944) producing P-39 Airacobra fighters]] The Industrial Revolution changed warfare, with mass-produced weaponry and supplies, machine-powered transportation, mobilization, the total war concept and weapons of mass destruction. Early instances of industrial warfare were the Crimean War and the American Civil War, but its full potential showed during the world wars. See also military-industrial complex, arms industries, military industry and modern warfare.
 
 
 List of countries by industrial output

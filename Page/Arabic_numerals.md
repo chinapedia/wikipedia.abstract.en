@@ -11,11 +11,11 @@ History
 
 Origins
 
-Gwalior_zeros.jpg. Dated to the 9th century.[6][7]]]
+. Dated to the 9th century.[6][7]]]
 
 The decimal Hindu–Arabic numeral system with zero was developed in India by around AD 700.[8] The development was gradual, spanning several centuries, but the decisive step was probably provided by Brahmagupta's formulation of zero as a number in AD 628. Prior to Brahmagupta, zero was in use various forms but was regarded as a 'blank spot' (_sunya sthana_) in a positional number. It was only used by mathematicians (_ganakas_—people doing calculations) while the general populace used the traditional Brahmi numerals. After 700 AD, the decimal numbers with zero replaced the Brahmi numerals. The system was revolutionary by limiting the number of individual digits to ten. It is considered an important milestone in the development of mathematics.
 
-Bakhshali_numerals_2.jpg, dated to sometime between the 3rd and 7th century AD.]] EgyptphoneKeypad.jpg on the right]]
+, dated to sometime between the 3rd and 7th century AD.]] on the right]]
 
 The numeral system came to be known to the court of Baghdad, where mathematicians such as the Persian Al-Khwarizmi, whose book _On the Calculation with Hindu Numerals_ was written about 825 in Arabic, and the Arab mathematician Al-Kindi, who wrote four volumes, _On the Use of the Indian Numerals_ (_Ketab fi Isti'mal al-'Adad al-Hindi_) about 830, propagated it in the Arab world. Their work was principally responsible for the diffusion of the Indian system of numeration in the Middle East and the West.[9]
 
@@ -33,7 +33,7 @@ Some popular myths have argued that the original forms of these symbols indicate
 
 Adoption in Europe
 
-The_Brahmi_numeral_system_and_its_descendants.png Petrus_Astronomus_Astronomical_clock_in_Uppsala_Cathedral.jpg of Uppsala Cathedral, with two clockfaces, one with Arabic and one with Roman numerals.]] Ms.Thott.290.2º_150v.jpg Thott, 1459). At this time, knowledge of the numerals was still widely seen as esoteric, and Talhoffer presents them with the Hebrew alphabet and astrology.]] Clock-french-republic.jpg
+of Uppsala Cathedral, with two clockfaces, one with Arabic and one with Roman numerals.]] Thott, 1459). At this time, knowledge of the numerals was still widely seen as esoteric, and Talhoffer presents them with the Hebrew alphabet and astrology.]]
 
 In 825 Al-Khwārizmī wrote a treatise in Arabic, _On the Calculation with Hindu Numerals_,[17] which survives only as the 12th-century Latin translation, _Algoritmi de numero Indorum_.[18][19] _Algoritmi_, the translator's rendition of the author's name, gave rise to the word _algorithm_.[20]
 
@@ -59,7 +59,7 @@ Cyrillic numerals were a numbering system derived from the Cyrillic alphabet, us
 
 Adoption in China
 
-Yuan_dynasty_iron_magic_square.jpg in Persian/ Arabic numbers from China, dating to the Yuan Dynasty (1271–1368).]]
+in Persian/ Arabic numbers from China, dating to the Yuan Dynasty (1271–1368).]]
 
 Arabic numerals were introduced to China during the Yuan Dynasty (1271–1368) by the Muslim Hui people. In the early 17th century, European-style Arabic numerals were introduced by Spanish and Portuguese Jesuits.[28][29][30]
 
@@ -73,8 +73,6 @@ The numeral system employed, known as algorism, is positional decimal notation. 
 -   The Devanagari numerals used with Devanagari and related variants are grouped as Indian numerals.
 
 The evolution of the numerals in early Europe is shown here in a table created by the French scholar Jean-Étienne Montucla in his _Histoire de la Mathematique_, which was published in 1757:
-
-EuropeanFormOfArabianDigits.png
 
 Encoding
 

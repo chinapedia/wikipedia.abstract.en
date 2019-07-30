@@ -1,5 +1,3 @@
-Haithabu_Haddebyer_Noor_WT2005.jpg Denmark_vikings_3.jpg SchleiSlien.png
-
 HEDEBY (, Old Norse _Heiðabýr_, German _Haithabu_) was an important Danish Viking Age (8th to the 11th centuries) trading settlement near the southern end of the Jutland Peninsula, now in the Schleswig-Flensburg district of Schleswig-Holstein, Germany. It is the most important archaeological site in Schleswig-Holstein.
 
 The settlement developed as a trading centre at the head of a narrow, navigable inlet known as the Schlei, which connects to the Baltic Sea. The location was favorable because there is a short portage of less than 15 km to the Treene River, which flows into the Eider with its North Sea estuary, making it a convenient place where goods and ships could be pulled on a corduroy road overland for an almost uninterrupted seaway between the Baltic and the North Sea and avoid a dangerous and time-consuming circumnavigation of Jutland, providing Hedeby with a role similar to later Lübeck. Hedeby was the second largest Nordic town during the Viking Age, after Uppåkra in present-day southern Sweden,[1] The city of Schleswig was later founded on the other side of the Schlei. Hedeby was abandoned after its destruction in 1066.
@@ -24,8 +22,6 @@ Sources from the 9th and 10th century AD also attest to the names _Sliesthorp_ a
 
 
 History
-
-Haithabu_Haeuser_WT2005.jpg
 
 Origins
 
@@ -91,13 +87,9 @@ Archaeology
 
 After the settlement was abandoned, rising waters contributed to the complete disappearance of all visible structures on the site. It was even forgotten where the settlement had been. This proved to be fortunate for later archaeological work at the site.
 
-File_Haithabu_Wikinger_Museum_3_28-03-2010.jpg
-
 Archaeological work began at the site in 1900 after the rediscovery of the settlement. Excavations were conducted for the next 15 years. Further excavations were carried out between 1930 and 1939. Archaeological work on the site was productive for two main reasons: that the site had never been built on since its destruction some 840 years earlier, and that the permanently waterlogged ground had preserved wood and other perishable materials. After the Second World War, in 1959, archaeological work was started again and has continued intermittently ever since. The embankments surrounding the settlement were excavated, and the harbour was partially dredged, during which the wreck of a Viking ship was discovered. Despite all this work, only 5% of the settlement (and only 1% of the harbour) has as yet been investigated.
 
 The most important finds resulting from the excavations are now on display in the adjoining Haithabu Museum.
-
-Hedebyhouses010.jpg
 
 21st-century reconstructions
 

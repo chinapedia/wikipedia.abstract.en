@@ -5,7 +5,7 @@ As a novelist, Pasternak is also known as the author of _Doctor Zhivago_ (1957),
 
 Early life
 
-Pasternak_boris_alex.jpg]]
+]]
 
 Pasternak was born in Moscow on 10 February, (Gregorian), 1890 (Julian 29 January) into a wealthy assimilated Jewish family.[5] His father was the Post-Impressionist painter, Leonid Pasternak, professor at the Moscow School of Painting, Sculpture, and Architecture. His mother was Rosa Kaufman, a concert pianist and the daughter of Odessa industrialist Isadore Kaufman and his wife. Pasternak had a younger brother Alex and sisters Lydia and Josephine. The family claimed to be descended on the paternal line from Isaac Abrabanel, the famous 15th-century Sephardic Jewish treasurer of Portugal.[6]
 
@@ -17,7 +17,7 @@ In a 1959 letter to Jacqueline de Proyart, Pasternak recalled,
 
 Shortly after his birth, Pasternak's parents had joined the Tolstoyan Movement. Novelist Leo Tolstoy was a close family friend, as Pasternak recalled, "my father illustrated his books, went to see him, revered him, and ...the whole house was imbued with his spirit."[7]
 
-Boris_Pasternak_in_youth.jpg In a 1956 essay, Pasternak recalled his father's feverish work creating illustrations for Tolstoy's novel _Resurrection_.[8] The novel was serialized in the journal _Niva_ by the publisher Fyodor Marx, based in St Petersburg. The sketches were drawn from observations in such places as courtrooms, prisons and on trains, in a spirit of realism. To ensure that the sketches met the journal deadline, train conductors were enlisted to personally collect the illustrations. Pasternak wrote,
+In a 1956 essay, Pasternak recalled his father's feverish work creating illustrations for Tolstoy's novel _Resurrection_.[8] The novel was serialized in the journal _Niva_ by the publisher Fyodor Marx, based in St Petersburg. The sketches were drawn from observations in such places as courtrooms, prisons and on trains, in a spirit of realism. To ensure that the sketches met the journal deadline, train conductors were enlisted to personally collect the illustrations. Pasternak wrote,
 
 According to Max Hayward, "In November 1910, when Tolstoy fled from his home and died in the stationmaster's house at Astapovo, Leonid Pasternak was informed by telegram and he went there immediately, taking his son Boris with him, and made a drawing of Tolstoy on his deathbed."[9]
 
@@ -36,7 +36,7 @@ The cousins' initial passion developed into a lifelong close friendship. From 19
 
 Ida Wissotzkaya
 
-BORIS_BESIDE_THE_BALTIC_AT_MEREKULE,_1910_by_L.Pasternak.jpg Pasternak fell in love with Ida Wissotzkaya, a girl from a notable Moscow Jewish family of tea merchants, whose company Wissotzky Tea was the largest tea company in the world. Pasternak had tutored her in the final class of high school. He helped her prepare for finals. They met in Marburg during the summer of 1912 when Boris' father, Leonid Pasternak, painted her portrait.[13]
+Pasternak fell in love with Ida Wissotzkaya, a girl from a notable Moscow Jewish family of tea merchants, whose company Wissotzky Tea was the largest tea company in the world. Pasternak had tutored her in the final class of high school. He helped her prepare for finals. They met in Marburg during the summer of 1912 when Boris' father, Leonid Pasternak, painted her portrait.[13]
 
 Although Professor Cohen encouraged him to remain in Germany and to pursue a Philosophy doctorate, Pasternak decided against it. He returned to Moscow upon the outbreak of World War I. His first book of poems was published later that year. In the aftermath, Pasternak proposed marriage to Ida. However, the Wissotzky family was disturbed by Pasternak's poor prospects and persuaded Ida to refuse him. She turned him down and he told of his love and rejection in the poem "Marburg" (1917):[14]
 
@@ -44,15 +44,15 @@ Although Professor Cohen encouraged him to remain in Germany and to pursue a Phi
 
 Another failed love affair in 1917 inspired the poems in his first book, _My Sister, Life_. His early verse cleverly dissimulates his preoccupation with Immanuel Kant's philosophy. Its fabric includes striking alliterations, wild rhythmic combinations, day-to-day vocabulary, and hidden allusions to his favourite poets such as Rilke, Lermontov, Pushkin and German-language Romantic poets.
 
-Boris_Pasternak_1920.jpg During World War I, Pasternak taught and worked at a chemical factory in Vsevolodovo-Vilve near Perm, which undoubtedly provided him with material for _Dr. Zhivago_ many years later. Unlike the rest of his family and many of his closest friends, Pasternak chose not to leave Russia after the October Revolution of 1917. According to Max Hayward,
+During World War I, Pasternak taught and worked at a chemical factory in Vsevolodovo-Vilve near Perm, which undoubtedly provided him with material for _Dr. Zhivago_ many years later. Unlike the rest of his family and many of his closest friends, Pasternak chose not to leave Russia after the October Revolution of 1917. According to Max Hayward,
 
-Mayakovsky_Pasternak.jpg, Sergei Eisenstein (third from left) and Vladimir Mayakovsky (centre)]] When it finally was published in 1921, Pasternak's _My Sister, Life_ revolutionised Russian poetry. It made Pasternak the model for younger poets, and decisively changed the poetry of Osip Mandelshtam, Marina Tsvetayeva and others.
+, Sergei Eisenstein (third from left) and Vladimir Mayakovsky (centre)]] When it finally was published in 1921, Pasternak's _My Sister, Life_ revolutionised Russian poetry. It made Pasternak the model for younger poets, and decisively changed the poetry of Osip Mandelshtam, Marina Tsvetayeva and others.
 
 Following _My Sister, Life_, Pasternak produced some hermetic pieces of uneven quality, including his masterpiece, the lyric cycle _Rupture_ (1921). Both Pro-Soviet writers and their White emigre equivalents applauded Pasternak's poetry as pure, unbridled inspiration.
 
 In the late 1920s, he also participated in the much celebrated tripartite correspondence with Rilke and Tsvetayeva.[15] As the 1920s wore on, however, Pasternak increasingly felt that his colourful style was at odds with a less educated readership. He attempted to make his poetry more comprehensible by reworking his earlier pieces and starting two lengthy poems on the Russian Revolution of 1905. He also turned to prose and wrote several autobiographical stories, notably "The Childhood of Luvers" and "Safe Conduct".
 
-Boris_Pasternak_with_family_1920s.jpg In 1922 Pasternak married Evgeniya Lurye (Евгения Лурье), a student at the Art Institute. The following year they had a son, Evgenii.
+In 1922 Pasternak married Evgeniya Lurye (Евгения Лурье), a student at the Art Institute. The following year they had a son, Evgenii.
 
 Evidence of Pasternak's support of still-revolutionary members of the leadership of the Communist Party as late as 1926 is indicated by his worshipful poem "In Memory of Reissner"[16] presumably written upon the shockingly premature death from typhus of legendary Bolshevik leader Larisa Reisner at age 30 in February of that year.
 
@@ -152,7 +152,7 @@ In a letter written to his sister Josephine, however, Pasternak recalled the wor
 
 Nobel Prize
 
-Miniature_Volume_of_Pasternak's_Doctor_Zhivago_-_Flickr_-_The_Central_Intelligence_Agency.jpg. The front cover and the binding identify the book in Russian; the back of the book states that it was printed in France.]]
+. The front cover and the binding identify the book in Russian; the back of the book states that it was printed in France.]]
 
 According to Yevgeni Borisovich Pasternak, "Rumors that Pasternak was to receive the Nobel Prize started right after the end of World War II. According to the former Nobel Committee head Lars Gyllensten, his nomination was discussed every year from 1946 to 1950, then again in 1957 (it was finally awarded in 1958). Pasternak guessed at this from the growing waves of criticism in USSR. Sometimes he had to justify his European fame: 'According to the Union of Soviet Writers, some literature circles of the West see unusual importance in my work, not matching its modesty and low productivity…'"[53]
 
@@ -188,7 +188,7 @@ Meanwhile, Bill Mauldin produced a political cartoon which won the 1959 Pulitzer
 
 Last years
 
-Dommuzejpasternak.jpg in Peredelkino, where he lived between 1936 and 1960]] Pasternak's post-_Zhivago_ poetry probes the universal questions of love, immortality, and reconciliation with God.[75][76] Boris Pasternak wrote his last complete book, _When the Weather Clears_, in 1959.
+in Peredelkino, where he lived between 1936 and 1960]] Pasternak's post-_Zhivago_ poetry probes the universal questions of love, immortality, and reconciliation with God.[75][76] Boris Pasternak wrote his last complete book, _When the Weather Clears_, in 1959.
 
 According to Ivinskaya, Pasternak continued to stick to his daily writing schedule even during the controversy over _Doctor Zhivago_. He also continued translating the writings of Juliusz Słowacki and Pedro Calderón de la Barca. In his work on Calderon, Pasternak received the discreet support of Nikolai Mikhailovich Liubimov, a senior figure in the Party's literary apparatus. Ivinskaya describes Liubimov as, "a shrewd and enlightened person who understood very well that all the mudslinging and commotion over the novel would be forgotten, but that there would always be a Pasternak."[77] In a letter to his sisters in Oxford, England, Pasternak claimed to have finished translating one of Calderon's plays in less than a week.[78]
 
@@ -222,7 +222,7 @@ As the spectators cheered, the bells of Peredelkino's Church of the Transfigurat
 
 Legacy
 
-Boris_Pasternak_2015_stamp_of_Albania.jpg After Pasternak's death, Olga Ivinskaya was arrested for the second time, with her daughter, Irina Emelyanova. Both were accused of being Pasternak's link with Western publishers and of dealing in hard currency for _Doctor Zhivago_. All of Pasternak's letters to Ivinskaya, as well as many other manuscripts and documents, were seized by the KGB. The KGB quietly released them, Irina after one year, in 1962, and Olga in 1964.[88] By this time, Ivinskaya had served four years of an eight-year sentence, in retaliation for her role in _Doctor Zhivago_'s publication.[89] In 1978, her memoirs were smuggled abroad and published in Paris. An English translation by Max Hayward was published the same year under the title _A Captive of Time: My Years with Pasternak_.
+After Pasternak's death, Olga Ivinskaya was arrested for the second time, with her daughter, Irina Emelyanova. Both were accused of being Pasternak's link with Western publishers and of dealing in hard currency for _Doctor Zhivago_. All of Pasternak's letters to Ivinskaya, as well as many other manuscripts and documents, were seized by the KGB. The KGB quietly released them, Irina after one year, in 1962, and Olga in 1964.[88] By this time, Ivinskaya had served four years of an eight-year sentence, in retaliation for her role in _Doctor Zhivago_'s publication.[89] In 1978, her memoirs were smuggled abroad and published in Paris. An English translation by Max Hayward was published the same year under the title _A Captive of Time: My Years with Pasternak_.
 
 Ivinskaya was rehabilitated only in 1988. After the dissolution of the Soviet Union, Ivinskaya sued for the return of the letters and documents seized by the KGB in 1961. The Russian Supreme Court ultimately ruled against her, stating that, "there was no proof of ownership," and that the, "papers should remain in the state archive".[90] Olga Ivinskaya died of cancer on 8 September 1995.[91] A reporter on NTV compared her role to that of other famous muses for Russian poets: "As Pushkin would not be complete without Anna Kern, and Yesenin would be nothing without Isadora, so Pasternak would not be Pasternak without Olga Ivinskaya, who was his inspiration for _Doctor Zhivago_.".[92]
 

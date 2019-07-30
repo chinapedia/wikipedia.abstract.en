@@ -2,8 +2,6 @@ DISK STORAGE (also sometimes called DRIVE STORAGE) is a general category of stor
 
 (The spelling DISK and DISC are used interchangeably except where trademarks preclude one usage, e.g. the Compact Disc logo. The choice of a particular form is frequently historical, as in IBM's usage of the _disk_ form beginning in 1956 with the "IBM 350 disk storage unit").
 
-SixHardDriveFormFactors.jpg Floppy_Disk_Drives_8_5_3.jpg ASUS_CD-ROM_CD-S520-A4_20080821.jpg
-
 
 Background
 
@@ -31,7 +29,7 @@ The hardware on the drive tells the actuator arm where it is to go for the relev
 
 Rotation speed and track layout
 
-Comparison_disk_storage.svg Mechanically there are two different motions occurring inside the drive. One is the rotation of the disks inside the device. The other is the side-to-side motion of the head across the disk as it moves between tracks.
+Mechanically there are two different motions occurring inside the drive. One is the rotation of the disks inside the device. The other is the side-to-side motion of the head across the disk as it moves between tracks.
 
 There are two types of disk rotation methods:
 

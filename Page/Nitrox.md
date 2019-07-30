@@ -1,5 +1,3 @@
-EANxDecal.png
-
 NITROX refers to any gas mixture composed (excepting trace gases) of nitrogen and oxygen. This includes atmospheric air, which is approximately 78% nitrogen, 21% oxygen, and 1% other gases, primarily argon.[1][2][3] In the usual application, underwater diving, nitrox is normally distinguished from air and handled differently.[4] The most common use of nitrox mixtures containing oxygen in higher proportions than atmospheric air is in scuba diving, where the reduced partial pressure of nitrogen is advantageous in reducing nitrogen uptake in the body's tissues, thereby extending the practicable underwater dive time by reducing the decompression requirement, or reducing the risk of decompression sickness (also known as _the bends_).[5]
 
 Nitrox is used to a lesser extent in surface-supplied diving, as these advantages are reduced by the more complex logistical requirements for nitrox compared to the use of simple low-pressure compressors for breathing gas supply. Nitrox can also be used in hyperbaric treatment of decompression illness, usually at pressures where pure oxygen would be hazardous.[6] Nitrox is not a safer gas than compressed air in all respects; although its use can reduce the risk of decompression sickness, it increases the risk of oxygen toxicity and fire.[7]
@@ -41,8 +39,6 @@ A 2010 study using critical flicker fusion frequency and perceived fatigue crite
 
 
 Uses
-
-Nitrox_tables.JPG
 
 Underwater diving
 
@@ -88,7 +84,7 @@ Equipment
 
 Choice of mixture
 
-Decompression_Dive-Preparation.JPG preparing for a mixed-gas decompression dive in Bohol, Philippines. Note the backplate and wing setup with side mounted stage tanks containing EAN50 (left side) and pure oxygen (right side).]] The two most common recreational diving nitrox mixes contain 32% and 36% oxygen, which have maximum operating depths (MODs) of and respectively when limited to a maximum partial pressure of oxygen of . Divers may calculate an equivalent air depth to determine their decompression requirements or may use nitrox tables or a nitrox-capable dive computer.[44][45][46][47]
+preparing for a mixed-gas decompression dive in Bohol, Philippines. Note the backplate and wing setup with side mounted stage tanks containing EAN50 (left side) and pure oxygen (right side).]] The two most common recreational diving nitrox mixes contain 32% and 36% oxygen, which have maximum operating depths (MODs) of and respectively when limited to a maximum partial pressure of oxygen of . Divers may calculate an equivalent air depth to determine their decompression requirements or may use nitrox tables or a nitrox-capable dive computer.[44][45][46][47]
 
 Nitrox with more than 40% oxygen is uncommon within recreational diving. There are two main reasons for this: the first is that all pieces of diving equipment that come into contact with mixes containing higher proportions of oxygen, particularly at high pressure, need special cleaning and servicing to reduce the risk of fire.[48][49] The second reason is that richer mixes extend the time the diver can stay underwater without needing decompression stops far further than the duration permitted by the capacity of typical diving cylinders. For example, based on the PADI nitrox recommendations, the maximum operating depth for EAN45 would be and the maximum dive time available at this depth even with EAN36 is nearly 1 hour 15 minutes: a diver with a breathing rate of 20 litres per minute using twin 10-litre, 230-bar (about double 85 cu. ft.) cylinders would have completely emptied the cylinders after 1 hour 14 minutes at this depth.
 
@@ -138,7 +134,7 @@ South African National Standard 10019:2008 specifies the colour of all scuba cyl
 
 USA
 
-Cylinder_mod.jpg Every nitrox cylinder should also have a sticker stating whether or not the cylinder is _oxygen clean_ and suitable for partial pressure blending. Any oxygen-clean cylinder may have any mix up to 100% oxygen inside. If by some accident an oxygen-clean cylinder is filled at a station that does not supply gas to oxygen-clean standards it is then considered contaminated and must be re-cleaned before a gas containing more than 40% oxygen may again be added.[58] Cylinders marked as 'not oxygen clean' may only be filled with oxygen-enriched air mixtures from membrane or stick blending systems where the gas is mixed before being added to the cylinder, and to an oxygen fraction not exceeding 40% by volume.
+Every nitrox cylinder should also have a sticker stating whether or not the cylinder is _oxygen clean_ and suitable for partial pressure blending. Any oxygen-clean cylinder may have any mix up to 100% oxygen inside. If by some accident an oxygen-clean cylinder is filled at a station that does not supply gas to oxygen-clean standards it is then considered contaminated and must be re-cleaned before a gas containing more than 40% oxygen may again be added.[58] Cylinders marked as 'not oxygen clean' may only be filled with oxygen-enriched air mixtures from membrane or stick blending systems where the gas is mixed before being added to the cylinder, and to an oxygen fraction not exceeding 40% by volume.
 
 
 Hazards

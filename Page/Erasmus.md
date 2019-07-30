@@ -7,7 +7,7 @@ Erasmus died suddenly in Basel in 1536 while preparing to return to Brabant and 
 
 Early life
 
-Erasmus(buste).jpg (1950) at Gouda, where Erasmus spent his youth]]
+(1950) at Gouda, where Erasmus spent his youth]]
 
 Desiderius Erasmus is reported to have been born in Rotterdam on 28 October in the late 1460s.[9][10] He was named after Saint Erasmus of Formiae, whom Erasmus's father Gerard personally favored.[11] A 17th-century legend has it that Erasmus was first named Geert Geerts (also Gerhard Gerhards or Gerrit Gerritsz),[12] but this is unfounded.[13] A well-known wooden picture indicates: _Goudæ conceptus, Roterodami natus_ (Latin for _Conceived in Gouda, born in Rotterdam)_. According to an article by historian Renier Snooy (1478–1537), Erasmus was born in Gouda.
 
@@ -18,7 +18,7 @@ Erasmus was given the highest education available to a young man of his day, in 
 
 Ordination and monastic experience
 
-Erasmus_Duerer_VandA_E.4621-1910.jpg, 1526, engraved in Nuremberg, Germany.]]
+, 1526, engraved in Nuremberg, Germany.]]
 
 Most likely in 1487,[27] poverty[28] forced Erasmus into the consecrated life as a canon regular of St. Augustine at the canonry of Stein, in South Holland. He took vows there in late 1488[29] and was ordained to the Catholic priesthood at about the age of 25, in 1492.[30] It is said that he never seemed to have actively worked as a priest for a longer time, and certain abuses in religious orders were among the chief objects of his later calls to reform the Church from within.
 
@@ -29,7 +29,7 @@ Soon after his priestly ordination, he got his chance to leave the canonry when 
 
 Education and scholarship
 
-Rotterdam_standbeeld_Erasmus.jpg in 1622, replacing a stone statue of 1557.]]
+in 1622, replacing a stone statue of 1557.]]
 
 In 1495, with Bishop Henry's consent and a stipend, Erasmus went on to study at the University of Paris, in the Collège de Montaigu, a centre of reforming zeal, under the direction of the ascetic Jan Standonck, of whose rigors he complained. The University was then the chief seat of Scholastic learning but already coming under the influence of Renaissance humanism. For instance, Erasmus became an intimate friend of an Italian humanist Publio Fausto Andrelini, poet and "professor of humanity" in Paris.
 
@@ -76,7 +76,7 @@ Contribution
 
 In a way it is legitimate to say that Erasmus "synchronized" or "unified" the Greek and the Latin traditions of the New Testament by producing an updated translation of both simultaneously. Both being part of canonical tradition, he clearly found it necessary to ensure that both were actually present in the same content. In modern terminology, he made the two traditions "compatible". This is clearly evidenced by the fact that his Greek text is not just the basis for his Latin translation, but also the other way round: there are numerous instances where he edits the Greek text to reflect his Latin version. For instance, since the last six verses of _Revelation_ were missing from his Greek manuscript, Erasmus translated the Vulgate's text back into Greek. Erasmus also translated the Latin text into Greek wherever he found that the Greek text and the accompanying commentaries were mixed up, or where he simply preferred the Vulgate’s reading to the Greek text.[53]
 
-Erasmus_hieronymus.jpg, 1516]]
+, 1516]]
 
 Publication and editions
 
@@ -140,7 +140,7 @@ As the popular response to Luther gathered momentum, the social disorders, which
 
 When the city of Basel definitely adopted the Reformation in 1529, Erasmus gave up his residence there and settled in the imperial town of Freiburg im Breisgau.
 
-Hans_Holbein_d._J._-_Erasmus_-_Louvre.jpg. Louvre, Paris.]]
+. Louvre, Paris.]]
 
 Religious toleration
 
@@ -153,7 +153,7 @@ A test of the Reformation was the doctrine of the sacraments, and the crux of th
 
 Death
 
-Basel_-_Münsterpfalz1.jpg, where Erasmus lies buried ]] When his strength began to fail, he decided to accept an invitation by Queen Mary of Hungary, Regent of the Netherlands, to move from Freiburg to Brabant. However, during preparations for the move in 1536, he suddenly died from an attack of dysentery during a visit to Basel.[79] He had remained loyal to the papal authorities in Rome, but he did not have the opportunity to receive the last rites of the Catholic Church; the reports of his death do not mention whether he asked for a priest or not. According to Jan van Herwaarden, this is consistent with his view that outward signs were not important; what mattered is the believer's direct relationship with God, which he noted "as the [Catholic] church believes". However, Herwaarden observes that "he did not dismiss the rites and sacraments out of hand but asserted a dying person could achieve a state of salvation without the priestly rites, provided their faith and spirit were attuned to God."[80] He was buried with great ceremony in Basel Minster (the former cathedral) there.[81]
+, where Erasmus lies buried ]] When his strength began to fail, he decided to accept an invitation by Queen Mary of Hungary, Regent of the Netherlands, to move from Freiburg to Brabant. However, during preparations for the move in 1536, he suddenly died from an attack of dysentery during a visit to Basel.[79] He had remained loyal to the papal authorities in Rome, but he did not have the opportunity to receive the last rites of the Catholic Church; the reports of his death do not mention whether he asked for a priest or not. According to Jan van Herwaarden, this is consistent with his view that outward signs were not important; what mattered is the believer's direct relationship with God, which he noted "as the [Catholic] church believes". However, Herwaarden observes that "he did not dismiss the rites and sacraments out of hand but asserted a dying person could achieve a state of salvation without the priestly rites, provided their faith and spirit were attuned to God."[80] He was buried with great ceremony in Basel Minster (the former cathedral) there.[81]
 
 His last words, as recorded by his friend Beatus Rhenanus, were apparently "_Dear God_" ().[82] A bronze statue of him was erected in the city of his birth in 1622, replacing an earlier work in stone.
 
@@ -169,8 +169,6 @@ The _Enchiridion_ is more like a sermon than a satire. With it Erasmus challenge
 According to Ernest Barker, "Besides his work on the New Testament, Erasmus laboured also, and even more arduously, on the early Fathers. […] Among the Latin Fathers he edited the works of St Jerome, St Hilary, and St Augustine; among the Greeks he worked on Irenaeus, Origen and Chrysostom."[85]
 
 Erasmus also wrote of the legendary Frisian freedom fighter and rebel Pier Gerlofs Donia (Greate Pier), though more often in criticism than in praise of his exploits. Erasmus saw him as a dim, brutal man who preferred physical strength to wisdom.[86]
-
-HolbeinErasmusFollymarginalia.jpg
 
 One of Erasmus' best-known works, inspired by _De triumpho stultitiae_ (written by Italian humanist Faustino Perisauli), is _The Praise of Folly_, published under the double title _Moriae encomium_ (Greek, Latinised) and _Laus stultitiae_ (Latin).[87] A satirical attack on superstitions and other traditions of European society in general and the western Church in particular, it was written in 1509, published in 1511, and dedicated to Sir Thomas More, whose name the title puns.
 
@@ -199,7 +197,7 @@ The popularity of his books is reflected in the number of editions and translati
 
 In his native Rotterdam, the University and Gymnasium Erasmianum have been named in his honor. In 2003, a poll showing that most Rotterdammers believed Erasmus to be the designer of the local "Erasmus Bridge" instigated the founding of the Erasmus House (Rotterdam),[89] and the Erasmus House (Jakarta)[90] dedicated to celebrating Erasmus' legacy. Three moments in Erasmus' life are celebrated annually. On 1 April, the city celebrates the publication of his best-known book _The Praise of Folly_. On 11 July, the _Night of Erasmus_ celebrates the lasting influence of his work. His birthday is celebrated on 28 October.
 
-Erasmus' reputation and the interpretations of his work have varied over time. Moderate Catholics recognized him as a leading figure in attempts to reform the Church, while Protestants recognized his initial support for Luther's ideas and the groundwork he laid for the future Reformation, especially in biblical scholarship. By the 1560s, however, there was a marked change in reception. Erasmus_censored.png
+Erasmus' reputation and the interpretations of his work have varied over time. Moderate Catholics recognized him as a leading figure in attempts to reform the Church, while Protestants recognized his initial support for Luther's ideas and the groundwork he laid for the future Reformation, especially in biblical scholarship. By the 1560s, however, there was a marked change in reception.
 
 According to Franz Anton Knittel, Erasmus in his _Novum Instrumentum omne_ did not incorporate the _Comma_ from the Codex Montfortianus, because of grammar differences, but used Complutensian Polyglotta. According to him the _Comma_ was known to Tertullian.[91]
 
@@ -216,7 +214,7 @@ Eramus is credited with saying "When I get a little money I buy books; and if an
 
 Representations
 
-HolbeinErasmusHands.jpg)]]
+)]]
 
 -   Hans Holbein painted him at least three times, and perhaps as many as seven; some only survive in versions by other artists. His three profile portraits of Erasmus, two (nearly identical) profile portraits and one three-quarters view portrait were all painted in the same year, 1523. Erasmus used the Holbein portraits as gifts for his friends in England, such as William Warham, the Archbishop of Canterbury (as he writes in a letter to Warham regarding the gift portrait, Erasmus quips that "he might have something of Erasmus should God call him from this place.") Erasmus spoke favourably of Holbein as an artist and person, but later criticized Holbein whom he had accused of sponging off various patrons to whom Erasmus had recommended, for purposes more of monetary gain than artistic endeavor.
 -   Albrecht Dürer also produced portraits of Erasmus, whom he met three times, in the form of an engraving of 1526 and a preliminary charcoal sketch. Concerning the former Erasmus was unimpressed, declaring it an unfavourable likeness of him. Nevertheless, Erasmus and Dürer maintained a close friendship, with Dürer going so far as to solicit Erasmus' support for the Lutheran cause, which Erasmus politely declined. Erasmus wrote a glowing _encomium_ about the artist, likening him to famous Greek painter of antiquity Apelles. Erasmus was deeply affected by his death in 1528.

@@ -13,13 +13,13 @@ History
 
 Before European settlement
 
-Kaurnaland.png Before its proclamation as a British settlement in 1836, the area around Adelaide was inhabited by the indigenous Kaurna people, one of many Aboriginal nations in South Australia. The city and parklands area was known as Tarntanya,[2] or Tarndanyangga in the Kaurna language.[3] The surrounding area was an open grassy plain with patches of trees and shrub which had been managed by hundreds of generations. Kaurna country encompassed the plains which stretched north and south of Tarntanya as well as the wooded foothills of the Mt Lofty Ranges. The River Torrens was known as the Karrawirra Pari (red gum forest river). About 300 Kaurna populated the Adelaide area, and were referred to by the settlers as the Cowandilla.[4]
+Before its proclamation as a British settlement in 1836, the area around Adelaide was inhabited by the indigenous Kaurna people, one of many Aboriginal nations in South Australia. The city and parklands area was known as Tarntanya,[2] or Tarndanyangga in the Kaurna language.[3] The surrounding area was an open grassy plain with patches of trees and shrub which had been managed by hundreds of generations. Kaurna country encompassed the plains which stretched north and south of Tarntanya as well as the wooded foothills of the Mt Lofty Ranges. The River Torrens was known as the Karrawirra Pari (red gum forest river). About 300 Kaurna populated the Adelaide area, and were referred to by the settlers as the Cowandilla.[4]
 
 The Kaurna language was a complex one, reflecting their sophisticated culture and deep environmental knowledge.[5] Within a few decades of European settlement of South Australia, Kaurna culture and language were almost completely destroyed.[6] Extensive documentation by early missionaries and other researchers has enabled a modern revival of both,[7] which has included a commitment by local and state governments to rename or include Kaurna names for many local places.[8][9]
 
 19th century
 
-Adelaide_Amelia_Louisa_Theresa_Caroline_of_Saxe-Coburg_Meiningen_by_Sir_William_Beechey.jpg, after whom the city was named]] Adelaide_supplement_to_the_Illustrated_Sydney_News.png
+, after whom the city was named]]
 
 South Australia was officially proclaimed a British colony on 28 December 1836, near The Old Gum Tree in what is now the suburb of Glenelg North. The event is commemorated in South Australia as Proclamation Day.[10] The site of the colony's capital was surveyed and laid out by Colonel William Light, the first Surveyor-General of South Australia, through the design made by the architect George Strickland Kingston.[11] The city was named after Adelaide of Saxe-Meiningen, queen consort to King William IV at the time.[12]
 
@@ -29,11 +29,9 @@ Adelaide was established as a planned colony of free immigrants, promising civil
 -   Henry Widdowson, _Present State of Van Diemen's Land; comprising an account of its agricultural capabilities, with observations on the present state of farming, &c. &c. pursued in that colony: and other important matters connected with Emigration_, S. Robinson, W. Joy and J. Cross, London, and J. Birdsall, Northampton, 1829; and
 -   James Atkinson, _An Account of the State of Agriculture & Grazing in New South Wales; Including Observations on the Soils and General Appearance of the Country, and some of its most useful natural productions; with an account of the Various Methods of Clearing and Improving Lands, Breeding and Grazing Live Stock, Erecting Buildings, the System of employing Convicts, and the expense of Labour generally; the Mode of Applying for Grants of Land; with Other Information Important to those who are about to emigrate to that Country: The result of several years' residence and practical experience in those matters in the Colony_., J. Cross, London, 1826 and realised that the eastern colonies suffered from a lack of available labour, due to the practice of giving land grants to all arrivals.[13] Wakefield's idea was for the Government to survey and sell the land at a rate that would maintain land values high enough to be unaffordable for labourers and journeymen.[14] Funds raised from the sale of land were to be used to bring out working-class emigrants, who would have to work hard for the monied settlers to ever afford their own land.[15] As a result of this policy, Adelaide does not share the convict settlement history of other Australian cities like Sydney, Brisbane and Hobart.
 
-North_Terrace,_1841.jpg
-
 As it was believed that in a colony of free settlers there would be little crime, no provision was made for a gaol in Colonel Light's 1837 plan. But by mid-1837 the _South Australian Register_ was warning of escaped convicts from New South Wales and tenders for a temporary gaol were sought. Following a burglary, a murder, and two attempted murders in Adelaide during March 1838, Governor Hindmarsh created the South Australian Police Force (now the South Australia Police) in April 1838 under 21-year-old Henry Inman.[16] The first sheriff, Samuel Smart, was wounded during a robbery, and on 2 May 1838 one of the offenders, Michael Magee, became the first person to be hanged in South Australia.[17] William Baker Ashton was appointed governor of the temporary gaol in 1839, and in 1840 George Strickland Kingston was commissioned to design Adelaide's new gaol.[18] Construction of Adelaide Gaol commenced in 1841.[19]
 
-Adelaide's early history was marked by economic uncertainty and questionable leadership. The first governor of South Australia, John Hindmarsh, clashed frequently with others, in particular the Resident Commissioner, James Hurtle Fisher. The rural area surrounding Adelaide was surveyed by Light in preparation to sell a total of over of land. Adelaide's early economy started to get on its feet in 1838 with the arrival of livestock from Victoria, New South Wales and Tasmania. Wool production provided an early basis for the South Australian economy. By 1860, wheat farms had been established from Encounter Bay in the south to Clare in the north. Karte_Adelaide_MKL1888.png George Gawler took over from Hindmarsh in late 1838 and, despite being under orders from the _Select Committee on South Australia_ in Britain not to undertake any public works, promptly oversaw construction of a governor's house, the Adelaide Gaol, police barracks, a hospital, a customs house and a wharf at Port Adelaide. Gawler was recalled and replaced by George Edward Grey in 1841. Grey slashed public expenditure against heavy opposition, although its impact was negligible at this point: silver was discovered in Glen Osmond that year, agriculture was well underway, and other mines sprung up all over the state, aiding Adelaide's commercial development. The city exported meat, wool, wine, fruit and wheat by the time Grey left in 1845, contrasting with a low point in 1842 when one-third of Adelaide houses were abandoned.
+Adelaide's early history was marked by economic uncertainty and questionable leadership. The first governor of South Australia, John Hindmarsh, clashed frequently with others, in particular the Resident Commissioner, James Hurtle Fisher. The rural area surrounding Adelaide was surveyed by Light in preparation to sell a total of over of land. Adelaide's early economy started to get on its feet in 1838 with the arrival of livestock from Victoria, New South Wales and Tasmania. Wool production provided an early basis for the South Australian economy. By 1860, wheat farms had been established from Encounter Bay in the south to Clare in the north. George Gawler took over from Hindmarsh in late 1838 and, despite being under orders from the _Select Committee on South Australia_ in Britain not to undertake any public works, promptly oversaw construction of a governor's house, the Adelaide Gaol, police barracks, a hospital, a customs house and a wharf at Port Adelaide. Gawler was recalled and replaced by George Edward Grey in 1841. Grey slashed public expenditure against heavy opposition, although its impact was negligible at this point: silver was discovered in Glen Osmond that year, agriculture was well underway, and other mines sprung up all over the state, aiding Adelaide's commercial development. The city exported meat, wool, wine, fruit and wheat by the time Grey left in 1845, contrasting with a low point in 1842 when one-third of Adelaide houses were abandoned.
 
 Trade links with the rest of the Australian states were established after the Murray River was successfully navigated in 1853 by Francis Cadell, an Adelaide resident. South Australia became a self-governing colony in 1856 with the ratification of a new constitution by the British parliament. Secret ballots were introduced, and a bicameral parliament was elected on 9 March 1857, by which time 109,917 people lived in the province.[20]
 
@@ -41,7 +39,7 @@ In 1860 the Thorndon Park reservoir was opened, finally providing an alternative
 
 20th century
 
-North_Terrace_in_1938.jpg viewed from Parliament House, 1938.]] Adelaide_in_1935.jpg
+viewed from Parliament House, 1938.]]
 
 Adelaide was Australia's third largest city for most of the 20th century.[23][24][25] Electric street lighting was introduced in 1900 and electric trams were transporting passengers in 1909. 28,000 men were sent to fight in World War I. Historian F. W. Crowley examined the reports of visitors in the early 20th century, noting that "many visitors to Adelaide admired the foresighted planning of its founders", as well as pondering the riches of the young city.[26] Adelaide enjoyed a postwar boom, entering a time of relative prosperity. Its population grew, and it became the third most populous metropolitan area in the country, after Sydney and Melbourne. Its prosperity was short-lived, with the return of droughts and the Great Depression of the 1930s. It later returned to fortune under strong government leadership.Secondary industries helped reduce the state's dependence on primary industries. World War II brought industrial stimulus and diversification to Adelaide under the Playford Government, which advocated Adelaide as a safe place for manufacturing due to its less vulnerable location.[27] Shipbuilding was expanded at the nearby port of Whyalla.
 
@@ -53,16 +51,14 @@ The Dunstan Governments of the 1970s saw something of an Adelaide 'cultural revi
 
 In the early years of the 21st century, a significant increase in the state government's spending on Adelaide's infrastructure occurred. The Rann government invested A$535 million in a major upgrade of the Adelaide Oval to enable Australian Football League to be played in the city centre[36] and more than A$2 billion to build a new Royal Adelaide Hospital on land adjacent to the Adelaide Railway Station.[37] The Glenelg tramline was extended through the city to Hindmarsh[38] and the suburban railway line extended south to Seaford.[39]
 
-Following a period of stagnation in the 1990s and 2000s, Adelaide began several major developments and redevelopments. The Adelaide Convention Centre was redeveloped and expanded at a cost of A$350 million beginning in 2012.[40] Three historic buildings were adapted for modern use: the Torrens Building in Victoria Square as the Adelaide campus for Carnegie Mellon University, University College London, and Torrens University;[41] the Stock Exchange building as the Science Exchange of the Royal Institution Australia; and the Glenside Psychiatric Hospital as the Adelaide Studios of the SA Film Corporation. The government also invested more than A$2 billion to build a desalination plant, powered by renewable energy, as an 'insurance policy' against droughts affecting Adelaide's water supply.[42] The Adelaide Festival, Fringe, and Womadelaide became annual events.[43] Adelaide_central_business_district_at_night.jpg looking east, while the Town Hall clock tower is on the far right.]]
+Following a period of stagnation in the 1990s and 2000s, Adelaide began several major developments and redevelopments. The Adelaide Convention Centre was redeveloped and expanded at a cost of A$350 million beginning in 2012.[40] Three historic buildings were adapted for modern use: the Torrens Building in Victoria Square as the Adelaide campus for Carnegie Mellon University, University College London, and Torrens University;[41] the Stock Exchange building as the Science Exchange of the Royal Institution Australia; and the Glenside Psychiatric Hospital as the Adelaide Studios of the SA Film Corporation. The government also invested more than A$2 billion to build a desalination plant, powered by renewable energy, as an 'insurance policy' against droughts affecting Adelaide's water supply.[42] The Adelaide Festival, Fringe, and Womadelaide became annual events.[43] looking east, while the Town Hall clock tower is on the far right.]]
 
 
 Geography
 
-Free_vector_map_of_Adelaide_Australia_Level_12_G_View.svg
-
 Adelaide is north of the Fleurieu Peninsula, on the Adelaide Plains between the Gulf St Vincent and the low-lying Mount Lofty Ranges. The city stretches from the coast to the foothills, and from Gawler at its northern extent to Sellicks Beach in the south. According to the Regional Development Australia, an Australian government planning initiative, the "Adelaide Metropolitan Region" has a total land area of , while a more expansive definition by the Australian Bureau of Statistics defines a "Greater Adelaide" statistical area totalling . The city sits at an average elevation of above sea level. Mount Lofty, east of the Adelaide metropolitan region in the Adelaide Hills at an elevation of , is the tallest point of the city and in the state south of Burra.
 
-Adelaide_Metropol.png Much of Adelaide was bushland before British settlement, with some variation – sandhills, swamps and marshlands were prevalent around the coast. The loss of the sandhills to urban development had a particularly destructive effect on the coastline due to erosion.[44] Where practical, the government has implemented programs to rebuild and vegetate sandhills at several of Adelaide's beachside suburbs. Much of the original vegetation has been cleared with what is left to be found in reserves such as the Cleland Conservation Park and Belair National Park. A number of creeks and rivers flow through the Adelaide region. The largest are the Torrens and Onkaparinga catchments. Adelaide relies on its many reservoirs for water supply with the Happy Valley Reservoir supplying around 40% and the much larger Mount Bold Reservoir 10% of Adelaide's domestic requirements respectively.
+Much of Adelaide was bushland before British settlement, with some variation – sandhills, swamps and marshlands were prevalent around the coast. The loss of the sandhills to urban development had a particularly destructive effect on the coastline due to erosion.[44] Where practical, the government has implemented programs to rebuild and vegetate sandhills at several of Adelaide's beachside suburbs. Much of the original vegetation has been cleared with what is left to be found in reserves such as the Cleland Conservation Park and Belair National Park. A number of creeks and rivers flow through the Adelaide region. The largest are the Torrens and Onkaparinga catchments. Adelaide relies on its many reservoirs for water supply with the Happy Valley Reservoir supplying around 40% and the much larger Mount Bold Reservoir 10% of Adelaide's domestic requirements respectively.
 
 Adelaide and its surrounding area is one of the most seismically active regions in Australia. On 1 March 1954 at 3:40 am Adelaide experienced its largest recorded earthquake to date, with the epicentre 12 km from the city centre at Darlington, and a reported magnitude of 5.6.[45][46] There have been smaller earthquakes in 2010,[47] 2011,[48] 2014[49] and 2017.[50]
 
@@ -72,13 +68,11 @@ Adelaide is a planned city, designed by the first Surveyor-General of South Aust
 
 The benefits of Light's design are numerous: Adelaide has had wide multi-lane roads from its beginning, an easily navigable cardinal direction grid layout and an expansive green ring around the city centre. There are two sets of ring roads in Adelaide that have resulted from the original design. The inner ring route (A21) borders the parklands, and the outer route (A3/A13/A16/A17) completely bypasses the inner city via (in clockwise order) Grand Junction Road, Hampstead Road, Ascot Avenue, Portrush Road, Cross Road and South Road.[52]
 
-Adelaide_nth_tce1.8.jpg (right) and Pulteney Street (left), looking south-west from Bonython Hall.]]
+(right) and Pulteney Street (left), looking south-west from Bonython Hall.]]
 
 Suburban expansion has to some extent outgrown Light's original plan. Numerous former outlying villages and "country towns", as well as the satellite city of Elizabeth, have been enveloped by its suburban sprawl. Expanding developments in the Adelaide Hills region led to the construction of the South Eastern Freeway to cope with growth, which has subsequently led to new developments and further improvements to that transport corridor. Similarly, the booming development in Adelaide's South led to the construction of the Southern Expressway.
 
 New roads are not the only transport infrastructure developed to cope with the urban growth. The O-Bahn Busway is an example of a unique solution to Tea Tree Gully's transport woes in the 1980s.[53] The development of the nearby suburb of Golden Grove in the late 1980s is an example of well-thought-out urban planning.
-
-King_William_Street-Adelaide.jpg
 
 In the 1960s, a Metropolitan Adelaide Transport Study Plan was proposed in order to cater for the future growth of the city. The plan involved the construction of freeways, expressways and the upgrade of certain aspects of the public transport system. The then premier Steele Hall approved many parts of the plan and the government went as far as purchasing land for the project. The later Labor government elected under Don Dunstan shelved the plan, but allowed the purchased land to remain vacant, should the future need for freeways arise. In 1980, the Liberal party won government and premier David Tonkin committed his government to selling off the land acquired for the MATS plan, ensuring that even when needs changed, the construction of most MATS-proposed freeways would be impractical. Some parts of this land have been used for transport, (e.g. the O-Bahn Busway and Southern Expressway), while most has been progressively subdivided for residential use.
 
@@ -92,7 +86,7 @@ There is a wide variety in the styles of these predominately brick, and to a les
 
 Climate
 
-Lightning_in_Adelaide,_South_Australia,_2014.jpg Adelaide has a hot-summer Mediterranean climate (Köppen climate classification: _Csa_) in Kent Town, and has a cold semi-arid climate (Köppen climate classification: _BSk_) in Adelaide Airport.[60] with warm to hot dry summers and cool to mild winters and with most precipitation falling in the winter months, leading to the suggestion that the climate be classified as a "cold monsoon".[61] Adelaide receives enough annual precipitation to avoid Köppen's BSk (semi-arid climate) classification. Rainfall is unreliable, light and infrequent throughout summer. In contrast, the winter has fairly reliable rainfall with June being the wettest month of the year, averaging around 80 mm. Frosts are occasional, with the most notable occurrences in July 1908 and July 1982. Hail is also common in winter. Adelaide is a windy city with significant wind chill in winter, which makes the temperature seem colder than it actually is. Snowfall in the metropolitan area is extremely uncommon, although light and sporadic falls in the nearby hills and at Mount Lofty occur during winter. Dewpoints in the summer typically range from . There are usually two to three days in summer where the temperature reaches or above, although the frequency of these temperatures has been increasing in recent years.
+Adelaide has a hot-summer Mediterranean climate (Köppen climate classification: _Csa_) in Kent Town, and has a cold semi-arid climate (Köppen climate classification: _BSk_) in Adelaide Airport.[60] with warm to hot dry summers and cool to mild winters and with most precipitation falling in the winter months, leading to the suggestion that the climate be classified as a "cold monsoon".[61] Adelaide receives enough annual precipitation to avoid Köppen's BSk (semi-arid climate) classification. Rainfall is unreliable, light and infrequent throughout summer. In contrast, the winter has fairly reliable rainfall with June being the wettest month of the year, averaging around 80 mm. Frosts are occasional, with the most notable occurrences in July 1908 and July 1982. Hail is also common in winter. Adelaide is a windy city with significant wind chill in winter, which makes the temperature seem colder than it actually is. Snowfall in the metropolitan area is extremely uncommon, although light and sporadic falls in the nearby hills and at Mount Lofty occur during winter. Dewpoints in the summer typically range from . There are usually two to three days in summer where the temperature reaches or above, although the frequency of these temperatures has been increasing in recent years.
 
 The average sea temperature ranges from in August to in February.[62]
 
@@ -103,7 +97,7 @@ Adelaide has been consistently listed in the world's top 10 most liveable cities
 
 Governance
 
-Adelaide_Parliament_House,_North_Terrace.jpg]]
+]]
 
 Adelaide, as the capital of South Australia, is the seat of the Government of South Australia. As Adelaide is South Australia's capital and most populous city, the State Government co-operates extensively with the City of Adelaide. In 2006, the Ministry for the City of Adelaide was created to facilitate the State Government's collaboration with the Adelaide City Council and the Lord Mayor to improve Adelaide's image. The State Parliament's Capital City Committee[71] is also involved in the governance of the City of Adelaide, being primarily concerned with the planning of Adelaide's urban development and growth.
 
@@ -151,7 +145,7 @@ Overseas-born Adelaideans composed 31.8% of the total population at the 2016 cen
 
 [81] Suburbs including Newton, Payneham and Campbelltown in the east and Torrensville, West Lakes and Fulham to the west, have large Greek and Italian communities. The Italian consulate is located in the eastern suburb of Payneham. Large Vietnamese populations are settled in the north-western suburbs of Woodville, Kilkenny, Pennington, Mansfield Park and Athol Park and also Parafield Gardens and Pooraka in Adelaide's north. Migrants from India and Sri Lanka have settled into inner suburban areas of Adelaide including the inner northern suburbs of Blair Athol, Kilburn and Enfield and the inner southern suburbs of Plympton, Park Holme and Kurralta Park.
 
-Adelaide_Chinatown.jpg on Moonta Street in the Market precinct]]
+on Moonta Street in the Market precinct]]
 
 Suburbs such as Para Hills, Salisbury, Ingle Farm and Blair Athol in the north and Findon, West Croydon and Seaton in the West are experiencing large migration from Afghanistan and Iran. Chinese migrants favour settling in the eastern and north eastern suburbs including Kensington Gardens, Greenacres, Modbury and Golden Grove. Mawson Lakes has a large international student population, due to its proximity to the University of South Australia campus.
 
@@ -163,7 +157,7 @@ At the 2016 census, 75.4% of the population spoke English at home. The other lan
 
 Religion
 
-St_Francis_Xavier's_Cathedral,_Victoria_Square.jpg in Victoria Square]]
+in Victoria Square]]
 
 Adelaide was founded on a vision of religious tolerance that attracted a wide variety of religious practitioners. This led to it being known as _The City of Churches_.[84][85][86] But approximately 28% of the population expressed no religious affiliation in the 2011 Census, compared with the national average of 22.3%, making Adelaide one of Australia's least religious cities. Over half of the population of Adelaide identifies as Christian, with the largest denominations being Catholic (21.3%), Anglican (12.6%), Uniting Church (7.6%) and Eastern Orthodox (3.5%).[87]
 
@@ -174,7 +168,7 @@ The "Afghan" community in Australia first became established in the 1860s when c
 
 Economy
 
-Flindersmed.jpg. Health care and social assistance is the largest ABS defined employment sector in South Australia.[94]]]
+. Health care and social assistance is the largest ABS defined employment sector in South Australia.[94]]]
 
 South Australia's largest employment sectors are health care and social assistance,[95][96] surpassing manufacturing in SA as the largest employer since 2006–07.[97][98] In 2009–10, manufacturing in SA had average annual employment of 83,700 persons compared with 103,300 for health care and social assistance.[99] Health care and social assistance represented nearly 13% of the state average annual employment.[100] The Adelaide Hills wine region is an iconic and viable economic region for both the state and country in terms of wine production and sale. The 2014 vintage is reported as consisting of red grapes crushed valued at A$8,196,142 and white grapes crushed valued at $14,777,631.[101]
 
@@ -188,7 +182,7 @@ The global media conglomerate News Corporation was founded in, and until 2004 in
 
 Defence industry
 
-US_Navy_040823-N-3019M-003_The_Australian_Collins-class_submarine,_HMAS_Rankin_(SSK_78),_enters_Pearl_Harbor_for_a_port_visit_after_completing_exercises_in_the_Pacific_region.jpg, August 2004.]] Adelaide is home to a large proportion of Australia's defence industries, which contribute over A$1 billion to South Australia's Gross State Product.[105] The principal government military research institution, the Defence Science and Technology Organisation, and other defence technology organisations such as BAE Systems Australia and Lockheed Martin Australia, are north of Salisbury and west of Elizabeth in an area now called "Edinburgh Parks", adjacent to RAAF Base Edinburgh.
+, August 2004.]] Adelaide is home to a large proportion of Australia's defence industries, which contribute over A$1 billion to South Australia's Gross State Product.[105] The principal government military research institution, the Defence Science and Technology Organisation, and other defence technology organisations such as BAE Systems Australia and Lockheed Martin Australia, are north of Salisbury and west of Elizabeth in an area now called "Edinburgh Parks", adjacent to RAAF Base Edinburgh.
 
 Others, such as Saab Systems and Raytheon, are in or near Technology Park. ASC Pty Ltd, based in the industrial suburb of Osborne. South Australia was charged with constructing Australia's _Collins_ class submarines and more recently the A$6 billion contract to construct the Royal Australian Navy's new air-warfare destroyers.[106]
 
@@ -211,7 +205,7 @@ Each quarter, The Alternative and Direct Investment Securities Association (ADIS
 
 Education and research
 
-UofAdelaide-BarrSmithLibrary-Aug08.jpg, part of the University of Adelaide]]
+, part of the University of Adelaide]]
 
 Education forms an increasingly important part of the city's economy, with the South Australian Government and educational institutions attempting to position Adelaide as "Australia's education hub" and marketing it as a "Learning City."[117] The number of international students studying in Adelaide has increased rapidly in recent years to 30,726 in 2015, of which 1,824 were secondary school students.[118] In addition to the city's existing institutions, foreign institutions have been attracted to set up campuses in order to increase its attractiveness as an education hub.[119][120] Adelaide is the birthplace of three Nobel laureates, more than any other Australian city: physicist William Lawrence Bragg and pathologists Howard Florey and Robin Warren, all of whom completed secondary and tertiary education at St Peter's College and the University of Adelaide.
 
@@ -221,7 +215,7 @@ At the level of primary and secondary education, there are two systems of school
 
 Tertiary education
 
-Carnegie_Mellon_University_(5266180152).jpg houses campuses of several international universities operating in South Australia]]
+houses campuses of several international universities operating in South Australia]]
 
 There are three public universities local to Adelaide, as well as one private university and three constituent colleges of foreign universities. Flinders University of South Australia, the University of Adelaide, the University of South Australia and Torrens University Australia—part of the Laureate International Universities are based in Adelaide. The University of Adelaide was ranked in the top 150 universities worldwide. Flinders ranked in the top 250 and Uni SA in the top 300. Torrens University Australia is part of an international network of over 70 higher education institutions in more than 30 countries worldwide. The historic Torrens Building in Victoria Square[122] houses Carnegie Mellon University's Heinz College Australia, and University College London's School of Energy and Resources (Australia), and constitute the city's international university precinct.[123]
 
@@ -248,7 +242,7 @@ File:Bonython Hall.jpg | The Mitchell Building and Bonython Hall, University of 
 
 Cultural
 
-AGSAfront.jpg, and part of the South Australian Museum on North Terrace]]
+, and part of the South Australian Museum on North Terrace]]
 
 While established as a British province, and very much English in terms of its culture, Adelaide attracted immigrants from other parts of Europe early on, including German and other European non-conformists escaping religious persecution. The first German Lutherans arrived in 1838[137] bringing with them the vine cuttings that they used to found the acclaimed wineries of the Barossa Valley.
 
@@ -258,11 +252,9 @@ Adelaide's arts scene flourished in the 1960s and 1970s with the support of succ
 
 Over time, the Adelaide Festival has expanded to include the Adelaide Cabaret Festival, Adelaide Film Festival, Adelaide Festival of Ideas, Adelaide Writers' Week, and WOMADelaide, all held predominantly in the autumnal month of March (sometimes jocularly called 'mad March' by locals due to the hectic clustering of these events). Other festivals include FEAST (a queer culture celebration), Tasting Australia (a biennial food and wine affair), and the Royal Adelaide Show (an annual agricultural show and state fair).
 
-Adelaide_Convention_Centre_at_night.jpg, the first of its kind in South Australia, is situated on the River Torrens. Photo taken in 2007.]]
+, the first of its kind in South Australia, is situated on the River Torrens. Photo taken in 2007.]]
 
 There are many international cultural fairs, most notably the German Schützenfest and Greek Glendi. Adelaide is home to the Adelaide Christmas Pageant, the world's largest Christmas parade. As the state capital, Adelaide is home to a great number of cultural institutions with many along the boulevard of North Terrace. The Art Gallery of South Australia, with around 35,000 works, holds Australia's second largest state-based collection. Adjacent are the South Australian Museum and State Library of South Australia, while the Adelaide Botanic Garden, National Wine Centre and Tandanya National Aboriginal Cultural Institute are nearby in the East End of the city. In the back of the State Library lies the Migration Museum, Australia's oldest museum of its kind. Contemporary art scenes include the Contemporary Art Centre of South Australia. Adelaide Festival Centre, on the banks of the Torrens, is the focal point for much of the cultural activity in the city and home to the State Theatre Company of South Australia, with other venues including the Adelaide Entertainment Centre and the city's many smaller theatres, pubs and cabaret bars.
-
-AdelaidaParlamento.JPG
 
 The music of Adelaide has produced musical groups and individuals who have achieved national and international fame. This includes the Adelaide Symphony Orchestra, the Adelaide Youth Orchestra, rock bands The Angels, Cold Chisel, The Superjesus, Wolf & Cub, roots/blues group The Audreys, internationally acclaimed metal acts I Killed The Prom Queen and Double Dragon, popular Australian hip-hop outfit Hilltop Hoods, pop acts like Sia, Orianthi, Guy Sebastian, and Wes Carr, as well as internationally successful tribute act, The Australian Pink Floyd Show.
 
@@ -276,11 +268,11 @@ In 2014, Ghil'ad Zuckermann founded the Adelaide Language Festival.[139][140]
 
 Concert venues
 
-AdelaideEntertainmentCentre.jpg, the largest indoor sports and entertainment venue in Adelaide]] Adelaide pop-concert venues (past and present) include Adelaide Entertainment Centre; Adelaide Festival Theatre; Adelaide Oval; Apollo Stadium; Memorial Drive Park; Thebarton Theatre. Other concert and live theatre venues include Adelaide Town Hall; Dunstan Playhouse; Hopgood Theatre; Her Majesty's Theatre.
+, the largest indoor sports and entertainment venue in Adelaide]] Adelaide pop-concert venues (past and present) include Adelaide Entertainment Centre; Adelaide Festival Theatre; Adelaide Oval; Apollo Stadium; Memorial Drive Park; Thebarton Theatre. Other concert and live theatre venues include Adelaide Town Hall; Dunstan Playhouse; Hopgood Theatre; Her Majesty's Theatre.
 
 Media
 
-Advertiser_Building.JPG, named after the founder of _The News_, is the headquarters for the publisher of Adelaide's daily newspaper, _The Advertiser_.]]
+, named after the founder of _The News_, is the headquarters for the publisher of Adelaide's daily newspaper, _The Advertiser_.]]
 
 Newspapers
 
@@ -346,7 +338,7 @@ Crime
 
 Sport
 
-Adelaide_Oval,_2014.jpg is the home of Australian Rules football and cricket in South Australia.]] Adl_utd_stadium.jpg hosts Adelaide United.]] Brett_Maher_Court_023.jpg is home to basketball in South Australia.]] The main sports played professionally in Adelaide are Australian Rules football, association football (soccer), cricket, netball, and basketball. Adelaide is the home of two Australian Football League teams: the Adelaide Football Club and Port Adelaide Football Club, and one A-League soccer team, Adelaide United. A local Australian rules football league, the SANFL, is made up of 10 teams from around Adelaide. The SANFL has been in operation since 1877 when it began as the South Australian Football Association (SAFL) before changing its name to the SANFL in 1927. The SANFL is the oldest surviving football league of any code played in Australia. Adelaide has developed a strong culture of attracting crowds to major sporting events.[144] Until the completion of the 2012–14 renovation and upgrade of the Adelaide Oval, most large sporting events took place at either AAMI Stadium (the then home base of the Adelaide Crows, and the then Port Adelaide's home game venue), or the historic Adelaide Oval, home of the Southern Redbacks and the Adelaide Strikers cricket teams. Since completion of the upgrade, home games for Adelaide Crows and Port Adelaide now take place at Adelaide Oval.
+is the home of Australian Rules football and cricket in South Australia.]] hosts Adelaide United.]] is home to basketball in South Australia.]] The main sports played professionally in Adelaide are Australian Rules football, association football (soccer), cricket, netball, and basketball. Adelaide is the home of two Australian Football League teams: the Adelaide Football Club and Port Adelaide Football Club, and one A-League soccer team, Adelaide United. A local Australian rules football league, the SANFL, is made up of 10 teams from around Adelaide. The SANFL has been in operation since 1877 when it began as the South Australian Football Association (SAFL) before changing its name to the SANFL in 1927. The SANFL is the oldest surviving football league of any code played in Australia. Adelaide has developed a strong culture of attracting crowds to major sporting events.[144] Until the completion of the 2012–14 renovation and upgrade of the Adelaide Oval, most large sporting events took place at either AAMI Stadium (the then home base of the Adelaide Crows, and the then Port Adelaide's home game venue), or the historic Adelaide Oval, home of the Southern Redbacks and the Adelaide Strikers cricket teams. Since completion of the upgrade, home games for Adelaide Crows and Port Adelaide now take place at Adelaide Oval.
 
 Since 1884, Adelaide Oval has also hosted an international cricket test every summer, along with a number of One Day International cricket matches. Memorial Drive Park, adjacent to the Adelaide Oval, used to host Davis Cup and other major tennis events, including the Australian Open and (until 2009) the Adelaide International (now known as the Brisbane International). Adelaide's professional association football team, Adelaide United, play in the A-League. Founded in 2003, their home ground is Hindmarsh Stadium, which has a capacity of 17,000 and is one of the few purpose-built soccer stadia in Australia. Prior to United's foundation, Adelaide City and West Adelaide represented the city in the National Soccer League. The two sides, which contest the Adelaide derby against one another, now play in the National Premier Leagues South Australia.
 
@@ -354,7 +346,7 @@ For two years, 1997 and 1998, Adelaide was represented in Australia's top level 
 
 Adelaide has two professional basketball teams, the men's team being the Adelaide 36ers which plays in the National Basketball League (NBL) and the women's team, the Adelaide Lightning which plays in the Women's National Basketball League (WNBL). Both teams play their home games at the Titanium Security Arena. Adelaide has a professional netball team, the Adelaide Thunderbirds, which plays in the national netball competition, the Suncorp Super Netball championship, with home games played at Priceline Stadium. The Thunderbirds occasionally play games or finals at the Titanium Security Arena, while international netball matches are usually played at the 10,500 seat Adelaide Entertainment Centre. The Titanium Security Arena has a capacity of 8,000 and is the largest purpose-built basketball stadium in Australia.
 
-Tourdownunder2.jpg is the first event of the UCI World Tour calendar.]]
+is the first event of the UCI World Tour calendar.]]
 
 Since 1999 Adelaide and its surrounding areas have hosted the Tour Down Under bicycle race, organised and directed by Adelaide-based Mike Turtur. Turtur won an Olympic gold medal for Australia in the 4000m Team pursuit at the 1984 Los Angeles Olympics. The Tour Down Under is the largest cycling event outside Europe and was the first event outside Europe to be granted UCI ProTour status. Adelaide maintains a franchise in the Australian Baseball League, the Adelaide Bite. They have been playing since 2009, and their home stadium (until 2016) was Norwood Oval. From 2016 the team moved to the Diamond Sports Stadium located near the Adelaide International Airport due to renovations at Norwood. Its name stems from the local Great Australian Bight, and from the abundance of local Great White Sharks. Adelaide also has an Ice Hockey team, Adelaide Adrenaline in the Australian Ice Hockey League (AIHL). It was national champions in 2009 and plays its games at the IceArenA.[146]
 
@@ -373,17 +365,17 @@ Infrastructure
 
 Health
 
-University_of_Adelaide_Health_and_Medical_Science_Building.jpg Health and Medical Sciences Building]]
+Health and Medical Sciences Building]]
 
 Adelaide's two largest tertiary hospitals in the city are the Royal Adelaide Hospital (RAH), a teaching hospital of the University of Adelaide (705 beds), and the Flinders Medical Centre (580 beds) in Bedford Park, a teaching hospital of Flinders University. Other major public hospitals in the Adelaide area are the Women's and Children's Hospital (305 beds), on King William Road in North Adelaide; the Queen Elizabeth Hospital (340 beds) in Woodville and the Lyell McEwin Hospital (198 beds) in Elizabeth. These hospitals are all teaching hospitals. Additional RAH campuses which specialise in specific patient services are in the suburbs of Adelaide – the Hampstead Rehabilitation Centre in Northfield, and the Glenside Campus Mental Health Service. Adelaide also hosts numerous private hospitals in the city centre and suburbs.
 
-In June 2007 the State Government announced a series of overhauls to the health sector that would see a new hospital constructed on railyards at the west end of the city, to replace the Royal Adelaide Hospital at the east end of the city. The new 800-bed hospital has a cost of A$1.85 billion and was planned to be named the "Marjorie Jackson-Nelson Hospital" after the former Governor of South Australia.[149] However, in 2009, at the former governor's request, the state government chose to drop this name and instead transfer the Royal Adelaide Hospital name to the proposed facility. Construction started in June 2011 and finished in 2017.[150] SAHMRI_Adelaide_SA.jpg (SAHMRI) located on North Terrace]] In addition, major upgrades were announced to see the Flinders Medical Centre become the primary centre for health care for the southern suburbs, and the Lyell McEwin Hospital in Elizabeth become the centre for the northern suburbs. The trio of the Queen Elizabeth Hospital, the Modbury Hospital and the Noarlunga Hospital were to become specialist elective surgery centres. The Repatriation General Hospital was also to expand its range of speciality areas beyond veterans' health to incorporate stroke, orthopaedic rehabilitation and aged care.[151] With the "Global Financial Crisis" of 2008, it remains to be seen if and how these initiatives will proceed.
+In June 2007 the State Government announced a series of overhauls to the health sector that would see a new hospital constructed on railyards at the west end of the city, to replace the Royal Adelaide Hospital at the east end of the city. The new 800-bed hospital has a cost of A$1.85 billion and was planned to be named the "Marjorie Jackson-Nelson Hospital" after the former Governor of South Australia.[149] However, in 2009, at the former governor's request, the state government chose to drop this name and instead transfer the Royal Adelaide Hospital name to the proposed facility. Construction started in June 2011 and finished in 2017.[150] (SAHMRI) located on North Terrace]] In addition, major upgrades were announced to see the Flinders Medical Centre become the primary centre for health care for the southern suburbs, and the Lyell McEwin Hospital in Elizabeth become the centre for the northern suburbs. The trio of the Queen Elizabeth Hospital, the Modbury Hospital and the Noarlunga Hospital were to become specialist elective surgery centres. The Repatriation General Hospital was also to expand its range of speciality areas beyond veterans' health to incorporate stroke, orthopaedic rehabilitation and aged care.[151] With the "Global Financial Crisis" of 2008, it remains to be seen if and how these initiatives will proceed.
 
 The largest not-for-profit provider of community health care within Adelaide is the Royal District Nursing Service (South Australia) which provides out of hospital care and hospital avoidance care, easing pressure on the South Australia public hospital system.
 
 Transport
 
-TransAdelaideRailwayMap.svg.]]
+.]]
 
 Being centrally located on the Australian mainland, Adelaide forms a strategic transport hub for east-west and north-south routes. The city itself has a metropolitan-wide public transport system, which is managed by and known as the Adelaide Metro. The Adelaide Metro consists of a contracted bus system including the O-Bahn Busway, metropolitan railways (with diesel and electric lines), and the Adelaide-Glenelg Tram, which was extended as a metropolitan tram in 2010 through the city centre to the inner north-west suburb of Hindmarsh. There are further plans to extend the tram to Port Adelaide and Semaphore. A CBD tram loop too, is being considered and the latest Adelaide Airport master plan has also revealed a tram extension to the airport in the near future.[152][153]
 
@@ -400,13 +392,13 @@ The Adelaide metropolitan area has one freeway and three expressways. In order o
 
 Airports
 
-Adelaide_Airport,_2008.jpg plane leaving Adelaide Airport.]]
+plane leaving Adelaide Airport.]]
 
 The Adelaide metropolitan area has two commercial airports, Adelaide International Airport and Parafield Airport. Adelaide Airport, in Adelaide's western suburbs, serves in excess of 8 million passengers annually.[155] Parafield Airport, Adelaide's second airport north of the city centre, is used for small aircraft, pilot training and recreational aviation purposes. Parafield Airport served as Adelaide's main aerodrome until the opening of the Adelaide Airport in February 1955. Adelaide airport serves many international destinations and domestic destinations including all state capitals.
 
 Utilities
 
-Happy_Valley_Reservoir_20070223.jpg in early 2007]]
+in early 2007]]
 
 Energy
 

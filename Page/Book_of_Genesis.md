@@ -1,4 +1,4 @@
-Lieber_des_Ghetto_18.jpg, 1903.]] Foster_Bible_Pictures_0047-1_Jacob_Flees_Laban.jpg
+, 1903.]]
 
 The BOOK OF GENESIS, the first book of the Hebrew Bible and the Old Testament, is Judaism's account of the creation of the world and the origins of the Jewish people. It is divisible into two parts, the Primeval history (chapters 1–11) and the Ancestral history (chapters 12–50). The primeval history sets out the author's (or authors') concepts of the nature of the deity and of humankind's relationship with its maker: God creates a world which is good and fit for mankind, but when man corrupts it with sin God decides to destroy his creation, saving only the righteous Noah to reestablish the relationship between man and God. The Ancestral History (chapters 12–50) tells of the prehistory of Israel, God's chosen people. At God's command Noah's descendant Abraham journeys from his home into the God-given land of Canaan, where he dwells as a sojourner, as does his son Isaac and his grandson Jacob. Jacob's name is changed to Israel, and through the agency of his son Joseph, the children of Israel descend into Egypt, 70 people in all with their households, and God promises them a future of greatness. Genesis ends with Israel in Egypt, ready for the coming of Moses and the Exodus. The narrative is punctuated by a series of covenants with God, successively narrowing in scope from all mankind (the covenant with Noah) to a special relationship with one people alone (Abraham and his descendants through Isaac and Jacob).[1]
 
@@ -14,7 +14,7 @@ Genesis appears to be structured around the recurring phrase _elleh toledot_, me
 
 Summary
 
-Michelangelo_-_Creation_of_Adam_(cropped).jpg, 1512.]] God creates the world in six days and consecrates the seventh as a day of rest. God creates the first humans Adam and Eve and all the animals in the Garden of Eden but instructs them not to eat the fruit of the tree of knowledge of good and evil. A talking serpent portrayed as a deceptive creature or trickster, entices Eve into eating it anyway, and she entices Adam, whereupon God throws them out and curses them—Adam to getting what he needs only by sweat and work, and Eve to giving birth in pain. This is interpreted by Christians as the fall of humanity. Eve bears two sons, Cain and Abel. Cain kills Abel after God accepts Abel's offering but not Cain's. God then curses Cain. Eve bears another son, Seth, to take Abel's place.
+, 1512.]] God creates the world in six days and consecrates the seventh as a day of rest. God creates the first humans Adam and Eve and all the animals in the Garden of Eden but instructs them not to eat the fruit of the tree of knowledge of good and evil. A talking serpent portrayed as a deceptive creature or trickster, entices Eve into eating it anyway, and she entices Adam, whereupon God throws them out and curses them—Adam to getting what he needs only by sweat and work, and Eve to giving birth in pain. This is interpreted by Christians as the fall of humanity. Eve bears two sons, Cain and Abel. Cain kills Abel after God accepts Abel's offering but not Cain's. God then curses Cain. Eve bears another son, Seth, to take Abel's place.
 
 After many generations of Adam have passed from the lines of Cain and Seth, the world becomes corrupted by human sin and Nephilim, and God determines to wipe out humanity. First, he instructs the righteous Noah and his family to build an ark and put examples of all the animals on it, seven pairs of every clean animal and one pair of every unclean. Then God sends a great flood to wipe out the rest of the world. When the waters recede, God promises he will never destroy the world with water again, using the rainbow as a symbol of his promise. God sees mankind cooperating to build a great tower city, the Tower of Babel, and divides humanity with many languages and sets them apart with confusion.
 
@@ -24,7 +24,7 @@ God resolves to destroy the cities of Sodom and Gomorrah for the sins of their p
 
 Abraham and Sarah go to the Philistine town of Gerar, pretending to be brother and sister (they are half-siblings). The King of Gerar takes Sarah for his wife, but God warns him to return her, and he obeys. God sends Sarah a son whom she will name Isaac; through him will be the establishment of the covenant. Sarah drives Ishmael and his mother Hagar out into the wilderness, but God saves them and promises to make Ishmael a great nation.
 
-Rembrandt_Harmensz._van_Rijn_035.jpg, 1635)]] God tests Abraham by demanding that he sacrifice Isaac. As Abraham is about to lay the knife upon his son, God restrains him, promising him numberless descendants. On the death of Sarah, Abraham purchases Machpelah (believed to be modern Hebron) for a family tomb and sends his servant to Mesopotamia to find among his relations a wife for Isaac; after proving herself, Rebekah becomes Isaac's betrothed. Keturah, Abraham's other wife, births more children, among whose descendants are the Midianites. Abraham dies at a prosperous old age and his family lays him to rest in Hebron.
+, 1635)]] God tests Abraham by demanding that he sacrifice Isaac. As Abraham is about to lay the knife upon his son, God restrains him, promising him numberless descendants. On the death of Sarah, Abraham purchases Machpelah (believed to be modern Hebron) for a family tomb and sends his servant to Mesopotamia to find among his relations a wife for Isaac; after proving herself, Rebekah becomes Isaac's betrothed. Keturah, Abraham's other wife, births more children, among whose descendants are the Midianites. Abraham dies at a prosperous old age and his family lays him to rest in Hebron.
 
 Isaac's wife Rebecca gives birth to the twins Esau, father of the Edomites, and Jacob. Through deception, Jacob becomes the heir instead of Esau and gains his father's blessing. He flees to his uncle where he prospers and earns his two wives, Rachel and Leah. Jacob's name is changed to Israel, and by his wives and their handmaidens he has twelve sons, the ancestors of the twelve tribes of the Children of Israel, and a daughter, Dinah.
 
@@ -33,7 +33,7 @@ Joseph, Jacob's favorite son, makes his brothers jealous and they sell him into 
 
 Composition
 
-Molnár_Ábrahám_kiköltözése_1850.jpg to Canaan'' (József Molnár, 1850)]]
+to Canaan'' (József Molnár, 1850)]]
 
 Title and textual witnesses
 
@@ -56,8 +56,6 @@ Genesis is perhaps best seen as an example of a creation myth, a type of literat
 
 Themes
 
-Bourgeois_Joseph_recognized_by_his_brothers.jpg
-
 Promises to the ancestors
 
 In 1978 David Clines published his influential _The Theme of the Pentateuch_ – influential because he was one of the first to take up the question of the theme of the entire five books. Clines' conclusion was that the overall theme is "the partial fulfillment – which implies also the partial nonfulfillment – of the promise to or blessing of the Patriarchs". (By calling the fulfillment "partial" Clines was drawing attention to the fact that at the end of Deuteronomy the people are still outside Canaan).[18]
@@ -75,7 +73,7 @@ To this basic plot (which comes from the Yahwist) the Priestly source has added 
 
 Judaism's weekly Torah portions
 
-Nuremberg_chronicles_-_f_2v.png'')]]
+'')]]
 
 :*_Bereshit, on Genesis 1–6: Creation, Eden, Adam and Eve, Cain and Abel, Lamech, wickedness_
 

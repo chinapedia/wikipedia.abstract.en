@@ -9,7 +9,7 @@ Frankfurt is home to influential educational institutions, including the Goethe 
 
 Distinctions
 
-Rotlichviertel_Frankfurt_Main.JPG at Bahnhofsviertel.]] Frankfurt is the largest financial centre in continental Europe. It is home to the European Central Bank, Deutsche Bundesbank, Frankfurt Stock Exchange and several large commercial banks.
+at Bahnhofsviertel.]] Frankfurt is the largest financial centre in continental Europe. It is home to the European Central Bank, Deutsche Bundesbank, Frankfurt Stock Exchange and several large commercial banks.
 
 The Frankfurt Stock Exchange is one of the world's largest stock exchanges by market capitalization and accounts for more than 90 percent of the turnover in the German market.
 
@@ -24,7 +24,7 @@ Frankfurt has many high-rise buildings in the city centre, forming the Frankfurt
 
 Etymology
 
-Die_Frankenfurt.jpg _Frankonovurd_ (in Old High German) or _Vadum Francorum_ (in Latin) were the first names mentioned in written records from 794. It transformed to _Frankenfort_ during the Middle Ages and then to _Franckfort_ and _Franckfurth_ in the modern era. According to historian David Gans, the city was named 146 AD by its builder, a Frankish king named Zuna, who ruled over the province then known as Sicambri. He hoped thereby to perpetuate the name of his lineage.[11] The name is derived from the _Franconofurd_ of the Germanic tribe of the Franks; _Furt_ (cf. English _ford_) where the river was shallow enough to be crossed on foot.
+_Frankonovurd_ (in Old High German) or _Vadum Francorum_ (in Latin) were the first names mentioned in written records from 794. It transformed to _Frankenfort_ during the Middle Ages and then to _Franckfort_ and _Franckfurth_ in the modern era. According to historian David Gans, the city was named 146 AD by its builder, a Frankish king named Zuna, who ruled over the province then known as Sicambri. He hoped thereby to perpetuate the name of his lineage.[11] The name is derived from the _Franconofurd_ of the Germanic tribe of the Franks; _Furt_ (cf. English _ford_) where the river was shallow enough to be crossed on foot.
 
 By the 19th century, the name _Frankfurt_ had been established as the official spelling. The older English spelling of _Frankfort_ is now rarely seen in reference to Frankfurt am Main, although more than a dozen other towns and cities, mainly in the United States, use this spelling (e.g., Frankfort, Kentucky; Frankfort, New York; Frankfort, Illinois).
 
@@ -67,7 +67,7 @@ After the ill-fated revolution of 1848, Frankfurt was the seat of the first demo
 
 Frankfurt after the loss of sovereignty
 
-Courbet_Frankfurt.jpg (Old Bridge), by Gustave Courbet (1858)]] Frankfurt lost its independence after the Austro-Prussian War in 1866 when Prussia annexed several smaller states, among them the Free City of Frankfurt. The Prussian administration incorporated Frankfurt into its province of Hesse-Nassau. The Prussian occupation and annexation was perceived as a great injustice in Frankfurt, which retained its distinct western European, urban and cosmopolitan character. The formerly independent towns of Bornheim and Bockenheim were incorporated in 1890.
+(Old Bridge), by Gustave Courbet (1858)]] Frankfurt lost its independence after the Austro-Prussian War in 1866 when Prussia annexed several smaller states, among them the Free City of Frankfurt. The Prussian administration incorporated Frankfurt into its province of Hesse-Nassau. The Prussian occupation and annexation was perceived as a great injustice in Frankfurt, which retained its distinct western European, urban and cosmopolitan character. The formerly independent towns of Bornheim and Bockenheim were incorporated in 1890.
 
 In 1914, the citizens founded the University of Frankfurt, later named Goethe University Frankfurt. This marked the only civic foundation of a university in Germany; today it is one of Germany's largest.
 
@@ -92,17 +92,15 @@ In 1998, the European Central Bank was founded in Frankfurt, followed by the Eur
 
 Geography
 
-On_top_of_the_Main_Tower.jpg looking East]] It is the largest city in the federated state of Hesse in the south-western part of Germany.
+looking East]] It is the largest city in the federated state of Hesse in the south-western part of Germany.
 
 Site
 
-Frankfurt_Skyline_with_Cranes.JPG Frankfurt is located on both sides of the Main River, south-east of the Taunus mountain range. The southern part of the city contains the Frankfurt City Forest, Germany's largest city forest. The city area is and extends over east to west and north to south. The city centre is north of the River Main in Altstadt district (the historical centre) and the surrounding Innenstadt district. The geographical centre is in Bockenheim district near Frankfurt West station.
+Frankfurt is located on both sides of the Main River, south-east of the Taunus mountain range. The southern part of the city contains the Frankfurt City Forest, Germany's largest city forest. The city area is and extends over east to west and north to south. The city centre is north of the River Main in Altstadt district (the historical centre) and the surrounding Innenstadt district. The geographical centre is in Bockenheim district near Frankfurt West station.
 
 Frankfurt is the centre of the densely populated Frankfurt Rhine-Main Metropolitan Region with a population of 5.5 million. Other important cities in the region are Wiesbaden (capital of Hesse), Mainz (capital of Rhineland-Palatinate), Darmstadt, Offenbach am Main, Hanau, Aschaffenburg, Bad Homburg vor der Höhe, Rüsselsheim, Wetzlar and Marburg.
 
 Districts
-
-Frankfurt_Subdivisions_boroughs.svg
 
 The city is divided into 46 city districts (_Stadtteile_), which are in turn divided into 121 city boroughs (_Stadtbezirke_) and 448 electoral districts (_Wahlbezirke_). The 46 city districts combine into 16 area districts (_Ortsbezirke_), which each have a district committee and chairperson.
 
@@ -122,7 +120,7 @@ On 1 April 1928 the City of Höchst became part of Frankfurt, as well as its cit
 
 Dornbusch became a city district in 1946. It was created on territory that had formerly belonged to Eckenheim and Ginnheim.
 
-Enkheimer_Ried.jpg Ried]] On 1 August 1972 Hesse's smaller suburbs of Harheim, Kalbach, Nieder-Erlenbach, and Nieder-Eschbach became districts while other neighbouring suburbs chose to join the Main-Taunus-Kreis, the Landkreis Offenbach, the Kreis Groß-Gerau, the Hochtaunuskreis, the Main-Kinzig-Kreis or the Wetteraukreis.
+Ried]] On 1 August 1972 Hesse's smaller suburbs of Harheim, Kalbach, Nieder-Erlenbach, and Nieder-Eschbach became districts while other neighbouring suburbs chose to join the Main-Taunus-Kreis, the Landkreis Offenbach, the Kreis Groß-Gerau, the Hochtaunuskreis, the Main-Kinzig-Kreis or the Wetteraukreis.
 
 Bergen-Enkheim was the last suburb to become part of Frankfurt on 1 January 1977.
 
@@ -134,7 +132,7 @@ Kalbach was officially renamed Kalbach-Riedberg in 2006 because of the large res
 
 Neighbouring districts and cities
 
-Locator_map_of_Planungsverband_Ballungsraum_Frankfurt_Rhein-Main_in_Hesse.svg]]
+]]
 
 To the west Frankfurt borders the administrative district (_Landkreis_) of Main-Taunus-Kreis with towns such as Hattersheim am Main, Kriftel, Hofheim am Taunus, Kelkheim, Liederbach am Taunus, Sulzbach, Schwalbach am Taunus and Eschborn; to the northwest the Hochtaunuskreis with Steinbach, Oberursel (Taunus) and Bad Homburg vor der Höhe; to the north the Wetteraukreis with Karben and Bad Vilbel; to the northeast the Main-Kinzig-Kreis with Niederdorfelden and Maintal; to the southeast the city of Offenbach am Main; to the south the Kreis Offenbach with Neu-Isenburg and to the southwest the Kreis Groß-Gerau with Mörfelden-Walldorf, Rüsselsheim and Kelsterbach.
 
@@ -313,7 +311,7 @@ Frankfurt was historically a Protestant-dominated city. However, during the 19th
 
 Politics
 
-2017-12-17_Festhallenturnier_Frankfurt_Peter_Feldmann-4556.jpg (SPD)]] Frankfurt is one of five independent district-free cities (_kreisfreie Städte_) in Hesse, which means that it does not form part of another general-purpose local government entity, in this case it is not part of a _Landkreis_. The other four cities are the second to fifth largest cities in Hesse: Wiesbaden, Kassel, Darmstadt and Offenbach am Main. A _kreisfreie Stadt_ has territorial sovereignty within its defined city limits.
+(SPD)]] Frankfurt is one of five independent district-free cities (_kreisfreie Städte_) in Hesse, which means that it does not form part of another general-purpose local government entity, in this case it is not part of a _Landkreis_. The other four cities are the second to fifth largest cities in Hesse: Wiesbaden, Kassel, Darmstadt and Offenbach am Main. A _kreisfreie Stadt_ has territorial sovereignty within its defined city limits.
 
 In 1995 Petra Roth of the Christian Democratic Union (CDU) became Lord Mayor (_Oberbürgermeisterin_), Frankfurt's municipal leader. In 2012, Peter Feldmann (SPD) succeeded Roth as Lord Mayor. The CDU and the Alliance '90/The Greens (_Bündnis '90/Die Grünen_) formed the government.
 
@@ -341,8 +339,6 @@ Frankfurt is twinned with:
 
     Philadelphia, Pennsylvania, United States (2015)
 
-Frankfurt,_Germany_-_Partner_Cities.JPG
-
 Partnerships
 
 Partnerships and city friendships are a weaker form of cooperation than the sister city relationship, acting more like a fixed-term cooperation or limited to certain projects. Frankfurt has partnerships with the following cities:
@@ -366,7 +362,7 @@ Cityscape
 
 Landmarks
 
-Frankfurter_Römer.jpg, the city hall]] RÖMER
+, the city hall]] RÖMER
 
 Römer, the German word for Roman, is a complex of nine houses that form the Frankfurt city hall (_Rathaus_). The houses were acquired by the city council in 1405 from a wealthy merchant family. The middle house became the city hall and was later connected with its neighbours. The _Kaisersaal_ ("Emperor's Hall") is located on the upper floor and is where the newly crowned emperors held their banquets. The Römer was partially destroyed in World War II and later rebuilt. The surrounding square, the Römerberg, is named after the city hall.
 
@@ -384,7 +380,7 @@ St. Paul's Church (_Paulskirche_) is a national historic monument in Germany bec
 
 St. Paul's was partially destroyed in World War II, particularly its interior, which now has a modern appearance. It was quickly and symbolically rebuilt after the war; today it is used mainly for exhibitions and events.
 
-Frankfurt_Hauptwache_View.jpg shopping street]]
+shopping street]]
 
 ARCHÄOLOGISCHER GARTEN FRANKFURT
 
@@ -402,7 +398,7 @@ EISERNER STEG
 
 The Eiserner Steg (Iron Bridge) is a pedestrian-only bridge across the Main that connects Römerberg and Sachsenhausen. It was built in 1868 and was the second bridge to cross the river. After World War II, when it was blown up by the Wehrmacht, it was quickly rebuilt in 1946. Today some 10,000 people cross the bridge on a daily basis.
 
-Alte_Oper_Frankfurt_Winter_2008.jpg, now a concert hall, at Opernplatz]]
+, now a concert hall, at Opernplatz]]
 
 ALTE OPER
 
@@ -446,8 +442,6 @@ St. Leonhard, on the Main close to the bridge Eiserner Steg, is a Catholic late 
 
 21st-century architecture
 
-The_Squaire,_Frankfurt_am_Main-1060.jpg
-
 -   DIE WELLE (_The Wave_), built 1998–2003, a complex of three wavelike-formed office buildings next to the Opernplatz.
 -   ALTE STADTBIBLIOTHEK, rebuilt 2003–2005, reconstruction of the old public library house originally built 1820–1825.
 -   PALAIS THURN UND TAXIS, rebuilt 2004–2009, reconstruction of a palace originally built 1731–1739.
@@ -456,7 +450,7 @@ The_Squaire,_Frankfurt_am_Main-1060.jpg
 
 Skyscrapers
 
-Maintower-spitze-005.jpg with a public observation deck at 200 metres]]
+with a public observation deck at 200 metres]]
 
 Frankfurt is one of the few European cities with a significant number of skyscrapers, (buildings at least tall). It hosts 14 out of Germany's 15 skyscrapers. Most skyscrapers and high-rise office buildings are located in the financial district (Bankenviertel) near the city centre, around the trade fair premises (Europaviertel) and at Mainzer Landstraße between Opernplatz and Platz der Republik, which connects the two areas.
 
@@ -484,11 +478,9 @@ Other high-rise buildings include:
 -   CITY-HAUS, – Main tenant is DZ Bank.
 -   GALLILEO, – Main tenant is Commerzbank.
 
-Frankfurt_Skyline_Pano.Südwest.20130618.jpg
-
 History of high-rise buildings
 
-Frankfurt_Skyline_(16259801511).jpg For centuries, St. Bartholomeus's Cathedral was the tallest structure. The first building to exceed the 95-metre-high cathedral was not an office building but a grain silo, the Henninger Turm, built from 1959 to 1961.
+For centuries, St. Bartholomeus's Cathedral was the tallest structure. The first building to exceed the 95-metre-high cathedral was not an office building but a grain silo, the Henninger Turm, built from 1959 to 1961.
 
 The first high-rise building boom came in the 1970s when Westend Gate (then called _Plaza Büro Center_) and Silberturm were constructed and became the tallest buildings in Germany with a height of 159.3 metres and 166.3 metres, respectively. Around the same time, Frankfurter Büro Center and City-Haus (142.4 metres and 142.1 metres) were constructed at Mainzer Landstraße and Eurotower (148.0 metres) and Garden Tower (127.0 metres; then called _Helaba-Hochhaus_) were constructed in the financial district.
 
@@ -500,7 +492,7 @@ In 21st-century Frankfurt, more high-rise buildings and skyscrapers (e.g., Skype
 
 Other tall structures
 
-Europaturm_Abend.jpg, a 337 m communications tower]]
+, a 337 m communications tower]]
 
 -   EUROPATURM — The Europe Tower is a telecommunications tower, also known as the Frankfurt TV Tower, built from 1974 to 1979. With a height of 337.5 metres it is the tallest tower and the second tallest structure in Germany after the Fernsehturm Berlin. It was open to the public until 1999, with an entertainment establishment in the revolving top. It is normally referred to by locals as the "Ginnheimer Spargel" (_Ginnheim Asparagus_), but stands a few metres within Bockenheim district.
 -   HENNINGER TURM — The Henninger Tower was a 120-metre-high grain silo built from 1959 to 1961 and owned by Henninger Brewery. It was the highest structure until 1974. The Henninger Tower had two rotating restaurants at the height of 101 and 106 metres and an open-air observation deck at the height of 110 metres. The tower closed to the public in October 2002 and was demolished in 2013 to be replaced by a 140 m (459 ft) tall residential tower, which is externally inspired by the old Henninger Turm, and will contain 130 luxury apartments. The cornerstone for this project was laid in June 2014 and was expected to be completed sometime in 2016. From 1962 to 2008 a famous yearly cycling race was named after the tower, the "Radrennen Rund um den Henninger Turm" (_Cycling race around Henninger Tower_). The now-renamed race is still a yearly event.
@@ -508,7 +500,7 @@ Europaturm_Abend.jpg, a 337 m communications tower]]
 
 Shopping streets
 
-Frankfurt_Am_Main-Zeil-Ansicht_vom_Maintower_am_fruehen_Abend-20110328.jpg, Frankfurt's central shopping street.]]
+, Frankfurt's central shopping street.]]
 
 -   '''Zeil ''' – Frankfurt's central shopping street. It is a pedestrian-only area and is bordered by two large public squares, Hauptwache in the west and Konstablerwache in the east. It is the second most expensive street for shops to rent in Germany after the Kaufingerstraße in Munich. 85 percent of the shops are retail chains such as H&M, Saturn, Esprit, Zara or NewYorker. In 2009 a new shopping mall named MyZeil opened there with nearly 100 stores and chains like Hollister. Three more shopping malls occupy the Zeil: Zeilgalerie, Galeria Kaufhof and Karstadt, as well as large fashion retail clothing stores from Peek & Cloppenburg and C&A. During the month before Christmas, the extended pedestrian-only zone is host to Frankfurt Christmas Market, one of the largest and oldest Christmas markets in Germany.
 -   GOETHESTRASSE – Frankfurt's most expensive shopping street with prestigious shops like Louis Vuitton, Prada, Gucci, Tiffany, Giorgio Armani, Versace, Cartier, Burberry, Vertu and Bulgari. It is located between the financial district and the city centre and runs from Goetheplatz to Opernplatz.
@@ -522,7 +514,7 @@ Frankfurt_Am_Main-Zeil-Ansicht_vom_Maintower_am_fruehen_Abend-20110328.jpg, Fran
 
 Green city
 
-Skyline-sued-ffm001.jpg seen from Goethe Tower, Frankfurt's skyline in the background (2007)]] Deutsche_Bank_Taunusanlage.jpg with Deutsche Bank Twin Towers]] With a large forest, many parks, the Main riverbanks and the two botanical gardens, Frankfurt is considered a "green city": More than 50 percent of the area within the city limits are protected green areas.[44]
+seen from Goethe Tower, Frankfurt's skyline in the background (2007)]] with Deutsche Bank Twin Towers]] With a large forest, many parks, the Main riverbanks and the two botanical gardens, Frankfurt is considered a "green city": More than 50 percent of the area within the city limits are protected green areas.[44]
 
 -   '''Frankfurter Grüngürtel _' – The Green Belt is a ring-shaped public green space around the city. With 8,000 ha it covers a third of the administrative area. It includes the Frankfurter Stadtwald (_Frankfurt City Forest_, Germany's largest forest within a city), the Schwanheimer Düne (_Schwanheim Dune_), the Niddatal (_Nidda Valley_), the Niddapark, the Lohrberg (_Lohr Mountain_, Frankfurt's only vineyard), the Huthpark, the Enkheimer Ried (_Enkheim Marsh_), the Seckbacher Ried (_Seckbach Marsh'') and the Fechenheimer Mainbogen (a S-shaped part of the Main river in Fechenheim). The Green Belt is a protected area which means that housing is not allowed. The Green Belt was formally created in 1991 with its own constitution.
 -   '''Mainuferpark _' – The Mainuferpark (_Main Riverbanks Park_) is the common term to describe the inner-city Main riverbanks. It is an auto-free zone with large green areas that is popular with strollers and tourists, especially in the summertime, when it can become crowded. The southern riverbank, which continues further to Offenbach am Main and Hanau, offers the best skyline views. The northern riverbank ends in the west at the former Westhafen (_West Harbour_, a residential housing area) and is growing to the east: A former industrial-used area between the future Seat of the European Central Bank and the Osthafen (_East Harbour_) was to become a park named Hafenpark (_Harbour Park'').
@@ -536,7 +528,7 @@ Culture
 
 Museums
 
-FrankfurtM_Staedel.jpg]] Schirn-ffm001.jpg from above]] Frankfurt_Am_Main-Senckenberg_Naturmuseum_von_Osten-20120325.jpg]]
+]] from above]] ]]
 
 With more than 30 museums, Frankfurt has one of the largest variety of museums in Europe. 20 museums are part of the Museumsufer, located on the front row of both sides of the Main riverbank or nearby, which was created on an initiative by cultural politician Hilmar Hoffmann.
 
@@ -577,9 +569,7 @@ Other museums are the Dialogmuseum (Dialogue Museum) in the Ostend district, Ein
 
 Performing arts
 
-Festhalle-Frankfurt-am-Main-2.jpg]]
-
-The_English_Theatre_Ffm_DSC_0808.jpg
+]]
 
 Music
 
@@ -602,14 +592,12 @@ Venues
 
 Botanical gardens
 
-Palmengarten-ffm-Haus_Rosenbrunn-002.jpg Frankfurt is home to two major botanical gardens.
+Frankfurt is home to two major botanical gardens.
 
 -   Palmengarten – Located in the Westend district, it is Hesse's largest botanical garden covering 22 ha. It opened to the public in 1871. The botanical exhibits are organized according to their origin in free-air or in greenhouses that host tropical and subtropical plants, hence the name "Palm Garden".
 -   BOTANISCHER GARTEN DER GOETHE-UNIVERSITÄT – The university's botanical garden is also an arboretum. It contains about 5,000 species, with special collections of _Rubus_ (45 species) and indigenous plants of central Europe. It is organized into two major areas: The geobotanical area contains an alpine garden, arboretum, meadows, steppes, marsh, and a pond, as well as collections of plants from the Canary Islands, Caucasus, East Asia, Mediterranean, and North America and the systematic and ecological collection includes crop plants, endangered species, ornamental plants, roses, and the _Neuer Senckenbergischer Arzneipflanzengarten_ (New Senckenberg Medicinal Plant Garden, 1200 m²). The Botanical Garden, the neighbouring Palmengarten and the neighbouring Grüneburgpark form the largest inner-city green area.
 
 Foreign culture
-
-Instituto-cervantes-ffm003.jpg
 
 -   INSTITUTO CERVANTES – Named after Miguel de Cervantes, one of the most important Spanish authors, this is the world's largest organization for promoting the study and teaching of Spanish language and culture. 54 such Centros Cervantes across the world offer Spanish language and history courses. The Frankfurt branch was officially opened in September 2008 by Felipe, Prince of Asturias and his wife Letizia, Princess of Asturias. It is located in the so-called _Amerika-Haus_.1
 -   INSTITUT FRANÇAIS – A French public industrial and commercial organization (EPIC), started in 1907 by the Ministry of Foreign Affairs for promoting French, francophone as well as local cultures around the world. The French Institute works closely with the French cultural network abroad consisting of more than 150 branches and nearly 1000 branches of the Alliance française around the world.2
@@ -618,8 +606,6 @@ Instituto-cervantes-ffm003.jpg
 -   CENTRAL AND EASTERN EUROPEAN ONLINE LIBRARY – CEEOL is an online archive providing access to full text articles from humanities and social science scholarly journals on Central, Eastern and South Eastern European topics. Subject areas include anthropology, culture and society, economy, gender studies, history, Judaic studies, fine arts, literature, linguistics, political sciences and social sciences, philosophy and religion. CEEOL is operated by Questa.Soft GmbH.5
 
 Festivals
-
-Museumsuferfest_2005_-_Riesenrad.jpg Frankfurt-Waeldchestag.jpg Luminale_2012_-_OVO.jpg
 
 -   MUSEUMSUFERFEST – _Museums Riverbank Festival_ is one of Germany's biggest cultural festivals, attracting more than 3 million visitors over three days at the end of August along the Main riverbank in the city centre. The 20 museums there open far into the night. It offers live music, dance shows, booths for crafts, jewellery, clothes and food stands from around the world.
 -   DIPPEMESS – Frankfurt's oldest folk festival is the _Festival of Stoneware_, which takes place semi-annually around Easter and the end of September in the eastern area. "Dippe" is a regional Hessian dialect word meaning "pot" or "jar" which would not be understood in most other German regions. Mentioned for the first time in the 14th century as an annual marketplace it is now more of an amusement park. The name of the festival derives from its original purpose, when it was a fair where traditionally crafted jars, pots and other stoneware were on offer.
@@ -631,8 +617,6 @@ Museumsuferfest_2005_-_Riesenrad.jpg Frankfurt-Waeldchestag.jpg Luminale_2012_-_
 
 Nightlife
 
-CocoonClub_-_public_coccon.jpg Frankfurt_Skyline_at_Night.jpg
-
 Frankfurt offers a variety of restaurants, bars, pubs and clubs. Clubs concentrate in and around the city centre and in the Ostend district, mainly close to Hanauer Landstraße. Restaurants, bars and pubs concentrate in Sachsenhausen, Nordend, Bornheim and Bockenheim.
 
 One of the main venues of the early Trance music sound was the Omen nightclub (closed 1998). Another popular disco club of the 1980-1990s and a hotspot for Techno/Trance music was the Dorian Gray, located within Terminal 1 at Frankfurt Airport. Because of the location at the airport the club had no restrictions regarding opening hours. The club had to close at the end of 2000 because of stricter fire safety regulations. Also notable for its extraordinary design was Coocoon Club in Fechenheim which opened in 2004 was and voted _best techno club of the year_ by music magazines "Groove" and "Raveline" in 2004, 2005, 2006 and 2007. It closed in 2012.[47]
@@ -641,8 +625,6 @@ One of the main venues of the early Trance music sound was the Omen nightclub (c
 -   U60311 – Techno club in the city centre. "60311" is the postal code of the area. It was voted _best club of the year_ by music magazines "Groove" and "Raveline" multiple times. Its location was an underground former pedestrian underpass. It closed in 2012.
 -   LIVING XXL – Club/restaurant in the financial district, it was located on the ground floor of the Eurotower and closed in 2013.[48]
 -   CLUB 101 — Located on the 24th floor of the Japan Center. It closed at the end of 2016.[49]
-
-Batschkapp-2014-Gwinnerstrasse-Ffm-Seckbach-726-728.jpg
 
 -   BATSCHKAPP – Alternative rock club, located in Frankfurt-Seckbach. It opened in 1976 and attracts mostly people with a left-wing political attitude. Joschka Fischer, Germany's former Foreign Minister, was a regular guest in the 1980s.
 -   VELVET CLUB (Innenstadt)
@@ -661,14 +643,10 @@ Batschkapp-2014-Gwinnerstrasse-Ffm-Seckbach-726-728.jpg
 
 Domestic culture
 
-Frankfurter-kueche-vienna.JPG
-
 -   Frankfurt kitchen – Designed originally in 1926 for the New Frankfurt-project and built in some 10,000 units, the kitchen became a milestone in domestic architecture, considered the forerunner of modern fitted kitchens.
 -   Frankfurt cupboard – The Baroque Frankfurt-style cupboards were used to store the family linen, one of them by Goethe's father, who took one cupboard to Rome. The most luxurius versions have wave-shaped parts, some are made of solid cherry wood inlaid with plumwood.
 
 Culinary specialties
-
-Apfelwein_Geripptes_Bembel.jpg Frankfurter-rippchen-mit-kraut-kpl.001-1.jpg
 
 -   APFELWEIN – _Apple wine_ or _hard cider_ is regionally known as "Ebbelwoi", "Äppler" or "Stöffsche". It has an alcohol content of 5.5%–7% and a tart, sour taste. It is traditionally served in a glass, typically decorated with lozenges, called "Geripptes", a full glass is then called "Schoppen". Apfelwein is also available in a stoneware jar locally known as "Bembel". A group normally orders a "Bembel" and shares the contents. Apfelwein can be ordered as "sauergespritzer", which is apfelwein blended with 30% mineral water or as "süssgespritzer", which is Apfelwein blended with lemon soda, orange soda or fresh-pressed apple juice (lemon soda being the most common). Most of the pubs which serve Apfelwein are located in Sachsenhausen, which is therefore known as "Ebbelwoi district". Due to its national drink Frankfurt is sometimes called "Big Ebbel" (pronunciation with hessian dialect), an homage to Big Apple, the famous nickname of New York City.
 -   GRÜNE SOSSE – _Green sauce_ is a sauce made with hard-boiled eggs, oil, vinegar, salt and generous amount of seven fresh herbs, namely borage, sorrel, garden cress, chervil, chives, parsley and salad burnet. Variants, often due to seasonal availability include dill, lovage, lemon balm and spinach. Original green sauce Frankfurt-style is made of herbs that were gathered only on fields within the city limits.
@@ -684,7 +662,7 @@ Transport
 
 Airports
 
-AirportFrankfurt_fromair_2010-09-19.jpg (with the fourth runway under construction in 2010) and the Frankfurter Kreuz (lower right corner)]]
+(with the fourth runway under construction in 2010) and the Frankfurter Kreuz (lower right corner)]]
 
 Frankfurt Airport
 
@@ -702,13 +680,13 @@ Frankfurt Egelsbach Airport (_Flugplatz Frankfurt-Egelsbach_) is a busy general 
 
 Roads
 
-A_3_Frankfurter_Kreuz,_2014.JPG to the Frankfurter Kreuz]] Frankfurt is a traffic hub for the German motorway (_Autobahn_) system. The Frankfurter Kreuz is an Autobahn interchange close to the airport, where the Bundesautobahn 3 (A3), Cologne to Würzburg, and the Bundesautobahn 5 (A5), Basel to Hanover, meet. With approximately 320,000 cars passing through it every day it is Europe's most heavily used interchange. The Bundesautobahn 66 (A66) connects Frankfurt with Wiesbaden in the west and Fulda in the east. The Bundesautobahn 661 (A661) is mainly a commuter motorway which starts in the south (Egelsbach), runs through the eastern part and ends in the north (Oberursel). The Bundesautobahn 648 (A648) is a very short motorway in the western part which primarily serves as a fast connection between the A 66 and the Frankfurt Trade Fair. The A5 in the west, the A3 in the south and the A661 in the north-east form a ring road around the inner city districts and define a Low-emission zone (_Umweltzone_; established in 2008), meaning that vehicles have to meet certain emission criteria to enter the zone.
+to the Frankfurter Kreuz]] Frankfurt is a traffic hub for the German motorway (_Autobahn_) system. The Frankfurter Kreuz is an Autobahn interchange close to the airport, where the Bundesautobahn 3 (A3), Cologne to Würzburg, and the Bundesautobahn 5 (A5), Basel to Hanover, meet. With approximately 320,000 cars passing through it every day it is Europe's most heavily used interchange. The Bundesautobahn 66 (A66) connects Frankfurt with Wiesbaden in the west and Fulda in the east. The Bundesautobahn 661 (A661) is mainly a commuter motorway which starts in the south (Egelsbach), runs through the eastern part and ends in the north (Oberursel). The Bundesautobahn 648 (A648) is a very short motorway in the western part which primarily serves as a fast connection between the A 66 and the Frankfurt Trade Fair. The A5 in the west, the A3 in the south and the A661 in the north-east form a ring road around the inner city districts and define a Low-emission zone (_Umweltzone_; established in 2008), meaning that vehicles have to meet certain emission criteria to enter the zone.
 
 The streets of central Frankfurt are usually congested with cars during rush hour. Some areas, especially around the shopping streets Zeil, Goethestraße and Freßgass, are pedestrian-only streets. Car parks are located throughout the city and especially in the city centre.
 
 Railway stations
 
-Hauptbahnhof_Frankfurt.jpg]] Hauptbahnhof_Frankfurt_ICE3-NL_251-dLuh.jpg]] VGF_S201_29.11.2005_Suedbahnhof.JPG]] Frankfurt_Hauptbahnhof_tief_S-Bahn_S6.jpg at Central station (underground)]]
+]] ]] ]] at Central station (underground)]]
 
 Frankfurt Central Station
 
@@ -736,7 +714,7 @@ There are three stations for intercity bus services in Frankfurt: one at the sou
 
 Public transport
 
-Frankfurt_U-Bahn_Train_Type_U4.jpg train at Hauptwache]] Frankfurt_am_Main_-_Netzplan_Schienennahverkehr.png S-Bahn_Rhein-Main_Map.svg The city has two rapid transit systems: the U-Bahn and the S-Bahn, as well as an above-ground tram system. Information about the U- and S-Bahn can be found on the website of the RMV.[53]
+train at Hauptwache]] The city has two rapid transit systems: the U-Bahn and the S-Bahn, as well as an above-ground tram system. Information about the U- and S-Bahn can be found on the website of the RMV.[53]
 
 S-Bahn
 
@@ -762,7 +740,7 @@ Uber ceased operations in Frankfurt on 9 November 2015 after operating in the ci
 
 Bicycles
 
-Frankfurt_Velotaxi.jpg Deutsche Bahn makes bicycles available for hire through their Call a Bike service. The bicycles are stationed all over the city, including at selected railway stations. They can easily be spotted because of their eye-catching silver-red colour. To rent a specific bike, riders either call a service number to get an unlock code or reserve the bike via the smartphone application. To return the bike, the rider locks it within a designated return area (and calls the service number, if not booked via the app).[56]
+Deutsche Bahn makes bicycles available for hire through their Call a Bike service. The bicycles are stationed all over the city, including at selected railway stations. They can easily be spotted because of their eye-catching silver-red colour. To rent a specific bike, riders either call a service number to get an unlock code or reserve the bike via the smartphone application. To return the bike, the rider locks it within a designated return area (and calls the service number, if not booked via the app).[56]
 
 Nextbike also makes bicycles available for hire in Frankfurt. They are stationed all over the city. These can be spotted with their blue color scheme.
 
@@ -785,7 +763,7 @@ The city is expected to benefit from international banks relocating jobs from Lo
 
 Central banks
 
-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_14.jpg Frankfurt is home to two important central banks: the German Bundesbank and the European Central Bank (ECB).[67]
+Frankfurt is home to two important central banks: the German Bundesbank and the European Central Bank (ECB).[67]
 
 European Central Bank
 
@@ -799,7 +777,7 @@ The Deutsche Bundesbank (German Federal Bank), located in Ginnheim, was establis
 
 Commercial banks
 
-Frankfurt_Deutsche_Bank.jpg in the financial district]] Westendtower-5.JPG, also known as _Westendstraße 1_ or _Crown Tower_, Headquarters of DZ Bank]] OpernturmVoll.jpg, Headquarters of UBS Germany, at the Opernplatz]] In 2010, 63 national and 152 international banks had a registered office, including the headquarters of the major German banks, as well as 41 offices of international banks.[68] Frankfurt is therefore known as Bankenstadt ("City of the banks") and nicknamed "Mainhattan" (a portmanteau of the local Main river and Manhattan in New York City) or "Bankfurt". 73,200 people were employed at banks in 2010.
+in the financial district]] , also known as _Westendstraße 1_ or _Crown Tower_, Headquarters of DZ Bank]] , Headquarters of UBS Germany, at the Opernplatz]] In 2010, 63 national and 152 international banks had a registered office, including the headquarters of the major German banks, as well as 41 offices of international banks.[68] Frankfurt is therefore known as Bankenstadt ("City of the banks") and nicknamed "Mainhattan" (a portmanteau of the local Main river and Manhattan in New York City) or "Bankfurt". 73,200 people were employed at banks in 2010.
 
 -   DEUTSCHE BANK — Germany's largest commercial bank. It had 15% share of private customers and total assets of €1,900 billion in 2010. Deutsche Bank ranks among the 30 largest banks in the world and the ten largest banks in Europe.[69] Deutsche Bank is listed on the DAX, the stock market index of the 30 largest German business companies at the Frankfurt Stock Exchange. In November 2010 Deutsche Bank bought the majority of shares of competitor Postbank. Its headquarters are located at Taunusanlage in the financial district.
 -   DZ BANK — Central institution for more than 900 co-operative banks (_Volksbanken und Raiffeisenbanken_) and their 12,000 branch offices in Germany and is a corporate and investment bank. It is Germany's second-largest bank (total assets: €509 billion). The DZ Bank Group defines itself primarily as a service provider for the local Volksbanken and Raiffeisenbanken and their 30 million clients. The DZ Bank headquarters are the Westend Tower and the City-Haus at Platz der Republik. The DZ Bank Group includes Union Investment, DVB Bank and Reisebank, which are also headquartered in Frankfurt.
@@ -815,7 +793,7 @@ Many international banks have a registered or a representative office, e.g., Cre
 
 Frankfurt Stock Exchange
 
-Bulle_und_Bär_Frankfurt.jpg in front of the Frankfurt Stock Exchange]] The Frankfurt Stock Exchange (_Frankfurter Wertpapierbörse_) began in the 9th century. By the 16th century Frankfurt had developed into an important European hub for trade fairs and financial services. Today the Frankfurt Stock Exchange is by far the largest in Germany, with a turnover of more than 90 percent of the German stock market and is the third-largest in Europe after the London Stock Exchange and the European branch of the NYSE Euronext. The most important stock market index is the DAX, the index of the 30 largest German business companies listed at the stock exchange. The stock exchange is owned and operated by Deutsche Börse, which is itself listed in the DAX. Deutsche Börse also owns the European futures exchange Eurex and clearing company Clearstream. Trading takes place exclusively via the Xetra trading system, with redundant floor brokers taking on the role of market-makers on the new platform.
+in front of the Frankfurt Stock Exchange]] The Frankfurt Stock Exchange (_Frankfurter Wertpapierbörse_) began in the 9th century. By the 16th century Frankfurt had developed into an important European hub for trade fairs and financial services. Today the Frankfurt Stock Exchange is by far the largest in Germany, with a turnover of more than 90 percent of the German stock market and is the third-largest in Europe after the London Stock Exchange and the European branch of the NYSE Euronext. The most important stock market index is the DAX, the index of the 30 largest German business companies listed at the stock exchange. The stock exchange is owned and operated by Deutsche Börse, which is itself listed in the DAX. Deutsche Börse also owns the European futures exchange Eurex and clearing company Clearstream. Trading takes place exclusively via the Xetra trading system, with redundant floor brokers taking on the role of market-makers on the new platform.
 
 On 1 February 2012 European Commission blocked the proposed merger of Deutsche Börse and NYSE Euronext. "The merger between Deutsche Börse and NYSE Euronext would have led to a near-monopoly in European financial derivatives worldwide. These markets are at the heart of the financial system and it is crucial for the whole European economy that they remain competitive. We tried to find a solution, but the remedies offered fell far short of resolving the concerns."[70] European competition commissioner, Joaquín Almunia, said.
 
@@ -823,7 +801,7 @@ It is located in the city centre at the Börsenplatz. Deutsche Börse's headquar
 
 Frankfurt Trade Fair
 
-Messefrankfurt-messeturm-und-messebesucher.jpg seen from the trade fair premises]] Frankfurt Trade Fair (_Messe Frankfurt_) has the third-largest exhibition site in the world with a total of 578,000 square metres (6,221,540 square feet). The trade fair premises are located in the western part between Bockenheim, the Westend and the Gallus district. It houses ten exhibition halls with a total of 321,754 square meters (3,463,331 square feet) of space and 96,078 square metres (1,034,175 square feet) of outdoor space.
+seen from the trade fair premises]] Frankfurt Trade Fair (_Messe Frankfurt_) has the third-largest exhibition site in the world with a total of 578,000 square metres (6,221,540 square feet). The trade fair premises are located in the western part between Bockenheim, the Westend and the Gallus district. It houses ten exhibition halls with a total of 321,754 square meters (3,463,331 square feet) of space and 96,078 square metres (1,034,175 square feet) of outdoor space.
 
 Hosted in Frankfurt are the Frankfurt Motor Show (_Internationale Automobil-Ausstellung – IAA_), the world's largest auto show, the Frankfurt Book Fair (_Frankfurter Buchmesse_), the world's largest book fair, the Ambiente Frankfurt, the world's largest consumer goods fair, the Achema, the world's largest plant engineering fair, and many more like Paperworld, Christmasworld, Beautyworld, Tendence Lifestyle or Light+Building.
 
@@ -835,7 +813,7 @@ A landmark building of the trade fair (and of the whole city) is the Messeturm (
 
 Aviation
 
-2010-07-21_A380_LH_D-AIMB_EDDF_06.jpg]] Frankfurt Airport is one of the busiest airports in the world and is also the single largest place of work in Germany with over 500 companies which employ 71,500 people (2010).[71]
+]] Frankfurt Airport is one of the busiest airports in the world and is also the single largest place of work in Germany with over 500 companies which employ 71,500 people (2010).[71]
 
 Lufthansa
 
@@ -903,7 +881,7 @@ Frankfurt has Germany's highest concentration of homeowners. This is partly attr
 
 Other
 
-Industriepark_Höchst,_Leunabrücke.jpg Hauptbahnhof-ffm-gleisfeld-014.jpg, operated by Deutsche Bahn]] Mainova_-_Müllheizkraftwerk_Nordweststadt_-_Frankfurt_am_Main.jpg heating plant]] Frankfurt is home to companies from the chemical, the transportation, the telecommunication and the energy industry. Some of the larger companies are:
+, operated by Deutsche Bahn]] heating plant]] Frankfurt is home to companies from the chemical, the transportation, the telecommunication and the energy industry. Some of the larger companies are:
 
 -   INDUSTRIEPARK HÖCHST — An industrial park in Höchst. It is one of Germany's largest with over 90 companies from the pharmaceutical, the chemical and the biotechnology industry, including Celanese, Clariant, BASF, Merck KGaA and Siemens. It was founded by chemical company Hoechst AG in 1874. At the beginning of the 1980s Hoechst AG was the largest pharmaceutical corporation and Industriepark Höchst was known as "the pharmacy of the world". Hoechst AG merged with Rhône-Poulenc to become Aventis in 1999 and in 2004 Aventis merged with Sanofi-Synthélabo to become Sanofi-Aventis. In 2005, around 22,000 people worked at Industriepark Höchst. In 2011, Ticona now part of Celanese, an international manufacturer of engineering polymers, moved to Industriepark Höchst.
 -   DEUTSCHE BAHN – Deutsche Bahn subsidiaries DB Fernverkehr, DB Regio, DB Stadtverkehr, DB Netz, DB Schenker and the corporate development department of Deutsche Bahn are Frankfurt-based.
@@ -938,7 +916,7 @@ Langen is home to Deutsche Flugsicherung, the German air traffic control.
 
 Quality of life
 
-A5_with_Frankfurt_airport_on_the_horizon_-_Autobahn_A5_mit_Flughafen_Frankfurt_am_Horizont_-_02.jpg According to a ranking list (2001) produced by the University of Liverpool, Frankfurt is the richest city in Europe by GDP per capita, followed by Karlsruhe, Paris and Munich.[78]
+According to a ranking list (2001) produced by the University of Liverpool, Frankfurt is the richest city in Europe by GDP per capita, followed by Karlsruhe, Paris and Munich.[78]
 
 Frankfurt was voted the 7th in the Mercer Quality of Living Survey by the Mercer Quality of Living Survey (2012),[79] seventh in the Mercer Quality of Living Survey (2010) and 18th at the Economist's World's Most Liveable Cities Survey (2011).[80] According to an annual citizen survey (2010), arranged by the city council, 66 percent inhabitants are satisfied or highly satisfied with the city, while only 6 percent said that they are dissatisfied. Compared to the 1993's survey the number of satisfied inhabitants has grown about 22 percent while the number of dissatisfied inhabitants was reduced by 8 percent. 84 percent of the inhabitants like to live in Frankfurt, 13 percent would rather choose to live somewhere else. 37 percent are satisfied with the public safety (1993: only 9 percent), 22 percent are dissatisfied (1993: 64 percent).[81]
 
@@ -947,7 +925,7 @@ Frankfurt consistently has the highest levels of crime per 100,000 inhabitants i
 
 Governmental institutions
 
-Frankfurt_Westhafen_Tower_2011a.jpg, home to the European Insurance and Occupational Pensions Authority (EIOPA)]]
+, home to the European Insurance and Occupational Pensions Authority (EIOPA)]]
 
 European Insurance and Occupational Pensions Authority
 
@@ -968,7 +946,7 @@ Frankfurt is one of two sites of the German National Library (_Deutsche National
 
 Trade unions and associations
 
-Ig-metall-haus-2010-ffm-028.jpg]] Frankfurt is home to multiple trade unions and associations, including:
+]] Frankfurt is home to multiple trade unions and associations, including:
 
 -   IG Metall, Germany's largest metalworkers trade union, based at the Main Forum high-rise building in the Gutleutviertel district
 -   IG Bauen-Agrar-Umwelt, a union for construction and engineering workers,
@@ -991,11 +969,11 @@ Tourism
 
 Sights
 
-Alte_Oper_Frankfurt_&_UBS_Abend.jpg Kurhaus_Wiesbaden_blaue_Stunde_290-L4.jpg Saalburg.jpg Army Camp Saalburg]] Frankfurt is one of Germany's leading tourist destinations. In addition to its infrastructure and economy, its diversity supports a vibrant cultural scene. This blend of attractions led 4.3 million tourists (2012) to visit Frankfurt.[85] The Hotels in central Frankfurt offer 34,000 beds in 228 hotels, of which 13 are luxury hotels and 46 are first-class hotels.[86]
+Army Camp Saalburg]] Frankfurt is one of Germany's leading tourist destinations. In addition to its infrastructure and economy, its diversity supports a vibrant cultural scene. This blend of attractions led 4.3 million tourists (2012) to visit Frankfurt.[85] The Hotels in central Frankfurt offer 34,000 beds in 228 hotels, of which 13 are luxury hotels and 46 are first-class hotels.[86]
 
 Sights in the Frankfurt Rhein-Main-Area
 
-Mühltal_-_Burg_Frankenstein_11_ies.jpg]] Limmeuble_Waldspirale_(Darmstadt)_(7954668126).jpg]] Darmstadt_Russisch-Orthodoxe_Kapelle_Front_4.JPG Mathildenhoehe and Russian Tsar's chapel]]
+]] ]] Mathildenhoehe and Russian Tsar's chapel]]
 
 Besides the tourist attractions in central Frankfurt many internationally famous sites are within 80 km (50 mi) of the city, such as:
 
@@ -1040,7 +1018,7 @@ South
 
 Consulates
 
-Frankfurt,_Zeppelinallee_43,_griechisches_Generalkonsulat.JPG As a profoundly international city, Frankfurt hosts 92 diplomatic missions (consulates and consulates-general). Worldwide, only New York City and Hamburg are non-capital cities with more foreign representation. The Consulate General of the United States in Eckenheim is the largest American consulate in the world.
+As a profoundly international city, Frankfurt hosts 92 diplomatic missions (consulates and consulates-general). Worldwide, only New York City and Hamburg are non-capital cities with more foreign representation. The Consulate General of the United States in Eckenheim is the largest American consulate in the world.
 
 
 Courts

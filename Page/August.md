@@ -1,4 +1,4 @@
-Aug}} Reeve_and_Serfs.jpg in the August calendar page of the Queen Mary Psalter (fol. 78v), ca. 1310]] AUGUST is the eighth month of the year in the Julian and Gregorian calendars, and the fifth of seven months to have a length of 31 days.[1] It was originally named _Sextilis_ in Latin because it was the sixth month in the original ten-month Roman calendar under Romulus in 753 BC, and March was the first month of the year. About 700 BC, it became the eighth month when January and February were added to the year before March by King Numa Pompilius, who also gave it 29 days. Julius Caesar added two days when he created the Julian calendar in 46 BC (708 AUC), giving it its modern length of 31 days. In 8 BC, it was renamed in honor of Augustus. According to a Senatus consultum quoted by Macrobius, he chose this month because it was the time of several of his great triumphs, including the conquest of Egypt.[2]
+Aug}} in the August calendar page of the Queen Mary Psalter (fol. 78v), ca. 1310]] AUGUST is the eighth month of the year in the Julian and Gregorian calendars, and the fifth of seven months to have a length of 31 days.[1] It was originally named _Sextilis_ in Latin because it was the sixth month in the original ten-month Roman calendar under Romulus in 753 BC, and March was the first month of the year. About 700 BC, it became the eighth month when January and February were added to the year before March by King Numa Pompilius, who also gave it 29 days. Julius Caesar added two days when he created the Julian calendar in 46 BC (708 AUC), giving it its modern length of 31 days. In 8 BC, it was renamed in honor of Augustus. According to a Senatus consultum quoted by Macrobius, he chose this month because it was the time of several of his great triumphs, including the conquest of Egypt.[2]
 
 In the Southern Hemisphere, August is the seasonal equivalent of February in the Northern Hemisphere. In many European countries, August is the holiday month for most workers. Numerous religious holidays occurred during August in ancient Rome.[3]
 
@@ -9,9 +9,9 @@ Among the aborigines of the Canary Islands, especially among the Guanches of Ten
 
 August symbols
 
-Gladiolus_imbricatus1002.jpg]]
+]]
 
--   Peridot-China.jpg gemstones]]Sardonyx_Inscription.JPG stone]]Spinel-Calcite-258747.jpg on calcite]]August's birthstones are the peridot, sardonyx, and spinel.[6]
+-   gemstones]] stone]] on calcite]]August's birthstones are the peridot, sardonyx, and spinel.[6]
 -   Its birth flower is the gladiolus or poppy, meaning beauty, strength of character, love, marriage and family.[7]
 -   The Western zodiac signs for the month of August are Leo (until August 22) and Virgo (from August 23 onwards).
 

@@ -92,7 +92,7 @@ The FA Cup winners also qualify for the following season's single-match FA Commu
 
 Venues
 
-England_mai_2007_040.jpg has been held at Wembley Stadium, on the site of the previous stadium which hosted it from 1923 to 2000.]] Fixtures in the 12 rounds of the competition are usually played at the home ground of one of the two teams. The semi-finals and final are played at a neutral venue – the rebuilt Wembley Stadium (since 2008 and 2007 respectively).
+has been held at Wembley Stadium, on the site of the previous stadium which hosted it from 1923 to 2000.]] Fixtures in the 12 rounds of the competition are usually played at the home ground of one of the two teams. The semi-finals and final are played at a neutral venue – the rebuilt Wembley Stadium (since 2008 and 2007 respectively).
 
 Competition rounds
 
@@ -130,7 +130,7 @@ Trophy
 
 The eventual winners of the competition receive the FA Cup; it is only loaned to the club by the FA, under the current (2015–16) rules it must be returned by 1 March, or earlier if given seven days’ notice.[33] Traditionally, the holders had the Cup until the following year's presentation, although more recently the trophy has been taken on publicity tours by the FA in between finals.[34]
 
-The_King_George_V_presents_the_FA_Cup_1914.jpg presents the FA Cup trophy to Tommy Boyle of Burnley F.C., April 1914]] The trophy comes in three parts – the cup itself, plus a lid and a base. There have been two designs of trophy in use, but five physical trophies have been presented. The original trophy, known as the "little tin idol", was 18 inches high and made by Martin, Hall & Co. It was stolen in 1895 and never recovered, and so was replaced by an exact replica, used until 1910. The FA decided to change the design after the 1909 winners, Manchester United, made their own replica, leading the FA to realise they did not own the copyright.[35] This new, larger design was by Fattorini and Sons, and was used from 1911.[36] In order to preserve this original, from 1992 it was replaced by an exact replica, although this had to be replaced after just over two decades, after showing wear and tear from being handled more than in previous eras. This third replica, first used in 2014, was built heavier to withstand the increased handling.[37] Of the four surviving trophies, only the 1895 replica has entered private ownership.[38]
+presents the FA Cup trophy to Tommy Boyle of Burnley F.C., April 1914]] The trophy comes in three parts – the cup itself, plus a lid and a base. There have been two designs of trophy in use, but five physical trophies have been presented. The original trophy, known as the "little tin idol", was 18 inches high and made by Martin, Hall & Co. It was stolen in 1895 and never recovered, and so was replaced by an exact replica, used until 1910. The FA decided to change the design after the 1909 winners, Manchester United, made their own replica, leading the FA to realise they did not own the copyright.[35] This new, larger design was by Fattorini and Sons, and was used from 1911.[36] In order to preserve this original, from 1992 it was replaced by an exact replica, although this had to be replaced after just over two decades, after showing wear and tear from being handled more than in previous eras. This third replica, first used in 2014, was built heavier to withstand the increased handling.[37] Of the four surviving trophies, only the 1895 replica has entered private ownership.[38]
 
 The name of the winning team is engraved on the silver band around the base as soon as the final has finished, in order to be ready in time for the presentation ceremony.[39] This means the engraver has just five minutes to perform a task which would take 20 under normal conditions, although time is saved by engraving the year on during the match, and sketching the presumed winner.[40] During the final, the trophy is decorated with ribbons in the colours of both finalists, with the loser's ribbons being removed at the end of the game.[41] The tradition of tying ribbons started after Tottenham Hotspur won the 1901 FA Cup Final and the wife of a Spurs director decided to tie blue and white ribbons to the handles of the cup.[42] Traditionally, at Wembley finals, the presentation is made at the Royal Box, with players, led by the captain, mounting a staircase to a gangway in front of the box and returning by a second staircase on the other side of the box. At Cardiff the presentation was made on a podium on the pitch.
 
@@ -148,7 +148,7 @@ Just over 60 years later, 80 year old career criminal Henry (Harry) James Burge 
 
 1895 replica
 
-1896_FA_Cup.jpg After being rendered obsolete by the redesign, the 1895 replica was presented in 1910 to the FA's long-serving president Lord Kinnaird.[48] Kinnaird died in 1923, and his family kept it in their possession, out of view, until putting it up for auction in 2005.[49] It was sold at Christie's auction house on 19 May 2005 for £420,000 (£478,400 including auction fees and taxes).[50] The sale price set a new world record for a piece of football memorabilia, surpassing the £254,000 paid for the Jules Rimet World Cup Trophy in 1997.[51] The successful bidder was David Gold, the then joint chairman of Birmingham City; claiming the FA and government were doing nothing proactive to ensure the trophy remained in the country, Gold stated his purchase was motivated by wanting to save it for the nation.[52] Accordingly, Gold presented the trophy to the National Football Museum in Preston on 20 April 2006, where it went on immediate public display.[53] It later moved with the museum to its new location in Manchester.[54] In November 2012, it was ceremonially presented to Royal Engineers, after they beat Wanderers 7–1 in a charity replay of the first FA Cup final.
+After being rendered obsolete by the redesign, the 1895 replica was presented in 1910 to the FA's long-serving president Lord Kinnaird.[48] Kinnaird died in 1923, and his family kept it in their possession, out of view, until putting it up for auction in 2005.[49] It was sold at Christie's auction house on 19 May 2005 for £420,000 (£478,400 including auction fees and taxes).[50] The sale price set a new world record for a piece of football memorabilia, surpassing the £254,000 paid for the Jules Rimet World Cup Trophy in 1997.[51] The successful bidder was David Gold, the then joint chairman of Birmingham City; claiming the FA and government were doing nothing proactive to ensure the trophy remained in the country, Gold stated his purchase was motivated by wanting to save it for the nation.[52] Accordingly, Gold presented the trophy to the National Football Museum in Preston on 20 April 2006, where it went on immediate public display.[53] It later moved with the museum to its new location in Manchester.[54] In November 2012, it was ceremonially presented to Royal Engineers, after they beat Wanderers 7–1 in a charity replay of the first FA Cup final.
 
 Current design
 
@@ -162,7 +162,7 @@ A smaller, but otherwise identical, replica was also made by Fattorini, the Nort
 
 1992 replica
 
-The_FA_Cup_Trophy.jpg The 1992 replica was made by Toye, Kenning and Spencer.[59] A copy of this trophy was also produced, in case anything happened to the primary trophy.[60]
+The 1992 replica was made by Toye, Kenning and Spencer.[59] A copy of this trophy was also produced, in case anything happened to the primary trophy.[60]
 
 2014 replica
 
@@ -176,7 +176,7 @@ Each club in the final receives 40 winners or runners-up medals to be distribute
 
 Sponsorship
 
-2010_FA_Cup_Final_banner.jpg showing sponsorship by E.ON]] Since the start of the 1994–95 season, the FA Cup has been sponsored. However, to protect the identity of the competition, the sponsored name has always included 'The FA Cup' in addition to the sponsor's name, unlike sponsorship deals for the League Cup where the word 'cup' is preceded by only the sponsor's name. Sponsorship deals run for four years, though – as in the case of E.ON – one-year extensions may be agreed. Emirates Airline is the sponsor from 2015 to 2018, renaming the competition as 'The Emirates FA Cup', unlike previous editions, which included 'The FA Cup in association with E.ON' and 'The FA Cup with Budweiser'.[63]
+showing sponsorship by E.ON]] Since the start of the 1994–95 season, the FA Cup has been sponsored. However, to protect the identity of the competition, the sponsored name has always included 'The FA Cup' in addition to the sponsor's name, unlike sponsorship deals for the League Cup where the word 'cup' is preceded by only the sponsor's name. Sponsorship deals run for four years, though – as in the case of E.ON – one-year extensions may be agreed. Emirates Airline is the sponsor from 2015 to 2018, renaming the competition as 'The Emirates FA Cup', unlike previous editions, which included 'The FA Cup in association with E.ON' and 'The FA Cup with Budweiser'.[63]
 
 +-----------------+-----------------+-----------------------------------------+
 | Period          | Sponsor         | Name                                    |
@@ -236,7 +236,7 @@ Team
 
 Individual
 
-Ian_Rush,_Wales_Team,_1988_(1).jpg, the former Liverpool striker and record goalscorer in FA Cup final history]] Ashley_Cole_Chelsea_vs_AS-Roma_10AUG2013.JPG won a record seven FA Cup Finals]]
+, the former Liverpool striker and record goalscorer in FA Cup final history]] won a record seven FA Cup Finals]]
 
 -   MOST WINS BY PLAYER: 7: Ashley Cole (Arsenal) (2002, 2003, 2005) & (Chelsea) (2007, 2009, 2010, 2012)
 -   MOST WINS BY MANAGER: 7, Arsène Wenger (Arsenal) (1998, 2002, 2003, 2005, 2014, 2015, 2017),

@@ -1,8 +1,6 @@
-Kette_Kettenkurve_Catenary_2008_PD.JPG
+s (for example, those used on electrified railways) can also form a catenary.]]
 
-PylonsSunset-5982.jpgs (for example, those used on electrified railways) can also form a catenary.]]
-
-SpiderCatenary.jpg forming multiple elastic catenaries.]]
+forming multiple elastic catenaries.]]
 
 In physics and geometry, a CATENARY (, ) is the curve that an idealized hanging chain or cable assumes under its own weight when supported only at its ends.
 
@@ -21,7 +19,7 @@ In optics and electromagnetics, the hyperbolic cosine and sine functions are bas
 
 History
 
-GaudiCatenaryModel.jpg's catenary model at Casa Milà]]
+'s catenary model at Casa Milà]]
 
 The word "catenary" is derived from the Latin word _catēna_, which means "chain". The English word "catenary" is usually attributed to Thomas Jefferson,[8][9] who wrote in a letter to Thomas Paine on the construction of an arch for a bridge:
 
@@ -47,18 +45,18 @@ File:LaPedreraParabola.jpg%7CCatenary[31] arches under the roof of Gaudí's _Cas
 
 Catenary bridges
 
-Soderskar-bridge.jpgs are essentially thickened cables, and follow a catenary curve.]] Puentedelabarra(below).jpgs, like this one in Maldonado, Uruguay, also follow a catenary curve, with cables embedded in a rigid deck.]]
+s are essentially thickened cables, and follow a catenary curve.]] s, like this one in Maldonado, Uruguay, also follow a catenary curve, with cables embedded in a rigid deck.]]
 
 In free-hanging chains, the force exerted is uniform with respect to length of the chain, and so the chain follows the catenary curve.[33] The same is true of a simple suspension bridge or "catenary bridge," where the roadway follows the cable.[34][35]
 
 A stressed ribbon bridge is a more sophisticated structure with the same catenary shape.[36][37]
 
-However, in a suspension bridge with a suspended roadway, the chains or cables support the weight of the bridge, and so do not hang freely. In most cases the roadway is flat, so when the weight of the cable is negligible compared with the weight being supported, the force exerted is uniform with respect to horizontal distance, and the result is a parabola, as discussed below (although the term "catenary" is often still used, in an informal sense). If the cable is heavy then the resulting curve is between a catenary and a parabola.[38][39] Comparison_catenary_parabola.svg (black dotted curve) and a parabolic arch (red solid curve) with the same span and sag. The catenary represents the profile of a simple suspension bridge, or the cable of a suspended-deck suspension bridge on which its deck and hangers have negligible mass compared to its cable. The parabola represents the profile of the cable of a suspended-deck suspension bridge on which its cable and hangers have negligible mass compared to its deck. The profile of the cable of a real suspension bridge with the same span and sag lies between the two curves. The catenary and parabola equations are respectively, and ]]
+However, in a suspension bridge with a suspended roadway, the chains or cables support the weight of the bridge, and so do not hang freely. In most cases the roadway is flat, so when the weight of the cable is negligible compared with the weight being supported, the force exerted is uniform with respect to horizontal distance, and the result is a parabola, as discussed below (although the term "catenary" is often still used, in an informal sense). If the cable is heavy then the resulting curve is between a catenary and a parabola.[38][39] (black dotted curve) and a parabolic arch (red solid curve) with the same span and sag. The catenary represents the profile of a simple suspension bridge, or the cable of a suspended-deck suspension bridge on which its deck and hangers have negligible mass compared to its cable. The parabola represents the profile of the cable of a suspended-deck suspension bridge on which its cable and hangers have negligible mass compared to its deck. The profile of the cable of a real suspension bridge with the same span and sag lies between the two curves. The catenary and parabola equations are respectively, and ]]
 
 
 Anchoring of marine objects
 
-Catenary.PNG chain forms a catenary, with a low angle of pull on the anchor.]] The catenary produced by gravity provides an advantage to heavy anchor rodes. An anchor rode (or anchor line) usually consists of chain or cable or both. Anchor rodes are used by ships, oil rigs, docks, floating wind turbines, and other marine equipment which must be anchored to the seabed.
+chain forms a catenary, with a low angle of pull on the anchor.]] The catenary produced by gravity provides an advantage to heavy anchor rodes. An anchor rode (or anchor line) usually consists of chain or cable or both. Anchor rodes are used by ships, oil rigs, docks, floating wind turbines, and other marine equipment which must be anchored to the seabed.
 
 When the rode is slack, the catenary curve presents a lower angle of pull on the anchor or mooring device than would be the case if it were nearly straight. This enhances the performance of the anchor and raises the level of force it will resist before dragging. To maintain the catenary shape in the presence of wind, a heavy chain is needed, so that only larger ships in deeper water can rely on this effect. Smaller boats also rely on catenary to maintain maximum holding power.[40]
 
@@ -66,8 +64,6 @@ When the rode is slack, the catenary curve presents a lower angle of pull on the
 Mathematical description
 
 Equation
-
-catenary-pm.svg Catenary-tension.png
 
 The equation of a catenary in Cartesian coordinates has the form[41]
 
@@ -122,7 +118,7 @@ $$\frac{d\mathbf{r}}{ds}=\mathbf{u}$$
 
 where is a unit tangent vector.
 
-CatenaryForceDiagram.svg A differential equation for the curve may be derived as follows.[56] Let be the lowest point on the chain, called the vertex of the catenary.[57] The slope of the curve is zero at C since it is a minimum point. Assume is to the right of since the other case is implied by symmetry. The forces acting on the section of the chain from C to R are the tension of the chain at , the tension of the chain at R, and the weight of the chain. The tension at is tangent to the curve at and is therefore horizontal without any vertical component and it pulls the section to the left so it may be written where is the magnitude of the force. The tension at is parallel to the curve at and pulls the section to the right. The tension at can be split into two components so it may be written , where is the magnitude of the force and is the angle between the curve at and the -axis (see tangential angle). Finally, the weight of the chain is represented by where is the mass per unit length, is the acceleration of gravity and is the length of the segment of chain between and .
+A differential equation for the curve may be derived as follows.[56] Let be the lowest point on the chain, called the vertex of the catenary.[57] The slope of the curve is zero at C since it is a minimum point. Assume is to the right of since the other case is implied by symmetry. The forces acting on the section of the chain from C to R are the tension of the chain at , the tension of the chain at R, and the weight of the chain. The tension at is tangent to the curve at and is therefore horizontal without any vertical component and it pulls the section to the left so it may be written where is the magnitude of the force. The tension at is parallel to the curve at and pulls the section to the right. The tension at can be split into two components so it may be written , where is the magnitude of the force and is the angle between the curve at and the -axis (see tangential angle). Finally, the weight of the chain is represented by where is the mass per unit length, is the acceleration of gravity and is the length of the segment of chain between and .
 
 The chain is in equilibrium so the sum of three forces is , therefore
 
@@ -281,7 +277,7 @@ $$w= \frac{T_0}{\rho \cos^2 \varphi}\,.$$
 
 Suspension bridge curve
 
-Golden_Gate_Bridge,_SF.jpg. Most suspension bridge cables follow a parabolic, not a catenary curve, due to the weight of the roadway being much greater than that of the cable.]]
+. Most suspension bridge cables follow a parabolic, not a catenary curve, due to the weight of the roadway being much greater than that of the cable.]]
 
 A similar analysis can be done to find the curve followed by the cable supporting a suspension bridge with a horizontal roadway.[67] If the weight of the roadway per unit length is and the weight of the cable and the wire supporting the bridge is negligible in comparison, then the weight on the cable from to is where is the horizontal distance between and . Proceeding as before gives the differential equation
 

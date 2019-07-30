@@ -26,7 +26,7 @@ Anthony was born in Coma in Lower Egypt to wealthy landowner parents. When he wa
 
 Hermit
 
-Piero_di_Cosimo_025.jpg and Saint Anthony Abbot'' by Piero di Cosimo, ]] For the next fifteen years, Anthony remained in the area, spending the first years as the disciple of another local hermit.[10] There are various legends that he worked as a swineherd during this period.[11]
+and Saint Anthony Abbot'' by Piero di Cosimo, ]] For the next fifteen years, Anthony remained in the area, spending the first years as the disciple of another local hermit.[10] There are various legends that he worked as a swineherd during this period.[11]
 
 Anthony is sometimes considered the first monk, and the first to initiate solitary desertification,[12] but there were others before him. There were already ascetic pagan hermits (the _Therapeutae_), and loosely organized cenobitic communities were described by the Jewish philosopher Philo of Alexandria in the 1st century  as long established in the harsh environment of Lake Mareotis and in other less accessible regions. Philo opined that "this class of persons may be met with in many places, for both Greece and barbarian countries want to enjoy whatever is perfectly good."[13] Christian ascetics such as Thecla had likewise retreated to isolated locations at the outskirts of cities. Anthony is notable for having decided to surpass this tradition and headed out into the desert proper. He left for the alkaline Nitrian Desert (later the location of the noted monasteries of Nitria, Kellia, and Scetis) on the edge of the Western Desert about west of Alexandria. He remained there for 13 years.[14]
 
@@ -38,7 +38,7 @@ For five or six years he devoted himself to the instruction and organization of 
 
 Father of Monks
 
-Vitale_da_Bologna_(14e_eeuw)_-_Vier_verhalen_van_Antonius_van_Egypte_(1340)_-_Bologna_Pinacoteca_Nazionale_-_26-04-2012_9-22-59.jpg, c. 1340, at the Pinacoteca Nazionale di Bologna]]
+, c. 1340, at the Pinacoteca Nazionale di Bologna]]
 
 Anthony was not been the first ascetic or hermit, but he may properly be called the "Father of Monasticism" in Christianity,[19][20] as he organized his disciples into a community and later, following the spread of Athanasius's hagiography, was the inspiration for similar communities throughout Egypt and, elsewhere. Macarius the Great was a disciple of Anthony. Visitors traveled great distances to see the celebrated holy man. Anthony is said to have spoken to those of a spiritual disposition, leaving the task of addressing the more worldly visitors to Macarius. Macarius later founded a monastic community in the Scetic desert.[21]
 
@@ -52,7 +52,7 @@ Final days
 
 When Saint Anthony felt that the day of his departure had approached, he commanded his disciples to give his staff to Saint Macarius, and to give one sheepskin cloak to Saint Athanasius and the other sheepskin cloak to Saint Serapion, his disciple.[25] Anthony was interred, according to his instructions, in a grave next to his cell.[26]
 
-Michelangelo_Buonarroti_-_The_Torment_of_Saint_Anthony_-_Google_Art_Project.jpg after an engraving by Martin Schongauer around 1487–1489, _The Torment of Saint Anthony_. Oil and tempera on panel. One of many artistic depictions of Saint Anthony's trials in the desert.]]
+after an engraving by Martin Schongauer around 1487–1489, _The Torment of Saint Anthony_. Oil and tempera on panel. One of many artistic depictions of Saint Anthony's trials in the desert.]]
 
 
 Temptation
@@ -65,7 +65,7 @@ Some of the stories included in Saint Anthony's biography are perpetuated now mo
 
 The satyr and the centaur
 
-The_Meeting_of_Saint_Anthony_and_Saint_Paul,_Master_of_the_Osservanza.jpg, 15th century, with the centaur at the background.]] Saint Anthony was on a journey in the desert to find Saint Paul of Thebes, who according to his dream was a better Hermit than he.[30] Saint Anthony had been under the impression that he was the first person to ever dwell in the desert; however, due to the dream, Saint Anthony was called into the desert to find his "better", Saint Paul. On his way there, he ran into two creatures in the forms of a centaur and a satyr. Although chroniclers sometimes postulated they might have been living beings, Western theology considers to have been demons.[31]
+, 15th century, with the centaur at the background.]] Saint Anthony was on a journey in the desert to find Saint Paul of Thebes, who according to his dream was a better Hermit than he.[30] Saint Anthony had been under the impression that he was the first person to ever dwell in the desert; however, due to the dream, Saint Anthony was called into the desert to find his "better", Saint Paul. On his way there, he ran into two creatures in the forms of a centaur and a satyr. Although chroniclers sometimes postulated they might have been living beings, Western theology considers to have been demons.[31]
 
 While traveling through the desert, Saint Anthony first found the centaur, a "creature of mingled shape, half horse half man," whom he asked about directions. The creature tried to speak in an unintelligible language, but ultimately pointed with his hand the way desired, and then ran away and vanished from sight.[32] It was interpreted as a demon trying to terrify him, or alternately a creature engendered by the desert.[33]
 
@@ -82,7 +82,7 @@ Once, Saint Anthony tried hiding in a cave to escape the demons that plagued him
 
 Veneration
 
-Vaantjeantoniuswarfhuizenkleiner_copy.jpg]] Anthony had been secretly buried on the mountain-top where he had chosen to live. His remains were reportedly discovered in 361, and transferred to Alexandria. Some time later, they were taken from Alexandria to Constantinople, so that they might escape the destruction being perpetrated by invading Saracens. In the eleventh century, the Byzantine emperor gave them to the French Count Jocelin. Jocelin had them transferred to La-Motte-Saint-Didier,later renamed.[37] There, Jocelin undertook to build a church to house the remains, but died before the church was even started. The building was finally erected in 1297 and became a centre of veneration and pilgrimage, known as Saint-Antoine-l'Abbaye. Anthony is credited with assisting in a number of miraculous healings, primarily from ergotism, which became known as "St. Anthony's Fire". He was credited by two local noblemen of assisting them in recovery from the disease. They then founded the Hospital Brothers of St. Anthony in honor of him, who specialized in nursing the victims of skin diseases.[38] SAntoine_Abbaye_01.jpg, Isère]]
+]] Anthony had been secretly buried on the mountain-top where he had chosen to live. His remains were reportedly discovered in 361, and transferred to Alexandria. Some time later, they were taken from Alexandria to Constantinople, so that they might escape the destruction being perpetrated by invading Saracens. In the eleventh century, the Byzantine emperor gave them to the French Count Jocelin. Jocelin had them transferred to La-Motte-Saint-Didier,later renamed.[37] There, Jocelin undertook to build a church to house the remains, but died before the church was even started. The building was finally erected in 1297 and became a centre of veneration and pilgrimage, known as Saint-Antoine-l'Abbaye. Anthony is credited with assisting in a number of miraculous healings, primarily from ergotism, which became known as "St. Anthony's Fire". He was credited by two local noblemen of assisting them in recovery from the disease. They then founded the Hospital Brothers of St. Anthony in honor of him, who specialized in nursing the victims of skin diseases.[38] , Isère]]
 
 Veneration of Anthony in the East is more restrained. There are comparatively few icons and paintings of him. He is, however, regarded as the "first master of the desert and the pinnacle of holy monks", and there are monastic communities of the Maronite, Chaldean, and Orthodox churches which state that they follow his monastic rule.[39] During the Middle Ages, Anthony, along with Quirinus of Neuss, Cornelius and Hubertus, was venerated as one of the Four Holy Marshals (_Vier Marschälle Gottes_) in the Rhineland.[40]
 
@@ -91,7 +91,7 @@ Anthony is appealed to against infectious diseases, particularly skin diseases. 
 
 Legacy
 
-Antoniusaltaar.jpg in the Netherlands with a mural of Anthony the Abbot and a reliquary with some of his relics. Since then they have been moved to a new golden shrine on a side altar]]
+in the Netherlands with a mural of Anthony the Abbot and a reliquary with some of his relics. Since then they have been moved to a new golden shrine on a side altar]]
 
 Though Anthony himself did not organize or create a monastery, a community grew around him based on his example of living an ascetic and isolated life. Athanasius' biography helped propagate Anthony's ideals. Athanasius writes, "For monks, the life of Anthony is a sufficient example of asceticism."[42]
 

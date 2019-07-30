@@ -1,4 +1,4 @@
-__NOTOC__ Alphonse_de_Poitiers_01.jpg of the town of Agen. In this illustration he takes an oath before the consuls with his right hand on the town ordinances, while sitting on a pedestal. The consul administering the oath is forced to go on his knees, symbolising Alphonse's lordship and the town's loyalty.]]
+__NOTOC__ of the town of Agen. In this illustration he takes an oath before the consuls with his right hand on the town ordinances, while sitting on a pedestal. The consul administering the oath is forced to go on his knees, symbolising Alphonse's lordship and the town's loyalty.]]
 
 ALPHONSE or ALFONSO (11 November 122021 August 1271[1]) was the Count of Poitou from 1225 and Count of Toulouse (as ALPHONSE II) from 1249. As count of Toulouse, he also governed the Marquisate of Provence.
 
@@ -19,7 +19,7 @@ Later life
 
 In 1252, on the death of his mother, Blanche of Castile, Alphonse was joint regent with Charles of Anjou until the return of Louis IX. During that time he took a great part in the campaigns and negotiations which led to the Treaty of Paris in 1259, under which King Henry III of England recognized his loss of continental territory to France (including Normandy, Maine, Anjou, and Poitou) in exchange for France withdrawing support from English rebels.
 
-Arms_of_Alphonse_de_Poitiers.svg was formed of those of France (left) and Castile (right), representing his father and mother respectively: _Per pale azure semé-de-lis or dimidiating gules semé of castles or_]]
+was formed of those of France (left) and Castile (right), representing his father and mother respectively: _Per pale azure semé-de-lis or dimidiating gules semé of castles or_]]
 
 Aside from the crusades, Alphonse stayed primarily in Paris, governing his estates by officials, inspectors who reviewed the officials' work, and a constant stream of messages.[8] His main work was on his own estates. There he repaired the evils of the Albigensian war and made a first attempt at administrative centralization, thus preparing the way for union with the crown. He is remembered for founding the bastide town of Villeneuve-sur-Lot which straddles the River Lot and still contains many of its original structures, including one of the first bridges across the river.[9] The charter known as "Alphonsine," granted to the town of Riom, became the code of public law for Auvergne. Honest and moderate, protecting the middle classes against exactions of the nobles, he exercised a happy influence upon the south, in spite of his naturally despotic character and his continual and pressing need of money. He is noted for ordering the first recorded local expulsion of Jews, when he did so in Poitou in 1249.
 

@@ -11,7 +11,7 @@ Early life
 
 Childhood
 
-LA2-Rashult-2.jpg]]
+]]
 
 Linnaeus was born in the village of Råshult in Småland, Sweden, on 23 May 1707. He was the first child of Nicolaus (Nils) Ingemarsson (who later adopted the family name Linnaeus) and Christina Brodersonia. His siblings were Anna Maria Linnæa, Sofia Juliana Linnæa, Samuel Linnæus (who would eventually succeed their father as rector of Stenbrohult and write a manual on beekeeping),[13][14][15] and Emerentia Linnæa.[16] His father taught him Latin as a small child.[17]
 
@@ -38,7 +38,7 @@ University studies
 
 Lund
 
-Carl_von_Linné_i_Lund.jpg]]
+]]
 
 Rothman showed Linnaeus that botany was a serious subject. He taught Linnaeus to classify plants according to Tournefort's system. Linnaeus was also taught about the sexual reproduction of plants, according to Sébastien Vaillant.[35] In 1727, Linnaeus, age 21, enrolled in Lund University in Skåne.[36][37] He was registered as __, the Latin form of his full name, which he also used later for his Latin publications.[38]
 
@@ -46,7 +46,7 @@ Professor Kilian Stobæus, natural scientist, physician and historian, offered L
 
 Uppsala
 
-Linné-Praeludia_Sponsaliorum_Plantarum.jpg depicted in __ (1729)]] In August 1728, Linnaeus decided to attend Uppsala University on the advice of Rothman, who believed it would be a better choice if Linnaeus wanted to study both medicine and botany. Rothman based this recommendation on the two professors who taught at the medical faculty at Uppsala: Olof Rudbeck the Younger and Lars Roberg. Although Rudbeck and Roberg had undoubtedly been good professors, by then they were older and not so interested in teaching. Rudbeck no longer gave public lectures, and had others stand in for him. The botany, zoology, pharmacology and anatomy lectures were not in their best state.[42] In Uppsala, Linnaeus met a new benefactor, Olof Celsius, who was a professor of theology and an amateur botanist.[43] He received Linnaeus into his home and allowed him use of his library, which was one of the richest botanical libraries in Sweden.[44]
+depicted in __ (1729)]] In August 1728, Linnaeus decided to attend Uppsala University on the advice of Rothman, who believed it would be a better choice if Linnaeus wanted to study both medicine and botany. Rothman based this recommendation on the two professors who taught at the medical faculty at Uppsala: Olof Rudbeck the Younger and Lars Roberg. Although Rudbeck and Roberg had undoubtedly been good professors, by then they were older and not so interested in teaching. Rudbeck no longer gave public lectures, and had others stand in for him. The botany, zoology, pharmacology and anatomy lectures were not in their best state.[42] In Uppsala, Linnaeus met a new benefactor, Olof Celsius, who was a professor of theology and an amateur botanist.[43] He received Linnaeus into his home and allowed him use of his library, which was one of the richest botanical libraries in Sweden.[44]
 
 In 1729, Linnaeus wrote a thesis, __ on plant sexual reproduction. This attracted the attention of Rudbeck; in May 1730, he selected Linnaeus to give lectures at the University although the young man was only a second-year student. His lectures were popular, and Linnaeus often addressed an audience of 300 people.[45] In June, Linnaeus moved from Celsius's house to Rudbeck's to become the tutor of the three youngest of his 24 children. His friendship with Celsius did not wane and they continued their botanical expeditions.[46] Over that winter, Linnaeus began to doubt Tournefort's system of classification and decided to create one of his own. His plan was to divide the plants by the number of stamens and pistils. He began writing several books, which would later result in, for example, __ and __. He also produced a book on the plants grown in the Uppsala Botanical Garden, __.[47]
 
@@ -55,7 +55,7 @@ Rudbeck's former assistant, Nils Rosén, returned to the University in March 173
 
 Expedition to Lapland
 
-During a visit with his parents, Linnaeus told them about his plan to travel to Lapland; Rudbeck had made the journey in 1695, but the detailed results of his exploration were lost in a fire seven years afterwards. Linnaeus's hope was to find new plants, animals and possibly valuable minerals. He was also curious about the customs of the native Sami people, reindeer-herding nomads who wandered Scandinavia's vast tundras. In April 1732, Linnaeus was awarded a grant from the Royal Society of Sciences in Uppsala for his journey.[50][51] Naturalis_Biodiversity_Center_-_Martin_Hoffman_-_Carl_von_Linné_(Linnaeus)_in_his_Lapland_costume_-_painting.jpg of Lapland, holding the twinflower, later known as _Linnaea borealis_, that became his personal emblem. Martin Hoffman, 1737.]]
+During a visit with his parents, Linnaeus told them about his plan to travel to Lapland; Rudbeck had made the journey in 1695, but the detailed results of his exploration were lost in a fire seven years afterwards. Linnaeus's hope was to find new plants, animals and possibly valuable minerals. He was also curious about the customs of the native Sami people, reindeer-herding nomads who wandered Scandinavia's vast tundras. In April 1732, Linnaeus was awarded a grant from the Royal Society of Sciences in Uppsala for his journey.[50][51] of Lapland, holding the twinflower, later known as _Linnaea borealis_, that became his personal emblem. Martin Hoffman, 1737.]]
 
 Linnaeus began his expedition from Uppsala on 12 May 1732, just before he turned 25.[52] He travelled on foot and horse, bringing with him his journal, botanical and ornithological manuscripts and sheets of paper for pressing plants. Near Gävle he found great quantities of _Campanula serpyllifolia_, later known as _Linnaea borealis_, the twinflower that would become his favourite.[53] He sometimes dismounted on the way to examine a flower or rock[54] and was particularly interested in mosses and lichens, the latter a main part of the diet of the reindeer, a common and economically important animal in Lapland.[55]
 
@@ -70,13 +70,13 @@ In 1734, Linnaeus led a small group of students to Dalarna. Funded by the Govern
 
 Doctorate
 
-Karte_Linne.png His relations with Nils Rosén having worsened, Linnaeus accepted an invitation from Claes Sohlberg, son of a mining inspector, to spend the Christmas holiday in Falun, where Linnaeus was permitted to visit the mines.[66]
+His relations with Nils Rosén having worsened, Linnaeus accepted an invitation from Claes Sohlberg, son of a mining inspector, to spend the Christmas holiday in Falun, where Linnaeus was permitted to visit the mines.[66]
 
 In April 1735, at the suggestion of Sohlberg's father, Linnaeus and Sohlberg set out for the Dutch Republic, where Linnaeus intended to study medicine at the University of Harderwijk[67] while tutoring Sohlberg in exchange for an annual salary. At the time, it was common for Swedes to pursue doctoral degrees in the Netherlands, then a highly revered place to study natural history.[68]
 
 On the way, the pair stopped in Hamburg, where they met the mayor, who proudly showed them a supposed wonder of nature in his possession: the taxidermied remains of a seven-headed hydra. Linnaeus quickly discovered the specimen was a fake cobbled together from the jaws and paws of weasels and the skins of snakes. The provenance of the hydra suggested to Linnaeus that it had been manufactured by monks to represent the Beast of Revelation. Even at the risk of incurring the mayor's wrath, Linnaeus made his observations public, dashing the mayor's dreams of selling the hydra for an enormous sum. Linnaeus and Sohlberg were forced to flee from Hamburg.[69][70]
 
-Albertus_Seba_-_Hydra.jpg]]
+]]
 
 Linnaeus began working towards his degree as soon as he reached Harderwijk, a university known for awarding degrees in as little as a week.[71] He submitted a dissertation, written back in Sweden, entitled _Dissertatio medica inauguralis in qua exhibetur hypothesis nova de febrium intermittentium causa_,[72] in which he laid out his hypothesis that malaria arose only in areas with clay-rich soils.[73] Although he failed to identify the true source of disease transmission, (_i.e._, the _Anopheles_ mosquito),[74] he did correctly predict that _Artemisia annua_ (wormwood) would become a source of antimalarial medications.[75]
 
@@ -107,13 +107,11 @@ Linnaeus stayed with Clifford at Hartekamp until 18 October 1737 (new style), wh
 
 Return to Sweden
 
-LinnaeusWeddingPortrait.jpg
-
 When Linnaeus returned to Sweden on 28 June 1738, he went to Falun, where he entered into an engagement to Sara Elisabeth Moræa. Three months later, he moved to Stockholm to find employment as a physician, and thus to make it possible to support a family.[99][100] Once again, Linnaeus found a patron; he became acquainted with Count Carl Gustav Tessin, who helped him get work as a physician at the Admiralty.[101][102] During this time in Stockholm, Linnaeus helped found the Royal Swedish Academy of Science; he became the first Praeses in the academy by drawing of lots.[103]
 
 Because his finances had improved and were now sufficient to support a family, he received permission to marry his fiancée, Sara Elisabeth Moræa. Their wedding was held 26 June 1739. Seventeen months later, Sara gave birth to their first son, Carl. Two years later, a daughter, Elisabeth Christina, was born, and the subsequent year Sara gave birth to Sara Magdalena, who died when 15 days old. Sara and Linnaeus would later have four other children: Lovisa, Sara Christina, Johannes and Sophia.[104][105]
 
-CarlvonLinne_house.jpg]] In May 1741, Linnaeus was appointed Professor of Medicine at Uppsala University, first with responsibility for medicine-related matters. Soon, he changed place with the other Professor of Medicine, Nils Rosén, and thus was responsible for the Botanical Garden (which he would thoroughly reconstruct and expand), botany and natural history, instead. In October that same year, his wife and nine-month-old son followed him to live in Uppsala.[106]
+]] In May 1741, Linnaeus was appointed Professor of Medicine at Uppsala University, first with responsibility for medicine-related matters. Soon, he changed place with the other Professor of Medicine, Nils Rosén, and thus was responsible for the Botanical Garden (which he would thoroughly reconstruct and expand), botany and natural history, instead. In October that same year, his wife and nine-month-old son followed him to live in Uppsala.[106]
 
 Öland and Gotland
 
@@ -133,7 +131,7 @@ In the spring of 1749, Linnaeus could finally journey to Scania, again commissio
 
 Rector of Uppsala University
 
-CarlvonLinne_Hammarby.jpg CarlvonLinne_Garden.jpg in Uppsala]]
+in Uppsala]]
 
 In 1750, Linnaeus became rector of Uppsala University, starting a period where natural sciences were esteemed.[119] Perhaps the most important contribution he made during his time at Uppsala was to teach; many of his students travelled to various places in the world to collect botanical samples. Linnaeus called the best of these students his "apostles".[120] His lectures were normally very popular and were often held in the Botanical Garden. He tried to teach the students to think for themselves and not trust anybody, not even him. Even more popular than the lectures were the botanical excursions made every Saturday during summer, where Linnaeus and his students explored the flora and fauna in the vicinity of Uppsala.[121]
 
@@ -143,7 +141,7 @@ Linnaeus published _Philosophia Botanica_ in 1751. The book contained a complete
 
 _Nutrix Noverca_
 
-Nutrix_noverca.jpg During Linnaeus's time it was normal for upper class women to have wet nurses for their babies. Linnaeus joined an ongoing campaign to end this practice in Sweden and promote breast-feeding by mothers. In 1752 Linnaeus published a thesis along with Frederick Lindberg, a physician student,[123] based on their experiences.[124] In the tradition of the period, this dissertation was essentially an idea of the presiding reviewer (_prases_) expounded upon by the student. Linnaeus's dissertation was translated into French by J.E. Gilibert in 1770 as _La Nourrice marâtre, ou Dissertation sur les suites funestes du nourrisage mercénaire_. Linnaeus suggested that children might absorb the personality of their wet nurse through the milk. He admired the child care practices of the Lapps[125] and pointed out how healthy their babies were compared to those of Europeans who employed wet nurses. He compared the behaviour of wild animals and pointed out how none of them denied their newborns their breastmilk.[126] It is thought that his activism played a role in his choice of the term _Mammalia_ for the class of organisms.[127]
+During Linnaeus's time it was normal for upper class women to have wet nurses for their babies. Linnaeus joined an ongoing campaign to end this practice in Sweden and promote breast-feeding by mothers. In 1752 Linnaeus published a thesis along with Frederick Lindberg, a physician student,[123] based on their experiences.[124] In the tradition of the period, this dissertation was essentially an idea of the presiding reviewer (_prases_) expounded upon by the student. Linnaeus's dissertation was translated into French by J.E. Gilibert in 1770 as _La Nourrice marâtre, ou Dissertation sur les suites funestes du nourrisage mercénaire_. Linnaeus suggested that children might absorb the personality of their wet nurse through the milk. He admired the child care practices of the Lapps[125] and pointed out how healthy their babies were compared to those of Europeans who employed wet nurses. He compared the behaviour of wild animals and pointed out how none of them denied their newborns their breastmilk.[126] It is thought that his activism played a role in his choice of the term _Mammalia_ for the class of organisms.[127]
 
 _Species Plantarum_
 
@@ -151,7 +149,7 @@ Linnaeus published _Species Plantarum_, the work which is now internationally ac
 
 Ennoblement
 
-Linne_CoA.jpg]] Linnaeus felt Uppsala was too noisy and unhealthy, so he bought two farms in 1758: Hammarby and Sävja. The next year, he bought a neighbouring farm, Edeby. He spent the summers with his family at Hammarby; initially it only had a small one-storey house, but in 1762 a new, larger main building was added.[133][134] In Hammarby, Linnaeus made a garden where he could grow plants that could not be grown in the Botanical Garden in Uppsala. He began constructing a museum on a hill behind Hammarby in 1766, where he moved his library and collection of plants. A fire that destroyed about one third of Uppsala and had threatened his residence there necessitated the move.[135]
+]] Linnaeus felt Uppsala was too noisy and unhealthy, so he bought two farms in 1758: Hammarby and Sävja. The next year, he bought a neighbouring farm, Edeby. He spent the summers with his family at Hammarby; initially it only had a small one-storey house, but in 1762 a new, larger main building was added.[133][134] In Hammarby, Linnaeus made a garden where he could grow plants that could not be grown in the Botanical Garden in Uppsala. He began constructing a museum on a hill behind Hammarby in 1766, where he moved his library and collection of plants. A fire that destroyed about one third of Uppsala and had threatened his residence there necessitated the move.[135]
 
 Since the initial release of __ in 1735, the book had been expanded and reprinted several times; the tenth edition was released in 1758. This edition established itself as the starting point for zoological nomenclature, the equivalent of __.[136][137]
 
@@ -162,7 +160,7 @@ After his ennoblement, Linnaeus continued teaching and writing. His reputation h
 
 Final years
 
-Carl_von_Linné_grave_2007_Upsala.jpg of him and his son Carl Linnaeus the Younger]]
+of him and his son Carl Linnaeus the Younger]]
 
 Linnaeus was relieved of his duties in the Royal Swedish Academy of Science in 1763, but continued his work there as usual for more than ten years after.[147] He stepped down as rector at Uppsala University in December 1772, mostly due to his declining health.[148][149]
 
@@ -177,7 +175,7 @@ The von Linné name ended with his son Carl, who never married.[159] His other s
 
 Apostles
 
-Pehr_Forsskål_portrait_(cropped_and_color_balanced).png was among the apostles who met a tragic fate abroad.]]
+was among the apostles who met a tragic fate abroad.]]
 
 During Linnaeus's time as Professor and Rector of Uppsala University, he taught many devoted students, 17 of whom he called "apostles". They were the most promising, most committed students, and all of them made botanical expeditions to various places in the world, often with his help. The amount of this help varied; sometimes he used his influence as Rector to grant his apostles a scholarship or a place on an expedition.[162] To most of the apostles he gave instructions of what to look for on their journeys. Abroad, the apostles collected and organised new plants, animals and minerals according to Linnaeus's system. Most of them also gave some of their collection to Linnaeus when their journey was finished.[163] Thanks to these students, the Linnaean system of taxonomy spread through the world without Linnaeus ever having to travel outside Sweden after his return from Holland.[164] The British botanist William T. Stearn notes without Linnaeus's new system, it would not have been possible for the apostles to collect and organise so many new specimens.[165] Many of the apostles died during their expeditions.
 
@@ -189,7 +187,7 @@ Two years after Tärnström's expedition, Finnish-born Pehr Kalm set out as the 
 
 Cook expeditions and Japan
 
-Mortimer_-_Captain_James_Cook,_Sir_Joseph_Banks,_Lord_Sandwich,_Dr_Daniel_Solander_and_Dr_John_Hawkesworth.jpg (far left) with Joseph Banks (left, sitting) accompanied James Cook (centre) on his journey to Australia.]] Daniel Solander was living in Linnaeus's house during his time as a student in Uppsala. Linnaeus was very fond of him, promising Solander his eldest daughter's hand in marriage. On Linnaeus's recommendation, Solander travelled to England in 1760, where he met the English botanist Joseph Banks. With Banks, Solander joined James Cook on his expedition to Oceania on the _Endeavour_ in 1768–71.[169][170] Solander was not the only apostle to journey with James Cook; Anders Sparrman followed on the _Resolution_ in 1772–75 bound for, among other places, Oceania and South America. Sparrman made many other expeditions, one of them to South Africa.[171]
+(far left) with Joseph Banks (left, sitting) accompanied James Cook (centre) on his journey to Australia.]] Daniel Solander was living in Linnaeus's house during his time as a student in Uppsala. Linnaeus was very fond of him, promising Solander his eldest daughter's hand in marriage. On Linnaeus's recommendation, Solander travelled to England in 1760, where he met the English botanist Joseph Banks. With Banks, Solander joined James Cook on his expedition to Oceania on the _Endeavour_ in 1768–71.[169][170] Solander was not the only apostle to journey with James Cook; Anders Sparrman followed on the _Resolution_ in 1772–75 bound for, among other places, Oceania and South America. Sparrman made many other expeditions, one of them to South Africa.[171]
 
 Perhaps the most famous and successful apostle was Carl Peter Thunberg, who embarked on a nine-year expedition in 1770. He stayed in South Africa for three years, then travelled to Japan. All foreigners in Japan were forced to stay on the island of Dejima outside Nagasaki, so it was thus hard for Thunberg to study the flora. He did, however, manage to persuade some of the translators to bring him different plants, and he also found plants in the gardens of Dejima. He returned to Sweden in 1779, one year after Linnaeus's death.[172]
 
@@ -198,7 +196,7 @@ Major publications
 
 _Systema Naturae_
 
-Linnaeus1758-title-page.jpg (1758)]]
+(1758)]]
 
 The first edition of __ was printed in the Netherlands in 1735. It was a twelve-page work.[173] By the time it reached its 10th edition in 1758, it classified 4,400 species of animals and 7,700 species of plants. People from all over the world sent their specimens to Linnaeus to be included. By the time he started work on the 12th edition, Linnaeus needed a new invention—the index card—to track classifications.[174]
 
@@ -225,7 +223,7 @@ __ (1751) was a summary of Linnaeus's thinking on plant classification and nomen
 
 Collections
 
-External_Statues,_Palm_House,_Sefton_Park_(4).jpg (1899), outside the Palm House at Sefton Park, Liverpool]] At the end of his lifetime the Linnean collection in Uppsala was considered one of the finest collections of natural history objects in Sweden. Next to his own collection he had also built up a museum for the university of Uppsala, which was supplied by material donated by Carl Gyllenborg (in 1744–1745), crown-prince Adolf Fredrik (in 1745), Erik Petreus (in 1746), Claes Grill (in 1746), Magnus Lagerström (in 1748 and 1750) and Jonas Alströmer (in 1749). The relation between the museum and the private collection was not formalised and the steady flow of material from Linnean pupils were incorporated to the private collection rather than to the museum.[180] Linnaeus felt his work was reflecting the harmony of nature and he said in 1754 "the earth is then nothing else but a museum of the all-wise creator's masterpieces, divided into three chambers". He had turned his own estate into a microcosm of that 'world museum'.[181]
+(1899), outside the Palm House at Sefton Park, Liverpool]] At the end of his lifetime the Linnean collection in Uppsala was considered one of the finest collections of natural history objects in Sweden. Next to his own collection he had also built up a museum for the university of Uppsala, which was supplied by material donated by Carl Gyllenborg (in 1744–1745), crown-prince Adolf Fredrik (in 1745), Erik Petreus (in 1746), Claes Grill (in 1746), Magnus Lagerström (in 1748 and 1750) and Jonas Alströmer (in 1749). The relation between the museum and the private collection was not formalised and the steady flow of material from Linnean pupils were incorporated to the private collection rather than to the museum.[180] Linnaeus felt his work was reflecting the harmony of nature and he said in 1754 "the earth is then nothing else but a museum of the all-wise creator's masterpieces, divided into three chambers". He had turned his own estate into a microcosm of that 'world museum'.[181]
 
 In April 1766 parts of the town were destroyed by a fire and the Linnean private collection was subsequently moved to a barn outside the town, and shortly afterwards to a single-room stone building close to his country house at Hammarby near Uppsala. This resulted in a physical separation between the two collections; the museum collection remained in the botanical garden of the university. Some material which needed special care (alcohol specimens) or ample storage space was moved from the private collection to the museum.
 
@@ -240,7 +238,7 @@ Much material which had been intensively studied by Linné in his scientific car
 
 System of taxonomy
 
-Linnaeus_-_Regnum_Animale_(1735).png}}'' (1735)]]
+}}'' (1735)]]
 
 The establishment of universally accepted conventions for the naming of organisms was Linnaeus's main contribution to taxonomy—his work marks the starting point of consistent use of binomial nomenclature.[189] During the 18th century expansion of natural history knowledge, Linnaeus also developed what became known as the _Linnaean taxonomy_; the system of scientific classification now widely used in the biological sciences. A previous zoologist Rumphius (1627–1702) had more or less approximated the Linnaean system and his material contributed to the later development of the binomial scientific classification by Linnaeus.[190]
 
@@ -260,13 +258,13 @@ Linnaeus classified humans among the primates beginning with the first edition o
 
   I absolutely know of none. If only someone might tell me a single one! If I would have called man a simian or vice versa, I would have brought together all the theologians against me. Perhaps I ought to have by virtue of the law of the discipline.
 
-Antropomorpha12c.png'' with a division between _Homo_ and _Simia_]]
+'' with a division between _Homo_ and _Simia_]]
 
 The theological concerns were twofold: first, putting man at the same level as monkeys or apes would lower the spiritually higher position that man was assumed to have in the great chain of being, and second, because the Bible says man was created in the image of God[205] (theomorphism), if monkeys/apes and humans were not distinctly and separately designed, that would mean monkeys and apes were created in the image of God as well. This was something many could not accept.[206] The conflict between world views that was caused by asserting man was a type of animal would simmer for a century until the much greater, and still ongoing, creation–evolution controversy began in earnest with the publication of _On the Origin of Species_ by Charles Darwin in 1859.
 
 After such criticism, Linnaeus felt he needed to explain himself more clearly. The 10th edition of __ introduced new terms, including _Mammalia_ and _Primates_, the latter of which would replace _Anthropomorpha_[207] as well as giving humans the full binomial _Homo sapiens_.[208] The new classification received less criticism, but many natural historians still believed he had demoted humans from their former place of ruling over nature and not being a part of it. Linnaeus believed that man biologically belongs to the animal kingdom and had to be included in it.[209] In his book __, he said, "One should not vent one's wrath on animals, Theology decree that man has a soul and that the animals are mere 'aoutomata mechanica,' but I believe they would be better advised that animals have a soul and that the difference is of nobility."[210]
 
-Hoppius_Anthropomorpha.png'' vol. 6 (1763).
+'' vol. 6 (1763).
 1. Troglodyta Bontii, 2. Lucifer Aldrovandi, 3. Satyrus Tulpii, 4. Pygmaeus Edwardi]]
 
 Linnaeus added a second species to the genus _Homo_ in __ based on a figure and description by Jacobus Bontius from a 1658 publication: _Homo troglodytes_ ("caveman")[211][212] and published a third in 1771: _Homo lar_.[213] Swedish historian Gunnar Broberg states that the new human species Linnaeus described were actually simians or native people clad in skins to frighten colonial settlers, whose appearance had been exaggerated in accounts to Linnaeus.[214]
@@ -280,14 +278,12 @@ In 1959, W. T. Stearn designated Linnaeus to be the lectotype of _H. sapiens_.[2
 
 Influences and economic beliefs
 
-LinneStatueMidway.jpg
-
 Linnaeus's applied science was inspired not only by the instrumental utilitarianism general to the early Enlightenment, but also by his adherence to the older economic doctrine of Cameralism.[227] Additionally, Linnaeus was a state interventionist. He supported tariffs, levies, export bounties, quotas, embargoes, navigation acts, subsidised investment capital, ceilings on wages, cash grants, state-licensed producer monopolies, and cartels.[228]
 
 
 Commemoration
 
-Råshult_1907.jpg]]
+]]
 
 Anniversaries of Linnaeus's birth, especially in centennial years, have been marked by major celebrations.[229] Linnaeus has appeared on numerous Swedish postage stamps and banknotes.[230] There are numerous statues of Linnaeus in countries around the world. The Linnean Society of London has awarded the Linnean Medal for excellence in botany or zoology since 1888. Following approval by the Riksdag of Sweden, Växjö University and Kalmar College merged on 1 January 2010 to become Linnaeus University.[231] Other things named after Linnaeus include the twinflower genus _Linnaea_, the crater Linné on the Earth's moon, a street in Cambridge, Massachusetts, and the cobalt sulfide mineral Linnaeite.
 

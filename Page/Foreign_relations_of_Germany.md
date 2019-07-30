@@ -23,7 +23,7 @@ There is a raft of NGOs in Germany that engage foreign policy issues. These NGOs
 
 Disputes
 
-Schröder_and_Bush.jpg with former U.S. President George W. Bush at the White House in 2001]]
+with former U.S. President George W. Bush at the White House in 2001]]
 
 In 2001, the discovery that the terrorist cell which carried out the attacks against the United States on 11 September 2001, was based in Hamburg, sent shock waves through the country.
 
@@ -53,7 +53,7 @@ Germany is a member of the Council of Europe, European Union, European Space Age
 
 European Union
 
-Flag_of_Europe.svg]]
+]]
 
 European integration has gone a long way since the European Coal and Steel Community (ECSC) and the Elysée Treaty. Peaceful collaborations with its neighbors remain one of Germany's biggest political objectives, and Germany has been on the forefront of most achievements made in European integration:
 
@@ -70,7 +70,7 @@ Germany has been the largest net contributor to EU budgets for decades (in absol
 
 NATO
 
-TrumpNato18.jpg]] Under the doctrine introduced by the 2003 Defense Policy Guidelines, Germany continues to give priority to the transatlantic partnership with the United States through the North Atlantic Treaty Organization. However, Germany is giving increasing attention to coordinating its policies with the European Union through the Common Foreign and Security Policy.
+]] Under the doctrine introduced by the 2003 Defense Policy Guidelines, Germany continues to give priority to the transatlantic partnership with the United States through the North Atlantic Treaty Organization. However, Germany is giving increasing attention to coordinating its policies with the European Union through the Common Foreign and Security Policy.
 
 UN
 
@@ -574,7 +574,7 @@ Europe
 
 Balkan states
 
-European_union_emu_map_en.png]]
+]]
 
 The German government was a strong supporter of the enlargement of NATO.
 

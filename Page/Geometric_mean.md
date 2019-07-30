@@ -1,5 +1,3 @@
-01-Mittlere_Proportionale.gif
-
 In mathematics, the GEOMETRIC MEAN is a mean or average, which indicates the central tendency or typical value of a set of numbers by using the product of their values (as opposed to the arithmetic mean which uses their sum). The geometric mean is defined as the [[Nth_root|, \quad h_0 = y
 
 where h_(n + 1) is the harmonic mean of the previous values of the two sequences, then a_(n) and h_(n) will converge to the geometric mean of x and y.
@@ -123,7 +121,7 @@ Not all values used to compute the HDI (Human Development Index) are normalized;
 
 Aspect ratios
 
-Dr._Kerns_Powers,_SMPTE_derivation_of_16-9_aspect_ratio.svg 16:9 standard.[6] TV 4:3/1.33 in red, 1.66 in orange, 16:9/1.7 IN BLUE, 1.85 in yellow, Panavision/2.2 in mauve and CinemaScope/2.35 in purple.]] The geometric mean has been used in choosing a compromise aspect ratio in film and video: given two aspect ratios, the geometric mean of them provides a compromise between them, distorting or cropping both in some sense equally. Concretely, two equal area rectangles (with the same center and parallel sides) of different aspect ratios intersect in a rectangle whose aspect ratio is the geometric mean, and their hull (smallest rectangle which contains both of them) likewise has aspect ratio their geometric mean.
+16:9 standard.[6] TV 4:3/1.33 in red, 1.66 in orange, 16:9/1.7 IN BLUE, 1.85 in yellow, Panavision/2.2 in mauve and CinemaScope/2.35 in purple.]] The geometric mean has been used in choosing a compromise aspect ratio in film and video: given two aspect ratios, the geometric mean of them provides a compromise between them, distorting or cropping both in some sense equally. Concretely, two equal area rectangles (with the same center and parallel sides) of different aspect ratios intersect in a rectangle whose aspect ratio is the geometric mean, and their hull (smallest rectangle which contains both of them) likewise has aspect ratio their geometric mean.
 
 In the choice of 16:9 aspect ratio by the SMPTE, balancing 2.35 and 4:3, the geometric mean is $\sqrt{2.35 \times \frac{4}{3}} \approx 1.7701$, and thus $16:9 = 1.77\overline{7}$... was chosen. This was discovered empirically by Kerns Powers, who cut out rectangles with equal areas and shaped them to match each of the popular aspect ratios. When overlapped with their center points aligned, he found that all of those aspect ratio rectangles fit within an outer rectangle with an aspect ratio of 1.77:1 and all of them also covered a smaller common inner rectangle with the same aspect ratio 1.77:1.[7] The value found by Powers is exactly the geometric mean of the extreme aspect ratios, 4:3(1.33:1) and CinemaScope(2.35:1), which is coincidentally close to 16 : 9 ($1.77\overline{7}:1$). The intermediate ratios have no effect on the result, only the two extreme ratios.
 

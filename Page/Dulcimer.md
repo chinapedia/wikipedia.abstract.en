@@ -1,4 +1,4 @@
-Early_dulcimer_made_in_Belgium.jpg A DULCIMER is a type of musical string instrument. It is a variety of zither. Among its forms are:
+A DULCIMER is a type of musical string instrument. It is a variety of zither. Among its forms are:
 
 -   HAMMERED DULCIMER, free-standing, most frequently but not always trapezoidal in shape, with many strings struck by handheld "hammers". This type of instrument is found in many cultures. Most countries have their own name for the instrument, for instance in Thailand it is called a khim, in India it is called Santoor and many have different tuning systems. Being a struck string instrument, it is considered to be among the ancestors of the piano.
 -   FRETTED, three or four strings, generally played on the lap by strumming; including

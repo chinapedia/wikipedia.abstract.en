@@ -1,4 +1,4 @@
-Slide_under_a_microscope.jpg.]] Emphysema_H_and_E.jpg tissue stained with hematoxylin and eosin as seen under a microscope.]]
+.]] tissue stained with hematoxylin and eosin as seen under a microscope.]]
 
 HISTOLOGY, also known as MICROSCOPIC ANATOMY or MICROANATOMY,[1] is the branch of biology which studies the microscopic anatomy of biological tissues.[2][3][4][5] Histology is the microscopic counterpart to gross anatomy which looks at larger structures visible without a microscope.[6][7] Although microscopic anatomy may be divided into _organology_, the study of organs, _histology_, the study of tissues, and _cytology_, the study of cells, modern usage places these topics under the field of histology.[8] In medicine, histopathology is the branch of histology that includes the microscopic identification and study of diseased tissue.[9][10] In the field of paleontology, the term paleohistology refers to the histology of fossil organisms.[11][12]
 
@@ -11,7 +11,7 @@ There are four basic types of animal tissues: muscle tissue, nervous tissue, con
 
 Plant tissue classification
 
-Alliaria_petiolata,_stalk,_cross_section,_Etzold_green.jpg'').]] For plants, the study of their tissues falls under the field of plant anatomy, with the following four main types:
+'').]] For plants, the study of their tissues falls under the field of plant anatomy, with the following four main types:
 
 -   Dermal tissue
 -   Vascular tissue
@@ -34,7 +34,7 @@ Most histological samples need preparation before microscopic observation; these
 
 Fixation
 
-Stigmatella_personata_thin_section.jpg bryozoan.]]
+bryozoan.]]
 
 Chemical fixatives are used to preserve and maintain the structure of tissues and cells; fixation also hardens tissues which aids in cutting the thin sections of tissue needed for observation under the microscope.[21][22] Fixatives generally preserve tissues (and cells) by irreversibly cross-linking proteins.[23] The most widely used fixative for light microscopy is 10% neutral buffered formalin, or NBF (4% formaldehyde in phosphate buffered saline).[24][25][26]
 
@@ -50,8 +50,6 @@ Tissues are embedded in a harder medium both as a support and to allow the cutti
 
 Paraffin wax
 
-Tissue_processing_-_Embedding_station.jpg
-
 For light microscopy, paraffin wax is the most frequently used embedding material.[34][35] Paraffin is immiscible with water, the main constituent of biological tissue, so it must first be removed in a series of dehydration steps.[36] Samples are transferred through a series of progressively more concentrated ethanol baths, up to 100% ethanol to remove remaining traces of water.[37][38] Dehydration is followed by a _clearing agent_ (typically xylene[39] although other environmental safe substitutes are in use[40]) which removes the alcohol and is miscible with the wax, finally melted paraffin wax is added to replace the xylene and infiltrate the tissue.[41] In most histology, or histopathology laboratories the dehydration, clearing, and wax infiltration are carried out in _tissue processors_ which automate this process.[42] Once infiltrated in paraffin, tissues are oriented in molds which are filled with wax; once positioned, the wax is cooled, solidifying the block and tissue.[43][44]
 
 Other materials
@@ -64,8 +62,6 @@ For tissues to be cut in a frozen state, tissues are placed in a water-based emb
 
 Sectioning
 
-Tissue_processing_-_Microtome_is_used_to_cut_a_ribbon_of_5-micron-thick_sections_from_the_paraffin_block.jpg
-
 For light microscopy, a knife mounted in a microtome is used to cut tissue sections (typically between 5-15 micrometers thick) which are mounted on a glass microscope slide.[50] For transmission electron microscopy (TEM), a diamond or glass knife mounted in an ultramicrotome is used to cut between 50-150 nanometer thick tissue sections.[51]
 
 Staining
@@ -74,7 +70,7 @@ Biological tissue has little inherent contrast in either the light or electron m
 
 Light microscopy
 
-Masson's_trichrome_staining_on_rat's_trachea.jpg staining on rat trachea. ]] Hematoxylin and eosin (H&E stain) is one of the most commonly used stains in histology to show the general structure of the tissue.[54][55] Hematoxylin stains cell nuclei blue; eosin, an acidic dye, stains the cytoplasm and other tissues in different stains of pink.[56][57]
+staining on rat trachea. ]] Hematoxylin and eosin (H&E stain) is one of the most commonly used stains in histology to show the general structure of the tissue.[54][55] Hematoxylin stains cell nuclei blue; eosin, an acidic dye, stains the cytoplasm and other tissues in different stains of pink.[56][57]
 
 In contrast to H&E, which is used as a general stain, there are many techniques that more selectively stain cells, cellular components, and specific substances.[58] A commonly performed histochemical technique that targets a specific chemical is the Perls' Prussian blue reaction, used to demonstrate iron deposits[59] in diseases like hemochromatosis. The Nissl method for Nissl substance and Golgi's method (and related silver stains) are useful in identifying neurons are other examples of more specific stains.[60]
 
@@ -98,7 +94,7 @@ Frozen section procedure is method to rapidly freeze, cut and mount histology se
 
 Ultramicrotomy
 
-Chlamydomonas_TEM_07.jpg under a Transmission electron microscope ]]
+under a Transmission electron microscope ]]
 
 Plastic embedding is commonly used in the preparation of material for electron microscopy. Tissues are often embedded in epoxy resin.[64] Very thin sections (less than 0.1 micrometer) are cut using diamond or glass knives on an ultramicrotome.[65]
 
@@ -109,7 +105,7 @@ Artifacts are structures or features in tissue that interfere with normal histol
 
 History
 
-Cajal-va.jpg in his laboratory.]] In the 17th century, the Italian Marcello Malpighi used microscopes to study tiny biological entities and has been considered by some to be the founder of the fields of histology and microscopic pathology.[69][70] Malpighi analyzed several parts of the organs of bats, frogs and other animals under the microscope. Malpighi, while studying the structure of the lung, noticed its membranous alveoli and the hair-like connections between veins and arteries, which he named capillaries. His discovery established how the oxygen breathed in, enters the blood stream and serves the body.[71]
+in his laboratory.]] In the 17th century, the Italian Marcello Malpighi used microscopes to study tiny biological entities and has been considered by some to be the founder of the fields of histology and microscopic pathology.[69][70] Malpighi analyzed several parts of the organs of bats, frogs and other animals under the microscope. Malpighi, while studying the structure of the lung, noticed its membranous alveoli and the hair-like connections between veins and arteries, which he named capillaries. His discovery established how the oxygen breathed in, enters the blood stream and serves the body.[71]
 
 In the 19th century, histology was an academic discipline in its own right. The French anatomist Marie François Xavier Bichat introduced the concept of tissue in anatomy in 1801, and the term "histology" first appeared in a book of Karl Meyer in 1819.[72][73][74][75]
 

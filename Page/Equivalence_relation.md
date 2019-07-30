@@ -1,4 +1,4 @@
-Equivalence}} Set_partitions_5;_matrices.svg equivalence relations on a 5-element set depicted as 5×5 logical matrices (colored fields, including those in light gray, stand for ones; white fields for zeros.) The row and column indices of nonwhite cells are the related elements, while the different colors, other than light gray, indicate the equivalence classes (each light gray cell is its own equivalence class).]]
+Equivalence}} equivalence relations on a 5-element set depicted as 5×5 logical matrices (colored fields, including those in light gray, stand for ones; white fields for zeros.) The row and column indices of nonwhite cells are the related elements, while the different colors, other than light gray, indicate the equivalence classes (each light gray cell is its own equivalence class).]]
 
 In mathematics, an EQUIVALENCE RELATION is a binary relation that is reflexive, symmetric and transitive. The relation "is equal to" is the canonical example of an equivalence relation, where for any objects , , and :
 

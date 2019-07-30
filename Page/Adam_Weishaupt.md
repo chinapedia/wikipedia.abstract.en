@@ -32,7 +32,7 @@ After Weishaupt's Order of Illuminati was banned and its members dispersed, it l
 
 Assessment of character and intentions
 
-Illuminaten397.jpg of Adam Weishaupt]]
+of Adam Weishaupt]]
 
 Weishaupt's character and intentions have been variously assessed from those such as Augustin Barruel and John Robison who regarded him as a 'human devil' and saw his mission as one of malevolent destructiveness. While others such as Thomas Jefferson, who wrote in a letter to James Madison that "Barruel’s own parts of the book are perfectly the ravings of a Bedlamite" and considered Weishaupt as an "enthusiastic Philanthropist" who believed in the indefinite perfectibility of man and his intention was simply to "reinstate natural religion, and by diffusing the light of his morality, to teach us to govern ourselves".[34]
 

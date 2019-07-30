@@ -16,8 +16,6 @@ Pre-colonial period
 
 Antigua was first settled by archaic age hunter-gatherer Amerindians called the Ciboney.[10][11][12] Carbon dating has established the earliest settlements started around 3100 BC. They were succeeded by the ceramic age pre-Columbian Arawak-speaking Saladoid people who migrated from the lower Orinoco River. They introduced agriculture, raising, among other crops, the famous Antigua black pineapple (_Ananas comosus_), corn, sweet potatoes, chiles, guava, tobacco, and cotton. Later on the more bellicose Caribs also settled the island, possibly by force.
 
-The_Mill_Yard_-_Ten_Views_in_the_Island_of_Antigua_(1823),_plate_V_-_BL.jpg
-
 European arrival and settlement
 
 Christopher Columbus was the first European to sight the islands in 1493.[13][14] The Spanish did not colonise Antigua because it lacked fresh water but not aggressive Caribs. However a combination of European and African diseases, malnutrition, and slavery eventually killed most of the Caribbean's native population; smallpox was probably the greatest killer.[15]
@@ -43,7 +41,7 @@ Most of Barbuda was devastated in early September 2017 by Hurricane Irma, which 
 
 Geography
 
-Antigue_34622.jpg Antigua and Barbuda both are generally low-lying islands whose terrain has been influenced more by limestone formations than volcanic activity. The highest point on Antigua is Boggy Peak, the remnant of a volcanic crater rising .[43][44]
+Antigua and Barbuda both are generally low-lying islands whose terrain has been influenced more by limestone formations than volcanic activity. The highest point on Antigua is Boggy Peak, the remnant of a volcanic crater rising .[43][44]
 
 The shorelines of both islands are greatly indented with beaches, lagoons, and natural harbours. The islands are rimmed by reefs and shoals. There are few streams as rainfall is slight. Both islands lack adequate amounts of fresh groundwater.[45]
 
@@ -72,8 +70,6 @@ The sandy soil on much of the islands has only scrub vegetation. Some parts of A
 
 Demographics
 
-Antigua-Barbuda-demography.png
-
 Ethnic groups
 
 Antigua has a population of , mostly made up of people of West African, British, and Madeiran descent. The ethnic distribution consists of 91% Black & Mulatto, 4.4% mixed race, 1.7% White, and 2.9% other (primarily East Indian and other Asian). Most Whites are of Irish or British descent. Christian Levantine Arabs, and a small number of Asians and Sephardic Jews make up the remainder of the population.
@@ -92,7 +88,7 @@ Spanish is spoken by around 10,000 inhabitants.[51]
 
 Religion
 
-Stjohnscathedralantigua.jpg]]
+]]
 
 A majority (77%)[52] of Antiguans are Christians, with the Anglicans (17.6%) being the largest single denomination. Other Christian denominations present are Seventh-day Adventist Church (12.4%), Pentecostalism (12.2%), Moravian Church (8.3%), Roman Catholics (8.2%), Methodist Church (5.6%), Wesleyan Holiness Church (4.5%), Church of God (4.1%), Baptists (3.6%), Mormonism (<1.0%), as well as Jehovah's Witnesses.
 
@@ -103,15 +99,13 @@ Governance
 
 Political system
 
-St_Johns_Antigua_2012.jpg The politics of Antigua and Barbuda take place within a framework of a unitary, parliamentary, representative democratic monarchy, in which the head of State is the monarch who appoints the Governor General as vice-regal representative.[53] Elizabeth II is the present Queen of Antigua and Barbuda, having served in that position since the islands' independence from the United Kingdom in 1981. The Queen is currently represented by Governor General Sir Rodney Williams. A council of ministers is appointed by the governor general on the advice of the prime minister, currently Gaston Browne (2014–). The prime minister is the head of government.
+The politics of Antigua and Barbuda take place within a framework of a unitary, parliamentary, representative democratic monarchy, in which the head of State is the monarch who appoints the Governor General as vice-regal representative.[53] Elizabeth II is the present Queen of Antigua and Barbuda, having served in that position since the islands' independence from the United Kingdom in 1981. The Queen is currently represented by Governor General Sir Rodney Williams. A council of ministers is appointed by the governor general on the advice of the prime minister, currently Gaston Browne (2014–). The prime minister is the head of government.
 
 Executive power is exercised by the government while legislative power is vested in both the government and the two Chambers of Parliament. The bicameral Parliament consists of the Senate (17 members appointed by members of the government and the opposition party, and approved by the Governor-General), and the House of Representatives (17 members elected by first past the post) to serve five-year terms.
 
 The current Leader of Her Majesty's Loyal Opposition is the United Progressive Party Member of Parliament (MP), the Honourable Baldwin Spencer.
 
 Elections
-
-Antigua.St.John.from_west.wmt.jpg
 
 The last elections held were on 12 June 2014, during which the Antigua Labour Party won 14 seats, and the United Progressive Party 3 seats.
 
@@ -141,7 +135,7 @@ The Royal Antigua and Barbuda Defence Force has around 260 members dispersed bet
 
 Administrative divisions
 
-Antigua and Barbuda is divided into six parishes and two dependencies: Antigua_parishes_english.png
+Antigua and Barbuda is divided into six parishes and two dependencies:
 
 +----------------------+--+
 | -   Parishes         |  |
@@ -161,7 +155,7 @@ Note: Though Barbuda and Redonda are called dependencies they are integral parts
 
 Economy
 
-Tree_map_export_2009_Antigua_and_Barbuda.jpeg Tourism dominates the economy, accounting for more than half of the gross domestic product (GDP).[56][57] Antigua is famous for its many luxury resorts. Weak tourist activity since early 2000 has slowed the economy, however, and squeezed the government into a tight fiscal corner.[58]
+Tourism dominates the economy, accounting for more than half of the gross domestic product (GDP).[56][57] Antigua is famous for its many luxury resorts. Weak tourist activity since early 2000 has slowed the economy, however, and squeezed the government into a tight fiscal corner.[58]
 
 Investment banking and financial services also make up an important part of the economy. Major world banks with offices in Antigua include the Royal Bank of Canada (RBC) and Scotiabank. Financial-services corporations with offices in Antigua include PriceWaterhouseCoopers. The US Securities and Exchange Commission has accused the Antigua-based Stanford International Bank, owned by Texas billionaire Allen Stanford, of orchestrating a huge fraud which may have bilked investors of some $8 billion.[59] (check status 20100312)
 
@@ -211,7 +205,7 @@ Antiguan author Jamaica Kincaid has published over 20 works of literature.
 
 Sports
 
-Cricket_ground.jpg.]] The Antigua and Barbuda national cricket team represented the country at the 1998 Commonwealth Games, but Antiguan cricketers otherwise play for the Leeward Islands cricket team in domestic matches and the West Indies cricket team internationally. The 2007 Cricket World Cup was hosted in the West Indies from 11 March to 28 April 2007.
+.]] The Antigua and Barbuda national cricket team represented the country at the 1998 Commonwealth Games, but Antiguan cricketers otherwise play for the Leeward Islands cricket team in domestic matches and the West Indies cricket team internationally. The 2007 Cricket World Cup was hosted in the West Indies from 11 March to 28 April 2007.
 
 Antigua hosted eight matches at the Sir Vivian Richards Stadium, which was completed on 11 February 2007 and can hold up to 20,000 people. Antigua is a Host of Stanford Twenty20 – Twenty20 Cricket, a version started by Allen Stanford in 2006 as a regional cricket game with almost all Caribbean islands taking part. Rugby and netball are popular as well.
 

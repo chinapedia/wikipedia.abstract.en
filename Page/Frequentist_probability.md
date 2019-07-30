@@ -1,5 +1,3 @@
-John_Venn.jpg
-
 FREQUENTIST PROBABILITY or FREQUENTISM is an interpretation of probability; it defines an event's probability as the limit of its relative frequency in a large number of trials. This interpretation supports the statistical needs of experimental scientists and pollsters; probabilities can be found (in principle) by a repeatable objective process (and are thus ideally devoid of opinion). It does not support all needs; gamblers typically require estimates of the odds without experiments.
 
 The development of the frequentist account was motivated by the problems and paradoxes of the previously dominant viewpoint, the classical interpretation. In the classical interpretation, probability was defined in terms of the principle of indifference, based on the natural symmetry of a problem, so, _e.g._ the probabilities of dice games arise from the natural symmetric 6-sidedness of the cube. This classical interpretation stumbled at any statistical problem that has no natural symmetry for reasoning.

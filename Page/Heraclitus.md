@@ -5,7 +5,7 @@ Heraclitus was famous for his insistence on ever-present change as being the fun
 
 Life
 
-Efez_agora_odeon_prytaneion_RB.jpg, birthplace of Heraclitus]] The main source for the life of Heraclitus is Diogenes Laërtius, although some have questioned the validity of his account as "a tissue of Hellenistic anecdotes, most of them obviously fabricated on the basis of statements in the preserved fragments".[8] Diogenes said that Heraclitus flourished in the 69th Olympiad,[9] 504–501 BCE. All the rest of the evidence—the people Heraclitus is said to have known, or the people who were familiar with his work—confirms the _floruit_. His dates of birth and death are based on a life span of 60 years, the age at which Diogenes says he died,[10] with the floruit in the middle.
+, birthplace of Heraclitus]] The main source for the life of Heraclitus is Diogenes Laërtius, although some have questioned the validity of his account as "a tissue of Hellenistic anecdotes, most of them obviously fabricated on the basis of statements in the preserved fragments".[8] Diogenes said that Heraclitus flourished in the 69th Olympiad,[9] 504–501 BCE. All the rest of the evidence—the people Heraclitus is said to have known, or the people who were familiar with his work—confirms the _floruit_. His dates of birth and death are based on a life span of 60 years, the age at which Diogenes says he died,[10] with the floruit in the middle.
 
 Heraclitus was born to an aristocratic family in Ephesus,[11] in the Persian Empire, in what is now called present-day Efes, Turkey. His father was named either Blosôn or Herakôn.[12] Diogenes says that he abdicated the kingship (_basileia_) in favor of his brother[13] and Strabo confirms that there was a ruling family in Ephesus descended from the Ionian founder, Androclus, which still kept the title and could sit in the chief seat at the games, as well as a few other privileges.[14] How much power the king had is another question. Ephesus had been part of the Persian Empire since 547 and was ruled by a satrap, a more distant figure, as the Great King allowed the Ionians considerable autonomy. Diogenes says that Heraclitus used to play knucklebones with the youths in the temple of Artemis and when asked to start making laws he refused saying that the constitution (_politeia_) was _ponêra_,[15] which can mean either that it was fundamentally wrong or that he considered it toilsome. Two extant letters between Heraclitus and Darius I, quoted by Diogenes, are undoubtedly later forgeries.[16]
 
@@ -20,7 +20,7 @@ He died after 478 BC from a hydropsy.[27]
 
 Works
 
-Raphael_School_of_Athens_Michelangelo.jpg) sits apart from the other philosophers in Raphael's _School of Athens_.]] Diogenes states that Heraclitus' work was "a continuous treatise _On Nature_, but was divided into three discourses, one on the universe, another on politics, and a third on theology." Theophrastus says (in Diogenes) "...some parts of his work [are] half-finished, while other parts [made] a strange medley."[28]
+) sits apart from the other philosophers in Raphael's _School of Athens_.]] Diogenes states that Heraclitus' work was "a continuous treatise _On Nature_, but was divided into three discourses, one on the universe, another on politics, and a third on theology." Theophrastus says (in Diogenes) "...some parts of his work [are] half-finished, while other parts [made] a strange medley."[28]
 
 Diogenes also tells us that Heraclitus deposited his book as a dedication in the great temple of Artemis, the Artemisium, one of the largest temples of the 6th century BCE and one of the Seven Wonders of the Ancient World. Ancient temples were regularly used for storing treasures, and were open to private individuals under exceptional circumstances; furthermore, many subsequent philosophers in this period refer to the work. Says Kahn:[29] "Down to the time of Plutarch and Clement, if not later, the little book of Heraclitus was available in its original form to any reader who chose to seek it out." Diogenes says:[30] "the book acquired such fame that it produced partisans of his philosophy who were called Heracliteans."
 
@@ -35,7 +35,7 @@ At some time in antiquity he acquired this epithet denoting that his major sayin
 
 The "weeping philosopher"
 
-Bust_of_Heraclitus,_'The_Weeping_Philosopher'_LACMA_M.83.4.jpg ca. 1757]] Diogenes Laërtius ascribes the theory that Heraclitus did not complete some of his works because of melancholia to Theophrastus.[33] Later he was referred to as the "weeping philosopher", as opposed to Democritus, who is known as the "laughing philosopher".[34] If Stobaeus[35] writes correctly, Sotion in the early 1st century CE was already combining the two in the imaginative duo of weeping and laughing philosophers: "Among the wise, instead of anger, Heraclitus was overtaken by tears, Democritus by laughter." The view is expressed by the satirist Juvenal:[36]
+ca. 1757]] Diogenes Laërtius ascribes the theory that Heraclitus did not complete some of his works because of melancholia to Theophrastus.[33] Later he was referred to as the "weeping philosopher", as opposed to Democritus, who is known as the "laughing philosopher".[34] If Stobaeus[35] writes correctly, Sotion in the early 1st century CE was already combining the two in the imaginative duo of weeping and laughing philosophers: "Among the wise, instead of anger, Heraclitus was overtaken by tears, Democritus by laughter." The view is expressed by the satirist Juvenal:[36]
 
 The motif was also adopted by Lucian of Samosata in his "Sale of Creeds", in which the duo is sold together as a complementary product in the satirical auction of philosophers. Subsequently, they were considered an indispensable feature of philosophic landscapes. Montaigne proposed two archetypical views of human affairs based on them, selecting Democritus' for himself.[37] The weeping philosopher may have been mentioned in William Shakespeare's _The Merchant of Venice_.[38] Donato Bramante painted a fresco, "Democritus and Heraclitus," in Casa Panigarola in Milan.[39]
 
@@ -56,7 +56,7 @@ The later Stoics understood it as "the account which governs everything,"[45] an
 
 _Panta rhei_, "everything flows"
 
-Hendrik_ter_Brugghen_-_Heraclitus.jpg]] The phrase (_PANTA RHEI_ ) "everything flows"[47] either was spoken by Heraclitus or survived as a quotation of his. This famous aphorism used to characterize Heraclitus' thought comes from Simplicius,[48] a neoplatonist, and from Plato's _Cratylus_. The word _rhei_ (as in rheology) is the Greek word for "to stream", and is etymologically related to Rhea according to Plato's _Cratylus_.[49]
+]] The phrase (_PANTA RHEI_ ) "everything flows"[47] either was spoken by Heraclitus or survived as a quotation of his. This famous aphorism used to characterize Heraclitus' thought comes from Simplicius,[48] a neoplatonist, and from Plato's _Cratylus_. The word _rhei_ (as in rheology) is the Greek word for "to stream", and is etymologically related to Rhea according to Plato's _Cratylus_.[49]
 
 The philosophy of Heraclitus is summed up in his cryptic utterance:[50]
 
@@ -126,7 +126,7 @@ This influential quote by Heraclitus "" (DK 22B119) has led to numerous interpre
 
 Influence
 
-Bramante_heracleitus_and_democritus.jpeg'', from a 1477 fresco by Donato Bramante, Pinacoteca di Brera, Milan]]
+'', from a 1477 fresco by Donato Bramante, Pinacoteca di Brera, Milan]]
 
 Plato
 
@@ -152,7 +152,7 @@ The Stoic modification of Heraclitus' idea of the Logos was also influential on 
 
 Church fathers
 
-Cornelis_Cornelisz._van_Haarlem_01.jpg (laughing) & Herakliet (crying) by Cornelis van Haarlem]] The church fathers were the leaders of the early Christian Church during its first five centuries of existence, roughly contemporaneous to Stoicism under the Roman Empire. The works of dozens of writers in hundreds of pages have survived.
+(laughing) & Herakliet (crying) by Cornelis van Haarlem]] The church fathers were the leaders of the early Christian Church during its first five centuries of existence, roughly contemporaneous to Stoicism under the Roman Empire. The works of dozens of writers in hundreds of pages have survived.
 
 All of them had something to say about the Christian form of the Logos. The Catholic Church found it necessary to distinguish between the Christian logos and that of Heraclitus as part of its ideological distancing from paganism. The necessity to convert by defeating paganism was of paramount importance. Hippolytus of Rome therefore identifies Heraclitus along with the other Pre-Socratics (and Academics) as sources of heresy. Church use of the methods and conclusions of ancient philosophy as such was as yet far in the future, even though many were converted philosophers.
 

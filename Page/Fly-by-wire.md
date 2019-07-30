@@ -1,4 +1,4 @@
-Airbus-319-cockpit.jpg was the first commercial airliner to feature a full glass cockpit and digital fly-by-wire flight control system. The only analogue instruments were the RMI, brake pressure indicator, standby altimeter and artificial horizon, the latter two being replaced by a digital integrated standby instrument system in later production models.]] FLY-BY-WIRE (FBW) is a system that replaces the conventional manual flight controls of an aircraft with an electronic interface. The movements of flight controls are converted to electronic signals transmitted by wires (hence the fly-by-wire term), and flight control computers determine how to move the actuators at each control surface to provide the ordered response. It can use mechanical flight control backup systems (Boeing 777) or use fully fly-by-wire controls.[1]
+was the first commercial airliner to feature a full glass cockpit and digital fly-by-wire flight control system. The only analogue instruments were the RMI, brake pressure indicator, standby altimeter and artificial horizon, the latter two being replaced by a digital integrated standby instrument system in later production models.]] FLY-BY-WIRE (FBW) is a system that replaces the conventional manual flight controls of an aircraft with an electronic interface. The movements of flight controls are converted to electronic signals transmitted by wires (hence the fly-by-wire term), and flight control computers determine how to move the actuators at each control surface to provide the ordered response. It can use mechanical flight control backup systems (Boeing 777) or use fully fly-by-wire controls.[1]
 
 Improved fully fly-by-wire systems interpret the pilot's control inputs as a desired outcome and calculate the control surface positions required to achieve that outcome; this results in various combinations of rudder, elevator, aileron, flaps and engine controls in different situations using a closed (feedback) loop. The pilot may not be fully aware of all the control outputs acting to effect the outcome, only that the aircraft is reacting as expected. The fly-by-wire computers act to stabilise the aircraft and adjust the flying characteristics without the pilot's involvement and to prevent the pilot operating outside of the aircraft's safe performance envelope.[2][3]
 
@@ -15,7 +15,7 @@ Basic operation
 
 Closed-loop feedback control
 
-Feedback_loop_with_descriptions.svg loop]] A pilot commands the flight control computer to make the aircraft perform a certain action, such as pitch the aircraft up, or roll to one side, by moving the control column or sidestick. The flight control computer then calculates what control surface movements will cause the plane to perform that action and issues those commands to the electronic controllers for each surface.[5] The controllers at each surface receive these commands and then move actuators attached to the control surface until it has moved to where the flight control computer commanded it to. The controllers measure the position of the flight control surface with sensors such as LVDTs.[6]
+loop]] A pilot commands the flight control computer to make the aircraft perform a certain action, such as pitch the aircraft up, or roll to one side, by moving the control column or sidestick. The flight control computer then calculates what control surface movements will cause the plane to perform that action and issues those commands to the electronic controllers for each surface.[5] The controllers at each surface receive these commands and then move actuators attached to the control surface until it has moved to where the flight control computer commanded it to. The controllers measure the position of the flight control surface with sensors such as LVDTs.[6]
 
 Automatic stability systems
 
@@ -37,7 +37,7 @@ A FBW aircraft can be lighter than a similar design with conventional controls. 
 
 History
 
-Avro_Arrow_rollout.jpg, first non-experimental aircraft flown with a fly-by-wire control system]] F-8C_FBW.jpg digital fly-by-wire testbed]] Servo-electrically operated control surfaces were first tested in the 1930s on the Soviet Tupolev ANT-20.[12] Long runs of mechanical and hydraulic connections were replaced with wires and electric servos.
+, first non-experimental aircraft flown with a fly-by-wire control system]] digital fly-by-wire testbed]] Servo-electrically operated control surfaces were first tested in the 1930s on the Soviet Tupolev ANT-20.[12] Long runs of mechanical and hydraulic connections were replaced with wires and electric servos.
 
 The first pure electronic fly-by-wire aircraft with no mechanical or hydraulic backup was the Apollo Lunar Landing Training Vehicle (LLTV), first flown in 1968.[13]
 
@@ -61,7 +61,7 @@ In more sophisticated versions, analog computers replaced the electronic control
 
 Digital systems
 
-Fly_by_wire.jpg A digital fly-by-wire flight control system can be extended from its analog counterpart. Digital signal processing can receive and interpret input from multiple sensors simultaneously (such as the altimeters and the pitot tubes) and adjust the controls in real time. The computers sense position and force inputs from pilot controls and aircraft sensors. They then solve differential equations related to the aircraft's equations of motion to determine the appropriate command signals for the flight controls to execute the intentions of the pilot.[24]
+A digital fly-by-wire flight control system can be extended from its analog counterpart. Digital signal processing can receive and interpret input from multiple sensors simultaneously (such as the altimeters and the pitot tubes) and adjust the controls in real time. The computers sense position and force inputs from pilot controls and aircraft sensors. They then solve differential equations related to the aircraft's equations of motion to determine the appropriate command signals for the flight controls to execute the intentions of the pilot.[24]
 
 The programming of the digital computers enable flight envelope protection. These protections are tailored to an aircraft's handling characteristics to stay within aerodynamic and structural limitations of the aircraft. For example, the computer in flight envelope protection mode can try to prevent the aircraft from being handled dangerously by preventing pilots from exceeding preset limits on the aircraft's flight-control envelope, such as those that prevent stalls and spins, and which limit airspeeds and g forces on the airplane. Software can also be included that stabilize the flight-control inputs to avoid pilot-induced oscillations.[25]
 
@@ -93,7 +93,7 @@ Boeing airliners, such as the Boeing 777, allow the pilots to completely overrid
 
 Applications
 
-F-BUAD_A300B2-C1_Airbus_Industry(3rd_prototype)_Farnborough_SEP86_(12609347665).jpg trialed fly-by-wire on an A300 as shown in 1986, then produced the A320.]]
+trialed fly-by-wire on an A300 as shown in 1986, then produced the A320.]]
 
 -   The General Dynamics F-16 was the first production aircraft to use fly-by-wire controls.
 -   The Space Shuttle orbiter has an all-digital fly-by-wire control system. This system was first exercised (as the only flight control system) during the glider unpowered-flight "Approach and Landing Tests" that began on the Space Shuttle _Enterprise_ during 1977.

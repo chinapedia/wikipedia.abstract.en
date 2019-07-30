@@ -2,8 +2,6 @@ The BASENJI is a breed of hunting dog. It was bred from stock that originated in
 
 The Basenji produces an unusual yodel-like sound (commonly called a "baroo"), due to its unusually shaped larynx.[1] This trait also gives the Basenji the nickname "barkless dog".[2]
 
-Basenji_mix_photo.jpg
-
 Basenjis share many unique traits with pariah dog types. Basenjis, like dingoes, New Guinea singing dogs and some other breeds of dog, come into estrus only once annually—as compared to other dog breeds, which may have two or more breeding seasons every year. Both dingoes and Basenji lack a distinctive odor,[3][4] and are prone to howls, yodels, and other vocalizations over the characteristic bark of modern dog breeds. One theory holds that the latter trait is the result of selecting against dogs that frequently bark—in the traditional Central African context—because barking could lead enemies to humans' forest encampments. While dogs that resemble the Basenji in some respects are commonplace over much of Africa, the breed's original foundation stock came from the old growth forest regions of the Congo Basin, where its structure and type were fixed by adaptation to its habitat, as well as use (primarily net hunting in extremely dense old-growth forest vegetation).
 
 The name comes from the Lingala language of the Congo, which means 'villager dogs'.
@@ -21,8 +19,6 @@ The Azande and Mangbetu people from the northeastern Congo region describe Basen
 
 History
 
-Billy_Basenji.jpg
-
 Originating on the continent of Africa,[12] basenji-like dogs (Tesem) are depicted in drawings and models dating back to the Twelfth Dynasty of Egypt.[13] Dogs of this type were originally kept for hunting small game by tracking and driving the game into nets.[14][15]
 
 Europeans first described the type of dog the Basenji breed derives from in 1895—in the Congo. These local dogs, which Europeans identified as a unique breed and called _basenji,_ were prized by locals for their intelligence, courage, speed, and silence. An article published called The Intelligence of Dogs by Stanley Coren, Ph.D. questions this. It ranks the breed at #78 out of 79, which is the second to lowest rank in intelligence. Some consider this an unreliable list, as it focuses on only the ability to listen to a first command. Some consider independent dogs such as Basenjis and Afghan Hounds more intelligent than obedient breeds because of their ability to recognize which actions benefit them, and which simply please another.[16]
@@ -35,8 +31,6 @@ The popularity of the Basenji in the United States, according to the American Ke
 Characteristics
 
 Appearance
-
-Gaia_Basenji.jpg Basenji_pair_edit.jpg Raskal.jpg KinzicaGiotto_02.jpg Basenji,_Bronco.jpg
 
 Basenjis are small, short-haired dogs with erect ears, tightly curled tails and graceful necks. A Basenji's forehead is wrinkled, even more so when they are young or extremely excited. A Basenji's eyes are typically almond-shaped. Basenjis typically weigh about [23] and stand [24] at the shoulder. They are a square breed, which means they are as long as they are tall with males usually larger than females. Basenjis are athletic dogs, and deceptively powerful for their size. They have a graceful, confident gait like a trotting horse, and skim the ground in a double suspension gallop, with their characteristic curled tail straightened out for greater balance when running at their top speed. Basenjis come in a few different colorations: red, black, tricolor, and brindle, and they all have white feet, chests and tail tips. They can also come in _trindle_, which is a tricolor with brindle points, a rare combination.
 

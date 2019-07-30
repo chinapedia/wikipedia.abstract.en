@@ -26,7 +26,7 @@ Writing
 
 After leaving university Adams moved back to London, determined to break into TV and radio as a writer. An edited version of the _Footlights Revue_ appeared on BBC2 television in 1974. A version of the Revue performed live in London's West End led to Adams being discovered by Monty Python's Graham Chapman. The two formed a brief writing partnership, earning Adams a writing credit in episode 45 of _Monty Python_ for a sketch called "Patient Abuse". The pair also co-wrote the "Marilyn Monroe" sketch which appeared on the soundtrack album of _Monty Python and the Holy Grail_. Adams is one of only two people other than the original Python members to get a writing credit (the other being Neil Innes).[13]
 
-DNA_in_Monty_Python.jpg'' appearance, in full surgeon's garb]]
+'' appearance, in full surgeon's garb]]
 
 Adams had two brief appearances in the fourth series of _Monty Python's Flying Circus_. At the beginning of episode 42, "The Light Entertainment War", Adams is in a surgeon's mask (as Dr. Emile Koning, according to on-screen captions), pulling on gloves, while Michael Palin narrates a sketch that introduces one person after another but never gets started. At the beginning of episode 44, "Mr. Neutron", Adams is dressed in a pepper-pot outfit and loads a missile onto a cart driven by Terry Jones, who is calling for scrap metal ("Any old iron..."). The two episodes were broadcast in November 1974. Adams and Chapman also attempted non-Python projects, including _Out of the Trees_.[14]
 
@@ -54,7 +54,7 @@ In the _Doctor Who_ 2012 Christmas episode _The Snowmen_, writer Steven Moffat w
 
 _The Hitchhiker's Guide to the Galaxy_
 
-_The Hitchhiker's Guide to the Galaxy_ was a concept for a science-fiction comedy radio series pitched by Adams and radio producer Simon Brett to BBC Radio 4 in 1977. Adams came up with an outline for a pilot episode, as well as a few other stories (reprinted in Neil Gaiman's book _Don't Panic: The Official Hitchhiker's Guide to the Galaxy Companion_) that could be used in the series. Towelday-Innsbruck.jpg 2005 in Innsbruck, Austria, where Adams first had the idea of _The Hitchhiker's Guide_. In the novels, a towel is the most useful thing a space traveller can have. The annual Towel Day (25 May) was first celebrated in 2001, two weeks after Adams's death.]]
+_The Hitchhiker's Guide to the Galaxy_ was a concept for a science-fiction comedy radio series pitched by Adams and radio producer Simon Brett to BBC Radio 4 in 1977. Adams came up with an outline for a pilot episode, as well as a few other stories (reprinted in Neil Gaiman's book _Don't Panic: The Official Hitchhiker's Guide to the Galaxy Companion_) that could be used in the series. 2005 in Innsbruck, Austria, where Adams first had the idea of _The Hitchhiker's Guide_. In the novels, a towel is the most useful thing a space traveller can have. The annual Towel Day (25 May) was first celebrated in 2001, two weeks after Adams's death.]]
 
 According to Adams, the idea for the title occurred to him while he lay drunk in a field in Innsbruck, Austria, gazing at the stars. He was carrying a copy of the _Hitch-hiker's Guide to Europe_, and it occurred to him that "somebody ought to write a _Hitchhiker's Guide to the Galaxy_".[27]
 
@@ -72,7 +72,7 @@ Radio producer Dirk Maggs had consulted with Adams, first in 1993, and later in 
 
 _Dirk Gently_ series
 
-Douglas_Adams_San_Francisco.jpg Between Adams's first trip to Madagascar with Mark Carwardine in 1985, and their series of travels that formed the basis for the radio series and non-fiction book _Last Chance to See_, Adams wrote two other novels with a new cast of characters. _Dirk Gently's Holistic Detective Agency_ was published in 1987, and was described by its author as "a kind of ghost-horror-detective-time-travel-romantic-comedy-epic, mainly concerned with mud, music and quantum mechanics".[35] It was derived from two Doctor Who serials Adams had written.
+Between Adams's first trip to Madagascar with Mark Carwardine in 1985, and their series of travels that formed the basis for the radio series and non-fiction book _Last Chance to See_, Adams wrote two other novels with a new cast of characters. _Dirk Gently's Holistic Detective Agency_ was published in 1987, and was described by its author as "a kind of ghost-horror-detective-time-travel-romantic-comedy-epic, mainly concerned with mud, music and quantum mechanics".[35] It was derived from two Doctor Who serials Adams had written.
 
 A sequel, _The Long Dark Tea-Time of the Soul_, was published a year later. This was an entirely original work, Adams's first since _So Long, and Thanks for All the Fish._ After the book tour, Adams set off on his round-the-world excursion which supplied him with the material for _Last Chance to See_.
 
@@ -135,7 +135,7 @@ Adams and Belson had one daughter together, Polly Jane Rocket Adams, born on 22 
 
 Death and legacy
 
-Grave_of_Douglas_Adams,_Highgate.jpg, North London]]
+, North London]]
 
 Adams died of a heart attack on 11 May 2001, aged 49, after resting from his regular workout at a private gym in Montecito, California.[63] His funeral was held on 16 May in Santa Barbara. His ashes were placed in Highgate Cemetery in north London in June 2002.[64] A memorial service was held on 17 September 2001 at St Martin-in-the-Fields church, Trafalgar Square, London. This became the first church service broadcast live on the web by the BBC.[65]
 

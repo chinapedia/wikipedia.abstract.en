@@ -1,4 +1,4 @@
-Essais_Titelblatt_(1588).png]] An ESSAY is, generally, a piece of writing that gives the author's own argument — but the definition is vague, overlapping with those of a paper, an article, a pamphlet, and a short story. Essays have traditionally been sub-classified as formal and informal. Formal essays are characterized by "serious purpose, dignity, logical organization, length," whereas the informal essay is characterized by "the personal element (self-revelation, individual tastes and experiences, confidential manner), humor, graceful style, rambling structure, unconventionality or novelty of theme," etc.[1]
+]] An ESSAY is, generally, a piece of writing that gives the author's own argument — but the definition is vague, overlapping with those of a paper, an article, a pamphlet, and a short story. Essays have traditionally been sub-classified as formal and informal. Formal essays are characterized by "serious purpose, dignity, logical organization, length," whereas the informal essay is characterized by "the personal element (self-revelation, individual tastes and experiences, confidential manner), humor, graceful style, rambling structure, unconventionality or novelty of theme," etc.[1]
 
 Essays are commonly used as literary criticism, political manifestos, learned arguments, observations of daily life, recollections, and reflections of the author. Almost all modern essays are written in prose, but works in verse have been dubbed essays (e.g., Alexander Pope's _An Essay on Criticism_ and _An Essay on Man_). While brevity usually defines an essay, voluminous works like John Locke's _An Essay Concerning Human Understanding_ and Thomas Malthus's _An Essay on the Principle of Population_ are counterexamples.
 
@@ -9,7 +9,7 @@ The concept of an "essay" has been extended to other media beyond writing. A fil
 
 Definitions
 
-Locke_Essay_1690.jpg's 1690 _An Essay Concerning Human Understanding_.]] An essay has been defined in a variety of ways. One definition is a "prose composition with a focused subject of discussion" or a "long, systematic discourse".[2] It is difficult to define the genre into which essays fall. Aldous Huxley, a leading essayist, gives guidance on the subject.[3] He notes that "the essay is a literary device for saying almost everything about almost anything", and adds that "by tradition, almost by definition, the essay is a short piece". Furthermore, Huxley argues that "essays belong to a literary species whose extreme variability can be studied most effectively within a three-poled frame of reference". These three poles (or worlds in which the essay may exist) are:
+'s 1690 _An Essay Concerning Human Understanding_.]] An essay has been defined in a variety of ways. One definition is a "prose composition with a focused subject of discussion" or a "long, systematic discourse".[2] It is difficult to define the genre into which essays fall. Aldous Huxley, a leading essayist, gives guidance on the subject.[3] He notes that "the essay is a literary device for saying almost everything about almost anything", and adds that "by tradition, almost by definition, the essay is a short piece". Furthermore, Huxley argues that "essays belong to a literary species whose extreme variability can be studied most effectively within a three-poled frame of reference". These three poles (or worlds in which the essay may exist) are:
 
 -   The personal and the autobiographical: The essayists that feel most comfortable in this pole "write fragments of reflective autobiography and look at the world through the keyhole of anecdote and description".
 -   The objective, the factual, and the concrete particular: The essayists that write from this pole "do not speak directly of themselves, but turn their attention outward to some literary or scientific or political theme. Their art consists of setting forth, passing judgment upon, and drawing general conclusions from the relevant data".
@@ -61,7 +61,7 @@ In the dialectic form of the essay, which is commonly used in philosophy, the wr
 
 Exemplification
 
-An exemplification essay is characterized by a generalization and relevant, representative, and believable examples including anecdotes. Writers need to consider their subject, determine their purpose, consider their audience, decide on specific examples, and arrange all the parts together when writing an exemplification essay.[14] An_Essay_on_the_Principle_of_Population.jpg _Essay on the Principle of Population_]]
+An exemplification essay is characterized by a generalization and relevant, representative, and believable examples including anecdotes. Writers need to consider their subject, determine their purpose, consider their audience, decide on specific examples, and arrange all the parts together when writing an exemplification essay.[14] _Essay on the Principle of Population_]]
 
 Familiar
 
@@ -98,7 +98,7 @@ The logical progression and organizational structure of an essay can take many f
 
 Academic
 
-Czythumbur.jpgs, like these students doing research at a university library, are often assigned essays as a way to get them to analyze what they have read.]] In countries like the United States and the United Kingdom, essays have become a major part of a formal education in the form of free response questions. Secondary students in these countries are taught structured essay formats to improve their writing skills, and essays are often used by universities in these countries in selecting applicants (_see_ admissions essay). In both secondary and tertiary education, essays are used to judge the mastery and comprehension of the material. Students are asked to explain, comment on, or assess a topic of study in the form of an essay. In some courses, university students must complete one or more essays over several weeks or months. In addition, in fields such as the humanities and social sciences, mid-term and end of term examinations often require students to write a short essay in two or three hours.
+s, like these students doing research at a university library, are often assigned essays as a way to get them to analyze what they have read.]] In countries like the United States and the United Kingdom, essays have become a major part of a formal education in the form of free response questions. Secondary students in these countries are taught structured essay formats to improve their writing skills, and essays are often used by universities in these countries in selecting applicants (_see_ admissions essay). In both secondary and tertiary education, essays are used to judge the mastery and comprehension of the material. Students are asked to explain, comment on, or assess a topic of study in the form of an essay. In some courses, university students must complete one or more essays over several weeks or months. In addition, in fields such as the humanities and social sciences, mid-term and end of term examinations often require students to write a short essay in two or three hours.
 
 In these countries, so-called academic essays also called _papers_, are usually more formal than literary ones. They may still allow the presentation of the writer's own views, but this is done in a logical and factual manner, with the use of the first person often discouraged. Longer academic essays (often with a word limit of between 2,000 and 5,000 words) are often more discursive. They sometimes begin with a short summary analysis of what has previously been written on a topic, which is often called a literature review.
 
@@ -109,7 +109,7 @@ One of the challenges facing universities is that in some cases, students may su
 
 Magazine or newspaper
 
-Essays often appear in magazines, especially magazines with an intellectual bent, such as _The Atlantic_ and _Harpers_. Magazine and newspaper essays use many of the essay types described in the section on forms and styles (e.g., descriptive essays, narrative essays, etc.). Some newspapers also print essays in the op-ed section. Harper's_February_(1897).jpg'', a US magazine that prints a number of essays per issue.]]
+Essays often appear in magazines, especially magazines with an intellectual bent, such as _The Atlantic_ and _Harpers_. Magazine and newspaper essays use many of the essay types described in the section on forms and styles (e.g., descriptive essays, narrative essays, etc.). Some newspapers also print essays in the op-ed section. '', a US magazine that prints a number of essays per issue.]]
 
 
 Employment
@@ -137,7 +137,7 @@ In the realm of music, composer Samuel Barber wrote a set of "Essays for Orchest
 
 Photography
 
-Huahine,_French_Polynesia,_Image_-_Scott_Williams.jpg.]]
+.]]
 
 A photographic essay strives to cover a topic with a linked series of photographs. Photo essays range from purely photographic works to photographs with captions or small notes to full-text essays with a few or many accompanying photographs. Photo essays can be sequential in nature, intended to be viewed in a particular order — or they may consist of non-ordered photographs viewed all at once or in an order that the viewer chooses. All photo essays are collections of photographs, but not all collections of photographs are photo essays. Photo essays often address a certain issue or attempt to capture the character of places and events.
 

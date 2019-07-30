@@ -1,4 +1,4 @@
-Map_of_Addis_Ababa-Djibouti_Railway.png line.]] TRANSPORT IN DJIBOUTI includes highways, airports, railways and seaports.
+line.]] TRANSPORT IN DJIBOUTI includes highways, airports, railways and seaports.
 
 
 Railways
@@ -10,7 +10,7 @@ Currently (2018), Djibouti has 93 km of railways. The new Addis Ababa-Djibouti R
 
 Roads
 
-Djibouti_National_Highway.png The Djiboutian highway system is named according to the road classification. Roads that are considered primary roads are those that are fully asphalted (throughout their entire length) and in general they connect all the major towns in Djibouti. There is a total of of roads, with paved and unpaved, according to a 2000 estimate.
+The Djiboutian highway system is named according to the road classification. Roads that are considered primary roads are those that are fully asphalted (throughout their entire length) and in general they connect all the major towns in Djibouti. There is a total of of roads, with paved and unpaved, according to a 2000 estimate.
 
 +-------+---------------+--------------------+--------------------------+-----------+
 | Title | Start point   | Intermediate point | End point                | Road type |
@@ -29,7 +29,7 @@ Djibouti_National_Highway.png The Djiboutian highway system is named according t
 
 Ports and harbors
 
-Ethiopian_cargo_ship_at_Port_of_Djibouti.jpg.]] Djibouti has an improved natural harbor that consists of a roadstead, outer harbor, and inner harbor, known as the Port of Djibouti. The roadstead is well protected by reefs and by the configuration of the land. 95% of Ethiopia’s imports and exports move through Djiboutian ports. Car ferries pass the Gulf of Tadjoura from Djibouti City to Tadjoura.
+.]] Djibouti has an improved natural harbor that consists of a roadstead, outer harbor, and inner harbor, known as the Port of Djibouti. The roadstead is well protected by reefs and by the configuration of the land. 95% of Ethiopia’s imports and exports move through Djiboutian ports. Car ferries pass the Gulf of Tadjoura from Djibouti City to Tadjoura.
 
 For decades, the Port of Djibouti was Djibouti's only freight port. It is now in the process of being replaced by the Port of Doraleh west of Djibouti City. In addition to the Port of Doraleh, which handles general cargo and oil imports, Djibouti currently (2018) has three other major ports for the import and export of bulk goods and livestock, the Port of Tadjourah (potash), the Damerjog Port (livestock) and the Port of Goubet (salt).
 
@@ -41,7 +41,7 @@ Djibouti had one ship of over 1,000 GT: 1,369 GT/ according to a 1999 estimate.
 
 Airports
 
-Djibintairp.jpg aircraft and ferrying bus on the Djibouti–Ambouli International Airport runway.]] In 2004, there were an estimated 13 airports, only 3 of which had paved runways as of 2005. Djibouti–Ambouli International Airport, which is situated about 6 km from the city of Djibouti, is the country's international air terminal. There are also local airports at Tadjoura and Obock. Beginning in 1963, the state-owned Air Djibouti also provided domestic service to various domestic centers and flew to many overseas destinations. The national carrier discontinued operations in 2002. Daallo Airlines, a Somali-owned private carrier, has also offered air transportation since its foundation in 1991. With its hub at the Djibouti–Ambouli International Airport, the airline provides flights to a number of domestic and overseas destinations.
+aircraft and ferrying bus on the Djibouti–Ambouli International Airport runway.]] In 2004, there were an estimated 13 airports, only 3 of which had paved runways as of 2005. Djibouti–Ambouli International Airport, which is situated about 6 km from the city of Djibouti, is the country's international air terminal. There are also local airports at Tadjoura and Obock. Beginning in 1963, the state-owned Air Djibouti also provided domestic service to various domestic centers and flew to many overseas destinations. The national carrier discontinued operations in 2002. Daallo Airlines, a Somali-owned private carrier, has also offered air transportation since its foundation in 1991. With its hub at the Djibouti–Ambouli International Airport, the airline provides flights to a number of domestic and overseas destinations.
 
 Airports – with paved runways
 

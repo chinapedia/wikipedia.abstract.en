@@ -9,7 +9,7 @@ The Council of Nicaea (325), "passed twenty disciplinary canons for the better g
 
 Biography
 
-2896_-_Catania_-_Cattedrale_-_G._Nicoli_-_S._Atanasio,_nella_''Floretta''_(giardino)_-_Foto_Giovanni_Dall'Orto,_4-July-2008.jpg, Sicily.|alt=]]
+, Sicily.|alt=]]
 
 Athanasius was born to a Christian family in the city of Alexandria[5] or possibly the nearby Nile Delta town of Damanhur sometime between the years 293 and 298. The earlier date is sometimes assigned due to the maturity revealed in his two earliest treatises _Contra Gentes_ (_Against the Heathens_) and _De Incarnatione_ (_On the Incarnation_), which were admittedly written about the year 318 before Arianism had begun to make itself felt, as those writings do not show an awareness of Arianism.[6]
 
@@ -27,7 +27,7 @@ Peter of Alexandria, the 17th archbishop of Alexandria, was martyred in 311 in t
 
 Athanasius' earliest work, _Against the Heathen – On the Incarnation_ (written before 319), bears traces of Origenist Alexandrian thought (such as repeatedly quoting Plato and using a definition from Aristotle's _Organon_) but in an orthodox way. Athanasius was also familiar with the theories of various philosophical schools, and in particular with the developments of Neo-Platonism. Ultimately, Athanasius would modify the philosophical thought of the School of Alexandria away from the Origenist principles such as the "entirely allegorical interpretation of the text". Still, in later works, Athanasius quotes Homer more than once (_Hist. Ar. 68, Orat. iv. 29_). In his letter to Emperor Constantius, he presents a defense of himself bearing unmistakable traces of a study of Demosthenes _de Corona_.
 
-Athanasius_Frederikskirken.JPG, Frederik's Church, Copenhagen, Denmark.|alt=]] Athanasius knew Greek and admitted not knowing Hebrew [see, e.g., the 39th Festal Letter of St. Athan.]. The Old Testament passages he quotes frequently come from the Septuagint Greek translation. Only rarely did he use other Greek versions (to Aquila once in the _Ecthesis_, to other versions once or twice on the Psalms), and his knowledge of the Old Testament was limited to the Septuagint.[18] The combination of Scriptural study and of Greek learning was characteristic of the famous Alexandrian School.
+, Frederik's Church, Copenhagen, Denmark.|alt=]] Athanasius knew Greek and admitted not knowing Hebrew [see, e.g., the 39th Festal Letter of St. Athan.]. The Old Testament passages he quotes frequently come from the Septuagint Greek translation. Only rarely did he use other Greek versions (to Aquila once in the _Ecthesis_, to other versions once or twice on the Psalms), and his knowledge of the Old Testament was limited to the Septuagint.[18] The combination of Scriptural study and of Greek learning was characteristic of the famous Alexandrian School.
 
 Bishop (or Patriarch, the highest ecclesial rank in the Centre of the Church, in Alexandria) Alexander ordained Athanasius a deacon in 319.[19] In 325, Athanasius served as Alexander's secretary at the First Council of Nicaea. Already a recognized theologian and ascetic, he was the obvious choice to replace his aging mentor Alexander as the Patriarch of Alexandria,[20] despite the opposition of the followers of Arius and Meletius of Lycopolis.[21]
 
@@ -59,7 +59,7 @@ When Athanasius reached his destination in exile in 336, Maximinus of Trier rece
 
 Second exile
 
-Hosios_Loukas_Crypt_(south_east_groin-vault)_-_Athanasios.jpg, Greece (11th century)|alt=]] Athanasius_of_Alexandria.jpg in Evanston, Illinois|alt=]]
+, Greece (11th century)|alt=]] in Evanston, Illinois|alt=]]
 
 When Emperor Constantine I died, Athanasius was allowed to return to his See of Alexandria. Shortly thereafter, however, Constantine's son, the new Roman Emperor Constantius II, renewed the order for Athanasius's banishment in 338. 'Within a few weeks he set out for Rome to lay his case before the Church at large. He had made his appeal to Pope Julius, who took up his cause with whole-heartedness that never wavered down to the day of that holy pontiff's death. The pope summoned a synod of bishops to meet in Rome. After a careful and detailed examination of the entire case, the primate's innocence was proclaimed to the Christian world.' [42]. During this time, Gregory of Cappadocia was installed as the Patriarch of Alexandria, usurping the absent Athanasius. Athanasius did, however, remain in contact with his people through his annual _Festal Letters_, in which he also announced on which date Easter would be celebrated that year.[43]
 
@@ -81,7 +81,7 @@ Three hundred bishops assembled in Milan, most from the West, only a few from th
 
 Third exile
 
-Saint_Athanasius.jpg manuscripts.|alt=]] Through the influence of the Eusebian faction at Constantinople, an Arian bishop, George of Cappadocia, was now appointed to rule the see of Alexandria. Athanasius, after remaining some days in the neighbourhood of the city, finally withdrew into the desert of Upper Egypt, where he remained for a period of six years, living the life of the monks, devoting himself to the composition of a group of writings; "Apology to Constantius", the "Apology for his Flight", the "Letter to the Monks", and the "History of the Arians".[57]
+manuscripts.|alt=]] Through the influence of the Eusebian faction at Constantinople, an Arian bishop, George of Cappadocia, was now appointed to rule the see of Alexandria. Athanasius, after remaining some days in the neighbourhood of the city, finally withdrew into the desert of Upper Egypt, where he remained for a period of six years, living the life of the monks, devoting himself to the composition of a group of writings; "Apology to Constantius", the "Apology for his Flight", the "Letter to the Monks", and the "History of the Arians".[57]
 
 Constantius, renewing his previous policies favoring the Arians, banished Athanasius from Alexandria once again. This was followed, in 356, by an attempt to arrest Athanasius during a vigil service.[58] Athanasius fled to Upper Egypt, where he stayed in several monasteries and other houses. During this period, Athanasius completed his work _Four Orations against the Arians_ and defended his own recent conduct in the _Apology to Constantius_ and _Apology for His Flight_. Constantius' persistence in his opposition to Athanasius, combined with reports Athanasius received about the persecution of non-Arians by the new Arian bishop George of Laodicea, prompted Athanasius to write his more emotional _History of the Arians_, in which he described Constantius as a precursor of the Antichrist.[59]
 
@@ -195,7 +195,7 @@ Alban Butler, writes on the subject: "Five months after this great Council, Nica
 
 Supporters
 
-Athanasius_and_Cyril.jpg. 17th century depiction.]]
+. 17th century depiction.]]
 
 Christian denominations worldwide revere Athanasius as a saint, teacher, and father. They cite his defense of the Christology described in the first chapter of the Gospel of St. John and his significant theological works (C. S. Lewis calls _On the Incarnation of the Word of God_ a "masterpiece")[106] as evidence of his righteousness. They also emphasize his close relationship with Anthony the Great, the ancient monk who was one of the founders of the Christian monastic movement.
 

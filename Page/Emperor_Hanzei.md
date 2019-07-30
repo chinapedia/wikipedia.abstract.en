@@ -15,8 +15,6 @@ The _Nihongi_ records that the country enjoyed peace during this Emperor's reign
 
 The description of Hanzei in the _Kojiki_ is daunting as he is described as standing over nine feet tall and have enormous teeth all the same size. He is said to have ruled from the palace of Shibagaki at Tajihi in Kawachi (present-day Matsubara, Osaka); and he is said to have died peacefully in his palace.[10]
 
-Hanzei_misasagi_Sakai_Osaka.jpg
-
 The actual site of Hanzei's grave is not known.[11] The Emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) in Sakai, Osaka.
 
 The Imperial Household Agency designates the in Sakai as Hanzei's official mausoleum. It is formally named .[12]
@@ -43,7 +41,7 @@ See also
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

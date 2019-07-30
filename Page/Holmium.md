@@ -11,7 +11,7 @@ Characteristics
 
 Physical properties
 
-Holmium(III)_oxide.jpg fluorescent lamp]] Holmium is a relatively soft and malleable element that is fairly corrosion-resistant and stable in dry air at standard temperature and pressure. In moist air and at higher temperatures, however, it quickly oxidizes, forming a yellowish oxide. In pure form, holmium possesses a metallic, bright silvery luster.
+fluorescent lamp]] Holmium is a relatively soft and malleable element that is fairly corrosion-resistant and stable in dry air at standard temperature and pressure. In moist air and at higher temperatures, however, it quickly oxidizes, forming a yellowish oxide. In pure form, holmium possesses a metallic, bright silvery luster.
 
 Holmium oxide has some fairly dramatic color changes depending on the lighting conditions. In daylight, it has a tannish yellow color. Under trichromatic light, it is fiery orange-red, almost indistinguishable from the appearance of erbium oxide under the same lighting conditions. The perceived color change is related to the sharp absorption bands of holmium interacting with a subset of the sharp emission bands of the trivalent ions of europium and terbium, acting as phosphors.[1]
 
@@ -54,7 +54,7 @@ Using the method developed by Carl Gustaf Mosander, Cleve first removed all of t
 
 Occurrence and production
 
-Gadolinitas.jpg ]] Like all other rare earths, holmium is not naturally found as a free element. It does occur combined with other elements in gadolinite (the black part of the specimen illustrated to the right), monazite and other rare-earth minerals. No holmium-dominant mineral has yet been found.[12] The main mining areas are China, United States, Brazil, India, Sri Lanka, and Australia with reserves of holmium estimated as 400,000 tonnes.[13]
+]] Like all other rare earths, holmium is not naturally found as a free element. It does occur combined with other elements in gadolinite (the black part of the specimen illustrated to the right), monazite and other rare-earth minerals. No holmium-dominant mineral has yet been found.[12] The main mining areas are China, United States, Brazil, India, Sri Lanka, and Australia with reserves of holmium estimated as 400,000 tonnes.[13]
 
 Holmium makes up 1.4 parts per million of the Earth's crust by mass. This makes it the 56th most abundant element in the Earth's crust. Holmium makes up 1 part per million of the soils, 400 parts per quadrillion of seawater, and almost none of Earth's atmosphere. Holmium is rare for a lanthanide.[14] It makes up 500 parts per trillion of the universe by mass.[15]
 
@@ -63,7 +63,7 @@ It is commercially extracted by ion exchange from monazite sand (0.05% holmium),
 
 Applications
 
-HoOxideSolution.jpg Holmium has the highest magnetic strength of any element, and therefore is used to create the strongest artificially generated magnetic fields, when placed within high-strength magnets as a magnetic pole piece (also called a magnetic flux concentrator).[19] Since it can absorb nuclear fission-bred neutrons, it is also used as a burnable poison to regulate nuclear reactors.[20]
+Holmium has the highest magnetic strength of any element, and therefore is used to create the strongest artificially generated magnetic fields, when placed within high-strength magnets as a magnetic pole piece (also called a magnetic flux concentrator).[19] Since it can absorb nuclear fission-bred neutrons, it is also used as a burnable poison to regulate nuclear reactors.[20]
 
 Holmium-doped yttrium iron garnet (YIG) and yttrium lithium fluoride (YLF) have applications in solid-state lasers, and Ho-YIG has applications in optical isolators and in microwave equipment (e.g., YIG spheres). Holmium lasers emit at 2.1 micrometres.[21] They are used in medical, dental, and fiber-optical applications.[22]
 

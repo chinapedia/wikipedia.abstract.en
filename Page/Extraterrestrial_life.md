@@ -57,8 +57,6 @@ Carl Sagan and others in the 1960s and 1970s computed conditions for hypothetica
 
 Europa
 
-PIA01130_Interior_of_Europa.jpg
-
 Jupiter's moon Europa has been subject to speculation about the existence of life due to the strong possibility of a liquid water ocean beneath its ice surface.[93][94] Hydrothermal vents on the bottom of the ocean, if they exist, may warm the water and could be capable of supporting nutrients and energy to microorganisms.[95] It is also possible that Europa could support aerobic macrofauna using oxygen created by cosmic rays impacting its surface ice.[96]
 
 The case for life on Europa was greatly enhanced in 2011 when it was discovered that vast lakes exist within Europa's thick, icy shell. Scientists found that ice shelves surrounding the lakes appear to be collapsing into them, thereby providing a mechanism through which life-forming chemicals created in sunlit areas on Europa's surface could be transferred to its interior.[97][98]
@@ -94,11 +92,11 @@ The scientific search for extraterrestrial life is being carried out both direct
 
 Direct search
 
-NASA-WhatBiosignaturesDoesLifeProduce-20180625.jpg |last1=Cofield |first1=Calla |last2=Chou |first2=Felicia |date=25 June 2018 |accessdate=26 June 2018}}[125]]]
+|last1=Cofield |first1=Calla |last2=Chou |first2=Felicia |date=25 June 2018 |accessdate=26 June 2018}}[125]]]
 
 Scientists search for biosignatures within the Solar System by studying planetary surfaces and examining meteorites.[126][127] Some claim to have identified evidence that microbial life has existed on Mars.[128][129][130][131] An experiment on the two Viking Mars landers reported gas emissions from heated Martian soil samples that some scientists argue are consistent with the presence of living microorganisms.[132] Lack of corroborating evidence from other experiments on the same samples suggests that a non-biological reaction is a more likely hypothesis.[133][134][135][136] In 1996, a controversial report stated that structures resembling nanobacteria were discovered in a meteorite, ALH84001, formed of rock ejected from Mars.[137][138]
 
-ALH84001_structures.jpg showing structures that some scientists think could be fossilized bacteria-like life forms.]]
+showing structures that some scientists think could be fossilized bacteria-like life forms.]]
 
 In February 2005, NASA scientists reported that they may have found some evidence of present life on Mars.[139] The two scientists, Carol Stoker and Larry Lemke of NASA's Ames Research Center, based their claim on methane signatures found in Mars's atmosphere resembling the methane production of some forms of primitive life on Earth, as well as on their own study of primitive life near the Rio Tinto river in Spain. NASA officials soon distanced NASA from the scientists' claims, and Stoker herself backed off from her initial assertions.[140] Though such methane findings are still debated, support among some scientists for the existence of life on Mars exists.[141]
 
@@ -118,7 +116,7 @@ The presence of heavy elements in a star's light-spectrum is another potential b
 
 Extrasolar planets
 
-Glieseupdated.jpg, the first terrestrial extrasolar planet discovered within its star's habitable zone.]] NASA-KeplerSpaceTelescope-ArtistConcept-20141027.jpg in space.]]
+, the first terrestrial extrasolar planet discovered within its star's habitable zone.]] in space.]]
 
 Some astronomers search for extrasolar planets that may be conducive to life, narrowing the search to terrestrial planets within the habitable zone of their star.[161][162] Since 1992 over two thousand exoplanets have been discovered ( planets in planetary systems including multiple planetary systems as of ).[163] The extrasolar planets so far discovered range in size from that of terrestrial planets similar to Earth's size to that of gas giants larger than Jupiter.[164] The number of observed exoplanets is expected to increase greatly in the coming years.[165]
 
@@ -173,7 +171,7 @@ Cultural impact
 
 Cosmic pluralism
 
-Shri_Simandhar_Swami.jpg, an enlightened man in Jain mythology who is believed to be residing on another planet.]] Cosmic pluralism, the plurality of worlds, or simply pluralism, describes the philosophical belief in numerous "worlds" in addition to Earth, which might harbor extraterrestrial life. Before the development of the heliocentric theory and a recognition that the Sun is just one of many stars,[198] the notion of pluralism was largely mythological and philosophical. The earliest recorded assertion of extraterrestrial human life is found in ancient scriptures of Jainism. There are multiple "worlds" mentioned in Jain scriptures, that support human life. These include _Bharat Kshetra_, _Mahavideh Kshetra_, _Airavat Kshetra_, _Hari kshetra_,etc.[199][200][201][202] Medieval Muslim writers like Fakhr al-Din al-Razi and Muhammad al-Baqir supported cosmic pluralism on the basis of the Qur'an.[203]
+, an enlightened man in Jain mythology who is believed to be residing on another planet.]] Cosmic pluralism, the plurality of worlds, or simply pluralism, describes the philosophical belief in numerous "worlds" in addition to Earth, which might harbor extraterrestrial life. Before the development of the heliocentric theory and a recognition that the Sun is just one of many stars,[198] the notion of pluralism was largely mythological and philosophical. The earliest recorded assertion of extraterrestrial human life is found in ancient scriptures of Jainism. There are multiple "worlds" mentioned in Jain scriptures, that support human life. These include _Bharat Kshetra_, _Mahavideh Kshetra_, _Airavat Kshetra_, _Hari kshetra_,etc.[199][200][201][202] Medieval Muslim writers like Fakhr al-Din al-Razi and Muhammad al-Baqir supported cosmic pluralism on the basis of the Qur'an.[203]
 
 With the scientific and Copernican revolutions, and later, during the Enlightenment, cosmic pluralism became a mainstream notion, supported by the likes of Bernard le Bovier de Fontenelle in his 1686 work _Entretiens sur la pluralité des mondes_.[204] Pluralism was also championed by philosophers such as John Locke, Giordano Bruno and astronomers such as William Herschel. The astronomer Camille Flammarion promoted the notion of cosmic pluralism in his 1862 book _La pluralité des mondes habités_.[205] None of these notions of pluralism were based on any specific observation or scientific information.
 
@@ -189,8 +187,6 @@ The possibility of extraterrestrials remained a widespread speculation as scient
 
 19th century
 
-Lowell_Mars_channels.jpg
-
 Speculation about life on Mars increased in the late 19th century, following telescopic observation of apparent Martian canals—which soon, however, turned out to be optical illusions.[208] Despite this, in 1895, American astronomer Percival Lowell published his book _Mars,_ followed by _Mars and its Canals_ in 1906, proposing that the canals were the work of a long-gone civilization.[209] The idea of life on Mars led British writer H. G. Wells to write the novel _The War of the Worlds_ in 1897, telling of an invasion by aliens from Mars who were fleeing the planet's desiccation.
 
 Spectroscopic analysis of Mars's atmosphere began in earnest in 1894, when U.S. astronomer William Wallace Campbell showed that neither water nor oxygen was present in the Martian atmosphere.[210] By 1909 better telescopes and the best perihelic opposition of Mars since 1877 conclusively put an end to the canal hypothesis.
@@ -199,7 +195,7 @@ The science fiction genre, although not so named during the time, developed duri
 
 20th century
 
-Arecibo_message.svg is a digital message sent to Messier 13, and is a well-known symbol of human attempts to contact extraterrestrials.]]
+is a digital message sent to Messier 13, and is a well-known symbol of human attempts to contact extraterrestrials.]]
 
 Most unidentified flying objects or UFO sightings[211] can be readily explained as sightings of Earth-based aircraft, known astronomical objects, or as hoaxes.[212] Nonetheless, a certain fraction of the public believe that UFOs might actually be of extraterrestrial origin, and, indeed, the notion has had influence on popular culture.
 

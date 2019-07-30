@@ -52,7 +52,7 @@ The historical roots of Jainism in India date back to the 9th-century BCE with t
 
 Middle Ages
 
-Medieval-World-Religions.png World religions of the present day established themselves throughout Eurasia during the Middle Ages by:
+World religions of the present day established themselves throughout Eurasia during the Middle Ages by:
 
 -   Christianization of the Western world
 -   Buddhist missions to East Asia

@@ -11,7 +11,7 @@ Uses
 
 Medical
 
-Cocaine_hydrochloride_CII_for_medicinal_use.jpg Topical cocaine can be used as a local numbing agent to help with painful procedures in the mouth or nose.[30]
+Topical cocaine can be used as a local numbing agent to help with painful procedures in the mouth or nose.[30]
 
 Cocaine is now predominantly used for nasal and lacrimal duct surgery. The major disadvantages of this use are cocaine's potential for cardiovascular toxicity, glaucoma, and pupil dilation.[31] Medicinal use of cocaine has decreased as other synthetic local anesthetics such as benzocaine, proparacaine, lidocaine, and tetracaine are now used more often.[32] If vasoconstriction is desired for a procedure (as it reduces bleeding), the anesthetic is combined with a vasoconstrictor such as phenylephrine or epinephrine. Some ENT specialists occasionally use cocaine within the practice when performing procedures such as nasal cauterization. In this scenario dissolved cocaine is soaked into a ball of cotton wool, which is placed in the nostril for the 10–15 minutes immediately before the procedure, thus performing the dual role of both numbing the area to be cauterized, and vasoconstriction. Even when used this way, some of the used cocaine may be absorbed through oral or nasal mucosa and give systemic effects. An alternative method of administration for ENT surgery is mixed with adrenaline and sodium bicarbonate, as Moffett's solution.
 
@@ -37,7 +37,7 @@ In 1986 an article in the _Journal of the American Medical Association_ revealed
 
 Insufflation
 
-Cocaine_lines_2.jpg Nasal insufflation (known colloquially as "snorting", "sniffing", or "blowing") is a common method of ingestion of recreational powdered cocaine.[43] The drug coats and is absorbed through the mucous membranes lining the nasal passages. Cocaine's desired euphoric effects are delayed when snorted through the nose by about five minutes. This occurs because cocaine's absorption is slowed by its constricting effect on the blood vessels of the nose.[44] Insufflation of cocaine also leads to the longest duration of its effects (60–90 minutes).[45] When insufflating cocaine, absorption through the nasal membranes is approximately 30–60%, with higher doses leading to increased absorption efficiency. Any material not directly absorbed through the mucous membranes is collected in mucus and swallowed (this "drip" is considered pleasant by some and unpleasant by others).
+Nasal insufflation (known colloquially as "snorting", "sniffing", or "blowing") is a common method of ingestion of recreational powdered cocaine.[43] The drug coats and is absorbed through the mucous membranes lining the nasal passages. Cocaine's desired euphoric effects are delayed when snorted through the nose by about five minutes. This occurs because cocaine's absorption is slowed by its constricting effect on the blood vessels of the nose.[44] Insufflation of cocaine also leads to the longest duration of its effects (60–90 minutes).[45] When insufflating cocaine, absorption through the nasal membranes is approximately 30–60%, with higher doses leading to increased absorption efficiency. Any material not directly absorbed through the mucous membranes is collected in mucus and swallowed (this "drip" is considered pleasant by some and unpleasant by others).
 
 In a study of cocaine users, the average time taken to reach peak subjective effects was 14.6 minutes.[46] Any damage to the inside of the nose is because cocaine highly constricts blood vessels – and therefore blood and oxygen/nutrient flow – to that area. Nosebleeds after cocaine insufflation are due to irritation and damage of mucus membranes by foreign particles and adulterants and not the cocaine itself; as a vasoconstrictor, cocaine acts to reduce bleeding.
 
@@ -71,8 +71,6 @@ Anxiety, paranoia, and restlessness can also occur, especially during the comedo
 File:US timeline. Cocaine deaths.jpg|Timeline of number of yearly U.S. overdose deaths involving cocaine.[64] File:US timeline. Opioid involvement in cocaine overdose.jpg|Opioid involvement in cocaine overdose deaths. Green line is cocaine and any opioid. Gray line is cocaine without any opioids. Yellow line is cocaine and other synthetic opioids.[65] File:Rational harm assessment of drugs radar plot.svg|Delphic analysis regarding 20 popular recreational drugs based on expert opinion. Cocaine was ranked the 2nd in dependence and physical harm and 3rd in social harm.[66]
 
 Chronic
-
-Side_effects_of_chronic_use_of_Cocaine.png
 
 Chronic cocaine intake causes strong imbalances of transmitter levels in order to compensate extremes. Thus, receptors disappear from the cell surface or reappear on it, resulting more or less in an "off" or "working mode" respectively, or they change their susceptibility for binding partners (ligands)mechanisms called downregulation and upregulation. However, studies suggest cocaine abusers do not show normal age-related loss of striatal dopamine transporter (DAT) sites, suggesting cocaine has neuroprotective properties for dopamine neurons.[67] Possible side effects include insatiable hunger, aches, insomnia/oversleeping, lethargy, and persistent runny nose. Depression with suicidal ideation may develop in very heavy users. Finally, a loss of vesicular monoamine transporters, neurofilament proteins, and other morphological changes appear to indicate a long term damage of dopamine neurons. All these effects contribute a rise in tolerance thus requiring a larger dosage to achieve the same effect.[68] The lack of normal amounts of serotonin and dopamine in the brain is the cause of the dysphoria and depression felt after the initial high. Physical withdrawal is not dangerous. Physiological changes caused by cocaine withdrawal include vivid and unpleasant dreams, insomnia or hypersomnia, increased appetite and psychomotor retardation or agitation.[69]
 
@@ -128,8 +126,6 @@ Chemistry
 
 Appearance
 
-CocaineHydrochloridePowder_cropped.jpg CocaineHCl.jpg
-
 Cocaine in its purest form is a white, pearly product. Cocaine appearing in powder form is a salt, typically cocaine hydrochloride. Street cocaine is often adulterated or "cut" with talc, lactose, sucrose, glucose, mannitol, inositol, caffeine, procaine, phencyclidine, phenytoin, lignocaine, strychnine, amphetamine, or heroin.[110]
 
 The color of "crack" cocaine depends upon several factors including the origin of the cocaine used, the method of preparation – with ammonia or baking soda – and the presence of impurities. It will generally range from white to a yellowish cream to a light brown. Its texture will also depend on the adulterants, origin and processing of the powdered cocaine, and the method of converting the base. It ranges from a crumbly texture, sometimes extremely oily, to a hard, almost crystalline nature.
@@ -150,7 +146,7 @@ Pure cocaine is prepared by neutralizing its compounding salt with an alkaline s
 
 Crack cocaine
 
-Smoking_Crack.jpg Rocks_of_crack_cocaine.jpg Crack is a lower purity form of free-base cocaine that is usually produced by neutralization of cocaine hydrochloride with a solution of baking soda (sodium bicarbonate, NaHCO₃) and water, producing a very hard/brittle, off-white-to-brown colored, amorphous material that contains sodium carbonate, entrapped water, and other by-products as the main impurities.
+Crack is a lower purity form of free-base cocaine that is usually produced by neutralization of cocaine hydrochloride with a solution of baking soda (sodium bicarbonate, NaHCO₃) and water, producing a very hard/brittle, off-white-to-brown colored, amorphous material that contains sodium carbonate, entrapped water, and other by-products as the main impurities.
 
 The "freebase" and "crack" forms of cocaine are usually administered by vaporization of the powdered substance into smoke, which is then inhaled.[114]
 
@@ -174,7 +170,7 @@ Importantly, these results also suggest strongly that the primary pharmacologica
 
 Biosynthesis
 
-Biosynthesis_of_N-methyl-pyrrolinium_cation.png Biosynthesis_of_cocaine.png Robinson_biosynthesis_of_tropane.png Reduction_of_tropinone.png The first synthesis and elucidation of the cocaine molecule was by Richard Willstätter in 1898.[120] Willstätter's synthesis derived cocaine from tropinone. Since then, Robert Robinson and Edward Leete have made significant contributions to the mechanism of the synthesis. (-NO₃)
+The first synthesis and elucidation of the cocaine molecule was by Richard Willstätter in 1898.[120] Willstätter's synthesis derived cocaine from tropinone. Since then, Robert Robinson and Edward Leete have made significant contributions to the mechanism of the synthesis. (-NO₃)
 
 The additional carbon atoms required for the synthesis of cocaine are derived from acetyl-CoA, by addition of two acetyl-CoA units to the _N_-methyl-Δ¹-pyrrolinium cation.[121] The first addition is a Mannich-like reaction with the enolate anion from acetyl-CoA acting as a nucleophile towards the pyrrolinium cation. The second addition occurs through a Claisen condensation. This produces a racemic mixture of the 2-substituted pyrrolidine, with the retention of the thioester from the Claisen condensation. In formation of tropinone from racemic ethyl [2,3-13C₂]₄(Nmethyl-2-pyrrolidinyl)-3-oxobutanoate there is no preference for either stereoisomer.[122] In the biosynthesis of cocaine, however, only the (S)-enantiomer can cyclize to form the tropane ring system of cocaine. The stereoselectivity of this reaction was further investigated through study of prochiral methylene hydrogen discrimination.[123] This is due to the extra chiral center at C-2.[124] This process occurs through an oxidation, which regenerates the pyrrolinium cation and formation of an enolate anion, and an intramolecular Mannich reaction. The tropane ring system undergoes hydrolysis, SAM-dependent methylation, and reduction via NADPH for the formation of methylecgonine. The benzoyl moiety required for the formation of the cocaine diester is synthesized from phenylalanine via cinnamic acid.[125] Benzoyl-CoA then combines the two units to form cocaine.
 
@@ -218,7 +214,7 @@ History
 
 Discovery
 
-Folha_de_coca.jpg in Bolivia]] For over a thousand years South American indigenous peoples have chewed the leaves of _Erythroxylon coca_, a plant that contains vital nutrients as well as numerous alkaloids, including cocaine. The coca leaf was, and still is, chewed almost universally by some indigenous communities. The remains of coca leaves have been found with ancient Peruvian mummies, and pottery from the time period depicts humans with bulged cheeks, indicating the presence of something on which they are chewing.[141] There is also evidence that these cultures used a mixture of coca leaves and saliva as an anesthetic for the performance of trepanation.[142]
+in Bolivia]] For over a thousand years South American indigenous peoples have chewed the leaves of _Erythroxylon coca_, a plant that contains vital nutrients as well as numerous alkaloids, including cocaine. The coca leaf was, and still is, chewed almost universally by some indigenous communities. The remains of coca leaves have been found with ancient Peruvian mummies, and pottery from the time period depicts humans with bulged cheeks, indicating the presence of something on which they are chewing.[141] There is also evidence that these cultures used a mixture of coca leaves and saliva as an anesthetic for the performance of trepanation.[142]
 
 When the Spanish arrived in South America, most at first ignored aboriginal claims that the leaf gave them strength and energy, and declared the practice of chewing it the work of the Devil.[143] But after discovering that these claims were true, they legalized and taxed the leaf, taking 10% off the value of each crop.[144] In 1569, Spanish botanist Nicolás Monardes described the indigenous peoples' practice of chewing a mixture of tobacco and coca leaves to induce "great contentment":
 
@@ -238,7 +234,7 @@ The first synthesis and elucidation of the structure of the cocaine molecule was
 
 Medicalization
 
-Cocaine_for_kids.png in children]] Burnett's_Cocaine_for_the_hair_(advertisement,_McClure's_1896).jpg Magazine'' for Burnett's Cocaine "for the hair".]] With the discovery of this new alkaloid, Western medicine was quick to exploit the possible uses of this plant.
+in children]] Magazine'' for Burnett's Cocaine "for the hair".]] With the discovery of this new alkaloid, Western medicine was quick to exploit the possible uses of this plant.
 
 In 1879, Vassili von Anrep, of the University of Würzburg, devised an experiment to demonstrate the analgesic properties of the newly discovered alkaloid. He prepared two separate jars, one containing a cocaine-salt solution, with the other containing merely salt water. He then submerged a frog's legs into the two jars, one leg in the treatment and one in the control solution, and proceeded to stimulate the legs in several different ways. The leg that had been immersed in the cocaine solution reacted very differently from the leg that had been immersed in salt water.[152]
 
@@ -246,7 +242,7 @@ Karl Koller (a close associate of Sigmund Freud, who would write about cocaine l
 
 Popularization
 
-Mariani_pope.jpg purportedly carried a hip flask of the coca-treated Vin Mariani with him, and awarded a Vatican gold medal to Angelo Mariani.[155]]] In 1859, an Italian doctor, Paolo Mantegazza, returned from Peru, where he had witnessed first-hand the use of coca by the local indigenous peoples. He proceeded to experiment on himself and upon his return to Milan he wrote a paper in which he described the effects. In this paper he declared coca and cocaine (at the time they were assumed to be the same) as being useful medicinally, in the treatment of "a furred tongue in the morning, flatulence, and whitening of the teeth."
+purportedly carried a hip flask of the coca-treated Vin Mariani with him, and awarded a Vatican gold medal to Angelo Mariani.[155]]] In 1859, an Italian doctor, Paolo Mantegazza, returned from Peru, where he had witnessed first-hand the use of coca by the local indigenous peoples. He proceeded to experiment on himself and upon his return to Milan he wrote a paper in which he described the effects. In this paper he declared coca and cocaine (at the time they were assumed to be the same) as being useful medicinally, in the treatment of "a furred tongue in the morning, flatulence, and whitening of the teeth."
 
 A chemist named Angelo Mariani who read Mantegazza's paper became immediately intrigued with coca and its economic potential. In 1863, Mariani started marketing a wine called Vin Mariani, which had been treated with coca leaves, to become cocawine. The ethanol in wine acted as a solvent and extracted the cocaine from the coca leaves, altering the drink's effect. It contained 6 mg cocaine per ounce of wine, but Vin Mariani which was to be exported contained 7.2 mg per ounce, to compete with the higher cocaine content of similar drinks in the United States. A "pinch of coca leaves" was included in John Styth Pemberton's original 1886 recipe for Coca-Cola, though the company began using decocainized leaves in 1906 when the Pure Food and Drug Act was passed.
 
@@ -254,7 +250,7 @@ In 1879 cocaine began to be used to treat morphine addiction. Cocaine was introd
 
 In 1885 the U.S. manufacturer Parke-Davis sold cocaine in various forms, including cigarettes, powder, and even a cocaine mixture that could be injected directly into the user's veins with the included needle. The company promised that its cocaine products would "supply the place of food, make the coward brave, the silent eloquent and render the sufferer insensitive to pain."
 
-BEAUTY-COMFORT_By_Madame_Falloppe_(1904).jpg from _the Tacoma Times_, "Madame Falloppe" recommended that cold sores be treated with a solution of borax, cocaine, and morphine.]]
+from _the Tacoma Times_, "Madame Falloppe" recommended that cold sores be treated with a solution of borax, cocaine, and morphine.]]
 
 By the late Victorian era, cocaine use had appeared as a vice in literature. For example, it was injected by Arthur Conan Doyle's fictional Sherlock Holmes, generally to offset the boredom he felt when he was not working on a case.
 
@@ -266,11 +262,9 @@ During the mid-1940s, amidst World War II, cocaine was considered for inclusion 
 
 In modern popular culture references to the drug are prevalent, in it the drug has a glamorous image associated with the rich, famous and powerful with it also making users to "feel rich and beautiful".[160][161][162][163] In addition the pace of modern society − such as in finance − gives many the incentive to make use of the drug.[164]
 
-Bundesarchiv_Bild_102-07741,_Berlin,_"Koks_Emil"_der_Kokain-Verkäufer.jpg
-
 Modern usage
 
-Marion_Barry_smoking_crack.gif captured on a surveillance camera smoking crack cocaine during a sting operation by the FBI and D.C. Police.]] In many countries, cocaine is a popular recreational drug. In the United States, the development of "crack" cocaine introduced the substance to a generally poorer inner-city market. Use of the powder form has stayed relatively constant, experiencing a new height of use during the late 1990s and early 2000s in the U.S., and has become much more popular in the last few years in the UK.
+captured on a surveillance camera smoking crack cocaine during a sting operation by the FBI and D.C. Police.]] In many countries, cocaine is a popular recreational drug. In the United States, the development of "crack" cocaine introduced the substance to a generally poorer inner-city market. Use of the powder form has stayed relatively constant, experiencing a new height of use during the late 1990s and early 2000s in the U.S., and has become much more popular in the last few years in the UK.
 
 Cocaine use is prevalent across all socioeconomic strata, including age, demographics, economic, social, political, religious, and livelihood.
 
@@ -299,11 +293,11 @@ In Western Australia under the Misuse of Drugs Act 1981 4.0g of cocaine is the a
 
 United States
 
-US_timeline._Drugs_involved_in_overdose_deaths.jpgs killed more than 70,200 Americans in 2017, with cocaine overdoses making up 13,942 of those deaths.[175]]] The US federal government instituted a national labeling requirement for cocaine and cocaine-containing products through the Pure Food and Drug Act of 1906.[176] The next important federal regulation was the Harrison Narcotics Tax Act of 1914. While this act is often seen as the start of prohibition, the act itself was not actually a prohibition on cocaine, but instead set up a regulatory and licensing regime.[177] The Harrison Act did not recognize addiction as a treatable condition and therefore the therapeutic use of cocaine, heroin or morphine to such individuals was outlawed leading a 1915 editorial in the journal _American Medicine_ to remark that the addict "is denied the medical care he urgently needs, open, above-board sources from which he formerly obtained his drug supply are closed to him, and he is driven to the underworld where he can get his drug, but of course, surreptitiously and in violation of the law."[178] The Harrison Act left manufacturers of cocaine untouched so long as they met certain purity and labeling standards.[179] Despite that cocaine was typically illegal to sell and legal outlets were rarer, the quantities of legal cocaine produced declined very little.[180] Legal cocaine quantities did not decrease until the Jones–Miller Act of 1922 put serious restrictions on cocaine manufactures.[181]
+s killed more than 70,200 Americans in 2017, with cocaine overdoses making up 13,942 of those deaths.[175]]] The US federal government instituted a national labeling requirement for cocaine and cocaine-containing products through the Pure Food and Drug Act of 1906.[176] The next important federal regulation was the Harrison Narcotics Tax Act of 1914. While this act is often seen as the start of prohibition, the act itself was not actually a prohibition on cocaine, but instead set up a regulatory and licensing regime.[177] The Harrison Act did not recognize addiction as a treatable condition and therefore the therapeutic use of cocaine, heroin or morphine to such individuals was outlawed leading a 1915 editorial in the journal _American Medicine_ to remark that the addict "is denied the medical care he urgently needs, open, above-board sources from which he formerly obtained his drug supply are closed to him, and he is driven to the underworld where he can get his drug, but of course, surreptitiously and in violation of the law."[178] The Harrison Act left manufacturers of cocaine untouched so long as they met certain purity and labeling standards.[179] Despite that cocaine was typically illegal to sell and legal outlets were rarer, the quantities of legal cocaine produced declined very little.[180] Legal cocaine quantities did not decrease until the Jones–Miller Act of 1922 put serious restrictions on cocaine manufactures.[181]
 
 Interdiction
 
-PHL_Cocaine596H_061719_(48099711998).jpg police inspect a seized shipment of cocaine]] In 2004, according to the United Nations, 589 tonnes of cocaine were seized globally by law enforcement authorities. Colombia seized 188 t, the United States 166 t, Europe 79 t, Peru 14 t, Bolivia 9 t, and the rest of the world 133 t.[182]
+police inspect a seized shipment of cocaine]] In 2004, according to the United Nations, 589 tonnes of cocaine were seized globally by law enforcement authorities. Colombia seized 188 t, the United States 166 t, Europe 79 t, Peru 14 t, Bolivia 9 t, and the rest of the world 133 t.[182]
 
 Economics
 
@@ -337,7 +331,7 @@ Synthetic cocaine would be highly desirable to the illegal drug industry as it w
 
 Trafficking and distribution
 
-CocaineCharango-Opened.jpg, 2008]] Organized criminal gangs operating on a large scale dominate the cocaine trade. Most cocaine is grown and processed in South America, particularly in Colombia, Bolivia, Peru, and smuggled into the United States and Europe, the United States being the world's largest consumer of cocaine,[189] where it is sold at huge markups; usually in the US at $80–120 for 1 gram, and $250–300 for 3.5 grams ( of an ounce, or an "eight ball").[190]
+, 2008]] Organized criminal gangs operating on a large scale dominate the cocaine trade. Most cocaine is grown and processed in South America, particularly in Colombia, Bolivia, Peru, and smuggled into the United States and Europe, the United States being the world's largest consumer of cocaine,[189] where it is sold at huge markups; usually in the US at $80–120 for 1 gram, and $250–300 for 3.5 grams ( of an ounce, or an "eight ball").[190]
 
 Caribbean and Mexican routes
 
@@ -358,8 +352,6 @@ Bulk cargo ships are also used to smuggle cocaine to staging sites in the wester
 Sophisticated drug subs are the latest tool drug runners are using to bring cocaine north from Colombia, it was reported on 20 March 2008. Although the vessels were once viewed as a quirky sideshow in the drug war, they are becoming faster, more seaworthy, and capable of carrying bigger loads of drugs than earlier models, according to those charged with catching them.[193]
 
 Sales to consumers
-
-Flavcocaine.jpg
 
 Cocaine is readily available in all major countries' metropolitan areas. According to the _Summer 1998 Pulse Check_, published by the U.S. Office of National Drug Control Policy, cocaine use had stabilized across the country, with a few increases reported in San Diego, Bridgeport, Miami, and Boston. In the West, cocaine usage was lower, which was thought to be due to a switch to methamphetamine among some users; methamphetamine is cheaper, three and a half times more powerful, and lasts 12–24 times longer with each dose.[194][195] Nevertheless, the number of cocaine users remain high, with a large concentration among urban youth.
 

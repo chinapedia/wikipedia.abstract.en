@@ -13,7 +13,7 @@ The economic history of Italy can be divided in three main phases:[16] an initia
 
 Age of Industrialization
 
-Terni_-_le_Acciaierie_1912.jpg steel mills in 1912.]]
+steel mills in 1912.]]
 
 Prior to unification, the economy of the many Italian statelets was overwhelmingly agrarian; however, the agricultural surplus produced what historians call a "pre-industrial" transformation in North-western Italy starting from the 1820s,[17] that led to a diffuse, if mostly artisanal, concentration of manufacturing activities, especially in Piedmont-Sardinia under the liberal rule of the Count of Cavour.[18]
 
@@ -23,7 +23,7 @@ However, the diffusion of industrialisation that characterised the northwestern 
 
 Fascist regime
 
-Mussolini_visiting_Fiat,_1932.jpg giving a speech at the Fiat Lingotto factory in Turin, 1932.]]
+giving a speech at the Fiat Lingotto factory in Turin, 1932.]]
 
 Italy emerged from World War I in a poor and weakened condition. The National Fascist Party of Benito Mussolini came to power in 1922, at the end of a period of social unrest. However, once Mussolini acquired a firmer hold of power, laissez-faire and free trade were progressively abandoned in favour of government intervention and protectionism.[26]
 
@@ -35,7 +35,7 @@ Italy's involvement in World War II as a member of the Axis powers required the 
 
 Post-war economic miracle
 
-Fiat_Nuova_500_prima_serie.jpg, launched in 1957, is considered a symbol of Italy's postwar economic miracle.[32]]]
+, launched in 1957, is considered a symbol of Italy's postwar economic miracle.[32]]]
 
 After the end of World War II, Italy was in rubble and occupied by foreign armies, a condition that worsened the chronic development gap towards the more advanced European economies. However, the new geopolitical logic of the Cold War made possible that the former enemy Italy, a hinge-country between Western Europe and the Mediterranean, and now a new, fragile democracy threatened by the NATO occupation forces, the proximity of the Iron Curtain and the presence of a strong Communist party,[33] was considered by the United States as an important ally for the Free World, and received under the Marshall Plan over US$1.2 billion from 1947-51.
 
@@ -45,7 +45,7 @@ These favorable developments, combined with the presence of a large labour force
 
 The 1970s and 1980s: from stagflation to "il sorpasso"
 
-G7_leaders_1978.jpg (far left) with G7 leaders in Bonn, 1978.]]
+(far left) with G7 leaders in Bonn, 1978.]]
 
 The 1970s were a period of economic, political turmoil and social unrest in Italy, known as Years of Lead. Unemployment rose sharply, especially among the young, and by 1977 there were one million unemployed people under age 24. Inflation continued, aggravated by the increases in the price of oil in 1973 and 1979. The budget deficit became permanent and intractable, averaging about 10 percent of the gross domestic product (GDP), higher than any other industrial country. The lira fell steadily, from 560 lira to the U.S. dollar in 1973 to 1,400 lira in 1982.[37]
 
@@ -55,13 +55,11 @@ However, the Italian economy of the 1980s presented a problem: it was booming, t
 
 Great Recession
 
-GDP_per_capita_big_four_Western_Europe.PNG
-
 Italy was among the countries hit hardest by the Great Recession of 2008-2009 and the subsequent European debt crisis. The national economy shrunk by 6.76% during the whole period, totaling seven-quarters of recession.[47] In November 2011 the Italian bond yield was 6.74 percent for 10-year bonds, nearing a 7 percent level where Italy is thought to lose access to financial markets.[48] According to Eurostat, in 2015 the Italian government debt stood at 128% of GDP, ranking as the second biggest debt ratio after Greece (with 175%).[49] However, the biggest chunk of Italian public debt is owned by Italian nationals [50] and relatively high levels of private savings and low levels of private indebtedness are seen as making it the safest among Europe's struggling economies.[51] As a shock therapy to avoid the debt crisis and kick-start growth, the National unity government led by the famous economist Mario Monti launched a program of massive austerity measures, that have brought down the deficit but precipitated the country in a double-dip recession in 2012 and 2013, receiving widespread criticism from numerous economists.[52][53]
 
 Economic recovery
 
-Ferrari_Portofino_IMG_0532.jpg represents the synergy of "Made in Italy" brands that strengthens the Italian economy.]] In spite of a very high public debt and political instability (Italy has had five governments since 2011), the Italian economy since 2014 has returned to growth[54][55][56][57][58] (an event known as "la ripresa") and is expected to grow by 1.5% or more[59] in 2017, mainly thanks to a rise in exports and the reform of the banking system.[60] The solidity of the long-term economic recovery is confirmed by Warren Buffett's recent investments.[61]
+represents the synergy of "Made in Italy" brands that strengthens the Italian economy.]] In spite of a very high public debt and political instability (Italy has had five governments since 2011), the Italian economy since 2014 has returned to growth[54][55][56][57][58] (an event known as "la ripresa") and is expected to grow by 1.5% or more[59] in 2017, mainly thanks to a rise in exports and the reform of the banking system.[60] The solidity of the long-term economic recovery is confirmed by Warren Buffett's recent investments.[61]
 
 
 Overview
@@ -153,7 +151,7 @@ The following table shows the main economic indicators in 1980–2017. Inflation
 
 Companies
 
-2013-03-05_Geneva_Motor_Show_8267.JPG is the world's most powerful brand according to the Global 500 annual study published by Brand Finance in 2014.[63]]] Labour_productivity_levels_in_Europe._OECD,_2015.png level of Italy. OECD, 2015[64]]]
+is the world's most powerful brand according to the Global 500 annual study published by Brand Finance in 2014.[63]]] level of Italy. OECD, 2015[64]]]
 
 Of the world's 500 largest stock-market-listed companies measured by revenue in 2016, the Fortune Global 500, nine are headquartered in Italy.[65] The country's major companies by sector are:[66] Fiat Chrysler Automobiles, CNH Industrial, Ducati, Piaggio (motor vehicles); Pirelli (tyre manufacturing); Enel, Edison, A2A, Terna (energy); Eni (petrochemicals); Candy, Indesit, De'Longhi (home appliances); Leonardo that has absorbed its subsidiary companies Alenia Aermacchi, AgustaWestland and Oto Melara (defence); Avio, Telespazio (space); Beretta, Benelli (firearms); Armani, Versace, Dolce & Gabbana, Gucci, Benetton, Diesel, Prada, Luxottica, YOOX (fashion); Ferrero, Barilla, Autogrill, Lavazza, Perfetti Van Melle, Campari, Parmalat (food&beverages); Techint, Lucchini, Gruppo Riva, Danieli (steel); Prysmian, Salini Impregilo, Italcementi, Buzzi Unicem, Astaldi (construction); STMicroelectronics (electronics); Telecom Italia, Mediaset (communications); Assicurazioni Generali, Unipol (insurance); UniCredit, Intesa Sanpaolo (banking); Ferrari, Maserati, Lamborghini (luxury vehicles); Fincantieri, Ferretti, Azimut (shipbuilding).
 
@@ -173,7 +171,7 @@ Figures are for 2016. Figures in italic = Q3 2017
 
 Wealth
 
-Leonardo_Del_Vecchio,_2011.jpeg.]]
+.]]
 
 Italy has over 1.4 million people with a net wealth greater than $1 million, a total national wealth of $11.857 trillion, and represents the 5th largest cumulative net wealth globally (it accounts for 4.92% of the net wealth in the world).[69] According to the Credit Suisse's Global Wealth Databook 2013, the median wealth per adult is $138,653 (5th in the world),[70] while according to the Allianz's Global Wealth Report 2013, the net financial wealth per capita is €45,770 (13th in the world).[71]
 
@@ -193,8 +191,6 @@ The following top 10 list of Italian billionaires is based on an annual assessme
   603            10             Patrizio Bertelli                       3.3               Prada                Apparels
 
 Regional data
-
-Map_of_Italian_regions_by_GDP_per_capita_in_euros_(2015).jpg
 
 +------+--------+--------+-------------+--------------+
 | Rank | Region | GDP €m | % of Nation | € per capita |
@@ -263,7 +259,7 @@ Economic sectors
 
 Primary
 
-Toscana_Firenze4_tango7174.jpg, Tuscany. Italy is the world's top wine producer (22% of global market).[96]]]
+, Tuscany. Italy is the world's top wine producer (22% of global market).[96]]]
 
 According to the last national agricultural census, there were 1.6 million farms in 2010 (-32.4% since 2000) covering 12.7 million hectares (63% of which are located in Southern Italy).[97] The vast majority (99%) are family-operated and small, averaging only 8 hectares in size.[98] Of the total surface area in agricultural use (forestry excluded), grain fields take up 31%, olive tree orchards 8.2%, vineyards 5.4%, citrus orchards 3.8%, sugar beets 1.7%, and horticulture 2.4%. The remainder is primarily dedicated to pastures (25.9%) and feed grains (11.6%).[99] The northern part of Italy produces primarily maize corn, rice, sugar beets, soybeans, meat, fruits and dairy products, while the South specializes in wheat and citrus fruits. Livestock includes 6 million head of cattle, 8.6 million head of swine, 6.8 million head of sheep, and 0.9 million head of goats.[100] The total annual production of the fishing industry in Italy from capture and aquaculture, including crustaceans and molluscs, is around 480,000 tons.
 
@@ -301,7 +297,7 @@ Infrastructure
 
 Energy and natural resources
 
-Natural_resources_of_Italy.png ore, Mn — manganese, Fe — iron ore, Hg — mercury, PM — polymetallic ores (Cu, Zn, Ag, Pb), PY — pyrite). Fossil fuels are in red (C — coal, G — natural gas, L — lignite, P — petroleum). Non-metallic minerals are in green (ASB — asbestos, F — fluorite, K — potash, MAR — marble, S — sulfur).]] Varese_Ligure-pale_eoliche.jpgs in Varese Ligure.]]
+ore, Mn — manganese, Fe — iron ore, Hg — mercury, PM — polymetallic ores (Cu, Zn, Ag, Pb), PY — pyrite). Fossil fuels are in red (C — coal, G — natural gas, L — lignite, P — petroleum). Non-metallic minerals are in green (ASB — asbestos, F — fluorite, K — potash, MAR — marble, S — sulfur).]] s in Varese Ligure.]]
 
 In the early 1970s Italy was a major producer of pyrites (from the Tuscan Maremma), asbestos (from the Balangero mines), fluorite (found in Sicily), and salt. At the same time, it was self-sufficient in aluminum (from Gargano), sulphur (from Sicily), lead, and zinc (from Sardinia).[110] By the beginning of the 1990s, however, it had lost all its world-ranking positions and was no longer self-sufficient in those resources. There are no substantial deposits of iron, coal, or oil. Moderate natural gas reserves, mainly in the Po Valley and offshore Adriatic Sea, have been discovered in recent years and constitute the country's most important mineral resource. Italy is one of the world's leading producers of pumice, pozzolana, and feldspar.[111] Another mineral resource for which Italy is well-known is marble, especially the world-famous white Carrara marble from the Massa and Carrara quarries in Tuscany. Most raw materials needed for manufacturing and more than 80% of the country's energy sources are imported (99.7% of the solid fuels demand, 92.5% of oil, 91.2% of natural gas and 13% of electricity).[112][113] Due to its reliance on imports, Italians pay approximately 45% more than the EU average for electricity.[114]
 
@@ -311,7 +307,7 @@ In the last decade, Italy has become one of the world's largest producers of ren
 
 Transport
 
-Rom_Fiumicino_Airport_2008_by-RaBoe.jpg in 2014 was the eighth-busiest airport in Europe.]]
+in 2014 was the eighth-busiest airport in Europe.]]
 
 Italy was the first country in the world to build motorways, the so-called "autostrade", reserved for motor vehicles. The Milano-Laghi motorway, connecting Milan to Varese and now parts of the A8 and A9 motorways, was devised by Piero Puricelli, a civil engineer and entrepreneur. He received the first authorization to build a public-utility fast road in 1921, and completed the construction between 1924 and 1926. By the end of the 1930s, over 400 kilometers of multi- and dual-single-lane motorways were constructed throughout Italy, linking cities and rural towns. Today there are 668,721 km of serviceable roads in Italy, including 6,661 km of motorways (mostly toll roads, national and local roads), state-owned but privately operated mainly by Atlantia company.
 

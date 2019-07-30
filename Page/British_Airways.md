@@ -7,7 +7,7 @@ It is a founding member of the Oneworld airline alliance, along with American Ai
 
 History
 
-British_Airways_Boeing_747-100_in_BOAC_basic_livery_Marmet.jpg in BOAC-British Airways transition livery]]
+in BOAC-British Airways transition livery]]
 
 Proposals to establish a joint British airline, combining the assets of the British Overseas Airways Corporation (BOAC) and British European Airways (BEA) were first raised in 1953 as a result of difficulties in attempts by BOAC and BEA to negotiate air rights through the British colony of Cyprus. Increasingly BOAC was protesting that BEA was using its subsidiary Cyprus Airways to circumvent an agreement that BEA would not fly routes further east than Cyprus, particularly to the increasingly important oil regions in the Middle East. The Chairman of BOAC, Miles Thomas, was in favour of merger as a potential solution to this disagreement and had backing for the idea from the Chancellor of the Exchequer at the time, Rab Butler. However, opposition from the Treasury blocked the proposal.[5]
 
@@ -15,19 +15,17 @@ Consequently, it was only following the recommendations of the 1969 Edwards Repo
 
 Following two years of fierce competition with British Caledonian, the second-largest airline in the United Kingdom at the time, the Government changed its aviation policy in 1976 so that the two carriers would no longer compete on long-haul routes.[8]
 
-British Airways and Air France operated the supersonic airliner Aerospatiale-BAC Concorde, and the world's first supersonic passenger service flew in January 1976 from London Heathrow to Bahrain.[9] Services to the US began on 24 May 1976 with a flight to Washington Dulles airport, and flights to New York JFK airport followed on 22 September 1977. Service to Singapore was established in co-operation with Singapore Airlines as a continuation of the flight to Bahrain.[10] Following the Air France Concorde crash in Paris and a slump in air travel following the 11 September attacks in New York in 2001, it was decided to cease Concorde operations in 2003 after 27 years of service. The final commercial Concorde flight was BA002 from New York JFK to London Heathrow on 24 October 2003.[11] British_Airways_Trident_Three_G-AWZA.jpg in its transitional scheme with BEA livery but with British Airways titles]]
+British Airways and Air France operated the supersonic airliner Aerospatiale-BAC Concorde, and the world's first supersonic passenger service flew in January 1976 from London Heathrow to Bahrain.[9] Services to the US began on 24 May 1976 with a flight to Washington Dulles airport, and flights to New York JFK airport followed on 22 September 1977. Service to Singapore was established in co-operation with Singapore Airlines as a continuation of the flight to Bahrain.[10] Following the Air France Concorde crash in Paris and a slump in air travel following the 11 September attacks in New York in 2001, it was decided to cease Concorde operations in 2003 after 27 years of service. The final commercial Concorde flight was BA002 from New York JFK to London Heathrow on 24 October 2003.[11] in its transitional scheme with BEA livery but with British Airways titles]]
 
 In 1981 the airline was instructed to prepare for privatisation by the Conservative Thatcher government. Sir John King, later Lord King, was appointed chairman, charged with bringing the airline back into profitability. While many other large airlines struggled, King was credited with transforming British Airways into one of the most profitable air carriers in the world.[12] The flag carrier was privatised and was floated on the London Stock Exchange in February 1987.[13] British Airways effected the takeover of the UK's "second" airline, British Caledonian, in July of that same year.[14]
 
 The formation of Richard Branson's Virgin Atlantic in 1984 created a competitor for BA. The intense rivalry between British Airways and Virgin Atlantic culminated in the former being sued for libel in 1993, arising from claims and counterclaims over a "dirty tricks" campaign against Virgin. This campaign included allegations of poaching Virgin Atlantic customers, tampering with private files belonging to Virgin and undermining Virgin's reputation in the City. As a result of the case BA management apologised "unreservedly", and the company agreed to pay £110,000 damages to Virgin, £500,000 to Branson personally and £3 million legal costs.[15] Lord King stepped down as chairman in 1993 and was replaced by his deputy, Colin Marshall, while Bob Ayling took over as CEO.[16] Virgin filed a separate action in the US that same year regarding BA's domination of the trans-Atlantic routes, but it was thrown out in 1999.[17]
 
-British_Airways_Concorde_official_handover_ceremony_Fitzgerald.jpg at Heathrow Airport, on 15 January 1976]]
+at Heathrow Airport, on 15 January 1976]]
 
 In 1992 British Airways expanded through the acquisition of the financially troubled Dan-Air, giving BA a much larger presence at Gatwick airport. British Asia Airways, a subsidiary based in Taiwan, was formed in March 1993 to operate between London and Taipei. That same month BA purchased a 25% stake in the Australian airline Qantas and, with the acquisition of Brymon Airways in May, formed British Airways Citiexpress (later BA Connect).[18] In September 1998, British Airways, along with American Airlines, Cathay Pacific, Qantas, and Canadian Airlines, formed the Oneworld airline alliance. Oneworld began operations on 1 February 1999, and is the third largest airline alliance in the world, behind SkyTeam and Star Alliance.[19]
 
 Bob Ayling's leadership led to a cost savings of £750m and the establishment of a budget airline, Go, in 1998.[20] The next year, however, British Airways reported an 84% drop in profits in its first quarter alone, its worst in seven years.[21] In March 2000, Ayling was removed from his position and British Airways announced Rod Eddington as his successor. That year, British Airways and KLM conducted talks on a potential merger, reaching a decision in July to file an official merger plan with the European Commission.[22] The plan fell through in September 2000.[23] British Asia Airways ceased operations in 2001 after BA suspended flights to Taipei. Go was sold to its management and the private equity firm 3i in June 2001.[24] Eddington would make further workforce cuts due to reduced demand following 11 September attacks in 2001,[25] and BA sold its stake in Qantas in September 2004.[26] In 2005 Willie Walsh, managing director of Aer Lingus and a former pilot, became the chief executive officer of British Airways.[27] BA unveiled its new subsidiary OpenSkies in January 2008, taking advantage of the liberalisation of transatlantic traffic rights between Europe and the United States. OpenSkies flies non-stop from Paris to New York's JFK and Newark airports.[28]
-
-British_Airways_Iberia_aircraft_tails_BA_IB.jpg
 
 On July 2008 British Airways announced a merger plan with Iberia, another flag carrier airline in the Oneworld alliance, wherein each airline would retain its original brand.[29] The agreement was confirmed in April 2010,[30] and in July the European Commission and US Department of Transport permitted the merger and began to co-ordinate transatlantic routes with American Airlines.[31][32] On 6 October 2010 the alliance between British Airways, American Airlines and Iberia formally began operations. The alliance generates an estimated £230 million in annual cost-saving for BA, in addition to the £330 million which would be saved by the merger with Iberia.[33][34] This merger was finalised on 21 January 2011, resulting in the International Airlines Group (IAG), the world's third-largest airline in terms of annual revenue and the second-largest airline group in Europe.[35][36] Prior to merging, British Airways owned a 13.5% stake in Iberia, and thus received ownership of 55% of the combined International Airlines Group; Iberia's other shareholders received the remaining 45%.[37] As a part of the merger, British Airways ceased trading independently on the London Stock Exchange after 23 years as a constituent of the FTSE 100 Index.[38]
 
@@ -48,7 +46,7 @@ Operations
 
 British Airways is the largest airline based in the United Kingdom in terms of fleet size, international flights, and international destinations and was, until 2008, the largest airline by passenger numbers. The airline carried 34.6 million passengers in 2008, but, rival carrier easyJet transported 44.5 million passengers that year, passing British Airways for the first time.[51][52] British Airways holds a United Kingdom Civil Aviation Authority Type A Operating Licence, it is permitted to carry passengers, cargo, and mail on aircraft with 20 or more seats.[53]
 
-WatersideBAHQLondon.jpg, the head office of British Airways.]]
+, the head office of British Airways.]]
 
 The airlines' head office, Waterside, stands in Harmondsworth, a village that is near London Heathrow Airport.[54] Waterside was completed in June 1998 to replace British Airways' previous head office, Speedbird House, which was located on the grounds of Heathrow.[55][56]
 
@@ -66,7 +64,7 @@ BEA Helicopters was renamed British Airways Helicopters in 1974 and operated pas
 
 South Africa's Comair and Denmark's Sun Air of Scandinavia have been franchisees of British Airways since 1996.[69][70] British Airways obtained a 15% stake in UK regional airline Flybe from the sale of BA Connect in March 2007.[71] It sold the stake in 2014. BA also owned a 10% stake in InterCapital and Regional Rail (ICRR), the company that managed the operations of Eurostar (UK) Ltd from 1998 to 2010,[72][73] when the management of Eurostar was restructured.
 
-2010-06-30_B757_OpenSkies_F-HAVN_EDDF_02.jpg Boeing 757 landing at Frankfurt Airport]]
+Boeing 757 landing at Frankfurt Airport]]
 
 With the creation of an Open Skies agreement between Europe and the United States in March 2008, British Airways started a new subsidiary airline called OpenSkies (previously known as “Project Lauren”).[74] The airline started operations in June 2008, and flew directly from Paris—Orly to Newark.[75] However it ceased operations on 2 September 2018 when it was replaced with Level flights on that route.[76]
 
@@ -96,8 +94,6 @@ British Airways is a member and one of the founders of Oneworld, an airline alli
 
 
 Destinations
-
-British_Airways_747-400_at_New_York_JFK_Airport_(Quintin_Soloviev_-_QFS_Aviation).jpg
 
 British Airways serves over 160 destinations, including six domestic and 27 in the United States.[107]
 
@@ -247,9 +243,7 @@ Marketing
 
 Branding
 
-British_Airways_at_Terminal_5_in_2011.jpg]]
-
-Typeface_sample_Mylius_Modern.png
+]]
 
 The musical theme predominantly used on British Airways advertising is _"The Flower Duet"_ by Léo Delibes.[152] This, and the slogan "The World's Favourite Airline" were introduced in 1989 with the launch of the iconic "Face" advertisement.[153] The slogan was dropped in 2001 after Lufthansa overtook BA in terms of passenger numbers.[154] "Flower Duet" is still used by the airline, and has been through several different arrangements since 1989. The most recent version of this melody was shown in 2007 with a new slogan: "Upgrade to British Airways".[155] Other advertising slogans have included "The World's Best Airline", "We'll Take More Care of You", and "Fly the Flag".[156]
 
@@ -263,7 +257,7 @@ _High Life_, founded in 1973, is the official in-flight magazine of the airline.
 
 Liveries, logos, and tail fins
 
-British_Airways_(Landor_livery)_Boeing_747-436_G-BNLY_(City_of_Swansea)_departing_JFK_Airport.jpg design.]] The aeroplanes that British Airways inherited from the four-way merger between BOAC, BEA, Cambrian, and Northeast were temporarily given the text logo "British airways" but retained the original airline's livery. With its formation in 1974, British Airways' aeroplanes were given a new white, blue, and red colour scheme with a stylized Union Jack painted on their tail fins, designed by Negus & Negus. In 1984, a new livery designed by Landor Associates updated the airline's look as it prepared for privatization.[165] For celebrating centenary, BA announced four retro liveries...three on Boeing 747-400 aircraft (one in each of BOAC, Negus & Negus, and Landor Associates liveries), and one A319 in BEA livery. British_Airways_(27078321943).jpg In 1997, there was a controversial change to a new Project Utopia livery; all aircraft used the corporate colours consistently on the fuselage, but tailfins bore one of multiple designs.[166] Several people spoke out against the change, including the former Prime Minister Margaret Thatcher, who famously covered the tail of a model 747 at an event with a handkerchief, to show her displeasure.[167] BA's traditional rival, Virgin Atlantic, took advantage of the negative press coverage by applying the Union flag to the winglets of their aircraft along with the slogan "Britain's national flagcarrier".[168]
+design.]] The aeroplanes that British Airways inherited from the four-way merger between BOAC, BEA, Cambrian, and Northeast were temporarily given the text logo "British airways" but retained the original airline's livery. With its formation in 1974, British Airways' aeroplanes were given a new white, blue, and red colour scheme with a stylized Union Jack painted on their tail fins, designed by Negus & Negus. In 1984, a new livery designed by Landor Associates updated the airline's look as it prepared for privatization.[165] For celebrating centenary, BA announced four retro liveries...three on Boeing 747-400 aircraft (one in each of BOAC, Negus & Negus, and Landor Associates liveries), and one A319 in BEA livery. In 1997, there was a controversial change to a new Project Utopia livery; all aircraft used the corporate colours consistently on the fuselage, but tailfins bore one of multiple designs.[166] Several people spoke out against the change, including the former Prime Minister Margaret Thatcher, who famously covered the tail of a model 747 at an event with a handkerchief, to show her displeasure.[167] BA's traditional rival, Virgin Atlantic, took advantage of the negative press coverage by applying the Union flag to the winglets of their aircraft along with the slogan "Britain's national flagcarrier".[168]
 
 In 1999, the CEO of British Airways, Bob Ayling, announced that all BA planes would adopt the tailfin design _Chatham Dockyard Union Flag_ originally intended to be used only on the Concorde, based on the Union Flag.[169] All BA aircraft have since borne the _Chatham Dockyard Union flag_ variant of the Project Utopia livery, except for the four retro aircraft.
 
@@ -322,8 +316,6 @@ _World Traveller_ is the mid-haul and long-haul economy class cabin. It offers s
 
 
 Incidents and accidents
-
-BA38_Crash.jpg
 
 -   On 22 November 1974, British Airways Flight 870 was hijacked shortly after take-off from Dubai for London Heathrow. The Vickers VC10 landed at Tripoli for refuelling before flying on to Tunis. The captain, Jim Futcher, returned to the aircraft to fly it knowing the hijackers were on board. The hijackers eventually surrendered after 84 hours, but not before a hostage was murdered. Futcher was awarded the Queen's Gallantry Medal, the Guild of Air Pilots and Air Navigators Founders Medal, the British Air Line Pilots Association Gold Medal and a Certificate of Commendation from British Airways for his actions during the hijacking.[196][197]
 -   On 10 September 1976, a Trident 3B on British Airways Flight 476 departed from London Heathrow to Istanbul. It collided in mid-air with an Inex Adria DC9-31 near Zagreb.[198] All 54 passengers and 9 crew members on the BA aircraft died. This is the only fatal accident to a British Airways aircraft since the company's formation in 1974.

@@ -1,5 +1,3 @@
-EllipticCurveCatalog.svg
-
 In mathematics, an ELLIPTIC CURVE is a plane algebraic curve defined by an equation of the form
 
 _y_² = _x_³ + _a__x_ + _b_
@@ -19,7 +17,7 @@ An elliptic curve is _not_ an ellipse: see elliptic integral for the origin of t
 
 Elliptic curves over the real numbers
 
-ECClines-3.svg Although the formal definition of an elliptic curve is fairly technical and requires some background in algebraic geometry, it is possible to describe some features of elliptic curves over the real numbers using only introductory algebra and geometry.
+Although the formal definition of an elliptic curve is fairly technical and requires some background in algebraic geometry, it is possible to describe some features of elliptic curves over the real numbers using only introductory algebra and geometry.
 
 In this context, an elliptic curve is a plane curve defined by an equation of the form
 
@@ -77,12 +75,10 @@ $$\begin{align}
   y_R &= y_P + s(x_R - x_P)
 \end{align}$$
 
-Image:ECClines.svg
-
 
 Elliptic curves over the complex numbers
 
-Lattice_torsion_points.svg The formulation of elliptic curves as the embedding of a torus in the complex projective plane follows naturally from a curious property of Weierstrass's elliptic functions. These functions and their first derivative are related by the formula
+The formulation of elliptic curves as the embedding of a torus in the complex projective plane follows naturally from a curious property of Weierstrass's elliptic functions. These functions and their first derivative are related by the formula
 
 ℘′(_z_)² = 4℘(_z_)³ − _g_₂℘(_z_) − _g_₃
 
@@ -290,15 +286,11 @@ The two curves are called _isogenous_ if there is an isogeny between them. This 
 
 Elliptic curves over finite fields
 
-Elliptic_curve_on_Z61.svg
-
 Let _K_ = F_(_q_) be the finite field with _q_ elements and _E_ an elliptic curve defined over _K_. While the precise number of rational points of an elliptic curve _E_ over _K_ is in general rather difficult to compute, Hasse's theorem on elliptic curves gives us, including the point at infinity, the following estimate:
 
 $$|\# E(K) - (q + 1) | \le 2\sqrt{q}$$
 
 In other words, the number of points of the curve grows roughly as the number of elements in the field. This fact can be understood and proven with the help of some general theory; see local zeta function, Étale cohomology.
-
-Elliptic_curve_on_Z89.svg
 
 The set of points _E_(F_(_q_)) is a finite abelian group. It is always cyclic or the product of two cyclic groups. For example,[22] the curve defined by
 
@@ -328,8 +320,6 @@ $$\frac{1 + 2T^2}{(1 - T)(1 - 2T)}$$
 this follows from:
 
 $$\left| E(\mathbf{F}_{2^r}) \right| = \begin{cases} 2^r + 1 & r \text{ odd} \\ 2^r + 1 - 2(-2)^{\frac{r}{2}} & r \text{ even} \end{cases}$$
-
-Elliptic_curve_on_Z71.svg
 
 The Sato–Tate conjecture is a statement about how the error term $2\sqrt{q}$ in Hasse's theorem varies with the different primes _q_, if an elliptic curve E over Q is reduced modulo q. It was proven (for almost all such curves) in 2006 due to the results of Taylor, Harris and Shepherd-Barron,[24] and says that the error terms are equidistributed.
 

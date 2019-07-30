@@ -1,4 +1,4 @@
-Dansa_tradicional_valenciana_-_Museu_Valencià_d'Etnologia.jpg A FOLK DANCE is developed by people that reflect the life of the people of a certain country or region. Not all ethnic dances are folk dances. For example, ritual dances or dances of ritual origin are not considered to be folk dances. Ritual dances are usually called "Religious dances" because of their purpose. The terms "ethnic" and "traditional" are used when it is required to emphasize the cultural roots of the dance. In this sense, nearly all folk dances are ethnic ones. If some dances, such as polka, cross ethnic boundaries and even cross the boundary between "folk" and "ballroom dance", ethnic differences are often considerable enough to mention.
+A FOLK DANCE is developed by people that reflect the life of the people of a certain country or region. Not all ethnic dances are folk dances. For example, ritual dances or dances of ritual origin are not considered to be folk dances. Ritual dances are usually called "Religious dances" because of their purpose. The terms "ethnic" and "traditional" are used when it is required to emphasize the cultural roots of the dance. In this sense, nearly all folk dances are ethnic ones. If some dances, such as polka, cross ethnic boundaries and even cross the boundary between "folk" and "ballroom dance", ethnic differences are often considerable enough to mention.
 
 
 Background
@@ -133,7 +133,7 @@ Nepal
 
 Indonesia
 
-Bali-Danse_0729a.jpg temple dancer performing _Sekar Jepun_ dance in Bali, Indonesia]]
+temple dancer performing _Sekar Jepun_ dance in Bali, Indonesia]]
 
 Japan
 

@@ -1,4 +1,4 @@
-FRE-OCE-12-French_Oceania-2_francs_(1943).jpg emergency-issue banknote (1943), printed in Papeete, and depicting the outline of Tahiti on the reverse.]]
+emergency-issue banknote (1943), printed in Papeete, and depicting the outline of Tahiti on the reverse.]]
 
 FRENCH POLYNESIA (; ; ) is an overseas collectivity of the French Republic and its sole overseas country. It is composed of 118 geographically dispersed islands and atolls stretching over an expanse of more than in the South Pacific Ocean. Its total land area is .
 
@@ -11,15 +11,13 @@ In 1946, the __ became an overseas territory under the constitution of the Frenc
 
 History
 
-Floreal-Bora-Bora.jpg'' in November 2002, stationed in Bora Bora lagoon.]]
+'' in November 2002, stationed in Bora Bora lagoon.]]
 
 Scientists believe the Great Polynesian Migration happened around 1500 BC as Austronesian people went on a journey using celestial navigation to find islands in the South Pacific Ocean. The first islands of French Polynesia to be settled were the Marquesas Islands in about 200 BC. The Polynesians later ventured southwest and discovered the Society Islands around AD 300.[2]
 
 European encounters began in 1521 when Portuguese explorer Ferdinand Magellan, sailing at the service of the Spanish Crown, sighted Puka-Puka in the Tuāmotu-Gambier Archipelago. In 1606 another Spanish expedition under Pedro Fernandes de Queirós sailed through Polynesia sighting an inhabited island on 10 February[3] which they called Sagitaria (or Sagittaria), probably the island of Rekareka to the southeast of Tahiti.[4]
 
 Over a century later, British explorer Samuel Wallis visited Tahiti in 1767. French explorer Louis Antoine de Bougainville also visited Tahiti in 1768, while British explorer James Cook arrived in 1769.[5] In 1772, the Spanish Viceroy of Peru Don Manuel de Amat ordered a number of expeditions to Tahiti under the command of Domingo de Bonechea who was the first European to explore all of the main islands beyond Tahiti.[6] A short-lived Spanish settlement was created in 1774,[7] and for a time some maps bore the name _Isla de Amat_ after Viceroy Amat.[8] In 1772, Dutchman Jakob Roggeveen came across Bora Bora in the Society Islands. Christian missions began with Spanish priests who stayed in Tahiti for a year. Protestants from the London Missionary Society settled permanently in Polynesia in 1797.
-
-Society_kingdoms.svg
 
 King Pōmare II of Tahiti was forced to flee to Mo'orea in 1803; he and his subjects were converted to Protestantism in 1812. French Catholic missionaries arrived on Tahiti in 1834; their expulsion in 1836 caused France to send a gunboat in 1838. In 1842, Tahiti and Tahuata were declared a French protectorate, to allow Catholic missionaries to work undisturbed. The capital of Papeetē was founded in 1843. In 1880, France annexed Tahiti, changing the status from that of a protectorate to that of a colony. The island groups were not officially united until the establishment of the French protectorate in 1889.[9]
 
@@ -42,17 +40,17 @@ Under the terms of Article 74 of the French constitution and the Organic Law 201
 
 Political life in French Polynesia has been marked by great instability since the mid-2000s. On 14 September 2007, the pro-independence leader Oscar Temaru, was elected president of French Polynesia for the third time in three years (with 27 of 44 votes cast in the territorial assembly).[18] He replaced former president Gaston Tong Sang, opposed to independence, who lost a no-confidence vote in the Assembly of French Polynesia on 31 August after the longtime former president of French Polynesia, Gaston Flosse, hitherto opposed to independence, sided with his long enemy Oscar Temaru to topple the government of Gaston Tong Sang. Oscar Temaru, however, had no stable majority in the Assembly of French Polynesia, and new territorial elections were held in February 2008 to solve the political crisis.
 
-Assemblée_de_Polynésie.JPG.]] The party of Gaston Tong Sang won the territorial elections, but that did not solve the political crisis: the two minority parties of Oscar Temaru and Gaston Flosse, who together have one more member in the territorial assembly than the political party of Gaston Tong Sang, allied to prevent Gaston Tong Sang from becoming president of French Polynesia. Gaston Flosse was then elected president of French Polynesia by the territorial assembly on 23 February 2008 with the support of the pro-independence party led by Oscar Temaru, while Oscar Temaru was elected speaker of the territorial assembly with the support of the anti-independence party led by Gaston Flosse. Both formed a coalition cabinet. Many observers doubted that the alliance between the anti-independence Gaston Flosse and the pro-independence Oscar Temaru, designed to prevent Gaston Tong Sang from becoming president of French Polynesia, could last very long.[19]
+.]] The party of Gaston Tong Sang won the territorial elections, but that did not solve the political crisis: the two minority parties of Oscar Temaru and Gaston Flosse, who together have one more member in the territorial assembly than the political party of Gaston Tong Sang, allied to prevent Gaston Tong Sang from becoming president of French Polynesia. Gaston Flosse was then elected president of French Polynesia by the territorial assembly on 23 February 2008 with the support of the pro-independence party led by Oscar Temaru, while Oscar Temaru was elected speaker of the territorial assembly with the support of the anti-independence party led by Gaston Flosse. Both formed a coalition cabinet. Many observers doubted that the alliance between the anti-independence Gaston Flosse and the pro-independence Oscar Temaru, designed to prevent Gaston Tong Sang from becoming president of French Polynesia, could last very long.[19]
 
 At the French municipal elections held in March 2008, several prominent mayors who are member of the Flosse-Temaru coalition lost their offices in key municipalities of French Polynesia, which was interpreted as a disapproval of the way Gaston Tong Sang, whose party French Polynesian voters had placed first in the territorial elections the month before, had been prevented from becoming president of French Polynesia by the last minute alliance between Flosse and Temaru's parties. Eventually, on 15 April 2008 the government of Gaston Flosse was toppled by a constructive vote of no confidence in the territorial assembly when two members of the Flosse-Temaru coalition left the coalition and sided with Tong Sang's party. Gaston Tong Sang was elected president of French Polynesia as a result of this constructive vote of no confidence, but his majority in the territorial assembly is very narrow. He offered posts in his cabinet to Flosse and Temaru's parties which they both refused. Gaston Tong Sang has called all parties to help end the instability in local politics, a prerequisite to attract foreign investors needed to develop the local economy.
 
 Administration
 
-Bora_Bora,_French_Polynesia.jpg]] Between 1946 and 2003, French Polynesia had the status of an overseas territory (__, or _TOM_). In 2003, it became an overseas collectivity (__, or COM). Its statutory law of 27 February 2004 gives it the particular designation of _overseas country inside the Republic_ (__, or POM), but without legal modification of its status.
+]] Between 1946 and 2003, French Polynesia had the status of an overseas territory (__, or _TOM_). In 2003, it became an overseas collectivity (__, or COM). Its statutory law of 27 February 2004 gives it the particular designation of _overseas country inside the Republic_ (__, or POM), but without legal modification of its status.
 
 Relations with mainland France
 
-Haut_Commissariat_à_Papeete.JPG.]] Despite a local assembly and government, French Polynesia is not in a free association with France, like the Cook Islands with New Zealand. As a French overseas collectivity, the local government has no competence in justice, university education, security and defense. Services in these areas are directly provided and administered by the Government of France, including the National Gendarmerie (which also polices rural and border areas in metropolitan France), and French military forces. The collectivity government retains control over primary and secondary education, health, town planning, and the environment.[20] The highest representative of the State in the territory is the High Commissioner of the Republic in French Polynesia ().
+.]] Despite a local assembly and government, French Polynesia is not in a free association with France, like the Cook Islands with New Zealand. As a French overseas collectivity, the local government has no competence in justice, university education, security and defense. Services in these areas are directly provided and administered by the Government of France, including the National Gendarmerie (which also polices rural and border areas in metropolitan France), and French military forces. The collectivity government retains control over primary and secondary education, health, town planning, and the environment.[20] The highest representative of the State in the territory is the High Commissioner of the Republic in French Polynesia ().
 
 French Polynesia also sends three deputies to the French National Assembly, one representing the Leeward Islands administrative subdivision and the south-western suburbs of Papeete, another one representing Papeete and its north-eastern suburbs, plus the commune (municipality) of Mo'orea-Mai'ao, the Tuāmotu-Gambier administrative division, and the Marquesas Islands administrative division, and the last one representing the rest of Tahiti and the Austral Islands administrative subdivision. French Polynesia also sends two senators to the French Senate.
 
@@ -60,8 +58,6 @@ French Polynesians vote in the French presidential elections. In the 2007 French
 
 
 Geography
-
-French_Polynesia_relief_map.svg
 
 The islands of French Polynesia make up a total land area of ,[22] scattered over more than of ocean. There are 118 islands in French Polynesia (and many more islets or _motus_ around atolls). The highest point is Mount Orohena on Tahiti.
 
@@ -91,7 +87,7 @@ Aside from Tahiti, some other important atolls, islands, and island groups in Fr
 
 : Top three largest communes
 
-BoraBora_SEtienne.jpg, Leeward Islands]]
+, Leeward Islands]]
 
 Administrative divisions
 
@@ -105,8 +101,6 @@ French Polynesia has five administrative subdivisions (__):
 
 
 Demographics
-
-Tahitiennes_en_robe_mission.jpg
 
 Total population at the August 2017 census was 275,918 inhabitants.[23] At the 2017 census, 68.7% of the population of French Polynesia lived on the island of Tahiti alone.[24] The urban area of Papeete, the capital city, has 136,771 inhabitants (2017 census).
 
@@ -158,7 +152,7 @@ Culture
 
 Languages
 
-TuamotuCemetery.jpg.]] French is the only official language of French Polynesia.[39] An organic law of 12 April 1996 states that "French is the official language, Tahitian and other Polynesian languages can be used." At the 2017 census, among the population whose age was 15 and older, 73.9% of people reported that the language they spoke the most at home was French (up from 68.6% at the 2007 census), 20.2% reported that the language they spoke the most at home was Tahitian (down from 24.3% at the 2007 census), 2.6% reported Marquesan and 0.2% the related Mangareva language (same percentages for both at the 2007 census), 1.2% reported any of the Austral languages (down from 1.3% at the 2007 census), 1.0% reported Tuamotuan (down from 1.5% at the 2007 census), 0.6% reported a Chinese dialect (41% of which was Hakka) (down from 1.0% at the 2007 census), and 0.4% another language (more than half of which was English) (down from 0.5% at the 2007 census).[40]
+.]] French is the only official language of French Polynesia.[39] An organic law of 12 April 1996 states that "French is the official language, Tahitian and other Polynesian languages can be used." At the 2017 census, among the population whose age was 15 and older, 73.9% of people reported that the language they spoke the most at home was French (up from 68.6% at the 2007 census), 20.2% reported that the language they spoke the most at home was Tahitian (down from 24.3% at the 2007 census), 2.6% reported Marquesan and 0.2% the related Mangareva language (same percentages for both at the 2007 census), 1.2% reported any of the Austral languages (down from 1.3% at the 2007 census), 1.0% reported Tuamotuan (down from 1.5% at the 2007 census), 0.6% reported a Chinese dialect (41% of which was Hakka) (down from 1.0% at the 2007 census), and 0.4% another language (more than half of which was English) (down from 0.5% at the 2007 census).[40]
 
 At the same census, 95.2% of people whose age was 15 or older reported that they could speak, read and write French (up from 94.7% at the 2007 census), whereas only 1.3% reported that they had no knowledge of French (down from 2.0% at the 2007 census).[41] 86.5% of people whose age was 15 or older reported that they had some form of knowledge of at least one Polynesian language (up from 86.4% at the 2007 census but down from 87.8% at the 2012 census), whereas 13.5% reported that they had no knowledge of any of the Polynesian languages (down from 13.6% at the 2007 census but up from 12.2% at the 2012 census).[42]
 
@@ -174,8 +168,6 @@ Latin rite Roman Catholics constitute a large minority with 30% of the populatio
 
 Sports
 
-Hawaiki_Nui_Va'a_4.jpg
-
 Va'a
 
 The Polynesian traditional sport va'a is practiced in all the islands. French Polynesia hosts the an international race between Tahiti, Huahine and Bora Bora.
@@ -188,8 +180,6 @@ Kitesurfing
 
 There are many spots to practice kitesurfing in French Polynesia, with Tahiti, Moorea, Bora-Bora, Maupiti and Raivavae being among the most iconic.[49]
 
-Fakarava_Atoll_Passe_Sud.jpg
-
 Diving
 
 French Polynesia is internationally known for diving. Each archipelago offers opportunities for divers. Rangiroa and Fakarava in the Tuamotu islands are the most famous spots in the area.[50]
@@ -197,7 +187,7 @@ French Polynesia is internationally known for diving. Each archipelago offers op
 
 Economy and infrastructure
 
-DSC00033_Polynésia_Moréa_island_Haapiti_Beach_(8076090305).jpg The legal tender of French Polynesia is the CFP Franc which has a fixed exchange rate with the Euro. The nominal gross domestic product (or GDP) of French Polynesia in 2014 was 5.623 billion U.S. dollars at market local prices, the sixth-largest economy in Oceania after Australia, New Zealand, Hawaii, New Caledonia, and Papua New Guinea.[51] The GDP per capita was $20,098 in 2014 (at market exchange rates, not at PPP), lower than in Hawaii, Australia, New Zealand, and New Caledonia, but higher than all the independent insular states of Oceania. Both per capita and total figures were significantly lower than those recorded before the financial crisis of 2007–08.[52]
+The legal tender of French Polynesia is the CFP Franc which has a fixed exchange rate with the Euro. The nominal gross domestic product (or GDP) of French Polynesia in 2014 was 5.623 billion U.S. dollars at market local prices, the sixth-largest economy in Oceania after Australia, New Zealand, Hawaii, New Caledonia, and Papua New Guinea.[51] The GDP per capita was $20,098 in 2014 (at market exchange rates, not at PPP), lower than in Hawaii, Australia, New Zealand, and New Caledonia, but higher than all the independent insular states of Oceania. Both per capita and total figures were significantly lower than those recorded before the financial crisis of 2007–08.[52]
 
 French Polynesia has a moderately developed economy, which is dependent on imported goods, tourism, and the financial assistance of mainland France. Tourist facilities are well developed and are available on the major islands. Main agricultural productions are coconuts (copra), vegetables and fruits. French Polynesia exports noni juice, a high quality vanilla, and the famous black Tahitian pearls which accounted for 55% of exports (in value) in 2008.[53]
 
@@ -215,8 +205,6 @@ In 2017, Alcatel Submarine Networks, a unit of Nokia, launched a massive project
 
 
 Notable people
-
-Painting of _Tahitian Women on the Beach_ by Paul Gauguin|thumb
 
 -   Taïna Barioz (born 1988), World Champion skier representing France.
 -   Michel Bourez (born 1985), professional surfer.

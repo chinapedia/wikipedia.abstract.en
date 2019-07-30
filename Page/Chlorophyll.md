@@ -16,7 +16,7 @@ After initial work done by German chemist Richard Willstätter spanning from 190
 
 Photosynthesis
 
-Chlorophyll_ab_spectra-en.svg spectra of free chlorophyll _a_ (blue) and _b_ (red) in a solvent. The spectra of chlorophyll molecules are slightly modified _in vivo_ depending on specific pigment-protein interactions.]] Chlorophyll is vital for photosynthesis, which allows plants to absorb energy from light.[14]
+spectra of free chlorophyll _a_ (blue) and _b_ (red) in a solvent. The spectra of chlorophyll molecules are slightly modified _in vivo_ depending on specific pigment-protein interactions.]] Chlorophyll is vital for photosynthesis, which allows plants to absorb energy from light.[14]
 
 Chlorophyll molecules are arranged in and around photosystems that are embedded in the thylakoid membranes of chloroplasts.[15] In these complexes, chlorophyll serves three functions. The function of the vast majority of chlorophyll (up to several hundred molecules per photosystem) is to absorb light. Having done so, these same centers execute their second function: the transfer of that light energy by resonance energy transfer to a specific chlorophyll pair in the reaction center of the photosystems. This pair effects the final function of chlorophylls, charge separation, leading to biosynthesis. The two currently accepted photosystem units are photosystem II and photosystem I, which have their own distinct reaction centres, named P680 and P700, respectively. These centres are named after the wavelength (in nanometers) of their red-peak absorption maximum. The identity, function and spectral properties of the types of chlorophyll in each photosystem are distinct and determined by each other and the protein structure surrounding them. Once extracted from the protein into a solvent (such as acetone or methanol),[16][17][18] these chlorophyll pigments can be separated into chlorophyll a and chlorophyll b.
 
@@ -29,7 +29,7 @@ Reaction center chlorophyll–protein complexes are capable of directly absorbin
 
 Chemical structure
 
-Chlorophyll-a-3D-vdW.png Chlorophylls are numerous in types, but all are defined by the presence of a fifth ring beyond the four pyrrole-like rings. Most chlorophylls are classified as chlorins, which are reduced relatives to porphyrins (found in hemoglobin). They share a common biosynthetic pathway with porphyrins, including the precursor uroporphyrinogen III. Unlike hemes, which feature iron at the center of the tetrapyrrole ring, chlorophylls bind magnesium. For the structures depicted in this article, some of the ligands attached to the Mg²⁺ center are omitted for clarity. The chlorin ring can have various side chains, usually including a long phytol chain. The most widely distributed form in terrestrial plants is chlorophyll _a_.
+Chlorophylls are numerous in types, but all are defined by the presence of a fifth ring beyond the four pyrrole-like rings. Most chlorophylls are classified as chlorins, which are reduced relatives to porphyrins (found in hemoglobin). They share a common biosynthetic pathway with porphyrins, including the precursor uroporphyrinogen III. Unlike hemes, which feature iron at the center of the tetrapyrrole ring, chlorophylls bind magnesium. For the structures depicted in this article, some of the ligands attached to the Mg²⁺ center are omitted for clarity. The chlorin ring can have various side chains, usually including a long phytol chain. The most widely distributed form in terrestrial plants is chlorophyll _a_.
 
 The structures of chlorophylls are summarized below:
 
@@ -54,21 +54,21 @@ The structures of chlorophylls are summarized below:
 | Occurrence        | Universal         | Mostly plants     | Various algae  | Various algae  | Cyanobacteria     | Cyanobacteria     |
 +-------------------+-------------------+-------------------+----------------+----------------+-------------------+-------------------+
 
-  -------------------- -------------------- -------------------
-  chlorophyll_a.svg    chlorophyll_b.svg    Chlorophyll_d.svg
-  chlorophyll_c1.svg   chlorophyll_c2.svg   Chlorophyll_f.svg
-  -------------------- -------------------- -------------------
+  -- -- --
+
+
+  -- -- --
 
 When leaves degreen in the process of plant senescence, chlorophyll is converted to a group of colourless tetrapyrroles known as NONFLUORESCENT CHLOROPHYLL CATABOLITES (NCC's) with the general structure:
 
-    Nonfluorescent chlorophyll catabolites
+
 
 These compounds have also been identified in several ripening fruits.[20]
 
 
 Measurement of chlorophyll content
 
-Chlorophyll_Extraktion.jpg Measurement of the absorption of light is complicated by the solvent used to extract the chlorophyll from plant material, which affects the values obtained,
+Measurement of the absorption of light is complicated by the solvent used to extract the chlorophyll from plant material, which affects the values obtained,
 
 -   In diethyl ether, chlorophyll _a_ has approximate absorbance maxima of 430 nm and 662 nm, while chlorophyll _b_ has approximate maxima of 453 nm and 642 nm.[21]
 -   The absorption peaks of chlorophyll _a_ are at 465 nm and 665 nm. Chlorophyll _a_ fluoresces at 673 nm (maximum) and 726 nm. The peak molar absorption coefficient of chlorophyll _a_ exceeds 10⁵ M^(−1) cm^(−1), which is among the highest for small-molecule organic compounds.[22]
@@ -90,7 +90,7 @@ Chlorosis is a condition in which leaves produce insufficient chlorophyll, turni
 
 Complementary light absorbance of anthocyanins with chlorophylls
 
-Spectra_Chlorophyll_ab_oenin_(1).PNG (malvidin 3O glucoside), a typical anthocyanidin, showing that, while chlorophylls absorb in the blue and yellow/red parts of the visible spectrum, oenin absorbs mainly in the green part of the spectrum, where chlorophylls don't absorb at all.]] Anthocyanins are other plant pigments. The absorbance pattern responsible for the red color of anthocyanins may be complementary to that of green chlorophyll in photosynthetically active tissues such as young _Quercus coccifera_ leaves. It may protect the leaves from attacks by plant eaters that may be attracted by green color.[28]
+(malvidin 3O glucoside), a typical anthocyanidin, showing that, while chlorophylls absorb in the blue and yellow/red parts of the visible spectrum, oenin absorbs mainly in the green part of the spectrum, where chlorophylls don't absorb at all.]] Anthocyanins are other plant pigments. The absorbance pattern responsible for the red color of anthocyanins may be complementary to that of green chlorophyll in photosynthetically active tissues such as young _Quercus coccifera_ leaves. It may protect the leaves from attacks by plant eaters that may be attracted by green color.[28]
 
 
 Distribution

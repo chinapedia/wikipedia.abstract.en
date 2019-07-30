@@ -1,4 +1,4 @@
-Athen_Metro_Kifisia.jpg, the oldest urban rapid transit system of Athens metropolitan area]]
+, the oldest urban rapid transit system of Athens metropolitan area]]
 
 TRANSPORT IN GREECE have undergone significant changes in the past two decades, vastly modernizing the country's infrastructure and transportation. Although ferry transport between islands remains the prominent method of transport between the nation's islands, improvements to the road infrastructure, rail, urban transport, and airports have all led to a vast improvement in transportation. These upgrades have played a key role in supporting Greece's economy, which in the past decade has come to rely heavily on the construction industry.
 
@@ -16,7 +16,7 @@ The state owned company that owns and maintains Greece's railway network is call
 
 Metro
 
-AMEL_1st_Generation_Stock_C21_at_Syngrou-Fix_Station.jpg]]
+]]
 
 Cities with a rapid transit railway network:
 
@@ -25,7 +25,7 @@ Cities with a rapid transit railway network:
 
 Commuter Rail
 
-20070606-Piraeus-Desiro_GTW.jpg commuter rail]]
+commuter rail]]
 
 Cities with a commuter rail network (Proastiakos):
 
@@ -35,7 +35,7 @@ Cities with a commuter rail network (Proastiakos):
 
 Tram
 
-Athens_tram_Syntagma.JPG]]
+]]
 
 -   Athens Tram
 -   List of town tramway systems in Greece
@@ -45,7 +45,7 @@ Road transport
 
 Highways
 
-A2_Motorway,_Greece_-_Section_Ioannina-Driskos_-_Driskos-Tunnel,_southern_entry_-_03.jpg) motorway]] MoreasMotorway.JPG Attiki-odos1.jpg, near the Athens International Airport]]
+) motorway]] , near the Athens International Airport]]
 
 -   As of 2017, Greece has 2500 km of motorways.
 
@@ -60,7 +60,7 @@ Bus transport
 
 Urban bus transport
 
-20090412-Piraeus-FIAT-704.JPG, Piraeus-Kastella line]]
+, Piraeus-Kastella line]]
 
 -   OSY (Formerly ETHEL and ILPAP) subsidiary of OASA organizes mass bus (Busses and trolleybuses) transit in Athens
 -   OASTH organizes mass bus transit in Thessaloniki.
@@ -74,8 +74,6 @@ KTEL is the common name for every company which is responsible for intercity and
 Water transport
 
 Waterways
-
-Le_port_de_Patras_en_août_2009_-_3.jpg
 
 The 80 km system consists of three coastal canals including the Corinth Canal (6 km) and three unconnected rivers.
 
@@ -146,7 +144,7 @@ Merchant Marine
 
 Airports
 
-Thessaloniki_International_Airport.JPG]]
+]]
 
 -   total: 82 (2005)
 -   With paved runways: 67

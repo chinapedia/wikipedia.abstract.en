@@ -9,7 +9,7 @@ On the domestic front, Eisenhower was a moderate conservative who continued New 
 
 Family background
 
-Eisenhower_House.jpg]] The Eisenhauer (German for "iron hewer/miner") family migrated from Karlsbrunn in Nassau-Saarbrücken, to America, first settling in York, Pennsylvania, in 1741, and in the 1880s moving to Kansas.[4] Accounts vary as to how and when the German name Eisenhauer was anglicized to Eisenhower.[5] Eisenhower's Pennsylvania Dutch ancestors, who were primarily farmers, included Hans Nikolaus Eisenhauer of Karlsbrunn, who migrated to Lancaster, Pennsylvania, in 1741.[6]
+]] The Eisenhauer (German for "iron hewer/miner") family migrated from Karlsbrunn in Nassau-Saarbrücken, to America, first settling in York, Pennsylvania, in 1741, and in the 1880s moving to Kansas.[4] Accounts vary as to how and when the German name Eisenhauer was anglicized to Eisenhower.[5] Eisenhower's Pennsylvania Dutch ancestors, who were primarily farmers, included Hans Nikolaus Eisenhauer of Karlsbrunn, who migrated to Lancaster, Pennsylvania, in 1741.[6]
 
 Hans's great-great-grandson, David Jacob Eisenhower (1863–1942), was Eisenhower's father and was a college-educated engineer, despite his own father Jacob's urging to stay on the family farm. Eisenhower's mother, Ida Elizabeth (Stover) Eisenhower, born in Virginia, of German Protestant ancestry, moved to Kansas from Virginia. She married David on September 23, 1885, in Lecompton, Kansas, on the campus of their alma mater, Lane University.[7]
 
@@ -30,7 +30,7 @@ Eisenhower attended Abilene High School and graduated with the class of 1909.[21
 
 Edgar took the first turn at school, and Dwight was employed as a night supervisor at the Belle Springs Creamery.[24] When Edgar asked for a second year, Dwight consented and worked for a second year. At that time, a friend "Swede" Hazlett was applying to the Naval Academy and urged Dwight to apply to the school, since no tuition was required. Eisenhower requested consideration for either Annapolis or West Point with his U.S. Senator, Joseph L. Bristow. Though Eisenhower was among the winners of the entrance-exam competition, he was beyond the age limit for the Naval Academy.[25] He then accepted an appointment to West Point in 1911.[26]
 
-Eisenhower_Football.jpg (second from right) were members of the 1912 West Point football team.]]
+(second from right) were members of the 1912 West Point football team.]]
 
 At West Point, Eisenhower relished the emphasis on traditions and on sports, but was less enthusiastic about the hazing, though he willingly accepted it as a plebe. He was also a regular violator of the more detailed regulations, and finished school with a less than stellar discipline rating. Academically, Eisenhower's best subject by far was English. Otherwise, his performance was average, though he thoroughly enjoyed the typical emphasis of engineering on science and mathematics.[27]
 
@@ -44,8 +44,6 @@ Personal life
 While Eisenhower was stationed in Texas, he met Mamie Doud of Boone, Iowa. They were immediately taken with each other. He proposed to her on Valentine's Day in 1916.[35] A November wedding date in Denver was moved up to July 1 due to the pending U.S. entry into World War I. They moved many times during their first 35 years of marriage.[36]
 
 The Eisenhowers had two sons. Doud Dwight "Icky" Eisenhower (1917–1921) died of scarlet fever at the age of three.[37] Eisenhower was mostly reticent to discuss his death. Their second son, John Eisenhower (1922–2013), was born in Denver, Colorado.[38] John served in the United States Army, retired as a brigadier general, became an author and served as U.S. Ambassador to Belgium from 1969 to 1971. Coincidentally, John graduated from West Point on D-Day, June 6, 1944. He married Barbara Jean Thompson on June 10, 1947. John and Barbara had four children: David, Barbara Ann, Susan Elaine and Mary Jean. David, after whom Camp David is named,[39] married Richard Nixon's daughter Julie in 1968.
-
-Mamie_eisenhower.gif
 
 Eisenhower was a golf enthusiast later in life, and he joined the Augusta National Golf Club in 1948.[40] He played golf frequently during and after his presidency and was unreserved in expressing his passion for the game, to the point of golfing during winter; he ordered his golf balls painted black so he could see them better against snow on the ground. He had a small, basic golf facility installed at Camp David, and became close friends with the Augusta National Chairman Clifford Roberts, inviting Roberts to stay at the White House on several occasions. Roberts, an investment broker, also handled the Eisenhower family's investments. Roberts also advised Eisenhower on tax aspects of publishing his memoirs, which proved financially lucrative.[41]
 
@@ -64,7 +62,7 @@ Once again his spirits were raised when the unit under his command received orde
 
 In service of generals
 
-Eisenhower_transcontinental_military_convoy.jpg After the war, Eisenhower reverted to his regular rank of captain and a few days later was promoted to major, a rank he held for 16 years.[55] The major was assigned in 1919 to a transcontinental Army convoy to test vehicles and dramatize the need for improved roads in the nation. Indeed, the convoy averaged only 5 mph from Washington, D.C., to San Francisco; later the improvement of highways became a signature issue for Eisenhower as President.[56]
+After the war, Eisenhower reverted to his regular rank of captain and a few days later was promoted to major, a rank he held for 16 years.[55] The major was assigned in 1919 to a transcontinental Army convoy to test vehicles and dramatize the need for improved roads in the nation. Indeed, the convoy averaged only 5 mph from Washington, D.C., to San Francisco; later the improvement of highways became a signature issue for Eisenhower as President.[56]
 
 He assumed duties again at Camp Meade, Maryland, commanding a battalion of tanks, where he remained until 1922. His schooling continued, focused on the nature of the next war and the role of the tank in it. His new expertise in tank warfare was strengthened by a close collaboration with George S. Patton, Sereno E. Brett, and other senior tank leaders. Their leading-edge ideas of speed-oriented offensive tank warfare were strongly discouraged by superiors, who considered the new approach too radical and preferred to continue using tanks in a strictly supportive role for the infantry. Eisenhower was even threatened with court-martial for continued publication of these proposed methods of tank deployment, and he relented.[57][58]
 
@@ -89,13 +87,13 @@ At the end of May 1942, Eisenhower accompanied Lt. Gen. Henry H. Arnold, command
 
 Operations Torch and Avalanche
 
-Major_General_Dwight_Eisenhower,_1942_TR207.jpg, 1942]]
+, 1942]]
 
 In November 1942, Eisenhower was also appointed Supreme Commander Allied Expeditionary Force of the North African Theater of Operations (NATOUSA) through the new operational Headquarters Allied (Expeditionary) Force Headquarters (A(E)FHQ). The word "expeditionary" was dropped soon after his appointment for security reasons. The campaign in North Africa was designated Operation Torch and was planned underground within the Rock of Gibraltar. Eisenhower was the first non-British person to command Gibraltar in 200 years.[80]
 
 French cooperation was deemed necessary to the campaign, and Eisenhower encountered a "preposterous situation" with the multiple rival factions in France. His primary objective was to move forces successfully into Tunisia, and intending to facilitate that objective, he gave his support to François Darlan as High Commissioner in North Africa, despite Darlan's previous high offices of state in Vichy France and his continued role as commander-in-chief of the French armed forces. The Allied leaders were "thunderstruck" by this from a political standpoint, though none of them had offered Eisenhower guidance with the problem in the course of planning the operation. Eisenhower was severely criticized for the move. Darlan was assassinated on December 24 by Fernand Bonnier de La Chapelle. Eisenhower did not take action to prevent the arrest and extrajudicial execution of Bonnier de La Chapelle by associates of Darlan acting without authority from either Vichy or the Allies, considering it a criminal rather than a military matter.[81] Eisenhower later appointed, as High Commissioner, General Henri Giraud, who had been installed by the Allies as Darlan's commander-in-chief, and who had refused to postpone the execution.[82]
 
-Franklin_D._Roosevelt,_General_Eisenhower,_and_General_Patton_in_Castelvetrano,_Sicily_-_NARA_-_196611.jpg (standing to the left) and President Roosevelt in Sicily, 1943]]
+(standing to the left) and President Roosevelt in Sicily, 1943]]
 
 Operation Torch also served as a valuable training ground for Eisenhower's combat command skills; during the initial phase of _Generalfeldmarschall_ Erwin Rommel's move into the Kasserine Pass, Eisenhower created some confusion in the ranks by some interference with the execution of battle plans by his subordinates. He also was initially indecisive in his removal of Lloyd Fredendall, commanding U.S. II Corps. He became more adroit in such matters in later campaigns.[83] In February 1943, his authority was extended as commander of AFHQ across the Mediterranean basin to include the British Eighth Army, commanded by General Sir Bernard Montgomery. The Eighth Army had advanced across the Western Desert from the east and was ready for the start of the Tunisia Campaign. Eisenhower gained his fourth star and gave up command of ETOUSA to become commander of NATOUSA.
 
@@ -105,11 +103,9 @@ Supreme Allied commander and Operation Overlord
 
 In December 1943, President Roosevelt decided that Eisenhower – not Marshall – would be Supreme Allied Commander in Europe. The following month, he resumed command of ETOUSA and the following month was officially designated as the Supreme Allied Commander of the Allied Expeditionary Force (SHAEF), serving in a dual role until the end of hostilities in Europe in May 1945.[85] He was charged in these positions with planning and carrying out the Allied assault on the coast of Normandy in June 1944 under the code name Operation Overlord, the liberation of Western Europe and the invasion of Germany.
 
-Eisenhower_d-day.jpg, part of the 101st Airborne Division, on June 5, 1944, the day before the D-Day invasion.]]
+, part of the 101st Airborne Division, on June 5, 1944, the day before the D-Day invasion.]]
 
 Eisenhower, as well as the officers and troops under him, had learned valuable lessons in their previous operations, and their skills had all strengthened in preparation for the next most difficult campaign against the Germans—a beach landing assault. His first struggles, however, were with Allied leaders and officers on matters vital to the success of the Normandy invasion; he argued with Roosevelt over an essential agreement with De Gaulle to use French resistance forces in covert and sabotage operations against the Germans in advance of Overlord.[86] Admiral Ernest J. King fought with Eisenhower over King's refusal to provide additional landing craft from the Pacific.[87] Eisenhower also insisted that the British give him exclusive command over all strategic air forces to facilitate Overlord, to the point of threatening to resign unless Churchill relented, which he did.[88] Eisenhower then designed a bombing plan in France in advance of Overlord and argued with Churchill over the latter's concern with civilian casualties; de Gaulle interjected that the casualties were justified in shedding the yoke of the Germans, and Eisenhower prevailed.[89] He also had to skillfully manage to retain the services of the often unruly George S. Patton, by severely reprimanding him when Patton earlier had slapped a subordinate, and then when Patton gave a speech in which he made improper comments about postwar policy.[90]
-
-American_World_War_II_senior_military_officials,_1945.JPEG
 
 The D-Day Normandy landings on June 6, 1944, were costly but successful. Two months later (August 15), the invasion of Southern France took place, and control of forces in the southern invasion passed from the AFHQ to the SHAEF. Many thought that victory in Europe would come by summer's end, but the Germans did not capitulate for almost a year. From then until the end of the war in Europe on May 8, 1945, Eisenhower, through SHAEF, commanded all Allied forces, and through his command of ETOUSA had administrative command of all U.S. forces on the Western Front north of the Alps. He was ever mindful of the inevitable loss of life and suffering that would be experienced on an individual level by the troops under his command and their families. This prompted him to make a point of visiting every division involved in the invasion.[91] Eisenhower's sense of responsibility was underscored by his draft of a statement to be issued if the invasion failed. It has been called one of the great speeches of history:
 
@@ -117,11 +113,9 @@ The D-Day Normandy landings on June 6, 1944, were costly but successful. Two mon
 
 Liberation of France and victory in Europe
 
-Allied_Commanders_after_Germany_Surrendered.jpg at Reims]]
+at Reims]]
 
 Once the coastal assault had succeeded, Eisenhower insisted on retaining personal control over the land battle strategy, and was immersed in the command and supply of multiple assaults through France on Germany. Field Marshal Montgomery insisted priority be given to his 21st Army Group's attack being made in the north, while Generals Bradley (12th U.S. Army Group) and Devers (Sixth U.S. Army Group) insisted they be given priority in the center and south of the front (respectively). Eisenhower worked tirelessly to address the demands of the rival commanders to optimize Allied forces, often by giving them tactical latitude; many historians conclude this delayed the Allied victory in Europe. However, due to Eisenhower's persistence, the pivotal supply port at Antwerp was successfully, albeit belatedly, opened in late 1944, and victory became a more distinct probability.[93]
-
-Dwight_D._Eisenhower_as_General_of_the_Army_crop.jpg
 
 In recognition of his senior position in the Allied command, on December 20, 1944, he was promoted to General of the Army, equivalent to the rank of Field Marshal in most European armies. In this and the previous high commands he held, Eisenhower showed his great talents for leadership and diplomacy. Although he had never seen action himself, he won the respect of front-line commanders. He interacted adeptly with allies such as Winston Churchill, Field Marshal Bernard Montgomery and General Charles de Gaulle. He had serious disagreements with Churchill and Montgomery over questions of strategy, but these rarely upset his relationships with them. He dealt with Soviet Marshal Zhukov, his Russian counterpart, and they became good friends.[94]
 
@@ -134,9 +128,9 @@ After World War II
 
 Military Governor in Germany and Army Chief of Staff
 
-American_Sector_Germany.png from May through November 1945]] Following the German unconditional surrender, Eisenhower was appointed military governor of the American occupation zone, located primarily in Southern Germany, and headquartered at the IG Farben Building in Frankfurt am Main. Upon discovery of the Nazi concentration camps, he ordered camera crews to document evidence of the atrocities in them for use in the Nuremberg Trials. He reclassified German prisoners of war (POWs) in U.S. custody as Disarmed Enemy Forces (DEFs), who were no longer subject to the Geneva Convention. Eisenhower followed the orders laid down by the Joint Chiefs of Staff (JCS) in directive JCS 1067, but softened them by bringing in 400,000 tons of food for civilians and allowing more fraternization.[98][99][100] In response to the devastation in Germany, including food shortages and an influx of refugees, he arranged distribution of American food and medical equipment.[101] His actions reflected the new American attitudes of the German people as Nazi victims not villains, while aggressively purging the ex-Nazis.[102][103]
+from May through November 1945]] Following the German unconditional surrender, Eisenhower was appointed military governor of the American occupation zone, located primarily in Southern Germany, and headquartered at the IG Farben Building in Frankfurt am Main. Upon discovery of the Nazi concentration camps, he ordered camera crews to document evidence of the atrocities in them for use in the Nuremberg Trials. He reclassified German prisoners of war (POWs) in U.S. custody as Disarmed Enemy Forces (DEFs), who were no longer subject to the Geneva Convention. Eisenhower followed the orders laid down by the Joint Chiefs of Staff (JCS) in directive JCS 1067, but softened them by bringing in 400,000 tons of food for civilians and allowing more fraternization.[98][99][100] In response to the devastation in Germany, including food shortages and an influx of refugees, he arranged distribution of American food and medical equipment.[101] His actions reflected the new American attitudes of the German people as Nazi victims not villains, while aggressively purging the ex-Nazis.[102][103]
 
-General_Dwight_Eisenhower_in_Warsaw,_1945.jpg In November 1945, Eisenhower returned to Washington to replace Marshall as Chief of Staff of the Army. His main role was rapid demobilization of millions of soldiers, a job that was delayed by lack of shipping. Eisenhower was convinced in 1946 that the Soviet Union did not want war and that friendly relations could be maintained; he strongly supported the new United Nations and favored its involvement in the control of atomic bombs. However, in formulating policies regarding the atomic bomb and relations with the Soviets, Truman was guided by the U.S. State Department and ignored Eisenhower and the Pentagon. Indeed, Eisenhower had opposed the use of the atomic bomb against the Japanese, writing, "First, the Japanese were ready to surrender and it wasn't necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon."[104] Initially, Eisenhower hoped for cooperation with the Soviets.[105] He even visited Warsaw in 1945. Invited by Bolesław Bierut and decorated with the highest military decoration, he was shocked by the scale of destruction in the city.[106] However, by mid-1947, as East–West tensions over economic recovery in Germany and the Greek Civil War escalated, Eisenhower agreed with a containment policy to stop Soviet expansion.[107]
+In November 1945, Eisenhower returned to Washington to replace Marshall as Chief of Staff of the Army. His main role was rapid demobilization of millions of soldiers, a job that was delayed by lack of shipping. Eisenhower was convinced in 1946 that the Soviet Union did not want war and that friendly relations could be maintained; he strongly supported the new United Nations and favored its involvement in the control of atomic bombs. However, in formulating policies regarding the atomic bomb and relations with the Soviets, Truman was guided by the U.S. State Department and ignored Eisenhower and the Pentagon. Indeed, Eisenhower had opposed the use of the atomic bomb against the Japanese, writing, "First, the Japanese were ready to surrender and it wasn't necessary to hit them with that awful thing. Second, I hated to see our country be the first to use such a weapon."[104] Initially, Eisenhower hoped for cooperation with the Soviets.[105] He even visited Warsaw in 1945. Invited by Bolesław Bierut and decorated with the highest military decoration, he was shocked by the scale of destruction in the city.[106] However, by mid-1947, as East–West tensions over economic recovery in Germany and the Greek Civil War escalated, Eisenhower agreed with a containment policy to stop Soviet expansion.[107]
 
 1948 presidential election
 
@@ -146,7 +140,7 @@ As the election approached, other prominent citizens and politicians from both p
 
 President at Columbia University and NATO Supreme Commander
 
-Bundesarchiv_Bild_183-14059-0018,_Berlin,_Oberbefehlshaber_der_vier_Verbündeten.jpg on June 5, 1945, in Berlin: Bernard Montgomery, Dwight D. Eisenhower, Georgy Zhukov and Jean de Lattre de Tassigny]] In 1948 Eisenhower became President of Columbia University, an Ivy League university in New York City, where he was inducted into Phi Beta Kappa.[111] The assignment was described as not being a good fit in either direction.[112] During that year Eisenhower's memoir, _Crusade in Europe_, was published.[113] Critics regarded it as one of the finest U.S. military memoirs, and it was a major financial success as well. Eisenhower's profit on the book was substantially aided by an unprecedented ruling by the U.S. Department of the Treasury that Eisenhower was not a professional writer, but rather, marketing the lifetime asset of his experiences, and thus he had to pay only capital gains tax on his $635,000 advance instead of the much higher personal tax rate. This ruling saved Eisenhower about $400,000.[114]
+on June 5, 1945, in Berlin: Bernard Montgomery, Dwight D. Eisenhower, Georgy Zhukov and Jean de Lattre de Tassigny]] In 1948 Eisenhower became President of Columbia University, an Ivy League university in New York City, where he was inducted into Phi Beta Kappa.[111] The assignment was described as not being a good fit in either direction.[112] During that year Eisenhower's memoir, _Crusade in Europe_, was published.[113] Critics regarded it as one of the finest U.S. military memoirs, and it was a major financial success as well. Eisenhower's profit on the book was substantially aided by an unprecedented ruling by the U.S. Department of the Treasury that Eisenhower was not a professional writer, but rather, marketing the lifetime asset of his experiences, and thus he had to pay only capital gains tax on his $635,000 advance instead of the much higher personal tax rate. This ruling saved Eisenhower about $400,000.[114]
 
 Eisenhower's stint as the president of Columbia University was punctuated by his activity within the Council on Foreign Relations, a study group he led as president concerning the political and military implications of the Marshall Plan, and The American Assembly, Eisenhower's "vision of a great cultural center where business, professional and governmental leaders could meet from time to time to discuss and reach conclusions concerning problems of a social and political nature". His biographer Blanche Wiesen Cook suggested that this period served as "the political education of General Eisenhower", since he had to prioritize wide-ranging educational, administrative, and financial demands for the university. Through his involvement in the Council on Foreign Relations, he also gained exposure to economic analysis, which would become the bedrock of his understanding in economic policy. "Whatever General Eisenhower knows about economics, he has learned at the study group meetings," one Aid to Europe member claimed.
 
@@ -168,7 +162,7 @@ At home, Eisenhower was more effective in making the case for NATO in Congress t
 
 Presidential campaign of 1952
 
-I_Like_Ike_button,_1952.png President Truman, symbolizing a broad-based desire for an Eisenhower candidacy for president, again in 1951 pressed him to run for the office as a Democrat. It was at this time that Eisenhower voiced his disagreements with the Democratic Party and declared himself and his family to be Republicans.[118] A "Draft Eisenhower" movement in the Republican Party persuaded him to declare his candidacy in the 1952 presidential election to counter the candidacy of non-interventionist Senator Robert A. Taft. The effort was a long struggle; Eisenhower had to be convinced that political circumstances had created a genuine duty for him to offer himself as a candidate, and that there was a mandate from the populace for him to be their President. Henry Cabot Lodge, who served as his campaign manager, and others succeeded in convincing him, and in June 1952 he resigned his command at NATO to campaign full-time.[119] Eisenhower defeated Taft for the nomination, having won critical delegate votes from Texas. Eisenhower's campaign was noted for the simple but effective slogan, "I Like Ike". It was essential to his success that Eisenhower express opposition to Roosevelt's policy at Yalta and against Truman's policies in Korea and China—matters in which he had once participated.[120][121] In defeating Taft for the nomination, it became necessary for Eisenhower to appease the right wing Old Guard of the Republican Party; his selection of Richard Nixon as the Vice-President on the ticket was designed in part for that purpose. Nixon also provided a strong anti-communist presence as well as some youth to counter Ike's more advanced age.[122] ElectoralCollege1952.svg
+President Truman, symbolizing a broad-based desire for an Eisenhower candidacy for president, again in 1951 pressed him to run for the office as a Democrat. It was at this time that Eisenhower voiced his disagreements with the Democratic Party and declared himself and his family to be Republicans.[118] A "Draft Eisenhower" movement in the Republican Party persuaded him to declare his candidacy in the 1952 presidential election to counter the candidacy of non-interventionist Senator Robert A. Taft. The effort was a long struggle; Eisenhower had to be convinced that political circumstances had created a genuine duty for him to offer himself as a candidate, and that there was a mandate from the populace for him to be their President. Henry Cabot Lodge, who served as his campaign manager, and others succeeded in convincing him, and in June 1952 he resigned his command at NATO to campaign full-time.[119] Eisenhower defeated Taft for the nomination, having won critical delegate votes from Texas. Eisenhower's campaign was noted for the simple but effective slogan, "I Like Ike". It was essential to his success that Eisenhower express opposition to Roosevelt's policy at Yalta and against Truman's policies in Korea and China—matters in which he had once participated.[120][121] In defeating Taft for the nomination, it became necessary for Eisenhower to appease the right wing Old Guard of the Republican Party; his selection of Richard Nixon as the Vice-President on the ticket was designed in part for that purpose. Nixon also provided a strong anti-communist presence as well as some youth to counter Ike's more advanced age.[122]
 
 In the general election, against the advice of his advisers, Eisenhower insisted on campaigning in the South, refusing to surrender the region to the Democratic Party. The campaign strategy, dubbed "K₁C₂", was to focus on attacking the Truman and Roosevelt administrations on three issues: Korea, Communism and corruption. In an effort to accommodate the right, he stressed that the liberation of Eastern Europe should be by peaceful means only; he also distanced himself from his former boss President Truman.
 
@@ -180,7 +174,7 @@ Eisenhower was the last president born in the 19th century, and at age 62, was t
 
 Election of 1956
 
-ElectoralCollege1956.svg The United States presidential election of 1956 was held on November 6, 1956. Eisenhower, the popular incumbent, successfully ran for re-election. The election was a re-match of 1952, as his opponent in 1956 was Stevenson, a former Illinois governor, whom Eisenhower had defeated four years earlier. Compared to the 1952 election, Eisenhower gained Kentucky, Louisiana, and West Virginia from Stevenson, while losing Missouri. His voters were less likely to bring up his leadership record. Instead what stood out this time, "was the response to personal qualities— to his sincerity, his integrity and sense of duty, his virtue as a family man, his religious devotion, and his sheer likeableness."[128]
+The United States presidential election of 1956 was held on November 6, 1956. Eisenhower, the popular incumbent, successfully ran for re-election. The election was a re-match of 1952, as his opponent in 1956 was Stevenson, a former Illinois governor, whom Eisenhower had defeated four years earlier. Compared to the 1952 election, Eisenhower gained Kentucky, Louisiana, and West Virginia from Stevenson, while losing Missouri. His voters were less likely to bring up his leadership record. Instead what stood out this time, "was the response to personal qualities— to his sincerity, his integrity and sense of duty, his virtue as a family man, his religious devotion, and his sheer likeableness."[128]
 
 
 Presidency (1953–1961)
@@ -189,7 +183,7 @@ Due to a complete estrangement between the two as a result of campaigning, Truma
 
 Prior to his inauguration, Eisenhower led a meeting of advisors at Pearl Harbor addressing foremost issues; agreed objectives were to balance the budget during his term, to bring the Korean War to an end, to defend vital interests at lower cost through nuclear deterrent, and to end price and wage controls.[132] Eisenhower also conducted the first pre-inaugural cabinet meeting in history in late 1952; he used this meeting to articulate his anti-communist Russia policy. His inaugural address was also exclusively devoted to foreign policy and included this same philosophy as well as a commitment to foreign trade and the United Nations.[133]
 
-Dwight_D._Eisenhower,_White_House_photo_portrait,_February_1959.jpg Eisenhower made greater use of press conferences than any previous president, holding almost 200 over his two terms. While he saw the benefit of maintaining a good relationship with the press, he saw more value in them as a means of direct communication with the American people.[134]
+Eisenhower made greater use of press conferences than any previous president, holding almost 200 over his two terms. While he saw the benefit of maintaining a good relationship with the press, he saw more value in them as a means of direct communication with the American people.[134]
 
 Throughout his presidency, Eisenhower adhered to a political philosophy of dynamic conservatism.[135] A self-described "progressive conservative"[136] who used terms like "progressive moderate" and "dynamic conservatism" to describe his approach,[137] he continued all the major New Deal programs still in operation, especially Social Security. He expanded its programs and rolled them into a new cabinet-level agency, the Department of Health, Education and Welfare, while extending benefits to an additional ten million workers. He implemented integration in the Armed Services in two years, which had not been completed under Truman.[138]
 
@@ -207,7 +201,7 @@ Eisenhower's goal to create improved highways was influenced by difficulties enc
 
 Foreign policy
 
-Indo_US.jpg]] U.S._President_Eisenhower_visited_TAIWAN_美國總統艾森豪於1960年6月訪問臺灣台北時與蔣中正總統-2.jpg Chiang Kai-shek in Taipei.]] President_Eisenhower_and_Nikita_Khrushchev_1959.jpg during his 11-day U.S. visit as guest of President Eisenhower, September 1959]] In 1953 the Republican Party's Old Guard presented Eisenhower with a dilemma by insisting he disavow the Yalta Agreements as beyond the constitutional authority of the Executive Branch; however, the death of Joseph Stalin in March 1953 made the matter a moot point.[151] At this time Eisenhower gave his Chance for Peace speech in which he attempted, unsuccessfully, to forestall the nuclear arms race with the Soviet Union by suggesting multiple opportunities presented by peaceful uses of nuclear materials. Biographer Stephen Ambrose opined that this was the best speech of Eisenhower's presidency.[152][153]
+]] Chiang Kai-shek in Taipei.]] during his 11-day U.S. visit as guest of President Eisenhower, September 1959]] In 1953 the Republican Party's Old Guard presented Eisenhower with a dilemma by insisting he disavow the Yalta Agreements as beyond the constitutional authority of the Executive Branch; however, the death of Joseph Stalin in March 1953 made the matter a moot point.[151] At this time Eisenhower gave his Chance for Peace speech in which he attempted, unsuccessfully, to forestall the nuclear arms race with the Soviet Union by suggesting multiple opportunities presented by peaceful uses of nuclear materials. Biographer Stephen Ambrose opined that this was the best speech of Eisenhower's presidency.[152][153]
 
 Nevertheless, the Cold War escalated during his presidency. When the Soviet Union successfully tested a hydrogen bomb in late November 1955, Eisenhower, against the advice of Dulles, decided to initiate a disarmament proposal to the Soviets. In an attempt to make their refusal more difficult, he proposed that both sides agree to dedicate fissionable material away from weapons toward peaceful uses, such as power generation. This approach was labeled "Atoms for Peace".[154]
 
@@ -221,7 +215,7 @@ With Eisenhower's leadership and Dulles' direction, CIA activities increased und
 
 Space Race
 
-President_Dwight_D._Eisenhower,_Dr._von_Braun_and_Others.jpg, 1960]] Eisenhower and the CIA had known since at least January 1957, nine months before Sputnik, that Russia had the capability to launch a small payload into orbit and was likely to do so within a year.[172] He may also privately have welcomed the Russian satellite for its legal implications: By launching a satellite, Russia had in effect acknowledged that space was open to anyone who could access it, without needing permission from other nations.
+, 1960]] Eisenhower and the CIA had known since at least January 1957, nine months before Sputnik, that Russia had the capability to launch a small payload into orbit and was likely to do so within a year.[172] He may also privately have welcomed the Russian satellite for its legal implications: By launching a satellite, Russia had in effect acknowledged that space was open to anyone who could access it, without needing permission from other nations.
 
 On the whole, Eisenhower's support of the nation's fledgling space program was officially modest until the Soviet launch of Sputnik in 1957, gaining the Cold War enemy enormous prestige around the world. He then launched a national campaign that funded not just space exploration but a major strengthening of science and higher education. The Eisenhower administration determined to adopt a non-aggressive policy that would allow "space-crafts of any state to overfly all states, a region free of military posturing and launch Earth satellites to explore space".[173] His Open Skies Policy attempted to legitimize illegal Lockheed U-2 flyovers and Project Genetrix while paving the way for spy satellite technology to orbit over sovereign territory,[174] however Nikolai Bulganin and Nikita Khrushchev declined Eisenhower's proposal at the Geneva conference in July 1955.[175] In response to Sputnik being launched in October 1957, Eisenhower created NASA as a civilian space agency in October 1958, signed a landmark science education law, and improved relations with American scientists.[176]
 
@@ -233,7 +227,7 @@ Korean War, Free China and Red China
 
 In late 1952 Eisenhower went to Korea and discovered a military and political stalemate. Once in office, when the Chinese communists began a buildup in the Kaesong sanctuary, he threatened to use nuclear force if an armistice was not concluded. His earlier military reputation in Europe was effective with the Chinese communists.[180] The National Security Council, the Joint Chiefs of Staff, and the Strategic Air Command (SAC) devised detailed plans for nuclear war against Red China.[181] With the death of Stalin in early March 1953, Russian support for a Chinese communists hard-line weakened and Red China decided to compromise on the prisoner issue.[182]
 
-1951_Chung_Baik_Eisenhower.jpg, and Baik Seon-yup, 1952]]
+, and Baik Seon-yup, 1952]]
 
 In July 1953, an armistice took effect with Korea divided along approximately the same boundary as in 1950. The armistice and boundary remain in effect today. The armistice, concluded despite opposition from Secretary Dulles, South Korean President Syngman Rhee, and also within Eisenhower's party, has been described by biographer Ambrose as the greatest achievement of the administration. Eisenhower had the insight to realize that unlimited war in the nuclear age was unthinkable, and limited war unwinnable.[183]
 
@@ -249,7 +243,7 @@ By the end of 1954 Eisenhower's military and foreign policy experts—the NSC, J
 
 The Middle East and Eisenhower doctrine
 
-ShahEisenhower.jpg (1959)]]
+(1959)]]
 
 Even before he was inaugurated Eisenhower accepted a request from the British government to restore the Shah of Iran (Mohammad Reza Pahlavi) to power. He therefore authorized the Central Intelligence Agency to overthrow Prime Minister Mohammad Mosaddegh.[191] This resulted in an increased strategic control over Iranian oil by U.S. and British companies.[192]
 
@@ -257,7 +251,7 @@ In November 1956, Eisenhower forced an end to the combined British, French and I
 
 After the Suez Crisis the United States became the protector of unstable friendly governments in the Middle East via the "Eisenhower Doctrine". Designed by Secretary of State Dulles, it held the U.S. would be "prepared to use armed force ... [to counter] aggression from any country controlled by international communism". Further, the United States would provide economic and military aid and, if necessary, use military force to stop the spread of communism in the Middle East.[195]
 
-Eisenhower_and_Nixon_at_Dinner_with_King_Saud.jpg with their host, King Saud of Saudi Arabia, at the Mayflower Hotel (1957)]]
+with their host, King Saud of Saudi Arabia, at the Mayflower Hotel (1957)]]
 
 Eisenhower applied the doctrine in 1957–58 by dispensing economic aid to shore up the Kingdom of Jordan, and by encouraging Syria's neighbors to consider military operations against it. More dramatically, in July 1958, he sent 15,000 Marines and soldiers to Lebanon as part of Operation Blue Bat, a non-combat peace-keeping mission to stabilize the pro-Western government and to prevent a radical revolution from sweeping over that country.[196]
 
@@ -283,7 +277,7 @@ After the election of November 1960, Eisenhower in briefing with John F. Kennedy
 
 1960 U-2 incident
 
-US_Air_Force_U-2_(2139646280).jpg reconnaissance aircraft in flight]]
+reconnaissance aircraft in flight]]
 
 On May 1, 1960, a U.S. one-man U-2 spy plane was reportedly shot down at high altitude over Soviet Union airspace. The flight was made to gain photo intelligence before the scheduled opening of an East-West summit conference, which had been scheduled in Paris, 15 days later.[212] Captain Francis Gary Powers had bailed out of his aircraft and was captured after parachuting down onto Russian soil. Four days after Powers disappeared, the Eisenhower Administration had NASA issue a very detailed press release noting that an aircraft had "gone missing" north of Turkey. It speculated that the pilot might have fallen unconscious while the autopilot was still engaged, and falsely claimed that "the pilot reported over the emergency frequency that he was experiencing oxygen difficulties."[213]
 
@@ -358,7 +352,7 @@ The last three years of Eisenhower's second term in office were ones of relative
 
 End of presidency
 
-Dwight_D._Eisenhower,_official_Presidential_portrait.jpg portrait of Dwight D. Eisenhower by James Anthony Wills]] The 22nd Amendment to the U.S. Constitution was ratified in 1951, and it set term limits to the presidency of two terms. Truman as the incumbent was not covered. Eisenhower became the first U.S. president constitutionally prevented from running for re-election to a third term.
+portrait of Dwight D. Eisenhower by James Anthony Wills]] The 22nd Amendment to the U.S. Constitution was ratified in 1951, and it set term limits to the presidency of two terms. Truman as the incumbent was not covered. Eisenhower became the first U.S. president constitutionally prevented from running for re-election to a third term.
 
 Eisenhower was also the first outgoing President to come under the protection of the Former Presidents Act; two living former Presidents, Herbert Hoover and Harry S. Truman, left office before the Act was passed. Under the act, Eisenhower was entitled to receive a lifetime pension, state-provided staff and a Secret Service detail.[264]
 
@@ -366,7 +360,7 @@ In the 1960 election to choose his successor, Eisenhower endorsed Nixon over Dem
 
 It was originally intended for President Eisenhower to have a more active role in the campaign as he wanted to respond to attacks Kennedy made on his administration. However, First Lady Mamie Eisenhower expressed concern to Second Lady Pat Nixon about the strain campaigning would put on his heart and wanted the President to back out of it without letting him know of her intervention. Vice President Nixon himself also received concern from White House physician Major General Howard Snyder, who informed him that he could not approve a heavy campaign schedule for the President and his health had been exacerbated by Kennedy's attacks. Nixon then convinced Eisenhower not to go ahead with the expanded campaign schedule and limit himself to the original schedule. Nixon reflected that if Eisenhower had carried out his expanded campaign schedule he might have had a decisive impact on the outcome of the election, especially in states that Kennedy won with razor-thin margins. It was years later before Mamie told Dwight why Nixon changed his mind on Dwight's campaigning.[267]
 
-Eisenhower_farewell_address.ogg On January 17, 1961, Eisenhower gave his final televised Address to the Nation from the Oval Office.[268] In his farewell speech, Eisenhower raised the issue of the Cold War and role of the U.S. armed forces. He described the Cold War: "We face a hostile ideology global in scope, atheistic in character, ruthless in purpose and insidious in method ..." and warned about what he saw as unjustified government spending proposals and continued with a warning that "we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military–industrial complex."[269]
+On January 17, 1961, Eisenhower gave his final televised Address to the Nation from the Oval Office.[268] In his farewell speech, Eisenhower raised the issue of the Cold War and role of the U.S. armed forces. He described the Cold War: "We face a hostile ideology global in scope, atheistic in character, ruthless in purpose and insidious in method ..." and warned about what he saw as unjustified government spending proposals and continued with a warning that "we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military–industrial complex."[269]
 
 He elaborated, "we recognize the imperative need for this development ... the potential for the disastrous rise of misplaced power exists and will persist ... Only an alert and knowledgeable citizenry can compel the proper meshing of the huge industrial and military machinery of defense with our peaceful methods and goals, so that security and liberty may prosper together."[270]
 
@@ -375,7 +369,7 @@ Because of legal issues related to holding a military rank while in a civilian o
 
 Post-presidency, death and funeral
 
-Dwight_Eisenhower_at_1964_RNC_(cropped1).jpg]] LBJ_and_Eisenhower.jpg with Eisenhower aboard Air Force One in October 1965]] Funeral_services_for_Dwight_D._Eisenhower,_March_1969.jpg DDEisenhowerGrave3.jpg
+]] with Eisenhower aboard Air Force One in October 1965]]
 
 Following the presidency, Eisenhower moved to the place where he and Mamie had spent much of their post-war time. The home was a working farm adjacent to the battlefield at Gettysburg, Pennsylvania, 70 miles from his ancestral home in Elizabethville, Dauphin County, Pennsylvania.[273][274] They also maintained a retirement home in Palm Desert, California.[275] In 1967 the Eisenhowers donated the Gettysburg farm to the National Park Service.
 
@@ -398,7 +392,7 @@ Historian John Lewis Gaddis has summarized a more recent turnaround in evaluatio
 
   Historians long ago abandoned the view that Eisenhower's was a failed presidency. He did, after all, end the Korean War without getting into any others. He stabilized, and did not escalate, the Soviet–American rivalry. He strengthened European alliances while withdrawing support from European colonialism. He rescued the Republican Party from isolationism and McCarthyism. He maintained prosperity, balanced the budget, promoted technological innovation, facilitated (if reluctantly) the civil rights movement and warned, in the most memorable farewell address since Washington's, of a "military–industrial complex" that could endanger the nation's liberties. Not until Reagan would another president leave office with so strong a sense of having accomplished what he set out to do.[288]
 
-72-901-1_HR7786_Veterans_Day_June_1_1954.jpg to Veterans Day, June 1, 1954]] Meeting_with_President_Eisenhower._President_Kennedy,_President_Eisenhower,_military_aides._Camp_David,_MD._-_NARA_-_194198.jpg meets with Eisenhower at Camp David, April 22, 1961, three days after the failed Bay of Pigs Invasion]]
+to Veterans Day, June 1, 1954]] meets with Eisenhower at Camp David, April 22, 1961, three days after the failed Bay of Pigs Invasion]]
 
 Although conservatism in politics was strong during the 1950s, and Eisenhower generally espoused conservative sentiments, his administration concerned itself mostly with foreign affairs (an area in which the career-military president had more knowledge) and pursued a hands-off domestic policy. Eisenhower looked to moderation and cooperation as a means of governance.[289]
 
@@ -418,7 +412,7 @@ The development of the appreciation medals was initiated by the White House and 
 
 Tributes and memorials
 
-upright=1.15, Texas]] Eisenhower_bronze.jpg in the Capitol rotunda[300]]]
+upright=1.15, Texas]] in the Capitol rotunda[300]]]
 
 The Interstate Highway System is officially known as the "Dwight D. Eisenhower National System of Interstate and Defense Highways" in his honor. It was inspired in part by Eisenhower's own Army experiences in World War II, where he recognized the advantages of the autobahn system in Germany.[301] Commemorative signs reading "Eisenhower Interstate System" and bearing Eisenhower's permanent 5-star rank insignia were introduced in 1993 and now are displayed throughout the Interstate System. Several highways are also named for him, including the Eisenhower Expressway (Interstate 290) near Chicago. the Eisenhower Tunnel on Interstate 70 west of Denver, and Interstate 80 in California.[302]
 
@@ -435,7 +429,7 @@ In December 1999 he was listed on Gallup's List of Most Widely Admired People of
 
 Awards and decorations
 
-Orden-Pobeda-Marshal_Vasilevsky.jpg awarded to Eisenhower[309]]] Coat_of_Arms_of_Dwight_Eisenhower.svg granted to Eisenhower upon his incorporation as a knight of the Danish Order of the Elephant in 1950.[310] The anvil represents the fact that his name is derived from the German for "iron hewer".]]
+awarded to Eisenhower[309]]] granted to Eisenhower upon his incorporation as a knight of the Danish Order of the Elephant in 1950.[310] The anvil represents the fact that his name is derived from the German for "iron hewer".]]
 
 +---------------------------------------+
 | U.S. MILITARY DECORATIONS             |
@@ -524,7 +518,7 @@ Orden-Pobeda-Marshal_Vasilevsky.jpg awarded to Eisenhower[309]]] Coat_of_Arms_of
 +---------------------------------------+
 |                                       |
 +---------------------------------------+
-| LUX_Military_Medal_ribbon.PNG         |
+|                                       |
 +---------------------------------------+
 |                                       |
 +---------------------------------------+
@@ -583,43 +577,43 @@ Promotions
 +-------------------------+--------------------------------------------------------------------------+
 | No pin insignia in 1915 | Second Lieutenant, Regular Army: June 12, 1915                           |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O2_insignia.svg      | First Lieutenant, Regular Army: July 1, 1916                             |
+|                         | First Lieutenant, Regular Army: July 1, 1916                             |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O3_insignia.svg      | Captain, Regular Army: May 15, 1917                                      |
+|                         | Captain, Regular Army: May 15, 1917                                      |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O4_insignia.svg      | Major, National Army: June 17, 1918                                      |
+|                         | Major, National Army: June 17, 1918                                      |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O5_insignia.svg      | Lieutenant Colonel, National Army: October 20, 1918                      |
+|                         | Lieutenant Colonel, National Army: October 20, 1918                      |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O3_insignia.svg      | Captain, Regular Army: June 30, 1920                                     |
+|                         | Captain, Regular Army: June 30, 1920                                     |
 |                         | (Reverted to permanent rank.)                                            |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O4_insignia.svg      | Major, Regular Army: July 2, 1920                                        |
+|                         | Major, Regular Army: July 2, 1920                                        |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O3_insignia.svg      | Captain, Regular Army: November 4, 1922                                  |
+|                         | Captain, Regular Army: November 4, 1922                                  |
 |                         | (Discharged as major and appointed as captain due to reduction of Army.) |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O4_insignia.svg      | Major, Regular Army: August 26, 1924                                     |
+|                         | Major, Regular Army: August 26, 1924                                     |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O5_insignia.svg      | Lieutenant Colonel, Regular Army: July 1, 1936                           |
+|                         | Lieutenant Colonel, Regular Army: July 1, 1936                           |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O6_insignia.svg      | Colonel, Army of the United States: March 6, 1941                        |
+|                         | Colonel, Army of the United States: March 6, 1941                        |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O7_insignia.svg      | Brigadier General, Army of the United States: September 29, 1941         |
+|                         | Brigadier General, Army of the United States: September 29, 1941         |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O8_insignia.svg      | Major General, Army of the United States: March 27, 1942                 |
+|                         | Major General, Army of the United States: March 27, 1942                 |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O9_insignia.svg      | Lieutenant General, Army of the United States: July 7, 1942              |
+|                         | Lieutenant General, Army of the United States: July 7, 1942              |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O10_insignia.svg     | General, Army of the United States: February 11, 1943                    |
+|                         | General, Army of the United States: February 11, 1943                    |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O7_insignia.svg      | Brigadier General, Regular Army: August 30, 1943                         |
+|                         | Brigadier General, Regular Army: August 30, 1943                         |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O8_insignia.svg      | Major General, Regular Army: August 30, 1943                             |
+|                         | Major General, Regular Army: August 30, 1943                             |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O11_insignia.svg     | General of the Army, Army of the United States: December 20, 1944        |
+|                         | General of the Army, Army of the United States: December 20, 1944        |
 +-------------------------+--------------------------------------------------------------------------+
-| US-O11_insignia.svg     | General of the Army, Regular Army: April 11, 1946                        |
+|                         | General of the Army, Regular Army: April 11, 1946                        |
 +-------------------------+--------------------------------------------------------------------------+
 
 Note – Eisenhower relinquished his active duty status when he became president on January 20, 1953. He was returned to active duty when he left office eight years later.

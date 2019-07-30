@@ -1,5 +1,3 @@
-Vegetation.png
-
 A BIOME is a community of plants and animals that have common characteristics for the environment they exist in. They can be found over a range of continents. Biomes are distinct biological communities that have formed in response to a shared physical climate.[1][2] _Biome_ is a broader term than _habitat_; any biome can comprise a variety of habitats.
 
 While a biome can cover large areas, a microbiome is a mix of organisms that coexist in a defined space on a much smaller scale. For example, the human microbiome is the collection of bacteria, viruses, and other microorganisms that are present on or in a human body.[3]
@@ -61,7 +59,7 @@ The principal biomes of the world by Kendeigh (1961):[18]
 
 Whittaker (1962, 1970, 1975) biome-types
 
-Climate_influence_on_terrestrial_biome.svg Whittaker classified biomes using two abiotic factors: precipitation and temperature. His scheme can be seen as a simplification of Holdridge's; more readily accessible, but missing Holdridge's greater specificity.
+Whittaker classified biomes using two abiotic factors: precipitation and temperature. His scheme can be seen as a simplification of Holdridge's; more readily accessible, but missing Holdridge's greater specificity.
 
 Whittaker based his approach on theoretical assertions and empirical sampling. He was in a unique position to make such a holistic assertion because he had previously compiled a review of biome classifications.[19]
 

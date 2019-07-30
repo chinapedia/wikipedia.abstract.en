@@ -1,8 +1,8 @@
-Glasgow-George-Square.jpg.]] Glasgow_City_Chambers_Council_Chamber.jpg Scotland_-_Glasgow_City_Chambers_-_20141112102630.jpg Marble Staircase.]] Glasgow_City_Chambers_interior.jpg.]] Glasgow_reception_townhall.JPG
+.]] Marble Staircase.]] .]]
 
 The CITY CHAMBERS or MUNICIPAL BUILDINGS in Glasgow, Scotland, has functioned as the headquarters of Glasgow City Council since 1996, and of preceding forms of municipal government in the city since 1889, located on the eastern side of the city's George Square. An eminent example of Victorian civic architecture, the building was constructed between 1882 and 1888 to a competition winning design by Scottish architect William Young a native of Paisley.
 
-Inaugurated in August 1888 by Queen Victoria, the first council meeting was held within the chambers in October 1889.[1] The building originally had an area of 5,016 square metres. In 1923, an extension to the east side of the building in John Street was opened and in 1984 Exchange House in George Street was completed, increasing the size of the City Chambers complex to some 14,000 square metres. Scotland_-_Glasgow_City_Chambers_-_20141112102601.jpg
+Inaugurated in August 1888 by Queen Victoria, the first council meeting was held within the chambers in October 1889.[1] The building originally had an area of 5,016 square metres. In 1923, an extension to the east side of the building in John Street was opened and in 1984 Exchange House in George Street was completed, increasing the size of the City Chambers complex to some 14,000 square metres.
 
 
 History

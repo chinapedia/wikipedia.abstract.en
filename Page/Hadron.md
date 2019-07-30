@@ -1,4 +1,4 @@
-Bosons-Hadrons-Fermions-RGB-pdf.pdf, bosons and fermions.|alt=]] In particle physics, a HADRON (, _hadrós;_ "stout, thick") is a composite particle made of two or more quarks held together by the strong force in a similar way as molecules are held together by the electromagnetic force. Most of the mass of ordinary matter comes from two hadrons, the proton and the neutron.
+, bosons and fermions.|alt=]] In particle physics, a HADRON (, _hadrós;_ "stout, thick") is a composite particle made of two or more quarks held together by the strong force in a similar way as molecules are held together by the electromagnetic force. Most of the mass of ordinary matter comes from two hadrons, the proton and the neutron.
 
 Hadrons are categorized into two families: baryons, made of an odd number of quarks – usually three quarks – and mesons, made of an even number of quarks—usually one quark and one antiquark.[1] Protons and neutrons are examples of baryons; pions are an example of a meson. "Exotic" hadrons, containing more than three valence quarks, have been discovered in recent years. A tetraquark state (an exotic meson), named the Z(4430)^(−), was discovered in 2007 by the Belle Collaboration[2] and confirmed as a resonance in 2014 by the LHCb collaboration.[3] Two pentaquark states (exotic baryons), named and , were discovered in 2015 by the LHCb collaboration.[4] There are several more exotic hadron candidates, and other colour-singlet quark combinations that may also exist.
 
@@ -11,8 +11,6 @@ The term "hadron" was introduced by Lev B. Okun in a plenary talk at the 1962 In
 
 
 Properties
-
-Hadron_colors.svg
 
 According to the quark model,[6] the properties of hadrons are primarily determined by their so-called _valence quarks_. For example, a proton is composed of two up quarks (each with electric charge +, for a total of + together) and one down quark (with electric charge −). Adding these together yields the proton charge of +1. Although quarks also carry color charge, hadrons must have zero total color charge because of a phenomenon called color confinement. That is, hadrons must be "colorless" or "white". The simplest ways for this to occur are with a quark of one color and an antiquark of the corresponding anticolor, or three quarks of different colors. Hadrons with the first arrangement are a type of meson, and those with the second arrangement are a type of baryon.
 

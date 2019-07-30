@@ -18,7 +18,7 @@ Egypt has a rather stable mixed economy enjoying average growth, averaging 3%–
 
 Reform era
 
-Inflation_Growth.JPG Under comprehensive economic reforms initiated in 1991, Egypt has relaxed many price controls, reduced subsidies, reduced inflation, cut taxes, and partially liberalized trade and investment. Manufacturing had become less dominated by the public sector, especially in heavy industries. A process of public sector reform and privatization has begun to enhance opportunities for the private sector.
+Under comprehensive economic reforms initiated in 1991, Egypt has relaxed many price controls, reduced subsidies, reduced inflation, cut taxes, and partially liberalized trade and investment. Manufacturing had become less dominated by the public sector, especially in heavy industries. A process of public sector reform and privatization has begun to enhance opportunities for the private sector.
 
 Agriculture, mainly in private hands, has been largely deregulated, with the exception of cotton and sugar production. Construction, non-financial services, and domestic wholesale and retail trades are largely private. This has promoted a steady increase of GDP and the annual growth rate. The Government of Egypt tamed inflation bringing it down from double-digit to a single digit. Currently, GDP is rising smartly by 7% per annum due to successful diversification.
 
@@ -44,9 +44,7 @@ Reform of energy and food subsidies, privatization of the state-owned Bank of Ca
 
 External trade and remittances
 
-2014_Egypt_Products_Export_Treemap.png
-
-2006Egyptian_exports.PNG Egypt's trade balance marked US$10.36 billion in FY2005 compared to US$7.5 billion. Egypt's main exports consist of natural gas, and non-petroleum products such as ready-made clothes, cotton textiles, medical and petrochemical products, citrus fruits, rice and dried onion, and more recently cement, steel, and ceramics.
+Egypt's trade balance marked US$10.36 billion in FY2005 compared to US$7.5 billion. Egypt's main exports consist of natural gas, and non-petroleum products such as ready-made clothes, cotton textiles, medical and petrochemical products, citrus fruits, rice and dried onion, and more recently cement, steel, and ceramics.
 
 Egypt's main imports consist of pharmaceuticals and non-petroleum products such as wheat, maize, cars and car spare parts. The current account grew from 0.7% of GDP in FY2002 to 3.3% at FY2005. Egypt's Current Account made a surplus of US$4478 million in FY2005 compared to a deficit of US$158 million in FY2004. Italy and the USA are the top export markets for Egyptian goods and services. In the Arab world, Egypt has the largest non-oil GDP as of 2018.
 
@@ -111,13 +109,13 @@ Lending criteria have been tightened following the passing of Money Laundry Law 
 
 The era of inflation targeting—i.e. maintaining inflation within a band—has perhaps begun in Egypt more recently. Country experiences show that inflation targeting is a best-practice strategy for monetary policy. While the monetary policy appears more responsive to inflationary pressures recently in Egypt, it is noted that there is no core inflation measure and the Central Bank of Egypt takes targeting decisions based on the inflation rate released by the CAPMAS consumer price index off-the-shelf.[15]
 
-EGP_100_Pounds_2009_(Front).jpg Surging domestic inflationary pressures from both economic growth and elevated international food prices led the Central Bank of Egypt (CBE) to increase the overnight lending and deposit rates in sequential moves since 2008: it was raised by 0.25% on 10 February 2008, by 0.5% on 25 March 2008, by 0.5% on 8 May 2008, by 0.5% on 26 June 2008, by 0.5% on 7 August 2008 and most recently on 18 September 2008 for the sixth time in a year by 0.5% when it stood at 11.5% and 13.5%, respectively.
+Surging domestic inflationary pressures from both economic growth and elevated international food prices led the Central Bank of Egypt (CBE) to increase the overnight lending and deposit rates in sequential moves since 2008: it was raised by 0.25% on 10 February 2008, by 0.5% on 25 March 2008, by 0.5% on 8 May 2008, by 0.5% on 26 June 2008, by 0.5% on 7 August 2008 and most recently on 18 September 2008 for the sixth time in a year by 0.5% when it stood at 11.5% and 13.5%, respectively.
 
 The rise of the World Global Financial Crisis led to a set of fiscal-monetary policy measures to face its repercussions on the national economy, including reducing the overnight lending and deposit rates by 1% on 12 February 2009. The rates currently stand at 10.5% and 12.5%, respectively. The CBE is expected to further cut on interest rates over 2009, with seemingly little fear on Egyptian Pound depreciation resulting from decreased interest rates.
 
 Exchange rate policy
 
-Egypt_Exchange_Rate_06.JPG.]] The exchange rate has been linked to the US dollar since the 1950s. Several regimes were adopted including initially the conventional peg in the sixties, regular crawling peg in the seventies and the eighties and crawling bands in the nineties. Over that time period, there were several exchange rate markets including black market, parallel market and the official market. With the turn of the new millennium, Egypt introduced a managed float regime and successfully unified the Pound exchange rate vis-à-vis foreign currencies.
+.]] The exchange rate has been linked to the US dollar since the 1950s. Several regimes were adopted including initially the conventional peg in the sixties, regular crawling peg in the seventies and the eighties and crawling bands in the nineties. Over that time period, there were several exchange rate markets including black market, parallel market and the official market. With the turn of the new millennium, Egypt introduced a managed float regime and successfully unified the Pound exchange rate vis-à-vis foreign currencies.
 
 The transition to the unified exchange rate regime was completed in December 2004. Shortly later, Egypt has notified the International Monetary Fund (IMF) that it has accepted the obligations of Article VIII, Section 2, 3, and 4 of the IMF Articles of Agreement, with effect from 2 January 2005. IMF members accepting the obligations of Article VIII undertake to refrain from imposing restrictions on the making of payments and transfers for current international transactions, or from engaging in discriminatory currency arrangements or multiple currency practices, except with IMF approval.
 
@@ -132,7 +130,7 @@ Natural resources
 
 Land, agriculture and crops
 
-Flowers_Harvest.jpg Warm weather and plentiful water have in the past produced several crops a year. However, since 2009 increasing desertification has become a problem. "Egypt loses an estimated 11,736 hectares of agricultural land every year, making the nation's 3.1 million hectares of agricultural land prone "to total destruction in the foreseeable future", said Abdel Rahman Attia, a professor of agriculture at Cairo University, to IRIN 2. Scarcity of clean water is also a problem 3. Land is worked intensively and yields are high.
+Warm weather and plentiful water have in the past produced several crops a year. However, since 2009 increasing desertification has become a problem. "Egypt loses an estimated 11,736 hectares of agricultural land every year, making the nation's 3.1 million hectares of agricultural land prone "to total destruction in the foreseeable future", said Abdel Rahman Attia, a professor of agriculture at Cairo University, to IRIN 2. Scarcity of clean water is also a problem 3. Land is worked intensively and yields are high.
 
 Cotton, rice, wheat, corn, sugarcane, sugar beets, onions, tobacco, and beans are the principal crops. Increasingly, a few modern techniques are applied to producing fruits, vegetables and flowers, in addition to cotton, for export. Further improvement is possible. The most common traditional farms occupy each, typically in a canal-irrigated area along the banks of the Nile. Many small farmers also own cows, water buffalos, and chickens. Between 1953 and 1971, some farms were collectivised, especially in Upper Egypt and parts of the Nile Delta.
 
@@ -159,7 +157,7 @@ Egypt would be the first ever electronic Egyptian Commodities Exchange in the ME
   : Egypt's Production, Imports and Total Consumption of Wheat and corn (Maize)
   (thousand metric tons and fiscal years)
 
-Egypt_food_imports.png Food imports to Egypt compared to other countries
+ Food imports to Egypt compared to other countries
 
 The Western Desert accounts for about two-thirds of the country's land area. For the most part, it is a massive sandy plateau marked by seven major depressions. One of these, Fayoum, was connected about 3,600 years ago to the Nile by canals. Today, it is an important irrigated agricultural area.
 
@@ -177,7 +175,7 @@ Acquisition and ownership of desert land in Egypt is governed by so-called "Egyp
 
 Water resources
 
-Aswan_Nile_R21.jpg river at Aswan.]] "Egypt", wrote the Greek historian Herodotus 25 centuries ago, "is the gift of the Nile." The land's seemingly inexhaustible resources of water and soil carried by this mighty river created in the Nile Valley and Delta the world's most extensive oasis. Without the Nile, Egypt would be little more than a desert wasteland.
+river at Aswan.]] "Egypt", wrote the Greek historian Herodotus 25 centuries ago, "is the gift of the Nile." The land's seemingly inexhaustible resources of water and soil carried by this mighty river created in the Nile Valley and Delta the world's most extensive oasis. Without the Nile, Egypt would be little more than a desert wasteland.
 
 The river carves a narrow, cultivated floodplain, never more than 20 kilometers wide, as it travels northward toward Cairo from Lake Nasser on the Sudanese border, behind the Aswan High Dam. Just north of Cairo, the Nile spreads out over what was once a broad estuary that has been filled by riverine deposits to form a fertile delta about wide at the seaward base and about from south to north.
 
@@ -189,13 +187,13 @@ The rain falling on the coast of the southern regions are the main source of rec
 
 Mineral and energy resources
 
-Darfeel_plat.png Egypt's mineral and energy resources include petroleum, natural gas, phosphates, gold and iron ore. Crude oil is found primarily in the Gulf of Suez and in the Western Desert. Natural gas is found mainly in the Nile Delta, off the Mediterranean shore, and in the Western Desert. Oil and gas accounted for approximately 7% of GDP in fiscal year 2000/01.
+Egypt's mineral and energy resources include petroleum, natural gas, phosphates, gold and iron ore. Crude oil is found primarily in the Gulf of Suez and in the Western Desert. Natural gas is found mainly in the Nile Delta, off the Mediterranean shore, and in the Western Desert. Oil and gas accounted for approximately 7% of GDP in fiscal year 2000/01.
 
 Export of petroleum and related products amounted to $2.6 billion in the year 2000. In late 2001, Egypt's benchmark "Suez Blend" was about $16.73 per barrel ($105/m³), the lowest price since 1999.
 
-Egypt_oil_imports.png Crude oil production has been in decline for several years since its peak level in 1993, from in 1993 to in 1997 and to in 2005. (See Figure). At the same time, the domestic consumption of oil increased steadily ( and in 1997 and 2005 respectively), but in 2008, oil consumption reached to . It is easy to see from the graph that a linear trend projects that domestic demand outpaced supply in (2008–2009), turning Egypt to a net importer of oil. To minimize this potential, the government of Egypt has been encouraging the exploration, production and domestic consumption of natural gas. Oil Production was in 2008, and natural gas output continued to increase and reached 48.3 billion cubic meters in 2008.[25]
+Crude oil production has been in decline for several years since its peak level in 1993, from in 1993 to in 1997 and to in 2005. (See Figure). At the same time, the domestic consumption of oil increased steadily ( and in 1997 and 2005 respectively), but in 2008, oil consumption reached to . It is easy to see from the graph that a linear trend projects that domestic demand outpaced supply in (2008–2009), turning Egypt to a net importer of oil. To minimize this potential, the government of Egypt has been encouraging the exploration, production and domestic consumption of natural gas. Oil Production was in 2008, and natural gas output continued to increase and reached 48.3 billion cubic meters in 2008.[25]
 
-Egypt_nat_gas_exports.png Domestic resources meet only about 33% of Egypt's domestic demand, meaning large imports from Saudi Arabia, UAE and Iraq are necessary.
+Domestic resources meet only about 33% of Egypt's domestic demand, meaning large imports from Saudi Arabia, UAE and Iraq are necessary.
 
 Over the last 15 years, more than 180 petroleum exploration agreements have been signed and multinational oil companies spent more than $27 billion in exploration companions. These activities led to the findings of about 18 crude oil fields and 16 natural gas fields in FY 2001. The total number of findings rose to 49 in FY 2005. As a result of these findings, crude oil reserves as of 2009 are estimated at , and proven natural gas reserves are 1.656 trillion cubic meters with likely additional discoveries with more exploration campaigns.
 
@@ -232,8 +230,6 @@ Main economic sectors
 
 Agricultural sector
 
-Egyptian_Countryside_R02.jpg
-
 Irrigation
 
 Irrigation plays a major role in a country the very livelihood of which depends upon a single river, the Nile. Most ambitious of all the irrigation projects is that of the Aswan High Dam, completed in 1971. A report published in March 1975 by the National Council for Production and Economic Affairs indicated that the dam had proved successful in controlling floodwaters and ensuring recurring water supply, but that water consumption had been more than needed and shall be controlled. Some precious land was lost below the dam because the flow of Nile silt was stopped, and increased salinity remains a major problem. Furthermore, five years of drought in the Ethiopia highlands—the source of the Nile River's water—caused the water level of Lake Nasser, the Aswan High Dam's reservoir, to drop to the lowest level in 1987.
@@ -262,7 +258,7 @@ Industrial sector
 
 Automobiles manufacturing
 
-MCV_600_coach_3_axles._Spielvogel_1.JPG 600 3-axles comfort coach assembled in Egypt.]] El Nasr Automotive Manufacturing Company is Egypt's state owned automobile company, founded in 1960 in Helwan, Egypt. Established in 1962, the company manufactures various vehicles under license from Zastava Automobili, Daimler AG, Kia, and Peugeot. Their current lineup consists of the Jeep Cherokee; the open-top, Wrangler-based Jeep AAV TJL; the Kia Spectra; the Peugeot 405; and the Peugeot 406.
+600 3-axles comfort coach assembled in Egypt.]] El Nasr Automotive Manufacturing Company is Egypt's state owned automobile company, founded in 1960 in Helwan, Egypt. Established in 1962, the company manufactures various vehicles under license from Zastava Automobili, Daimler AG, Kia, and Peugeot. Their current lineup consists of the Jeep Cherokee; the open-top, Wrangler-based Jeep AAV TJL; the Kia Spectra; the Peugeot 405; and the Peugeot 406.
 
 Other automobile manufacturers in Egypt include Arab American Vehicles, Egy-Tech Engineering, Ghabbour Group, WAMCO (Watania Automotive Manufacturing Company) and MCV. MCV was established in 1994 to represent Mercedes-Benz in the commercial vehicle sector in Egypt, producing a range of buses and trucks for domestic sale and for export throughout the Arab World, Africa, Latin America and Eastern Europe. The manufacturing plant in El Salheya employs c. 2500 people.[54]
 
@@ -278,7 +274,7 @@ Bahgat Group is a leading company in the fields of electronics, home appliances,
 
 Steel industries
 
-Edfu_23.JPG.]]
+.]]
 
 In 2018 Egypt was ranked the 21st largest steel producing country with a production of 7.8 million tons. EZDK is the largest steel company in Egypt and the Middle East, today part of Ezz Industries. It owns four steel plants in Alexandria, Sadat, Suez and 10th of Ramadan. It was ranked 87th on the list of the world's largest steel companies by the World Steel Association in 2015, with a production of 3.2 million tons.
 
@@ -294,7 +290,7 @@ Arafa Holding is a global apparel manufacturer and retailer, operating through a
 
 Construction and contracting sector
 
-NileCityTowers.JPG lies in-between the two towers]]
+lies in-between the two towers]]
 
 Orascom Construction Industries is a leading Egyptian EPC (engineering, procurement and construction) contractor, based in Cairo, Egypt and active in more than 20 countries. OCI was established in Egypt in 1938 and owned by Onsi Sawiris. It was nationalized in 1953 and then again de-nationalized in 1977. The company is the first multinational Egyptian corporation, and is one of the core Orascom Group companies. As a cement producer, OCI owned and operated cement plants in Egypt, Algeria, Turkey, Pakistan, northern Iraq and Spain, which had a combined annual production capacity of 21 million tons.
 
@@ -312,13 +308,13 @@ Egypt's banking system has undergone major reforms since the 1990s and today con
 
 Communications
 
-Qesm_Marsa_Alam,_Red_Sea_Governorate,_Egypt_-_panoramio_(6).jpg.]] Egypt has long been the cultural and informational centre of the Arab world, and Cairo is the region's largest publishing and broadcasting centre.
+.]] Egypt has long been the cultural and informational centre of the Arab world, and Cairo is the region's largest publishing and broadcasting centre.
 
 The telecommunications liberalisation process started in 1998 and is still ongoing, but at a slow pace. Private sector companies operate in mobile telephony, and Internet access. There were 10 million fixed phone lines, 31 million mobile phones, and 8.1 million Internet users by the August 2007.
 
 Transport
 
-Metro-1-l.jpg.]]
+.]]
 
 Transport in Egypt is centered around Cairo and largely follows the pattern of settlement along the Nile. The main line of the nation's railway network runs from Alexandria to Aswan and is operated by Egyptian National Railways. The road network has expanded rapidly to over , covering the Nile Valley and Nile Delta, Mediterranean and Red Sea coasts, the Sinai, and the Western oases.
 
@@ -335,7 +331,7 @@ Emerging sectors
 
 ICT sector
 
-Smartvillagelandscape.JPG, a business district in 6th of October established in 2001 to facilitate the growth of high-tech businesses.]] The Egyptian information and communications technology sector has been growing significantly since it was separated from the transportation sector. The market for telecommunications market was officially deregulated since the beginning of 2006 according to the WTO agreement.
+, a business district in 6th of October established in 2001 to facilitate the growth of high-tech businesses.]] The Egyptian information and communications technology sector has been growing significantly since it was separated from the transportation sector. The market for telecommunications market was officially deregulated since the beginning of 2006 according to the WTO agreement.
 
 The government established ITIDA through Law 15 of the year 2004 as governmental entity. This agency aims at paving the way for the diffusion of the e-business services in Egypt capitalizing on different mandates of the authority as activating the Egyptian e-signature law and supporting an export-oriented IT sector in Egypt.
 

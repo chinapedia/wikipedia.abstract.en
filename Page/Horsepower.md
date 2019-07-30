@@ -1,11 +1,11 @@
-Imperial_Horsepower.svg by 1 foot in 1 second.]] HORSEPOWER (HP) is a unit of measurement of power, or the rate at which work is done. There are many different standards and types of horsepower. Two common definitions being used today are the MECHANICAL HORSEPOWER (or IMPERIAL HORSEPOWER), which is about 745.7 watts, and the METRIC HORSEPOWER, which is approximately 735.5 watts.
+by 1 foot in 1 second.]] HORSEPOWER (HP) is a unit of measurement of power, or the rate at which work is done. There are many different standards and types of horsepower. Two common definitions being used today are the MECHANICAL HORSEPOWER (or IMPERIAL HORSEPOWER), which is about 745.7 watts, and the METRIC HORSEPOWER, which is approximately 735.5 watts.
 
 The term was adopted in the late 18th century by Scottish engineer James Watt to compare the output of steam engines with the power of draft horses. It was later expanded to include the output power of other types of piston engines, as well as turbines, electric motors and other machinery.[1][2] The definition of the unit varied among geographical regions. Most countries now use the SI unit watt for measurement of power. With the implementation of the EU Directive 80/181/EEC on January 1, 2010, the use of horsepower in the EU is permitted only as a supplementary unit.[3]
 
 
 History
 
-6_horse_team_East_Lampeter_TWP_LanCo_PA_1.jpg]]
+]]
 
 The development of the steam engine provided a reason to compare the output of horses with that of the engines that could replace them. In 1702, Thomas Savery wrote in _The Miner's Friend_:[4]
 
@@ -101,7 +101,7 @@ Or given that 1 hp = 550 ft⋅lbf/s, 1 ft = 0.3048 m, 1 lbf ≈ 4.448 N, 
 
 Metric horsepower (PS, cv, hk, pk, ks, ch)
 
-Horsepower_plain.svgs by 1 metre in 1 second.]] The various units used to indicate this definition (_PS_, _cv_, _hk_, _pk_, _ks_ and _ch_) all translate to _horse power_ in English. British manufacturers often intermix metric horsepower and mechanical horsepower depending on the origin of the engine in question. Sometimes the metric horsepower rating of an engine is conservative enough so that the same figure can be used for both 80/1269/EEC with metric hp and SAE J1349 with imperial hp.
+s by 1 metre in 1 second.]] The various units used to indicate this definition (_PS_, _cv_, _hk_, _pk_, _ks_ and _ch_) all translate to _horse power_ in English. British manufacturers often intermix metric horsepower and mechanical horsepower depending on the origin of the engine in question. Sometimes the metric horsepower rating of an engine is conservative enough so that the same figure can be used for both 80/1269/EEC with metric hp and SAE J1349 with imperial hp.
 
 DIN 66036 defines one metric horsepower as the power to raise a mass of 75 kilograms against the Earth's gravitational force over a distance of one metre in one second:[20] = 75 ⋅m/s = 1 PS. This is equivalent to 735.499 W, or 98.6% of an imperial mechanical horsepower.
 

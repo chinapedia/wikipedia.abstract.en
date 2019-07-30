@@ -14,7 +14,7 @@ The name _Afghānistān_ () is believed to be as old as the ethnonym _Afghan_, w
 
 History
 
-Ekhtiarodin_(1).jpg]] Excavations of prehistoric sites suggest that humans were living in what is now Afghanistan at least 50,000 years ago, and that farming communities in the area were among the earliest in the world. An important site of early historical activities, many believe that Afghanistan compares to Egypt in terms of the historical value of its archaeological sites.[16][17]
+]] Excavations of prehistoric sites suggest that humans were living in what is now Afghanistan at least 50,000 years ago, and that farming communities in the area were among the earliest in the world. An important site of early historical activities, many believe that Afghanistan compares to Egypt in terms of the historical value of its archaeological sites.[16][17]
 
 The country sits at a unique nexus point where numerous civilizations have interacted and often fought. It has been home to various peoples through the ages, among them the ancient Iranian peoples who established the dominant role of Indo-Iranian languages in the region. At multiple points, the land has been incorporated within vast regional empires, among them the Achaemenid Empire, the Macedonian Empire, the Indian Maurya Empire, and the Islamic Empire.[18]
 
@@ -22,7 +22,7 @@ Many empires and kingdoms have also risen to power in Afghanistan, such as the G
 
 Pre-Islamic period
 
-AsokaKandahar.jpg and Aramaic) edict by Emperor Ashoka from the 3rd century BCE discovered in the southern city of Kandahar]]
+and Aramaic) edict by Emperor Ashoka from the 3rd century BCE discovered in the southern city of Kandahar]]
 
 Archaeological exploration done in the 20th century suggests that the geographical area of Afghanistan has been closely connected by culture and trade with its neighbors to the east, west, and north. Artifacts typical of the Paleolithic, Mesolithic, Neolithic, Bronze, and Iron ages have been found in Afghanistan. Urban civilization is believed to have begun as early as 3000 BCE, and the early city of Mundigak (near Kandahar in the south of the country) may have been a colony of the nearby Indus Valley Civilization. More recent findings established that the Indus Valley Civilisation stretched up towards modern-day Afghanistan, making the ancient civilization today part of Pakistan, Afghanistan, and India. In more detail, it extended from what today is northwest Pakistan to northwest India and northeast Afghanistan. An Indus Valley site has been found on the Oxus River at Shortugai in northern Afghanistan.[20][21] There are several smaller IVC colonies to be found in Afghanistan as well.
 
@@ -36,7 +36,7 @@ During the first century BCE, the Parthian Empire subjugated the region but lost
 
 Islamization and Mongol invasion
 
-Herat_Congregational_Mosque_-Afghanistan.jpg is one of the oldest mosques in Afghanistan]] Mazar-e_sharif_-_Steve_Evans.jpg in Mazar-i-Sharif was built in the 15th century]] Arab Muslims brought Islam to Herat and Zaranj in 642 CE and began spreading eastward; some of the native inhabitants they encountered accepted it while others revolted. The land was collectively recognized by the Arabs as al-Hind due to its cultural connection with Greater India. Before Islam was introduced, people of the region were mostly Buddhists and Zoroastrians, but there were also Surya and Nana worshipers, Jews, and others. The Zunbils and Kabul Shahi were first conquered in 870 CE by the Saffarid Muslims of Zaranj. Later, the Samanids extended their Islamic influence south of the Hindu Kush. It is reported that Muslims and non-Muslims still lived side by side in Kabul before the Ghaznavids rose to power in the 10th century.[28][29][30]
+is one of the oldest mosques in Afghanistan]] in Mazar-i-Sharif was built in the 15th century]] Arab Muslims brought Islam to Herat and Zaranj in 642 CE and began spreading eastward; some of the native inhabitants they encountered accepted it while others revolted. The land was collectively recognized by the Arabs as al-Hind due to its cultural connection with Greater India. Before Islam was introduced, people of the region were mostly Buddhists and Zoroastrians, but there were also Surya and Nana worshipers, Jews, and others. The Zunbils and Kabul Shahi were first conquered in 870 CE by the Saffarid Muslims of Zaranj. Later, the Samanids extended their Islamic influence south of the Hindu Kush. It is reported that Muslims and non-Muslims still lived side by side in Kabul before the Ghaznavids rose to power in the 10th century.[28][29][30]
 
 By the 11th century, Mahmud of Ghazni defeated the remaining Hindu rulers and effectively Islamized the wider region,[31] with the exception of Kafiristan.[32] Mahmud made Ghazni into an important city and patronized intellectuals such as the historian Al-Biruni and the poet Ferdowsi.[33] The Ghaznavid dynasty was overthrown by the Ghurids, whose architectural achievements included the remote Minaret of Jam. The Ghurids controlled Afghanistan for less than a century before being conquered by the Khwarazmian dynasty in 1215.[34]
 
@@ -52,13 +52,13 @@ In 1738, Nader Shah and his forces captured Kandahar, the last Hotak stronghold,
 
 In October 1772, Durrani died of natural causes and was buried at a site now adjacent to the Shrine of the Cloak in Kandahar. He was succeeded by his son, Timur Shah, who transferred the capital of Afghanistan from Kandahar to Kabul in 1776. After Timur's death in 1793, the Durrani throne passed down to his son Zaman Shah, followed by Mahmud Shah, Shuja Shah and others.[44]
 
-Afghan_foot_soldiers_in_1841.jpg]] By the early 19th century, the Afghan empire was under threat from the Persians in the west and the Sikh Empire in the east. Fateh Khan, leader of the Barakzai tribe, had installed 21 of his brothers in positions of power throughout the empire. After his death, they rebelled and divided up the provinces of the empire between themselves. During this turbulent period, Afghanistan had many temporary rulers until Dost Mohammad Khan declared himself emir in 1826.[45] The Punjab region was lost to Ranjit Singh, who invaded Khyber Pakhtunkhwa and in 1834 captured the city of Peshawar.[46] In 1837, during the Battle of Jamrud near the Khyber Pass, Akbar Khan and the Afghan army failed to capture the Jamrud fort from the Sikh Khalsa Army, but killed Sikh Commander Hari Singh Nalwa, thus ending the Afghan-Sikh Wars. By this time the British were advancing from the east and the first major conflict during "The Great Game" was initiated.[47]
+]] By the early 19th century, the Afghan empire was under threat from the Persians in the west and the Sikh Empire in the east. Fateh Khan, leader of the Barakzai tribe, had installed 21 of his brothers in positions of power throughout the empire. After his death, they rebelled and divided up the provinces of the empire between themselves. During this turbulent period, Afghanistan had many temporary rulers until Dost Mohammad Khan declared himself emir in 1826.[45] The Punjab region was lost to Ranjit Singh, who invaded Khyber Pakhtunkhwa and in 1834 captured the city of Peshawar.[46] In 1837, during the Battle of Jamrud near the Khyber Pass, Akbar Khan and the Afghan army failed to capture the Jamrud fort from the Sikh Khalsa Army, but killed Sikh Commander Hari Singh Nalwa, thus ending the Afghan-Sikh Wars. By this time the British were advancing from the east and the first major conflict during "The Great Game" was initiated.[47]
 
 British influence and independent kingdom
 
-Kandahar-1881.jpg and allied forces at Kandahar after the 1880 Battle of Kandahar, during the Second Anglo-Afghan War. The large defensive wall around the city was removed in the early 1930s by order of King Nadir.]] In 1838, the British marched into Afghanistan and arrested Dost Mohammad, sent him into exile in India and replaced him with the previous ruler, Shah Shuja.[48][49] Following an uprising, the 1842 retreat from Kabul of British-Indian forces and the annihilation of Elphinstone's army, and the Battle of Kabul that led to its recapture, the British placed Dost Mohammad Khan back into power and withdrew their military forces from Afghanistan. In 1878, the Second Anglo-Afghan War was fought over perceived Russian influence, Abdur Rahman Khan replaced Ayub Khan, and Britain gained control of Afghanistan's foreign relations as part of the Treaty of Gandamak of 1879. In 1893, Mortimer Durand made Amir Abdur Rahman Khan sign a controversial agreement in which the ethnic Pashtun and Baloch territories were divided by the Durand Line. This was a standard divide and rule policy of the British and would lead to strained relations, especially with the later new state of Pakistan. Shia-dominated Hazarajat and pagan Kafiristan remained politically independent until being conquered by Abdur Rahman Khan in 1891–1896. Zahir_Shah_of_Afghanistan_in_1930s-cropped.jpg, the last king of Afghanistan, who reigned from 1933 to 1973.]] After the Third Anglo-Afghan War and the signing of the Treaty of Rawalpindi on 19 August 1919, King Amanullah Khan declared Afghanistan a sovereign and fully independent state. He moved to end his country's traditional isolation by establishing diplomatic relations with the international community and, following a 1927–28 tour of Europe and Turkey, introduced several reforms intended to modernize his nation. A key force behind these reforms was Mahmud Tarzi, an ardent supporter of the education of women. He fought for Article 68 of Afghanistan's 1923 constitution, which made elementary education compulsory. The institution of slavery was abolished in 1923.[50]
+and allied forces at Kandahar after the 1880 Battle of Kandahar, during the Second Anglo-Afghan War. The large defensive wall around the city was removed in the early 1930s by order of King Nadir.]] In 1838, the British marched into Afghanistan and arrested Dost Mohammad, sent him into exile in India and replaced him with the previous ruler, Shah Shuja.[48][49] Following an uprising, the 1842 retreat from Kabul of British-Indian forces and the annihilation of Elphinstone's army, and the Battle of Kabul that led to its recapture, the British placed Dost Mohammad Khan back into power and withdrew their military forces from Afghanistan. In 1878, the Second Anglo-Afghan War was fought over perceived Russian influence, Abdur Rahman Khan replaced Ayub Khan, and Britain gained control of Afghanistan's foreign relations as part of the Treaty of Gandamak of 1879. In 1893, Mortimer Durand made Amir Abdur Rahman Khan sign a controversial agreement in which the ethnic Pashtun and Baloch territories were divided by the Durand Line. This was a standard divide and rule policy of the British and would lead to strained relations, especially with the later new state of Pakistan. Shia-dominated Hazarajat and pagan Kafiristan remained politically independent until being conquered by Abdur Rahman Khan in 1891–1896. , the last king of Afghanistan, who reigned from 1933 to 1973.]] After the Third Anglo-Afghan War and the signing of the Treaty of Rawalpindi on 19 August 1919, King Amanullah Khan declared Afghanistan a sovereign and fully independent state. He moved to end his country's traditional isolation by establishing diplomatic relations with the international community and, following a 1927–28 tour of Europe and Turkey, introduced several reforms intended to modernize his nation. A key force behind these reforms was Mahmud Tarzi, an ardent supporter of the education of women. He fought for Article 68 of Afghanistan's 1923 constitution, which made elementary education compulsory. The institution of slavery was abolished in 1923.[50]
 
-Bundesarchiv_Bild_102-05499,_Berlin,_Besuch_König_von_Afghanistan.jpg and Queen Soraya Tarzi on a visit to Berlin in 1928]] Some of the reforms that were put in place, such as the abolition of the traditional burqa for women and the opening of several co-educational schools, quickly alienated many tribal and religious leaders, and this led to the Afghan Civil War (1928–1929). Faced with the overwhelming armed opposition, Amanullah Khan abdicated in January 1929, and soon after Kabul fell to Saqqawist forces led by Habibullah Kalakani.[51] Prince Mohammed Nadir Shah, Amanullah's cousin, in turn defeated and killed Kalakani in October 1929, and was declared King Nadir Shah.[52] He abandoned the reforms of Amanullah Khan in favor of a more gradual approach to modernization but was assassinated in 1933 by Abdul Khaliq, a fifteen-year-old Hazara student.[53]
+and Queen Soraya Tarzi on a visit to Berlin in 1928]] Some of the reforms that were put in place, such as the abolition of the traditional burqa for women and the opening of several co-educational schools, quickly alienated many tribal and religious leaders, and this led to the Afghan Civil War (1928–1929). Faced with the overwhelming armed opposition, Amanullah Khan abdicated in January 1929, and soon after Kabul fell to Saqqawist forces led by Habibullah Kalakani.[51] Prince Mohammed Nadir Shah, Amanullah's cousin, in turn defeated and killed Kalakani in October 1929, and was declared King Nadir Shah.[52] He abandoned the reforms of Amanullah Khan in favor of a more gradual approach to modernization but was assassinated in 1933 by Abdul Khaliq, a fifteen-year-old Hazara student.[53]
 
 Mohammed Zahir Shah, Nadir Shah's 19-year-old son, succeeded to the throne and reigned from 1933 to 1973. Until 1946, Zahir Shah ruled with the assistance of his uncle, who held the post of Prime Minister and continued the policies of Nadir Shah. Another of Zahir Shah's uncles, Shah Mahmud Khan, became Prime Minister in 1946 and began an experiment allowing greater political freedom, but reversed the policy when it went further than he expected. He was replaced in 1953 by Mohammed Daoud Khan, the king's cousin and brother-in-law, and a Pashtun nationalist who sought the creation of a Pashtunistan, leading to highly tense relations with Pakistan.[54] During his ten years at the post until 1963, Daoud Khan pressed for social modernization reforms and sought a closer relationship with the Soviet Union. Afterward, the 1964 constitution was formed, and the first non-royal Prime Minister was sworn in.[55]
 
@@ -82,13 +82,13 @@ Faced with mounting international pressure and numerous casualties, the Soviets 
 
 Proxy and civil war and Islamic jihad 1989–96
 
-War_in_Afganistan_(1992–2001).png After the Soviet withdrawal, the conflict between the mujahideen and the PDPA continued.[80] President Najibullah, who had become president in 1987, tried to build support for his government by moving away from socialism to pan-Afghan nationalism and portraying his government as Islamic.[81]
+After the Soviet withdrawal, the conflict between the mujahideen and the PDPA continued.[80] President Najibullah, who had become president in 1987, tried to build support for his government by moving away from socialism to pan-Afghan nationalism and portraying his government as Islamic.[81]
 
 Nevertheless, Najibullah did not win any significant support. In March 1989, mujahideen groups launched an attack on Jalalabad, instigated by the Pakistani ISI, but the attack failed.[82] With the dissolution of the Soviet Union in December 1991 and the ending of Russian support, President Najibullah was left without foreign aid. In March 1991, mujahideen forces attacked and conquered the city of Khost.
 
 In March 1992, President Najibullah agreed to step aside and make way for a mujahideen coalition government. At this time there were seven main mujahideen groups: Hezb-e Islami (Gulbuddin faction), Hezb-e Islami (Khalis faction), Jamiat-e Islami, Islamic Dawah Organisation of Afghanistan, the National Islamic Front for Afghanistan, the National Liberation Front, and the Islamic Revolution Movement . Their leaders came together in Peshawar, Pakistan, to negotiate a coalition government, but Hezbi Islami's leader Gulbuddin Hekmatyar refused to confer and instead invaded Kabul. This kicked off a civil war, starting 25 April 1992, between initially three, but within weeks five or six mujahideen groups.[83][84][85] Kabul was heavily bombarded and partially destroyed by the fighting.[86]
 
-Kabul_during_civial_war_of_fundamentalists_1993-2.jpg in 1993, which caused significant damage to the capital]] As the war continued in 1993–95, the mujahideen committed widespread rape, murder and extortion.[87][88][89] In January–June 1994, 25,000 people died in Kabul due to fighting between an alliance of Abdul Rashid Dostum's Junbish with Hekmatyar's Hezbi Islami against Ahmad Shah Massoud's Jamiat forces.[90] The Taliban emerged in September 1994 as a movement and militia of Pashtun students (_talib_) from Islamic madrassas (schools) in Pakistan,[91][92] pledged to rid Afghanistan of 'warlords and criminals',[93] and soon had military support from Pakistan.[94] In November 1994 the Taliban took control of Kandahar city after forcing out local Pashtun leaders.[95] The Taliban in early 1995 attempted to capture Kabul but were repelled by forces under Massoud. The Taliban grew stronger and in September 1996 attacked and occupied Kabul after Massoud and Hekmatyar had withdrawn their troops from the city.[96][97]
+in 1993, which caused significant damage to the capital]] As the war continued in 1993–95, the mujahideen committed widespread rape, murder and extortion.[87][88][89] In January–June 1994, 25,000 people died in Kabul due to fighting between an alliance of Abdul Rashid Dostum's Junbish with Hekmatyar's Hezbi Islami against Ahmad Shah Massoud's Jamiat forces.[90] The Taliban emerged in September 1994 as a movement and militia of Pashtun students (_talib_) from Islamic madrassas (schools) in Pakistan,[91][92] pledged to rid Afghanistan of 'warlords and criminals',[93] and soon had military support from Pakistan.[94] In November 1994 the Taliban took control of Kandahar city after forcing out local Pashtun leaders.[95] The Taliban in early 1995 attempted to capture Kabul but were repelled by forces under Massoud. The Taliban grew stronger and in September 1996 attacked and occupied Kabul after Massoud and Hekmatyar had withdrawn their troops from the city.[96][97]
 
 Taliban Emirate and Northern Alliance
 
@@ -102,7 +102,7 @@ On 9 September 2001, Massoud was assassinated by two Arab suicide attackers in P
 
 Recent history (2002–present)
 
-Hamid_Karzai_2006-09-26.jpg dominated Afghan politics after the Taliban's fall]] Afghan_history_from_2008-2011.jpg In December 2001, after the Taliban government was overthrown, the Afghan Interim Administration under Hamid Karzai was formed. The International Security Assistance Force (ISAF) was established by the UN Security Council to help assist the Karzai administration and provide basic security.[118][119] Taliban forces meanwhile began regrouping inside Pakistan, while more coalition troops entered Afghanistan and began rebuilding the war-torn country.[120][121]
+dominated Afghan politics after the Taliban's fall]] In December 2001, after the Taliban government was overthrown, the Afghan Interim Administration under Hamid Karzai was formed. The International Security Assistance Force (ISAF) was established by the UN Security Council to help assist the Karzai administration and provide basic security.[118][119] Taliban forces meanwhile began regrouping inside Pakistan, while more coalition troops entered Afghanistan and began rebuilding the war-torn country.[120][121]
 
 Shortly after their fall from power, the Taliban began an insurgency to regain control of Afghanistan. Over the next decade, ISAF and Afghan troops led many offensives against the Taliban, but failed to fully defeat them. Afghanistan remains one of the poorest countries in the world due to a lack of foreign investment, government corruption, and the Taliban insurgency.[122][123]
 
@@ -122,21 +122,19 @@ In September 2014 Ashraf Ghani became President after the 2014 presidential elec
 
 Geography
 
-Koppen-Geiger_Map_AFG_present.svg of Afghanistan[136]]]
+of Afghanistan[136]]]
 
 A landlocked mountainous country with plains in the north and southwest, Afghanistan is located within South Asia*
 
 -   -   -   -   -   [137] and Central Asia.[138] The country's highest point is Noshaq, at above sea level.[139] It has a continental climate with harsh winters in the central highlands, the glaciated northeast (around Nuristan), and the Wakhan Corridor, where the average temperature in January is below , and hot summers in the low-lying areas of the Sistan Basin of the southwest, the Jalalabad basin in the east, and the Turkestan plains along the Amu River in the north, where temperatures average over in July. The lowest point lies in Jowzjan Province along the Amu River bank, at above sea level.[140]
 
-Geography_of_Afghanistan.jpg, from left to right: 1. Band-e Amir National Park; 2. Salang Pass in Parwan Province; 3. Korangal Valley in Kunar Province; and 4. Kajaki Dam in Helmand Province]]
+, from left to right: 1. Band-e Amir National Park; 2. Salang Pass in Parwan Province; 3. Korangal Valley in Kunar Province; and 4. Kajaki Dam in Helmand Province]]
 
 Despite having numerous rivers and reservoirs, large parts of the country are dry. The endorheic Sistan Basin is one of the driest regions in the world.[141] Afghanistan receives snow during the winter in the Hindu Kush and Pamir Mountains, and the melting snow in the spring season enters the rivers, lakes, and streams.[142][143] However, two-thirds of the country's water flows into the neighboring countries of Iran, Pakistan, and Turkmenistan. The state needs more than to rehabilitate its irrigation systems so that the water is properly managed.[144]
 
 The northeastern Hindu Kush mountain range, in and around the Badakhshan Province of Afghanistan, is in a geologically active area where earthquakes may occur almost every year.[145] They can be deadly and destructive, causing landslides in some parts or avalanches during the winter.[146] The last strong earthquakes were in 1998, which killed about 6,000 people in Badakhshan near Tajikistan.[147] This was followed by the 2002 Hindu Kush earthquakes in which over 150 people were killed and over 1,000 injured. A 2010 earthquake left 11 Afghans dead, over 70 injured, and more than 2,000 houses destroyed.
 
 The country's natural resources include: coal, copper, iron ore, lithium, uranium, rare earth elements, chromite, gold, zinc, talc, barite, sulfur, lead, marble, precious and semi-precious stones, natural gas, and petroleum, among other things.[148][149] In 2010, US and Afghan government officials estimated that untapped mineral deposits located in 2007 by the US Geological Survey are worth at least .[150]
-
-Afghanistan_physical_en.png
 
 At over ,[151] Afghanistan is the world's 41st largest country,[152] slightly bigger than France and smaller than Burma, about the size of Texas in the United States. It borders Pakistan in the south and east; Iran in the west; Turkmenistan, Uzbekistan, and Tajikistan in the north; and China in the far east.[153]
 
@@ -163,7 +161,7 @@ Ethnic groups
 
 Afghanistan's population is divided into several ethnolinguistic groups, which are represented in the ethnolinguistic map and listed in the chart below.
 
-US_Army_ethnolinguistic_map_of_Afghanistan_--_circa_2001-09.jpg groups of Afghanistan as of 2001]]
+groups of Afghanistan as of 2001]]
 
 +-------------------------------------------------+-------+
 | Ethnic group                                    | [158] |
@@ -218,7 +216,7 @@ Thousands of Afghan Sikhs and Hindus are also found in the major cities.[166][16
 
 Governance
 
-New_Afghan_Parliament_Building.png in 2016]]
+in 2016]]
 
 Afghanistan is an Islamic republic consisting of three branches, the executive, legislative, and judicial. The nation is led by President Ashraf Ghani with Abdul Rashid Dostum and Sarwar Danish as vice presidents. Abdullah Abdullah serves as the chief executive officer (CEO). The National Assembly is the legislature, a bicameral body having two chambers, the House of the People and the House of Elders. The Supreme Court is led by Chief Justice Said Yusuf Halem, the former Deputy Minister of Justice for Legal Affairs.[171][172]
 
@@ -226,7 +224,7 @@ According to Transparency International, Afghanistan remains in the top most cor
 
 Elections and parties
 
-President_Donald_J._Trump_and_President_Ashraf_Ghani_of_Afghanistan_at_the_United_Nations_General_Assembly_(36747065014).jpg with president of Afghanistan Ashraf Ghani in 2017.]]
+with president of Afghanistan Ashraf Ghani in 2017.]]
 
 One instrument of Afghan governance is the _loya jirga_ (grand assembly), a Pashtun consultative meeting that is mainly organized for choosing a new head of state, adopting a new constitution, or to settle national or regional issue such as war.[175] Loya jirgas have been held since at least 1747,[176] with the most recent one occurring in 2013.[177]
 
@@ -234,7 +232,7 @@ Under the 2004 constitution, both presidential and parliamentry elections are to
 
 The 2004 Afghan presidential election was relatively peaceful, in which Hamid Karzai won in the first round with 55.4% of the votes. However, the 2009 presidential election was characterized by lack of security, low voter turnout, and widespread electoral fraud, ending in Karzai's reelection.[180] The 2014 presidential election ended with Ashraf Ghani winning by 56.44% of the votes.[181]
 
-Presidential_Palace_-_panoramio_(7).jpg]]
+]]
 
 Political parties played a marginal role in post-2001 Afghan politics, in part due to Karzai's opposition to them.[182] In the 2005 parliamentary election, the ballots did not show candidates' party affiliation, so the results were dictated by the personal prestige of the candidates.[183] Among the elected officials were former mujahideen, Islamic fundamentalists, warlords, communists, reformists, and several Taliban associates.[184] In the same period, Afghanistan became the 30th highest nation in terms of female representation in the National Assembly.[185] Parties became more influential after 2009, when a new law established more stringent requirements for party registration.[186] Nearly a hundred new parties were registered after the law came into effect,[187] and party activity increased in the 2014 elections, but party influence remained limited.[188]
 
@@ -248,7 +246,7 @@ According to article 140 of the constitution and the presidential decree on elec
 
 The following is a list of all the 34 provinces in alphabetical order:
 
-Afghanistan_provinces_numbered.png, which are further divided into a number of districts]]
+, which are further divided into a number of districts]]
 
 1.  Badakhshan
 2.  Badghis
@@ -287,13 +285,13 @@ Afghanistan_provinces_numbered.png, which are further divided into a number of d
 
 Foreign relations and military
 
-First_set_of_Afghan_UH-60A_Black_Hawks.jpg of the Afghan Air Force at Kandahar Airfield. As a major non-NATO ally, the Afghan Armed Forces receive most of their equipment and training from the United States.]] Afghanistan became a member of the United Nations in 1946. It enjoys cordial relations with a number of NATO and allied nations, particularly the United States, Canada, United Kingdom, Germany, Australia, and Turkey. In 2012, the United States and Afghanistan signed their Strategic Partnership Agreement in which Afghanistan became a major non-NATO ally.[193] Afghanistan also has friendly diplomatic relations with neighboring China, Iran, Pakistan, Tajikistan, Turkmenistan, and Uzbekistan, including with regional states such as Bangladesh, India, Japan, Kazakhstan, Nepal, Russia, South Korea, the UAE, and so forth. The Afghan Ministry of Foreign Affairs continues to develop diplomatic relations with other countries around the world.
+of the Afghan Air Force at Kandahar Airfield. As a major non-NATO ally, the Afghan Armed Forces receive most of their equipment and training from the United States.]] Afghanistan became a member of the United Nations in 1946. It enjoys cordial relations with a number of NATO and allied nations, particularly the United States, Canada, United Kingdom, Germany, Australia, and Turkey. In 2012, the United States and Afghanistan signed their Strategic Partnership Agreement in which Afghanistan became a major non-NATO ally.[193] Afghanistan also has friendly diplomatic relations with neighboring China, Iran, Pakistan, Tajikistan, Turkmenistan, and Uzbekistan, including with regional states such as Bangladesh, India, Japan, Kazakhstan, Nepal, Russia, South Korea, the UAE, and so forth. The Afghan Ministry of Foreign Affairs continues to develop diplomatic relations with other countries around the world.
 
 The United Nations Assistance Mission in Afghanistan (UNAMA) was established in 2002 to help the country recover from the decades of war and neglect. Today, several NATO member states deploy about 20,000 troops in Afghanistan as part of the Resolute Support Mission. Its main purpose is to train the Afghan National Security Forces. The Afghan Armed Forces are under the Ministry of Defense, which includes the Afghan Air Force (AAF) and the Afghan National Army (ANA). The Afghan Defense University houses various educational establishments for the Afghan Armed Forces, including the National Military Academy of Afghanistan.[194]
 
 Law enforcement
 
-ANP_trucks_in_Kunar.jpg (ANP) in Kunar Province]]
+(ANP) in Kunar Province]]
 
 Law enforcement in Afghanistan is the responsibility of the Afghan National Police (ANP), which is part of the Ministry of Interior Affairs. The ANP consists of two primary branches, the Afghan Uniformed Police and the Afghan Border Police. The mission of the Uniformed Police is to ensure security within Afghanistan, prevent crime, and protect property. The Border Police is responsible for securing and maintaining the nation's borders with neighboring states as well as all international airports within the country.[195] Afghanistan's intelligence agency, the National Directorate of Security (NDS), assists the ANP with security matters.[196]
 
@@ -308,23 +306,19 @@ Homosexuality is illegal and is a capital offense in Afghanistan.[203]
 
 Economy
 
-Afghan_pomegranate_processing.jpg (_anaar_), which Afghanistan is famous for in Asia]]
+(_anaar_), which Afghanistan is famous for in Asia]]
 
 Afghanistan's GDP is around $64 billion with an exchange rate of $18.4 billion, and its GDP per capita is $2,000. Despite having $1 trillion or more in mineral deposits,[204] it remains as one of the least developed countries. The country imports over $6 billion worth of goods but exports only $658 million, mainly fruits and nuts. It has less than $1.5 billion in external debt.[205]
 
 Agricultural production is the backbone of Afghanistan's economy.[206] The country is known for producing some of the finest pomegranates, grapes, apricots, melons, and several other fresh and dry fruits. It is also known as the world's largest producer of opium. Sources indicate that as much as 11% or more of the nation's economy is derived from the cultivation and sale of opium.
 
-Afghan_women_at_a_textile_factory_in_Kabul.jpg
-
 While the nation's current account deficit is largely financed with donor money, only a small portion is provided directly to the government budget. The rest is provided to non-budgetary expenditure and donor-designated projects through the United Nations system and non-governmental organizations.[207] The Afghan Ministry of Finance is focusing on improved revenue collection and public sector expenditure discipline. For example, government revenues increased 31% to $1.7 billion from March 2010 to March 2011.
 
-Afghanistan,_Trends_in_the_Human_Development_Index_1970-2010.png, 1970–2010 ]]
+, 1970–2010 ]]
 
 Da Afghanistan Bank serves as the central bank of the nation[208] and the "Afghani" (AFN) is the national currency, with an exchange rate of about 75 Afghanis to 1 US dollar.[209] A number of local and foreign banks operate in the country, including the Afghanistan International Bank, New Kabul Bank, Azizi Bank, Pashtany Bank, Standard Chartered Bank, and the First Micro Finance Bank.
 
 One of the main drivers for the current economic recovery is the return of over 5 million expatriates, who brought with them entrepreneurship and wealth-creating skills as well as much needed funds to start up businesses. Many Afghans are now involved in construction, which is one of the largest industries in the country.[210] Some of the major national construction projects include the New Kabul City next to the capital, the Aino Mena project in Kandahar, and the Ghazi Amanullah Khan Town near Jalalabad.[211][212][213] Similar development projects have also begun in Herat, Mazar-e-Sharif, and other cities.[214] An estimated 400,000 people enter the labor market each year.[215]
-
-Afghan_market_teeming_with_vendors_and_shoppers_2-4-09.jpg
 
 Several small companies and factories began operating in different parts of the country, which not only provide revenues to the government but also create new jobs. Improvements to the business environment have resulted in more than $1.5 billion in telecom investment and created more than 100,000 jobs since 2003.[216] Afghan rugs are becoming popular again, allowing many carpet dealers around the country to hire more workers.
 
@@ -332,7 +326,7 @@ Afghanistan is a member of WTO, SAARC, ECO, and OIC. It holds an observer status
 
 Mining
 
-Lapis_Lazuli_from_Afganistan.jpg stones]] Michael E. O'Hanlon of the Brookings Institution estimated that if Afghanistan generates about $10 billion per year from its mineral deposits, its gross national product would double and provide long-term funding for Afghan security forces and other critical needs.[218] The United States Geological Survey (USGS) estimated in 2006 that northern Afghanistan has an average of crude oil, of natural gas, and of natural gas liquids.[219] In 2011, Afghanistan signed an oil exploration contract with China National Petroleum Corporation (CNPC) for the development of three oil fields along the Amu Darya river in the north.[220]
+stones]] Michael E. O'Hanlon of the Brookings Institution estimated that if Afghanistan generates about $10 billion per year from its mineral deposits, its gross national product would double and provide long-term funding for Afghan security forces and other critical needs.[218] The United States Geological Survey (USGS) estimated in 2006 that northern Afghanistan has an average of crude oil, of natural gas, and of natural gas liquids.[219] In 2011, Afghanistan signed an oil exploration contract with China National Petroleum Corporation (CNPC) for the development of three oil fields along the Amu Darya river in the north.[220]
 
 The country has significant amounts of lithium, copper, gold, coal, iron ore, and other minerals.[221][222][223] The Khanashin carbonatite in Helmand Province contains of rare earth elements.[224] In 2007, a 30-year lease was granted for the Aynak copper mine to the China Metallurgical Group for $3 billion,[225] making it the biggest foreign investment and private business venture in Afghanistan's history.[226] The state-run Steel Authority of India won the mining rights to develop the huge Hajigak iron ore deposit in central Afghanistan.[227] Government officials estimate that 30% of the country's untapped mineral deposits are worth at least .[228] One official asserted that "this will become the backbone of the Afghan economy" and a Pentagon memo stated that Afghanistan could become the "Saudi Arabia of lithium".[229] In a 2011 news story, the _CSM_ reported, "The United States and other Western nations that have borne the brunt of the cost of the Afghan war have been conspicuously absent from the bidding process on Afghanistan's mineral deposits, leaving it mostly to regional powers."[230]
 
@@ -341,13 +335,13 @@ Transportation
 
 Air
 
-Ariana_Afghan_A310-300_F-GEMO.jpg Airbus A310 in 2006]] Air transport in Afghanistan is provided by the national carrier, Ariana Afghan Airlines,[231] and by the private company Kam Air. Airlines from a number of countries also provide flights in and out of the country. These include Air India, Emirates, Gulf Air, Iran Aseman Airlines, Pakistan International Airlines, and Turkish Airlines.
+Airbus A310 in 2006]] Air transport in Afghanistan is provided by the national carrier, Ariana Afghan Airlines,[231] and by the private company Kam Air. Airlines from a number of countries also provide flights in and out of the country. These include Air India, Emirates, Gulf Air, Iran Aseman Airlines, Pakistan International Airlines, and Turkish Airlines.
 
 The country has four international airports: Hamid Karzai International Airport (formerly Kabul International Airport), Kandahar International Airport, Herat International Airport, and Mazar-e Sharif International Airport. Including domestic airports, there are 43.[232]
 
 Rail
 
-Rail_crossing_in_northern_Afghanistan.jpg The country has three rail links: one, a line from Mazar-i-Sharif to the Uzbekistan border;[233] a long line from Toraghundi to the Turkmenistan border (where it continues as part of Turkmen Railways); and a short link from Aqina across the Turkmen border to Kerki, which is planned to be extended further across Afghanistan.[234] These lines are used for freight only and there is no passenger service. A rail line between Khaf, Iran and Herat, western Afghanistan, intended for both freight and passengers, is under construction as of 2019.[235][236] About of the line will lie on the Afghan side.[237][238] There are various proposals for the construction of additional rail lines in the country.[239]
+The country has three rail links: one, a line from Mazar-i-Sharif to the Uzbekistan border;[233] a long line from Toraghundi to the Turkmenistan border (where it continues as part of Turkmen Railways); and a short link from Aqina across the Turkmen border to Kerki, which is planned to be extended further across Afghanistan.[234] These lines are used for freight only and there is no passenger service. A rail line between Khaf, Iran and Herat, western Afghanistan, intended for both freight and passengers, is under construction as of 2019.[235][236] About of the line will lie on the Afghan side.[237][238] There are various proposals for the construction of additional rail lines in the country.[239]
 
 Roads
 
@@ -356,7 +350,7 @@ The most important road in Afghanistan is Highway 1, also called the Ring Road, 
 
 Health
 
-Kabul_Military_Hospital_-_panoramio.jpg According to the Human Development Index, Afghanistan is the 15th least developed country in the world. The average life expectancy is estimated to be around 60 years.[244][245] The country's maternal mortality rate is 396 deaths/100,000 live births and its infant mortality rate is 66[246] to 112.8 deaths in every 1,000 live births.[247] The Ministry of Public Health plans to cut the infant mortality rate to 400 for every 100,000 live births before 2020. The country has more than 3,000 midwives, with an additional 300 to 400 being trained each year.[248]
+According to the Human Development Index, Afghanistan is the 15th least developed country in the world. The average life expectancy is estimated to be around 60 years.[244][245] The country's maternal mortality rate is 396 deaths/100,000 live births and its infant mortality rate is 66[246] to 112.8 deaths in every 1,000 live births.[247] The Ministry of Public Health plans to cut the infant mortality rate to 400 for every 100,000 live births before 2020. The country has more than 3,000 midwives, with an additional 300 to 400 being trained each year.[248]
 
 There are over 100 hospitals in Afghanistan,[249] with the most advanced treatments being available in Kabul. The French Medical Institute for Children and Indira Gandhi Children's Hospital in Kabul are the leading children's hospitals in the country. Some of the other leading hospitals in Kabul include the Jamhuriat Hospital and Jinnah Hospital.[250] In spite of all this, many Afghans travel to Pakistan and India for advanced treatment.
 
@@ -365,7 +359,7 @@ It was reported in 2006 that nearly 60% of the Afghan population lives within a 
 
 Education
 
-UNESCO_Institute_of_Statistics_Afghanistan_Literacy_Rate_population_plus15_1980-2015.png Education in Afghanistan includes K–12 and higher education, which is overseen by the Ministry of Education and the Ministry of Higher Education. There are over 16,000 schools in the country and roughly 9 million students. Of this, about 60% are males and 40% females. Over 174,000 students are enrolled in different universities around the country. About 21% of these are females.[257] Former Education Minister Ghulam Farooq Wardak had stated that construction of 8,000 schools is required for the remaining children who are deprived of formal learning.[258]
+Education in Afghanistan includes K–12 and higher education, which is overseen by the Ministry of Education and the Ministry of Higher Education. There are over 16,000 schools in the country and roughly 9 million students. Of this, about 60% are males and 40% females. Over 174,000 students are enrolled in different universities around the country. About 21% of these are females.[257] Former Education Minister Ghulam Farooq Wardak had stated that construction of 8,000 schools is required for the remaining children who are deprived of formal learning.[258]
 
 The top universities in Afghanistan are the American University of Afghanistan (AUAF) followed by Kabul University (KU), both of which are located in Kabul. The National Military Academy of Afghanistan, modeled after the United States Military Academy at West Point, is a four-year military development institution dedicated to graduating officers for the Afghan Armed Forces. The Afghan Defense University was constructed near Qargha in Kabul. Major universities outside of Kabul include Kandahar University in the south, Herat University in the northwest, Balkh University and Kunduz University in the north, Nangarhar University and Khost University in the east. The United States is building six faculties of education and five provincial teacher training colleges around the country, two large secondary schools in Kabul, and one school in Jalalabad.[259]
 
@@ -376,7 +370,7 @@ In 2017, Kazakhstan launched an official development assistance program (ODA) to
 
 Culture
 
-Grupka_Pasztunów_-_Qajsār_-_001620s.jpg in Faryab Province]] Afghan_girls_in_traditional_clothes-May_2011.jpg girls in traditional clothing in Mazar-i-Sharif]]
+in Faryab Province]] girls in traditional clothing in Mazar-i-Sharif]]
 
 Afghanistan is mostly a tribal society with different regions of the country having its own subculture. Their history is traced back to at least the time of the Achaemenid Empire in 500 BCE.[265] In the southern and eastern region, the people live according to the Pashtun culture by following Pashtunwali (Pashtun way).[266] The Pashtuns (and Baloch) are largely connected to the culture of South Asia. The remaining Afghans are culturally Persian and Turkic. Some non-Pashtuns who live in proximity with Pashtuns have adopted Pashtunwali in a process called Pashtunization, while some Pashtuns have been Persianized. Those who have lived in Pakistan and Iran over the last 30 years have been further influenced by the cultures of those neighboring nations.
 
@@ -402,7 +396,7 @@ In May 2017, United Nations Assistance Mission in Afghanistan concluded that the
 
 Media and entertainment
 
-TOLOnews_Studio_.jpg in Kabul]] Afghanistan has around 150 radio stations and over 50 television stations, which includes the state-owned RTA TV and various private channels such as TOLO and Shamshad TV. The first Afghan newspaper was published in 1906, and there are hundreds of print outlets today. By the 1920s, Radio Kabul was broadcasting local radio services. Television programs began airing in the early 1970s. Voice of America, BBC, and Radio Free Europe/Radio Liberty (RFE/RL) broadcast in both of Afghanistan's official languages.
+in Kabul]] Afghanistan has around 150 radio stations and over 50 television stations, which includes the state-owned RTA TV and various private channels such as TOLO and Shamshad TV. The first Afghan newspaper was published in 1906, and there are hundreds of print outlets today. By the 1920s, Radio Kabul was broadcasting local radio services. Television programs began airing in the early 1970s. Voice of America, BBC, and Radio Free Europe/Radio Liberty (RFE/RL) broadcast in both of Afghanistan's official languages.
 
 Since 2002, press restrictions have been gradually relaxed and private media diversified. Freedom of expression and the press is promoted in the 2004 constitution, and censorship is banned, although defaming individuals or producing material contrary to the principles of Islam is prohibited. The Afghan government cited the growth in the media sector as one of its achievements.[279] In 2017, Reporters Without Borders ranked Afghanistan 120th in the Press Freedom Index out of 180 countries, a better rating than all its neighbors.[280] According to _Freedom of the Press_ as of 2015, Afghanistan is "partly free," whereas most countries in Asia are "not free."
 
@@ -414,7 +408,7 @@ Telecommunication services in Afghanistan are provided by Afghan Telecom, Afghan
 
 Cuisine
 
-Afghan_cuisine.jpg Afghan cuisine is largely based upon the nation's chief crops, such as wheat, maize, barley and rice. Accompanying these staples are native fruits and vegetables as well as dairy products such as milk, yogurt and whey. Kabuli palaw is the national dish of Afghanistan.[283] The nation's culinary specialties reflect its ethnic and geographic diversity.[284] Afghanistan is known for its high quality pomegranates, grapes, and sweet melons.[285]
+Afghan cuisine is largely based upon the nation's chief crops, such as wheat, maize, barley and rice. Accompanying these staples are native fruits and vegetables as well as dairy products such as milk, yogurt and whey. Kabuli palaw is the national dish of Afghanistan.[283] The nation's culinary specialties reflect its ethnic and geographic diversity.[284] Afghanistan is known for its high quality pomegranates, grapes, and sweet melons.[285]
 
 Poetry
 
@@ -422,7 +416,7 @@ Classic Persian and Pashto poetry are a cherished part of Afghan culture. Thursd
 
 Sports
 
-Zohib_Islam_Amiri_(in_red_uniform)_vs_Jeje_Lalpekhlua_(in_blue_uniform).jpg (in red uniforms) before its first win over India (in blue) during the 2011 SAFF Championship.]] Nowruz_Buzkashi_Match_in_Mazar_(5778806122).jpg]]
+(in red uniforms) before its first win over India (in blue) during the 2011 SAFF Championship.]] ]]
 
 Sport in Afghanistan is managed by the Afghan Sports Federation. Cricket and association football are the two most popular sports in the country.[288][289] The Afghan Sports Federation promotes cricket, association football, basketball, volleyball, golf, handball, boxing, taekwondo, weightlifting, bodybuilding, track and field, skating, bowling, snooker, chess, and other sports.
 

@@ -28,7 +28,7 @@ It is uncertain which European nation arrived first in Barbados, which most like
 
 English settlement in the 16th century
 
-GEORGE_WASHINGTON_HOUSE_-_BARBADOS.jpg was visited by George Washington in 1751, in what is believed to have been his only trip outside the present day United States.[26]]] The first English ship, which had arrived on May 14th, 1625, was captained by John Powell. The first settlement began on 17 February 1627, near what is now Holetown (formerly Jamestown),[27] by a group led by John Powell's younger brother, Henry, consisting of 80 settlers and 10 English labourers. The latter were young indentured labourers who according to some sources had been abducted, effectively making them slaves.[28] Some sources state that some Africans were amongst these first settlers.[29]
+was visited by George Washington in 1751, in what is believed to have been his only trip outside the present day United States.[26]]] The first English ship, which had arrived on May 14th, 1625, was captained by John Powell. The first settlement began on 17 February 1627, near what is now Holetown (formerly Jamestown),[27] by a group led by John Powell's younger brother, Henry, consisting of 80 settlers and 10 English labourers. The latter were young indentured labourers who according to some sources had been abducted, effectively making them slaves.[28] Some sources state that some Africans were amongst these first settlers.[29]
 
 The settlement was established as a proprietary colony and funded by Sir William Courten, a City of London merchant who acquired the title to Barbados and several other islands. So the first colonists were actually tenants and much of the profits of their labour returned to Courten and his company.[30] Courten's title was later transferred to James Hay, 1st Earl of Carlisle, in what was called the "Great Barbados Robbery." Carlisle then chose as governor Henry Hawley, who established the House of Assembly in 1639, in an effort to appease the planters, who might otherwise have opposed his controversial appointment.[31][32]
 
@@ -44,7 +44,7 @@ The introduction of sugar cane from Dutch Brazil in 1640 completely transformed 
 
 18th and 19th centuries
 
-Bussa_statue.png, Bridgetown. Bussa led the largest slave rebellion in Barbadian history.]] The harsh conditions endured by the slaves resulted in several planned slave rebellions, the largest of which was Bussa's rebellion in 1816 which was suppressed by British troops.[46] Growing opposition to slavery led to its abolition in the British Empire in 1834.[47] However the white plantocracy class retained control of the political and economic situation on the island, with most workers living in relative poverty.[48]
+, Bridgetown. Bussa led the largest slave rebellion in Barbadian history.]] The harsh conditions endured by the slaves resulted in several planned slave rebellions, the largest of which was Bussa's rebellion in 1816 which was suppressed by British troops.[46] Growing opposition to slavery led to its abolition in the British Empire in 1834.[47] However the white plantocracy class retained control of the political and economic situation on the island, with most workers living in relative poverty.[48]
 
 The 1780 hurricane killed over 4,000 people on Barbados.[49][50] In 1854, a cholera epidemic killed over 20,000 inhabitants.[51]
 
@@ -77,7 +77,7 @@ The erosion of limestone in the northeast of the island, in the Scotland Distric
 
 Climate
 
-Bathsheba,_Barbados_02.jpg]] The country generally experiences two seasons, one of which includes noticeably higher rainfall. Known as the "wet season", this period runs from June to December. By contrast, the "dry season" runs from December to May. Annual precipitation ranges between . From December to May the average temperatures range from , while between June and November, they range from .[72]
+]] The country generally experiences two seasons, one of which includes noticeably higher rainfall. Known as the "wet season", this period runs from June to December. By contrast, the "dry season" runs from December to May. Annual precipitation ranges between . From December to May the average temperatures range from , while between June and November, they range from .[72]
 
 On the Köppen climate classification scale, much of Barbados is regarded as a tropical monsoon climate (Am). However, breezes of abound throughout the year and give Barbados a climate which is moderately tropical.
 
@@ -85,7 +85,7 @@ Infrequent natural hazards include earthquakes, landslips, and hurricanes. Barba
 
 Environmental issues
 
-BarbadosFromISS.jpg.]] Barbados is susceptible to environmental pressures. As one of the world's most densely populated isles, the government worked during the 1990s[74] to aggressively integrate the growing south coast of the island into the Bridgetown Sewage Treatment Plant to reduce contamination of offshore coral reefs.[75][76] As of the first decade of the 21st century, a second treatment plant has been proposed along the island's west coast. Being so densely populated, Barbados has made great efforts to protect its underground aquifers.[77]
+.]] Barbados is susceptible to environmental pressures. As one of the world's most densely populated isles, the government worked during the 1990s[74] to aggressively integrate the growing south coast of the island into the Bridgetown Sewage Treatment Plant to reduce contamination of offshore coral reefs.[75][76] As of the first decade of the 21st century, a second treatment plant has been proposed along the island's west coast. Being so densely populated, Barbados has made great efforts to protect its underground aquifers.[77]
 
 As a coral-limestone island, Barbados is highly permeable to seepage of surface water into the earth. The government has placed great emphasis on protecting the catchment areas that lead directly into the huge network of underground aquifers and streams.[78] On occasion illegal squatters have breached these areas, and the government has removed squatters to preserve the cleanliness of the underground springs which provide the island's drinking water.[79]
 
@@ -101,8 +101,6 @@ Barbados is also the host to the green monkey. The green monkey is found in West
 
 
 Demographics
-
-Barbados_bus_stop.jpg Bridgetown_049.jpg
 
 The 2010 national census conducted by the Barbados Statistical Service reported a resident population of 277,821, of whom 133,018 were male and 144,803 were female.[90]
 
@@ -131,7 +129,7 @@ An English-based creole language, referred to locally as _Bajan_, is spoken by m
 
 Religion
 
-Historic_Bridgetown_and_its_Garrison-115165.jpg, Bridgetown]]
+, Bridgetown]]
 
 Most Barbadians of African and European descent are Christians (95%), the largest denomination being Anglican (40%).[106] Other Christian denominations with significant followings in Barbados are the Catholic Church (administered by Roman Catholic Diocese of Bridgetown), Pentecostals, Jehovah's Witnesses, the Seventh-day Adventist Church and Spiritual Baptists.[107] The Church of England was the official state religion until its legal disestablishment by the Parliament of Barbados following independence.[108]
 
@@ -140,7 +138,7 @@ Other religions in Barbados include Hinduism, Islam, Bahá'í,[109] Judaism.[110
 
 Government and politics
 
-Bridgetown_barbados_parliament_building.jpg in Bridgetown.]] Barbados has been an independent country since 30 November 1966.[111] It functions as a constitutional monarchy and parliamentary democracy modelled on the British Westminster system. The Queen of Barbados, Elizabeth II, is head of state and is represented locally by the Governor-General of Barbados—presently Sandra Mason. Both are advised on matters of the Barbadian state by the Prime Minister of Barbados, who is head of government. There are 30 representatives within the House of Assembly.
+in Bridgetown.]] Barbados has been an independent country since 30 November 1966.[111] It functions as a constitutional monarchy and parliamentary democracy modelled on the British Westminster system. The Queen of Barbados, Elizabeth II, is head of state and is represented locally by the Governor-General of Barbados—presently Sandra Mason. Both are advised on matters of the Barbadian state by the Prime Minister of Barbados, who is head of government. There are 30 representatives within the House of Assembly.
 
 The Constitution of Barbados is the supreme law of the nation.[112] The Attorney General heads the independent judiciary. New Acts are passed by the Barbadian Parliament and require royal assent by the governor-general to become law.
 
@@ -199,7 +197,7 @@ Buggery, the colonial era law remains illegal in Barbados and bears a maximum se
 
 Economy
 
-Sandy_Lane.jpg is a leading resort in Barbados's tourism sector]] Barbados is the 53rd richest country in the world in terms of GDP (Gross Domestic Product) per capita,[120] has a well-developed mixed economy, and a moderately high standard of living. According to the World Bank, Barbados is classified as being in its 66 top high income economies of the world.[121] Despite this, a 2012 self-study in conjunction with the Caribbean Development Bank revealed 20% of Barbadians live in poverty, and nearly 10% cannot meet their basic daily food needs.[122]
+is a leading resort in Barbados's tourism sector]] Barbados is the 53rd richest country in the world in terms of GDP (Gross Domestic Product) per capita,[120] has a well-developed mixed economy, and a moderately high standard of living. According to the World Bank, Barbados is classified as being in its 66 top high income economies of the world.[121] Despite this, a 2012 self-study in conjunction with the Caribbean Development Bank revealed 20% of Barbadians live in poverty, and nearly 10% cannot meet their basic daily food needs.[122]
 
 Historically, the economy of Barbados had been dependent on sugarcane cultivation and related activities, but since the late 1970s and early 1980s it has diversified into the manufacturing and tourism sectors.[123] Offshore finance and information services have become important foreign exchange earners, and there is a healthy light manufacturing sector. Since the 1990s the Barbados Government has been seen as business-friendly and economically sound.[124] The island saw a construction boom, with the development and redevelopment of hotels, office complexes, and homes, partly due to the staging of the 2007 Cricket World Cup.[125] This slowed during the 2008 to 2011 world economic crisis and the recession.[126]
 
@@ -219,7 +217,7 @@ See Health in Barbados
 
 Education
 
-Christ_Church,_Barbados_014.jpg.]]
+.]]
 
 The Barbados literacy rate is ranked close to 100%.[133][134] The mainstream public education system of Barbados is fashioned after the British model. The government of Barbados spends 6.7% of its GDP on education (2008).[135]
 
@@ -244,13 +242,13 @@ The largest carnival-like cultural event that takes place on the island is the C
 
 Cuisine
 
-Mount_Gay_Rum_Visitors_Centre,_Spring_Garden_HWY,_Barbados-002.jpg visitors centre]] Bajan cuisine is a mixture of African, Indian, Irish, Creole and British influences. A typical meal consists of a main dish of meat or fish, normally marinated with a mixture of herbs and spices, hot side dishes, and one or more salads. The meal is usually served with one or more sauces.[139] The national dish of Barbados is Cou-Cou & Flying Fish with spicy gravy.[140] Another traditional meal is "Pudding and Souse" a dish of pickled pork with spiced sweet potatoes.[141] A wide variety of seafood and meats are also available.
+visitors centre]] Bajan cuisine is a mixture of African, Indian, Irish, Creole and British influences. A typical meal consists of a main dish of meat or fish, normally marinated with a mixture of herbs and spices, hot side dishes, and one or more salads. The meal is usually served with one or more sauces.[139] The national dish of Barbados is Cou-Cou & Flying Fish with spicy gravy.[140] Another traditional meal is "Pudding and Souse" a dish of pickled pork with spiced sweet potatoes.[141] A wide variety of seafood and meats are also available.
 
 The Mount Gay Rum visitors centre in Barbados claims to be the world's oldest remaining rum company, with earliest confirmed deed from 1703. Cockspur Rum and Malibu are also from the island. Barbados is home to the Banks Barbados Brewery, which brews Banks Beer, a pale lager, as well as Banks Amber Ale.[142] Banks also brews Tiger Malt, a non-alcoholic malted beverage. 10 Saints beer is brewed in Speightstown, St. Peter in Barbados and aged for 90 days in Mount Gay 'Special Reserve' Rum casks. It was first brewed in 2009 and is available in certain Caricom nations.[143]
 
 Music
 
-Rihanna-brisbane.jpg Rihanna, a native of Barbados.]] In music, nine-time Grammy Award winner Rihanna (born in Saint Michael) is one of Barbados's best-known artists and one of the best selling music artists of all time, selling over 200 million records worldwide. In 2009 she was appointed as an Honorary Ambassador of Youth and Culture for Barbados by the late Prime Minister, David Thompson.[144]
+Rihanna, a native of Barbados.]] In music, nine-time Grammy Award winner Rihanna (born in Saint Michael) is one of Barbados's best-known artists and one of the best selling music artists of all time, selling over 200 million records worldwide. In 2009 she was appointed as an Honorary Ambassador of Youth and Culture for Barbados by the late Prime Minister, David Thompson.[144]
 
 Singer-songwriters Rayvon and Shontelle, the band Cover Drive, musician Rupee and Mark Morrison, singer of Top 10 hit "Return of the Mack" also originate from Barbados. Grandmaster Flash (born Joseph Saddler in Bridgetown in 1958) is a hugely influential musician of Barbadian origin, pioneering hip-hop DJing, cutting, and mixing in 1970s New York. The Merrymen are a well known Calypso band based in Barbados, performing from the 1960s into the 2010s.
 
@@ -287,7 +285,7 @@ Public holidays
 
 Sports
 
-Kensington_Oval_yes.jpg in Bridgetown hosted the 2007 Cricket World Cup final. Cricket is one of the most followed games in Barbados and Kensington Oval is often referred to as the "Mecca in Cricket" due to its significance and contributions to the sport.]] Horesandjockey.jpg As in other Caribbean countries of British colonial heritage, cricket is very popular on the island. The West Indies cricket team usually includes several Barbadian players. In addition to several warm-up matches and six "Super Eight" matches, the country hosted the final of the 2007 Cricket World Cup. Barbados has produced many great cricketers including Sir Garfield Sobers, Sir Frank Worrell, Sir Clyde Walcott, Sir Everton Weekes, Gordon Greenidge, Wes Hall, Charlie Griffith, Joel Garner, Desmond Haynes and Malcolm Marshall.
+in Bridgetown hosted the 2007 Cricket World Cup final. Cricket is one of the most followed games in Barbados and Kensington Oval is often referred to as the "Mecca in Cricket" due to its significance and contributions to the sport.]] As in other Caribbean countries of British colonial heritage, cricket is very popular on the island. The West Indies cricket team usually includes several Barbadian players. In addition to several warm-up matches and six "Super Eight" matches, the country hosted the final of the 2007 Cricket World Cup. Barbados has produced many great cricketers including Sir Garfield Sobers, Sir Frank Worrell, Sir Clyde Walcott, Sir Everton Weekes, Gordon Greenidge, Wes Hall, Charlie Griffith, Joel Garner, Desmond Haynes and Malcolm Marshall.
 
 Rugby is also popular in Barbados as well.
 
@@ -313,8 +311,6 @@ Barbadian team The Flyin' Fish, are the 2009 Segway Polo World Champions.[146]
 
 
 Transport
-
-Barbados_Midibus1.jpg
 
 Although Barbados is about across at its widest point, a car journey from Six Cross Roads in St. Philip (south-east) to North Point in St. Lucy (north-central) can take one and a half hours or longer due to road conditions. Barbados has half as many registered cars as citizens.
 

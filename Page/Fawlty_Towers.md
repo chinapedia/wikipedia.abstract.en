@@ -9,7 +9,7 @@ In 1980, Cleese received the BAFTA for Best Entertainment Performance, and in a 
 
 Origins
 
-Gleneagles_Hotel,_Torquay_-_geograph.org.uk_-_1444339.jpg, Torquay in 2009. After staying there with the Monty Python team in 1970, the eccentric behaviour of owner Donald Sinclair inspired Cleese to write the series.]] In May 1970, the Monty Python comedy group stayed at the Gleneagles Hotel in Torquay, Devon while filming on location in Paignton.[6] John Cleese was fascinated with the behaviour of the owner, Donald Sinclair, later describing him as "the rudest man I've ever come across in my life."[7] Among such behaviour by Sinclair was his criticism of Terry Gilliam's "too American" table etiquette and tossing Eric Idle's briefcase out of a window "in case it contained a bomb."[8] Sinclair justified his actions by claiming the hotel had "staff problems".[9] Rosemary Harrison, a waitress at the Gleneagles under Sinclair, described him as "bonkers", lacking in hospitality, and deeming him wholly unsuitable for a hotel proprietor. "It was as if he didn't want the guests to be there."[10] Cleese and Connie Booth stayed on at the hotel after filming, furthering their research of its owner.[11]
+, Torquay in 2009. After staying there with the Monty Python team in 1970, the eccentric behaviour of owner Donald Sinclair inspired Cleese to write the series.]] In May 1970, the Monty Python comedy group stayed at the Gleneagles Hotel in Torquay, Devon while filming on location in Paignton.[6] John Cleese was fascinated with the behaviour of the owner, Donald Sinclair, later describing him as "the rudest man I've ever come across in my life."[7] Among such behaviour by Sinclair was his criticism of Terry Gilliam's "too American" table etiquette and tossing Eric Idle's briefcase out of a window "in case it contained a bomb."[8] Sinclair justified his actions by claiming the hotel had "staff problems".[9] Rosemary Harrison, a waitress at the Gleneagles under Sinclair, described him as "bonkers", lacking in hospitality, and deeming him wholly unsuitable for a hotel proprietor. "It was as if he didn't want the guests to be there."[10] Cleese and Connie Booth stayed on at the hotel after filming, furthering their research of its owner.[11]
 
 At the time, Cleese was a writer on the 1970s British TV sitcom _Doctor in the House_ for London Weekend Television. An early prototype of the character that became known as Basil Fawlty was developed in an episode ("No Ill Feeling") of the third _Doctor_ series (titled _Doctor at Large_). In this edition, the main character checks into a small-town hotel, his very presence seemingly winding up the aggressive and incompetent manager (played by Timothy Bateson) with a domineering wife. The show was broadcast on 30 May 1971.[12]
 
@@ -46,7 +46,7 @@ Characters
 
 Basil Fawlty
 
-Fawlty_Towers_cast.jpg (Sybil Fawlty), Connie Booth (Polly) and Andrew Sachs (Manuel); _(back)_ John Cleese (Basil Fawlty)]] Basil Fawlty, played by John Cleese, is a cynical and snobbish misanthrope who is desperate to belong to a higher social class. He sees a successful hotel as a means of achieving this, yet his job forces him to be polite to people he despises.
+(Sybil Fawlty), Connie Booth (Polly) and Andrew Sachs (Manuel); _(back)_ John Cleese (Basil Fawlty)]] Basil Fawlty, played by John Cleese, is a cynical and snobbish misanthrope who is desperate to belong to a higher social class. He sees a successful hotel as a means of achieving this, yet his job forces him to be polite to people he despises.
 
 He is intimidated by his wife Sybil Fawlty. He yearns to stand up to her, but his plans frequently conflict with her demands. She is often verbally abusive (describing him as "an ageing, brilliantined stick insect") but although he towers over her, he often finds himself on the receiving end of her temper, verbally and physically (as in "The Builders").
 
@@ -136,7 +136,7 @@ In a list of the 100 Greatest British Television Programmes drawn up by the Brit
 
 Awards and accolades
 
-Basil_Fawlty.jpg Three British Academy Television Awards (BAFTAs) were awarded to people for their involvement with the series. Both of the series were awarded the BAFTA in the category Best Scripted Comedy, the first being won by John Howard Davies in 1976, and the second by Douglas Argent and Bob Spiers in 1980. In 1980, Cleese received the BAFTA for Best Entertainment Performance.[51]
+Three British Academy Television Awards (BAFTAs) were awarded to people for their involvement with the series. Both of the series were awarded the BAFTA in the category Best Scripted Comedy, the first being won by John Howard Davies in 1976, and the second by Douglas Argent and Bob Spiers in 1980. In 1980, Cleese received the BAFTA for Best Entertainment Performance.[51]
 
 In a list drawn up by the British Film Institute in 2000, voted by industry professionals, _Fawlty Towers_ was named the best British television series of all time.[52][53][54]
 

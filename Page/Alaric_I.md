@@ -9,7 +9,7 @@ Moving swiftly along Roman roads, Alaric sacked the cities of Aquileia and Cremo
 
 Early life
 
-Alarich_steel_engraving.jpg Born on Peuce Island at the mouth of the Danube Delta in present-day Romania, Alaric belonged to the noble Balti dynasty of the Tervingian Goths. The Goths suffered setbacks against the Huns, made a mass migration across the Danube, and fought a war with Rome. Alaric was probably a child during this period.
+Born on Peuce Island at the mouth of the Danube Delta in present-day Romania, Alaric belonged to the noble Balti dynasty of the Tervingian Goths. The Goths suffered setbacks against the Huns, made a mass migration across the Danube, and fought a war with Rome. Alaric was probably a child during this period.
 
 
 In Roman service
@@ -25,7 +25,7 @@ According to Edward Gibbon in _The History of the Decline and Fall of the Roman 
 
 In Greece
 
-Ludwig_Thiersch_-_Alaric_à_Athènes.jpg, 1894]] Alaric struck first at the eastern empire. He marched to the neighborhood of Constantinople but, finding himself unable to undertake a siege, retraced his steps westward and then marched southward through Thessaly and the unguarded pass of Thermopylae into Greece.
+, 1894]] Alaric struck first at the eastern empire. He marched to the neighborhood of Constantinople but, finding himself unable to undertake a siege, retraced his steps westward and then marched southward through Thessaly and the unguarded pass of Thermopylae into Greece.
 
 The armies of the eastern empire were occupied with Hunnic incursions in Asia Minor and Syria. Instead, Rufinus attempted to negotiate with Alaric in person, which only aroused suspicions in Constantinople that Rufinus was in league with the Goths. Stilicho now marched east against Alaric. According to Claudian, Stilicho was in a position to destroy the Goths when he was ordered by Arcadius – influenced by Rufinus – to leave Illyricum. Soon after, Rufinus' own soldiers hacked him to death. Power in Constantinople now passed to the eunuch Chamberlain Eutropius.
 
@@ -55,7 +55,7 @@ No blood was shed this time; Alaric relied on hunger as his most powerful weapon
 
 Second siege of Rome
 
-Sack_of_Rome_by_the_Visigoths_on_24_August_410_by_JN_Sylvestre_1890.jpg by the Visigoths on 24 August 410 by J-N Sylvestre (1890)]] Throughout his career, Alaric's primary goal was not to undermine the Empire, but to secure for himself a regular and recognized position within the Empire's borders. His demands were certainly grand: the concession of a block of territory 200 miles long by 150 wide between the Danube and the Gulf of Venice (to be held probably on some terms of nominal dependence on the Empire) and the title of commander-in-chief of the Imperial Army. As outrageous as his terms were, the emperor would have been well-advised to grant them. Honorius, however, refused to see beyond his own safety, guaranteed by the dikes and marshes of Ravenna. As all attempts to conduct a satisfactory negotiation with this emperor failed, Alaric, after instituting a second siege and blockade of Rome in 409, came to terms with the Senate. With their consent, he set up a rival emperor, the prefect of the city, a Greek named Priscus Attalus.
+by the Visigoths on 24 August 410 by J-N Sylvestre (1890)]] Throughout his career, Alaric's primary goal was not to undermine the Empire, but to secure for himself a regular and recognized position within the Empire's borders. His demands were certainly grand: the concession of a block of territory 200 miles long by 150 wide between the Danube and the Gulf of Venice (to be held probably on some terms of nominal dependence on the Empire) and the title of commander-in-chief of the Imperial Army. As outrageous as his terms were, the emperor would have been well-advised to grant them. Honorius, however, refused to see beyond his own safety, guaranteed by the dikes and marshes of Ravenna. As all attempts to conduct a satisfactory negotiation with this emperor failed, Alaric, after instituting a second siege and blockade of Rome in 409, came to terms with the Senate. With their consent, he set up a rival emperor, the prefect of the city, a Greek named Priscus Attalus.
 
 Third siege of Rome
 
@@ -65,7 +65,7 @@ The contemporary ecclesiastics recorded with wonder many instances of the Visigo
 
 Death and funeral
 
-Death_of_Alaric.jpg. 1895 wood engraving.]]
+. 1895 wood engraving.]]
 
 Alaric, having penetrated the city, marched southwards into Calabria. He desired to invade Africa, which, thanks to its grain, had become the key to holding Italy. But a storm battered his ships into pieces and many of his soldiers drowned. Alaric died soon after in Cosenza, probably of fever,[8] and his body was, according to legend, buried under the riverbed of the Busento in accordance with the pagan practices of the Visigothic people.
 

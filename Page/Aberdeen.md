@@ -9,15 +9,11 @@ Aberdeen hosts the Aberdeen International Youth Festival, a major international 
 
 History
 
-The_Town_House,_Old_Aberdeen_-_geograph.org.uk_-_320069.jpg. Once a separate burgh, Old Aberdeen was incorporated into the city in 1891]] Aberdeen1.jpg and Union Street, ]]
+. Once a separate burgh, Old Aberdeen was incorporated into the city in 1891]] and Union Street, ]]
 
 The Aberdeen area has seen human settlement for at least 8,000 years.[12] The city began as two separate burghs: Old Aberdeen at the mouth of the river Don; and New Aberdeen, a fishing and trading settlement, where the Denburn waterway entered the river Dee estuary. The earliest charter was granted by William the Lion in 1179 and confirmed the corporate rights granted by David I. In 1319, the Great Charter of Robert the Bruce transformed Aberdeen into a property-owning and financially independent community. Granted with it was the nearby Forest of Stocket, whose income formed the basis for the city's Common Good Fund which still benefits Aberdonians.[13][14] During the Wars of Scottish Independence, Aberdeen was under English rule, so Robert the Bruce laid siege to Aberdeen Castle before destroying it in 1308, followed by the massacring of the English garrison. The city was burned by Edward III of England in 1336, but was rebuilt and extended. The city was strongly fortified to prevent attacks by neighbouring lords, but the gates were removed by 1770.
 
-The_Powis_gate_Old_Aberdeen_-_geograph.org.uk_-_421948.jpg
-
 During the Wars of the Three Kingdoms of 1644 to 1647 the city was plundered by both sides. In 1644, it was taken and ransacked by Royalist troops after the Battle of Aberdeen[15] and two years later it was stormed by a Royalist force under the command of the Marquis of Huntly.[16] In 1647 an outbreak of bubonic plague killed a quarter of the population. In the 18th century, a new Town Hall was built and the first social services appeared with the Infirmary at Woolmanhill in 1742 and the Lunatic Asylum in 1779. The council began major road improvements at the end of the 18th century with the main thoroughfares of George Street, King Street and Union Street all completed at the beginning of the 19th century.
-
-Union_Terrace_Aberdeen_Scotland.jpg
 
 The expensive infrastructure works led to the city becoming bankrupt in 1817 during the Post-Napoleonic depression, an economic downturn immediately after the Napoleonic Wars; but the city's prosperity later recovered. The increasing economic importance of Aberdeen and the development of the shipbuilding and fishing industries led to the construction of the present harbour including Victoria Dock and the South Breakwater, and the extension of the North Pier. Gas street lighting arrived in 1824 and an enhanced water supply appeared in 1830 when water was pumped from the Dee to a reservoir in Union Place. An underground sewer system replaced open sewers in 1865.[17] The city was incorporated in 1891. Although Old Aberdeen has a separate history and still holds its ancient charter, it is no longer officially independent. It is an integral part of the city, as is Woodside and the Royal Burgh of Torry to the south of the River Dee.
 
@@ -30,7 +26,7 @@ Aberdeen was in Pictish territory and became Gaelic-speaking at some time in the
 
 Governance
 
-Marischal_College_A.JPG, home of Aberdeen City Council, Broad St.]]
+, home of Aberdeen City Council, Broad St.]]
 
 Aberdeen is locally governed by Aberdeen City Council, which comprises forty-five councillors who represent the city's wards and is headed by the Lord Provost. The current Lord Provost is Barney Crockett.[19] From May 2003 until May 2007 the council was run by a Liberal Democrat and Conservative Party coalition. Following the May 2007 local elections, the Liberal Democrats formed a new coalition with the Scottish National Party.[20][21] After a later SNP by-election gain from the Conservatives, this coalition held 28 of the 43 seats. Following the election of 4 May 2017, the council was controlled by a coalition of Scottish Labour, Scottish Conservatives and independent councillors; the Labour councillors were subsequently suspended by Scottish Labour Party leader, Kezia Dugdale.[22]
 
@@ -41,7 +37,7 @@ In the Scottish Parliament, the city is represented by three constituencies with
 
 Heraldry
 
-Bon_Accord_Lamppost_-_geograph.org.uk_-_1063181.jpg Bon_Accord_Square_-_geograph.org.uk_-_742813.jpg, built in 1823]]
+, built in 1823]]
 
 The arms and banner of the city show three silver towers on red. This motif dates from at least the time of Robert the Bruce and represents the buildings that stood on the three hills of medieval Aberdeen: Aberdeen Castle on Castle Hill (today's Castlegate); the city gate on Port Hill; and a church on St Catherine's Hill (now levelled).[23]
 
@@ -52,7 +48,7 @@ The shield in the coat of arms is supported by two leopards. A local magazine is
 
 Geography
 
-Aberdeen_Coast_light_house.JPG Aberdeen_Beach_2006.jpg Being sited between two river mouths, the city has little natural exposure of bedrock. This leaves local geologists in a slight quandary: despite the high concentration of geoscientists in the area (courtesy of the oil industry), there is only a vague understanding of what underlies the city. To the south side of the city, coastal cliffs expose high-grade metamorphic rocks of the Grampian Group; to the south-west and west are extensive granites intruded into similar high-grade schists; to the north the metamorphics are intruded by gabbroic complexes instead. The small amount of geophysics done, and occasional building-related exposures, combined with small exposures in the banks of the River Don, suggest that it is actually sited on an inlier of Devonian "Old Red" sandstones and silts. The outskirts of the city spread beyond the (inferred) limits of the outlier onto the surrounding metamorphic/ igneous complexes formed during the Dalradian period (approximately 480–600 million years ago) with sporadic areas of igneous Diorite granites to be found, such as that at the Rubislaw quarry which was used to build much of the Victorian parts of the city.[27]
+Being sited between two river mouths, the city has little natural exposure of bedrock. This leaves local geologists in a slight quandary: despite the high concentration of geoscientists in the area (courtesy of the oil industry), there is only a vague understanding of what underlies the city. To the south side of the city, coastal cliffs expose high-grade metamorphic rocks of the Grampian Group; to the south-west and west are extensive granites intruded into similar high-grade schists; to the north the metamorphics are intruded by gabbroic complexes instead. The small amount of geophysics done, and occasional building-related exposures, combined with small exposures in the banks of the River Don, suggest that it is actually sited on an inlier of Devonian "Old Red" sandstones and silts. The outskirts of the city spread beyond the (inferred) limits of the outlier onto the surrounding metamorphic/ igneous complexes formed during the Dalradian period (approximately 480–600 million years ago) with sporadic areas of igneous Diorite granites to be found, such as that at the Rubislaw quarry which was used to build much of the Victorian parts of the city.[27]
 
 On the coast, Aberdeen has a long sand beach between the two rivers, the Dee and the Don, which turns into high sand dunes north of the Don stretching as far as Fraserburgh; to the south of the Dee are steep rocky cliff faces with only minor pebble and shingle beaches in deep inlets. A number of granite outcrops along the south coast have been quarried in the past, making for spectacular scenery and good rock-climbing.
 
@@ -92,13 +88,13 @@ In the household, there were 97,013 individual dwellings recorded in the city of
 
 Religion
 
-St_Machar's_cathedral_with_watch_house_-_geograph.org.uk_-_174651.jpg, Old Aberdeen]] 18th_Jan_2014-_South_&_St._Nicholas_Kirk_Spires.JPG Gilcomston_Church,_Union_St,_Aberdeen.JPG
+, Old Aberdeen]]
 
 Christianity is the main religion practised in the city. Aberdeen's largest denominations are the Church of Scotland (through the Presbytery of Aberdeen) and the Roman Catholic Church, both with numerous churches across the city, with the Scottish Episcopal Church having the third-largest number. The most recent census in 2001 showed that Aberdeen has the highest proportion of non-religious residents of any city in Scotland, with nearly 43% of citizens claiming to have no religion[49] and several former churches in the city have been converted into bars and restaurants. In the Middle Ages, the Kirk of St Nicholas was the only burgh kirk and one of Scotland's largest parish churches. Like a number of other Scottish kirks, it was subdivided after the Reformation, in this case into the East and West churches. At this time, the city also was home to houses of the Carmelites (Whitefriars)[50] and Franciscans (Greyfriars), the latter of which surviving in modified form as the chapel of Marischal College as late as the early 20th century.
 
 St Machar's Cathedral was built twenty years after David I (1124–1153) transferred the pre-Reformation Diocese from Mortlach in Banffshire to Old Aberdeen in 1137. With the exception of the episcopate of William Elphinstone (1484–1511), building progressed slowly. Gavin Dunbar, who followed him in 1518, completed the structure by adding the two western spires and the southern transept. It is now a congregation of the Church of Scotland. Aberdeen has two other cathedrals: St. Mary's Cathedral is a Roman Catholic cathedral in Gothic style, erected in 1859. In addition, St. Andrew's Cathedral serves the Scottish Episcopal Church. It was constructed in 1817 as Archibald Simpson's first commission and contains a memorial to the consecration of the first bishop of the Episcopal Church in the United States of America, which took place nearby. In 1804, St Peter's Church, the first permanent Roman Catholic church in the city after the Reformation was built.[51]
 
-St_Andrew's_Cathedral_-_geograph.org.uk_-_401628.jpg, King Street]]
+, King Street]]
 
 Numerous other Protestant denominations have a presence in Aberdeen. The Salvation Army citadel on the Castlegate dominates the view of east end of Union Street. In addition, there is a Unitarian church, established in 1833 and located in Skene Terrace. Christadelphians have been present in Aberdeen since at least 1844. Over the years, they have rented space to meet at a number of locations and currently meet in the Inchgarth Community Centre in Garthdee.[52] There is also a Quaker meetinghouse on Crown street, the only purpose built Quaker House in Scotland that is still in use today. In addition, there are a number of Baptist congregations in the city, and Evangelical congregations have been appearing in significant numbers since the late 2000s. The city also has two meetinghouses of The Church of Jesus Christ of Latter-day Saints (LDS Church).
 
@@ -107,13 +103,11 @@ There is also a mosque in Old Aberdeen which serves the Islamic community in the
 
 Economy
 
-Rubislaw_Quarry.jpg and the Forth Rail Bridge were constructed using its granite.]] 3rd_Sep_2012-Pocra_Quay_2.JPG an ancient fishing village dating as far back as 1398]]
+and the Forth Rail Bridge were constructed using its granite.]] an ancient fishing village dating as far back as 1398]]
 
 Traditionally, Aberdeen was home to fishing, textile mills, shipbuilding and paper making. These industries have been largely replaced. High technology developments in the electronics design and development industry, research in agriculture and fishing and the oil industry, which has been largely responsible for Aberdeen's economic boom in the last three decades, are now major parts of Aberdeen's economy. Until the 1970s, most of Aberdeen's leading industries dated from the 18th century; mainly these were textiles, foundry work, shipbuilding and paper-making, the oldest industry in the city, with paper having been first made there in 1694. Paper-making has reduced in importance since the closures of Donside Paper Mill in 2001 and the Davidson Mill in 2005 leaving the Stoneywood Paper Mill with a workforce of approximately 500. Textile production ended in 2004 when Richards of Aberdeen closed.
 
 Grey granite was quarried at Rubislaw quarry for more than 300 years, and used for paving setts, kerb and building stones, and monumental and other ornamental pieces. Aberdeen granite was used to build the terraces of the Houses of Parliament and Waterloo Bridge in London. Quarrying finally ceased in 1971. The current owners have begun pumping 40 years of rain water from the quarry with the aim of developing a heritage centre on the site.[54]
-
-NDBQ_26_-_10th_Jan_2015.JPG
 
 Fishing was once the predominant industry, but was surpassed by deep-sea fisheries, which derived a great impetus from improved technologies throughout the 20th century. Catches have fallen because of overfishing and the use of the harbour by oil support vessels,[55] and so although still an important fishing port it is now eclipsed by the more northerly ports of Peterhead and Fraserburgh. The Fisheries Research Services are headquartered in Aberdeen, and there is a marine research lab in Torry.
 
@@ -124,8 +118,6 @@ As oil reserves in the North Sea decrease there is an effort to rebrand Aberdeen
 Aberdeen and the North Sea
 
 Aberdeen had been a major maritime centre throughout the 19th century, when a group of local entrepreneurs launched the first steam-powered trawler. The steam trawling industry expanded and by 1933 Aberdeen was Scotland's top fishing port, employing nearly 3,000 men with 300 vessels sailing from its harbour. By the time oil was coming on stream, much of the trawling fleet had relocated to Peterhead. Although Aberdeen still brings in substantial catches, the tugs, safety vessels and supply ships which pack the harbour far outnumber the trawlers.
-
-Aberdeen_Harbour_from_Air.jpg
 
 Geologists had speculated about the existence of oil and gas in the North Sea since the middle of the 20th century, but tapping its deep and inhospitable waters was another story. With the Middle Eastern oil sheiks becoming more aware of the political and economic power of their oil reserves and government threats of rationing, the industry began to consider the North Sea as a viable source of oil. Exploration commenced in the 1960s and the first major find in the British sector was in November 1970 in the Forties field, east of Aberdeen.
 
@@ -143,16 +135,12 @@ Figures released in 2016 ranked Aberdeen as having the second highest amount of 
 
 Shopping
 
-The_Academy,_Belmont_St_and_Schoolhill,_Aberdeen.JPG 28th_Feb_2015_-_Union_St_2.JPG
-
 The traditional shopping streets are Union Street and George Street, now complemented by shopping centres, notably the Bon Accord & St Nicholas and the Trinity Shopping Centre. A £190 million[65] retail development, Union Square, reached completion in late September/early October 2009. Major retail parks away from the city centre include the Berryden Retail Park, the Kittybrewster Retail Park and the Beach Boulevard Retail Park.
 
 In March 2004, Aberdeen was awarded Fairtrade City status by the Fairtrade Foundation.[66] Along with Dundee, it shares the distinction of being the first city in Scotland to receive this accolade.
 
 
 Landmarks
-
-16th_Aug_2012-_Rosemount_2.JPG 18th_Jan_2014_-_Town_House_1.JPG Granite_Buildings_on_Union_Street_-_geograph.org.uk_-_94227.jpg Aberdeen,_Salvation_Army_Citadel_-_geograph.org.uk_-_1958642.jpg Crown_St_6_-_26th_Sep_2013.JPG Crown_St_3_-_26th_Sep_2013.JPG
 
 Aberdeen's architecture is known for its principal use during the Victorian era of granite, which has led to its local nickname of the _Granite City_ or more romantically the less commonly used name the _Silver City_, since the Mica in the stone sparkles in the sun. The hard grey stone is one of the most durable materials available and helps to explain why the city's buildings look brand-new when they have been newly cleaned and the cement has been pointed. Unlike other Scottish cities where sandstone has been used, the buildings are not weathering and need very little structural maintenance on their masonry. The buildings can however become noticeably darker as a result of pollution and grime accumulated over the years. There has however been great success in cleaning the buildings which can result in their façade being restored back to much how they looked originally.
 
@@ -166,19 +154,13 @@ Parks, gardens and open spaces
 
 Aberdeen has long been famous for its 45[69] parks and gardens, and citywide floral displays which include two million roses, eleven million daffodils and three million crocuses. The city has won the Royal Horticultural Society's Britain in Bloom 'Best City' award ten times,[70] the overall Scotland in Bloom competition twenty times[71] and the large city category every year since 1968.[72] However, despite recent spurious reports, Aberdeen has never been banned from the Britain in Bloom competition.[73] The city won the 2006 Scotland in Bloom "Best City" award along with the International Cities in Bloom award. The suburb of Dyce also won the Small Towns award.[74][75]
 
-Duthie_Park,_Aberdeen.JPG
-
 Duthie Park opened in 1899 on the north bank of the River Dee. It was named after and given to the city by Miss Elizabeth Crombie Duthie of Ruthrieston in 1881. It has extensive gardens, a rose hill, boating pond, bandstand, and play area as well as Europe's second largest enclosed gardens the David Welch Winter Gardens. Hazlehead Park, is large and forested, located on the outskirts of the city, it is popular with walkers in the forests, sports enthusiasts, naturalists and picnickers. There are football pitches, two golf courses, a pitch and putt course and a horse riding school.
-
-Union_Terrace_Gardens,_Aberdeen.JPG
 
 Aberdeen's success in the Britain in Bloom competitions is often attributed to Johnston Gardens, a small park of one hectare in the west end of the city containing many different flowers and plants which have been renowned for their beauty. In 2002, the garden was named the best garden in the British Islands.[76] Seaton Park, formerly the grounds of a private house, is on the edge of the grounds of St Machar's Cathedral. The Cathedral Walk is maintained in a formal style with a great variety of plants providing a popular display. The park includes several other areas with contrasting styles to this. Union Terrace Gardens opened in 1879 and is situated in the centre of the city. It covers in the centre of Aberdeen bordered on three sides by Union Street, Union Terrace and Rosemount Viaduct. The park forms a natural amphitheatre located in the Denburn Valley and is an oasis of peace and calm in the city centre. A recent proposal to build a three-storey concrete and steel superstructure in place of the gardens, part of which will provide a commercial concourse, has proved highly controversial.
 
 Situated next to each other, Victoria Park and Westburn Park cover between them. Victoria Park opened in 1871. There is a conservatory used as a seating area and a fountain made of fourteen different granites, presented to the people by the granite polishers and master builders of Aberdeen. Opposite to the north is Westburn Park opened in 1901. With large grass pitches it is widely used for field sports. There is large tennis centre with indoor and outdoor courts, a children's cycle track, play area and a grass boules lawn.
 
 Theatres and concert halls
-
-The_Tivoli_Theatre_on_Guild_Street,_Aberdeen.JPG His_Majesty's_Theatre,_Rosemount,_Aberdeen.JPG
 
 Aberdeen has hosted several theatres throughout its history, some of which have subsequently been converted or destroyed. The most famous include:
 
@@ -194,7 +176,7 @@ The main concert hall is the Music Hall on Union Street, built in 1822.
 
 Transport
 
-Aberdeen_Station_Plaza.JPG Scot-Aberdeen-rail.jpg, main concourse]]
+, main concourse]]
 
 Aberdeen Airport (ABZ), at Dyce in the north of the city, serves domestic and international destinations including France, Germany, the Netherlands, Spain, Belgium, Austria, Ireland and Scandinavian countries. The heliport which serves the oil industry and rescue services is one of the world's busiest commercial heliports.[80]
 
@@ -203,8 +185,6 @@ Aberdeen railway station is on the main UK rail network and Abellio ScotRail has
 Until 2007, a 1950s-style concrete bus station at Guild Street served out-of-the-city locations; it has since transferred to a new and well-presented bus station just 100 metres to the east off Market Street as part of the Union Square development.
 
 There are six major roads in and out of the city. The A90 is the main arterial route into the city from the north and south, linking Aberdeen to Edinburgh, Dundee, Brechin and Perth in the south and Ellon, Peterhead and Fraserburgh in the north. The A96 links Elgin and Inverness and the north west. The A93 is the main route to the west, heading towards Royal Deeside and the Cairngorms. After Braemar, it turns south, providing an alternative tourist route to Perth. The A944 also heads west, through Westhill and on to Alford. The A92 was the original southerly road to Aberdeen prior to the building of the A90, and is now used as a tourist route, connecting the towns of Montrose and Arbroath and on the east coast. The A947 exits the city at Dyce and goes on to Newmachar, Oldmeldrum and Turriff finally ending at Banff and Macduff.
-
-River_Dee_Railway_Bridge_-_geograph.org.uk_-_1445234.jpg
 
 After first being mooted some 60 years ago and being held up for the past five years by a number of legal challenges, Aberdeen's long-awaited Western Peripheral Route was given the go-ahead after campaigners lost their appeal to the UK Supreme Court in October 2012. The route was earmarked to be completed in 2018 and was hoped to significantly reduce traffic congestion in and around the city.[81] Aberdeen Harbour is important as the largest in the north of Scotland and serves the ferry route to Orkney and Shetland. Established in 1136, the harbour has been referred to as the oldest business in Britain.[82]
 
@@ -221,29 +201,19 @@ Education
 
 Universities and colleges
 
-King's_College,_Old_Aberdeen_-_geograph.org.uk_-_118509.jpg 2nd_Sep_2012-_Elphinstone_Hall_2.jpg
-
 Aberdeen has two universities, the ancient _University of Aberdeen_, and _Robert Gordon University_, a modern university often referred to as RGU. Aberdeen's student rate of 11.5% is higher than the national average of 7%.[85]
-
-8th_Dec_2012-Abdn_Uni_Library_9.JPG 10th_Aug_2012-_Abdn_Business_Skool.JPG
 
 The University of Aberdeen began as King's College, Aberdeen, which was founded in 1495[86] by William Elphinstone (1431–1514), Bishop of Aberdeen and Chancellor of Scotland. Marischal College, a separate institution, was founded in "New" Aberdeen by George Keith, fifth Earl Marischal of Scotland in 1593.[87] These institutions were merged by order of Parliament in 1860 to form the University of Aberdeen.[88] The university is the fifth oldest in the English-speaking world[89] and offers degrees in a full range of disciplines. Its main campus is in Old Aberdeen in the north of the city and it currently has approximately 14,000 students. The university's debating society is the oldest in Scotland, founded in 1848 as the King's College Debating Society.[90] Today, Aberdeen is consistently ranked among the top 200 universities in the world[91] and is ranked within the top 30 universities in the United Kingdom.[92][93] Aberdeen was also named the 2019 Scottish University of the Year by The Times and Sunday Times Good University Guide.[94]
 
 Robert Gordon's College (originally Robert Gordon's Hospital) was founded in 1750 by the merchant Robert Gordon,[95] grandson of the map maker Robert Gordon of Straloch, and was further endowed in 1816 by Alexander Simpson of Collyhill. Originally devoted to the instruction and maintenance of the sons of poor burgesses of guild and trade in the city, it was reorganised in 1881 as a day and night school for secondary and technical education. In 1903, the vocational education component of the college was designated a Central Institution and was renamed as the Robert Gordon Institute of Technology in 1965. In 1992, university status was awarded and it became Robert Gordon University. The university has expanded and developed significantly in recent years, and was named Best Modern University in the UK for 2012 by _The Sunday Times_. It was previously _The Sunday Times_ Scottish University of the Year for 2011, primarily because of its record on graduate employment. The citation for the 2011 award read: "With a graduate unemployment rate that is lower than the most famous universities, including Oxford and Cambridge, plus a flourishing reputation for research, high student satisfaction rates and ambitious plans for its picturesque campus, the Robert Gordon University is The Sunday Times Scottish University of the Year".[96]
 
-RGU_Riverside_East_building_1.jpg
-
 RGU had two campuses: one in the city centre at Schoolhill/St. Andrew Street and a larger suburban campus at Garthdee and currently has approximately 15,500 students. As of 2013, the Garthdee campus was expanded to include all schools, with the Schoolhill/St. Andrew Street campus being sold to Robert Gordon's College, and the building now functions as the school's Science and Technology Centre. The closure of the Schoolhill site includes the removal of the Student Union building, giving Aberdeen the dubious distinction of having two universities but no student bar.
-
-Aberdeen_College_-_geograph.org.uk_-_852689.jpg
 
 Aberdeen is also home to two artistic schools: Gray's School of Art, founded in 1886, which is one of the oldest established colleges of art in the UK. The Scott Sutherland School of Architecture and the Built Environment, was one of the first architectural schools to have its training courses recognised by the Royal Institute of British Architects. Both are now part of Robert Gordon University and are based at its Garthdee campus. North East Scotland College has several campuses in the city and offers a wide variety of part-time and full-time courses leading to several different qualifications in science. The Scottish Agricultural College is based just outside Aberdeen, on the Craibstone Estate. This is situated beside the roundabout for Aberdeen Airport on the A96. The college provides three services—Learning, Research and Consultancy. The college features many land based courses such as Agriculture, Countryside Management, Sustainable Environmental Management and Rural Business Management. There are a variety of courses from diplomas through to master's degrees. The Marine Laboratory Aberdeen, which specialises in fisheries, Macaulay Land Use Research Institute (soil science), and the Rowett Research Institute (animal nutrition) are some other higher education institutions.[97]
 
 The Aberdeen College of Performing Arts also provides full-time Drama and Musical Theatre training at Further Education level.
 
 Schools
-
-Aberdeen_Grammar_School_-_geograph.org.uk_-_118948.jpg SchoolBuilding.JPG
 
 There are currently 12 secondary schools and 54 primary schools which are run by the city council. The most notable are Aberdeen Grammar School (founded in 1257), Harlaw Academy, Cults Academy, and Oldmachar Academy which were all rated in the top 50 Scottish secondary schools league tables published by _The Times_ in 2005. Harlaw Academy was taken down from the list after a short time but is still a popular school.[98] There are a number of private schools in Aberdeen: Robert Gordon's College, Albyn School for Girls (co-educational as of 2005), St Margaret's School for Girls, the Hamilton School (closed by the Child Care Inspectorate in early 2014), the Total French School (for French oil industry families), the International School of Aberdeen and a Waldorf/Steiner School.
 
@@ -254,7 +224,7 @@ Culture
 
 Museums and galleries
 
-Aberdeen_Art_Gallery.jpg 8th_Dec_2012-Martime_Museum,_Shiprow.JPG 18th_Jan_2014_-_Tolbooth_Museum.JPG Provost_Skene's_House,_Aberdeen_-_geograph.org.uk_-_1548669.jpg Aberdeen,_Exhibition_and_Conference_Centre_-_geograph.org.uk_-_596975.jpg GordonHighlanders-18288-Lizzie.jpg Satrosphere,_Links_Road_-_geograph.org.uk_-_401659.jpg, Links Road Science Museum]]
+, Links Road Science Museum]]
 
 The city has a wide range of cultural activities, amenities and museums.[99] The city is regularly visited by Scotland's National Arts Companies. The Aberdeen Art Gallery houses a collection of Impressionist, Victorian, Scottish and 20th-century British paintings as well as collections of silver and glass. It also includes The Alexander Macdonald Bequest, a collection of late 19th-century works donated by the museum's first benefactor and a constantly changing collection of contemporary work and regular visiting exhibitions.[100]
 
@@ -272,8 +242,6 @@ National festivals which visited Aberdeen in 2012 included the British Science F
 
 Music and film
 
-Aberdeen_Arts_Centre_-_geograph.org.uk_-_851159.jpg The_Music_Hall,_Union_Street,_Aberdeen.JPG The_Cowdray_Hall,_Aberdeen.JPG
-
 Aberdeen's music scene includes a variety of live music venues including pubs, clubs, and church choirs. The bars of Belmont Street are particularly known for featuring live music. Ceilidhs are also common in the city's halls. Popular music venues include the Aberdeen Exhibition and Conference Centre (AECC), Aberdeen Music Hall, along with smaller venues such as The Tunnels, The Moorings, Drummonds, Downstairs, The Lemon Tree and The Garage. Notable Aberdonian musicians include Annie Lennox, Emeli Sandé, cult band Pallas and contemporary composer John McLeod. There are many local bands including Grader, Sleepless, Hayworth, Deceptions, Without Reason, Monroe and Deadfire A large proportion of Aberdeen's classical music scene is based around the ensembles of Aberdeen University's music department, notably the Symphony Orchestra, Marischal Chamber Orchestra, and the Concert Band.
 
 Cultural cinema, educational work and local film events are provided by The Belmont Picturehouse on Belmont Street, Peacock Visual Arts and The Foyer. The only Doric speaking feature film was released in 2008 by Stirton Productions and Canny Films. _One Day Removals_ is a black comedy/adult drama starring Patrick Wight and Scott Ironside and tells the tale of two unlucky removal men whose day goes from bad to worse. It was filmed on location in Aberdeenshire for a budget of £60,000.
@@ -290,7 +258,7 @@ There are three commercial radio stations operating in the city: Northsound Radi
 
 Food
 
-Aberdeen_Buttery.jpgThe Aberdeen region has given its name to a number of dishes, including the Aberdeen buttery (also known as "rowie")[110] and Aberdeen Sausage.[111] The Aberdeen buttery is more frequently seen and is sold at bakeries and supermarkets throughout the city. It is comparable to a croissant that is flat and round with a buttery, savoury taste and flaky texture. It is often toasted and served plain or with butter or jam.
+The Aberdeen region has given its name to a number of dishes, including the Aberdeen buttery (also known as "rowie")[110] and Aberdeen Sausage.[111] The Aberdeen buttery is more frequently seen and is sold at bakeries and supermarkets throughout the city. It is comparable to a croissant that is flat and round with a buttery, savoury taste and flaky texture. It is often toasted and served plain or with butter or jam.
 
 In 2015, a study was published in The Scotsman which analysed the presence of branded fast food outlets in Scotland. Of the ten towns and cities analysed, Aberdeen was found to have the lowest per capita concentration, with just 0.12 stores per 1,000 inhabitants.[112]
 
@@ -299,7 +267,7 @@ Sport
 
 Football
 
-Pittodrie_Stadium_viewed_from_Broad_Hill_-_geograph.org.uk_-_1573187.jpg viewed from Broad Hill]] There are two Aberdeen-based football clubs in the SPFL, the senior branch of Scottish football. Aberdeen F.C. play in the Scottish Premiership at Pittodrie Stadium. The club won the European Cup Winners Cup and the European Super Cup in 1983, the Scottish Premier League Championship four times (1955, 1980, 1984 and 1985), and the Scottish Cup seven times (1947, 1970, 1982, 1983, 1984, 1986 and 1990). Under the management of Alex Ferguson, Aberdeen was a major force in British football during the 1980s. As of the 2016–17 season, the club is managed by Derek McInnes. There are plans to build a new Aberdeen Stadium in the future. Under the management of McInnes the team won the 2014 Scottish League Cup and followed it up with a second place league finish for the first time for more than 20 years in the following season.
+viewed from Broad Hill]] There are two Aberdeen-based football clubs in the SPFL, the senior branch of Scottish football. Aberdeen F.C. play in the Scottish Premiership at Pittodrie Stadium. The club won the European Cup Winners Cup and the European Super Cup in 1983, the Scottish Premier League Championship four times (1955, 1980, 1984 and 1985), and the Scottish Cup seven times (1947, 1970, 1982, 1983, 1984, 1986 and 1990). Under the management of Alex Ferguson, Aberdeen was a major force in British football during the 1980s. As of the 2016–17 season, the club is managed by Derek McInnes. There are plans to build a new Aberdeen Stadium in the future. Under the management of McInnes the team won the 2014 Scottish League Cup and followed it up with a second place league finish for the first time for more than 20 years in the following season.
 
 The other senior team is Cove Rangers of League Two, who play at Balmoral Stadium in the suburb of Cove Bay. Cove won the Highland Football League championship in 2001, 2008, 2009, 2013 and 2019, winning the League Two play-offs in 2019 and earning promotion. This means that the city of Aberdeen has two clubs in Scottish football's senior leagues for the first time in history.
 
@@ -319,13 +287,9 @@ Aberdeen Warriors rugby league team play in the Scotland Rugby League Conference
 
 Golf
 
-HazleheadGolfCourse.jpg
-
 The Royal Aberdeen Golf Club, founded in 1780 and the oldest golf club in Aberdeen, hosted the Senior British Open in 2005, and the amateur team event the Walker Cup in 2011.[118] Royal Aberdeen also hosted the Scottish Open in 2014, won by Justin Rose.[119] The club has a second course, and there are public golf courses at Auchmill, Balnagask, Hazlehead and King's Links.[120] The 1999 winner of The Open Championship, Paul Lawrie, hails from the city.
 
 There are new courses planned for the area, including world class facilities with major financial backing, the city and shire are set to become a hotbed for golf tourism. In Summer 2012, Donald Trump opened a new state of the art golf course at Menie, just north of the city, as the Trump International Golf Links, Scotland.
-
-Aberdeen_Aquatics_Centre_-_Aberdeen_Sports_Village.JPG
 
 Swimming
 
@@ -333,7 +297,7 @@ The _City of Aberdeen Swim Team_ (COAST) was based in Northfield swimming pool, 
 
 Rowing
 
-Wellington_Suspension_Bridge_-_geograph.org.uk_-_1445265.jpg on the River Dee]]
+on the River Dee]]
 
 There are four boat clubs that row on the River Dee: Aberdeen Boat Club (ABC), Aberdeen Schools Rowing Association (ASRA), Aberdeen University Boat Club (AUBC) and Robert Gordon University Boat Club (RGUBC). There are regattas and head races annually, managed by the Committee of the Dee. There is also a boat race held every year between AUBC and RGUBC. The race is in mixed eights, and usually held in late February / early March.
 
@@ -356,8 +320,6 @@ In common with many other major towns and cities in the UK, Aberdeen has an acti
 
 Public services
 
-15th_Sep_2012-Abdn_Children's_Hosp_&_Emergency_Care_Centre_10.JPG 8th_Dec_2012-Grampian_Police_HQ.JPG
-
 The public health service in Scotland, NHS Scotland provides for the people of Aberdeen through the NHS Grampian health board. Aberdeen Royal Infirmary is the largest hospital in the city and one of the largest in Europe[128][129] (the location of the city's A&E department), Royal Aberdeen Children's Hospital, a paediatric hospital, Royal Cornhill Hospital for mental health, Aberdeen Maternity Hospital, an antenatal hospital, Woodend Hospital, which specialises in rehabilitation and long term illnesses and conditions, and City Hospital and Woolmanhill Hospital, which host several out-patient clinics and offices.
 
 Albyn Hospital is a private hospital located in the west end of the city.
@@ -379,7 +341,7 @@ Houston, Texas, is twinned with the former region of Grampian, of which Aberdeen
 
 Notable people
 
-Byron_1813_by_Phillips.jpg]]
+]]
 
 -   Leslie Benzies, Former president of Rockstar North, creators of the critically acclaimed Grand Theft Auto series.
 -   Scott Booth, former football player, played for Aberdeen F.C., FC Twente, Borussia Dortmund and the Scottish national football team.

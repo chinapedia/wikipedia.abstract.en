@@ -1,5 +1,3 @@
-Chromatography_of_chlorophyll_-_Step_7.jpg
-
 CHROMATOGRAPHY is a laboratory technique for the separation of a mixture. The mixture is dissolved in a fluid called the _mobile phase,_ which carries it through a structure holding another material called the _stationary phase._ The various constituents of the mixture travel at different speeds, causing them to separate. The separation is based on differential partitioning between the mobile and stationary phases. Subtle differences in a compound's partition coefficient result in differential retention on the stationary phase and thus affect the separation.[1]
 
 Chromatography may be preparative or analytical. The purpose of preparative chromatography is to separate the components of a mixture for later use, and is thus a form of purification. Analytical chromatography is done normally with smaller amounts of material and is for establishing the presence or measuring the relative proportions of analytes in a mixture. The two are not mutually exclusive.[2]
@@ -24,7 +22,7 @@ Chromatography terms
 -   A _bonded phase_ is a stationary phase that is covalently bonded to the support particles or to the inside wall of the column tubing.
 -   A _chromatogram_ is the visual output of the chromatograph. In the case of an optimal separation, different peaks or patterns on the chromatogram correspond to different components of the separated mixture.
 
-    Rt_5_9.png Rt_5_12.png
+
     Plotted on the x-axis is the retention time and plotted on the y-axis a signal (for example obtained by a spectrophotometer, mass spectrometer or a variety of other detectors) corresponding to the response created by the analytes exiting the system. In the case of an optimal system the signal is proportional to the concentration of the specific analyte separated.
 
 -   A _chromatograph_ is equipment that enables a sophisticated separation, e.g. gas chromatographic or liquid chromatographic separation.
@@ -64,7 +62,7 @@ _Planar chromatography_ is a separation technique in which the stationary phase 
 
 Paper chromatography
 
-Paper_chromatography_in_progress.jpg Paper chromatography is a technique that involves placing a small dot or line of sample solution onto a strip of _chromatography paper_. The paper is placed in a container with a shallow layer of solvent and sealed. As the solvent rises through the paper, it meets the sample mixture, which starts to travel up the paper with the solvent. This paper is made of cellulose, a polar substance, and the compounds within the mixture travel farther if they are non-polar. More polar substances bond with the cellulose paper more quickly, and therefore do not travel as far.
+Paper chromatography is a technique that involves placing a small dot or line of sample solution onto a strip of _chromatography paper_. The paper is placed in a container with a shallow layer of solvent and sealed. As the solvent rises through the paper, it meets the sample mixture, which starts to travel up the paper with the solvent. This paper is made of cellulose, a polar substance, and the compounds within the mixture travel farther if they are non-polar. More polar substances bond with the cellulose paper more quickly, and therefore do not travel as far.
 
 Thin-layer chromatography (TLC)
 
@@ -86,7 +84,7 @@ Gas chromatography is based on a partition equilibrium of analyte between a soli
 
 Liquid chromatography
 
-Preparative_HPLC.svg Liquid chromatography (LC) is a separation technique in which the mobile phase is a liquid. It can be carried out either in a column or a plane. Present day liquid chromatography that generally utilizes very small packing particles and a relatively high pressure is referred to as high-performance liquid chromatography (HPLC).
+Liquid chromatography (LC) is a separation technique in which the mobile phase is a liquid. It can be carried out either in a column or a plane. Present day liquid chromatography that generally utilizes very small packing particles and a relatively high pressure is referred to as high-performance liquid chromatography (HPLC).
 
 In HPLC the sample is forced by a liquid at high pressure (the mobile phase) through a column that is packed with a stationary phase composed of irregularly or spherically shaped particles, a porous monolithic layer, or a porous membrane. HPLC is historically divided into two different sub-classes based on the polarity of the mobile and stationary phases. Methods in which the stationary phase is more polar than the mobile phase (e.g., toluene as the mobile phase, silica as the stationary phase) are termed normal phase liquid chromatography (NPLC) and the opposite (e.g., water-methanol mixture as the mobile phase and C18 (octadecylsilyl) as the stationary phase) is termed reversed phase liquid chromatography (RPLC).
 
@@ -135,7 +133,7 @@ Hydrophobic interactions between proteins and the chromatographic matrix can be 
 
 In general, Hydrophobic Interaction Chromatography (HIC) is advantageous if the sample is sensitive to pH change or harsh solvents typically used in other types of chromatography but not high salt concentrations. Commonly, it is the amount of salt in the buffer which is varied. In 2012, Müller and Franzreb described the effects of temperature on HIC using Bovine Serum Albumin (BSA) with four different types of hydrophobic resin. The study altered temperature as to effect the binding affinity of BSA onto the matrix. It was concluded that cycling temperature from 50 degrees to 10 degrees would not be adequate to effectively wash all BSA from the matrix but could be very effective if the column would only be used a few times.[20] Using temperature to effect change allows labs to cut costs on buying salt and saves money.
 
-If high salt concentrations along with temperature fluctuations want to be avoided you can use a more hydrophobic to compete with your sample to elute it. [source] This so-called salt independent method of HIC showed a direct isolation of Human Immunoglobulin G (IgG) from serum with satisfactory yield and used Beta-cyclodextrin as a competitor to displace IgG from the matrix.[21] This largely opens up the possibility of using HIC with samples which are salt sensitive as we know high salt concentrations precipitate proteins. GCxGC-TOFMS_Analytical_Dept_Chemical_Faculty_GUT_Gdansk.jpg of GUT Gdańsk, Poland, 2016]]
+If high salt concentrations along with temperature fluctuations want to be avoided you can use a more hydrophobic to compete with your sample to elute it. [source] This so-called salt independent method of HIC showed a direct isolation of Human Immunoglobulin G (IgG) from serum with satisfactory yield and used Beta-cyclodextrin as a competitor to displace IgG from the matrix.[21] This largely opens up the possibility of using HIC with samples which are salt sensitive as we know high salt concentrations precipitate proteins. of GUT Gdańsk, Poland, 2016]]
 
 Two-dimensional chromatography
 
@@ -160,8 +158,6 @@ Fast protein liquid chromatography
 Fast protein liquid chromatography (FPLC), is a form of liquid chromatography that is often used to analyze or purify mixtures of proteins. As in other forms of chromatography, separation is possible because the different components of a mixture have different affinities for two materials, a moving fluid (the "mobile phase") and a porous solid (the stationary phase). In FPLC the mobile phase is an aqueous solution, or "buffer". The buffer flow rate is controlled by a positive-displacement pump and is normally kept constant, while the composition of the buffer can be varied by drawing fluids in different proportions from two or more external reservoirs. The stationary phase is a resin composed of beads, usually of cross-linked agarose, packed into a cylindrical glass or plastic column. FPLC resins are available in a wide range of bead sizes and surface ligands depending on the application.
 
 Countercurrent chromatography
-
-HPCCC_system.jpg
 
 Countercurrent chromatography (CCC) is a type of liquid-liquid chromatography, where both the stationary and mobile phases are liquids. The operating principle of CCC equipment requires a column consisting of an open tube coiled around a bobbin. The bobbin is rotated in a double-axis gyratory motion (a cardioid), which causes a variable gravity (G) field to act on the column during each rotation. This motion causes the column to see one partitioning step per revolution and components of the sample separate in the column due to their partitioning coefficient between the two immiscible liquid phases used. There are many types of CCC available today. These include HSCCC (High Speed CCC) and HPCCC (High Performance CCC). HPCCC is the latest and best performing version of the instrumentation available currently.
 

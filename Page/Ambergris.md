@@ -1,4 +1,4 @@
-Ambergris.jpg Ecomare_-_ambergris_van_potvis_in_2012_(potvis2012-ambergris-2164-em).jpg AMBERGRIS ( or , , ), _ambergrease_, or _grey amber_, is a solid, waxy, flammable substance of a dull grey or blackish colour produced in the digestive system of sperm whales.[1] Freshly produced ambergris has a marine, fecal odor. However, it acquires a sweet, earthy scent as it ages, commonly likened to the fragrance of rubbing alcohol without the vaporous chemical astringency.[2]
+AMBERGRIS ( or , , ), _ambergrease_, or _grey amber_, is a solid, waxy, flammable substance of a dull grey or blackish colour produced in the digestive system of sperm whales.[1] Freshly produced ambergris has a marine, fecal odor. However, it acquires a sweet, earthy scent as it ages, commonly likened to the fragrance of rubbing alcohol without the vaporous chemical astringency.[2]
 
 Ambergris has been very highly valued by perfumers as a fixative that allows the scent to last much longer, although it has been mostly replaced by synthetic ambroxan.[3] Dogs are known to be attracted to the smell of ambergris and are therefore sometimes used by ambergris searchers.[4]
 

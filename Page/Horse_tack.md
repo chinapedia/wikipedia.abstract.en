@@ -3,7 +3,7 @@ TACK is equipment or accessories equipped on horses and other equines in the cou
 
 Saddles
 
-mounted-police.jpg Saddles are seats for the rider, fastened to the horse's back by means of a _girth_ (English-style riding), known as a _cinch_ in the Western US, a wide strap that goes around the horse at a point about four inches behind the forelegs. Some western saddles will also have a second strap known as a _flank_ or _back cinch_ that fastens at the rear of the saddle and goes around the widest part of the horse's belly.[1]
+Saddles are seats for the rider, fastened to the horse's back by means of a _girth_ (English-style riding), known as a _cinch_ in the Western US, a wide strap that goes around the horse at a point about four inches behind the forelegs. Some western saddles will also have a second strap known as a _flank_ or _back cinch_ that fastens at the rear of the saddle and goes around the widest part of the horse's belly.[1]
 
 It is important that the saddle be comfortable for both the rider and the horse as an improperly fitting saddle may create pressure points on the horse's back muscle (Latissimus dorsi) and cause the horse pain and can lead to the horse, rider, or both getting injured.
 
@@ -24,8 +24,6 @@ Stirrups are supports for the rider's feet that hang down on either side of the 
 
 Headgear
 
-Horse_Wearing_Navy_Blue_Nylon_Halter.jpg
-
 _Bridles_, hackamores, _halters_ or _headcollars_, and similar equipment consist of various arrangements of straps around the horse's head, and are used for control and communication with the animal.
 
 Halters
@@ -40,8 +38,6 @@ Bridles
 
 Bridles usually have a _bit_ attached to _reins_ and are used for riding and driving horses.[5]
 
-Chestnut_Horse_With_Loose_Ring_Snaffle_Bit.png
-
 _English Bridles_ have a _cavesson_ style noseband and are seen in English riding. Their reins are buckled to one another, and they have little adornment or flashy hardware.[6]
 
 _Western Bridles_ used in Western riding usually have no noseband, are made of thin bridle leather. They may have long, separated "Split" reins or shorter closed reins, which sometimes include an attached _Romal_. Western bridles are often adorned with silver or other decorative features.[7]
@@ -50,7 +46,7 @@ _Double bridles_ are a type of English bridle that use two bits in the mouth at 
 
 Hackamores and other bitless designs
 
-BosalHorse.jpg A _hackamore_ is a headgear that utilizes a heavy noseband of some sort, rather than a bit, most often used to train young horses or to go easy on an older horse's mouth. Hackamores are more often seen in western riding.[9] Some related styles of headgear that control a horse with a noseband rather than a bit are known as bitless bridles.
+A _hackamore_ is a headgear that utilizes a heavy noseband of some sort, rather than a bit, most often used to train young horses or to go easy on an older horse's mouth. Hackamores are more often seen in western riding.[9] Some related styles of headgear that control a horse with a noseband rather than a bit are known as bitless bridles.
 
 The word "hackamore" is derived from the Spanish word _jáquima._ Hackamores are seen in western riding disciplines, as well as in endurance riding and English riding disciplines such as show jumping and the stadium phase of eventing. While the classic bosal-style hackamore is usually used to start young horses, other designs, such as various bitless bridles and the mechanical hackamore are often seen on mature horses with dental issues that make bit use painful, horses with certain training problems, and on horses with mouth or tongue injuries. Some riders also like to use them in the winter to avoid putting a frozen metal bit into a horse's mouth.[10]
 
@@ -74,9 +70,9 @@ Horses should never be tied by the reins. Not only do they break easily, but, be
 
 Bits
 
-Pelham_bit.jpg A bit is a device placed in a horse's mouth, kept on a horse's head by means of a headstall. There are many types, each useful for specific types of riding and training.[14]
+A bit is a device placed in a horse's mouth, kept on a horse's head by means of a headstall. There are many types, each useful for specific types of riding and training.[14]
 
-The mouthpiece of the bit does not rest on the teeth of the horse, but rather rests on the gums or "bars" of the horse's mouth in an interdental space behind the front incisors and in front of the back molars. It is important that the style of bit is appropriate to the horse's needs and is fitted properly for it to function properly and be as comfortable as possible for the horse.[15] Curb_and_bradoon.jpg The basic "classic" styles of bits are:
+The mouthpiece of the bit does not rest on the teeth of the horse, but rather rests on the gums or "bars" of the horse's mouth in an interdental space behind the front incisors and in front of the back molars. It is important that the style of bit is appropriate to the horse's needs and is fitted properly for it to function properly and be as comfortable as possible for the horse.[15] The basic "classic" styles of bits are:
 
 -   Curb bit
 -   Snaffle bit
@@ -105,8 +101,6 @@ Both types will also have a bridle and reins. A harness that is used to support 
 
 Breastplates and martingales
 
-Elastic_Jumper_Breastplate.jpg Pc_trakehner2.jpg
-
 Breastplates, breastcollars or breastgirths attach to the front of the saddle, cross the horse's chest, and usually have a strap that runs between the horse's front legs and attaches to the girth. They keep the saddle from sliding back or sideways. They are usually seen in demanding, fast-paced sports. They are crucial pieces of safety equipment for English riding activities requiring jumping, such as eventing, show jumping, polo, and fox hunting. They are also seen in Western riding events, particularly in rodeo, reining and cutting, where it is particularly important to prevent a saddle from shifting. They may also be worn in other horse show classes for decorative purposes.[19]
 
 A martingale is a piece of equipment that keeps a horse from raising its head too high. Various styles can be used as a control measure, to prevent the horse from avoiding rider commands by raising its head out of position; or as a safety measure to keep the horse from tossing its head high or hard enough to smack its rider in the face.[20]
@@ -119,8 +113,6 @@ Martingale types include:
 
 -   German martingale or Market Harborough: This design consists of a split fork that comes up from the chest, runs through the rings of the bit and attaches to the reins of the bridle between the bit and the rider's hand. It acts in a manner similar to a running martingale, but with greater leverage. It is not usually considered show legal and is used primarily as a training aid.
 -   Irish martingale: Unlike the previous designs, this very simple "martingale" does not control the height of the horse's head, but merely keeps the reins from going over the horse's head in the result of a fall. It consists of a piece of leather with a ring on each end through which each rein runs.[21]
-
-Baltic_Cup_Shannon_Mejnert_Sandy2.jpg
 
 -   Running martingale: This design adds leverage to a bit and features a split _fork_ beginning at the chest with a ring on each side of the fork through which the reins pass, enabling the rider to more easily keep the horse under control, but also allowing the horse freedom of movement when needed. Fitted correctly, the running martingale only controls how high the horse carries its head when the rider tightens the reins. The standard adjustment of a running martingale is to set the rings at a height where they do not engage and add leverage to the reins when the horse carries its head at the proper height. Sometimes a running martingale may be adjusted at a greater or lesser length depending on the needs of the horse and rider.[22]
 -   Standing martingale: A design with one strap that runs from the girth or the chest and attaches to the noseband of the bridle. The standing martingale acts on the horse's nose and creates an absolute limit to how high a horse can raise its head. The term used in western riding for this piece of equipment is the _tie down_. Standard adjustment of a standing martingale allows enough slack to bring the strap to the horse's throatlatch when the animal has its head in a relaxed, natural position. However, it is sometimes adjusted shorter. Unlike the running martingale, it limits the freedom of the horse's head, no matter how long or short the reins may be. While standing martingales are common in show hunter and equitation classes, the limits placed on the horse's movement are dangerous for cross-country riding or show jumping. Therefore, in these disciplines, a running martingale is necessary for safety reasons, if a martingale is used at all.[23]

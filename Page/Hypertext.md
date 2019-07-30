@@ -1,8 +1,8 @@
-Sistema_hipertextual.jpg.]]
+.]]
 
-Vannevar_Bush_portrait.jpg wrote "As We May Think" in 1945 in which he described the Memex, a theoretical proto-hypertext device which in turn helped inspire the subsequent invention of hypertext.]]
+wrote "As We May Think" in 1945 in which he described the Memex, a theoretical proto-hypertext device which in turn helped inspire the subsequent invention of hypertext.]]
 
-Douglas_Engelbart_in_2008.jpg in 2009, at the 40th anniversary celebrations of "The Mother of All Demos" in San Francisco, a 90-minute 1968 presentation of the NLS computer system which was a combination of hardware and software that demonstrated many hypertext ideas.]]
+in 2009, at the 40th anniversary celebrations of "The Mother of All Demos" in San Francisco, a 90-minute 1968 presentation of the NLS computer system which was a combination of hardware and software that demonstrated many hypertext ideas.]]
 
 HYPERTEXT is text displayed on a computer display or other electronic devices with references (hyperlinks) to other text that the reader can immediately access.[1] Hypertext documents are interconnected by hyperlinks, which are typically activated by a mouse click, keypress set or by touching the screen. Apart from text, the term "hypertext" is also sometimes used to describe tables, images, and other presentational content formats with integrated hyperlinks. Hypertext is one of the key underlying concepts of the World Wide Web,[2] where Web pages are often written in the Hypertext Markup Language (HTML). As implemented on the Web, hypertext enables the easy-to-use publication of information over the Internet.
 
@@ -27,7 +27,7 @@ In 1941, Jorge Luis Borges published "The Garden of Forking Paths", a short stor
 
 In 1945, Vannevar Bush wrote an article in _The Atlantic Monthly_ called "As We May Think", about a futuristic proto-hypertext device he called a Memex. A Memex would hypothetically store - and record - content on reels of microfilm, using electric photocells to read coded symbols recorded next to individual microfilm frames while the reels spun at high speed, stopping on command. The coded symbols would enable the Memex to index, search, and link content to create and follow associative trails. Because the Memex was never implemented and could only link content in a relatively crude fashion — by creating chains of entire microfilm frames — the Memex is now regarded not only as a proto-hypertext device, but it is fundamental to the history of hypertext because it directly inspired the invention of hypertext by Ted Nelson and Douglas Engelbart.
 
-Ted_Nelson_cropped.jpg gives a presentation on Project Xanadu, a theoretical hypertext model conceived in the 1960s whose first and incomplete implementation was first published in 1998.[4]]]
+gives a presentation on Project Xanadu, a theoretical hypertext model conceived in the 1960s whose first and incomplete implementation was first published in 1998.[4]]]
 
 In 1963, Ted Nelson coined the terms 'hypertext' and 'hypermedia' as part of a model he developed for creating and using linked content (first published reference 1965).[5] He later worked with Andries van Dam to develop the Hypertext Editing System (text editing) in 1967 at Brown University. It was implemented using the terminal IBM 2250 with a light pen which was provided as a pointing device.[6] By 1976, its successor FRESS was used in a poetry class in which students could browse a hyperlinked set of poems and discussion by experts, faculty and other students, in what was arguably the world’s first online scholarly community[7] which van Dam says "foreshadowed wikis, blogs and communal documents of all kinds".[8] Ted Nelson said in the 1960s that he began implementation of a hypertext system he theorized, which was named Project Xanadu, but his first and incomplete public release was finished much later, in 1998.[9]
 
@@ -54,7 +54,7 @@ As new web browsers were released, traffic on the World Wide Web quickly explode
 
 Implementations
 
-Besides the already mentioned Project Xanadu, Hypertext Editing System, NLS, HyperCard, and World Wide Web, there are other noteworthy early implementations of hypertext, with different feature sets: HypertextEditingSystemConsoleBrownUniv1969.jpg Display console – Brown University 1969]]
+Besides the already mentioned Project Xanadu, Hypertext Editing System, NLS, HyperCard, and World Wide Web, there are other noteworthy early implementations of hypertext, with different feature sets: Display console – Brown University 1969]]
 
 -   FRESS – a 1970s multi-user successor to the Hypertext Editing System.
 -   ZOG – a 1970s hypertext system developed at Carnegie Mellon University.

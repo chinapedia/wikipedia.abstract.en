@@ -7,8 +7,6 @@ History
 
 The _Herald_{{'s}} history can be traced back through two lineages, the _Daily Advertiser_ and the old _Boston Herald_, and two media moguls, William Randolph Hearst and Rupert Murdoch.
 
-Old_Boston_Herald_Building.png
-
 The original _Boston Herald_
 
 The original _Boston Herald_ was founded in 1846 by a group of Boston printers jointly under the name of John A. French & Company. The paper was published as a single two-sided sheet, selling for one cent. Its first editor, William O. Eaton, just 22 years old, said "The _Herald_ will be independent in politics and religion; liberal, industrious, enterprising, critically concerned with literacy and dramatic matters, and diligent in its mission to report and analyze the news, local and global."
@@ -29,7 +27,7 @@ The _Boston Evening Traveler_ was founded in 1845. The '' Boston Evening Travele
 
 _The Boston Daily Advertiser_
 
-Boston_Advertiser_Building.png The _Boston Daily Advertiser_ was established in 1813 in Boston by Nathan Hale. The paper grew to prominence throughout the 19th century, taking over other Boston area papers. In 1832 The Advertiser took over control of _The Boston Patriot_, and then in 1840 it took over and absorbed _The Boston Gazette_.[10] The paper was purchased by William Randolph Hearst in 1917. In 1920 the _Advertiser_ was merged with _The Boston Record_, initially the combined newspaper was called the _Boston Advertiser_ however when the combined newspaper became an illustrated tabloid in 1921 it was renamed _The Boston American_.[11] Hearst Corp. continued using the name _Advertiser_ for its Sunday paper until the early 1970s.
+The _Boston Daily Advertiser_ was established in 1813 in Boston by Nathan Hale. The paper grew to prominence throughout the 19th century, taking over other Boston area papers. In 1832 The Advertiser took over control of _The Boston Patriot_, and then in 1840 it took over and absorbed _The Boston Gazette_.[10] The paper was purchased by William Randolph Hearst in 1917. In 1920 the _Advertiser_ was merged with _The Boston Record_, initially the combined newspaper was called the _Boston Advertiser_ however when the combined newspaper became an illustrated tabloid in 1921 it was renamed _The Boston American_.[11] Hearst Corp. continued using the name _Advertiser_ for its Sunday paper until the early 1970s.
 
 _The Boston Record_
 

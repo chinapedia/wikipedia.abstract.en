@@ -1,4 +1,4 @@
-Ephesus_library-650px.jpg Library with aediculae in Ephesus]] The Aedicule, the body of Jesus was buried]] Cathedral_of_exeter.jpg, with rows of figures in aedicular or tabernacle frames above the door, and two above the crenellations]]
+Library with aediculae in Ephesus]] , the body of Jesus was buried]] , with rows of figures in aedicular or tabernacle frames above the door, and two above the crenellations]]
 
 In ancient Roman religion, an _AEDICULA_ (plural _AEDICULAE_) is a small shrine. The word _aedicula_ is the diminutive of the Latin _aedes_, a temple building.
 
@@ -16,7 +16,7 @@ In Late Gothic settings, altarpieces and devotional images were customarily crow
 
 Renaissance aediculae
 
-Palazzo_medici_riccardi_finestre_inginocchiate.JPG in Florence. These are of the type known as "inginocchiata", "kneeling" on two brackets.]] Classicizing architectonic structure and decor _all'antica_, in the "ancient [Roman] mode", became a fashionable way to frame a painted or bas-relief portrait, or protect an expensive and precious mirror[2] during the High Renaissance; Italian precedents were imitated in France, then in Spain, England and Germany during the later 16th century.[3]
+in Florence. These are of the type known as "inginocchiata", "kneeling" on two brackets.]] Classicizing architectonic structure and decor _all'antica_, in the "ancient [Roman] mode", became a fashionable way to frame a painted or bas-relief portrait, or protect an expensive and precious mirror[2] during the High Renaissance; Italian precedents were imitated in France, then in Spain, England and Germany during the later 16th century.[3]
 
 
 Post-Renaissance classicism

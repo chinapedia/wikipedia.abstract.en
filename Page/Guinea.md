@@ -21,7 +21,7 @@ What is now Guinea was on the fringes of the major West African empires. The ear
 
 The Sosso kingdom (12th to 13th centuries) briefly flourished in the resulting void but the Mali Empire came to prominence when Soundiata Kéïta defeated the Sosso ruler Soumangourou Kanté at the Battle of Kirina in c. 1235. The Mali Empire was ruled by Mansa (Emperors), the most famous being Kankou Moussa, who made a famous hajj to Mecca in 1324. Shortly after his reign the Mali Empire began to decline and was ultimately supplanted by its vassal states in the 15th century.
 
-The most successful of these was the Songhai Empire, which expanded its power from about 1460 and eventually surpassed the Mali Empire in both territory and wealth. It continued to prosper until a civil war over succession followed the death of Askia Daoud in 1582. The weakened empire fell to invaders from Morocco at the Battle of Tondibi just three years later. The Moroccans proved unable to rule the kingdom effectively, however, and it split into many small kingdoms. Almamy_Samory_Touré.jpg was the founder of the Wassoulou Empire, an Islamic state in present-day Guinea that resisted French colonial rule in West Africa from 1882 until Touré's capture in 1898.]] After the fall of the major West African empires, various kingdoms existed in what is now Guinea. Fulani Muslims migrated to Futa Jallon in Central Guinea and established an Islamic state from 1735 to 1898 with a written constitution and alternate rulers. The Wassoulou or Wassulu empire was a short-lived (1878–1898) empire, led by Samori Toure in the predominantly Malinké area of what is now upper Guinea and southwestern Mali (Wassoulou). It moved to Ivory Coast before being conquered by the French.
+The most successful of these was the Songhai Empire, which expanded its power from about 1460 and eventually surpassed the Mali Empire in both territory and wealth. It continued to prosper until a civil war over succession followed the death of Askia Daoud in 1582. The weakened empire fell to invaders from Morocco at the Battle of Tondibi just three years later. The Moroccans proved unable to rule the kingdom effectively, however, and it split into many small kingdoms. was the founder of the Wassoulou Empire, an Islamic state in present-day Guinea that resisted French colonial rule in West Africa from 1882 until Touré's capture in 1898.]] After the fall of the major West African empires, various kingdoms existed in what is now Guinea. Fulani Muslims migrated to Futa Jallon in Central Guinea and established an Islamic state from 1735 to 1898 with a written constitution and alternate rulers. The Wassoulou or Wassulu empire was a short-lived (1878–1898) empire, led by Samori Toure in the predominantly Malinké area of what is now upper Guinea and southwestern Mali (Wassoulou). It moved to Ivory Coast before being conquered by the French.
 
 Colonial era
 
@@ -33,15 +33,13 @@ France negotiated Guinea's present boundaries in the late 19th and early 20th ce
 
 Independence and post-colonial rule (1958–2008)
 
-In 1958, the French Fourth Republic collapsed due to political instability and its failures in dealing with its colonies, especially Indochina and Algeria. The founding of a Fifth Republic was supported by the French people, while French President Charles de Gaulle made it clear on 8 August 1958 that France's colonies were to be given a stark choice between more autonomy in a new French Community or immediate independence in the referendum to be held on 28 September 1958. The other colonies chose the former but Guinea—under the leadership of Ahmed Sékou Touré whose Democratic Party of Guinea (PDG) had won 56 of 60 seats in 1957 territorial elections — voted overwhelmingly for independence. The French withdrew quickly, and on 2 October 1958, Guinea proclaimed itself a sovereign and independent republic, with Sékou Touré as president. Ahmed_Sékou_Touré_na_obisku_v_Ljubljani_1961_(3).jpg was supported by the Communist bloc states and in 1961 visited Yugoslavia.]]
+In 1958, the French Fourth Republic collapsed due to political instability and its failures in dealing with its colonies, especially Indochina and Algeria. The founding of a Fifth Republic was supported by the French people, while French President Charles de Gaulle made it clear on 8 August 1958 that France's colonies were to be given a stark choice between more autonomy in a new French Community or immediate independence in the referendum to be held on 28 September 1958. The other colonies chose the former but Guinea—under the leadership of Ahmed Sékou Touré whose Democratic Party of Guinea (PDG) had won 56 of 60 seats in 1957 territorial elections — voted overwhelmingly for independence. The French withdrew quickly, and on 2 October 1958, Guinea proclaimed itself a sovereign and independent republic, with Sékou Touré as president. was supported by the Communist bloc states and in 1961 visited Yugoslavia.]]
 
 France's withdrawal resulted in punitive economic reprisals, including the end of all French aid and investment. Guinea subsequently quickly aligned itself with the Soviet Union and adopted socialist policies. This alliance was short-lived, however, as Guinea moved towards a Chinese model of socialism. Despite this, however, the country continued to receive aid and investment from capitalist countries such as the United States.
 
 By 1960, Touré had declared the PDG the country's only legal political party and for the next 24 years, the government and the PDG were one. Touré was reelected unopposed to four seven-year terms as president, and every five years voters were presented with a single list of PDG candidates for the National Assembly. Advocating a hybrid African Socialism domestically and Pan-Africanism abroad, Touré quickly became a polarising leader, and his government became intolerant of dissent, imprisoning thousands and stifling the press.
 
 Throughout the 1960s the Guinean government nationalised land, removed French-appointed and traditional chiefs from power, and had strained ties with the French government and French companies. Touré's government relied on the Soviet Union and China for infrastructure aid and development but much of this was used for political and not economic purposes (such as the building of large stadiums to hold political rallies). Meanwhile, the country's roads, railways and other infrastructure languished and the economy stagnated.
-
-22novemberdetail.JPG
 
 On 22 November 1970, Portuguese forces from neighboring Portuguese Guinea staged Operation Green Sea, a raid on Conakry by several hundred exiled Guinean opposition forces. Among their goals, the Portuguese military wanted to kill or capture Sekou Toure due his support of the PAIGC, an independence movement and rebel group that carried out attacks inside Portuguese Guinea from their bases in Guinea.[16] After fierce fighting, the Portuguese-backed forces retreated, having freed several dozen Portuguese prisoners of war that were being held by the PAIGC in Conakry but without having ousted Touré. In the years after the raid, massive purges were carried out by the Touré government and at least 50,000 people (1% of Guinea's entire population) were killed. Countless others were imprisoned, faced torture, or, often in the case of foreigners, were forced to leave the country (sometimes after having had their Guinean spouse arrested and their children placed into state custody).
 
@@ -76,7 +74,7 @@ On 25 March 2014, the World Health Organization said that Guinea's Ministry of H
 
 Government and politics
 
-Alpha_Conde_-_World_Economic_Forum_Annual_Meeting_2012.jpg, the current President of Guinea]] The country is a republic. The president is directly elected by the people and is head of state and head of government. The unicameral National Assembly is the legislative body of the country, and its members are directly elected by the people. The judicial branch is led by the Guinea Supreme Court, the highest and final court of appeal in the country.[45]
+, the current President of Guinea]] The country is a republic. The president is directly elected by the people and is head of state and head of government. The unicameral National Assembly is the legislative body of the country, and its members are directly elected by the people. The judicial branch is led by the Guinea Supreme Court, the highest and final court of appeal in the country.[45]
 
 Guinea is a member of many international organizations including the African Union, Agency for the French-Speaking Community, African Development Bank, Economic Community of West African States, World Bank, Islamic Development Bank, IMF, and the United Nations.
 
@@ -109,7 +107,7 @@ The army, with about 15,000 personnel, is by far the largest branch of the armed
 
 Geography
 
-Un-guinea.png and administrative divisions]] Koppen-Geiger_Map_GIN_present.svg
+and administrative divisions]]
 
 Guinea shares a border with Senegal on the north, Mali on the northeast, Ivory Coast to the east, and Liberia and Sierra Leone to the south. The nation forms a crescent as it curves from its southeast region to the north and west, to its northwest border with Guinea-Bissau and southwestern coast on the Atlantic Ocean. The sources of the Niger River, Gambia River, and Senegal River are all found in the Guinea Highlands.[52][53][54]
 
@@ -121,7 +119,7 @@ The highest point in Guinea is Mount Nimba at . Although the Guinean and Ivorian
 
 Regions and prefectures
 
-Guinea_Regions.png]]
+]]
 
 The Republic of Guinea covers of West Africa, about 10 degrees north of the equator. Guinea is divided into four natural regions with distinct human, geographic, and climatic characteristics:
 
@@ -175,7 +173,7 @@ Species found in Guinea include the following:
 
 Economy
 
-Guinea_Export_Treemap.jpg Fisher_women_on_River_Niger_in_Guinea,_Africa.jpg, Kankan Region, in eastern Guinea]] Kissidougou_market.JPG market]]
+, Kankan Region, in eastern Guinea]] market]]
 
 Natural resources
 
@@ -203,7 +201,7 @@ The majority of Guineans work in the agriculture sector, which employs approxima
 
 Tourism
 
-Le_"Voile"_de_la_mariée_à_Kindia.png Due to its diverse geography, Guinea presents some interesting tourist sites. Among the top attractions are the waterfalls found mostly in the Basse Guinee (Lower Guinea) and Moyenne Guinee (Middle Guinea) regions. The Soumba cascade at the foot of Mount Kakoulima in Kindia, Voile de la Mariee (bride's veil) in Dubreka, Kinkon cascades of about 80 m high on the Kokoula river in the prefecture of Pita, the Kambadaga falls on the same river that can reach 100 m high during the raining season, the Ditinn & Mitty waterfalls in Dalaba, Fetoré waterfalls and the stone bridge in the region of Labe are among the well known water-related tourist sites.
+Due to its diverse geography, Guinea presents some interesting tourist sites. Among the top attractions are the waterfalls found mostly in the Basse Guinee (Lower Guinea) and Moyenne Guinee (Middle Guinea) regions. The Soumba cascade at the foot of Mount Kakoulima in Kindia, Voile de la Mariee (bride's veil) in Dubreka, Kinkon cascades of about 80 m high on the Kokoula river in the prefecture of Pita, the Kambadaga falls on the same river that can reach 100 m high during the raining season, the Ditinn & Mitty waterfalls in Dalaba, Fetoré waterfalls and the stone bridge in the region of Labe are among the well known water-related tourist sites.
 
 
 Problems and reforms
@@ -293,8 +291,6 @@ Urbanization
 
 Languages
 
-Pita,_Guinea.gif
-
 The official language of Guinea is French. Other significant languages spoken are Pular (Fulfulde or Fulani), Maninka (Malinke), Susu, Kissi, Kpelle, and Loma.
 
 Ethnic groups
@@ -305,7 +301,7 @@ The Soussou, comprising 19.8% of the population, are predominantly in western ar
 
 Religion
 
-Conakrymosque.jpg in Guinea, one of the largest mosques in West Africa]] The population of Guinea is approximately 85 percent Muslim, 8 percent Christian, with 7 percent adhering to indigenous religious beliefs.[110] Much of the population, both Muslim and Christian, also incorporate indigenous African beliefs into their outlook.[111]
+in Guinea, one of the largest mosques in West Africa]] The population of Guinea is approximately 85 percent Muslim, 8 percent Christian, with 7 percent adhering to indigenous religious beliefs.[110] Much of the population, both Muslim and Christian, also incorporate indigenous African beliefs into their outlook.[111]
 
 The vast majority of Guinean Muslims are adherent to the Sunni tradition of Islam, of Maliki school of jurisprudence, influenced with Salafism,[112] there are relatively few Shi'a in Guinea.
 
@@ -316,7 +312,7 @@ There were three days of ethno-religious fighting in the city of Nzerekore in Ju
 
 Education
 
-Schoolgirls in Conakry, Guinea|thumb The literacy rate of Guinea is one of the lowest in the world: in 2010 it was estimated that only 41% of adults were literate (52% of males and 30% of females).[119] Primary education is compulsory for 6 years,[120] but most children do not attend for so long, and many do not go to school at all. In 1999, primary school attendance was 40 percent. Children, particularly girls, are kept out of school in order to assist their parents with domestic work or agriculture,[121] or to be married: Guinea has one of the highest rates of child marriage in the world.[122]
+The literacy rate of Guinea is one of the lowest in the world: in 2010 it was estimated that only 41% of adults were literate (52% of males and 30% of females).[119] Primary education is compulsory for 6 years,[120] but most children do not attend for so long, and many do not go to school at all. In 1999, primary school attendance was 40 percent. Children, particularly girls, are kept out of school in order to assist their parents with domestic work or agriculture,[121] or to be married: Guinea has one of the highest rates of child marriage in the world.[122]
 
 
 Health
@@ -356,7 +352,7 @@ Malaria is prevalent in Guinea. It is transmitted year-round, with peak transmis
 
 Culture
 
-Guinea_Dinguiraye_market.jpg, Guinea]]
+, Guinea]]
 
 Sports
 

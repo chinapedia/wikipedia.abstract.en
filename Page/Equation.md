@@ -1,4 +1,4 @@
-First_Equation_Ever.png'' by Robert Recorde of Wales (1557).[1]]]
+'' by Robert Recorde of Wales (1557).[1]]]
 
 In mathematics, an EQUATION is a statement that asserts the equality of two expressions. The word _equation_ and its cognates in other languages may have subtly different meanings; for example, in French an _équation_ is defined as containing one or more variables, while in English any equality is an equation.[2]
 
@@ -26,8 +26,6 @@ The "=" symbol, which appears in every equation, was invented in 1557 by Robert 
 Introduction
 
 Analogous illustration
-
-Equation_illustration_colour.svg
 
 An equation is analogous to a weighing scale, balance, or seesaw.
 
@@ -108,7 +106,7 @@ Algebra
 
 Polynomial equations
 
-Polynomialdeg2.svg of the quadratic function cuts the _x_-axis.]]
+of the quadratic function cuts the _x_-axis.]]
 
 In general, an _algebraic equation_ or polynomial equation is an equation of the form
 
@@ -131,7 +129,7 @@ Some but not all polynomial equations with rational coefficients have a solution
 
 Systems of linear equations
 
-九章算術.gif is an anonymous Chinese book proposing a method of resolution for linear equations.]]
+is an anonymous Chinese book proposing a method of resolution for linear equations.]]
 
 A system of linear equations (or _linear system_) is a collection of linear equations involving the same set of variables. For example,
 
@@ -156,7 +154,7 @@ Geometry
 
 Analytic geometry
 
-Coniques_cone.png is the intersection of a plane and a cone of revolution.]] In Euclidean geometry, it is possible to associate a set of coordinates to each point in space, for example by an orthogonal grid. This method allows one to characterize geometric figures by equations. A plane in three-dimensional space can be expressed as the solution set of an equation of the form ax + by + cz + d = 0, where a, b, c and d are real numbers and x, y, z are the unknowns that correspond to the coordinates of a point in the system given by the orthogonal grid. The values a, b, c are the coordinates of a vector perpendicular to the plane defined by the equation. A line is expressed as the intersection of two planes, that is as the solution set of a single linear equation with values in ℝ² or as the solution set of two linear equations with values in ℝ³.
+is the intersection of a plane and a cone of revolution.]] In Euclidean geometry, it is possible to associate a set of coordinates to each point in space, for example by an orthogonal grid. This method allows one to characterize geometric figures by equations. A plane in three-dimensional space can be expressed as the solution set of an equation of the form ax + by + cz + d = 0, where a, b, c and d are real numbers and x, y, z are the unknowns that correspond to the coordinates of a point in the system given by the orthogonal grid. The values a, b, c are the coordinates of a vector perpendicular to the plane defined by the equation. A line is expressed as the intersection of two planes, that is as the solution set of a single linear equation with values in ℝ² or as the solution set of two linear equations with values in ℝ³.
 
 A conic section is the intersection of a cone with equation x² + y² = z² and a plane. In other words, in space, all conics are defined as the solution set of an equation of a plane and of the equation of a cone just given. This formalism allows one to determine the positions and the properties of the focuses of a conic.
 
@@ -169,8 +167,6 @@ Cartesian equations
 A Cartesian coordinate system is a coordinate system that specifies each point uniquely in a plane by a pair of numerical COORDINATES, which are the signed distances from the point to two fixed perpendicular directed lines, that are marked using the same unit of length.
 
 One can use the same principle to specify the position of any point in three-dimensional space by the use of three Cartesian coordinates, which are the signed distances to three mutually perpendicular planes (or, equivalently, by its perpendicular projection onto three mutually perpendicular lines).
-
-Cartesian-coordinate-system-with-circle.svg
 
 The invention of Cartesian coordinates in the 17th century by René Descartes (Latinized name: _Cartesius_) revolutionized mathematics by providing the first systematic link between Euclidean geometry and algebra. Using the Cartesian coordinate system, geometric shapes (such as curves) can be described by CARTESIAN EQUATIONS: algebraic equations involving the coordinates of the points lying on the shape. For example, a circle of radius 2 in a plane, centered on a particular point called the origin, may be described as the set of all points whose coordinates _x_ and _y_ satisfy the equation .
 
@@ -210,7 +206,7 @@ The fundamental objects of study in algebraic geometry are algebraic varieties, 
 
 Differential equations
 
-Attracteur_étrange_de_Lorenz.png, which arises when solving a certain differential equation.]] A differential equation is a mathematical equation that relates some function with its derivatives. In applications, the functions usually represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two. Because such relations are extremely common, differential equations play a prominent role in many disciplines including physics, engineering, economics, and biology.
+, which arises when solving a certain differential equation.]] A differential equation is a mathematical equation that relates some function with its derivatives. In applications, the functions usually represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two. Because such relations are extremely common, differential equations play a prominent role in many disciplines including physics, engineering, economics, and biology.
 
 In pure mathematics, differential equations are studied from several different perspectives, mostly concerned with their solutions — the set of functions that satisfy the equation. Only the simplest differential equations are solvable by explicit formulas; however, some properties of solutions of a given differential equation may be determined without finding their exact form.
 

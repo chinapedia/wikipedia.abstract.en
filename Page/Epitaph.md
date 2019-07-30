@@ -1,4 +1,4 @@
-The_day_will_come.jpg Chicago.]]
+Chicago.]]
 
 An EPITAPH (from Greek _epitaphios_ "a funeral oration" from ἐπί _epi_ "at, over" and τάφος _taphos_ "tomb")[1][2] is a short text honoring a deceased person. Strictly speaking, it refers to text that is inscribed on a tombstone or plaque, but it may also be used in a figurative sense. Some epitaphs are specified by the person themselves before their death, while others are chosen by those responsible for the burial. An epitaph may be written in prose or in poem verse; poets have been known to compose their own epitaphs prior to their death, as did William Shakespeare.[3]
 
@@ -13,8 +13,8 @@ Poets, playwrights and other writers
 
 Good frend for Iesvs sake forebeare,
 To digg the dvst encloased heare.
-Bleste be Middle English the.svg man Middle English that.svg spares thes stones,
-And cvrst be he Middle English that.svg moves my bones.
+Bleste be man spares thes stones,
+And cvrst be he moves my bones.
 
 (In modern spelling):
 Good friend for Jesus' sake forbear,

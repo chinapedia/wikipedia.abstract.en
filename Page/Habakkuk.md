@@ -11,7 +11,7 @@ For almost every other prophet, more information is given, such as the name of t
 
 Beyond the Bible, considerable conjecture has been put forward over the centuries in the form of Christian and Rabbinic tradition, but such accounts are dismissed by modern scholars as speculative and apocryphal.
 
-Zuccone_Donatello_OPA_Florence.jpg by Donatello, in the Museo dell'Opera del Duomo of Florence.]]
+by Donatello, in the Museo dell'Opera del Duomo of Florence.]]
 
 Biblical account
 
@@ -49,11 +49,11 @@ The final resting place of Habakkuk has been claimed at multiple locations. The 
 
 Tomb in Israel
 
-Prophet_Habakkuk_Tomb_ap_002.jpg, Israel.]] The burial place of Habakkuk is identified by Jewish tradition as a hillside in the Upper Galilee region of northern Israel, close to the villages Kadarim and Hukok, about six miles southwest of Safed and twelve miles north of Mount Tabor. A small stone building, erected during the 20th century, protects the tomb. Tradition dating as early as the 12th century AD holds that Habakkuk's tomb is at this location, but the tomb may also be of a local sheikh of Yaquq, a name related to the biblical place named "Hukkok",[1] whose pronunciation and spelling in Hebrew are close to "Habakkuk". Archaeological findings in this location include several burial places dated to the Second Temple period.
+, Israel.]] The burial place of Habakkuk is identified by Jewish tradition as a hillside in the Upper Galilee region of northern Israel, close to the villages Kadarim and Hukok, about six miles southwest of Safed and twelve miles north of Mount Tabor. A small stone building, erected during the 20th century, protects the tomb. Tradition dating as early as the 12th century AD holds that Habakkuk's tomb is at this location, but the tomb may also be of a local sheikh of Yaquq, a name related to the biblical place named "Hukkok",[1] whose pronunciation and spelling in Hebrew are close to "Habakkuk". Archaeological findings in this location include several burial places dated to the Second Temple period.
 
 Persian shrine
 
-Habakuk_mausoleum_Tuyserkan_Iran.jpg, Iran.]] A mausoleum southeast of the city of Tuyserkan in the west of Iran is also believed to be Habakkuk's burial place. It is protected by Iran's Cultural Heritage, Handcrafts and Tourism Organization. The Organization's guide to the Hamadan Province states that Habakkuk was believed to be a guardian to Solomon's Temple, and that he was captured by the Babylonians and remained in their prison for some years. After being freed by Cyrus the Great, he went to Ecbatana and remained there until he died, and was buried somewhere nearby, in what is today Tuyserkan. Habakkuk is called both Habaghugh and Hayaghugh by the Muslim locals.
+, Iran.]] A mausoleum southeast of the city of Tuyserkan in the west of Iran is also believed to be Habakkuk's burial place. It is protected by Iran's Cultural Heritage, Handcrafts and Tourism Organization. The Organization's guide to the Hamadan Province states that Habakkuk was believed to be a guardian to Solomon's Temple, and that he was captured by the Babylonians and remained in their prison for some years. After being freed by Cyrus the Great, he went to Ecbatana and remained there until he died, and was buried somewhere nearby, in what is today Tuyserkan. Habakkuk is called both Habaghugh and Hayaghugh by the Muslim locals.
 
 The surrounding shrine may date to the period of the Seljuq Empire (11–12th century); it consists of an octagonal wall and conical dome. Underneath the shrine is a hidden basement with three floors. In the center of the shrine's courtyard is the grave where Habakkuk is said to be buried. A stone upon the grave is inscribed in both Hebrew and Persian stating that the prophet's father was Shioua Lovit, and his mother was Lesho Namit. Both Muslims and Jews visit it to pay their respects.
 

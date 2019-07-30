@@ -1,4 +1,4 @@
-Doppler_effect_diagrammatic.svg caused by motion of the source.]] Dopplerfrequenz.gif
+caused by motion of the source.]]
 
 The DOPPLER EFFECT (or the DOPPLER SHIFT) is the change in frequency or wavelength of a wave in relation to an observer who is moving relative to the wave source.[1] It is named after the Austrian physicist Christian Doppler, who described the phenomenon in 1842.
 
@@ -108,7 +108,7 @@ Application
 
 Sirens
 
-start=7:14 A siren on a passing emergency vehicle will start out higher than its stationary pitch, slide down as it passes, and continue lower than its stationary pitch as it recedes from the observer. Astronomer John Dobson explained the effect thus:
+A siren on a passing emergency vehicle will start out higher than its stationary pitch, slide down as it passes, and continue lower than its stationary pitch as it recedes from the observer. Astronomer John Dobson explained the effect thus:
 
 In other words, if the siren approached the observer directly, the pitch would remain constant, at a higher than stationary pitch, until the vehicle hit him, and then immediately jump to a new lower pitch. Because the vehicle passes by the observer, the radial velocity does not remain constant, but instead varies as a function of the angle between his line of sight and the siren's velocity:
 
@@ -118,7 +118,7 @@ where θ is the angle between the object's forward velocity and the line of sigh
 
 Astronomy
 
-Redshift.svg of spectral lines in the optical spectrum of a supercluster of distant galaxies (right), as compared to that of the Sun (left)]]
+of spectral lines in the optical spectrum of a supercluster of distant galaxies (right), as compared to that of the Sun (left)]]
 
 The Doppler effect for electromagnetic waves such as light is of great use in astronomy and results in either a so-called redshift or blueshift. It has been used to measure the speed at which stars and galaxies are approaching or receding from us; that is, their radial velocities. This may be used to detect if an apparently single star is, in reality, a close binary, to measure the rotational speed of stars and galaxies, or to detect exoplanets. This redshift and blueshift happens on a very small scale. If an object was moving toward earth, there would not be a noticeable difference in visible light, to the unaided eye.[15]
 
@@ -139,7 +139,7 @@ $$\Delta f=\frac{2\Delta v}{c}f_0$$
 
 Medical
 
-CarotidDoppler1.jpg – scanner and screen]] An echocardiogram can, within certain limits, produce an accurate assessment of the direction of blood flow and the velocity of blood and cardiac tissue at any arbitrary point using the Doppler effect. One of the limitations is that the ultrasound beam should be as parallel to the blood flow as possible. Velocity measurements allow assessment of cardiac valve areas and function, abnormal communications between the left and right side of the heart, leaking of blood through the valves (valvular regurgitation), and calculation of the cardiac output. Contrast-enhanced ultrasound using gas-filled microbubble contrast media can be used to improve velocity or other flow-related medical measurements.[19][20]
+– scanner and screen]] An echocardiogram can, within certain limits, produce an accurate assessment of the direction of blood flow and the velocity of blood and cardiac tissue at any arbitrary point using the Doppler effect. One of the limitations is that the ultrasound beam should be as parallel to the blood flow as possible. Velocity measurements allow assessment of cardiac valve areas and function, abnormal communications between the left and right side of the heart, leaking of blood through the valves (valvular regurgitation), and calculation of the cardiac output. Contrast-enhanced ultrasound using gas-filled microbubble contrast media can be used to improve velocity or other flow-related medical measurements.[19][20]
 
 Although "Doppler" has become synonymous with "velocity measurement" in medical imaging, in many cases it is not the frequency shift (Doppler shift) of the received signal that is measured, but the phase shift (_when_ the received signal arrives).[21]
 
@@ -155,9 +155,9 @@ Developed originally for velocity measurements in medical applications (blood fl
 
 Satellite communication
 
-  ------------------------------------------------------------------------- ---------------------- ------------------------
-  SatDoppler.png: orbit altitude h = 750 km). Fixed ground station.[23]]]   DopplerSatScheme.png   SatDopplerSpectrum.png
-  ------------------------------------------------------------------------- ---------------------- ------------------------
+  ----------------------------------------------------------- -- --
+  : orbit altitude h = 750 km). Fixed ground station.[23]]]
+  ----------------------------------------------------------- -- --
 
 Fast moving satellites can have a Doppler shift of dozens of kilohertz relative to a ground station. The speed, thus magnitude of Doppler effect, changes due to earth curvature. Dynamic Doppler compensation, where the frequency of a signal is changed progressively during transmission, is used so the satellite receives a constant frequency signal.[24]
 

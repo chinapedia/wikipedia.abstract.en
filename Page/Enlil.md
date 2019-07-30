@@ -10,7 +10,7 @@ Enlil's name comes from ancient Sumerian EN, meaning "lord" and LÍL meaning "wi
 
 Worship
 
-Ruins_from_a_temple_in_Naffur.jpg temple at Nippur]] Ekur_plan.svg Cuneiform_inscription_on_a_diorite_mortar_stating_that_this_was_an_offering_from_Gudea_to_Enlil._From_Nippur,_Iraq._2144-2124_BCE._Ancient_Orient_Museum,_Istanbul.jpg to Enlil ( 2144 – 2124 BC)]]
+temple at Nippur]] to Enlil ( 2144 – 2124 BC)]]
 
 Enlil was the patron god of the Sumerian city-state of Nippur and his main center of worship was the Ekur temple located there. The name of the temple literally means "Mountain House" in ancient Sumerian. The Ekur was believed to have been built and established by Enlil himself. It was believed to be the "mooring-rope" of heaven and earth, meaning that it was seen as "a channel of communication between earth and heaven". A hymn written during the reign of Ur-Nammu, the founder of the Third Dynasty of Ur, describes the E-kur in great detail, stating that its gates were carved with scenes of Imdugud, a lesser deity sometimes shown as a giant bird, slaying a lion and an eagle snatching up a sinner.
 
@@ -36,8 +36,6 @@ Mythology
 
 Origins myths
 
-"nature2.jpg
-
 The main source of information about the Sumerian creation myth is the prologue to the epic poem _Gilgamesh, Enkidu, and the Netherworld_ (ETCSL 1.8.1.4), which briefly describes the process of creation: originally, there was only Nammu, the primeval sea. Then, Nammu gave birth to An, the sky, and Ki, the earth. An and Ki mated with each other, causing Ki to give birth to Enlil. Enlil separated An from Ki and carried off the earth as his domain, while An carried off the sky.
 
 _Enlil and Ninlil_ (ETCSL 1.2.1) is a nearly complete 152-line Sumerian poem describing the affair between Enlil and the goddess Ninlil. First, Ninlil's mother Nunbarshegunu instructs Ninlil to go bathe in the river. Ninlil goes to the river, where Enlil seduces her and impregnates her with their son, the moon-god Nanna. Because of this, Enlil is banished to Kur, the Sumerian underworld. Ninlil follows Enlil to the underworld, where he impersonates the "man of the gate". Ninlil demands to know where Enlil has gone, but Enlil, still impersonating the gatekeeper, refuses to answer. He then seduces Ninlil and impregnates her with Nergal, the god of death. The same scenario repeats, only this time Enlil instead impersonates the "man of the river of the nether world, the man-devouring river"; once again, he seduces Ninlil and impregnates her with the god Ninazu. Finally, Enlil impersonates the "man of the boat"; once again, he seduces Ninlil and impregnates her with Enbilulu, the "inspector of the canals".
@@ -58,7 +56,7 @@ The Sumerian poem _Enlil Chooses the Farmer-God_ (ETCSL 5.3.3) describes how Enl
 
 Ninurta myths
 
-Chaos_Monster_and_Sun_God.png with his thunderbolts pursues Anzû, who has stolen the Tablet of Destinies from Enlil's sanctuary (Austen Henry Layard _Monuments of Nineveh_, 2nd Series, 1853)]]
+with his thunderbolts pursues Anzû, who has stolen the Tablet of Destinies from Enlil's sanctuary (Austen Henry Layard _Monuments of Nineveh_, 2nd Series, 1853)]]
 
 In the Sumerian poem _Lugale_ (ETCSL 1.6.2), Enlil gives advice to his son, the god Ninurta, advising him on a strategy to slay the demon Asag. This advice is relayed to Ninurta by way of Sharur, his enchanted talking mace, which had been sent by Ninurta to the realm of the gods to seek counsel from Enlil directly.
 

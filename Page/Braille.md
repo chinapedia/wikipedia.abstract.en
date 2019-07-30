@@ -13,7 +13,7 @@ Braille cells are not the only thing to appear in braille text. There may be emb
 
 History
 
-DSC_4050-MR-Braille.jpg for "first") can be read.]] Braille was based on a tactile military code called night writing, developed by Charles Barbier in response to Napoleon's demand for a means for soldiers to communicate silently at night and without a light source.[7] In Barbier's system, sets of 12 embossed dots encoded 36 different sounds. It proved to be too difficult for soldiers to recognize by touch and was rejected by the military. In 1821 Barbier visited the Royal Institute for the Blind in Paris, where he met Louis Braille. Braille identified two major defects of the code: first, by representing only sounds, the code was unable to render the orthography of the words; second, the human finger could not encompass the whole 12-dot symbol without moving, and so could not move rapidly from one symbol to another. Braille's solution was to use 6-dot cells and to assign a specific pattern to each letter of the alphabet.[8] At first, Braille was a one-to-one transliteration of French orthography, but soon various abbreviations, contractions, and even logograms were developed, creating a system much more like shorthand.[9] The expanded English system, called Grade-2 Braille, was completed by 1905. For blind readers, Braille is an independent writing system, rather than a code of printed orthography.[10]
+for "first") can be read.]] Braille was based on a tactile military code called night writing, developed by Charles Barbier in response to Napoleon's demand for a means for soldiers to communicate silently at night and without a light source.[7] In Barbier's system, sets of 12 embossed dots encoded 36 different sounds. It proved to be too difficult for soldiers to recognize by touch and was rejected by the military. In 1821 Barbier visited the Royal Institute for the Blind in Paris, where he met Louis Braille. Braille identified two major defects of the code: first, by representing only sounds, the code was unable to render the orthography of the words; second, the human finger could not encompass the whole 12-dot symbol without moving, and so could not move rapidly from one symbol to another. Braille's solution was to use 6-dot cells and to assign a specific pattern to each letter of the alphabet.[8] At first, Braille was a one-to-one transliteration of French orthography, but soon various abbreviations, contractions, and even logograms were developed, creating a system much more like shorthand.[9] The expanded English system, called Grade-2 Braille, was completed by 1905. For blind readers, Braille is an independent writing system, rather than a code of printed orthography.[10]
 
 Derivation
 
@@ -23,14 +23,14 @@ The first ten letters of the alphabet, _a–j,_ use the upper four dot positions
 
 The next ten letters, _k–t,_ are identical to _a–j,_ respectively, apart from the addition of a dot at position 3 (red dots in the table below): :
 
-  ----------------------- ----------------------- ----------------------- ----------------------- ----------------------- ----------------------- ----------------------- ----------------------- ----------------------- -----------------------
-  Braille_A1.svg          Braille_B2.svg          Braille_C3.svg          Braille_D4.svg          Braille_E5.svg          Braille_F6.svg          Braille_G7.svg          Braille_H8.svg          Braille_I9.svg          Braille_J0.svg
-  a/1                     b/2                     c/3                     d/4                     e/5                     f/6                     g/7                     h/8                     i/9                     j/0
-  Braille_K_colored.svg   Braille_L_colored.svg   Braille_M_colored.svg   Braille_N_colored.svg   Braille_O_colored.svg   Braille_P_colored.svg   Braille_Q_colored.svg   Braille_R_colored.svg   Braille_S_colored.svg   Braille_T_colored.svg
-  k                       l                       m                       n                       o                       p                       q                       r                       s                       t
-  Braille_U_colored.svg   Braille_V_colored.svg   Braille_X_colored.svg   Braille_Y_colored.svg   Braille_Z_colored.svg                           Braille_W_colored.svg
-  u                       v                       x                       y                       z                       w
-  ----------------------- ----------------------- ----------------------- ----------------------- ----------------------- ----------------------- ----------------------- ----------------------- ----------------------- -----------------------
+  ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+  a/1   b/2   c/3   d/4   e/5   f/6   g/7   h/8   i/9   j/0
+
+  k     l     m     n     o     p     q     r     s     t
+
+  u     v     x     y     z     w
+  ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
 
   : Derivation (colored dots) of the 26 braille letters of the Basic Latin alphabet
   from the 10 numeric digits (black dots)
@@ -45,8 +45,8 @@ In addition, there are ten patterns that are based on the first two letters () w
 
     {| class=wikitable
 
-|+ The 64 modern braille cells !colspan=2|decade|| ||colspan=10|numeric sequence || ||colspan=2|shift right |- align=center !1st |Braille_NULL.svg || |Braille_A1.svg |Braille_B2.svg |Braille_C3.svg |Braille_D4.svg |Braille_E5.svg |Braille_F6.svg |Braille_G7.svg |Braille_H8.svg |Braille_I9.svg |Braille_J0.svg || |Braille_Accent.svg |Braille_Currency.svg |- align=center !2nd |Braille_Apostrophe_colored.svg || |Braille_K_colored.svg |Braille_L_colored.svg |Braille_M_colored.svg |Braille_N_colored.svg |Braille_O_colored.svg |Braille_P_colored.svg |Braille_Q_colored.svg |Braille_R_colored.svg |Braille_S_colored.svg |Braille_T_colored.svg || |Braille_ST_colored.svg |Braille_Ä_colored.svg |- align=center !3rd |Braille_Hyphen_colored.svg || |Braille_U_colored.svg |Braille_V_colored.svg |Braille_X_colored.svg |Braille_Y_colored.svg |Braille_Z_colored.svg |Braille_Ç_colored.svg |Braille_É_colored.svg |Braille_À_colored.svg |Braille_È_colored.svg |Braille_Ù_colored.svg || |Braille_Ò_colored.svg |Braille_Number_colored.svg |- align=center !4th |Braille_Capital_colored.svg || |Braille_Â_colored.svg |Braille_Ê_colored.svg |Braille_Î_colored.svg |Braille_Ô_colored.svg |Braille_Û_colored.svg |Braille_Ë_colored.svg |Braille_Ï_colored.svg |Braille_Ü_colored.svg |Braille_Ö_colored.svg |Braille_W_colored.svg || |Braille_Decimal_colored.svg |Braille_Cursive_colored.svg |- align=center !5th ! shift
-down | |Braille_Comma_colored.svg |Braille_Semicolon_colored.svg |Braille_Colon_colored.svg |Braille_Period_colored.svg |Braille_QuestionMark_colored.svg |Braille_ExclamationPoint_colored.svg |Braille_Bracket_colored.svg |Braille_QuoteOpen_colored.svg |Braille_Asterisk_colored.svg |Braille_QuoteClose_colored.svg || |Braille_ContractionPrefix_colored.svg |Braille_Correction_colored.svg |}
+|+ The 64 modern braille cells !colspan=2|decade|| ||colspan=10|numeric sequence || ||colspan=2|shift right |- align=center !1st | || | | | | | | | | | | || | | |- align=center !2nd | || | | | | | | | | | | || | | |- align=center !3rd | || | | | | | | | | | | || | | |- align=center !4th | || | | | | | | | | | | || | | |- align=center !5th ! shift
+down | | | | | | | | | | | || | | |}
 
 Originally there had been nine decades. The fifth through ninth used dashes as well as dots, but proved to be impractical and were soon abandoned. These could be replaced with what we now know as the number sign (), though that only caught on for the digits (old 5th decade → modern 1st decade). The dash occupying the top row of the original sixth decade was simply dropped, producing the modern fifth decade. (See 1829 braille.)
 
@@ -63,7 +63,7 @@ Academic texts are sometimes written in a script of eight dots per cell rather t
 
 Form
 
-Alianca_braille.JPG Braille was the first writing system with binary encoding.[12] The system as devised by Braille consists of two parts:[13]
+Braille was the first writing system with binary encoding.[12] The system as devised by Braille consists of two parts:[13]
 
 1.  Character encoding that mapped characters of the French alphabet to tuples of six bits (the dots),
 2.  The physical representation of those six-bit characters with raised dots in a braille cell.
@@ -75,7 +75,7 @@ In addition to simple encoding, many braille alphabets use contractions to reduc
 
 Writing braille
 
-Braille_Writer.jpg Braille may be produced by hand using a slate and stylus in which each dot is created from the back of the page, writing in mirror image, or it may be produced on a braille typewriter or Perkins Brailler, or an electronic Brailler or eBrailler. Because braille letters cannot be effectively erased and written over if an error is made, an error is overwritten with all six dots (). _Interpoint_ refers to braille printing that is offset, so that the paper can be embossed on both sides, with the dots on one side appearing between the divots that form the dots on the other (see the photo in the box at the top of this article for an example). Using a computer or other electronic device, Braille may be produced with a braille embosser (printer) or a refreshable braille display (screen).
+Braille may be produced by hand using a slate and stylus in which each dot is created from the back of the page, writing in mirror image, or it may be produced on a braille typewriter or Perkins Brailler, or an electronic Brailler or eBrailler. Because braille letters cannot be effectively erased and written over if an error is made, an error is overwritten with all six dots (). _Interpoint_ refers to braille printing that is offset, so that the paper can be embossed on both sides, with the dots on one side appearing between the divots that form the dots on the other (see the photo in the box at the top of this article for an example). Using a computer or other electronic device, Braille may be produced with a braille embosser (printer) or a refreshable braille display (screen).
 
 Braille has been extended to an 8-dot code, particularly for use with braille embossers and refreshable braille displays. In 8-dot braille the additional dots are added at the bottom of the cell, giving a matrix 4 dots high by 2 dots wide. The additional dots are given the numbers 7 (for the lower-left dot) and 8 (for the lower-right dot). Eight-dot braille has the advantages that the case of an individual letter is directly coded in the cell containing the letter and that all the printable ASCII characters can be represented in a single cell. All 256 (2⁸) possible combinations of 8 dots are encoded by the Unicode standard. Braille with six dots is frequently stored as Braille ASCII.
 
@@ -148,8 +148,6 @@ An A4-sized Marburg braille frame, which allows interpoint braille (dots on both
 
 Braille writing machine
 
-An_aesthetic_braille_typewriter_video.ogv
-
 A Braille writing machine is a typewriter with six keys that allow to write in Braille alphabet on a regular white page.
 
 The first Braille typewriter to gain general acceptance was invented by Frank Haven Hall (Superintendent of the Illinois School for the Blind), and was presented to the public in 1892.[15][16]
@@ -191,8 +189,6 @@ Though braille is thought to be the main way blind people read and write, in Bri
 
 Braille transcription
 
-Braille_on_tablet_box.JPG Braille_book.JPG
-
 Although it is possible to transcribe print by simply substituting the equivalent braille character for its printed equivalent, in English such a character-by-character transcription (known as _uncontracted braille_) is only used by beginners.
 
 Braille characters are much larger than their printed equivalents, and the standard 11" by 11.5" (28 cm × 30 cm) page has room for only 25 lines of 43 characters. To reduce space and increase reading speed, most braille alphabets and orthographies use ligatures, abbreviations, and contractions. Virtually all English Braille books are transcribed in this _contracted braille,_ which adds an additional layer of complexity to English orthography: The Library of Congress's _Instruction Manual for Braille Transcribing_[35] runs to over 300 pages and braille transcribers must pass certification tests.
@@ -224,7 +220,7 @@ Another study by Lowenfield & Abel[39] shows that braille can be read "the faste
 
 International uniformity
 
-Rapperswil_-_Duftrosengarten_20080222_005.jpg'' in Rapperswil, Switzerland]]
+'' in Rapperswil, Switzerland]]
 
 When Braille was first adapted to languages other than French, many schemes were adopted, including mapping the native alphabet to the alphabetical order of French – e.g. in English W, which was not in the French alphabet at the time, is mapped to braille X, X to Y, Y to Z, and Z to the first French-accented letter – or completely rearranging the alphabet such that common letters are represented by the simplest braille patterns. Consequently, mutual intelligibility was greatly hindered by this state of affairs. In 1878, the International Congress on Work for the Blind, held in Paris, proposed an international braille standard, where braille codes for different languages and scripts would be based, not on the order of a particular alphabet, but on phonetic correspondence and transliteration to Latin.[40]
 
@@ -242,7 +238,7 @@ Novel systems of braille mapping include Korean, which adopts separate syllable-
 
 Uses
 
-Braille_wine_label.jpg wine, with braille on the label]] Bahnhofsplan_für_Blinde,_Hannover_Hbf,_Ausschnitt_Eingangsbereich.jpg The current series of Canadian banknotes has a tactile feature consisting of raised dots that indicate the denomination, allowing bills to be easily identified by blind or low vision people. It does not use standard braille; rather, the feature uses a system developed in consultation with blind and low vision Canadians after research indicated that braille was not sufficiently robust and that not all potential users read braille. Mexican bank notes, Australian bank notes, Indian rupee notes, Israeli new shekel notes [41] and Russian ruble notes also have special raised symbols to make them identifiable by persons who are blind or low vision.[42]
+wine, with braille on the label]] The current series of Canadian banknotes has a tactile feature consisting of raised dots that indicate the denomination, allowing bills to be easily identified by blind or low vision people. It does not use standard braille; rather, the feature uses a system developed in consultation with blind and low vision Canadians after research indicated that braille was not sufficiently robust and that not all potential users read braille. Mexican bank notes, Australian bank notes, Indian rupee notes, Israeli new shekel notes [41] and Russian ruble notes also have special raised symbols to make them identifiable by persons who are blind or low vision.[42]
 
 In India there are instances where the parliament acts have been published in braille, such as _The Right to Information Act_.[43]
 

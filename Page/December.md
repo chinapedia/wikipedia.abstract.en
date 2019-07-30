@@ -1,5 +1,5 @@
 Dec}}
-DECEMBER is the twelfth and final month of the year in the Julian and Gregorian Calendars and is the seventh and last of seven months to have a length of 31 days. Les_Très_Riches_Heures_du_duc_de_Berry_décembre.jpg
+DECEMBER is the twelfth and final month of the year in the Julian and Gregorian Calendars and is the seventh and last of seven months to have a length of 31 days.
 
 December got its name from the Latin word _decem_ (meaning ten) because it was originally the tenth month of the year in the calendar of Romulus which began in March. The winter days following December were not included as part of any month. Later, the months of January and February were created out of the monthless period and added to the beginning of the calendar, but December retained its name.[1]
 
@@ -10,7 +10,7 @@ The Anglo-Saxons referred to December–January as Ġēolamonaþ (modern English
 
 Astronomy
 
-Hans_Bol_-_Adriaen_Collaert_-_Emblemata_evangelica_-_Erfgoedfonds_Koning_Boudewijnstichting_-_Fonds_du_Patrimoine_Fondation_Roi_Baudouin_-_12.jpg December contains the winter solstice in the Northern Hemisphere, the day with the fewest daylight hours, and the summer solstice in the Southern Hemisphere, the day with the most daylight hours (excluding polar regions in both cases). December in the Northern Hemisphere is the seasonal equivalent to June in the Southern Hemisphere and vice versa. In the Northern hemisphere, the beginning of the astronomical winter is traditionally 21 December or the date of the solstice.
+December contains the winter solstice in the Northern Hemisphere, the day with the fewest daylight hours, and the summer solstice in the Southern Hemisphere, the day with the most daylight hours (excluding polar regions in both cases). December in the Northern Hemisphere is the seasonal equivalent to June in the Southern Hemisphere and vice versa. In the Northern hemisphere, the beginning of the astronomical winter is traditionally 21 December or the date of the solstice.
 
 Meteor showers occurring in December are the Andromedids (September 25 – December 6, peaking around November 9), the Canis-Minorids (December 4 – December 15, peaking around December 10–11), the Coma Berenicids (December 12 to December 23, peaking around December 16), the Delta Cancrids (December 14 to February 14, the main shower from January 1 to January 24, peaking on January 17), the Geminids (December 13–14), the Monocerotids (December 7 to December 20, peaking on December 9. This shower can also start in November), the Phoenicids (November 29 to December 9, with a peak occurring around 5/6 December), the Quadrantids (typically a January shower but can also start in December), the Sigma Hydrids (December 4–15), and the Ursids (December 17-to December 25/26, peaking around December 22).
 
@@ -22,13 +22,13 @@ Astrology
 
 December symbols
 
--   Yellow_Narcissus.JPG flower]]December's birth flower is the narcissus.
--   Turquoise_polie_1_(USA).jpg]]Zircon-rlkg001a_(cropped).JPG]]Zoïsite_(Tanzanite).jpg]]December's birthstones are the turquoise, zircon, and tanzanite.
+-   flower]]December's birth flower is the narcissus.
+-   ]]]]]]December's birthstones are the turquoise, zircon, and tanzanite.
 
 
 Observances
 
-Eaton_Centre_Christmas_Tree.JPG at the Eaton Centre in Toronto.]] _This list does not necessarily imply either official status or general observance._
+at the Eaton Centre in Toronto.]] _This list does not necessarily imply either official status or general observance._
 
 Non-Gregorian observances: 2019 dates
 
@@ -102,7 +102,7 @@ DECEMBER 22, UNLESS THAT DATE IS A SUNDAY, IN WHICH CASE IT'S MOVED TO THE 23RD:
 
 Fixed observances
 
-Weihnachtsmarktindresden.jpg in Dresden]]
+in Dresden]]
 
 -   November 25 – December 10: 16 Days of Activism against Gender-based Violence
 -   December 1

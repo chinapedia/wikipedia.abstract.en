@@ -22,11 +22,11 @@ The name was at least secondarily associated with that of Manannán mac Lir in I
 
 History
 
-The_Braaid_-_Isle_of_Man_-_kingsley_-_21-APR-09.jpg in central Isle of Man, with remnants of a Celtic-Norse roundhouse and two longhouses, c. AD 650–950]]
+in central Isle of Man, with remnants of a Celtic-Norse roundhouse and two longhouses, c. AD 650–950]]
 
 The island was cut off from the surrounding islands around 8000 BC, but was colonised by sea some time before 6500 BC.[18] The first residents were hunter-gatherers and fishermen. Examples of their tools are kept at the Manx Museum.[19]
 
-Kingdom_of_Mann_and_the_Isles-en.svg about the year 1100]] The Neolithic Period marked the beginning of farming, and megalithic monuments began to appear, such as Cashtal yn Ard near Maughold, King Orry's Grave at Laxey, Meayll Circle near Cregneash, and Ballaharra Stones at St John's. There were also the local Ronaldsway and Bann cultures.[20]
+about the year 1100]] The Neolithic Period marked the beginning of farming, and megalithic monuments began to appear, such as Cashtal yn Ard near Maughold, King Orry's Grave at Laxey, Meayll Circle near Cregneash, and Ballaharra Stones at St John's. There were also the local Ronaldsway and Bann cultures.[20]
 
 During the Bronze Age, burial mounds became smaller. Bodies were put in stone-lined graves with ornamental containers. The Bronze Age burial mounds created long-lasting markers around the countryside.[21]
 
@@ -45,15 +45,13 @@ The Isle of Man has designated more than 250 historic sites as registered buildi
 
 Geography
 
-Sound_IOM.JPG seen from Cregneash]] Isle_of_Man_by_Sentinel-2.jpg
+seen from Cregneash]]
 
 The Isle of Man is located in the middle of the northern Irish Sea, almost equidistant from England to the east, Northern Ireland to the west, and Scotland (closest) to the north; while Wales to the south is almost the distance of the Republic of Ireland to the southwest. It is long and, at its widest point, wide. It has an area of around .[24] Besides the island of Mann itself, the political unit of the Isle of Man includes some nearby small islands: the seasonally inhabited Calf of Man,[25] Chicken Rock on which stands an unmanned lighthouse, St Patrick's Isle and St Michael's Isle. The last two of these are connected to the main island by permanent roads/causeways.
 
 Ranges of hills in the north and south are separated by a central valley. The northern plain, by contrast, is relatively flat, consisting mainly of deposits from glacial advances from western Scotland during colder times. There are more recently deposited shingle beaches at the northernmost point, the Point of Ayre. The island has one mountain higher than , Snaefell, with a height of .[26] According to an old saying, from the summit one can see six kingdoms: those of Mann, Scotland, England, Ireland, Wales, and Heaven.[27][28] Some versions add a seventh kingdom, that of the sea, or Neptune.[29]
 
 Population
-
-Isle_of_Man_map-en.svg
 
 At the 2016 census,[30] the Isle of Man was home to 83,314 people, of whom 26,997 resided in the island's capital, Douglas, and 9,128 in the adjoining village of Onchan. The population decreased by 1.4% between the 2011 and 2016 censuses. By country of birth, those born in the Isle of Man were the largest group (49.8%), while those born in the United Kingdom were the next largest group at 40% (33.9% in England, 3% in Scotland, 2% in Northern Ireland and 1.1% in Wales), 1.8% in the Republic of Ireland and 0.75% in the Channel Islands. The remaining 8.5% were born elsewhere in the world, with 5% coming from EU countries (other than the UK and Ireland).
 
@@ -105,8 +103,6 @@ All of these services are controlled directly by the Department of Home Affairs 
 
 Manxman status
 
-Isle_of_man_passport.jpg
-
 There is no citizenship of the Isle of Man as such under the British Nationality Acts 1948 and 1981.
 
 The Passport Office, Isle of Man, Douglas, accepts and processes applications for the Lieutenant Governor of the Isle of Man, who is formally responsible for issuing Isle of Man-issued British passports, entitled "_British Islands – Isle of Man_".
@@ -129,7 +125,7 @@ The Isle of Man is not itself a member of the Commonwealth of Nations. By virtue
 
 Politics
 
-IsleOfMan_SheadingsAndParishes-en.svg ]]
+]]
 
 Most Manx politicians stand for election as independents rather than as representatives of political parties. Although political parties do exist, their influence is not nearly as strong as in the United Kingdom.
 
@@ -172,7 +168,7 @@ After 30 years of continued GDP growth, the unemployment rate is just around 1%.
 
 The Isle of Man is a low-tax economy with no capital gains tax, wealth tax, stamp duty, or inheritance tax[63] and a top rate of income tax of 20%.[64] A tax cap is in force: the maximum amount of tax payable by an individual is £125,000 or £250,000 for couples if they choose to have their incomes jointly assessed. Personal income is assessed and taxed on a total worldwide income basis rather than a remittance basis. This means that all income earned throughout the world is assessable for Manx tax rather than only income earned in or brought into the island.
 
-The standard rate of corporation tax for residents and non-residents is 0%. Retail business profits above £500,000 and banking business income are taxed at 10%, and rental (or other) income from land and buildings situated on the Isle of Man is taxed at 20%.[65] Peel_-_Peel_Bay_Beach_-_geograph.org.uk_-_1719663.jpg is the island's main fishing port.]]
+The standard rate of corporation tax for residents and non-residents is 0%. Retail business profits above £500,000 and banking business income are taxed at 10%, and rental (or other) income from land and buildings situated on the Isle of Man is taxed at 20%.[65] is the island's main fishing port.]]
 
 Trade takes place mostly with the United Kingdom. The island is in customs union with the UK, and related revenues are pooled and shared under the Common Purse Agreement. This means that the Isle of Man cannot have the lower excise revenues on alcohol and other goods that are enjoyed in the Channel Islands.
 
@@ -206,7 +202,7 @@ Postal services are the responsibility of Isle of Man Post, which took over from
 
 Transport
 
-Douglas_Sea_Terminal_-_Isle_of_Man_-_kingsley_-_20-APR-09.jpg There is a comprehensive bus network, operated by the government-owned bus operator Bus Vannin.[83]
+There is a comprehensive bus network, operated by the government-owned bus operator Bus Vannin.[83]
 
 The Isle of Man Sea Terminal in Douglas has regular ferries to and from Heysham and to and from Liverpool, with a more restricted timetable operating in winter. There are also limited summer-only services to and from Belfast and Dublin. The Dublin route also operates at Christmas. At the time of the Isle of Man TT a limited number of sailings operate to and from Larne in Northern Ireland. All ferries are operated by the Isle of Man Steam Packet Company.[84]
 
@@ -233,7 +229,7 @@ The culture of the Isle of Man is often promoted as being influenced by its Celt
 
 Language
 
-Douglas_Isle_of_Man_welcome_sign.jpg and English]]
+and English]]
 
 The official language of the Isle of Man is English. Manx has traditionally been spoken but is now considered "critically endangered".[95]
 
@@ -247,7 +243,7 @@ In the 2011 Isle of Man census, approximately 1,800 residents could read, write,
 
 Symbols
 
-The_Legs_of_Man_-_Isle_of_Man_Triskelion_-_kingsley_-_19-APR-09.jpg in front of Ronaldsway Airport terminal]]
+in front of Ronaldsway Airport terminal]]
 
 For centuries, the island's symbol has been the so-called "three legs of Mann" (), a triskelion of three legs conjoined at the thigh. The Manx triskelion, which dates back with certainty to the late 13th century, is of uncertain origin. It has been suggested that its origin lies in Sicily, an island which has been associated with the triskelion since ancient times.[103][104]
 
@@ -257,13 +253,13 @@ The ragwort or _cushag_ is the Manx national flower.[109]
 
 Religion
 
-Peel_Cathedral_01.JPG]] The predominant religious tradition of the island is Christianity. Before the Protestant Reformation, the island had a long history as part of the unified Western Church, and in the years following the Reformation, the religious authorities on the island, and later the population of the island, accepted the religious authority of the British monarchy and the Church of England.[110] It has also come under the influence of Irish religious tradition. The island forms a separate diocese called Sodor and Man, which in the distant past comprised the medieval kingdom of Man and the Scottish isles ("Suðreyjar" in Old Norse). It now consists of 16 parishes,[111] and since 1541[112] has formed part of the Province of York.[113] (These modern ecclesiastical parishes do not correspond to the island's ancient parishes mentioned in this article under "Local Government", but more closely reflect the current geographical distribution of population.)
+]] The predominant religious tradition of the island is Christianity. Before the Protestant Reformation, the island had a long history as part of the unified Western Church, and in the years following the Reformation, the religious authorities on the island, and later the population of the island, accepted the religious authority of the British monarchy and the Church of England.[110] It has also come under the influence of Irish religious tradition. The island forms a separate diocese called Sodor and Man, which in the distant past comprised the medieval kingdom of Man and the Scottish isles ("Suðreyjar" in Old Norse). It now consists of 16 parishes,[111] and since 1541[112] has formed part of the Province of York.[113] (These modern ecclesiastical parishes do not correspond to the island's ancient parishes mentioned in this article under "Local Government", but more closely reflect the current geographical distribution of population.)
 
 Other Christian churches also operate on the Isle of Man. The second largest denomination is the Methodist Church, whose Isle of Man District is close in numbers to the Anglican diocese. There are eight Catholic parish churches, included in the Catholic Archdiocese of Liverpool,[114] as well as a presence of Eastern Orthodox Christians. Additionally there are five Baptist churches, four Pentecostal churches, the Salvation Army, a ward of The Church of Jesus Christ of Latter-day Saints, two congregations of Jehovah's Witnesses, two United Reformed churches, as well as other Christian churches. There is a small Muslim community, with its own mosque in Douglas, and there is also a small Jewish community.[115]
 
 Myth, legend and folklore
 
-Isle_of_Man_Peel_Castle.jpg]] In Manx mythology, the island was ruled by the sea god Manannán, who would draw his misty cloak around the island to protect it from invaders. One of the principal folk theories about the origin of the name _Mann_ is that it is named after Manannán.
+]] In Manx mythology, the island was ruled by the sea god Manannán, who would draw his misty cloak around the island to protect it from invaders. One of the principal folk theories about the origin of the name _Mann_ is that it is named after Manannán.
 
 In the Manx tradition of folklore, there are many stories of mythical creatures and characters. These include the , a malevolent spirit which, according to legend, blew the roof off St Trinian's Church in a fit of rage; the ; the ; and the , a ghostly black dog which wandered the walls and corridors of Peel Castle.
 
@@ -277,7 +273,7 @@ One of the most often-repeated myths is that people found guilty of witchcraft w
 
 Music
 
-Bee_Gees_Plaque_-_Union_Mills_IOM_-_kingsley_-_21-APR-09.jpg plaque at Maitland Terrace/Strang Road intersection in Union Mills, Isle of Man]] The music of the Isle of Man reflects Celtic, Norse and other influences, including from its neighbours, Scotland, Ireland, England and Wales. A wide range of music is performed on the island, such as rock, blues, jazz and pop. However, its traditional folk music has undergone a revival since the 1970s, starting with a music festival called in Ramsey.[121] This was part of a general revival of the Manx language and culture after the death of the last native speaker of Manx in 1974. The Isle of Man was mentioned in the Who song "Happy Jack" as the homeland of the song's titular character, who is always in a state of ecstasy, no matter what happens to him. The song 'The Craic was 90 in the Isle of Man' by Christy Moore describes a lively visit during the Island's tourism heyday. The Island is also the birthplace of Maurice, Robin and Barry Gibb, of the Bee Gees.
+plaque at Maitland Terrace/Strang Road intersection in Union Mills, Isle of Man]] The music of the Isle of Man reflects Celtic, Norse and other influences, including from its neighbours, Scotland, Ireland, England and Wales. A wide range of music is performed on the island, such as rock, blues, jazz and pop. However, its traditional folk music has undergone a revival since the 1970s, starting with a music festival called in Ramsey.[121] This was part of a general revival of the Manx language and culture after the death of the last native speaker of Manx in 1974. The Isle of Man was mentioned in the Who song "Happy Jack" as the homeland of the song's titular character, who is always in a state of ecstasy, no matter what happens to him. The song 'The Craic was 90 in the Isle of Man' by Christy Moore describes a lively visit during the Island's tourism heyday. The Island is also the birthplace of Maurice, Robin and Barry Gibb, of the Bee Gees.
 
 Food
 
@@ -317,9 +313,9 @@ The Palace Cinema is located next to the derelict Castle Mona hotel and is opera
 
 Fauna
 
-Black Manx cat Two domestic animals are specifically connected to the Isle of Man, though they are also found elsewhere.
+Two domestic animals are specifically connected to the Isle of Man, though they are also found elsewhere.
 
-The Manx cat is a breed of cat noted for its genetic mutation that causes it to have a shortened tail. The length of this tail can range from a few inches, known as a "stumpy", to being completely nonexistent, or "rumpy". Manx cats display a range of colours and usually have somewhat longer hind legs compared to most cats. The cats have been used as a symbol of the Isle of Man on coins and stamps and at one time the Manx government operated a breeding centre to ensure the continuation of the breed.[140] Manx_loaghtan.jpg sheep are bred on the island for their meat.]] The Manx Loaghtan sheep is a breed native to the island. It has dark brown wool and four, or sometimes six, horns. The meat is considered to be a delicacy.[141] There are several flocks on the island and others have been started in England and Jersey.
+The Manx cat is a breed of cat noted for its genetic mutation that causes it to have a shortened tail. The length of this tail can range from a few inches, known as a "stumpy", to being completely nonexistent, or "rumpy". Manx cats display a range of colours and usually have somewhat longer hind legs compared to most cats. The cats have been used as a symbol of the Isle of Man on coins and stamps and at one time the Manx government operated a breeding centre to ensure the continuation of the breed.[140] sheep are bred on the island for their meat.]] The Manx Loaghtan sheep is a breed native to the island. It has dark brown wool and four, or sometimes six, horns. The meat is considered to be a delicacy.[141] There are several flocks on the island and others have been started in England and Jersey.
 
 A more recent arrival on the island is the red-necked wallaby, which is now established on the island following an escape from the Wildlife Park.[142] The local police report an increasing number of wallaby-related calls.[143]
 

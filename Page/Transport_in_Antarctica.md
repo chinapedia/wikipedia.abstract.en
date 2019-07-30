@@ -34,7 +34,7 @@ A second expedition led by Andrew Regan and Andrew Moon departed in November 201
 
 Water transport
 
-National_Geographic_Explorer_in_fast_ice,_Antarctica_-_edit_1.jpg Antarctica's only harbour is at McMurdo Station. Most coastal stations have offshore anchorages, and supplies are transferred from ship to shore by small boats, barges, and helicopters. A few stations have a basic wharf facility. All ships at port are subject to inspection in accordance with Article 7, Antarctic Treaty. Offshore anchorage is sparse and intermittent, but poses no problem to sailboats designed for the ice, typically with lifting keels and long shorelines. McMurdo Station (), Palmer Station (); government use only except by permit (see Permit Office under "Legal System"). A number of tour boats, ranging from large motorized vessels to small sailing yachts, visit the Antarctic Peninsula during the summer months (January–March). Most are based in Ushuaia, Argentina.
+Antarctica's only harbour is at McMurdo Station. Most coastal stations have offshore anchorages, and supplies are transferred from ship to shore by small boats, barges, and helicopters. A few stations have a basic wharf facility. All ships at port are subject to inspection in accordance with Article 7, Antarctic Treaty. Offshore anchorage is sparse and intermittent, but poses no problem to sailboats designed for the ice, typically with lifting keels and long shorelines. McMurdo Station (), Palmer Station (); government use only except by permit (see Permit Office under "Legal System"). A number of tour boats, ranging from large motorized vessels to small sailing yachts, visit the Antarctic Peninsula during the summer months (January–March). Most are based in Ushuaia, Argentina.
 
 
 Air transport

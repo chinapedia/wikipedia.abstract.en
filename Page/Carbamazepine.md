@@ -7,7 +7,7 @@ Carbamazepine was discovered in 1953 by Swiss chemist Walter Schindler.[12] It w
 
 Medical uses
 
-Tegretol.jpg)]] Carbamazepine is typically used for the treatment of seizure disorders and neuropathic pain.[18] It is used off-label as a second-line treatment for bipolar disorder and in combination with an antipsychotic in some cases of schizophrenia when treatment with a conventional antipsychotic alone has failed.[19][20] It is not effective for absence seizures or myoclonic seizures.[21]
+)]] Carbamazepine is typically used for the treatment of seizure disorders and neuropathic pain.[18] It is used off-label as a second-line treatment for bipolar disorder and in combination with an antipsychotic in some cases of schizophrenia when treatment with a conventional antipsychotic alone has failed.[19][20] It is not effective for absence seizures or myoclonic seizures.[21]
 
 In the United States, the FDA-approved medical uses are epilepsy (including partial seizures, generalized tonic-clonic seizures and mixed seizures), trigeminal neuralgia, and manic and mixed episodes of bipolar I disorder.[22]
 

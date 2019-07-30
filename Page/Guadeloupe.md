@@ -9,7 +9,7 @@ Like the other overseas departments, it is an integral part of France. As a cons
 
 Toponomy
 
-Guadeloupe_-_Location_Map_(2013)_-_GLP_-_UNOCHA.svg]] The archipelago was called "Karukera" (or "The Island of Beautiful Waters") by the Arawak people, who settled on there in the year 300.
+]] The archipelago was called "Karukera" (or "The Island of Beautiful Waters") by the Arawak people, who settled on there in the year 300.
 
 Christopher Columbus named the island Santa María de Guadalupe in 1493 after the Virgin Mary, venerated in the Spanish town of Guadalupe. Upon becoming a French colony, the Spanish name was retained though altered to French orthography and phonology. The islands are locally known as Gwada.[4]
 
@@ -34,8 +34,6 @@ In January 2009, labour unions and others known as the Liyannaj Kont Pwofitasyon
 
 
 Geography
-
-Guadeloupe_NASA_61.42577W_16.17142N.jpg
 
 Guadeloupe is an archipelago of more than 12 islands, as well as islets and rocks situated where the northeastern Caribbean Sea meets the western Atlantic Ocean. It is in the Leeward Islands, in the northern part of the Lesser Antilles, an island arc, partly a volcanic arc. Montserrat is visible from the north, and Dominica is visible from the south.
 
@@ -78,7 +76,7 @@ Mangrove swamps line the Salée River.
 
 Demographics
 
-Guadeloupe_demography.png Guadeloupe recorded a population of 402,119 in the 2013 census.[30]
+Guadeloupe recorded a population of 402,119 in the 2013 census.[30]
 
 The population of Guadeloupe is mainly of Afro-Caribbean or mixed descent of Europeans, Indians (Tamil, Telugu, and other South Indians), Lebanese, Syrians, and Chinese.
 
@@ -126,7 +124,7 @@ Governance
 
 Guadeloupe elects one deputy from one of each of the first, second, third, and fourth constituencies to the National Assembly of France. Three senators are chosen for the Senate of France by indirect election.
 
-Most of the French political parties are active in Guadeloupe. In addition there are regional parties such as the Guadeloupe Communist Party, the Progressive Democratic Party of Guadeloupe, the Guadeloupean Objective, the Pluralist Left, and United Guadaloupe, Socialism and Realities. EU_OCT_and_OMR_map_en.png]] The top-level territorial sub-division of France is the region, which contain of departments. Guadeloupe, like a few other places (French Guiana, Martinique, Mayotte, and Réunion) is both a region and a department combined into one entity, the overseas department. Guadeloupe has separate departmental and regional councils.
+Most of the French political parties are active in Guadeloupe. In addition there are regional parties such as the Guadeloupe Communist Party, the Progressive Democratic Party of Guadeloupe, the Guadeloupean Objective, the Pluralist Left, and United Guadaloupe, Socialism and Realities. ]] The top-level territorial sub-division of France is the region, which contain of departments. Guadeloupe, like a few other places (French Guiana, Martinique, Mayotte, and Réunion) is both a region and a department combined into one entity, the overseas department. Guadeloupe has separate departmental and regional councils.
 
 The Regional Council of Guadeloupe is a body, elected every six years, consisting of a president, currently Ary Chalus, and eight vice-presidents. They were elected in 2015. The regional council oversees higher secondary education, regional transportation, economic development, the environment, and some infrastructure, among other things.
 
@@ -161,7 +159,7 @@ IMPORTS: US$3.102 billion (in 2005)[41]
 
 Tourism
 
-Caroline-6.jpg]] Tourism is a key industry, with 83.3% of tourists visiting from metropolitan France, 10.8% coming from the rest of Europe, 3.4% coming from the United States, 1.5% coming from Canada, 0.4% coming from South America, and 0.6% coming from the rest of the world.[42] An increasingly large number of cruise ships visit Guadeloupe, the cruise terminal of which is in Pointe-à-Pitre.[43]
+]] Tourism is a key industry, with 83.3% of tourists visiting from metropolitan France, 10.8% coming from the rest of Europe, 3.4% coming from the United States, 1.5% coming from Canada, 0.4% coming from South America, and 0.6% coming from the rest of the world.[42] An increasingly large number of cruise ships visit Guadeloupe, the cruise terminal of which is in Pointe-à-Pitre.[43]
 
 Agriculture
 
@@ -180,7 +178,7 @@ As it is a region of France, Guadeloupe's official language is French, which is 
 
 Literature
 
-Maryse_Cond%C3%A9.jpg, author of historical fiction.]] Saint-John Perse won the 1960 Nobel Prize in Literature. Guadeloupe has always had a rich literary output, continued today by many living writers, poets, novelists, essayists and journalists, among them Maryse Condé and Simone Schwarz-Bart. Carnaval_de_Saint-Fran%C3%A7ois_2013_01.JPG
+, author of historical fiction.]] Saint-John Perse won the 1960 Nobel Prize in Literature. Guadeloupe has always had a rich literary output, continued today by many living writers, poets, novelists, essayists and journalists, among them Maryse Condé and Simone Schwarz-Bart.
 
 Music
 
@@ -197,7 +195,7 @@ Guadeloupe is one of the safest islands in the Caribbean;[50] nevertheless, it w
 
 Sport
 
-Osaka07_D2M_Christine_Arron.jpg, the world's fifth-fastest female sprinter (10.73 sec), of all time.]] Football (soccer) is popular in Guadeloupe, and several notable footballers are of Guadeloupean origin, including Stéphane Auvray, Ronald Zubar and his younger brother Stéphane, Miguel Comminges, Dimitri Foulquier, Bernard Lambourde, Anthony Martial and Kingsley Coman.
+, the world's fifth-fastest female sprinter (10.73 sec), of all time.]] Football (soccer) is popular in Guadeloupe, and several notable footballers are of Guadeloupean origin, including Stéphane Auvray, Ronald Zubar and his younger brother Stéphane, Miguel Comminges, Dimitri Foulquier, Bernard Lambourde, Anthony Martial and Kingsley Coman.
 
 The national football team were 2007 CONCACAF Gold Cup semi-finalists, defeated by Mexico.
 

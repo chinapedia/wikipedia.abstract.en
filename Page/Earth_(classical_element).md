@@ -3,15 +3,13 @@ EARTH is one of the classical elements, in some systems numbering four along wit
 
 European tradition
 
-La_Terre_Benoit_Massou_original.jpg'', with allegorical attributes inspired by Cesare Ripa’s _Iconologia_.]] Earth is one of the four classical elements in ancient Greek philosophy and science. It was commonly associated with qualities of heaviness, matter and the terrestrial world. Due to the hero cults, and chthonic underworld deities, the element of _earth_ is also associated with the sensual aspects of both life and death in later occultism.
+'', with allegorical attributes inspired by Cesare Ripa’s _Iconologia_.]] Earth is one of the four classical elements in ancient Greek philosophy and science. It was commonly associated with qualities of heaviness, matter and the terrestrial world. Due to the hero cults, and chthonic underworld deities, the element of _earth_ is also associated with the sensual aspects of both life and death in later occultism.
 
 Empedocles of Acragas proposed four _archai_ by which to understand the cosmos: _fire_,'' air'', _water_, and _earth_. Plato believed the elements were geometric forms (the platonic solids) and he assigned the cube to the element of _earth_ in his dialogue _Timaeus_.[1] Aristotle (384–322 BCE) believed _earth_ was the heaviest element, and his theory of _natural place_ suggested that any _earth–laden_ substances, would fall quickly, straight down, towards the center of the _cosmos_.[2]
 
 In Classical Greek and Roman myth, various goddesses represented the Earth, seasons, crops and fertility, including Demeter and Persephone; Ceres; the Horae (goddesses of the seasons), and Proserpina; and Hades (Pluto) who ruled the souls of dead in the Underworld.
 
 In ancient Greek medicine, each of the four humours became associated with an element. Black bile was the humor identified with earth, since both were cold and dry. Other things associated with earth and black bile in ancient and medieval medicine included the season of fall, since it increased the qualities of cold and aridity; the melancholic temperament (of a person dominated by the black bile humour); the feminine; and the southern point of the compass.
-
-Alchemy_earth_symbol.svg
 
 In alchemy, earth was believed to be primarily dry, and secondarily cold, (as per Aristotle).[3] Beyond those classical attributes, the chemical substance salt, was associated with earth and its alchemical symbol was a downward-pointing triangle, bisected by a horizontal line.
 

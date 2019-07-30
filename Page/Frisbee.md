@@ -1,4 +1,4 @@
-Frisbee_090719.jpg registered trademark "Frisbee"]] A FRISBEE (pronounced , origin of the term dates to 1957, also called a FLYING DISC or simply a DISC) is a gliding toy or sporting item that is generally plastic and roughly in diameter with a pronounced lip. It is used recreationally and competitively for throwing and catching, as in flying disc games. The shape of the disc is an airfoil in cross-section which allows it to fly by generating lift as it moves through the air. Spinning it imparts a stabilizing gyroscopic force, allowing it to be both aimed and thrown for distance.
+registered trademark "Frisbee"]] A FRISBEE (pronounced , origin of the term dates to 1957, also called a FLYING DISC or simply a DISC) is a gliding toy or sporting item that is generally plastic and roughly in diameter with a pronounced lip. It is used recreationally and competitively for throwing and catching, as in flying disc games. The shape of the disc is an airfoil in cross-section which allows it to fly by generating lift as it moves through the air. Spinning it imparts a stabilizing gyroscopic force, allowing it to be both aimed and thrown for distance.
 
 A wide range is available of flying disc variants. Those for disc golf are usually smaller but denser and tailored for particular flight profiles to increase or decrease stability and distance. The longest recorded disc throw is by David Wiggins, Jr. with a distance of .[1] Disc dog sports use relatively slow-flying discs made of more pliable material to better resist a dog's bite and prevent injury to the dog. Flying rings are also available which typically travel significantly farther than any traditional flying disc. Illuminated discs are made of phosphorescent plastic or contain chemiluminescent fluid or battery-powered LEDs for play after dark. Others whistle when they reach a certain velocity in flight.
 
@@ -6,8 +6,6 @@ The term _frisbee_ is often used generically to describe all flying discs, but F
 
 
 History
-
-Person_throwing_flying_disc.jpg Frisbee_Catch-_Fcb981.jpg
 
 Humans have been tossing disc-shaped objects since time immemorial. At first these were found objects such as rocks worn smooth in stream beds. Some were tossed for fun while others were used as weapons such as the discus. Throwing the discus became an event in the Olympic Games of Ancient Greece. Later, objects such as mats, hats, lids, pie tins, and cake pans were found to be perfect for tossing.
 
@@ -21,11 +19,11 @@ Morrison and Franscioni ended their partnership in early 1950,[12] and Morrison 
 
 In June 1957, Wham-O co-founders Richard Knerr and Arthur "Spud" Melin gave the disc the brand name "Frisbee" after learning that college students were calling the Pluto Platter by that term,[15] which was derived from the Connecticut-based pie manufacturer Frisbie Pie Company,[16] a supplier of pies to Yale University where students had started a campus craze tossing empty pie tins stamped with the company's logo—the way that Morrison and his wife had in 1937.[17]
 
-Professional_Model_Frisbee_Canadian_Open_1972.jpg in Toronto]] The man behind the Frisbee's success, however, was Southern Californian Edward Headrick, hired in 1964 as Wham-O's general manager and vice president of marketing. Headrick redesigned the Pluto Platter by reworking the mold, mainly to remove the names of the planets, but fortuitously increasing the rim thickness and mass in the process, creating a more controllable disc that could be thrown more accurately.[18]
+in Toronto]] The man behind the Frisbee's success, however, was Southern Californian Edward Headrick, hired in 1964 as Wham-O's general manager and vice president of marketing. Headrick redesigned the Pluto Platter by reworking the mold, mainly to remove the names of the planets, but fortuitously increasing the rim thickness and mass in the process, creating a more controllable disc that could be thrown more accurately.[18]
 
 Wham-O changed their marketing strategy to promote Frisbee use as a new sport, and sales skyrocketed. In 1964, the first professional model went on sale. Headrick patented its design; it featured raised ridges (the "Rings of Headrick") that were claimed to stabilize flight.[19]
 
-Headrick_Frisbee_Ashes_001.jpg, London]] Headrick became known as the father of Frisbee sports;[20] he founded the International Frisbee Association and appointed Dan Roddick as its head. Roddick began establishing North American Series (NAS) tournament standards for various Frisbee sports, such as Freestyle, Guts, Double Disc Court, and overall events.[21] Headrick later helped to develop the sport of disc golf by inventing standardized targets called "pole holes",[22][23] that was first played with Frisbees and later with more aerodynamic beveled rim discs. When Headrick died, he was cremated, and his ashes were molded into memorial discs and given to family and close friends[24] and sold to benefit The Ed Headrick Memorial Museum.[25]
+, London]] Headrick became known as the father of Frisbee sports;[20] he founded the International Frisbee Association and appointed Dan Roddick as its head. Roddick began establishing North American Series (NAS) tournament standards for various Frisbee sports, such as Freestyle, Guts, Double Disc Court, and overall events.[21] Headrick later helped to develop the sport of disc golf by inventing standardized targets called "pole holes",[22][23] that was first played with Frisbees and later with more aerodynamic beveled rim discs. When Headrick died, he was cremated, and his ashes were molded into memorial discs and given to family and close friends[24] and sold to benefit The Ed Headrick Memorial Museum.[25]
 
 The Frisbee was inducted into the National Toy Hall of Fame in 1998.[26]
 
@@ -53,8 +51,6 @@ In 1974, freestyle competition was created and introduced by Ken Westerfield and
 -   Goaltimate
 
 A half-court disc game derived from Ultimate, similar to hot box. The object is to advance the disc on the field of play by passing, and score points by throwing the flying disc to a teammate in a small scoring area.[32]
-
-KanJam.jpg
 
 -   Guts
 

@@ -16,7 +16,7 @@ History
 
 1930s–1940s
 
-Paul_tutmarc.jpg outside his music store in Seattle, Washington]]
+outside his music store in Seattle, Washington]]
 
 In the 1930s, musician and inventor Paul Tutmarc of Seattle, Washington, developed the first electric bass guitar in its modern form, a fretted instrument designed to be played horizontally. The 1935 sales catalog for Tutmarc's electronic musical instrument company, Audiovox, featured his "Model 736 Bass Fiddle", a four-stringed, solid-bodied, fretted electric bass guitar with a scale length, and a single pick up .[6] The adoption of a guitar's body shape made the instrument easier to hold and transport than any of the existing stringed bass instruments. The addition of frets enabled bassists to play in tune more easily than on fretless acoustic or electric upright basses. Around 100 of these instruments were made during this period.[7] Audiovox also sold their “Model 236” bass amplifier.[8]
 
@@ -24,11 +24,9 @@ Around 1947, Tutmarc's son, Bud, began marketing a similar bass under the Serena
 
 1950s
 
-Fender_'51_Precision_Bass,_FGF_museum.jpg]]
+]]
 
 In the 1950s, Leo Fender and George Fullerton developed the first mass-produced electric bass guitar.[9] The Fender Electric Instrument Manufacturing Company began producing the Precision Bass in October 1951. The "P-bass" evolved from a simple, un-contoured "slab" body design and a single coil pickup similar to that of a Telecaster, to something more like a Fender Stratocaster, with a contoured body design, edges beveled for comfort, and a split single coil pickup.
-
-Fender_Bass_Guitar_Patent.jpg
 
 The "Fender Bass" was a revolutionary new instrument for gigging musicians. In comparison with the large, heavy upright bass, which had been the main bass instrument in popular music from the early 20th century to the 1940s, the bass guitar could be easily transported to shows. When amplified, the bass guitar was also less prone than acoustic basses to unwanted audio feedback.[10]
 
@@ -36,7 +34,7 @@ In 1953 Monk Montgomery became the first bassist to tour with the Fender bass gu
 
 In 1953, following Fender's lead, Gibson released the first short-scale violin-shaped electric bass, with an extendable end pin so a bassist could play it upright or horizontally. Gibson renamed the bass the EB-1 in 1958.[16] Also in 1958, Gibson released the maple arched-top EB-2 described in the Gibson catalogue as a "hollow-body electric bass that features a Bass/Baritone pushbutton for two different tonal characteristics".[17] In 1959 these were followed by the more conventional-looking EB-0 Bass. The EB-0 was very similar to a Gibson SG in appearance (although the earliest examples have a slab-sided body shape closer to that of the double-cutaway Les Paul Special).
 
-Gibson_eb3_67.jpg]]
+]]
 
 Whereas Fender basses had pickups mounted in positions in between the base of the neck and the top of the bridge, many of Gibson's early basses featured one humbucking pickup mounted directly against the neck pocket. The EB-3, introduced in 1961, also had a "mini-humbucker" at the bridge position. Gibson basses tended to be smaller, sleeker instruments with a shorter scale length than the Precision; Gibson did not produce a -scale bass until 1963 with the release of the Thunderbird, which was also the first Gibson bass to use two humbucking pickups in a more traditional position, about halfway between the neck and bridge.
 
@@ -48,7 +46,7 @@ With the explosion of the popularity of rock music in the 1960s, many more manuf
 
 Introduced in 1960, the Fender Jazz Bass, initially known as the "Deluxe Bass", was intended to accompany the Jazzmaster guitar. The "J-bass" featured two single-coil pickups, one close to the bridge and one in the Precision bass's split coil pickup position. The earliest production Jazz basses had a "stacked" volume and tone control for each pickup; this was soon changed to the familiar configuration of a volume control for each pickup, and a single passive tone control. The Jazz Bass's neck was narrower at the nut than the Precision bass — versus — allowing for easier access to the lower strings and an overall spacing and feel closer to that of an electric guitar, allowing trained guitarists to transition to the bass guitar more easily. Another visual difference that set the Jazz Bass apart from the Precision is its "offset-waist" body.
 
-70's_Fender_Jazz_Bass.jpg with maple fretboard]]
+with maple fretboard]]
 
 Pickup shapes on electric basses are often referred to as "P" or "J" pickups in reference to the visual and electrical differences between the Precision Bass and Jazz Bass pickups. In the 1950s and 1960s, all bass guitars were often called the "Fender bass", due to Fender's early dominance in the market.
 
@@ -60,7 +58,7 @@ Gibson introduced its short-scale EB-3 in 1961, also used by Jack Bruce.[22]
 
 1970s
 
-Rickenbacker_Bass_4001JG.jpg bass]]
+bass]]
 
 In 1971, Alembic established what became known as "boutique" or "high-end" electric bass guitars. These expensive, custom-tailored instruments, as used by Phil Lesh, Jack Casady, and Stanley Clarke, featured unique designs, premium hand-finished wood bodies, and innovative construction techniques such as multi-laminate neck-through-body construction and graphite necks. Alembic also pioneered the use of onboard electronics for pre-amplification and equalization. Active electronics increase the output of the instrument, and allow more options for controlling tonal flexibility, giving the player the ability to amplify as well as to attenuate certain frequency ranges while improving the overall frequency response (including more low-register and high-register sounds). 1973 saw the UK company Wal begin production of a their own range of active basses, and In 1974 Music Man Instruments, founded by Tom Walker, Forrest White and Leo Fender, introduced the StingRay, the first widely produced bass with active (powered) electronics built into the instrument. Basses with active electronics can include a preamplifier and knobs for boosting and cutting the low and high frequencies.
 
@@ -69,8 +67,6 @@ Specific bass brands/models became identified with particular styles of music, s
 In the mid-1970s, Alembic and other high-end manufacturers, such as Tobias, began offering five-string basses, with a very low "B" string. In 1975, bassist Anthony Jackson commissioned luthier Carl Thompson to build a six-string bass tuned (low to high) B0, E1, A1, D2, G2, C3, adding a low B string and a high C string. These five- and six-string "extended-range basses" would become popular with session bassists, reducing the need for re-tuning to alternate detuned configurations like "drop D", and also allowing the bassist to play more notes from the same fretting position with fewer shifts up and down the fingerboard, a crucial benefit for a session player sightreading basslines at a recording session.
 
 1980s–present
-
-Steinberger_bass.jpg
 
 In the 1980s, bass designers continued to explore new approaches. Ned Steinberger introduced a headless bass in 1979 and continued his innovations in the 1980s, using graphite and other new materials and (in 1984) introducing the TransTrem tremolo bar. In 1982, Hans-Peter Wilfer founded Warwick, to make a European bass, as the market at the time was dominated by Asian and American basses. Their first bass was the Streamer Bass, which is similar to the Spector NS. In 1987, the Guild Guitar Corporation launched the fretless Ashbory bass, which used silicone rubber strings and a piezoelectric pickup to achieve an "upright bass" sound with a short scale length. In the late 1980s, MTV's "Unplugged" show, which featured bands performing with acoustic instruments, helped to popularize hollow-bodied acoustic bass guitars amplified with piezoelectric pickups built into the bridge of the instrument.
 
@@ -95,8 +91,6 @@ The "long scale necks" on the first Fender basses— — set the standard for el
 
 Fretted and fretless basses
 
-Flatwound_01.JPG
-
 Another design consideration for the bass is whether to use frets on the fingerboard. On a fretted bass, the metal frets divide the fingerboard into semitone divisions (as on an electric guitar or acoustic guitar). Fretless basses have a distinct sound, because the absence of frets means that the string must be pressed down directly onto the wood of the fingerboard with the fingers, as with the double bass. The string buzzes against the wood and is somewhat muted because the sounding portion of the string is in direct contact with the flesh of the player's finger. The fretless bass lets players use expressive approaches such as glissando (sliding up or down in pitch, with all of the pitches in between sounding), and vibrato (in which the player rocks a finger that is stopping a string to oscillate the pitch slightly). Fretless players can also play microtones, or temperaments other than equal temperament, such as just intonation.
 
 While fretless basses are often associated with jazz and jazz fusion, bassists from other genres have used fretless basses, such as Freebo (country), Rick Danko (rock/blues), Rod Clements (folk), Steve DiGiorgio, Jeroen Paul Thesseling (metal), Tony Franklin (rock), Colin Edwin (progressive rock), and Mick Karn (new wave). Some bassists alternate between fretted and fretless basses in performances, according to the type of material or tunes they are performing, e.g., Pino Palladino or Tony Levin.
@@ -109,7 +103,7 @@ Tapewound (double bass type) and flatwound strings are sometimes used with the f
 
 Strings and tuning
 
-Bass_guitar_headstock.jpgs) are mounted on the back of the headstock on the bass guitar neck]]
+s) are mounted on the back of the headstock on the bass guitar neck]]
 
 The standard design for the electric bass guitar has four strings, tuned E, A, D and G,[30] in fourths such that the open highest string, G, is an eleventh (an octave and a fourth) below middle C, making the tuning of all four strings the same as that of the double bass (E₁–A₁–D₂–G₂). This tuning is also the same as the standard tuning on the lower-pitched four strings on a six-string guitar, only an octave lower.
 
@@ -121,18 +115,16 @@ A variety of tuning options and number of string courses (courses are when strin
 
 -   FOUR STRINGS can obtain an extended lower range through thicker strings or "down-tuning." Tunings such as _B–E–A–D_ (this requires a low "B" string in addition to the other three "standard" strings, and omits the G string), _D–A–D–G_ (a "standard" set of strings, with only the lowest string detuned from E down to D), and _D–G–C–F_ or _C–G–C–F_ (a "standard" set of strings, all of which are detuned either a whole tone, or a whole tone for the three higher-pitched strings and two tones for the E, which is dropped to a low C) give bassists an extended lower range. A tenor bass tuning of _A–D–G–C_, in which the low E is omitted and a high C is added, provides a higher range. Tuning in fifths e.g., C–G–D–A (like a violoncello but an octave lower) gives an extended upper and lower range.
 
-Bassguitarnotes.svg), shown up to the 12th fret, where the pattern repeats. The dots below the frets are often inlaid into the wood of bass necks, as a visual aid to help the player find different positions.]]
+), shown up to the 12th fret, where the pattern repeats. The dots below the frets are often inlaid into the wood of bass necks, as a visual aid to help the player find different positions.]]
 
-Five_String_Bass_Guitar_Fretboard.svg), shown up to the 12th fret, where the pattern repeats. The dots below the frets are often inlaid into the wood of bass necks, as a visual aid to help the player find different positions.]]
+), shown up to the 12th fret, where the pattern repeats. The dots below the frets are often inlaid into the wood of bass necks, as a visual aid to help the player find different positions.]]
 
 -   FIVE STRINGS usually tuned B₀–E₁–A₁–D₂–G₂, providing extended lower range. The earliest commercial five-string bass was created by Fender in 1965. The Fender Bass V used the E–A–D–G–C tuning, but was unpopular and discontinued in 1970. This _tenor tuning_ is still used by some jazz and soloing bassists. The low-B five-string was created by Jimmy Johnson in 1975, modifying an E–A–D–G–C five-string Alembic bass, with a different nut and a low-B string from GHS. Steinberger made a 5-string headless instrument called the L-2/5 in 1982, and later Yamaha offered its first production model as the BB5000 in 1984.
 
-washburn_xb600.jpg XB600, a six string bass]]
+XB600, a six string bass]]
 
 -   SIX STRINGS are usually tuned B₀–E₁–A₁–D₂–G₂–C₃—like a four-string bass with an additional low B string and a high C string. Some players prefer B₀–E₁–A₁–D₂–F₂–B₂, which preserves the intervals of standard six-string guitar tuning (an octave and a fourth lower) and makes the highest and lowest string the same note two octaves apart. While less common than four or five-string basses, they appear in Latin, jazz, and other genres, as well as in studio work where a session musician's single instrument must be highly versatile, and to facilitate sightreading in the recording studio. In 1974, Anthony Jackson worked with Carl Thompson to create the Contrabass guitar (BEADGC). Later, Jackson brought his ideas to Fodera and worked with Ken Smith to create a wider-spaced Contrabass guitar, which evolved to the modern six-string bass.
 -   EIGHT and TWELVE-STRING models are both built on the same "course string" concept found on twelve-string guitars, where sets of strings are spaced together in groups of two or three that are primarily played simultaneously. These instruments typically have one of the strings in each course tuned an octave above the 'standard' string, although a fifth above is also used. Instruments with ten and fifteen strings, grouped in five courses, also exist, as do "extended-range basses" or ERBs with non-coursed string counts rivaling those of coursed-string basses.
-
-D-Tuner.jpg
 
 -   DETUNERS are mechanical devices the player operates with the thumb on the fretting hand to quickly retune one or more strings to a pre-set lower pitch. The Hipshot typically drops the E-string down to D on a four-string bass. The Hipshot similarly drops the B-string down to a B on five- or six-string basses. Rarely, some bassists (e.g., Michael Manring) add detuners to more than one string, or even more than one detuner to each string, so they can retune during a performance and access a wider range of chime-like harmonics.
 
@@ -148,7 +140,7 @@ Alternative neck designs
 
 A multi-scale fingerboard for guitars and bass guitars has the lower-pitched strings longer than the higher-pitched strings, with the frets set radially rather than parallel. Some players find that these "fanned" frets are more ergonomic, easier and more comfortable to play, lining up more naturally with the fretting hand as the player's shoulder rotates.[33] Other bassists believe that it evens out the tension across all of the strings, it evens the timbre across the strings, and extending the lower strings allows the string to produce harmonics that are closer to the fundamental.[34]
 
-Dingwall_Prima_Artist_-_Fannet_Frets_Bass_Guitar.jpg TORZAL NATURAL TWIST is a bass guitar body and neck style invented by luthier Jerome Little from Amherst, Massachusetts. It consists of a neck rotated by a total of 35 degrees, with (+)15 degrees at the bridge and (-)20 at the nut. The designer claims that the ergonomic design increases efficiency of the hands, wrists and arms, which reduces the risk of developing repetitive strain injuries like carpal tunnel syndrome or tendonitis. This design is also beneficial to players who have already suffered from such injuries. This patented design differs from traditional bass guitar design by twisting the neck, and bringing the strings toward a more natural hand position at either end of the instrument. The rotation at either side of the instrument in the direction of the hand creates a neck plane that models the natural motion of the hand as it reaches outward. The fretboard also forms a straight line at the location of each string, which should improve the ease of performance.[35]
+TORZAL NATURAL TWIST is a bass guitar body and neck style invented by luthier Jerome Little from Amherst, Massachusetts. It consists of a neck rotated by a total of 35 degrees, with (+)15 degrees at the bridge and (-)20 at the nut. The designer claims that the ergonomic design increases efficiency of the hands, wrists and arms, which reduces the risk of developing repetitive strain injuries like carpal tunnel syndrome or tendonitis. This design is also beneficial to players who have already suffered from such injuries. This patented design differs from traditional bass guitar design by twisting the neck, and bringing the strings toward a more natural hand position at either end of the instrument. The rotation at either side of the instrument in the direction of the hand creates a neck plane that models the natural motion of the hand as it reaches outward. The fretboard also forms a straight line at the location of each string, which should improve the ease of performance.[35]
 
 
 Pickups and amplification
@@ -157,17 +149,11 @@ Magnetic pickups
 
 A lot of electric bass guitars use magnetic pickups. The vibrations of the instrument's ferrous metal strings within the magnetic field of the permanent magnets in magnetic pickups produce small variations in the magnetic flux threading the coils of the pickups. This in turn produces small electrical voltages in the coils. Many bass players connect the signal from the bass guitar's pickups to a bass amplifier and loudspeaker using a 1/4" patch cord. These low-level signals are then strengthened by the bass amp's preamplifier electronic circuits, and then amplified with the bass amp's power amplifier and played through one or more speaker(s) in a cabinet.
 
-Precision_Bass_pickup.jpg
-
 Most basses have a volume potentiometer ("pot" or "knob"), and a tone potentiometer that reduces (attenuates) the higher frequencies as it is turned. Basses with more than one pickup may have a selector switch or a "blend" potentiometer. Since the 1980s, basses are often available with battery-powered "active" electronics that boost the signal with a preamplifier and provide equalization controls to boost or cut bass and treble frequencies, or both. Some expensive basses have even more equalization options, such as bass, middle and treble.
 
 -   "PRECISION" PICKUPS (as introduced with the Fender Precision Bass) or "P-style" are two single-coil pickups, each offset a small amount along the length of the body so that each half is underneath two strings. The pair is considered a single pickup, as they are wired together in a humbucking configuration, greatly reducing noise from nearby electronic equipment and mains power. (Less common is the "single-coil P" pickup, as used on the original 1951 Precision bass. This is also known as the 'Vintage P' due to it being found on old vintage basses made before the invention of the split coil pickup. The "single-coil P" pickup is also used in the reissue and the Sting signature model.) P-style pickups are generally placed in the "neck" or "middle" position, but they are occasionally placed in the bridge position, or between two Jazz-style pickups.
 
-Jazz_Style_PickUps.JPG
-
 -   "JAZZ" PICKUPS (as introduced with the Fender Jazz Bass) or "J-style", are wide eight-pole pickups that lie underneath all four strings. J pickups are typically single-coil designs, though there are a large number of humbucking designs. Traditionally, two of them are used, one near the bridge and another closer to the neck. As with the halves of P-pickups, the J-type pickups are wired in a humbucking manner so that, when used together, mains noise is greatly eliminated. J-type pickups tend to have a lower output and a thinner sound than P-type pickups. Many bassists combine a 'J' pickup at the bridge and a 'P' pickup at the neck and blend the two sounds.
-
-Yamaha_BB404F_Fretless_bass.jpg
 
 -   DUAL COIL "HUMBUCKER" pickups each have two signal-producing coils. Humbuckers also produce a higher output level than single-coil pickups, though many dual-coil pickups are marketed as retrofits for single-coil designs like the J pickup and advertise a similar output and tonal character to the stock single-coils. Dual coil pickups come in two main varieties; ceramic or ceramic and steel. Ceramic-only magnets have a relatively "harsher" sound than their ceramic and steel counterparts, and are thus used more commonly in heavier rock styles (heavy metal music, hardcore punk, etc.).
     -   A variant bass humbucker is used on Music Man basses; it has two coils, each with four large polepieces. This style is known as the "MM" PICKUP.. The most common configurations are a single pickup at the bridge, two pickups similar in placement to a Jazz Bass, or an MM pickup at the bridge with a single-coil pickup (often a "J") at the neck. These pickups can often be "tapped", meaning one of the two coils can be essentially turned off, giving a sound similar to a single-coil pickup.
@@ -184,8 +170,6 @@ The use of non-magnetic pickups allows bassists to use non-ferrous strings such 
 
 Amplification and effects
 
-Elbas.jpg
-
 Like the electric guitar, the electric bass guitar is almost always connected to an amplifier and a speaker with a patch cord for live performances. Electric bassists use either a "combo" amplifier, which combines an amplifier and a speaker in a single cabinet, or an amplifier and one or more speaker cabinets (typically stacked, with the amplifier sitting on the speaker cabinets, leading to the term "half-stack" for one cabinet setups and "full stack" for two).
 
 In most genres, a "clean" bass tone (without any amplifier-induced "overdrive" or "distortion") is desirable, and so while guitarists often prefer the more desirable distorted tones of tube-transistor amplifiers, bassists commonly use solid-state amplifier circuitry to achieve the necessary high output wattages with less weight than tubes (though smaller tubes can often still be found in the low-power "preamplifier" sections of the system, where they provide a warmer, smoother character to the bass tone for relatively little additional weight). A few all-tube bass amplifiers are still available, notably from the Ampeg brand.
@@ -197,7 +181,7 @@ Various electronic bass effects such as preamplifiers, "stomp box"-style pedals 
 
 Performance techniques
 
-James_Jamerson.jpeg, influential Motown era bassist]]
+, influential Motown era bassist]]
 
 In contrast to the upright bass ("double bass"), the electric bass guitar is played horizontally across the body, like a guitar. When the strings are plucked with the fingers (pizzicato), the index and middle fingers (and sometimes the thumb, ring, and little fingers as well) are used. James Jamerson, an influential bassist from the Motown era, played intricate bass lines using only his index finger, which he called "The Hook". There are also variations in how a bassist chooses to rest the right-hand thumb (or left thumb in the case of left-handed players). A player may rest his or her thumb on the top edge of one of the pickups or on the side of the fretboard, which is especially common among bassists who have an upright bass influence. Some bassists anchor their thumbs on the lowest string and move it off the lowest string when they need to play on the low string. Alternatively, the thumb can be rested loosely on the strings to mute the unused strings.
 
@@ -206,8 +190,6 @@ The string can be plucked (or picked) at any point between the bridge and the po
 Bassists trying to emulate the sound of a double bass sometimes pluck the strings with their thumb and use palm-muting to create a short, "thumpy" tone. Monk Montgomery (who played in Lionel Hampton's big band) and Bruce Palmer (who performed with Buffalo Springfield) use thumb downstrokes. The use of the thumb was acknowledged by early Fender models, which came with a "thumbrest" or "Tug Bar" attached to the pickguard below the strings. Contrary to its name, this was not used to rest the thumb, but to provide leverage while using the thumb to pluck the strings. The thumbrest was moved above the strings in 1970s models (as a true thumbrest) and eliminated in the 1980s. Nevertheless, some reissued versions of vintage Fender basses in the 2010s do include a thumbrest.
 
 Slap and pop
-
-Typical_form_of_a_slapping_hand_in_a_bass.jpg
 
 The slap and pop method, or "thumbstyle", most associated with funk, uses tones and percussive sounds achieved by striking, thumping, or "slapping" a string with the thumb and snapping (or "popping") a string or strings with the index or middle fingers. Bassists often interpolate left hand-muted "ghost notes" between the slaps and pops to achieve a rapid percussive effect, and after a note is slapped or popped, the fretting hand may cause other notes to sound by using "hammer-ons", "pull-offs", or a left-hand glissando (slide). Larry Graham of Sly and the Family Stone and Graham Central Station was an early innovator of the slap style, and Louis Johnson of The Brothers Johnson is also credited as an early slap bass player.
 
@@ -218,8 +200,6 @@ Picking techniques
 A pick (or plectrum) produces a more pronounced attack, for speed, or personal preference. Bass with a pick is primarily associated with rock and punk rock, but players in other styles also use them. Picks can be used with alternating downstrokes and upstrokes, or with all downstrokes for a more consistent attack. The pick is usually held with the index and thumb, with the up-and-down plucking motion supplied by the wrist.
 
 There are many varieties of picks available, but due to the thicker, heavier strings of the electric bass, bassists tend to use heavier picks than those used for electric guitar, typically ranging from 1.14 mm–3.00 mm (3.00 is unusual). Different materials are used for picks, including plastic, nylon, rubber, and felt, all of which produce different tones. Felt and rubber picks sound closer to a fingerstyle tone.
-
-Paul_McCartney_live_in_Dublin.jpg
 
 Palm-muting techniques
 
@@ -236,8 +216,6 @@ A player can use the fretting hand to change a sounded note, either by fully mut
 The fretting hand can add vibrato to a plucked or picked note, either a gentle, narrow vibrato or a more exaggerated, wide vibrato with bigger pitch variations. For fretted basses, vibrato is always an alternation between the pitch of the note and a slightly higher pitch. For fretless basses, the player can use this style of vibrato, or they can alternate between the note and a slightly lower pitch, as is done with the double bass and on other unfretted stringed instruments. While vibrato is mostly done on "stopped" notes—that is, notes that are pressed down on the fingerboard—open strings can also be vibratoed by pressing down on the string behind the nut. As well, the fretting hand can be used to "bend" a plucked or picked note up in pitch, by pushing or pulling the string so that the note sounds at a higher pitch. To create the opposite effect, a "bend down", the string is pushed to a higher pitch before being plucked or picked and then allowed to fall to the lower, regular pitch after it is sounded. Though rare, some bassists may use a tremolo bar-equipped bass to produce the same effect.
 
 In addition to pressing down one note at a time, bassists can also press down several notes at one time with their fretting hand to perform a double stop (two notes at once) or a chord. While double stops and chords are used less often by bassists than by electric guitarists playing rhythm guitar, a variety of double stops and chords can be performed on the electric bass. Some double stops used by bassists include octaves. Chords can be especially with effective on instruments with higher ranges such as six-string basses. Another variation to fully pressing down a string is to gently graze the string with the finger at the harmonic node points on the string, which creates chime-like upper partials (also called "overtones"). Glissando is an effect in which the fretting hand slides up or down the neck, which can be used to create a slide in pitch up or down. A subtle glissando can be performed by moving the fretting hand without plucking or picking the string; for a more pronounced effect, the string is plucked or picked first, or, in a metal or hardcore punk context, a pick may be scraped along the sides of the lower strings.
-
-Bass_Guitar_Tapping.JPG
 
 The fretting hand can also be used to sound notes, either by plucking an open string with the fretting hand, or, in the case of a string that has already been plucked or picked, by "hammering on" a higher pitch or "pulling off" a finger to pluck a lower fretted or open stringed note. Jazz bassists use a subtle form of fretting hand pizzicato by plucking a very brief open string grace note with the fretting hand right before playing the string with the plucking hand. When a string is rapidly hammered on, the note can be prolonged into a trill.
 
@@ -266,13 +244,9 @@ Popular music bands and rock groups use the bass guitar as a member of the rhyth
 
 Bassists often play a bass line composed by an arranger, songwriter or composer of a song—or, in the case of a cover song, the bass line from the original. In other bands—e.g., jazz-rock bands that play from lead sheets and country bands using the Nashville Number System—bassists are expected to improvise or prepare their own part to fit the song's chord progression and rhythmic style.
 
-Pop_bassline.ogg
-
 Types of bass lines vary widely, depending on musical style. The bass guitarist generally anchors the harmonic framework (often by emphasizing the roots of the chord progression) and laying down the beat in collaboration with the drummer and other rhythm section instruments. The importance of the bass guitarist and the bass line varies in different styles of music. In some pop styles, such as 1980s-era pop and musical theater, the bass sometimes plays a relatively simple part as the music emphasizes vocals and melody instruments. In contrast, in reggae, funk, or hip-hop, entire songs may center on the bass groove, and the bass line is usually prominent in the mix.
 
 In traditional music such as country music, folk rock, and related styles, the bass often plays the roots and fifth (typically the fifth below the root) of each chord in alternation. In these styles, bassists often use scalar "walkups" or "walkdowns" when there is a chord change. In Chicago blues, the electric bass often performs a walking bassline made up of scales and arpeggios. In blues rock bands, the bassist often plays blues scale-based riffs and chugging boogie-style lines. In heavy metal, the bass guitar may perform complex riffs along with the rhythm guitarist or play a low, rumbling pedal point to anchor the group's sound.
-
-Blues_bassline_played_with_a_pick.ogg
 
 Chords are not used that often by electric bass players. However, in some styles, bassists may sound "double stops", such as octaves with open strings and powerchords. In Latin music, double stops with fifths are used.[43] Robert Trujillo of Metallica is known for playing "massive chords" [44] and "chord-based harmonics" [45] on the bass. Lemmy of Motörhead often played power chords in his bass lines.
 
@@ -292,8 +266,6 @@ Jazz and jazz fusion
 
 The electric bass is a relative newcomer to the world of jazz. The big bands of the 1930s and 1940s Swing era and the small combos of the 1950s Bebop and Hard Bop movements all used the double bass. The electric bass was introduced in some bands in the 1950s and it became prominent during the late 1960s and early 1970s, when rock influences were blended with jazz to create jazz-rock fusion.
 
-Walkingbass.png
-
 The introduction of the electric bass in jazz fusion, as in the rock world, helped bassists play in high-volume stadium concerts with powerful amplifiers, because it is easier to amplify the electric bass than the double bass (the latter is prone to feedback in high-volume settings). The electric bass has both an accompaniment and a soloing role in jazz. In accompaniment, the bassist may perform walking basslines for traditional tunes and jazz standards, playing smooth quarter note lines that imitate the double bass. It is called a _walking bass line_ because of the way it rises and falls using scale notes and passing notes.
 
 For Latin or salsa tunes and rock-infused jazz fusion tunes, the electric bass may play rapid, syncopated rhythmic figures in coordination with the drummer, or lay down a low, heavy groove.
@@ -308,7 +280,7 @@ The electric bass guitar has occasionally been used in contemporary classical mu
 
 However, contemporary classical composers may also write for the bass guitar to get its unique sound, and in particular its precise and piercing attack and timbre. For example, Steve Reich, explaining his decision to score 2x5 for two bass guitars, stated that, "[With electric bass guitars] you can have interlocking bass lines, which on an acoustic bass, played pizzicato, would be mud."[46]
 
-Alfred_Schnittke_April_6_1989_Moscow.jpg]]
+]]
 
 
 Pedagogy and training

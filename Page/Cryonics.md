@@ -1,5 +1,3 @@
-Cryo_surgery.jpg
-
 CRYONICS (from Greek κρύος _kryos_ meaning 'cold') is the low-temperature freezing (usually at ) and storage of a human corpse or severed head, with the speculative hope that resurrection may be possible in the future.[1][2] Cryonics is a pseudoscience.[3] It is regarded with skepticism within the mainstream scientific community and has been widely characterized as quackery.[4]
 
 -   -   -   -   -   ;

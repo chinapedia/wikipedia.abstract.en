@@ -33,7 +33,7 @@ The involvement of businessman Dirk Scheringa in the mid-1990s marked the reviva
 
 Despite playing strongly for the majority of the 2006–07 season, AZ's season ended in disappointment. First, entering the last matchday of the 2006–07 Eredivisie season, AZ led PSV and Ajax on goal difference at the top of the league table, but ended up third after losing their last match against the eventually-relegated, bottom-of-the-table Excelsior, who played with ten men for 80 minutes. Additionally, AZ then lost the KNVB Cup final to Ajax 8–7 after a penalty shoot-out, while also falling to Ajax over two play-off matches for participation in the Champions League. After the season, key players like Tim de Cler, Danny Koevermans and Shota Arveladze left the team.
 
-AZ_Larisa_UEFA_Cup0708.jpg in a 2007–08 UEFA Cup match.]] A remarkable run ended in the 2007–08 season: after AZ lost a group stage match against Everton (3–2) in the UEFA Cup, the club's unbeaten run of 32 home matches in European competitions – lasting from 1977 to 2007 – ended. AZ had a poor season, suffering elimination in the first round of the KNVB Cup and the group stage of the UEFA Cup, as well as finishing the 2007–08 Eredivisie in a disappointing 11th place. Towards the latter stages of the season, in March 2008, AZ manager Louis van Gaal had initially tendered his resignation, but after protests the players and directors, he rescinded his resignation.
+in a 2007–08 UEFA Cup match.]] A remarkable run ended in the 2007–08 season: after AZ lost a group stage match against Everton (3–2) in the UEFA Cup, the club's unbeaten run of 32 home matches in European competitions – lasting from 1977 to 2007 – ended. AZ had a poor season, suffering elimination in the first round of the KNVB Cup and the group stage of the UEFA Cup, as well as finishing the 2007–08 Eredivisie in a disappointing 11th place. Towards the latter stages of the season, in March 2008, AZ manager Louis van Gaal had initially tendered his resignation, but after protests the players and directors, he rescinded his resignation.
 
 The 2008–09 season had an unpromising start after two opening defeats against NAC Breda and ADO Den Haag. However, starting with a 1–0 victory over defending league champions PSV, AZ did not lose a match in its next 28 matches, including a run of 11-straight matches where AZ did not concede an opposition goal. Three weeks before the end of the season, AZ became Eredivisie champions, edging nearest title rivals Twente and Ajax comfortably. This was a historic achievement for the club as this was the first title-winning season for 28 years, and it also meant a return to the UEFA Champions League.
 
@@ -75,8 +75,6 @@ Stadium and sponsor
 
 Stadium
 
-DSB-Stadion.jpg
-
 AZ play its home matches at the AFAS Stadion, located in the southern part of the city of Alkmaar. The stadium, which is directly owned by the club, was opened in 2006 and replaced the old Alkmaarderhout venue as the DSB Stadion. The stadium currently has a capacity of 17,023. During its design stages, the name Victorie Stadion was frequently used, referring to the Dutch War of Independence, the phrase _"In Alkmaar begint de victorie" (Victory begins in Alkmaar)_ in particular. Until now, this name has not been officially in use, the board instead opting for sponsorship deals because of financial motives. However, to this day, the name maintains a good share of support among the fans.
 
 In order to further increase revenue, AZ's board of directors decided to expand the capacity of the new stadium to at least 30,000 somewhere in the future. The extension will be realised by constructing a second tier to three of the four stands. The main stand with all technical areas, VIP and sponsor and media facilities will remain in place. These plans, however, were put on hold after the DSB bankruptcy and there are no current plans to increase the capacity.
@@ -113,8 +111,6 @@ Shirt sponsoring
 Honours
 
 Domestic
-
-AZ_Eredivisie_Results_1976-2009.jpg
 
 *; Eredivisie
 

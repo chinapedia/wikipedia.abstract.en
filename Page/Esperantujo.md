@@ -27,7 +27,7 @@ In April 2007 there was an Esperanto Republic founded as a joke.
 
 Geography
 
-PS_mapo_2015.png Esperantujo means any physical place as Esperanto meetings or virtual networks where they meet Esperanto speakers. Sometimes it is said that it is everywhere, where Esperanto speakers are yet connected.
+Esperantujo means any physical place as Esperanto meetings or virtual networks where they meet Esperanto speakers. Sometimes it is said that it is everywhere, where Esperanto speakers are yet connected.
 
 There is a German city, Herzberg am Harz, which since 12 July 2006 is called "the Esperanto city".[3] There are bilingual signs and pointers, in both German and Esperanto.
 
@@ -40,7 +40,7 @@ Politics
 
 Associations
 
-2015-08-01_Estraro-uea_100a-uk.jpg during 100th World Esperanto Congress in Lille, France in 2015.]] There is no governmental system in Esperantujo because it is not a true state. However, there is a social hierarchy of associations:
+during 100th World Esperanto Congress in Lille, France in 2015.]] There is no governmental system in Esperantujo because it is not a true state. However, there is a social hierarchy of associations:
 
 -   Universal Esperanto Association (UEA) is the principal association created in 1908, its central office is located in Rotterdam. The aim of the UEA is to promote the use of Esperanto, to strive for the solution of the language problem in international relations, to encourage all types of spiritual and material relations among people and _to nurture among its members a strong sense of solidarity, and to develop in them understanding and respect for other peoples_.
 -   Sometimes exist associations by continent, for example the European Esperanto Union. On the same level exist UEA commissions dedicated to promote spreading of Esperanto in Africa, America (North & South), Asia, Middle-East & North Africa, and Oceania.
@@ -61,7 +61,7 @@ In 2003 there was a European political movement called Europe–Democracy–Espe
 
 Symbols
 
-Flag_of_Esperanto.svg.]] The Esperanto-flag is called _Verda Flago_ (Green Flag). It consists of:
+.]] The Esperanto-flag is called _Verda Flago_ (Green Flag). It consists of:
 
 -   a rectangular shape, officially with a 2:3 ratio.
 -   a green field, where the green color symbolizes hope. There is no indication that any "official" color was ever chosen. The color green used varies in different sources, yet the color is most often used.
@@ -79,7 +79,7 @@ Population
 
 Education
 
-KER-Ekzameno_Atestilo_C1.JPG In addition to textbooks, including the _Fundamento de Esperanto_ by Zamenhof, the Assimil-methods and the video-methods such as Muzzy in Gondoland of the BBC and _Pasporto al la tuta mondo_, there are many courses for learning online. The local clubs and intensive internships are also very frequent and wealthy executives in the regions where they are active Esperanto association. Moreover, some universities teach Esperanto, and the Higher Foreign Language training (University Eötvös Loránd) delivers certificates in accordance with the Common European Framework of Reference for Languages (CEFR).[8] More than 1600 people have such a certificate around the world: in 2014 around 470 at the level of B1, 510 at the level of B2 and 700 for C1.[9] The International League of Esperanto Teachers (ILEI) is also working to publish learning materials for teachers.
+In addition to textbooks, including the _Fundamento de Esperanto_ by Zamenhof, the Assimil-methods and the video-methods such as Muzzy in Gondoland of the BBC and _Pasporto al la tuta mondo_, there are many courses for learning online. The local clubs and intensive internships are also very frequent and wealthy executives in the regions where they are active Esperanto association. Moreover, some universities teach Esperanto, and the Higher Foreign Language training (University Eötvös Loránd) delivers certificates in accordance with the Common European Framework of Reference for Languages (CEFR).[8] More than 1600 people have such a certificate around the world: in 2014 around 470 at the level of B1, 510 at the level of B2 and 700 for C1.[9] The International League of Esperanto Teachers (ILEI) is also working to publish learning materials for teachers.
 
 The University of Esperanto offers video lectures in Esperanto, for specialties like Confronting War, Informational Technologies and Astronomy. Courses are also held during the World Esperanto Congress in the framework of the Internacia Kongresa Universitato (IKU). After that, UEA uploads the related documents on its website.[10]
 
@@ -129,13 +129,13 @@ Culture
 
 Architectural heritage
 
-Aŭstrio-Vieno-Zamenhof-monumento-2.jpg in the Esperantopark in Vienna]] There exist Zamenhof-Esperanto objects (ZEOs), scattered in numerous countries around the world, which are the things named in honor of L. L. Zamenhof or Esperanto: monuments, street names, places and so on. There also exists a UEA-committee for ZEOs.[30]
+in the Esperantopark in Vienna]] There exist Zamenhof-Esperanto objects (ZEOs), scattered in numerous countries around the world, which are the things named in honor of L. L. Zamenhof or Esperanto: monuments, street names, places and so on. There also exists a UEA-committee for ZEOs.[30]
 
 In addition, in several countries there are also sites dedicated to Esperanto: meetup places, workshops, seminars, festivals, Esperanto houses. These places provide attractions for Esperantists. Here are two: the Castle of Grésilion in France and the Department of Planned Languages and Esperanto Museum in Vienna (Austria).
 
 Cultural heritage
 
-2008-07-19_kd-oj_en_uk-ls.JPG Esperanto literary heritage is the richest and the most diverse of any constructed language. There are over 25,000 Esperanto books (originals and translations) as well as over a hundred regularly distributed Esperanto magazines.
+Esperanto literary heritage is the richest and the most diverse of any constructed language. There are over 25,000 Esperanto books (originals and translations) as well as over a hundred regularly distributed Esperanto magazines.
 
 There are also a number of movies which have been published in Esperanto. Moreover, Esperanto itself was used in numerous movies.
 
@@ -155,7 +155,7 @@ Many public holidays recognized by Esperanto speakers are celebrated internation
 
 Cultural events
 
-Renkontighoj_en_Germanio_partoprenantoj.png Every year numerous meetings of Esperanto speakers in different topics around the world take place. They mobilize Esperanto-speakers which share the same will about a specific topic. The main example is the Universal Congress of Esperanto (UK), which annually organizes the UEA every summer for a week. Other events:
+Every year numerous meetings of Esperanto speakers in different topics around the world take place. They mobilize Esperanto-speakers which share the same will about a specific topic. The main example is the Universal Congress of Esperanto (UK), which annually organizes the UEA every summer for a week. Other events:
 
 -   SAT-Kongreso, annually organised by Sennacieca Asocio Tutmonda;
 -   International Youth Congress of Esperanto (IJK), official annual congress of TEJO;

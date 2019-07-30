@@ -12,7 +12,7 @@ Medicinal usage
 
 Historical
 
-De_medicina_V00117_00000006.tif edition of 1528]] Horehound has been mentioned in conjunction with medicinal use dating at least back to the 1st century BC, where it appeared as a remedy for respiratory ailments in the treatise _De Medicina_ by Roman encyclopaedist Aulus Cornelius Celsus.[1] The Roman agricultural writer Columella lists it as a remedy for expelling worms in farm animals in his important first-century work _On Agriculture_.[2] Since then, horehound has appeared for similar purposes in numerous herbals over the centuries, such as _The Herball, or, Generall historie of plantes_ by John Gerard, and _Every Man His Own Doctor: or, The Poor Planter’s Physician_ by Dr. John Tennent.[3]
+edition of 1528]] Horehound has been mentioned in conjunction with medicinal use dating at least back to the 1st century BC, where it appeared as a remedy for respiratory ailments in the treatise _De Medicina_ by Roman encyclopaedist Aulus Cornelius Celsus.[1] The Roman agricultural writer Columella lists it as a remedy for expelling worms in farm animals in his important first-century work _On Agriculture_.[2] Since then, horehound has appeared for similar purposes in numerous herbals over the centuries, such as _The Herball, or, Generall historie of plantes_ by John Gerard, and _Every Man His Own Doctor: or, The Poor Planter’s Physician_ by Dr. John Tennent.[3]
 
 Modern
 
@@ -21,7 +21,7 @@ _M.vulgare_ has been promoted widely on the internet for its supposed therapeuti
 
 Horehound candy
 
-Horehound_candy_drops.jpg Horehound drops are bittersweet hard candies made with sugar and an extract of _M.vulgare_. They are dark-colored, dissolve in the mouth, and have a flavor that has been compared to menthol and root beer. Like other products derived from _M.vulgare_, they are sometimes used as an unproven folk treatment for coughs and other ailments.[7][8]
+Horehound drops are bittersweet hard candies made with sugar and an extract of _M.vulgare_. They are dark-colored, dissolve in the mouth, and have a flavor that has been compared to menthol and root beer. Like other products derived from _M.vulgare_, they are sometimes used as an unproven folk treatment for coughs and other ailments.[7][8]
 
 
 Drinks

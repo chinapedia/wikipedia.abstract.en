@@ -40,7 +40,7 @@ Helping his father in Visible Speech demonstrations and lectures brought Bell to
 
 Canada
 
-The_Bell_Homestead_National_Historic_Site,_Brantford,_Ontario,_Canada,_incl._Visitor_Ctr,_Henderson_Home,_Carriage_House_and_Dreaming_Place_IMG_0039_09.JPG, the Bells' first home in North America, now a National Historic Site of Canada]]
+, the Bells' first home in North America, now a National Historic Site of Canada]]
 
 In 1870, 23-year-old Bell travelled with his parents and his brother's widow, Caroline Margaret Ottaway, to Paris, Ontario, to stay with the Reverend Thomas Henderson, a family friend. The Bell family soon purchased a farm of at Tutelo Heights (now called Tutela Heights), near Brantford, Ontario. The property consisted of an orchard, large farmhouse, stable, pigsty, hen-house, and a carriage house, which bordered the Grand River.
 
@@ -51,7 +51,7 @@ After setting up his workshop, Bell continued experiments based on Helmholtz's w
 
 Work with the deaf
 
-Bell_at_the_Pemberton_Avenue_School_for_the_Deaf,_Boston,_from_the_Library_of_Congress._00837v.jpg to teachers at the Boston School for Deaf Mutes, 1871. Throughout his life, he referred to himself as "a teacher of the deaf".]]
+to teachers at the Boston School for Deaf Mutes, 1871. Throughout his life, he referred to himself as "a teacher of the deaf".]]
 
 Bell's father was invited by Sarah Fuller, principal of the Boston School for Deaf Mutes (which continues today as the public Horace Mann School for the Deaf), in Boston, Massachusetts, United States, to introduce the Visible Speech System by providing training for Fuller's instructors, but he declined the post in favour of his son. Travelling to Boston in April 1871, Bell proved successful in training the school's instructors. He was subsequently asked to repeat the programme at the American Asylum for Deaf-mutes in Hartford, Connecticut, and the Clarke School for the Deaf in Northampton, Massachusetts.
 
@@ -83,8 +83,6 @@ The race to the patent office
 
 In 1875, Bell developed an acoustic telegraph and drew up a patent application for it. Since he had agreed to share U.S. profits with his investors Gardiner Hubbard and Thomas Sanders, Bell requested that an associate in Ontario, George Brown, attempt to patent it in Britain, instructing his lawyers to apply for a patent in the U.S. only after they received word from Britain (Britain would issue patents only for discoveries not previously patented elsewhere).
 
-TelephonePatentDrawingBell.jpg
-
 Meanwhile, Elisha Gray was also experimenting with acoustic telegraphy and thought of a way to transmit speech using a water transmitter. On February 14, 1876, Gray filed a caveat with the U.S. Patent Office for a telephone design that used a water transmitter. That same morning, Bell's lawyer filed Bell's application with the patent office. There is considerable debate about who arrived first and Gray later challenged the primacy of Bell's patent. Bell was in Boston on February 14 and did not arrive in Washington until February 26.
 
 Bell's patent 174,465, was issued to Bell on March 7, 1876, by the U.S. Patent Office. Bell's patent covered "the method of, and apparatus for, transmitting vocal or other sounds telegraphically ... by causing electrical undulations, similar in form to the vibrations of the air accompanying the said vocal or other sound" Bell returned to Boston the same day and the next day resumed work, drawing in his notebook a diagram similar to that in Gray's patent caveat.
@@ -99,7 +97,7 @@ The patent examiner, Zenas Fisk Wilber, later stated in an affidavit that he was
 
 Later developments
 
-Continuing his experiments in Brantford, Bell brought home a working model of his telephone. On August 3, 1876, from the telegraph office in Mount Pleasant five miles (eight km) away from Brantford, Bell sent a tentative telegram indicating that he was ready. With curious onlookers packed into the office as witnesses, faint voices were heard replying. The following night, he amazed guests as well as his family when a message was received at the Bell home from Brantford, four miles (six km) distant, along an improvised wire strung up along telegraph lines and fences, and laid through a tunnel. This time, guests at the household distinctly heard people in Brantford reading and singing. These experiments clearly proved that the telephone could work over long distances. Alexander_Graham_Telephone_in_Newyork.jpg Bell and his partners, Hubbard and Sanders, offered to sell the patent outright to Western Union for $100,000. The president of Western Union balked, countering that the telephone was nothing but a toy. Two years later, he told colleagues that if he could get the patent for $25 million he would consider it a bargain. By then, the Bell company no longer wanted to sell the patent.[35] Bell's investors would become millionaires while he fared well from residuals and at one point had assets of nearly one million dollars.[36]
+Continuing his experiments in Brantford, Bell brought home a working model of his telephone. On August 3, 1876, from the telegraph office in Mount Pleasant five miles (eight km) away from Brantford, Bell sent a tentative telegram indicating that he was ready. With curious onlookers packed into the office as witnesses, faint voices were heard replying. The following night, he amazed guests as well as his family when a message was received at the Bell home from Brantford, four miles (six km) distant, along an improvised wire strung up along telegraph lines and fences, and laid through a tunnel. This time, guests at the household distinctly heard people in Brantford reading and singing. These experiments clearly proved that the telephone could work over long distances. Bell and his partners, Hubbard and Sanders, offered to sell the patent outright to Western Union for $100,000. The president of Western Union balked, countering that the telephone was nothing but a toy. Two years later, he told colleagues that if he could get the patent for $25 million he would consider it a bargain. By then, the Bell company no longer wanted to sell the patent.[35] Bell's investors would become millionaires while he fared well from residuals and at one point had assets of nearly one million dollars.[36]
 
 Bell began a series of public demonstrations and lectures to introduce the new invention to the scientific community as well as the general public. A short time later, his demonstration of an early telephone prototype at the 1876 Centennial Exposition in Philadelphia brought the telephone to international attention.[37] Influential visitors to the exhibition included Emperor Pedro II of Brazil. Later, Bell had the opportunity to demonstrate the invention personally to Sir William Thomson (later, Lord Kelvin), a renowned Scottish scientist, as well as to Queen Victoria, who had requested a private audience at Osborne House, her Isle of Wight home. She called the demonstration "most extraordinary". The enthusiasm surrounding Bell's public displays laid the groundwork for universal acceptance of the revolutionary device.[38]
 
@@ -122,7 +120,7 @@ The value of the Bell patent was acknowledged throughout the world, and patent a
 
 Family life
 
-Alexander_Graham_Bell_and_family.jpg, and their daughters Elsie (left) and Marian ca. 1885]] Brodhead-Bell-Morton_Mansion.jpg
+, and their daughters Elsie (left) and Marian ca. 1885]]
 
 On July 11, 1877, a few days after the Bell Telephone Company was established, Bell married Mabel Hubbard (1857–1923) at the Hubbard estate in Cambridge, Massachusetts. His wedding present to his bride was to turn over 1,487 of his 1,497 shares in the newly formed Bell Telephone Company. Shortly thereafter, the newlyweds embarked on a year-long honeymoon in Europe. During that excursion, Bell took a handmade model of his telephone with him, making it a "working holiday". The courtship had begun years earlier; however, Bell waited until he was more financially secure before marrying. Although the telephone appeared to be an "instant" success, it was not initially a profitable venture and Bell's main sources of income were from lectures until after 1897. One unusual request exacted by his fiancée was that he use "Alec" rather than the family's earlier familiar name of "Aleck". From 1876, he would sign his name "Alec Bell".[53] They had four children:
 
@@ -141,8 +139,6 @@ Until the end of his life, Bell and his family would alternate between the two h
 
 Later inventions
 
-AG_Bell_1.jpg
-
 Although Alexander Graham Bell is most often associated with the invention of the telephone, his interests were extremely varied. According to one of his biographers, Charlotte Gray, Bell's work ranged "unfettered across the scientific landscape" and he often went to bed voraciously reading the _Encyclopædia Britannica_, scouring it for new areas of interest. The range of Bell's inventive genius is represented only in part by the 18 patents granted in his name alone and the 12 he shared with his collaborators. These included 14 for the telephone and telegraph, four for the photophone, one for the phonograph, five for aerial vehicles, four for "hydroairplanes", and two for selenium cells. Bell's inventions spanned a wide range of interests and included a metal jacket to assist in breathing, the audiometer to detect minor hearing problems, a device to locate icebergs, investigations on how to separate salt from seawater, and work on finding alternative fuels.
 
 Bell worked extensively in medical research and invented techniques for teaching speech to the deaf. During his Volta Laboratory period, Bell and his associates considered impressing a magnetic field on a record as a means of reproducing sound. Although the trio briefly experimented with the concept, they could not develop a workable prototype. They abandoned the idea, never realizing they had glimpsed a basic principle which would one day find its application in the tape recorder, the hard disc and floppy disc drive, and other magnetic media.
@@ -151,7 +147,7 @@ Bell's own home used a primitive form of air conditioning, in which fans blew cu
 
 Photophone
 
-Photophony1.jpg system, ca. 1880]]
+system, ca. 1880]]
 
 Bell and his assistant Charles Sumner Tainter jointly invented a wireless telephone, named a photophone, which allowed for the transmission of both sounds and normal human conversations on a beam of light.[60] Both men later became full associates in the Volta Laboratory Association.
 
@@ -161,7 +157,7 @@ Bell believed the photophone's principles were his life's "greatest achievement"
 
 Metal detector
 
-Telephone_Inventor’s_Voice_Heard_in_Restored_Recording_«_Science_World.theora.ogv recording in 1885. Restored by the Smithsonian in 2013.]]
+recording in 1885. Restored by the Smithsonian in 2013.]]
 
 Bell is also credited with developing one of the early versions of a metal detector in 1881. The device was quickly put together in an attempt to find the bullet in the body of U.S. President James Garfield. According to some accounts, the metal detector worked flawlessly in tests but did not find the assassin's bullet partly because the metal bed frame on which the President was lying disturbed the instrument, resulting in static. The president's surgeons, who were skeptical of the device, ignored Bell's requests to move the president to a bed not fitted with metal springs. Alternatively, although Bell had detected a slight sound on his first test, the bullet may have been lodged too deeply to be detected by the crude apparatus.
 
@@ -169,15 +165,13 @@ Bell's own detailed account, presented to the American Association for the Advan
 
 Hydrofoils
 
-Bell_HD-4.jpg on a test run ca. 1919]]
+on a test run ca. 1919]]
 
 The March 1906 _Scientific American_ article by American pioneer William E. Meacham explained the basic principle of hydrofoils and hydroplanes. Bell considered the invention of the hydroplane as a very significant achievement. Based on information gained from that article, he began to sketch concepts of what is now called a hydrofoil boat. Bell and assistant Frederick W. "Casey" Baldwin began hydrofoil experimentation in the summer of 1908 as a possible aid to airplane takeoff from water. Baldwin studied the work of the Italian inventor Enrico Forlanini and began testing models. This led him and Bell to the development of practical hydrofoil watercraft.
 
 During his world tour of 1910–11, Bell and Baldwin met with Forlanini in France. They had rides in the Forlanini hydrofoil boat over Lake Maggiore. Baldwin described it as being as smooth as flying. On returning to Baddeck, a number of initial concepts were built as experimental models, including the _Dhonnas Beag_ (Scottish Gaelic for _little devil_), the first self-propelled Bell-Baldwin hydrofoil. The experimental boats were essentially proof-of-concept prototypes that culminated in the more substantial HD-4, powered by Renault engines. A top speed of was achieved, with the hydrofoil exhibiting rapid acceleration, good stability, and steering, along with the ability to take waves without difficulty. In 1913, Dr. Bell hired Walter Pinaud, a Sydney yacht designer and builder as well as the proprietor of Pinaud's Yacht Yard in Westmount, Nova Scotia, to work on the pontoons of the HD-4. Pinaud soon took over the boatyard at Bell Laboratories on Beinn Bhreagh, Bell's estate near Baddeck, Nova Scotia. Pinaud's experience in boat-building enabled him to make useful design changes to the HD-4. After the First World War, work began again on the HD-4. Bell's report to the U.S. Navy permitted him to obtain two engines in July 1919. On September 9, 1919, the HD-4 set a world marine speed record of , a record which stood for ten years.
 
 Aeronautics
-
-AEA_Silver_Dart.jpg
 
 In 1891, Bell had begun experiments to develop motor-powered heavier-than-air aircraft. The AEA was first formed as Bell shared the vision to fly with his wife, who advised him to seek "young" help as Bell was at the age of 60.
 
@@ -197,9 +191,9 @@ Bell was connected with the eugenics movement in the United States. In his lectu
 
 Legacy and honors
 
-Bell_Statue_in_front_of_the_Brantford_Bell_Telephone_Building_0.98.jpg, similar in style to the Lincoln Memorial, in the front portico of the Bell Telephone Building of Brantford, Ontario, _The Telephone City_. (Courtesy: _BRANTFORD HERITAGE INVENTORY, City of Brantford, Ontario, Canada_)]]
+, similar in style to the Lincoln Memorial, in the front portico of the Bell Telephone Building of Brantford, Ontario, _The Telephone City_. (Courtesy: _BRANTFORD HERITAGE INVENTORY, City of Brantford, Ontario, Canada_)]]
 
-Honors and tributes flowed to Bell in increasing numbers as his invention became ubiquitous and his personal fame grew. Bell received numerous honorary degrees from colleges and universities to the point that the requests almost became burdensome.[74] During his life, he also received dozens of major awards, medals, and other tributes. These included statuary monuments to both him and the new form of communication his telephone created, including the Bell Telephone Memorial erected in his honor in _Alexander Graham Bell Gardens_ in Brantford, Ontario, in 1917.[75] Alexander_Graham_Bell_Quote_in_stone.jpg (in Manitoba Canada and North Dakota, USA).]] A large number of Bell's writings, personal correspondence, notebooks, papers, and other documents reside in both the United States Library of Congress Manuscript Division (as the _Alexander Graham Bell Family Papers_),[76] and at the Alexander Graham Bell Institute, Cape Breton University, Nova Scotia; major portions of which are available for online viewing.
+Honors and tributes flowed to Bell in increasing numbers as his invention became ubiquitous and his personal fame grew. Bell received numerous honorary degrees from colleges and universities to the point that the requests almost became burdensome.[74] During his life, he also received dozens of major awards, medals, and other tributes. These included statuary monuments to both him and the new form of communication his telephone created, including the Bell Telephone Memorial erected in his honor in _Alexander Graham Bell Gardens_ in Brantford, Ontario, in 1917.[75] (in Manitoba Canada and North Dakota, USA).]] A large number of Bell's writings, personal correspondence, notebooks, papers, and other documents reside in both the United States Library of Congress Manuscript Division (as the _Alexander Graham Bell Family Papers_),[76] and at the Alexander Graham Bell Institute, Cape Breton University, Nova Scotia; major portions of which are available for online viewing.
 
 A number of historic sites and other marks commemorate Bell in North America and Europe, including the first telephone companies in the United States and Canada. Among the major sites are:
 
@@ -208,13 +202,13 @@ A number of historic sites and other marks commemorate Bell in North America and
 -   Canada's first telephone company building, the "Henderson Home" of the late 1870s, a predecessor of the Bell Telephone Company of Canada (officially chartered in 1880). In 1969, the building was carefully moved to the historic Bell Homestead National Historic Site in Brantford, Ontario, and was refurbished to become a telephone museum. The Bell Homestead, the Henderson Home telephone museum, and the National Historic Site's reception centre are all maintained by the Bell Homestead Society;[78]
 -   The Alexander Graham Bell Memorial Park, which features a broad neoclassical monument built in 1917 by public subscription. The monument depicts mankind's ability to span the globe through telecommunications;[79]
 -   The Alexander Graham Bell Museum (opened in 1956), part of the Alexander Graham Bell National Historic Site which was completed in 1978 in Baddeck, Nova Scotia. Many of the museum's artifacts were donated by Bell's daughters;
-    Grahambellmuseumcorridoor.jpg, Cape Breton, part of the Alexander Graham Bell National Historic Site]]
+    , Cape Breton, part of the Alexander Graham Bell National Historic Site]]
 
 In 1880, Bell received the Volta Prize with a purse of 50,000 French francs (approximately US$ in today's dollars) for the invention of the telephone from the French government.[80][81][82][83][84][85] Among the luminaries who judged were Victor Hugo and Alexandre Dumas, _fils_.[86] The Volta Prize was conceived by Napoleon III in 1852, and named in honor of Alessandro Volta, with Bell becoming the second recipient of the grand prize in its history.[87][88] Since Bell was becoming increasingly affluent, he used his prize money to create endowment funds (the 'Volta Fund') and institutions in and around the United States capital of Washington, D.C.. These included the prestigious'' 'Volta Laboratory Association' _(1880), also known as the_ Volta Laboratory _and as the_ 'Alexander Graham Bell Laboratory', ''and which eventually led to the Volta Bureau (1887) as a center for studies on deafness which is still in operation in Georgetown, Washington, D.C. The Volta Laboratory became an experimental facility devoted to scientific discovery, and the very next year it improved Edison's phonograph by substituting wax for tinfoil as the recording medium and incising the recording rather than indenting it, key upgrades that Edison himself later adopted.[89] The laboratory was also the site where he and his associate invented his "proudest achievement", "the photophone", the "optical telephone" which presaged fibre optical telecommunications while the Volta Bureau would later evolve into the Alexander Graham Bell Association for the Deaf and Hard of Hearing (the AG Bell), a leading center for the research and pedagogy of deafness.
 
 In partnership with Gardiner Greene Hubbard, Bell helped establish the publication _Science_ during the early 1880s. In 1898, Bell was elected as the second president of the National Geographic Society, serving until 1903, and was primarily responsible for the extensive use of illustrations, including photography, in the magazine.[90] He also served for many years as a Regent of the Smithsonian Institution (1898–1922).[91] The French government conferred on him the decoration of the Légion d'honneur (Legion of Honor); the Royal Society of Arts in London awarded him the Albert Medal in 1902; the University of Würzburg, Bavaria, granted him a PhD, and he was awarded the Franklin Institute's Elliott Cresson Medal in 1912. He was one of the founders of the American Institute of Electrical Engineers in 1884 and served as its president from 1891–92. Bell was later awarded the AIEE's Edison Medal in 1914 "For meritorious achievement in the invention of the telephone".[92]
 
-The _bel_ (B) and the smaller _decibel_ (dB) are units of measurement of sound pressure level (SPL) invented by Bell Labs and named after him.[93] [94] Since 1976, the IEEE's Alexander Graham Bell Medal has been awarded to honor outstanding contributions in the field of telecommunications. Alexander_Grahm_Bell2_1940_Issue-10c.jpg
+The _bel_ (B) and the smaller _decibel_ (dB) are units of measurement of sound pressure level (SPL) invented by Bell Labs and named after him.[93] [94] Since 1976, the IEEE's Alexander Graham Bell Medal has been awarded to honor outstanding contributions in the field of telecommunications.
 
 In 1936, the US Patent Office declared Bell first on its list of the country's greatest inventors,[95] leading to the US Post Office issuing a commemorative stamp honoring Bell in 1940 as part of its 'Famous Americans Series'. The First Day of Issue ceremony was held on October 28 in Boston, Massachusetts, the city where Bell spent considerable time on research and working with the deaf. The Bell stamp became very popular and sold out in little time. The stamp became, and remains to this day, the most valuable one of the series.[96]
 
@@ -222,7 +216,7 @@ The 150th anniversary of Bell's birth in 1997 was marked by a special issue of c
 
 Alexander Graham Bell was ranked 57th among the 100 Greatest Britons (2002) in an official BBC nationwide poll,[99] and among the Top Ten Greatest Canadians (2004), and the 100 Greatest Americans (2005). In 2006, Bell was also named as one of the 10 greatest Scottish scientists in history after having been listed in the National Library of Scotland's 'Scottish Science Hall of Fame'.[100] Bell's name is still widely known and used as part of the names of dozens of educational institutes, corporate namesakes, street and place names around the world.
 
-Bell_receives_honourary_LL.D_from_University_of_Edinburgh.jpg, Scotland, receiving an honorary Doctor of Laws degree (LL.D.) at the university in 1906]]
+, Scotland, receiving an honorary Doctor of Laws degree (LL.D.) at the university in 1906]]
 
 Honorary degrees
 

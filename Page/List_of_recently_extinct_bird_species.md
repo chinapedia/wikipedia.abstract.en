@@ -8,7 +8,7 @@ Island species in general, and flightless island species in particular, are most
 
 The extinction dates given below are usually approximations of the actual date of extinction. In some cases, more exact dates are given as it is sometimes possible to pinpoint the date of extinction to a specific year or even day (the San Benedicto rock wren is possibly the most extreme example—its extinction could be timed with an accuracy of maybe half an hour). Extinction dates in the literature are usually the dates of the last verified record (credible observation or specimen taken); for many Pacific birds that became extinct shortly after European contact, however, this leaves an uncertainty period of over a century, because the islands on which they lived were only rarely visited by scientists.
 
-Edwards'_Dodo.jpg", painted by Roelant Savery in 1626]]
+", painted by Roelant Savery in 1626]]
 
 
 Extinct bird species
@@ -29,7 +29,7 @@ Apterygiformes
 
 Anseriformes
 
-Camptorynchus_labradoriusNHDP078CB.jpg]] Ducks, geese and swans
+]] Ducks, geese and swans
 
 -   Crested shelduck, _Tadorna cristata_ (Northeastern Asia, late 20th century?)
 
@@ -58,7 +58,7 @@ Camptorynchus_labradoriusNHDP078CB.jpg]] Ducks, geese and swans
 
 Galliformes
 
-Coturnix_novaezelandiae.jpg]] Quails and relatives
+]] Quails and relatives
 See also Bokaak "bustard" under Gruiformes below
 
 -   The pile-builder megapode, _Megapodius molistructor_ may have survived on New Caledonia to the late 18th century as evidenced by descriptions of the bird named _"Tetrao australis"_ and later _"Megapodius andersoni"_.
@@ -74,7 +74,7 @@ See also Bokaak "bustard" under Gruiformes below
 
 Charadriiformes
 
-greatauk-london.jpg (_Pinguinus impennis_), Natural History Museum, London, England]] Shorebirds, gulls and auks
+(_Pinguinus impennis_), Natural History Museum, London, England]] Shorebirds, gulls and auks
 
 -   Javan lapwing, _Vanellus macropterus_ (Java, Indonesia, mid-20th century)
 
@@ -111,7 +111,7 @@ Rails and allies - probably paraphyletic
 -   Rodrigues rail, _Erythromachus leguati_ (Rodrigues, Mascarenes, mid-18th century)
 -   Bar-winged rail, _Nesoclopeus poecilopterus_ (Fiji, Polynesia, c. 1980)
 -   Dieffenbach's rail, _Gallirallus dieffenbachii_ (Chatham Islands, SW Pacific, mid-19th century)
--   Gallirallus.pacificus.jpg]]Tahiti rail, _Hypotaenidia pacificus_ (Tahiti, Society Islands, late 18th – 19th century)
+-   ]]Tahiti rail, _Hypotaenidia pacificus_ (Tahiti, Society Islands, late 18th – 19th century)
 -   Wake Island rail, _Hypotaenidia wakensis_ (Wake Island, Micronesia, 1945)
 -   Tongatapu rail, _Gallirallus hypoleucus_ (Tongatapu, Tonga, late 18th - 19th century)
 -   New Caledonian rail, _Gallirallus lafresnanayanus_ (New Caledonia, Melanesia, c. 1900?)
@@ -127,15 +127,15 @@ Rails and allies - probably paraphyletic
 -   Réunion rail or Dubois' wood-rail, _Dryolimnas augusti_ (Réunion, Mascarenes, late 17th century)
 -   Ascension crake, _Mundia elpenor_ (Ascension, Island, Atlantic, late 17th century)– formerly _Atlantisia_
 -   Saint Helena crake, _Porzana astrictocarpus_ (Saint Helena, Atlantic, early 16th century)
--   Laysanralle.jpg was an omnivore]]Laysan rail, _Porzana palmeri_ (Laysan Island, Hawaiian Islands, 1944)
--   Hawaiirail.jpg]]Hawaiian rail, _Porzana sandwichensis_ (Big Island, Hawaiian Islands, c. 1890)
+-   was an omnivore]]Laysan rail, _Porzana palmeri_ (Laysan Island, Hawaiian Islands, 1944)
+-   ]]Hawaiian rail, _Porzana sandwichensis_ (Big Island, Hawaiian Islands, c. 1890)
 -   Kosrae crake, _Porzana monasa_ (Kosrae, Carolines, c. mid-late 19th century)
 -   Miller's rail, _Porzana nigra_ (Tahiti, Society Islands, c. 1800)
 
         Known only from paintings and descriptions; taxonomic status uncertain, as the material is often believed to refer to the extant spotless crake.
 
 -   Saint Helena swamphen, _Aphanocrex podarces_ (Saint Helena, Atlantic, 16th century)– formerly _Atlantisia_
--   PorphyrioAlbus.jpg]]Lord Howe swamphen, _Porphyrio albus_ (Lord Howe Island, SW Pacific, early 19th century)
+-   ]]Lord Howe swamphen, _Porphyrio albus_ (Lord Howe Island, SW Pacific, early 19th century)
 -   Réunion swamphen or _Oiseau bleu_, _Porphyrio coerulescens_ (Réunion, Mascarenes, 18th century)
 
         Known only from descriptions. Former existence of a _Porphyrio_ on Réunion is fairly certain, but not proven to date.
@@ -250,7 +250,7 @@ Penguins
 
 Columbiformes
 
-Ectopistes_migratoriusMCN2P28CA.jpg]] Pigeons, doves and dodos
+]] Pigeons, doves and dodos
 For the "Réunion solitaire", see Réunion ibis.
 
 -   Saint Helena dove, _Dysmoropelia dekarchiskos_, possibly survived into the Modern Era.
@@ -286,7 +286,7 @@ For the "Réunion solitaire", see Réunion ibis.
 
         Last recorded in 1927, only two specimens exist. Declared extinct in 2005.
 
--   Microgoura_meeki.jpg]]Choiseul pigeon, _Microgoura meeki_ (Choiseul, Solomon Islands, early 20th century)
+-   ]]Choiseul pigeon, _Microgoura meeki_ (Choiseul, Solomon Islands, early 20th century)
 -   Red-moustached fruit dove, _Ptilinopus mercierii_ (Nuku Hiva and Hiva Oa, Marquesas, mid-20th century)
 
         Two subspecies, the little-known _P. m. mercierii_ of Nuku Hiva (extinct mid-late 19th century) and _P. m. tristrami_ of Hiva Oa.
@@ -295,7 +295,7 @@ For the "Réunion solitaire", see Réunion ibis.
 
         Known only from one specimen taken at the only documented sighting in 1953, the validity of this species has been questioned, but no good alternative to distinct species status has been proposed. Officially critically endangered, it might occur on Panay, but no survey has located it. One possible record in 2002 does not seem to have been repeated.
 
--   Extinctbirds1907_P22_Alectroenas_nitidissima0325.png]]Mauritius blue pigeon, _Alectroenas nitidissima_ (Mauritius, Mascarenes, c. 1830s)
+-   ]]Mauritius blue pigeon, _Alectroenas nitidissima_ (Mauritius, Mascarenes, c. 1830s)
 -   Farquhar blue pigeon, _Alectroenas_ sp. (Farquhar Group, Seychelles, 19th century)
 
         Only known from early reports; possibly a subspecies of the Comoros or Seychelles blue pigeon.
@@ -312,18 +312,18 @@ For the "Réunion solitaire", see Réunion ibis.
 
 Psittaciformes
 
-Parrots Karolinasittich_01.jpg'', Museum Wiesbaden, Germany]]
+Parrots '', Museum Wiesbaden, Germany]]
 
 -   New Caledonian lorikeet, _Charmosyna diadema_ (New Caledonia, Melanesia, mid-20th century?)
 
         Officially critically endangered, there have been no reliable reports of this bird since the early 20th century. It is, however, small and inconspicuous.
 
--   John-Gould-001.jpg]]Norfolk kaka, '' Nestor productus'' (Norfolk and Philip Islands, SW Pacific, 1851?)
+-   ]]Norfolk kaka, '' Nestor productus'' (Norfolk and Philip Islands, SW Pacific, 1851?)
 -   Society parakeet, _Cyanoramphus ulietanus_ (Raiatea, Society Islands, late 18th century)
 -   Black-fronted parakeet, _Cyanoramphus zealandicus_ (Tahiti, Society Islands, c. 1850)
 -   Paradise parrot, _Psephotus pulcherrimus_ (Rockhampton area, Australia, late 1920s)
 -   Oceanic eclectus parrot, _Eclectus infectus_, known from subfossil bones found on Tonga, Vanuatu, and possibly Fiji, may have survived until the 18th century: a bird which seems to be a male _Eclectus_ parrot was drawn in a report on the Tongan island of Vavaʻu by the Malaspina expedition. Also a 19th-century Tongan name _ʻāʻā_ ("parrot") for "a beautiful bird found only at ʻEua" is attested (see here[4] under "kaka"). This seems to refer either _E. infectus_ which in Tonga is only known from Vavaʻu and ʻEua, or the extirpated population of the collared lory which also occurred there. It is possible but unlikely that the species survived on ʻEua until the 19th century.
--   Psittacula.wardi.jgk.jpg]]Seychelles parakeet, _Psittacula wardi_ (Seychelles, W Indian Ocean, 1883)
+-   ]]Seychelles parakeet, _Psittacula wardi_ (Seychelles, W Indian Ocean, 1883)
 -   Newton's parakeet, _Psittacula exsul_ (Rodrigues, Mascarenes, c. 1875)
 -   Mascarene grey parakeet, _Psittacula bensoni_ (Mauritius, possible Réunion as _Psittacula cf bensoni_). Formerly described as Mauritius grey parrot, _Lophopsittacus bensoni_. Known from a 1602 sketch by Captain Willem van Westzanen and by subfossil bones described by David Thomas Holyoak in 1973. Might have survived to the mid-18th century.
 -   Mascarene parrot, _Mascarinus mascarin_ (Réunion and possibly Mauritius, Mascarenes, 1834?)
@@ -375,7 +375,7 @@ Birds of prey
 
 Strigiformes
 
-Keulemans_Laughing_Owl.jpg]] Typical owls and barn owls.
+]] Typical owls and barn owls.
 
 -   Pernambuco pygmy owl, _Glaucidium mooreorum_ (Pernambuco, Brazil, 2001?[5])
 
@@ -467,7 +467,7 @@ FURNARIIDAE- Ovenbirds
 
         Officially classified as critically endangered, though a 2018 BirdLife study citing extinction patterns recommended reclassifying this species as extinct.
 
-Xenicus_lyalli.jpg, victim of feral cats]] ACANTHISITTIDAE– New Zealand "wrens"
+, victim of feral cats]] ACANTHISITTIDAE– New Zealand "wrens"
 
 -   Lyall's wren, _Traversia lyalli_ (New Zealand, 1895?)
 
@@ -480,7 +480,7 @@ Xenicus_lyalli.jpg, victim of feral cats]] ACANTHISITTIDAE– New Zealand "wrens
 MOHOIDAE – Hawaiian "honeyeaters". Family established in 2008, previously in Meliphagidae.
 
 -   Kioea, _Chaetoptila angustipluma_ (Big Island, Hawaiian Islands, 1860s)
--   Moho_nobilis-Keulemans.jpg]]Hawaiʻi ʻōʻō, _Moho nobilis_ (Big Island, Hawaiian Islands, 1930s)
+-   ]]Hawaiʻi ʻōʻō, _Moho nobilis_ (Big Island, Hawaiian Islands, 1930s)
 -   Oʻahu ʻōʻō, _Moho apicalis_ (Oʻahu, Hawaiian Islands, mid-19th century)
 -   Molokaʻi ʻōʻō, _Moho bishopi_ (Molokaʻi and probably Maui, Hawaiian Islands, c. 1910 or 1980s)
 -   Kauaʻi ʻōʻō, _Moho braccatus_ (Kauaʻi, Hawaiian Islands, 1987)
@@ -530,7 +530,7 @@ ORIOLIDAE – Old World orioles and allies
 
         Two subspecies, _T. c. minor_ from Stephens Island (extinct c. 1897) and the nominate _T. c. capensis_ from the South Island mainland (last specimen taken in 1902, last unconfirmed record in 1963)
 
-CALLAEIDAE – New Zealand wattlebirds Huia_Buller.jpg]]
+CALLAEIDAE – New Zealand wattlebirds ]]
 
 -   Huia, _Heteralocha acutirostris_ (North Island, New Zealand, early 20th century)
 
@@ -601,7 +601,7 @@ SYLVIOIDEA _INCERTAE SEDIS_
 
         Known from subfossil bones. Provisionally assigned to Timaliidae, but placement highly doubtful.
 
-STURNIDAE – starlings Fregilupus_varius_-_John_Gerrard_Keulemans.jpg]]
+STURNIDAE – starlings ]]
 
 -   Kosrae starling, _Aplonis corvina_ (Kosrae, Carolines, mid-19th century)
 -   Mysterious starling, _Aplonis mavornata_ (Mauke, Cook Islands, mid-19th century)
@@ -630,7 +630,7 @@ TURDIDAE – thrushes and relatives
 -   Grand Cayman thrush, _Turdus ravidus_ (Grand Cayman, West Indies, late 1940s)
 -   Bonin thrush, _Zoothera terrestris_ (Chichi-jima, Ogasawara Islands, c. 1830s)
 -   ʻĀmaui, _Myadestes woahensis_ (Oʻahu, Hawaiian Islands, mid-19th century)
--   Zzzkamao.jpg]]Kāmaʻo, _Myadestes myadestinus_ (Kauaʻi, Hawaiian Islands, 1990s)
+-   ]]Kāmaʻo, _Myadestes myadestinus_ (Kauaʻi, Hawaiian Islands, 1990s)
 -   Olomaʻo, _Myadestes lanaiensis_ (Hawaiian Islands, 1980s?)
 
         Officially classified as critically endangered because a possible location on Molokaʻi remains unsurveyed. Two subspecies are known from Lanaʻi (_M. l. lanaiensis_, extinct early 1930s), Molokaʻi (_M. l. rutha_, extinct 1980s?) and a possible third subspecies from Maui (extinct before late 19th century).
@@ -653,7 +653,7 @@ ICTERIDAE – grackles
 
 PARULIDAE – New World warblers
 
--   Bachman's_Warbler.jpg]]Bachman's warbler, _Vermivora bachmanii_ (southern US, c. 1990?)
+-   ]]Bachman's warbler, _Vermivora bachmanii_ (southern US, c. 1990?)
 
         Officially classified as critically endangered.
 
@@ -687,7 +687,7 @@ FRINGILLIDAE – true finches and Hawaiian honeycreepers
 -   Maui Nui ʻakialoa, _Akialoa lanaiensis_ (Lanaʻi and, prehistorically, probably Maui and Molokaʻi, Hawaiian Islands, 1892)
 -   Oʻahu ʻakialoa, _Akialoa ellisiana_ (Oʻahu, Hawaiian Islands, early 20th century)
 -   Kauaʻi ʻakialoa, _Akialoa stejnegeri_ (Kauaʻi, Hawaiian Islands, 1969)
--   Paroreomyza.flammea.jpg (kākāwahie)]]Kakawahie, _Paroreomyza flammea_ (Molokaʻi, Hawaiian Islands, 1963)
+-   (kākāwahie)]]Kakawahie, _Paroreomyza flammea_ (Molokaʻi, Hawaiian Islands, 1963)
 -   Oʻahu ʻalauahio, _Paroreomyza maculata_ (Oʻahu, Hawaiian Islands, early 1990s?)
 
         Officially classified as critically endangered. Last reliable record was in 1985, with an unconfirmed sighting in 1990.
@@ -696,7 +696,7 @@ FRINGILLIDAE – true finches and Hawaiian honeycreepers
 -   Oʻahu akepa, _Loxops wolstenholmei_ (Oʻahu, Hawaiian Islands, 1900s)
 -   ʻUla-ʻai-hawane, _Ciridops anna_ (Big Island, Hawaiian Islands, 1892 or 1937)
 -   Black mamo, _Drepanis funerea_ (Molokaʻi, Hawaiian Islands, 1907)
--   Drepanis_pacifica-Keulemans.jpg]]Hawaiʻi mamo, _Drepanis pacifica_ (Big Island, Hawaiian Islands, 1898)
+-   ]]Hawaiʻi mamo, _Drepanis pacifica_ (Big Island, Hawaiian Islands, 1898)
 -   Laysan honeycreeper, _Himatione fraithii_ (Laysan, Hawaiian Islands, 1923)
 -   Poʻo-uli, _Melamprosops phaeosoma_ (Maui, Hawaiian Islands, 2004?)
 
@@ -731,7 +731,7 @@ Apterygiformes
 
 Casuariiformes
 
-Dromaius_parvulus.jpg]]
+]]
 
 -   King Island emu, _Dromaius novaehollandiae minor_ (King Island, Australia, 1822)
 
@@ -1535,7 +1535,7 @@ FRINGILLIDAE – true finches and Hawaiian honeycreepers
 
     A subspecies of the Maui ʻalauahio (or, more properly, the Maui Nui ʻalauahio). Last recorded in 1937 and certainly extinct by 1960.
 
-Dusky_Seaside_Sparrow.jpg]] ICTERIDAE – grackles
+]] ICTERIDAE – grackles
 
 -   Grand Cayman oriole, _Icterus leucopteryx bairdi_ (Grand Cayman, West Indies, late 20th century)
 

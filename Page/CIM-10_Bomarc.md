@@ -1,5 +1,3 @@
-BOMARC_A_Surface-to-Air_Missile.jpg
-
 The BOEING CIM-10 BOMARC (IM-99 WEAPON SYSTEM prior to September 1962)[1] was a supersonic long-range surface-to-air missile (SAM) used during the Cold War for the air defense of North America. In addition to being the first operational long-range SAM, it was the only SAM deployed by the United States Air Force.
 
 Stored horizontally in a launcher shelter with movable roof, the missile was erected, fired vertically using rocket boosters to high altitude, and then tipped over into a horizontal Mach 2.5 cruise powered by ramjet engines. This lofted trajectory allowed the missile to operate at a maximum range as great as 430 mi (700 km). Controlled from the ground for most of its flight, when it reached the target area it was commanded to begin a dive, activating an onboard active radar homing seeker for terminal guidance. A radar proximity fuse detonated the warhead, either a large conventional explosive or the W40 nuclear warhead.
@@ -23,7 +21,7 @@ In October 1957, the first YIM-99A production-representative prototype flew with
 
 The IM-99A had an operational radius of and was designed to fly at Mach 2.5–2.8 at a cruising altitude of . It was long and weighed . Its armament was either a conventional warhead or a W40 nuclear warhead (7–10 kiloton yield). A liquid-fuel rocket engine boosted the Bomarc to Mach 2, when its Marquardt RJ43-MA-3 ramjet engines, fueled by 80-octane gasoline, would take over for the remainder of the flight. This was the same model of engine used to power both the Lockheed X-7, the Lockheed AQM-60 Kingfisher drone used to test air defenses, and the Lockheed D-21 launched from the back of an M-21 .[5]
 
-CIM-10_Bomarc_missile_battery.jpg) ]]
+) ]]
 
 Operational units
 
@@ -40,8 +38,6 @@ The liquid-fuel booster of the Bomarc A was no optimal solution. It took two min
 As soon as high-thrust solid-fuel rockets became a reality in the mid-1950s, the USAF began to develop a new solid-fueled Bomarc variant, the IM-99B Bomarc B. It used a Thiokol XM51 booster, and also had improved Marquardt RJ43-MA-7 (and finally the RJ43-MA-11) ramjets. The first IM-99B was launched in May 1959, but problems with the new propulsion system delayed the first fully successful flight until July 1960, when a supersonic KD2U-1/MQM-15A Regulus II drone was intercepted. Because the new booster took up less space in the missile, more ramjet fuel could be carried, increasing the range to . The terminal homing system was also improved, using the world's first pulse Doppler search radar, the Westinghouse AN/DPN-53. All Bomarc Bs were equipped with the W-40 nuclear warhead. In June 1961, the first IM-99B squadron became operational, and Bomarc B quickly replaced most Bomarc A missiles.[10] On 23 March 1961, a Bomarc B successfully intercepted a Regulus II cruise missile flying at , thus achieving the highest interception in the world up to that date.
 
 Boeing built 570 Bomarc missiles between 1957 and 1964, 269 CIM-10A, 301 CIM-10B.[11]
-
-4751st_Air_Defense_Squadron_-_ADC_-_Emblem.png
 
 In September 1958 Air Research & Development Command decided to transfer the Bomarc program from its testing at Cape Canaveral Air Force Station to a new facility on Santa Rosa Island, immediately south of Eglin AFB Hurlburt Field on the Gulf of Mexico. To operate the facility and to provide training and operational evaluation in the missile program, Air Defense Command established the 4751st Air Defense Wing (Missile) (4751st ADW) on 15 January 1958. The first launch from Santa Rosa took place on 15 January 1959.[12]
 
@@ -66,7 +62,7 @@ In 1962, the US Air Force started using modified A-models as drones; following t
 
 In 1964, the liquid-fueled Bomarc-A sites and squadrons began to be deactivated. The sites at Dow and Suffolk County closed first. The remainder continued to be operational for several more years while the government started dismantling the air defense missile network. Niagara Falls was the first BOMARC B installation to close, in December 1969; the others remained on alert through 1972. In April 1972, the last Bomarc B in U.S. Air Force service was retired at McGuire and the 46th ADMS inactivated [20] and the base was deactivated.[21]
 
-CQM-10B_Bormarc_drone_launch_Vandenberg_1977.JPEG, 1977.]]
+, 1977.]]
 
 In the era of the intercontinental ballistic missiles the Bomarc, designed to intercept relatively slow manned bombers, had become a useless asset. The remaining Bomarc missiles were used by all armed services as high-speed target drones for tests of other air-defense missiles. The Bomarc A and Bomarc B targets were designated as CQM-10A and CQM-10B, respectively.[22]
 
@@ -86,8 +82,6 @@ No. 447 SAM Squadron operating out of RCAF Station La Macaza, Quebec, was activa
 
 
 Variants
-
-CIM-10_operators.png
 
 -   XF-99 (experimental for booster research)
 -   XF-99A/XIM-99A (experimental for ramjet research)
@@ -243,7 +237,7 @@ File:6th Air Defense Missile Squadron - ADC - Emblem.png|6th ADMS File:22d Air D
 
 Surviving missiles
 
-Bomarc_B_missile_Canada_Aviation_Museum_Ottawa_2006.jpg Ottawa, Ontario, Canada, c. 2006.]] Below is a list of museums or sites which have a Bomarc missile on display:
+Ottawa, Ontario, Canada, c. 2006.]] Below is a list of museums or sites which have a Bomarc missile on display:
 
 -   Air Force Armament Museum, Eglin Air Force Base, Florida
 -   Air Force Space & Missile Museum, Cape Canaveral Air Force Station, Florida. This pristine artifact is in sequestered storage in Hangar R on Cape Canaveral AFS and cannot be viewed by the general public.

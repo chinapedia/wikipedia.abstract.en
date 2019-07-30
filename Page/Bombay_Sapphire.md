@@ -5,7 +5,7 @@ The flavouring of the drink comes from a recipe of ten ingredients: almond, lemo
 
 Production
 
-Bombay_Sapphire_distillery,_Laverstoke_01.jpg]] Thomas_Heatherwick_glasshouses_for_the_Bombay_Sapphire_distillery_01.jpg for growing the botanicals]] In 2011, plans were announced to move the manufacturing process to a new facility at Laverstoke Mill in Whitchurch, Hampshire, including the restoration of the former Portal's paper mill at the proposed site, and the construction of a visitor centre.[4]
+]] for growing the botanicals]] In 2011, plans were announced to move the manufacturing process to a new facility at Laverstoke Mill in Whitchurch, Hampshire, including the restoration of the former Portal's paper mill at the proposed site, and the construction of a visitor centre.[4]
 
 Planning permission was granted in February 2012, and the centre opened to the public in the autumn of 2014.[5][6] The visitor centre included a new construction by Thomas Heatherwick of two glasshouses for plants used as botanicals in the production of Bombay Sapphire gin.[7]
 

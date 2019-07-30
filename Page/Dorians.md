@@ -1,4 +1,4 @@
-AncientGreekDialects_(Woodard)_en.svg The DORIANS (; , _Dōrieis_, singular , _Dōrieus_) were one of the four major ethnic groups among which the Hellenes (or Greeks) of Classical Greece considered themselves divided (along with the Aeolians, Achaeans, and Ionians).[1] They are almost always referred to as just "the Dorians", as they are called in the earliest literary mention of them in the _Odyssey_,[2] where they already can be found inhabiting the island of Crete.
+The DORIANS (; , _Dōrieis_, singular , _Dōrieus_) were one of the four major ethnic groups among which the Hellenes (or Greeks) of Classical Greece considered themselves divided (along with the Aeolians, Achaeans, and Ionians).[1] They are almost always referred to as just "the Dorians", as they are called in the earliest literary mention of them in the _Odyssey_,[2] where they already can be found inhabiting the island of Crete.
 
 They were diverse in way of life and social organization, varying from the populous trade center of the city of Corinth, known for its ornate style in art and architecture, to the isolationist, military state of Sparta. And yet, all Hellenes knew which localities were Dorian, and which were not. Dorian states at war could more likely, but not always, count on the assistance of other Dorian states. Dorians were distinguished by the Doric Greek dialect and by characteristic social and historical traditions.
 
@@ -15,7 +15,7 @@ The origin of the Dorians is a multifaceted concept. In modern scholarship, the 
 
 This theory of a return or invasion presupposes that West Greek speakers resided in northwest Greece but overran the Peloponnesus replacing the East Greek there with their own dialect. No records other than Mycenaean ones are known to have existed in the Bronze Age so a West Greek of that time and place can be neither proved nor disproved. West Greek speakers were in western Greece in classical times. Unlike the East Greeks, they are not associated with any evidence of displacement events. That provides circumstantial evidence that the Doric dialect disseminated among the Hellenes of northwest Greece, a highly-mountainous and somewhat-isolated region.
 
-Bronze-age-collapse.svg]]
+]]
 
 Dorian invasion
 
@@ -29,14 +29,14 @@ On the whole, none of the objectives has been met, but the investigations served
 
 Post-migrational distribution of the Dorians
 
-Lato_-_Prytaneion_01.jpg on the island of Crete]] Though most of the Doric invaders settled in the Peloponnese, they also settled on Rhodes and Sicily, in what is now Southern Italy. In Asia Minor existed the Dorian Hexapolis (the six great Dorian cities): Halikarnassos (Halicarnassus) and Knidos (Cnidus) in Asia Minor, Kos, and Lindos, Kameiros, and Ialyssos on the island of Rhodes. The six cities would later become rivals with the Ionian cities of Asia Minor. The Dorians also invaded Crete. The origin traditions remained strong into classical times: Thucydides saw the Peloponnesian War in part as "Ionians fighting against Dorians" and reported the tradition that the Syracusans in Sicily were of Dorian descent.[7] Other such "Dorian" colonies, originally from Corinth, Megara, and the Dorian islands, dotted the southern coasts of Sicily from Syracuse to Selinus.[8]
+on the island of Crete]] Though most of the Doric invaders settled in the Peloponnese, they also settled on Rhodes and Sicily, in what is now Southern Italy. In Asia Minor existed the Dorian Hexapolis (the six great Dorian cities): Halikarnassos (Halicarnassus) and Knidos (Cnidus) in Asia Minor, Kos, and Lindos, Kameiros, and Ialyssos on the island of Rhodes. The six cities would later become rivals with the Ionian cities of Asia Minor. The Dorians also invaded Crete. The origin traditions remained strong into classical times: Thucydides saw the Peloponnesian War in part as "Ionians fighting against Dorians" and reported the tradition that the Syracusans in Sicily were of Dorian descent.[7] Other such "Dorian" colonies, originally from Corinth, Megara, and the Dorian islands, dotted the southern coasts of Sicily from Syracuse to Selinus.[8]
 
 
 Identity
 
 Ethnonym
 
-Pindus_Mountains_02_bgiu.jpg]]
+]]
 
 Dorian of Bronze Age Pylos
 
@@ -105,11 +105,11 @@ Erineus was a village of Doris. He helped to establish the Spartan constitution,
 
 Herodotus
 
-Helmed_Hoplite_Sparta.JPG.]]
+.]]
 
 Herodotus was from Halicarnassus, a Dorian colony on the southwest coast of Asia Minor; following the literary tradition of the times he wrote in Ionic Greek, being one of the last authors to do so. He described the Persian Wars, giving a thumbnail account of the histories of the antagonists, Greeks and Persians.
 
-Peloponnese_modis.jpg. Sparta was in the valley of the lowermost bay.]] Herodotus gives a general account of the events termed "the Dorian Invasion," presenting them as transfers of population. Their original home was in Thessaly, central Greece.[25] He goes on to expand in mythological terms, giving some of the geographic details of the myth:[26]
+. Sparta was in the valley of the lowermost bay.]] Herodotus gives a general account of the events termed "the Dorian Invasion," presenting them as transfers of population. Their original home was in Thessaly, central Greece.[25] He goes on to expand in mythological terms, giving some of the geographic details of the myth:[26]
 
   1.56.2-3 He found by inquiry that the chief peoples were the Lacedaemonians among those of Doric, and the Athenians among those of Ionic stock. These races, Ionian and Dorian, were the foremost in ancient time, the first a Pelasgian and the second a Hellenic people. The Pelasgian race has never yet left its home; the Hellenic has wandered often and far. For in the days of king Deucalion it inhabited the land of Phthia, then the country called Histiaean, under Ossa and Olympus, in the time of Dorus son of Hellen; driven from this Histiaean country by the Cadmeans, it settled about Pindus in the territory called Macedonian; from there again it migrated to Dryopia, and at last came from Dryopia into the Peloponnese, where it took the name of Dorian.
 

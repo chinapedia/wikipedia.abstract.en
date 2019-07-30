@@ -16,7 +16,7 @@ In Communist Hungary, the executive branch of the People's Republic of Hungary w
 
 Legislative branch
 
-Budapest_Parlament1.jpg.]] The unicameral, 199-member National Assembly (_Országgyűlés_) is the highest organ of state authority and initiates and approves legislation sponsored by the prime minister. Its members are elected for a four-year term. The election threshold is 5%, but it only applies to the multi-seat constituencies and the compensation seats, not the single-seat constituencies.
+.]] The unicameral, 199-member National Assembly (_Országgyűlés_) is the highest organ of state authority and initiates and approves legislation sponsored by the prime minister. Its members are elected for a four-year term. The election threshold is 5%, but it only applies to the multi-seat constituencies and the compensation seats, not the single-seat constituencies.
 
 
 Political parties and elections
@@ -24,7 +24,7 @@ Political parties and elections
 
 Judicial branches
 
-Constitutional_Court_of_Hungary.JPG.]] A fifteen-member Constitutional Court has power to challenge legislation on grounds of unconstitutionality. This body was last filled on July 2010. Members are elected for a term of twelve years.
+.]] A fifteen-member Constitutional Court has power to challenge legislation on grounds of unconstitutionality. This body was last filled on July 2010. Members are elected for a term of twelve years.
 
 The President of the Supreme Court of Hungary and the Hungarian civil and penal legal system he leads is fully independent of the Executive Branch.
 

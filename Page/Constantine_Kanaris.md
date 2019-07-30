@@ -3,8 +3,6 @@ CONSTANTINE KANARIS or CANARIS (; 1793 or 1795September 2, 1877) was a Greek Pri
 
 Early life
 
-Kanaris_Konstantinos_-_Greek_Fighter.JPG
-
 He was born and grew up on the island of Psara, close to the island of Chios, in the Aegean. His exact year of birth is unknown. The official records of the Hellenic Navy indicate 1795 but modern Greek historians believe that 1793 is more probable.
 
 Constantine was left an orphan at a young age. Having to support himself, he chose to become a seaman like most members of his family since the beginning of the 18th century. He was hired as a boy on the brig of his uncle Dimitris Bourekas.
@@ -18,13 +16,13 @@ By early 1821, it had gained enough support to declare a revolution. This declar
 
 The island formed its own fleet of ships and the famed seamen of Psara, already known for their successful naval combats against pirates and their well-equipped ships, proved to be effective at full naval war. Constantine soon distinguished himself as a fire ship captain.[2]
 
-Lytras-nikiforos-pyrpolisi-tourkikis-navarhidas-apo-kanari.jpeg by Kanaris.]]
+by Kanaris.]]
 
 At Chios, on the moonless night of June 6/June 7, 1822 forces under his command destroyed the flagship of the Turkish admiral Nasuhzade Ali Pasha in revenge for the Chios Massacre. The admiral was holding a celebration (Bayram), so Kanaris and his men managed to place a fire ship next to it without being noticed. When the flagship's powder store caught fire, all men aboard were instantly killed. The Ottoman casualties comprised 2000 men, both naval officers and common sailors, as well as Kara-Ali himself.
 
 Later in the year he led another successful attacks against the Turkish fleet at Tenedos in November 1822.
 
-Kanaris_Musket.jpg of Kanaris.]]
+of Kanaris.]]
 
 The Turkish fleet captured Psara on June 21, 1824. A part of the population, including Kanaris, managed to flee the island, but those who didn't were either sold into slavery or slaughtered.
 
@@ -36,8 +34,6 @@ Following the end of the war and the independence of Greece, Constantine became 
 
 
 Political career
-
-Oldkanaris.jpg
 
 Constantine Kanaris was one of the few with the personal confidence of Ioannis Kapodistrias the first Head of State of independent Greece.[4] Kanaris served as Minister in various governments and then as Prime Minister, in the provisional government, from March 11-April 11, 1844. He served a second term (October 27, 1848December 24, 1849), and as Navy Minister in Mavrokordatos' 1854 cabinet.
 
@@ -56,7 +52,7 @@ To honour Kanaris, three ships of the Hellenic Navy have been named after him;
 
 Family
 
-Constantine_Kanaris,_munument_in_Kypseli,_Athens.jpg.]] In 1817, he married Despina Maniatis, from a historical family of Psara. They had seven children:
+.]] In 1817, he married Despina Maniatis, from a historical family of Psara. They had seven children:
 
 -   Nikolaos Kanaris, (1818–1848) - a member of a military expeditionary force to Beirut, killed there in 1848.
 -   Themistoklis Kanaris, (1819–1851) - a member of a military expeditionary force to Egypt, killed there in 1851.

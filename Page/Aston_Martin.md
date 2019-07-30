@@ -1,4 +1,4 @@
-DSC06182-Aston_Martin_DBS_Superleggera.jpg, the brand's current flagship model]]
+, the brand's current flagship model]]
 
 ASTON MARTIN LAGONDA GLOBAL HOLDINGS PLC is a British independent manufacturer of luxury sports cars and grand tourers. It was founded in 1913 by Lionel Martin and Robert Bamford. Steered from 1947 by David Brown, it became associated with expensive grand touring cars in the 1950s and 1960s, and with the fictional character James Bond following his use of a DB5 model in the 1964 film _Goldfinger_. Their sports cars are regarded as a British cultural icon.[1] Aston Martin has held a Royal Warrant as purveyor of motorcars to the Prince of Wales since 1982.[2] It has over 150 car dealerships in over 50 countries on six continents, making them a global automobile brand.[3] The company is traded at the London Stock Exchange and is a constituent of the FTSE 250 Index.[4] In 2003 it received the Queen's Award for Enterprise for outstanding contribution to international trade.[5]
 
@@ -17,7 +17,7 @@ They acquired premises at Henniker Mews[20] in Kensington and produced their fir
 
 Inter war years
 
-1923_Aston_Martin_Razor_Blade_team_car_in_Morges_2013_-_AM_logo_and_radiator_calormeter_closeup.jpg 1924_Aston_Martin_sidevalve_tourer_-_fvl_(4668551949).jpg 1937_Aston_Martin_Kop_Hill_Climb_2010_5029332450.jpg After the war they found new premises at Abingdon Road, Kensington and designed a new car. Bamford left in 1920 and Bamford & Martin was revitalised with funding from Count Louis Zborowski. In 1922, Bamford & Martin produced cars to compete in the French Grand Prix, which went on to set world speed and endurance records at Brooklands. Three works Team Cars with 16-valve twin cam engines were built for racing and record breaking: chassis number 1914, later developed as the Green Pea; chassis number 1915, the Razor Blade record car; and chassis number 1916, later developed as the Halford Special.[22]
+After the war they found new premises at Abingdon Road, Kensington and designed a new car. Bamford left in 1920 and Bamford & Martin was revitalised with funding from Count Louis Zborowski. In 1922, Bamford & Martin produced cars to compete in the French Grand Prix, which went on to set world speed and endurance records at Brooklands. Three works Team Cars with 16-valve twin cam engines were built for racing and record breaking: chassis number 1914, later developed as the Green Pea; chassis number 1915, the Razor Blade record car; and chassis number 1916, later developed as the Halford Special.[22]
 
 Approximately 55 cars were built for sale in two configurations; long chassis and short chassis. Bamford & Martin went bankrupt in 1924 and was bought by Dorothea, Lady Charnwood who put her son John Benson on the board. Bamford & Martin got into financial difficulty again in 1925 and Martin was forced to sell the company (Bamford had already left).[23]
 
@@ -33,7 +33,7 @@ Financial problems reappeared in 1932. Aston Martin was rescued for a year by La
 
 David Brown
 
-1958-aston-martin-archives.jpg]]
+]]
 
 In 1947, old-established (1860) privately owned Huddersfield gear and machine tools manufacturer David Brown Limited bought Aston Martin putting it under control of its Tractor Group. David Brown became Aston Martin's latest saviour.[30] He also acquired without its factory Lagonda's business[31] for its 2.6-litre W. O. Bentley-designed engine. Lagonda moved operations to Newport Pagnell and shared engines, resources and workshops. Aston Martin began to build the classic "DB" series of cars.[32]
 
@@ -44,8 +44,6 @@ While these models helped Aston Martin establish a good racing pedigree, the DB4
 The six-cylinder engines of these cars from 1954 up to 1965 were designed by Tadek Marek.[36]
 
 Willson
-
-1986_Aston_Martin_V580_engine_from_the_rear.jpg
 
 Aston Martin was often financially troubled. In 1972, David Brown paid off all its debts, said to be £5 million or more, and handed it for £101 to Company Developments, a Birmingham-based investment bank consortium chaired by accountant William Willson.[37] More detail on this period may be read at Willson's biography. The worldwide recession, lack of working capital and the difficulties of developing an engine to meet California's exhaust emission requirements — it stopped the company's US sales — again pulled Aston Martin into receivership at the end of 1974. The company had employed 460 workers when the manufacturing plant closed.[38]
 
@@ -73,7 +71,7 @@ As trading became tighter in the petroleum market, and Aston Martin was requirin
 
 Although as a result Aston Martin had to make 60 members of the workforce redundant, Gauntlett bought a stake in Italian styling house Zagato, and resurrected its collaboration with Aston Martin.[57]
 
-Aston_Martin_Volante.jpg'']] In 1986, Gauntlett negotiated the return of fictional British secret agent James Bond to Aston Martin. Cubby Broccoli had chosen to recast the character using actor Timothy Dalton, in an attempt to re-root the Bond-brand back to a more Sean Connery-like feel. Gauntlett supplied his personal pre-production Vantage for use in the filming of _The Living Daylights_, and sold a Volante to Broccoli for use at his home in America. Gauntlett turned down the role of a KGB colonel in the film, however: "I would have loved to have done it but really could not afford the time."[58]
+'']] In 1986, Gauntlett negotiated the return of fictional British secret agent James Bond to Aston Martin. Cubby Broccoli had chosen to recast the character using actor Timothy Dalton, in an attempt to re-root the Bond-brand back to a more Sean Connery-like feel. Gauntlett supplied his personal pre-production Vantage for use in the filming of _The Living Daylights_, and sold a Volante to Broccoli for use at his home in America. Gauntlett turned down the role of a KGB colonel in the film, however: "I would have loved to have done it but really could not afford the time."[58]
 
 Aston Martin needed funds to survive in the long term. In May 1987, Gauntlett and Prince Michael of Kent were staying at the home of Contessa Maggi, the wife of the founder of the original Mille Miglia, while watching the revival event. Another house guest was Walter Hayes, vice-president of Ford of Europe. Despite problems over the previous acquisition of AC Cars, Hayes saw the potential of the brand and the discussion resulted in Ford taking a share holding in September 1987.[59] In 1988, having produced some 5,000 cars in 20 years, a revived economy and successful sales of limited edition Vantage, and 52 Volante Zagato coupés at £86,000 each; Aston Martin finally retired the ancient V8 and introduced the Virage range.[60]
 
@@ -227,7 +225,7 @@ In October 2018, Aston Martin announced it was opening a design and brand studio
 
 Motorsport
 
-1957AstonMartinDBR1.jpg at Goodwood Festival of Speed 2009]] Charouz_Lola_Aston_Martin.jpg competes with sports prototypes powered by an Aston Martin V12]] Aston_Martin_DBR9_24h200702.JPG ]]
+at Goodwood Festival of Speed 2009]] competes with sports prototypes powered by an Aston Martin V12]] ]]
 
 Whole race cars (post-war)
 

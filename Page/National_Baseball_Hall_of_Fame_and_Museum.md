@@ -15,7 +15,7 @@ Jeff Idelson replaced Petroskey as president on April 16, 2008.[3] He had been a
 
 Inductees
 
-Baseball_Hall_of_Fame_2009.jpg Among baseball fans, "Hall of Fame" means not only the museum and facility in Cooperstown, New York, but the pantheon of players, managers, umpires, executives, and pioneers who have been enshrined in the Hall. The first five men elected were Ty Cobb, Babe Ruth, Honus Wagner, Christy Mathewson and Walter Johnson, chosen in 1936; roughly 20 more were selected before the entire group was inducted at the Hall's 1939 opening. , 323 people had been elected to the Hall of Fame, including 226 former Major League Baseball players, 35 Negro league baseball players and executives, 22 managers, 10 umpires, and 30 pioneers, executives, and organizers. 114 members of the Hall of Fame have been inducted posthumously, including four who died after their selection was announced. Of the 35 Negro league members, 29 were inducted posthumously, including all 24 selected since the 1990s. The Hall of Fame includes one female member, Effa Manley.[5]
+Among baseball fans, "Hall of Fame" means not only the museum and facility in Cooperstown, New York, but the pantheon of players, managers, umpires, executives, and pioneers who have been enshrined in the Hall. The first five men elected were Ty Cobb, Babe Ruth, Honus Wagner, Christy Mathewson and Walter Johnson, chosen in 1936; roughly 20 more were selected before the entire group was inducted at the Hall's 1939 opening. , 323 people had been elected to the Hall of Fame, including 226 former Major League Baseball players, 35 Negro league baseball players and executives, 22 managers, 10 umpires, and 30 pioneers, executives, and organizers. 114 members of the Hall of Fame have been inducted posthumously, including four who died after their selection was announced. Of the 35 Negro league members, 29 were inducted posthumously, including all 24 selected since the 1990s. The Hall of Fame includes one female member, Effa Manley.[5]
 
 The newest members elected on January 22, 2019, are players Edgar Martínez, Roy Halladay, Mike Mussina and Mariano Rivera, with Rivera becoming the first player ever to be elected unanimously.[6]
 
@@ -113,7 +113,7 @@ The Hall has seen a noticeable decrease in attendance in recent years. A 2013 st
 
 First floor
 
-Baseball_Hall_of_Fame_Plaque_Gallery.jpg Gallery in 2001. The central pillar is for the newest (2000) inductees at the time.]] Picture_063.jpg
+Gallery in 2001. The central pillar is for the newest (2000) inductees at the time.]]
 
 -   BASEBALL AT THE MOVIES houses baseball movie memorabilia while a screen shows footage from those movies.
 -   The BULLPEN THEATER is the site of daily programming at the museum (trivia games, book discussions, etc.) and is decorated with pictures of famous relief pitchers.
@@ -164,7 +164,7 @@ Jackson and Rose were both banned from MLB for life for actions related to gambl
 
 United States Mint coins commemorating the 75th Anniversary
 
-National-baseball-hall-of-fame-2014-us-mint-coins.jpg In 2012, Congress passed and President Barack Obama signed a law ordering the United States Mint to produce and sell commemorative, non-circulating coins to benefit the private, non-profit Hall.[49][50] The bill, , was introduced in the United States House of Representatives by Rep. Richard Hanna, a Republican from New York, and passed the House on October 26, 2011.[51] The coins, which depict baseball gloves and balls, are the first concave designs produced by the Mint. The mintage included 50,000 gold coins, 400,000 silver coins, and 750,000 clad (Nickel-Copper) coins. The Mint released them on March 27, 2014, and the gold and silver editions quickly sold out. The Hall receives money from surcharges included in the sale price: a total of $9.5 million if all the coins are sold.[52]
+In 2012, Congress passed and President Barack Obama signed a law ordering the United States Mint to produce and sell commemorative, non-circulating coins to benefit the private, non-profit Hall.[49][50] The bill, , was introduced in the United States House of Representatives by Rep. Richard Hanna, a Republican from New York, and passed the House on October 26, 2011.[51] The coins, which depict baseball gloves and balls, are the first concave designs produced by the Mint. The mintage included 50,000 gold coins, 400,000 silver coins, and 750,000 clad (Nickel-Copper) coins. The Mint released them on March 27, 2014, and the gold and silver editions quickly sold out. The Hall receives money from surcharges included in the sale price: a total of $9.5 million if all the coins are sold.[52]
 
 
 See also

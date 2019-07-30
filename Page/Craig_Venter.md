@@ -34,7 +34,7 @@ The Global Ocean Sampling Expedition (GOS) is an ocean exploration genome projec
 
 Synthetic Genomics
 
-J._Craig_Vernter_Institute_Rockville_Maryland.jpg In June 2005, Venter co-founded Synthetic Genomics, a firm dedicated to using modified microorganisms to produce clean fuels and biochemicals. In July 2009, ExxonMobil announced a $600 million collaboration with Synthetic Genomics to research and develop next-generation biofuels.[31] Venter continues to work on the creation of engineered diatomic microalgae for the production of biofuels.[32][33][34]
+In June 2005, Venter co-founded Synthetic Genomics, a firm dedicated to using modified microorganisms to produce clean fuels and biochemicals. In July 2009, ExxonMobil announced a $600 million collaboration with Synthetic Genomics to research and develop next-generation biofuels.[31] Venter continues to work on the creation of engineered diatomic microalgae for the production of biofuels.[32][33][34]
 
 Venter is seeking to patent the first partially synthetic species possibly to be named _Mycoplasma laboratorium_.[35] There is speculation that this line of research could lead to producing bacteria that have been engineered to perform specific reactions, for example, produce fuels, make medicines, combat global warming, and so on.[36]
 

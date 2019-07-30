@@ -1,4 +1,4 @@
-Geyser_animation.gif A GEYSER (, )[1][2] is a spring characterized by intermittent discharge of water ejected turbulently and accompanied by steam. As a fairly rare phenomenon, the formation of geysers is due to particular hydrogeological conditions that exist only in a few places on Earth. Generally all geyser field sites are located near active volcanic areas, and the geyser effect is due to the proximity of magma. Generally, surface water works its way down to an average depth of around where it contacts hot rocks. The resultant boiling of the pressurized water results in the geyser effect of hot water and steam spraying out of the geyser's surface vent (a hydrothermal explosion).
+A GEYSER (, )[1][2] is a spring characterized by intermittent discharge of water ejected turbulently and accompanied by steam. As a fairly rare phenomenon, the formation of geysers is due to particular hydrogeological conditions that exist only in a few places on Earth. Generally all geyser field sites are located near active volcanic areas, and the geyser effect is due to the proximity of magma. Generally, surface water works its way down to an average depth of around where it contacts hot rocks. The resultant boiling of the pressurized water results in the geyser effect of hot water and steam spraying out of the geyser's surface vent (a hydrothermal explosion).
 
 A geyser's eruptive activity may change or cease due to ongoing mineral deposition within the geyser plumbing, exchange of functions with nearby hot springs, earthquake influences, and human intervention.[3] Like many other natural phenomena, geysers are not unique to planet Earth. Jet-like eruptions, often referred to as cryogeysers, have been observed on several of the moons of the outer solar system. Due to the low ambient pressures, these eruptions consist of vapor without liquid; they are made more easily visible by particles of dust and ice carried aloft by the gas. Water vapor jets have been observed near the south pole of Saturn's moon Enceladus, while nitrogen eruptions have been observed on Neptune's moon Triton. There are also signs of carbon dioxide eruptions from the southern polar ice cap of Mars. In the latter two cases, instead of being driven by geothermal energy, the eruptions seem to rely on solar heating via a solid-state greenhouse effect.
 
@@ -10,7 +10,7 @@ The term 'geyser' dates in English to the late 18th century originating from Ice
 
 Form and function
 
-Steamboat_Geyser_in_Yellowstone.jpg in Yellowstone National Park|thumb|250px]]
+in Yellowstone National Park|thumb|250px]]
 
 Geysers are nonpermanent geological features. Geysers are generally associated with volcanic areas.[5] As the water boils, the resulting pressure forces a superheated column of steam and water to the surface through the geyser's internal plumbing. The formation of geysers specifically requires the combination of three geologic conditions that are usually found in volcanic terrain.[6]
 
@@ -20,10 +20,10 @@ The heat needed for geyser formation comes from magma that needs to be close to 
 Eruptions
 
 +-------------------------------------------------------------------+
-|   -----------------------------------------------------------     |
-|   geyser_exploding_1_large.jpg geyser_exploding_2_large.jpg       |
-|   geyser_exploding_4_large.jpg geyser_exploding_3_large.jpg       |
-|   -----------------------------------------------------------     |
+|   ---                                                             |
+|                                                                   |
+|                                                                   |
+|   ---                                                             |
 +-------------------------------------------------------------------+
 | Strokkur geyser erupting (clockwise from top left)                |
 |                                                                   |
@@ -57,7 +57,7 @@ Geysers are fragile phenomena and if conditions change, they may go dormant or e
 
 Biology
 
-Grand_prismatic_spring.jpg, Yellowstone National Park]]
+, Yellowstone National Park]]
 
 The specific colours of geysers derive from the fact that despite the apparently harsh conditions, life is often found in them (and also in other hot habitats) in the form of thermophilic prokaryotes. No known eukaryote can survive over .[16]
 
@@ -67,8 +67,6 @@ However, the observations proved that it is actually possible for life to exist 
 
 
 Major geyser fields and their distribution
-
-World_geyser_distribution.gif
 
 Geysers are quite rare, requiring a combination of water, heat, and fortuitous plumbing. The combination exists in few places on Earth.[21][22]
 
@@ -82,7 +80,7 @@ The Valley of Geysers ("Dolina Geyzerov" in Russian) located in the Kamchatka Pe
 
 El Tatio, Chile
 
-ElTatioMovie.ogg geyser field]]
+geyser field]]
 
 The name "El Tatio" comes from the Quechua word for _oven_. El Tatio is located in the high valleys on the Andes surrounded by many active volcanoes in Chile, South America at around above mean sea level. The valley is home to approximately 80 geysers at present. It became the largest geyser field in the Southern Hemisphere after the destruction of many of the New Zealand geysers (see below), and is the third largest geyser field in the world. The salient feature of these geysers is that the height of their eruptions is very low, the tallest being only high, but with steam columns that can be over high. The average geyser eruption height at El Tatio is about .[29][30]
 
@@ -91,8 +89,6 @@ Taupo Volcanic Zone, New Zealand
 The Taupo Volcanic Zone is located on New Zealand's North Island. It is long by and lies over a subduction zone in the Earth's crust. Mount Ruapehu marks its southwestern end, while the submarine Whakatane volcano ( beyond White Island) is considered its northeastern limit.[31] Many geysers in this zone were destroyed due to geothermal developments and a hydroelectric reservoir, but several dozen geysers still exist. In the beginning of the 20th century, the largest geyser ever known, the Waimangu Geyser existed in this zone. It began erupting in 1900 and erupted periodically for four years until a landslide changed the local water table. Eruptions of Waimangu would typically reach and some superbursts are known to have reached .[32] Recent scientific work indicates that the Earth's crust below the zone may be as little as thick. Beneath this lies a film of magma wide and long.[33]
 
 Iceland
-
-Geysir_Area.jpg
 
 Due to the high rate of volcanic activity in Iceland, it is home to some famous geysers in the world. Geysers and hot springs are distributed all over the island. Many of the geysers are located in Haukadalur. Geysers are known to have existed in at least a dozen other areas on the island. _The Great Geysir_, which first erupted in the 14th century, gave rise to the word _geyser_. By 1896, Geysir was almost dormant before an earthquake that year caused eruptions to begin again, occurring several times a day, but in 1916, eruptions all but ceased. Throughout much of the 20th century, eruptions did happen from time to time, usually following earthquakes. Some man-made improvements were made to the spring and eruptions were forced with soap on special occasions. Earthquakes in June 2000 subsequently reawakened the giant for a time but it is not currently erupting regularly. The nearby Strokkur geyser erupts every 5–8 minutes to a height of some .[34][35]
 
@@ -118,7 +114,7 @@ This is a natural hot spring that spouts water constantly without stopping for r
 
 Commercialization
 
-Strokkur,_Iceland.jpg in Iceland – a tourist spot.]]
+in Iceland – a tourist spot.]]
 
 Geysers are used for various activities such as electricity generation, heating and tourism. Many geothermal reserves are found all around the world. The geyser fields in Iceland are some of the most commercially viable geyser locations in the world. Since the 1920s hot water directed from the geysers has been used to heat greenhouses and to grow food that otherwise could not have been cultivated in Iceland's inhospitable climate. Steam and hot water from the geysers has also been used for heating homes since 1943 in Iceland. In 1979 the U.S. Department of Energy (DOE) actively promoted development of geothermal energy in the "Geysers-Calistoga Known Geothermal Resource Area" (KGRA) near Calistoga, California through a variety of research programs and the Geothermal Loan Guarantee Program.[40] The Department is obligated by law to assess the potential environmental impacts of geothermal development.[41]
 

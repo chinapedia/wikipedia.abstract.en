@@ -16,8 +16,6 @@ Ahuizotl took his name from the animal ahuizotl, which the Aztecs considered to 
 
 Map
 
-Aztecexpansion.png
-
 
 In popular culture
 

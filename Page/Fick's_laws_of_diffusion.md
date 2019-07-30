@@ -1,4 +1,4 @@
-DiffusionMicroMacro.gif from a microscopic and macroscopic point of view. Initially, there are solute molecules on the left side of a barrier (purple line) and none on the right. The barrier is removed, and the solute diffuses to fill the whole container. TOP: A single molecule moves around randomly. MIDDLE: With more molecules, there is a clear trend where the solute fills the container more and more uniformly. BOTTOM: With an enormous number of solute molecules, randomness becomes undetectable: The solute appears to move smoothly and systematically from high-concentration areas to low-concentration areas. This smooth flow is described by Fick's laws.]] FICK'S LAWS OF DIFFUSION describe diffusion and were derived by Adolf Fick in 1855. They can be used to solve for the diffusion coefficient, . Fick's first law can be used to derive his second law which in turn is identical to the diffusion equation.
+from a microscopic and macroscopic point of view. Initially, there are solute molecules on the left side of a barrier (purple line) and none on the right. The barrier is removed, and the solute diffuses to fill the whole container. TOP: A single molecule moves around randomly. MIDDLE: With more molecules, there is a clear trend where the solute fills the container more and more uniformly. BOTTOM: With an enormous number of solute molecules, randomness becomes undetectable: The solute appears to move smoothly and systematically from high-concentration areas to low-concentration areas. This smooth flow is described by Fick's laws.]] FICK'S LAWS OF DIFFUSION describe diffusion and were derived by Adolf Fick in 1855. They can be used to solve for the diffusion coefficient, . Fick's first law can be used to derive his second law which in turn is identical to the diffusion equation.
 
 
 History
@@ -204,8 +204,6 @@ In particular, fluctuating hydrodynamic equations include a Fick's flow term, wi
 Sorption rate and collision frequency of diluted solute
 
 The adsorption or absorption rate of a diluted solute to a surface or interface in a (gas or liquid) solution can be calculated using Fick's laws of diffusion, whose solution is typically a Gaussian function. Considering one dimension that is perpendicular to the surface, the probability of any given solute molecule in the solution hit the surface is the error function of its diffusive broadening over the time of interest. Thus integrate these error functions and integrate it with all solute molecules in the bulk gives the adsorption rate of the solute in unit s^( − 1) to an area of interest:[8]
-
-Diffusive_sorption_probability.png
 
 $$r=\int_{z=0}^\infty A C{\int_{x=z}^\infty \frac {1} {\sqrt{4\pi D t}}e^{-\frac{x^2}{4Dt}}dx}dz=\frac {1}{2} AC\sqrt{\pi Dt}$$
 

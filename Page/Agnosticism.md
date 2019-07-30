@@ -53,11 +53,11 @@ United Kingdom
 
 Charles Darwin
 
-Charles_Darwin_seated_crop.jpg]] Raised in a religious environment, Charles Darwin (1809-1882) studied to be an Anglican clergyman. While eventually doubting parts of his faith, Darwin continued to help in church affairs, even while avoiding church attendance. Darwin stated that it would be "absurd to doubt that a man might be an ardent theist and an evolutionist".[50][51] Although reticent about his religious views, in 1879 he wrote that "I have never been an atheist in the sense of denying the existence of a God. – I think that generally ... an agnostic would be the most correct description of my state of mind."[52][53]
+]] Raised in a religious environment, Charles Darwin (1809-1882) studied to be an Anglican clergyman. While eventually doubting parts of his faith, Darwin continued to help in church affairs, even while avoiding church attendance. Darwin stated that it would be "absurd to doubt that a man might be an ardent theist and an evolutionist".[50][51] Although reticent about his religious views, in 1879 he wrote that "I have never been an atheist in the sense of denying the existence of a God. – I think that generally ... an agnostic would be the most correct description of my state of mind."[52][53]
 
 Thomas Henry Huxley
 
-ThomasHenryHuxley.jpg]] Agnostic views are as old as philosophical skepticism, but the terms agnostic and agnosticism were created by Huxley (1825-1895) to sum up his thoughts on contemporary developments of metaphysics about the "unconditioned" (William Hamilton) and the "unknowable" (Herbert Spencer). Though Huxley began to use the term "agnostic" in 1869, his opinions had taken shape some time before that date. In a letter of September 23, 1860, to Charles Kingsley, Huxley discussed his views extensively:[54][55]
+]] Agnostic views are as old as philosophical skepticism, but the terms agnostic and agnosticism were created by Huxley (1825-1895) to sum up his thoughts on contemporary developments of metaphysics about the "unconditioned" (William Hamilton) and the "unknowable" (Herbert Spencer). Though Huxley began to use the term "agnostic" in 1869, his opinions had taken shape some time before that date. In a letter of September 23, 1860, to Charles Kingsley, Huxley discussed his views extensively:[54][55]
 
 And again, to the same correspondent, May 6, 1863:[56]
 
@@ -75,7 +75,7 @@ In _Why I am an Agnostic_ (c. 1889) he claims that agnosticism is "the very reve
 
 Bertrand Russell
 
-Russell1907-2.jpg]] Bertrand Russell (1872-1970) declared _Why I Am Not a Christian_ in 1927, a classic statement of agnosticism.[61][62][63] He calls upon his readers to "stand on their own two feet and look fair and square at the world with a fearless attitude and a free intelligence".[64]
+]] Bertrand Russell (1872-1970) declared _Why I Am Not a Christian_ in 1927, a classic statement of agnosticism.[61][62][63] He calls upon his readers to "stand on their own two feet and look fair and square at the world with a fearless attitude and a free intelligence".[64]
 
 In 1939, Russell gave a lecture on _The existence and nature of God_, in which he characterized himself as an atheist. He said:[65]
 
@@ -97,7 +97,7 @@ United States
 
 Robert G. Ingersoll
 
-RobertGIngersoll.jpg]] Robert G. Ingersoll (1833-1899), an Illinois lawyer and politician who evolved into a well-known and sought-after orator in 19th-century America, has been referred to as the "Great Agnostic".[76]
+]] Robert G. Ingersoll (1833-1899), an Illinois lawyer and politician who evolved into a well-known and sought-after orator in 19th-century America, has been referred to as the "Great Agnostic".[76]
 
 In an 1896 lecture titled _Why I Am An Agnostic_, Ingersoll related why he was an agnostic:[77]
 
@@ -125,15 +125,13 @@ Bell considered a humanist to be a person who cannot rightly ignore the other wa
 
 Demographics
 
-Europe_No_Belief_enhanced.svg
-
 Demographic research services normally do not differentiate between various types of non-religious respondents, so agnostics are often classified in the same category as atheists or other non-religious people.[87]
 
 A 2010 survey published in _Encyclopædia Britannica_ found that the non-religious people or the agnostics made up about 9.6% of the world's population.[88] A November–December 2006 poll published in the _Financial Times_ gives rates for the United States and five European countries. The rates of agnosticism in the United States were at 14%, while the rates of agnosticism in the European countries surveyed were considerably higher: Italy (20%), Spain (30%), Great Britain (35%), Germany (25%), and France (32%).[89]
 
 A study conducted by the Pew Research Center found that about 16% of the world's people, the third largest group after Christianity and Islam, have no religious affiliation.[90] According to a 2012 report by the Pew Research Center, agnostics made up 3.3% of the US adult population.[91] In the _U.S. Religious Landscape Survey_, conducted by the Pew Research Center, 55% of agnostic respondents expressed "a belief in God or a universal spirit",[92] whereas 41% stated that they thought that they felt a tension "being non-religious in a society where most people are religious".[93]
 
-Irreligion_map.png According to the 2011 Australian Bureau of Statistics, 22% of Australians have "no religion", a category that includes agnostics.[94] Between 64% and 65%[95] of Japanese and up to 81%[96] of Vietnamese are atheists, agnostics, or do not believe in a god. An official European Union survey reported that 3% of the EU population is unsure about their belief in a god or spirit.[97]
+According to the 2011 Australian Bureau of Statistics, 22% of Australians have "no religion", a category that includes agnostics.[94] Between 64% and 65%[95] of Japanese and up to 81%[96] of Vietnamese are atheists, agnostics, or do not believe in a god. An official European Union survey reported that 3% of the EU population is unsure about their belief in a god or spirit.[97]
 
 
 Criticism

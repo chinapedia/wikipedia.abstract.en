@@ -1,4 +1,4 @@
-BibleSPaoloFol331vFrontRev.jpg, 9th century]] Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_236.png on Patmos'' by Julius Schnorr von Carolsfeld 1860.]]
+, 9th century]] on Patmos'' by Julius Schnorr von Carolsfeld 1860.]]
 
 The BOOK OF REVELATION, often called the REVELATION TO JOHN, the APOCALYPSE OF JOHN, THE REVELATION, or simply REVELATION, the REVELATION OF JESUS CHRIST (from its opening words) or the APOCALYPSE, is the final book of the New Testament, and therefore also the final book of the Christian Bible. It occupies a central place in Christian eschatology. Its title is derived from the first word of the text, written in Koine Greek: _apokalypsis_, meaning "unveiling" or "revelation" (before title pages and titles, books were commonly known by the incipit, their first words, as is also the case of the Hebrew Five Books of Moses (Torah)). The Book of Revelation is the only apocalyptic document in the New Testament canon (although there are short apocalyptic passages in various places in the Gospels and the Epistles).
 
@@ -11,11 +11,11 @@ The obscure and extravagant imagery has led to a wide variety of Christian inter
 
 Composition and setting
 
-Johannes_op_Patmos_Saint_John_on_Patmos_Berlin,_Staatlichen_Museen_zu_Berlin,_Gemaldegalerie_HR.jpg'' by Hieronymous Bosch, circa 1489]]
+'' by Hieronymous Bosch, circa 1489]]
 
 Title, authorship, and date
 
-ApocalypseStSeverFol026vJohnRecievesRev.jpg, 11th century.]] The name _Revelation_ comes from the first word of the book in Koine Greek: ἀποκάλυψις (_apokalypsis_), which means "unveiling" or "revelation". The author names himself as "John", but modern scholars consider it unlikely that the author of Revelation also wrote the Gospel of John. Pope Dionysius of Alexandria set out some of the evidence for this view as early as the second half of the third century, noting that the gospel and the epistles attributed to John, unlike Revelation, do not name their author, and that the Greek of the gospel is stylistically correct and elegant while that of Revelation is neither; some later scholars believe that the two books also have radical differences in theological perspective.
+, 11th century.]] The name _Revelation_ comes from the first word of the book in Koine Greek: ἀποκάλυψις (_apokalypsis_), which means "unveiling" or "revelation". The author names himself as "John", but modern scholars consider it unlikely that the author of Revelation also wrote the Gospel of John. Pope Dionysius of Alexandria set out some of the evidence for this view as early as the second half of the third century, noting that the gospel and the epistles attributed to John, unlike Revelation, do not name their author, and that the Greek of the gospel is stylistically correct and elegant while that of Revelation is neither; some later scholars believe that the two books also have radical differences in theological perspective.
 
 Tradition ascribes the authorship to John the Apostle, but it seems unlikely that the apostle could have lived into the most likely time for the book's composition, the reign of Domitian, and the author never states that he knew Jesus. All that is known is that this John was a Jewish Christian prophet, probably belonging to a group of such prophets, and was accepted as such by the congregations to whom he addresses his letter. His precise identity remains unknown, and modern scholarship commonly refers to him as "John of Patmos" (Revelation 1:9 – "I was put on the Island of Patmos").
 
@@ -68,7 +68,7 @@ There are approximately 300 Greek manuscripts of Revelation.[23] While the Codex
 
 Structure and content
 
-Beatus-tafel.jpg, circa 1150]] BritLibAddMS35166ApocalypseFolio003rAngelApeardToJohn.jpg, London.]] B_Escorial_a.jpg, circa 950.]]
+, circa 1150]] , London.]] , circa 950.]]
 
 Literary structure
 
@@ -76,7 +76,7 @@ Divisions in the book seem to be marked by the repetition of key phrases, by the
 
 Outline
 
-White_Rider_from_Tolkovy_Apocalyps_17th_century.jpgB_Osma_92v.jpg, 11th century]] B_Escorial_94v.jpg, circa 950.]] B_Osma_117v.jpg B_Escorial_108v.jpg Joseph_Martin_Kronheim_-_The_Sunday_at_Home_1880_-_Revelation_22-17.jpg colour plate illustrating Revelation 22:17 by Joseph Martin Kronheim]] B_Escorial_120.jpg ]] Brooklyn_Museum_-_The_Great_Red_Dragon_and_the_Woman_Clothed_with_the_Sun_(Rev._12_1-4)_-_William_Blake.jpg]]
+, 11th century]] , circa 950.]] colour plate illustrating Revelation 22:17 by Joseph Martin Kronheim]] ]] ]]
 
 1.  The Revelation of Jesus Christ
     1.  The Revelation of Jesus Christ is communicated to John of Patmos through prophetic visions. (1:1–9)
@@ -225,7 +225,7 @@ Most Christian interpretations fall into one or more of the following categories
 
 Eastern Orthodox
 
-Apokalipsis_XVI.jpg of the Apocalypse of St. John, 16th century.]] Eastern Orthodoxy treats the text as simultaneously describing contemporaneous events (events occurring at the same time) and as prophecy of events to come, for which the contemporaneous events were a form of foreshadow. It rejects attempts to determine, before the fact, if the events of Revelation are occurring by mapping them onto present-day events, taking to heart the Scriptural warning against those who proclaim "He is here!" prematurely. Instead, the book is seen as a warning to be spiritually and morally ready for the end times, whenever they may come ("as a thief in the night"), but they will come at the time of God's choosing, not something that can be precipitated nor trivially deduced by mortals.[31] This view is also held by many Catholics, although there is a diversity of opinion about the nature of the Apocalypse within Catholicism.
+of the Apocalypse of St. John, 16th century.]] Eastern Orthodoxy treats the text as simultaneously describing contemporaneous events (events occurring at the same time) and as prophecy of events to come, for which the contemporaneous events were a form of foreshadow. It rejects attempts to determine, before the fact, if the events of Revelation are occurring by mapping them onto present-day events, taking to heart the Scriptural warning against those who proclaim "He is here!" prematurely. Instead, the book is seen as a warning to be spiritually and morally ready for the end times, whenever they may come ("as a thief in the night"), but they will come at the time of God's choosing, not something that can be precipitated nor trivially deduced by mortals.[31] This view is also held by many Catholics, although there is a diversity of opinion about the nature of the Apocalypse within Catholicism.
 
 Book of Revelation is the only book of the New Testament that is not read during services by the Byzantine Rite Churches although in the Western Rite Orthodox Parishes, which are under the same bishops as the Byzantine Rite, it is read.
 

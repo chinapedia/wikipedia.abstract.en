@@ -9,7 +9,7 @@ Although morphologically related, the Lithuanian, Latvian and, particularly, Old
 
 Branches
 
-The Baltic languages are generally thought to form a single family with two branches, Eastern and Western. However, these two branches are sometimes classified as independent branches of Balto-Slavic.[5] Slavic_languages_tree.svg
+The Baltic languages are generally thought to form a single family with two branches, Eastern and Western. However, these two branches are sometimes classified as independent branches of Balto-Slavic.[5]
 
 Western Baltic languages †
 
@@ -36,7 +36,7 @@ Dniepr Baltic languages †
 
 Prehistory and history
 
-Baltic_Tribes_c_1200.svg It is believed that the Baltic languages are among the most archaic of the currently remaining Indo-European languages, despite their late attestation.
+It is believed that the Baltic languages are among the most archaic of the currently remaining Indo-European languages, despite their late attestation.
 
 Although the various Baltic tribes were mentioned by ancient historians as early as 98 B.C., the first attestation of a Baltic language was about 1350, with the creation of the _Elbing Prussian Vocabulary_, a German to Prussian translation dictionary. Lithuanian was first attested in a hymnal translation in 1545; the first printed book in Lithuanian, a Catechism by Martynas Mažvydas was published in 1547 in Königsberg, Prussia (now Kaliningrad, Russia). Latvian appeared in a hymnal in 1530 and in a printed Catechism in 1585.
 
@@ -51,7 +51,7 @@ After the Partitions of Commonwealth, most of the Baltic lands were under the ru
 
 Geographic distribution
 
-Baltic_languages.png Speakers of modern Baltic languages are generally concentrated within the borders of Lithuania and Latvia, and in emigrant communities in the United States, Canada, Australia and the countries within the former borders of the Soviet Union.
+Speakers of modern Baltic languages are generally concentrated within the borders of Lithuania and Latvia, and in emigrant communities in the United States, Canada, Australia and the countries within the former borders of the Soviet Union.
 
 Historically the languages were spoken over a larger area: west to the mouth of the Vistula river in present-day Poland, at least as far east as the Dniepr river in present-day Belarus, perhaps even to Moscow, and perhaps as far south as Kiev. Key evidence of Baltic language presence in these regions is found in hydronyms (names of bodies of water) that are characteristically Baltic. The use of hydronyms is generally accepted to determine the extent of a culture's influence, but _not_ the date of such influence.
 
@@ -66,7 +66,7 @@ Comparative linguistics
 
 Genetic relatedness
 
-The_epigram_of_Basel_-_oldest_known_inscription_in_Prussian_language_and_Baltic_language_in_general,_middle_of_14th_c.jpg and Baltic language in general, middle of 14th c]]
+and Baltic language in general, middle of 14th c]]
 
 The Baltic languages are of particular interest to linguists because they retain many archaic features, which are believed to have been present in the early stages of the Proto-Indo-European language.[9] However, linguists have had a hard time establishing the precise relationship of the Baltic languages to other languages in the Indo-European family.[10] Several of the extinct Baltic languages have a limited or nonexistent written record, their existence being known only from the records of ancient historians and personal or place names. All of the languages in the Baltic group (including the living ones) were first written down relatively late in their probable existence as distinct languages. These two factors combined with others have obscured the history of the Baltic languages, leading to a number of theories regarding their position in the Indo-European family.
 
@@ -75,8 +75,6 @@ The Baltic languages show a close relationship with the Slavic languages, and ar
 The traditional view is that the Balto-Slavic languages split into two branches, Baltic and Slavic, with each branch developing as a single common language (Proto-Baltic and Proto-Slavic) for some time afterwards. Proto-Baltic is then thought to have split into East Baltic and West Baltic branches. However, more recent scholarship has suggested that there was no unified Proto-Baltic stage, but that Proto-Balto-Slavic split directly into three groups: Slavic, East Baltic and West Baltic.[13][14] Under this view, the Baltic family is paraphyletic, and consists of all Balto-Slavic languages that are not Slavic. This would imply that Proto-Baltic, the last common ancestor of all Baltic languages, would be identical to Proto-Balto-Slavic itself, rather than distinct from it. In the 1960s Vladimir Toporov and Vyacheslav Ivanov made the following conclusions about the relationship between the Baltic and Slavic languages: a) Proto-Slavic language formed from the peripheral-type Baltic dialects; b) Slavic linguistic type formed later from the Baltic languages structural model; c) the Slavic structural model is a result of the Baltic languages structural model transformation. These scholars’ theses do not contradict the Baltic and Slavic languages closeness and from a historical perspective specify the Baltic-Slavic languages evolution.[15][16]
 
 Finally, there is a minority of scholars who argue that Baltic descended directly from Proto-Indo-European, without an intermediate common Balto-Slavic stage. They argue that the many similarities and shared innovations between Baltic and Slavic are due to several millennia of contact between the groups, rather than shared heritage.[17]
-
-Indoeuropean_languages_according_to_Wolfgang_P._Schmid.gif
 
 Thracian hypothesis
 

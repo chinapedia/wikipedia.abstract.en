@@ -1,4 +1,4 @@
-Pantheon_dome.jpg Pantheon, finished 128 AD, the largest unreinforced concrete dome in the world.[1]]] Pantheon_cupola.jpged dome was laid on moulds, mounted on temporary scaffolding.]] Museo_Foro_Caesaragusta_-_Cloaca_del_foro_03.JPG'' exposed in a characteristic Roman arch. In contrast to modern concrete structures, the concrete used in Roman buildings was usually covered with brick or stone.]] CONCRETE, usually PORTLAND CEMENT CONCRETE (for its visual resemblance to Portland stone),[2][3] is a composite material composed of fine and coarse aggregate bonded together with a fluid cement (cement paste) that hardens over time—most frequently in the past a lime-based cement binder, such as lime putty, but sometimes with other hydraulic cements, such as a calcium aluminate cement or Portland Cement. It is distinguished from other, non-cementitious types of concrete all binding some form of aggregate together, including asphalt concrete with a bitumen binder, which is frequently used for road surfaces, and polymer concretes that use polymers as a binder.
+Pantheon, finished 128 AD, the largest unreinforced concrete dome in the world.[1]]] ed dome was laid on moulds, mounted on temporary scaffolding.]] '' exposed in a characteristic Roman arch. In contrast to modern concrete structures, the concrete used in Roman buildings was usually covered with brick or stone.]] CONCRETE, usually PORTLAND CEMENT CONCRETE (for its visual resemblance to Portland stone),[2][3] is a composite material composed of fine and coarse aggregate bonded together with a fluid cement (cement paste) that hardens over time—most frequently in the past a lime-based cement binder, such as lime putty, but sometimes with other hydraulic cements, such as a calcium aluminate cement or Portland Cement. It is distinguished from other, non-cementitious types of concrete all binding some form of aggregate together, including asphalt concrete with a bitumen binder, which is frequently used for road surfaces, and polymer concretes that use polymers as a binder.
 
 When aggregate is mixed with dry Portland cement and water, the mixture forms a fluid slurry that is easily poured and molded into shape. The cement reacts with the water and other ingredients to form a hard matrix that binds the materials together into a durable stone-like material that has many uses.[4] Often, additives (such as pozzolans or superplasticizers) are included in the mixture to improve the physical properties of the wet mix or the finished material. Most concrete is poured with reinforcing materials (such as rebar) embedded to provide tensile strength, yielding reinforced concrete.
 
@@ -32,7 +32,7 @@ Modern tests show that _opus caementicium_ had as much compressive strength as m
 
 The long-term durability of Roman concrete structures has been found to be due to its use of pyroclastic (volcanic) rock and ash, whereby crystallization of strätlingite and the coalescence of calcium–aluminum-silicate–hydrate cementing binder helped give the concrete a greater degree of fracture resistance even in seismically active environments.[20] Roman concrete is significantly more resistant to erosion by seawater than modern concrete; it used pyroclastic materials which react with seawater to form Al-tobermorite crystals over time.[21][22]
 
-Smeaton's_Lighthouse00.jpg The widespread use of concrete in many Roman structures ensured that many survive to the present day. The Baths of Caracalla in Rome are just one example. Many Roman aqueducts and bridges, such as the magnificent Pont du Gard in southern France, have masonry cladding on a concrete core, as does the dome of the Pantheon.
+The widespread use of concrete in many Roman structures ensured that many survive to the present day. The Baths of Caracalla in Rome are just one example. Many Roman aqueducts and bridges, such as the magnificent Pont du Gard in southern France, have masonry cladding on a concrete core, as does the dome of the Pantheon.
 
 After the Roman Empire collapsed, use of concrete became rare until the technology was redeveloped in the mid-18th century. Worldwide, concrete has overtaken steel in tonnage of material used.[23]
 
@@ -69,7 +69,7 @@ The _mix design_ depends on the type of structure being built, how the concrete 
 
 Cement
 
-Stockage_de_ciments.JPG]]
+]]
 
 Portland cement is the most common type of cement in general usage. It is a basic ingredient of concrete, mortar and many plasters. British masonry worker Joseph Aspdin patented Portland cement in 1824. It was named because of the similarity of its color to Portland limestone, quarried from the English Isle of Portland and used extensively in London architecture. It consists of a mixture of calcium silicates (alite, belite), aluminates and ferrites—compounds which combine calcium, silicon, aluminum and iron in forms which will react with water. Portland cement and similar materials are made by heating limestone (a source of calcium) with clay or shale (a source of silicon, aluminum and iron) and grinding this product (called _clinker_) with a source of sulfate (most commonly gypsum).
 
@@ -91,8 +91,6 @@ Reaction:[37]
 
 Aggregates
 
-Gravel_03375C.JPG
-
 Fine and coarse aggregates make up the bulk of a concrete mixture. Sand, natural gravel, and crushed stone are used mainly for this purpose. Recycled aggregates (from construction, demolition, and excavation waste) are increasingly used as partial replacements for natural aggregates, while a number of manufactured aggregates, including air-cooled blast furnace slag and bottom ash are also permitted.
 
 The size distribution of the aggregate determines how much binder is required. Aggregate with a very even size distribution has the biggest gaps whereas adding aggregate with smaller particles tends to fill these gaps. The binder must fill the gaps between the aggregate as well as paste the surfaces of the aggregate together, and is typically the most expensive component. Thus, variation in sizes of the aggregate reduces the cost of concrete.[38] The aggregate is nearly always stronger than the binder, so its use does not negatively affect the strength of the concrete.
@@ -105,7 +103,7 @@ In addition to being decorative, exposed aggregate may add robustness to a concr
 
 Reinforcement
 
-Fotothek_df_ps_0000276_Montage_von_Bewehrungselementen_aus_Rundstahl.jpg cage that will be permanently embedded in a finished reinforced concrete structure]]
+cage that will be permanently embedded in a finished reinforced concrete structure]]
 
 Concrete is strong in compression, as the aggregate efficiently carries the compression load. However, it is weak in tension as the cement holding the aggregate in place can crack, allowing the structure to fail. Reinforced concrete adds either steel reinforcing bars, steel fibers, glass fibers, or plastic fibers to carry tensile loads.
 
@@ -138,7 +136,7 @@ Inorganic materials that have pozzolanic or latent hydraulic properties, these v
 
 Production
 
-Concrete_plant_in_Mansfield,_Ohio.jpg showing a concrete mixer being filled from ingredient silos]] Concrete_mixing_plant,_Birmingham,_Alabama,_view_2.jpg
+showing a concrete mixer being filled from ingredient silos]]
 
 Concrete production is the process of mixing together the various ingredients—water, aggregate, cement, and any additives—to produce concrete. Concrete production is time-sensitive. Once the ingredients are mixed, workers must put the concrete in place before it hardens. In modern usage, most concrete production takes place in a large type of industrial facility called a concrete plant, or often a batch plant.
 
@@ -158,7 +156,7 @@ has shown that the mixing of cement and water into a paste before combining thes
 
 Workability
 
-Cannon_Renewal_Project_-_October_2016_(30662609012).jpg being placed]] Concreteathruz.jpg
+being placed]]
 
 Workability is the ability of a fresh (plastic) concrete mix to fill the form/mold properly with the desired work (vibration) and without reducing the concrete's quality. Workability depends on water content, aggregate (shape and size distribution), cementitious content and age (level of hydration) and can be modified by adding chemical admixtures, like superplasticizer. Raising the water content or adding chemical admixtures increases concrete workability. Excessive water leads to increased bleeding or segregation of aggregates (when the cement and aggregates start to separate), with the resulting concrete having reduced quality. The use of an aggregate blend with an undesirable gradation[56] can result in a very harsh mix design with a very low slump, which cannot readily be made more workable by addition of reasonable amounts of water. An undesirable gradation can mean using a large aggregate that is too large for the size of the formwork, or which has too few smaller aggregate grades to serve to fill the gaps between the larger grades, or using too little or too much sand for the same reason, or using too little water, or too much cement, or even using jagged crushed stone instead of smoother round aggregate such as pebbles. Any combination of these factors and others may result in a mix which is too harsh, i.e., which does not flow or spread out smoothly, is difficult to get into the formwork, and which is difficult to surface finish.[57]
 
@@ -171,8 +169,6 @@ High-flow concrete, like self-consolidating concrete, is tested by other flow-me
 After mixing, concrete is a fluid and can be pumped to the location where needed.
 
 Curing
-
-Curing-concrete.jpg
 
 Concrete must be kept moist during curing in order to achieve optimal strength and durability.[59] During curing hydration occurs, allowing calcium-silicate hydrate (C-S-H) to form. Over 90% of a mix's final strength is typically reached within four weeks, with the remaining 10% achieved over years or even decades.[60] The conversion of calcium hydroxide in the concrete into calcium carbonate from absorption of CO₂ over several decades further strengthens the concrete and makes it more resistant to damage. This carbonation reaction, however, lowers the pH of the cement pore solution and can corrode the reinforcement bars.
 
@@ -197,8 +193,6 @@ Pervious concrete is a mix of specially graded coarse aggregate, cement, water a
 
 Nanoconcrete
 
-Decorative_cameo_plate.jpg Nanoconcrete_pavement,_Blakeslee,_PA.jpg
-
 Nanoconcrete contains Portland cement particles that are no greater than 100 μm.[64] It is a product of high-energy mixing (HEM) of cement, sand and water. To ensure the mixing is thorough enough to create nanoconcrete, the mixer must apply a total mixing power to the mixture of 30–600 watts per kilogram of the mix. This mixing must continue long enough to yield a net specific energy expended upon the mix of at least 5000 joules per kilogram of the mix.[65] and may be increased to 30–80 kJ per kilogram. A superplasticizer is then added to the activated mixture which can later be mixed with aggregates in a conventional concrete mixer. In the HEM process, the intense mixing of cement and water with sand provides dissipation and absorption of energy by the mixture and increases shear stresses on the surface of cement particles. As a result, the temperature of the mixture increases by 20–25 degrees Celsius. This intense mixing serves to deepen hydration process inside the cement particles. The nano-sized colloid Calcium Silicate Hydrate (C-S-H) formation increased several times compared with conventional mixing. Thus, the ordinary concrete transforms to nanoconcrete. The initial natural process of cement hydration with formation of colloidal globules about 5 nm in diameter[66] spreads into the entire volume of cement–water matrix as the energy expended upon the mix.[67] The liquid activated high-energy mixture can be used by itself for casting small architectural details and decorative items, or foamed (expanded) for lightweight concrete. HEM Nanoconcrete hardens in low and subzero temperature conditions because the liquid phase inside the nano-pores of C-S-H gel doesn't freeze at temperatures from −8 to −42 degrees Celsius.[68] The increased volume of gel reduces capillarity in solid and porous materials.
 
 Microbial
@@ -219,7 +213,7 @@ Properties
 
 Concrete has relatively high compressive strength, but much lower tensile strength.[74] Therefore, it is usually reinforced with materials that are strong in tension (often steel). The elasticity of concrete is relatively constant at low stress levels but starts decreasing at higher stress levels as matrix cracking develops. Concrete has a very low coefficient of thermal expansion and shrinks as it matures. All concrete structures crack to some extent, due to shrinkage and tension. Concrete that is subjected to long-duration forces is prone to creep.
 
-Tests can be performed to ensure that the properties of concrete correspond to specifications for the application. Concrete_Compression_Testing.jpg
+Tests can be performed to ensure that the properties of concrete correspond to specifications for the application.
 
 Different mixes of concrete ingredients produce different strengths. Concrete strength values are usually specified as the lower-bound compressive strength of either a cylindrical or cubic specimen as determined by standard test procedures.
 
@@ -228,13 +222,13 @@ Different strengths of concrete are used for different purposes. Very low-streng
 
 In construction
 
-Buffalo_City_Court_Building,_1971-74,_Pfohl,_Roberts_and_Biggie_(8448022295).jpg in Buffalo, New York]]
+in Buffalo, New York]]
 
 Concrete is one of the most durable building materials. It provides superior fire resistance compared with wooden construction and gains strength over time. Structures made of concrete can have a long service life. Concrete is used more than any other artificial material in the world.[80] As of 2006, about 7.5 billion cubic meters of concrete are made each year, more than one cubic meter for every person on Earth.[81]
 
 Mass structures
 
-UserKTrimble-AP_Taum_Sauk_Reservoir_UnderConstruction_Nov_22_2009_crop1.jpg (Missouri) pumped storage facility in late November 2009. After the original reservoir failed, the new reservoir was made of roller-compacted concrete.]]
+(Missouri) pumped storage facility in late November 2009. After the original reservoir failed, the new reservoir was made of roller-compacted concrete.]]
 
 Due to cement's exothermic chemical reaction while setting up, large concrete structures such as dams, navigation locks, large mat foundations, and large breakwaters generate excessive heat during hydration and associated expansion. To mitigate these effects, _post-cooling_[82] is commonly applied during construction. An early example at Hoover Dam used a network of pipes between vertical concrete placements to circulate cooling water during the curing process to avoid damaging overheating. Similar systems are still used; depending on volume of the pour, the concrete mix used, and ambient air temperature, the cooling process may last for many months after the concrete is placed. Various methods also are used to pre-cool the concrete mix in mass concrete structures.[83]
 
@@ -242,7 +236,7 @@ Another approach to mass concrete structures that minimizes cement's thermal byp
 
 Surface finishes
 
-Smpolishedconcrete2.jpg Raw concrete surfaces tend to be porous and have a relatively uninteresting appearance. Many different finishes can be applied to improve the appearance and preserve the surface against staining, water penetration, and freezing.
+Raw concrete surfaces tend to be porous and have a relatively uninteresting appearance. Many different finishes can be applied to improve the appearance and preserve the surface against staining, water penetration, and freezing.
 
 Examples of improved appearance include stamped concrete where the wet concrete has a pattern impressed on the surface, to give a paved, cobbled or brick-like effect, and may be accompanied with coloration. Another popular effect for flooring and table tops is polished concrete where the concrete is polished optically flat with diamond abrasives and sealed with polymers or other sealants.
 
@@ -252,7 +246,7 @@ The proper treatment of the surface of concrete, and therefore its characteristi
 
 Prestressed structures
 
-Scott_System_cacti.jpg]]
+]]
 
 Prestressed concrete is a form of reinforced concrete that builds in compressive stresses during construction to oppose tensile stresses experienced in use. This can greatly reduce the weight of beams or slabs, by better distributing the stresses in the structure to make optimal use of the reinforcement. For example, a horizontal beam tends to sag. Prestressed reinforcement along the bottom of the beam counteracts this. In pre-tensioned concrete, the prestressing is achieved by using steel or polymer tendons or bars that are subjected to a tensile force prior to casting, or for post-tensioned concrete, after casting.
 
@@ -286,7 +280,7 @@ Once in place, concrete offers great energy efficiency over the lifetime of a bu
 
 Fire safety
 
-Boston_City_Hall_-_Boston,_MA_-_DSC04704_(cropped).JPG (1968) is a Brutalist design constructed largely of precast and poured in place concrete. It was voted "The World's Ugliest Building" in 2008]]
+(1968) is a Brutalist design constructed largely of precast and poured in place concrete. It was voted "The World's Ugliest Building" in 2008]]
 
 Concrete buildings are more resistant to fire than those constructed using steel frames, since concrete has lower heat conductivity than steel and can thus last longer under the same fire conditions. Concrete is sometimes used as a fire protection for steel frames, for the same effect as above. Concrete as a fire shield, for example Fondu fyre, can also be used in extreme environments like a missile launch pad.
 
@@ -301,9 +295,9 @@ As discussed above, concrete is very strong in compression, but weak in tension.
 
 Degradation
 
-Betonrot_Hippodroom.JPG caused by the corrosion of rebar]]
+caused by the corrosion of rebar]]
 
-Concrete can be damaged by many processes, such as the expansion of corrosion products of the steel reinforcement bars, freezing of trapped water, fire or radiant heat, aggregate expansion, sea water effects, bacterial corrosion, leaching, erosion by fast-flowing water, physical damage and chemical damage (from carbonatation, chlorides, sulfates and distillate water).[95] The micro fungi Aspergillus Alternaria and Cladosporium were able to grow on samples of concrete used as a radioactive waste barrier in the Chernobyl reactor; leaching aluminum, iron, calcium, and silicon.[96] Tunkhannock_Viaduct,_NE_Pennsylvania_USA.jpg in northeastern Pennsylvania opened in 1912 and is still in regular use today]]
+Concrete can be damaged by many processes, such as the expansion of corrosion products of the steel reinforcement bars, freezing of trapped water, fire or radiant heat, aggregate expansion, sea water effects, bacterial corrosion, leaching, erosion by fast-flowing water, physical damage and chemical damage (from carbonatation, chlorides, sulfates and distillate water).[95] The micro fungi Aspergillus Alternaria and Cladosporium were able to grow on samples of concrete used as a radioactive waste barrier in the Chernobyl reactor; leaching aluminum, iron, calcium, and silicon.[96] in northeastern Pennsylvania opened in 1912 and is still in regular use today]]
 
 
 Environmental and health
@@ -316,7 +310,7 @@ Concrete is used to create hard surfaces that contribute to surface runoff, whic
 
 Concrete is a contributor to the urban heat island effect, though less so than asphalt.[101]
 
-Workers who cut, grind or polish concrete are at risk of inhaling airborne silica, which can lead to silicosis.[102] This includes crew members who work in concrete chipping. The presence of some substances in concrete, including useful and unwanted additives, can cause health concerns due to toxicity and radioactivity. Fresh concrete (before curing is complete) is highly alkaline and must be handled with proper protective equipment. Crushed_Concrete_Granular_Fill.jpg
+Workers who cut, grind or polish concrete are at risk of inhaling airborne silica, which can lead to silicosis.[102] This includes crew members who work in concrete chipping. The presence of some substances in concrete, including useful and unwanted additives, can cause health concerns due to toxicity and radioactivity. Fresh concrete (before curing is complete) is highly alkaline and must be handled with proper protective equipment.
 
 Recycling
 

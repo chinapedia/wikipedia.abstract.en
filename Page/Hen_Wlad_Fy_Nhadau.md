@@ -14,8 +14,6 @@ The popularity of the song increased after the Llangollen festival of 1858. Thom
 
 At the Bangor Eisteddfod of 1874 "Hen Wlad fy Nhadau" gained further popularity when it was sung by Robert Rees ("Eos Morlais"), one of the leading Welsh soloists of his day.[8] It was increasingly sung at patriotic gatherings and gradually it developed into a national anthem.[9]
 
-Hen_Wlad_Fy_Nhadau.ogg
-
 "Hen wlad fy nhadau" was also one of the first Welsh-language songs recorded when Madge Breese sang it on 11 March 1899, for the Gramophone Company, as part of the first recording in the Welsh language.[10][11]
 
 In 1905, "Hen Wlad Fy Nhadau" became the first national anthem to be sung at the start of a sporting event.[12][13] Although crowds singing anthems during matches was commonplace, there was no precedent for the anthem to be sung before a game commenced in any sport. The Welsh national rugby team were playing host to the first touring New Zealand team, who to that point were unbeaten. After Wales won the Triple Crown in the 1905 Home Nations Championship the match was dubbed the 'Game of the Century' by the press. The New Zealand team started every match with the Haka, and Welsh Rugby Union administrator Tom Williams, suggested that Wales player Teddy Morgan lead the crowd in the singing of the anthem as a response. After Morgan began singing, the crowd joined in,[14] and Wales became the first nation to sing a national anthem at the start of a sporting event.[15]
@@ -87,7 +85,7 @@ If the enemy oppresses my land under his foot, The old language of the Welsh is 
 
 Cultural influence
 
-Royal_Badge_of_Wales_(2008).svg]] The Welsh poet Dylan Thomas is often quoted as saying "The land of my fathers. My fathers can have it!" in reference to Wales. However, this is misleading, as it was a villainous character in one of Thomas' short stories that spoke this line.
+]] The Welsh poet Dylan Thomas is often quoted as saying "The land of my fathers. My fathers can have it!" in reference to Wales. However, this is misleading, as it was a villainous character in one of Thomas' short stories that spoke this line.
 
 Gwynfor Evans named his history of Wales _Land of my fathers: 2,000 years of Welsh history_. It was a translation of the Welsh original, _Aros Mae_.
 
@@ -96,7 +94,7 @@ The £1 coins minted in 1985, 1990, 1995 and 2000 with a Welsh emblem on the rev
 
 _Gwlad Newydd y Cymry_
 
-Patagonia_Anthem.JPG A version of "Hen Wlad Fy Nhadau" was written by Lewis Evans, a migrant from Wales to Y Wladfa, a Welsh-speaking settlement in Patagonia, South America. The version penned by Evans is called _Gwlad Newydd y Cymry_ (The New Country of the Welsh). _Gwlad Newydd y Cymry_ is played to the same tune as "Hen Wlad Fy Nhadau".[27]
+A version of "Hen Wlad Fy Nhadau" was written by Lewis Evans, a migrant from Wales to Y Wladfa, a Welsh-speaking settlement in Patagonia, South America. The version penned by Evans is called _Gwlad Newydd y Cymry_ (The New Country of the Welsh). _Gwlad Newydd y Cymry_ is played to the same tune as "Hen Wlad Fy Nhadau".[27]
 
 The lyrics to _Gwlad Newydd y Cymry_ are as follows (note that the spelling is not consistent with modern Welsh):
 

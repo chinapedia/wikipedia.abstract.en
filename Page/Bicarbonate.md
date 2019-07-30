@@ -20,7 +20,7 @@ A bicarbonate salt forms when a positively charged ion attaches to the negativel
 
 Physiological role
 
-Riassorbimento_bicarbonati_e_respirazione_cellulare.svg to form H₂CO₃, which is in equilibrium with the cation H⁺ and anion HCO₃^(−). It is then carried to the lung, where the reverse reaction occurs and CO₂ gas is released. In the kidney (left), cells (green) lining the proximal tubule conserve bicarbonate by transporting it from the glomerular filtrate in the lumen (yellow) of the nephron back into the blood (red). The exact stoichiometry in the kidney is omitted for simplicity.]] Bicarbonate () is a vital component of the pH buffering system[5] of the human body (maintaining acid–base homeostasis). 70%–75% of CO₂ in the body is converted into carbonic acid (H₂CO₃), which is the conjugate acid of and can quickly turn into it.
+to form H₂CO₃, which is in equilibrium with the cation H⁺ and anion HCO₃^(−). It is then carried to the lung, where the reverse reaction occurs and CO₂ gas is released. In the kidney (left), cells (green) lining the proximal tubule conserve bicarbonate by transporting it from the glomerular filtrate in the lumen (yellow) of the nephron back into the blood (red). The exact stoichiometry in the kidney is omitted for simplicity.]] Bicarbonate () is a vital component of the pH buffering system[5] of the human body (maintaining acid–base homeostasis). 70%–75% of CO₂ in the body is converted into carbonic acid (H₂CO₃), which is the conjugate acid of and can quickly turn into it.
 
 With carbonic acid as the central intermediate species, bicarbonate – in conjunction with water, hydrogen ions, and carbon dioxide – forms this buffering system, which is maintained at the volatile equilibrium[6] required to provide prompt resistance to pH changes in both the acidic and basic directions. This is especially important for protecting tissues of the central nervous system, where pH changes too far outside of the normal range in either direction could prove disastrous (see acidosis or alkalosis).
 
@@ -49,7 +49,7 @@ In diagnostic medicine, the blood value of bicarbonate is one of several indicat
 
 The parameter _standard bicarbonate concentration_ (SBC_(e)) is the bicarbonate concentration in the blood at a P_(a)CO₂ of , full oxygen saturation and 36 °C.[9]
 
-Reference_ranges_for_blood_tests_-_by_molarity.png, comparing blood content of bicarbonate (shown in blue at right) with other constituents.]]
+, comparing blood content of bicarbonate (shown in blue at right) with other constituents.]]
 
 
 Bicarbonate compounds

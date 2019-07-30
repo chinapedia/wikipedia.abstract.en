@@ -15,8 +15,6 @@ Djibouti can be divided into four physiographic regions
 3.  Grand Bara
 4.  The Southern Mountains
 
-Goda_Mountains_-_National_Park_of_Forêt_du_Day.jpg
-
 Mountains
 
 A great arc of mountains, consisting of the Mousa Ali, Goda Mountains, and Arrei Mountains surrounds Djibouti.
@@ -34,16 +32,16 @@ Djibouti has eight mountain ranges with peaks of over 1,000 m (3,281 ft).[2]
 
 Grand Bara
 
-Baadha_Wayn_(Grand_Bara).jpg The Grand Bara Desert covers parts of southern Djibouti in the Arta Region, Ali Sabieh Region and Dikhil Region. The majority of the Grand Bara Desert lies at a relatively low elevation, below 1,700 feet (560 m). Home of the popular Grand Bara footrace.
+The Grand Bara Desert covers parts of southern Djibouti in the Arta Region, Ali Sabieh Region and Dikhil Region. The majority of the Grand Bara Desert lies at a relatively low elevation, below 1,700 feet (560 m). Home of the popular Grand Bara footrace.
 
 Coasts
 
-Most of Djibouti has been described as part of the Ethiopian xeric grasslands and shrublands ecoregion. The exception is a strip along the Red Sea coast, which is part of the Eritrean coastal desert; it is noted as an important migration route for birds of prey.[4] Djiboutimap.png
+Most of Djibouti has been described as part of the Ethiopian xeric grasslands and shrublands ecoregion. The exception is a strip along the Red Sea coast, which is part of the Eritrean coastal desert; it is noted as an important migration route for birds of prey.[4]
 
 
 Djibouti Regions
 
-The area of the regions of Djibouti is set out in the table below. Rainfall_Of_Djibouti.png
+The area of the regions of Djibouti is set out in the table below.
 
   Rank   Name                Area
   ------ ------------------- -----------
@@ -59,7 +57,7 @@ The area of the regions of Djibouti is set out in the table below. Rainfall_Of_D
 
 Climate
 
-There is not much seasonal variation in Djibouti's climate. Hot conditions prevail year-round along with winter rainfall. Mean daily maximum temperatures range from 32 to 41 °C (90 to 106 °F), except at high elevations. In Djibouti City, for instance, afternoon highs in April typically range from 28 °C (82 °F) to 34 °C (93 °F) in April. Nationally, mean daily minima generally vary between sites from about 15 to 30 °C (59 to 86 °F). The greatest range in climate occurs in eastern Djibouti, where temperatures sometimes surpass 41 °C (106 °F) in July on the littoral plains and fall below freezing point during December in the highlands. In this region, relative humidity ranges from about 40% in the mid-afternoon to 85% at night, changing somewhat according to the season.Djibouti's_map_of_Köppen_climate_classification.png
+There is not much seasonal variation in Djibouti's climate. Hot conditions prevail year-round along with winter rainfall. Mean daily maximum temperatures range from 32 to 41 °C (90 to 106 °F), except at high elevations. In Djibouti City, for instance, afternoon highs in April typically range from 28 °C (82 °F) to 34 °C (93 °F) in April. Nationally, mean daily minima generally vary between sites from about 15 to 30 °C (59 to 86 °F). The greatest range in climate occurs in eastern Djibouti, where temperatures sometimes surpass 41 °C (106 °F) in July on the littoral plains and fall below freezing point during December in the highlands. In this region, relative humidity ranges from about 40% in the mid-afternoon to 85% at night, changing somewhat according to the season.
 
 Djibouti has either a hot semi-arid climate (_BSh_) or a hot desert climate (_BWh_), although temperatures are much moderated at the high elevations. On the coastal seaboard, annual rainfall is less than 5 inches (131 mm); in the highlands, it is about 8 to 16 inches (200 to 400 mm). Although the coastal regions are hot and humid throughout the year, the hinterland is typically hot and dry. The climate conditions are highly variable within the country and vary locally by altitude. Summers are very humid along the coast but dry in the highlands. Heat waves are frequent. Annual precipitation amounts vary greatly from one year to another. In general, rain falls more frequently and extensively in the mountains. Sudden and brutal storms are also known to occur. Wadis turn for a few hours into raging torrents tearing everything in their path, and their course is regularized. Rainwater serves as an additional water supply for livestock and plants alongside seasonal watercourses. The highlands have temperate climate throughout out the year. The climate of most lowland zones is arid and semiarid.
 
@@ -77,7 +75,7 @@ Graphically the seasons can be represented this way:
 
 Selected elevations of notable locations
 
-Arrei_Mountains_see_from_Ali_Sabieh.JPG see from Ali Sabieh.]]
+see from Ali Sabieh.]]
 
 +-------------------+------------+-----------+-----------+
 | Location          | Region     | Elevation | Elevation |
@@ -111,7 +109,7 @@ Lake Assal is the lowest point in Africa.
 
 Resources and land use
 
-Grazing_camel_in_Ali_Sabieh_Region.jpg.]] LAND USE: _arable land:_ 0.1%
+.]] LAND USE: _arable land:_ 0.1%
 _permanent pasture:_ 73.3%
 _forest:_ 0.2%
 _other:_ 26.4% (2011)
@@ -138,7 +136,7 @@ Djibouti is a party to international agreements on biodiversity, climate change,
 
 Coastline
 
-Republic_of_Djibouti_Maritime_Borders.png Djibouti has a coastline which measures about 314 kilometres (195 mi). Much of the coastline is accessible and quite varied in geography and habitats.
+Djibouti has a coastline which measures about 314 kilometres (195 mi). Much of the coastline is accessible and quite varied in geography and habitats.
 
 Inlets
 
@@ -154,7 +152,7 @@ Maritime claims
 
 Human geography
 
-Satellite_images_of_Djibouti_during_the_night.png As of 2015, the population of Djibouti is 846 thousand.
+As of 2015, the population of Djibouti is 846 thousand.
 
 For statistical purposes, the country has three areas; Djibouti City (population 529,000), Ali Sabieh (population 55,000), and Dikhil (population 54,000). Djibouti's population is diverse demographically; 60% Somali, 35% Afar, and 3% Arabs. In terms of religion, 94% Muslim, 6% Christian.
 

@@ -28,7 +28,7 @@ Tiberius's land reform commission continued distributing lands, albeit much more
 
 Reforms of Gaius Gracchus
 
-Gaius_Gracchus_Tribune_of_the_People.jpg.]] Ten years later, in 123 BC, Gaius took the same office as his brother, as a tribune for the plebeians. Gaius was more practically minded than Tiberius and consequently was considered more dangerous by the senatorial class. He gained support from the agrarian poor by reviving the land reform programme and from the urban poor with various popular measures. He also sought support from the second estate, those equestrians who had not ascended to become senators.
+.]] Ten years later, in 123 BC, Gaius took the same office as his brother, as a tribune for the plebeians. Gaius was more practically minded than Tiberius and consequently was considered more dangerous by the senatorial class. He gained support from the agrarian poor by reviving the land reform programme and from the urban poor with various popular measures. He also sought support from the second estate, those equestrians who had not ascended to become senators.
 
 Many equestrians were publicans, in charge of tax collecting in the Roman province of Asia (located in western Anatolia), and of contracting for construction projects. The equestrian class would get to control a court that tried senators for misconduct in provincial administration. In effect, the equestrians replaced senators already serving at the court. Thus, Gaius became an opponent of senatorial influence. Other reforms implemented by Gaius included fixing prices on grain for the urban population and granting improvements in citizenship for Latins and others outside the city of Rome.
 

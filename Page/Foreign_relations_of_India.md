@@ -24,11 +24,9 @@ Though India continues to have a military relationship with Russia,[29] Israel h
 
 Policy
 
-Diplomatic_missions_of_India.PNG
-
 India's foreign policy has always regarded the concept of neighbourhood as one of widening concentric circles, around a central axis of historical and cultural commonalities.[33]
 
-Bush_meets_Pranab_Mukherjee.jpg, the former Finance Minister of India and former President of India with former US President George W. Bush in 2008.]]
+, the former Finance Minister of India and former President of India with former US President George W. Bush in 2008.]]
 
 As many as 44 million people of Indian origin live and work abroad and constitute an important link with the mother country. An important role of India's foreign policy has been to ensure their welfare and wellbeing within the framework of the laws of the country where they live.[34]
 
@@ -61,11 +59,11 @@ The policy was given an initial thrust with the then Prime Minister Narasimha Ra
 
 Overview
 
-Cross_hall_India_USA.jpg with US President Barack Obama in 2009.]] In the 1990s, India's economic problems and the demise of the bipolar world political system forced India to reassess its foreign policy and adjust its foreign relations. Previous policies proved inadequate to cope with the serious domestic and international problems facing India. The end of the Cold War gutted the core meaning of nonalignment and left Indian foreign policy without significant direction. The hard, pragmatic considerations of the early 1990s were still viewed within the nonaligned framework of the past, but the disintegration of the Soviet Union removed much of India's international leverage, for which relations with Russia and the other post-Soviet states could not compensate. After the dissolution of the Soviet Union, India improved its relations with the United States, Canada, France, Japan and Germany. In 1992, India established formal diplomatic relations with Israel and this relationship grew during the tenures of the Bharatiya Janata Party (BJP) government and the subsequent UPA (United Progressive Alliance) governments.[46]
+with US President Barack Obama in 2009.]] In the 1990s, India's economic problems and the demise of the bipolar world political system forced India to reassess its foreign policy and adjust its foreign relations. Previous policies proved inadequate to cope with the serious domestic and international problems facing India. The end of the Cold War gutted the core meaning of nonalignment and left Indian foreign policy without significant direction. The hard, pragmatic considerations of the early 1990s were still viewed within the nonaligned framework of the past, but the disintegration of the Soviet Union removed much of India's international leverage, for which relations with Russia and the other post-Soviet states could not compensate. After the dissolution of the Soviet Union, India improved its relations with the United States, Canada, France, Japan and Germany. In 1992, India established formal diplomatic relations with Israel and this relationship grew during the tenures of the Bharatiya Janata Party (BJP) government and the subsequent UPA (United Progressive Alliance) governments.[46]
 
 In the mid-1990s, India attracted the world attention towards the Pakistan-backed terrorism in Kashmir. The Kargil War resulted in a major diplomatic victory for India. The United States and European Union recognised the fact that Pakistani military had illegally infiltrated into Indian territory and pressured Pakistan to withdraw from Kargil. Several anti-India militant groups based in Pakistan were labelled as terrorist groups by the United States and European Union.
 
-BRICS_heads_of_state_and_government_hold_hands_ahead_of_the_2014_G-20_summit_in_Brisbane,_Australia_(Agencia_Brasil).jpg, Narendra Modi, Dilma Rousseff, Xi Jinping and Jacob Zuma, 2014.]] In 1998, India tested nuclear weapons for the second time (see Pokhran-II) which resulted in several US, Japanese and European sanctions on India. India's then-defence minister, George Fernandes, said that India's nuclear programme was necessary as it provided a deterrence to potential Chinese nuclear threat. Most of the sanctions imposed on India were removed by 2001.[47]
+, Narendra Modi, Dilma Rousseff, Xi Jinping and Jacob Zuma, 2014.]] In 1998, India tested nuclear weapons for the second time (see Pokhran-II) which resulted in several US, Japanese and European sanctions on India. India's then-defence minister, George Fernandes, said that India's nuclear programme was necessary as it provided a deterrence to potential Chinese nuclear threat. Most of the sanctions imposed on India were removed by 2001.[47]
 
 After September 11 attacks in 2001, Indian intelligence agencies provided the US with significant information on Al-Qaeda and related groups' activities in Pakistan and Afghanistan. India's extensive contribution to the War on Terror, coupled with a surge in its economy, has helped India's diplomatic relations with several countries. Over the past three years, India has held numerous joint military exercises with US and European nations that have resulted in a strengthened US-India and EU-India bilateral relationship. India's bilateral trade with Europe and United States had more than doubled in the five years since 2003.[48]
 
@@ -90,8 +88,6 @@ Currently, India is taking steps towards establishing strategic partnerships wit
 Bilateral and regional relations
 
 India and its neighbourhood
-
-India_and_its_neighbours.jpg
 
 SAARC
 
@@ -153,7 +149,7 @@ Both India and the PRC maintain embassies in Rangoon and consulate-generals in M
 
 China
 
-Jawaharlal_Nehru_Trust_Port.jpg in India. Bilateral trade between the two countries has surpassed US$65 billion by 2015 making China the single largest trading partner of India.[142]]] Despite lingering suspicions remaining from the 1962 Sino-Indian War, the 1967 Nathu La and Cho La incidents, and continuing boundary disputes over Aksai Chin and Arunachal Pradesh, Sino-Indian relations have improved gradually since 1988. Both countries have sought to reduce tensions along the frontier, expand trade and cultural ties, and normalise relations.
+in India. Bilateral trade between the two countries has surpassed US$65 billion by 2015 making China the single largest trading partner of India.[142]]] Despite lingering suspicions remaining from the 1962 Sino-Indian War, the 1967 Nathu La and Cho La incidents, and continuing boundary disputes over Aksai Chin and Arunachal Pradesh, Sino-Indian relations have improved gradually since 1988. Both countries have sought to reduce tensions along the frontier, expand trade and cultural ties, and normalise relations.
 
 A series of high-level visits between the two nations have helped improve relations. In December 1996, PRC President Jiang Zemin visited India during a tour of South Asia. While in New Delhi, he signed with the Indian Prime Minister a series of confidence-building measures for the disputed borders. Sino-Indian relations suffered a brief setback in May 1998 when the Indian Defence minister justified the country's nuclear tests by citing potential threats from the PRC. However, in June 1999, during the Kargil crisis, then-External Affairs Minister Jaswant Singh visited Beijing and stated that India did not consider China a threat. By 2001, relations between India and the PRC were on the mend, and the two sides handled the move from Tibet to India of the 17th Karmapa in January 2000 with delicacy and tact. In 2003, India formally recognised Tibet as a part of China, and China recognised Sikkim as a formal part of India in 2004.
 
@@ -225,7 +221,7 @@ Fiji's relationship with the Republic of India is often seen by observers agains
 
 Indonesia
 
-Sukarno_with_children_and_Nehru.jpg and his daughter Indira Gandhi with Sukarno, Megawati Sukarnoputri and Guntur, Indonesia, 1950.]] The ties between Indonesia and India date back to the times of the Ramayana,[163] "Yawadvipa" (Java) is mentioned in India's earliest epic, the Ramayana. Sugriva, the chief of Rama's army dispatched his men to Yawadvipa, the island of Java, in search of Sita.[164] Indonesians had absorbed many aspects of Indian culture since almost two millennia ago. The most obvious trace is the large adoption of Sanskrit into Indonesian language. Several of Indonesian toponymy has Indian parallel or origin, such as Madura with Mathura, Serayu and Sarayu rivers, Kalingga from Kalinga Kingdom, and Ngayogyakarta from Ayodhya. Indianised Hindu–Buddhist kingdoms, such as Kalingga, Srivijaya, Medang i Bhumi Mataram, Sunda, Kadiri, Singhasari and Majapahit were the predominant governments in Indonesia, and lasted from 200[165] to the 1500s, with the last remaining being in Bali. The example of profound Hindu-Buddhist influences in Indonesian history are the 9th century Prambanan and Borobudur temples.
+and his daughter Indira Gandhi with Sukarno, Megawati Sukarnoputri and Guntur, Indonesia, 1950.]] The ties between Indonesia and India date back to the times of the Ramayana,[163] "Yawadvipa" (Java) is mentioned in India's earliest epic, the Ramayana. Sugriva, the chief of Rama's army dispatched his men to Yawadvipa, the island of Java, in search of Sita.[164] Indonesians had absorbed many aspects of Indian culture since almost two millennia ago. The most obvious trace is the large adoption of Sanskrit into Indonesian language. Several of Indonesian toponymy has Indian parallel or origin, such as Madura with Mathura, Serayu and Sarayu rivers, Kalingga from Kalinga Kingdom, and Ngayogyakarta from Ayodhya. Indianised Hindu–Buddhist kingdoms, such as Kalingga, Srivijaya, Medang i Bhumi Mataram, Sunda, Kadiri, Singhasari and Majapahit were the predominant governments in Indonesia, and lasted from 200[165] to the 1500s, with the last remaining being in Bali. The example of profound Hindu-Buddhist influences in Indonesian history are the 9th century Prambanan and Borobudur temples.
 
 In 1950, the first President of Indonesia – Sukarno called upon the peoples of Indonesia and India to "intensify the cordial relations" that had existed between the two countries "for more than 1000 years" before they had been "disrupted" by colonial powers.[166] In the spring of 1966, the foreign ministers of both countries began speaking again of an era of friendly relations. India had supported Indonesian independence and Nehru had raised the Indonesian question in the United Nations Security Council.
 
@@ -233,7 +229,7 @@ India has an embassy in Jakarta[167] and Indonesia operates an embassy in Delhi.
 
 Japan
 
-Malabar_07-2_exercise.jpg off India's western coast, one of the few such multilateral exercises Japan has ever taken part in symbolising close military co-operation between India and Japan.]]
+off India's western coast, one of the few such multilateral exercises Japan has ever taken part in symbolising close military co-operation between India and Japan.]]
 
 India-Japan relations have always been strong. India has culturally influenced Japan through Buddhism. During World War II, the Imperial Japanese Army helped Netaji Subhash Chandra Bose's Indian National Army. Relations have remained warm since India's independence, despite Japan imposing sanctions on India after the 1998 Pokhran-II nuclear tests (the sanctions were removed in 2001).[171] Japanese companies, like Sony, Toyota, and Honda, have manufacturing facilities in India, and with the growth of the Indian economy, India is a big market for Japanese firms. The most prominent Japanese company to have a big investment in India is automobiles giant Suzuki which is in partnership with Indian automobiles company Maruti Suzuki, the largest car manufacturer in India. Honda was also a partner in "Hero Honda", one of the largest motor cycle sellers in the world (the companies split in 2011[172]).
 
@@ -275,7 +271,7 @@ Both countries established diplomatic relations in June 1970.[182]
 
 Singapore
 
-RSS_Formidable_(68)_and_INS_Brahmaputra_(F_31).jpg frigate INS _Brahmaputra_ (F 31) in the Bay of Bengal. Singapore is one of India's strongest allies in South East Asia.]] India and Singapore share long-standing cultural, commercial and strategic relations, with Singapore being a part of the "Greater India" cultural and commercial region. More than 300,000 people of Indian Tamil "தமிழ்" origin live in Singapore. Following its independence in 1965, Singapore was concerned with China-backed communist threats as well as domination from Malaysia and Indonesia and sought a close strategic relationship with India, which it saw as a counterbalance to Chinese influence and a partner in achieving regional security.[183] Singapore had always been an important strategic trading post, giving India trade access to Maritime Southeast Asia and the Far East. Although the rival positions of both nations over the Vietnam War and the Cold War caused consternation between India and Singapore, their relationship expanded significantly in the 1990s;[184] Singapore was one of the first to respond to Indian Look East policy of expanding its economic, cultural and strategic ties in Southeast Asia to strengthen its standing as a regional power.[185] Singapore, and especially, the Singaporean Foreign Minister, George Yeo, have taken an interest, in re-establishing the ancient Indian university, Nalanda University.
+frigate INS _Brahmaputra_ (F 31) in the Bay of Bengal. Singapore is one of India's strongest allies in South East Asia.]] India and Singapore share long-standing cultural, commercial and strategic relations, with Singapore being a part of the "Greater India" cultural and commercial region. More than 300,000 people of Indian Tamil "தமிழ்" origin live in Singapore. Following its independence in 1965, Singapore was concerned with China-backed communist threats as well as domination from Malaysia and Indonesia and sought a close strategic relationship with India, which it saw as a counterbalance to Chinese influence and a partner in achieving regional security.[183] Singapore had always been an important strategic trading post, giving India trade access to Maritime Southeast Asia and the Far East. Although the rival positions of both nations over the Vietnam War and the Cold War caused consternation between India and Singapore, their relationship expanded significantly in the 1990s;[184] Singapore was one of the first to respond to Indian Look East policy of expanding its economic, cultural and strategic ties in Southeast Asia to strengthen its standing as a regional power.[185] Singapore, and especially, the Singaporean Foreign Minister, George Yeo, have taken an interest, in re-establishing the ancient Indian university, Nalanda University.
 
 Singapore is the 8th largest source of investment in India and the largest amongst ASEAN member nations.[186][187] It is also India's 9th biggest trading partner as of 2005–06.[188] Its cumulative investment in India totals US$3 billion as of 2006 and is expected to rise to US 5 billion by 2010 and US 10 billion by 2015.[189][190][191] India's economic liberalisation and its "Look East" policy have led to a major expansion in bilateral trade, which grew from USD 2.2 billion in 2001 to US 9–10 billion in 2006 – a 400% growth in span of five years – and to USD 50 billion by 2010.[192][193][194] Singapore accounts for 38% of India's trade with ASEAN member nations and 3.4% of its total foreign trade.[195] India's main exports to Singapore in 2005 included petroleum, gemstones, jewellery, machinery and its imports from Singapore included electronic goods, organic chemicals and metals. More than half of Singapore's exports to India are basically "re-exports" – items that had been imported from India.[196][197]
 
@@ -328,7 +324,7 @@ The ASEAN region has an abundance of natural resources and significant technolog
 
 Americas
 
-India's commonalities with developing nations in Latin America, especially Brazil and Mexico have continued to grow. India and Brazil continue to work together on the reform of Security Council through the G4 nations while have also increased strategic and economic co-operation through the IBSA Dialogue Forum. The process of finalising Preferential Trade Agreement (PTA) with MERCOSUR (Brazil, Argentina, Uruguay, and Paraguay) is on the itinerary and negotiations are being held with Chile.[233] Brazilian President Luiz Inácio Lula da Silva was the guest of honour at the 2004 Republic Day celebrations in New Delhi.[234] Cristina.kirchner.enindia.2009.jpg, President of Argentina, Cristina Fernández de Kirchner and President Pratibha Patil at Rashtrapati Bhawan.]]
+India's commonalities with developing nations in Latin America, especially Brazil and Mexico have continued to grow. India and Brazil continue to work together on the reform of Security Council through the G4 nations while have also increased strategic and economic co-operation through the IBSA Dialogue Forum. The process of finalising Preferential Trade Agreement (PTA) with MERCOSUR (Brazil, Argentina, Uruguay, and Paraguay) is on the itinerary and negotiations are being held with Chile.[233] Brazilian President Luiz Inácio Lula da Silva was the guest of honour at the 2004 Republic Day celebrations in New Delhi.[234] , President of Argentina, Cristina Fernández de Kirchner and President Pratibha Patil at Rashtrapati Bhawan.]]
 
 Antigua and Barbuda
 
@@ -382,7 +378,7 @@ During the British era, Indians voluntarily went to jobs in Jamaica and the West
 
 Mexico
 
-Reunión_bilateral_con_el_Excmo._Sr._Narendra_Modi,_Primer_Ministro_de_la_República_de_la_India._(21609463920).jpg with Prime Minister Narendra Modi in New York; September 2015.]] Mexico is a very important and major economic partner of India. Nobel Prize laureate and ambassador to India Octavio Paz wrote is book _In Light of India_ which is an analysis of Indian history and culture.[255] Both nations are regional powers and members of the G-20 major economies.
+with Prime Minister Narendra Modi in New York; September 2015.]] Mexico is a very important and major economic partner of India. Nobel Prize laureate and ambassador to India Octavio Paz wrote is book _In Light of India_ which is an analysis of Indian history and culture.[255] Both nations are regional powers and members of the G-20 major economies.
 
 -   India has an embassy in Mexico City.[256]
 -   Mexico has an embassy in New Delhi.[257]
@@ -415,7 +411,7 @@ Historically, United States gave very strong support to the Indian independence 
 
 After the Sino-Indian War and the Indo-Pakistani War of 1965, India made considerable changes to its foreign policy. It developed a close relationship with the Soviet Union and started receiving massive military equipment and financial assistance from the USSR. This had an adverse effect on the Indo-US relationship. The United States saw Pakistan as a counterweight to pro-Soviet India and started giving the former military assistance. This created an atmosphere of suspicion between India and the US. The Indo-US relationship suffered a considerable setback when the Soviets took over Afghanistan when India overtly supported the Soviet Union.
 
-Indira_and_Nixon.JPG and Prime Minister of India Indira Gandhi in 1971. They had a deep personal antipathy that coloured bilateral relations.]]
+and Prime Minister of India Indira Gandhi in 1971. They had a deep personal antipathy that coloured bilateral relations.]]
 
 Relations between India and the United States came to an all-time low during the early 1970s. Despite reports of atrocities in East Pakistan, and being told, most notably in the _Blood telegram_, of genocidal activities being perpetrated by Pakistani forces, US. Secretary of State Henry Kissinger and US President Richard Nixon did nothing to discourage then Pakistani President Yahya Khan and the Pakistan Army. Kissinger was particularly concerned about Soviet expansion into South Asia as a result of a treaty of friendship that had recently been signed between India and the Soviet Union, and sought to demonstrate to the People's Republic of China the value of a tacit alliance with the United States.[266] During the Indo-Pakistani War of 1971, Indian Armed Forces, along with the Mukti Bahini, succeeded in liberating East Pakistan which soon declared independence. Nixon feared that an Indian invasion of West Pakistan would mean total Soviet domination of the region, and that it would seriously undermine the global position of the United States and the regional position of America's new tacit ally, China. To demonstrate to China the _bona fides_ of the United States as an ally, and in direct violation of the Congress-imposed sanctions on Pakistan, Nixon sent military supplies to Pakistan, routing them through Jordan and Iran,[267] while also encouraging China to increase its arms supplies to Pakistan.
 
@@ -445,15 +441,13 @@ On 2 March 2006 India and the United States signed the Indo-US Nuclear Pact on c
 
 Indo-US strategic partnership
 
-PM_Modi_and_President_Obama.jpg with President Barack Obama at the White House.]]
+with President Barack Obama at the White House.]]
 
 Indo-USA relations got strategic content in the early 1960s. The rise of the People's Republic of China worried the policymakers in Washington. Chinese assertion in Tibet, its role in the Korean War and other such acts concerned Washington. As the relations between India and China were heated during the late fifties, the Americans found a golden opportunity to take advantage of this situation to promote India as a counterweight to China.[277] But any unidimensional alliance is bound to be short-lived and this alliance was no exception to this general rule. As China ceased to be a headache for the American policymakers by the late sixties, this unidimensional alliance disappeared into thin air.
 
 The end of the Cold War necessitated as well as facilitated the infusion of strategic content to Indo-USA relations–this time multidimensional. In the post Cold War era, the strategic objectives of India and the United States converges on a number of issues and not just one–as well as the case earlier. These issues include, inter alia, containment of terrorism, promotion of democracy, counter proliferation, freedom of navigation in the Indian Ocean, Asian balance of power, etc.[278]
 
 One of the very interesting features of Indo-USA relations of recent times is the changes on the terms of engagement between the two countries on the issue of nuclear proliferation. While earlier, in the USA strategic thinking on nuclear proliferation, India figured mainly because of American concern about latter's nuclear and missile programmes, in the twenty-first century, however, American strategic thinking on the issue of nuclear proliferation has undergone major reorientation. Now, the Americans are increasingly realising the futility of insisting on a rollback of India's nuclear programme. They, rather, want to leverage India's growing power and influence in favour of their broader nonproliferation and counter proliferation objectives.[279]
-
-Yudh_Abhyas_2015_National_flags.jpg
 
 Being the world's oldest democracy, the promotion of democracy around the world is one of the most important foreign policy objective of the United States. India —as the largest democracy of the world— can hardly be overlooked by the United States.[280] This is the reason, co-operation in promotion of democracy in the world has become one of the most important facets of Indo-USA relations in recent times. India is a founding member of the "Community of Democracies"—a prominent endeavour of the United States on promotion of democracy. However, India rejected the suggestion of the USA about setting up a Centre for Asian Democracy.[281]
 
@@ -505,11 +499,11 @@ Nicolas Sarkozy visited India in January 2008 and was the Chief Guest of the Rep
 
 Germany
 
-Bundesarchiv_Bild_183-09709-0002,_Dresden,_Ankunft_eines_indischen_Gaststudenten.jpg During the Cold War India maintained diplomatic relations with both West Germany and East Germany. Since the fall of the Berlin Wall, and the reunification of Germany, relations have further improved.
+During the Cold War India maintained diplomatic relations with both West Germany and East Germany. Since the fall of the Berlin Wall, and the reunification of Germany, relations have further improved.
 
 Germany is India's largest trade partner in Europe. Between 2004 and 2013, Indo-German trade grew in volume but dropped in importance.[304] According to Indian Ministry of Commerce MX data: Total trade between India and Germany was $5.5billion (3.8% share of Indian trade and ranked 6) in 2004 and $21.6billion (2.6% share of Indian trade and ranked 9) in 2013. Indian exports to Germany were $2.54billion (3.99% ranked 6) in 2004 and $7.3billion (2.41% ranked 10) in 2013. Indian imports from Germany were $2.92billion (3.73% ranked 6) in 2004 and $14.33billion (2.92% ranked 10) in 2013.
 
-Be_Indian_Embassy_01.jpg (2008)]]
+(2008)]]
 
 Indo-German ties are transactional. The strategic relationship between Germany and India suffers from sustained anti-Asian sentiment,[305] institutionalized discrimination against minority groups,[306][307][308][309] and xenophobic incidents against Indians in Germany. The 2007 Mügeln mob attack on Indians and the 2015 Leipzig University internship controversy has clouded the predominantly commercial-oriented relationship between the two countries. Stiff competition between foreign manufactured goods within the Indian market has seen machine-tools, automotive parts and medical supplies from German _Mittelstand_ ceding ground to high-technology imports manufactured by companies located in ASEAN & BRICS countries.[310][311][312][313] The Volkswagen emissions scandal drew the spotlight to corrupt behaviour in German boardrooms[314][315][316] and brought back memories of the HDW bribery scandal surrounding the procurement of s by the Indian Navy. The India-Germany strategic relationship is limited by the insignificance of German geopolitical influence in Asian affairs. Germany has no strategic footprint in Asia. Germany like India is working towards gaining permanent seats in the United Nations Security Council.
 
@@ -704,7 +698,7 @@ Other European countries
 
 European Union
 
-Prime_Minister_Narendra_Modi_with_the_President_European_Council_Donald_Tusk,_and_the_President_European_Commission_Jean-Claude_Juncker,_at_the_EU-INDIA_Summit.jpg with the President of European Council Donald Tusk, and the President of European Commission Jean-Claude Juncker, at the EU-India Summit, Brussels, 2016]]
+with the President of European Council Donald Tusk, and the President of European Commission Jean-Claude Juncker, at the EU-India Summit, Brussels, 2016]]
 
 India was one of the first countries to develop relations with the European Union. The Joint Political Statement of 1993 and the 1994 Co-operation Agreement were the foundational agreements for the bilateral partnership. In 2004, India and European Union became "Strategic Partners". A Joint Action Plan was agreed upon in 2005 and updated in 2008. India-EU Joint Statements was published in 2009 and 2012 following the India-European Union Summits.[390]
 
@@ -740,7 +734,7 @@ Modern Egypt-India relations go back to the contacts between Saad Zaghloul and M
 
 Iran
 
-Tagore_Iran.jpg as a guest of Iran's parliament in the 1930s.]]
+as a guest of Iran's parliament in the 1930s.]]
 
 Independent India and Iran established diplomatic links on 15 March 1950.[416] After the Iranian Revolution of 1979, Iran withdrew from CENTO and dissociated itself from US-friendly countries, including Pakistan, which automatically meant improved relationship with the Republic of India.
 
@@ -759,8 +753,6 @@ Iraq was one of the few countries in the Middle East with which India establishe
 During the 1991 Persian Gulf War, India remained neutral but permitted refuelling for US aircraft.[423] It opposed UN sanctions on Iraq, but the period of war and Iraq's isolation further diminished India's commercial and diplomatic ties.[424] From 1999 onwards, Iraq and India began to work towards a stronger relationship. Iraq had supported India's right to conduct nuclear tests following its tests of five nuclear weapons on 11 and 13 May 1998.[425] In 2000, the then-Vice-President of Iraq Taha Yassin Ramadan visited India, and on 6 August 2002 President Saddam Hussein conveyed Iraq's "unwavering support" to India over the Kashmir conflict with Pakistan.[426][427] India and Iraq established joint ministerial committees and trade delegations to promote extensive bilateral co-operation.[428][429] Although initially disrupted during the 2003 invasion of Iraq, diplomatic and commercial ties between India and the new democratic government of Iraq have since been normalised.[430]
 
 Israel
-
-Beni-israel-india-2.jpg
 
 The establishment of Israel at the end of World War II was a complex issue. Based on its own experience during partition, when 14 million people were displaced[431][432] and an estimated 200,000 to 500,000 people were killed in Punjab Province,[433] India had recommended a single state, as did Iran and Yugoslavia (later to undergo its own genocidal partition). The state could allocate Arab- and Jewish-majority provinces with a goal of preventing partition of historic Palestine and prevent widespread conflict.[434] But, the final UN resolution recommended partition of Mandatory Palestine into Arab and Jewish states based on religious and ethnic majorities. India opposed this in the final vote as it did not agree with the concept of partition on the basis of religion.[435]
 
@@ -818,17 +810,17 @@ Due to controversial issues such as Turkey's close relationship with Pakistan, r
 
 Russia and Central Asia
 
-Vladimir_Putin_6_November_2001-5.jpg with Russian president Vladimir Putin in 2001.]] The dissolution of the Soviet Union and the emergence of the Commonwealth of Independent States (CIS) had major repercussions for Indian foreign policy. Substantial trade with the former Soviet Union plummeted after the Soviet collapse and has yet to recover. Longstanding military supply relationships were similarly disrupted due to questions over financing, although Russia continues to be India's largest supplier of military systems and spare parts.
+with Russian president Vladimir Putin in 2001.]] The dissolution of the Soviet Union and the emergence of the Commonwealth of Independent States (CIS) had major repercussions for Indian foreign policy. Substantial trade with the former Soviet Union plummeted after the Soviet collapse and has yet to recover. Longstanding military supply relationships were similarly disrupted due to questions over financing, although Russia continues to be India's largest supplier of military systems and spare parts.
 
 The relationship with USSR was tested (and proven) during the 1971 war with Pakistan, which led to the subsequent liberation of Bangladesh. Soon after the victory of the Indian Armed Forces, one of the foreign delegates to visit India was Admiral S.G. Gorshkov, Chief of the Soviet Navy. During his visit to Mumbai (Bombay) he came on board INS _Vikrant_. During a conversation with Vice Admiral Swaraj Prakash, Gorshkov asked the Vice Admiral, "Were you worried about a battle against the American carrier?" He answered himself: "Well, you had no reason to be worried, as I had a Soviet nuclear submarine trailing the American task force all the way into the Indian Ocean."[473]
 
 Russian Federation
 
-Modi_and_Putin.jpeg with Russian President Vladimir Putin. India and Russia enjoy strong strategic and military relations.]]
+with Russian President Vladimir Putin. India and Russia enjoy strong strategic and military relations.]]
 
 India's ties with the Russian Federation are time-tested and based on continuity, trust and mutual understanding. There is national consensus in both the countries on the need to preserve and strengthen India-Russia relations and further consolidate the strategic partnership between the two countries. A Declaration on Strategic Partnership was signed between present Russian President Vladimir Putin and former Indian Prime Minister Atal Bihari Vajpayee in October 2000.
 
-Brahmos_imds.jpg nuclear cruise missile, has a top speed of Mach 2.8, making it the one of the fastest supersonic cruise missile.]]
+nuclear cruise missile, has a top speed of Mach 2.8, making it the one of the fastest supersonic cruise missile.]]
 
 Russia and India have decided not to renew the 1971 Indo-Soviet Peace and Friendship Treaty and have sought to follow what both describe as a more pragmatic, less ideological relationship. Russian President Yeltsin's visit to India in January 1993 helped cement this new relationship. Ties have grown stronger with President Vladimir Putin's 2004 visit. The pace of high-level visits has since increased, as has discussion of major defence purchases. Russia, is working for the development of the Kudankulam Nuclear Power Plant, that will be capable of producing 1000 MW of electricity. Gazprom, is working for the development of oil and natural gas, in the Bay of Bengal. India and Russia, have collaborated extensively, on space technology. Other areas of collaboration include software, ayurveda, etc. India and Russia, have set a determination in increasing trade to $10 billion. Cooperation between clothing manufacturers of the two countries continues to strengthen. India and Russia signed an agreement on joint efforts to increase investment and trade volumes in the textile industry in both countries. In signing the document included representatives of the Russian Union of Entrepreneurs of Textile and Light Industry Council and apparel exports of India (AEPC). A co-operation agreement provides, inter alia, exchange of technology and know-how in textile production. For this purpose, a special Commission on Affairs textile (Textile Communication Committee). Counter-terrorism techniques are also in place between Russia and India. In 2007 President Vladimir Putin was guest of honour at Republic Day celebration on 26 January 2007. 2008, has been declared by both countries as the Russia-India Friendship Year. Bollywood films are quite popular in Russia. The Indian public sector oil company ONGC bought Imperial Energy Corporation in 2008. In December 2008, during President Medvedev's visit, to New Delhi, India and Russia, signed a nuclear energy co-operation agreement. In March 2010, Russian Prime Minister Vladimir Putin signed an additional 19 pacts with India which included civilian nuclear energy, space and military co-operation and the final sale of Admiral Gorshkov (Aircraft Carrier) along with MiG-29K fighter jets.
 
@@ -864,7 +856,7 @@ India has an embassy in Tashkent. Uzbekistan has an embassy in New Delhi. Uzbeki
 
 Africa
 
-Lulasinghmbeki16092006.jpg.]]
+.]]
 
 As of year 2011, India's total trade with Africa is over US$46 billion and total investment is over US$11 billion with US$5.7 billion line of credit for executing various projects in Africa.[478]
 
@@ -951,7 +943,7 @@ INDIA–SEYCHELLES RELATIONS are bilateral relations between the Republic of Ind
 
 South Africa
 
-G5_meeting_in_Germany.jpg India and South Africa, have always had strong relations even though India revoked diplomatic relations in protest to the apartheid regime in the mid 20th century. The history of British rule connects both lands. There is a large group of Indian South Africans. Mahatma Gandhi, spent many years in South Africa, during which time, he fought for the rights of the ethnic Indians. Nelson Mandela was inspired by Gandhi. After India's independence, India strongly condemned apartheid, and refused diplomatic relations while apartheid was conducted as state policy in South Africa.
+India and South Africa, have always had strong relations even though India revoked diplomatic relations in protest to the apartheid regime in the mid 20th century. The history of British rule connects both lands. There is a large group of Indian South Africans. Mahatma Gandhi, spent many years in South Africa, during which time, he fought for the rights of the ethnic Indians. Nelson Mandela was inspired by Gandhi. After India's independence, India strongly condemned apartheid, and refused diplomatic relations while apartheid was conducted as state policy in South Africa.
 
 The two countries, now have close economic, political, and sports relations. Trade between the two countries grew from $3 million in 1992–1993 to $4 billion in 2005–2006, and aim to reach trade of $12 billion by 2010. One third of India's imports from South Africa is gold bar. Diamonds, that are mined from South Africa, are polished in India. Nelson Mandela was awarded the Gandhi Peace Prize. The two countries are also members of the IBSA Dialogue Forum, with Brazil. India hopes to get large amounts of uranium, from resource rich South Africa, for India's growing civilian nuclear energy sector.
 
@@ -1103,8 +1095,6 @@ Kalapani village of India is claimed by Nepal and Susta village in Nawalparasi d
 The dispute between India and Nepal involves about of area in Kalapani, where China, India, and Nepal meet. Indian forces occupied the area in 1962 after China and India fought their border war. Three villages are located in the disputed zone: Kuti [Kuthi, 30°19'N, 80°46'E], Gunji, and Knabe. India and Nepal disagree about how to interpret the 1816 Sugauli treaty between the British East India Company and Nepal, which delimited the boundary along the Maha Kali River (Sarda River in India). The dispute intensified in 1997 as the Nepali parliament considered a treaty on hydro-electric development of the river. India and Nepal differ as to which stream constitutes the source of the river. Nepal regards the Limpiyadhura as the source; India claims the Lipu Lekh. Nepal has reportedly tabled an 1856 map from the British India Office to support its position. The countries have held several meetings about the dispute and discussed jointly surveying to resolve the issue.[541] Although the Indo-Nepali dispute appears to be minor, it was aggravated in 1962 by tensions between China and India. Because the disputed area lies near the Sino-Indian frontier, it gains strategic value.[542]
 
 Pakistan
-
-Indus_river.svg
 
 -   The unresolved Kashmir conflict and the status of Kashmir with India: Pakistan claims that it is a disputed territory with India, meanwhile Pakistan claims its side of the disputed territory and calls it "Azad Kashmir".
 -   Dispute over Sir Creek and the maritime boundary regarding the Rann of Kachchh area of southern tip of Sindh.

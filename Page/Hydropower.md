@@ -1,4 +1,4 @@
-The_Dam_(2890371280).jpg in China; the hydroelectric dam is the world's largest power station by installed capacity.]] HYDROPOWER or WATER POWER (from , "water") is power derived from the energy of falling water or fast running water, which may be harnessed for useful purposes. Since ancient times, hydropower from many kinds of watermills has been used as a renewable energy source for irrigation and the operation of various mechanical devices, such as gristmills, sawmills, textile mills, trip hammers, dock cranes, domestic lifts, and ore mills. A trompe, which produces compressed air from falling water, is sometimes used to power other machinery at a distance.[1][2]
+in China; the hydroelectric dam is the world's largest power station by installed capacity.]] HYDROPOWER or WATER POWER (from , "water") is power derived from the energy of falling water or fast running water, which may be harnessed for useful purposes. Since ancient times, hydropower from many kinds of watermills has been used as a renewable energy source for irrigation and the operation of various mechanical devices, such as gristmills, sawmills, textile mills, trip hammers, dock cranes, domestic lifts, and ore mills. A trompe, which produces compressed air from falling water, is sometimes used to power other machinery at a distance.[1][2]
 
 In the late 19th century, hydropower became a source for generating electricity. Cragside in Northumberland was the first house powered by hydroelectricity in 1878[3] and the first commercial hydroelectric power plant was built at Niagara Falls in 1879. In 1881, street lamps in the city of Niagara Falls were powered by hydropower.
 
@@ -7,7 +7,7 @@ Since the early 20th century, the term has been used almost exclusively in conju
 
 History
 
-Braine-le-Château_JPG02.jpg, Belgium (12th century)]] SaintAnthonyFalls.jpg, United States; hydropower was used here to mill flour.]] _WATER-POWERED_ORE_MILL,_TAKEN_FROM_SOUTH_-_Liberty_Historic_District,_Water_Powered_Ore_Mill,_Route_2,_Cle_Elum,_Liberty,_Kittitas_County,_WA_HABS_WASH,19-LIB,1W-1.tif
+, Belgium (12th century)]] , United States; hydropower was used here to mill flour.]]
 
 Water wheels and watermills were built in India possibly as early as the 4th century BC, although records of that era are scarce.[6]
 
@@ -62,7 +62,7 @@ Some hydropower systems such as water wheels can draw power from the flow of a b
 
 Use of hydropower
 
-Garwnant_Hydropower_Scheme,_Breckon_Beacons,_Cymru,_(Wales).webm; 2017]] Higashiyama_Botanical_Garden_Shishiodoshi_20170617.gif powered by falling water breaks the quietness of a Japanese garden with the sound of a bamboo rocker arm hitting a rock.]]
+; 2017]] powered by falling water breaks the quietness of a Japanese garden with the sound of a bamboo rocker arm hitting a rock.]]
 
 Mechanical power
 

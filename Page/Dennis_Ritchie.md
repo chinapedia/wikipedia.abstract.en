@@ -5,7 +5,7 @@ Personal life and career
 
 Dennis Ritchie was born in Bronxville, New York. His father was Alistair E. Ritchie, a longtime Bell Labs scientist and co-author of _The Design of Switching Circuits_ on switching circuit theory.[7] As a child, Dennis moved with his family to Summit, New Jersey, where he graduated from Summit High School.[8] He graduated from Harvard University with degrees in physics and applied mathematics.[9]
 
-Ken_Thompson_and_Dennis_Ritchie--1973.jpg (left) and Dennis Ritchie (right)]] Version_7_Unix_SIMH_PDP11_Emulation_DMR.png for the PDP-11, including Dennis Ritchie's home directory: /usr/dmr]] In 1967, Ritchie began working at the Bell Labs Computing Sciences Research Center, and in 1968, he defended his PhD thesis on "Program Structure and Computational Complexity" at Harvard under the supervision of Patrick C. Fischer. However, Ritchie never officially received his PhD degree.[10]
+(left) and Dennis Ritchie (right)]] for the PDP-11, including Dennis Ritchie's home directory: /usr/dmr]] In 1967, Ritchie began working at the Bell Labs Computing Sciences Research Center, and in 1968, he defended his PhD thesis on "Program Structure and Computational Complexity" at Harvard under the supervision of Patrick C. Fischer. However, Ritchie never officially received his PhD degree.[10]
 
 During the 1960s, Ritchie and Ken Thompson worked on the Multics operating system at Bell Labs. Thompson then found an old PDP-7 machine and developed his own application programs and operating system from scratch, aided by Ritchie and others. In 1970, Brian Kernighan suggested the name "Unix", a pun on the name "Multics".[11] To supplement assembly language with a system-level programming language, Thompson created B. Later, B was replaced by C, created by Ritchie, who continued to contribute to the development of Unix and C for many years.[12]
 
@@ -44,7 +44,7 @@ In 2011, Ritchie, along with Thompson, was awarded the Japan Prize for Informati
 
 Death
 
-Dennis_Ritchie_(right)_Receiving_Japan_Prize.jpeg (left) in May 2011]] Ritchie was found dead on October 12, 2011, at the age of 70 at his home in Berkeley Heights, New Jersey, where he lived alone.[29] First news of his death came from his former colleague, Rob Pike.[30][31] The cause and exact time of death have not been disclosed.[32] He had been in frail health for several years following treatment for prostate cancer and heart disease.[33][34][35][36] News of Ritchie's death was largely overshadowed by the media coverage of the death of Apple co-founder Steve Jobs, which occurred the week before.[37]
+(left) in May 2011]] Ritchie was found dead on October 12, 2011, at the age of 70 at his home in Berkeley Heights, New Jersey, where he lived alone.[29] First news of his death came from his former colleague, Rob Pike.[30][31] The cause and exact time of death have not been disclosed.[32] He had been in frail health for several years following treatment for prostate cancer and heart disease.[33][34][35][36] News of Ritchie's death was largely overshadowed by the media coverage of the death of Apple co-founder Steve Jobs, which occurred the week before.[37]
 
 
 Legacy

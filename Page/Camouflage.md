@@ -1,4 +1,4 @@
-Flower_flounder_in_Kona_may_2010.jpg can change its pattern and colours to match its environment.]] Maskowanie.JPEG.|alt=photo of a soldier putting on camouflage face paint]]
+can change its pattern and colours to match its environment.]] .|alt=photo of a soldier putting on camouflage face paint]]
 
 CAMOUFLAGE is the use of any combination of materials, coloration, or illumination for concealment, either by making animals or objects hard to see (crypsis), or by disguising them as something else (mimesis). Examples include the leopard's spotted coat, the battledress of a modern soldier, and the leaf-mimic katydid's wings. A third approach, motion dazzle, confuses the observer with a conspicuous pattern, making the object visible but momentarily harder to locate. The majority of camouflage methods aim for crypsis, often through a general resemblance to the background, high contrast disruptive coloration, eliminating shadow, and countershading. In the open ocean, where there is no background, the principal methods of camouflage are transparency, silvering, and countershading, while the ability to produce light is among other things used for counter-illumination on the undersides of cephalopods such as squid. Some animals, such as chameleons and octopuses, are capable of actively changing their skin pattern and colours, whether for camouflage or for signalling. It is possible that some plants use camouflage to evade being eaten by herbivores.
 
@@ -9,15 +9,15 @@ Non-military use of camouflage includes making cell telephone towers less obtrus
 
 History
 
-Octopus_cyaneain_Kona.jpg'' can change colour (and shape) for camouflage]] In ancient Greece, Aristotle (384–322 BC) commented on the colour-changing abilities, both for camouflage and for signalling, of cephalopods including the octopus, in his _Historia animalium_:[1]
+'' can change colour (and shape) for camouflage]] In ancient Greece, Aristotle (384–322 BC) commented on the colour-changing abilities, both for camouflage and for signalling, of cephalopods including the octopus, in his _Historia animalium_:[1]
 
 Camouflage has been a topic of interest and research in zoology for well over a century. According to Charles Darwin's 1859 theory of natural selection, features such as camouflage evolved by providing individual animals with a reproductive advantage, enabling them to leave more offspring, on average, than other members of the same species. In his _Origin of Species_, Darwin wrote:
 
-Variable_Protective_Resemblance_in_Lepidopterous_Pupae.jpg, 1890: swallowtailed moth pupae with camouflage they acquired as larvae]]
+, 1890: swallowtailed moth pupae with camouflage they acquired as larvae]]
 
 The English zoologist Edward Bagnall Poulton studied animal coloration, especially camouflage. In his 1890 book _The Colours of Animals_, he classified different types such as "special protective resemblance" (where an animal looks like another object), or "general aggressive resemblance" (where a predator blends in with the background, enabling it to approach prey). His experiments showed that swallowtailed moth pupae were camouflaged to match the backgrounds on which they were reared as larvae. Poulton's "general protective resemblance" was at that time considered to be the main method of camouflage, as when Frank Evers Beddard wrote in 1892 that "tree-frequenting animals are often green in colour. Among vertebrates numerous species of parrots, iguanas, tree-frogs, and the green tree-snake are examples". Beddard did however briefly mention other methods, including the "alluring coloration" of the flower mantis and the possibility of a different mechanism in the orange tip butterfly. He wrote that "the scattered green spots upon the under surface of the wings might have been intended for a rough sketch of the small flowerets of the plant [an umbellifer], so close is their mutual resemblance." He also explained the coloration of sea fish such as the mackerel: "Among pelagic fish it is common to find the upper surface dark-coloured and the lower surface white, so that the animal is inconspicuous when seen either from above or below."
 
-PeacockInTheWoods.jpg's 1907 painting _Peacock in the Woods_ depicted a peacock as if it were camouflaged.]]
+'s 1907 painting _Peacock in the Woods_ depicted a peacock as if it were camouflaged.]]
 
 The artist Abbott Handerson Thayer formulated what is sometimes called Thayer's Law, the principle of countershading. However, he overstated the case in the 1909 book _Concealing-Coloration in the Animal Kingdom_, arguing that "All patterns and colors whatsoever of all animals that ever preyed or are preyed on are under certain normal circumstances obliterative" (that is, cryptic camouflage), and that "Not one 'mimicry' mark, not one 'warning color'... nor any 'sexually selected' color, exists anywhere in the world where there is not every reason to believe it the very best conceivable device for the concealment of its wearer", and using paintings such as _Peacock in the Woods_ (1907) to reinforce his argument. Thayer was roundly mocked for these views by critics including Teddy Roosevelt.[2]
 
@@ -29,8 +29,6 @@ Experimental evidence that camouflage helps prey avoid being detected by predato
 
 
 Principles
-
-_Draco dussumieri_ uses several methods of camouflage, including disruptive coloration, lying flat, and concealment of shadow. |thumb|upright=0.7|alt=photo of a Draco dussumieri on a tree trunk, very hard to see
 
 Camouflage can be achieved by different methods, described below. Most of the methods contribute to crypsis, helping to hide against a background; but mimesis and motion dazzle protect without hiding. Methods may be applied on their own or in combination.
 
@@ -46,7 +44,7 @@ File:Tanzania 0607 cropped Nevit.jpg|Black-faced sandgrouse is coloured like its
 
 Disruptive coloration
 
-Disruptive_Coloration_by_Hugh_Cott_1940.jpg, 1940]]
+, 1940]]
 
 Disruptive patterns use strongly contrasting, non-repeating markings such as spots or stripes to break up the outlines of an animal or military vehicle,[6] or to conceal telltale features, especially by masking the eyes, as in the common frog. Disruptive patterns may use more than one method to defeat visual systems such as edge detection.[7] Predators like the leopard use disruptive camouflage to help them approach prey, while potential prey like the Egyptian nightjar use it to avoid detection by predators.[8] Disruptive patterning is common in military usage, both for uniforms and for military vehicles. Disruptive patterning, however, does not always achieve crypsis on its own, as an animal or a military target may be given away by factors like shape, shine, and shadow.[9][10][11]
 
@@ -58,15 +56,13 @@ File:Great male Leopard in South Afrika-JD.JPG|Leopard: a disruptively camouflag
 
 Eliminating shadow
 
-Counteracting_shadow.svg
-
 Some animals, such as the horned lizards of North America, have evolved elaborate measures to eliminate shadow. Their bodies are flattened, with the sides thinning to an edge; the animals habitually press their bodies to the ground; and their sides are fringed with white scales which effectively hide and disrupt any remaining areas of shadow there may be under the edge of the body.[20] The theory that the body shape of the horned lizards which live in open desert is adapted to minimise shadow is supported by the one species which lacks fringe scales, the roundtail horned lizard, which lives in rocky areas and resembles a rock. When this species is threatened, it makes itself look as much like a rock as possible by curving its back, emphasizing its three-dimensional shape.[21] Some species of butterflies, such as the speckled wood, _Pararge aegeria_, minimise their shadows when perched by closing the wings over their backs, aligning their bodies with the sun, and tilting to one side towards the sun, so that the shadow becomes a thin inconspicuous line rather than a broad patch. Similarly, some ground-nesting birds including the European nightjar select a resting position facing the sun. Eliminating shadow was identified as a principle of military camouflage during the Second World War.[22]
 
 File:Ibexes.jpg%7CThree countershaded and cryptically coloured ibex almost invisible in the Israeli desert File:Armoured personnel carriers, Eriboll - geograph.org.uk - 1316295.jpg|"Shape, shine, shadow" make these 'camouflaged' military vehicles easily visible. File:Phrynosoma mcallii.jpg|The flat-tail horned lizard's body is flattened and fringed to minimise its shadow. File:Øvelse på Evjemoen Tropp 4.2 - camouflage nettings.jpg|Camouflage netting is draped away from a military vehicle to reduce its shadow. File:Perfect Camouflage (Caterpillar on teakwood branch).jpg|A caterpillar's fringe of bristles conceals its shadow.
 
 Distraction
 
-Tragelaphus_scriptus_(male)_cropped.jpg'') take a predator's attention from recognising the prey.]]
+'') take a predator's attention from recognising the prey.]]
 
 Many prey animals have conspicuous high-contrast markings which paradoxically attract the predator's gaze.[23] These distractive markings serve as camouflage by distracting the predator's attention from recognising the prey as a whole, for example by keeping the predator from identifying the prey's outline. Experimentally, search times for blue tits increased when artificial prey had distractive markings.[24]
 
@@ -80,23 +76,19 @@ File:Hyastenus elatus.jpg|This decorator crab has covered its body with sponges.
 
 Cryptic behaviour
 
-Leafy_Seadragon_Phycodurus_eques_2500px_PLW_edit.jpg sways like seaweeds to reinforce its camouflage.]] Movement catches the eye of prey animals on the lookout for predators, and of predators hunting for prey. Most methods of crypsis therefore also require suitable cryptic behaviour, such as lying down and keeping still to avoid being detected, or in the case of stalking predators such as the tiger, moving with extreme stealth, both slowly and quietly, watching its prey for any sign they are aware of its presence. As an example of the combination of behaviours and other methods of crypsis involved, young giraffes seek cover, lie down, and keep still, often for hours until their mothers return; their skin pattern blends with the pattern of the vegetation, while the chosen cover and lying position together hide the animals' shadows.[28] The flat-tail horned lizard similarly relies on a combination of methods: it is adapted to lie flat in the open desert, relying on stillness, its cryptic coloration, and concealment of its shadow to avoid being noticed by predators.[29] In the ocean, the leafy sea dragon sways mimetically, like the seaweeds amongst which it rests, as if rippled by wind or water currents.[30] Swaying is seen also in some insects, like Macleay's Spectre stick insect, _Extatosoma tiaratum_. The behaviour may be motion crypsis, preventing detection, or motion masquerade, promoting misclassification (as something other than prey), or a combination of the two.[31]
+sways like seaweeds to reinforce its camouflage.]] Movement catches the eye of prey animals on the lookout for predators, and of predators hunting for prey. Most methods of crypsis therefore also require suitable cryptic behaviour, such as lying down and keeping still to avoid being detected, or in the case of stalking predators such as the tiger, moving with extreme stealth, both slowly and quietly, watching its prey for any sign they are aware of its presence. As an example of the combination of behaviours and other methods of crypsis involved, young giraffes seek cover, lie down, and keep still, often for hours until their mothers return; their skin pattern blends with the pattern of the vegetation, while the chosen cover and lying position together hide the animals' shadows.[28] The flat-tail horned lizard similarly relies on a combination of methods: it is adapted to lie flat in the open desert, relying on stillness, its cryptic coloration, and concealment of its shadow to avoid being noticed by predators.[29] In the ocean, the leafy sea dragon sways mimetically, like the seaweeds amongst which it rests, as if rippled by wind or water currents.[30] Swaying is seen also in some insects, like Macleay's Spectre stick insect, _Extatosoma tiaratum_. The behaviour may be motion crypsis, preventing detection, or motion masquerade, promoting misclassification (as something other than prey), or a combination of the two.[31]
 
 Motion camouflage
-
-Motion_Camouflage_Principle.svg
 
 Most forms of camouflage are ineffective when the camouflaged animal or object moves, because the motion is easily seen by the observing predator, prey or enemy. However, insects such as hoverflies[32] and dragonflies use motion camouflage: the hoverflies to approach possible mates, and the dragonflies to approach rivals when defending territories.[33][34] Motion camouflage is achieved by moving so as to stay on a straight line between the target and a fixed point in the landscape; the pursuer thus appears not to move, but only to loom larger in the target's field of vision.[35] The same method can be used for military purposes, for example by missiles to minimise their risk of detection by an enemy.[36] However, missile engineers, and animals such as bats, use the method mainly for its efficiency rather than camouflage.[37]
 
 File:Hoverfly August 2007-8.jpg|Male _Syritta pipiens_ hoverflies use motion camouflage to approach females File:Australian Emperor mating and laying.jpg|Male Australian Emperor dragonflies use motion camouflage to approach rivals.
 
-Melanophores_with_dispersed_or_aggregated_melanosomes.svg
-
 Changeable skin coloration
 
 Animals such as chameleon, frog, flatfish such as the peacock flounder, squid and octopus actively change their skin patterns and colours using special chromatophore cells to resemble their current background, or, as in most chameleons, for signalling. However, Smith's dwarf chameleon does use active colour change for camouflage.[38]
 
-Peacock_Flounder_Bothus_mancus_in_Kona.jpg taken a few minutes apart, showing its ability to match its coloration to the environment]] Each chromatophore contains pigment of only one colour. In fish and frogs, colour change is mediated by the type of chromatophores known as melanophores that contain dark pigment. A melanophore is star-shaped; it contains many small pigmented organelles which can be dispersed throughout the cell, or aggregated near its centre. When the pigmented organelles are dispersed, the cell makes a patch of the animal's skin appear dark; when they are aggregated, most of the cell, and the animal's skin, appears light. In frogs, the change is controlled relatively slowly, mainly by hormones. In fish, the change is controlled by the brain, which sends signals directly to the chromatophores, as well as producing hormones.[39]
+taken a few minutes apart, showing its ability to match its coloration to the environment]] Each chromatophore contains pigment of only one colour. In fish and frogs, colour change is mediated by the type of chromatophores known as melanophores that contain dark pigment. A melanophore is star-shaped; it contains many small pigmented organelles which can be dispersed throughout the cell, or aggregated near its centre. When the pigmented organelles are dispersed, the cell makes a patch of the animal's skin appear dark; when they are aggregated, most of the cell, and the animal's skin, appears light. In frogs, the change is controlled relatively slowly, mainly by hormones. In fish, the change is controlled by the brain, which sends signals directly to the chromatophores, as well as producing hormones.[39]
 
 The skins of cephalopods such as the octopus contain complex units, each consisting of a chromatophore with surrounding muscle and nerve cells. The cephalopod chromatophore has all its pigment grains in a small elastic sac, which can be stretched or allowed to relax under the control of the brain to vary its opacity. By controlling chromatophores of different colours, cephalopods can rapidly change their skin patterns and colours.[40][41]
 
@@ -108,8 +100,6 @@ File:Rock Ptarmigan (Lagopus Muta).jpg|Rock ptarmigan, changing colour in spring
 
 Countershading
 
-Countershading.svg
-
 Countershading uses graded colour to counteract the effect of self-shadowing, creating an illusion of flatness. Self-shadowing makes an animal appear darker below than on top, grading from light to dark; countershading 'paints in' tones which are darkest on top, lightest below, making the countershaded animal nearly invisible against a suitable background. Thayer observed that "Animals are painted by Nature, darkest on those parts which tend to be most lighted by the sky's light, and _vice versa_". Accordingly, the principle of countershading is sometimes called _Thayer's Law_. Countershading is widely used by terrestrial animals, such as gazelles[48] and grasshoppers; marine animals, such as sharks and dolphins; and birds, such as snipe and dunlin.[49]
 
 Countershading is less often used for military camouflage, despite Second World War experiments that showed its effectiveness. English zoologist Hugh Cott encouraged the use of methods including countershading, but despite his authority on the subject, failed to persuade the British authorities. Soldiers often wrongly viewed camouflage netting as a kind of invisibility cloak, and they had to be taught to look at camouflage practically, from an enemy observer's viewpoint. At the same time in Australia, zoologist William John Dakin advised soldiers to copy animals' methods, using their instincts for wartime camouflage.
@@ -120,7 +110,7 @@ File:Gazella-dorcas.jpg%7CCountershaded Dorcas gazelle, _Gazella dorcas_ File:Ti
 
 Counter-illumination
 
-Squid_Counterillumination.png in the firefly squid]]
+in the firefly squid]]
 
 Counter-illumination means producing light to match a background that is brighter than an animal's body or military vehicle; it is a form of active camouflage. It is notably used by some species of squid, such as the firefly squid and the midwater squid. The latter has light-producing organs (photophores) scattered all over its underside; these create a sparkling glow that prevents the animal from appearing as a dark shape when seen from below.[51] Counterillumination camouflage is the likely function of the bioluminescence of many marine organisms, though light is also produced to attract[52] or to detect prey[53] and for signalling.
 
@@ -130,15 +120,15 @@ File:HMS Largs by night with incomplete Diffused Lighting Camouflage 1942.jpg|HM
 
 Transparency
 
-Expl0469_-_Flickr_-_NOAA_Photo_Library.jpg'' jellyfish, are largely transparent.]]
+'' jellyfish, are largely transparent.]]
 
 Many marine animals that float near the surface are highly transparent, giving them almost perfect camouflage. However, transparency is difficult for bodies made of materials that have different refractive indices from seawater. Some marine animals such as jellyfish have gelatinous bodies, composed mainly of water; their thick mesogloea is acellular and highly transparent. This conveniently makes them buoyant, but it also makes them large for their muscle mass, so they cannot swim fast, making this form of camouflage a costly trade-off with mobility. Gelatinous planktonic animals are between 50 and 90 percent transparent. A transparency of 50 percent is enough to make an animal invisible to a predator such as cod at a depth of ; better transparency is required for invisibility in shallower water, where the light is brighter and predators can see better. For example, a cod can see prey that are 98 percent transparent in optimal lighting in shallow water. Therefore, sufficient transparency for camouflage is more easily achieved in deeper waters.
 
-Hyalinobatrachium_uranoscopum01a.jpg like _Hyalinobatrachium uranoscopum_ use partial transparency for camouflage in the dim light of the rainforest.]] Some tissues such as muscles can be made transparent, provided either they are very thin or organised as regular layers or fibrils that are small compared to the wavelength of visible light. A familiar example is the transparency of the lens of the vertebrate eye, which is made of the protein crystallin, and the vertebrate cornea which is made of the protein collagen. Other structures cannot be made transparent, notably the retinas or equivalent light-absorbing structures of eyes – they must absorb light to be able to function. The camera-type eye of vertebrates and cephalopods must be completely opaque. Finally, some structures are visible for a reason, such as to lure prey. For example, the nematocysts (stinging cells) of the transparent siphonophore _Agalma okenii_ resemble small copepods. Examples of transparent marine animals include a wide variety of larvae, including radiata (coelenterates), siphonophores, salps (floating tunicates), gastropod molluscs, polychaete worms, many shrimplike crustaceans, and fish; whereas the adults of most of these are opaque and pigmented, resembling the seabed or shores where they live. Adult comb jellies and jellyfish obey the rule, often being mainly transparent. Cott suggests this follows the more general rule that animals resemble their background: in a transparent medium like seawater, that means being transparent. The small Amazon river fish _Microphilypnus amazonicus_ and the shrimps it associates with, _Pseudopalaemon gouldingi_, are so transparent as to be "almost invisible"; further, these species appear to select whether to be transparent or more conventionally mottled (disruptively patterned) according to the local background in the environment.[59]
+like _Hyalinobatrachium uranoscopum_ use partial transparency for camouflage in the dim light of the rainforest.]] Some tissues such as muscles can be made transparent, provided either they are very thin or organised as regular layers or fibrils that are small compared to the wavelength of visible light. A familiar example is the transparency of the lens of the vertebrate eye, which is made of the protein crystallin, and the vertebrate cornea which is made of the protein collagen. Other structures cannot be made transparent, notably the retinas or equivalent light-absorbing structures of eyes – they must absorb light to be able to function. The camera-type eye of vertebrates and cephalopods must be completely opaque. Finally, some structures are visible for a reason, such as to lure prey. For example, the nematocysts (stinging cells) of the transparent siphonophore _Agalma okenii_ resemble small copepods. Examples of transparent marine animals include a wide variety of larvae, including radiata (coelenterates), siphonophores, salps (floating tunicates), gastropod molluscs, polychaete worms, many shrimplike crustaceans, and fish; whereas the adults of most of these are opaque and pigmented, resembling the seabed or shores where they live. Adult comb jellies and jellyfish obey the rule, often being mainly transparent. Cott suggests this follows the more general rule that animals resemble their background: in a transparent medium like seawater, that means being transparent. The small Amazon river fish _Microphilypnus amazonicus_ and the shrimps it associates with, _Pseudopalaemon gouldingi_, are so transparent as to be "almost invisible"; further, these species appear to select whether to be transparent or more conventionally mottled (disruptively patterned) according to the local background in the environment.[59]
 
 Silvering
 
-Herringadultkils2.jpg'', is a typical silvered fish of medium depths, camouflaged by reflection.]] Herring_Silvering.jpg
+'', is a typical silvered fish of medium depths, camouflaged by reflection.]]
 
 Where transparency cannot be achieved, it can be imitated effectively by silvering to make an animal's body highly reflective. At medium depths at sea, light comes from above, so a mirror oriented vertically makes animals such as fish invisible from the side. Most fish in the upper ocean such as sardine and herring are camouflaged by silvering.
 
@@ -158,7 +148,7 @@ File:Biston betularia.png|Peppered moth caterpillars mimic twigs File:Insect cam
 
 Motion dazzle
 
-Chapman-Zebra.jpg's bold pattern may induce motion dazzle in observers]]
+'s bold pattern may induce motion dazzle in observers]]
 
 Most forms of camouflage are made ineffective by movement: a deer or grasshopper may be highly cryptic when motionless, but instantly seen when it moves. But one method, motion dazzle, requires rapidly moving bold patterns of contrasting stripes.[67] Motion dazzle may degrade predators' ability to estimate the prey's speed and direction accurately, giving the prey an improved chance of escape.[68] Motion dazzle distorts speed perception and is most effective at high speeds; stripes can also distort perception of size (and so, perceived range to the target). As of 2011, motion dazzle had been proposed for military vehicles, but never applied.[69] Since motion dazzle patterns would make animals more difficult to locate accurately when moving, but easier to see when stationary, there would be an evolutionary trade-off between motion dazzle and crypsis.[70]
 
@@ -171,11 +161,11 @@ Military
 
 Before 1800
 
-Museum_für_Antike_Schifffahrt,_Mainz_02._Spritsail.jpg]] Ship camouflage was occasionally used in ancient times. Philostratus (c. 172–250 AD) wrote in his _Imagines_ that Mediterranean pirate ships could be painted blue-gray for concealment. Vegetius () says that "Venetian blue" (sea green) was used in the Gallic Wars, when Julius Caesar sent his _speculatoria navigia_ (reconnaissance boats) to gather intelligence along the coast of Britain; the ships were painted entirely in bluish-green wax, with sails, ropes and crew the same colour. There is little evidence of military use of camouflage on land before 1800, but two unusual ceramics show men in Peru's Mochica culture from before 500 AD, hunting birds with blowpipes which are fitted with a kind of shield near the mouth, perhaps to conceal the hunters' hands and faces.[75] Another early source is a 15th-century French manuscript, _The Hunting Book of Gaston Phebus_, showing a horse pulling a cart which contains a hunter armed with a crossbow under a cover of branches, perhaps serving as a hide for shooting game.[76] Jamaican Maroons are said to have used plant materials as camouflage in the First Maroon War ().[77]
+]] Ship camouflage was occasionally used in ancient times. Philostratus (c. 172–250 AD) wrote in his _Imagines_ that Mediterranean pirate ships could be painted blue-gray for concealment. Vegetius () says that "Venetian blue" (sea green) was used in the Gallic Wars, when Julius Caesar sent his _speculatoria navigia_ (reconnaissance boats) to gather intelligence along the coast of Britain; the ships were painted entirely in bluish-green wax, with sails, ropes and crew the same colour. There is little evidence of military use of camouflage on land before 1800, but two unusual ceramics show men in Peru's Mochica culture from before 500 AD, hunting birds with blowpipes which are fitted with a kind of shield near the mouth, perhaps to conceal the hunters' hands and faces.[75] Another early source is a 15th-century French manuscript, _The Hunting Book of Gaston Phebus_, showing a horse pulling a cart which contains a hunter armed with a crossbow under a cover of branches, perhaps serving as a hide for shooting game.[76] Jamaican Maroons are said to have used plant materials as camouflage in the First Maroon War ().[77]
 
 19th-century origins
 
-Green_jacketed_rifleman_firing_Baker_rifle_1803.jpg firing Baker rifle 1803]] The development of military camouflage was driven by the increasing range and accuracy of infantry firearms in the 19th century. In particular the replacement of the inaccurate musket with weapons such as the Baker rifle made personal concealment in battle essential. Two Napoleonic War skirmishing units of the British Army, the 95th Rifle Regiment and the 60th Rifle Regiment, were the first to adopt camouflage in the form of a rifle green jacket, while the Line regiments continued to wear scarlet tunics.[78] A contemporary study in 1800 by the English artist and soldier Charles Hamilton Smith provided evidence that grey uniforms were less visible than green ones at a range of 150 yards.
+firing Baker rifle 1803]] The development of military camouflage was driven by the increasing range and accuracy of infantry firearms in the 19th century. In particular the replacement of the inaccurate musket with weapons such as the Baker rifle made personal concealment in battle essential. Two Napoleonic War skirmishing units of the British Army, the 95th Rifle Regiment and the 60th Rifle Regiment, were the first to adopt camouflage in the form of a rifle green jacket, while the Line regiments continued to wear scarlet tunics.[78] A contemporary study in 1800 by the English artist and soldier Charles Hamilton Smith provided evidence that grey uniforms were less visible than green ones at a range of 150 yards.
 
 In the American Civil War, rifle units such as the 1st United States Sharp Shooters (in the Federal army) similarly wore green jackets while other units wore more conspicuous colours.[79] The first British Army unit to adopt khaki uniforms was the Corps of Guides at Peshawar, when Sir Harry Lumsden and his second in command, William Hodson introduced a "drab" uniform in 1848.[80] Hodson wrote that it would be more appropriate for the hot climate, and help make his troops "invisible in a land of dust".[81] Later they improvised by dyeing cloth locally. Other regiments in India soon adopted the khaki uniform, and by 1896 khaki drill uniform was used everywhere outside Europe;[82] by the Second Boer War six years later it was used throughout the British Army.[83]
 
@@ -183,7 +173,7 @@ During the late 19th century camouflage was applied to British coastal fortifica
 
 First World War
 
-Andre_Mare_Camouflaged_Iron_Observation_Tree_(The_Elm_at_Vermezeele)_1916.jpg painter André Mare, 1916]]
+painter André Mare, 1916]]
 
 In the First World War, the French army formed a camouflage corps, led by Lucien-Victor Guirand de Scévola,[88][89] employing artists known as _camoufleurs_ to create schemes such as tree observation posts and covers for guns. Other armies soon followed them.[90][91] The term _camouflage_ probably comes from _camoufler_, a Parisian slang term meaning _to disguise_, and may have been influenced by _camouflet_, a French term meaning _smoke blown in someone's face_.[92][93] The English zoologist John Graham Kerr, artist Solomon J. Solomon and the American artist Abbott Thayer led attempts to introduce scientific principles of countershading and disruptive patterning into military camouflage, with limited success.[94] In early 1916 the Royal Naval Air Service began to create dummy air fields to draw the attention of enemy planes to empty land. They created decoy homes and lined fake runways with flares, which were meant to help protect real towns from night raids. This strategy was not common practice and did not succeed at first, but in 1918 it caught the Germans off guard multiple times.[95]
 
@@ -209,13 +199,11 @@ File:CADPAT digital camouflage pattern (Temperate Woodland variant).jpg|CADPAT w
 
 Hunting
 
-Deer_blind.jpg used in field sports]]
+used in field sports]]
 
 Hunters of game have long made use of camouflage in the form of materials such as animal skins, mud, foliage, and green or brown clothing to enable them to approach wary game animals. Field sports such as driven grouse shooting conceal hunters in hides (also called blinds or shooting butts).[127] Modern hunting clothing makes use of fabrics that provide a disruptive camouflage pattern; for example, in 1986 the hunter Bill Jordan created cryptic clothing for hunters, printed with images of specific kinds of vegetation such as grass and branches.
 
 Civil structures
-
-Camouflaged_Microwave_Cell_Telephone_Tower.JPG
 
 Camouflage is occasionally used to make built structures less conspicuous: for example, in South Africa, towers carrying cell telephone antennae are sometimes camouflaged as tall trees with plastic branches, in response to "resistance from the community". Since this method is costly (a figure of three times the normal cost is mentioned), alternative forms of camouflage can include using neutral colours or familiar shapes such as cylinders and flagpoles. Conspicuousness can also be reduced by siting masts near, or on, other structures.[128]
 
@@ -223,7 +211,7 @@ Automotive manufacturers often use patterns to disguise upcoming products. This 
 
 Fashion, art and society
 
-Dazzle_camouflage_costume_ball.PNG Military camouflage patterns influenced fashion and art from the time of the First World War onwards. Gertrude Stein recalled the cubist artist Pablo Picasso's reaction in around 1915:
+Military camouflage patterns influenced fashion and art from the time of the First World War onwards. Gertrude Stein recalled the cubist artist Pablo Picasso's reaction in around 1915:
 
 In 1919, the attendants of a "dazzle ball", hosted by the Chelsea Arts Club, wore dazzle-patterned black and white clothing. The ball influenced fashion and art via postcards and magazine articles. The _Illustrated London News_ announced:[130]
 

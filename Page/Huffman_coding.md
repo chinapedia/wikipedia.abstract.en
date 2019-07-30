@@ -1,5 +1,3 @@
-Huffman_tree_2.svg
-
   Char    Freq   Code
   ------- ------ -------
   space   7      111
@@ -37,8 +35,6 @@ Huffman coding uses a specific method for choosing the representation for each s
 
 
 Problem definition
-
-HuffmanCodeAlg.png
 
 Informal description
 
@@ -102,8 +98,6 @@ In general, a Huffman code need not be unique. Thus the set of Huffman codes for
 Basic technique
 
 Compression
-
-Huffman_coding_visualisation.svg
 
 [[Image:Huffman coding example.svg|thumb|A source generates 4 different symbols {a₁, a₂, a₃, a₄} with probability {0.4; 0.35; 0.2; 0.05}. A binary tree is generated from left to right taking the two least probable symbols and putting them together to form another equivalent symbol having a probability that equals the sum of the two symbols. The process is repeated until there is just one symbol. The tree can then be read backwards, from right to left, assigning different bits to different branches. The final Huffman code is:
 

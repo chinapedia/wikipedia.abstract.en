@@ -10,7 +10,7 @@ CULTIVATION of the land is an important process to make land arable by loosening
 
 Arable land area
 
-Arable_land_percent_world.png According to Food and Agriculture Organization of the United Nations the world's arable land amounted to 1,407 M ha, out of a total 4,924 M ha land used for agriculture, as for year 2013.[6]
+According to Food and Agriculture Organization of the United Nations the world's arable land amounted to 1,407 M ha, out of a total 4,924 M ha land used for agriculture, as for year 2013.[6]
 
 +---------------------------------------------------------------------------+
 | +------+-------------------+--------+--------+--------+--------+--------+ |
@@ -47,7 +47,7 @@ Arable_land_percent_world.png According to Food and Agriculture Organization of 
 
 Arable land (hectares per person)
 
-upright=1.35 in Western Slovakia]] Iglesia_de_Nuestra_Señora_de_La_Blanca,_Cardejón,_España,_2012-09-01,_DD_02.JPGs in Cardejón, Spain]]
+upright=1.35 in Western Slovakia]] s in Cardejón, Spain]]
 
   Country Name                     2013
   -------------------------------- -------
@@ -274,7 +274,7 @@ upright=1.35 in Western Slovakia]] Iglesia_de_Nuestra_Señora_de_La_Blanca,_Card
 
 Non-arable land
 
-KerbauJawa.jpg Beverley_Minster_from_West_Pasture.jpg in England]] Agricultural land that is not arable according to the FAO definition above includes:
+in England]] Agricultural land that is not arable according to the FAO definition above includes:
 
 -   Permanent crop – land that produces crops from woody vegetation, e.g. orchardland, vineyards, coffee plantations, rubber plantations, and land producing nut trees;
 -   Meadows and pastures – land used as pasture and grazed range, and those natural grasslands and sedge meadows that are used for hay production in some regions.

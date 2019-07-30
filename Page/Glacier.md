@@ -1,4 +1,4 @@
-Baltoro_glacier_from_air.jpg in northern Pakistan. At in length, it is one of the longest alpine glaciers on earth.]] Parque_estatal_Chugach,_Alaska,_Estados_Unidos,_2017-08-22,_DD_92.jpg Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG from the terminus of the Perito Moreno Glacier in western Patagonia, Argentina]] Grosser_Aletschgletscher_3178.JPG, the largest glacier of the Alps, in Switzerland]] Quelccaya_Glacier.jpg is the second largest glaciated area in the tropics, in Peru]]
+in northern Pakistan. At in length, it is one of the longest alpine glaciers on earth.]] from the terminus of the Perito Moreno Glacier in western Patagonia, Argentina]] , the largest glacier of the Alps, in Switzerland]] is the second largest glaciated area in the tropics, in Peru]]
 
 A GLACIER ( or ) is a persistent body of dense ice that is constantly moving under its own weight; it forms where the accumulation of snow exceeds its ablation (melting and sublimation) over many years, often centuries. Glaciers slowly deform and flow due to stresses induced by their weight, creating crevasses, seracs, and other distinguishing features. They also abrade rock and debris from their substrate to create landforms such as cirques and moraines. Glaciers form only on land and are distinct from the much thinner sea ice and lake ice that form on the surface of bodies of water.
 
@@ -20,11 +20,11 @@ Types
 
 Classification by size, shape and behavior
 
-Glacier_mouth.jpg near Innergschlöß, Austria]] Glaciers are categorized by their morphology, thermal characteristics, and behavior. _Alpine glaciers_ form on the crests and slopes of mountains. A glacier that fills a valley is called a _valley glacier_, or alternatively an _alpine glacier_ or _mountain glacier_.[6] A large body of glacial ice astride a mountain, mountain range, or volcano is termed an _ice cap_ or _ice field_.[7] Ice caps have an area less than by definition.
+near Innergschlöß, Austria]] Glaciers are categorized by their morphology, thermal characteristics, and behavior. _Alpine glaciers_ form on the crests and slopes of mountains. A glacier that fills a valley is called a _valley glacier_, or alternatively an _alpine glacier_ or _mountain glacier_.[6] A large body of glacial ice astride a mountain, mountain range, or volcano is termed an _ice cap_ or _ice field_.[7] Ice caps have an area less than by definition.
 
-Glacial bodies larger than are called _ice sheets_ or _continental glaciers_.[8] Several kilometers deep, they obscure the underlying topography. Only nunataks protrude from their surfaces. The only extant ice sheets are the two that cover most of Antarctica and Greenland.[9] They contain vast quantities of fresh water, enough that if both melted, global sea levels would rise by over .[10] Portions of an ice sheet or cap that extend into water are called ice shelves; they tend to be thin with limited slopes and reduced velocities.[11] Narrow, fast-moving sections of an ice sheet are called _ice streams_.[12][13] In Antarctica, many ice streams drain into large ice shelves. Some drain directly into the sea, often with an ice tongue, like Mertz Glacier. GrottaGelo.jpg volcano, the southernmost glacier in Europe]]
+Glacial bodies larger than are called _ice sheets_ or _continental glaciers_.[8] Several kilometers deep, they obscure the underlying topography. Only nunataks protrude from their surfaces. The only extant ice sheets are the two that cover most of Antarctica and Greenland.[9] They contain vast quantities of fresh water, enough that if both melted, global sea levels would rise by over .[10] Portions of an ice sheet or cap that extend into water are called ice shelves; they tend to be thin with limited slopes and reduced velocities.[11] Narrow, fast-moving sections of an ice sheet are called _ice streams_.[12][13] In Antarctica, many ice streams drain into large ice shelves. Some drain directly into the sea, often with an ice tongue, like Mertz Glacier. volcano, the southernmost glacier in Europe]]
 
-Fjordsglacier.jpg, Alaska]] _Tidewater glaciers_ are glaciers that terminate in the sea, including most glaciers flowing from Greenland, Antarctica, Baffin and Ellesmere Islands in Canada, Southeast Alaska, and the Northern and Southern Patagonian Ice Fields. As the ice reaches the sea, pieces break off, or calve, forming icebergs. Most tidewater glaciers calve above sea level, which often results in a tremendous impact as the iceberg strikes the water. Tidewater glaciers undergo centuries-long cycles of advance and retreat that are much less affected by the climate change than those of other glaciers.[14]
+, Alaska]] _Tidewater glaciers_ are glaciers that terminate in the sea, including most glaciers flowing from Greenland, Antarctica, Baffin and Ellesmere Islands in Canada, Southeast Alaska, and the Northern and Southern Patagonian Ice Fields. As the ice reaches the sea, pieces break off, or calve, forming icebergs. Most tidewater glaciers calve above sea level, which often results in a tremendous impact as the iceberg strikes the water. Tidewater glaciers undergo centuries-long cycles of advance and retreat that are much less affected by the climate change than those of other glaciers.[14]
 
 Classification by thermal state
 
@@ -33,15 +33,15 @@ Thermally, a _temperate glacier_ is at melting point throughout the year, from i
 
 Formation
 
-GornerGlacier_002.jpg in Switzerland]]
+in Switzerland]]
 
 Glaciers form where the accumulation of snow and ice exceeds ablation. A glacier usually originates from a landform called 'cirque' (or corrie or cwm) – a typically armchair-shaped geological feature (such as a depression between mountains enclosed by arêtes) – which collects and compresses through gravity the snow that falls into it. This snow collects and is compacted by the weight of the snow falling above it, forming névé. Further crushing of the individual snowflakes and squeezing the air from the snow turns it into "glacial ice". This glacial ice will fill the cirque until it "overflows" through a geological weakness or vacancy, such as the gap between two mountains. When the mass of snow and ice is sufficiently thick, it begins to move due to a combination of surface slope, gravity and pressure. On steeper slopes, this can occur with as little as 15 m (50 ft) of snow-ice.
 
-Packrafting_at_Spencer_Glacier._Chugach_National_Forest,_Alaska.jpger passes a wall of freshly exposed blue ice on Spencer Glacier, in Alaska. Glacial ice acts like a filter on light, and the more time light can spend traveling through ice, the bluer it becomes.]] In temperate glaciers, snow repeatedly freezes and thaws, changing into granular ice called firn. Under the pressure of the layers of ice and snow above it, this granular ice fuses into denser and denser firn. Over a period of years, layers of firn undergo further compaction and become glacial ice. Glacier ice is slightly less dense than ice formed from frozen water because it contains tiny trapped air bubbles.
+er passes a wall of freshly exposed blue ice on Spencer Glacier, in Alaska. Glacial ice acts like a filter on light, and the more time light can spend traveling through ice, the bluer it becomes.]] In temperate glaciers, snow repeatedly freezes and thaws, changing into granular ice called firn. Under the pressure of the layers of ice and snow above it, this granular ice fuses into denser and denser firn. Over a period of years, layers of firn undergo further compaction and become glacial ice. Glacier ice is slightly less dense than ice formed from frozen water because it contains tiny trapped air bubbles.
 
 Glacial ice has a distinctive blue tint because it absorbs some red light due to an overtone of the infrared OH stretching mode of the water molecule. Liquid water is blue for the same reason. The blue of glacier ice is sometimes misattributed to Rayleigh scattering due to bubbles in the ice.[18]
 
-153_-_Glacier_Perito_Moreno_-_Grotte_glaciaire_-_Janvier_2010.jpg located on the Perito Moreno Glacier in Argentina]]
+located on the Perito Moreno Glacier in Argentina]]
 
 
 Structure
@@ -64,21 +64,21 @@ Following the Little Ice Age's end around 1850, glaciers around the Earth have r
 
 Motion
 
-Chevron_Crevasses_00.JPG (Mount Rainier); such crevasses often form near the edge of a glacier where interactions with underlying or marginal rock impede flow. In this case, the impediment appears to be some distance from the near margin of the glacier.]] Glaciers move, or flow, downhill due to gravity and the internal deformation of ice.[23] Ice behaves like a brittle solid until its thickness exceeds about 50 m (160 ft). The pressure on ice deeper than 50 m causes plastic flow. At the molecular level, ice consists of stacked layers of molecules with relatively weak bonds between layers. When the stress on the layer above exceeds the inter-layer binding strength, it moves faster than the layer below.[24]
+(Mount Rainier); such crevasses often form near the edge of a glacier where interactions with underlying or marginal rock impede flow. In this case, the impediment appears to be some distance from the near margin of the glacier.]] Glaciers move, or flow, downhill due to gravity and the internal deformation of ice.[23] Ice behaves like a brittle solid until its thickness exceeds about 50 m (160 ft). The pressure on ice deeper than 50 m causes plastic flow. At the molecular level, ice consists of stacked layers of molecules with relatively weak bonds between layers. When the stress on the layer above exceeds the inter-layer binding strength, it moves faster than the layer below.[24]
 
 Glaciers also move through basal sliding. In this process, a glacier slides over the terrain on which it sits, lubricated by the presence of liquid water. The water is created from ice that melts under high pressure from frictional heating. Basal sliding is dominant in temperate, or warm-based glaciers.
 
-Although evidence in favour of glacial flow was known by the early 19th century, other theories of glacial motion were advanced, such as the idea that melt water, refreezing inside glaciers, caused the glacier to dilate and extend its length. As it became clear that glaciers behaved to some degree as if the ice were a viscous fluid, it was argued that "regelation", or the melting and refreezing of ice at a temperature lowered by the pressure on the ice inside the glacier, was what allowed the ice to deform and flow. James Forbes came up with the essentially correct explanation in the 1840s, although it was several decades before it was fully accepted.[25] Pexels-photo-25416.jpg
+Although evidence in favour of glacial flow was known by the early 19th century, other theories of glacial motion were advanced, such as the idea that melt water, refreezing inside glaciers, caused the glacier to dilate and extend its length. As it became clear that glaciers behaved to some degree as if the ice were a viscous fluid, it was argued that "regelation", or the melting and refreezing of ice at a temperature lowered by the pressure on the ice inside the glacier, was what allowed the ice to deform and flow. James Forbes came up with the essentially correct explanation in the 1840s, although it was several decades before it was fully accepted.[25]
 
 Fracture zone and cracks
 
-TitlisIceCracks.jpg Glacier]] The top of a glacier are rigid because they are under low pressure. This upper section is known as the _fracture zone_ and moves mostly as a single unit over the plastically flowing lower section. When a glacier moves through irregular terrain, cracks called crevasses develop in the fracture zone. Crevasses form due to differences in glacier velocity. If two rigid sections of a glacier move at different speeds and directions, shear forces cause them to break apart, opening a crevasse. Crevasses are seldom more than deep but in some cases can be or even deeper. Beneath this point, the plasticity of the ice is too great for cracks to form. Intersecting crevasses can create isolated peaks in the ice, called seracs.
+Glacier]] The top of a glacier are rigid because they are under low pressure. This upper section is known as the _fracture zone_ and moves mostly as a single unit over the plastically flowing lower section. When a glacier moves through irregular terrain, cracks called crevasses develop in the fracture zone. Crevasses form due to differences in glacier velocity. If two rigid sections of a glacier move at different speeds and directions, shear forces cause them to break apart, opening a crevasse. Crevasses are seldom more than deep but in some cases can be or even deeper. Beneath this point, the plasticity of the ice is too great for cracks to form. Intersecting crevasses can create isolated peaks in the ice, called seracs.
 
 Crevasses can form in several different ways. Transverse crevasses are transverse to flow and form where steeper slopes cause a glacier to accelerate. Longitudinal crevasses form semi-parallel to flow where a glacier expands laterally. Marginal crevasses form from the edge of the glacier, due to the reduction in speed caused by friction of the valley walls. Marginal crevasses are usually largely transverse to flow. Moving glacier ice can sometimes separate from stagnant ice above, forming a bergschrund. Bergschrunds resemble crevasses but are singular features at a glacier's margins.
 
 Crevasses make travel over glaciers hazardous, especially when they are hidden by fragile snow bridges.
 
-Glaciereaston.jpg, Mount Baker, in the North Cascades, United States]]
+, Mount Baker, in the North Cascades, United States]]
 
 Below the equilibrium line, glacial meltwater is concentrated in stream channels. Meltwater can pool in proglacial lakes on top of a glacier or descend into the depths of a glacier via moulins. Streams within or beneath a glacier flow in englacial or sub-glacial tunnels. These tunnels sometimes reemerge at the glacier's surface.[26]
 
@@ -99,7 +99,7 @@ _Ogives_ (or _Forbes bands_)[34] are alternating wave crests and valleys that ap
 
 Geography
 
-Black-Glacier.jpg, Argentina]] Glaciers are present on every continent and approximately fifty countries, excluding those (Australia, South Africa) that have glaciers only on distant subantarctic island territories. Extensive glaciers are found in Antarctica, Argentina, Chile, Canada, Alaska, Greenland and Iceland. Mountain glaciers are widespread, especially in the Andes, the Himalayas, the Rocky Mountains, the Caucasus, Scandinavian mountains, and the Alps. Snezhnika glacier in Pirin Mountain, Bulgaria with a latitude of 41°46′09″ N is the southernmost glacial mass in Europe.[37] Mainland Australia currently contains no glaciers, although a small glacier on Mount Kosciuszko was present in the last glacial period.[38] In New Guinea, small, rapidly diminishing, glaciers are located on its highest summit massif of Puncak Jaya.[39] Africa has glaciers on Mount Kilimanjaro in Tanzania, on Mount Kenya and in the Rwenzori Mountains. Oceanic islands with glaciers include Iceland, several of the islands off the coast of Norway including Svalbard and Jan Mayen to the far North, New Zealand and the subantarctic islands of Marion, Heard, Grande Terre (Kerguelen) and Bouvet. During glacial periods of the Quaternary, Taiwan, Hawaii on Mauna Kea[40] and Tenerife also had large alpine glaciers, while the Faroe and Crozet Islands[41] were completely glaciated.
+, Argentina]] Glaciers are present on every continent and approximately fifty countries, excluding those (Australia, South Africa) that have glaciers only on distant subantarctic island territories. Extensive glaciers are found in Antarctica, Argentina, Chile, Canada, Alaska, Greenland and Iceland. Mountain glaciers are widespread, especially in the Andes, the Himalayas, the Rocky Mountains, the Caucasus, Scandinavian mountains, and the Alps. Snezhnika glacier in Pirin Mountain, Bulgaria with a latitude of 41°46′09″ N is the southernmost glacial mass in Europe.[37] Mainland Australia currently contains no glaciers, although a small glacier on Mount Kosciuszko was present in the last glacial period.[38] In New Guinea, small, rapidly diminishing, glaciers are located on its highest summit massif of Puncak Jaya.[39] Africa has glaciers on Mount Kilimanjaro in Tanzania, on Mount Kenya and in the Rwenzori Mountains. Oceanic islands with glaciers include Iceland, several of the islands off the coast of Norway including Svalbard and Jan Mayen to the far North, New Zealand and the subantarctic islands of Marion, Heard, Grande Terre (Kerguelen) and Bouvet. During glacial periods of the Quaternary, Taiwan, Hawaii on Mauna Kea[40] and Tenerife also had large alpine glaciers, while the Faroe and Crozet Islands[41] were completely glaciated.
 
 The permanent snow cover necessary for glacier formation is affected by factors such as the degree of slope on the land, amount of snowfall and the winds. Glaciers can be found in all latitudes except from 20° to 27° north and south of the equator where the presence of the descending limb of the Hadley circulation lowers precipitation so much that with high insolation snow lines reach above . Between 19˚N and 19˚S, however, precipitation is higher and the mountains above usually have permanent snow.
 
@@ -110,7 +110,7 @@ In addition to the dry, unglaciated polar regions, some mountains and volcanoes 
 
 Glacial geology
 
-Arranque_glaciar-en.svg PluckedGraniteAlandIslands.JPG]] Glaciers erode terrain through two principal processes: ABRASION and '''plucking.
+]] Glaciers erode terrain through two principal processes: ABRASION and '''plucking.
 
 As glaciers flow over bedrock, they soften and lift blocks of rock into the ice. This process, called plucking, is caused by subglacial water that penetrates fractures in the bedrock and subsequently freezes and expands. This expansion causes the ice to act as a lever that loosens the rock by lifting it. Thus, sediments of all sizes become part of the glacier's load. If a retreating glacier gains enough debris, it may become a rock glacier, like the Timpanogos Glacier in Utah.
 
@@ -140,21 +140,19 @@ Larger pieces of rock that are encrusted in till or deposited on the surface are
 
 Moraines
 
-MorainesLakeLouise.JPG, Alberta, Canada]] Glacial moraines are formed by the deposition of material from a glacier and are exposed after the glacier has retreated. They usually appear as linear mounds of till, a non-sorted mixture of rock, gravel and boulders within a matrix of a fine powdery material. Terminal or end moraines are formed at the foot or terminal end of a glacier. Lateral moraines are formed on the sides of the glacier. Medial moraines are formed when two different glaciers merge and the lateral moraines of each coalesce to form a moraine in the middle of the combined glacier. Less apparent are ground moraines, also called _glacial drift_, which often blankets the surface underneath the glacier downslope from the equilibrium line.
+, Alberta, Canada]] Glacial moraines are formed by the deposition of material from a glacier and are exposed after the glacier has retreated. They usually appear as linear mounds of till, a non-sorted mixture of rock, gravel and boulders within a matrix of a fine powdery material. Terminal or end moraines are formed at the foot or terminal end of a glacier. Lateral moraines are formed on the sides of the glacier. Medial moraines are formed when two different glaciers merge and the lateral moraines of each coalesce to form a moraine in the middle of the combined glacier. Less apparent are ground moraines, also called _glacial drift_, which often blankets the surface underneath the glacier downslope from the equilibrium line.
 
 The term _moraine_ is of French origin. It was coined by peasants to describe alluvial embankments and rims found near the margins of glaciers in the French Alps. In modern geology, the term is used more broadly, and is applied to a series of formations, all of which are composed of till. Moraines can also create moraine dammed lakes.
 
 Drumlins
 
-Drumlins_LMB.svg Drumlins are asymmetrical, canoe shaped hills made mainly of till. Their heights vary from 15 to 50 meters and they can reach a kilometer in length. The steepest side of the hill faces the direction from which the ice advanced (_stoss_), while a longer slope is left in the ice's direction of movement (_lee_).
+Drumlins are asymmetrical, canoe shaped hills made mainly of till. Their heights vary from 15 to 50 meters and they can reach a kilometer in length. The steepest side of the hill faces the direction from which the ice advanced (_stoss_), while a longer slope is left in the ice's direction of movement (_lee_).
 
 Drumlins are found in groups called _drumlin fields_ or _drumlin camps_. One of these fields is found east of Rochester, New York; it is estimated to contain about 10,000 drumlins.
 
 Although the process that forms drumlins is not fully understood, their shape implies that they are products of the plastic deformation zone of ancient glaciers. It is believed that many drumlins were formed when glaciers advanced over and altered the deposits of earlier glaciers.
 
 Glacial valleys, cirques, arêtes, and pyramidal peaks
-
-Glacial_landscape.svg
 
 Before glaciation, mountain valleys have a characteristic "V" shape, produced by eroding water. During glaciation, these valleys are often widened, deepened and smoothed to form a "U"-shaped glacial valley or glacial trough, as it is sometimes called.[48] The erosion that creates glacial valleys truncates any spurs of rock or earth that may have earlier extended across the valley, creating broadly triangular-shaped cliffs called truncated spurs. Within glacial valleys, depressions created by plucking and abrasion can be filled by lakes, called paternoster lakes. If a glacial valley runs into a large body of water, it forms a fjord.
 
@@ -174,7 +172,7 @@ Outwash plains and valley trains are usually accompanied by basins known as "ket
 
 Glacial deposits
 
-Receding_glacier-en.svg When a glacier's size shrinks below a critical point, its flow stops and it becomes stationary. Meanwhile, meltwater within and beneath the ice leaves stratified alluvial deposits. These deposits, in the forms of columns, terraces and clusters, remain after the glacier melts and are known as "glacial deposits".
+When a glacier's size shrinks below a critical point, its flow stops and it becomes stationary. Meanwhile, meltwater within and beneath the ice leaves stratified alluvial deposits. These deposits, in the forms of columns, terraces and clusters, remain after the glacier melts and are known as "glacial deposits".
 
 Glacial deposits that take the shape of hills or mounds are called _kames_. Some kames form when meltwater deposits sediments through openings in the interior of the ice. Others are produced by fans or deltas created by meltwater. When the glacial ice occupies a valley, it can form terraces or kames along the sides of the valley.
 
@@ -187,14 +185,14 @@ Very fine glacial sediments or rock flour is often picked up by wind blowing ove
 
 Isostatic rebound
 
-Glacier_weight_effects_LMB.png Large masses, such as ice sheets or glaciers, can depress the crust of the Earth into the mantle.[51] The depression usually totals a third of the ice sheet or glacier's thickness. After the ice sheet or glacier melts, the mantle begins to flow back to its original position, pushing the crust back up. This post-glacial rebound, which proceeds very slowly after the melting of the ice sheet or glacier, is currently occurring in measurable amounts in Scandinavia and the Great Lakes region of North America.
+Large masses, such as ice sheets or glaciers, can depress the crust of the Earth into the mantle.[51] The depression usually totals a third of the ice sheet or glacier's thickness. After the ice sheet or glacier melts, the mantle begins to flow back to its original position, pushing the crust back up. This post-glacial rebound, which proceeds very slowly after the melting of the ice sheet or glacier, is currently occurring in measurable amounts in Scandinavia and the Great Lakes region of North America.
 
 A geomorphological feature created by the same process on a smaller scale is known as _dilation-faulting_. It occurs where previously compressed rock is allowed to return to its original shape more rapidly than can be maintained without faulting. This leads to an effect similar to what would be seen if the rock were hit by a large hammer. Dilation faulting can be observed in recently de-glaciated parts of Iceland and Cumbria.
 
 
 On Mars
 
-Mars_north_pole.jpg on Mars]] The polar ice caps of Mars show geologic evidence of glacial deposits. The south polar cap is especially comparable to glaciers on Earth.[52] Topographical features and computer models indicate the existence of more glaciers in Mars' past.[53]
+on Mars]] The polar ice caps of Mars show geologic evidence of glacial deposits. The south polar cap is especially comparable to glaciers on Earth.[52] Topographical features and computer models indicate the existence of more glaciers in Mars' past.[53]
 
 At mid-latitudes, between 35° and 65° north or south, Martian glaciers are affected by the thin Martian atmosphere. Because of the low atmospheric pressure, ablation near the surface is solely due to sublimation, not melting. As on Earth, many glaciers are covered with a layer of rocks which insulates the ice. A radar instrument on board the Mars Reconnaissance Orbiter found ice under a thin layer of rocks in formations called lobate debris aprons (LDAs).[54][55][56][57][58]
 

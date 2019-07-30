@@ -7,7 +7,7 @@ History
 
 Early history
 
-Cornelis_Springer,_The_Gemeenlandshuis_and_the_Old_Church,_Delft,_Summer_(1877).jpg]] Antique_map_of_Delft,_Netherlands_by_Blaeu_J._1649.jpg)]]
+]] )]]
 
 The city of Delft came into being beside a canal, the 'Delf', which comes from the word _delven_, meaning delving or digging, and led to the name Delft. It presumably started around the 11th century as a landlord court.
 
@@ -21,7 +21,7 @@ When William was shot dead in 1584 by Balthazar Gerards in the hall of the Prins
 
 Delft Explosion
 
-Delftsedonderslag.jpg: _A View of Delft after the Explosion of 1654_]]
+: _A View of Delft after the Explosion of 1654_]]
 
 The Delft Explosion, also known in history as the , occurred on 12 October 1654 [8] when a gunpowder store exploded, destroying much of the city. Over a hundred people were killed and thousands were wounded.
 
@@ -34,7 +34,7 @@ Delft artist Egbert van der Poel painted several pictures of Delft showing the d
 
 Sights
 
-View_of_Delft,_by_Johannes_Vermeer.jpg'' by Johannes Vermeer]] The city centre retains a large number of monumental buildings, while in many streets there are canals of which the banks are connected by typical bridges,[9] altogether making this city a notable tourist destination.[10]
+'' by Johannes Vermeer]] The city centre retains a large number of monumental buildings, while in many streets there are canals of which the banks are connected by typical bridges,[9] altogether making this city a notable tourist destination.[10]
 
 Historical buildings and other sights of interest include:
 
@@ -49,14 +49,12 @@ Historical buildings and other sights of interest include:
 -   The historical "Waag" building (Weigh house).
 -   Windmill De Roos, a tower mill built c.1760. Restored to working order in 2013.[12] Another windmill that formerly stood in Delft, Het Fortuyn, was dismantled in 1917 and re-erected at the Netherlands Open Air Museum, Arnhem, Gelderland in 1920.
 
-  -------------------- ------------------ ------------------------- ---------------------------
-  Delft_stadhuis.jpg   Delft_poorte.jpg   Delft_Oude_Kerk_002.jpg   Oude_Langendijk_Delft.jpg
-  -------------------- ------------------ ------------------------- ---------------------------
+  -- -- -- --
+
+  -- -- -- --
 
 
 Culture
-
-Delft_plate_faience_Famille_Rose_1760_1780.jpg
 
 Delft is well known for the Delft pottery ceramic products[13] which were styled on the imported Chinese porcelain of the 17th century. The city had an early start in this area since it was a home port of the Dutch East India Company. It can still be seen at the pottery factories De Koninklijke Porceleyne Fles (or Royal Delft) and De Delftse Pauw.
 
@@ -65,7 +63,7 @@ The painter Johannes Vermeer (1632–1675) was born in Delft. Vermeer used Delft
 
 Education
 
-TU_Delft_buildings.jpg Delft University of Technology (TU Delft) is one of four universities of technology in the Netherlands.[15] It was founded as an academy for civil engineering in 1842 by King William II. Today well over 21,000 students are enrolled.[16]
+Delft University of Technology (TU Delft) is one of four universities of technology in the Netherlands.[15] It was founded as an academy for civil engineering in 1842 by King William II. Today well over 21,000 students are enrolled.[16]
 
 The UNESCO-IHE Institute for Water Education, providing postgraduate education for people from developing countries, draws on the strong tradition in water management and hydraulic engineering of the Delft university.
 
@@ -83,14 +81,14 @@ In the local economic field essential elements are:
 
 Nature and recreation
 
-Delft_Plantagegeer.JPG East of Delft lies a relatively large nature and recreation area called the "Delftse Hout" ("Delft Wood").[17] Through the forest lie bike, horse-riding and footpaths. It also includes a vast lake (suitable for swimming and windsurfing), narrow beaches, a restaurant, community gardens, plus camping ground and other recreational and sports facilities. (There is also a facility for renting bikes from the station.)
+East of Delft lies a relatively large nature and recreation area called the "Delftse Hout" ("Delft Wood").[17] Through the forest lie bike, horse-riding and footpaths. It also includes a vast lake (suitable for swimming and windsurfing), narrow beaches, a restaurant, community gardens, plus camping ground and other recreational and sports facilities. (There is also a facility for renting bikes from the station.)
 
 Inside the city, apart from a central park, there are also several smaller town parks, like "Nieuwe Plantage", "Agnetapark", "Kalverbos" and others. Furthermore, there is the Botanical Garden of the TU and an arboretum in Delftse Hout.
 
 
 Notable people
 
-Hugo_Grotius_Delft.JPG, a founding father of modern international law.]] Anthonie_van_Leeuwenhoek_(1632-1723)._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg, the first acknowledged microscopist and microbiologist. He is commonly known as the father of microbiology.]] Mwb_in_lab.JPG, the founding father of the Delft School of Microbiology. He is often considered as one of the founders of virology, environmental microbiology, and industrial microbiology.]]
+, a founding father of modern international law.]] , the first acknowledged microscopist and microbiologist. He is commonly known as the father of microbiology.]] , the founding father of the Delft School of Microbiology. He is often considered as one of the founders of virology, environmental microbiology, and industrial microbiology.]]
 
 DELFT WAS THE BIRTHPLACE OF:
 
@@ -135,8 +133,6 @@ OTHERWISE RELATED
 
 Miscellaneous
 
-Nuna3atZandvoort1.JPG
-
 -   Nuna is a series of manned solar-powered vehicles, built by students at the Delft University of Technology, that won the World solar challenge in Australia seven times in the last nine competitions (in 2001, 2003, 2005, 2007, 2013, 2015 and 2017).[18]
 -   The so-called "Superbus" project aims to develop high-speed coaches capable of speeds of up to together with the supporting infrastructure including special highway lanes constructed separately next to the nation's highways; this project was led by Dutch astronaut professor Wubbo Ockels of the Delft University of Technology.
 -   Members of both Delft Student Rowing Clubs Proteus-Eretes and Laga have won many international trophies, including Olympic medals, in the past.[19]
@@ -162,8 +158,6 @@ Delft's longstanding connection with Rishon LeZion ended in 2016 after the suppo
 
 Transport
 
-Delft-plaats-OpenTopo.jpg
-
 -   Delft railway station; (As of February 2015, located in a new building.)[24]
 -   Delft Zuid railway station
 
@@ -184,21 +178,21 @@ See also
 
 Gallery
 
-  --------------------- ---------------------- ----------------------------------- ---------------------------------------
-  Delft_-_Visbrug.jpg   Delft_-_building.jpg   Nieuwe-Kerk-vanuit-het-westen.JPG   Legermuseum_delft.jpg (Army museum)]]
-  --------------------- ---------------------- ----------------------------------- ---------------------------------------
+  -- -- -- -----------------
+           (Army museum)]]
+  -- -- -- -----------------
 
-  --------------------------------- ------------------ ----------------------------- ----------------------
-  Delft_Central_Market_Square.jpg   Delft_centre.JPG   Huybrechtstoren_delft_2.JPG   Koornbeurs_delft.jpg
-  --------------------------------- ------------------ ----------------------------- ----------------------
+  -- -- -- --
 
-  ----------------------- ------------------- ------------------------------- -------------------------------------------
-  Delft_observatory.jpg   Delft_Station.jpg   20170720_Delft_station_01.jpg   Delftse_Schie_at_sundown.JPG at sundown]]
-  ----------------------- ------------------- ------------------------------- -------------------------------------------
+  -- -- -- --
 
-  --------------------------- ---------------------------- ---------------------------- -----------------------------------
-  Sculpture near the church   Streetview (het Oosteinde)   Streetview (Dertienhuizen)   Lutherse Kerk (Delft)|170px|thumb
-  --------------------------- ---------------------------- ---------------------------- -----------------------------------
+  -- -- -- --------------
+           at sundown]]
+  -- -- -- --------------
+
+  -- -- -- --
+
+  -- -- -- --
 
 
 Notes

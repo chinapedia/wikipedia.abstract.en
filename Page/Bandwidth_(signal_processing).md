@@ -1,5 +1,3 @@
-Baseband.svg
-
 BANDWIDTH is the difference between the upper and lower frequencies in a continuous band of frequencies. It is typically measured in hertz, and depending on context, may specifically refer to _passband bandwidth_ or _baseband bandwidth_. Passband bandwidth is the difference between the upper and lower cutoff frequencies of, for example, a band-pass filter, a communication channel, or a signal spectrum. Baseband bandwidth applies to a low-pass filter or baseband signal; the bandwidth is equal to its upper cutoff frequency.
 
 Bandwidth in hertz is a central concept in many fields, including electronics, information theory, digital communications, radio communications, signal processing, and spectroscopy and is one of the determinants of the capacity of a given communication channel.
@@ -22,7 +20,7 @@ The ESSENTIAL BANDWIDTH is defined as the portion of a signal spectrum in the fr
 
 _x_ dB bandwidth
 
-Bandwidth_2.svg's gain magnitude, illustrating the concept of −3 dB bandwidth at a gain of approximately 0.707. The frequency axis of this symbolic diagram can be linear or logarithmically scaled.]]
+'s gain magnitude, illustrating the concept of −3 dB bandwidth at a gain of approximately 0.707. The frequency axis of this symbolic diagram can be linear or logarithmically scaled.]]
 
 In some contexts, the signal bandwidth in hertz refers to the frequency range in which the signal's spectral density (in W/Hz or V²/Hz) is nonzero or above a small threshold value. That definition is used in calculations of the lowest sampling rate that will satisfy the sampling theorem. The threshold value is often defined relative to the maximum value, and is most commonly the , that is the point where the spectral density is half its maximum value (or the spectral amplitude, in V or V/Hz, is 70.7% of its maximum).[4]
 

@@ -1,5 +1,3 @@
-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg
-
 The BLACK DEATH, also known as the GREAT PLAGUE or the PLAGUE, or less commonly the BLACK PLAGUE, was one of the most devastating pandemics in human history, resulting in the deaths of an estimated people in Eurasia and peaking in Europe from 1347 to 1351.[1][2][3] The bacterium _Yersinia pestis_, which results in several forms of plague, is believed to have been the cause.[4] The Black Death was the first major European outbreak of plague, and the second plague pandemic.[5] The plague created a number of religious, social and economic upheavals which had profound effects on the course of European history.
 
 The Black Death is thought to have originated in the dry plains of Central Asia, where it travelled along the Silk Road, reaching Crimea by 1343.[6] From there, it was most likely carried by fleas living on the black rats that traveled on all merchant ships, spreading throughout the Mediterranean Basin and Europe.
@@ -36,7 +34,7 @@ Mecca became infected in 1349. During the same year, records show the city of Ma
 
 Signs and symptoms
 
-Acral_gangrene_due_to_plague.jpg gangrene of the fingers due to bubonic plague causes the skin and flesh to die and turn black]] Plague_bubo.jpg on the upper thigh of a person infected with bubonic plague. Swollen lymph glands (_buboes_) often occur in the neck, armpit and groin (_inguinal_) regions of plague victims.]] Contemporary accounts of the plague are often varied or imprecise. The most commonly noted symptom was the appearance of buboes (or _gavocciolos_) in the groin, the neck and armpits, which oozed pus and bled when opened.[30] Boccaccio's description:
+gangrene of the fingers due to bubonic plague causes the skin and flesh to die and turn black]] on the upper thigh of a person infected with bubonic plague. Swollen lymph glands (_buboes_) often occur in the neck, armpit and groin (_inguinal_) regions of plague victims.]] Contemporary accounts of the plague are often varied or imprecise. The most commonly noted symptom was the appearance of buboes (or _gavocciolos_) in the groin, the neck and armpits, which oozed pus and bled when opened.[30] Boccaccio's description:
 
 The only medical detail that is questionable in Boccaccio's description is that the gavocciolo was an "infallible token of approaching death", as, if the bubo discharges, recovery is possible.
 
@@ -47,7 +45,7 @@ Some accounts, like that of Lodewijk Heyligen, whose master the Cardinal Colonna
 
 Causes
 
-Yersinia_pestis_fluorescent.jpeg'' (200x magnification), the bacterium which causes bubonic plague[33]]]
+'' (200x magnification), the bacterium which causes bubonic plague[33]]]
 
 Medical knowledge had stagnated during the Middle Ages. The most authoritative account at the time came from the medical faculty in Paris in a report to the king of France that blamed the heavens, in the form of a conjunction of three planets in 1345 that caused a "great pestilence in the air". This report became the first and most widely circulated of a series of plague tracts that sought to give advice to sufferers. That the plague was caused by bad air became the most widely accepted theory. Today, this is known as the miasma theory. The word _plague_ had no special significance at this time, and only the recurrence of outbreaks during the Middle Ages gave it the name that has become the medical term.
 
@@ -63,7 +61,7 @@ A number of alternative theories – implicating other diseases in the Black Dea
 
 DNA evidence
 
-Bubonic_plague_victims-mass_grave_in_Martigues,_France_1720-1721.jpg, France, yielded molecular evidence of the _orientalis_ strain of _Yersinia pestis_, the organism responsible for bubonic plague. The second pandemic of bubonic plague was active in Europe from 1347, the beginning of the Black Death, until 1750.]]
+, France, yielded molecular evidence of the _orientalis_ strain of _Yersinia pestis_, the organism responsible for bubonic plague. The second pandemic of bubonic plague was active in Europe from 1347, the beginning of the Black Death, until 1750.]]
 
 In October 2010, the open-access scientific journal _PLoS Pathogens_ published a paper by a multinational team who undertook a new investigation into the role of _Yersinia pestis_ in the Black Death following the disputed identification by Drancourt and Raoult in 1998. They assessed the presence of DNA/RNA with polymerase chain reaction (PCR) techniques for _Y. pestis_ from the tooth sockets in human skeletons from mass graves in northern, central and southern Europe that were associated archaeologically with the Black Death and subsequent resurgences. The authors concluded that this new research, together with prior analyses from the south of France and Germany,[40] "ends the debate about the cause of the Black Death, and unambiguously demonstrates that _Y. pestis_ was the causative agent of the epidemic plague that devastated Europe during the Middle Ages".[41]
 
@@ -83,7 +81,7 @@ In addition to arguing that the rat population was insufficient to account for a
 
 McCormick has suggested that earlier archaeologists were simply not interested in the "laborious" processes needed to discover rat remains.[51] Walløe complains that all of these authors "take it for granted that Simond's infection model, black rat → rat flea → human, which was developed to explain the spread of plague in India, is the only way an epidemic of _Yersinia pestis_ infection could spread", whilst pointing to several other possibilities.[52] Similarly, Green has argued that greater attention is needed to the range of (especially non-commensal) animals that might be involved in the transmission of plague.[53]
 
-Anthrax_PHIL_2033.png skin lesion]]
+skin lesion]]
 
 A variety of alternatives to _Y. pestis_ have been put forward. Twigg suggested that the cause was a form of anthrax, and Norman Cantor thought it may have been a combination of anthrax and other pandemics. Scott and Duncan have argued that the pandemic was a form of infectious disease that they characterise as _hemorrhagic_ plague similar to Ebola. Archaeologist Barney Sloane has argued that there is insufficient evidence of the extinction of a large number of rats in the archaeological record of the medieval waterfront in London and that the plague spread too quickly to support the thesis that _Y. pestis_ was spread from fleas on rats; he argues that transmission must have been person to person.[54][55] This theory is supported by research in 2018 which suggested transmission was more likely by body lice and human fleas during the second plague pandemic.[56]
 
@@ -94,7 +92,7 @@ Consequences
 
 Death toll
 
-Doutielt3.jpg bury plague victims]] There are no exact figures for the death toll; the rate varied widely by locality. In urban centres, the greater the population before the outbreak, the longer the duration of the period of abnormal mortality.[60] It killed some people in Eurasia.[61][62][63] According to medieval historian Philip Daileader in 2007:
+bury plague victims]] There are no exact figures for the death toll; the rate varied widely by locality. In urban centres, the greater the population before the outbreak, the longer the duration of the period of abnormal mortality.[60] It killed some people in Eurasia.[61][62][63] According to medieval historian Philip Daileader in 2007:
 
 A death rate as high as 60% in Europe has been suggested by Norwegian historian Ole Benedictow:
 
@@ -102,7 +100,7 @@ The most widely accepted estimate for the Middle East, including Iraq, Iran and 
 
 Persecutions
 
-Nuremberg_chronicles_-_Dance_of_Death_(CCLXIIIIv).jpg'', an allegory on the universality of death, was a common painting motif in the late medieval period.]]
+'', an allegory on the universality of death, was a common painting motif in the late medieval period.]]
 
 Renewed religious fervour and fanaticism bloomed in the wake of the Black Death. Some Europeans targeted "various groups such as Jews, friars, foreigners, beggars, pilgrims",[73] lepers,[74][75] and Romani, thinking that they were to blame for the crisis. Lepers, and other individuals with skin diseases such as acne or psoriasis, were singled out and exterminated throughout Europe.
 
@@ -112,17 +110,15 @@ There were many attacks against Jewish communities.[78] In the Strasbourg massac
 
 Recurrence
 
-Great_plague_of_london-1665.jpg
-
 The plague repeatedly returned to haunt Europe and the Mediterranean throughout the 14th to 17th centuries.[82] According to Biraben, the plague was present somewhere in Europe in every year between 1346 and 1671.[83] The Second Pandemic was particularly widespread in the following years: 1360–1363; 1374; 1400; 1438–1439; 1456–1457; 1464–1466; 1481–1485; 1500–1503; 1518–1531; 1544–1548; 1563–1566; 1573–1588; 1596–1599; 1602–1611; 1623–1640; 1644–1654; and 1664–1667. Subsequent outbreaks, though severe, marked the retreat from most of Europe (18th century) and northern Africa (19th century).[84] According to Geoffrey Parker, "France alone lost almost a million people to the plague in the epidemic of 1628–31."[85]
 
 In England, in the absence of census figures, historians propose a range of pre-incident population figures from as high as 7 million to as low as 4 million in 1300,[86] and a post-incident population figure as low as 2 million.[87] By the end of 1350, the Black Death subsided, but it never really died out in England. Over the next few hundred years, further outbreaks occurred in 1361–1362, 1369, 1379–1383, 1389–1393, and throughout the first half of the 15th century.[88] An outbreak in 1471 took as much as 10–15% of the population, while the death rate of the plague of 1479–1480 could have been as high as 20%.[89] The most general outbreaks in Tudor and Stuart England seem to have begun in 1498, 1535, 1543, 1563, 1589, 1603, 1625, and 1636, and ended with the Great Plague of London in 1665.[90]
 
-Chumbunt.png in Moscow in 1771: during the course of the city's plague, between 50,000 and 100,000 people died, 17–33% of its population.]]
+in Moscow in 1771: during the course of the city's plague, between 50,000 and 100,000 people died, 17–33% of its population.]]
 
 In 1466, perhaps 40,000 people died of the plague in Paris.[91] During the 16th and 17th centuries, the plague was present in Paris around 30 per cent of the time.[92] The Black Death ravaged Europe for three years before it continued on into Russia, where the disease was present somewhere in the country 25 times between 1350 and 1490. Plague epidemics ravaged London in 1563, 1593, 1603, 1625, 1636, and 1665,[93] reducing its population by 10 to 30% during those years.[94] Over 10% of Amsterdam's population died in 1623–1625, and again in 1635–1636, 1655, and 1664.[95] Plague occurred in Venice 22 times between 1361 and 1528.[96] The plague of 1576–1577 killed 50,000 in Venice, almost a third of the population.[97] Late outbreaks in central Europe included the Italian Plague of 1629–1631, which is associated with troop movements during the Thirty Years' War, and the Great Plague of Vienna in 1679. Over 60% of Norway's population died in 1348–1350.[98] The last plague outbreak ravaged Oslo in 1654.[99]
 
-In the first half of the 17th century, a plague claimed some 1.7 million victims in Italy, or about 14% of the population.[100] In 1656, the plague killed about half of Naples' 300,000 inhabitants.[101] More than 1.25 million deaths resulted from the extreme incidence of plague in 17th-century Spain.[102] The plague of 1649 probably reduced the population of Seville by half.[103] In 1709–1713, a plague epidemic that followed the Great Northern War (1700–1721, Sweden v. Russia and allies)[104] killed about 100,000 in Sweden,[105] and 300,000 in Prussia.[106] The plague killed two-thirds of the inhabitants of Helsinki,[107] and claimed a third of Stockholm's population.[108] Europe's last major epidemic occurred in 1720 in Marseille.[109] World_distribution_of_plague_1998.PNG The Black Death ravaged much of the Islamic world.[110] Plague was present in at least one location in the Islamic world virtually every year between 1500 and 1850.[111] Plague repeatedly struck the cities of North Africa. Algiers lost 30,000–50,000 inhabitants to it in 1620–1621, and again in 1654–1657, 1665, 1691, and 1740–1742.[112] Plague remained a major event in Ottoman society until the second quarter of the 19th century. Between 1701 and 1750, thirty-seven larger and smaller epidemics were recorded in Constantinople, and an additional thirty-one between 1751 and 1800.[113] Baghdad has suffered severely from visitations of the plague, and sometimes two-thirds of its population has been wiped out.[114]
+In the first half of the 17th century, a plague claimed some 1.7 million victims in Italy, or about 14% of the population.[100] In 1656, the plague killed about half of Naples' 300,000 inhabitants.[101] More than 1.25 million deaths resulted from the extreme incidence of plague in 17th-century Spain.[102] The plague of 1649 probably reduced the population of Seville by half.[103] In 1709–1713, a plague epidemic that followed the Great Northern War (1700–1721, Sweden v. Russia and allies)[104] killed about 100,000 in Sweden,[105] and 300,000 in Prussia.[106] The plague killed two-thirds of the inhabitants of Helsinki,[107] and claimed a third of Stockholm's population.[108] Europe's last major epidemic occurred in 1720 in Marseille.[109] The Black Death ravaged much of the Islamic world.[110] Plague was present in at least one location in the Islamic world virtually every year between 1500 and 1850.[111] Plague repeatedly struck the cities of North Africa. Algiers lost 30,000–50,000 inhabitants to it in 1620–1621, and again in 1654–1657, 1665, 1691, and 1740–1742.[112] Plague remained a major event in Ottoman society until the second quarter of the 19th century. Between 1701 and 1750, thirty-seven larger and smaller epidemics were recorded in Constantinople, and an additional thirty-one between 1751 and 1800.[113] Baghdad has suffered severely from visitations of the plague, and sometimes two-thirds of its population has been wiped out.[114]
 
 Third plague pandemic
 

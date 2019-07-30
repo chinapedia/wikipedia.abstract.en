@@ -1,4 +1,4 @@
-The_development_and_the_ways_to_rejuvenate_cells_-_en.svgHUMAN CLONING is the creation of a genetically identical copy (or clone) of a human. The term is generally used to refer to artificial human cloning, which is the reproduction of human cells and tissue. It does not refer to the natural conception and delivery of identical twins. The possibility of human cloning has raised controversies. These ethical concerns have prompted several nations to pass laws regarding human cloning and its legality.
+HUMAN CLONING is the creation of a genetically identical copy (or clone) of a human. The term is generally used to refer to artificial human cloning, which is the reproduction of human cells and tissue. It does not refer to the natural conception and delivery of identical twins. The possibility of human cloning has raised controversies. These ethical concerns have prompted several nations to pass laws regarding human cloning and its legality.
 
 Two commonly discussed types of theoretical human cloning are _therapeutic cloning_ and _reproductive cloning_. Therapeutic cloning would involve cloning cells from a human for use in medicine and transplants, and is an active area of research, but is not in medical practice anywhere in the world, . Two common methods of therapeutic cloning that are being researched are somatic-cell nuclear transfer and, more recently, pluripotent stem cell induction. Reproductive cloning would involve making an entire cloned human, instead of just specific cells or tissues.
 
@@ -30,13 +30,9 @@ Methods
 
 Somatic cell nuclear transfer (SCNT)
 
-Cloning_diagram_english.svg
-
 In somatic cell nuclear transfer ("SCNT"), the nucleus of a somatic cell is taken from a donor and transplanted into a host egg cell, which had its own genetic material removed previously, making it an enucleated egg. After the donor somatic cell genetic material is transferred into the host oocyte with a micropipette, the somatic cell genetic material is fused with the egg using an electric current. Once the two cells have fused, the new cell can be permitted to grow in a surrogate or artificially.[21] This is the process that was used to successfully clone Dolly the sheep (see section on HISTORY in this article).[22]
 
 Induced pluripotent stem cells (iPSCs)
-
-Overview_of_iPS_cells.png
 
 Creating induced pluripotent stem cells ("iPSCs") is a long and inefficient process. Pluripotency refers to a stem cell that has the potential to differentiate into any of the three germ layers: endoderm (interior stomach lining, gastrointestinal tract, the lungs), mesoderm (muscle, bone, blood, urogenital), or ectoderm (epidermal tissues and nervous tissue).[23] A specific set of genes, often called "reprogramming factors", are introduced into a specific adult cell type. These factors send signals in the mature cell that cause the cell to become a pluripotent stem cell. This process is highly studied and new techniques are being discovered frequently on how to better this induction process.
 
@@ -49,8 +45,6 @@ Both the processes of SCNT and iPSCs have benefits and deficiencies. Historicall
 
 Uses, actual and potential
 
-Stem_cell_treatments.png
-
 Work on cloning techniques has advanced our basic understanding of developmental biology in humans. Observing human pluripotent stem cells grown in culture provides great insight into human embryo development, which otherwise cannot be seen. Scientists are now able to better define steps of early human development. Studying signal transduction along with genetic manipulation within the early human embryo has the potential to provide answers to many developmental diseases and defects. Many human-specific signaling pathways have been discovered by studying human embryonic stem cells. Studying developmental pathways in humans has given developmental biologists more evidence toward the hypothesis that developmental pathways are conserved throughout species.[28]
 
 iPSCs and cells created by SCNT are useful for research into the causes of disease, and as model systems used in drug discovery.[29][30]
@@ -60,7 +54,7 @@ Cells produced with SCNT, or iPSCs could eventually be used in stem cell therapy
 
 Ethical implications
 
-Cloning_-Twins_1990.jpg In bioethics, the ethics of cloning refers to a variety of ethical positions regarding the practice and possibilities of cloning, especially human cloning. While many of these views are religious in origin, the questions raised by cloning are faced by secular perspectives as well. Human therapeutic and reproductive cloning are not commercially used; animals are currently cloned in laboratories and in livestock production.
+In bioethics, the ethics of cloning refers to a variety of ethical positions regarding the practice and possibilities of cloning, especially human cloning. While many of these views are religious in origin, the questions raised by cloning are faced by secular perspectives as well. Human therapeutic and reproductive cloning are not commercially used; animals are currently cloned in laboratories and in livestock production.
 
 Advocates support development of therapeutic cloning in order to generate tissues and whole organs to treat patients who otherwise cannot obtain transplants,[38] to avoid the need for immunosuppressive drugs,[39] and to stave off the effects of aging.[40] Advocates for reproductive cloning believe that parents who cannot otherwise procreate should have access to the technology.[41]
 

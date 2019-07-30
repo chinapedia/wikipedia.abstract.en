@@ -45,7 +45,7 @@ In Poetovio, Gallus was arrested by the soldiers of Constantius under the comman
 
 Religious issues
 
-07_constantius2Chrono354.png dispensing largesse (a Renaissance copy of a Carolingian copy)]]
+dispensing largesse (a Renaissance copy of a Carolingian copy)]]
 
 Paganism
 
@@ -66,7 +66,7 @@ Christian-related edicts issued by Constantius (by himself or with others) inclu
 
 Judaism
 
-Byzantine_-_Belt_Section_with_Medallions_of_Constantius_II_and_Faustina_-_Walters_57527_-_Back.jpg |url= http://art.thewalters.org/detail/# |title= Belt Section with Medallions of Constantius II and Faustina}} The Walters Art Museum.]] Judaism faced some severe restrictions under Constantius, who seems to have followed an anti-Jewish policy in line with that of his father.[66] Early in his reign, Constantius issued a double edict in concert with his brothers limiting the ownership of slaves by Jewish people[67] and banning marriages between Jews and Christian women.[68] A later edict issued by Constantius after becoming sole emperor decreed that a person who was proven to have converted from Christianity to Judaism would have all of his property confiscated by the state.[69] However, Constantius' actions in this regard may not have been so much to do with Jewish religion as with Jewish business—apparently, privately owned Jewish businesses were often in competition with state-owned businesses. As a result, Constantius may have sought to provide an advantage to state-owned businesses by limiting the skilled workers and slaves available to Jewish businesses.[70]
+|url= http://art.thewalters.org/detail/# |title= Belt Section with Medallions of Constantius II and Faustina}} The Walters Art Museum.]] Judaism faced some severe restrictions under Constantius, who seems to have followed an anti-Jewish policy in line with that of his father.[66] Early in his reign, Constantius issued a double edict in concert with his brothers limiting the ownership of slaves by Jewish people[67] and banning marriages between Jews and Christian women.[68] A later edict issued by Constantius after becoming sole emperor decreed that a person who was proven to have converted from Christianity to Judaism would have all of his property confiscated by the state.[69] However, Constantius' actions in this regard may not have been so much to do with Jewish religion as with Jewish business—apparently, privately owned Jewish businesses were often in competition with state-owned businesses. As a result, Constantius may have sought to provide an advantage to state-owned businesses by limiting the skilled workers and slaves available to Jewish businesses.[70]
 
 Jew-related edicts issued by Constantius (by himself or with others) included:
 
@@ -80,7 +80,7 @@ Jew-related edicts issued by Constantius (by himself or with others) included:
 
 More usurpers and Julian
 
-Bust_of_Constantius_II_(Mary_Harrsch).jpg's Museum of Archaeology]] On 11 August 355, the magister militum Claudius Silvanus revolted in Gaul. Silvanus had surrendered to Constantius after the Battle of Mursa Major. Constantius had made him magister militum in 353 with the purpose of blocking the German threats, a feat that Silvanus achieved by bribing the German tribes with the money he had collected. A plot organized by members of Constantius' court led the emperor to recall Silvanus. After Silvanus revolted, he received a letter from Constantius recalling him to Milan, but which made no reference to the revolt. Ursicinus, who was meant to replace Silvanus, bribed some troops, and Silvanus was killed.
+'s Museum of Archaeology]] On 11 August 355, the magister militum Claudius Silvanus revolted in Gaul. Silvanus had surrendered to Constantius after the Battle of Mursa Major. Constantius had made him magister militum in 353 with the purpose of blocking the German threats, a feat that Silvanus achieved by bribing the German tribes with the money he had collected. A plot organized by members of Constantius' court led the emperor to recall Silvanus. After Silvanus revolted, he received a letter from Constantius recalling him to Milan, but which made no reference to the revolt. Ursicinus, who was meant to replace Silvanus, bribed some troops, and Silvanus was killed.
 
 Constantius realised that too many threats still faced the Empire, however, and he could not possibly handle all of them by himself. So on 6 November 355,[78] he elevated his last remaining male relative, Julian, to the rank of Caesar.[79] A few days later, Julian was married to Helena, the last surviving sister of Constantius.[80] Constantius soon sent Julian off to Gaul.[81]
 
@@ -90,7 +90,7 @@ In the winter of 357–58, Constantius received ambassadors from Shapur II who d
 
 Usurpation of Julian and crises in the east
 
-Missorium_Kerch.jpg In the meantime, Julian had won some victories against the Alamanni, who had once again invaded Roman Gaul. However, when Constantius requested reinforcements from Julian's army for the eastern campaign, the Gallic legions revolted and proclaimed Julian _Augustus_.[93][94][95][96]
+In the meantime, Julian had won some victories against the Alamanni, who had once again invaded Roman Gaul. However, when Constantius requested reinforcements from Julian's army for the eastern campaign, the Gallic legions revolted and proclaimed Julian _Augustus_.[93][94][95][96]
 
 On account of the immediate Sassanid threat, Constantius was unable to directly respond to his cousin's usurpation, other than by sending missives in which he tried to convince Julian to resign the title of _Augustus_ and be satisfied with that of _Caesar_. By 361, Constantius saw no alternative but to face the usurper with force, and yet the threat of the Sassanids remained. Constantius had already spent part of early 361 unsuccessfully attempting to re-take the fortress of Ad Tigris.[97] After a time he had withdrawn to Antioch to regroup and prepare for a confrontation with Shapur II.[98] The campaigns of the previous year had inflicted heavy losses on the Sassanids, however, and they did not attempt another round of campaigns that year. This temporary respite in hostilities allowed Constantius to turn his full attention to facing Julian.[99]
 
@@ -112,7 +112,7 @@ Third and lastly, in 360, to Faustina, who gave birth to Constantius' only child
 
 Reputation
 
-Nummus_of_Constantius_II_(YORYM_2014_395_59)_obverse.jpg'' of Constantius II]] Constantius II is a particularly difficult figure to judge properly due to the hostility of most sources toward him. A. H. M. Jones writes that Constantius "appears in the pages of Ammianus as a conscientious emperor but a vain and stupid man, an easy prey to flatterers. He was timid and suspicious, and interested persons could easily play on his fears for their own advantage."[105] However, Kent and M. and A. Hirmer suggest that Constantius "has suffered at the hands of unsympathetic authors, ecclesiastical and civil alike. To orthodox churchmen he was a bigoted supporter of the Arian heresy, to Julian the Apostate and the many who have subsequently taken his part he was a murderer, a tyrant and inept as a ruler". They go on to add, "Most contemporaries seem in fact to have held him in high esteem, and he certainly inspired loyalty in a way his brother could not".[106]
+'' of Constantius II]] Constantius II is a particularly difficult figure to judge properly due to the hostility of most sources toward him. A. H. M. Jones writes that Constantius "appears in the pages of Ammianus as a conscientious emperor but a vain and stupid man, an easy prey to flatterers. He was timid and suspicious, and interested persons could easily play on his fears for their own advantage."[105] However, Kent and M. and A. Hirmer suggest that Constantius "has suffered at the hands of unsympathetic authors, ecclesiastical and civil alike. To orthodox churchmen he was a bigoted supporter of the Arian heresy, to Julian the Apostate and the many who have subsequently taken his part he was a murderer, a tyrant and inept as a ruler". They go on to add, "Most contemporaries seem in fact to have held him in high esteem, and he certainly inspired loyalty in a way his brother could not".[106]
 
 
 Ancestry

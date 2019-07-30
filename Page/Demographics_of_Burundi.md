@@ -1,6 +1,6 @@
 This article is about the demographic features of the population of Burundi, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
-Burundi-Demography.png, year 2005 ; Number of inhabitants in thousands.]] At 206.1 persons per km²., Burundi has the second-largest population density in Sub-Saharan Africa. Most people live on farms near areas of fertile volcanic soil. The population is made up of three major ethnic groups – Hutu (_Bahutu_), Tutsi (_Batutsi_ or _Watusi_), and Twa (_Batwa_). Kirundi is the common language. Intermarriage takes place frequently between the Hutus and Tutsis. The terms "pastoralist" and "agriculturist", often used as ethnic designations for Watusi and Bahutu, respectively, are only occupational titles which vary among individuals and groups. Although Hutus encompass the majority of the population, historically Tutsis have been politically and economically dominant.
+, year 2005 ; Number of inhabitants in thousands.]] At 206.1 persons per km²., Burundi has the second-largest population density in Sub-Saharan Africa. Most people live on farms near areas of fertile volcanic soil. The population is made up of three major ethnic groups – Hutu (_Bahutu_), Tutsi (_Batutsi_ or _Watusi_), and Twa (_Batwa_). Kirundi is the common language. Intermarriage takes place frequently between the Hutus and Tutsis. The terms "pastoralist" and "agriculturist", often used as ethnic designations for Watusi and Bahutu, respectively, are only occupational titles which vary among individuals and groups. Although Hutus encompass the majority of the population, historically Tutsis have been politically and economically dominant.
 
 
 Population
@@ -134,8 +134,6 @@ Population
     _Note_: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2015 est.)
 
 Age structure
-
-Burundipop.svg
 
     _0-14 years:_ 45.52% (male 2,712,836 /female 2,678,223)
     _15-24 years:_ 19.21% (male 1,135,145 /female 1,139,717)

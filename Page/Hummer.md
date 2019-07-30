@@ -23,7 +23,7 @@ AM General had planned to sell a civilian version of the Humvee as far back as t
 
 In 1992, AM General began selling a civilian version of the M998 Humvee vehicle to the public under the brand name "HUMMER".[21]
 
-2006_Hummer_H3_H1_and_H2.jpg, H1, and H2|From left: HUMMER H3, H1, and H2 ]]
+, H1, and H2|From left: HUMMER H3, H1, and H2 ]]
 
 GM purchase
 

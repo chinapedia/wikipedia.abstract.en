@@ -30,7 +30,7 @@ On the map of Ptolemy, the "Kimbroi" are placed on the northernmost part of the 
 
 Migration
 
-Cimbrians_and_Teutons_invasions.svg Some time before 100 BC many of the Cimbri, as well as the Teutons and Ambrones migrated south-east. After several unsuccessful battles with the Boii and other Celtic tribes, they appeared ca 113 BC in Noricum, where they invaded the lands of one of Rome's allies, the Taurisci.
+Some time before 100 BC many of the Cimbri, as well as the Teutons and Ambrones migrated south-east. After several unsuccessful battles with the Boii and other Celtic tribes, they appeared ca 113 BC in Noricum, where they invaded the lands of one of Rome's allies, the Taurisci.
 
 On the request of the Roman consul Gnaeus Papirius Carbo, sent to defend the Taurisci, they retreated, only to find themselves deceived and attacked at the Battle of Noreia, where they defeated the Romans.[16] Only a storm, which separated the combatants, saved the Roman forces from complete annihilation.
 
@@ -46,7 +46,7 @@ Rome was in panic, and the _terror cimbricus_ became proverbial. Everyone expect
 
 Defeat
 
-The_defeat_of_the_Cimbri.jpg]] In 104–103 BC, the Cimbri had turned to the Iberian Peninsula where they pillaged far and wide, until they were confronted by a coalition of Celtiberians.[17] Defeated, the Cimbri returned to Gaul, where they joined their allies, the Teutons. During this time C. Marius had the time to prepare and, in 102 BC, he was ready to meet the Teutons and the Ambrones at the Rhône. These two tribes intended to pass into Italy through the western passes, while the Cimbri and the Tigurines were to take the northern route across the Rhine and later across the Central Eastern Alps.
+]] In 104–103 BC, the Cimbri had turned to the Iberian Peninsula where they pillaged far and wide, until they were confronted by a coalition of Celtiberians.[17] Defeated, the Cimbri returned to Gaul, where they joined their allies, the Teutons. During this time C. Marius had the time to prepare and, in 102 BC, he was ready to meet the Teutons and the Ambrones at the Rhône. These two tribes intended to pass into Italy through the western passes, while the Cimbri and the Tigurines were to take the northern route across the Rhine and later across the Central Eastern Alps.
 
 At the estuary of the Isère, the Teutons and the Ambrones met Marius, whose well-defended camp they did not manage to overrun. Instead, they pursued their route, and Marius followed them. At Aquae Sextiae, the Romans won two battles and took the Teuton king Teutobod prisoner.
 
@@ -71,7 +71,7 @@ Culture
 
 Religion
 
-Gundestrup_E.jpg players are depicted at right on plate E of the Gundestrup cauldron.]]
+players are depicted at right on plate E of the Gundestrup cauldron.]]
 
 The Cimbri are depicted as ferocious warriors who did not fear death. The host was followed by women and children on carts. Aged women, priestesses, dressed in white sacrificed the prisoners of war and sprinkled their blood, the nature of which allowed them to see what was to come.
 

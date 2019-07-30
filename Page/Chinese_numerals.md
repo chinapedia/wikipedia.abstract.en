@@ -7,7 +7,7 @@ The other indigenous system is the Suzhou numerals, or _huama_, a positional sys
 
 Characters used to represent numbers
 
-Muyu-G209-1620km-5469-crop.jpg (G二〇九)]] The Chinese character numeral system consists of the Chinese characters used by the Chinese written language to write spoken numerals. Similar to spelling-out numbers in English (e.g., "one thousand nine hundred forty-five"), it is not an independent system _per se_. Since it reflects spoken language, it does not use the positional system as in Arabic numerals, in the same way that spelling out numbers in English does not.
+(G二〇九)]] The Chinese character numeral system consists of the Chinese characters used by the Chinese written language to write spoken numerals. Similar to spelling-out numbers in English (e.g., "one thousand nine hundred forty-five"), it is not an independent system _per se_. Since it reflects spoken language, it does not use the positional system as in Arabic numerals, in the same way that spelling out numbers in English does not.
 
 Standard numbers
 
@@ -369,8 +369,6 @@ Full dates are usually written in the format 2001年1月20日 for January 20, 20
 
 Counting rod and Suzhou numerals
 
-Chounumerals.svg
-
 In the same way that Roman numerals were standard in ancient and medieval Europe for mathematics and commerce, the Chinese formerly used the rod numerals, which is a positional system. The Suzhou numerals () system is a variation of the Southern Song rod numerals. Nowadays, the _huāmǎ_ system is only used for displaying prices in Chinese markets or on traditional handwritten invoices.
 
 
@@ -381,18 +379,16 @@ There is a common method of using of one hand to signify the numbers one to ten.
 
 Historical use of numerals in China
 
-Shang_numerals.jpg 西周金文.jpg Rod_numeral_positioning.JPG Counting_board.jpg
-
 Most Chinese numerals of later periods were descendants of the Shang dynasty oracle numerals of the 14th century BC. The oracle bone script numerals were found on tortoise shell and animal bones. In early civilizations, the Shang were able to express any numbers, however large, with only nine symbols and a counting board.[22]
 
 Some of the bronze script numerals such as 1, 2, 3, 4, 10, 11, 12, and 13 became part of the system of rod numerals.
 
 In this system, horizontal rod numbers are used for the tens, thousands, hundred thousands etc. It's written in _Sunzi Suanjing_ that "one is vertical, ten is horizontal".[23]
 
-  七                    一                    八                    二                    四
-  --------------------- --------------------- --------------------- --------------------- ---------------------
-  Counting_rod_v7.png   Counting_rod_h1.png   Counting_rod_v8.png   Counting_rod_h2.png   Counting_rod_v4.png
-  7                     1                     8                     2                     4
+  七   一   八   二   四
+  ---- ---- ---- ---- ----
+
+  7    1    8    2    4
 
 The counting rod numerals system has place value and decimal numerals for computation, and was used widely by Chinese merchants, mathematicians and astronomers from the Han dynasty to the 16th century.
 

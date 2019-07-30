@@ -102,7 +102,7 @@ The air force has bases in Garoua, Koutaba, Yaoundé, Douala and Bamenda. The Ca
 
 Cameroonian Navy
 
-Cameroonian_Army_Soldier.jpg during a joint exercise with the US military.]] There are about 1,300 troops in the navy including naval infantry.[42]
+during a joint exercise with the US military.]] There are about 1,300 troops in the navy including naval infantry.[42]
 
 Around May 1999, Philip Njaru wrote a newspaper article where he alleged ill-treatment of civilians conducted by the 21st Navy Battalion based in Ekondo-Titi. In late May Njaru was approached by the local captain who asked Njaru "to stop writing such articles and to disclose his sources". Refusing to do this, Njaru five days later found his house encircled by armed soldiers, and escaped to Kumba.[43] Here, he was assaulted by police in June 2001, with no particular reason stated.[44] Njaru complained to the local authorities, but later learned that "his complaint had not been received".[45]
 

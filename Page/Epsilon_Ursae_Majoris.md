@@ -5,7 +5,7 @@ It is the star in the tail of the bear closest to its body, and thus the star in
 
 Physical characteristics
 
-Sidney_Hall_-_Urania's_Mirror_-_Ursa_Major.jpg depicting Ursa Major's stars]]
+depicting Ursa Major's stars]]
 
 According to _Hipparcos_, Epsilon Ursae Majoris is from the Sun. Its spectral type is A1p; the "p" stands for _peculiar_, as its spectrum is characteristic of an α² Canum Venaticorum variable. Epsilon Ursae Majoris, as a representative of this type, may harbor two interacting processes. First, the star's strong magnetic field separating different elements in the star's hydrogen 'fuel'. In addition, a rotation axis at an angle to the magnetic axis may be spinning different bands of magnetically sorted elements into the line of sight between Epsilon Ursae Majoris and the Earth. The intervening elements react differently at different frequencies of light as they whip in and out of view, causing Epsilon Ursae Majoris to have very strange spectral lines that fluctuate over a period of 5.1 days. The _kB9_ suffix to the spectral type indicates that the calcium K line is present and representative of a B9 spectral type even though the rest of the spectrum indicates A1.
 

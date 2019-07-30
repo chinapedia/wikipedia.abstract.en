@@ -19,7 +19,7 @@ Berenson also appeared in several motion pictures. She starred opposite Anthony 
 
 Personal life and death
 
-12.6.11BerryBerensonPanelN-76ByLuigiNovi5.jpg's North Pool]] On August 9, 1973, in Cape Cod, Massachusetts, Berenson married her future _Remember My Name_ costar Anthony Perkins. The couple raised two sons: actor-musician Oz Perkins (born February 2, 1974) and folk/rock recording artist Elvis Perkins (born February 9, 1976).[11] They remained married until Perkins's death from AIDS-related complications on September 12, 1992.[12][13][14]
+'s North Pool]] On August 9, 1973, in Cape Cod, Massachusetts, Berenson married her future _Remember My Name_ costar Anthony Perkins. The couple raised two sons: actor-musician Oz Perkins (born February 2, 1974) and folk/rock recording artist Elvis Perkins (born February 9, 1976).[11] They remained married until Perkins's death from AIDS-related complications on September 12, 1992.[12][13][14]
 
 Berenson died at age 53 in the September 11 attacks aboard American Airlines Flight 11, one day before the ninth anniversary of Perkins's death. She was returning to her California home following a holiday on Cape Cod.[15]
 

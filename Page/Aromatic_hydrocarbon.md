@@ -5,7 +5,7 @@ Some non-benzene-based compounds called HETEROARENES, which follow Hückel's rul
 
 Benzene ring model
 
-Benzene_circle.svg ]] Benzene, C₆H₆, is the least complex aromatic hydrocarbon, and it was the first one named as such. The nature of its bonding was first recognized by August Kekulé in the 19th century. Each carbon atom in the hexagonal cycle has four electrons to share. One goes to the hydrogen atom, and one to each of the two neighbouring carbons. This leaves one electron to share with one of the two neighbouring carbon atoms, thus creating a double bond with one carbon and leaving a single bond with the other, which is why the benzene molecule is drawn with alternating single and double bonds around the hexagon.
+]] Benzene, C₆H₆, is the least complex aromatic hydrocarbon, and it was the first one named as such. The nature of its bonding was first recognized by August Kekulé in the 19th century. Each carbon atom in the hexagonal cycle has four electrons to share. One goes to the hydrogen atom, and one to each of the two neighbouring carbons. This leaves one electron to share with one of the two neighbouring carbon atoms, thus creating a double bond with one carbon and leaving a single bond with the other, which is why the benzene molecule is drawn with alternating single and double bonds around the hexagon.
 
 The structure is alternatively illustrated as a circle around the inside of the ring to show six electrons floating around in delocalized molecular orbitals the size of the ring itself. This depiction represents the equivalent nature of the six carbon–carbon bonds all of bond order 1.5; the equivalency is explained by resonance forms. The electrons are visualized as floating above and below the ring with the electromagnetic fields they generate acting to keep the ring flat.
 
@@ -34,23 +34,23 @@ Aromatic substitution
 
 In aromatic substitution one substituent on the arene ring, usually hydrogen, is replaced by another substituent. The two main types are electrophilic aromatic substitution when the active reagent is an electrophile and nucleophilic aromatic substitution when the reagent is a nucleophile. In radical-nucleophilic aromatic substitution the active reagent is a radical. An example of electrophilic aromatic substitution is the nitration of salicylic acid:[7]
 
-    Synthesis_5-Nitrosalicylic_acid.svg
+
 
 Coupling reactions
 
 In coupling reactions a metal catalyses a coupling between two formal radical fragments. Common coupling reactions with arenes result in the formation of new carbon–carbon bonds e.g., alkylarenes, vinyl arenes, biraryls, new carbon–nitrogen bonds (anilines) or new carbon–oxygen bonds (aryloxy compounds). An example is the direct arylation of perfluorobenzenes [8]
 
-    Fagnou_fluoroarene_coupling2.svg
+
 
 Hydrogenation
 
 Hydrogenation of arenes create saturated rings. The compound 1-naphthol is completely reduced to a mixture of decalin-ol isomers.[9]
 
-    NaphtolHydrogenation.svg
+
 
 The compound resorcinol, hydrogenated with Raney nickel in presence of aqueous sodium hydroxide forms an enolate which is alkylated with methyl iodide to 2-methyl-1,3-cyclohexandione:[10]
 
-    ResorcinolHydrogenation.svg
+
 
 Cycloadditions
 
@@ -76,7 +76,7 @@ Other monocyclic aromatic hydrocarbon include Cyclotetradecaheptaene or Cyclooct
 
 Polycyclic aromatic hydrocarbons
 
-Hexabenzocoronene-3D-balls.png is a large polycyclic aromatic hydrocarbon.]]
+is a large polycyclic aromatic hydrocarbon.]]
 
 Polycyclic aromatic hydrocarbons (PAHs) are aromatic hydrocarbons that consist of fused aromatic rings and do not contain heteroatoms or carry substituents.[11] Naphthalene is the simplest example of a PAH. PAHs occur in oil, coal, and tar deposits, and are produced as byproducts of fuel burning (whether fossil fuel or biomass). As pollutants, they are of concern because some compounds have been identified as carcinogenic, mutagenic, and teratogenic. PAHs are also found in cooked foods. Studies have shown that high levels of PAHs are found, for example, in meat cooked at high temperatures such as grilling or barbecuing, and in smoked fish.[12][13][14]
 

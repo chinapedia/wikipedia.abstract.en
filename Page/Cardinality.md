@@ -7,8 +7,6 @@ Comparing sets
 
 While the cardinality of a finite set is just the number of its elements, extending the notion to infinite sets usually starts with defining the notion of comparison of arbitrary (possibly infinite) sets.
 
-Aplicación_2_inyectiva_sobreyectiva04.svg
-
 ===Definition 1: = ===
 
     Two sets _A_ and _B_ have the same cardinality if there exists a bijection from _A_ to _B_, that is, a function from _A_ to _B_ that is both injective and surjective. Such sets are said to be _equipotent_, _equipollent_, or _equinumerous_. This relationship can also be denoted _A_ ≈ _B_ or _A_ ~ _B_.

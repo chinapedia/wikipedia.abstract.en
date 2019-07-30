@@ -2,7 +2,7 @@ GRANITE () is a common type of felsic intrusive igneous rock that is granular an
 
 The term "granitic" means granite-like and is applied to granite and a group of intrusive igneous rocks with similar textures and slight variations in composition and origin. These rocks mainly consist of feldspar, quartz, mica, and amphibole minerals, which form an interlocking, somewhat equigranular matrix of feldspar and quartz with scattered darker biotite mica and amphibole (often hornblende) peppering the lighter color minerals. Occasionally some individual crystals (phenocrysts) are larger than the groundmass, in which case the texture is known as porphyritic. A granitic rock with a porphyritic texture is known as a granite porphyry. Granitoid is a general, descriptive field term for lighter-colored, coarse-grained igneous rocks. Petrographic examination is required for identification of specific types of granitoids.[1] The extrusive igneous rock equivalent of granite is rhyolite.[2]
 
-Granite_under_Polarized_light.jpg Granite is nearly always massive (i.e., lacking any internal structures), hard, and tough. These properties have made granite a widespread construction stone throughout human history. The average density of granite is between ,[3] its compressive strength usually lies above 200 MPa, and its viscosity near STP is 3–6·10¹⁹ Pa·s.[4]
+Granite is nearly always massive (i.e., lacking any internal structures), hard, and tough. These properties have made granite a widespread construction stone throughout human history. The average density of granite is between ,[3] its compressive strength usually lies above 200 MPa, and its viscosity near STP is 3–6·10¹⁹ Pa·s.[4]
 
 The melting temperature of dry granite at ambient pressure is ;[5] it is strongly reduced in the presence of water, down to 650 °C at a few kBar pressure.[6]
 
@@ -10,8 +10,6 @@ Granite has poor primary permeability overall, but strong secondary permeability
 
 
 Mineralogy
-
-Qapf_diagram_plutonic_05.svg Mineralogy_igneous_rocks_EN.svg
 
 Granite is classified according to the QAPF diagram for coarse grained plutonic rocks and is named according to the percentage of quartz, alkali feldspar (orthoclase, sanidine, or microcline) and plagioclase feldspar on the A-Q-P half of the diagram. True granite (according to modern petrologic convention) contains both plagioclase and alkali feldspars. When a granitoid is devoid or nearly devoid of plagioclase, the rock is referred to as alkali feldspar granite. When a granitoid contains less than 10% orthoclase, it is called tonalite; pyroxene and amphibole are common in tonalite. A granite containing both muscovite and biotite micas is called a binary or _two-mica_ granite. Two-mica granites are typically high in potassium and low in plagioclase, and are usually S-type granites or A-type granites.
 
@@ -46,7 +44,7 @@ A worldwide average of the chemical composition of granite, by weight percent, b
 
 Occurrence
 
-The_Cheesewring.jpg, a granite tor]] HuangShan.JPG, China]] ArideGranite1.jpg, Seychelles. The thin (1–3 cm wide) brighter layers are quartz veins, formed during the late stages of crystallization of granitic magmas. They are also sometimes called “hydrothermal veins”]] Granite containing rock is widely distributed throughout the continental crust.[8] Much of it was intruded during the Precambrian age; it is the most abundant basement rock that underlies the relatively thin sedimentary veneer of the continents. Outcrops of granite tend to form tors and rounded massifs. Granites sometimes occur in circular depressions surrounded by a range of hills, formed by the metamorphic aureole or hornfels. Granite often occurs as relatively small, less than 100 km² stock masses (stocks) and in batholiths that are often associated with orogenic mountain ranges. Small dikes of granitic composition called aplites are often associated with the margins of granitic intrusions. In some locations, very coarse-grained pegmatite masses occur with granite.
+, a granite tor]] , China]] , Seychelles. The thin (1–3 cm wide) brighter layers are quartz veins, formed during the late stages of crystallization of granitic magmas. They are also sometimes called “hydrothermal veins”]] Granite containing rock is widely distributed throughout the continental crust.[8] Much of it was intruded during the Precambrian age; it is the most abundant basement rock that underlies the relatively thin sedimentary veneer of the continents. Outcrops of granite tend to form tors and rounded massifs. Granites sometimes occur in circular depressions surrounded by a range of hills, formed by the metamorphic aureole or hornfels. Granite often occurs as relatively small, less than 100 km² stock masses (stocks) and in batholiths that are often associated with orogenic mountain ranges. Small dikes of granitic composition called aplites are often associated with the margins of granitic intrusions. In some locations, very coarse-grained pegmatite masses occur with granite.
 
 
 Origin
@@ -106,7 +104,7 @@ Most geologists today accept that a combination of these phenomena can be used t
 
 Weathering
 
-GrusSand.JPG sand and granitoid it derived from]] Physical weathering occurs on a large scale in the form of exfoliation joints, which are the result of granite's expanding and fracturing as pressure is relieved when overlying material is removed by erosion or other processes.
+sand and granitoid it derived from]] Physical weathering occurs on a large scale in the form of exfoliation joints, which are the result of granite's expanding and fracturing as pressure is relieved when overlying material is removed by erosion or other processes.
 
 Chemical weathering of granite occurs when dilute carbonic acid, and other acids present in rain and soil waters, alter feldspar in a process called hydrolysis.[14][15] As demonstrated in the following reaction, this causes potassium feldspar to form kaolinite, with potassium ions, bicarbonate, and silica in solution as byproducts. An end product of granite weathering is grus, which is often made up of coarse-grained fragments of disintegrated granite.
 
@@ -134,7 +132,7 @@ A study of granite countertops was done (initiated and paid for by the Marble In
 
 Industry
 
-Hilloinen_2017_1.jpg Granite and related marble industries are considered one of the oldest industries in the world; existing as far back as Ancient Egypt.[25]
+Granite and related marble industries are considered one of the oldest industries in the world; existing as far back as Ancient Egypt.[25]
 
 Major modern exporters of granite include China, India, Italy, Brazil, Canada, Germany, Sweden, Spain and the United States.[26]
 
@@ -142,8 +140,6 @@ Major modern exporters of granite include China, India, Italy, Brazil, Canada, G
 Uses
 
 Antiquity
-
-Cleopatra's_Needle_(London)_inscriptions.jpg
 
 The Red Pyramid of Egypt (c. 26th century BC), named for the light crimson hue of its exposed limestone surfaces, is the third largest of Egyptian pyramids. Menkaure's Pyramid, likely dating to the same era, was constructed of limestone and granite blocks. The Great Pyramid of Giza (c. 2580 BC) contains a huge granite sarcophagus fashioned of "Red Aswan Granite". The mostly ruined Black Pyramid dating from the reign of Amenemhat III once had a polished granite pyramidion or capstone, which is now on display in the main hall of the Egyptian Museum in Cairo (see Dahshur). Other uses in Ancient Egypt include columns, door lintels, sills, jambs, and wall and floor veneer.[27] How the Egyptians worked the solid granite is still a matter of debate. Patrick Hunt[28] has postulated that the Egyptians used emery, which has greater hardness on the Mohs scale.
 
@@ -154,8 +150,6 @@ Imperial Roman granite was quarried mainly in Egypt, and also in Turkey, and on 
 Modern
 
 Sculpture and memorials
-
-various_granites.jpg
 
 In some areas, granite is used for gravestones and memorials. Granite is a hard stone and requires skill to carve by hand. Until the early 18th century, in the Western world, granite could be carved only by hand tools with generally poor results.
 

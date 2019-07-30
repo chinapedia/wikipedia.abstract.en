@@ -3,7 +3,7 @@ Equatorial Guinea is a small nation of 1.2 million located on the west coast of 
 
 Economy overview
 
-Equatorial_Guinea_Exports_Treemap_(2009).jpg Rent_Equatorial_Guinea.png Pre-independence Equatorial Guinea counted on cocoa production for hard currency earnings. In 1959 it had the highest per capita income of Africa which it still has.
+Pre-independence Equatorial Guinea counted on cocoa production for hard currency earnings. In 1959 it had the highest per capita income of Africa which it still has.
 
 The discovery of large oil reserves in 1996 and their subsequent exploitation have contributed to a dramatic increase in government revenue. As of 2004,[1] Equatorial Guinea was the third-largest oil producer in Sub-Saharan Africa. Its oil production had then risen to , up from only two years earlier.
 

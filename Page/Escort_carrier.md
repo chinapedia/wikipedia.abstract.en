@@ -1,5 +1,3 @@
-HMS_Audacity_(D10).jpg
-
 The ESCORT CARRIER or ESCORT AIRCRAFT CARRIER (US hull classification symbol CVE), also called a "jeep carrier" or "baby flattop" in the United States Navy (USN) or "Woolworth Carrier" by the Royal Navy, was a small and slow type of aircraft carrier used by the Royal Navy, the United States Navy, the Imperial Japanese Navy and Imperial Japanese Army Air Force in World War II. They were typically half the length and a third the displacement of larger fleet carriers. While they were slower, carried fewer planes and were less well armed and armored, escort carriers were cheaper and could be built quickly, which was their principal advantage. Escort carriers could be completed in greater numbers as a stop-gap when fleet carriers were scarce. However, the lack of protection made escort carriers particularly vulnerable and several were sunk with great loss of life. The light carrier (hull classification symbol CVL) was a similar concept to escort carriers in most respects, but were capable of higher speeds to allow operation alongside fleet carriers.
 
 Most often built on a commercial ship hull, escort carriers were too slow to keep up with the main forces consisting of fleet carriers, battleships, and cruisers. Instead, they were used to escort convoys, defending them from enemy threats such as submarines and planes. In the invasions of mainland Europe and Pacific islands, escort carriers provided air support to ground forces during amphibious operations. Escort carriers also served as backup aircraft transports for fleet carriers and ferried aircraft of all military services to points of delivery.
@@ -51,13 +49,13 @@ The attack on Pearl Harbor brought up an urgent need for aircraft carriers, so s
 
 Battle off Samar
 
-LeyteGambierBayStraddle.jpg (faintly visible in the background, center-right) shortly before sinking during the Battle off Samar.]]
+(faintly visible in the background, center-right) shortly before sinking during the Battle off Samar.]]
 
 A major battle for these escort carriers was the Battle off Samar in the Philippines on 25 October 1944. The Japanese lured Admiral William Halsey, Jr. into chasing a decoy fleet with his 3rd Fleet. This left aircraft from 16 small and slow escort carriers in three task groups armed primarily to bomb ground forces; along with their protective screen of destroyers and slower destroyer escorts, with "Taffy 3" bearing the brunt of the fight. They faced a Japanese force of four battleships, including the formidable[13] , eight cruisers, and 11 destroyers. The American ships held off the Japanese.
 
 The slow carriers could not outrun cruisers. They launched their aircraft and maneuvered to avoid shellfire for over an hour. They took dozens of hits, mostly from armor-piercing rounds that passed right through their thin, unarmored hulls without exploding. , sunk in this action, was the only U.S. carrier lost to enemy surface gunfire in the war, and the Japanese concentration of fire on this one carrier assisted the escape of the others. The carriers′ only substantial armament—aside from their aircraft—was a single 5 in (127 mm) dual-purpose gun mounted on the stern, but the pursuing Japanese cruisers closed to within range of these guns. One of the guns caused critical damage to the burning Japanese heavy cruiser and a subsequent bomb dropped from one of the task force′s aircraft hit the heavy cruiser′s forward machinery room, leaving her dead in the water. Several _kamikaze_ aircraft were shot down by carrier gunners, with only lost to air attack. The Americans lost a similar number of ships and men to the Battle of Coral Sea and Battle of Midway combined.
 
-Gambierbaymodel.jpg]]
+]]
 
 
 The ships

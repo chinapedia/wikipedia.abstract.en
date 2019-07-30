@@ -1,4 +1,4 @@
-Rfel_vsesmer_front.png]]
+]]
 
 ACOUSTICS is the branch of physics that deals with the study of all mechanical waves in gases, liquids, and solids including topics such as vibration, sound, ultrasound and infrasound. A scientist who works in the field of acoustics is an ACOUSTICIAN while someone working in the field of acoustics technology may be called an acoustical engineer. The application of acoustics is present in almost all aspects of modern society with the most obvious being the audio and noise control industries.
 
@@ -15,7 +15,7 @@ The Latin synonym is "sonic", after which the term SONICS used to be a synonym f
 
 Early research in acoustics
 
-Harmonic_partials_on_strings.svg and the first 6 overtones of a vibrating string. The earliest records of the study of this phenomenon are attributed to the philosopher Pythagoras in the 6th century BC.]]
+and the first 6 overtones of a vibrating string. The earliest records of the study of this phenomenon are attributed to the philosopher Pythagoras in the 6th century BC.]]
 
 In the 6th century BC, the ancient Greek philosopher Pythagoras wanted to know why some combinations of musical sounds seemed more beautiful than others, and he found answers in terms of numerical ratios representing the harmonic overtone series on a string. He is reputed to have observed that when the lengths of vibrating strings are expressible as ratios of integers (e.g. 2 to 3, 3 to 4), the tones produced will be harmonious, and the smaller the integers the more harmonious the sounds. If, for example, a string of a certain length would sound particularly harmonious with a string of twice the length (other factors being equal). In modern parlance, if a string sounds the note C when plucked, a string twice as long will sound a C an octave lower. In one system of musical tuning, the tones in between are then given by 16:9 for D, 8:5 for E, 3:2 for F, 4:3 for G, 6:5 for A, and 16:15 for B, in ascending order.[2]
 
@@ -25,7 +25,7 @@ In about 20 BC, the Roman architect and engineer Vitruvius wrote a treatise on t
 
 During the Islamic golden age, Abū Rayhān al-Bīrūnī (973-1048) is believed to postulated that the speed of sound was much slower than the speed of light.[8][9]
 
-Amman_Roman_theatre.jpg in the city of Amman.]]
+in the city of Amman.]]
 
 The physical understanding of acoustical processes advanced rapidly during and after the Scientific Revolution. Mainly Galileo Galilei (1564–1642) but also Marin Mersenne (1588–1648), independently, discovered the complete laws of vibrating strings (completing what Pythagoras and Pythagoreans had started 2000 years earlier). Galileo wrote "Waves are produced by the vibrations of a sonorous body, which spread through the air, bringing to the tympanum of the ear a stimulus which the mind interprets as sound", a remarkable statement that points to the beginnings of physiological and psychological acoustics. Experimental measurements of the speed of sound in air were carried out successfully between 1630 and 1680 by a number of investigators, prominently Mersenne. Meanwhile, Newton (1642–1727) derived the relationship for wave velocity in solids, a cornerstone of physical acoustics (Principia, 1687).
 
@@ -46,7 +46,7 @@ The study of acoustics revolves around the generation, propagation and reception
 
 
 
-        MED
+
 
 The steps shown in the above diagram can be found in any acoustical event or process. There are many kinds of cause, both natural and volitional. There are many kinds of transduction process that convert energy from some other form into sonic energy, producing a sound wave. There is one fundamental equation that describes sound wave propagation, the acoustic wave equation, but the phenomena that emerge from it are varied and often complex. The wave carries energy throughout the propagating medium. Eventually this energy is transduced again into other forms, in ways that again may be natural and/or volitionally contrived. The final effect may be purely physical or it may reach far into the biological or volitional domains. The five basic steps are found equally well whether we are talking about an earthquake, a submarine using sonar to locate its foe, or a band playing in a rock concert.
 
@@ -56,7 +56,7 @@ Acoustics looks first at the pressure levels and frequencies in the sound wave a
 
 Wave propagation: pressure levels
 
-Oh_No_Girl_Spectrogram_2.jpg of a young girl saying "oh, no"]] In fluids such as air and water, sound waves propagate as disturbances in the ambient pressure level. While this disturbance is usually small, it is still noticeable to the human ear. The smallest sound that a person can hear, known as the threshold of hearing, is nine orders of magnitude smaller than the ambient pressure. The loudness of these disturbances is related to the sound pressure level (SPL) which is measured on a logarithmic scale in decibels.
+of a young girl saying "oh, no"]] In fluids such as air and water, sound waves propagate as disturbances in the ambient pressure level. While this disturbance is usually small, it is still noticeable to the human ear. The smallest sound that a person can hear, known as the threshold of hearing, is nine orders of magnitude smaller than the ambient pressure. The loudness of these disturbances is related to the sound pressure level (SPL) which is measured on a logarithmic scale in decibels.
 
 Wave propagation: frequency
 
@@ -68,7 +68,7 @@ Analytic instruments such as the spectrum analyzer facilitate visualization and 
 
 Transduction in acoustics
 
-3.5_Inch_Speaker.jpg A transducer is a device for converting one form of energy into another. In an electroacoustic context, this means converting sound energy into electrical energy (or vice versa). Electroacoustic transducers include loudspeakers, microphones, hydrophones and sonar projectors. These devices convert a sound pressure wave to or from an electric signal. The most widely used transduction principles are electromagnetism, electrostatics and piezoelectricity.
+A transducer is a device for converting one form of energy into another. In an electroacoustic context, this means converting sound energy into electrical energy (or vice versa). Electroacoustic transducers include loudspeakers, microphones, hydrophones and sonar projectors. These devices convert a sound pressure wave to or from an electric signal. The most widely used transduction principles are electromagnetism, electrostatics and piezoelectricity.
 
 The transducers in most common loudspeakers (e.g. woofers and tweeters), are electromagnetic devices that generate waves using a suspended diaphragm driven by an electromagnetic voice coil, sending off pressure waves. Electret microphones and condenser microphones employ electrostatics—as the sound wave strikes the microphone's diaphragm, it moves and induces a voltage change. The ultrasonic systems used in medical ultrasonography employ piezoelectric transducers. These are made from special ceramics in which mechanical vibrations and electrical fields are interlinked through a property of the material itself.
 
@@ -88,7 +88,7 @@ These subdisciplines are a slightly modified list from the PACS (Physics and Ast
 
 Archaeoacoustics
 
-Gibraltar_2015_10_19_1964_(24110677143).jpg Archaeoacoustics, also known as the archaeology of sound, is one of the only ways to experience the past with senses other than our eyes.[12]Archaeoacoustics is studied by testing the acoustic properties of prehistoric sites, including caves. Iegor Rezkinoff, a sound archaeologist, studies the acoustic properties of caves through natural sounds like humming and whistling.[13]Archaeological theories of acoustics are focused around ritualistic purposes as well as a way of echolocation in the caves. In archaeology, acoustic sounds and rituals directly correlate as specific sounds were meant to bring ritual participants closer to a spiritual awakening.[14]Parallels can also be drawn between cave wall paintings and the acoustic properties of the cave; they are both dynamic.[15]Because archaeoacoustics is a fairly new archaeological subject, acoustic sound is still being tested in these prehistoric sites today.
+Archaeoacoustics, also known as the archaeology of sound, is one of the only ways to experience the past with senses other than our eyes.[12]Archaeoacoustics is studied by testing the acoustic properties of prehistoric sites, including caves. Iegor Rezkinoff, a sound archaeologist, studies the acoustic properties of caves through natural sounds like humming and whistling.[13]Archaeological theories of acoustics are focused around ritualistic purposes as well as a way of echolocation in the caves. In archaeology, acoustic sounds and rituals directly correlate as specific sounds were meant to bring ritual participants closer to a spiritual awakening.[14]Parallels can also be drawn between cave wall paintings and the acoustic properties of the cave; they are both dynamic.[15]Because archaeoacoustics is a fairly new archaeological subject, acoustic sound is still being tested in these prehistoric sites today.
 
 Aeroacoustics
 
@@ -99,8 +99,6 @@ Acoustic signal processing
 Acoustic signal processing is the electronic manipulation of acoustic signals. Applications include: active noise control; design for hearing aids or cochlear implants; echo cancellation; music information retrieval, and perceptual coding (e.g. MP3 or Opus).[17]
 
 Architectural acoustics
-
-Symphony_hall_boston.jpg
 
 Architectural acoustics (also known as building acoustics) involves the scientific understanding of how to achieve good sound within a building.[18] It typically involves the study of speech intelligibility, speech privacy, music quality, and vibration reduction in the built environment.[19]
 
@@ -118,7 +116,7 @@ Environmental acoustics is concerned with noise and vibration caused by railways
 
 Musical acoustics
 
-Brodmann_41_42.png is one of the main areas associated with superior pitch resolution.]] Musical acoustics is the study of the physics of acoustic instruments; the audio signal processing used in electronic music; the computer analysis of music and composition, and the perception and cognitive neuroscience of music.[25]
+is one of the main areas associated with superior pitch resolution.]] Musical acoustics is the study of the physics of acoustic instruments; the audio signal processing used in electronic music; the computer analysis of music and composition, and the perception and cognitive neuroscience of music.[25]
 
 Psychoacoustics
 
@@ -130,7 +128,7 @@ Acousticians study the production, processing and perception of speech. Speech r
 
 Ultrasonics
 
-CRL_Crown_rump_lengh_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpgUltrasonics deals with sounds at frequencies too high to be heard by humans. Specialisms include medical ultrasonics (including medical ultrasonography), sonochemistry, material characterisation and underwater acoustics (Sonar).[31]
+Ultrasonics deals with sounds at frequencies too high to be heard by humans. Specialisms include medical ultrasonics (including medical ultrasonography), sonochemistry, material characterisation and underwater acoustics (Sonar).[31]
 
 Underwater acoustics
 

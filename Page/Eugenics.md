@@ -1,4 +1,4 @@
-Eugenics_congress_logo.png, 1921, depicting eugenics as a tree which unites a variety of different fields[1]]]
+, 1921, depicting eugenics as a tree which unites a variety of different fields[1]]]
 
 EUGENICS (; from Greek εὐγενής _eugenes_ 'well-born' from εὖ _eu_, 'good, well' and γένος _genos_, 'race, stock, kin')[2][3] is a set of beliefs and practices that aim to improve the genetic quality of a human population by excluding (through a variety of morally criticized means) certain genetic groups judged to be inferior, and promoting other genetic groups judged to be superior.[4][5] The definition of _eugenics_ has been a matter of debate since the term was coined by Francis Galton in 1883. The concept predates the term; Plato suggested applying the principles of selective breeding to humans around 400 BC. Eugenics, in the modern understanding of the term, is seen as having close ties to white supremacism.[6]
 
@@ -19,7 +19,7 @@ The concept of positive eugenics to produce better human beings has existed at l
 
 The first formal negative eugenics, that is a legal provision against the birth of allegedly inferior human beings, was promulgated in Western European culture by the Christian Council of Agde in 506, which forbade marriage between cousins.[14]This idea was also promoted by William Goodell (1829–1894) who advocated the castration and spaying of the insane.[15][16]
 
-Francis_Galton_1850s.jpg was an early eugenicist, coining the term itself and popularizing the collocation of the words "nature and nurture".[17]]]
+was an early eugenicist, coining the term itself and popularizing the collocation of the words "nature and nurture".[17]]]
 
 The idea of a modern project of improving the human population through a statistical understanding of heredity used to encourage good breeding was originally developed by Francis Galton and, initially, was closely linked to Darwinism and his theory of natural selection.[18] Galton had read his half-cousin Charles Darwin's theory of evolution, which sought to explain the development of plant and animal species, and desired to apply it to humans. Based on his biographical studies, Galton believed that desirable human qualities were hereditary traits, although Darwin strongly disagreed with this elaboration of his theory.[19] In 1883, one year after Darwin's death, Galton gave his research a name: _eugenics_.[20] With the introduction of genetics, eugenics became associated with genetic determinism, the belief that human character is entirely or in the majority caused by genes, unaffected by education or living conditions. Many of the early geneticists were not Darwinians, and evolution theory was not needed for eugenics policies based on genetic determinism.[21] Throughout its recent history, eugenics has remained controversial.
 
@@ -27,7 +27,7 @@ Eugenics became an academic discipline at many colleges and universities and rec
 
 Three International Eugenics Conferences presented a global venue for eugenists with meetings in 1912 in London, and in 1921 and 1932 in New York City. Eugenic policies were first implemented in the early 1900s in the United States.[26] It also took root in France, Germany, and Great Britain.[27] Later, in the 1920s and 1930s, the eugenic policy of sterilizing certain mental patients was implemented in other countries including Belgium,[28] Brazil,[29] Canada,[30] Japan and Sweden. Frederick Osborn's 1937 journal article "Development of a Eugenic Philosophy" framed it as a social philosophy—a philosophy with implications for social order.[31] That definition is not universally accepted. Osborn advocated for higher rates of sexual reproduction among people with desired traits ("positive eugenics") or reduced rates of sexual reproduction or sterilization of people with less-desired or undesired traits ("negative eugenics").
 
-Gilbert_Chesterton.jpg, an opponent of eugenics, in 1909, by photographer Ernest Herbert Mills]]
+, an opponent of eugenics, in 1909, by photographer Ernest Herbert Mills]]
 
 In addition to being practiced in a number of countries, eugenics was internationally organized through the International Federation of Eugenics Organizations. Its scientific aspects were carried on through research bodies such as the Kaiser Wilhelm Institute of Anthropology, Human Heredity, and Eugenics, the Cold Spring Harbour Carnegie Institution for Experimental Evolution, and the Eugenics Record Office. Politically, the movement advocated measures such as sterilization laws. In its moral dimension, eugenics rejected the doctrine that all human beings are born equal and redefined moral worth purely in terms of genetic fitness. Its racist elements included pursuit of a pure "Nordic race" or "Aryan" genetic pool and the eventual elimination of "unfit" races.
 
@@ -39,7 +39,7 @@ As a social movement, eugenics reached its greatest popularity in the early deca
 
 Nazism and the decline of eugenics
 
-Alkoven_Schloss_Hartheim_2005-08-18_3589.jpg, a former euthanasia center (2005)]] Bundesarchiv_Bild_146-1973-010-11,_Schwester_in_einem_Lebensbornheim.jpg'' birth house in Nazi Germany. Created with the intention of raising the birth rate of "Aryan" children from the extramarital relations of "racially pure and healthy" parents.]]
+, a former euthanasia center (2005)]] '' birth house in Nazi Germany. Created with the intention of raising the birth rate of "Aryan" children from the extramarital relations of "racially pure and healthy" parents.]]
 
 The scientific reputation of eugenics started to decline in the 1930s, a time when Ernst Rüdin used eugenics as a justification for the racial policies of Nazi Germany. Adolf Hitler had praised and incorporated eugenic ideas in _Mein Kampf_ in 1925 and emulated eugenic legislation for the sterilization of "defectives" that had been pioneered in the United States once he took power. Some common early 20th century eugenics methods involved identifying and classifying individuals and their families, including the poor, mentally ill, blind, deaf, developmentally disabled, promiscuous women, homosexuals, and racial groups (such as the Roma and Jews in Nazi Germany) as "degenerate" or "unfit", and therefore led to segregation, institutionalization, sterilization, euthanasia, and even mass murder. The Nazi practice of euthanasia was carried out on hospital patients in the Aktion T4 centers such as Hartheim Castle.
 
@@ -68,7 +68,7 @@ Prenatal screening can be considered a form of contemporary eugenics because it 
 
 Meanings and types
 
-Karl_Pearson,_1912.jpg (1912)]] The term _eugenics_ and its modern field of study were first formulated by Francis Galton in 1883,[63] drawing on the recent work of his half-cousin Charles Darwin.[64][65] Galton published his observations and conclusions in his book _Inquiries into Human Faculty and Its Development_.
+(1912)]] The term _eugenics_ and its modern field of study were first formulated by Francis Galton in 1883,[63] drawing on the recent work of his half-cousin Charles Darwin.[64][65] Galton published his observations and conclusions in his book _Inquiries into Human Faculty and Its Development_.
 
 The origins of the concept began with certain interpretations of Mendelian inheritance and the theories of August Weismann. The word _eugenics_ is derived from the Greek word _eu_ ("good" or "well") and the suffix _-genēs_ ("born"), and was coined by Galton in 1883 to replace the word "stirpiculture", which he had used previously but which had come to be mocked due to its perceived sexual overtones.[66] Galton defined eugenics as "the study of all agencies under human control which can improve or impair the racial quality of future generations".[67]
 
@@ -155,7 +155,7 @@ With this change, however, there are ethical concerns which lack adequate attent
 
 Opposition
 
-Eugenics_Quarterly_to_Social_Biology.jpg, the term "eugenics" had taken on a negative connotation and became increasingly unpopular within academic science. Many organizations and journals that had their origins in the eugenics movement began to distance themselves from the philosophy, as when _Eugenics Quarterly_ became _Social Biology_ in 1969.]]
+, the term "eugenics" had taken on a negative connotation and became increasingly unpopular within academic science. Many organizations and journals that had their origins in the eugenics movement began to distance themselves from the philosophy, as when _Eugenics Quarterly_ became _Social Biology_ in 1969.]]
 
 A common criticism of eugenics is that "it inevitably leads to measures that are unethical".[136] Some fear future "eugenics wars" as the worst-case scenario: the return of coercive state-sponsored genetic discrimination and human rights violations such as compulsory sterilization of persons with genetic defects, the killing of the institutionalized and, specifically, segregation and genocide of races perceived as inferior.[137] Health law professor George Annas and technology law professor Lori Andrews are prominent advocates of the position that the use of these technologies could lead to such human-posthuman caste warfare.[138][139]
 

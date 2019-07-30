@@ -66,7 +66,7 @@ Many surgeons gave up cardiac transplantation due to poor results, often due to 
 
 Public life
 
-Christiaan_Barnard_1968.jpg Barnard was an outspoken opponent of South Africa's laws of apartheid, and was not afraid to criticise his nation's government, although he had to temper his remarks to some extent to travel abroad. Rather than leaving his homeland, he used his fame to campaign for a change in the law. Christiaan's brother, Marius Barnard, went into politics, and was elected to the legislature from Progressive Federal Party. Barnard later stated that the reason he never won the Nobel Prize in Physiology or Medicine was probably because he was a "white South African".[92]
+Barnard was an outspoken opponent of South Africa's laws of apartheid, and was not afraid to criticise his nation's government, although he had to temper his remarks to some extent to travel abroad. Rather than leaving his homeland, he used his fame to campaign for a change in the law. Christiaan's brother, Marius Barnard, went into politics, and was elected to the legislature from Progressive Federal Party. Barnard later stated that the reason he never won the Nobel Prize in Physiology or Medicine was probably because he was a "white South African".[92]
 
 Shortly before his visit to Kenya in 1978, the following was written about his views regarding race relations in South Africa; "While he believes in the participation of Africans in the political process of South Africa, he is opposed to a one-man-one-vote system in South Africa".[93]
 

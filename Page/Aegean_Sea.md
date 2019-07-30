@@ -1,4 +1,4 @@
-Aegean_Sea_map.png Locatie_Egeische_Zee.PNG]] The AEGEAN SEA is an elongated embayment of the Mediterranean Sea located between the Greek and Anatolian peninsulas, or between the mainlands of Greece and Turkey. The sea has an area of some 215,000 square kilometres.[1] In the north, the Aegean is connected to the Marmara Sea and the Black Sea by the straits of the Dardanelles and Bosphorus. The Aegean Islands, numbering over are within the sea and some bound it on its southern periphery, including Crete and Rhodes. Along with the Ionian Sea, which it connects to the southwest, the Aegean Sea contain some 1415 islands.[2][3] The sea reaches a maximum depth of 3,544 meters, to the east of Crete.
+]] The AEGEAN SEA is an elongated embayment of the Mediterranean Sea located between the Greek and Anatolian peninsulas, or between the mainlands of Greece and Turkey. The sea has an area of some 215,000 square kilometres.[1] In the north, the Aegean is connected to the Marmara Sea and the Black Sea by the straits of the Dardanelles and Bosphorus. The Aegean Islands, numbering over are within the sea and some bound it on its southern periphery, including Crete and Rhodes. Along with the Ionian Sea, which it connects to the southwest, the Aegean Sea contain some 1415 islands.[2][3] The sea reaches a maximum depth of 3,544 meters, to the east of Crete.
 
 The Aegean Islands can be divided into several island groups, including Dodecanese, the Cyclades, the Sporades, the Saronic islands, and the North Aegean Islands, as well as Crete and its surrounding islands. The Dodecanese, located to the southeast, includes the islands of Rhodes, Kos, and Patmos; the islands of Delos and Naxos are within the Cyclades to the south of the sea. Lesbos is part of the North Aegean Islands. Euboea, the second largest island in Greece, is located in the Aegean, despite being administered as part of Central Greece. Nine out of twelve of the Administrative regions of Greece border the sea, along with the Turkish provinces of Edirne, Canakkale, Balıkesir, Izmir, Aydın and Muğla to the east of the sea. Various Turkish islands in the sea are Imbros, Tenedos, Cunda Island, and the Foça Islands.
 
@@ -45,13 +45,13 @@ According to the International Hydrographic Organization, the limits of the Aege
 -   On the south: A line running from Cape Aspro (28°16′E) in Asia Minor, to Cum Burnù (Capo della Sabbia) the Northeast extreme of the Island of Rhodes, through the island to Cape Prasonisi, the Southwest point thereof, on to Vrontos Point (35°33′N) in Skarpanto [Karpathos], through this island to Castello Point, the South extreme thereof, across to Cape Plaka (East extremity of Crete), through Crete to Agria Grabusa, the Northwest extreme thereof, thence to Cape Apolitares in Antikithera Island, through the island to Psira Rock (off the Northwest point) and across to Cape Trakhili in Kithera Island, through Kithera to the Northwest point (Cape Karavugia) and thence to Cape Santa Maria () in the Morea.
 -   In the Dardenelles: A line joining Kum Kale (26°11′E) and Cape Helles.
 
-  SantoriniPartialPano.jpg, taken from Oia.
+  , taken from Oia.
 
   |alt=]]
 
 Hydrography
 
-ParosHuis.JPG-Greece.]] Aegean surface water circulates in a counterclockwise gyre, with hypersaline Mediterranean water moving northward along the west coast of Turkey, before being displaced by less dense Black Sea outflow. The dense Mediterranean water sinks below the Black Sea inflow to a depth of , then flows through the Dardanelles Strait and into the Sea of Marmara at velocities of . The Black Sea outflow moves westward along the northern Aegean Sea, then flows southwards along the east coast of Greece.[13]
+-Greece.]] Aegean surface water circulates in a counterclockwise gyre, with hypersaline Mediterranean water moving northward along the west coast of Turkey, before being displaced by less dense Black Sea outflow. The dense Mediterranean water sinks below the Black Sea inflow to a depth of , then flows through the Dardanelles Strait and into the Sea of Marmara at velocities of . The Black Sea outflow moves westward along the northern Aegean Sea, then flows southwards along the east coast of Greece.[13]
 
 The physical oceanography of the Aegean Sea is controlled mainly by the regional climate, the fresh water discharge from major rivers draining southeastern Europe, and the seasonal variations in the Black Sea surface water outflow through the Dardanelles Strait.
 
@@ -63,7 +63,7 @@ Analysis[14] of the Aegean during 1991 and 1992 revealed three distinct water ma
 
 Climate
 
-Greece_map_of_Köppen_climate_classification_(new).svg The Climate of the Aegean Sea largely reflects the climate of Greece and Western Turkey, which is to say, predominately Mediterranean. According to the Köppen climate classification, most of the Aegean is classified as Hot-summer Mediterranean (_Csa_), with hotter and drier summers along with milder and wetter winters. However, high temperatures during summers are generally not quite as high as those in arid or semiarid climates due to the presence of a large body of water. This is most predominant in the west and east coasts of the Aegean, and within the Aegean islands. In the north of the Aegean Sea, the climate is instead classified as Cold semi-arid _(BSk)_, which feature cooler summers that Hot-summer Mediterranean climates.
+The Climate of the Aegean Sea largely reflects the climate of Greece and Western Turkey, which is to say, predominately Mediterranean. According to the Köppen climate classification, most of the Aegean is classified as Hot-summer Mediterranean (_Csa_), with hotter and drier summers along with milder and wetter winters. However, high temperatures during summers are generally not quite as high as those in arid or semiarid climates due to the presence of a large body of water. This is most predominant in the west and east coasts of the Aegean, and within the Aegean islands. In the north of the Aegean Sea, the climate is instead classified as Cold semi-arid _(BSk)_, which feature cooler summers that Hot-summer Mediterranean climates.
 
 The below table lists climate conditions of some major Aegean cities:
 
@@ -84,35 +84,33 @@ Population
 
 Numerous Greek and Turkish settlements are located along their mainland coast, as well as on towns on the Aegean islands. If Athens, which lies near the Aegean coast, is excluded, the largest cities are Thessaloniki in Greece and İzmir in Turkey. The most populated of the Aegean islands is Crete, followed by Euboea and Rhodes.
 
-+-----------------------------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------------------------------------------------------------------------------------+
-| rowspan=23 width:150|Thessaloniki_Aerial.png Thessaloniki | Rank           | City   | Country                      | Region/County | Population (urban) | rowspan=23 width:150|View_of_Piraeus_from_the_archaeological_site_of_the_ancient_Deme_of_Melite.jpg Piraeus |
-|                                                           |                |        |                              |               |                    |                                                                                                             |
-| Izmir_Turkey.jpg                                          |                |        |                              |               |                    | Venetian_Arsenals_in_Heraklion_Crete.jpg                                                                    |
-|                                                           |                |        |                              |               |                    |                                                                                                             |
-| İzmir                                                     |                |        |                              |               |                    | Heraklion                                                                                                   |
-+===========================================================+================+========+==============================+===============+====================+=============================================================================================================+
-| 1                                                         | ATHENS         | Greece | Central Greece               | 3,090,508     |                    |                                                                                                             |
-+-----------------------------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------------------------------------------------------------------------------------+
-| 2                                                         | İZMIR          | Turkey | İzmir Province               | 2,947,000     |                    |                                                                                                             |
-+-----------------------------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------------------------------------------------------------------------------------+
-| 3                                                         | THESSALONIKI   | Greece | Central Macedonia            | 824,676       |                    |                                                                                                             |
-+-----------------------------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------------------------------------------------------------------------------------+
-| 4                                                         | PIRAEUS        | Greece | Attica                       | 448,997       |                    |                                                                                                             |
-+-----------------------------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------------------------------------------------------------------------------------+
-| 5                                                         | HERAKLION      | Greece | Crete                        | 173,993       |                    |                                                                                                             |
-+-----------------------------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------------------------------------------------------------------------------------+
-| 6                                                         | VOLOS          | Greece | Thessaly                     | 144,449       |                    |                                                                                                             |
-+-----------------------------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------------------------------------------------------------------------------------+
-| 7                                                         | ÇANAKKALE      | Turkey | Çanakkale Province           | 111,137       |                    |                                                                                                             |
-+-----------------------------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------------------------------------------------------------------------------------+
-| 8                                                         | CHANIA         | Greece | Crete                        | 108,642       |                    |                                                                                                             |
-+-----------------------------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------------------------------------------------------------------------------------+
-| 9                                                         | RHODES (CITY)  | Greece | South Aegean                 | 86,199        |                    |                                                                                                             |
-+-----------------------------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------------------------------------------------------------------------------------+
-| 10                                                        | ALEXANDROUPOLI | Greece | Eastern Macedonia and Thrace | 72,959        |                    |                                                                                                             |
-+-----------------------------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------------------------------------------------------------------------------------+
-|                                                           |                |        |                              |               |                    |                                                                                                             |
-+-----------------------------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------------------------------------------------------------------------------------+
++------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------+
+| rowspan=23 width:150| Thessaloniki | Rank           | City   | Country                      | Region/County | Population (urban) | rowspan=23 width:150| Piraeus |
+|                                    |                |        |                              |               |                    |                               |
+| İzmir                              |                |        |                              |               |                    | Heraklion                     |
++====================================+================+========+==============================+===============+====================+===============================+
+| 1                                  | ATHENS         | Greece | Central Greece               | 3,090,508     |                    |                               |
++------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------+
+| 2                                  | İZMIR          | Turkey | İzmir Province               | 2,947,000     |                    |                               |
++------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------+
+| 3                                  | THESSALONIKI   | Greece | Central Macedonia            | 824,676       |                    |                               |
++------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------+
+| 4                                  | PIRAEUS        | Greece | Attica                       | 448,997       |                    |                               |
++------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------+
+| 5                                  | HERAKLION      | Greece | Crete                        | 173,993       |                    |                               |
++------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------+
+| 6                                  | VOLOS          | Greece | Thessaly                     | 144,449       |                    |                               |
++------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------+
+| 7                                  | ÇANAKKALE      | Turkey | Çanakkale Province           | 111,137       |                    |                               |
++------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------+
+| 8                                  | CHANIA         | Greece | Crete                        | 108,642       |                    |                               |
++------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------+
+| 9                                  | RHODES (CITY)  | Greece | South Aegean                 | 86,199        |                    |                               |
++------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------+
+| 10                                 | ALEXANDROUPOLI | Greece | Eastern Macedonia and Thrace | 72,959        |                    |                               |
++------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------+
+|                                    |                |        |                              |               |                    |                               |
++------------------------------------+----------------+--------+------------------------------+---------------+--------------------+-------------------------------+
 
 : Most populous urban areas on the Aegean coast
 
@@ -128,7 +126,7 @@ History
 
 Ancient history
 
-Aegean_Sea_by_Piri_Reis.jpg Turkish geographer Piri Reis]] The current coastline dates back to about 4000 BC. Before that time, at the peak of the last ice age (about 18,000 years ago) sea levels everywhere were 130 metres lower, and there were large well-watered coastal plains instead of much of the northern Aegean. When they were first occupied, the present-day islands including Milos with its important obsidian production were probably still connected to the mainland. The present coastal arrangement appeared around 9,000 years ago, with post-ice age sea levels continuing to rise for another 3,000 years after that.[18]
+Turkish geographer Piri Reis]] The current coastline dates back to about 4000 BC. Before that time, at the peak of the last ice age (about 18,000 years ago) sea levels everywhere were 130 metres lower, and there were large well-watered coastal plains instead of much of the northern Aegean. When they were first occupied, the present-day islands including Milos with its important obsidian production were probably still connected to the mainland. The present coastal arrangement appeared around 9,000 years ago, with post-ice age sea levels continuing to rise for another 3,000 years after that.[18]
 
 The subsequent Bronze Age civilizations of Greece and the Aegean Sea have given rise to the general term _Aegean civilization_. In ancient times, the sea was the birthplace of two ancient civilizations – the Minoans of Crete and the Myceneans of the Peloponnese.[19]
 
@@ -171,7 +169,7 @@ In the Italo-Turkish War of 1912, Italy captured the Dodecanese islands, and had
 
 Economy and politics
 
-House_of_Cleopatra,_Delos.jpg]] Many of the islands in the Aegean have safe harbours and bays. In ancient times, navigation through the sea was easier than travelling across the rough terrain of the Greek mainland, and to some extent, the coastal areas of Anatolia. Many of the islands are volcanic, and marble and iron are mined on other islands. The larger islands have some fertile valleys and plains.
+]] Many of the islands in the Aegean have safe harbours and bays. In ancient times, navigation through the sea was easier than travelling across the rough terrain of the Greek mainland, and to some extent, the coastal areas of Anatolia. Many of the islands are volcanic, and marble and iron are mined on other islands. The larger islands have some fertile valleys and plains.
 
 Of the main islands in the Aegean Sea, two belong to Turkey – Bozcaada (Tenedos) and Gökçeada (Imbros); the rest belong to Greece. Between the two countries, there are political disputes over several aspects of political control over the Aegean space, including the size of territorial waters, air control and the delimitation of economic rights to the continental shelf. These issues are known as the Aegean dispute.
 
@@ -183,7 +181,7 @@ The Port of Thessaloniki is the second-largest container port in Greece after th
 
 Fishing
 
-Walls_of_Troy_(2).jpg]] Mykonos_01.jpg, part of the Cyclades]]Fishing is Greece's second largest agricultural export, and contains Europe’s largest fishing fleet.[26] Fish captured include sardines, mackerel, grouper, grey mullets, sea bass, and seabream. There is a considerable difference between fish catches between the pelagic and demersal zones;[27] with respect to pelagic fisheries, the catches from the northern, central and southern Aegean area groupings are dominated, respectively, by anchovy, horse mackerels, and boops. For demersal fisheries, the catches from the northern and southern Aegean area groupings are dominated by grey mullets and pickerel (_Spicara smaris_) respectively.
+]] , part of the Cyclades]]Fishing is Greece's second largest agricultural export, and contains Europe’s largest fishing fleet.[26] Fish captured include sardines, mackerel, grouper, grey mullets, sea bass, and seabream. There is a considerable difference between fish catches between the pelagic and demersal zones;[27] with respect to pelagic fisheries, the catches from the northern, central and southern Aegean area groupings are dominated, respectively, by anchovy, horse mackerels, and boops. For demersal fisheries, the catches from the northern and southern Aegean area groupings are dominated by grey mullets and pickerel (_Spicara smaris_) respectively.
 
 The industry has been impacted by the Great Recession. Overfishing and habitat destruction is also a concern, threatening grouper, and seabream populations, resulting in perhaps a 50% decline of fish catch.[28] To address these concerns, Greek fishermen have been offered a compensation by the government. Although some species are defined as protected or threatened under EU legislation, several illegal species such as the molluscs _Pinna nobilis_, _Charonia tritonis_ and _Lithophaga lithophaga_, can be bought in restaurants and fish markets around Greece.[29]
 

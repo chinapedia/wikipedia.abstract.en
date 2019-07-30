@@ -11,7 +11,7 @@ After the end of his active military career, Wellington returned to politics. He
 
 Early life and education
 
-Dangan_Castle,_Co_Meath,_Ireland,_1840.jpg, Dangan Castle (engraving, 1842).]]
+, Dangan Castle (engraving, 1842).]]
 
 Wellesley was born into an aristocratic Anglo-Irish family in Ireland as The Hon. Arthur Wesley,[1] the third of five surviving sons (fourth otherwise) of Anne and Garret Wesley, 1st Earl of Mornington. His mother was the eldest daughter of The 1st Viscount Dungannon. As such, he belonged to the Protestant Ascendancy.[2] His biographers mostly follow the same contemporary newspaper evidence in saying that he was born on 1 May 1769,[3] the day before he was baptised.[4] His birthplace is uncertain. He was most likely born at his parents' townhouse, 24 Upper Merrion Street, Dublin, now the Merrion Hotel.[5] But his mother Anne, Countess of Mornington, recalled in 1815 that he had been born at 6 Merrion Street, Dublin.[6] Other places have been put forward as the location of his birth, including Mornington House (the house next door on Upper Merrion), as his father had asserted; the Dublin packet boat;[7] and the mansion in the family estate of Athy (consumed in the fires of 1916), as the Duke apparently put on his 1851 census return.[8]
 
@@ -26,7 +26,7 @@ Military career
 
 Early career
 
-Dcastlemaindoor.jpg (pictured) as aide-de-camp to two successive Lords Lieutenant of Ireland.]]
+(pictured) as aide-de-camp to two successive Lords Lieutenant of Ireland.]]
 
 Despite his new promise, he had yet to find a job and his family was still short of money, so upon the advice of his mother, his brother Richard asked his friend the Duke of Rutland (then Lord Lieutenant of Ireland) to consider Arthur for a commission in the Army.[16] Soon afterward, on 7 March 1787, he was gazetted ensign in the 73rd Regiment of Foot.[17][18] In October, with the assistance of his brother, he was assigned as _aide-de-camp_, on ten shillings a day (twice his pay as an ensign), to the new Lord Lieutenant of Ireland, Lord Buckingham.[19] He was also transferred to the new 76th Regiment forming in Ireland and on Christmas Day, 1787, was promoted lieutenant.[20][21] During his time in Dublin his duties were mainly social; attending balls, entertaining guests and providing advice to Buckingham. While in Ireland, he overextended himself in borrowing due to his occasional gambling, but in his defence stated that "I have often known what it was to be in want of money, but I have never got helplessly into debt".[22]
 
@@ -36,7 +36,7 @@ On 31 October, he transferred to the 18th Light Dragoons[32] and it was during t
 
 Netherlands
 
-Arthur_Wellesley_by_John_Hoppner.jpg. Portrait by John Hoppner]]
+. Portrait by John Hoppner]]
 
 In 1793, the Duke of York was sent to Flanders in command of the British contingent of an allied force destined for the invasion of France. In June 1794, Wellesley with the 33rd regiment set sail from Cork bound for Ostend as part of an expedition bringing reinforcements for the army in Flanders. They arrived too late and joined the Duke of York as he was pulling back towards the Netherlands. On 15 September 1794, at the Battle of Boxtel,[41] east of Breda, Wellington, in temporary command of his brigade, had his first experience of battle. During General Abercromby's withdrawal in the face of superior French forces, the 33rd held off enemy cavalry, allowing neighbouring units to retreat safely. During the extremely harsh winter that followed, Wellesley and his regiment formed part of an allied force holding the defence line along the Waal River. The 33rd, along with the rest of the army, suffered heavy losses from sickness and exposure. Wellesley's health was also affected by the damp environment.[42] Though the campaign was to end disastrously, with the British army driven out of the United Provinces into Germany, Wellesley was to learn several valuable lessons, including the use of steady lines of infantry against advancing columns and of the merits of supporting sea-power.[43] He understood that the failure of the campaign was due in part to the faults of the leaders and the poor organisation at headquarters.[44] He remarked later of his time in the Netherlands that "At least I learned what not to do, and that is always a valuable lesson".[45]
 
@@ -50,7 +50,7 @@ In 1798, he changed the spelling of his surname to "Wellesley"; up to this time 
 
 Fourth Anglo-Mysore War
 
-Arthur_Wellesley,_1st_Duke_of_Wellington_by_Robert_Home.jpg, 1804.]]
+, 1804.]]
 
 As part of the campaign to extend the rule of the British East India Company, the Fourth Anglo-Mysore War broke out in 1798 against the Sultan of Mysore, Tipu Sultan.[55] Arthur's brother Richard ordered that an armed force be sent to capture Seringapatam and defeat Tipu. Under the command of General Harris, some 24,000 troops were dispatched to Madras (to join an equal force being sent from Bombay in the west).[56] Arthur and the 33rd sailed to join them in August.[57]
 
@@ -60,11 +60,11 @@ Seringapatam
 
 Immediately after their arrival at Seringapatam on 5 April 1799, the Battle of Seringapatam began and Wellesley was ordered to lead a night attack on the village of Sultanpettah, adjacent to the fortress to clear the way for the artillery.[64] Because of the enemy's strong defensive preparations, and the darkness, with the resulting confusion, the attack failed with 25 casualties. Wellesley suffered a minor injury to his knee from a spent musket-ball.[65][66] Although they would re-attack successfully the next day, after time to scout ahead the enemy's positions, the affair affected Wellesley. He resolved "never to attack an enemy who is preparing and strongly posted, and whose posts have not been reconnoitered by daylight".[67]
 
-Major-General_the_Hon._Arthur_Wellesley_being_received_in_durbar_at_the_Chepauk_Palace_Madras_by_Azim_al-Daula_Nawab_of_the_Carnatic_18th_February_1805.jpg Azim-ud-Daula, 1805]]
+Azim-ud-Daula, 1805]]
 
 Lewin Bentham Bowring gives this alternative account:
 
-General_Wellesley's_House,_Mysore_(1890s),_unknown_photographer,_from_the_Curzon_Collection's_'Souvenir_of_Mysore_Album'.jpg (1890s), from the Curzon Collection's _Souvenir of Mysore Album_[68]]]
+(1890s), from the Curzon Collection's _Souvenir of Mysore Album_[68]]]
 
 A few weeks later, after extensive artillery bombardment, a breach was opened in the main walls of the fortress of Seringapatam.[69] An attack led by Major-General Baird secured the fortress. Wellesley secured the rear of the advance, posting guards at the breach and then stationed his regiment at the main palace.[70] After hearing news of the death of the Tipu Sultan, Wellesley was the first at the scene to confirm his death, checking his pulse.[71] Over the coming day, Wellesley grew increasingly concerned over the lack of discipline among his men, who drank and pillaged the fortress and city. To restore order, several soldiers were flogged and four hanged.[72]
 
@@ -92,7 +92,7 @@ When he determined that a long defensive war would ruin his army, Wellesley deci
 
 Assaye
 
-Battle_of_Assaye.jpeg (engraving after William Heath). Wellesley later remarked that it was his greatest victory.[98]]]
+(engraving after William Heath). Wellesley later remarked that it was his greatest victory.[98]]]
 
 Splitting his army into two forces, to pursue and locate the main Marathas army, (the second force, commanded by Colonel Stevenson was far smaller) Wellesley was preparing to rejoin his forces on 24 September. His intelligence, however, reported the location of the Marathas' main army, between two rivers near Assaye.[99] If he waited for the arrival of his second force, the Marathas would be able to mount a retreat, so Wellesley decided to launch an attack immediately.[100]
 
@@ -130,7 +130,7 @@ Ready for battle, Wellesley left Cork on 12 July 1808 to participate in the war 
 
 1808
 
-Wellingtons33rd.jpg Wellington's Redcoats who fought in the Napoleonic Wars, 1812–1815, here showing the standard line 8th Company]]
+Wellington's Redcoats who fought in the Napoleonic Wars, 1812–1815, here showing the standard line 8th Company]]
 
 Wellesley defeated the French at the Battle of Roliça and the Battle of Vimeiro in 1808[135] but was superseded in command immediately after the latter battle. General Dalrymple then signed the controversial Convention of Sintra, which stipulated that the Royal Navy transport the French army out of Lisbon with all their loot, and insisted on the association of the only available government minister, Wellesley.[136] Dalrymple and Wellesley were recalled to Britain to face a Court of Enquiry. Wellesley had agreed to sign the preliminary armistice, but had not signed the convention, and was cleared.[137]
 
@@ -158,7 +158,7 @@ In 1811, Masséna returned toward Portugal to relieve Almeida; Wellington narrow
 
 1812
 
-Wellington_a_Salamanca.jpg (engraving after William Heath)]]
+(engraving after William Heath)]]
 
 In 1812, Wellington finally captured Ciudad Rodrigo by a rapid movement as the French went into winter quarters, storming it before they could react. He then moved south quickly, besieged the fortress of Badajoz for a month and captured it during one bloody night. On viewing the aftermath of the Storming of Badajoz, Wellington lost his composure and cried at the sight of the bloody carnage in the breaches.[156]
 
@@ -170,7 +170,7 @@ The French abandoned Andalusia, and combined the troops of Soult and Marmont. Th
 
 1813
 
-Francisco_Goya_-_Portrait_of_the_Duke_of_Wellington.jpg by Francisco Goya, 1812–14]]
+by Francisco Goya, 1812–14]]
 
 In 1813, Wellington led a new offensive, this time against the French line of communications. He struck through the hills north of Burgos, the Tras os Montes, and switched his supply line from Portugal to Santander on Spain's north coast; this led to the French abandoning Madrid and Burgos. Continuing to outflank the French lines, Wellington caught up with and smashed the army of King Joseph Bonaparte in the Battle of Vitoria, for which he was promoted to field marshal on 21 June.[163] He personally led a column against the French centre, while other columns commanded by Sir Thomas Graham, Rowland Hill and the Earl of Dalhousie looped around the French right and left (this battle became the subject of Beethoven's opus 91, _Wellington's Victory_). The British troops broke ranks to loot the abandoned French wagons instead of pursuing the beaten foe. This gross abandonment of discipline caused an enraged Wellington to write in a famous dispatch to Earl Bathurst, "We have in the service the scum of the earth as common soldiers".[164]
 
@@ -180,7 +180,7 @@ After taking the small fortresses of Pamplona, Wellington invested San Sebastiá
 
 Aftermath
 
-Vienna_Congress.jpg, Talleyrand and other European diplomats at the Congress of Vienna, 1815 (engraving after Jean-Baptiste Isabey)]] Hailed as the conquering hero by the British, on 3 May 1814 Wellington was made DUKE OF WELLINGTON, in the county of Somerset, together with the subsidiary title of MARQUESS DOURO, in the said County.[173][174]
+, Talleyrand and other European diplomats at the Congress of Vienna, 1815 (engraving after Jean-Baptiste Isabey)]] Hailed as the conquering hero by the British, on 3 May 1814 Wellington was made DUKE OF WELLINGTON, in the county of Somerset, together with the subsidiary title of MARQUESS DOURO, in the said County.[173][174]
 
 He received some recognition during his lifetime (the title of "Duque de Ciudad Rodrigo" and "Grandee of Spain") and the Spanish King Ferdinand VII allowed him to keep part of the works of art from the Royal Collection which he had recovered from the French. His equestrian portrait features prominently in the Monument to the Battle of Vitoria, in present-day Vitoria-Gasteiz.[175]
 
@@ -192,7 +192,7 @@ He was appointed Ambassador to France,[177] then took Lord Castlereagh's place a
 
 Waterloo campaign
 
-Arthur_Wellesley,_first_Duke_of_Wellington._Wellcome_V0048407.jpg after Thomas Phillips.]] On 26 February 1815, Napoleon escaped from Elba and returned to France. He regained control of the country by May and faced a renewed alliance against him.[179] Wellington left Vienna for what became known as the Waterloo Campaign. He arrived in the Netherlands to take command of the British-German army and their allied Dutch, all stationed alongside the Prussian forces of Generalfeldmarschall Gebhard Leberecht von Blücher.[180]
+after Thomas Phillips.]] On 26 February 1815, Napoleon escaped from Elba and returned to France. He regained control of the country by May and faced a renewed alliance against him.[179] Wellington left Vienna for what became known as the Waterloo Campaign. He arrived in the Netherlands to take command of the British-German army and their allied Dutch, all stationed alongside the Prussian forces of Generalfeldmarschall Gebhard Leberecht von Blücher.[180]
 
 Napoleon's strategy was to isolate the Allied and Prussian armies and annihilate each one separately before the Austrians and Russians arrived. In doing so the vast superiority in numbers of the Coalition would be greatly diminished. He would then seek the possibility of peace with Austria and Russia.[181]
 
@@ -200,21 +200,17 @@ The French invaded the Netherlands, with Napoleon defeating the Prussians at Lig
 
 Battle
 
-Wellington_at_Waterloo_Hillingford.jpg]]
+]]
 
 The Battle of Waterloo commenced with a diversionary attack on Hougoumont by a division of French soldiers. After a barrage of 80 cannons, the first French infantry attack was launched by Comte D'Erlon's I Corps. D'Erlon's troops advanced through the Allied centre, resulting in Allied troops in front of the ridge retreating in disorder through the main position. D'Erlon's corps stormed the most fortified Allied position, La Haye Sainte, but failed to take it. An Allied division under Thomas Picton met the remainder of D'Erlon's corps head to head, engaging them in an infantry duel in which Picton fell. During this struggle Lord Uxbridge launched two of his cavalry brigades at the enemy, catching the French infantry off guard, driving them to the bottom of the slope, and capturing two French Imperial Eagles. The charge, however, over-reached itself, and the British cavalry, crushed by fresh French horsemen hurled at them by Napoleon, were driven back, suffering tremendous losses.[186]
 
 A little before 16:00, Marshal Ney noted an apparent exodus from Wellington's centre. He mistook the movement of casualties to the rear for the beginnings of a retreat, and sought to exploit it. Ney at this time had few infantry reserves left, as most of the infantry had been committed either to the futile Hougoumont attack or to the defence of the French right. Ney therefore tried to break Wellington's centre with a cavalry charge alone.[187]
 
-Waterloo-French_cavalry.jpg
-
 At about 16:30, the first Prussian corps arrived. Commanded by Freiherr von Bülow, IV Corps arrived as the French cavalry attack was in full spate. Bülow sent the 15th Brigade to link up with Wellington's left flank in the Frichermont–La Haie area while the brigade's horse artillery battery and additional brigade artillery deployed to its left in support.[188] Napoleon sent Lobau's corps to intercept the rest of Bülow's IV Corps proceeding to Plancenoit. The 15th Brigade sent Lobau's corps into retreat to the Plancenoit area. Von Hiller's 16th Brigade also pushed forward with six battalions against Plancenoit. Napoleon had dispatched all eight battalions of the Young Guard to reinforce Lobau, who was now seriously pressed by the enemy. Napoleon's Young Guard counter-attacked and, after very hard fighting, secured Plancenoit, but were themselves counter-attacked and driven out.[189] Napoleon then resorted to sending two battalions of the Middle and Old Guard into Plancenoit and after ferocious fighting they recaptured the village.[190] The French cavalry attacked the British infantry squares many times, each at a heavy cost to the French but with few British casualties. Ney himself was displaced from his horse four times.[191] Eventually, it became obvious, even to Ney, that cavalry alone were achieving little. Belatedly, he organised a combined-arms attack, using Bachelu's division and Tissot's regiment of Foy's division from Reille's II Corps plus those French cavalry that remained in a fit state to fight. This assault was directed along much the same route as the previous heavy cavalry attacks.[192]
 
-Knotel_-_The_storming_of_La_Haye_Sainte.jpg]] Meanwhile, at approximately the same time as Ney's combined-arms assault on the centre-right of Wellington's line, Napoleon ordered Ney to capture La Haye Sainte at whatever the cost. Ney accomplished this with what was left of D'Erlon's corps soon after 18:00. Ney then moved horse artillery up towards Wellington's centre and began to destroy the infantry squares at short-range with canister.[193] This all but destroyed the 27th (Inniskilling) Regiment, and the 30th and 73rd Regiments suffered such heavy losses that they had to combine to form a viable square. Wellington's centre was now on the verge of collapse and wide open to an attack from the French. Luckily for Wellington, Pirch I's and Zieten's corps of the Prussian Army were now at hand. Zieten's corps permitted the two fresh cavalry brigades of Vivian and Vandeleur on Wellington's extreme left to be moved and posted behind the depleted centre. Pirch I Corps then proceeded to support Bülow and together they regained possession of Plancenoit, and once more the Charleroi road was swept by Prussian round shot. The value of this reinforcement at this particular moment can hardly be overestimated.[194]
+]] Meanwhile, at approximately the same time as Ney's combined-arms assault on the centre-right of Wellington's line, Napoleon ordered Ney to capture La Haye Sainte at whatever the cost. Ney accomplished this with what was left of D'Erlon's corps soon after 18:00. Ney then moved horse artillery up towards Wellington's centre and began to destroy the infantry squares at short-range with canister.[193] This all but destroyed the 27th (Inniskilling) Regiment, and the 30th and 73rd Regiments suffered such heavy losses that they had to combine to form a viable square. Wellington's centre was now on the verge of collapse and wide open to an attack from the French. Luckily for Wellington, Pirch I's and Zieten's corps of the Prussian Army were now at hand. Zieten's corps permitted the two fresh cavalry brigades of Vivian and Vandeleur on Wellington's extreme left to be moved and posted behind the depleted centre. Pirch I Corps then proceeded to support Bülow and together they regained possession of Plancenoit, and once more the Charleroi road was swept by Prussian round shot. The value of this reinforcement at this particular moment can hardly be overestimated.[194]
 
-The_Battle_of_Waterloo,_June_18th_1815_-_The_wars_of_Wellington,_a_narrative_poem_(1819),_before_169_-_BL.jpg The French army now fiercely attacked the Coalition all along the line with the culminating point being reached when Napoleon sent forward the Imperial Guard at 19:30. The attack of the Imperial Guards was mounted by five battalions of the Middle Guard, and not by the Grenadiers or Chasseurs of the Old Guard. Marching through a hail of canister and skirmisher fire and severely outnumbered, the 3,000 or so Middle Guardsmen advanced to the west of La Haye Sainte and proceeded to separate into three distinct attack forces. One, consisting of two battalions of Grenadiers, defeated the Coalition's first line and marched on. Chassé's relatively fresh Dutch division was sent against them and Allied artillery fired into the victorious Grenadiers' flank. This still could not stop the Guard's advance, so Chassé ordered his first brigade to charge the outnumbered French, who faltered and broke.[195]
-
-Plas_Newydd_(Anglesey)_-_Waterloo_1.jpg
+The French army now fiercely attacked the Coalition all along the line with the culminating point being reached when Napoleon sent forward the Imperial Guard at 19:30. The attack of the Imperial Guards was mounted by five battalions of the Middle Guard, and not by the Grenadiers or Chasseurs of the Old Guard. Marching through a hail of canister and skirmisher fire and severely outnumbered, the 3,000 or so Middle Guardsmen advanced to the west of La Haye Sainte and proceeded to separate into three distinct attack forces. One, consisting of two battalions of Grenadiers, defeated the Coalition's first line and marched on. Chassé's relatively fresh Dutch division was sent against them and Allied artillery fired into the victorious Grenadiers' flank. This still could not stop the Guard's advance, so Chassé ordered his first brigade to charge the outnumbered French, who faltered and broke.[195]
 
 Further to the west, 1,500 British Foot Guards under Maitland were lying down to protect themselves from the French artillery. As two battalions of Chasseurs approached, the second prong of the Imperial Guard's attack, Maitland's guardsmen rose and devastated them with point-blank volleys. The Chasseurs deployed to counter-attack but began to waver. A bayonet charge by the Foot Guards then broke them. The third prong, a fresh Chasseur battalion, now came up in support. The British guardsmen retreated with these Chasseurs in pursuit, but the latter were halted as the 52nd Light Infantry wheeled in line onto their flank and poured a devastating fire into them and then charged.[196][197] Under this onslaught, they too broke.[198]
 
@@ -230,7 +226,7 @@ Controversy
 
 Much historical discussion has been made about Napoleon's decision to send 33,000 troops under Marshal Grouchy to intercept the Prussians, but—having defeated Blücher at Ligny on 16 June and forced the Allies to retreat in divergent directions—Napoleon may have been strategically astute in a judgement that he would have been unable to beat the combined Allied forces on one battlefield. Wellington's comparable strategic gamble was to leave 17,000 troops and artillery, mostly Dutch, away at Halle, north-west of Mont-Saint-Jean, in case of a French advance up the Mons-Hal-Brussels road.[202]
 
-Jan_Willem_Pieneman00.jpg]] The campaign led to numerous other controversies, especially concerning the Prussians. For example: Were Wellington's troop dispositions prior to Napoleon's invasion of the Netherlands sound? Did Wellington somehow mislead or betray Blücher by promising, then failing, to come directly to Blücher's aid at Ligny? Who deserved the lion's share of credit for the victory—Wellington or the Prussians? These and other such issues concerning Blücher's, Wellington's, and Napoleon's decisions during the campaign were the subject of a major strategic-level study by the famous Prussian political-military theorist Carl von Clausewitz, _Feldzug von 1815: Strategische Uebersicht des Feldzugs von 1815_,[203] English title: _The Campaign of 1815: Strategic Overview of the Campaign_. Written c.1827, this study was Clausewitz's last such work and is widely considered to be the best example of Clausewitz's mature theories concerning such analyses.[204] It attracted the attention of Wellington's staff, who prompted the Duke to write his only published essay on the campaign (other than his immediate, official after-action report, "The Waterloo Dispatch"), his 1842 "Memorandum on the Battle of Waterloo". While Wellington disputed Clausewitz on several points, the Prussian writer largely absolved Wellington of accusations levelled against him by nationalistic German axe-grinders. This exchange with Clausewitz was quite famous in Britain in the 19th century (it was heavily discussed in, for example, Chesney's _Waterloo Lectures_ (1868).) It seems, however, to have been systematically ignored by British historians writing since 1914, which is odd considering that it was one of only two discussions of the battle that Wellington wrote. The explanation, unfortunately, is probably that it drew too much attention to the decisive German role in Wellington's victory—which Wellington himself was perfectly happy to acknowledge, but which became an awkward subject given Anglo-German hostilities in the 20th century.[205]
+]] The campaign led to numerous other controversies, especially concerning the Prussians. For example: Were Wellington's troop dispositions prior to Napoleon's invasion of the Netherlands sound? Did Wellington somehow mislead or betray Blücher by promising, then failing, to come directly to Blücher's aid at Ligny? Who deserved the lion's share of credit for the victory—Wellington or the Prussians? These and other such issues concerning Blücher's, Wellington's, and Napoleon's decisions during the campaign were the subject of a major strategic-level study by the famous Prussian political-military theorist Carl von Clausewitz, _Feldzug von 1815: Strategische Uebersicht des Feldzugs von 1815_,[203] English title: _The Campaign of 1815: Strategic Overview of the Campaign_. Written c.1827, this study was Clausewitz's last such work and is widely considered to be the best example of Clausewitz's mature theories concerning such analyses.[204] It attracted the attention of Wellington's staff, who prompted the Duke to write his only published essay on the campaign (other than his immediate, official after-action report, "The Waterloo Dispatch"), his 1842 "Memorandum on the Battle of Waterloo". While Wellington disputed Clausewitz on several points, the Prussian writer largely absolved Wellington of accusations levelled against him by nationalistic German axe-grinders. This exchange with Clausewitz was quite famous in Britain in the 19th century (it was heavily discussed in, for example, Chesney's _Waterloo Lectures_ (1868).) It seems, however, to have been systematically ignored by British historians writing since 1914, which is odd considering that it was one of only two discussions of the battle that Wellington wrote. The explanation, unfortunately, is probably that it drew too much attention to the decisive German role in Wellington's victory—which Wellington himself was perfectly happy to acknowledge, but which became an awkward subject given Anglo-German hostilities in the 20th century.[205]
 
 
 Political career
@@ -241,15 +237,13 @@ Prime Minister
 
 Along with Robert Peel, Wellington became an increasingly influential member of the Tory party, and in 1828 he resigned as Commander-in-Chief and became Prime Minister.[211]
 
-Arthur_Wellesley,_1st_Duke_of_Wellington_by_John_Jackson.jpg, 1830–31]]
+, 1830–31]]
 
 During his first seven months as prime minister, he chose not to live in the official residence at 10 Downing Street, finding it too small. He moved in only because his own home, Apsley House, required extensive renovations. During this time he was largely instrumental in the foundation of King's College London. On 20 January 1829 Wellington was appointed Lord Warden of the Cinque Ports.[212]
 
 Catholic Emancipation
 
 His term was marked by Catholic emancipation: the granting of almost full civil rights to Catholics in Great Britain and Ireland. The change was prompted by the landslide by-election win of Daniel O'Connell, an Irish Catholic proponent of emancipation, who was elected despite not being legally allowed to sit in Parliament. In the House of Lords, facing stiff opposition, Wellington spoke for Catholic Emancipation, and according to some sources, gave one of the best speeches of his career.[213] He was born in Ireland and so had some understanding of the grievances of the Catholic communities there; as Chief Secretary, he had given an undertaking that the remaining Penal Laws would only be enforced as "mildly" as possible.[214] In 1811 Catholic soldiers were given freedom of worship[215] and 18 years later the Catholic Relief Act 1829 was passed with a majority of 105. Many Tories voted against the Act, and it passed only with the help of the Whigs.[216] Wellington had threatened to resign as Prime Minister if the King (George IV) did not give his Royal Assent.[217]
-
-John_Phillips_An_Eclipse_Lately_Discovered_1829_Cornell_CUL_PJM_1044_01.jpg
 
 The Earl of Winchilsea accused the Duke of "an insidious design for the infringement of our liberties and the introduction of Popery into every department of the State".[218] Wellington responded by immediately challenging Winchilsea to a duel. On 21 March 1829, Wellington and Winchilsea met on Battersea fields. When the time came to fire, the Duke took aim and Winchilsea kept his arm down. The Duke fired wide to the right. Accounts differ as to whether he missed on purpose, an act known in dueling as a _delope_. Wellington claimed he did. However, he was noted for his poor aim and reports more sympathetic to Winchilsea claimed he had aimed to kill. Winchilsea did not fire, a plan he and his second had almost certainly decided upon before the duel.[219] Honour was saved and Winchilsea wrote Wellington an apology.[220]
 
@@ -267,7 +261,7 @@ Wellington opposed the Jewish Civil Disabilities Repeal Bill, and he stated in P
 
 Conservative government
 
-Duke_of_Wellington_Photo_cleaned.jpg of the Duke of Wellington, then aged 74 or 75, by Antoine Claudet, 1844]] Wellington was gradually superseded as leader of the Tories by Robert Peel, while the party evolved into the Conservatives. When the Tories were returned to power in 1834, Wellington declined to become Prime Minister because he thought membership in Commons had become essential. The king reluctantly approved Peel, who was in Italy. So for three weeks in November and December 1834, Wellington acted as interim leader, taking the responsibilities of Prime Minister and most of the other ministries.[230] In Peel's first cabinet (1834–1835), Wellington became Foreign Secretary, while in the second (1841–1846) he was a Minister without Portfolio and Leader of the House of Lords.[231] Wellington was also re-appointed Commander-in-Chief of the British Army on 15 August 1842 following the resignation of Lord Hill.[232]
+of the Duke of Wellington, then aged 74 or 75, by Antoine Claudet, 1844]] Wellington was gradually superseded as leader of the Tories by Robert Peel, while the party evolved into the Conservatives. When the Tories were returned to power in 1834, Wellington declined to become Prime Minister because he thought membership in Commons had become essential. The king reluctantly approved Peel, who was in Italy. So for three weeks in November and December 1834, Wellington acted as interim leader, taking the responsibilities of Prime Minister and most of the other ministries.[230] In Peel's first cabinet (1834–1835), Wellington became Foreign Secretary, while in the second (1841–1846) he was a Minister without Portfolio and Leader of the House of Lords.[231] Wellington was also re-appointed Commander-in-Chief of the British Army on 15 August 1842 following the resignation of Lord Hill.[232]
 
 Wellington served as the leader of the Conservative party in the House of Lords, 1828–1846. Some historians have belittled him as a befuddled reactionary, but a consensus in the late 20th century depicts him as a shrewd operator who hid his cleverness behind the facade of a poorly informed old soldier. Wellington worked to transform the Lords from unstinting support of the Crown to an active player in political maneuvering, with a commitment to the landed aristocracy. He used his London residence as a venue for intimate dinners and private consultations, together with extensive correspondence that kept him in close touch with party leaders in the Commons, and the main persona in the Lords. He gave public rhetorical support to Ultra-Tory anti-reform positions, but then deftly changed positions toward the party's center, especially when Peel needed support from the upper house. Wellington's success was based on the 44 Elected peers from Scotland and Ireland, whose election he controlled.[233]
 
@@ -289,13 +283,13 @@ Kitty died of cancer in 1831; despite their generally unhappy relations, which h
 
 Death and funeral
 
-EmilySDrummondWellingtonFuneral1852.jpg]] Tomb_Wellington.jpg, London]]
+]] , London]]
 
 Wellington died at Walmer Castle in Deal on 14 September 1852. This was his residence as Lord Warden of the Cinque Ports. Walmer Castle was said to have been his favourite residence. He was found to be unwell on that morning and was aided from his military campaign bed (the same one he used throughout his historic military career) and seated in his chair where he died. His death was recorded as being due to the after-effects of a stroke culminating in a series of seizures. He was aged 83.[247][248]
 
 Although in life he hated travelling by rail (after witnessing the death of William Huskisson, one of the first railway accident casualties), his body was then taken by train to London, where he was given a state funeral – one of only a handful of British subjects to be honoured in that way (other examples are Lord Nelson and Sir Winston Churchill) – and the last heraldic state funeral to be held in Britain. The funeral took place on 18 November 1852.[249][250] At his funeral there was hardly any space to stand because of the number of people attending, and the effusive praise given him in Tennyson's "Ode on the Death of the Duke of Wellington" attests to his stature at the time of his death. He was buried in a sarcophagus of luxulyanite in St Paul's Cathedral next to Lord Nelson.[251] A bronze memorial was sculpted by Alfred Stevens, and features two intricate supports: "Truth tearing the tongue out of the mouth of False-hood", and "Valour trampling Cowardice underfoot". Stevens did not live to see it placed in its home under one of the great arches of the Cathedral.[252]
 
-WellingtonWoodhouse.jpg in Woodhouse Moor, Leeds]]
+in Woodhouse Moor, Leeds]]
 
 Wellington's casket was decorated with banners which were made for his funeral procession. Originally, there was one from Prussia, which was removed during World War I and never reinstated.[253] In the procession, the "Great Banner" was carried by General Sir James Charles Chatterton of the 4th Dragoon Guards on the orders of Queen Victoria.
 
@@ -308,9 +302,9 @@ Owing to its links with Wellington, as the former commanding officer and colonel
 
 Personality
 
-Arthur_Wellesley_(1769–1852),_1st_Duke_of_Wellington.jpg Wellington always rose early; he "couldn't bear to lie awake in bed", even if the army was not on the march.[259] Even when he returned to civilian life after 1815, he slept in a camp bed, reflecting his lack of regard for creature comforts; it remains on display in Walmer Castle.[260] General Miguel de Álava complained that Wellington said so often that the army would march "at daybreak" and dine on "cold meat", that he began to dread those two phrases.[261] While on campaign, he seldom ate anything between breakfast and dinner. During the retreat to Portugal in 1811, he subsisted on "cold meat and bread", to the despair of his staff who dined with him.[262] He was, however, renowned for the quality of the wine that he drank and served, often drinking a bottle with his dinner (not a great quantity by the standards of his day).[263]
+Wellington always rose early; he "couldn't bear to lie awake in bed", even if the army was not on the march.[259] Even when he returned to civilian life after 1815, he slept in a camp bed, reflecting his lack of regard for creature comforts; it remains on display in Walmer Castle.[260] General Miguel de Álava complained that Wellington said so often that the army would march "at daybreak" and dine on "cold meat", that he began to dread those two phrases.[261] While on campaign, he seldom ate anything between breakfast and dinner. During the retreat to Portugal in 1811, he subsisted on "cold meat and bread", to the despair of his staff who dined with him.[262] He was, however, renowned for the quality of the wine that he drank and served, often drinking a bottle with his dinner (not a great quantity by the standards of his day).[263]
 
-He rarely showed emotion in public, and often appeared condescending to those less competent or less well-born than himself (which was nearly everyone). However, Álava was a witness to an incident just before the Battle of Salamanca. Wellington was eating a chicken leg while observing the manoeuvres of the French army through a spyglass. He spotted an overextension in the French left flank, and realised that he could launch a successful attack there. He threw the drumstick in the air and shouted "_Les français sont perdus!_" ("The French are lost!").[264] After the Battle of Toulouse, an aide brought him the news of Napoleon's abdication, and Wellington broke into an impromptu flamenco dance, spinning around on his heels and clicking his fingers.[265] BLW_Model_for_Wellington_Monument_-_Valour_and_Cowardice.jpg, of the 'Valour and Cowardice' motif used in the memorial to Wellington at St. Paul's Cathedral]]
+He rarely showed emotion in public, and often appeared condescending to those less competent or less well-born than himself (which was nearly everyone). However, Álava was a witness to an incident just before the Battle of Salamanca. Wellington was eating a chicken leg while observing the manoeuvres of the French army through a spyglass. He spotted an overextension in the French left flank, and realised that he could launch a successful attack there. He threw the drumstick in the air and shouted "_Les français sont perdus!_" ("The French are lost!").[264] After the Battle of Toulouse, an aide brought him the news of Napoleon's abdication, and Wellington broke into an impromptu flamenco dance, spinning around on his heels and clicking his fingers.[265] , of the 'Valour and Cowardice' motif used in the memorial to Wellington at St. Paul's Cathedral]]
 
 Military historian Charles Dalton recorded that, after a hard-fought battle in Spain, a young officer made the comment, "I am going to dine with Wellington tonight", which was overheard by the Duke as he rode by. "Give me at least the prefix of Mr. before my name," Wellington said. "My Lord," replied the officer, "we do not speak of Mr. Caesar or Mr. Alexander, so why should I speak of Mr. Wellington?"
 
@@ -336,7 +330,7 @@ Titles and tributes
 
 Nicknames
 
-Apsley_House_en_1829.JPG]] Edinburgh-Wellington-wyrdlight.jpg
+]]
 
 The Iron Duke
 

@@ -7,8 +7,6 @@ _Doonesbury_ is written and penciled by Garry Trudeau, then inked and lettered b
 
 History
 
-Db701026.gif
-
 _Doonesbury_ began as a continuation of _Bull Tales_, which appeared in the Yale University student newspaper, the _Yale Daily News_, from 1968 to 1970. It focused on local campus events at Yale.[5]
 
 _Doonesbury_ proper debuted as a daily strip in twenty-eight newspapers on October 26, 1970[6] (it being the first strip from Universal Press Syndicate).[7] A Sunday strip began on March 21, 1971.[8] Many of the early strips were reprints of the _Bull Tales_ cartoons, with some changes to the drawings and plots. B. D.'s helmet changed from having a "Y" (for Yale) to a star (for the fictional Walden College). Mike and B. D. started _Doonesbury_ as roommates; they were not roommates in _Bull Tales_.
@@ -17,7 +15,7 @@ _Doonesbury_ became known for its social and political commentary. As of the mid
 
 In May 1975, _Doonesbury_ became the first daily comic strip to win a Pulitzer Prize, taking the award for Editorial Cartooning.[10] That year, US President Gerald Ford told the Radio and Television Correspondents' Association at their annual dinner, "There are only three major vehicles to keep us informed as to what is going on in Washington: the electronic media, the print media, and _Doonesbury_, not necessarily in that order."[11]
 
-Stonewall-clip.png, from August 12, 1974; awarded the Pulitzer Prize]]
+, from August 12, 1974; awarded the Pulitzer Prize]]
 
 In 1977, Trudeau wrote a script for a 26-minute animated special, _A Doonesbury Special_, which was produced and directed by Trudeau along with John Hubley (who died during the storyboarding stage)[12] and Faith Hubley. The special was first broadcast by NBC on November 27, 1977. It won a Special Jury Award at the Cannes International Film Festival for best short film, and received an Oscar nomination (for best animated short film), both in 1978.[13] Voice actors for the special included Barbara Harris, William Sloane Coffin, Jr., Jack Gilford and Will Jordan. Also included were two songs "sung" by the character Jimmy Thudpucker (actually actor/singer/songwriter/producer James Allen "Jimmy" Brewer), entitled "Stop in the Middle" and "I Do Believe", also part of the "Special". While the compositions and performances were credited to "Jimmy Thudpucker", they were in fact co-written and sung by Brewer, who also co-wrote and provided the vocals for "Ginny's Song", a 1976 single on the Warner Bros. Label, and _Jimmy Thudpucker's Greatest Hits_, an LP released by Windsong Records, John Denver's subsidiary of RCA Records.
 

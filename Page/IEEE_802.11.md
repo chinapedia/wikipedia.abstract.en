@@ -1,4 +1,4 @@
-Linksys-Wireless-G-Router.jpg Wi-Fi router operates on the 2.4 GHz "G" standard, capable of transmitting 54 megabits per second.]] Netgear-Nighthawk-AC1900-WiFi-Router.jpg dual-band router from 2013 uses the AC standard, capable of transmitting 1900 megabits per second (combined).]]
+Wi-Fi router operates on the 2.4 GHz "G" standard, capable of transmitting 54 megabits per second.]] dual-band router from 2013 uses the AC standard, capable of transmitting 1900 megabits per second (combined).]]
 
 IEEE 802.11 is part of the IEEE 802 set of LAN protocols, and specifies the set of media access control (MAC) and physical layer (PHY) protocols for implementing wireless local area network (WLAN) Wi-Fi computer communication in various frequencies, including but not limited to 2.4, 5, and 60 GHz frequency bands.
 
@@ -132,11 +132,11 @@ IEEE 802.11be Extremely High Throughput (EHT) is the potential next amendment of
 
 Common misunderstandings about achievable throughput
 
-Throughputenvelope80211g.png application specific (UDP) performance envelope 2.4 GHz band, with 802.11g. 1 Mbps = 1 Mbit/s]]
+application specific (UDP) performance envelope 2.4 GHz band, with 802.11g. 1 Mbps = 1 Mbit/s]]
 
 Across all variations of 802.11, maximum achievable throughputs are given either based on measurements under ideal conditions or in the layer-2 data rates. However, this does not apply to typical deployments in which data is being transferred between two endpoints, of which at least one is typically connected to a wired infrastructure and the other endpoint is connected to an infrastructure via a wireless link.
 
-ThroughputEnvelope11n.png application specific (UDP) performance envelope 2.4 GHz band, with 802.11n with 40MHz]]
+application specific (UDP) performance envelope 2.4 GHz band, with 802.11n with 40MHz]]
 
 This means that, typically, data frames pass an 802.11 (WLAN) medium, and are being converted to 802.3 (Ethernet) or vice versa. Due to the difference in the frame (header) lengths of these two media, the application's packet size determines the speed of the data transfer. This means applications that use small packets (e.g., VoIP) create dataflows with high-overhead traffic (i.e., a low goodput). Other factors that contribute to the overall application data rate are the speed with which the application transmits the packets (i.e., the data rate) and, of course, the energy with which the wireless signal is received. The latter is determined by distance and by the configured output power of the communicating devices.[54][55]
 
@@ -149,7 +149,7 @@ Channels and frequencies
 
 The 2.4 GHz band is divided into 14 channels spaced 5 MHz apart, beginning with channel 1, which is centered on 2.412 GHz. The latter channels have additional restrictions or are unavailable for use in some regulatory domains.
 
-2.4_GHz_Wi-Fi_channels_(802.11b,g_WLAN).svg channels in the 2.4 GHz band]]
+channels in the 2.4 GHz band]]
 
 The channel numbering of the spectrum is less intuitive due to the differences in regulations between countries. These are discussed in greater detail on the list of WLAN channels.
 
@@ -159,15 +159,11 @@ In addition to specifying the channel center frequency, 802.11 also specifies (i
 
 Availability of channels is regulated by country, constrained in part by how each country allocates radio spectrum to various services. At one extreme, Japan permits the use of all 14 channels for 802.11b, and for 802.11g/n-2.4. Other countries such as Spain initially allowed only channels 10 and 11, and France allowed only 10, 11, 12, and 13; however, Europe now allow channels 1 through 13.[56][57] North America and some Central and South American countries allow only
 
-2.4_GHz_Wi-Fi_channels_(802.11g_WLAN).svg
-
 Since the spectral mask defines only power output restrictions up to ±11 MHz from the center frequency to be attenuated by −50 dBr, it is often assumed that the energy of the channel extends no further than these limits. It is more correct to say that, given the separation between channels, the overlapping signal on any channel should be sufficiently attenuated to minimally interfere with a transmitter on any other channel. Due to the near-far problem a transmitter can impact (desense) a receiver on a "non-overlapping" channel, but only if it is close to the victim receiver (within a meter) or operating above allowed power levels. Conversely, a sufficiently distant transmitter on an overlapping channel can have little to no significant effect.
 
 Confusion often arises over the amount of channel separation required between transmitting devices. 802.11b was based on direct-sequence spread spectrum (DSSS) modulation and utilized a channel bandwidth of 22 MHz, resulting in _three_ "non-overlapping" channels (1, 6, and 11). 802.11g was based on OFDM modulation and utilized a channel bandwidth of 20 MHz. This occasionally leads to the belief that _four_ "non-overlapping" channels (1, 5, 9, and 13) exist under 802.11g, although this is not the case as per 17.4.6.3 Channel Numbering of operating channels of the IEEE Std 802.11 (2012), which states "In a multiple cell network topology, overlapping and/or adjacent cells using different channels can operate simultaneously without interference if the distance between the center frequencies is at least 25 MHz."[58] and section 18.3.9.3 and Figure 18-13.
 
 This does not mean that the technical overlap of the channels recommends the non-use of overlapping channels. The amount of inter-channel interference seen on a configuration using channels 1, 5, 9, and 13 (which is permitted in Europe, but not in North America) is barely different from a three-channel configuration, but with an entire extra channel.[59][60]
-
-NonOverlappingChannels2.4GHz802.11-en.svg
 
 However, overlap between channels with more narrow spacing (e.g. 1, 4, 7, 11 in North America) may cause unacceptable degradation of signal quality and throughput, particularly when users transmit near the boundaries of AP cells.[61]
 
@@ -186,7 +182,7 @@ The datagrams are called _frames_. Current 802.11 standards specify frame types 
 
 Frames are divided into very specific and standardized sections. Each frame consists of a MAC HEADER, PAYLOAD, and FRAME CHECK SEQUENCE (FCS). Some frames may not have a payload.
 
-802.11_frame.png The first two bytes of the MAC header form a frame control field specifying the form and function of the frame. This frame control field is subdivided into the following sub-fields:
+The first two bytes of the MAC header form a frame control field specifying the form and function of the frame. This frame control field is subdivided into the following sub-fields:
 
 -   PROTOCOL VERSION: Two bits representing the protocol version. Currently used protocol version is zero. Other values are reserved for future use.
 -   TYPE: Two bits identifying the type of WLAN frame. Control, Data, and Management are various frame types defined in IEEE 802.11.

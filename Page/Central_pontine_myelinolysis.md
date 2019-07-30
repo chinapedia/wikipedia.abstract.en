@@ -9,7 +9,7 @@ Central pontine myelinolysis, and osmotic demyelination syndrome, present most c
 
 Signs and symptoms
 
-Extrapontine_myelinolysis_T2_01.jpg (small, thin arrow), putamen (long arrow), with sparing of globus pallidus (broad arrow), suggestive of extrapontine myelinolysis (osmotic demyelination syndrome)]]
+(small, thin arrow), putamen (long arrow), with sparing of globus pallidus (broad arrow), suggestive of extrapontine myelinolysis (osmotic demyelination syndrome)]]
 
 Symptoms depend on the regions of the brain involved. Prior to its onset, patients may present with the neurological signs and symptoms of hyponatraemic encephalopathy such as nausea and vomiting, confusion, headache and seizures. These symptoms may resolve with normalisation of the serum sodium concentration. Three to five days later, a second phase of neurological manifestations occurs correlating with the onset of myelinolysis. Observable immediate precursors may include seizures, disturbed consciousness, gait changes, and decrease or cessation of respiratory function.[6][7]
 
@@ -20,7 +20,7 @@ In about ten per cent of people with CPM, ODM is also found. In these cases symp
 
 Causes
 
-Pontine_myelinolysis.jpg in the brainstem (Luxol-Fast blue stain)]] The most common cause is overly rapid correction of low blood sodium levels (hyponatremia).[10] Apart from rapid correction of hyponatraemia, there are case reports of central pontine myelinolysis in association with hypokalaemia, anorexia nervosa when feeding is started, patients undergoing dialysis and burns victims. There is a case report of central pontine myelinolysis occurring in the context of re-feeding syndrome, in the absence of hyponatremia.[11]
+in the brainstem (Luxol-Fast blue stain)]] The most common cause is overly rapid correction of low blood sodium levels (hyponatremia).[10] Apart from rapid correction of hyponatraemia, there are case reports of central pontine myelinolysis in association with hypokalaemia, anorexia nervosa when feeding is started, patients undergoing dialysis and burns victims. There is a case report of central pontine myelinolysis occurring in the context of re-feeding syndrome, in the absence of hyponatremia.[11]
 
 It has also been known to occur in patients suffering withdrawal symptoms of chronic alcoholism.[12] In these instances, occurrence may be entirely unrelated to hyponatremia or rapid correction of hyponatremia. It could affect patients who take some prescription medicines that are able to cross the blood-brain barrier and cause abnormal thirst reception - in this scenario the CPM is caused by polydipsia leading to low blood sodium levels (hyponatremia).
 

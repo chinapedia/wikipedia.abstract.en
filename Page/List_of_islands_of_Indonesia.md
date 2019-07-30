@@ -1,5 +1,3 @@
-Indonesia_map.png
-
 The ISLANDS OF INDONESIA, also known as the INDONESIAN ARCHIPELAGO and formerly known as the INDIAN ARCHIPELAGO, may refer either to the islands comprising the nation-state of Indonesia or to the geographical groups which include its islands. According to the Indonesian Coordinating Ministry for Maritime Affairs, of 17,508 officially listed islands within the territory of the Republic of Indonesia,[1] 16,056 island names have been verified by the United Nations Group of Experts on Geographical Names (UNGEGN) as of July 2017.[2]
 
 
@@ -7,7 +5,7 @@ History
 
 The exact number of islands comprising Indonesia varies among definitions and sources. According to a geospatial survey conducted between 2007 and 2010 by Badan Koordinasi Survei dan Pemetaan Nasional (Bakorsurtanal), the National Coordinating Agency for Survey and Mapping, Indonesia has 13,466 islands.[3] However, according to earlier survey in 2002 by National Institute of Aeronautics and Space (LAPAN), the Indonesian archipelago has 18,307 islands, and according to the CIA _World Factbook_, there are 17,508 islands.[4] The discrepancy of the numbers of Indonesian islands was because that the earlier surveys include "tidal islands"; sandy cays and rocky reefs that appear during low tide and are submerged during high tide. According to estimates made by the government of Indonesia 8,844 islands have been named, with 922 of those permanently inhabited.[5]
 
-Indonesian_archipelagic_baselines.jpg]]
+]]
 
 
 Major islands

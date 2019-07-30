@@ -73,7 +73,7 @@ Her body was cremated, and her ashes were scattered over Santa Monica Bay in Mer
 
 Legacy
 
-Anais_Nin.jpg]] The explosion of the feminist movement in the 1960s gave feminist perspectives on Nin's writings of the past twenty years, which made Nin a popular lecturer at various universities; contrarily, Nin disassociated herself from the political activism of the movement.[34] In 1973, prior to her death, Nin received an honorary doctorate from the Philadelphia College of Art. She was also elected to the United States National Institute of Arts and Letters in 1974, and in 1976 was presented with a _Los Angeles Times_ Woman of the Year award.[35]
+]] The explosion of the feminist movement in the 1960s gave feminist perspectives on Nin's writings of the past twenty years, which made Nin a popular lecturer at various universities; contrarily, Nin disassociated herself from the political activism of the movement.[34] In 1973, prior to her death, Nin received an honorary doctorate from the Philadelphia College of Art. She was also elected to the United States National Institute of Arts and Letters in 1974, and in 1976 was presented with a _Los Angeles Times_ Woman of the Year award.[35]
 
 Philip Kaufman directed the 1990 film _Henry & June_ based on Nin's diaries published as _Henry and June: From the Unexpurgated Diary of Anaïs Nin_. She was portrayed in the film by actress Maria de Medeiros.
 

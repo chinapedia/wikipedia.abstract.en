@@ -5,14 +5,12 @@ Early life
 
 Dwight Moody was born in Northfield, Massachusetts, as the seventh child in a large family. His father, Edwin J. Moody (1800–1841), was a small farmer and stonemason. His mother was Betsey Moody (née Holton; 1805–1896). They had five sons and a daughter before Dwight's birth. His father died when Dwight was age four; fraternal twins, a boy and a girl, were born one month after the father's death. Their mother struggled to support the nine children, but had to send some off to work for their room and board. Dwight too was sent off, where he received cornmeal, porridge, and milk three times a day.[1] He complained to his mother, but when she learned that he was getting all he wanted to eat, she sent him back. During this time, she continued to send the children to church. Together with his eight siblings, Dwight was raised in the Unitarian church. His oldest brother ran away and was not heard from by the family until many years later.[2]
 
-Plaque_on_Site_of_the_conversion_of_Dwight_Moody_in_Boston_Massachusetts_MA_USA_on_Court_Street.jpg When Moody turned 17, he moved to Boston to work (after receiving many job rejections locally) in an uncle's shoe store. One of the uncle's requirements was that Moody attend the Congregational Church of Mount Vernon, where Dr. Edward Norris Kirk served as the pastor. In April 1855 Moody was converted to evangelical Christianity when his Sunday school teacher, Edward Kimball, talked to him about how much God loved him. His conversion sparked the start of his career as an evangelist. Moody was not received by the church when he first applied in May 1855. He was not received as a church member until May 4, 1856.
+When Moody turned 17, he moved to Boston to work (after receiving many job rejections locally) in an uncle's shoe store. One of the uncle's requirements was that Moody attend the Congregational Church of Mount Vernon, where Dr. Edward Norris Kirk served as the pastor. In April 1855 Moody was converted to evangelical Christianity when his Sunday school teacher, Edward Kimball, talked to him about how much God loved him. His conversion sparked the start of his career as an evangelist. Moody was not received by the church when he first applied in May 1855. He was not received as a church member until May 4, 1856.
 
 According to Moody's memoir, his teacher, Edward Kimball, said:
 
 
 Civil War
-
-Portrait_of_Dwight_Lyman_Moody_(4669848).jpg
 
 D. L. Moody "could not conscientiously enlist" in the Union Army during the Civil War, later describing himself as "a Quaker" in this respect.[3] After the Civil War started, he became involved with the United States Christian Commission of the YMCA. He paid nine visits to the battlefront, being present among the Union soldiers after the Battle of Shiloh (a.k.a. Pittsburg Landing) and the Battle of Stones River; he also entered Richmond, Virginia, with the troops of General Grant.
 
@@ -20,8 +18,6 @@ On August 28, 1862, Moody married Emma C. Revell, with whom he had a daughter, E
 
 
 Chicago and the postwar years
-
-Will_it_pay?_D.L._Moody_and_J.V._Farwell's_first_Sunday_school_class,_North_Market_Hall,_Chicago,_Ill._-_-_Ruehlow._LCCN2006678632.tif
 
 The growing Sunday School congregation needed a permanent home, so Moody started a church in Chicago, the Illinois Street Church.[4]
 
@@ -35,13 +31,13 @@ Moody founded two schools here: Northfield School for Girls, founded in 1879, an
 
 Evangelical travels
 
-Dwight_Lyman_Moody_Vanity_Fair_3_April_1875.jpg'', 3 April 1875]]
+'', 3 April 1875]]
 
 During a trip to the United Kingdom in the spring of 1872, Moody became well known as an evangelist. Literary works published by the Moody Bible Institute claim that he was the greatest evangelist of the 19th century.[9] He preached almost a hundred times and came into communion with the Plymouth Brethren. On several occasions, he filled stadia of a capacity of 2,000 to 4,000. According to his memoir, in the Botanic Gardens Palace, he attracted an audience estimated at between 15,000 and 30,000.[10]
 
 That turnout continued throughout 1874 and 1875, with crowds of thousands at all of his meetings. During his visit to Scotland, Moody was helped and encouraged by Andrew A. Bonar. The famous London Baptist preacher, Charles Spurgeon, invited him to speak, and he promoted the American as well. When Moody returned to the US, he was said to frequently attract crowds of 12,000 to 20,000 were as common as they had been in England.[11] President Grant and some of his cabinet officials attended a Moody meeting on January 19, 1876. He held evangelistic meetings from Boston to New York, throughout New England, and as far west as San Francisco, also visiting other West Coast towns from Vancouver, British Columbia, Canada to San Diego.[12]
 
-Moody aided the work of cross-cultural evangelism by promoting "The Wordless Book," a teaching tool developed in 1866 by Charles Spurgeon. In 1875, Moody added a fourth color to the design of the three-color evangelistic device: gold — to "represent heaven." This "book" has been and is still used to teach uncounted thousands of illiterate people, young and old, around the globe about the gospel message.[13] Open_Air_Preaching_WB.jpg using Moody's version of _The Wordless Book_]]
+Moody aided the work of cross-cultural evangelism by promoting "The Wordless Book," a teaching tool developed in 1866 by Charles Spurgeon. In 1875, Moody added a fourth color to the design of the three-color evangelistic device: gold — to "represent heaven." This "book" has been and is still used to teach uncounted thousands of illiterate people, young and old, around the globe about the gospel message.[13] using Moody's version of _The Wordless Book_]]
 
 Moody visited Britain with Ira D. Sankey, with Moody preaching and Sankey singing at meetings. Together they published books of Christian hymns. In 1883 they visited Edinburgh and raised £10,000 for the building of a new home for the Carrubbers Close Mission. Moody later preached at the laying of the foundation stone for what is now called the Carrubbers Christian Centre, one of the few buildings on the Royal Mile which continues to be used for its original purpose.[14]
 

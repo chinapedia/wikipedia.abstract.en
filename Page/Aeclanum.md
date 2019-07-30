@@ -3,7 +3,7 @@ AECLANUM (also spelled AECULANUM, , )[1] was an ancient town of Samnium, souther
 
 Location
 
-Aeclanum_(Ruins-03).jpg Aeclanum was on a promontory naturally defended, to some extent, by a steep slope on the south side down to the river Calore, while the north side lay open towards the crest of the ridge that carried what under the Roman Empire became the Via Appia. This led through Lacus Ampsanctus to Aquilonia and Venusia. Another route to Apulia, the Via Aurelia Aeclanensis diverged here, leading through modern Ariano to Herdoniae. The road from Aeclanum to Abellinum (mod. Avellino) may also follow an ancient line. Today there are ruins of the city walls, of an aqueduct, baths and an amphitheatre; nearly 400 inscriptions have also been discovered. Excavation has revealed a long history of pre-Roman settlement.[2][3][4]
+Aeclanum was on a promontory naturally defended, to some extent, by a steep slope on the south side down to the river Calore, while the north side lay open towards the crest of the ridge that carried what under the Roman Empire became the Via Appia. This led through Lacus Ampsanctus to Aquilonia and Venusia. Another route to Apulia, the Via Aurelia Aeclanensis diverged here, leading through modern Ariano to Herdoniae. The road from Aeclanum to Abellinum (mod. Avellino) may also follow an ancient line. Today there are ruins of the city walls, of an aqueduct, baths and an amphitheatre; nearly 400 inscriptions have also been discovered. Excavation has revealed a long history of pre-Roman settlement.[2][3][4]
 
 
 History

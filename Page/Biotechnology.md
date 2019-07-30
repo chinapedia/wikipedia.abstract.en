@@ -1,4 +1,4 @@
-Insulincrystals.jpg crystals]]
+crystals]]
 
 BIOTECHNOLOGY (commonly abbreviated as BIOTECH) is the broad area of biology involving living systems and organisms to develop or make products, or "any technological application that uses biological systems, living organisms, or derivatives thereof, to make or modify products or processes for specific use" (UN Convention on Biological Diversity, Art. 2).[1] Depending on the tools and applications, it often overlaps with the (related) fields of molecular biology, bio-engineering, biomedical engineering, biomanufacturing, molecular engineering, etc.
 
@@ -16,7 +16,7 @@ By contrast, bioengineering is generally thought of as a related field that more
 
 History
 
-The_Brewer_designed_and_engraved_in_the_Sixteenth._Century_by_J_Amman.png was an early application of biotechnology]]
+was an early application of biotechnology]]
 
 Although not normally what first comes to mind, many forms of human-derived agriculture clearly fit the broad definition of "'utilizing a biotechnological system to make products". Indeed, the cultivation of plants may be viewed as the earliest biotechnological enterprise.
 
@@ -41,7 +41,7 @@ Rising demand for biofuels is expected to be good news for the biotechnology sec
 
 Examples
 
-Rose_grown_from_tissue_culture.jpg plant that began as cells grown in a tissue culture]]
+plant that began as cells grown in a tissue culture]]
 
 Biotechnology has applications in four major industrial areas, including health care (medical), crop production and agriculture, non-food (industrial) uses of crops and other products (e.g. biodegradable plastics, vegetable oil, biofuels, and environmental uses).
 
@@ -62,11 +62,11 @@ A series of derived terms have been coined to identify several branches of biote
 
 Medicine
 
-In medicine, modern biotechnology has many applications in areas such as pharmaceutical drug discoveries and production, pharmacogenomics, and genetic testing (or genetic screening). Microarray2.gif chip – some can do as many as a million blood tests at once ]]
+In medicine, modern biotechnology has many applications in areas such as pharmaceutical drug discoveries and production, pharmacogenomics, and genetic testing (or genetic screening). chip – some can do as many as a million blood tests at once ]]
 
 Pharmacogenomics (a combination of pharmacology and genomics) is the technology that analyses how genetic makeup affects an individual's response to drugs.[40] Researchers in the field investigate the influence of genetic variation on drug responses in patients by correlating gene expression or single-nucleotide polymorphisms with a drug's efficacy or toxicity.[41] The purpose of pharmacogenomics is to develop rational means to optimize drug therapy, with respect to the patients' genotype, to ensure maximum efficacy with minimal adverse effects.[42] Such approaches promise the advent of "personalized medicine"; in which drugs and drug combinations are optimized for each individual's unique genetic makeup.[43][44]
 
-InsulinHexamer.jpg, the zinc ions holding it together, and the histidine residues involved in zinc binding.]]
+, the zinc ions holding it together, and the histidine residues involved in zinc binding.]]
 
 Biotechnology has contributed to the discovery and manufacturing of traditional small molecule pharmaceutical drugs as well as drugs that are the product of biotechnology – biopharmaceutics. Modern biotechnology can be used to manufacture existing medicines relatively easily and cheaply. The first genetically engineered products were medicines designed to treat human diseases. To cite one example, in 1978 Genentech developed synthetic humanized insulin by joining its gene with a plasmid vector inserted into the bacterium _Escherichia coli_. Insulin, widely used for the treatment of diabetes, was previously extracted from the pancreas of abattoir animals (cattle or pigs). The genetically engineered bacteria are able to produce large quantities of synthetic human insulin at relatively low cost.[45][46] Biotechnology has also enabled emerging therapeutics like gene therapy. The application of biotechnology to basic science (for example through the Human Genome Project) has also dramatically improved our understanding of biology and as our scientific knowledge of normal and disease biology has increased, our ability to develop new medicines to treat previously untreatable diseases has increased as well.[47]
 

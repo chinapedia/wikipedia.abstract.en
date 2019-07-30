@@ -21,8 +21,6 @@ Emperor (June 68)
 
 Rule
 
-Galba.jpg
-
 Upon becoming emperor Galba was faced by the rebellion of Nymphidius, who had his own aspirations for the imperial throne. However, he was killed by the Praetorians before he could take the throne. While Galba was arriving to Rome with the Lusitanian governor Marcus Salvius Otho, his army was attacked by a legion that had been organized by Nero; a number of Galba's troops were killed in the fighting. Galba, who suffered from chronic gout by the time he came to the throne, was advised by a corrupt group which included the Spanish general Titus Vinius, the praetorian prefect Cornelius Laco, and Icelus, a freedman of Galba. Galba seized the property of Roman citizens, disbanded the German legions, and did not pay the Praetorians and the soldiers who fought against Vindex. These actions caused him to become unpopular.
 
 Mutiny on the frontier and assassination

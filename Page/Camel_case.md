@@ -1,4 +1,4 @@
-CamelCase.png 1859_Kierch_Elveng.jpgs, where roman numerals adding up in sum to the date to be memorialised were shown taller than the surrounding letters, which might be regarded as a form of camel case. Here memorialising the date "1859", Church of St Jean, Elvange, Luxembourg]]
+s, where roman numerals adding up in sum to the date to be memorialised were shown taller than the surrounding letters, which might be regarded as a form of camel case. Here memorialising the date "1859", Church of St Jean, Elvange, Luxembourg]]
 
 CAMEL CASE (stylized as CAMELCASE; also known as CAMEL CAPS or more formally as MEDIAL CAPITALS) is the practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation. Common examples include "iPhone" and "eBay". It is also sometimes used in online usernames such as "johnSmith", and to make multi-word domain names more legible, for example in advertisements.
 

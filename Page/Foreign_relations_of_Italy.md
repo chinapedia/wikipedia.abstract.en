@@ -5,8 +5,6 @@ Italy has a particular role within the Christian world because Rome is the seat 
 
 History
 
-Italian-unification.gif
-
 The _Risorgimento_ was the era 1830–1870 that saw the emergence of a national consciousness. Italians achieved independence from Austria, the House of Bourbon and from the Pope, securing national unification.[3][4] The papacy called France to resist unification, fearing that giving up control of the Papal States would weaken the Church and allow the liberals to dominate conservative Catholics.[5] Italy captured Rome in 1870 and later formed the Triple Alliance (1882) with Germany and Austria.
 
 Italy defeated the Ottoman Empire in 1911–1912.[6] By 1914, Italy had acquired in Africa a colony on the Red Sea coast (Eritrea), a large protectorate in Somalia and administrative authority in formerly Turkish Libya. Outside of Africa, Italy possessed a small concession in Tientsin in China (following the Boxer Rebellion) and the Dodecanese Islands off the coast of Turkey.

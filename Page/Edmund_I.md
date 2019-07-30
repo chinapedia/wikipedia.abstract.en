@@ -12,12 +12,12 @@ Athelstan died in the year 939, which saw young Edmund come to the throne. Short
 
 Louis IV of France
 
-Silver_penny_of_Edmund_I_(YORYM_2000_1493)_obverse.jpg One of Edmund's last political movements of which there is some knowledge is his role in the restoration of Louis IV of France to the throne. Louis, son of Charles the Simple and Edmund's half-sister Eadgifu, had resided at the West-Saxon court for some time until 936, when he returned to be crowned King of France. In the summer of 945, he was captured by the Norsemen of Rouen and subsequently released to Duke Hugh the Great, who held him in custody. The chronicler Richerus claims that Eadgifu wrote letters both to Edmund and to Otto I, Holy Roman Emperor in which she requested support for her son. Edmund responded to her plea by sending angry threats to Hugh.[8] Flodoard's _Annales_, one of Richerus' sources, report:
+One of Edmund's last political movements of which there is some knowledge is his role in the restoration of Louis IV of France to the throne. Louis, son of Charles the Simple and Edmund's half-sister Eadgifu, had resided at the West-Saxon court for some time until 936, when he returned to be crowned King of France. In the summer of 945, he was captured by the Norsemen of Rouen and subsequently released to Duke Hugh the Great, who held him in custody. The chronicler Richerus claims that Eadgifu wrote letters both to Edmund and to Otto I, Holy Roman Emperor in which she requested support for her son. Edmund responded to her plea by sending angry threats to Hugh.[8] Flodoard's _Annales_, one of Richerus' sources, report:
 
 
 Family, death and succession
 
-Coin_of_King_Edmund_I_of_England.JPG Edmund's first wife was Ælfgifu of Shaftesbury; the date is not recorded. There were two sons of this marriage: Eadwig (c. 940–959), and Edgar (c. 943–975). Both became kings of England. Ælfgifu died in 944, following which Edmund married Æthelflæd of Damerham. There are no known children of this marriage.[9]
+Edmund's first wife was Ælfgifu of Shaftesbury; the date is not recorded. There were two sons of this marriage: Eadwig (c. 940–959), and Edgar (c. 943–975). Both became kings of England. Ælfgifu died in 944, following which Edmund married Æthelflæd of Damerham. There are no known children of this marriage.[9]
 
 On 26 May 946, Edmund was murdered by Leofa, an exiled thief, while attending St Augustine's Day Mass in Pucklechurch (South Gloucestershire).[10] John of Worcester and William of Malmesbury add some lively detail by suggesting that Edmund had been feasting with his nobles, when he spotted Leofa in the crowd. He attacked the intruder in person, but in the event, Leofa killed him. Leofa was killed on the spot by those present.[11] A recent article re-examines Edmund's death and dismisses the later chronicle accounts as fiction. It suggests the king was the victim of a political assassination.[12]
 

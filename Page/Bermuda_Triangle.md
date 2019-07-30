@@ -60,8 +60,6 @@ Compass variations
 
 Compass problems are one of the cited phrases in many Triangle incidents. While some have theorized that unusual local magnetic anomalies may exist in the area,[34] such anomalies have not been found. Compasses have natural magnetic variations in relation to the magnetic poles, a fact which navigators have known for centuries. Magnetic (compass) north and geographic (true) north are exactly the same only for a small number of places – for example, , in the United States, only those places on a line running from Wisconsin to the Gulf of Mexico.[35] But the public may not be as informed, and think there is something mysterious about a compass "changing" across an area as large as the Triangle, which it naturally will.[36]
 
-Gulfstream1.jpg
-
 Gulf Stream
 
 The Gulf Stream is a major surface current, primarily driven by thermohaline circulation that originates in the Gulf of Mexico and then flows through the Straits of Florida into the North Atlantic. In essence, it is a river within an ocean, and, like a river, it can and does carry floating objects. It has a maximum surface velocity of about .[37] A small plane making a water landing or a boat having engine trouble can be carried away from its reported position by the current.
@@ -78,7 +76,7 @@ A powerful downdraft of cold air was suspected to be a cause in the sinking of _
 
 Methane hydrates
 
-Gas_hydrates_1996.svg]] An explanation for some of the disappearances has focused on the presence of large fields of methane hydrates (a form of natural gas) on the continental shelves.[42] Laboratory experiments carried out in Australia have proven that bubbles can, indeed, sink a scale model ship by decreasing the density of the water;[43][44][45] any wreckage consequently rising to the surface would be rapidly dispersed by the Gulf Stream. It has been hypothesized that periodic methane eruptions (sometimes called "mud volcanoes") may produce regions of frothy water that are no longer capable of providing adequate buoyancy for ships. If this were the case, such an area forming around a ship could cause it to sink very rapidly and without warning.
+]] An explanation for some of the disappearances has focused on the presence of large fields of methane hydrates (a form of natural gas) on the continental shelves.[42] Laboratory experiments carried out in Australia have proven that bubbles can, indeed, sink a scale model ship by decreasing the density of the water;[43][44][45] any wreckage consequently rising to the surface would be rapidly dispersed by the Gulf Stream. It has been hypothesized that periodic methane eruptions (sometimes called "mud volcanoes") may produce regions of frothy water that are no longer capable of providing adequate buoyancy for ships. If this were the case, such an area forming around a ship could cause it to sink very rapidly and without warning.
 
 Publications by the USGS describe large stores of undersea hydrates worldwide, including the Blake Ridge area, off the coast of the southeastern United States.[46] However, according to the USGS, no large releases of gas hydrates are believed to have occurred in the Bermuda Triangle for the past 15,000 years.[47]
 
@@ -95,13 +93,13 @@ The incident resulting in the single largest loss of life in the history of the 
 
 _Carroll A. Deering_
 
-deering2.jpg _Carroll A. Deering_, as seen from the Cape Lookout lightvessel on January 29, 1921, two days before she was found deserted in North Carolina. (US Coast Guard)]]
+_Carroll A. Deering_, as seen from the Cape Lookout lightvessel on January 29, 1921, two days before she was found deserted in North Carolina. (US Coast Guard)]]
 
 A five-masted schooner built in 1919, _Carroll A. Deering_ was found hard aground and abandoned at Diamond Shoals, near Cape Hatteras, North Carolina, on January 31, 1921. Rumors and more at the time indicated _Deering_ was a victim of piracy, possibly connected with the illegal rum-running trade during Prohibition, and possibly involving another ship, , which disappeared at roughly the same time. Just hours later, an unknown steamer sailed near the lightship along the track of _Deering_, and ignored all signals from the lightship. It is speculated that _Hewitt_ may have been this mystery ship, and possibly involved in _Deering_{{'}}s crew disappearance.[51]
 
 Flight 19
 
-TBF_(Avengers)_flying_in_formation.jpg Flight 19 was a training flight of five TBM Avenger torpedo bombers that disappeared on December 5, 1945, while over the Atlantic. The squadron's flight plan was scheduled to take them due east from Fort Lauderdale for , north for , and then back over a final leg to complete the exercise. The flight never returned to base. The disappearance was attributed by Navy investigators to navigational error leading to the aircraft running out of fuel.
+Flight 19 was a training flight of five TBM Avenger torpedo bombers that disappeared on December 5, 1945, while over the Atlantic. The squadron's flight plan was scheduled to take them due east from Fort Lauderdale for , north for , and then back over a final leg to complete the exercise. The flight never returned to base. The disappearance was attributed by Navy investigators to navigational error leading to the aircraft running out of fuel.
 
 One of the search and rescue aircraft deployed to look for them, a PBM Mariner with a 13-man crew, also disappeared. A tanker off the coast of Florida reported seeing an explosion[52] and observing a widespread oil slick when fruitlessly searching for survivors. The weather was becoming stormy by the end of the incident.[53] According to contemporaneous sources the Mariner had a history of explosions due to vapour leaks when heavily loaded with fuel, as it might have been for a potentially long search-and-rescue operation.
 

@@ -2,8 +2,6 @@ Transport infrastructure within Chad is generally poor, especially in the north 
 
 Fuel supplies can be erratic, even in the south-west of the country, and are expensive. Elsewhere they are practically non-existent.
 
-Rebuilt_bridge_on_Bragoto_River.jpg
-
 
 Railways
 

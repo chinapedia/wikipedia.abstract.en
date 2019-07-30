@@ -7,8 +7,6 @@ The district was traditionally associated with the coal mining collieries, ironw
 
 On 11 September 1878, an underground explosion at the Prince of Wales Colliery killed 268 coal miners.[5]
 
-Abercarn,_High_Street.jpg
-
 
 Local government
 

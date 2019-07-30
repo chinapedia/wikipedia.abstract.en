@@ -1,4 +1,4 @@
-neon_orbitals.JPG more directly, see the graphs of d-orbitals below.]]
+more directly, see the graphs of d-orbitals below.]]
 
 In atomic theory and quantum mechanics, an ATOMIC ORBITAL is a mathematical function that describes the wave-like behavior of either one electron or a pair of electrons in an atom.[1] This function can be used to calculate the probability of finding any electron of an atom in any specific region around the atom's nucleus. The term _atomic orbital_ may also refer to the physical region or space where the electron can be calculated to be present, as defined by the particular mathematical form of the orbital.[2]
 
@@ -6,7 +6,7 @@ Each orbital in an atom is characterized by a unique set of values of the three 
 
 Atomic orbitals are the basic building blocks of the ATOMIC ORBITAL MODEL (alternatively known as the electron cloud or wave mechanics model), a modern framework for visualizing the submicroscopic behavior of electrons in matter. In this model the electron cloud of a multi-electron atom may be seen as being built up (in approximation) in an electron configuration that is a product of simpler hydrogen-like atomic orbitals. The repeating _periodicity_ of the blocks of 2, 6, 10, and 14 elements within sections of the periodic table arises naturally from the total number of electrons that occupy a complete set of S, P, D and F atomic orbitals, respectively, although for higher values of the quantum number , particularly when the atom in question bears a positive charge, the energies of certain sub-shells become very similar and so the order in which they are said to be populated by electrons (e.g. Cr = [Ar]4s¹3d⁵ and Cr²⁺ = [Ar]3d⁴) can only be rationalized somewhat arbitrarily.
 
-Hydrogen_Density_Plots.png in a hydrogen atom at different energy levels. The probability of finding the electron is given by the color, as shown in the key at upper right.]]
+in a hydrogen atom at different energy levels. The probability of finding the electron is given by the color, as shown in the key at upper right.]]
 
 
 Electron properties
@@ -38,7 +38,7 @@ Fundamentally, an atomic orbital is a one-electron wave function, even though mo
 
 Types of orbitals
 
-Atomic-orbital-clouds_spdf_m0.png atomic orbitals showing probability density and phase (G orbitals and higher are not shown)]] Atomic orbitals can be the hydrogen-like "orbitals" which are exact solutions to the Schrödinger equation for a hydrogen-like "atom" (i.e., an atom with one electron). Alternatively, atomic orbitals refer to functions that depend on the coordinates of one electron (i.e., orbitals) but are used as starting points for approximating wave functions that depend on the simultaneous coordinates of all the electrons in an atom or molecule. The coordinate systems chosen for atomic orbitals are usually spherical coordinates in atoms and cartesians in polyatomic molecules. The advantage of spherical coordinates (for atoms) is that an orbital wave function is a product of three factors each dependent on a single coordinate: . The angular factors of atomic orbitals generate s, p, d, etc. functions as real combinations of spherical harmonics (where and are quantum numbers). There are typically three mathematical forms for the radial functions  which can be chosen as a starting point for the calculation of the properties of atoms and molecules with many electrons:
+atomic orbitals showing probability density and phase (G orbitals and higher are not shown)]] Atomic orbitals can be the hydrogen-like "orbitals" which are exact solutions to the Schrödinger equation for a hydrogen-like "atom" (i.e., an atom with one electron). Alternatively, atomic orbitals refer to functions that depend on the coordinates of one electron (i.e., orbitals) but are used as starting points for approximating wave functions that depend on the simultaneous coordinates of all the electrons in an atom or molecule. The coordinate systems chosen for atomic orbitals are usually spherical coordinates in atoms and cartesians in polyatomic molecules. The advantage of spherical coordinates (for atoms) is that an orbital wave function is a product of three factors each dependent on a single coordinate: . The angular factors of atomic orbitals generate s, p, d, etc. functions as real combinations of spherical harmonics (where and are quantum numbers). There are typically three mathematical forms for the radial functions  which can be chosen as a starting point for the calculation of the properties of atoms and molecules with many electrons:
 
 1.  The _hydrogen-like atomic orbitals_ are derived from the exact solution of the Schrödinger Equation for one electron and a nucleus, for a hydrogen-like atom. The part of the function that depends on the distance _r_ from the nucleus has nodes (radial nodes) and decays as [[exponential_function| has a constant value, chosen so that there is a certain probability (for example 90%) of finding the electron within the contour. Although  ψ {{!}}²}} as the square of an absolute value is everywhere non-negative, the sign of the wave function is often indicated in each subregion of the orbital picture.
 
@@ -46,7 +46,7 @@ Sometimes the function will be graphed to show its phases, rather than the  ψ
 
 The lobes can be viewed as standing wave interference patterns between the two counter rotating, ring resonant travelling wave "" and "" modes, with the projection of the orbital onto the xy plane having a resonant "" wavelengths around the circumference. Though rarely depicted the travelling wave solutions can be viewed as rotating banded tori, with the bands representing phase information. For each there are two standing wave solutions and . For the case where the orbital is vertical, counter rotating information is unknown, and the orbital is z-axis symmetric. For the case where there are no counter rotating modes. There are only radial modes and the shape is spherically symmetric. For any given , the smaller is, the more radial nodes there are. Loosely speaking _n_ is energy, is analogous to eccentricity, and is orientation. In the classical case, a ring resonant travelling wave, for example in a circular transmission line, unless actively forced, will spontaneously decay into a ring resonant standing wave because reflections will build up over time at even the smallest imperfection or discontinuity.
 
-Generally speaking, the number determines the size and energy of the orbital for a given nucleus: as increases, the size of the orbital increases. When comparing different elements, the higher nuclear charge of heavier elements causes their orbitals to contract by comparison to lighter ones, so that the overall size of the whole atom remains very roughly constant, even as the number of electrons in heavier elements (higher ) increases. Sr_core-electron_orbitals_for_Wiki.jpg Also in general terms, determines an orbital's shape, and its orientation. However, since some orbitals are described by equations in complex numbers, the shape sometimes depends on also. Together, the whole set of orbitals for a given and fill space as symmetrically as possible, though with increasingly complex sets of lobes and nodes.
+Generally speaking, the number determines the size and energy of the orbital for a given nucleus: as increases, the size of the orbital increases. When comparing different elements, the higher nuclear charge of heavier elements causes their orbitals to contract by comparison to lighter ones, so that the overall size of the whole atom remains very roughly constant, even as the number of electrons in heavier elements (higher ) increases. Also in general terms, determines an orbital's shape, and its orientation. However, since some orbitals are described by equations in complex numbers, the shape sometimes depends on also. Together, the whole set of orbitals for a given and fill space as symmetrically as possible, though with increasingly complex sets of lobes and nodes.
 
 The single s-orbitals (ℓ = 0) are shaped like spheres. For it is roughly a solid ball (it is most dense at the center and fades exponentially outwardly), but for or more, each single s-orbital is composed of spherically symmetric surfaces which are nested shells (i.e., the "wave-structure" is radial, following a sinusoidal radial component as well). See illustration of a cross-section of these nested shells, at right. The s-orbitals for all numbers are the only orbitals with an anti-node (a region of high wave function density) at the center of the nucleus. All other orbitals (p, d, f, etc.) have angular momentum, and thus avoid the nucleus (having a wave node _at_ the nucleus). Recently, there has been an effort to experimentally image the 1_s_ and 2_p_ orbitals in a SrTiO₃ crystal using scanning transmission electron microscopy with energy dispersive x-ray spectroscopy.[9] Because the imaging was conducted using an electron beam, Coulombic beam-orbital interaction that is often termed as the impact parameter effect is included in the final outcome (see the figure at right).
 
@@ -60,33 +60,33 @@ Additionally, as is the case with the s orbitals, individual p, d, f and g orbit
 
 The shapes of atomic orbitals in one-electron atom are related to 3-dimensional spherical harmonics. These shapes are not unique, and any linear combination is valid, like a transformation to cubic harmonics, in fact it is possible to generate sets where all the d's are the same shape, just like the and are the same shape.[10][11]
 
-Schrodinger_model_of_the_atom.svg Although individual orbitals are most often shown independent of each other, the orbitals coexist around the nucleus at the same time. Also, in 1927, Albrecht Unsöld proved that if one sums the electron density of all orbitals of a particular azimuthal quantum number of the same shell (e.g. all three 2p orbitals, or all five 3d orbitals) where each orbital is occupied by an electron or each is occupied by an electron pair, then all angular dependence disappears; that is, the resulting total density of all the atomic orbitals in that subshell (those with the same ) is spherical. This is known as Unsöld's theorem.
+Although individual orbitals are most often shown independent of each other, the orbitals coexist around the nucleus at the same time. Also, in 1927, Albrecht Unsöld proved that if one sums the electron density of all orbitals of a particular azimuthal quantum number of the same shell (e.g. all three 2p orbitals, or all five 3d orbitals) where each orbital is occupied by an electron or each is occupied by an electron pair, then all angular dependence disappears; that is, the resulting total density of all the atomic orbitals in that subshell (those with the same ) is spherical. This is known as Unsöld's theorem.
 
 Orbitals table
 
 This table shows all orbital configurations for the real hydrogen-like wave functions up to 7s, and therefore covers the simple electronic configuration for all elements in the periodic table up to radium. "ψ" graphs are shown with − and + wave function phases shown in two different colors (arbitrarily red and blue). The orbital is the same as the orbital, but the and are formed by taking linear combinations of the and orbitals (which is why they are listed under the label). Also, the and are not the same shape as the , since they are pure spherical harmonics.
 
-+--+----------+-----------+----------------+----------------+
-|  | s ()     | p ()      | d ()           | f ()           |
-+==+==========+===========+================+================+
-|  |          |           |                |                |
-+--+----------+-----------+----------------+----------------+
-|  | _s_      | _p__(_z_) | _p__(_x_)      | _p__(_y_)      |
-+--+----------+-----------+----------------+----------------+
-|  | S1M0.png |           |                |                |
-+--+----------+-----------+----------------+----------------+
-|  | S2M0.png | P2M0.png  | Px_orbital.png | Py_orbital.png |
-+--+----------+-----------+----------------+----------------+
-|  | S3M0.png | P3M0.png  | P3x.png        | P3y.png        |
-+--+----------+-----------+----------------+----------------+
-|  | S4M0.png | P4M0.png  | P4M1.png       | P4M-1.png      |
-+--+----------+-----------+----------------+----------------+
-|  | S5M0.png | P5M0.png  | P5M1.png       | P5y.png        |
-+--+----------+-----------+----------------+----------------+
-|  | S6M0.png | P6M0.png  | P6x.png        | P6y.png        |
-+--+----------+-----------+----------------+----------------+
-|  | S7M0.png | . . .     | . . .          | . . .          |
-+--+----------+-----------+----------------+----------------+
++--+------+-----------+-----------+-----------+
+|  | s () | p ()      | d ()      | f ()      |
++==+======+===========+===========+===========+
+|  |      |           |           |           |
++--+------+-----------+-----------+-----------+
+|  | _s_  | _p__(_z_) | _p__(_x_) | _p__(_y_) |
++--+------+-----------+-----------+-----------+
+|  |      |           |           |           |
++--+------+-----------+-----------+-----------+
+|  |      |           |           |           |
++--+------+-----------+-----------+-----------+
+|  |      |           |           |           |
++--+------+-----------+-----------+-----------+
+|  |      |           |           |           |
++--+------+-----------+-----------+-----------+
+|  |      |           |           |           |
++--+------+-----------+-----------+-----------+
+|  |      |           |           |           |
++--+------+-----------+-----------+-----------+
+|  |      | . . .     | . . .     | . . .     |
++--+------+-----------+-----------+-----------+
 
 Qualitative understanding of shapes
 
@@ -137,9 +137,7 @@ _Note: empty cells indicate non-existent sublevels, while numbers in italics ind
 
 Electron placement and the periodic table
 
-Electron_orbitals.svg atomic and molecular orbitals. The chart of orbitals (LEFT) is arranged by increasing energy (see Madelung rule). _Note that atomic orbits are functions of three variables (two angles, and the distance  from the nucleus). These images are faithful to the angular component of the orbital, but not entirely representative of the orbital as a whole._]]
-
-Atomic_orbitals_and_periodic_table_construction.ogv
+atomic and molecular orbitals. The chart of orbitals (LEFT) is arranged by increasing energy (see Madelung rule). _Note that atomic orbits are functions of three variables (two angles, and the distance  from the nucleus). These images are faithful to the angular component of the orbital, but not entirely representative of the orbital as a whole._]]
 
 Several rules govern the placement of electrons in orbitals (_electron configuration_). The first dictates that no two electrons in an atom may have the same set of values of quantum numbers (this is the Pauli exclusion principle). These quantum numbers include the three that define orbitals, as well as [[Spin_quantum_number| electron has a velocity given by v = Zαc, where is the atomic number, α is the fine-structure constant, and is the speed of light. In non-relativistic quantum mechanics, therefore, any atom with an atomic number greater than 137 would require its 1s electrons to be traveling faster than the speed of light. Even in the Dirac equation, which accounts for relativistic effects, the wave function of the electron for atoms with Z > 137 is oscillatory and unbounded. The significance of element 137, also known as untriseptium, was first pointed out by the physicist Richard Feynman. Element 137 is sometimes informally called feynmanium (symbol Fy).[13] However, Feynman's approximation fails to predict the exact critical value of  due to the non-point-charge nature of the nucleus and very small orbital radius of inner electrons, resulting in a potential seen by inner electrons which is effectively less than . The critical  value which makes the atom unstable with regard to high-field breakdown of the vacuum and production of electron-positron pairs, does not occur until is about 173. These conditions are not seen except transiently in collisions of very heavy nuclei such as lead or uranium in accelerators, where such electron-positron production from these effects has been claimed to be observed. See Extension of the periodic table beyond the seventh period.
 

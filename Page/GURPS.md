@@ -21,7 +21,7 @@ _GURPS_ also benefits from the many dozens of worldbooks describing settings or 
 
 GURPS history
 
-Gurps1.jpg The immediate mechanical antecedents of _GURPS_ were Steve Jackson's microgames _Melee_ and _Wizard_, both published by Metagaming Concepts, which eventually combined them along with another Jackson game, _In the Labyrinth_, to form _The Fantasy Trip_ (_TFT_), an early role-playing game.[11] Several of the core concepts of _GURPS_ first appeared in _TFT_, including the inclusion of Strength, Dexterity and Intelligence as the core abilities scores of each character.
+The immediate mechanical antecedents of _GURPS_ were Steve Jackson's microgames _Melee_ and _Wizard_, both published by Metagaming Concepts, which eventually combined them along with another Jackson game, _In the Labyrinth_, to form _The Fantasy Trip_ (_TFT_), an early role-playing game.[11] Several of the core concepts of _GURPS_ first appeared in _TFT_, including the inclusion of Strength, Dexterity and Intelligence as the core abilities scores of each character.
 
 A Basic GURPS set was published in 1986 and 1987 and included two booklets, one for developing characters and one for Adventuring.
 

@@ -5,7 +5,7 @@ According to official 2012 national statistics, 39.8% of the population is Indig
 
 Population
 
-Guatemala_Population_Graph.svg According to the total population estimate was in . The proportion of the population below the age of 15 in 2010 was 41.5%, 54.1% were aged between 15 and 65 years of age, and 4.4% were aged 65 years or older.[5]
+According to the total population estimate was in . The proportion of the population below the age of 15 in 2010 was 41.5%, 54.1% were aged between 15 and 65 years of age, and 4.4% were aged 65 years or older.[5]
 
 Guatemala City is home to almost 3 million inhabitants.[6] In 1900 Guatemala had a population of 885,000.[7] Over the twentieth century Guatemala's population grew by a factor of fourteen. Even though Guatemala's population grew by a factor of 14, it still wasn't the biggest jump in that region.[8] Although Guatemala does have an increase in population, the annual population isn't the superior in that region of the world as well.[9]
 
@@ -89,7 +89,7 @@ The Guatemalan civil war from 1960 to 1996 led to mass emigration, particularly 
 
 Ethnic groups
 
-Chichicastenango-004.jpg]]
+]]
 
 Official 2012 statistics indicate that approximately 60.2% of the population is "non-Indigenous",[23] referring to the Mestizo population and the people of European origin. These people are called Ladino in Guatemala.
 
@@ -402,8 +402,6 @@ Ethnic groups:
 mestizo (mixed Amerindian-Spanish - in local Spanish called Ladino) and European 60.1%, Maya 39.3% (K'iche 11.3%, Q'eqchi 7.6%, Kaqchikel 7.4%, Mam 5.5%, other 7.5%), non-Maya, non-mestizo 0.15% (Xinca (indigenous, non-Maya), Garifuna (mixed West and Central African, Island Carib, and Arawak)), other 0.5% (2001 est.)
 
 Age structure:
-
-Guatemalapop.svg
 
     _0-14 years:_ 34.55% (male 2,919,281 /female 2,810,329)
     _15-24 years:_ 20.23% (male 1,688,900 /female 1,665,631)

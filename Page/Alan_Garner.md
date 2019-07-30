@@ -21,8 +21,6 @@ _The Weirdstone of Brisingamen_ and _The Moon of Gomrath_: 1957–64
 
 Aged 22, Garner was out cycling when he came across a hand-painted sign announcing that an agricultural cottage in Toad Hall – a Late Medieval building situated in Blackden, seven miles from Alderley Edge – was on sale for £510. Although he personally could not afford it, he was lent the money by the local Oddfellow lodge, enabling him to purchase and move into the cottage in June 1957. In the late nineteenth century the Hall had been divided into two agricultural labourers' cottages, but Garner was able to purchase the second for £150 about a year later; he proceeded to knock down the dividing walls and convert both halves back into a single home.
 
-Toad_Hall_at_Blackden.JPG
-
 Garner had begun writing his first novel, _The Weirdstone of Brisingamen: A Tale of Alderley_, in September 1956. However it was while at Toad Hall that he finished the book. Set in Alderley Edge, it revolved around two children, Susan and Colin, who are sent to live in the area with their mother's old nurse maid, Bess, and her husband, Gowther Mossock. Setting about to explore the Edge, they discover a race of malevolent creatures, the _svart alfar_, who dwell in the Edge's abandoned mines and who seem intent on capturing them, until they are rescued by the wizard Cadellin who reveals that the forces of darkness are massing at the Edge in search of the eponymous "weirdstone of Brisingamen". Whilst engaged in writing in his spare time, Garner attempted to gain employment as a teacher, but soon gave that up, believing that "I couldn't write and teach; the energies were too similar", and so began working as a general labourer for four years, remaining unemployed for much of that time.
 
 Garner sent his debut novel to the publishing company Collins, where it was picked up by the company's head, Sir William Collins, who was on the look out for new fantasy novels following on from the recent commercial and critical success of J. R. R. Tolkien's _The Lord of the Rings_ (1954–55). Garner, who went on to become a personal friend of Collins, would later relate that "Billy Collins saw a title with funny-looking words in it on the stockpile, and he decided to publish it." On its release in 1960, _The Weirdstone of Brisingamen_ proved to be a critical and commercial success, later being described as "a tour de force of the imagination, a novel that showed almost every writer who came afterwards what it was possible to achieve in novels ostensibly published for children." Garner himself however would later denounce this novel as "a fairly bad book" in 1968.
@@ -44,8 +42,6 @@ From 1976 to 1978, Garner published a series of four novellas, which have come t
 In 1981, the literary critic Neil Philip published an analysis of Garner's novels as _A Fine Anger_, which was based on his doctoral thesis, produced for the University of London in 1980. In this study he noted that "_The Stone Book_ quartet marks a watershed in Garner's writing career, and provides a suitable moment for an evaluation of his work thus far."
 
 _Strandloper_, _Thursbitch_ and _Boneland_: 1995–present
-
-Garner_in_the_field.jpg
 
 In 1996, Garner's novel _Strandloper_ was published. His collection of essays and public talks, _The Voice That Thunders_, contains much autobiographical material (including an account of his life with bipolar disorder), as well as critical reflection upon folklore and language, literature and education, the nature of myth and time. In _The Voice That Thunders_ he reveals the commercial pressure placed upon him during the decade-long drought which preceded _Strandloper_ to 'forsake "literature", and become instead a "popular" writer, cashing in on my established name by producing sequels to, and making series of, the earlier books'.[3] Garner feared that "making series ... would render sterile the existing work, the life that produced it, and bring about my artistic and spiritual death"[4] and felt unable to comply.
 
@@ -73,8 +69,6 @@ The English author and academic Charles Butler noted that Garner was attentive t
 
 
 Recognition and legacy
-
-The_Medicine_House.JPG
 
 In a paper published in the _Children's Literature Association Quarterly_, Maria Nikolajeva characterised Garner as "one of the most controversial" authors of modern children's literature.
 

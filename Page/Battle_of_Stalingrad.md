@@ -1,5 +1,3 @@
-Eastern_Front_1942-05_to_1942-11.png
-
 The BATTLE OF STALINGRAD (23 August 1942 – 2 February 1943)[1][2][3][4] was the largest confrontation of World War II, in which Germany and its allies fought the Soviet Union for control of the city of Stalingrad (now Volgograd) in Southern Russia.
 
 Marked by fierce close quarters combat and direct assaults on civilians in air raids, it was the largest (nearly 2.2 million personnel) and bloodiest (1.8–2 million killed, wounded or captured) battle in the history of warfare.[5] After their defeat at Stalingrad, the German High Command had to withdraw vast military forces from the Western Front to replace their losses.[6]
@@ -26,21 +24,19 @@ Army Group South was selected for a sprint forward through the southern Russian 
 
 Hitler intervened, however, ordering the Army Group to split in two. Army Group South (A), under the command of Wilhelm List, was to continue advancing south towards the Caucasus as planned with the 17th Army and First Panzer Army. Army Group South (B), including Friedrich Paulus's 6th Army and Hermann Hoth's 4th Panzer Army, was to move east towards the Volga and Stalingrad. Army Group B was commanded initially by Field Marshal Fedor von Bock and later by General Maximilian von Weichs.[19]
 
-German_Summer_Offensive,_7_May-23_July_1942.PNG between 7 May and 23 July]]
+between 7 May and 23 July]]
 
 The start of _Case Blue_ had been planned for late May 1942. However, a number of German and Romanian units that were to take part in _Blau_ were besieging Sevastopol on the Crimean Peninsula. Delays in ending the siege pushed back the start date for _Blau_ several times, and the city did not fall until early July.
 
 Operation Fridericus I by the Germans against the "Isium bulge", pinched off the Soviet salient in the Second Battle of Kharkov, and resulted in the envelopment of a large Soviet force between 17 May and 29 May. Similarly, Operation Wilhelm attacked Voltshansk on 13 June, and Operation Fridericus attacked Kupiansk on 22 June.[20]
 
-Bundesarchiv_Bild_101I-216-0417-19,_Russland,_Soldaten_in_Stellung.jpg _Blau_ finally opened as Army Group South began its attack into southern Russia on 28 June 1942. The German offensive started well. Soviet forces offered little resistance in the vast empty steppes and started streaming eastward. Several attempts to re-establish a defensive line failed when German units outflanked them. Two major pockets were formed and destroyed: the first, northeast of Kharkov, on 2 July, and a second, around Millerovo, Rostov Oblast, a week later. Meanwhile, the Hungarian 2nd Army and the German 4th Panzer Army had launched an assault on Voronezh, capturing the city on 5 July.
-
-Bundesarchiv_Bild_169-0952,_Russland,_bei_Stalingrad,_Offiziersbesprechung.jpg
+_Blau_ finally opened as Army Group South began its attack into southern Russia on 28 June 1942. The German offensive started well. Soviet forces offered little resistance in the vast empty steppes and started streaming eastward. Several attempts to re-establish a defensive line failed when German units outflanked them. Two major pockets were formed and destroyed: the first, northeast of Kharkov, on 2 July, and a second, around Millerovo, Rostov Oblast, a week later. Meanwhile, the Hungarian 2nd Army and the German 4th Panzer Army had launched an assault on Voronezh, capturing the city on 5 July.
 
 The initial advance of the 6th Army was so successful that Hitler intervened and ordered the 4th Panzer Army to join Army Group South (A) to the south. A massive traffic jam resulted when the 4th Panzer and the 1st Panzer both required the few roads in the area. Both armies were stopped dead while they attempted to clear the resulting mess of thousands of vehicles. The delay was long, and it is thought that it cost the advance at least one week. With the advance now slowed, Hitler changed his mind and reassigned the 4th Panzer Army back to the attack on Stalingrad.
 
 By the end of July, the Germans had pushed the Soviets across the Don River. At this point, the Don and Volga Rivers are only apart, and the Germans left their main supply depots west of the Don, which had important implications later in the course of the battle. The Germans began using the armies of their Italian, Hungarian and Romanian allies to guard their left (northern) flank. Occasionally Italian actions were mentioned in official German communiques.[21][22][23][24] Italian forces were generally held in little regard by the Germans, and were accused of having low morale: in reality, the Italian divisions fought comparatively well, with the 3rd Mountain Infantry Division Ravenna and 5th Infantry Division Cosseria proving to have good morale, according to a German liaison officer,[25] and were forced to retreat only after a massive armoured attack in which German reinforcements had failed to arrive in time, according to a German historian.[26] Indeed the Italians distinguished themselves in numerous battles, such as the Battle of Nikolayevka.
 
-Bundesarchiv_Bild_183-B28822,_Russland,_Kampf_um_Stalingrad,_Infanterie.jpg assault gun during the battle]]
+assault gun during the battle]]
 
 On 25 July the Germans faced stiff resistance with a Soviet bridgehead west of Kalach. "We had had to pay a high cost in men and material...left on the Kalatch battlefield were numerous burnt-out or shot-up German tanks."[27]
 
@@ -53,33 +49,25 @@ After German intentions became clear in July 1942, Stalin appointed General Andr
 
 Attack on Stalingrad
 
-German_Summer_Offensive,_24_July-18_November.PNG 1942_German_map_of_Stalingrad.jpg
-
 David Glantz indicated[32] that four hard-fought battles – collectively known as the Kotluban Operations – north of Stalingrad, where the Soviets made their greatest stand, decided Germany's fate before the Nazis ever set foot in the city itself, and were a turning point in the war. Beginning in late August, continuing in September and into October, the Soviets committed between two and four armies in hastily coordinated and poorly controlled attacks against the Germans' northern flank. The actions resulted in more than 200,000 Soviet Army casualties but did slow the German assault.
 
 On 23 August the 6th Army reached the outskirts of Stalingrad in pursuit of the 62nd and 64th Armies, which had fallen back into the city. Kleist later said after the war:[33]
 
 The Soviets had enough warning of the German advance to ship grain, cattle, and railway cars across the Volga and out of harm's way, but most civilian residents were not evacuated. This "harvest victory" left the city short of food even before the German attack began. Before the _Heer_ reached the city itself, the _Luftwaffe_ had rendered the River Volga, vital for bringing supplies into the city, unusable to Soviet shipping. Between 25 and 31 July, 32 Soviet ships were sunk, with another nine crippled.[34]
 
-Bundesarchiv_Bild_183-B22081,_Russland,_Kampf_um_Stalingrad,_Luftangriff.jpg on the central station]] Bundesarchiv_Bild_146-1971-107-40,_Russland,_Kampf_um_Stalingrad,_Infanterie.jpg
+on the central station]]
 
 The battle began with the heavy bombing of the city by _Generaloberst_ Wolfram von Richthofen's _Luftflotte 4_, which in the summer and autumn of 1942 was the single most powerful air formation in the world. Some 1,000 tons of bombs were dropped in 48 hours, more than in London at the height of the Blitz.[35] Stalin refused to evacuate civilian population from the city, so when bombing began 400,000 civilians were trapped within city boundaries. The exact number of civilians killed during the course of the battle is unknown but was most likely very high. Around 40,000 civilians were moved to Germany as slave workers, some fled the city during battle and a small number were evacuated by the Soviets. In February 1943 only between 10,000 to 60,000 civilians were still alive in Stalingrad. Much of the city was quickly turned to rubble, although some factories continued production while workers joined in the fighting. The Stalingrad Tractor Factory continued to turn out T-34 tanks literally until German troops burst into the plant. The 369th (Croatian) Reinforced Infantry Regiment was the only non-German unit[36] selected by the _Wehrmacht_ to enter Stalingrad city during assault operations. It fought as part of the 100th Jäger Division.
 
 Stalin rushed all available troops to the east bank of the Volga, some from as far away as Siberia. All the regular ferries were quickly destroyed by the Luftwaffe, which then targeted troop barges being towed slowly across the river by tugs.[37] It has been said that Stalin prevented civilians from leaving the city in the belief that their presence would encourage greater resistance from the city's defenders.[38] Civilians, including women and children, were put to work building trenchworks and protective fortifications. A massive German air raid on 23 August caused a firestorm, killing hundreds and turning Stalingrad into a vast landscape of rubble and burnt ruins. Ninety percent of the living space in the Voroshilovskiy area was destroyed. Between 23 and 26 August, Soviet reports indicate 955 people were killed and another 1,181 wounded as a result of the bombing.[39] Casualties of 40,000 were greatly exaggerated,[40] and after 25 August the Soviets did not record any civilian and military casualties as a result of air raids.[41]
 
-StalingradRus.jpg
-
 The Soviet Air Force, the _Voyenno-Vozdushnye Sily_ (VVS), was swept aside by the Luftwaffe. The VVS bases in the immediate area lost 201 aircraft between 23 and 31 August, and despite meager reinforcements of some 100 aircraft in August, it was left with just 192 serviceable aircraft, 57 of which were fighters.[42] The Soviets continued to pour aerial reinforcements into the Stalingrad area in late September, but continued to suffer appalling losses; the _Luftwaffe_ had complete control of the skies.
 
 The burden of the initial defense of the city fell on the 1077th Anti-Aircraft Regiment,[43] a unit made up mainly of young female volunteers who had no training for engaging ground targets. Despite this, and with no support available from other units, the AA gunners stayed at their posts and took on the advancing panzers. The German 16th Panzer Division reportedly had to fight the 1077th's gunners "shot for shot" until all 37 anti-aircraft guns were destroyed or overrun. The 16th Panzer was shocked to find that, due to Soviet manpower shortages, it had been fighting female soldiers.[44][45] In the early stages of the battle, the NKVD organized poorly armed "Workers' militias" similar to those that had defended the city twenty-four years earlier, composed of civilians not directly involved in war production for immediate use in the battle. The civilians were often sent into battle without rifles.[46] Staff and students from the local technical university formed a "tank destroyer" unit. They assembled tanks from leftover parts at the tractor factory. These tanks, unpainted and lacking gunsights, were driven directly from the factory floor to the front line. They could only be aimed at point-blank range through the gun barrel.[47]
 
-Bundesarchiv_Bild_183-B22478,_Stalingrad,_Luftwaffen-Soldaten_in_Ruinen.jpg
-
 By the end of August, Army Group South (B) had finally reached the Volga, north of Stalingrad. Another advance to the river south of the city followed, while the Soviets abandoned their Rossoshka position for the inner defensive ring west of Stalingrad. The wings of the 6th Army and the 4th Panzer Army met near Jablotchni along the Zaritza on 2 Sept.[48] By 1 September, the Soviets could only reinforce and supply their forces in Stalingrad by perilous crossings of the Volga under constant bombardment by artillery and aircraft.
 
 On 5 September, the Soviet 24th and 66th Armies organized a massive attack against XIV Panzer Corps. The _Luftwaffe_ helped repulse the offensive by heavily attacking Soviet artillery positions and defensive lines. The Soviets were forced to withdraw at midday after only a few hours. Of the 120 tanks the Soviets had committed, 30 were lost to air attack.[49]
-
-62._armata_a_Stalingrado.jpg
 
 Soviet operations were constantly hampered by the _Luftwaffe_. On 18 September, the Soviet 1st Guards and 24th Army launched an offensive against VIII Army Corps at Kotluban. _VIII. Fliegerkorps_ dispatched wave after wave of Stuka dive-bombers to prevent a breakthrough. The offensive was repulsed. The Stukas claimed 41 of the 106 Soviet tanks knocked out that morning, while escorting Bf 109s destroyed 77 Soviet aircraft.[50] Amid the debris of the wrecked city, the Soviet 62nd and 64th Armies, which included the Soviet 13th Guards Rifle Division, anchored their defense lines with strongpoints in houses and factories.
 
@@ -87,43 +75,35 @@ Fighting within the ruined city was fierce and desperate. Lieutenant General Ale
 
 By 12 September, at the time of their retreat into the city, the Soviet 62nd Army had been reduced to 90 tanks, 700 mortars and just 20,000 personnel.[57] The remaining tanks were used as immobile strongpoints within the city. The initial German attack on 14 September attempted to take the city in a rush. The 51st Army Corps' 295th Infantry Division went after the Mamayev Kurgan hill, the 71st attacked the central rail station and toward the central landing stage on the Volga, while 48th Panzer Corps attacked south of the Tsaritsa River. Rodimtsev's 13th Guards Rifle Division had been hurried up to cross the river and join the defenders inside the city.[58] Assigned to counterattack at the Mamayev Kurgan and at Railway Station No. 1 it suffered particularly heavy losses.
 
-Bundesarchiv_Bild_116-168-618,_Russland,_Kampf_um_Stalingrad,_Soldat_mit_MPi.jpg submachine gun in Barrikady factory rubble]]
+submachine gun in Barrikady factory rubble]]
 
 Though initially successful, the German attacks stalled in the face of Soviet reinforcements brought in from across the Volga. The Soviet 13th Guards Rifle Division, assigned to counterattack at the Mamayev Kurgan and at Railway Station No. 1 suffered particularly heavy losses. Over 30 percent of its soldiers were killed in the first 24 hours, and just 320 out of the original 10,000 survived the entire battle. Both objectives were retaken, but only temporarily. The railway station changed hands 14 times in six hours. By the following evening, the 13th Guards Rifle Division had ceased to exist.
 
 Combat raged for three days at the giant grain elevator in the south of the city. About fifty Red Army defenders, cut off from resupply, held the position for five days and fought off ten different assaults before running out of ammunition and water. Only forty dead Soviet fighters were found, though the Germans had thought there were many more due to the intensity of resistance. The Soviets burned large amounts of grain during their retreat in order to deny the enemy food. Paulus chose the grain elevator and silos as the symbol of Stalingrad for a patch he was having designed to commemorate the battle after a German victory.
 
-24._PzD_Stalingrad_15_09_1942.jpg in action during the fighting for the southern station of Stalingrad]]
+in action during the fighting for the southern station of Stalingrad]]
 
 German military doctrine was based on the principle of combined-arms teams and close cooperation between tanks, infantry, engineers, artillery and ground-attack aircraft. Some Soviet commanders adopted the tactic of always keeping their front-line positions as close to the Germans as physically possible; Chuikov called this "hugging" the Germans. This slowed the German advance and reduced the effectiveness of the German advantage in supporting fire.[59]
 
 The Red Army gradually adopted a strategy to hold for as long as possible all the ground in the city. Thus, they converted multi-floored apartment blocks, factories, warehouses, street corner residences and office buildings into a series of well defended strongpoints with small 5–10 man units.[60] Manpower in the city was constantly refreshed by bringing additional troops over the Volga. When a position was lost, an immediate attempt was usually made to re-take it with fresh forces.
 
-Bundesarchiv_Bild_183-E0406-0022-001,_Russland,_Kesselschlacht_Stalingrad.jpg
-
 Bitter fighting raged for every ruin, street, factory, house, basement, and staircase. Even the sewers were the sites of firefights. The Germans called this unseen urban warfare _Rattenkrieg_ ("Rat War"),[61] and bitterly joked about capturing the kitchen but still fighting for the living room and the bedroom. Buildings had to be cleared room by room through the bombed-out debris of residential neighborhoods, office blocks, basements and apartment high-rises. Some of the taller buildings, blasted into roofless shells by earlier German aerial bombardment, saw floor-by-floor, close quarters combat, with the Germans and Soviets on alternate levels, firing at each other through holes in the floors.[62] Fighting on and around Mamayev Kurgan, a prominent hill above the city, was particularly merciless; indeed, the position changed hands many times.[63][64][65]
-
-Bundesarchiv_Bild_101I-617-2571-04,_Stalingrad,_Soldaten_beim_Häuserkampf_Recolored.jpg
 
 In another part of the city, a Soviet platoon under the command of Sergeant Yakov Pavlov fortified a four-story building that oversaw a square 300 meters from the river bank, later called _Pavlov's House_. The soldiers surrounded it with minefields, set up machine-gun positions at the windows and breached the walls in the basement for better communications.[66] The soldiers found about ten Soviet civilians hiding in the basement. They were not relieved, and not significantly reinforced, for two months. The building was labeled _Festung_ ("Fortress") on German maps. Sgt. Pavlov was awarded the Hero of the Soviet Union for his actions.
 
 The Germans made slow but steady progress through the city. Positions were taken individually, but the Germans were never able to capture the key crossing points along the river bank. By 27 Sept. the Germans occupied the southern portion of the city, but the Soviets held the center and northern part. Most importantly, the Soviets controlled the ferries to their supplies on the east bank of the Volga.[67]
 
-Bundesarchiv_Bild_183-R74190,_Russland,_Kesselschlacht_Stalingrad.jpg
-
 The Germans used airpower, tanks and heavy artillery to clear the city with varying degrees of success. Toward the end of the battle, the gigantic railroad gun nicknamed _Dora_ was brought into the area. The Soviets built up a large number of artillery batteries on the east bank of the Volga. This artillery was able to bombard the German positions or at least provide counter-battery fire.
 
 Snipers on both sides used the ruins to inflict casualties. The most famous Soviet sniper in Stalingrad was Vasily Zaytsev,[68] with 225 confirmed kills during the battle. Targets were often soldiers bringing up food or water to forward positions. Artillery spotters were an especially prized target for snipers.
 
-Soviet_marines-in_the_battle_of_stalingrad_volga_banks.jpg]] Stalingrad_-_ruined_city.jpg in the Red October Factory]]
+]] in the Red October Factory]]
 
 A significant historical debate concerns the degree of terror in the Red Army. The British historian Antony Beevor noted the "sinister" message from the Stalingrad Front's Political Department on 8 October 1942 that: "The defeatist mood is almost eliminated and the number of treasonous incidents is getting lower" as an example of the sort of coercion Red Army soldiers experienced under the Special Detachments (later to be renamed SMERSH).[69] On the other hand, Beevor noted the often extraordinary bravery of the Soviet soldiers in a battle that was only comparable to Verdun, and argued that terror alone cannot explain such self-sacrifice.[70] Richard Overy addresses the question of just how important the Red Army's coercive methods were to the Soviet war effort compared with other motivational factors such as hatred for the enemy. He argues that, though it is "easy to argue that from the summer of 1942 the Soviet army fought because it was forced to fight," to concentrate solely on coercion is nonetheless to "distort our view of the Soviet war effort."[71] After conducting hundreds of interviews with Soviet veterans on the subject of terror on the Eastern Front – and specifically about Order No. 227 ("Not a step back!") at Stalingrad – Catherine Merridale notes that, seemingly paradoxically, "their response was frequently relief."[72] Infantryman Lev Lvovich's explanation, for example, is typical for these interviews; as he recalls, "[i]t was a necessary and important step. We all knew where we stood after we had heard it. And we all – it's true – felt better. Yes, we felt better."[73]
 
-Pavlov's_House.jpg (1943)]]
+(1943)]]
 
 Many women fought on the Soviet side, or were under fire. As General Chuikov acknowledged, "Remembering the defence of Stalingrad, I can't overlook the very important question ... about the role of women in war, in the rear, but also at the front. Equally with men they bore all the burdens of combat life and together with us men, they went all the way to Berlin."[74] At the beginning of the battle there were 75,000 women and girls from the Stalingrad area who had finished military or medical training, and all of whom were to serve in the battle.[75] Women staffed a great many of the anti-aircraft batteries that fought not only the Luftwaffe but German tanks.[76] Soviet nurses not only treated wounded personnel under fire but were involved in the highly dangerous work of bringing wounded soldiers back to the hospitals under enemy fire.[77] Many of the Soviet wireless and telephone operators were women who often suffered heavy casualties when their command posts came under fire.[78] Though women were not usually trained as infantry, many Soviet women fought as machine gunners, mortar operators, and scouts.[79] Women were also snipers at Stalingrad.[80] Three air regiments at Stalingrad were entirely female.[81] At least three women won the title Hero of the Soviet Union while driving tanks at Stalingrad.[82]
-
-Stalingradska_zemlja.jpg
 
 For both Stalin and Hitler, Stalingrad became a matter of prestige far beyond its strategic significance.[83] The Soviet command moved units from the Red Army strategic reserve in the Moscow area to the lower Volga, and transferred aircraft from the entire country to the Stalingrad region.
 
@@ -131,7 +111,7 @@ The strain on both military commanders was immense: Paulus developed an uncontro
 
 Fighting in the industrial district
 
-Bundesarchiv_Bild_183-B22437,_Sowjetunion,_Luftaufnahme_Stalingrad.jpg in the northernmost part of the city in 1942]]
+in the northernmost part of the city in 1942]]
 
 After 27 September, much of the fighting in the city shifted north to the industrial district. Having slowly advanced over 10 days against strong Soviet resistance, the 51st Army Corps was finally in front of the three giant factories of Stalingrad: the Red October Steel Factory, the Barrikady Arms Factory and Stalingrad Tractor Factory. It took a few more days for them to prepare for the most savage offensive of all, which was unleashed on 14 October with a concentration of gunfire never seen before.[85] Exceptionally intense shelling and bombing paved the way for the first German assault groups. The main attack (led by the 14th Panzer and 305th Infantry Divisions) attacked towards the tractor factory, while another assault led by the 24th Panzer Division hit to the south of the giant plant.[86]
 
@@ -141,15 +121,13 @@ Fighting raged inside the Barrikady Factory until the end of October.[88] The So
 
 Air attacks
 
-Bundesarchiv_Bild_183-J20286,_Russland,_Kampf_um_Stalingrad,_Luftangriff.jpg dive bombers above the burning city]]
+dive bombers above the burning city]]
 
 From 5 to 12 September, _Luftflotte 4_ conducted 7,507 sorties (938 per day). From 16 to 25 September, it carried out 9,746 missions (975 per day).[90] Determined to crush Soviet resistance, _Luftflotte_ 4's _Stukawaffe_ flew 900 individual sorties against Soviet positions at the _Dzerzhinskiy_ Tractor Factory on 5 October. Several Soviet regiments were wiped out; the entire staff of the Soviet 339th Infantry Regiment was killed the following morning during an air raid.[91]
 
 The _Luftwaffe_ retained air superiority into November, and Soviet daytime aerial resistance was nonexistent. However, the combination of constant air support operations on the German side and the Soviet surrender of the daytime skies began to affect the strategic balance in the air. From 28 June to 20 September, _Luftflotte_ 4{{'s}} original strength of 1,600 aircraft, of which 1,155 were operational, fell to 950, of which only 550 were operational. The fleet's total strength decreased by 40 percent. Daily sorties decreased from 1,343 per day to 975 per day. Soviet offensives in the central and northern portions of the Eastern Front tied down Luftwaffe reserves and newly built aircraft, reducing _Luftflotte_ 4{{'s}} percentage of Eastern Front aircraft from 60 percent on 28 June to 38 percent by 20 September. The _Kampfwaffe_ (bomber force) was the hardest hit, having only 232 out of an original force of 480 left.[92] The _VVS_ remained qualitatively inferior, but by the time of the Soviet counter-offensive, the _VVS_ had reached numerical superiority.
 
 In mid-October, after receiving reinforcements from the Caucasus theater, the _Luftwaffe_ intensified its efforts against remaining Red Army positions holding the west bank. _Luftflotte_ 4 flew 1,250 sorties on 14 October and its Stukas dropped 550 tonnes of bombs, while German infantry surrounded the three factories.[93] _Stukageschwader_ 1, 2, and 77 had largely silenced Soviet artillery on the eastern bank of the Volga before turning their attention to the shipping that was once again trying to reinforce the narrowing Soviet pockets of resistance. The 62nd Army had been cut in two and, due to intensive air attack on its supply ferries, was receiving much less material support. With the Soviets forced into a strip of land on the western bank of the Volga, over 1,208 _Stuka_ missions were flown in an effort to eliminate them.[94]
-
-Bundesarchiv_Bild_183-1992-0903-504,_Russland,_Kampf_um_Stalingrad,_Luftangriff.jpg
 
 The Soviet bomber force, the _Aviatsiya Dal'nego Deystviya_ (Long Range Aviation; ADD), having taken crippling losses over the past 18 months, was restricted to flying at night. The Soviets flew 11,317 night sorties over Stalingrad and the Don-bend sector between 17 July and 19 November. These raids caused little damage and were of nuisance value only.[95][96]
 
@@ -166,8 +144,6 @@ After three months of slow advance, the Germans finally reached the river banks,
 
 Soviet counter-offensives
 
-RIAN_archive_44732_Soviet_soldiers_attack_house.jpg
-
 Recognizing that German troops were ill-prepared for offensive operations during the winter of 1942, and that most of them were redeployed elsewhere on the southern sector of the Eastern Front, the Stavka decided to conduct a number of offensive operations between 19 November 1942 and 2 February 1943. These operations opened the Winter Campaign of 1942–1943 (19 November 1942 – 3 March 1943), which involved some 15 Armies operating on several fronts. According to Zhukov, _"German operational blunders were aggravated by poor intelligence: they failed to spot preparations for the major counter-offensive near Stalingrad where there were 10 field, 1 tank and 4 air armies."_[102]
 
 Weakness on the German flanks
@@ -180,13 +156,11 @@ Similarly, on the southern flank of the Stalingrad sector the front southwest of
 
 Operation Uranus: the Soviet offensive
 
-Map_Battle_of_Stalingrad-en.svg
-
 In autumn, the Soviet generals Georgy Zhukov and Aleksandr Vasilevsky, responsible for strategic planning in the Stalingrad area, concentrated forces in the steppes to the north and south of the city. The northern flank was defended by Hungarian and Romanian units, often in open positions on the steppes. The natural line of defense, the Don River, had never been properly established by the German side. The armies in the area were also poorly equipped in terms of anti-tank weapons. The plan was to punch through the overstretched and weakly defended German flanks and surround the German forces in the Stalingrad region.
 
 During the preparations for the attack, Marshal Zhukov personally visited the front and noticing the poor organization, insisted on a one-week delay in the start date of the planned attack.[106] The operation was code-named "Uranus" and launched in conjunction with Operation Mars, which was directed at Army Group Center. The plan was similar to the one Zhukov had used to achieve victory at Khalkhin Gol three years before, where he had sprung a double envelopment and destroyed the 23rd Division of the Japanese army.[107]
 
-RIAN_archive_882837_The_defenders_of_Stalingrad.jpg (right) with Nikita Khrushchev (left), Chief Commissar of the Stalingrad Front, December 1942]] On 19 November 1942, the Red Army launched Operation Uranus. The attacking Soviet units under the command of Gen. Nikolay Vatutin consisted of three complete armies, the 1st Guards Army, 5th Tank Army, and 21st Army, including a total of 18 infantry divisions, eight tank brigades, two motorized brigades, six cavalry divisions and one anti-tank brigade. The preparations for the attack could be heard by the Romanians, who continued to push for reinforcements, only to be refused again. Thinly spread, deployed in exposed positions, outnumbered and poorly equipped, the Romanian 3rd Army, which held the northern flank of the German 6th Army, was overrun.
+(right) with Nikita Khrushchev (left), Chief Commissar of the Stalingrad Front, December 1942]] On 19 November 1942, the Red Army launched Operation Uranus. The attacking Soviet units under the command of Gen. Nikolay Vatutin consisted of three complete armies, the 1st Guards Army, 5th Tank Army, and 21st Army, including a total of 18 infantry divisions, eight tank brigades, two motorized brigades, six cavalry divisions and one anti-tank brigade. The preparations for the attack could be heard by the Romanians, who continued to push for reinforcements, only to be refused again. Thinly spread, deployed in exposed positions, outnumbered and poorly equipped, the Romanian 3rd Army, which held the northern flank of the German 6th Army, was overrun.
 
 Behind the front lines, no preparations had been made to defend key points in the rear such as Kalach. The response by the _Wehrmacht_ was both chaotic and indecisive. Poor weather prevented effective air action against the Soviet offensive. Army Group B was in disarray and faced strong Soviet pressure across all its fronts. Hence it was ineffective in relieving the 6th army.
 
@@ -194,8 +168,6 @@ On 20 November, a second Soviet offensive (two armies) was launched to the south
 
 
 Sixth Army surrounded
-
-Bundesarchiv_Bild_101I-218-0501-27,_Russland-Süd,_rumänische_Soldaten.jpg German_pows_stalingrad_1943.jpg Stalingrad-dead_bodies.jpg
 
 The surrounded Axis personnel comprised 265,000 Germans, Romanians, Italians,[109] and the Croatians. In addition, the German 6th army included between 40,000 and 65,000 _Hilfswillige_ (_Hiwi_), or "volunteer auxiliaries",[110][111] a term used for personnel recruited amongst Soviet POWs and civilians from areas under occupation. _Hiwi_ often proved to be reliable Axis personnel in rear areas and were used for supporting roles, but also served in some frontline units as their numbers had increased.[112] German personnel in the pocket numbered about 210,000, according to strength breakdowns of the 20 field divisions (average size 9,000) and 100 battalion sized units of the Sixth Army on 19 November 1942. Inside the pocket (, literally "cauldron"), there were also around 10,000 Soviet civilians and several thousand Soviet soldiers the Germans had taken captive during the battle. Not all of the 6th Army was trapped: 50,000 soldiers were brushed aside outside the pocket. These belonged mostly to the other two divisions of the 6th Army between the Italian and Romanian Armies: the 62nd and 298th Infantry Divisions. Of the 210,000 Germans, 10,000 remained to fight on, 105,000 surrendered, 35,000 left by air and the remaining 60,000 died.
 
@@ -207,15 +179,11 @@ The Red Army units immediately formed two defensive fronts: a circumvallation fa
 
 Adolf Hitler had declared in a public speech (in the Berlin Sportpalast) on 30 September 1942 that the German army would never leave the city. At a meeting shortly after the Soviet encirclement, German army chiefs pushed for an immediate breakout to a new line on the west of the Don, but Hitler was at his Bavarian retreat of Obersalzberg in Berchtesgaden with the head of the _Luftwaffe_, Hermann Göring. When asked by Hitler, Göring replied, after being convinced by Hans Jeschonnek,[121] that the Luftwaffe could supply the 6th Army with an "air bridge." This would allow the Germans in the city to fight on temporarily while a relief force was assembled.[122] A similar plan had been used a year earlier at the Demyansk Pocket, albeit on a much smaller scale: a corps at Demyansk rather than an entire army.[123]
 
-Ju_52_approaching_Stalingrad_late_1942.jpg
-
 The director of _Luftflotte_ 4, Wolfram von Richthofen, tried to get this decision overturned. The forces under the 6th Army were almost twice as large as a regular German army unit, plus there was also a corps of the 4th Panzer Army trapped in the pocket. The maximum 107 tonnes they could deliver a day – based on the number of available aircraft and with only the airfield at Pitomnik to land at – was far less than the minimum 750 tonnes needed.[124][125] To supplement the limited number of Junkers Ju 52 transports, the Germans pressed other aircraft into the role, such as the Heinkel He 177 bomber (some bombers performed adequately – the Heinkel He 111 proved to be quite capable and was much faster than the Ju 52). General Richthofen informed Manstein on 27 November of the small transport capacity of the Luftwaffe and the impossibility of supplying 300 tons a day by air. Manstein now saw the enormous technical difficulties of a supply by air of these dimensions. The next day he made a six-page situation report to the general staff. Based on the information of the expert Richthofen, he declared that contrary to the example of the pocket of Demyansk the permanent supply by air would be impossible. If only a narrow link could be established to Sixth Army, he proposed that this should be used to pull it out from the encirclement, and said that the Luftwaffe should instead of supplies deliver only enough ammunition and fuel for a breakout attempt. He acknowledged the heavy moral sacrifice that giving up Stalingrad would mean, but this would be made easier to bear by conserving the combat power of the Sixth Army and regaining the initiative.[126] He ignored the limited mobility of the army and the difficulties of disengaging the Soviets. Hitler reiterated that the Sixth Army would stay at Stalingrad and that the air bridge would supply it until the encirclement was broken by a new German offensive.
 
 Supplying the 270,000 men trapped in the "cauldron" required 700 tons of supplies a day. That would mean 350 Ju 52 flights a day into Pitomnik. At a minimum, 500 tons were required. However, according to Adam, "On not one single day have the minimal essential number of tons of supplies been flown in."[127] The _Luftwaffe_ was able to deliver an average of 85 tonnes of supplies per day out of an air transport capacity of 106 tonnes per day. The most successful day, 19 December, the _Luftwaffe_ delivered 262 tonnes of supplies in 154 flights. The outcome of the airlift was the Luftwaffe's failure to provide its transport units with the tools they needed to maintain an adequate count of operational aircraft – tools that included airfield facilities, supplies, manpower, and even aircraft suited to the prevailing conditions. These factors, taken together, prevented the Luftwaffe from effectively employing the full potential of its transport forces, ensuring that they were unable to deliver the quantity of supplies needed to sustain the 6th Army.[128]
 
 In the early parts of the operation, fuel was shipped at a higher priority than food and ammunition because of a belief that there would be a breakout from the city.[129] Transport aircraft also evacuated technical specialists and sick or wounded personnel from the besieged enclave. Sources differ on the number flown out: at least 25,000 to at most 35,000.
-
-RIAN_archive_602161_Center_of_Stalingrad_after_liberation.jpg
 
 Initially, supply flights came in from the field at Tatsinskaya,[130] called 'Tazi' by the German pilots. On 23 December, the Soviet 24th Tank Corps, commanded by Major-General Vasily Mikhaylovich Badanov, reached nearby Skassirskaya and in the early morning of 24 December, the tanks reached Tatsinskaya. Without any soldiers to defend the airfield, it was abandoned under heavy fire; in a little under an hour, 108 Ju 52s and 16 Ju 86s took off for Novocherkassk – leaving 72 Ju 52s and many other aircraft burning on the ground. A new base was established some from Stalingrad at Salsk, the additional distance would become another obstacle to the resupply efforts. Salsk was abandoned in turn by mid-January for a rough facility at Zverevo, near Shakhty. The field at Zverevo was attacked repeatedly on 18 January and a further 50 Ju 52s were destroyed. Winter weather conditions, technical failures, heavy Soviet anti-aircraft fire and fighter interceptions eventually led to the loss of 488 German aircraft.
 
@@ -232,8 +200,6 @@ Soviet forces consolidated their positions around Stalingrad, and fierce fightin
 
 Operation Little Saturn
 
-OperationLittleSaturn.PNG
-
 On 16 December, the Soviets launched Operation Little Saturn, which attempted to punch through the Axis army (mainly Italians) on the Don and take Rostov. The Germans set up a "mobile defense" of small units that were to hold towns until supporting armor arrived. From the Soviet bridgehead at Mamon, 15 divisions – supported by at least 100 tanks – attacked the Italian Cosseria and Ravenna Divisions, and although outnumbered 9 to 1, the Italians initially fought well, with the Germans praising the quality of the Italian defenders,[135] but on 19 December, with the Italian lines disintegrating, ARMIR headquarters ordered the battered divisions to withdraw to new lines.[136]
 
 The fighting forced a total revaluation of the German situation. Sensing that this was the last chance for a breakout, Manstein pleaded with Hitler on 18 December, but Hitler refused. Paulus himself also doubted the feasibility of such a breakout. The attempt to break through to Stalingrad was abandoned and Army Group A was ordered to pull back from the Caucasus. The 6th Army now was beyond all hope of German relief. While a motorised breakout might have been possible in the first few weeks, the 6th Army now had insufficient fuel and the German soldiers would have faced great difficulty breaking through the Soviet lines on foot in harsh winter conditions. But in its defensive position on the Volga, the 6th Army continued to tie down a significant number of Soviet Armies.[137]
@@ -242,15 +208,13 @@ On 23 December, the attempt to relieve Stalingrad was abandoned and Manstein's f
 
 Soviet victory
 
-Medal_defense_of_Stalingrad.jpg
-
 The Red Army High Command sent three envoys while simultaneously aircraft and loudspeakers announced terms of capitulation on 7 January 1943. The letter was signed by Colonel-General of Artillery Voronov and the commander-in-chief of the Don Front, Lieutenant-General Rokossovski. A low-level Soviet envoy party (comprising Major Aleksandr Smyslov, Captain Nikolay Dyatlenko and a trumpeter) carried an offer to Paulus: if he surrendered within 24 hours, he would receive a guarantee of safety for all prisoners, medical care for the sick and wounded, prisoners being allowed to keep their personal belongings, "normal" food rations, and repatriation to any country they wished after the war; but Paulus – ordered not to surrender by Hitler – did not respond.[140] The German High Command informed Paulus, "Every day that the army holds out longer helps the whole front and draws away the Russian divisions from it."[141]
 
 The Germans inside the pocket retreated from the suburbs of Stalingrad to the city itself. The loss of the two airfields, at Pitomnik on 16 January 1943 and Gumrak on the night of 21/22 January,[142] meant an end to air supplies and to the evacuation of the wounded.[143] The third and last serviceable runway was at the Stalingradskaya flight school, which reportedly had the last landings and takeoffs on 23 January.[144] After 23 January, there were no more reported landings, just intermittent air drops of ammunition and food until the end.[145]
 
 The Germans were now not only starving, but running out of ammunition. Nevertheless, they continued to resist, in part because they believed the Soviets would execute any who surrendered. In particular, the so-called _HiWis_, Soviet citizens fighting for the Germans, had no illusions about their fate if captured. The Soviets were initially surprised by the number of Germans they had trapped, and had to reinforce their encircling troops. Bloody urban warfare began again in Stalingrad, but this time it was the Germans who were pushed back to the banks of the Volga. The Germans adopted a simple defense of fixing wire nets over all windows to protect themselves from grenades. The Soviets responded by fixing fish hooks to the grenades so they stuck to the nets when thrown. The Germans had no usable tanks in the city, and those that still functioned could, at best, be used as makeshift pillboxes. The Soviets did not bother employing tanks in areas where the urban destruction restricted their mobility.
 
-Bundesarchiv_Bild_183-F0316-0204-005,_Russland,_Paulus_in_Kriegsgefangenschaft.jpg (left), with his chief of staff, _Generalleutnant_ Arthur Schmidt (centre) and his aide, Wilhelm Adam (right), after their surrender]]
+(left), with his chief of staff, _Generalleutnant_ Arthur Schmidt (centre) and his aide, Wilhelm Adam (right), after their surrender]]
 
 On 22 January, Paulus requested that he be granted permission to surrender. Hitler rejected it on a point of honour. He telegraphed the 6th Army later that day, claiming that it had made a historic contribution to the greatest struggle in German history and that it should stand fast "to the last soldier and the last bullet." Hitler told Goebbels that the plight of the 6th Army was a "heroic drama of German history."[146] On 24 January, in his radio report to Hitler, Paulus reported "18,000 wounded without the slightest aid of bandages and medicines."[147]
 
@@ -265,7 +229,7 @@ Four Soviet armies were deployed against the remaining northern pocket. At four 
 
 Aftermath
 
-stalingrad_aftermath.jpg Bundesarchiv_Bild_183-E0406-0022-011,_Russland,_deutscher_Kriegsgefangener.jpg soldier marches a German soldier into captivity.]]
+soldier marches a German soldier into captivity.]]
 
 The German public was not officially told of the impending disaster until the end of January 1943, though positive media reports had stopped in the weeks before the announcement.[159] Stalingrad marked the first time that the Nazi government publicly acknowledged a failure in its war effort. On 31 January, regular programmes on German state radio were replaced by a broadcast of the somber Adagio movement from Anton Bruckner's Seventh Symphony, followed by the announcement of the defeat at Stalingrad.[160] On 18 February, Minister of Propaganda Joseph Goebbels gave the famous _Sportpalast_ speech in Berlin, encouraging the Germans to accept a total war that would claim all resources and efforts from the entire population.
 
@@ -298,7 +262,7 @@ The news of the battle echoed round the world, with many people now believing th
 
 Commemoration
 
-Вечный_огонь_на_Мамаевом_кургане.Панорама.jpg In recognition of the determination of its defenders, Stalingrad was awarded the title Hero City in 1945. A colossal monument called The Motherland Calls was erected in 1967 on Mamayev Kurgan, the hill overlooking the city where bones and rusty metal splinters can still be found.[182] The statue forms part of a war memorial complex which includes the ruins of the Grain Silo and Pavlov's House. On 2 February 2013 Volgograd hosted a military parade and other events to commemorate the 70th anniversary of the final victory.[183][184] Since then, military parades have always commemorated the victory in the city.
+In recognition of the determination of its defenders, Stalingrad was awarded the title Hero City in 1945. A colossal monument called The Motherland Calls was erected in 1967 on Mamayev Kurgan, the hill overlooking the city where bones and rusty metal splinters can still be found.[182] The statue forms part of a war memorial complex which includes the ruins of the Grain Silo and Pavlov's House. On 2 February 2013 Volgograd hosted a military parade and other events to commemorate the 70th anniversary of the final victory.[183][184] Since then, military parades have always commemorated the victory in the city.
 
 
 More information

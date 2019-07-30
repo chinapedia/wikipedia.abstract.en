@@ -18,7 +18,7 @@ This may be difficult to understand intuitively. Quarks carry three types of col
 -   green-antired (gr̄), green-antigreen (gḡ), green-antiblue (gb̄)
 -   blue-antired, (br̄), blue-antigreen (bḡ), blue-antiblue (bb̄)
 
-Feynman_Diagram_Y-3g.svg These are not the _actual_ color states of observed gluons, but rather _effective_ states. To correctly understand how they are combined, it is necessary to consider the mathematics of color charge in more detail.
+These are not the _actual_ color states of observed gluons, but rather _effective_ states. To correctly understand how they are combined, it is necessary to consider the mathematics of color charge in more detail.
 
 Color singlet states
 

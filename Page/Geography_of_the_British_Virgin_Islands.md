@@ -1,6 +1,6 @@
     _See also:_ British Virgin Islands
 
-GB_Virgin_Islands.png British_Virgin_Islands.jpg The BRITISH VIRGIN ISLANDS are located in the Caribbean, between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico. Its geographic coordinates are . Map references include Central America and the Caribbean. The area totals 151 km² (about 0.9 times the size of Washington, DC) and comprises 16 inhabited and more than 20 uninhabited islands; includes the islands of Tortola, Anegada, Virgin Gorda and Jost van Dyke. Maritime claims include of territorial sea and exclusive a fishing zone. In terms of land use, it is 20% arable land, 6.67% permanent crops and 73.33% other as of a 2005 figure. It has strong ties to nearby U.S. Virgin Islands and Puerto Rico.
+The BRITISH VIRGIN ISLANDS are located in the Caribbean, between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico. Its geographic coordinates are . Map references include Central America and the Caribbean. The area totals 151 km² (about 0.9 times the size of Washington, DC) and comprises 16 inhabited and more than 20 uninhabited islands; includes the islands of Tortola, Anegada, Virgin Gorda and Jost van Dyke. Maritime claims include of territorial sea and exclusive a fishing zone. In terms of land use, it is 20% arable land, 6.67% permanent crops and 73.33% other as of a 2005 figure. It has strong ties to nearby U.S. Virgin Islands and Puerto Rico.
 
 
 Terrain

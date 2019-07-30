@@ -1,4 +1,4 @@
-Greenwich_clock.jpg at the Royal Observatory, Greenwich]] Спасская_башня,_ее_часы_крупным_планом.jpg in Moscow, one of the most famous clock towers of the world]] Balloon_bracket_clock_MET_DP-13122-043.jpg (New York City)]]
+at the Royal Observatory, Greenwich]] in Moscow, one of the most famous clock towers of the world]] (New York City)]]
 
 A CLOCK is an instrument used to measure, keep, and indicate time. The clock is one of the oldest human inventions, meeting the need to measure intervals of time shorter than the natural units: the day, the lunar month, and the year. Devices operating on several physical processes have been used over the millennia.
 
@@ -21,17 +21,17 @@ Time-measuring devices
 
 Sundials
 
-Garden_sundial_MN_2007.JPG The apparent position of the Sun in the sky moves over the course of each day, reflecting the rotation of the Earth. Shadows cast by stationary objects move correspondingly, so their positions can be used to indicate the time of day. A sundial shows the time by displaying the position of a shadow on a (usually) flat surface, which has markings that correspond to the hours.[10] Sundials can be horizontal, vertical, or in other orientations. Sundials were widely used in ancient times.[11] With the knowledge of latitude, a well-constructed sundial can measure local solar time with reasonable accuracy, within a minute or two. Sundials continued to be used to monitor the performance of clocks until the modern era.
+The apparent position of the Sun in the sky moves over the course of each day, reflecting the rotation of the Earth. Shadows cast by stationary objects move correspondingly, so their positions can be used to indicate the time of day. A sundial shows the time by displaying the position of a shadow on a (usually) flat surface, which has markings that correspond to the hours.[10] Sundials can be horizontal, vertical, or in other orientations. Sundials were widely used in ancient times.[11] With the knowledge of latitude, a well-constructed sundial can measure local solar time with reasonable accuracy, within a minute or two. Sundials continued to be used to monitor the performance of clocks until the modern era.
 
 Devices that measure duration, elapsed time and intervals
 
-Wooden_hourglass_3.jpg in an hourglass can be used to keep track of elapsed time.]] Many devices can be used to mark passage of time without respect to reference time (time of day, minutes, etc.) and can be useful for measuring duration or intervals. Examples of such duration timers are candle clocks, incense clocks and the hourglass. Both the candle clock and the incense clock work on the same principle wherein the consumption of resources is more or less constant allowing reasonably precise and repeatable estimates of time passages. In the hourglass, fine sand pouring through a tiny hole at a constant rate indicates an arbitrary, predetermined, passage of time. The resource is not consumed but re-used.
+in an hourglass can be used to keep track of elapsed time.]] Many devices can be used to mark passage of time without respect to reference time (time of day, minutes, etc.) and can be useful for measuring duration or intervals. Examples of such duration timers are candle clocks, incense clocks and the hourglass. Both the candle clock and the incense clock work on the same principle wherein the consumption of resources is more or less constant allowing reasonably precise and repeatable estimates of time passages. In the hourglass, fine sand pouring through a tiny hole at a constant rate indicates an arbitrary, predetermined, passage of time. The resource is not consumed but re-used.
 
 Water
 
-MandalayWaterClock.jpg goldleaf in Mandalay (Myanmar).]]
+goldleaf in Mandalay (Myanmar).]]
 
-SuSongClock1.JPG of Su Song's Astronomical Clock Tower, built in 11th-century Kaifeng, China. It was driven by a large waterwheel, chain drive, and escapement mechanism.]] Water clocks, also known as clepsydrae (sg: _clepsydra_), along with the sundials, are possibly the oldest time-measuring instruments, with the only exceptions being the vertical gnomon and the day counting tally stick.[12] Given their great antiquity, where and when they first existed is not known and perhaps unknowable. The bowl-shaped outflow is the simplest form of a water clock and is known to have existed in Babylon and in Egypt around the 16th century BC. Other regions of the world, including India and China, also have early evidence of water clocks, but the earliest dates are less certain. Some authors, however, write about water clocks appearing as early as 4000 BC in these regions of the world.[13]
+of Su Song's Astronomical Clock Tower, built in 11th-century Kaifeng, China. It was driven by a large waterwheel, chain drive, and escapement mechanism.]] Water clocks, also known as clepsydrae (sg: _clepsydra_), along with the sundials, are possibly the oldest time-measuring instruments, with the only exceptions being the vertical gnomon and the day counting tally stick.[12] Given their great antiquity, where and when they first existed is not known and perhaps unknowable. The bowl-shaped outflow is the simplest form of a water clock and is known to have existed in Babylon and in Egypt around the 16th century BC. Other regions of the world, including India and China, also have early evidence of water clocks, but the earliest dates are less certain. Some authors, however, write about water clocks appearing as early as 4000 BC in these regions of the world.[13]
 
 Greek astronomer Andronicus of Cyrrhus supervised the construction of the Tower of the Winds in Athens in the 1st century B.C.[14] The Greek and Roman civilizations are credited for initially advancing water clock design to include complex gearing, which was connected to fanciful automata and also resulted in improved accuracy. These advances were passed on through Byzantium and Islamic times, eventually making their way back to Europe. Independently, the Chinese developed their own advanced water clocks（水鐘）in 725 AD, passing their ideas on to Korea and Japan.
 
@@ -39,7 +39,7 @@ Some water clock designs were developed independently and some knowledge was tra
 
 Islamic civilization is credited with further advancing the accuracy of clocks with elaborate engineering. In 797 (or possibly 801), the Abbasid caliph of Baghdad, Harun al-Rashid, presented Charlemagne with an Asian Elephant named Abul-Abbas together with a "particularly elaborate example" of a water[15] clock. Pope Sylvester II introduced clocks to northern and western Europe around 1000AD[16]
 
-Al-jazari_elephant_clock.png in a manuscript by Al-Jazari (1206 AD) from _The Book of Knowledge of Ingenious Mechanical Devices_.[17]]]In the 13th century, Al-Jazari, an engineer from Mesopotamia (lived 1136–1206) who worked for Artuqid king of Diyar-Bakr, Nasir al-Din, made numerous clocks of all shapes and sizes. A book on his work described 50 mechanical devices in 6 categories, including water clocks. The most reputed clocks included the Elephant, Scribe and Castle clocks, all of which have been successfully reconstructed. As well as telling the time, these grand clocks were symbols of status, grandeur and wealth of the Urtuq State.
+in a manuscript by Al-Jazari (1206 AD) from _The Book of Knowledge of Ingenious Mechanical Devices_.[17]]]In the 13th century, Al-Jazari, an engineer from Mesopotamia (lived 1136–1206) who worked for Artuqid king of Diyar-Bakr, Nasir al-Din, made numerous clocks of all shapes and sizes. A book on his work described 50 mechanical devices in 6 categories, including water clocks. The most reputed clocks included the Elephant, Scribe and Castle clocks, all of which have been successfully reconstructed. As well as telling the time, these grand clocks were symbols of status, grandeur and wealth of the Urtuq State.
 
 Early mechanical
 
@@ -57,13 +57,13 @@ In 1283, a large clock was installed at Dunstable Priory; its location above the
 
 Astronomical
 
-Abbot_Richard_Wallingford.jpg pointing to a clock, his gift to St Albans Abbey.]] Clock_machine_16th_century-Convent_of_Christ,Tomar,_Portugal.jpg, Tomar, Portugal]] Besides the Chinese astronomical clock of Su Song in 1088 mentioned above, in Europe there were the clocks constructed by Richard of Wallingford in St Albans by 1336, and by Giovanni de Dondi in Padua from 1348 to 1364. They no longer exist, but detailed descriptions of their design and construction survive,[27][28] and modern reproductions have been made.[29] They illustrate how quickly the theory of the mechanical clock had been translated into practical constructions, and also that one of the many impulses to their development had been the desire of astronomers to investigate celestial phenomena.
+pointing to a clock, his gift to St Albans Abbey.]] , Tomar, Portugal]] Besides the Chinese astronomical clock of Su Song in 1088 mentioned above, in Europe there were the clocks constructed by Richard of Wallingford in St Albans by 1336, and by Giovanni de Dondi in Padua from 1348 to 1364. They no longer exist, but detailed descriptions of their design and construction survive,[27][28] and modern reproductions have been made.[29] They illustrate how quickly the theory of the mechanical clock had been translated into practical constructions, and also that one of the many impulses to their development had been the desire of astronomers to investigate celestial phenomena.
 
 Wallingford's clock had a large astrolabe-type dial, showing the sun, the moon's age, phase, and node, a star map, and possibly the planets. In addition, it had a wheel of fortune and an indicator of the state of the tide at London Bridge. Bells rang every hour, the number of strokes indicating the time.[30] Dondi's clock was a seven-sided construction, 1 metre high, with dials showing the time of day, including minutes, the motions of all the known planets, an automatic calendar of fixed and movable feasts, and an eclipse prediction hand rotating once every 18 years.[31] It is not known how accurate or reliable these clocks would have been. They were probably adjusted manually every day to compensate for errors caused by wear and imprecise manufacture. Water clocks are sometimes still used today, and can be examined in places such as ancient castles and museums. The Salisbury Cathedral clock, built in 1386, is considered to be the world's oldest surviving mechanical clock that strikes the hours.[32]
 
 Spring-driven
 
-Renaissance_Turret_Clock.jpg Matthew_Norman_carriage_clock_with_winding_key.jpg Clockmakers developed their art in various ways. Building smaller clocks was a technical challenge, as was improving accuracy and reliability. Clocks could be impressive showpieces to demonstrate skilled craftsmanship, or less expensive, mass-produced items for domestic use. The escapement in particular was an important factor affecting the clock's accuracy, so many different mechanisms were tried.
+Clockmakers developed their art in various ways. Building smaller clocks was a technical challenge, as was improving accuracy and reliability. Clocks could be impressive showpieces to demonstrate skilled craftsmanship, or less expensive, mass-produced items for domestic use. The escapement in particular was an important factor affecting the clock's accuracy, so many different mechanisms were tried.
 
 Spring-driven clocks appeared during the 15th century,[33][34][35] although they are often erroneously credited to Nuremberg watchmaker Peter Henlein (or Henle, or Hele) around 1511.[36][37][38] The earliest existing spring driven clock is the chamber clock given to Phillip the Good, Duke of Burgundy, around 1430, now in the Germanisches Nationalmuseum.[39] Spring power presented clockmakers with a new problem: how to keep the clock movement running at a constant rate as the spring ran down. This resulted in the invention of the _stackfreed_ and the fusee in the 15th century, and many other innovations, down to the invention of the modern _going barrel_ in 1760.
 
@@ -73,7 +73,7 @@ During the 15th and 16th centuries, clockmaking flourished, particularly in the 
 
 Pendulum
 
-Christiaan_Huygens-painting.jpeg Christiaan Huygens, the inventor of first precision timekeeping devices (pendulum clock and spiral-hairspring watch).[46]]] The next development in accuracy occurred after 1656 with the invention of the pendulum clock. Galileo had the idea to use a swinging bob to regulate the motion of a time-telling device earlier in the 17th century. Christiaan Huygens, however, is usually credited as the inventor. He determined the mathematical formula that related pendulum length to time (about 99.4 cm or 39.1 inches for the one second movement) and had the first pendulum-driven clock made. The first model clock was built in 1657 in the Hague, but it was in England that the idea was taken up.[47] The longcase clock (also known as the _grandfather clock_) was created to house the pendulum and works by the English clockmaker William Clement in 1670 or 1671. It was also at this time that clock cases began to be made of wood and clock faces to utilize enamel as well as hand-painted ceramics.
+Christiaan Huygens, the inventor of first precision timekeeping devices (pendulum clock and spiral-hairspring watch).[46]]] The next development in accuracy occurred after 1656 with the invention of the pendulum clock. Galileo had the idea to use a swinging bob to regulate the motion of a time-telling device earlier in the 17th century. Christiaan Huygens, however, is usually credited as the inventor. He determined the mathematical formula that related pendulum length to time (about 99.4 cm or 39.1 inches for the one second movement) and had the first pendulum-driven clock made. The first model clock was built in 1657 in the Hague, but it was in England that the idea was taken up.[47] The longcase clock (also known as the _grandfather clock_) was created to house the pendulum and works by the English clockmaker William Clement in 1670 or 1671. It was also at this time that clock cases began to be made of wood and clock faces to utilize enamel as well as hand-painted ceramics.
 
 In 1670, William Clement created the anchor escapement,[48] an improvement over Huygens' crown escapement. Clement also introduced the pendulum suspension spring in 1671. The concentric minute hand was added to the clock by Daniel Quare, a London clockmaker and others, and the second hand was first introduced.
 
@@ -108,13 +108,11 @@ As of the 2010s, atomic clocks are the most accurate clocks in existence. They a
 
 Operation
 
-A_chiming_clock's_mechanism.jpg The invention of the mechanical clock in the 13th century initiated a change in timekeeping methods from continuous processes, such as the motion of the gnomon's shadow on a sundial or the flow of liquid in a water clock, to periodic oscillatory processes, such as the swing of a pendulum or the vibration of a quartz crystal,[76][77] which had the potential for more accuracy. All modern clocks use oscillation.
+The invention of the mechanical clock in the 13th century initiated a change in timekeeping methods from continuous processes, such as the motion of the gnomon's shadow on a sundial or the flow of liquid in a water clock, to periodic oscillatory processes, such as the swing of a pendulum or the vibration of a quartz crystal,[76][77] which had the potential for more accuracy. All modern clocks use oscillation.
 
 Although the mechanisms they use vary, all oscillating clocks, mechanical, digital and atomic, work similarly and can be divided into analogous parts.[78][79][80] They consist of an object that repeats the same motion over and over again, an _oscillator_, with a precisely constant time interval between each repetition, or 'beat'. Attached to the oscillator is a _controller_ device, which sustains the oscillator's motion by replacing the energy it loses to friction, and converts its oscillations into a series of pulses. The pulses are then counted by some type of _counter_, and the number of counts is converted into convenient units, usually seconds, minutes, hours, etc. Finally some kind of _indicator_ displays the result in human readable form.
 
 Power source
-
-Mainspring_wind-up_keys.jpg
 
 -   In mechanical clocks, the power source is typically either a weight suspended from a cord or chain wrapped around a pulley, sprocket or drum; or a spiral spring called a mainspring. Mechanical clocks must be _wound_ periodically, usually by turning a knob or key or by pulling on the free end of the chain, to store energy in the weight or spring to keep the clock running.
 -   In electric clocks, the power source is either a battery or the AC power line. In clocks that use AC power, a small backup battery is often included to keep the clock running if it is unplugged temporarily from the wall or during a power outage. Battery powered analog wall clocks are available that operate over 15 years between battery changes.
@@ -159,7 +157,7 @@ This counts the pulses and adds them up to get traditional time units of seconds
 
 Indicator
 
-Cuckoo_strikes_the_8th_hour.ogv with mechanical automaton and sound producer striking on the 8th hour on the analog dial.]] This displays the count of seconds, minutes, hours, etc. in a human readable form.
+with mechanical automaton and sound producer striking on the 8th hour on the analog dial.]] This displays the count of seconds, minutes, hours, etc. in a human readable form.
 
 -   The earliest mechanical clocks in the 13th century didn't have a visual indicator and signalled the time audibly by striking bells. Many clocks to this day are striking clocks which strike the hour.
 -   Analog clocks display time with an analog clock face, which consists of a round dial with the numbers 1 through 12, the hours in the day, around the outside. The hours are indicated with an hour hand, which makes two revolutions in a day, while the minutes are indicated by a minute hand, which makes one revolution per hour. In mechanical clocks a gear train drives the hands; in electronic clocks the circuit produces pulses every second which drive a stepper motor and gear train, which move the hands.
@@ -175,7 +173,7 @@ Time display methods
 
 Analog
 
-Rew17h09_1977.jpg Picadillycircuslinearclock.jpg's Piccadilly Circus tube station. The 24 hour band moves across the static map, keeping pace with the apparent movement of the sun above ground, and a pointer fixed on London points to the current time.]]
+'s Piccadilly Circus tube station. The 24 hour band moves across the static map, keeping pace with the apparent movement of the sun above ground, and a pointer fixed on London points to the current time.]]
 
 Analog clocks usually use a clock face which indicates time using rotating pointers called "hands" on a fixed numbered dial or dials. The standard clock face, known universally throughout the world, has a short "hour hand" which indicates the hour on a circular dial of 12 hours, making two revolutions per day, and a longer "minute hand" which indicates the minutes in the current hour on the same dial, which is also divided into 60 minutes. It may also have a "second hand" which indicates the seconds in the current minute. The only other widely used clock face today is the 24 hour analog dial, because of the use of 24 hour time in military organizations and timetables. Before the modern clock face was standardized during the Industrial Revolution, many other face designs were used throughout the years, including dials divided into 6, 8, 10, and 24 hours. During the French Revolution the French government tried to introduce a 10-hour clock, as part of their decimal-based metric system of measurement, but it didn't catch on. An Italian 6 hour clock was developed in the 18th century, presumably to save power (a clock or watch striking 24 times uses more power).
 
@@ -204,7 +202,7 @@ For convenience, distance, telephony or blindness, auditory clocks present the t
 
 Word
 
-Word_clock_wallpaper_with_comic_speech_bubble_style.png Word clocks are clocks that display the time visually using sentences. E.g.: "It’s about three o’clock." These clocks can be implemented in hardware or software.
+Word clocks are clocks that display the time visually using sentences. E.g.: "It’s about three o’clock." These clocks can be implemented in hardware or software.
 
 Projection
 
@@ -221,7 +219,7 @@ Some clocks have several displays driven by a single mechanism, and some others 
 
 Purposes
 
-Robbins_NC_Clock.jpg or city center. This one is on display at the center of the town of Robbins, North Carolina.]] Restoran_Pozoj,_Čakovec_-_stara_ura.jpg]] Clocks are in homes, offices and many other places; smaller ones (watches) are carried on the wrist or in a pocket; larger ones are in public places, e.g. a railway station or church. A small clock is often shown in a corner of computer displays, mobile phones and many MP3 players.
+or city center. This one is on display at the center of the town of Robbins, North Carolina.]] ]] Clocks are in homes, offices and many other places; smaller ones (watches) are carried on the wrist or in a pocket; larger ones are in public places, e.g. a railway station or church. A small clock is often shown in a corner of computer displays, mobile phones and many MP3 players.
 
 The primary purpose of a clock is to _display_ the time. Clocks may also have the facility to make a loud alert signal at a specified time, typically to waken a sleeper at a preset time; they are referred to as _alarm clocks_. The alarm may start at a low volume and become louder, or have the facility to be switched off for a few minutes then resume. Alarm clocks with visible indicators are sometimes used to indicate to children too young to read the time that the time for sleep has finished; they are sometimes called _training clocks_.
 
@@ -248,7 +246,7 @@ Until advances in the late twentieth century, navigation depended on the ability
 
 Specific types
 
-Clock_sculpture_-_Drexel_University_-_IMG_7332.JPG, 1867. Drexel University, Philadelphia, USA.]]
+, 1867. Drexel University, Philadelphia, USA.]]
 
 +----------------------------+--------------------------+--------------------------------+
 | By mechanism               | By function              | By style                       |

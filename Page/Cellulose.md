@@ -9,7 +9,7 @@ History
 
 Cellulose was discovered in 1838 by the French chemist Anselme Payen, who isolated it from plant matter and determined its chemical formula.[9][10][11] Cellulose was used to produce the first successful thermoplastic polymer, celluloid, by Hyatt Manufacturing Company in 1870. Production of rayon ("artificial silk") from cellulose began in the 1890s and cellophane was invented in 1912. Hermann Staudinger determined the polymer structure of cellulose in 1920. The compound was first chemically synthesized (without the use of any biologically derived enzymes) in 1992, by Kobayashi and Shoda.[12]
 
-Plant_cell_wall_diagram-en.svg in a plant cell wall.]]
+in a plant cell wall.]]
 
 
 Structure and properties
@@ -18,7 +18,7 @@ Cellulose has no taste, is odorless, is hydrophilic with the contact angle of 20
 
 Cellulose is derived from D-glucose units, which condense through β(1→4)-glycosidic bonds. This linkage motif contrasts with that for α(1→4)-glycosidic bonds present in starch and glycogen. Cellulose is a straight chain polymer. Unlike starch, no coiling or branching occurs and the molecule adopts an extended and rather stiff rod-like conformation, aided by the equatorial conformation of the glucose residues. The multiple hydroxyl groups on the glucose from one chain form hydrogen bonds with oxygen atoms on the same or on a neighbor chain, holding the chains firmly together side-by-side and forming _microfibrils_ with high tensile strength. This confers tensile strength in cell walls where cellulose microfibrils are meshed into a polysaccharide _matrix_. The high tensile strength of plant stems and of the tree wood also arises from the arrangement of cellulose fibers intimately distributed into the lignin matrix. The mechanical role of cellulose fibers in the wood matrix responsible for its strong structural resistance, can somewhat be compared to that of the reinforcement bars in concrete, lignin playing here the role of the hardened cement paste acting as the "glue" in between the cellulose fibers.
 
-cellulose_spacefilling_model.jpgs (cyan lines) between glucose strands]] Cotton.JPG fibres represent the purest natural form of cellulose, containing more than 90% of this polysaccharide.]] Compared to starch, cellulose is also much more crystalline. Whereas starch undergoes a crystalline to amorphous transition when heated beyond 60–70 °C in water (as in cooking), cellulose requires a temperature of 320 °C and pressure of 25 MPa to become amorphous in water.[16]
+s (cyan lines) between glucose strands]] fibres represent the purest natural form of cellulose, containing more than 90% of this polysaccharide.]] Compared to starch, cellulose is also much more crystalline. Whereas starch undergoes a crystalline to amorphous transition when heated beyond 60–70 °C in water (as in cooking), cellulose requires a temperature of 320 °C and pressure of 25 MPa to become amorphous in water.[16]
 
 Several different crystalline structures of cellulose are known, corresponding to the location of hydrogen bonds between and within strands. Natural cellulose is cellulose I, with structures I_(α) and I_(β). Cellulose produced by bacteria and algae is enriched in I_(α) while cellulose of higher plants consists mainly of I_(β). Cellulose in regenerated cellulose fibers is cellulose II. The conversion of cellulose I to cellulose II is irreversible, suggesting that cellulose I is metastable and cellulose II is stable. With various chemical treatments it is possible to produce the structures cellulose III and cellulose IV.[17]
 
@@ -114,7 +114,7 @@ The sodium carboxymethyl cellulose can be cross-linked to give the croscarmellos
 
 Applications
 
-Cellulose_strand.svgs (dashed) within and between cellulose molecules.]]
+s (dashed) within and between cellulose molecules.]]
 
 Cellulose for industrial use is mainly obtained from wood pulp and cotton.[44] The kraft process is used to separate cellulose from lignin, another major component of plant matter.
 

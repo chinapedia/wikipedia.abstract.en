@@ -3,7 +3,7 @@ CANES VENATICI is one of the 88 official modern constellations. It is a small no
 
 History
 
-Canes_Venatici.gif Sidney_Hall_-_Urania's_Mirror_-_Bootes,_Canes_Venatici,_Coma_Berenices,_and_Quadrans_Muralis.jpg''.]] The stars of Canes Venatici are not bright. In classical times, they were listed by Ptolemy as unfigured stars below the constellation Ursa Major in his star catalogue.
+''.]] The stars of Canes Venatici are not bright. In classical times, they were listed by Ptolemy as unfigured stars below the constellation Ursa Major in his star catalogue.
 
 In medieval times, the identification of these stars with the dogs of Boötes arose through a mistranslation. Some of Boötes's stars were traditionally described as representing the club (Greek _κολλοροβος, kollorobos_) of Boötes. When the Greek astronomer Ptolemy's _Almagest_ was translated from Greek to Arabic, the translator Hunayn ibn Ishaq did not know the Greek word and rendered it as a similar-sounding Arabic word for a weapon, writing _al-`aşā dhāt al-kullāb_ (العصا ذات الكلاب), which means "the spearshaft having a hook". When the Arabic text was later translated into Latin, the translator Gerard of Cremona mistook _kullāb_, meaning "hook", for _kilāb_ (which looks the same in unvowelled Arabic text), meaning "dogs", writing _hastile habens canes_ ("spearshaft having dogs").[1][2][3][4] In 1533, the German astronomer Peter Apian depicted Boötes as having two dogs with him.[5][6]
 
@@ -16,8 +16,6 @@ Canes Venatici is bordered by Ursa Major to the north and west, Coma Berenices t
 
 
 Features
-
-CanesVenaticiCC.jpg
 
 Stars
 

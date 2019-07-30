@@ -5,7 +5,7 @@ Known for his fiction as well as his autobiographical works, Gide exposes to pub
 
 Early life
 
-Gide_1893.jpg Gide was born in Paris on 22 November 1869, into a middle-class Protestant family. His father was a Paris University professor of law who died in 1880. His uncle was the political economist Charles Gide. His paternal family traced its roots back to Italy, with his ancestors, the Guidos, moving to France and other western and northern European countries after converting to Protestantism during the 16th century, due to persecution.[2][3][4]
+Gide was born in Paris on 22 November 1869, into a middle-class Protestant family. His father was a Paris University professor of law who died in 1880. His uncle was the political economist Charles Gide. His paternal family traced its roots back to Italy, with his ancestors, the Guidos, moving to France and other western and northern European countries after converting to Protestantism during the 16th century, due to persecution.[2][3][4]
 
 Gide was brought up in isolated conditions in Normandy and became a prolific writer at an early age, publishing his first novel, _The Notebooks of André Walter_ (French: _Les Cahiers d'André Walter_), in 1891, at the age of twenty-one.
 
@@ -16,7 +16,7 @@ He befriended Oscar Wilde in Paris, and in 1895 Gide and Wilde met in Algiers. W
 
 The middle years
 
-Gide_1920_cropped.jpg in 1924.]] Gide_by_Laurens.jpg (1924)]] In 1895, after his mother's death, he married his cousin Madeleine Rondeaux,[8] but the marriage remained unconsummated. In 1896, he became mayor of La Roque-Baignard, a commune in Normandy.
+in 1924.]] (1924)]] In 1895, after his mother's death, he married his cousin Madeleine Rondeaux,[8] but the marriage remained unconsummated. In 1896, he became mayor of La Roque-Baignard, a commune in Normandy.
 
 In 1901, Gide rented the property Maderia in St. Brélade's Bay and lived there while residing in Jersey. This period, 1901–07, is commonly seen as a time of apathy and turmoil for him.
 

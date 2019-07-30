@@ -1,5 +1,3 @@
-Boulevard_De_Gaulle_-_Abidjan.jpg
-
 IVORY COAST invested remarkably in its TRANSPORT SYSTEM. Transport Infrastructures are much more developed than they are other West African countries despite a crisis that restrained their maintenance and development. Since its independence in 1960, Ivory Coast put an emphasis on increasing and modernizing the transport network for human as well as for goods. Major infrastructures of diverse nature were built including railways, roads, waterways, and airports. In spite of the crisis, neighbor countries (Burkina Faso, Mali, Niger, and Guinea) still strongly depend on the Ivorian transport network for importing, exporting, and transiting their immigrants to Ivory Coast.
 
 
@@ -30,7 +28,7 @@ As of 2004, the railway network consisted of a state-controlled 660 km section 
 
 Road transport
 
-Tracé_train_urbain_d'Abidjan.jpg]] Ivory Coast road network spreads over 85 000 km consisting of 75 000 unpaved, 65 000 km, and 224 km highways. It provides national and international traffic with neighbor countries.
+]] Ivory Coast road network spreads over 85 000 km consisting of 75 000 unpaved, 65 000 km, and 224 km highways. It provides national and international traffic with neighbor countries.
 
 The Trans–West African Coastal Highway provides a paved link to Ghana, Togo, Benin and Nigeria, with paved highways to landlocked Mali and Burkina Faso feeding into the coastal highway. When construction of roads and bridges in Liberia and Sierra Leone is complete, the highway will link to another seven Economic Community of West African States (ECOWAS) nations to the west and north-west. At the national level, vehicles are estimated at 600 000, which includes 75% of used cars (second hand) due to the low purchasing power since the beginning of the economic crisis. 20 000 new cars are registered every year.[3] Although maintenance and renovations works are being carried out since middle-2011, over 80% of the Ivorian network is older than 20 years and therefore damaged.
 
@@ -41,7 +39,7 @@ The country counts with two 4-laned MOTORWAYS, the first one running from Abidja
 
 Maritime transport
 
-2009_Abidjan_port_3842716900.jpg Landscape view of the Autonomous Port of Abidjan
+Landscape view of the Autonomous Port of Abidjan
 
 Ivory Coast greatly contributed to developing maritime transport by building two ports on its seaside namely, autonomous port of Abidjan, sometimes referred to as _"lung of Ivorian economy"_, and the San-Pedro port. The total traffic in 2005, by adding importation to exportation, was 18 661 784 tons for autonomous port of Abidjan and 1 001 991 tons for San-Pedro. Harbor activity is concentrated at Abidjan (West Africa's largest container port), which has facilities that include a fishing port and equipment for handling containers. The autonomous port of Abidjan cover a 770 hectares area and shelters 60% of the country industries. It is the first tuna fishing port in Africa. It contains 36 conventional berths spread over six kilometers of quays providing a capacity of sixty commercial ships with multiple special docks, a container terminal as well as several specialized and industrial berths.[4] The other major port, the San-Pedro port, operates since 1971 and has two quays covering 18,727 m² area.[5] Apart from those two major ports, there are also small ports at Sassandra, Aboisso, and Dabou.
 

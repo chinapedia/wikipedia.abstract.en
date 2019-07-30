@@ -7,8 +7,6 @@ Particular kinds of aquaculture include fish farming, shrimp farming, oyster far
 
 History
 
-Delta_Pride_Catfish_farm_harvest.jpg
-
 The indigenous Gunditjmara people in Victoria, Australia, may have raised eels as early as 6000 BC. Evidence indicates they developed about of volcanic floodplains in the vicinity of Lake Condah into a complex of channels and dams, and used woven traps to capture eels, and preserve them to eat all year round.[8][9] The World Heritage Site Budj Bim is thought to be one of the oldest aquaculture sites in the world.[10]
 
 Aquaculture was operating in China _circa_ 2000 BC.[11] When the waters subsided after river floods, some fish, mainly carp, were trapped in lakes. Early aquaculturists fed their brood using nymphs and silkworm feces, and ate them. A fortunate genetic mutation of carp led to the emergence of goldfish during the Tang dynasty. However, ancient Egyptians might have farmed fish (especially Gilt-head bream) from Lake Bardawil about 3,500 years ago, and they even traded them with Canaan.[12]
@@ -36,8 +34,6 @@ Californians harvested wild kelp and attempted to manage supply around 1900, lat
 
 21st-century practice
 
-Global_capture_fisheries_and_aquaculture_production,_1990-2030.svg World_aquaculture_production_of_food_fish_and_aquatic_plants,_1990-2016.svg
-
 Harvest stagnation in wild fisheries and overexploitation of popular marine species, combined with a growing demand for high-quality protein, encouraged aquaculturists to domesticate other marine species.[30][31] At the outset of modern aquaculture, many were optimistic that a "Blue Revolution" could take place in aquaculture, just as the Green Revolution of the 20th century had revolutionized agriculture.[32] Although land animals had long been domesticated, most seafood species were still caught from the wild. Concerned about the impact of growing demand for seafood on the world's oceans, prominent ocean explorer Jacques Cousteau wrote in 1973: "With earth's burgeoning human populations to feed, we must turn to the sea with new understanding and new technology."[33]
 
 About 430 (97%) of the species cultured were domesticated during the 20th and 21st centuries, of which an estimated 106 came in the decade to 2007. Given the long-term importance of agriculture, to date, only 0.08% of known land plant species and 0.0002% of known land animal species have been domesticated, compared with 0.17% of known marine plant species and 0.13% of known marine animal species. Domestication typically involves about a decade of scientific research.[34] Domesticating aquatic species involves fewer risks to humans than do land animals, which took a large toll in human lives. Most major human diseases originated in domesticated animals,[35] including diseases such as smallpox and diphtheria, that like most infectious diseases, move to humans from animals. No human pathogens of comparable virulence have yet emerged from marine species.
@@ -56,8 +52,6 @@ It is highly probable that future developments in this field will rely on microo
 Species groups
 
 Aquatic plants
-
-Yangzhuanghe_-_CIMG3404.JPG
 
 Microalgae, also referred to as phytoplankton, microphytes, or planktonic algae, constitute the majority of cultivated algae. Macroalgae commonly known as seaweed also have many commercial and industrial uses, but due to their size and specific requirements, they are not easily cultivated on a large scale and are most often taken in the wild.
 
@@ -83,7 +77,7 @@ The global annual production of freshwater prawns (excluding crayfish and crabs)
 
 Molluscs
 
-Abalone-farm1web.jpg Aquatir_0502013_11.JPG Aquacultured shellfish include various oyster, mussel, and clam species. These bivalves are filter and/or deposit feeders, which rely on ambient primary production rather than inputs of fish or other feed. As such, shellfish aquaculture is generally perceived as benign or even beneficial.[52]
+Aquacultured shellfish include various oyster, mussel, and clam species. These bivalves are filter and/or deposit feeders, which rely on ambient primary production rather than inputs of fish or other feed. As such, shellfish aquaculture is generally perceived as benign or even beneficial.[52]
 
 Depending on the species and local conditions, bivalve molluscs are either grown on the beach, on longlines, or suspended from rafts and harvested by hand or by dredging. In May 2017 a Belgian consortium installed the first of two trial mussel farms on a wind farm in the North Sea.[53]
 
@@ -149,7 +143,7 @@ Aquacultural methods
 
 Mariculture
 
-Fish_farming_in_High_Island,_Hong_Kong.jpg, Hong Kong|alt=Mariculture]]
+, Hong Kong|alt=Mariculture]]
 
 Mariculture refers to the cultivation of marine organisms in seawater, usually in sheltered coastal or offshore waters. The farming of marine fish is an example of mariculture, and so also is the farming of marine crustaceans (such as shrimp), mollusks (such as oysters), and seaweed. Channel catfish (_Ictalurus punctatus_), hard clams (_Mercenaria mercenaria_) and Atlantic salmon (_Salmo salar_) are prominent in the U.S. mariculture.[85]
 

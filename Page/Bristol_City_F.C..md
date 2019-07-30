@@ -19,8 +19,6 @@ Bristol City would then go on to stay in Division 2 until three years after the 
 
 The yo-yo era (1922–65)
 
-BristolCityFC_League_Performance.svg
-
 The 1920s were a rocky time as City bounced between the Second Division and the Southern Section of the Third Division. The season after City were relegated, they achieved promotion back to the Second Division, before being relegated back to the Southern Section of the Third Division again the following season. After successive high finishes in the league, they were promoted again in 1926–27. However, by the 1930s they had slumped into the lower division and stayed that way until over 10 years after the Second World War. During this stay in the Third Division South, they won the Welsh Cup in 1934, beating Tranmere Rovers in the final. However, in the same year they also suffered their biggest ever league defeat, a 9–0 loss to Coventry City The 1937–38 season was the most successful season for City since they were relegated to the Third Division, coming second in the league and reaching the final of the Third Division South Cup, before losing 6–2 to Reading on aggregate.[6][7] They then came eighth in the Third Division South in the final full season before the war, in which the Grandstand of Ashton Gate was destroyed by a German air raid.[8] In 1946–47, City recorded a record league win by beating Aldershot 9–0, although despite Don Clark scoring 36 goals in the League, City failed to get promoted that season. Harry Dolman became chairman in 1949, a post he would hold for over 30 years. An engineer who had bought out the firm he worked for, he designed the first set of floodlights installed at Ashton Gate in the early 1950s. The late 1950s were a better time for City, with a five-year stay in the Second Division, a league they returned to for a further spell in 1965.
 
 Back among the elite (1966–80)
@@ -63,7 +61,7 @@ City just failed to make the playoffs in Tinnion's first season as manager, fini
 
 Gary Johnson (2005–2010)
 
-Ashton_Gate_invasion.jpg after securing promotion in 2007]] Johnson arrived in September 2005, making the move from Yeovil Town, with whom he had gained two promotions. Initial results were poor, but Johnson was soon able to recover the season and finish in a comfortable 9th place.
+after securing promotion in 2007]] Johnson arrived in September 2005, making the move from Yeovil Town, with whom he had gained two promotions. Initial results were poor, but Johnson was soon able to recover the season and finish in a comfortable 9th place.
 
 In the 2006–07 season, Bristol City finally achieved the elusive promotion that had evaded them in their 8 years in the third tier. Promotion to the Championship was confirmed on the final day of the season with a 3–1 win against already relegated Rotherham United, securing the runners-up place in the division and resulting in automatic promotion and joyous scenes of celebration.
 
@@ -79,7 +77,7 @@ Derek McInnes was appointed next, but after a promising start, City fell into th
 
 Return to the Championship (2014–present)
 
-Bristol_City_FC_logo.png Steve Cotterill joined the club, which ushered in the start of the revival. When he joined, the club were bottom of League One. Cotterill guided the club to safety and finished the season 12th. Had the season started when Steve Cotterill joined the club, Bristol City would have finished 5th, showing the scale of the turnaround.
+Steve Cotterill joined the club, which ushered in the start of the revival. When he joined, the club were bottom of League One. Cotterill guided the club to safety and finished the season 12th. Had the season started when Steve Cotterill joined the club, Bristol City would have finished 5th, showing the scale of the turnaround.
 
 Bristol City were promoted back to Championship for 2015–16 season after securing the 2014–15 Football League One title, their first league title since 1955. In their last home game, against Walsall, they finished the season in style, winning 8–2. Bristol City finished the season with 99 points, the most points in a single season in the club's history, and only 5 losses. In the same season, they also won the 2015 Johnstone's Paint Trophy after a win over Walsall, which finished 2–0 and their third league trophy, a record held by the club for having the most wins in that competition.
 
@@ -284,8 +282,6 @@ Top league scorer
 
 
 Colours, crest, mascot and anthem
-
-Bristol_City_FC_logo.png Bristol_City_F.C.png Scrumpy.jpg
 
 Bristol City have played in red and white since the 1890s, occasionally also including black.[29] The away kit is more variable. It is traditionally white, but has also frequently black or yellow. Other colours featured have included green and a purple and lime combination, the latter of which has become a fan favourite.
 

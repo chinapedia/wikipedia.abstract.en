@@ -1,9 +1,9 @@
-Beer_Pong_Scene.jpg is a drinking game in which players throw ping pong balls across a table, attempting to land each ball in a cup of beer on the other end]] DRINKING GAMES are games which involve the consumption of alcoholic beverages. Evidence of the existence of drinking games dates back to antiquity. Drinking games have been banned at some institutions, particularly colleges and universities.[1]
+is a drinking game in which players throw ping pong balls across a table, attempting to land each ball in a cup of beer on the other end]] DRINKING GAMES are games which involve the consumption of alcoholic beverages. Evidence of the existence of drinking games dates back to antiquity. Drinking games have been banned at some institutions, particularly colleges and universities.[1]
 
 
 History
 
-Symposiumnorthwall.jpg, with scene of Kottabos - fresco from the Tomb of the Diver in Paestum, 475 BC]] Drinkinggame.jpg)[2]]]
+, with scene of Kottabos - fresco from the Tomb of the Diver in Paestum, 475 BC]] )[2]]]
 
 Ancient Greece
 
@@ -19,8 +19,6 @@ Drinking games in 19th century Germany included Bierskat, Elfern, Rammes and Quo
 
 
 Types
-
-Beer_bong_1.jpg
 
 Endurance
 
@@ -50,7 +48,7 @@ Numerous types of thinking games exist, including Think or Drink, 21, beer check
 
 Card and dice
 
-Kings_Cup.png Drinking games involving cards are president, horserace, Kings, liar's poker, pyramid,[11] Ring of Fire, Toepen, ride the bus and Black or Red.
+Drinking games involving cards are president, horserace, Kings, liar's poker, pyramid,[11] Ring of Fire, Toepen, ride the bus and Black or Red.
 
 Dice games include beer die, dudo, kinito, liar's dice, Mexico, mia, 15, pounce!, ship, captain, and crew, and three man.
 

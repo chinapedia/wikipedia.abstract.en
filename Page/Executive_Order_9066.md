@@ -1,4 +1,4 @@
-Instructions_to_japanese.png DensonRelocationCampUmbrellaGirl.jpg EXECUTIVE ORDER 9066 was a United States presidential executive order signed and issued during World War II by United States President Franklin D. Roosevelt on February 19, 1942. This order authorized the Secretary of War to prescribe certain areas as military zones, clearing the way for the incarceration of Japanese Americans, German Americans, and Italian Americans in U.S. concentration camps.
+EXECUTIVE ORDER 9066 was a United States presidential executive order signed and issued during World War II by United States President Franklin D. Roosevelt on February 19, 1942. This order authorized the Secretary of War to prescribe certain areas as military zones, clearing the way for the incarceration of Japanese Americans, German Americans, and Italian Americans in U.S. concentration camps.
 
 
 Transcript of Executive Order 9066

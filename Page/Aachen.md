@@ -1,4 +1,4 @@
-Karte_Aachen_Stadtbezirke.png AACHEN (,[1][2] ; ), also known as BAD AACHEN ("Aachen Spa"), and in French and traditional English as AIX-LA-CHAPELLE, is a spa and border city[3] in North Rhine-Westphalia, Germany. Aachen developed from a Roman settlement and spa, subsequently becoming the preferred medieval Imperial residence of Charlemagne,[4] and, from 936 to 1531, the place where 31 Holy Roman Emperors were crowned Kings of the Germans.[5]
+AACHEN (,[1][2] ; ), also known as BAD AACHEN ("Aachen Spa"), and in French and traditional English as AIX-LA-CHAPELLE, is a spa and border city[3] in North Rhine-Westphalia, Germany. Aachen developed from a Roman settlement and spa, subsequently becoming the preferred medieval Imperial residence of Charlemagne,[4] and, from 936 to 1531, the place where 31 Holy Roman Emperors were crowned Kings of the Germans.[5]
 
 Aachen is the westernmost city in Germany, located near the borders with Belgium and the Netherlands, west south west of Cologne[6][7] in a former coal-mining area.[8] One of Germany's leading institutes of higher education in technology, the RWTH Aachen University is located in the city.[9] Aachen's industries include science, engineering and information technology. In 2009, Aachen was ranked eighth among cities in Germany for innovation.[10]
 
@@ -58,7 +58,7 @@ Roman civil administration in Aachen broke down between the end of the 4th and b
 
 Middle Ages
 
-Construction_d_Aix-la-Chapelle.jpg]] Aachener_Heiligtumszeigung_Oelgemaelde_17Jh.jpg
+]]
 
 After Roman times, Pepin the Short had a castle residence built in the town, due to the proximity of the hot springs and also for strategic reasons as it is located between the Rhineland and northern France.[26] Einhard mentions that in 765–6 Pepin spent both Christmas and Easter at _Aquis villa_ (__),[27] ("and [he] celebrated Christmas in the town Aquis, and similarly Easter") which must have been sufficiently equipped to support the royal household for several months. In the year of his coronation as king of the Franks, 768, Charlemagne came to spend Christmas at Aachen for the first time. He remained there in a mansion which he may have extended, although there is no source attesting to any significant building activity at Aachen in his time, apart from the building of the Palatine Chapel (since 1930, cathedral) and the Palace. Charlemagne spent most winters in Aachen between 792 and his death in 814. Aachen became the focus of his court and the political centre of his empire. After his death, the king was buried in the church which he had built;[28] his original tomb has been lost, while his alleged remains are preserved in the _Karlsschrein_, the shrine where he was reburied after being declared a saint; his saintliness, however, was never officially acknowledged by the Roman Curia as such.
 
@@ -68,11 +68,9 @@ As an imperial city, Aachen held certain political privileges that allowed it to
 
 Manuscript production
 
-The_Siege_of_Aachen.png by the Spanish Army of Flanders under Ambrogio Spinola in 1614]] Aachen has proved an important site for the production of historical manuscripts. Under Charlemagne's purview, both the Ada Gospels and the Coronation Gospels may have been produced in Aachen.[38] In addition, quantities of the other texts in the court library were also produced locally. During the reign of Louis the Pious (814–840), substantial quantities of ancient texts were produced at Aachen, including legal manuscripts such as the leges scriptorium group, patristic texts including the five manuscripts of the Bamberg Pliny Group.[39] Finally, under Lothair I (840–855), texts of outstanding quality were still being produced. This however marked the end of the period of manuscript production at Aachen.[40]
+by the Spanish Army of Flanders under Ambrogio Spinola in 1614]] Aachen has proved an important site for the production of historical manuscripts. Under Charlemagne's purview, both the Ada Gospels and the Coronation Gospels may have been produced in Aachen.[38] In addition, quantities of the other texts in the court library were also produced locally. During the reign of Louis the Pious (814–840), substantial quantities of ancient texts were produced at Aachen, including legal manuscripts such as the leges scriptorium group, patristic texts including the five manuscripts of the Bamberg Pliny Group.[39] Finally, under Lothair I (840–855), texts of outstanding quality were still being produced. This however marked the end of the period of manuscript production at Aachen.[40]
 
 16th–18th centuries
-
-Rhein-Strom_0184a_Achen.jpg
 
 In 1598, following the invasion of Spanish troops from the Netherlands, Rudolf deposed all Protestant office holders in Aachen and even went as far as expelling them from the city.[41] From the early 16th century, Aachen started to lose its power and influence. First the coronations of emperors were moved from Aachen to Frankfurt. This was followed by the religious wars, and the great fire of 1656.[42] After the destruction of most of the city in 1656, the rebuilding was mostly in the Baroque style.[43] The decline of Aachen culminated in 1794, when the French, led by General Charles Dumouriez,[44] occupied Aachen.[45]
 
@@ -84,7 +82,7 @@ Aachen was chosen as the site of several important congresses and peace treaties
 
 19th century
 
-KleineSchwimmhalle.JPG Kriegsgefangene_in_Aachen_(1944).jpg On 9 February 1801, the Peace of Lunéville removed the ownership of Aachen and the entire "left bank" of the Rhine from Germany and granted it to France.[52] In 1815, control of the town was passed to Prussia, by an act passed by the Congress of Vienna.[53][54] The third congress took place in 1818, to decide the fate of occupied Napoleonic France.
+On 9 February 1801, the Peace of Lunéville removed the ownership of Aachen and the entire "left bank" of the Rhine from Germany and granted it to France.[52] In 1815, control of the town was passed to Prussia, by an act passed by the Congress of Vienna.[53][54] The third congress took place in 1818, to decide the fate of occupied Napoleonic France.
 
 By the middle of the 19th century, industrialisation had swept away most of the city's medieval rules of production and commerce, although the entirely corrupt remains of the city's medieval constitution were kept in place (compare the famous remarks of Georg Forster in his _Ansichten vom Niederrhein_) until 1801, when Aachen became the "chef-lieu du département de la Roer" in Napoleon's First French Empire. In 1815, after the Napoleonic Wars, the Kingdom of Prussia took over. The city was one of its most socially and politically backward centres until the end of the 19th century.[55] Administered within the Rhine Province, by 1880 the population was 80,000. Starting in 1838, the railway from Cologne to Belgium passed through Aachen.[56] The city suffered extreme overcrowding and deplorable sanitary conditions until 1875, when the medieval fortifications were finally abandoned as a limit to building and new, better housing was built in the east of the city, where sanitary drainage was easiest. In December 1880, the Aachen tramway network was opened, and in 1895 it was electrified.[57] In the 19th century and up to the 1930s, the city was important in the production of railway locomotives and carriages, iron, pins, needles, buttons, tobacco, woollen goods, and silk goods.
 
@@ -105,7 +103,7 @@ The city of Aachen has developed into a technology hub as a by-product of hostin
 
 Geography
 
-Three_Country_Point,_Vaalserberg,_April_2018.jpg]]
+]]
 
 Aachen is located in the middle of the Meuse–Rhine Euroregion, close to the border tripoint of Germany, the Netherlands, and Belgium. The town of Vaals in the Netherlands lies nearby at about from Aachen's city centre, while the Dutch city of Heerlen and Eupen, the capital of the German-speaking Community of Belgium, are both located about from Aachen city centre. Aachen lies near the head of the open valley of the Wurm (which today flows through the city in canalised form), part of the larger basin of the Meuse, and about north of the High Fens, which form the northern edge of the Eifel uplands of the Rhenish Massif.
 
@@ -122,7 +120,7 @@ The January average is , while the July average is . Precipitation is almost eve
 
 Geology
 
-Aachen_Felsen_St.Adalbert.JPG and claystone formation from the Devonian period below St. Adalbert Church in Aachen]]
+and claystone formation from the Devonian period below St. Adalbert Church in Aachen]]
 
 The geology of Aachen is very structurally heterogeneous. The oldest occurring rocks in the area surrounding the city originate from the Devonian period and include carboniferous sandstone, greywacke, claystone and limestone. These formations are part of the Rhenish Massif, north of the High Fens. In the Pennsylvanian subperiod of the Carboniferous geological period, these rock layers were narrowed and folded as a result of the Variscan orogeny. After this event, and over the course of the following 200 million years, this area has been continuously flattened.[72]
 
@@ -132,8 +130,6 @@ Along the major thrust fault of the Variscan orogeny, there are over 30 thermal 
 
 
 Demographics
-
-Age_structure_aachen_vs_germany.svg
 
 Aachen has 245,885 inhabitants (as of 31 December 2015), of whom 118,272 are female, and 127,613 are male.[75]
 
@@ -202,8 +198,6 @@ Main sights
 
 Aachen Cathedral
 
-Aachen_Germany_Imperial-Cathedral-01.jpg
-
 Aachen Cathedral was erected on the orders of Charlemagne. Construction began _c._ AD 796[84] and it was, on completion _c._ 798,[85] the largest cathedral north of the Alps. It was modelled after the Basilica of San Vitale, in Ravenna, Italy,[86] and was built by Odo of Metz.[87] Charlemagne also desired for the chapel to compete with the Lateran Palace, both in quality and authority.[88] It was originally built in the Carolingian style, including marble covered walls, and mosaic inlay on the dome.[89] On his death, Charlemagne's remains were interred in the cathedral and can be seen there to this day. The cathedral was extended several times in later ages, turning it into a curious and unique mixture of building styles. The throne and gallery portion date from the Ottonian, with portions of the original opus sectile floor still visible.[90] The 13th century saw gables being added to the roof, and after the fire of 1656, the dome was rebuilt. Finally, a choir was added around the start of the 15th century.[91]
 
 After Frederick Barbarossa canonised Charlemagne in 1165 the chapel became a destination for pilgrims.[92] For 600 years, from 936 to 1531, Aachen Cathedral was the church of coronation for 30 German kings and 12 queens. The church built by Charlemagne is still the main attraction of the city.[93] In addition to holding the remains of its founder, it became the burial place of his successor Otto III. In the upper chamber of the gallery, Charlemagne's marble throne is housed.[94] Aachen Cathedral has been designated as a UNESCO World Heritage Site.[95]
@@ -212,13 +206,13 @@ Most of the marble and columns used in the construction of the cathedral were br
 
 Cathedral Treasury
 
-Aachen_Germany_Domschatz_Cross-of-Lothair-01.jpg, Aachen Cathedral Treasury]]
+, Aachen Cathedral Treasury]]
 
 Aachen Cathedral Treasury has housed, throughout its history, a collection of liturgical objects. The origin of this church treasure is in dispute as some say Charlemagne himself endowed his chapel with the original collection, while the rest were collected over time. Others say all of the objects were collected over time, from such places as Jerusalem and Constantinople.[99] The location of this treasury has moved over time and was unknown until the 15th century when it was located in the Matthiaskapelle (St. Matthew's Chapel) until 1873, when it was moved to the Karlskapelle (Charles' Chapel). From there it was moved to the Hungarian Chapel in 1881 and in 1931 to its present location next to the Allerseelenkapelle (Poor Souls' Chapel).[100] Only six of the original Carolingian objects have remained, and of those only three are left in Aachen: the Aachen Gospels, a diptych of Christ, and an early Byzantine silk. The Coronation Gospels and a reliquary burse of St. Stephen were moved to Vienna in 1798 and the Talisman of Charlemagne was given as a gift in 1804 to Josephine Bonaparte and subsequently to Rheims Cathedral.[101] 210 documented pieces have been added to the treasury since its inception, typically to receive in return legitimisation of linkage to the heritage of Charlemagne. The Lothar Cross, the Gospels of Otto III and multiple additional Byzantine silks were donated by Otto III. Part of the Pala d'Oro and a covering for the Aachen Gospels were made of gold donated by Henry II.[102] Frederick Barbarossa donated the candelabrum that adorns the dome and also once "crowned" the Shrine of Charlemagne, which was placed underneath in 1215. Charles IV donated a pair of reliquaries. Louis XI gave, in 1475, the crown of Margaret of York, and, in 1481, another arm reliquary of Charlemagne. Maximilian I and Charles V both gave numerous works of art by Hans von Reutlingen.[103] Continuing the tradition, objects continued to be donated until the present, each indicative of the period of its gifting, with the last documented gift being a chalice from 1960 made by Ewald Mataré.[104]
 
 Aachen Rathaus
 
-AachenCityHallFromSouthHDR.jpg The Aachen Rathaus, (English: Aachen City Hall or Aachen Town Hall) dated from 1330,[105] lies between two central squares, the _Markt_ (marketplace) and the _Katschhof_ (between city hall and cathedral). The coronation hall is on the first floor of the building. Inside one can find five frescoes by the Aachen artist Alfred Rethel which show legendary scenes from the life of Charlemagne, as well as Charlemagne's signature. Also, precious replicas of the Imperial Regalia are kept here.[106]
+The Aachen Rathaus, (English: Aachen City Hall or Aachen Town Hall) dated from 1330,[105] lies between two central squares, the _Markt_ (marketplace) and the _Katschhof_ (between city hall and cathedral). The coronation hall is on the first floor of the building. Inside one can find five frescoes by the Aachen artist Alfred Rethel which show legendary scenes from the life of Charlemagne, as well as Charlemagne's signature. Also, precious replicas of the Imperial Regalia are kept here.[106]
 
 Since 2009, the city hall has been a station on the _Route Charlemagne_, a tour programme by which historical sights of Aachen are presented to visitors. At the city hall, a museum exhibition explains the history and art of the building and gives a sense of the historical coronation banquets that took place there. A portrait of Napoleon from 1807 by Louis-André-Gabriel Bouchet and one of his wife Joséphine from 1805 by Robert Lefèvre are viewable as part of the tour.
 
@@ -243,15 +237,13 @@ File:Aachen Grashaus.jpg|Grashaus File:Aachen elisenbrunnen blau.jpg|Elisenbrunn
 
 Economy
 
-Aachen_Ford-Entwicklungszentrum.jpg Research Center, Aachen]] There have been a number of spin-offs from the university's IT technology department.
+Research Center, Aachen]] There have been a number of spin-offs from the university's IT technology department.
 
 Aachen is the administrative centre for the coal-mining industries in neighbouring places to the northeast.[110]
 
 Products manufactured in Aachen include electrical goods, textiles, foodstuffs (chocolate and candy), glass, machinery, rubber products, furniture, metal products.[111] Also in and around Aachen is the production of chemicals, plastics, cosmetics, and needles and pins.[112] Though once a major player in Aachen's economy, today glassware and textile production make up only 10% of total manufacturing jobs in the city.[113]
 
 Electric vehicle manufacturing
-
-2016-12-10-Post_Streetscooter-9409.jpg
 
 In June 2010, Achim Kampker, together with Günther Schuh, founded a small company to develop Street Scooter GmbH; in August 2014, it was renamed StreetScooter GmbH. This was a privately organised research initiative at the RWTH Aachen University which later became an independent company in Aachen. Kampker was also the founder and chairman of the European Network for Affordable and Sustainable Electromobility. In May 2014, the company announced that the city of Aachen, the city council Aachen and the savings bank Aachen had ordered electric vehicles from the company. In late 2014, approximately 70 employees were manufacturing 200 vehicles annually in the premises of the Waggonfabrik Talbot, the former Talbot/Bombardier plant in Aachen.[114]
 
@@ -262,7 +254,7 @@ In April 2016, StreetScooter GmbH announced that it would be scaling up to manuf
 
 Culture
 
-Aachen_Rosenmontag_2009.jpg (Karneval, Fasching), in which families dress in colourful costumes]]
+(Karneval, Fasching), in which families dress in colourful costumes]]
 
 In 1372, Aachen became the first coin-minting city in the world to regularly place an anno Domini date on a general circulation coin, a groschen.
 
@@ -275,7 +267,7 @@ The local speciality of Aachen is an originally hard type of sweet bread, baked 
 
 Education
 
-Aachen_RWTH_Hauptgebaeude.jpg Aachen-ElegantStreet.JPG houses]] Typical_Aachen_street_with_early_20th-century_Gründerzeit_houses_(2).JPG
+houses]]
 
 RWTH Aachen University, established as Polytechnicum in 1870, is one of Germany's Universities of Excellence with strong emphasis on technological research, especially for electrical and mechanical engineering, computer sciences, physics, and chemistry. The university clinic attached to the RWTH, the Klinikum Aachen, is the biggest single-building hospital in Europe.[118] Over time, a host of software and computer industries have developed around the university. It also maintains a botanical garden (the Botanischer Garten Aachen).
 
@@ -290,7 +282,7 @@ The German army's Technical School (_Ausbildungszentrum Technik Landsysteme_) is
 
 Sports
 
-Aachen_Tivoli_under_construction.JPG, home ground of Alemannia Aachen]]
+, home ground of Alemannia Aachen]]
 
 The annual CHIO (short for the French term _Concours Hippique International Officiel_) is the biggest equestrian meeting of the world and among horsemen is considered to be as prestigious for equitation as the tournament of Wimbledon for tennis. Aachen hosted the 2006 FEI World Equestrian Games.
 
@@ -315,7 +307,7 @@ There are two stations for intercity bus services in Aachen: Aachen West station
 
 Public transport
 
-OecherLongWajong1.JPG of the city's transit authority ASEAG, at the university hospital bus stop]]
+of the city's transit authority ASEAG, at the university hospital bus stop]]
 
 The first horse tram line in Aachen opened in December 1880. After electrification in 1895, it was with maximal in 1915 the fourth-longest tram system in Germany. Many tram lines extended to the surrounding towns of Herzogenrath, Stolberg, Alsdorf as well as the Belgian and Dutch communes of Vaals, Kelmis (then _Altenberg_) and Eupen. The Aachen tram system was linked with the Belgian national interurban tram system. Like many tram systems in Western Europe, the Aachen tram suffered from poorly-maintained infrastructure and was so deemed unnecessary and disrupting for car drivers by local politics. On 28 September 1974 the last line 15 (Vaals–Brand) operated for one last day and was then replaced by buses. A proposal to reinstate a tram/light rail system under the name _Campusbahn_ was dropped after a referendum.
 
@@ -334,7 +326,7 @@ Recreational aviation is served by the (formerly military) Aachen Merzbrück Air
 
 Charlemagne Prize
 
-Angela_Merkel,_Karlspreisverleihung_2008_-_1.jpg Angela Merkel, wearing the Charlemagne Prize awarded to her in 2008]]
+Angela Merkel, wearing the Charlemagne Prize awarded to her in 2008]]
 
 Since 1950, a committee of Aachen citizens annually awards the Charlemagne Prize () to personalities of outstanding service to the unification of Europe. It is traditionally awarded on Ascension Day at the City Hall. In 2016, the Charlemagne Award was awarded to Pope Francis.
 

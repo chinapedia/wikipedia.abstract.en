@@ -1,13 +1,9 @@
-Andaman_nicobar_76.jpg
-
 The ANDAMAN ISLANDS form an archipelago in the Bay of Bengal between India, to the west, and Myanmar, to the north and east. Most are part of the Andaman and Nicobar Islands which are the Union Territory of India, while a small number in the north of the archipelago, including the Coco Islands, belong to Myanmar.
 
 The Andaman Islands are home to the Andamanese, a group of indigenous people that includes a number of tribes including the Jarawa and Sentinelese tribes.[1] While some of the islands can be visited with permits, others including the North Sentinel island are banned for entry by law. The Sentinelese are generally hostile to visitors and have had little contact with any other people. The government protects their right to privacy.[2]
 
 
 History
-
-Andamanese_comparative_distribution.png
 
 Etymology
 
@@ -17,7 +13,7 @@ In the 13th century, the name of Andaman appears in Chinese as _Yen-to-man_ (晏
 
 Early inhabitants
 
-The earliest archaeological evidence yet documented goes back some 2,200 years; however, the indications from genetic, cultural and isolation studies suggest that the islands may have been inhabited as early as the Middle Paleolithic.[6] The indigenous Andamanese people appear to have lived on the islands in substantial isolation from that time until the 18th century AD.The_Andaman_Islands_in_the_Bay_of_Bengal_were_said_to_be_inhabited_by_wolf-headed_people.jpg
+The earliest archaeological evidence yet documented goes back some 2,200 years; however, the indications from genetic, cultural and isolation studies suggest that the islands may have been inhabited as early as the Middle Paleolithic.[6] The indigenous Andamanese people appear to have lived on the islands in substantial isolation from that time until the 18th century AD.
 
 Chola empire
 
@@ -35,7 +31,7 @@ In 1867, the ship _Nineveh_ wrecked on the reef of North Sentinel Island. The 86
 
 For some time, sickness and mortality were high, but swamp reclamation and extensive forest clearance continued. The Andaman colony became notorious with the murder of the Viceroy Richard Southwell Bourke, 6th Earl of Mayo, on a visit to the settlement (8 February 1872), by a Muslim convict, a Pathan from Afghanistan, Sher Ali Afridi. In the same year, the two island groups Andaman and Nicobar, were united under a chief commissioner residing at Port Blair.
 
-Port_Blair_1872_Ross_Island_Penal_HQ.jpg From the time of its development in 1858 under the direction of James Pattison Walker, and in response to the mutiny and rebellion of the previous year, the settlement was first and foremost a repository for political prisoners. The Cellular Jail at Port Blair when completed in 1910 included 698 cells designed for solitary confinement; each cell measured with a single ventilation window above the floor. A notable prisoner there was Vinayak Damodar Savarkar.
+From the time of its development in 1858 under the direction of James Pattison Walker, and in response to the mutiny and rebellion of the previous year, the settlement was first and foremost a repository for political prisoners. The Cellular Jail at Port Blair when completed in 1910 included 698 cells designed for solitary confinement; each cell measured with a single ventilation window above the floor. A notable prisoner there was Vinayak Damodar Savarkar.
 
 The Indians imprisoned here referred to the Island and its prison as _Kala Pani_ ("black water");[14] a 1996 film set on the island took that term as its title _Kaalapani_.[15] The number of prisoners who died in this camp is estimated to be in the thousands.[16] Many more died of harsh treatment and the harsh living and working conditions in this camp.[17]
 
@@ -43,7 +39,7 @@ The Viper Chain Gang Jail on Viper Island was reserved for troublemakers, and wa
 
 Japanese occupation
 
-Andaman_ross_is.jpg in 2004]] Andaman.jpg The Andaman and Nicobar islands were occupied by Japan during World War II.[18] The islands were nominally put under the authority of the Arzi Hukumat-e-Azad Hind (Provisional Government of Free India) headed by Subhas Chandra Bose, who visited the islands during the war, and renamed them as Shaheed (Martyr) & Swaraj (Self-rule). On 30 December 1943, during the Japanese occupation, Bose, who was allied with the Japanese, first raised the flag of Indian independence. General Loganathan, of the Indian National Army, was Governor of the Andaman and Nicobar Islands, which had been annexed to the Provisional Government. According to Werner Gruhl: "Before leaving the islands, the Japanese rounded up and executed 750 innocents."[19]
+in 2004]] The Andaman and Nicobar islands were occupied by Japan during World War II.[18] The islands were nominally put under the authority of the Arzi Hukumat-e-Azad Hind (Provisional Government of Free India) headed by Subhas Chandra Bose, who visited the islands during the war, and renamed them as Shaheed (Martyr) & Swaraj (Self-rule). On 30 December 1943, during the Japanese occupation, Bose, who was allied with the Japanese, first raised the flag of Indian independence. General Loganathan, of the Indian National Army, was Governor of the Andaman and Nicobar Islands, which had been annexed to the Provisional Government. According to Werner Gruhl: "Before leaving the islands, the Japanese rounded up and executed 750 innocents."[19]
 
 Since World War II
 
@@ -59,8 +55,6 @@ In November of 2018, John Allen Chau, an American missionary, traveled illegally
 
 
 Geography
-
-Sunset_Point,_Andaman.JPG Sunrise_at_the_Havelock_Islands..JPG Sunset_point_beach,_Andaman.JPG
 
 The Andaman Archipelago is an oceanic continuation of the Burmese Arakan Yoma range in the North and of the Indonesian Archipelago in the South. It has 325 islands which cover an area of ,[26] with the Andaman Sea to the east between the islands and the coast of Burma.[27] North Andaman Island is south of Burma, although a few smaller Burmese islands are closer, including the three Coco Islands.
 
@@ -81,7 +75,7 @@ The Andaman forests are largely unspoiled, despite logging and the demands of th
 
 Timber
 
-Timber.JPG Andaman forests contain 200 or more timber producing species of trees, out of which about 30 varieties are considered to be commercial. Major commercial timber species are Gurjan (_Dipterocarpus_ spp.) and Padauk (_Pterocarpus dalbergioides_). The following ornamental woods are noted for their pronounced grain formation:
+Andaman forests contain 200 or more timber producing species of trees, out of which about 30 varieties are considered to be commercial. Major commercial timber species are Gurjan (_Dipterocarpus_ spp.) and Padauk (_Pterocarpus dalbergioides_). The following ornamental woods are noted for their pronounced grain formation:
 
 -   Marble wood (_Diospyros marmorata_)
 -   Padauk (_Pterocarpus dalbergioides_)
@@ -97,8 +91,6 @@ The holy Rudraksha (_Elaeocarps sphaericus_) and aromatic Dhoop resin trees also
 
 
 Fauna
-
-The_Coral_Reef_at_the_Andaman_Islands.jpg
 
 The Andaman Islands are home to a number of animals, many of them endemic.
 
@@ -153,13 +145,13 @@ Other religions practiced in the Andaman and Nicobar Islands are, in order of si
 
 Demographics
 
-A_young_Onge_mother_with_her_baby.jpg , the population of the Andaman was 343,125,[40] having grown from 50,000 in 1960. The bulk of the population originates from immigrants who came to the island since the colonial times, mainly of Bengali, Hindustani and Tamil backgrounds.[41]
+, the population of the Andaman was 343,125,[40] having grown from 50,000 in 1960. The bulk of the population originates from immigrants who came to the island since the colonial times, mainly of Bengali, Hindustani and Tamil backgrounds.[41]
 
 A small minority of the population are the Andamanese — the aboriginal inhabitants (adivasi) of the islands. When they first came into sustained contact with outside groups in the 1850s, there were an estimated 7,000 Andamanese, divided into the Great Andamanese, Jarawa, Jangil (or _Rutland Jarawa_), Onge, Sentinelese, and the Shompen of Great Nicobar Island. The Great Andamanese formed 10 tribes of 5,000 people total.
 
 As the numbers of settlers from the mainland increased (at first mostly prisoners and involuntary indentured labourers, later purposely recruited farmers), these indigenous people lost territory and numbers in the face of punitive expeditions by British troops, land encroachment and various epidemic diseases.
 
-Presently, there remain only approximately 400–450 indigenous Andamanese. The Jangil are extinct. Most of the Great Andamanese tribes are extinct, and the survivors, now just 52, speak mostly [Bengali language|Bengali]].[42] The Onge are reduced to less than 100 people. Only the Jarawa and Sentinelese still maintain a steadfast independence and refuse most attempts at contact; their numbers are uncertain but estimated to be in the low hundreds. Jarwa_Tribes_Andaman.jpg
+Presently, there remain only approximately 400–450 indigenous Andamanese. The Jangil are extinct. Most of the Great Andamanese tribes are extinct, and the survivors, now just 52, speak mostly [Bengali language|Bengali]].[42] The Onge are reduced to less than 100 people. Only the Jarawa and Sentinelese still maintain a steadfast independence and refuse most attempts at contact; their numbers are uncertain but estimated to be in the low hundreds.
 
 
 Government

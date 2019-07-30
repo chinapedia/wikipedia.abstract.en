@@ -7,7 +7,7 @@ Kazimierz left no lawful male heir to his throne, producing only daughters. When
 
 The Great King
 
-Polska_1333_-_1370.png (yellow) had been lost, but the Kingdom was expanding to the east]]
+(yellow) had been lost, but the Kingdom was expanding to the east]]
 
 When Kazimierz attained the throne in 1333, his position was in danger, as his neighbours did not recognise his title and instead called him "king of Kraków". The kingdom was depopulated and exhausted by war, and the economy was ruined. In 1335, in the Treaty of Trentschin, Casimir was forced to relinquish his claims to Silesia "in perpetuity".
 
@@ -19,7 +19,7 @@ Succession
 
 In 1355, in Buda, Kazimierz designated his nephew Louis I of Hungary as his successor should he produce no male heir, as his father had with Charles I of Hungary to gain his help against Bohemia. In exchange Kazimierz gained a favourable Hungarian attitude, needed in disputes with the hostile Teutonic Order and Kingdom of Bohemia. Kazimierz at the time was still in his early years and having a son did not seem to be a problem (he already had a few children).
 
-Subdue_of_Ruthenia_in_1366.png'', Jan Matejko]]
+'', Jan Matejko]]
 
 Kazimierz left no legal son, however, begetting five daughters instead. He tried to adopt his grandson, Casimir IV, Duke of Pomerania, in his last will. The child had been born to his second daughter, Elisabeth, Duchess of Pomerania, in 1351. This part of the testament was invalidated by Louis I of Hungary, however, who had traveled to Kraków quickly after Kazimierz died and bribed the nobles with future privileges. Kazimierz III had a son-in-law, Louis VI of Bavaria, Margrave and Prince-elector of Brandenburg, who was considered a possible successor, but he was deemed ineligible as his wife, Kazimierz's daughter Cunigunde, had died in 1357 without issue.
 
@@ -28,14 +28,14 @@ Thus King Louis I of Hungary became successor in Poland. Louis was proclaimed ki
 
 Society under the reign of Casimir
 
-Wiec_Kazimierz_Wielki.jpg'' in reign of Casimir the Great]]
+'' in reign of Casimir the Great]]
 
 Casimir was facetiously named "the Peasants' King". He introduced the codes of law of Greater and Lesser Poland as an attempt to end the overwhelming superiority of the nobility. During his reign all three major classes — the nobility, priesthood, and bourgeoisie — were more or less counterbalanced, allowing Casimir to strengthen his monarchic position. He was known for siding with the weak when the law did not protect them from nobles and clergymen. He reportedly even supported a peasant whose house had been demolished by his own mistress, after she had ordered it to be pulled down because it disturbed her enjoyment of the beautiful landscape.
 
 
 Relationship with Polish Jews
 
-Wojciech_Gerson,_Przyjęcie_Żydów.jpg, _Casimir the Great and the Jews_]] On 9 October 1334, he confirmed the privileges granted to Jews in 1264 by Bolesław V the Chaste. Under penalty of death, he prohibited the kidnapping of Jewish children for the purpose of enforced Christian baptism, and he inflicted heavy punishment for the desecration of Jewish cemeteries. While Jews had lived in Poland since before his reign, Casimir allowed them to settle in Poland in great numbers and protected them as _people of the king_.[10]
+, _Casimir the Great and the Jews_]] On 9 October 1334, he confirmed the privileges granted to Jews in 1264 by Bolesław V the Chaste. Under penalty of death, he prohibited the kidnapping of Jewish children for the purpose of enforced Christian baptism, and he inflicted heavy punishment for the desecration of Jewish cemeteries. While Jews had lived in Poland since before his reign, Casimir allowed them to settle in Poland in great numbers and protected them as _people of the king_.[10]
 
 
 Relationships with children

@@ -1,6 +1,6 @@
 Complexity theory}}
 
-Color_complex_plot.jpg of the function (_z_² − 1)(_z_ + 2 − _i_)²}} .
+of the function (_z_² − 1)(_z_ + 2 − _i_)²}} .
 Hue represents the argument, brightness the magnitude.]]
 
 COMPLEX ANALYSIS, traditionally known as the THEORY OF FUNCTIONS OF A COMPLEX VARIABLE, is the branch of mathematical analysis that investigates functions of complex numbers. It is useful in many branches of mathematics, including algebraic geometry, number theory, analytic combinatorics, applied mathematics; as well as in physics, including the branches of hydrodynamics, thermodynamics, and particularly quantum mechanics. By extension, use of complex analysis also has applications in engineering fields such as nuclear, aerospace, mechanical and electrical engineering.
@@ -10,12 +10,12 @@ As a differentiable function of a complex variable is equal to the sum of its Ta
 
 History
 
-Mandel_zoom_00_mandelbrot_set.jpg, a fractal]] Complex analysis is one of the classical branches in mathematics, with roots in the 18th century and just prior. Important mathematicians associated with complex numbers include Euler, Gauss, Riemann, Cauchy, Weierstrass, and many more in the 20th century. Complex analysis, in particular the theory of conformal mappings, has many physical applications and is also used throughout analytic number theory. In modern times, it has become very popular through a new boost from complex dynamics and the pictures of fractals produced by iterating holomorphic functions. Another important application of complex analysis is in string theory which studies conformal invariants in quantum field theory.
+, a fractal]] Complex analysis is one of the classical branches in mathematics, with roots in the 18th century and just prior. Important mathematicians associated with complex numbers include Euler, Gauss, Riemann, Cauchy, Weierstrass, and many more in the 20th century. Complex analysis, in particular the theory of conformal mappings, has many physical applications and is also used throughout analytic number theory. In modern times, it has become very popular through a new boost from complex dynamics and the pictures of fractals produced by iterating holomorphic functions. Another important application of complex analysis is in string theory which studies conformal invariants in quantum field theory.
 
 
 Complex functions
 
-Exponentials_of_complex_number_within_unit_circle.svg function of a discrete (integer) variable , similar to geometric progression]] A complex function is a function from complex numbers to complex numbers. In other words, it is a function that has a subset of the complex numbers as a domain and the complex numbers as a codomain. Complex functions are generally supposed to have a domain that contains a nonempty open subset of the complex plane.
+function of a discrete (integer) variable , similar to geometric progression]] A complex function is a function from complex numbers to complex numbers. In other words, it is a function that has a subset of the complex numbers as a domain and the complex numbers as a codomain. Complex functions are generally supposed to have a domain that contains a nonempty open subset of the complex plane.
 
 For any complex function, the values z from the domain and their images f(z) in the range may be separated into real and imaginary parts:
 

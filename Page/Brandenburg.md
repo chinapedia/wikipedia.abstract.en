@@ -19,7 +19,7 @@ Late Middle Ages
 
 During the 12th century, the German kings and emperors re-established control over the mixed Slav-inhabited lands of present-day Brandenburg, although some Slavs like the Sorbs in Lusatia adapted to Germanization while retaining their distinctiveness. The Roman Catholic Church brought bishoprics which, with their walled towns, afforded protection from attacks for the townspeople. With the monks and bishops, the history of the town of Brandenburg an der Havel, which was the first center of the state of Brandenburg, began.
 
-Burg_eisenhardt_torhaus_und_burgfried.JPG]]
+]]
 
 In 1134, in the wake of a German crusade against the Wends, the German magnate, Albert the Bear, was granted the Northern March by the Emperor Lothar III. He formally inherited the town of Brandenburg and the lands of the Hevelli from their last Wendish ruler, Pribislav, in 1150. After crushing a force of Sprevane who occupied the town of Brandenburg in the 1150s, Albert proclaimed himself ruler of the new Margraviate of Brandenburg. Albert, and his descendants the Ascanians, then made considerable progress in conquering, colonizing, Christianizing, and cultivating lands as far east as the Oder. Within this region, Slavic and German residents intermarried. During the 13th century, the Ascanians began acquiring territory east of the Oder, later known as the Neumark (see also Altmark).
 
@@ -27,23 +27,23 @@ In 1320, the Brandenburg Ascanian line came to an end, and from 1323 up until 14
 
 16th and 17th centuries
 
-Schlacht_bei_Fehrbellin2.JPG in 1675]] Brandenburg converted to Protestantism in 1539 in the wake of the Protestant Reformation, and generally did quite well in the 16th century, with the expansion of trade along the Elbe, Havel, and Spree Rivers. The Hohenzollerns expanded their territory by co-rulership since 1577 and acquiring the Duchy of Prussia in 1618, the Duchy of Cleves (1614) in the Rhineland, and territories in Westphalia. The result was a sprawling, disconnected country known as Brandenburg-Prussia that was in poor shape to defend itself during the Thirty Years' War.
+in 1675]] Brandenburg converted to Protestantism in 1539 in the wake of the Protestant Reformation, and generally did quite well in the 16th century, with the expansion of trade along the Elbe, Havel, and Spree Rivers. The Hohenzollerns expanded their territory by co-rulership since 1577 and acquiring the Duchy of Prussia in 1618, the Duchy of Cleves (1614) in the Rhineland, and territories in Westphalia. The result was a sprawling, disconnected country known as Brandenburg-Prussia that was in poor shape to defend itself during the Thirty Years' War.
 
 Beginning near the end of that devastating conflict, however, Brandenburg enjoyed a string of talented rulers who expanded their territory and power in Europe. The first of these was Frederick William, the so-called "Great Elector", who worked tirelessly to rebuild and consolidate the nation. He moved the royal residence to Potsdam. At the Treaty of Westphalia, his envoy Joachim Friedrich von Blumenthal negotiated the acquisition of several important territories such as Halberstadt. Under the Treaty of Oliva Christoph Caspar von Blumenthal(son of the above) negotiated the incorporation of the Duchy of Prussia into the Hohenzollern inheritance.
 
 Kingdom of Prussia and German Empire
 
-Potsdam_Sanssouci_Palace.jpg in Potsdam, the former summer palace of Frederick the Great, today a World Heritage site]] Brandenburg_superimposed_on_modern_borders.svg superimposed on modern borders.]] When Frederick William died in 1688, he was followed by his son Frederick, third of that name in Brandenburg. As the lands that had been acquired in Prussia were outside the boundaries of the Holy Roman Empire, Frederick assumed (as Frederick I) the title of "King in Prussia" (1701). Although his self-promotion from margrave to king relied on his title to the Duchy of Prussia, Brandenburg was still the most important portion of the kingdom. However, this combined state is known as the Kingdom of Prussia.
+in Potsdam, the former summer palace of Frederick the Great, today a World Heritage site]] superimposed on modern borders.]] When Frederick William died in 1688, he was followed by his son Frederick, third of that name in Brandenburg. As the lands that had been acquired in Prussia were outside the boundaries of the Holy Roman Empire, Frederick assumed (as Frederick I) the title of "King in Prussia" (1701). Although his self-promotion from margrave to king relied on his title to the Duchy of Prussia, Brandenburg was still the most important portion of the kingdom. However, this combined state is known as the Kingdom of Prussia.
 
 Brandenburg remained the core of the Kingdom of Prussia, and it was the site of the kingdom's capitals, Berlin and Potsdam. When Prussia was subdivided into provinces in 1815, the territory of the Margraviate of Brandenburg became the Province of Brandenburg, again subdivided into the government regions of Frankfurt and Potsdam. In 1881, the City of Berlin was separated from the Province of Brandenburg. However, industrial towns ringing Berlin lay within Brandenburg, and the growth of the region's industrial economy brought an increase in the population of the province. The Province of Brandenburg had an area of and a population of 2.6 million (1925). After Germany's defeat in World War II, the Neumark, the part of Brandenburg east of the Oder–Neisse line, became part of Poland. The remainder of the province became a state in the Soviet Zone of occupation in Germany when Prussia was dissolved in 1947.
 
 East Germany
 
-Glienicker_Brücke1.JPG, which connected East Germany to the American sector of West Berlin, became known for the exchange of captured spies.]] Since the foundation of East Germany in 1949 Brandenburg formed one of its component states. The State of Brandenburg was completely dissolved in 1952 by the Socialist government of East Germany, doing away with all component states. The East German government then divided Brandenburg among several _Bezirke_ or districts. (See Administrative division of the German Democratic Republic). Most of Brandenburg lay within the Bezirke of Cottbus, Frankfurt, or Potsdam, but parts of the former province passed to the Schwerin, Neubrandenburg and Magdeburg districts (town Havelberg). East Germany relied heavily on lignite (the lowest grade of coal) as an energy source, and lignite strip mines marred areas of southeastern Brandenburg. The industrial towns surrounding Berlin were important to the East German economy, while rural Brandenburg remained mainly agricultural.
+, which connected East Germany to the American sector of West Berlin, became known for the exchange of captured spies.]] Since the foundation of East Germany in 1949 Brandenburg formed one of its component states. The State of Brandenburg was completely dissolved in 1952 by the Socialist government of East Germany, doing away with all component states. The East German government then divided Brandenburg among several _Bezirke_ or districts. (See Administrative division of the German Democratic Republic). Most of Brandenburg lay within the Bezirke of Cottbus, Frankfurt, or Potsdam, but parts of the former province passed to the Schwerin, Neubrandenburg and Magdeburg districts (town Havelberg). East Germany relied heavily on lignite (the lowest grade of coal) as an energy source, and lignite strip mines marred areas of southeastern Brandenburg. The industrial towns surrounding Berlin were important to the East German economy, while rural Brandenburg remained mainly agricultural.
 
 Federal Republic of Germany
 
-LandtagSchuschkeSeptember2012.JPG The present State of Brandenburg was re-established on 3 October 1990 upon German reunification.[7] The newly elected Landtag of Brandenburg first met on 26 October 1990.[8] As in other former parts of East Germany, the lack of modern infrastructure and exposure to West Germany's competitive market economy brought widespread unemployment and economic difficulty. In the recent years, however, Brandenburg's infrastructure has been modernized and unemployment has slowly declined.
+The present State of Brandenburg was re-established on 3 October 1990 upon German reunification.[7] The newly elected Landtag of Brandenburg first met on 26 October 1990.[8] As in other former parts of East Germany, the lack of modern infrastructure and exposure to West Germany's competitive market economy brought widespread unemployment and economic difficulty. In the recent years, however, Brandenburg's infrastructure has been modernized and unemployment has slowly declined.
 
 In 1995, the governments of Berlin and Brandenburg proposed to merge the states in order to form a new state with the name of "Berlin-Brandenburg", though some suggested calling the proposed new state "Prussia". The merger was rejected in a plebiscite in 1996 – while West Berliners voted for a merger, East Berliners and Brandenburgers voted against it.
 
@@ -62,7 +62,7 @@ NATIONAL PARKS
 
 -   Lower Oder Valley National Park (106 km²)
 
-BIOSPHERE RESERVES Spreewald_4.jpg, a biosphere reserve by UNESCO]]
+BIOSPHERE RESERVES , a biosphere reserve by UNESCO]]
 
 -   Spreewald Biosphere Reserve ()
 -   Schorfheide-Chorin Biosphere Reserve ()
@@ -88,10 +88,6 @@ Cities
 
 
 Demography
-
-Bevölkerungsentwicklung_Land_Brandenburg.pdf
-
-Metropolregion_Berlin-Brandenburg_Einwohnerdichte.svg
 
 +-----------------------------------------+
 | SIGNIFICANT FOREIGN BORN POPULATIONS[9] |
@@ -128,32 +124,30 @@ Subdivisions
 
 Brandenburg is divided into 14 rural districts (_Landkreise_) and four urban districts (_kreisfreie Städte_), shown with their population in 2011:[12]
 
-Brandenburg,_administrative_divisions_-_de_-_colored.svg
-
-  District                                                             Population
-  -------------------------------------------------------------------- ------------
-  Wappen_Landkreis_Barnim.svg Barnim                                   176,953
-  Wappen_Landkreis_Dahme-Spreewald.svg Dahme-Spreewald                 161,556
-  Wappen_des_Landkreises_Elbe-Elster.svg Elbe-Elster                   110,291
-  DEU_Havelland_COA.svg Havelland                                      155,226
-  DEU_Maerkisch-Oderland_COA.svg Märkisch-Oderland                     189,673
-  DEU_Oberhavel_COA.svg Oberhavel                                      203,508
-  Wappen_Landkreis_Oberspreewald-Lausitz.png Oberspreewald-Lausitz     120,023
-  Wappen_Landkreis_Oder-Spree.svg Oder-Spree                           182,798
-  Wappen_des_Landkreises_Ostprignitz-Ruppin.svg Ostprignitz-Ruppin     102,108
-  Wappen_Landkreis_Potsdam-Mittelmark.png Potsdam-Mittelmark           205,678
-  Wappen_des_Landkreises_Prignitz.svg Prignitz                         80,872
-  Wappen_Landkreis_Spree-Neisse.png Spree-Neiße                        124,662
-  Wappen_des_Landkreises_Teltow-Fläming.svg Teltow-Fläming             161,546
-  Wappen_Landkreis_Uckermark.png Uckermark                             128,174
-  Wappen_Brandenburg_an_der_Havel.png Stadt Brandenburg an der Havel   71,534
-  Wappen_Cottbus.svg Stadt Cottbus                                     102,129
-  Wappen_Frankfurt_(Oder).png Stadt. Frankfurt (Oder)                  60,002
-  Coat_of_arms_of_Potsdam.svg Stadt Potsdam                            158,902
+  District                         Population
+  -------------------------------- ------------
+  Barnim                           176,953
+  Dahme-Spreewald                  161,556
+  Elbe-Elster                      110,291
+  Havelland                        155,226
+  Märkisch-Oderland                189,673
+  Oberhavel                        203,508
+  Oberspreewald-Lausitz            120,023
+  Oder-Spree                       182,798
+  Ostprignitz-Ruppin               102,108
+  Potsdam-Mittelmark               205,678
+  Prignitz                         80,872
+  Spree-Neiße                      124,662
+  Teltow-Fläming                   161,546
+  Uckermark                        128,174
+  Stadt Brandenburg an der Havel   71,534
+  Stadt Cottbus                    102,129
+  Stadt. Frankfurt (Oder)          60,002
+  Stadt Potsdam                    158,902
 
 Government
 
-Potsdam_Stadtschloss_07-2017.jpg]] Dietmar_Woidke_M-0212_36139_Ausschnitt_Color_Hoffotografen.jpg
+]]
 
 The most recent election took place on 14 September 2014. The coalition government formed by the Social Democrats and the Left Party led by Dietmar Woidke (SPD) was re-elected. The next ordinary state election is scheduled for 2019.
 
@@ -174,8 +168,6 @@ It is planned to incorporate Schönefeld's existing infrastructure and terminals
 
 
 Culture
-
-Potsdam_Sanssouci_07-2017_img2.jpg
 
 Education
 

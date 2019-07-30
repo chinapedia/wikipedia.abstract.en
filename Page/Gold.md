@@ -9,13 +9,13 @@ A total of 186,700 tonnes of gold exists above ground, .[3] The world consumptio
 
 Characteristics
 
-Au_atomic_wire.jpg Small_gold_nugget_5mm_dia_and_corresponding_foil_surface_of_half_sq_meter.jpg of about area. ]] Gold is the most malleable of all metals. It can be drawn into a monoatomic wire, and then stretched about twice before it breaks.[6] Such nanowires distort via formation, reorientation and migration of dislocations and crystal twins without noticeable hardening.[7] A single gram of gold can be beaten into a sheet of 1 square meter, and an avoirdupois ounce into 300 square feet. Gold leaf can be beaten thin enough to become semi-transparent. The transmitted light appears greenish blue, because gold strongly reflects yellow and red.[8] Such semi-transparent sheets also strongly reflect infrared light, making them useful as infrared (radiant heat) shields in visors of heat-resistant suits, and in sun-visors for spacesuits.[9] Gold is a good conductor of heat and electricity.
+of about area. ]] Gold is the most malleable of all metals. It can be drawn into a monoatomic wire, and then stretched about twice before it breaks.[6] Such nanowires distort via formation, reorientation and migration of dislocations and crystal twins without noticeable hardening.[7] A single gram of gold can be beaten into a sheet of 1 square meter, and an avoirdupois ounce into 300 square feet. Gold leaf can be beaten thin enough to become semi-transparent. The transmitted light appears greenish blue, because gold strongly reflects yellow and red.[8] Such semi-transparent sheets also strongly reflect infrared light, making them useful as infrared (radiant heat) shields in visors of heat-resistant suits, and in sun-visors for spacesuits.[9] Gold is a good conductor of heat and electricity.
 
 Gold has a density of 19.3 g/cm³, almost identical to that of tungsten at 19.25 g/cm³; as such, tungsten has been used in counterfeiting of gold bars, such as by plating a tungsten bar with gold,[10][11][12][13] or taking an existing gold bar, drilling holes, and replacing the removed gold with tungsten rods.[14] By comparison, the density of lead is 11.34 g/cm³, and that of the densest element, osmium, is .[15]
 
 Color
 
-Ag-Au-Cu-colours-english.svg–Au–Cu alloys]] Whereas most metals are gray or silvery white, gold is slightly reddish-yellow.[16] This color is determined by the frequency of plasma oscillations among the metal's valence electrons, in the ultraviolet range for most metals but in the visible range for gold due to relativistic effects affecting the orbitals around gold atoms.[17][18] Similar effects impart a golden hue to metallic caesium.
+–Au–Cu alloys]] Whereas most metals are gray or silvery white, gold is slightly reddish-yellow.[16] This color is determined by the frequency of plasma oscillations among the metal's valence electrons, in the ultraviolet range for most metals but in the visible range for gold due to relativistic effects affecting the orbitals around gold atoms.[17][18] Similar effects impart a golden hue to metallic caesium.
 
 Common colored gold alloys include the distinctive eighteen-karat rose gold created by the addition of copper. Alloys containing palladium or nickel are also important in commercial jewelry as these produce white gold alloys. Fourteen-karat gold-copper alloy is nearly identical in color to certain bronze alloys, and both may be used to produce police and other badges. White gold alloys can be made with palladium or nickel. Fourteen- and eighteen-karat gold alloys with silver alone appear greenish-yellow and are referred to as green gold. Blue gold can be made by alloying with iron, and purple gold can be made by alloying with aluminium. Less commonly, addition of manganese, aluminium, indium and other elements can produce more unusual colors of gold for various applications.[19]
 
@@ -42,7 +42,7 @@ It is also possible to eject several neutrons with very high energy into the oth
 
 Chemistry
 
-Gold(III)_chloride_solution.jpg Although gold is the most noble of the noble metals,[26][27] it still forms many diverse compounds. The oxidation state of gold in its compounds ranges from −1 to +5, but Au(I) and Au(III) dominate its chemistry. Au(I), referred to as the aurous ion, is the most common oxidation state with soft ligands such as thioethers, thiolates, and tertiary phosphines. Au(I) compounds are typically linear. A good example is Au(CN)₂^(−), which is the soluble form of gold encountered in mining. The binary gold halides, such as AuCl, form zigzag polymeric chains, again featuring linear coordination at Au. Most drugs based on gold are Au(I) derivatives.[28]
+Although gold is the most noble of the noble metals,[26][27] it still forms many diverse compounds. The oxidation state of gold in its compounds ranges from −1 to +5, but Au(I) and Au(III) dominate its chemistry. Au(I), referred to as the aurous ion, is the most common oxidation state with soft ligands such as thioethers, thiolates, and tertiary phosphines. Au(I) compounds are typically linear. A good example is Au(CN)₂^(−), which is the soluble form of gold encountered in mining. The binary gold halides, such as AuCl, form zigzag polymeric chains, again featuring linear coordination at Au. Most drugs based on gold are Au(I) derivatives.[28]
 
 Au(III) (auric) is a common oxidation state, and is illustrated by gold(III) chloride, Au₂Cl₆. The gold atom centers in Au(III) complexes, like other d⁸ compounds, are typically square planar, with chemical bonds that have both covalent and ionic character.
 
@@ -87,7 +87,7 @@ In 2017, an international group of scientists, established that gold "came to th
 
 Celestial origin theories
 
-Vredefort_crater_cross_section_2.png in South Africa and how it distorted the contemporary geological structures. The present erosion level is shown. Johannesburg is located where the Witwatersrand Basin (the yellow layer) is exposed at the "present surface" line, just inside the crater rim, on the left. Not to scale.]] Gold is thought to have been produced in supernova nucleosynthesis, and from the collision of neutron stars,[49] and to have been present in the dust from which the Solar System formed.[50] Because the Earth was molten when it was formed, almost all of the gold present in the early Earth probably sank into the planetary core. Therefore, most of the gold that is in the Earth's crust and mantle is thought to have been delivered to Earth later, by asteroid impacts during the Late Heavy Bombardment, about 4 billion years ago.[51][52]
+in South Africa and how it distorted the contemporary geological structures. The present erosion level is shown. Johannesburg is located where the Witwatersrand Basin (the yellow layer) is exposed at the "present surface" line, just inside the crater rim, on the left. Not to scale.]] Gold is thought to have been produced in supernova nucleosynthesis, and from the collision of neutron stars,[49] and to have been present in the dust from which the Solar System formed.[50] Because the Earth was molten when it was formed, almost all of the gold present in the early Earth probably sank into the planetary core. Therefore, most of the gold that is in the Earth's crust and mantle is thought to have been delivered to Earth later, by asteroid impacts during the Late Heavy Bombardment, about 4 billion years ago.[51][52]
 
 Traditionally, gold is thought to have formed by the r-process (rapid neutron capture) in supernova nucleosynthesis,[53] but more recently it has been suggested that gold and other elements heavier than iron may also be produced in quantity by the r-process in the collision of neutron stars.[54] In both cases, satellite spectrometers only indirectly detected the resulting gold: "we have no spectroscopic evidence that [such] elements have truly been produced," wrote author Stephan Rosswog.[55] However, in August 2017, the signatures of heavy elements, including gold, were observed by gravitational wave detectors and other electromagnetic observatories in the GW170817 neutron star merger event.[56] Current astrophysical models suggest that a single neutron star merger event generated between 3 and 13 Earth masses of gold.[57]
 
@@ -115,16 +115,16 @@ A number of people have claimed to be able to economically recover gold from sea
 
 History
 
-Indian_gold_tribute_donor_Apadana.jpg, from the Achaemenid satrapy of _Hindush_, carrying gold on a yoke, circa 500 BC.[74]]]
+, from the Achaemenid satrapy of _Hindush_, carrying gold on a yoke, circa 500 BC.[74]]]
 
-Gold_Museum,_Bogota_(36145671394).jpg, circa 1500 BC. The figure refers to the ceremony of the legend of El Dorado. The _zipa_ used to cover his body in gold dust, and from his raft, he offered treasures to the _Guatavita_ goddess in the middle of the sacred lake. This old Muisca tradition became the origin of the legend of El Dorado.
+, circa 1500 BC. The figure refers to the ceremony of the legend of El Dorado. The _zipa_ used to cover his body in gold dust, and from his raft, he offered treasures to the _Guatavita_ goddess in the middle of the sacred lake. This old Muisca tradition became the origin of the legend of El Dorado.
 This Muisca raft figure is on display in the Gold Museum, Bogotá, Colombia.]]
 
 The earliest recorded metal employed by humans appears to be gold, which can be found free or "native". Small amounts of natural gold have been found in Spanish caves used during the late Paleolithic period, c. 40,000 BC.[75] Gold artifacts made their first appearance at the very beginning of the pre-dynastic period in Egypt, at the end of the fifth millennium BC and the start of the fourth, and smelting was developed during the course of the 4th millennium; gold artifacts appear in the archeology of Lower Mesopotamia during the early 4th millennium.[76] Gold artifacts in the Balkans appear from the 4th millennium BC, such as those found in the Varna Necropolis near Lake Varna in Bulgaria, thought by one source (La Niece 2009) to be the earliest "well-dated" find of gold artifacts.[77] As of 1990, gold artifacts found at the Nahal Qana cave cemetery of the 4th millennium BC in Palestine (occupied West Bank) were the earliest from the Levant.[78] Gold artifacts such as the golden hats and the Nebra disk appeared in Central Europe from the 2nd millennium BC Bronze Age.
 
 The oldest known map of a gold mine was drawn in the 19th Dynasty of Ancient Egypt (1320–1200 BC), whereas the first written reference to gold was recorded in the 12th Dynasty around 1900 BC.[79] Egyptian hieroglyphs from as early as 2600 BC describe gold, which King Tushratta of the Mitanni claimed was "more plentiful than dirt" in Egypt.[80] Egypt and especially Nubia had the resources to make them major gold-producing areas for much of history. One of the earliest known maps, known as the Turin Papyrus Map, shows the plan of a gold mine in Nubia together with indications of the local geology. The primitive working methods are described by both Strabo and Diodorus Siculus, and included fire-setting. Large mines were also present across the Red Sea in what is now Saudi Arabia.
 
-Golden_crown_Armento_Staatliche_Antikensammlungen_01.jpg, funerary or marriage material, 370–360 BC. From a grave in Armento, Campania]] Gold is mentioned in the Amarna letters numbered 19[81] and 26[82] from around the 14th century BC.[83][84]
+, funerary or marriage material, 370–360 BC. From a grave in Armento, Campania]] Gold is mentioned in the Amarna letters numbered 19[81] and 26[82] from around the 14th century BC.[83][84]
 
 Gold is mentioned frequently in the Old Testament, starting with Genesis 2:11 (at Havilah), the story of the golden calf, and many parts of the temple including the Menorah and the golden altar. In the New Testament, it is included with the gifts of the magi in the first chapters of Matthew. The Book of Revelation 21:21 describes the city of New Jerusalem as having streets "made of pure gold, clear as crystal". Exploitation of gold in the south-east corner of the Black Sea is said to date from the time of Midas, and this gold was important in the establishment of what is probably the world's earliest coinage in Lydia around 610 BC.[85] The legend of the golden fleece dating from eighth century BCE may refer to the use of fleeces to trap gold dust from placer deposits in the ancient world. From the 6th or 5th century BC, the Chu (state) circulated the Ying Yuan, one kind of square gold coin.
 
@@ -132,7 +132,7 @@ In Roman metallurgy, new methods for extracting gold on a large scale were devel
 
 During Mansa Musa's (ruler of the Mali Empire from 1312 to 1337) hajj to Mecca in 1324, he passed through Cairo in July 1324, and was reportedly accompanied by a camel train that included thousands of people and nearly a hundred camels where he gave away so much gold that it depressed the price in Egypt for over a decade, causing high inflation.[86] A contemporary Arab historian remarked:
 
-Monnaie_de_Bactriane,_Eucratide_I,_2_faces.jpg (171–145 BC), one of the Hellenistic rulers of ancient Ai-Khanoum. This is the largest known gold coin minted in antiquity (169,20 g; 58 mm).[87]]] The European exploration of the Americas was fueled in no small part by reports of the gold ornaments displayed in great profusion by Native American peoples, especially in Mesoamerica, Peru, Ecuador and Colombia. The Aztecs regarded gold as the product of the gods, calling it literally "god excrement" (_teocuitlatl_ in Nahuatl), and after Moctezuma II was killed, most of this gold was shipped to Spain.[88] However, for the indigenous peoples of North America gold was considered useless and they saw much greater value in other minerals which were directly related to their utility, such as obsidian, flint, and slate.[89] El Dorado is applied to a legendary story in which precious stones were found in fabulous abundance along with gold coins. The concept of El Dorado underwent several transformations, and eventually accounts of the previous myth were also combined with those of a legendary lost city. El Dorado, was the term used by the Spanish Empire to describe a mythical tribal chief (zipa) of the Muisca native people in Colombia, who, as an initiation rite, covered himself with gold dust and submerged in Lake Guatavita. The legends surrounding El Dorado changed over time, as it went from being a man, to a city, to a kingdom, and then finally to an empire.
+(171–145 BC), one of the Hellenistic rulers of ancient Ai-Khanoum. This is the largest known gold coin minted in antiquity (169,20 g; 58 mm).[87]]] The European exploration of the Americas was fueled in no small part by reports of the gold ornaments displayed in great profusion by Native American peoples, especially in Mesoamerica, Peru, Ecuador and Colombia. The Aztecs regarded gold as the product of the gods, calling it literally "god excrement" (_teocuitlatl_ in Nahuatl), and after Moctezuma II was killed, most of this gold was shipped to Spain.[88] However, for the indigenous peoples of North America gold was considered useless and they saw much greater value in other minerals which were directly related to their utility, such as obsidian, flint, and slate.[89] El Dorado is applied to a legendary story in which precious stones were found in fabulous abundance along with gold coins. The concept of El Dorado underwent several transformations, and eventually accounts of the previous myth were also combined with those of a legendary lost city. El Dorado, was the term used by the Spanish Empire to describe a mythical tribal chief (zipa) of the Muisca native people in Colombia, who, as an initiation rite, covered himself with gold dust and submerged in Lake Guatavita. The legends surrounding El Dorado changed over time, as it went from being a man, to a city, to a kingdom, and then finally to an empire.
 
 Gold played a role in western culture, as a cause for desire and of corruption, as told in children's fables such as Rumpelstiltskin—where Rumpelstiltskin turns hay into gold for the peasant's daughter in return for her child when she becomes a princess—and the stealing of the hen that lays golden eggs in Jack and the Beanstalk.
 
@@ -146,7 +146,7 @@ The Dome of the Rock is covered with an ultra-thin golden glassier. The Sikh Gol
 
 Etymology
 
-Beowulf_-_gold.jpg'']] "Gold" is cognate with similar words in many Germanic languages, deriving via Proto-Germanic *_gulþą_ from Proto-Indo-European *_ǵʰelh₃-_ ("to shine, to gleam; to be yellow or green").[91][92]
+'']] "Gold" is cognate with similar words in many Germanic languages, deriving via Proto-Germanic *_gulþą_ from Proto-Indo-European *_ǵʰelh₃-_ ("to shine, to gleam; to be yellow or green").[91][92]
 
 The symbol _Au_ is from the , the Latin word for "gold".[93] The Proto-Indo-European ancestor of _aurum_ was _*h₂é-h₂us-o-_, meaning "glow". This word is derived from the same root (Proto-Indo-European _*h₂u̯es-_ "to dawn") as _*h₂éu̯sōs_, the ancestor of the Latin word Aurora, "dawn".[94] This etymological relationship is presumably behind the frequent claim in scientific publications that _aurum_ meant "shining dawn".[95]
 
@@ -167,15 +167,15 @@ Wedding rings are typically made of gold. It is long lasting and unaffected by t
 
 Production
 
-Gold_-_world_production_trend.svg The World Gold Council states that as of the end of 2017, "there were 187,200 tonnes of stocks in existence above ground". This can be represented by a cube with an edge length of about 21 meters.[98] At $1,349 per troy ounce, 187,200 metric tonnes of gold would have a value of $8.9 trillion. According to the United States Geological Survey in 2016, about of gold has been produced since the beginning of civilization, of which 85% remains in use.[99]
+The World Gold Council states that as of the end of 2017, "there were 187,200 tonnes of stocks in existence above ground". This can be represented by a cube with an edge length of about 21 meters.[98] At $1,349 per troy ounce, 187,200 metric tonnes of gold would have a value of $8.9 trillion. According to the United States Geological Survey in 2016, about of gold has been produced since the beginning of civilization, of which 85% remains in use.[99]
 
 In 2017, the world's largest gold producer by far was China with 440 tonnes. The second-largest producer, Australia, mined 300 tonnes in the same year, followed by Russia with 255 tonnes.[100]
 
 Mining and prospecting
 
-Miner_underground_at_Pumsaint_gold_mine_(1294028).jpg gold mine, Wales; c. 1938.]] Since the 1880s, South Africa has been the source of a large proportion of the world's gold supply, and about 22% of the gold presently accounted is from South Africa. Production in 1970 accounted for 79% of the world supply, about 1,480 tonnes. In 2007 China (with 276 tonnes) overtook South Africa as the world's largest gold producer, the first time since 1905 that South Africa has not been the largest.[101]
+gold mine, Wales; c. 1938.]] Since the 1880s, South Africa has been the source of a large proportion of the world's gold supply, and about 22% of the gold presently accounted is from South Africa. Production in 1970 accounted for 79% of the world supply, about 1,480 tonnes. In 2007 China (with 276 tonnes) overtook South Africa as the world's largest gold producer, the first time since 1905 that South Africa has not been the largest.[101]
 
-, China was the world's leading gold-mining country, followed in order by Australia, Russia, the United States, Canada, and Peru. South Africa, which had dominated world gold production for most of the 20th century, had declined to sixth place.[102] Other major producers are the Ghana, Burkina Faso, Mali, Indonesia and Uzbekistan. Gold_30g_for_a_860kg_rock.jpg, Japan.]]
+, China was the world's leading gold-mining country, followed in order by Australia, Russia, the United States, Canada, and Peru. South Africa, which had dominated world gold production for most of the 20th century, had declined to sixth place.[102] Other major producers are the Ghana, Burkina Faso, Mali, Indonesia and Uzbekistan. , Japan.]]
 
 In South America, the controversial project Pascua Lama aims at exploitation of rich fields in the high mountains of Atacama Desert, at the border between Chile and Argentina.
 
@@ -256,7 +256,7 @@ Gold extraction is also a highly energy intensive industry, extracting ore from 
 
 Monetary use
 
-Two_20kr_gold_coins.png, which was based on a gold standard. The coin to the left is Swedish and the right one is Danish.]] Gold has been widely used throughout the world as money,[129] for efficient indirect exchange (versus barter), and to store wealth in hoards. For exchange purposes, mints produce standardized gold bullion coins, bars and other units of fixed weight and purity.
+, which was based on a gold standard. The coin to the left is Swedish and the right one is Danish.]] Gold has been widely used throughout the world as money,[129] for efficient indirect exchange (versus barter), and to store wealth in hoards. For exchange purposes, mints produce standardized gold bullion coins, bars and other units of fixed weight and purity.
 
 The first known coins containing gold were struck in Lydia, Asia Minor, around 600 BC.[130] The _talent_ coin of gold in use during the periods of Grecian history both before and during the time of the life of Homer weighed between 8.42 and 8.75 grams.[131] From an earlier preference in using silver, European economies re-established the minting of gold as coinage during the thirteenth and fourteenth centuries.[132]
 
@@ -275,8 +275,6 @@ The ISO 4217 currency code of gold is XAU.[137] Many holders of gold store it in
 The _special issue_ Canadian Gold Maple Leaf coin contains the highest purity gold of any bullion coin, at 99.999% or 0.99999, while the _popular issue_ Canadian Gold Maple Leaf coin has a purity of 99.99%. In 2006, the United States Mint began producing the American Buffalo gold bullion coin with a purity of 99.99%. The Australian Gold Kangaroos were first coined in 1986 as the Australian Gold Nugget but changed the reverse design in 1989. Other modern coins include the Austrian Vienna Philharmonic bullion coin and the Chinese Gold Panda.
 
 Price
-
-Gold_price_in_USD.png
 
 , gold is valued at around $42 per gram ($1,300 per troy ounce).
 
@@ -301,7 +299,7 @@ Other applications
 
 Jewelry
 
-MocheGoldNecklace.jpg gold necklace depicting feline heads. Larco Museum Collection, Lima, Peru.]] Because of the softness of pure (24k) gold, it is usually alloyed with base metals for use in jewelry, altering its hardness and ductility, melting point, color and other properties. Alloys with lower karat rating, typically 22k, 18k, 14k or 10k, contain higher percentages of copper or other base metals or silver or palladium in the alloy.[154] Nickel is toxic, and its release from nickel white gold is controlled by legislation in Europe.[155] Palladium-gold alloys are more expensive than those using nickel.[156] High-karat white gold alloys are more resistant to corrosion than are either pure silver or sterling silver. The Japanese craft of Mokume-gane exploits the color contrasts between laminated colored gold alloys to produce decorative wood-grain effects.
+gold necklace depicting feline heads. Larco Museum Collection, Lima, Peru.]] Because of the softness of pure (24k) gold, it is usually alloyed with base metals for use in jewelry, altering its hardness and ductility, melting point, color and other properties. Alloys with lower karat rating, typically 22k, 18k, 14k or 10k, contain higher percentages of copper or other base metals or silver or palladium in the alloy.[154] Nickel is toxic, and its release from nickel white gold is controlled by legislation in Europe.[155] Palladium-gold alloys are more expensive than those using nickel.[156] High-karat white gold alloys are more resistant to corrosion than are either pure silver or sterling silver. The Japanese craft of Mokume-gane exploits the color contrasts between laminated colored gold alloys to produce decorative wood-grain effects.
 
 By 2014, the gold jewelry industry was escalating despite a dip in gold prices. Demand in the first quarter of 2014 pushed turnover to $23.7 billion according to a World Gold Council report.
 
@@ -337,7 +335,7 @@ The isotope gold-198 (half-life 2.7 days) is used, in nuclear medicine, in some 
 
 Cuisine
 
-Cake_with_pure_gold_(3038005040).jpg, Amsterdam ]]
+, Amsterdam ]]
 
 -   Gold can be used in food and has the E number 175.[174] In 2016, the European Food Safety Authority published an opinion on the re-evaluation of gold as a food additive. Concerns included the possible presence of minute amounts of gold nanoparticles in the food additive, and that gold nanoparticles have been shown to be genotoxic in mammalian cells in vitro.[175]
 -   Gold leaf, flake or dust is used on and in some gourmet foods, notably sweets and drinks as decorative ingredient.[176] Gold flake was used by the nobility in medieval Europe as a decoration in food and drinks,[177] in the form of leaf, flakes or dust, either to demonstrate the host's wealth or in the belief that something that valuable and rare must be beneficial for one's health.
@@ -346,7 +344,7 @@ Cake_with_pure_gold_(3038005040).jpg, Amsterdam ]]
 
 Miscellanea
 
-James_Webb_Space_Telescope_Mirror33.jpg coated in gold to reflect infrared light]]
+coated in gold to reflect infrared light]]
 
 -   Gold produces a deep, intense red color when used as a coloring agent in cranberry glass.
 -   In photography, gold toners are used to shift the color of silver bromide black-and-white prints towards brown or blue tones, or to increase their stability. Used on sepia-toned prints, gold toners produce red tones. Kodak published formulas for several types of gold toners, which use gold as the chloride.[181]

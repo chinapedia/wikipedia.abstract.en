@@ -11,7 +11,7 @@ The term may be an original invention of Paracelsus, possibly deriving the term 
 
 In Romanticism and modern fairy tales
 
-CarlSpitzwegGnomEisenbahnbetrachtend.jpg'', Carl Spitzweg, 1848]]
+'', Carl Spitzweg, 1848]]
 
 The English word is attested from the early 18th century. Gnomes are used in Alexander Pope's "The Rape of the Lock". The creatures from this mock-epic are small, celestial creatures which were prudish women in their past-lives, and now spend all of eternity looking out for prudish women (in parallel to the guardian angels in Catholic belief). Other uses of the term _gnome_ remain obscure until the early 19th century, when it is taken up by authors of Romanticist collections of fairy tales and becomes mostly synonymous with the older word _goblin_.
 
@@ -56,7 +56,7 @@ After World War II (with early references, in ironic use, from the late 1930s) t
 
 Gnome-themed parks
 
-Wieliczka-color.jpg, Poland|alt=]] Several gnome themed entertainment parks exist. Notable ones are:
+, Poland|alt=]] Several gnome themed entertainment parks exist. Notable ones are:
 
 -   The Gnome Reserve, at West Putford near Bradworthy in North Devon, United Kingdom
 -   Gnomeland, at Watermouth Castle in Berrynarbor, North Devon, United Kingdom

@@ -1,4 +1,4 @@
-Su_Song_Star_Map_1.JPG with a cylindrical projection. Su Song's star maps represent the oldest existent ones in printed form.]]
+with a cylindrical projection. Su Song's star maps represent the oldest existent ones in printed form.]]
 
 Astronomy is the oldest of the natural sciences, dating back to antiquity, with its origins in the religious, mythological, cosmological, calendrical, and astrological beliefs and practices of prehistory: vestiges of these are still found in astrology, a discipline long interwoven with public and governmental astronomy. It was not completely separated in Europe (see astrology and astronomy) during the Copernican Revolution starting in 1543. In some cultures, astronomical data was used for astrological prognostication.
 
@@ -9,14 +9,14 @@ Early history
 
 Early cultures identified celestial objects with gods and spirits.[1] They related these objects (and their movements) to phenomena such as rain, drought, seasons, and tides. It is generally believed that the first astronomers were priests, and that they understood celestial objects and events to be manifestations of the divine, hence early astronomy's connection to what is now called astrology. Ancient structures with possibly astronomical alignments (such as Stonehenge) probably fulfilled astronomical, religious, and social functions.
 
-Calendars of the world have often been set by observations of the Sun and Moon (marking the day, month and year), and were important to agricultural societies, in which the harvest depended on planting at the correct time of year, and for which the nearly full moon was the only lighting for night-time travel into city markets.[2] Equinozio_da_Pizzo_Vento,tramonto_fondachelli_fantina,_sicilia.JPG from the prehistoric site of Pizzo Vento at Fondachelli Fantina, Sicily]]
+Calendars of the world have often been set by observations of the Sun and Moon (marking the day, month and year), and were important to agricultural societies, in which the harvest depended on planting at the correct time of year, and for which the nearly full moon was the only lighting for night-time travel into city markets.[2] from the prehistoric site of Pizzo Vento at Fondachelli Fantina, Sicily]]
 
 The common modern calendar is based on the Roman calendar. Although originally a lunar calendar, it broke the traditional link of the month to the phases of the Moon and divided the year into twelve almost-equal months, that mostly alternated between thirty and thirty-one days. Julius Caesar instigated calendar reform in 46 BCE and introduced what is now called the Julian calendar, based upon the 365 {{fraction originally proposed by the 4th century BCE Greek astronomer Callippus.
 
 
 Prehistoric Europe
 
-Nebra_Scheibe.jpg Germany 1600 BC]] Berlin_Gold_hat_calendar.jpg c. 1000 BC]] Since 1990 our understanding of prehistoric Europeans has been radically changed by discoveries of ancient astronomical artifacts throughout Europe. The artifacts demonstrate that Neolithic and Bronze Age Europeans had a sophisticated knowledge of mathematics and astronomy.
+Germany 1600 BC]] c. 1000 BC]] Since 1990 our understanding of prehistoric Europeans has been radically changed by discoveries of ancient astronomical artifacts throughout Europe. The artifacts demonstrate that Neolithic and Bronze Age Europeans had a sophisticated knowledge of mathematics and astronomy.
 
 Among the discoveries are:
 
@@ -32,7 +32,7 @@ Ancient times
 
 Mesopotamia
 
-Babylonian_tablet_recording_Halley's_comet.jpg recording Halley's comet in 164 BC.]]
+recording Halley's comet in 164 BC.]]
 
 The origins of Western astronomy can be found in Mesopotamia, the "land between the rivers" Tigris and Euphrates, where the ancient kingdoms of Sumer, Assyria, and Babylonia were located. A form of writing known as cuneiform emerged among the Sumerians around 3500–3000 BC. Our knowledge of Sumerian astronomy is indirect, via the earliest Babylonian star catalogues dating from about 1200 BC. The fact that many star names appear in Sumerian suggests a continuity reaching into the Early Bronze Age. Astral theology, which gave planetary gods an important role in Mesopotamian mythology and religion, began with the Sumerians. They also used a sexagesimal (base 60) place-value number system, which simplified the task of recording very large and very small numbers. The modern practice of dividing a circle into 360 degrees, or an hour into 60 minutes, began with the Sumerians. For more information, see the articles on Babylonian numerals and mathematics.
 
@@ -48,7 +48,7 @@ Babylonian astronomy was the basis for much of what was done in Greek and Hellen
 
 India
 
-Jantar_Mantar_at_Jaipur.jpg observatory in Jaipur, India.]]
+observatory in Jaipur, India.]]
 
 Astronomy in the Indian subcontinent dates back to the period of Indus Valley Civilization during 3rd millennium BCE, when it was used to create calendars.[19] As the Indus Valley civilization did not leave behind written documents, the oldest extant Indian astronomical text is the Vedanga Jyotisha, dating from the Vedic period.[20] Vedanga Jyotisha describes rules for tracking the motions of the Sun and the Moon for the purposes of ritual. During the 6th century, astronomy was influenced by the Greek and Byzantine astronomical traditions.[21][22]
 
@@ -64,7 +64,7 @@ Other important astronomers from India include Madhava of Sangamagrama, Nilakant
 
 Greece and Hellenistic world
 
-NAMA_Machine_d'Anticythère_1.jpg was an analog computer from 150–100 BC designed to calculate the positions of astronomical objects.]]
+was an analog computer from 150–100 BC designed to calculate the positions of astronomical objects.]]
 
 The Ancient Greeks developed astronomy, which they treated as a branch of mathematics, to a highly sophisticated level. The first geometrical, three-dimensional models to explain the apparent motion of the planets were developed in the 4th century BC by Eudoxus of Cnidus and Callippus of Cyzicus. Their models were based on nested homocentric spheres centered upon the Earth. Their younger contemporary Heraclides Ponticus proposed that the Earth rotates around its axis.
 
@@ -80,7 +80,7 @@ Depending on the historian's viewpoint, the acme or corruption of physical Greek
 
 Egypt
 
-Senenmut-Grab.JPG, 18th dynasty[32]]]
+, 18th dynasty[32]]]
 
 The precise orientation of the Egyptian pyramids affords a lasting demonstration of the high degree of technical skill in watching the heavens attained in the 3rd millennium BC. It has been shown the Pyramids were aligned towards the pole star, which, because of the precession of the equinoxes, was at that time Thuban, a faint star in the constellation of Draco.[33] Evaluation of the site of the temple of Amun-Re at Karnak, taking into account the change over time of the obliquity of the ecliptic, has shown that the Great Temple was aligned on the rising of the midwinter Sun.[34] The length of the corridor down which sunlight would travel would have limited illumination at other times of the year.
 
@@ -96,7 +96,7 @@ From the tables of stars on the ceiling of the tombs of Rameses VI and Rameses I
 
 China
 
-Su_Song_Star_Map_2.JPG star map of Su Song (1020–1101) showing the south polar projection.]]
+star map of Su Song (1020–1101) showing the south polar projection.]]
 
 The astronomy of East Asia began in China. Solar term was completed in Warring States period. The knowledge of Chinese astronomy was introduced into East Asia.
 
@@ -110,14 +110,14 @@ The world's first star catalogue was made by Gan De, a Chinese astronomer, in th
 
 Mesoamerica
 
-Chichen_Itza_Observatory_2_1.jpg, Mexico.]] Maya astronomical codices include detailed tables for calculating phases of the Moon, the recurrence of eclipses, and the appearance and disappearance of Venus as morning and evening star. The Maya based their calendrics in the carefully calculated cycles of the Pleiades, the Sun, the Moon, Venus, Jupiter, Saturn, Mars, and also they had a precise description of the eclipses as depicted in the Dresden Codex, as well as the ecliptic or zodiac, and the Milky Way was crucial in their Cosmology.[37] A number of important Maya structures are believed to have been oriented toward the extreme risings and settings of Venus. To the ancient Maya, Venus was the patron of war and many recorded battles are believed to have been timed to the motions of this planet. Mars is also mentioned in preserved astronomical codices and early mythology.[38]
+, Mexico.]] Maya astronomical codices include detailed tables for calculating phases of the Moon, the recurrence of eclipses, and the appearance and disappearance of Venus as morning and evening star. The Maya based their calendrics in the carefully calculated cycles of the Pleiades, the Sun, the Moon, Venus, Jupiter, Saturn, Mars, and also they had a precise description of the eclipses as depicted in the Dresden Codex, as well as the ecliptic or zodiac, and the Milky Way was crucial in their Cosmology.[37] A number of important Maya structures are believed to have been oriented toward the extreme risings and settings of Venus. To the ancient Maya, Venus was the patron of war and many recorded battles are believed to have been timed to the motions of this planet. Mars is also mentioned in preserved astronomical codices and early mythology.[38]
 
 Although the Maya calendar was not tied to the Sun, John Teeple has proposed that the Maya calculated the solar year to somewhat greater accuracy than the Gregorian calendar.[39] Both astronomy and an intricate numerological scheme for the measurement of time were vitally important components of Maya religion.
 
 
 Medieval Middle East
 
-Astrolabium.jpg from 1208 AD]]
+from 1208 AD]]
 
 The Arabic and the Persian world under Islam had become highly cultured, and many important works of knowledge from Greek astronomy and Indian astronomy and Persian astronomy were translated into Arabic, used and stored in libraries throughout the area. An important contribution by Islamic astronomers was their emphasis on observational astronomy.[40] This led to the emergence of the first astronomical observatories in the Muslim world by the early 9th century.[41][42] Zij star catalogues were produced at these observatories.
 
@@ -132,7 +132,7 @@ Natural philosophy (particularly Aristotelian physics) was separated from astron
 
 Medieval Western Europe
 
-Aratea_93v.jpg on 18 March 816, from the Leiden Aratea.]]
+on 18 March 816, from the Leiden Aratea.]]
 
 After the significant contributions of Greek scholars to the development of astronomy, it entered a relatively static era in Western Europe from the Roman era through the 12th century. This lack of progress has led some astronomers to assert that nothing happened in Western European astronomy during the Middle Ages.[54] Recent investigations, however, have revealed a more complex picture of the study and teaching of astronomy in the period from the 4th to the 16th centuries.[55]
 
@@ -161,7 +161,7 @@ After the death of Brahe, Kepler was deemed his successor and was given the job 
 2.  A line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time.
 3.  The square of the orbital period of a planet is proportional to the cube of the semi-major axis of its orbit.[77]
 
-With these laws, he managed to improve upon the existing Heliocentric model. The first two were published in 1609. Kepler's contributions improved upon the overall system, giving it more credibility because it adequately explained events and could cause more reliable predictions. Before this the Copernican model was just as unreliable as the Ptolemaic model. This improvement came because Kepler realized the orbits were not perfect circles, but ellipses.galileo.arp.300pix.jpg (1564–1642) crafted his own telescope and discovered that the Moon had craters, that Jupiter had moons, that the Sun had spots, and that Venus had phases like the Moon. Portrait by Justus Sustermans.]]Galileo Galilei was among the first to use a telescope to observe the sky, and after constructing a 20x refractor telescope.[78] He discovered the four largest moons of Jupiter in 1610, which are now collectively known as the Galilean moons, in his honor.[79] This discovery was the first known observation of satellites orbiting another planet.[80] He also found that our Moon had craters and observed, and correctly explained, sunspots, and that Venus exhibited a full set of phases resembling lunar phases.[81] Galileo argued that these facts demonstrated incompatibility with the Ptolemaic model, which could not explain the phenomenon and would even contradict it.[82] With the moons it demonstrated that the Earth does not have to have everything orbiting it and that other parts of the Solar System could orbit another object, such as the Earth orbiting the Sun.[83] In the Ptolemaic system the celestial bodies were supposed to be perfect so such objects should not have craters or sunspots.[84] The phases of Venus could only happen in the event that Venus's orbit is insides Earth's orbit, which could not happen if the Earth was the center. He, as the most famous example, had to faced challenges from church officials, more specifically the Roman Inquisition.[85] They accused him of heresy because these beliefs went against the teachings of the Bible and were challenging the Catholic church's authority when it was at its weakest.[86] While he was able to avoid punishment for a little while he was eventually tried and pled guilty to heresy in 1633.[87] Although this came at some expense, his book was banned, and he was put under house arrest until he died in 1642.[88]Table_of_Astronomy,_Cyclopaedia,_Volume_1,_p_164.jpg'']]Sir Isaac Newton developed further ties between physics and astronomy through his law of universal gravitation. Realizing that the same force that attracts objects to the surface of the Earth held the Moon in orbit around the Earth, Newton was able to explain – in one theoretical framework – all known gravitational phenomena. In his _Philosophiae Naturalis Principia Mathematica_, he derived Kepler's laws from first principles. Those first principles are as follows:
+With these laws, he managed to improve upon the existing Heliocentric model. The first two were published in 1609. Kepler's contributions improved upon the overall system, giving it more credibility because it adequately explained events and could cause more reliable predictions. Before this the Copernican model was just as unreliable as the Ptolemaic model. This improvement came because Kepler realized the orbits were not perfect circles, but ellipses. (1564–1642) crafted his own telescope and discovered that the Moon had craters, that Jupiter had moons, that the Sun had spots, and that Venus had phases like the Moon. Portrait by Justus Sustermans.]]Galileo Galilei was among the first to use a telescope to observe the sky, and after constructing a 20x refractor telescope.[78] He discovered the four largest moons of Jupiter in 1610, which are now collectively known as the Galilean moons, in his honor.[79] This discovery was the first known observation of satellites orbiting another planet.[80] He also found that our Moon had craters and observed, and correctly explained, sunspots, and that Venus exhibited a full set of phases resembling lunar phases.[81] Galileo argued that these facts demonstrated incompatibility with the Ptolemaic model, which could not explain the phenomenon and would even contradict it.[82] With the moons it demonstrated that the Earth does not have to have everything orbiting it and that other parts of the Solar System could orbit another object, such as the Earth orbiting the Sun.[83] In the Ptolemaic system the celestial bodies were supposed to be perfect so such objects should not have craters or sunspots.[84] The phases of Venus could only happen in the event that Venus's orbit is insides Earth's orbit, which could not happen if the Earth was the center. He, as the most famous example, had to faced challenges from church officials, more specifically the Roman Inquisition.[85] They accused him of heresy because these beliefs went against the teachings of the Bible and were challenging the Catholic church's authority when it was at its weakest.[86] While he was able to avoid punishment for a little while he was eventually tried and pled guilty to heresy in 1633.[87] Although this came at some expense, his book was banned, and he was put under house arrest until he died in 1642.[88]'']]Sir Isaac Newton developed further ties between physics and astronomy through his law of universal gravitation. Realizing that the same force that attracts objects to the surface of the Earth held the Moon in orbit around the Earth, Newton was able to explain – in one theoretical framework – all known gravitational phenomena. In his _Philosophiae Naturalis Principia Mathematica_, he derived Kepler's laws from first principles. Those first principles are as follows:
 
 1.  In an inertial frame of reference, an object either remains at rest or continues to move at constant velocity, unless acted upon by a force.
 2.  In an inertial reference frame, the vector sum of the forces F on an object is equal to the mass m of that object multiplied by the acceleration a of the object: F = ma. (It is assumed here that the mass m is constant)
@@ -181,7 +181,7 @@ At first, astronomical thought in America was based on Aristotelian philosophy,[
 
 Modern astronomy
 
-Karte_Mars_Schiaparelli_MKL1888.png surface map of Giovanni Schiaparelli.]] In the 19th century it was discovered that (by Joseph von Fraunhofer), when sunlight was dispersed, a multitude of spectral lines were observed (regions where there was less or no light). Experiments with hot gases showed that the same lines could be observed in the spectra of gases, specific lines corresponding to unique elements. It was proved that the chemical elements found in the Sun (chiefly hydrogen and helium) were also found on Earth. During the 20th century spectroscopy (the study of these lines) advanced, especially because of the advent of quantum physics, that was necessary to understand the observations.
+surface map of Giovanni Schiaparelli.]] In the 19th century it was discovered that (by Joseph von Fraunhofer), when sunlight was dispersed, a multitude of spectral lines were observed (regions where there was less or no light). Experiments with hot gases showed that the same lines could be observed in the spectra of gases, specific lines corresponding to unique elements. It was proved that the chemical elements found in the Sun (chiefly hydrogen and helium) were also found on Earth. During the 20th century spectroscopy (the study of these lines) advanced, especially because of the advent of quantum physics, that was necessary to understand the observations.
 
 Although in previous centuries noted astronomers were exclusively male, at the turn of the 20th century women began to play a role in the great discoveries. In this period prior to modern computers, women at the United States Naval Observatory (USNO), Harvard University, and other astronomy research institutions began to be hired as human "computers", who performed the tedious calculations while scientists performed research requiring more background knowledge. 1 A number of discoveries in this period were originally noted by the women "computers" and reported to their supervisors. For example, at the Harvard Observatory Henrietta Swan Leavitt discovered the cepheid variable star period-luminosity relation which she further developed into a method of measuring distance outside of the Solar System.
 
@@ -190,7 +190,7 @@ Annie Jump Cannon, also at Harvard, organized the stellar spectral types accordi
 
 Cosmology and the expansion of the universe
 
-PIA16874-CobeWmapPlanckComparison-20130321.jpg (Cosmic microwave background) results from satellites COBE, WMAP and Planck documenting a progress in 1989–2013.]]
+(Cosmic microwave background) results from satellites COBE, WMAP and Planck documenting a progress in 1989–2013.]]
 
 Most of our current knowledge was gained during the 20th century. With the help of the use of photography, fainter objects were observed. The Sun was found to be part of a galaxy made up of more than 10¹⁰ stars (10 billion stars). The existence of other galaxies, one of the matters of _the great debate_, was settled by Edwin Hubble, who identified the Andromeda nebula as a different galaxy, and many others at large distances and receding, moving away from our galaxy.
 
@@ -199,7 +199,7 @@ Physical cosmology, a discipline that has a large intersection with astronomy, m
 
 New windows into the Cosmos open
 
-Hubble_01_Cropped.jpg.]]
+.]]
 
 In the 19th century, scientists began discovering forms of light which were invisible to the naked eye: X-Rays, gamma rays, radio waves, microwaves, ultraviolet radiation, and infrared radiation. This had a major impact on astronomy, spawning the fields of infrared astronomy, radio astronomy, x-ray astronomy and finally gamma-ray astronomy. With the advent of spectroscopy it was proven that other stars were similar to the Sun, but with a range of temperatures, masses and sizes. The existence of our galaxy, the Milky Way, as a separate group of stars was only proven in the 20th century, along with the existence of "external" galaxies, and soon after, the expansion of the universe seen in the recession of most galaxies from us.
 

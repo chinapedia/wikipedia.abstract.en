@@ -17,7 +17,7 @@ In 1596, Spenser wrote a prose pamphlet titled _A View of the Present State of I
 
 In 1598, during the Nine Years' War, Spenser was driven from his home by the native Irish forces of Aodh Ó Néill. His castle at Kilcolman was burned, and Ben Jonson, who may have had private information, asserted that one of his infant children died in the blaze.[14]
 
-Fowre_Hymnes_by_Edmund_Spenser_1596.jpg, _Fowre Hymnes_, by Edmund Spenser, published by William Ponsonby, London, 1596]]
+, _Fowre Hymnes_, by Edmund Spenser, published by William Ponsonby, London, 1596]]
 
 In the year after being driven from his home, 1599, Spenser travelled to London, where he died at the age of forty-six – "for want of bread", according to Ben Jonson – one of Jonson's more doubtful statements, since Spenser had a payment to him authorised by the government and was due his pension.[15] His coffin was carried to his grave in Poets' Corner in Westminster Abbey by other poets, who threw many pens and pieces of poetry into his grave with many tears. His second wife survived him and remarried twice. His sister Sarah, who had accompanied him to Ireland, married into the Travers family, and her descendants were prominent landowners in Cork for centuries.
 
@@ -35,12 +35,12 @@ This story seems to have attached itself to Spenser from Thomas Churchyard, who 
 
 _The Shepheardes Calender_
 
-Title_Page_of_a_1617_Edition_of_The_Shepherd's_Calendar.jpg _The Shepheardes Calender_ is Edmund Spenser's first major work, which appeared in 1579. It emulates Virgil's _Eclogues_ of the first century BCE and the _Eclogues_ of Mantuan by Baptista Mantuanus, a late medieval, early renaissance poet.[17] An eclogue is a short pastoral poem that is in the form of a dialogue or soliloquy. Although all the months together form an entire year, each month stands alone as a separate poem. Editions of the late 16th and early 17th centuries include woodcuts for each month/poem, and thereby have a slight similarity to an emblem book which combines a number of self-contained pictures and texts, usually a short vignette, saying, or allegory with an accompanying illustration.[18]
+_The Shepheardes Calender_ is Edmund Spenser's first major work, which appeared in 1579. It emulates Virgil's _Eclogues_ of the first century BCE and the _Eclogues_ of Mantuan by Baptista Mantuanus, a late medieval, early renaissance poet.[17] An eclogue is a short pastoral poem that is in the form of a dialogue or soliloquy. Although all the months together form an entire year, each month stands alone as a separate poem. Editions of the late 16th and early 17th centuries include woodcuts for each month/poem, and thereby have a slight similarity to an emblem book which combines a number of self-contained pictures and texts, usually a short vignette, saying, or allegory with an accompanying illustration.[18]
 
 
 _The Faerie Queene_
 
-The_Faerie_Queene_frontispiece.jpg Spenser's masterpiece is the epic poem _The Faerie Queene_. The first three books of _The Faerie Queene_ were published in 1590, and a second set of three books were published in 1596. Spenser originally indicated that he intended the poem to consist of twelve books, so the version of the poem we have today is incomplete. Despite this, it remains one of the longest poems in the English language.[19] It is an allegorical work, and can be read (as Spenser presumably intended) on several levels of allegory, including as praise of Queen Elizabeth I. In a completely allegorical context, the poem follows several knights in an examination of several virtues. In Spenser's "A Letter of the Authors", he states that the entire epic poem is "cloudily enwrapped in allegorical devises", and that the aim behind _The Faerie Queene_ was to "fashion a gentleman or noble person in virtuous and gentle discipline".[20]
+Spenser's masterpiece is the epic poem _The Faerie Queene_. The first three books of _The Faerie Queene_ were published in 1590, and a second set of three books were published in 1596. Spenser originally indicated that he intended the poem to consist of twelve books, so the version of the poem we have today is incomplete. Despite this, it remains one of the longest poems in the English language.[19] It is an allegorical work, and can be read (as Spenser presumably intended) on several levels of allegory, including as praise of Queen Elizabeth I. In a completely allegorical context, the poem follows several knights in an examination of several virtues. In Spenser's "A Letter of the Authors", he states that the entire epic poem is "cloudily enwrapped in allegorical devises", and that the aim behind _The Faerie Queene_ was to "fashion a gentleman or noble person in virtuous and gentle discipline".[20]
 
 
 Shorter poems

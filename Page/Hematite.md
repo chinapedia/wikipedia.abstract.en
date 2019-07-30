@@ -2,9 +2,9 @@ HEMATITE, also spelled as HAEMATITE, is a common iron oxide with the formula Feâ
 
 Hematite is colored black to steel or silver-gray, brown to reddish brown, or red. It is mined as the main ore of iron. Varieties include _kidney ore_, _martite_ (pseudomorphs after magnetite), _iron rose_ and _specularite_ (specular hematite). While the forms of hematite vary, they all have a rust-red streak. Hematite is harder than pure iron, but much more brittle. Maghemite is a hematite- and magnetite-related oxide mineral.
 
-Hematite_-_Titanomagnitite.jpg Huge deposits of hematite are found in banded iron formations. Gray hematite is typically found in places that can have still standing water or mineral hot springs, such as those in Yellowstone National Park in North America. The mineral can precipitate out of water and collect in layers at the bottom of a lake, spring, or other standing water. Hematite can also occur without water, however, usually as the result of volcanic activity.
+Huge deposits of hematite are found in banded iron formations. Gray hematite is typically found in places that can have still standing water or mineral hot springs, such as those in Yellowstone National Park in North America. The mineral can precipitate out of water and collect in layers at the bottom of a lake, spring, or other standing water. Hematite can also occur without water, however, usually as the result of volcanic activity.
 
-Clay-sized hematite crystals can also occur as a secondary mineral formed by weathering processes in soil, and along with other iron oxides or oxyhydroxides such as goethite, is responsible for the red color of many tropical, ancient, or otherwise highly weathered soils. Hematite_structure.jpg
+Clay-sized hematite crystals can also occur as a secondary mineral formed by weathering processes in soil, and along with other iron oxides or oxyhydroxides such as goethite, is responsible for the red color of many tropical, ancient, or otherwise highly weathered soils.
 
 
 Etymology and history
@@ -34,7 +34,7 @@ Hematite is present in the waste tailings of iron mines. A recently developed pr
 
 Mars
 
-07-ml-3-soil-mosaic-B019R1_br.jpg partly embedded in rock at the Opportunity landing site. Image is around across.]]
+partly embedded in rock at the Opportunity landing site. Image is around across.]]
 
 The spectral signature of hematite was seen on the planet Mars by the infrared spectrometer on the NASA _Mars Global Surveyor_ and _2001 Mars Odyssey_ spacecraft in orbit around Mars.[13] The mineral was seen in abundance at two sites[14] on the planet, the Terra Meridiani site, near the Martian equator at 0Â° longitude, and the Aram Chaos site near the Valles Marineris.[15] Several other sites also showed hematite, such as Aureum Chaos.[16] Because terrestrial hematite is typically a mineral formed in aqueous environments or by aqueous alteration, this detection was scientifically interesting enough that the second of the two Mars Exploration Rovers was sent to a site in the Terra Meridiani region designated Meridiani Planum. In-situ investigations by the _Opportunity_ rover showed a significant amount of hematite, much of it in the form of small spherules that were informally named "blueberries" by the science team. Analysis indicates that these spherules are apparently concretions formed from a water solution. "Knowing just how the hematite on Mars was formed will help us characterize the past environment and determine whether that environment was favorable for life".[17]
 

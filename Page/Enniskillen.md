@@ -19,7 +19,7 @@ The current site of Fermanagh College (now part of the South West College) was t
 
 Military history
 
-Enniskillen_Castle_by_Paride.JPG]] Enniskillen is the site of the foundation of two British Army regiments:
+]] Enniskillen is the site of the foundation of two British Army regiments:
 
 -   Royal Inniskilling Fusiliers
 -   The Inniskillings (6th Dragoons)
@@ -41,8 +41,6 @@ Miscellaneous
 -   Neil Hannon also mentions Enniskillen in his song Sunrise.
 
 -   The Irish language novel _Mo Dhá Mhicí_ by Séamus Mac Annaidh is set in Enniskillen.
-
-Enniskillen_Registry_Office_-_geograph.org.uk_-_485072.jpg
 
 
 Demography
@@ -87,8 +85,6 @@ The Köppen Climate Classification subtype for this climate is "Cfb" (Marine Wes
 
 
 Places of interest
-
-coles_monument.jpg
 
 -   Ardhowen Theatre
 -   Castle Coole
@@ -191,7 +187,7 @@ Notable natives and residents
 
 Education
 
-The_old_Enniskillen_Model_School_-_geograph.org.uk_-_1464238.jpg There are numerous schools and colleges in and around the Enniskillen area, from primary level to secondary level, including some further education colleges such as the technical college.
+There are numerous schools and colleges in and around the Enniskillen area, from primary level to secondary level, including some further education colleges such as the technical college.
 
 Primary level
 

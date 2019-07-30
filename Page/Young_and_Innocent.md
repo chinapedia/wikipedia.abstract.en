@@ -55,8 +55,6 @@ Aggregator Rotten Tomatoes reports 100% approval of _Young and Innocent_, with a
 
 Changes from the novel
 
-Girlwasyoungposter.jpg
-
 Significant changes were made in adapting the book for the film. The novel is a whodunit centred on the Scotland Yard inspector, who is Tey's regular character Alan Grant. The storyline involving Robert Tisdall, Erica Burgoyne, and the missing coat is similar to the film story, but in the novel it is only a subplot and ends part way through the book when Erica finds the coat and it is intact. Grant then focuses on other suspects, none of whom (including the actual murderer in the novel) appear in the film. Christine Clay in the novel is not divorced, but is in an unconventional marriage to an aristocrat.
 
 

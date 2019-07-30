@@ -1,4 +1,4 @@
-Balduineum_Wahl_Heinrich_VII.jpg'' showing the electors in deliberation (left to right: Archbishop of Cologne, Archbishop of Mainz, Archbishop of Trier, Count Palatine of the Rhine, Duke of Saxony, Margrave of Brandenburg and King of Bohemia).]] Sachsenspiegel_die_wahl_des_deutschen_Königs.jpg hands over a golden bowl, acting as a servant. Behind him, the Duke of Saxony with his marshall's staff and the Margrave of Brandenburg bringing a bowl of warm water, as a valet. Below, the new king in front of the great men of the empire (Heidelberg _Sachsenspiegel_, around 1300)]]
+'' showing the electors in deliberation (left to right: Archbishop of Cologne, Archbishop of Mainz, Archbishop of Trier, Count Palatine of the Rhine, Duke of Saxony, Margrave of Brandenburg and King of Bohemia).]] hands over a golden bowl, acting as a servant. Behind him, the Duke of Saxony with his marshall's staff and the Margrave of Brandenburg bringing a bowl of warm water, as a valet. Below, the new king in front of the great men of the empire (Heidelberg _Sachsenspiegel_, around 1300)]]
 
 The PRINCE-ELECTORS ( pl. _Kurfürsten_, , ) of the Holy Roman Empire, or ELECTORS for short, were the members of the electoral college that elected the Holy Roman Emperor.
 
@@ -28,7 +28,7 @@ In addition to voting by colleges or councils, the Imperial Diet also voted on r
 
 Elections
 
-Wapen_1545_Kaiserwappen_des_Heiligen_Römischen_Reichs_Polychromie.jpg (1545). Left to right: Cologne, Bohemia, Brandenburg, Saxony, the Palatinate, Trier, Mainz]] The electors were originally summoned by the Archbishop of Mainz within one month of an Emperor's death, and met within three months of being summoned. During the _interregnum_, imperial power was exercised by two imperial vicars. Each vicar, in the words of the Golden Bull, was "the administrator of the empire itself, with the power of passing judgments, of presenting to ecclesiastical benefices, of collecting returns and revenues and investing with fiefs, of receiving oaths of fealty for and in the name of the holy empire". The Elector of Saxony was vicar in areas operating under Saxon law (Saxony, Westphalia, Hanover, and northern Germany), while the Elector Palatine was vicar in the remainder of the Empire (Franconia, Swabia, the Rhine, and southern Germany). The Elector of Bavaria replaced the Elector Palatine in 1623, but when the latter was granted a new electorate in 1648, there was a dispute between the two as to which was vicar. In 1659, both purported to act as vicar, but the other vicar recognised the Elector of Bavaria. Later, the two electors made a pact to act as joint vicars, but the Imperial Diet rejected the agreement. In 1711, while the Elector of Bavaria was under the ban of the Empire, the Elector Palatine again acted as vicar, but his cousin was restored to his position upon his restoration three years later. Finally, in 1745, the two agreed to alternate as vicars, with Bavaria starting first. This arrangement was upheld by the Imperial Diet in 1752. In 1777 the question was settled when the Elector Palatine inherited Bavaria. On many occasions, however, there was no interregnum, as a new king had been elected during the lifetime of the previous Emperor.
+(1545). Left to right: Cologne, Bohemia, Brandenburg, Saxony, the Palatinate, Trier, Mainz]] The electors were originally summoned by the Archbishop of Mainz within one month of an Emperor's death, and met within three months of being summoned. During the _interregnum_, imperial power was exercised by two imperial vicars. Each vicar, in the words of the Golden Bull, was "the administrator of the empire itself, with the power of passing judgments, of presenting to ecclesiastical benefices, of collecting returns and revenues and investing with fiefs, of receiving oaths of fealty for and in the name of the holy empire". The Elector of Saxony was vicar in areas operating under Saxon law (Saxony, Westphalia, Hanover, and northern Germany), while the Elector Palatine was vicar in the remainder of the Empire (Franconia, Swabia, the Rhine, and southern Germany). The Elector of Bavaria replaced the Elector Palatine in 1623, but when the latter was granted a new electorate in 1648, there was a dispute between the two as to which was vicar. In 1659, both purported to act as vicar, but the other vicar recognised the Elector of Bavaria. Later, the two electors made a pact to act as joint vicars, but the Imperial Diet rejected the agreement. In 1711, while the Elector of Bavaria was under the ban of the Empire, the Elector Palatine again acted as vicar, but his cousin was restored to his position upon his restoration three years later. Finally, in 1745, the two agreed to alternate as vicars, with Bavaria starting first. This arrangement was upheld by the Imperial Diet in 1752. In 1777 the question was settled when the Elector Palatine inherited Bavaria. On many occasions, however, there was no interregnum, as a new king had been elected during the lifetime of the previous Emperor.
 
 Frankfurt regularly served as the site of the election from the fifteenth century on, but elections were also held at Cologne (1531), Regensburg (1575 and 1636), and Augsburg (1653 and 1690). An elector could appear in person or could appoint another elector as his proxy. More often, an electoral suite or embassy was sent to cast the vote; the credentials of such representatives were verified by the Archbishop of Mainz, who presided over the ceremony. The deliberations were held at the city hall, but voting occurred in the cathedral. In Frankfurt, a special electoral chapel, or _Wahlkapelle_, was used for elections. Under the Golden Bull, a majority of electors sufficed to elect a king, and each elector could cast only one vote. Electors were free to vote for whomsoever they pleased (including themselves), but dynastic considerations played a great part in the choice. Electors drafted a _Wahlkapitulation_, or electoral capitulation, which was presented to the king-elect. The capitulation may be described as a contract between the princes and the king, the latter conceding rights and powers to the electors and other princes. Once an individual swore to abide by the electoral capitulation, he assumed the office of King of the Romans.
 
@@ -37,35 +37,35 @@ In the 10th and 11th centuries, princes often acted merely to confirm hereditary
 
 High offices
 
-COA_family_de_Kurpfalz.svg, Arch-Steward and Prince-Elector.]] Coat_of_Arms_of_the_United_Kingdom_(1816-1837).svg, King of Great Britain and Ireland and Elector (later King) of Hanover.]] Each elector held a "High Office of the Empire" (_Reichserzämter_) and was a member of the (ceremonial) Imperial Household. The three spiritual electors were all Arch-Chancellors (, ): the Archbishop of Mainz was Arch-Chancellor of Germany, the Archbishop of Cologne was Arch-Chancellor of Italy, and the Archbishop of Trier was Arch-Chancellor of Burgundy. The other offices were as follows:
+, Arch-Steward and Prince-Elector.]] , King of Great Britain and Ireland and Elector (later King) of Hanover.]] Each elector held a "High Office of the Empire" (_Reichserzämter_) and was a member of the (ceremonial) Imperial Household. The three spiritual electors were all Arch-Chancellors (, ): the Archbishop of Mainz was Arch-Chancellor of Germany, the Archbishop of Cologne was Arch-Chancellor of Italy, and the Archbishop of Trier was Arch-Chancellor of Burgundy. The other offices were as follows:
 
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
-| Augmentation                     | Imperial office                | German           | Latin             | Elector                                     |
-+==================================+================================+==================+===================+=============================================+
-|                                  | Arch-Butler or Arch-Cupbearer  | Erzmundschenk    | Archipincerna     | King of Bohemia                             |
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
-| Arch_Steward_Arms.svg            | Arch-Seneschal or Arch-Steward | Erztruchseß      | Archidapifer      | Elector Palatine to 1623                    |
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
-| Elector of Bavaria, 1623–1706    |                                |                  |                   |                                             |
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
-| Elector Palatine, 1706–1714      |                                |                  |                   |                                             |
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
-| Elector of Bavaria, 1714–1806    |                                |                  |                   |                                             |
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
-| Arch-Marshal_Arms.svg            | Arch-Marshal                   | Erzmarschall     | Archimarescallus  | Elector of Saxony                           |
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
-| Arch_Chamberlain_Arms-single.svg | Arch-Chamberlain               | Erzkämmerer      | Archicamerarius   | Elector of Brandenburg                      |
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
-| Arch_Treasurer_Arms.svg          | Arch-Treasurer                 | Erzschatzmeister | Archithesaurarius | Elector Palatine, 1648–1706                 |
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
-| Elector of Hanover, 1710–1714    |                                |                  |                   |                                             |
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
-| Elector Palatine, 1714–1777      |                                |                  |                   |                                             |
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
-| Elector of Hanover, 1777–1814    |                                |                  |                   |                                             |
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
-|                                  | Arch-Bannerbearer              | Erzbannerträger  | Archivexillarius  | Elector of Hanover, 1708–1710 and 1714–1777 |
-+----------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
+| Augmentation                  | Imperial office                | German           | Latin             | Elector                                     |
++===============================+================================+==================+===================+=============================================+
+|                               | Arch-Butler or Arch-Cupbearer  | Erzmundschenk    | Archipincerna     | King of Bohemia                             |
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
+|                               | Arch-Seneschal or Arch-Steward | Erztruchseß      | Archidapifer      | Elector Palatine to 1623                    |
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
+| Elector of Bavaria, 1623–1706 |                                |                  |                   |                                             |
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
+| Elector Palatine, 1706–1714   |                                |                  |                   |                                             |
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
+| Elector of Bavaria, 1714–1806 |                                |                  |                   |                                             |
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
+|                               | Arch-Marshal                   | Erzmarschall     | Archimarescallus  | Elector of Saxony                           |
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
+|                               | Arch-Chamberlain               | Erzkämmerer      | Archicamerarius   | Elector of Brandenburg                      |
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
+|                               | Arch-Treasurer                 | Erzschatzmeister | Archithesaurarius | Elector Palatine, 1648–1706                 |
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
+| Elector of Hanover, 1710–1714 |                                |                  |                   |                                             |
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
+| Elector Palatine, 1714–1777   |                                |                  |                   |                                             |
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
+| Elector of Hanover, 1777–1814 |                                |                  |                   |                                             |
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
+|                               | Arch-Bannerbearer              | Erzbannerträger  | Archivexillarius  | Elector of Hanover, 1708–1710 and 1714–1777 |
++-------------------------------+--------------------------------+------------------+-------------------+---------------------------------------------+
 
 When the Duke of Bavaria replaced the Elector Palatine in 1623, he assumed the latter's office of Arch-Steward. When the Count Palatine was granted a new electorate, he assumed the position of Arch-Treasurer of the Empire. When the Duke of Bavaria was banned in 1706, the Elector Palatine returned to the office of Arch-Steward, and in 1710 the Elector of Hanover was promoted to the post of Arch-Treasurer. Matters were complicated by the Duke of Bavaria's restoration in 1714; the Elector of Bavaria resumed the office of Arch-Steward, while the Elector Palatine returned to the post of Arch-Treasurer, and the Elector of Hanover was given the new office of Archbannerbearer. The Electors of Hanover, however, continued to be styled Arch-Treasurers, though the Elector Palatine was the one who actually exercised the office until 1777, when he inherited Bavaria and the Arch-Stewardship. After 1777, no further changes were made to the Imperial Household; new offices were planned for the Electors admitted in 1803, but the Empire was abolished before they could be created. The Duke of Württemberg, however, started to adopt the trappings of the Arch-Bannerbearer.
 
@@ -76,7 +76,7 @@ The electors discharged the ceremonial duties associated with their offices only
 
 History
 
-Philipp_Veit_008.jpg]]
+]]
 
 The German practice of electing monarchs began when ancient Germanic tribes formed _ad hoc_ coalitions and elected the leaders thereof. Elections were irregularly held by the Franks, whose successor states include France and the Holy Roman Empire. The French monarchy eventually became hereditary, but the Holy Roman Emperors remained elective, at least in theory, although the Habsburgs provided most of the later monarchs. While all free men originally exercised the right to vote in such elections, suffrage eventually came to be limited to the leading men of the realm. In the election of Lothar II in 1125, a small number of eminent nobles chose the monarch and then submitted him to the remaining magnates for their approbation.
 
@@ -103,8 +103,6 @@ The Palatinate and Bavaria were originally (since 1214) held by the same individ
 Meanwhile, the King of Bohemia, who held the ancient imperial office of Arch-Cupbearer, asserted his right to participate in elections. Sometimes he was challenged on the grounds that his kingdom was not German, though usually he was recognized, instead of Bavaria which after all was just a younger line of Wittelsbachs.
 
 The Declaration of Rhense issued in 1338 had the effect that election by the majority of the electors automatically conferred the royal title and rule over the empire, without papal confirmation. The Golden Bull of 1356 finally resolved the disputes among the electors. Under it, the Archbishops of Mainz, Trier, and Cologne, as well as the King of Bohemia, the Count Palatine of the Rhine, the Duke of Saxony, and the Margrave of Brandenburg held the right to elect the King.
-
-Westfaelischer_Friede_in_Muenster_(Gerard_Terborch_1648).jpg
 
 The college's composition remained unchanged until the 17th century, although the Electorate of Saxony was transferred from the senior to the junior branch of the Wettin family in 1547, in the aftermath of the Schmalkaldic War.
 

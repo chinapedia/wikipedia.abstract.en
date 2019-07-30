@@ -3,8 +3,6 @@ The AZAWAKH is a sighthound livestock guardian breed of dog from West Africa. It
 
 Description
 
-Azawakh_male_Greboun_de_Garde-Epee.jpg
-
 Appearance
 
 Morphology is very similar to that of the Middle Eastern and South Indian sight hounds, all swift, high-bred coursing hounds, although there are several obvious differences. For example, a short, flat back combined with long legs place the hips higher than the withers. The Azawakh is almond eyed and thin. It moves with a distinctly feline gait and can be found in a variety of colors as well as varying degrees of refinement, though format is basically constant.
@@ -15,18 +13,18 @@ The standards call for a hound from ; its height is . The coat is very short and
 
 Colours
 
-Fahim_Kel_Az'Amour.JPG Colours permitted by the Fédération Cynologique Internationale (FCI) breed standard are clear sand to dark fawn/brown, red and brindle (with or without a dark mask), with white bib, tail tip, and white on all feet (which can be tips of toes to high stockings). Since 2015 white stockings that go above the elbow joint are considered disqualifying features in the FCI member countries, as is a white collar or half collar (Irish marked).
+Colours permitted by the Fédération Cynologique Internationale (FCI) breed standard are clear sand to dark fawn/brown, red and brindle (with or without a dark mask), with white bib, tail tip, and white on all feet (which can be tips of toes to high stockings). Since 2015 white stockings that go above the elbow joint are considered disqualifying features in the FCI member countries, as is a white collar or half collar (Irish marked).
 
 Some conservationists support the idea that in Africa, Azawakhs are still found in a variety of colours such as red, blue fawn (that is, with a lilac cast), grizzle, and, rarely, blue and black with various white markings including Irish marked (white collar) and particolour (mostly white).[2] Because of this wide color variation in the native population, the American standard used by the AKC and UKC allows any color combination found in Africa. (AKC and UKC are not a member of the FCI)
 
 Movement
 
-The Azawakh's light, supple, lissome gait is a notable breed characteristic, as is an upright double suspension gallop. Gao_nou2.jpg
+The Azawakh's light, supple, lissome gait is a notable breed characteristic, as is an upright double suspension gallop.
 
 
 Health
 
-Chart_afrykański_azawakh_31.jpg Chart_afrykański_Azawakh_II_654.jpg Azawakhs are an incredibly sound coursing hound. Serious injuries are rare. The dogs heal very quickly from injury.
+Azawakhs are an incredibly sound coursing hound. Serious injuries are rare. The dogs heal very quickly from injury.
 
 Azawakh have no known incidence of hip dysplasia. There is a small occurrence of adult-onset idiopathic epilepsy in the breed. Wobbler disease, or cervical vertebral instability, does rarely occur. Some breeders believe this is largely a developmental problem where puppies grow too quickly due to a high-protein Western diet.
 
@@ -69,7 +67,7 @@ The breed is relatively uncommon in Europe and North America but there is a grow
 
 Origin
 
-Azawakh_52_jd.jpg]] Azawakh_12_big.jpg The breed originated from the pariah dogs of sub-Saharan Africa—also called _bush dogs_ or _basenji_—and is also closely related to the Sloughi of the Maghreb. Despite morphological similarities, mitochondrial DNA evidence shows that it is only very distantly related to other sight hounds. Azawakh have a rare glucose isomerase allele (GPI^(B)) that occurs only in foxes, jackals, Italian wolves, Sloughi dogs and a handful of other quite unrelated rare dogs found mostly in Japan. The presence of the GPI^(B) suggests an ancient differentiation of the Azawakh from other dog populations. Petroglyph rock art dating from 8,000 to 10,000 years ago during the Green Sahara (also known as the Holocene and Neolithic Subpluvial) shows cursorial dogs in conjunction with hunters. Archaeologists have found dog bones buried in Holocene settlements in the Sahara. At the close of the Holocene Wet Phase in the 4th millennium BCE, the Sahara returned to desert and created a formidable physical barrier to travel. Together, this evidence suggests that the Azawakh population has a unique genetic heritage and that it has been largely isolated from other dog populations for millennia.
+]] The breed originated from the pariah dogs of sub-Saharan Africa—also called _bush dogs_ or _basenji_—and is also closely related to the Sloughi of the Maghreb. Despite morphological similarities, mitochondrial DNA evidence shows that it is only very distantly related to other sight hounds. Azawakh have a rare glucose isomerase allele (GPI^(B)) that occurs only in foxes, jackals, Italian wolves, Sloughi dogs and a handful of other quite unrelated rare dogs found mostly in Japan. The presence of the GPI^(B) suggests an ancient differentiation of the Azawakh from other dog populations. Petroglyph rock art dating from 8,000 to 10,000 years ago during the Green Sahara (also known as the Holocene and Neolithic Subpluvial) shows cursorial dogs in conjunction with hunters. Archaeologists have found dog bones buried in Holocene settlements in the Sahara. At the close of the Holocene Wet Phase in the 4th millennium BCE, the Sahara returned to desert and created a formidable physical barrier to travel. Together, this evidence suggests that the Azawakh population has a unique genetic heritage and that it has been largely isolated from other dog populations for millennia.
 
 In the common era the Sahel dogs are almost totally isolated from northern dogs by the Sahara, but the ties to the pariah dogs to the south are extremely close. Azawakh are virtually indistinguishable from the Sahel pariah dog population from which they are drawn. In addition to a basic physical structure, the Azawakh share a number of unique traits with the pariah dogs:
 

@@ -3,12 +3,12 @@ D (named _dee_ [1]) is the fourth letter of the modern English alphabet and the 
 
 History
 
-+----------------------+--------------------+-----------------+------------------+---------------+
-| Egyptian hieroglyph  | Phoenician         | Greek           | Etruscan         | Roman         |
-| door, fish           | _daleth_           | _Delta_         | D                | D             |
-+======================+====================+=================+==================+===============+
-| O31K1K2              | PhoenicianD-01.png | Delta_uc_lc.svg | EtruscanD-01.svg | RomanD-01.png |
-+----------------------+--------------------+-----------------+------------------+---------------+
++----------------------+------------+---------+-----------+-------+
+| Egyptian hieroglyph  | Phoenician | Greek   | Etruscan  | Roman |
+| door, fish           | _daleth_   | _Delta_ | D         | D     |
++======================+============+=========+===========+=======+
+| O31K1K2              |            |         |           |       |
++----------------------+------------+---------+-----------+-------+
 
 The Semitic letter Dāleth may have developed from the logogram for a fish or a door. There are many different Egyptian hieroglyphs that might have inspired this. In Semitic, Ancient Greek and Latin, the letter represented ; in the Etruscan alphabet the letter was superfluous but still retained (see letter B). The equivalent Greek letter is Delta, Δ.
 
@@ -17,7 +17,7 @@ The minuscule (lower-case) form of 'd' consists of a loop and a tall vertical st
 
 Use in writing systems
 
-Boundary_stone_on_the_Demeljoch_-_2.jpg for "Germany"), on a boundary stone at the border between Austria and Germany.]] In most languages that use the Latin alphabet, and in the International Phonetic Alphabet, generally represents the voiced alveolar or voiced dental plosive . However, in the Vietnamese alphabet, it represents the sound in northern dialects or in southern dialects. (See D with stroke and Dz (digraph).) In Fijian it represents a prenasalized stop .[2] In some languages where voiceless unaspirated stops contrast with voiceless aspirated stops, represents an unaspirated , while represents an aspirated . Examples of such languages include Icelandic, Scottish Gaelic, Navajo and the Pinyin transliteration of Mandarin.
+for "Germany"), on a boundary stone at the border between Austria and Germany.]] In most languages that use the Latin alphabet, and in the International Phonetic Alphabet, generally represents the voiced alveolar or voiced dental plosive . However, in the Vietnamese alphabet, it represents the sound in northern dialects or in southern dialects. (See D with stroke and Dz (digraph).) In Fijian it represents a prenasalized stop .[2] In some languages where voiceless unaspirated stops contrast with voiceless aspirated stops, represents an unaspirated , while represents an aspirated . Examples of such languages include Icelandic, Scottish Gaelic, Navajo and the Pinyin transliteration of Mandarin.
 
 
 Other uses

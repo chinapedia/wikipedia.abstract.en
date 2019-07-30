@@ -38,7 +38,7 @@ The King made Hamarhus a feudal seat until 1649, when Frederick III transferred 
 
 The founding of modern Hamar
 
-Original_city_map_for_Hamar_Norway_1848.png As early as 1755, the Danish government in Copenhagen expressed an interest in establishing a trading center on Mjøsa. Elverum was considered a frontier town with frequent unrest, and there was even talk of encouraging the dissenting Hans Nielsen Hauge to settle in the area. Bishop Fredrik Julius Bech, one of the most prominent officials of his time, proposed establishing a town at or near Storhamar, at the foot of Furuberget.
+As early as 1755, the Danish government in Copenhagen expressed an interest in establishing a trading center on Mjøsa. Elverum was considered a frontier town with frequent unrest, and there was even talk of encouraging the dissenting Hans Nielsen Hauge to settle in the area. Bishop Fredrik Julius Bech, one of the most prominent officials of his time, proposed establishing a town at or near Storhamar, at the foot of Furuberget.
 
 In 1812, negotiations started in earnest, when the regional governor of Kristians Amt, proposed establishing a market on Mjøsa. A four-person commission was named on 26 July 1814, with the mandate of determining a suitable site for a new town along the shore. On 8 June 1815, the commission recommended establishing such a town at Lillehammer, then also a farm, part of Fåberg.
 
@@ -54,7 +54,7 @@ On 26 April 1848, the king signed into law the establishment of Hamar on the gro
 
 Building a city
 
-Hamar_lindahl_3.jpg The area of the new town covered 400 mål which is the equivalent to today's (40 hectare). An army engineer, Røyem, drafted the initial plan. There would be three thoroughfares, at Strandgata, Torggata, and Grønnegate (the latter the name of a medieval road) and a grid system of streets between them. The orientation of the town was toward the shore. Røyem set aside space for three parks and a public square, and also room for a church just outside the town's borders.
+The area of the new town covered 400 mål which is the equivalent to today's (40 hectare). An army engineer, Røyem, drafted the initial plan. There would be three thoroughfares, at Strandgata, Torggata, and Grønnegate (the latter the name of a medieval road) and a grid system of streets between them. The orientation of the town was toward the shore. Røyem set aside space for three parks and a public square, and also room for a church just outside the town's borders.
 
 There were critics of the plan, pointing out that the terrain was hilly and not suitable for the proposed rigid grid. Some adjustments were made, but the plan was largely accepted and is evident in today's Hamar. There were also lingering concerns about the town's vulnerability to flooding.
 
@@ -70,7 +70,7 @@ A promenade came into being from the harbor area, past the gardens on the shore,
 
 Establishment of government
 
-Hamar_kommunekart.png The first executive of Hamar was Johannes Bay, who arrived in October 1849 to facilitate an election of a board of supervisors and representatives. The town's Royal Charter called for the election of 3 supervisors and 9 representatives, and elections were announced in the paper and through town crier. Of the 10 eligible town citizens, three supervisors were elected, and the remaining six were elected by consent to be representatives, resulting in a shortfall of 3 on the board. The first mayor of Hamar was Christian Borchgrevink.
+The first executive of Hamar was Johannes Bay, who arrived in October 1849 to facilitate an election of a board of supervisors and representatives. The town's Royal Charter called for the election of 3 supervisors and 9 representatives, and elections were announced in the paper and through town crier. Of the 10 eligible town citizens, three supervisors were elected, and the remaining six were elected by consent to be representatives, resulting in a shortfall of 3 on the board. The first mayor of Hamar was Christian Borchgrevink.
 
 The first order of business was the allocation of liquor licenses and the upper limit of alcohol that could be sold within the town limits. The board quickly decided to award licenses to both applicants and set the upper limit to 12,000 "pots" of liquor, an amount that was for all intents and purposes limitless.
 
@@ -93,7 +93,7 @@ Then in 1889, there were riots in Hamar over the arrest of one of their own cons
 
 Cityscape
 
-Koigen_og_Mjøsa.jpg The Hedmark museum, located on Domkirkeodden, is an important historical landmark in Hamar, an outdoor museum with remains of the medieval church, in a protective glass housing, the episcopal fortress and a collection of old farm houses. The institution is a combined medieval, ethnological and archaeological museum, and has received architectural prizes for its approach to conservation and exhibition. It also houses a vast photographic archive for the Hedmark region.
+The Hedmark museum, located on Domkirkeodden, is an important historical landmark in Hamar, an outdoor museum with remains of the medieval church, in a protective glass housing, the episcopal fortress and a collection of old farm houses. The institution is a combined medieval, ethnological and archaeological museum, and has received architectural prizes for its approach to conservation and exhibition. It also houses a vast photographic archive for the Hedmark region.
 
 Additionally, Hamar is known for its indoor long track speed skating and bandy arena, the _Olympia Hall_, better known as Vikingskipet ("The Viking ship") for its shape. It was built to host the speed skating competitions of the 1994 Winter Olympics that were held in nearby Lillehammer. Already in 1993 it hosted the Bandy World Championship. The Vikingskipet Olympic Arena was later used in the winter of 2007 as the service park for Rally Norway, the second round of the 2007 World Rally Championship season. It has been the host for the world's second largest computer party The Gathering starting on the Wednesday in Easter each year, for the last 13 years.
 
@@ -104,7 +104,7 @@ The centre of Hamar is the pedestrian walkway in the middle of town, with the li
 
 Transport
 
-Hamar is an important railway junction between two different lines to Trondheim. Rørosbanen, the old railway line, branches off from the mainline Dovre Line. The Norwegian Railway Museum (_Norsk Jernbanemuseum_) is also in Hamar. Hamar_Railway_Station.jpg
+Hamar is an important railway junction between two different lines to Trondheim. Rørosbanen, the old railway line, branches off from the mainline Dovre Line. The Norwegian Railway Museum (_Norsk Jernbanemuseum_) is also in Hamar.
 
 
 Notable residents
@@ -112,7 +112,7 @@ Notable residents
 
 Sports
 
-1994_Winter_Olympics_venue_map.svg venues]] Vikingskipet,_Hamar,_Norway.jpg, an Olympic venue of 1994]]
+venues]] , an Olympic venue of 1994]]
 
 Team sports
 

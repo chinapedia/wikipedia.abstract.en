@@ -1,4 +1,4 @@
-Rujm_Al-Malfouf.jpg in Amman]] Qasralabdfront.jpg was built by the governor of Ammon in 200 BC]] 079.David_Attacks_the_Ammonites.jpg]] AMMON (; ) was an ancient Semitic-speaking nation occupying the east of the Jordan River, between the torrent valleys of Arnon and Jabbok, in present-day Jordan.[1][2] The chief city of the country was _Rabbah_ or _Rabbath Ammon_, site of the modern city of Amman, Jordan's capital. Milcom and Molech (who may be one and the same) are named in the Hebrew Bible as the gods of Ammon. The people of this kingdom are called "CHILDREN OF AMMON" or "AMMONITES".
+in Amman]] was built by the governor of Ammon in 200 BC]] ]] AMMON (; ) was an ancient Semitic-speaking nation occupying the east of the Jordan River, between the torrent valleys of Arnon and Jabbok, in present-day Jordan.[1][2] The chief city of the country was _Rabbah_ or _Rabbath Ammon_, site of the modern city of Amman, Jordan's capital. Milcom and Molech (who may be one and the same) are named in the Hebrew Bible as the gods of Ammon. The people of this kingdom are called "CHILDREN OF AMMON" or "AMMONITES".
 
 
 History
@@ -67,7 +67,7 @@ Archaeology
 
 Inscription
 
-In 1972, during the excavations of a site called Tell Siran in north-west Amman, an inscription on a bronze bottle of about 10 cm tall was found. Scientific investigation has showed that the inscription dates back to 600 BC, and later concluded that it was a lyric poem written in Ammonite language. The poem talks about a drinking song, roughly translated to:[32] Amman_Citadel_gate_005.JPG]]
+In 1972, during the excavations of a site called Tell Siran in north-west Amman, an inscription on a bronze bottle of about 10 cm tall was found. Scientific investigation has showed that the inscription dates back to 600 BC, and later concluded that it was a lyric poem written in Ammonite language. The poem talks about a drinking song, roughly translated to:[32] ]]
 
 
 See also

@@ -1,4 +1,4 @@
-Computer_monitor.jpg (LCD) computer monitor]] 20020811203148_-_NOI_2002.jpg (CRT) computer monitor]]
+(LCD) computer monitor]] (CRT) computer monitor]]
 
 A COMPUTER MONITOR is an output device that displays information in pictorial form. A monitor usually comprises the display device, circuitry, casing, and power supply. The display device in modern monitors is typically a thin film transistor liquid crystal display (TFT-LCD) with LED backlighting having replaced cold-cathode fluorescent lamp (CCFL) backlighting. Older monitors used a cathode ray tube (CRT). Monitors are connected to the computer via VGA, Digital Visual Interface (DVI), HDMI, DisplayPort, Thunderbolt, low-voltage differential signaling (LVDS) or other proprietary connectors and signals.
 
@@ -63,7 +63,7 @@ The performance of a monitor is measured by the following parameters:
 
 Size
 
-Screens_png.png.]] On two-dimensional display devices such as computer monitors the display size or view able image size is the actual amount of screen space that is available to display a picture, video or working space, without obstruction from the case or other aspects of the unit's design. The main measurements for display devices are: width, height, total area and the diagonal.
+.]] On two-dimensional display devices such as computer monitors the display size or view able image size is the actual amount of screen space that is available to display a picture, video or working space, without obstruction from the case or other aspects of the unit's design. The main measurements for display devices are: width, height, total area and the diagonal.
 
 The size of a display is usually by monitor manufacturers given by the diagonal, i.e. the distance between two opposite screen corners. This method of measurement is inherited from the method used for the first generation of CRT television, when picture tubes with circular faces were in common use. Being circular, it was the external diameter of the glass envelope that described their size. Since these circular tubes were used to display rectangular images, the diagonal measurement of the rectangular image was smaller than the diameter of the tube's face (due to the thickness of the glass). This method continued even when cathode ray tubes were manufactured as rounded rectangles; it had the advantage of being a single number specifying the size, and was not confusing when the aspect ratio was universally 4:3.
 
@@ -149,19 +149,13 @@ Rack mount
 
 Rack mount computer monitors are available in two styles and are intended to be mounted into a 19-inch rack:
 
-Rackmount-LCD.jpg
-
 Fixed
 
 A fixed rack mount monitor is mounted directly to the rack with the LCD visible at all times. The height of the unit is measured in rack units (RU) and 8U or 9U are most common to fit 17-inch or 19-inch LCDs. The front sides of the unit are provided with flanges to mount to the rack, providing appropriately spaced holes or slots for the rack mounting screws. A 19-inch diagonal LCD is the largest size that will fit within the rails of a 19-inch rack. Larger LCDs may be accommodated but are 'mount-on-rack' and extend forward of the rack. There are smaller display units, typically used in broadcast environments, which fit multiple smaller LCDs side by side into one rack mount.
 
-Rackmount-KVM.jpg
-
 Stowable
 
 A stowable rack mount monitor is 1U, 2U or 3U high and is mounted on rack slides allowing the display to be folded down and the unit slid into the rack for storage. The display is visible only when the display is pulled out of the rack and deployed. These units may include only a display or may be equipped with a keyboard creating a KVM (Keyboard Video Monitor). Most common are systems with a single LCD but there are systems providing two or three displays in a single rack mount system.
-
-Panel-Mount-LCD.jpg
 
 Panel mount
 

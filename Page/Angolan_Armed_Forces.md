@@ -12,8 +12,6 @@ The FAA succeeded to the previous People's Armed Forces for the Liberation of An
 
 Army
 
-Angolan_soldiers_training_in_Russia.png
-
 General description
 
 The Army (_Exército_) is the land component of the FAA. It is organized in six military regions (Cabinda, Luanda, North, Center, East and South), with an infantry division being based in each one. Distributed by the six military regions / infantry divisions, there are 25 motorized infantry brigades, one tank brigade and one engineering brigade. The Army also includes an artillery regiment, the Military Artillery School, the Army Military Academy, an anti-aircraft defense group, a composite land artillery group, a military police regiment, a logistical transportation regiment and a field artillery brigade. The Army further includes the Special Forces Brigade (including Commandos and Special Operations units), but this unit is under the direct command of the General Staff of the FAA.

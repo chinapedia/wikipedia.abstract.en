@@ -18,7 +18,7 @@ Gypsum was known in Old English as _spærstān_, "spear stone", referring to its
 
 Physical properties
 
-Gypsum_deformed_cristal-MCG_7747-P4150901-black.jpg Gypsum is moderately water-soluble (~2.0–2.5 g/l at 25 °C)[4] and, in contrast to most other salts, it exhibits retrograde solubility, becoming less soluble at higher temperatures. When gypsum is heated in air it loses water and converts first to calcium sulfate hemihydrate, (bassanite, often simply called "plaster") and, if heated further, to anhydrous calcium sulfate (anhydrite). As for anhydrite, its solubility in saline solutions and in brines is also strongly dependent on NaCl (common table salt) concentration.[5]
+Gypsum is moderately water-soluble (~2.0–2.5 g/l at 25 °C)[4] and, in contrast to most other salts, it exhibits retrograde solubility, becoming less soluble at higher temperatures. When gypsum is heated in air it loses water and converts first to calcium sulfate hemihydrate, (bassanite, often simply called "plaster") and, if heated further, to anhydrous calcium sulfate (anhydrite). As for anhydrite, its solubility in saline solutions and in brines is also strongly dependent on NaCl (common table salt) concentration.[5]
 
 Gypsum crystals are found to contain anion water and hydrogen bonding.[6]
 
@@ -131,7 +131,7 @@ The Occupational Safety and Health Administration (OSHA) has set the legal limit
 
 Uses
 
-2.-Calera._Cal_i_guix_(26561676342).jpg.]] Gypsum is used in a wide variety of applications:
+.]] Gypsum is used in a wide variety of applications:
 
 -   Gypsum board[19] is primarily used as a finish for walls and ceilings, and is known in construction as drywall, wallboard, sheetrock or plasterboard.
 -   Gypsum blocks are used like concrete blocks in building construction.

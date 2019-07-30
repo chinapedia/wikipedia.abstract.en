@@ -9,7 +9,7 @@ Although Chernobyl is mostly a ghost town today, a small number of animals and p
 
 Name
 
-Chernobyl_(11383710145).jpg The city's name is the same as a Ukrainian name for _Artemisia vulgaris_, mugwort or common wormwood, which is (or more commonly ).[3] The name is inherited from or , a compound of + , the parts related to and , so named in distinction to the lighter-stemmed wormwood _A. absinthium_.[4]
+The city's name is the same as a Ukrainian name for _Artemisia vulgaris_, mugwort or common wormwood, which is (or more commonly ).[3] The name is inherited from or , a compound of + , the parts related to and , so named in distinction to the lighter-stemmed wormwood _A. absinthium_.[4]
 
 The name in languages used nearby is:
 
@@ -28,7 +28,7 @@ The name in languages formerly used in the area is:
 
 History
 
-Свято-Іллінська_церква_в_Чорнобилі.jpg Chernobyl was originally part of the land of Kievan Rus′. The first known mention of Chernobyl is from an 1193 charter, which describes it as a hunting-lodge of Knyaz Rurik Rostislavich.[5][6] In the 13th century, it was a crown village of the Grand Duchy of Lithuania. The village was granted to Filon Kmita, a captain of the royal cavalry, as a fiefdom in 1566. The province where Chernobyl is located was transferred to the Kingdom of Poland in 1569, and later annexed by the Russian Empire in 1793.[7] Prior to the 20th century, Chernobyl was inhabited by Ukrainian, some Polish peasants and a relatively large number of Jews.
+Chernobyl was originally part of the land of Kievan Rus′. The first known mention of Chernobyl is from an 1193 charter, which describes it as a hunting-lodge of Knyaz Rurik Rostislavich.[5][6] In the 13th century, it was a crown village of the Grand Duchy of Lithuania. The village was granted to Filon Kmita, a captain of the royal cavalry, as a fiefdom in 1566. The province where Chernobyl is located was transferred to the Kingdom of Poland in 1569, and later annexed by the Russian Empire in 1793.[7] Prior to the 20th century, Chernobyl was inhabited by Ukrainian, some Polish peasants and a relatively large number of Jews.
 
 Jews were brought to Chernobyl by Filon Kmita, during the Polish campaign of colonization. After 1596, the traditionally Eastern Orthodox Ukrainian peasantry of the district were forcibly converted, by Poland, to the Greek Catholic Uniate religion. Many of these converts returned to Eastern Orthodoxy after the Partitions of Poland.
 
@@ -48,7 +48,7 @@ Twenty years later, the area was chosen as the site of the first nuclear power s
 
 Chernobyl nuclear reactor disaster
 
-Černobyl,_18.jpg'' Memorial Complex]] Memorial_to_Those_who_Saved_the_World_(26564702649).jpg]]
+'' Memorial Complex]] ]]
 
 On 26 April 1986, Reactor No. 4 at the Chernobyl Nuclear Power Plant exploded after unsanctioned experiments on the reactor by plant operators were done improperly and the operators lost control. The loss of control was due to design flaws of the RBMK reactor, which made it unstable when operated at low power, and prone to thermal runaway where increases in temperature increase reactor power output.[13][14]
 
@@ -64,8 +64,6 @@ In 2003, the United Nations Development Programme launched a project, called the
 
 
 Personalities
-
-Jan_Mikałaj_Chadkievič._Ян_Мікалай_Хадкевіч.jpg
 
 -   Aaron Twersky of Chernobyl (1784–1871), rabbi
 -   Alexander Krasnoshchyokov (1880–1937), politician

@@ -12,7 +12,7 @@ International career
 
 Young master
 
-Anatoly_Karpov_(1967).jpg Karpov finished first in his first international tournament in Třinec several months later, ahead of Viktor Kupreichik. In 1967, he won the annual European Junior Championship at Groningen.[8] Karpov won a gold medal for academic excellence in high school, and entered Moscow State University in 1968 to study mathematics. He later transferred to Leningrad State University, eventually graduating from there in economics. One reason for the transfer was to be closer to his coach, grandmaster Semyon Furman, who lived in Leningrad. In his writings, Karpov credits Furman as a major influence on his development as a world-class player.
+Karpov finished first in his first international tournament in Třinec several months later, ahead of Viktor Kupreichik. In 1967, he won the annual European Junior Championship at Groningen.[8] Karpov won a gold medal for academic excellence in high school, and entered Moscow State University in 1968 to study mathematics. He later transferred to Leningrad State University, eventually graduating from there in economics. One reason for the transfer was to be closer to his coach, grandmaster Semyon Furman, who lived in Leningrad. In his writings, Karpov credits Furman as a major influence on his development as a world-class player.
 
 In 1969, Karpov became the first Soviet player since Spassky (1955) to win the World Junior Chess Championship, scoring an undefeated 10/11 in the finals at Stockholm.[9] In 1970, he tied for fourth place at an international tournament in Caracas, Venezuela,[10] and was awarded the grandmaster title.
 
@@ -56,7 +56,7 @@ Karpov is on record saying that if he had had the opportunity to play Fischer fo
 
 FIDE champion again (1993–1999)
 
-Anatoly_Karpov.jpg In 1992, Karpov lost a Candidates Match against Nigel Short. But in 1993, Karpov reacquired the FIDE World Champion title when Kasparov and Short split from FIDE. Karpov defeated Timman – the loser of the Candidates' final against Short.
+In 1992, Karpov lost a Candidates Match against Nigel Short. But in 1993, Karpov reacquired the FIDE World Champion title when Kasparov and Short split from FIDE. Karpov defeated Timman – the loser of the Candidates' final against Short.
 
 The next major meeting of Kasparov and Karpov was the 1994 Linares chess tournament. The field, in eventual finishing order, was Karpov, Kasparov, Shirov, Bareev, Kramnik, Lautier, Anand, Kamsky, Topalov, Ivanchuk, Gelfand, Illescas, Judit Polgár, and Beliavsky; with an average Elo rating of 2685, the highest ever at that time. Impressed by the strength of the tournament, Kasparov had said several days before the tournament that the winner could rightly be called the world champion of tournaments. Perhaps spurred on by this comment, Karpov played the best tournament of his life. He was undefeated and earned 11 points out of 13 (the best world-class tournament winning percentage since Alekhine won San Remo in 1930), finishing 2½ points ahead of second-place Kasparov and Shirov. Many of his wins were spectacular (in particular, his win over Topalov is considered possibly the finest of his career). This performance against the best players in the world put his Elo rating tournament performance at 2985, the highest performance rating of any player in history up until 2009, when Magnus Carlsen won the category XXI Pearl Spring chess tournament with a performance of 3002. Chess statistician Jeff Sonas considers Karpov's Linares performance the best tournament result in history.[15]
 

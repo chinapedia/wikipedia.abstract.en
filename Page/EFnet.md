@@ -30,8 +30,6 @@ The server has since delinked.
 
 Characteristics
 
-efnet-struc.png
-
 EFnet has large variations in rules and policy between different servers as well as the two major regions (EU and NA). Both have their own policy structure, and each region votes on their own server applications. However, central policies are voted upon by the server admin community which is archived for referencing.[13]
 
 Due to EFnet's nature, it has gained recognition over the years for warez,[14] hackers,[15] and DoS attacks.[16]

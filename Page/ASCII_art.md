@@ -1,4 +1,4 @@
-aa_example1.png aa_example2.png aa_example3.png]] Ascii_art_alphabet.png ASCII ART is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters of standard 7-bit ASCII ). The term is also loosely used to refer to text based visual art in general. ASCII art can be created with any text editor, and is often used with free-form languages. Most examples of ASCII art require a fixed-width font (non-proportional fonts, as on a traditional typewriter) such as Courier for presentation.
+]] ASCII ART is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters of standard 7-bit ASCII ). The term is also loosely used to refer to text based visual art in general. ASCII art can be created with any text editor, and is often used with free-form languages. Most examples of ASCII art require a fixed-width font (non-proportional fonts, as on a traditional typewriter) such as Courier for presentation.
 
 Among the oldest known examples of ASCII art are the creations by computer-art pioneer Kenneth Knowlton from around 1966, who was working for Bell Labs at the time.[1] "Studies in Perception I" by Ken Knowlton and Leon Harmon from 1966 shows some examples of their early ASCII art.[2]
 
@@ -7,11 +7,11 @@ ASCII art was invented, in large part, because early printers often lacked graph
 
 History
 
-Illustration_of_the_constellation_Sirius_-_Harley_Aratus_(c.820-840),_f.8v_-_BL_Harley_MS_647.jpg "Sirius" from a 9th-century astronomical manuscript]]
+"Sirius" from a 9th-century astronomical manuscript]]
 
 Typewriter art
 
-Brooklyn-Daily-Eagle-1875-01-06.png, 6 January 1875, showing advertisements made from typewriter art.|A portion of the Brooklyn Daily Eagle, 6 January 1875, showing advertisements made from typewriter art.]] Since 1867, typewriters have been used for creating visual art.[3][4]
+, 6 January 1875, showing advertisements made from typewriter art.|A portion of the Brooklyn Daily Eagle, 6 January 1875, showing advertisements made from typewriter art.]] Since 1867, typewriters have been used for creating visual art.[3][4]
 
 TTY and RTTY
 
@@ -23,7 +23,7 @@ In the 1960s, Andries van Dam published a representation of an electronic circui
 
 ASCII art
 
-ASCII_full.svg The widespread usage of ASCII art can be traced to the computer bulletin board systems of the late 1970s and early 1980s. The limitations of computers of that time period necessitated the use of text characters to represent images. Along with ASCII's use in communication, however, it also began to appear in the underground online art groups of the period. An ASCII comic is a form of webcomic which uses ASCII text to create images. In place of images in a regular comic, ASCII art is used, with the text or dialog usually placed underneath.
+The widespread usage of ASCII art can be traced to the computer bulletin board systems of the late 1970s and early 1980s. The limitations of computers of that time period necessitated the use of text characters to represent images. Along with ASCII's use in communication, however, it also began to appear in the underground online art groups of the period. An ASCII comic is a form of webcomic which uses ASCII text to create images. In place of images in a regular comic, ASCII art is used, with the text or dialog usually placed underneath.
 
 During the 1990s, graphical browsing and variable-width fonts became increasingly popular, leading to a decline in ASCII art. Despite this, ASCII art continued to survive through online MUDs, an acronym for "Multi-User Dungeon", (which are textual multiplayer role-playing video games), Internet Relay Chat, E-mail, message boards and other forms of online communication which commonly employ the needed fixed-width.
 
@@ -38,7 +38,7 @@ BBS systems were based on ASCII and ANSI art, as were most DOS and similar conso
 
 Uses
 
-ASCII_Panzer_unt_Sattelzug.png Roflcopter.gif ASCII art is used wherever text can be more readily printed or transmitted than graphics, or in some cases, where the transmission of pictures is not possible. This includes typewriters, teleprinters, non-graphic computer terminals, printer separators, in early computer networking (e.g., BBSes), e-mail, and Usenet news messages. ASCII art is also used within the source code of computer programs for representation of company or product logos, and flow control or other diagrams. In some cases, the entire source code of a program is a piece of ASCII art – for instance, an entry to one of the earlier International Obfuscated C Code Contest is a program that adds numbers, but visually looks like a binary adder drawn in logic ports.[13]
+ASCII art is used wherever text can be more readily printed or transmitted than graphics, or in some cases, where the transmission of pictures is not possible. This includes typewriters, teleprinters, non-graphic computer terminals, printer separators, in early computer networking (e.g., BBSes), e-mail, and Usenet news messages. ASCII art is also used within the source code of computer programs for representation of company or product logos, and flow control or other diagrams. In some cases, the entire source code of a program is a piece of ASCII art – for instance, an entry to one of the earlier International Obfuscated C Code Contest is a program that adds numbers, but visually looks like a binary adder drawn in logic ports.[13]
 
 Some electronic schematic archives represent the circuits using ASCII art.[14][15][16][17][18][19][20][21][22][23][24]
 
@@ -115,7 +115,7 @@ The Commodore 64, which was released in 1982, also did not follow the ASCII stan
 
 "Block ASCII" / "High ASCII" style ASCII art on the IBM PC
 
-ASCII_notepad_acidview_compare.png So-called "block ASCII" or "high ASCII" uses the extended characters of the 8-bit code page 437, which is a proprietary standard introduced by IBM in 1979 (ANSI Standard x3.16) for the IBM PC DOS and MS-DOS operating systems. "Block ASCIIs" were widely used on the PC during the 1990s until the Internet replaced BBSes as the main communication platform. Until then, "block ASCIIs" dominated the PC Text Art Scene.[33][34]
+So-called "block ASCII" or "high ASCII" uses the extended characters of the 8-bit code page 437, which is a proprietary standard introduced by IBM in 1979 (ANSI Standard x3.16) for the IBM PC DOS and MS-DOS operating systems. "Block ASCIIs" were widely used on the PC during the 1990s until the Internet replaced BBSes as the main communication platform. Until then, "block ASCIIs" dominated the PC Text Art Scene.[33][34]
 
 The first art scene group that focused on the extended character set of the PC in their art work was called "Aces of ANSI Art" ( <A.A.A>). Some members left in 1990, and formed a group called "ANSI Creators in Demand" (ACiD). In that same year the second major underground art scene group was founded, ICE, "Insane Creators Enterprise".[35]
 
@@ -125,7 +125,7 @@ Microsoft Windows does not support the ANSI Standard x3.16. One can view block A
 
 "Amiga"/"Oldskool" style ASCII art
 
-Paso-IceCream-AmigaVsPC.png In the art scene one popular ASCII style that used the 7-bit standard ASCII character set was the so-called "Oldskool" style. It is also called "Amiga style", due to its origin and widespread use on the Commodore Amiga computers. The style uses primarily the characters: _/\-+=.()<>:. The "oldskool" art looks more like the outlined drawings of shapes than real pictures. This is an example of "Amiga style" (also referred to as "old school" or "oldskool" style) scene ASCII art.[36]
+In the art scene one popular ASCII style that used the 7-bit standard ASCII character set was the so-called "Oldskool" style. It is also called "Amiga style", due to its origin and widespread use on the Commodore Amiga computers. The style uses primarily the characters: _/\-+=.()<>:. The "oldskool" art looks more like the outlined drawings of shapes than real pictures. This is an example of "Amiga style" (also referred to as "old school" or "oldskool" style) scene ASCII art.[36]
 
 The Amiga ASCII scene surfaced in 1992, seven years after the introduction of the Commodore Amiga 1000. The Commodore 64 PETSCII scene did not make the transition to the Commodore Amiga as the C64 demo and warez scenes did. Among the first Amiga ASCII art groups were ART, Epsilon Design, Upper Class, Unreal (later known as "DeZign"). This means that the text art scene on the Amiga was actually younger than the text art scene on the PC. The Amiga artists also did not call their ASCII art style "Oldskool". That term was introduced on the PC. When and by whom is unknown and lost in history.
 
@@ -145,7 +145,7 @@ Oldskool font example from the PC, which was taken from the ASCII editor FIGlet.
 
 Newskool style ASCII art
 
-Roy-csnewskool.png "Newskool" is a popular form of ASCII art which capitalizes on character strings like "$#Xxo". In spite of its name, the style is not "new"; on the contrary, it was very old but fell out of favor and was replaced by "Oldskool" and "Block" style ASCII art. It was dubbed "Newskool" upon its comeback and renewed popularity at the end of the 1990s.[37]
+"Newskool" is a popular form of ASCII art which capitalizes on character strings like "$#Xxo". In spite of its name, the style is not "new"; on the contrary, it was very old but fell out of favor and was replaced by "Oldskool" and "Block" style ASCII art. It was dubbed "Newskool" upon its comeback and renewed popularity at the end of the 1990s.[37]
 
 Newskool changed significantly as the result of the introduction of extended proprietary characters. The classic 7-bit standard ASCII characters remain predominant, but the extended characters are often used for "fine tuning" and "tweaking". The style developed further after the introduction and adaptation of Unicode.
 
@@ -170,9 +170,9 @@ Examples of converted images are given below.
 
 This is one of the earliest forms of ASCII art, dating back to the early days of the 1960s minicomputers and teletypes. During the 1970s, it was popular in US malls to get a t-shirt with a photograph printed in ASCII art on it from an automated kiosk manned by a computer, and London's Science Museum had a similar service to produce printed portraits. With the advent of the web, HTML and CSS, many ASCII conversion programs will now quantize to a full RGB colorspace, enabling colorized ASCII images.
 
-  ----------------------- ------------------------------------ ----------------------------------------
-  Redwingblackbird1.jpg   Red-winged_blackbird_ASCII_art.png   bird_converted_to_ASCII_characters.png
-  ----------------------- ------------------------------------ ----------------------------------------
+  -- -- --
+
+  -- -- --
 
 Still images or movies can also be converted to ASCII on various UNIX and UNIX-like systems using the aalib (black and white) or libcaca (colour) graphics device driver, or the VLC media player or mpv under Windows, Linux or macOS; all of which render the screen using ASCII symbols instead of pixels.[39]
 
@@ -205,7 +205,7 @@ The IBM PC graphics hardware in text mode uses 16 bits per character. It support
 
 Shift_JIS and Japan
 
-Mona01.svg|２ちゃんねる|NICHANNERU}} IN 2000]] GIKONEKO01.SVG|２ちゃんねる|Nichanneru}} in 2000]] In Japan, ASCII art (AA) is mainly known as SHIFT_JIS ART. Shift JIS offers a larger selection of characters than plain ASCII (including characters from Japanese scripts and fullwidth forms of ASCII characters), and may be used for text-based art on Japanese websites.
+|２ちゃんねる|NICHANNERU}} IN 2000]] |２ちゃんねる|Nichanneru}} in 2000]] In Japan, ASCII art (AA) is mainly known as SHIFT_JIS ART. Shift JIS offers a larger selection of characters than plain ASCII (including characters from Japanese scripts and fullwidth forms of ASCII characters), and may be used for text-based art on Japanese websites.
 
 Often, such artwork is designed to be viewed with the default Japanese font on a platform, such as the proportional MS P Gothic.[44]
 

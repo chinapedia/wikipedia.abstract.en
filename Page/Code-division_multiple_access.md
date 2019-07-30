@@ -12,7 +12,7 @@ The technology of code-division multiple access channels has long been known. In
 
 Uses
 
-Au_CDMA_1X_WIN_W31SAII_gravelly_silver_expansion.jpg]]
+]]
 
 -   One of the early applications for code-division multiplexing is in the Global Positioning System (GPS). This predates and is distinct from its use in mobile phones.
 -   The Qualcomm standard IS-95, marketed as cdmaOne.
@@ -24,8 +24,6 @@ Au_CDMA_1X_WIN_W31SAII_gravelly_silver_expansion.jpg]]
 Steps in CDMA modulation
 
 CDMA is a spread-spectrum multiple-access[9] technique. A spread-spectrum technique spreads the bandwidth of the data uniformly for the same transmitted power. A spreading code is a pseudo-random code that has a narrow ambiguity function, unlike other narrow pulse codes. In CDMA a locally generated code runs at a much higher rate than the data to be transmitted. Data for transmission is combined by bitwise XOR (exclusive OR) with the faster code. The figure shows how a spread-spectrum signal is generated. The data signal with pulse duration of T_(b) (symbol period) is XORed with the code signal with pulse duration of T_(c) (chip period). (Note: bandwidth is proportional to 1/T, where T = bit time.) Therefore, the bandwidth of the data signal is 1/T_(b) and the bandwidth of the spread spectrum signal is 1/T_(c). Since T_(c) is much smaller than T_(b), the bandwidth of the spread-spectrum signal is much larger than the bandwidth of the original signal. The ratio T_(b)/T_(c) is called the spreading factor or processing gain and determines to a certain extent the upper limit of the total number of users supported simultaneously by a base station.[10]
-
-Generation_of_CDMA.svg
 
 Each user in a CDMA system uses a different code to modulate their signal. Choosing the codes used to modulate the signal is very important in the performance of CDMA systems.[11] The best performance occurs when there is good separation between the signal of a desired user and the signals of other users. The separation of the signals is made by correlating the received signal with the locally generated code of the desired user. If the signal matches the desired user's code, then the correlation function will be high and the system can extract that signal. If the desired user's code has nothing in common with the signal, the correlation should be as close to zero as possible (thus eliminating the signal); this is referred to as cross-correlation. If the code is correlated with the signal at any time offset other than zero, the correlation should be as close to zero as possible. This is referred to as auto-correlation and is used to reject multi-path interference.[12]
 
@@ -51,8 +49,6 @@ B ⋅ (A − B) =  − ∥B∥², since B ⋅ A − B�
 Each user in synchronous CDMA uses a code orthogonal to the others' codes to modulate their signal. An example of 4 mutually orthogonal digital signals is shown in the figure below. Orthogonal codes have a cross-correlation equal to zero; in other words, they do not interfere with each other. In the case of IS-95, 64-bit Walsh codes are used to encode the signal to separate different users. Since each of the 64 Walsh codes is orthogonal to all other, the signals are channelized into 64 orthogonal signals. The following example demonstrates how each user's signal can be encoded and decoded.
 
 Example
-
-Cdma_orthogonal_signals.png
 
 Start with a set of vectors that are mutually orthogonal. (Although mutual orthogonality is the only condition, these vectors are usually constructed for ease of decoding, for example columns or rows from Walsh matrices.) An example of orthogonal functions is shown in the adjacent picture. These vectors will be assigned to individual users and are called the _code_, _chip code_, or _chipping code_. In the interest of brevity, the rest of this example uses codes V with only two bits.
 

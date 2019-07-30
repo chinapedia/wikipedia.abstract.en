@@ -9,23 +9,23 @@ Western paintings established a visual iconography for the figure, but also went
 
 Classical literature
 
-John_William_Waterhouse_-_Sketch_of_Circe,_1911-1914.jpg's _Sketch of Circe_ (c. 1911–1914)|alt=]]
+'s _Sketch of Circe_ (c. 1911–1914)|alt=]]
 
 By most accounts, she was the daughter of Helios, the Titan sun god, and Perse, one of the three thousand Oceanid nymphs. Her brothers were Aeëtes, keeper of the Golden Fleece, and Perses. Her sister was Pasiphaë, the wife of King Minos and mother of the Minotaur.[1] Other accounts make her the daughter of Hecate, the goddess of witchcraft.[2] She was often confused with Calypso, due to her shifts in behavior and personality, and the association that both of them had with Odysseus.[3]
 
 Homer's _Odyssey_
 
-Circe-Frederick_Stuart_Church-1910.9.4_1a.jpg's _Circe_ (1910)]]
+'s _Circe_ (1910)]]
 
 In Homer's _Odyssey_, an 8th-century BCE sequel to his Trojan War epic _Iliad_, Circe is initially described as an enchantress living in an isolated palace that stands in the middle of a clearing in a dense wood on her (fictitious) island of Aeaea. Around her home prowls strangely docile lions and wolves fawned on all newcomers as she drugged them with her sorcery [4] Her gentle facade of lovely singing and working at an enormous loom.[5] She invited the hero Odysseus' crew to a feast of familiar food, a pottage of cheese and meal, sweetened with honey and laced with wine, lures in Odysseus' crew. Upon entering her home, she provides a feast of familiar foods: a pottage of cheese and meal sweetened with honey and laced with wine, but also laced with one of her magical potions. She also had the crew drink out of an enchanted cup.[6] With this trickery, Circe's magic turned them all into swine. Only Eurylochus, who suspected treachery behind the eerily peaceful and overly-welcoming palace facade and never went in, escaped to warn Odysseus and the others who had remained with the ship.[7]
 
-Ulisse_e_Circe.jpg's _Ulysses and Circe_ () at Farnese Palace|alt=]]
+'s _Ulysses and Circe_ () at Farnese Palace|alt=]]
 
 Before Odysseus reached Circe's palace, Hermes, the messenger god sent by Athena, intercepted him. Hermes acted as a mouthpiece for the gods as he delineated to Odysseus how exactly to execute his predetermined fate of defeating Circe to free his crew. Hermes provided Odysseus with the moly,[8] that would protect him from Circe's magic. He also told Odysseus that once he resisted the magic, he must draw his sword and act as if he were going to attack her. From there, as Hermes foretold, Circe would ask Odysseus to bed, but Hermes advised caution, for the goddess would remain treacherous. Hermes describes how dangerous Circe could still take Odysseus' "manhood" unless he had her swear by the names of the gods that she would not do so. Odysseus followed Hermes' advice and was therefore able to free his men. They all then remain on the island for one year, feasting and drinking wine. According to Homer, Circe even advised Odysseus and his crew on how to return home, going so far as to suggest two alternative routes. She additionally gave directions to Odysseus so that he could visit the Underworld, something a mortal had never done.[9] From the beginning to the end of this chapter of the _Odyssey_, Circe devolved from a powerful, independent goddess, therefore labeled an "enchantress", to a regular, mortal-like woman who served the needs of Odysseus and his crew, even cooking for and bathing them.
 
 Other texts
 
-Kauffmann_Circe.jpg's painting of Circe enticing Odysseus (1786)|alt=|left]]
+'s painting of Circe enticing Odysseus (1786)|alt=|left]]
 
 Towards the end of Hesiod's _Theogony_ (c. 700 BCE), it is stated that Circe bore Odysseus three sons: Ardeas or Agrius (otherwise unknown); Latinus; and Telegonus, who ruled over the Tyrsenoi, that is the Etruscans. The _Telegony_, an epic now lost, relates the later history of the last of these. Circe eventually informed him who his absent father was and, when he set out to find Odysseus, gave him a poisoned spear. With this he killed his father unknowingly. Telegonus then brought back his father's corpse to Aeaea, together with Penelope and Odysseus' other son Telemachus. After burying Odysseus, Circe made the others immortal.
 
@@ -39,13 +39,13 @@ Dionysius of Halicarnassus (1.72.5) cites Xenagoras, the 2nd-century BCE histori
 
 Three ancient plays about Circe have been lost: the work of the tragedian Aeschylus and of the 4th-century BCE comic dramatists Ephippus of Athens and Anaxilas. The first told the story of Odysseus' encounter with Circe. Vase paintings from the period suggest that Odysseus' half-transformed animal-men formed the chorus in place of the usual Satyrs. Fragments of Anaxilas also mention the transformation and one of the characters complains of the impossibility of scratching his face now that he is a pig.[14]
 
-Emile_Levy_-_Circé.jpg's _Circé (_1889)|alt=]]
+'s _Circé (_1889)|alt=]]
 
 Some say she was exiled to the solitary island of Aeaea by her subjects and her father Helios for killing her husband, the prince of Colchis. Later traditions tell of her leaving or even destroying the island and moving to Italy, where she was identified with Cape Circeo.
 
 The theme of turning men into a variety of animals was elaborated by later writers, especially in Latin. In Virgil's _Aeneid_, Aeneas skirts the Italian island where Circe now dwells, and hears the cries of her many male victims, who now number more than the pigs of earlier accounts:
 
-J._W._Waterhouse_-_Circe_Invidiosa_-_Google_Art_Project.jpg in John William Waterhouse's _Circe Invidiosa_ (1892)|alt=]]
+in John William Waterhouse's _Circe Invidiosa_ (1892)|alt=]]
 
 Ovid's 1st-century _Metamorphoses_ collects more transformation stories in its 14th book. The fourth episode covers Circe's encounter with Ulysses (Roman names of Odysseus). The first episode in that book deals with the story of Glaucus and Scylla, in which the enamoured sea-god seeks a love potion to win Scylla's love, only to have the sorceress fall in love with him. When she is unsuccessful, she takes revenge on her rival by turning Scylla into a monster (lines 1–74). The story of the Latian king Picus is told in the fifth episode (and also alluded to in the _Aeneid_). Circe fell in love with him too; when he preferred to remain faithful to his wife Canens, she turned him into a woodpecker (lines 308–440).[15]
 
@@ -54,7 +54,7 @@ Plutarch took up the theme in a lively dialogue that was later to have several i
 
 Later literature
 
-De_claris_mulieribus.jpg's _De Claris Mulieribus_, a catalogue of famous women, from a 1474 edition|alt=]]
+'s _De Claris Mulieribus_, a catalogue of famous women, from a 1474 edition|alt=]]
 
 Giovanni Boccaccio provided a digest of what was known of Circe during the Middle Ages in his _De mulieribus claris_ (_Famous Women_, 1361–1362). While following the tradition that she lived in Italy, he comments wryly that there are now many more temptresses like her to lead men astray.[17]
 
@@ -70,11 +70,11 @@ In her survey of the _Transformations of Circe_, Judith Yarnall comments of this
 
 Reasoning beasts
 
-G.B.Trotti_Circe.jpg's fresco of Circe returning Ulysses' followers to human form (c. 1610)|left]]
+'s fresco of Circe returning Ulysses' followers to human form (c. 1610)|left]]
 
 One of the most enduring literary themes connected with the figure of Circe was her ability to change men into animals. There was much speculation concerning how this could be, whether the human consciousness changed at the same time, and even whether it was a change for the better. The Gryllus dialogue was taken up by another Italian writer, Giovan Battista Gelli, in his _La Circe_ (1549). This is a series of ten philosophical and moral dialogues between Ulysses and the humans transformed into various animals, ranging from an oyster to an elephant, in which Circe sometimes joins. Most argue against changing back; only the last animal, a philosopher in its former existence, wants to.[23] English poet Edmund Spenser also makes reference to Plutarch's dialogue in the section of his _Faerie Queene_ (1590) based on the Circe episode which appears at the end of Book II. Sir Guyon changes back the victims of Acrasia's erotic frenzy in the Bower of Bliss, most of whom are abashed at their fall from chivalric grace, _But one above the rest in speciall, / That had an hog beene late, hight Grille by name, / Repined greatly, and did him miscall, / That had from hoggish forme him brought to naturall._[24]
 
-Dosso_Dossi_003.jpg's _Circe and Her Lovers_ (c. 1525)|alt=]]
+'s _Circe and Her Lovers_ (c. 1525)|alt=]]
 
 Two other Italians wrote rather different works that centre on the animal within the human. One was Niccolò Machiavelli in his unfinished long poem, _L'asino d'oro_ (_The Golden Ass_, 1516). The author meets a beautiful herdswoman surrounded by Circe's herd of beasts. After spending a night of love with him, she explains the characteristics of the animals in her charge: the lions are the brave, the bears are the violent, the wolves are those forever dissatisfied, and so on (Canto 6). In Canto 7 he is introduced to those who experience frustration: a cat that has allowed its prey to escape; an agitated dragon; a fox constantly on the look-out for traps; a dog that bays the moon; Aesop's lion in love that allowed himself to be deprived of his teeth and claws. There are also emblematic satirical portraits of various Florentine personalities. In the eighth and last canto he has a conversation with a pig that, like the Gryllus of Plutarch, does not want to be changed back and condemns human greed, cruelty and conceit.[25]
 
@@ -82,13 +82,13 @@ The other Italian author was the esoteric philosopher Giordano Bruno, who wrote 
 
 French writers were to take their lead from Gelli in the following century.[27] Antoine Jacob wrote a one-act social comedy in rhyme, _Les Bestes raisonnables_ (_The Reasoning Beasts_, 1661) which allowed him to satirise contemporary manners. On the isle of Circe, Ulysses encounters an ass that was once a doctor, a lion that had been a valet, a female doe and a horse, all of whom denounce the decadence of the times. The ass sees human asses everywhere, _Asses in the town square, asses in the suburbs, / Asses in the provinces, asses proud at court, / Asses browsing in the meadows, military asses trooping, / Asses tripping it at balls, asses in the theatre stalls._ To drive the point home, in the end it is only the horse, formerly a courtesan, who wants to return to her former state.
 
-Schubert_Ulysses_and_Circe.jpg's _Ulysses at the Palace of Circe_ (1667)]]
+'s _Ulysses at the Palace of Circe_ (1667)]]
 
 The same theme occupies La Fontaine's late fable, "The Companions of Ulysses" (XII.1, 1690), that also echoes Plutarch and Gelli. Once transformed, every animal (which include a lion, a bear, a wolf and a mole) protest that their lot is better and refuse to be restored to human shape.[28] Charles Dennis shifted this fable to stand at the head of his translation of La Fontaine, _Select Fables_ (1754), but provides his own conclusion that _When Mortals from the path of Honour stray, / And the strong passions over reason sway, / What are they then but Brutes? / 'Tis vice alone that constitutes / Th'enchanting wand and magic bowl, The exterior form of Man they wear, / But are in fact both Wolf and Bear, / The transformation's in the Soul._[29]
 
 Louis Fuzelier and Marc-Antoine Legrand titled their comic opera of 1718 _Les animaux raisonnables_. It had more or less the same scenario transposed into another medium and set to music by Jacques Aubert. Circe, wishing to be rid of the company of Ulysses, agrees to change back his companions, but only the dolphin is willing. The others, who were formerly a corrupt judge (now a wolf), a financier (a pig), an abused wife (a hen), a deceived husband (a bull) and a flibbertigibbet (a linnet), find their present existence more agreeable.
 
-Circe_by_John_Collier.jpg (19th century)|alt=]]
+(19th century)|alt=]]
 
 The Venetian Gasparo Gozzi was another Italian who returned to Gelli for inspiration in the 14 prose _Dialoghi dell'isola di Circe_ (_Dialogues from Circe's Island_) published as journalistic pieces between 1760 and 1764. In this moral work, the aim of Ulysses in talking to the beasts is to learn more of the human condition. It includes figures from fable (The fox and the crow, XIII) and from myth to illustrate its vision of society at variance. Far from needing the intervention of Circe, the victims find their natural condition as soon as they set foot on the island. The philosopher here is not Gelli's elephant but the bat that retreats from human contact into the darkness, like Bruno's fireflies (VI). The only one who wishes to change in Gozzi's work is the bear, a satirist who had dared to criticize Circe and had been changed as a punishment (IX).
 
@@ -102,11 +102,11 @@ With the Renaissance there began to be a reinterpretation of what it was that ch
 
 By the 19th century, Circe was ceasing to be a mythical figure. Poets treated her either as an individual or at least as the type of a certain kind of woman. The French poet Albert Glatigny addresses "Circé" in his _Les vignes folles_ (1857) and makes of her a voluptuous opium dream, the magnet of masochistic fantasies.[39] Louis-Nicolas Ménard's sonnet in _Rêveries d'un païen mystique_ (1876) describes her as enchanting all with her virginal look, but appearance belies the accursed reality.[40] Poets in English were not far behind in this lurid portrayal. Lord de Tabley's "Circe" (1895) is a thing of decadent perversity likened to a tulip, _A flaunting bloom, naked and undivine... / With freckled cheeks and splotch'd side serpentine, / A gipsy among flowers_.[41]
 
-'The_Kingdom_of_Sorceress_Circe'_by_Angelo_Caroselli_and_Pseudo_Caroselli.jpg (c. 1630)|alt=]]
+(c. 1630)|alt=]]
 
 That central image is echoed by the blood-striped flower of T.S.Eliot's student poem "Circe's Palace" (1909) in the Harvard Advocate. Circe herself does not appear, her character is suggested by what is in the grounds and the beasts in the forest beyond: panthers, pythons, and peacocks that _look at us with the eyes of men whom we knew long ago_.[42] Rather than a temptress, she has become an emasculatory threat.[43]
 
-Marius_Vasselon_-_Circé.jpg's _Circé_ (1888)]]
+'s _Circé_ (1888)]]
 
 Several female poets make Circe stand up for herself, using the soliloquy form to voice the woman's position. The 19th-century English poet Augusta Webster, much of whose writing explored the female condition, has a dramatic monologue in blank verse titled "Circe" in her volume _Portraits_ (1870).[44] There the sorceress anticipates her meeting with Ulysses and his men and insists that she does not turn men into pigs—she merely takes away the disguise that makes them seem human. _But any draught, pure water, natural wine, / out of my cup, revealed them to themselves / and to each other. Change? there was no change; / only disguise gone from them unawares_. The mythological character of the speaker contributes at a safe remove to the Victorian discourse on women's sexuality by expressing female desire and criticizing the subordinate role given to women in heterosexual politics.[45]
 
@@ -114,7 +114,7 @@ Two American poets also explored feminine psychology in poems ostensibly about t
 
 Another indication of the progression in interpreting the Circe figure is given by two poems a century apart, both of which engage with paintings of her. The first is the sonnet that Dante Gabriel Rossetti wrote in response to Edward Burne-Jones' "The Wine of Circe" in his volume _Poems_ (1870). It gives a faithful depiction of the painting's Pre-Raphaelite mannerism but its description of Circe's potion as 'distilled of death and shame' also accords with the contemporary (male) identification of Circe with perversity. This is further underlined by his statement (in a letter) that the black panthers there are 'images of ruined passion' and by his anticipation at the end of the poem of _passion's tide-strown shore / Where the disheveled seaweed hates the sea_.[49] The Australian A. D. Hope's "Circe – after the painting by Dosso Dossi", on the other hand, frankly admits humanity's animal inheritance as natural and something in which even Circe shares. In the poem, he links the fading rationality and speech of her lovers to her own animal cries in the act of love.[50]
 
-Charles_Hermans_-_Circe_the_temptress.jpg (c. 1859–1924)|alt=]]
+(c. 1859–1924)|alt=]]
 
 There remain some poems that bear her name that have more to do with their writers' private preoccupations than with reinterpreting her myth. The link with it in Margaret Atwood's "Circe/Mud Poems", first published in _You Are Happy_ (1974), is more a matter of allusion and is nowhere overtly stated beyond the title. It is a reflection on contemporary gender politics that scarcely needs the disguises of Augusta Webster's.[51] With two other poems by male writers it is much the same: Louis Macneice's, for example, whose "Circe" appeared in his first volume, _Poems_ (London, 1935); or Robert Lowell's, whose "Ulysses and Circe" appeared in his last, _Day by Day_ (New York, 1977). Both poets have appropriated the myth to make a personal statement about their broken relationships.[52]
 
@@ -129,7 +129,7 @@ Several Renaissance epics of the 16th century include lascivious sorceresses bas
 
 In addition, it has been argued that the fairy Titania in William Shakespeare's _A Midsummer Night's Dream_ (1600) is an inversion of Circe.[56] Titania (daughter of the Titans) was a title by which the sorceress was known in Classical times. In this case the tables are turned on the character, who is queen of the fairies. She is made to love an ass after, rather than before, he is transformed into his true animal likeness.
 
-Comus_with_his_revellers.jpg's 1815 watercolour of Comus and his animal-headed revellers|alt=|left]]
+'s 1815 watercolour of Comus and his animal-headed revellers|alt=|left]]
 
 It has further been suggested that John Milton's _Mask Presented at Ludlow Castle_ (1634) is a sequel to _Tempe Restored,_ a masque in which Circe had figured two years earlier, and that the situation presented there is a reversal of the Greek myth.[57] At the start of the masque, the character Comus is described as the son of Circe by Bacchus, god of wine, and the equal of his mother in enchantment. He too changes travelers into beastly forms that 'roll with pleasure in a sensual sty'. Having waylaid the heroine and immobilized her on an enchanted chair, he stands over her, wand in hand, and presses on her a magical cup (representing sexual pleasure and intemperance), which she repeatedly refuses, arguing for the virtuousness of temperance and chastity.[58] The picture presented is a mirror image of the Classical story. In place of the witch who easily seduces the men she meets, a male enchanter is resisted by female virtue.
 
@@ -142,11 +142,9 @@ Visual representations
 
 Ancient art
 
-NAMA_Circé_&_Ulysse.jpg
-
 Scenes from the _Odyssey_ are common on Greek pottery, the Circe episode among them. The two most common representations have Circe surrounded by the transformed sailors and Odysseus threatening the sorceress with his sword. In the case of the former, the animals are not always boars but also include, for instance, the ram, dog and lion on the 6th-century BCE Boston kylix.[61] Often the transformation is only partial, involving the head and perhaps a sprouting tail, while the rest of the body is human. In describing an otherwise obscure 5th-century Greek bronze in the Walters Art Museum that takes the form of a man on all fours with the foreparts of a pig,[62] the commentator asks in what other way could an artist depict someone bewitched other than as a man with an animal head.[63] In these scenes Circe is shown almost invariably stirring the potion with her wand, although the incident as described in Homer has her use the wand only to bewitch the sailors after they have refreshed themselves.[64] One exception is the Berlin amphora on which the seated Circe holds the wand towards a half transformed man.[65]
 
-Odysseus_Circe_Met_41.83.jpg across the lower tier of an Attic red-figure krater (|alt=)]]
+across the lower tier of an Attic red-figure krater (|alt=)]]
 
 In the second scene, Odysseus threatens the sorceress with a drawn sword, as Homer describes it. However, he is sometimes depicted carrying spears as well, as in the Athens lekythos,[66] while Homer reports that it was a bow he had slung over his shoulder.[67] In this episode Circe is generally shown in flight, and on the Erlangen lekythos can clearly be seen dropping the bowl and wand behind her.[68] Two curiously primitive wine bowls incorporate the Homeric detail of Circe's handloom,[69] at which the men approaching her palace could hear her singing sweetly as she worked.[70] In the 5th-century skyphos from Boeotia an apparently crippled Odysseus leans on a crutch while a woman with negroid features holds out a disproportionately large bowl.[71] In the other, a pot-bellied hero brandishes a sword while Circe stirs her potion. Both these may depict the scene as represented in one or other of the comic satyr plays which deal with their encounter. Little remains of these now beyond a few lines by Aeschylus, Ephippus of Athens and Anaxilas. Other vase paintings from the period suggest that Odysseus' half-transformed animal-men formed the chorus in place of the usual satyrs.[72] The reason that it should be a subject of such plays is that wine drinking was often central to their plot. Later writers were to follow Socrates in interpreting the episode as illustrating the dangers of drunkenness.[73]
 
@@ -158,7 +156,7 @@ During the 18th century painters began to portray individual actors in scenes fr
 
 The subjects of later paintings impersonating Circe have a history of sexual experience behind them, starting with "Mary Spencer in the character of Circe" by William Caddick, which was exhibited at the Royal Academy in 1780. The subject here was the mistress of the painter George Stubbs.[80] A portrait of "Mrs Nesbitt as Circe" by Reynolds followed in 1781. Though this lady's past was ambiguous, she had connections with those in power and was used by the Government as a secret agent. In the painting she is seated sideways, wearing a white, loose-fitting dress, with a wand in her right hand and a gilded goblet near her left. A monkey is crouching above her in the branches of a tree and a panther fraternizes with the kitten on her knee.[81] While the painting undoubtedly alludes to her reputation, it also places itself within the tradition of dressing up in character.
 
-George_Romney_-_Lady_Hamilton_as_Circe.jpg's portrait of Emma Hamilton as Circe. It was used to illustrate numerous books, including _Wuthering Heights_]]
+'s portrait of Emma Hamilton as Circe. It was used to illustrate numerous books, including _Wuthering Heights_]]
 
 Soon afterwards, the notorious Emma Hamilton was to raise this to an art form, partly by the aid of George Romney's many paintings of her impersonations. Romney's preliminary study of Emma's head and shoulders, at present in the Tate Gallery, with its piled hair, expressive eyes and mouth, is reminiscent of Samuel Gardener's portrait of Miss Elliot.[82] In the full-length "Lady Hamilton as Circe" at Waddesdon Manor, she is placed in a wooded landscape with wolves snarling to her left, although the tiger originally there has now been painted out. Her left arm is raised to cast a spell while the wand points downward in her right.[83] After Emma moved to Naples and joined Lord Hamilton, she developed what she called her "Attitudes" into a more public entertainment. Specially designed, loose-fitting tunics were paired with large shawls or veils as she posed in such a way as to evoke figures from Classical mythology. These developed from mere poses, with the audience guessing the names of the classical characters and scenes that she portrayed, into small, wordless charades.[84]
 
@@ -166,7 +164,7 @@ The tradition of dressing up in character continued into the following centuries
 
 A decade earlier, the illustrator Charles Edmund Brock extended into the 20th century what is almost a pastiche of the 18th-century conversation piece in his "Circe and the Sirens" (1925). In this the Honourable Edith Chaplin (1878–1959), Marchioness of Londonderry, and her three youngest daughters are pictured in a garden setting grouped about a large pet goat.[87] Three women painters also produced portraits using the convention of the sitter in character. The earliest was Beatrice Offor (1864–1920), whose sitter's part in her 1911 painting of Circe is suggested by the vine-leaf crown in her long dark hair, the snake-twined goblet she carries and the snake bracelet on her left arm.[88] Mary Cecil Allen was of Australian origin[89] but was living in the United States at the time "Miss Audrey Stevenson as Circe" was painted (1930). Though only a head and shoulders sketch, its colouring and execution suggest the sitter's lively personality.[90] Rosemary Valodon (born 1947), from the same country, painted a series of Australian personalities in her goddess series. "Margarita Georgiadis as Circe" (1991) is a triptych, the central panel of which portrays an updated, naked femme fatale reclining in tropical vegetation next to a pig's head.[91]
 
-Studie_zu_Tilla_Durieux_als_Circe.jpg as Circe]]
+as Circe]]
 
 One painting at least depicts an actress playing the part of Circe. This is Franz von Stuck's striking portrait of Tilla Durieux as Circe (1913). She played this part in a Viennese revival of Calderon's play in 1912 and there is a publicity still of her by Isidor Hirsch in which she is draped across a sofa and wearing an elaborate crown.[92] Her enticing expression and the turn of her head there is almost exactly that of Van Stuck's enchantress as she holds out the poisoned bowl. It suggests the use of certain posed publicity photos in creating the same iconic effect as had paintings in the past. A nearly contemporary example was the 1907 photo of Mme Geneviève Vix as Circe in the light opera by Lucien Hillenacher at the Opéra-Comique in Paris.[93] The posing of the actress and the cropping of the image so as to highlight her luxurious costume demonstrates its ambition to create an effect that goes beyond the merely theatrical. A later example is the still of Silvana Mangano in her part as Circe in the 1954 film _Ulysses_, which is as cunningly posed for effect.
 
@@ -174,8 +172,6 @@ One painting at least depicts an actress playing the part of Circe. This is Fran
 Musical treatments
 
 Cantata and song
-
-Circe_by_Wright_Barker_(1889).jpg
 
 Beside the verse dramas, with their lyrical interludes, on which many operas were based, there were poetic texts which were set as secular cantatas. One of the earliest was Alessandro Stradella's _La Circe_, in a setting for three voices that bordered on the operatic. It was first performed at Frascati in 1667 to honour Cardinal Leopoldo de Medici and contained references to its surroundings. In the opening recitative, Circe explains that it was her son Telegonus who founded Frascati. The other characters with whom she enters into dialogue are the south wind (Zeffiro) and the local river Algido.[94] In the following century, Antonio Vivaldi's cantata _All'ombra di sospetto_ (In the shadow of doubt, RV 678) is set for a single voice and depicts Circe addressing Ulysses. The countertenor part is accompanied by flute, harpsichord, cello, and theorbo and features two recitatives and two arias. The piece is famous for the dialogue created between flute and voice, conjuring the moment of flirtation before the two become lovers.[95]
 
@@ -192,8 +188,6 @@ There have also been treatments of Circe in popular music, in particular the rel
 Classical ballet and programmatic music
 
 After classical ballet separated from theatrical spectacle into a wordless form in which the story is expressed solely through movement, the subject of Circe was rarely visited. It figured as the first episode of three with mythological themes in _Les Fêtes Nouvelles_ (_New Shows_), staged by Sieur Duplessis le cadet in 1734, but the work was taken off after its third performance and not revived.[105] The choreographer Antoine Pitrot also staged _Ulysse dans l'isle de Circée_, describing it as a _ballet sérieux, heroï-pantomime_ in 1764.[106] Thereafter there seems to be nothing until the revival of ballet in the 20th century.
-
-Martha_Graham's_Circe.jpg
 
 In 1963 the American choreographer Martha Graham created her _Circe_ with a score by Alan Hovhaness. Its theme is psychological, representing the battle with animal instincts. The beasts portrayed extend beyond swine and include a goat, a snake, a lion and a deer.[107] The theme has been described as one of 'highly charged erotic action', although set in 'a world where sexual frustration is rampant'.[108] In that same decade Rudolf Brucci composed his _Kirka_ (1967) in Croatia.
 

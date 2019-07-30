@@ -44,7 +44,7 @@ Some high IQ individuals join a High IQ society. The most famous is Mensa Intern
 
 Philosophy
 
-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg is widely acknowledged as having been a genius and a polymath.]] Various philosophers have proposed definitions of what genius is and what that implies in the context of their philosophical theories. Croce-Mozart-Detail.jpg, considered a prodigy and musical genius]]
+is widely acknowledged as having been a genius and a polymath.]] Various philosophers have proposed definitions of what genius is and what that implies in the context of their philosophical theories. , considered a prodigy and musical genius]]
 
 In the philosophy of David Hume, the way society perceives genius is similar to the way society perceives the ignorant. Hume states that a person with the characteristics of a genius is looked at as a person disconnected from society, as well as a person who works remotely, at a distance, away from the rest of the world.
 

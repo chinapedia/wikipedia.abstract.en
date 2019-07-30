@@ -18,7 +18,7 @@ Aberdeen was greatly affected by the aftermath of war which he witnessed at firs
 
   The near approach of war and its effects are horrible beyond what you can conceive. The whole road from Prague to [Teplitz] was covered with waggons full of wounded, dead, and dying. The shock and disgust and pity produced by such scenes are beyond what I could have supposed possible...the scenes of distress and misery have sunk deeper in my mind. I have been quite haunted by them.[14]
 
-Shield_of_arms_of_George_Hamilton-Gordon,_4th_Earl_of_Aberdeen,_KG,_KT,_FRSE,_FRS,_PC.png stall plate in St George's Chapel.]] Returning home he was created a peer of the United Kingdom as VISCOUNT GORDON, of Aberdeen in the County of Aberdeen (1814),[15] and made a member of the Privy Council. In July 1815 he married his former sister-in-law Harriet, daughter of John Douglas, and widow of James Hamilton, Viscount Hamilton; the marriage was much less happy than his first. During the ensuing thirteen years Aberdeen took a less prominent part in public affairs.
+stall plate in St George's Chapel.]] Returning home he was created a peer of the United Kingdom as VISCOUNT GORDON, of Aberdeen in the County of Aberdeen (1814),[15] and made a member of the Privy Council. In July 1815 he married his former sister-in-law Harriet, daughter of John Douglas, and widow of James Hamilton, Viscount Hamilton; the marriage was much less happy than his first. During the ensuing thirteen years Aberdeen took a less prominent part in public affairs.
 
 
 Political career, 1828–1852
@@ -40,7 +40,7 @@ When in December 1852 Disraeli submitted his budget to Parliament on behalf of t
 
 Prime Minister, 1852–1855
 
-George_Hamilton-Gordon.jpg Following the downfall of the Tory/Conservative minority government under Lord Derby in December 1852, Lord Aberdeen formed a new government from the coalition of Free Traders, Peelites, and Whigs that had voted no confidence in the minority government. Lord Aberdeen was able to put together a coalition that held 53.8% of the seats of Parliament. Thus Lord Aberdeen, a Peelite, became Prime Minister and headed a coalition ministry of Whigs and Peelites.
+Following the downfall of the Tory/Conservative minority government under Lord Derby in December 1852, Lord Aberdeen formed a new government from the coalition of Free Traders, Peelites, and Whigs that had voted no confidence in the minority government. Lord Aberdeen was able to put together a coalition that held 53.8% of the seats of Parliament. Thus Lord Aberdeen, a Peelite, became Prime Minister and headed a coalition ministry of Whigs and Peelites.
 
 Although united on international trade issues and on questions of domestic reform, his cabinet also contained Lord Palmerston and Lord John Russell, who were certain to differ on questions of foreign policy. Charles Greville wrote in his _Memoirs_, "In the present cabinet are five or six first-rate men of equal, or nearly equal, pretensions, none of them likely to acknowledge the superiority or defer to the opinions of any other, and every one of these five or six considering himself abler and more important than their premier"; and Sir James Graham wrote, "It is a powerful team, but it will require good driving", which Aberdeen was unable to provide. During the administration, much trouble was caused by the rivalry between Palmerston and Russell, and over the course of it Palmerston managed to out-manoeuvre Russell to emerge as the Whig heir apparent.[24] The cabinet also included a single Radical, Sir William Molesworth, but much later, when justifying to the Queen his own new appointments, Gladstone told her: "For instance, even in Ld Aberdeen's Govt, in 52, Sir William Molesworth had been selected, at that time, a very advanced Radical, but who was perfectly harmless, & took little, or no part.... He said these people generally became very moderate, when they were in office", which she admitted had been the case.[25]
 
@@ -72,7 +72,7 @@ As war became inevitable, Aberdeen wrote to Russell:
 
 Crimean War 1853–1856
 
-Coalition_Ministry_of_1854.jpg of 1854 after a painting by Sir John Gilbert, 1855]]
+of 1854 after a painting by Sir John Gilbert, 1855]]
 
 In response this latest change of mind by the Ottomans, the Russians on 2 July 1853 occupied the Turkish satellite states of Wallachia and Moldavia, as they had during the Russo-Turkish War of 1768–1774.[38] Almost immediately, the Russian troops deployed along the northern banks of the Danube River, implying that they might cross the river. Aberdeen ordered the British Fleet to Constantinople and later into the Black Sea.[39] On 23 October 1853, the Ottoman Empire declared war on Russia. A Russian naval raid on Sinope, on 30 November 1853, resulted in the destruction of the Turkish fleet in the battle of Sinope. When Russia ignored an Anglo-French ultimatum to abandon the Danubian provinces, Britain and France declared war on Russia on 28 March 1854. In September 1854, British and French troops landed on the Crimean peninsula at Eupatoria, north of Sevastopol. The Allied troops then moved across the Alma River on 20 September 1854 at the battle of Alma and set siege to the fort of Sevastopol.
 

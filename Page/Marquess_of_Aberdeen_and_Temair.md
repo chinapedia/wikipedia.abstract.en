@@ -1,4 +1,4 @@
-4th_Earl_of_Aberdeen.jpg MARQUESS OF ABERDEEN AND TEMAIR, in the County of Aberdeen, in the County of Meath and in the County of Argyll, is a title in the Peerage of the United Kingdom. It was created on 4 January 1916 for John Hamilton-Gordon, 7th Earl of Aberdeen.
+MARQUESS OF ABERDEEN AND TEMAIR, in the County of Aberdeen, in the County of Meath and in the County of Argyll, is a title in the Peerage of the United Kingdom. It was created on 4 January 1916 for John Hamilton-Gordon, 7th Earl of Aberdeen.
 
 
 Family history
@@ -17,8 +17,6 @@ The third earl was succeeded by his grandson, the fourth Earl, who was the eldes
 
 Marquess of Aberdeen and Temair
 
-Lord_Aberdeen.jpg
-
 The sixth earl of Aberdeen was succeeded by his younger brother, the seventh Earl. John Hamilton-Gordon, was a Liberal politician and served as Lord-Lieutenant of Ireland in 1886 and from 1905 to 1915 and as Governor General of Canada from 1893 to 1898. On 4 January 1916 he was created EARL OF HADDO, in the County of Aberdeen, and MARQUESS OF ABERDEEN AND TEMAIR, in the County of Aberdeen, in the County of Meath and in the County of Argyll. Both titles are in the Peerage of the United Kingdom.[2]
 
 He was succeeded by his eldest son, the second Marquess, who was a member of the London County Council and served as Lord-Lieutenant of Aberdeenshire. He was childless and was succeeded by his younger brother, the third Marquess. He was notably President of the Federation of British Industries. When he died the titles passed to his eldest son, the fourth Marquess. He was a member of the Aberdeenshire County Council and Lord-Lieutenant of Aberdeenshire. He had four adopted children but no biological issue and was succeeded by his younger brother, the fifth Marquess. He was a broadcaster working for the BBC. He never married and on his death in 1984 the titles passed to his fourth and youngest brother, the sixth Marquess. He was Chairman of The Arts Club. the titles are held by his only son, the seventh Marquess, who succeeded in 2002.
@@ -34,7 +32,7 @@ The family seat is Haddo House, Aberdeenshire. The title Earl of Haddo is the co
 
 Gordon baronets, of Haddo (1642)
 
-Plaque_commemorating_Lady_Aberdeen_(Ottawa,_Ontario).jpg to Ishbel, Marchioness of Aberdeen, wife of the first Marquess, who was Governor-General of Canada from 1893 to 1898.]]
+to Ishbel, Marchioness of Aberdeen, wife of the first Marquess, who was Governor-General of Canada from 1893 to 1898.]]
 
 -   Sir John Gordon, 1st Baronet (1610–1644)
 -   Sir John Gordon, 2nd Baronet (c. 1632–1665)

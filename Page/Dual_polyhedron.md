@@ -1,4 +1,4 @@
-Polyhedron_pair_6-8.png is an octahedron. Vertices of one correspond to faces of the other, and edges correspond to each other.]]
+is an octahedron. Vertices of one correspond to faces of the other, and edges correspond to each other.]]
 
 In geometry, any polyhedron is associated with a second DUAL figure, where the vertices of one correspond to the faces of the other and the edges between pairs of vertices of one correspond to the edges between pairs of faces of the other.[1] Such dual figures remain combinatorial or abstract polyhedra, but not all are also geometric polyhedra.[2] Starting with any given polyhedron, the dual of its dual is the original polyhedron.
 
@@ -9,7 +9,7 @@ Duality is closely related to _reciprocity_ or _polarity_, a geometric transform
 
 Kinds of duality
 
-Ioanniskepplerih00kepl_0271_crop.jpg can be constructed by connecting the face centers. In general this creates only a topological dual.
+can be constructed by connecting the face centers. In general this creates only a topological dual.
 Images from Kepler's Harmonices Mundi (1619)]]
 
 There are many kinds of duality. The kinds most relevant to elementary polyhedra are polar reciprocity and topological or abstract duality.
@@ -36,7 +36,7 @@ The concept of _duality_ here is closely related to the duality in projective ge
 
 Canonical duals
 
-Dual_compound_6-8_max.png of the cuboctahedron (light) and rhombic dodecahedron (dark). Pairs of edges meet on their common intersphere.]]
+of the cuboctahedron (light) and rhombic dodecahedron (dark). Pairs of edges meet on their common intersphere.]]
 
 Any convex polyhedron can be distorted into a canonical form, in which a unit midsphere (or intersphere) exists tangent to every edge, and such that the average position of the points of tangency is the center of the sphere. This form is unique up to congruences.
 
@@ -56,8 +56,6 @@ Dorman Luke construction
 For a uniform polyhedron, the face of the dual polyhedron may be found from the original polyhedron's vertex figure using the DORMAN LUKE construction.[7]
 
 As an example, the illustration below shows the vertex figure (red) of the cuboctahedron being used to derive a face (blue) of the rhombic dodecahedron.
-
-Image:DormanLuke.svg
 
 Before beginning the construction, the vertex figure _ABCD_ is obtained by cutting each connected edge at (in this case) its midpoint.
 
@@ -94,24 +92,21 @@ There are many other convex, self-dual polyhedra. For example, there are 6 diffe
 
 A self-dual non-convex icosahedron with hexagonal faces was identified by Brückner in 1900.[9][10][11] Other non-convex self-dual polyhedra have been found, under certain definitions of non-convex polyhedra and their duals.
 
-+-----------------+--------------------+------------------------+-----------------------+
-| Tetrahedron.jpg | Square_pyramid.png | Pentagonal_pyramid.png | Hexagonal_pyramid.png |
-| 3               | 4                  | 5                      | 6                     |
-+-----------------+--------------------+------------------------+-----------------------+
++---+---+---+---+
+| 3 | 4 | 5 | 6 |
++---+---+---+---+
 
 : Family of pyramids
 
-+----------------------------------+------------------------------+----------------------------------+
-| Elongated_triangular_pyramid.png | Elongated_square_pyramid.png | Elongated_pentagonal_pyramid.png |
-| 3                                | 4                            | 5                                |
-+----------------------------------+------------------------------+----------------------------------+
++---+---+---+
+| 3 | 4 | 5 |
++---+---+---+
 
 : Family of elongated pyramids
 
-+---------------------------------------+-------------------------------------+-----------------------------------------+----------------------------------------+-----------------------------------------+
-| Diminished_trigonal_trapezohedron.png | Diminished_square_trapezohedron.png | Diminished_pentagonal_trapezohedron.png | Diminished_hexagonal_trapezohedron.png | Diminished_heptagonal_trapezohedron.png |
-| 3                                     | 4                                   | 5                                       | 6                                      | 7                                       |
-+---------------------------------------+-------------------------------------+-----------------------------------------+----------------------------------------+-----------------------------------------+
++---+---+---+---+---+
+| 3 | 4 | 5 | 6 | 7 |
++---+---+---+---+---+
 
 : Family of diminished trapezohedra
 
@@ -132,7 +127,7 @@ In general, the facets of a polytope's dual will be the topological duals of the
 
 Self-dual polytopes and tessellations
 
-Kah_4_4.png, {4,4}, is self-dual, as shown by these red and blue tilings]] Infinite-order_apeirogonal_tiling_and_dual.png, {∞,∞} in red, and its dual position in blue]] The primary class of self-dual polytopes are regular polytopes with palindromic Schläfli symbols. All regular polygons, {a} are self-dual, polyhedra of the form {a,a}, 4-polytopes of the form {a,b,a}, 5-polytopes of the form {a,b,b,a}, etc.
+, {4,4}, is self-dual, as shown by these red and blue tilings]] , {∞,∞} in red, and its dual position in blue]] The primary class of self-dual polytopes are regular polytopes with palindromic Schläfli symbols. All regular polygons, {a} are self-dual, polyhedra of the form {a,a}, 4-polytopes of the form {a,b,a}, 5-polytopes of the form {a,b,b,a}, etc.
 
 The self-dual regular polytopes are:
 

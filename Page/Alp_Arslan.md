@@ -12,15 +12,13 @@ In consolidating his empire and subduing contending factions, Arslan was ably as
 
 Byzantine struggle
 
-Manzikert.jpg
-
 En route to fight the Fatimids in Syria in 1068, Alp Arslan invaded the Byzantine Empire. The Emperor Romanos IV Diogenes, assuming command in person, met the invaders in Cilicia. In three arduous campaigns, the Turks were defeated in detail and driven across the Euphrates in 1070. The first two campaigns were conducted by the emperor himself, while the third was directed by Manuel Comnenos, great-uncle of Emperor Manuel Comnenos. During this time, Arslan gained the allegiance of Rashid al-Dawla Mahmud, the Mirdasid emir of Aleppo.
 
 In 1071 Romanos again took the field and advanced into Armenia with possibly 30,000 men, including a contingent of Cuman Turks as well as contingents of Franks and Normans, under Ursel de Baieul. Alp Arslan, who had moved his troops south to fight the Fatimids, quickly reversed to meet the Byzantines. At Manzikert, on the Murat River, north of Lake Van, the two forces waged the Battle of Manzikert. The Cuman mercenaries among the Byzantine forces immediately defected to the Turkish side. Seeing this, "the Western mercenaries rode off and took no part in the battle."[5] To be exact, Romanos was betrayed by general Andronikos Doukas, son of the Caesar (Romanos's stepson), who pronounced him dead and rode off with a large part of the Byzantine forces at a critical moment.[6] The Byzantines were totally routed.
 
 Emperor Romanos IV was himself taken prisoner and conducted into the presence of Alp Arslan. After a ritual humiliation, Arslan treated him with generosity. After peace terms were agreed to, Arslan dismissed the Emperor, loaded with presents and respectfully attended by a military guard. The following conversation is said to have taken place after Romanos was brought as a prisoner before the Sultan:[7]
 
-BnF_Fr232_fol323_Alp_Arslan_Romanus.jpg after the Battle of Manzikert. From a 15th-century illustrated French translation of Boccacio's ''De Casibus Virorum Illustrium.]]
+after the Battle of Manzikert. From a 15th-century illustrated French translation of Boccacio's ''De Casibus Virorum Illustrium.]]
 
 Alp Arslan's victories changed the balance in near Asia completely in favour of the Seljuq Turks and Sunni Muslims. While the Byzantine Empire was to continue for nearly four more centuries, and the Crusades would contest the issue for some time, the victory at Manzikert signalled the beginning of Turkish ascendancy in Anatolia. Most historians, including Edward Gibbon, date the defeat at Manzikert as the beginning of the end of the Eastern Roman Empire.
 

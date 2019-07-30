@@ -1,4 +1,4 @@
-Oceania_without_Asian_country_codes.jpg with country codes.]] COUNTRY CODES are short alphabetic or numeric geographical codes (geocodes) developed to represent countries and dependent areas, for use in data processing and communications. Several different systems have been developed to do this. The term _country code_ frequently refers to international dialing codes, the E.164 country calling codes.
+with country codes.]] COUNTRY CODES are short alphabetic or numeric geographical codes (geocodes) developed to represent countries and dependent areas, for use in data processing and communications. Several different systems have been developed to do this. The term _country code_ frequently refers to international dialing codes, the E.164 country calling codes.
 
 
 ISO 3166-1

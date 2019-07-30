@@ -12,15 +12,13 @@ After visiting Venice and Urbino in 1707, Scarlatti took up his duties in Naples
 
 Scarlatti's music
 
-Alessandro_Scarlatti_2.jpg
-
 Scarlatti's music forms an important link between the early Baroque Italian vocal styles of the 17th century, with their centers in Florence, Venice and Rome, and the classical school of the 18th century. Scarlatti's style, however, is more than a transitional element in Western music; like most of his Naples colleagues he shows an almost modern understanding of the psychology of modulation and also frequently makes use of the ever-changing phrase lengths so typical of the Napoli school.
 
 His early operas—_Gli equivoci nel sembiante_ 1679; _L'honestà negli amori_ 1680, containing the famous aria "Già il sole dal Gange"; _Il Pompeo_ 1683, containing the well-known airs "O cessate di piagarmi" and "Toglietemi la vita ancor," and others down to about 1685—retain the older cadences in their recitatives, and a considerable variety of neatly constructed forms in their charming little arias, accompanied sometimes by the string quartet, treated with careful elaboration, sometimes with the continuo alone. By 1686, he had definitely established the "Italian overture" form (second edition of _Dal male il bene_), and had abandoned the ground bass and the binary form air in two stanzas in favour of the ternary form or da capo type of air. His best operas of this period are _La Rosaura_ (1690, printed by the Gesellschaft für Musikforschung), and _Pirro e Demetrio_ (1694), in which occur the arias "Le Violette", and "Ben ti sta, traditor".
 
 From about 1697 onwards (_La caduta del Decemviri_), influenced partly perhaps by the style of Giovanni Bononcini and probably more by the taste of the viceregal court, his opera arias become more conventional and commonplace in rhythm, while his scoring is hasty and crude, yet not without brilliance (_L'Eraclea_, 1700), the oboes and trumpets being frequently used, and the violins often playing in unison. The operas composed for Ferdinando de' Medici are lost; they might have given a more favourable idea of his style as his correspondence with the prince shows that they were composed with a very sincere sense of inspiration.
 
-Alessandro_Scarlatti_-_Griselda._(BL_Add_MS_14168_f._5r)_crop.jpg'']]
+'']]
 
 _Mitridate Eupatore_, accounted his masterpiece, composed for Venice in 1707, contains music far in advance of anything that Scarlatti had written for Naples, both in technique and in intellectual power. The later Neapolitan operas (_L'amor volubile e tiranno_ 1709; _La principessa fedele_ 1710; _Tigrane_, 1714, &c.) are showy and effective rather than profoundly emotional; the instrumentation marks a great advance on previous work, since the main duty of accompanying the voice is thrown upon the string quartet, the harpsichord being reserved exclusively for the noisy instrumental _ritornelli_. In his opera _Teodora_ (1697) he originated the use of the orchestral _ritornello_.
 

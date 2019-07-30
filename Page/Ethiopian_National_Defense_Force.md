@@ -31,7 +31,7 @@ In obedience to the agreement with Russia and the order of Menelik II, First Eth
 
 Under Haile Selassie I
 
-Ethiopian_camel_troops.jpg.]]
+.]]
 
 Modernization of the army took place under the regency of Tafari Mekonnen, who later reigned as Emperor Haile Selassie I. He created an Imperial Bodyguard, the _Kebur Zabagna_, in 1917 from the earlier _Mahal Safari_ who had traditionally attended the Ethiopian Emperor. Its elite were trained at the French military academy at Saint-Cyr or by Belgian military advisers. He also created his own military school at Holeta in January 1935.
 
@@ -43,7 +43,7 @@ Ethiopia bought twenty AH-IV tankettes from Sweden in the late 1940s. They arriv
 
 Korean War
 
-Ethiopian_soldiers_Korea1951.JPG, 1951]]
+, 1951]]
 
 In keeping with the principle of collective security, for which Haile Selassie was an outspoken proponent, Ethiopia sent a contingent under General Mulugeta Buli, known as the Kagnew Battalion, to take part in the Korean War. It was attached to the American 7th Infantry Division, and fought in a number of engagements including the Battle of Pork Chop Hill.[19] 3,518 Ethiopian troops served in the war, of which 121 were killed and 536 wounded.[20]
 
@@ -93,7 +93,7 @@ Cuba provided a significant influx of military advisors and troops over this per
 
 Gebru Tareke listed Ethiopian ground forces in 1990 as comprising four revolutionary armies organized as task forces, eleven corps, twenty-four infantry divisions, and four mountain divisions, reinforced by five mechanised divisions, two airborne divisions, and ninety-five brigades, including four mechanised brigades, three artillery brigades, four tank brigades, twelve special commando and paracommando brigades – including the Spartakiad, which became operational in 1987 under the preparation and guidance of North Koreans – seven BM-rocket battalions, and ten brigades of paramilitary forces.[31]
 
-Forces under arms were estimated at 230,000 in early 1991. Mengistu's People's Militia had also grown to about 200,000 members. The mechanized forces of the army comprised 1,200 T-54/55, 100 T-62 tanks, and 1,100 armored personnel carriers (APCs), but readiness was estimated to be only about 30 percent operational, because of the withdrawal of financial support, lack of maintenance expertise and parts from the Soviet Union, Cuba and other nations. T-55s_civil_war.JPG tanks at the end of the Ethiopian Civil War.]] The army commands consisted of the:
+Forces under arms were estimated at 230,000 in early 1991. Mengistu's People's Militia had also grown to about 200,000 members. The mechanized forces of the army comprised 1,200 T-54/55, 100 T-62 tanks, and 1,100 armored personnel carriers (APCs), but readiness was estimated to be only about 30 percent operational, because of the withdrawal of financial support, lack of maintenance expertise and parts from the Soviet Union, Cuba and other nations. tanks at the end of the Ethiopian Civil War.]] The army commands consisted of the:
 
 -   First Revolutionary Army (headquartered at Harar, 1988: 601st and 602nd Corps)
 -   Second Revolutionary Army (headquartered at Asmera, 1988: 606th-610th Corps)
@@ -117,7 +117,7 @@ Although the armed forces have significant battlefield experience, their militia
 
 The Ethiopia-Eritrea war
 
-Afrimil-ethiopiansoldier.jpg The former allies EPRDF and PFDJ (former EPLF) led their countries Ethiopia and Eritrea, respectively, into the Eritrean-Ethiopian War of 1998. The war was fought over the disputed region of Badme. During the course of the war, some commanders and pilots from the former army and air force were recalled to duty. These officers helped turn the tide decisively against Eritrea in 2000. Following the war's end, the Eritrea-Ethiopia Boundary Commission, a body founded by the UN, established that the Badme region had in fact belonged to Eritrea.[35] Although the two countries are now at peace, Ethiopia rejected the results of the international court's decision, and continued to occupy Badme. Most observers agree that Ethiopia's rejection of international law, coupled with the high numbers of soldiers maintained on the border by each side – a debilitatingly high number, particularly for the Eritrean side – means that the two countries are effectively still in conflict.
+The former allies EPRDF and PFDJ (former EPLF) led their countries Ethiopia and Eritrea, respectively, into the Eritrean-Ethiopian War of 1998. The war was fought over the disputed region of Badme. During the course of the war, some commanders and pilots from the former army and air force were recalled to duty. These officers helped turn the tide decisively against Eritrea in 2000. Following the war's end, the Eritrea-Ethiopia Boundary Commission, a body founded by the UN, established that the Badme region had in fact belonged to Eritrea.[35] Although the two countries are now at peace, Ethiopia rejected the results of the international court's decision, and continued to occupy Badme. Most observers agree that Ethiopia's rejection of international law, coupled with the high numbers of soldiers maintained on the border by each side – a debilitatingly high number, particularly for the Eritrean side – means that the two countries are effectively still in conflict.
 
 After the September 11 attacks in 2001, the Ethiopian army began to train with the U.S. Combined Joint Task Force - Horn of Africa (CJTF-HOA) established in Djibouti. Ethiopia allowed the US to station military advisors at Camp Hurso.[36] Part of the training at Camp Hurso has included U.S. Army elements, including 4th Battalion, 31st Infantry, training the 12th, 13th and 14th Division Reconnaissance Companies, which from July 2003 were being formed into a new Ethiopian anti-terrorism battalion.[37]
 

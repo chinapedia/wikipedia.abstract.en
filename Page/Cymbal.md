@@ -1,9 +1,9 @@
-Characteristic_rock_hi-hat_pattern.png A CYMBAL is a common percussion instrument. Often used in pairs, cymbals consist of thin, normally round plates of various alloys. The majority of cymbals are of indefinite pitch, although small disc-shaped cymbals based on ancient designs sound a definite note (see: crotales). Cymbals are used in many ensembles ranging from the orchestra, percussion ensembles, jazz bands, heavy metal bands, and marching groups. Drum kits usually incorporate at least a crash, ride, or crash/ride, and a pair of hi-hat cymbals. A player of cymbals is known as a CYMBALIST.
+A CYMBAL is a common percussion instrument. Often used in pairs, cymbals consist of thin, normally round plates of various alloys. The majority of cymbals are of indefinite pitch, although small disc-shaped cymbals based on ancient designs sound a definite note (see: crotales). Cymbals are used in many ensembles ranging from the orchestra, percussion ensembles, jazz bands, heavy metal bands, and marching groups. Drum kits usually incorporate at least a crash, ride, or crash/ride, and a pair of hi-hat cymbals. A player of cymbals is known as a CYMBALIST.
 
 
 Etymology and names
 
-NAMA_Cymbale.jpg bronze cymbal, 5th century BC, National Archaeological Museum, Athens]] (Jurchen)_Jin_Dynasty_bronze_cymbals.JPG]] The word cymbal is derived from the Latin _cymbalum_,[1] which is the latinisation of the Greek word _kymbalon_, "cymbal",[2] which in turn derives from _kymbē_, "cup, bowl".[3][4]
+bronze cymbal, 5th century BC, National Archaeological Museum, Athens]] ]] The word cymbal is derived from the Latin _cymbalum_,[1] which is the latinisation of the Greek word _kymbalon_, "cymbal",[2] which in turn derives from _kymbē_, "cup, bowl".[3][4]
 
 In orchestral scores, cymbals may be indicated by the French _cymbales_; German _Becken_, _Schellbecken_, _Teller_, or _Tschinellen_; Italian _piatti_ or _cinelli_; and Spanish _platillos_.[5] Many of these derive from the word for plates.
 
@@ -34,11 +34,7 @@ Cymbals offer a composer nearly endless amounts of color and effect. Their uniqu
 
 Crash cymbals
 
-Crash_cymbals_profile.png Khuti_taal.jpg
-
 Orchestral crash cymbals are traditionally used in pairs, each one having a strap set in the bell of the cymbal by which they are held. Such a pair is always known as CRASH CYMBALS or plates. The sound can be obtained by rubbing their edges together in a sliding movement for a "sizzle", striking them against each other in what is called a "crash", tapping the edge of one against the body of the other in what is called a "tap-crash", scraping the edge of one from the inside of the bell to the edge for a "scrape" or "zischen," or shutting the cymbals together and choking the sound in what is called a "hi-hat chick" or crush. A skilled percussionist can obtain an enormous dynamic range from such cymbals. For example, in Beethoven's ninth symphony, the percussionist is employed to first play cymbals pianissimo, adding a touch of colour rather than loud crash.
-
-Chinese_New_Year_Seattle_2007_-_25.jpg
 
 Crash cymbals are usually damped by pressing them against the percussionist's body. A composer may write _laissez vibrer_, "Let vibrate" (usually abbreviated l.v.), _secco_ (dry), or equivalent indications on the score; more usually, the percussionist must judge when to damp based on the written duration of a crash and the context in which it occurs. Crash cymbals have traditionally been accompanied by the bass drum playing an identical part. This combination, played loudly, is an effective way to accentuate a note since it contributes to both very low and very high frequency ranges and provides a satisfying "crash-bang-wallop". In older music the composer sometimes provided one part for this pair of instruments, writing _senza piatti_ or _piatti soli_ () if only one is needed. This came from the common practice of having one percussionist play using one cymbal mounted to the shell of the bass drum. The percussionist would crash the cymbals with the left hand and use a mallet to strike the bass drum with the right. This method is nowadays often employed in pit orchestras and called for specifically by composers who desire a certain effect. Stravinsky calls for this in his ballet Petrushka, and Mahler calls for this in his Titan Symphony. The modern convention is for the instruments to have independent parts. However, in kit drumming, a cymbal crash is still most often accompanied by a simultaneous kick to the bass drum, which provides a musical effect and support to the crash.
 
@@ -56,7 +52,7 @@ Ancient cymbals or tuned cymbals are much more rarely called for. Their timbre i
 
 List of cymbal types
 
-Hi-hats.jpg Cymbal types include:
+Cymbal types include:
 
 -   Bell cymbal
 -   China cymbal

@@ -1,5 +1,3 @@
-051118-WSIS.2005-Bruce.Perens.ogv
-
 BRUCE PERENS (born around 1958[1]) is an American venture capitalist, computer programmer and advocate in the free software movement. He created The Open Source Definition and published the first formal announcement and manifesto of open source.[2][3] He co-founded the Open Source Initiative (OSI) with Eric S. Raymond.[4]. Today, he is a partner at OSS Capital.
 
 In 2005, Perens represented Open Source at the United Nations World Summit on the Information Society, at the invitation of the United Nations Development Programme. He has appeared before national legislatures and is often quoted in the press, advocating for open source and the reform of national and international technology policy.

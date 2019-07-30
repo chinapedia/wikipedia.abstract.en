@@ -22,13 +22,13 @@ The UK was initially taken by surprise by the Argentine attack on the South Atla
 
 Argentine invasion
 
-ARASantísimaTrinidadD-2.jpg Operación_Rosario-Soldados_argentinos_en_Stanley.jpg On 2 April 1982, Argentine forces mounted amphibious landings, known as Operation Rosario,[14] on the Falkland Islands.[15] The invasion was met with a nominal defence organised by the Falkland Islands' Governor Sir Rex Hunt, giving command to Major Mike Norman of the Royal Marines. The events of the invasion included the landing of Lieutenant Commander Guillermo Sanchez-Sabarots' Amphibious Commandos Group, the attack on Moody Brook barracks, the engagement between the troops of Hugo Santillan and Bill Trollope at Stanley, and the final engagement and surrender at Government House.
+On 2 April 1982, Argentine forces mounted amphibious landings, known as Operation Rosario,[14] on the Falkland Islands.[15] The invasion was met with a nominal defence organised by the Falkland Islands' Governor Sir Rex Hunt, giving command to Major Mike Norman of the Royal Marines. The events of the invasion included the landing of Lieutenant Commander Guillermo Sanchez-Sabarots' Amphibious Commandos Group, the attack on Moody Brook barracks, the engagement between the troops of Hugo Santillan and Bill Trollope at Stanley, and the final engagement and surrender at Government House.
 
 Initial British response
 
 Word of the invasion first reached the UK from Argentine sources.[16] A Ministry of Defence operative in London had a short telex conversation with Governor Hunt's telex operator, who confirmed that Argentines were on the island and in control.[17][18] Later that day, BBC journalist Laurie Margolis spoke with an islander at Goose Green via amateur radio, who confirmed the presence of a large Argentine fleet and that Argentine forces had taken control of the island.[19] British military operations in the Falklands War were given the codename _Operation Corporate_, and the commander of the task force was Admiral Sir John Fieldhouse. Operations lasted from 1 April 1982 to 20 June 1982.[20]
 
-The_empire_strikes_back_newsweek.jpg'' magazine, 19 April 1982, depicts , flagship of the British Task Force. The headline evokes the 1980 _Star Wars_ sequel.]]
+'' magazine, 19 April 1982, depicts , flagship of the British Task Force. The headline evokes the 1980 _Star Wars_ sequel.]]
 
 The British undertook a series of military operations as a means of recapturing the Falklands from Argentine occupation, though the British had already taken action prior to the 2 April invasion. In response to events on South Georgia, the submarines and were ordered to sail south on 29 March, whereas the stores ship Royal Fleet Auxiliary (RFA) _Fort Austin_ was dispatched from the Western Mediterranean to support HMS _Endurance_.[21] Lord Carrington had wished to send a third submarine, but the decision was deferred due to concerns about the impact on operational commitments.[22] Coincidentally, on 26 March, the submarine left Gibraltar and it was assumed in the press it was heading south. There has since been speculation that the effect of those reports was to panic the Argentine junta into invading the Falklands before nuclear-powered submarines could be deployed.[23]
 
@@ -61,7 +61,7 @@ According to the book _Operation Israel_, advisers from Israel Aerospace Industr
 
 British Task Force
 
-HMS_Invincible_(R05)_underway_c1981.jpg 899_Shar_Yeovilton.jpg. The gloss paint scheme was altered to a duller one en route south.]] The British government had no contingency plan for an invasion of the islands, and the task force was rapidly put together from whatever vessels were available.[63] The nuclear-powered submarine set sail from France on 4 April, whilst the two aircraft carriers and , in the company of escort vessels, left Portsmouth only a day later.[64] On its return to Southampton from a world cruise on 7 April, the ocean liner was requisitioned and set sail two days later with 3 Commando Brigade aboard.[65] The ocean liner _Queen Elizabeth 2_ was also requisitioned and left Southampton on 12 May with 5th Infantry Brigade on board.[66] The whole task force eventually comprised 127 ships: 43 Royal Navy vessels, 22 Royal Fleet Auxiliary ships and 62 merchant ships.[67]
+. The gloss paint scheme was altered to a duller one en route south.]] The British government had no contingency plan for an invasion of the islands, and the task force was rapidly put together from whatever vessels were available.[63] The nuclear-powered submarine set sail from France on 4 April, whilst the two aircraft carriers and , in the company of escort vessels, left Portsmouth only a day later.[64] On its return to Southampton from a world cruise on 7 April, the ocean liner was requisitioned and set sail two days later with 3 Commando Brigade aboard.[65] The ocean liner _Queen Elizabeth 2_ was also requisitioned and left Southampton on 12 May with 5th Infantry Brigade on board.[66] The whole task force eventually comprised 127 ships: 43 Royal Navy vessels, 22 Royal Fleet Auxiliary ships and 62 merchant ships.[67]
 
 The retaking of the Falkland Islands was considered extremely difficult. The U.S. Navy considered a successful counter-invasion by the British "a military impossibility".[68] Firstly, the British were significantly constrained by the disparity in deployable air cover.[69] The British had 42 aircraft (28 Sea Harriers and 14 Harrier GR.3s) available for air combat operations,[70] against approximately 122 serviceable jet fighters, of which about 50 were used as air superiority fighters and the remainder as strike aircraft, in Argentina's air forces during the war.[71] Crucially, the British lacked airborne early warning and control (AEW) aircraft. Planning also considered the Argentine surface fleet and the threat posed by Exocet-equipped vessels or the two Type 209 submarines.[72]
 
@@ -73,8 +73,6 @@ Recapture of South Georgia and the attack on _Santa Fe_
 
 The South Georgia force, Operation Paraquet, under the command of Major Guy Sheridan RM, consisted of Marines from 42 Commando, a troop of the Special Air Service (SAS) and Special Boat Service (SBS) troops who were intended to land as reconnaissance forces for an invasion by the Royal Marines. All were embarked on . First to arrive was the HMS _Conqueror_ on 19 April, and the island was over-flown by a radar-mapping Handley Page Victor on 20 April.
 
-USS_Catfish;0833910.jpg
-
 The first landings of SAS troops took place on 21 April, but—with the southern hemisphere autumn setting in—the weather was so bad that their landings and others made the next day were all withdrawn after two helicopters crashed in fog on Fortuna Glacier. On 23 April, a submarine alert was sounded and operations were halted, with _Tidespring_ being withdrawn to deeper water to avoid interception. On 24 April, the British forces regrouped and headed in to attack.
 
 On 25 April, after resupplying the Argentine garrison in South Georgia, the submarine was spotted on the surface[75] by a Westland Wessex HAS Mk 3 helicopter from , which attacked the Argentine submarine with depth charges. launched a Westland Wasp HAS.Mk.1 helicopter, and launched a Westland Lynx HAS Mk 2. The Lynx launched a torpedo, and strafed the submarine with its pintle-mounted general purpose machine gun; the Wessex also fired on _Santa Fe_ with its GPMG. The Wasp from as well as two other Wasps launched from fired AS-12 ASM antiship missiles at the submarine, scoring hits. _Santa Fe_ was damaged badly enough to prevent her from diving. The crew abandoned the submarine at the jetty at King Edward Point on South Georgia.
@@ -83,7 +81,7 @@ With _Tidespring_ now far out to sea, and the Argentine forces augmented by the 
 
 Black Buck raids
 
-Avro_Vulcan_Bomber_RAF.JPEG B.Mk.2 strategic bomber]] On 1 May, British operations on the Falklands opened with the "Black Buck 1" attack (of a series of five) on the airfield at Stanley. A Vulcan bomber from Ascension flew on an round trip dropping conventional bombs across the runway at Stanley and back to Ascension. The mission required repeated refuelling, and required several Victor K2 tanker aircraft operating in concert, including tanker-to-tanker refuelling. The overall effect of the raids on the war is difficult to determine, and the raids consumed precious tanker resources from Ascension,[77] but also prevented Argentina from stationing fast jets on the islands.
+B.Mk.2 strategic bomber]] On 1 May, British operations on the Falklands opened with the "Black Buck 1" attack (of a series of five) on the airfield at Stanley. A Vulcan bomber from Ascension flew on an round trip dropping conventional bombs across the runway at Stanley and back to Ascension. The mission required repeated refuelling, and required several Victor K2 tanker aircraft operating in concert, including tanker-to-tanker refuelling. The overall effect of the raids on the war is difficult to determine, and the raids consumed precious tanker resources from Ascension,[77] but also prevented Argentina from stationing fast jets on the islands.
 
 Historian Lawrence Freedman, who was given access to official sources, comments that the significance of the Vulcan raids remains controversial.[78] Although taking pressure off the small Sea Harrier force, the raids were costly and used a great deal of resources. The single hit in the centre of the runway was probably the best that could have been expected but it did reduce the capability of the runway to operate fast jets and caused the Argentine air force to deploy Mirage III to defend the capital.[79] Argentine sources confirm that the Vulcan raids influenced Argentina to withdraw some of its Mirage IIIs from Southern Argentina to the Buenos Aires Defence Zone.[80][81][82] This dissuasive effect was watered down when British officials made clear that there would not be strikes on air bases in Argentina.[83] The raids were later dismissed as propaganda by Falklands veteran Commander Nigel Ward.[84]
 
@@ -91,7 +89,7 @@ Of the five Black Buck raids, three were against Stanley Airfield, with the othe
 
 Escalation of the air war
 
-Super_Etendard_ARA_204.jpg of the Argentine Naval Aviation]] The Falklands had only three airfields. The longest and only paved runway was at the capital, Stanley, and even that was too short to support fast jets (although an arrestor gear was fitted in April to support Skyhawks). Therefore, the Argentines were forced to launch their major strikes from the mainland, severely hampering their efforts at forward staging, combat air patrols, and close air support over the islands. The effective loiter time of incoming Argentine aircraft was low, and they were later compelled to overfly British forces in any attempt to attack the islands.
+of the Argentine Naval Aviation]] The Falklands had only three airfields. The longest and only paved runway was at the capital, Stanley, and even that was too short to support fast jets (although an arrestor gear was fitted in April to support Skyhawks). Therefore, the Argentines were forced to launch their major strikes from the mainland, severely hampering their efforts at forward staging, combat air patrols, and close air support over the islands. The effective loiter time of incoming Argentine aircraft was low, and they were later compelled to overfly British forces in any attempt to attack the islands.
 
 The first major Argentine strike force comprised 36 aircraft (A-4 Skyhawks, IAI Daggers, English Electric Canberras, and Mirage III escorts), and was sent on 1 May, in the belief that the British invasion was imminent or landings had already taken place. Only a section of Grupo 6 (flying IAI Dagger aircraft) found ships, which were firing at Argentine defences near the islands. The Daggers managed to attack the ships and return safely. This greatly boosted morale of the Argentine pilots, who now knew they could survive an attack against modern warships, protected by radar ground clutter from the Islands and by using a late pop up profile. Meanwhile, other Argentine aircraft were intercepted by BAE Sea Harriers operating from . A Dagger[85] and a Canberra were shot down.
 
@@ -107,7 +105,7 @@ Various options to attack the home base of the five Argentine Étendards at Río
 
 Sinking of ARA _General Belgrano_
 
-ARA_Belgrano_1982.PNG ARA_Alférez_Sobral_(A-9).jpg Two British naval task forces (one of surface vessels and one of submarines) and the Argentine fleet were operating in the neighbourhood of the Falklands and soon came into conflict. The first naval loss was the Second World War-vintage Argentine light cruiser . The nuclear-powered submarine sank _General Belgrano_ on 2 May. Three hundred and twenty-three members of _General Belgrano_{{'}}s crew died in the incident. More than 700 men were rescued from the open ocean despite cold seas and stormy weather. The losses from _General Belgrano_ totalled nearly half of the Argentine deaths in the Falklands conflict and the loss of the ship hardened the stance of the Argentine government.
+Two British naval task forces (one of surface vessels and one of submarines) and the Argentine fleet were operating in the neighbourhood of the Falklands and soon came into conflict. The first naval loss was the Second World War-vintage Argentine light cruiser . The nuclear-powered submarine sank _General Belgrano_ on 2 May. Three hundred and twenty-three members of _General Belgrano_{{'}}s crew died in the incident. More than 700 men were rescued from the open ocean despite cold seas and stormy weather. The losses from _General Belgrano_ totalled nearly half of the Argentine deaths in the Falklands conflict and the loss of the ship hardened the stance of the Argentine government.
 
 Regardless of controversies over the sinking—including disagreement about the exact nature of the maritime exclusion zone and whether _General Belgrano_ had been returning to port at the time of the sinking—it had a crucial strategic effect: the elimination of the Argentine naval threat. After her loss, the entire Argentine fleet, with the exception of the diesel-powered submarine ,[92] returned to port and did not leave again during the fighting. The two escorting destroyers and the battle group centred on the aircraft carrier both withdrew from the area, ending the direct threat to the British fleet that their pincer movement had represented.
 
@@ -117,7 +115,7 @@ In a separate incident later that night, British forces engaged an Argentine pat
 
 Sinking of HMS _Sheffield_
 
-HMS_Sheffield_(D80).jpg On 4 May, two days after the sinking of _General Belgrano_, the British lost the Type 42 destroyer to fire following an Exocet missile strike from the Argentine 2nd Naval Air Fighter/Attack Squadron.
+On 4 May, two days after the sinking of _General Belgrano_, the British lost the Type 42 destroyer to fire following an Exocet missile strike from the Argentine 2nd Naval Air Fighter/Attack Squadron.
 
 _Sheffield_ had been ordered forward with two other Type 42s to provide a long-range radar and medium-high altitude missile picket far from the British carriers. She was struck amidships, with devastating effect, ultimately killing 20 crew members and severely injuring 24 others. The ship was abandoned several hours later, gutted and deformed by the fires that continued to burn for six more days. She finally sank outside the Maritime Exclusion Zone on 10 May. During the sinking of the ship and subsequent evacuation the crew sang Monty Python's "Always Look on the Bright Side of Life", a popular English comedy song.[94]
 
@@ -142,13 +140,11 @@ Land battles
 
 San Carlos – Bomb Alley
 
-Action_stations_Falklands_1982.JPG at action stations on near San Carlos, June 1982]] During the night of 21 May, the British Amphibious Task Group under the command of Commodore Michael Clapp (Commodore, Amphibious Warfare – COMAW) mounted _Operation Sutton_, the amphibious landing on beaches around San Carlos Water, on the northwestern coast of East Falkland facing onto Falkland Sound. The bay, known as _Bomb Alley_ by British forces, was the scene of repeated air attacks by low-flying Argentine jets.[100][101]
+at action stations on near San Carlos, June 1982]] During the night of 21 May, the British Amphibious Task Group under the command of Commodore Michael Clapp (Commodore, Amphibious Warfare – COMAW) mounted _Operation Sutton_, the amphibious landing on beaches around San Carlos Water, on the northwestern coast of East Falkland facing onto Falkland Sound. The bay, known as _Bomb Alley_ by British forces, was the scene of repeated air attacks by low-flying Argentine jets.[100][101]
 
 The men of 3 Commando Brigade were put ashore as follows: 2nd Battalion, Parachute Regiment (2 Para) from the RORO ferry _Norland_ and 40 Commando Royal Marines from the amphibious ship were landed at San Carlos (Blue Beach), 3rd Battalion, Parachute Regiment (3 Para) from the amphibious ship was landed at Port San Carlos (Green Beach) and 45 Commando from RFA _Stromness_ was landed at Ajax Bay (Red Beach). Notably, the waves of eight LCUs and eight LCVPs were led by Major Ewen Southby-Tailyour, who had commanded the Falklands detachment NP8901 from March 1978 to 1979. 42 Commando on the ocean liner was a tactical reserve. Units from the Royal Artillery, Royal Engineers, etc. and armoured reconnaissance vehicles were also put ashore with the landing craft, the Round Table class LSL and mexeflote barges. Rapier missile launchers were carried as underslung loads of Sea Kings for rapid deployment.
 
 By dawn the next day, they had established a secure beachhead from which to conduct offensive operations. From there, Brigadier Julian Thompson's plan was to capture Darwin and Goose Green before turning towards Port Stanley. Now, with the British troops on the ground, the Argentine Air Force began the night bombing campaign against them using Canberra bomber planes until the last day of the war (14 June).
-
-HMS_Antelope_1982.jpg HMS_Coventry_D118.jpg
 
 At sea, the paucity of the British ships' anti-aircraft defences was demonstrated in the sinking of on 21 May, on 24 May, and (struck by two AM39 Exocets) on 25 May along with a vital cargo of helicopters, runway-building equipment and tents. The loss of all but one of the Chinook helicopters being carried by the Atlantic Conveyor was a severe blow from a logistical perspective.
 
@@ -164,7 +160,7 @@ Thirteen bombs hit British ships without detonating.[104] Lord Craig, the retire
 
 Goose Green
 
-Land.ops.2.en.svg From early on 27 May until 28 May, 2 Para, (approximately 500 men) with naval gunfire support from [108] and artillery support from 8 Commando Battery, Royal Artillery, approached and attacked Darwin and Goose Green, which was held by the Argentine 12th Infantry Regiment. After a tough struggle that lasted all night and into the next day, the British won the battle; in all, 17 British and 47 Argentine soldiers were killed. In total 961 Argentine troops (including 202 Argentine Air Force personnel of the _Condor_ airfield) were taken prisoner.
+From early on 27 May until 28 May, 2 Para, (approximately 500 men) with naval gunfire support from [108] and artillery support from 8 Commando Battery, Royal Artillery, approached and attacked Darwin and Goose Green, which was held by the Argentine 12th Infantry Regiment. After a tough struggle that lasted all night and into the next day, the British won the battle; in all, 17 British and 47 Argentine soldiers were killed. In total 961 Argentine troops (including 202 Argentine Air Force personnel of the _Condor_ airfield) were taken prisoner.
 
 The BBC announced the taking of Goose Green on the BBC World Service before it had actually happened. It was during this attack that Lieutenant Colonel H. Jones, the commanding officer of 2 Para, was killed at the head of his battalion while charging into the well-prepared Argentine positions. He was posthumously awarded the Victoria Cross.
 
@@ -194,8 +190,6 @@ By 1 June, with the arrival of a further British troops of the 5th Infantry Brig
 
 The Guards were sent to support an advance along the southern approach to Stanley. On 2 June, a small advance party of 2 Para moved to Swan Inlet house in a number of Army Westland Scout helicopters. Telephoning ahead to Fitzroy, they discovered that the area was clear of Argentines and (exceeding their authority) commandeered the one remaining RAF Chinook helicopter to frantically ferry another contingent of 2 Para ahead to Fitzroy (a settlement on Port Pleasant) and Bluff Cove (a settlement on Port Fitzroy).
 
-Stanley.falklands.war.svg
-
 This uncoordinated advance caused great difficulties in planning for the commanders of the combined operation, as they now found themselves with a string of indefensible positions on their southern flank. Support could not be sent by air as the single remaining Chinook was already heavily oversubscribed. The soldiers could march, but their equipment and heavy supplies would need to be ferried by sea.
 
 Plans were drawn up for half the Welsh Guards to march light on the night of 2 June, whilst the Scots Guards and the second half of the Welsh Guards were to be ferried from San Carlos Water in the Landing Ship Logistics (LSL) _Sir Tristram_ and the landing platform dock (LPD) _Intrepid_ on the night of 5 June. _Intrepid_ was planned to stay one day and unload itself and as much of _Sir Tristram_ as possible, leaving the next evening for the relative safety of San Carlos. Escorts would be provided for this day, after which _Sir Tristram_ would be left to unload using a Mexeflote (a powered raft) for as long as it took to finish.
@@ -216,11 +210,9 @@ British casualties were 48 killed and 115 wounded.[119] Three Argentine pilots w
 
 Fall of Stanley
 
-Cardiff_anchored_outside_Port_Stanley.JPG Argentine_prisoners_of_war_-_Port_Stanley.JPG On the night of 11 June, after several days of painstaking reconnaissance and logistic build-up, British forces launched a brigade-sized night attack against the heavily defended ring of high ground surrounding Stanley. Units of 3 Commando Brigade, supported by naval gunfire from several Royal Navy ships, simultaneously attacked in the Battle of Mount Harriet, Battle of Two Sisters, and Battle of Mount Longdon. Mount Harriet was taken at a cost of 2 British and 18 Argentine soldiers. At Two Sisters, the British faced both enemy resistance and friendly fire, but managed to capture their objectives. The toughest battle was at Mount Longdon. British forces were bogged down by assault rifle, mortar, machine gun, artillery fire, sniper fire, and ambushes. Despite this, the British continued their advance.
+On the night of 11 June, after several days of painstaking reconnaissance and logistic build-up, British forces launched a brigade-sized night attack against the heavily defended ring of high ground surrounding Stanley. Units of 3 Commando Brigade, supported by naval gunfire from several Royal Navy ships, simultaneously attacked in the Battle of Mount Harriet, Battle of Two Sisters, and Battle of Mount Longdon. Mount Harriet was taken at a cost of 2 British and 18 Argentine soldiers. At Two Sisters, the British faced both enemy resistance and friendly fire, but managed to capture their objectives. The toughest battle was at Mount Longdon. British forces were bogged down by assault rifle, mortar, machine gun, artillery fire, sniper fire, and ambushes. Despite this, the British continued their advance.
 
 During this battle, 13 were killed when , straying too close to shore while returning from the gun line, was struck by an improvised trailer-based Exocet MM38 launcher taken from the destroyer by Argentine Navy technicians.[121] On the same day, Sergeant Ian McKay of 4 Platoon, B Company, 3 Para died in a grenade attack on an Argentine bunker, which earned him a posthumous Victoria Cross. After a night of fierce fighting, all objectives were secured. Both sides suffered heavy losses.
-
-Discarded_weapons,_Stanley_1982.JPG
 
 The second phase of attacks began on the night of 13 June, and the momentum of the initial assault was maintained. 2 Para, with light armour support from the Blues and Royals, captured Wireless Ridge, with the loss of 3 British and 25 Argentine lives, and the 2nd battalion, Scots Guards captured Mount Tumbledown at the Battle of Mount Tumbledown, which cost 10 British and 30 Argentine lives.
 
@@ -231,12 +223,12 @@ A ceasefire was declared on 14 June and the commander of the Argentine garrison 
 
 Recapture of South Sandwich Islands
 
-Thule1981.jpg On 20 June, the British retook the South Sandwich Islands, which involved accepting the surrender of the Southern Thule Garrison at the Corbeta Uruguay base, and declared hostilities over. Argentina had established Corbeta Uruguay in 1976, but prior to 1982 the United Kingdom had contested the existence of the Argentine base only through diplomatic channels.[123]
+On 20 June, the British retook the South Sandwich Islands, which involved accepting the surrender of the Southern Thule Garrison at the Corbeta Uruguay base, and declared hostilities over. Argentina had established Corbeta Uruguay in 1976, but prior to 1982 the United Kingdom had contested the existence of the Argentine base only through diplomatic channels.[123]
 
 
 Casualties
 
-Argentinegraveseastfalkland.jpg, on East Falkland]] San-Carlos-Cemetery.JPG]] In total, 907 were killed during the 74 days of the conflict:
+, on East Falkland]] ]] In total, 907 were killed during the 74 days of the conflict:
 
 -   ARGENTINA – 649[124]
     -   Ejército Argentino (_Army_) – 194 (16 officers, 35 non-commissioned officers (NCO) and 143 conscript privates)[125]
@@ -268,7 +260,7 @@ There were Argentine and 777 British non-fatal casualties.
 
 Red Cross Box
 
-HMS_Hecla_1982_Gibraltar.jpg Before British offensive operations began, the British and Argentine governments agreed to establish an area on the high seas where both sides could station hospital ships without fear of attack by the other side. This area, a circle 20 nautical miles in diameter, was referred to as the Red Cross Box (), about north of Falkland Sound. Ultimately, the British stationed four ships (, and and the primary hospital ship SS _Uganda_) within the box, while the Argentines stationed three (, _Bahia Paraiso_ and ).
+Before British offensive operations began, the British and Argentine governments agreed to establish an area on the high seas where both sides could station hospital ships without fear of attack by the other side. This area, a circle 20 nautical miles in diameter, was referred to as the Red Cross Box (), about north of Falkland Sound. Ultimately, the British stationed four ships (, and and the primary hospital ship SS _Uganda_) within the box, while the Argentines stationed three (, _Bahia Paraiso_ and ).
 
 The hospital ships were non-warships converted to serve as hospital ships. The three British naval vessels were survey vessels and _Uganda_ was a passenger liner. _Almirante Irizar_ was an icebreaker, _Bahia Paraiso_ was an Antarctic supply transport and _Puerto Deseado_ was a survey ship. The British and Argentine vessels operating within the Box were in radio contact and there was some transfer of patients between the hospital ships. For example, the _Uganda_ on four occasions transferred patients to an Argentine hospital ship. The British naval hospital ships operated as casualty ferries, carrying casualties from both sides from the Falklands to _Uganda_ and operating a shuttle service between the Red Cross Box and Montevideo, Uruguay.
 
@@ -281,7 +273,7 @@ _Hydra_ worked with _Hecla_ and _Herald_ to take casualties from _Uganda_ to Mon
 
 Aftermath
 
-Malvimasmemorial.jpg, Buenos Aires; a member of the historic _Patricios_ regiment stands guard]] This brief war brought many consequences for all the parties involved, besides the considerable casualty rate and large materiel loss, especially of shipping and aircraft, relative to the deployed military strengths of the opposing sides.
+, Buenos Aires; a member of the historic _Patricios_ regiment stands guard]] This brief war brought many consequences for all the parties involved, besides the considerable casualty rate and large materiel loss, especially of shipping and aircraft, relative to the deployed military strengths of the opposing sides.
 
 In the United Kingdom, Margaret Thatcher's popularity increased. The success of the Falklands campaign was widely regarded as a factor in the turnaround in fortunes for the Conservative government, who had been trailing behind the SDP-Liberal Alliance in the opinion polls for months before the conflict began, but after the success in the Falklands the Conservatives returned to the top of the opinion polls by a wide margin and went on to win the following year's general election by a landslide.[142] Subsequently, Defence Secretary Nott's proposed cuts to the Royal Navy were abandoned.
 
@@ -299,7 +291,7 @@ In 1986, the BBC broadcast the _Horizon_ programme, _In the Wake of HMS Sheffiel
 
 Memorials
 
-1982_Liberation_Memorial_in_Stanley_(5612271774).jpg in Stanley]] There are several memorials on the Falkland Islands themselves, the most notable of which is the 1982 Liberation Memorial, unveiled in 1984 on the second anniversary of the end of the war. It lists the names of the 255 British military personnel who died during the war and is located in front of the Secretariat Building in Stanley, overlooking Stanley Harbour. The Memorial was funded entirely by the Islanders and is inscribed with the words "In Memory of Those Who Liberated Us".[147]
+in Stanley]] There are several memorials on the Falkland Islands themselves, the most notable of which is the 1982 Liberation Memorial, unveiled in 1984 on the second anniversary of the end of the war. It lists the names of the 255 British military personnel who died during the war and is located in front of the Secretariat Building in Stanley, overlooking Stanley Harbour. The Memorial was funded entirely by the Islanders and is inscribed with the words "In Memory of Those Who Liberated Us".[147]
 
 In addition to memorials on the islands, there is a memorial in the crypt of St Paul's Cathedral, London to the British war dead.[148] The Falkland Islands Memorial Chapel at Pangbourne College was opened in March 2000 as a commemoration of the lives and sacrifice of all those who served and died in the South Atlantic in 1982.[149] In Argentina, there is a memorial at Plaza San Martín in Buenos Aires,[150] another one in Rosario, and a third one in Ushuaia.
 
@@ -309,7 +301,7 @@ Many of the Argentine dead are buried in the Argentine Military Cemetery west of
 
 Minefields
 
-Falklands-Minefield.JPG, East Falkland.]]
+, East Falkland.]]
 
 , there were 113 uncleared minefields on the Falkland Islands and unexploded ordnance (UXOs) covering an area of . Of this area, on the Murrell Peninsula were classified as being "suspected minefields"—the area had been heavily pastured for the previous 25 years without incident. It was estimated that these minefields had anti-personnel mines and anti-tank mines. No human casualties from mines or UXO have been reported in the Falkland Islands since 1984, and no civilian mine casualties have ever occurred on the islands. The UK reported six military personnel were injured in 1982 and a further two injured in 1983. Most military accidents took place while clearing the minefields in the immediate aftermath of the 1982 conflict or in the process of trying to establish the extent of the minefield perimeters, particularly where no detailed records existed.
 
@@ -320,7 +312,7 @@ Press and publicity
 
 Argentina
 
-Gentemayo1982.jpg Selected war correspondents were regularly flown to Port Stanley in military aircraft to report on the war. Back in Buenos Aires, newspapers and magazines faithfully reported on "the heroic actions of the largely conscript army and its successes".[155]
+Selected war correspondents were regularly flown to Port Stanley in military aircraft to report on the war. Back in Buenos Aires, newspapers and magazines faithfully reported on "the heroic actions of the largely conscript army and its successes".[155]
 
 Officers from the intelligence services were attached to the newspapers and 'leaked' information confirming the official communiqués from the government. The glossy magazines _Gente_ and _Siete Días_ swelled to 60 pages with colour photographs of British warships in flames—many of them faked—and bogus eyewitness reports of the Argentine commandos' guerrilla war on South Georgia (6 May) and an already dead Pucará pilot's attack on HMS _Hermes_[156] (Lt. Daniel Antonio Jukic had been killed at Goose Green during a British air strike on 1 May). Most of the faked photos actually came from the tabloid press. One of the best remembered headlines was "Estamos ganando" ("We're winning") from the magazine _Gente_, that would later use variations of it.[157]
 
@@ -332,7 +324,7 @@ HMS _Invincible_ was repeatedly sunk in the Argentine press,[161] and on 30 Apri
 
 United Kingdom
 
-The_Sun_(Gotcha).png]] Seventeen newspaper reporters, two photographers, two radio reporters and three television reporters with five technicians sailed with the Task Force to the war. The Newspaper Publishers' Association selected them from among 160 applicants, excluding foreign media. The hasty selection resulted in the inclusion of two journalists among the war reporters who were interested only in Queen Elizabeth II's son Prince Andrew, who was serving in the conflict.[164] The Prince flew a helicopter on multiple missions, including Anti-Surface Warfare, Exocet missile decoy and casualty evacuation.
+]] Seventeen newspaper reporters, two photographers, two radio reporters and three television reporters with five technicians sailed with the Task Force to the war. The Newspaper Publishers' Association selected them from among 160 applicants, excluding foreign media. The hasty selection resulted in the inclusion of two journalists among the war reporters who were interested only in Queen Elizabeth II's son Prince Andrew, who was serving in the conflict.[164] The Prince flew a helicopter on multiple missions, including Anti-Surface Warfare, Exocet missile decoy and casualty evacuation.
 
 Merchant vessels had the civilian Inmarsat uplink, which enabled written telex and voice report transmissions via satellite. had a facsimile machine that was used to upload 202 pictures from the South Atlantic over the course of the war. The Royal Navy leased bandwidth on the U.S. Defense Satellite Communications System for worldwide communications. Television demands a thousand times the data rate of telephone, but the Ministry of Defence was unsuccessful in convincing the U.S. to allocate more bandwidth.[165]
 

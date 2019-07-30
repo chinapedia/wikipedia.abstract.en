@@ -14,7 +14,7 @@ Patrick D. Miller in his commentary on Deuteronomy suggests that different views
 
 Summary
 
-Karolingischer_Buchmaler_um_840_002.jpg ''(The following "literary" outline of Deuteronomy is from John Van Seters;[10] it can be contrasted with Alexander Rofé's "covenantal" analysis in his _Deuteronomy: Issues and Interpretation_.[11])''
+''(The following "literary" outline of Deuteronomy is from John Van Seters;[10] it can be contrasted with Alexander Rofé's "covenantal" analysis in his _Deuteronomy: Issues and Interpretation_.[11])''
 
 -   Chapters 1–4: The journey through the wilderness from Horeb (Sinai) to Kadesh and then to Moab is recalled.
 -   Chapters 4–11: After a second introduction at 4:44–49 the events at Mount Horeb are recalled, with the giving of the Ten Commandments. Heads of families are urged to instruct those under their care in the law, warnings are made against serving gods other than Yahweh, the land promised to Israel is praised, and the people are urged to obedience.
@@ -81,8 +81,6 @@ Criminal law
 
 Composition
 
-Tissot_Moses_Sees_the_Promised_Land_from_Afar.jpg
-
 Composition history
 
 Since the evidence was first put forward by W.M.L de Wette in 1805, a broad consensus of scholars have accepted that the core of Deuteronomy was composed in Jerusalem in the 7th century BC in the context of religious reforms advanced by King Josiah (reigned 641–609 BC).[14] A broad consensus exists that sees its history in the following general terms:[15]
@@ -145,7 +143,7 @@ Influence on Judaism and Christianity
 
 Judaism
 
-The_Book_of_Deuteronomy,_Debarim._Hebrew_with_translation_in_Judo-Arabic,_transcribed_in_Hebrew_letters._From_Livorno,_1894_CE._Moroccan_Jewish_Museum,_Casablanca.jpg Deuteronomy 6:4–5: "Hear, O Israel (_shema Yisra'el_), the is our God, the is one!" has become the basic credo of Judaism, the Shema Yisrael, and its twice-daily recitation is a mitzvah (religious commandment). It continues, "Thou shalt love the thy God with all thy heart and all thy soul and all thy might"; it has therefore also become identified with the central Jewish concept of the love of God, and the rewards that come as a consequence.
+Deuteronomy 6:4–5: "Hear, O Israel (_shema Yisra'el_), the is our God, the is one!" has become the basic credo of Judaism, the Shema Yisrael, and its twice-daily recitation is a mitzvah (religious commandment). It continues, "Thou shalt love the thy God with all thy heart and all thy soul and all thy might"; it has therefore also become identified with the central Jewish concept of the love of God, and the rewards that come as a consequence.
 
 Christianity
 

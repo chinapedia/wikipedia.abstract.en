@@ -54,7 +54,7 @@ The Amiga brand was then sold to a US Wintel PC manufacturer, Gateway 2000, whic
 
 Hardware
 
-Amiga_1000_computer.jpg]] Amiga_600.jpg]] Amiga_1200_with_mouse,_drives.jpg]] Amiga-CD32-wController-L.jpg]] Deluxe_Paint_for_Amiga.jpg bitmap graphics editing program]] At its core, the Amiga has a custom chipset consisting of several coprocessors, which handle audio, video and direct memory access independently of the Central Processing Unit (CPU). This architecture freed up the Amiga's processor for other tasks and gave the Amiga a performance edge over its competitors, particularly in terms of video-intensive applications and games.[25]
+]] ]] ]] ]] bitmap graphics editing program]] At its core, the Amiga has a custom chipset consisting of several coprocessors, which handle audio, video and direct memory access independently of the Central Processing Unit (CPU). This architecture freed up the Amiga's processor for other tasks and gave the Amiga a performance edge over its competitors, particularly in terms of video-intensive applications and games.[25]
 
 The general Amiga architecture uses two distinct bus subsystems, namely, the chipset bus and the CPU bus. The chipset bus allows the custom coprocessors and CPU to address "Chip RAM". The CPU bus provides addressing to other subsystems, such as conventional RAM, ROM and the Zorro II or Zorro III expansion subsystems. This architecture enables independent operation of the subsystems; the CPU "Fast" bus can be much faster than the chipset bus. CPU expansion boards may provide additional custom buses. Additionally, "busboards" or "bridgeboards" may provide ISA or PCI buses.[26]
 
@@ -72,7 +72,7 @@ The custom chipset at the core of the Amiga design appeared in three distinct ge
 
 Graphics
 
-HAM6example.png picture created with Photon Paint in 1989]]
+picture created with Photon Paint in 1989]]
 
 All Amiga systems can display full-screen animated graphics with 2, 4, 8, 16, 32, 64 (EHB Mode), or 4096 colors (HAM Mode). Models with the AGA chipset (A1200 and A4000) also have non-EHB 64, 128, 256, and (HAM8 Mode) color modes and a palette expanded from 4096 to 16.8 million colors.
 
@@ -98,8 +98,6 @@ Kickstart is the firmware upon which AmigaOS is bootstrapped. Its purpose is to 
 
 Keyboard and mouse
 
-Amiga_Mouse.jpg
-
 The keyboard on Amiga computers is similar to that found on a mid 80s IBM PC: Ten function keys, a numeric keypad, and four separate directional arrow keys. Caps Lock and Control share space to the left of A. Missing are the Home, End, Page Up, and Page Down keys: These are accomplished on Amigas by pressing shift and the appropriate arrow key. The Amiga keyboard adds a Help key, which a function key usually acts as on PCs (usually F1). In addition to the Control and Alt modifier keys, the Amiga has 2 'Amiga' keys, rendered as 'Open Amiga' and 'Closed Amiga' similar to the Open/Closed Apple logo keys on Apple II keyboards. The left is used to manipulate the operating system (moving screens and the like) and the right delivered commands to the application. The absence of Num lock frees space for more math symbols around the number pad. Contemporary Macintosh computers, for comparison, lack function keys completely.
 
 The mouse has two buttons like Windows, but unlike Windows pressing and holding the right button replaces the system status line at the top of the screen with a Maclike menu bar. As with Apple's Mac OS prior to Mac OS 8, menu options are selected by releasing the button over that option, not by left clicking. Menu items that have a boolean toggle state can be left clicked whilst the menu is kept open with the right button, which allows the user – for example – to set some selected text to bold, underline and italics all at once.
@@ -107,8 +105,6 @@ The mouse has two buttons like Windows, but unlike Windows pressing and holding 
 The mouse plugs into one of two Atari joystick ports used for joysticks, game paddles, and graphics tablets. Although compatible with analog joysticks, Atari-style digital joysticks became standard.[34]
 
 Other peripherals and expansions
-
-Amiga_Sound_Sampling_Hardware.jpg
 
 The Amiga was one of the first computers for which inexpensive sound sampling and video digitization accessories were available. As a result of this and the Amiga's audio and video capabilities, the Amiga became a popular system for editing and producing both music and video.
 
@@ -180,7 +176,7 @@ The original Amiga models were produced from 1985 to 1996.[60] They are, in orde
 
 Commodore Amiga
 
-Amiga_1000DP.jpg (1985) was the first model released.[61]]] Amiiga4000DP.jpg (1992) was the last desktop computer made by Commodore.]]
+(1985) was the first model released.[61]]] (1992) was the last desktop computer made by Commodore.]]
 
 The first Amiga model, the Amiga 1000, was launched in 1985. In 2006, PC World rated the Amiga 1000 as the seventh greatest PC of all time, stating "Years ahead of its time, the Amiga was the world's first multimedia, multitasking personal computer".[62]
 
@@ -229,8 +225,6 @@ Operating systems
 
 AmigaOS
 
-AmigaOne_X1000_02.jpg
-
 AmigaOS is a single-user multitasking operating system. It was developed first by Commodore International, and initially introduced in 1985 with the Amiga 1000. Original versions run on the Motorola 68000 series of microprocessors, while AmigaOS 4 runs only on PowerPC microprocessors. At the time of release AmigaOS put an operating system that was well ahead of its time into the hands of the average consumer. It was one of the first commercially available consumer operating systems for personal computers to implement preemptive multitasking.
 
 Another notable feature was the combined use of both a command-line interface and graphical user interface. AmigaDOS was the disk operating system and command line portion of the OS and Workbench the native graphical windowing, icons, menu and pointer environment for file management and launching applications. Notably, AmigaDOS allowed long filenames (up to 107 characters) with whitespace and did not require filename extensions. The windowing system and user interface engine which handles all input events is called Intuition.[82]
@@ -266,8 +260,6 @@ Until the late 1990s the Amiga remained a popular platform for non-commercial so
 
 
 Marketing
-
-Amiga-90sLogo.gif Recent_Amiga.svg
 
 The name _Amiga_ was chosen by the developers from the Spanish word for a female friend, because they knew Spanish,[92] and because it occurred before Apple and Atari alphabetically. It also conveyed the message that the Amiga computer line was "user friendly" as a pun or play on words.[93]
 

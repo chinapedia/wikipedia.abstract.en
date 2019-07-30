@@ -9,14 +9,14 @@ Hans Christian Andersen was born in Odense, Denmark on 2 April 1805. He was an o
 
 Andersen's father, who had received an elementary school education, introduced his son to literature, reading to him the _Arabian Nights_.[10] Andersen's mother, Anne Marie Andersdatter, was an illiterate washerwoman. Following her husband's death in 1816, she remarried in 1818.[11] Andersen was sent to a local school for poor children where he received a basic education and had to support himself, working as an apprentice to a weaver and, later, to a tailor. At fourteen, he moved to Copenhagen to seek employment as an actor. Having an excellent soprano voice, he was accepted into the Royal Danish Theatre, but his voice soon changed. A colleague at the theatre told him that he considered Andersen a poet. Taking the suggestion seriously, Andersen began to focus on writing.
 
-H.C._Andersens_Barndomshjemmet2.JPG Jonas Collin, director of the Royal Danish Theatre, held great affection for Andersen and sent him to a grammar school in Slagelse, persuading King Frederick VI to pay part of the youth's education.[12] Andersen had by then published his first story, "The Ghost at Palnatoke's Grave" (1822). Though not a stellar pupil, he also attended school at Elsinore until 1827.[13]
+Jonas Collin, director of the Royal Danish Theatre, held great affection for Andersen and sent him to a grammar school in Slagelse, persuading King Frederick VI to pay part of the youth's education.[12] Andersen had by then published his first story, "The Ghost at Palnatoke's Grave" (1822). Though not a stellar pupil, he also attended school at Elsinore until 1827.[13]
 
 He later said his years in school were the darkest and most bitter of his life. At one school, he lived at his schoolmaster's home, where he was abused, being told that it was "to improve his character". He later said the faculty had discouraged him from writing, driving him into a depression.
 
 
 Career
 
-Hans_Christian_Andersen_-_The_Shepherdess_and_the_Chimney_Sweep_-_silhouette.jpg by Andersen]]
+by Andersen]]
 
 Early work
 
@@ -28,7 +28,7 @@ Fairy tales and poetry
 
 Andersen's initial attempts at writing fairy tales were revisions of stories that he heard as a child. Initially his original fairy tales were not met with recognition, due partly to the difficulty of translating them. In 1835, Andersen published the first two installments of his _Fairy Tales_ (; lit. "fantastic tales"). More stories, completing the first volume, were published in 1837. The collection comprises nine tales, including "The Tinderbox", "The Princess and the Pea", "Thumbelina", "The Little Mermaid" and "The Emperor's New Clothes". The quality of these stories was not immediately recognized, and they sold poorly. At the same time, Andersen enjoyed more success with two novels, _O.T._ (1836) and _Only a Fiddler_ (1837);[18] the latter work was reviewed by a young Søren Kierkegaard.[19] Much of his work was influenced by the Bible as when he was growing up Christianity was very important in the Danish culture.[20]
 
-C.A._Jensen_1836_-_HC_Andersen.jpg]] After a visit to Sweden in 1837, Andersen became inspired by Scandinavism and committed himself to writing a poem that would convey the relatedness of Swedes, Danes and Norwegians.[21] In July 1839, during a visit to the island of Funen, Andersen wrote the text of his poem _Jeg er en Skandinav_ ("I am a Scandinavian")[22] to capture "the beauty of the Nordic spirit, the way the three sister nations have gradually grown together" as part of a Scandinavian national anthem.[23] Composer Otto Lindblad set the poem to music, and the composition was published in January 1840. Its popularity peaked in 1845, after which it was seldom sung.[24]
+]] After a visit to Sweden in 1837, Andersen became inspired by Scandinavism and committed himself to writing a poem that would convey the relatedness of Swedes, Danes and Norwegians.[21] In July 1839, during a visit to the island of Funen, Andersen wrote the text of his poem _Jeg er en Skandinav_ ("I am a Scandinavian")[22] to capture "the beauty of the Nordic spirit, the way the three sister nations have gradually grown together" as part of a Scandinavian national anthem.[23] Composer Otto Lindblad set the poem to music, and the composition was published in January 1840. Its popularity peaked in 1845, after which it was seldom sung.[24]
 
 Andersen returned to the fairy tale genre in 1838 with another collection, _Fairy Tales Told for Children. New Collection. First Booklet_ (), which consists of "The Daisy", "The Steadfast Tin Soldier", and "The Wild Swans". He went on to publish "New Fairy Tales (1844). First Volume. First Collection", which contained "The Nightingale" and "The Ugly Duckling". After that came "New Fairy Tales (1845). First Volume. Second Collection" in which was found "The Snow Queen". "The Little Match Girl" appeared in December 1845 in the "Dansk Folkekalender (1846)" and also in "New Fairy Tales (1848). Second Volume. Second Collection".
 
@@ -61,7 +61,7 @@ Ten years later, Andersen visited England again, primarily to meet Dickens. He e
 
 Love life
 
-Hans_Christian_Andersen_2.jpg portrait of Andersen dated July 1860]] In Andersen's early life, his private journal records his refusal to have sexual relations.[30][31]
+portrait of Andersen dated July 1860]] In Andersen's early life, his private journal records his refusal to have sexual relations.[30][31]
 
 Andersen often fell in love with unattainable women, and many of his stories are interpreted as references.[32] At one point, he wrote in his diary: "Almighty God, thee only have I; thou steerest my fate, I must give myself up to thee! Give me a livelihood! Give me a bride! My blood wants love, as my heart does!"[33] A girl named Riborg Voigt was the unrequited love of Andersen's youth. A small pouch containing a long letter from Voigt was found on Andersen's chest when he died, several decades after he first fell in love with her, and after he presumably fell in love with others. Other disappointments in love included Sophie Ørsted, the daughter of the physicist Hans Christian Ørsted and Louise Collin, the youngest daughter of his benefactor Jonas Collin. One of his stories, "The Nightingale", was written as an expression of his passion for Jenny Lind and became the inspiration for her nickname, the "Swedish Nightingale".[34] Andersen was often shy around women and had extreme difficulty in proposing to Lind. When Lind was boarding a train to go to an opera concert, Andersen gave Lind a letter of proposal. Her feelings towards him were not the same; she saw him as a brother, writing to him in 1844: "farewell ... God bless and protect my brother is the sincere wish of his affectionate sister, Jenny".[35]
 
@@ -72,7 +72,7 @@ According to Anne Klara Bom and Anya Aarenstrup from the H. C. Andersen Centre o
 
 Death
 
-Melchior_Family_Group_Rolighed_c._1867.jpg Hans_Christian_Andersen_Grave.jpg in the Nørrebro district of Copenhagen.]] In the spring of 1872, Andersen fell out of his bed and was severely hurt; he never fully recovered from the resultant injuries. Soon afterward, he started to show signs of liver cancer.[41]
+in the Nørrebro district of Copenhagen.]] In the spring of 1872, Andersen fell out of his bed and was severely hurt; he never fully recovered from the resultant injuries. Soon afterward, he started to show signs of liver cancer.[41]
 
 He died on 4 August 1875, in a house called _Rolighed_ (literally: calmness), near Copenhagen, the home of his close friends, the banker Moritz Melchior and his wife.[42] Shortly before his death, Andersen had consulted a composer about the music for his funeral, saying: "Most of the people who will walk after me will be children, so make the beat keep time with little steps."[43] His body was interred in the Assistens Kirkegård in the Nørrebro area of Copenhagen, in the family plot of the Collins. However in 1914 the stone was moved to another cemetery (today known as _"Frederiksbergs ældre kirkegaard"_), where younger Collin family members were buried. For a period, his, Edvard Collin's and Henriette Collin's graves were unmarked. A second stone has been erected, marking H.C. Andersen's grave, now without any mention of the Collin couple, but all three still share the same plot.[44]
 
@@ -81,7 +81,7 @@ At the time of his death, Andersen was internationally revered, and the Danish G
 
 Legacy and cultural influence
 
-Denmark-Stamp-1935-HansChristianAndersen.jpg, Denmark, 1935]] Stamp_of_Kazakhstan_541.jpg, Kazakhstan, 2005]]
+, Denmark, 1935]] , Kazakhstan, 2005]]
 
 Archives, collections and museums
 

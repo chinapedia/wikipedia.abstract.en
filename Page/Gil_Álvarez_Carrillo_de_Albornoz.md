@@ -33,8 +33,6 @@ As legate, Albornoz showed himself to be an astute manager of men and effective 
 
 The college of Saint Clement at Bologna was founded by Albornoz for the benefit Castilian, Aragonese and Portuguese students, in 1364.[4]
 
-Albornoz,_Gil_de_–_Testamentum,_1533_–_BEIC_1516654.jpg
-
 
 Works
 

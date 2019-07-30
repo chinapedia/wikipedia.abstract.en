@@ -1,6 +1,6 @@
 DALNET is an Internet Relay Chat (IRC) network made up of 33 servers, with a stable population of approximately 8,000 users in about 7,000 channels.[1]
 
-DALnet is accessible by connecting with an IRC client to an active DALnet server on ports 6660 through 6669, and 7000. SSL users can connect on port 6697[2] as well. The generic round-robin address is irc.dal.net. DalNet-Mac.jpg through irssi]]
+DALnet is accessible by connecting with an IRC client to an active DALnet server on ports 6660 through 6669, and 7000. SSL users can connect on port 6697[2] as well. The generic round-robin address is irc.dal.net. through irssi]]
 
 
 History

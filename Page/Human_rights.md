@@ -1,4 +1,4 @@
-Magna_Carta.jpg'' or "Great Charter" was one of the world's first documents containing commitments by a sovereign to his people to respect certain legal rights]]
+'' or "Great Charter" was one of the world's first documents containing commitments by a sovereign to his people to respect certain legal rights]]
 
 HUMAN RIGHTS are moral principles or norms[1] that describe certain standards of human behaviour and are regularly protected as natural and legal rights in municipal and international law.[2] They are commonly understood as inalienable,[3] fundamental rights "to which a person is inherently entitled simply because she or he is a human being"[4] and which are "inherent in all human beings",[5] regardless of their nation, location, language, religion, ethnic origin or any other status.[6] They are applicable everywhere and at every time in the sense of being universal,[7] and they are egalitarian in the sense of being the same for everyone.[8] They are regarded as requiring empathy and the rule of law[9] and imposing an obligation on persons to respect the human rights of others,[10][11] and it is generally considered that they should not be taken away except as a result of due process based on specific circumstances;[12] for example, human rights may include freedom from unlawful imprisonment, torture and execution.[13]
 
@@ -9,13 +9,13 @@ Many of the basic ideas that animated the human rights movement developed in the
 
 History
 
-Us_declaration_independence.jpg on 4 July 1776]] Ancient peoples did not have the same modern-day conception of universal human rights.[30] The true forerunner of human-rights discourse was the concept of natural rights which appeared as part of the medieval natural law tradition that became prominent during the European Enlightenment. From this foundation, the modern human rights arguments emerged over the latter half of the 20th century.[31]
+on 4 July 1776]] Ancient peoples did not have the same modern-day conception of universal human rights.[30] The true forerunner of human-rights discourse was the concept of natural rights which appeared as part of the medieval natural law tradition that became prominent during the European Enlightenment. From this foundation, the modern human rights arguments emerged over the latter half of the 20th century.[31]
 
 17th-century English philosopher John Locke discussed natural rights in his work, identifying them as being "life, liberty, and estate (property)", and argued that such fundamental rights could not be surrendered in the social contract. In Britain in 1689, the English Bill of Rights and the Scottish Claim of Right each made illegal a range of oppressive governmental actions.[32] Two major revolutions occurred during the 18th century, in the United States (1776) and in France (1789), leading to the United States Declaration of Independence and the French Declaration of the Rights of Man and of the Citizen respectively, both of which articulated certain human rights. Additionally, the Virginia Declaration of Rights of 1776 encoded into law a number of fundamental civil rights and civil freedoms.
 
 1800 to World War I
 
-Declaration_of_Human_Rights.jpg Philosophers such as Thomas Paine, John Stuart Mill and Hegel expanded on the theme of universality during the 18th and 19th centuries. In 1831 William Lloyd Garrison wrote in a newspaper called _The Liberator_ that he was trying to enlist his readers in "the great cause of human rights"[33] so the term _human rights_ probably came into use sometime between Paine's _The Rights of Man_ and Garrison's publication. In 1849 a contemporary, Henry David Thoreau, wrote about human rights in his treatise _On the Duty of Civil Disobedience_ 2 which was later influential on human rights and civil rights thinkers. United States Supreme Court Justice David Davis, in his 1867 opinion for Ex Parte Milligan, wrote "By the protection of the law, human rights are secured; withdraw that protection and they are at the mercy of wicked rulers or the clamor of an excited people."[34]
+Philosophers such as Thomas Paine, John Stuart Mill and Hegel expanded on the theme of universality during the 18th and 19th centuries. In 1831 William Lloyd Garrison wrote in a newspaper called _The Liberator_ that he was trying to enlist his readers in "the great cause of human rights"[33] so the term _human rights_ probably came into use sometime between Paine's _The Rights of Man_ and Garrison's publication. In 1849 a contemporary, Henry David Thoreau, wrote about human rights in his treatise _On the Duty of Civil Disobedience_ 2 which was later influential on human rights and civil rights thinkers. United States Supreme Court Justice David Davis, in his 1867 opinion for Ex Parte Milligan, wrote "By the protection of the law, human rights are secured; withdraw that protection and they are at the mercy of wicked rulers or the clamor of an excited people."[34]
 
 Many groups and movements have managed to achieve profound social changes over the course of the 20th century in the name of human rights. In Western Europe and North America, labour unions brought about laws granting workers the right to strike, establishing minimum work conditions and forbidding or regulating child labour. The women's rights movement succeeded in gaining for many women the right to vote. National liberation movements in many countries succeeded in driving out colonial powers. One of the most influential was Mahatma Gandhi's movement to free his native India from British rule. Movements by long-oppressed racial and religious minorities succeeded in many parts of the world, among them the civil rights movement, and more recent diverse identity politics movements, on behalf of women and minorities in the United States.
 
@@ -66,7 +66,7 @@ International bodies
 
 The United Nations
 
-Unpicture.jpg The UNITED NATIONS (UN) is the only multilateral governmental agency with universally accepted international jurisdiction for universal human rights legislation.[50] All UN organs have advisory roles to the United Nations Security Council and the United Nations Human Rights Council, and there are numerous committees within the UN with responsibilities for safeguarding different human rights treaties. The most senior body of the UN with regard to human rights is the Office of the High Commissioner for Human Rights. The United Nations has an international mandate to:
+The UNITED NATIONS (UN) is the only multilateral governmental agency with universally accepted international jurisdiction for universal human rights legislation.[50] All UN organs have advisory roles to the United Nations Security Council and the United Nations Human Rights Council, and there are numerous committees within the UN with responsibilities for safeguarding different human rights treaties. The most senior body of the UN with regard to human rights is the Office of the High Commissioner for Human Rights. The United Nations has an international mandate to:
 
 
 Protection in the international level
@@ -102,7 +102,7 @@ There are many regional agreements and organizations promoting and governing hum
 
 Africa
 
-Flag_of_the_African_Union.svg]]
+]]
 
 The African Union (AU) is a supranational union consisting of fifty-five African states.[61] Established in 2001, the AU's purpose is to help secure Africa's democracy, human rights, and a sustainable economy, especially by bringing an end to intra-African conflict and creating an effective common market.[62]
 
@@ -141,7 +141,7 @@ The Inter-Americal Court of Human Rights was established in 1979 with the purpos
 
 Asia
 
-ACD_Map_Expansion.png (Taiwan) is recognised or acknowledged by the member states as part of the People's Republic of China (PRC), but _de facto_ does not have any representation.]]
+(Taiwan) is recognised or acknowledged by the member states as part of the People's Republic of China (PRC), but _de facto_ does not have any representation.]]
 
 There are no Asia-wide organisations or conventions to promote or protect human rights. Countries vary widely in their approach to human rights and their record of human rights protection.
 
@@ -151,7 +151,7 @@ The Arab Charter on Human Rights (ACHR) was adopted by the Council of the League
 
 Europe
 
-European_Court_of_Human_Rights.jpg]]
+]]
 
 The Council of Europe, founded in 1949, is the oldest organisation working for European integration. It is an international organisation with legal personality recognised under public international law and has observer status with the United Nations. The seat of the Council of Europe is in Strasbourg in France. The Council of Europe is responsible for both the European Convention on Human Rights and the European Court of Human Rights.[77] These institutions bind the Council's members to a code of human rights which, though strict, are more lenient than those of the United Nations charter on human rights. The Council also promotes the European Charter for Regional or Minority Languages and the European Social Charter.[78] Membership is open to all European states which seek European integration, accept the principle of the rule of law and are able and willing to guarantee democracy, fundamental human rights and freedoms.[79]
 
@@ -219,8 +219,6 @@ This statement was again endorsed at the 2005 World Summit in New York (paragrap
 
 Universalism vs cultural relativism
 
-Fgm_map.gif
-
 The UDHR enshrines, by definition, rights that apply to all humans equally, whichever geographical location, state, race or culture they belong to.
 
 Proponents of cultural relativism suggest that human rights are not all universal, and indeed conflict with some cultures and threaten their survival.
@@ -254,7 +252,7 @@ Human rights law
 
 Human rights vs national security
 
-Camp_x-ray_detainees.jpg.]]
+.]]
 
 Realism and national loyalties have been described as a destructive influence on the human rights movement because they deny people's innately similar human qualities.[106]
 
@@ -263,8 +261,6 @@ With the exception of non-derogable human rights (international conventions clas
 Rights that cannot be derogated for reasons of national security in any circumstances are known as peremptory norms or _jus cogens_. Such International law obligations are binding on all states and cannot be modified by treaty.
 
 Legal instruments and jurisdiction
-
-International_Criminal_Court_logo.svg
 
 The human rights enshrined in the UDHR, the Geneva Conventions and the various enforced treaties of the United Nations are enforceable in law. In practice, many rights are very difficult to legally enforce due to the absence of consensus on the application of certain rights, the lack of relevant national legislation or of bodies empowered to take legal action to enforce them.
 

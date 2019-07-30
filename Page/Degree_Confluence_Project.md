@@ -1,4 +1,4 @@
-Confluence_point_53N_0.jpg, England]] The DEGREE CONFLUENCE PROJECT is a World Wide Web-based, all-volunteer project which aims to have people visit each of the integer degree intersections of latitude and longitude on Earth, posting photographs and a narrative of each visit online. The project describes itself as "an organized sampling of the world".
+, England]] The DEGREE CONFLUENCE PROJECT is a World Wide Web-based, all-volunteer project which aims to have people visit each of the integer degree intersections of latitude and longitude on Earth, posting photographs and a narrative of each visit online. The project describes itself as "an organized sampling of the world".
 
 
 Requirements

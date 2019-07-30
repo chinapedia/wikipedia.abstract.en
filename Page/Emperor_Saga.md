@@ -1,4 +1,4 @@
-Koku_Saitcho_shounin.jpg'' (哭最澄上人), which was written by Emperor Saga for Saichō's death. Saga was a scholar of the Chinese classics. He was also renowned as a skillful calligrapher. Chinese calligraphic influence had been weakened after the Heian period; this text was an example of the different way it was evolving in Japan.]] was the 52nd emperor of Japan,[1] according to the traditional order of succession.[2] Saga's reign spanned the years from 809 through 823.[3]
+'' (哭最澄上人), which was written by Emperor Saga for Saichō's death. Saga was a scholar of the Chinese classics. He was also renowned as a skillful calligrapher. Chinese calligraphic influence had been weakened after the Heian period; this text was an example of the different way it was evolving in Japan.]] was the 52nd emperor of Japan,[1] according to the traditional order of succession.[2] Saga's reign spanned the years from 809 through 823.[3]
 
 
 Traditional narrative
@@ -204,7 +204,7 @@ See also
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

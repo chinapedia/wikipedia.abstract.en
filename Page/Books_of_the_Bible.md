@@ -79,7 +79,7 @@ The Ethiopian Tewahedo church accepts all of the deuterocanonical books of Catho
 
 Diagram of the development of the Old Testament
 
-Development_of_the_Old_Testament.svg, showing their positions in both the Tanakh (Hebrew Bible, shown with their names in Hebrew) and Christian Bibles. The Deuterocanon or Apocrypha are colored differently from the Protocanon (the Hebrew Bible books considered canonical by all).]]
+, showing their positions in both the Tanakh (Hebrew Bible, shown with their names in Hebrew) and Christian Bibles. The Deuterocanon or Apocrypha are colored differently from the Protocanon (the Hebrew Bible books considered canonical by all).]]
 
 Table
 

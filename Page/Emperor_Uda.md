@@ -29,8 +29,6 @@ Uda's father, Emperor Kōkō, demoted his sons from the rank of imperial royals 
 -   SEPTEMBER 17, 887 (_Ninna 3, 26th day of the 8th month_) : Emperor Kōkō died; and his third son received the succession (_senso_). Shortly thereafter, Emperor Uda formally acceded to the throne (_sokui_).[10]
 -   DECEMBER 5, 887 (_Ninna 3, 17th day of the 11th month_): Mototsune asked Uda for permission to retire from his duties; but the emperor is said to have responded, "My youth limits my ability to govern; and if you stop offering me your good counsel, I will be obliged to abdicate and to retire to a monastery." Therefore, Mototsune continued to serve as the new emperor's _kampaku_.[11]
 
-Ninnaji_Garden.jpg
-
 -   888 (_Ninna 4, 8th month_): Construction of the newly created Buddhist temple of was completed; and a former disciple of Kōbō-daishi was installed as the new abbot.[12]
 -   889 (_Kanpyō 1, 10th month_): The former emperor Yōzei became deranged, and afflicted by mental illness. Yōzei would enter the palace and address courtiers he would meet with the greatest rudeness. He became increasingly furious. He garroted women with the strings of musical instruments and then threw the bodies into a lake. While riding on horseback, he directed his mount to run over people. Sometimes he simply disappeared into the mountains where he chased wild boars and red deer.[13]
 
@@ -46,7 +44,7 @@ In 897, Uda abdicated in favor of his eldest son, Prince Atsuhito, who would lat
 
 Three years later, he entered the Buddhist priesthood at age 34 in 900.[20] Having founded the temple at Ninna-ji, Uda made it his new home after his abdication.
 
-Go-shichi_no_kiri_crest_2.svg. Uda is amongst six other emperors entombed near what had been the residence of Hosokawa Katsumoto before the Ōnin War.]] His Buddhist name was Kongō Kaku.[21] He was sometimes called "the Cloistered Emperor of Teiji(亭子の帝)," because the name of the Buddhist hall where he resided after becoming a priest was called Teijiin.[22]
+. Uda is amongst six other emperors entombed near what had been the residence of Hosokawa Katsumoto before the Ōnin War.]] His Buddhist name was Kongō Kaku.[21] He was sometimes called "the Cloistered Emperor of Teiji(亭子の帝)," because the name of the Buddhist hall where he resided after becoming a priest was called Teijiin.[22]
 
 Uda died in 931 (_Shōhei 1, 19th day of the 7th month_) at the age of 65.[23]
 
@@ -151,7 +149,7 @@ Ancestry
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

@@ -7,7 +7,7 @@ Ethylene is widely used in the chemical industry, and its worldwide production (
 
 Structure and properties
 
-Dewar-Chatt-Duncanson_model.png This hydrocarbon has four hydrogen atoms bound to a pair of carbon atoms that are connected by a double bond. All six atoms that comprise ethylene are coplanar. The H-C-H angle is 117.4°, close to the 120° for ideal sp² hybridized carbon. The molecule is also relatively rigid: rotation about the C-C bond is a high energy process that requires breaking the π-bond.
+This hydrocarbon has four hydrogen atoms bound to a pair of carbon atoms that are connected by a double bond. All six atoms that comprise ethylene are coplanar. The H-C-H angle is 117.4°, close to the 120° for ideal sp² hybridized carbon. The molecule is also relatively rigid: rotation about the C-C bond is a high energy process that requires breaking the π-bond.
 
 The π-bond in the ethylene molecule is responsible for its useful reactivity. The double bond is a region of high electron density, thus it is susceptible to attack by electrophiles. Many reactions of ethylene are catalyzed by transition metals, which bind transiently to the ethylene using both the π and π* orbitals.
 
@@ -18,7 +18,7 @@ Uses
 
 Major industrial reactions of ethylene include in order of scale: 1) polymerization, 2) oxidation, 3) halogenation and hydrohalogenation, 4) alkylation, 5) hydration, 6) oligomerization, and 7) hydroformylation. In the United States and Europe, approximately 90% of ethylene is used to produce ethylene oxide, ethylene dichloride, ethylbenzene and polyethylene.[8] Most of the reactions with ethylene are electrophilic addition.
 
-C2H4uses.png, precursor to ethylene glycol; to ethylbenzene, precursor to styrene; to various kinds of polyethylene; to ethylene dichloride, precursor to vinyl chloride.]]
+, precursor to ethylene glycol; to ethylbenzene, precursor to styrene; to various kinds of polyethylene; to ethylene dichloride, precursor to vinyl chloride.]]
 
 Polymerization
 
@@ -76,7 +76,7 @@ Although of great value industrially, ethylene is rarely synthesized in the labo
 
 Ethylene as a plant hormone
 
-Ethylene_Signal_Transduction.svg Ethylene serves as a hormone in plants.[26] It acts at trace levels throughout the life of the plant by stimulating or regulating the ripening of fruit, the opening of flowers, and the abscission (or shedding) of leaves. Commercial ripening rooms use "catalytic generators" to make ethylene gas from a liquid supply of ethanol. Typically, a gassing level of 500 to 2,000 ppm is used, for 24 to 48 hours. Care must be taken to control carbon dioxide levels in ripening rooms when gassing, as high temperature ripening () has been seen to produce CO₂ levels of 10% in 24 hours.[27]
+Ethylene serves as a hormone in plants.[26] It acts at trace levels throughout the life of the plant by stimulating or regulating the ripening of fruit, the opening of flowers, and the abscission (or shedding) of leaves. Commercial ripening rooms use "catalytic generators" to make ethylene gas from a liquid supply of ethanol. Typically, a gassing level of 500 to 2,000 ppm is used, for 24 to 48 hours. Care must be taken to control carbon dioxide levels in ripening rooms when gassing, as high temperature ripening () has been seen to produce CO₂ levels of 10% in 24 hours.[27]
 
 History of ethylene in plant biology
 
@@ -84,7 +84,7 @@ Ethylene has been used since the ancient Egyptians, who would gash figs in order
 
 Ethylene biosynthesis in plants
 
-Yang-cycle.png Ethylene is produced from essentially all parts of higher plants, including leaves, stems, roots, flowers, fruits, tubers, and seeds. Ethylene production is regulated by a variety of developmental and environmental factors. During the life of the plant, ethylene production is induced during certain stages of growth such as germination, ripening of fruits, abscission of leaves, and senescence of flowers. Ethylene production can also be induced by a variety of external aspects such as mechanical wounding, environmental stresses, and certain chemicals including auxin and other regulators.[34] The pathway for ethylene biosynthesis is named the Yang cycle after the scientist Shang Fa Yang who made key contributions to elucidating this pathway.
+Ethylene is produced from essentially all parts of higher plants, including leaves, stems, roots, flowers, fruits, tubers, and seeds. Ethylene production is regulated by a variety of developmental and environmental factors. During the life of the plant, ethylene production is induced during certain stages of growth such as germination, ripening of fruits, abscission of leaves, and senescence of flowers. Ethylene production can also be induced by a variety of external aspects such as mechanical wounding, environmental stresses, and certain chemicals including auxin and other regulators.[34] The pathway for ethylene biosynthesis is named the Yang cycle after the scientist Shang Fa Yang who made key contributions to elucidating this pathway.
 
 Ethylene is biosynthesized from the amino acid methionine to _S_-adenosyl-L-methionine (SAM, also called Adomet) by the enzyme Met Adenosyltransferase. SAM is then converted to 1-aminocyclopropane-1-carboxylic acid (ACC) by the enzyme ACC synthase (ACS). The activity of ACS determines the rate of ethylene production, therefore regulation of this enzyme is key for the ethylene biosynthesis. The final step requires oxygen and involves the action of the enzyme ACC-oxidase (ACO), formerly known as the ethylene forming enzyme (EFE). Ethylene biosynthesis can be induced by endogenous or exogenous ethylene. ACC synthesis increases with high levels of auxins, especially indole acetic acid (IAA) and cytokinins.
 

@@ -24,7 +24,7 @@ _Britain and Ireland_, _UK and Ireland_, and _British Isles and Ireland_.[45] Ow
 
 Geography
 
-British-Isles-NW-European-shelf.png continental shelf.]]
+continental shelf.]]
 
 The British Isles lie at the juncture of several regions with past episodes of tectonic mountain building. These orogenic belts form a complex geology that records a huge and varied span of Earth's history.[49] Of particular note was the Caledonian Orogeny during the Ordovician Period, c. 488–444 Ma and Early Silurian period, when the craton Baltica collided with the terrane Avalonia to form the mountains and hills in northern Britain and Ireland. Baltica formed roughly the northwestern half of Ireland and Scotland. Further collisions caused the Variscan orogeny in the Devonian and Carboniferous periods, forming the hills of Munster, southwest England, and southern Wales. Over the last 500 million years the land that forms the islands has drifted northwest from around 30°S, crossing the equator around 370 million years ago to reach its present northern latitude.[50]
 
@@ -43,7 +43,7 @@ The climate of the British Isles is mild, moist and changeable with abundant rai
 
 Flora and fauna
 
-Irl-female_red_deer_Killarney.jpg, Ireland.]]
+, Ireland.]]
 
 The islands enjoy a mild climate and varied soils, giving rise to a diverse pattern of vegetation. Animal and plant life is similar to that of the northwestern European mainland. There are however, fewer numbers of species, with Ireland having even less. All native flora and fauna in Ireland is made up of species that migrated from elsewhere in Europe, and Great Britain in particular. The only window when this could have occurred was between the end of the last Ice Age (about 12,000 years ago) and when the land bridge connecting the two islands was flooded by sea (about 8,000 years ago).
 
@@ -58,7 +58,7 @@ Domestic animals include the Connemara pony, Shetland pony, English Mastiff, Iri
 
 Demographics
 
-British_Isles_population_density_2011_NUTS3.svg.]]
+.]]
 
 England has a generally high population density, with almost 80% of the total population of the islands. Elsewhere in Great Britain and Ireland, high density of population is limited to areas around a few large cities. The largest urban area by far is the Greater London Built-up Area with 9 million inhabitants. Other major population centres include the Greater Manchester Built-up Area (2.4 million), West Midlands conurbation (2.4 million) and West Yorkshire Urban Area (1.6 million) in England,[60] Greater Glasgow (1.2 million) in Scotland[61] and Greater Dublin Area (1.9 million) in Ireland.[62]
 
@@ -73,11 +73,9 @@ At the end of the last ice age, what are now the British Isles were joined to th
 
 At the time of the Roman Empire, about two thousand years ago, various tribes, which spoke Celtic dialects of the Insular Celtic group, were inhabiting the islands. The Romans expanded their civilisation to control southern Great Britain but were impeded in advancing any further, building Hadrian's Wall to mark the northern frontier of their empire in 122 AD. At that time, Ireland was populated by a people known as Hiberni, the northern third or so of Great Britain by a people known as Picts and the southern two thirds by Britons.
 
-Alfred_Jewel.jpg (9th century)]] Anglo-Saxons arrived as Roman power waned in the 5th century AD. Initially, their arrival seems to have been at the invitation of the Britons as mercenaries to repulse incursions by the Hiberni and Picts. In time, Anglo-Saxon demands on the British became so great that they came to culturally dominate the bulk of southern Great Britain, though recent genetic evidence suggests Britons still formed the bulk of the population. This dominance creating what is now England and leaving culturally British enclaves only in the north of what is now England, in Cornwall and what is now known as Wales. Ireland had been unaffected by the Romans except, significantly, for being Christianised—traditionally by the Romano-Briton, Saint Patrick. As Europe, including Britain, descended into turmoil following the collapse of Roman civilisation, an era known as the Dark Ages, Ireland entered a golden age and responded with missions (first to Great Britain and then to the continent), the founding of monasteries and universities. These were later joined by Anglo-Saxon missions of a similar nature.
+(9th century)]] Anglo-Saxons arrived as Roman power waned in the 5th century AD. Initially, their arrival seems to have been at the invitation of the Britons as mercenaries to repulse incursions by the Hiberni and Picts. In time, Anglo-Saxon demands on the British became so great that they came to culturally dominate the bulk of southern Great Britain, though recent genetic evidence suggests Britons still formed the bulk of the population. This dominance creating what is now England and leaving culturally British enclaves only in the north of what is now England, in Cornwall and what is now known as Wales. Ireland had been unaffected by the Romans except, significantly, for being Christianised—traditionally by the Romano-Briton, Saint Patrick. As Europe, including Britain, descended into turmoil following the collapse of Roman civilisation, an era known as the Dark Ages, Ireland entered a golden age and responded with missions (first to Great Britain and then to the continent), the founding of monasteries and universities. These were later joined by Anglo-Saxon missions of a similar nature.
 
 Viking invasions began in the 9th century, followed by more permanent settlements, particularly along the east coast of Ireland, the west coast of modern-day Scotland and the Isle of Man. Though the Vikings were eventually neutralised in Ireland, their influence remained in the cities of Dublin, Cork, Limerick, Waterford and Wexford. England, however, was slowly conquered around the turn of the first millennium AD, and eventually became a feudal possession of Denmark. The relations between the descendants of Vikings in England and counterparts in Normandy, in northern France, lay at the heart of a series of events that led to the Norman conquest of England in 1066. The remnants of the Duchy of Normandy, which conquered England, remain associated to the English Crown as the Channel Islands to this day. A century later, the marriage of the future Henry II of England to Eleanor of Aquitaine created the Angevin Empire, partially under the French Crown. At the invitation of Diarmait Mac Murchada, a provincial king, and under the authority of Pope Adrian IV (the only Englishman to be elected pope), the Angevins invaded Ireland in 1169. Though initially intended to be kept as an independent kingdom, the failure of the Irish High King to ensure the terms of the Treaty of Windsor led Henry II, as King of England, to rule as effective monarch under the title of Lord of Ireland. This title was granted to his younger son, but when Henry's heir unexpectedly died, the title of King of England and Lord of Ireland became entwined in one person.
-
-James_I_of_England_by_Daniel_Mytens.jpg
 
 By the Late Middle Ages, Great Britain was separated into the Kingdoms of England and Scotland. Power in Ireland fluxed between Gaelic kingdoms, Hiberno-Norman lords and the English-dominated Lordship of Ireland. A similar situation existed in the Principality of Wales, which was slowly being annexed into the Kingdom of England by a series of laws. During the course of the 15th century, the Crown of England would assert a claim to the Crown of France, thereby also releasing the King of England from being vassal of the King of France. In 1534, King Henry VIII, at first having been a strong defender of Roman Catholicism in the face of the Reformation, separated from the Roman Church after failing to secure a divorce from the Pope. His response was to place the King of England as "the only Supreme Head in Earth of the Church of England", thereby removing the authority of the Pope from the affairs of the English Church. Ireland, which had been held by the King of England as Lord of Ireland, but which strictly speaking had been a feudal possession of the Pope since the Norman invasion was declared a separate kingdom in personal union with England.
 
@@ -88,7 +86,7 @@ The Kingdoms of England and Scotland were unified in 1707 creating the Kingdom o
 
 Politics
 
-British_Isles_terms.gif]
+]
 
 There are two sovereign states in the isles: Ireland and the United Kingdom of Great Britain and Northern Ireland. Ireland, sometimes called _the Republic of Ireland_, governs five sixths of the island of Ireland, with the remainder of the island forming Northern Ireland. Northern Ireland is a part of the United Kingdom of Great Britain and Northern Ireland, usually shortened to simply _the United Kingdom_, which governs the remainder of the archipelago with the exception of the Isle of Man and the Channel Islands. The Isle of Man and the two states of the Channel Islands, Jersey and Guernsey, are known as the Crown dependencies. They exercise constitutional rights of self-government and judicial independence;[68] responsibility for international representation rests largely upon the UK (in consultation with the respective governments); and responsibility for defence is reserved by the UK. The United Kingdom is made up of four constituent parts: England, Scotland and Wales, forming Great Britain, and Northern Ireland in the north-east of the island of Ireland. Of these, Scotland, Wales and Northern Ireland have "devolved" governments, meaning that each has its own parliament or assembly and is self-governing with respect to certain areas set down by law. For judicial purposes, Scotland, Northern Ireland and England and Wales (the latter being one entity) form separate legal jurisdiction, with there being no single law for the UK as a whole.
 
@@ -111,7 +109,7 @@ The Council does not have executive powers, but meets biannually to discuss issu
 
 Culture
 
-Lords_match_in_progress.jpg Pádraig_Harrington_2007.jpg teeing off at the Open Championship (golf) in 2007.]]
+teeing off at the Open Championship (golf) in 2007.]]
 
 The United Kingdom and Ireland have separate media, although British television, newspapers and magazines are widely available in Ireland,[76] giving people in Ireland a high level of familiarity with cultural matters in the United Kingdom. Irish newspapers are also available in the UK, and Irish state and private television is widely available in Northern Ireland. Certain reality TV shows have embraced the whole of the islands, for example _The X Factor_, seasons 3, 4 and 7 of which featured auditions in Dublin and were open to Irish voters, whilst the show previously known as _Britain's Next Top Model_ became _Britain and Ireland's Next Top Model_ in 2011. A few cultural events are organised for the island group as a whole. For example, the Costa Book Awards are awarded to authors resident in the UK or Ireland. The Mercury Music Prize is handed out every year to the best album from a British or Irish musician or group.
 
@@ -122,7 +120,7 @@ The Ryder Cup in golf was originally played between a United States team and a t
 
 Transport
 
-MS_Stena_Explorer_Dun_Laoghaire.jpg, a large fast ferry on the former Holyhead–Dún Laoghaire route between Great Britain and Ireland.]]
+, a large fast ferry on the former Holyhead–Dún Laoghaire route between Great Britain and Ireland.]]
 
 London Heathrow Airport is Europe's busiest airport in terms of passenger traffic, and the Dublin-London route is the busiest air route in Europe collectively,[77] the busiest route out of Heathrow and the second-busiest international air route in the world. The English Channel and the southern North Sea are the busiest seaways in the world.[78] The Channel Tunnel, opened in 1994, links Great Britain to France and is the second-longest rail tunnel in the world.
 

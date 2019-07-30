@@ -96,7 +96,7 @@ New Media theorist Lev Manovich suggested Vertov as one of the early pioneers of
 
 Filmography
 
-Kino_glaz.jpg (1924)]] Soviet_Toys_(1924).webm
+(1924)]]
 
 -   1919 Кинонеделя (_Kino Nedelya_/_Cinema Week_)
 -   1919 Годовщина революции (_Anniversary of the Revolution_)

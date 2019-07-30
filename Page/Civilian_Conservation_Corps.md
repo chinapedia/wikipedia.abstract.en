@@ -1,16 +1,10 @@
-CCC-poster-1935.jpg (1935)]] CCC_boys_leaving_camp_for_home,_Lassen_National_Forest,_California_(3226900020).jpg, California]]
+(1935)]] , California]]
 
 The CIVILIAN CONSERVATION CORPS (CCC) was a voluntary public work relief program that operated from 1933 to 1942 in the United States for unemployed, unmarried men. Originally for young men ages 18–25, it was eventually expanded to ages 17–28.[1] Robert Fechner was the first director of this agency, succeeded by James McEntee following Fechner's death. The CCC was a major part of President Franklin D. Roosevelt's New Deal that provided unskilled manual labor jobs related to the conservation and development of natural resources in rural lands owned by federal, state, and local governments. The CCC was designed to provide jobs for young men and to relieve families who had difficulty finding jobs during the Great Depression in the United States. Maximum enrollment at any one time was 300,000. Through the course of its nine years in operation, 3 million young men participated in the CCC, which provided them with shelter, clothing, and food, together with a wage of $30 (about $570 in 2017[2]) per month ($25 of which had to be sent home to their families).[3]
 
-_Civilian_Conservation_Corps_Bridge.jpg
-
 The American public made the CCC the most popular of all the New Deal programs.[4] Sources written at the time claimed[5] an individual's enrollment in the CCC led to improved physical condition, heightened morale, and increased employability. The CCC also led to a greater public awareness and appreciation of the outdoors and the nation's natural resources, and the continued need for a carefully planned, comprehensive national program for the protection and development of natural resources.[6]
 
-_Civilian_Conservation_Corps_-_NARA_-_195832.tif
-
-155th_Co.._CCC.jpg
-
-Ccc_michigan_camps.jpg; the tents were soon replaced by barracks built by Army contractors for the enrollees.[7]]]
+; the tents were soon replaced by barracks built by Army contractors for the enrollees.[7]]]
 
 The CCC operated separate programs for veterans and Native Americans. Approximately 15,000 Native Americans participated in the program, helping them weather the Great Depression.[8]
 
@@ -37,8 +31,6 @@ An implicit goal of the CCC was to restore morale in an era of 25% unemployment 
 
 Early years, 1933–1934
 
-_Texas_Park_Road_4_CCC_Map_1_edit.jpg
-
 The legislation and mobilization of the program occurred quite rapidly. Roosevelt made his request to Congress on March 21, 1933; the legislation was submitted to Congress the same day; Congress passed it by voice vote on March 31; Roosevelt signed it the same day, then issued an executive order on April 5 creating the agency, appointing its director (Fechner), and assigning War Department corps area commanders to begin enrollment. The first CCC enrollee was selected April 8, and subsequent lists of unemployed men were supplied by state and local welfare and relief agencies for immediate enrollment. On April 17, the first camp, NF-1, Camp Roosevelt,[18] was established at George Washington National Forest near Luray, Virginia. On June 18, the first of 161 soil erosion control camps was opened, in Clayton, Alabama.[19] By July 1, 1933 there were 1,463 working camps with 250,000 junior enrollees (18–25 years of age); 28,000 veterans; 14,000 American Indians; and 25,000 adults in the Locally Men (LEM) program.[20][21]
 
 Enrollees
@@ -49,7 +41,7 @@ Following the second Bonus Army march on Washington D.C., President Roosevelt am
 
 Camps
 
-_CCC_barrack_at_Milford,_Utah.jpg Each CCC camp was located in the area of particular conservation work to be performed and organized around a complement of up to 200 civilian enrollees in a designated numbered "company" unit. The CCC camp was a temporary community in itself, structured to have barracks (initially Army tents) for 50 enrollees each, officer/technical staff quarters, medical dispensary, mess hall, recreation hall, educational building, lavatory and showers, technical/administrative offices, tool room/blacksmith shop and motor pool garages.
+Each CCC camp was located in the area of particular conservation work to be performed and organized around a complement of up to 200 civilian enrollees in a designated numbered "company" unit. The CCC camp was a temporary community in itself, structured to have barracks (initially Army tents) for 50 enrollees each, officer/technical staff quarters, medical dispensary, mess hall, recreation hall, educational building, lavatory and showers, technical/administrative offices, tool room/blacksmith shop and motor pool garages.
 
 The company organization of each camp had a dual-authority supervisory staff: firstly, Department of War personnel or Reserve officers (until July 1, 1939), a "company commander" and junior officer, who were responsible for overall camp operation, logistics, education and training; and secondly, ten to fourteen technical service civilians, including a camp "superintendent" and "foreman", employed by either the Departments of Interior or Agriculture, responsible for the particular fieldwork. Also included in camp operation were several non-technical supervisor LEMs, who provided knowledge of the work at hand, "lay of the land," and paternal guidance for inexperienced enrollees.[24][25] Enrollees were organized into work detail units called "sections" of 25 men each, according to the barracks they resided in.[26] Each section had an enrollee " senior leader" and "assistant leader" who were accountable for the men at work and in the barracks.
 
@@ -107,7 +99,7 @@ The CCC disbanded one year earlier than planned, as the 77th United States Congr
 
 Some former CCC sites in good condition were reactivated from 1941 to 1947 as Civilian Public Service camps where conscientious objectors performed "work of national importance" as an alternative to military service. Other camps were used to hold Japanese, German and Italian Americans interned under the Western Defense Command's Enemy Alien Control Program, as well as Axis prisoners of war.[46] Most of the Japanese American internment camps were built by the people held there. After the CCC disbanded, the federal agencies responsible for public lands organized their own seasonal fire crews, modeled after the CCC. These have performed a firefighting function formerly done by the CCC and provided the same sort of outdoor work experience for young people. Approximately 47 young men have died while in this line of duty.
 
-Ccc_pillow.jpg on display at the CCC Museum in Michigan]]
+on display at the CCC Museum in Michigan]]
 
 
 Legacy
@@ -161,7 +153,7 @@ Notable alumni and administrators
 
 Statues
 
-CCCWorkerStatueSantaFeNM.JPG]] In several cities where CCC workers worked, statues were erected to commemorate them.[47]
+]] In several cities where CCC workers worked, statues were erected to commemorate them.[47]
 
 In media
 

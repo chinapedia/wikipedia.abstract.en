@@ -8,7 +8,7 @@ In the _Kojiki_ and _Nihon Shoki_, only Kaika's name and genealogy were recorded
 
 Known information
 
-NaraKaikaTennoRyo0367.jpg.]]
+.]]
 
 The existence of at least the first nine Emperors is disputed due to insufficient material available for further verification and study.[10] Kaika is thus regarded by historians as a "legendary Emperor", and is considered to have been the eighth of eight Emperors without specific legends associated with them. The name Kaika_-tennō_ was assigned to him posthumously by later generations. [11] His name might have been regularized centuries after the lifetime ascribed to Kaika, possibly during the time in which legends about the origins of the Yamato dynasty were compiled as the chronicles known today as the _Kojiki_.[12] While the actual site of Kaika's grave is not known, the Emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) in Nara. The Imperial Household Agency designates this location as Kaika's mausoleum, and it's formal name is _Kasuga no Izakawa no saka no e no misasagi_.[13][14]
 
@@ -47,7 +47,7 @@ Notes
 
 References
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 Further reading

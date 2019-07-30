@@ -13,15 +13,13 @@ History
 
 The beginning
 
-BSNL_Microwave_Tower_Mangalore_0210.JPG Telecommunications in India began with the introduction of the telegraph. The Indian postal and telecom sectors are one of the worlds oldest. In 1850, the first experimental electric telegraph line was started between Calcutta and Diamond Harbour. In 1851, it was opened for the use of the British East India Company. The Posts and Telegraphs department occupied a small corner of the Public Works Department,[12] at that time.
+Telecommunications in India began with the introduction of the telegraph. The Indian postal and telecom sectors are one of the worlds oldest. In 1850, the first experimental electric telegraph line was started between Calcutta and Diamond Harbour. In 1851, it was opened for the use of the British East India Company. The Posts and Telegraphs department occupied a small corner of the Public Works Department,[12] at that time.
 
 The construction of of telegraph lines was started in November 1853. These connected Kolkata (then Calcutta) and Peshawar in the north; Agra, Mumbai (then Bombay) through Sindwa Ghats, and Chennai (then Madras) in the south; Ootacamund and Bangalore. William O'Shaughnessy, who pioneered the telegraph and telephone in India, belonged to the Public Works Department, and worked towards the development of telecom throughout this period. A separate department was opened in 1854 when telegraph facilities were opened to the public.
 
 In 1880, two telephone companies namely The Oriental Telephone Company Ltd. and The Anglo-Indian Telephone Company Ltd. approached the Government of India to establish telephone exchange in India. The permission was refused on the grounds that the establishment of telephones was a Government monopoly and that the Government itself would undertake the work. In 1881, the Government later reversed its earlier decision and a licence was granted to the Oriental Telephone Company Limited of England for opening telephone exchanges at Calcutta, Bombay, Madras and Ahmedabad and the first formal telephone service was established in the country.[13] On 28 January 1882, Major E. Baring, Member of the Governor General of India's Council declared open the Telephone Exchanges in Calcutta, Bombay and Madras. The exchange in Calcutta named the "Central Exchange" had a total of 93 subscribers in its early stage. Later that year, Bombay also witnessed the opening of a telephone exchange.[14]
 
 Further developments and milestones
-
-Indian_telegraph_receipt_1912.jpg
 
 -   Pre-1902 – Cable telegraph
 -   1902 – First wireless telegraph station established between Sagar Island and Sandhead.
@@ -46,8 +44,6 @@ DEVELOPMENT OF BROADCASTING: Radio broadcasting was initiated in 1927 but became
 PRE-LIBERALISATION STATISTICS: While all the major cities and towns in the country were linked with telephones during the British period, the total number of telephones in 1948 numbered only around 80,000. Post independence, growth remained slow because the telephone was seen more as a status symbol rather than being an instrument of utility. The number of telephones grew leisurely to 980,000 in 1971, 2.15 million in 1981 and 5.07 million in 1991, the year economic reforms were initiated in the country.
 
 Liberalisation and privatisation
-
-Cell_Phone_Tower_in_Ladakh_India_with_Buddhist_Prayer_Flags.jpg
 
 Liberalisation of Indian telecommunication in industry started in 1981 when Prime Minister Indira Gandhi signed contracts with Alcatel CIT of France to merge with the state owned Telecom Company (ITI), in an effort to set up 5,000,000 lines per year. But soon the policy was let down because of political opposition.[18] Attempts to liberalise the telecommunication industry were continued by the following government under the prime-minister-ship of Rajiv Gandhi. He invited Sam Pitroda, a US-based Non-resident Indian NRI and a former Rockwell International executive to set up a Centre for Development of Telematics(C-DOT) which manufactured electronic telephone exchanges in India for the first time.[19] Sam Pitroda had a significant role as a consultant and adviser in the development of telecommunication in India.[20]
 
@@ -98,7 +94,7 @@ Before the New Telecom Policy was announced in 1999, only the Government-owned B
 
 Mobile telephony
 
-MumbaiIndiaiPhoneCellphoneShots2011-3.jpg calls can be made) and internet kiosks in India]] In August 1995, then Chief Minister of West Bengal, Jyoti Basu made the first mobile phone call in India to then Union Telecom Minister Sukhram.[56] Sixteen years later 4G services were launched in Kolkata in 2012.[57]
+calls can be made) and internet kiosks in India]] In August 1995, then Chief Minister of West Bengal, Jyoti Basu made the first mobile phone call in India to then Union Telecom Minister Sukhram.[56] Sixteen years later 4G services were launched in Kolkata in 2012.[57]
 
 With a subscriber base of more than 1,179.32 million (as of July 2018),[58] the mobile telecommunications system in India is the second largest in the world and it was thrown open to private players in the 1990s. GSM was comfortably maintaining its position as the dominant mobile technology with 80% of the mobile subscriber market, but CDMA seemed to have stabilised its market share at 20% for the time being.
 
@@ -173,7 +169,7 @@ The 2016 Regulation,[92] stipulates that:
 
 Television broadcasting
 
-STS008-44-611.jpg system.]] Television broadcasting began in India in 1959 by _Doordarshan_, a state run medium of communication, and had slow expansion for more than two decades.[93] The policy reforms of the government in the 1990s attracted private initiatives in this sector, and since then, satellite television has increasingly shaped popular culture and Indian society. However, still, only the government owned _Doordarshan_ has the licence for terrestrial television broadcast. Private companies reach the public using satellite channels; both cable television as well as DTH has obtained a wide subscriber base in India. In 2012, India had about 148 million TV homes of which 126 million has access to cable and satellite services.[94]
+system.]] Television broadcasting began in India in 1959 by _Doordarshan_, a state run medium of communication, and had slow expansion for more than two decades.[93] The policy reforms of the government in the 1990s attracted private initiatives in this sector, and since then, satellite television has increasingly shaped popular culture and Indian society. However, still, only the government owned _Doordarshan_ has the licence for terrestrial television broadcast. Private companies reach the public using satellite channels; both cable television as well as DTH has obtained a wide subscriber base in India. In 2012, India had about 148 million TV homes of which 126 million has access to cable and satellite services.[94]
 
 Following the economic reforms in the 1990s, satellite television channels from around the world—BBC, CNN, CNBC, and other private television channels gained a foothold in the country.[95] There are no regulations to control the ownership of satellite dish antennas and also for operating cable television systems in India, which in turn has helped for an impressive growth in the viewership. The growth in the number of satellite channels was triggered by corporate business houses such as Star TV group and Zee TV. Initially restricted to music and entertainment channels, viewership grew, giving rise to several channels in regional languages, especially Hindi. The main news channels available were CNN and BBC World. In the late 1990s, many current affairs and news channels sprouted, becoming immensely popular because of the alternative viewpoint they offered compared to Doordarshan. Some of the notable ones are Aaj Tak (run by the India Today group) and STAR News, CNN-IBN, Times Now, initially run by the NDTV group and their lead anchor, Prannoy Roy (NDTV now has its own channels, NDTV 24x7, NDTV Profit and NDTV India). Over the years, Doordarshan services also have grown from a single national channel to six national and eleven regional channels. Nonetheless, it has lost the leadership in market, though it underwent many phases of modernisation in order to contain tough competition from private channels.[96]
 
@@ -182,7 +178,7 @@ Today, television is the most penetrative media in India with industry estimates
 
 Radio
 
-AIR_FM_Tower_Mangalore_0203.jpg As of June 2018, there are 328 private FM radio stations in India.[98] Apart from the private FM radio stations, All India Radio, the national public radio broadcaster of India, runs multiple radio channels. AIR’s service comprises 420 stations located across the country, reaching nearly ninety two percent of the country’s area and 99.19% of the total population. AIR originates programming in 23 languages and 179 dialects.[99]
+As of June 2018, there are 328 private FM radio stations in India.[98] Apart from the private FM radio stations, All India Radio, the national public radio broadcaster of India, runs multiple radio channels. AIR’s service comprises 420 stations located across the country, reaching nearly ninety two percent of the country’s area and 99.19% of the total population. AIR originates programming in 23 languages and 179 dialects.[99]
 
 
 Next-generation networks (NGN)

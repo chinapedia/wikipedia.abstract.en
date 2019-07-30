@@ -1,4 +1,4 @@
-Complex_number_illustration.svg, representing the complex plane. "Re" is the real axis, "Im" is the imaginary axis, and satisfies .]]
+, representing the complex plane. "Re" is the real axis, "Im" is the imaginary axis, and satisfies .]]
 
 A COMPLEX NUMBER is a number that can be expressed in the form , where and are real numbers, and is a solution of the equation . Because no real number satisfies this equation, is called an imaginary number. For the complex number , is called the , and is called the . Despite the historical nomenclature "imaginary", complex numbers are regarded in the mathematical sciences as just as "real" as the real numbers, and are fundamental in many aspects of the scientific description of the natural world.[1]
 
@@ -22,7 +22,7 @@ The geometric identification of the complex numbers with the complex plane, whic
 
 Definition
 
-Complex_conjugate_picture.svg. The real part of a complex number is , and its imaginary part is .]]
+. The real part of a complex number is , and its imaginary part is .]]
 
 Based on the concept of real numbers, a complex number is a number of the form , where and are real numbers and is an indeterminate satisfying . For example, is a complex number.[4]
 
@@ -51,8 +51,6 @@ In some disciplines, in particular electromagnetism and electrical engineering, 
 
 Visualisation
 
-A_plus_bi.svg
-
 A complex number can thus be identified with an ordered pair of real numbers, which in turn may be interpreted as coordinates of a point in a two-dimensional space. The most immediate space is the Euclidean plane with suitable coordinates, which is then called COMPLEX PLANE or ARGAND DIAGRAM,[10][11] named after Jean-Robert Argand. Another prominent space on which the coordinates may be projected is the two-dimensional surface of a sphere, which is then called Riemann sphere.
 
 Cartesian complex plane
@@ -66,8 +64,6 @@ Notably, the operations of addition and multiplication take on a very natural ge
     (a + bi) ⋅ i = ai + b(i)² =  − b + ai.
 
 Polar complex plane
-
-Complex_number_illustration_modarg.svg
 
 Modulus and argument
 
@@ -112,7 +108,7 @@ _z_ = _r_∠_φ_.
 
 Complex graphs
 
-A color wheel graph of the expression When visualizing complex functions, both a complex input and output are needed. Because each complex number is represented in two dimensions, visually graphing a complex function would require the perception of a four dimensional space, which is possible only in projections. Because of this, other ways of visualizing complex functions have been designed.
+When visualizing complex functions, both a complex input and output are needed. Because each complex number is represented in two dimensions, visually graphing a complex function would require the perception of a four dimensional space, which is possible only in projections. Because of this, other ways of visualizing complex functions have been designed.
 
 In Domain coloring the output dimensions are represented by color and brightness, respectively. Each point in the complex plane as domain is _ornated_, typically with _color_ representing the argument of the complex number, and _brightness_ representing the magnitude. Dark spots mark moduli near zero, brighter spots are farther away from the origin, the gradation may be discontinuous, but is assumed as monotonous. The colors often vary in steps of for to from red, yellow, green, cyan, blue, to magenta. These plots are called color wheel graphs. This provides a simple way to visualize the functions without losing information. The picture shows zeros for and poles at
 
@@ -174,7 +170,7 @@ Since complex numbers are naturally thought of as existing on a two-dimensional 
 
 Conjugate
 
-Complex_conjugate_picture.svg The _complex conjugate_ of the complex number is given by . It is denoted by either $\overline{z}$ or .[22] This unary operation on complex numbers cannot be expressed by applying only their basic operations addition, subtraction, multiplication and division.
+The _complex conjugate_ of the complex number is given by . It is denoted by either $\overline{z}$ or .[22] This unary operation on complex numbers cannot be expressed by applying only their basic operations addition, subtraction, multiplication and division.
 
 Geometrically, $\overline{z}$ is the "reflection" of about the real axis. Conjugating twice gives the original complex number
 
@@ -212,8 +208,6 @@ Conjugation distributes over the basic complex arithmetic operations:
 Conjugation is also employed in inversive geometry, a branch of geometry studying reflections more general than ones about a line. In the network analysis of electrical circuits, the complex conjugate is used in finding the equivalent impedance when the maximum power transfer theorem is looked for.
 
 Addition and subtraction
-
-Vector_Addition.svg
 
 Two complex numbers a and b are most easily added by separately adding their real and imaginary parts of the summands. That is to say:
 
@@ -253,7 +247,7 @@ $$\frac {w}{z}= w\cdot \frac {1}{z}= (u+vi)\cdot \left(\frac{x}{x^2+y^2} -\frac{
 
 Multiplication and division in polar form
 
-Complex_multi.svg, the length of the hypotenuse of the blue triangle.]] Formulas for multiplication, division and exponentiation are simpler in polar form than the corresponding formulas in Cartesian coordinates. Given two complex numbers and , because of the trigonometric identities
+, the length of the hypotenuse of the blue triangle.]] Formulas for multiplication, division and exponentiation are simpler in polar form than the corresponding formulas in Cartesian coordinates. Given two complex numbers and , because of the trigonometric identities
 
 cos (_a_)cos (_b_) − sin (_a_)sin (_b_) = cos (_a_ + _b_)
 
@@ -452,7 +446,7 @@ Though this representation of complex numbers with matrices is the most common, 
 
 Complex analysis
 
-Sin1perz.png of . Black parts inside refer to numbers having large absolute values.]]
+of . Black parts inside refer to numbers having large absolute values.]]
 
 The study of functions of a complex variable is known as complex analysis and has enormous practical use in applied mathematics as well as in other branches of mathematics. Often, the most natural proofs for statements in real analysis or even number theory employ techniques from complex analysis (see prime number theorem for an example). Unlike real functions, which are commonly represented as two-dimensional graphs, complex functions have four-dimensional graphs and may usefully be illustrated by color-coding a three-dimensional graph to suggest four dimensions, or by animating the complex function's dynamic transformation of the complex plane.
 
@@ -521,7 +515,7 @@ The shape S of a triangle will remain the same, when the complex plane is transf
 
 Fractal geometry
 
-Mandelset_hires.png The Mandelbrot set is a popular example of a fractal formed on the complex plane. It is defined by plotting every location c where iterating the sequence f_(c)(z) = z² + c does not diverge when iterated infinitely. Similarly, Julia sets have the same rules, except where c remains constant.
+The Mandelbrot set is a popular example of a fractal formed on the complex plane. It is defined by plotting every location c where iterating the sequence f_(c)(z) = z² + c does not diverge when iterated infinitely. Similarly, Julia sets have the same rules, except where c remains constant.
 
 Triangles
 
@@ -529,7 +523,7 @@ Every triangle has a unique Steiner inellipse – an ellipse inside the triangle
 
 Algebraic number theory
 
-Pentagon_construct.gif.]] As mentioned above, any nonconstant polynomial equation (in complex coefficients) has a solution in C. A fortiori, the same is true if the equation has rational coefficients. The roots of such equations are called algebraic numbers – they are a principal object of study in algebraic number theory. Compared to , the algebraic closure of Q, which also contains all algebraic numbers, C has the advantage of being easily understandable in geometric terms. In this way, algebraic methods can be used to study geometric questions and vice versa. With algebraic methods, more specifically applying the machinery of field theory to the number field containing roots of unity, it can be shown that it is not possible to construct a regular nonagon using only compass and straightedge – a purely geometric problem.
+.]] As mentioned above, any nonconstant polynomial equation (in complex coefficients) has a solution in C. A fortiori, the same is true if the equation has rational coefficients. The roots of such equations are called algebraic numbers – they are a principal object of study in algebraic number theory. Compared to , the algebraic closure of Q, which also contains all algebraic numbers, C has the advantage of being easily understandable in geometric terms. In this way, algebraic methods can be used to study geometric questions and vice versa. With algebraic methods, more specifically applying the machinery of field theory to the number field containing roots of unity, it can be shown that it is not possible to construct a regular nonagon using only compass and straightedge – a purely geometric problem.
 
 Another example are Gaussian integers, that is, numbers of the form , where and are integers, which can be used to classify sums of squares.
 

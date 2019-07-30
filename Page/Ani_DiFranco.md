@@ -24,7 +24,7 @@ On September 11, 2001, DiFranco was in Manhattan and later penned the poem "Self
 
 Since her 2005 release _Knuckle Down_ (co-produced by Joe Henry) DiFranco's touring band and recordings have featured bass player Todd Sickafoose and in turns other musicians such as Allison Miller, Andy Borger, Herlin Riley, and Terence Higgins on drums and Mike Dillon on percussion and vibes.
 
-On September 11, 2007, she released the first retrospective of her career, a two disc compilation entitled _Canon_ and simultaneously a retrospective collection of poetry book _Verses_. On September 30, 2008, she released _Red Letter Year_. Ani_difranco_2008-01-17.jpg
+On September 11, 2007, she released the first retrospective of her career, a two disc compilation entitled _Canon_ and simultaneously a retrospective collection of poetry book _Verses_. On September 30, 2008, she released _Red Letter Year_.
 
 In 2009 DiFranco appeared at Pete Seeger's 90th birthday celebration at Madison Square Garden, debuting her revamped version of the 1930s labor anthem "Which Side Are You On?" in a duet with Bruce Cockburn and also duetting with Kris Kristofferson on the folk classic "There's a Hole in the Bucket".
 
@@ -34,7 +34,7 @@ In 2014, she released her eighteenth album, entitled Allergic to Water. In 2017,
 
 On May 7, 2019, DiFranco released a memoir, _No Walls and the Recurring Dream_, via Viking Books. It is described as a "coming-of-age story."[24]
 
-Ani_DiFranco_The_New_Yorker.jpg, and Steve Albini at _The New Yorker_ festival in September 2005.]]
+, and Steve Albini at _The New Yorker_ festival in September 2005.]]
 
 
 Personal life
@@ -65,7 +65,7 @@ Music
 
 Style
 
-DiFranco's guitar playing is often characterized by a signature staccato style,[40][41] rapid fingerpicking and many alternate tunings. She delivers many of her lines in a speaking style notable for its rhythmic variation. Her lyrics, which often include alliteration, metaphor, word play and a more or less gentle irony, have also received praise for their sophistication. Ani_DiFranco_concert.jpg
+DiFranco's guitar playing is often characterized by a signature staccato style,[40][41] rapid fingerpicking and many alternate tunings. She delivers many of her lines in a speaking style notable for its rhythmic variation. Her lyrics, which often include alliteration, metaphor, word play and a more or less gentle irony, have also received praise for their sophistication.
 
 Although DiFranco's music has been classified as both folk rock and alternative rock, she has reached across genres since her earliest albums incorporating first punk, then funk, hiphop, and jazz influences.
 

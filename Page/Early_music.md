@@ -1,4 +1,4 @@
-Francesco_Francia_-_Madonna_and_Saints_(detail)_-_WGA08174.jpg by Francesco Francia]] EARLY MUSIC generally comprises Medieval music (500–1400) and Renaissance music (1400–1600), but can also include Baroque music (1600–1750). Early music is a broad musical era in the history of Western art music.
+by Francesco Francia]] EARLY MUSIC generally comprises Medieval music (500–1400) and Renaissance music (1400–1600), but can also include Baroque music (1600–1750). Early music is a broad musical era in the history of Western art music.
 
 
 Terminology
@@ -12,7 +12,7 @@ Today, the understanding of "Early music" has come to include "any music for whi
 
 Revival
 
-Akademie_für_Alte_Musik_Berlin_3608.JPG, modern performers of Early music]]
+, modern performers of Early music]]
 
 In the later 20th century there was a resurgence of interest in the performance of music from the Medieval and Renaissance eras, and a number of instrumental consorts and choral ensembles specialising in Early music repertoire were formed. Groups such as the Tallis scholars, the Early Music Consort and the Taverner Consort and Players have been influential in bringing Early music to modern audiences through performances and popular recordings.[6]
 

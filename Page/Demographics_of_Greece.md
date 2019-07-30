@@ -13,8 +13,6 @@ Urbanization
 
 Population
 
-Population_of_Greece_since_1961.svg
-
 According to the 2001 census the population of Greece was 10,964,020. Eurostat estimations as of January 2008 gave the number of 11,214,992 inhabitants in the Greek peninsula. According to the official 2011 census, which used sophisticated methodology, the population of Greece was 10,816,286.
 
   -------- ------------ --------
@@ -228,9 +226,7 @@ Demographic statistics according to the World Population Review in 2019.[28]
 -   Net loss of one person every 21 minutes
 -   One net migrant every 53 minutes
 
-Population_pyramid_of_Greece_(1928).svg Demographic statistics according to the CIA World Factbook, unless otherwise indicated.[29]
-
-Greecepop.svg
+Demographic statistics according to the CIA World Factbook, unless otherwise indicated.[29]
 
 Population:
     10,761,523 (July 2018 est.)
@@ -327,7 +323,7 @@ School life expectancy (primary to tertiary education):
 
 Immigration
 
-DeportaLausanne.jpg, Russia and Bulgaria. 20% of the population were Greek refugees including 100,000-400,000 Karamanlides]] COB_data_Greece.PNG Greece has received a large number of immigrants since the early 1990s. The majority of them come from the neighbouring countries. As of 2011, the number of foreigners in an enumerated total of 10,815,197 people was 911,299.
+, Russia and Bulgaria. 20% of the population were Greek refugees including 100,000-400,000 Karamanlides]] Greece has received a large number of immigrants since the early 1990s. The majority of them come from the neighbouring countries. As of 2011, the number of foreigners in an enumerated total of 10,815,197 people was 911,299.
 
 Foreign-born by country (Eurostat):[30]
 
@@ -390,8 +386,6 @@ Being part of the phenomenon of the aging of Europe, the Greek population shows 
 Ethnic groups, languages and religion
 
 The population of northern Greece has primarily been ethnically, religiously and linguistically diverse.[33] The Muslim minority of Greece is the only explicitly recognized minority in Greece by the government. The officials define it as a group of Greek Muslims numbering 98,000 people, consisting of Turks (50%), Pomaks (35%) and Romani (15%). No other minorities are acknowledged and the Greek government has followed assimilatory policies and has discriminated against them.[34][35][36] There is no official information for the size of the ethnic, linguistic and religious minorities because asking the population questions pertaining to the topic have been abolished since 1951.[37]
-
-Modern_Greek_dialects_en.svg Greece_linguistic_minorities.svg
 
 Minorities in Greece according to Minority Rights Group International:[38]
 

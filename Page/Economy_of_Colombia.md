@@ -191,8 +191,6 @@ The following table shows the main economic indicators in 1980–2017. Inflation
 
 Graphics
 
-Colombia_GDP_by_sector_in_2017.png Colombia_-_Selected_Macroeconomic_Indicators.png Colombia_Poverty_2016.png
-
 
 Industry and agriculture
 

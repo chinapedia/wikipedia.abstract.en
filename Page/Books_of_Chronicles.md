@@ -7,7 +7,7 @@ Chronicles is the final book of the Hebrew Bible, concluding the third section o
 
 Summary
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_113.png]] The Chronicles narrative begins with Adam and the story is then carried forward, almost entirely by genealogical lists, down to the founding of the first Kingdom of Israel (1 Chronicles 1–9). The bulk of the remainder of 1 Chronicles, after a brief account of Saul, is concerned with the reign of David (1 Chronicles 11–29). The next long section concerns David's son Solomon (2 Chronicles 1–9), and the final part is concerned with the Kingdom of Judah with occasional references to the second kingdom of Israel (2 Chronicles 10–36). In the last chapter Judah is destroyed and the people taken into exile in Babylon, and in the final verses the Persian king Cyrus the Great conquers the Neo-Babylonian Empire, and authorises the restoration of the Temple in Jerusalem, and the return of the exiles.
+]] The Chronicles narrative begins with Adam and the story is then carried forward, almost entirely by genealogical lists, down to the founding of the first Kingdom of Israel (1 Chronicles 1–9). The bulk of the remainder of 1 Chronicles, after a brief account of Saul, is concerned with the reign of David (1 Chronicles 11–29). The next long section concerns David's son Solomon (2 Chronicles 1–9), and the final part is concerned with the Kingdom of Judah with occasional references to the second kingdom of Israel (2 Chronicles 10–36). In the last chapter Judah is destroyed and the people taken into exile in Babylon, and in the final verses the Persian king Cyrus the Great conquers the Neo-Babylonian Empire, and authorises the restoration of the Temple in Jerusalem, and the return of the exiles.
 
 
 Structure

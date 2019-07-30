@@ -1,5 +1,3 @@
-Anderson,_Alexander_–_Supplementum_Apollonii_redivivi,_1612_–_BEIC_17635.jpg
-
 ALEXANDER ANDERSON ( in Aberdeen – in Paris) was a Scottish mathematician.
 
 

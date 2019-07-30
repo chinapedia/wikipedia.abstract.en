@@ -18,7 +18,7 @@ Bongos are further classified into two subspecies: _T. e. eurycerus_, the lowlan
 
 Appearance
 
-Bongo_skeleton_at_MAV-USP.jpg, Faculty of Veterinary Medicine and Animal Science, University of São Paulo]] Bongos are one of the largest of the forest antelopes. In addition to the deep chestnut colour of their coats, they have bright white stripes on their sides to help with camouflage.
+, Faculty of Veterinary Medicine and Animal Science, University of São Paulo]] Bongos are one of the largest of the forest antelopes. In addition to the deep chestnut colour of their coats, they have bright white stripes on their sides to help with camouflage.
 
 Adults of both sexes are similar in size. Adult height is about at the shoulder and length is , including a tail of . Females weigh around , while males weigh about . Its large size puts it as the third-largest in the Bovidae tribe of Strepsicerotini, behind both the common and greater elands by about , and above the greater kudu by about .[6][7]
 
@@ -26,7 +26,7 @@ Both sexes have heavy spiral horns; those of the male are longer and more massiv
 
 Coat and body
 
-BongoNEW.jpg The bongo sports a bright auburn or chestnut coat, with the neck, chest, and legs generally darker than the rest of the body. Coats of male bongos become darker as they age until they reach a dark mahogany-brown colour. Coats of female bongos are usually more brightly coloured than those of males. The eastern bongo is darker in color than the western and this is especially pronounced in older males which tend to be chestnut brown, especially on the forepart of their bodies.
+The bongo sports a bright auburn or chestnut coat, with the neck, chest, and legs generally darker than the rest of the body. Coats of male bongos become darker as they age until they reach a dark mahogany-brown colour. Coats of female bongos are usually more brightly coloured than those of males. The eastern bongo is darker in color than the western and this is especially pronounced in older males which tend to be chestnut brown, especially on the forepart of their bodies.
 
 The pigmentation in the coat rubs off quite easily; anecdotal reports suggest rain running off a bongo may be tinted red with pigment. The smooth coat is marked with 10–15 vertical white-yellow stripes, spread along the back from the base of the neck to the rump. The number of stripes on each side is rarely the same. It also has a short, bristly, brown ridge of dorsal hair from the shoulder to the rump; the white stripes run into this ridge.
 
@@ -34,7 +34,7 @@ A white chevron appears between the eyes, and two large white spots grace each c
 
 Horns
 
-Bongo_Burger_Zoo.jpg Bongos have two heavy and slightly spiralled horns that slope over their backs, and like many other antelope species, both male and female bongos have horns. Bongos are the only tragelaphids in which both sexes have horns. The horns of bongos are in the form of a lyre and bear a resemblance to those of the related antelope species of nyalas, sitatungas, bushbucks, kudus and elands.
+Bongos have two heavy and slightly spiralled horns that slope over their backs, and like many other antelope species, both male and female bongos have horns. Bongos are the only tragelaphids in which both sexes have horns. The horns of bongos are in the form of a lyre and bear a resemblance to those of the related antelope species of nyalas, sitatungas, bushbucks, kudus and elands.
 
 Unlike deer, which have branched antlers shed annually, bongos and other antelopes have pointed horns they keep throughout their lives. Males have massive backswept horns, while females have smaller, thinner, and more parallel horns. The size of the horns range between . The horns twist once.
 
@@ -43,7 +43,7 @@ Like all other horns of antelopes, the core of a bongo's horn is hollow and the 
 
 Social organization and behavior
 
-Mountain_bongo_mount_kenya.jpg Like other forest ungulates, bongos are seldom seen in large groups. Males, called bulls, tend to be solitary, while females with young live in groups of six to eight. Bongos have seldom been seen in herds of more than 20. Gestation is about 285 days (9.5 months), with one young per birth, and weaning occurs at six months. Sexual maturity is reached at 24–27 months. The preferred habitat of this species is so dense and difficult to operate in, that few Europeans or Americans observed this species until the 1960s. As young males mature and leave their maternal groups, they most often remain solitary, although rarely they join an older male. Adult males of similar size/age tend to avoid one another. Occasionally, they meet and spar with their horns in a ritualised manner and it is rare for serious fights to take place. However, such fights are usually discouraged by visual displays, in which the males bulge their necks, roll their eyes, and hold their horns in a vertical position while slowly pacing back and forth in front of the other male. They seek out females only during mating time.[9] When they are with a herd of females, males do not coerce them or try to restrict their movements as do some other antelopes.
+Like other forest ungulates, bongos are seldom seen in large groups. Males, called bulls, tend to be solitary, while females with young live in groups of six to eight. Bongos have seldom been seen in herds of more than 20. Gestation is about 285 days (9.5 months), with one young per birth, and weaning occurs at six months. Sexual maturity is reached at 24–27 months. The preferred habitat of this species is so dense and difficult to operate in, that few Europeans or Americans observed this species until the 1960s. As young males mature and leave their maternal groups, they most often remain solitary, although rarely they join an older male. Adult males of similar size/age tend to avoid one another. Occasionally, they meet and spar with their horns in a ritualised manner and it is rare for serious fights to take place. However, such fights are usually discouraged by visual displays, in which the males bulge their necks, roll their eyes, and hold their horns in a vertical position while slowly pacing back and forth in front of the other male. They seek out females only during mating time.[9] When they are with a herd of females, males do not coerce them or try to restrict their movements as do some other antelopes.
 
 Although mostly nocturnal, they are occasionally active during the day. However, like deer, bongos may exhibit crepuscular behaviour. Bongos are both timid and easily frightened; after a scare, a bongo moves away at considerable speed, even through dense undergrowth. Once they find cover, they stay alert and face away from the disturbance, but peek every now and then to check the situation.[10] The bongo's hindquarters are less conspicuous than the forequarters, and from this position the animal can quickly flee.
 
@@ -56,13 +56,13 @@ Ecology
 
 Distribution and habitat
 
-Bongos are found in tropical jungles with dense undergrowth up to an altitude of in Central Africa, with isolated populations in Kenya, and these West African countries: Cameroon, the Central African Republic, the Republic of the Congo, the Democratic Republic of Congo, the Ivory Coast, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Sierra Leone, South Sudan. Tragelaphus_eurycerus_isaaciPCCA20071227-8374B.jpg.]] Historically, bongos are found in three disjunct parts of Africa: East, Central and West. Today, all three populations’ ranges have shrunk in size due to habitat loss for agriculture and uncontrolled timber cutting, as well as hunting for meat.
+Bongos are found in tropical jungles with dense undergrowth up to an altitude of in Central Africa, with isolated populations in Kenya, and these West African countries: Cameroon, the Central African Republic, the Republic of the Congo, the Democratic Republic of Congo, the Ivory Coast, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Sierra Leone, South Sudan. .]] Historically, bongos are found in three disjunct parts of Africa: East, Central and West. Today, all three populations’ ranges have shrunk in size due to habitat loss for agriculture and uncontrolled timber cutting, as well as hunting for meat.
 
 Bongos favour disturbed forest mosaics that provide fresh, low-level green vegetation. Such habitats may be promoted by heavy browsing by elephants, fires, flooding, tree-felling (natural or by logging), and fallowing. Mass bamboo die-off provides ideal habitat in East Africa. They can live in bamboo forests.
 
 Diet
 
-BongoP2.jpg]] Like many forest ungulates, bongos are herbivorous browsers and feed on leaves, bushes, vines, bark and pith of rotting trees, grasses/herbs, roots, cereals, and fruits.
+]] Like many forest ungulates, bongos are herbivorous browsers and feed on leaves, bushes, vines, bark and pith of rotting trees, grasses/herbs, roots, cereals, and fruits.
 
 Bongos require salt in their diets, and are known to regularly visit natural salt licks. Examination of bongo feces revealed that charcoal from trees burnt by lightning is consumed. This behavior is believed to be a means of getting salts and minerals into their diets. This behavior has also been reported in the okapi. Another similarity to the okapi, though the bongo is unrelated, is that the bongo has a long prehensile tongue which it uses to grasp grasses and leaves.
 
@@ -79,7 +79,7 @@ Although bongos are quite easy for humans to catch using snares, many people nat
 
 Zoo programmes
 
-Eastern_Bongo_at_Edinburgh_Zoo.jpg]] An international studbook is maintained to help manage animals held in captivity. Because of its bright colour, it is very popular in zoos and private collections. In North America, over 400 individuals are thought to be held, a population that probably exceeds that of the mountain bongo in the wild.
+]] An international studbook is maintained to help manage animals held in captivity. Because of its bright colour, it is very popular in zoos and private collections. In North America, over 400 individuals are thought to be held, a population that probably exceeds that of the mountain bongo in the wild.
 
 In 2000, the Association of Zoos and Aquariums (AZA) upgraded the bongo to a Species Survival Plan participant, which works to improve the genetic diversity of managed animal populations. The target population for participating zoos and private collections in North America is 250 animals. Through the efforts of zoos in North America, a reintroduction to the population in Kenya is being developed.
 
@@ -97,8 +97,6 @@ The western/lowland bongo faces an ongoing population decline as habitat destruc
 
 As the largest and most spectacular forest antelope, the western/lowland bongo is both an important flagship species for protected areas such as national parks, and a major trophy species which has been taken in increasing numbers in Central Africa by sport hunters during the 1990s.[16] Both of these factors are strong incentives to provide effective protection and management of populations.[17]
 
-Tragelaphus_eurycerus_isaaci.jpg
-
 Trophy hunting has the potential to provide economic justification for the preservation of larger areas of bongo habitat than national parks, especially in remote regions of Central Africa, where possibilities for commercially successful tourism are very limited.[18]
 
 The eastern/mountain bongo's survival in the wild is dependent on more effective protection of the surviving remnant populations in Kenya. If this does not occur, it will eventually become extinct in the wild. The existence of a healthy captive population of this subspecies offers the potential for its reintroduction.[19]
@@ -109,7 +107,7 @@ In 2004, Dr. Jake Veasey, the head of the Department of Animal Management and Co
 
 Along with the Rothschild giraffe, the eastern bongo is arguably one of the most threatened large mammals in Africa, with recent estimates numbering less than 140 animals, below a minimum sustainable viable population. The situation is exacerbated because these animals are spread across four isolated populations. Whilst the bongo endangered species program can be viewed as having been successful in ensuring survival of this species in Europe, it has not yet become actively involved in the conservation of this species in the wild in a coordinated fashion. The plan is to engage in conservation activities in Kenya to assist in reversing the decline of the eastern bongo populations and genetic diversity in Africa, and in particular, applying population management expertise to help ensure the persistence of genetic diversity in the free ranging wild populations.
 
-Baby_Bongo_002.jpg in Kentucky]] To illustrate significance of genetic diversity loss, assume the average metapopulation size is 35 animals based on 140 animals spread across four populations (140/4=35). Assuming stable populations, these populations will lose 8% of their genetic diversity every decade. By managing all four populations as one, through strategic transfers, gene loss is reduced from 8% to 2% per decade, without any increase in bongo numbers in Kenya. By managing the European and African populations as one – by strategic exports from Europe combined with _in situ_ transfers, gene loss is reduced to 0.72% every 100 years, with both populations remaining stable. If populations in Kenya are allowed to grow through the implementation of effective conservation, including strategic transfers, gene loss can be effectively halted in this species and its future secured in the wild.
+in Kentucky]] To illustrate significance of genetic diversity loss, assume the average metapopulation size is 35 animals based on 140 animals spread across four populations (140/4=35). Assuming stable populations, these populations will lose 8% of their genetic diversity every decade. By managing all four populations as one, through strategic transfers, gene loss is reduced from 8% to 2% per decade, without any increase in bongo numbers in Kenya. By managing the European and African populations as one – by strategic exports from Europe combined with _in situ_ transfers, gene loss is reduced to 0.72% every 100 years, with both populations remaining stable. If populations in Kenya are allowed to grow through the implementation of effective conservation, including strategic transfers, gene loss can be effectively halted in this species and its future secured in the wild.
 
 The initial aims of the project are:
 

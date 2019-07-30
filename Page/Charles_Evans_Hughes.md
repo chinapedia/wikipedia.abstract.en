@@ -9,8 +9,6 @@ In 1930, President Herbert Hoover appointed Hughes to succeed Chief Justice Taft
 
 Early life and family
 
-Charles_Evans_Hughes,_age_16.jpg
-
 Hughes's father, David Charles Hughes, migrated from Wales to the United States in 1855 after he was inspired by the autobiography of Benjamin Franklin. David became a Baptist preacher in Glens Falls, New York, and married Mary Catherine Connelly, whose family had been in the United States for several generations.[1] Charles Evans Hughes, the only child of David and Mary, was born in Glens Falls on April 11, 1862.[2][3] The Hughes family moved to Oswego, New York in 1866, but relocated soon after to Newark, New Jersey and then to Brooklyn. With the exception of a brief period of attendance at Newark High School, Hughes received no formal education until 1874, instead being educated by his parents. In September 1874, he enrolled in New York City's prestigious Public School 35, graduating the following year.[4]
 
 At the age of 14, he enrolled at Madison University (now Colgate University), then transferred to Brown University. He graduated third in his class at the age of 19, having been elected to Phi Beta Kappa in his junior year. He was also a member of the Delta Upsilon Fraternity, where he would serve as the first international President later on.[5] During his time at Brown, Hughes volunteered for the successful presidential campaign of Republican nominee James A. Garfield, a brother of his in Delta Upsilon, and served as the editor of the college newspaper. After graduating from Brown, Hughes spent a year working as a teacher in Delhi, New York.[6] Hughes next enrolled in Columbia Law School, graduating with highest honors.[7] He passed the New York bar exam in 1884, with the highest score ever awarded by the state.[8]
@@ -20,7 +18,7 @@ In 1888, Hughes married Antoinette Carter, the daughter of the senior partner of
 
 Legal and academic career
 
-Mrs._Charles_Evans_Hughes_as_sketched_by_Marguerite_Martyn,_1916.jpg in 1916]]
+in 1916]]
 
 Hughes took a position with the Wall Street law firm of Chamberlain, Carter & Hornblower in 1883, focusing primarily on matters related to contracts and bankruptcies. He was made a partner in the firm in 1888, and the firm changed its name to Carter, Hughes & Cravath (it later became known as Hughes Hubbard & Reed). Hughes left the firm and became a professor at Cornell Law School from 1891 to 1893. He returned to Carter, Hughes & Cravath in 1893.[11] He also joined the board of Brown University and served on a special committee that recommended revisions to New York's Code of Civil Procedure.[12]
 
@@ -31,8 +29,6 @@ Hughes's success made him a popular public figure in New York, and he was appoin
 
 Governor of New York
 
-CEHughes.png
-
 Seeking a strong candidate to defeat newspaper mogul William Randolph Hearst in the 1906 New York gubernatorial election, President Theodore Roosevelt convinced New York Republican leaders to nominate Hughes for governor. Roosevelt described Hughes as "a sane and sincere reformer, who really has fought against the very evils which Hearst denounces,... [but is] free from any taint of demagogy."[18] In his campaign for governor, Hughes attacked the corruption of specific companies but defended corporations as a necessary part of the economy. He also called for an eight-hour workday on public works projects and favored prohibitions on child labor.[19] Hughes was not a charismatic speaker, but he campaigned vigorously throughout the state and won the endorsements of most newspapers.[20] Ultimately, Hughes defeated Hearst in a close election, taking 52 percent of the vote.[21]
 
 Hughes's governorship focused largely on reforming the government and addressing political corruption. He expanded the number of civil service positions, increased the power of the public utility regulatory commissions, and won passage of laws that placed limits on political donations by corporations and required political candidates to track campaign receipts and expenditures.[22] He also signed laws that barred younger workers from several dangerous occupations and established a maximum 48-hour workweek for manufacturing workers under the age of 16. To enforce those laws, Hughes reorganized the New York State Department of Labor. Hughes's labor policies were influenced by economist Richard T. Ely, who sought to improve working conditions for laborers, but rejected the more far-reaching reforms favored by union leaders like Samuel Gompers.[23]
@@ -42,7 +38,7 @@ Though he had once been close to Roosevelt, relations between Hughes and the pre
 
 Associate Justice
 
-Oliver_Wendell_Holmes,_1902.jpg served alongside Hughes on the Supreme Court]]
+served alongside Hughes on the Supreme Court]]
 
 By early 1910, Hughes was anxious to retire from his position as governor.[26] A vacancy on the Supreme Court arose after the death of Associate Justice David J. Brewer, and Taft offered the position to Hughes. Hughes quickly accepted the offer, and he was unanimously confirmed by the Senate on May 2, 1910.[27] Two months after Hughes' confirmation, but prior to his taking the judicial oath, Chief Justice Melville Fuller died. Taft elevated Associate Justice Edward Douglass White to the position of Chief Justice despite having previously indicated to Hughes that he might select Hughes as Chief Justice. White's candidacy for the position was bolstered by his long experience on the bench and popularity among his fellow justices, as well as Theodore Roosevelt's coolness towards Hughes.[28]
 
@@ -53,13 +49,11 @@ He also wrote a series of opinions that upheld civil liberties; in one such case
 
 Presidential candidate
 
-Charles_E_Hughes_campaigning_in_Winona_MN_1916.jpg, during the 1916 presidential campaign campaigning on the Olympian]]
+, during the 1916 presidential campaign campaigning on the Olympian]]
 
 Taft and Roosevelt endured a bitter split during Taft's presidency, and Roosevelt challenged Taft for the 1912 Republican presidential nomination. Taft won re-nomination, but Roosevelt ran on the ticket of a third party, the Progressive Party.[38] With the split in the Republican Party, Democratic Governor Woodrow Wilson defeated Taft and Roosevelt in the 1912 presidential election and enacted his progressive New Freedom agenda.[39] Seeking to bridge the divide in the Republican Party and limit Wilson to a single term, several Republican leaders asked Hughes to consider running in the 1916 presidential election. Hughes at first rebuffed those entreaties, but his potential candidacy became the subject of widespread speculation and polls showed that he was the preferred candidate of many Republican voters.
 
 By the time of the June 1916 Republican National Convention, Hughes had won two presidential primaries, and his backers had lined up the support of numerous delegates. Hughes led on the first presidential ballot of the convention and clinched the nomination on the third ballot. Hughes accepted the nomination, becoming the first and only sitting Supreme Court Justice to serve as a major party's presidential nominee, and submitted his resignation to President Wilson. Roosevelt, meanwhile, declined to run again on a third party ticket, leaving Hughes and Wilson as the only major candidates in the race.[40]
-
-ElectoralCollege1916.svg
 
 Because of the Republican Party's dominance in presidential elections held since the election of Abraham Lincoln in 1860, Hughes was widely regarded as the favorite even though Wilson was the incumbent. His candidacy was further boosted by his own reputation for intelligence, personal integrity, and moderation. Hughes also won the public support of both Taft and Roosevelt, though Roosevelt remained uneasy with Hughes, whom he feared would be a "Wilson with whiskers." However, the split in Republican ranks remained a lingering issue, and Hughes damaged his campaign by inadvertently snubbing Hiram Johnson, the Governor of California who had been Roosevelt's running mate in the 1912 election.[41] Because of Hughes's opposition to the Adamson Act and the Sixteenth Amendment, most former Progressive Party leaders endorsed Wilson.[42] By election day, Hughes was still generally considered to be the favorite. He performed strongly in the Northeast and early election returns nearly convinced Wilson to concede the election. However, Wilson swept the Solid South and won several victories in the Midwest, where his candidacy was boosted by a strong pacifist sentiment. Wilson ultimately prevailed after winning the state of California by fewer than 4,000 votes.[43]
 
@@ -69,8 +63,6 @@ With Wilson's popularity declining, many Republican leaders believed that their 
 
 
 Secretary of State
-
-Charles_Evans_Hughes_residence.jpg
 
 Shortly after Harding's victory in the 1920 election, Hughes accepted the position of Secretary of State.[51] After the death of Chief Justice White in May 1921, Hughes was mentioned as a potential successor. Hughes told Harding he was uninterested in leaving the State Department, and Harding instead appointed former President Taft as the Chief Justice.[52]
 
@@ -108,7 +100,7 @@ Chief Justice
 
 Rejoining the Court
 
-Chief_Justice_Charles_Evans_Hughes.jpg On February 3, 1930, President Hoover nominated Hughes to succeed Chief Justice Taft, who was gravely ill. Though many had expected Hoover to elevate his close friend, Associate Justice Harlan Stone, Hughes was the top choice of Taft and Attorney General William D. Mitchell.[64][65] Though Hughes had compiled a progressive record during his tenure as an Associate Justice, by 1930 Taft believed that Hughes would be a consistent conservative on the court.[66] The nomination faced resistance from progressive Republicans such as senators George W. Norris and William E. Borah, who were concerned that Hughes would be overly friendly to big business after working as a corporate lawyer.[67][68] Many of those progressives, as well some Southern states' rights advocates, were outraged by the Taft Court's tendency to strike down state and federal legislation on the basis of the doctrine of substantive due process and feared that a Hughes Court would emulate the Taft Court.[69] Adherents of the substantive due process doctrine held that economic regulations such as restrictions on child labor and minimum wages violated freedom of contract, which, they argued, could not be abridged by federal and state laws because of the Fifth Amendment and the Fourteenth Amendment.[70]
+On February 3, 1930, President Hoover nominated Hughes to succeed Chief Justice Taft, who was gravely ill. Though many had expected Hoover to elevate his close friend, Associate Justice Harlan Stone, Hughes was the top choice of Taft and Attorney General William D. Mitchell.[64][65] Though Hughes had compiled a progressive record during his tenure as an Associate Justice, by 1930 Taft believed that Hughes would be a consistent conservative on the court.[66] The nomination faced resistance from progressive Republicans such as senators George W. Norris and William E. Borah, who were concerned that Hughes would be overly friendly to big business after working as a corporate lawyer.[67][68] Many of those progressives, as well some Southern states' rights advocates, were outraged by the Taft Court's tendency to strike down state and federal legislation on the basis of the doctrine of substantive due process and feared that a Hughes Court would emulate the Taft Court.[69] Adherents of the substantive due process doctrine held that economic regulations such as restrictions on child labor and minimum wages violated freedom of contract, which, they argued, could not be abridged by federal and state laws because of the Fifth Amendment and the Fourteenth Amendment.[70]
 
 After a brief but bitter confirmation battle, Hughes was confirmed by the Senate in a 52-26 vote,[71] and took his judicial oath of office on February 24, 1930.[72] Hughes's son, Charles Jr., was subsequently forced to resign as Solicitor General after his father took office as Chief Justice.[73] Hughes quickly emerged as a leader of the Court, earning the admiration of his fellow justices for his intelligence, energy, and strong understanding of the law.[74] Shortly after Hughes was confirmed, Hoover nominated federal judge John J. Parker to succeed deceased Associate Justice Edward Terry Sanford. The Senate rejected Parker, whose earlier rulings had alienated labor unions and the NAACP, but confirmed Hoover's second nominee, Owen Roberts.[75] In early 1932, the other justices asked Hughes to request the resignation of Oliver Wendell Holmes, whose health had declined as he entered his nineties. Hughes privately asked his old friend to retire, and Holmes immediately sent a letter of resignation to President Hoover. To replace Holmes, Hoover nominated Benjamin Cardozo, who quickly won confirmation.[76]
 
@@ -126,7 +118,7 @@ In the 1936 case of _United States v. Butler_, Hughes surprised many observers b
 
 Judicial Procedures Reform Bill of 1937
 
-Erich_Salomon_-_The_Supreme_Court,_1937.jpg in 1937, photographed by Erich Salomon.]]
+in 1937, photographed by Erich Salomon.]]
 
 Roosevelt won re-election in a landslide in the 1936 presidential election, and congressional Democrats grew their majorities in both houses of Congress.[97] As the Supreme Court had already struck down both the National Industrial Recovery Act and the Agricultural Adjustment Act, the president feared that the court would next strike down other key New Deal laws, including the National Labor Relations Act of 1935 (also known as the Wagner Act) and the Social Security Act.[98] In early 1937, Roosevelt proposed to increase the number of Supreme Court seats through the Judicial Procedures Reform Bill of 1937 (also known as the "court-packing plan"). Roosevelt argued that the bill was necessary because Supreme Court justices were unable to meet their case load. With large Democratic majorities in both houses of Congress, Roosevelt's bill had a strong chance of passage in early 1937.[99] However, the bill was poorly received by the public, as many saw the bill as power grab or as an attack on a sacrosanct institution.[100] Hughes worked behind the scenes to defeat the effort, rushing important New Deal legislation through the Supreme Court in an effort to quickly uphold the constitutionality of the laws.[101] He also sent a letter to Senator Burton K. Wheeler, asserting that the Supreme Court was fully capable of handling its case load. Hughes's letter had a powerful impact in discrediting Roosevelt's argument about the practical need for more Supreme Court justices.[102]
 

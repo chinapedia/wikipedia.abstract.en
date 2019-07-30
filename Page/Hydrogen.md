@@ -11,7 +11,7 @@ Properties
 
 Combustion
 
-19._Експлозија_на_смеса_од_водород_и_воздух.webm Shuttle_Main_Engine_Test_Firing_cropped_edited_and_reduced.jpg burnt hydrogen with oxygen, producing a nearly invisible flame at full thrust.|alt=A black cup-like object hanging by its bottom with blue glow coming out of its opening.]]
+burnt hydrogen with oxygen, producing a nearly invisible flame at full thrust.|alt=A black cup-like object hanging by its bottom with blue glow coming out of its opening.]]
 
 Hydrogen gas (DIHYDROGEN or molecular hydrogen, CHem Directory
 
@@ -40,7 +40,7 @@ H₂ reacts with every oxidizing element. Hydrogen can react spontaneously and v
 
 Electron energy levels
 
-hydrogen_atom.svg radius (image not to scale)|alt=Drawing of a light-gray large sphere with a cut off quarter and a black small sphere and numbers 1.7x10^(−5) illustrating their relative diameters.]]
+radius (image not to scale)|alt=Drawing of a light-gray large sphere with a cut off quarter and a black small sphere and numbers 1.7x10^(−5) illustrating their relative diameters.]]
 
 The ground state energy level of the electron in a hydrogen atom is −13.6 eV,[15] which is equivalent to an ultraviolet photon of roughly 91 nm wavelength.[16]
 
@@ -50,7 +50,7 @@ A more accurate description of the hydrogen atom comes from a purely quantum mec
 
 Elemental molecular forms
 
-Liquid_hydrogen_bubblechamber.jpg bubble chamber at the Bevatron|alt=Two bright circles on dark background, both contain numerous thin black lines inside.]] There exist two different spin isomers of hydrogen diatomic molecules that differ by the relative spin of their nuclei.[19] In the orthohydrogen form, the spins of the two protons are parallel and form a triplet state with a molecular spin quantum number of 1 (+); in the parahydrogen form the spins are antiparallel and form a singlet with a molecular spin quantum number of 0 (–). At standard temperature and pressure, hydrogen gas contains about 25% of the para form and 75% of the ortho form, also known as the "normal form".[20] The equilibrium ratio of orthohydrogen to parahydrogen depends on temperature, but because the ortho form is an excited state and has a higher energy than the para form, it is unstable and cannot be purified. At very low temperatures, the equilibrium state is composed almost exclusively of the para form. The liquid and gas phase thermal properties of pure parahydrogen differ significantly from those of the normal form because of differences in rotational heat capacities, as discussed more fully in _spin isomers of hydrogen_.[21] The ortho/para distinction also occurs in other hydrogen-containing molecules or functional groups, such as water and methylene, but is of little significance for their thermal properties.[22]
+bubble chamber at the Bevatron|alt=Two bright circles on dark background, both contain numerous thin black lines inside.]] There exist two different spin isomers of hydrogen diatomic molecules that differ by the relative spin of their nuclei.[19] In the orthohydrogen form, the spins of the two protons are parallel and form a triplet state with a molecular spin quantum number of 1 (+); in the parahydrogen form the spins are antiparallel and form a singlet with a molecular spin quantum number of 0 (–). At standard temperature and pressure, hydrogen gas contains about 25% of the para form and 75% of the ortho form, also known as the "normal form".[20] The equilibrium ratio of orthohydrogen to parahydrogen depends on temperature, but because the ortho form is an excited state and has a higher energy than the para form, it is unstable and cannot be purified. At very low temperatures, the equilibrium state is composed almost exclusively of the para form. The liquid and gas phase thermal properties of pure parahydrogen differ significantly from those of the normal form because of differences in rotational heat capacities, as discussed more fully in _spin isomers of hydrogen_.[21] The ortho/para distinction also occurs in other hydrogen-containing molecules or functional groups, such as water and methylene, but is of little significance for their thermal properties.[22]
 
 The uncatalyzed interconversion between para and ortho H₂ increases with increasing temperature; thus rapidly condensed H₂ contains large quantities of the high-energy ortho form that converts to the para form very slowly.[23] The ortho/para ratio in condensed H₂ is an important consideration in the preparation and storage of liquid hydrogen: the conversion from ortho to para is exothermic and produces enough heat to evaporate some of the hydrogen liquid, leading to loss of liquefied material. Catalysts for the ortho-para interconversion, such as ferric oxide, activated carbon, platinized asbestos, rare earth metals, uranium compounds, chromic oxide, or some nickel[24] compounds, are used during hydrogen cooling.[25]
 
@@ -96,7 +96,7 @@ Most interstellar hydrogen is in the form of atomic hydrogen because the atoms c
 
 Isotopes
 
-Hydrogen_discharge_tube.jpg Deuterium_discharge_tube.jpg Protium.svg of hydrogen, has one proton and one electron. Unique among all stable isotopes, it has no neutrons (see diproton for a discussion of why others do not exist).|alt=Schematic drawing of a positive atom in the center orbited by a negative particle.]]
+of hydrogen, has one proton and one electron. Unique among all stable isotopes, it has no neutrons (see diproton for a discussion of why others do not exist).|alt=Schematic drawing of a positive atom in the center orbited by a negative particle.]]
 
 Hydrogen has three naturally occurring isotopes, denoted , and . Other, highly unstable nuclei ( to ) have been synthesized in the laboratory but not observed in nature.[43][44]
 
@@ -113,7 +113,7 @@ History
 
 Discovery and use
 
-In 1671, Robert Boyle discovered and described the reaction between iron filings and dilute acids, which results in the production of hydrogen gas.[60][61] In 1766, Henry Cavendish was the first to recognize hydrogen gas as a discrete substance, by naming the gas from a metal-acid reaction "inflammable air". He speculated that "inflammable air" was in fact identical to the hypothetical substance called "phlogiston"[62][63] and further finding in 1781 that the gas produces water when burned. He is usually given credit for the discovery of hydrogen as an element.[64][65] In 1783, Antoine Lavoisier gave the element the name hydrogen (from the Greek ὑδρο- _hydro_ meaning "water" and -γενής _genes_ meaning "creator")[66] when he and Laplace reproduced Cavendish's finding that water is produced when hydrogen is burned.[67] Antoine-Laurent_Lavoisier_(by_Louis_Jean_Desire_Delaistre)RENEW.jpg Lavoisier produced hydrogen for his experiments on mass conservation by reacting a flux of steam with metallic iron through an incandescent iron tube heated in a fire. Anaerobic oxidation of iron by the protons of water at high temperature can be schematically represented by the set of following reactions:
+In 1671, Robert Boyle discovered and described the reaction between iron filings and dilute acids, which results in the production of hydrogen gas.[60][61] In 1766, Henry Cavendish was the first to recognize hydrogen gas as a discrete substance, by naming the gas from a metal-acid reaction "inflammable air". He speculated that "inflammable air" was in fact identical to the hypothetical substance called "phlogiston"[62][63] and further finding in 1781 that the gas produces water when burned. He is usually given credit for the discovery of hydrogen as an element.[64][65] In 1783, Antoine Lavoisier gave the element the name hydrogen (from the Greek ὑδρο- _hydro_ meaning "water" and -γενής _genes_ meaning "creator")[66] when he and Laplace reproduced Cavendish's finding that water is produced when hydrogen is burned.[67] Lavoisier produced hydrogen for his experiments on mass conservation by reacting a flux of steam with metallic iron through an incandescent iron tube heated in a fire. Anaerobic oxidation of iron by the protons of water at high temperature can be schematically represented by the set of following reactions:
 
        Fe +    H₂O → FeO + H₂
 
@@ -144,7 +144,7 @@ Antihydrogen () is the antimatter counterpart to hydrogen. It consists of an ant
 
 Cosmic prevalence and distribution
 
-Nursery_of_New_Stars_-_GPN-2000-000972.jpg, a giant region of ionized hydrogen in the Triangulum Galaxy|alt=A white-green cotton-like clog on black background.]] Hydrogen, as atomic H, is the most abundant chemical element in the universe, making up 75% of normal matter by mass and more than 90% by number of atoms. (Most of the mass of the universe, however, is not in the form of chemical-element type matter, but rather is postulated to occur as yet-undetected forms of mass such as dark matter and dark energy.[88]) This element is found in great abundance in stars and gas giant planets. Molecular clouds of H₂ are associated with star formation. Hydrogen plays a vital role in powering stars through the proton-proton reaction and the CNO cycle of nuclear fusion.[89]
+, a giant region of ionized hydrogen in the Triangulum Galaxy|alt=A white-green cotton-like clog on black background.]] Hydrogen, as atomic H, is the most abundant chemical element in the universe, making up 75% of normal matter by mass and more than 90% by number of atoms. (Most of the mass of the universe, however, is not in the form of chemical-element type matter, but rather is postulated to occur as yet-undetected forms of mass such as dark matter and dark energy.[88]) This element is found in great abundance in stars and gas giant planets. Molecular clouds of H₂ are associated with star formation. Hydrogen plays a vital role in powering stars through the proton-proton reaction and the CNO cycle of nuclear fusion.[89]
 
 States
 

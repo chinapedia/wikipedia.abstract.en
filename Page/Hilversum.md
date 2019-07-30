@@ -54,7 +54,7 @@ History
 
 Earthenware found in Hilversum gives its name to the Hilversum culture, which is an early- to mid-Bronze Age, or 800–1200 BC material culture. Artifacts from this prehistoric civilization bear similarities to the Wessex Culture of southern Britain and may indicate that the first Hilversum residents emigrated from that area.[4] The first brick settlements formed around 900, but it was not until 1305 that the first official mention of Hilversum ("Hilfersheem" from "Hilvertshem" meaning "houses between the hills") is found. At that point it was a part of Naarden, the oldest town in the Gooi area.
 
-Johannes_Bosboom_-_Interieur_van_een_boerendeel_bij_Hilversum.jpg]] Farming, raising sheep and some wool manufacturing were the means of life for the Gooi in the Middle Ages. In 1424 Hilversum received its first official independent status. This made possible further growth in the village because permission from Naarden was no longer needed for new industrial development.
+]] Farming, raising sheep and some wool manufacturing were the means of life for the Gooi in the Middle Ages. In 1424 Hilversum received its first official independent status. This made possible further growth in the village because permission from Naarden was no longer needed for new industrial development.
 
 The town grew further in the 17th century when the Dutch economy as a whole entered its age of prosperity, and several canals were built connecting it indirectly to Amsterdam.
 
@@ -87,7 +87,7 @@ The population declined from 103,000 in 1964 to 84,000 in 2006, but rose again t
 
 Culture
 
-Reproductie_uit_gedenkboek_"Het_werk_van_Dr.P.J._H.Cuypers"_1827-1917,_aquarel_van_K.P.C._de_Bazel_-_Hilversum_-_20113266_-_RCE.jpg, construction Karel de Bazel), in a watercolor by K.P.C. de Bazel]] The large Catholic neo-gothic St. Vitus church (P.J.H. Cuypers, 1892, bell tower 96 metres).
+, construction Karel de Bazel), in a watercolor by K.P.C. de Bazel]] The large Catholic neo-gothic St. Vitus church (P.J.H. Cuypers, 1892, bell tower 96 metres).
 
 The city played host to many landscape artists during the 19th century, including Barend Cornelis Koekkoek.
 
@@ -97,8 +97,6 @@ Once held a major European Tennis tournament in the 50s and 60s.
 
 
 Transport
-
-Burgemeester_Lambooy_opent_het_nieuwe_Noorderspoorwegviaduct-516807.ogv
 
 Railway
 
@@ -143,8 +141,6 @@ Regional bus lines
 
 Local government
 
-Hilversum-plaats-OpenTopo.jpg Hilversum_centrum_A.jpg
-
 The municipal council of Hilversum consists of 37 seats, which are divided as followed since the last local election of 2018:[9]
 
 -   Hart voor Hilversum - 8 seats
@@ -171,7 +167,7 @@ It was the first city with a "Leefbaar" party (which was intended as just a loca
 
 Notable residents
 
-Beeld-en-Geluid-Hay-Kranen-09.JPG Hilversum_Noordse_Bosje_A.jpg DJI00501.jpg Notable people born in Hilversum:
+Notable people born in Hilversum:
 
 -   Joop den Uyl (1919–1987), prime minister
 -   Henk Hermsen (1937), water polo player

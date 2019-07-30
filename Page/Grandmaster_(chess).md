@@ -13,7 +13,7 @@ The first known use of the term _grandmaster_ in connection with chess was in an
 
 Early tournament use
 
-Tarrasch_72.jpg (1862–1934)]] In the Ostend tournament of 1907 the term _grandmaster_ (_Großmeister_ in German) was used. The tournament was divided into two sections: the Championship Tournament and the Masters' Tournament. The Championship section was for players who had previously won an international tournament.[4] Siegbert Tarrasch won the Championship section, over Carl Schlechter, Dawid Janowski, Frank Marshall, Amos Burn, and Mikhail Chigorin. These players were described as grandmasters for the purposes of the tournament.
+(1862–1934)]] In the Ostend tournament of 1907 the term _grandmaster_ (_Großmeister_ in German) was used. The tournament was divided into two sections: the Championship Tournament and the Masters' Tournament. The Championship section was for players who had previously won an international tournament.[4] Siegbert Tarrasch won the Championship section, over Carl Schlechter, Dawid Janowski, Frank Marshall, Amos Burn, and Mikhail Chigorin. These players were described as grandmasters for the purposes of the tournament.
 
 The San Sebastián 1912 tournament won by Akiba Rubinstein was a designated grandmaster event.[5] Rubinstein won with 12½ points out of 19. Tied for second with 12 points were Aron Nimzowitsch and Rudolf Spielmann.[6]
 
@@ -27,7 +27,7 @@ In 1927, the Soviet Union's Chess Federation established the title of _Grandmast
 
 Official status (1950 onwards)
 
-Akiba-RubinsteinC.jpg (1880–1961)]] When FIDE reorganized after World War II it adopted regulations concerning international titles. Titles were awarded by a resolution of the FIDE General Assembly and the Qualification Committee, with no formal written criteria. FIDE first awarded the Grandmaster title in 1950 to 27 players. These players were:
+(1880–1961)]] When FIDE reorganized after World War II it adopted regulations concerning international titles. Titles were awarded by a resolution of the FIDE General Assembly and the Qualification Committee, with no formal written criteria. FIDE first awarded the Grandmaster title in 1950 to 27 players. These players were:
 
 -   The top players of the day: world champion Mikhail Botvinnik, and those who had qualified for (or been seeded into) the inaugural Candidates Tournament in 1950: Isaac Boleslavsky, Igor Bondarevsky, David Bronstein, Max Euwe, Reuben Fine, Salo Flohr, Paul Keres, Alexander Kotov, Andor Lilienthal, Miguel Najdorf, Samuel Reshevsky, Vasily Smyslov, Gideon Ståhlberg, and László Szabó.
 -   Players still living who, though past their best in 1950, were recognised as having been world class when at their peak: Ossip Bernstein, Oldřich Duras, Ernst Grünfeld, Boris Kostić, Grigory Levenfish, Géza Maróczy, Jacques Mieses, Viacheslav Ragozin, Akiba Rubinstein, Friedrich Sämisch, Savielly Tartakower, and Milan Vidmar.
@@ -36,7 +36,7 @@ Since FIDE did not award the Grandmaster title posthumously, world-class players
 
 1953 regulations
 
-Jacques_Mieses_(monochrome).jpg (1865–1954), one of the first FIDE Grandmasters]] Title awards under the original regulations were subject to political concerns. Efim Bogoljubov, who had emigrated from the Soviet Union to Germany, was not entered in the first class of Grandmasters, even though he had played two matches for the World Championship with Alekhine. He received the title in 1951, by a vote of thirteen to eight with five abstentions. Yugoslavia supported his application, but all other Communist countries opposed it. In 1953, FIDE abolished the old regulations, although a provision was maintained that allowed older masters who had been overlooked to be awarded titles. The new regulations awarded the title of International Grandmaster of the FIDE to players meeting any of the following criteria:[14]
+(1865–1954), one of the first FIDE Grandmasters]] Title awards under the original regulations were subject to political concerns. Efim Bogoljubov, who had emigrated from the Soviet Union to Germany, was not entered in the first class of Grandmasters, even though he had played two matches for the World Championship with Alekhine. He received the title in 1951, by a vote of thirteen to eight with five abstentions. Yugoslavia supported his application, but all other Communist countries opposed it. In 1953, FIDE abolished the old regulations, although a provision was maintained that allowed older masters who had been overlooked to be awarded titles. The new regulations awarded the title of International Grandmaster of the FIDE to players meeting any of the following criteria:[14]
 
 1.  The world champion.
 2.  Masters who have the absolute right to play in the World Championship Candidates Tournament, or any player who replaces an absent contestant and earns at least a 50 percent score.

@@ -1,4 +1,4 @@
-Dental_surgery_aboard_USS_Eisenhower,_January_1990.JPEG and dental assistant removing a wisdom tooth]]
+and dental assistant removing a wisdom tooth]]
 
 DENTISTRY, also known as DENTAL AND ORAL MEDICINE, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral cavity, commonly in the dentition but also the oral mucosa, and of adjacent and related structures and tissues, particularly in the maxillofacial (jaw and facial) area.[1] Although primarily associated with teeth among the general public, the field of dentistry or dental medicine is not limited to teeth but includes other aspects of the craniofacial complex including the temporomandibular joint and other supporting, muscular, lymphatic, nervous, vascular, and anatomical structures.
 
@@ -24,16 +24,14 @@ All dentists in the United States undergo at least three years of undergraduate 
 
 By nature of their general training they can carry out the majority of dental treatments such as restorative (fillings, crowns, bridges), prosthetic (dentures), endodontic (root canal) therapy, periodontal (gum) therapy, and extraction of teeth, as well as performing examinations, radiographs (x-rays), and diagnosis. Dentists can also prescribe medications such as antibiotics, sedatives, and any other drugs used in patient management.
 
-Enamel_celiac.jpg discoloration, acid reflux or other causes.[7][8][9] The National Institutes of Health include a dental exam in the diagnostic protocol of celiac disease.[10] ]]
+discoloration, acid reflux or other causes.[7][8][9] The National Institutes of Health include a dental exam in the diagnostic protocol of celiac disease.[10] ]]
 
 Dentists also encourage prevention of oral diseases through proper hygiene and regular, twice yearly, checkups for professional cleaning and evaluation. Oral infections and inflammations may affect overall health and conditions in the oral cavity may be indicative of systemic diseases, such as osteoporosis, diabetes, celiac disease or cancer.[11][12][13][14] Many studies have also shown that gum disease is associated with an increased risk of diabetes, heart disease, and preterm birth. The concept that oral health can affect systemic health and disease is referred to as "oral-systemic health".
 
 
 Education and licensing
 
-Cross_sections_of_teeth_labels.png
-
-Early_dental_chair,_Shamrock,_TX_IMG_6151.JPG in Shamrock, Texas]]
+in Shamrock, Texas]]
 
 Dr. John M. Harris started the world's first dental school in Bainbridge, Ohio, and helped to establish dentistry as a health profession. It opened on 21 February 1828, and today is a dental museum.[15] The first dental college, Baltimore College of Dental Surgery, opened in Baltimore, Maryland, US in 1840. The second in the United States was the Ohio College of Dental Surgery, established in Cincinnati, Ohio, in 1845.[16] The Philadelphia College of Dental Surgery followed in 1852.[17] In 1907, Temple University accepted a bid to incorporate the school.
 
@@ -70,7 +68,7 @@ Some dentists undertake further training after their initial degree in order to 
 
 History
 
-A_wealthy_patient_falling_over_because_of_having_a_tooth_ext_Wellcome_V0012058.jpg Johann_Liss_002a.jpg, ]] Tooth decay was low in pre-agricultural societies, but the advent of farming society about 10,000 years ago correlated with an increase in tooth decay (cavities).[31] An infected tooth from Italy partially cleaned with flint tools, between 13,820 and 14,160 years old, represents the oldest known dentistry,[32] although a 2017 study suggests that 130,000 years ago the Neanderthals already used rudimentary dentistry tools.[33] The Indus Valley Civilization (IVC) has yielded evidence of dentistry being practised as far back as 7000 BC.[34] An IVC site in Mehrgarh indicates that this form of dentistry involved curing tooth related disorders with bow drills operated, perhaps, by skilled bead crafters.[35] The reconstruction of this ancient form of dentistry showed that the methods used were reliable and effective.[36] The earliest dental filling, made of beeswax, was discovered in Slovenia and dates from 6500 years ago.[37] Dentistry was practiced in prehistoric Malta, as evidenced by a skull which had an abscess lanced from the root of a tooth dating back to around 2500 BC.[38]
+, ]] Tooth decay was low in pre-agricultural societies, but the advent of farming society about 10,000 years ago correlated with an increase in tooth decay (cavities).[31] An infected tooth from Italy partially cleaned with flint tools, between 13,820 and 14,160 years old, represents the oldest known dentistry,[32] although a 2017 study suggests that 130,000 years ago the Neanderthals already used rudimentary dentistry tools.[33] The Indus Valley Civilization (IVC) has yielded evidence of dentistry being practised as far back as 7000 BC.[34] An IVC site in Mehrgarh indicates that this form of dentistry involved curing tooth related disorders with bow drills operated, perhaps, by skilled bead crafters.[35] The reconstruction of this ancient form of dentistry showed that the methods used were reliable and effective.[36] The earliest dental filling, made of beeswax, was discovered in Slovenia and dates from 6500 years ago.[37] Dentistry was practiced in prehistoric Malta, as evidenced by a skull which had an abscess lanced from the root of a tooth dating back to around 2500 BC.[38]
 
 An ancient Sumerian text describes a "tooth worm" as the cause of dental caries.[39] Evidence of this belief has also been found in ancient India, Egypt, Japan, and China. The legend of the worm is also found in the writings of Homer, and as late as the 14th century AD the surgeon Guy de Chauliac still promoted the belief that worms cause tooth decay.[40]
 
@@ -82,7 +80,7 @@ During the Islamic Golden Age Dentistry was discussed in several famous books of
 
 Historically, dental extractions have been used to treat a variety of illnesses. During the Middle Ages and throughout the 19th century, dentistry was not a profession in itself, and often dental procedures were performed by barbers or general physicians. Barbers usually limited their practice to extracting teeth which alleviated pain and associated chronic tooth infection. Instruments used for dental extractions date back several centuries. In the 14th century, Guy de Chauliac most probably invented the dental pelican[54] (resembling a pelican's beak) which was used to perform dental extractions up until the late 18th century. The pelican was replaced by the dental key[55] which, in turn, was replaced by modern forceps in the 19th century.[56]
 
-Device-teeth-fauchard.jpg designed by Fauchard in the late 17th century to use in prosthodontics]]
+designed by Fauchard in the late 17th century to use in prosthodontics]]
 
 The first book focused solely on dentistry was the "Artzney Buchlein" in 1530,[57] and the first dental textbook written in English was called "Operator for the Teeth" by Charles Allen in 1685.[58]
 
@@ -90,17 +88,11 @@ In the United Kingdom there was no formal qualification for the providers of den
 
 Modern dentistry
 
-Microscope,The_Dental_cosmos_(1907).jpg
-
 It was between 1650 and 1800 that the science of modern dentistry developed. The English physician Thomas Browne in his _A Letter to a Friend_ ( pub. 1690) made an early dental observation with characteristic humour:
 
 The French surgeon Pierre Fauchard became known as the "father of modern dentistry". Despite the limitations of the primitive surgical instruments during the late 17th and early 18th century, Fauchard was a highly skilled surgeon who made remarkable improvisations of dental instruments, often adapting tools from watchmakers, jewelers and even barbers, that he thought could be used in dentistry. He introduced dental fillings as treatment for dental cavities. He asserted that sugar derivate acids like tartaric acid were responsible for dental decay, and also suggested that tumors surrounding the teeth and in the gums could appear in the later stages of tooth decay.[60][61]
 
-Panoramic_radiograph_of_historic_dental_implants.jpg
-
 Fauchard was the pioneer of dental prosthesis, and he discovered many methods to replace lost teeth. He suggested that substitutes could be made from carved blocks of ivory or bone. He also introduced dental braces, although they were initially made of gold, he discovered that the teeth position could be corrected as the teeth would follow the pattern of the wires. Waxed linen or silk threads were usually employed to fasten the braces. His contributions to the world of dental science consist primarily of his 1728 publication Le chirurgien dentiste or The Surgeon Dentist. The French text included "basic oral anatomy and function, dental construction, and various operative and restorative techniques, and effectively separated dentistry from the wider category of surgery".[62][63]
-
-Dental_office.jpg
 
 After Fauchard, the study of dentistry rapidly expanded. Two important books, _Natural History of Human Teeth_ (1771) and _Practical Treatise on the Diseases of the Teeth_ (1778), were published by British surgeon John Hunter. In 1763 he entered into a period of collaboration with the London-based dentist James Spence. He began to theorise about the possibility of tooth transplants from one person to another. He realised that the chances of an (initially, at least) successful tooth transplant would be improved if the donor tooth was as fresh as possible and was matched for size with the recipient. These principles are still used in the transplantation of internal organs. Hunter conducted a series of pioneering operations, in which he attempted a tooth transplant. Although the donated teeth never properly bonded with the recipients' gums, one of Hunter's patients stated that he had three which lasted for six years, a remarkable achievement for the period.[64]
 

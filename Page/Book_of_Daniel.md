@@ -7,8 +7,6 @@ The book's influence has resonated through later ages, from the Dead Sea Scrolls
 
 Structure
 
-Songe_Nabuchodonosor_statue.jpg
-
 Divisions
 
 The Book of Daniel is divided between the court tales of chapters 1–6 and the apocalyptic visions of 7–12, and between the Hebrew of chapters 1 and 8–12 and the Aramaic of chapters 2–7. The division is reinforced by the chiastic arrangement of the Aramaic chapters (see below), and by a chronological progression in chapters 1–6 from Babylonian to Median times, and from Babylonian to Persian in chapters 7–12. Various suggestions have been made by scholars to explain the fact that the genre division does not coincide with the other two, but it appears that the language division and concentric structure of chapters 2–6 are artificial literary devices designed to bind the two halves of the book together. The following outline is provided by Collins in his commentary on Daniel:
@@ -65,7 +63,7 @@ Belshazzar and his nobles blasphemously drink from sacred Jewish temple vessels,
 
 Daniel in the lions' den (chapter 6)
 
-Daniellion.jpg (1892)]]
+(1892)]]
 
 Darius elevates Daniel to high office, exciting the jealousy of other officials. Knowing of Daniel's devotion to his God, his enemies trick the king into issuing an edict forbidding worship of any other god or man for a 30-day period. Daniel continues to pray three times a day to God towards Jerusalem; he is accused and King Darius, forced by his own decree, throws Daniel into the lions' den. But God shuts up the mouths of the lions, and the next morning Darius rejoices to find him unharmed. The king casts Daniel's accusers into the lions' pit together with their wives and children to be instantly devoured, while he himself acknowledges Daniel's God as he whose kingdom shall never be destroyed.
 
@@ -91,7 +89,7 @@ Daniel 12: At this time Michael will come. It will be a time of great distress, 
 
 Additions to Daniel (Greek text tradition)
 
-Guido_Reni_-_Susanna_and_the_Elders_-_WGA19296.jpg (1820–1825)]]
+(1820–1825)]]
 
 The Greek text of Daniel is considerably longer than the Hebrew, due to three additional stories: they remain in Catholic and Orthodox Bibles but were rejected by the Protestant movement in the 16th century on the basis that they were absent from Jewish Bibles.
 
@@ -102,8 +100,6 @@ The Greek text of Daniel is considerably longer than the Hebrew, due to three ad
 
 Historical background
 
-Daniel_refuse_kingsfood.jpg
-
 The visions of chapters 7–12 reflect the crisis which took place in Judea in 167–164 BC when Antiochus IV Epiphanes, the Greek king of the Seleucid Empire, threatened to destroy traditional Jewish worship in Jerusalem. When Antiochus came to the throne in 175 BC the Jews were largely pro-Seleucid. The High Priestly family was split by rivalry, and one member, Jason, offered the king a large sum to be made High Priest. Jason also asked—or more accurately, paid—to be allowed to make Jerusalem a _polis_, or Greek city. This meant, among other things, that city government would be in the hands of the citizens, which meant in turn that citizenship would be a valuable commodity, to be purchased from Jason. None of this threatened the Jewish religion, and the reforms were widely welcomed, especially among the Jerusalem aristocracy and the leading priests. Three years later Jason was deposed when another priest, Menelaus, offered Antiochus an even larger sum for the post of High Priest.
 
 Antiochus invaded Egypt twice, in 169 BC with success, but on the second incursion, in late 168 BC, he was forced to withdraw by the Romans. Jason, hearing a rumour that Antiochus was dead, attacked Menelaus to take back the High Priesthood. Antiochus drove Jason out of Jerusalem, plundered the Temple, and introduced measures to pacify his Egyptian border by imposing complete Hellenisation: the Jewish Book of the Law was prohibited and on 15 December 167 BC an "abomination of desolation", probably a Greek altar, was introduced into the Temple. With the Jewish religion now clearly under threat a resistance movement sprang up, led by the Maccabee brothers, and over the next three years it won sufficient victories over Antiochus to take back and purify the Temple.
@@ -112,8 +108,6 @@ The crisis which the author of Daniel addresses is the defilement of the altar i
 
 
 Composition
-
-Songe_Nabuchodonosor_arbre.jpg
 
 Development
 
@@ -143,7 +137,7 @@ Eight copies of the Book of Daniel, all incomplete, have been found at Qumran, t
 
 Genre, meaning, symbolism and chronology
 
-Daniel_dans_la_fosse_aux_lions.jpg (France, 15th century).]]
+(France, 15th century).]]
 
 _(This section deals with modern scholarly reconstructions of the meaning of Daniel to its original authors and audience)_
 
@@ -165,7 +159,7 @@ The message of the Book of Daniel is that, just as the God of Israel saved Danie
 
 Influence
 
-Merian's_Daniel_7_engraving.jpg, 1630.]]
+, 1630.]]
 
 Religion
 

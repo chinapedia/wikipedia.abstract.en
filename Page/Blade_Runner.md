@@ -66,7 +66,7 @@ Edward James Olmos portrays Gaff. Olmos drew on diverse ethnic sources to help c
 
 Development
 
-The_Bradbury_Building_from_the_inside.jpg in Los Angeles was a filming location.]]
+in Los Angeles was a filming location.]]
 
 Interest in adapting Philip K. Dick's novel _Do Androids Dream of Electric Sheep?_ developed shortly after its 1968 publication. Director Martin Scorsese was interested in filming the novel, but never optioned it.[44] Producer Herb Jaffe optioned it in the early 1970s, but Dick was unimpressed with the screenplay written by Herb's son Robert: "Jaffe's screenplay was so terribly done ... Robert flew down to Santa Ana to speak with me about the project. And the first thing I said to him when he got off the plane was, 'Shall I beat you up here at the airport, or shall I beat you up back at my apartment?{{' "}}[45]
 
@@ -203,7 +203,7 @@ Legacy
 
 Cultural impact
 
-Blade_Runner_spinner_flyby.pngSpinner3.jpg in 2006]] While not initially a success with North American audiences, _Blade Runner_ was popular internationally and garnered a cult following.[133] The film's dark style and futuristic designs have served as a benchmark and its influence can be seen in many subsequent science fiction films, video games, anime, and television programs.[134] For example, Ronald D. Moore and David Eick, the producers of the re-imagining of _Battlestar Galactica_, have both cited _Blade Runner_ as one of the major influences for the show.[135]
+in 2006]] While not initially a success with North American audiences, _Blade Runner_ was popular internationally and garnered a cult following.[133] The film's dark style and futuristic designs have served as a benchmark and its influence can be seen in many subsequent science fiction films, video games, anime, and television programs.[134] For example, Ronald D. Moore and David Eick, the producers of the re-imagining of _Battlestar Galactica_, have both cited _Blade Runner_ as one of the major influences for the show.[135]
 
 The film was selected for preservation in the United States National Film Registry in 1993 and is frequently taught in university courses.[136] In 2007, it was named the second-most visually influential film of all time by the Visual Effects Society.[137] The film has also been the subject of parody, such as the comics _Blade Bummer_ by _Crazy_ comics,[138] _Bad Rubber_ by Steve Gallacci,[139] and the _Red Dwarf_ 2009 three-part miniseries "Back to Earth".[140][141] The anime series _Psycho-Pass_ by Production I.G was also highly influenced by the movie.[142]
 
@@ -274,8 +274,6 @@ _All Our Variant Futures: From Workprint to Final Cut_ (2007, 29 minutes)
     Produced by Paul Prischman, appears on the _Blade Runner_ Ultimate Collector's Edition and provides an overview of the film's multiple versions and their origins, as well as detailing the seven-year-long restoration, enhancement and remastering process behind _The Final Cut_.[216]
 
 Sequel and related media
-
-Prometheus-2012-easter-egg.jpeg
 
 A direct sequel was released in 2017, titled _Blade Runner 2049_, with Ryan Gosling in the starring role.[217][218] It entered production in mid-2016 and is set decades after the first film.[219] It saw Harrison Ford reprise his role as Rick Deckard.
 

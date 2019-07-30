@@ -20,8 +20,6 @@ The use of moorstone continued up to recent times with the extensive building of
 
 In August 1881, a public meeting was convened by the Portreeve of Tavistock in the Guildhall to discuss the continued taking of stone, particularly from landmark tors.[19] The DPA was founded in 1883. The protected area around Pew Tor was extended in December 1896. In 1901, the DPA commissioned a report into damage to ancient monuments, caused by the taking of stone for building and road-mending, and into unlawful enclosures of common land.[20]
 
-Frontispiece_of_DPA_1890_book.JPG
-
 Commoners’ rights
 
 The first publication of the DPA, in 1890, was a short history of commoners’ rights on Dartmoor and the commons of Devon.[21] This notes a decrease in the numbers of animals even in medieval times: in 1296 – 5,000 cattle, 487 horses, 131 folds of sheep; in 1316 – 3,292 cattle, 368 horses, 100 folds of sheep.[22] _An important battle occurred in 1894 when the Corporation of London attempted to buy the whole of Dartmoor in order to pipe its water to Paddington alongside Brunel’s recently converted railway, when it went from broad gauge to standard gauge. The DPA led the revolt against this_.[23] In 1897, the DPA went to court to fight successfully the enclosure of a section of Peter Tavy Great Common, in support of a farmer.[24] Commoners rights seem to have been a settled issue in recent years: except for where they are impinged upon by the military presence.
@@ -49,8 +47,6 @@ The National Parks and Access to the Countryside Act 1949 led to Dartmoor being 
 North Hessary Tor TV mast
 
 The DPA learned in October 1951 that the BBC planned to build a 750-foot television mast on North Hessary Tor, near Princetown, that was erected in 1955. This was to be a relay from a transmitting station at Wenvoe, South Wales. The DPA objected to this threat and sought expert opinion, offered alternative solutions, pressed for a public enquiry, engaged a lawyer, held public meetings, distributed pamphlets, wrote to the press and petitioned parliament.[52] Eventually, a public enquiry was announced.[53] When the decision was made to permit the mast, there were a number of conditions, included among them was that the development was built near the tor, leaving it still intact, and that its new approach road should not be fenced. During the process of obtaining land for the transmitter, one MP asked in the House of Commons: "Will the Assistant Postmaster-General bear in mind that we have no desire to hinder the provision of this station but that it is felt that ancient common rights such as these, that have existed for a thousand years, should be adequately protected or properly extinguished by due process of law?"[54]
-
-DPA_boundary_stone_at_Sharpitor.JPG
 
 Sharpitor
 
@@ -87,23 +83,21 @@ Undergrounding power cables
 
 Two major projects to underground overhead power cables in Dartmoor National Park have been completed in a joint project between Western Power Distribution, the South West Protected Landscapes Forum (SWPLF) and Dartmoor National Park Authority. The two schemes on Holne Moor and Walkhampton Common between them remove nearly 6 km of overhead line from open moorland. At nearly 5 km, the Walkhampton scheme is the largest to be undertaken in the South West region by Western Power Distribution. The old overhead line was readily visible from the B3212 Princetown to Yelverton Road, strung across Walkhampton Common from Devil's Elbow to just above Horseyeatt at Peek Hill. The works to provide the new underground supply were mainly undertaken on the highway to minimise the impact on the sensitive moorland landscape, its archaeology, wildlife and livestock. The DPA has supported the undergrounding of these visually intrusive power lines for many years.[81]
 
-  ----------------------- ----------------------- ----------------------
-  DPA_pylons_BEFORE.jpg   DPA_pylons_DURING.jpg   DPA_pylons_AFTER.jpg
-  ----------------------- ----------------------- ----------------------
+  -- -- --
+
+  -- -- --
 
 The Dartmoor Conservation Garden
 
 The Dartmoor Conservation Garden is a joint project between DPA and Dartmoor National Park Authority (DNPA) and is located in the Jack Wigmore Garden behind the High Moorland Centre in Princetown:[82] this is a memorial garden to a former Chair of the Authority. It is planted with a cross-section of typical native Dartmoor plants. It also houses some typical Dartmoor archaeological features, such as a 4,000-year-old Bronze Age burial kistvaen (or cist) and a Medieval granite cross from Ter Hill. This marked the Monk's Path but was constantly being pushed over by cattle. The purpose of the Garden is to illustrate the biodiversity on Dartmoor. The project came online in June 2015.[83]
 
-  ---------------------------------------------- -------------------------------------------------------- --------------------------------------------------
-  Cutting_bracken_in_Drake's_Plymouth_Leat.JPG   DPA_stand_at_Chagford_Fair,_with_2nd_place_Rosette.jpg   January_2015_cutting_scrub_on_Devonport_Leat.JPG
-  ---------------------------------------------- -------------------------------------------------------- --------------------------------------------------
+  -- -- --
+
+  -- -- --
 
 Widecombe telecommunications mast
 
 The DPA were involved in a campaign in June 2015 against four telecommunications masts planned for Dartmoor, with the first to be erected in the village of Widecombe. At short notice, the DPA banners were taken out, letters written, press interviews given and support given to the villagers when an inflatable mast was demonstrated – with the effect that the planning application was withdrawn.[84]
-
-Friends_of_Dartmoor_Car_Sticker.jpg
 
 Friends of Dartmoor
 
@@ -121,9 +115,9 @@ Logo
 
 The DPA logo incorporates a representation of a Dartmoor rock feature known as Bowerman's Nose. The logo that includes a representation of Nun's Cross appeared on the DPA Dartmoor Newsletter No. 48, October 1966, with a comment that designs based on the initial letters DPA had been exhausted. The simpler logo appeared in November 1969, when Newsletter 52 carried the logo with "DPA" on it. This was replaced in 2004 with the multicoloured logo.[94]
 
-  ------------------------------- --------------- --
-  1966_logo_with_Nuns_Cross.jpg   1969_logo.jpg
-  ------------------------------- --------------- --
+  -- -- --
+
+  -- -- --
 
 
 References

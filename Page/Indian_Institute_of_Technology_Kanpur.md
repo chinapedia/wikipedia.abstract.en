@@ -5,7 +5,7 @@ Established in 1960 as one of the first Indian Institutes of Technology, the ins
 
 History
 
-A_building_at_IIT_Kanpur.jpg IIT Kanpur was established by an Act of Parliament in 1959. The institute was started in December 1959 in a room in the canteen building of the Harcourt Butler Technological Institute at Agricultural Gardens in Kanpur. In 1963, the institute moved to its present location, on the Grand Trunk Road near the locality of Kalyanpur in Kanpur district.[3] The campus was designed by Achyut Kavinde in a modernist style.
+IIT Kanpur was established by an Act of Parliament in 1959. The institute was started in December 1959 in a room in the canteen building of the Harcourt Butler Technological Institute at Agricultural Gardens in Kanpur. In 1963, the institute moved to its present location, on the Grand Trunk Road near the locality of Kalyanpur in Kanpur district.[3] The campus was designed by Achyut Kavinde in a modernist style.
 
 During the first ten years of its existence, a consortium of nine US universities (namely MIT, UCB, California Institute of Technology, Princeton University, Carnegie Institute of Technology, University of Michigan, Ohio State University, Case Institute of Technology and Purdue University) helped set up IIT Kanpur's research laboratories and academic programmes under the Kanpur Indo-American Programme (KIAP).[4] The first Director of the Institute was P. K. Kelkar (after whom the Central Library was renamed in 2002).[5]
 
@@ -18,7 +18,7 @@ The institute's annual technical festival, Techkriti, was first started in 1995.
 
 Campus
 
-IIT Kanpur is located on the Grand Trunk Road, west of Kanpur City and measures close to . This land was donated by the Government of Uttar Pradesh in 1960 and by March 1963 the Institute had moved to its current location. IITKLibrary.jpg The institute has around 6478 students with 3938 undergraduate students and 2540 postgraduate students and about 500 research associates.
+IIT Kanpur is located on the Grand Trunk Road, west of Kanpur City and measures close to . This land was donated by the Government of Uttar Pradesh in 1960 and by March 1963 the Institute had moved to its current location. The institute has around 6478 students with 3938 undergraduate students and 2540 postgraduate students and about 500 research associates.
 
 Noida Extension centre
 
@@ -81,7 +81,7 @@ The Department of Industrial and Management Engineering was ranked 17 among mana
 
 Academic bodies and activities
 
-IIT_Kanpur_Faculty_Building.JPG IIT Kanpur offers various courses on management and social sciences.
+IIT Kanpur offers various courses on management and social sciences.
 
 Undergraduate
 
@@ -124,13 +124,11 @@ The academic departments at IIT Kanpur are:
 
 Laboratories and other facilities
 
-Department_of_Computer_Science_and_Engineering_IIT_Kanpur.jpg Samtel_Research_and_Development_Building,_at_IIT_Kanpur.jpg The campus is spread over an area of . Facilities include the National Wind Tunnel Facility. Other large research centres include the Advanced Centre for Material Science, a Bio-technology centre, the Advanced Centre for Electronic Systems, and the Samtel Centre for Display Technology, Centre for Mechatronics, Centre for Laser Technology, Prabhu Goel Research Centre for Computer and Internet Security, Facility for Ecological and Analytical Testing. The departments have their own libraries.
+The campus is spread over an area of . Facilities include the National Wind Tunnel Facility. Other large research centres include the Advanced Centre for Material Science, a Bio-technology centre, the Advanced Centre for Electronic Systems, and the Samtel Centre for Display Technology, Centre for Mechatronics, Centre for Laser Technology, Prabhu Goel Research Centre for Computer and Internet Security, Facility for Ecological and Analytical Testing. The departments have their own libraries.
 
 The institute has its own airfield, for flight testing and gliding.
 
 PK Kelkar Library (formerly Central Library) is an academic library of the institute with a collection of more than 300,000 volumes, and subscriptions to more than 1,000 periodicals. The library was renamed to its present name in 2003 after Dr. P K Kelkar, the first director of the institute. It is housed in a three-story building, with a total floor area of 6973 square metres. The Abstracting and Indexing periodicals, Microform and CD-ROM databases, technical reports, Standards and thesis are in the library. Each year, about 4,500 books and journal volumes are added to the library.
-
-Western_Labs_IIT_Kanpur.JPG
 
 The New Core Labs (NCL) is 3 storey building with state of the art physics and chemistry laboratories for courses in the first year. The New Core Labs also has Linux and Windows computer labs for the use of first year courses and a Mathematics department laboratory housing machines with high computing power.
 

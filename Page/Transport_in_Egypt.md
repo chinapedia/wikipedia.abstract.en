@@ -7,7 +7,7 @@ With regards to driving, Egypt has one of the highest incidents of road fataliti
 
 Road system
 
-Qesm_Marsa_Alam,_Red_Sea_Governorate,_Egypt_-_panoramio_(6).jpg.]] Two routes in the Trans-African Highway network originate in Cairo. Egypt also has multiple highway links with Asia through the Arab Mashreq International Road Network. Egypt has a developing motorway network, connecting Cairo with Alexandria and other cities. Though most of the transport in the country is still done on the national highways, motorways are becoming increasingly an option in road transport within the country. The existing motorways in the country are:
+.]] Two routes in the Trans-African Highway network originate in Cairo. Egypt also has multiple highway links with Asia through the Arab Mashreq International Road Network. Egypt has a developing motorway network, connecting Cairo with Alexandria and other cities. Though most of the transport in the country is still done on the national highways, motorways are becoming increasingly an option in road transport within the country. The existing motorways in the country are:
 
 -   Cairo - Alexandria Desert Road: It runs between Cairo and Alexandria, with an extension of 215 km, it is the main motorway in Egypt.
 -   International Coastal Road: It runs from Alexandria to Port Said, along the Northern Nile Delta. It has a length of 280 km. Also, amongst other cities, it connects Damietta and Baltim.
@@ -20,14 +20,12 @@ Plus, Egypt has developed an extensive system of 4-lane highways that can be cla
 
 Railways
 
-Railways_in_Egypt.svg)}}
+)}}
 ]] The Egyptian railway system is the oldest railway network in Africa and the Middle East. The first line between Alexandria and Kafer Eassa was opened in 1854. In 2018, the system is about 5,085 km long[4] and is operated by the Egyptian National Railways. ENR carries about 800 million passengers and 12 million tonnes of freight annually.
 
 A major investment programme was planned to begin in 2007 with the aim of modernizing the rail network and improving safety standards.[5] Trains are usually a safe means of transportation in Egypt.[6]
 
 The city of Cairo is served by the Cairo Metro, which is run by the National Authority for Tunnels. In addition to the city of Alexandria that is served by the Alexandria Tram
-
-The_Railway_System_of_Egypt.jpg
 
 
 Waterways

@@ -16,11 +16,11 @@ The word "animation" stems from the Latin "animationem" (nominative "animatio"),
 
 History
 
-Phenakistoscope_3g07690u.jpg disc by Eadweard Muybridge (1893)]] The history of animation started long before the development of cinematography. Humans have probably attempted to depict motion as far back as the Paleolithic period. Shadow play and the magic lantern offered popular shows with moving images as the result of manipulation by hand and/or some minor mechanics.
+disc by Eadweard Muybridge (1893)]] The history of animation started long before the development of cinematography. Humans have probably attempted to depict motion as far back as the Paleolithic period. Shadow play and the magic lantern offered popular shows with moving images as the result of manipulation by hand and/or some minor mechanics.
 
 A 5,200-year old pottery bowl discovered in Shahr-e Sukhteh, Iran, has five sequential images painted around it that seem to show phases of a goat leaping up to nip at a tree.[3][4] In 1833, the phenakistiscope introduced the stroboscopic principle of modern animation, which would also provide the basis for the zoetrope (1866), the flip book (1868), the praxinoscope (1877) and cinematography.
 
-Lanature1882_praxinoscope_projection_reynaud.png, 1882, here shown superimposing an animated figure on a separately projected background scene]] Charles-Émile Reynaud further developed his projection praxinoscope into the Théâtre Optique with transparent hand-painted colorful pictures in a long perforated strip wound between two spools, patented in December 1888. From 28 October 1892 to March 1900 Reynaud gave over 12,800 shows to a total of over 500.000 visitors at the Musée Grévin in Paris. His _Pantomimes Lumineuses_ series of animated films each contained 300 to 700 frames that were manipulated back and forth to last 10 to 15 minutes per film. Piano music, song, and some dialogue were performed live, while some sound effects were synchronized with an electromagnet.
+, 1882, here shown superimposing an animated figure on a separately projected background scene]] Charles-Émile Reynaud further developed his projection praxinoscope into the Théâtre Optique with transparent hand-painted colorful pictures in a long perforated strip wound between two spools, patented in December 1888. From 28 October 1892 to March 1900 Reynaud gave over 12,800 shows to a total of over 500.000 visitors at the Musée Grévin in Paris. His _Pantomimes Lumineuses_ series of animated films each contained 300 to 700 frames that were manipulated back and forth to last 10 to 15 minutes per film. Piano music, song, and some dialogue were performed live, while some sound effects were synchronized with an electromagnet.
 
 After cinematography became a popular medium, some manufacturers of optical toys adapted small magic lanterns into toy film projectors for short loops of film. By 1902, they were producing many chromolithography film loops, usually by tracing live-action film footage (much like the later rotoscoping technique).
 
@@ -28,17 +28,17 @@ Some early filmmakers, including J. Stuart Blackton, Arthur Melbourne-Cooper, Se
 
 J. Stuart Blackton also experimented with animation drawn on blackboards and some cutout animation in _Humorous Phases of Funny Faces_ (1906).
 
-Fantasmagorie_(Cohl).GIF—the 1908 _Fantasmagorie_ by Émile Cohl]] In 1908, Émile Cohl's _Fantasmagorie_ was released with a white-on-black chalkline look created with negative prints from black ink drawings on white paper. The film largely consists of a stick figure moving about and encountering all kinds of morphing objects, including a wine bottle that transforms into a flower.[5]
+—the 1908 _Fantasmagorie_ by Émile Cohl]] In 1908, Émile Cohl's _Fantasmagorie_ was released with a white-on-black chalkline look created with negative prints from black ink drawings on white paper. The film largely consists of a stick figure moving about and encountering all kinds of morphing objects, including a wine bottle that transforms into a flower.[5]
 
 Inspired by Émile Cohl's stop-motion film _Les allumettes animées [Animated Matches]_ (1908), Ladislas Starevich started making his influential puppet animations in 1910.
 
 Winsor McCay's _Little Nemo_ (1911) showcased very detailed drawings. His _Gertie the Dinosaur_ (1914) was also an early example of character development in drawn animation.
 
-Charlie_in_Turkey_Pat_Sullivan_Keen_Cartoon_Corporation_1916_685703_FLM11263.ogv for Keen Cartoon Corporation.]]
+for Keen Cartoon Corporation.]]
 
 During the 1910s, the production of animated short films typically referred to as "cartoons", became an industry and cartoon shorts were produced for showing in cinemas. The most successful producer at the time was John Randolph Bray, who, along with animator Earl Hurd, patented the cel animation process that dominated the animation industry for the rest of the decade.
 
-Quirino_Cristiani_con_una_figura.jpg showing the cut and articulated figure of his satirical character _El Peludo_ (based on President Yrigoyen) patented in 1916 for the realization of his films, including the world's first animated feature film _El Apóstol_.]]
+showing the cut and articulated figure of his satirical character _El Peludo_ (based on President Yrigoyen) patented in 1916 for the realization of his films, including the world's first animated feature film _El Apóstol_.]]
 
 _El Apóstol_ (Spanish: "The Apostle") was a 1917 Argentine animated film utilizing cutout animation, and the world's first animated feature film. A fire that destroyed producer Federico Valle's film studio incinerated the only known copy of _El Apóstol_, and it is now considered a lost film.
 
@@ -63,13 +63,13 @@ Techniques
 
 Traditional animation
 
-Animhorse.gif from Eadweard Muybridge's 19th-century photos]]
+from Eadweard Muybridge's 19th-century photos]]
 
 TRADITIONAL ANIMATION (also called cel animation or hand-drawn animation) was the process used for most animated films of the 20th century. The individual frames of a traditionally animated film are photographs of drawings, first drawn on paper. To create the illusion of movement, each drawing differs slightly from the one before it. The animators' drawings are traced or photocopied onto transparent acetate sheets called cels, which are filled in with paints in assigned colors or tones on the side opposite the line drawings. The completed character cels are photographed one-by-one against a painted background by a rostrum camera onto motion picture film.
 
 The traditional cel animation process became obsolete by the beginning of the 21st century. Today, animators' drawings and the backgrounds are either scanned into or drawn directly into a computer system. Various software programs are used to color the drawings and simulate camera movement and effects. The final animated piece is output to one of several delivery media, including traditional 35 mm film and newer media with digital video. The "look" of traditional cel animation is still preserved, and the character animators' work has remained essentially the same over the past 70 years. Some animation producers have used the term "tradigital" (a play on the words "traditional" and "digital") to describe cel animation that uses significant computer technology.
 
-Examples of traditionally animated feature films include _Pinocchio_ (United States, 1940), _Animal Farm_ (United Kingdom, 1954), _Lucky and Zorba_ (Italy, 1998), and _The Illusionist_ (British-French, 2010). Traditionally animated films produced with the aid of computer technology include _The Lion King_ (US, 1994), _The Prince of Egypt_ (US, 1998), _Akira_ (Japan, 1988), _Spirited Away_ (Japan, 2001), _The Triplets of Belleville_ (France, 2003), and _The Secret of Kells_ (Irish-French-Belgian, 2009). Betty_Boop_in_traditional_black_and_white_ink.png
+Examples of traditionally animated feature films include _Pinocchio_ (United States, 1940), _Animal Farm_ (United Kingdom, 1954), _Lucky and Zorba_ (Italy, 1998), and _The Illusionist_ (British-French, 2010). Traditionally animated films produced with the aid of computer technology include _The Lion King_ (US, 1994), _The Prince of Egypt_ (US, 1998), _Akira_ (Japan, 1988), _Spirited Away_ (Japan, 2001), _The Triplets of Belleville_ (France, 2003), and _The Secret of Kells_ (Irish-French-Belgian, 2009).
 
 Full animation
 
@@ -94,7 +94,7 @@ STOP-MOTION ANIMATION is used to describe animation created by physically manipu
 -   PUPPET ANIMATION typically involves stop-motion puppet figures interacting in a constructed environment, in contrast to real-world interaction in model animation. The puppets generally have an armature inside of them to keep them still and steady to constrain their motion to particular joints. Examples include _The Tale of the Fox_ (France, 1937), _The Nightmare Before Christmas_ (US, 1993), _Corpse Bride_ (US, 2005), _Coraline_ (US, 2009), the films of Jiří Trnka and the adult animated sketch-comedy television series _Robot Chicken_ (US, 2005–present).
     -   PUPPETOON, created using techniques developed by George Pal, are puppet-animated films that typically use a different version of a puppet for different frames, rather than simply manipulating one existing puppet.
 
-Claychick.jpg television commercial]]
+television commercial]]
 
 -   CLAY ANIMATION, or Plasticine animation (often called _claymation_, which, however, is a trademarked name), uses figures made of clay or a similar malleable material to create stop-motion animation. The figures may have an armature or wire frame inside, similar to the related puppet animation (below), that can be manipulated to pose the figures. Alternatively, the figures may be made entirely of clay, in the films of Bruce Bickford, where clay creatures morph into a variety of different shapes. Examples of clay-animated works include _The Gumby Show_ (US, 1957–1967), _Mio Mao_ (Italy, 1974–2005), _Morph_ shorts (UK, 1977–2000), _Wallace and Gromit_ shorts (UK, as of 1989), Jan Švankmajer's _Dimensions of Dialogue_ (Czechoslovakia, 1982), _The Trap Door_ (UK, 1984). Films include _Wallace & Gromit: The Curse of the Were-Rabbit_, _Chicken Run_ and _The Adventures of Mark Twain_.
     -   STRATA-CUT ANIMATION, Strata-cut animation is most commonly a form of clay animation in which a long bread-like "loaf" of clay, internally packed tight and loaded with varying imagery, is sliced into thin sheets, with the animation camera taking a frame of the end of the loaf for each cut, eventually revealing the movement of the internal images within.
@@ -112,8 +112,6 @@ Computer animation
 COMPUTER ANIMATION encompasses a variety of techniques, the unifying factor being that the animation is created digitally on a computer. 2D animation techniques tend to focus on image manipulation while 3D techniques usually build virtual worlds in which characters and objects move and interact. 3D animation can create images that seem real to the viewer.
 
 2D animation
-
-Catenary_animation.gif
 
 2D animation figures are created or edited on the computer using 2D bitmap graphics and 2D vector graphics. This includes automated computerized versions of traditional animation techniques, interpolated morphing, onion skinning and interpolated rotoscoping.
 
@@ -145,7 +143,7 @@ Mechanical animation
 
 Other animation styles, techniques, and approaches
 
-World_of_Color_overview.jpg'' hydrotechnics at Disney California Adventure creates illusion of motion using 1200 fountains with high-definition projections on mist screens.]]
+'' hydrotechnics at Disney California Adventure creates illusion of motion using 1200 fountains with high-definition projections on mist screens.]]
 
 -   HYDROTECHNICS: a technique that includes lights, water, fire, fog, and lasers, with high-definition projections on mist screens.
 -   DRAWN ON FILM ANIMATION: a technique where footage is produced by creating the images directly on film stock, for example by Norman McLaren, Len Lye and Stan Brakhage.

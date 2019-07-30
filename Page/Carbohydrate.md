@@ -1,4 +1,4 @@
-Lactose.svg is a disaccharide found in animal milk. It consists of a molecule of D-galactose and a molecule of D-glucose bonded by beta-1-4 glycosidic linkage. ]]
+is a disaccharide found in animal milk. It consists of a molecule of D-galactose and a molecule of D-glucose bonded by beta-1-4 glycosidic linkage. ]]
 
 A CARBOHYDRATE () is a biomolecule consisting of carbon (C), hydrogen (H) and oxygen (O) atoms, usually with a hydrogen–oxygen atom ratio of 2:1 (as in water) and thus with the empirical formula (where _m_ may be different from _n_). This formula holds true for monosaccharides. Some exceptions exist; for example, deoxyribose, a sugar component of DNA,[1] has the empirical formula C₅H₁₀O₄.[2] The carbohydrates are technically hydrates of carbon; structurally it is more accurate to view them as aldoses and ketoses.
 
@@ -54,11 +54,9 @@ DP * = Degree of polymerization
 
 Monosaccharides
 
-D-glucose_color_coded.png is an aldohexose with the formula (C·H₂O)₆. The red atoms highlight the aldehyde group and the blue atoms highlight the asymmetric center furthest from the aldehyde; because this -OH is on the right of the Fischer projection, this is a D sugar.]] Monosaccharides are the simplest carbohydrates in that they cannot be hydrolyzed to smaller carbohydrates. They are aldehydes or ketones with two or more hydroxyl groups. The general chemical formula of an unmodified monosaccharide is (C•H₂O)_(n), literally a "carbon hydrate". Monosaccharides are important fuel molecules as well as building blocks for nucleic acids. The smallest monosaccharides, for which n=3, are dihydroxyacetone and D- and L-glyceraldehydes.
+is an aldohexose with the formula (C·H₂O)₆. The red atoms highlight the aldehyde group and the blue atoms highlight the asymmetric center furthest from the aldehyde; because this -OH is on the right of the Fischer projection, this is a D sugar.]] Monosaccharides are the simplest carbohydrates in that they cannot be hydrolyzed to smaller carbohydrates. They are aldehydes or ketones with two or more hydroxyl groups. The general chemical formula of an unmodified monosaccharide is (C•H₂O)_(n), literally a "carbon hydrate". Monosaccharides are important fuel molecules as well as building blocks for nucleic acids. The smallest monosaccharides, for which n=3, are dihydroxyacetone and D- and L-glyceraldehydes.
 
 Classification of monosaccharides
-
-Alpha-D-glucopyranose-2D-skeletal.png Beta-D-glucopyranose-2D-skeletal.png
 
 The α and β anomers of glucose. Note the position of the hydroxyl group (red or green) on the anomeric carbon relative to the CH₂OH group bound to carbon 5: they either have identical absolute configurations (R,R or S,S) (α), or opposite absolute configurations (R,S or S,R) (β).[16]
 
@@ -68,7 +66,7 @@ Each carbon atom bearing a hydroxyl group (-OH), with the exception of the first
 
 Ring-straight chain isomerism
 
-Glucose_Fisher_to_Haworth.gif can exist in both a straight-chain and ring form.]] The aldehyde or ketone group of a straight-chain monosaccharide will react reversibly with a hydroxyl group on a different carbon atom to form a hemiacetal or hemiketal, forming a heterocyclic ring with an oxygen bridge between two carbon atoms. Rings with five and six atoms are called furanose and pyranose forms, respectively, and exist in equilibrium with the straight-chain form.[19]
+can exist in both a straight-chain and ring form.]] The aldehyde or ketone group of a straight-chain monosaccharide will react reversibly with a hydroxyl group on a different carbon atom to form a hemiacetal or hemiketal, forming a heterocyclic ring with an oxygen bridge between two carbon atoms. Rings with five and six atoms are called furanose and pyranose forms, respectively, and exist in equilibrium with the straight-chain form.[19]
 
 During the conversion from straight-chain form to the cyclic form, the carbon atom containing the carbonyl oxygen, called the anomeric carbon, becomes a stereogenic center with two possible configurations: The oxygen atom may take a position either above or below the plane of the ring. The resulting possible pair of stereoisomers is called anomers. In the _α anomer_, the -OH substituent on the anomeric carbon rests on the opposite side (trans) of the ring from the CH₂OH side branch. The alternative form, in which the CH₂OH substituent and the anomeric hydroxyl are on the same side (cis) of the plane of the ring, is called the _β anomer_.
 
@@ -79,7 +77,7 @@ Monosaccharides are the major source of fuel for metabolism, being used both as 
 
 Disaccharides
 
-sucrose_3Dprojection.png, also known as table sugar, is a common disaccharide. It is composed of two monosaccharides: D-glucose (left) and D-fructose (right).]] Two joined monosaccharides are called a disaccharide and these are the simplest polysaccharides. Examples include sucrose and lactose. They are composed of two monosaccharide units bound together by a covalent bond known as a glycosidic linkage formed via a dehydration reaction, resulting in the loss of a hydrogen atom from one monosaccharide and a hydroxyl group from the other. The formula of unmodified disaccharides is C₁₂H₂₂O₁₁. Although there are numerous kinds of disaccharides, a handful of disaccharides are particularly notable.
+, also known as table sugar, is a common disaccharide. It is composed of two monosaccharides: D-glucose (left) and D-fructose (right).]] Two joined monosaccharides are called a disaccharide and these are the simplest polysaccharides. Examples include sucrose and lactose. They are composed of two monosaccharide units bound together by a covalent bond known as a glycosidic linkage formed via a dehydration reaction, resulting in the loss of a hydrogen atom from one monosaccharide and a hydroxyl group from the other. The formula of unmodified disaccharides is C₁₂H₂₂O₁₁. Although there are numerous kinds of disaccharides, a handful of disaccharides are particularly notable.
 
 Sucrose, pictured to the right, is the most abundant disaccharide, and the main form in which carbohydrates are transported in plants. It is composed of one D-glucose molecule and one D-fructose molecule. The systematic name for sucrose, _O_-α-D-glucopyranosyl-(1→2)-D-fructofuranoside, indicates four things:
 
@@ -93,7 +91,7 @@ Lactose, a disaccharide composed of one D-galactose molecule and one D-glucose m
 
 Nutrition
 
-Wheat_products.jpg products: rich sources of carbohydrates]]
+products: rich sources of carbohydrates]]
 
 Carbohydrate consumed in food yields 3.87 kilocalories of energy per gram for simple sugars,[21] and 3.57 to 4.12 kilocalories per gram for complex carbohydrate in most other foods.[22] Relatively high levels of carbohydrate are associated with processed foods or refined foods made from plants, including sweets, cookies and candy, table sugar, honey, soft drinks, breads and crackers, jams and fruit products, pastas and breakfast cereals. Lower amounts of carbohydrate are usually associated with unrefined foods, including beans, tubers, rice, and unrefined fruit.[23] Animal-based foods generally have the lowest carbohydrate levels, although milk does contain a high proportion of lactose.
 

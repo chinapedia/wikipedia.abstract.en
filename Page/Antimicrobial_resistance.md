@@ -1,5 +1,3 @@
-Antibiotic_sensitvity_and_resistance.JPG
-
 ANTIMICROBIAL RESISTANCE (AMR or AR) is the ability of a microbe to resist the effects of medication that once could successfully treat the microbe.[1][2][3] The term ANTIBIOTIC RESISTANCE (AR or ABR) is a subset of AMR, as it applies only to bacteria becoming resistant to antibiotics.[4] Resistant microbes are more difficult to treat, requiring alternative medications or higher doses of antimicrobials. These approaches may be more expensive, more toxic or both. Microbes resistant to multiple antimicrobials are called multidrug resistant (MDR). Those considered extensively drug resistant (XDR) or totally drug-resistant (TDR) are sometimes called "superbugs".[5]
 
 Resistance arises through one of three mechanisms: natural resistance in certain types of bacteria, genetic mutation, or by one species acquiring resistance from another.[6] All classes of microbes can develop resistance. Fungi develop antifungal resistance. Viruses develop antiviral resistance. Protozoa develop antiprotozoal resistance, and bacteria develop antibiotic resistance. Resistance can appear spontaneously because of random mutations. However, extended use of antimicrobials appears to encourage selection for mutations which can render antimicrobials ineffective.[7]
@@ -13,7 +11,7 @@ Antimicrobial resistance is increasing globally because of greater access to ant
 
 Definition
 
-WhatIsDrugResistance.gif The WHO defines antimicrobial resistance as a microorganism's resistance to an antimicrobial drug that was once able to treat an infection by that microorganism.[23] A person cannot become resistant to antibiotics. Resistance is a property of the microbe, not a person or other organism infected by a microbe.[24]
+The WHO defines antimicrobial resistance as a microorganism's resistance to an antimicrobial drug that was once able to treat an infection by that microorganism.[23] A person cannot become resistant to antibiotics. Resistance is a property of the microbe, not a person or other organism infected by a microbe.[24]
 
 Antibiotic resistance is a subset of antimicrobial resistance.  This more specified resistance is linked to pathogenic bacteria and thus broken down into two further subsets, microbiological and clinical. Resistance linked microbiologically is the most common and occurs from genes, mutated or inherited, that allow the bacteria to resist the mechanism associated with certain antibiotics.  Clinical resistance is shown through the failure of many therapeutic techniques where the bacteria that are normally susceptible to a treatment become resistant after surviving the outcome of the treatment. In both cases of acquired resistance, the bacteria can pass the genetic catalyst for resistance through conjugation, transduction, or transformation.  This allows the resistance to spread across the same pathogen or even similar bacterial pathogens.[25]
 
@@ -25,7 +23,7 @@ A World Health Organization (WHO) report released April 2014 stated, "this serio
 
 Causes
 
-CDCinfographicANTIBIORESISTANCE.png Bacteria with resistance to antibiotics predate medical use of antibiotics by humans.[28] However, widespread antibiotic use has made more bacteria resistant through the process of evolutionary pressure.[29]
+Bacteria with resistance to antibiotics predate medical use of antibiotics by humans.[28] However, widespread antibiotic use has made more bacteria resistant through the process of evolutionary pressure.[29]
 
 Reasons for the widespread use of antibiotics in human medicine include:
 
@@ -46,7 +44,7 @@ Exposure to low doses of the antiseptic octenidine allowed several different str
 
 Clinical significance
 
-AntimcrresUKreview2.jpg Increasing bacterial resistance is linked with the volume of antibiotic prescribed, as well as missing doses when taking antibiotics.[39] Inappropriate prescribing of antibiotics has been attributed to a number of causes, such as patients insisting on antibiotics and physicians prescribing them as they do not have time to explain why they are not necessary. Another cause can be physicians not knowing when to prescribe antibiotics or being overly cautious for medical or legal reasons.[40] For example, 70 to 80 percent of diarrhea is caused by viral pathogens, for which antibiotics are not effective. But nevertheless, around 40 percent of these cases are attempted to be treated with antibiotics.[41] In some areas even over 80 percent of such cases are attempted to be treated with antibiotics.[42]
+Increasing bacterial resistance is linked with the volume of antibiotic prescribed, as well as missing doses when taking antibiotics.[39] Inappropriate prescribing of antibiotics has been attributed to a number of causes, such as patients insisting on antibiotics and physicians prescribing them as they do not have time to explain why they are not necessary. Another cause can be physicians not knowing when to prescribe antibiotics or being overly cautious for medical or legal reasons.[40] For example, 70 to 80 percent of diarrhea is caused by viral pathogens, for which antibiotics are not effective. But nevertheless, around 40 percent of these cases are attempted to be treated with antibiotics.[41] In some areas even over 80 percent of such cases are attempted to be treated with antibiotics.[42]
 
 Lower antibiotic concentration contributes to the increase of AMR by introducing more mutations that support bacterial growth in higher antibiotic concentration. For example, sub-inhibitory concentration have induced genetic mutation in bacteria such as _Pseudomonas aeruginosa_ and _Bacteroides fragilis_.[43]
 
@@ -64,7 +62,7 @@ Counterfeit medications may contain sub-therapeutic concentrations of antibiotic
 
 Veterinary medicine
 
-Ar-infographic-950px.jpg The World Health Organization concluded that inappropriate use of antibiotics in animal husbandry is an underlying contributor to the emergence and spread of antibiotic-resistant germs, and that the use of antibiotics as growth promoters in animal feeds should be restricted.[67] The World Organisation for Animal Health has added to the Terrestrial Animal Health Code a series of guidelines with recommendations to its members for the creation and harmonization of national antimicrobial resistance surveillance and monitoring programs,[68] monitoring of the quantities of antibiotics used in animal husbandry,[69] and recommendations to ensure the proper and prudent use of antibiotic substances. Another guideline is to implement methodologies that help to establish associated risk factors and assess the risk of antibiotic resistance.[70]
+The World Health Organization concluded that inappropriate use of antibiotics in animal husbandry is an underlying contributor to the emergence and spread of antibiotic-resistant germs, and that the use of antibiotics as growth promoters in animal feeds should be restricted.[67] The World Organisation for Animal Health has added to the Terrestrial Animal Health Code a series of guidelines with recommendations to its members for the creation and harmonization of national antimicrobial resistance surveillance and monitoring programs,[68] monitoring of the quantities of antibiotics used in animal husbandry,[69] and recommendations to ensure the proper and prudent use of antibiotic substances. Another guideline is to implement methodologies that help to establish associated risk factors and assess the risk of antibiotic resistance.[70]
 
 Natural occurrence
 
@@ -86,8 +84,6 @@ As bacteria replicate quickly, the resistant bacteria that enter water bodies th
 
 
 Prevention
-
-Antibioticresistance_diagram.png
 
 There have been increasing public calls for global collective action to address the threat, including a proposal for international treaty on antimicrobial resistance. Further detail and attention is still needed in order to recognize and measure trends in resistance on the international level; the idea of a global tracking system has been suggested but implementation has yet to occur. A system of this nature would provide insight to areas of high resistance as well as information necessary for evaluation of programs and other changes made to fight or reverse antibiotic resistance.
 
@@ -182,7 +178,7 @@ Mechanisms and organisms
 
 Bacteria
 
-mecA_Resistance.svg, which are essential for bacterial life, by permanently binding to their active sites. MRSA, however, expresses a PBP that does not allow the antibiotic into its active site.|alt=Diagram depicting antibiotic resistance through alteration of the antibiotic's target site]]
+, which are essential for bacterial life, by permanently binding to their active sites. MRSA, however, expresses a PBP that does not allow the antibiotic into its active site.|alt=Diagram depicting antibiotic resistance through alteration of the antibiotic's target site]]
 
 The four main mechanisms by which bacteria exhibit resistance to antibiotics are:
 
@@ -190,8 +186,6 @@ The four main mechanisms by which bacteria exhibit resistance to antibiotics are
 2.  Alteration of target- or binding site: for example, alteration of PBP—the binding target site of penicillins—in MRSA and other penicillin-resistant bacteria. Another protective mechanism found among bacterial species is ribosomal protection proteins. These proteins protect the bacterial cell from antibiotics that target the cell's ribosomes to inhibit protein synthesis. The mechanism involves the binding of the ribosomal protection proteins to the ribosomes of the bacterial cell, which in turn changes its conformational shape. This allows the ribosomes to continue synthesizing proteins essential to the cell while preventing antibiotics from binding to the ribosome to inhibit protein synthesis.[152]
 3.  Alteration of metabolic pathway: for example, some sulfonamide-resistant bacteria do not require para-aminobenzoic acid (PABA), an important precursor for the synthesis of folic acid and nucleic acids in bacteria inhibited by sulfonamides, instead, like mammalian cells, they turn to using preformed folic acid.[153]
 4.  Reduced drug accumulation: by decreasing drug permeability or increasing active efflux (pumping out) of the drugs across the cell surface[154] These pumps within the cellular membrane of certain bacterial species are used to pump antibiotics out of the cell before they are able to do any damage. They are often activated by a specific substrate associated with an antibiotic.[155] as in fluoroquinolone resistance.[156]
-
-Antibiotic_resistance_mechanisms.jpg
 
 In gram-negative bacteria, plasmid-mediated resistance genes produce proteins that can bind to DNA gyrase, protecting it from the action of quinolones. Finally, mutations at key sites in DNA gyrase or topoisomerase IV can decrease their binding affinity to quinolones, decreasing the drug's effectiveness.[157]
 

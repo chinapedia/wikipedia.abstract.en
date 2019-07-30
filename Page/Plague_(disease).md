@@ -11,8 +11,6 @@ Signs and symptoms
 
 Bubonic plague
 
-Plague_-buboes.jpg
-
 When a flea bites a human and contaminates the wound with regurgitated blood, the plague carrying bacteria are passed into the tissue. _Y. pestis_ can reproduce inside cells, so even if phagocytosed, they can still survive. Once in the body, the bacteria can enter the lymphatic system, which drains interstitial fluid. Plague bacteria secrete several toxins, one of which is known to cause beta-adrenergic blockade.[17]
 
 _Y. pestis_ spreads through the lymphatic vessels of the infected human until it reaches a lymph node, where it causes acute lymphadenitis.[18] The swollen lymph nodes form the characteristic buboes associated with the disease,[19] and autopsies of these buboes have revealed them to be mostly hemorrhagic or necrotic.[20]
@@ -21,7 +19,7 @@ If the lymph node is overwhelmed, the infection can pass into the bloodstream, c
 
 Septicemic plague
 
-PlagueTypes.jpg Lymphatics ultimately drain into the bloodstream, so the plague bacteria may enter the blood and travel to almost any part of the body. In septicemic plague, bacterial endotoxins cause disseminated intravascular coagulation (DIC), causing tiny clots throughout the body and possibly ischemic necrosis (tissue death due to lack of circulation/perfusion to that tissue) from the clots. DIC results in depletion of the body's clotting resources, so that it can no longer control bleeding. Consequently, there is bleeding into the skin and other organs, which can cause red and/or black patchy rash and hemoptysis/hematemesis (coughing up/ vomiting of blood). There are bumps on the skin that look somewhat like insect bites; these are usually red, and sometimes white in the center. Untreated, septicemic plague is usually fatal. Early treatment with antibiotics reduces the mortality rate to between 4 and 15 percent.[22][23][24] People who die from this form of plague often die on the same day symptoms first appear.
+Lymphatics ultimately drain into the bloodstream, so the plague bacteria may enter the blood and travel to almost any part of the body. In septicemic plague, bacterial endotoxins cause disseminated intravascular coagulation (DIC), causing tiny clots throughout the body and possibly ischemic necrosis (tissue death due to lack of circulation/perfusion to that tissue) from the clots. DIC results in depletion of the body's clotting resources, so that it can no longer control bleeding. Consequently, there is bleeding into the skin and other organs, which can cause red and/or black patchy rash and hemoptysis/hematemesis (coughing up/ vomiting of blood). There are bumps on the skin that look somewhat like insect bites; these are usually red, and sometimes white in the center. Untreated, septicemic plague is usually fatal. Early treatment with antibiotics reduces the mortality rate to between 4 and 15 percent.[22][23][24] People who die from this form of plague often die on the same day symptoms first appear.
 
 Pneumonic plague
 
@@ -30,7 +28,7 @@ The pneumonic form of plague arises from infection of the lungs. It causes cough
 
 Cause
 
-Xenopsylla_chepsis_(oriental_rat_flea).jpg (Xenopsylla cheopsis) engorged with blood after a blood meal. This species of flea is the primary vector for the transmission of _Yersinia pestis_, the organism responsible for bubonic plague in most plague epidemics in Asia, Africa and South America. Both male and female fleas feed on blood and can transmit the infection.]] Ulceration_of_flea_bite_cause_by_yersinia_pestis.jpg with the bacterium _Yersinia pestis_. _Y. pestis_, a member of the family Enterobacteriaceae, has caused the bite to become ulcerated.]] Transmission of _Y. pestis_ to an uninfected individual is possible by any of the following means.[27]
+(Xenopsylla cheopsis) engorged with blood after a blood meal. This species of flea is the primary vector for the transmission of _Yersinia pestis_, the organism responsible for bubonic plague in most plague epidemics in Asia, Africa and South America. Both male and female fleas feed on blood and can transmit the infection.]] with the bacterium _Yersinia pestis_. _Y. pestis_, a member of the family Enterobacteriaceae, has caused the bite to become ulcerated.]] Transmission of _Y. pestis_ to an uninfected individual is possible by any of the following means.[27]
 
 -   droplet contact – coughing or sneezing on another person
 -   direct physical contact – touching an infected person, including sexual contact
@@ -58,7 +56,7 @@ The plague bacterium could develop drug resistance and again become a major heal
 
 Epidemiology
 
-World_distribution_of_plague_1998.PNG Globally about 600 cases are reported a year.[36] In 2017 the countries with the most cases include the Democratic Republic of the Congo, Madagascar and Peru.[37] It has historically occurred in large outbreaks, with the best known being the Black Death in the 14th century which resulted in greater than 50 million dead.[38]
+Globally about 600 cases are reported a year.[36] In 2017 the countries with the most cases include the Democratic Republic of the Congo, Madagascar and Peru.[37] It has historically occurred in large outbreaks, with the best known being the Black Death in the 14th century which resulted in greater than 50 million dead.[38]
 
 
 Biological weapon

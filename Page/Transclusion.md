@@ -1,5 +1,3 @@
-Transclusion_simple.svg
-
 In computer science, TRANSCLUSION is the inclusion of part or all of an electronic document into one or more other documents by hypertext reference. Transclusion is usually performed when the referencing document is displayed, and is normally automatic and transparent to the end user.[1] The result of transclusion is a single integrated document made of parts assembled dynamically from separate sources, possibly stored on different computers in disparate places.
 
 Transclusion facilitates modular design: a resource is stored once and distributed for reuse in multiple documents. Updates or corrections to a resource are then reflected in any referencing documents. Ted Nelson coined the term for his 1980 nonlinear book _Literary Machines_, but the idea of _master copy and occurrences_ was applied 17 years before, in Sketchpad.

@@ -19,7 +19,7 @@ The Smiths had three children:
 
 Early chemical career and the beginning of _Skylark_
 
-Amazbuck.jpg After college, Smith was a junior chemist for the National Bureau of Standards in Washington, D.C., developing standards for butter and for oysters.[18] He may have served as a lieutenant in the U.S. Army during World War I, but details are unknown.[19] His draft card, partly illegible, seems to show that Smith requested exemption from military service, based on his wife's dependence and on his contribution to the war effort as a civilian chemist.[20]
+After college, Smith was a junior chemist for the National Bureau of Standards in Washington, D.C., developing standards for butter and for oysters.[18] He may have served as a lieutenant in the U.S. Army during World War I, but details are unknown.[19] His draft card, partly illegible, seems to show that Smith requested exemption from military service, based on his wife's dependence and on his contribution to the war effort as a civilian chemist.[20]
 
 One evening in 1915, the Smiths were visiting a former classmate from the University of Idaho, Dr. Carl Garby, who had also moved to Washington, D.C. He lived nearby in the Seaton Place Apartments with his wife, Lee Hawkins Garby. A long discussion about journeys into outer space ensued, and it was suggested that Smith should write down his ideas and speculations as a story about interstellar travel. Although he was interested, Smith believed after some thought that some romantic elements would be required and he was uncomfortable with that.
 
@@ -27,7 +27,7 @@ Mrs. Garby offered to take care of the love interest and the romantic dialogue, 
 
 Smith earned his master's degree in chemistry from the George Washington University in 1917, studying under Dr. Charles E. Munroe.[22][23][24] Smith completed his PhD in chemical engineering[25] in 1918,[26] with a food engineering focus; his dissertation, _The effect of bleaching with oxides of nitrogen upon the baking quality and commercial value of wheat flour_, was published in 1919.[27] (Warner and Fleischer give the title _The Effect of the Oxides of Nitrogen upon the Carotin Molecule – C40H56_, which is difficult to explain. Sam Moskowitz gives the degree date 1919,[28] perhaps reflecting different dates for thesis submission, thesis defense, and degree certification.)
 
-Amazing_stories_193008.jpg'' cover story (August 1930)]] Amazing_stories_193107.jpg Amazing_stories_193401.jpg Universe_science_fiction_195403.jpg'', was novelized by Gordon Eklund nearly 25 years later.]] Amazing_science_fiction_stories_195903.jpg If_196111.jpg died in 1958, Smith completed his unfinished novel, _Masters of Space_. The novel was serialized in _If_.]]
+'' cover story (August 1930)]] '', was novelized by Gordon Eklund nearly 25 years later.]] died in 1958, Smith completed his unfinished novel, _Masters of Space_. The novel was serialized in _If_.]]
 
 Writing _Skylark_
 

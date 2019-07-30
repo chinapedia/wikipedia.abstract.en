@@ -15,7 +15,7 @@ Equipment
 
 Armour
 
-T-55_4.jpg]]
+]]
 
   Name                       Origin         Type                        In service   Notes
   -------------------------- -------------- --------------------------- ------------ -------
@@ -26,7 +26,7 @@ T-55_4.jpg]]
   BRDM-2                     Soviet Union   APC                         6[9]
 
 
-RPG-7_detached.jpg launcher ]]
+ launcher ]]
 
 Small arms
 
@@ -44,8 +44,6 @@ Aircraft
 The Air Force of Equatorial Guinea consists of seven fixed wing aircraft and nine helicopters providing ground support, transport, SAR, and training.
 
 Current inventory
-
-Antonov_An-72P,_Equatorial_Guinea_-_Air_Force_AN1593110.jpg
 
   Aircraft           Origin           Type                  Variant   In service   Notes
   ------------------ ---------------- --------------------- --------- ------------ ----------------
@@ -68,7 +66,7 @@ Navy
 
 As piracy and robbery at sea is a significant threat in the Gulf of Guinea, the country is investing heavily in its navy to protect its oil installations from these and other security challenges. In 2010 a Brazilian corvette was purchased, and renamed the 'Bata'. On 24 June 2014 the Frigate Wele Nzas was commissioned and became the flagship for the Navy of Equatorial Guinea.
 
-ShaldagMk2.jpg patrol boat]]
+patrol boat]]
 
   Vessel                 Origin     Type            In service   Notes
   ---------------------- ---------- --------------- ------------ -----------------------------------------

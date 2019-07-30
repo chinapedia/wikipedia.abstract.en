@@ -27,7 +27,7 @@ Although Dostoevsky had a delicate physical constitution, his parents described 
 
 Youth (1836–1843)
 
-Image_dost_01.jpg]]
+]]
 
 On 27 September 1837 Dostoevsky's mother died of tuberculosis. The previous May, his parents had sent Dostoevsky and his brother Mikhail to St Petersburg to attend the free Nikolayev Military Engineering Institute, forcing the brothers to abandon their academic studies for military careers. Dostoevsky entered the academy in January 1838, but only with the help of family members. Mikhail was refused admission on health grounds and was sent to the Academy in Reval, Estonia.
 
@@ -42,8 +42,6 @@ Career
 
 Early career (1844–1849)
 
-Trutovsky_004.jpg
-
 Dostoevsky completed his first novel, _Poor Folk_, in May 1845. His friend Dmitry Grigorovich, with whom he was sharing an apartment at the time, took the manuscript to the poet Nikolay Nekrasov, who in turn showed it to the renowned and influential literary critic Vissarion Belinsky. Belinsky described it as Russia's first "social novel". _Poor Folk_ was released on 15 January 1846 in the _St Petersburg Collection_ almanac and became a commercial success.
 
 Dostoevsky felt that his military career would endanger his now flourishing literary career, so he wrote a letter asking to resign his post. Shortly thereafter, he wrote his second novel, _The Double_, which appeared in the journal _Notes of the Fatherland_ on 30 January 1846, before being published in February. Around the same time, Dostoevsky discovered socialism through the writings of French thinkers Fourier, Cabet, Proudhon and Saint-Simon. Through his relationship with Belinsky he expanded his knowledge of the philosophy of socialism. He was attracted to its logic, its sense of justice and its preoccupation with the destitute and the disadvantaged. However, his relationship with Belinsky became increasingly strained as Belinsky's atheism and dislike of religion clashed with Dostoevsky's Russian Orthodox beliefs. Dostoevsky eventually parted with him and his associates.
@@ -53,8 +51,6 @@ After _The Double_ received negative reviews, Dostoevsky's health declined and h
 In 1849, the first parts of _Netochka Nezvanova_, a novel Dostoevsky had been planning since 1846, were published in _Annals of the Fatherland_, but his banishment ended the project. Dostoevsky never attempted to complete it.
 
 Siberian exile (1849–1854)
-
-B_pokrovsky_kazn_1849.jpg
 
 The members of the Petrashevsky Circle were denounced to Liprandi, an official at the Ministry of Internal Affairs. Dostoevsky was accused of reading works by Belinsky, including the banned _Letter to Gogol_,[11] and of circulating copies of these and other works. Antonelli, the government agent who had reported the group, wrote in his statement that at least one of the papers criticised Russian politics and religion. Dostoevsky responded to these charges by declaring that he had read the essays only "as a literary monument, neither more nor less"; he spoke of "personality and human egoism" rather than of politics. Even so, he and his fellow "conspirators" were arrested on 23 April 1849 at the request of Count A. Orlov and Tsar Nicolas I, who feared a revolution like the Decembrist revolt of 1825 in Russia and the Revolutions of 1848 in Europe. The members were held in the well-defended Peter and Paul Fortress, which housed the most dangerous convicts.
 
@@ -70,8 +66,6 @@ After his release on 14 February 1854, Dostoevsky asked Mikhail to help him fina
 
 In Semipalatinsk, Dostoevsky tutored several schoolchildren and came into contact with upper-class families, including that of Lieutenant-Colonel Belikhov, who used to invite him to read passages from newspapers and magazines. During a visit to Belikhov, Dostoevsky met the family of Alexander Ivanovich Isaev and Maria Dmitrievna Isaeva and fell in love with the latter. Alexander Isaev took a new post in Kuznetsk, where he died in August 1855. Maria and her son then moved with Dostoevsky to Barnaul. In 1856 Dostoevsky sent a letter through Wrangel to General Eduard Totleben, apologising for his activity in several utopian circles. As a result, he obtained the right to publish books and to marry, although he remained under police surveillance for the rest of his life. Maria married Dostoevsky in Semipalatinsk on 7 February 1857, even though she had initially refused his marriage proposal, stating that they were not meant for each other and that his poor financial situation precluded marriage. Their family life was unhappy and she found it difficult to cope with his seizures. Describing their relationship, he wrote: "Because of her strange, suspicious and fantastic character, we were definitely not happy together, but we could not stop loving each other; and the more unhappy we were, the more attached to each other we became". They mostly lived apart. In 1859 he was released from military service because of deteriorating health and was granted permission to return to Russia, first to Tver, where he met his brother for the first time in ten years, and then to St Petersburg.
 
-Dostoevskij_1863.jpg
-
 "A Little Hero" (Dostoevsky's only work completed in prison) appeared in a journal, but "Uncle's Dream" and "The Village of Stepanchikovo" were not published until 1860. _Notes from the House of the Dead_ was released in _Russky Mir_ (Russian World) in September 1860. "The Insulted and the Injured" was published in the new _Vremya_ magazine, which had been created with the help of funds from his brother's cigarette factory.
 
 Dostoevsky travelled to western Europe for the first time on 7 June 1862, visiting Cologne, Berlin, Dresden, Wiesbaden, Belgium, and Paris. In London, he met Herzen and visited the Crystal Palace. He travelled with Nikolay Strakhov through Switzerland and several North Italian cities, including Turin, Livorno, and Florence. He recorded his impressions of those trips in _Winter Notes on Summer Impressions_, in which he criticised capitalism, social modernisation, materialism, Catholicism and Protestantism.
@@ -86,7 +80,7 @@ Dostoevsky returned to Saint Petersburg in mid-September and promised his editor
 
 On 15 February 1867 Dostoevsky married Snitkina in Trinity Cathedral, Saint Petersburg. The 7,000 rubles he had earned from _Crime and Punishment_ did not cover their debts, forcing Anna to sell her valuables. On 14 April 1867, they began a delayed honeymoon in Germany with the money gained from the sale. They stayed in Berlin and visited the Gemäldegalerie Alte Meister in Dresden, where he sought inspiration for his writing. They continued their trip through Germany, visiting Frankfurt, Darmstadt, Heidelberg and Karlsruhe. They spent five weeks in Baden-Baden, where Dostoevsky had a quarrel with Turgenev and again lost much money at the roulette table.[12] The couple travelled on to Geneva.
 
-Baden-Baden_10-2015_img19_Dostoevsky_plaque.jpg In September 1867, Dostoevsky began work on _The Idiot_, and after a prolonged planning process that bore little resemblance to the published novel, he eventually managed to write the first 100 pages in only 23 days; the serialisation began in ''The Russian Messenger ''in January 1868.
+In September 1867, Dostoevsky began work on _The Idiot_, and after a prolonged planning process that bore little resemblance to the published novel, he eventually managed to write the first 100 pages in only 23 days; the serialisation began in ''The Russian Messenger ''in January 1868.
 
 Their first child, Sonya, had been conceived in Baden-Baden, and was born in Geneva on 5 March 1868. The baby died of pneumonia three months later, and Anna recalled how Dostoevsky "wept and sobbed like a woman in despair". The couple moved from Geneva to Vevey and then to Milan, before continuing to Florence. _The Idiot_ was completed there in January 1869, the final part appearing in ''The Russian Messenger ''in February 1869. Anna gave birth to their second daughter, Lyubov, on 26 September 1869 in Dresden. In April 1871, Dostoevsky made a final visit to a gambling hall in Wiesbaden. Anna claimed that he stopped gambling after the birth of their second daughter, but this is a subject of debate.
 
@@ -94,13 +88,9 @@ After hearing news that the socialist revolutionary group "People's Vengeance" h
 
 Back in Russia (1871–1875)
 
-Dostoyevsky_in_prison.jpg
-
 Back in Russia in July 1871, the family was again in financial trouble and had to sell their remaining possessions. Their son Fyodor was born on 16 July, and they moved to an apartment near the Institute of Technology soon after. They hoped to cancel their large debts by selling their rental house in Peski, but difficulties with the tenant resulted in a relatively low selling price, and disputes with their creditors continued. Anna proposed that they raise money on her husband's copyrights and negotiate with the creditors to pay off their debts in installments.
 
 Dostoevsky revived his friendships with Maykov and Strakhov and made new acquaintances, including church politician Terty Filipov and the brothers Vsevolod and Vladimir Solovyov. Konstantin Pobedonostsev, future Imperial High Commissioner of the Most Holy Synod, influenced Dostoevsky's political progression to conservatism. Around early 1872 the family spent several months in Staraya Russa, a town known for its mineral spa. Dostoevsky's work was delayed when Anna's sister Maria Svatkovskaya died on 1 May 1872, either from typhus or malaria,[13] and Anna developed an abscess on her throat.
-
-Fyodor_Mikhailovich_Dostoyevsky_1876.jpg
 
 The family returned to St Petersburg in September. _Demons_ was finished on 26 November and released in January 1873 by the "Dostoevsky Publishing Company", which was founded by Dostoevsky and his wife. Although they only accepted cash payments and the bookshop was in their own apartment, the business was successful, and they sold around 3,000 copies of _Demons_. Anna managed the finances. Dostoevsky proposed that they establish a new periodical, which would be called _A Writer's Diary_ and would include a collection of essays, but funds were lacking, and the _Diary_ was published in Vladimir Meshchersky's _The Citizen_, beginning on 1 January, in return for a salary of 3,000 rubles per year. In the summer of 1873, Anna returned to Staraya Russa with the children, while Dostoevsky stayed in St Petersburg to continue with his _Diary_.
 
@@ -114,14 +104,12 @@ In early 1876, Dostoevsky continued work on his _Diary_. The book includes numer
 
 Dostoevsky's health declined further, and in March 1877 he had four epileptic seizures. Rather than returning to Ems, he visited Maly Prikol, a manor near Kursk. While returning to St Petersburg to finalise his _Diary_, he visited Darovoye, where he had spent much of his childhood. In December he attended Nekrasov's funeral and gave a speech. He was appointed an honorary member of the Russian Academy of Sciences, from which he received an honorary certificate in February 1879. He declined an invitation to an international congress on copyright in Paris after his son Alyosha had a severe epileptic seizure and died on 16 May. The family later moved to the apartment where Dostoevsky had written his first works. Around this time, he was elected to the board of directors of the Slavic Benevolent Society in Saint Petersburg. That summer, he was elected to the honorary committee of the Association Littéraire et Artistique Internationale, whose members included Victor Hugo, Ivan Turgenev, Paul Heyse, Alfred Tennyson, Anthony Trollope, Henry Longfellow, Ralph Waldo Emerson and Leo Tolstoy. Dostoevsky made his fourth and final visit to Ems in early August 1879. He was diagnosed with early-stage pulmonary emphysema, which his doctor believed could be successfully managed, but not cured.
 
-Dostoyevsky's_funeral.jpg
-
 On 3 February 1880 Dostoevsky was elected vice-president of the Slavic Benevolent Society, and he was invited to speak at the unveiling of the Pushkin memorial in Moscow. On 8 June he delivered his speech, giving an impressive performance that had a significant emotional impact on his audience. His speech was met with thunderous applause, and even his long-time rival Turgenev embraced him. Konstantin Staniukovich praised the speech in his essay "The Pushkin Anniversary and Dostoevsky's Speech" in _The Business_, writing that "the language of Dostoevsky's [Pushkin Speech] really looks like a sermon. He speaks with the tone of a prophet. He makes a sermon like a pastor; it is very deep, sincere, and we understand that he wants to impress the emotions of his listeners." The speech was criticised later by liberal political scientist Alexander Gradovsky, who thought that Dostoevsky idolised "the people", and by conservative thinker Konstantin Leontiev, who, in his essay "On Universal Love", compared the speech to French utopian socialism. The attacks led to a further deterioration in his health.
 
 
 Death
 
-Dostoyevsky_on_his_Bier,_Kramskoy.jpg, drawing by Ivan Kramskoi, 1881]] Санкт-Петербург,_Тихвинское_кладбище,_могила_Ф.М._Достоевского.JPG
+, drawing by Ivan Kramskoi, 1881]]
 
 On 25 January 1881, while searching for members of the terrorist organisation Narodnaya Volya ("The People's Will") who would soon assassinate Tsar Alexander II, the Tsar's secret police executed a search warrant in the apartment of one of Dostoevsky's neighbours. On the following day, Dostoevsky suffered a pulmonary haemorrhage. Anna denied that the search had caused it, saying that the haemorrhage had occurred after her husband had been looking for a dropped pen holder. After another haemorrhage, Anna called the doctors, who gave a poor prognosis. A third haemorrhage followed shortly afterwards. While seeing his children before dying, Dostoevsky requested that the parable of the Prodigal Son be read to his children. The profound meaning of this request is pointed out by Frank:  
 
@@ -162,8 +150,6 @@ Dostoevsky held negative views of the Ottoman Turks, dedicating multiple pages t
 
 Religious beliefs
 
-Dostoyevsky_New_Testament.PNG
-
 Dostoevsky was an Orthodox Christian,[21] was raised in a religious family and knew the Gospel from a very young age. He was influenced by the Russian translation of Johannes Hübner's _One Hundred and Four Sacred Stories from the Old and New Testaments Selected for Children_ (partly a German bible for children and partly a catechism). He attended Sunday liturgies from an early age and took part in annual pilgrimages to the St. Sergius Trinity Monastery. A deacon at the hospital gave him religious instruction. Among his most cherished childhood memories were the prayers he used to recite in front of guests and a reading from the Book of Job that impressed him while "still almost a child."
 
 According to an officer at the military academy, Dostoevsky was profoundly religious, followed Orthodox practice, and regularly read the Gospels and Heinrich Zschokke's _Die Stunden der Andacht_ ("Hours of Devotion"), which "preached a sentimental version of Christianity entirely free from dogmatic content and with a strong emphasis on giving Christian love a social application." This book may have prompted his later interest in Christian socialism. Through the literature of Hoffmann, Balzac, Eugène Sue and Goethe, Dostoevsky created his own belief system, similar to Russian sectarianism and the Old Belief. After his arrest, aborted execution and subsequent imprisonment, he focused intensely on the figure of Christ and on the New Testament, the only book allowed in prison. In a January 1854 letter to the woman who had sent him the New Testament, Dostoevsky wrote that he was a "child of unbelief and doubt up to this moment, and I am certain that I shall remain so to the grave." He also wrote that "even if someone were to prove to me that the truth lay outside Christ, I should choose to remain with Christ rather than with the truth."
@@ -173,7 +159,7 @@ In Semipalatinsk, Dostoevsky revived his faith by looking frequently at the star
 
 Themes and style
 
-Dostoyevsky_The_Demons_Manuscript.jpg'']]
+'']]
 
 Dostoevsky's canon includes novels, novellas, novelettes, short stories, essays, pamphlets, limericks, epigrams and poems. He wrote more than 700 letters, a dozen of which are lost.[22]
 
@@ -188,15 +174,13 @@ Legacy
 
 Reception and influence
 
-Dresden_Dostojewski-Denkmal.JPG, Germany]]
+, Germany]]
 
 Dostoevsky is regarded as one of the greatest and most influential novelists of the Golden Age of Russian literature. Albert Einstein put him above the mathematician Carl Friedrich Gauss, calling him a "great religious writer" who explores "the mystery of spiritual existence".[28] Friedrich Nietzsche at one point called Dostoevsky "the only psychologist ... from whom I had something to learn; he ranks among the most beautiful strokes of fortune in my life", although the mature Nietzsche later turned against Dostoevsky likening him to Jesus and calling him decadent.[29] Hermann Hesse enjoyed Dostoevsky's work and cautioned that to read him is like a "glimpse into the havoc". The Norwegian novelist Knut Hamsun wrote that "no one has analyzed the complicated human structure as Dostoyevsky. His psychologic sense is overwhelming and visionary." The Russian literary theorist Mikhail Bakhtin's analysis of Dostoevsky came to be at the foundation of his theory of the novel. Bakhtin argued that Dostoevsky's use of multiple voices was a major advancement in the development of the novel as a genre.[30]
 
 In his posthumous collection of sketches _A Moveable Feast_, Ernest Hemingway stated that in Dostoevsky "there were things believable and not to be believed, but some so true that they changed you as you read them; frailty and madness, wickedness and saintliness, and the insanity of gambling were there to know".[31] James Joyce praised Dostoevsky's prose: "... he is the man more than any other who has created modern prose, and intensified it to its present-day pitch. It was his explosive power which shattered the Victorian novel with its simpering maidens and ordered commonplaces; books which were without imagination or violence."[32] In her essay _The Russian Point of View_, Virginia Woolf said, "Out of Shakespeare there is no more exciting reading".[33] Franz Kafka called Dostoevsky his "blood-relative"[34] and was heavily influenced by his works, particularly _The Brothers Karamazov_ and _Crime and Punishment_, both of which profoundly influenced _The Trial_.[35] Sigmund Freud called _The Brothers Karamazov_ "the most magnificent novel ever written".[36] Modern cultural movements such as the surrealists, the existentialists and the Beats cite Dostoevsky as an influence, and he is cited as the forerunner of Russian symbolism, existentialism, expressionism and psychoanalysis. In her essay, _What Is Romanticism?,_ Russian-American author Ayn Rand wrote that Dostoevsky was one of the two greatest novelists (the other being Victor Hugo). [37]
 
 Honours
-
-The_Soviet_Union_1971_CPA_4027_stamp_(Fyodor_Dostoyevsky_(after_Vasily_Perov)).jpg
 
 In 1956 an olive-green postage stamp dedicated to Dostoevsky was released in the Soviet Union, with a print run of 1,000 copies.[38] A Dostoevsky Museum was opened on 12 November 1971 in the apartment where he wrote his first and final novels.[39] A crater on Mercury was named after him in 1979, and a minor planet discovered in 1981 by Lyudmila Karachkina was named 3453 Dostoevsky. Music critic and broadcaster Artemy Troitsky has hosted the radio show "FM Достоевский" (FM Dostoevsky) since 1997.[40] J.M. Coetzee featured Dostoevsky as the protagonist in his 1997 novel _The Master of Petersburg_. The famous Malayalam novel _Oru Sankeerthanam Pole_ by Perumbadavam Sreedharan deals with the life of Dostoevsky and his love affair with Anna.[41] Viewers of the TV show _Name of Russia_ voted him the ninth greatest Russian of all time, behind chemist Dmitry Mendeleev and ahead of ruler Ivan IV.[42] An Eagle Award-winning TV series directed by Vladimir Khotinenko about Dostoevsky's life was screened in 2011.
 

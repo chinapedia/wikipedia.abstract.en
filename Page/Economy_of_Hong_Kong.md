@@ -24,14 +24,12 @@ The Hong Kong Stock Exchange is the sixth largest in the world, with a market ca
 
 Economic predictions
 
-Cathay_City.JPG]] Since the 1997 handover, Hong Kong's economic future became far more exposed to the challenges of economic globalisation and the direct competition from cities in mainland China. In particular, Shanghai claimed to have a geographical advantage. The Shanghai municipal government dreamt of turning the city into China's main economic centre by as early as 2010. The target is to allow Shanghai to catch up to New York by 2040–2050.[29]
+]] Since the 1997 handover, Hong Kong's economic future became far more exposed to the challenges of economic globalisation and the direct competition from cities in mainland China. In particular, Shanghai claimed to have a geographical advantage. The Shanghai municipal government dreamt of turning the city into China's main economic centre by as early as 2010. The target is to allow Shanghai to catch up to New York by 2040–2050.[29]
 
 
 Positive non-interventionism
 
 Hong Kong's economic policy has often been cited by economists such as Milton Friedman and the Cato Institute as an example of laissez-faire capitalism, attributing the city's success to the policy. However, others have argued that the economic strategy is not adequately characterised by the term _laissez-faire_.[30] They point out that there are still many ways in which the government is involved in the economy, some of which exceed the degree of involvement in other capitalist countries. For example, the government is involved in public works projects, healthcare, education, and social welfare spending. Further, although rates of taxation on personal and corporate income are low by international standards, unlike most other countries Hong Kong's government raises a significant portion of its revenues from land leases and land taxation. All land in Hong Kong is owned by the government and is leased to private developers and users on fixed terms, for fees which are paid to the state treasury. By restricting the sale of land leases, the Hong Kong government keeps the price of land at what some consider as artificially high prices and this allows the government to support public spending with a low tax rate on income and profit.[31]
-
-Fa_Yuen_Street,_Hong_Kong,_Mar_06.JPG
 
 
 Economic freedom
@@ -41,7 +39,7 @@ Hong Kong has been ranked as the world's freest economy in the Index of Economic
 
 Economic data
 
-Hong_Kong_Export_Treemap.svg The following table shows the main economic indicators in 1980–2017. Inflation under 2 % is in green.[35]
+The following table shows the main economic indicators in 1980–2017. Inflation under 2 % is in green.[35]
 
 +------+-------------------+----------------+------------+----------------+--------------+-----------------+
 | Year | GDP               | GDP per capita | GDP growth | Inflation rate | Unemployment | Government debt |

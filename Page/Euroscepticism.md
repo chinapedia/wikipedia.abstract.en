@@ -14,7 +14,7 @@ While having some overlaps, Euroscepticism and anti-Europeanism are different. A
 
 Terminology
 
-"EUSSR"_flag.svg MEP |url=http://blogs.telegraph.co.uk/news/danielhannan/100185609/you-thought-the-whole-eussr-thing-was-over-the-top-have-a-look-at-this-poster/ |title=You thought the whole 'EUSSR' thing was over the top? Have a look at this poster |work=The Daily Telegraph |date=19 October 2012 |accessdate=20 September 2014}} among right-wing hard Eurosceptics who seek to match the EU to the USSR.]] There can be considered to be several different types of Eurosceptic thought, which differ in the extent to which adherents reject integration between member states of the European Union (EU) and in their reasons for doing so. Aleks Szczerbiak and Paul Taggart described two of these as hard and soft Euroscepticism.[33][34][35][36][37]
+MEP |url=http://blogs.telegraph.co.uk/news/danielhannan/100185609/you-thought-the-whole-eussr-thing-was-over-the-top-have-a-look-at-this-poster/ |title=You thought the whole 'EUSSR' thing was over the top? Have a look at this poster |work=The Daily Telegraph |date=19 October 2012 |accessdate=20 September 2014}} among right-wing hard Eurosceptics who seek to match the EU to the USSR.]] There can be considered to be several different types of Eurosceptic thought, which differ in the extent to which adherents reject integration between member states of the European Union (EU) and in their reasons for doing so. Aleks Szczerbiak and Paul Taggart described two of these as hard and soft Euroscepticism.[33][34][35][36][37]
 
 At the same time, some have claimed that there is no clear line between the presumed 'hard' and 'soft' Euroscepticism. Kopecky and Mudde have said that if the demarcation line is the number of and which policies a party opposes, then the question arises of how many must a party oppose and which ones should a party oppose that makes them 'hard' Eurosceptic instead of 'soft'.[38]
 
@@ -41,7 +41,7 @@ Some scholars consider the gradual difference in terminology between 'hard' and 
 
 Eurobarometer surveys
 
-Poll_about_perceived_EU_balance_benefit_(2018).svg Poll_about_remaining_or_leaving_EU_(2018).svg A survey in , conducted by TNS Opinion and Social on behalf of the European Commission, showed that, across the EU as a whole, those with a positive image of the EU are down from a high of 52% in 2007 to 37% in autumn 2015; this compares with 23% with a negative image of the EU, and 38% with a neutral image.[55] About 43% of Europeans thought things were "going in the wrong direction” in the EU, compared with 23% who thought things were going "in the right direction" (11% "don't know").[56] About 32% of EU citizens tend to trust the EU as an institution, and about 55% do not tend to trust it (13% "don't know").[57] Distrust of the EU was highest in Greece (81%), Cyprus (72%), Austria (65%), France (65%) and Germany, the United Kingdom (UK) and the Czech Republic (all 63%). Overall, more respondents distrusted their own government (66%) more than the EU (55%). Distrust of national government was highest in Greece (82%), Slovenia (80%), Portugal (79%), Cyprus (76%) and France (76%).[58]
+A survey in , conducted by TNS Opinion and Social on behalf of the European Commission, showed that, across the EU as a whole, those with a positive image of the EU are down from a high of 52% in 2007 to 37% in autumn 2015; this compares with 23% with a negative image of the EU, and 38% with a neutral image.[55] About 43% of Europeans thought things were "going in the wrong direction” in the EU, compared with 23% who thought things were going "in the right direction" (11% "don't know").[56] About 32% of EU citizens tend to trust the EU as an institution, and about 55% do not tend to trust it (13% "don't know").[57] Distrust of the EU was highest in Greece (81%), Cyprus (72%), Austria (65%), France (65%) and Germany, the United Kingdom (UK) and the Czech Republic (all 63%). Overall, more respondents distrusted their own government (66%) more than the EU (55%). Distrust of national government was highest in Greece (82%), Slovenia (80%), Portugal (79%), Cyprus (76%) and France (76%).[58]
 
 A Eurobarometer survey carried out four days prior to and six days after the U.S. presidential election in November 2016 revealed that the surprise victory of Donald Trump caused an increase in the popularity of the European Union in Europe. The increase was strongest among the political right and among respondents who perceived their country as economically struggling.[59]
 
@@ -81,7 +81,7 @@ In EU member states
 
 Austria
 
-Heinz-Christian_Strache_Sankt_Poelten_20080918d.jpg, leader of the Austrian hard Eurosceptic party FPÖ.]] The Freiheitliche Partei Österreichs (FPÖ), established in 1956, is a right-wing populist party that mainly attracts support from young people and workers.[65] In 1989, it changed its stance over the EU to Euroscepticism. It opposed Austria joining the EU in 1994, and opposed the introduction of the euro in 1998. The party would like to leave the EU if it threatens to develop into a country, or if Turkey joins. The FPÖ received 20–27% of the national vote in the 1990s, and more recently received 17.5% in 2008. Following the 2017 Austrian legislative election, it has 51/183 National Council seats, 16/62 Federal Council seats, and 4/19 European Parliament seats.
+, leader of the Austrian hard Eurosceptic party FPÖ.]] The Freiheitliche Partei Österreichs (FPÖ), established in 1956, is a right-wing populist party that mainly attracts support from young people and workers.[65] In 1989, it changed its stance over the EU to Euroscepticism. It opposed Austria joining the EU in 1994, and opposed the introduction of the euro in 1998. The party would like to leave the EU if it threatens to develop into a country, or if Turkey joins. The FPÖ received 20–27% of the national vote in the 1990s, and more recently received 17.5% in 2008. Following the 2017 Austrian legislative election, it has 51/183 National Council seats, 16/62 Federal Council seats, and 4/19 European Parliament seats.
 
 The Bündnis Zukunft Österreich (BZÖ), established in 2005, is a socially conservative party that has always held Eurosceptic elements. In 2011 the party openly supported leaving the eurozone, and in 2012 it announced that it supported a full withdrawal from the European Union.[66] The party has also called upon a referendum on the Lisbon Treaty.[67] In polls it currently receives around 10%–15%, although in one state it did receive 45% of the vote in 2009. Since the 2017 election, it has 0/183 National Council seats, 0/62 Federal Council seats, and 0/19 European Parliament seats.
 
@@ -124,7 +124,7 @@ Finally, the Worker's Party of Belgium is an electoral and unitary party. It als
 
 Bulgaria
 
-Volen_Siderov_ATAKA.jpg, leader of the Bulgarian Eurosceptic party Attack.]] EU_flag_down.jpg
+, leader of the Bulgarian Eurosceptic party Attack.]]
 
 Parties with mainly Eurosceptic views are Union of Communists in Bulgaria, NFSB, Attack, and VMRO – BND, which is a member of the Eurosceptic European Conservatives and Reformists). Bulgaria's Minister of Finance, Simeon Djankov, stated in 2011 that ERM II membership to enter the Euro zone would be postponed until after the Eurozone crisis had stabilised.[85]
 
@@ -144,7 +144,7 @@ In the 2019 European Parliament election, the Human Shield gained its first seat
 
 Czech Republic
 
-Vaclav_Klaus_headshot.jpg, former Eurosceptic President of the Czech Republic.]] In May 2010, the Czech president Václav Klaus claimed that they "needn't hurry to enter the Eurozone".[89]
+, former Eurosceptic President of the Czech Republic.]] In May 2010, the Czech president Václav Klaus claimed that they "needn't hurry to enter the Eurozone".[89]
 
 Petr Mach, an economist, a close associate of president Václav Klaus and a member of the Civic Democratic Party between 1997 and 2007, founded the Free Citizens Party in 2009. The party aims to mainly attract dissatisfied Civic Democratic Party voters.[90] At the time of the Lisbon Treaty ratification, they were actively campaigning against it, supported by the president Vaclav Klaus, who demanded opt-outs such as were granted to the United Kingdom and Poland,[91][92][93] unlike the governing Civic Democratic Party, who endorsed it in the Chamber of Deputies.[94] After the treaty has been ratified, Mach's party is in favour of withdrawing from the European Union completely.[95] In the 2014 European Parliament election, the Free Citizens Party won one mandate and allied with UKIP in the Europe of Freedom and Direct Democracy (EFD).
 
@@ -164,7 +164,7 @@ In the 2019 European Parliament election, there was little change politically - 
 
 Denmark
 
-Pia Kjærsgaard|thumb|150px|Pia Kjærsgaard, Speaker of the Parliament of Denmark; member (and former leader) of the hard Eurosceptic party Danish People's Party (Dansk Folkeparti), the second-largest represented in the Danish parliament and the most represented in the European Parliament. The People's Movement against the EU only takes part in European Parliament elections and has one member in the European Parliament. The soft Eurosceptic June Movement, originally a split-off from the People's Movement against the EU, existed from 1992 to 2009.
+The People's Movement against the EU only takes part in European Parliament elections and has one member in the European Parliament. The soft Eurosceptic June Movement, originally a split-off from the People's Movement against the EU, existed from 1992 to 2009.
 
 In the Danish Parliament, the Red-Green Alliance has withdrawal from the EU as a policy. The Danish People's Party also advocates withdrawal, but has claimed to support some EU structures such as the internal market, and supported the EU-positive Liberal-Conservative coalition between 2001 and 2011 and again from 2015 to present.
 
@@ -188,7 +188,7 @@ In the European Parliament election, 2019, the Finns Party increased their vote 
 
 France
 
-Le_Pen,_Marine-9586.jpg, prominent French MEP, former leader and former presidential candidate of the National Front (France) and of the Europe of Nations and Freedom group.]] In France there are multiple parties that are Eurosceptic to different degrees, varying from advocating less EU intervention in national affairs, to advocating outright withdrawal from the EU and the Eurozone. These parties belong to all sides of the political spectrum, so the reasons for their Euroscepticism may differ. In the past many French people appeared to be uninterested in such matters, with only 40% of the French electorate voting in the 2009 European Parliament elections.[102]
+, prominent French MEP, former leader and former presidential candidate of the National Front (France) and of the Europe of Nations and Freedom group.]] In France there are multiple parties that are Eurosceptic to different degrees, varying from advocating less EU intervention in national affairs, to advocating outright withdrawal from the EU and the Eurozone. These parties belong to all sides of the political spectrum, so the reasons for their Euroscepticism may differ. In the past many French people appeared to be uninterested in such matters, with only 40% of the French electorate voting in the 2009 European Parliament elections.[102]
 
 Right-wing Eurosceptic parties include the Gaullist _Debout la République_, and _Mouvement pour la France_, which was part of Libertas, a pan-European Eurosceptic party.[103] In the 2009 European Parliament elections, Debout la République received 1.77% of the national vote, and Libertas 4.8%. In a similar way to some moderate parties, the French right and far-right in general are naturally opposed to the EU, as they criticise France's loss of political and economic sovereignty to a supranational entity. Some of these hard Eurosceptic parties include the Popular Republican Union and the Front National (FN).[104] Front National and Popular Republican Union both seek France's withdrawal from the EU and the euro, although Popular Republican Union also seeks France's withdrawal from NATO. The FN received 33.9% of the votes in the 2017 French presidential election, making it the largest Eurosceptic party in France.
 
@@ -202,7 +202,7 @@ In the European Parliament election, 2019, the renamed National Rally won the el
 
 Germany
 
-Volksabstimmung_über_die_Eurorettung.JPG on saving the euro!" Poster from the party Alternative for Germany (AfD) regarding Germany's financial contributions during the Eurozone crisis]] The Alternative for Germany (AfD) is Germany's largest Eurosceptic party.[109] It has been elected into the German Parliament with 94 seats in September 2017.[110] Initially the AfD was a soft Eurosceptic party, that considered itself pro-Europe and pro-EU, but opposed the euro, which it believed had undermined European integration.[111]
+on saving the euro!" Poster from the party Alternative for Germany (AfD) regarding Germany's financial contributions during the Eurozone crisis]] The Alternative for Germany (AfD) is Germany's largest Eurosceptic party.[109] It has been elected into the German Parliament with 94 seats in September 2017.[110] Initially the AfD was a soft Eurosceptic party, that considered itself pro-Europe and pro-EU, but opposed the euro, which it believed had undermined European integration.[111]
 
 In the European Parliament election, 2014, the Alternative for Germany came 5th with 7% of the vote, winning 7 seats and is a member of the Eurosceptic European Conservatives and Reformists. The Alternative for Germany went on to take seats in three state legislatures in the Autumn of 2014.[112]
 
@@ -226,7 +226,7 @@ In the European Parliament election, 2019, the New Democracy movement, beat the 
 
 Hungary
 
-OrbanViktor_2011-01-07.jpg, Prime Minister of Hungary]] Viktor Orbán is the soft Eurosceptic[116] Prime Minister of Hungary for the national-conservative Fidesz Party. Another Eurosceptic party in Hungary is Jobbik, a radical, xenophobic and far-right party.
+, Prime Minister of Hungary]] Viktor Orbán is the soft Eurosceptic[116] Prime Minister of Hungary for the national-conservative Fidesz Party. Another Eurosceptic party in Hungary is Jobbik, a radical, xenophobic and far-right party.
 
 In Hungary 39% of the population have a positive image of the EU, 20% have a negative image, and 40% neutral (1% "Don't know").[117]
 
@@ -250,7 +250,7 @@ The strongly pro-European Fine Gael won the 2019 European election increasing th
 
 Italy
 
-Beppe_Grillo_3.jpg, leader of the Italian Five Star Movement, a Eurosceptic party.]] No_Euro_Day,_Milano_23_nov_2013_14.JPG with the Eurosceptic economist Claudio Borghi Aquilini during No Euro Day.|130px]] The Five Star Movement (M5S), an anti-establishment movement founded by the former comedian Beppe Grillo, is often considered a Eurosceptic party. The M5S received 25.5% of vote in the 2013 general election, becoming the largest anti-establishment and Eurosceptic party in Europe. The party also advocates a non-binding referendum on the withdrawal of Italy from the Eurozone (but not from the European Union) and the return to the lira.[136] The M5S's popular support is evenly distributed all across Italy, but in 2013 the party was particularly strong in Sicily, Liguria and Marche, where it gained more than 30% of the vote. Another Eurosceptic party is Lega Nord, a regionalist movement led by Matteo Salvini favouring Italy's exit from the Eurozone and the re-introduction of the lira. When in government, LN however approved the Treaty of Lisbon.[137] The party won 6.2% of the vote in the 2014 European Parliament elections, but two of its leading members are presidents of Lombardy and Veneto (where LN gained 40.9% of the vote in 2015).
+, leader of the Italian Five Star Movement, a Eurosceptic party.]] with the Eurosceptic economist Claudio Borghi Aquilini during No Euro Day.|130px]] The Five Star Movement (M5S), an anti-establishment movement founded by the former comedian Beppe Grillo, is often considered a Eurosceptic party. The M5S received 25.5% of vote in the 2013 general election, becoming the largest anti-establishment and Eurosceptic party in Europe. The party also advocates a non-binding referendum on the withdrawal of Italy from the Eurozone (but not from the European Union) and the return to the lira.[136] The M5S's popular support is evenly distributed all across Italy, but in 2013 the party was particularly strong in Sicily, Liguria and Marche, where it gained more than 30% of the vote. Another Eurosceptic party is Lega Nord, a regionalist movement led by Matteo Salvini favouring Italy's exit from the Eurozone and the re-introduction of the lira. When in government, LN however approved the Treaty of Lisbon.[137] The party won 6.2% of the vote in the 2014 European Parliament elections, but two of its leading members are presidents of Lombardy and Veneto (where LN gained 40.9% of the vote in 2015).
 
 In the European Parliament election, 2014 the Five Star Movement came second, with 17 seats and 21.2% of the vote after contesting EP seats for the first time. Lega Nord had five seats and The Other Europe with Tsipras had three seats.
 
@@ -280,7 +280,7 @@ The Labour Party was not in favour of Malta entering the European Union. However
 
 Netherlands
 
-Geert_Wilders_op_Prinsjesdag_2014_(cropped).jpg, leader of the Party for Freedom, a hardline Dutch Eurosceptic party and a prominent anti-Islamic radicalism party.]] Historically, the Netherlands have been a very pro-European country, being one of the six founding members of the European Coal and Steel Community in 1952, and campaigning with much effort to include the United Kingdom into the Community in the 1970s and others after that. It has become slightly more Eurosceptic in the 2000s, rejecting the European Constitution in 2005 and complaining about the relatively high financial investment into the Union or the democratic deficit amongst other issues.
+, leader of the Party for Freedom, a hardline Dutch Eurosceptic party and a prominent anti-Islamic radicalism party.]] Historically, the Netherlands have been a very pro-European country, being one of the six founding members of the European Coal and Steel Community in 1952, and campaigning with much effort to include the United Kingdom into the Community in the 1970s and others after that. It has become slightly more Eurosceptic in the 2000s, rejecting the European Constitution in 2005 and complaining about the relatively high financial investment into the Union or the democratic deficit amongst other issues.
 
 -   The nationalist Party for Freedom (founded in 2006) wants the Netherlands to leave the EU in its entirety, because it believes the EU is undemocratic, costs money and cannot close the borders for immigrants.[158]
 -   The Socialist Party believes the European Union has already brought Europe 50 years of peace and prosperity and argues that European co-operation is essential for tackling global problems like climate change and international crime. However, the SP opines that the current Union is dominated by the big businesses and the big countries, while the labour movement, consumer organisations and smaller companies are often left behind. "Neoliberal" measures have supposedly increased social inequality, and perhaps the Union is expanding too fast and taking on too much power in issues that should be dealt with on a national level.[159]
@@ -295,7 +295,7 @@ In the 2019 European Parliament election, eurosceptic parties had mixed results 
 
 Poland
 
-Uroczystość_odsłonięcia_tablicy_upamiętniającej_śp._Prezydenta_RP_Lecha_Kaczyńskiego_(4).jpg, Polish Prime Minister Mateusz Morawiecki and Jarosław Kaczyński, 9 April 2018]] Trumna_dla_rybaków2.jpg. Polish fishermen protest against the EU's prohibition of cod fishing on Polish ships.]] Parties with mainly Eurosceptic views are Liberty, Congress of the New Right, National Movement (together with Real Politics Union).
+, Polish Prime Minister Mateusz Morawiecki and Jarosław Kaczyński, 9 April 2018]] . Polish fishermen protest against the EU's prohibition of cod fishing on Polish ships.]] Parties with mainly Eurosceptic views are Liberty, Congress of the New Right, National Movement (together with Real Politics Union).
 
 Former president of Poland Lech Kaczyński resisted giving his signature on behalf of Poland to the Treaty of Lisbon, objecting specifically to the Charter of Fundamental Rights of the European Union. Subsequently, Poland got an opt-out from this charter. As Polish President, Kaczyński also opposed the Polish government's intentions to join the euro.[163][164]
 
@@ -329,13 +329,13 @@ Parties with mainly Eurosceptic views are Slovenian National Party and United Le
 
 Spain
 
-Santiago_Abascal_2015_(cropped).jpg, leader of Vox.]] The process of Europeanization changed during the years in Spain. In 1986 Spain entered in the European Community. Since then, Spain has been one of the most Europeanist countries. Therefore, when Spain became part of the European Community, the country had a strong pro-Europeanist feeling, according to Eurobarometer, as it reflected a 60% of the population.[169][170] In Spain different reasons explain its entrance to the European Community. On the one hand, Spain had the need to be recognized by Europe, as democracy has just been established after Francisco Franco dictatorship. On the other hand, the main objectives of Spain were to achieve economic development, but also a social modernization, which could only been achieved by entering the European Community.[171] Spain was one of the few countries to vote Yes for the European Constitution in a referendum in February 2005, though by a lower margin in Catalonia and the Basque Country.[172] In 2008, after the financial crisis reached Spain, the percentage of pro European persons started to fall. Thus, during the five years of the economic crisis, the Eurobarometer[173] shows how the trust in the EU increasingly fall in Spain, and the confidence of the Spanish citizens in the European Union fall for more than 50 points. Spain became one of the most eurosceptic countries among all European Union State Members, as it happened in pretty much European countries, where nationalist and eurosceptic characterised parties became stronger.[174][175]
+, leader of Vox.]] The process of Europeanization changed during the years in Spain. In 1986 Spain entered in the European Community. Since then, Spain has been one of the most Europeanist countries. Therefore, when Spain became part of the European Community, the country had a strong pro-Europeanist feeling, according to Eurobarometer, as it reflected a 60% of the population.[169][170] In Spain different reasons explain its entrance to the European Community. On the one hand, Spain had the need to be recognized by Europe, as democracy has just been established after Francisco Franco dictatorship. On the other hand, the main objectives of Spain were to achieve economic development, but also a social modernization, which could only been achieved by entering the European Community.[171] Spain was one of the few countries to vote Yes for the European Constitution in a referendum in February 2005, though by a lower margin in Catalonia and the Basque Country.[172] In 2008, after the financial crisis reached Spain, the percentage of pro European persons started to fall. Thus, during the five years of the economic crisis, the Eurobarometer[173] shows how the trust in the EU increasingly fall in Spain, and the confidence of the Spanish citizens in the European Union fall for more than 50 points. Spain became one of the most eurosceptic countries among all European Union State Members, as it happened in pretty much European countries, where nationalist and eurosceptic characterised parties became stronger.[174][175]
 
 The historical two-parties system, composed by the conservative Partido Popular and the democratic Partido Socialista Obrero Español, collapsed. In the 2000's, the moderate centre party Ciudadanos and leftist party Podemos became part of the political context, gaining electoral consensus, followed years later by far-right party Vox.[176] The new parties were the effect of the disaffection of most Spaniards towards politics and politicians, that increased for several reasons: firstly, corruption at all political levels, reaching the Royal Family too; secondly, recession intensified distrust of the population towards national government; thirdly, a phase of renovation of the autonomous regions which extended the distance between the National government and the Regional ones.[177] Candidatura d'Unitat Popular, a left-wing to far-left political party with about 1,300 members advocates independence for Catalonia outside of the European Union. Up to 2014 European elections, there are no Spanish parties present in the Eurosceptic groups at the European Parliament. In the 2019 Spanish general election, Vox became the first right-wing eurosceptic political party to win seats in the Congress of Deputies, obtaining 24 seats.
 
 Sweden
 
-EAP_demonstrerar_mot_EU_-_2008-05-01_-_2.jpg The Left Party of Sweden is against accession to the eurozone and wants Sweden to leave the European Union.[178]
+The Left Party of Sweden is against accession to the eurozone and wants Sweden to leave the European Union.[178]
 
 The right-wing populist party Sweden Democrats are also strongly against the Union but not to withdraw EEA and Schengen Agreement.[179]
 
@@ -349,7 +349,7 @@ In the European Parliament election, 2019, the Sweden Democrats increased from 2
 
 United Kingdom
 
-Nigel_Farage_(45718080574)_(cropped).jpg, Leader of the Brexit Party and co-leader of the Europe of Freedom and Direct Democracy group in the European Parliament. Farage is one of the most prominent Eurosceptic figures in the UK.]]
+, Leader of the Brexit Party and co-leader of the Europe of Freedom and Direct Democracy group in the European Parliament. Farage is one of the most prominent Eurosceptic figures in the UK.]]
 
 Euroscepticism in the United Kingdom has been a significant element in British politics since the inception of the European Economic Community (EEC), the predecessor to the EU. The European Union strongly divides the British public, political parties, media and civil society.[180]
 
@@ -392,7 +392,7 @@ Norway has rejected EU membership in two referendums, 1972 and 1994. The Centre 
 
 Russia
 
-Vladimir_Putin_14_February_2008-7.jpg Vladimir Putin is an outspoken Eurosceptic who has successfully promoted an alternative Economic Union with Armenia, Belarus, Kazakhstan and Kyrgyzstan – the Eurasian Economic Union.]]
+Vladimir Putin is an outspoken Eurosceptic who has successfully promoted an alternative Economic Union with Armenia, Belarus, Kazakhstan and Kyrgyzstan – the Eurasian Economic Union.]]
 
 Parties with mainly Eurosceptic views are the ruling United Russia, and opposition parties the Communist Party of the Russian Federation and Liberal Democratic Party of Russia.
 
@@ -430,7 +430,7 @@ Many left-wing nationalist and far-left parties hold no seats at parliament but 
 
 Ukraine
 
-Dmytro_Jarosh.jpg, leader of the Ukrainian hard Eurosceptic party Right Sector.]] Parties with mainly Eurosceptic views are Opposition Platform — For life, Communist Party of Ukraine and Right Sector.
+, leader of the Ukrainian hard Eurosceptic party Right Sector.]] Parties with mainly Eurosceptic views are Opposition Platform — For life, Communist Party of Ukraine and Right Sector.
 
 The far-right Ukrainian group Right Sector opposes joining the European Union. It regards the EU as an "oppressor" of European nations.[219]
 

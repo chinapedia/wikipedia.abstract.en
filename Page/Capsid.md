@@ -1,6 +1,6 @@
-CMVschema.svg]]
+]]
 
-Illustration_of_the_Caspar-Klug_model_for_viruses_(or_"Goldberg_Polyhedra"_or_"Geodesic_domes"_or_"Fullerenes").gif |volume=16 |issue=9 |pages=5944–5950 |doi=10.1021/acs.nanolett.6b02948 |pmid=27549001 |year=2016 |url=http://www.escholarship.org/uc/item/0hh6m30h }}]]
+|volume=16 |issue=9 |pages=5944–5950 |doi=10.1021/acs.nanolett.6b02948 |pmid=27549001 |year=2016 |url=http://www.escholarship.org/uc/item/0hh6m30h }}]]
 
 A CAPSID is the protein shell of a virus. It consists of several oligomeric structural subunits made of protein called protomers. The observable 3-dimensional morphological subunits, which may or may not correspond to individual proteins, are called capsomeres. The capsid encloses the genetic material of the virus.
 
@@ -17,7 +17,7 @@ Specific shapes
 
 Icosahedral
 
-Adenovirus_3D_schematic.png]] Virus_capsid_T_number.tif The icosahedral structure is extremely common among viruses. The icosahedron consists of 20 triangular faces delimited by 12 fivefold vertexes and consists of 60 asymmetric units. Thus, an icosahedral virus is made of 60N protein subunits. The number and arrangement of capsomeres in an icosahedral capsid can be classified using the "quasi-equivalence principle" proposed by Donald Caspar and Aaron Klug.[10] Like the Goldberg polyhedra, an icosahedral structure can be regarded as being constructed from pentamers and hexamers. The structures can be indexed by two integers _h_ and _k_, with h ≥ 1 and k ≥ 0; the structure can be thought of as taking _h_ steps from the edge of a pentamer, turning 60 degrees counterclockwise, then taking _k_ steps to get to the next pentamer. The triangulation number _T_ for the capsid is defined as:
+]] The icosahedral structure is extremely common among viruses. The icosahedron consists of 20 triangular faces delimited by 12 fivefold vertexes and consists of 60 asymmetric units. Thus, an icosahedral virus is made of 60N protein subunits. The number and arrangement of capsomeres in an icosahedral capsid can be classified using the "quasi-equivalence principle" proposed by Donald Caspar and Aaron Klug.[10] Like the Goldberg polyhedra, an icosahedral structure can be regarded as being constructed from pentamers and hexamers. The structures can be indexed by two integers _h_ and _k_, with h ≥ 1 and k ≥ 0; the structure can be thought of as taking _h_ steps from the edge of a pentamer, turning 60 degrees counterclockwise, then taking _k_ steps to get to the next pentamer. The triangulation number _T_ for the capsid is defined as:
 
 _T_ = _h_² + _h_ ⋅ _k_ + _k_²
 In this scheme, icosahedral capsids contain 12 pentamers plus 10(_T_ − 1) hexamers. [11][12] The _T_-number is representative of the size and complexity of the capsids.[13] Geometric examples for many values of _h_, _k_, and _T_ can be found at List of geodesic polyhedra and Goldberg polyhedra.
@@ -28,11 +28,9 @@ T-numbers can be represented in different ways, for example _T_ = 1 can only b
 
 Prolate
 
-PhageExterior.svg]] An elongated icosahedron is a common shape for the heads of bacteriophages. Such a structure is composed of a cylinder with a cap at either end. The cylinder is composed of 10 elongated triangular faces. The Q number (or T_(mid)), which can be any positive integer[16], specifies the number of triangles, composed of asymmetric subunits, that make up the 10 triangles of the cylinder. The caps are classified by the T (or T_(end)) number.[17]
+]] An elongated icosahedron is a common shape for the heads of bacteriophages. Such a structure is composed of a cylinder with a cap at either end. The cylinder is composed of 10 elongated triangular faces. The Q number (or T_(mid)), which can be any positive integer[16], specifies the number of triangles, composed of asymmetric subunits, that make up the 10 triangles of the cylinder. The caps are classified by the T (or T_(end)) number.[17]
 
 Helical
-
-Helical_capsid_with_RNA.png
 
 Many rod-shaped and filamentous plant viruses have capsids with helical symmetry.[18] The helical structure can be described as a set of _n_ 1-D molecular helices related by an _n_-fold axial symmetry.[19] The helical transformation are classified into two categories: one-dimensional and two-dimensional helical systems.[20] Creating an entire helical structure relies on a set of translational and rotational matrices which are coded in the protein data bank.[21] Helical symmetry is given by the formula _P_ = _μ_ x _ρ_, where _μ_ is the number of structural units per turn of the helix, _ρ_ is the axial rise per unit and _P_ is the pitch of the helix. The structure is said to be open due to the characteristic that any volume can be enclosed by varying the length of the helix.[22] The most understood helical virus is the tobacco mosaic virus.[23] The virus is a single molecule of (+) strand RNA. Each coat protein on the interior of the helix bind three nucleotides of the RNA genome. Influenza A viruses differ by comprising multiple ribonucleoproteins, the viral NP protein organizes the RNA into a helical structure. The size is also different the tobacco mosaic virus has a 16.33 protein subunits per helical turn,[24] while the influenza A virus has a 28 amino acid tail loop.
 

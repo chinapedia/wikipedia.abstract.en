@@ -5,7 +5,7 @@ The islands are among the most remote places on Earth: They are located approxim
 
 Geography
 
-Heard_Island_and_McDonald_Islands-CIA_WFB_Map.png Heard Island, by far the largest of the group, is a mountainous island covered by 41 glaciers[6] (the island is 80% covered with ice[7]) and dominated by the Big Ben massif. It has a maximum elevation of at Mawson Peak, the historically active volcanic summit of Big Ben. A July 2000 satellite image from the University of Hawaii's Institute of Geophysics and Planetology (HIGP) Thermal Alert Team showed an active and 50- to 90-metre-wide (164–295 ft) lava flow trending south-west from the summit of Big Ben.[8]
+Heard Island, by far the largest of the group, is a mountainous island covered by 41 glaciers[6] (the island is 80% covered with ice[7]) and dominated by the Big Ben massif. It has a maximum elevation of at Mawson Peak, the historically active volcanic summit of Big Ben. A July 2000 satellite image from the University of Hawaii's Institute of Geophysics and Planetology (HIGP) Thermal Alert Team showed an active and 50- to 90-metre-wide (164–295 ft) lava flow trending south-west from the summit of Big Ben.[8]
 
 The much smaller and rocky McDonald Islands are located to the west of Heard Island. They consist of McDonald Island ( high), Flat Island ( high) and Meyer Rock ( high). They total approximately in area, where McDonald Island is . There is a small group of islets and rocks about north of Heard Island, consisting of Shag Islet, Sail Rock, Morgan Island and Black Rock. They total about in area.
 
@@ -15,7 +15,7 @@ Heard Island and the McDonald Islands have no ports or harbours; ships must anch
 
 Climate
 
-Heard_Island_Karman_vortex_street.jpg as winds pass Heard Island resulted in this Kármán vortex street in the clouds]] The islands have an Antarctic climate, tempered by their maritime setting. The weather is marked by low seasonal and daily temperature ranges, persistent and generally low cloud cover, frequent precipitation and strong winds. Snowfall occurs throughout the year. Monthly average temperatures at Atlas Cove (at the northwestern end of Heard Island) range from , with an average daily range of in summer and in winter. The winds are predominantly westerly and persistently strong. At Atlas Cove, monthly average wind speeds range between around . Gusts in excess of have been recorded. Annual precipitation at sea level on Heard Island is in the order of ; rain or snow falls on about 3 out of 4 days.[13]
+as winds pass Heard Island resulted in this Kármán vortex street in the clouds]] The islands have an Antarctic climate, tempered by their maritime setting. The weather is marked by low seasonal and daily temperature ranges, persistent and generally low cloud cover, frequent precipitation and strong winds. Snowfall occurs throughout the year. Monthly average temperatures at Atlas Cove (at the northwestern end of Heard Island) range from , with an average daily range of in summer and in winter. The winds are predominantly westerly and persistently strong. At Atlas Cove, monthly average wind speeds range between around . Gusts in excess of have been recorded. Annual precipitation at sea level on Heard Island is in the order of ; rain or snow falls on about 3 out of 4 days.[13]
 
 Meteorological records at Heard Island are incomplete.
 
@@ -76,7 +76,7 @@ The main indigenous animals are insects along with large populations of ocean-go
 
 Mammals
 
-Sea-Elephant_Fishery_2_bis.jpgs on Heard Island – a 19th-century scene]] Sealing at Heard Island lasted from 1855 to 1910, during which time 67 sealing vessels are recorded visiting, nine of which were wrecked off the coast.[17] Relics that survive from that time include trypots, casks, hut ruins, graves and inscriptions. This caused the seal populations there to either become locally extinct or reduced to levels too low to exploit economically. Modern sealers visited from Cape Town in the 1920s.[18] Since then the populations have generally increased and are protected. Seals breeding on Heard include the southern elephant seal, the Antarctic fur seal and the subantarctic fur seal. Leopard seals visit regularly in winter to haul-out though they do not breed on the islands. Crabeater, Ross and Weddell seals are occasional visitors.[19]
+s on Heard Island – a 19th-century scene]] Sealing at Heard Island lasted from 1855 to 1910, during which time 67 sealing vessels are recorded visiting, nine of which were wrecked off the coast.[17] Relics that survive from that time include trypots, casks, hut ruins, graves and inscriptions. This caused the seal populations there to either become locally extinct or reduced to levels too low to exploit economically. Modern sealers visited from Cape Town in the 1920s.[18] Since then the populations have generally increased and are protected. Seals breeding on Heard include the southern elephant seal, the Antarctic fur seal and the subantarctic fur seal. Leopard seals visit regularly in winter to haul-out though they do not breed on the islands. Crabeater, Ross and Weddell seals are occasional visitors.[19]
 
 Birds
 
@@ -123,7 +123,7 @@ The wetlands provide important breeding and feeding habitat for a number of Anta
 
 History
 
-FMIB_46007_Antarctic_Sea-Elephant_Fishery.jpeg[27]]] Neither island-cluster had recorded visitors until the mid-1850s. Peter Kemp, a British sailor, may have become the first person to see the island. On 27 November 1833, he spotted it from the brig _Magnet_ during a voyage from the Kerguelen Islands to the Antarctic and was believed to have entered the island on his 1833 chart.
+[27]]] Neither island-cluster had recorded visitors until the mid-1850s. Peter Kemp, a British sailor, may have become the first person to see the island. On 27 November 1833, he spotted it from the brig _Magnet_ during a voyage from the Kerguelen Islands to the Antarctic and was believed to have entered the island on his 1833 chart.
 
 An American sailor, Captain John Heard, on the ship _Oriental_, sighted Heard Island on 25 November 1853, en route from Boston to Melbourne. He reported the discovery one month later and had the island named after him. Captain William McDonald aboard the _Samarang_ discovered the nearby McDonald Islands six weeks later, on 4 January 1854.[28]
 
@@ -142,7 +142,7 @@ In 1991, the islands were the location for the Heard Island feasibility test, an
 
 Administration and economy
 
-(The_abode_of_science_on_Heard_Island,_BANZARE,_1929)_(6173425701).jpg The United Kingdom formally established its claim to Heard Island in 1910, marked by the raising of the Union Flag and the erection of a beacon by Captain Evensen, master of the _Mangoro_. Effective government, administration and control of Heard Island and the McDonald Islands was transferred to the Australian government on 26 December 1947 at the commencement of the first Australian National Antarctic Research Expedition (ANARE) to Heard Island, with a formal declaration that took place at Atlas Cove. The transfer was confirmed by an exchange of letters between the two governments on 19 December 1950.
+The United Kingdom formally established its claim to Heard Island in 1910, marked by the raising of the Union Flag and the erection of a beacon by Captain Evensen, master of the _Mangoro_. Effective government, administration and control of Heard Island and the McDonald Islands was transferred to the Australian government on 26 December 1947 at the commencement of the first Australian National Antarctic Research Expedition (ANARE) to Heard Island, with a formal declaration that took place at Atlas Cove. The transfer was confirmed by an exchange of letters between the two governments on 19 December 1950.
 
 The islands are a territory (Territory of Heard Island and McDonald Islands) of Australia administered from Hobart by the Australian Antarctic Division of the Australian Department of the Environment and Energy. The administration of the territory is established in the _Heard Island and McDonald Islands Act 1953_, which places it under the laws of the Australian Capital Territory and the jurisdiction of the Supreme Court of the Australian Capital Territory.[35] The islands are contained within a marine reserve and are primarily visited for research, meaning that there is no permanent human habitation.[36]
 

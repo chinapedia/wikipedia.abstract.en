@@ -27,7 +27,7 @@ In medieval times, _fiddle_ also referred to a predecessor of today's violin. Li
 
 Ensembles
 
-Musiciens_pub_Gus_O'Connor-Doolin.JPG In performance, a solo fiddler, or one or two with a group of other instrumentalists, is the norm, though twin fiddling is represented in some North American, Scandinavian, Scottish and Irish styles. Following the folk revivals of the second half of the 20th century, however, it has become common for less formal situations to find large groups of fiddlers playing together—see for example the Calgary Fiddlers, Swedish Spelmanslag folk-musician clubs, and the worldwide phenomenon of Irish sessions.[13][14]
+In performance, a solo fiddler, or one or two with a group of other instrumentalists, is the norm, though twin fiddling is represented in some North American, Scandinavian, Scottish and Irish styles. Following the folk revivals of the second half of the 20th century, however, it has become common for less formal situations to find large groups of fiddlers playing together—see for example the Calgary Fiddlers, Swedish Spelmanslag folk-musician clubs, and the worldwide phenomenon of Irish sessions.[13][14]
 
 Orchestral violins, on the other hand, are commonly grouped in sections, or "chairs". These contrasting traditions may be vestiges of historical performance settings: large concert halls where violins were played required more instruments, before electronic amplification, than did more intimate dance halls and houses that fiddlers played in.
 
@@ -85,8 +85,6 @@ Nordic countries
 
 Continental Europe
 
-KLEZPO.png
-
 -   Austrian fiddling
 -   French fiddling, including an old tradition from Corrèze and a revived one from Brittany
 -   Hungarian folk music traditions
@@ -100,7 +98,7 @@ Americas
 
 United States
 
-Peter_Stampfel_08.jpg from The Holy Modal Rounders]] American fiddling, a broad category including traditional and modern styles
+from The Holy Modal Rounders]] American fiddling, a broad category including traditional and modern styles
 
 Traditional
 
@@ -115,7 +113,7 @@ Traditional
     -   Athabaskan fiddling of the Interior Alaska.
     -   Midwestern fiddling, highly influenced by Scandinavian music.
     -   Ozarks fiddling, faster and crisper bowing than Appalachia.
-    -   Texas fiddling, with influences from Mexican fiddling and an emphasis on competitive playing.Kenny_Baker-fiddle.jpg]]
+    -   Texas fiddling, with influences from Mexican fiddling and an emphasis on competitive playing.]]
     -   New England fiddling, with strong influences from Québécois/French Canadian and British repertoires.
     -   Northwest fiddling, with influences from both Ozark and Midwestern fiddle styles, though with a strong emphasis on competitive playing like Texas fiddling.
 
@@ -167,7 +165,7 @@ Related instruments
 
 Variants
 
-Apachefiddler.jpg musician playing the Apache fiddle, 1886[29]]]
+musician playing the Apache fiddle, 1886[29]]]
 
 -   Hardanger fiddle
 -   Stroh violin or phonofiddle, known in Romanian as _Vioara cu goarnă_.
@@ -183,8 +181,6 @@ Near relations
 -   Viola
 
 Distant relations
-
-Vaxholm_8556_(1158877619).jpg
 
 -   Apache fiddle
 -   Byzantine lyra, the medieval bowed instrument of the Byzantine Empire

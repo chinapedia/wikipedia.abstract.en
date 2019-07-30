@@ -1,5 +1,3 @@
-cache,basic.svg
-
 In computing, a CACHE ( ,[1] or in AuE[2]) is a hardware or software component that stores data so that future requests for that data can be served faster; the data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere. A _cache hit_ occurs when the requested data can be found in a cache, while a _cache miss_ occurs when it cannot. Cache hits are served by reading data from the cache, which is faster than recomputing a result or reading from a slower data store; thus, the more requests that can be served from the cache, the faster the system performs.
 
 To be cost-effective and to enable efficient use of data, caches must be relatively small. Nevertheless, caches have proven themselves in many areas of computing, because typical computer applications access data with a high degree of locality of reference. Such access patterns exhibit temporal locality, where data is requested that has been recently requested already, and spatial locality, where data is requested that is stored physically close to data that has already been requested.
@@ -33,8 +31,6 @@ The alternative situation, when the cache is checked and found not to contain an
 During a cache miss, some other previously existing cache entry is removed in order to make room for the newly retrieved data. The heuristic used to select the entry to replace is known as the replacement policy. One popular replacement policy, "least recently used" (LRU), replaces the oldest entry, the entry that was accessed less recently than any other entry (see cache algorithm). More efficient caching algorithms compute the use-hit frequency against the size of the stored contents, as well as the latencies and throughputs for both the cache and the backing store. This works well for larger amounts of data, longer latencies, and slower throughputs, such as that experienced with hard drives and networks, but is not efficient for use within a CPU cache.
 
 Writing policies
-
-Write-through_with_no-write-allocation.svg Write-back_with_write-allocation.svg
 
 When a system writes data to cache, it must at some point write that data to the backing store as well. The timing of this write is controlled by what is known as the _write policy_. There are two basic writing approaches:[3]
 

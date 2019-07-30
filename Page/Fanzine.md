@@ -1,4 +1,4 @@
-Fanzines.jpg A FANZINE (blend of _fan_ and _magazine_ or _-zine_) is a non-professional and non-official publication produced by enthusiasts of a particular cultural phenomenon (such as a literary or musical genre) for the pleasure of others who share their interest. The term was coined in an October 1940 science fiction fanzine by Russ Chauvenet and first popularized within science fiction fandom, and from there it was adopted by other communities.
+A FANZINE (blend of _fan_ and _magazine_ or _-zine_) is a non-professional and non-official publication produced by enthusiasts of a particular cultural phenomenon (such as a literary or musical genre) for the pleasure of others who share their interest. The term was coined in an October 1940 science fiction fanzine by Russ Chauvenet and first popularized within science fiction fandom, and from there it was adopted by other communities.
 
 Typically, publishers, editors, writers and other contributors of articles or illustrations to fanzines are not paid. Fanzines are traditionally circulated free of charge, or for a nominal cost to defray postage or production expenses. Copies are often offered in exchange for similar publications, or for contributions of art, articles, or letters of comment (LoCs), which are then published.
 
@@ -54,7 +54,7 @@ At times, the professional comics publishers have made overtures to fandom via '
 
 Horror film
 
-Horrors_of_the_Screen_3_fanzine_cover_1964.jpg As with comics zines, horror film fanzines grew from related interest within science fiction fan publications. _Trumpet,_ edited by Tom Reamy, was a 1960s SF zine that branched into horror film coverage. Alex Soma's _Horrors of the Screen,_[16] Calvin T. Beck's _Journal of Frankenstein_ (later _Castle of Frankenstein_) and Gary Svehla's _Gore Creatures_ were the first horror fanzines created as more serious alternatives to the popular Forrest J Ackerman 1958 magazine _Famous Monsters of Filmland._ _Gore Creatures_ began in 1961 and continues today as the prozine (and specialty publisher) _Midnight Marquee._[17] _Garden Ghouls Gazette_ – a 1960s horror title under the editorship of Dave Keil, then Gary Collins—was eventually headed by the late Frederick S. Clarke (1949-2000) and in 1967 became the respected journal _Cinefantastique._ It later became a prozine under journalist-screenwriter Mark A. Altman and has continued as a webzine.[18]
+As with comics zines, horror film fanzines grew from related interest within science fiction fan publications. _Trumpet,_ edited by Tom Reamy, was a 1960s SF zine that branched into horror film coverage. Alex Soma's _Horrors of the Screen,_[16] Calvin T. Beck's _Journal of Frankenstein_ (later _Castle of Frankenstein_) and Gary Svehla's _Gore Creatures_ were the first horror fanzines created as more serious alternatives to the popular Forrest J Ackerman 1958 magazine _Famous Monsters of Filmland._ _Gore Creatures_ began in 1961 and continues today as the prozine (and specialty publisher) _Midnight Marquee._[17] _Garden Ghouls Gazette_ – a 1960s horror title under the editorship of Dave Keil, then Gary Collins—was eventually headed by the late Frederick S. Clarke (1949-2000) and in 1967 became the respected journal _Cinefantastique._ It later became a prozine under journalist-screenwriter Mark A. Altman and has continued as a webzine.[18]
 
 Mark Frank's _Photon_—notable for the inclusion of an 8x10 photo in each issue—was another 1960s zine that lasted into the 1970s.[19] Richard Klemensen's _Little Shoppe of Horrors_,[20] having a particular focus on "Hammer Horrors," began in 1972 and is still publishing as of 2019.
 
@@ -71,8 +71,6 @@ In the post-punk era several well-written fanzines emerged that cast an almost a
 In the 1980s, with the rise of stadium superstars, many home-grown rock fanzines emerged. At the peak of Bruce Springsteen's megastardom following the _Born in the U.S.A._ album and Born in the U.S.A. Tour in the mid-1980s, there were no less than five Springsteen fanzines circulating at the same time in the UK alone, and many others elsewhere. Gary Desmond's _Candy's Room_, coming from Liverpool, was the first in 1980, quickly followed by Dan French's _Point Blank_, Dave Percival's _The Fever_, Jeff Matthews' _Rendezvous_, and Paul Limbrick's _Jackson Cage_. In the US, _Backstreets Magazine_ started in Seattle in 1980 and still continues today as a glossy publication, now in communication with Springsteen's management and official website. In the late 1990s, notorious fanzines and e-zines flourished about electronic and post-rock music. _Crème Brûlée_ fanzine was one of those that documented post-rock genre and experimental music.
 
 Punk
-
-1970s_fanzines_(21224199545).jpg
 
 UK
 

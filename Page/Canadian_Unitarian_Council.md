@@ -5,8 +5,6 @@ The CUC is currently the only national body for Unitarian Universalist congregat
 
 Organization
 
-CUC_Regions_Map.jpg
-
 The CUC is made up of 46 member congregations and emerging groups,[1] who are the legal owners of the organization, and who are, for governance and service delivery, divided into four regions: "BC" (British Columbia), "Western" (Alberta to Thunder Bay), "Central" (between Thunder Bay and Kingston), and "Eastern" (Kingston, Ottawa and everything east of that).[2] However, for youth ministry, the "Central" and "Eastern" regions are combined to form a youth region known as "QuOM" (Quebec, Ontario and the Maritimes), giving the youth only three regions for their activities.[3] The organization as a whole is governed by the CUC Board of Trusties (Board),[4] whose mandate it is to govern in the best interests of the CUC's owners. The Board is made up of 8 members who are elected by congregational delegates at the CUC's Annual General Meeting. This consists of two Trustees from each region, who are eligible to serve a maximum of two three-year terms. Board meetings also include Official Observers to the Board, who participate without a vote and represent UU Youth and Ministers.
 
 Service delivery

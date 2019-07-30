@@ -1,5 +1,3 @@
-Cow_lying_on_side.jpg
-
 COW TIPPING is the purported activity of sneaking up on any unsuspecting or sleeping upright cow and pushing it over for entertainment. The practice of cow tipping is generally considered an urban legend,[1] and stories of such feats viewed as tall tales.[2] The implication that rural citizens seek such entertainment due to lack of alternatives is viewed as a stereotype.[3][4] The concept of cow tipping apparently developed in the 1970s, though tales of animals that cannot rise if they fall has historical antecedents dating to the Roman Empire.
 
 Cows routinely lie down and can easily regain their footing unless sick or injured. Scientific studies have been conducted to determine if cow tipping is theoretically possible, with varying conclusions. All agree that cows are large animals that are difficult to surprise and will generally resist attempts to be tipped. Estimates suggest a force of between is needed, and that at least four and possibly as many as fourteen people would be required to achieve this. In real-life situations where cattle have to be laid on the ground, or "cast", such as for branding, hoof care or veterinary treatment, either rope restraints are required or specialized mechanical equipment is used that confines the cow and then tips it over. On rare occasions, cattle can lie down or fall down in proximity to a ditch or hill that restricts their normal ability to rise without help. Cow tipping has many references in popular culture and is also used as a figure of speech.
@@ -7,7 +5,7 @@ Cows routinely lie down and can easily regain their footing unless sick or injur
 
 Scientific study
 
-Cow_lying_on_side_in_field.jpg The urban legend of cow tipping relies upon the presumption that cattle are slow-moving, dim-witted, and weak-legged, thus easily pushed over without much force. Some versions suggest that because cows sleep standing up, it is possible to approach them and push them over without the animals reacting.[5] However, cows only sleep lightly while standing up, and they are easily awakened.[6] They lie down to sleep deeply.[7] Furthermore, numerous sources have questioned the practice's feasibility, since most cows weigh over half a ton and easily resist any lesser force.[8][9]
+The urban legend of cow tipping relies upon the presumption that cattle are slow-moving, dim-witted, and weak-legged, thus easily pushed over without much force. Some versions suggest that because cows sleep standing up, it is possible to approach them and push them over without the animals reacting.[5] However, cows only sleep lightly while standing up, and they are easily awakened.[6] They lie down to sleep deeply.[7] Furthermore, numerous sources have questioned the practice's feasibility, since most cows weigh over half a ton and easily resist any lesser force.[8][9]
 
 A 2005 study led by Margo Lillie, a zoologist at the University of British Columbia, and her student Tracy Boechler, concluded that tipping a cow would require a force of nearly [10] and is therefore impossible to accomplish by a single person. Her calculations found that it would require more than four people to apply enough force to push over a cow,[11] based on an estimate that a single person could exert of force. However, since a cow can brace itself, Lillie and Boechler suggested that five or six people would, most likely, be needed.[12] Further, cattle are well aware of their surroundings and are very difficult to surprise, due to excellent senses of both smell and hearing.[13][14] Lillie and Boechler's analysis found that if a cow did not move, the principles of static physics suggest that two people might be able to tip a cow if its centre of mass were pushed over its hooves before the cow could react. However, cows are not rigid or unresponsive, and the faster humans have to move, the less force they can exert. Thus Lillie and Boechler concluded that it is unlikely that cows can actually be tipped over in this way.[15] Lillie stated, "It just makes the physics of it all, in my opinion, impossible."[16]
 
@@ -24,8 +22,6 @@ Journalist Jake Steelhammer believes the American urban myth of cow tipping orig
 
 
 Veterinary and husbandry practices
-
-Calf_cradle.JPG
 
 Cattle may need to be deliberately thrown or tipped over for certain types of husbandry practices and medical treatment. When done for medical purposes, this is often called "casting", and when performed without mechanical assistance requires the attachment of of rope around the body and legs of the animal. After the rope is secured by non-slip bowline knots, it is pulled to the rear until the animal is off-balance. Once the cow is forced to lie down in sternal recumbency (on its chest), it can be rolled onto its side and its legs tied to prevent kicking.[29][30]
 
@@ -46,7 +42,7 @@ Dead animals may appear to have been tipped over. But this is actually the proce
 
 In popular culture
 
-Cow_tipping_creamery.jpg]]
+]]
 
 Assorted individuals have claimed to have performed cow tipping,[45] often while under the influence of alcohol.[46] These claims, to date, cannot be reliably verified,[47] with Jake Swearingen of _Modern Farmer_ noting in 2013 that YouTube, a popular source of videos of challenges and stunts, "fails to deliver one single actual cow-tipping video".[48]
 

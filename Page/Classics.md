@@ -1,4 +1,4 @@
-Homeros_Caetani_Louvre_Ma440_n2.jpg, the ancient Greek epic poet]] CLASSICS or CLASSICAL STUDIES is the study of classical antiquity. It encompasses the study of the Greco-Roman world, particularly of its languages and literature (Ancient Greek and Classical Latin) but also of Greco-Roman philosophy, history, and archaeology. Traditionally in the West, the study of the Greek and Roman classics is considered one of the cornerstones of the humanities and a fundamental element of a rounded education. The study of classics has therefore traditionally been a cornerstone of a typical elite education.
+, the ancient Greek epic poet]] CLASSICS or CLASSICAL STUDIES is the study of classical antiquity. It encompasses the study of the Greco-Roman world, particularly of its languages and literature (Ancient Greek and Classical Latin) but also of Greco-Roman philosophy, history, and archaeology. Traditionally in the West, the study of the Greek and Roman classics is considered one of the cornerstones of the humanities and a fundamental element of a rounded education. The study of classics has therefore traditionally been a cornerstone of a typical elite education.
 
 Study encompasses specifically a time-period of history from the mid-2nd millennium BC to the 6th century AD.[1]
 
@@ -12,7 +12,7 @@ History
 
 Middle Ages
 
-Catullus,_Itally.jpg In the Middle Ages, classics and education were tightly intertwined; according to Jan Ziolkowski, there is no era in history in which the link was tighter.[6] Medieval education taught students to imitate earlier classical models,[7] and Latin continued to be the language of scholarship and culture, despite the increasing difference between literary Latin and the vernacular languages of Europe during the period.[8]
+In the Middle Ages, classics and education were tightly intertwined; according to Jan Ziolkowski, there is no era in history in which the link was tighter.[6] Medieval education taught students to imitate earlier classical models,[7] and Latin continued to be the language of scholarship and culture, despite the increasing difference between literary Latin and the vernacular languages of Europe during the period.[8]
 
 While Latin was hugely influential, however, Greek was barely studied, and Greek literature survived almost solely in Latin translation.[9] The works of even major Greek authors such as Hesiod, whose names continued to be known by educated Europeans, were unavailable in the Middle Ages.[10] In the thirteenth century, the English philosopher Roger Bacon wrote that "there are not four men in Latin Christendom who are acquainted with the Greek, Hebrew, and Arabic grammars."[11]
 
@@ -47,13 +47,13 @@ One of the most notable characteristics of the modern study of classics is the d
 
 Philology
 
-Friedrich_August_Wolf_-_Imagines_philologorum.jpg was the author of _Prolegomena to Homer_, one of the first great works of classical philology.]] Philology is the study of language preserved in written sources; CLASSICAL PHILOLOGY is thus concerned with understanding any texts from the classical period written in the classical languages of Latin and Greek.[40] The roots of classical philology lie in the Renaissance, as humanist intellectuals attempted to return to the Latin of the classical period, especially of Cicero,[41] and as scholars attempted to produce more accurate editions of ancient texts.[42] Some of the principles of philology still used today developed during this period. For instance, the observation that if a manuscript could be shown to be a copy of an earlier extant manuscript, then it provides no further evidence of the original text, was made as early as 1489 by Angelo Poliziano.[43] Other philological tools took longer to be developed: the first statement, for instance, of the principle that a more difficult reading should be preferred over a simpler one, was in 1697 by Jean Le Clerc.[44]
+was the author of _Prolegomena to Homer_, one of the first great works of classical philology.]] Philology is the study of language preserved in written sources; CLASSICAL PHILOLOGY is thus concerned with understanding any texts from the classical period written in the classical languages of Latin and Greek.[40] The roots of classical philology lie in the Renaissance, as humanist intellectuals attempted to return to the Latin of the classical period, especially of Cicero,[41] and as scholars attempted to produce more accurate editions of ancient texts.[42] Some of the principles of philology still used today developed during this period. For instance, the observation that if a manuscript could be shown to be a copy of an earlier extant manuscript, then it provides no further evidence of the original text, was made as early as 1489 by Angelo Poliziano.[43] Other philological tools took longer to be developed: the first statement, for instance, of the principle that a more difficult reading should be preferred over a simpler one, was in 1697 by Jean Le Clerc.[44]
 
 The modern discipline of classical philology began in Germany at the turn of the nineteenth century.[45] It was during this period that scientific principles of philology began to be put together into a coherent whole,[46] in order to provide a set of rules by which scholars could determine which manuscripts were most accurate.[47] This "new philology", as it was known, centred around the construction of a genealogy of manuscripts, with which a hypothetical common ancestor, closer to the original text than any existing manuscript, could be reconstructed.[48]
 
 Archaeology
 
-Lion_Gate_Mykene_with_Wilhelm_Dörpfeld_and_Heinrich_Schliemann.jpg Classical archaeology is the oldest branch of archaeology,[49] with its roots going back to J.J. Winckelmann's work on Herculaneum in the 1760s.[50] It was not until the last decades of the 19th century, however, that classical archaeology became part of the tradition of Western classical scholarship.[51] It was included as part of Cambridge University's Classical Tripos for the first time after the reforms of the 1880s, though it did not become part of Oxford's Greats until much later.[52]
+Classical archaeology is the oldest branch of archaeology,[49] with its roots going back to J.J. Winckelmann's work on Herculaneum in the 1760s.[50] It was not until the last decades of the 19th century, however, that classical archaeology became part of the tradition of Western classical scholarship.[51] It was included as part of Cambridge University's Classical Tripos for the first time after the reforms of the 1880s, though it did not become part of Oxford's Greats until much later.[52]
 
 The second half of the 19th century saw Schliemann's excavations of Troy and Mycenae; the first excavations at Olympia and Delos; and Arthur Evans' work in Crete, particularly on Knossos.[53] This period also saw the foundation of important archaeological associations (e.g. the Archaeological Institute of America in 1879),[54] including many foreign archaeological institutes in Athens and Rome (the American School of Classical Studies at Athens in 1881, British School at Athens in 1886, American Academy in Rome in 1895, and British School at Rome in 1900).[55]
 
@@ -90,8 +90,6 @@ Classical Greek culture had a powerful influence on the Roman Empire, which carr
 
 Language
 
-AncientGreekDialects_(Woodard)_en.svg
-
 Ancient Greek is the historical stage in the development of the Greek language spanning the Archaic (c. 8th to 6th centuries BC), Classical (c. 5th to 4th centuries BC), and Hellenistic (c. 3rd century BC to 6th century AD) periods of ancient Greece and the ancient world. It is predated in the 2nd millennium BC by Mycenaean Greek. Its Hellenistic phase is known as Koine ("common") or Biblical Greek, and its late period mutates imperceptibly into Medieval Greek. Koine is regarded as a separate historical stage of its own, although in its earlier form it closely resembles Classical Greek. Prior to the Koine period, Greek of the classical and earlier periods included several regional dialects.
 
 Ancient Greek was the language of Homer and of classical Athenian historians, playwrights, and philosophers. It has contributed many words to the vocabulary of English and many other European languages, and has been a standard subject of study in Western educational institutions since the Renaissance. Latinized forms of Ancient Greek roots are used in many of the scientific names of species and in other scientific terminology.
@@ -116,7 +114,7 @@ Many Greek people recognized the major gods and goddesses: Zeus, Poseidon, Hades
 
 Philosophy
 
-Socrates_Louvre.jpg.]]
+.]]
 
 The earliest surviving philosophy from ancient Greece dates back to the 6th century BC, when according to Aristotle Thales of Miletus was considered to have been the first Greek philosopher.[85] Other influential pre-Socratic philosophers include Pythagoras and Heraclitus. The most famous and significant figures in classical Athenian philosophy, from the 5th to the 3rd centuries BC, are Socrates, his student Plato, and Aristotle, who studied at Plato's Academy before founding his own school, known as the Lyceum. Later Greek schools of philosophy, including the Cynics, Stoics, and Epicureans, continued to be influential after the Roman annexation of Greece, and into the post-Classical world.
 
@@ -127,7 +125,7 @@ Classical Rome
 
 Language
 
-Praeneste_fibula.JPG is believed to bear the oldest known Latin inscription. The inscription means "Manius made me for Numerius".]] The language of ancient Rome was Latin, a member of the Italic family of languages. The earliest surviving inscription in Latin comes from the 7th century BC, on a brooch from Palestrina. Latin from between this point and the early 1st century BC is known as Old Latin. Most surviving Latin literature is Classical Latin, from the 1st century BC to the 2nd century AD. Latin then evolved into Late Latin, in use during the late antique period. Late Latin survived long after the end of classical antiquity, and was finally replaced by written Romance languages around the 9th century AD. Along with literary forms of Latin, there existed various vernacular dialects, generally known as Vulgar Latin, in use throughout antiquity. These are mainly preserved in sources such as graffiti and the Vindolanda tablets.
+is believed to bear the oldest known Latin inscription. The inscription means "Manius made me for Numerius".]] The language of ancient Rome was Latin, a member of the Italic family of languages. The earliest surviving inscription in Latin comes from the 7th century BC, on a brooch from Palestrina. Latin from between this point and the early 1st century BC is known as Old Latin. Most surviving Latin literature is Classical Latin, from the 1st century BC to the 2nd century AD. Latin then evolved into Late Latin, in use during the late antique period. Late Latin survived long after the end of classical antiquity, and was finally replaced by written Romance languages around the 9th century AD. Along with literary forms of Latin, there existed various vernacular dialects, generally known as Vulgar Latin, in use throughout antiquity. These are mainly preserved in sources such as graffiti and the Vindolanda tablets.
 
 Literature
 

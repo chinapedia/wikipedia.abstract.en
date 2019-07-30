@@ -1,4 +1,4 @@
-USS_Port_Royal_CG-73.jpg cruiser, launched in 1992]] RIAN_archive_395186_Russia_will_celebrate_Pacific_Fleet_Day_on_May_21._The_Guards_guided-missile_cruiser_Varyag_underway_at_sea.jpg in the Pacific Ocean]]
+cruiser, launched in 1992]] in the Pacific Ocean]]
 
 A CRUISER is a type of warship. Modern cruisers are generally the largest ships in a fleet after aircraft carriers and amphibious assault ships, and can usually perform several roles.
 
@@ -26,7 +26,7 @@ During the 19th century, navies began to use steam power for their fleets. The 1
 
 The 1860s saw the introduction of the ironclad. The first ironclads were frigates, in the sense of having one gun deck; however, they were also clearly the most powerful ships in the navy, and were principally to serve in the line of battle. In spite of their great speed, they would have been wasted in a cruising role.[5]
 
-The French constructed a number of smaller ironclads for overseas cruising duties, starting with the , commissioned 1865. These "station ironclads" were the beginning of the development of the armored cruisers, a type of ironclad specifically for the traditional cruiser missions of fast, independent raiding and patrol. HMS_Shannon_(1875).jpg The first true armored cruiser was the Russian , completed in 1874, and followed by the British a few years later.
+The French constructed a number of smaller ironclads for overseas cruising duties, starting with the , commissioned 1865. These "station ironclads" were the beginning of the development of the armored cruisers, a type of ironclad specifically for the traditional cruiser missions of fast, independent raiding and patrol. The first true armored cruiser was the Russian , completed in 1874, and followed by the British a few years later.
 
 Until the 1890s armored cruisers were still built with masts for a full sailing rig, to enable them to operate far from friendly coaling stations.[6]
 
@@ -34,8 +34,6 @@ Unarmored cruising warships, built out of wood, iron, steel or a combination of 
 
 
 Steel cruisers
-
-Croiseur_Aurore.png
 
 In the 1880s, naval engineers began to use steel as a material for construction and armament. A steel cruiser could be lighter and faster than one built of iron or wood. The _Jeune Ecole_ school of naval doctrine suggested that a fleet of fast unprotected steel cruisers were ideal for commerce raiding, while the torpedo boat would be able to destroy an enemy battleship fleet.
 
@@ -60,13 +58,11 @@ Shortly after the turn of the 20th century there were difficult questions about 
 
 Battle cruisers
 
-LionSP_001672.jpg
-
 The growing size and power of the armored cruiser resulted in the battlecruiser, with an armament and size similar to the revolutionary new dreadnought battleship; the brainchild of British admiral Jackie Fisher. He believed that to ensure British naval dominance in its overseas colonial possessions, a fleet of large, fast, powerfully armed vessels which would be able to hunt down and mop up enemy cruisers and armored cruisers with overwhelming fire superiority was needed. They were equipped with the same gun types as battleships, though usually with fewer guns, and were intended to engage enemy capital ships as well. This type of vessel came to be known as the _battlecruiser_, and the first were commissioned into the Royal Navy in 1907. The British battlecruisers sacrificed protection for speed, as they were intended to "choose their range" (to the enemy) with superior speed and only engage the enemy at long range. When engaged at moderate ranges, the lack of protection combined with unsafe ammunition handling practices became tragic with the loss of three of them at the Battle of Jutland. Germany and eventually Japan followed suit to build these vessels, replacing armored cruisers in most frontline roles. German battlecruisers were generally better protected but slower than British battlecruisers. Battlecruisers were in many cases larger and more expensive than contemporary battleships, due to their much-larger propulsion plants.
 
 Light cruisers
 
-HMS_Caroline_1914.jpg until 2011.]]
+until 2011.]]
 
 At around the same time as the battlecruiser was developed, the distinction between the armored and the unarmored cruiser finally disappeared. By the British , the first of which was launched in 1909, it was possible for a small, fast cruiser to carry both belt and deck armor, particularly when turbine engines were adopted. These light armored cruisers began to occupy the traditional cruiser role once it became clear that the battlecruiser squadrons were required to operate with the battle fleet.
 
@@ -76,7 +72,7 @@ Some light cruisers were built specifically to act as the leaders of flotillas o
 
 Coastguard cruisers
 
-Romanian_gunboat_Grivița_at_Nicopol,_1913.jpg These vessels were essentially large coastal patrol boats armed with multiple light guns. One such warship was _Grivița_ of the Romanian Navy. She displaced 110 tons, measured 60 meters in length and was armed with four light guns.[7]
+These vessels were essentially large coastal patrol boats armed with multiple light guns. One such warship was _Grivița_ of the Romanian Navy. She displaced 110 tons, measured 60 meters in length and was armed with four light guns.[7]
 
 Auxiliary cruisers
 
@@ -90,8 +86,6 @@ Cruisers were one of the workhorse types of warship during World War I. By the t
 
 
 Mid-20th century
-
-Armando_Diaz_AllenGren3.jpg
 
 Naval construction in the 1920s and 1930s was limited by international treaties designed to prevent the repetition of the Dreadnought arms race of the early 20th century. The Washington Naval Treaty of 1922 placed limits on the construction of ships with a standard displacement of more than 10,000 tons and an armament of guns larger than 8-inch (203 mm). A number of navies commissioned classes of cruisers at the top end of this limit, known as "treaty cruisers".[8]
 
@@ -116,8 +110,6 @@ Large cruiser
 The American represented the supersized cruiser design. Due to the German pocket battleships, the , and rumored Japanese "super cruisers", all of which carried guns larger than the standard heavy cruiser's 8-inch size dictated by naval treaty limitations, the _Alaska_s were intended to be "cruiser-killers". While superficially appearing similar to a battleship/battlecruiser and mounting three triple turrets of 12-inch guns, their actual protection scheme and design resembled a scaled-up heavy cruiser design. Their hull classification symbol of CB (cruiser, big) reflected this.[21]
 
 Anti-aircraft cruisers
-
-USS_Atlanta_(CL-51).jpg
 
 A precursor to the anti-aircraft cruiser was the Romanian British-built protected cruiser _Elisabeta_. After the start of World War I, her four 120 mm main guns were landed and her four 75 mm (12-pounder) secondary guns were modified for anti-aircraft fire.[22]
 
@@ -225,8 +217,6 @@ The US built cruisers in quantity through the end of the war, notably 14 heavy c
 
 Late 20th century
 
-Kirov-class_battlecruiser.jpg
-
 The rise of air power during World War II dramatically changed the nature of naval combat. Even the fastest cruisers could not maneuver quickly enough to evade aerial attack, and aircraft now had torpedoes, allowing moderate-range standoff capabilities. This change led to the end of independent operations by single ships or very small task groups, and for the second half of the 20th century naval operations were based on very large fleets believed able to fend off all but the largest air attacks, though this was not tested by any war in that period. The US Navy became centered around carrier groups, with cruisers and battleships primarily providing anti-aircraft defense and shore bombardment. Until the Harpoon missile entered service in the late 1970s, the US Navy was almost entirely dependent on carrier-based aircraft and submarines for conventionally attacking enemy warships. Lacking aircraft carriers, the Soviet Navy depended on anti-ship cruise missiles; in the 1950s these were primarily delivered from heavy land-based bombers. Soviet submarine-launched cruise missiles at the time were primarily for land attack; but by 1964 anti-ship missiles were deployed in quantity on cruisers, destroyers, and submarines.[84]
 
 US cruiser development
@@ -264,13 +254,11 @@ The most recent Soviet/Russian rocket cruisers, the four s, were built in the 19
 
 Currently, the _Kirov_-class heavy missile cruisers are used for command purposes, as _Pyotr Velikiy_ is the flagship of the Northern Fleet. However, their air defense capabilities are still powerful, as shown by the array of point defense missiles they carry, from 44 OSA-MA missiles to 196 9K311 Tor missiles. For longer range targets, the S-300 is used. For closer range targets, AK-630 or Kashtan CIWSs are used. Aside from that, _Kirov_s have 20 P-700 Granit missiles for anti-ship warfare. For target acquisition beyond the radar horizon, three helicopters can be used. Besides a vast array of armament, _Kirov_-class cruisers are also outfitted with many sensors and communications equipment, allowing them to lead the fleet.
 
-The United States Navy has centered on the aircraft carrier since World War II. The _Ticonderoga_-class cruisers, built in the 1980s, were originally designed and designated as a class of destroyer, intended to provide a very powerful air-defense in these carrier-centered fleets. Type_055_destroyer.jpg has been classified by the United States Department of Defense as a cruiser because of its large size and armament.]] Outside the US and Soviet navies, new cruisers were rare following World War II. Most navies use guided missile destroyers for fleet air defense, and destroyers and frigates for cruise missiles. The need to operate in task forces has led most navies to change to fleets designed around ships dedicated to a single role, anti-submarine or anti-aircraft typically, and the large "generalist" ship has disappeared from most forces. The United States Navy and the Russian Navy are the only remaining navies which operate cruisers. Italy used until 2003; France operated a single helicopter cruiser until May 2010, , for training purposes only. While Type 055 of the Chinese Navy is classified as a cruiser by the U.S. Department of Defense, the Chinese consider it a guided missile destroyer.
+The United States Navy has centered on the aircraft carrier since World War II. The _Ticonderoga_-class cruisers, built in the 1980s, were originally designed and designated as a class of destroyer, intended to provide a very powerful air-defense in these carrier-centered fleets. has been classified by the United States Department of Defense as a cruiser because of its large size and armament.]] Outside the US and Soviet navies, new cruisers were rare following World War II. Most navies use guided missile destroyers for fleet air defense, and destroyers and frigates for cruise missiles. The need to operate in task forces has led most navies to change to fleets designed around ships dedicated to a single role, anti-submarine or anti-aircraft typically, and the large "generalist" ship has disappeared from most forces. The United States Navy and the Russian Navy are the only remaining navies which operate cruisers. Italy used until 2003; France operated a single helicopter cruiser until May 2010, , for training purposes only. While Type 055 of the Chinese Navy is classified as a cruiser by the U.S. Department of Defense, the Chinese consider it a guided missile destroyer.
 
 In the years since the launch of in 1981, the class has received a number of upgrades that have dramatically improved its members' capabilities for anti-submarine and land attack (using the Tomahawk missile). Like their Soviet counterparts, the modern _Ticonderoga_s can also be used as the basis for an entire battle group. Their cruiser designation was almost certainly deserved when first built, as their sensors and combat management systems enable them to act as flagships for a surface warship flotilla if no carrier is present, but newer ships rated as destroyers and also equipped with Aegis approach them very closely in capability, and once more blur the line between the two classes.
 
 Aircraft cruisers
-
-VSTOL_Guided_Missile_Cruiser_CG_VSTOL_1980.jpg
 
 From time to time, some navies have experimented with aircraft-carrying cruisers. One example is the Swedish . Another was the Japanese _Mogami_, which was converted to carry a large floatplane group in 1942. Another variant is the _helicopter cruiser_. The last example in service was the Soviet Navy's , whose last unit was converted to a pure aircraft carrier and sold to India as . The Russian Navy's is nominally designated as an aviation cruiser but otherwise resembles a standard medium aircraft carrier, albeit with a surface-to-surface missile battery. The Royal Navy's aircraft-carrying and the Italian Navy's aircraft-carrying vessels were originally designated 'through-deck cruisers', but have since been designated as small aircraft carriers. Similarly, the Japan Maritime Self-Defense Force's and "helicopter destroyers" are really more along the lines of helicopter cruisers in function and aircraft complement, but due to the Treaty of San Francisco, must be designated as destroyers.
 
@@ -279,7 +267,7 @@ One cruiser alternative studied in the late 1980s by the United States was vario
 
 Cruisers in service or under construction
 
-Jeanne_D_Arc_4.jpg, launched in 1961, decommissioned in 2010]]
+, launched in 1961, decommissioned in 2010]]
 
 Few cruisers are still operational in the world navies. Those that remain in service today are:
 

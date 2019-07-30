@@ -1,4 +1,4 @@
-Dishes_ft_worth2.JPG dishes with protective covers on top of 307 W. 7th Street, Fort Worth, Texas around 2001]]
+dishes with protective covers on top of 307 W. 7th Street, Fort Worth, Texas around 2001]]
 
 WIRELESS BROADBAND is telecommunications technology that provides high-speed wireless Internet access or computer networking access over a wide area. The term comprises both fixed and mobile broadband.
 
@@ -9,8 +9,6 @@ Originally the word "broadband" had a technical meaning, but became a marketing 
 
 
 Technology and speeds
-
-WISP_CPE_installed_on_a_residence.JPG
 
 Wireless networks can feature data rates roughly equivalent to some wired networks, such as that of asymmetric digital subscriber line (ADSL) or a cable modem. Wireless networks can also be symmetrical, meaning the same rate in both directions (downstream and upstream), which is most commonly associated with fixed wireless networks. A fixed wireless network link is a stationary terrestrial wireless connection, which can support higher data rates for the same power as mobile or satellite systems.
 

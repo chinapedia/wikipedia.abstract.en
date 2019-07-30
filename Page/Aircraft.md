@@ -1,4 +1,4 @@
-Collection_of_military_aircraft.jpg test aircraft]] Mi-8_(RA-24477)_Helicopter_in_SPB.jpg is the most-produced helicopter in history.]] Cessna172-CatalinaTakeOff.JPG _Skyhawk_ is the most produced aircraft in history.]] Voodoo_P_51_2014_Gold_Champion_photo_D_Ramey_Logan.jpg, a modified P 51 Mustang, is the 2014 Reno Air Race Champion.]]
+test aircraft]] is the most-produced helicopter in history.]] _Skyhawk_ is the most produced aircraft in history.]] , a modified P 51 Mustang, is the 2014 Reno Air Race Champion.]]
 
 An AIRCRAFT is a machine that is able to fly by gaining support from the air. It counters the force of gravity by using either static lift or by using the dynamic lift of an airfoil,[1] or in a few cases the downward thrust from jet engines. Common examples of aircraft include airplanes, helicopters, airships (including blimps), gliders, paramotors and hot air balloons.[2]
 
@@ -20,11 +20,11 @@ Methods of lift
 
 Lighter than air – aerostats
 
-Colorado_Springs_Hot_Air_Balloon_Competition.jpg]] Aerostats use buoyancy to float in the air in much the same way that ships float on the water. They are characterized by one or more large cells or canopies, filled with a relatively low-density gas such as helium, hydrogen, or hot air, which is less dense than the surrounding air. When the weight of this is added to the weight of the aircraft structure, it adds up to the same weight as the air that the craft displaces.
+]] Aerostats use buoyancy to float in the air in much the same way that ships float on the water. They are characterized by one or more large cells or canopies, filled with a relatively low-density gas such as helium, hydrogen, or hot air, which is less dense than the surrounding air. When the weight of this is added to the weight of the aircraft structure, it adds up to the same weight as the air that the craft displaces.
 
 Small hot-air balloons, called sky lanterns, were first invented in ancient China prior to the 3rd century BC and used primarily in cultural celebrations, and were only the second type of aircraft to fly, the first being kites, which were first invented in ancient China over two thousand years ago. (See Han Dynasty)
 
-USS_Akron_(ZRS-4)_in_flight_over_Manhattan,_circa_1931-1933.jpg over Manhattan in the 1930s]] A balloon was originally any aerostat, while the term airship was used for large, powered aircraft designs — usually fixed-wing.[3][4][5][6][7][8] In 1919 Frederick Handley Page was reported as referring to "ships of the air," with smaller passenger types as "Air yachts."[9] In the 1930s, large intercontinental flying boats were also sometimes referred to as "ships of the air" or "flying-ships".[10][11] — though none had yet been built. The advent of powered balloons, called dirigible balloons, and later of rigid hulls allowing a great increase in size, began to change the way these words were used. Huge powered aerostats, characterized by a rigid outer framework and separate aerodynamic skin surrounding the gas bags, were produced, the Zeppelins being the largest and most famous. There were still no fixed-wing aircraft or non-rigid balloons large enough to be called airships, so "airship" came to be synonymous with these aircraft. Then several accidents, such as the Hindenburg disaster in 1937, led to the demise of these airships. Nowadays a "balloon" is an unpowered aerostat and an "airship" is a powered one.
+over Manhattan in the 1930s]] A balloon was originally any aerostat, while the term airship was used for large, powered aircraft designs — usually fixed-wing.[3][4][5][6][7][8] In 1919 Frederick Handley Page was reported as referring to "ships of the air," with smaller passenger types as "Air yachts."[9] In the 1930s, large intercontinental flying boats were also sometimes referred to as "ships of the air" or "flying-ships".[10][11] — though none had yet been built. The advent of powered balloons, called dirigible balloons, and later of rigid hulls allowing a great increase in size, began to change the way these words were used. Huge powered aerostats, characterized by a rigid outer framework and separate aerodynamic skin surrounding the gas bags, were produced, the Zeppelins being the largest and most famous. There were still no fixed-wing aircraft or non-rigid balloons large enough to be called airships, so "airship" came to be synonymous with these aircraft. Then several accidents, such as the Hindenburg disaster in 1937, led to the demise of these airships. Nowadays a "balloon" is an unpowered aerostat and an "airship" is a powered one.
 
 A powered, steerable aerostat is called a _dirigible_. Sometimes this term is applied only to non-rigid balloons, and sometimes _dirigible balloon_ is regarded as the definition of an airship (which may then be rigid or non-rigid). Non-rigid dirigibles are characterized by a moderately aerodynamic gasbag with stabilizing fins at the back. These soon became known as _blimps_. During World_War_II, this shape was widely adopted for tethered balloons; in windy weather, this both reduces the strain on the tether and stabilizes the balloon. The nickname _blimp_ was adopted along with the shape. In modern times, any small dirigible or airship is called a blimp, though a blimp may be unpowered as well as powered.
 
@@ -40,7 +40,7 @@ A pure rocket is not usually regarded as an aerodyne, because it does not depend
 
 Fixed-wing
 
-Emirates_Airbus_A380-861_A6-EER_MUC_2015_04.jpg, the world's largest passenger airliner]] The forerunner of the fixed-wing aircraft is the kite. Whereas a fixed-wing aircraft relies on its forward speed to create airflow over the wings, a kite is tethered to the ground and relies on the wind blowing over its wings to provide lift. Kites were the first kind of aircraft to fly, and were invented in China around 500 BC. Much aerodynamic research was done with kites before test aircraft, wind tunnels, and computer modelling programs became available.
+, the world's largest passenger airliner]] The forerunner of the fixed-wing aircraft is the kite. Whereas a fixed-wing aircraft relies on its forward speed to create airflow over the wings, a kite is tethered to the ground and relies on the wind blowing over its wings to provide lift. Kites were the first kind of aircraft to fly, and were invented in China around 500 BC. Much aerodynamic research was done with kites before test aircraft, wind tunnels, and computer modelling programs became available.
 
 The first heavier-than-air craft capable of controlled free-flight were gliders. A glider designed by George Cayley carried out the first true manned, controlled flight in 1853.
 
@@ -60,7 +60,7 @@ Wing-in-ground-effect vehicles are not considered aircraft. They "fly" efficient
 
 Rotorcraft
 
-20100627_Xenon2_Krakow_1328.jpg]] Rotorcraft, or rotary-wing aircraft, use a spinning rotor with aerofoil section blades (a _rotary wing_) to provide lift. Types include helicopters, autogyros, and various hybrids such as gyrodynes and compound rotorcraft.
+]] Rotorcraft, or rotary-wing aircraft, use a spinning rotor with aerofoil section blades (a _rotary wing_) to provide lift. Types include helicopters, autogyros, and various hybrids such as gyrodynes and compound rotorcraft.
 
 _Helicopters_ have a rotor turned by an engine-driven shaft. The rotor pushes air downward to create lift. By tilting the rotor forward, the downward flow is tilted backward, producing thrust for forward flight. Some helicopters have more than one rotor and a few have rotors turned by gas jets at the tips.
 
@@ -71,8 +71,6 @@ _Cyclogyros_ rotate their wings about a horizontal axis.
 _Compound rotorcraft_ have wings that provide some or all of the lift in forward flight. They are nowadays classified as _powered lift_ types and not as rotorcraft. _Tiltrotor_ aircraft (such as the Bell Boeing V-22 Osprey), tiltwing, tail-sitter, and coleopter aircraft have their rotors/propellers horizontal for vertical flight and vertical for forward flight.
 
 Other methods of lift
-
-X-24B_on_Lakebed_-_GPN-2000-000209.jpg
 
 -   A _lifting body_ is an aircraft body shaped to produce lift. If there are any wings, they are too small to provide significant lift and are used only for stability and control. Lifting bodies are not efficient: they suffer from high drag, and must also travel at high speed to generate enough lift to fly. Many of the research prototypes, such as the Martin Marietta X-24, which led up to the Space Shuttle, were lifting bodies, though the Space Shuttle is not, and some supersonic missiles obtain lift from the airflow over a tubular body.
 -   _Powered lift_ types rely on engine-derived lift for vertical takeoff and landing (VTOL). Most types transition to fixed-wing lift for horizontal flight. Classes of powered lift types include VTOL jet aircraft (such as the Harrier Jump Jet) and tiltrotors, such as the Bell Boeing V-22 Osprey, among others. A few experimental designs rely entirely on engine thrust to provide lift throughout the whole flight, including personal fan-lift hover platforms and jetpacks. VTOL research designs include the Rolls-Royce Thrust Measuring Rig.
@@ -134,7 +132,7 @@ Powered aircraft have one or more onboard sources of mechanical power, typically
 
 Propeller aircraft
 
-WestCoastAirFloatplane.jpg-engined DeHavilland Twin Otter adapted as a floatplane]]
+-engined DeHavilland Twin Otter adapted as a floatplane]]
 
 Propeller aircraft use one or more propellers (airscrews) to create thrust in a forward direction. The propeller is usually mounted in front of the power source in _tractor configuration_ but can be mounted behind in _pusher configuration_. Variations of propeller layout include _contra-rotating propellers_ and _ducted fans_.
 
@@ -142,7 +140,7 @@ Many kinds of power plant have been used to drive propellers. Early airships use
 
 Jet aircraft
 
-Lockheed_Martin_F-22A_Raptor_JSOH.jpg]]
+]]
 
 Jet aircraft use airbreathing jet engines, which take in air, burn fuel with it in a combustion chamber, and accelerate the exhaust rearwards to provide thrust.
 
@@ -182,7 +180,7 @@ Lighter-than-air types are characterised by one or more gasbags, typically with 
 
 Aerodynes
 
-Merlin_Airframe_Material.jpg helicopter]] Heavier-than-air types are characterised by one or more wings and a central fuselage. The fuselage typically also carries a tail or empennage for stability and control, and an undercarriage for takeoff and landing. Engines may be located on the fuselage or wings. On a fixed-wing aircraft the wings are rigidly attached to the fuselage, while on a rotorcraft the wings are attached to a rotating vertical shaft. Smaller designs sometimes use flexible materials for part or all of the structure, held in place either by a rigid frame or by air pressure. The fixed parts of the structure comprise the airframe.
+helicopter]] Heavier-than-air types are characterised by one or more wings and a central fuselage. The fuselage typically also carries a tail or empennage for stability and control, and an undercarriage for takeoff and landing. Engines may be located on the fuselage or wings. On a fixed-wing aircraft the wings are rigidly attached to the fuselage, while on a rotorcraft the wings are attached to a rotating vertical shaft. Smaller designs sometimes use flexible materials for part or all of the structure, held in place either by a rigid frame or by air pressure. The fixed parts of the structure comprise the airframe.
 
 Avionics
 
@@ -197,7 +195,7 @@ The flight envelope of an aircraft refers to its approved design capabilities in
 
 Range
 
-Boeing_777-200LR_banking_over_mountain.jpg is the longest-range airliner, capable of flights of more than halfway around the world.]] The range is the distance an aircraft can fly between takeoff and landing, as limited by the time it can remain airborne.
+is the longest-range airliner, capable of flights of more than halfway around the world.]] The range is the distance an aircraft can fly between takeoff and landing, as limited by the time it can remain airborne.
 
 For a powered aircraft the time limit is determined by the fuel load and rate of consumption.
 
@@ -205,7 +203,7 @@ For an unpowered aircraft, the maximum flight time is limited by factors such as
 
 Flight dynamics
 
-Flight_dynamics_with_text.png FLIGHT DYNAMICS is the science of air vehicle orientation and control in three dimensions. The three critical flight dynamics parameters are the angles of rotation around three axes which pass through the vehicle's center of gravity, known as _pitch_, _roll,_ and _yaw_.
+FLIGHT DYNAMICS is the science of air vehicle orientation and control in three dimensions. The three critical flight dynamics parameters are the angles of rotation around three axes which pass through the vehicle's center of gravity, known as _pitch_, _roll,_ and _yaw_.
 
 -   Roll is a rotation about the longitudinal axis (equivalent to the rolling or heeling of a ship) giving an up-down movement of the wing tips measured by the roll or bank angle.
 -   Pitch is a rotation about the sideways horizontal axis giving an up-down movement of the aircraft nose measured by the angle of attack.
@@ -215,7 +213,7 @@ Flight dynamics is concerned with the stability and control of an aircraft's rot
 
 Stability
 
-Aircraft_tail.JPG of a Boeing 747–200]] An aircraft that is unstable tends to diverge from its intended flight path and so is difficult to fly. A very stable aircraft tends to stay on its flight path and is difficult to maneuver. Therefore, it is important for any design to achieve the desired degree of stability. Since the widespread use of digital computers, it is increasingly common for designs to be inherently unstable and rely on computerised control systems to provide artificial stability.
+of a Boeing 747–200]] An aircraft that is unstable tends to diverge from its intended flight path and so is difficult to fly. A very stable aircraft tends to stay on its flight path and is difficult to maneuver. Therefore, it is important for any design to achieve the desired degree of stability. Since the widespread use of digital computers, it is increasingly common for designs to be inherently unstable and rely on computerised control systems to provide artificial stability.
 
 A fixed wing is typically unstable in pitch, roll, and yaw. Pitch and yaw stabilities of conventional fixed wing designs require horizontal and vertical stabilisers,[57][58] which act similarly to the feathers on an arrow.[59] These stabilizing surfaces allow equilibrium of aerodynamic forces and to stabilise the flight dynamics of pitch and yaw.[60][61] They are usually mounted on the tail section (empennage), although in the canard layout, the main aft wing replaces the canard foreplane as pitch stabilizer. Tandem wing and tailless aircraft rely on the same general rule to achieve stability, the aft surface being the stabilising one.
 
@@ -243,7 +241,7 @@ Aircraft are produced in several different types optimized for various uses; mil
 
 Military
 
-Color_Photographed_B-17E_in_Flight.jpg in flight]] A military aircraft is any aircraft that is operated by a legal or insurrectionary armed service of any type.[62] Military aircraft can be either combat or non-combat:
+in flight]] A military aircraft is any aircraft that is operated by a legal or insurrectionary armed service of any type.[62] Military aircraft can be either combat or non-combat:
 
 -   Combat aircraft are aircraft designed to destroy enemy equipment using its own armament.[63] Combat aircraft divide broadly into fighters and bombers, with several in-between types, such as fighter-bombers and attack aircraft, including attack helicopters.
 -   Non-combat aircraft are not designed for combat as their primary function, but may carry weapons for self-defense. Non-combat roles include search and rescue, reconnaissance, observation, transport, training, and aerial refueling. These aircraft are often variants of civil aircraft.
@@ -252,7 +250,7 @@ Most military aircraft are powered heavier-than-air types. Other types, such as 
 
 Civil
 
-Pilatus_Agusta_A109_Flug.jpg helicopter of the Swiss air rescue service]] Civil aircraft divide into _commercial_ and _general_ types, however there are some overlaps.
+helicopter of the Swiss air rescue service]] Civil aircraft divide into _commercial_ and _general_ types, however there are some overlaps.
 
 Commercial aircraft include types designed for scheduled and charter airline flights, carrying passengers, mail and other cargo. The larger passenger-carrying types are the airliners, the largest of which are wide-body aircraft. Some of the smaller types are also used in general aviation, and some of the larger types are used as VIP aircraft.
 
@@ -260,7 +258,7 @@ General aviation is a catch-all covering other kinds of private (where the pilot
 
 Experimental
 
-An experimental aircraft is one that has not been fully proven in flight, or that carries a Special Airworthiness Certificate, called an Experimental Certificate in United States parlance. This often implies that the aircraft is testing new aerospace technologies, though the term also refers to amateur-built and kit-built aircraft, many of which are based on proven designs. MiniCeline_ultralight_aircraft.jpeg
+An experimental aircraft is one that has not been fully proven in flight, or that carries a Special Airworthiness Certificate, called an Experimental Certificate in United States parlance. This often implies that the aircraft is testing new aerospace technologies, though the term also refers to amateur-built and kit-built aircraft, many of which are based on proven designs.
 
 Model
 

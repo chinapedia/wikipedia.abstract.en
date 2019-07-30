@@ -1,4 +1,4 @@
-| area_footnotes = | area_total_km2 = 6313 | area_total_sq_mi = | area_rank = Ranked 4th | population_footnotes = | population_total = | population_as_of = | population_rank = [[List_of_Scottish_council_areas_by_population|Ranked Blaeu_-_Atlas_of_Scotland_1654_-_ABERDONIA_&_BANFIA_-_Aberdeenshire_and_Banffshire.jpg Aberdeen_Aberdeenshire_Moray_topo.png ABERDEENSHIRE (; ) is one of the 32 council areas of Scotland.
+| area_footnotes = | area_total_km2 = 6313 | area_total_sq_mi = | area_rank = Ranked 4th | population_footnotes = | population_total = | population_as_of = | population_rank = [[List_of_Scottish_council_areas_by_population|Ranked ABERDEENSHIRE (; ) is one of the 32 council areas of Scotland.
 
 It takes its name from the County of Aberdeen which has substantially different boundaries. The Aberdeenshire council area includes all of the area of the historic counties of Aberdeenshire and Kincardineshire (except the area making up the City of Aberdeen), as well as part of Banffshire. The county boundaries are officially used for a few purposes, namely land registration and lieutenancy.[1]
 
@@ -94,7 +94,7 @@ The council has 70 councillors, elected in 19 multi-member wards by single trans
   18. Stonehaven and Lower Deeside             4         2 Con, 1 SNP, 1 Lib Dem
   19. Mearns                                   4         2 Con, 1 SNP, 1 Lib Dem
 
-Aaythanestuarywterns.jpg nature reserve, with tern colonies and dunes in background.]]
+ nature reserve, with tern colonies and dunes in background.]]
 
 The overall political composition of the council, following subsequent defections[48] and by-elections, is as follows:[49]
 
@@ -117,7 +117,7 @@ The council has devolved power to six area committees: Banff and Buchan; Buchan;
 
 Notable features
 
-View_NE_from_summit_of_B976_-_geograph.org.uk_-_443153.jpg near Gairnshiel]] Old_lime_kiln_at_Badenyon.jpg at Badenyon]]
+near Gairnshiel]] at Badenyon]]
 
 The following significant structures or places are within Aberdeenshire:
 

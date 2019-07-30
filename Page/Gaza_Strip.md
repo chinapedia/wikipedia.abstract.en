@@ -8,7 +8,7 @@ Despite the 2005 Israeli disengagement from Gaza,[21] the United Nations, intern
 
 When Hamas won a majority in the 2006 Palestinian legislative election, the opposing political party Fatah refused to join the proposed coalition, until a short-lived unity government agreement was brokered by Saudi Arabia. When this collapsed under joint Israeli and United States pressure, the Palestinian Authority instituted a non-Hamas government in the West Bank while Hamas formed a government on its own in Gaza.[24] Further economic sanctions were imposed by Israel and the European Quartet against Hamas. A brief civil war between the two groups had broken out in Gaza when, apparently under a U.S.-backed plan, Fatah contested Hamas's administration. Hamas emerged the victor and expelled Fatah-allied officials and members of the PA's security apparatus from the Strip,[25][26] and has remained the sole governing power in Gaza since that date.[27]
 
-Gaza_closure_December_2012.jpg Gaza_City.JPG skyline, 2007]] شارع_في_غزة.jpg 20140805_beit_hanun7.jpg
+skyline, 2007]]
 
 
 History
@@ -36,13 +36,13 @@ Following the takeover of Gaza by Hamas, the territory has been subjected to a b
 
 Prior to 1923
 
-Azza1917.jpg The earliest major settlement in the area was at Tell El Sakan and Tall al-Ajjul, two Bronze Age settlements that served as administrative outposts for Ancient Egyptian governance. The Philistines, mentioned frequently in The Bible, were located in the region, and the city was captured by Alexander the Great in 332 BCE during his Egyptian campaign. Following the death of Alexander, Gaza, along with Egypt, fell under the administration of the Ptolemaic dynasty, before passing to the Seleucid dynasty after about 200 BCE. The city of Gaza was destroyed by the Hasmonean king Alexander Jannaeus in 96 BCE, and re-established under Roman administration during the 1st century CE. The Gaza region was moved between different Roman provinces over time, from Judea to Syria Palaestina to Palaestina Prima. During the 7th century the territory was passed back and forth between the Eastern Roman (Byzantine) Empire and the Persian (Sasanian) Empires before the Rashidun Caliphate was established during the great Islamic expansions of the 7th century.
+The earliest major settlement in the area was at Tell El Sakan and Tall al-Ajjul, two Bronze Age settlements that served as administrative outposts for Ancient Egyptian governance. The Philistines, mentioned frequently in The Bible, were located in the region, and the city was captured by Alexander the Great in 332 BCE during his Egyptian campaign. Following the death of Alexander, Gaza, along with Egypt, fell under the administration of the Ptolemaic dynasty, before passing to the Seleucid dynasty after about 200 BCE. The city of Gaza was destroyed by the Hasmonean king Alexander Jannaeus in 96 BCE, and re-established under Roman administration during the 1st century CE. The Gaza region was moved between different Roman provinces over time, from Judea to Syria Palaestina to Palaestina Prima. During the 7th century the territory was passed back and forth between the Eastern Roman (Byzantine) Empire and the Persian (Sasanian) Empires before the Rashidun Caliphate was established during the great Islamic expansions of the 7th century.
 
 During the Crusades, the city of Gaza was reported to be mostly abandoned and in ruins; the region was placed under the direct administration of the Knights Templar during the Kingdom of Jerusalem; it was traded back and forth several times between Christian and Muslim rule during the 12th century, before the Crusader founded kingdom lost control permanently and the land became part of the Ayyubid dynasty's lands for a century until the Mongol ruler Hulagu Khan destroyed the city. In the wake of the Mongols, the Mamluk Sultanate established control over Egypt and the eastern Levant, and would control Gaza until the 16th century, when the Ottoman Empire absorbed the Mamluk territories. Ottoman rule continued until the years following World War I, when the Ottoman Empire collapsed and Gaza formed part of the League of Nations British Mandate of Palestine.
 
 1923–48 British Mandate
 
-Gaza_War_Cemetery_3.jpg]] The British Mandate for Palestine was based on the principles contained in Article 22 of the draft Covenant of the League of Nations and the San Remo Resolution of 25 April 1920 by the principal Allied and associated powers after the First World War.[41] The mandate formalized British rule in the southern part of Ottoman Syria from 1923–1948.
+]] The British Mandate for Palestine was based on the principles contained in Article 22 of the draft Covenant of the League of Nations and the San Remo Resolution of 25 April 1920 by the principal Allied and associated powers after the First World War.[41] The mandate formalized British rule in the southern part of Ottoman Syria from 1923–1948.
 
 1948 All-Palestine government
 
@@ -54,7 +54,7 @@ Palestinians living in the Gaza Strip or Egypt were issued All-Palestine passpor
 
 1959–67 Egyptian occupation
 
-Che_Guevara_in_Gaza.jpg visiting Gaza in 1959]]After the dissolution of the All-Palestine Government in 1959, under the excuse of pan-Arabism, Egypt continued to occupy the Gaza Strip until 1967. Egypt never annexed the Gaza Strip, but instead treated it as a controlled territory and administered it through a military governor.[44] The influx of over 200,000 refugees from former Mandatory Palestine, roughly a quarter of those who fled or were expelled from their homes during, and in the aftermath of, the 1948 Arab–Israeli War into Gaza[45] resulted in a dramatic decrease in the standard of living. Because the Egyptian government restricted movement to and from the Gaza Strip, its inhabitants could not look elsewhere for gainful employment.[46]
+visiting Gaza in 1959]]After the dissolution of the All-Palestine Government in 1959, under the excuse of pan-Arabism, Egypt continued to occupy the Gaza Strip until 1967. Egypt never annexed the Gaza Strip, but instead treated it as a controlled territory and administered it through a military governor.[44] The influx of over 200,000 refugees from former Mandatory Palestine, roughly a quarter of those who fled or were expelled from their homes during, and in the aftermath of, the 1948 Arab–Israeli War into Gaza[45] resulted in a dramatic decrease in the standard of living. Because the Egyptian government restricted movement to and from the Gaza Strip, its inhabitants could not look elsewhere for gainful employment.[46]
 
 1967 Israeli occupation
 
@@ -78,7 +78,7 @@ In September 1992, Israeli Prime Minister Yitzhak Rabin told a delegation from t
 
 In May 1994, following the Palestinian-Israeli agreements known as the Oslo Accords, a phased transfer of governmental authority to the Palestinians took place. Much of the Strip (except for the settlement blocs and military areas) came under Palestinian control. The Israeli forces left Gaza City and other urban areas, leaving the new Palestinian Authority to administer and police those areas. The Palestinian Authority, led by Yasser Arafat, chose Gaza City as its first provincial headquarters. In September 1995, Israel and the PLO signed a second peace agreement, extending the Palestinian Authority to most West Bank towns.
 
-Between 1994 and 1996, Israel built the Israeli Gaza Strip barrier to improve security in Israel. The barrier was largely torn down by Palestinians at the beginning of the Al-Aqsa Intifada in September 2000.[56] War_in_Gaza_023_-_Flickr_-_Al_Jazeera_English.jpg
+Between 1994 and 1996, Israel built the Israeli Gaza Strip barrier to improve security in Israel. The barrier was largely torn down by Palestinians at the beginning of the Al-Aqsa Intifada in September 2000.[56]
 
 2000 Second Intifada
 
@@ -88,7 +88,7 @@ Between December 2000 and June 2001, the barrier between Gaza and Israel was rec
 
 2005 Israel's unilateral disengagement
 
-In February 2005, the Knesset approved a unilateral disengagement plan and began removing Israeli settlers from the Gaza Strip in 2005. All Israeli settlements in the Gaza Strip and the joint Israeli-Palestinian Erez Industrial Zone were dismantled, and 9,000 Israelis, most living in Gush Katif, were forcibly evicted.Gaza_Strip_Barrier_near_the_Karni_Crossing.jpg
+In February 2005, the Knesset approved a unilateral disengagement plan and began removing Israeli settlers from the Gaza Strip in 2005. All Israeli settlements in the Gaza Strip and the joint Israeli-Palestinian Erez Industrial Zone were dismantled, and 9,000 Israelis, most living in Gush Katif, were forcibly evicted.
 
 On 12 September 2005, the Israeli cabinet formally declared an end to Israeli military occupation of the Gaza Strip.
 
@@ -116,7 +116,7 @@ From 2006–2007 more than 600 Palestinians were killed in fighting between Hama
 
 2007 Hamas takeover
 
-Al_Deira_Hotel_Gaza_April_2009.jpg on the Gaza coast, 2009]]
+on the Gaza coast, 2009]]
 
 Following the victory of Hamas in the 2006 Palestinian legislative election, Hamas and Fatah formed the Palestinian authority national unity government headed by Ismail Haniya. Shortly after, Hamas took control of the Gaza Strip in the course of the Battle of Gaza,[84] seizing government institutions and replacing Fatah and other government officials with its own.[85] By 14 June, Hamas fully controlled the Gaza Strip. Palestinian President Mahmoud Abbas responded by declaring a state of emergency, dissolving the unity government and forming a new government without Hamas participation. PNA security forces in the West Bank arrested a number of Hamas members.
 
@@ -142,7 +142,7 @@ On 25 November 2008, Israel closed its cargo crossing with Gaza after Qassam roc
 
 2008 Gaza War
 
-Damaged_housing_gaza_strip_april_2009.jpg.]] Rock_mort_gaza_2008.JPG Israelis_killed_by_Palestinians_in_Israel_and_Palestinians_killed_by_Israelis_in_Gaza_-_2008.png
+.]]
 
 On 27 December 2008,[100] Israeli F-16 fighters launched a series of air strikes against targets in Gaza following the breakdown of a temporary truce between Israel and Hamas.[101] Israeli defense sources said that Defense Minister Ehud Barak instructed the IDF to prepare for the operation six months before it began, using long-term planning and intelligence-gathering.[102]
 
@@ -187,8 +187,6 @@ Governance
 
 Hamas government
 
-UNSchool_DestrMoInterior.jpg
-
 Since its takeover of Gaza, Hamas has exercised executive authority over the Gaza Strip, and it governs the territory through its own _ad hoc_ executive, legislative, and judicial bodies.[133] The Hamas government of 2012 was the second Palestinian Hamas-dominated government, ruling over the Gaza Strip, since the split of the Palestinian National Authority in 2007. It was announced in early September 2012.[134] The reshuffle of the previous government was approved by Gaza-based Hamas MPs from the Palestinian Legislative Council (PLC) or parliament.[135]
 
 The legal code Hamas applies in Gaza is based on Ottoman laws, the British Mandate's 1936 legal code, Palestinian Authority law, Sharia law, and Israeli military orders. Hamas maintains a judicial system with civilian and military courts and a public prosecution service.[136][137]
@@ -210,7 +208,7 @@ The Israeli government uses economic means to pressure Hamas. Among other things
 
 Due to continued rocket attacks including 50 in one day, in March 2008, air strikes and ground incursions by the IDF led to the deaths of over 110 Palestinians and extensive damage to Jabalia.[150]
 
-Watchtower_rafah_gaza_strip_april_2009.jpg and Egypt.]]
+and Egypt.]]
 
 Occupation
 
@@ -264,7 +262,7 @@ Director of the Shin Bet (Israel Security Agency) Yuval Diskin did not oppose ea
 
 Israeli spokesman Mark Regev described Israel's actions as "sanctions," not a blockade, but a Gazan legal consultant for UNRWA called the blockade "an action outside of international law.”[204] In July 2010, British Prime Minister David Cameron said, "humanitarian goods and people must flow in both directions. Gaza cannot and must not be allowed to remain a prison camp."[205] In response, the spokesman for the Israeli embassy in London said, "The people of Gaza are the prisoners of the terrorist organization Hamas. The situation in Gaza is the direct result of Hamas' rule and priorities."
 
-Tent_camp_gaza_strip_april_2009.jpg.]] The Arab League accused Israel of waging a financial war.[206] The IDF strictly controlled travel within the area of the crossing points between Israel and the Gaza Strip, and sealed its border with Gaza. U.S. government travel guides warned tourists that the region was dangerous.
+.]] The Arab League accused Israel of waging a financial war.[206] The IDF strictly controlled travel within the area of the crossing points between Israel and the Gaza Strip, and sealed its border with Gaza. U.S. government travel guides warned tourists that the region was dangerous.
 
 Facing mounting international pressure, Egypt and Israel lessened the restrictions starting in June 2010, when the Rafah border crossing from Egypt to Gaza was partially opened by Egypt. Egypt's foreign ministry said that the crossing would remain open mainly for people, but not for supplies.[207] Israel announced that it would allow the passage of civilian goods but not weapons and items that could be used for dual purposes.[208] In December 2015, Egypt asked Israel not to allow Turkish aid to get through to the Gaza Strip.[209] Benjamin Netanyahu said that it is impossible to lift the siege on Gaza and that the security of Israel is the primary issue for him. He confirmed "that Israel is the only country that currently sends supplies to the coastal enclave".[210]
 
@@ -283,7 +281,7 @@ An anonymous Israeli analyst has called it "Israel's Alcatraz".[235] While Laure
 
 Economy
 
-Sea_view_from_Al_Deira_hotel,_Gaza.jpg on the Gaza coast]] منتجع_كريزي_ووتر_2012.jpg]] The economy of the Gaza Strip is severely hampered by Egypt and Israel's almost total blockade, the high population density, limited land access, strict internal and external security controls, the effects of Israeli military operations, and restrictions on labor and trade access across the border. Per capita income (PPP) was estimated at US$3,100 in 2009, a position of 164th in the world.[243] Seventy percent of the population is below the poverty line according to a 2009 estimate.[244] Gaza Strip industries are generally small family businesses that produce textiles, soap, olive-wood carvings, and mother-of-pearl souvenirs.
+on the Gaza coast]] ]] The economy of the Gaza Strip is severely hampered by Egypt and Israel's almost total blockade, the high population density, limited land access, strict internal and external security controls, the effects of Israeli military operations, and restrictions on labor and trade access across the border. Per capita income (PPP) was estimated at US$3,100 in 2009, a position of 164th in the world.[243] Seventy percent of the population is below the poverty line according to a 2009 estimate.[244] Gaza Strip industries are generally small family businesses that produce textiles, soap, olive-wood carvings, and mother-of-pearl souvenirs.
 
 The main agricultural products are olives, citrus, vegetables, Halal beef, and dairy products. Primary exports are citrus and cut flowers, while primary imports are food, consumer goods, and construction materials. The main trade partners of the Gaza Strip are Israel and Egypt.[245]
 
@@ -297,7 +295,7 @@ Economic output in the Gaza Strip declined by about one-third between 1992 and 1
 
 For its energy, Gaza is largely dependent on Israel either for import of electricity or fuel for its sole power plant. The Oslo Accords set limits for the Palestinian production and importation of energy. Pursuant to the Accords, the Israel Electric Corporation exclusively supplies the electricity (63% of the total consumption in 2013).[248] The amount of electricity has consistently been limited to 120 megawatts, which is the amount Israel undertook to sell to Gaza pursuant to the Oslo Accords.[249]
 
-GazaTextiles.jpg Israel's use of comprehensive closures decreased over the next few years. In 1998, Israel implemented new policies to ease security procedures and allow somewhat freer movement of Gazan goods and labor into Israel. These changes led to three years of economic recovery in the Gaza Strip, disrupted by the outbreak of the al-Aqsa Intifada in the last quarter of 2000. Before the second Palestinian uprising in September 2000, around 25,000 workers from the Gaza Strip (about 2% of the population) worked in Israel on a daily basis.[250]
+Israel's use of comprehensive closures decreased over the next few years. In 1998, Israel implemented new policies to ease security procedures and allow somewhat freer movement of Gazan goods and labor into Israel. These changes led to three years of economic recovery in the Gaza Strip, disrupted by the outbreak of the al-Aqsa Intifada in the last quarter of 2000. Before the second Palestinian uprising in September 2000, around 25,000 workers from the Gaza Strip (about 2% of the population) worked in Israel on a daily basis.[250]
 
 The Second Intifada led to a steep decline in the economy of Gaza, which was heavily reliant upon external markets. Israel—which had begun its occupation by helping Gazans to plant approximately 618,000 trees in 1968, and to improve seed selection—over the first 3-year period of the second intifada, destroyed 10 percent of Gazan agricultural land, and uprooted 226,000 trees.[251] The population became largely dependent on humanitarian assistance, primarily from UN agencies.[252]
 
@@ -360,7 +358,7 @@ Gaza's marine gas reserves extend 32 kilometres from the Gaza Strip's coastline[
 
 Demographics
 
-Girls_lining_up_for_class_-_Flickr_-_Al_Jazeera_English.jpg In 2010 approximately 1.6 million Palestinians lived in the Gaza Strip,[278] almost 1.0 million of them UN-registered refugees.[279] The majority of the Palestinians descend from refugees who were driven from or left their homes during the 1948 Arab–Israeli War. The Strip's population has continued to increase since that time, one of the main reasons being a total fertility rate of 4.24 children per woman (2014 est). In a ranking by total fertility rate, this places Gaza 34th of 224 regions.[280] According to the UN, unless remedial steps are taken to repair the basic infrastructure by 2020, with a further demographic increase of 500,000 and intensified housing problems, the Gaza Strip will become effectively uninhabitable.[281] Sunni Muslims make up the predominant part of the Palestinian population in the Gaza Strip.
+In 2010 approximately 1.6 million Palestinians lived in the Gaza Strip,[278] almost 1.0 million of them UN-registered refugees.[279] The majority of the Palestinians descend from refugees who were driven from or left their homes during the 1948 Arab–Israeli War. The Strip's population has continued to increase since that time, one of the main reasons being a total fertility rate of 4.24 children per woman (2014 est). In a ranking by total fertility rate, this places Gaza 34th of 224 regions.[280] According to the UN, unless remedial steps are taken to repair the basic infrastructure by 2020, with a further demographic increase of 500,000 and intensified housing problems, the Gaza Strip will become effectively uninhabitable.[281] Sunni Muslims make up the predominant part of the Palestinian population in the Gaza Strip.
 
 Most of the inhabitants are Sunni Muslims, with an estimated 2,000 to 3,000 Arab Christians,[282] making the region 99.8 percent Sunni Muslim and 0.2 percent Christian.[283]
 
@@ -383,8 +381,6 @@ Palestinian researcher Khaled Al-Hroub has criticized what he called the "Taliba
 
 In October 2012 Gaza youth complained that security officers had obstructed their freedom to wear saggy pants and to have haircuts of their own choosing, and that they faced being arrested. Youth in Gaza are also arrested by security officers for wearing shorts and for showing their legs, which have been described by youth as embarrassing incidents, and one youth explained that "My saggy pants did not harm anyone." However, a spokesman for Gaza's Ministry of Interior denied such a campaign, and denied interfering in the lives of Gaza citizens, but explained that "maintaining the morals and values of the Palestinian society is highly required".[294]
 
-Praying_in_Defiance_-_Flickr_-_Al_Jazeera_English.jpg
-
 Islamic politics
 
 Iran was the largest state supporter of Hamas, and the Muslim Brotherhood also gave support, but these political relationships have recently been disrupted following the Arab Spring by Iranian support for and the position of Hamas has declined as support diminishes.[295]
@@ -406,7 +402,7 @@ The Gaza Museum of Archaeology was established by Jawdat N. Khoudary in 2008.[30
 
 Education
 
-Ucas1.jpg, the largest college in Gaza]] In 2010, illiteracy among Gazan youth was less than 1%. According to UNRWA figures, there are 640 schools in Gaza: 383 government schools, 221 UNRWA schools and 36 private schools, serving a total of 441,452 students.[304]
+, the largest college in Gaza]] In 2010, illiteracy among Gazan youth was less than 1%. According to UNRWA figures, there are 640 schools in Gaza: 383 government schools, 221 UNRWA schools and 36 private schools, serving a total of 441,452 students.[304]
 
 In 2010, Al Zahara, a private school in central Gaza introduced a special program for mental development based on math computations. The program was created in Malaysia in 1993, according to the school principal, Majed al-Bari.[305]
 
@@ -419,7 +415,7 @@ The Community College of Applied Science and Technology (CCAST) was established 
 
 Health
 
-Mosque_conf_hall_iug.jpg]]
+]]
 
 Statistics
 
@@ -440,8 +436,6 @@ In 2012, two hospitals funded by Turkey and Saudi Arabia were under construction
 
 Culture and sports
 
-مدينة_أصداء.jpg
-
 Fine arts
 
 The Gaza Strip has been home to a significant branch of the contemporary Palestinian art movement since the mid 20th century. Notable artists include painters Ismail Ashour, Shafiq Redwan, Bashir Senwar, Majed Shalla, Fayez Sersawi, Abdul Rahman al Muzayan and Ismail Shammout, and media artists Taysir Batniji (who lives in France) and Laila al Shawa (who lives in London). An emerging generation of artists is also active in nonprofit art organizations such as Windows From Gaza and Eltiqa Group, which regularly host exhibitions and events open to the public.[318]
@@ -452,8 +446,6 @@ In 2010, Gaza inaugurated its first Olympic-size swimming pool at the As-Sadaka 
 
 
 Transport and communications
-
-Gaza_airport_03.jpg
 
 Transport
 

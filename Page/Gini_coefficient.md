@@ -9,8 +9,6 @@ There are some issues in interpreting a Gini coefficient. The same value may res
 
 Definition
 
-Economics_Gini_coefficient2.svg
-
 The Gini coefficient is a single number aimed at measuring the degree of inequality in a distribution. It is most often used in economics to measure how far a country's wealth or income distribution deviates from a totally equal distribution.
 
 The Gini coefficient is usually defined mathematically based on the Lorenz curve, which plots the proportion of the total income of the population (y axis) that is cumulatively earned by the bottom _x_ of the population (see diagram). The line at 45 degrees thus represents perfect equality of incomes. The Gini coefficient can then be thought of as the ratio of the area that lies between the line of equality and the Lorenz curve (marked _A_ in the diagram) over the total area under the line of equality (marked _A_ and _B_ in the diagram); i.e., _A_/(_A_ + _B_)}}. It is also equal to 2_A_ and to due to the fact that 0.5}} (since the axes scale from 0 to 1).
@@ -31,8 +29,6 @@ where $\textstyle\mu=\int_{-\infty}^\infty x p(x) \,dx$ is the mean of the distr
 Calculation
 
 Example: two levels of income
-
-Gini_coefficient_for_distribution_with_only_two_income_or_wealth_levels.svg
 
 The most equal society will be one in which every person receives the same income ( 0}}); the most unequal society will be one in which a single person receives 100% of the total income and the remaining people receive none ( 1 − 1/_N_}}).
 
@@ -159,7 +155,7 @@ The difference in Gini indices between OECD countries, on after-taxes and transf
 
 Using the Gini can help quantify differences in welfare and compensation policies and philosophies. However it should be borne in mind that the Gini coefficient can be misleading when used to make political comparisons between large and small countries or those with different immigration policies (see limitations of Gini coefficient section).
 
-The Gini coefficient for the entire world has been estimated by various parties to be between 0.61 and 0.68.[29][30][31] The graph shows the values expressed as a percentage in their historical development for a number of countries. Gini_since_WWII.svg
+The Gini coefficient for the entire world has been estimated by various parties to be between 0.61 and 0.68.[29][30][31] The graph shows the values expressed as a percentage in their historical development for a number of countries.
 
 Regional income Gini indices
 
@@ -236,7 +232,7 @@ Other useful features of the Gini coefficient include:[55][56]
 
 Countries by Gini Index
 
-2014_Gini_Index_World_Map,_income_inequality_distribution_by_country_per_World_Bank.svg A Gini index value above 50 is considered high; countries including Brazil, Colombia, South Africa, Botswana, and Honduras can be found in this category. A Gini index value of 30 or above is considered medium; countries including Vietnam, Mexico, Poland, The United States, Argentina, Russia and Uruguay can be found in this category. A Gini index value lower than 30 is considered low; countries including Austria, Germany, Denmark, Slovenia, Sweden and Ukraine can be found in this category.[57]
+A Gini index value above 50 is considered high; countries including Brazil, Colombia, South Africa, Botswana, and Honduras can be found in this category. A Gini index value of 30 or above is considered medium; countries including Vietnam, Mexico, Poland, The United States, Argentina, Russia and Uruguay can be found in this category. A Gini index value lower than 30 is considered low; countries including Austria, Germany, Denmark, Slovenia, Sweden and Ukraine can be found in this category.[57]
 
 
 Limitations of Gini coefficient

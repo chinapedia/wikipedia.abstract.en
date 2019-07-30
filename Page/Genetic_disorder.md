@@ -42,7 +42,7 @@ Only one mutated copy of the gene will be necessary for a person to be affected 
 
 Autosomal recessive
 
-Two copies of the gene must be mutated for a person to be affected by an autosomal recessive disorder. An affected person usually has unaffected parents who each carry a single copy of the mutated gene and are referred to as "carriers". Each parent with a defective gene normally do not have symptoms. [9] Two unaffected people who each carry one copy of the mutated gene have a 25% risk with each pregnancy of having a child affected by the disorder. Examples of this type of disorder are Albinism, Medium-chain acyl-CoA dehydrogenase deficiency, cystic fibrosis, sickle-cell disease, Tay–Sachs disease, Niemann-Pick disease, spinal muscular atrophy, and Roberts syndrome. Certain other phenotypes, such as wet versus dry earwax, are also determined in an autosomal recessive fashion.[10][11] Human_chromosome_diseases_set_en.svg
+Two copies of the gene must be mutated for a person to be affected by an autosomal recessive disorder. An affected person usually has unaffected parents who each carry a single copy of the mutated gene and are referred to as "carriers". Each parent with a defective gene normally do not have symptoms. [9] Two unaffected people who each carry one copy of the mutated gene have a 25% risk with each pregnancy of having a child affected by the disorder. Examples of this type of disorder are Albinism, Medium-chain acyl-CoA dehydrogenase deficiency, cystic fibrosis, sickle-cell disease, Tay–Sachs disease, Niemann-Pick disease, spinal muscular atrophy, and Roberts syndrome. Certain other phenotypes, such as wet versus dry earwax, are also determined in an autosomal recessive fashion.[10][11]
 
 X-linked dominant
 
@@ -87,7 +87,7 @@ On a pedigree, polygenic diseases do tend to "run in families", but the inherita
 
 Chromosomal disorder
 
-Down_Syndrome_Karyotype.png, the most common human condition due to aneuploidy. There are three chromosomes 21 (in the last row).]] A chromosomal disorder is a missing, extra, or irregular portional of chromosomal DNA. It can be from an atypical number of chromosome or a structural abnormality in one or more chromosome. An example of these disorder is Trisomy 21 (Down's syndrome), in which there is an extra copy of chromosome 21.
+, the most common human condition due to aneuploidy. There are three chromosomes 21 (in the last row).]] A chromosomal disorder is a missing, extra, or irregular portional of chromosomal DNA. It can be from an atypical number of chromosome or a structural abnormality in one or more chromosome. An example of these disorder is Trisomy 21 (Down's syndrome), in which there is an extra copy of chromosome 21.
 
 
 Diagnosis
@@ -104,7 +104,7 @@ Not all genetic disorders directly result in death; however, there are no known 
 
 Treatment
 
-Personal_genomics_gene_therapy_flowchart.png to gene therapy]]
+to gene therapy]]
 
 The treatment of genetic disorders is an ongoing battle with over 1800 gene therapy clinical trials having been completed, are ongoing, or have been approved worldwide.[15] Despite this, most treatment options revolve around treating the symptoms of the disorders in an attempt to improve patient quality of life.
 

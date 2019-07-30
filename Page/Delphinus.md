@@ -5,8 +5,6 @@ Delphinus' brightest stars form a distinctive asterism that can easily be recogn
 
 Notable features
 
-DelphinusCC.jpg
-
 Stars
 
 Delphinus lacks stars above fourth (apparent) magnitude; its brightest star is of magnitude 3.8. The main asterism in Delphinus is JOB'S COFFIN, nearly a 45°-apex lozenge diamond of the four brightest stars: Alpha, Beta, Gamma, and Delta Delphini. Delphinus is in a rich Milky Way star field. Alpha and Beta Delphini have 19th century names Sualocin and Rotanev, read backwards: Nicolaus Venator, the Latinized name of a Palermo Observatory director, Niccolò Cacciatore (d. 1841).
@@ -50,7 +48,7 @@ Its rich Milky Way star field means many modestly deep-sky objects. NGC 6891 is 
 
 Mythology
 
-Sidney_Hall_-_Urania's_Mirror_-_Delphinus,_Sagitta,_Aquila,_and_Antinous.jpg'' (1825)]] Delphinus is associated with two stories from Greek mythology.
+'' (1825)]] Delphinus is associated with two stories from Greek mythology.
 
 According to the first Greek god Poseidon wanted to marry Amphitrite, a beautiful nereid. However, wanting to protect her virginity, she fled to the Atlas mountains. Her suitor then sent out several searchers, among them a certain Delphinus. Delphinus accidentally stumbled upon her and was able to persuade Amphitrite to accept Poseidon's wooing. Out of gratitude the god placed the image of a dolphin among the stars.[10][11]
 

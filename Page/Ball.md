@@ -14,7 +14,7 @@ The first known use of the word _ball_ in English in the sense of a globular bod
 
 History
 
-Russian_balls_12-13.jpg A ball, as the essential feature in many forms of gameplay requiring physical exertion, must date from the very earliest times. A rolling object appeals not only to a human baby, but to a kitten and a puppy. Some form of game with a ball is found portrayed on Egyptian monuments, and is played among aboriginal tribes at the present day. In Homer, Nausicaa was playing at ball with her maidens when Odysseus first saw her in the land of the Phaeacians (Od. vi. 100). And Halios and Laodamas performed before Alcinous and Odysseus with ball play, accompanied with dancing (Od. viii. 370).
+A ball, as the essential feature in many forms of gameplay requiring physical exertion, must date from the very earliest times. A rolling object appeals not only to a human baby, but to a kitten and a puppy. Some form of game with a ball is found portrayed on Egyptian monuments, and is played among aboriginal tribes at the present day. In Homer, Nausicaa was playing at ball with her maidens when Odysseus first saw her in the land of the Phaeacians (Od. vi. 100). And Halios and Laodamas performed before Alcinous and Odysseus with ball play, accompanied with dancing (Od. viii. 370).
 
 Ancient Greeks
 

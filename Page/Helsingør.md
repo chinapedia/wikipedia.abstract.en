@@ -9,7 +9,7 @@ The HH Ferry route connects Helsingør with Helsingborg in Sweden.
 
 History
 
-Kronborg_02.jpg]] Porto_de_Helsingor.jpg Helsingør_street.JPG
+]]
 
 The name _Helsingør_ is derived from the word _hals_ meaning "neck" or "narrow strait", referring to the narrowest point of the _Øresund_ (Øre Sound) between what is now Helsingør and Helsingborg, Sweden. The people were mentioned as _Helsinger_ (which may mean "the people of the strait") for the first time in King Valdemar the Victorious's _Liber Census Daniæ_ from 1231 (not to be confused with the Helsings of Hälsingland in Sweden).[7] Placenames show that the Helsinger may have had their main fort at Helsingborg and a fortified landing place at Helsingør, to control the ferry route across the strait.
 
@@ -38,7 +38,7 @@ The Wiibroe brewery, founded in 1840, was the second brewery in Denmark to ship 
 
 Post-industrialisation
 
-Kulturhavn_kronborg_opened_May_2013.jpg]] "Han"_by_Elmgreen_and_Dragset.jpg After the end of the industrial era, the town of Helsingør had to redefine itself, and came up with an ambitious project: Kulturhavn Kronborg, literally "Culture-harbour of Kronborg". It officially opened on 26 May 2013, intended to appeal to tourists with an interest in culture. The main attraction of Kulturhavn Kronborg is Kronborg Castle, a UNESCO World Heritage Site. Besides the historical attractions of the site, William Shakespeare's play _Hamlet_ is performed annually in its courtyard since 1937. There is a longstanding tradition of performing the play in English, and notable actors in the title role have included Laurence Olivier, John Gielgud, Christopher Plummer, Derek Jacobi, and in 2009 Jude Law. At the heart of Kulturhavn Kronborg lies kulturværftet or The Culture Yard, a new cultural centre and a public library located in the old dockyard. It opened in 2010. The former dry dock now houses the Danish Maritime Museum.
+]] After the end of the industrial era, the town of Helsingør had to redefine itself, and came up with an ambitious project: Kulturhavn Kronborg, literally "Culture-harbour of Kronborg". It officially opened on 26 May 2013, intended to appeal to tourists with an interest in culture. The main attraction of Kulturhavn Kronborg is Kronborg Castle, a UNESCO World Heritage Site. Besides the historical attractions of the site, William Shakespeare's play _Hamlet_ is performed annually in its courtyard since 1937. There is a longstanding tradition of performing the play in English, and notable actors in the title role have included Laurence Olivier, John Gielgud, Christopher Plummer, Derek Jacobi, and in 2009 Jude Law. At the heart of Kulturhavn Kronborg lies kulturværftet or The Culture Yard, a new cultural centre and a public library located in the old dockyard. It opened in 2010. The former dry dock now houses the Danish Maritime Museum.
 
 In the centre of the harbour basin stands the polished steel sculpture _Han_ (_He_) by artist duo Elmgreen and Dragset, commissioned by the City of Helsingør in 2012. It was inaugurated by then Minister of culture, Uffe Elbæk, in June 2012. It is seen as the counterpart (and even little brother) to Edvard Eriksen's world-famous _The Little Mermaid_ statue in Copenhagen, and has caused both praise and protests among locals.
 
@@ -47,16 +47,12 @@ The Swedish city of Helsingborg lies a short distance across the Øresund from H
 
 Architecture
 
-Helsingør_Rådhus.jpg
-
 The new Danish Maritime Museum was designed by Danish prize-winning architects Bjarke Ingels Group (BIG).
 
 Jørn Utzon lived in Helsingør in his youth because his father was an engineer at Helsingør Værft. Utzon designed The Kingo Houses (1956–60) and The Hammershøj Care Centre (1962) in the city. The project was completed by Birger Schmidt (1966) after Utzon moved to Sydney to work on the Sydney Opera House.
 
 
 Notable natives
-
-Johan_Isaksen_Pontanus.jpg Vilhelm_Melbye.jpg Ove_Verner_Hansen_2013.jpg
 
 Public thinking and politics
 
@@ -90,8 +86,6 @@ Public service
 
 Science
 
-Ludvig_Valentin_Lorenz.jpg
-
 -   Hans Christian Amberg (1749–1815) Danish lexicographer
 -   Ludvig Lorenz (1829–1891), Danish physicist and mathematician, named the Lorenz gauge condition.
 -   Gordon Norrie (1855–1941) Danish surgeon and ophthalmologist of Scottish parentage, named Norrie disease.
@@ -99,8 +93,6 @@ Ludvig_Valentin_Lorenz.jpg
 -   Steen Rasmussen (born 1955), artificial life scientist, coined the term "complex systems dogma".
 
 Business
-
-Jean_Abraham_Grill.jpg
 
 -   Stephen Hansen (1701–1770) Danish industrialist, businessman and General War Commissioner.
 -   Jean Abraham Grill (1736–1792), Swedish merchant, director of the Swedish East India Company.
@@ -112,8 +104,6 @@ Jean_Abraham_Grill.jpg
 -   Mette Blomsterberg (born 1970) Danish pastry chef, restaurateur and cookbook writer
 
 Sport
-
-Mikkel_Hansen-20160416-PSG-TOULOUSE.JPG
 
 -   Fairfax Fenwick (1852–1920) New Zealand cricketer
 -   August Sørensen (1896–1979) Danish track and field athlete, competed in the 1920 Summer Olympics

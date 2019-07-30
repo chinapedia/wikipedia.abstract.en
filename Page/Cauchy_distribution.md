@@ -284,7 +284,7 @@ Occurrence and applications
 
 -   Applications of the Cauchy distribution or its transformation can be found in fields working with exponential growth. A 1958 paper by White White, J.S. (1958) The Limiting Distribution of the Serial Correlation Coefficient in the Explosive Case. The Annals of Mathematical Statistics, 29, 1188-1197.
 
-https://doi.org/10.1214/aoms/1177706450 derived the test statistic for estimators of β̂ for the equation x_(t + 1) = βx_(t) + ε_(t + 1), β > 1 and where the maximum likelihood estimator is found using ordinary least squares showed the sampling distribution of the statistic is the Cauchy distribution. Cauchy_distribution.png, see also distribution fitting [40]]]
+https://doi.org/10.1214/aoms/1177706450 derived the test statistic for estimators of β̂ for the equation x_(t + 1) = βx_(t) + ε_(t + 1), β > 1 and where the maximum likelihood estimator is found using ordinary least squares showed the sampling distribution of the statistic is the Cauchy distribution. , see also distribution fitting [40]]]
 
 -   Outside of finance, the Cauchy distribution is often the distribution of observations for objects that are spinning. The classic reference for this is called the Gull's lighthouse problem[41] and as in the above section as the Breit–Wigner distribution in particle physics.
 

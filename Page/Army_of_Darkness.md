@@ -74,7 +74,7 @@ Danny Elfman, who composed the score for _Darkman_, wrote the "March of the Dead
 
 Reception
 
-Army_of_Darkness_(1992_Film).jpg]]
+]]
 
 Box office
 

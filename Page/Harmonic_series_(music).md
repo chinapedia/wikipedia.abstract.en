@@ -1,5 +1,3 @@
-Harmonic_partials_on_strings.svg
-
 A HARMONIC SERIES is the sequence of sounds[1]—pure tones, represented by sinusoidal waves—in which the frequencyIEV 1994, fundamental: http://www.electropedia.org/iev/iev.nsf/display?openform&ievref=801-30-01
 
 . of each sound is an integer multiple of the fundamental, the lowest frequency.[2]
@@ -30,8 +28,6 @@ Some electronic instruments, such as synthesizers, can play a pure frequency wit
 
 Frequencies, wavelengths, and musical intervals in example systems
 
-Harmonic_series_to_32.png
-
 The simplest case to visualise is a vibrating string, as in the illustration; the string has fixed points at each end, and each harmonic mode divides it into 1, 2, 3, 4, etc., equal-sized sections resonating at increasingly higher frequencies.[7] Similar arguments apply to vibrating air columns in wind instruments (for example, "the French horn was originally a valveless instrument that could play only the notes of the harmonic series"[8]), although these are complicated by having the possibility of anti-nodes (that is, the air column is closed at one end and open at the other), conical as opposed to cylindrical bores, or end-openings that run the gamut from no flare, cone flare, or exponentially shaped flares (such as in various bells).
 
 In most pitched musical instruments, the fundamental (first harmonic) is accompanied by other, higher-frequency harmonics. Thus shorter-wavelength, higher-frequency waves occur with varying prominence and give each instrument its characteristic tone quality. The fact that a string is fixed at each end means that the longest allowed wavelength on the string (which gives the fundamental frequency) is twice the length of the string (one round trip, with a half cycle fitting between the nodes at the two ends). Other allowed wavelengths are 1/2, 1/3, 1/4, 1/5, 1/6, etc. times that of the fundamental.
@@ -42,13 +38,11 @@ The harmonic series is an arithmetic series (1×f, 2×f, 3×f, 4×f, 5×f, ...).
 
 The second harmonic, whose frequency is twice of the fundamental, sounds an octave higher; the third harmonic, three times the frequency of the fundamental, sounds a perfect fifth above the second harmonic. The fourth harmonic vibrates at four times the frequency of the fundamental and sounds a perfect fourth above the third harmonic (two octaves above the fundamental). Double the harmonic number means double the frequency (which sounds an octave higher).
 
-Harmonic_Series.png' difference from equal temperament (rounded to the nearest cent). Blue notes are flat and red notes are sharp.]]
+' difference from equal temperament (rounded to the nearest cent). Blue notes are flat and red notes are sharp.]]
 
-Harmonics_to_32.png
+]]
 
-Harmonic_series_intervals.png ]]
-
-Notation_of_partials_1-19_for_1-1.png harmonics".[9] ]]
+harmonics".[9] ]]
 
 As Mersenne says, "the order of the Consonances is natural, and...the way we count them, starting from unity up to the number six and beyond is founded in nature."[10]
 

@@ -66,7 +66,7 @@ Atari had intended to release versions with 128 KB and 256 KB of RAM as the _1
 
 Atari originally intended to include GEM's GDOS (Graphical Device Operating System), which allowed programs to send GEM VDI (Virtual Device Interface) commands to drivers loaded by GDOS. This allowed developers to send VDI instructions to other devices simply by pointing to it. However, GDOS was not ready at the time the ST started shipping and was included in software packages and later ST machines. Later versions of GDOS supported vector fonts.
 
-ST_BASIC_-_J.R._Bob_Dobbs.gif A limited set of GEM fonts were included in the ROMs, including the standard 8x8 pixel graphical character set for the ST. It contained four unusual characters which can be placed together in a square, forming a facsimile of the face of J. R. "Bob" Dobbs (the figurehead of the Church of the SubGenius).[50]
+A limited set of GEM fonts were included in the ROMs, including the standard 8x8 pixel graphical character set for the ST. It contained four unusual characters which can be placed together in a square, forming a facsimile of the face of J. R. "Bob" Dobbs (the figurehead of the Church of the SubGenius).[50]
 
 The ST was less expensive than most machines, including the Macintosh Plus, and tended to be faster than most.[51] Largely as a result of the price/performance factor, the ST would go on to be a fairly popular machine, notably in European markets where the foreign-exchange rates amplified prices. Indeed, the company's English advertising strapline of the era was "power without the price." In fact, an Atari ST and terminal emulation software was much cheaper than a Digital VT220 terminal, which was commonly needed by offices with central computers.
 
@@ -75,15 +75,11 @@ Design
 
 Original housing
 
-Atari-520ST.jpg
-
 The original 520ST case design was created by Ira Velinsky Atari's chief Industrial Designer.[52] The ST is wedge-shaped, featuring bold angular lines and a series of grilles cut into the rear for airflow. The keyboard has soft tactile feedback and rhomboid-shaped function keys across the top. The 520ST is an all-in-one unit, similar to earlier home computers like the Commodore 64, but with a larger keyboard with cursor keys and a numeric keypad.
 
 The 520ST uses an external power brick.
 
 Port connections
-
-Atari520ST_Interface.jpg Atari_st_mouse.jpg
 
 The 520ST features a large number of ports mounted at the rear of the machine that remained largely unchanged over the ST's history.
 
@@ -111,8 +107,6 @@ Atari initially used single-sided disk drives that could store up to 360 kB. La
 Another sticking point with the ST's floppy drives was that, whilst double-sided drive equipped STs could happily read discs formatted under MS-DOS on IBM PCs, PCs could not themselves read Atari disks, because the initial versions of TOS could recognise, read, and write to but not themselves create discs in the same particular specification used and indeed demanded by MS-DOS because of different field usage on the FAT filesystem. Achieving successful data interchange between the two platforms using floppies thus required pre-formatting dedicated file transfer discs under MS-DOS, and copying the necessary data onto them from any unsuitable Atari formatted discs, or by using a conversion utility such as MOSDOS.TOS to adapt an ST disk to make it readable on a PC. This formatting issue was soon resolved by the emergence of third-party formatting and file copier software, MS-DOS disc imaging software capable of reading the unusual formats used by the ST and various other machines (such as the Commodore Amiga) and, a few years later, Atari's own version 1.4 (and later) TOS upgrades.
 
 STF and STFM models
-
-Atari_ST_1040.jpg
 
 Atari later upgraded the basic design in 1986 with the _1040ST^(F)_ (also written _STF_). The machine is generally similar to the earlier 520ST, but moved the power supply and a double-sided floppy drive into the rear of the housing of the computer, as opposed to being external. This added to the size of the machine, but reduced cable clutter in the back. The joystick/mouse ports, formerly on the right side of the machine where the disk drive now sat, were moved to a niche underneath the keyboard.
 
@@ -147,8 +141,6 @@ In 1990, Atari released the high-end workstation-oriented _Atari TT030_, based o
 
 Atari Falcon
 
-Atari_Falcon_030_(white_bg).jpg
-
 The final ST computer is the multimedia-capable _Atari Falcon030_. Like the TT, this was also 68030-based, operating at 16 MHz, but with improved video modes and an on-board Motorola 56001 audio digital signal processor. The Falcon, like the Atari STE, supports sampling frequencies above 44.1 kHz; the sampling master clock is 98340 Hz, which can be divided by a number between 2 and 16 to get the actual sampling frequencies. Apart from these frequencies, it is also able to play the STE sample frequencies (up to 50066 Hz) in 8 or 16 bit, mono/stereo, all by using the same DMA interface as the STE, with a few additions. The Falcon can both play back and record samples; it has 8 mono channels / 4 stereo channels; thus this allowed musicians to use the computer for harddisk recording. Although the 68030 microprocessor is capable of using 32-bit memory, the Falcon uses a 16-bit bus which affects performance, but also served to reduce its cost. In another cost-reduction measure, Atari shipped the Falcon in an inexpensive case much like that of the ST^(F) and ST^(E). Aftermarket upgrade kits were available that allowed the Falcon to be put in a desktop or rack-mount case, with the keyboard separate.
 
 Released in 1992, the Falcon was discontinued by Atari the following year. In Europe, C-Lab licensed the Falcon design from Atari, and released the C-Lab Falcon Mk I (the same as Atari's Falcon except for some slight modifications to the audio circuitry), Mk II (as Mk I but with an internal 500 MB SCSI hard disk) and Mk X (as Mk II but in a desktop case). The C-Lab Falcons were also imported to the US by at least some Atari dealers.
@@ -172,7 +164,7 @@ Another program that had success on the ST platform is _MasterTracks Pro_ from P
 
 Software titles
 
-Degas_elite_batteries_included.png ]]
+]]
 
 Also popular on the ST was professional desktop publishing software, such as _PageStream_ and _Calamus_; office tools such as word processors (_WordPerfect_, _Microsoft Write_, _AtariWorks_, _WordWriter ST_, First Word [shipped with the machine] and its Plus continuation, and others); spreadsheets (_3D-Calc_, _LDW Power_, _LDW Power 2_, _LOGiSTiX Senior_, _PowerLedger ST_, _SwiftCalc ST_, _VIP Professional_, and others); turnkey programs (_Mail-Pro_, _Sales-Pro 6_, _Video-Pro_, and others); database programs (_A-Calc Prime_, _Data Manager_, _Data Manager Professional_, _DBMan V_, _Base Two_, _H&DBase_, _Informer II_, _DB Master One_, _SBT Database Accounting Library_ (_dLedger_, _dInvoice_, _dOrder_, _dPurchases_, and _dPayables)_, _Superbase Personal_, _Superbase Professional_, _Tracker ST_, Zoomracks and others); and various CAD and CAM tools from amateur hobbyist to professional grade (Campus CAD, DynaCADD, Leonard ST, Technobox CAD/2...): all being largely targeted at, or even limited to owners of high-resolution monochrome monitors.
 

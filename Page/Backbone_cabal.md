@@ -21,7 +21,7 @@ The result of this policy was an aura of mystery, even a decade after the cabal 
 
 References
 
--   PD-icon.svg _This article incorporates text from the corresponding entry in the Jargon File, which is in the public domain according to its Introduction._
+-    _This article incorporates text from the corresponding entry in the Jargon File, which is in the public domain according to its Introduction._
 
 
 Further reading

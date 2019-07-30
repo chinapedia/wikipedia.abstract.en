@@ -63,7 +63,7 @@ Shannon developed Alzheimer's disease and spent the last few years of his life i
 
 Hobbies and inventions
 
-Minivac_601.jpg, a digital computer trainer designed by Shannon.]]
+, a digital computer trainer designed by Shannon.]]
 
 Outside of Shannon's academic pursuits, he was interested in juggling, unicycling, and chess. He also invented many devices, including a Roman numeral computer called THROBAC, juggling machines, and a flame-throwing trumpet.[30] One of his more humorous devices was a box kept on his desk called the "Ultimate Machine", based on an idea by Marvin Minsky. Otherwise featureless, the box possessed a single switch on its side. When the switch was flipped, the lid of the box opened and a mechanical hand reached out, flipped off the switch, then retracted back inside the box. In addition, he built a device that could solve the Rubik's Cube puzzle.[31]
 
@@ -96,7 +96,7 @@ On April 30, 2016 Shannon was honored with a Google Doodle to celebrate his life
 
 Other work
 
-Shannon_and_mouse.png mouse _Theseus_ (named after Theseus from Greek mythology) which he tried to have solve the maze in one of the first experiments in artificial intelligence.]]
+mouse _Theseus_ (named after Theseus from Greek mythology) which he tried to have solve the maze in one of the first experiments in artificial intelligence.]]
 
 Shannon's mouse
 
@@ -123,7 +123,7 @@ Commemorations
 
 Shannon Centenary
 
-Claude_Shannon_Centenary_Logo.jpg The Shannon Centenary, 2016, marked the life and influence of Claude Elwood Shannon on the hundredth anniversary of his birth on April 30, 1916. It was inspired in part by the Alan Turing Year. An ad hoc committee of the IEEE Information Theory Society including Christina Fragouli, Rüdiger Urbanke, Michelle Effros, Lav Varshney and Sergio Verdú,[56] coordinated worldwide events. The initiative was announced in the History Panel at the 2015 IEEE Information Theory Workshop Jerusalem[57][58] and the IEEE Information Theory Society Newsletter.[59]
+The Shannon Centenary, 2016, marked the life and influence of Claude Elwood Shannon on the hundredth anniversary of his birth on April 30, 1916. It was inspired in part by the Alan Turing Year. An ad hoc committee of the IEEE Information Theory Society including Christina Fragouli, Rüdiger Urbanke, Michelle Effros, Lav Varshney and Sergio Verdú,[56] coordinated worldwide events. The initiative was announced in the History Panel at the 2015 IEEE Information Theory Workshop Jerusalem[57][58] and the IEEE Information Theory Society Newsletter.[59]
 
 A detailed listing of confirmed events was available on the website of the IEEE Information Theory Society.[60]
 

@@ -19,7 +19,7 @@ Christian chronology
 
 In Christian circles a Euhemerist reading of the widespread Heracles cult was attributed to a historical figure who had been offered cult status after his death. Thus Eusebius, _Preparation of the Gospel_ (10.12), reported that Clement could offer historical dates for Hercules as a king in Argos: "from the reign of Hercules in Argos to the deification of Hercules himself and of Asclepius there are comprised thirty-eight years, according to Apollodorus the chronicler: and from that point to the deification of Castor and Pollux fifty-three years: and somewhere about this time was the capture of Troy."
 
-Agrigent_Heraklestempel.jpg in Agrigento, Sicily, Italy]]
+in Agrigento, Sicily, Italy]]
 
 Readers with a literalist bent, following Clement's reasoning, have asserted from this remark that, since Heracles ruled over Tiryns in Argos at the same time that Eurystheus ruled over Mycenae, and since at about this time Linus was Heracles' teacher, one can conclude, based on Jerome's date—in his universal history, his _Chronicon_—given to Linus' notoriety in teaching Heracles in 1264 BCE, that Heracles' death and deification occurred 38 years later, in approximately 1226 BCE.
 
@@ -38,7 +38,7 @@ The earliest evidence that show the worship of Heracles in popular cult was in 6
 
 Character
 
-Eurytios_Krater_Louvre_E635_n1.jpg. This vase at Caere shows King Eurytus of Oechalia and Heracles in a symposium. Krater of corinthian columns called 'Krater of Eurytion', circa 600 B.C.]]
+. This vase at Caere shows King Eurytus of Oechalia and Heracles in a symposium. Krater of corinthian columns called 'Krater of Eurytion', circa 600 B.C.]]
 
 Extraordinary strength, courage, ingenuity, and sexual prowess with both males and females were among the characteristics commonly attributed to him. Heracles used his wits on several occasions when his strength did not suffice, such as when laboring for the king Augeas of Elis, wrestling the giant Antaeus, or tricking Atlas into taking the sky back onto his shoulders. Together with Hermes he was the patron and protector of gymnasia and palaestrae.[20] His iconographic attributes are the lion skin and the club. These qualities did not prevent him from being regarded as a playful figure who used games to relax from his labors and played a great deal with children.[21] By conquering dangerous archaic forces he is said to have "made the world safe for mankind" and to be its benefactor.[22] Heracles was an extremely passionate and emotional individual, capable of doing both great deeds for his friends (such as wrestling with Thanatos on behalf of Prince Admetus, who had regaled Heracles with his hospitality, or restoring his friend Tyndareus to the throne of Sparta after he was overthrown) and being a terrible enemy who would wreak horrible vengeance on those who crossed him, as Augeas, Neleus and Laomedon all found out to their cost. There was also a coldness to his character, which was demonstrated by Sophocles' depiction of the hero in _The Trachiniae_. Heracles threatened his marriage with his desire to bring two women under the same roof, one of them was his wife Deianeira.[23]
 
@@ -49,15 +49,15 @@ Mythology
 
 Birth and childhood
 
-Herakles_strangling_snakes_Louvre_G192.jpgs (detail from an Attic red-figured stamnos, c. 480–470 BCE)]]
+s (detail from an Attic red-figured stamnos, c. 480–470 BCE)]]
 
 A major factor in the well-known tragedies surrounding Heracles is the hatred that the goddess Hera, wife of Zeus, had for him. A full account of Heracles must render it clear why Heracles was so tormented by Hera, when there were many illegitimate offspring sired by Zeus. Heracles was the son of the affair Zeus had with the mortal woman Alcmene. Zeus made love to her after disguising himself as her husband, Amphitryon, home early from war (Amphitryon did return later the same night, and Alcmene became pregnant with his son at the same time, a case of heteropaternal superfecundation, where a woman carries twins sired by different fathers).[26] Thus, Heracles' very existence proved at least one of Zeus' many illicit affairs, and Hera often conspired against Zeus' mortal offspring as revenge for her husband's infidelities. His twin mortal brother, son of Amphitryon, was Iphicles, father of Heracles' charioteer Iolaus.
 
-Jacopo_Tintoretto_-_The_Origin_of_the_Milky_Way_-_Google_Art_Project.jpg]]
+]]
 
 On the night the twins Heracles and Iphicles were to be born, Hera, knowing of her husband Zeus' adultery, persuaded Zeus to swear an oath that the child born that night to a member of the House of Perseus would become High King. Hera did this knowing that while Heracles was to be born a descendant of Perseus, so too was Eurystheus. Once the oath was sworn, Hera hurried to Alcmene's dwelling and slowed the birth of the twins Heracles and Iphicles by forcing Ilithyia, goddess of childbirth, to sit crosslegged with her clothing tied in knots, thereby causing the twins to be trapped in the womb. Meanwhile, Hera caused Eurystheus to be born prematurely, making him High King in place of Heracles. She would have permanently delayed Heracles' birth had she not been fooled by Galanthis, Alcmene's servant, who lied to Ilithyia, saying that Alcmene had already delivered the baby. Upon hearing this, she jumped in surprise, loosing the knots and inadvertently allowing Alcmene to give birth to Heracles and Iphicles.
 
-Herakles_snake_Musei_Capitolini_MC247.jpg in Rome, Italy]]
+in Rome, Italy]]
 
 Fear of Hera's revenge led Alcmene to expose the infant Heracles, but he was taken up and brought to Hera by his half-sister Athena, who played an important role as protectress of heroes. Hera did not recognize Heracles and nursed him out of pity. Heracles suckled so strongly that he caused Hera pain, and she pushed him away. Her milk sprayed across the heavens and there formed the Milky Way. But with divine milk, Heracles had acquired supernatural powers. Athena brought the infant back to his mother, and he was subsequently raised by his parents.[27]
 
@@ -65,15 +65,15 @@ The child was originally given the name Alcides by his parents; it was only late
 
 Youth
 
-CarracciHercules.jpg by Annibale Carracci]] After killing his music tutor Linus with a lyre, he was sent to tend cattle on a mountain by his foster father Amphitryon. Here, according to an allegorical parable, "The Choice of Heracles", invented by the sophist Prodicus (c. 400 BCE) and reported in Xenophon's _Memorabilia_ 2.1.21–34, he was visited by two allegorical figures—Vice and Virtue—who offered him a choice between a pleasant and easy life or a severe but glorious life: he chose the latter. This was part of a pattern of "ethicizing" Heracles over the 5th century BCE.[29]
+by Annibale Carracci]] After killing his music tutor Linus with a lyre, he was sent to tend cattle on a mountain by his foster father Amphitryon. Here, according to an allegorical parable, "The Choice of Heracles", invented by the sophist Prodicus (c. 400 BCE) and reported in Xenophon's _Memorabilia_ 2.1.21–34, he was visited by two allegorical figures—Vice and Virtue—who offered him a choice between a pleasant and easy life or a severe but glorious life: he chose the latter. This was part of a pattern of "ethicizing" Heracles over the 5th century BCE.[29]
 
 Later in Thebes, Heracles married King Creon's daughter, Megara. In a fit of madness, induced by Hera, Heracles killed his children and Megara. After his madness had been cured with hellebore by Antikyreus, the founder of Antikyra,[30] he realized what he had done and fled to the Oracle of Delphi. Unbeknownst to him, the Oracle was guided by Hera. He was directed to serve King Eurystheus for ten years and perform any task Eurystheus required of him. Eurystheus decided to give Heracles ten labours, but after completing them, Heracles was cheated by Eurystheus when he added two more, resulting in the Twelve Labors of Heracles.
 
 Labours of Heracles
 
-Herakles_lion_Louvre_F33.jpg is one of his most famous feats. (Side B from a black-figure Attic amphora, c. 540 BCE)]]
+is one of his most famous feats. (Side B from a black-figure Attic amphora, c. 540 BCE)]]
 
-Hercules_Musei_Capitolini_MC1265_n2.jpg (Gilded bronze, Roman artwork, 2nd century CE)]]
+(Gilded bronze, Roman artwork, 2nd century CE)]]
 
 Driven mad by Hera, Heracles slew his own children. To expiate the crime, Heracles was required to carry out ten labours set by his archenemy, Eurystheus, who had become king in Heracles' place. If he succeeded, he would be purified of his sin and, as myth says, he would become a god, and be granted immortality.
 
@@ -113,7 +113,7 @@ After completing these tasks, Heracles fell in love with Princess Iole of Oechal
 
 Omphale
 
-Affresco_romano_-_eracle_ed_onfale_-_area_vesuviana.JPG, Roman fresco, Pompeian Fourth Style (45–79 AD), Naples National Archaeological Museum, Italy]]
+, Roman fresco, Pompeian Fourth Style (45–79 AD), Naples National Archaeological Museum, Italy]]
 
 Omphale was a queen or princess of Lydia. As penalty for a murder, imposed by Xenoclea, the Delphic Oracle, Heracles was to serve as her slave for a year. He was forced to do women's work and to wear women's clothes, while she wore the skin of the Nemean Lion and carried his olive-wood club. After some time, Omphale freed Heracles and married him. Some sources mention a son born to them who is variously named. It was at that time that the cercopes, mischievous wood spirits, stole Heracles' weapons. He punished them by tying them to a stick with their faces pointing downward.
 
@@ -131,15 +131,13 @@ On his way back to Mycenae from Iberia, having obtained the Cattle of Geryon as 
 
 Heracles' sack of Troy
 
-Hall_of_the_Augustals.jpg depicting Heracles and Achelous from Greco-Roman mythology, 1st century AD]] Before Homer's Trojan War, Heracles had made an expedition to Troy and sacked it. Previously, Poseidon had sent a sea monster to attack Troy. The story is related in several digressions in the _Iliad_ (7.451–453, 20.145–148, 21.442–457) and is found in pseudo-Apollodorus' Bibliotheke (2.5.9). This expedition became the theme of the Eastern pediment of the Temple of Aphaea. Laomedon planned on sacrificing his daughter Hesione to Poseidon in the hope of appeasing him. Heracles happened to arrive (along with Telamon and Oicles) and agreed to kill the monster if Laomedon would give him the horses received from Zeus as compensation for Zeus' kidnapping Ganymede. Laomedon agreed. Heracles killed the monster, but Laomedon went back on his word. Accordingly, in a later expedition, Heracles and his followers attacked Troy and sacked it. Then they slew all Laomedon's sons present there save Podarces, who was renamed Priam, who saved his own life by giving Heracles a golden veil Hesione had made. Telamon took Hesione as a war prize and they had a son, Teucer.
+depicting Heracles and Achelous from Greco-Roman mythology, 1st century AD]] Before Homer's Trojan War, Heracles had made an expedition to Troy and sacked it. Previously, Poseidon had sent a sea monster to attack Troy. The story is related in several digressions in the _Iliad_ (7.451–453, 20.145–148, 21.442–457) and is found in pseudo-Apollodorus' Bibliotheke (2.5.9). This expedition became the theme of the Eastern pediment of the Temple of Aphaea. Laomedon planned on sacrificing his daughter Hesione to Poseidon in the hope of appeasing him. Heracles happened to arrive (along with Telamon and Oicles) and agreed to kill the monster if Laomedon would give him the horses received from Zeus as compensation for Zeus' kidnapping Ganymede. Laomedon agreed. Heracles killed the monster, but Laomedon went back on his word. Accordingly, in a later expedition, Heracles and his followers attacked Troy and sacked it. Then they slew all Laomedon's sons present there save Podarces, who was renamed Priam, who saved his own life by giving Heracles a golden veil Hesione had made. Telamon took Hesione as a war prize and they had a son, Teucer.
 
 Colony at Sardinia
 
 After Heracles had performed his Labours, gods told him that before he passed into the company of the gods, he should create a colony at Sardinia and make his sons, who had with the daughters of Thespius, the leaders of the settlement. When his sons became adults, he sent them together with Iolaus to the island.[33][34]
 
 Other adventures
-
-Heracles fighting the servants of the Egyptian King Busiris, Attic _Pelike_, c.470 BC
 
 -   Heracles defeated the Bebryces (ruled by King Mygdon) and gave their land to Prince Lycus of Mysia, son of Dascylus.
 -   He killed the robber Termerus.
@@ -154,7 +152,7 @@ Heracles fighting the servants of the Egyptian King Busiris, Attic _Pelike_, c.4
 -   Heracles learned music from Linus (and Eumolpus), but killed him after Linus corrected his mistakes. He learned how to wrestle from Autolycus. He killed the famous boxer Eryx of Sicily in a match.
 -   Heracles was an Argonaut. He killed Alastor and his brothers.
 
-Herakles_och_Antaios,_Nordisk_familjebok.png]]
+]]
 
 -   When Hippocoon overthrew his brother, Tyndareus, as King of Sparta, Heracles reinstated the rightful ruler and killed Hippocoon and his sons.
 -   Heracles killed Cycnus, the son of Ares. The expedition against Cycnus, in which Iolaus accompanied Heracles, is the ostensible theme of a short epic attributed to Hesiod, _Shield of Heracles_.
@@ -169,7 +167,7 @@ Herakles_och_Antaios,_Nordisk_familjebok.png]]
 
 Death
 
-Muerte_de_Hércules,_por_Zurbarán.jpg, 1634, Museo del Prado)]]
+, 1634, Museo del Prado)]]
 
 This is described in Sophocles's _Trachiniae_ and in Ovid's _Metamorphoses_ Book IX. Having wrestled and defeated Achelous, god of the Acheloos river, Heracles takes Deianira as his wife. Travelling to Tiryns, a centaur, Nessus, offers to help Deianira across a fast flowing river while Heracles swims it. However, Nessus is true to the archetype of the mischievous centaur and tries to steal Deianira away while Heracles is still in the water. Angry, Heracles shoots him with his arrows dipped in the poisonous blood of the Lernaean Hydra. Thinking of revenge, Nessus gives Deianira his blood-soaked tunic before he dies, telling her it will "excite the love of her husband".[36]
 
@@ -205,7 +203,7 @@ Dionysius of Halicarnassus writes that Heracles and Lavinia, daughter of Evander
 
 Men
 
-Hercules_and_Iolaus_mosaic_-_Anzio_Nymphaeum.jpg (Fountain mosaic from the Anzio Nymphaeum)]]
+(Fountain mosaic from the Anzio Nymphaeum)]]
 
 As a symbol of masculinity and warriorship, Heracles also had a number of male lovers. Plutarch, in his _Eroticos,_ maintains that Heracles' male lovers were beyond counting. Of these, the one most closely linked to Heracles is the Theban Iolaus. According to a myth thought to be of ancient origins, Iolaus was Heracles' charioteer and squire. Heracles in the end helped Iolaus find a wife. Plutarch reports that down to his own time, male couples would go to Iolaus's tomb in Thebes to swear an oath of loyalty to the hero and to each other.[40][41]
 
@@ -228,7 +226,7 @@ A scholiast on _Argonautica_ lists the following male lovers of Heracles: "Hylas
 
 Children
 
-Herakles_and_Telephos_Louvre_MR219.jpg. (Marble, Roman copy of the 1st or 2nd century CE)]]
+. (Marble, Roman copy of the 1st or 2nd century CE)]]
 
 All of Heracles' marriages and almost all of his heterosexual affairs resulted in births of a number of sons and at least four daughters. One of the most prominent is Hyllus, the son of Heracles and Deianeira or Melite. The term _Heracleidae_, although it could refer to all of Heracles' children and further descendants, is most commonly used to indicate the descendants of Hyllus, in the context of their lasting struggle for return to Peloponnesus, out of where Hyllus and his brothers—the children of Heracles by Deianeira—were thought to have been expelled by Eurystheus.
 
@@ -336,7 +334,7 @@ Heracles around the world
 
 Rome
 
-Tesoro_di_hildesheim,_argento,_I_sec_ac-I_dc_ca.,_piatto_da_parata_con_ercole_bambino_e_i_serpenti_01.JPG strangling two serpents, from the Hildesheim Treasure, 1st century AD, Altes Museum]]
+strangling two serpents, from the Hildesheim Treasure, 1st century AD, Altes Museum]]
 
 In Rome, Heracles was honored as _Hercules_, and had a number of distinctively Roman myths and practices associated with him under that name.
 

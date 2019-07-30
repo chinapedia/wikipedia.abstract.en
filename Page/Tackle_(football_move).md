@@ -1,4 +1,4 @@
-Caddy_tackling_Pendlebury_(cropped).jpg]] Most forms of football have a move known as a TACKLE. The primary and important purposes of tackling are to dispossess an opponent of the ball, to stop the player from gaining ground towards goal or to stop them from carrying out what they intend.
+]] Most forms of football have a move known as a TACKLE. The primary and important purposes of tackling are to dispossess an opponent of the ball, to stop the player from gaining ground towards goal or to stop them from carrying out what they intend.
 
 The word is used in some contact variations of football to describe the act of physically holding or wrestling a player to the ground. In others, it simply describes one or more methods of contesting for possession of the ball. It can therefore be used as both a defensive or attacking move.
 
@@ -10,7 +10,7 @@ In Middle Dutch, the verb meant to grab or to handle. By the 14th century, this 
 
 American and Canadian football
 
-Navy-UMass.jpg game: Navy quarterback Kaipo-Noa Kaheaku-Enhada (blue) is tackled by Massachusetts defensive back James Ihedigbo, (white 7), and linebacker Charles Walker, (white 11).]] In American football and Canadian football, to tackle is to physically interfere with the forward progress of a player in possession of the ball, such that his forward progress ceases and is not resumed, or such that he is caused to touch some part of his body to the ground other than his feet or hands, or such that he is forced to go out of bounds. In any such case, the ball becomes dead, the down is over, and play ceases until the beginning of the next play.
+game: Navy quarterback Kaipo-Noa Kaheaku-Enhada (blue) is tackled by Massachusetts defensive back James Ihedigbo, (white 7), and linebacker Charles Walker, (white 11).]] In American football and Canadian football, to tackle is to physically interfere with the forward progress of a player in possession of the ball, such that his forward progress ceases and is not resumed, or such that he is caused to touch some part of his body to the ground other than his feet or hands, or such that he is forced to go out of bounds. In any such case, the ball becomes dead, the down is over, and play ceases until the beginning of the next play.
 
 A tackle is known as a quarterback sack when the quarterback is tackled at or behind the line of scrimmage while attempting to throw a pass. A TACKLE FOR LOSS indicates a tackle that causes a loss of yardage for the opposing running back or wide receiver. This happens when the quarterback is sacked, when either a rusher or a receiver is tackled behind the line of scrimmage, or when the ball is fumbled behind the line of scrimmage and was picked up by an offensive player who does not manage to move past the line before being tackled. When a player who does not have the ball is taken down, it is generally referred to as a block.
 
@@ -29,7 +29,7 @@ In the National Football League (NFL), tackles are tracked as an unofficial stat
 
 Association football
 
-Soccer_tackle.JPEG]] Cole_Diamanti_and_Gerrard_England-Italy_Euro_2012.jpg (blue 22) slide tackles Steven Gerrard (white 4) at Euro 2012.]] Unlike other codes, tackles in association football have to be predominantly directed against the ball rather than the player in possession of it. This is achieved by using either leg to wrest possession from the opponent, or sliding in on the grass to knock the ball away. A defender is permitted to use their body to obstruct the motion of a player with the ball, and this may be part of a successful tackle.[2] Pulling a player to the ground in the style of tackle common to other codes is completely absent from the game (this would be considered "serious foul play" and result a dismissal).
+]] (blue 22) slide tackles Steven Gerrard (white 4) at Euro 2012.]] Unlike other codes, tackles in association football have to be predominantly directed against the ball rather than the player in possession of it. This is achieved by using either leg to wrest possession from the opponent, or sliding in on the grass to knock the ball away. A defender is permitted to use their body to obstruct the motion of a player with the ball, and this may be part of a successful tackle.[2] Pulling a player to the ground in the style of tackle common to other codes is completely absent from the game (this would be considered "serious foul play" and result a dismissal).
 
 Although some contact between players is allowed, the rules of association football significantly limit the physicality of tackles, explicitly forbidding contacts which are "careless, reckless or [use] excessive force".[3] Almost all tackles where the tackler's legs make contact with the opponent before the ball are considered illegal, and heavy contact after initially touching the ball may also be penalised.
 
@@ -46,7 +46,7 @@ The most spectacular form of tackle in association football is the slide tackle,
 
 Australian rules football
 
-Liam_Picken_tackling_Jordan_Lewis_while_handballing.jpg player Liam Picken tackling Jordan Lewis of Melbourne, who is attempting a handball]]
+player Liam Picken tackling Jordan Lewis of Melbourne, who is attempting a handball]]
 
 In Australian rules football, the move commonly described as a "tackle" is similar to in rugby and involves wrapping, holding or wrestling a player who has possession of the ball to the ground. Players not in possession of the ball are not allowed to be tackled, and will receive a holding the man free kick if tackled.
 
@@ -94,8 +94,6 @@ International rules football is a hybrid game between Australian rules football 
 
 Rugby football
 
-Hit_up_into_defenders.jpg
-
 Rugby league
 
 In rugby league the ball-carrier can be tackled by any number of defenders from any direction. The initial contact in the tackle must be made below the ball carrier's neck or it will be deemed a high tackle and penalised. A tackle in rugby league is completed when any of the following occurs:[12]
@@ -109,7 +107,7 @@ Once the tackle is completed, the ball-carrier must be allowed to get to his fee
 
 Rugby union
 
-Rugby_tackle_cropped.jpg In rugby union, a player must be brought to ground for a tackle to be completed. The tackled player must release the ball, but the ball is not dead and a _ruck_ forms to contest possession of it. If the ball carrier is not brought to the ground a _maul_ will usually form. High/reckless or stiff arm tackles laws once dictated any contact made above the shoulders was an offence. Now, even if contact starts below the shoulders, if the head is involved in any reckless tackle it results in the offending player being given a yellow card and therefore sin binned. World Rugby now defines a reckless tackle as being any contact where the tackler "knew or should have known that there was a risk of making contact with the head of an opponent, but did so anyway"[15]
+In rugby union, a player must be brought to ground for a tackle to be completed. The tackled player must release the ball, but the ball is not dead and a _ruck_ forms to contest possession of it. If the ball carrier is not brought to the ground a _maul_ will usually form. High/reckless or stiff arm tackles laws once dictated any contact made above the shoulders was an offence. Now, even if contact starts below the shoulders, if the head is involved in any reckless tackle it results in the offending player being given a yellow card and therefore sin binned. World Rugby now defines a reckless tackle as being any contact where the tackler "knew or should have known that there was a risk of making contact with the head of an opponent, but did so anyway"[15]
 
 
 Non-tackling variants

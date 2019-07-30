@@ -24,7 +24,7 @@ Overview
 
 A separate ISBN is assigned to each edition and variation (except reprintings) of a publication. For example, an ebook, audiobook, paperback, and hardcover edition of the same book will each have a different ISBN assigned to it.[15] The ISBN is thirteen digits long if assigned on or after 1 January 2007, and ten digits long if assigned before 2007. An International Standard Book Number consists of four parts (if it is a 10-digit ISBN) or five parts (for a 13-digit ISBN).
 
-Section 5 of the International ISBN Agency's official user manual[16] describes the structure of the 13-digit ISBN, as follows: ISBN_Details.svg country code.]]
+Section 5 of the International ISBN Agency's official user manual[16] describes the structure of the 13-digit ISBN, as follows: country code.]]
 
 1.  for a 13-digit ISBN, a prefix element – a _GS1 prefix_: so far 978 or 979 have been made available by GS1,
 2.  the _registration group element_ (language-sharing country group, individual country or territory),

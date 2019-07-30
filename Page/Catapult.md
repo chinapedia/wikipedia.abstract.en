@@ -1,4 +1,4 @@
-Mang2.png A CATAPULT is a ballistic device used to launch a projectile a great distance without the aid of explosive devices—particularly various types of ancient and medieval siege engines.[1] In use since ancient times, the catapult has proven to be one of the most effective mechanisms during warfare. In modern times the term can apply to devices ranging from a simple hand-held implement (also called a "slingshot") to a mechanism for launching aircraft from a ship.
+A CATAPULT is a ballistic device used to launch a projectile a great distance without the aid of explosive devices—particularly various types of ancient and medieval siege engines.[1] In use since ancient times, the catapult has proven to be one of the most effective mechanisms during warfare. In modern times the term can apply to devices ranging from a simple hand-held implement (also called a "slingshot") to a mechanism for launching aircraft from a ship.
 
 The earliest catapults date to at least the 4th century BC with the advent of the mangonel in ancient China, a type of traction trebuchet and catapult.[2][3] Early uses were also attributed to Ajatashatru of Magadha in his war against the Licchavis.[4] Early Greek catapults emerged around the 1st century BC.[5]
 
@@ -10,7 +10,7 @@ The word 'catapult' comes from the Latin 'catapulta', which in turn comes from t
 
 Greek and Roman catapults
 
-Ancient_Mechanical_Artillery._Pic_01.jpg (bottom center), Gastraphetes (on wall)]] Ancient_Roman_catapult_-_Discours_de_la_religion_des_anciens_Romains_(1581)_(14763485952)_(enhanced).jpg 047_Conrad_Cichorius,_Die_Reliefs_der_Traianssäule,_Tafel_XLVII_(Ausschnitt_02).jpg]] The catapult and crossbow in Greece are closely intertwined. Primitive catapults were essentially "the product of relatively straightforward attempts to increase the range and penetrating power of missiles by strengthening the bow which propelled them".[12] The historian Diodorus Siculus (fl. 1st century BC), described the invention of a mechanical arrow-firing catapult (_katapeltikon_) by a Greek task force in 399 BC.[13][14] The weapon was soon after employed against Motya (397 BC), a key Carthaginian stronghold in Sicily.[15][16] Diodorus is assumed to have drawn his description from the highly rated history of Philistus, a contemporary of the events then. The introduction of crossbows however, can be dated further back: according to the inventor Hero of Alexandria (fl. 1st century AD), who referred to the now lost works of the 3rd-century BC engineer Ctesibius, this weapon was inspired by an earlier foot-held crossbow, called the _gastraphetes_, which could store more energy than the Greek bows. A detailed description of the _gastraphetes_, or the "belly-bow",[17] along with a watercolor drawing, is found in Heron's technical treatise _Belopoeica_.[18][19]
+(bottom center), Gastraphetes (on wall)]] ]] The catapult and crossbow in Greece are closely intertwined. Primitive catapults were essentially "the product of relatively straightforward attempts to increase the range and penetrating power of missiles by strengthening the bow which propelled them".[12] The historian Diodorus Siculus (fl. 1st century BC), described the invention of a mechanical arrow-firing catapult (_katapeltikon_) by a Greek task force in 399 BC.[13][14] The weapon was soon after employed against Motya (397 BC), a key Carthaginian stronghold in Sicily.[15][16] Diodorus is assumed to have drawn his description from the highly rated history of Philistus, a contemporary of the events then. The introduction of crossbows however, can be dated further back: according to the inventor Hero of Alexandria (fl. 1st century AD), who referred to the now lost works of the 3rd-century BC engineer Ctesibius, this weapon was inspired by an earlier foot-held crossbow, called the _gastraphetes_, which could store more energy than the Greek bows. A detailed description of the _gastraphetes_, or the "belly-bow",[17] along with a watercolor drawing, is found in Heron's technical treatise _Belopoeica_.[18][19]
 
 A third Greek author, Biton (fl. 2nd century BC), whose reliability has been positively reevaluated by recent scholarship,[20] described two advanced forms of the _gastraphetes_, which he credits to Zopyros, an engineer from southern Italy. Zopyrus has been plausibly equated with a Pythagorean of that name who seems to have flourished in the late 5th century BC.[21] He probably designed his bow-machines on the occasion of the sieges of Cumae and Milet between 421 BC and 401 BC.[22][23] The bows of these machines already featured a winched pull back system and could apparently throw two missiles at once.[24]
 
@@ -23,7 +23,7 @@ The Romans started to use catapults as arms for their wars against Syracuse, Mac
 
 Other ancient catapults
 
-00-machines-of-war-catapult-1708x900.jpgn emperor Ajatashatru of Magadha used catapults against the Licchavis.]] Ajatshatru is recorded in Jaina texts as having used catapults in his campaign against the Licchavis.[38]
+n emperor Ajatashatru of Magadha used catapults against the Licchavis.]] Ajatshatru is recorded in Jaina texts as having used catapults in his campaign against the Licchavis.[38]
 
 King Uzziah, who reigned in Judah until 750 BC, is documented as having overseen the construction of machines to "shoot great stones" in .
 
@@ -32,7 +32,7 @@ The first recorded use of mangonels was in ancient China.[39][40][41] They were 
 
 Medieval catapults
 
-Replica_catapult.jpg]] Front_of_medieval_catapult_2_in_Mercato_San_Severino,_Italy.JPG catapult in Mercato San Severino, Italy]] Catapult_1_Mercato_San_Severino.jpg Castles and fortified walled cities were common during this period and catapults were used as siege weapons against them. As well as their use in attempts to breach walls, incendiary missiles, or diseased carcasses or garbage could be catapulted over the walls.
+]] catapult in Mercato San Severino, Italy]] Castles and fortified walled cities were common during this period and catapults were used as siege weapons against them. As well as their use in attempts to breach walls, incendiary missiles, or diseased carcasses or garbage could be catapulted over the walls.
 
 Defensive techniques in the Middle Ages progressed to a point that rendered catapults largely ineffective. The Viking siege of Paris (885–6 A.D.) "saw the employment by both sides of virtually every instrument of siege craft known to the classical world, including a variety of catapults", to little effect, resulting in failure.[45]
 
@@ -54,7 +54,7 @@ Onager: Mangonels are also sometimes referred to as Onagers. Onager catapults in
 
 
 
-Trebuchet: MongolsBesiegingACityInTheMiddleEast13thCentury.jpg Trebuchets were probably the most powerful catapult employed in the Middle Ages. The most commonly used ammunition were stones, but "darts and sharp wooden poles" could be substituted if necessary. The most effective kind of ammunition though involved fire, such as "firebrands, and deadly Greek Fire". Trebuchets came in two different designs: Traction, which were powered by people, or Counterpoise, where the people were replaced with "a weight on the short end".[52] The most famous historical account of trebuchet use dates back to the siege of Stirling Castle in 1304, when the army of Edward I constructed a giant trebuchet known as Warwolf, which then proceeded to "level a section of [castle] wall, successfully concluding the siege".[53]
+Trebuchet:  Trebuchets were probably the most powerful catapult employed in the Middle Ages. The most commonly used ammunition were stones, but "darts and sharp wooden poles" could be substituted if necessary. The most effective kind of ammunition though involved fire, such as "firebrands, and deadly Greek Fire". Trebuchets came in two different designs: Traction, which were powered by people, or Counterpoise, where the people were replaced with "a weight on the short end".[52] The most famous historical account of trebuchet use dates back to the siege of Stirling Castle in 1304, when the army of Edward I constructed a giant trebuchet known as Warwolf, which then proceeded to "level a section of [castle] wall, successfully concluding the siege".[53]
 
 
 
@@ -69,7 +69,7 @@ Modern use
 
 Military
 
-French_grenade_catapult.jpgs and other explosives during World War I]] The last large scale military use of catapults was during the trench warfare of World War I. During the early stages of the war, catapults were used to throw hand grenades across no man's land into enemy trenches. They were eventually replaced by small mortars.
+s and other explosives during World War I]] The last large scale military use of catapults was during the trench warfare of World War I. During the early stages of the war, catapults were used to throw hand grenades across no man's land into enemy trenches. They were eventually replaced by small mortars.
 
 In the 1840s the invention of vulcanized rubber allowed the making of small hand-held catapults, either improvised from Y-shaped sticks or manufactured for sale; both were popular with children and teenagers. These devices were also known as slingshots in the USA.
 

@@ -20,8 +20,6 @@ In addition to "Christmas", the holiday has been known by various other names th
 
 Nativity
 
-English_luke2-1-20_tyndale_mtd.ogg
-
 The gospels of Luke and Matthew describe Jesus as being born in Bethlehem to the Virgin Mary. In Luke, Joseph and Mary travel from Nazareth to Bethlehem for the census, and Jesus is born there and laid in a manger.[43] Angels proclaimed him a savior for all people, and shepherds came to adore him.
 
 Matthew adds that the magi follow a star to Bethlehem to bring gifts to Jesus, born the king of the Jews. King Herod orders the massacre of all the boys less than two years old in Bethlehem, but the family flees to Egypt and later returns to Nazareth.
@@ -29,7 +27,7 @@ Matthew adds that the magi follow a star to Bethlehem to bring gifts to Jesus, b
 
 History
 
-Nativity_(15th_c.,_Annunciation_Cathedral_in_Moscow).jpg icon of the birth of Christ by Saint Andrei Rublev, 15th century]] Hortus_Deliciarum,_Die_Geburt_Christi.JPG'' of Herrad of Landsberg (12th century)]] Gerard_van_Honthorst_-_Adoration_of_the_Shepherds_(1622).jpg depicts the nativity of Jesus]] The nativity stories recounted in Matthew and Luke prompted early Christian writers to suggest various dates for the anniversary.[44] Although no date is indicated in the gospels, early Christians connected Jesus to the Sun through the use of such phrases as "Sun of righteousness."[45][46] The Romans marked the winter solstice on December 25.[47] The first recorded Christmas celebration was in Rome on December 25, 336.[48][49] Christmas played a role in the Arian controversy of the fourth century. After this controversy was played out, the prominence of the holiday declined. The feast regained prominence after 800, when Charlemagne was crowned emperor on Christmas Day. Associating it with drunkenness and other misbehavior, the Puritans banned Christmas during the Reformation.[50] It was restored as a legal holiday in 1660, but remained disreputable. In the early 19th century, Christmas was reconceived by Washington Irving, Charles Dickens, and other authors as a holiday emphasizing family, children, kind-heartedness, gift-giving, and Santa Claus.[51]
+icon of the birth of Christ by Saint Andrei Rublev, 15th century]] '' of Herrad of Landsberg (12th century)]] depicts the nativity of Jesus]] The nativity stories recounted in Matthew and Luke prompted early Christian writers to suggest various dates for the anniversary.[44] Although no date is indicated in the gospels, early Christians connected Jesus to the Sun through the use of such phrases as "Sun of righteousness."[45][46] The Romans marked the winter solstice on December 25.[47] The first recorded Christmas celebration was in Rome on December 25, 336.[48][49] Christmas played a role in the Arian controversy of the fourth century. After this controversy was played out, the prominence of the holiday declined. The feast regained prominence after 800, when Charlemagne was crowned emperor on Christmas Day. Associating it with drunkenness and other misbehavior, the Puritans banned Christmas during the Reformation.[50] It was restored as a legal holiday in 1660, but remained disreputable. In the early 19th century, Christmas was reconceived by Washington Irving, Charles Dickens, and other authors as a holiday emphasizing family, children, kind-heartedness, gift-giving, and Santa Claus.[51]
 
 Introduction of feast
 
@@ -45,7 +43,7 @@ Various factors contributed to the selection of December 25 as a date of celebra
 
 Solstice date
 
-ChristAsSol.jpg in Rome.[60]]] December 25 was the date of the winter solstice on the Roman calendar.[61][62] Jesus chose to be born on the shortest day of the year for symbolic reasons, according to an early Christmas sermon by Augustine: "Hence it is that He was born on the day which is the shortest in our earthly reckoning and from which subsequent days begin to increase in length. He, therefore, who bent low and lifted us up chose the shortest day, yet the one whence light begins to increase."[63]
+in Rome.[60]]] December 25 was the date of the winter solstice on the Roman calendar.[61][62] Jesus chose to be born on the shortest day of the year for symbolic reasons, according to an early Christmas sermon by Augustine: "Hence it is that He was born on the day which is the shortest in our earthly reckoning and from which subsequent days begin to increase in length. He, therefore, who bent low and lifted us up chose the shortest day, yet the one whence light begins to increase."[63]
 
 Linking Jesus to the Sun was supported by various Biblical passages. Jesus was considered to be the "Sun of righteousness" prophesied by Malachi: "Unto you shall the sun of righteousness arise, and healing is in his wings."[64]
 
@@ -79,11 +77,9 @@ With regard to a December religious feast of the deified Sun (Sol), as distinct 
 
 Post-classical history
 
-Nativity_from_Sherbrooke_Missal_cropped.jpg; a liturgical book containing texts and music necessary for the celebration of Mass throughout the year]] In the Early Middle Ages, Christmas Day was overshadowed by Epiphany, which in western Christianity focused on the visit of the magi. But the medieval calendar was dominated by Christmas-related holidays. The forty days before Christmas became the "forty days of St. Martin" (which began on November 11, the feast of St. Martin of Tours), now known as Advent.[94] In Italy, former Saturnalian traditions were attached to Advent.[95] Around the 12th century, these traditions transferred again to the Twelve Days of Christmas (December 25 – January 5); a time that appears in the liturgical calendars as Christmastide or Twelve Holy Days.[96]
+; a liturgical book containing texts and music necessary for the celebration of Mass throughout the year]] In the Early Middle Ages, Christmas Day was overshadowed by Epiphany, which in western Christianity focused on the visit of the magi. But the medieval calendar was dominated by Christmas-related holidays. The forty days before Christmas became the "forty days of St. Martin" (which began on November 11, the feast of St. Martin of Tours), now known as Advent.[94] In Italy, former Saturnalian traditions were attached to Advent.[95] Around the 12th century, these traditions transferred again to the Twelve Days of Christmas (December 25 – January 5); a time that appears in the liturgical calendars as Christmastide or Twelve Holy Days.[96]
 
 The prominence of Christmas Day increased gradually after Charlemagne was crowned Emperor on Christmas Day in 800. King Edmund the Martyr was anointed on Christmas in 855 and King William I of England was crowned on Christmas Day 1066.
-
-Julius_Schnorr_von_Carolsfeld_(German_-_The_Coronation_of_Charlemagne_-_Google_Art_Project.jpg
 
 By the High Middle Ages, the holiday had become so prominent that chroniclers routinely noted where various magnates celebrated Christmas. King Richard II of England hosted a Christmas feast in 1377 at which twenty-eight oxen and three hundred sheep were eaten.[97] The Yule boar was a common feature of medieval Christmas feasts. Caroling also became popular, and was originally a group of dancers who sang. The group was composed of a lead singer and a ring of dancers that provided the chorus. Various writers of the time condemned caroling as lewd, indicating that the unruly traditions of Saturnalia and Yule may have continued in this form.[98] "Misrule"—drunkenness, promiscuity, gambling—was also an important aspect of the festival. In England, gifts were exchanged on New Year's Day, and there was special Christmas ale.[99]
 
@@ -101,7 +97,7 @@ However, in 17th century England, some groups such as the Puritans, strongly con
 
 Protests followed as pro-Christmas rioting broke out in several cities and for weeks Canterbury was controlled by the rioters, who decorated doorways with holly and shouted royalist slogans.[117] The book, _The Vindication of Christmas_ (London, 1652), argued against the Puritans, and makes note of Old English Christmas traditions, dinner, roast apples on the fire, card playing, dances with "plow-boys" and "maidservants", old Father Christmas and carol singing.[118]
 
-FatherChristmastrial.jpg'', (1686), published after Christmas was reinstated as a holy day in England]] The Restoration of King Charles II in 1660 ended the ban, but many Calvinist clergymen still disapproved of Christmas celebration. As such, in Scotland, the Presbyterian Church of Scotland discouraged the observance of Christmas, and though James VI commanded its celebration in 1618, attendance at church was scant.[119] The Parliament of Scotland officially abolished the observance of Christmas in 1640, claiming that the church had been "purged of all superstitious observation of days".[120] It was not until 1958 that Christmas again became a Scottish public holiday.[121]
+'', (1686), published after Christmas was reinstated as a holy day in England]] The Restoration of King Charles II in 1660 ended the ban, but many Calvinist clergymen still disapproved of Christmas celebration. As such, in Scotland, the Presbyterian Church of Scotland discouraged the observance of Christmas, and though James VI commanded its celebration in 1618, attendance at church was scant.[119] The Parliament of Scotland officially abolished the observance of Christmas in 1640, claiming that the church had been "purged of all superstitious observation of days".[120] It was not until 1958 that Christmas again became a Scottish public holiday.[121]
 
 Following the Restoration of Charles II, _Poor Robin's Almanack_ contained the lines: "Now thanks to God for Charles return, / Whose absence made old Christmas mourn. / For then we scarcely did it know, / Whether it Christmas were or no."[122] The diary of James Woodforde, from the latter half of the 18th century, details the observance of Christmas and celebrations associated with the season over a number of years.[123]
 
@@ -113,13 +109,13 @@ With the atheistic Cult of Reason in power during the era of Revolutionary Franc
 
 19th century
 
-Scrooges_third_visitor-John_Leech,1843_edit.jpg and the Ghost of Christmas Present. From Charles Dickens' _A Christmas Carol_, 1843.]] In the UK, Christmas Day became a bank holiday in 1834, Boxing Day was added in 1871.[133]
+and the Ghost of Christmas Present. From Charles Dickens' _A Christmas Carol_, 1843.]] In the UK, Christmas Day became a bank holiday in 1834, Boxing Day was added in 1871.[133]
 
 In the early-19th century, writers imagined Tudor Christmas as a time of heartfelt celebration. In 1843, Charles Dickens wrote the novel _A Christmas Carol_ that helped revive the "spirit" of Christmas and seasonal merriment.[134][135] Its instant popularity played a major role in portraying Christmas as a holiday emphasizing family, goodwill, and compassion.[136]
 
 Dickens sought to construct Christmas as a family-centered festival of generosity, linking "worship and feasting, within a context of social reconciliation."[137] Superimposing his humanitarian vision of the holiday, in what has been termed "Carol Philosophy",[138] Dickens influenced many aspects of Christmas that are celebrated today in Western culture, such as family gatherings, seasonal food and drink, dancing, games, and a festive generosity of spirit.[139] A prominent phrase from the tale, "Merry Christmas", was popularized following the appearance of the story.[140] This coincided with the appearance of the Oxford Movement and the growth of Anglo-Catholicism, which led a revival in traditional rituals and religious observances.[141]
 
-Godey'streeDec1850.GIF, published in the _Illustrated London News_, 1848, and republished in _Godey's Lady's Book_, Philadelphia, December 1850]]
+, published in the _Illustrated London News_, 1848, and republished in _Godey's Lady's Book_, Philadelphia, December 1850]]
 
 The term Scrooge became a synonym for miser, with "Bah! Humbug!" dismissive of the festive spirit.[142] In 1843, the first commercial Christmas card was produced by Sir Henry Cole.[143] The revival of the Christmas Carol began with William Sandys's "Christmas Carols Ancient and Modern" (1833), with the first appearance in print of "The First Noel", "I Saw Three Ships", "Hark the Herald Angels Sing" and "God Rest Ye Merry, Gentlemen", popularized in Dickens' _A Christmas Carol_.
 
@@ -129,7 +125,7 @@ An image of the British royal family with their Christmas tree at Windsor Castle
 
 In America, interest in Christmas had been revived in the 1820s by several short stories by Washington Irving which appear in his _The Sketch Book of Geoffrey Crayon, Gent._ and "Old Christmas". Irving's stories depicted harmonious warm-hearted English Christmas festivities he experienced while staying in Aston Hall, Birmingham, England, that had largely been abandoned,[149] and he used the tract _Vindication of Christmas_ (1652) of Old English Christmas traditions, that he had transcribed into his journal as a format for his stories.[150]
 
-Adolph_Tidemand_Norsk_juleskik.jpg]] The_Christmas_Visit._Postcard,_c._1910.jpg
+]]
 
 In 1822, Clement Clarke Moore wrote the poem _A Visit From St. Nicholas_ (popularly known by its first line: _Twas the Night Before Christmas_).[151] The poem helped popularize the tradition of exchanging gifts, and seasonal Christmas shopping began to assume economic importance.[152] This also started the cultural conflict between the holiday's spiritual significance and its associated commercialism that some see as corrupting the holiday. In her 1850 book _The First Christmas in New England_, Harriet Beecher Stowe includes a character who complains that the true meaning of Christmas was lost in a shopping spree.First Presbyterian Church of Watertown "Oh ... and one more thing" December 11, 2005
 
@@ -150,9 +146,7 @@ As Christmas celebrations began to be held around the world even outside traditi
 
 Customs and traditions
 
-Countries_that_recognize_Christmas_as_a_Public_Holiday.svg
-
-Complete-church-midnight-mass_(3135957575).jpgs to celebrate the birth of Jesus Christ.[168]]]
+s to celebrate the birth of Jesus Christ.[168]]]
 
 Christmas Day is celebrated as a major festival and public holiday in countries around the world, including many whose populations are mostly non-Christian. In some non-Christian areas, periods of former colonial rule introduced the celebration (e.g. Hong Kong); in others, Christian minorities or foreign cultural influences have led populations to observe the holiday. Countries such as Japan, where Christmas is popular despite there being only a small number of Christians, have adopted many of the secular aspects of Christmas, such as gift-giving, decorations, and Christmas trees.
 
@@ -166,27 +160,25 @@ Christmas Day (inclusive of its vigil, Christmas Eve), is a Festival in the Luth
 
 Decorations
 
-Nacimiento_napolitano.jpg _presepe_ or _presepio_, or Nativity scene. Local crèches are renowned for their ornate decorations and symbolic figurines, often mirroring daily life.]]
+_presepe_ or _presepio_, or Nativity scene. Local crèches are renowned for their ornate decorations and symbolic figurines, often mirroring daily life.]]
 
 The practice of putting up special decorations at Christmas has a long history. In the 15th century, it was recorded that in London it was the custom at Christmas for every house and all the parish churches to be "decked with holm, ivy, bays, and whatsoever the season of the year afforded to be green".[172] The heart-shaped leaves of ivy were said to symbolize the coming to earth of Jesus, while holly was seen as protection against pagans and witches, its thorns and red berries held to represent the Crown of Thorns worn by Jesus at the crucifixion and the blood he shed.[173][174]
 
-Clifton_Mill_Christmas_2005.JPG is the site of this Christmas display with over 3.5 million lights.]]
+is the site of this Christmas display with over 3.5 million lights.]]
 
 Nativity scenes are known from 10th-century Rome. They were popularised by Saint Francis of Assisi from 1223, quickly spreading across Europe.[175] Different types of decorations developed across the Christian world, dependent on local tradition and available resources, and can vary from simple representations of the crib to far more elaborate sets – renowned manger scene traditions include the colourful _Kraków szopka_ in Poland,[176] which imitate Kraków's historical buildings as settings, the elaborate Italian _presepi_ (Neapolitan, Genoese and Bolognese),[177][178][179][180] or the Provençal crèches in southern France, using hand-painted terracotta figurines called _santons_.[181] In certain parts of the world, notably Sicily, living nativity scenes following the tradition of Saint Francis are a popular alternative to static crèches.[182][183][184] The first commercially produced decorations appeared in Germany in the 1860s, inspired by paper chains made by children.[185] In countries where a representation of the Nativity scene is very popular, people are encouraged to compete and create the most original or realistic ones. Within some families, the pieces used to make the representation are considered a valuable family heirloom.
 
 The traditional colors of Christmas decorations are red, green, and gold. Red symbolizes the blood of Jesus, which was shed in his crucifixion, while green symbolizes eternal life, and in particular the evergreen tree, which does not lose its leaves in the winter, and gold is the first color associated with Christmas, as one of the three gifts of the Magi, symbolizing royalty.[186]
 
-1962_Entrance_Hall_(Official_White_House)_Christmas_tree_-_Jack_and_Jacqueline_Kennedy.jpg and his wife Jackie.]]
+and his wife Jackie.]]
 
 The Christmas tree was first used by German Lutherans in the 16th century, with records indicating that a Christmas tree was placed in the Cathedral of Strassburg in 1539, under the leadership of the Protestant Reformer, Martin Bucer.[187][188] In the United States, these "German Lutherans brought the decorated Christmas tree with them; the Moravians put lighted candles on those trees."[189][190] When decorating the Christmas tree, many individuals place a star at the top of the tree symbolizing the Star of Bethlehem, a fact recorded by _The School Journal_ in 1897.[191][192] Professor David Albert Jones of Oxford University writes that in the 19th century, it became popular for people to also use an angel to top the Christmas tree in order to symbolize the angels mentioned in the accounts of the Nativity of Jesus.[193] The Christmas tree is considered by some as Christianisation of pagan tradition and ritual surrounding the Winter Solstice, which included the use of evergreen boughs, and an adaptation of pagan tree worship;[194] according to eighth-century biographer Æddi Stephanus, Saint Boniface (634–709), who was a missionary in Germany, took an axe to an oak tree dedicated to Thor and pointed out a fir tree, which he stated was a more fitting object of reverence because it pointed to heaven and it had a triangular shape, which he said was symbolic of the Trinity.[195] The English language phrase "Christmas tree" is first recorded in 1835[196] and represents an importation from the German language.[197][198][199]
 
 From Germany the custom was introduced to Britain, first via Queen Charlotte, wife of George III, and then more successfully by Prince Albert during the reign of Queen Victoria. By 1841 the Christmas tree had become even more widespread throughout Britain.[200] By the 1870s, people in the United States had adopted the custom of putting up a Christmas tree.[201] Christmas trees may be decorated with lights and ornaments.
 
-Advent_Wreath_(Broadway_United_Methodist_Church).jpg is traditionally lit in many church services.]]
+is traditionally lit in many church services.]]
 
 Since the 16th century, the poinsettia, a native plant from Mexico, has been associated with Christmas carrying the Christian symbolism of the Star of Bethlehem; in that country it is known in Spanish as the _Flower of the Holy Night_.[202][203] Other popular holiday plants include holly, mistletoe, red amaryllis, and Christmas cactus. Along with a Christmas tree, the interior of a home may be decorated with these plants, along with garlands and evergreen foliage. The display of Christmas villages has also become a tradition in many homes during this season. The outside of houses may be decorated with lights and sometimes with illuminated sleighs, snowmen, and other Christmas figures. Mistletoe features prominently in European myth and folklore (for example the legend of Baldr), it is an evergreen parasitic plant which grows on trees, especially apple and poplar, and turns golden when it is dried. It is customary to hang a sprig of mistletoe in the house at Christmas, and anyone standing underneath it may be kissed. Mistletoe has sticky white berries, one of which was traditionally removed whenever someone was kissed under it. This is probably a fertility ritual. The mistletoe berry juice resembles semen.[204]
-
-Christmas_Light.jpg
 
 Other traditional decorations include bells, candles, candy canes, stockings, wreaths, and angels. Both the displaying of wreaths and candles in each window are a more traditional Christmas display. The concentric assortment of leaves, usually from an evergreen, make up Christmas wreaths and are designed to prepare Christians for the Advent season. Candles in each window are meant to demonstrate the fact that Christians believe that Jesus Christ is the ultimate light of the world.[205]
 
@@ -194,17 +186,17 @@ Christmas lights and banners may be hung along streets, music played from speake
 
 Nativity play
 
-Childrens_Nativity_Play_2007.jpg in Oklahoma.]] For the Christian celebration of Christmas, the viewing of the Nativity play is one of the oldest Christmastime traditions, with the first reenactment of the Nativity of Jesus taking place in A.D. 1223.[207] In that year, Francis of Assisi assembled a Nativity scene outside of his church in Italy and children sung Christmas carols celebrating the birth of Jesus.[208] Each year, this grew larger and people travelled from afar to see Francis' depiction of the Nativity of Jesus that came to feature drama and music.[209] Nativity plays eventually spread throughout all of Europe, where they remain popular. Christmas Eve and Christmas Day church services often came to feature Nativity plays, as did schools and theatres.[210] In France, Germany, Mexico and Spain, Nativity plays are often reenacted outdoors in the streets.[211]
+in Oklahoma.]] For the Christian celebration of Christmas, the viewing of the Nativity play is one of the oldest Christmastime traditions, with the first reenactment of the Nativity of Jesus taking place in A.D. 1223.[207] In that year, Francis of Assisi assembled a Nativity scene outside of his church in Italy and children sung Christmas carols celebrating the birth of Jesus.[208] Each year, this grew larger and people travelled from afar to see Francis' depiction of the Nativity of Jesus that came to feature drama and music.[209] Nativity plays eventually spread throughout all of Europe, where they remain popular. Christmas Eve and Christmas Day church services often came to feature Nativity plays, as did schools and theatres.[210] In France, Germany, Mexico and Spain, Nativity plays are often reenacted outdoors in the streets.[211]
 
 Music and carols
 
-Chant'tie_d'Cantiques_dé_Noué_Dézembre_2009_Jèrri_a.jpg]]
+]]
 
 The earliest extant specifically Christmas hymns appear in fourth-century Rome. Latin hymns such as "Veni redemptor gentium", written by Ambrose, Archbishop of Milan, were austere statements of the theological doctrine of the Incarnation in opposition to Arianism. "Corde natus ex Parentis" ("Of the Father's love begotten") by the Spanish poet Prudentius (d. 413) is still sung in some churches today.[212] In the 9th and 10th centuries, the Christmas "Sequence" or "Prose" was introduced in North European monasteries, developing under Bernard of Clairvaux into a sequence of rhymed stanzas. In the 12th century the Parisian monk Adam of St. Victor began to derive music from popular songs, introducing something closer to the traditional Christmas carol.
 
 By the 13th century, in France, Germany, and particularly, Italy, under the influence of Francis of Assisi, a strong tradition of popular Christmas songs in the native language developed.[213] Christmas carols in English first appear in a 1426 work of John Awdlay, a Shropshire chaplain, who lists twenty-five "caroles of Cristemas", probably sung by groups of wassailers, who went from house to house.[214]
 
-Steaua,_Bucharest,_1842_crop.jpg, 1841]]
+, 1841]]
 
 The songs now known specifically as carols were originally communal folk songs sung during celebrations such as "harvest tide" as well as Christmas. It was only later that carols began to be sung in church. Traditionally, carols have often been based on medieval chord patterns, and it is this that gives them their uniquely characteristic musical sound. Some carols like "Personent hodie", "Good King Wenceslas", and "The Holly and the Ivy" can be traced directly back to the Middle Ages. They are among the oldest musical compositions still regularly sung. "Adeste Fideles" (O Come all ye faithful) appears in its current form in the mid-18th century, although the words may have originated in the 13th century.
 
@@ -216,13 +208,13 @@ Completely secular Christmas seasonal songs emerged in the late 18th century. "D
 
 Traditional cuisine
 
-Christmas_pudding.JPG cooked on Stir-up Sunday, the Sunday before the beginning of the Advent season]] Christmas_table_(Serbian_cuisine).jpg A special Christmas family meal is traditionally an important part of the holiday's celebration, and the food that is served varies greatly from country to country. Some regions have special meals for Christmas Eve, such as Sicily, where 12 kinds of fish are served. In the United Kingdom and countries influenced by its traditions, a standard Christmas meal includes turkey, goose or other large bird, gravy, potatoes, vegetables, sometimes bread and cider. Special desserts are also prepared, such as Christmas pudding, mince pies, fruit cake and Yule log cake.[217][218]
+cooked on Stir-up Sunday, the Sunday before the beginning of the Advent season]] A special Christmas family meal is traditionally an important part of the holiday's celebration, and the food that is served varies greatly from country to country. Some regions have special meals for Christmas Eve, such as Sicily, where 12 kinds of fish are served. In the United Kingdom and countries influenced by its traditions, a standard Christmas meal includes turkey, goose or other large bird, gravy, potatoes, vegetables, sometimes bread and cider. Special desserts are also prepared, such as Christmas pudding, mince pies, fruit cake and Yule log cake.[217][218]
 
 In Poland and other parts of eastern Europe and Scandinavia, fish often is used for the traditional main course, but richer meat such as lamb is increasingly served. In Sweden it is common with a special variety of smörgåsbord, where ham, meatballs and herring play a prominent role. In Germany, France, and Austria, goose and pork are favored. Beef, ham, and chicken in various recipes are popular throughout the world. The Maltese traditionally serve _Imbuljuta tal-Qastan_,[219] a chocolate and chestnuts beverage, after Midnight Mass and throughout the Christmas season. Slovaks prepare the traditional Christmas bread potica, _bûche de Noël_ in France, _panettone_ in Italy, and elaborate tarts and cakes. The eating of sweets and chocolates has become popular worldwide, and sweeter Christmas delicacies include the German _stollen_, marzipan cake or candy, and Jamaican rum fruit cake. As one of the few fruits traditionally available to northern countries in winter, oranges have been long associated with special Christmas foods. Eggnog is a sweetened dairy-based beverage traditionally made with milk, cream, sugar, and whipped eggs (which gives it a frothy texture). Spirits such as brandy, rum or bourbon are often added. The finished serving is often garnished with a sprinkling of ground cinnamon or nutmeg.
 
 Cards
 
-Chrisrmas_postcard_1907.jpg and some of his reindeer]]
+and some of his reindeer]]
 
 Christmas cards are illustrated messages of greeting exchanged between friends and family members during the weeks preceding Christmas Day. The traditional greeting reads "wishing you a Merry Christmas and a Happy New Year", much like that of the first commercial Christmas card, produced by Sir Henry Cole in London in 1843.[220] The custom of sending them has become popular among a wide cross-section of people with the emergence of the modern trend towards exchanging E-cards.
 
@@ -230,7 +222,7 @@ Christmas cards are purchased in considerable quantities, and feature artwork, c
 
 Some prefer cards with a poem, prayer, or Biblical verse; while others distance themselves from religion with an all-inclusive "Season's greetings".
 
-United_States_Christmas_stamp_1982_Madonna_of_the_Goldfinch,_Giovanni_Battista_Tiepolo_c._1760.jpg]]
+]]
 
 Commemorative stamps
 
@@ -238,13 +230,11 @@ A number of nations have issued commemorative stamps at Christmastide. Postal cu
 
 Gift giving
 
-Gifts_xmas.jpg
-
 The exchanging of gifts is one of the core aspects of the modern Christmas celebration, making it the most profitable time of year for retailers and businesses throughout the world. On Christmas, people exchange gifts based on the Christian tradition associated with Saint Nicholas,[221] and the gifts of gold, frankincense, and myrrh which were given to the baby Jesus by the Magi.[222][223] The practice of gift giving in the Roman celebration of Saturnalia may have influenced Christian Christian customs, but on the other hand the Christian "core dogma of the Incarnation, however, solidly established the giving and receiving of gifts as the structural principle of that recurrent yet unique event", because it was the Biblical Magi, "together with all their fellow men, who received the gift of God through man's renewed participation in the divine life."[224]
 
 Gift-bearing figures
 
-Christmas-gift-bringers-Europe.jpg Sinterklaas_2007.jpg, known as Sinterklaas in the Netherlands, is considered by many to be the original Santa Claus[225]]]
+, known as Sinterklaas in the Netherlands, is considered by many to be the original Santa Claus[225]]]
 
 A number of figures are associated with Christmas and the seasonal giving of gifts. Among these are Father Christmas, also known as Santa Claus (derived from the Dutch for Saint Nicholas), Père Noël, and the Weihnachtsmann; Saint Nicholas or Sinterklaas; the Christkind; Kris Kringle; Joulupukki; tomte/nisse; Babbo Natale; Saint Basil; and Ded Moroz. The Scandinavian tomte (also called nisse) is sometimes depicted as a gnome instead of Santa Claus.
 
@@ -256,7 +246,7 @@ The modern popular image of Santa Claus, however, was created in the United Stat
 
 In 1809, the New-York Historical Society convened and retroactively named _Sancte Claus_ the patron saint of Nieuw Amsterdam, the Dutch name for New York City.[231] At his first American appearance in 1810, Santa Claus was drawn in bishops' robes. However, as new artists took over, Santa Claus developed more secular attire.[232] Nast drew a new image of "Santa Claus" annually, beginning in 1863. By the 1880s, Nast's Santa had evolved into the modern vision of the figure, perhaps based on the English figure of Father Christmas. The image was standardized by advertisers in the 1920s[233] and continues through the present day.[234][235]
 
-Santa_Claus_portrayed_by_Jonathan_Meath_4.jpg as Santa)]]
+as Santa)]]
 
 Father Christmas, a jolly, stout, bearded man who typified the spirit of good cheer at Christmas, predates the Santa Claus character. He is first recorded in early 17th century England, but was associated with holiday merrymaking and drunkenness rather than the bringing of gifts.[236] In Victorian Britain, his image was remade to match that of Santa. The French Père Noël evolved along similar lines, eventually adopting the Santa image. In Italy, Babbo Natale acts as Santa Claus, while La Befana is the bringer of gifts and arrives on the eve of the Epiphany. It is said that La Befana set out to bring the baby Jesus gifts, but got lost along the way. Now, she brings gifts to all children. In some cultures Santa Claus is accompanied by Knecht Ruprecht, or Black Peter. In other versions, elves make the toys. His wife is referred to as Mrs. Claus.
 
@@ -296,18 +286,18 @@ Listing
 
 Economy
 
-Galerie_Lafayette_Haussmann_Dome.jpg department store in Paris, France. The Christmas season is the busiest trading period for retailers.]] ChristmasMarketJena.jpg, Germany]]
+department store in Paris, France. The Christmas season is the busiest trading period for retailers.]] , Germany]]
 
 Christmas is typically a peak selling season for retailers in many nations around the world. Sales increase dramatically as people purchase gifts, decorations, and supplies to celebrate. In the United States, the "Christmas shopping season" starts as early as October.[249][250] In Canada, merchants begin advertising campaigns just before Halloween (October 31), and step up their marketing following Remembrance Day on November 11. In the UK and Ireland, the Christmas shopping season starts from mid-November, around the time when high street Christmas lights are turned on.[251][252] In the United States, it has been calculated that a quarter of all personal spending takes place during the Christmas/holiday shopping season.[253] Figures from the U.S. Census Bureau reveal that expenditure in department stores nationwide rose from $20.8 billion in November 2004 to $31.9 billion in December 2004, an increase of 54 percent. In other sectors, the pre-Christmas increase in spending was even greater, there being a November–December buying surge of 100 percent in bookstores and 170 percent in jewelry stores. In the same year employment in American retail stores rose from 1.6 million to 1.8 million in the two months leading up to Christmas.[254] Industries completely dependent on Christmas include Christmas cards, of which 1.9 billion are sent in the United States each year, and live Christmas Trees, of which 20.8 million were cut in the U.S. in 2002.[255] In the UK in 2010, up to £8 billion was expected to be spent online at Christmas, approximately a quarter of total retail festive sales.[256]
 
-Monthly_Changes_in_Currency.jpg is increased for Christmas shopping]] In most Western nations, Christmas Day is the least active day of the year for business and commerce; almost all retail, commercial and institutional businesses are closed, and almost all industries cease activity (more than any other day of the year), whether laws require such or not. In England and Wales, the Christmas Day (Trading) Act 2004 prevents all large shops from trading on Christmas Day. Scotland is currently planning similar legislation. Film studios release many high-budget movies during the holiday season, including Christmas films, fantasy movies or high-tone dramas with high production values to hopes of maximizing the chance of nominations for the Academy Awards.
+is increased for Christmas shopping]] In most Western nations, Christmas Day is the least active day of the year for business and commerce; almost all retail, commercial and institutional businesses are closed, and almost all industries cease activity (more than any other day of the year), whether laws require such or not. In England and Wales, the Christmas Day (Trading) Act 2004 prevents all large shops from trading on Christmas Day. Scotland is currently planning similar legislation. Film studios release many high-budget movies during the holiday season, including Christmas films, fantasy movies or high-tone dramas with high production values to hopes of maximizing the chance of nominations for the Academy Awards.
 
 One economist's analysis calculates that, despite increased overall spending, Christmas is a deadweight loss under orthodox microeconomic theory, because of the effect of gift-giving. This loss is calculated as the difference between what the gift giver spent on the item and what the gift receiver would have paid for the item. It is estimated that in 2001, Christmas resulted in a $4 billion deadweight loss in the U.S. alone.[257][258] Because of complicating factors, this analysis is sometimes used to discuss possible flaws in current microeconomic theory. Other deadweight losses include the effects of Christmas on the environment and the fact that material gifts are often perceived as white elephants, imposing cost for upkeep and storage and contributing to clutter.[259]
 
 
 Controversies
 
-Bezbozhnik_u_stanka_-_Run_along,_Lord,_1931,_n._22.jpg'', published by the League of Militant Atheists, depicting an Orthodox Christian priest being forbidden to take home a tree for the celebration of Christmastide, which was banned under the Marxist–Leninist doctrine of state atheism.[260]]] Christmas has at times been the subject of controversy and attacks from various sources. Historically it was prohibited by Puritans when they briefly held power in England (1647–1660), and in Colonial America where the Puritans outlawed the celebration of Christmas in 1659.[261][262] The Parliament of Scotland, which was dominated by Presbyterians, passed a series of acts outlawing the observance of Christmas between 1637 and 1690; Christmas Day did not become a public holiday in Scotland until 1958.[263] Christmas celebrations have also been prohibited by atheist states such as the Soviet Union[264] and more recently majority Muslim states such as Somalia, Tajikistan and Brunei.[265]
+'', published by the League of Militant Atheists, depicting an Orthodox Christian priest being forbidden to take home a tree for the celebration of Christmastide, which was banned under the Marxist–Leninist doctrine of state atheism.[260]]] Christmas has at times been the subject of controversy and attacks from various sources. Historically it was prohibited by Puritans when they briefly held power in England (1647–1660), and in Colonial America where the Puritans outlawed the celebration of Christmas in 1659.[261][262] The Parliament of Scotland, which was dominated by Presbyterians, passed a series of acts outlawing the observance of Christmas between 1637 and 1690; Christmas Day did not become a public holiday in Scotland until 1958.[263] Christmas celebrations have also been prohibited by atheist states such as the Soviet Union[264] and more recently majority Muslim states such as Somalia, Tajikistan and Brunei.[265]
 
 Some Christians and organizations such as Pat Robertson's American Center for Law and Justice cite alleged attacks on Christmas (dubbing them a "war on Christmas").[266][267] Such groups claim that any specific mention of the term "Christmas" or its religious aspects is being increasingly censored, avoided, or discouraged by a number of advertisers, retailers, government (prominently schools), and other public and private organizations. One controversy is the occurrence of Christmas trees being renamed Holiday trees.[268] In the U.S. there has been a tendency to replace the greeting _Merry Christmas_ with _Happy Holidays_, which is considered inclusive at the time of the Jewish celebration of Hanukkah.[269] In the U.S. and Canada, where the use of the term "Holidays" is most prevalent, opponents have denounced its usage and avoidance of using the term "Christmas" as being politically correct.[270][271][272] In 1984, the U.S. Supreme Court ruled in _Lynch v. Donnelly_ that a Christmas display (which included a Nativity scene) owned and displayed by the city of Pawtucket, Rhode Island, did not violate the First Amendment.[273] American Muslim scholar Abdul Malik Mujahid has said that Muslims must treat Christmas with respect, even if they disagree with it.[274]
 

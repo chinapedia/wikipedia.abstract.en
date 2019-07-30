@@ -35,8 +35,6 @@ A _Life of Gregory_ by the Vartabed Matthew was published in the Armenian langua
 
 Gallery
 
-Gregory_the_Illuminator_Statue_in_Vatican_City_(2010).jpg
-
 File:Etchmiadzin detail1.jpg|Etchmiadzin Cathedral Image:Stgregoryilluminator.jpg Image:Istanbul - Chiesa Pammacaristos (Fetiye camii) - San Gregorio armeniaco - Foto G. Dall'Orto 26-5-2006.jpg|Mosaic icon of St. Gregory the Illuminator, 14th century (Pammakaristos Church, Istanbul) Image:The Right Hand of St Gregory the Illuminator.jpg|The Right Hand of Gregory the Illuminator in the museum of the Holy See of Cilicia at Antelias, Lebanon File:Cathedrale-erevan003.jpg|Saint Gregory the Illuminator Cathedral, Yerevan, (finished in 2001) contains the remains of St Gregory Image:Gregory the illuminator illustration.jpeg|Gregory the Illuminator illustration in 1898 book «Illustrated Armenia and Armenians» [12]
 
 

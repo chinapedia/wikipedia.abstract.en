@@ -66,7 +66,7 @@ Republic of Indonesia established diplomatic relations with Brunei Darussalam on
 
 Japan
 
-Embassy_of_Japan_in_Bandar_Seri_Begawan_1.jpg Brunei has an embassy in Tokyo, and Japan has an embassy in Bandar Seri Begawan.[28] Relations were established on 2 April 1984.[29]
+Brunei has an embassy in Tokyo, and Japan has an embassy in Bandar Seri Begawan.[28] Relations were established on 2 April 1984.[29]
 
 Laos
 

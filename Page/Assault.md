@@ -196,8 +196,6 @@ Assault causing certain injuries
 
 United States
 
-Felony_Sentences_in_State_Courts.pdf
-
 In the United States, assault may be defined as an attempt to commit a battery. However, the crime of assault can encompass acts in which no battery is intended, but the defendant's act nonetheless creates reasonable fear in others that a battery will occur.[40]
 
 Four elements were required at common law:[41]

@@ -11,7 +11,7 @@ Modern Bavaria also includes parts of the historical regions of Franconia and Sw
 
 History
 
-Heunischenburg.jpg'', in the vicinity of Kronach]]
+'', in the vicinity of Kronach]]
 
 Antiquity
 
@@ -25,15 +25,15 @@ Three early dukes are named in Frankish sources: Garibald I may have been appoin
 
 After Garibald II little is known of the Bavarians until Duke Theodo I, whose reign may have begun as early as 680. From 696 onwards he invited churchmen from the west to organize churches and strengthen Christianity in his duchy (it is unclear what Bavarian religious life consisted of before this time). His son, Theudebert, led a decisive Bavarian campaign to intervene in a succession dispute in the Lombard Kingdom in 714, and married his sister Guntrud to the Lombard King Liutprand. At Theodo's death the duchy was divided among his sons, but reunited under his grandson Hugbert.
 
-Baiern_unter_den_Carolingern_im_Jahre_900.jpg Karte_Herzogtum_Bayern_im_10._Jahrhundert.png At Hugbert's death (735) the duchy passed to a distant relative named Odilo, from neighboring Alemannia (modern southwest Germany and northern Switzerland). Odilo issued a law code for Bavaria, completed the process of church organization in partnership with St. Boniface (739), and tried to intervene in Frankish succession disputes by fighting for the claims of the Carolingian Grifo. He was defeated near Augsburg in 743 but continued to rule until his death in 748.[9][10] Saint Boniface completed the people's conversion to Christianity in the early 8th century.
+At Hugbert's death (735) the duchy passed to a distant relative named Odilo, from neighboring Alemannia (modern southwest Germany and northern Switzerland). Odilo issued a law code for Bavaria, completed the process of church organization in partnership with St. Boniface (739), and tried to intervene in Frankish succession disputes by fighting for the claims of the Carolingian Grifo. He was defeated near Augsburg in 743 but continued to rule until his death in 748.[9][10] Saint Boniface completed the people's conversion to Christianity in the early 8th century.
 
 Tassilo III (b. 741 – d. after 796) succeeded his father at the age of eight after an unsuccessful attempt by Grifo to rule Bavaria. He initially ruled under Frankish oversight but began to function independently from 763 onwards. He was particularly noted for founding new monasteries and for expanding eastwards, fighting Slavs in the eastern Alps and along the River Danube and colonising these lands. After 781, however, his cousin Charlemagne began to pressure Tassilo to submit and finally deposed him in 788. The deposition was not entirely legitimate. Dissenters attempted a coup against Charlemagne at Tassilo's old capital of Regensburg in 792, led by his own son Pépin the Hunchback. The king had to drag Tassilo out of imprisonment to formally renounce his rights and titles at the Assembly of Frankfurt in 794. This is the last appearance of Tassilo in the sources, and he probably died a monk. As all of his family were also forced into monasteries, this was the end of the Agilolfing dynasty.
 
-Bayern_nach_der_Teilung_1392.png For the next 400 years numerous families held the duchy, rarely for more than three generations. With the revolt of duke Henry the Quarrelsome in 976, Bavaria lost large territories in the south and south east. The territory of _Ostarrichi_ was elevated to a duchy in its own right and given to the Babenberger family. This event marks the founding of Austria.
+For the next 400 years numerous families held the duchy, rarely for more than three generations. With the revolt of duke Henry the Quarrelsome in 976, Bavaria lost large territories in the south and south east. The territory of _Ostarrichi_ was elevated to a duchy in its own right and given to the Babenberger family. This event marks the founding of Austria.
 
 The last, and one of the most important, of the dukes of Bavaria was Henry the Lion of the house of Welf, founder of Munich, and _de facto_ the second most powerful man in the empire as the ruler of two duchies. When in 1180, Henry the Lion was deposed as Duke of Saxony and Bavaria by his cousin, Frederick I, Holy Roman Emperor (a.k.a. "Barbarossa" for his red beard), Bavaria was awarded as fief to the Wittelsbach family, counts palatinate of Schyren ("Scheyern" in modern German). They ruled for 738 years, from 1180 to 1918. The Electorate of the Palatinate by Rhine (_Kurpfalz_ in German) was also acquired by the House of Wittelsbach in 1214, which they would subsequently hold for six centuries.[11]
 
-The first of several divisions of the duchy of Bavaria occurred in 1255. With the extinction of the Hohenstaufen in 1268, Swabian territories were acquired by the Wittelsbach dukes. Emperor Louis the Bavarian acquired Brandenburg, Tyrol, Holland and Hainaut for his House but released the Upper Palatinate for the Palatinate branch of the Wittelsbach in 1329. In the 14th and 15th centuries, upper and lower Bavaria were repeatedly subdivided. Four Duchies existed after the division of 1392: Bavaria-Straubing, Bavaria-Landshut, Bavaria-Ingolstadt and Bavaria-Munich. In 1506 with the Landshut War of Succession, the other parts of Bavaria were reunited, and Munich became the sole capital. Bavarian_Herald.jpg Joerg Rugenn wearing a tabard of the arms around 1510]]
+The first of several divisions of the duchy of Bavaria occurred in 1255. With the extinction of the Hohenstaufen in 1268, Swabian territories were acquired by the Wittelsbach dukes. Emperor Louis the Bavarian acquired Brandenburg, Tyrol, Holland and Hainaut for his House but released the Upper Palatinate for the Palatinate branch of the Wittelsbach in 1329. In the 14th and 15th centuries, upper and lower Bavaria were repeatedly subdivided. Four Duchies existed after the division of 1392: Bavaria-Straubing, Bavaria-Landshut, Bavaria-Ingolstadt and Bavaria-Munich. In 1506 with the Landshut War of Succession, the other parts of Bavaria were reunited, and Munich became the sole capital. Joerg Rugenn wearing a tabard of the arms around 1510]]
 
 Electorate of Bavaria
 
@@ -41,19 +41,19 @@ In 1623 the Bavarian duke replaced his relative of the Palatinate branch, the El
 
 Kingdom of Bavaria
 
-Bayern_von_1800_bis_heute.png When Napoleon abolished the Holy Roman Empire, Bavaria became a kingdom in 1806 due, in part, to the Confederation of the Rhine.[12] Its area doubled after the Duchy of Jülich was ceded to France, as the Electoral Palatinate was divided between France and the Grand Duchy of Baden. The Duchy of Berg was given to Jerome Bonaparte. The Tyrol and Salzburg were temporarily reunited with Bavaria but finally ceded to Austria by the Congress of Vienna. In return Bavaria was allowed to annex the modern-day region of Palatinate to the west of the Rhine and Franconia in 1815. Between 1799 and 1817, the leading minister, Count Montgelas, followed a strict policy of modernisation; he laid the foundations of administrative structures that survived the monarchy and retain core validity in the 21st century. In May 1808 a first constitution was passed by Maximilian I,[13] being modernized in 1818. This second version established a bicameral Parliament with a House of Lords (_Kammer der Reichsräte_) and a House of Commons (_Kammer der Abgeordneten_). That constitution was followed until the collapse of the monarchy at the end of World War I.
+When Napoleon abolished the Holy Roman Empire, Bavaria became a kingdom in 1806 due, in part, to the Confederation of the Rhine.[12] Its area doubled after the Duchy of Jülich was ceded to France, as the Electoral Palatinate was divided between France and the Grand Duchy of Baden. The Duchy of Berg was given to Jerome Bonaparte. The Tyrol and Salzburg were temporarily reunited with Bavaria but finally ceded to Austria by the Congress of Vienna. In return Bavaria was allowed to annex the modern-day region of Palatinate to the west of the Rhine and Franconia in 1815. Between 1799 and 1817, the leading minister, Count Montgelas, followed a strict policy of modernisation; he laid the foundations of administrative structures that survived the monarchy and retain core validity in the 21st century. In May 1808 a first constitution was passed by Maximilian I,[13] being modernized in 1818. This second version established a bicameral Parliament with a House of Lords (_Kammer der Reichsräte_) and a House of Commons (_Kammer der Abgeordneten_). That constitution was followed until the collapse of the monarchy at the end of World War I.
 
 After the rise of Prussia to power in the early 18th century, Bavaria preserved its independence by playing off the rivalry of Prussia and Austria. Allied to Austria, it was defeated along with Austrian in the 1866 Austro-Prussian War and was not incorporated into the North German Confederation of 1867, but the question of German unity was still alive. When France declared war on Prussia in 1870, the south German states Baden, Württemberg, Hessen-Darmstadt and Bavaria joined the Prussian forces (whereas Austria did not) and ultimately joined the Federation, which was renamed _Deutsches Reich_ (German Empire) in 1871 while Austria did not. Bavaria continued as a monarchy, and it had some special rights within the federation (such as an army, railways, postal service and a diplomatic body of its own).
 
 Part of the German Empire
 
-Block_of_Bavarian_stamps_(1920s)_overprinted_with_"Deutsches_Reich".jpg When Bavaria became part of the newly formed German Empire, this action was considered controversial by Bavarian nationalists who had wanted to retain independence from the rest of Germany, as Austria had. As Bavaria had a majority-Catholic population, many people resented being ruled by the mostly Protestant northerners of Prussia. As a direct result of the Bavarian-Prussian feud, political parties formed to encourage Bavaria to break away and regain its independence.[14] Although the idea of Bavarian separatism was popular in the late 19th and early 20th century, apart from a small minority such as the Bavaria Party, most Bavarians accepted that Bavaria is part of Germany.
+When Bavaria became part of the newly formed German Empire, this action was considered controversial by Bavarian nationalists who had wanted to retain independence from the rest of Germany, as Austria had. As Bavaria had a majority-Catholic population, many people resented being ruled by the mostly Protestant northerners of Prussia. As a direct result of the Bavarian-Prussian feud, political parties formed to encourage Bavaria to break away and regain its independence.[14] Although the idea of Bavarian separatism was popular in the late 19th and early 20th century, apart from a small minority such as the Bavaria Party, most Bavarians accepted that Bavaria is part of Germany.
 
 In the early 20th century, Wassily Kandinsky, Paul Klee, Henrik Ibsen, and other artists were drawn to Bavaria, especially to the Schwabing district of Munich, a center of international artistic activity. This area was devastated by bombing and invasion during World War II.
 
 Free State of Bavaria
 
-Kriegerdenkmal_Dietelskirchen.jpg Dachau_Memorial_(iron_sculpture).JPG memorial sculpture erected in 1968]] _Free State_ has been an adopted designation after the abolition of monarchy in the aftermath of World War I in several German states. On 12 November 1918, Ludwig III signed a document, the Anif declaration, releasing both civil and military officers from their oaths; the newly formed republican government, or "People's State" of Socialist premier Kurt Eisner,[15] interpreted this as an abdication. To date, however, no member of the House of Wittelsbach has ever formally declared renunciation of the throne.[16] On the other hand, none has ever since officially called upon their Bavarian or Stuart claims. Family members are active in cultural and social life, including the head of the house, Franz, Duke of Bavaria. They step back from any announcements on public affairs, showing approval or disapproval solely by Franz's presence or absence.
+memorial sculpture erected in 1968]] _Free State_ has been an adopted designation after the abolition of monarchy in the aftermath of World War I in several German states. On 12 November 1918, Ludwig III signed a document, the Anif declaration, releasing both civil and military officers from their oaths; the newly formed republican government, or "People's State" of Socialist premier Kurt Eisner,[15] interpreted this as an abdication. To date, however, no member of the House of Wittelsbach has ever formally declared renunciation of the throne.[16] On the other hand, none has ever since officially called upon their Bavarian or Stuart claims. Family members are active in cultural and social life, including the head of the house, Franz, Duke of Bavaria. They step back from any announcements on public affairs, showing approval or disapproval solely by Franz's presence or absence.
 
 Eisner was assassinated in February 1919, ultimately leading to a Communist revolt and the short-lived Bavarian Soviet Republic being proclaimed 6 April 1919. After violent suppression by elements of the German Army and notably the Freikorps, the Bavarian Soviet Republic fell in May 1919. The Bamberg Constitution (__) was enacted on 12 or 14 August 1919 and came into force on 15 September 1919 creating the Free State of Bavaria within the Weimar Republic. Extremist activity further increased, notably the 1923 Beer Hall Putsch led by the National Socialists, and Munich and Nuremberg became seen as Nazi strongholds under the Third Reich of Adolf Hitler. However, in the crucial German federal election, March 1933, the Nazis received less than 50% of the votes cast in Bavaria.
 
@@ -70,7 +70,7 @@ Flags and coat of arms
 
 Flags
 
-Flag_of_Bavaria_(lozengy).svg Uniquely among German states, Bavaria has two official flags of equal status, one with a white and blue stripe, the other with white and blue lozenges. Either may be used by civilians and government offices, who are free to choose between them.[19] Unofficial versions of the flag, especially a lozenge style with coat of arms, are sometimes used by civilians.
+Uniquely among German states, Bavaria has two official flags of equal status, one with a white and blue stripe, the other with white and blue lozenges. Either may be used by civilians and government offices, who are free to choose between them.[19] Unofficial versions of the flag, especially a lozenge style with coat of arms, are sometimes used by civilians.
 
 Coat of arms
 
@@ -86,7 +86,7 @@ The modern coat of arms of Bavaria was designed by Eduard Ege in 1946, following
 
 Geography
 
-Über_dem_Spitzsteinhaus_(3650068382).jpg Bavaria shares international borders with Austria (Salzburg, Tyrol, Upper Austria and Vorarlberg) and the Czech Republic (Karlovy Vary, Plzeň and South Bohemian Regions), as well as with Switzerland (across Lake Constance to the Canton of St. Gallen). Because all of these countries are part of the Schengen Area, the border is completely open. Neighbouring states within Germany are Baden-Württemberg, Hesse, Thuringia, and Saxony. Two major rivers flow through the state: the Danube (_Donau_) and the Main. The Bavarian Alps define the border with Austria (including the Austrian federal-states of Vorarlberg, Tyrol and Salzburg), and within the range is the highest peak in Germany: the Zugspitze. The Bavarian Forest and the Bohemian Forest form the vast majority of the frontier with the Czech Republic and Bohemia.
+Bavaria shares international borders with Austria (Salzburg, Tyrol, Upper Austria and Vorarlberg) and the Czech Republic (Karlovy Vary, Plzeň and South Bohemian Regions), as well as with Switzerland (across Lake Constance to the Canton of St. Gallen). Because all of these countries are part of the Schengen Area, the border is completely open. Neighbouring states within Germany are Baden-Württemberg, Hesse, Thuringia, and Saxony. Two major rivers flow through the state: the Danube (_Donau_) and the Main. The Bavarian Alps define the border with Austria (including the Austrian federal-states of Vorarlberg, Tyrol and Salzburg), and within the range is the highest peak in Germany: the Zugspitze. The Bavarian Forest and the Bohemian Forest form the vast majority of the frontier with the Czech Republic and Bohemia.
 
 The major cities in Bavaria are Munich (_München_), Nuremberg (_Nürnberg_), Augsburg, Regensburg, Würzburg, Ingolstadt, Fürth, and Erlangen.
 
@@ -95,7 +95,7 @@ The geographic centre of the European Union is located in the north-western corn
 
 Administrative divisions
 
-WV-Bavaria_regions.svg Bavaria is divided into seven administrative districts called __ (singular __).
+Bavaria is divided into seven administrative districts called __ (singular __).
 
 Administrative districts
 
@@ -135,8 +135,6 @@ __ (districts) are the third communal layer in Bavaria; the others are the __ an
 Counties
 
 The second communal layer exists out of 71 rural districts (called __, singular __) that are comparable to counties. They share the same administrative responsibilities as the 25 independent cities (__, singular __).
-
-Bavaria,_administrative_divisions_-_de_-_colored.svg
 
 Rural districts:
 
@@ -262,8 +260,6 @@ In the 2003 elections the CSU won a ⅔ supermajority – something no party had
 
 Current Landtag
 
-Bavarian_Landtag_2018.svg
-
 The last state elections were held on 14 October 2018 in which the CSU lost its absolute majority in the state parliament in part due to the party's stances as part of the federal government, winning 37.2% of the vote; the party's second worst election outcome in its history. The Greens who had surged in the polls leading up to the election have replaced the social-democratic SPD as the second biggest force in the Landtag with 17.5% of the vote. The SPD lost over half of its previous share compared to 2013 with a mere 9.7% in 2018. The liberals of the FDP were again able to reach the 5%-threshold in order to receive mandates in parliament after they were not part of the _Landtag_ after the 2013 elections. Also entering the new parliament will be the right-wing populist Alternative for Germany (AfD) with 10.2% of the vote.[23] The center-right Free Voters party gained 11.6% of the vote and formed a government coalition with the CSU which lead to the subsequent reelection of Markus Söder as Minister-President of Bavaria.
 
 Government
@@ -290,7 +286,7 @@ In 1995 Bavaria introduced direct democracy on the local level in a referendum. 
 
 Minister-presidents of Bavaria since 1945
 
-7857ri-Markus_Soeder.jpg]]
+]]
 
   Ministers-President of Bavaria
   --------------------------------
@@ -320,7 +316,7 @@ In July 2017, Bavaria's parliament enacted a new revision of the "Gefährdergese
 
 Economy
 
-BMW_Welt_y_Torre_BMW,_Múnich,_Alemania,_2015-07-03,_DD_25-27_HDR.JPG and BMW Headquarters in Munich]] Bavaria has long had one of the largest economies of any region in Germany, and in Europe.[28] Its GDP in 2007 exceeded €434 billion (about U.S. $600 billion).[29] This makes Bavaria itself one of the largest economies in Europe, and only 20 countries in the world have a higher GDP.[30] Large companies headquartered in Bavaria include BMW, Siemens, Rohde & Schwarz, Audi, Munich Re, Allianz, Infineon, MAN SE, Wacker Chemie, Puma, Adidas, and Ruf. Bavaria has a GDP per capita of over U.S. $48,000; if it were an independent country it would rank 7th or 8th in the world. Bavaria has strong economic ties with Austria, the Czech Republic, Switzerland, and Northern Italy.[31]
+and BMW Headquarters in Munich]] Bavaria has long had one of the largest economies of any region in Germany, and in Europe.[28] Its GDP in 2007 exceeded €434 billion (about U.S. $600 billion).[29] This makes Bavaria itself one of the largest economies in Europe, and only 20 countries in the world have a higher GDP.[30] Large companies headquartered in Bavaria include BMW, Siemens, Rohde & Schwarz, Audi, Munich Re, Allianz, Infineon, MAN SE, Wacker Chemie, Puma, Adidas, and Ruf. Bavaria has a GDP per capita of over U.S. $48,000; if it were an independent country it would rank 7th or 8th in the world. Bavaria has strong economic ties with Austria, the Czech Republic, Switzerland, and Northern Italy.[31]
 
 Companies
 
@@ -337,7 +333,7 @@ The unemployment rate stood at 2.6% in October 2018, the lowest in Germany and o
 
 Demographics
 
-Pop_density_of_Germany.png Bavaria has a population of approximately 12.9 million inhabitants (2016). 8 of the 80 largest cities in Germany are located within Bavaria with Munich being the largest (1,450,381 inhabitants, approximately 5.7 million when including the broader metropolitan area), followed by Nuremberg (509,975 inhabitants) and Augsburg (286,374 inhabitants). All other cities in Bavaria had less than 150,000 inhabitants each in 2015. Population density in Bavaria was , below the national average of . Foreign nationals resident in Bavaria (both immigrants and refugees/asylum seekers) were principally from other EU countries and Turkey.
+Bavaria has a population of approximately 12.9 million inhabitants (2016). 8 of the 80 largest cities in Germany are located within Bavaria with Munich being the largest (1,450,381 inhabitants, approximately 5.7 million when including the broader metropolitan area), followed by Nuremberg (509,975 inhabitants) and Augsburg (286,374 inhabitants). All other cities in Bavaria had less than 150,000 inhabitants each in 2015. Population density in Bavaria was , below the national average of . Foreign nationals resident in Bavaria (both immigrants and refugees/asylum seekers) were principally from other EU countries and Turkey.
 
   ------------------------------------------
   TOP-TEN FOREIGN RESIDENT POPULATIONS[34]
@@ -372,7 +368,7 @@ Some features of the Bavarian culture and mentality are remarkably distinct from
 
 Religion
 
-Baroque_Church_of_Saint-Coloman_-_panoramio.jpg with the Alps in the background]] Bavarian culture (_Altbayern_) has a long and predominant tradition of Catholic faith. Pope emeritus Benedict XVI (Joseph Alois Ratzinger) was born in Marktl am Inn in Upper Bavaria and was Cardinal-Archbishop of Munich and Freising. Otherwise, the culturally Franconian and Swabian regions of the modern State of Bavaria are historically more diverse in religiosity, with both Catholic and Protestant traditions. In 1925, 70.0% of the Bavarian population was Catholic, 28.8% was Protestant, 0.7% was Jewish, and 0.5% was placed in other religious categories.[36]
+with the Alps in the background]] Bavarian culture (_Altbayern_) has a long and predominant tradition of Catholic faith. Pope emeritus Benedict XVI (Joseph Alois Ratzinger) was born in Marktl am Inn in Upper Bavaria and was Cardinal-Archbishop of Munich and Freising. Otherwise, the culturally Franconian and Swabian regions of the modern State of Bavaria are historically more diverse in religiosity, with both Catholic and Protestant traditions. In 1925, 70.0% of the Bavarian population was Catholic, 28.8% was Protestant, 0.7% was Jewish, and 0.5% was placed in other religious categories.[36]
 
 49.6% of Bavarians adhered to Catholicism (a decline from 70.4% in 1970).[37][38] 18.3% of the population adheres to the Evangelical Lutheran Church in Bavaria, which has also declined since 1970.[39][40] 3% was Orthodox, Muslims make up 4.0% of the population of Bavaria. 28.1% of Bavarians are irreligious or adhere to other religions.
 
@@ -390,7 +386,7 @@ Bavaria is also home to the Franconia wine region, which is situated along the M
 
 Language and dialects
 
-Oberdeutsche_Mundarten.png dialects]]
+dialects]]
 
 Three German dialects are most commonly spoken in Bavaria: Austro-Bavarian in Old Bavaria (Upper Bavaria, Lower Bavaria and the Upper Palatinate), Swabian German (an Alemannic German dialect) in the Bavarian part of Swabia (south west) and East Franconian German in Franconia (North). In the small town Ludwigsstadt in the north, district Kronach in Upper Franconia, Thuringian dialect is spoken. During the 20th century an increasing part of the population began to speak Standard German (Hochdeutsch), mainly in the cities.
 
@@ -405,7 +401,7 @@ Sports
 
 Football
 
-Allianz_arena_at_night_Richard_Bartz.jpg, one of the world's most famous football stadiums]] Bavaria is home to several football clubs including FC Bayern Munich, 1. FC Nürnberg, FC Augsburg, TSV 1860 Munich, FC Ingolstadt 04 and SpVgg Greuther Fürth. Bayern Munich is the most popular and successful football team in Germany having won a record 27 German titles. They are followed by 1. FC Nürnberg who have won 9 titles. SpVgg Greuther Fürth have won 3 championships while TSV 1860 Munich have been champions once. FC Bayern won the German championship 27 times (record) and the UEFA Champions League 5 times.
+, one of the world's most famous football stadiums]] Bavaria is home to several football clubs including FC Bayern Munich, 1. FC Nürnberg, FC Augsburg, TSV 1860 Munich, FC Ingolstadt 04 and SpVgg Greuther Fürth. Bayern Munich is the most popular and successful football team in Germany having won a record 27 German titles. They are followed by 1. FC Nürnberg who have won 9 titles. SpVgg Greuther Fürth have won 3 championships while TSV 1860 Munich have been champions once. FC Bayern won the German championship 27 times (record) and the UEFA Champions League 5 times.
 
 
 Bavarians

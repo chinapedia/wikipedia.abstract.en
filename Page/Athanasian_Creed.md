@@ -1,4 +1,4 @@
-Athanasius_I.jpg was traditionally thought to be the author of the Athanasian Creed, and gives his name to its common title.]]
+was traditionally thought to be the author of the Athanasian Creed, and gives his name to its common title.]]
 
 The ATHANASIAN CREED, also known as PSEUDO-ATHANASIAN CREED or _QUICUNQUE VULT_ (also _QUICUMQUE VULT_), is a Christian statement of belief focused on Trinitarian doctrine and Christology. The Latin name of the creed, _Quicunque vult_, is taken from the opening words, "Whosoever wishes". The creed has been used by Christian churches since the sixth century. It is the first creed in which the equality of the three persons of the Trinity is explicitly stated. It differs from the Nicene-Constantinopolitan and Apostles' Creeds in the inclusion of anathemas, or condemnations of those who disagree with the creed (like the original Nicene Creed).
 
@@ -9,7 +9,7 @@ It was designed to distinguish Nicene Christianity from the heresy of Arianism. 
 
 Origin
 
-Shield-Trinity-Scutum-Fidei-compact.svg, a visual representation of the doctrine of the Trinity, derived from the Athanasian Creed. The Latin reads: "The Father is God, The Son is God, The Holy Spirit is God; God is the Father, God is the Son, God is the Holy Spirit; The Father is not the Son, The Son is not the Father, The Father is not the Holy Spirit, The Holy Spirit is not the Father, The Son is not the Holy Spirit, The Holy Spirit is not the Son."]]
+, a visual representation of the doctrine of the Trinity, derived from the Athanasian Creed. The Latin reads: "The Father is God, The Son is God, The Holy Spirit is God; God is the Father, God is the Son, God is the Holy Spirit; The Father is not the Son, The Son is not the Father, The Father is not the Holy Spirit, The Holy Spirit is not the Father, The Son is not the Holy Spirit, The Holy Spirit is not the Son."]]
 
 A medieval account credited Athanasius of Alexandria, the famous defender of Nicene theology, as the author of the Creed. According to this account, Athanasius composed it during his exile in Rome and presented it to Pope Julius I as a witness to his orthodoxy. This traditional attribution of the Creed to Athanasius was first called into question in 1642 by Dutch Protestant theologian G. J. Voss.[4]
 
@@ -50,8 +50,6 @@ The final section of this Creed also moved beyond the Nicene (and Apostles') Cre
 
 
 Uses
-
-Trinity_knight_shield.jpg
 
 Composed of 44 rhythmic lines, the Athanasian Creed appears to have been intended as a liturgical document – that is, the original purpose of the creed was to be spoken or sung as a part of worship. The creed itself uses the language of public worship, speaking of the worship of God rather than the language of belief ("Now this is the catholic faith: We worship one God"). In the Catholic Church in medieval times, this creed was recited following the Sunday sermon or at the Sunday Office of Prime.[19] The creed was often set to music and used in the place of a Psalm.
 

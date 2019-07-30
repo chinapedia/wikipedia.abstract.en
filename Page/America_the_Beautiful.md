@@ -1,4 +1,4 @@
-Grace_Church_Newark_plaque.jpg where Samuel Ward worked as organist, and wrote and perfected the tune "Materna" that is used for "America the Beautiful".]]
+where Samuel Ward worked as organist, and wrote and perfected the tune "Materna" that is used for "America the Beautiful".]]
 
 "AMERICA THE BEAUTIFUL" is an American patriotic song. The lyrics were written by Katharine Lee Bates, and the music was composed by church organist and choirmaster Samuel A. Ward at Grace Episcopal Church in Newark, New Jersey.[1] The two never met.[2]
 
@@ -6,8 +6,6 @@ Bates originally wrote the words as a poem, "PIKES PEAK", first published in the
 
 
 History
-
-Americathebeautiful.jpg
 
 In 1893, at the age of 33, Bates, an English professor at Wellesley College, had taken a train trip to Colorado Springs, Colorado, to teach a short summer school session at Colorado College.[5] Several of the sights on her trip inspired her, and they found their way into her poem, including the World's Columbian Exposition in Chicago, the "White City" with its promise of the future contained within its gleaming white buildings;[6] the wheat fields of America's heartland Kansas, through which her train was riding on July 16; and the majestic view of the Great Plains from high atop Pikes Peak.[7][8]
 
@@ -39,8 +37,6 @@ Lyrics
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : AMERICA. A POEM FOR JULY 4.
-
-Portrait_of_Katharine_Lee_Bates,_ca._1880-1890.jpg
 
 
 Popular versions

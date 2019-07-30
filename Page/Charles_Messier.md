@@ -32,7 +32,7 @@ Messier is buried in Père Lachaise Cemetery, Paris, in Section 11. The grave is
 
 Messier catalogue
 
-M42m.jpg in his catalogue]] Messier's occupation as a comet hunter led him to continually come across fixed diffuse objects in the night sky which could be mistaken for comets. He compiled a list of them,[3] in collaboration with his friend and assistant Pierre Méchain (who may have found at least 20 of the objects[4]), to avoid wasting time sorting them out from the comets they were looking for. The entries are now known to be galaxies (39), planetary nebulae (5), other types of nebulae (7), and star clusters (55).
+in his catalogue]] Messier's occupation as a comet hunter led him to continually come across fixed diffuse objects in the night sky which could be mistaken for comets. He compiled a list of them,[3] in collaboration with his friend and assistant Pierre Méchain (who may have found at least 20 of the objects[4]), to avoid wasting time sorting them out from the comets they were looking for. The entries are now known to be galaxies (39), planetary nebulae (5), other types of nebulae (7), and star clusters (55).
 
 Messier did his observing with a 100 mm (four-inch) refracting telescope from Hôtel de Cluny (now the Musée national du Moyen Âge), in downtown Paris, France. The list he compiled contains only objects found in the area of the sky he could observe, from the north celestial pole to a declination of about −35.7°. They are not organized scientifically by object type, or even by location. The first version of Messier's catalogue contained 45 objects and was published in 1774 in the journal of the French Academy of Sciences in Paris. In addition to his own discoveries, this version included objects previously observed by other astronomers, with only 17 of the 45 objects being Messier's.[5] By 1780 the catalog had increased to 80 objects.
 
@@ -43,12 +43,10 @@ The objects' Messier designations, from M1 to M110, are still used by profession
 
 Legacy
 
-Tomb_of_Messier_in_Pere_Lachaise,_Sept_2011.jpg The crater Messier on the Moon and the asteroid 7359 Messier were named in his honor.[8]
+The crater Messier on the Moon and the asteroid 7359 Messier were named in his honor.[8]
 
 
 See also
-
-Messierbadon.JPG
 
 -   Deep-sky object
 -   List of Messier objects

@@ -1,4 +1,4 @@
-Boxplot_vs_PDF.svg (with an interquartile range) and a probability density function (pdf) of a Normal Population]]
+(with an interquartile range) and a probability density function (pdf) of a Normal Population]]
 
 In descriptive statistics, the INTERQUARTILE RANGE (IQR), also called the MIDSPREAD or MIDDLE 50%, or technically H-SPREAD, is a measure of statistical dispersion, being equal to the difference between 75th and 25th percentiles, or between upper and lower quartiles,[1][2] IQR = _Q_₃ −  _Q_₁. In other words, the IQR is the first quartile subtracted from the third quartile; these quartiles can be clearly seen on a box plot on the data. It is a trimmed estimator, defined as the 25% trimmed range, and is a commonly used robust measure of scale.
 
@@ -138,7 +138,7 @@ If the actual values of the first or third quartiles differ substantially from t
 
 Outliers
 
-Box-Plot_mit_Interquartilsabstand.png with four mild outliers and one extreme outlier. In this chart, outliers are defined as mild above Q3 + 1.5 IQR and extreme above Q3 + 3 IQR.]] The interquartile range is often used to find outliers in data. Outliers here are defined as observations that fall below Q1 − 1.5 IQR or above Q3 + 1.5 IQR. In a boxplot, the highest and lowest occurring value within this limit are indicated by _whiskers_ of the box (frequently with an additional bar at the end of the whisker) and any outliers as individual points.
+with four mild outliers and one extreme outlier. In this chart, outliers are defined as mild above Q3 + 1.5 IQR and extreme above Q3 + 3 IQR.]] The interquartile range is often used to find outliers in data. Outliers here are defined as observations that fall below Q1 − 1.5 IQR or above Q3 + 1.5 IQR. In a boxplot, the highest and lowest occurring value within this limit are indicated by _whiskers_ of the box (frequently with an additional bar at the end of the whisker) and any outliers as individual points.
 
 
 See also

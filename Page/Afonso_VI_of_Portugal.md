@@ -13,7 +13,7 @@ After the death of his eldest brother Teodósio, Prince of Brazil in 1653, Afons
 
 Succession
 
-Infante_D._Afonso_e_um_pajem_negro_(c._1653)_-_Avelar_Rebelo.png He succeeded his father (João IV) in 1656 at the age of thirteen. His mother, Luisa of Medina-Sidonia, was named regent in his father's will. His mental instability and paralysis, plus his lack of interest in government, left his mother as regent for six years, until 1662. Afonso oversaw decisive military victories over the Spanish at Elvas (14 January 1659), Ameixial (8 June 1663) and Montes Claros (17 June 1665), culminating in the final Spanish recognition of sovereignty of Portugal's new ruling dynasty, the House of Braganza, on 13 February 1668 in the Treaty of Lisbon.
+He succeeded his father (João IV) in 1656 at the age of thirteen. His mother, Luisa of Medina-Sidonia, was named regent in his father's will. His mental instability and paralysis, plus his lack of interest in government, left his mother as regent for six years, until 1662. Afonso oversaw decisive military victories over the Spanish at Elvas (14 January 1659), Ameixial (8 June 1663) and Montes Claros (17 June 1665), culminating in the final Spanish recognition of sovereignty of Portugal's new ruling dynasty, the House of Braganza, on 13 February 1668 in the Treaty of Lisbon.
 
 
 Colonial affairs
@@ -30,7 +30,7 @@ Afonso married Marie Françoise of Nemours, the daughter of the Duke of Savoy in
 
 Downfall
 
-D._Afonso_VI_Preso_em_Sintra_(Roque_Gameiro,_Quadros_da_História_de_Portugal,_1917).png, by Alfredo Roque Gameiro.]] That same year, Pedro managed to gain enough support to force Afonso to relinquish control of the government to him, and he became Prince Regent in 1668. While Pedro never formally usurped the throne, Afonso was king in name only for the rest of his life. (The proceedings which the annulment of Afonso's marriage involved formed the basis of João Mário Grilo's 1989 film, _The King's Trial_ [_O Processo do Rei_].) For seven years after Pedro's coup, Afonso was kept on the island of Terceira in the Azores. His health broken by this captivity, he was eventually permitted to return to the Portuguese mainland, but he remained powerless and kept under guard. At Sintra he died in 1683.[1]
+, by Alfredo Roque Gameiro.]] That same year, Pedro managed to gain enough support to force Afonso to relinquish control of the government to him, and he became Prince Regent in 1668. While Pedro never formally usurped the throne, Afonso was king in name only for the rest of his life. (The proceedings which the annulment of Afonso's marriage involved formed the basis of João Mário Grilo's 1989 film, _The King's Trial_ [_O Processo do Rei_].) For seven years after Pedro's coup, Afonso was kept on the island of Terceira in the Azores. His health broken by this captivity, he was eventually permitted to return to the Portuguese mainland, but he remained powerless and kept under guard. At Sintra he died in 1683.[1]
 
 
 Ancestry

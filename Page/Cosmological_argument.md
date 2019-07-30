@@ -7,7 +7,7 @@ Contemporary defenders of cosmological arguments include William Lane Craig,[3] 
 
 History
 
-Sanzio_01_Plato_Aristotle.jpg and Aristotle, depicted here in Raphael's _The School of Athens_, both developed first cause arguments.]]
+and Aristotle, depicted here in Raphael's _The School of Athens_, both developed first cause arguments.]]
 
 Plato (c. 427–347 BC) and Aristotle (c. 384–322 BC) both posited first cause arguments, though each had certain notable caveats.[7] In _The Laws_ (Book X), Plato posited that all movement in the world and the Cosmos was "imparted motion". This required a "self-originated motion" to set it in motion and to maintain it. In _Timaeus_, Plato posited a "demiurge" of supreme wisdom and intelligence as the creator of the Cosmos.
 

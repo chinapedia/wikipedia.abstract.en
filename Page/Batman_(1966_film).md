@@ -16,7 +16,7 @@ With the world watching, the Security Council is re-hydrated. All of the members
 
 Cast
 
-Batman_villains_The_Penguin_The_Riddler_The_Joker_1967.JPG), the Riddler (Frank Gorshin) and the Joker (Cesar Romero) in 1966. These actors also played the television roles.]] Catwoman_Lee_Meriwether_1966.jpg acted as Catwoman in the film (pictured), replacing Julie Newmar, who played Catwoman in the first two seasons of the television series.]]
+), the Riddler (Frank Gorshin) and the Joker (Cesar Romero) in 1966. These actors also played the television roles.]] acted as Catwoman in the film (pictured), replacing Julie Newmar, who played Catwoman in the first two seasons of the television series.]]
 
 -   Adam West as Bruce Wayne / Batman
 -   Burt Ward as Dick Grayson / Robin
@@ -56,7 +56,7 @@ Furthermore, the movie represented Batman's first major foray into Cold War issu
 
 Vehicles
 
-1960s_Batmobile_(FMC).jpg Besides the Batmobile, other vehicles used by The Dynamic Duo include:
+Besides the Batmobile, other vehicles used by The Dynamic Duo include:
 
 -   Batcycle with side car
 -   Batboat, provided by Glastron

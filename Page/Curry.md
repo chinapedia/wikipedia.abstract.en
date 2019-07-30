@@ -29,13 +29,11 @@ From the culinary point of view, it is useful to consider the Indian subcontinen
 
 Bangladesh and West Bengal
 
-Pointed_Gourd_Curry_-_Kolkata_2011-09-20_5428.JPG
-
 Bengali cuisine, which refers to the cuisine of Bangladesh and the West Bengal state of India, includes curries, including seafood and fresh fish. Mustard seeds and mustard oil are added to many recipes, as are poppy seeds. Emigrants from the Sylhet district of Bangladesh founded the curry house industry in Britain and in Sylhet some restaurants run by expatriates specialise in British-style Indian food.[19]
 
 Northern India
 
-Rajma_Chawal,_from_India.jpg-Chawal'', curried red kidney beans with steamed rice, from India]] Curries are the most well-known part of Indian cuisine. Most Indian dishes are usually curry based, prepared by adding different types of vegetables, lentils or meats in the curry. The content of the curry and style of preparation varies per the region. Most curries are water based, with occasional use of dairy and coconut milk. Curry dishes are usually thick and spicy and are eaten along with steamed rice and variety of Indian breads.
+-Chawal'', curried red kidney beans with steamed rice, from India]] Curries are the most well-known part of Indian cuisine. Most Indian dishes are usually curry based, prepared by adding different types of vegetables, lentils or meats in the curry. The content of the curry and style of preparation varies per the region. Most curries are water based, with occasional use of dairy and coconut milk. Curry dishes are usually thick and spicy and are eaten along with steamed rice and variety of Indian breads.
 
 Gujarat
 
@@ -43,7 +41,7 @@ Although wet curries play a smaller role in Gujarat than elsewhere, there are a 
 
 Maharashtra
 
-Solkadi_and_Bangda_Fry.jpg _thali_ with solkadhi, a type of curry usually eaten with rice]]
+_thali_ with solkadhi, a type of curry usually eaten with rice]]
 
 The curries of Maharashtra vary from mildly spicy to very spicy and include vegetarian, mutton, chicken and fish. Coastal Maharashtrian – Konkani – curries use coconut extensively along with spices. In western Maharashtra, curries are very spicy, often with peanut powder. Vidharba's cuisine is usually spicier than that of the coastal and southern regions. The ingredients commonly used are besan (gram flour), or chickpea flour, and groundnut powder. As a result of the Mughal rule in the region, the cuisine of Aurangabad has been highly influenced by the North Indian method of cooking. Khandeshi food is very spicy and the most famous dish is shev bhaji. Others include Eggplant bharta (wangyache bhareet), (urid dal), stuffed eggplant (bharleli wangi), bhaakari with thecha etc. The majority of Maharashtrian people are farmers living in the rural areas and therefore their traditional food is very simple.
 
@@ -132,7 +130,7 @@ Regular ingredients include fresh onion, garlic and chili paste. Common spices i
 
 Indonesia
 
-Roti_Cane_Kari_Kambing.jpg'' in Sumatra.]] In Indonesia curry is called _kari_ or _kare_. The most common type of _kari_ consumed in Indonesia is _kari ayam_ (chicken curry) and _kari kambing_ (goat meat curry). In Aceh and North Sumatra roti cane is often eaten with _kari kambing_. Other dishes such as gulai and opor are dishes based on curry. They are often highly localised and reflect the meat and vegetables available. They can therefore employ a variety of meats (chicken, beef, water buffalo and goat as in the flavoursome _gulai kambing_), seafood (such as prawn, crab, mussel, clam, and squid), fish (tuna, mackerel, carp, pangasius, catfish), or vegetables (young jackfruit, common beans, cassava leaf) dishes in a spiced sauce. They use local ingredients such as chili peppers, kaffir lime leaves, lemongrass, galangal, Indonesian bay leaves (salam leaf), candlenuts, turmeric, turmeric leaves, asam gelugur and asam kandis (sour mangosteens similar to tamarind), shrimp paste (terasi), cumin, coriander seed and coconut milk. In Aceh, curries use _daun salam koja_ or _daun kari_ (_Murraya koenigii_) translated as "curry leaves".
+'' in Sumatra.]] In Indonesia curry is called _kari_ or _kare_. The most common type of _kari_ consumed in Indonesia is _kari ayam_ (chicken curry) and _kari kambing_ (goat meat curry). In Aceh and North Sumatra roti cane is often eaten with _kari kambing_. Other dishes such as gulai and opor are dishes based on curry. They are often highly localised and reflect the meat and vegetables available. They can therefore employ a variety of meats (chicken, beef, water buffalo and goat as in the flavoursome _gulai kambing_), seafood (such as prawn, crab, mussel, clam, and squid), fish (tuna, mackerel, carp, pangasius, catfish), or vegetables (young jackfruit, common beans, cassava leaf) dishes in a spiced sauce. They use local ingredients such as chili peppers, kaffir lime leaves, lemongrass, galangal, Indonesian bay leaves (salam leaf), candlenuts, turmeric, turmeric leaves, asam gelugur and asam kandis (sour mangosteens similar to tamarind), shrimp paste (terasi), cumin, coriander seed and coconut milk. In Aceh, curries use _daun salam koja_ or _daun kari_ (_Murraya koenigii_) translated as "curry leaves".
 
 One popular dish, rendang from West Sumatran cuisine, is often described as caramelised beef dry curry. In Indonesia, rendang is usually not considered to be curry since it is richer and contains less liquid than is normal for Indonesian curries. Authentic rendang uses water buffalo meat slow-cooked in thick coconut milk for a number of hours to tenderise, caramelise, and flavour the meat. Opor Ayam is another variation of curry, which tastes very similar to gulai. Opor is usually whitish in colour and uses neither cinnamon nor turmeric, while gulai may contain either or both. Opor is also often part of a family meal around Lebaran, while gulai can be commonly found in Padang restaurants.
 
@@ -144,13 +142,13 @@ Malaysian curries typically use turmeric-rich curry powders, coconut milk, shall
 
 Philippines
 
-Philippine_Chicken_curry.jpg, a variant of the native _ginataang manok_ with curry powder]] In the Philippines, two kinds of curry traditions are seen corresponding with the cultural divide between the Hispanicised north and Indianised/Islamised south. In the northern areas, a linear range of new curry recipes could be seen. The most common is a variant of the native _ginataang manok_ (chicken is cooked in coconut milk) dish with the addition of curry powder, known as the "Filipino chicken curry". This is the usual curry dish that northern Filipinos are familiar with. Similarly, other northern Filipino dishes that can be considered "curries" are usually _ginataan_ (cooked with coconut milk) variants of other native meat or seafood dishes such as _adobo_, _kaldereta_, and _mechado_, that simply add curry powder or non-native Indian spices.[28]
+, a variant of the native _ginataang manok_ with curry powder]] In the Philippines, two kinds of curry traditions are seen corresponding with the cultural divide between the Hispanicised north and Indianised/Islamised south. In the northern areas, a linear range of new curry recipes could be seen. The most common is a variant of the native _ginataang manok_ (chicken is cooked in coconut milk) dish with the addition of curry powder, known as the "Filipino chicken curry". This is the usual curry dish that northern Filipinos are familiar with. Similarly, other northern Filipino dishes that can be considered "curries" are usually _ginataan_ (cooked with coconut milk) variants of other native meat or seafood dishes such as _adobo_, _kaldereta_, and _mechado_, that simply add curry powder or non-native Indian spices.[28]
 
 In southern areas of the Visayas, Mindanao, the Sulu Archipelago and southern Palawan, various older curry recipes are seen, and owe their origins to the limited influence of the Spanish in these regions that preserved older culinary traditions; as well as closer historical ties to Malay states like the Sultanate of Brunei. These Mindanaoan curries include _kulma_, synonymous with the Indian _korma_; _tiyula itum_ which is a beef curry blackened with burned coconut-meat powder; and _rendang_, also eaten in Indonesia and Malaysia. Meats used in these curries include beef, goat, mutton, lamb, seafood and chicken. Pork is not used, in accordance with Islamic dietary laws.
 
 Thailand
 
-Phanaeng_mu.jpg In Thai cuisine, curries are called _kaeng_, and usually consist of meat, fish and/or vegetables in a sauce based on a paste made from chilies, onions or shallots, garlic, and shrimp paste.[29] Additional spices and herbs define the type of curry. Local ingredients, such as chili peppers, kaffir lime leaves, lemon grass, galangal are used and, in central and southern Thai cuisine, coconut milk. Northern and northeastern Thai curries generally do not contain coconut milk. Due to the use of sugar and coconut milk, Thai curries tend to be sweeter than Indian curries. In the West, some of the Thai curries are described by colour; red curries use red chilies while green curries use green chilies. Yellow curry—called _kaeng kari_ (by various spellings) in Thai, of which a literal translation could be "curry soup"—is more similar to Indian curries, with the use of turmeric, cumin, and other dried spices. A few stir-fried Thai dishes also use an Indian style curry powder (Thai: _phong kari_).
+In Thai cuisine, curries are called _kaeng_, and usually consist of meat, fish and/or vegetables in a sauce based on a paste made from chilies, onions or shallots, garlic, and shrimp paste.[29] Additional spices and herbs define the type of curry. Local ingredients, such as chili peppers, kaffir lime leaves, lemon grass, galangal are used and, in central and southern Thai cuisine, coconut milk. Northern and northeastern Thai curries generally do not contain coconut milk. Due to the use of sugar and coconut milk, Thai curries tend to be sweeter than Indian curries. In the West, some of the Thai curries are described by colour; red curries use red chilies while green curries use green chilies. Yellow curry—called _kaeng kari_ (by various spellings) in Thai, of which a literal translation could be "curry soup"—is more similar to Indian curries, with the use of turmeric, cumin, and other dried spices. A few stir-fried Thai dishes also use an Indian style curry powder (Thai: _phong kari_).
 
 Thai curries:
 
@@ -184,8 +182,6 @@ In Hong Kong, curry fish balls are a street snack, and curried brisket is a typi
 
 Japan
 
-Curry_rice_by_Hyougushi_in_Kyoto.jpg Curry-bun,curry-pan,katori-city,japan.JPG
-
 is usually eaten as _karē raisu_ — curry, rice, and often pickled vegetables, served on the same plate and eaten with a spoon, a common lunchtime canteen dish. It is less spicy and seasoned than Indian and Southeast Asian curries, being more of a thick stew than a curry.
 
 British people brought curry from the Indian colony back to Britain[31] and introduced it to Japan during the Meiji period (1868 to 1912), after Japan ended its policy of national self-isolation (_sakoku_), and curry in Japan was categorised as a Western dish. Its spread across the country is commonly attributed to its use in the Japanese Army and Navy which adopted it extensively as convenient field and naval canteen cooking, allowing even conscripts from the remotest countryside to experience the dish. The Japan Maritime Self-Defense Force traditionally have curry every Friday for lunch and many ships have their own unique recipes.[32]
@@ -205,13 +201,13 @@ Curry tteokbokki, along with curry rice, is one of the most popular curry dishes
 
 United Kingdom
 
-Chicken_Tikka_Masala-01.jpg]] Curry is very popular in the United Kingdom, with a curry house in nearly every town.[36][37] Such is the popularity of curry in the United Kingdom, it has frequently been called its "adopted national dish".[38] It was estimated that in 2016 there were 12,000 curry houses, employing 100,000 people and with annual combined sales of approximately £4.2 billion.[39]
+]] Curry is very popular in the United Kingdom, with a curry house in nearly every town.[36][37] Such is the popularity of curry in the United Kingdom, it has frequently been called its "adopted national dish".[38] It was estimated that in 2016 there were 12,000 curry houses, employing 100,000 people and with annual combined sales of approximately £4.2 billion.[39]
 
 In general the food offered is Indian food cooked to British taste; however, there is increasing demand for authentic Indian food. As of 2015 curry houses accounted for a fifth of the restaurant business in the U.K. but, being historically a low wage sector, they were plagued by a shortage of labour. Established Indian immigrants from South Asia were moving on to other occupations; there were difficulties in training Europeans to cook curry; and immigration restrictions, which require payment of a substantial wage to skilled immigrants, had crimped the supply of new cooks.[40]
 
 Historical development
 
-Hannah_Glasse_To_make_a_Currey_the_Indian_Way_1758_edition.jpg Historically, the word "curry" was first used in British cuisine to denote dishes of meat (often leftover lamb) in a Western-style sauce flavoured with curry powder.
+Historically, the word "curry" was first used in British cuisine to denote dishes of meat (often leftover lamb) in a Western-style sauce flavoured with curry powder.
 
 The first curry recipe in Britain appeared in _The Art of Cookery made Plain and Easy_ by Hannah Glasse in 1747.[41] The first edition of her book used only black pepper and coriander seeds for seasoning of "currey". By the fourth edition of the book, other ingredients such as turmeric and ginger were called for. The use of hot spices was not mentioned, which reflected the limited use of chili in India — chili plants had only been introduced into India around the late 16th century and at that time were only popular in southern India.
 

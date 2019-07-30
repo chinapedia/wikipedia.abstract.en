@@ -1,4 +1,4 @@
-Two_dancers.jpgrs]] Dancers_leaping.jpg
+rs]]
 
 DANCE is a performing art form consisting of purposefully selected sequences of human movement. This movement has aesthetic and symbolic value, and is acknowledged as dance by performers and observers within a particular culture. Dance can be categorized and described by its choreography, by its repertoire of movements, or by its historical period or place of origin.
 
@@ -7,8 +7,6 @@ An important distinction is to be drawn between the contexts of theatrical and p
 
 Performance and participation
 
-GDC_onlywayaround.jpg
-
 Theatrical dance, also called performance or concert dance, is intended primarily as a spectacle, usually a performance upon a stage by virtuoso dancers. It often tells a story, perhaps using mime, costume and scenery, or else it may simply interpret the musical accompaniment, which is often specially composed. Examples are western ballet and modern dance, Classical Indian dance and Chinese and Japanese song and dance dramas. Most classical forms are centred upon dance alone, but performance dance may also appear in opera and other forms of musical theatre.
 
 Participatory dance, on the other hand, whether it be a folk dance, a social dance, a group dance such as a line, circle, chain or square dance, or a partner dance such as is common in western Western ballroom dancing, is undertaken primarily for a common purpose, such as social interaction or exercise, of participants rather than onlookers. Such dance seldom has any narrative. A group dance and a _corps de ballet_, a social partner dance and a _pas de deux_, differ profoundly. Even a solo dance may be undertaken solely for the satisfaction of the dancer. Participatory dancers often all employ the same movements and steps but, for example, in the rave culture of electronic dance music, vast crowds may engage in free dance, uncoordinated with those around them. On the other hand, some cultures lay down strict rules as to the particular dances in which, for example, men, women and children may or must participate.
@@ -16,31 +14,29 @@ Participatory dance, on the other hand, whether it be a folk dance, a social dan
 
 Origins
 
-Dancing_painting_at_Bhimbetka.jpg
-
 Archeological evidence for early dance includes 9,000-year-old paintings in India at the Rock Shelters of Bhimbetka, and Egyptian tomb paintings depicting dancing figures, dated c. 3300 BC. It has been proposed that before the invention of written languages, dance was an important part of the oral and performance methods of passing stories down from one generation to the next.[2] The use of dance in ecstatic trance states and healing rituals (as observed today in many contemporary "primitive" cultures, from the Brazilian rainforest to the Kalahari Desert) is thought to have been another early factor in the social development of dance.[3]
 
-References to dance can be found in very early recorded history; Greek dance (_horos_) is referred to by Plato, Aristotle, Plutarch and Lucian.[4] The Bible and Talmud refer to many events related to dance, and contain over 30 different dance terms.[5] In Chinese pottery as early as the Neolithic period, groups of people are depicted dancing in a line holding hands,[6] and the earliest Chinese word for "dance" is found written in the oracle bones.[7] Dance is further described in the _Lüshi Chunqiu_.[8][9] Primitive dance in ancient China was associated with sorcery and shamanic rituals. Bronze_Statuette_of_a_Veiled_and_Masked_Dancer_1.jpg During the first millennium BCE in India, many texts were composed which attempted to codify aspects of daily life. Bharata Muni's _Natyashastra_ (literally _"the text of dramaturgy"_) is one of the earlier texts. It mainly deals with drama, in which dance plays an important part in Indian culture. It categorizes dance into four types – secular, ritual, abstract, and, interpretive – and into four regional varieties. The text elaborates various hand-gestures (_mudras_) and classifies movements of the various limbs, steps and so on. A strong continuous tradition of dance has since continued in India, through to modern times, where it continues to play a role in culture, ritual, and, notably, the Bollywood entertainment industry. Many other contemporary dance forms can likewise be traced back to historical, traditional, ceremonial, and ethnic dance.
+References to dance can be found in very early recorded history; Greek dance (_horos_) is referred to by Plato, Aristotle, Plutarch and Lucian.[4] The Bible and Talmud refer to many events related to dance, and contain over 30 different dance terms.[5] In Chinese pottery as early as the Neolithic period, groups of people are depicted dancing in a line holding hands,[6] and the earliest Chinese word for "dance" is found written in the oracle bones.[7] Dance is further described in the _Lüshi Chunqiu_.[8][9] Primitive dance in ancient China was associated with sorcery and shamanic rituals. During the first millennium BCE in India, many texts were composed which attempted to codify aspects of daily life. Bharata Muni's _Natyashastra_ (literally _"the text of dramaturgy"_) is one of the earlier texts. It mainly deals with drama, in which dance plays an important part in Indian culture. It categorizes dance into four types – secular, ritual, abstract, and, interpretive – and into four regional varieties. The text elaborates various hand-gestures (_mudras_) and classifies movements of the various limbs, steps and so on. A strong continuous tradition of dance has since continued in India, through to modern times, where it continues to play a role in culture, ritual, and, notably, the Bollywood entertainment industry. Many other contemporary dance forms can likewise be traced back to historical, traditional, ceremonial, and ethnic dance.
 
 
 Dance and music
 
-Dancing_girls_in_concert.jpg Dance is generally, though not exclusively, performed with the accompaniment of music and may or may not be performed _in time_ to such music. Some dance (such as tap dance) may provide its own audible accompaniment in place of (or in addition to) music. Many early forms of music and dance were created for each other and are frequently performed together. Notable examples of traditional dance/music couplings include the jig, waltz, tango, disco, and salsa. Some musical genres have a parallel dance form such as baroque music and baroque dance; other varieties of dance and music may share nomenclature but developed separately, such as classical music and classical ballet.
+Dance is generally, though not exclusively, performed with the accompaniment of music and may or may not be performed _in time_ to such music. Some dance (such as tap dance) may provide its own audible accompaniment in place of (or in addition to) music. Many early forms of music and dance were created for each other and are frequently performed together. Notable examples of traditional dance/music couplings include the jig, waltz, tango, disco, and salsa. Some musical genres have a parallel dance form such as baroque music and baroque dance; other varieties of dance and music may share nomenclature but developed separately, such as classical music and classical ballet.
 
 
 Dance and rhythm
 
-Rhythm and dance are deeply linked in history and practice. The American dancer Ted Shawn wrote; "The conception of rhythm which underlies all studies of the dance is something about which we could talk forever, and still not finish."[10] A musical rhythm requires two main elements; first, a regularly-repeating pulse (also called the "beat" or "tactus") that establishes the tempo and, second, a pattern of accents and rests that establishes the character of the metre or basic rhythmic pattern. The basic pulse is roughly equal in duration to a simple step or gesture. Tango_rhythm.svg Dances generally have a characteristic tempo and rhythmic pattern. The tango, for example, is usually danced in time at approximately 66 beats per minute. The basic slow step, called a "slow", lasts for one beat, so that a full "right–left" step is equal to one measure. The basic forward and backward walk of the dance is so counted – "slow-slow" – while many additional figures are counted "slow – quick-quick.[11]
+Rhythm and dance are deeply linked in history and practice. The American dancer Ted Shawn wrote; "The conception of rhythm which underlies all studies of the dance is something about which we could talk forever, and still not finish."[10] A musical rhythm requires two main elements; first, a regularly-repeating pulse (also called the "beat" or "tactus") that establishes the tempo and, second, a pattern of accents and rests that establishes the character of the metre or basic rhythmic pattern. The basic pulse is roughly equal in duration to a simple step or gesture. Dances generally have a characteristic tempo and rhythmic pattern. The tango, for example, is usually danced in time at approximately 66 beats per minute. The basic slow step, called a "slow", lasts for one beat, so that a full "right–left" step is equal to one measure. The basic forward and backward walk of the dance is so counted – "slow-slow" – while many additional figures are counted "slow – quick-quick.[11]
 
 Just as musical rhythms are defined by a pattern of strong and weak beats, so repetitive body movements often depends on alternating "strong" and "weak" muscular movements.[12] Given this alternation of left-right, of forward-backward and rise-fall, along with the bilateral symmetry of the human body, it is natural that many dances and much music are in duple and quadruple meter. However, since some such movements require more time in one phase than the other – such as the longer time required to lift a hammer than to strike – some dance rhythms fall equally naturally into triple metre.[13] Occasionally, as in the folk dances of the Balkans, dance traditions depend heavily on more complex rhythms. Further, complex dances composed of a fixed sequence of steps always require phrases and melodies of a certain fixed length to accompany that sequence.
 
-Lululaund_-_The_Dancing_Girl_(painting_and_silk_cloth._A.L._Baldry_1901,_before_p.107).jpg The very act of dancing, the steps themselves, generate an "initial skeleton of rhythmic beats" that must have preceded any separate musical accompaniment, while dance itself, as much as music, requires time-keeping[14] just as utilitarian repetitive movements such as walking, hauling and digging take on, as they become refined, something of the quality of dance.[15]
+The very act of dancing, the steps themselves, generate an "initial skeleton of rhythmic beats" that must have preceded any separate musical accompaniment, while dance itself, as much as music, requires time-keeping[14] just as utilitarian repetitive movements such as walking, hauling and digging take on, as they become refined, something of the quality of dance.[15]
 
 Musical accompaniment therefore arose in the earliest dance, so that ancient Egyptians attributed the origin of the dance to the divine Athotus, who was said to have observed that music accompanying religious rituals caused participants to move rhythmically and to have brought these movements into proportional measure. The same idea, that dance arises from musical rhythm, is still found in renaissance Europe in the works of the dancing master Guglielmo Ebreo da Pesaro who speaks of dance as a physical movement that arises from and expresses inward, spiritual motion agreeing with the "measures and perfect concords of harmony" that fall upon the human ear,[16] while, earlier, Mechthild of Magdeburg, seizing upon dance as a symbol of the holy life foreshadowed in Jesus' saying "I have piped and ye have not danced",[17] writes;
 
 Thoinot Arbeau's celebrated 16th century dance-treatise _Orchésographie_, indeed, begins with definitions of over eighty distinct drum-rhythms.[18]
 
-Dancing_with_Helen_Moller;_her_own_statement_of_her_philosophy_and_practice_and_teaching_formed_upon_the_classic_Greek_model,_and_adapted_to_meet_the_aesthetic_and_hygienic_needs_of_to-day,_with_(14784705065).jpg As has been shown above, dance has been represented through the ages as having emerged as a response to music yet, as Lincoln Kirstein implied, it is at least as likely that primitive music arose from dance. Shawn concurs, stating that dance "was the first art of the human race, and the matrix out of which all other arts grew" and that even the "metre in our poetry today is a result of the accents necessitated by body movement, as the dancing and reciting were performed simultaneously"[19] – an assertion somewhat supported by the common use of the term "foot" to describe the fundamental rhythmic units of poetry.
+As has been shown above, dance has been represented through the ages as having emerged as a response to music yet, as Lincoln Kirstein implied, it is at least as likely that primitive music arose from dance. Shawn concurs, stating that dance "was the first art of the human race, and the matrix out of which all other arts grew" and that even the "metre in our poetry today is a result of the accents necessitated by body movement, as the dancing and reciting were performed simultaneously"[19] – an assertion somewhat supported by the common use of the term "foot" to describe the fundamental rhythmic units of poetry.
 
 Scholes, not a dancer but a musician, offers support for this view, stating that the steady measures of music, of two, three or four beats to the bar, its equal and balanced phrases, regular cadences, contrasts and repetitions, may all be attributed to the "incalculable" influence of dance upon music.[20]
 
@@ -78,13 +74,11 @@ Cultural traditions
 
 Africa
 
-Kuduro_-_One_of_the_Angolan_National_Dances.webm" (Angolan dance)]] Cultural_celebrations_resumed_with_the_end_of_the_LRA_conflict_in_Northern_Uganda_(7269658432).jpgn youth dance at a cultural celebration of peace]]
+" (Angolan dance)]] n youth dance at a cultural celebration of peace]]
 
 Dance in Africa is deeply integrated into society and major events in a community are frequently reflected in dances: dances are performed for births and funerals, weddings and wars.[35] Traditional dances impart cultural morals, including religious traditions and sexual standards; give vent to repressed emotions, such as grief; motivate community members to cooperate, whether fighting wars or grinding grain; enact spiritual rituals; and contribute to social cohesiveness.[36]
 
 Thousands of dances are performed around the continent. These may be divided into traditional, neotraditional, and classical styles: folkloric dances of a particular society, dances created more recently in imitation of traditional styles, and dances transmitted more formally in schools or private lessons.[37] African dance has been altered by many forces, such as European missionaries and colonialist governments, who often suppressed local dance traditions as licentious or distracting.[38] Dance in contemporary African cultures still serves its traditional functions in new contexts; dance may celebrate the inauguration of a hospital, build community for rural migrants in unfamiliar cities, and be incorporated into Christian church ceremonies.[39]
-
-Nandini_Ghosal.jpg
 
 Asia
 
@@ -96,7 +90,7 @@ The Punjab area overlapping India and Pakistan is the place of origin of Bhangra
 
 The dances of Sri Lanka include the devil dances (_yakun natima_), a carefully crafted ritual reaching far back into Sri Lanka's pre-Buddhist past that combines ancient "Ayurvedic" concepts of disease causation with psychological manipulation and combines many aspects including Sinhalese cosmology. Their influence can be seen on the classical dances of Sri Lanka.[41]
 
-NutcrackerSnowPas.JPG_, one of the best known works of classical dance]] Dance-At-Bougival.jpg_ by Pierre-Auguste Renoir (1883)]] The dances of the Middle East are usually the traditional forms of circle dancing which are modernized to an extent. They would include dabke, tamzara, Assyrian folk dance, Kurdish dance, Armenian dance and Turkish dance, among others.[42][43] All these forms of dances would usually involve participants engaging each other by holding hands or arms (depending on the style of the dance). They would make rhythmic moves with their legs and shoulders as they curve around the dance floor. The head of the dance would generally hold a cane or handkerchief.[44][45]
+_, one of the best known works of classical dance]] _ by Pierre-Auguste Renoir (1883)]] The dances of the Middle East are usually the traditional forms of circle dancing which are modernized to an extent. They would include dabke, tamzara, Assyrian folk dance, Kurdish dance, Armenian dance and Turkish dance, among others.[42][43] All these forms of dances would usually involve participants engaging each other by holding hands or arms (depending on the style of the dance). They would make rhythmic moves with their legs and shoulders as they curve around the dance floor. The head of the dance would generally hold a cane or handkerchief.[44][45]
 
 Europe and North America
 
@@ -110,7 +104,7 @@ African American dance developed in everyday spaces, rather than in dance studio
 
 Latin America
 
-HK_TST_night_柏麗購物大道_Park_Lane_Shopper's_Boulevard_巴西_Brasil_森巴舞娘_Samba_female_dancers_Nov-2010_02.JPG dancers perform in carnival parades and contests]] Dance is central to Latin American social life and culture. Brazilian Samba, Argentinian tango, and Cuban salsa are internationally popular partner dances, and other national dances—merengue, cueca, plena, jarabe, joropo, marinera, cumbia, bachata and others—are important components of their respective countries' cultures.[49] Traditional Carnival festivals incorporate these and other dances in enormous celebrations.[50]
+dancers perform in carnival parades and contests]] Dance is central to Latin American social life and culture. Brazilian Samba, Argentinian tango, and Cuban salsa are internationally popular partner dances, and other national dances—merengue, cueca, plena, jarabe, joropo, marinera, cumbia, bachata and others—are important components of their respective countries' cultures.[49] Traditional Carnival festivals incorporate these and other dances in enormous celebrations.[50]
 
 Dance has played an important role in forging a collective identity among the many cultural and ethnic groups of Latin America.[51] Dance served to unite the many African, European, and indigenous peoples of the region.[52] Certain dance genres, such as capoeira, and body movements, especially the characteristic _quebrada_ or pelvis swing, have been variously banned and celebrated throughout Latin American history.[53]
 
@@ -123,7 +117,7 @@ Dance education
 
 Dance studies are offered through the arts and humanities programs of many higher education institutions. Some universities offer Bachelor of Arts and higher academic degrees in Dance. A dance study curriculum may encompass a diverse range of courses and topics, including dance practice and performance, choreography, ethnochoreology, kinesiology, dance notation, and dance therapy.
 
-Gibney_Dance.jpg, the primary setting for training in classical dance and many other styles]]
+, the primary setting for training in classical dance and many other styles]]
 
 
 Occupations
@@ -143,7 +137,7 @@ Choreographers are the ones that design the dancing movements within a dance, th
 
 Competitions
 
-MIT_2006_Standard_Prechamp_Final_2.jpg]]
+]]
 
 A DANCE COMPETITION is an organized event in which contestants perform dances before a judge or judges for awards, and in some cases, monetary prizes. There are several major types of dance competitions, distinguished primarily by the style or styles of dances performed. Major types of dance competitions include:
 

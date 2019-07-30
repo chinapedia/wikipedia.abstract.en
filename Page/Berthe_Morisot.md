@@ -7,8 +7,6 @@ Morisot was married to Eugène Manet, the brother of her friend and colleague É
 
 Early life and education
 
-Berthe_Morisot_006.jpg
-
 Morisot was born in Bourges, France, into an affluent bourgeois family. Her father, Edmé Tiburce Morisot, was the prefect (senior administrator) of the department of Cher. He also studied architecture at École des Beaux Arts.[3] Her mother, Marie-Joséphine-Cornélie Thomas, was the great-niece of Jean-Honoré Fragonard, one of the most prolific Rococo painters of the ancien régime.[4] She had two older sisters, Yves (1838–1893) and Edma (1839–1921), plus a younger brother, Tiburce, born in 1848. The family moved to Paris in 1852, when Morisot was a child.
 
 It was commonplace for daughters of bourgeois families to receive art education, so Berthe and her sisters Yves and Edma were taught privately by Geoffroy-Alphonse Chocarne and Joseph Guichard. Morisot and her sisters initially started taking lessons so that they could each make a drawing for their father for his birthday.[5] In 1857 Guichard, who ran a school for girls in Rue des Moulins, introduced Berthe and Edma to the Louvre gallery where they could learn by looking and from 1858 they learned by copying paintings. The Morisots were not only forbidden to work at the museum unchaperoned, but they were also totally barred from formal training.[6] However, the museum served another key purpose, because it enabled them to get acquainted with young male artists, such as Manet and Monet.[7]
@@ -61,7 +59,7 @@ Morisot painted what she experienced on a daily basis. Most of her paintings inc
 
 Impressionism
 
-Berthe_Morisot_005.jpg]]
+]]
 
 Morisot's first appearance in the Salon de Paris came at the age of twenty-three in 1864, with the acceptance of two landscape paintings. She continued to show regularly in the Salon, to generally favorable reviews, until 1873, the year before the first Impressionist exhibition. She exhibited with the Impressionists from 1874 onwards, only missing the exhibition in 1878 when her daughter was born.[39]
 
@@ -71,9 +69,7 @@ During Morisot's 1874 exhibition with the Impressionists, such as Monet and Mane
 
 Morisot's mature career began in 1872. She found an audience for her work with Durand-Ruel, the private dealer, who bought twenty-two paintings. In 1877, she was described by the critic for _Le Temps_ as the "one real Impressionist in this group."[42] She chose to exhibit under her full maiden name instead of using a pseudonym or her married name.[43] As her skill and style improved, many began to rethink their opinion toward Morisot. In the 1880 exhibition, many reviews judged Morisot among the best, even including _Le Figaro_ critic Albert Wolff.[44]
 
-Edouard_Manet_-_Berthe_Morisot_With_a_Bouquet_of_Violets_-_Google_Art_Project.jpg, _Berthe Morisot with a Bouquet of Violets_ (in mourning for her father), 1872, Musée d'Orsay]]
-
-Jeune_Fille_au_Manteau_Vert_by_Berthe_Morisot.jpg
+, _Berthe Morisot with a Bouquet of Violets_ (in mourning for her father), 1872, Musée d'Orsay]]
 
 
 Personal life
@@ -82,8 +78,6 @@ Morisot came from an eminent family, the daughter of a government official and t
 
 
 Works
-
-La_Coiffure_-_Berthe_Morisot.jpg
 
 Selection of works
 

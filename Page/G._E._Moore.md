@@ -20,7 +20,7 @@ Philosophy
 
 Ethics
 
-Principia_Ethica_title_page.png His influential work _Principia Ethica_ is one of the main inspirations of the movement against ethical naturalism (see ethical non-naturalism) and is partly responsible for the twentieth-century concern with meta-ethics.[11]
+His influential work _Principia Ethica_ is one of the main inspirations of the movement against ethical naturalism (see ethical non-naturalism) and is partly responsible for the twentieth-century concern with meta-ethics.[11]
 
 The naturalistic fallacy
 
@@ -72,8 +72,6 @@ To understand the application of the organic principle to questions of value, it
 
 
 Works
-
-Grave_of_philosopher_G.E._Moore_-_geograph.org.uk_-_382503.jpg
 
 -   G. E. Moore, "The Nature of Judgment" (1899)
 -   G. E. Moore, _Principia Ethica_ (1903)

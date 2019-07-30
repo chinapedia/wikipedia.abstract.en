@@ -5,7 +5,7 @@ However, the achievements of the writers of the Corpus, the practitioners of Hip
 
 Biography
 
-Hippocrate_refusant_les_présents_d'Artaxerxès_(original).JPG Emperor Artaxerxes, who was asking for his services. Painted by Girodet.[6]]] Historians agree that Hippocrates was born around the year 460 BC on the Greek island of Kos; other biographical information, however, is likely to be untrue.[7]
+Emperor Artaxerxes, who was asking for his services. Painted by Girodet.[6]]] Historians agree that Hippocrates was born around the year 460 BC on the Greek island of Kos; other biographical information, however, is likely to be untrue.[7]
 
 Soranus of Ephesus, a 2nd-century Greek physician,[8] was Hippocrates' first biographer and is the source of most personal information about him. Later biographies are in the _Suda_ of the 10th century AD, and in the works of John Tzetzes, Aristotle's "Politics", which date from the 4th century BC.[9]
 
@@ -26,7 +26,7 @@ Analogies have been drawn between Thucydides' historical method and the Hippocra
 
 Crisis
 
-Kos_Asklepeion.jpg'' on Kos]] Another important concept in Hippocratic medicine was that of a _crisis_, a point in the progression of disease at which either the illness would begin to triumph and the patient would succumb to death, or the opposite would occur and natural processes would make the patient recover. After a crisis, a relapse might follow, and then another deciding crisis. According to this doctrine, crises tend to occur on _critical days_, which were supposed to be a fixed time after the contraction of a disease. If a crisis occurred on a day far from a _critical day_, a relapse might be expected. Galen believed that this idea originated with Hippocrates, though it is possible that it predated him.[29]
+'' on Kos]] Another important concept in Hippocratic medicine was that of a _crisis_, a point in the progression of disease at which either the illness would begin to triumph and the patient would succumb to death, or the opposite would occur and natural processes would make the patient recover. After a crisis, a relapse might follow, and then another deciding crisis. According to this doctrine, crises tend to occur on _critical days_, which were supposed to be a fixed time after the contraction of a disease. If a crisis occurred on a day far from a _critical day_, a relapse might be expected. Galen believed that this idea originated with Hippocrates, though it is possible that it predated him.[29]
 
 Hippocratic medicine was humble and passive. The therapeutic approach was based on "the healing power of nature" ("_vis medicatrix naturae_" in Latin). According to this doctrine, the body contains within itself the power to re-balance the four humours and heal itself (_physis_).[30] Hippocratic therapy focused on simply easing this natural process. To this end, Hippocrates believed "rest and immobilization [were] of capital importance."[31] In general, the Hippocratic medicine was very kind to the patient; treatment was gentle, and emphasized keeping the patient clean and sterile. For example, only clean water or wine were ever used on wounds, though "dry" treatment was preferable. Soothing balms were sometimes employed.[32]
 
@@ -36,7 +36,7 @@ One of the strengths of Hippocratic medicine was its emphasis on prognosis. At H
 
 Professionalism
 
-Ancientgreek_surgical.jpg; on the right, a set of scalpels. Hippocratic medicine made good use of these tools.[38]]]
+; on the right, a set of scalpels. Hippocratic medicine made good use of these tools.[38]]]
 
 Hippocratic medicine was notable for its strict professionalism, discipline, and rigorous practice.[39] The Hippocratic work _On the Physician_ recommends that physicians always be well-kempt, honest, calm, understanding, and serious. The Hippocratic physician paid careful attention to all aspects of his practice: he followed detailed specifications for, "lighting, personnel, instruments, positioning of the patient, and techniques of bandaging and splinting" in the ancient operating room.[40] He even kept his fingernails to a precise length.[41]
 
@@ -45,7 +45,7 @@ The Hippocratic School gave importance to the clinical doctrines of observation 
 
 Direct contributions to medicine
 
-ClubbingFingers1.jpg; first described by Hippocrates, clubbing is also known as "Hippocratic fingers".]]
+; first described by Hippocrates, clubbing is also known as "Hippocratic fingers".]]
 
 Hippocrates and his followers were first to describe many diseases and medical conditions.[48] He is given credit for the first description of clubbing of the fingers, an important diagnostic sign in chronic lung disease, lung cancer and cyanotic heart disease. For this reason, clubbed fingers are sometimes referred to as "Hippocratic fingers".[49] Hippocrates was also the first physician to describe Hippocratic face in _Prognosis_. Shakespeare famously alludes to this description when writing of Falstaff's death in Act II, Scene iii. of _Henry V_.[50][51]
 
@@ -58,7 +58,7 @@ In 2017, researchers claimed that, while conducting restorations on the Saint Ca
 
 Hippocratic Corpus
 
-HippocraticOath.jpg manuscript of the Oath in the form of a cross]]
+manuscript of the Oath in the form of a cross]]
 
 The Hippocratic Corpus (Latin: _Corpus Hippocraticum_) is a collection of around seventy early medical works collected in Alexandrian Greece.[69] It is written in Ionic Greek. The question of whether Hippocrates himself was the author of any of the treatises in the corpus has not been conclusively answered,[70] but current debate revolves around only a few of the treatises seen as potentially by him. Because of the variety of subjects, writing styles and apparent date of construction, the Hippocratic Corpus could not have been written by one person (Ermerins numbers the authors at nineteen).[71] The corpus came to be known by his name because of his fame, possibly all medical works were classified under 'Hippocrates' by a librarian in Alexandria.[72][73][74] The volumes were probably produced by his students and followers.[75]
 
@@ -71,7 +71,7 @@ The Hippocratic Oath, a seminal document on the ethics of medical practice, was 
 
 Legacy
 
-Galenoghippokrates.jpg and Hippocrates. 12th century; Anagni, Italy ]]
+and Hippocrates. 12th century; Anagni, Italy ]]
 
 Hippocrates is widely considered to be the "Father of Medicine".[83] His contributions revolutionized the practice of medicine; but after his death the advancement stalled.[84] So revered was Hippocrates that his teachings were largely taken as too great to be improved upon and no significant advancements of his methods were made for a long time.[85][86] The centuries after Hippocrates' death were marked as much by retrograde movement as by further advancement. For instance, "after the Hippocratic period, the practice of taking clinical case-histories died out," according to Fielding Garrison.[87]
 
@@ -79,7 +79,7 @@ After Hippocrates, the next significant physician was Galen, a Greek who lived f
 
 Image
 
-Hippocrates_rubens.jpg, 1638]]
+, 1638]]
 
 According to Aristotle's testimony, Hippocrates was known as "The Great Hippocrates".[92] Concerning his disposition, Hippocrates was first portrayed as a "kind, dignified, old country doctor" and later as "stern and forbidding".[93] He is certainly considered wise, of very great intellect and especially as very practical. Francis Adams describes him as "strictly the physician of experience and common sense."[94]
 
@@ -92,7 +92,7 @@ _The Travels of Sir John Mandeville_ reports (incorrectly) that Hippocrates was 
 
 Genealogy
 
-Hippocrates' legendary genealogy traces his paternal heritage directly to Asklepius and his maternal ancestry to Heracles.[99] According to Tzetzes's _Chiliades_, the ahnentafel of Hippocrates II is:[100] HSAsclepiusKos_retouched.jpg of Hippocrates on the floor of the Asclepieion of Kos, with Asklepius in the middle, 2nd-3rd century]] 1. HIPPOCRATES II. "THE FATHER OF MEDICINE"
+Hippocrates' legendary genealogy traces his paternal heritage directly to Asklepius and his maternal ancestry to Heracles.[99] According to Tzetzes's _Chiliades_, the ahnentafel of Hippocrates II is:[100] of Hippocrates on the floor of the Asclepieion of Kos, with Asklepius in the middle, 2nd-3rd century]] 1. HIPPOCRATES II. "THE FATHER OF MEDICINE"
 2. Heraclides
 4. Hippocrates I.
 8. Gnosidicus
@@ -112,7 +112,7 @@ Hippocrates' legendary genealogy traces his paternal heritage directly to Asklep
 
 Namesakes
 
-Hippocrates_statue_in_Brisbane.jpg in Brisbane]] Some clinical symptoms and signs have been named after Hippocrates as he is believed to be the first person to describe those. Hippocratic face is the change produced in the countenance by death, or long sickness, excessive evacuations, excessive hunger, and the like. Clubbing, a deformity of the fingers and fingernails, is also known as Hippocratic fingers. Hippocratic succussion is the internal splashing noise of hydropneumothorax or pyopneumothorax. Hippocratic bench (a device which uses tension to aid in setting bones) and Hippocratic cap-shaped bandage are two devices named after Hippocrates.[101] Hippocratic Corpus and Hippocratic Oath are also his namesakes. The drink hypocras is also believed to be invented by Hippocrates. Risus sardonicus, a sustained spasming of the face muscles may also be termed the Hippocratic Smile. The most severe form of hair loss and baldness is called the Hippocratic form.[102]
+in Brisbane]] Some clinical symptoms and signs have been named after Hippocrates as he is believed to be the first person to describe those. Hippocratic face is the change produced in the countenance by death, or long sickness, excessive evacuations, excessive hunger, and the like. Clubbing, a deformity of the fingers and fingernails, is also known as Hippocratic fingers. Hippocratic succussion is the internal splashing noise of hydropneumothorax or pyopneumothorax. Hippocratic bench (a device which uses tension to aid in setting bones) and Hippocratic cap-shaped bandage are two devices named after Hippocrates.[101] Hippocratic Corpus and Hippocratic Oath are also his namesakes. The drink hypocras is also believed to be invented by Hippocrates. Risus sardonicus, a sustained spasming of the face muscles may also be termed the Hippocratic Smile. The most severe form of hair loss and baldness is called the Hippocratic form.[102]
 
 In the modern age, a lunar crater has been named Hippocrates. The Hippocratic Museum, a museum on the Greek island of Kos is dedicated to him. The Hippocrates Project is a program of the New York University Medical Center to enhance education through use of technology. Project Hippocrates (an acronym of "HIgh PerfOrmance Computing for Robot-AssisTEd Surgery") is an effort of the Carnegie Mellon School of Computer Science and Shadyside Medical Center, "to develop advanced planning, simulation, and execution technologies for the next generation of computer-assisted surgical robots."[103] Both the Canadian Hippocratic Registry and American Hippocratic Registry are organizations of physicians who uphold the principles of the original Hippocratic Oath as inviolable through changing social times.
 
@@ -127,7 +127,7 @@ Notes
 
 References
 
-GreekReduction.jpg of the reduction of a dislocated shoulder with a Hippocratic device]]
+of the reduction of a dislocated shoulder with a Hippocratic device]]
 
 -   .
 

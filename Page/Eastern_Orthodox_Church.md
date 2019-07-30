@@ -1,4 +1,4 @@
-Spas_vsederzhitel_sinay.jpg'', 6th century, Saint Catherine's Monastery, Sinai; the oldest known icon of Christ, in one of the oldest monasteries in the world.]]
+'', 6th century, Saint Catherine's Monastery, Sinai; the oldest known icon of Christ, in one of the oldest monasteries in the world.]]
 
 The EASTERN ORTHODOX CHURCH, officially the ORTHODOX CATHOLIC CHURCH,[1][2][3][4] is the second-largest Christian church, with approximately 200–260 million baptised members .[5][6][7][8] It operates as a communion of autocephalous churches, each governed by its bishops in local synods,[9] although roughly half of Eastern Orthodox Christians live in Russia. The church has no central doctrinal or governmental authority analogous to the Bishop of Rome, but the Ecumenical Patriarch of Constantinople is recognised by all as _primus inter pares_ ("first among equals") of the bishops. As one of the oldest surviving religious institutions in the world, the Eastern Orthodox Church has played a prominent role in the history and culture of Eastern and Southeastern Europe, the Caucasus, and the Near East.
 
@@ -17,7 +17,7 @@ The common name of the church, "Eastern Orthodox Church", is a shortened practic
 
 Orthodoxy
 
-Byzantinischer_Mosaizist_um_1000_002.jpg presents a representation of the city of Constantinople as tribute to an enthroned Mary and baby Jesus in this church mosaic (Hagia Sophia, c. 1000)]]
+presents a representation of the city of Constantinople as tribute to an enthroned Mary and baby Jesus in this church mosaic (Hagia Sophia, c. 1000)]]
 
 The first known use of the phrase "the catholic Church" (_he katholike ekklesia_) occurred in a letter written about 110 AD from one Greek church to another (Saint Ignatius of Antioch to the Smyrnaeans). The letter states: "Wheresoever the bishop shall appear, there let the people be, even as where Jesus may be, there is the universal [katholike] Church."[28] Thus, almost from the very beginning, Christians referred to the Church as the "One, Holy, Catholic (from the Greek καθολική, or "according to the whole, universal") and Apostolic Church". The Eastern Orthodox Church claims that it is today the continuation and preservation of that same early Church.
 
@@ -39,7 +39,7 @@ The shared beliefs of Orthodoxy, and its theology, exist within Holy Tradition a
 
 Catholicity
 
-John_the_Baptist_of_Macedonia.jpg of Saint John the Baptist, 14th century, North Macedonia]]
+of Saint John the Baptist, 14th century, North Macedonia]]
 
 The Eastern Orthodox Church considers itself to be both orthodox and catholic. The doctrine of the Catholicity of the Church, as derived from the Nicene Creed, is essential to Eastern Orthodox ecclesiology. The term _Catholicity of the Church_ (Greek ) is used in its original sense, as a designation for the Universality of the Church, centered around Christ. Therefore, the Eastern Orthodox notion of catholicity is not centered around any singular see, unlike Catholicism, that has one earthly center.
 
@@ -60,7 +60,7 @@ Church councils
 
 There have been a number of times when alternative theological ideas arose to challenge the Orthodox faith. At such times the Orthodox communion deemed it necessary to convene a general or "great" council of all available bishops throughout the world. The Orthodox Church holds that seven ecumenical councils, held between the 4th and the 8th centuries, are authoritative.
 
-Rylands_Nicene_Creed_papyrus.jpg, dated to the 5th Century|256x256px]]
+, dated to the 5th Century|256x256px]]
 
 The ecumenical councils followed a democratic form, with each bishop having one vote. Though present and allowed to speak before the council, members of the Imperial Roman/Byzantine court, abbots, priests, deacons, monks and laymen were not allowed to vote. The primary goal of these great synods was to verify and confirm the fundamental beliefs of the Great Christian Church as truth, and to remove as heresy any false teachings that would threaten the Church. The Pope of Rome at that time held the position of "Primus inter pares" ("first among equals") and, while he was not present at any of the councils, he continued to hold this title until the East–West Schism of 1054.
 
@@ -76,7 +76,7 @@ Because of the schism the Eastern Orthodox no longer recognise the primacy of th
 
 Adherents
 
-DISTRIBUTION OF EASTERN ORTHODOX CHRISTIANS IN THE WORLD BY COUNTRY: |211x211px Politics, wars, persecutions, oppressions, and related potential threats[43] can make precise counts of Orthodox membership difficult to obtain at best in some regions. Historically, forced migrations have also altered demographics in relatively short periods of time. The most reliable estimates currently available number Orthodox adherents at around 200 million worldwide,[44] making Eastern Orthodoxy the second largest Christian communion in the world after the Catholic Church.[45] The numerous Protestant groups in the world, if taken all together, outnumber the Eastern Orthodox, but they differ theologically and do not form a single communion.[46] According to the 2015 Yearbook of International Religious Demography, the Eastern Orthodox population in 2010 decreased to 4% of the global population from 7.1% of the global population in 1910. According to the same source, in terms of the total Christian population, the relative percentages were 12.2% and 20.4% respectively.[47] According to the Pew Research Center, the Eastern Orthodox share of the world's total Christian population was 12% in 2011.[48]
+Politics, wars, persecutions, oppressions, and related potential threats[43] can make precise counts of Orthodox membership difficult to obtain at best in some regions. Historically, forced migrations have also altered demographics in relatively short periods of time. The most reliable estimates currently available number Orthodox adherents at around 200 million worldwide,[44] making Eastern Orthodoxy the second largest Christian communion in the world after the Catholic Church.[45] The numerous Protestant groups in the world, if taken all together, outnumber the Eastern Orthodox, but they differ theologically and do not form a single communion.[46] According to the 2015 Yearbook of International Religious Demography, the Eastern Orthodox population in 2010 decreased to 4% of the global population from 7.1% of the global population in 1910. According to the same source, in terms of the total Christian population, the relative percentages were 12.2% and 20.4% respectively.[47] According to the Pew Research Center, the Eastern Orthodox share of the world's total Christian population was 12% in 2011.[48]
 
 Most members today are concentrated in Eastern Europe and Asian Russia, in addition to significant minorities in Central Asia and the Levant, although Eastern Orthodoxy has spread into a global religion towards Western Europe and the New World, with churches in most countries and major cities. The adherents constitute the largest single religious faith in the world's largest country—Russia,[49] where roughly half of Eastern Orthodox Christians live. They are the majority religion in Ukraine,[50][51] Romania,[52] Belarus,[53] Greece,[54] Serbia,[55] Bulgaria,[56] Moldova,[57] Georgia,[58] North Macedonia,[59] Cyprus,[60] and Montenegro;[61] they also dominate in the disputed territories of Abkhazia, South Ossetia and Transnistria. Significant minorities of Eastern Orthodox are present in Bosnia and Herzegovina (absolute majority in Republika Srpska),[62] Latvia,[63] Estonia,[64] Kazakhstan,[65] Kyrgyzstan,[66] Lebanon,[67] Albania, Syria,[68] and many other countries.
 
@@ -97,7 +97,7 @@ In understanding the Trinity as "one God in three persons", "three persons" is n
 
 Sin, salvation, and the incarnation
 
-Ioann_Damaskin_ikona.jpg]] According to the Eastern Orthodox faith, at some point in the beginnings of human existence, humanity was faced with a choice: to learn the difference between good and evil through observation or through participation. The biblical story of Adam and Eve relates this choice by mankind to participate in evil, accomplished through disobedience to God's command. Both the intent and the action were separate from God's will; it is that separation that defines and marks any operation as sin. The separation from God caused the loss of (fall from) his grace, a severing of mankind from his creator and the source of his life. The end result was the diminishment of human nature and its subjection to death and corruption, an event commonly referred to as the "fall of man".
+]] According to the Eastern Orthodox faith, at some point in the beginnings of human existence, humanity was faced with a choice: to learn the difference between good and evil through observation or through participation. The biblical story of Adam and Eve relates this choice by mankind to participate in evil, accomplished through disobedience to God's command. Both the intent and the action were separate from God's will; it is that separation that defines and marks any operation as sin. The separation from God caused the loss of (fall from) his grace, a severing of mankind from his creator and the source of his life. The end result was the diminishment of human nature and its subjection to death and corruption, an event commonly referred to as the "fall of man".
 
 When Orthodox Christians refer to fallen nature they are not saying that human nature has become evil in itself. Human nature is still formed in the image of God; humans are still God's creation, and God has never created anything evil, but fallen nature remains open to evil intents and actions. It is sometimes said among Orthodox that humans are "inclined to sin"; that is, people find some sinful things attractive. It is the nature of temptation to make sinful things seem the more attractive, and it is the fallen nature of humans that seeks or succumbs to the attraction. Orthodox Christians reject the Augustinian position that the descendants of Adam and Eve are actually guilty of the original sin of their ancestors.[78] But just as any species begets its own kind, so fallen humans beget fallen humans, and from the beginning of humanity's existence people lie open to sinning by their own choice.
 
@@ -111,7 +111,7 @@ The Eastern Orthodox reject the idea that Christ died to give God "satisfaction"
 
 Resurrection of Christ
 
-1678._Сашэсце_ў_пекла.jpg icon of the Resurrection]]
+icon of the Resurrection]]
 
 The Eastern Orthodox Church understands the death and resurrection of Jesus to be real historical events, as described in the gospels of the New Testament. Jesus Christ, the Son of God, is believed to, according to Orthodox teaching, in his humanity be (that is, in history) crucified, and died, descending into Hades (Sheol), the place of the dead, as all humans do. But he, alone among humans, has two natures, one human, one divine, which are indivisible and inseparable from each other through the mystery of the incarnation. Hades could not restrain the infinite God. Christ in his divine nature captured the keys of Hades and broke the bonds which had imprisoned the human souls who had been held there through their separation from God.
 
@@ -127,7 +127,7 @@ The Eastern Orthodox Church, in understanding itself to be the Body of Christ, a
 
 Virgin Mary and other saints
 
-Tinos_panagia_evangelistria_200707_04.jpg is the major Marian shrine in Greece]] Vladimirskaya.jpg, one of the most venerated of Orthodox Christian icons of the Virgin Mary|298x298px]]
+is the major Marian shrine in Greece]] , one of the most venerated of Orthodox Christian icons of the Virgin Mary|298x298px]]
 
 The Eastern Orthodox Church believes death and the separation of body and soul to be unnatural—a result of the Fall of Man. They also hold that the congregation of the church comprises both the living and the dead. All persons currently in heaven are considered to be saints, whether their names are known or not. There are, however, those saints of distinction whom God has revealed as particularly good examples. When a saint is revealed and ultimately recognised by a large portion of the church a service of official recognition (canonization) is celebrated.
 
@@ -141,13 +141,13 @@ The Eastern Orthodox Church regards the bodies of all saints as holy, made such 
 
 Eschatology
 
-Torcello_-_Santa_Maria_Assunta.Last_Judgement.jpg mosaic from Torcello Cathedral]]
+mosaic from Torcello Cathedral]]
 
 Orthodox Christians believe that when a person dies the soul is temporarily separated from the body. Though it may linger for a short period on Earth, it is ultimately escorted either to paradise (Abraham's bosom) or the darkness of Hades, following the Temporary Judgment. Orthodox do not accept the doctrine of Purgatory, which is held by Catholicism. The soul's experience of either of these states is only a "foretaste"—being experienced only by the soul—until the Final Judgment, when the soul and body will be reunited.[81][82]
 
 The Eastern Orthodox believe that the state of the soul in Hades can be affected by the love and prayers of the righteous up until the Last Judgment.[83] For this reason the Church offers a special prayer for the dead on the third day, ninth day, fortieth day, and the one-year anniversary after the death of an Orthodox Christian. There are also several days throughout the year that are set aside for general commemoration of the departed, sometimes including nonbelievers. These days usually fall on a Saturday, since it was on a Saturday that Christ lay in the Tomb.[84]
 
-Ph.Patmos_Monastery-02Wiki.jpg in Patmos, where the Book of Revelation was written|alt=]]
+in Patmos, where the Book of Revelation was written|alt=]]
 
 While the Eastern Orthodox consider the text of the Apocalypse (Book of Revelation) to be a part of Scripture, it is also regarded to be a holy mystery. Speculation on the contents of Revelation are minimal and it is never read as part of the regular order of services. Those theologians who have delved into its pages tend to be amillennialist in their eschatology, believing that the "thousand years" spoken of in biblical prophecy refers to the present time: from the Crucifixion of Christ until the Second Coming.
 
@@ -163,7 +163,7 @@ The Eastern Orthodox believe that after the Final Judgment:
 
 Bible
 
-The official Bible of the Eastern Orthodox Church contains the Septuagint text of the Old Testament, with the Book of Daniel given in the translation by Theodotion. The Patriarchal Text is used for the New Testament.[86][87][88] Orthodox Christians hold that the Bible is a verbal icon of Christ, as proclaimed by the 7th ecumenical council. They refer to the Bible as Holy Scripture, meaning writings containing the foundational truths of the Christian faith as revealed by Christ and the Holy Spirit to its divinely inspired human authors. Holy Scripture forms the primary and authoritative written witness of Holy Tradition and is essential as the basis for all Orthodox teaching and belief. The Bible provides the only texts held to be suitable for reading in Orthodox worship services. Through the many scriptural quotations embedded in the worship service texts themselves, it is often said that the Eastern Orthodox pray the Bible as well as read it. Paris_psaulter_gr139_fol5v.jpg, example of the Macedonian art (Byzantine) (sometimes called the Macedonian Renaissance)]]
+The official Bible of the Eastern Orthodox Church contains the Septuagint text of the Old Testament, with the Book of Daniel given in the translation by Theodotion. The Patriarchal Text is used for the New Testament.[86][87][88] Orthodox Christians hold that the Bible is a verbal icon of Christ, as proclaimed by the 7th ecumenical council. They refer to the Bible as Holy Scripture, meaning writings containing the foundational truths of the Christian faith as revealed by Christ and the Holy Spirit to its divinely inspired human authors. Holy Scripture forms the primary and authoritative written witness of Holy Tradition and is essential as the basis for all Orthodox teaching and belief. The Bible provides the only texts held to be suitable for reading in Orthodox worship services. Through the many scriptural quotations embedded in the worship service texts themselves, it is often said that the Eastern Orthodox pray the Bible as well as read it. , example of the Macedonian art (Byzantine) (sometimes called the Macedonian Renaissance)]]
 
 St. Jerome completed the well-known Vulgate Latin translation only in the early 5th century, around the time the accepted lists of scripture were resolved in the west. The east took up to a century longer to resolve the lists in use there, and ended by accepting a few additional writings from the Septuagint that did not appear in the lists of the west. The differences were small and were not considered to compromise the unity of the faith shared between east and west. They did not play a role in the eventual schism in the 11th century that separated the See of Rome and the West from the See of Constantinople and the other apostolic Orthodox churches, and remained as defined essentially without controversy in the East or West for at least one thousand years. It was only in the 16th century that Reformation Protestants challenged the lists, proclaiming a canon that rejected those Old Testament books that did not appear in the 3rd-century Hebrew Bible. In response, the Catholic and Eastern Orthodox churches reaffirmed their accepted scriptural lists in more formal canons of their own.
 
@@ -208,7 +208,7 @@ In this sense, the aim of the councils was not to expand or fuel a popular need 
 
 Worship
 
-Meister_der_Sophien-Kathedrale_von_Ohrid_001.jpg of Basil the Great in the cathedral of Ohrid. The saint is shown consecrating the Gifts during the Divine Liturgy which bears his name.|282x282px]]
+of Basil the Great in the cathedral of Ohrid. The saint is shown consecrating the Gifts during the Divine Liturgy which bears his name.|282x282px]]
 
 Church calendar
 
@@ -222,7 +222,7 @@ The services of the church are conducted each day according to the church calend
 
 Usually, all of the services are conducted on a daily basis only in monasteries and cathedrals, while parish churches might only do the services on the weekend and major feast days. On certain Great Feasts (and, according to some traditions, every Sunday) a special All-Night Vigil (_Agrypnia_) will be celebrated from late at night on the eve of the feast until early the next morning. Because of its festal nature it is usually followed by a breakfast feast shared together by the congregation.
 
-Meister_der_Palastkapelle_in_Palermo_003.jpg of Ss. Basil the Great (left) and John Chrysostom, ascribed authors of the two most frequently used Eastern Orthodox Divine Liturgies, c. 1150 (mosaic in the Palatine Chapel, Palermo)]]
+of Ss. Basil the Great (left) and John Chrysostom, ascribed authors of the two most frequently used Eastern Orthodox Divine Liturgies, c. 1150 (mosaic in the Palatine Chapel, Palermo)]]
 
 Services, especially the Divine Liturgy, may only be celebrated once a day on a single altar (some churches have multiple altars in order to accommodate large congregations). Each priest may only celebrate the Divine Liturgy once a day.
 
@@ -245,7 +245,7 @@ This daily cycle services is conceived of as both the sanctification of time (_c
 
 Music and chanting
 
-Patriarchate_Constantinopolis.jpg at the Church of St. George, Patriarchate of Constantinople]]
+at the Church of St. George, Patriarchate of Constantinople]]
 
 Orthodox services are sung nearly in their entirety. Services consist in part of a dialogue between the clergy and the people (often represented by the choir or the Psaltis Cantor). In each case the prayers are sung or chanted following a prescribed musical form. Almost nothing is read in a normal speaking voice, with the exception of the homily if one is given.
 
@@ -257,7 +257,7 @@ In the Russian tradition there have been some famous composers of "unaccompanied
 
 Incense
 
-Евхаристический_канон.jpg and priest|alt=]] As part of the legacy handed down from its Judaic roots, incense is used during all services in the Eastern Orthodox Church as an offering of worship to God as it was done in the Jewish First and Second Temples in Jerusalem (Exodus chapter 30). Incense is also prophesied in the book of as a "pure offering" in the glorification of God by the Gentiles in "every place" where the name of God is regarded as "great". Traditionally, the base of the incense used is the resin of Boswellia sacra, also known as frankincense, but the resin of fir trees has been used as well. It is usually mixed with various floral essential oils giving it a sweet smell.
+and priest|alt=]] As part of the legacy handed down from its Judaic roots, incense is used during all services in the Eastern Orthodox Church as an offering of worship to God as it was done in the Jewish First and Second Temples in Jerusalem (Exodus chapter 30). Incense is also prophesied in the book of as a "pure offering" in the glorification of God by the Gentiles in "every place" where the name of God is regarded as "great". Traditionally, the base of the incense used is the resin of Boswellia sacra, also known as frankincense, but the resin of fir trees has been used as well. It is usually mixed with various floral essential oils giving it a sweet smell.
 
 Incense represents the sweetness of the prayers of the saints rising up to God (, , ). The incense is burned in an ornate golden censer that hangs at the end of three chains representing the Trinity. Two chains represent the human and Godly nature of the Son, one chain for the Father and one chain for the Holy Spirit. The lower cup represents the earth and the upper cup the heaven. In the Greek, Slavic, and Syrian traditions there are 12 bells hung along these chains representing the 12 apostles. There are also 72 links representing 72 evangelists.
 
@@ -265,7 +265,7 @@ The charcoal represents the sinners. Fire signifies the Holy Spirit and frankinc
 
 Fasting
 
-Cross_being_thrown_at_Theophany.jpg]] The number of fast days varies from year to year, but in general the Eastern Orthodox Christian can expect to spend a little over half the year fasting at some level of strictness. There are spiritual, symbolic, and even practical reasons for fasting. In the Fall from Paradise mankind became possessed by a carnal nature; that is to say, became inclined towards the passions. Through fasting, Orthodox Christians attempt to return to the relationship of love and obedience to God enjoyed by Adam and Eve in Paradise in their own lives, by refraining from carnal practices, by bridling the tongue (), confession of sins, prayer and almsgiving.
+]] The number of fast days varies from year to year, but in general the Eastern Orthodox Christian can expect to spend a little over half the year fasting at some level of strictness. There are spiritual, symbolic, and even practical reasons for fasting. In the Fall from Paradise mankind became possessed by a carnal nature; that is to say, became inclined towards the passions. Through fasting, Orthodox Christians attempt to return to the relationship of love and obedience to God enjoyed by Adam and Eve in Paradise in their own lives, by refraining from carnal practices, by bridling the tongue (), confession of sins, prayer and almsgiving.
 
 Fasting is seen as purification and the regaining of innocence. It is a practice of learning to temper the body's primary desire for food. By learning to temper this basic desire of the body, the practitioner can more readily temper other worldly desires, and thus, become better enabled to draw closer to God in the hope of becoming more Christ-like. Through obedience to the church and its ascetic practices the Eastern Orthodox Christian seeks to rid himself or herself of the _passions_ (The desires of our fallen carnal nature). All Orthodox Christians are provided with a prescribed set of guidelines. They do not view fasting as a hardship, but rather as a privilege and joy. The teaching of the Church provides both the time and the amount of fasting that is expected as a minimum for every member who chooses to participate. For greater ascesis, some may choose to go without food entirely for a short period of time. A complete three-day fast at the beginning and end of a fasting period is not unusual, and some fast for even longer periods, though this is usually practiced only in monasteries.
 
@@ -286,15 +286,13 @@ Traditions
 
 Monasticism
 
-Katharinenkloster_Sinai_BW_2.jpg (6th century), Sinai Peninsula, Egypt|220x220px]]
+(6th century), Sinai Peninsula, Egypt|220x220px]]
 
 The Eastern Orthodox Church places heavy emphasis and awards a high level of prestige to traditions of monasticism and asceticism with roots in Early Christianity in the Near East and Byzantine Anatolia. The most important centres of Christian Orthodox monasticism are Saint Catherine's Monastery in the Sinai Peninsula (Egypt) and Mount Athos in Northern Greece.
 
 All Orthodox Christians are expected to participate in at least some ascetic works, in response to the commandment of Christ to "come, take up the cross, and follow me." (Mark 10:21 and elsewhere) They are therefore all called to imitate, in one way or another, Christ himself who denied himself to the extent of literally taking up the cross on the way to his voluntary self-sacrifice. However, laypeople are not expected to live in extreme asceticism since this is close to impossible while undertaking the normal responsibilities of worldly life.
 
 Those who wish to do this therefore separate themselves from the world and live as monastics: monks and nuns. As ascetics _par excellence_, using the allegorical weapons of prayer and fasting in spiritual warfare against their passions, monastics hold a very special and important place in the Church. This kind of life is often seen as incompatible with any kind of worldly activity including that which is normally regarded as virtuous. Social work, school teaching, and other such work is therefore usually left to laypeople. Ascetics of the Eastern Orthodox Church are recognised by their long hair, and in case of male monks, long beards.
-
-megaloschema.svg
 
 There are three main types of monastics. Those who live in monasteries under a common rule are _coenobitic_. Each monastery may formulate its own rule, and although there are no religious orders in Orthodoxy some respected monastic centers such as Mount Athos are highly influential. _Eremitic_ monks, or hermits, are those who live solitary lives. It is the yearning of many who enter the monastic life to eventually become solitary hermits. This most austere life is only granted to the most advanced monastics and only when their superiors feel they are ready for it.
 
@@ -308,7 +306,7 @@ Cultural practices differ slightly, but in general _Father_ is the correct form 
 
 Icons and symbols
 
-Chrisme_Constantinople.jpg from Constantinople]] Rom,_Calixtus-Katakomben,_Steintafel_mit_Christussymbol_"Chi_Rho".jpg" symbol, Catacombs of San Callisto, Rome|alt=]]Everything in the Eastern Orthodox Church has a purpose and a meaning revealing God's revelation to man. At the front, or eastern end of the church, is a raised dais with an icon-covered screen or wall (iconostasis or templon) separating the nave from the sanctuary. In the center of this wall is the entrance to the altar known as the "Royal Doors" through which only the clergy may pass.
+from Constantinople]] " symbol, Catacombs of San Callisto, Rome|alt=]]Everything in the Eastern Orthodox Church has a purpose and a meaning revealing God's revelation to man. At the front, or eastern end of the church, is a raised dais with an icon-covered screen or wall (iconostasis or templon) separating the nave from the sanctuary. In the center of this wall is the entrance to the altar known as the "Royal Doors" through which only the clergy may pass.
 
 There is a right and left side door on the front of the iconostasis, one depicting the archangel, Michael and the other Gabriel. The priest and altar boys enter and exit through these doors during appropriate parts of the Divine Liturgy. Immediately to the right of the main gate you will always find an icon of Jesus Christ, on the left, an icon of the Theotokos (Mother of God). Other icons depicted on the iconostasis are Saint John the Forerunner and the Saint after which the church is named.
 
@@ -320,7 +318,7 @@ Icons
 
 The term 'icon' comes from the Greek word _eikon_, which simply means image. The Eastern Orthodox believe that the first icons of Christ and the Virgin Mary were painted by Luke the Evangelist. Icons are filled with symbolism designed to convey information about the person or event depicted. For this reason, icons tend to be formulaic, following a prescribed methodology for how a particular person should be depicted, including hair style, body position, clothing, and background details.
 
-Icon painting, in general, is not an opportunity for artistic expression, though each iconographer brings a vision to the piece. It is far more common for an icon to be copied from an older model, though with the recognition of a new saint in the church, a new icon must be created and approved. The personal and creative traditions of Catholic religious art were largely lacking in Orthodox icon painting before the 17th century, when Russian icons began to be strongly influenced by religious paintings and engravings from both Protestant and Catholic Europe. Greek icons also began to take on a strong western influence for a period and the difference between some Orthodox icons and western religious art began to vanish. More recently there has been a trend of returning to the more traditional and symbolic representations.ConstantinoXI.jpg, last emperor of the Roman (Byzantine) empire|264x264px]]
+Icon painting, in general, is not an opportunity for artistic expression, though each iconographer brings a vision to the piece. It is far more common for an icon to be copied from an older model, though with the recognition of a new saint in the church, a new icon must be created and approved. The personal and creative traditions of Catholic religious art were largely lacking in Orthodox icon painting before the 17th century, when Russian icons began to be strongly influenced by religious paintings and engravings from both Protestant and Catholic Europe. Greek icons also began to take on a strong western influence for a period and the difference between some Orthodox icons and western religious art began to vanish. More recently there has been a trend of returning to the more traditional and symbolic representations., last emperor of the Roman (Byzantine) empire|264x264px]]
 
 Aspects of the iconography borrow from the pre-Christian Roman and Hellenistic art. Henry Chadwick wrote, "In this instinct there was a measure of truth. The representations of Christ as the Almighty Lord on his judgment throne owed something to pictures of Zeus. Portraits of the Mother of God were not wholly independent of a pagan past of venerated mother-goddesses. In the popular mind the saints had come to fill a role that had been played by heroes and deities."[110]
 
@@ -338,7 +336,7 @@ Tales of miraculous icons are not uncommon, though it has always been considered
 
 Iconostasis
 
-People's_Salvation_Cathedral_-_Days_of_Consecration_3.jpg]]
+]]
 
 An _iconostasis_, also called the _templon_, is a wall of icons and religious paintings, separating the nave from the sanctuary in a church. _Iconostasis_ also refers to a portable icon stand that can be placed anywhere within a church. The modern iconostasis evolved from the Byzantine templon in the 11th century. The evolution of the iconostasis probably owes a great deal to 14th-century Hesychast mysticism and the wood-carving genius of the Russian Orthodox Church.
 
@@ -360,11 +358,11 @@ Other crosses associated with the Eastern Orthodox Church are the more tradition
 
 Art and architecture
 
-Orthodox-Church-interior.jpg The church building has many symbolic meanings; perhaps the oldest and most prominent is the concept that the church is the Ark (as in Noah's) in which the world is saved from the flood of temptations; therefore, most Orthodox churches are rectangular in design. Another popular configuration, especially for churches with large choirs is cruciform or cross-shaped or what is called the "Greek-cross."
+The church building has many symbolic meanings; perhaps the oldest and most prominent is the concept that the church is the Ark (as in Noah's) in which the world is saved from the flood of temptations; therefore, most Orthodox churches are rectangular in design. Another popular configuration, especially for churches with large choirs is cruciform or cross-shaped or what is called the "Greek-cross."
 
 Architectural patterns vary in shape and complexity, with chapels sometimes added around the main church, or triple altars; but in general, the symbolic layout of the church remains the same. Each church is created with specified qualifications based on what the apostles said in the Bible. These qualifications include how big the temple should be.
 
-Εσωτερικό_Αγίου_Μηνά_3604_hdr.jpg, Heraklion]] The church building is divided into three main parts: the narthex (vestibule), the nave and the sanctuary (also called the _altar_ or _holy place_). The narthex is where catechumens and non-Orthodox visitors were traditionally asked to stand during services. It is separated from the nave by "The Royal Gate". On each side of this gate are candle stands (menalia) representing the pillars of fire that went before the Hebrew people escaping from Egypt.
+, Heraklion]] The church building is divided into three main parts: the narthex (vestibule), the nave and the sanctuary (also called the _altar_ or _holy place_). The narthex is where catechumens and non-Orthodox visitors were traditionally asked to stand during services. It is separated from the nave by "The Royal Gate". On each side of this gate are candle stands (menalia) representing the pillars of fire that went before the Hebrew people escaping from Egypt.
 
 The nave is where most of the congregation stand during services. Traditionally, men stand on the right and women on the left. This is for a number of reasons: (1) Considering the family unit of past centuries the husband was dominant; thus, standing the same distance from the altar, equality is emphasised. (2) The idea of separating the sexes was inherited from the Jewish tradition of doing so within synagogues (3) Separation of sexes also followed the practice of choirs in which different levels of voice are placed in groups to facilitate harmony.
 
@@ -376,7 +374,7 @@ Apart from the icons, the Eastern Orthodox churches and monasteries are often de
 
 Local customs
 
-Broken_vases_on_Holy_Saturday_in_Corfu.jpg tradition in Corfu.]]
+tradition in Corfu.]]
 
 The Eastern Orthodox Church also has many associated traditions (sometimes referred to simply as customs), compatible with its life and function, but not necessarily tied so closely to the faith itself. These are not generally regarded as a part of Holy Tradition, though no strict dividing line is drawn. As long as compatibility is maintained, general practice often tends to the permissive rather than the restrictive, with the local priest or bishop resolving questions.
 
@@ -401,8 +399,6 @@ Those things which in the West are often termed sacraments or sacramentals are k
 
 Baptism
 
-GreekOrthodoxBaptism1.jpg
-
 Baptism is the mystery which transforms the old and sinful person into a new and pure one; the old life, the sins, any mistakes made are gone and a clean slate is given. Through baptism a person is united to the Body of Christ by becoming a member of the Orthodox Church. During the service, water is blessed. The catechumen is fully immersed in the water three times in the name of the Trinity. This is considered to be a death of the "old man" by participation in the crucifixion and burial of Christ, and a rebirth into new life in Christ by participation in his resurrection. Properly a new name is given, which becomes the person's name.
 
 Children of Orthodox families are normally baptised shortly after birth. Converts to Orthodoxy are usually formally baptised into the Orthodox Church, though exceptions are sometimes made. Those who have left Orthodoxy and adopted a new religion, if they return to their Orthodox roots, are usually received back into the church through the mystery of Chrismation.
@@ -421,7 +417,7 @@ The creation of Chrism may be accomplished by any bishop at any time, but usuall
 
 Holy Communion (Eucharist)
 
-Liturgy_St_James_1.jpgThe Eucharist is at the center of Orthodox Christianity. In practice, it is the partaking of the body and blood of Jesus Christ in the midst of the Divine Liturgy with the rest of the church. The bread and wine are believed to become the genuine body and blood of the Christ Jesus through the operation of the Holy Spirit. The Orthodox Church has never described exactly how this occurs, or gone into the detail that the Catholic Church has in the West.
+The Eucharist is at the center of Orthodox Christianity. In practice, it is the partaking of the body and blood of Jesus Christ in the midst of the Divine Liturgy with the rest of the church. The bread and wine are believed to become the genuine body and blood of the Christ Jesus through the operation of the Holy Spirit. The Orthodox Church has never described exactly how this occurs, or gone into the detail that the Catholic Church has in the West.
 
 Communion is given only to baptised and chrismated Orthodox Christians who have prepared by fasting, prayer and confession. The priest will administer the gifts with a spoon, called a "cochlear", directly into the recipient's mouth from the chalice. From baptism young infants and children are carried to the chalice to receive holy communion.[120]
 
@@ -435,7 +431,7 @@ Sin is not viewed by the Orthodox as a stain on the soul that needs to be wiped 
 
 Marriage
 
-Wedding_of_Nicholas_II_and_Alexandra_Feodorovna_by_Laurits_Tuxen_(1895,_Hermitage).jpg.]] From the Orthodox perspective, marriage is one of the holy mysteries or sacraments. As well as in many other Christian traditions, for example in Catholicism, it serves to unite a woman and a man in eternal union and love before God, with the purpose of following Christ and his Gospel and raising up a faithful, holy family through their holy union.[121][122] The church understands marriage to be the union of one man and one woman, and certain Orthodox leaders have spoken out strongly in opposition to the civil institution of same-sex marriage.[123][124]
+.]] From the Orthodox perspective, marriage is one of the holy mysteries or sacraments. As well as in many other Christian traditions, for example in Catholicism, it serves to unite a woman and a man in eternal union and love before God, with the purpose of following Christ and his Gospel and raising up a faithful, holy family through their holy union.[121][122] The church understands marriage to be the union of one man and one woman, and certain Orthodox leaders have spoken out strongly in opposition to the civil institution of same-sex marriage.[123][124]
 
 Jesus said that "when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven" (Mk 12:25). For the Orthodox Christian this passage should not be understood to imply that Christian marriage will not remain a reality in the Kingdom, but points to the fact that relations will not be "fleshy", but "spiritual".[125] Love between wife and husband, as an icon of relationship between Christ and Church, is eternal.[126]
 
@@ -445,7 +441,7 @@ The service of marriage in the Orthodox Church has two distinct parts: the betro
 
 Holy Orders
 
-Orthodox_clergy.jpg Since its founding, the church spread to different places and its leaders in each region came to be known as _episkopoi_ (overseers, plural of _episkopos_, overseer—Gr. ἐπίσκοπος), which became "bishop" in English. The other ordained roles are _presbyter_ (Gr. , elder), which became "prester" and then "priest" in English, and _diakonos_ (Gr. , servant), which became "deacon" in English (see also subdeacon). There are numerous administrative positions among the clergy that carry additional titles.
+Since its founding, the church spread to different places and its leaders in each region came to be known as _episkopoi_ (overseers, plural of _episkopos_, overseer—Gr. ἐπίσκοπος), which became "bishop" in English. The other ordained roles are _presbyter_ (Gr. , elder), which became "prester" and then "priest" in English, and _diakonos_ (Gr. , servant), which became "deacon" in English (see also subdeacon). There are numerous administrative positions among the clergy that carry additional titles.
 
 In the Greek tradition, bishops who occupy an ancient see are called metropolitans, while the lead bishop in Greece is the archbishop. (In the Russian tradition, however, the usage of the terms "metropolitan" and "archbishop" is reversed.) Priests can be archpriests, archimandrites or protopresbyters. Deacons can also be archdeacons or protodeacons. The position of deacon is often occupied for life. The deacon also acts as an assistant to a bishop.
 
@@ -468,7 +464,7 @@ History
 
 Early Church
 
-Ephesus_IchthysCrop.jpg" (_fish_) inscription from ancient Ephesus|210x210px]]
+" (_fish_) inscription from ancient Ephesus|210x210px]]
 
 Following Jesus Christ's Great Commission to the apostles, Christianity spread rapidly throughout the Roman Empire. Paul and the Apostles traveled extensively throughout the Empire, including Asia Minor, establishing Churches in major communities, with the first churches appearing in Jerusalem and the Holy Land, then in Antioch, Ethiopia, Egypt, Rome, Alexandria, Athens, Thessalonica, Illyricum, and Byzantium, which centuries later would become prominent as the New Rome.[129] Christianity in the Roman Empire met with considerable resistance, as its adherents would refuse to comply with the Roman state (even at the threat of death) in offering sacrifice to the pagan gods. Despite persecutions, the Christian Church spread. The persecution dissipated upon the conversion of Emperor Constantine I in 312 AD.[130]
 
@@ -476,7 +472,7 @@ By the 4th century Christianity had spread to numerous regions. A number of infl
 
 Ecumenical councils
 
-Nicaea_icon.jpg and the bishops of the First Council of Nicaea (325) holding the Niceno–Constantinopolitan Creed of 381.]]
+and the bishops of the First Council of Nicaea (325) holding the Niceno–Constantinopolitan Creed of 381.]]
 
 Several doctrinal disputes from the 4th century onwards led to the calling of ecumenical councils. In the Orthodox Church, an ecumenical council is the supreme authority that can be invoked to resolve contested issues of the faith. As such, these councils have been held to resolve the most important theological matters that came to be disputed within the Christian Church. Many lesser disagreements were resolved through local councils in the areas where they arose, before they grew significant enough to require an ecumenical council.
 
@@ -500,7 +496,7 @@ In addition to these councils there have been a number of other significant coun
 
 Roman/Byzantine Empire
 
-Aya_Sofya.jpg, the largest church in the world and patriarchal basilica of Constantinople for nearly a thousand years, later converted into a mosque, now a museum]]
+, the largest church in the world and patriarchal basilica of Constantinople for nearly a thousand years, later converted into a mosque, now a museum]]
 
 Eastern Christian culture reached its golden age during the high point of the Byzantine Empire and continued to flourish in Ukraine and Russia, after the fall of Constantinople. Numerous autocephalous churches were established in Europe: Russia, Greece, Georgia and Ukraine, as well as Asia.
 
@@ -518,7 +514,7 @@ Conversion of South and East Slavs
 
 In the 9th and 10th centuries, Christianity made great inroads into pagan Europe, including Bulgaria (864) and later Kievan Rus' (988). This work was made possible by the work of the Byzantine-era saints Cyril and Methodius. When king Rastislav of Moravia asked Byzantium for teachers who could minister to the Moravians in their own language, Byzantine emperor Michael III chose these two brothers. Cyril and Methodius translated the Bible and many of the prayer books. With time, as the translations prepared by them were copied by speakers of other dialects, the hybrid literary language Church Slavonic was created. Originally sent to convert the Slavs of Great Moravia, Cyril and Methodius were forced to compete with Frankish missionaries from the Roman diocese. Their disciples were driven out of Great Moravia in AD 886 and emigrated to Bulgaria.[142]
 
-Radzivill_Olga_in_Konstantinopol.jpg in Constantinople'', a miniature from the Radzivill Chronicle]]
+in Constantinople'', a miniature from the Radzivill Chronicle]]
 
 After the Christianization of Bulgaria in 864, the disciples of saints Cyril and Methodius in Bulgaria, the most important being Saint Clement of Ohrid and Saint Naum of Preslav, were of great importance to the Orthodox faith in the First Bulgarian Empire. In a short time they managed to prepare and instruct the future Bulgarian clergy into the biblical texts and in AD 870 the Fourth Council of Constantinople granted the Bulgarians the right to have the oldest organised autocephalous Slavic Orthodox Church that little later, from autonomous Bulgarian archbishopric, became Patriarchate. The success of the conversion of the Bulgarians facilitated the conversion of East Slavic peoples, most notably the Rus', predecessors of Belarusians, Russians, and Ukrainians.[143] Major event is the development of the Cyrillic script in Bulgaria at the Preslav Literary School in the 9th century. The Cyrillic script and the liturgy in Old Church Slavonic, also called Old Bulgarian, were declared official in Bulgaria in 893.[144][145][146]
 
@@ -528,9 +524,9 @@ The missionaries to the East and South Slavs had great success in part because t
 
 Great Schism (1054)
 
-Great_Schism_1054_with_former_borders.png In the 11th century what was recognised as the Great Schism took place between Rome and Constantinople, which led to separation between the Church of the West, the Catholic Church, and the Eastern Byzantine Churches, now the Orthodox. There were doctrinal issues like the filioque clause and the authority of the Roman Pope involved in the split, but these were greatly exacerbated by political factors of both Church and state, and by cultural and linguistic differences between Latins and Greeks. Regarding papal supremacy, the Eastern half grew disillusioned with the Pope's centralization of power, as well as his blatant attempts of excluding the Eastern half in regard to papal approvals. It used to be that the emperor would at least have say when a new Pope would be elected, but towards the high Middle Ages, the Christians in Rome were slowly consolidating power and removing Byzantine influence. However, even before this exclusionary tendency from the West, well before 1054, the Eastern and Western halves of the Church were in perpetual conflict, particularly during the periods of Eastern iconoclasm and the Photian schism.[158]
+In the 11th century what was recognised as the Great Schism took place between Rome and Constantinople, which led to separation between the Church of the West, the Catholic Church, and the Eastern Byzantine Churches, now the Orthodox. There were doctrinal issues like the filioque clause and the authority of the Roman Pope involved in the split, but these were greatly exacerbated by political factors of both Church and state, and by cultural and linguistic differences between Latins and Greeks. Regarding papal supremacy, the Eastern half grew disillusioned with the Pope's centralization of power, as well as his blatant attempts of excluding the Eastern half in regard to papal approvals. It used to be that the emperor would at least have say when a new Pope would be elected, but towards the high Middle Ages, the Christians in Rome were slowly consolidating power and removing Byzantine influence. However, even before this exclusionary tendency from the West, well before 1054, the Eastern and Western halves of the Church were in perpetual conflict, particularly during the periods of Eastern iconoclasm and the Photian schism.[158]
 
-Tintoretto.2tomaconstantinopla.jpg, the capital of the Eastern Orthodox controlled Byzantine Empire, in 1204.]]
+, the capital of the Eastern Orthodox controlled Byzantine Empire, in 1204.]]
 
 The final breach is often considered to have arisen after the capture and sacking of Constantinople by the Fourth Crusade in 1204; the final break with Rome occurred circa 1450. The sacking of Church of Holy Wisdom and establishment of the Latin Empire as a seeming attempt to supplant the Orthodox Byzantine Empire in 1204 is viewed with some rancour to the present day. In 2004, Pope John Paul II extended a formal apology for the sacking of Constantinople in 1204, which was importantly also strongly condemned by the Pope at the time (Innocent III, see reference at end of paragraph); the apology was formally accepted by Patriarch Bartholomew of Constantinople. Many things that were stolen during this time—holy relics, riches, and many other items—were not returned and are still held in various European cities, particularly Venice.[159][160]
 
@@ -559,7 +555,7 @@ Albania was the only state to have declared itself officially fully atheist.[169
 
 Interfaith relations
 
-Fond-du-lac-circus.preview.jpg as an Anglican bishop at the Cathedral of St. Paul the Apostle in the Episcopal Diocese of Fond du Lac, with the Rt. Rev. Anthony Kozlowski of the Polish National Catholic Church and Saint Tikhon, then Bishop of the Aleutians and Alaska (along with his chaplains Fr. John Kochurov and Fr. Sebastian Dabovich) of the Russian Orthodox Church present]] Pope_Franciscus_&_Patriarch_Bartholomew_I_in_the_Church_of_the_Holy_Sepulchre_in_Jerusalem_(1).JPG and Patriarch Bartholomew I in the Church of the Holy Sepulchre, Jerusalem, 2014]]
+as an Anglican bishop at the Cathedral of St. Paul the Apostle in the Episcopal Diocese of Fond du Lac, with the Rt. Rev. Anthony Kozlowski of the Polish National Catholic Church and Saint Tikhon, then Bishop of the Aleutians and Alaska (along with his chaplains Fr. John Kochurov and Fr. Sebastian Dabovich) of the Russian Orthodox Church present]] and Patriarch Bartholomew I in the Church of the Holy Sepulchre, Jerusalem, 2014]]
 
 Relations with other Christians
 
@@ -577,7 +573,7 @@ The Oriental Orthodox churches are not in communion with the Eastern Orthodox Ch
 
 Relations with Islam
 
-1821_attrocities_Constantinople.jpg: a religious persecution of the Greek population of Constantinople under the Ottomans. Patriarch Gregory V of Constantinople was executed.]]
+: a religious persecution of the Greek population of Constantinople under the Ottomans. Patriarch Gregory V of Constantinople was executed.]]
 
 Historically, the Orthodox Church and the non-Chalcedonians were among the first peoples to have contact with Islam, which conquered Roman/Byzantine Syria-Palestine and Egypt in the 7th century, and fought many battles against Islamic conquests. The Qur'an itself records its concurrent observations regarding the Roman world in Surah al-Rum. The main contact with Islam however, came after the conquest of the Seljuk Turks of Roman/Byzantine Anatolia in the 13th century.
 
@@ -588,7 +584,7 @@ In Russia, Metropolitan Alfeyev stated belief in the possibility of peaceful coe
 
 Present
 
-The various autocephalous and autonomous synods of the Orthodox Church are distinct in terms of administration and local culture, but for the most part exist in full communion with one another. Presently, there are two communions that reject each other and, in addition, some schismatic churches not in any communion, with all three groups identifying as Eastern Orthodox. Παρουσία_του_Υπουργού_Εξωτερικών_Ν._Κοτζιά_στην_Αγία_και_Μεγάλη_Σύνοδο_της_Ορθόδοξης_Εκκλησίας,_Κρήτη,_16-27-6-2016_(27614224782).jpg, Kolymvari, Crete, Greece, June 2016]] The main traditional historical communion is divided into two groups—those who use the Revised Julian calendar for calculating fixed feasts and the Julian calendar for calculating movable feasts, and those who use the Julian calendar for all purposes. This second group may include congregations whose church allows them to choose, with the proviso that the choice remains in effect at least until the end of the church year. Also in communion are the Estonian and Finnish Orthodox churches who have a dispensation to use the Gregorian calendar for all purposes. Another group is referred to as True Orthodoxy (or Old Calendarists); they are those who, without authority from their parent churches, have continued to use the old Julian calendar, claiming that the calendar reform in the 1920s is in contravention of the ecumenical councils. Similarly, another group called the Old Believers, separated in 1666 from the official Russian Orthodox Church as a protest against church rite reforms introduced by Patriarch Nikon of Moscow. As Eastern Orthodox Christianity is both collegial and local in structure, there is no single organization called the "True Orthodox Church" nor is there official recognition among the "True Orthodox" as to who is properly included among them. While some unions have taken place even up to the present, the majority of True Orthodox are only secondarily concerned with reunion as opposed to preservation of Eastern Orthodox teaching.
+The various autocephalous and autonomous synods of the Orthodox Church are distinct in terms of administration and local culture, but for the most part exist in full communion with one another. Presently, there are two communions that reject each other and, in addition, some schismatic churches not in any communion, with all three groups identifying as Eastern Orthodox. , Kolymvari, Crete, Greece, June 2016]] The main traditional historical communion is divided into two groups—those who use the Revised Julian calendar for calculating fixed feasts and the Julian calendar for calculating movable feasts, and those who use the Julian calendar for all purposes. This second group may include congregations whose church allows them to choose, with the proviso that the choice remains in effect at least until the end of the church year. Also in communion are the Estonian and Finnish Orthodox churches who have a dispensation to use the Gregorian calendar for all purposes. Another group is referred to as True Orthodoxy (or Old Calendarists); they are those who, without authority from their parent churches, have continued to use the old Julian calendar, claiming that the calendar reform in the 1920s is in contravention of the ecumenical councils. Similarly, another group called the Old Believers, separated in 1666 from the official Russian Orthodox Church as a protest against church rite reforms introduced by Patriarch Nikon of Moscow. As Eastern Orthodox Christianity is both collegial and local in structure, there is no single organization called the "True Orthodox Church" nor is there official recognition among the "True Orthodox" as to who is properly included among them. While some unions have taken place even up to the present, the majority of True Orthodox are only secondarily concerned with reunion as opposed to preservation of Eastern Orthodox teaching.
 
 The calendar question reflects the dispute between those who wish to use a calendar which is reformed yet not Gregorian (effectively gaining the perceived benefits of the Gregorian calendar without disregarding the three anathemas issued against it in the sixteenth century), something which opponents consider unnecessary and damaging to continuity, and those who wish to maintain the traditional ecclesiastical calendar (which happens to be based on the Julian calendar), arguing that such a modern change goes against 1900 years of church tradition and was in fact perpetrated without an ecumenical council, which would surely have rejected the idea.
 
@@ -600,9 +596,9 @@ The Russian Orthodox Church Outside Russia (ROCOR) has recently united with the 
 
 Main communion
 
-AlexGreekCathedralFront.jpg, Alexandria]] The Orthodox Church is a communion of 14 autocephalous (that is, administratively completely independent) regional churches,[183] plus the Orthodox Church in America and then-recently the Orthodox Church of Ukraine. The Orthodox Church in America is recognised as autocephalous only by the Russian, Bulgarian, Georgian, Polish and Czech-Slovak churches. In December 2018, representatives of two former non-canonical but then-recent mildly recognised Ukraine Orthodox churches, along with two metropolitans of the canonical, but not autocephalous Ukraine Orthodox Church of the Moscow Patriarchate, proclaimed the formation of the unified Orthodox Church of Ukraine. On 5 January 2019 it received the tomos of autocephaly (decree which defines the conditions of a church's independence) from the Ecumenical Patriarchate and thus received the place in the diptych. Patrikana_e_Pejës.jpg in Kosovo, the seat of the Serbian Orthodox Church from the 14th century when its status was upgraded into a patriarchate]] Each church has defined geographical boundaries of its jurisdiction and is ruled by its council of bishops or synod presided by a senior bishop–its primate (or first hierarch). The primate may carry the honorary title of patriarch, metropolitan (in the Slavic tradition) or archbishop (in the Greek tradition).
+, Alexandria]] The Orthodox Church is a communion of 14 autocephalous (that is, administratively completely independent) regional churches,[183] plus the Orthodox Church in America and then-recently the Orthodox Church of Ukraine. The Orthodox Church in America is recognised as autocephalous only by the Russian, Bulgarian, Georgian, Polish and Czech-Slovak churches. In December 2018, representatives of two former non-canonical but then-recent mildly recognised Ukraine Orthodox churches, along with two metropolitans of the canonical, but not autocephalous Ukraine Orthodox Church of the Moscow Patriarchate, proclaimed the formation of the unified Orthodox Church of Ukraine. On 5 January 2019 it received the tomos of autocephaly (decree which defines the conditions of a church's independence) from the Ecumenical Patriarchate and thus received the place in the diptych. in Kosovo, the seat of the Serbian Orthodox Church from the 14th century when its status was upgraded into a patriarchate]] Each church has defined geographical boundaries of its jurisdiction and is ruled by its council of bishops or synod presided by a senior bishop–its primate (or first hierarch). The primate may carry the honorary title of patriarch, metropolitan (in the Slavic tradition) or archbishop (in the Greek tradition).
 
-Each regional church consists of constituent eparchies (or, dioceses) ruled by a bishop. Some churches have given an eparchy or group of eparchies varying degrees of autonomy (self-government). Such autonomous churches maintain varying levels of dependence on their mother church, usually defined in a tomos or other document of autonomy. People's_Salvation_Cathedral_-_Days_of_Consecration_16.jpg, seat of the Romanian patriarch, one of the tallest and largest Orthodox church in the world|348x348px]] Below is a list of the 14 autocephalous Orthodox churches forming the main body of Orthodox Christianity, all of which are titled equal to each other, but the Ecumenical Patriarchate is titled the _first among equals_. Based on the definitions, the list is in the order of precedence and alphabetical order where necessary, with some of their constituent autonomous churches and exarchates listed as well. The liturgical title of the primate is in italics.
+Each regional church consists of constituent eparchies (or, dioceses) ruled by a bishop. Some churches have given an eparchy or group of eparchies varying degrees of autonomy (self-government). Such autonomous churches maintain varying levels of dependence on their mother church, usually defined in a tomos or other document of autonomy. , seat of the Romanian patriarch, one of the tallest and largest Orthodox church in the world|348x348px]] Below is a list of the 14 autocephalous Orthodox churches forming the main body of Orthodox Christianity, all of which are titled equal to each other, but the Ecumenical Patriarchate is titled the _first among equals_. Based on the definitions, the list is in the order of precedence and alphabetical order where necessary, with some of their constituent autonomous churches and exarchates listed as well. The liturgical title of the primate is in italics.
 
 -   ECUMENICAL PATRIARCHATE OF CONSTANTINOPLE (_Archbishop of Constantinople-New Rome and First Among Equals Patriarch_)
     -   Greek Orthodox Archdiocese of Italy (_His Eminence Orthodox Archbishop of Italy and Malta_)
@@ -649,7 +645,7 @@ Within the main body of Eastern Orthodoxy there are unresolved internal issues a
 
 Traditionalist groups
 
-Crucession_Davidovo-Elizarovo_Guslitci_Moscow_reg_8504.jpg procession by Russian Orthodox Old-Rite Church]]
+procession by Russian Orthodox Old-Rite Church]]
 
 True Orthodox
 

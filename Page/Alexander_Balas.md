@@ -7,13 +7,13 @@ Biography
 
 Early life and reign
 
-AlexanderIBalasAndCleopatraThea.jpg He was a native of Smyrna of humble origin, but gave himself out to be the son of Antiochus IV Epiphanes and Laodice IV and heir to the Seleucid throne. Along with his sister Laodice VI, the youngster Alexander was "discovered" by Heracleides, a former minister of Antiochus IV and brother of Timarchus, an usurper in Media who had been executed by the reigning king Demetrius I Soter.[2]
+He was a native of Smyrna of humble origin, but gave himself out to be the son of Antiochus IV Epiphanes and Laodice IV and heir to the Seleucid throne. Along with his sister Laodice VI, the youngster Alexander was "discovered" by Heracleides, a former minister of Antiochus IV and brother of Timarchus, an usurper in Media who had been executed by the reigning king Demetrius I Soter.[2]
 
 Alexander's claims were recognized by the Roman Senate, Ptolemy Philometor of Egypt and others. He married Cleopatra Thea, a daughter of the Ptolemaic dynasty. At first unsuccessful, Alexander finally defeated Demetrius Soter in 150 BC. Being now master of the empire, he is said to have abandoned himself to a life of debauchery.[3] Whatever the truth behind this, the young king was forced to depend heavily on his Ptolemaic support and even struck portraits with the characteristic features of king Ptolemy I.
 
 Final battle and death
 
-AlexanderI.jpg, corresponding to 150–149 BC.]] Demetrius Soter's son Demetrius II profited by the opportunity to regain the throne. Ptolemy Philometor, who was Alexander's father-in-law, went over to his side, and Alexander was defeated in the Battle of Antioch (145 BC) in Syria,[4] sometimes known as the battle of the Oenoparus.
+, corresponding to 150–149 BC.]] Demetrius Soter's son Demetrius II profited by the opportunity to regain the throne. Ptolemy Philometor, who was Alexander's father-in-law, went over to his side, and Alexander was defeated in the Battle of Antioch (145 BC) in Syria,[4] sometimes known as the battle of the Oenoparus.
 
 He fled for refuge to a Nabataean prince, who murdered him and sent his head to Ptolemy Philometor, who had been mortally wounded in the engagement.[5]
 

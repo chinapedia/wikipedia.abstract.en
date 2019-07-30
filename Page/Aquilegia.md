@@ -25,7 +25,7 @@ Plants in the genus _Aquilegia_ are a major food source for _Bombus hortorum_, a
 
 Cultivation
 
-Aquilegia_columbine_magpie_cultivar_2.jpg 'Magpie']]
+'Magpie']]
 
 Columbine is a hardy perennial, which propagates by seed. It will grow to a height of 15 to 20 inches. It will grow in full sun; however, it prefers growing in partial shade and well drained soil, and is able to tolerate average soils and dry soil conditions. Columbine is rated at hardiness zone 3 in the United States so does not require mulching or protection in the winter.[9][10]
 
@@ -43,7 +43,7 @@ The British National Collection of _Aquilegia_s is held by Mrs Carrie Thomas at 
 
 Uses
 
-Doubled_flower_of_Aquilegia_x_hybrida_001.JPG _Aquilegia_ × _hybrida_]] The flowers of various species of columbine were consumed in moderation by Native Americans as a condiment with other fresh greens, and are reported to be very sweet, and safe if consumed in small quantities. The plant's seeds and roots are highly poisonous however, and contain cardiogenic toxins which cause both severe gastroenteritis and heart palpitations if consumed as food. Native Americans used very small amounts of _Aquilegia_ root as a treatment for ulcers. However, the medical use of this plant is better avoided due to its high toxicity; columbine poisonings may be fatal.[21]
+_Aquilegia_ × _hybrida_]] The flowers of various species of columbine were consumed in moderation by Native Americans as a condiment with other fresh greens, and are reported to be very sweet, and safe if consumed in small quantities. The plant's seeds and roots are highly poisonous however, and contain cardiogenic toxins which cause both severe gastroenteritis and heart palpitations if consumed as food. Native Americans used very small amounts of _Aquilegia_ root as a treatment for ulcers. However, the medical use of this plant is better avoided due to its high toxicity; columbine poisonings may be fatal.[21]
 
 An acute toxicity test in mice has demonstrated that ethanol extract mixed with isocytisoside, the main flavonoid compound from the leaves and stems of _Aquilegia vulgaris_, can be classified as non-toxic, since a dose of 3000 mg/kg did not cause mortality.
 
@@ -61,8 +61,6 @@ _Aquilegia_ petals show an enormous range of petal spur length diversity ranging
 
 
 Species
-
-Schwarzviolette_Akelei_(Aquilegia_atrata)_02.jpg Aquilegia_alpina1JUSA.jpg Aquilegia_flabellata1.jpg Aquilegia_fragrans_2.jpg Aquilegia_x_maruyamana1.jpg Aquilegia_pyrenaica1JUSA.jpg
 
 Columbine species include:[25]
 

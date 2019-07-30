@@ -28,7 +28,7 @@ As many as 545 titles have been ascribed to Defoe, ranging from satirical poems,
 
 Pamphleteering and prison
 
-Daniel_Defoe_by_James_Charles_Armytage.jpg, 1862 line engraving by James Charles Armytage after Eyre Crowe]]
+, 1862 line engraving by James Charles Armytage after Eyre Crowe]]
 
 Defoe's first notable publication was _An essay upon projects_, a series of proposals for social and economic improvement, published in 1697. From 1697 to 1698, he defended the right of King William III to a standing army during disarmament, after the Treaty of Ryswick (1697) had ended the Nine Years' War (1688–97). His most successful poem, _The True-Born Englishman_ (1701), defended the king against the perceived xenophobia of his enemies, satirising the English claim to racial purity. In 1701, Defoe presented the _Legion's Memorial_ to Robert Harley, then Speaker of the House of Commons – and his subsequent employer – while flanked by a guard of sixteen gentlemen of quality. It demanded the release of the Kentish petitioners, who had asked Parliament to support the king in an imminent war against France.
 
@@ -46,7 +46,7 @@ Not all of Defoe's pamphlet writing was political. One pamphlet was originally p
 
 Anglo-Scottish Union of 1707
 
-Defoe_1709_The_History_Of_The_Union_Of_Great_Britain.JPG In despair during his imprisonment for the seditious libel case, Defoe wrote to William Paterson, the London Scot and founder of the Bank of England and part instigator of the Darien scheme, who was in the confidence of Robert Harley, 1st Earl of Oxford and Earl Mortimer, leading minister and spymaster in the English Government. Harley accepted Defoe's services and released him in 1703. He immediately published _The Review_, which appeared weekly, then three times a week, written mostly by himself. This was the main mouthpiece of the English Government promoting the Act of Union 1707.[32]
+In despair during his imprisonment for the seditious libel case, Defoe wrote to William Paterson, the London Scot and founder of the Bank of England and part instigator of the Darien scheme, who was in the confidence of Robert Harley, 1st Earl of Oxford and Earl Mortimer, leading minister and spymaster in the English Government. Harley accepted Defoe's services and released him in 1703. He immediately published _The Review_, which appeared weekly, then three times a week, written mostly by himself. This was the main mouthpiece of the English Government promoting the Act of Union 1707.[32]
 
 In 1709, Defoe authored a rather lengthy book entitled _The History of the Union of Great Britain_, an Edinburgh publication printed by the Heirs of Anderson.[33] The book was not published anonymously and cites Defoe twice as being its author.[34][35] The book attempts to explain the facts leading up to the Act of Union 1707, dating all the way back to 6 December 1604 when King James I was presented with a proposal for unification.[36] This so-called "first draft" for unification took place 100 years before the signing of the 1707 accord, which respectively preceded the commencement of _Robinson Crusoe_ by another ten years.
 
@@ -62,7 +62,7 @@ He disposed of the main Union opponent, Andrew Fletcher of Saltoun, by ignoring 
 
 Defoe made no attempt to explain why the same Parliament of Scotland which was so vehement for its independence from 1703 to 1705 became so supine in 1706. He received very little reward from his paymasters and of course no recognition for his services by the government. He made use of his Scottish experience to write his _Tour thro' the whole Island of Great Britain_, published in 1726, where he admitted that the increase of trade and population in Scotland which he had predicted as a consequence of the Union was "not the case, but rather the contrary".
 
-Glasgow_Bridge_c.1758.JPG Defoe's description of Glasgow (Glaschu) as a "Dear Green Place" has often been misquoted as a Gaelic translation for the town's name. The Gaelic _Glas_ could mean grey or green, while _chu_ means dog or hollow. _Glaschu_ probably means "Green Hollow". The "Dear Green Place", like much of Scotland, was a hotbed of unrest against the Union. The local Tron minister urged his congregation "to up and anent for the City of God".
+Defoe's description of Glasgow (Glaschu) as a "Dear Green Place" has often been misquoted as a Gaelic translation for the town's name. The Gaelic _Glas_ could mean grey or green, while _chu_ means dog or hollow. _Glaschu_ probably means "Green Hollow". The "Dear Green Place", like much of Scotland, was a hotbed of unrest against the Union. The local Tron minister urged his congregation "to up and anent for the City of God".
 
 The "Dear Green Place" and "City of God" required government troops to put down the rioters tearing up copies of the Treaty at almost every mercat cross in Scotland. When Defoe visited in the mid-1720s, he claimed that the hostility towards his party was "because they were English and because of the Union, which they were almost universally exclaimed against".
 
@@ -70,7 +70,7 @@ Late writing
 
 The extent and particulars are widely contested concerning Defoe's writing in the period from the Tory fall in 1714 to the publication of _Robinson Crusoe_ in 1719. Defoe comments on the tendency to attribute tracts of uncertain authorship to him in his apologia _Appeal to Honour and Justice_ (1715), a defence of his part in Harley's Tory ministry (1710–14). Other works that anticipate his novelistic career include _The Family Instructor_ (1715), a conduct manual on religious duty; _Minutes of the Negotiations of Monsr. Mesnager_ (1717), in which he impersonates Nicolas Mesnager, the French plenipotentiary who negotiated the Treaty of Utrecht (1713); and _A Continuation of the Letters Writ by a Turkish Spy_ (1718), a satire of European politics and religion, ostensibly written by a Muslim in Paris.
 
-Daniel_Defoe_monument_Bunhill_Fields.jpg, City Road, Borough of Islington, London]]
+, City Road, Borough of Islington, London]]
 
 From 1719 to 1724, Defoe published the novels for which he is famous (see below). In the final decade of his life, he also wrote conduct manuals, including _Religious Courtship_ (1722), _The Complete English Tradesman_ (1726) and _The New Family Instructor_ (1727). He published a number of books decrying the breakdown of the social order, such as _The Great Law of Subordination Considered_ (1724) and _Everybody's Business is Nobody's Business_ (1725) and works on the supernatural, like _The Political History of the Devil_ (1726), _A System of Magick_ (1727) and _An Essay on the History and Reality of Apparitions_ (1727). His works on foreign travel and trade include _A General History of Discoveries and Improvements_ (1727) and _Atlas Maritimus and Commercialis_ (1728). Perhaps his greatest achievement with the novels is the magisterial _A tour thro' the whole island of Great Britain_ (1724–27), which provided a panoramic survey of British trade on the eve of the Industrial Revolution.
 
@@ -86,7 +86,7 @@ _Robinson Crusoe_
 
 Published in his late fifties,[43] this novel relates the story of a man's shipwreck on a desert island for twenty-eight years and his subsequent adventures. Throughout its episodic narrative, Crusoe's struggles with faith are apparent as he bargains with God in times of life-threatening crises, but time and again he turns his back after his deliverances. He is finally content with his lot in life, separated from society, following a more genuine conversion experience. Usually read as fiction, a coincidence of background geography suggests that this may be non-fiction. In the opening pages of _The Farther Adventures of Robinson Crusoe_, the author describes how Crusoe settled in Bedford, married and produced a family, and that when his wife died, he went off on these further adventures. Bedford is also the place where the brother of "H. F." in _A Journal of the Plague Year_ retired to avoid the danger of the plague, so that by implication, if these works were not fiction, Defoe's family met Crusoe in Bedford, from whence the information in these books was gathered. Defoe went to school in Stoke Newington, London, with a friend named Caruso.
 
-The novel has been assumed to be based in part on the story of the Scottish castaway Alexander Selkirk, who spent four years stranded in the Juan Fernández Islands,[44] but this experience is inconsistent with the details of the narrative. The island Selkirk lived on was named Más a Tierra (Closer to Land) at the time and was renamed Robinson Crusoe Island in 1966. It has been supposed that Defoe may have also been inspired by the Latin or English translation of a book by the Andalusian-Arab Muslim polymath Ibn Tufail, who was known as "Abubacer" in Europe. The Latin edition of the book was entitled _Philosophus Autodidactus_ and it was an earlier novel that is also set on a deserted island.[45][46][47][48] Daniel_Defoe_former_house_England.jpg
+The novel has been assumed to be based in part on the story of the Scottish castaway Alexander Selkirk, who spent four years stranded in the Juan Fernández Islands,[44] but this experience is inconsistent with the details of the narrative. The island Selkirk lived on was named Más a Tierra (Closer to Land) at the time and was renamed Robinson Crusoe Island in 1966. It has been supposed that Defoe may have also been inspired by the Latin or English translation of a book by the Andalusian-Arab Muslim polymath Ibn Tufail, who was known as "Abubacer" in Europe. The Latin edition of the book was entitled _Philosophus Autodidactus_ and it was an earlier novel that is also set on a deserted island.[45][46][47][48]
 
 _Captain Singleton_
 
@@ -119,7 +119,7 @@ _Moll Flanders_ and Defoe's final novel, _ROXANA: THE FORTUNATE MISTRESS_ (1724)
 
 Death
 
-Bunhill_Fields,_London_13.JPG Daniel Defoe died on 24 April 1731, probably while in hiding from his creditors. He often was in debtors' prison.[51] The cause of his death was labelled as lethargy, but he probably experienced a stroke.[52] He was interred in Bunhill Fields (today Bunhill Fields Burial and Gardens), Borough of Islington, London, where a monument was erected to his memory in 1870.[53]
+Daniel Defoe died on 24 April 1731, probably while in hiding from his creditors. He often was in debtors' prison.[51] The cause of his death was labelled as lethargy, but he probably experienced a stroke.[52] He was interred in Bunhill Fields (today Bunhill Fields Burial and Gardens), Borough of Islington, London, where a monument was erected to his memory in 1870.[53]
 
 Defoe is known to have used at least 198 pen names.[54]
 

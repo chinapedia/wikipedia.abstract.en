@@ -28,8 +28,8 @@ The "Days of April" (_journées d'avril_) is a name appropriated in French histo
 
 April symbols
 
--   Irish_diamond.JPG crystals]]Diamond.jpgApril's birthstone is the diamond.
--   Daisy_ntgr.JPG flower]]Sweet_Pea_(27711557850).jpg]]The birth flower is typically listed as either the Daisy _(Bellis perennis)_ or the Sweet Pea.[8][9]
+-   crystals]]April's birthstone is the diamond.
+-   flower]]]]The birth flower is typically listed as either the Daisy _(Bellis perennis)_ or the Sweet Pea.[8][9]
 -   The zodiac signs for the month of April are Aries (until April 19) and Taurus (April 20 onwards).
 
 
@@ -39,7 +39,7 @@ _This list does not necessarily imply either official status nor general observa
 
 Month-long observances
 
-Hong_Kong_Budha.jpg is celebrated in April (here is pictured the Tian Tan Buddha in Hong Kong)]]
+is celebrated in April (here is pictured the Tian Tan Buddha in Hong Kong)]]
 
 -   In Catholic and Orthodox tradition, April is the Month of the Resurrection of the Lord.
 -   National Pet Month (United Kingdom)

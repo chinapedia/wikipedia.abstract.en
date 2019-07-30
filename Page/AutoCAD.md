@@ -91,7 +91,7 @@ Ports
 
 Windows
 
-Detail_Autocad.jpg AutoCAD is a software package created for Windows and usually, any new AutoCAD version supports the current Windows version and some older ones. AutoCAD 2016 to 2020 support Windows 7 up to Windows 10.[27]
+AutoCAD is a software package created for Windows and usually, any new AutoCAD version supports the current Windows version and some older ones. AutoCAD 2016 to 2020 support Windows 7 up to Windows 10.[27]
 
 Mac
 

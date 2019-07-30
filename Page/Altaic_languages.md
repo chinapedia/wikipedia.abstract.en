@@ -22,8 +22,6 @@ The most important text for the study of early Korean is the Hyangga, a collecti
 
 History of the Altaic family concept
 
-2006-07_altaj_belucha.jpg
-
 Origins
 
 A proposed grouping of the Turkic, Mongolic, and Tungusic languages was published in 1730 by Philip Johan von Strahlenberg, a Swedish officer who traveled in the eastern Russian Empire while a prisoner of war after the Great Northern War.[15] However, he may not have intended to imply a closer relationship among those languages.[16]

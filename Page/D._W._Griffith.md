@@ -7,8 +7,6 @@ Together with Charlie Chaplin, Mary Pickford, and Douglas Fairbanks, he founded 
 
 Early life
 
-GriffithDW.jpg
-
 Griffith was born on a farm in Oldham County, Kentucky, the son of Jacob Wark "Roaring Jake" Griffith[1] a Confederate Army colonel in the American Civil War who was elected as a Kentucky state legislator and Mary Perkins (_née_ Oglesby). Griffith was raised a Methodist,[2] and he attended a one-room schoolhouse where he was taught by his older sister Mattie. His father died when he was ten, and the family struggled with poverty.
 
 When Griffith was 14, his mother abandoned the farm and moved the family to Louisville, Kentucky, where she opened a boarding house. It failed shortly after. Griffith then left high school to help support the family, taking a job in a dry goods store and later in a bookstore. He began his creative career as an actor in touring companies. Meanwhile, he was learning how to become a playwright, but had little success—only one of his plays was accepted for a performance.[3] He traveled to New York City in 1907 in an attempt to sell a script to Edison Studios producer Edwin Porter;[4] Porter rejected the script but gave him an acting part in _Rescued from an Eagle's Nest_ instead.[5] He then decided to become an actor and appeared in many films as an extra.[6]
@@ -16,29 +14,25 @@ When Griffith was 14, his mother abandoned the farm and moved the family to Loui
 
 Film career
 
-Walthall_with_DW_Griiffith2.jpg and others]]
+and others]]
 
 In 1908, Griffith accepted a role as a stage extra in _Professional Jealousy_ for the American Mutoscope and Biograph Company, where he met cameraman Billy Bitzer, and his career in the film industry changed forever.[7] In 1908, Biograph's main director Wallace McCutcheon, Sr. grew ill, and his son Wallace McCutcheon, Jr. took his place.[8] McCutcheon, Jr. did not bring the studio success;[9] Biograph co-founder Harry Marvin gave Griffith the position,[10] and he made the short _The Adventures of Dollie_. He directed a total of 48 shorts for the company that year.
 
 His short _In Old California_ (1910) was the first film shot in Hollywood, California. Four years later, he produced and directed his first feature film _Judith of Bethulia_ (1914), one of the earliest to be produced in the US. Biograph believed that longer features were not viable at that point. According to Lillian Gish, the company thought that "a movie that long would hurt [the audience's] eyes".[11]
 
-Intolerance_production_1916.jpg (behind Pathé camera), Dorothy Gish watching from behind Bitzer, Karl Brown keeping script, and Miriam Cooper in profile, in a production still for _Intolerance_ (1916).]]
+(behind Pathé camera), Dorothy Gish watching from behind Bitzer, Karl Brown keeping script, and Miriam Cooper in profile, in a production still for _Intolerance_ (1916).]]
 
 Griffith left Biograph because of company resistance to his goals and his cost overruns on the film. He took his company of actors with him and joined the Mutual Film Corporation. There, he co-produced The Life of General Villa, a biographical action–drama film starring Pancho Villa as himself, shot on location in México during a civil war. He formed a studio with Majestic Studio manager Harry Aitken[12] which became known as Reliance-Majestic Studios and was later renamed Fine Arts Studio.[13] His new production company became an autonomous production unit partner in Triangle Film Corporation along with Thomas H. Ince and Keystone Studios' Mack Sennett. The Triangle Film Corporation was headed by Aitken, who was released from the Mutual Film Corporation,[14] and his brother Roy.
 
-Birth_of_a_Nation_(1915).webm'' (1915), perhaps the most famous silent movie directed by Griffith and considered a landmark by film historians; adapted for the screen by Griffith and Frank E. Woods, based on the novel and play _The Clansman: A Historical Romance of the Ku Klux Klan_ by Thomas Dixon, Jr.]]
+'' (1915), perhaps the most famous silent movie directed by Griffith and considered a landmark by film historians; adapted for the screen by Griffith and Frank E. Woods, based on the novel and play _The Clansman: A Historical Romance of the Ku Klux Klan_ by Thomas Dixon, Jr.]]
 
 Griffith directed and produced _The Clansman_ through Reliance-Majestic Studios in 1915, which became known as _The Birth of a Nation_ and is considered one of the first feature length American films.[15] The film was a success, but it aroused much controversy due to its depiction of slavery, the Ku Klux Klan, and race relations in the American Civil War and the reconstruction era of the United States. It was based on Thomas Dixon, Jr.'s 1905 novel _The Clansman_; it depicts Southern slavery as benign, the enfranchisement of freedmen as a corrupt plot by the Republican party, and the Ku Klux Klan as a band of heroes restoring the rightful order. This view of the era was popular at the time and was endorsed for decades by historians of the Dunning School, although it met with strong criticism from the National Association for the Advancement of Colored People (NAACP) and other groups.[16][17]
 
 The NAACP attempted to stop showings of the film. They were successful in some cities, but it was shown widely and became the most successful box office attraction of its time. It is considered among the first "blockbuster" motion pictures and broke all box office records that had been established until then. "They lost track of the money it made", Lillian Gish remarked in a Kevin Brownlow interview.
 
-Fairbanks_-_Pickford_-_Chaplin_-_Griffith.jpg
-
-Intolerance_(1916).ogv'' (1916), the second most famous silent movie directed by Griffith who co-wrote the screenplay with Frank E. Woods, Hettie Grey Baker, Tod Browning, Anita Loos, and Mary H. O'Connor.]]
+'' (1916), the second most famous silent movie directed by Griffith who co-wrote the screenplay with Frank E. Woods, Hettie Grey Baker, Tod Browning, Anita Loos, and Mary H. O'Connor.]]
 
 Audiences in some major northern cities rioted over the film's racial content, which was filled with action and violence.[18] Griffith's indignation at efforts to censor or ban the film motivated him to produce _Intolerance_ the following year, in which he portrayed the effects of intolerance in four different historical periods: the Fall of Babylon; the Crucifixion of Jesus; the events surrounding the St. Bartholomew's Day massacre (during religious persecution of French Huguenots); and a modern story. _Intolerance_ was not a financial success, although it had good box office turn-outs; it did not bring in enough profits to cover the lavish road show that accompanied it.[19] Griffith put a huge budget into the film's production which could not be recovered in its box office.[20] He mostly financed _Intolerance_ himself, contributing to his financial ruin for the rest of his life.[21]
-
-Griffith_intolerance.jpg
 
 Griffith's production partnership was dissolved in 1917 and he went to Artcraft, part of Paramount Pictures, and then to First National Pictures (1919–1920). At the same time, he founded United Artists together with Charlie Chaplin, Mary Pickford, and Douglas Fairbanks; the studio was premised on allowing actors to control their own interests, rather than being dependent upon commercial studios.[22][23]
 
@@ -49,7 +43,7 @@ Later film career
 
 Though United Artists survived as a company, Griffith's association with it was short-lived. While some of his later films did well at the box office, commercial success often eluded him. Griffith features from this period include _Broken Blossoms_ (1919), _Way Down East_ (1920), _Orphans of the Storm_ (1921), _Dream Street_ (1921), _One Exciting Night_ (1922) and _America_ (1924). Of these, the first three were successes at the box office.[25] Griffith was forced to leave United Artists after _Isn't Life Wonderful_ (1924) failed at the box office.
 
-United_Artists_contract_signature_1919.jpg founders, Griffith, Pickford, Chaplin, and Fairbanks sign their contract for the cameras (1919).]]
+founders, Griffith, Pickford, Chaplin, and Fairbanks sign their contract for the cameras (1919).]]
 
 He made a part-talkie, _Lady of the Pavements_ (1929), and only two full-sound films, _Abraham Lincoln_ (1930) and _The Struggle_ (1931). Neither was successful, and after _The Struggle_ he never made another film.
 
@@ -69,11 +63,11 @@ On the morning of July 23, 1948, Griffith was discovered unconscious in the lobb
 
 Legacy
 
-Stamp_US_1975_10c_Griffith.jpg commemorating D. W. Griffith]]
+commemorating D. W. Griffith]]
 
 Performer and director Charlie Chaplin called Griffith "The Teacher of us All". Filmmakers such as Alfred Hitchcock,[33] Lev Kuleshov,[34] Jean Renoir,[35] Cecil B. DeMille,[36] King Vidor,[37] Victor Fleming,[38] Raoul Walsh,[39] Carl Theodor Dreyer,[40] Sergei Eisenstein,[41] and Stanley Kubrick have praised Griffith.[42]
 
-DW_Griffith_star_HWF.JPG at 6535 Hollywood Blvd.]]
+at 6535 Hollywood Blvd.]]
 
 Griffith seems to have been the first to understand how certain film techniques could be used to create an expressive language; it gained popular recognition with the release of his _The Birth of a Nation_ (1915). His early shorts—such as Biograph's _The Musketeers of Pig Alley_ (1912), the first "gangster film"—show that Griffith's attention to camera placement and lighting heightened mood and tension. In making _Intolerance_, the director opened up new possibilities for the medium, creating a form that seems to owe more to music than to traditional narrative.[43][44]
 

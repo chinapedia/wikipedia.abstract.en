@@ -7,8 +7,6 @@ The term "relative bradycardia" is used to refer to a heart rate that, although 
 
 Classification
 
-Blausen_0099_bradycardia.png
-
 Sinus
 
 Atrial bradycardias are divided into three types. The first, respiratory sinus arrhythmia, is usually found in young and healthy adults. Heart rate increases during inhalation and decreases during exhalation. This is thought to be caused by changes in the vagal tone during respiration.[3] If the decrease during exhalation drops the heart rate below 60 bpm on each breath, this type of bradycardia is usually deemed benign and a sign of good autonomic tone.

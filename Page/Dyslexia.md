@@ -40,7 +40,7 @@ Dyslexia is often accompanied by several learning disabilities, but it is unclea
 
 Causes
 
-Inferior_parietal_lobule_-_superior_view_animation.gif Researchers have been trying to find the neurobiological basis of dyslexia since the condition was first identified in 1881.[67][68] For example, some have tried to associate the common problem among dyslexics of not being able to see letters clearly to abnormal development of their visual nerve cells.[69]
+Researchers have been trying to find the neurobiological basis of dyslexia since the condition was first identified in 1881.[67][68] For example, some have tried to associate the common problem among dyslexics of not being able to see letters clearly to abnormal development of their visual nerve cells.[69]
 
 Neuroanatomy
 
@@ -78,7 +78,7 @@ In surface dyslexia, words with regular pronunciations (highly consistent with t
 
 Phonological dyslexia
 
-Broca's_area_-_lateral_view.png In phonological dyslexia, sufferers can read familiar words but have difficulty with unfamiliar words, such as invented pseudo-words.[111] Phonological dyslexia is associated with lesions in the parts of the brain supplied with blood by the middle cerebral artery. The superior temporal lobe is often also involved. Furthermore, dyslexics compensate by overusing a front-brain region called Broca's area, which is associated with aspects of language and speech.[112] The Lindamood Phoneme Sequencing Program (LiPS) is used to treat phonological dyslexia.[113] This system is based on a three-way sensory feedback process, using auditory, visual, and oral skills to learn to recognize words and word patterns. Case studies with a total of three patients found a significant improvement in spelling and reading ability after using LiPS.[114]
+In phonological dyslexia, sufferers can read familiar words but have difficulty with unfamiliar words, such as invented pseudo-words.[111] Phonological dyslexia is associated with lesions in the parts of the brain supplied with blood by the middle cerebral artery. The superior temporal lobe is often also involved. Furthermore, dyslexics compensate by overusing a front-brain region called Broca's area, which is associated with aspects of language and speech.[112] The Lindamood Phoneme Sequencing Program (LiPS) is used to treat phonological dyslexia.[113] This system is based on a three-way sensory feedback process, using auditory, visual, and oral skills to learn to recognize words and word patterns. Case studies with a total of three patients found a significant improvement in spelling and reading ability after using LiPS.[114]
 
 Deep dyslexia
 

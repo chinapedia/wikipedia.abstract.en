@@ -1,4 +1,4 @@
-Standard_Model_of_Elementary_Particles.svg]]
+]]
 
 In particle physics, an ELEMENTARY PARTICLE or FUNDAMENTAL PARTICLE is a -->subatomic particle with no sub structure, thus not composed of other particles.[1] Particles currently thought to be elementary include the fundamental fermions (quarks, leptons, antiquarks, and antileptons), which generally are "matter particles" and "antimatter particles", as well as the fundamental bosons (gauge bosons and the Higgs boson), which generally are "force particles" that mediate interactions among fermions.[2] A particle containing two or more elementary particles is a _composite particle_.
 

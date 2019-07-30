@@ -58,7 +58,7 @@ However, there are also positive remarks from the Church Fathers on the issue, s
 
 Middle Ages
 
-1182_french_expulsion_of_jews.jpg depicting the expulsion of Jews from France in 1182.]] Bernard of Clairvaux (1090-1153), a Doctor of the Catholic Church, said "For us the Jews are Scripture's living words, because they remind us of what Our Lord suffered. They are not to be persecuted, killed, or even put to flight."[46]
+depicting the expulsion of Jews from France in 1182.]] Bernard of Clairvaux (1090-1153), a Doctor of the Catholic Church, said "For us the Jews are Scripture's living words, because they remind us of what Our Lord suffered. They are not to be persecuted, killed, or even put to flight."[46]
 
 Jews were subject to a wide range of legal disabilities and restrictions in Medieval Europe. Jews were excluded from many trades, the occupations varying with place and time, and determined by the influence of various non-Jewish competing interests. Often Jews were barred from all occupations but money-lending and peddling, with even these at times forbidden. Jews' association to money lending would carry on throughout history in the stereotype of Jews being greedy and perpetuating capitalism.
 
@@ -74,7 +74,7 @@ The bull forbade, besides other things, Christians from coercing Jews to convert
 
 Popular antisemitism
 
-Burning_Jews.jpg in Deggendorf, Bavaria, in 1337]] Antisemitism in popular European Christian culture escalated beginning in the 13th century. Blood libels and host desecration drew popular attention and led to many cases of persecution against Jews. Many believed Jews poisoned wells to cause plagues. In the case of blood libel it was widely believed that the Jews would kill a child before Easter and needed Christian blood to bake matzo.Throughout history if a Christian child was murdered accusations of blood libel would arise no matter how small the Jewish population. The Church often added to the fire by portraying the dead child as a martyr who had been tortured and child had powers like Jesus was believed to. Sometimes the children were even made into Saints.[49] Antisemitic imagery such as Judensau and Ecclesia et Synagoga recurred in Christian art and architecture.
+in Deggendorf, Bavaria, in 1337]] Antisemitism in popular European Christian culture escalated beginning in the 13th century. Blood libels and host desecration drew popular attention and led to many cases of persecution against Jews. Many believed Jews poisoned wells to cause plagues. In the case of blood libel it was widely believed that the Jews would kill a child before Easter and needed Christian blood to bake matzo.Throughout history if a Christian child was murdered accusations of blood libel would arise no matter how small the Jewish population. The Church often added to the fire by portraying the dead child as a martyr who had been tortured and child had powers like Jesus was believed to. Sometimes the children were even made into Saints.[49] Antisemitic imagery such as Judensau and Ecclesia et Synagoga recurred in Christian art and architecture.
 
 In Iceland, one of the hymns repeated in the days leading up to Easter includes the lines,[50]
 
@@ -89,7 +89,7 @@ In Iceland, one of the hymns repeated in the days leading up to Easter includes 
 
 Persecutions and expulsions
 
-Massaker_von_Lissabon.jpg in 1506]] During the Middle Ages in Europe persecutions and formal expulsions of Jews were liable to occur at intervals, although it should be said that this was also the case for other minority communities, regardless of whether they were religious or ethnic. There were particular outbursts of riotous persecution during the Rhineland massacres of 1096 in Germany accompanying the lead-up to the First Crusade, many involving the crusaders as they travelled to the East. There were many local expulsions from cities by local rulers and city councils. In Germany the Holy Roman Emperor generally tried to restrain persecution, if only for economic reasons, but he was often unable to exert much influence. In the Edict of Expulsion, King Edward I expelled all the Jews from England in 1290 (only after ransoming some 3,000 among the most wealthy of them), on the accusation of usury and undermining loyalty to the dynasty. In 1306 there was a wave of persecution in France, and there were widespread Black Death Jewish persecutions as the Jews were blamed by many Christians for the plague, or spreading it.[51][52] As late as 1519, the Imperial city of Regensburg took advantage of the recent death of Emperor Maximilian I to expel its 500 Jews.[53]
+in 1506]] During the Middle Ages in Europe persecutions and formal expulsions of Jews were liable to occur at intervals, although it should be said that this was also the case for other minority communities, regardless of whether they were religious or ethnic. There were particular outbursts of riotous persecution during the Rhineland massacres of 1096 in Germany accompanying the lead-up to the First Crusade, many involving the crusaders as they travelled to the East. There were many local expulsions from cities by local rulers and city councils. In Germany the Holy Roman Emperor generally tried to restrain persecution, if only for economic reasons, but he was often unable to exert much influence. In the Edict of Expulsion, King Edward I expelled all the Jews from England in 1290 (only after ransoming some 3,000 among the most wealthy of them), on the accusation of usury and undermining loyalty to the dynasty. In 1306 there was a wave of persecution in France, and there were widespread Black Death Jewish persecutions as the Jews were blamed by many Christians for the plague, or spreading it.[51][52] As late as 1519, the Imperial city of Regensburg took advantage of the recent death of Emperor Maximilian I to expel its 500 Jews.[53]
 
 Expulsion of Jews from Spain
 
@@ -108,7 +108,7 @@ Paul IV's successor, Pope Pius IV, enforced the creation of other ghettos in mos
 
 Protestant Reformation
 
-1543_On_the_Jews_and_Their_Lies_by_Martin_Luther.jpg'']]
+'']]
 
 Martin Luther at first made overtures towards the Jews, believing that the "evils" of Catholicism had prevented their conversion to Christianity. When his call to convert to his version of Christianity was unsuccessful, he became hostile to them.[54]
 
@@ -198,7 +198,7 @@ Prominent members of the Jewish community have contradicted the criticisms of Pi
 
 "White Power" movement
 
-proper_hands.jpg from _Heroes of the Fiery Cross_ (1928), by Bishop Alma White and published by the Pillar of Fire Church in Zarephath, New Jersey.]]
+from _Heroes of the Fiery Cross_ (1928), by Bishop Alma White and published by the Pillar of Fire Church in Zarephath, New Jersey.]]
 
 The Christian Identity movement, the Ku Klux Klan and other White supremacist groups have expressed antisemitic views. They claim that their antisemitism is based on purported Jewish control of the media, international banks, radical left-wing politics, and the Jews' promotion of multiculturalism, anti-Christian groups, liberalism and perverse organizations. They rebuke charges of racism by claiming that Jews who share their ideology maintain membership in their organizations. A racial belief which is common among these groups, but not universal among them, is an alternative history doctrine, which is sometimes called British Israelism. In some of its forms, this doctrine absolutely denies the view that modern Jews have any racial connection to the Israel of the Bible. Instead, according to extreme forms of this doctrine, the true racial Israelites and the true humans are the members of the Adamic (white) race. These groups are often rejected and not even considered Christian groups by mainstream Christian denominations and the vast majority of Christians around the world.[96][97]
 

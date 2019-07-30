@@ -73,7 +73,7 @@ Pharmacology
 
 Mechanism of action
 
-Ampicillin_with_amine_highlighted.svg.]] Ampicillin is in the penicillin group of beta-lactam antibiotics and is part of the aminopenicillin family. It is roughly equivalent to amoxicillin in terms of activity.[67] Ampicillin is able to penetrate Gram-positive and some Gram-negative bacteria. It differs from penicillin G, or benzylpenicillin, only by the presence of an amino group. This amino group, present on both ampicillin and amoxicillin, helps these antibiotics pass through the pores of the outer membrane of Gram-negative bacteria, such as _E. coli_, _Proteus mirabilis_, _Salmonella enterica_, and _Shigella_.[68][69]
+.]] Ampicillin is in the penicillin group of beta-lactam antibiotics and is part of the aminopenicillin family. It is roughly equivalent to amoxicillin in terms of activity.[67] Ampicillin is able to penetrate Gram-positive and some Gram-negative bacteria. It differs from penicillin G, or benzylpenicillin, only by the presence of an amino group. This amino group, present on both ampicillin and amoxicillin, helps these antibiotics pass through the pores of the outer membrane of Gram-negative bacteria, such as _E. coli_, _Proteus mirabilis_, _Salmonella enterica_, and _Shigella_.[68][69]
 
 Ampicillin acts as an irreversible inhibitor of the enzyme transpeptidase, which is needed by bacteria to make the cell wall.[70] It inhibits the third and final stage of bacterial cell wall synthesis in binary fission, which ultimately leads to cell lysis; therefore, ampicillin is usually bacteriolytic.[71][72]
 

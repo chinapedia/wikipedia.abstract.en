@@ -1,4 +1,4 @@
-Fs-dagger.jpg, a modern-day dagger]]
+, a modern-day dagger]]
 
 A DAGGER is a knife with a very sharp point and usually two sharp edges, typically designed or capable of being used as a thrusting or stabbing weapon.[1][2] Daggers have been used throughout human history for close combat confrontations,[3] and many cultures have used adorned daggers in ritual and ceremonial contexts. The distinctive shape and historic usage of the dagger have made it iconic and symbolic. A dagger in the modern sense is a weapon designed for close-proximity combat or self-defense; due to its use in historic weapon assemblages, it has associations with assassination and murders. Double-edged knives, however, play different sorts of roles in different social contexts. In some cultures, they are neither a weapon nor a tool, but a potent symbol of manhood; in others they are ritual objects used in body modifications such as circumcision.[4]
 
@@ -11,7 +11,7 @@ History
 
 Early history
 
-Poignard_0.188.1_2_fond.jpg dagger from the Muséum de Toulouse.]] Puñal_íbero_de_frontón_(M.A.N.)_01.jpg Bronze_age,_Kurdistan,_Sine.jpg, museum of Sanandaj]] Puñal_ibero_de_Almedinilla_-_M.A.N.jpg The earliest daggers were made of materials such as flint, ivory or bone in Neolithic times.
+dagger from the Muséum de Toulouse.]] , museum of Sanandaj]] The earliest daggers were made of materials such as flint, ivory or bone in Neolithic times.
 
 Copper daggers appeared first in the early Bronze Age, in the 3rd millennium BC,[14] and copper daggers of Early Minoan III (2400–2000 BC) were recovered at Knossos.[15]
 
@@ -31,9 +31,9 @@ Middle Ages
 
 The term _dagger_ appears only in the Late Middle Ages, reflecting the fact that while the dagger had been known in antiquity, it had disappeared during the Early Middle Ages, replaced by the hewing knife or seax.[30][31]
 
-De_Fechtbuch_Talhoffer_169.jpg (1467)]] The dagger reappeared in the 12th century as the "knightly dagger", or more properly cross-hilt or quillon dagger,[32] and was developed into a common arm and tool for civilian use by the late medieval period.[33]
+(1467)]] The dagger reappeared in the 12th century as the "knightly dagger", or more properly cross-hilt or quillon dagger,[32] and was developed into a common arm and tool for civilian use by the late medieval period.[33]
 
-ReproMedievalDaggers.JPG The earliest known depiction of a cross-hilt dagger is the so-called "Guido relief" inside the Grossmünster of Zürich (c. 1120).[34] A number of depictions of the fully developed cross-hilt dagger are found in the Morgan Bible (c. 1240). Many of these cross-hilt daggers resemble miniature swords, with cross guards and pommels very similar in form to swords of the period.[35] Others, however, are not an exact match to known sword designs, having for example pommel caps, large hollow star shaped pommels on so-called “Burgundian Heraldic daggers” or antenna style cross and pommel, reminiscent of Hallstatt era daggers.[36] The cross-hilt type persisted well into the Renaissance [37]
+The earliest known depiction of a cross-hilt dagger is the so-called "Guido relief" inside the Grossmünster of Zürich (c. 1120).[34] A number of depictions of the fully developed cross-hilt dagger are found in the Morgan Bible (c. 1240). Many of these cross-hilt daggers resemble miniature swords, with cross guards and pommels very similar in form to swords of the period.[35] Others, however, are not an exact match to known sword designs, having for example pommel caps, large hollow star shaped pommels on so-called “Burgundian Heraldic daggers” or antenna style cross and pommel, reminiscent of Hallstatt era daggers.[36] The cross-hilt type persisted well into the Renaissance [37]
 
 The Old French term _dague_ appears to have referred to these weapons in the 13th century, alongside other terms such as _poignal_ and _basilard_. The Middle English _dagger_ is used from the 1380s.
 
@@ -45,15 +45,13 @@ These techniques in some respects resemble modern knife fighting, but emphasized
 
 Renaissance and Early Modern era
 
-Dagger_horse_head_Louvre_OA7892_full.jpg dagger, Louvre.]] Dagger_with_Zoomorphic_Hilt_MET_DP253146.jpg]
+dagger, Louvre.]] ]
 
 The dagger was very popular as a fencing and personal defense weapon in 17th- and 18th-century Spain, where it was referred to as the _daga_ or _puñal_.[41] During the Renaissance Age the dagger was used as part of everyday dress, and daggers were the only weapon commoners were allowed to carry on their person.[42] In English, the terms _poniard_ and _dirk_ are loaned during the late 16th to early 17th century, the latter in the spelling _dork, durk_ (presumably via Low German, Dutch or Scandinavian _dolk, dolch_, ultimately from a West Slavic _tulich_), the modern spelling _dirk_ dating to 18th-century Scots.
 
 Beginning with the 17th century, another form of dagger—the plug bayonet and later the socket bayonet—was used to convert muskets and other longarms into spears by mounting them on the barrel. They were periodically used for eating; the arm was also used for a variety of other tasks such as mending boots, house repairs and farm jobs. The final function of the dagger was as an obvious and ostentatious means of enhancing a man's personal apparel, conforming to fashion which dictated that all men carried them.[43]
 
 Modern (1815 to 21st century)
-
-Ek_knives.JPG
 
 WW1 trench warfare caused daggers and fighting knives to come back in play. They also replaced the sabres worn by officers, which were too long and clumsy for trench warfare. They were worn with pride as a sign of having served front line duty.
 
@@ -65,8 +63,6 @@ Aside from military forces, most daggers are no longer carried openly, but conce
 
 
 Cultural symbolism
-
-U.S._Army_Special_Operations_Command_CSIB.svg
 
 The dagger is symbolically ambiguous. Daggers are commonly used as part of the insignias of elite military units or special forces, such as the US Army Airborne Special Operations unit or the Commando Dagger patch for those who have completed the British All Arms Commando Course. Daggers may be associated with deception, stealth, and/or treachery due to the ease of concealment and surprise that someone could inflict with one on an unsuspecting victim, and indeed many assassinations have been carried out with the use of a dagger, including that of Julius Caesar.[51] A cloak and dagger attack is one in which a deceitful, traitorous, or concealed enemy attacks a person.[52] On the other hand, for some cultures and military organizations the dagger symbolizes courage and daring in combat.[53]
 
@@ -82,7 +78,7 @@ To some degree, the dagger regained a little social prestige during the rapier a
 
 Art knives
 
-Art_Knives_by_Buster_Warenski.jpg dagger]] Daggers are a popular form of what is known as the "art knife", due in part to the symmetry of the blade.[56] One of the most famous examples is knifemaker Buster Warenski's replication of the gold dagger found in Tutankhamun's tomb. Warenski's dagger was made with a cast gold blade and the knife contained 32 ounces of pure gold in its construction.[57] One of the knives required of an American Bladesmith Society Mastersmith is the construction of an "art knife" or a "European style" dagger.[58][59] {{-}}
+dagger]] Daggers are a popular form of what is known as the "art knife", due in part to the symmetry of the blade.[56] One of the most famous examples is knifemaker Buster Warenski's replication of the gold dagger found in Tutankhamun's tomb. Warenski's dagger was made with a cast gold blade and the knife contained 32 ounces of pure gold in its construction.[57] One of the knives required of an American Bladesmith Society Mastersmith is the construction of an "art knife" or a "European style" dagger.[58][59] {{-}}
 
 
 See also

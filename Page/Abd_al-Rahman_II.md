@@ -3,7 +3,7 @@ ABD AR-RAHMAN II () (792–852) was the fourth Umayyad Emir of Córdoba in the A
 
 Biography
 
-Abderramán_II.jpg, Spain]] Abd ar-Rahman II was born in Toledo, the son of Emir Al-Hakam I. In his youth he took part in the so-called "massacre of the ditch", when from 700 to 5,000 people come to pay homage to the princes who were killed by order of Al-Hakam.
+, Spain]] Abd ar-Rahman II was born in Toledo, the son of Emir Al-Hakam I. In his youth he took part in the so-called "massacre of the ditch", when from 700 to 5,000 people come to pay homage to the princes who were killed by order of Al-Hakam.
 
 He succeeded his father as Emir of Córdoba in 822 and engaged in nearly continuous warfare against Alfonso II of Asturias, whose southward advance he halted (822–842). In 837, he suppressed a revolt of Christians and Jews in Toledo. He issued a decree by which the Christians were forbidden to seek martyrdom, and he had a Christian synod held to forbid martyrdom.
 

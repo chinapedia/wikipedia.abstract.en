@@ -11,7 +11,7 @@ Early life and career
 
 Childhood
 
-Andrew_Johnsons_First_Home_2006.jpg in Raleigh, North Carolina]]
+in Raleigh, North Carolina]]
 
 Andrew Johnson was born in Raleigh, North Carolina, on December 29, 1808, to Jacob Johnson (1778–1812) and Mary ("Polly") McDonough (1783–1856), a laundress. He was of English, Scots-Irish, and Irish ancestry.[2] He had a brother William, four years his senior, and an older sister Elizabeth, who died in childhood. Johnson's birth in a two-room shack was a political asset in the mid-19th century, and he would frequently remind voters of his humble origins. Jacob Johnson was a poor man, as had been his father, William Johnson, but he became town constable of Raleigh before marrying and starting a family. Both Jacob and Mary were illiterate, and had worked as tavern servants, while Johnson never attended school and grew up in poverty. Jacob died of an apparent heart attack while ringing the town bell, shortly after rescuing three drowning men, when his son Andrew was three. Polly Johnson worked as a washerwoman and became the sole support of her family. Her occupation was then looked down on, as it often took her into other homes unaccompanied. Since Andrew did not resemble either of his siblings, there are rumors that he may have been fathered by another man. Polly Johnson eventually remarried to a man named Turner Doughtry, who was as poor as she was.
 
@@ -34,7 +34,7 @@ Tennessee politician
 
 Johnson helped organize a mechanics' (working men's) ticket in the 1829 Greeneville municipal election. He was elected town alderman, along with his friends Blackston McDannel and Mordecai Lincoln. Following the 1831 Nat Turner slave rebellion, a state convention was called to pass a new constitution, including provisions to disenfranchise free people of color. The convention also wanted to reform real estate tax rates, and provide ways of funding improvements to Tennessee's infrastructure. The constitution was submitted for a public vote, and Johnson spoke widely for its adoption; the successful campaign provided him with statewide exposure. On January 4, 1834, his fellow aldermen elected him mayor of Greeneville.
 
-Mrs-E-Johnson.jpg In 1835, Johnson made a bid for election to the "floater" seat which Greene County shared with neighboring Washington County in the Tennessee House of Representatives. According to his biographer, Hans L. Trefousse, Johnson "demolished" the opposition in debate and won the election with almost a two to one margin. Soon after taking his seat, Johnson purchased his first slave, Dolly, aged 14. Dolly had three children over the years. Johnson had the reputation of treating his slaves kindly, and the fact that Dolly was dark-skinned, and her offspring much lighter, led to speculation both during and after his lifetime that he was the father. During his Greeneville days, Johnson joined the Tennessee Militia as a member of the 90th Regiment. He attained the rank of colonel, though while an enrolled member, Johnson was fined for an unknown offense. Afterwards, he was often addressed or referred to by his rank.
+In 1835, Johnson made a bid for election to the "floater" seat which Greene County shared with neighboring Washington County in the Tennessee House of Representatives. According to his biographer, Hans L. Trefousse, Johnson "demolished" the opposition in debate and won the election with almost a two to one margin. Soon after taking his seat, Johnson purchased his first slave, Dolly, aged 14. Dolly had three children over the years. Johnson had the reputation of treating his slaves kindly, and the fact that Dolly was dark-skinned, and her offspring much lighter, led to speculation both during and after his lifetime that he was the father. During his Greeneville days, Johnson joined the Tennessee Militia as a member of the 90th Regiment. He attained the rank of colonel, though while an enrolled member, Johnson was fined for an unknown offense. Afterwards, he was often addressed or referred to by his rank.
 
 In his first term in the legislature, which met in the state capital of Nashville, Johnson did not consistently vote with either the Democratic or the newly formed Whig Party, though he revered President Andrew Jackson, a Democrat and fellow Tennessean. The major parties were still determining their core values and policy proposals, with the party system in a state of flux. The Whig Party had organized in opposition to Jackson, fearing the concentration of power in the Executive Branch of the government; Johnson differed from the Whigs as he opposed more than minimal government spending and spoke against aid for the railroads, while his constituents hoped for improvements in transportation. After Brookins Campbell and the Whigs defeated Johnson for reelection in 1837, Johnson would not lose another race for thirty years. In 1839, he sought to regain his seat, initially as a Whig, but when another candidate sought the Whig nomination, he ran as a Democrat and was elected. From that time he supported the Democratic party and built a powerful political machine in Greene County. Johnson became a strong advocate of the Democratic Party, noted for his oratory, and in an era when public speaking both informed the public and entertained it, people flocked to hear him.
 
@@ -50,7 +50,7 @@ In the presidential election of 1848, the Democrats split over the slavery issue
 
 Johnson, due to national interest in new railroad construction and in response to the need for better transportation in his own district, also supported government assistance for the East Tennessee and Virginia Railroad.
 
-Andrew-johnson-house-tn1.jpg In his campaign for a fourth term, Johnson concentrated on three issues: slavery, homesteads and judicial elections. He defeated his opponent, Nathaniel G. Taylor, in August 1849, with a greater margin of victory than in previous campaigns. When the House convened in December, the party division caused by the Free Soil Party precluded the formation of the majority needed to elect a Speaker. Johnson proposed adoption of a rule allowing election of a Speaker by a plurality; some weeks later others took up a similar proposal, and Democrat Howell Cobb was elected.
+In his campaign for a fourth term, Johnson concentrated on three issues: slavery, homesteads and judicial elections. He defeated his opponent, Nathaniel G. Taylor, in August 1849, with a greater margin of victory than in previous campaigns. When the House convened in December, the party division caused by the Free Soil Party precluded the formation of the majority needed to elect a Speaker. Johnson proposed adoption of a rule allowing election of a Speaker by a plurality; some weeks later others took up a similar proposal, and Democrat Howell Cobb was elected.
 
 Once the Speaker election had concluded and Congress was ready to conduct legislative business, the issue of slavery took center stage. Northerners sought to admit California, a free state, to the Union. Kentucky's Henry Clay introduced in the Senate a series of resolutions, the Compromise of 1850, to admit California and pass legislation sought by each side. Johnson voted for all the provisions except for the abolition of slavery in the nation's capital. He pressed resolutions for constitutional amendments to provide for popular election of senators (then elected by state legislatures) and of the president (chosen by the Electoral College), and limiting the tenure of federal judges to 12 years. These were all defeated.
 
@@ -58,7 +58,7 @@ A group of Democrats nominated Landon Carter Haynes to oppose Johnson as he soug
 
 Governor of Tennessee (1853–1857)
 
-Andrew_Johnson_by_William_Brown_Cooper.png, Sitter: Andrew Johnson, Date: 1856]]
+, Sitter: Andrew Johnson, Date: 1856]]
 
 If Johnson considered retiring from politics upon deciding not to seek reelection, he soon changed his mind. His political friends began to maneuver to get him the nomination for governor. The Democratic convention unanimously named him, though some party members were not happy at his selection. The Whigs had won the past two gubernatorial elections, and still controlled the legislature. That party nominated Henry, making the "Henry-mandering" of the First District an immediate issue. The two men debated in county seats the length of Tennessee before the meetings were called off two weeks before the August 1853 election due to illness in Henry's family. Johnson won the election by 63,413 votes to 61,163; some votes for him were cast in return for his promise to support Whig Nathaniel Taylor for his old seat in Congress.
 
@@ -74,8 +74,6 @@ United States Senator
 
 Homestead Bill advocate
 
-Andrew_Johnson_by_Vannerson,_1859.jpg
-
 The victors in the 1857 state legislative campaign would, once they convened in October, elect a United States Senator. Former Whig governor William B. Campbell wrote to his uncle, "The great anxiety of the Whigs is to elect a majority in the legislature so as to defeat Andrew Johnson for senator. Should the Democrats have the majority, he will certainly be their choice, and there is no man living to whom the Americans and Whigs have as much antipathy as Johnson." The governor spoke widely in the campaign, and his party won the gubernatorial race and control of the legislature. Johnson's final address as governor gave him the chance to influence his electors, and he made proposals popular among Democrats. Two days later the legislature elected him to the Senate. The opposition was appalled, with the Richmond _Whig_ newspaper referring to him as "the vilest radical and most unscrupulous demagogue in the Union".
 
 Johnson gained high office due to his proven record as a man popular among the small farmers and self-employed tradesmen who made up much of Tennessee's electorate. He called them the "plebeians"; he was less popular among the planters and lawyers who led the state Democratic Party, but none could match him as a vote-getter. After his death, one Tennessee voter wrote of him, "Johnson was always the same to everyone ... the honors heaped upon him did not make him forget to be kind to the humblest citizen." Always seen in impeccably tailored clothing, he cut an impressive figure, and had the stamina to endure lengthy campaigns with daily travel over bad roads leading to another speech or debate. Mostly denied the party's machinery, he relied on a network of friends, advisers, and contacts. One friend, Hugh Douglas, stated in a letter to him, "you have been in the way of our would be great men for a long time. At heart many of us never wanted you to be Governor only none of the rest of us Could have been elected at the time and we only wanted to use you. Then we did not want you to go to the Senate but _the people would send you_."
@@ -85,8 +83,6 @@ The new senator took his seat when Congress convened in December 1857 (the term 
 He argued against funding to build infrastructure in Washington, D.C., stating that it was unfair to expect state citizens to pay for the city's streets, even if it was the seat of government. He opposed spending money for troops to put down the revolt by the Mormons in Utah Territory, arguing for temporary volunteers as the United States should not have a standing army.
 
 Secession crisis
-
-AndrewJohnson1860.png
 
 In October 1859, abolitionist John Brown and sympathizers raided the federal arsenal at Harpers Ferry, Virginia (today West Virginia). Tensions in Washington between pro- and anti-slavery forces increased greatly. Johnson gave a major speech in the Senate in December, decrying Northerners who would endanger the Union by seeking to outlaw slavery. The Tennessee senator stated that "all men are created equal" from the Declaration of Independence did not apply to African Americans, since the Constitution of Illinois contained that phrase—and that document barred voting by African Americans. Johnson, by this time, was a wealthy man who owned a few household slaves, 14 slaves, according to the 1860 Federal Census.[5]
 
@@ -109,15 +105,13 @@ When Lincoln issued the Emancipation Proclamation in January 1863, declaring fre
 
 Vice President (1865)
 
-Republican_presidential_ticket_1864b.jpg]]
+]]
 
 In 1860, Lincoln's running mate had been Maine Senator Hannibal Hamlin. Vice President Hamlin had served competently, was in good health, and was willing to run again. Nevertheless, Johnson emerged as running mate for Lincoln's reelection bid in 1864.
 
 Lincoln considered several War Democrats for the ticket in 1864, and sent an agent to sound out General Benjamin Butler as a possible running mate. In May 1864, the President dispatched General Daniel Sickles to Nashville on a fact-finding mission. Although Sickles denied he was there either to investigate or interview the military governor, Johnson biographer Hans L. Trefousse believes Sickles's trip was connected to Johnson's subsequent nomination for vice president. According to historian Albert Castel in his account of Johnson's presidency, Lincoln was impressed by Johnson's administration of Tennessee. Gordon-Reed points out that while the Lincoln-Hamlin ticket might have been considered geographically balanced in 1860, "having Johnson, the _southern_ War Democrat, on the ticket sent the right message about the folly of secession and the continuing capacity for union within the country." Another factor was the desire of Secretary of State William Seward to frustrate the vice-presidential candidacy of his fellow New Yorker, former senator Daniel S. Dickinson, a War Democrat, as Seward would probably have had to yield his place if another New Yorker became vice president. Johnson, once he was told by reporters the likely purpose of Sickles' visit, was active on his own behalf, giving speeches and having his political friends work behind the scenes to boost his candidacy.
 
 To sound a theme of unity, Lincoln in 1864 ran under the banner of the National Union Party, rather than the Republicans. At the party's convention in Baltimore in June, Lincoln was easily nominated, although there had been some talk of replacing him with a Cabinet officer or one of the more successful generals. After the convention backed Lincoln, former Secretary of War Simon Cameron offered a resolution to nominate Hamlin, but it was defeated. Johnson was nominated for vice president by C.M. Allen of Indiana with an Iowa delegate as seconder. On the first ballot, Johnson led with 200 votes to 150 for Hamlin and 108 for Dickinson. On the second ballot, Kentucky switched to vote for Johnson, beginning a stampede. Johnson was named on the second ballot with 491 votes to Hamlin's 17 and eight for Dickinson; the nomination was made unanimous. Lincoln expressed pleasure at the result, "Andy Johnson, I think, is a good man." When word reached Nashville, a crowd assembled and the military governor obliged with a speech contending his selection as a Southerner meant that the rebel states had not actually left the Union.
-
-Lincoln_and_Johnsond.jpg
 
 Although it was unusual at the time for a national candidate to actively campaign, Johnson gave a number of speeches in Tennessee, Kentucky, Ohio, and Indiana. He also sought to boost his chances in Tennessee while reestablishing civil government by making the loyalty oath even more restrictive, in that voters would now have to swear they opposed making a settlement with the Confederacy. The Democratic candidate for president, George McClellan, hoped to avoid additional bloodshed by negotiation, and so the stricter loyalty oath effectively disenfranchised his supporters. Lincoln declined to override Johnson, and their ticket took the state by 25,000 votes. Congress refused to count Tennessee's electoral votes, but Lincoln and Johnson did not need them, having won in most states that had voted, and easily secured the election.
 
@@ -131,8 +125,6 @@ In the weeks after the inauguration, Johnson only presided over the Senate brief
 Presidency (1865–1869)
 
 Accession
-
-Johnson_inauguration.jpg
 
 On the afternoon of April 14, 1865, Lincoln and Johnson met for the first time since the inauguration. Trefousse states that Johnson wanted to "induce Lincoln not to be too lenient with traitors"; Gordon-Reed agrees.
 
@@ -166,7 +158,7 @@ Break with the Republicans: 1866
 
 Congress was reluctant to confront the President, and initially only sought to fine-tune Johnson's policies towards the South. According to Trefousse, "If there was a time when Johnson could have come to an agreement with the moderates of the Republican Party, it was the period following the return of Congress". The President was unhappy about the provocative actions of the Southern states, and about the continued control by the antebellum elite there, but made no statement publicly, believing that Southerners had a right to act as they did, even if it was unwise to do so. By late January 1866, he was convinced that winning a showdown with the Radical Republicans was necessary to his political plans – both for the success of Reconstruction and for reelection in 1868. He would have preferred that the conflict arise over the legislative efforts to enfranchise African Americans in the District of Columbia, a proposal that had been defeated overwhelmingly in an all-white referendum. A bill to accomplish this passed the House of Representatives, but to Johnson's disappointment, stalled in the Senate before he could veto it.
 
-Nast_on_Andrew_Johnson.jpg cartoon of Johnson disposing of the Freedmen's Bureau as African Americans go flying]]
+cartoon of Johnson disposing of the Freedmen's Bureau as African Americans go flying]]
 
 Illinois Senator Lyman Trumbull, leader of the Moderate Republicans and Chairman of the Judiciary Committee, was anxious to reach an understanding with the President. He ushered through Congress a bill extending the Freedmen's Bureau beyond its scheduled abolition in 1867, and the first Civil Rights Bill, to grant citizenship to the freedmen. Trumbull met several times with Johnson and was convinced the President would sign the measures (Johnson rarely contradicted visitors, often fooling those who met with him into thinking he was in accord). In fact, the President opposed both bills as infringements on state sovereignty. Additionally, both of Trumbull's bills were unpopular among white Southerners, whom Johnson hoped to include in his new party. Johnson vetoed the Freedman's Bureau bill on February 18, 1866, to the delight of white Southerners and the puzzled anger of Republican legislators. He considered himself vindicated when a move to override his veto failed in the Senate the following day. Johnson believed that the Radicals would now be isolated and defeated and that the Moderate Republicans would form behind him; he did not understand that Moderates also wanted to see African Americans treated fairly.
 
@@ -186,8 +178,6 @@ In January 1867, Congressman Stevens introduced legislation to dissolve the Sout
 
 Impeachment
 
-The_situation.jpg
-
 Secretary of War Edwin Stanton was an able and hard-working man, but difficult to deal with. Johnson both admired and was exasperated by his War Secretary, who, in combination with General of the Army Grant, worked to undermine the president's Southern policy from within his own administration. Johnson considered firing Stanton, but respected him for his wartime service as secretary. Stanton, for his part, feared allowing Johnson to appoint his successor and refused to resign, despite his public disagreements with his president.
 
 The new Congress met for a few weeks in March 1867, then adjourned, leaving the House Committee on the Judiciary behind, charged with reporting back to the full House whether there were grounds for Johnson to be impeached. This committee duly met, examined the President's bank accounts, and summoned members of the Cabinet to testify. When a federal court released former Confederate president Davis on bail on May 13 (he had been captured shortly after the war), the committee investigated whether the President had impeded the prosecution. It learned that Johnson was eager to have Davis tried. A bipartisan majority of the committee voted down impeachment charges; the committee adjourned on June 3.
@@ -200,7 +190,7 @@ The adverse results momentarily put a stop to Republican calls to impeach Johnso
 
 Johnson notified Congress of Stanton's suspension and Grant's interim appointment. In January 1868, the Senate disapproved of his action, and reinstated Stanton, contending the President had violated the Tenure of Office Act. Grant stepped aside over Johnson's objection, causing a complete break between them. Johnson then dismissed Stanton and appointed Lorenzo Thomas to replace him. Stanton refused to leave his office, and on February 24, 1868, the House impeached the President for intentionally violating the Tenure of Office Act, by a vote of 128 to 47. The House subsequently adopted eleven articles of impeachment, for the most part alleging that he had violated the Tenure of Office Act, and had questioned the legitimacy of Congress.
 
-Andew_Johnson_impeachment_trial.jpg, by Theodore R. Davis, published in _Harper's Weekly_]]
+, by Theodore R. Davis, published in _Harper's Weekly_]]
 
 On March 5, 1868, the impeachment trial began in the Senate and lasted almost three months; Congressmen George S. Boutwell, Benjamin Butler and Thaddeus Stevens acted as managers for the House, or prosecutors, and William M. Evarts, Benjamin R. Curtis and former Attorney General Stanbery were Johnson's counsel; Chief Justice Chase served as presiding judge.
 
@@ -236,7 +226,7 @@ Completion of term
 
 Johnson sought nomination by the 1868 Democratic National Convention in New York in July 1868. He remained very popular among Southern whites, and boosted that popularity by issuing, just before the convention, a pardon ending the possibility of criminal proceedings against any Confederate not already indicted, meaning that only Davis and a few others still might face trial. On the first ballot, Johnson was second to former Ohio representative George H. Pendleton, who had been his Democratic opponent for vice president in 1864. Johnson's support was mostly from the South, and fell away as the ballots passed. On the 22nd ballot, former New York governor Horatio Seymour was nominated, and the President received only four votes, all from Tennessee.
 
-Andrew_Johnson,_Farewell_to_all_my_greatness_cph.3a03724.jpg'' cartoon mocking Johnson on leaving office]]
+'' cartoon mocking Johnson on leaving office]]
 
 The conflict with Congress continued. Johnson sent Congress proposals for amendments to limit the president to a single six-year term and make the president and the Senate directly elected, and for term limits for judges. Congress took no action on them. When the President was slow to officially report ratifications of the Fourteenth Amendment by the new Southern legislatures, Congress passed a bill, again over his veto, requiring him to do so within ten days of receipt. He still delayed as much as he could, but was required, in July 1868, to report the ratifications making the amendment part of the Constitution.
 
@@ -248,8 +238,6 @@ On March 3, the President hosted a large public reception at the White House on 
 
 
 Post-presidency and return to Senate
-
-Andrew_Johnson,_1875.jpg
 
 After leaving the presidency, Johnson remained for some weeks in Washington, then returned to Greeneville for the first time in eight years. He was honored with large public celebrations along the way, especially in Tennessee, where cities hostile to him during the war hung out welcome banners. He had arranged to purchase a large farm near Greeneville to live on after his presidency.
 
@@ -272,7 +260,7 @@ The turn of the 20th century saw the first significant historical evaluations of
 
 Rhodes ascribed Johnson's faults to his personal weaknesses, and blamed him for the problems of the postbellum South. Other early 20th-century historians, such as John Burgess, Woodrow Wilson (who later became president himself) and William Dunning, all Southerners, concurred with Rhodes, believing Johnson flawed and politically inept, but concluding that he had tried to carry out Lincoln's plans for the South in good faith. Author and journalist Jay Tolson suggests that Wilson "depict[ed Reconstruction] as a vindictive program that hurt even repentant southerners while benefiting northern opportunists, the so-called Carpetbaggers, and cynical white southerners, or Scalawags, who exploited alliances with blacks for political gain".
 
-Andrew-johnson-grave-01.jpg Even as Rhodes and his school wrote, another group of historians was setting out on the full rehabilitation of Johnson, using for the first time primary sources such as his papers, provided by his daughter Martha before her death in 1901, and the diaries of Johnson's Navy Secretary, Gideon Welles, first published in 1911. The resulting volumes, such as David Miller DeWitt's _The Impeachment and Trial of President Andrew Johnson_ (1903), presented him far more favorably than they did those who had sought to oust him. In James Schouler's 1913 _History of the Reconstruction Period_, the author accused Rhodes of being "quite unfair to Johnson", though agreeing that the former president had created many of his own problems through inept political moves. These works had an effect; although historians continued to view Johnson as having deep flaws which sabotaged his presidency, they saw his Reconstruction policies as fundamentally correct.
+Even as Rhodes and his school wrote, another group of historians was setting out on the full rehabilitation of Johnson, using for the first time primary sources such as his papers, provided by his daughter Martha before her death in 1901, and the diaries of Johnson's Navy Secretary, Gideon Welles, first published in 1911. The resulting volumes, such as David Miller DeWitt's _The Impeachment and Trial of President Andrew Johnson_ (1903), presented him far more favorably than they did those who had sought to oust him. In James Schouler's 1913 _History of the Reconstruction Period_, the author accused Rhodes of being "quite unfair to Johnson", though agreeing that the former president had created many of his own problems through inept political moves. These works had an effect; although historians continued to view Johnson as having deep flaws which sabotaged his presidency, they saw his Reconstruction policies as fundamentally correct.
 
 Castel writes:
 

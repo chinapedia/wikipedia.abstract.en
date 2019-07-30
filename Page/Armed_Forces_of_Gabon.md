@@ -5,8 +5,6 @@ Organizational Structure
 
 Army
 
-Exercise_Central_Accord_2016_kicks-off_in_Gabon_(27628084966)_(2).jpg
-
 The GABONESE ARMY (_Armée de terre gabonaise_) is the land component of the armed forces, specializing in infantry and mechanized reconnaissance. It was created on December 6, 1960 by decree of president Leon Mba from non-commissioned officers who served in the French colonial army, mainly the 2nd company of the 21st BIMA. Following independence, Gabon signed defense agreements with France, mainly on technical assistance and training. Until June 1964, the title of Chief of Staff of the Gabonese Armed Forces was held by a senior French Army officer. In 1962 a detachment of the Auxiliary Women of the Gabonese Armed Forces (AFFAG), commanded by Lieutenant Ba Oumar at the military camp of Owendo, was created. President Mba promoted the initiative following a visit to Tel Aviv, Israel, where he met female staff in its Defense Forces.
 
 Order of battle
@@ -56,7 +54,7 @@ Facilities
 
 Navy
 
-Tapageuse-01.jpg similar to this one]]
+similar to this one]]
 
 The GABONESE NAVY (_Marine Nationale du Gabon_) is the official maritime branch of the armed forces. It was created in December 1960 as part of the army, and only became an independent entity in 1983. The navy's core purpose is to monitor the country's coastal waters, including 800 km of coastline.[1]
 
@@ -89,7 +87,7 @@ Equipment
 
 Small Arms
 
-FAMAS-img_1018.jpg similar to this one is used by Gabon]]
+similar to this one is used by Gabon]]
 
   Name            Origin          Type            Variant   Notes
   --------------- --------------- --------------- --------- ----------------
@@ -104,7 +102,7 @@ FAMAS-img_1018.jpg similar to this one is used by Gabon]]
 
 Armour
 
-Panhard_AML-90_img_2308.jpg]]
+]]
 
   Name                        Origin          Type            In service   Notes
   --------------------------- --------------- --------------- ------------ ---------------------------------------
@@ -124,8 +122,6 @@ Panhard_AML-90_img_2308.jpg]]
   Véhicule Blindé Léger       France          Scout vehicle   14[26]
 
 Current inventory
-
-ATR_42-300M_Gabon_Government_TR-KJD_-_MSN_131_(9900039856).jpg
 
   Aircraft              Origin              Type                 Variant     In service   Notes
   --------------------- ------------------- -------------------- ----------- ------------ -------

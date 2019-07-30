@@ -20,7 +20,7 @@ The lower boundary of the Vendian could have a biostratigraphic substantiation a
 
 Upper and lower boundaries
 
-Ediacaran-GSSP-IMGP6652-.jpg (GSSP) for the base of the Ediacaran System]] Ediacaran_GSSP_-_closeup.JPG The Ediacaran Period (c. 635–542 Mya) represents the time from the end of global Marinoan glaciation to the first appearance worldwide of somewhat complicated trace fossils (_Treptichnus pedum_ (Seilacher, 1955)).[16]
+(GSSP) for the base of the Ediacaran System]] The Ediacaran Period (c. 635–542 Mya) represents the time from the end of global Marinoan glaciation to the first appearance worldwide of somewhat complicated trace fossils (_Treptichnus pedum_ (Seilacher, 1955)).[16]
 
 Although the Ediacaran Period does contain soft-bodied fossils, it is unusual in comparison to later periods because its beginning is not defined by a change in the fossil record. Rather, the beginning is defined at the base of a chemically distinctive carbonate layer that is referred to as a "cap carbonate," because it caps glacial deposits.
 

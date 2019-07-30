@@ -7,7 +7,7 @@ As an advocate of classical economics and the economics of Adam Smith, his views
 
 Biography
 
-Bastiat_big.jpg Bastiat was born on 29 June 1801 in Bayonne, Aquitaine, a port town in the south of France on the Bay of Biscay. His father, Pierre Bastiat, was a prominent businessman in the town. His mother died in 1808 when Frédéric was seven years old.[4] His father moved inland to the town of Mugron, with Frédéric following soon afterward. The Bastiat estate in Mugron had been acquired during the French Revolution and had previously belonged to the Marquis of Poyanne. Pierre Bastiat died in 1810, leaving Frédéric an orphan. He was fostered by his paternal grandfather and his maiden aunt Justine Bastiat.[5] He attended a school in Bayonne, but his aunt thought poorly of it and so enrolled him in the school Saint-Sever. At age 17, he left school at Sorèze to work for his uncle in his family's export business. It was the same firm where his father had been a partner.
+Bastiat was born on 29 June 1801 in Bayonne, Aquitaine, a port town in the south of France on the Bay of Biscay. His father, Pierre Bastiat, was a prominent businessman in the town. His mother died in 1808 when Frédéric was seven years old.[4] His father moved inland to the town of Mugron, with Frédéric following soon afterward. The Bastiat estate in Mugron had been acquired during the French Revolution and had previously belonged to the Marquis of Poyanne. Pierre Bastiat died in 1810, leaving Frédéric an orphan. He was fostered by his paternal grandfather and his maiden aunt Justine Bastiat.[5] He attended a school in Bayonne, but his aunt thought poorly of it and so enrolled him in the school Saint-Sever. At age 17, he left school at Sorèze to work for his uncle in his family's export business. It was the same firm where his father had been a partner.
 
 Bastiat began to develop an intellectual interest as he no longer wished to work with his uncle and desired to go to Paris for formal studies. This hope never came true as his grandfather was in poor health and wished to go to the Mugron estate. Bastiat accompanied him and cared for him. The next year when Bastiat was 24, his grandfather died, leaving him the family estate, thereby providing him with the means to further his theoretical inquiries.[6] Bastiat developed intellectual interests in several areas including philosophy, history, politics, religion, travel, poetry, political economy and biography. After the middle-class Revolution of 1830, Bastiat became politically active and was elected justice of the peace of Mugron in 1831 and to the Council General (county-level assembly) of Landes in 1832. Bastiat was elected to the national legislative assembly soon after the French Revolution of 1848.[7]
 
@@ -16,7 +16,7 @@ His public career as an economist began only in 1844, when his first article was
 
 Works
 
-Buste-bastiat.JPG Bastiat was the author of many works on economics and political economy, generally characterized by their clear organization, forceful argumentation and acerbic wit. Economist Murray Rothbard wrote that "Bastiat was indeed a lucid and superb writer, whose brilliant and witty essays and fables to this day are remarkable and devastating demolitions of protectionism and of all forms of government subsidy and control. He was a truly scintillating advocate of an unrestricted free market".[9] However, Bastiat himself declared that subsidy should be available, albeit limited under extraordinary circumstances, saying the following:
+Bastiat was the author of many works on economics and political economy, generally characterized by their clear organization, forceful argumentation and acerbic wit. Economist Murray Rothbard wrote that "Bastiat was indeed a lucid and superb writer, whose brilliant and witty essays and fables to this day are remarkable and devastating demolitions of protectionism and of all forms of government subsidy and control. He was a truly scintillating advocate of an unrestricted free market".[9] However, Bastiat himself declared that subsidy should be available, albeit limited under extraordinary circumstances, saying the following:
 
   Under extraordinary circumstances, for urgent cases, the State should set aside some resources to assist certain unfortunate people, to help them adjust to changing conditions".[10]
 
@@ -71,7 +71,7 @@ To further demonstrate his statements, Bastiat suggests—in a classic _reductio
 
 Bastiat's tomb
 
-Bastiat_Tomb.JPG, a Catholic church in Rome]] Bastiat died in Rome and is buried at San Luigi dei Francesi in the center of that city. He declared on his deathbed that his friend Gustave de Molinari (publisher of Bastiat's 1850 book _The Law_) was his spiritual heir.
+, a Catholic church in Rome]] Bastiat died in Rome and is buried at San Luigi dei Francesi in the center of that city. He declared on his deathbed that his friend Gustave de Molinari (publisher of Bastiat's 1850 book _The Law_) was his spiritual heir.
 
 
 Books

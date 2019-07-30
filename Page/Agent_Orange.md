@@ -1,4 +1,4 @@
-US-Huey-helicopter-spraying-Agent-Orange-in-Vietnam.jpg Huey helicopter spraying Agent Orange over agricultural land during the Vietnam War]]
+Huey helicopter spraying Agent Orange over agricultural land during the Vietnam War]]
 
 AGENT ORANGE is a herbicide and defoliant chemical, one of the "tactical use" Rainbow Herbicides. It is widely known for its use by the U.S. military as part of its herbicidal warfare program, Operation Ranch Hand,[1] during the Vietnam War from 1961 to 1971.[2] It is a mixture of equal parts of two herbicides, 2,4,5-T and 2,4-D. In addition to its damaging environmental effects, traces of dioxin (mainly TCDD, the most toxic of its type)[3] found in the mixture have caused major health problems for many individuals who were exposed.
 
@@ -11,7 +11,7 @@ Agent Orange was to a lesser extent used outside Vietnam. It was first used by B
 
 Chemical composition
 
-2,3,7,8-tetrachlorodibenzo(b,e)(1,4)dioxine_200.svg (TCDD)]] 2,4-D.svg (2,4-D)]] 2,4,5-T.svg (2,4,5-T)]]
+(TCDD)]] (2,4-D)]] (2,4,5-T)]]
 
 The active ingredient of Agent Orange was an equal mixture of two phenoxy herbicides – 2,4-dichlorophenoxyacetic acid (2,4-D) and 2,4,5-trichlorophenoxyacetic acid (2,4,5-T) – in iso-octyl ester form, which contained traces of the dioxin 2,3,7,8-tetrachlorodibenzo-_p_-dioxin (TCDD).[9]
 
@@ -43,8 +43,6 @@ After the Malayan conflict ended in 1960, the U.S. considered the British preced
 
 
 Use in the Vietnam War
-
-Aerial-herbicide-spray-missions-in-Southern-Vietnam--1965-1971.jpg
 
 In mid-1961, President Ngo Dinh Diem of South Vietnam asked the United States to conduct aerial herbicide spraying in his country.[27] In August of that year, the Republic of Vietnam Air Force conducted herbicide operations with American help. But Diem's request launched a policy debate in the White House and the State and Defense Departments. However, U.S. officials considered using it, pointing out that the British had already used herbicides and defoliants during the Malayan Emergency in the 1950s. In November 1961, President John F. Kennedy authorized the start of Operation Ranch Hand, the codename for the U.S. Air Force's herbicide program in Vietnam.
 
@@ -118,7 +116,7 @@ By April 1993, the Department of Veterans Affairs had compensated only 486 victi
 
 Ecological impact
 
-Before_and_after_spraying_agent_orange.jpg About 17.8 percent——of the total forested area of Vietnam was sprayed during the war, which disrupted the ecological equilibrium. The persistent nature of dioxins, erosion caused by loss of tree cover, and loss of seedling forest stock meant that reforestation was difficult (or impossible) in many areas.[84] Many defoliated forest areas were quickly invaded by aggressive pioneer species (such as bamboo and cogon grass), making forest regeneration difficult and unlikely. Animal-species diversity was also impacted; in one study a Harvard biologist found 24 species of birds and five species of mammals in a sprayed forest, while in two adjacent sections of unsprayed forest there were 145 and 170 species of birds and 30 and 55 species of mammals.[85]
+About 17.8 percent——of the total forested area of Vietnam was sprayed during the war, which disrupted the ecological equilibrium. The persistent nature of dioxins, erosion caused by loss of tree cover, and loss of seedling forest stock meant that reforestation was difficult (or impossible) in many areas.[84] Many defoliated forest areas were quickly invaded by aggressive pioneer species (such as bamboo and cogon grass), making forest regeneration difficult and unlikely. Animal-species diversity was also impacted; in one study a Harvard biologist found 24 species of birds and five species of mammals in a sprayed forest, while in two adjacent sections of unsprayed forest there were 145 and 170 species of birds and 30 and 55 species of mammals.[85]
 
 Dioxins from Agent Orange have persisted in the Vietnamese environment since the war, settling in the soil and sediment and entering the food chain through animals and fish which feed in the contaminated areas. The movement of dioxins through the food web has resulted in bioconcentration and biomagnification.[86] The areas most heavily contaminated with dioxins are former U.S. air bases.[87]
 
@@ -247,7 +245,7 @@ Parts of Laos were sprayed with Agent Orange during the Vietnam War.[160]
 
 New Zealand
 
-Ivon_Watkins_Dow_factory,_New_Plymouth.jpg, New Zealand]] The use of Agent Orange has been controversial in New Zealand, because of the exposure of New Zealand troops in Vietnam and because of the production of Agent Orange for Vietnam and other users at an Ivon Watkins-Dow chemical plant in Paritutu, New Plymouth. There have been continuing claims, as yet unproven, that the suburb of Paritutu has also been polluted; see New Zealand in the Vietnam War.[161] There are cases of New Zealand soldiers developing cancers such as bone cancer but none has been scientifically connected to exposure to herbicides.[162]
+, New Zealand]] The use of Agent Orange has been controversial in New Zealand, because of the exposure of New Zealand troops in Vietnam and because of the production of Agent Orange for Vietnam and other users at an Ivon Watkins-Dow chemical plant in Paritutu, New Plymouth. There have been continuing claims, as yet unproven, that the suburb of Paritutu has also been polluted; see New Zealand in the Vietnam War.[161] There are cases of New Zealand soldiers developing cancers such as bone cancer but none has been scientifically connected to exposure to herbicides.[162]
 
 Philippines
 
@@ -255,7 +253,7 @@ Herbicide persistence studies of Agents Orange and White were conducted in the P
 
 Johnston Atoll
 
-Leaking_Agent_Orange_Barrels_at_Johnston_Atoll.jpg Agent_Orange_at_Johnston_Atoll_1976.jpg The U.S. Air Force operation to remove Herbicide Orange from Vietnam in 1972 was named Operation Pacer IVY, while the operation to destroy the Agent Orange stored at Johnston Atoll in 1977 was named Operation Pacer HO. Operation Pacer IVY (InVentorY) collected Agent Orange in South Vietnam and removed it in 1972 aboard the ship for storage on Johnston Atoll.[164] The Environmental Protection Agency (EPA) reports that of Herbicide Orange was stored at Johnston Island in the Pacific and at Gulfport in Mississippi.[165]
+The U.S. Air Force operation to remove Herbicide Orange from Vietnam in 1972 was named Operation Pacer IVY, while the operation to destroy the Agent Orange stored at Johnston Atoll in 1977 was named Operation Pacer HO. Operation Pacer IVY (InVentorY) collected Agent Orange in South Vietnam and removed it in 1972 aboard the ship for storage on Johnston Atoll.[164] The Environmental Protection Agency (EPA) reports that of Herbicide Orange was stored at Johnston Island in the Pacific and at Gulfport in Mississippi.[165]
 
 Research and studies were initiated to find a safe method to destroy the materials and it was discovered they could be incinerated safely under special conditions of temperature and dwell time.[166] However, these herbicides were expensive and the Air Force wanted to resell its surplus instead of dumping it at sea.[167] Among many methods tested, a possibility of salvaging the herbicides by reprocessing and filtering out the 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) contaminant with carbonized (charcoaled) coconut fibers. This concept was then tested in 1976 and a pilot plant constructed at Gulfport.[168]
 
@@ -267,11 +265,7 @@ Okinawa, Japan
 
 There have been dozens of reports in the press about use and/or storage of military formulated herbicides on Okinawa that are based upon statements by former U.S. service members that had been stationed on the island, photographs, government records, and unearthed storage barrels. The U.S. Department of Defense (DoD) has denied these allegations with statements by military officials and spokespersons, as well as a January 2013 report authored by Dr. Alvin Young that was released in April 2013.[171][172]
 
-An_Ecological_Assessment_of_Johnston_Atoll_cover.png
-
 In particular, the 2013 report refuted articles written by journalist Jon Mitchell as well as a statement from "An Ecological Assessment of Johnston Atoll" a 2003 publication produced by the United States Army Chemical Materials Agency that states, "in 1972, the U.S. Air Force also brought about 25,000 200L drums of the chemical, Herbicide Orange (HO) to Johnston Island that originated from Vietnam and was stored on Okinawa."[173] The 2013 report stated: "The authors of the [2003] report were not DoD employees, nor were they likely familiar with the issues surrounding Herbicide Orange or its actual history of transport to the Island." and detailed the transport phases and routes of Agent Orange from Vietnam to Johnston Atoll, none of which included Okinawa.[174]
-
-Herbicide_Stockpile_Kadena_AFB.png
 
 Further official confirmation of restricted (dioxin containing) herbicide storage on Okinawa appeared in a 1971 Fort Detrick report titled "Historical, Logistical, Political and Technical Aspects of the Herbicide/Defoliant Program", which mentioned that the environmental statement should consider "Herbicide stockpiles elsewhere in PACOM (Pacific Command) U.S. Government restricted materials Thailand and Okinawa (Kadena AFB)."[175] The 2013 DoD report says that the environmental statement urged by the 1971 report was published in 1974 as "The Department of Air Force Final Environmental Statement", and that the latter did not find Agent Orange was held in either Thailand or Okinawa.[176][177]
 

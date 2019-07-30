@@ -1,4 +1,4 @@
-Allium.schoenoprasum.seeds.jpg Chive_seedlings_sprouting.jpg CHIVES, scientific name _ALLIUM SCHOENOPRASUM_, are an edible species of the genus _Allium_.[1] Their close relatives include the garlic, shallot, leek, scallion,[2] and Chinese onion.[3]
+CHIVES, scientific name _ALLIUM SCHOENOPRASUM_, are an edible species of the genus _Allium_.[1] Their close relatives include the garlic, shallot, leek, scallion,[2] and Chinese onion.[3]
 
 A perennial plant, it is widespread in nature across much of Europe, Asia, and North America.[4][5][6][7][8][9]
 

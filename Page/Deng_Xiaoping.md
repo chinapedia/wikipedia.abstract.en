@@ -13,7 +13,7 @@ Deng was the _Time_ Person of the Year in 1978 and 1985, the third Chinese leade
 
 Early life and family
 
-Student_Deng_Xiaoping_in_France.jpg Deng possibly has ancestry from ethnically Hakka Han family in the village of Paifang (zh), in the town of , Guang'an County in Sichuan province,[10][11] approximately from Chongqing (formerly spelled _Chungking_). Deng's ancestors can be traced back to Jiaying county (now renamed to Meixian), Guangdong,[12] a prominent ancestral area for the Hakka people, and had been settled in Sichuan for several generations.[13] Deng Xiaoping's daughter Deng Rong wrote in the book _My father Deng Xiaoping_ () that his ancestry was probably but not definitely Hakka. Sichuan was originally the origin of the Deng lineage until one of them was hired as an official in Guangdong during the Ming dynasty but during the Qing plan to increase the population in 1671 they came to Sichuan again. Deng Xiaoping was born in Sichuan.[14]
+Deng possibly has ancestry from ethnically Hakka Han family in the village of Paifang (zh), in the town of , Guang'an County in Sichuan province,[10][11] approximately from Chongqing (formerly spelled _Chungking_). Deng's ancestors can be traced back to Jiaying county (now renamed to Meixian), Guangdong,[12] a prominent ancestral area for the Hakka people, and had been settled in Sichuan for several generations.[13] Deng Xiaoping's daughter Deng Rong wrote in the book _My father Deng Xiaoping_ () that his ancestry was probably but not definitely Hakka. Sichuan was originally the origin of the Deng lineage until one of them was hired as an official in Guangdong during the Ming dynasty but during the Qing plan to increase the population in 1671 they came to Sichuan again. Deng Xiaoping was born in Sichuan.[14]
 
 Deng's father, Deng Wenming, was a middle-level landowner and had studied at the University of Law and Political Science in Chengdu. His mother, surnamed Dan, died early in Deng's life, leaving Deng, his three brothers and three sisters.[15] At the age of five Deng was sent to a traditional Chinese-style private primary school, followed by a more modern primary school at the age of seven.
 
@@ -21,7 +21,7 @@ Deng's first wife, one of his schoolmates from Moscow, died aged 24 a few days a
 
 Education and early career
 
-Deng_xxixian.jpg, France, where he worked on two occasions as seen from the dates, eight months in 1922 and again in 1923 when he was fired after one month, with the bottom annotation reading "refused to work, do not take him back"]] When Deng first attended school, his tutor objected to his having the given name "Xiānshèng" (), calling him "Xīxián" (), which includes the characters "to aspire to" and "goodness", with overtones of wisdom.[16]
+, France, where he worked on two occasions as seen from the dates, eight months in 1922 and again in 1923 when he was fired after one month, with the bottom annotation reading "refused to work, do not take him back"]] When Deng first attended school, his tutor objected to his having the given name "Xiānshèng" (), calling him "Xīxián" (), which includes the characters "to aspire to" and "goodness", with overtones of wisdom.[16]
 
 In the summer of 1919, Deng Xiaoping graduated from the Chongqing School. He and 80 schoolmates travelled by ship to France (travelling steerage) to participate in the Diligent Work-Frugal Study Movement, a work-study program in which 4,001 Chinese would participate by 1927. Deng, the youngest of all the Chinese students in the group, had just turned 15.[17] Wu Yuzhang, the local leader of the Movement in Chongqing, enrolled Deng and his paternal uncle, Deng Shaosheng, in the program. Deng's father strongly supported his son's participation in the work-study abroad program. The night before his departure, Deng's father took his son aside and asked him what he hoped to learn in France. He repeated the words he had learned from his teachers: "To learn knowledge and truth from the West in order to save China." Deng was aware that China was suffering greatly, and that the Chinese people must have a modern education to save their country.[18]
 
@@ -64,7 +64,7 @@ The successes of the Soviet in Jiangxi made the party leaders decide to move to 
 
 Long March
 
-1937_Deng_Xiaoping_in_NRA_uniform.jpg Surrounded by the more powerful army of the Republic of China, the Communists fled Jiangxi in October 1934. Thus began the epic movement that would mark a turning point in the development of Chinese communism. The evacuation was difficult because the Army of the Republic had taken positions in all areas occupied by the Communists. Advancing through remote and mountainous terrain, some 100,000 men managed to escape Jiangxi, starting a long strategic retreat through the interior of China, which ended one year later when between 8,000 and 9,000 survivors reached the northern province of Shaanxi.
+Surrounded by the more powerful army of the Republic of China, the Communists fled Jiangxi in October 1934. Thus began the epic movement that would mark a turning point in the development of Chinese communism. The evacuation was difficult because the Army of the Republic had taken positions in all areas occupied by the Communists. Advancing through remote and mountainous terrain, some 100,000 men managed to escape Jiangxi, starting a long strategic retreat through the interior of China, which ended one year later when between 8,000 and 9,000 survivors reached the northern province of Shaanxi.
 
 During the Zunyi Conference at the beginning of the Long March, the so-called 28 Bolsheviks, led by Bo Gu and Wang Ming, were ousted from power and Mao Zedong, to the dismay of the Soviet Union, had become the new leader of the Communist Party of China. The pro-Soviet Communist Party of China had ended and a new rural-inspired party emerged under the leadership of Mao. Deng had once again become a leading figure in the party when the north ended up winning the civil war against the Kuomintang.
 
@@ -80,7 +80,7 @@ Deng took a leading role in the Hundred Regiments Offensive which boosted his st
 
 Resumed war against the Nationalists
 
-Liudeng.jpg (right)]]
+(right)]]
 
 After Japan's defeat in World War II, Deng traveled to Chongqing, the city in which Chiang Kai-shek established his government during the Japanese invasion, to participate in peace talks between the Kuomintang and the Communist Party. The results of those negotiations were not positive and military confrontation between the two antagonistic parties resumed shortly after the meeting in Chongqing.
 
@@ -90,7 +90,7 @@ Deng played a major part in the Huaihai Campaign against the nationalists.[24]
 
 In the final phase of the war, Deng again exercised a key role as political leader and propaganda master as Political Commissar of the 2nd Field Army commanded by Liu Bocheng. He also participated in disseminating the ideas of Mao Zedong, which turned into the ideological foundation of the Communist Party. His political and ideological work, along with his status as a veteran of the Long March, placed him in a privileged position within the party to occupy positions of power after the Communist Party managed to defeat Chiang Kai-shek and founded the People's Republic of China.
 
-Deng_Xiaoping,_He_Long_and_Zhu_De.jpg (middle) and Zhu De (right) (1949)]]
+(middle) and Zhu De (right) (1949)]]
 
 
 Political career under Mao
@@ -107,7 +107,7 @@ Deng Xiaoping would spend three years in Chongqing, the city where he had studie
 
 Political rise in Beijing
 
-Dalai-dengxiaoping1954.jpg (third from left) in 1954]]
+(third from left) in 1954]]
 
 In July 1952, Deng came to Beijing to assume the posts of Vice Premier and Deputy Chair of the Committee on Finance. Soon after, he took the posts of Minister of Finance and Director of the Office of Communications. In 1954, he was removed from all these positions, holding only the post of Deputy Premier. In 1956, he became Head of the Communist Party's Organization Department and member of the Central Military Commission.
 
@@ -125,13 +125,13 @@ Target of two purges
 
 Cultural Revolution
 
-Zhou_Li_Deng.jpg (center) and Premier Zhou Enlai in 1963]] Mao feared that the reformist economic policies of Deng and Liu could lead to restoration of capitalism and end the Chinese Revolution.[26] For this and other reasons, Mao launched the Cultural Revolution in 1966, during which Deng fell out of favor and was forced to retire from all his positions.
+(center) and Premier Zhou Enlai in 1963]] Mao feared that the reformist economic policies of Deng and Liu could lead to restoration of capitalism and end the Chinese Revolution.[26] For this and other reasons, Mao launched the Cultural Revolution in 1966, during which Deng fell out of favor and was forced to retire from all his positions.
 
 During the Cultural Revolution, he and his family were targeted by Red Guards, who imprisoned Deng's eldest son, Deng Pufang. Deng Pufang was tortured and jumped out, or was thrown out, of the window of a four-story building in 1968, becoming a paraplegic. In October 1969 Deng Xiaoping was sent to the Xinjian County Tractor Factory in rural Jiangxi province to work as a regular worker.[27] In his four years there,[28] Deng spent his spare time writing. He was purged nationally, but to a lesser scale than President Liu Shaoqi.
 
 After Lin Biao was killed in an air crash (according to official reports he was trying to flee from China after unsuccessfully trying to stage a coup against Mao), Deng Xiaoping (who had been political commissar of the 2nd Field Army during the civil war) became the most influential of the remaining army leaders.[29] When Premier Zhou Enlai fell ill with cancer, Deng became Zhou's choice as successor, and Zhou was able to convince Mao to bring Deng back into politics in 1974 as First Vice-Premier, in practice running daily affairs. Deng focused on reconstructing the country's economy and stressed unity as the first step by raising production. He remained careful, however, to avoid contradicting Maoist ideology on paper.
 
-Gerald_and_Betty_Ford_meet_with_Deng_Xiaoping,_1975_A7598-20A.jpg (left), 1975]]
+(left), 1975]]
 
 During his brief ascendency, Deng established the Political Research Office, headed by intellectuals Hu Qiaomu, Yu Guangyuan and Hu Sheng, delegated to explore approaches to political and economic reforms. He led the group himself and managed the project within the State Council, in order to avoid rousing the suspicions of the Gang of Four.
 
@@ -168,7 +168,7 @@ In November 1978, after the country had stabilized following political turmoil, 
 
 Thanks to the support of other party leaders who had already recovered their official positions, in 1978 the rise to power of Deng was inevitable. Even though Hua Guofeng formally monopolized the top positions in the People's Republic, his position, with little support, was becoming increasingly difficult. In December 1978, during the Third Plenum of the 11th Central Committee Congress of the Communist Party of China, Deng took over the reins of power.[38]
 
-Deng_Xiaoping_and_Jimmy_Carter_at_the_arrival_ceremony_for_the_Vice_Premier_of_China._-_NARA_-_183157-restored.jpg at the arrival ceremony]] Visit_of_Chinese_Vice_Premier_Deng_Xiaoping_to_Johnson_Space_Center_-_GPN-2002-000077.jpg director Christopher C. Kraft (extreme right)]]
+at the arrival ceremony]] director Christopher C. Kraft (extreme right)]]
 
 Beginning in 1979, the economic reforms accelerated the market model, while the leaders maintained old Communist-style rhetoric. The commune system was gradually dismantled and the peasants began to have more freedom to manage the land they cultivated and sell their products on the market. At the same time, China's economy opened up to foreign trade. On January 1, 1979, the United States recognized the People's Republic of China, leaving the (Taiwan) Republic of China's nationalist government to one side, and business contacts between China and the West began to grow. In late 1978, the aerospace company Boeing announced the sale of 747 aircraft to various airlines in the PRC, and the beverage company Coca-Cola made public their intention to open a production plant in Shanghai.
 
@@ -178,7 +178,7 @@ Sino-Japanese relations also improved significantly.[39] Deng used Japan as an e
 
 True to his famous July 1962 pronouncement at the Communist youth league conference,[40] "it doesn't matter whether a cat is black or white, if it catches mice it is a good cat", which had caused so much criticism, Deng, along with his closest collaborators, such as Zhao Ziyang, who in 1980 relieved Hua Guofeng as premier, and Hu Yaobang, who in 1981 did the same with the post of party chairman, took the reins of power and the purpose of advancing the "four modernizations" (economy, agriculture, scientific and technological development and national defense), and announced an ambitious plan of opening and liberalizing the economy.[41][42] The last position of power retained by Hua Guofeng, chairman of the Central Military Commission, was taken by Deng in 1981.[43]
 
-Deng_Thatcher_3.JPG, Shenzhen]]
+, Shenzhen]]
 
 From 1980 onwards, Deng led the expansion of the economy, and in political terms took over negotiations with the United Kingdom to return the territory of Hong Kong, meeting personally with then-Prime Minister Margaret Thatcher. The result of these negotiations was the Sino-British Joint Declaration, signed on 19 December 1984, which formally outlined the United Kingdom's return of Hong Kong to China by 1997. The Chinese government pledged to respect the economic system and civil liberties of the British colony for fifty years after the handover.
 
@@ -239,7 +239,7 @@ Deng privately told Canadian Prime Minister Pierre Trudeau that factions of the 
 
 Resignation and 1992 southern tour
 
-Officially, Deng decided to retire from top positions when he stepped down as Chairman of the Central Military Commission in 1989, and retired from the political scene in 1992. China, however, was still in the _era of Deng Xiaoping_. He continued to be widely regarded as the "paramount leader" of the country, believed to have backroom control. Deng was recognized officially as "the chief architect of China's economic reforms and China's socialist modernization". To the Communist Party, he was believed to have set a good example for communist cadres who refused to retire at old age. He broke earlier conventions of holding offices for life. He was often referred to as simply _Comrade Xiaoping_, with no title attached. DengXiaoPingNanXunJunJian.jpg
+Officially, Deng decided to retire from top positions when he stepped down as Chairman of the Central Military Commission in 1989, and retired from the political scene in 1992. China, however, was still in the _era of Deng Xiaoping_. He continued to be widely regarded as the "paramount leader" of the country, believed to have backroom control. Deng was recognized officially as "the chief architect of China's economic reforms and China's socialist modernization". To the Communist Party, he was believed to have set a good example for communist cadres who refused to retire at old age. He broke earlier conventions of holding offices for life. He was often referred to as simply _Comrade Xiaoping_, with no title attached.
 
 Because of the Tiananmen Square protests of 1989, Deng's power had been significantly weakened and there was a growing formalist faction opposed to Deng's reforms within the Communist Party. To reassert his economic agenda, in the spring of 1992, Deng made his famous southern tour of China, visiting Guangzhou, Shenzhen, Zhuhai and spending the New Year in Shanghai, using his travels as a method of reasserting his economic policy after his retirement from office.
 
@@ -252,7 +252,7 @@ Deng's insistence on economic openness aided in the phenomenal growth levels of 
 
 Death and reaction
 
-Deng_Funeral.jpg Deng died on 19 February 1997, aged 92 from a lung infection and Parkinson's disease. Even though his successor Jiang Zemin was in firm control, government policies maintained Deng's political and economic philosophies. Officially, Deng was eulogized as a "great Marxist, great Proletarian Revolutionary, statesman, military strategist, and diplomat; one of the main leaders of the Communist Party of China, the People's Liberation Army of China, and the People's Republic of China; The great architect of China's socialist opening-up and modernized construction; the founder of Deng Xiaoping Theory".[69]
+Deng died on 19 February 1997, aged 92 from a lung infection and Parkinson's disease. Even though his successor Jiang Zemin was in firm control, government policies maintained Deng's political and economic philosophies. Officially, Deng was eulogized as a "great Marxist, great Proletarian Revolutionary, statesman, military strategist, and diplomat; one of the main leaders of the Communist Party of China, the People's Liberation Army of China, and the People's Republic of China; The great architect of China's socialist opening-up and modernized construction; the founder of Deng Xiaoping Theory".[69]
 
 The public was largely prepared for Deng's death, as rumors had been circulating for a long time that his health was deteriorating. At 10:00 on the morning of 24 February, people were asked by Premier Li Peng to pause in silence for three minutes. The nation's flags flew at half-mast for over a week. The nationally televised funeral, which was a simple and relatively private affair attended by the country's leaders and Deng's family, was broadcast on all cable channels.
 
@@ -265,7 +265,7 @@ There was a significant amount of international reaction to Deng's death: UN Sec
 
 Memorials
 
-Deng_Xiaoping_statue_in_Shenzhen.JPG]] When compared to the memorials of other CPC leaders, those dedicated to Deng have been low profile, in keeping with Deng's image of pragmatism. Moreover, he was cremated and his ashes were scattered at sea, as opposed to being embalmed like Mao.
+]] When compared to the memorials of other CPC leaders, those dedicated to Deng have been low profile, in keeping with Deng's image of pragmatism. Moreover, he was cremated and his ashes were scattered at sea, as opposed to being embalmed like Mao.
 
 There are a few public displays of Deng in the country. A bronze statue of Deng was erected on 14 November 2000, at the grand plaza of Lianhua Mountain Park in Shenzhen. This statue is dedicated to Deng's role as a planner and contributor to the development of the Shenzhen Special Economic Zone, starting in 1979. The statue is high, with an additional 3.68-meter base. The statue shows Deng striding forward confidently. Many CPC high level leaders visit the statue. In addition, in coastal areas and on the island province of Hainan, Deng is seen on roadside billboards with messages emphasizing economic reform or his policy of one country, two systems.
 

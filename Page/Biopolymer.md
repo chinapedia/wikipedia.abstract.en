@@ -1,4 +1,4 @@
-ADN_animation.gif is a pair of BIOPOLYMERS, polynucleotides, forming the double helix]]
+is a pair of BIOPOLYMERS, polynucleotides, forming the double helix]]
 
 BIOPOLYMERS are polymers produced by living organisms; in other words, they are polymeric biomolecules. Biopolymers contain monomeric units that are covalently bonded to form larger structures. There are three main classes of biopolymers, classified according to the monomeric units used and the structure of the biopolymer formed: polynucleotides (RNA and DNA), which are long polymers composed of 13 or more nucleotide monomers; polypeptides, which are short polymers of amino acids; and polysaccharides, which are often linear bonded polymeric carbohydrate structures.[1][2][3][4] Other examples of biopolymers include rubber, suberin, melanin and lignin. Cellulose is the most common organic compound and biopolymer on Earth. About 33 percent of all plant matter is cellulose. The cellulose content of cotton is 90 percent, for wood it is 50 percent.[5]
 

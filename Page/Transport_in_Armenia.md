@@ -27,8 +27,6 @@ Most of the cross-border lines are currently closed due to political problems.[1
 
 There is also discussion to establish a rail link between Yerevan and Tehran. Armenia is pursing funding from the Asian Development Bank to launch construction of this infrastructure project.[4] The completion of the project could establish a major commodities transit corridor and would serve as the shortest transportation route between Europe and the Persian Gulf.[5] In June 2019, Iranian president Hassan Rouhani backed this project and stated that “we want the Persian Gulf and the Gulf of Oman to be connected to the Black Sea, and one of the ways to make this happen is through Iran, Armenia and Georgia.”[6]
 
-Yerevan-metro.jpg
-
 Metros
 
 The capital city of Armenia, Yerevan, is serviced by the Yerevan Metro. The system was launched in 1981 and like most former Soviet Metros, its stations are very deep (20–70 meters underground) and intricately decorated with national motifs. The metro runs on a 13.4 kilometres (8.3 mi) line and currently serves 10 active stations. Trains run every five minutes from 6:30 a.m. until 11 p.m local AMT time. As of 2017, the annual ridership of the metro is 16.2 million passengers.[7] Free wi-fi is available at all stations and some trains.[8]
@@ -70,8 +68,6 @@ Cargo shipments to landlocked Armenia are routed through ports in Georgia and Tu
 
 Airports
 
-Zvartnots_airport.jpg
-
 Air transportation in Armenia is the most convenient and comfortable means of getting into the country. There are large international airports that accept both external and domestic flights throughout the Republic. As of 2019, 11 airports operate in Armenia, however, only Yerevan's Zvartnots International Airport and Gyumri's Shirak Airport are in use for commercial aviation. There are 3 additional civil airports currently under reconstruction in Armenia, including Syunik Airport, Stepanavan Airport and Goris Airport. The main Armenian airlines in operation are Armenia Aircompany, Atlantis European Airways and Taron Avia.
 
 There are plenty of air connections between Yerevan and other regional cities, including Athens, Barcelona, Beirut, Bucharest, Brussels, Damascus, Doha, Dubai, Istanbul, Kiev, Kuwait City, London, Minsk, Moscow, Paris, Prague, Riga, Tehran, Tel-Aviv, Tbilisi, Vienna, Venice and Warsaw, as well as daily connections to most major cities within the CIS region.[19] Statistics show that the number of tourists arriving in the country by air transportation increases yearly.[20] In 2018, passenger flow at the two main airports of Armenia reached a record high of 2,856,673 million people.[21]
@@ -99,8 +95,6 @@ Total: 1
 Heliports
 
 Armenia maintains a number of both military and civilian heliports. The main military heliport is located on the premises of Erebuni Airport in Yerevan. Meanwhile, the company Armenian Helicopters, based at Zvartnots Airport in Yerevan, offers charter flights within Armenia and to certain neighboring countries, including Georgia, Russia and Turkey.[22][23] Helicopter services are delivered with the US-made Robinson R66 and the European AIRBUS EC130T2 choppers. Flights can be carried out as scheduled or individual routes.[24]
-
-Крылья_Татева.jpg
 
 
 Aerial tramways

@@ -103,7 +103,7 @@ Also in 2007, three artists each painted a portrait of Oddie, as part of the BBC
 
 He hosted the genealogy-based series _My Famous Family_, broadcast on UKTV History in 2007.[36] In 2008, Oddie was a guest on Jamie Oliver's television special _Jamie's Fowl Dinners_, talking about free-range chickens.[37]
 
-He also appeared on _Would I Lie To You?_ in 2011 where he revealed that he was saved from drowning by Freddy from popular children's series _Rainbow_ and _Rod, Jane and Freddy_ while on holiday in the Seychelles. Bill_Oddie_Live_(Perth_June_27_2013).jpg
+He also appeared on _Would I Lie To You?_ in 2011 where he revealed that he was saved from drowning by Freddy from popular children's series _Rainbow_ and _Rod, Jane and Freddy_ while on holiday in the Seychelles.
 
 In February 2015, Oddie appeared in _The Keith Lemon Sketch Show_ as the narrator of the sketch _Ed Sheeran Watch_.
 

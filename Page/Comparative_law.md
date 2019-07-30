@@ -1,4 +1,4 @@
-Map_of_the_Legal_systems_of_the_world_(en).png COMPARATIVE LAW is the study of differences and similarities between the law (legal systems) of different countries. More specifically, it involves the study of the different legal "systems" (or "families") in existence in the world, including the common law, the civil law, socialist law, Canon law, Jewish Law, Islamic law, Hindu law, and Chinese law. It includes the description and analysis of foreign legal systems, even where no explicit comparison is undertaken. The importance of comparative law has increased enormously in the present age of internationalism, economic globalization, and democratization.
+COMPARATIVE LAW is the study of differences and similarities between the law (legal systems) of different countries. More specifically, it involves the study of the different legal "systems" (or "families") in existence in the world, including the common law, the civil law, socialist law, Canon law, Jewish Law, Islamic law, Hindu law, and Chinese law. It includes the description and analysis of foreign legal systems, even where no explicit comparison is undertaken. The importance of comparative law has increased enormously in the present age of internationalism, economic globalization, and democratization.
 
 
 History
@@ -9,7 +9,7 @@ Although every Legal System is unique, Comparative Law through studies of their 
 
 Also, in Chapter XI (entitled 'How to compare two different Systems of Laws') of Book XXIX, discussing the French and English systems for punishment of false witnesses, he advises that "to determine which of those systems is most agreeable to reason, we must take them each as a whole and compare them in their entirety." Yet another place where Montesquieu's comparative approach is evident is the following, from Chapter XIII of Book XXIX:
 
-HSMaine.jpg, British jurist and first professor of comparative law at Oxford.]]
+, British jurist and first professor of comparative law at Oxford.]]
 
 The modern founding figure of comparative and anthropological jurisprudence was Sir Henry Maine, a British jurist and legal historian.[4] In his 1861 work _Ancient Law: Its Connection with the Early History of Society, and Its Relation to Modern Ideas_, he set out his views on the development of legal institutions in primitive societies and engaged in a comparative discussion of Eastern and Western legal traditions. This work placed comparative law in its historical context and was widely read and influential.
 

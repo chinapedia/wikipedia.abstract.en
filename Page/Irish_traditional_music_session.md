@@ -7,7 +7,7 @@ Barry Foy's _Field Guide to the Irish Music Session_ defines a session as:[2]
 
 Social and cultural aspects
 
-Mulligans_session.jpg The general session scheme is that someone starts a tune, and those who know it join in. Good session etiquette requires not playing if one does not know the tune (or at least quietly playing an accompaniment part) and waiting until a tune one knows comes along. In an "open" session, anyone who is able to play Irish music is welcome. Most often there are more-or-less recognized session leaders; sometimes there are no leaders. At times a song will be sung or a slow air played by a single musician between sets.[3]
+The general session scheme is that someone starts a tune, and those who know it join in. Good session etiquette requires not playing if one does not know the tune (or at least quietly playing an accompaniment part) and waiting until a tune one knows comes along. In an "open" session, anyone who is able to play Irish music is welcome. Most often there are more-or-less recognized session leaders; sometimes there are no leaders. At times a song will be sung or a slow air played by a single musician between sets.[3]
 
 The objective in a session is not to provide music for an audience of passive listeners; although the _punters_ (non-playing attendees) often come for the express purpose of listening, the music is most of all for the musicians themselves. The session is an experience that is shared, not a performance that is bought and sold.
 
@@ -27,7 +27,7 @@ After one set ends, someone will usually start another. A 'regular' at the sessi
 
 Locations and times
 
-Nash-session.jpg]] Sessions are usually held in public houses or taverns. A pub owner might have one or two musicians paid to come regularly in order for the session to have a base.[4] These musicians can perform during any gaps during the day or evening when no other performers are there and wish to play. Sunday afternoons and weekday nights (especially Tuesday and Wednesday) are common times for sessions to be scheduled, on the theory that these are the least likely times for dances and concerts to be held, and therefore the times that professional musicians will be most able to show up.
+]] Sessions are usually held in public houses or taverns. A pub owner might have one or two musicians paid to come regularly in order for the session to have a base.[4] These musicians can perform during any gaps during the day or evening when no other performers are there and wish to play. Sunday afternoons and weekday nights (especially Tuesday and Wednesday) are common times for sessions to be scheduled, on the theory that these are the least likely times for dances and concerts to be held, and therefore the times that professional musicians will be most able to show up.
 
 Sessions can be held in homes or at various public places in addition to pubs; often at a festival sessions will be got together in the beer tent or in the vendor's booth of a music-loving craftsperson or dealer. When a particularly large musical event "takes over" an entire village, spontaneous sessions may erupt on the street corners. Sessions may also take place occasionally at wakes. House sessions are not as common now as they were in the past. This can be seen in the book _Peig_ by Peig Sayers. In the early stages of the book when Peig was young they often went to sessions at peoples houses in a practice called 'bothántiocht'.[5]
 

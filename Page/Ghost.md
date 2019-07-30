@@ -1,4 +1,4 @@
-Hammersmith_Ghost.PNG in _Kirby's Wonderful and Scientific Museum_, a magazine published in 1804[1]]]
+in _Kirby's Wonderful and Scientific Museum_, a magazine published in 1804[1]]]
 
 In folklore, a GHOST (sometimes known as an APPARITION, HAUNT, PHANTOM, POLTERGEIST, SHADE, SPECTER or SPECTRE, SPIRIT, SPOOK, and WRAITH) is the soul or spirit of a dead person or animal that can appear to the living. In ghostlore, descriptions of ghosts vary widely from an invisible presence to translucent or barely visible wispy shapes, to realistic, lifelike forms. The deliberate attempt to contact the spirit of a deceased person is known as necromancy, or in spiritism as a _séance_.
 
@@ -24,7 +24,7 @@ A _revenant_ is a deceased person returning from the dead to haunt the living, e
 
 Typology
 
-NAMA_Hermès_&_Myrrhinè.jpg'' at Athens showing Hermes as psychopomp conducting the soul of the deceased, _Myrrhine_ into Hades (ca. 430-420 B.C.)]]
+'' at Athens showing Hermes as psychopomp conducting the soul of the deceased, _Myrrhine_ into Hades (ca. 430-420 B.C.)]]
 
 Anthropological context
 
@@ -42,7 +42,7 @@ Although the human soul was sometimes symbolically or literally depicted in anci
 
 Fear of ghosts
 
-Suushi_Yurei.jpg (Japanese ghost) from the Hyakkai Zukan, ca. 1737]] While deceased ancestors are universally regarded as venerable, and often believed to have a continued presence in some form of afterlife, the spirit of a deceased person that persists in the material world (a ghost) is regarded as an unnatural or undesirable state of affairs and the idea of ghosts or revenants is associated with a reaction of fear. This is universally the case in pre-modern folk cultures, but fear of ghosts also remains an integral aspect of the modern ghost story, Gothic horror, and other horror fiction dealing with the supernatural.
+(Japanese ghost) from the Hyakkai Zukan, ca. 1737]] While deceased ancestors are universally regarded as venerable, and often believed to have a continued presence in some form of afterlife, the spirit of a deceased person that persists in the material world (a ghost) is regarded as an unnatural or undesirable state of affairs and the idea of ghosts or revenants is associated with a reaction of fear. This is universally the case in pre-modern folk cultures, but fear of ghosts also remains an integral aspect of the modern ghost story, Gothic horror, and other horror fiction dealing with the supernatural.
 
 Common attributes
 
@@ -50,7 +50,7 @@ Another widespread belief concerning ghosts is that they are composed of a misty
 
 In many traditional accounts, ghosts were often thought to be deceased people looking for vengeance (vengeful ghosts), or imprisoned on earth for bad things they did during life. The appearance of a ghost has often been regarded as an omen or portent of death. Seeing one's own ghostly double or "fetch" is a related omen of death.[38]
 
-Union_Graveyard_III.jpg is home to the legend of the White Lady.]] White ladies were reported to appear in many rural areas, and supposed to have died tragically or suffered trauma in life. White Lady legends are found around the world. Common to many of them is the theme of losing a child or husband and a sense of purity, as opposed to the Lady in Red ghost that is mostly attributed to a jilted lover or prostitute. The White Lady ghost is often associated with an individual family line or regarded as a harbinger of death similar to a banshee.
+is home to the legend of the White Lady.]] White ladies were reported to appear in many rural areas, and supposed to have died tragically or suffered trauma in life. White Lady legends are found around the world. Common to many of them is the theme of losing a child or husband and a sense of purity, as opposed to the Lady in Red ghost that is mostly attributed to a jilted lover or prostitute. The White Lady ghost is often associated with an individual family line or regarded as a harbinger of death similar to a banshee.
 
 Legends of ghost ships have existed since the 18th century; most notable of these is the _Flying Dutchman_. This theme has been used in literature in _The Rime of the Ancient Mariner_ by Coleridge.
 
@@ -67,11 +67,11 @@ A place where ghosts are reported is described as haunted, and often seen as bei
 
 History
 
-Dumuzi_aux_enfers.jpg impression showing the god Dumuzid being tortured in the Underworld by _galla_ demons]]
+impression showing the god Dumuzid being tortured in the Underworld by _galla_ demons]]
 
 Ancient Near East and Egypt
 
-There are many references to ghosts in Mesopotamian religions – the religions of Sumer, Babylon, Assyria, and other early states in Mesopotamia. Traces of these beliefs survive in the later Abrahamic religions that came to dominate the region.[39] Ghosts were thought to be created at time of death, taking on the memory and personality of the dead person. They traveled to the netherworld, where they were assigned a position, and led an existence similar in some ways to that of the living. Relatives of the dead were expected to make offerings of food and drink to the dead to ease their conditions. If they did not, the ghosts could inflict misfortune and illness on the living. Traditional healing practices ascribed a variety of illnesses to the action of ghosts, while others were caused by gods or demons.[40] Akh_glyph.svg and spirit re-united after death]] There was widespread belief in ghosts in ancient Egyptian culture The Hebrew Bible contains few references to ghosts, associating spiritism with forbidden occult activities cf. Deuteronomy 18:11. The most notable reference is in the First Book of Samuel (I Samuel 28:3–19 KJV), in which a disguised King Saul has the Witch of Endor summon the spirit or ghost of Samuel.
+There are many references to ghosts in Mesopotamian religions – the religions of Sumer, Babylon, Assyria, and other early states in Mesopotamia. Traces of these beliefs survive in the later Abrahamic religions that came to dominate the region.[39] Ghosts were thought to be created at time of death, taking on the memory and personality of the dead person. They traveled to the netherworld, where they were assigned a position, and led an existence similar in some ways to that of the living. Relatives of the dead were expected to make offerings of food and drink to the dead to ease their conditions. If they did not, the ghosts could inflict misfortune and illness on the living. Traditional healing practices ascribed a variety of illnesses to the action of ghosts, while others were caused by gods or demons.[40] and spirit re-united after death]] There was widespread belief in ghosts in ancient Egyptian culture The Hebrew Bible contains few references to ghosts, associating spiritism with forbidden occult activities cf. Deuteronomy 18:11. The most notable reference is in the First Book of Samuel (I Samuel 28:3–19 KJV), in which a disguised King Saul has the Witch of Endor summon the spirit or ghost of Samuel.
 
 The soul and spirit were believed to exist after death, with the ability to assist or harm the living, and the possibility of a second death. Over a period of more than 2,500 years, Egyptian beliefs about the nature of the afterlife evolved constantly. Many of these beliefs were recorded in hieroglyph inscriptions, papyrus scrolls and tomb paintings. The Egyptian _Book of the Dead_ compiles some of the beliefs from different periods of ancient Egyptian history.[41] In modern times, the fanciful concept of a mummy coming back to life and wreaking vengeance when disturbed has spawned a whole genre of horror stories and films.[42]
 
@@ -79,7 +79,7 @@ Classical Antiquity
 
 Archaic and Classical Greece
 
-Klytaimnestra_Erinyes_Louvre_Cp710.jpg depicting the ghost of Clytemnestra waking the Erinyes, circa 380-370 BC]]
+depicting the ghost of Clytemnestra waking the Erinyes, circa 380-370 BC]]
 
 Ghosts appeared in Homer's _Odyssey_ and _Iliad_, in which they were described as vanishing "as a vapor, gibbering and whining into the earth". Homer's ghosts had little interaction with the world of the living. Periodically they were called upon to provide advice or prophecy, but they do not appear to be particularly feared. Ghosts in the classical world often appeared in the form of vapor or smoke, but at other times they were described as being substantial, appearing as they had been at the time of death, complete with the wounds that killed them.[43]
 
@@ -89,7 +89,7 @@ The 5th-century BC play _Oresteia_ includes an appearance of the ghost of Clytem
 
 Roman Empire and Late Antiquity
 
-Athenodorus_-_The_Greek_Stoic_Philosopher_Athenodorus_Rents_a_Haunted_House.jpg and the Ghost'', by Henry Justice Ford, c.1900]] The ancient Romans believed a ghost could be used to exact revenge on an enemy by scratching a curse on a piece of lead or pottery and placing it into a grave.[46]
+and the Ghost'', by Henry Justice Ford, c.1900]] The ancient Romans believed a ghost could be used to exact revenge on an enemy by scratching a curse on a piece of lead or pottery and placing it into a grave.[46]
 
 Plutarch, in the 1st century AD, described the haunting of the baths at Chaeronea by the ghost of a murdered man. The ghost's loud and frightful groans caused the people of the town to seal up the doors of the building.[47] Another celebrated account of a haunted house from the ancient classical world is given by Pliny the Younger (c. 50 AD).[48] Pliny describes the haunting of a house in Athens, which was bought by the Stoic philosopher Athenodorus, who lived about 100 years before Pliny. Knowing that the house was supposedly haunted, Athenodorus intentionally set up his writing desk in the room where the apparition was said to appear and sat there writing until late at night when he was disturbed by a ghost bound in chains. He followed the ghost outside where it indicated a spot on the ground. When Athenodorus later excavated the area, a shackled skeleton was unearthed. The haunting ceased when the skeleton was given a proper reburial.[49] The writers Plautus and Lucian also wrote stories about haunted houses.
 
@@ -115,7 +115,7 @@ Haunted houses are featured in the 9th-century _Arabian Nights_ (such as the tal
 
 European Renaissance to Romanticism
 
-File-Hamlet,_Prince_of_Demark_Act_I_Scene_IV.png and his father's ghost" by Henry Fuseli (1796 drawing). The ghost is wearing stylized plate armor in 17th-century style, including a morion type helmet and tassets. Depicting ghosts as wearing armor, to suggest a sense of antiquity, was common in Elizabethan theater.]] Renaissance magic took a revived interest in the occult, including necromancy. In the era of the Reformation and Counter Reformation, there was frequently a backlash against unwholesome interest in the dark arts, typified by writers such as Thomas Erastus.[59] The Swiss Reformed pastor Ludwig Lavater supplied one of the most frequently reprinted books of the period with his _Of Ghosts and Spirits Walking By Night._[60]
+and his father's ghost" by Henry Fuseli (1796 drawing). The ghost is wearing stylized plate armor in 17th-century style, including a morion type helmet and tassets. Depicting ghosts as wearing armor, to suggest a sense of antiquity, was common in Elizabethan theater.]] Renaissance magic took a revived interest in the occult, including necromancy. In the era of the Reformation and Counter Reformation, there was frequently a backlash against unwholesome interest in the dark arts, typified by writers such as Thomas Erastus.[59] The Swiss Reformed pastor Ludwig Lavater supplied one of the most frequently reprinted books of the period with his _Of Ghosts and Spirits Walking By Night._[60]
 
 The Child Ballad "Sweet William's Ghost" (1868) recounts the story of a ghost returning to his fiancée begging her to free him from his promise to marry her. He cannot marry her because he is dead but her refusal would mean his damnation. This reflects a popular British belief that the dead haunted their lovers if they took up with a new love without some formal release.[61] "The Unquiet Grave" expresses a belief even more widespread, found in various locations over Europe: ghosts can stem from the excessive grief of the living, whose mourning interferes with the dead's peaceful rest.[62] In many folktales from around the world, the hero arranges for the burial of a dead man. Soon after, he gains a companion who aids him and, in the end, the hero's companion reveals that he is in fact the dead man.[63] Instances of this include the Italian fairy tale "Fair Brow" and the Swedish "The Bird 'Grip'".
 
@@ -123,7 +123,7 @@ Modern period of western culture
 
 Spiritualist movement
 
-Spirit_rappings_coverpage_to_sheet_music_1853.jpg Spiritualism is a monotheistic belief system or religion, postulating a belief in God, but with a distinguishing feature of belief that spirits of the dead residing in the spirit world can be contacted by "mediums", who can then provide information about the afterlife.[64]
+Spiritualism is a monotheistic belief system or religion, postulating a belief in God, but with a distinguishing feature of belief that spirits of the dead residing in the spirit world can be contacted by "mediums", who can then provide information about the afterlife.[64]
 
 Spiritualism developed in the United States and reached its peak growth in membership from the 1840s to the 1920s, especially in English-language countries.[65][66] By 1897, it was said to have more than eight million followers in the United States and Europe,[67] mostly drawn from the middle and upper classes, while the corresponding movement in continental Europe and Latin America is known as Spiritism.
 
@@ -139,7 +139,7 @@ Scientific view
 
 The physician John Ferriar wrote "An Essay Towards a Theory of Apparitions" in 1813 in which he argued that sightings of ghosts were the result of optical illusions. Later the French physician Alexandre Jacques François Brière de Boismont published _On Hallucinations: Or, the Rational History of Apparitions, Dreams, Ecstasy, Magnetism, and Somnambulism_ in 1845 in which he claimed sightings of ghosts were the result of hallucinations.[74][75]
 
-Ball_lightning.png]]
+]]
 
 David Turner, a retired physical chemist, suggested that ball lightning could cause inanimate objects to move erratically.[76]
 
@@ -160,7 +160,7 @@ By religion
 
 Judaism and Christianity
 
-Witch_of_Endor_(Nikolay_Ge).jpg, depicting King Saul encountering the ghost of Samuel (1857)]]
+, depicting King Saul encountering the ghost of Samuel (1857)]]
 
 The Hebrew Bible contains several references to _owb_ (), which are in a few places akin to shades of classical mythology but mostly describing mediums in connection with necromancy and spirit-consulting, which are grouped with witchcraft and other forms of divination under the category of forbidden occult activities.[87] The most notable reference to a shade is in the First Book of Samuel,[88] in which a disguised King Saul has the Witch of Endor conduct a seance to summon the dead prophet Samuel. A similar term appearing throughout the scriptures is _repha'(im)_ (), which while describing the race of "giants" formerly inhabiting Canaan in many verses, also refer to (the spirits of) dead ancestors of Sheol (like shades) in many others such as in the Book of Isaiah.[89].
 
@@ -193,7 +193,7 @@ For the Igbo people, a man is simultaneously a physical and spiritual entity. Ho
 
 European folklore
 
-Banquo.jpg Seeing the Ghost of Banquo'' by Théodore Chassériau]]
+Seeing the Ghost of Banquo'' by Théodore Chassériau]]
 
 Belief in ghosts in European folklore is characterized by the recurring fear of "returning" or _revenant_ deceased who may harm the living. This includes the Scandinavian _gjenganger_, the Romanian _strigoi_, the Serbian _vampir_, the Greek _vrykolakas_, etc. In Scandinavian and Finnish tradition, ghosts appear in corporeal form, and their supernatural nature is given away by behavior rather than appearance. In fact, in many stories they are first mistaken for the living. They may be mute, appear and disappear suddenly, or leave no footprints or other traces.
 
@@ -219,7 +219,7 @@ There are many kinds of ghosts and similar supernatural entities that frequently
 
 Thailand
 
-XRF-krasue.jpg'', a Thai female ghost known as _Ap_ in Khmer]] Ghosts in Thailand are part of local folklore and have now become part of the popular culture of the country. Phraya Anuman Rajadhon was the first Thai scholar who seriously studied Thai folk beliefs and took notes on the nocturnal village spirits of Thailand. He established that, since such spirits were not represented in paintings or drawings, they were purely based on descriptions of popular orally transmitted traditional stories. Therefore, most of the contemporary iconography of ghosts such as Nang Tani, Nang Takian,[118] Krasue, Krahang,[119] Phi Hua Kat, Phi Pop, Phi Phong, Phi Phraya, and Mae Nak has its origins in Thai films that have now become classics.[120][121] The most feared spirit in Thailand is Phi Tai Hong, the ghost of a person who has died suddenly of a violent death.[122] The folklore of Thailand also includes the belief that sleep paralysis is caused by a ghost, Phi Am.
+'', a Thai female ghost known as _Ap_ in Khmer]] Ghosts in Thailand are part of local folklore and have now become part of the popular culture of the country. Phraya Anuman Rajadhon was the first Thai scholar who seriously studied Thai folk beliefs and took notes on the nocturnal village spirits of Thailand. He established that, since such spirits were not represented in paintings or drawings, they were purely based on descriptions of popular orally transmitted traditional stories. Therefore, most of the contemporary iconography of ghosts such as Nang Tani, Nang Takian,[118] Krasue, Krahang,[119] Phi Hua Kat, Phi Pop, Phi Phong, Phi Phraya, and Mae Nak has its origins in Thai films that have now become classics.[120][121] The most feared spirit in Thailand is Phi Tai Hong, the ghost of a person who has died suddenly of a violent death.[122] The folklore of Thailand also includes the belief that sleep paralysis is caused by a ghost, Phi Am.
 
 Tibet
 
@@ -227,7 +227,7 @@ There is widespread belief in ghosts in Tibetan culture. Ghosts are explicitly r
 
 Austronesia
 
-Paul_Gauguin-_Manao_tupapau_(The_Spirit_of_the_Dead_Keep_Watch).JPG'' by Paul Gauguin (1892)]] There are many Malay ghost myths, remnants of old animist beliefs that have been shaped by later Hindu, Buddhist, and Muslim influences in the modern states of Indonesia, Malaysia, and Brunei. Some ghost concepts such as the female vampires Pontianak and Penanggalan are shared throughout the region. Ghosts are a popular theme in modern Malaysian and Indonesian films. There are also many references to ghosts in Filipino culture, ranging from ancient legendary creatures such as the Manananggal and Tiyanak to more modern urban legends and horror films. The beliefs, legends and stories are as diverse as the people of the Philippines.
+'' by Paul Gauguin (1892)]] There are many Malay ghost myths, remnants of old animist beliefs that have been shaped by later Hindu, Buddhist, and Muslim influences in the modern states of Indonesia, Malaysia, and Brunei. Some ghost concepts such as the female vampires Pontianak and Penanggalan are shared throughout the region. Ghosts are a popular theme in modern Malaysian and Indonesian films. There are also many references to ghosts in Filipino culture, ranging from ancient legendary creatures such as the Manananggal and Tiyanak to more modern urban legends and horror films. The beliefs, legends and stories are as diverse as the people of the Philippines.
 
 There was widespread belief in ghosts in Polynesian culture, some of which persists today. After death, a person's ghost normally traveled to the sky world or the underworld, but some could stay on earth. In many Polynesian legends, ghosts were often actively involved in the affairs of the living. Ghosts might also cause sickness or even invade the body of ordinary people, to be driven out through strong medicines.[124]
 
@@ -235,7 +235,7 @@ East and Central Asia
 
 China
 
-ZhongKui-by-GongKai.jpg, the vanquisher of ghosts and evil beings, painted sometime before 1304 A.D. by Gong Kai]]
+, the vanquisher of ghosts and evil beings, painted sometime before 1304 A.D. by Gong Kai]]
 
 There are many references to ghosts in Chinese culture. Even Confucius said, "Respect ghosts and gods, but keep away from them."[125]
 
@@ -247,7 +247,7 @@ A recent article in the China Post stated that nearly eighty-seven percent of Ch
 
 Japan
 
-Kuniyoshi_The_Ghosts.jpg, _The Ghosts_, c. 1850]] are figures in Japanese folklore, analogous to Western legends of ghosts. The name consists of two kanji, 幽 (_yū_), meaning "faint" or "dim", and 霊 (_rei_), meaning "soul" or "spirit". Alternative names include 亡霊 (Bōrei) meaning ruined or departed spirit, 死霊 (Shiryō) meaning dead spirit, or the more encompassing 妖怪 (Yōkai) or お化け (Obake).
+, _The Ghosts_, c. 1850]] are figures in Japanese folklore, analogous to Western legends of ghosts. The name consists of two kanji, 幽 (_yū_), meaning "faint" or "dim", and 霊 (_rei_), meaning "soul" or "spirit". Alternative names include 亡霊 (Bōrei) meaning ruined or departed spirit, 死霊 (Shiryō) meaning dead spirit, or the more encompassing 妖怪 (Yōkai) or お化け (Obake).
 
 Like their Chinese and Western counterparts, they are thought to be spirits kept from a peaceful afterlife.
 
@@ -255,7 +255,7 @@ Americas
 
 Mexico
 
-Catrinas_2.jpg, one of the most popular figures of the _Day of the Dead_ celebrations in Mexico]] There is extensive and varied belief in ghosts in Mexican culture. The modern state of Mexico before the Spanish conquest was inhabited by diverse peoples such as the Maya and Aztec, and their beliefs have survived and evolved, combined with the beliefs of the Spanish colonists. The Day of the Dead incorporates pre-Columbian beliefs with Christian elements. Mexican literature and films include many stories of ghosts interacting with the living.
+, one of the most popular figures of the _Day of the Dead_ celebrations in Mexico]] There is extensive and varied belief in ghosts in Mexican culture. The modern state of Mexico before the Spanish conquest was inhabited by diverse peoples such as the Maya and Aztec, and their beliefs have survived and evolved, combined with the beliefs of the Spanish colonists. The Day of the Dead incorporates pre-Columbian beliefs with Christian elements. Mexican literature and films include many stories of ghosts interacting with the living.
 
 United States
 
@@ -282,7 +282,7 @@ Famous literary apparitions from this period are the ghosts of _A Christmas Caro
 
 Modern era (1920 to 1970)
 
-Brown_lady.jpg'', a claimed ghost photograph by Captain Hubert C. Provand. First published in _Country Life_ magazine, 1936]] Professional parapsychologists and "ghosts hunters", such as Harry Price, active in the 1920s and 1930s, and Peter Underwood, active in the 1940s and 1950s, published accounts of their experiences with ostensibly true ghost stories such as Price's _The Most Haunted House in England_, and Underwood's _Ghosts of Borley_ (both recounting experiences at Borley Rectory). The writer Frank Edwards delved into ghost stories in his books of his, like "Stranger than Science."
+'', a claimed ghost photograph by Captain Hubert C. Provand. First published in _Country Life_ magazine, 1936]] Professional parapsychologists and "ghosts hunters", such as Harry Price, active in the 1920s and 1930s, and Peter Underwood, active in the 1940s and 1950s, published accounts of their experiences with ostensibly true ghost stories such as Price's _The Most Haunted House in England_, and Underwood's _Ghosts of Borley_ (both recounting experiences at Borley Rectory). The writer Frank Edwards delved into ghost stories in his books of his, like "Stranger than Science."
 
 Children's benevolent ghost stories became popular, such as Casper the Friendly Ghost, created in the 1930s and appearing in comics, animated cartoons, and eventually a 1995 feature film.
 

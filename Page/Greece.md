@@ -18,7 +18,7 @@ History
 
 Prehistory and early history
 
-Entrance_to_the_treasure_of_Atreus.jpg (13th BC) in Mycenae]] The earliest evidence of the presence of human ancestors in the southern Balkans, dated to 270,000 BC, is to be found in the Petralona cave, in the Greek province of Macedonia.[5] All three stages of the stone age (Paleolithic, Mesolithic, and Neolithic) are represented in Greece, for example in the Franchthi Cave.[6] Neolithic settlements in Greece, dating from the 7th millennium BC,[7] are the oldest in Europe by several centuries, as Greece lies on the route via which farming spread from the Near East to Europe.[8] Minoan_fresco_depicting_a_bull_leaping_scene,_found_in_Knossos,_1600-1400_BC,_Heraklion_Archaeological_Museum,_Crete_(30547636456).jpg displaying the Minoan ritual of "bull leaping", found in Knossos]] Greece is home to the first advanced civilizations in Europe and is considered the birthplace of Western civilisation,[9][10][11][12] beginning with the Cycladic civilization on the islands of the Aegean Sea at around 3200 BC,[13] the Minoan civilization in Crete (2700–1500 BC),[14][15] and then the Mycenaean civilization on the mainland (1600–1100 BC).[16] These civilizations possessed writing, the Minoans writing in an undeciphered script known as Linear A, and the Mycenaeans in Linear B, an early form of Greek. The Mycenaeans gradually absorbed the Minoans, but collapsed violently around 1200 BC, during a time of regional upheaval known as the Bronze Age collapse.[17] This ushered in a period known as the Greek Dark Ages, from which written records are absent. Though the unearthed Linear B texts are too fragmentary for the reconstruction of the political landscape and can't support the existence of a larger state contemporary Hittite and Egyptian records suggest the presence of a single state under a "Great King" based in mainland Greece.[18][19]
+(13th BC) in Mycenae]] The earliest evidence of the presence of human ancestors in the southern Balkans, dated to 270,000 BC, is to be found in the Petralona cave, in the Greek province of Macedonia.[5] All three stages of the stone age (Paleolithic, Mesolithic, and Neolithic) are represented in Greece, for example in the Franchthi Cave.[6] Neolithic settlements in Greece, dating from the 7th millennium BC,[7] are the oldest in Europe by several centuries, as Greece lies on the route via which farming spread from the Near East to Europe.[8] displaying the Minoan ritual of "bull leaping", found in Knossos]] Greece is home to the first advanced civilizations in Europe and is considered the birthplace of Western civilisation,[9][10][11][12] beginning with the Cycladic civilization on the islands of the Aegean Sea at around 3200 BC,[13] the Minoan civilization in Crete (2700–1500 BC),[14][15] and then the Mycenaean civilization on the mainland (1600–1100 BC).[16] These civilizations possessed writing, the Minoans writing in an undeciphered script known as Linear A, and the Mycenaeans in Linear B, an early form of Greek. The Mycenaeans gradually absorbed the Minoans, but collapsed violently around 1200 BC, during a time of regional upheaval known as the Bronze Age collapse.[17] This ushered in a period known as the Greek Dark Ages, from which written records are absent. Though the unearthed Linear B texts are too fragmentary for the reconstruction of the political landscape and can't support the existence of a larger state contemporary Hittite and Egyptian records suggest the presence of a single state under a "Great King" based in mainland Greece.[18][19]
 
 Archaic and Classical period
 
@@ -26,39 +26,39 @@ upright=1.2 during the Archaic period (750–550 BC)]]
 
 The end of the Dark Ages is traditionally dated to 776 BC, the year of the first Olympic Games.[20] The _Iliad_ and the _Odyssey_, the foundational texts of Western literature, are believed to have been composed by Homer in the 7th or 8th centuries BC.[21][22] With the end of the Dark Ages, there emerged various kingdoms and city-states across the Greek peninsula, which spread to the shores of the Black Sea, Southern Italy ("Magna Graecia") and Asia Minor. These states and their colonies reached great levels of prosperity that resulted in an unprecedented cultural boom, that of classical Greece, expressed in architecture, drama, science, mathematics and philosophy. In 508 BC, Cleisthenes instituted the world's first democratic system of government in Athens.[23][24]
 
-The_Parthenon_in_Athens.jpg on the Acropolis of Athens, emblem of classical Greece.]]
+on the Acropolis of Athens, emblem of classical Greece.]]
 
 By 500 BC, the Persian Empire controlled the Greek city states in Asia Minor and Macedonia.[25] Attempts by some of the Greek city-states of Asia Minor to overthrow Persian rule failed, and Persia invaded the states of mainland Greece in 492 BC, but was forced to withdraw after a defeat at the Battle of Marathon in 490 BC. In response, the Greek city-states formed the Hellenic League in 481 BC, led by Sparta, which was the first historically recorded union of Greek States since the mythical union of the Trojan War.[26][27] A second invasion by the Persians followed in 480 BC. Following decisive Greek victories in 480 and 479 BC at Salamis, Plataea, and Mycale, the Persians were forced to withdraw for a second time, marking their eventual withdrawal from all of their European territories. Led by Athens and Sparta, the Greek victories in the Greco-Persian Wars are considered a pivotal moment in world history,[28] as the 50 years of peace that followed are known as the Golden Age of Athens, the seminal period of ancient Greek development that laid many of the foundations of Western civilization.
 
-Napoli_BW_2013-05-16_16-24-01.jpg, whose conquests led to the Hellenistic Age.]]
+, whose conquests led to the Hellenistic Age.]]
 
 Lack of political unity within Greece resulted in frequent conflict between Greek states. The most devastating intra-Greek war was the Peloponnesian War (431–404 BC), won by Sparta and marking the demise of the Athenian Empire as the leading power in ancient Greece. Both Athens and Sparta were later overshadowed by Thebes and eventually Macedon, with the latter uniting most of the city-states of the Greek hinterland in the League of Corinth (also known as the _Hellenic League_ or _Greek League_) under the control of Phillip II.[29] Despite this development, the Greek world remained largely fragmented and would not be united under a single power until the Roman years.[30] Sparta did not join the League and actively fought against it, raising an army led by Agis III to secure the city-states of Crete for Persia.[31]
 
-MacedonEmpire.jpg'']]
+'']]
 
 Following the assassination of Phillip II, his son Alexander III ("The Great") assumed the leadership of the League of Corinth and launched an invasion of the Persian Empire with the combined forces of the League in 334 BC. Undefeated in battle, Alexander had conquered the Persian Empire in its entirety by 330 BC. By the time of his death in 323 BC, he had created one of the largest empires in history, stretching from Greece to India. His empire split into several kingdoms upon his death, the most famous of which were the Seleucid Empire, Ptolemaic Egypt, the Greco-Bactrian Kingdom, and the Indo-Greek Kingdom. Many Greeks migrated to Alexandria, Antioch, Seleucia, and the many other new Hellenistic cities in Asia and Africa.[32] Although the political unity of Alexander's empire could not be maintained, it resulted in the Hellenistic civilization and spread the Greek language and Greek culture in the territories conquered by Alexander.[33] Greek science, technology, and mathematics are generally considered to have reached their peak during the Hellenistic period.[34]
 
 Hellenistic and Roman periods (323 BC – 4th century AD)
 
-0142_-_Archaeological_Museum,_Athens_-_Antikythera_mechanism_-_Photo_by_Giovanni_Dall'Orto,_Nov_11_2009.jpg (c. 100 BC) is considered to be the first known mechanical analog computer (National Archaeological Museum, Athens).]] Facade_of_Philip_II_tomb_Vergina_Greece.jpg]] After a period of confusion following Alexander's death, the Antigonid dynasty, descended from one of Alexander's generals, established its control over Macedon and most of the Greek city-states by 276 BC.[35] From about 200 BC the Roman Republic became increasingly involved in Greek affairs and engaged in a series of wars with Macedon.[36] Macedon's defeat at the Battle of Pydna in 168 BC signalled the end of Antigonid power in Greece.[37] In 146 BC, Macedonia was annexed as a province by Rome, and the rest of Greece became a Roman protectorate.[38][39]
+(c. 100 BC) is considered to be the first known mechanical analog computer (National Archaeological Museum, Athens).]] ]] After a period of confusion following Alexander's death, the Antigonid dynasty, descended from one of Alexander's generals, established its control over Macedon and most of the Greek city-states by 276 BC.[35] From about 200 BC the Roman Republic became increasingly involved in Greek affairs and engaged in a series of wars with Macedon.[36] Macedon's defeat at the Battle of Pydna in 168 BC signalled the end of Antigonid power in Greece.[37] In 146 BC, Macedonia was annexed as a province by Rome, and the rest of Greece became a Roman protectorate.[38][39]
 
 The process was completed in 27 BC when the Roman Emperor Augustus annexed the rest of Greece and constituted it as the senatorial province of Achaea.[40] Despite their military superiority, the Romans admired and became heavily influenced by the achievements of Greek culture, hence Horace's famous statement: _Graecia capta ferum victorem cepit_ ("Greece, although captured, took its wild conqueror captive").[41] The epics of Homer inspired the Aeneid of Virgil, and authors such as Seneca the younger wrote using Greek styles. Roman heroes such as Scipio Africanus, tended to study philosophy and regarded Greek culture and science as an example to be followed. Similarly, most Roman emperors maintained an admiration for things Greek in nature. The Roman Emperor Nero visited Greece in AD 66, and performed at the Ancient Olympic Games, despite the rules against non-Greek participation. Hadrian was also particularly fond of the Greeks. Before becoming emperor, he served as an eponymous archon of Athens.
 
-GR-acropolis-herodes-odeon.jpg in Athens, built in 161 AD]]
+in Athens, built in 161 AD]]
 
 Greek-speaking communities of the Hellenised East were instrumental in the spread of early Christianity in the 2nd and 3rd centuries,[42] and Christianity's early leaders and writers (notably St Paul) were mostly Greek-speaking, though generally not from Greece itself.[43] The New Testament was written in Greek, and some of its sections (Corinthians, Thessalonians, Philippians, Revelation of St. John of Patmos) attest to the importance of churches in Greece in early Christianity. Nevertheless, much of Greece clung tenaciously to paganism, and ancient Greek religious practices were still in vogue in the late 4th century AD,[44] when they were outlawed by the Roman emperor Theodosius I in 391–392.[45] The last recorded Olympic games were held in 393,[46] and many temples were destroyed or damaged in the century that followed.[47] In Athens and rural areas, paganism is attested well into the sixth century AD[48] and even later.[49] The closure of the Neoplatonic Academy of Athens by the Emperor Justinian in 529 is considered by many to mark the end of antiquity, although there is evidence that the Academy continued its activities for some time after that.[50] Some remote areas such as the southeastern Peloponnese remained pagan until well into the 10th century AD.[51]
 
 Medieval period (4th – 15th century)
 
-Храм_Святой_Софии_-_panoramio_(1).jpg (8th century), one of the 15 UNESCO's Paleochristian and Byzantine monuments of the city]]
+(8th century), one of the 15 UNESCO's Paleochristian and Byzantine monuments of the city]]
 
 The Roman Empire in the east, following the fall of the Empire in the west in the 5th century, is conventionally known as the Byzantine Empire (but was simply called "Roman Empire" in its own time) and lasted until 1453. With its capital in Constantinople, its language and literary culture was Greek and its religion was predominantly Eastern Orthodox Christian.[52]
 
-From the 4th century, the Empire's Balkan territories, including Greece, suffered from the dislocation of barbarian invasions. The raids and devastation of the Goths and Huns in the 4th and 5th centuries and the Slavic invasion of Greece in the 7th century resulted in a dramatic collapse in imperial authority in the Greek peninsula. Following the Slavic invasion, the imperial government retained formal control of only the islands and coastal areas, particularly the densely populated walled cities such as Athens, Corinth and Thessalonica, while some mountainous areas in the interior held out on their own and continued to recognize imperial authority. Outside of these areas, a limited amount of Slavic settlement is generally thought to have occurred, although on a much smaller scale than previously thought.[53] However, the view that Greece in late antiquity underwent a crisis of decline, fragmentation and depopulation is now considered outdated, as Greek cities show a high degree of institutional continuity and prosperity between the 4th and 6th centuries AD (and possibly later as well). In the early 6th century, Greece had approximately 80 cities according to the Synecdemus chronicle, and the period from the 4th to the 7th century AD is considered one of high prosperity not just in Greece but in the entire Eastern Mediterranean.[54] Map_Byzantine_Empire_1025-en.svg in 1025]]
+From the 4th century, the Empire's Balkan territories, including Greece, suffered from the dislocation of barbarian invasions. The raids and devastation of the Goths and Huns in the 4th and 5th centuries and the Slavic invasion of Greece in the 7th century resulted in a dramatic collapse in imperial authority in the Greek peninsula. Following the Slavic invasion, the imperial government retained formal control of only the islands and coastal areas, particularly the densely populated walled cities such as Athens, Corinth and Thessalonica, while some mountainous areas in the interior held out on their own and continued to recognize imperial authority. Outside of these areas, a limited amount of Slavic settlement is generally thought to have occurred, although on a much smaller scale than previously thought.[53] However, the view that Greece in late antiquity underwent a crisis of decline, fragmentation and depopulation is now considered outdated, as Greek cities show a high degree of institutional continuity and prosperity between the 4th and 6th centuries AD (and possibly later as well). In the early 6th century, Greece had approximately 80 cities according to the Synecdemus chronicle, and the period from the 4th to the 7th century AD is considered one of high prosperity not just in Greece but in the entire Eastern Mediterranean.[54] in 1025]]
 
 Until the 8th century almost all of modern Greece was under the jurisdiction of the Holy See of Rome according to the system of Pentarchy. Byzantine Emperor Leo III moved the border of the Patriarchate of Constantinople westward and northward in the 8th century.[55]
 
-The Byzantine recovery of lost provinces began toward the end of the 8th century and most of the Greek peninsula came under imperial control again, in stages, during the 9th century.[56] This process was facilitated by a large influx of Greeks from Sicily and Asia Minor to the Greek peninsula, while at the same time many Slavs were captured and re-settled in Asia Minor and the few that remained were assimilated. During the 11th and 12th centuries the return of stability resulted in the Greek peninsula benefiting from strong economic growth – much stronger than that of the Anatolian territories of the Empire.[57] During that time, the Greek Orthodox Church was also instrumental in the spread of Greek ideas to the wider Orthodox world.[58] Palace_of_the_Grand_Master_of_the_Knights_of_Rhodes_(9451928431).jpg, administrative centre of the Knights Hospitaller]] Following the Fourth Crusade and the fall of Constantinople to the "Latins" in 1204 mainland Greece was split between the Greek Despotate of Epirus (a Byzantine successor state) and French rule[59] (known as the _Frankokratia_), while some islands came under Venetian rule.[60] The re-establishment of the Byzantine imperial capital in Constantinople in 1261 was accompanied by the empire's recovery of much of the Greek peninsula, although the Frankish Principality of Achaea in the Peloponnese and the rival Greek Despotate of Epirus in the north both remained important regional powers into the 14th century, while the islands remained largely under Genoese and Venetian control.[61] During the Paleologi dynasty (1261–1453) a new era of Greek patriotism emerged accompanied by a turning back to ancient Greece.[62][63][64]
+The Byzantine recovery of lost provinces began toward the end of the 8th century and most of the Greek peninsula came under imperial control again, in stages, during the 9th century.[56] This process was facilitated by a large influx of Greeks from Sicily and Asia Minor to the Greek peninsula, while at the same time many Slavs were captured and re-settled in Asia Minor and the few that remained were assimilated. During the 11th and 12th centuries the return of stability resulted in the Greek peninsula benefiting from strong economic growth – much stronger than that of the Anatolian territories of the Empire.[57] During that time, the Greek Orthodox Church was also instrumental in the spread of Greek ideas to the wider Orthodox world.[58] , administrative centre of the Knights Hospitaller]] Following the Fourth Crusade and the fall of Constantinople to the "Latins" in 1204 mainland Greece was split between the Greek Despotate of Epirus (a Byzantine successor state) and French rule[59] (known as the _Frankokratia_), while some islands came under Venetian rule.[60] The re-establishment of the Byzantine imperial capital in Constantinople in 1261 was accompanied by the empire's recovery of much of the Greek peninsula, although the Frankish Principality of Achaea in the Peloponnese and the rival Greek Despotate of Epirus in the north both remained important regional powers into the 14th century, while the islands remained largely under Genoese and Venetian control.[61] During the Paleologi dynasty (1261–1453) a new era of Greek patriotism emerged accompanied by a turning back to ancient Greece.[62][63][64]
 
 As such prominent personalities at the time also proposed changing the imperial title to "Emperor of the Hellenes",[65][66] and, in late fourteenth century, the emperor was frequently referred to as the "Emperor of the Hellenes".[67] Similarly, in several international treaties of that time the Byzantine emperor is styled as "Imperator Graecorum".[68]
 
@@ -66,7 +66,7 @@ In the 14th century, much of the Greek peninsula was lost by the Byzantine Empir
 
 Venetian possessions and Ottoman rule (15th century – 1821)
 
-Angelokastro_(Corfu).jpg castle of Angelokastro successfully repulsed the Ottomans during the First Great Siege of Corfu in 1537, the siege of 1571, and the Second Great Siege of Corfu in 1716, causing them to abandon their plans to conquer Corfu.[73]]]
+castle of Angelokastro successfully repulsed the Ottomans during the First Great Siege of Corfu in 1537, the siege of 1571, and the Second Great Siege of Corfu in 1716, causing them to abandon their plans to conquer Corfu.[73]]]
 
 While most of mainland Greece and the Aegean islands was under Ottoman control by the end of the 15th century, Cyprus and Crete remained Venetian territory and did not fall to the Ottomans until 1571 and 1670 respectively. The only part of the Greek-speaking world that escaped long-term Ottoman rule was the Ionian Islands, which remained Venetian until their capture by the First French Republic in 1797, then passed to the United Kingdom in 1809 until their unification with Greece in 1864.
 
@@ -74,7 +74,7 @@ While some Greeks in the Ionian Islands and Constantinople lived in prosperity, 
 
 The Greek Orthodox Church and the Ecumenical Patriarchate of Constantinople were considered by the Ottoman governments as the ruling authorities of the entire Orthodox Christian population of the Ottoman Empire, whether ethnically Greek or not. Although the Ottoman state did not force non-Muslims to convert to Islam, Christians faced several types of discrimination intended to highlight their inferior status in the Ottoman Empire. Discrimination against Christians, particularly when combined with harsh treatment by local Ottoman authorities, led to conversions to Islam, if only superficially. In the 19th century, many "crypto-Christians" returned to their old religious allegiance.
 
-White_Tower_and_Beach_front.jpg, one of the best-known Ottoman structures remaining in Greece.]]
+, one of the best-known Ottoman structures remaining in Greece.]]
 
 The nature of Ottoman administration of Greece varied, though it was invariably arbitrary and often harsh. Some cities had governors appointed by the Sultan, while others (like Athens) were self-governed municipalities. Mountainous regions in the interior and many islands remained effectively autonomous from the central Ottoman state for many centuries.
 
@@ -86,7 +86,7 @@ Modern period
 
 Greek War of Independence (1821–1832)
 
-The_sortie_of_Messologhi_by_Theodore_Vryzakis.jpg'', depicting the Third Siege of Missolonghi, painted by Theodoros Vryzakis.]] Naval_Battle_of_Navarino_by_Garneray.jpg in 1827 secured Greek independence.]]
+'', depicting the Third Siege of Missolonghi, painted by Theodoros Vryzakis.]] in 1827 secured Greek independence.]]
 
 In the late eighteenth century, an increase in secular learning during the Modern Greek Enlightenment led to the revival among Greeks of the diaspora of the notion of a Greek nation tracing its existence to ancient Greece, distinct from the other Orthodox peoples, and having a right to political autonomy. One of the organizations formed in this intellectual milieu was the Filiki Eteria, a secret organization formed by merchants in Odessa in 1814.[78] Appropriating a long-standing tradition of Orthodox messianic prophecy aspiring to the resurrection of the eastern Roman empire and creating the impression they had the backing of Tsarist Russia, they managed amidst a crisis of Ottoman trade, from 1815 onwards, to engage traditional strata of the Greek Orthodox world in their liberal nationalist cause.[79] The Filiki Eteria planned to launch revolution in the Peloponnese, the Danubian Principalities and Constantinople. The first of these revolts began on 6 March 1821 in the Danubian Principalities under the leadership of Alexandros Ypsilantis, but it was soon put down by the Ottomans. The events in the north spurred the Greeks of the Peloponnese into action and on 17 March 1821 the Maniots declared war on the Ottomans.[80]
 
@@ -98,7 +98,7 @@ After years of negotiation, three great powers, France, Russian Empire, and the 
 
 Kingdom of Greece
 
-Peter_von_Hess_-_The_Entry_of_King_Othon_of_Greece_in_Athens_-_WGA11387.jpg in Athens'', painted by Peter von Hess in 1839.]]
+in Athens'', painted by Peter von Hess in 1839.]]
 
 In 1827, Ioannis Kapodistrias, from Corfu, was chosen by the Third National Assembly at Troezen as the first governor of the First Hellenic Republic. Kapodistrias established a series of state, economic and military institutions. Soon tensions appeared between him and local interests. Following his assassination in 1831 and the subsequent London conference a year later, the Great Powers of Britain, France and Russia installed Bavarian Prince Otto von Wittelsbach as monarch.[85] Otto's reign was despotic, and in its first 11 years of independence Greece was ruled by a Bavarian oligarchy led by Joseph Ludwig von Armansperg as Prime Minister and, later, by Otto himself, who held the title of both King and Premier.[86] Throughout this period Greece remained under the influence of its three protecting Great Powers, France, Russia, and the United Kingdom, as well as Bavaria.[87] In 1843 an uprising forced the king to grant a constitution and a representative assembly.
 
@@ -106,7 +106,7 @@ Despite the absolutism of Otto's reign, the early years proved instrumental in c
 
 Otto was deposed in the 23 October 1862 Revolution. Multiple causes led to his deposition and exile, including the Bavarian-dominated government, heavy taxation, and a failed attempt to annex Crete from the Ottoman Empire.[92] The catalyst for the revolt was Otto's dismissal of Konstantinos Kanaris from the Premiership.[93] A year later, he was replaced by Prince Wilhelm (William) of Denmark, who took the name George I and brought with him the Ionian Islands as a coronation gift from Britain. A new Constitution in 1864 changed Greece's form of government from constitutional monarchy to the more democratic crowned republic.[94][95] In 1875 the concept of parliamentary majority as a requirement for the formation of a government was introduced by Charilaos Trikoupis,[96] curbing the power of the monarchy to appoint minority governments of its preference.
 
-Territorial_Expansion_of_Greece_from_1832–1947.gif from 1832 to 1947.]]
+from 1832 to 1947.]]
 
 Corruption, coupled with Trikoupis' increased spending to fund infrastructure projects like the Corinth Canal, overtaxed the weak Greek economy and forced the declaration of public insolvency in 1893. Greece also accepted the imposition of an International Financial Control authority to pay off the country's debtors. Another political issue in 19th-century Greece was uniquely Greek: the language question. The Greek people spoke a form of Greek called Demotic. Many of the educated elite saw this as a peasant dialect and were determined to restore the glories of Ancient Greek.
 
@@ -118,11 +118,11 @@ Greeks in Crete continued to stage regular revolts, and in 1897, the Greek gover
 
 Expansion, disaster, and reconstruction
 
-Greek_Parade_Paris_1919.jpg Victory Parade in Arc de Triomphe, Paris, July 1919.]]
+Victory Parade in Arc de Triomphe, Paris, July 1919.]]
 
 Amidst general dissatisfaction with the seeming inertia and unattainability of national aspirations under the premiership of the cautious reformist Theotokis, a group of military officers organised a coup in August 1909 and shortly thereafter called to Athens Cretan politician Eleftherios Venizelos, who conveyed a vision of national regeneration. After winning two elections and becoming Prime Minister in 1910,[98] Venizelos initiated wide-ranging fiscal, social, and constitutional reforms, reorganised the military, made Greece a member of the Balkan League, and led the country through the Balkan Wars. By 1913, Greece's territory and population had almost doubled, annexing Crete, Epirus, and Macedonia. In the following years, the struggle between King Constantine I and charismatic Venizelos over the country's foreign policy on the eve of First World War dominated the country's political scene, and divided the country into two opposing groups. During parts of the WW1, Greece had two governments: A royalist pro-German one in Athens and a Venizelist pro-Entente one in Thessaloniki. The two governments were united in 1917, when Greece officially entered the war on the side of the Entente.
 
-Greece_in_the_Treaty_of_Sèvres.jpg, when the _Megali Idea_ seemed close to fulfillment, featuring Eleftherios Venizelos as its supervising genius.]]
+, when the _Megali Idea_ seemed close to fulfillment, featuring Eleftherios Venizelos as its supervising genius.]]
 
 In the aftermath of World War I, Greece attempted further expansion into Asia Minor, a region with a large native Greek population at the time, but was defeated in the Greco-Turkish War of 1919–1922, contributing to a massive flight of Asia Minor Greeks.[99][100] These events overlapped, with both happening during the Greek genocide (1914–1922),[101][102][103][104] a period during which, according to various sources,[105] Ottoman and Turkish officials contributed to the death of several hundred thousand Asia Minor Greeks, along with similar numbers of Assyrians and a rather larger number of Armenians. The resultant Greek exodus from Asia Minor was made permanent, and expanded, in an official Population exchange between Greece and Turkey. The exchange was part of the terms of the Treaty of Lausanne which ended the war.[106]
 
@@ -134,14 +134,14 @@ Dictatorship, World War II, and reconstruction
 
 An agreement between Prime Minister Ioannis Metaxas and the head of state George II followed in 1936, which installed Metaxas as the head of a dictatorial regime known as the 4th of August Regime, inaugurating a period of authoritarian rule that would last, with short breaks, until 1974.[108] Although a dictatorship, Greece remained on good terms with Britain and was not allied with the Axis.
 
-Triple_Occupation_of_Greece.png. Blue indicates the Italian, red the German and green the Bulgarian.
+. Blue indicates the Italian, red the German and green the Bulgarian.
 (in dark blue the Dodecanese, Italian possession since 1912)]]
 
 On 28 October 1940, Fascist Italy demanded the surrender of Greece, but the Greek administration refused, and, in the following Greco-Italian War, Greece repelled Italian forces into Albania, giving the Allies their first victory over Axis forces on land. The Greek struggle and victory against the Italians received exuberant praise at the time.[109][110] Most prominent is the quote attributed to Winston Churchill: "Hence we will not say that Greeks fight like heroes, but we will say that heroes fight like Greeks."[111] French general Charles de Gaulle was among those who praised the fierceness of the Greek resistance. In an official notice released to coincide with the Greek national celebration of the Day of Independence, De Gaulle expressed his admiration for the Greek resistance:
 
   In the name of the captured yet still alive French people, France wants to send her greetings to the Greek people who are fighting for their freedom. The 25 March 1941 finds Greece in the peak of their heroic struggle and in the top of their glory. Since the Battle of Salamis, Greece had not achieved the greatness and the glory which today holds.[112]
 
-The country would eventually fall to urgently dispatched German forces during the Battle of Greece, despite the fierce Greek resistance, particularly in the Battle of the Metaxas Line. Adolf Hitler himself recognised the bravery and the courage of the Greek army, stating in his address to the Reichstag on 11 December 1941, that: "Historical justice obliges me to state that of the enemies who took up positions against us, the Greek soldier particularly fought with the highest courage. He capitulated only when further resistance had become impossible and useless."[113] Αθηναίοι_γιορτάζουν_την_απελευθέρωση_της_πόλης_τους,_Οκτώβριος_1944.jpg celebrate the liberation from the Axis powers, October 1944. Postwar Greece would soon experience a civil war and political polarization.]]
+The country would eventually fall to urgently dispatched German forces during the Battle of Greece, despite the fierce Greek resistance, particularly in the Battle of the Metaxas Line. Adolf Hitler himself recognised the bravery and the courage of the Greek army, stating in his address to the Reichstag on 11 December 1941, that: "Historical justice obliges me to state that of the enemies who took up positions against us, the Greek soldier particularly fought with the highest courage. He capitulated only when further resistance had become impossible and useless."[113] celebrate the liberation from the Axis powers, October 1944. Postwar Greece would soon experience a civil war and political polarization.]]
 
 The Nazis proceeded to administer Athens and Thessaloniki, while other regions of the country were given to Nazi Germany's partners, Fascist Italy and Bulgaria. The occupation brought about terrible hardships for the Greek civilian population. Over 100,000 civilians died of starvation during the winter of 1941–1942, tens of thousands more died because of reprisals by Nazis and collaborators, the country's economy was ruined, and the great majority of Greek Jews were deported and murdered in Nazi concentration camps.[114][115] The Greek Resistance, one of the most effective resistance movements in Europe, fought vehemently against the Nazis and their collaborators. The German occupiers committed numerous atrocities, mass executions, and wholesale slaughter of civilians and destruction of towns and villages in reprisals. In the course of the concerted anti-guerilla campaign, hundreds of villages were systematically torched and almost 1,000,000 Greeks left homeless.[116] In total, the Germans executed some 21,000 Greeks, the Bulgarians 40,000, and the Italians 9,000.[117]
 
@@ -155,7 +155,7 @@ King Constantine II's dismissal of George Papandreou's centrist government in Ju
 
 Third Hellenic Republic
 
-Accession_of_Greece_to_the_European_Union.png by Constantine Karamanlis of the documents for the accession of Greece to the European Communities in 1979.]]
+by Constantine Karamanlis of the documents for the accession of Greece to the European Communities in 1979.]]
 
 The former prime minister Konstantinos Karamanlis was invited back from Paris where he had lived in self-exile since 1963, marking the beginning of the Metapolitefsi era. The first multiparty elections since 1964 were held on the first anniversary of the Polytechnic uprising. A democratic and republican constitution was promulgated on 11 June 1975 following a referendum which chose to not restore the monarchy.
 
@@ -166,7 +166,7 @@ The country adopted the euro in 2001 and successfully hosted the 2004 Summer Oly
 
 Geography and climate
 
-Shipwreck_Beach_-_Western_coast_of_Zakynthos,_Greece_(12).jpg (_shipwreck_) bay, Zakynthos island]]
+(_shipwreck_) bay, Zakynthos island]]
 
 Located in Southern[124] and Southeast Europe,[125] Greece consists of a mountainous, peninsular mainland jutting out into the sea at the southern end of the Balkans, ending at the Peloponnese peninsula (separated from the mainland by the canal of the Isthmus of Corinth) and strategically located at the crossroads of Europe, Asia, and Africa. Due to its highly indented coastline and numerous islands, Greece has the 11th longest coastline in the world with ;[126] its land boundary is . The country lies approximately between latitudes 34° and 42° N, and longitudes 19° and 30° E, with the extreme points being:[127]
 
@@ -191,7 +191,7 @@ The Greek islands are traditionally grouped into the following clusters: the Arg
 
 Climate
 
-Petra_Olympus.jpeg is the highest mountain in Greece and mythical abode of the Gods of Olympus]]
+is the highest mountain in Greece and mythical abode of the Gods of Olympus]]
 
 The climate of Greece is primarily Mediterranean, featuring mild, wet winters and hot, dry summers. This climate occurs at all coastal locations, including Athens, the Cyclades, the Dodecanese, Crete, the Peloponnese, the Ionian Islands and parts of the Central Continental Greece region. The Pindus mountain range strongly affects the climate of the country, as areas to the west of the range are considerably wetter on average (due to greater exposure to south-westerly systems bringing in moisture) than the areas lying to the east of the range (due to a rain shadow effect).
 
@@ -204,7 +204,7 @@ Phytogeographically, Greece belongs to the Boreal Kingdom and is shared between 
 
 Politics
 
-Hellenic_Parliament_from_high_above.jpg (Old Royal Palace) in central Athens.]] Kapodistrias2.jpg, first governor, founder of the modern Greek State, and distinguished European diplomat]]
+(Old Royal Palace) in central Athens.]] , first governor, founder of the modern Greek State, and distinguished European diplomat]]
 
 Greece is a unitary parliamentary republic.[131] The nominal head of state is the President of the Republic, who is elected by the Parliament for a five-year term.[132] The current Constitution was drawn up and adopted by the Fifth Revisionary Parliament of the Hellenes and entered into force in 1975 after the fall of the military junta of 1967–1974. It has been revised three times since, in 1986, 2001 and 2008. The Constitution, which consists of 120 articles, provides for a separation of powers into executive, legislative, and judicial branches, and grants extensive specific guarantees (further reinforced in 2001) of civil liberties and social rights. Women's suffrage was guaranteed with an amendment to the 1952 Constitution.
 
@@ -216,7 +216,7 @@ According to a 2016 report by the OECD, Greeks display a moderate level of civic
 
 Political parties
 
-Kyriakos_Mitsotakis_(cropped).jpg, Prime Minister since 2019]]
+, Prime Minister since 2019]]
 
 Since the restoration of democracy, the Greek party system was dominated by the liberal-conservative New Democracy (ND) and the social-democratic Panhellenic Socialist Movement (PASOK). Other significant parties include the Communist Party of Greece (KKE), the Coalition of the Radical Left (Syriza) the Popular Orthodox Rally (LAOS) and the Popular Association – Golden Dawn.
 
@@ -227,8 +227,6 @@ The coalition government led the country to the parliamentary elections of May 2
 Syriza has since overtaken PASOK as the main party of the centre-left .[148] Alexis Tsipras led Syriza to victory in the general election held on 25 January 2015, falling short of an outright majority in Parliament by just two seats. The following morning, Tsipras reached an agreement with Independent Greeks party to form a coalition, and he was sworn in as Prime Minister of Greece. Tsipras called snap elections in August 2015, resigning from his post, which led to a month-long caretaker administration headed by judge Vassiliki Thanou-Christophilou, Greece's first female prime minister. In the September 2015 general election, Tsipras led Syriza to another victory, winning 145 out of 300 seats and re-forming the coalition with the Independent Greeks. However, he was defeated in the July 2019 general election by Kyriakos Mitsotakis who leads New Democracy.
 
 Foreign relations
-
-Foreign_relations_of_Greece.svg
 
 Greece's foreign policy is conducted through the Ministry of Foreign Affairs and its head, the Minister for Foreign Affairs. The current minister is Nikos Dendias. According to the official website, the main aims of the Ministry for Foreign Affairs are to represent Greece before other states and international organizations;[149] safeguarding the interests of the Greek state and of its citizens abroad;[150] the promotion of Greek culture;[151] the fostering of closer relations with the Greek diaspora;[152] and the promotion of international cooperation.[153] Additionally, due to its political and geographical proximity to Europe, Asia, the Middle East and Africa, Greece is a country of significant geostrategic importance and is considered to be a middle power[154] and has developed a regional policy to help promote peace and stability in the Balkans, the Mediterranean, and the Middle East.[155]
 
@@ -260,46 +258,44 @@ Administrative divisions
 
 Since the Kallikratis programme reform entered into effect on 1 January 2011, Greece has consisted of thirteen regions subdivided into a total of 325 municipalities. The 54 old prefectures and prefecture-level administrations have been largely retained as _sub-units_ of the regions. Seven decentralised administrations group one to three regions for administrative purposes on a regional basis. There is also one autonomous area, Mount Athos (, "Holy Mountain"), which borders the region of Central Macedonia.
 
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| Map                                | No.                       | Region       | Capital    | Area (km²)     | Area (sq. mi.) | Population[161] | GDP (bn)[162] |
-+====================================+===========================+==============+============+================+================+=================+===============+
-| Peripheries_of_Greece_numbered.svg | 1                         | Attica       | Athens     | 3,808.10       | 1,470.32       | 3,828,434       | €83.469       |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| 2                                  | Central Greece            | Lamia        | 15,549.31  | 6,003.62       | 547,390        | €7.926          |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| 3                                  | Central Macedonia         | Thessaloniki | 18,810.52  | 7,262.78       | 1,882,108      | €23.850         |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| 4                                  | Crete                     | Heraklion    | 8,259      | 3,189          | 623,065        | €8.654          |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| 5                                  | East Macedonia and Thrace | Komotini     | 14,157.76  | 5,466.34       | 608,182        | €6.709          |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| 6                                  | Epirus                    | Ioannina     | 9,203.22   | 3,553.38       | 336,856        | €3.843          |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| 7                                  | Ionian Islands            | Corfu        | 2,306.94   | 890.71         | 207,855        | €3.064          |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| 8                                  | North Aegean              | Mytilene     | 3,835.91   | 1,481.05       | 199,231        | €2.412          |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| 9                                  | Peloponnese               | Tripoli      | 15,489.96  | 5,980.71       | 577,903        | €7.683          |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| 10                                 | South Aegean              | Ermoupoli    | 5,285.99   | 2,040.93       | 309,015        | €5.888          |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| 11                                 | Thessaly                  | Larissa      | 14,036.64  | 5,419.58       | 732,762        | €9.006          |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| 12                                 | West Greece               | Patras       | 11,350.18  | 4,382.33       | 679,796        | €7.847          |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| 13                                 | West Macedonia            | Kozani       | 9,451      | 3,649          | 283,689        | €3.849          |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| No.                                | Autonomous state          | Capital      | Area (km²) | Area (sq. mi.) | Population     | GDP (bn)        |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
-| (14)                               | Mount Athos               | Karyes       | 390        | 151            | 1,830          |                 |               |
-+------------------------------------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| Map  | No.                       | Region       | Capital    | Area (km²)     | Area (sq. mi.) | Population[161] | GDP (bn)[162] |
++======+===========================+==============+============+================+================+=================+===============+
+|      | 1                         | Attica       | Athens     | 3,808.10       | 1,470.32       | 3,828,434       | €83.469       |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| 2    | Central Greece            | Lamia        | 15,549.31  | 6,003.62       | 547,390        | €7.926          |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| 3    | Central Macedonia         | Thessaloniki | 18,810.52  | 7,262.78       | 1,882,108      | €23.850         |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| 4    | Crete                     | Heraklion    | 8,259      | 3,189          | 623,065        | €8.654          |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| 5    | East Macedonia and Thrace | Komotini     | 14,157.76  | 5,466.34       | 608,182        | €6.709          |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| 6    | Epirus                    | Ioannina     | 9,203.22   | 3,553.38       | 336,856        | €3.843          |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| 7    | Ionian Islands            | Corfu        | 2,306.94   | 890.71         | 207,855        | €3.064          |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| 8    | North Aegean              | Mytilene     | 3,835.91   | 1,481.05       | 199,231        | €2.412          |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| 9    | Peloponnese               | Tripoli      | 15,489.96  | 5,980.71       | 577,903        | €7.683          |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| 10   | South Aegean              | Ermoupoli    | 5,285.99   | 2,040.93       | 309,015        | €5.888          |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| 11   | Thessaly                  | Larissa      | 14,036.64  | 5,419.58       | 732,762        | €9.006          |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| 12   | West Greece               | Patras       | 11,350.18  | 4,382.33       | 679,796        | €7.847          |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| 13   | West Macedonia            | Kozani       | 9,451      | 3,649          | 283,689        | €3.849          |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| No.  | Autonomous state          | Capital      | Area (km²) | Area (sq. mi.) | Population     | GDP (bn)        |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
+| (14) | Mount Athos               | Karyes       | 390        | 151            | 1,830          |                 |               |
++------+---------------------------+--------------+------------+----------------+----------------+-----------------+---------------+
 
 
 Economy
 
 Introduction
-
-Greece_Export_Treemap.jpg
 
 According to World Bank statistics for the year 2013, the economy of Greece is the 43rd largest by nominal gross domestic product at $242 billion[163] and 52nd largest by purchasing power parity (PPP) at $284 billion.[164] Additionally, Greece is the 15th largest economy in the 27-member European Union.[165] In terms of per capita income, Greece is ranked 38th or 40th in the world at $21,910 and $25,705 for nominal GDP and PPP respectively. The Greek economy is classified as advanced[166][167][168][169][170] and high-income.[171][172]
 
@@ -331,13 +327,11 @@ Greece's bailouts successfully ended (as declared) on August 20, 2018.[241]
 
 Agriculture
 
-Zante_currant_drying_in_Tsilivi.jpg on Zakynthos]] In 2010, Greece was the European Union's largest producer of cotton (183,800 tons) and pistachios (8,000 tons)[242] and ranked second in the production of rice (229,500 tons)[243] and olives (147,500 tons),[244] third in the production of figs (11,000 tons),[245] almonds (44,000 tons),[246] tomatoes (1,400,000 tons),[247] and watermelons (578,400 tons)[248] and fourth in the production of tobacco (22,000 tons).[249] Agriculture contributes 3.8% of the country's GDP and employs 12.4% of the country's labor force.
+on Zakynthos]] In 2010, Greece was the European Union's largest producer of cotton (183,800 tons) and pistachios (8,000 tons)[242] and ranked second in the production of rice (229,500 tons)[243] and olives (147,500 tons),[244] third in the production of figs (11,000 tons),[245] almonds (44,000 tons),[246] tomatoes (1,400,000 tons),[247] and watermelons (578,400 tons)[248] and fourth in the production of tobacco (22,000 tons).[249] Agriculture contributes 3.8% of the country's GDP and employs 12.4% of the country's labor force.
 
 Greece is a major beneficiary of the Common Agricultural Policy of the European Union. As a result of the country's entry to the European Community, much of its agricultural infrastructure has been upgraded and agricultural output increased. Between 2000 and 2007 organic farming in Greece increased by 885%, the highest change percentage in the EU.
 
 Energy
-
-SolarGIS-Solar-map-Greece-en.png
 
 Electricity production in Greece is dominated by the state-owned Public Power Corporation (known mostly by its acronym ΔΕΗ, or in English DEI). In 2009 DEI supplied for 85.6% of all electric energy demand in Greece,[250] while the number fell to 77.3% in 2010.[251] Almost half (48%) of DEI's power output is generated using lignite, a drop from the 51.6% in 2009.[252]
 
@@ -349,7 +343,7 @@ In 2013, according to the independent power transmission operator in Greece (Α�
 
 Maritime industry
 
-Greek_tanker_ship.png controls 16.2% of the world's total merchant fleet, making it the largest in the world. Greece is ranked in the top 5 for all kinds of ships, including first for tankers and bulk carriers.]]
+controls 16.2% of the world's total merchant fleet, making it the largest in the world. Greece is ranked in the top 5 for all kinds of ships, including first for tankers and bulk carriers.]]
 
 The shipping industry has been a key element of Greek economic activity since ancient times.[264] Shipping remains one of the country's most important industries, accounting for 4.5 percent of GDP, employing about 160,000 people (4 percent of the workforce), and representing a third of the trade deficit.[265]
 
@@ -361,7 +355,7 @@ Greece has a significant shipbuilding and ship maintenance industry. The six shi
 
 Tourism
 
-Ia_Santorini-2009-1.JPG, a popular tourist destination, is ranked as the world's top island in many travel magazines and sites[277][278]]]
+, a popular tourist destination, is ranked as the world's top island in many travel magazines and sites[277][278]]]
 
 Tourism has been a key element of the economic activity in the country and one of the country's most important sectors, contributing 20.6% of the gross domestic product as of 2018.[279] Greece welcomed over 28 million visitors in 2016,[280] which is an increase from the 26.5 million tourists it welcomed in 2015 and the 19.5 million in 2009,[281] and the 17.7 million tourists in 2007,[282] making Greece one of the most visited countries in Europe in the recent years.
 
@@ -371,7 +365,7 @@ In 2010, Lonely Planet ranked Greece's northern and second-largest city of Thess
 
 Transport
 
-Antirio_F28-18.jpg connects mainland Greece to the Peloponnese.]]
+connects mainland Greece to the Peloponnese.]]
 
 Since the 1980s, the road and rail network of Greece has been significantly modernised. Important works include the A2 (Egnatia Odos) motorway, that connects northwestern Greece (Igoumenitsa) with northern Greece (Thessaloniki) and northeastern Greece (Kipoi); the Rio–Antirrio bridge, the longest suspension cable bridge in Europe ( long), connecting the Peloponnese (Rio, from Patras) with Aetolia-Akarnania (Antirrio) in western Greece.
 
@@ -393,7 +387,7 @@ Internet cafés that provide net access, office applications and multiplayer gam
 
 Science and technology
 
-NOESIS.jpg]] Gnpapanikolaou.jpg, a pioneer in cytopathology and early cancer detection]]
+]] , a pioneer in cytopathology and early cancer detection]]
 
 The General Secretariat for Research and Technology of the Ministry of Development and Competitiveness is responsible for designing, implementing and supervising national research and technological policy. In 2003, public spending on research and development (R&D) was 456.37 million euros, a 12.6% increase from 2002. Total R&D spending (both public and private) as a percentage of GDP has more than doubled since 1989, from 0.38 percent to 0.83 percent .
 
@@ -410,11 +404,11 @@ Notable Greek scientists of modern times include Georgios Papanikolaou (inventor
 
 Demographics
 
-Brainsik-ermoupoli.jpg, on the island of Syros, is the capital of the Cyclades.]]
+, on the island of Syros, is the capital of the Cyclades.]]
 
 According to the official statistical body of Greece, the Hellenic Statistical Authority (ELSTAT), the country's total population in 2011 was 10,816,286.[301] The birth rate in 2003 stood at 9.5 per 1,000 inhabitants, significantly lower than the rate of 14.5 per 1,000 in 1981. At the same time, the mortality rate increased slightly from 8.9 per 1,000 inhabitants in 1981 to 9.6 per 1,000 inhabitants in 2003. Estimates from 2016 show the birth rate decreasing further still to 8.5 per 1,000 and mortality climbing to 11.2 per 1,000.[302]
 
-Greecepop.svg Greek society has changed rapidly over the last several decades, coinciding with the wider European trend of declining fertility and rapid aging. The fertility rate of 1.41 children per woman, below the replacement rate of 2.1 and is one of the lowest in the world, it remains considerably below the high of 5.47 children born per woman in 1900.[303] Subsequently, leading to an increase in the median age to 44.2 years, the seventh-highest in the world. In 2001, 16.71 percent of the population were 65 years old and older, 68.12 percent between the ages of 15 and 64 years old, and 15.18 percent were 14 years old and younger.[304] By 2016, the proportion of the population age 65 and older had risen to 20.68 percent, while the proportion of those aged 14 and younger declined to slightly below 14 percent. Greece subsequently has the 7th oldest population in the world, with the average age of 44.9 years.[305]
+Greek society has changed rapidly over the last several decades, coinciding with the wider European trend of declining fertility and rapid aging. The fertility rate of 1.41 children per woman, below the replacement rate of 2.1 and is one of the lowest in the world, it remains considerably below the high of 5.47 children born per woman in 1900.[303] Subsequently, leading to an increase in the median age to 44.2 years, the seventh-highest in the world. In 2001, 16.71 percent of the population were 65 years old and older, 68.12 percent between the ages of 15 and 64 years old, and 15.18 percent were 14 years old and younger.[304] By 2016, the proportion of the population age 65 and older had risen to 20.68 percent, while the proportion of those aged 14 and younger declined to slightly below 14 percent. Greece subsequently has the 7th oldest population in the world, with the average age of 44.9 years.[305]
 
 Marriage rates began declining from almost 71 per 1,000 inhabitants in 1981 until 2002, only to increase slightly in 2003 to 61 per 1,000 and then fall again to 51 in 2004.[306] Moreover, divorce rates have seen an increase from 191.2 per 1,000 marriages in 1991 to 239.5 per 1,000 marriages in 2004.[307] As a result of these trends, the average Greek household is smaller and older than in previous generations.
 
@@ -440,7 +434,7 @@ Since 2017, Hellenic Polytheism, or Helenism has been legally recognised as an a
 
 Languages
 
-Greece_linguistic_minorities.svg The first textual evidence of the Greek language dates back to 15th century BC and the Linear B script which is associated with the Mycenaean Civilization. Greek was a widely spoken lingua franca in the Mediterranean world and beyond during Classical Antiquity, and would eventually become the official parlance of the Byzantine Empire.
+The first textual evidence of the Greek language dates back to 15th century BC and the Linear B script which is associated with the Mycenaean Civilization. Greek was a widely spoken lingua franca in the Mediterranean world and beyond during Classical Antiquity, and would eventually become the official parlance of the Byzantine Empire.
 
 During the 19th and 20th centuries there was a major dispute known as the Greek language question, on whether the official language of Greece should be the archaic Katharevousa, created in the 19th century and used as the state and scholarly language, or the Dimotiki, the form of the Greek language which evolved naturally from Byzantine Greek and was the language of the people. The dispute was finally resolved in 1976, when Dimotiki was made the only official variation of the Greek language, and Katharevousa fell to disuse.
 
@@ -454,7 +448,7 @@ Near the northern Greek borders there are also some Slavic–speaking groups, lo
 
 Migration
 
-50_largest_Greek_diaspora.png communities.]] Throughout the 20th century, millions of Greeks migrated to the United States, United Kingdom, Australia, Canada, and Germany, creating a large Greek diaspora. Net migration started to show positive numbers from the 1970s, but until the beginning of the 1990s, the main influx was that of returning Greek migrants or of Pontic Greeks and others from Russia, Georgia, Turkey the Czech Republic, and elsewhere in the former Soviet Bloc.[339]
+communities.]] Throughout the 20th century, millions of Greeks migrated to the United States, United Kingdom, Australia, Canada, and Germany, creating a large Greek diaspora. Net migration started to show positive numbers from the 1970s, but until the beginning of the 1990s, the main influx was that of returning Greek migrants or of Pontic Greeks and others from Russia, Georgia, Turkey the Czech Republic, and elsewhere in the former Soviet Bloc.[339]
 
 A study from the Mediterranean Migration Observatory maintains that the 2001 census recorded 762,191 persons residing in Greece without Greek citizenship, constituting around 7% of total population. Of the non-citizen residents, 48,560 were EU or European Free Trade Association nationals and 17,426 were Cypriots with privileged status. The majority come from Eastern European countries: Albania (56%), Bulgaria (5%) and Romania (3%), while migrants from the former Soviet Union (Georgia, Russia, Ukraine, Moldova, etc.) comprise 10% of the total.[340] Some of the immigrants from Albania are from the Greek minority in Albania centred on the region of Northern Epirus. In addition the total Albanian national population which includes temporary migrants and undocumented persons is around 600,000.[341]
 
@@ -466,7 +460,7 @@ Greece, together with Italy and Spain, is a major entry point for illegal immigr
 
 Education
 
-Akademie_von_Athen.jpg is Greece's national academy and the highest research establishment in the country.]] Ionian_Academy_in_daylight_2.JPG in Corfu, the first academic institution of modern Greece.]]
+is Greece's national academy and the highest research establishment in the country.]] in Corfu, the first academic institution of modern Greece.]]
 
 Greeks have a long tradition of valuing and investing in _paideia_ (education), which was upheld as one of the highest societal values in the Greek and Hellenistic world. The first European institution described as a university was founded in fifth-century Constantinople and continued operating in various incarnations until the city's fall to the Ottomans in 1453.[349] The University of Constantinople was Christian Europe's first secular institution of higher learning,[350] and by some measures was the world's first university.[351]
 
@@ -491,7 +485,7 @@ The 2011 OECD report showed that Greece had the largest percentage of adult dail
 
 Culture
 
-Epidavros.JPG, still used for theatrical plays.]]
+, still used for theatrical plays.]]
 
 The culture of Greece has evolved over thousands of years, beginning in Mycenaean Greece and continuing most notably into Classical Greece, through the influence of the Roman Empire and its Greek Eastern continuation, the Eastern Roman or Byzantine Empire. Other cultures and nations, such as the Latin and Frankish states, the Ottoman Empire, the Venetian Republic, the Genoese Republic, and the British Empire have also left their influence on modern Greek culture, although historians credit the Greek War of Independence with revitalising Greece and giving birth to a single, cohesive entity of its multi-faceted culture.
 
@@ -499,7 +493,7 @@ In ancient times, Greece was the birthplace of Western culture.[365] Modern demo
 
 Visual arts
 
-Detail_of_the_Charioteer,_Delphi_(4691931414).jpg'', a celebrated statue from the 5th century BC.]]
+'', a celebrated statue from the 5th century BC.]]
 
 Artistic production in Greece began in the prehistoric pre-Greek Cycladic and the Minoan civilizations, both of which were influenced by local traditions and the art of ancient Egypt.[370]
 
@@ -513,7 +507,7 @@ Post Byzantine art schools include the Cretan School and Heptanese School. The f
 
 Architecture
 
-Vathia_Mani_Greece.jpg]]
+]]
 
 The architecture of ancient Greece was produced by the ancient Greeks (_Hellenes_), whose culture flourished on the Greek mainland, the Aegean Islands and their colonies, for a period from about 900 BC until the 1st century AD, with the earliest remaining architectural works dating from around 600 BC. The formal vocabulary of ancient Greek architecture, in particular the division of architectural style into three defined orders: the Doric Order, the Ionic Order and the Corinthian Order, was to have profound effect on Western architecture of later periods.
 
@@ -527,7 +521,7 @@ After the establishment of the Greek Kingdom, the architecture of Athens and oth
 
 Theatre
 
-Corfu_Town_Hall_R01.jpg, the first theatre and opera house of modern Greece.]]
+, the first theatre and opera house of modern Greece.]]
 
 Theatre in its western form was born in Greece.[375] The city-state of Classical Athens, which became a significant cultural, political, and military power during this period, was its centre, where it was institutionalised as part of a festival called the Dionysia, which honoured the god Dionysus. Tragedy (late 6th century BC), comedy (486 BC), and the satyr play were the three dramatic genres to emerge there.
 
@@ -539,7 +533,7 @@ The National Theatre of Greece was opened in 1900 as _Royal Theatre_.[377] Notab
 
 Literature
 
-Roilos-georgios-poets-parnassos-literary-club.jpg'', painted by Georgios Roilos (Kostis Palamas is at the center)]] Greek literature can be divided into three main categories: Ancient, Byzantine and modern Greek literature.[378]
+'', painted by Georgios Roilos (Kostis Palamas is at the center)]] Greek literature can be divided into three main categories: Ancient, Byzantine and modern Greek literature.[378]
 
 Athens is considered the birthplace of Western literature.[379] At the beginning of Greek literature stand the two monumental works of Homer: the _Iliad_ and the _Odyssey_. Though dates of composition vary, these works were fixed around 800 BC or after. In the classical period many of the genres of western literature became more prominent. Lyrical poetry, odes, pastorals, elegies, epigrams; dramatic presentations of comedy and tragedy; historiography, rhetorical treatises, philosophical dialectics, and philosophical treatises all arose in this period. The two major lyrical poets were Sappho and Pindar. The Classical era also saw the dawn of drama.
 
@@ -553,7 +547,7 @@ Leading figures of modern Greek literature include Dionysios Solomos, Andreas Ka
 
 Philosophy
 
-Πλάτωνας,_Ακαδημία_Αθηνών_6619.JPG in Athens.]]
+in Athens.]]
 
 Most western philosophical traditions began in Ancient Greece in the 6th century BC. The first philosophers are called "Presocratics," which designates that they came before Socrates, whose contributions mark a turning point in western thought. The Presocratics were from the western or the eastern colonies of Greece and only fragments of their original writings survive, in some cases merely a single sentence.
 
@@ -571,7 +565,7 @@ Other modern era Greek philosophers or political scientists include Cornelius Ca
 
 Music and dances
 
-Sfakia-dance.jpg dancers of traditional folk music]] Rembetes_Karaiskaki_1933.jpg in Karaiskaki, Piraeus (1933). Left Markos Vamvakaris with bouzouki.]]
+dancers of traditional folk music]] in Karaiskaki, Piraeus (1933). Left Markos Vamvakaris with bouzouki.]]
 
 Greek vocal music extends far back into ancient times where mixed-gender choruses performed for entertainment, celebration and spiritual reasons. Instruments during that period included the double-reed aulos and the plucked string instrument, the lyre, especially the special kind called a kithara. Music played an important role in the education system during ancient times. Boys were taught music from the age of six. Later influences from the Roman Empire, Middle East, and the Byzantine Empire also had effect on Greek music.
 
@@ -579,7 +573,7 @@ While the new technique of polyphony was developing in the West, the Eastern Ort
 
 Along with the Byzantine (Church) chant and music, the Greek people also cultivated the Greek folk song (_Demotiko_) which is divided into two cycles, the akritic and klephtic. The akritic was created between the 9th and 10th centuries and expressed the life and struggles of the akrites (frontier guards) of the Byzantine empire, the most well known being the stories associated with Digenes Akritas. The klephtic cycle came into being between the late Byzantine period and the start of the Greek War of Independence. The klephtic cycle, together with historical songs, _paraloghes_ (narrative song or ballad), love songs, mantinades, wedding songs, songs of exile and dirges express the life of the Greeks. There is a unity between the Greek people's struggles for freedom, their joys and sorrow and attitudes towards love and death.
 
-Mikis2004.jpg is one of the most popular and significant Greek songwriters]]
+is one of the most popular and significant Greek songwriters]]
 
 The Heptanesean kantádhes (καντάδες 'serenades'; sing.: καντάδα) became the forerunners of the Greek modern urban popular song, influencing its development to a considerable degree. For the first part of the next century, several Greek composers continued to borrow elements from the Heptanesean style. The most successful songs during the period 1870–1930 were the so-called Athenian serenades, and the songs performed on stage (επιθεωρησιακά τραγούδια 'theatrical revue songs') in revue, operettas and nocturnes that were dominating Athens' theater scene.
 
@@ -595,7 +589,7 @@ Greece participated in the Eurovision Song Contest 35 times after its debut at t
 
 Cuisine
 
-Naxos_Taverna.jpg]] Greek cuisine is characteristic of the healthy Mediterranean diet, which is epitomised by dishes of Crete.[385] Greek cuisine incorporates fresh ingredients into a variety of local dishes such as moussaka, pastitsio, classic Greek salad, fasolada, spanakopita and souvlaki. Some dishes can be traced back to ancient Greece like skordalia (a thick purée of walnuts, almonds, crushed garlic and olive oil), lentil soup, retsina (white or rosé wine sealed with pine resin) and pasteli (candy bar with sesame seeds baked with honey). Throughout Greece people often enjoy eating from small dishes such as meze with various dips such as tzatziki, grilled octopus and small fish, feta cheese, dolmades (rice, currants and pine kernels wrapped in vine leaves), various pulses, olives and cheese. Olive oil is added to almost every dish.
+]] Greek cuisine is characteristic of the healthy Mediterranean diet, which is epitomised by dishes of Crete.[385] Greek cuisine incorporates fresh ingredients into a variety of local dishes such as moussaka, pastitsio, classic Greek salad, fasolada, spanakopita and souvlaki. Some dishes can be traced back to ancient Greece like skordalia (a thick purée of walnuts, almonds, crushed garlic and olive oil), lentil soup, retsina (white or rosé wine sealed with pine resin) and pasteli (candy bar with sesame seeds baked with honey). Throughout Greece people often enjoy eating from small dishes such as meze with various dips such as tzatziki, grilled octopus and small fish, feta cheese, dolmades (rice, currants and pine kernels wrapped in vine leaves), various pulses, olives and cheese. Olive oil is added to almost every dish.
 
 Some sweet desserts include melomakarona, diples and galaktoboureko, and drinks such as ouzo, metaxa and a variety of wines including retsina. Greek cuisine differs widely from different parts of the mainland and from island to island. It uses some flavorings more often than other Mediterranean cuisines: oregano, mint, garlic, onion, dill and bay laurel leaves. Other common herbs and spices include basil, thyme and fennel seed. Many Greek recipes, especially in the northern parts of the country, use "sweet" spices in combination with meat, for example cinnamon and cloves in stews.
 
@@ -603,7 +597,7 @@ Cinema
 
 Cinema first appeared in Greece in 1896, but the first actual cine-theatre was opened in 1907 in Athens. In 1914 the _Asty Films Company_ was founded and the production of long films began. _Golfo_ (Γκόλφω), a well known traditional love story, is considered the first Greek feature film, although there were several minor productions such as newscasts before this. In 1931 Orestis Laskos directed _Daphnis and Chloe_ (_Δάφνις και Χλόη_), containing one of the first nude scene in the history of European cinema; it was also the first Greek movie which was played abroad. In 1944 Katina Paxinou was honoured with the Best Supporting Actress Academy Award for _For Whom the Bell Tolls_.
 
-Theodoros_Angelopoulos_Athens_26-4-2009-2.jpg, winner of the Palme d'Or in 1998, notable director in the history of the European cinema]]
+, winner of the Palme d'Or in 1998, notable director in the history of the European cinema]]
 
 The 1950s and early 1960s are considered by many to be a "golden age" of Greek cinema. Directors and actors of this era were recognised as important figures in Greece and some gained international acclaim: George Tzavellas, Irene Papas, Melina Mercouri, Mihalis Kakogiannis, Alekos Sakellarios, Nikos Tsiforos, Iakovos Kambanelis, Katina Paxinou, Nikos Koundouros, Ellie Lambeti and others. More than sixty films per year were made, with the majority having film noir elements. Some notable films include _The Drunkard_ (1950, directed by George Tzavellas), _The Counterfeit Coin_ (1955, by Giorgos Tzavellas), _Πικρό Ψωμί_ (1951, by Grigoris Grigoriou), _O Drakos_ (1956, by Nikos Koundouros), _Stella_ (1955, directed by Cacoyannis and written by Kampanellis), _Woe to the Young_ (1961, by Alekos Sakellarios), _Glory Sky_ (1962, by Takis Kanellopoulos) and _The Red Lanterns_ (1963, by Vasilis Georgiadis)
 
@@ -615,7 +609,7 @@ There are also internationally renowned filmmakers in the Greek diaspora, such a
 
 Sports
 
-Louis_entering_Kallimarmaron_at_the_1896_Athens_Olympics.jpg entering the Panathenaic Stadium at the end of the marathon; 1896 Summer Olympics.]] Charisteas'_Siegtreffer_im_Finale_der_Euro_2004.jpg scoring Greece's winning goal in the UEFA Euro 2004 Final]]
+entering the Panathenaic Stadium at the end of the marathon; 1896 Summer Olympics.]] scoring Greece's winning goal in the UEFA Euro 2004 Final]]
 
 Greece is the birthplace of the ancient Olympic Games, first recorded in 776 BC in Olympia, and hosted the modern Olympic Games twice, the inaugural 1896 Summer Olympics and the 2004 Summer Olympics. During the parade of nations Greece is always called first, as the founding nation of the ancient precursor of modern Olympics. The nation has competed at every Summer Olympic Games, one of only four countries to have done so. Having won a total of 110 medals (30 gold, 42 silver and 38 bronze), Greece is ranked 32nd by gold medals in the all-time Summer Olympic medal count. Their best ever performance was in the 1896 Summer Olympics, when Greece finished second in the medal table with 10 gold medals.
 
@@ -623,7 +617,7 @@ The Greek national football team, ranking 12th in the world in 2014 (and having 
 
 The Greek national basketball team has a decades-long tradition of excellence in the sport, being considered among the world's top basketball powers. , it ranked 4th in the world and 2nd in Europe.[388] They have won the European Championship twice in 1987 and 2005,[389] and have reached the final four in two of the last four FIBA World Championships, taking the second place in the world in 2006 FIBA World Championship, after a 101–95 win against Team USA in the tournament's semifinal. The domestic top basketball league, A1 Ethniki, is composed of fourteen teams. The most successful Greek teams are Panathinaikos, Olympiacos, Aris Thessaloniki, AEK Athens and P.A.O.K. Greek basketball teams are the most successful in European basketball the last 25 years, having won 9 Euroleagues since the establishment of the modern era Euroleague Final Four format in 1988, while no other nation has won more than 4 Euroleague championships in this period. Besides the 9 Euroleagues, Greek basketball teams (Panathinaikos, Olympiacos, Aris Thessaloniki, AEK Athens, P.A.O.K, Maroussi) have won 3 Triple Crowns, 5 Saporta Cups, 2 Korać Cups and 1 FIBA Europe Champions Cup. After the 2005 European Championship triumph of the Greek national basketball team, Greece became the reigning European Champion in both football and basketball.
 
-Griechische_Basketballnationalmannschaft_juli_08.jpg in 2008. Twice European champions (1987 and 2005) and second in the world in 2006]]
+in 2008. Twice European champions (1987 and 2005) and second in the world in 2006]]
 
 The Greece women's national water polo team have emerged as one of the leading powers in the world, becoming World Champions after their gold medal win against the hosts China at the 2011 World Championship. They also won the silver medal at the 2004 Summer Olympics, the gold medal at the 2005 World League and the silver medals at the 2010 and 2012 European Championships. The Greece men's national water polo team became the third best water polo team in the world in 2005, after their win against Croatia in the bronze medal game at the 2005 World Aquatics Championships in Canada. The domestic top water polo leagues, Greek Men's Water Polo League and Greek Women's Water Polo League are considered amongst the top national leagues in European water polo, as its clubs have made significant success in European competitions. In men's European competitions, Olympiacos has won the Champions League,[390] the European Super Cup and the Triple Crown in 2002[391] becoming the first club in water polo history to win every title in which it has competed within a single year (National championship, National cup, Champions League and European Super Cup),[392] while NC Vouliagmeni has won the LEN Cup Winners' Cup in 1997. In women's European competitions, Greek water polo teams (NC Vouliagmeni, Glyfada NSC, Olympiacos, Ethnikos Piraeus) are amongst the most successful in European water polο, having won 4 LEN Champions Cups, 3 LEN Trophies and 2 European Supercups.
 
@@ -641,7 +635,7 @@ The principal gods of the ancient Greek religion were the Dodekatheon, or the _T
 
 Public holidays and festivals
 
-Virgin_Mary_procession,_Chora_of_Naxos,_118916.jpg (15 August)]]
+(15 August)]]
 
 According to Greek law, every Sunday of the year is a public holiday. Since the late '70s, Saturday also is a non school and not working day. In addition, there are four mandatory official public holidays: 25 March (_Greek Independence Day_), Easter Monday, 15 August (_Assumption or Dormition of the Holy Virgin_), and 25 December (_Christmas_). 1 May (_Labour Day_) and 28 October (_Ohi Day_) are regulated by law as being optional but it is customary for employees to be given the day off. There are, however, more public holidays celebrated in Greece than are announced by the Ministry of Labour each year as either obligatory or optional. The list of these non-fixed national holidays rarely changes and has not changed in recent decades, giving a total of eleven national holidays each year.
 

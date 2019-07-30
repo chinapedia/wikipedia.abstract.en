@@ -1,5 +1,3 @@
-Iraq_2004_CIA_map.jpg Iraq_Topography.png
-
 The GEOGRAPHY OF IRAQ is diverse and falls into five main regions: the desert (west of the Euphrates), Upper Mesopotamia (between the upper Tigris and Euphrates rivers), the northern highlands of Iraq, Lower Mesopotamia, and the alluvial plain extending from around Tikrit to the Persian Gulf.
 
 The mountains in the northeast are an extension of the alpine system that runs eastward from the Balkans through southern Turkey, northern Iraq, Iran, and Afghanistan, eventually reaching the Himalayas. The desert is in the southwest and central provinces along the borders with Saudi Arabia and Jordan and geographically belongs with the Arabian Peninsula.
@@ -71,7 +69,7 @@ In the arid areas of Iraq to the west and south, cities and large towns are almo
 
 Climate
 
-Iraq_map_of_Köppen_climate_classification.svg Iraq.A2003060.0750.500m.jpg.]] Dust_Storm_over_Iraq.jpg The climate of Iraq is mainly a hot desert climate or a hot semi-arid climate to the northernmost part. Averages high temperatures are generally above 40 °C (104 °F) at low elevations during summer months (June, July and August) while averages low temperatures can drop to below 0 °C (32 °F) during the coldest month of the year during winter[6] The all-time record high temperature in Iraq of 52 °C (126 °F) was recorded near An Nasiriyah on 2 August 2011.[7] Most of the rainfall occurs from December through April and averages between annually. The mountainous region of northern Iraq receives appreciably more precipitation than the central or southern desert region, where they tend to have a Mediterranean climate.
+.]] The climate of Iraq is mainly a hot desert climate or a hot semi-arid climate to the northernmost part. Averages high temperatures are generally above 40 °C (104 °F) at low elevations during summer months (June, July and August) while averages low temperatures can drop to below 0 °C (32 °F) during the coldest month of the year during winter[6] The all-time record high temperature in Iraq of 52 °C (126 °F) was recorded near An Nasiriyah on 2 August 2011.[7] Most of the rainfall occurs from December through April and averages between annually. The mountainous region of northern Iraq receives appreciably more precipitation than the central or southern desert region, where they tend to have a Mediterranean climate.
 
 Roughly 90% of the annual rainfall occurs between November and April, most of it in the winter months from December through March. The remaining six months, particularly the hottest ones of June, July, and August, are extremely dry.
 

@@ -22,8 +22,6 @@ Dutch, English, and French traders came in the 16th century.
 
 French colonial period
 
-Colonial_Gabon_natives_postcard_1905.jpg
-
 In 1839 and 1841, France established a protectorate over the coastal regions of Gabon by treaties with Gabonese coastal chiefs.
 
 American missionaries from New England established a mission at the mouth of the Komo River in 1842. In 1849, the French authorities captured an illegal slave ship and freed the captives on board. The captives were released near the mission station, where they founded a settlement which was called Libreville (French for "free town")

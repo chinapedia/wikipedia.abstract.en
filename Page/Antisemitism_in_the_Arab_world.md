@@ -50,7 +50,7 @@ Matthias Küntzel has suggested that the decisive transfer of Jewish conspiracy 
 
   After the promulgation of the Nuremberg Laws, Hitler received telegrams of congratulation from all over the Arab and Muslim world, especially from Morocco and Palestine, where the Nazi propaganda had been most active.... Before long political parties of the Nazi and Fascist type began to appear, complete with paramilitary youth organizations, colored shirts, strict discipline and more or less charismatic leaders.[25]
 
-Bundesarchiv_Bild_146-1987-004-09A,_Amin_al_Husseini_und_Adolf_Hitler.jpg meeting with Adolf Hitler (December 1941)]]
+meeting with Adolf Hitler (December 1941)]]
 
 George Gruen attributes the increased animosity towards Jews in the Arab world to the breakdown of the Ottoman Empire and traditional Islamic society; domination by Western colonial powers under which Jews gained a disproportionately large role in the commercial, professional, and administrative life of the region; the rise of Arab nationalism, whose proponents sought the wealth and positions of local Jews through government channels; resentment over Jewish nationalism and the Zionist movement; and the readiness of unpopular regimes to scapegoat local Jews for political purposes.[26]
 
@@ -109,8 +109,6 @@ Conspiracy theories about Jews are widely disseminated in Saudi Arabian state-co
 According to the U.S. State Department,[45] religious freedom "does not exist" in Saudi Arabia, and therefore, Jews may not freely practice their religion.
 
 Syria
-
-Zeibak.jpg
 
 On March 2, 1974, the bodies of four Syrian Jewish women were discovered by border police in a cave in the Zabdani Mountains northwest of Damascus. Fara Zeibak 24, her sisters Lulu Zeibak 23, Mazal Zeibak 22 and their cousin Eva Saad 18, had contracted with a band of smugglers to flee Syria to Lebanon and eventually to Israel. The girls' bodies were found raped, murdered and mutilated. The police also found the remains of two Jewish boys, Natan Shaya 18 and Kassem Abadi 20, victims of an earlier massacre.[46] Syrian authorities deposited the bodies of all six in sacks before the homes of their parents in the Jewish ghetto in Damascus.[47]
 

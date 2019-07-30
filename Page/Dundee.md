@@ -13,7 +13,7 @@ In recent years, Dundee's international profile has risen. _GQ_ magazine named D
 
 History
 
-The name "Dundee" is made up of two parts: the common Celtic place-name element _dun_, meaning fort; and a second part that may derive from a Celtic element, cognate with the Gaelic _dè_, meaning 'fire'.[11] Dundee1693_JohnSlezer2.jpg.]] While earlier evidence for human occupation is abundant,[12] Dundee's success and growth as a seaport town arguably came as a result of William the Lion's charter, granting Dundee to his younger brother, David (later Earl of Huntingdon) in the late 12th century.[13] The situation of the town and its promotion by Earl David as a trading centre led to a period of prosperity and growth.[14] The earldom was passed down to David's descendants, amongst whom was John Balliol. The town became a Royal Burgh on John's coronation as king in 1292.[15] The town and its castle were occupied by English forces for several years during the First War of Independence and recaptured by Robert the Bruce in early 1312.[16] The original Burghal charters were lost during the occupation and subsequently renewed by Bruce in 1327.[17]
+The name "Dundee" is made up of two parts: the common Celtic place-name element _dun_, meaning fort; and a second part that may derive from a Celtic element, cognate with the Gaelic _dè_, meaning 'fire'.[11] .]] While earlier evidence for human occupation is abundant,[12] Dundee's success and growth as a seaport town arguably came as a result of William the Lion's charter, granting Dundee to his younger brother, David (later Earl of Huntingdon) in the late 12th century.[13] The situation of the town and its promotion by Earl David as a trading centre led to a period of prosperity and growth.[14] The earldom was passed down to David's descendants, amongst whom was John Balliol. The town became a Royal Burgh on John's coronation as king in 1292.[15] The town and its castle were occupied by English forces for several years during the First War of Independence and recaptured by Robert the Bruce in early 1312.[16] The original Burghal charters were lost during the occupation and subsequently renewed by Bruce in 1327.[17]
 
 The burgh suffered considerably during the conflict known as the Rough Wooing of 1543 to 1550, and was occupied by the English forces of Andrew Dudley from 1547. In 1548, unable to defend the town against an advancing Scottish force, Dudley ordered that the town be burnt to the ground.[18] In 1645, during the Wars of the Three Kingdoms, Dundee was again besieged, this time by the Royalist Marquess of Montrose.[19] The town was finally destroyed by Parliamentarian forces led by George Monck in 1651.[20] The town played a pivotal role in the establishment of the Jacobite cause when John Graham of Claverhouse, 1st Viscount Dundee raised the Stuart standard on the Dundee Law in 1689.[21] The town was held by the Jacobites in the 1715–16 rising, and on 6 January 1716 the Jacobite claimant to the throne, James VIII and III (the Old Pretender), made a public entry into the town. Many in Scotland, including many in Dundee, regarded him as the rightful king.[22]
 
@@ -25,7 +25,7 @@ The phasing out of the linen export bounty between 1825 and 1832 stimulated dema
 
 The rise of the textile industries brought with it an expansion of supporting industries, notably of the whaling, maritime and shipbuilding industries,[33] and extensive development of the waterfront area started in 1815 to cope with increased demand for port capacity.[34] At its height, 200 ships per year were built there, including Robert Falcon Scott's Antarctic research vessel, the . This ship is now on display at Discovery Point in the city.[35] A significant whaling industry was also based in Dundee, largely existing to supply the jute mills with whale oil. Whaling ceased in 1912 and shipbuilding ceased in 1981.[36]
 
-SCO_Dundee,_Tay_Rail_Bridge.jpg (from the south) the day after the disaster. The collapsed section can be seen near the northern end]]
+(from the south) the day after the disaster. The collapsed section can be seen near the northern end]]
 
 While the city's economy was dominated by the jute industry, it also became known for smaller industries. Most notable among these were James Keiller's and Sons, established in 1795, which pioneered commercial marmalade production,[37] and the publishing firm DC Thomson, which was founded in the city in 1905. Dundee was said to be built on the 'three Js': Jute, Jam and Journalism.
 
@@ -38,15 +38,11 @@ A £1 billion master plan to regenerate Dundee Waterfront is expected to last fo
 
 Governance
 
-City_of_Dundee_Coat_of_Arms.png
-
 Dundee was granted Royal Burgh status on the coronation of John Balliol as King of Scotland in 1292.[43] The city has two mottos— (_Gift of God_) and _Prudentia et Candore_ (With Thought and Purity) although usually only the latter is used for civic purposes.[44]
 
 Prior to 1996, Dundee was governed by the City of Dundee District Council. This was formed in 1975, implementing boundaries imposed in the Local Government (Scotland) Act 1973. Under these boundaries, the Angus burgh and district of Monifieth, and the Perth electoral division of Longforgan (which included Invergowrie) were annexed to the county of the city of Dundee. In 1996, the Dundee City unitary authority was created following implementation of the Local Government etc. (Scotland) Act 1994.[45] This placed Monifieth and Invergowrie in the unitary authorities of Angus and Perth and Kinross, largely reinstating the pre-1975 county boundaries. Some controversy has ensued as a result of these boundary changes, with Dundee city councillors arguing for the return of Monifieth and Invergowrie.[46]
 
 Local government
-
-City_Chambers,_Dundee,_Scotland.jpg
 
 Dundee is one of 32 council areas of Scotland,[47] and is represented by the Dundee City Council – a local council composed of 29 elected councillors. Previously the city was a county of a city and later a district of the Tayside region. Council meetings take place in the City Chambers, which opened in 1933 in City Square. The civic head and chair of the council is known as the Lord Provost, a position similar to that of mayor in other cities. The political head of the council is known as the Leader of the Council or Leader of the Administration. The Leader chairs the Policy & Resources Committee. Dundee House, the new headquarters for the city council on North Lindsay Street, opened in August 2011.[48] This has replaced Tayside House which was demolished in 2013 as part of the Dundee Waterfront improvements.[49][50]
 
@@ -67,7 +63,7 @@ On 18 September 2014, Dundee was one of four council areas to vote "Yes" in the 
 
 Geography
 
-The_Dundee_Law_-_geograph.org.uk_-_63200_(lighter_ground).jpg]] Dundee sits on the north bank of the Firth of Tay on the eastern, North Sea Coast of Scotland. The city lies NNE of Edinburgh[63] and NNW of London.[64] The built-up area occupies a roughly rectangular shape long by wide, aligned in an east to west direction and occupies an area of .[65][66] The town is bisected by a line of hills stretching from Balgay Hill (elevation of 143 m) in the west end of the city, through the Dundee Law (174 m) which occupies the centre of the built up area, to Gallow Hill (83 m), between Baxter Park and the Eastern Cemetery. North of this ridge lies a valley through which cuts the Dighty Water burn, the elevation falling to around 45 m. North of the Dighty valley lie the Sidlaw Hills, the most prominent hill being Craigowl Hill (455 m).[67]
+]] Dundee sits on the north bank of the Firth of Tay on the eastern, North Sea Coast of Scotland. The city lies NNE of Edinburgh[63] and NNW of London.[64] The built-up area occupies a roughly rectangular shape long by wide, aligned in an east to west direction and occupies an area of .[65][66] The town is bisected by a line of hills stretching from Balgay Hill (elevation of 143 m) in the west end of the city, through the Dundee Law (174 m) which occupies the centre of the built up area, to Gallow Hill (83 m), between Baxter Park and the Eastern Cemetery. North of this ridge lies a valley through which cuts the Dighty Water burn, the elevation falling to around 45 m. North of the Dighty valley lie the Sidlaw Hills, the most prominent hill being Craigowl Hill (455 m).[67]
 
 The western and eastern boundaries of the city are marked by two burns that are tributaries of the River Tay. On the western-most boundary of the city, the Lochee burn meets the Fowlis burn, forming the Invergowrie burn, which meets the Tay at Invergowrie basin.[68] The Dighty Water enters Dundee from the village of Strathmartine and marks the boundaries of a number of northern districts of the city, joining the Tay between Barnhill and Monifieth.[69] The Scouring burn in the west end of the city and Dens Burn in the east, both of which played important roles in the industrial development of the city, have now been culverted over.
 
@@ -81,7 +77,7 @@ Location
 
 Urban environment
 
-View from The Law, overlooking Dundee City Centre and the Tay Road Bridge Very little of pre-Reformation Dundee remains, the destruction suffered in the War of the Rough Wooing being almost total, with only scattered, roofless shells remaining.[74] The area occupied by the medieval burgh of Dundee extends between East Port and West Port, which formerly held the gates to the walled city. The shoreline has been altered considerably since the early 19th century through development of the harbour area and land reclamation.[75] Several areas on the periphery of the burgh saw industrial development with the building of textile mills from the end of the 18th century. Their placement was dictated by the need for a water supply for the modern steam powered machinery, and areas around the Lochee Burn (Lochee), Scouring Burn (Blackness) and Dens Burn (Dens Road area) saw particular concentrations of mills.[76] The post war period saw expansion of industry to estates along the Kingsway.[77]
+Very little of pre-Reformation Dundee remains, the destruction suffered in the War of the Rough Wooing being almost total, with only scattered, roofless shells remaining.[74] The area occupied by the medieval burgh of Dundee extends between East Port and West Port, which formerly held the gates to the walled city. The shoreline has been altered considerably since the early 19th century through development of the harbour area and land reclamation.[75] Several areas on the periphery of the burgh saw industrial development with the building of textile mills from the end of the 18th century. Their placement was dictated by the need for a water supply for the modern steam powered machinery, and areas around the Lochee Burn (Lochee), Scouring Burn (Blackness) and Dens Burn (Dens Road area) saw particular concentrations of mills.[76] The post war period saw expansion of industry to estates along the Kingsway.[77]
 
 Working class housing spread rapidly and without control throughout the Victorian era, particularly in the Hawkhill, Blackness Road, Dens Road and Hilltown areas.[78] Despite the comparative wealth of Victorian Dundee as a whole, living standards for the working classes were very poor. A general lack of town planning coupled with the influx of labour during the expansion of the jute industry resulted in insanitary, squalid and cramped housing for much of the population.[79] While gradual improvements and slum clearance began in the late 19th century, the building of the groundbreaking Logie housing estate marked the beginning of Dundee's expansion through the building of planned housing estates, under the vision of city architect James Thomson, whose legacy also includes the housing estate of Craigiebank and the beginnings of an improved transport infrastructure by planning the Kingsway bypass.[80]
 
@@ -89,7 +85,7 @@ Modernisation of the city centre continued in the post-war period. The medieval 
 
 Climate
 
-Haar (fog) travelling up the River Tay by advection|thumb|right The climate, like the rest of lowland Scotland, is Oceanic (Köppen-Geiger classification Cfb).[86] Mean temperature and rainfall are typical for the east coast of Scotland, and with the city's sheltered estuarine position, mean daily maxima are slightly higher than coastal areas to the North, particularly in spring and summer.[87] The summers are still chilly when compared with similar latitudes in continental Europe, something compensated for by the mild winters, similar to the rest of the British Isles. The nearest official Met Office weather station is Mylnefield, Invergowrie which is about west of the City Centre.
+The climate, like the rest of lowland Scotland, is Oceanic (Köppen-Geiger classification Cfb).[86] Mean temperature and rainfall are typical for the east coast of Scotland, and with the city's sheltered estuarine position, mean daily maxima are slightly higher than coastal areas to the North, particularly in spring and summer.[87] The summers are still chilly when compared with similar latitudes in continental Europe, something compensated for by the mild winters, similar to the rest of the British Isles. The nearest official Met Office weather station is Mylnefield, Invergowrie which is about west of the City Centre.
 
 A record high of was recorded in July 2013.[88] The warmest month was July 2006,[89] with an average temperature of (mean maximum , mean minimum ). In an 'average' year the warmest day should reach[90] , and in total just 1.63 days[91] should equal or exceed a temperature of per year, illustrating the rarity of such warmth.
 
@@ -120,7 +116,7 @@ Dundee has a higher proportion of university students – one in seven of the po
 
 Economy
 
-Cox's_stack_02SEP05.jpg jute mill. The chimney takes its name from jute baron James Cox who later became Provost of the city]]
+jute mill. The chimney takes its name from jute baron James Cox who later became Provost of the city]]
 
 The period following World War II was notable for the transformation of the city's economy. While jute still employed one-fifth of the working population, new industries were attracted and encouraged. NCR Corporation selected Dundee as the base of operations for the UK in late 1945,[103] primarily because of the lack of damage the city had sustained in the war, good transport links and high productivity from long hours of sunshine. Production started in the year before the official opening of the plant on 11 June 1947. A fortnight after the 10th anniversary of the plant the 250,000th cash register was produced.
 
@@ -130,22 +126,16 @@ Employment in Dundee changed dramatically during the 1980s with the loss of near
 
 Modern day
 
-Ninewells_cropped.jpg
-
 Dundee is a regional employment and education centre, with around 325,000 people within 30 minutes' drive of the city centre and 860,000 people within one hour.[107] Many people from North East Fife, Angus and Perth and Kinross commute to the city.[108] As of 2015, there were 395 employers who employed 250 or more staff; over a five-year period (2011-2015) the number of registered enterprises in Dundee increased by 20.9% from 2,655 to 3,210.[109] The largest employers in the city are NHS Tayside, Dundee City Council, University of Dundee, Tayside Contracts, Tesco, D. C. Thomson & Co and BT.[110]
 
 Other employers include limited and private companies such as NCR, Michelin, Alliance Trust, Aviva, Royal Bank of Scotland, Asda, Stagecoach Strathtay, Tokheim, Scottish Citylink, Rochen Limited, C J Lang & Son (SPAR Scotland), Joinery and Timber Creations, HBOS, Debenhams, Xplore Dundee, and W. L. Gore and Associates. Between 2009 and 2014 the hardest-hit sectors, in terms of jobs, were Information and Communication, Construction and Manufacturing which each lost around 500 full-time jobs. By contrast, the Professional, Scientific and Technical sector saw an upsurge in jobs in addition to the Business Administration and Support Service sector which increased by approximately 1,000 full-time and 300 part-time jobs in the same six-year period.[111] Gross median weekly earnings of full-time employees in Dundee in 2015 was £523.50; men received £563.40 and women £451.80.[112] Gross weekly pay for all employees in Dundee has increased from £325.00 in 2000 to £380.00 in 2015.[113]
 
 The biomedical and biotechnology sectors, including start-up biomedical companies arising from university research, employ just under 1,000 people directly and nearly 2,000 indirectly. Information technology and Video game development have been important industries in the city for more than 20 years.[114] Rockstar North, developer of _Lemmings_ and the _Grand Theft Auto_ series was founded in Dundee as DMA Design by David Jones; an undergraduate of the Abertay University.[115] Other game development studios in Dundee include Denki, Ruffian Games, Dynamo Games, 4J Studios, Outplay Entertainment amongst others.
 
-NCR_Dundee_-_geograph.org.uk_-_9943.jpg
-
 Dundee is also a key retail destination for North East Scotland and has been ranked 4th in Retail Rankings in Scotland.[116] The city centre offers a wide variety of retailers, department stores and independent/specialist stores. The Murraygate and High Street forms the main pedestrian area and is home to a number of main anchors such as Marks and Spencer, Accessorise and Zara.[117] The main pedestrian area also connects the two large shopping centres; the Overgate Centre which is anchored by Debenhams, H&M, Next, Argos, and The Perfume Shop and the Wellgate Centre by Home Bargains, T. J. Hughes, B&M, Superdrug, Iceland, Holland & Barrett, Poundland, Savers, The Works, Hydro Electric, Bright house,[118] Other retail areas in the city include Gallagher Retail Park, Kingsway East Retail Park and Kingsway West Retail Park.[119]
 
 
 Landmarks
-
-St._Mary's_Tower,_Dundee_-_geograph.org.uk_-_1204975.jpg
 
 The city and its landscape are dominated by The Law and the Firth of Tay. The Law, a large hill to the north of the City Centre was the site of an Iron Age Hill Fort, upon which the Law War Memorial, designed by Thomas Braddock, was erected in 1921 to commemorate the fallen of World War I.[120] The waterfront, much altered by reclamation in the 19th century, retains several of the docks that once were the hub of the jute and whaling industries, including the Camperdown and Victoria Docks.[121] The Victoria Dock is the home of the frigate HMS _Unicorn_ and the North Carr Lightship, while Captain Scott's RRS _Discovery_ occupies Craig Pier, from where the ferries to Fife once sailed.
 
@@ -153,26 +143,24 @@ The oldest building in the city is St Mary's Tower, which dates from the late 15
 
 As a result of the destruction suffered during the Rough Wooing, little of the mediaeval city (aside from St Mary's Tower) remains and the earliest surviving domestic structures date from the Early Modern Era. A notable example is the Wishart Arch (or East Port) in Cowgate. It is the last surviving portion of the city walls. Dating from prior to 1548, it owes its continued existence to its association with the Protestant martyr George Wishart, who is said to have preached to plague victims from the East Port in 1544.[126] Another is the building complex on the High Street known as Gardyne's Land, parts of which date from around 1560.[127] The Howff burial ground in the northern part of the City Centre also dates from this time; it was given to the city by Mary Queen of Scots in 1564, having previously served as the grounds of a Franciscan abbey.[128]
 
-Claypotts_castle_01.jpg
-
 Several castles can be found in Dundee, mostly from the Early Modern Era. The earliest parts of Mains Castle in Caird Park were built by David Graham in 1562 on the site of a hunting lodge of 1460.[129] Dudhope Castle, originally the seat of the Scrymgeour family, dates to the late 16th century and was built on the site of a keep of 1460.[130] Claypotts Castle, a striking Z plan castle in West Ferry, was built by John Strachan and dates from 1569–1588.[131] In 1495 Broughty Castle was built and remained in use as a major defensive structure until 1932, playing a role in the Anglo-Scottish Wars and the Wars of the Three Kingdoms. The castle stands on a shallow tip projecting into the Firth, alongside two beaches, one of sand, the other of pebbles. The ruins of Powrie Castle, north of Fintry, date from the 16th-century castle north.[132]
 
 North of the City Churches, at the end of Reform Street, lies the High School of Dundee, built in 1829–34 by George Angus in a Greek Revival style.[133] Another school building of note is Morgan Academy on Forfar Road, built in 1863, designed by John Dick Peddie in a Dutch Gothic style.[134]
 
-Dundee's industrial history as a centre for textile production is apparent throughout the city. Numerous former jute mills remain standing and while some lay derelict, many have been converted for other uses. Of particular note are the Tay Works, built by the Gilroy Brothers c.1850–1865,[135] Camperdown Works in Lochee, which built and owned by Cox Brothers, one of Europe's largest jute manufacturing companies, and begun in 1849,[136][137] and Upper Dens Mill and Lower Dens Works, built by the Baxter Brothers in the mid-19th century.[138] James_Duncan_Mitchell,_Lusitania_1915,_Western_Cemetery,_Dundee.jpg A more recent landmark is the Tower Building of the University of Dundee built between 1959 and 1961. At the time of its construction only the Old Steeple was taller in the city. The Tower was built to replace the original college buildings which stood on the site.[139][140] The building houses the university's main administration and includes galleries and the university's Archive, Records Management and Museum Services.[141]
+Dundee's industrial history as a centre for textile production is apparent throughout the city. Numerous former jute mills remain standing and while some lay derelict, many have been converted for other uses. Of particular note are the Tay Works, built by the Gilroy Brothers c.1850–1865,[135] Camperdown Works in Lochee, which built and owned by Cox Brothers, one of Europe's largest jute manufacturing companies, and begun in 1849,[136][137] and Upper Dens Mill and Lower Dens Works, built by the Baxter Brothers in the mid-19th century.[138] A more recent landmark is the Tower Building of the University of Dundee built between 1959 and 1961. At the time of its construction only the Old Steeple was taller in the city. The Tower was built to replace the original college buildings which stood on the site.[139][140] The building houses the university's main administration and includes galleries and the university's Archive, Records Management and Museum Services.[141]
 
 Many 1960s landmark multi-storey housing buildings were demolished in the late 2000s. The former Tayside House block, nicknamed 'Faulty Towers' by many local people, was demolished in 2013 as part of the waterfront redevelopment program.[142] According to the architectural historian Charles McKean and his co-authors of Lost Dundee, the best views in the city were from Tayside House, because these were the only views from which the building itself could not be seen.[143]
 
 
 Transport
 
-SeagateBus-Dundee.jpg Dundee is served by the A90 road which connects the city to the M90 and Perth in the west, and Forfar and Aberdeen in the north. The part of the road that is in the city is a dual carriageway and forms the city's main bypass on its north side, known as the Kingsway. East of the A90's Forfar Road junction, the Kingsway East continues as the A972, and meets the A92 at the Scott Fyffe roundabout. Travelling east, the A92 connects the city to Arbroath and Montrose and to the south with Fife via the Tay Road Bridge.
+Dundee is served by the A90 road which connects the city to the M90 and Perth in the west, and Forfar and Aberdeen in the north. The part of the road that is in the city is a dual carriageway and forms the city's main bypass on its north side, known as the Kingsway. East of the A90's Forfar Road junction, the Kingsway East continues as the A972, and meets the A92 at the Scott Fyffe roundabout. Travelling east, the A92 connects the city to Arbroath and Montrose and to the south with Fife via the Tay Road Bridge.
 
 The A930 links the city with coastal settlements to the east, including, Monifieth and Carnoustie. Progressing westward from where the A92 meets the Tay Road Bridge at the Riverside Roundabout, the A85 follows the southern boundary of the city along Riverside Drive and towards the A90 at the Swallow Roundabout. The A85 multiplexes with the A90 and diverges again at Perth.
 
 Also meeting the A92 and A85 at the Riverside Roundabout is the A991 Inner Ring Road, which surrounds the perimeter of the city centre, returning to the A92 on the east side of the Tay Road Bridge. The A923 Dundee to Dunkeld road meets the A991 at the Dudhope Roundabout, and the A929 links the A991 to the A90 via Forfar Road.
 
-Dundee_Railway_Station_and_Sleeperz_Hotel.jpg after its 2018 reopening]]
+after its 2018 reopening]]
 
 Dundee has an extensive network of bus routes. The Seagate bus station is the city's main terminus for journeys out of town. Xplore Dundee operates most of the intra-city services, with other more rural services operated by Stagecoach Strathtay. The city's two railway stations are the main Dundee Station near the waterfront, which has now finished re-construction s part of the waterfront re-development program, and the much smaller Broughty Ferry Station at the eastern end of the city.
 
@@ -189,8 +177,6 @@ Education
 
 Colleges and universities
 
-Dundee_University.jpg
-
 Dundee is home to two universities and a student population of approximately 20,000.[145][146]
 
 The University of Dundee became an independent entity in 1967, after 70 years of being incorporated into the University of St Andrews. It was founded in 1881 by Mary Ann Baxter and her distant cousin John Boyd Baxter as University College, Dundee, and teaching began in 1883. It fully merged with the University of St Andrews in 1897 and was reorganised as Queen's College, Dundee in 1954.[147][148] Significant research in biomedical fields is carried out in the School of Life Sciences.[149] The University is also home to Dundee Law School,[150] situated in the Scrymgeour Building on the main campus and the School of Medicine, based at the city's Ninewells Hospital.[151] The university also incorporates the Duncan of Jordanstone College of Art and Design and the teacher training college.
@@ -203,7 +189,7 @@ The Al-Maktoum College of Higher Education was established in Dundee in Blacknes
 
 Schools
 
-Moragn_Academy_Dundee.jpg Schools in Dundee have a pupil enrolment of over 20,300. There are 37 primary state schools and 8 secondary state schools in the city. There are 11 primary and 2 secondary Roman Catholic denominational schools which, as in the rest of Scotland, are open to children of all denominations.[154] The remainder are non-denominational.[155] There is also one specialist school that caters for pupils with learning difficulties aged between five and 18 from Dundee and the surrounding area.[156]
+Schools in Dundee have a pupil enrolment of over 20,300. There are 37 primary state schools and 8 secondary state schools in the city. There are 11 primary and 2 secondary Roman Catholic denominational schools which, as in the rest of Scotland, are open to children of all denominations.[154] The remainder are non-denominational.[155] There is also one specialist school that caters for pupils with learning difficulties aged between five and 18 from Dundee and the surrounding area.[156]
 
 Dundee has one independent school, the High School of Dundee, which was founded in the 13th century by the Abbot and monks of Lindores Abbey.[157] The current building was designed by George Angus in a Greek Revival style and built in 1832–34.[158] Notable students in the early modern period included Thomas Thomson, Hector Boece,[159] and the brothers James, John and Robert Wedderburn who were the authors of _The Gude and Godlie Ballatis_, used early in the Scottish Reformation as a vehicle to spread Protestant theology.[160] It was the earliest reformed school in Scotland, having adopted the new religion in 1554. According to Blind Harry's largely apocryphal work _The Actes and Deidis of the Illustre and Vallyeant Campioun Schir William Wallace_, William Wallace was also educated in Dundee.
 
@@ -211,8 +197,6 @@ Dundee has one independent school, the High School of Dundee, which was founded 
 Religious sites
 
 Christian groups
-
-Dundee_Parish_Church,_St_Mary's.jpg
 
 The Church of Scotland Presbytery of Dundee is responsible for overseeing the worship of 37 congregations in and around the Dundee area, although changing population patterns have led to some of the churches becoming linked charges.[161] Due to their city centre location, the City Churches, Dundee Parish Church (St Mary's) and the Steeple Church, are the most prominent Church of Scotland buildings in Dundee. They are on the site of the medieval parish kirk of St Mary, of which only the 15th-century west tower survives. The attached church was once the largest parish church in medieval Scotland.[162] Dundee was unusual among Scottish medieval burghs in having two parish kirks; the second, dedicated to St Clement, has disappeared, but its site was approximately that of the present City Square.[163] Other presbyterian groups include the Free Church which meet at St. Peters (the historic church of Robert Murray M'Cheyne) where prominent theologians David Robertson and Sinclair B. Ferguson regularly preach.[164]
 
@@ -239,9 +223,7 @@ Dundee bid to become the European Capital of Culture in 2023 but due to the Unit
 
 Museums and galleries
 
-McManus_Galleries.jpg in the city's Albert Square]]
-
-"The_Riders_of_the_Sidhe"_John_Duncan_1911_McManus_Galleries,_Dundee.jpg
+in the city's Albert Square]]
 
 The city's main museum and art gallery, McManus Galleries, is in Albert Square.[193] The exhibits include work by James McIntosh Patrick, Alberto Morrocco and David McClure amongst the collection of fine and decorative art, items from Dundee's history and natural history artefacts.
 
@@ -281,7 +263,7 @@ Popular music groups such as the 1970s soul-funk outfit Average White Band, the 
 
 Media
 
-DC_Thomson_Dundee_Meadowside_south_east_face_(post_refurb).jpg & Co.]]
+& Co.]]
 
 Dundee is home to DC Thomson & Son Ltd, established in 1905, which produces over 200 million magazines, newspapers and comics every year; these include _The Beano_, _The Dandy_ and _The Press and Journal_.[217]
 
@@ -314,8 +296,6 @@ There is a velodrome, Caird Park Velodrome.
 
 
 Public services
-
-Backwater Reservoir
 
 Dundee and the surrounding area is supplied with water by Scottish Water. Dundee, along with parts of Perthshire and Angus is supplied from Lintrathen and Backwater reservoirs in Glen Isla.[230] Electricity distribution is by Scottish Hydro Electric plc, part of the Scottish and Southern Energy group.
 

@@ -1,4 +1,4 @@
-Mercedes_V6_DTM_Rennmotor_1996.jpg from a Mercedes-Benz]]
+from a Mercedes-Benz]]
 
 An ENGINE or MOTOR is a machine designed to convert one form of energy into mechanical energy.[1][2] Heat engines, like the internal combustion engine, burn a fuel to create heat which is then used to do work. Electric motors convert electrical energy into mechanical motion, pneumatic motors use compressed air, and clockwork motors in wind-up toys use elastic energy. In biological systems, molecular motors, like myosins in muscles, use chemical energy to create forces and eventually motion.
 
@@ -36,7 +36,7 @@ In the 13th century, the solid rocket motor was invented in China. Driven by gun
 
 Industrial Revolution
 
-Boulton_and_Watt_centrifugal_governor-MJ.jpg The Watt steam engine was the first type of steam engine to make use of steam at a pressure just above atmospheric to drive the piston helped by a partial vacuum. Improving on the design of the 1712 Newcomen steam engine, the Watt steam engine, developed sporadically from 1763 to 1775, was a great step in the development of the steam engine. Offering a dramatic increase in fuel efficiency, James Watt's design became synonymous with steam engines, due in no small part to his business partner, Matthew Boulton. It enabled rapid development of efficient semi-automated factories on a previously unimaginable scale in places where waterpower was not available. Later development led to steam locomotives and great expansion of railway transportation.
+The Watt steam engine was the first type of steam engine to make use of steam at a pressure just above atmospheric to drive the piston helped by a partial vacuum. Improving on the design of the 1712 Newcomen steam engine, the Watt steam engine, developed sporadically from 1763 to 1775, was a great step in the development of the steam engine. Offering a dramatic increase in fuel efficiency, James Watt's design became synonymous with steam engines, due in no small part to his business partner, Matthew Boulton. It enabled rapid development of efficient semi-automated factories on a previously unimaginable scale in places where waterpower was not available. Later development led to steam locomotives and great expansion of railway transportation.
 
 As for internal combustion piston engines, these were tested in France in 1807 by de Rivaz and independently, by the Niépce brothers. They were theoretically advanced by Carnot in 1824. In 1853–57 Eugenio Barsanti and Felice Matteucci invented and patented an engine using the free-piston principle that was possibly the first 4-cycle engine.[12]
 
@@ -83,7 +83,7 @@ Combustion engines are heat engines driven by the heat of a combustion process.
 
 Internal combustion engine
 
-4StrokeEngine_Ortho_3D_Small.gif combustion engine cycle: ]]
+combustion engine cycle: ]]
 
 The _internal combustion engine_ is an engine in which the combustion of a fuel (generally, fossil fuel) occurs with an oxidizer (usually air) in a combustion chamber. In an internal combustion engine the expansion of the high temperature and high pressure gases, which are produced by the combustion, directly applies force to components of the engine, such as the pistons or turbine blades or a nozzle, and by moving it over a distance, generates mechanical work.[16][17][18][19]
 

@@ -10,7 +10,7 @@ In theatre companies, a dramaturge will create a workbook for the director and a
 
 History
 
-Gotthold_Lessing.jpg]] Gotthold Ephraim Lessing was hired by the Hamburg National Theatre in 1767, to serve as the theatre's critic of plays and acting, a position which would later be named dramaturge. This position grew over time to what it is today, encompassing the wide variety of tasks seen by modern dramaturgies.[6][7]
+]] Gotthold Ephraim Lessing was hired by the Hamburg National Theatre in 1767, to serve as the theatre's critic of plays and acting, a position which would later be named dramaturge. This position grew over time to what it is today, encompassing the wide variety of tasks seen by modern dramaturgies.[6][7]
 
 
 Discrepancies with definition

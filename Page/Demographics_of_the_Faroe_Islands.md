@@ -1,6 +1,6 @@
 This article is about the demographic features of the population of the Faroe Islands, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
-Faroese-Student-Midnamskolen_2003.jpg The vast majority of the population are ethnic Faroese, of North Germanic descent. Ethnic Faroese are, in genetic terms, among the most homogenous groups ever found.
+The vast majority of the population are ethnic Faroese, of North Germanic descent. Ethnic Faroese are, in genetic terms, among the most homogenous groups ever found.
 
 Recent DNA analysis have revealed that Y chromosomes, tracing male descent, are 87% Scandinavian.[1] The studies show that mitochondrial DNA, tracing female descent, is 84% Scottish / Irish.[2]
 
@@ -142,7 +142,7 @@ Vital statistics since 1900 [4][5]
 
 CIA World Factbook demographic statistics
 
-Faroe-islands-demography.png, year 2005 ; Number of inhabitants in thousands.]]
+, year 2005 ; Number of inhabitants in thousands.]]
 
 The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.
 

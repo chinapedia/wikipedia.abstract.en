@@ -18,7 +18,7 @@ The term may also be used outside any religious context to characterize a generi
 
 Characteristics
 
-Lakewood_worship.jpg at Lakewood Church, Houston, Texas, in 2013]] One influential definition of evangelicalism has been proposed by historian David Bebbington. Bebbington notes four distinctive aspects of evangelical faith: conversionism, biblicism, crucicentrism, and activism, noting, "Together they form a quadrilateral of priorities that is the basis of Evangelicalism."
+at Lakewood Church, Houston, Texas, in 2013]] One influential definition of evangelicalism has been proposed by historian David Bebbington. Bebbington notes four distinctive aspects of evangelical faith: conversionism, biblicism, crucicentrism, and activism, noting, "Together they form a quadrilateral of priorities that is the basis of Evangelicalism."
 
 Conversionism, or belief in the necessity of being "born again", has been a constant theme of evangelicalism since its beginnings. To evangelicals, the central message of the gospel is justification by faith in Christ and repentance, or turning away, from sin. Conversion differentiates the Christian from the non-Christian, and the change in life it leads to is marked by both a rejection of sin and a corresponding personal holiness of life. A conversion experience can be emotional, including grief and sorrow for sin followed by great relief at receiving forgiveness. The stress on conversion differentiates evangelicalism from other forms of Protestantism by the associated belief that an assurance of salvation will accompany conversion. Among evangelicals, individuals have testified to both sudden and gradual conversions.
 
@@ -33,7 +33,7 @@ Many evangelical traditions adhere to the doctrine of the believers' Church, whi
 
 Diversity
 
-Culto_Igreja_da_Lagoinha.jpg at Igreja Batista da Lagoinha, affiliated to the Convenção Batista Nacional, in 2016 in Belo Horizonte, Brazil]] Panel_Discussion_2.jpg, Ligon Duncan, C. J. Mahaney, and Mark Dever.]]
+at Igreja Batista da Lagoinha, affiliated to the Convenção Batista Nacional, in 2016 in Belo Horizonte, Brazil]] , Ligon Duncan, C. J. Mahaney, and Mark Dever.]]
 
 As a trans-denominational movement, evangelicalism occurs in nearly every Protestant denomination and tradition. The Reformed, Baptist, Wesleyan, Pentecostal, Churches of Christ, Plymouth Brethren, charismatic Protestant, and nondenominational Protestant traditions have all had strong influence within contemporary evangelicalism.[20] Some Anabaptist denominations (such as the Brethren Church)[21] are evangelical, and some Lutherans self-identify as evangelicals. There are also evangelical Anglicans.[22]
 
@@ -47,7 +47,7 @@ Fundamentalism (sometimes known as conservative evangelicalism)[25] regards bibl
 
 Mainstream varieties
 
-Book_of_Common_Prayer_1760.jpg emphasized by evangelical Anglicans.]] Mainstream evangelicalism is historically divided between two main orientations: confessionalism and revivalism. These two streams have been critical of each other. Confessional evangelicals have been suspicious of unguarded religious experience, while revivalist evangelicals have been critical of overly intellectual teaching that (they suspect) stifles vibrant spirituality. In an effort to broaden their appeal, many contemporary evangelical congregations intentionally avoid identifying with any single form of evangelicalism. These "generic evangelicals" are usually theologically and socially conservative, but their churches often present themselves as nondenominational (or, if a denominational member, strongly de-emphasizing its ties to such, such as a church name which excludes the denominational name) within the broader evangelical movement.
+emphasized by evangelical Anglicans.]] Mainstream evangelicalism is historically divided between two main orientations: confessionalism and revivalism. These two streams have been critical of each other. Confessional evangelicals have been suspicious of unguarded religious experience, while revivalist evangelicals have been critical of overly intellectual teaching that (they suspect) stifles vibrant spirituality. In an effort to broaden their appeal, many contemporary evangelical congregations intentionally avoid identifying with any single form of evangelicalism. These "generic evangelicals" are usually theologically and socially conservative, but their churches often present themselves as nondenominational (or, if a denominational member, strongly de-emphasizing its ties to such, such as a church name which excludes the denominational name) within the broader evangelical movement.
 
 In the words of Albert Mohler, president of the Southern Baptist Theological Seminary, confessional evangelicalism refers to "that movement of Christian believers who seek a constant convictional continuity with the theological formulas of the Protestant Reformation". While approving of the evangelical distinctions proposed by Bebbington, confessional evangelicals believe that authentic evangelicalism requires more concrete definition in order to protect the movement from theological liberalism and from heresy. According to confessional evangelicals, subscription to the ecumenical creeds and to the Reformation-era confessions of faith (such as the confessions of the Reformed churches) provides such protection. Confessional evangelicals are represented by conservative Presbyterian churches (emphasizing the Westminster Confession), certain Baptist churches that emphasize historic Baptist confessions such as the Second London Confession, evangelical Anglicans who emphasize the Thirty-Nine Articles (such as in the Anglican Diocese of Sydney, Australia), and some confessional Lutherans with pietistic convictions.[26]
 
@@ -68,7 +68,7 @@ History
 
 Background
 
-Nikolaus_Ludwig_von_Zinzendorf_(portrait_by_Balthasar_Denner).jpg was a major influence on John Wesley in founding the Methodist movement.]] Evangelicalism did not take recognizable form until the 18th century, first in Britain and its North American colonies. Nevertheless, there were earlier developments within the larger Protestant world that preceded and influenced the later evangelical revivals. According to religion scholar, social activist, and politician Randall Balmer, Evangelicalism resulted "from the confluence of Pietism, Presbyterianism, and the vestiges of Puritanism. Evangelicalism picked up the peculiar characteristics from each strain – warmhearted spirituality from the Pietists (for instance), doctrinal precisionism from the Presbyterians, and individualistic introspection from the Puritans". Historian Mark Noll adds to this list High Church Anglicanism, which contributed to Evangelicalism a legacy of "rigorous spirituality and innovative organization".
+was a major influence on John Wesley in founding the Methodist movement.]] Evangelicalism did not take recognizable form until the 18th century, first in Britain and its North American colonies. Nevertheless, there were earlier developments within the larger Protestant world that preceded and influenced the later evangelical revivals. According to religion scholar, social activist, and politician Randall Balmer, Evangelicalism resulted "from the confluence of Pietism, Presbyterianism, and the vestiges of Puritanism. Evangelicalism picked up the peculiar characteristics from each strain – warmhearted spirituality from the Pietists (for instance), doctrinal precisionism from the Presbyterians, and individualistic introspection from the Puritans". Historian Mark Noll adds to this list High Church Anglicanism, which contributed to Evangelicalism a legacy of "rigorous spirituality and innovative organization".
 
 During the 17th century, Pietism emerged in Europe as a movement for the revival of piety and devotion within the Lutheran church. As a protest against "cold orthodoxy" or an overly formal and rational Christianity, Pietists advocated for an experiential religion that stressed high moral standards for both clergy and lay people. The movement included both Christians who remained in the liturgical, state churches as well as separatist groups who rejected the use of baptismal fonts, altars, pulpits, and confessionals. As Pietism spread, the movement's ideals and aspirations influenced and were absorbed into early Evangelicalism.
 
@@ -80,7 +80,7 @@ High Church Anglicanism also exerted influence on early Evangelicalism. High Chu
 
 18th century
 
-A_Faithful_Narrative_of_the_Surprizing_Work_of_God_by_Jonathan_Edwards_1737.jpg'']]
+'']]
 
 In the 1730s, Evangelicalism emerged as a distinct phenomenon out of religious revivals that began in Britain and New England. While religious revivals had occurred within Protestant churches in the past, the evangelical revivals that marked the 18th century were more intense and radical. Evangelical revivalism imbued ordinary men and women with a confidence and enthusiasm for sharing the gospel and converting others outside of the control of established churches, a key discontinuity with the Protestantism of the previous era.
 
@@ -92,7 +92,7 @@ At the same time, students at Yale University (at that time Yale College) in New
 
 The spring of 1735 also marked important events in England and Wales. Howell Harris, a Welsh schoolteacher, had a conversion experience on May 25 during a communion service. He described receiving assurance of God's grace after a period of fasting, self-examination, and despair over his sins. Sometime later, Daniel Rowland, the Anglican curate of Llangeitho, Wales, experienced conversion as well. Both men began preaching the evangelical message to large audiences, becoming leaders of the Welsh Methodist revival. At about the same time that Harris experienced conversion in Wales, George Whitefield was converted at Oxford University after his own prolonged spiritual crisis. Whitefield later remarked, "About this time God was pleased to enlighten my soul, and bring me into the knowledge of His free grace, and the necessity of being justified in His sight by _faith only_".
 
-John_Wesley_preaching_outside_a_church._Engraving._Wellcome_V0006868.jpges, John Wesley began open-air preaching.]]
+es, John Wesley began open-air preaching.]]
 
 Whitefield's fellow Holy Club member and spiritual mentor, Charles Wesley, reported an evangelical conversion in 1738. In the same week, Charles' brother and future founder of Methodism, John Wesley was also converted after a long period of inward struggle. During this spiritual crisis, John Wesley was directly influenced by Pietism. Two years before his conversion, Wesley had traveled to the newly established colony of Georgia as a missionary for the Society for Promoting Christian Knowledge. He shared his voyage with a group of Moravian Brethren led by August Gottlieb Spangenberg. The Moravians' faith and piety deeply impressed Wesley, especially their belief that it was a normal part of Christian life to have an assurance of one's salvation. Wesley recounted the following exchange with Spangenberg on February 7, 1736:
 
@@ -108,7 +108,7 @@ The start of the 19th century saw an increase in missionary work and many of the
 
 The Second Great Awakening (which actually began in 1790) was primarily an American revivalist movement and resulted in substantial growth of the Methodist and Baptist churches. Charles Grandison Finney was an important preacher of this period.
 
-Wilberforce_john_rising.jpg was a politician, philanthropist and an evangelical Anglican, who led the British movement to abolish the slave trade.]]
+was a politician, philanthropist and an evangelical Anglican, who led the British movement to abolish the slave trade.]]
 
 In Britain in addition to stressing the traditional Wesleyan combination of "Bible, cross, conversion, and activism", the revivalist movement sought a universal appeal, hoping to include rich and poor, urban and rural, and men and women. Special efforts were made to attract children and to generate literature to spread the revivalist message.[31]
 
@@ -124,7 +124,7 @@ An advanced theological perspective came from the Princeton theologians from the
 
 20th century
 
-Services_at_the_Pentecostal_Church_of_God._Lejunior,_Harlan_County,_Kentucky._-_NARA_-_541336.jpg in Lejunior, Kentucky, 1946]]
+in Lejunior, Kentucky, 1946]]
 
 After 1910 the Fundamentalist movement dominated Evangelicalism in the early part of the 20th century; the Fundamentalists rejected liberal theology and emphasized the inerrancy of the Scriptures.
 
@@ -132,7 +132,7 @@ Following the 1904–1905 Welsh revival, the Azusa Street Revival in 1906 began 
 
 In the post–World War II period a split developed between Evangelicals as they disagreed among themselves about how individual Christians ought to respond to an unbelieving world. Many Evangelicals urged that Christians must engage "the culture" directly and constructively,[38] and they began to express reservations about being known to the world as _fundamentalists_. As Kenneth Kantzer put it at the time, the name _fundamentalist_ had become "an embarrassment instead of a badge of honor".[39]
 
-Bundesarchiv_Bild_194-0798-29,_Düsseldorf,_Veranstaltung_mit_Billy_Graham.jpg in Duisburg, Germany, 1954]]
+in Duisburg, Germany, 1954]]
 
 In 1947 Harold Ockenga coined the term _neo-evangelicalism_ to identify a distinct movement within self-identified fundamentalist Christianity at the time, especially in the English-speaking world. It described the mood of positivism and non-militancy that characterized that generation. The new generation of Evangelicals set as their goal to abandon a militant Bible stance. Instead, they would pursue dialogue, intellectualism, non-judgmentalism, and appeasement. They further called for an increased application of the gospel to sociological, political, and economic areas.
 
@@ -151,13 +151,13 @@ The closing years of the 20th century saw controversial postmodern influences en
 
 Worship service
 
-_Faith_Tabernacle_worship.jpg at Faith Tabernacle, affiliated to the Living Faith Church Worldwide, in 2005, in Lagos, Nigeria]]
+at Faith Tabernacle, affiliated to the Living Faith Church Worldwide, in 2005, in Lagos, Nigeria]]
 
 The worship service in evangelical churches is seen as an act of God's worship.[43] Diversity characterizes evangelical worship practices. Liturgical, contemporary, charismatic and seeker-sensitive worship styles can all be found among evangelical churches. Overall, evangelicals tend to be more flexible and experimental with worship practices than mainline Protestant churches.[44] It is usually run by a Christian pastor. A service is often divided into several parts, including congregational singing, a sermon, intercessory prayer, and other ministry.[45] [46] [47][48]
 
 Places of worship
 
-Yoido_Full_Gospel_Church_1.JPG, affiliated to the Assemblies of God, in 2015, in Seoul, South Korea]] Places of worship are usually called "church building" or "temples".[49][50][51][52] In some megachurches, the building is called "campus".[53][54] For evangelicals, the building is not sacred.[55] Some services take place in auditoriums or multipurpose rooms with few religious symbols.[56][57][58] Because of their understanding of the second of the Ten Commandments, evangelicals do not have religious material representations such as statutes, icons, or paintings in their places of worship. [59] The latin cross is one of the only spiritual symbols that can usually be found on a building or in the auditorium of an evangelical church. [60] There is usually a baptistery on the stage of the auditorium (also called sanctuary) or in a separate room, for the baptisms by immersion. [61][62]
+, affiliated to the Assemblies of God, in 2015, in Seoul, South Korea]] Places of worship are usually called "church building" or "temples".[49][50][51][52] In some megachurches, the building is called "campus".[53][54] For evangelicals, the building is not sacred.[55] Some services take place in auditoriums or multipurpose rooms with few religious symbols.[56][57][58] Because of their understanding of the second of the Ten Commandments, evangelicals do not have religious material representations such as statutes, icons, or paintings in their places of worship. [59] The latin cross is one of the only spiritual symbols that can usually be found on a building or in the auditorium of an evangelical church. [60] There is usually a baptistery on the stage of the auditorium (also called sanctuary) or in a separate room, for the baptisms by immersion. [61][62]
 
 
 International Evangelical NGOs
@@ -167,7 +167,7 @@ Large Evangelical Christian humanitarian aid non-governmental organizations (NGO
 
 Global statistics
 
-Iurd_russia.jpg in a Universal Church of the Kingdom of God in Russia]] According to a 2011 Pew Forum study on global Christianity, 285,480,000 or 13.1 percent of all Christians are Evangelicals.[65] These figures do not include the Evangelical movements Pentecostalism and Charismatic movement; 584,080,000. The study states that the category "Evangelicals" should not be considered as a separate category of "Pentecostal and Charismatic" categories, since some believers consider themselves in both movements where their church is affiliated with an Evangelical association.[66]
+in a Universal Church of the Kingdom of God in Russia]] According to a 2011 Pew Forum study on global Christianity, 285,480,000 or 13.1 percent of all Christians are Evangelicals.[65] These figures do not include the Evangelical movements Pentecostalism and Charismatic movement; 584,080,000. The study states that the category "Evangelicals" should not be considered as a separate category of "Pentecostal and Charismatic" categories, since some believers consider themselves in both movements where their church is affiliated with an Evangelical association.[66]
 
 In 2015, the World Evangelical Alliance is "a network of churches in 129 nations that have each formed an Evangelical alliance and over 100 international organizations joining together to give a world-wide identity, voice, and platform to more than 600 million Evangelical Christians".[67][68] The Alliance was formed in 1951 by Evangelicals from 21 countries. It has worked to support its members to work together globally.
 
@@ -201,11 +201,11 @@ In modern Latin America, the term "Evangelical" is often simply a synonym for "P
 
 Brazil
 
-Templo_de_Salomão_-_1.JPG replica built by the Universal Church of the Kingdom of God in São Paulo]] Protestantism in Brazil largely originated with German immigrants and British and American missionaries in the 19th century, following up on efforts that began in the 1820s.[82]
+replica built by the Universal Church of the Kingdom of God in São Paulo]] Protestantism in Brazil largely originated with German immigrants and British and American missionaries in the 19th century, following up on efforts that began in the 1820s.[82]
 
 In the late nineteenth century, while the vast majority of Brazilians were nominal Catholics, the nation was underserved by priests, and for large numbers their religion was only nominal. The Catholic Church in Brazil was de-established in 1890, and responded by increasing the number of dioceses and the efficiency of its clergy. Many Protestants came from a large German immigrant community, but they were seldom engaged in proselytism and grew mostly by natural increase.
 
-Methodists were active along with Presbyterians and Baptists. The Scottish missionary Dr. Robert Reid Kalley, with support from the Free Church of Scotland, moved to Brazil in 1855, founding the first Evangelical church among the Portuguese-speaking population there in 1856. It was organized according to the Congregational policy as the Igreja Evangélica Fluminense; it became the mother church of Congregationalism in Brazil.[83] The Seventh-day Adventists arrived in 1894, and the YMCA was organized in 1896. The missionaries promoted schools colleges and seminaries, including a liberal arts college in São Paulo, later known as Mackenzie, and an agricultural school in Lavras. The Presbyterian schools in particular later became the nucleus of the governmental system. In 1887 Protestants in Rio de Janeiro formed a hospital. The missionaries largely reached a working-class audience, as the Brazilian upper-class was wedded either to Catholicism or to secularism. By 1914, Protestant churches founded by American missionaries had 47,000 communicants, served by 282 missionaries. In general, these missionaries were more successful than they had been in Mexico, Argentina or elsewhere in Latin America.[84] São_Francisco_Brejão_2.jpg building in Brazil]] There were 700,000 Protestants by 1930, and increasingly they were in charge of their own affairs. In 1930, the Methodist Church of Brazil became independent of the missionary societies and elected its own bishop. Protestants were largely from a working-class, but their religious networks help speed their upward social mobility.[85][86]
+Methodists were active along with Presbyterians and Baptists. The Scottish missionary Dr. Robert Reid Kalley, with support from the Free Church of Scotland, moved to Brazil in 1855, founding the first Evangelical church among the Portuguese-speaking population there in 1856. It was organized according to the Congregational policy as the Igreja Evangélica Fluminense; it became the mother church of Congregationalism in Brazil.[83] The Seventh-day Adventists arrived in 1894, and the YMCA was organized in 1896. The missionaries promoted schools colleges and seminaries, including a liberal arts college in São Paulo, later known as Mackenzie, and an agricultural school in Lavras. The Presbyterian schools in particular later became the nucleus of the governmental system. In 1887 Protestants in Rio de Janeiro formed a hospital. The missionaries largely reached a working-class audience, as the Brazilian upper-class was wedded either to Catholicism or to secularism. By 1914, Protestant churches founded by American missionaries had 47,000 communicants, served by 282 missionaries. In general, these missionaries were more successful than they had been in Mexico, Argentina or elsewhere in Latin America.[84] building in Brazil]] There were 700,000 Protestants by 1930, and increasingly they were in charge of their own affairs. In 1930, the Methodist Church of Brazil became independent of the missionary societies and elected its own bishop. Protestants were largely from a working-class, but their religious networks help speed their upward social mobility.[85][86]
 
 Protestants accounted for fewer than 5% of the population until the 1960s, but grew exponentially by proselytizing and by 2000 made up over 15% of Brazilians affiliated with a church. Pentecostals and charismatic groups account for the vast majority of this expansion.
 
@@ -219,12 +219,12 @@ One large Evangelical church that originated from Brasil is the Universal Church
 
 Guatemala
 
-Cash_Luna.jpg, an evangelical Protestant televangelist in Guatemala]] Protestants remained a small portion of the population until the late-twentieth century, when various Protestant groups experienced a demographic boom that coincided with the increasing violence of the Guatemalan Civil War. Two former Guatemalan heads of state, General Efraín Ríos Montt and Jorge Serrano Elías have been practicing Evangelical Protestants, as is Guatemala's current President, Jimmy Morales.[93][94] General Montt, an Evangelical from the Pentecostal tradition, came to power through a coup. He escalated the war against leftist guerilla insurgents as a holy war against atheistic "forces of evil".
+, an evangelical Protestant televangelist in Guatemala]] Protestants remained a small portion of the population until the late-twentieth century, when various Protestant groups experienced a demographic boom that coincided with the increasing violence of the Guatemalan Civil War. Two former Guatemalan heads of state, General Efraín Ríos Montt and Jorge Serrano Elías have been practicing Evangelical Protestants, as is Guatemala's current President, Jimmy Morales.[93][94] General Montt, an Evangelical from the Pentecostal tradition, came to power through a coup. He escalated the war against leftist guerilla insurgents as a holy war against atheistic "forces of evil".
 
 
 Asia
 
-Revival_crusade_in_Andhra_Pradesh,_India,_Johannes_Maas,_American_evangelist,_speaking.jpg in 1974. Spreading the revival is an essential part of work done by evangelical missionaries.]]
+in 1974. Spreading the revival is an essential part of work done by evangelical missionaries.]]
 
 South Korea
 
@@ -260,7 +260,7 @@ In the 21st century there are an estimated 2 million Evangelicals in the UK.[112
 
 United States
 
-TheCallStage.JPG rally in 2008, Washington, D.C.. United States Capitol in the background.]] BibleBelt.png, an area covering almost all of the Southern United States. Evangelicals form a majority in the region.]] By the late 19th to early 20th century, most American Protestants were Evangelicals. A bitter divide had arisen between the more liberal-modernist mainline denominations and the fundamentalist denominations, the latter typically consisting of Evangelicals. Key issues included the truth of the Bible--literal or figurative, and teaching of evolution in the schools.[116]
+rally in 2008, Washington, D.C.. United States Capitol in the background.]] , an area covering almost all of the Southern United States. Evangelicals form a majority in the region.]] By the late 19th to early 20th century, most American Protestants were Evangelicals. A bitter divide had arisen between the more liberal-modernist mainline denominations and the fundamentalist denominations, the latter typically consisting of Evangelicals. Key issues included the truth of the Bible--literal or figurative, and teaching of evolution in the schools.[116]
 
 During and after World War II, Evangelicals became increasingly organized. There was a great expansion of Evangelical activity within the United States, "a revival of revivalism." Youth for Christ was formed; it later became the base for Billy Graham's revivals. The National Association of Evangelicals formed in 1942 as a counterpoise to the mainline Federal Council of Churches. In 1942–43, the Old-Fashioned Revival Hour had a record-setting national radio audience. With this organization, though, fundamentalist groups separated from Evangelicals.
 

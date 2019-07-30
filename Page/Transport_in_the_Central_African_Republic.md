@@ -1,4 +1,4 @@
-Djemah_Ferry_Boat.jpeg are sometimes used to transport vehicles across rivers.]] Modes of transport in the Central African Republic include road, water, and air. Most but not all of the country is connected to the road network, much of which is unpaved, and which centres on the _routes nationales_ identified as RN1 to RN11. Bangui serves as a seaport, and 900 km of inland waterways are navigable, the main route being the Oubangui river. There is one international airport at Bangui-Mpoko, two other paved airports, and over 40 with unpaved runways.
+are sometimes used to transport vehicles across rivers.]] Modes of transport in the Central African Republic include road, water, and air. Most but not all of the country is connected to the road network, much of which is unpaved, and which centres on the _routes nationales_ identified as RN1 to RN11. Bangui serves as a seaport, and 900 km of inland waterways are navigable, the main route being the Oubangui river. There is one international airport at Bangui-Mpoko, two other paved airports, and over 40 with unpaved runways.
 
 
 Railways
@@ -10,7 +10,7 @@ A line from Cameroon port of Kribi to Bangui was proposed in 2002.[1]
 
 Highways
 
-Food_Convoy_in_Central_African_Republic.jpeg In 2002, the country had 23,810 km (14,796 mi) of roads, of which only 429 km (267 mi) were paved. A rehabilitation project, begun in 1974 and completed ten years later, centered on three highways running north, west, and south from Nola. In 2003, there were about 1,850 passenger cars and 1,650 commercial vehicles in use.
+In 2002, the country had 23,810 km (14,796 mi) of roads, of which only 429 km (267 mi) were paved. A rehabilitation project, begun in 1974 and completed ten years later, centered on three highways running north, west, and south from Nola. In 2003, there were about 1,850 passenger cars and 1,650 commercial vehicles in use.
 
 -   Total: 23,810 km
 -   Paved: 643 km
@@ -39,7 +39,7 @@ There is only one river port. It is at the city of Bangui.
 
 Airports
 
-Reaching_those_in_need_(11237183866).jpg In 2004, there were an estimated 50 airports. However, only three had paved runways, as of 2005. There is an international airport at Bangui-Mpoko. Five airlines provide international transport. The Republic was also a partner in Air Afrique, before it ceased operations in 2002. Inter-RCA provides domestic service. In 2003, about 46,000 passengers were carried on domestic and international flights.
+In 2004, there were an estimated 50 airports. However, only three had paved runways, as of 2005. There is an international airport at Bangui-Mpoko. Five airlines provide international transport. The Republic was also a partner in Air Afrique, before it ceased operations in 2002. Inter-RCA provides domestic service. In 2003, about 46,000 passengers were carried on domestic and international flights.
 
 Airports with paved runways
 

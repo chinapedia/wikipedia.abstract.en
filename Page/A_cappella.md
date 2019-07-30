@@ -53,7 +53,7 @@ The popularization of the Jewish chant may be found in the writings of the Jewis
 
 In the United States
 
-The_Hullabahoos.jpg, were featured in the movie _Pitch Perfect_]] Peter Christian Lutkin, dean of the Northwestern University School of Music, helped popularize a cappella music in the United States by founding the Northwestern A Cappella Choir in 1906. The A Cappella Choir was "the first permanent organization of its kind in America."[41][42]
+, were featured in the movie _Pitch Perfect_]] Peter Christian Lutkin, dean of the Northwestern University School of Music, helped popularize a cappella music in the United States by founding the Northwestern A Cappella Choir in 1906. The A Cappella Choir was "the first permanent organization of its kind in America."[41][42]
 
 An a cappella tradition was begun in 1911 by F. Melius Christiansen, a music faculty member at St. Olaf College in Northfield, Minnesota.[43] The St. Olaf College Choir was established as an outgrowth of the local St. John's Lutheran Church, where Christiansen was organist and the choir was composed, at least partially, of students from the nearby St. Olaf campus. The success of the ensemble was emulated by other regional conductors, and a tradition of a cappella choral music was born in the region at colleges like Concordia College (Moorhead, Minnesota), Augustana College (Rock Island, Illinois), Wartburg College (Waverly, Iowa), Luther College (Decorah, Iowa), Gustavus Adolphus College (St. Peter, Minnesota), Augustana College (Sioux Falls, South Dakota), and Augsburg University (Minneapolis, Minnesota). The choirs typically range from 40 to 80 singers and are recognized for their efforts to perfect blend, intonation, phrasing and pitch in a large choral setting.[44][45]
 
@@ -124,7 +124,7 @@ The reasons for the strong Swedish dominance are as explained by Richard Sparks 
 
 United Kingdom
 
-Oxfordalternotives.jpg, the oldest a cappella group at the University of Oxford in the UK]] University_of_Exeter's_Sweet_Nothings.jpg A cappella has gained attention in the UK in recent years, with many groups forming at British universities by students seeking an alternative singing pursuit to traditional choral and chapel singing. This movement has been bolstered by organisations such as The Voice Festival UK.
+, the oldest a cappella group at the University of Oxford in the UK]] A cappella has gained attention in the UK in recent years, with many groups forming at British universities by students seeking an alternative singing pursuit to traditional choral and chapel singing. This movement has been bolstered by organisations such as The Voice Festival UK.
 
 
 Collegiate

@@ -1,4 +1,4 @@
-Moths_attracted_by_floodlight.jpg of moths flying around a floodlight shows an exaggerated "rod" effect.]]
+of moths flying around a floodlight shows an exaggerated "rod" effect.]]
 
 In cryptozoology and ufology, "RODS" (also known as "SKYFISH", "AIR RODS", or "SOLAR ENTITIES") are elongated visual artifacts appearing in photographic images and video recordings. Some paranormal proponents claim them to be extraterrestrial lifeforms, extradimensional creatures, or very small UFOs. However, these artifacts appear naturally in video and outdoor photography as the result of an optical illusion due to motion blur, especially in interlaced video recording, and are typically afterimage trails of flying insects and their wingbeats.[1]
 

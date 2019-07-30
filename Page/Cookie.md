@@ -7,7 +7,7 @@ Cookies or biscuits may be mass-produced in factories, made in small bakeries or
 
 Terminology
 
-Holiday_Cookie_Tray.jpg In most English-speaking countries outside North America, including the United Kingdom, the most common word for a crisp cookie is BISCUIT.[2] The term COOKIE is normally used to describe chewier ones.[3] However, in many regions both terms are used.
+In most English-speaking countries outside North America, including the United Kingdom, the most common word for a crisp cookie is BISCUIT.[2] The term COOKIE is normally used to describe chewier ones.[3] However, in many regions both terms are used.
 
 In Scotland the term COOKIE is sometimes used to describe a plain bun.[4]
 
@@ -23,7 +23,7 @@ According to the Scottish National Dictionary, its Scottish name derives from th
 
 Description
 
-Různé_druhy_cukroví_(2).jpg filled with jam.]] Cookies are most commonly baked until crisp or just long enough that they remain soft, but some kinds of cookies are not baked at all. Cookies are made in a wide variety of styles, using an array of ingredients including sugars, spices, chocolate, butter, peanut butter, nuts, or dried fruits. The softness of the cookie may depend on how long it is baked.
+filled with jam.]] Cookies are most commonly baked until crisp or just long enough that they remain soft, but some kinds of cookies are not baked at all. Cookies are made in a wide variety of styles, using an array of ingredients including sugars, spices, chocolate, butter, peanut butter, nuts, or dried fruits. The softness of the cookie may depend on how long it is baked.
 
 A general theory of cookies may be formulated this way. Despite its descent from cakes and other sweetened breads, the cookie in almost all its forms has abandoned water as a medium for cohesion. Water in cakes serves to make the base (in the case of cakes called "batter"[7]) as thin as possible, which allows the bubbles – responsible for a cake's fluffiness – to better form. In the cookie, the agent of cohesion has become some form of oil. Oils, whether they be in the form of butter, vegetable oils, or lard, are much more viscous than water and evaporate freely at a much higher temperature than water. Thus a cake made with butter or eggs instead of water is far denser after removal from the oven.
 
@@ -32,7 +32,7 @@ Oils in baked cakes do not behave as soda tends to in the finished result. Rathe
 
 History
 
-Thumbprint_Cookies_(7712226646).jpg Cookie-like hard wafers have existed for as long as baking is documented, in part because they deal with travel very well, but they were usually not sweet enough to be considered cookies by modern standards.[8]
+Cookie-like hard wafers have existed for as long as baking is documented, in part because they deal with travel very well, but they were usually not sweet enough to be considered cookies by modern standards.[8]
 
 Cookies appear to have their origins in 7th century AD Persia, shortly after the use of sugar became relatively common in the region.[9] They spread to Europe through the Muslim conquest of Spain. By the 14th century, they were common in all levels of society throughout Europe, from royal cuisine to street vendors.
 
@@ -40,7 +40,7 @@ With global travel becoming widespread at that time, cookies made a natural trav
 
 Cookies came to America through the Dutch in New Amsterdam in the late 1620s. The Dutch word "koekje" was Anglicized to "cookie" or COOKY. The earliest reference to cookies in America is in 1703, when "The Dutch in New York provided...'in 1703...at a funeral 800 cookies...'"[10]
 
-The most common modern cookie, given its style by the creaming of butter and sugar, was not common until the 18th century.[11] Bakarkhani_cookies.jpg Cookie is part of Mughlai cuisine of the Indian subcontinent]]
+The most common modern cookie, given its style by the creaming of butter and sugar, was not common until the 18th century.[11] Cookie is part of Mughlai cuisine of the Indian subcontinent]]
 
 
 Classification

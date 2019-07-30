@@ -21,8 +21,6 @@ Visual representations
 
 The affinity concept was very closely linked to the visual representation of substances on a table. The first-ever _affinity table_, which was based on displacement reactions, was published in 1718 by the French chemist Étienne François Geoffroy. Geoffroy's name is best known in connection with these tables of "affinities" (_tables des rapports_), which were first presented to the French Academy of Sciences in 1718 and 1720, as shown below:
 
-Affinity-table.jpg
-
 During the 18th century many versions of the table were proposed with leading chemists like Torbern Bergman in Sweden and Joseph Black in Scotland adapting it to accommodate new chemical discoveries. All the tables were essentially lists, prepared by collating observations on the actions of substances one upon another, showing the varying degrees of affinity exhibited by analogous bodies for different reagents.
 
 Crucially, the table was the central graphic tool used to teach chemistry to students and its visual arrangement was often combined with other kinds diagrams. Joseph Black, for example, used the table in combination with chiastic and circlet diagrams to visualise the core principles of chemical affinity.[12] Affinity tables were used throughout Europe until the early 19th century when they were displaced by affinity concepts introduced by Claude Berthollet.

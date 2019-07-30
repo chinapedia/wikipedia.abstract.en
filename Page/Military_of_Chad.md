@@ -3,7 +3,7 @@ The MILITARY OF CHAD consists of the National Army (includes Ground Forces, Air 
 
 History
 
-Chadian_Eland_Mk7.jpg armoured car.]] From independence through the period of the presidency of Félix Malloum (1975–79), the official national army was known as the Chadian Armed Forces (Forces Armées Tchadiennes—FAT). Composed mainly of soldiers from southern Chad, FAT had its roots in the army recruited by France and had military traditions dating back to World War I. FAT lost its status as the legal state army when Malloum's civil and military administration disintegrated in 1979. Although it remained a distinct military body for several years, FAT was eventually reduced to the status of a regional army representing the south.
+armoured car.]] From independence through the period of the presidency of Félix Malloum (1975–79), the official national army was known as the Chadian Armed Forces (Forces Armées Tchadiennes—FAT). Composed mainly of soldiers from southern Chad, FAT had its roots in the army recruited by France and had military traditions dating back to World War I. FAT lost its status as the legal state army when Malloum's civil and military administration disintegrated in 1979. Although it remained a distinct military body for several years, FAT was eventually reduced to the status of a regional army representing the south.
 
 After Habré consolidated his authority and assumed the presidency in 1982, his victorious army, the Armed Forces of the North (Forces Armées du Nord—FAN), became the nucleus of a new national army. The force was officially constituted in January 1983, when the various pro-Habré contingents were merged and renamed the Chadian National Armed Forces (Forces Armées Nationales Tchadiennes—FANT).
 

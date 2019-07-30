@@ -1,4 +1,4 @@
-DigitalClock_1hour.gif to 1 a.m. on a 24-hour clock with a digital face]] AnalogClockAnimation1_2hands_1h_in_6sec.gif) to 1 on a 12-hour clock with an analog face]] An HOUR (symbol: H;[1] also abbreviated HR.) is a unit of time conventionally reckoned as of a day and scientifically reckoned as 3,599–3,601 seconds, depending on conditions.
+to 1 a.m. on a 24-hour clock with a digital face]] ) to 1 on a 12-hour clock with an analog face]] An HOUR (symbol: H;[1] also abbreviated HR.) is a unit of time conventionally reckoned as of a day and scientifically reckoned as 3,599–3,601 seconds, depending on conditions.
 
 The hour was initially established in the ancient Near East as a variable measure of of the night or daytime. Such SEASONAL, TEMPORAL, or UNEQUAL HOURS varied by season and latitude. The hour was subsequently divided into 60 minutes, each of 60 seconds. EQUAL or EQUINOCTIAL HOURS were taken as of the day as measured from noon to noon; the minor seasonal variations of this unit were eventually smoothed by making it of the mean solar day. Since this unit was not constant due to long term variations in the Earth's rotation, the hour was finally separated from the Earth's rotation and defined in terms of the atomic or physical second.
 
@@ -32,7 +32,7 @@ The Egyptian hours were closely connected both with the priesthood of the gods a
 
 East Asia
 
-Clock_Tower_from_Su_Song's_Book.JPG's 1092 _Xinyi Xiangfa Yao_ illustrating his clocktower at Kaifeng.]] Beijing_2006_1-14.jpg in Beijing's Drum Tower]] Ancient China divided its day into 100 "marks" running from midnight to midnight. The system is said to have been used since remote antiquity, credited to the legendary Yellow Emperor, but is first attested in Han-era water clocks and in the 2nd-century history of that dynasty. It was measured with sundials and water clocks. Into the Eastern Han, the Chinese measured their day schematically, adding the 20-_ke_ difference between the solstices evenly throughout the year, one every nine days. During the night, time was more commonly reckoned during the night by the "watches" of the guard, which were reckoned as a fifth of the time from sunset to sunrise.
+'s 1092 _Xinyi Xiangfa Yao_ illustrating his clocktower at Kaifeng.]] in Beijing's Drum Tower]] Ancient China divided its day into 100 "marks" running from midnight to midnight. The system is said to have been used since remote antiquity, credited to the legendary Yellow Emperor, but is first attested in Han-era water clocks and in the 2nd-century history of that dynasty. It was measured with sundials and water clocks. Into the Eastern Han, the Chinese measured their day schematically, adding the 20-_ke_ difference between the solstices evenly throughout the year, one every nine days. During the night, time was more commonly reckoned during the night by the "watches" of the guard, which were reckoned as a fifth of the time from sunset to sunrise.
 
 Imperial China continued to use _ke_ and _geng_ but also began to divide the day into 12 "double hours" named after the earthly branches and sometimes also known by the name of the corresponding animal of the Chinese zodiac. The first _shi_ originally ran from 11pm to 1am but was reckoned as starting at midnight by the time of the History of Song, compiled during the early Yuan. These apparently began to be used during the Eastern Han that preceded the Three Kingdoms era, but the sections that would have covered them are missing from their official histories; they first appear in official use in the Tang-era Book of Sui. Variations of all these units were subsequently adopted by Japan and the other countries of the Sinosphere.
 
@@ -46,7 +46,7 @@ In Thailand, Laos, and Cambodia, the traditional system of noting hours is the s
 
 Other ancient cultures
 
-Drei_Horen.jpg of the Greeks and Romans]]
+of the Greeks and Romans]]
 
 The Vedas and Puranas employed units of time based on the sidereal day (_nakṣatra ahorātram_). This was variously divided into 30 _muhūtras_ of 48 minutes each or 60 _dandas_ or _nadís_ of 24 minutes each.[13] The solar day was later similarly divided into 60 _ghaṭikás_ of about the same duration, each divided in turn into 60 _vinadis_.[14] The Sinhalese followed a similar system but called their sixtieth of a day a _peya_.
 
@@ -54,7 +54,7 @@ The ancient Greeks and Romans originally divided the day into 12 hours and the n
 
 Middle Ages
 
-Bishopstone_sundial.jpg on the porch at Bishopstone in Sussex, with larger crosses marking the canonical hours.]] During Europe's Middle Ages, the Roman hours continued to be marked on sundials but the more important units of time were the canonical hours of the Orthodox and Catholic Church. During daylight, these followed the pattern set by the three-hour bells of the Roman markets, which were succeeded by the bells of local churches. They rang prime at about 6am, terce at about 9am, sext at noon, nones at about 3pm, and vespers at either 6pm or sunset. Matins and lauds precede these irregularly in the morning hours; compline follows them irregularly before sleep; and the midnight office follows that. Vatican II ordered their reformation for the Catholic Church in 1963,[16] though they continue to be observed in the Orthodox churches.
+on the porch at Bishopstone in Sussex, with larger crosses marking the canonical hours.]] During Europe's Middle Ages, the Roman hours continued to be marked on sundials but the more important units of time were the canonical hours of the Orthodox and Catholic Church. During daylight, these followed the pattern set by the three-hour bells of the Roman markets, which were succeeded by the bells of local churches. They rang prime at about 6am, terce at about 9am, sext at noon, nones at about 3pm, and vespers at either 6pm or sunset. Matins and lauds precede these irregularly in the morning hours; compline follows them irregularly before sleep; and the midnight office follows that. Vatican II ordered their reformation for the Catholic Church in 1963,[16] though they continue to be observed in the Orthodox churches.
 
 When mechanical clocks began to be used to show hours of daylight or nighttime, their period needed to be changed every morning and evening (for example, by changing the length of their pendula). The use of 24 hours for the entire day meant hours varied much less and the clocks needed to be adjusted only a few times a month.
 
@@ -70,10 +70,6 @@ In modern life, the ubiquity of clocks and other timekeeping devices means that 
 
 
 Counting hours
-
-Equatorial_sundial_topview.gif
-
-Planispheric_astrolabe.png
 
 Many different ways of counting the hours have been used. Because sunrise, sunset, and, to a lesser extent, noon, are the conspicuous points in the day, starting to count at these times was, for most people in most early societies, much easier than starting at midnight. However, with accurate clocks and modern astronomical equipment (and the telegraph or similar means to transfer a time signal in a split-second), this issue is much less relevant.
 

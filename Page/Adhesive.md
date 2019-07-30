@@ -1,4 +1,4 @@
-AdhesivesForHouseUse004.jpg adhesive dispensed from a tube]]
+adhesive dispensed from a tube]]
 
 ADHESIVE, also known as GLUE, CEMENT, MUCILAGE, or PASTE,[1] is any non metallic substance applied to one surface, or both surfaces, of two separate items that binds them together and resists their separation.[2] Adjectives may be used in conjunction with the word "adhesive" to describe properties based on the substance's physical or chemical form, the type of materials joined, or conditions under which it is applied.[3]
 
@@ -9,7 +9,7 @@ Adhesives may be found naturally or produced synthetically. The earliest human u
 
 History
 
-ReconstructedOetziAxe.jpg The earliest known use of adhesives was discovered in central Italy when two stone flakes partially covered with birch-bark tar and a third uncovered stone from the Middle Pleistocene era (circa 200,000 years ago) were found. This is thought to be the oldest discovered human use of tar-hafted stones.[6]
+The earliest known use of adhesives was discovered in central Italy when two stone flakes partially covered with birch-bark tar and a third uncovered stone from the Middle Pleistocene era (circa 200,000 years ago) were found. This is thought to be the oldest discovered human use of tar-hafted stones.[6]
 
 The birch-bark-tar adhesive is a simple, one-component adhesive. Although sticky enough, plant-based adhesives are brittle and vulnerable to environmental conditions. The first use of compound adhesives was discovered in Sibudu, South Africa. Here, 70,000-year-old stone segments that were once inserted in axe hafts were discovered covered with an adhesive composed of plant gum and red ochre (natural iron oxide) as adding ochre to plant gum produces a stronger product and protects the gum from disintegrating under wet conditions.[7] The ability to produce stronger adhesives allowed middle stone age humans to attach stone segments to sticks in greater variations, which led to the development of new tools.[8]
 
@@ -19,15 +19,13 @@ In 2000, a paper revealed the discovery of a 5,200-year-old man nicknamed the "T
 
 The first references to adhesives in literature first appeared in approximately 2000 BC. Further historical records of adhesive use are found from the period spanning 1500–1000 BC. Artifacts from this period include paintings depicting wood gluing operations and a casket made of wood and glue in King Tutankhamun's tomb. Other ancient Egyptian artifacts employ animal glue for bonding or lamination. Such lamination of wood for bows and furniture is thought to have extended their life and was accomplished using casein (milk protein)-based glues. The ancient Egyptians also developed starch-based pastes for the bonding of papyrus to clothing and a plaster of Paris-like material made of calcined gypsum.
 
-From AD 1 to 500 the Greeks and Romans made great contributions to the development of adhesives. Wood veneering and marquetry were developed, the production of animal and fish glues refined, and other materials utilized. Egg-based pastes were used to bond gold leaves incorporated various natural ingredients such as blood, bone, hide, milk, cheese, vegetables, and grains. The Greeks began the use of slaked lime as mortar while the Romans furthered mortar development by mixing lime with volcanic ash and sand. This material, known as pozzolanic cement, was used in the construction of the Roman Colosseum and Pantheon. The Romans were also the first people known to have used tar and beeswax as caulk and sealant between the wooden planks of their boats and ships. Molten_beeswax.JPG Pidvysoke_(66).JPG factory in Ukraine]]
+From AD 1 to 500 the Greeks and Romans made great contributions to the development of adhesives. Wood veneering and marquetry were developed, the production of animal and fish glues refined, and other materials utilized. Egg-based pastes were used to bond gold leaves incorporated various natural ingredients such as blood, bone, hide, milk, cheese, vegetables, and grains. The Greeks began the use of slaked lime as mortar while the Romans furthered mortar development by mixing lime with volcanic ash and sand. This material, known as pozzolanic cement, was used in the construction of the Roman Colosseum and Pantheon. The Romans were also the first people known to have used tar and beeswax as caulk and sealant between the wooden planks of their boats and ships. factory in Ukraine]]
 
 In Central Asia, the rise of the Mongols in approximately AD 1000 can be partially attributed to the good range and power of the bows of Genghis Khan's hordes. These bows were constructed with laminated lemonwood and bullhorn bonded by an unknown adhesive.[12]
 
 In Europe, glue fell into disuse until the period AD 1500–1700. At this time, world-renowned cabinet and furniture makers such as Thomas Chippendale and Duncan Phyfe began to use adhesives to hold their products together.
 
 The development of modern adhesives began in 1690 with the founding of the first commercial glue plant in Holland. This plant produced glues from animal hides.
-
-Animal_glue_liquid.jpg
 
 In 1750, the first British glue patent was issued for fish glue. The following decades of the next century witnessed the manufacture of casein glues in German and Swiss factories. In 1876, the first US patent (number 183,024) was issued to the Ross brothers for the production of casein glue.[13]
 
@@ -80,8 +78,6 @@ _Contact adhesives_ are used in strong bonds with high shear-resistance like lam
 Contact adhesives must be applied to both surfaces and allowed some time to dry before the two surfaces are pushed together. Some contact adhesives require as long as 24 hours to dry before the surfaces are to be held together.[18] Once the surfaces are pushed together, the bond forms very quickly.[19] It is usually not necessary to apply pressure for a long time, so there is less need for clamps.
 
 Hot
-
-Stanley-Hot-Glue-Gun-GR35K.jpg
 
 _Hot adhesives_, also known as _hot melt adhesives_, are thermoplastics applied in molten form (in the 65–180 °C range) which solidify on cooling to form strong bonds between a wide range of materials. Ethylene-vinyl acetate-based hot-melts are particularly popular for crafts because of their ease of use and the wide range of common materials they can join. A glue gun (shown at right) is one method of applying hot adhesives. The glue gun melts the solid adhesive, then allows the liquid to pass through its barrel onto the material, where it solidifies.
 
@@ -155,8 +151,6 @@ The quality of adhesive bonding depends strongly on the ability of the adhesive 
 
 Failure
 
-AdhesiveFractures.svg
-
 There are several factors that could contribute to the failure of two adhered surfaces. Sunlight and heat may weaken the adhesive. Solvents can deteriorate or dissolve adhesive. Physical stresses may also cause the separation of surfaces. When subjected to loading, debonding may occur at different locations in the adhesive joint. The major fracture types are the following:
 
 Cohesive fracture
@@ -177,8 +171,6 @@ Other types of fracture include:
 
 
 Design of adhesive joints
-
-fracture_modes_v2.svg
 
 As a general design rule, the material properties of the object need to be greater than the forces anticipated during its use. (i.e. geometry, loads, etc.). The engineering work will consist of having a good model to evaluate the function. For most adhesive joints, this can be achieved using fracture mechanics. Concepts such as the stress concentration factor and the strain energy release rate can be used to predict failure. In such models, the behavior of the adhesive layer itself is neglected and only the adherents are considered.
 

@@ -7,7 +7,7 @@ History
 
 1969: formation
 
-Dave_Brock_Hawkwind.jpg Dave Brock and Mick Slattery had been in the London-based psychedelic band Famous Cure, and a meeting with bassist John Harrison revealed a mutual interest in electronic music which led the trio to embark upon a new musical venture together. Seventeen-year-old drummer Terry Ollis replied to an advert in a music weekly, while Nik Turner and Michael "Dik Mik" Davies, old acquaintances of Brock, offered help with transport and gear, but were soon pulled into the band.
+Dave Brock and Mick Slattery had been in the London-based psychedelic band Famous Cure, and a meeting with bassist John Harrison revealed a mutual interest in electronic music which led the trio to embark upon a new musical venture together. Seventeen-year-old drummer Terry Ollis replied to an advert in a music weekly, while Nik Turner and Michael "Dik Mik" Davies, old acquaintances of Brock, offered help with transport and gear, but were soon pulled into the band.
 
 Gatecrashing a local talent night at the All Saints Hall, Notting Hill, they were so disorganised as to not even have a name, opting for "Group X" at the last minute, nor any songs, choosing to play an extended 20-minute jam on the Byrds' "Eight Miles High."[4] BBC Radio 1 DJ John Peel was in the audience and was impressed enough to tell event organiser, Douglas Smith, to keep an eye on them. Smith signed them up and got them a deal with Liberty Records on the back of a deal he was setting up for Cochise.[5]
 

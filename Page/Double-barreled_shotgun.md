@@ -1,4 +1,4 @@
-ShotgunAction.JPG open and the extractor visible. The lever and the safety catch can also be clearly seen.]]
+open and the extractor visible. The lever and the safety catch can also be clearly seen.]]
 
 A DOUBLE-BARRELED SHOTGUN is a shotgun with two parallel barrels, allowing two shots to be fired in quick succession.
 

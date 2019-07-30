@@ -1,4 +1,4 @@
-Mann_House_4.jpg]] Concord_Grist_Mill,_Concord,_Michigan_--_card_postmarked_1910._(8362234715).jpg CONCORD is a village in Jackson County in the U.S. state of Michigan. The population was 1,050 at the 2010 census. The village is located at , west of Spring Arbor, Michigan.
+]] CONCORD is a village in Jackson County in the U.S. state of Michigan. The population was 1,050 at the 2010 census. The village is located at , west of Spring Arbor, Michigan.
 
 
 History

@@ -1,6 +1,6 @@
-'The_Port_of_London'_by_Anders_Svarstad,_Bergen_Kunstmuseum.JPG, 1911-12]] Thames_river_1882.jpg had not yet been built.]] Isle_of_dogs_1899.jpg and the Millwall Dock visible on a map of the Isle of Dogs in 1899]] CanaryWharfFromPlane.jpg with Millwall Dock on the Isle of Dogs]]
+, 1911-12]] had not yet been built.]] and the Millwall Dock visible on a map of the Isle of Dogs in 1899]] with Millwall Dock on the Isle of Dogs]]
 
-08-14-05_Royal_Victoria_Dock.jpg and Canary Wharf from the Royal Victoria Dock]]
+and Canary Wharf from the Royal Victoria Dock]]
 
 LONDON DOCKLANDS is the riverfront and former docks in London. In east and southeast London, it forms part of the boroughs of Southwark, Tower Hamlets, Lewisham, Newham, and Greenwich. The docks were formerly part of the Port of London, at one time the world's largest port. Following the closure of the docks, the area became derelict and poverty-ridden by the 1980s. The Docklands' regeneration began later that decade; it has been redeveloped principally for commercial and residential use. The name "London Docklands" was used for the first time in a government report on redevelopment plans in 1971 and has since become virtually universally adopted. The redevelopment created wealth, but also led to conflict between the new and old communities in the areas thus designated.
 
@@ -23,14 +23,12 @@ The main dockland areas were originally low-lying marshes, mostly unsuitable for
 
 20th century
 
-Museum_in_Docklands_at_night_2005-01-10.JPG, near Canary Wharf]] The docks were originally built and managed by a number of competing private companies. From 1909, they were managed by the Port of London Authority (PLA) which amalgamated the companies in a bid to make the docks more efficient and improve labour relations. The PLA constructed the last of the docks, the King George V, in 1921, as well as greatly expanding the Tilbury docks.
+, near Canary Wharf]] The docks were originally built and managed by a number of competing private companies. From 1909, they were managed by the Port of London Authority (PLA) which amalgamated the companies in a bid to make the docks more efficient and improve labour relations. The PLA constructed the last of the docks, the King George V, in 1921, as well as greatly expanding the Tilbury docks.
 
 German bombing during the Second World War caused massive damage to the docks, with 380,000 tons of timber destroyed in the Surrey Docks in a single night. Nonetheless, following post-war rebuilding they experienced a resurgence of prosperity in the 1950s. The end came suddenly, between approximately 1960 and 1970, when the shipping industry adopted the newly invented container system of cargo transportation. London's docks were unable to accommodate the much larger vessels needed by containerization, and the shipping industry moved to deep-water ports such as Tilbury and Felixstowe. Between 1960 and 1980, all of London's docks were closed, leaving around eight square miles (21 km²) of derelict land in East London. Unemployment was high, and poverty and other social problems were rife.
 
 
 Redevelopment
-
-Canary_Wharf_at_Sunset.jpg
 
 Efforts to redevelop the docks began almost as soon as they were closed, although it took a decade for most plans to move beyond the drawing board and another decade for redevelopment to take full effect. The situation was greatly complicated by the large number of landowners involved: the PLA, the Greater London Council (GLC), the British Gas Corporation, five borough councils, British Rail and the Central Electricity Generating Board.
 

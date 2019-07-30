@@ -1,4 +1,4 @@
-Volkov_during_Russian_EVA28.jpg works outside the International Space Station on August 3, 2011.]] Sts114_033.jpg riding the robotic arm during STS-114, doing a first in-flight repair of the Space Shuttle. The landmass in the backdrop is the Bari region of Somalia.]] EXTRAVEHICULAR ACTIVITY (EVA) is any activity done by an astronaut or cosmonaut outside a spacecraft beyond the Earth's appreciable atmosphere. The term most commonly applies to a SPACEWALK made outside a craft orbiting Earth (such as the International Space Station), but also has applied to lunar surface exploration (commonly known as MOONWALKS) performed by six pairs of American astronauts in the Apollo program from 1969 to 1972. On each of the last three of these missions, astronauts also performed deep-space EVAs on the return to Earth, to retrieve film canisters from the outside of the spacecraft. Astronauts also used EVA in 1973 to repair launch damage to Skylab, the United States' first space station.
+works outside the International Space Station on August 3, 2011.]] riding the robotic arm during STS-114, doing a first in-flight repair of the Space Shuttle. The landmass in the backdrop is the Bari region of Somalia.]] EXTRAVEHICULAR ACTIVITY (EVA) is any activity done by an astronaut or cosmonaut outside a spacecraft beyond the Earth's appreciable atmosphere. The term most commonly applies to a SPACEWALK made outside a craft orbiting Earth (such as the International Space Station), but also has applied to lunar surface exploration (commonly known as MOONWALKS) performed by six pairs of American astronauts in the Apollo program from 1969 to 1972. On each of the last three of these missions, astronauts also performed deep-space EVAs on the return to Earth, to retrieve film canisters from the outside of the spacecraft. Astronauts also used EVA in 1973 to repair launch damage to Skylab, the United States' first space station.
 
 A "Stand-up" EVA (SEVA) is when an astronaut does not fully leave a spacecraft, but is completely reliant on the spacesuit for environmental support.[1] Its name derives from the astronaut "standing up" in the open hatch, usually to record or assist a spacewalking astronaut.
 
@@ -15,13 +15,13 @@ The Voskhod's avionics required cooling by cabin air to prevent overheating, the
 
 First spacewalk
 
-FirstSpaceWalk.png performs the first spacewalk during Voskhod 2 (March 1965)]] The first EVA was performed on March 18, 1965, by Soviet cosmonaut Alexei Leonov, who spent 12 minutes outside the Voskhod 2 spacecraft. Carrying a white metal backpack containing 45 minutes worth of breathing and pressurization oxygen, Leonov had no means to control his motion other than pulling on his tether. After the flight, he claimed this was easy, but his space suit ballooned from its internal pressure against the vacuum of space, stiffening so much that he could not activate the shutter on his chest-mounted camera.[4]
+performs the first spacewalk during Voskhod 2 (March 1965)]] The first EVA was performed on March 18, 1965, by Soviet cosmonaut Alexei Leonov, who spent 12 minutes outside the Voskhod 2 spacecraft. Carrying a white metal backpack containing 45 minutes worth of breathing and pressurization oxygen, Leonov had no means to control his motion other than pulling on his tether. After the flight, he claimed this was easy, but his space suit ballooned from its internal pressure against the vacuum of space, stiffening so much that he could not activate the shutter on his chest-mounted camera.[4]
 
 At the end of his space walk, the suit stiffening caused a more serious problem: Leonov had to re-enter the capsule through the inflatable cloth airlock, in diameter and long. He improperly entered the airlock head-first and got stuck sideways. He could not get back in without reducing the pressure in his suit, risking "the bends". This added another 12 minutes to his time in vacuum, and he was overheated by from the exertion. It would be almost four years before the Soviets tried another EVA. They misrepresented to the press how difficult Leonov found it to work in weightlessness and concealed the problems encountered until after the end of the Cold War.[5][6]
 
 Project Gemini
 
-EdWhiteFirstAmericanSpacewalker.1965.ws.jpg performs the first American spacewalk during Gemini IV (June, 1965).]] The first American spacewalk was performed on June 3, 1965, by Ed White from the second manned Gemini flight, Gemini 4, for 21 minutes. White was tethered to the spacecraft, and his oxygen was supplied through a umbilical, which also carried communications and biomedical instrumentation. He was the first to control his motion in space with a Hand-Held Maneuvering Unit, which worked well but only carried enough propellant for 20 seconds. White found his tether useful for limiting his distance from the spacecraft but difficult to use for moving around, contrary to Leonov's claim.[7] However, a defect in the capsule's hatch latching mechanism caused difficulties opening and closing the hatch, which delayed the start of the EVA and put White and his crewmate at risk of not getting back to Earth alive.[8]
+performs the first American spacewalk during Gemini IV (June, 1965).]] The first American spacewalk was performed on June 3, 1965, by Ed White from the second manned Gemini flight, Gemini 4, for 21 minutes. White was tethered to the spacecraft, and his oxygen was supplied through a umbilical, which also carried communications and biomedical instrumentation. He was the first to control his motion in space with a Hand-Held Maneuvering Unit, which worked well but only carried enough propellant for 20 seconds. White found his tether useful for limiting his distance from the spacecraft but difficult to use for moving around, contrary to Leonov's claim.[7] However, a defect in the capsule's hatch latching mechanism caused difficulties opening and closing the hatch, which delayed the start of the EVA and put White and his crewmate at risk of not getting back to Earth alive.[8]
 
 No EVAs were planned on the next three Gemini flights. The next EVA was planned to be made by David Scott on Gemini 8, but that mission had to be aborted due to a critical spacecraft malfunction before the EVA could be conducted. Astronauts on the next three Gemini flights (Eugene Cernan, Michael Collins, and Richard Gordon), performed several EVAs, but none was able to successfully work for long periods outside the spacecraft without tiring and overheating. Cernan attempted but failed to test an Air Force Astronaut Maneuvering Unit which included a self-contained oxygen system.
 
@@ -33,9 +33,9 @@ On January 16, 1969, Soviet cosmonauts Aleksei Yeliseyev and Yevgeny Khrunov tra
 
 Apollo lunar EVA
 
-Aldrin_Apollo_11_original.jpg walks on the Moon during the pioneering Apollo 11 mission in 1969]] American astronauts Neil Armstrong and Buzz Aldrin performed the first EVA on the lunar surface on July 21, 1969 (UTC), after landing their Apollo 11 Lunar Module spacecraft. This first Moon walk, using self-contained portable life support systems, lasted 2 hours 36 minutes. A total of fifteen Moon walks were performed among six Apollo crews, including Charles "Pete" Conrad, Alan Bean, Alan Shepard, Edgar Mitchell, David Scott, James Irwin, John Young, Charles Duke, Eugene Cernan, and Harrison "Jack" Schmitt. Cernan was the last Apollo astronaut to step off the surface of the Moon.[10]
+walks on the Moon during the pioneering Apollo 11 mission in 1969]] American astronauts Neil Armstrong and Buzz Aldrin performed the first EVA on the lunar surface on July 21, 1969 (UTC), after landing their Apollo 11 Lunar Module spacecraft. This first Moon walk, using self-contained portable life support systems, lasted 2 hours 36 minutes. A total of fifteen Moon walks were performed among six Apollo crews, including Charles "Pete" Conrad, Alan Bean, Alan Shepard, Edgar Mitchell, David Scott, James Irwin, John Young, Charles Duke, Eugene Cernan, and Harrison "Jack" Schmitt. Cernan was the last Apollo astronaut to step off the surface of the Moon.[10]
 
-Astronaut_Charles_Duke_with_a_hammer_on_the_lunar_surface_-_pone.0006614.s003.ogv with a hammer on the lunar surface.]] Apollo 15 Command Module Pilot Al Worden made an EVA on August 5, 1971, on the return trip from the Moon, to retrieve a film and data recording canister from the Service Module. He was assisted by Lunar Module Pilot James Irwin standing up in the Command Module hatch. This procedure was repeated by Ken Mattingly and Charles Duke on Apollo 16, and by Ronald Evans and Harrison Schmitt on Apollo 17.[11]
+with a hammer on the lunar surface.]] Apollo 15 Command Module Pilot Al Worden made an EVA on August 5, 1971, on the return trip from the Moon, to retrieve a film and data recording canister from the Service Module. He was assisted by Lunar Module Pilot James Irwin standing up in the Command Module hatch. This procedure was repeated by Ken Mattingly and Charles Duke on Apollo 16, and by Ronald Evans and Harrison Schmitt on Apollo 17.[11]
 
 Post-Apollo EVAs
 
@@ -60,7 +60,7 @@ Capability milestones
 -   The first EVA to perform an IN-FLIGHT REPAIR OF THE SPACE SHUTTLE was by American Steve Robinson on August 3, 2005, during "Return to Flight" mission STS-114. Robinson was sent to remove two protruding gap fillers from _Discovery_'s heat shield, after engineers determined there was a small chance they could affect the shuttle upon re-entry. Robinson successfully removed the loose material while _Discovery_ was docked to the International Space Station.
 -   The LONGEST EVA as of 2007, was 8 hours and 56 minutes, performed by Susan Helms and James S. Voss on March 11, 2001.[20]
 
-Bruce_McCandless_II_during_EVA_in_1984.jpg uses a manned maneuvering unit. Photo taken by Robert "Hoot" Gibson]] Three_Crew_Members_Capture_Intelsat_VI_-_GPN-2000-001035.jpg. This hand-capture of a satellite is the only EVA to date to be performed by three astronauts.]]
+uses a manned maneuvering unit. Photo taken by Robert "Hoot" Gibson]] . This hand-capture of a satellite is the only EVA to date to be performed by three astronauts.]]
 
 Personal cumulative duration records
 
@@ -84,7 +84,7 @@ National, ethnic and gender firsts
 -   THE FIRST EVA BY A BRITISH ASTRONAUT was on January 15, 2016, by Tim Peake.[23]
     -   Although British-American Michael Foale carried out an EVA on February 9, 1995, he flew as an American astronaut in NASA's program.[24]
 
-STS-116_spacewalk_1.jpg assembly EVA made during the STS-116 mission. Robert Curbeam (with red stripes) together with Christer Fuglesang over Cook Strait, New Zealand.]] SolovyevEVA.jpg holds the world record for time spent during spacewalks: 82+ hours over 16 separate outings, seen here performing an EVA outside Mir Space Station in 1997]]
+assembly EVA made during the STS-116 mission. Robert Curbeam (with red stripes) together with Christer Fuglesang over Cook Strait, New Zealand.]] holds the world record for time spent during spacewalks: 82+ hours over 16 separate outings, seen here performing an EVA outside Mir Space Station in 1997]]
 
 
 Commemoration
@@ -93,13 +93,11 @@ The first spacewalk, made by Soviet cosmonaut Alexei Leonov, was commemorated in
 
 The U.S. Post Office issued a postage stamp in 1967 commemorating Ed White's first American spacewalk. The engraved image has an accurate depiction of the Gemini IV spacecraft and White's space suit.[25]
 
-+--------------------------------------------------------------+----------------------------------+
-| Soviet_Union-1965-Stamp-0.10._Voskhod-2._First_Spacewalk.jpg | US_Space_Walk_1967_Issue-5c.jpg  |
-|                                                              |                                  |
-| U.S.S.R. commemorative issue of 1965                         | U.S. Commemorative Issue of 1967 |
-|                                                              |                                  |
-| ]]                                                           | ]]                               |
-+--------------------------------------------------------------+----------------------------------+
++--------------------------------------+----------------------------------+
+| U.S.S.R. commemorative issue of 1965 | U.S. Commemorative Issue of 1967 |
+|                                      |                                  |
+| ]]                                   | ]]                               |
++--------------------------------------+----------------------------------+
 
 
 Designations

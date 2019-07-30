@@ -1,4 +1,4 @@
-WLANL_-_MicheleLovesArt_-_Museum_Boijmans_Van_Beuningen_-_Istoriato_schotel,_de_maaltijd_der_Goden_op_de_Olympus.jpg dish attributed to Nicola da Urbino]] In the ancient Greek myths, _AMBROSIA_ (, ) is the food or drink of the Greek gods,[1] often depicted as conferring longevity or immortality upon whoever consumed it.[2] It was brought to the gods in Olympus by doves and served by either Hebe or Ganymede at the heavenly feast.[3][4]
+dish attributed to Nicola da Urbino]] In the ancient Greek myths, _AMBROSIA_ (, ) is the food or drink of the Greek gods,[1] often depicted as conferring longevity or immortality upon whoever consumed it.[2] It was brought to the gods in Olympus by doves and served by either Hebe or Ganymede at the heavenly feast.[3][4]
 
 _Ambrosia_ is sometimes depicted in ancient art as distributed by a nymph labeled with that name.[5] In the myth of Lycurgus, an opponent to the wine god Dionysus, violence committed against Ambrosia turns her into a grapevine.
 
@@ -25,7 +25,7 @@ The concept of an immortality drink is attested in at least two Indo-European ar
 
 Other examples in mythology
 
-Johann_Balthasar_Probst_002.jpg (1673–1748)]]
+(1673–1748)]]
 
 -   In one version of the story of the birth of Achilles, Thetis anoints the infant with ambrosia and passes the child through the fire to make him immortal but Peleus, appalled, stops her, leaving only his heel unimmortalised (_Argonautica_ 4.869-879).
 -   In the _Iliad_ xvi, Apollo washes the black blood from the corpse of Sarpedon and anoints it with ambrosia, readying it for its dreamlike return to Sarpedon's native Lycia. Similarly, Thetis anoints the corpse of Patroclus in order to preserve it. Additionally, both ambrosia and nectar are depicted as unguents (xiv. 170; xix. 38).
@@ -40,7 +40,7 @@ Johann_Balthasar_Probst_002.jpg (1673–1748)]]
 
 Lycurgus of Thrace and Ambrosia
 
-Mosaik_"Wahnsinn_des_Lykurg"_—_Exponat_in_der_Archäologischen_Staatssammlung_München.JPG from Herculaneum, 45–79 AD)]] Lycurgus of Thrace, an antagonist of Dionysus, forbade the cult of Dionysus, whom he drove from Thrace, and was driven mad by the god. In his fit of insanity he killed his son, whom he mistook for a stock of mature ivy, and the nymph Ambrosia, who was transformed into the grapevine.
+from Herculaneum, 45–79 AD)]] Lycurgus of Thrace, an antagonist of Dionysus, forbade the cult of Dionysus, whom he drove from Thrace, and was driven mad by the god. In his fit of insanity he killed his son, whom he mistook for a stock of mature ivy, and the nymph Ambrosia, who was transformed into the grapevine.
 
 
 See also

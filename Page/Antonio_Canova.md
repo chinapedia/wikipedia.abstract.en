@@ -11,7 +11,7 @@ Before the age of ten, Canova began making models in clay, and carving marble.[8
 
 Venice
 
-Antonio_canova,_orfeo,_1777,_01.JPG'', (1777)]]
+'', (1777)]]
 
 In 1770,[11] he was an apprentice for two years[12] to Giuseppe Bernardi, who was also known as 'Torretto'. Afterwards, he was under the tutelage of Giovanni Ferrari until he began his studies at the Accademia di Belle Arti di Venezia.[13] At the Academy, he won several prizes.[14] During this time, he was given his first workshop within a monastery by some local monks.[15]
 
@@ -25,7 +25,7 @@ Canova arrived in Rome, on 28 December 1780.[27] Prior to his departure, his fri
 
 While in Rome, Canova spent time studying and sketching the works of Michelangelo.[30]
 
-Canova_-_Theseus_&_Minotaur.jpg, London]]
+, London]]
 
 In 1781, Girolamo Zulian – the Venetian ambassador to Rome – hired Canova to sculpt _Theseus and the Minotaur_.[31] The statue depicts the victorious Theseus seated on the lifeless body of a Minotaur. The initial spectators were certain that the work was a copy of a Greek original, and were shocked to learn it was a contemporary work.[32] The highly regarded work is now in the collection of the Victoria & Albert Museum, in London.[33]
 
@@ -67,7 +67,7 @@ After his 1814 proposal to build a personified statue of Religion for St. Peter'
 
 During the period that intervened between commencing operations at Possagno and his death, he executed or finished some of his most striking works. Among these were the group _Mars and Venus_, the colossal figure of Pius VI, the Pietà, the _St John_, and a colossal bust of his friend, the Count Cicognara.[73]
 
-Canova-Washington.JPG'', plaster replica on display at the North Carolina Museum of History]]
+'', plaster replica on display at the North Carolina Museum of History]]
 
 In 1820, he made a statue of George Washington for the state of North Carolina.[74] As recommended by Thomas Jefferson, the sculptor used the marble bust of Washington by Giuseppe Ceracchi as a model.[75] It was delivered on December 24, 1821. The statue and the North Carolina State House where it was displayed were later destroyed by fire in 1831. A plaster replica was sent by the king of Italy in 1910, now on view at the North Carolina Museum of History. A marble copy was sculpted by Romano Vio in 1970, now on view in the rotunda of the capitol building.[76][77]
 
@@ -88,7 +88,7 @@ Among Canova's most notable works are:
 
 _Psyche Revived by Cupid's Kiss_ (1787)
 
-Amore_e_psiche_(1).jpg'']]
+'']]
 
 _Psyche Revived by Cupid's Kiss_ was commissioned in 1787 by Colonel John Campbell.[87] It is regarded as a masterpiece of Neoclassical sculpture, but shows the mythological lovers at a moment of great emotion, characteristic of the emerging movement of Romanticism. It represents the god Cupid in the height of love and tenderness, immediately after awakening the lifeless Psyche with a kiss.
 
@@ -98,7 +98,7 @@ _Napoleon as Mars the Peacemaker_ had its inception after Canova was hired to ma
 
 _Perseus Triumphant_ (1804–1806)
 
-Canova_-_perseu_-_39b.jpg _Perseus Triumphant_, sometimes called _Perseus with the Head of Medusa_, was a statue commissioned by tribune Onorato Duveyriez.[92] It depicts the Greek hero Perseus after his victory over the Gorgon Medusa.
+_Perseus Triumphant_, sometimes called _Perseus with the Head of Medusa_, was a statue commissioned by tribune Onorato Duveyriez.[92] It depicts the Greek hero Perseus after his victory over the Gorgon Medusa.
 
 The statue was based freely to the Apollo Belvedere and the Medusa Rondanini.[93]
 
@@ -114,7 +114,7 @@ _Venus Victrix_ ranks among the most famous of Canova's works. Originally, Canov
 
 _The Three Graces_ (1814–1817)
 
-Le_tre_Grazie.jpg'']]
+'']]
 
 John Russell, the 6th Duke of Bedford, commissioned a version of the now famous work.[101] He had previously visited Canova in his studio in Rome in 1814 and had been immensely impressed by a carving of the Graces the sculptor had made for the Empress Josephine. When the Empress died in May of the same year he immediately offered to purchase the completed piece, but was unsuccessful as Josephine’s son Eugène claimed it (his son Maximilian brought it to St. Petersburg, where it can now be found in the Hermitage Museum). Undeterred, the Duke commissioned another version for himself.
 
@@ -147,7 +147,7 @@ Canova was also faulted for creating works that were artificial in complexity.[1
 
 Legacy
 
-Asolo-Museum_Canoviano.JPG]]
+]]
 
 Canova spent large parts of his fortune helping young students and sending patrons to struggling sculptors,[118] including Sir Richard Westmacott and John Gibson.[119][120]
 

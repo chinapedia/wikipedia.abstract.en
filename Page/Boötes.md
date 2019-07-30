@@ -5,7 +5,7 @@ One of the 48 constellations described by the 2nd-century astronomer Ptolemy, Bo
 
 History and mythology
 
-In ancient Babylon, the stars of Boötes were known as SHU.PA. They were apparently depicted as the god Enlil, who was the leader of the Babylonian pantheon and special patron of farmers. Boötes may have been represented by the foreleg constellation in ancient Egypt.[1] According to this interpretation, the constellation depicts the shape of an animal foreleg. Bootes-foreleg.png
+In ancient Babylon, the stars of Boötes were known as SHU.PA. They were apparently depicted as the god Enlil, who was the leader of the Babylonian pantheon and special patron of farmers. Boötes may have been represented by the foreleg constellation in ancient Egypt.[1] According to this interpretation, the constellation depicts the shape of an animal foreleg.
 
 The name _Boötes_ was first used by Homer in his Odyssey as a celestial reference point for navigation,[2] described as "late-setting" or "slow to set", translated as the "Plowman". Exactly whom Boötes is supposed to represent in Greek mythology is not clear. According to one version, he was a son of Demeter,[3] Philomenus, twin brother of Plutus, a plowman who drove the oxen in the constellation Ursa Major. This is corroborated by the constellation's name, which itself means "ox-driver" or "herdsman."[4] The ancient Greeks saw the asterism now called the "Big Dipper" or "Plough" as a cart with oxen. This influenced the name's etymology, derived from the Greek for "noisy" or "ox-driver". Another myth associated with Boötes relates that he invented the plow and was memorialized for his ingenuity as a constellation.
 
@@ -15,7 +15,7 @@ Following another reading, the constellation is identified with Arcas and also r
 
 Callisto, in the form of a bear was almost killed by her son, who was out hunting. Zeus rescued her, taking her into the sky where she became Ursa Major, "the Great Bear". Arcturus, the name of the constellation's brightest star, comes from the Greek word meaning "guardian of the bear". Sometimes Arcturus is depicted as leading the hunting dogs of nearby Canes Venatici and driving the bears of Ursa Major and Ursa Minor.[5]
 
-Sidney_Hall_-_Urania's_Mirror_-_Bootes,_Canes_Venatici,_Coma_Berenices,_and_Quadrans_Muralis.jpg'', a set of constellation cards published in London c.1825. In his left hand he holds his hunting dogs, Canes Venatici. Below them is the constellation Coma Berenices. Above the head of Boötes is Quadrans Muralis, now obsolete, but which lives on as the name of the early January Quadrantid meteor shower. Mons Mænalus can be seen at his feet.]]
+'', a set of constellation cards published in London c.1825. In his left hand he holds his hunting dogs, Canes Venatici. Below them is the constellation Coma Berenices. Above the head of Boötes is Quadrans Muralis, now obsolete, but which lives on as the name of the early January Quadrantid meteor shower. Mons Mænalus can be seen at his feet.]]
 
 Several former constellations were formed from stars now included in Boötes. Quadrans Muralis, the Quadrant, was a constellation created near Beta Boötis from faint stars. It was designated in 1795 by Jérôme Lalande, an astronomer who used a quadrant to perform detailed astronometric measurements. Lalande worked with Nicole-Reine Lepaute and others to predict the 1758 return of Halley's Comet. Quadrans Muralis was formed from the stars of eastern Boötes, western Hercules, and Draco. It was originally called _Le Mural_ by Jean Fortin in his 1795 _Atlas Céleste_; it was not given the name _Quadrans Muralis_ until Johann Bode's 1801 _Uranographia_. The constellation was quite faint, with its brightest stars reaching the 5th magnitude. Mons Maenalus, representing the Maenalus mountains, was created by Johannes Hevelius in 1687 at the foot of the constellation's figure. The mountain was named for the son of Lycaon, Maenalus. The mountain, one of Diana's hunting grounds, was also holy to Pan.
 
@@ -44,8 +44,6 @@ The placement of Arcturus has also been mutable through the centuries. Tradition
 
 
 Features
-
-BootesCC.jpg
 
 Stars
 
@@ -83,7 +81,7 @@ There is one bright B-class star in Boötes; magnitude 4.93 Pi¹ Boötis, also c
 
 Multiple stars
 
-Celestial_photograph_of_Bootes.jpg.]] Besides Pulcherrima and Alkalurops, there are several other binary stars in Boötes:
+.]] Besides Pulcherrima and Alkalurops, there are several other binary stars in Boötes:
 
 -   Xi Boötis is a quadruple star popular with amateur astronomers. The primary is a yellow star of magnitude 4.7 and the secondary is an orange star of magnitude 6.8. The system is 22 light-years away and has an orbital period of 150 years. The primary and secondary have a separation of 6.7 arcseconds at an angle of 319 degrees. The tertiary is a magnitude 12.6 star (though it may be observed to be brighter) and the quaternary is a magnitude 13.6 star.
 -   Pi Boötis is a close triple star. The primary is a blue-white star of magnitude 4.9, the secondary is a blue-white star of magnitude 5.8, and the tertiary is a star of magnitude 10.4. The primary and secondary components are separated by 5.6 arcseconds at an angle of 108 degrees; the primary and tertiary components are separated by 128 arcseconds at an angle of 128 degrees.
@@ -101,13 +99,9 @@ T Boötis was a nova observed in April 1860 at a magnitude of 9.7. It has never 
 
 Stars with planetary systems
 
-Tau_Bootis_Ab.jpg
-
 Extrasolar planets have been discovered encircling ten stars in Boötes as of 2012. Tau Boötis is orbited by a large planet, discovered in 1999. The host star itself is a magnitude 4.5 star of type F7V, 15.6 parsecs from Earth. It has a mass of and a radius of 1.331 solar radii (); a companion, GJ527B, orbits at a distance of 240 AU. Tau Boötis b, the sole planet discovered in the system, orbits at a distance of 0.046 AU every 3.31 days. Discovered through radial velocity measurements, it has a mass of 5.95 Jupiter masses (). This makes it a hot Jupiter. The host star and planet are tidally locked, meaning that the planet's orbit and the star's particularly high rotation are synchronized.
 
 Furthermore, a slight variability in the host star's light may be caused by magnetic interactions with the planet. Carbon monoxide is present in the planet's atmosphere. Tau Boötis b does not transit its star, rather, its orbit is inclined 46 degrees. Like Tau Boötis b, HAT-P-4 b is also a hot Jupiter. It is noted for orbiting a particularly metal-rich host star and being of low density. Discovered in 2007, HAT-P-4 b has a mass of and a radius of . It orbits every 3.05 days at a distance of 0.04 AU. HAT-P-4, the host star, is an F-type star of magnitude 11.2, 310 parsecs from Earth. It is larger than the Sun, with a mass of and a radius of .
-
-Hd128311.png
 
 Boötes is also home to multiple-planet systems. HD 128311 is the host star for a two-planet system, consisting of HD 128311 b and HD 128311 c, discovered in 2002 and 2005, respectively. HD 128311 b is the smaller planet, with a mass of ; it was discovered through radial velocity observations. It orbits at almost the same distance as Earth, at 1.099 AU; however, its orbital period is significantly longer at 448.6 days.
 
@@ -137,15 +131,13 @@ The Hercules–Corona Borealis Great Wall, the largest known structure in the Un
 
 Meteor showers
 
-Quad2011.324.JPG Boötes is home to the Quadrantid meteor shower, the most prolific annual meteor shower. It was discovered in January 1835 and named in 1864 by Alexander Hershell. The radiant is located in northern Boötes near Kappa Boötis, in its namesake former constellation of Quadrans Muralis. Quadrantid meteors are dim, but have a peak visible hourly rate of approximately 100 per hour on January 3–4. The zenithal hourly rate of the Quadrantids is approximately 130 meteors per hour at their peak; it is also a very narrow shower.
+Boötes is home to the Quadrantid meteor shower, the most prolific annual meteor shower. It was discovered in January 1835 and named in 1864 by Alexander Hershell. The radiant is located in northern Boötes near Kappa Boötis, in its namesake former constellation of Quadrans Muralis. Quadrantid meteors are dim, but have a peak visible hourly rate of approximately 100 per hour on January 3–4. The zenithal hourly rate of the Quadrantids is approximately 130 meteors per hour at their peak; it is also a very narrow shower.
 
 The Quadrantids are notoriously difficult to observe because of a low radiant and often inclement weather. The parent body of the meteor shower has been disputed for decades; however, Peter Jenniskens has proposed 2003 EH₁, a minor planet, as the parent. 2003 EH₁ may be linked to C/1490 Y₁, a comet previously thought to be a potential parent body for the Quadrantids.
 
 2003 EH₁ is a short-period comet of the Jupiter family; 500 years ago, it experienced a catastrophic breakup event. It is now dormant. The Quadrantids had notable displays in 1982, 1985, and 2004. Meteors from this shower often appear to have a blue hue and travel at a moderate speed of 41.5–43 kilometers per second.
 
 On April 28, 1984, a remarkable outburst of the normally placid Alpha Bootids was observed by visual observer Frank Witte from 00:00 to 2:30 UTC. In a 6 cm telescope, he observed 433 meteors in a field of view near Arcturus with a diameter of less than 1°. Peter Jenniskens comments that this outburst resembled a "typical dust trail crossing". The Alpha Bootids normally begin on April 14, peaking on April 27 and 28, and finishing on May 12. Its meteors are slow-moving, with a velocity of 20.9 kilometers per second. They may be related to Comet 73P/Schwassmann-Wachmann 3, but this connection is only theorized.
-
-QUADRANTID_meteor_on_January_3_2009.jpg
 
 The June Bootids, also known as the Iota Draconids, is a meteor shower associated with the comet 7P/Pons-Winnecke, first recognized on May 27, 1916, by William F. Denning. The shower, with its slow meteors, was not observed prior to 1916 because Earth did not cross the comet's dust trail until Jupiter perturbed Pons-Winnecke's orbit, causing it to come within 0.03 astronomical units of Earth's orbit the first year the June Bootids were observed.
 

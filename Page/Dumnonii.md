@@ -19,7 +19,7 @@ The people of Dumnonia spoke a Southwestern Brythonic dialect similar to the for
 
 Territory
 
-England_Celtic_tribes_-_South.png and Devon.]] Ptolemy's 2nd century _Geography_ places the Dumnonii to the west of the Durotriges. The name _purocoronavium_ that appears in the Ravenna Cosmography implies the existence of a sub-tribe called the Cornavii or Cornovii, perhaps the ancestors of the Cornish people.
+and Devon.]] Ptolemy's 2nd century _Geography_ places the Dumnonii to the west of the Durotriges. The name _purocoronavium_ that appears in the Ravenna Cosmography implies the existence of a sub-tribe called the Cornavii or Cornovii, perhaps the ancestors of the Cornish people.
 
 In the sub-Roman period a Brythonic kingdom called Dumnonia emerged, covering the entire peninsula, although it is believed by some to have effectively been a collection of sub-kingdoms.
 

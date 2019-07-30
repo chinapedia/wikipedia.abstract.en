@@ -1,4 +1,4 @@
-Saxo_original_001.jpg), page 1, front.]] _GESTA DANORUM_ ("Deeds of the Danes") is a patriotic work of Danish history, by the 13th century author Saxo Grammaticus ("Saxo the Literate", literally "the Grammarian"). It is the most ambitious literary undertaking of medieval Denmark and is an essential source for the nation's early history. It is also one of the oldest known written documents about the history of Estonia and Latvia.
+), page 1, front.]] _GESTA DANORUM_ ("Deeds of the Danes") is a patriotic work of Danish history, by the 13th century author Saxo Grammaticus ("Saxo the Literate", literally "the Grammarian"). It is the most ambitious literary undertaking of medieval Denmark and is an essential source for the nation's early history. It is also one of the oldest known written documents about the history of Estonia and Latvia.
 
 Consisting of sixteen books written in Latin on the invitation of Archbishop Absalon, _Gesta Danorum_ describes Danish history and to some degree Scandinavian history in general, from prehistory to the late 12th century. In addition, _Gesta Danorum_ offers singular reflections on European affairs in the High Middle Ages from a unique Scandinavian perspective, supplementing what has been handed down by historians from Western and Southern Europe.
 
@@ -25,7 +25,7 @@ Christiern Pedersen finally found a copy in the collection of Archbishop Birger 
 
 Printing
 
-Saxo_Chr_P_front_version_001.jpg's Saxo version, Paris 1514.]] The first printed press publication and the oldest known complete text of Saxo’s works is Christiern Pedersen's Latin edition, printed and published by Jodocus Badius in Paris, France on 15 March 1514 under the title of _Danorum Regum heroumque Historiae_ ("History of the Kings and heroes of the Danes"). The edition features the following colophon: ..._impressit in inclyta Parrhisorum academia Iodocus Badius Ascensius Idibus Martiis. MDXIIII. Supputatione Romana._ (the Ides of March, 1514).
+'s Saxo version, Paris 1514.]] The first printed press publication and the oldest known complete text of Saxo’s works is Christiern Pedersen's Latin edition, printed and published by Jodocus Badius in Paris, France on 15 March 1514 under the title of _Danorum Regum heroumque Historiae_ ("History of the Kings and heroes of the Danes"). The edition features the following colophon: ..._impressit in inclyta Parrhisorum academia Iodocus Badius Ascensius Idibus Martiis. MDXIIII. Supputatione Romana._ (the Ides of March, 1514).
 
 The full front page reads (with abbreviations expanded) in Latin:
 

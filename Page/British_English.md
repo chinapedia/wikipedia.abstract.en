@@ -16,8 +16,6 @@ Cohabitation with the Scandinavians resulted in a significant grammatical simpli
 
 Dialects
 
-Map showing phonological variation within England of the vowel in _bath_, _grass_, and _dance_. Those in the north generally pronounce such words with a short vowel whereas those in the south use a long vowel
-
 Dialects and accents vary amongst the four countries of the United Kingdom, as well as within the countries themselves.
 
 The major divisions are normally classified as English English (or English as spoken in England, which encompasses Southern English dialects, West Country dialects, East and West Midlands English dialects and Northern English dialects), Ulster English in Northern Ireland, Welsh English (not to be confused with the Welsh language), and Scottish English (not to be confused with the Scots language). The various British dialects also differ in the words that they have borrowed from other languages. Around the middle of the 15th century, there were points where within the 5 major dialects there were almost 500 ways to spell the word _though_.[5]

@@ -1,4 +1,4 @@
-Koppen-Geiger_Map_GAB_present.svg GABON is a country in Central Africa, lying along the Atlantic Ocean, just south of the Bight of Biafra.
+GABON is a country in Central Africa, lying along the Atlantic Ocean, just south of the Bight of Biafra.
 
 
 Borders
@@ -46,8 +46,6 @@ Extreme points
 -   Easternmost point - unnamed location on the border with the Republic of Congo immediately south-west of the Congolese village of Mbeyi-Mbola, Haut-Ogooué province
 -   Southernmost point - the point at which the border with the Republic of Congo enters the Atlantic Ocean, Nyanga Province
 -   Westernmost point - the north-west point of Cape Lopez, Ogooué Maritime province
-
-Gabon_Topography.png
 
 
 See also

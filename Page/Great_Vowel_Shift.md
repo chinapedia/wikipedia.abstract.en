@@ -35,8 +35,6 @@ The main difference between the pronunciation of Middle English in the year 1400
 
 This timeline shows the main vowel changes that occurred between late Middle English in the year 1400 and Received Pronunciation in the mid-20th century by using representative words. The Great Vowel Shift occurred in the lower half of the table, between 1400 and 1600–1700. The changes that happened after 1700 are not considered part of the Great Vowel Shift. Pronunciation is given in the International Phonetic Alphabet:[8]
 
-Great_Vowel_Shift.svg
-
 
 Details
 

@@ -7,7 +7,7 @@ To address this ambiguity, the International System of Quantities standardizes t
 
 Definition
 
-Laptop-hard-drive-exposed.jpg can hold 500 GB (i.e., 500 billion bytes) of data.]] The term _gigabyte_ is commonly used to mean either 1000³ bytes or 1024³ bytes. The latter binary usage originated as compromise technical jargon for byte multiples that needed to be expressed in a power of 2, but lacked a convenient name. As 1024 (2¹⁰) is approximately 1000 (10³), roughly corresponding to SI multiples, it was used for binary multiples as well.
+can hold 500 GB (i.e., 500 billion bytes) of data.]] The term _gigabyte_ is commonly used to mean either 1000³ bytes or 1024³ bytes. The latter binary usage originated as compromise technical jargon for byte multiples that needed to be expressed in a power of 2, but lacked a convenient name. As 1024 (2¹⁰) is approximately 1000 (10³), roughly corresponding to SI multiples, it was used for binary multiples as well.
 
 In 1998 the International Electrotechnical Commission (IEC) published standards for binary prefixes, requiring that the gigabyte strictly denote 1000³ bytes and gibibyte denote 1024³ bytes. By the end of 2007, the IEC Standard had been adopted by the IEEE, EU, and NIST, and in 2009 it was incorporated in the International System of Quantities. Nevertheless, the term gigabyte continues to be widely used with the following two different meanings:
 

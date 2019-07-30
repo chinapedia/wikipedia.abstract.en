@@ -24,7 +24,7 @@ In the late 1880s Menger was appointed to head a commission to reform the Austri
 
 Economics
 
-Menger_-_Untersuchungen_über_das_Methode_der_socialwissenschaften_und_der_politischen_Ökonomie_insbesondere,_1933_-_5787924.tif Menger used his subjective theory of value to arrive at what he considered one of the most powerful insights in economics: both sides gain from exchange. Unlike William Jevons, Menger did not believe that goods provide “utils,” or units of utility. Rather, he wrote, goods are valuable because they serve various uses whose importance differs. Menger also came up with an explanation of how money develops that is still accepted by some schools of thought today.[7]
+Menger used his subjective theory of value to arrive at what he considered one of the most powerful insights in economics: both sides gain from exchange. Unlike William Jevons, Menger did not believe that goods provide “utils,” or units of utility. Rather, he wrote, goods are valuable because they serve various uses whose importance differs. Menger also came up with an explanation of how money develops that is still accepted by some schools of thought today.[7]
 
 
 Works

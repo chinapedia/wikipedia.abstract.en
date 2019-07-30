@@ -16,7 +16,7 @@ The FIE maintains the current rules[2] used by FIE sanctioned international even
 
 History
 
-FencingSchoolLeiden1610.jpg, Netherlands 1610]]
+, Netherlands 1610]]
 
 Fencing traces its roots to the development of swordsmanship for duels and self defense. Fencing is believed to have originated in Spain; some of the most significant books on fencing were written by Spanish fencers. _Treatise on Arms_[3] was written by Diego de Valera between 1458 and 1471 and is one of the oldest surviving manuals on western fencing (in spite of the title, the book of Diego Valera was on heraldry, not about fencing)[4] shortly before dueling came under official ban by the Catholic Monarchs. In conquest, the Spanish forces carried fencing around the world, particularly to southern Italy, one of the major areas of strife between both nations.[5][6] Fencing was mentioned in the play _The Merry Wives of Windsor_ written sometime prior to 1602.[7][8]
 
@@ -26,7 +26,7 @@ Development into a sport
 
 The shift towards fencing as a sport rather than as military training happened from the mid-18th century, and was led by Domenico Angelo, who established a fencing academy, Angelo's School of Arms, in Carlisle House, Soho, London in 1763.[11] There, he taught the aristocracy the fashionable art of swordsmanship. His school was run by three generations of his family and dominated the art of European fencing for almost a century. [12]
 
-Angelo_Domenico_Malevolti_Fencing_Print,_1763.JPG's instruction book. Angelo was instrumental in turning fencing into an athletic sport.]] He established the essential rules of posture and footwork that still govern modern sport fencing, although his attacking and parrying methods were still much different from current practice. Although he intended to prepare his students for real combat, he was the first fencing master to emphasize the health and sporting benefits of fencing more than its use as a killing art, particularly in his influential book _L'École des armes_ (_The School of Fencing_), published in 1763.[13]
+'s instruction book. Angelo was instrumental in turning fencing into an athletic sport.]] He established the essential rules of posture and footwork that still govern modern sport fencing, although his attacking and parrying methods were still much different from current practice. Although he intended to prepare his students for real combat, he was the first fencing master to emphasize the health and sporting benefits of fencing more than its use as a killing art, particularly in his influential book _L'École des armes_ (_The School of Fencing_), published in 1763.[13]
 
 Basic conventions were collated and set down during the 1880s by the French fencing master Camille Prévost. It was during this time that many officially recognised fencing associations began to appear in different parts of the world, such as the Amateur Fencers League of America was founded in 1891, the Amateur Fencing Association of Great Britain in 1902, and the Fédération Nationale des Sociétés d’Escrime et Salles d’Armes de France in 1906.[14]
 
@@ -45,17 +45,13 @@ There are three weapons in modern fencing: foil, épée, and sabre. Each weapon 
 
 Foil
 
-Fencing_foil_valid_surfaces_2009.svg The foil is a light thrusting weapon with a maximum weight of 500 grams. The foil targets the torso, but not the arms or legs. The foil has a small circular hand guard that serves to protect the hand from direct stabs. As the hand is not a valid target in foil, this is primarily for safety. Touches are scored only with the tip; hits with the side of the blade do not register on the electronic scoring apparatus (and do not halt the action). Touches that land outside the target area (called an _off-target touch_ and signaled by a distinct color on the scoring apparatus) stop the action, but are not scored. Only a single touch can be awarded to either fencer at the end of a phrase. If both fencers land touches within a close enough interval of milliseconds to register two lights on the machine, the referee uses the rules of "right of way" to determine which fencer is awarded the touch, or if an off-target hit has priority over a valid hit, in which case no touch is awarded. If the referee is unable to determine which fencer has right of way, no touch is awarded.
+The foil is a light thrusting weapon with a maximum weight of 500 grams. The foil targets the torso, but not the arms or legs. The foil has a small circular hand guard that serves to protect the hand from direct stabs. As the hand is not a valid target in foil, this is primarily for safety. Touches are scored only with the tip; hits with the side of the blade do not register on the electronic scoring apparatus (and do not halt the action). Touches that land outside the target area (called an _off-target touch_ and signaled by a distinct color on the scoring apparatus) stop the action, but are not scored. Only a single touch can be awarded to either fencer at the end of a phrase. If both fencers land touches within a close enough interval of milliseconds to register two lights on the machine, the referee uses the rules of "right of way" to determine which fencer is awarded the touch, or if an off-target hit has priority over a valid hit, in which case no touch is awarded. If the referee is unable to determine which fencer has right of way, no touch is awarded.
 
 Épée
-
-Fencing_epee_valid_surfaces.svg
 
 The épée is a thrusting weapon like the foil, but heavier, with a maximum total weight of 775 grams. In épée, the entire body is valid target. The hand guard on the épée is a large circle that extends towards the pommel, effectively covering the hand, which is a valid target in épée. Like foil, all hits must be with the tip and not the sides of the blade. Hits with the side of the blade do not register on the electronic scoring apparatus (and do not halt the action). As the entire body is legal target, there is no concept of an off-target touch, except if the fencer accidentally strikes the floor, setting off the light and tone on the scoring apparatus. Unlike foil and sabre, épée does not use "right of way", and awards simultaneous touches to both fencers. However, if the score is tied in a match at the last point and a double touch is scored, the point is null and void.
 
 Sabre
-
-Fencing_saber_valid_surfaces.svg
 
 The sabre is a light cutting and thrusting weapon that targets the entire body above the waist, except the weapon hand. Sabre is the newest weapon to be used. Like the foil, the maximum legal weight of a sabre is 500 grams. The hand guard on the sabre extends from hilt to the point at which the blade connects to the pommel. This guard is generally turned outwards during sport to protect the sword arm from touches. Hits with the entire blade or point are valid. As in foil, touches that land outside the target area are not scored. However, unlike foil, these _off-target_ touches do not stop the action, and the fencing continues. In the case of both fencers landing a scoring touch, the referee determines which fencer receives the point for the action, again through the use of "right of way".
 
@@ -115,7 +111,7 @@ A set of electric fencing equipment is required to participate in electric fenci
 
 A body cord consists of three wires known as the A, B, and C lines. At the reel connector (and both connectors for Épée cords) The B pin is in the middle, the A pin is 1.5 cm to one side of B, and the C pin is 2 cm to the other side of B. This asymmetrical arrangement ensures that the cord cannot be plugged in the wrong way around.
 
-In foil, the A line is connected to the lamé and the B line runs up a wire to the tip of the weapon. The B line is normally connected to the C line through the tip. When the tip is depressed, the circuit is broken and one of three things can happen: Sabre_Body_Cord.png
+In foil, the A line is connected to the lamé and the B line runs up a wire to the tip of the weapon. The B line is normally connected to the C line through the tip. When the tip is depressed, the circuit is broken and one of three things can happen:
 
 -   The tip is touching your opponent's lamé (their A line): Valid touch
 -   The tip is touching your opponent's weapon or the grounded strip: nothing, as the current is still flowing to the C line.
@@ -123,7 +119,7 @@ In foil, the A line is connected to the lamé and the B line runs up a wire to t
 
 In Épée, the A and B lines run up separate wires to the tip (there is no lamé). When the tip is depressed, it connects the A and B lines, resulting in a valid touch. However, if the tip is touching your opponents weapon (their C line) or the grounded strip, nothing happens when it is depressed, as the current is redirected to the C line. Grounded strips are particularly important in Épée, as without one, a touch to the floor registers as a valid touch (rather than off-target as in Foil).
 
-In Sabre, similarly to Foil, the A line is connected to the lamé, but both the B and C lines are connected to the body of the weapon. Any contact between your B/C line (doesn't matter which, as they are always connected) and your opponent's A line (their lamé) results in a valid touch. There is no need for grounded strips in Sabre, as hitting something other than your opponent's lame does nothing. Lamé.png In a professional fencing competition, a complete set of electric equipment is needed.
+In Sabre, similarly to Foil, the A line is connected to the lamé, but both the B and C lines are connected to the body of the weapon. Any contact between your B/C line (doesn't matter which, as they are always connected) and your opponent's A line (their lamé) results in a valid touch. There is no need for grounded strips in Sabre, as hitting something other than your opponent's lame does nothing. In a professional fencing competition, a complete set of electric equipment is needed.
 
 A complete set of foil electric equipment includes:
 

@@ -5,7 +5,7 @@ In the UK, the term "Heath Robinson" entered the popular language during the 191
 
 Early life
 
-Robinson(WH)-('Uncle_Lubin').jpg William Heath Robinson was born at 25 Ennis Road on 31 May 1872 into a family of artists in an area of London known as Stroud Green, Finsbury Park, North London. His father Thomas Robinson (1838–1902) and brothers Thomas Heath Robinson (1869–1954) and Charles Robinson (1870–1937) all worked as illustrators.
+William Heath Robinson was born at 25 Ennis Road on 31 May 1872 into a family of artists in an area of London known as Stroud Green, Finsbury Park, North London. His father Thomas Robinson (1838–1902) and brothers Thomas Heath Robinson (1869–1954) and Charles Robinson (1870–1937) all worked as illustrators.
 
 
 Career
@@ -46,8 +46,6 @@ The Heath Robinson Museum opened in October 2016 to house a collection of nearly
 
 
 In popular culture
-
-Heath_Robinson_WWI.png
 
 The name "Heath Robinson" became part of common parlance in the UK for complex inventions that achieved absurdly simple results following its use as services slang during the 1914–1918 First World War.[8]
 

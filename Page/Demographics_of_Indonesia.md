@@ -1,4 +1,4 @@
-Indonesian_kids_in_Museum.jpg The population of Indonesia according to the 2010 national census was 237.64 million,[1] and it was estimated to reach 255.4 million in 2015.[2] 58% live on the island of Java,[3] the world's most populous island.[4]
+The population of Indonesia according to the 2010 national census was 237.64 million,[1] and it was estimated to reach 255.4 million in 2015.[2] 58% live on the island of Java,[3] the world's most populous island.[4]
 
 Despite a fairly effective family planning program that has been in place since 1967,[5] for the decade ending in 2010, Indonesia's population growth was 1.49 percent. At that rate, Indonesia's population is projected to surpass the present population of the United States.[6] Some say family planning should be revitalised based on the 1967 program to avoid Indonesia becoming the world's third most populous country, but this aim has been criticized by religious groups who believe that family planning goes against God.[7]
 
@@ -246,7 +246,7 @@ Education is free in state school; it is compulsory for children through to grad
 
 CIA World Factbook demographic statistics
 
-Bevölkerungspyramide_Indonesien_2016.png The following demographic statistics are from the CIA World Factbook,[19] unless otherwise indicated.
+The following demographic statistics are from the CIA World Factbook,[19] unless otherwise indicated.
 
 AGE STRUCTURE
 

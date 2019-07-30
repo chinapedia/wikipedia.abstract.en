@@ -24,7 +24,7 @@ _Judges_ follows the Book of Joshua and opens with a reference to Joshua's death
 
 Main text
 
-12_Tribes_of_Israel_Map.svg The main text () gives accounts of six MAJOR JUDGES and their struggles against the oppressive kings of surrounding nations, as well as the story of Abimelech, an Israelite leader (a judge [shofet] in the sense of "chieftain") who oppresses his own people. The cyclical pattern set out in the prologue is readily apparent at the beginning, but as the stories progress it begins to disintegrate, mirroring the disintegration of the world of the Israelites. Although some scholars consider the stories not to be presented in chronological order, the judges in the order in which they appear in the text are:
+The main text () gives accounts of six MAJOR JUDGES and their struggles against the oppressive kings of surrounding nations, as well as the story of Abimelech, an Israelite leader (a judge [shofet] in the sense of "chieftain") who oppresses his own people. The cyclical pattern set out in the prologue is readily apparent at the beginning, but as the stories progress it begins to disintegrate, mirroring the disintegration of the world of the Israelites. Although some scholars consider the stories not to be presented in chronological order, the judges in the order in which they appear in the text are:
 
 -   Othniel (3:9–11) vs. Chushan-Rishathaim, King of Aram; Israel has 40 years of peace until the death of Othniel. (The statement that Israel has a certain period of peace after each judge is a recurrent theme.)
 -   Ehud (3:11–29) vs. Eglon of Moab
@@ -52,7 +52,7 @@ Judges contains a chronology of its events. It is overtly schematic and was intr
 
 Composition
 
-Maarten_van_Heemskerck_024.jpg (Musée des Beaux-Arts de Strasbourg)]]
+(Musée des Beaux-Arts de Strasbourg)]]
 
 It is unclear if any of the people named as judges existed.[3][4][5]
 
@@ -71,7 +71,7 @@ Scholars agree that the Deuteronomists' hand can be seen in _Judges_ through the
 
 Themes and genre
 
-Judges_Bib_Germ_1485_d.1_375.jpg The essence of Deuteronomistic theology is that Israel has entered into a covenant (a treaty, a binding agreement) with the God Yahweh, under which they agree to accept Yahweh as their god (hence the phrase "God of Israel") and Yahweh promises them a land where they can live in peace and prosperity. Deuteronomy contains the laws by which Israel is to live in the promised land, Joshua chronicles the conquest of Canaan, the promised land, and its allotment among the tribes, Judges describes the settlement of the land, Samuel the consolidation of the land and people under David, and Kings the destruction of kingship and loss of the land. The final tragedy described in Kings is the result of Israel's failure to uphold its part of the covenant: faithfulness to Yahweh brings success, economic, military and political, but unfaithfulness brings defeat and oppression.
+The essence of Deuteronomistic theology is that Israel has entered into a covenant (a treaty, a binding agreement) with the God Yahweh, under which they agree to accept Yahweh as their god (hence the phrase "God of Israel") and Yahweh promises them a land where they can live in peace and prosperity. Deuteronomy contains the laws by which Israel is to live in the promised land, Joshua chronicles the conquest of Canaan, the promised land, and its allotment among the tribes, Judges describes the settlement of the land, Samuel the consolidation of the land and people under David, and Kings the destruction of kingship and loss of the land. The final tragedy described in Kings is the result of Israel's failure to uphold its part of the covenant: faithfulness to Yahweh brings success, economic, military and political, but unfaithfulness brings defeat and oppression.
 
 This is the theme played out in Judges: the people are unfaithful to Yahweh and he therefore delivers them into the hands of their enemies; the people then repent and entreat Yahweh for mercy, which he sends in the form of a judge; the judge delivers the Israelites from oppression, but after a while they fall into unfaithfulness again and the cycle is repeated.
 

@@ -45,7 +45,7 @@ A weighted average, or weighted mean, is an average in which some data points co
 
 Continuous probability distributions
 
-Comparison_mean_median_mode.svgs with equal mean but different skewness, resulting in different medians and modes.]]
+s with equal mean but different skewness, resulting in different medians and modes.]]
 
 If a numerical property, and any sample of data from it, could take on any value from a continuous range, instead of, for example, just integers, then the probability of a number falling into some range of possible values can be described by integrating a continuous probability distribution across this range, even when the naive probability for a sample number taking one certain value from infinitely many is zero. The analog of a weighted average in this context, in which there are an infinite number of possibilities for the precise value of the variable in each range, is called the _mean of the probability distribution_. A most widely encountered probability distribution is called the normal distribution; it has the property that all measures of its central tendency, including not just the mean but also the aforementioned median and the mode (the three M's[5]), are equal to each other. This equality does not hold for other probability distributions, as illustrated for the lognormal distribution here.
 

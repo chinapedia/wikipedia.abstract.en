@@ -9,7 +9,7 @@ It is never definitively stated when the appearances of Gallifrey take place. As
 
 Geography and appearances
 
-Gallifrey2.jpg'')[10]]] From space, Gallifrey is seen as a yellow-orange planet and was close enough to central space lanes for spacecraft to require clearance from Gallifreyan Space Traffic Control as they pass through its system.[11] The planet was protected from physical attack by an impenetrable barrier called the quantum force field, and from teleportation incursions by the transduction barrier—which could be reinforced to repel most levels of this type of technological attack.[12]
+'')[10]]] From space, Gallifrey is seen as a yellow-orange planet and was close enough to central space lanes for spacecraft to require clearance from Gallifreyan Space Traffic Control as they pass through its system.[11] The planet was protected from physical attack by an impenetrable barrier called the quantum force field, and from teleportation incursions by the transduction barrier—which could be reinforced to repel most levels of this type of technological attack.[12]
 
 The Time Lords' principal city, named The Capitol, comprises shining towers protected by a mighty glass dome. Outside The Capitol is a wilderness with plains of red grass, as mentioned by the Doctor in _Gridlock_ and _The End of Time_. The planet's "second city" is Arcadia, and is seen falling to the Daleks in the 2013 minisode "The Last Day."[13]
 
@@ -34,7 +34,7 @@ History
 
 On screen
 
-Gallifrey.jpg'' by the side of the Earth.[27]]]
+'' by the side of the Earth.[27]]]
 
 Few details on the history of the planet itself emerge from the original series run from 1963–1989. In "The End of the World" (2005), the Ninth Doctor states that his home planet has been destroyed in a war and that Doctor the Time Lords. The episode also indicates that the Time Lords are remembered in the far future.[28] Subsequently, in "Dalek" (2005), it is revealed that the last great Time War was fought between the Time Lords and the Daleks, ending in the obliteration of both sides and with only two apparent survivors; the Doctor and a lone Dalek that had somehow fallen through time and crashed on Earth. At the conclusion of that episode, that surviving Dalek self-destructs, leaving the Ninth Doctor believing that he was the sole survivor of the Time War.[29] However, the Daleks return in "Bad Wolf"/"The Parting of the Ways" (2005),[30][31] and subsequently in several other stories.[32][33][34][35][36][37]
 

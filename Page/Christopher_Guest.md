@@ -55,8 +55,6 @@ Family
 
 Peerage and heirs
 
-Coat_of_Arms_-_Baron_Haden-Guest,_of_Saling_in_the_County_of_Essex.png
-
 Guest became the 5th Baron Haden-Guest, of Great Saling, in the County of Essex, when his father died in 1996. He succeeded upon the ineligibility of his older half-brother, Anthony Haden-Guest, who was born prior to the marriage of his parents. According to an article in _The Guardian_, Guest attended the House of Lords regularly until the House of Lords Act 1999 barred most hereditary peers from their seats. In the article Guest remarked:
 
 Ancestry

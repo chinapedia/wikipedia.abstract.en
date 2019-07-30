@@ -22,7 +22,7 @@ The trademark brands "Cardini's", "Caesar Cardini's" and "The Original Caesar Dr
 
 Common ingredients
 
-Caesar_salad_(1).jpg CaesarSalad3.jpg]] Common ingredients in many recipes:[15][16]
+]] Common ingredients in many recipes:[15][16]
 
 :* romaine or cos lettuce
 

@@ -7,7 +7,7 @@ A later version, HTTP/2, was standardized in 2015. HTTP/3 is the proposed succes
 
 Technical overview
 
-Internet1.svg beginning with the HTTP scheme and the WWW domain name label]]
+beginning with the HTTP scheme and the WWW domain name label]]
 
 HTTP functions as a request–response protocol in the client–server computing model. A web browser, for example, may be the _client_ and an application running on a computer hosting a website may be the _server_. The client submits an HTTP _request_ message to the server. The server, which provides _resources_ such as HTML files and other content, or performs other functions on behalf of the client, returns a _response_ message to the client. The response contains completion status information about the request and may also contain requested content in its message body.
 
@@ -32,7 +32,7 @@ HTTP/1.1 is a revision of the original HTTP (HTTP/1.0). In HTTP/1.0 a separate c
 
 History
 
-Tim_Berners-Lee_CP_2.jpg ]]
+]]
 
 The term hypertext was coined by Ted Nelson in 1965 in the Xanadu Project, which was in turn inspired by Vannevar Bush's 1930s vision of the microfilm-based information retrieval and management "memex" system described in his 1945 essay "As We May Think". Tim Berners-Lee and his team at CERN are credited with inventing the original HTTP, along with HTML and the associated technology for a web server and a text-based web browser. Berners-Lee first proposed the "WorldWideWeb" project in 1989—now known as the World Wide Web. The first version of the protocol had only one method, namely GET, which would request a page from a server.[7] The response from the server was always an HTML page.[8]
 
@@ -110,7 +110,7 @@ A request line containing only the path name is accepted by servers to maintain 
 
 Request methods
 
-Http_request_telnet_ubuntu.png message, response header section, and response body are highlighted.]] HTTP defines methods (sometimes referred to as _verbs_, but nowhere in the specification does it mention _verb_, nor is OPTIONS or HEAD a verb) to indicate the desired action to be performed on the identified resource. What this resource represents, whether pre-existing data or data that is generated dynamically, depends on the implementation of the server. Often, the resource corresponds to a file or the output of an executable residing on the server. The HTTP/1.0 specification[21] defined the GET, HEAD and POST methods and the HTTP/1.1 specification[22] added five new methods: OPTIONS, PUT, DELETE, TRACE and CONNECT. By being specified in these documents, their semantics are well-known and can be depended on. Any client can use any method and the server can be configured to support any combination of methods. If a method is unknown to an intermediate, it will be treated as an unsafe and non-idempotent method. There is no limit to the number of methods that can be defined and this allows for future methods to be specified without breaking existing infrastructure. For example, WebDAV defined 7 new methods and specified the PATCH method.
+message, response header section, and response body are highlighted.]] HTTP defines methods (sometimes referred to as _verbs_, but nowhere in the specification does it mention _verb_, nor is OPTIONS or HEAD a verb) to indicate the desired action to be performed on the identified resource. What this resource represents, whether pre-existing data or data that is generated dynamically, depends on the implementation of the server. Often, the resource corresponds to a file or the output of an executable residing on the server. The HTTP/1.0 specification[21] defined the GET, HEAD and POST methods and the HTTP/1.1 specification[22] added five new methods: OPTIONS, PUT, DELETE, TRACE and CONNECT. By being specified in these documents, their semantics are well-known and can be depended on. Any client can use any method and the server can be configured to support any combination of methods. If a method is unknown to an intermediate, it will be treated as an unsafe and non-idempotent method. There is no limit to the number of methods that can be defined and this allows for future methods to be specified without breaking existing infrastructure. For example, WebDAV defined 7 new methods and specified the PATCH method.
 
 Method names are case sensitive.[23][24] This is in contrast to HTTP header field names which are case-insensitive.[25]
 

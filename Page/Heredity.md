@@ -3,7 +3,7 @@ HEREDITY, also called INHERITANCE or BIOLOGICAL INHERITANCE, is the passing on o
 
 Overview
 
-Jug_Ear_Heredity.jpgs and crowns.]] ADN_animation.gif structure. Bases are in the centre, surrounded by phosphate–sugar chains in a double helix.]]
+s and crowns.]] structure. Bases are in the centre, surrounded by phosphate–sugar chains in a double helix.]]
 
 In humans, eye color is an example of an inherited characteristic: an individual might inherit the "brown-eye trait" from one of the parents.[1] Inherited traits are controlled by genes and the complete set of genes within an organism's genome is called its genotype.[2]
 
@@ -27,7 +27,7 @@ The inheritance of acquired traits was shown to have little basis in the 1880s w
 
 History
 
-Aristotle's_model_of_Inheritance.png. The heat/cold part is largely symmetrical, though influenced on the father's side by other factors; but the form part is not.]]
+. The heat/cold part is largely symmetrical, though influenced on the father's side by other factors; but the form part is not.]]
 
 Scientists in Antiquity had a variety of ideas about heredity: Theophrastus proposed that male flowers caused female flowers to ripen;[28] Hippocrates speculated that "seeds" were produced by various body parts and transmitted to offspring at the time of conception;[29] and Aristotle thought that male and female fluids mixed at conception.[30] Aeschylus, in 458 BC, proposed the male as the parent, with the female as a "nurse for the young life sown within her".[31]
 
@@ -37,7 +37,7 @@ During the 18th century, Dutch microscopist Antonie van Leeuwenhoek (1632–1723
 
 Gregor Mendel: father of genetics
 
-Independent_assortment_&_segregation.svg and how this translates into Mendel's laws]] The idea of particulate inheritance of genes can be attributed to the Moravian[35] monk Gregor Mendel who published his work on pea plants in 1865. However, his work was not widely known and was rediscovered in 1901. It was initially assumed that Mendelian inheritance only accounted for large (qualitative) differences, such as those seen by Mendel in his pea plants – and the idea of additive effect of (quantitative) genes was not realised until R.A. Fisher's (1918) paper, "The Correlation Between Relatives on the Supposition of Mendelian Inheritance" Mendel's overall contribution gave scientists a useful overview that traits were inheritable. His pea plant demonstration became the foundation of the study of Mendelian Traits. These traits can be traced on a single locus.[36]
+and how this translates into Mendel's laws]] The idea of particulate inheritance of genes can be attributed to the Moravian[35] monk Gregor Mendel who published his work on pea plants in 1865. However, his work was not widely known and was rediscovered in 1901. It was initially assumed that Mendelian inheritance only accounted for large (qualitative) differences, such as those seen by Mendel in his pea plants – and the idea of additive effect of (quantitative) genes was not realised until R.A. Fisher's (1918) paper, "The Correlation Between Relatives on the Supposition of Mendelian Inheritance" Mendel's overall contribution gave scientists a useful overview that traits were inheritable. His pea plant demonstration became the foundation of the study of Mendelian Traits. These traits can be traced on a single locus.[36]
 
 Modern development of genetics and heredity
 
@@ -69,7 +69,7 @@ Common genetic disorders
 
 Types
 
-Autosomal_dominant.png Autosomal_recessive.png Sex_linked_inheritance.png)]]
+)]]
 
 Dominant and recessive alleles
 

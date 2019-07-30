@@ -16,8 +16,6 @@ At age 14, after leaving Realschule, Heinrich became an apprentice at Herr Holtz
 
 Career and family
 
-Шлиман_в_38_лет.jpg
-
 On March 1, 1844, 22-year-old Schliemann took a position with B. H. Schröder & Co., an import/export firm. In 1846, the firm sent him as a General Agent to St. Petersburg.
 
 In time, Schliemann represented a number of companies. He learned Russian and Greek, employing a system that he used his entire life to learn languages; Schliemann claimed that it took him six weeks to learn a language[9] and wrote his diary in the language of whatever country he happened to be in. By the end of his life, he could converse in English, French, Dutch, Spanish, Portuguese, Swedish, Polish, Italian, Greek, Latin, Russian, Arabic, and Turkish as well as German.
@@ -53,7 +51,7 @@ In 1868, Schliemann visited sites in the Greek world, published _Ithaka, der Pel
 
 Schliemann was at first skeptical about the identification of Hissarlik with Troy but was persuaded by Calvert[19] and took over Calvert's excavations on the eastern half of the Hissarlik site. The Turkish government owned the western half. Calvert became Schliemann's collaborator and partner.
 
-MaskeAgamemnon.JPG', discovered by Heinrich Schliemann in 1876 at Mycenae now exhibited at the National Archaeological Museum of Athens.]]
+', discovered by Heinrich Schliemann in 1876 at Mycenae now exhibited at the National Archaeological Museum of Athens.]]
 
 Schliemann needed an assistant who was knowledgeable in matters pertaining to Greek culture. As he had divorced Ekaterina in 1869, he advertised for a wife in a newspaper in Athens. A friend, the Archbishop of Athens, suggested a relative of his, 17-year-old Sophia Engastromenos (1852–1932). Schliemann, age 47, married her in October 1869, despite the 30 year difference in age. They later had three children, Andromache, Troy, and Agamemnon Schliemann; he reluctantly allowed them to be baptized, but solemnized the ceremony in his own way by placing a copy of the _Iliad_ on the children's heads and reciting 100 hexameters.
 
@@ -63,7 +61,7 @@ Schliemann was elected a member of the American Antiquarian Society in 1880.[20]
 
 Priam's Treasure
 
-Sophia_schliemann_treasure.jpg]] A cache of gold and other objects appeared on or around May 27, 1873; Schliemann named it "Priam's Treasure". He later wrote that he had seen the gold glinting in the dirt and dismissed the workmen so that he and Sophia could excavate it themselves; they removed it in her shawl. However, Schliemann's oft-repeated story of the treasure's being carried by Sophia in her shawl was untrue. Schliemann later admitted fabricating it; at the time of the discovery Sophia was in fact with her family in Athens, following the death of her father.[21] Sophia later wore "the Jewels of Helen" for the public. Those jewels, taken from the Pergamon Museum in Berlin by the Soviet Army (Red Army) in 1945, are now in the Pushkin Museum in Moscow.
+]] A cache of gold and other objects appeared on or around May 27, 1873; Schliemann named it "Priam's Treasure". He later wrote that he had seen the gold glinting in the dirt and dismissed the workmen so that he and Sophia could excavate it themselves; they removed it in her shawl. However, Schliemann's oft-repeated story of the treasure's being carried by Sophia in her shawl was untrue. Schliemann later admitted fabricating it; at the time of the discovery Sophia was in fact with her family in Athens, following the death of her father.[21] Sophia later wore "the Jewels of Helen" for the public. Those jewels, taken from the Pergamon Museum in Berlin by the Soviet Army (Red Army) in 1945, are now in the Pushkin Museum in Moscow.
 
 Schliemann published his findings in 1874, in _Trojanische Altertümer_ ("Trojan Antiquities").
 
@@ -78,7 +76,7 @@ Schliemann made a third excavation at Troy in 1882–1883, an excavation of Tiry
 
 Death
 
-Schliemann_grave.jpg.]] Schliemann_mansion_1900.png, ca. 1910, now housing the Numismatic Museum of Athens]] On August 1, 1890, Schliemann returned reluctantly to Athens, and in November travelled to Halle, where his chronic ear infection was operated upon, on November 13. The doctors deemed the operation a success, but his inner ear became painfully inflamed. Ignoring his doctors' advice, he left the hospital and travelled to Leipzig, Berlin, and Paris. From the latter, he planned to return to Athens in time for Christmas, but his ear condition became even worse. Too sick to make the boat ride from Naples to Greece, Schliemann remained in Naples but managed to make a journey to the ruins of Pompeii. On Christmas Day 1890, he collapsed into a coma; he died in a Naples hotel room the following day; the cause of death was cholesteatoma.
+.]] , ca. 1910, now housing the Numismatic Museum of Athens]] On August 1, 1890, Schliemann returned reluctantly to Athens, and in November travelled to Halle, where his chronic ear infection was operated upon, on November 13. The doctors deemed the operation a success, but his inner ear became painfully inflamed. Ignoring his doctors' advice, he left the hospital and travelled to Leipzig, Berlin, and Paris. From the latter, he planned to return to Athens in time for Christmas, but his ear condition became even worse. Too sick to make the boat ride from Naples to Greece, Schliemann remained in Naples but managed to make a journey to the ruins of Pompeii. On Christmas Day 1890, he collapsed into a coma; he died in a Naples hotel room the following day; the cause of death was cholesteatoma.
 
 His corpse was then transported by friends to the First Cemetery in Athens. It was interred in a mausoleum shaped like a temple erected in ancient Greek style, designed by Ernst Ziller in the form of a pedimental sculpture. The frieze circling the outside of the mausoleum shows Schliemann conducting the excavations at Mycenae and other sites.
 
@@ -119,7 +117,7 @@ Schliemann is a peripheral character in the historical mystery, _A Terrible Beau
 
 Publications
 
-Bust_of_Heinrich_Schliemann_in_Neues_Museum,_Berlin.jpg, Berlin]]
+, Berlin]]
 
 -   _La Chine et le Japon au temps présent_ (1867)
 -   _Ithaka, der Peloponnesus und Troja_ (1868) (reissued by Cambridge University Press, 2010. )

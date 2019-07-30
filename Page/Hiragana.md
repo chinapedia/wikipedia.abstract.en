@@ -176,7 +176,7 @@ Though _ye_ did appear in some textbooks during the Meiji period along with anot
 
 Wu
 
-Hiragana _wu_ also appeared in different Meiji textbooks (Hiragana_WU_2.png) utilizing the cursive form of 汙.[12][13] It was never commonly used.[14]
+Hiragana _wu_ also appeared in different Meiji textbooks () utilizing the cursive form of 汙.[12][13] It was never commonly used.[14]
 
 
 Spelling rules
@@ -200,9 +200,9 @@ The _myu_ kana is extremely rare in originally Japanese words; linguist Haruhiko
 
 History
 
-Treatise_on_calligraphy_1.png (_sōsho_). Shown here is a sample of the cursive script by Chinese Tang Dynasty calligrapher Sun Guoting, from the late 7th century. Note the character 為 (_wei_) that the red arrow points to closely resembles the _hiragana_ character ゐ (_wi_). ]] Hiragana developed from _man'yōgana_, Chinese characters used for their pronunciations, a practice that started in the 5th century.[15] The oldest examples of Man'yōgana include the Inariyama Sword, an iron sword excavated at the Inariyama Kofun in 1968. This sword is thought to be made in year of (which is A.D. 471 in commonly accepted theory).[16] The forms of the hiragana originate from the cursive script style of Chinese calligraphy. The figure below shows the derivation of hiragana from manyōgana via cursive script. The upper part shows the character in the regular script form, the center character in red shows the cursive script form of the character, and the bottom shows the equivalent hiragana. Note also that the cursive script forms are not strictly confined to those in the illustration.
+(_sōsho_). Shown here is a sample of the cursive script by Chinese Tang Dynasty calligrapher Sun Guoting, from the late 7th century. Note the character 為 (_wei_) that the red arrow points to closely resembles the _hiragana_ character ゐ (_wi_). ]] Hiragana developed from _man'yōgana_, Chinese characters used for their pronunciations, a practice that started in the 5th century.[15] The oldest examples of Man'yōgana include the Inariyama Sword, an iron sword excavated at the Inariyama Kofun in 1968. This sword is thought to be made in year of (which is A.D. 471 in commonly accepted theory).[16] The forms of the hiragana originate from the cursive script style of Chinese calligraphy. The figure below shows the derivation of hiragana from manyōgana via cursive script. The upper part shows the character in the regular script form, the center character in red shows the cursive script form of the character, and the bottom shows the equivalent hiragana. Note also that the cursive script forms are not strictly confined to those in the illustration.
 
-Hiragana_origin.svg When it was first developed, hiragana was not accepted by everyone. The educated or elites preferred to use only the kanji system. Historically, in Japan, the regular script (_kaisho_) form of the characters was used by men and called , "men's writing", while the cursive script (_sōsho_) form of the kanji was used by women. Hence hiragana first gained popularity among women, who were generally not allowed access to the same levels of education as men. And thus hiragana was first widely used among court women in the writing of personal communications and literature.[17] From this comes the alternative name of "women's writing".[18] For example, _The Tale of Genji_ and other early novels by female authors used hiragana extensively or exclusively.
+When it was first developed, hiragana was not accepted by everyone. The educated or elites preferred to use only the kanji system. Historically, in Japan, the regular script (_kaisho_) form of the characters was used by men and called , "men's writing", while the cursive script (_sōsho_) form of the kanji was used by women. Hence hiragana first gained popularity among women, who were generally not allowed access to the same levels of education as men. And thus hiragana was first widely used among court women in the writing of personal communications and literature.[17] From this comes the alternative name of "women's writing".[18] For example, _The Tale of Genji_ and other early novels by female authors used hiragana extensively or exclusively.
 
 Male authors came to write literature using hiragana. Hiragana was used for unofficial writing such as personal letters, while katakana and Chinese were used for official documents. In modern times, the usage of hiragana has become mixed with katakana writing. Katakana is now relegated to special uses such as recently borrowed words (i.e., since the 19th century), names in transliteration, the names of animals, in telegrams, and for emphasis.
 
@@ -214,7 +214,6 @@ The pangram poem _Iroha-uta_ ("ABC song/poem"), which dates to the 10th century,
 Stroke order and direction
 
 The following table shows the method for writing each hiragana character. It is arranged in the traditional way, beginning top right and reading columns down. The numbers and arrows indicate the stroke order and direction respectively.
-Table_hiragana.svg
 
 
 Unicode

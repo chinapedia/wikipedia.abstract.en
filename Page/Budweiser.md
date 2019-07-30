@@ -5,7 +5,7 @@ Introduced in 1876 by Carl Conrad & Co. of St. Louis, Missouri,[2] Budweiser has
 
 Name origin and dispute
 
-Bud_and_Budvar.jpg as "Bud" (left). At right is a bottle of Czech Budweiser]]
+as "Bud" (left). At right is a bottle of Czech Budweiser]]
 
 Anheuser–Busch has been involved in a trademark dispute with the Budweiser Budvar Brewery of České Budějovice, Czech Republic, over the trademark rights to the name "Budweiser". Beer has been brewed in České Budějovice (known as _Budweis_ in German) since it was founded by King Ottokar II of Bohemia in 1245. The name Budweiser is a derivative adjective, meaning "of Budweis". In 1876, Adolphus Busch and his friend Carl Conrad, a liquor importer, developed a "Bohemian-style" lager in the United States, inspired after a trip to the region.
 
@@ -15,8 +15,6 @@ In 2008, Anheuser-Busch had a market share in the United States of 50.9% for all
 
 
 Marketing
-
-ClydeWithBlanket.jpg
 
 Anheuser-Busch advertises the Budweiser brand heavily, expending $449 million in 2012 in the United States.[8] This made it the most advertised drink brand in America,[9] and accounted for a third of the company's US marketing budget.[10]
 
@@ -28,7 +26,7 @@ In 2010, the Bud Light brand paid $1 billion for a six-year licensing agreement
 
 Budweiser has produced a number of TV advertisements, such as the Budweiser Frogs, lizards impersonating the Budweiser frogs, a campaign built around the phrase "Whassup?", and a team of Clydesdale horses commonly known as the Budweiser Clydesdales.[16]
 
-DaleEarnhardtJr.Texas2007.jpg's No. 8 Budweiser-sponsored car in 2007.]]
+'s No. 8 Budweiser-sponsored car in 2007.]]
 
 Budweiser also advertises extensively in motorsports, from Bernie Little's Miss Budweiser hydroplane boat to sponsorship of the Budweiser King Top Fuel Dragster driven by Brandon Bernstein. Anheuser-Busch has sponsored the CART championship. It is the "Official Beer of NHRA"[17] and it was the "Official Beer of NASCAR" from 1998 to 2007. It has sponsored motorsport events such as the Daytona Speedweeks, Budweiser Shootout, Budweiser Duel, Budweiser Pole Award, Budweiser 500, Budweiser 400, Budweiser 300, Budweiser 250, Budweiser 200, and Carolina Pride / Budweiser 200. However, starting in 2016, the focus of A-B's NASCAR sponsorship became its Busch brand.[18]
 
@@ -65,7 +63,7 @@ The Budweiser bottle has remained relatively unchanged since its introduction in
 
 Cans
 
-StLouisABPackaging_Plant.JPG headquarters in St. Louis, Missouri]] In attempt to re-stimulate interest in their beer after the repeal of Prohibition, Budweiser began canning their beer in 1936. This new packaging led to an increase in sales which lasted until the start of World War II in 1939.[30]
+headquarters in St. Louis, Missouri]] In attempt to re-stimulate interest in their beer after the repeal of Prohibition, Budweiser began canning their beer in 1936. This new packaging led to an increase in sales which lasted until the start of World War II in 1939.[30]
 
 Over the years, Budweiser cans have undergone various design changes in response to market conditions and consumer tastes. Since 1936, 12 major can design changes have occurred, not including the temporary special edition designs.[31]
 
@@ -74,7 +72,7 @@ Budweiser cans have traditionally displayed patriotic American symbols, such as 
 
 The beer
 
-Budweiser_beverage_delivery_truck_Romulus_Michigan.JPG]]
+]]
 
 Budweiser is produced using barley malt, rice, water, hops and yeast. It is lagered with beechwood chips in the aging vessel. While beechwood chips are used in the maturation tank, there is little to no flavor contribution from the wood, mainly because they are boiled in sodium bicarbonate (baking soda) for seven hours for the very purpose of removing any flavor from the wood. The maturation tanks that Anheuser-Busch uses are horizontal and, as such, flocculation of the yeast occurs much more quickly. Anheuser-Busch refers to this process as a secondary fermentation, with the idea being that the chips give the yeast more surface area to rest on. This is also combined with a krausening procedure that re-introduces wort into the chip tank, therefore reactivating the fermentation process. By placing the beechwood chips at the bottom of the tank, the yeast remains in suspension longer, giving it more time to reabsorb and process green beer flavors, such as acetaldehyde and diacetyl, that Anheuser-Busch believes are off-flavors which detract from overall drinkability.
 

@@ -9,7 +9,7 @@ The early success of _D&D_ led to a proliferation of similar game systems. Despi
 
 Play overview
 
-D&D_Game_1.jpg.]]
+.]]
 
 _Dungeons & Dragons_ is a structured yet open-ended role-playing game. It is normally played indoors with the participants seated around a tabletop. Typically, each player controls only a single character, which represents an individual in a fictional setting.[18] When working together as a group, these player characters (PCs) are often described as a "party" of adventurers, with each member often having their own area of specialty which contributes to the success of the whole.[19][20] During the course of play, each player directs the actions of their character and their interactions with other characters in the game.[21][22] This activity is performed through the verbal impersonation of the characters by the players, while employing a variety of social and other useful cognitive skills, such as logic, basic mathematics and imagination.[23] A game often continues over a series of meetings to complete a single adventure, and longer into a series of related gaming adventures, called a "campaign".[24]
 
@@ -20,8 +20,6 @@ The most recent versions of the game's rules are detailed in three core rulebook
 The only items required to play the game are the rulebooks, a character sheet for each player, and a number of polyhedral dice. Many players also use miniature figures on a grid map as a visual aid, particularly during combat. Some editions of the game presume such usage.[34] Many optional accessories are available to enhance the game, such as expansion rulebooks, pre-designed adventures and various campaign settings.[35]
 
 Game mechanics
-
-Dnd_v3_5_rulesbooks.png Dice_(typical_role_playing_game_dice).jpg
 
 Before the game begins, each player creates their player character and records the details (described below) on a character sheet. First, a player determines their character's ability scores, which consist of Strength, Constitution, Dexterity, Intelligence, Wisdom, and Charisma. Each edition of the game has offered differing methods of determining these statistics.[36] The player then chooses a race (species) such as human or elf, a character class (occupation) such as fighter or wizard, an alignment (a moral and ethical outlook), and other features to round out the character's abilities and backstory, which have varied in nature through differing editions.
 
@@ -38,8 +36,6 @@ A typical _Dungeons & Dragons_ game consists of an "adventure", which is roughly
 A linked series of adventures is commonly referred to as a "campaign".[55] The locations where these adventures occur, such as a city, country, planet or an entire fictional universe, are referred to as "campaign settings" or "world".[56] _D&D_ settings are based in various fantasy genres and feature different levels and types of magic and technology.[57] Popular commercially published campaign settings for _Dungeons & Dragons_ include Greyhawk, Dragonlance, Forgotten Realms, Mystara, Spelljammer, Ravenloft, Dark Sun, Planescape, Birthright, and Eberron. Alternatively, DMs may develop their own fictional worlds to use as campaign settings.
 
 Miniature figures
-
-Dungeons_&_Dragons_Miniatures_2.jpg
 
 The wargames from which _Dungeons & Dragons_ evolved used miniature figures to represent combatants. _D&D_ initially continued the use of miniatures in a fashion similar to its direct precursors. The original _D&D_ set of 1974 required the use of the _Chainmail_ miniatures game for combat resolution.[58] By the publication of the 1977 game editions, combat was mostly resolved verbally. Thus miniatures were no longer required for game play, although some players continued to use them as a visual reference.[59]
 
@@ -68,11 +64,11 @@ _Dungeons & Dragons_ has gone through several revisions. Parallel versions and i
 
 Original game
 
-D&d_Box1st.jpg The original _Dungeons & Dragons_, now referred to as _OD&D_,[83] was a small box set of three booklets published in 1974. It was amateurish in production and assumed the player was familiar with wargaming. Nevertheless, it grew rapidly in popularity, first among wargamers and then expanding to a more general audience of college and high school students. Roughly 1,000 copies of the game were sold in the first year followed by 3,000 in 1975, and much more in the following years.[84] This first set went through many printings and was supplemented with several official additions, such as the original Greyhawk and Blackmoor supplements (both 1975),[85] as well as magazine articles in TSR's official publications and many fanzines.
+The original _Dungeons & Dragons_, now referred to as _OD&D_,[83] was a small box set of three booklets published in 1974. It was amateurish in production and assumed the player was familiar with wargaming. Nevertheless, it grew rapidly in popularity, first among wargamers and then expanding to a more general audience of college and high school students. Roughly 1,000 copies of the game were sold in the first year followed by 3,000 in 1975, and much more in the following years.[84] This first set went through many printings and was supplemented with several official additions, such as the original Greyhawk and Blackmoor supplements (both 1975),[85] as well as magazine articles in TSR's official publications and many fanzines.
 
 Two-pronged strategy
 
-DungeonMasterGuide4Cover.jpg In early 1977, TSR created the first element of a two-pronged strategy that would divide _D&D_ for nearly two decades. A _Dungeons & Dragons Basic Set_ boxed edition was introduced that cleaned up the presentation of the essential rules, made the system understandable to the general public, and was sold in a package that could be stocked in toy stores.[86] Later in 1977, the first part of _Advanced Dungeons & Dragons_ (_AD&D_) was published,[87] which brought together the various published rules, options and corrections, then expanded them into a definitive, unified game for hobbyist gamers. TSR marketed them as an introductory game for new players and a more complex game for experienced ones; the _Basic Set_ directed players who exhausted the possibilities of that game to switch to the advanced rules.
+In early 1977, TSR created the first element of a two-pronged strategy that would divide _D&D_ for nearly two decades. A _Dungeons & Dragons Basic Set_ boxed edition was introduced that cleaned up the presentation of the essential rules, made the system understandable to the general public, and was sold in a package that could be stocked in toy stores.[86] Later in 1977, the first part of _Advanced Dungeons & Dragons_ (_AD&D_) was published,[87] which brought together the various published rules, options and corrections, then expanded them into a definitive, unified game for hobbyist gamers. TSR marketed them as an introductory game for new players and a more complex game for experienced ones; the _Basic Set_ directed players who exhausted the possibilities of that game to switch to the advanced rules.
 
 As a result of this parallel development, the basic game included many rules and concepts which contradicted comparable ones in _AD&D_. John Eric Holmes, the editor of the basic game, preferred a lighter tone with more room for personal improvisation. _AD&D_, on the other hand, was designed to create a tighter, more structured game system than the loose framework of the original game.[88] Between 1977 and 1979, three hardcover rulebooks, commonly referred to as the "core rulebooks", were released: the _Player's Handbook_ (PHB), the _Dungeon Master's Guide_ (DMG), and the _Monster Manual_ (MM). Several supplementary books were published throughout the 1980s, notably _Unearthed Arcana_ (1985) that included a large number of new rules.[89] Confusing matters further, the original _D&D_ boxed set remained in publication until 1979, since it remained a healthy seller for TSR.[90]
 
@@ -132,8 +128,6 @@ _Dungeons & Dragons_ has, however, been cited as encouraging people to socialize
 
 
 Related products
-
-Pool_of_Radiance_Coverart.png
 
 _D&D_'s commercial success has led to many other related products, including _Dragon_ Magazine, _Dungeon_ Magazine, an animated television series, a film series, an official role-playing soundtrack, novels, and numerous computer and video games. Hobby and toy stores sell dice, miniatures, adventures, and other game aids related to _D&D_ and its game offspring.
 

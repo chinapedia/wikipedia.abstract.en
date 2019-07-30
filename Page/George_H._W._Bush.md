@@ -9,21 +9,15 @@ After leaving office in 1993, Bush was active in humanitarian activities; he oft
 
 Early life and education
 
-George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif
-
 George Herbert Walker Bush was born at 173 Adams Street in Milton, Massachusetts[1] on June 12, 1924 to Prescott Sheldon Bush and Dorothy (Walker) Bush. The Bush family moved from Milton to Greenwich, Connecticut shortly after his birth. Bush was named after his maternal grandfather George Herbert Walker, who was known as "Pop", and young Bush was called "Poppy" as a tribute to his namesake.[2]
 
 Bush began his formal education at the Greenwich Country Day School, then attended Phillips Academy in Andover, Massachusetts beginning in 1938, where he held a number of leadership positions which included president of the senior class, secretary of the student council, president of the community fund-raising group, a member of the editorial board of the school newspaper, and captain of the varsity baseball and soccer teams.[3]
 
 World War II
 
-George_Bush_being_rescued_by_the_submarine,_the_U.S.S._Finback,_after_being_shot_down_while_on_a_bombing_run_of_the..._-_NARA_-_186382.tif
-
 Six months after the United States entered World War II following Japan's attack on Pearl Harbor, Bush enlisted in the U.S. Navy[4] immediately after he graduated from Phillips Academy on his 18th birthday.[5] He became a naval aviator, taking training for aircraft carrier operations aboard USS _Sable_.[6][7] After completing the 10-month course, he was commissioned as an ensign in the Naval Reserve at Naval Air Station Corpus Christi on June 9, 1943, just three days before his 19th birthday, which made him one of the youngest aviators in the Navy.
 
 In September 1943, he was assigned to Torpedo Squadron 51 (VT-51) as the photographic officer.[8] The following year, his squadron was assigned to the as a member of Air Group 51, where his lanky physique earned him the nickname "Skin".[9] During this time, the task force was victorious at the Battle of the Philippine Sea, one of the largest air battles of World War II.[10]
-
-George_H.W._Bush_seated_in_a_Grumman_TBM_Avenger,_circa_1944_(H069-13).jpg
 
 Bush was promoted to lieutenant (junior grade) on August 1, 1944, and _San Jacinto_ commenced operations against the Japanese in the Bonin Islands. He piloted one of the four Grumman TBM Avengers of VT-51 that attacked the Japanese installations on Chichijima[11] on September 2, 1944. His crew included Radioman Second Class John Delaney and Lt.(jg) William White.[12] His aircraft was hit by flak during the attack, but Bush successfully released bombs and scored several hits.[13] With his engine ablaze, he flew several miles from the island, where he and one other crew member bailed out;[14] the other man's parachute did not open.[15] Bush spent four hours in his inflated liferaft, protected by fighter aircraft circling above, until the submarine came to his rescue.[16] He remained in _Finback_ for the next month and participated in the rescue of other aviators. Several of those shot down during the attack were executed, and their livers were eaten by their captors.[17] This experience shaped Bush profoundly, leading him to ask, "Why had I been spared and what did God have for me?"[18]
 
@@ -32,7 +26,7 @@ In November 1944, Bush returned to _San Jacinto_ and participated in operations 
 
 Marriage and college years
 
-Entire_Bush_family.jpg When Bush was still in the Navy, he married Barbara Pierce (1925–2018) in Rye, New York, on January 6, 1945.[22] The marriage produced six children: George W. (b. 1946), Robin (1949–1953), Jeb (b. 1953), Neil (b. 1955), Marvin (b. 1956), and Doro (b. 1959).[23] At the time of his wife's death on April 17, 2018, George H. W. had been married to Barbara for 73 years; theirs was the longest presidential marriage in American history.[24] They had become the longest-married presidential couple in 2000 when their marriage surpassed the 54-year (1764–1818) marriage of John and Abigail Adams.[25]
+When Bush was still in the Navy, he married Barbara Pierce (1925–2018) in Rye, New York, on January 6, 1945.[22] The marriage produced six children: George W. (b. 1946), Robin (1949–1953), Jeb (b. 1953), Neil (b. 1955), Marvin (b. 1956), and Doro (b. 1959).[23] At the time of his wife's death on April 17, 2018, George H. W. had been married to Barbara for 73 years; theirs was the longest presidential marriage in American history.[24] They had become the longest-married presidential couple in 2000 when their marriage surpassed the 54-year (1764–1818) marriage of John and Abigail Adams.[25]
 
 After Bush received his military discharge, he enrolled at Yale University. He earned an undergraduate degree in economics on an accelerated program that enabled him to graduate in two and a half years, rather than the usual four.[26] He was a member of the Delta Kappa Epsilon fraternity and was elected its president.[27] He also captained the Yale baseball team and played in the first two College World Series as a left-handed first baseman.[28] Bush was the team captain during his senior year in 1948, and he met Babe Ruth before a game; the event took place only weeks before Ruth's death. Like his father, he was also a member of the Yale cheerleading squad.[29] Late in his junior year, he was initiated into the Skull and Bones secret society; his father Prescott Bush had been initiated into the same society in 1917. He was elected to Phi Beta Kappa when he graduated from Yale in 1948 with a Bachelor of Arts degree in economics.[30]
 
@@ -50,13 +44,11 @@ Early political career
 
 Congressional years (1967–1971)
 
-George_H._W._Bush_91st_Congress.jpg
-
 Bush's career in politics began on February 20, 1963 when he was elected chairman of the Harris County, Texas Republican Party.[44] The following year, he ran against incumbent Democrat Ralph W. Yarborough in the U.S. Senate race. He was a young Conservative Republican in contrast to the aging liberal Democrat Yarborough, and campaigned against pending civil rights legislation, believing it gave too much power to the federal government.[45] Bush lost the election 56% to 44%,[46] though he did outpoll Republican presidential nominee Barry Goldwater, who lost by an overwhelming margin to Lyndon B. Johnson.[47]
 
 Bush and the Harris County Republicans played a role in the development of the new Republican Party of the late 20th century. Bush worked to absorb the John Birch Society members, who were trying to take over the Party. Also, as a result of the civil rights movement, Democrats in the South who were committed to segregation left their party, and though these "country club Republicans" had differing ideological beliefs, they found common ground in hoping to expel the Democrats from power.[48]
 
-George_Herbert_Walker_Bush_and_Eisenhower_1.jpg with Bush]]
+with Bush]]
 
 In 1966, Bush was elected to a seat in the United States House of Representatives from the 7th District of Texas; he won 57 percent of the ballots cast in a race against Democrat Frank Briscoe, the district attorney of Harris County.[49][50] Bush was the first House Republican to represent his Houston district,[51] which included his residence in the Tanglewood area.[52][53] His voting record in the House was generally conservative: Bush voted for the Civil Rights Act of 1968, although it was generally unpopular in his district. He supported the Nixon administration's Vietnam policies, but broke with Republicans on the issue of birth control, which he supported.[54] Despite being a first-term congressman, Bush was appointed to the powerful United States House Committee on Ways and Means, where he voted to abolish the military draft.[55] He was elected to a second term in 1968.[56]
 
@@ -64,7 +56,7 @@ In 1970, Nixon convinced Bush to relinquish his House seat in order to run for t
 
 Ambassador to the United Nations (1971–1973)
 
-George_Bush_as_United_Nations_Representative,_1971-72_-_NARA_-_186386.tif Following his 1970 loss, Bush was well known as a prominent Republican businessman from the southern Sun Belt.[61] Nixon appreciated the sacrifice Bush had made of his Congressional position and nominated him United States Ambassador to the United Nations.[62] He was confirmed unanimously by the Senate in 1971 and served for two years.[63]
+Following his 1970 loss, Bush was well known as a prominent Republican businessman from the southern Sun Belt.[61] Nixon appreciated the sacrifice Bush had made of his Congressional position and nominated him United States Ambassador to the United Nations.[62] He was confirmed unanimously by the Senate in 1971 and served for two years.[63]
 
 His ambassadorship was marked by a defeat on the China question. On October 25, 1971, the General Assembly voted to expel the Republic of China and replace it with the People's Republic of China.[64] Many delegates hissed at Bush when he got up to speak, and then cheered and danced after defeating his motion to require a two-thirds supermajority.[65] The resolution then won a two-thirds supermajority anyway, as the United States lost the support of every NATO country.[66] Although Bush condemned the "gladiatorial ugliness" of the debate,[67] he advocated friendly relations with the Chinese delegation.[68] Two months later, Bush even placed himself in the position of depending on a Chinese veto in the 1971 Secretary-General selection. However he did not tell the Chinese, who unexpectedly abstained and allowed Kurt Waldheim to be selected as the next Secretary-General of the United Nations.[69]
 
@@ -78,13 +70,13 @@ He initially defended Nixon steadfastly, but as Nixon's complicity became clear 
 
 Head of U.S. Liaison Office in China (1974–1975)
 
-George_Bush_as_United_States_Liaison_to_China,_1974-1975_-_NARA_-_186378.tif President Gerald Ford appointed Bush to be Chief of the U.S. Liaison Office in the People's Republic of China. Since the United States maintained diplomatic relations with the Republic of China (Taiwan) instead of the People's Republic of China, Bush did not hold the diplomatic rank of ambassador. However, Bush performed as an ambassador, ignoring instructions from Henry Kissinger to stay away from diplomatic functions.[76] The 14 months that he spent in China were seen as beneficial for China–United States relations.[77]
+President Gerald Ford appointed Bush to be Chief of the U.S. Liaison Office in the People's Republic of China. Since the United States maintained diplomatic relations with the Republic of China (Taiwan) instead of the People's Republic of China, Bush did not hold the diplomatic rank of ambassador. However, Bush performed as an ambassador, ignoring instructions from Henry Kissinger to stay away from diplomatic functions.[76] The 14 months that he spent in China were seen as beneficial for China–United States relations.[77]
 
 After Ford assumed the presidency, Bush was under serious consideration for being nominated as vice president. Ford eventually narrowed his list to Nelson Rockefeller and Bush. White House Chief of Staff Donald Rumsfeld reportedly preferred Rockefeller over Bush. Rockefeller was finally named and confirmed.[78] Ford again passed over Bush when he chose Bob Dole to replace Rockefeller on the 1976 presidential ticket.[79]
 
 Director of Central Intelligence (1976–1977)
 
-CIA_Director_George_H.W._Bush_listens_at_a_meeting_following_the_assassinations_in_Beirut,_1976_-_NARA_-_7064954.jpg and Robert O. Waring, 1976.]] In 1976 Ford brought Bush back to Washington to become Director of Central Intelligence (DCI), replacing William Colby.[80] He served in this role for 357 days, from January 30, 1976, to January 20, 1977.[81] The Central Intelligence Agency (CIA) had been rocked by a series of revelations, including those based on investigations by the Church Committee regarding illegal and unauthorized activities by the CIA, and Bush was credited with helping to restore the agency's morale.[82] In his capacity as DCI, Bush gave national security briefings to Jimmy Carter both as a presidential candidate and as president-elect, and discussed the possibility of remaining in that position in a Carter administration,[83] but did not do so. He was succeeded by Deputy Director of Central Intelligence E. Henry Knoche, who served as acting Director of Central Intelligence until Stansfield Turner was confirmed.[84]
+and Robert O. Waring, 1976.]] In 1976 Ford brought Bush back to Washington to become Director of Central Intelligence (DCI), replacing William Colby.[80] He served in this role for 357 days, from January 30, 1976, to January 20, 1977.[81] The Central Intelligence Agency (CIA) had been rocked by a series of revelations, including those based on investigations by the Church Committee regarding illegal and unauthorized activities by the CIA, and Bush was credited with helping to restore the agency's morale.[82] In his capacity as DCI, Bush gave national security briefings to Jimmy Carter both as a presidential candidate and as president-elect, and discussed the possibility of remaining in that position in a Carter administration,[83] but did not do so. He was succeeded by Deputy Director of Central Intelligence E. Henry Knoche, who served as acting Director of Central Intelligence until Stansfield Turner was confirmed.[84]
 
 During Bush's year in charge of the CIA, the U.S. national security apparatus actively supported Operation Condor operations and right-wing military dictatorships in Latin America.[85][86][87]
 
@@ -97,9 +89,9 @@ After Democrat Jimmy Carter took power in 1977, Bush became chairman on the Exec
 
 1980 presidential campaign
 
-Bush80.gif Bush decided in the late 1970s that he was going to run for president in 1980; in 1979, he attended 850 political events ("cattle calls") and traveled more than to campaign for the nation's highest office. In the contest for the Republican Party nomination, Bush stressed his wide range of government experience, while competing against rivals Senator Howard Baker of Tennessee, Senator Bob Dole of Kansas, Congressman John Anderson of Illinois (who would later run as an independent), Congressman Phil Crane, also of Illinois, former Governor John Connally of Texas, former Minnesota Governor Harold Stassen, and the front-runner Ronald Reagan, a noted former actor and the former Governor of California.[92]
+Bush decided in the late 1970s that he was going to run for president in 1980; in 1979, he attended 850 political events ("cattle calls") and traveled more than to campaign for the nation's highest office. In the contest for the Republican Party nomination, Bush stressed his wide range of government experience, while competing against rivals Senator Howard Baker of Tennessee, Senator Bob Dole of Kansas, Congressman John Anderson of Illinois (who would later run as an independent), Congressman Phil Crane, also of Illinois, former Governor John Connally of Texas, former Minnesota Governor Harold Stassen, and the front-runner Ronald Reagan, a noted former actor and the former Governor of California.[92]
 
-Reagan-Bush_Nashua_1980_debate.jpg At the outset of the 1980 primary race, Bush focused heavily on winning the January 21 Iowa caucuses, including 31 visits to the state; five months earlier he had won the Iowa Straw Poll.[93] Reagan, however, far ahead in the polls, campaigned little. Bush represented the centrist wing in the GOP, whereas Reagan represented conservatives. Bush famously labeled Reagan's supply side-influenced plans for massive tax cuts "voodoo economics".[94] His strategy proved useful, to some degree, as he won in Iowa with 31.5% to Reagan's 29.4%. After the win, Bush stated that his campaign was full of momentum, or "the Big Mo".[95]
+At the outset of the 1980 primary race, Bush focused heavily on winning the January 21 Iowa caucuses, including 31 visits to the state; five months earlier he had won the Iowa Straw Poll.[93] Reagan, however, far ahead in the polls, campaigned little. Bush represented the centrist wing in the GOP, whereas Reagan represented conservatives. Bush famously labeled Reagan's supply side-influenced plans for massive tax cuts "voodoo economics".[94] His strategy proved useful, to some degree, as he won in Iowa with 31.5% to Reagan's 29.4%. After the win, Bush stated that his campaign was full of momentum, or "the Big Mo".[95]
 
 As a result of the loss, Reagan replaced his campaign manager, reorganized his staff, and concentrated on the New Hampshire primary. The two men agreed to a debate in the state, organized by _The Nashua Telegraph_, but paid for by the Reagan campaign. Reagan invited the other four candidates as well, but Bush refused to debate them, and eventually they left. The debate proved to be a pivotal moment in the campaign; when the moderator, John Breen, ordered Reagan's microphone turned off, his angry response, "I am paying for this microphone," struck a chord with the public. Bush ended up losing New Hampshire's primary with 23% to Reagan's 50%. Bush lost most of the remaining primaries as well, and formally dropped out of the race in May of that year.[96]
 
@@ -112,17 +104,15 @@ First term (1981–1985)
 
 As vice president, Bush generally maintained a low profile, recognizing the constitutional limits of the office; he avoided decision-making or criticizing Reagan in any way. As had become customary, he and his wife moved into the vice president's residence at Number One Observatory Circle, about two miles from the White House. After selling their house in Tanglewood, the Bushes declared a room in The Houstonian Hotel in Houston as their official voting address.[100] The Bushes attended a large number of public and ceremonial events in their positions, including many state funerals, which became a common joke for comedians. Mrs. Bush found the funerals largely beneficial, saying, "George met with many current or future heads of state at the funerals he attended, enabling him to forge personal relationships that were important to President Reagan." As the President of the Senate, Bush stayed in contact with members of Congress and kept the president informed on occurrences on Capitol Hill.[101]
 
-Vice_President_George_H._W._Bush_portrait.jpg
-
 On March 30, 1981 (early into the administration), Reagan was shot and seriously wounded by John Hinckley Jr. in Washington, D.C. Bush was in Fort Worth, Texas, and immediately flew back to Washington D.C. because he was next in line to the presidency. Reagan's cabinet convened in the White House Situation Room, where they discussed various issues, including the availability of the "nuclear football". When Bush's plane landed, he was advised by his aides to proceed directly to the White House by helicopter as an image of the government still functioning despite the attack. Bush rejected the idea, responding, "Only the president lands on the South Lawn."[102] This made a positive impression on Reagan,[103] who recovered and returned to work within two weeks. From then on, the two men would have regular Thursday lunches in the Oval Office.[104]
 
-Photograph_of_the_Official_Portrait_of_President_Reagan_and_Vice-President_Bush_-_NARA_-_198518.jpg with Bush]]
+with Bush]]
 
 In November 1982, Bush toured Africa, the first instance of a high United States government official visiting the continent since the Reagan administration began. Bush told reporters that while he would allow for heads of state to dictate how each meeting would transpire, there was an expectation on his part for discussions on the independence of Namibia, adding that the United States was going to retain the position of no settlement in Namibia until Cuban troops in Angola were withdrawn.[105] On November 15, Bush met with United States Secretary of State George P. Shultz and Yuri Andropov in Moscow, Russia, to discuss human rights and arms reductions. Bush later said, "The meeting was frank, cordial and substantive. It gave both sides the opportunity to exchange views on the state of their relations."[106]
 
 At the end of January 1983, Bush began a seven-day tour of Western Europe intended to promote the arms reduction commitment being advocated for by the Reagan administration.[107] During a February 8 news conference in Paris, Bush said the United States' invitations for the Soviet Union to consent to a reduction in medium-range missiles were supported by Western Europe, which he stated had also consented to the deployment of new American missiles starting in the latter part of the year.[108] The following day, Bush defended American nuclear arms policy when answering British Secretary General of the Committee on Nuclear Disarmament Bruce Kent.[109]
 
-C17903-4.jpg with a group of bipartisan members of Congress in October 1983]]
+with a group of bipartisan members of Congress in October 1983]]
 
 In September 1983, Bush met with President of Romania Nicolae Ceaușescu, insisting during the meeting that President Reagan intended to push for arms reductions at the Geneva talks with the Soviet Union.[110] Shortly thereafter, Bush said the United States wanted better relations with all countries within the Eastern Bloc, though he stressed that NATO would retaliate in the event of any threatening of European military stability by the Soviets,[111] and he assailed the Soviet Union for the Berlin Wall and destroying the Korean Air Lines jetliner.[112]
 
@@ -136,13 +126,13 @@ According to journalist Seymour Hersh, Bush set up a covert military team which 
 
 Second term (1985–1989)
 
-Photograph_of_President_Reagan_and_Vice-President_Bush_meeting_with_General_Secretary_Gorbachev_on_Governor's_Island..._-_NARA_-_198596.jpg was a critical component of the political landscape in the late 1980s. Vice President Bush can be seen here standing with President Ronald Reagan and Soviet leader Mikhail Gorbachev, on the New York City waterfront, 1988.]]
+was a critical component of the political landscape in the late 1980s. Vice President Bush can be seen here standing with President Ronald Reagan and Soviet leader Mikhail Gorbachev, on the New York City waterfront, 1988.]]
 
 Reagan and Bush ran for reelection in 1984. Their Democratic opponent, Walter Mondale, made history by choosing a woman, New York Representative Geraldine Ferraro, as his running mate. She and Bush squared off in a single televised vice presidential debate.[118] Ferraro represented a blue-collar district in Queens, New York, serving as a contrast to the Ivy-League educated Bush. This distinction and her popularity among female journalists left Bush at a disadvantage. Regardless, the Reagan-Bush ticket won in a landslide against the Mondale-Ferraro ticket. Early into his second term as vice president, Bush and his aides were planning a run for the presidency in 1988. By the end of 1985, a committee had been established, and over two million dollars were raised for Bush.[119]
 
 On July 13, 1985, Bush became the first vice president to serve as acting president when Reagan underwent surgery to remove polyps from his colon; Bush served as the acting president for approximately eight hours.[120]
 
-Margaret_Thatcher_George_H.W._Bush_1986.jpg and Bush, 1986]]
+and Bush, 1986]]
 
 In 1986, the Reagan administration was shaken by a scandal when it was revealed that administration officials had secretly arranged weapon sales to Iran during the Iran–Iraq War. The officials had used the proceeds to fund the anti-communist Contras in Nicaragua, which was a direct violation of law. The scandal became known as the Iran–Contra affair. When news of the public embarrassment broke to the media, Bush, like Reagan, stated that he had been "out of the loop" and unaware of the diversion of funds,[121] although this was later questioned.[122] Bush began keeping a diary in late 1986, when the scandal was being investigated, and wrote several fake entries.[123] However, his diaries also stated "I'm one of the few people that know fully the details" and as a result of six pardons by Bush, the independent counsel's final report on the Iran–Contra affair pointedly noted: "The criminal investigation of Bush was regrettably incomplete."[124] In the _Nicaragua v. United States_ case, the International Court of Justice (ICJ) ruled that the U.S. had violated international law by supporting the Contras in their rebellion against the Nicaraguan government.[125]
 
@@ -157,7 +147,7 @@ On July 3, 1988, the guided missile cruiser accidentally shot down Iran Air Flig
 
 1988 presidential campaign
 
-Bushquayle1988.gif Gwbush1988stl.jpg and Vice President Bush campaign in St. Louis, Missouri, 1988]]
+and Vice President Bush campaign in St. Louis, Missouri, 1988]]
 
 As early as 1985, Bush had been planning a presidential run; he entered the Republican primaries for President of the United States in October 1987.[132] His challengers for the Republican presidential nomination included U.S. Senator Bob Dole of Kansas, U.S. Representative Jack Kemp of New York, former Governor Pete du Pont of Delaware, and conservative Christian televangelist Pat Robertson.[133][134]
 
@@ -169,8 +159,6 @@ Bush was occasionally criticized for his lack of eloquence when compared to Reag
 
 General election
 
-ElectoralCollege1988.svg
-
 The general election campaign between Bush and Dukakis was described in 2008 as one of the dirtiest in modern times.[143] Bush pinned blame on Dukakis for the pollution of Boston Harbor, as the governor of Massachusetts.[144] Bush also pointed out that Dukakis was opposed to a law that would require all students to say the Pledge of Allegiance, a topic highlighted in Bush's nomination acceptance speech.[145]
 
 Dukakis' unconditional opposition to capital punishment led to a pointed question during the presidential debates: moderator Bernard Shaw asked Dukakis hypothetically if he would support the death penalty if his wife, Kitty, were raped and murdered.[146] Dukakis's response of "no" played into Bush's characterization of Dukakis as "soft on crime",[147] a theme the Bush campaign exploited with a provocative, racially-charged television commercial about convicted felon Willie Horton.
@@ -180,7 +168,7 @@ Bush defeated Dukakis and his running mate, Lloyd Bentsen, in the Electoral Coll
 
 Presidency (1989–1993)
 
-George_H._W._Bush_inauguration.jpg administers the Presidential Oath of Office to George H. W. Bush during his inauguration ceremony at the United States Capitol on January 20, 1989.]]
+administers the Presidential Oath of Office to George H. W. Bush during his inauguration ceremony at the United States Capitol on January 20, 1989.]]
 
 Bush was inaugurated on January 20, 1989, succeeding Ronald Reagan. He entered office at a period of change in the world; the fall of the Berlin Wall came early in his presidency, and the collapse of the Soviet Union came in 1991.[151] He ordered military operations in Panama and the Persian Gulf, and, at one point, was recorded as having a record-high approval rating of 89%.[152]
 
@@ -202,8 +190,6 @@ Education
 
 On April 5, 1989, Bush submitted to Congress the Educational Excellence Act of 1989, a seven-program education legislative proposal with the intent of achieving "a better-educated America."[161][162] The proposal was opposed by Republicans seeking to shrink government's role in education and met with a lack of enthusiasm by Democrats.[163] A week after submitting the proposal, Bush said his administration was seeking to provide waivers on "some regulations for poorer communities" and create "a kind of performance-driven partial deregulation of education" that would grant federal funding when schools showed high levels of accountability coupled with academic performance.[164][165] Later in the year, from September 27 to 28, Bush held a summit with American governors dedicated solely to education reform at the University of Virginia, the group forming a consensus to overhaul the American education system for the country's students to be closer in test scores in science, mathematics, and literacy.[166]
 
-Bush_I_approval_rating.png
-
 In his 1990 State of the Union Address, Bush revealed that his administration would spearhead an increase in American high school graduation rates to 90%, along with making American students "first in the world" in the subjects of math and science by 2000.[167][168] In a speech in the White House East Room on April 18, 1991, Bush called for both public and private citizens to become involved with education reform: "To those who want to see real improvement in American education, I say there will be no renaissance without revolution. It's time we held our schools, and ourselves, accountable for results."[169] On June 3, Bush advocated for community participation in reforming the national education system and insisting America 2000 would fail "if we try to do it from Washington itself."[170] On October 4, Bush met with representatives of the New American Schools Development Corp. at Camp David as the organization sought US$200 million for education reform to aid with the forming of "new learning environments".[171] In a November 25 appearance in Columbus, Ohio, Bush joined Governor of Ohio George Voinovich in formally announcing a state version of his education policy, "Ohio 2000". Bush concurrently declared he would be involved with a reform of troubled schools and accused the Democrat-controlled Congress of "fighting tooth and nail against our most important reforms".[172]
 
 On July 23, 1992, Bush signed the Higher Education Amendments of 1992, a resumption of "many programs in the Higher Education Act of 1965."[173]
@@ -212,7 +198,7 @@ Major initiatives
 
 During a speech to commemorate the 20th anniversary of the Apollo 11 moon landing, Bush announced a vision to complete Space Station _Freedom_, resume exploration of the moon and begin exploration of Mars.[174] Although a space station was eventually constructed (work on the International Space Station began in 1998), other projects were quashed due to NASA budgetary issues. In 1998, Bush received the Rotary National Award for Space Achievement's National Space Trophy for his pioneering leadership of the U.S. space program.[175]
 
-President_Bush_participates_in_a_full_cabinet_meeting_in_the_cabinet_room_-_NARA_-_186454.tif in July 1992]]
+in July 1992]]
 
 During his presidency, Bush signed a number of major bills into law, including the Americans with Disabilities Act of 1990; this was one of the most pro-civil rights bills in decades. He was also the only president to successfully veto a civil rights act, the job-discrimination protection Civil Rights Act of 1990.[176] Bush feared racial quotas would be imposed, but later approved the watered-down Civil Rights Act of 1991.[177] He worked to increase federal spending for education, childcare, and advanced technology research. He also signed the Radiation Exposure Compensation Act, which provides monetary compensation of people who had contracted cancer and a number of other specified diseases as a direct result of their exposure to atmospheric nuclear weapons testing undertaken by the United States during the Cold War, or their exposure to high levels of radon while doing uranium mining. In dealing with the environment, Bush reauthorized the Clean Air Act, requiring cleaner burning fuels. He quarreled with Congress over an eventually signed bill to aid police in capturing criminals, and signed into law a measure to improve the nation's highway system.[178] Bush signed the Immigration Act of 1990,[179] which led to a 40 percent increase in legal immigration to the United States.[180]
 
@@ -224,7 +210,7 @@ Points of Light
 
 President Bush devoted attention to voluntary service as a means of solving some of America's most serious social problems. He often used the "thousand points of light" theme to describe the power of citizens to solve community problems. In his 1989 inaugural address, President Bush said, "I have spoken of a thousand points of light, of all the community organizations that are spread like stars throughout the Nation, doing good."[185]
 
-StromThurmond_GeorgeBush.jpg with the Presidential Medal of Freedom in a ceremony in the Oval Office.]]
+with the Presidential Medal of Freedom in a ceremony in the Oval Office.]]
 
 Four years later, in his report to the nation on the Points of Light Movement, President Bush said, "Points of Light are the soul of America. They are ordinary people who reach beyond themselves to touch the lives of those in need, bringing hope and opportunity, care and friendship. By giving so generously of themselves, these remarkable individuals show us not only what is best in our heritage but what all of us are called to become."[186]
 
@@ -248,7 +234,7 @@ Foreign policy
 
 Panama
 
-George_H._W._Bush_on_telephone.jpg and Chief of Staff John H. Sununu look on, 1989]]
+and Chief of Staff John H. Sununu look on, 1989]]
 
 In the 1980s, Panamanian leader Manuel Noriega, a once U.S.-supportive leader who was later accused of spying for Fidel Castro and using Panama to traffic drugs into the United States, was one of the most recognizable names in America and was constantly in the press. The struggle to remove him from power began in the Reagan administration, when economic sanctions were imposed on the country; this included prohibiting American companies and government from making payments to Panama and freezing $56 million in Panamanian funds in American banks. Reagan sent more than 2,000 American troops to Panama as well.[198] Unlike Reagan, Bush was able to remove Noriega from power, but his administration's unsuccessful post-invasion planning hindered the needs of Panama during the establishment of the young democratic government.[199]
 
@@ -258,11 +244,11 @@ The mission was controversial, but American forces achieved control of the count
 
 Soviet Union
 
-Bush_Gorba_P15623-25A.jpg in Helsinki summit in 1990]]
+in Helsinki summit in 1990]]
 
 Bush met with Soviet General Secretary Mikhail Gorbachev at the Malta Summit in December 1989, just after the fall of the Berlin Wall. His administration had been under intense pressure to meet with the Soviets, but not all initially found the conference to be a step in the right direction. General Brent Scowcroft, among others, was apprehensive about the meeting, saying that it might be "premature" due to concerns that, according to Condoleezza Rice, "expectations [would be] set that something was going to happen, where the Soviets might grandstand and force [the U.S.] into agreements that would ultimately not be good for the United States."[206] European leaders, including François Mitterrand and Margaret Thatcher, encouraged Bush to meet with Gorbachev. Although no agreements were signed, the meeting was received as an important step to the end of the Cold War.[207] When asked about nuclear war, Gorbachev responded, "I assured the President of the United States that the Soviet Union would never start a hot war against the United States of America, and we would like our relations to develop in such a way that they would open greater possibilities for cooperation.... This is just the beginning. We are just at the very beginning of our road, long road to a long-lasting, peaceful period."[208]
 
-President_and_Mrs._Bush_show_Russian_President_Boris_Yeltsin_the_South_Grounds_of_the_White_House_and_stop_at_the..._-_NARA_-_186451.tif, Russia's first post-Soviet, freely elected leader, at the White House, Washington, D.C. in 1992]]
+, Russia's first post-Soviet, freely elected leader, at the White House, Washington, D.C. in 1992]]
 
 Another summit was held in July 1991, where the Strategic Arms Reduction Treaty (START I) was signed by Bush and Gorbachev in Moscow. The treaty took nine years to negotiate, and was the first major arms agreement since the signing of the Intermediate-Range Nuclear Forces Treaty by Reagan and Gorbachev in 1987. The contentions in START would reduce the strategic nuclear weapons of the United States and the USSR by about 35% over seven years, and the Soviet Union's land-based intercontinental ballistic missiles would be cut by 50%. Bush described START as "a significant step forward in dispelling half a century of mistrust".[209]
 
@@ -270,11 +256,11 @@ Bush and Condoleezza Rice were criticized for their very weak tone and miscalcul
 
 Gulf War
 
-Bush_troops.jpg on Thanksgiving Day, 1990]]
+on Thanksgiving Day, 1990]]
 
 On August 2, 1990, Iraq, led by Saddam Hussein, invaded its oil-rich neighbor to the south, Kuwait; Bush condemned the invasion[211] and began rallying opposition to Iraq in the United States and among European, Asian, and Middle Eastern allies.[212] Secretary of Defense Dick Cheney traveled to Saudi Arabia to meet with King Fahd, who requested United States military aid in the matter, fearing a possible invasion of his country as well.[213] The request was met initially with Air Force fighter jets. Iraq made attempts to negotiate a deal that would have allowed the country to take control of half of Kuwait. Bush rejected this proposal and insisted on a complete withdrawal of Iraqi forces.[214] The planning of a ground operation by U.S.-led coalition forces began forming in September 1990, headed by General Norman Schwarzkopf, Jr..[215] Bush spoke before a joint session of the United States Congress regarding the authorization of air and land attacks, laying out four immediate objectives: "Iraq must withdraw from Kuwait completely, immediately, and without condition. Kuwait's legitimate government must be restored. The security and stability of the Persian Gulf must be assured. And American citizens abroad must be protected." He then outlined a fifth, long-term objective: "Out of these troubled times, our fifth objective — a new world order — can emerge: a new era — freer from the threat of terror, stronger in the pursuit of justice, and more secure in the quest for peace. An era in which the nations of the world, East and West, North and South, can prosper and live in harmony ... A world where the rule of law supplants the rule of the jungle. A world in which nations recognize the shared responsibility for freedom and justice. A world where the strong respect the rights of the weak."[216] With the United Nations Security Council opposed to Iraq's violence, Congress authorized the use of military force[217] with a set goal of returning control of Kuwait to the Kuwaiti government, and protecting America's interests abroad.[218]
 
-President_Bush_meets_with_General_Colin_Powell,_General_Scowcroft,_Secretary_James_Baker,_Vice_President_Quayle..._-_NARA_-_186429.tif, General Colin Powell, Secretary Dick Cheney and others about the situation in the Persian Gulf and Operation Desert Shield, January 15, 1991]]
+, General Colin Powell, Secretary Dick Cheney and others about the situation in the Persian Gulf and Operation Desert Shield, January 15, 1991]]
 
 Early on the morning of January 17, 1991, allied forces launched the first attack, which included more than 4,000 bombing runs by coalition aircraft.[219] This pace would continue for the next four weeks, until a ground invasion was launched on February 24, 1991. Allied forces penetrated Iraqi lines and pushed toward Kuwait City, while on the west side of the country, forces were intercepting the retreating Iraqi army. Bush made the decision to stop the offensive after a mere 100 hours.[220][221] Critics labeled this decision premature, as hundreds of Iraqi forces were able to escape; Bush responded by saying that he wanted to minimize U.S. casualties. Opponents further charged that Bush should have continued the attack, pushing Hussein's army back to Baghdad, then removing him from power.[222] Bush explained that he did not give the order to overthrow the Iraqi government because it would have "incurred incalculable human and political costs... We would have been forced to occupy Baghdad and, in effect, rule Iraq."[223]
 
@@ -304,7 +290,7 @@ On August 11, 1992, following a meeting between President Bush and Prime Ministe
 
 NAFTA
 
-Nafta.jpg, President Bush, Prime Minister Brian Mulroney; Seated: Jaime Serra Puche, Carla Hills, and Michael Wilson at the NAFTA Initialing Ceremony, October 1992]] The Bush administration and the Progressive Conservative Prime Minister of Canada Brian Mulroney spearheaded the negotiations of the North American Free Trade Agreement (NAFTA). The agreement would eliminate the majority of tariffs on products that were traded among the United States, Canada, and Mexico. This would encourage trade among the countries. The treaty also restricted patents, copyrights, and trademarks, and outlined the removal of investment restrictions among the three countries.[240] President Bush announced the completion of NAFTA during a White House Rose Garden appearance on August 12, 1992, calling it the "beginning of a new era".[241]
+, President Bush, Prime Minister Brian Mulroney; Seated: Jaime Serra Puche, Carla Hills, and Michael Wilson at the NAFTA Initialing Ceremony, October 1992]] The Bush administration and the Progressive Conservative Prime Minister of Canada Brian Mulroney spearheaded the negotiations of the North American Free Trade Agreement (NAFTA). The agreement would eliminate the majority of tariffs on products that were traded among the United States, Canada, and Mexico. This would encourage trade among the countries. The treaty also restricted patents, copyrights, and trademarks, and outlined the removal of investment restrictions among the three countries.[240] President Bush announced the completion of NAFTA during a White House Rose Garden appearance on August 12, 1992, calling it the "beginning of a new era".[241]
 
 The agreement came under heavy scrutiny amongst mainly Democrats, who charged that NAFTA resulted in a loss of American jobs.[242] NAFTA also contained no provisions for labor rights; according to the Bush administration, the trade agreement would generate economic resources necessary to enable Mexico's government to overcome problems of funding and enforcement of its labor laws. Bush needed a renewal of negotiating authority to move forward with the NAFTA trade talks. Such authority would enable the president to negotiate a trade accord that would be submitted to Congress for a vote, thereby avoiding a situation in which the president would be required to renegotiate with trading partners those parts of an agreement that Congress wished to change.[243] While initial signing was possible during his term, negotiations made slow, but steady, progress. President Clinton would go on to make the passage of NAFTA a priority for his administration, despite its conservative and Republican roots—with the addition of two side agreements—to achieve its passage in 1993.[244]
 
@@ -363,7 +349,7 @@ Conservative Republicans pointed out that Bush's 1990 agreement to raise taxes c
 
 Public image
 
-US_Navy_051008-N-9274T-001_After_arriving_on_board_Naval_Air_Station_Joint_Reserve_Base_(NAS_JRB),_New_Orleans,_former_President_George_H._Bush_sits_down_to_eat_with_military_personnel.jpg, New Orleans personnel before he receives briefs on the status of Joint Task Force Katrina relief efforts, October 2005]] Bush was widely seen as a "pragmatic caretaker" president who lacked a unified and compelling long-term theme in his efforts.[301][302][303] Indeed, Bush's sound bite where he refers to the issue of overarching purpose as "the vision thing" has become a metonym applied to other political figures accused of similar difficulties.[304][305][306][307][308][309] "He does not say why he wants to be there", wrote columnist George Will, "so the public does not know why it should care if he gets his way".[310]
+, New Orleans personnel before he receives briefs on the status of Joint Task Force Katrina relief efforts, October 2005]] Bush was widely seen as a "pragmatic caretaker" president who lacked a unified and compelling long-term theme in his efforts.[301][302][303] Indeed, Bush's sound bite where he refers to the issue of overarching purpose as "the vision thing" has become a metonym applied to other political figures accused of similar difficulties.[304][305][306][307][308][309] "He does not say why he wants to be there", wrote columnist George Will, "so the public does not know why it should care if he gets his way".[310]
 
 His Ivy League and prep school education led to warnings by advisors that his image was too "preppy" in 1980, which resulted in deliberate efforts in his 1988 campaign to shed the image, including meeting voters at factories and shopping malls, abandoning set speeches. Bush's campaign director Roger Ailes and others were concerned that Bush was seen as a "wimp." Bush put that image to rest when he displayed evident fury during an interview with Dan Rather on January 25, 1988.[311]
 
@@ -378,7 +364,7 @@ During Clinton presidency
 
 Upon leaving office, Bush retired with his wife, Barbara, and temporarily moved into a friend's house near the Tanglewood community of Houston as they prepared to build a permanent retirement house nearby.[321] Ultimately they built their retirement house in the community of West Oaks, near Tanglewood.[322] They had a presidential office within the Park Laureate Building on Memorial Drive.[323] Mimi Swartz of _National Geographic_ wrote that "The Bushes are too studiously sedate to live in River Oaks".[324] They spent their summers at Walker's Point in Kennebunkport, Maine.[325]
 
-President_Bill_Clinton_meeting_with_former_Presidents_George_H.W._Bush_and_Jimmy_Carter_at_the_White_House.jpg meeting with former presidents George H.W. Bush and Jimmy Carter at the White House in September 1993]]
+meeting with former presidents George H.W. Bush and Jimmy Carter at the White House in September 1993]]
 
 In 1993, Bush was targeted in an assassination plot when he visited Kuwait to commemorate the coalition's victory over Iraq in the Gulf War. Kuwaiti authorities arrested 17 people who were allegedly involved in using a car bomb in an attempt to kill Bush. Through interviews with the suspects and examinations of the bomb's circuitry and wiring, the FBI established that the plot had been directed by the Iraqi Intelligence Service. A Kuwaiti court later convicted all but one of the defendants. Two months later, Clinton retaliated when he ordered the firing of 23 cruise missiles at Iraqi Intelligence Service headquarters in Baghdad. The day before the strike, U.S. Ambassador to the United Nations Madeleine Albright went before the Security Council to present evidence of the Iraqi plot. After the missiles were fired, Vice President Al Gore said the attack "was intended to be a proportionate response at the place where this plot" to assassinate Bush "was hatched and implemented".[326]
 
@@ -394,7 +380,7 @@ On September 28, 1994, Bush said he was opposed to sending American troops to Ha
 
 In an October 22, 1994 speech in Cancún, Mexico, Bush said history would vindicate him for not attempting to force Saddam Hussein out of power while in office: "The Mideast peace talks that offer hope to the world would never have started if we had done that. The Arabs would never have talked to us."[335]
 
-Unveiling_of_official_George_H._W._Bush_portrait_at_the_White_House,_1995_2.jpg of the White House, 1995]]
+of the White House, 1995]]
 
 On July 17, 1995, Bush returned to the White House for the unveiling of his official portrait in an East Room ceremony attended by former members of his administration.[336]
 
@@ -406,7 +392,7 @@ In February 1997, Bush endorsed the chemical weapon banning treaty supported by 
 
 In April 1997, Bush gave a speech at a convocation of a weekend conference analyzing his presidency[342] and joined President Bill Clinton, former president Ford, and Nancy Reagan in signing the "Summit Declaration of Commitment" in advocating for participation by private citizens in solving domestic issues within the United States.[343] Also in April 1997, the Houston Intercontinental Airport was renamed George Bush Intercontinental Airport after a proposal received the unanimous approval of the Houston City Council.[344] The renaming took effect on May 2, with Bush presiding over the ceremonies as he took a 50-minute flight during the official changeover.[345]
 
-Inauguration_ceremony_of_Jeb_Bush.jpg in January 1999]]
+in January 1999]]
 
 In August 1997, Bush agreed to be interviewed by _The New York Times_, as long as he would not be portrayed as giving credit to himself over the balanced budget deal that was composed by President Clinton and House Speaker Newt Gingrich. During a telephone interview, he stated his belief that history would show that his administration laid the groundwork for the agreement.[346]
 
@@ -422,19 +408,17 @@ In May 1999, Bush and his wife Barbara honored six senior citizens during the an
 
 During George W. Bush presidency
 
-G_&_B._Bush_F-SD-03-15575.jpg
-
 His eldest son, George W. Bush, was inaugurated as the 43rd president of the United States on January 20, 2001, and re-elected in 2004. Through previous administrations, the elder Bush had ubiquitously been known as "George Bush" or "President Bush", but following his son's election the need to distinguish between them has made retronymic forms such as "George H. W. Bush" and "George Bush Sr." and colloquialisms such as "Bush 41" and "Bush the Elder" became much more common. H.W. Bush was traveling to Minnesota for a speaking engagement on the day of the September 11 attacks. George W. made multiple calls to get in contact with his father before the two men reconnected after the elder Bush had gone to a Brookfield, Wisconsin motel.[352] Bush told biographer Jon Meacham that his son's vice president, Dick Cheney, underwent a change following the September 11 attacks: "His seeming knuckling under to the real hard-charging guys who want to fight about everything, use force to get our way in the Middle East."[353]
 
 In December 2002, George W. sought counsel from the elder Bush regarding Iraq and informed him of "my efforts to rally the Saudis, Jordanians, Turks, and others in the Middle East".[354]
 
-Vladimir_Putin_met_with_former_U.S._President_George_Bush_Sr.jpg from Putin in 2005.]]
+from Putin in 2005.]]
 
 Following the fall of Baghdad, Bush praised George W. in an April 2003 email to the incumbent president.[355] In a September 14, 2003 interview with BBC, Bush stated his support for a continuation of his son's war against terrorism and that the U.S. was in a better state in terms of protecting itself from terrorism than two years prior.[356] While visiting Houston VA Medical Center on December 17, Bush told reporters of his satisfaction with the capture of Saddam Hussein.[357]
 
 President and Mrs. Bush attended the state funeral of Ronald Reagan in June 2004,[358] and of Gerald Ford in January 2007.[359] One month later, he was awarded the Ronald Reagan Freedom Award in Beverly Hills, California, by former First Lady Nancy Reagan. Despite Bush's political differences with Bill Clinton, reports acknowledged that the two former presidents had become friends.[360] He and Clinton appeared together in television ads in 2005, encouraging aid for victims of Hurricane Katrina and the 2004 Indian Ocean earthquake and tsunami.[361]
 
-George_H._W._Bush_and_George_W._Bush_with_Hu_Jintao.jpg in Beijing, People's Republic of China, August 10, 2008]]
+in Beijing, People's Republic of China, August 10, 2008]]
 
 In October 2004, Bush endorsed Pete Sessions and Ted Poe in Texas congressional races.[362]
 
@@ -443,8 +427,6 @@ In February 2006, Bush delivered a eulogy at the funeral of Coretta Scott King.[
 On March 2, 2006, President Bush announced that his father would lead the American delegation to the inauguration of the president-elect of the Republic of Portugal Aníbal Cavaco Silva.[364]
 
 In September 2006, Bush campaigned for New Jersey Senate candidate Thomas Kean Jr., praising him as well as stating his respect for Kean for calling on the resignation of U.S. Defense Secretary Donald Rumsfeld.[365] Kean went on to lose the election. The following month, he was honored by the National Italian American Foundation (NIAF) with the NIAF One America Award for fundraising, with Bill Clinton, for the victims of the 2004 Indian Ocean earthquake and tsunami and Hurricane Katrina.[366]
-
-US_Navy_090109-N-7656T-060_Capt._Kevin_E._O-Flaherty--_commanding_officer_of_the_aircraft_carrier_USS_George_H.W._Bush_-CVN_77-_--escorts_former_President_George_H.W._Bush.jpg
 
 On February 18, 2008, Bush formally endorsed Senator John McCain for President of the United States.[367] The endorsement offered a boost to McCain's campaign, because the Arizona Senator had been facing criticism among many conservatives.[368] During a trip to Tokyo, Japan, Bush said that he would campaign vigorously against Senator Hillary Clinton if she were to initiate a presidential bid.[369]
 
@@ -466,7 +448,7 @@ On March 29, 2012, Bush endorsed Mitt Romney for the Republican presidential nom
 
 In July 2013, Bush had his head shaved in a show of support for the two-year-old son of a member of his security detail, who had leukemia.[379] On July 7, Bush met with Gabrielle Giffords for part of her week-long Rights and Responsibilities Tour advocating expanded background checks in relation to firearm purchases.[380]
 
-Barack_Obama_and_George_H._W._Bush_in_the_Oval_Office.jpg in the Oval Office, January 30, 2010]]
+in the Oval Office, January 30, 2010]]
 
 In April 2014, Frederick D. McClure, chief executive of the Bush library foundation, organized a three-day gathering in College Park, Texas, to mark the 25th anniversary of the Bush administration. Also in early 2014, the John F. Kennedy Library Foundation presented the Profile in Courage Award to Bush and Mount Vernon awarded him its first Cyrus A. Ansary Prize.[381] The Kennedy foundation award was presented by Jack Schlossberg, the late president's grandson, to Lauren Bush Lauren, who accepted on her grandfather's behalf.[382] The Ansary prize was presented in Houston with Ansary, Barbara Lucas, Ryan C. Crocker, dean of the Bush school since January 2010, Barbara Bush, and Curt Viebranz in attendance with the former president. Bush directed $50,000 of the prize to the Bush School of Government and Public Service at Texas A&M University, and $25,000 to fund an animation about the Siege of Yorktown for Mount Vernon.[383] Viebranz and Lucas represented Mount Vernon at the presentation.[384][385]
 
@@ -476,7 +458,7 @@ On December 7, 2016, Bush and former Senator Bob Dole commemorated the 75th anni
 
 2016 election
 
-Bushes_and_Pences_C38RSFoVYAAZCI2.jpg and family, wife Karen and daughter Charlotte, at Super Bowl LI in 2017]]
+and family, wife Karen and daughter Charlotte, at Super Bowl LI in 2017]]
 
 Bush supported his younger son Jeb's 2016 presidential bid.[390] Jeb Bush's campaign struggled however, and he withdrew from the race during the primaries. Neither George H.W. nor George W. Bush endorsed the eventual Republican nominee, Donald Trump;[391] all three Bushes emerged as frequent critics of Trump's policies and speaking style, while Trump frequently criticized George W. Bush's presidency. George H. W. Bush later said that he voted for the Democratic nominee, Hillary Clinton, in the general election.[392] After Trump won the election, Bush sent him a congratulatory message.[393]
 
@@ -518,7 +500,7 @@ In October 2017, during the Me Too movement, actress Heather Lind accused Bush o
 
 Death and funeral
 
-The_United_States_Capitol_(46125518422).jpg in the Rotunda of the U.S. Capitol in Washington, D.C.]]
+in the Rotunda of the U.S. Capitol in Washington, D.C.]]
 
 George H. W. Bush died on November 30, 2018, aged 94 years, 171 days,[423] at his home in Houston.[424] At the time of his death he was the longest-lived U.S. president,[425] a distinction now held (since March 22, 2019) by Jimmy Carter.[426] He was also the third-oldest vice president.
 
@@ -532,7 +514,7 @@ Afterward, Bush's casket was flown back to Houston and then transported to St. M
 
 Tributes
 
-The_Funeral_of_President_George_H.W._Bush_(46204190411).jpg Obama, Clinton, and Carter at the state funeral of Bush on December 5, 2018]] President Obama released a lengthy statement, in part it reads, "America has lost a patriot and humble servant in George Herbert Walker Bush. While our hearts are heavy today, they are also filled with gratitude. Our thoughts are with the entire Bush family tonight – and all who were inspired by George and Barbara's example."[433]
+Obama, Clinton, and Carter at the state funeral of Bush on December 5, 2018]] President Obama released a lengthy statement, in part it reads, "America has lost a patriot and humble servant in George Herbert Walker Bush. While our hearts are heavy today, they are also filled with gratitude. Our thoughts are with the entire Bush family tonight – and all who were inspired by George and Barbara's example."[433]
 
 First Lady Michelle Obama cancelled her book tour, saying on Twitter, "I hope readers and ticket holders will understand my decision regarding my desire to attend President Bush's funeral, and join me in paying tribute to him and his tremendous contributions to our world."[434]
 
@@ -577,7 +559,7 @@ According to _USA Today_, the legacy of Bush's presidency was defined by his vic
 
 Presidential library
 
-George_Bush_Presidential_Library.jpg on the west campus of Texas A&M University in College Station, Texas]]
+on the west campus of Texas A&M University in College Station, Texas]]
 
 The George H.W. Bush Presidential Library is the nation's tenth presidential library which was built between 1995 and 1997.[464] It contains the presidential and vice presidential papers of Bush and the vice presidential papers of Dan Quayle.[465] It was dedicated on November 6, 1997, and opened to the public shortly thereafter; the architectural firm of Hellmuth, Obata and Kassabaum designed the complex.[466][467]
 

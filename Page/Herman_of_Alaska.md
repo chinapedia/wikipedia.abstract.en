@@ -12,7 +12,7 @@ All biographers agree that at Valaam, Herman studied under Abbot Nazarius, previ
 
 Mission in Alaska
 
-Grigory_Shelikov.jpg The Russian colonization of the Americas began when Vitus Bering and Aleksei Chirikov discovered Alaska in 1741. The expedition harvested 1,500 sea otter pelts, which Chinese merchants bought for 1,000 rubles each at their trading post near Lake Baikal. This spurred a "fur rush" from 1741 to 1798 in which frontiersmen known as _promyshlenniki_ explored Alaska and the Aleutian Islands and alternately fought and intermarried with the native peoples.[12] Grigory Shelikhov, a fur-trader, subjugated the native population of Kodiak Island and with Ivan Golikov founded a fur-trading company which eventually received a monopoly from the Imperial government and became the Russian-American Company. Shelikhov founded a school for the natives, of whom many were converted to Russian Orthodox Christianity.[13][14]
+The Russian colonization of the Americas began when Vitus Bering and Aleksei Chirikov discovered Alaska in 1741. The expedition harvested 1,500 sea otter pelts, which Chinese merchants bought for 1,000 rubles each at their trading post near Lake Baikal. This spurred a "fur rush" from 1741 to 1798 in which frontiersmen known as _promyshlenniki_ explored Alaska and the Aleutian Islands and alternately fought and intermarried with the native peoples.[12] Grigory Shelikhov, a fur-trader, subjugated the native population of Kodiak Island and with Ivan Golikov founded a fur-trading company which eventually received a monopoly from the Imperial government and became the Russian-American Company. Shelikhov founded a school for the natives, of whom many were converted to Russian Orthodox Christianity.[13][14]
 
 The Shelikhov-Golikov Company appealed to the Most Holy Synod of the Russian Orthodox Church to provide a priest for the natives. Catherine the Great decided instead to send an entire mission to America. She entrusted the task of recruiting missionaries to Metropolitan Gabriel of St. Petersburg, who sent ten monks from Valaam, including Herman.[15] The missionaries arrived on Kodiak on September 24, 1794.[16]
 
@@ -32,7 +32,7 @@ Despite his solitary life, he soon gained a following. He received many visitors
 
 Sainthood
 
-Sts._Sergius_and_Herman_of_Valaam_Chapel.jpg and Herman of Valaam Chapel, built in 1898 over the site where Herman was buried on Spruce Island in December 1836. Located near Monk's Lagoon, in the immediate vicinity of St. Herman's hermitage.]]
+and Herman of Valaam Chapel, built in 1898 over the site where Herman was buried on Spruce Island in December 1836. Located near Monk's Lagoon, in the immediate vicinity of St. Herman's hermitage.]]
 
 On March 11, 1969, the bishops of the Orthodox Church in America (OCA) formally declared their intention to canonize Herman, "as a sublime example of the Holy Life, for our spiritual benefit, inspiration, comfort, and the confirmation of our Faith."[34] On August 9, 1970, Metropolitan Ireney (Bekish) of the OCA along with Archbishop Paul (Olmari) of Finland and other hierarchs and clergy presided over the canonization service,[35] which was held at Holy Resurrection Cathedral on Kodiak Island.[36] His relics were transferred from his grave underneath the Sts. Sergius and Herman of Valaam Chapel (i.e., the Saints Sergius and Herman of Valaam Chapel), on Spruce Island, to the Holy Resurrection Cathedral.
 

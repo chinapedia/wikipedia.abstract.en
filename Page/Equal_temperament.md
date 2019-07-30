@@ -1,4 +1,4 @@
-Chromatische_toonladder.png An EQUAL TEMPERAMENT is a musical temperament, or a system of tuning, in which the frequency interval between every pair of adjacent notes has the same ratio. In other words, the ratios of the frequencies of any adjacent pair of notes is the same, and, as pitch is perceived roughly as the logarithm of frequency,[1] equal perceived "distance" from every note to its nearest neighbor.
+An EQUAL TEMPERAMENT is a musical temperament, or a system of tuning, in which the frequency interval between every pair of adjacent notes has the same ratio. In other words, the ratios of the frequencies of any adjacent pair of notes is the same, and, as pitch is perceived roughly as the logarithm of frequency,[1] equal perceived "distance" from every note to its nearest neighbor.
 
 In equal temperament tunings, the generating interval is often found by dividing some larger desired interval, often the octave (ratio 2:1), into a number of smaller equal steps (equal frequency ratios between successive notes).
 
@@ -27,7 +27,7 @@ A complete set of bronze chime bells, among many musical instruments found in th
 
 An approximation for equal temperament was described by He Chengtian, a mathematician of Southern and Northern Dynasties around 400 AD. He came out with the earliest recorded approximate numerical sequence in relation to equal temperament in history: 900 849 802 758 715 677 638 601 570 536 509.5 479 450.[13]
 
-乐律全书全-2297.jpg Historically, there was a seven-equal temperament or hepta-equal temperament practice in Chinese tradition.[14][15]
+Historically, there was a seven-equal temperament or hepta-equal temperament practice in Chinese tradition.[14][15]
 
 Zhu Zaiyu (), a prince of the Ming court, spent thirty years on research based on the equal temperament idea originally postulated by his father. He described his new pitch theory in his _Fusion of Music and Calendar_ published in 1580. This was followed by the publication of a detailed account of the new theory of the equal temperament with a precise numerical specification for 12-TET in his 5,000-page work _Complete Compendium of Music and Pitch_ (_Yuelü quan shu_ ) in 1584.[16] An extended account is also given by Joseph Needham.[17] Zhu obtained his result mathematically by dividing the length of string and pipe successively by ≈ 1.059463, and for pipe length by ,[18] such that after twelve divisions (an octave) the length was divided by a factor of 2:
 
@@ -41,11 +41,9 @@ Zhu Zaiyu
 
 Zhu Zaiyu has been credited as the first person to solve the equal temperament problem mathematically.[19] At least one researcher has proposed that Matteo Ricci, a Jesuit in China recorded this work in his personal journal[20][21] and may have transmitted the work back to Europe. (Standard resources on the topic make no mention of any such transfer.[22]) In 1620, Zhu's work was referenced by a European mathematician.[23] Murray Barbour said, "The first known appearance in print of the correct figures for equal temperament was in China, where Prince Tsaiyü's brilliant solution remains an enigma."[24] The 19th-century German physicist Hermann von Helmholtz wrote in _On the Sensations of Tone_ that a Chinese prince (see below) introduced a scale of seven notes, and that the division of the octave into twelve semitones was discovered in China.[25]
 
-乐律全书全-1154.jpg Zhu Zaiyu illustrated his equal temperament theory by the construction of a set of 36 bamboo tuning pipes ranging in 3 octaves, with instructions of the type of bamboo, color of paint, and detailed specification on their length and inner and outer diameters. He also constructed a 12-string tuning instrument, with a set of tuning pitch pipes hidden inside its bottom cavity. In 1890, Victor-Charles Mahillon, curator of the Conservatoire museum in Brussels, duplicated a set of pitch pipes according to Zhu Zaiyu's specification. He said that the Chinese theory of tones knew more about the length of pitch pipes than its Western counterpart, and that the set of pipes duplicated according to the Zaiyu data proved the accuracy of this theory.[26]
+Zhu Zaiyu illustrated his equal temperament theory by the construction of a set of 36 bamboo tuning pipes ranging in 3 octaves, with instructions of the type of bamboo, color of paint, and detailed specification on their length and inner and outer diameters. He also constructed a 12-string tuning instrument, with a set of tuning pitch pipes hidden inside its bottom cavity. In 1890, Victor-Charles Mahillon, curator of the Conservatoire museum in Brussels, duplicated a set of pitch pipes according to Zhu Zaiyu's specification. He said that the Chinese theory of tones knew more about the length of pitch pipes than its Western counterpart, and that the set of pipes duplicated according to the Zaiyu data proved the accuracy of this theory.[26]
 
 Europe
-
-De_Spiegheling_der_signconst.jpg
 
 Early history
 
@@ -117,8 +115,6 @@ General formulas for the equal-tempered interval
 
 
 Twelve-tone equal temperament
-
-Monochord_ET.png
 
 In twelve-tone equal temperament, which divides the octave into 12 equal parts, the width of a semitone, i.e. the frequency ratio of the interval between two adjacent notes, is the twelfth root of two:
 
@@ -199,8 +195,6 @@ Other equal temperaments
 
 5 and 7 tone temperaments in ethnomusicology
 
-7-tet_scale_on_C.png
-
 Five and seven tone equal temperament (5-TET and 7-TET ), with 240 and 171 cent steps respectively, are fairly common.
 
 A Thai xylophone measured by Morton (1974) "varied only plus or minus 5 cents," from 7-TET. According to Morton, "Thai instruments of fixed pitch are tuned to an equidistant system of seven pitches per octave ... As in Western traditional music, however, all pitches of the tuning system are not used in one mode (often referred to as 'scale'); in the Thai system five of the seven are used in principal pitches in any mode, thus establishing a pattern of nonequidistant intervals for the mode."[51]
@@ -216,9 +210,7 @@ A South American Indian scale from a pre-instrumental culture measured by Boiles
 
 Various Western equal temperaments
 
-16-tet_scale_on_C.png's notation system for 16 equal temperament: intervals are notated similarly to those they approximate and there are fewer enharmonic equivalents.[52] ]]
-
-Comparison_of_equal_temperaments.png
+'s notation system for 16 equal temperament: intervals are notated similarly to those they approximate and there are fewer enharmonic equivalents.[52] ]]
 
 24 EDO, the quarter tone scale (or 24-TET), was a popular microtonal tuning in the 20th century probably because it represented a convenient access point for composers conditioned on standard Western 12 EDO pitch and notation practices who were also interested in microtonality. Because 24 EDO contains all of the pitches of 12 EDO, plus new pitches halfway between each adjacent pair of 12 EDO pitches, they could employ the additional colors without losing any tactics available in 12-tone harmony. The fact that 24 is a multiple of 12 also made 24 EDO easy to achieve instrumentally by employing two traditional 12 EDO instruments purposely tuned a quarter-tone apart, such as two pianos, which also allowed each performer (or one performer playing a different piano with each hand) to read familiar 12-tone notation. Various composers including Charles Ives experimented with music for quarter-tone pianos.
 
@@ -293,7 +285,7 @@ Related tuning systems
 
 Regular diatonic tunings
 
-Rank-2_temperaments_with_the_generator_close_to_a_fifth_and_period_an_octave.jpgs continuum, which include many notable "equal temperament" tunings (Milne 2007).[57]]] The diatonic tuning in twelve equal can be generalized to any regular diatonic tuning dividing the octave as a sequence of steps TTSTTTS (or a rotation of it) with all the T's and all the S's the same size and the S's smaller than the T's. In twelve equal the S is the semitone and is exactly half the size of the tone T. When the S's reduce to zero the result is TTTTT or a five-tone equal temperament, As the semitones get larger, eventually the steps are all the same size, and the result is in seven tone equal temperament. These two endpoints are not included as regular diatonic tunings.
+s continuum, which include many notable "equal temperament" tunings (Milne 2007).[57]]] The diatonic tuning in twelve equal can be generalized to any regular diatonic tuning dividing the octave as a sequence of steps TTSTTTS (or a rotation of it) with all the T's and all the S's the same size and the S's smaller than the T's. In twelve equal the S is the semitone and is exactly half the size of the tone T. When the S's reduce to zero the result is TTTTT or a five-tone equal temperament, As the semitones get larger, eventually the steps are all the same size, and the result is in seven tone equal temperament. These two endpoints are not included as regular diatonic tunings.
 
 The notes in a regular diatonic tuning are connected together by a cycle of seven tempered fifths. The twelve-tone system similarly generalizes to a sequence CDCDDCDCDCDD (or a rotation of it) of chromatic and diatonic semitones connected together in a cycle of twelve fifths. In this case, seven equal is obtained in the limit as the size of C tends to zero and five equal is the limit as D tends to zero while twelve equal is of course the case C = D.
 

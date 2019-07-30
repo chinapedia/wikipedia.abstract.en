@@ -28,8 +28,6 @@ Pierre de Fermat also pioneered the development of analytic geometry. Although n
 
 Coordinates
 
-Cartesian-coordinate-system.svg
-
 In analytic geometry, the plane is given a coordinate system, by which every point has a pair of real number coordinates. Similarly, Euclidean space is given coordinates where every point has three coordinates. The value of the coordinates depends on the choice of the initial point of origin. There are a variety of coordinate systems used, but the most common are the following:[18]
 
 Cartesian coordinates (in a plane or space)
@@ -124,8 +122,6 @@ Quadric surfaces include ellipsoids (including the sphere), paraboloids, hyperbo
 
 Distance and angle
 
-Distance_Formula.svg
-
 In analytic geometry, geometric notions such as distance and angle measure are defined using formulas. These definitions are designed to be consistent with the underlying Euclidean geometry. For example, using Cartesian coordinates on the plane, the distance between two points (_x_₁, _y_₁) and (_x_₂, _y_₂) is defined by the formula
 
 $$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2},\!$$
@@ -146,8 +142,6 @@ where θ is the angle between A and B.
 
 
 Transformations
-
-FourGeometryTransformations.svg
 
 Transformations are applied to a parent function to turn it into a new function with similar characteristics.
 

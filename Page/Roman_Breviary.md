@@ -1,4 +1,4 @@
-Francesco_di_Antonio_del_Chierico_-_Leaf_from_Breviary_-_Walters_W334152V_-_Open_Reverse.jpg).]] The ROMAN BREVIARY (Latin: _Breviarium Romanum_) is the liturgical book of the Latin liturgical rites of the Catholic Church containing the public or canonical prayers, hymns, the Psalms, readings, and notations for everyday use, especially by bishops, priests, and deacons in the Divine Office (i.e., at the canonical hours or Liturgy of the Hours, the Christians' daily prayer).
+).]] The ROMAN BREVIARY (Latin: _Breviarium Romanum_) is the liturgical book of the Latin liturgical rites of the Catholic Church containing the public or canonical prayers, hymns, the Psalms, readings, and notations for everyday use, especially by bishops, priests, and deacons in the Divine Office (i.e., at the canonical hours or Liturgy of the Hours, the Christians' daily prayer).
 
 The volume containing the daily hours of Catholic prayer was published as the _Breviarium Romanum_ (Roman Breviary) from its _editio princeps_ in 1568 under Pope Pius V until the reforms of Paul VI (1974), when it became known as the Liturgy of the Hours. In the course of the Catholic Counter-Reformation, Pope Pius V (r. 1566–1572) imposed the use of the Roman Breviary, mainly based on the _Breviarium secundum usum Romanae Curiae_, on the whole Roman Catholic Church. Exceptions are the Benedictines and Dominicans, who have Breviaries of their own, and two surviving local breviaries,
 
@@ -19,7 +19,7 @@ Pope Gregory VII (r. 1073–1085) having, indeed, abridged the order of prayers,
 
 History
 
-Stuartbreviary.jpg personal breviary, which she took with her to the scaffold, is preserved in the National Library of Russia of St. Petersburg]]
+personal breviary, which she took with her to the scaffold, is preserved in the National Library of Russia of St. Petersburg]]
 
 Early history
 
@@ -39,7 +39,7 @@ However, mendicant friars travelled frequently and needed a shortened, or abbrev
 
 Early printed editions
 
-Aberdeen_Breviary,_Opening_Page.jpg Before the advent of printing, breviaries were written by hand and were often richly decorated with initials and miniature illustrations telling stories in the lives of Christ or the saints, or stories from the Bible. Later printed breviaries usually have woodcut illustrations, interesting in their own right but the poor relation of the beautifully illuminated breviaries.
+Before the advent of printing, breviaries were written by hand and were often richly decorated with initials and miniature illustrations telling stories in the lives of Christ or the saints, or stories from the Bible. Later printed breviaries usually have woodcut illustrations, interesting in their own right but the poor relation of the beautifully illuminated breviaries.
 
 The beauty and value of many of the Latin Breviaries were brought to the notice of English churchmen by one of the numbers of the Oxford _Tracts for the Times_, since which time they have been much more studied, both for their own sake and for the light they throw upon the English Prayer-Book.
 

@@ -1,5 +1,3 @@
-Venn_0111_1111.svg
-
 In logic and mathematics, OR is the truth-functional operator of (INCLUSIVE) DISJUNCTION, also known as ALTERNATION; the _or_ of a set of operands is true if and only if _one or more_ of its operands is true. The logical connective that represents this operator is typically written as ∨ or +.
 
 A ∨ B is true if A is true, or if B is true, or if both A and B are true.
@@ -76,7 +74,7 @@ The corresponding operation in set theory is the set-theoretic union.
 
 Applications in computer science
 
-Or-gate-en.svg]] Operators corresponding to logical disjunction exist in most programming languages.
+]] Operators corresponding to logical disjunction exist in most programming languages.
 
 Bitwise operation
 

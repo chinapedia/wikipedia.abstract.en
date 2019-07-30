@@ -1,4 +1,4 @@
-Metallurgical_diffusion.svg in Europe and Asia Minor – the darkest areas are the oldest.]] The BRONZE AGE is a historical period characterized by the use of bronze, and in some areas proto-writing, and other early features of urban civilization. The Bronze Age is the second principal period of the three-age Stone-Bronze-Iron system, as proposed in modern times by Christian Jürgensen Thomsen, for classifying and studying ancient societies.
+in Europe and Asia Minor – the darkest areas are the oldest.]] The BRONZE AGE is a historical period characterized by the use of bronze, and in some areas proto-writing, and other early features of urban civilization. The Bronze Age is the second principal period of the three-age Stone-Bronze-Iron system, as proposed in modern times by Christian Jürgensen Thomsen, for classifying and studying ancient societies.
 
 An ancient civilization is defined to be in the Bronze Age either by producing bronze by smelting its own copper and alloying with tin, arsenic, or other metals, or by trading for bronze from production areas elsewhere. Bronze itself is harder and more durable than other metals available at the time, allowing Bronze Age civilizations to gain a technological advantage.
 
@@ -131,7 +131,7 @@ Egypt
 
 Early Bronze dynasties
 
-Caryatid_Mirror,_about_1540-1296_BC,_New_Kingdom,_Dynasty_18,_bronze_perhaps_with_black_copper_inlay_-_Cleveland_Museum_of_Art_-_DSC08779.JPG with a female human figure at the base, Eighteenth dynasty of Egypt (1540–1296 BC)]] Thutmose_III_sphinx_E10897-Louvre_042005_06.jpg 1479–1425 BC]]
+with a female human figure at the base, Eighteenth dynasty of Egypt (1540–1296 BC)]] 1479–1425 BC]]
 
 In Ancient Egypt the Bronze Age begins in the Protodynastic period, BC. The archaic _early Bronze Age of Egypt_, known as the Early Dynastic Period of Egypt,[11][12] immediately follows the unification of Lower and Upper Egypt, . It is generally taken to include the First and Second Dynasties, lasting from the Protodynastic Period of Egypt until about 2686 BC, or the beginning of the Old Kingdom. With the First Dynasty, the capital moved from Abydos to Memphis with a unified Egypt ruled by an Egyptian god-king. Abydos remained the major holy land in the south. The hallmarks of ancient Egyptian civilization, such as art, architecture and many aspects of religion, took shape during the Early Dynastic period. Memphis in the Early Bronze Age was the largest city of the time. The Old Kingdom of the regional Bronze Age[13] is the name given to the period in the 3rd millennium BC when Egypt attained its first continuous peak of civilization in complexity and achievement – the first of three "Kingdom" periods, which mark the high points of civilization in the lower Nile Valley (the others being Middle Kingdom and the New Kingdom).
 
@@ -149,15 +149,15 @@ The New Kingdom of Egypt, also referred to as the Egyptian Empire, lasted from t
 
 Iranian Plateau
 
-Elam_cool.jpg, with linear-Elamite inscription.]] Elam was a _pre-Iranic_ ancient civilization located to the east of Mesopotamia. In the Old Elamite period (Middle Bronze Age), Elam consisted of kingdoms on the Iranian Plateau, centered in Anshan, and from the mid-2nd millennium BC, it was centered in Susa in the Khuzestan lowlands. Its culture played a crucial role in the Gutian Empire and especially during the Iranic Achaemenid dynasty that succeeded it.
+, with linear-Elamite inscription.]] Elam was a _pre-Iranic_ ancient civilization located to the east of Mesopotamia. In the Old Elamite period (Middle Bronze Age), Elam consisted of kingdoms on the Iranian Plateau, centered in Anshan, and from the mid-2nd millennium BC, it was centered in Susa in the Khuzestan lowlands. Its culture played a crucial role in the Gutian Empire and especially during the Iranic Achaemenid dynasty that succeeded it.
 
 The Oxus civilization[17] was a Bronze Age Central Asian culture dated to and centered on the upper Amu Darya (Oxus). In the Early Bronze Age the culture of the Kopet Dag oases and Altyndepe developed a proto-urban society. This corresponds to level IV at Namazga-Tepe. Altyndepe was a major centre even then. Pottery was wheel-turned. Grapes were grown. The height of this urban development was reached in the Middle Bronze Age , corresponding to level V at Namazga-Depe.[18] This Bronze Age culture is called the Bactria–Margiana Archaeological Complex (BMAC).
 
-The Kulli culture,[19][20] similar to those of the Indus Valley Civilisation, was located in southern Balochistan (Gedrosia) . Agriculture was the economical base of this people. At several places dams were found, providing evidence for a highly developed water management system. Chlorite_object_Jiroft,_Kerman_ca._2500_BCE,_Bronze_Age_I,_National_Museum_of_Iran.jpg in chlorite, Jiroft culture, c. 2500 BC, Bronze Age I, National Museum of Iran]] Konar Sandal is associated with the hypothesized "Jiroft culture", a 3rd-millennium-BC culture postulated on the basis of a collection of artifacts confiscated in 2001.
+The Kulli culture,[19][20] similar to those of the Indus Valley Civilisation, was located in southern Balochistan (Gedrosia) . Agriculture was the economical base of this people. At several places dams were found, providing evidence for a highly developed water management system. in chlorite, Jiroft culture, c. 2500 BC, Bronze Age I, National Museum of Iran]] Konar Sandal is associated with the hypothesized "Jiroft culture", a 3rd-millennium-BC culture postulated on the basis of a collection of artifacts confiscated in 2001.
 
 Levant
 
-TimnaChalcolithicMine.JPG, Negev Desert, Israel]]
+, Negev Desert, Israel]]
 
 In modern scholarship the chronology of the Bronze Age Levant is divided into Early/Proto Syrian; corresponding to the Early Bronze. Old Syrian; corresponding to the Middle Bronze. Middle Syrian; corresponding to the Late Bronze. The term Neo-Syria is used to designate the early Iron Age.[21]
 
@@ -195,7 +195,7 @@ East Asia
 
 China
 
-Gefuding_Gui.jpg two-handled bronze _gefuding gui_ (1600–1046 BC)]] Pu_with_openwork_interlaced_dragons_design.jpg _pu_ bronze vessel with interlaced dragon design]]
+two-handled bronze _gefuding gui_ (1600–1046 BC)]] _pu_ bronze vessel with interlaced dragon design]]
 
 In China, the earliest bronze artifacts have been found in the Majiayao culture site (between 3100 and 2700 BC).[37][38]
 
@@ -261,7 +261,7 @@ PlotData =
 
 Indus Valley
 
-Dancing_Girl_of_Mohenjo-daro.jpg of Mohenjo-daro, c. 2500 BC (replica).]] The Bronze Age on the Indian subcontinent began around 3300 BC with the beginning of the Indus Valley civilization. Inhabitants of the Indus Valley, the Harappans, developed new techniques in metallurgy and produced copper, bronze, lead and tin. The Late Harappan culture, which dates from 1900–1400 BC, overlapped the transition from the Bronze Age to the Iron Age; thus it is difficult to date this transition accurately. It has been claimed that a 6,000 year old copper amulet manufactured in Mehrgarh in the shape of wheel spoke is the earliest example of lost wax casting in the world.[59][60]
+of Mohenjo-daro, c. 2500 BC (replica).]] The Bronze Age on the Indian subcontinent began around 3300 BC with the beginning of the Indus Valley civilization. Inhabitants of the Indus Valley, the Harappans, developed new techniques in metallurgy and produced copper, bronze, lead and tin. The Late Harappan culture, which dates from 1900–1400 BC, overlapped the transition from the Bronze Age to the Iron Age; thus it is difficult to date this transition accurately. It has been claimed that a 6,000 year old copper amulet manufactured in Mehrgarh in the shape of wheel spoke is the earliest example of lost wax casting in the world.[59][60]
 
 Southeast Asia
 
@@ -328,7 +328,7 @@ A study in the journal Antiquity published in 2013 reported the discovery of a t
 
 Aegean
 
-MaskOfAgamemnon.jpg The Aegean Bronze Age began around 3200 BC, when civilizations first established a far-ranging trade network. This network imported tin and charcoal to Cyprus, where copper was mined and alloyed with the tin to produce bronze. Bronze objects were then exported far and wide, and supported the trade. Isotopic analysis of tin in some Mediterranean bronze artifacts suggests that they may have originated from Great Britain.[72]
+The Aegean Bronze Age began around 3200 BC, when civilizations first established a far-ranging trade network. This network imported tin and charcoal to Cyprus, where copper was mined and alloyed with the tin to produce bronze. Bronze objects were then exported far and wide, and supported the trade. Isotopic analysis of tin in some Mediterranean bronze artifacts suggests that they may have originated from Great Britain.[72]
 
 Knowledge of navigation was well developed at this time, and reached a peak of skill not exceeded (except perhaps by Polynesian sailors) until 1730 when the invention of the chronometer enabled the precise determination of longitude.
 
@@ -336,7 +336,7 @@ The Minoan civilization based in Knossos on the island of Crete appears to have 
 
 Aegean Collapse
 
-Bronze_Age_End.svg Bronze Age collapse theories have described aspects of the end of the Age in this region. At the end of the Bronze Age in the Aegean region, the Mycenaean administration of the regional trade empire followed the decline of Minoan primacy.[74] Several Minoan client states lost much of their population to famine and/or pestilence. This would indicate that the trade network may have failed, preventing the trade that would previously have relieved such famines and prevented illness caused by malnutrition. It is also known that in this era the breadbasket of the Minoan empire, the area north of the Black Sea, also suddenly lost much of its population, and thus probably some capacity to cultivate crops.Drought and famine in Anatolia may have also led to the Aegean Collapse by disrupting trade networks, and therefore preventing the Aegean from accessing bronze and luxury goods.[75]
+Bronze Age collapse theories have described aspects of the end of the Age in this region. At the end of the Bronze Age in the Aegean region, the Mycenaean administration of the regional trade empire followed the decline of Minoan primacy.[74] Several Minoan client states lost much of their population to famine and/or pestilence. This would indicate that the trade network may have failed, preventing the trade that would previously have relieved such famines and prevented illness caused by malnutrition. It is also known that in this era the breadbasket of the Minoan empire, the area north of the Black Sea, also suddenly lost much of its population, and thus probably some capacity to cultivate crops.Drought and famine in Anatolia may have also led to the Aegean Collapse by disrupting trade networks, and therefore preventing the Aegean from accessing bronze and luxury goods.[75]
 
 The Aegean Collapse has been attributed to the exhaustion of the Cypriot forests causing the end of the bronze trade.[76][77][78] These forests are known to have existed into later times, and experiments have shown that charcoal production on the scale necessary for the bronze production of the late Bronze Age would have exhausted them in less than fifty years.
 
@@ -348,7 +348,7 @@ Archaeological findings, including some on the island of Thera, suggest that the
 
 Central Europe
 
-Nebra_Scheibe.jpg Cuirasses_Marmesse.JPG] Bronzetto_nuragico_Sulcis.jpg figurine]] Bronze_swords-MGR_Lyon-IMG_9732-1.jpg In Central Europe, the early Bronze Age Unetice culture (1800–1600 BC) includes numerous smaller groups like the Straubing, Adlerberg and Hatvan cultures. Some very rich burials, such as the one located at Leubingen with grave gifts crafted from gold, point to an increase of social stratification already present in the Unetice culture. All in all, cemeteries of this period are rare and of small size. The Unetice culture is followed by the middle Bronze Age (1600–1200 BC) Tumulus culture, which is characterised by inhumation burials in tumuli (barrows). In the eastern Hungarian Körös tributaries, the early Bronze Age first saw the introduction of the Mako culture, followed by the Otomani and Gyulavarsand cultures.
+] figurine]] In Central Europe, the early Bronze Age Unetice culture (1800–1600 BC) includes numerous smaller groups like the Straubing, Adlerberg and Hatvan cultures. Some very rich burials, such as the one located at Leubingen with grave gifts crafted from gold, point to an increase of social stratification already present in the Unetice culture. All in all, cemeteries of this period are rare and of small size. The Unetice culture is followed by the middle Bronze Age (1600–1200 BC) Tumulus culture, which is characterised by inhumation burials in tumuli (barrows). In the eastern Hungarian Körös tributaries, the early Bronze Age first saw the introduction of the Mako culture, followed by the Otomani and Gyulavarsand cultures.
 
 The late Bronze Age Urnfield culture (1300–700 BC) is characterized by cremation burials. It includes the Lusatian culture in eastern Germany and Poland (1300–500 BC) that continues into the Iron Age. The Central European Bronze Age is followed by the Iron Age Hallstatt culture (700–450 BC).
 
@@ -379,8 +379,6 @@ West Europe
 
 Atlantic Bronze Age
 
-Zwaard_van_Jutphaas_(24466600427).jpg Casco_Leiro.jpg
-
 The Atlantic Bronze Age is a cultural complex of the period of approximately 1300–700 BC that includes different cultures in Portugal, Andalusia, Galicia and the British Isles. It is marked by economic and cultural exchange. Commercial contacts extend to Denmark and the Mediterranean. The Atlantic Bronze Age was defined by a number of distinct regional centres of metal production, unified by a regular maritime exchange of some of their products.
 
 Great Britain
@@ -399,7 +397,7 @@ One of the characteristic types of artifact of the Early Bronze Age in Ireland i
 
 North Europe
 
-Solvognen_-_Do_2010_1276.jpg The Bronze Age in Northern Europe spans the entire 2nd millennium BC (Unetice culture, Urnfield culture, Tumulus culture, Terramare culture, Lusatian culture) lasting until BC. The Northern Bronze Age was both a period and a Bronze Age culture in Scandinavian pre-history, –500 BC, with sites that reached as far east as Estonia. Succeeding the Late Neolithic culture, its ethnic and linguistic affinities are unknown in the absence of written sources. It is followed by the Pre-Roman Iron Age.
+The Bronze Age in Northern Europe spans the entire 2nd millennium BC (Unetice culture, Urnfield culture, Tumulus culture, Terramare culture, Lusatian culture) lasting until BC. The Northern Bronze Age was both a period and a Bronze Age culture in Scandinavian pre-history, –500 BC, with sites that reached as far east as Estonia. Succeeding the Late Neolithic culture, its ethnic and linguistic affinities are unknown in the absence of written sources. It is followed by the Pre-Roman Iron Age.
 
 Even though Northern European Bronze Age cultures were relatively late, and came into existence via trade, sites present rich and well-preserved objects made of wool, wood and imported Central European bronze and gold. Many rock carvings depict ships, and the large stone burial monuments known as stone ships suggest that shipping played an important role. Thousands of rock carvings depict ships, most probably representing sewn plank built canoes for warfare, fishing and trade. These may have a history as far back as the neolithic period and continue into the Pre-Roman Iron Age, as shown by the Hjortspring boat. There are many mounds and rock carving sites from the period. Numerous artifacts of bronze and gold are found. No written language existed in the Nordic countries during the Bronze Age. The rock carvings have been dated through comparison with depicted artifacts.
 

@@ -1,4 +1,4 @@
-PiterDeVries-JanUnger.jpg (2000)]]
+(2000)]]
 
 PITER DE VRIES is a fictional character from the _Dune_ universe created by Frank Herbert. He is primarily featured in the 1965 novel _Dune_, but also appears in the _Prelude to Dune_ prequel trilogy (1999–2001) by Brian Herbert and Kevin J. Anderson.
 
@@ -18,7 +18,7 @@ Appearances
 
 _Dune_
 
-Mentat_Piter_DeVries.gif'']] In _Dune_, it is established that De Vries had pioneered a type of toxin called "residual poison" which remains in the body for years and requires an antidote to be administered regularly. One such fatal poison is secretly administered by the Harkonnens to Thufir Hawat, the Mentat of House Atreides, in order to keep Hawat's allegiance as the only provider of the antidote[4] (in the 1984 movie version, it is shown that Hawat has to milk a gruesome captive cat for the antidote every day).
+'']] In _Dune_, it is established that De Vries had pioneered a type of toxin called "residual poison" which remains in the body for years and requires an antidote to be administered regularly. One such fatal poison is secretly administered by the Harkonnens to Thufir Hawat, the Mentat of House Atreides, in order to keep Hawat's allegiance as the only provider of the antidote[4] (in the 1984 movie version, it is shown that Hawat has to milk a gruesome captive cat for the antidote every day).
 
 De Vries is generally regarded as architect of the plan to destroy House Atreides, long-time enemy of the Harkonnens, while restoring the Baron's stewardship over the planet Arrakis. Through torture and psychological manipulation, De Vries breaks the Suk conditioning of Wellington Yueh, personal physician to House Atreides, which renders him incapable of inflicting harm on his patients. Yueh eventually betrays House Atreides. De Vries originally plans to claim Lady Jessica, the concubine of Duke Leto Atreides, as his slave, but he decides to become governor of Arrakis instead. However, Yueh has given the captured Leto a false tooth filled with poison gas. When Leto crushes the tooth, the intended victim Baron Harkonnen escapes, but Leto and De Vries die.[5]
 

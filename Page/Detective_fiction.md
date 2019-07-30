@@ -37,7 +37,7 @@ One notable fact is that a number of Gong An works may have been lost or destroy
 
 Early Western detective fiction
 
-Edgar_Allen_Poe_1898.jpg (1809–1849)]]
+(1809–1849)]]
 
 One of the earliest examples of detective fiction in Western Literature is Voltaire's _Zadig_ (1748), which features a main character who performs feats of analysis.[14] _Things as They Are; or, The Adventures of Caleb Williams_ (1794) by William Godwin portrays the law as protecting the murderer and destroying the innocent.[15] Thomas Skinner Sturr's anonymous _Richmond, or stories in the life of a Bow Street officer_ was published in London in 1827; the Danish crime story _The Rector of Veilbye_ by Steen Steensen Blicher was written in 1829; and the Norwegian crime novel _Mordet paa Maskinbygger Roolfsen_ ("The Murder of Engine Maker Roolfsen") by Maurits Hansen was published in December 1839.
 
@@ -51,9 +51,9 @@ Poe referred to his stories as "tales of ratiocination".[21] In stories such as 
 
 Émile Gaboriau was a pioneer of the detective fiction genre in France. In _Monsieur Lecoq_ (1868), the title character is adept at disguise, a key characteristic of detectives.[23] Gaboriau's writing is also considered to contain the first example of a detective minutely examining a crime scene for clues.[24]
 
-Dickens_by_Watkins_1858.png (1812–1870). Photo from 1858|196x196px]] Another early example of a whodunit is a subplot in the novel _Bleak House_ (1853) by Charles Dickens. The conniving lawyer Tulkinghorn is killed in his office late one night, and the crime is investigated by Inspector Bucket of the Metropolitan police force. Numerous characters appeared on the staircase leading to Tulkinghorn's office that night, some of them in disguise, and Inspector Bucket must penetrate these mysteries to identify the murderer. Dickens also left a novel unfinished at his death, _The Mystery of Edwin Drood_.[25][26]
+(1812–1870). Photo from 1858|196x196px]] Another early example of a whodunit is a subplot in the novel _Bleak House_ (1853) by Charles Dickens. The conniving lawyer Tulkinghorn is killed in his office late one night, and the crime is investigated by Inspector Bucket of the Metropolitan police force. Numerous characters appeared on the staircase leading to Tulkinghorn's office that night, some of them in disguise, and Inspector Bucket must penetrate these mysteries to identify the murderer. Dickens also left a novel unfinished at his death, _The Mystery of Edwin Drood_.[25][26]
 
-Wilkie-Collins.jpg (1824–1889)]] Dickens's protégé, Wilkie Collins (1824–1889)—sometimes referred to as the "grandfather of English detective fiction"—is credited with the first great mystery novel, _The Woman in White_. T. S. Eliot called Collins's novel _The Moonstone_ (1868) "the first, the longest, and the best of modern English detective novels... in a genre invented by Collins and not by Poe",[27] and Dorothy L. Sayers called it "probably the very finest detective story ever written".[28] _The Moonstone_ contains a number of ideas that have established in the genre several classic features of the 20th century detective story:
+(1824–1889)]] Dickens's protégé, Wilkie Collins (1824–1889)—sometimes referred to as the "grandfather of English detective fiction"—is credited with the first great mystery novel, _The Woman in White_. T. S. Eliot called Collins's novel _The Moonstone_ (1868) "the first, the longest, and the best of modern English detective novels... in a genre invented by Collins and not by Poe",[27] and Dorothy L. Sayers called it "probably the very finest detective story ever written".[28] _The Moonstone_ contains a number of ideas that have established in the genre several classic features of the 20th century detective story:
 
 -   English country house robbery
 -   An "inside job"
@@ -67,7 +67,7 @@ Wilkie-Collins.jpg (1824–1889)]] Dickens's protégé, Wilkie Collins (1824–1
 -   A reconstruction of the crime
 -   A final twist in the plot
 
-Conan_doyle.jpg (1859–1930)]] Although _The Moonstone_ is usually seen as the first detective novel, there are other contenders for the honor. A number of critics suggest that the lesser known _Notting Hill Mystery_ (1862–63), written by the pseudonymous "Charles Felix" (later identified as Charles Warren Adams[29][30]), preceded it by a number of years and first used techniques that would come to define the genre.[31][32]
+(1859–1930)]] Although _The Moonstone_ is usually seen as the first detective novel, there are other contenders for the honor. A number of critics suggest that the lesser known _Notting Hill Mystery_ (1862–63), written by the pseudonymous "Charles Felix" (later identified as Charles Warren Adams[29][30]), preceded it by a number of years and first used techniques that would come to define the genre.[31][32]
 
 Literary critics Chris Willis and Kate Watson consider Mary Elizabeth Braddon's first book, the even earlier _The Trail of the Serpent_ (1861), the first British detective novel.[33] The novel "features an unusual and innovative detective figure, Mr. Peters, who is lower class and mute, and who is initially dismissed both by the text and its characters."[34] Braddon's later and better-remembered work, _Aurora Floyd_ (printed in 1863 novel form, but serialized in 1862–63[35]), also features a compelling detective in the person of Detective Grimstone of Scotland Yard.
 
@@ -78,7 +78,7 @@ In 1887, Arthur Conan Doyle created Sherlock Holmes, arguably the most famous of
 
 Golden Age detective novels
 
-Agatha_Christie.png (1890–1976)]] The period between World War I and World War II (the 1920s and 1930s) is generally referred to as the Golden Age of Detective Fiction.[38] During this period, a number of very popular writers emerged, including mostly British but also a notable subset of American and New Zealand writers. Female writers constituted a major portion of notable Golden Age writers. Agatha Christie, Dorothy L. Sayers, Josephine Tey, Margery Allingham, and Ngaio Marsh were particularly famous female writers of this time.[39] Apart from Ngaio Marsh (a New Zealander), they were all British.
+(1890–1976)]] The period between World War I and World War II (the 1920s and 1930s) is generally referred to as the Golden Age of Detective Fiction.[38] During this period, a number of very popular writers emerged, including mostly British but also a notable subset of American and New Zealand writers. Female writers constituted a major portion of notable Golden Age writers. Agatha Christie, Dorothy L. Sayers, Josephine Tey, Margery Allingham, and Ngaio Marsh were particularly famous female writers of this time.[39] Apart from Ngaio Marsh (a New Zealander), they were all British.
 
 Various conventions of the detective genre were standardized during the Golden Age, and in 1929, some of them were codified by writer Ronald Knox in his 'Decalogue' of rules for detective fiction. One of his rules was to avoid supernatural elements so that the focus remained on the mystery itself.[40] Knox has contended that a detective story "must have as its main interest the unravelling of a mystery; a mystery whose elements are clearly presented to the reader at an early stage in the proceedings, and whose nature is such as to arouse curiosity, a curiosity which is gratified at the end."[41] Another common convention in Golden Age detective stories involved an outsider — sometimes a salaried investigator or a police officer, but often a gifted amateur — investigating a murder committed in a closed environment by one of a limited number of suspects.
 

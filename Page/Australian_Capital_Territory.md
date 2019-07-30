@@ -29,7 +29,7 @@ The last expedition in the region prior to settlement was undertaken by Allan Cu
 
 Early settlement
 
-ACT_historic_buildings_map-MJC2.png The first land grant in the region was made to Joshua John Moore in 1823 and European settlement in the area began in 1824 with the construction of a homestead by his stockmen on what is now the Acton Peninsula.[14] Moore formally purchased the site in 1826 and named the property _Canberry_ or _Canberra_.[15]
+The first land grant in the region was made to Joshua John Moore in 1823 and European settlement in the area began in 1824 with the construction of a homestead by his stockmen on what is now the Acton Peninsula.[14] Moore formally purchased the site in 1826 and named the property _Canberry_ or _Canberra_.[15]
 
 A significant influx of population and economic activity occurred around the 1850s goldrushes.[16] The goldrushes prompted the establishment of communication between Sydney and the region by way of the Cobb & Co coaches, which transported mail and passengers.[17] The first post offices opened in Ginninderra in 1859 and at Lanyon in 1860.[18]
 
@@ -39,7 +39,7 @@ During the first 20 years of settlement, there was only limited contact between 
 
 Creation of the territory
 
-Surveyors_camp_Canberra.jpg In 1898, a referendum on a proposed Constitution was held in four of the colonies – New South Wales, Victoria, South Australia and Tasmania. Although the referendum achieved a majority in all four colonies, the New South Wales referendum failed to gain the minimum number of votes needed for the bill to pass. Following this result, a meeting of the four Premiers in 1898 heard from George Reid, the Premier of New South Wales, who argued that locating the future capital in New South Wales would be sufficient to ensure the passage of the Bill. The 1899 referendum on this revised bill was successful and passed with sufficient numbers.[20] Section 125 of the Australian Constitution thus provided that, following Federation in 1901, land would be ceded freely to the new Federal Government.
+In 1898, a referendum on a proposed Constitution was held in four of the colonies – New South Wales, Victoria, South Australia and Tasmania. Although the referendum achieved a majority in all four colonies, the New South Wales referendum failed to gain the minimum number of votes needed for the bill to pass. Following this result, a meeting of the four Premiers in 1898 heard from George Reid, the Premier of New South Wales, who argued that locating the future capital in New South Wales would be sufficient to ensure the passage of the Bill. The 1899 referendum on this revised bill was successful and passed with sufficient numbers.[20] Section 125 of the Australian Constitution thus provided that, following Federation in 1901, land would be ceded freely to the new Federal Government.
 
 This, however, left open the question of where to locate the capital. In 1906 and after significant deliberations, New South Wales agreed to cede sufficient land on the condition that it was in the Yass-Canberra region,[21] this site being closer to Sydney.[22] Initially, Dalgety, New South Wales remained at the forefront, but Yass-Canberra prevailed after voting by federal representatives.[23] The _Seat of Government Act 1908_ was passed in 1908, which repealed the 1904 Act and specified a capital in the Yass-Canberra region.[24][25] Government surveyor Charles Scrivener was deployed to the region in the same year in order to map out a specific site and, after an extensive search, settled upon the present location.
 
@@ -47,7 +47,7 @@ The territory was transferred to the Commonwealth by New South Wales in 1911, tw
 
 Development throughout 20th century
 
-Naming_of_city_of_canberra_capital_hill_1913.jpg is standing, centre, in dark suit. To his right is the Governor-General, Lord Denman, and to his left, Lady Denman.]] In 1911, an international competition to design the future capital was held, which was won by the Chicago architect Walter Burley Griffin in 1912.[26] The official naming of Canberra occurred on 12 March 1913 and construction began immediately.[27]
+is standing, centre, in dark suit. To his right is the Governor-General, Lord Denman, and to his left, Lady Denman.]] In 1911, an international competition to design the future capital was held, which was won by the Chicago architect Walter Burley Griffin in 1912.[26] The official naming of Canberra occurred on 12 March 1913 and construction began immediately.[27]
 
 After Griffin's departure following difficulty in implementing his project,[28] the Federal Capital Advisory Committee was established in 1920 to advise the government of the construction efforts.[29] The Committee had limited success meeting its goals. However, the chairman, John Sulman, was instrumental in applying the ideas of the garden city movement to Griffin's plan. The Committee was replaced in 1925 by the Federal Capital Commission.[30]
 
@@ -70,11 +70,11 @@ In 1992, Labor won eight seats and the minor parties and independents won only t
 
 Geography
 
-ACT-Jervis_Bay-Sydney-MJC.png The Australian Capital Territory is the smallest mainland territory (aside from the Jervis Bay Territory) and covers a total land area of .
+The Australian Capital Territory is the smallest mainland territory (aside from the Jervis Bay Territory) and covers a total land area of .
 
 It is bounded by the Goulburn-Cooma railway line in the east, the watershed of Naas Creek in the south, the watershed of the Cotter River in the west and the watershed of the Molonglo River in the north-east. These boundaries were set to give the ACT an adequate water supply.[41] The ACT extends about North-South between 35.124°S and 35.921°S, and West-East between 148.763°E and 149.399°E.[42] The city area of Canberra occupies the north-eastern corner of this area.
 
-Apart from the city of Canberra, the Australian Capital Territory also contains agricultural land (sheep, dairy cattle, vineyards and small amounts of crops) and a large area of national park (Namadgi National Park), much of it mountainous and forested. Small townships and communities located within the ACT include Williamsdale, Naas, Uriarra, Tharwa and Hall. Swans_on_molonglo_river.jpg, located in the north-east of the region.]] Tidbinbilla is a locality to the south-west of Canberra that features the Tidbinbilla Nature Reserve and the Canberra Deep Space Communication Complex, operated by the United States' National Aeronautics and Space Administration (NASA) as part of its Deep Space Network.
+Apart from the city of Canberra, the Australian Capital Territory also contains agricultural land (sheep, dairy cattle, vineyards and small amounts of crops) and a large area of national park (Namadgi National Park), much of it mountainous and forested. Small townships and communities located within the ACT include Williamsdale, Naas, Uriarra, Tharwa and Hall. , located in the north-east of the region.]] Tidbinbilla is a locality to the south-west of Canberra that features the Tidbinbilla Nature Reserve and the Canberra Deep Space Communication Complex, operated by the United States' National Aeronautics and Space Administration (NASA) as part of its Deep Space Network.
 
 There are a large range of mountains, rivers and creeks throughout the Territory and are largely contained within the Namadgi National Park. These include the Naas and Murrumbidgee Rivers.
 
@@ -107,7 +107,7 @@ The oldest rocks in the ACT date from the Ordovician around 480 million years ag
 
 Government and politics
 
-Canberra_at_night_from_Mount_Ainslie_(2436507066).jpg, located in the northern end of the territory, is an entirely planned city.]] Australian_Capital_Territory_Legislative_Assembly.jpg
+, located in the northern end of the territory, is an entirely planned city.]]
 
 Territory government
 
@@ -142,8 +142,6 @@ Another occasional misconception is that the ACT retains a small area of territo
 
 Demographics
 
-ABS-3101.0-AustralianDemographicStatistics-EstimatedResidentPopulationStatesTerritories-EstimatedResidentPopulation-Persons-AustralianCapitalTerritory-A2060850F.svg
-
 The Australian Bureau of Statistics estimates that the population of the Territory was 419,200 on 31 March 2019.[73] The population is projected to reach to approximately 700,000 by 2058.[74]
 
 The overwhelming majority of the population reside in the city of Canberra.[75]
@@ -154,7 +152,7 @@ The average level of degree qualification in the ACT is higher than the national
 
 City and townships
 
-BikepathCanberra.jpg Inner-canberra_01MJC.png.]]The Australian Capital Territory consists of the city of Canberra and some surrounding townships including Williamsdale, Naas, Uriarra, Tharwa and Hall.
+.]]The Australian Capital Territory consists of the city of Canberra and some surrounding townships including Williamsdale, Naas, Uriarra, Tharwa and Hall.
 
 The urban areas of Canberra are organised into a hierarchy of districts, town centres, group centres, local suburbs as well as other industrial areas and villages. There are seven districts (with an eighth currently under construction), each of which is divided into smaller suburbs, and most of which have a town centre which is the focus of commercial and social activities. The districts were settled in the following chronological order:
 
@@ -205,7 +203,7 @@ Culture
 
 Education
 
-John_Curtin_School_of_Medical_Research_in_Canberra.jpg]] Almost all educational institutions in the Australian Capital Territory are located within Canberra. The ACT public education system schooling is normally split up into Pre-School, Primary School (K-6), High School (7–10) and College (11–12) followed by studies at university or CIT (Canberra Institute of Technology). Many private high schools include years 11 and 12 and are referred to as colleges. Children are required to attend school until they turn 17 under the ACT Government's "Learn or Earn" policy.[86]
+]] Almost all educational institutions in the Australian Capital Territory are located within Canberra. The ACT public education system schooling is normally split up into Pre-School, Primary School (K-6), High School (7–10) and College (11–12) followed by studies at university or CIT (Canberra Institute of Technology). Many private high schools include years 11 and 12 and are referred to as colleges. Children are required to attend school until they turn 17 under the ACT Government's "Learn or Earn" policy.[86]
 
 In February 2004 there were 140 public and non-governmental schools in ACT; 96 were operated by the Government and 44 are non-Government.[87] In 2005, there were 60,275 students in the ACT school system. 59.3% of the students were enrolled in government schools with the remaining 40.7% in non-government schools. There were 30,995 students in primary school, 19,211 in high school, 9,429 in college and a further 340 in special schools.[88]
 
@@ -225,9 +223,9 @@ The Prime Minister's XI (cricket), started by Robert Menzies in the 1950s and re
 
 Arts and entertainment
 
-NatMusAus_Main_Entrance_Strip.jpg established in 2001 records Australia's social history and is one of Canberra's more architecturally daring buildings.]] War_memorial_01.jpg]] The Territory is home to many national monuments and institutions such as the Australian War Memorial, the National Gallery of Australia, the National Portrait Gallery, the National Library,[90] the National Archives,[91] the Australian Academy of Science,[92] the National Film and Sound Archive and the National Museum.[93] Many Commonwealth government buildings in Canberra are open to the public, including Parliament House, the High Court and the Royal Australian Mint.[94][95][96]
+established in 2001 records Australia's social history and is one of Canberra's more architecturally daring buildings.]] ]] The Territory is home to many national monuments and institutions such as the Australian War Memorial, the National Gallery of Australia, the National Portrait Gallery, the National Library,[90] the National Archives,[91] the Australian Academy of Science,[92] the National Film and Sound Archive and the National Museum.[93] Many Commonwealth government buildings in Canberra are open to the public, including Parliament House, the High Court and the Royal Australian Mint.[94][95][96]
 
-Lake Burley Griffin is the site of the Captain James Cook Memorial and the National Carillon.[97] Other sites of interest include the Telstra Tower, the Australian National Botanic Gardens, the National Zoo and Aquarium, the National Dinosaur Museum and Questacon – the National Science and Technology Centre.[98][99] NLA_Canberra-01JAC.JPG.[100]]] The Canberra Museum and Gallery in the city is a repository of local history and art, housing a permanent collection and visiting exhibitions.[101] Several historic homes are open to the public: Lanyon and Tuggeranong Homesteads in the Tuggeranong Valley,[102][103] Mugga-Mugga in Symonston,[104] and Blundells' Cottage in Parkes all display the lifestyle of the early European settlers.[105] Calthorpes' House in Red Hill is a well-preserved example of a 1920s house from Canberra's very early days.[106]
+Lake Burley Griffin is the site of the Captain James Cook Memorial and the National Carillon.[97] Other sites of interest include the Telstra Tower, the Australian National Botanic Gardens, the National Zoo and Aquarium, the National Dinosaur Museum and Questacon – the National Science and Technology Centre.[98][99] .[100]]] The Canberra Museum and Gallery in the city is a repository of local history and art, housing a permanent collection and visiting exhibitions.[101] Several historic homes are open to the public: Lanyon and Tuggeranong Homesteads in the Tuggeranong Valley,[102][103] Mugga-Mugga in Symonston,[104] and Blundells' Cottage in Parkes all display the lifestyle of the early European settlers.[105] Calthorpes' House in Red Hill is a well-preserved example of a 1920s house from Canberra's very early days.[106]
 
 Canberra has many venues for live music and theatre: the Canberra Theatre and Playhouse which hosts many major concerts and productions;[107] and Llewellyn Hall (within the ANU School of Music), a world-class concert hall are two of the most notable.[108] The Albert Hall was Canberra's first performing arts venue, opened in 1928. It was the original performance venue for theatre groups such as the Canberra Repertory Society.[109]
 
@@ -258,13 +256,13 @@ Infrastructure
 
 Health
 
-Canberra_Hospital.jpg.]] The Australian Capital Territory has two large public hospitals both located in Canberra: the approximately 600-bed Canberra Hospital in Garran and the 174-bed Calvary Public Hospital in Bruce. Both are teaching institutions.[112][113][114][115] The largest private hospital is the Calvary John James Hospital in Deakin.[116][117] Calvary Private Hospital in Bruce and Healthscope's National Capital Private Hospital in Garran are also major healthcare providers.[118][119]
+.]] The Australian Capital Territory has two large public hospitals both located in Canberra: the approximately 600-bed Canberra Hospital in Garran and the 174-bed Calvary Public Hospital in Bruce. Both are teaching institutions.[112][113][114][115] The largest private hospital is the Calvary John James Hospital in Deakin.[116][117] Calvary Private Hospital in Bruce and Healthscope's National Capital Private Hospital in Garran are also major healthcare providers.[118][119]
 
 Canberra has 10 aged care facilities. Canberra's hospitals receive emergency cases from throughout southern New South Wales,[120] and ACT Ambulance Service is one of four operational agencies of the ACT Emergency Services Authority.[121] NETS provides a dedicated ambulance service for inter-hospital transport of sick newborns within the ACT and into surrounding New South Wales.[122]
 
 Transport
 
-Tuggeranong_Parkway.jpg.]] New_terminal_building_at_Canberra_Airport_cropped2.jpg Canberra_Railway_Station.jpg BUS877-04.jpg bodied Renault PR100.2]] Ford_FG_Falcon_running_on_LPG,_operated_by_Canberra_Elite_Taxi,_photographed_in_Tuggeranong_Town_Centre_(1).jpg Taxicab]] The automobile is by far the dominant form of transport in Canberra and the Territory.[123] The city is laid out so that arterial roads connecting inhabited clusters run through undeveloped areas of open land or forest, which results in a low population density; this also means that idle land is available for the development of future transport corridors if necessary without the need to build tunnels or acquire developed residential land. In contrast, other capital cities in Australia have substantially less green space.
+.]] bodied Renault PR100.2]] Taxicab]] The automobile is by far the dominant form of transport in Canberra and the Territory.[123] The city is laid out so that arterial roads connecting inhabited clusters run through undeveloped areas of open land or forest, which results in a low population density; this also means that idle land is available for the development of future transport corridors if necessary without the need to build tunnels or acquire developed residential land. In contrast, other capital cities in Australia have substantially less green space.
 
 Canberra's districts are generally connected by parkways—limited access dual carriageway roads[124][125] with speed limits generally set at a maximum of .[126][127] An example is the Tuggeranong Parkway which links Canberra's CBD and Tuggeranong, and bypasses Weston Creek. In most districts, discrete residential suburbs are bounded by main arterial roads with only a few residential linking in, to deter non-local traffic from cutting through areas of housing.
 
@@ -280,7 +278,7 @@ Canberra Airport provides direct domestic services to Sydney, Melbourne, Brisban
 
 Utilities
 
-Mount_Majura_solar_farm_and_Majura_Parkway.jpg has a rated output of 2.3 megawatts and was opened on 6 October 2016.[144]]] The government-owned ACTEW Corporation manages the Territory's water and sewerage infrastructure.[145] ActewAGL is a joint venture between ACTEW and AGL, and is the retail provider of Canberra's utility services including water, natural gas, electricity, and also some telecommunications services via a subsidiary TransACT.[146]
+has a rated output of 2.3 megawatts and was opened on 6 October 2016.[144]]] The government-owned ACTEW Corporation manages the Territory's water and sewerage infrastructure.[145] ActewAGL is a joint venture between ACTEW and AGL, and is the retail provider of Canberra's utility services including water, natural gas, electricity, and also some telecommunications services via a subsidiary TransACT.[146]
 
 Canberra's water is stored in four reservoirs, the Corin, Bendora and Cotter dams on the Cotter River and the Googong Dam on the Queanbeyan River. Although the Googong Dam is located in New South Wales, it is managed by the ACT government.[147] ACTEW Corporation owns Canberra's two wastewater treatment plants, located at Fyshwick and on the lower reaches of the Molonglo River.[148][149]
 
@@ -476,7 +474,7 @@ Australian_Capital_Territory Category:Capital districts and territories Category
 
 [75]
 
-[76] CC-BY_icon.svg This article contains quotations from this source, which is available under the Attribution International license.
+[76]  This article contains quotations from this source, which is available under the Attribution International license.
 
 [77]
 

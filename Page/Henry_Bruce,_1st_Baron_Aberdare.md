@@ -10,7 +10,7 @@ Henry was educated from the age of twelve at the Bishop Gore School, Swansea (Sw
 
 Industrialist and politician, 1852–1868
 
-1stLordAberdare.jpg.]] Bruce was returned unopposed as MP for Merthyr Tydfil in December 1852, following the death of Sir John Guest.[4] He did so with the enthusiastic support of the late member's political allies, notably the iron masters of Dowlais, and he was thereafter regarded by his political opponents, most notably in the Aberdare Valley, as their nominee. Even so, Bruce's parliamentary record demonstrated support for liberal policies, with the exception of the ballot. The electorate in the constituency at this time remained relatively small, excluding the vast majority of the working classes.
+.]] Bruce was returned unopposed as MP for Merthyr Tydfil in December 1852, following the death of Sir John Guest.[4] He did so with the enthusiastic support of the late member's political allies, notably the iron masters of Dowlais, and he was thereafter regarded by his political opponents, most notably in the Aberdare Valley, as their nominee. Even so, Bruce's parliamentary record demonstrated support for liberal policies, with the exception of the ballot. The electorate in the constituency at this time remained relatively small, excluding the vast majority of the working classes.
 
 Significantly, however, Bruce's relationship with the miners of the Aberdare Valley, in particular, deteriorated as a result of the Aberdare Strike of 1857-8. In a speech to a large audience of miners at the Aberdare Market Hall, Bruce sought to strike a conciliatory tone in persuading the miners to return to work. In a second speech, however, he delivered a broadside against the trade union movement generally, referring to the violence engendered elsewhere as a result of strikes and to alleged examples of intimidation and violence in the immediate locality.[5] The strike damaged his reputation and may well have contributed to his eventual election defeat ten years later. In 1855, Bruce was appointed a trustee of the Dowlais Iron Company and played a role in the further development of the iron industry.[6]
 
@@ -24,11 +24,9 @@ At the 1868 General Election, Merthyr Tydfil became a two-member constituency wi
 
 Later political career
 
-HenryAustinBruce.jpg
-
 After losing his seat, Bruce was elected for Renfrewshire on 25 January 1869, he was made Home Secretary by William Ewart Gladstone. His tenure of this office was conspicuous for a reform of the licensing laws, and he was responsible for the Licensing Act 1872, which made the magistrates the licensing authority, increased the penalties for misconduct in public-houses and shortened the number of hours for the sale of drink. In 1873 Bruce relinquished the home secretaryship, at Gladstone's request, to become Lord President of the Council, and was elevated to the peerage as Baron Aberdare, of Duffryn in the County of Glamorgan, on 23 August that year.[9] Being a Gladstonian Liberal, Aberdare had hoped for a much more radical proposal to keep existing licensee holders for a further ten years, and to prevent any new applicants. Its unpopularity pricked his nonconformist's conscience, when like Gladstone himself he had a strong leaning towards Temperance. He had already pursued 'moral improvement' on miners in the regulations attempting to further ban boys from the pits. The Trades Union Act 1871 was another more liberal regime giving further rights to unions, and protection from malicious prosecutions.[10]
 
-Portrait_of_Henry_Austin_Bruce_(4671282).jpg published in _Vanity Fair_ in 1869 with the caption _"He has gained credit by converting himself to the Ballot; he would gain greater credit by converting himself into an ex-secretary of State for the Home Department"_]]
+published in _Vanity Fair_ in 1869 with the caption _"He has gained credit by converting himself to the Ballot; he would gain greater credit by converting himself into an ex-secretary of State for the Home Department"_]]
 
 The defeat of the Liberal government in the following year terminated Lord Aberdare's official political life, and he subsequently devoted himself to social, educational and economic questions. Education became one of Lord Aberdare's main interests in later life. His interest had been shown by the speech on Welsh education which he had made on 5 May 1862. In 1880, he was appointed to chair the Departmental Committee on Intermediate and Higher Education in Wales and Monmouthshire, whose report ultimately led to the Welsh Intermediate Education Act of 1889.[11] The report also stimulated the campaign for the provision of university education in Wales. In 1883, Lord Aberdare was elected the first president of the University College of South Wales and Monmouthshire. In his inaugural address he declared that the framework of Welsh education would not be complete until there was a University of Wales. The University was eventually founded in 1893 and Aberdare became its first chancellor.[12]
 
@@ -39,7 +37,7 @@ In 1882 he began a connection with West Africa which lasted the rest of his life
 
 Family
 
-HENRY_AUSTIN_BRUCE_GRAVE.JPG Henry Bruce married firstly Annabella, daughter of Richard Beadon, of Clifton by Annabella A'Court, sister of 1st Baron Heytesbury, on 6 January 1846. They had one son and three daughters.
+Henry Bruce married firstly Annabella, daughter of Richard Beadon, of Clifton by Annabella A'Court, sister of 1st Baron Heytesbury, on 6 January 1846. They had one son and three daughters.
 
 -   Henry Campbell Bruce, 2nd Baron
 -   Margaret Cecilia married on 16 September 1889, Douglas Close Richmond, CB, MA, son of Rev. Henry Sylvester Richmond MA, rector of Wyck Rissington, Glos.

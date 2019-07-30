@@ -15,7 +15,7 @@ Background and childhood hardship
 
 Charles Spencer Chaplin was born on 16 April 1889 to Hannah Chaplin (born Hannah Harriet Pedlingham Hill) and Charles Chaplin Sr. There is no official record of his birth, although Chaplin believed he was born at East Street, Walworth, in South London. His mother and father had married four years previously, at which time Charles Sr. became the legal guardian of Hannah's illegitimate son, Sydney John Hill. At the time of his birth, Chaplin's parents were both music hall entertainers. Hannah, the daughter of a shoemaker, had a brief and unsuccessful career under the stage name Lily Harley, while Charles Sr., a butcher's son, was a popular singer. Although they never divorced, Chaplin's parents were estranged by around 1891. The following year, Hannah gave birth to a third son – George Wheeler Dryden – fathered by the music hall entertainer Leo Dryden. The child was taken by Dryden at six months old, and did not re-enter Chaplin's life for 30 years.
 
-Chaplin_at_Hanwell.jpg for paupers, 1897]]
+for paupers, 1897]]
 
 Chaplin's childhood was fraught with poverty and hardship, making his eventual trajectory "the most dramatic of all the rags to riches stories ever told" according to his authorised biographer David Robinson. Chaplin's early years were spent with his mother and brother Sydney in the London district of Kennington; Hannah had no means of income, other than occasional nursing and dressmaking, and Chaplin Sr. provided no financial support. As the situation deteriorated, Chaplin was sent to Lambeth Workhouse when he was seven years old. The council housed him at the Central London District School for paupers, which Chaplin remembered as "a forlorn existence". He was briefly reunited with his mother 18 months later, before Hannah was forced to readmit her family to the workhouse in July 1898. The boys were promptly sent to Norwood Schools, another institution for destitute children.
 
@@ -25,7 +25,7 @@ Hannah entered a period of remission but, in May 1903, became ill again. Chaplin
 
 Young performer
 
-Chaplin_in_Sherlock_Holmes.jpg'', in which he appeared between 1903 and 1906]]
+'', in which he appeared between 1903 and 1906]]
 
 Between his time in the poor schools and his mother succumbing to mental illness, Chaplin began to perform on stage. He later recalled making his first amateur appearance at the age of five years, when he took over from Hannah one night in Aldershot. This was an isolated occurrence, but by the time he was nine Chaplin had, with his mother's encouragement, grown interested in performing. He later wrote: "[she] imbued me with the feeling that I had some sort of talent". Through his father's connections, Chaplin became a member of the Eight Lancashire Lads clog-dancing troupe, with whom he toured English music halls throughout 1899 and 1900. Chaplin worked hard, and the act was popular with audiences, but he was not satisfied with dancing and wished to form a comedy act.
 
@@ -37,7 +37,7 @@ Stage comedy and vaudeville
 
 Chaplin soon found work with a new company, and went on tour with his brother – who was also pursuing an acting career – in a comedy sketch called _Repairs_. In May 1906, Chaplin joined the juvenile act Casey's Circus, where he developed popular burlesque pieces and was soon the star of the show. By the time the act finished touring in July 1907, the 18-year-old had become an accomplished comedic performer. He struggled to find more work, however, and a brief attempt at a solo act was a failure.
 
-Chaplin_Karno_advert.jpg comedy company, 1913]]
+comedy company, 1913]]
 
 Meanwhile, Sydney Chaplin had joined Fred Karno's prestigious comedy company in 1906 and, by 1908, he was one of their key performers. In February, he managed to secure a two-week trial for his younger brother. Karno was initially wary, and considered Chaplin a "pale, puny, sullen-looking youngster" who "looked much too shy to do any good in the theatre." However, the teenager made an impact on his first night at the London Coliseum and he was quickly signed to a contract. Chaplin began by playing a series of minor parts, eventually progressing to starring roles in 1909. In April 1910, he was given the lead in a new sketch, _Jimmy the Fearless_. It was a big success, and Chaplin received considerable press attention.
 
@@ -57,7 +57,7 @@ _Caught in the Rain_, issued 4 May 1914, was Chaplin's directorial debut and was
 
 Essanay
 
-Chaplin_and_Purviance_in_Work.jpg, his regular leading lady, in _Work_ (1915)]]
+, his regular leading lady, in _Work_ (1915)]]
 
 The Essanay Film Manufacturing Company of Chicago sent Chaplin an offer of $1,250 a week with a signing bonus of $10,000. He joined the studio in late December 1914, where he began forming a stock company of regular players, actors he worked with again and again, including Leo White, Bud Jamison, Paddy McGuire and Billy Armstrong. He soon recruited a leading lady – Edna Purviance, whom Chaplin met in a cafe and hired on account of her beauty. She went on to appear in 35 films with Chaplin over eight years; the pair also formed a romantic relationship that lasted into 1917.
 
@@ -67,8 +67,6 @@ During 1915, Chaplin became a cultural phenomenon. Shops were stocked with Chapl
 
 Mutual
 
-Charlie_Chaplin_with_doll.jpg
-
 A contract was negotiated with Mutual that amounted to $670,000 a year ($ million today),[3] which Robinson says made Chaplin – at 26 years old – one of the highest paid people in the world. The high salary shocked the public and was widely reported in the press. John R. Freuler, the studio president, explained: "We can afford to pay Mr. Chaplin this large sum annually because the public wants Chaplin and will pay for him."
 
 Mutual gave Chaplin his own Los Angeles studio to work in, which opened in March 1916. He added two key members to his stock company, Albert Austin and Eric Campbell, and produced a series of elaborate two-reelers: _The Floorwalker_, _The Fireman_, _The Vagabond_, _One A.M._, and _The Count_. For _The Pawnshop_, he recruited the actor Henry Bergman, who was to work with Chaplin for 30 years. _Behind the Screen_ and _The Rink_ completed Chaplin's releases for 1916. The Mutual contract stipulated that he release a two-reel film every four weeks, which he had managed to achieve. With the new year, however, Chaplin began to demand more time. He made only four more films for Mutual over the first ten months of 1917: _Easy Street_, _The Cure_, _The Immigrant_, and _The Adventurer_. With their careful construction, these films are considered by Chaplin scholars to be among his finest work.[4] Later in life, Chaplin referred to his Mutual years as the happiest period of his career. However, Chaplin also felt that those films became increasingly formulaic over the period of the contract and he was increasingly dissatisfied with the working conditions encouraging that. [5]
@@ -77,7 +75,7 @@ Chaplin was attacked in the British media for not fighting in the First World Wa
 
 1918–1922: First National
 
-Poster_-_A_Dog's_Life_01.jpg'' (1918). It was around this time that Chaplin began to conceive the Tramp as "a sort of Pierrot", or sad clown.]]
+'' (1918). It was around this time that Chaplin began to conceive the Tramp as "a sort of Pierrot", or sad clown.]]
 
 In January 1918, Chaplin was visited by leading British singer and comedian Harry Lauder, and the two acted in a short film together.[6]
 
@@ -89,7 +87,7 @@ United Artists, Mildred Harris, and _The Kid_
 
 After the release of _Shoulder Arms_, Chaplin requested more money from First National, which was refused. Frustrated with their lack of concern for quality, and worried about rumours of a possible merger between the company and Famous Players-Lasky, Chaplin joined forces with Douglas Fairbanks, Mary Pickford, and D. W. Griffith to form a new distribution company – United Artists, established in January 1919. The arrangement was revolutionary in the film industry, as it enabled the four partners – all creative artists – to personally fund their pictures and have complete control. Chaplin was eager to start with the new company and offered to buy out his contract with First National. They refused and insisted that he complete the final six films owed.
 
-Chaplin_The_Kid_2_crop.jpg'' (1921), with Jackie Coogan, combined comedy with drama and was Chaplin's first film to exceed an hour.]]
+'' (1921), with Jackie Coogan, combined comedy with drama and was Chaplin's first film to exceed an hour.]]
 
 Before the creation of United Artists, Chaplin married for the first time. The 16-year-old actress Mildred Harris had revealed that she was pregnant with his child, and in September 1918, he married her quietly in Los Angeles to avoid controversy. Soon after, the pregnancy was found to be false. Chaplin was unhappy with the union and, feeling that marriage stunted his creativity, struggled over the production of his film _Sunnyside_. Harris was by then legitimately pregnant, and on 7 July 1919, gave birth to a son. Norman Spencer Chaplin was born malformed and died three days later. The marriage ended in April 1920, with Chaplin explaining in his autobiography that they were "irreconcilably mismated".
 
@@ -103,7 +101,7 @@ _A Woman of Paris_ and _The Gold Rush_
 
 Having fulfilled his First National contract, Chaplin was free to make his first picture as an independent producer. In November 1922, he began filming _A Woman of Paris_, a romantic drama about ill-fated lovers. Chaplin intended it to be a star-making vehicle for Edna Purviance, and did not appear in the picture himself other than in a brief, uncredited cameo. He wished the film to have a realistic feel and directed his cast to give restrained performances. In real life, he explained, "men and women try to hide their emotions rather than seek to express them". _A Woman of Paris_ premiered in September 1923 and was acclaimed for its innovative, subtle approach. The public, however, seemed to have little interest in a Chaplin film without Chaplin, and it was a box office disappointment. The filmmaker was hurt by this failure – he had long wanted to produce a dramatic film and was proud of the result – and soon withdrew _A Woman of Paris_ from circulation.
 
-Chaplin_the_gold_rush_boot.jpg'' (1925).]]
+'' (1925).]]
 
 Chaplin returned to comedy for his next project. Setting his standards high, he told himself "This next film must be an epic! The Greatest!" Inspired by a photograph of the 1898 Klondike Gold Rush, and later the story of the Donner Party of 1846–47, he made what Geoffrey Macnab calls "an epic comedy out of grim subject matter." In _The Gold Rush_, the Tramp is a lonely prospector fighting adversity and looking for love. With Georgia Hale as his new leading lady, Chaplin began filming the picture in February 1924. Its elaborate production, costing almost $1 million, included location shooting in the Truckee mountains in Nevada with 600 extras, extravagant sets, and special effects. The last scene was shot May 1925 after 15 months of filming.
 
@@ -111,7 +109,7 @@ Chaplin felt _The Gold Rush_ was the best film he had made. It opened in August 
 
 Lita Grey and _The Circus_
 
-Lita_Grey.jpg, whose bitter divorce from Chaplin caused a scandal]]
+, whose bitter divorce from Chaplin caused a scandal]]
 
 While making _The Gold Rush_, Chaplin married for the second time. Mirroring the circumstances of his first union, Lita Grey was a teenage actress, originally set to star in the film, whose surprise announcement of pregnancy forced Chaplin into marriage. She was 16 and he was 35, meaning Chaplin could have been charged with statutory rape under California law. He therefore arranged a discreet marriage in Mexico on 25 November 1924. Their first son, Charles Spencer Chaplin, Jr., was born on 5 May 1925, followed by Sydney Earl Chaplin on 30 March 1926.
 
@@ -123,7 +121,7 @@ _City Lights_
 
 By the time _The Circus_ was released, Hollywood had witnessed the introduction of sound films. Chaplin was cynical about this new medium and the technical shortcomings it presented, believing that "talkies" lacked the artistry of silent films. He was also hesitant to change the formula that had brought him such success, and feared that giving the Tramp a voice would limit his international appeal. He, therefore, rejected the new Hollywood craze and began work on a new silent film. Chaplin was nonetheless anxious about this decision and remained so throughout the film's production.
 
-Chaplin_City_Lights_still.jpg'' (1931), regarded as one of Chaplin's finest works]]
+'' (1931), regarded as one of Chaplin's finest works]]
 
 When filming began at the end of 1928, Chaplin had been working on the story for almost a year. _City Lights_ followed the Tramp's love for a blind flower girl (played by Virginia Cherrill) and his efforts to raise money for her sight-saving operation. It was a challenging production that lasted 21 months, with Chaplin later confessing that he "had worked himself into a neurotic state of wanting perfection". One advantage Chaplin found in sound technology was the opportunity to record a musical score for the film, which he composed himself.[10]
 
@@ -133,7 +131,7 @@ Travels, Paulette Goddard, and _Modern Times_
 
 _City Lights_ had been a success, but Chaplin was unsure if he could make another picture without dialogue. He remained convinced that sound would not work in his films, but was also "obsessed by a depressing fear of being old-fashioned." In this state of uncertainty, early in 1931, the comedian decided to take a holiday and ended up travelling for 16 months. He spent months travelling Western Europe, including extended stays in France and Switzerland, and spontaneously decided to visit Japan. The day after he arrived in Japan, Prime Minister Inukai Tsuyoshi was assassinated by ultra-nationalists in the May 15 Incident. The group's original plan had been to provoke a war with the United States by assassinating Chaplin at a welcome reception organised by the prime minister, but the plan had been foiled due to delayed public announcement of the event's date.
 
-Modern_Times_poster.jpg'' (1936), described by Jérôme Larcher as a "grim contemplation on the automatization of the individual"]]
+'' (1936), described by Jérôme Larcher as a "grim contemplation on the automatization of the individual"]]
 
 In his autobiography, Chaplin recalled that on his return to Los Angeles, "I was confused and without plan, restless and conscious of an extreme loneliness". He briefly considered retiring and moving to China. Chaplin's loneliness was relieved when he met 21-year-old actress Paulette Goddard in July 1932, and the pair began a relationship. He was not ready to commit to a film, however, and focused on writing a serial about his travels (published in _Woman's Home Companion_). The trip had been a stimulating experience for Chaplin, including meetings with several prominent thinkers, and he became increasingly interested in world affairs. The state of labour in America troubled him, and he feared that capitalism and machinery in the workplace would increase unemployment levels. It was these concerns that stimulated Chaplin to develop his new film.
 
@@ -145,7 +143,7 @@ Following the release of _Modern Times_, Chaplin left with Goddard for a trip to
 
 _The Great Dictator_
 
-The_Great_Dictator_still_cropped.jpg in _The Great Dictator_ (1940)]]
+in _The Great Dictator_ (1940)]]
 
 The 1940s saw Chaplin face a series of controversies, both in his work and in his personal life, which changed his fortunes and severely affected his popularity in the United States. The first of these was his growing boldness in expressing his political beliefs. Deeply disturbed by the surge of militaristic nationalism in 1930s world politics, Chaplin found that he could not keep these issues out of his work. Parallels between himself and Adolf Hitler had been widely noted: the pair were born four days apart, both had risen from poverty to world prominence, and Hitler wore the same toothbrush moustache as Chaplin. It was this physical resemblance that supplied the plot for Chaplin's next film, _The Great Dictator_, which directly satirised Hitler and attacked fascism.
 
@@ -159,7 +157,7 @@ In the mid-1940s, Chaplin was involved in a series of trials that occupied most 
 
 The director of the Federal Bureau of Investigation (FBI), J. Edgar Hoover, who had long been suspicious of Chaplin's political leanings, used the opportunity to generate negative publicity about him. As part of a smear campaign to damage Chaplin's image, the FBI named him in four indictments related to the Barry case. Most serious of these was an alleged violation of the Mann Act, which prohibits the transportation of women across state boundaries for sexual purposes. The historian Otto Friedrich has called this an "absurd prosecution" of an "ancient statute", yet if Chaplin was found guilty, he faced 23 years in jail. Three charges lacked sufficient evidence to proceed to court, but the Mann Act trial began on 21 March 1944.[15] Chaplin was acquitted two weeks later, on 4 April.[16] The case was frequently headline news, with _Newsweek_ calling it the "biggest public relations scandal since the Fatty Arbuckle murder trial in 1921."
 
-Oona_O'Neill_-_1943.jpg, to whom he was married from 1943 until his death. The couple had eight children.]]
+, to whom he was married from 1943 until his death. The couple had eight children.]]
 
 Barry's child, Carol Ann, was born in October 1944, and the paternity suit went to court in February 1945. After two arduous trials, in which the prosecuting lawyer accused him of "moral turpitude", Chaplin was declared to be the father. Evidence from blood tests which indicated otherwise were not admissible, and the judge ordered Chaplin to pay child support until Carol Ann turned 21. Media coverage of the paternity suit was influenced by the FBI, as information was fed to the prominent gossip columnist Hedda Hopper, and Chaplin was portrayed in an overwhelmingly critical light.
 
@@ -167,7 +165,7 @@ The controversy surrounding Chaplin increased when, two weeks after the paternit
 
 _Monsieur Verdoux_ and communist accusations
 
-Monsieur_Verdoux_poster.jpg'' (1947), a dark comedy about a serial killer, marked a significant departure for Chaplin. He was so unpopular at the time of release that it flopped in the United States.]]
+'' (1947), a dark comedy about a serial killer, marked a significant departure for Chaplin. He was so unpopular at the time of release that it flopped in the United States.]]
 
 Chaplin claimed that the Barry trials had "crippled [his] creativeness", and it was some time before he began working again. In April 1946, he finally began filming a project that had been in development since 1942. _Monsieur Verdoux_ was a black comedy, the story of a French bank clerk, Verdoux (Chaplin), who loses his job and begins marrying and murdering wealthy widows to support his family. Chaplin's inspiration for the project came from Orson Welles, who wanted him to star in a film about the French serial killer Henri Désiré Landru. Chaplin decided that the concept would "make a wonderful comedy", and paid Welles $5,000 for the idea.
 
@@ -179,7 +177,7 @@ Chaplin denied being a communist, instead calling himself a "peacemonger", but f
 
 _Limelight_ and banning from the United States
 
-Limelight_promo_crop.jpg'' (1952) was a serious and autobiographical film for Chaplin: his character, Calvero, is an ex music hall star (described in this image as a "Tramp Comedian") forced to deal with his loss of popularity.]]
+'' (1952) was a serious and autobiographical film for Chaplin: his character, Calvero, is an ex music hall star (described in this image as a "Tramp Comedian") forced to deal with his loss of popularity.]]
 
 Although Chaplin remained politically active in the years following the failure of _Monsieur Verdoux_, his next film, about a forgotten vaudeville comedian and a young ballerina in Edwardian London, was devoid of political themes. _Limelight_ was heavily autobiographical, alluding not only to Chaplin's childhood and the lives of his parents, but also to his loss of popularity in the United States. The cast included various members of his family, including his five oldest children and his half-brother, Wheeler Dryden.
 
@@ -195,15 +193,13 @@ Move to Switzerland and _A King in New York_
 
 Chaplin did not attempt to return to the United States after his re-entry permit was revoked, and instead sent his wife to settle his affairs. The couple decided to settle in Switzerland and, in January 1953, the family moved into their permanent home: Manoir de Ban, a estate[17] overlooking Lake Geneva in Corsier-sur-Vevey. Chaplin put his Beverly Hills house and studio up for sale in March, and surrendered his re-entry permit in April. The next year, his wife renounced her US citizenship and became a British citizen. Chaplin severed the last of his professional ties with the United States in 1955, when he sold the remainder of his stock in United Artists, which had been in financial difficulty since the early 1940s.
 
-ManoirdeBan.jpg, Chaplin's home in Corsier-sur-Vevey, Switzerland]]
+, Chaplin's home in Corsier-sur-Vevey, Switzerland]]
 
 Chaplin remained a controversial figure throughout the 1950s, especially after he was awarded the International Peace Prize by the communist-led World Peace Council, and after his meetings with Zhou Enlai and Nikita Khrushchev. He began developing his first European film, _A King in New York_, in 1954. Casting himself as an exiled king who seeks asylum in the United States, Chaplin included several of his recent experiences in the screenplay. His son, Michael, was cast as a boy whose parents are targeted by the FBI, while Chaplin's character faces accusations of communism. The political satire parodied HUAC and attacked elements of 1950s culture – including consumerism, plastic surgery, and wide-screen cinema. In a review, the playwright John Osborne called it Chaplin's "most bitter" and "most openly personal" film. In a 1957 interview, when asked to clarify his political views, Chaplin stated "As for politics, I am an anarchist. I hate government and rules - and fetters ... People must be free."[18]
 
 Chaplin founded a new production company, Attica, and used Shepperton Studios for the shooting. Filming in England proved a difficult experience, as he was used to his own Hollywood studio and familiar crew, and no longer had limitless production time. According to Robinson, this had an effect on the quality of the film. _A King in New York_ was released in September 1957, and received mixed reviews. Chaplin banned American journalists from its Paris première and decided not to release the film in the United States. This severely limited its revenue, although it achieved moderate commercial success in Europe. _A King in New York_ was not shown in America until 1973.
 
 Final works and renewed appreciation
-
-Chaplin_family_1961.jpg
 
 In the last two decades of his career, Chaplin concentrated on re-editing and scoring his old films for re-release, along with securing their ownership and distribution rights. In an interview he granted in 1959, the year of his 70th birthday, Chaplin stated that there was still "room for the Little Man in the atomic age". The first of these re-releases was _The Chaplin Revue_ (1959), which included new versions of _A Dog's Life_, _Shoulder Arms_, and _The Pilgrim_.
 
@@ -213,7 +209,7 @@ Shortly after the publication of his memoirs, Chaplin began work on _A Countess 
 
 Chaplin suffered a series of minor strokes in the late 1960s, which marked the beginning of a slow decline in his health. Despite the setbacks, he was soon writing a new film script, _The Freak_, a story of a winged girl found in South America, which he intended as a starring vehicle for his daughter, Victoria. His fragile health prevented the project from being realised. In the early 1970s, Chaplin concentrated on re-releasing his old films, including _The Kid_ and _The Circus_. In 1971, he was made a Commander of the National Order of the Legion of Honour at the Cannes Film Festival. The following year, he was honoured with a special award by the Venice Film Festival.
 
-Chaplin_oscar.JPG from Jack Lemmon in 1972. It was the first time he had been to the United States in 20 years.]]
+from Jack Lemmon in 1972. It was the first time he had been to the United States in 20 years.]]
 
 In 1972, the Academy of Motion Picture Arts and Sciences offered Chaplin an Honorary Award, which Robinson sees as a sign that America "wanted to make amends". Chaplin was initially hesitant about accepting but decided to return to the US for the first time in 20 years. The visit attracted a large amount of press coverage and, at the Academy Awards gala, he was given a 12-minute standing ovation, the longest in the Academy's history.[19] Visibly emotional, Chaplin accepted his award for "the incalculable effect he has had in making motion pictures the art form of this century".
 
@@ -221,7 +217,7 @@ Although Chaplin still had plans for future film projects, by the mid-1970s he w
 
 Death
 
-Charles_Chaplin_Grave_in_Corsier-sur-Vevey.jpg By October 1977, Chaplin's health had declined to the point that he needed constant care. In the early morning of 25 December 1977, Chaplin died at home after suffering a stroke in his sleep.[23] He was 88 years old. The funeral, on 27 December, was a small and private Anglican ceremony, according to his wishes. Chaplin was interred in the Corsier-sur-Vevey cemetery. Among the film industry's tributes, director René Clair wrote, "He was a monument of the cinema, of all countries and all times ... the most beautiful gift the cinema made to us." Actor Bob Hope declared, "We were lucky to have lived in his time."
+By October 1977, Chaplin's health had declined to the point that he needed constant care. In the early morning of 25 December 1977, Chaplin died at home after suffering a stroke in his sleep.[23] He was 88 years old. The funeral, on 27 December, was a small and private Anglican ceremony, according to his wishes. Chaplin was interred in the Corsier-sur-Vevey cemetery. Among the film industry's tributes, director René Clair wrote, "He was a monument of the cinema, of all countries and all times ... the most beautiful gift the cinema made to us." Actor Bob Hope declared, "We were lucky to have lived in his time."
 
 On 1 March 1978, Chaplin's coffin was dug up and stolen from its grave by two unemployed immigrants, Roman Wardas, from Poland, and Gantcho Ganev, from Bulgaria. The body was held for ransom in an attempt to extort money from Oona Chaplin. The pair were caught in a large police operation in May, and Chaplin's coffin was found buried in a field in the nearby village of Noville. It was re-interred in the Corsier cemetery surrounded by reinforced concrete.[24]
 
@@ -234,7 +230,7 @@ Chaplin believed his first influence to be his mother, who entertained him as a 
 
 Method
 
-Chaplin_Studios_postcard.jpg, where all of Chaplin's films between 1918 and 1952 were produced]]
+, where all of Chaplin's films between 1918 and 1952 were produced]]
 
 Chaplin never spoke more than cursorily about his filmmaking methods, claiming such a thing would be tantamount to a magician spoiling his own illusion. Little was known about his working process throughout his lifetime, but research from film historians – particularly the findings of Kevin Brownlow and David Gill that were presented in the three-part documentary _Unknown Chaplin_ (1983) – has since revealed his unique working method.
 
@@ -248,7 +244,7 @@ Chaplin exercised complete control over his pictures, to the extent that he woul
 
 Style and themes
 
-The_Kid_scenes.ogv'' (1921), demonstrating Chaplin's mixture of slapstick, pathos, and social commentary]]
+'' (1921), demonstrating Chaplin's mixture of slapstick, pathos, and social commentary]]
 
 While Chaplin's comedic style is broadly defined as slapstick, it is considered restrained and intelligent, with the film historian Philip Kemp describing his work as a mix of "deft, balletic physical comedy and thoughtful, situation-based gags". Chaplin diverged from conventional slapstick by slowing the pace and exhausting each scene of its comic potential, with more focus on developing the viewer's relationship to the characters. Unlike conventional slapstick comedies, Robinson states that the comic moments in Chaplin's films centre on the Tramp's attitude to the things happening to him: the humour does not come from the Tramp bumping into a tree, but from his lifting his hat to the tree in apology. Dan Kamin writes that Chaplin's "quirky mannerisms" and "serious demeanour in the midst of slapstick action" are other key aspects of his comedy, while the surreal transformation of objects and the employment of in-camera trickery are also common features.
 
@@ -264,8 +260,6 @@ Regarding the structure of Chaplin's films, the scholar Gerald Mast sees them as
 
 Composing
 
-Charlie_Chaplin_playing_the_cello_1915.jpg
-
 Chaplin developed a passion for music as a child and taught himself to play the piano, violin, and cello. He considered the musical accompaniment of a film to be important, and from _A Woman of Paris_ onwards he took an increasing interest in this area. With the advent of sound technology, Chaplin began using a synchronised orchestral soundtrack – composed by himself – for _City Lights_ (1931). He thereafter composed the scores for all of his films, and from the late 1950s to his death, he scored all of his silent features and some of his short films.
 
 As Chaplin was not a trained musician, he could not read sheet music and needed the help of professional composers, such as David Raksin, Raymond Rasch and Eric James, when creating his scores. Musical directors were employed to oversee the recording process, such as Alfred Newman for _City Lights_. Although some critics have claimed that credit for his film music should be given to the composers who worked with him, Raksin – who worked with Chaplin on _Modern Times_ – stressed Chaplin's creative position and active participation in the composing process. This process, which could take months, would start with Chaplin describing to the composer(s) exactly what he wanted and singing or playing tunes he had improvised on the piano. These tunes were then developed further in a close collaboration among the composer(s) and Chaplin. According to film historian Jeffrey Vance, "although he relied upon associates to arrange varied and complex instrumentation, the musical imperative is his, and not a note in a Chaplin musical score was placed there without his assent."[27]
@@ -275,11 +269,11 @@ Chaplin's compositions produced three popular songs. "Smile", composed originall
 
 Legacy
 
-The_Tramp_Essanay.jpg in 1915, cinema's "most universal icon"]] In 1998, the film critic Andrew Sarris called Chaplin "arguably the single most important artist produced by the cinema, certainly its most extraordinary performer and probably still its most universal icon". He is described by the British Film Institute as "a towering figure in world culture",[31] and was included in _Time_ magazine's list of the "100 Most Important People of the 20th Century" for the "laughter [he brought] to millions" and because he "more or less invented global recognizability and helped turn an industry into an art".[32]
+in 1915, cinema's "most universal icon"]] In 1998, the film critic Andrew Sarris called Chaplin "arguably the single most important artist produced by the cinema, certainly its most extraordinary performer and probably still its most universal icon". He is described by the British Film Institute as "a towering figure in world culture",[31] and was included in _Time_ magazine's list of the "100 Most Important People of the 20th Century" for the "laughter [he brought] to millions" and because he "more or less invented global recognizability and helped turn an industry into an art".[32]
 
 The image of the Tramp has become a part of cultural history; according to Simon Louvish, the character is recognisable to people who have never seen a Chaplin film, and in places where his films are never shown. The critic Leonard Maltin has written of the "unique" and "indelible" nature of the Tramp, and argued that no other comedian matched his "worldwide impact".[33] Praising the character, Richard Schickel suggests that Chaplin's films with the Tramp contain the most "eloquent, richly comedic expressions of the human spirit" in movie history. Memorabilia connected to the character still fetches large sums in auctions: in 2006 a bowler hat and a bamboo cane that were part of the Tramp's costume were bought for $140,000 in a Los Angeles auction.[34]
 
-As a filmmaker, Chaplin is considered a pioneer and one of the most influential figures of the early twentieth century. He is often credited as one of the medium's first artists. Film historian Mark Cousins has written that Chaplin "changed not only the imagery of cinema, but also its sociology and grammar" and claims that Chaplin was as important to the development of comedy as a genre as D.W. Griffith was to drama. He was the first to popularise feature-length comedy and to slow down the pace of action, adding pathos and subtlety to it.[35] Although his work is mostly classified as slapstick, Chaplin's drama _A Woman of Paris_ (1923) was a major influence on Ernst Lubitsch's film _The Marriage Circle_ (1924) and thus played a part in the development of "sophisticated comedy". According to David Robinson, Chaplin's innovations were "rapidly assimilated to become part of the common practice of film craft." Filmmakers who cited Chaplin as an influence include Federico Fellini (who called Chaplin "a sort of Adam, from whom we are all descended"), Jacques Tati ("Without him I would never have made a film"), René Clair ("He inspired practically every filmmaker"), Michael Powell, Billy Wilder,[36] Vittorio De Sica, and Richard Attenborough.[37] Russian filmmaker Andrei Tarkovsky praised Chaplin as "the only person to have gone down into cinematic history without any shadow of a doubt. The films he left behind can never grow old."[38] Hombre_disfrazado_de_Charlot_delante_del_Gran_Casino_de_San_Sebastián_(1_de_2)_-_Fondo_Car-Kutxa_Fototeka.jpg, Spain in 1919]] Chaplin also strongly influenced the work of later comedians. Marcel Marceau said he was inspired to become a mime artist after watching Chaplin,[39] while the actor Raj Kapoor based his screen persona on the Tramp.[40] Mark Cousins has also detected Chaplin's comedic style in the French character Monsieur Hulot and the Italian character Totò.[41] In other fields, Chaplin helped inspire the cartoon characters Felix the Cat and Mickey Mouse, and was an influence on the Dada art movement. As one of the founding members of United Artists, Chaplin also had a role in the development of the film industry. Gerald Mast has written that although UA never became a major company like MGM or Paramount Pictures, the idea that directors could produce their own films was "years ahead of its time".
+As a filmmaker, Chaplin is considered a pioneer and one of the most influential figures of the early twentieth century. He is often credited as one of the medium's first artists. Film historian Mark Cousins has written that Chaplin "changed not only the imagery of cinema, but also its sociology and grammar" and claims that Chaplin was as important to the development of comedy as a genre as D.W. Griffith was to drama. He was the first to popularise feature-length comedy and to slow down the pace of action, adding pathos and subtlety to it.[35] Although his work is mostly classified as slapstick, Chaplin's drama _A Woman of Paris_ (1923) was a major influence on Ernst Lubitsch's film _The Marriage Circle_ (1924) and thus played a part in the development of "sophisticated comedy". According to David Robinson, Chaplin's innovations were "rapidly assimilated to become part of the common practice of film craft." Filmmakers who cited Chaplin as an influence include Federico Fellini (who called Chaplin "a sort of Adam, from whom we are all descended"), Jacques Tati ("Without him I would never have made a film"), René Clair ("He inspired practically every filmmaker"), Michael Powell, Billy Wilder,[36] Vittorio De Sica, and Richard Attenborough.[37] Russian filmmaker Andrei Tarkovsky praised Chaplin as "the only person to have gone down into cinematic history without any shadow of a doubt. The films he left behind can never grow old."[38] , Spain in 1919]] Chaplin also strongly influenced the work of later comedians. Marcel Marceau said he was inspired to become a mime artist after watching Chaplin,[39] while the actor Raj Kapoor based his screen persona on the Tramp.[40] Mark Cousins has also detected Chaplin's comedic style in the French character Monsieur Hulot and the Italian character Totò.[41] In other fields, Chaplin helped inspire the cartoon characters Felix the Cat and Mickey Mouse, and was an influence on the Dada art movement. As one of the founding members of United Artists, Chaplin also had a role in the development of the film industry. Gerald Mast has written that although UA never became a major company like MGM or Paramount Pictures, the idea that directors could produce their own films was "years ahead of its time".
 
 In the 21st century, several of Chaplin's films are still regarded as classics and among the greatest ever made. The 2012 _Sight & Sound_ poll, which compiles "top ten" ballots from film critics and directors to determine each group's most acclaimed films, saw _City Lights_ rank among the critics' top 50, _Modern Times_ inside the top 100, and _The Great Dictator_ and _The Gold Rush_ placed in the top 250.[42] The top 100 films as voted on by directors included _Modern Times_ at number 22, _City Lights_ at number 30, and _The Gold Rush_ at number 91.[43] Every one of Chaplin's features received a vote.[44] In 2007, the American Film Institute named _City Lights_ the 11th greatest American film of all time, while _The Gold Rush_ and _Modern Times_ again ranked in the top 100.[45] Books about Chaplin continue to be published regularly, and he is a popular subject for media scholars and film archivists. Many of Chaplin's film have had a DVD and Blu-Ray release.[46]
 
@@ -287,7 +281,7 @@ Commemoration and tributes
 
 Chaplin's final home, Manoir de Ban in Corsier-sur-Vevey, Switzerland, has been converted into a museum named "Chaplin's World". It opened on 17 April 2016 after 15 years of development, and is described by Reuters as "an interactive museum showcasing the life and works of Charlie Chaplin".[47] On the 128th anniversary of his birth, a record-setting 662 people dressed as the Tramp in an event organised by the museum.[48] Previously, the Museum of the Moving Image in London held a permanent display on Chaplin, and hosted a dedicated exhibition to his life and career in 1988. The London Film Museum hosted an exhibition called _Charlie Chaplin – The Great Londoner_, from 2010 until 2013.[49]
 
-Chaplin_Bradbury_lobby.jpg, Los Angeles]] In London, a statue of Chaplin as the Tramp, sculpted by John Doubleday and unveiled in 1981, is located in Leicester Square. The city also includes a road named after him in central London, "Charlie Chaplin Walk", which is the location of the BFI IMAX.[50] There are nine blue plaques memorialising Chaplin in London, Hampshire, and Yorkshire.[51] The Swiss town of Vevey named a park in his honour in 1980 and erected a statue there in 1982. In 2011, two large murals depicting Chaplin on two 14-storey buildings were also unveiled in Vevey.[52] Chaplin has also been honoured by the Irish town of Waterville, where he spent several summers with his family in the 1960s. A statue was erected in 1998;[53] since 2011, the town has been host to the annual Charlie Chaplin Comedy Film Festival, which was founded to celebrate Chaplin's legacy and to showcase new comic talent.[54]
+, Los Angeles]] In London, a statue of Chaplin as the Tramp, sculpted by John Doubleday and unveiled in 1981, is located in Leicester Square. The city also includes a road named after him in central London, "Charlie Chaplin Walk", which is the location of the BFI IMAX.[50] There are nine blue plaques memorialising Chaplin in London, Hampshire, and Yorkshire.[51] The Swiss town of Vevey named a park in his honour in 1980 and erected a statue there in 1982. In 2011, two large murals depicting Chaplin on two 14-storey buildings were also unveiled in Vevey.[52] Chaplin has also been honoured by the Irish town of Waterville, where he spent several summers with his family in the 1960s. A statue was erected in 1998;[53] since 2011, the town has been host to the annual Charlie Chaplin Comedy Film Festival, which was founded to celebrate Chaplin's legacy and to showcase new comic talent.[54]
 
 In other tributes, a minor planet, 3623 Chaplin – discovered by Soviet astronomer Lyudmila Karachkina in 1981 – is named after Chaplin. Throughout the 1980s, the Tramp image was used by IBM to advertise their personal computers. Chaplin's 100th birthday anniversary in 1989 was marked with several events around the world, and on 15 April 2011, a day before his 122nd birthday, Google celebrated him with a special Google Doodle video on its global and other country-wide homepages.[55] Many countries, spanning six continents, have honoured Chaplin with a postal stamp.[56]
 
@@ -304,7 +298,7 @@ Chaplin has also been characterised in literary fiction. He is the protagonist o
 
 Awards and recognition
 
-Charlie_Chaplin_walk_of_fame.jpg, located at 6755 Hollywood Boulevard. Although the project started in 1958, Chaplin only received his star in 1970 because of his political views.]]
+, located at 6755 Hollywood Boulevard. Although the project started in 1958, Chaplin only received his star in 1970 because of his political views.]]
 
 Chaplin received many awards and honours, especially later in life. In the 1975 New Year Honours, he was appointed a Knight Commander of the Most Excellent Order of the British Empire (KBE).[72] He was also awarded honorary Doctor of Letters degrees by the University of Oxford and the University of Durham in 1962. In 1965, he and Ingmar Bergman were joint winners of the Erasmus Prize and, in 1971, he was appointed a Commander of the National Order of the Legion of Honour by the French government.[73]
 

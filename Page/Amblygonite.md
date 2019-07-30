@@ -10,7 +10,7 @@ Gemology
 
 Transparent amblygonite has been faceted and used as a gemstone. As a gemstone set into jewelry it is vulnerable to breakage and abrasion from general wear, as its hardness and toughness are poor.[2] The main sources for gem material are Brazil and the United States. Australia, France, Germany, Namibia, Norway, and Spain have also produced gem quality amblygonite.[3]
 
-Amblygonite_-_Taquaral,_Itinga,_Minas_Gerais,_Brazil.jpg, Minas Gerais, Brazil. Scale at bottom is one inch, with a rule at one cm.]]
+, Minas Gerais, Brazil. Scale at bottom is one inch, with a rule at one cm.]]
 
 
 References

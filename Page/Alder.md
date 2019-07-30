@@ -1,5 +1,3 @@
-Alder_trees_by_the_Beaulieu_River_at_Longwater_Lawn.jpg
-
 ALDER is the common name of a genus of flowering plants (_ALNUS_) belonging to the birch family Betulaceae. The genus comprises about 35[1] species of monoecious trees and shrubs, a few reaching a large size, distributed throughout the north temperate zone with a few species extending into Central America, as well as the northern and southern Andes.[2]
 
 
@@ -27,7 +25,7 @@ Nitrogen fixation
 
 Alder is particularly noted for its important symbiotic relationship with _Frankia alni_, an actinomycete, filamentous, nitrogen-fixing bacterium. This bacterium is found in root nodules, which may be as large as a human fist, with many small lobes, and light brown in colour. The bacterium absorbs nitrogen from the air and makes it available to the tree. Alder, in turn, provides the bacterium with sugars, which it produces through photosynthesis. As a result of this mutually beneficial relationship, alder improves the fertility of the soil where it grows, and as a pioneer species, it helps provide additional nitrogen for the successional species which follow.
 
-Alnus_rubra_seeds.jpg like those of all alders]] Because of its abundance, red alder delivers large amounts of nitrogen to enrich forest soils. Red alder stands have been found to supply between 120 and 290 pounds of nitrogen per acre (130 to 320 kg per ha) annually to the soil. From Alaska to Oregon, _Alnus viridis_ subsp. _sinuata_ (_A. sinuata_, Sitka Alder or Slide Alder), characteristically pioneer fresh, gravelly sites at the foot of retreating glaciers. Studies show that Sitka alder, a more shrubby variety of alder, adds nitrogen to the soil at an average of 55 pounds per acre (60 per ha) per year, helping convert the sterile glacial terrain to soil capable of supporting a conifer forest. Alders are common among the first species to colonize disturbed areas from floods, windstorms, fires, landslides, etc. Alder groves themselves often serve as natural firebreaks since these broad-leaved trees are much less flammable than conifers. Their foliage and leaf litter does not carry a fire well, and their thin bark is sufficiently resistant to protect them from light surface fires. In addition, the light weight of alder seeds (650,000 per pound, or 1.5 million per kg) allows for easy dispersal by the wind. Although it outgrows coastal Douglas-fir for the first 25 years, it is very shade intolerant and seldom lives more than 100 years. Red alder is the Pacific Northwest's largest alder and the most plentiful and commercially important broad-leaved tree in the coastal Northwest. Groves of red alder 10 to 20 inches (25 to 50 cm) in diameter intermingle with young Douglas-fir forests west of the Cascades, attaining a maximum height of 100 to 110 feet (30 to 33 m) in about sixty years and then lose vigor as heart rot sets in. Alders largely help create conditions favorable for giant conifers that replace them.[7]
+like those of all alders]] Because of its abundance, red alder delivers large amounts of nitrogen to enrich forest soils. Red alder stands have been found to supply between 120 and 290 pounds of nitrogen per acre (130 to 320 kg per ha) annually to the soil. From Alaska to Oregon, _Alnus viridis_ subsp. _sinuata_ (_A. sinuata_, Sitka Alder or Slide Alder), characteristically pioneer fresh, gravelly sites at the foot of retreating glaciers. Studies show that Sitka alder, a more shrubby variety of alder, adds nitrogen to the soil at an average of 55 pounds per acre (60 per ha) per year, helping convert the sterile glacial terrain to soil capable of supporting a conifer forest. Alders are common among the first species to colonize disturbed areas from floods, windstorms, fires, landslides, etc. Alder groves themselves often serve as natural firebreaks since these broad-leaved trees are much less flammable than conifers. Their foliage and leaf litter does not carry a fire well, and their thin bark is sufficiently resistant to protect them from light surface fires. In addition, the light weight of alder seeds (650,000 per pound, or 1.5 million per kg) allows for easy dispersal by the wind. Although it outgrows coastal Douglas-fir for the first 25 years, it is very shade intolerant and seldom lives more than 100 years. Red alder is the Pacific Northwest's largest alder and the most plentiful and commercially important broad-leaved tree in the coastal Northwest. Groves of red alder 10 to 20 inches (25 to 50 cm) in diameter intermingle with young Douglas-fir forests west of the Cascades, attaining a maximum height of 100 to 110 feet (30 to 33 m) in about sixty years and then lose vigor as heart rot sets in. Alders largely help create conditions favorable for giant conifers that replace them.[7]
 
 An alder root nodule gall.JPG|alt=An alder root nodule|Whole root nodule A sectioned alder root nodule gall.JPG|alt=A sectioned alder root nodule|Sectioned root nodules
 
@@ -38,7 +36,7 @@ Alder roots are parasitized by northern groundcone.
 
 Uses
 
-Wappen_at_grossarl.png, Austria]]
+, Austria]]
 
 The catkins of some alder species have a degree of edibility,[8] and may be rich in protein. Reported to have a bitter and unpleasant taste, they are more useful for survival purposes. The wood of certain alder species is often used to smoke various food items such as coffee, salmon and other seafood.
 
@@ -71,8 +69,6 @@ SUBGENUS _ALNUS_: Trees with stalked shoot buds, male and female catkins produce
 -   _Alnus firma_ Siebold & Zucc. — Kyūshū Island in Japan
 -   _Alnus glutinosa_ (L.) Gaertn. — black alder. Europe, Central Asia.
 
-Alnus_incana_rugosa_leaves.jpg
-
 -   _Alnus incana_ (L.) Moench — gray alder. Eurasia, North America
 -   _Alnus hirsuta_ (Spach) Rupr. — Manchurian alder. Japan, Korea, Manchuria, Siberia, Russian Far East
 -   _Alnus oblongifolia_ Torr. — Arizona alder. Arizona, New Mexico, Sonora, Chihuahua
@@ -88,8 +84,6 @@ Alnus_incana_rugosa_leaves.jpg
 -   _Alnus rhombifolia_ Nutt. — white alder. California, Nevada, Oregon, Washington, Idaho, Montana
 -   _Alnus rubra_ Bong. — red alder. Alaska, Yukon, British Columbia, California, Oregon, Washington, Idaho, Montana.
 
-Alnus_serrulata_leaves.jpg
-
 -   _Alnus serrulata_ (Aiton) Willd. — hazel alder, tag alder or smooth alder. Eastern North America
 -   _Alnus sieboldiana_ Matsum. — Japan, Ryukyu Islands
 -   _Alnus subcordata_ C.A.Mey. — Caucasian alder. Caucasus, Iran
@@ -101,7 +95,7 @@ SUBGENUS _CLETHROPSIS_. Trees or shrubs with stalked shoot buds, male and female
 -   _Alnus maritima_ (Marshall) Muhl. ex Nutt. — seaside alder. United States (Georgia, Delaware, Maryland, Oklahoma).
 -   _Alnus nitida_ (Spach) Endl. — Himalayan alder. Western Himalaya, Pakistan, India, Nepal.
 
-SUBGENUS _ALNOBETULA_. Shrubs with shoot buds not stalked, male and female catkins produced in late spring (after leaves appear) and expanding and pollinating then, one to four species: Alnus-viridis-leaves.JPG
+SUBGENUS _ALNOBETULA_. Shrubs with shoot buds not stalked, male and female catkins produced in late spring (after leaves appear) and expanding and pollinating then, one to four species:
 
 -   _Alnus alnobetula_ (Ehrh.) K.Koch
 -   _Alnus viridis_ (Chaix) DC. 1805) — Temperate and subarctic Europe, Asia, North America.
@@ -126,7 +120,7 @@ Unknown subgenus
 
 Hybrids
 
--   AlnusXspaethii.jpg_]]_Alnus × elliptica'' Req.—Italy. (_A. cordata_ × _A. glutinosa_)
+-   _]]_Alnus × elliptica'' Req.—Italy. (_A. cordata_ × _A. glutinosa_)
 -   _Alnus × fallacina_ Callier—Ohio, New York State, Vermont, New Hampshire, Maine. (_A. incana_ subsp. _rugosa_ × _A. serrulata_)
 -   _Alnus × hanedae_ Suyinata—Japan. (_A. firma_ × _A. sieboldiana_)
 -   _Alnus × hosoii_ Mizush.—Japan. (_A. maximowiczii_ × _A. pendula_)

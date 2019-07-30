@@ -8,7 +8,7 @@ Benedict was born Dirk Niewoehner in Helena, Montana,[1] the son of Priscilla Me
 
 Career
 
-Chopper_One_cast_1974.JPG''. From left: Dirk Benedict, Ted Hartley, Jim McMullan.]]
+''. From left: Dirk Benedict, Ted Hartley, Jim McMullan.]]
 
 Benedict's film debut was in the 1972 film _Georgia, Georgia_. When the New York run for _Butterflies Are Free_ ended, he received an offer to repeat his performance in Hawaii, opposite Barbara Rush. While there, he appeared as a guest lead on _Hawaii Five-O_. The producers of a horror film called _Sssssss_ (1973) saw Benedict's performance in _Hawaii Five-O_ and promptly cast him as the lead in that movie. He next played the psychotic wife-beating husband of Twiggy in her American film debut, _W_ (1974). Benedict starred in the television series _Chopper One_, which aired for one season in 1974. He made two appearances in _Charlie's Angels_. He also appeared on the "Donny & Marie" variety show.
 

@@ -18,21 +18,21 @@ History
 
 Antiquity
 
-Qobustan_inscription.jpg dating back to 84–96 A.D.]] Around 100,000 years ago, the territory of modern Baku and Absheron was savanna with rich flora and fauna. Traces of human settlement go back to the Stone age. From the Bronze age there have been rock carvings discovered near Bayil, and a bronze figure of a small fish discovered in the territory of the Old City. These have led some to suggest the existence of a Bronze Age settlement within the city's territory.[5] Near Nardaran, in a place called Umid Gaya, a prehistoric observatory was discovered, where on the rock the images of sun and various constellations are carved together with a primitive astronomic table.[6] Further archeological excavations revealed various prehistoric settlements, native temples, statues and other artifacts within the territory of the modern city and around it.
+dating back to 84–96 A.D.]] Around 100,000 years ago, the territory of modern Baku and Absheron was savanna with rich flora and fauna. Traces of human settlement go back to the Stone age. From the Bronze age there have been rock carvings discovered near Bayil, and a bronze figure of a small fish discovered in the territory of the Old City. These have led some to suggest the existence of a Bronze Age settlement within the city's territory.[5] Near Nardaran, in a place called Umid Gaya, a prehistoric observatory was discovered, where on the rock the images of sun and various constellations are carved together with a primitive astronomic table.[6] Further archeological excavations revealed various prehistoric settlements, native temples, statues and other artifacts within the territory of the modern city and around it.
 
 In the 1st century CE, the Romans organized two Caucasian campaigns and reached Baku. Near the city, in Gobustan, Roman inscriptions dating from 84–96 CE were discovered. This is one of the earliest written evidences for Baku.[7]
 
 Rise of the Shirvanshahs and the Safavid era
 
-1541-Battle_in_the_war_between_Shah_Isma'il_and_the_King_of_Shirvan-Shahnama-i-Isma'il.jpg marking the downfall of the Shirvanshahs at the hands of the Safavids.]] Baku was the realm of the Shirvanshahs during the 8th century CE. The city frequently came under assault of the Khazars and (starting from the 10th century) the Rus. Shirvanshah Akhsitan I built a navy in Baku and successfully repelled another Rus assault in 1170. After a devastating earthquake struck Shamakhi, the capital of Shirvan, Shirvanshah's court moved to Baku in 1191.[8]
+marking the downfall of the Shirvanshahs at the hands of the Safavids.]] Baku was the realm of the Shirvanshahs during the 8th century CE. The city frequently came under assault of the Khazars and (starting from the 10th century) the Rus. Shirvanshah Akhsitan I built a navy in Baku and successfully repelled another Rus assault in 1170. After a devastating earthquake struck Shamakhi, the capital of Shirvan, Shirvanshah's court moved to Baku in 1191.[8]
 
-Sabayil_relics.jpg.]] The Shirvan era greatly influenced Baku and the remainder of what is present-day Azerbaijan. Between the 12th and 14th centuries, massive fortifications were undertaken in Baku and the surrounding towns. The Maiden Tower, the Ramana Tower, the Nardaran Fortress, the Shagan Castle, the Mardakan Castle, the Round Castle and also the famous Sabayil Castle on the island of the Bay of Baku was built during this period. The city walls of Baku were also rebuilt and strengthened.
+.]] The Shirvan era greatly influenced Baku and the remainder of what is present-day Azerbaijan. Between the 12th and 14th centuries, massive fortifications were undertaken in Baku and the surrounding towns. The Maiden Tower, the Ramana Tower, the Nardaran Fortress, the Shagan Castle, the Mardakan Castle, the Round Castle and also the famous Sabayil Castle on the island of the Bay of Baku was built during this period. The city walls of Baku were also rebuilt and strengthened.
 
 By the early 16th century Baku's wealth and strategic position attracted the focus of its larger neighbors; in the previous two centuries, it was under the rule of the in Iran-centred Kara Koyunlu and Ak Koyunlu. The fall of the Ak Koyunlu brought the city immediately into the sphere of the newly formed Iranian Safavid dynasty, led by king (_shah_) Ismail I (r. 1501–1524). Ismail I laid siege to Baku in 1501 and captured it; he allowed the Shirvanshahs to remain in power, under Safavid suzerainty. His successor, king Tahmasp I (r. 1524–1576), completely removed the Shirvanshahs from power, and made Baku a part of the Shirvan province. Baku remained as an integral part of his empire and the successive Iranian dynasties to come for the next centuries, until the irrevocable cession in the first half of the 19th century. The House of Shirvan, who ruled Baku since the 9th century, was extinguished in the course of the Safavid rule.
 
 At this time the city was enclosed within the lines of strong walls, which were washed by the sea on one side and protected by a wide trench on land. The Ottomans briefly gained control over Baku as a result of the Ottoman-Safavid War of 1578–1590; by 1607, it was again put under Iranian control.[9] In 1604 Baku fortress was destroyed by Shah Abbas I (r. 1588-1629).
 
-Ateshgah_temple_inscription.png is a temple built by Indian traders before 1745, west of the Caspian Sea. The inscription inscribed invocation to Lord Shiva in Sanskrit at the Ateshgah.]] Baku is noted for being a focal point for traders from all across the world during the Early modern period, commerce was active and the area was prosperous. Notably, traders from the Indian subcontinent established themselves in the region. These Indian traders built the Ateshgah of Baku during 17th–18th centuries; the temple was used as a Hindu, Sikh, and Parsi place of worship.[10]
+is a temple built by Indian traders before 1745, west of the Caspian Sea. The inscription inscribed invocation to Lord Shiva in Sanskrit at the Ateshgah.]] Baku is noted for being a focal point for traders from all across the world during the Early modern period, commerce was active and the area was prosperous. Notably, traders from the Indian subcontinent established themselves in the region. These Indian traders built the Ateshgah of Baku during 17th–18th centuries; the temple was used as a Hindu, Sikh, and Parsi place of worship.[10]
 
 Downfall of the Safavids and the Khanate of Baku
 
@@ -42,15 +42,13 @@ The eruption of instability following Nader Shah's death gave rise to the variou
 
 Russo-Persian Wars and Iran's forced ceding
 
-Баку._Набережная._1861.jpg.]]
+.]]
 
 From the late 18th century, Imperial Russia switched to a more aggressive geopolitical stance towards its two neighbors and rivals to the south, namely Iran and the Ottoman Empire. In the spring of 1796, by Catherine II’s order, General Valerian Zubov’s troops started a large campaign against Qajar Persia.[15] Zubov had sent 13,000 men to capture Baku, and it was overrun subsequently without any resistance. On 13 June 1796, a Russian flotilla entered Baku Bay, and a garrison of Russian troops was placed inside the city. Later, however, Pavel I ordered the cessation of the campaign and the withdrawal of Russian forces following his predecessor, Catherine the Great's death. In March 1797, the tsarist troops left Baku and the city became part of Qajar Iran again.
 
 In 1813, following the Russo-Persian War of 1804–1813, Qajar Iran was forced to sign the Treaty of Gulistan with Russia, which provided for the irrevocable cession of Baku and most of Iran's territories in the North Caucasus and South Caucasus to Russia. During the next and final bout of hostilities between the two, the Russo-Persian War of 1826–1828, Baku was briefly recaptured by the Iranians. However, militarily superior, the Russians ended this war in a victory as well, and the resulting Treaty of Turkmenchay made its inclusion into the Russian Empire definite.[16] When Baku was occupied by the Russian troops during the war of 1804–13, nearly the entire population of some 8,000 people was ethnic Tat.[17]
 
 Discovery of oil
-
-BibiEybat.jpg
 
 Drilling for oil began in the mid-1800s, with the first oil well drilled in the Bibi-Heybat suburb of Baku in 1846. It was mechanically drilled, though a number of hand-dug wells predate it. Large-scale oil exploration started in 1872 when Russian imperial authorities auctioned the parcels of oil-rich land around Baku to private investors. The pioneer of oil extracting from the bottom of the sea was Polish geologist Witold Zglenicki.[18] Soon after that Swiss, British, French, Belgian, German, Swedish and American investors appeared in Baku. Among them were the firms of the Nobel brothers together with the family von Börtzell-Szuch (Carl Knut Börtzell, who also owned the Livadia Palace) and the Rothschild family. An industrial oil belt, better known as Black City, was established near Baku.
 
@@ -60,7 +58,7 @@ By the beginning of the 20th century, half of the oil sold in international mark
 
 World War I
 
-Army_of_Azerbaijan_in_1918.jpg.]] Neftchiler_Avenue_1918-1920.jpg in Baku, circa 1920.]] In 1917, after the October Revolution and amidst the turmoil of World War I and the breakup of the Russian Empire, Baku came under the control of the Baku Commune, which was led by veteran Bolshevik Stepan Shahumyan. Seeking to capitalize on the existing inter-ethnic conflicts, by spring 1918, Bolsheviks inspired and condoned civil warfare in and around Baku. During the infamous March Days, Bolsheviks and Dashnaks seeking to establish control over Baku streets, were faced with armed Azerbaijani groups. The Azerbaijanis suffered a crushing defeat by the united forces of Baku Soviet and were massacred by Dashnak teams in what was called March Days. An estimated 3–12,000 Azerbaijanis were killed in their own capital.[20][21] After the massacre, on 28 May 1918, the Azerbaijani faction of the Transcaucasian Sejm proclaimed the independence of the Azerbaijan Democratic Republic (ADR) in Ganja, thereby becoming the first Muslim-majority democratic and secular republic.[22] The newly independent Azerbaijani republic, being unable to defend the independence of the country on their own, asked the Ottoman Empire for military support in accordance with clause 4 of the treaty between the two countries. Shortly after, Azerbaijani forces, with support of the Ottoman Army of Islam led by Nuru Pasha, started their advance onto Baku, eventually capturing the city from the loose coalition of Bolsheviks, Esers, Dashnaks, Mensheviks and British forces under the command of General Lionel Dunsterville on 15 September 1918.
+.]] in Baku, circa 1920.]] In 1917, after the October Revolution and amidst the turmoil of World War I and the breakup of the Russian Empire, Baku came under the control of the Baku Commune, which was led by veteran Bolshevik Stepan Shahumyan. Seeking to capitalize on the existing inter-ethnic conflicts, by spring 1918, Bolsheviks inspired and condoned civil warfare in and around Baku. During the infamous March Days, Bolsheviks and Dashnaks seeking to establish control over Baku streets, were faced with armed Azerbaijani groups. The Azerbaijanis suffered a crushing defeat by the united forces of Baku Soviet and were massacred by Dashnak teams in what was called March Days. An estimated 3–12,000 Azerbaijanis were killed in their own capital.[20][21] After the massacre, on 28 May 1918, the Azerbaijani faction of the Transcaucasian Sejm proclaimed the independence of the Azerbaijan Democratic Republic (ADR) in Ganja, thereby becoming the first Muslim-majority democratic and secular republic.[22] The newly independent Azerbaijani republic, being unable to defend the independence of the country on their own, asked the Ottoman Empire for military support in accordance with clause 4 of the treaty between the two countries. Shortly after, Azerbaijani forces, with support of the Ottoman Army of Islam led by Nuru Pasha, started their advance onto Baku, eventually capturing the city from the loose coalition of Bolsheviks, Esers, Dashnaks, Mensheviks and British forces under the command of General Lionel Dunsterville on 15 September 1918.
 
 After the Battle of Baku, the Azerbaijani irregular troops, with the tacit support of the Turkish command, conducted four days of pillaging and killing of 10–30,000[23] of the Armenian residents of Baku. This pogrom was known as the September Days. Shortly after this Baku was proclaimed the new capital of the Azerbaijan Democratic Republic.
 
@@ -83,7 +81,7 @@ After the dissolution of the Soviet Union, Baku embarked on a process of restruc
 
 Geography
 
-Baku,_Azerbaijan,_satellite_image,_LandSat-5,_2010-09-06.jpg, 6 September 2010]] Baku is situated on the western coast of Caspian Sea. In the vicinity of the city there are a number of mud volcanoes (Keyraki, Bogkh-bogkha, Lokbatan and others) and salt lakes (Boyukshor, Khodasan and so on).
+, 6 September 2010]] Baku is situated on the western coast of Caspian Sea. In the vicinity of the city there are a number of mud volcanoes (Keyraki, Bogkh-bogkha, Lokbatan and others) and salt lakes (Boyukshor, Khodasan and so on).
 
 Climate
 
@@ -133,7 +131,7 @@ Until 1988 Baku had very large Russian, Armenian, and Jewish populations which c
 
 Ethnic groups
 
-Christmas_in_Baku_on_January_6,_1904_and_Armenian_church.jpg]] Today the vast majority of the population of Baku are ethnic Azerbaijanis (more than 90%). When Baku was occupied by the Russian troops during the war of 1804–13, nearly the entire population of some 8,000 people was ethnic Tat.[48] The intensive growth of the population started in the middle of the 19th century when Baku was a small town with a population of about 7,000 people. The population increased again from about 13,000 in the 1860s to 112,000 in 1897 and 215,000 in 1913, making Baku the largest city in the Caucasus region.[49]
+]] Today the vast majority of the population of Baku are ethnic Azerbaijanis (more than 90%). When Baku was occupied by the Russian troops during the war of 1804–13, nearly the entire population of some 8,000 people was ethnic Tat.[48] The intensive growth of the population started in the middle of the 19th century when Baku was a small town with a population of about 7,000 people. The population increased again from about 13,000 in the 1860s to 112,000 in 1897 and 215,000 in 1913, making Baku the largest city in the Caucasus region.[49]
 
 Baku has been a cosmopolitan city at certain times during its history, meaning ethnic Azerbaijanis did not constitute the majority of population.[50] In 2003 Baku additionally had 153,400 internally displaced persons and 93,400 refugees.[51]
 
@@ -141,7 +139,7 @@ Lezgi people in Baku and Absheron number around 270,000.[52]
 
 Religion
 
-Bibi-Eybat_mosque,_Baku,_2009.jpg. The mosque was built over the tomb of a descendant of Muhammad.[53]]] The urban landscape of Baku is shaped by many communities. The religion with the largest community of followers is Islam. The majority of the Muslims are Shia Muslims, and the Republic of Azerbaijan has the second highest Shia population percentage in the world after Iran.[54] The city's notable mosques include Juma Mosque, Bibi-Heybat Mosque, Muhammad Mosque and Taza Pir Mosque.
+. The mosque was built over the tomb of a descendant of Muhammad.[53]]] The urban landscape of Baku is shaped by many communities. The religion with the largest community of followers is Islam. The majority of the Muslims are Shia Muslims, and the Republic of Azerbaijan has the second highest Shia population percentage in the world after Iran.[54] The city's notable mosques include Juma Mosque, Bibi-Heybat Mosque, Muhammad Mosque and Taza Pir Mosque.
 
 There are some other faiths practiced among the different ethnic groups within the country. By article 48 of its Constitution, Azerbaijan is a secular state and ensures religious freedom. Religious minorities include Russian Orthodox Christians, Catholic Levantines, Georgian Orthodox Christians, Lutherans, Ashkenazi Jews and Sufi Muslims.
 
@@ -167,7 +165,7 @@ The city is listed 48th in the 2011 list of the most expensive cities in the wor
 
 Culture
 
-The city has many amenities that offer a wide range of cultural activities, drawing both from a rich local dramatic portfolio and an international repertoire. In 2007 the Heydar Aliyev Cultural Center designed by famous Iraqi-British architect, Zaha Hadid, was opened.[63] Baku also boasts many museums such as Baku Museum of Modern Art and Azerbaijan State Museum of History, most notably featuring historical artifacts and art. Many of the city's cultural sites were celebrated in 2009 when Baku was designated an Islamic Culture Capital.[64] Baku was chosen to host the Eurovision Dance Contest 2010. It has also become the first city hosting the first European Games in 2015.[65] Heydar_Aliyev_Cultural_Center.jpg
+The city has many amenities that offer a wide range of cultural activities, drawing both from a rich local dramatic portfolio and an international repertoire. In 2007 the Heydar Aliyev Cultural Center designed by famous Iraqi-British architect, Zaha Hadid, was opened.[63] Baku also boasts many museums such as Baku Museum of Modern Art and Azerbaijan State Museum of History, most notably featuring historical artifacts and art. Many of the city's cultural sites were celebrated in 2009 when Baku was designated an Islamic Culture Capital.[64] Baku was chosen to host the Eurovision Dance Contest 2010. It has also become the first city hosting the first European Games in 2015.[65]
 
 Theaters
 
@@ -208,7 +206,7 @@ Libraries
 
 Architecture
 
-Baku_Maiden_Tower_2010.jpg in Old Baku, a UNESCO World Heritage Site built in the 11th–12th century, recognised as the symbol of the city.]] Baku,_Azerbaiyán,_2016-09-26,_DD_207-209_PAN.jpg in Baku.]] Baku has wildly varying architecture, ranging from the Old City core to modern buildings and the spacious layout of Baku port. Many of the city's most impressive buildings were built during the early 20th century, when architectural elements of the European styles were combined in eclectic style.[70] Baku has an original and unique appearance, earning it a reputation as the 'Paris of the East'.[71]
+in Old Baku, a UNESCO World Heritage Site built in the 11th–12th century, recognised as the symbol of the city.]] in Baku.]] Baku has wildly varying architecture, ranging from the Old City core to modern buildings and the spacious layout of Baku port. Many of the city's most impressive buildings were built during the early 20th century, when architectural elements of the European styles were combined in eclectic style.[70] Baku has an original and unique appearance, earning it a reputation as the 'Paris of the East'.[71]
 
 Hamams
 
@@ -240,7 +238,7 @@ In 2003, UNESCO placed the Inner City on the List of World Heritage in Danger, c
 
 Music and media
 
-Pht-Vugar_Ibadov_eurovision_(31).jpg during the Eurovision Song Contest 2012]]
+during the Eurovision Song Contest 2012]]
 
 The music scene in Baku can be traced back to ancient times and villages of Baku, generally revered as the fountainhead of meykhana and mugham in the Azerbaijan.[76][77]
 
@@ -276,7 +274,7 @@ Other prominent parks and gardens include Heydar Aliyev Park, Samad Vurgun Park,
 
 Sports
 
-Bedii_Gimnastika_026.jpg during the 2009 Rhythmic Gymnastics European Championships]] Baku hosts a Formula One race on the Baku City Circuit. The first was the 2016 European Grand Prix.
+during the 2009 Rhythmic Gymnastics European Championships]] Baku hosts a Formula One race on the Baku City Circuit. The first was the 2016 European Grand Prix.
 
 The city will also host three group games and one quarter-final of the UEFA Euro 2020 European Football Championship.[91]
 
@@ -297,7 +295,7 @@ In the Azerbaijan Women's Volleyball Super League, Baku is represented by Rabita
 
 Transport
 
-Bakutaxi.jpg, introduced in 2011]] Throughout history the transport system of Baku used the now-defunct horsecars, trams and narrow gauge railways. , 1,000 black cabs are ordered by Baku Taxi Company, and as part of a programme originally announced by the Transport Ministry of Azerbaijan, there is a plan to introduce London cabs into Baku.[101][102] The move was part of £16 million agreement between Manganese Bronze subsidiary LTI Limited and Baku Taxi Company.[103][104]
+, introduced in 2011]] Throughout history the transport system of Baku used the now-defunct horsecars, trams and narrow gauge railways. , 1,000 black cabs are ordered by Baku Taxi Company, and as part of a programme originally announced by the Transport Ministry of Azerbaijan, there is a plan to introduce London cabs into Baku.[101][102] The move was part of £16 million agreement between Manganese Bronze subsidiary LTI Limited and Baku Taxi Company.[103][104]
 
 Local rail transport includes the Baku Funicular and the Baku Metro, a rapid-transit system notable for its art, murals, mosaics and ornate chandeliers. Baku Metro was opened in November 1967 and includes 3 lines and 25 stations at present; 170 million people used Baku Metro over the past five years.[105] In 2008, the Chief of Baku Metro, Taghi Ahmadov, announced plans to construct 41 new stations over the next 17 years. These will serve the new bus complex as well as the international airport.[106]In 2019, the Baku suburban railway opened.
 
@@ -305,7 +303,7 @@ BakuCard is a single Smart Card for payment on all types of city transport. The 
 
 Baku's Central Railway Station is the terminus for national and international rail links to the city. The Kars–Tbilisi–Baku railway, which directly connects Turkey, Georgia and Azerbaijan, began to be constructed in 2007 and opened in 2017.[109] The completed branch will connect Baku with Tbilisi in Georgia, and from there trains will continue to Akhalkalaki, and Kars in Turkey.[110]
 
-Копия_02252_1026.jpg Sea transport is vital for Baku, as the city is practically surrounded by the Caspian Sea to the east. Shipping services operate regularly from Baku across the Caspian Sea to Turkmenbashi (formerly Krasnovodsk) in Turkmenistan and to Bandar Anzali and Bandar Nowshar in Iran.[111] The commuter ferries, along with the high-speed catamaran _Seabus_ (_Deniz Avtobusu_), also form the main connection between the city and the Absheron peninsula.[112]
+Sea transport is vital for Baku, as the city is practically surrounded by the Caspian Sea to the east. Shipping services operate regularly from Baku across the Caspian Sea to Turkmenbashi (formerly Krasnovodsk) in Turkmenistan and to Bandar Anzali and Bandar Nowshar in Iran.[111] The commuter ferries, along with the high-speed catamaran _Seabus_ (_Deniz Avtobusu_), also form the main connection between the city and the Absheron peninsula.[112]
 
 Baku Port was founded in 1902 and since then has been the largest Caspian Sea port. It has six facilities: the main cargo terminal, the container terminal, the ferry terminal, the oil terminal, the passenger terminal and the port fleet terminal. The port's throughput capacity reaches 15 million tons of liquid bulk and up to 10 million tons of dry cargoes.[113] Beginning in 2010, the Baku International Sea Trade Port is being reconstructed. The construction will take place in three stages and will be completed by 2016. The estimated costs are 400 Million US$.[114] From April to November Baku Port is accessible to ships loading cargoes for direct voyages from Western European and Mediterranean ports. The State Road M-1 and the European route E60 are the two main motorway connections between Europe and Azerbaijan. The motorway network around Baku is well developed and is constantly being extended. The Heydar Aliyev International Airport is the only commercial airport serving Baku. The new Baku Cargo Terminal was officially opened in March 2005. It was constructed to be a major cargo hub in the CIS countries and is actually now one of the biggest and most technically advanced in the region.[115] There are also several smaller military airbases near Baku, such as Baku Kala Air Base, intended for private aircraft, helicopters and charters.[116]
 

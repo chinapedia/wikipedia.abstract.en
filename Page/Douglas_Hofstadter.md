@@ -12,7 +12,7 @@ Since 1988, Hofstadter has been the College of Arts and Sciences Distinguished P
 
 Hofstadter's many interests include music, visual art, the mind, creativity, consciousness, self-reference, translation and mathematics.
 
-Douglas_Hofstadter,_Stanford_2006_(crop).jpg]]
+]]
 
 At the University of Michigan and Indiana University, he co-authored, with Melanie Mitchell, a computational model of "high-level perception" – Copycat – and several other models of analogy-making and cognition, including the Tabletop project, co-developed with Robert M. French. Hofstadter's doctoral student James Marshall subsequently extended the Copycat project under the name "Metacat".[21] The Letter Spirit project, implemented by Gary McGraw and John Rehling, aims to model the act of artistic creativity by designing stylistically uniform "gridfonts" (typefaces limited to a grid). Other more recent models include Phaeaco (implemented by Harry Foundalis) and SeqSee (Abhijit Mahabal), which model high-level perception and analogy-making in the microdomains of Bongard problems and number sequences, respectively, as well as George (Francisco Lara-Dammer), which models the processes of perception and discovery in triangle geometry.[22][23][24]
 

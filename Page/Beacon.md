@@ -5,7 +5,7 @@ Beacons can also be combined with semaphoric or other indicators to provide impo
 
 For navigation
 
-Beacon_at_Orontes_Bank.jpg.]]
+.]]
 
 Beacons help guide navigators to their destinations. Types of navigational beacons include radar reflectors, radio beacons, sonic and visual signals. Visual beacons range from small, single-pile structures to large lighthouses or light stations and can be located on land or on water. Lighted beacons are called _lights_; unlighted beacons are called _daybeacons_. Aerodrome beacons are used to indicate locations of airports and helipads.
 
@@ -13,8 +13,6 @@ Handheld beacons are also employed in aircraft marshalling, and are used by the 
 
 
 For defensive communications
-
-Culmstock,_Culmstock_Beacon_-_geograph.org.uk_-_213525.jpg
 
 Classically, beacons were fires lit at well-known locations on hills or high places, used either as lighthouses for navigation at sea, or for signalling over land that enemy troops were approaching, in order to alert defenses. As signals, beacons are an ancient form of optical telegraph and were part of a relay league.
 
@@ -30,8 +28,6 @@ In Spain, the border of Granada in the territory of the Crown of Castile had a c
 
 
 On vehicles
-
-Beacon_positions.jpg
 
 Vehicular beacons are rotating or flashing lights affixed to the top of a vehicle to attract the attention of surrounding vehicles and pedestrians. Emergency vehicles such as fire engines, ambulances, police cars, tow trucks, construction vehicles, and snow-removal vehicles carry beacon lights.
 

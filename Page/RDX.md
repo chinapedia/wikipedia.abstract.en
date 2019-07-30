@@ -10,7 +10,7 @@ RDX is also known, but less commonly, as cyclonite, hexogen (particularly in Rus
 
 Usage
 
-Bombing_up_106_Squadron_Lancaster_WWII_IWM_CH_12541.jpg B Mark III of No. 106 Squadron RAF at RAF Metheringham before a major night raid on Frankfurt. The stencilled lettering around the circumference of each bomb reads "RDX/TNT".]] RDX was widely used during World War II, often in explosive mixtures with TNT such as Torpex, Composition B, Cyclotols, and H6. RDX was used in one of the first plastic explosives. The bouncing bomb depth charges used in the "Dambusters Raid" each contained of Torpex;[7] The Tallboy and Grand Slam bombs designed by Wallis also used Torpex.
+B Mark III of No. 106 Squadron RAF at RAF Metheringham before a major night raid on Frankfurt. The stencilled lettering around the circumference of each bomb reads "RDX/TNT".]] RDX was widely used during World War II, often in explosive mixtures with TNT such as Torpex, Composition B, Cyclotols, and H6. RDX was used in one of the first plastic explosives. The bouncing bomb depth charges used in the "Dambusters Raid" each contained of Torpex;[7] The Tallboy and Grand Slam bombs designed by Wallis also used Torpex.
 
 RDX is believed to have been used in many bomb plots, including terrorist plots.
 
@@ -35,7 +35,7 @@ Synthesis
 
 RDX is classified by chemists as a hexahydro-1,3,5-triazine derivative. It is obtained by treating hexamine with white fuming nitric acid.
 
-    Synthesis_hexogen.svg
+
 
 This nitrolysis reaction also produces methylene dinitrate (not to be confused with dinitromethane), ammonium nitrate, and water as byproducts. The overall reaction is:[20]
 

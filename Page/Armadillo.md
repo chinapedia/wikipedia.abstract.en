@@ -1,4 +1,4 @@
-Nine-banded_armadillo_skeleton.jpg skeleton.]] Three_Banded_Armadillo.jpg skeleton on display at the Museum of Osteology.]] ARMADILLOS (from Spanish "little armoured one") are New World placental mammals in the order Cingulata. The Chlamyphoridae and Dasypodidae are the only surviving families in the order, which is part of the superorder Xenarthra, along with the anteaters and sloths. Nine extinct genera and 21 extant species of armadillo have been described, some of which are distinguished by the number of bands on their armour. All species are native to the Americas, where they inhabit a variety of different environments.
+skeleton.]] skeleton on display at the Museum of Osteology.]] ARMADILLOS (from Spanish "little armoured one") are New World placental mammals in the order Cingulata. The Chlamyphoridae and Dasypodidae are the only surviving families in the order, which is part of the superorder Xenarthra, along with the anteaters and sloths. Nine extinct genera and 21 extant species of armadillo have been described, some of which are distinguished by the number of bands on their armour. All species are native to the Americas, where they inhabit a variety of different environments.
 
 Armadillos are characterized by a leathery armour shell and long sharp claws for digging. They have short legs, but can move quite quickly. The average length of an armadillo is about , including tail. The giant armadillo grows up to and weighs up to , while the pink fairy armadillo has a length of only . When threatened by a predator, Tolypeutes species frequently roll up into a ball.
 
@@ -10,10 +10,10 @@ The word _armadillo_ means "little armoured one" in Spanish. The Aztecs called t
 
 Classification
 
-Pink_Fairy_Armadillo_(Chlamyphorus_truncatus)_(cropped).jpg]] FAMILY DASYPODIDAE
+]] FAMILY DASYPODIDAE
 
 -   Subfamily Dasypodinae
-    -   Genus _Dasypus_ TatusorGuineanBeast.jpg
+    -   Genus _Dasypus_
         -   Nine-banded armadillo or long-nosed armadillo, _Dasypus novemcinctus_
         -   Seven-banded armadillo, _Dasypus septemcinctus_
         -   Southern long-nosed armadillo, _Dasypus hybridus_
@@ -32,7 +32,7 @@ FAMILY CHLAMYPHORIDAE
     -   Genus _Chlamyphorus_
         -   Pink fairy armadillo, _Chlamyphorus truncatus_
 -   Subfamily Euphractinae
-    -   Genus _Chaetophractus_ Chaetophractus_vellerosus3.jpg]]
+    -   Genus _Chaetophractus_ ]]
         -   Screaming hairy armadillo, _Chaetophractus vellerosus_
         -   Big hairy armadillo, _Chaetophractus villosus_
         -   Andean hairy armadillo, _Chaetophractus nationi_
@@ -48,7 +48,7 @@ FAMILY CHLAMYPHORIDAE
         -   Pichi, _Zaedyus pichiy_
 -   Subfamily Tolypeutinae
     -   Genus †_Kuntinaru_[3]
-    -   Genus _Cabassous_ SouthernThreeBandedArmadillo065b.jpg]]
+    -   Genus _Cabassous_ ]]
         -   Northern naked-tailed armadillo, _Cabassous centralis_
         -   Chacoan naked-tailed armadillo, _Cabassous chacoensis_
         -   Southern naked-tailed armadillo, _Cabassous unicinctus_
@@ -87,7 +87,7 @@ Armadillos are small to medium-sized mammals. The smallest species, the pink fai
 
 Diet and predation
 
-They are prolific diggers. Many species use their sharp claws to dig for food, such as grubs, and to dig dens. The nine-banded armadillo prefers to build burrows in moist soil near the creeks, streams, and arroyos around which it lives and feeds. The diets of different armadillo species vary, but consist mainly of insects, grubs, and other invertebrates. Some species, however, feed almost entirely on ants and termites. Mani_armadilli.png Armadillos have very poor eyesight, and use their keen sense of smell to hunt for food.[11] They use their claws for digging and finding food, as well as for making their homes in burrows. They dig their burrows with their claws, making only a single corridor the width of the animal's body. They have five clawed toes on their hind feet, and three to five toes with heavy digging claws on their fore feet. Armadillos have a large number of cheek teeth which are not divided into premolars and molars, but usually have no incisors or canines. The dentition of the nine-banded armadillo is P 7/7, M 1/1 = 32.[12]
+They are prolific diggers. Many species use their sharp claws to dig for food, such as grubs, and to dig dens. The nine-banded armadillo prefers to build burrows in moist soil near the creeks, streams, and arroyos around which it lives and feeds. The diets of different armadillo species vary, but consist mainly of insects, grubs, and other invertebrates. Some species, however, feed almost entirely on ants and termites. Armadillos have very poor eyesight, and use their keen sense of smell to hunt for food.[11] They use their claws for digging and finding food, as well as for making their homes in burrows. They dig their burrows with their claws, making only a single corridor the width of the animal's body. They have five clawed toes on their hind feet, and three to five toes with heavy digging claws on their fore feet. Armadillos have a large number of cheek teeth which are not divided into premolars and molars, but usually have no incisors or canines. The dentition of the nine-banded armadillo is P 7/7, M 1/1 = 32.[12]
 
 Body temperature
 

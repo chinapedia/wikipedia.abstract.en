@@ -1,4 +1,4 @@
-Amide_types.svg An AMIDE ( or or ),[1][2][3] also known as an ACID AMIDE, is a compound with the functional group R_(_n_)E(O)_(_x_)NR′₂ (R and R′ refer to H or organic groups). Most common are carboxamides (organic amides) (_n_ = 1, E = C, _x_ = 1), but many other important types of amides are known, including phosphoramides (_n_ = 2, E = P, _x_ = 1 and many related formulas) and sulfonamides (E = S, _x_ = 2).[4] The term amide refers both to _classes of compounds_ and to the _functional group_ (R_(_n_)E(O)_(_x_)NR′₂) within those compounds.
+An AMIDE ( or or ),[1][2][3] also known as an ACID AMIDE, is a compound with the functional group R_(_n_)E(O)_(_x_)NR′₂ (R and R′ refer to H or organic groups). Most common are carboxamides (organic amides) (_n_ = 1, E = C, _x_ = 1), but many other important types of amides are known, including phosphoramides (_n_ = 2, E = P, _x_ = 1 and many related formulas) and sulfonamides (E = S, _x_ = 2).[4] The term amide refers both to _classes of compounds_ and to the _functional group_ (R_(_n_)E(O)_(_x_)NR′₂) within those compounds.
 
 Amide can also refer to azanide (the anion H₂N^(−), conjugate base of ammonia) or to an organic amine (an anion R₂N^(−)). For discussion of these "anionic amides", see Alkali metal amides.
 
@@ -11,9 +11,9 @@ Structure and bonding
 
 The simplest amides are derivatives of ammonia wherein one hydrogen atom has been replaced by an acyl group. The ensemble is generally represented as RC(O)NH₂ and is described as a primary amide. Closely related and even more numerous are secondary amides which can be derived from primary amines (R′NH₂) and have the formula RC(O)NHR′. Tertiary amides are commonly derived from secondary amines (R′R″NH) and have the general structure RC(O)NR′R″. Amides are usually regarded as derivatives of carboxylic acids in which the hydroxyl group has been replaced by an amine or ammonia.
 
-    AmideResonance.png
 
-The lone pair of electrons on the nitrogen is delocalized into the carbonyl, thus forming a partial double bond between N and the carbonyl carbon. Consequently, the nitrogen in amides is not pyramidal. It is estimated that acetamide is described by resonance structure A for 62% and by B for 28% (which does not sum to 100% because there are additional resonance forms that are not depicted in the above Figure). One final thing to note when looking at the bonds of an amide is that there is also a hydrogen bond present between the active groups hydrogen and nitrogen atoms.[6] Formamide-MO-3D-balls.png spread over the O, C and N atoms, consisting of molecular orbitals occupied by delocalized electrons. One of the π molecular orbitals in formamide is shown above.]]
+
+The lone pair of electrons on the nitrogen is delocalized into the carbonyl, thus forming a partial double bond between N and the carbonyl carbon. Consequently, the nitrogen in amides is not pyramidal. It is estimated that acetamide is described by resonance structure A for 62% and by B for 28% (which does not sum to 100% because there are additional resonance forms that are not depicted in the above Figure). One final thing to note when looking at the bonds of an amide is that there is also a hydrogen bond present between the active groups hydrogen and nitrogen atoms.[6] spread over the O, C and N atoms, consisting of molecular orbitals occupied by delocalized electrons. One of the π molecular orbitals in formamide is shown above.]]
 
 
 Nomenclature
@@ -66,8 +66,8 @@ Many methods are known for driving the equilibrium to the right. For the most pa
   Willgerodt–Kindler reaction                       Aryl alkyl ketones                                                    Sulfur and morpholine
   Passerini reaction                                Carboxylic acid, ketone or aldehyde
   Ugi reaction                                      Isocyanide, carboxylic acid, ketone, primary amine
-  Bodroux reaction[17][18]                          Carboxylic acid, Grignard reagent with an aniline derivative ArNHR′   Bodroux_reaction.svg
-  Chapman rearrangement[19][20]                     Aryl imino ether                                                      For _N_,_N_-diaryl amides. The reaction mechanism is based on a nucleophilic aromatic substitution.[21] Left
+  Bodroux reaction[17][18]                          Carboxylic acid, Grignard reagent with an aniline derivative ArNHR′
+  Chapman rearrangement[19][20]                     Aryl imino ether                                                      For _N_,_N_-diaryl amides. The reaction mechanism is based on a nucleophilic aromatic substitution.[21]
   Leuckart amide synthesis[22]                      Isocyanate                                                            Reaction of arene with isocyanate catalysed by aluminium trichloride, formation of aromatic amide.
   Ritter reaction[23]                               Alkenes, alcohols, or other carbonium ion sources                     Secondary amides via an addition reaction between a nitrile and a carbonium ion in the presence of concentrated acids.
   Photolytic addition of formamide to olefins[24]   Terminal alkenes                                                      A free radical homologation reaction between a terminal alkene and formamide.
@@ -78,7 +78,7 @@ Other methods
 
 Dehydrogenative acylation of amines is catalyzed by organoruthenium complexes:[28]
 
-    DehydrogenativeAmidation.svg
+
 
 The reaction proceed by one dehydrogenation of the alcohol to the aldehyde followed by formation of a hemiaminal, which undergoes a second dehydrogenation to the amide. Elimination of water in the hemiaminal to the imine is not observed.
 
@@ -91,7 +91,7 @@ Primary amides (RC(O)NH₂) are more amenable to this reaction.
 
 Amide reactions
 
-    320 px
+
 
 Amides undergo many chemical reactions, although they are less reactive than esters. Amides hydrolyse in hot alkali as well as in strong acidic conditions. Acidic conditions yield the carboxylic acid and the ammonium ion while basic hydrolysis yield the carboxylate ion and ammonia. Amides are also versatile precursors to many other functional groups. Electrophiles attack the carbonyl oxygen. This step often precedes hydrolysis, which is catalyzed by both Brønsted acids and Lewis acids. Enzymes, e.g. peptidases and artificial catalysts, are known to accelerate the hydrolysis reactions.
 

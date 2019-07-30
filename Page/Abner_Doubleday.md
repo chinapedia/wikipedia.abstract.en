@@ -9,7 +9,7 @@ Doubleday, the son of Ulysses F. Doubleday and Hester Donnelly, was born in Ball
 
 Early commands and Fort Sumter
 
-Abner_Doubleday_at_Fort_Sumter,_SC_IMG_4534.JPG National Monument in Charleston harbor]] Fort_Sumter_Medal.JPG Medal bearing the likeness of Major Robert Anderson which was presented to Abner Doubleday]] Doubleday initially served in coastal garrisons and then in the Mexican–American War from 1846 to 1848 and the Seminole Wars from 1856 to 1858. In 1858 he was transferred to Fort Moultrie in Charleston Harbor serving under Colonel John L. Gardner. By the start of the Civil War, he was a captain and second in command in the garrison at Fort Sumter, under Major Robert Anderson.[8] He aimed the cannon that fired the first return shot in answer to the Confederate bombardment on April 12, 1861. He subsequently referred to himself as the "hero of Sumter" for this role.[9]
+National Monument in Charleston harbor]] Medal bearing the likeness of Major Robert Anderson which was presented to Abner Doubleday]] Doubleday initially served in coastal garrisons and then in the Mexican–American War from 1846 to 1848 and the Seminole Wars from 1856 to 1858. In 1858 he was transferred to Fort Moultrie in Charleston Harbor serving under Colonel John L. Gardner. By the start of the Civil War, he was a captain and second in command in the garrison at Fort Sumter, under Major Robert Anderson.[8] He aimed the cannon that fired the first return shot in answer to the Confederate bombardment on April 12, 1861. He subsequently referred to himself as the "hero of Sumter" for this role.[9]
 
 Brigade and division command in Virginia
 
@@ -19,7 +19,7 @@ Doubleday again led the division, now assigned to the I Corps of the Army of the
 
 Gettysburg
 
-DoubledayBirthplace.jpg Doubleday_and_wife_(1).jpg At the start of the Battle of Gettysburg, July 1, 1863, Doubleday's division was the second infantry division on the field to reinforce the cavalry division of Brigadier General John Buford. When his corps commander, Major General John F. Reynolds, was killed very early in the fighting, Doubleday found himself in command of the corps at 10:50 am. His men fought well in the morning, putting up a stout resistance, but as overwhelming Confederate forces massed against them, their line eventually broke and they retreated back through the town of Gettysburg to the relative safety of Cemetery Hill south of town. It was Doubleday's finest performance during the war, five hours leading 9,500 men against ten Confederate brigades that numbered more than 16,000. Seven of those brigades sustained casualties that ranged from 35 to 50 percent, indicating the ferocity of the Union defense. On Cemetery Hill, however, the I Corps could muster only a third of its men as effective for duty, and the corps was essentially destroyed as a combat force for the rest of the battle; it would be decommissioned in March 1864, its surviving units consolidated into other corps.[15]
+At the start of the Battle of Gettysburg, July 1, 1863, Doubleday's division was the second infantry division on the field to reinforce the cavalry division of Brigadier General John Buford. When his corps commander, Major General John F. Reynolds, was killed very early in the fighting, Doubleday found himself in command of the corps at 10:50 am. His men fought well in the morning, putting up a stout resistance, but as overwhelming Confederate forces massed against them, their line eventually broke and they retreated back through the town of Gettysburg to the relative safety of Cemetery Hill south of town. It was Doubleday's finest performance during the war, five hours leading 9,500 men against ten Confederate brigades that numbered more than 16,000. Seven of those brigades sustained casualties that ranged from 35 to 50 percent, indicating the ferocity of the Union defense. On Cemetery Hill, however, the I Corps could muster only a third of its men as effective for duty, and the corps was essentially destroyed as a combat force for the rest of the battle; it would be decommissioned in March 1864, its surviving units consolidated into other corps.[15]
 
 On July 2, 1863, Army of the Potomac commander Maj. Gen. George G. Meade replaced Doubleday with Major General John Newton, a more junior officer from another corps. The ostensible reason was a false report by XI Corps commander Major General Oliver O. Howard that Doubleday's corps broke first, causing the entire Union line to collapse, but Meade also had a long history of disdain for Doubleday's combat effectiveness, dating back to South Mountain. Doubleday was humiliated by this snub and held a lasting grudge against Meade, but he returned to division command and fought well for the remainder of the battle.[16] He was wounded in the neck on the second day of Gettysburg and received a brevet promotion to colonel in the regular army for his service.[17] He formally requested reinstatement as I Corps commander, but Meade refused, and Doubleday left Gettysburg on July 7 for Washington.[18]
 
@@ -46,7 +46,7 @@ In the summer of 1878, Doubleday lived in Mendham Township, New Jersey, and beca
 
 Death
 
-Abner_Doubleday_(18988417840).jpg Doubleday died of heart disease in 1893. Doubleday's body was laid in state in New York's City Hall and then was taken to Washington by train[24] from Mendham Township, and is buried in Arlington National Cemetery in Arlington, Virginia.[25]
+Doubleday died of heart disease in 1893. Doubleday's body was laid in state in New York's City Hall and then was taken to Washington by train[24] from Mendham Township, and is buried in Arlington National Cemetery in Arlington, Virginia.[25]
 
 
 Baseball
@@ -64,7 +64,7 @@ There may have been some relationship to baseball as a national sport and Abner 
 
 Namesakes and honors
 
-Abner_Doubleday_monument_Ballston_Spa,_NY.jpg There is a monument to Doubleday at Gettysburg erected by his men, admirers, and the state of New York.[30] There is a obelisk monument at Arlington National Cemetery where he is buried.[31] Doubleday Field is a minor league baseball stadium named for Abner Doubleday, located in Cooperstown, New York, near the Baseball Hall of Fame.[32] It hosted the annual Hall of Fame Game, an exhibition game between two major league teams that was played from 1940 until 2008.[33]
+There is a monument to Doubleday at Gettysburg erected by his men, admirers, and the state of New York.[30] There is a obelisk monument at Arlington National Cemetery where he is buried.[31] Doubleday Field is a minor league baseball stadium named for Abner Doubleday, located in Cooperstown, New York, near the Baseball Hall of Fame.[32] It hosted the annual Hall of Fame Game, an exhibition game between two major league teams that was played from 1940 until 2008.[33]
 
 The Auburn Doubledays are a minor league baseball team based in Doubleday's hometown of Auburn, New York.[34]
 

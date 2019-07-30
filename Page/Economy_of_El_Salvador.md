@@ -28,8 +28,6 @@ In recent years inflation has fallen to single digit levels, and total exports h
 
 Agriculture
 
-Cotton-UsulutanSV.jpg
-
 The ultimate goal was to develop a rural middle class with a stake in a peaceful and prosperous future for El Salvador. At least 525,000 people—more than 12% of El Salvador's population at the time and perhaps 25% of the rural poor—benefited from agrarian reform, and more than 22% of El Salvador's total farmland was transferred to those who previously worked the land but did not own it. But when agrarian reform ended in 1990, about 150,000 landless families still had not benefited from the reform actions.
 
 The 1992 peace accords made provisions for land transfers to all qualified ex-combatants of both the FMLN and ESAF, as well as to landless peasants living in former conflict areas. The United States undertook to provide $300 million for a national reconstruction plan. This included $60 million for land purchases and $17 million for agricultural credits. USAID remains actively involved in providing technical training, access to credit, and other financial services for many of the land beneficiaries.
@@ -44,8 +42,6 @@ In the 21st century, numerous call centers serving North American markets have b
 
 
 Trade
-
-El_Salvador_Export_Treemap.jpg
 
 A challenge in El Salvador has been developing new growth sectors for a more diversified economy. As many other former colonies, for many years El Salvador was considered a monoexporter economy. This means, an economy that depended heavily on one type of export. During colonial times, the Spanish decided that El Salvador would produce and export indigo, but after the invention of synthetic dyes in the 19th century, Salvadoran authorities and the newly created modern state turned to coffee as the main export of the economy.
 

@@ -17,8 +17,6 @@ _Diff'rent Strokes_
 
 _Diff'rent Strokes_ debuted on NBC in 1978, becoming an immediate hit. The show features Phillip Drummond (Conrad Bain), a wealthy white widower in New York City who adopts two black boys after their parents' deaths. Plato played Kimberly, Drummond's teenage daughter, who at the start of the show becomes the adoptive sister of the two boys, Willis (Todd Bridges) and Arnold (Gary Coleman). Plato appeared on the show from 1978 until 1984 and again from 1985 to 1986; during her tenure the show appeared on two different networks.
 
-Dana_Plato_in_1983.jpg
-
 During her years on _Diff'rent Strokes_, Plato struggled with drug and alcohol problems. She admitted to drinking alcohol, and using cannabis and cocaine, and she suffered an overdose of diazepam when she was 14.[7] In December 1983, Plato moved in with her boyfriend, rock guitarist Lanny Lambert. The couple married on April 24, 1984, and their only child, Tyler Edward Lambert, was born on July 2, 1984.[8][9] During this time, Plato was let go from _Diff'rent Strokes_ because the producers did not feel that a pregnancy would fit the show's wholesome image. Although rumors of drug use and other problems on the set surrounded her dismissal, the producers were adamant that Plato's pregnancy was the only reason her character was written out. She returned for six guest appearances during the show's seventh and eighth seasons. In the season 8 episode that aired on January 17, 1986—Plato's final appearance on the show—Kimberly suffers from the effects of bulimia.
 
 

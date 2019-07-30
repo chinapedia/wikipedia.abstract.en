@@ -24,8 +24,6 @@ Democritus seems to be the earliest philosopher on record to have categorically 
 
 Cyrenaic school
 
-Aristippus.jpg
-
 ]]
 
 The Cyrenaics were an ultra-hedonist Greek school of philosophy founded in the 4th century BC, supposedly by Aristippus of Cyrene, although many of the principles of the school are believed to have been formalized by his grandson of the same name, Aristippus the Younger. The school was so called after Cyrene, the birthplace of Aristippus. It was one of the earliest Socratic schools. The Cyrenaics taught that the only intrinsic good is pleasure, which meant not just the absence of pain, but positively enjoyable momentary sensations. Of these, physical ones are stronger than those of anticipation or memory. They did, however, recognize the value of social obligation, and that pleasure could be gained from altruism. Theodorus the Atheist was a latter exponent of hedonism who was a disciple of younger Aristippus,[7] while becoming well known for expounding atheism. The school died out within a century, and was replaced by Epicureanism.
@@ -37,8 +35,6 @@ Cyrenaicism deduces a single, universal aim for all people which is pleasure. Fu
 Epicureanism
 
 Epicureanism is a system of philosophy based upon the teachings of Epicurus (_c_. 341–_c_. 270 BC), founded around 307 BC. Epicurus was an atomic materialist, following in the steps of Democritus and Leucippus. His materialism led him to a general stance against superstition or the idea of divine intervention. Following Aristippus—about whom very little is known—Epicurus believed that the greatest good was to seek modest, sustainable "pleasure" in the form of a state of tranquility and freedom from fear (ataraxia) and absence of bodily pain (aponia) through knowledge of the workings of the world and the limits of our desires. The combination of these two states is supposed to constitute happiness in its highest form. Although Epicureanism is a form of hedonism, insofar as it declares pleasure as the sole intrinsic good, its conception of absence of pain as the greatest pleasure and its advocacy of a simple life make it different from "hedonism" as it is commonly understood.
-
-Epicurus_bust2.jpg
 
 ]]In the Epicurean view, the highest pleasure (tranquility and freedom from fear) was obtained by knowledge, friendship and living a virtuous and temperate life. He lauded the enjoyment of simple pleasures, by which he meant abstaining from bodily desires, such as sex and appetites, verging on asceticism. He argued that when eating, one should not eat too richly, for it could lead to dissatisfaction later, such as the grim realization that one could not afford such delicacies in the future. Likewise, sex could lead to increased lust and dissatisfaction with the sexual partner. Epicurus did not articulate a broad system of social ethics that has survived but had a unique version of the Golden Rule.
 
@@ -85,8 +81,6 @@ Contemporary proponents of hedonism include Swedish philosopher Torbjörn Tänns
 
 Michel Onfray
 
-Michel_Onfray_2009_2.jpg
-
 A dedicated contemporary hedonist philosopher and writer on the history of hedonistic thought is the French Michel Onfray. He has written two books directly on the subject (_L'invention du plaisir : fragments cyréaniques_[34] and _La puissance d'exister : Manifeste hédoniste_).[35] He defines hedonism "as an introspective attitude to life based on taking pleasure yourself and pleasuring others, without harming yourself or anyone else".[36] Onfray's philosophical project is to define an ethical hedonism, a joyous utilitarianism, and a generalized aesthetic of sensual materialism that explores how to use the brain's and the body's capacities to their fullest extent -- while restoring philosophy to a useful role in art, politics, and everyday life and decisions."[37]
 
 Onfray's works "have explored the philosophical resonances and components of (and challenges to) science, painting, gastronomy, sex and sensuality, bioethics, wine, and writing. His most ambitious project is his projected six-volume Counter-history of Philosophy,"[38] of which three have been published. For him "In opposition to the ascetic ideal advocated by the dominant school of thought, hedonism suggests identifying the highest good with your own pleasure and that of others; the one must never be indulged at the expense of sacrificing the other. Obtaining this balance – my pleasure at the same time as the pleasure of others – presumes that we approach the subject from different angles – political, ethical, aesthetic, erotic, bioethical, pedagogical, historiographical…."
@@ -95,7 +89,7 @@ For this he has "written books on each of these facets of the same world view".[
 
 Abolitionism
 
-David_Pearce_(transhumanist).jpg The Abolitionist Society is a transhumanist group calling for the abolition of suffering in all sentient life through the use of advanced biotechnology. Their core philosophy is negative utilitarianism. David Pearce is a theorist of this perspective and he believes and promotes the idea that there exists a strong ethical imperative for humans to work towards the abolition of suffering in all sentient life. His book-length internet manifesto _The Hedonistic Imperative_[41] outlines how technologies such as genetic engineering, nanotechnology, pharmacology, and neurosurgery could potentially converge to eliminate all forms of unpleasant experience among human and non-human animals, replacing suffering with gradients of well-being, a project he refers to as "paradise engineering".[42] A transhumanist and a vegan,[43] Pearce believes that we (or our future posthuman descendants) have a responsibility not only to avoid cruelty to animals within human society but also to alleviate the suffering of animals in the wild.
+The Abolitionist Society is a transhumanist group calling for the abolition of suffering in all sentient life through the use of advanced biotechnology. Their core philosophy is negative utilitarianism. David Pearce is a theorist of this perspective and he believes and promotes the idea that there exists a strong ethical imperative for humans to work towards the abolition of suffering in all sentient life. His book-length internet manifesto _The Hedonistic Imperative_[41] outlines how technologies such as genetic engineering, nanotechnology, pharmacology, and neurosurgery could potentially converge to eliminate all forms of unpleasant experience among human and non-human animals, replacing suffering with gradients of well-being, a project he refers to as "paradise engineering".[42] A transhumanist and a vegan,[43] Pearce believes that we (or our future posthuman descendants) have a responsibility not only to avoid cruelty to animals within human society but also to alleviate the suffering of animals in the wild.
 
 In a talk David Pearce gave at the Future of Humanity Institute and at the Charity International 'Happiness Conference' he said
 

@@ -7,8 +7,6 @@ He succeeded his father as king in 272 BC, and continued the war which his fathe
 
 Alexander married his paternal half-sister Olympias, by whom he had two sons, Pyrrhus ΙΙ, Ptolemy ΙΙ and a daughter, Phthia. On the death of Alexander, around 242 BC, Olympias assumed the regency on behalf of her sons, and married Phthia to Demetrius.[3] There are extant silver and copper coins of this king. The former bear a youthful head covered with the skin of an elephant's head. The reverse represents Pallas holding a spear in one hand and a shield in the other, and before her stands an eagle on a thunderbolt.[4][5][6]
 
-Arte_ellenistica,_alessandro_d'epiro,_agata,_260_ac._ca.JPG
-
 
 References
 

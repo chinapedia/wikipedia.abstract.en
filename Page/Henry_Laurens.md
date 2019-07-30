@@ -1,4 +1,4 @@
-Henry_Laurens_in_National_Portrait_Gallery_IMG_4473.JPG in the National Portrait Gallery in Washington, D.C.]]
+in the National Portrait Gallery in Washington, D.C.]]
 
 HENRY LAURENS (December 8, 1792) was an American merchant, slave trader, and rice planter from South Carolina who became a political leader during the Revolutionary War. A delegate to the Second Continental Congress, Laurens succeeded John Hancock as President of the Congress. He was a signatory to the Articles of Confederation and President of the Continental Congress when the Articles were passed on November 15, 1777.
 
@@ -23,7 +23,7 @@ He married Eleanor Ball, also of a South Carolina rice planter family, on June 2
 
 Political career
 
-Henry_Laurens_engraved_portrait_1784_(cropped).jpg Henry Laurens served in the militia, as did most able-bodied men in his time. He rose to the rank of Lt. Colonel in the campaigns against the Cherokee Indians in 1757–1761, during the French and Indian War (also known as the Seven Years' War).
+Henry Laurens served in the militia, as did most able-bodied men in his time. He rose to the rank of Lt. Colonel in the campaigns against the Cherokee Indians in 1757–1761, during the French and Indian War (also known as the Seven Years' War).
 
 1757 also marked the first year he was elected to the colonial assembly. Laurens was elected again every year but one until the Revolution replaced the assembly with a state Convention as an interim government. The year he missed was 1773, when he visited England to arrange for his sons' educations. He was named to the colony's Council in 1764 and 1768, but declined both times. In 1772 he joined the American Philosophical Society of Philadelphia, and carried on extensive correspondence with other members.
 
@@ -41,7 +41,7 @@ In 1783 Laurens was sent to Paris as one of the Peace Commissioners for the nego
 
 Laurens generally retired from public life in 1784. He was sought for a return to the Continental Congress, the Constitutional Convention in 1787 and the state assembly, but he declined all of these positions. He did serve in the state convention of 1788, where he voted to ratify the United States Constitution.
 
-1784_HenryLaurens_byJNorman_BostonMagazine_Sept.png,'' 1784; engraving by John Norman]]
+,'' 1784; engraving by John Norman]]
 
 
 Later events

@@ -1,4 +1,4 @@
-DART_Unit_8203.jpg is part of Dublin's commuter rail network. It is operated by a fleet of Electric Multiple Units.]] Trem_Linha_Coral_CPTM.jpg train on the Coral Line in São Paulo, Brazil.]] Z20500lm.jpg train from Paris's RER line D running an old "ZYCK" (now renamed "ZUCO") route towards Melun]] AMA_103_at_Puhinui.jpg electric multiple unit used in Auckland, New Zealand]]
+is part of Dublin's commuter rail network. It is operated by a fleet of Electric Multiple Units.]] train on the Coral Line in São Paulo, Brazil.]] train from Paris's RER line D running an old "ZYCK" (now renamed "ZUCO") route towards Melun]] electric multiple unit used in Auckland, New Zealand]]
 
 COMMUTER RAIL, also called SUBURBAN RAIL, is a passenger rail transport service that primarily operates between a city centre and middle to outer suburbs beyond 15 km (10 miles) and commuter towns or other locations that draw large numbers of commuters—people who travel on a daily basis. Trains operate following a schedule at speeds varying from 50 to 225 km/h (30 to 140 mph). Distance charges or zone pricing may be used.
 
@@ -7,7 +7,7 @@ Non-English names include _Treno suburbano_ in Italian, _Cercanías_ in Spanish,
 
 Characteristics
 
-Mumbai_Train.JPG carries more than 7.24 million commuters on a daily basis]] GO_Transit_Bombardier_Bilevel_CEM_322.JPG serves the Golden Horseshoe region surrounding Toronto. Its train service is rapidly transitioning from commuter rail to a full regional express network.]]
+carries more than 7.24 million commuters on a daily basis]] serves the Golden Horseshoe region surrounding Toronto. Its train service is rapidly transitioning from commuter rail to a full regional express network.]]
 
 Most commuter (or suburban) trains are built to main line rail standards, differing from light rail or rapid transit (metro rail) systems by:
 
@@ -52,7 +52,7 @@ Regional rail does not exist in this sense in the United States, so the term "re
 
 Inter-city rail
 
-Cityrail-oscar-h3-sydcen.jpg H set at Sydney's Central station.]] In some European countries the distinction between commuter trains and long-distance/intercity trains is very hard to make, because of the relatively short distances involved. For example, so-called "intercity" trains in Belgium and the Netherlands carry many commuters and their equipment, range and speeds are similar to those of commuter trains in some larger countries. In the United Kingdom there is no real division of organisation and brand name between commuter, regional and inter-city trains, making it hard to categorize train connections.
+H set at Sydney's Central station.]] In some European countries the distinction between commuter trains and long-distance/intercity trains is very hard to make, because of the relatively short distances involved. For example, so-called "intercity" trains in Belgium and the Netherlands carry many commuters and their equipment, range and speeds are similar to those of commuter trains in some larger countries. In the United Kingdom there is no real division of organisation and brand name between commuter, regional and inter-city trains, making it hard to categorize train connections.
 
 Russian commuter trains, on the other hand, frequently cover areas larger than Belgium itself, although these are still short distances by Russian standards. They have a different ticketing system from long-distance trains, and in major cities they often operate from a separate section of the train station.
 
@@ -73,11 +73,11 @@ Commuter/suburban trains are usually optimized for maximum passenger volume, in 
 
 Multiple unit type
 
-E235系_山手線＠有楽町.jpg on the Yamanote Line operated by JR East in Tokyo, Japan]] Commuter rail trains are usually composed of multiple units, which are self-propelled, bidirectional, articulated passenger rail cars with driving motors on each (or every other) bogie. Depending on local circumstances and tradition they may be powered either by diesel engines located below the passenger compartment (diesel multiple units) or by electricity picked up from third rails or overhead lines (electric multiple units). Multiple units are almost invariably equipped with control cabs at both ends, which is why such units are so frequently used to provide commuter services, due to the associated short turn-around time.
+on the Yamanote Line operated by JR East in Tokyo, Japan]] Commuter rail trains are usually composed of multiple units, which are self-propelled, bidirectional, articulated passenger rail cars with driving motors on each (or every other) bogie. Depending on local circumstances and tradition they may be powered either by diesel engines located below the passenger compartment (diesel multiple units) or by electricity picked up from third rails or overhead lines (electric multiple units). Multiple units are almost invariably equipped with control cabs at both ends, which is why such units are so frequently used to provide commuter services, due to the associated short turn-around time.
 
 Locomotive hauled services
 
-ACE_EMD_F40PH_Fremont_-_San_Jose.jpg train operating along the San Francisco Bay; a MPI F40PH-2C locomotive hauls a consist of Bombardier Bi-Level VI coaches.]] Locomotive hauled services are used in some countries or locations. This is often a case of asset sweating, by using a single large combined fleet for intercity and regional services. Loco hauled services are usually run in push-pull formation, that is, the train can run with the locomotive at the "front" or "rear" of the train (pushing or pulling). Trains are often equipped with a control cab at the other end of the train from the locomotive, allowing the train operator to operate the train from either end. The motive power for locomotive-hauled commuter trains may be either electric or diesel-electric, although some countries, such as Germany and some of the former Soviet-bloc countries, also use diesel-hydraulic locomotives.
+train operating along the San Francisco Bay; a MPI F40PH-2C locomotive hauls a consist of Bombardier Bi-Level VI coaches.]] Locomotive hauled services are used in some countries or locations. This is often a case of asset sweating, by using a single large combined fleet for intercity and regional services. Loco hauled services are usually run in push-pull formation, that is, the train can run with the locomotive at the "front" or "rear" of the train (pushing or pulling). Trains are often equipped with a control cab at the other end of the train from the locomotive, allowing the train operator to operate the train from either end. The motive power for locomotive-hauled commuter trains may be either electric or diesel-electric, although some countries, such as Germany and some of the former Soviet-bloc countries, also use diesel-hydraulic locomotives.
 
 Seat plans
 
@@ -90,13 +90,13 @@ Commuter rail systems around the world
 
 Africa
 
-Kalk_Bay_Station_3.jpg train pulling out of Kalk Bay station in Cape Town]] Currently there are not many examples of commuter rail in Africa. Metrorail operates in the major cities of South Africa, and there are some commuter rail services in Algeria, Botswana, Kenya, Morocco, Egypt and Tunisia. In Algeria, SNTF operates commuter rail lines between the capital Algiers and its southern and eastern suburbs. They also serve to connect Algiers' main universities to each other. The Dar es Salaam commuter rail offers intracity services in Dar es Salaam, Tanzania. In Botswana, the (Botswana Railways) "BR Express" has a commuter train between Lobatse and Gaborone.
+train pulling out of Kalk Bay station in Cape Town]] Currently there are not many examples of commuter rail in Africa. Metrorail operates in the major cities of South Africa, and there are some commuter rail services in Algeria, Botswana, Kenya, Morocco, Egypt and Tunisia. In Algeria, SNTF operates commuter rail lines between the capital Algiers and its southern and eastern suburbs. They also serve to connect Algiers' main universities to each other. The Dar es Salaam commuter rail offers intracity services in Dar es Salaam, Tanzania. In Botswana, the (Botswana Railways) "BR Express" has a commuter train between Lobatse and Gaborone.
 
 Asia
 
 East Asia
 
-Tokyo_metro_16000.JPG is representative of Japanese commuter rail.]]
+is representative of Japanese commuter rail.]]
 
 In Japan, commuter rail systems have extensive network and frequent service and are heavily used. In many cases, Japanese commuter rail is operationally more like a typical metro system (with very high operating frequencies, an emphasis on standing passengers, short station spacing) than it is like commuter rail in other countries. Japanese commuter rail also tends to be heavily interlined with subway lines, with commuter rail trains continuing into the subway network, and then out onto different commuter rail systems on the other side of the city. Many Japanese commuter systems operate several levels of express trains to reduce the travel time to distant locations, often using station bypass tracks instead of dedicated express tracks. It is notable that the larger Japanese commuter rail systems are owned and operated by for-profit private railway companies, without public subsidy.
 
@@ -108,7 +108,7 @@ Other examples in Asia include Seoul Metropolitan Subway of which some lines are
 
 Southeast Asia
 
-Commuterline_at_Palmerah_Station_4.JPG Serpong Line train at Palmerah Station, Jakarta]]
+Serpong Line train at Palmerah Station, Jakarta]]
 
 In Indonesia, the KRL Commuterline is the largest commuter rail system in the country, serving Jakarta metropolitan area. It connects Jakarta city center with surrounding cities and sub-urbans in Banten and West Java provinces, including Depok, Bogor, Tangerang, Bekasi, Serpong and Maja. In July 2015, KA Commuter Jabodetabek served more than 850,000 passengers per day, which is almost triple of the 2011 figures, but still less than 3.5% of all Jabodetabek commutes.[4]
 
@@ -122,7 +122,7 @@ In Iran, SYSTRA has done a "Tehran long term urban rail study". SYSTRA proposed 
 
 Europe
 
-Ny_pendeltag_stockholm.jpg at Stockholm Central in Sweden]] Major metropolitan areas in most European countries are usually served by extensive commuter/suburban rail systems. Well-known examples include BG Voz in Belgrade (Serbia), S-Bahn in Germany and German-speaking areas of Switzerland and Austria, Proastiakos in Greece, RER in France and Belgium, suburban lines in Milan (Italy), Cercanías and Rodalies (Catalonia) in Spain, CP Urban Services in Portugal, Esko in Prague and Ostrava (Czech Republic), HÉV in Budapest (Hungary) and DART in Dublin (Ireland).
+at Stockholm Central in Sweden]] Major metropolitan areas in most European countries are usually served by extensive commuter/suburban rail systems. Well-known examples include BG Voz in Belgrade (Serbia), S-Bahn in Germany and German-speaking areas of Switzerland and Austria, Proastiakos in Greece, RER in France and Belgium, suburban lines in Milan (Italy), Cercanías and Rodalies (Catalonia) in Spain, CP Urban Services in Portugal, Esko in Prague and Ostrava (Czech Republic), HÉV in Budapest (Hungary) and DART in Dublin (Ireland).
 
 In Russia, Ukraine and some other countries of the former Soviet Union, electrical multiple unit passenger suburban trains called Elektrichka are widespread.
 
@@ -138,7 +138,7 @@ Americas
 
 North and Central America
 
-Metrolink_F59PHI_885.jpg In the United States, Canada, Costa Rica, El Salvador and Mexico regional passenger rail services are provided by governmental or quasi-governmental agencies, with a limited number of metropolitan areas served.
+In the United States, Canada, Costa Rica, El Salvador and Mexico regional passenger rail services are provided by governmental or quasi-governmental agencies, with a limited number of metropolitan areas served.
 
 Eight commuter rail systems in the United States carried over ten million trips in 2018:
 
@@ -181,11 +181,11 @@ North American commuter rail systems outside of the United States include:
 
 South America
 
-EMU_CSR_M20_en_Barrancas.jpg is part of the extensive Buenos Aires metropolitan rail system.]] Examples include an commuter system in the Buenos Aires metropolitan area, the long Supervia in Rio de Janeiro, the Metrotrén in Santiago, Chile, and the Valparaíso Metro in Valparaíso, Chile. Another example is Companhia Paulista de Trens Metropolitanos (CPTM) in Greater São Paulo, Brazil. CPTM has 93 stations with six lines, numbered starting on 7 (the lines 1 to 6 and the line 15 belong to the São Paulo Metro), with a total length of .
+is part of the extensive Buenos Aires metropolitan rail system.]] Examples include an commuter system in the Buenos Aires metropolitan area, the long Supervia in Rio de Janeiro, the Metrotrén in Santiago, Chile, and the Valparaíso Metro in Valparaíso, Chile. Another example is Companhia Paulista de Trens Metropolitanos (CPTM) in Greater São Paulo, Brazil. CPTM has 93 stations with six lines, numbered starting on 7 (the lines 1 to 6 and the line 15 belong to the São Paulo Metro), with a total length of .
 
 Oceania
 
-Siemens_train_in_Metro_Trains_Melbourne_Livery.jpg The five major cities in Australia have suburban railway systems in their metropolitan areas. These networks have frequent services, with frequencies varying from every 10 to every 30 minutes on most suburban lines, and up to 3–5 minutes in peak on bundled underground lines in the city centres of Sydney, Brisbane, Perth and Melbourne. The networks in each state developed from mainline railways and have never been completely operationally separate from long distance and freight traffic, unlike metro systems in some comparable countries, but nevertheless have cohesive identities and are the backbones of their respective cities' public transport system. The suburban networks are all completely electrified, apart from Adelaide's, which still operates diesel services on most of its lines.
+The five major cities in Australia have suburban railway systems in their metropolitan areas. These networks have frequent services, with frequencies varying from every 10 to every 30 minutes on most suburban lines, and up to 3–5 minutes in peak on bundled underground lines in the city centres of Sydney, Brisbane, Perth and Melbourne. The networks in each state developed from mainline railways and have never been completely operationally separate from long distance and freight traffic, unlike metro systems in some comparable countries, but nevertheless have cohesive identities and are the backbones of their respective cities' public transport system. The suburban networks are all completely electrified, apart from Adelaide's, which still operates diesel services on most of its lines.
 
 The main operators of suburban rail in Australia are:
 

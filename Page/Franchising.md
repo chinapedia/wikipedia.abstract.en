@@ -26,7 +26,7 @@ It was not until the 1960s and 1970s that people began to take a close look at t
 
 Largest franchised chains
 
-Pizza_Hut_(SM_City_BF_Parañaque_branch)_storefront.jpg franchise]]
+franchise]]
 
 The following U.S. listing tabulates[5] the early 2010 ranking of major franchises along with the number of sub-franchisees (or partners) from data available for 2004.[6] The United States is a leader in franchising, a position it has held since the 1930s when it used the approach for fast-food restaurants, food inns and, slightly later, motels at the time of the Great Depression[7]. As of 2005, there were 909,253 established franchised businesses, generating $880.9 billion of output and accounting for 8.1 percent of all private, non-farm jobs. This amounts to 11 million jobs, and 4.4 percent of all private sector output.[8]
 

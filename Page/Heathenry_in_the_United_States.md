@@ -1,4 +1,4 @@
-Mjollnir_icon.png, the hammer of Thor, is one of the major symbols of Ásatrú.]] Heathenry is a modern Pagan new religious movement that has been active in the United States since at least the early 1970s. Although the term "Heathenry" is often employed to cover the entire religious movement, different Heathen groups within the United States often prefer the term "Ásatrú" or "Odinism" as self-designations.
+, the hammer of Thor, is one of the major symbols of Ásatrú.]] Heathenry is a modern Pagan new religious movement that has been active in the United States since at least the early 1970s. Although the term "Heathenry" is often employed to cover the entire religious movement, different Heathen groups within the United States often prefer the term "Ásatrú" or "Odinism" as self-designations.
 
 Heathenry appeared in the United States during the 1960s, at the same time as the wider emergence of modern Paganism in the United States. Among the earliest American group was the Odinist Fellowship, founded by Danish migrant Else Christensen in 1969.
 

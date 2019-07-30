@@ -1,4 +1,4 @@
-Square_root_of_2_triangle.svg of a right triangle with legs of length and is therefore a CONSTRUCTIBLE NUMBER]]
+of a right triangle with legs of length and is therefore a CONSTRUCTIBLE NUMBER]]
 
 In geometry and algebra, a real number is CONSTRUCTIBLE if and only if, given a line segment of unit length, a line segment of length || can be constructed with compass and straightedge in a finite number of steps.[1][2] Not all real numbers are constructible and to describe those that are, algebraic techniques are usually employed. However, in order to employ those techniques, it is useful to first associate points with constructible numbers.
 
@@ -64,8 +64,6 @@ See here a list of trigonometric numbers expressed in terms of square roots.
 
 
 Impossible constructions
-
-Academ_existence_of_square_root_of_2.svg
 
 The ancient Greeks thought that certain construction problems they could not solve were simply obstinate, not unsolvable.[22] However, the non-constructibility of certain numbers proves them to be logically impossible to perform. (The problems themselves, however, are solvable, and the Greeks knew how to solve them, _without_ the constraint of working only with straightedge and compass.)
 

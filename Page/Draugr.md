@@ -37,7 +37,7 @@ The main indication that a deceased person will become a draugr is that the corp
 
 Means of prevention
 
-Noerre_Naeraa_Kirke_Runesten.jpg Traditionally, a pair of open iron scissors was placed on the chest of the recently deceased, and straws or twigs might be hidden among their clothes. The big toes were tied together or needles were driven through the soles of the feet in order to keep the dead from being able to walk. Tradition also held that the coffin should be lifted and lowered in three different directions as it was carried from the house to confuse a possible draugr's sense of direction.
+Traditionally, a pair of open iron scissors was placed on the chest of the recently deceased, and straws or twigs might be hidden among their clothes. The big toes were tied together or needles were driven through the soles of the feet in order to keep the dead from being able to walk. Tradition also held that the coffin should be lifted and lowered in three different directions as it was carried from the house to confuse a possible draugr's sense of direction.
 
 The most effective means of preventing the return of the dead was believed to be a corpse door, a special door through which the corpse was carried feet-first with people surrounding it so that the corpse couldn't see where it was going. The door was then bricked up to prevent a return. It is speculated that this belief began in Denmark and spread throughout the Norse culture, founded on the idea that the dead could only leave through the way they entered.
 
@@ -62,8 +62,6 @@ A somewhat ambivalent, alternative view of the draugr is presented by the exampl
 In the _Eyrbyggja saga_, a shepherd is assaulted by a blue-black draugr. The shepherd's neck is broken during the ensuing scuffle. The shepherd rises the next night as a draugr.[24]
 
 Recent
-
-Draug.jpg
 
 In more recent Scandinavian folklore, the draug (the modern spelling used in Denmark, Norway, and Sweden) is often identified with the spirits of mariners drowned at sea. The creature is said to possess a distinctly human form, with the exception that its head is composed entirely of seaweed. In other tellings, the draug is described as being a headless fisherman, dressed in oilskin and sailing in half a boat (the Norwegian municipality of Bø, Nordland has the half-boat in its coat-of-arms). This trait is common in the northernmost part of Norway, where life and culture was based on fishing more than anywhere else. The reason for this may be that the fishermen often drowned in great numbers, and the stories of restless dead coming in from sea were more common in the north than any other region of the country.
 

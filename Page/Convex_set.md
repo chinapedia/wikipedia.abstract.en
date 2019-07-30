@@ -1,5 +1,3 @@
-Convex_polygon_illustration1.svg Convex_polygon_illustration2.svg
-
 In geometry, a CONVEX SET or a CONVEX REGION is a subset of a Euclidean space, or more generally an affine space over the reals, that intersects every line into a line segment (possibly empty).[1][2] Equivalently, this is a subset that is closed under convex combinations.[3] For example, a solid cube is a convex set, but anything that is hollow or has an indent, for example, a crescent shape, is not convex.
 
 The boundary of a convex set is always a convex curve. The intersection of all the convex sets that contain a given subset of Euclidean space is called the convex hull of . It is the smallest convex set containing .
@@ -11,7 +9,7 @@ The notion of a convex set can be generalized as described below.
 
 Definitions
 
-Convex_supergraph.svg is convex if and only if its epigraph, the region (in green) above its graph (in blue), is a convex set.]] Let be a vector space or an affine space over the real numbers, or, more generally, over some ordered field. This includes Euclidean spaces, which are affine spaces. A subset of is CONVEX if, for all and in , the line segment connecting and is included in . This means that the affine combination belongs to , for all and in , and in the interval . This implies that convexity (the property of being convex) is invariant under affine transformations. This implies also that a convex set in a real or complex topological vector space is path-connected, thus connected.
+is convex if and only if its epigraph, the region (in green) above its graph (in blue), is a convex set.]] Let be a vector space or an affine space over the real numbers, or, more generally, over some ordered field. This includes Euclidean spaces, which are affine spaces. A subset of is CONVEX if, for all and in , the line segment connecting and is included in . This means that the affine combination belongs to , for all and in , and in the interval . This implies that convexity (the property of being convex) is invariant under affine transformations. This implies also that a convex set in a real or complex topological vector space is path-connected, thus connected.
 
 A set is _strictly convex_ if every point on the line segment connecting and other than the endpoints is inside the interior of .
 
@@ -74,7 +72,7 @@ The intersection of any collection of convex sets is itself convex, so the conve
 
 Minkowski addition
 
-Minkowski_sum_graph_-_vector_version.svg of sets. The sum of the squares Q₁=[0,1]² and Q₂=[1,2]² is the square Q₁+Q₂=[1,3]².]]
+of sets. The sum of the squares Q₁=[0,1]² and Q₂=[1,2]² is the square Q₁+Q₂=[1,3]².]]
 
 In a real vector-space, the _Minkowski sum_ of two (non-empty) sets, and , is defined to be the set formed by the addition of vectors element-wise from the summand-sets
 

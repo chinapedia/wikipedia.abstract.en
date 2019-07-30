@@ -1,4 +1,4 @@
-Christianity_percent_population_in_each_nation_World_Map_Christian_data_by_Pew_Research.svg CHRISTENDOM[1][2] has several meanings. In one contemporary sense, as used in a secular or Protestant context, it may refer to the "Christian world": Christian-majority countries and the countries in which Christianity dominates[3] or prevails,[4] or, in the historic, Catholic sense of the word, the nations in which Catholic Christianity is the established religion, having a Catholic Christian polity.[5]
+CHRISTENDOM[1][2] has several meanings. In one contemporary sense, as used in a secular or Protestant context, it may refer to the "Christian world": Christian-majority countries and the countries in which Christianity dominates[3] or prevails,[4] or, in the historic, Catholic sense of the word, the nations in which Catholic Christianity is the established religion, having a Catholic Christian polity.[5]
 
 Since the spread of Christianity from the Levant to Europe and North Africa during the early Roman Empire, Christendom has been divided in the pre-existing Greek East and Latin West. Consequently, different versions of the Christian religion arose with their own beliefs and practices, centred around the cities of Rome (Western Christianity, whose community was called Western or Latin Christendom[6]) and Constantinople (Eastern Christianity, whose community was called Eastern Christendom[7]). From the 11th to 13th centuries, Latin Christendom rose to the central role of the Western world.[8]
 
@@ -30,7 +30,7 @@ History
 
 Rise of Christendom
 
-T_and_O_map_Guntherus_Ziner_1472.jpg, which abstracts the then known world to a cross inscribed within an orb, remakes geography in the service of Christian iconography. More detailed versions place Jerusalem at the center of the world.]]
+, which abstracts the then known world to a cross inscribed within an orb, remakes geography in the service of Christian iconography. More detailed versions place Jerusalem at the center of the world.]]
 
 In the beginning of Christendom, early Christianity was a religion spread in the Greek/Roman world and beyond as a 1st-century Jewish sect,[16] which historians refer to as Jewish Christianity. It may be divided into two distinct phases: the apostolic period, when the first apostles were alive and organizing the Church, and the post-apostolic period, when an early episcopal structure developed, whereby bishoprics were governed by bishops (overseers).
 
@@ -40,7 +40,7 @@ According to Malcolm Muggeridge (1980), Christ founded Christianity, but Constan
 
 Late Antiquity and Early Middle Ages
 
-Nicaea_icon.jpg and the bishops of the First Council of Nicaea (AD 325) holding the Niceno–Constantinopolitan Creed of 381.]] Spread_of_Christianity_to_AD_600_(1).png up to AD 325)]] "Christendom" has referred to the medieval and renaissance notion of the _Christian world_ as a sociopolitical polity. In essence, the earliest vision of Christendom was a vision of a Christian theocracy, a government founded upon and upholding Christian values, whose institutions are spread through and over with Christian doctrine. In this period, members of the Christian clergy wield political authority. The specific relationship between the political leaders and the clergy varied but, in theory, the national and political divisions were at times subsumed under the leadership of the church as an institution. This model of church-state relations was accepted by various Church leaders and political leaders in European history.[20]
+and the bishops of the First Council of Nicaea (AD 325) holding the Niceno–Constantinopolitan Creed of 381.]] up to AD 325)]] "Christendom" has referred to the medieval and renaissance notion of the _Christian world_ as a sociopolitical polity. In essence, the earliest vision of Christendom was a vision of a Christian theocracy, a government founded upon and upholding Christian values, whose institutions are spread through and over with Christian doctrine. In this period, members of the Christian clergy wield political authority. The specific relationship between the political leaders and the clergy varied but, in theory, the national and political divisions were at times subsumed under the leadership of the church as an institution. This model of church-state relations was accepted by various Church leaders and political leaders in European history.[20]
 
 The Church gradually became a defining institution of the Empire.[21] Emperor Constantine issued the Edict of Milan in 313 proclaiming toleration for the Christian religion, and convoked the First Council of Nicaea in 325 whose Nicene Creed included belief in "one holy catholic and apostolic Church". Emperor Theodosius I made Nicene Christianity the state church of the Roman Empire with the Edict of Thessalonica of 380.[22]
 
@@ -91,7 +91,7 @@ Writing in 1997, Canadian theology professor Douglas John Hall argued that Chris
 
 Classical culture
 
-Wien_-_Stephansdom_(1).JPG.]] Western culture, throughout most of its history, has been nearly equivalent to Christian culture, and many of the population of the Western hemisphere could broadly be described as cultural Christians. The notion of "Europe" and the "Western World" has been intimately connected with the concept of "Christianity and Christendom"; many even attribute Christianity for being the link that created a unified European identity.[55] Historian Paul Legutko of Stanford University said the Catholic Church is "at the center of the development of the values, ideas, science, laws, and institutions which constitute what we call Western civilization."[56]
+.]] Western culture, throughout most of its history, has been nearly equivalent to Christian culture, and many of the population of the Western hemisphere could broadly be described as cultural Christians. The notion of "Europe" and the "Western World" has been intimately connected with the concept of "Christianity and Christendom"; many even attribute Christianity for being the link that created a unified European identity.[55] Historian Paul Legutko of Stanford University said the Catholic Church is "at the center of the development of the values, ideas, science, laws, and institutions which constitute what we call Western civilization."[56]
 
 Though Western culture contained several polytheistic religions during its early years under the Greek and Roman Empires, as the centralized Roman power waned, the dominance of the Catholic Church was the only consistent force in Western Europe.[57] Until the Age of Enlightenment,[58] Christian culture guided the course of philosophy, literature, art, music and science.[59][60] Christian disciplines of the respective arts have subsequently developed into Christian philosophy, Christian art, Christian music, Christian literature etc. Art and literature, law, education, and politics were preserved in the teachings of the Church, in an environment that, otherwise, would have probably seen their loss. The Church founded many cathedrals, universities, monasteries and seminaries, some of which continue to exist today. Medieval Christianity created the first modern universities.[61][62] The Catholic Church established a hospital system in Medieval Europe that vastly improved upon the Roman _valetudinaria_.[63] These hospitals were established to cater to "particular social groups marginalized by poverty, sickness, and age," according to historian of hospitals, Guenter Risse.[64] Christianity also had a strong impact on all other aspects of life: marriage and family, education, the humanities and sciences, the political and social order, the economy, and the arts.[65]
 
@@ -109,13 +109,13 @@ Christian art is art produced in an attempt to illustrate, supplement and portra
 
 Illumination
 
-Codex_Bruchsal_1_01v_cropped.jpg contained in an illuminated manuscript.]] An illuminated manuscript is a manuscript in which the text is supplemented by the addition of decoration. The earliest surviving substantive illuminated manuscripts are from the period AD 400 to 600, primarily produced in Ireland, Constantinople and Italy. The majority of surviving manuscripts are from the Middle Ages, although many illuminated manuscripts survive from the 15th century Renaissance, along with a very limited number from Late Antiquity.
+contained in an illuminated manuscript.]] An illuminated manuscript is a manuscript in which the text is supplemented by the addition of decoration. The earliest surviving substantive illuminated manuscripts are from the period AD 400 to 600, primarily produced in Ireland, Constantinople and Italy. The majority of surviving manuscripts are from the Middle Ages, although many illuminated manuscripts survive from the 15th century Renaissance, along with a very limited number from Late Antiquity.
 
 Most illuminated manuscripts were created as codices, which had superseded scrolls; some isolated single sheets survive. A very few illuminated manuscript fragments survive on papyrus. Most medieval manuscripts, illuminated or not, were written on parchment (most commonly of calf, sheep, or goat skin), but most manuscripts important enough to illuminate were written on the best quality of parchment, called vellum, traditionally made of unsplit calfskin, though high quality parchment from other skins was also called _parchment_.
 
 Iconography
 
-St._Theodor.jpg icon which dates to ca. 900 (from Preslav, Bulgaria).]] Christian art began, about two centuries after Christ, by borrowing motifs from Roman Imperial imagery, classical Greek and Roman religion and popular art. Religious images are used to some extent by the Abrahamic Christian faith, and often contain highly complex iconography, which reflects centuries of accumulated tradition. In the Late Antique period iconography began to be standardised, and to relate more closely to Biblical texts, although many gaps in the canonical Gospel narratives were plugged with matter from the apocryphal gospels. Eventually the Church would succeed in weeding most of these out, but some remain, like the ox and ass in the Nativity of Christ.
+icon which dates to ca. 900 (from Preslav, Bulgaria).]] Christian art began, about two centuries after Christ, by borrowing motifs from Roman Imperial imagery, classical Greek and Roman religion and popular art. Religious images are used to some extent by the Abrahamic Christian faith, and often contain highly complex iconography, which reflects centuries of accumulated tradition. In the Late Antique period iconography began to be standardised, and to relate more closely to Biblical texts, although many gaps in the canonical Gospel narratives were plugged with matter from the apocryphal gospels. Eventually the Church would succeed in weeding most of these out, but some remain, like the ox and ass in the Nativity of Christ.
 
 An icon is a religious work of art, most commonly a painting, from Eastern Christianity. Christianity has used symbolism from its very beginnings.[84] In both East and West, numerous iconic types of Christ, Mary and saints and other subjects were developed; the number of named types of icons of Mary, with or without the infant Christ, was especially large in the East, whereas Christ Pantocrator was much the commonest image of Christ.
 
@@ -125,7 +125,7 @@ Each saint has a story and a reason why he or she led an exemplary life. Symbols
 
 Architecture
 
-Gotic3d2.jpg Christian architecture encompasses a wide range of both secular and religious styles from the foundation of Christianity to the present day, influencing the design and construction of buildings and structures in Christian culture.
+Christian architecture encompasses a wide range of both secular and religious styles from the foundation of Christianity to the present day, influencing the design and construction of buildings and structures in Christian culture.
 
 Buildings were at first adapted from those originally intended for other purposes but, with the rise of distinctively ecclesiastical architecture, church buildings came to influence secular ones which have often imitated religious architecture. In the 20th century, the use of new materials, such as concrete, as well as simpler styles has had its effect upon the design of churches and arguably the flow of influence has been reversed. From the birth of Christianity to the present, the most significant period of transformation for Christian architecture in the west was the Gothic cathedral. In the east, Byzantine architecture was a continuation of Roman architecture.
 
@@ -136,7 +136,7 @@ Christian philosophy is a term to describe the fusion of various fields of philo
 
 Christian civilization
 
-God_the_Geometer.jpg, and particularly geometry and astronomy, was linked directly to the divine for most medieval scholars. Since these Christians believed God imbued the universe with regular geometric and harmonic principles, to seek these principles was therefore to seek and worship God.]]
+, and particularly geometry and astronomy, was linked directly to the divine for most medieval scholars. Since these Christians believed God imbued the universe with regular geometric and harmonic principles, to seek these principles was therefore to seek and worship God.]]
 
 Medieval conditions
 
@@ -157,7 +157,7 @@ Demographics
 
 Geographic spread
 
-Christ_Islam.png versus lack of either religion (2006).]] In 2009, according to the _Encyclopædia Britannica_, Christianity was the majority religion in Europe (including Russia) with 80%, Latin America with 92%, North America with 81%, and Oceania with 79%.[86] There are also large Christian communities in other parts of the world, such as China, India and Central Asia, where Christianity is the second-largest religion after Islam. The United States is home to the world's largest Christian population, followed by Brazil and Mexico.[87]
+versus lack of either religion (2006).]] In 2009, according to the _Encyclopædia Britannica_, Christianity was the majority religion in Europe (including Russia) with 80%, Latin America with 92%, North America with 81%, and Oceania with 79%.[86] There are also large Christian communities in other parts of the world, such as China, India and Central Asia, where Christianity is the second-largest religion after Islam. The United States is home to the world's largest Christian population, followed by Brazil and Mexico.[87]
 
 Many Christians not only live under, but also have an official status in, a state religion of the following nations: Armenia (Armenian Apostolic Church),[88] Costa Rica (Roman Catholic Church),[89] Denmark (Church of Denmark),[90] El Salvador (Roman Catholic Church),[91] England (Church of England),[92] Georgia (Georgian Orthodox church), Greece (Church of Greece), Iceland (Church of Iceland),[93] Liechtenstein (Roman Catholic Church),[94] Malta (Roman Catholic Church),[95] Monaco (Roman Catholic Church),[96] Romania (Romanian Orthodox Church), Norway (Church of Norway),[97] Vatican City (Roman Catholic Church),[98] Switzerland (Roman Catholic Church, Swiss Reformed Church and Christian Catholic Church of Switzerland).
 
@@ -220,10 +220,8 @@ These positions, however, conflict with some biblical precedents, notably with P
 
 Major Christian denominations
 
-  ---------------------------------
-  Christianity_major_branches.svg
-  Protestant_branches.svg
-  ---------------------------------
+  --
+  --
 
 A Christian denomination is a distinct religious body within Christianity, identified by traits such as a name, organisation, leadership and doctrine. Worldwide, Christians are divided, often along ethnic and linguistic lines, into separate churches and traditions. Technically, divisions between one group and another are defined by church doctrine and church authority. Centering on language of _professed Christianity_ and _true Christianity_, issues that separate one group of followers of Jesus from another include:
 

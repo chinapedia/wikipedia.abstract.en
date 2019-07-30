@@ -9,7 +9,7 @@ Born in Orbe Castle, Orbe, Kingdom of Upper Burgundy (now in modern-day Switzerl
 
 Empress
 
-Meissner-dom-stifter.jpg, Germany.]]
+, Germany.]]
 
 The Calendar of Saints states that her first husband was poisoned by the holder of real power, his successor, Berengar II of Italy, who attempted to cement his political power by forcing her to marry his son, Adalbert; when she refused and fled, she was tracked down and imprisoned for four months at Garda.
 

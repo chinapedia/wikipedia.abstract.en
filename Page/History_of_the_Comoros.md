@@ -3,7 +3,7 @@ The HISTORY OF THE COMOROS goes back some 1,500 years. The Comoros have been inh
 
 Early inhabitants
 
-The earliest inhabitants of the islands were likely people from the Swahili culture from as early as 1000 BC, small trading communities of Bantu-speakers from the coasts of East Africa. Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Bellwood_in_Chambers,_2008).png across the Indo-Pacific[1]]] In the 8th to 13th centuries AD they were followed by an influx of Austronesian sailors from Southeast Asia, who had earlier settled nearby Madagascar. They are the source for the earliest archeological evidence of farming in the islands. Crops from archeological sites in Sima are predominantly rice strains of both _indica_ and _japonica_ varieties from Southeast Asia, as well as various other Asian crops like mung bean and cotton. Only a minority of the examined crops were African-derived, like finger millet, African sorghum, and cowpea. The Comoros are believed to be the first site of contact and subsequent admixture between African and Asian populations (earlier than Madagascar). Comorians today still display at most 20% Austronesian admixture.[2][3][4]
+The earliest inhabitants of the islands were likely people from the Swahili culture from as early as 1000 BC, small trading communities of Bantu-speakers from the coasts of East Africa. across the Indo-Pacific[1]]] In the 8th to 13th centuries AD they were followed by an influx of Austronesian sailors from Southeast Asia, who had earlier settled nearby Madagascar. They are the source for the earliest archeological evidence of farming in the islands. Crops from archeological sites in Sima are predominantly rice strains of both _indica_ and _japonica_ varieties from Southeast Asia, as well as various other Asian crops like mung bean and cotton. Only a minority of the examined crops were African-derived, like finger millet, African sorghum, and cowpea. The Comoros are believed to be the first site of contact and subsequent admixture between African and Asian populations (earlier than Madagascar). Comorians today still display at most 20% Austronesian admixture.[2][3][4]
 
 From around the 15th century AD, Shirazi slave traders established trading ports and brought in slaves from the mainland. In the 16th century, social changes on the East African coast probably linked to the arrival of the Portuguese saw the arrival of a number of Arabs of Hadrami who established alliances with the Shirazis and founded several royal clans.
 
@@ -22,7 +22,7 @@ William Sunley, a planter and British Consul from 1848–1866, was an influence 
 
 Colonial rule
 
-Franz_Sikora_038.jpg (1897)]] Independence_Parade.jpg on July 6, 2015.]]
+(1897)]] on July 6, 2015.]]
 
 On 25 March 1841, France purchased the island of Maore — the name of the island was corrupted in French to "Mayotte" — which became a colony upon ratification on 13 June 1843.
 

@@ -9,7 +9,7 @@ In 2015, Bursa had a population of 1,854,285. Bursa Province had 2,842,000 inhab
 
 History
 
-The earliest known human settlement near Bursa's current location was at Ilıpınar Höyüğü around 5200 BC.[3] It was followed by the ancient Greek city of Cius, which Philip V of Macedon granted to Prusias I, the King of Bithynia, in 202 BC. Prusias rebuilt the city and renamed it PRUSA (; sometimes rendered as PRUSSA). After 128 years of Bithynian rule, Nicomedes IV, the last King of Bithynia, bequeathed the entire kingdom to the Roman Empire in 74 BC. An early Roman Treasure was found in the vicinity of Bursa in the early 20th century. Composed of a woman's silver toilet articles, it is now in the British Museum.[4] View_of_the_city,_Bursa,_Turkey-LCCN2001699450.jpg City_center_of_Bursa.jpg
+The earliest known human settlement near Bursa's current location was at Ilıpınar Höyüğü around 5200 BC.[3] It was followed by the ancient Greek city of Cius, which Philip V of Macedon granted to Prusias I, the King of Bithynia, in 202 BC. Prusias rebuilt the city and renamed it PRUSA (; sometimes rendered as PRUSSA). After 128 years of Bithynian rule, Nicomedes IV, the last King of Bithynia, bequeathed the entire kingdom to the Roman Empire in 74 BC. An early Roman Treasure was found in the vicinity of Bursa in the early 20th century. Composed of a woman's silver toilet articles, it is now in the British Museum.[4]
 
 Bursa became the first major capital city of the early Ottoman Empire following its capture from the Byzantines in 1326. As a result, the city witnessed a considerable amount of urban growth throughout the 14th century. After conquering Edirne (Adrianople) in East Thrace, the Ottomans turned it into the new capital city in 1363, but Bursa retained its spiritual and commercial importance in the Ottoman Empire.[5] The Ottoman sultan Bayezid I built the Bayezid Külliyesi (Bayezid I theological complex) in Bursa between 1390 and 1395[6] and the Ulu Cami (Grand Mosque) between 1396 and 1400.[7] After Bayezid was defeated in the Battle of Ankara by the forces Timur in 1402, the latter's grandson, Muhammad Sultan Mirza had the city pillaged and burned.[8] Despite this, Bursa remained to be the most important administrative and commercial centre in the empire until Mehmed II conquered Constantinople in 1453. The population of Bursa was 45,000 in 1487.[9]
 
@@ -31,8 +31,6 @@ Bursa has a Mediterranean climate (Köppen climate classification: Csa) under th
 
 
 Economy
-
-Bursa_7149.jpg Zafer_Plaza,_Bursa.jpg
 
 Bursa is the centre of the Turkish automotive industry.[11][12] Factories of motor vehicle producers like Fiat, Renault and Karsan, as well as automotive parts producers like Bosch, Mako, Valeo, Johnson Controls, Delphi have been active in the city for decades. The textile and food industries are equally strong, with Coca-Cola, Pepsi Cola and other beverage brands, as well as fresh and canned food industries being present in the city's organized industrial zones.
 
@@ -71,7 +69,7 @@ The average amount of time people spend commuting with public transit in Bursa, 
 
 Education
 
-Mimarlık_Fakültesi.jpg]]
+]]
 
 Bursa has two public universities and one private university. Uludağ University, founded in 1975 in Görükle, is the oldest institution of higher education in the city. Founded first as the Bursa University then renamed Uludağ University in 1982,[20] the university has a student body of 47,000, one of the largest in Turkey. Bursa Technical University[21] is the second public university of Bursa and was established in 2010, beginning education in the 2011–2012 academic year.
 
@@ -89,7 +87,7 @@ Main sights
 
 Ulu Cami (Grand Mosque)
 
-Ulucamii2-Turkey-2001.jpg (Grand Mosque), showing the fountain (şadırvan) for ritual ablutions.]]
+(Grand Mosque), showing the fountain (şadırvan) for ritual ablutions.]]
 
 Ulu Cami is the largest mosque in Bursa and a landmark of early Ottoman architecture, which incorporated many elements from Seljuk architecture. Ordered by Sultan Bayezid I, the mosque was designed and built by architect Ali Neccar in 1396–1400. It is a large and rectangular building, with a total of twenty domes that are arranged in four rows of five, and are supported by 12 columns. Supposedly the twenty domes were built instead of the twenty separate mosques which Sultan Bayezid I had promised for winning the Battle of Nicopolis in 1396. The mosque has two minarets.
 
@@ -128,8 +126,6 @@ Other historic monuments
 -   Inkaya Sycamore, very big and impressive 600-year-old tree (Platanus Orientalis)
 
 Museums
-
-Kültür_ve_Turizm_Bakanlığı_Atatürk_Müzesi.jpg
 
 -   Bursa Archaeological Museum
 -   Bursa Atatürk Museum,[24]
@@ -292,7 +288,7 @@ Category:Ancient Greek archaeological sites in Turkey Category:Greek colonies in
 
 [18]
 
-[19]  CC-BY_icon.svg Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
+[19]  Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
 
 [20]
 

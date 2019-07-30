@@ -1,5 +1,3 @@
-Results_of_the_UK_General_Election,_2001.svg
-
 The 2001 UNITED KINGDOM GENERAL ELECTION was held on Thursday 7 June 2001, four years after the previous election on 1 May 1997, to elect 659 members to the House of Commons. Under the leadership of Tony Blair, the Labour Party was re-elected to serve a second term in government with another landslide victory, returning 413 of the 418 seats won by the party in the previous general election, a net loss of 5 seats, though with a significantly lower turnout than before—59.4%, compared to 71.3% at the previous election. Blair went on to become the first Labour Prime Minister to serve a consecutive full term in office. It was dubbed "the quiet landslide" by the media.[1]
 
 There was little change outside Northern Ireland, with 620 out of the 641 seats electing candidates from the same party as they did in 1997. Factors contributing to the Labour victory were a strong economy and falling unemployment, as well as the fact that the Labour government was seen as having delivered on many key election pledges that it had made in 1997.
@@ -219,7 +217,7 @@ MPs that lost their seats
 |                    | Independent                | Martin Bell      | Tatton contesting Brentwood and Ongar |                      | 1997        | Eric Pickles                                          |
 +--------------------+----------------------------+------------------+---------------------------------------+----------------------+-------------+-------------------------------------------------------+
 
-2001_UK_General_Election_Gallagher_Index.png, mainly between Labour and the Liberal Democrats.]]
+, mainly between Labour and the Liberal Democrats.]]
 
 
 See also

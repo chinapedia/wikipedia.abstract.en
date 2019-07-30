@@ -5,8 +5,6 @@ The stated mission of the college is "to glorify God by educating and ministerin
 
 History
 
-Northwood_Stone.jpg
-
 Geneva College was founded in 1848 in Northwood, Ohio, by John Black Johnston, a minister of the RPCNA. The college was founded as "Geneva Hall", and was named after the Swiss center of the Reformed faith movement. After briefly closing during the American Civil War, the college continued operating in Northwood until 1880. By that time, the college leadership had begun a search for alternate locations that were closer to urban areas. After considering several locations in the Midwest, the denomination chose the College Hill neighborhood of Beaver Falls, Pennsylvania. The college constructed its current campus on land donated by the Harmony Society. Old Main, the oldest building on campus, was completed in 1881.
 
 The Rapp Technical Design Center was completed in 2002. A major project to reroute Pennsylvania Route 18, which runs through the campus, was completed in November 2007.[3] Improvements to Reeves Stadium and the construction of a campus entrance and pedestrian mall were completed in time for the fall semester in 2009.[4]
@@ -16,12 +14,12 @@ Presidents
 
 Administration
 
-South_End_View_of_Geneva_College.jpg Two bodies oversee the administration of the college, the Board of Corporators and the Board of Trustees; while the Corporators are the official legal owners of the college, in practice most authority is delegated to the Trustees, who are elected by the Corporators. Both Boards drafted the philosophical basis on which the college rests, known as the Foundational Concepts of Higher Education.[5] The RPCNA still takes an active sponsorship and oversight role in the college: the college president, chaplain, and chairman of the Department of Biblical Studies must be members of the RPCNA, and all members of the Board of Corporators and the majority of the Board of Trustees must be RPCNA members. All professors and lecturers in the Department of Biblical Studies must subscribe to the Westminster Confession of Faith, and all full-time faculty and staff members must submit a written statement confessing faith in Jesus Christ and the Christian religion.
+Two bodies oversee the administration of the college, the Board of Corporators and the Board of Trustees; while the Corporators are the official legal owners of the college, in practice most authority is delegated to the Trustees, who are elected by the Corporators. Both Boards drafted the philosophical basis on which the college rests, known as the Foundational Concepts of Higher Education.[5] The RPCNA still takes an active sponsorship and oversight role in the college: the college president, chaplain, and chairman of the Department of Biblical Studies must be members of the RPCNA, and all members of the Board of Corporators and the majority of the Board of Trustees must be RPCNA members. All professors and lecturers in the Department of Biblical Studies must subscribe to the Westminster Confession of Faith, and all full-time faculty and staff members must submit a written statement confessing faith in Jesus Christ and the Christian religion.
 
 
 Academics
 
-Geneva_Old_Main.jpg Geneva offers undergraduate degree programs in the arts and sciences, such as elementary education, business, engineering, student ministry, biology, and psychology. In 2006, the Educational Testing Service (ETS) rated the Business and Accounting undergraduates in the 95th percentile amongst American colleges.
+Geneva offers undergraduate degree programs in the arts and sciences, such as elementary education, business, engineering, student ministry, biology, and psychology. In 2006, the Educational Testing Service (ETS) rated the Business and Accounting undergraduates in the 95th percentile amongst American colleges.
 
 Geneva offers a Degree Completion Program (DCP) for degrees in Human Resource Management, Community Ministry or Organizational Development for adult students mainly at off-campus locations. Geneva also established the Center for Urban Theological Studies in Philadelphia and has sister colleges in Taiwan (Christ College) and South Korea (Chong Shin College and Theological Seminary).
 
@@ -37,7 +35,7 @@ Geneva College is a member institution of the Council for Christian Colleges and
 
 Athletics
 
-Old_Reeves.JPG Geneva's sports teams are called the Golden Tornadoes. The college is a dual member of the National Collegiate Athletic Association (NCAA) Division III and National Christian College Athletic Association (NCCAA) Division I.[8] The Golden Tornadoes compete as a member of the Presidents' Athletic Conference. Geneva was a member of the National Association of Intercollegiate Athletics (NAIA) for many years, and competed in the now-defunct American Mideast Conference. Geneva joined the NCAA as a provisional member in 2007 and during the transition process was not eligible for post season play or conference Player of the Week honors until gaining membership in July 2011.[9]
+Geneva's sports teams are called the Golden Tornadoes. The college is a dual member of the National Collegiate Athletic Association (NCAA) Division III and National Christian College Athletic Association (NCCAA) Division I.[8] The Golden Tornadoes compete as a member of the Presidents' Athletic Conference. Geneva was a member of the National Association of Intercollegiate Athletics (NAIA) for many years, and competed in the now-defunct American Mideast Conference. Geneva joined the NCAA as a provisional member in 2007 and during the transition process was not eligible for post season play or conference Player of the Week honors until gaining membership in July 2011.[9]
 
 The school offers a range of men's and women's varsity sports, including football, baseball, softball, basketball, volleyball, track and field, cross country, tennis, and soccer.[10]
 
@@ -80,8 +78,6 @@ Notable alumni
 Facilities
 
 Offices and classrooms
-
-GC_Alexander_Hall.jpg McCartney_Library.jpg Old_Main_Geneva_College.JPG Johnston_Gym_07.JPG
 
 -   Alexander Hall — Admissions, financial aid, alumni relations, institutional advancement, and public relations offices (first floor) and main dining hall (second floor).[13]
 -   Alumni Hall — Primary music building, including music department offices.[14]

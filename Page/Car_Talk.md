@@ -65,7 +65,7 @@ The _Best of Car Talk_ episodes ended their weekly broadcast on NPR on September
 
 Hosts
 
-Car_Talk_Dewey,_Cheetham_&_Howe.jpg, Cambridge, Massachusetts.]] The Magliozzis were long-time auto mechanics. Ray Magliozzi has a bachelor of science degree in humanities and science from MIT, while Tom had a bachelor of science degree in economics from MIT and an MBA and DBA from the Boston University School of Management.
+, Cambridge, Massachusetts.]] The Magliozzis were long-time auto mechanics. Ray Magliozzi has a bachelor of science degree in humanities and science from MIT, while Tom had a bachelor of science degree in economics from MIT and an MBA and DBA from the Boston University School of Management.
 
 The duo, usually led by Tom, were known for rants on the evils of the internal combustion engine, people who talk on mobile phones while driving, Peugeots, women named Donna who always seem to drive Chevrolet Camaros, lawyers, puns and other clever uses of the English language, people who choose to live in Alaska (or similar snowy, icy climates), and practically anything else, including themselves. They had a relaxed and humorous approach to cars, car repair, cup holders, pets, lawyers, car repair mechanics, SUVs, and almost everything else. They often cast a critical, jaundiced insider's eye toward the auto industry. Tom and Ray were committed to the values of defensive driving and environmentalism.
 

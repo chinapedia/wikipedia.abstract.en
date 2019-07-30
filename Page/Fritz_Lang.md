@@ -23,7 +23,7 @@ Lang's writing stint was brief, as he soon started to work as a director at the 
 
 In 1920, Lang met his future wife, the writer Thea von Harbou. She and Lang co-wrote all of his movies from 1921 through 1933, including _Dr. Mabuse, der Spieler_ (Dr. Mabuse the Gambler; 1922), which ran for over four hours in two parts in the original version and was the first in the Dr. Mabuse trilogy, the five-hour _Die Nibelungen_ (1924), the famous 1927 film _Metropolis_, and the science fiction film _Woman in the Moon_ (1929). _Metropolis_ went far over budget and nearly destroyed UFA, which was bought by right-wing businessman and politician Alfred Hugenberg. It was a financial flop as well as his last silent films _Spies_ (1928) and _Woman in the Moon_ produced by Lang's own company.
 
-Fritz_Lang_und_Thea_von_Harbou,_1923_od._1924.jpg in their Berlin flat, 1923 or 1924]]
+in their Berlin flat, 1923 or 1924]]
 
 In 1931 independent producer Seymour Nebenzahl hired Lang to direct _M_ for Nero-Film. His first "talking" picture, considered by many film scholars to be a masterpiece of the early sound era, _M_ is a disturbing story of a child murderer (Peter Lorre in his first starring role) who is hunted down and brought to rough justice by Berlin's criminal underworld. _M_ remains a powerful work; it was remade in 1951 by Joseph Losey, but this version had little impact on audiences, and has become harder to see than the original film.
 
@@ -60,8 +60,6 @@ On February 8, 1960, Lang received a star on the Hollywood Walk of Fame for his 
 Lang died from a stroke in 1976 and was interred in the Forest Lawn – Hollywood Hills Cemetery in the Hollywood Hills of Los Angeles.[27][28]
 
 While his career had ended without fanfare, Lang's American and later German works were championed by the critics of the _Cahiers du cinéma_, such as François Truffaut and Jacques Rivette. Truffaut wrote that Lang, especially in his American career, was greatly underappreciated by "cinema historians and critics" who "deny him any genius when he 'signs' spy movies ... war movies ... or simple thrillers."[29] Filmmakers that were influenced by his work include Jacques Rivette and William Friedkin.
-
-Fritz_Lang_Grave.JPG
 
 Preservation
 

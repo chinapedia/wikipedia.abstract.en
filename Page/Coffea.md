@@ -3,13 +3,13 @@ _COFFEA_ is a genus of flowering plants in the family Rubiaceae. _Coffea_ specie
 
 Cultivation and use
 
-CoffeeBerry.jpg ]] There are over 120 species of _Coffea_, which is grown from seed. The two most popular are _Coffea arabica_ (commonly known simply as "Arabica"), which accounts for 60–80% of the world's coffee production, and _Coffea canephora_ (known as "Robusta"), which accounts for about 20–40%.[1][2]
+]] There are over 120 species of _Coffea_, which is grown from seed. The two most popular are _Coffea arabica_ (commonly known simply as "Arabica"), which accounts for 60–80% of the world's coffee production, and _Coffea canephora_ (known as "Robusta"), which accounts for about 20–40%.[1][2]
 
 The trees produce edible red or purple fruits, known sometimes erroneously as "cherries", which are described either as epigynous berries or as indehiscent drupes.[3] These contain two seeds, called "coffee beans", though they are not true beans. In about 5–10% of any crop of coffee fruits, only a single bean is found. Called a peaberry, it is smaller and rounder than a normal coffee bean. These are often removed from the yield and either sold separately or discarded.
 
 When grown in the tropics, coffee is a vigorous bush or small tree that usually grows to a height of . Most commonly cultivated coffee species grow best at high elevations, but do not tolerate freezing temperatures.[4]
 
-The tree of _Coffea arabica_ will grow fruits after three to five years, producing for an average of 50 to 60 years, although up to 100 is possible.[5] The white flowers are highly scented. The fruit takes about 9 months to ripen. Coffe_flower.jpg Coffee_cherry_cross_section.JPG Coffea_racemosa00.jpg'' fruits]]
+The tree of _Coffea arabica_ will grow fruits after three to five years, producing for an average of 50 to 60 years, although up to 100 is possible.[5] The white flowers are highly scented. The fruit takes about 9 months to ripen. '' fruits]]
 
 
 Ecology

@@ -1,4 +1,4 @@
-Rätsel_der_Psyche,_Margret_Hofheinz-Döring,_Öl,_1970_(WV-Nr.5010).jpg (1910–1994)]] FANTASY in a psychological sense refers to two different possible aspects of the mind, the conscious, and the unconscious.
+(1910–1994)]] FANTASY in a psychological sense refers to two different possible aspects of the mind, the conscious, and the unconscious.
 
 
 Conscious fantasy
@@ -21,7 +21,7 @@ For Freud, sexuality is linked from the very beginning to an object of fantasy. 
 
 Freud and daydreams
 
-Helleu_-_Daydream.jpg), 1901, by Paul César Helleu]] A similarly positive view of fantasy was taken by Sigmund Freud who considered fantasy () a defence mechanism. He considered that men and women "cannot subsist on the scanty satisfaction which they can extort from reality. 'We simply cannot do without auxiliary constructions,' as Theodor Fontane once said ... [without] dwelling on imaginary wish fulfillments."[6] As childhood adaptation to the reality principle developed, so too "one species of thought activity was split off; it was kept free from reality-testing and remained subordinated to the pleasure principle alone. This activity is _fantasying_ ... continued as _day-dreaming_."[7] He compared such phantasising to the way a "nature reserve preserves its original state where everything ... including what is useless and even what is noxious, can grow and proliferate there as it pleases."[8]
+), 1901, by Paul César Helleu]] A similarly positive view of fantasy was taken by Sigmund Freud who considered fantasy () a defence mechanism. He considered that men and women "cannot subsist on the scanty satisfaction which they can extort from reality. 'We simply cannot do without auxiliary constructions,' as Theodor Fontane once said ... [without] dwelling on imaginary wish fulfillments."[6] As childhood adaptation to the reality principle developed, so too "one species of thought activity was split off; it was kept free from reality-testing and remained subordinated to the pleasure principle alone. This activity is _fantasying_ ... continued as _day-dreaming_."[7] He compared such phantasising to the way a "nature reserve preserves its original state where everything ... including what is useless and even what is noxious, can grow and proliferate there as it pleases."[8]
 
 Daydreams for Freud were thus a valuable resource. "These day-dreams are cathected with a large amount of interest; they are carefully cherished by the subject and usually concealed with a great deal of sensitivity ... such phantasies may be unconscious just as well as conscious."[9] He considered these fantasies to include a great deal of the true constitutional essence of a personality, and that the energetic man "is one who succeeds by his efforts in turning his wishful phantasies into reality," whereas the artist "can transform his phantasies into artistic creations instead of into symptoms ... the doom of neurosis."[10]
 

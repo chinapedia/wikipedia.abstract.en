@@ -1,4 +1,4 @@
-Cthulhu_sketch_by_Lovecraft.jpg drawn by Lovecraft, May 11, 1934]] Weird_Tales_March_1944.jpg'' (March 1944, vol. 37, no. 4) featuring "The Trail of Cthulhu" by August Derleth. Cover art by John Giunta.]]
+drawn by Lovecraft, May 11, 1934]] '' (March 1944, vol. 37, no. 4) featuring "The Trail of Cthulhu" by August Derleth. Cover art by John Giunta.]]
 
 The CTHULHU MYTHOS is a shared fictional universe, originating in the works of American horror writer H. P. Lovecraft. The term was coined by August Derleth, a contemporary correspondent and protégé of Lovecraft, to identify the settings, tropes, and lore that were employed by Lovecraft and his literary successors. The name _Cthulhu_ derives from the central creature in Lovecraft's seminal short story, "The Call of Cthulhu", first published in the pulp magazine _Weird Tales_ in 1928.[1]
 

@@ -1,4 +1,4 @@
-Stemma_dei_Roberto_Francesco_Romolo_Bellarmino.png]] Saint ROBERT BELLARMINE, S.J. (; 4 October 1542 – 17 September 1621) was an Italian Jesuit and a cardinal of the Catholic Church. He was canonized a saint in 1930 and named Doctor of the Church, one of only 36. He was one of the most important figures in the Counter-Reformation.
+]] Saint ROBERT BELLARMINE, S.J. (; 4 October 1542 – 17 September 1621) was an Italian Jesuit and a cardinal of the Catholic Church. He was canonized a saint in 1930 and named Doctor of the Church, one of only 36. He was one of the most important figures in the Counter-Reformation.
 
 Bellarmine was a professor of theology and later rector of the Roman College, and in 1602 became Archbishop of Capua. He supported the reform decrees of the Council of Trent. He is also widely remembered for his role in the Giordano Bruno affair, the Galileo affair, and the trial of Friar Fulgenzio Manfredi.[1]
 
@@ -49,7 +49,7 @@ In his article on Bellarmine in the _Complete Dictionary of Scientific Biography
 
 Death
 
-In his old age Bellarmine was bishop of Montepulciano for four years, after which he retired to the Jesuit college of St. Andrew in Rome, where he died on 17 September 1621, aged 78. San_Roberto_Bellarmino.jpg
+In his old age Bellarmine was bishop of Montepulciano for four years, after which he retired to the Jesuit college of St. Andrew in Rome, where he died on 17 September 1621, aged 78.
 
 
 Works
@@ -72,7 +72,7 @@ Bellarmine also became involved in controversy with King James I of England. Fro
 
 Devotional works
 
-Dottrina_cristiana_tradotta_in_lingua_arabica.tif During his retirement, he wrote several short books intended to help ordinary people in their spiritual life: _De ascensione mentis in Deum per scalas rerum creatorum opusculum_ (_The Mind's Ascent to God –_ 1614) which was translated into English as _Jacob's Ladder_ (1638) without acknowledgement by Henry Isaacson,[27] _The Art of Dying Well_ (1619) (in Latin, English translation under this title by Edward Coffin),[28] and _The Seven Words on the Cross_.
+During his retirement, he wrote several short books intended to help ordinary people in their spiritual life: _De ascensione mentis in Deum per scalas rerum creatorum opusculum_ (_The Mind's Ascent to God –_ 1614) which was translated into English as _Jacob's Ladder_ (1638) without acknowledgement by Henry Isaacson,[27] _The Art of Dying Well_ (1619) (in Latin, English translation under this title by Edward Coffin),[28] and _The Seven Words on the Cross_.
 
 
 Canonization and final resting place

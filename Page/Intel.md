@@ -49,7 +49,7 @@ Corporate history
 
 Origins
 
-Andy_Grove_Robert_Noyce_Gordon_Moore_1978_edit.jpg, Robert Noyce and Gordon Moore in 1978]] Intel_old_logo.svg
+, Robert Noyce and Gordon Moore in 1978]]
 
 Intel was founded in Mountain View, California, in 1968 by Gordon E. Moore (known for "Moore's law"), a chemist, and Robert Noyce, a physicist and co-inventor of the integrated circuit. Arthur Rock (investor and venture capitalist) helped them find investors, while Max Palevsky was on the board from an early stage.[22] Moore and Noyce had left Fairchild Semiconductor to found Intel. Rock was not an employee, but he was an investor and was chairman of the board.[23][24] The total initial investment in Intel was $2.5 million convertible debentures and $10,000 from Rock. Just 2 years later, Intel became a public company via an initial public offering (IPO), raising $6.8 million ($23.50 per share).[25] Intel's third employee was Andy Grove,[26] a chemical engineer, who later ran the company through much of the 1980s and the high-growth 1990s.
 
@@ -59,7 +59,7 @@ Early history
 
 At its founding, Intel was distinguished by its ability to make logic circuits using semiconductor devices. The founders' goal was the semiconductor memory market, widely predicted to replace magnetic-core memory. Its first product, a quick entry into the small, high-speed memory market in 1969, was the 3101 Schottky TTL bipolar 64-bit static random-access memory (SRAM), which was nearly twice as fast as earlier Schottky diode implementations by Fairchild and the Electrotechnical Laboratory in Tsukuba, Japan.[30][31] In the same year, Intel also produced the 3301 Schottky bipolar 1024-bit read-only memory (ROM)[32] and the first commercial metal–oxide–semiconductor field-effect transistor (MOSFET) silicon gate SRAM chip, the 256-bit 1101.[33][34] [35] While the 1101 was a significant advance, its complex static cell structure made it too slow and costly for mainframe memories. The three-transistor cell implemented in the first commercially available dynamic random-access memory (DRAM), the 1103 released in 1970, solved these issues. The 1103 was the bestselling semiconductor memory chip in the world by 1972, as it replaced core memory in many applications.[36][37] Intel's business grew during the 1970s as it expanded and improved its manufacturing processes and produced a wider range of products, still dominated by various memory devices.
 
-Federico_Faggin_(cropped).jpg, designer of Intel 4004]]
+, designer of Intel 4004]]
 
 Intel created the first commercially available microprocessor (Intel 4004) in 1971.[38] The microprocessor represented a notable advance in the technology of integrated circuitry, as it miniaturized the central processing unit of a computer, which then made it possible for small machines to perform calculations that in the past only very large machines could do. Considerable technological innovation was needed before the micro-processor could actually become the basis of what was first known as a "mini computer" and then known as a "personal computer".[39] Intel also created one of the first microcomputers in 1973.[40][41] Intel opened its first international manufacturing facility in 1972, in Malaysia, which would host multiple Intel operations, before opening assembly facilities and semiconductor plants in Singapore and Jerusalem in the early 1980s, and manufacturing and development centres in China, India and Costa Rica in the 1990s.[42] By the early 1980s, its business was dominated by dynamic random-access memory (DRAM) chips. However, increased competition from Japanese semiconductor manufacturers had, by 1983, dramatically reduced the profitability of this market. The growing success of the IBM personal computer, based on an Intel microprocessor, was among factors that convinced Gordon Moore (CEO since 1975) to shift the company's focus to microprocessors and to change fundamental aspects of that business model. Moore's decision to sole-source Intel's 386 chip played into the company's continuing success.
 
@@ -212,7 +212,7 @@ Until then, the manufacture of complex integrated circuits was not reliable enou
 
 Intel, x86 processors, and the IBM PC
 
-153056995_5ef8b01016_o.jpg from an Intel 8742, an 8-bit microcontroller that includes a CPU running at 12 MHz, 128 bytes of RAM, 2048 bytes of EPROM, and I/O in the same chip]]
+from an Intel 8742, an 8-bit microcontroller that includes a CPU running at 12 MHz, 128 bytes of RAM, 2048 bytes of EPROM, and I/O in the same chip]]
 
 Despite the ultimate importance of the microprocessor, the 4004 and its successors the 8008 and the 8080 were never major revenue contributors at Intel. As the next processor, the 8086 (and its variant the 8088) was completed in 1978, Intel embarked on a major marketing and sales campaign for that chip nicknamed "Operation Crush", and intended to win as many customers for the processor as possible. One design win was the newly created IBM PC division, though the importance of this was not fully realized at the time.
 
@@ -242,7 +242,7 @@ The "Pentium flaw" incident, Intel's response to it, and the surrounding media c
 
 "Intel Inside" and other campaigns
 
-Intel_Inside_Logo.svg During this period, Intel undertook two major supporting advertising campaigns. The first campaign, the 1991 "Intel Inside" marketing and branding campaign, is widely known and has become synonymous with Intel itself. The idea of "ingredient branding" was new at the time, with only NutraSweet and a few others making attempts to do so.[124] This campaign established Intel, which had been a component supplier little-known outside the PC industry, as a household name.
+During this period, Intel undertook two major supporting advertising campaigns. The first campaign, the 1991 "Intel Inside" marketing and branding campaign, is widely known and has become synonymous with Intel itself. The idea of "ingredient branding" was new at the time, with only NutraSweet and a few others making attempts to do so.[124] This campaign established Intel, which had been a component supplier little-known outside the PC industry, as a household name.
 
 The second campaign, Intel's Systems Group, which began in the early 1990s, showcased manufacturing of PC motherboards, the main board component of a personal computer, and the one into which the processor (CPU) and memory (RAM) chips are plugged.[125] The Systems Group campaign was lesser known than the Intel Inside campaign.
 
@@ -270,7 +270,7 @@ Intel has decided to discontinue with their recent Intel Remote Keyboard Android
 
 Solid-state drives (SSD)
 
-Intel_X25-M_Solid-State_Drive.jpg SSD]] In 2008, Intel began shipping mainstream solid-state drives (SSDs) with up to 160 GB storage capacities.[149] As with their CPUs, Intel develops SSD chips using ever-smaller nanometer processes. These SSDs make use of industry standards such as NAND flash,[150] mSATA,[151] PCIe, and NVMe. In 2017, Intel introduced SSDs based on 3D XPoint technology under the Optane brand name.[152]
+SSD]] In 2008, Intel began shipping mainstream solid-state drives (SSDs) with up to 160 GB storage capacities.[149] As with their CPUs, Intel develops SSD chips using ever-smaller nanometer processes. These SSDs make use of industry standards such as NAND flash,[150] mSATA,[151] PCIe, and NVMe. In 2017, Intel introduced SSDs based on 3D XPoint technology under the Optane brand name.[152]
 
 Supercomputers
 
@@ -371,7 +371,7 @@ Corporate affairs
 
 Leadership and corporate structure
 
-Otellini_Barrett_Maloney.jpg Robert Noyce was Intel's CEO at its founding in 1968, followed by co-founder Gordon Moore in 1975. Andy Grove became the company's president in 1979 and added the CEO title in 1987 when Moore became chairman. In 1998, Grove succeeded Moore as Chairman, and Craig Barrett, already company president, took over. On May 18, 2005, Barrett handed the reins of the company over to Paul Otellini, who had been the company president and COO and who was responsible for Intel's design win in the original IBM PC. The board of directors elected Otellini as President and CEO, and Barrett replaced Grove as Chairman of the Board. Grove stepped down as chairman but is retained as a special adviser. In May 2009, Barrett stepped down as chairman of the Board and was succeeded by Jane Shaw. In May 2012, Intel vice chairman Andy Bryant, who had held the posts of CFO (1994) and Chief Administrative Officer (2007) at Intel, succeeded Shaw as executive chairman.[197]
+Robert Noyce was Intel's CEO at its founding in 1968, followed by co-founder Gordon Moore in 1975. Andy Grove became the company's president in 1979 and added the CEO title in 1987 when Moore became chairman. In 1998, Grove succeeded Moore as Chairman, and Craig Barrett, already company president, took over. On May 18, 2005, Barrett handed the reins of the company over to Paul Otellini, who had been the company president and COO and who was responsible for Intel's design win in the original IBM PC. The board of directors elected Otellini as President and CEO, and Barrett replaced Grove as Chairman of the Board. Grove stepped down as chairman but is retained as a special adviser. In May 2009, Barrett stepped down as chairman of the Board and was succeeded by Jane Shaw. In May 2012, Intel vice chairman Andy Bryant, who had held the posts of CFO (1994) and Chief Administrative Officer (2007) at Intel, succeeded Shaw as executive chairman.[197]
 
 In November 2012, president and CEO Paul Otellini announced that he would step down in May 2013 at the age of 62, three years before the company's mandatory retirement age. During a six-month transition period, Intel's board of directors commenced a search process for the next CEO, in which it considered both internal managers and external candidates such as Sanjay Jha and Patrick Gelsinger.[198] Financial results revealed that, under Otellini, Intel's revenue increased by 55.8 percent (US$34.2 to 53.3 billion), while its net income increased by 46.7% (US$7.5 billion to 11 billion).[199]
 
@@ -389,7 +389,7 @@ As of 2017 Intel shares are mainly held by institutional investors (The Vanguard
 
 Employment
 
-Intel_Costa_12_2007_SJO_105b.jpg was responsible in 2006 for 20% of Costa Rican exports and 4.9% of the country's GDP.[206]]]
+was responsible in 2006 for 20% of Costa Rican exports and 4.9% of the country's GDP.[206]]]
 
 The firm promotes very heavily from within, most notably in its executive suite. The company has resisted the trend toward outsider CEOs. Paul Otellini was a 30-year veteran of the company when he assumed the role of CEO. All of his top lieutenants have risen through the ranks after many years with the firm. In many cases, Intel's top executives have spent their entire working careers with Intel.
 
@@ -444,8 +444,6 @@ As is often the case with computer lore, other tidbits have been combined to exp
 Intel's branding campaign started with "The Computer Inside" tagline in 1990 in the US and Europe. The Japan chapter of Intel proposed an "Intel in it" tagline and kicked off the Japanese campaign by hosting EKI-KON (meaning "Station Concert" in Japanese) at the Tokyo railway station dome on Christmas Day, December 25, 1990. Several months later, "The Computer Inside" incorporated the Japan idea to become "Intel Inside" which eventually elevated to the worldwide branding campaign in 1991, by Intel marketing manager Dennis Carter.[247] The case study of the Inside Intel Inside was put together by Harvard Business School.[248] The five-note jingle was introduced in 1994 and by its tenth anniversary was being heard in 130 countries around the world. The initial branding agency for the "Intel Inside" campaign was DahlinSmithWhite Advertising of Salt Lake City. The Intel _swirl_ logo was the work of DahlinSmithWhite art director Steve Grigg under the direction of Intel president and CEO Andy Grove.
 
 The _Intel Inside_ advertising campaign sought public brand loyalty and awareness of Intel processors in consumer computers.[249] Intel paid some of the advertiser's costs for an ad that used the _Intel Inside_ logo and xylo-marimba jingle.[250]
-
-Intel_PentiumDC_2009.png
 
 In 2008, Intel planned to shift the emphasis of its Intel Inside campaign from traditional media such as television and print to newer media such as the Internet.[251] Intel required that a minimum of 35% of the money it provided to the companies in its co-op program be used for online marketing.[252] The Intel 2010 annual financial report indicated that $1.8 billion (6% of the gross margin and nearly 16% of the total net income) was allocated to all advertising with Intel Inside being part of that.[253]
 

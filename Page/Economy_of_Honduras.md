@@ -9,7 +9,7 @@ Land appears to be plentiful and readily exploitable, but the presence of appare
 
 Economic history
 
-Honduras_econ_1983.jpg After Honduras achieved independence from Spain in the early 19th century, its economic growth became closely related to its ability to develop attractive export products. During much of the 19th century, the Honduran economy languished; traditional cattle raising and subsistence agriculture produced no suitable major export. In the latter part of the century, economic activity quickened with the development of large-scale, precious metal mining. The most important mines were in the mountains near the capital of Tegucigalpa and were owned by the New York and Honduras Rosario Mining Company (NYHRMC).
+After Honduras achieved independence from Spain in the early 19th century, its economic growth became closely related to its ability to develop attractive export products. During much of the 19th century, the Honduran economy languished; traditional cattle raising and subsistence agriculture produced no suitable major export. In the latter part of the century, economic activity quickened with the development of large-scale, precious metal mining. The most important mines were in the mountains near the capital of Tegucigalpa and were owned by the New York and Honduras Rosario Mining Company (NYHRMC).
 
 Silver was the principal metal extracted, accounting for about 55% of exports in the 1880s. Mining income stimulated commercial and ancillary enterprises, built infrastructure, and reduced monetary restraints on trade. There were few other beneficial economic effects, however, because the mining industry was never well integrated into the rest of the Honduran economy. The foreign mining companies employed a small work force, provided little or no government revenue, and relied mostly on imported mining equipment.
 
@@ -23,7 +23,7 @@ After 1950 Honduran governments encouraged agricultural modernization and export
 
 As a result of the reduction of regional trade barriers and the construction of a high common external tariff, some Honduran manufactured products, such as soaps, sold successfully in other Central American countries. Because of the greater size and relative efficiency of the Salvadoran and Guatemalan industrial sectors, however, Honduras bought far more manufactured products from its neighbors than it sold to them. After the 1969 Soccer War with El Salvador, Honduras effectively withdrew from the CACM. Favorable bilateral trade arrangements between Honduras and the other former CACM partners were subsequently negotiated, however.
 
-SanPedroSula.jpg.]] A political shift in the 1980s had strong and unexpected repercussions on the country's economic condition. Beginning in late 1979, as insurgency spread in neighboring countries, Honduran military leaders enthusiastically came to support United States policies in the region. This alignment resulted in financial support that benefited the civilian as well as the military ministries and agencies of Honduras. Honduran defense spending rose throughout the 1980s until it consumed 20 to 30 percent of the national budget. Before the military buildup began in fiscal year (FY) 1980, United States military assistance to Honduras was less than US$4 million. Military aid more than doubled to reach just under US$9 million by FY 1981, surged to more than $31 million by FY 1982, and stood at $48.3 million in FY 1983. Tiny Honduras soon became the tenth largest recipient of United States assistance aid; total economic and military aid rose to more than $200 million in 1985 and remained at more than $100 million for the rest of the 1980s.
+.]] A political shift in the 1980s had strong and unexpected repercussions on the country's economic condition. Beginning in late 1979, as insurgency spread in neighboring countries, Honduran military leaders enthusiastically came to support United States policies in the region. This alignment resulted in financial support that benefited the civilian as well as the military ministries and agencies of Honduras. Honduran defense spending rose throughout the 1980s until it consumed 20 to 30 percent of the national budget. Before the military buildup began in fiscal year (FY) 1980, United States military assistance to Honduras was less than US$4 million. Military aid more than doubled to reach just under US$9 million by FY 1981, surged to more than $31 million by FY 1982, and stood at $48.3 million in FY 1983. Tiny Honduras soon became the tenth largest recipient of United States assistance aid; total economic and military aid rose to more than $200 million in 1985 and remained at more than $100 million for the rest of the 1980s.
 
 The increasing dependence of the Honduran economy on foreign aid was aggravated by a severe, regionwide economic decline during the 1980s. Private investment plummeted in 1980, and capital flight for that year was $500 million. To make matters worse, coffee prices plunged on the international market in the mid-1980s and remained low throughout the decade. In 1993 average annual per capita income remained depressingly low at about $580, and 75 percent of the population was poor by internationally defined standards.
 
@@ -132,8 +132,6 @@ FUTH also became affiliated with a number of leftist popular organizations in a 
 
 
 Agriculture and land use
-
-Colbanana04.jpg
 
 The total land area of Honduras is 11.2 million hectares, of which a scant 1.7 million hectares (about 15 percent) are well suited for agriculture. Most land in Honduras is covered by mountains, giving rise to the country's nickname, "the Tibet of Central America." Nevertheless, the Honduran economy has always depended almost exclusively on agriculture, and in 1992 agriculture was still the largest sector of the economy, contributing 28 percent to the GDP.
 
@@ -269,8 +267,6 @@ Foreign tourists are attracted to Honduras by the Mayan ruins in Copán and cora
 
 
 Trade
-
-Honduras_Export_Treemap.jpg
 
 In the early 1990s, the United States was by far Honduras's leading trading partner, with Japan a distant second. United States exports to Honduras in 1992 were valued at US$533 million, about 54 percent of the country's total imports of $983 million. Most of the rest of Honduras's imports come from its Central American neighbors. Despite its status as beneficiary of both the Caribbean Basin Initiative (CBI) and the Generalized System of Preferences (GSP)--both of which confer duty-free status on Honduran imports to the United States—Honduras has run a long-standing trade deficit with the United States.
 

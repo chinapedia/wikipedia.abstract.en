@@ -13,12 +13,12 @@ Because of the historically close links with the land bordering Cheshire to the 
 
 Administrative history
 
-Wales_1234_(Marchia_Wallie_and_Pura_Wallia).svg; the only county palatine on the Welsh Marches.[13]
+; the only county palatine on the Welsh Marches.[13]
 ]] After the Norman conquest of 1066 by William I, dissent and resistance continued for many years after the invasion. In 1069 local resistance in Cheshire was finally put down using draconian measures as part of the Harrying of the North. The ferocity of the campaign against the English populace was enough to end all future resistance. Examples were made of major landowners such as Earl Edwin of Mercia, their properties confiscated and redistributed amongst Norman barons. William I made Cheshire a county palatine and gave Gerbod the Fleming the new title of Earl of Chester. When Gerbod returned to Normandy in about 1070, the king used his absence to declare the earldom forfeit and gave the title to Hugh d'Avranches (nicknamed Hugh Lupus, or "wolf"). Because of Cheshire's strategic location on Welsh Marches, the Earl had complete autonomous powers to rule on behalf of the king in the county palatine. The earldom was sufficiently independent from the kingdom of England that the 13th-century Magna Carta did not apply to the shire of Chester, so the earl wrote up his own Chester Charter at the petition of his barons.[14]
 
 Palatine hundreds
 
-Cheshire_domesday_hundreds.svg in Wales.]] Cheshire in the Domesday Book (1086) is recorded as a much larger county than it is today. It included two hundreds, Atiscross and Exestan, that later became part of North Wales. At the time of the Domesday Book, it also included as part of Duddestan Hundred the area of land later known as English Maelor (which used to be a detached part of Flintshire) in Wales.[15] The area between the Mersey and Ribble (referred to in the Domesday Book as "Inter Ripam et Mersam") formed part of the returns for Cheshire.[16][17] Although this has been interpreted to mean that at that time south Lancashire was part of Cheshire,[18][19] more exhaustive research indicates that the boundary between Cheshire and what was to become Lancashire remained the River Mersey.[20][21][22] With minor variations in spelling across sources, the complete list of hundreds of Cheshire at this time are: Atiscross, Bochelau, Chester, Dudestan, Exestan, Hamestan, Middlewich, Riseton, Roelau, Tunendune, Warmundestrou and Wilaveston.[23]
+in Wales.]] Cheshire in the Domesday Book (1086) is recorded as a much larger county than it is today. It included two hundreds, Atiscross and Exestan, that later became part of North Wales. At the time of the Domesday Book, it also included as part of Duddestan Hundred the area of land later known as English Maelor (which used to be a detached part of Flintshire) in Wales.[15] The area between the Mersey and Ribble (referred to in the Domesday Book as "Inter Ripam et Mersam") formed part of the returns for Cheshire.[16][17] Although this has been interpreted to mean that at that time south Lancashire was part of Cheshire,[18][19] more exhaustive research indicates that the boundary between Cheshire and what was to become Lancashire remained the River Mersey.[20][21][22] With minor variations in spelling across sources, the complete list of hundreds of Cheshire at this time are: Atiscross, Bochelau, Chester, Dudestan, Exestan, Hamestan, Middlewich, Riseton, Roelau, Tunendune, Warmundestrou and Wilaveston.[23]
 
 Palatine feudal baronies
 
@@ -132,17 +132,17 @@ Current
 
 File:Cheshire unitary labell.png|300px|thumb|The ceremonial county showing the four unitary authorities. Click on the map for more information poly 132 343 74 237 19 152 25 129 215 134 231 120 255 121 298 172 293 195 263 221 221 222 179 257 152 293 175 350 Cheshire West and Chester poly 168 293 241 241 285 239 325 225 382 264 383 272 316 308 312 348 225 368 Cheshire East poly 333 175 269 130 267 103 300 82 357 102 480 90 491 189 410 239 Cheshire East poly 313 228 334 183 419 219 354 293 Cheshire East poly 131 105 166 58 182 73 182 94 201 99 207 91 218 105 210 129 183 127 161 121 131 107 Halton poly 188 75 192 30 266 9 296 73 267 82 251 107 234 112 Warrington desc none
 
-+---------------------------+------------------------+-------------------------+------------+---------------+--------+---------------+
-| District                  | Administrative HQ      | Population ()           | Area (km²) | Density (km²) | Leader | Executive     |
-+===========================+========================+=========================+============+===============+========+===============+
-| Cheshire East             | Cheshire_East_Flag.png | Sandbach                |            |               |        |               |
-+---------------------------+------------------------+-------------------------+------------+---------------+--------+---------------+
-| Cheshire West and Chester | Logo-cheshire-west.png | Winsford Ellesmere Port |            |               |        |               |
-+---------------------------+------------------------+-------------------------+------------+---------------+--------+---------------+
-| Halton                    |                        | Widnes                  |            |               |        | Rob Polhill   |
-+---------------------------+------------------------+-------------------------+------------+---------------+--------+---------------+
-| Warrington                |                        | Warrington              |            |               |        | Terry O'Neill |
-+---------------------------+------------------------+-------------------------+------------+---------------+--------+---------------+
++---------------------------+-------------------+-------------------------+------------+---------------+--------+---------------+
+| District                  | Administrative HQ | Population ()           | Area (km²) | Density (km²) | Leader | Executive     |
++===========================+===================+=========================+============+===============+========+===============+
+| Cheshire East             |                   | Sandbach                |            |               |        |               |
++---------------------------+-------------------+-------------------------+------------+---------------+--------+---------------+
+| Cheshire West and Chester |                   | Winsford Ellesmere Port |            |               |        |               |
++---------------------------+-------------------+-------------------------+------------+---------------+--------+---------------+
+| Halton                    |                   | Widnes                  |            |               |        | Rob Polhill   |
++---------------------------+-------------------+-------------------------+------------+---------------+--------+---------------+
+| Warrington                |                   | Warrington              |            |               |        | Terry O'Neill |
++---------------------------+-------------------+-------------------------+------------+---------------+--------+---------------+
 
 Cheshire is a ceremonial county. This means that although there is no county-wide elected local council, Cheshire has a Lord Lieutenant and High Sheriff for ceremonial purposes under the Lieutenancies Act 1997.
 
@@ -172,7 +172,7 @@ The ceremonial county borders Merseyside, Greater Manchester, Derbyshire, Staffo
 
 Religion
 
-Wilmslow_Church.jpg Church]] In the 2001 Census, 81% of the population (542,413) identified themselves as Christian; 124,677 (19%) did not identify with any religion or did not answer the question; 5,665 (1%) identified themselves as belonging to other major world religions; and 1,033 belonged to other religions.[58]
+Church]] In the 2001 Census, 81% of the population (542,413) identified themselves as Christian; 124,677 (19%) did not identify with any religion or did not answer the question; 5,665 (1%) identified themselves as belonging to other major world religions; and 1,033 belonged to other religions.[58]
 
 The boundary of the Church of England Diocese of Chester follows most closely the pre-1974 county boundary of Cheshire, so it includes all of Wirral, Stockport, and the Cheshire panhandle that included Tintwistle Rural District council area.[59] In terms of Roman Catholic church administration, most of Cheshire falls into the Roman Catholic Diocese of Shrewsbury.[60]
 
@@ -201,18 +201,17 @@ All four local education authorities in Cheshire operate only comprehensive stat
 
 Culture, media and sports
 
-Man_Sanding_the_street_in_Knutsfrod_for_May_Day_1920.jpg sanding the street in celebration of May Day 1920. The custom continues to this day.]] Cheshire has two Football League teams, Crewe Alexandra and Macclesfield Town, who both play in League Two. Chester, a phoenix club formed in 2010 after ex-Football League club Chester City was dissolved, competes in the National League North. Northwich Victoria, another ex-League team who were founder members of the Football League Division Two in 1892/1893, now represent Cheshire in the Northern Premier League along with Nantwich Town, Warrington Town and Witton Albion.
+sanding the street in celebration of May Day 1920. The custom continues to this day.]] Cheshire has two Football League teams, Crewe Alexandra and Macclesfield Town, who both play in League Two. Chester, a phoenix club formed in 2010 after ex-Football League club Chester City was dissolved, competes in the National League North. Northwich Victoria, another ex-League team who were founder members of the Football League Division Two in 1892/1893, now represent Cheshire in the Northern Premier League along with Nantwich Town, Warrington Town and Witton Albion.
 
-+------------------------+------------------------+------------------------------------------+----------------+-----------------+---------------+
-| Crewe Alexandra        | Macclesfield Town      | Chester                                  | Nantwich Town  | Warrington Town | Witton Albion |
-+========================+========================+==========================================+================+=================+===============+
-|                        |                        |                                          |                |                 |               |
-+------------------------+------------------------+------------------------------------------+----------------+-----------------+---------------+
-| EFL League Two         | National League North  | Northern Premier League Premier Division |                |                 |               |
-+------------------------+------------------------+------------------------------------------+----------------+-----------------+---------------+
-| Gresty_Road,_Crewe.jpg | Silk_FM_Main_Stand.png | Deva_Stadium.jpg                         | Weaver Stadium | Cantilever Park | Wincham Park  |
-| Gresty Road            | Moss Rose              | Deva Stadium                             |                |                 |               |
-+------------------------+------------------------+------------------------------------------+----------------+-----------------+---------------+
++-----------------+-----------------------+------------------------------------------+----------------+-----------------+---------------+
+| Crewe Alexandra | Macclesfield Town     | Chester                                  | Nantwich Town  | Warrington Town | Witton Albion |
++=================+=======================+==========================================+================+=================+===============+
+|                 |                       |                                          |                |                 |               |
++-----------------+-----------------------+------------------------------------------+----------------+-----------------+---------------+
+| EFL League Two  | National League North | Northern Premier League Premier Division |                |                 |               |
++-----------------+-----------------------+------------------------------------------+----------------+-----------------+---------------+
+| Gresty Road     | Moss Rose             | Deva Stadium                             | Weaver Stadium | Cantilever Park | Wincham Park  |
++-----------------+-----------------------+------------------------------------------+----------------+-----------------+---------------+
 
 : Football clubs in Cheshire
 
@@ -220,7 +219,7 @@ Warrington Wolves and the Widnes Vikings are the premier Rugby league teams in C
 
 The county has also been home to many notable sportsmen and athletes. Due to its proximity to both Manchester and Liverpool, many Premier League footballers have lived in Cheshire,[69] including Dean Ashton, Seth Johnson, Michael Owen and Wayne Rooney. Other local athletes have included cricketer Ian Botham, marathon runner Paula Radcliffe, oarsman Matt Langridge, hurdler Shirley Strong, sailor Ben Ainslie, cyclist Sarah Storey and mountaineer George Mallory, who died in 1924 on Mount Everest. Cheshire has also produced a military hero in Norman Cyril Jones, a World War I flying ace who won the Distinguished Flying Cross.[70]
 
-One_Direction_(6927592468).jpg band member Harry Styles was brought up in Holmes Chapel]] The county has produced several notable popular musicians, including Gary Barlow (Take That, born and raised in Frodsham), Harry Styles (singer with One Direction, raised in Holmes Chapel), John Mayall (John Mayall & the Bluesbreakers),[71] Ian Astbury (The Cult), Tim Burgess (Charlatans), Ian Curtis (Joy Division) and Hooton Tennis Club. Matthew Healy, lead singer of The 1975, met his three bandmates at Wilmslow High School in Wilmslow.[72] Concert pianist Stephen Hough, singer Thea Gilmore and her producer husband Nigel Stonier also reside in Cheshire.
+band member Harry Styles was brought up in Holmes Chapel]] The county has produced several notable popular musicians, including Gary Barlow (Take That, born and raised in Frodsham), Harry Styles (singer with One Direction, raised in Holmes Chapel), John Mayall (John Mayall & the Bluesbreakers),[71] Ian Astbury (The Cult), Tim Burgess (Charlatans), Ian Curtis (Joy Division) and Hooton Tennis Club. Matthew Healy, lead singer of The 1975, met his three bandmates at Wilmslow High School in Wilmslow.[72] Concert pianist Stephen Hough, singer Thea Gilmore and her producer husband Nigel Stonier also reside in Cheshire.
 
 The county has also been home to several writers, including Hall Caine (1853–1931), popular romantic novelist and playwright; Alan Garner; Victorian novelist Elizabeth Gaskell, whose novel _Cranford_ features her home town of Knutsford; and most famously Lewis Carroll, born and raised in Daresbury, hence the Cheshire Cat (a fictional cat popularised by Carroll in _Alice's Adventures in Wonderland_ and known for its distinctive mischievous grin). Artists from the county include ceramic artist Emma Bossons and sculptor and photographer Andy Goldsworthy. Actors from Cheshire include Tim Curry; Daniel Craig, the 6th James Bond; Dame Wendy Hiller; and Lewis McGibbon, best known for his role in _Millions_.
 
@@ -268,7 +267,7 @@ Some services are run under contract to Cheshire West and Chester, Cheshire East
 
 Rail and road
 
-Alderley_Edge_Station_geograph-2165327.jpg in 1951]] The main railway line through the county is the West Coast Main Line. Many trains call at Crewe (in the south of the county) and Warrington Bank Quay (in the north of the county) en route to London and Scotland, as well as Runcorn on the Liverpool branch of the WCML.
+in 1951]] The main railway line through the county is the West Coast Main Line. Many trains call at Crewe (in the south of the county) and Warrington Bank Quay (in the north of the county) en route to London and Scotland, as well as Runcorn on the Liverpool branch of the WCML.
 
 The major interchanges are:
 

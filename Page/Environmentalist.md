@@ -1,4 +1,4 @@
-Voynet_Montreuil_2008-01-06.jpg, 2008]]
+, 2008]]
 
 An ENVIRONMENTALIST is a supporter of the goals of the environmental movement, "a political and ethical movement that seeks to improve and protect the quality of the natural environment through changes to environmentally harmful human activities".[1] An environmentalist is engaged in or believes in the philosophy of environmentalism.
 
@@ -7,7 +7,7 @@ Environmentalists are sometimes referred to using informal or derogatory terms s
 
 Notable environmentalists
 
-David_Attenborough_(cropped).jpg in May 2003]] Ac.garrett1.jpg campaigning for the 2004 Australian federal election]] Al_Gore.jpg, 2007]] Hunter_Lovins.jpg, 2007]] Phil_Radford.jpg, 2011]] Greta_Thunberg_sp119.jpg, 2018]] Some of the notable environmentalists who have been active in lobbying for environmental protection and conservation include:
+in May 2003]] campaigning for the 2004 Australian federal election]] , 2007]] , 2007]] , 2011]] , 2018]] Some of the notable environmentalists who have been active in lobbying for environmental protection and conservation include:
 
 -   Edward Abbey (writer, activist, philosopher)
 -   Bayarjargal Agvaantseren (Mongolian conservationist)

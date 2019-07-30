@@ -1,5 +1,3 @@
-Data_warehouse_overview.JPG Data_warehouse_architecture.jpg
-
 In computing, a DATA WAREHOUSE (DW or DWH), also known as an ENTERPRISE DATA WAREHOUSE (EDW), is a system used for reporting and data analysis, and is considered a core component of business intelligence.[1] DWs are central repositories of integrated data from one or more disparate sources. They store current and historical data in one single place[2] that are used for creating analytical reports for workers throughout the enterprise.[3]
 
 The data stored in the warehouse is uploaded from the operational systems (such as marketing or sales). The data may pass through an operational data store and may require data cleansing[4] for additional operations to ensure data quality before it is used in the DW for reporting.

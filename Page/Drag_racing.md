@@ -1,4 +1,4 @@
-Tree_counting_down.JPG, outside Saskatoon, Saskatchewan. Note the blinder, to prevent the driver from being distracted by the lights for the other lane.]]
+, outside Saskatoon, Saskatchewan. Note the blinder, to prevent the driver from being distracted by the lights for the other lane.]]
 
 DRAG RACING is a type of motor racing in which automobiles or motorcycles (usually specially prepared for the purpose) compete, usually two at a time, to be first to cross a set finish line. The race follows a short, straight course from a standing start over a measured distance, most commonly , with a shorter () becoming increasingly popular, as it has become the standard for Top Fuel dragsters and funny cars, where some major bracket races and other sanctioning bodies have adopted it as the standard, while the is also popular in some circles. Electronic timing and speed sensing systems have been used to record race results since the 1960s.
 
@@ -6,8 +6,6 @@ The history of automobiles and motorcycles being used for drag racing is nearly 
 
 
 Basics of drag racing
-
-Pro_Street_Camaro_at_launch.JPG
 
 Starting
 
@@ -39,12 +37,12 @@ Distances
 
 The standard distance of a drag race is 1,320 feet, 402 m, or 1/4 mile. However, due to safety concerns, certain sanctioning bodies (notably the NHRA for its Top Fuel and Funny Car classes) have shortened races to 1,000 feet. Some drag strips are even shorter and run 660 feet, 201 m, or 1/8 mile. The 1,000 foot distance is now also popular with bracket racing, especially in meets where there are 1/8 mile cars and 1/4 mile cars racing together, and is used by the revived American Drag Racing League for its primary classes (not Jr Dragster). Some organisations that deal with Pro Modified and "Mountain Motor" Pro Stock cars (Professional Drag Racers Association) use the 1/8 mile distance, even if the tracks are 1/4 mile tracks.
 
-1958_Fuel_Dragster.jpg dragster (technically, a rail), on display at the California Automobile Museum]] Funny_Car.jpg
+dragster (technically, a rail), on display at the California Automobile Museum]]
 
 
 Racing organizations
 
-Delivering_timeslips.jpg Blown_Altered.JPG, Gimli, Manitoba.]]
+, Gimli, Manitoba.]]
 
 North America
 
@@ -126,33 +124,21 @@ Drag racing is an established sport in South Africa, with a number of strips aro
 
 Classes
 
-Caterpiller-sponsored_dragster.jpg
-
 There are hundreds of classes in drag racing, each with different requirements and restrictions on things such as weight, engine size, body style, modifications, and many others. NHRA and IHRA share some of these classes, but many are solely used by one sanctioning body or the other. The NHRA boasts over 200 classes, while the IHRA has fewer. Some IHRA classes have multiple sub-classes in them to differentiate by engine components and other features. There is even a class for aspiring youngsters, Junior Dragster, which typically uses an eighth-mile track, also favored by VW racers.
 
 In 1997, the FIA (cars) and UEM (bikes) began sanctioning drag racing in Europe with a fully established European Drag Racing Championship, in cooperation (and rules compliance) with NHRA. The major European drag strips include Santa Pod Raceway in Podington, England; Alastaro Circuit, Finland; Mantorp Park, Sweden; Gardermoen Raceway, Norway and the Hockenheimring in Germany.
 
-'Pain_Killer'_jr._dragster.JPG
-
 There is a somewhat arbitrary definition of what constitutes a "professional" class. The NHRA includes 5 pro classes; Top Fuel, Funny Car, Pro Stock, Pro Modified and Pro Stock Motorcycle. The FIA features a different set of 5 pro classes; Top Fuel, Top Methanol Dragster, Top Methanol Funny Car, Pro Modified and Pro Stock. Other sanctioning bodies have similarly different definitions. A partial list of classes includes:
-
-Top_Fuel.JPG
 
 -   Top Fuel Dragster (TF/D). The dragsters, or "diggers", are the fastest class. Among the fastest-accelerating machines in the world, these cars can cover the dragstrip in less than 3.7 seconds and record trap speeds over . Modern Top Fuel dragsters are long and weigh in race-ready trim. Methanol mixed with up to 90% nitromethane is used as fuel.
 
-Funny_Car_AAA.JPG
-
 -   Top Fuel Funny Car (TF/FC) Similar to their dragster counterparts but with a shorter wheelbase and a carbon-fiber body that loosely resembles a production-based automobile, Funny Cars, or “floppers,” routinely run in the 4.0s and can exceed 315 mph. In 2017 NHRA driver Robert Height ran a career best ET. 3.793 and speed of 339.87 mph.
-
-Pro_Stock.JPG
 
 -   Pro Stock (NHRA, IHRA/MMPSA) Often called “factory hot rods” because of their resemblance to production-based cars (and because they must maintain a relatively stock appearance), and commonly known as "doorslammers", Pro Stockers can record quarter-mile times in the 6.4 second range, and speeds over . They can rev to more than 10,500 rpm and make in excess of . NHRA engines can be no more than displacement while MMPSA cars can run a maximum of (called "Mountain Motors"). IHRA engines can be no more than . Both classes require the motors to be naturally aspirated.
 -   Pro Stock Motorcycle (NHRA and IHRA) These highly modified vehicles, which can run under 6.8 seconds at more than 195 mph, feature a purpose-built tube chassis and a lightweight, aerodynamically enhanced replica of original bodywork.
 -   Pro Modified (Pro Mod). Known as Top Doorslammer in Australia. Some engine restrictions, very high power. Cars can run superchargers, turbochargers, or nitrous oxide. Cars running blowers are limited to while cars with nitrous can run up to . This class is globally recognised, although the name differs between North America and Australia.
 -   Top Alcohol Dragster (TA/D). Known as Top Methanol Dragster in FIA competition. Top Alcohol Dragsters resemble Top Fuelers, but have significant differences. They may use a supercharged methanol-burning engine or an injected nitromethane combination. They can run in the 5.1s at more than 280 mph.
 -   Top Alcohol Funny Car (TA/FC). Known as Top Methanol Funny Car in FIA competition. Similar in physical appearance to their nitro-burning Funny Car counterparts, Top Alcohol Funny Cars are restricted to the use of methanol fuel and have three-speed transmissions. They can run in the 5.4s at more than 265 mph. In the IHRA, Alcohol Funny Car is the fifth pro category, replacing NHRA's Pro Stock Bike.
-
-Comp_Eliminator.JPG
 
 -   Competition Eliminator This is the NHRA class with the most variety. Each of its 88 sections is assigned an index based on what a well-built car should run, and races are handicapped according to those indexes.
 -   Outlaw Series
@@ -161,21 +147,13 @@ Comp_Eliminator.JPG
 -   Stick Shift Reserved for vehicles with a Manual transmission. The rising popularity of automatic transmissions in drag racing created the demand for these classes. Popular sanctioning bodies include United Manual Transmission Racers, Pro Stick Racing, Rocky Mountain Stick Shifters, and Ozark Mountain Super Shifters.
 -   Super Comp/Quick Rod The quickest of the heads-up Super classes (8.90 index) is composed primarily of dragsters. Most cars are capable of running well under the index but use electronic aids to run close to it without breaking out.
 
-Super_Gas_Probe.JPG
-
 -   Super Gas/Super Rod Super Gas entries, which run on a 9.90 index, are primarily full-bodied cars and street roadsters. No dragsters or altereds are permitted. As in Super Comp, competitors use electronic aids to run as close to the class standard without going under.
 -   Super Street/Hot Rod Racers compete on a fixed 10.90 index. All vehicles must be full-bodied cars and weigh no less than 2,800 pounds except for six-cylinder cars (2,000) and four-cylinder and rotary-powered cars (1,200). Engine and chassis modifications are virtually unlimited.
-
-Super_Street_Mustang.JPG
-
-Super_Stock.JPG
 
 -   Super Stock Super Stock vehicles resemble ordinary passenger cars, but are actually heavily modified. Entries are classified using factory shipping weight and horsepower and compete on indexes. The breakout rule is enforced.
 -   Stock Stock cars are similar to Super Stockers, but rules regarding everything from engine modifications to body alterations are much stricter. Virtually any car is eligible to compete, and entries are classified using factory shipping weight and horsepower.
 -   Sport Compact
 -   Top Sportsman (NHRA, IHRA, ANDRA) Competitors in these full-bodied entries may choose their own dial-in for eliminations, generally from 6.00 to 7.99 seconds. Full Tree starts are used, and the breakout rule is enforced. Cars can run in the sixes at more than .
-
-Top_Dragster.JPG
 
 -   Top Dragster (T/D) (NHRA, IHRA, ANDRA) Competitors in these open-wheel entries may choose their own dial-in for eliminations, generally from 6.00 to 7.70 seconds. Full tree starts are used, and the breakout rule is enforced. Cars can run in the sixes at more than . Cars can run any combination of motor: blown, turbo, nitrous or just all motor.
 -   Top Fuel Funny Bike (high performance 5 second bikes)
@@ -185,8 +163,6 @@ Top_Dragster.JPG
 -   NHRA new class for Juniors is JR COMP running 6.90s at a top speed of (1/8 mile or 1/16 mile).
 
 A complete listing of all classes can be found on the respective NHRA and IHRA official websites.
-
-Dragster_engine.jpg
 
 The UEM also has a different structure of professional categories with Top Fuel Bike, Super Twin Top Fuel Bike, and Pro Stock Bike contested, leaving the entire European series with a total of 8 professional categories.
 
@@ -201,8 +177,6 @@ A 'dial-in' is a time the driver estimates it will take his or her car to cross 
 
 The effect of the bracket racing rules is to place a premium on consistency of performance of the driver and car rather than on raw speed, in that victory goes to the driver able to precisely predict elapsed time, whether it is fast or slow. This in turn makes victory much less dependent on budget, and more dependent on skill, making it popular with casual weekend racers.
 
-Blazing_Angel_Jet_Dragster.jpg
-
 
 History
 
@@ -212,8 +186,6 @@ The organization banned the use of nitromethane in 1957, calling it unsafe, in p
 
 
 Historic cars
-
-White_owl_rear_shot.jpg
 
 -   1954 — first slingshot, built by Mickey Thompson;[27]_Hot Rod_, 12/86, p. 29 sidebar. _Smokin' White Owl_ built by "Ollie" Morris, first purpose-built rear-engined dragster and first to use a Chevrolet V8 engine.[28][29]
 -   1962 — the Greer–Black–Prudhomme digger, with the best win record in NHRA history.[30]

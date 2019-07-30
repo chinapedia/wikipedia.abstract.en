@@ -2,14 +2,14 @@ ETA (uppercase , lowercase ; _ē̂ta_ or _ita_ ) is the seventh letter of the Gr
 
 In the ancient Attic number system (Harodianic or acrophonic numbers), the number 100 was represented by "", because it was the initial of _ΗΕΚΑΤΟΝ_, the ancient spelling of _ἑκατόν_ = "one hundred". In the latter system of (Classical) Greek numerals it has a value of 8.
 
-Eta was derived from the Phoenician letter heth Phoenician_heth.svg. Letters that arose from eta include the Latin H and the Cyrillic letter И.
+Eta was derived from the Phoenician letter heth . Letters that arose from eta include the Latin H and the Cyrillic letter И.
 
 
 History
 
 Consonant h
 
-41_-_Stoà_of_Attalus_Museum_-_Ostracism_against_Megakles_(487_BC)_-_Photo_by_Giovanni_Dall'Orto,_Nov_9_2009.jpg) in the function of /h/ on the ostrakon of Megacles, son of Hippocrates, 487 BC. Inscription: ΜΕΓΑΚLES HIΠΠΟΚRATOS. On display in the Ancient Agora Museum in Athens, housed in the Stoa of Attalus.]] Hermes_e_Sarpedon.jpg calyx-krater, 515 BC. Amongst the depicted figures are Hermes and Hypnos. Inscriptions: HERMES - HYPNOS.]] The letter shape 'H' was originally used in most Greek dialects to represent the sound /h/, a voiceless glottal fricative. In this function, it was borrowed in the 8th century BC by the Etruscan and other Old Italic alphabets, which were based on the Euboean form of the Greek alphabet. This also gave rise to the Latin alphabet with its letter H.
+) in the function of /h/ on the ostrakon of Megacles, son of Hippocrates, 487 BC. Inscription: ΜΕΓΑΚLES HIΠΠΟΚRATOS. On display in the Ancient Agora Museum in Athens, housed in the Stoa of Attalus.]] calyx-krater, 515 BC. Amongst the depicted figures are Hermes and Hypnos. Inscriptions: HERMES - HYPNOS.]] The letter shape 'H' was originally used in most Greek dialects to represent the sound /h/, a voiceless glottal fricative. In this function, it was borrowed in the 8th century BC by the Etruscan and other Old Italic alphabets, which were based on the Euboean form of the Greek alphabet. This also gave rise to the Latin alphabet with its letter H.
 
 Other regional variants of the Greek alphabet (epichoric alphabets), in dialects that still preserved the sound /h/, employed various glyph shapes for consonantal _heta_ side by side with the new vocalic _eta_ for some time. In the southern Italian colonies of Heracleia and Tarentum, the letter shape was reduced to a "half-heta" lacking the right vertical stem (Ͱ). From this sign later developed the sign for rough breathing or _spiritus asper_, which brought back the marking of the /h/ sound into the standardized post-classical (polytonic) orthography.[1] Dionysius Thrax in the second century BC records that the letter name was still pronounced _heta_ (ἥτα), correctly explaining this irregularity by stating "in the old days the letter Η served to stand for the rough breathing, as it still does with the Romans."[2]
 

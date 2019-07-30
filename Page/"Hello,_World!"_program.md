@@ -1,4 +1,4 @@
-HelloWorld_Maktivism_ComputerProgramming_LEDs.jpg with a moving strip of LED lights]]
+with a moving strip of LED lights]]
 
 A "HELLO, WORLD!" PROGRAM generally is a computer program that outputs or displays the message "Hello, World!". Such a program is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language. It is often the first program written by people learning to code.[1][2]
 
@@ -12,7 +12,7 @@ A "Hello, World!" program is traditionally used to introduce novice programmers 
 
 History
 
-Hello_World_Brian_Kernighan_1974.jpg (1978)]] While small test programs have existed since the development of programmable computers, the tradition of using the phrase "Hello, world!" as a test message was influenced by an example program in the seminal 1978 book _The C Programming Language_.[3] The example program in that book prints "", and was inherited from a 1974 Bell Laboratories internal memorandum by Brian Kernighan, _Programming in C: A Tutorial_:[4]
+(1978)]] While small test programs have existed since the development of programmable computers, the tradition of using the phrase "Hello, world!" as a test message was influenced by an example program in the seminal 1978 book _The C Programming Language_.[3] The example program in that book prints "", and was inherited from a 1974 Bell Laboratories internal memorandum by Brian Kernighan, _Programming in C: A Tutorial_:[4]
 
     main( ) {
             printf("hello, world\n");
@@ -38,7 +38,7 @@ For modern languages, hello, world programs vary in sophistication. For example,
 
 Variations
 
-PSP-Homebrew.jpeg as a proof of concept.]] There are many variations on the punctuation and casing of the phrase. Variations include the presence or absence of the comma and exclamation mark, and the capitalization of the 'H', both the 'H' and the 'W', or neither. Some languages are forced to implement different forms, such as "HELLO WORLD", on systems that support only capital letters, while many "hello, world" programs in esoteric languages print out a slightly modified string. For example, the first non-trivial Malbolge program printed "HEllO WORld", this having been determined to be good enough.[11]
+as a proof of concept.]] There are many variations on the punctuation and casing of the phrase. Variations include the presence or absence of the comma and exclamation mark, and the capitalization of the 'H', both the 'H' and the 'W', or neither. Some languages are forced to implement different forms, such as "HELLO WORLD", on systems that support only capital letters, while many "hello, world" programs in esoteric languages print out a slightly modified string. For example, the first non-trivial Malbolge program printed "HEllO WORld", this having been determined to be good enough.[11]
 
 There are variations in spirit, as well. Functional programming languages, like Lisp, ML and Haskell, tend to substitute a factorial program for Hello, World, as functional programming emphasizes recursive techniques, whereas the original examples emphasize I/O, which violates the spirit of pure functional programming by producing side effects. Languages otherwise capable of Hello, World (Assembly, C, VHDL) may also be used in embedded systems, where text output is either difficult (requiring additional components or communication with another computer) or nonexistent. For devices such as microcontrollers, field-programmable gate arrays, and CPLD's, "Hello, World" may thus be substituted with a blinking LED, which demonstrates timing and interaction between components.[12][13][14][15][16]
 

@@ -1,4 +1,4 @@
-Haggai-prophet.jpg of Haggai, 18th century (Iconostasis of Kizhi monastery, Karelia, Russia).]]
+of Haggai, 18th century (Iconostasis of Kizhi monastery, Karelia, Russia).]]
 
 HAGGAI (; – _Ḥaggay_; Koine Greek: Ἀγγαῖος; ) was a Hebrew prophet during the building of the Second Temple in Jerusalem, and one of the twelve minor prophets in the Hebrew Bible and the author of the Book of Haggai. He is known for his prophecy in 520 BCE, commanding the Jews to rebuild the Temple.[1] His name means "my holiday." He was the first of three post-exile prophets from the Neo-Babylonian Exile of the House of Judah (with Zechariah, his contemporary, and Malachi, who lived about one hundred years later), who belonged to the period of Jewish history which began after the return from captivity in Babylon.
 
@@ -9,7 +9,7 @@ The name Haggai, with various vocalizations, is also found in the Book of Esther
 
 Haggai Prophecies
 
-Tissot_Haggai.jpg)]] Haggai prophesied in 520 BCE Jerusalem, about the people needing to complete building the Temple. The new Temple was bound to exceed the awesomeness of the previous Temple. He claimed if the Temple was not built there would be poverty, famine and drought affecting the Jewish nation.
+)]] Haggai prophesied in 520 BCE Jerusalem, about the people needing to complete building the Temple. The new Temple was bound to exceed the awesomeness of the previous Temple. He claimed if the Temple was not built there would be poverty, famine and drought affecting the Jewish nation.
 
 There is a controversy regarding who edited Haggai's works. According to scholars, they credit it to his students. However, Jewish Tradition believe, that the Men of the Great Assembly were responsible for the edits. The Men of the Great Assembly are traditionally known for continuing the work of Ezra and Nehemiah.[3]
 

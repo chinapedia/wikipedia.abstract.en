@@ -1,4 +1,4 @@
-Brandwand_2.jpg, separating the building into two separate residential units, and fire areas.]] Brandwand_3.jpg unit, showing how the firewall extends above the roofline.]] Power_systems_in_Toppila_Jun2008.jpg used to inhibit the spread of a fire at an electrical substation.]] A FIREWALL is a fire-resistant barrier used to prevent the spread of fire for a prescribed period of time. Firewalls are built between or through buildings, structures, electrical substation transformers, or within an aircraft or vehicle.
+, separating the building into two separate residential units, and fire areas.]] unit, showing how the firewall extends above the roofline.]] used to inhibit the spread of a fire at an electrical substation.]] A FIREWALL is a fire-resistant barrier used to prevent the spread of fire for a prescribed period of time. Firewalls are built between or through buildings, structures, electrical substation transformers, or within an aircraft or vehicle.
 
 
 Applications
@@ -10,7 +10,7 @@ Firewalls can be used to separate-high value transformers at an electrical subst
 
 Types
 
-Firewall_construction_2.JPG Waynesboro_Outlet_Village_Building_4.jpg, showing a concrete firewall running through the building]] Waynesboro_Outlet_Village_Building_7_after_fire.jpg, following a firefighter training exercise which intentionally burned the building]] There are three main classifications of _fire rated walls_: fire walls, fire barriers, and fire partitions. To the layperson, the common use of language typically includes all three when referring to a _firewall_ unless distinguishing between them becomes necessary. In addition specialty fire-rated walls such as a High Challenge Fire Wall would require further distinctions.
+, showing a concrete firewall running through the building]] , following a firefighter training exercise which intentionally burned the building]] There are three main classifications of _fire rated walls_: fire walls, fire barriers, and fire partitions. To the layperson, the common use of language typically includes all three when referring to a _firewall_ unless distinguishing between them becomes necessary. In addition specialty fire-rated walls such as a High Challenge Fire Wall would require further distinctions.
 
 -   A _firewall_ is an assembly of materials used to separate transformers, structures, or large buildings to prevent the spread of fire by constructing a wall which extends from the foundation through the roof with a prescribed fire resistance duration and independent structural stability. This allows a building to be subdivided into smaller sections. If a section becomes structurally unstable due to fire or other causes, that section can break or fall away from the other sections in the building. [1]
 -   A _fire barrier wall_, or a _fire partition_, is a fire-rated wall assembly that provides lower levels of protection than typically provided by a fire wall. The main differences are that these fire resistant walls are not structurally self-sufficient. [2]
@@ -31,7 +31,7 @@ Characteristics
 
 Materials
 
-Smolina_20,_Ulan-Ude.jpg]]
+]]
 
 -   Building and structural firewalls in North America are usually made of concrete, concrete blocks, or reinforced concrete. Older fire walls, built prior to World War II, utilized brick materials.
 -   Fire barrier walls are typically constructed of drywall or gypsum board partitions with wood or metal framed studs.
@@ -48,7 +48,7 @@ Performance based design takes into account the potential conditions during a fi
 
 Firewalls in vehicles
 
-Dash_firewall.svg JeepLiberty_FirewallPenetration_Insulation.jpg firewall insulation]] Firewalls are also regularly found in aircraft and in specially prepared cars for compartmentalisation and competition use. For example, a typical conversion of a production car for rallying will include a metal firewall which seals the fuel tank off from the interior of the vehicle. In the event of an accident, resulting in fuel spillage, the firewall can prevent burning fuel from entering the passenger compartment, where it could cause serious injury or death. In regular stock cars, the firewall separates the engine compartment from the cabin and can, at times, contain fibreglass insulation. Automotive firewalls have to be fitted so that they form a complete seal. Usually this is done by bonding the sheet metal to the bodywork using fibreglass resin.
+firewall insulation]] Firewalls are also regularly found in aircraft and in specially prepared cars for compartmentalisation and competition use. For example, a typical conversion of a production car for rallying will include a metal firewall which seals the fuel tank off from the interior of the vehicle. In the event of an accident, resulting in fuel spillage, the firewall can prevent burning fuel from entering the passenger compartment, where it could cause serious injury or death. In regular stock cars, the firewall separates the engine compartment from the cabin and can, at times, contain fibreglass insulation. Automotive firewalls have to be fitted so that they form a complete seal. Usually this is done by bonding the sheet metal to the bodywork using fibreglass resin.
 
 The term firewall is also commonly used in American English to refer to the barrier between the passenger and engine compartments of a vehicle. The inner and outer surfaces of the firewall are often coated with noise, vibration, and harshness (NVH) absorber to prevent most engine noise from reaching the passenger compartment. In British English, the term for this barrier is bulkhead.
 

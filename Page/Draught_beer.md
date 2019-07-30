@@ -1,5 +1,3 @@
-Keg_Fonts.jpg
-
 DRAUGHT BEER, also spelt DRAFT, is beer served from a cask or keg rather than from a bottle or can. Draught beer served from a pressurised keg is also known as
 
 
@@ -21,7 +19,7 @@ In Britain, the Campaign for Real Ale (CAMRA) was founded in 1971 to protect tra
 
 Keg beer
 
-Keg1.jpg Keg beer is often filtered and/or pasteurised, both of which are processes that render the yeast inactive.
+Keg beer is often filtered and/or pasteurised, both of which are processes that render the yeast inactive.
 
 In brewing parlance, a keg is different from a cask. A cask has a tap hole near the edge of the top, and a spile hole on the side used for conditioning the unfiltered and unpasteurised beer. A keg has a single opening in the centre of the top to which a flow pipe is attached. Kegs are artificially pressurised after fermentation with carbon dioxide or a mixture of carbon dioxide and nitrogen gas.
 

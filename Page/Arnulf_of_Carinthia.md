@@ -43,7 +43,7 @@ Arnulf failed to conquer the whole of Great Moravia in wars of 892, 893, and 899
 
 King of Italy and Holy Roman Emperor
 
-Arnulf_Korutanský.jpg Johann_Jakob_Jung_Ludwig_das_Kind_und_Arnulf_von_Kärnten.jpg by Johann Jakob Jung (19th century).]] In Italy Guy III of Spoleto and Berengar of Friuli fought over the Iron Crown of Lombardy. Berengar had been crowned king in 887, but Guy was then crowned in 889. While Pope Stephen V supported Guy, even crowning him Roman Emperor in 891, Arnulf threw his support behind Berengar.[37]
+by Johann Jakob Jung (19th century).]] In Italy Guy III of Spoleto and Berengar of Friuli fought over the Iron Crown of Lombardy. Berengar had been crowned king in 887, but Guy was then crowned in 889. While Pope Stephen V supported Guy, even crowning him Roman Emperor in 891, Arnulf threw his support behind Berengar.[37]
 
 In 893 the new Pope Formosus, not trusting the newly crowned co-emperors Guy III of Spoleto and his son Lambert II of Spoleto, sent an embassy to Omuntesberch, where Arnulf was meeting with Svatopluk I of Moravia,[38] to request that Arnulf come and liberate Italy,[39] where he would be crowned emperor in Rome. Arnulf met the _Primores_ of the Kingdom of Italy, dismissed them with gifts and promised to assist the pope.[40] Arnulf then sent his son Zwentibold with a Bavarian army to join Berengar of Friuli. They defeated Guy, but were bought off and left in autumn.
 

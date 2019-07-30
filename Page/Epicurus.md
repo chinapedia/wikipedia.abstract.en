@@ -15,15 +15,13 @@ Upbringing and influences
 
 Epicurus was born in the Athenian settlement on the Aegean island of Samos in February 341 BC.[2] His parents, Neocles and Chaerestrate, were both Athenian-born, and his father was an Athenian citizen.[3] Epicurus grew up during the final years of the Greek Classical Period. Plato had died seven years before Epicurus was born and Epicurus was seven years old when Alexander the Great crossed the Hellespont into Persia. As a child, Epicurus would have received a typical ancient Greek education. As such, according to Norman Wentworth DeWitt, "it is inconceivable that he would have escaped the Platonic training in geometry, dialectic, and rhetoric." Epicurus is known to have studied under the instruction of a Samian Platonist named Pamphilus, probably for about four years. His _Letter of Menoeceus_ and surviving fragments of his other writings strongly suggest that he had extensive training in rhetoric. After the death of Alexander the Great, Perdiccas expelled the Athenian settlers on Samos to Colophon, on the coast of what is now Turkey.[4] After the completion of his military service, Epicurus joined his family there. He studied under Nausiphanes, who followed the teachings of Democritus,[5] and later those of Pyrrho.[6][7]
 
-Diadochi_satraps_babylon.png in 323 BC after the death of Alexander the Great. Epicurus came of age at a time when Greek intellectual horizons were vastly expanding due to the rise of the Hellenistic Kingdoms across the Near East.]]
+in 323 BC after the death of Alexander the Great. Epicurus came of age at a time when Greek intellectual horizons were vastly expanding due to the rise of the Hellenistic Kingdoms across the Near East.]]
 
 Epicurus's teachings were heavily influenced by those of earlier philosophers, particularly Democritus. Nonetheless, Epicurus differed from his predecessors on several key points of determinism and vehemently denied having been influenced by any previous philosophers, whom he denounced as "confused". Instead, he insisted that he had been "self-taught".[8] According to DeWitt, Epicurus's teachings also show influences from the contemporary philosophical school of Cynicism. The Cynic philosopher Diogenes of Sinope was still alive when Epicurus would have been in Athens for his required military training and it is possible they may have met. Diogenes's pupil Crates of Thebes ( 365 – 285 BC) was a close contemporary of Epicurus. Epicurus agreed with the Cynics' quest for honesty, but rejected their "insolence and vulgarity", instead teaching that honesty must be coupled with courtesy and kindness. Epicurus shared this view with his contemporary, the comic playwright Menander.
 
 Epicurus's _Letter to Menoeceus_, possibly an early work of his, is written in an eloquent style similar to that of the Athenian rhetorician Isocrates (436–338 BC), but, for his later works, he seems to have adopted the bald, intellectual style of the mathematician Euclid. Epicurus's epistemology also bears an unacknowledged debt to the later writings of Aristotle (384–322 BC), who rejected the Platonic idea of hypostatic Reason and instead relied on nature and empirical evidence for knowledge about the universe. During Epicurus's formative years, Greek knowledge about the rest of the world was rapidly expanding due to the Hellenization of the Near East and the rise of Hellenistic kingdoms. Epicurus's philosophy was consequently more universal in its outlook than those of his predecessors, since it took cognizance of non-Greek peoples as well as Greeks. He may have had access to the now-lost writings of the historian and ethnographer Megasthenes, who wrote during the reign of Seleucus I Nicator (ruled 305–281 BC).
 
 Teaching career
-
-Epikur_Statue.jpg
 
 During Epicurus's lifetime, Platonism was the dominant philosophy in higher education. Epicurus's radical opposition to Platonism drove the development of a large part of his thought. Over half of the forty Authorized Doctrines of Epicureanism are flat contradictions of Platonism. In around 311 BC, Epicurus, when he was only around thirty years old, began teaching in Mytilene. Around this time, Zeno of Citium, the founder of Stoicism, arrived in Athens at the age of about twenty-one. Although later texts, such as the writings of the first-century BC Roman orator Cicero, portray Epicureanism and Stoicism as rivals, this rivalry seems to have only emerged in later times and did not exist during Epicurus's own lifetime. Zeno, however, did not begin teaching until long after Epicurus.
 
@@ -42,7 +40,7 @@ If authentic, this letter would support the tradition that Epicurus was able to 
 
 Teachings
 
-Epikur.jpg. Three Epicurus bronze busts were recovered from the Villa of the Papyri, as well as text fragments.[22]]]
+. Three Epicurus bronze busts were recovered from the Villa of the Papyri, as well as text fragments.[22]]]
 
 Epistemology
 
@@ -58,7 +56,7 @@ Epicurus strongly favored naturalistic explanations over theological ones. In hi
 
 Ethics
 
-Museum_of_Side_029.jpg being tortured on a spinning fiery wheel in Tartarus. Epicurus taught that stories of such punishment in the afterlife are ridiculous superstitions and that believing in them prevents people from attaining _ataraxia_.]]
+being tortured on a spinning fiery wheel in Tartarus. Epicurus taught that stories of such punishment in the afterlife are ridiculous superstitions and that believing in them prevents people from attaining _ataraxia_.]]
 
 Epicurus was a hedonist, meaning he taught that what is pleasurable is morally good and what is painful is morally evil. He idiosyncratically defined "pleasure" as the absence of suffering and taught that all humans should seek to attain the state of _ataraxia_, meaning "untroubledness", a state in which the person is completely free from all pain or suffering.[24][25] He argued that most of the suffering which human beings experience is caused by the irrational fears of death, divine retribution, and punishment in the afterlife. In his _Letter to Menoeceus_, Epicurus explains that people seek wealth and power on account of these fears, believing that having more money, prestige, or political clout will save them from death. He, however, maintains that death is the end of existence, that the terrifying stories of punishment in the afterlife are ridiculous superstitions, and that death is therefore nothing to be feared. He writes in his _Letter to Menoeceus_: "Accustom thyself to believe that death is nothing to us, for good and evil imply sentience, and death is the privation of all sentience;... Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not." From this doctrine arose the Epicurean epitaph: _Non fui, fui, non sum, non curo_ ("I was not; I was; I am not; I do not care"), which is inscribed on the gravestones of his followers and seen on many ancient gravestones of the Roman Empire. This quotation is often used today at humanist funerals.[26]
 
@@ -80,7 +78,7 @@ Epicurus was first to assert human freedom as a result of the fundamental indete
 
 Theology
 
-Iphigeneia_sacrificed_MAN_Napoli_Inv9112.jpg, showing the mythical human sacrifice of Iphigenia, daughter of Agamemnon. Epicurus's devoted follower, the Roman poet Lucretius, cited this myth as an example of the evils of popular religion, in contrast to the more wholesome theology advocated by Epicurus.]]
+, showing the mythical human sacrifice of Iphigenia, daughter of Agamemnon. Epicurus's devoted follower, the Roman poet Lucretius, cited this myth as an example of the evils of popular religion, in contrast to the more wholesome theology advocated by Epicurus.]]
 
 In his _Letter to Menoeceus_, a summary of his own moral and theological teachings, the first piece of advice Epicurus himself gives to his student is: "First, believe that a god is an indestructible and blessed animal, in accordance with the general conception of god commonly held, and do not ascribe to god anything foreign to his indestructibility or repugnant to his blessedness." Epicurus maintained that he and his followers knew that the gods exist because "our knowledge of them is a matter of clear and distinct perception", meaning that people can empirically sense their presences. He did not mean that people can see the gods as physical objects, but rather that they can see visions of the gods sent from the remote regions of interstellar space in which they actually reside. According to George K. Strodach, Epicurus could have easily dispensed of the gods entirely without greatly altering his materialist worldview, but the gods still play one important function in Epicurus's theology as the paragons of moral virtue to be emulated and admired.
 
@@ -90,7 +88,7 @@ Epicurus himself criticizes popular religion in both his _Letter to Menoeceus_ a
 
 Epicurean paradox
 
-Painting_of_David_Hume.jpg is attributed to Epicurus by David Hume (_pictured_), who was relying on an attribution of it to him by the Christian apologist Lactantius. The trilemma does not occur in any of Epicurus's extant writings, however. If Epicurus did write some version of it, it would have been an argument against divine providence, not the existence of deities.]] The EPICUREAN PARADOX or RIDDLE OF EPICURUS or EPICURUS' TRILEMMA is a version of the problem of evil. Lactantius attributes this trilemma to Epicurus in _De Ira Dei_, 13, 20-21:
+is attributed to Epicurus by David Hume (_pictured_), who was relying on an attribution of it to him by the Christian apologist Lactantius. The trilemma does not occur in any of Epicurus's extant writings, however. If Epicurus did write some version of it, it would have been an argument against divine providence, not the existence of deities.]] The EPICUREAN PARADOX or RIDDLE OF EPICURUS or EPICURUS' TRILEMMA is a version of the problem of evil. Lactantius attributes this trilemma to Epicurus in _De Ira Dei_, 13, 20-21:
 
   God, he says, either wishes to take away evils, and is unable; or He is able, and is unwilling; or He is neither willing nor able, or He is both willing and able. If He is willing and is unable, He is feeble, which is not in accordance with the character of God; if He is able and unwilling, He is envious, which is equally at variance with God; if He is neither willing nor able, He is both envious and feeble, and therefore not God; if He is both willing and able, which alone is suitable to God, from what source then are evils? Or why does He not remove them?
 
@@ -109,7 +107,7 @@ But the Epicureans did have an innovative theory of justice as a social contract
 
 Works
 
-Epicurus_Nuremberg_Chronicle.jpg]]
+]]
 
 Epicurus was an extremely prolific writer. According to Diogenes Laërtius, he wrote around 300 treatises on a variety of subjects. More original writings of Epicurus have survived to the present day than of any other Hellenistic Greek philosopher. Nonetheless, the vast majority of everything he wrote has now been lost and most of what is known about Epicurus's teachings come from the writings of his later followers, particularly the Roman poet Lucretius. The only surviving complete works by Epicurus are three relatively lengthy letters, which are quoted in their entirety in Book X of Diogenes Laërtius's _Lives and Opinions of Eminent Philosophers_, and two groups of quotes: the _Principal Doctrines_ (Κύριαι Δόξαι), which are likewise preserved through quotation by Diogenes Laërtius, and the _Vatican Sayings_, preserved in a manuscript from the Vatican Library that was first discovered in 1888. In the _Letter to Herodotus_ and the _Letter to Pythocles_, Epicurus summarizes his philosophy on nature and, in the _Letter to Menoeceus_, he summarizes his moral teachings. Numerous fragments of Epicurus's lost thirty-seven volume treatise _On Nature_ have been found among the charred papyrus fragments at the Villa of the Papyri at Herculaneum. Scholars first began attempting to unravel and decipher these scrolls in 1800, but the efforts are painstaking and are still ongoing.
 
@@ -165,7 +163,7 @@ Legacy
 
 Ancient Epicureanism
 
-Epicurus_Louvre.jpg in the Louvre Museum]] Epicureanism was extremely popular from the very beginning. Diogenes Laërtius records that the number of Epicureans throughout the world exceeded the populations of entire cities. Nonetheless, Epicurus was not universally admired and, within his own lifetime, he was vilified as an ignorant buffoon and egoistic sybarite. He remained the most simultaneously admired and despised philosopher in the Mediterranean for the next nearly five centuries. Epicureanism rapidly spread beyond the Greek mainland all across the Mediterranean world. By the first century BC, it had established a strong foothold in Italy. The Roman orator Cicero (106 – 43 BC), who deplored Epicurean ethics, lamented, "the Epicureans have taken Italy by storm."
+in the Louvre Museum]] Epicureanism was extremely popular from the very beginning. Diogenes Laërtius records that the number of Epicureans throughout the world exceeded the populations of entire cities. Nonetheless, Epicurus was not universally admired and, within his own lifetime, he was vilified as an ignorant buffoon and egoistic sybarite. He remained the most simultaneously admired and despised philosopher in the Mediterranean for the next nearly five centuries. Epicureanism rapidly spread beyond the Greek mainland all across the Mediterranean world. By the first century BC, it had established a strong foothold in Italy. The Roman orator Cicero (106 – 43 BC), who deplored Epicurean ethics, lamented, "the Epicureans have taken Italy by storm."
 
 The overwhelming majority of surviving Greek and Roman sources are vehemently negative towards Epicureanism and, according to Gordon, they routinely depict Epicurus himself as "monstrous or laughable". Many Romans in particular took a negative view of Epicureanism, seeing its advocacy of the pursuit of _voluptas_ ("pleasure") as contrary to the Roman ideal of _virtus_ ("manly virtue"). The Romans therefore often stereotyped Epicurus and his followers as weak and effeminate. Prominent critics of his philosophy include prominent authors such as the Roman Stoic Seneca the Younger ( 4 BC – AD 65) and the Greek Middle Platonist Plutarch ( 46 – 120), who both derided it as immoral and disreputable. Gordon characterizes anti-Epicurean rhetoric as so "heavy-handed" and misrepresentative of Epicurus's actual teachings that they sometimes come across as "comical". In his _De vita beata_, Seneca states that the "sect of Epicurus... has a bad reputation" and compares it to "a man in a dress: your chastity remains, your virility is unimpaired, your body has not submitted sexually, but in your hand is a tympanum."
 
@@ -177,7 +175,7 @@ In spite of this, DeWitt argues that Epicureanism and Christianity share much co
 
 Middle Ages
 
-DVinfernoUbertiAddressesDante_m.jpg meets Epicurus in his _Inferno_ in the Sixth Circle of Hell, where he and his followers are imprisoned in flaming coffins for having believed that the soul dies with the body, shown here in an illustration by Gustave Doré.]]
+meets Epicurus in his _Inferno_ in the Sixth Circle of Hell, where he and his followers are imprisoned in flaming coffins for having believed that the soul dies with the body, shown here in an illustration by Gustave Doré.]]
 
 By the early fifth century AD, Epicureanism was virtually extinct. The Christian Church Father Augustine of Hippo (354–430 AD) declared, "its ashes are so cold that not a single spark can be struck from them." While the ideas of Plato and Aristotle could easily be adapted to suit a Christian worldview, the ideas of Epicurus were not nearly as easily amenable. As such, while Plato and Aristotle enjoyed a privileged place in Christian philosophy throughout the Middle Ages, Epicurus was not held in such esteem. Information about Epicurus's teachings was available, through Lucretius's _On the Nature of Things_, quotations of it found in medieval Latin grammars and _florilegia_, and encyclopedias, such as Isidore of Seville's _Etymologiae_ (seventh century) and Hrabanus Maurus's _De universo_ (ninth century), but there is little evidence that these teachings were systematically studied or comprehended.
 
@@ -185,7 +183,7 @@ During the Middle Ages, Epicurus was remembered by the educated as a philosopher
 
 Renaissance
 
-Raffael_063.jpg's _School of Athens_ (1509–1511). Epicurus's genuine busts were unknown prior to 1742, so early modern artists who wanted to depict him were forced to make up their own iconographies.]]
+'s _School of Athens_ (1509–1511). Epicurus's genuine busts were unknown prior to 1742, so early modern artists who wanted to depict him were forced to make up their own iconographies.]]
 
 In 1417, a manuscript-hunter named Poggio Bracciolini discovered a copy of Lucretius's _On the Nature of Things_ in a monastery near Lake Constance. The discovery of this manuscript was met with immense excitement, because scholars were eager to analyze and study the teachings of classical philosophers and this previously-forgotten text contained the most comprehensive account of Epicurus's teachings known in Latin. The first scholarly dissertation on Epicurus, _De voluptate_ (_On Pleasure_) by the Italian Humanist and Catholic priest Lorenzo Valla was published in 1431. Valla made no mention of Lucretius or his poem. Instead, he presented the treatise as a discussion on the nature of the highest good between an Epicurean, a Stoic, and a Christian. Valla's dialogue ultimately rejects Epicureanism, but, by presenting an Epicurean as a member of the dispute, Valla lent Epicureanism credibility as a philosophy that deserved to be taken seriously.
 
@@ -193,7 +191,7 @@ None of the Quattrocento Humanists ever clearly endorsed Epicureanism, but schol
 
 Revival
 
-PierreGassendi.jpg is responsible for reviving Epicureanism in modernity as an alternative to Aristotelianism.]]
+is responsible for reviving Epicureanism in modernity as an alternative to Aristotelianism.]]
 
 In the seventeenth century, the French Catholic priest and scholar Pierre Gassendi (1592 – 1655) sought to dislodge Aristotelianism from its position of the highest dogma by presenting Epicureanism as a better and more rational alternative. In 1647, Gassendi published his book _De vita et moribus Epicuri_ (_The Life and Morals of Epicurus_), a passionate defense of Epicureanism. In 1649, he published a commentary on Diogenes Laërtius's _Life of Epicurus_. He left _Syntagma philosophicum_ (_Philosophical Compendium_), a synthesis of Epicurean doctrines, unfinished at the time of his death in 1655. It was finally published in 1658, after undergoing revision by his editors. Gassendi modified Epicurus's teachings to make them palatable for a Christian audience. For instance, he argued that atoms were not eternal, uncreated, and infinite in number, instead contending that an extremely large but finite number of atoms were created by God at creation.
 

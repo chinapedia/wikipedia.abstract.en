@@ -1,4 +1,4 @@
-Render_Types.png Glasses_800_edit.png 3.6]] RENDERING or IMAGE SYNTHESIS is the automatic process of generating a photorealistic or non-photorealistic image from a 2D or 3D model (or models in what collectively could be called a _scene_ file) by means of computer programs. Also, the results of displaying such a model can be called a RENDER. A scene file contains objects in a strictly defined language or data structure; it would contain geometry, viewpoint, texture, lighting, and shading information as a description of the virtual scene. The data contained in the scene file is then passed to a rendering program to be processed and output to a digital image or raster graphics image file. The term "rendering" may be by analogy with an "artist's rendering" of a scene.
+3.6]] RENDERING or IMAGE SYNTHESIS is the automatic process of generating a photorealistic or non-photorealistic image from a 2D or 3D model (or models in what collectively could be called a _scene_ file) by means of computer programs. Also, the results of displaying such a model can be called a RENDER. A scene file contains objects in a strictly defined language or data structure; it would contain geometry, viewpoint, texture, lighting, and shading information as a description of the virtual scene. The data contained in the scene file is then passed to a rendering program to be processed and output to a digital image or raster graphics image file. The term "rendering" may be by analogy with an "artist's rendering" of a scene.
 
 Though the technical details of rendering methods vary, the general challenges to overcome in producing a 2D image from a 3D representation stored in a scene file are outlined as the graphics pipeline along a rendering device, such as a GPU. A GPU is a purpose-built device able to assist a CPU in performing complex rendering calculations. If a scene is to look relatively realistic and predictable under virtual lighting, the rendering software should solve the rendering equation. The rendering equation doesn't account for all lighting phenomena, but is a general lighting model for computer-generated imagery. 'Rendering' is also used to describe the process of calculating effects in a video editing program to produce final video output.
 
@@ -58,7 +58,7 @@ Another distinction is between image order algorithms, which iterate over pixels
 
 Scanline rendering and rasterisation
 
-Latest_Rendering_of_the_E-ELT.jpg.]]
+.]]
 
 A high-level representation of an image necessarily contains elements in a different domain from pixels. These elements are referred to as {{visible anchor. In a schematic drawing, for instance, line segments and curves might be primitives. In a graphical user interface, windows and buttons might be the primitives. In rendering of 3D models, triangles and polygons in space might be primitives.
 
@@ -78,7 +78,7 @@ Rough simulations of optical properties may be additionally employed: a simple c
 
 Ray tracing
 
-SpiralSphereAndJuliaDetail1.jpg 3.6 and its built-in scene description language.]] RAY TRACING aims to simulate the natural flow of light, interpreted as particles. Often, ray tracing methods are utilized to approximate the solution to the rendering equation by applying Monte Carlo methods to it. Some of the most used methods are path tracing, bidirectional path tracing, or Metropolis light transport, but also semi realistic methods are in use, like Whitted Style Ray Tracing, or hybrids. While most implementations let light propagate on straight lines, applications exist to simulate relativistic spacetime effects.[1]
+3.6 and its built-in scene description language.]] RAY TRACING aims to simulate the natural flow of light, interpreted as particles. Often, ray tracing methods are utilized to approximate the solution to the rendering equation by applying Monte Carlo methods to it. Some of the most used methods are path tracing, bidirectional path tracing, or Metropolis light transport, but also semi realistic methods are in use, like Whitted Style Ray Tracing, or hybrids. While most implementations let light propagate on straight lines, applications exist to simulate relativistic spacetime effects.[1]
 
 In a final, production quality rendering of a ray traced work, multiple rays are generally shot for each pixel, and traced not just to the first object of intersection, but rather, through a number of sequential 'bounces', using the known laws of optics such as "angle of incidence equals angle of reflection" and more advanced laws that deal with refraction and surface roughness.
 
@@ -169,7 +169,7 @@ Some renderers execute on the GPU instead of the CPU (e.g. FurryBall, Redshift, 
 
 Chronology of important published ideas
 
-ESTCube_orbiidil_2.jpg satellite]]
+satellite]]
 
 -   1968 _Ray casting_[3]
 -   1970 _Scanline rendering_[4]

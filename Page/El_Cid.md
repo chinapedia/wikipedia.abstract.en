@@ -11,7 +11,7 @@ To this day, El Cid remains a Spanish popular folk-hero and national icon, with 
 
 Title
 
-Carmen_campidoctoris_1.jpg'', the earliest literary treatment of El Cid's life, written to celebrate El Cid's defeat of some counts and champions]]
+'', the earliest literary treatment of El Cid's life, written to celebrate El Cid's defeat of some counts and champions]]
 
 The name _El Cid_ () is a modern Spanish denomination composed of the article _el_ meaning "the" and _Cid_, which derives from the Old Castilian loan word _Çid_ borrowed from the dialectal Arabic word سيد _sîdi_ or sayyid, which means "Lord" or "Master". The Mozarabs or the Arabs that served in his ranks may have addressed him in this way, which the Christians may have transliterated and adopted. Historians, however, have not yet found contemporary records referring to Rodrigo as _Cid._ Arab sources use instead _Rudriq_, _Ludriq al-Kanbiyatur_ or _al-Qanbiyatur_ (_Rodrigo el Campeador_).[4] The cognomen _Campeador_ derives from Latin _campi doctor,_ which means "battlefield master". He probably gained it during the campaigns of King Sancho II of Castile against his brothers King Alfonso VI of León and King García II of Galicia. While his contemporaries left no historical sources that would have addressed him as _Cid_, they left plenty of Christian and Arab records, some even signed documents with his autograph, addressing him as _Campeador_, which prove that he used the Christian cognomen himself.[5][6][7][8] The whole combination _Cid Campeador_ is first documented ca. 1195 in the Navarro-Aragonese _Linage de Rodric Díaz_ included in the _Liber Regum_ under the formula _mio Cid el Campeador_.
 
@@ -30,7 +30,7 @@ When Ferdinand died, Sancho continued to enlarge his territory, conquering both 
 
 Service under Alfonso VI
 
-Jura_de_Santa_Gadea.jpg Oath". In the middle of the scene, Alfonso VI (with red cape) is swearing with his right hand on the Bible that he did not take part in the murder of his brother Sancho II, while El Cid stands as a witness in front of him.]]
+Oath". In the middle of the scene, Alfonso VI (with red cape) is swearing with his right hand on the Bible that he did not take part in the murder of his brother Sancho II, while El Cid stands as a witness in front of him.]]
 
 Sancho was assassinated in 1072, possibly as the result of a pact between his brother Alfonso and his sister Urraca. Since Sancho died unmarried and childless, all of his power passed to his brother Alfonso who, almost immediately, returned from exile in Toledo and took his seat as king of Castile and León. He was, however, deeply suspected of having been involved in Sancho's murder. According to the epic of El Cid, the Castilian nobility led by El Cid and a dozen "oath-helpers" forced Alfonso to swear publicly on holy relics multiple times in front of Santa Gadea (Saint Agatha) Church in Burgos that he did not participate in the plot to kill his brother. This is widely reported as truth, but contemporary documents on the lives of both Rodrigo Diaz and Alfonso VI of Castile and León do not mention any such event. Rodrigo's position as _armiger regis_ was taken away and given to Rodrigo's enemy, Count García Ordóñez.
 
@@ -45,7 +45,7 @@ At first he went to Barcelona, where Ramon Berenguer II refused his offer of ser
 
 Moorish service
 
-Reinos_de_Taifas_1080.png, he had gained a prominent reputation and the title _El Cid_ (the Lord). He is also known to have developed links with the other Taifas in 1080.]] La_Aljafería_-_Palacio_taifa_02.JPG, in the Taifa of Zaragoza]]
+, he had gained a prominent reputation and the title _El Cid_ (the Lord). He is also known to have developed links with the other Taifas in 1080.]] , in the Taifa of Zaragoza]]
 
 The exile was not the end of El Cid, either physically or as an important figure. After being rejected by Ramon Berenguer II, El Cid journeyed to the Taifa of Zaragoza where he received a warmer welcome. In 1081, El Cid went on to offer his services to the Moorish king of the northeast Al-Andalus city of Zaragoza, Yusuf al-Mu'taman ibn Hud, and served both him and his successor, Al-Mustain II. He was given the title _El Cid_ (_The Master_) and served as a leading figure in a diverse Moorish force consisting of Muladis, Berbers, Arabs and Malians.
 
@@ -66,7 +66,7 @@ In 1087, Raymond of Burgundy and his Christian allies attempted to weaken the Ta
 
 Recall from exile
 
-The_Cid_ordering_the_Execution_of_Ahmed.jpg allies after his conquest of Valencia in 1094]] Batalla_de_Cuarte.svg (21 October 1094). El Cid's troops are in green, Almoravids troops are in red.]]
+allies after his conquest of Valencia in 1094]] (21 October 1094). El Cid's troops are in green, Almoravids troops are in red.]]
 
 Terrified after his crushing defeat, Alfonso recalled El Cid. It has been shown that El Cid was at court on July 1087; however, what happened after that is unclear. El Cid returned to Alfonso, but now he had his own plans. He only stayed a short while and then returned to Zaragoza. El Cid was content to let the Almoravid armies and the armies of Alfonso fight without his help, even when there was a chance that the armies of Almoravid might defeat Alfonso and take over all of Alfonso's lands. El Cid chose not to fight because he was hoping that both armies would become weak. That would make it easier for him to carry out his own plan to become ruler of the Kingdom of Valencia.
 
@@ -80,7 +80,7 @@ El Cid gradually came to have more influence on Valencia, then ruled by , of Ber
 
 Death
 
-Burgos_-_Catedral_069_-_Tumba_del_Cid.jpg of El Cid and his wife Doña Jimena at the Burgos Cathedral]]
+of El Cid and his wife Doña Jimena at the Burgos Cathedral]]
 
 El Cid and his wife Jimena Díaz lived peacefully in Valencia for five years until the Almoravids besieged the city. El Cid died on July 10, 1099.[14] His death was likely a result of the famine and deprivations caused by the siege.[15] Valencia was captured by Masdali on May 5, 1102 and it did not become a Christian city again for over 125 years. Jimena fled to Burgos, Castile, in 1101. She rode into the town with her retinue and the body of El Cid.[16] Originally buried in Castile in the monastery of , his body now lies at the center of Burgos Cathedral.
 
@@ -99,7 +99,7 @@ Taken together, these practices imply an educated and intelligent commander who 
 
 Babieca
 
-Cardeña_tumba_babieca_03320.jpg]]
+]]
 
 BABIECA or BAVIECA was El Cid's warhorse. Several stories exist about El Cid and Babieca. One well-known legend about El Cid describes how he acquired the stallion. According to this story, Rodrigo's godfather, Pedro El Grande, was a monk at a Carthusian monastery. Pedro's coming-of-age gift to El Cid was his pick of a horse from an Andalusian herd. El Cid picked a horse that his godfather thought was a weak, poor choice, causing the monk to exclaim "_Babieca_!" (stupid!) Hence, it became the name of El Cid's horse. Another legend states that in a competition of battle to become King Sancho's "Campeador", or champion, a knight on horseback wished to challenge El Cid. The King wished a fair fight and gave El Cid his finest horse, Babieca, or Bavieca. This version says Babieca was raised in the royal stables of Seville and was a highly trained and loyal war horse, not a foolish stallion. The name in this instance could suggest that the horse came from the Babia region in León, Spain. In the poem _Carmen Campidoctoris_, Babieca appears as a gift from "a barbarian" to El Cid, so its name could also be derived from "Barbieca", or "horse of the barbarian".
 
@@ -115,8 +115,6 @@ El Cid also had a sword called Colada.[22]
 
 
 Marriage and family
-
-Cronica_del_muy_esforçado_cauallero_el_Cid_ruy_diaz_campeador.gif
 
 El Cid married Jimena Díaz, who was said to be part of an aristocratic family from Asturias, in the mid-1070s.[23] The _Historia Roderici_ calls her a daughter of a Count Diego Fernández de Oviedo. Tradition states that when El Cid first laid eyes on her, he was enamoured of her great beauty. El Cid and Jimena had two daughters and a son. The latter, Diego Rodríguez, was killed while fighting against the invading Muslim Almoravids from North Africa at the Battle of Consuegra in 1097. As both the Poem and Chronicle state, Cristina Rodríguez and María were originally married to the Infantes de Carrión along with the generous wedding gifts of his two famous swords, Tizona and Colada. However, in revenge for an incident that the Infantes blamed El Cid for, they tied their wives to trees and left them to die. El Cid saved their lives and avenged himself upon the Infantes, and found them more favorable husbands. [24] Cristina Rodríguez, (known as Elvira by the Poem and the Chronicle) married Ramiro, Lord of Monzón and grandson of García Sánchez III of Navarre. Her own son, El Cid's grandson, would be elevated to the throne of Navarre as King García Ramírez. The other daughter, María (also known as Sol), is said first to have married a prince of Aragon, presumably the son of Peter I, and she later wed Ramon Berenguer III, count of Barcelona.
 

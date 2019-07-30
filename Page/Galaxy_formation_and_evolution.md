@@ -3,7 +3,7 @@ The study of GALAXY FORMATION AND EVOLUTION is concerned with the processes that
 
 Commonly observed properties of galaxies
 
-HubbleTuningFork.jpg of galaxy morphology]]Because of the inability to conduct experiments in outer space, the only way to “test” theories and models of galaxy evolution is to compare them with observations. Explanations for how galaxies formed and evolved must be able to predict the observed properties and types of galaxies.
+of galaxy morphology]]Because of the inability to conduct experiments in outer space, the only way to “test” theories and models of galaxy evolution is to compare them with observations. Explanations for how galaxies formed and evolved must be able to predict the observed properties and types of galaxies.
 
 Edwin Hubble created the first galaxy classification scheme known as the Hubble tuning-fork diagram. It partitioned galaxies into ellipticals, normal spirals, barred spirals (such as the Milky Way), and irregulars. These galaxy types exhibit the following properties which can be explained by current galaxy evolution theories:
 
@@ -36,7 +36,7 @@ The Lambda-CDM model is a cosmological model that explains the formation of the 
 
 Galaxy mergers and the formation of elliptical galaxies
 
-14-23000-Sparky-MassiveGalaxyFormation-20140827.jpg NGC4676.jpg) is an example of a present merger.]] Antennae_galaxies_xl.jpg are a pair of colliding galaxies – the bright, blue knots are young stars that have recently ignited as a result of the merger.]] Abell_S740,_cropped_to_ESO_325-G004.jpg, a typical elliptical galaxy.]] Elliptical galaxies (such as IC 1101) are among some of the largest known thus far. Their stars are on orbits that are randomly oriented within the galaxy (i.e. they are not rotating like disk galaxies). A distinguishing feature of elliptical galaxies is that the velocity of the stars does not necessarily contribute to flattening of the galaxy, such as in spiral galaxies.[7] Elliptical galaxies have central supermassive black holes, and the masses of these black holes correlate with the galaxy's mass.
+) is an example of a present merger.]] are a pair of colliding galaxies – the bright, blue knots are young stars that have recently ignited as a result of the merger.]] , a typical elliptical galaxy.]] Elliptical galaxies (such as IC 1101) are among some of the largest known thus far. Their stars are on orbits that are randomly oriented within the galaxy (i.e. they are not rotating like disk galaxies). A distinguishing feature of elliptical galaxies is that the velocity of the stars does not necessarily contribute to flattening of the galaxy, such as in spiral galaxies.[7] Elliptical galaxies have central supermassive black holes, and the masses of these black holes correlate with the galaxy's mass.
 
 Elliptical galaxies have two main stages of evolution. The first is due to the supermassive black hole growing by accreting cooling gas. The second stage is marked by the black hole stabilizing by suppressing gas cooling, thus leaving the elliptical galaxy in a stable state.[8] The mass of the black hole is also correlated to a property called sigma which is the dispersion of the velocities of stars in their orbits. This relationship, known as the M-sigma relation, was discovered in 2000.[9] Elliptical galaxies mostly lack disks, although some bulges of disk galaxies resemble elliptical galaxies. Elliptical galaxies are more likely found in crowded regions of the universe (such as galaxy clusters).
 
@@ -49,7 +49,7 @@ In the Local Group, the Milky Way and the Andromeda Galaxy are gravitationally b
 
 Galaxy quenching
 
-Eso1516a.jpgOne observation (see above) that must be explained by a successful theory of galaxy evolution is the existence of two different populations of galaxies on the galaxy color-magnitude diagram. Most galaxies tend to fall into two separate locations on this diagram: a "red sequence" and a "blue cloud". Red sequence galaxies are generally non-star-forming elliptical galaxies with little gas and dust, while blue cloud galaxies tend to be dusty star-forming spiral galaxies.[14][15]
+One observation (see above) that must be explained by a successful theory of galaxy evolution is the existence of two different populations of galaxies on the galaxy color-magnitude diagram. Most galaxies tend to fall into two separate locations on this diagram: a "red sequence" and a "blue cloud". Red sequence galaxies are generally non-star-forming elliptical galaxies with little gas and dust, while blue cloud galaxies tend to be dusty star-forming spiral galaxies.[14][15]
 
 As described in previous sections, galaxies tend to evolve from spiral to elliptical structure via mergers. However, the current rate of galaxy mergers does not explain how all galaxies move from the "blue cloud" to the "red sequence". It also does not explain how star formation ceases in galaxies. Theories of galaxy evolution must therefore be able to explain how star formation turns off in galaxies. This phenomenon is called galaxy "quenching".[16]
 

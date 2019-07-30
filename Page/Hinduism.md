@@ -9,7 +9,7 @@ Hinduism is the world's third largest religion; its followers, known as Hindus, 
 
 Etymology
 
-Bratan_Bali_Indonesia_Balinese-family-after-Puja-01.jpg Hindu family after puja at Bratan temple in Bali, Indonesia.]] The word _Hindū_ is derived from Indo-Aryan/Sanskrit root _Sindhu_. The Proto-Iranian sound change _*s_ > _h_ occurred between 850–600 BCE, according to Asko Parpola.
+Hindu family after puja at Bratan temple in Bali, Indonesia.]] The word _Hindū_ is derived from Indo-Aryan/Sanskrit root _Sindhu_. The Proto-Iranian sound change _*s_ > _h_ occurred between 850–600 BCE, according to Asko Parpola.
 
 The use of the term Hinduism to describe a collection of practices and beliefs is a recent European construction, the term "Hindu" was coined in position to other religions and used to describe those that were not of the other religions. Before the British began to categorise communities strictly by religion, Indians generally did not define themselves exclusively through their religious beliefs; identities were segmented on the basis of locality, language, caste, occupation and sect.[18]
 
@@ -32,7 +32,7 @@ The study of India and its cultures and religions, and the definition of "Hindui
 
 Typology
 
-Aum_Om_navy_blue_circle_coral.svg, a stylised letter of Devanagari script, used as a religious symbol in Hinduism]]
+, a stylised letter of Devanagari script, used as a religious symbol in Hinduism]]
 
 Hinduism as it is commonly known can be subdivided into a number of major currents. Of the historical division into six darsanas (philosophies), two schools, Vedanta and Yoga, are currently the most prominent.[30] Classified by primary deity or deities, four major Hinduism modern currents are Vaishnavism (Vishnu), Shaivism (Shiva), Shaktism (Devi) and Smartism (five deities treated as same). Hinduism also accepts numerous divine beings, with many Hindus considering the deities to be aspects or manifestations of a single impersonal absolute or ultimate reality or God, while some Hindus maintain that a specific deity represents the supreme and various deities are lower manifestations of this supreme. Other notable characteristics include a belief in existence of ātman (soul, self), reincarnation of one's ātman, and karma as well as a belief in dharma (duties, rights, laws, conduct, virtues and right way of living).
 
@@ -60,7 +60,7 @@ Many religious Hindus implicitly acknowledge the authority of the Vedas, this ac
 
 Hindu modernism
 
-Swami_Vivekananda-1893-09-signed.jpg was a key figure in introducing Vedanta and Yoga in Europe and the United States, raising interfaith awareness and making Hinduism a world religion.]]
+was a key figure in introducing Vedanta and Yoga in Europe and the United States, raising interfaith awareness and making Hinduism a world religion.]]
 
 Beginning in the 19th century, Indian modernists re-asserted Hinduism as a major asset of Indian civilisation, meanwhile "purifying" Hinduism from its Tantric elements and elevating the Vedic elements. Western stereotypes were reversed, emphasizing the universal aspects, and introducing modern approaches of social problems. This approach had a great appeal, not only in India, but also in the west. Major representatives of "Hindu modernism" are Raja Rammohan Roy, Vivekananda, Sarvepalli Radhakrishnan and Mahatma Gandhi.
 
@@ -85,7 +85,7 @@ Diversity and unity
 
 Diversity
 
-Ganapati.1..JPG is one of the best-known and most worshipped deities in the Hindu pantheon]] Hinduism has been described as a tradition having a "complex, organic, multileveled and sometimes internally inconsistent nature". Hinduism does not have a "unified system of belief encoded in a declaration of faith or a creed", but is rather an umbrella term comprising the plurality of religious phenomena of India.[64] According to the Supreme Court of India,
+is one of the best-known and most worshipped deities in the Hindu pantheon]] Hinduism has been described as a tradition having a "complex, organic, multileveled and sometimes internally inconsistent nature". Hinduism does not have a "unified system of belief encoded in a declaration of faith or a creed", but is rather an umbrella term comprising the plurality of religious phenomena of India.[64] According to the Supreme Court of India,
 
 Part of the problem with a single definition of the term _Hinduism_ is the fact that Hinduism does not have a founder.[65] It is a synthesis of various traditions,[66] the "Brahmanical orthopraxy, the renouncer traditions and popular or local traditions".
 
@@ -114,7 +114,7 @@ The notion and reports on "Hinduism" as a "single world religious tradition" was
 
 Beliefs
 
-Halebid3.JPG in Halebidu, representing the Trimurti: Brahma, Shiva and Vishnu]]
+in Halebidu, representing the Trimurti: Brahma, Shiva and Vishnu]]
 
 Prominent themes in Hindu beliefs include (but are not restricted to) Dharma (ethics/duties), {{IAST (the continuing cycle of birth, life, death and rebirth), Karma (action, intent and consequences), Moksha (liberation from samsara or liberation in this life), and the various Yogas (paths or practices).
 
@@ -194,7 +194,7 @@ Authority and eternal truths play an important role in Hinduism.[159] Religious 
 
 Main traditions
 
-Ganesha_pachayatana.jpg ("five deities", from the Smarta tradition): Ganesha (centre) with Shiva (top left), Parvati (top right), Vishnu (bottom left) and Surya (bottom right). All these deities also have separate sects dedicated to them.]]
+("five deities", from the Smarta tradition): Ganesha (centre) with Shiva (top left), Parvati (top right), Vishnu (bottom left) and Surya (bottom right). All these deities also have separate sects dedicated to them.]]
 
 Hinduism has no central doctrinal authority and many practising Hindus do not claim to belong to any particular denomination or tradition.[168] Four major denominations are, however, used in scholarly studies: _Vaishnavism_, _Shaivism_, _Shaktism_ and _Smartism_.[169] These denominations differ primarily in the central deity worshipped, the traditions and the soteriological outlook.[170] The denominations of Hinduism, states Lipner, are unlike those found in major religions of the world, because Hindu denominations are fuzzy with individuals practicing more than one, and he suggests the term "Hindu polycentrism".[171]
 
@@ -209,7 +209,7 @@ Smartism centers its worship simultaneously on all the major Hindu deities: Shiv
 
 Scriptures
 
-Rigveda_MS2097.jpg'' is the first and most important Veda[197] and is one of the oldest religious texts. This Rigveda manuscript is in Devanagari.]] The ancient scriptures of Hinduism are in Sanskrit. These texts are classified into two: Shruti and Smriti. Hindu scriptures were composed, memorized and transmitted verbally, across generations, for many centuries before they were written down.[198][199] Over many centuries, sages refined the teachings and expanded the Shruti and Smriti, as well as developed Shastras with epistemological and metaphysical theories of six classical schools of Hinduism.
+'' is the first and most important Veda[197] and is one of the oldest religious texts. This Rigveda manuscript is in Devanagari.]] The ancient scriptures of Hinduism are in Sanskrit. These texts are classified into two: Shruti and Smriti. Hindu scriptures were composed, memorized and transmitted verbally, across generations, for many centuries before they were written down.[198][199] Over many centuries, sages refined the teachings and expanded the Shruti and Smriti, as well as developed Shastras with epistemological and metaphysical theories of six classical schools of Hinduism.
 
 _Shruti_ (lit. that which is heard) primarily refers to the _Vedas_, which form the earliest record of the Hindu scriptures, and are regarded as eternal truths revealed to the ancient sages (_rishis_). There are four _Vedas_ – _Rigveda_, _Samaveda_, _Yajurveda_ and _Atharvaveda_. Each Veda has been subclassified into four major text types – the Samhitas (mantras and benedictions), the Aranyakas (text on rituals, ceremonies, sacrifices and symbolic-sacrifices), the Brahmanas (commentaries on rituals, ceremonies and sacrifices), and the Upanishads (text discussing meditation, philosophy and spiritual knowledge).[200][201][202] The first two parts of the Vedas were subsequently called the __ (ritualistic portion), while the last two form the __ (knowledge portion, discussing spiritual insight and philosophical teachings).[203][204][205][206]
 
@@ -224,7 +224,7 @@ Practices
 
 Rituals
 
-(A)_Hindu_wedding,_Saptapadi_ritual_before_Agni_Yajna.jpg is solemnized before Vedic fire ritual (shown).[221]]] Most Hindus observe religious rituals at home.[222] The rituals vary greatly among regions, villages, and individuals. They are not mandatory in Hinduism. The nature and place of rituals is an individual's choice. Some devout Hindus perform daily rituals such as worshiping at dawn after bathing (usually at a family shrine, and typically includes lighting a lamp and offering foodstuffs before the images of deities), recitation from religious scripts, singing devotional hymns, yoga, meditation, chanting mantras and others.[223]
+is solemnized before Vedic fire ritual (shown).[221]]] Most Hindus observe religious rituals at home.[222] The rituals vary greatly among regions, villages, and individuals. They are not mandatory in Hinduism. The nature and place of rituals is an individual's choice. Some devout Hindus perform daily rituals such as worshiping at dawn after bathing (usually at a family shrine, and typically includes lighting a lamp and offering foodstuffs before the images of deities), recitation from religious scripts, singing devotional hymns, yoga, meditation, chanting mantras and others.[223]
 
 Vedic rituals of fire-oblation (_yajna_) and chanting of Vedic hymns are observed on special occasions, such as a Hindu wedding.[224] Other major life-stage events, such as rituals after death, include the _yajña_ and chanting of Vedic mantras.[225]
 
@@ -246,7 +246,7 @@ Bhakti marga, states Pechelis, is more than ritual devotionalism, it includes pr
 
 Festivals
 
-Deepawali-festival.jpg, is celebrated by Hindus all over the world.]] Hindu festivals (Sanskrit: _Utsava_; literally: "to lift higher") are ceremonies that weave individual and social life to dharma.[263][264] Hinduism has many festivals throughout the year, where the dates are set by the lunisolar Hindu calendar, many coinciding with either the full moon (_Holi_) or the new moon (_Diwali_), often with seasonal changes.[265] Some festivals are found only regionally and they celebrate local traditions, while a few such as _Holi_ and _Diwali_ are pan-Hindu.[266][267]
+, is celebrated by Hindus all over the world.]] Hindu festivals (Sanskrit: _Utsava_; literally: "to lift higher") are ceremonies that weave individual and social life to dharma.[263][264] Hinduism has many festivals throughout the year, where the dates are set by the lunisolar Hindu calendar, many coinciding with either the full moon (_Holi_) or the new moon (_Diwali_), often with seasonal changes.[265] Some festivals are found only regionally and they celebrate local traditions, while a few such as _Holi_ and _Diwali_ are pan-Hindu.[266][267]
 
 The festivals typically celebrate events from Hinduism, connoting spiritual themes and celebrating aspects of human relationships such as the Sister-Brother bond over the _Raksha Bandhan_ (or Bhai Dooj) festival.[268][269] The same festival sometimes marks different stories depending on the Hindu denomination, and the celebrations incorporate regional themes, traditional agriculture, local arts, family get togethers, Puja rituals and feasts.[270][271]
 
@@ -293,7 +293,7 @@ Person and society
 
 Varnas
 
-12BCM11.jpg, in Telangana]] Hindu society has been categorised into four classes, called _varnas_. They are the _Brahmins_: Vedic teachers and priests; the _Kshatriyas_: warriors and kings; the _Vaishyas_: farmers and merchants; and the _Shudras_: servants and labourers.[285]
+, in Telangana]] Hindu society has been categorised into four classes, called _varnas_. They are the _Brahmins_: Vedic teachers and priests; the _Kshatriyas_: warriors and kings; the _Vaishyas_: farmers and merchants; and the _Shudras_: servants and labourers.[285]
 
 The _Bhagavad Gītā_ links the _varna_ to an individual's duty (_svadharma_), inborn nature (_svabhāva_), and natural tendencies (_guṇa_). The _Manusmṛiti_ categorises the different castes.[286]
 
@@ -303,19 +303,19 @@ A renunciant man of knowledge is usually called _Varnatita_ or "beyond all varna
 
 Yoga
 
-Shiva_Bangalore_.jpg in yogic meditation]]
+in yogic meditation]]
 
 In whatever way a Hindu defines the goal of life, there are several methods (yogas) that sages have taught for reaching that goal. Yoga is a Hindu discipline which trains the body, mind and consciousness for health, tranquility and spiritual insight. This is done through a system of postures and exercises to practise control of the body and mind.[294] Texts dedicated to Yoga include the Yoga Sutras, the Hatha Yoga Pradipika, the Bhagavad Gita and, as their philosophical and historical basis, the Upanishads. Yoga is means, and the four major _marga_ (paths) discussed in Hinduism are: Bhakti Yoga (the path of love and devotion), Karma Yoga (the path of right action), Rāja Yoga (the path of meditation), Jñāna Yoga (the path of wisdom)[295] An individual may prefer one or some yogas over others, according to his or her inclination and understanding. Practice of one yoga does not exclude others.
 
 Symbolism
 
-Three_basic_Hindu_symbols.jpg Ganesha-aum.jpg is sometimes linked to the symbol _Om_.[296]]] Hinduism has a developed system of symbolism and iconography to represent the sacred in art, architecture, literature and worship. These symbols gain their meaning from the scriptures or cultural traditions. The syllable _Om_ (which represents the _Brahman_ and Atman) has grown to represent Hinduism itself, while other markings such as the Swastika sign represent auspiciousness, and _Tilaka_ (literally, seed) on forehead – considered to be the location of spiritual third eye,[297] marks ceremonious welcome, blessing or one's participation in a ritual or rite of passage.[298] Elaborate _Tilaka_ with lines may also identify a devotee of a particular denomination. Flowers, birds, animals, instruments, symmetric mandala drawings, objects, idols are all part of symbolic iconography in Hinduism.[299][300]
+is sometimes linked to the symbol _Om_.[296]]] Hinduism has a developed system of symbolism and iconography to represent the sacred in art, architecture, literature and worship. These symbols gain their meaning from the scriptures or cultural traditions. The syllable _Om_ (which represents the _Brahman_ and Atman) has grown to represent Hinduism itself, while other markings such as the Swastika sign represent auspiciousness, and _Tilaka_ (literally, seed) on forehead – considered to be the location of spiritual third eye,[297] marks ceremonious welcome, blessing or one's participation in a ritual or rite of passage.[298] Elaborate _Tilaka_ with lines may also identify a devotee of a particular denomination. Flowers, birds, animals, instruments, symmetric mandala drawings, objects, idols are all part of symbolic iconography in Hinduism.[299][300]
 
 Ahimsa, vegetarianism and other food customs
 
 Hindus advocate the practice of (non-violence) and respect for all life because divinity is believed to permeate all beings, including plants and non-human animals.[301] The term __ appears in the Upanishads,[302] the epic Mahabharata[303] and is the first of the five Yamas (vows of self-restraint) in Patanjali's Yoga Sutras.[304]
 
-Gosala_in_Guntur,_India.jpg]] In accordance with , many Hindus embrace vegetarianism to respect higher forms of life. Estimates of strict lacto vegetarians in India (includes adherents of all religions) who never eat any meat, fish or eggs vary between 20% and 42%, while others are either less strict vegetarians or non-vegetarians.[305] Those who eat meat seek Jhatka (quick death) method of meat production, and dislike Halal (slow bled death) method, believing that quick death method reduces suffering to the animal.[306][307] The food habits vary with region, with Bengali Hindus and Hindus living in Himalayan regions, or river delta regions, regularly eating meat and fish.[308] Some avoid meat on specific festivals or occasions.[309] Observant Hindus who do eat meat almost always abstain from beef. The cow in Hindu society is traditionally identified as a caretaker and a maternal figure,[310] and Hindu society honours the cow as a symbol of unselfish giving.[311]
+]] In accordance with , many Hindus embrace vegetarianism to respect higher forms of life. Estimates of strict lacto vegetarians in India (includes adherents of all religions) who never eat any meat, fish or eggs vary between 20% and 42%, while others are either less strict vegetarians or non-vegetarians.[305] Those who eat meat seek Jhatka (quick death) method of meat production, and dislike Halal (slow bled death) method, believing that quick death method reduces suffering to the animal.[306][307] The food habits vary with region, with Bengali Hindus and Hindus living in Himalayan regions, or river delta regions, regularly eating meat and fish.[308] Some avoid meat on specific festivals or occasions.[309] Observant Hindus who do eat meat almost always abstain from beef. The cow in Hindu society is traditionally identified as a caretaker and a maternal figure,[310] and Hindu society honours the cow as a symbol of unselfish giving.[311]
 
 There are many Hindu groups that have continued to abide by a strict vegetarian diet in modern times. Some adhere to a diet that is devoid of meat, eggs, and seafood.[312] Food affects body, mind and spirit in Hindu beliefs.[313][314] Hindu texts such as Śāṇḍilya Upanishad[315] and Svātmārāma[316][317] recommend Mitahara (eating in moderation) as one of the Yamas (virtuous self restraints). The Bhagavad Gita links body and mind to food one consumes in verses 17.8 through 17.10.[318]
 
@@ -342,7 +342,7 @@ The Ashramas system has been one facet of the Dharma concept in Hinduism.[348] C
 
 Monasticism
 
-Indian_sadhu_performing_namaste.jpg, India]] Some Hindus choose to live a monastic life (Sannyāsa) in pursuit of liberation (moksha) or another form of spiritual perfection.[352] Monastics commit themselves to a simple and celibate life, detached from material pursuits, of meditation and spiritual contemplation.[353] A Hindu monk is called a _Sanyāsī_, _Sādhu_, or _Swāmi_. A female renunciate is called a _Sanyāsini_. Renunciates receive high respect in Hindu society because of their simple ahimsa-driven lifestyle and dedication to spiritual liberation (moksha) – believed to be the ultimate goal of life in Hinduism.[354] Some monastics live in monasteries, while others wander from place to place, depending on donated food and charity for their needs.[355]
+, India]] Some Hindus choose to live a monastic life (Sannyāsa) in pursuit of liberation (moksha) or another form of spiritual perfection.[352] Monastics commit themselves to a simple and celibate life, detached from material pursuits, of meditation and spiritual contemplation.[353] A Hindu monk is called a _Sanyāsī_, _Sādhu_, or _Swāmi_. A female renunciate is called a _Sanyāsini_. Renunciates receive high respect in Hindu society because of their simple ahimsa-driven lifestyle and dedication to spiritual liberation (moksha) – believed to be the ultimate goal of life in Hinduism.[354] Some monastics live in monasteries, while others wander from place to place, depending on donated food and charity for their needs.[355]
 
 
 History
@@ -373,7 +373,7 @@ This "Hindu synthesis" emerged after the Vedic period, between 500-200 BCE and c
 
 Prevedic religions (until c. 1500 BCE)
 
-Shiva_Pashupati.jpg'' seal, Indus Valley civilization]] The earliest prehistoric religion in India that may have left its traces in Hinduism comes from mesolithic as observed in the sites such as the rock paintings of Bhimbetka rock shelters dating to a period of 30,000 BCE or older, as well as neolithic times. Some of the religious practices can be considered to have originated in 4000 BCE. Several tribal religions still exist, though their practices may not resemble those of prehistoric religions.[360]
+'' seal, Indus Valley civilization]] The earliest prehistoric religion in India that may have left its traces in Hinduism comes from mesolithic as observed in the sites such as the rock paintings of Bhimbetka rock shelters dating to a period of 30,000 BCE or older, as well as neolithic times. Some of the religious practices can be considered to have originated in 4000 BCE. Several tribal religions still exist, though their practices may not resemble those of prehistoric religions.[360]
 
 According to anthropologist Possehl, the Indus Valley Civilization "provides a logical, if somewhat arbitrary, starting point for some aspects of the later Hindu tradition". The religion of this period included worship of a Great male god, which is compared to a proto-Shiva, and probably a Mother Goddess, that may prefigure Shakti. However these links of deities and practices of the Indus religion to later-day Hinduism are subject to both political contention and scholarly dispute.
 
@@ -382,8 +382,8 @@ Vedic period (c. 1500–500 BCE)
 Origins and development
 
   Indo-Aryan migration and Vedic period
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  upright=1.8 from ca. 4000 to 1000 BCE according to the Kurgan hypothesis. The magenta area corresponds to the assumed _Urheimat_ (Samara culture, Sredny Stog culture). The red area corresponds to the area which may have been settled by Indo-European-speaking peoples up to c. 2500 BCE; the orange area to 1000 BCE. (Christopher I. Beckwith (2009), _Empires of the Silk Road_, Oxford University Press, p.30)]] Andronovo_culture.png culture is shown in darker red. The location of the earliest spoke-wheeled chariot finds is indicated in purple. Adjacent and overlapping cultures (Afanasevo culture, Srubna culture, BMAC) are shown in green.]] Indo-Iranian_origins.pngs (after EIEC). The Andronovo, BMAC and Yaz cultures have often been associated with Indo-Iranian migrations. The GGC, Cemetery H, Copper Hoard and PGW cultures are candidates for cultures associated with Indo-Aryan movements.]] Early_Vedic_Culture_(1700-1100_BCE).png Late_Vedic_Culture_(1100-500_BCE).png
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  upright=1.8 from ca. 4000 to 1000 BCE according to the Kurgan hypothesis. The magenta area corresponds to the assumed _Urheimat_ (Samara culture, Sredny Stog culture). The red area corresponds to the area which may have been settled by Indo-European-speaking peoples up to c. 2500 BCE; the orange area to 1000 BCE. (Christopher I. Beckwith (2009), _Empires of the Silk Road_, Oxford University Press, p.30)]] culture is shown in darker red. The location of the earliest spoke-wheeled chariot finds is indicated in purple. Adjacent and overlapping cultures (Afanasevo culture, Srubna culture, BMAC) are shown in green.]] s (after EIEC). The Andronovo, BMAC and Yaz cultures have often been associated with Indo-Iranian migrations. The GGC, Cemetery H, Copper Hoard and PGW cultures are candidates for cultures associated with Indo-Aryan movements.]]
 
 The Vedic period, named after the Vedic religion of the Indo-Aryans, lasted from c. 1500 to 500 BCE. The Indo-Aryans were semi-nomadic pastoralists who migrated into north-western India after the collapse of the Indus Valley Civilization.
 
@@ -417,7 +417,7 @@ Pre-classical Hinduism (c. 200 BCE – 300 CE)
 
 The "Hindu synthesis" or "Brahmanical synthesis" incorporated Sramanic and Buddhist influences into the "Brahmanical fold" via the Smriti ("remembered") literature. According to Embree, several other religious traditions had existed side by side with the Vedic religion. These indigenous religions "eventually found a place under the broad mantle of the Vedic religion". The Smriti texts of the period between 200 BCE-100 CE affirmed the authority of the Vedas. The acceptance of the ideas in the Vedas and Upanishads became a central criterium for defining Hinduism, while the heterodox movements rejected those ideas.
 
-Ajay_Kumar_Kuchipudi_by_Varsha_Bhargavi_Kondapalli_06.jpg]] The major Sanskrit epics, _Ramayana_ and _Mahabharata_, which belong to the Smriti, were compiled over a protracted period during the late centuries BCE and the early centuries CE.[383] These are legendary dialogues interspersed with philosophical treatises. The Bhagavad Gita was composed in this period and consolidated diverse philosophies and soteriological ideas.
+]] The major Sanskrit epics, _Ramayana_ and _Mahabharata_, which belong to the Smriti, were compiled over a protracted period during the late centuries BCE and the early centuries CE.[383] These are legendary dialogues interspersed with philosophical treatises. The Bhagavad Gita was composed in this period and consolidated diverse philosophies and soteriological ideas.
 
 During this period, the foundational texts of several schools of Hindu philosophy were formally written down, including Samkhya, Yoga, Nyaya, Vaisheshika, Purva-Mimamsa and Vedanta.[384] The Smriti literature of Hinduism, particularly the Sutras, as well as other Hindu texts such as the Arthashastra and Sushruta Samhita were also written or expanded during this period.[385]
 
@@ -441,7 +441,7 @@ Bhakti ideas centered around loving devotion to Vishnu and Shiva with songs and 
 
 Islamic rule and Bhakti movement of Hinduism (c. 1200–1750 CE)
 
-Zahir_al-Din_Muhammad_Babur_-_Babur_and_His_Warriors_Visiting_a_Hindu_Temple_-_Walters_W59622B_-_Full_Page.jpg visits a Hindu temple.]]
+visits a Hindu temple.]]
 
 The Islamic rule period witnessed Hindu-Muslim confrontation and violence, but "violence did not normally characterize the relations of Muslim and Hindu." Enslavement of non-Muslims, especially Hindus in India, was part of the Muslim raids and conquests. After the 14th century slavery become less common and in 1562 "Akbar abolished the practice of enslaving the families of war captives." Akbar recognized Hinduism, protected Hindu temples, and abolished Jizya (head taxes) against Hindus. Occasionally, Muslim rulers of the Delhi Sultanate and the Mughal Empire, before and after Akbar, from the 12th century to the 18th century, destroyed Hindu temples, and persecuted non-Muslims.
 
@@ -473,8 +473,6 @@ In the 20th century, Hinduism also gained prominence as a political force and a 
 
 
 Demographics
-
-Hinduism_percent_population_in_each_nation_World_Map_Hindu_data_by_Pew_Research.svg
 
 Hinduism is a major religion in India. Hinduism was followed by around 79.8% of the country's population of 1.21 billion (2011 census) (960 million adherents).[424] Other significant populations are found in Nepal (23 million), Bangladesh (15 million) and the Indonesian island of Bali (3.9 million).[425] The majority of the Vietnamese Cham people also follow Hinduism, with the largest proportion in Ninh Thuận Province.[426]
 
@@ -514,7 +512,7 @@ Countries with the greatest proportion of Hindus:
 
 17. 5.5%
 
-18. 5%[438]A_day_of_devotion_–_Thaipusam_in_Singapore_(4316108409).jpg procession in Singapore]]
+18. 5%[438] procession in Singapore]]
 
 19. 2.4%[439]
 

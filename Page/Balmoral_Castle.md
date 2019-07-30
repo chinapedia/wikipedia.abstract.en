@@ -11,7 +11,7 @@ The Balmoral Estate has been added to by successive members of the royal family,
 
 History
 
-Robert_Gordon_Litho.jpg made major alterations to the original castle - _lithograph by Josef Kriehuber, 1846_]]
+made major alterations to the original castle - _lithograph by Josef Kriehuber, 1846_]]
 
 King Robert II of Scotland (1316–1390) had a hunting lodge in the area. Historical records also indicate that a house at Balmoral was built by Sir William Drummond in 1390.[2] The estate is recorded in 1451 as "Bouchmorale", and later was tenanted by Alexander Gordon, second son of the 1st Earl of Huntly. A tower house was built on the estate by the Gordons.[3]
 
@@ -23,7 +23,7 @@ Queen Victoria and Prince Albert first visited Scotland in 1842, five years afte
 
 Sir Robert Gordon died in 1847 and his lease on Balmoral reverted to Lord Aberdeen. In February 1848 an arrangement was made—that Prince Albert would acquire the remaining part of the lease on Balmoral, together with its furniture and staff—without having seen the property first.[9]
 
-Dronning_victoria.jpg, 1837]]
+, 1837]]
 
 The royal couple arrived for their first visit on 8 September 1848.[10] Victoria found the house "small but pretty",[11] and recorded in her diary that: "All seemed to breathe freedom and peace, and to make one forget the world and its sad turmoils".[12] The surrounding hilly landscape reminded them of Thuringia, Albert's homeland in Germany.[13]
 
@@ -35,15 +35,11 @@ The sale was completed in June 1852, the price being £32,000, and Prince Albert
 
 Construction of the new house
 
-Balmoral_Castle_-_Project_Gutenberg_13103.jpg similar to that of Craigievar Castle is the central feature of the castle, while a large turreted country house is attached]]
+similar to that of Craigievar Castle is the central feature of the castle, while a large turreted country house is attached]]
 
 The growing family of Victoria and Albert, the need for additional staff, and the quarters required for visiting friends and official visitors such as cabinet members, however, meant that extension of the existing structure would not be sufficient and that a larger house needed to be built. In early 1852, this was commissioned from William Smith.[22] The son of John Smith (who designed the 1830 alterations of the original castle), William Smith was city architect of Aberdeen from 1852. On learning of the commission, William Burn sought an interview with the prince, apparently to complain that Smith previously had plagiarised his work, however, Burn was unsuccessful in depriving Smith of the appointment.[23] William Smith's designs were amended by Prince Albert, who took a close interest in details such as turrets and windows.[24]
 
-balmoral_by_queen.JPG
-
 Construction began during summer 1853, on a site some northwest of the original building that was considered to have a better vista.[25] Another reason for consideration was, that whilst construction was ongoing, the family would still be able to use the old house.[26] Queen Victoria laid the foundation stone on 28 September 1853, during her annual autumn visit.[27] By the autumn of 1855, the royal apartments were ready for occupancy, although the tower was still under construction and the servants had to be lodged in the old house.[28] By coincidence, shortly after their arrival at the estate that autumn, news circulated about the fall of Sevastopol, ending the Crimean War, resulting in wild celebrations by royalty and locals alike. While visiting the estate shortly thereafter, Prince Frederick of Prussia asked for the hand of Princess Victoria.[29]
-
-Queen_Victoria_Prince_Albert_and_their_nine_children.JPG
 
 The new house was completed in 1856, and the old castle subsequently was demolished.[30] By autumn 1857, a new bridge across the Dee, designed by Isambard Kingdom Brunel linking Crathie and Balmoral was finished.[31]
 
@@ -53,13 +49,9 @@ The purchase of a Scottish estate by Victoria and Albert and their adoption of a
 
 Victoria and Albert at Balmoral
 
-BalmoralCastle1900.jpg
-
 Even before the completion of the new house, the pattern of the life of the royal couple in the Highlands was soon established. Victoria took long walks of up to four hours daily and Albert spent many days hunting deer and game. In 1849, diarist Charles Greville described their life at Balmoral as resembling that of gentry rather than royalty.[39] Victoria began a policy of commissioning artists to record Balmoral, its surroundings, and its staff. Over the years, numerous painters were employed at Balmoral, including Edwin and Charles Landseer, Carl Haag, William Wyld, and William Henry Fisk.[40] The royal couple took great interest in their staff. They established a lending library.
 
 During the 1850s, new plantations were established near the house and exotic conifers were planted on the grounds. Prince Albert had an active role in these improvements, overseeing the design of parterres, the diversion of the main road north of the river via a new bridge, and plans for farm buildings.[41] These buildings included a model dairy that he developed during 1861, the year of his death. The dairy was completed by Victoria. Subsequently, she also built several monuments to her husband on the estate. These include a pyramid-shaped cairn built a year after Albert's death, on top of _Craig Lurachain_. A large statue of Albert with a dog and a gun by William Theed, was inaugurated on 15 October 1867, the twenty-eighth anniversary of their engagement.[42][43]
-
-Cairn_for_Prince_Albert_Balmoral.JPG
 
 Following Albert's death, Victoria spent increasing periods at Balmoral, staying for as long as four months a year during early summer and autumn. Few further changes were made to the grounds, with the exception of some alterations to mountain paths, the erection of various cairns and monuments, and the addition of some cottages (_Karim Cottage_ and _Baile na Coille_) built for senior staff.[44][45] It was during this period that Victoria began to depend on her servant, John Brown. He was a local ghillie from Crathie, who became one of her closest companions during her long mourning.[46]
 
@@ -109,8 +101,6 @@ The royal family employs approximately 50 full-time and 50–100 part-time staff
 There are approximately 150 buildings on the estate,[69] including Birkhall, formerly home to Queen Elizabeth The Queen Mother, and used now by Prince Charles and the Duchess of Cornwall for their summer holidays.[70] Craigowan Lodge is used regularly by the family and friends of the royal family and also has been used while Balmoral Castle was being prepared for a royal visit.[71] Six smaller buildings on the estate are let as holiday cottages.[72]
 
 Public access to gardens and castle grounds
-
-The_Balmoral_Castle,_Scotland.jpg
 
 In 1931, the castle gardens were opened to the public for the first time and they now are open daily between April and the end of July, after which Queen Elizabeth II arrives for her annual stay.[73] The ballroom is the only room in the castle that may be viewed by the public.[74]
 

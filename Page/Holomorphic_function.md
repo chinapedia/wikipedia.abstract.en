@@ -1,4 +1,4 @@
-Conformal_map.svg _f_ (bottom).]] In mathematics, a HOLOMORPHIC FUNCTION is a complex-valued function of one or more complex variables that is, at every point of its domain, complex differentiable in a neighbourhood of the point. The existence of a complex derivative in a neighbourhood is a very strong condition, for it implies that any holomorphic function is actually infinitely differentiable and equal, locally, to its own Taylor series (_analytic_). Holomorphic functions are the central objects of study in complex analysis.
+_f_ (bottom).]] In mathematics, a HOLOMORPHIC FUNCTION is a complex-valued function of one or more complex variables that is, at every point of its domain, complex differentiable in a neighbourhood of the point. The existence of a complex derivative in a neighbourhood is a very strong condition, for it implies that any holomorphic function is actually infinitely differentiable and equal, locally, to its own Taylor series (_analytic_). Holomorphic functions are the central objects of study in complex analysis.
 
 Though the term _analytic function_ is often used interchangeably with "holomorphic function", the word "analytic" is defined in a broader sense to denote any function (real, complex, or of more general type) that can be written as a convergent power series in a neighbourhood of each point in its domain. The fact that all holomorphic functions are complex analytic functions, and vice versa, is a major theorem in complex analysis.[1]
 
@@ -7,7 +7,7 @@ Holomorphic functions are also sometimes referred to as _regular functions_.[2] 
 
 Definition
 
-Non-holomorphic_complex_conjugate.svg Given a complex-valued function _f_ of a single complex variable, the DERIVATIVE of _f_ at a point _z_₀ in its domain is defined by the limit[3]
+Given a complex-valued function _f_ of a single complex variable, the DERIVATIVE of _f_ at a point _z_₀ in its domain is defined by the limit[3]
 
 $$f'(z_0) = \lim_{z \to z_0} {f(z) - f(z_0) \over z - z_0 }.$$
 

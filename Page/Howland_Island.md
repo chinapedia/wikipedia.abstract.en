@@ -14,7 +14,7 @@ There are no natural fresh water resources.[4] The landscape features scattered 
 
 Economics
 
-Howland_Island.svg Howland_Island_Locator1.png centered over Howland Island]] Map_of_Kiribati_CIA_WFB.png just north of the Equator and east of Tarawa]]
+centered over Howland Island]] just north of the Equator and east of Tarawa]]
 
 The U.S. claims an Exclusive Economic Zone of and a territorial sea of around the island.
 
@@ -64,14 +64,14 @@ The facility was named _Kamakaiwi Field_ after James Kamakaiwi, a young Hawaiian
 
 Japanese attacks during World War II
 
-HowlandIslandLightWW2damage.jpg during the late 1930s.]] A Japanese air attack on December 8, 1941, by 14 twin-engined Mitsubishi G3M "Nell" bombers of Chitose Kōkūtai, from Kwajalein islands, killed colonists Richard "Dicky" Kanani Whaley and Joseph Kealoha Keliʻhananui. The raid came one day after the Japanese attack on Pearl Harbor and damaged the three airstrips of Kamakaiwi Field. Two days later, shelling from a Japanese submarine destroyed what was left of the colony's buildings.[18] A single bomber returned twice during the following weeks and dropped more bombs on the rubble. The two survivors were finally evacuated by the USS _Helm_, a U.S. Navy destroyer, on January 31, 1942. Howland was occupied by a battalion of the United States Marine Corps in September 1943 and was known as Howland Naval Air Station until May 1944.
+during the late 1930s.]] A Japanese air attack on December 8, 1941, by 14 twin-engined Mitsubishi G3M "Nell" bombers of Chitose Kōkūtai, from Kwajalein islands, killed colonists Richard "Dicky" Kanani Whaley and Joseph Kealoha Keliʻhananui. The raid came one day after the Japanese attack on Pearl Harbor and damaged the three airstrips of Kamakaiwi Field. Two days later, shelling from a Japanese submarine destroyed what was left of the colony's buildings.[18] A single bomber returned twice during the following weeks and dropped more bombs on the rubble. The two survivors were finally evacuated by the USS _Helm_, a U.S. Navy destroyer, on January 31, 1942. Howland was occupied by a battalion of the United States Marine Corps in September 1943 and was known as Howland Naval Air Station until May 1944.
 
 All attempts at habitation were abandoned after 1944. Colonization projects on the other four islands, also disrupted by the war, were also abandoned.[19] No aircraft is known to have landed on the island, though anchorages nearby were used by float planes and flying boats during World War II. For example, on July 10, 1944, a U.S. Navy Martin PBM-3-D Mariner flying boat (BuNo 48199), piloted by William Hines, had an engine fire and made a forced landing in the ocean off Howland. Hines beached the aircraft and, though it burned, the crew were unharmed, rescued by the (the same ship that later took the USCG's Construction Unit 211 and LORAN Unit 92 to Gardner Island), transferred to a sub chaser and taken to Canton Island.[20]
 
 
 National Wildlife Refuge
 
-Anglefish_and_Hump_Coral_-_Howland_Island_NWR.jpg and hump coral - Howland Island NWR.]]On June 27, 1974, Secretary of the Interior Rogers Morton created Howland Island National Wildlife Refuge which was expanded in 2009 to add submerged lands within of the island. The refuge now includes of land and of water.[21] Along with six other islands, the island was administered by the U.S. Fish and Wildlife Service as part of the Pacific Remote Islands National Wildlife Refuge Complex. In January 2009, that entity was upgraded to the Pacific Remote Islands Marine National Monument by President George W. Bush.[22]
+and hump coral - Howland Island NWR.]]On June 27, 1974, Secretary of the Interior Rogers Morton created Howland Island National Wildlife Refuge which was expanded in 2009 to add submerged lands within of the island. The refuge now includes of land and of water.[21] Along with six other islands, the island was administered by the U.S. Fish and Wildlife Service as part of the Pacific Remote Islands National Wildlife Refuge Complex. In January 2009, that entity was upgraded to the Pacific Remote Islands Marine National Monument by President George W. Bush.[22]
 
 The island habitat has suffered from the presence from multiple invasive exotic species. Black rats were introduced in 1854 and eradicated in 1938 by feral cats introduced the year before. The cats proved to be destructive to bird species, and the cats were eliminated by 1985. Pacific crabgrass continues to compete with local plants.[23]
 

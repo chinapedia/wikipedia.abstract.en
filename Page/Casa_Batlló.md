@@ -9,17 +9,17 @@ History
 
 Initial construction (1877)
 
-Gaud%C3%AD_(1910).jpg The building that is now Casa Batlló was built in 1877, commissioned by Lluís Sala Sánchez.[2] It was a classical building without remarkable characteristics within the eclecticism traditional by the end of the 19th century.[3] The building had a basement, a ground floor, four other floors and a garden in the back.[4]
+The building that is now Casa Batlló was built in 1877, commissioned by Lluís Sala Sánchez.[2] It was a classical building without remarkable characteristics within the eclecticism traditional by the end of the 19th century.[3] The building had a basement, a ground floor, four other floors and a garden in the back.[4]
 
 Batlló family
 
-Batllo-godo-per_Napoleon.jpg The house was bought by Josep Batlló in 1900. The design of the house made the home undesirable to buyers but the Batlló family decided to buy the place due to its centralized location. It is located in the middle of Passeig de Gracia, which in the early 20th century was known as a very prestigious and fashionable area. It was an area where the prestigious family could draw attention to themselves.[5]
+The house was bought by Josep Batlló in 1900. The design of the house made the home undesirable to buyers but the Batlló family decided to buy the place due to its centralized location. It is located in the middle of Passeig de Gracia, which in the early 20th century was known as a very prestigious and fashionable area. It was an area where the prestigious family could draw attention to themselves.[5]
 
 In 1906 Josep Batlló still owned the home. The Batlló family was very well known in Barcelona for its contribution to the textile industry in the city. Mr. Josep Batlló I Casanovas was a textile industrialist who owned a few factories in the city. Mr. Batlló married Amalia Godo Belaunzaran, from the family that founded the newspaper La Vanguardia. Josep wanted an architect that would design a house that was like no other and stood out as being audacious and creative. Both Josep and his wife were open to anything and they decided not to limit Gaudí. Josep did not want his house to resemble any of the houses of the rest of the Batlló family, such as Casa Pía, built by the Josep Vilaseca. He chose the architect who had designed Park Güell because he wanted him to come up with a risky plan. The family lived on the Noble Floor of Casa Batlló until the middle of the 1950s.[6]
 
 Renovation (1904-1906)
 
-Casa_Batlló_(Antoni_Gaudi)_(atrium,close_up),_43,_Passeig_de_Gràcia,_Eixample,_Barcelona,_Catalonia,_Spain.jpg In 1904 Josep Batlló hired Gaudí to design his home; at first his plans were to tear down the building and construct a completely new house. Gaudí convinced Josep that a renovation was sufficient and was also able to submit the planning application the same year. The building was completed and refurbished in 1906. He completely changed the main apartment which became the residence for the Batlló family. He expanded the central well in order to supply light to the whole building and also added new floors. In the same year the Barcelona City Council selected the house as a candidate for that year's best building award. The award was given to another architect that year despite Gaudí's design.
+In 1904 Josep Batlló hired Gaudí to design his home; at first his plans were to tear down the building and construct a completely new house. Gaudí convinced Josep that a renovation was sufficient and was also able to submit the planning application the same year. The building was completed and refurbished in 1906. He completely changed the main apartment which became the residence for the Batlló family. He expanded the central well in order to supply light to the whole building and also added new floors. In the same year the Barcelona City Council selected the house as a candidate for that year's best building award. The award was given to another architect that year despite Gaudí's design.
 
 Refurbishments
 
@@ -32,8 +32,6 @@ In 1993, the current owners of Casa Batlló bought the home and continued refurb
 
 Design
 
-Casa_Batlló_fireplace_seat.JPG
-
 Overview
 
 The local name for the building is _Casa dels ossos_ (House of Bones), as it has a visceral, skeletal organic quality. The building looks very remarkable — like everything Gaudí designed, only identifiable as Modernisme or Art Nouveau in the broadest sense. The ground floor, in particular, is rather astonishing with tracery, irregular oval windows and flowing sculpted stone work.
@@ -42,27 +40,27 @@ It seems that the goal of the designer was to avoid straight lines completely. M
 
 Loft
 
-Casa_Batlló_Parabolic_Arches.jpg]]
+]]
 
 The loft is considered to be one of the most unusual spaces. It was formerly a service area for the tenants of the different apartments in the building which contained laundry rooms and storage areas. It is known for its simplicity of shapes and its Mediterranean influence through the use of white on the walls. It contains a series of sixty catenary arches that creates a space which represents the ribcage of an animal. Some people believe that the “ribcage” design of the arches is a ribcage for the dragon's spine that is represented in the roof.
 
 Noble floor and museum
 
-Casa_Batlló_(Antoni_Gaudi)_(interior),_43,_Passeig_de_Gràcia,_Eixample,_Barcelona,_Catalonia,_Spain.jpg The noble floor is larger than seven-hundred square meters. It is the main floor of the building. The noble floor is accessed through a private entrance hall that utilizes skylights resembling tortoise shells and vaulted walls in curving shapes. On the noble floor, there is a spacious landing with direct views to the blue tiling of the building well. On the Passeig de Gracia side is Mr. Batlló's study, a dining room, and a secluded spot for courting couples, decorated with a mushroom-shaped fireplace. The elaborate and animal-like décor continues throughout the whole noble floor.
+The noble floor is larger than seven-hundred square meters. It is the main floor of the building. The noble floor is accessed through a private entrance hall that utilizes skylights resembling tortoise shells and vaulted walls in curving shapes. On the noble floor, there is a spacious landing with direct views to the blue tiling of the building well. On the Passeig de Gracia side is Mr. Batlló's study, a dining room, and a secluded spot for courting couples, decorated with a mushroom-shaped fireplace. The elaborate and animal-like décor continues throughout the whole noble floor.
 
 In 2002, the house opened its doors to the public, and people were allowed to visit the noble floor. The building was opened to the public as part of the celebration of the International Year of Gaudí. Casa Batlló met with very much unanticipated success, and visitors became eager to see the rest of the house. Two years later, in celebration of the one hundredth anniversary of the beginning of work on Casa Batlló the fifth floor was restored, and the house extended its visit to the loft and the well. In 2005, Casa Batlló became a Unesco World Heritage Site.[8]
 
 Roof
 
-Jfader_batto_roof.jpg The roof terrace is one of the most popular features of the entire house due to its famous dragon back design. Gaudí represents an animal's spine by using tiles of different colors on one side. The roof is decorated with four chimney stacks, that are designed to prevent backdraughts.[9]
+The roof terrace is one of the most popular features of the entire house due to its famous dragon back design. Gaudí represents an animal's spine by using tiles of different colors on one side. The roof is decorated with four chimney stacks, that are designed to prevent backdraughts.[9]
 
 Exterior facade
 
-CasaBatllo_0170.JPG The facade has three distinct sections which are harmoniously integrated. The lower ground floor with the main floor and two first-floor galleries are contained in a structure of Montjuïc sandstone with undulating lines. The central part, which reaches the last floor, is a multicolored section with protruding balconies. The top of the building is a crown, like a huge gable, which is at the same level as the roof and helps to conceal the room where there used to be water tanks. This room is currently empty. The top displays a trim with ceramic pieces that has attracted multiple interpretations.
+The facade has three distinct sections which are harmoniously integrated. The lower ground floor with the main floor and two first-floor galleries are contained in a structure of Montjuïc sandstone with undulating lines. The central part, which reaches the last floor, is a multicolored section with protruding balconies. The top of the building is a crown, like a huge gable, which is at the same level as the roof and helps to conceal the room where there used to be water tanks. This room is currently empty. The top displays a trim with ceramic pieces that has attracted multiple interpretations.
 
 Roof tiles
 
-casa_batllo_roof.jpg The roof's arched profile recalls the spine of a dragon with ceramic tiles for scales, and a small triangular window towards the right of the structure simulates the eye. Legend has it that it was once possible to see the Sagrada Familia through this window, which was being built simultaneously. The view of the Sagrada Familia is now blocked from this vantage point by newer buildings.[10] The tiles were given a metallic sheen to simulate the varying scales of the monster, with the color grading from green on the right side, where the head begins, to deep blue and violet in the center, to red and pink on the left side of the building.
+The roof's arched profile recalls the spine of a dragon with ceramic tiles for scales, and a small triangular window towards the right of the structure simulates the eye. Legend has it that it was once possible to see the Sagrada Familia through this window, which was being built simultaneously. The view of the Sagrada Familia is now blocked from this vantage point by newer buildings.[10] The tiles were given a metallic sheen to simulate the varying scales of the monster, with the color grading from green on the right side, where the head begins, to deep blue and violet in the center, to red and pink on the left side of the building.
 
 Tower and bulb
 
@@ -72,7 +70,7 @@ The bulb was broken when it was delivered, perhaps during transportation. Althou
 
 Central section
 
-Casa_Batllo.jpg The central part of the facade evokes the surface of a lake with water lilies, reminiscent of Monet's Nymphéas, with gentle ripples and reflections caused by the glass and ceramic mosaic.[13] It is a great undulating surface covered with plaster fragments of colored glass discs combined with 330 rounds of polychrome pottery. The discs were designed by Gaudí and Jujol between tests during their stay in Majorca, while working on the restoration of the Cathedral of Palma.[14]
+The central part of the facade evokes the surface of a lake with water lilies, reminiscent of Monet's Nymphéas, with gentle ripples and reflections caused by the glass and ceramic mosaic.[13] It is a great undulating surface covered with plaster fragments of colored glass discs combined with 330 rounds of polychrome pottery. The discs were designed by Gaudí and Jujol between tests during their stay in Majorca, while working on the restoration of the Cathedral of Palma.[14]
 
 Balcony
 

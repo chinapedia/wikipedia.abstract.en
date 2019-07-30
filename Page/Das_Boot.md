@@ -24,8 +24,6 @@ The crew is exhausted when they finally reach La Rochelle on Christmas Eve. Shor
 
 Cast
 
-DasBootcast.png DasbootLIJohann.png
-
 -   Jürgen Prochnow as Kapitänleutnant (abbr. "Kaleun", ) and also called "Der Alte" ("The Old Man") by his crew: A 30-year-old battle-hardened but good-hearted and sympathetic sea veteran, who complains to Werner that most of his crew are boys.[3] He is openly anti-Nazi, and embittered and cynical about the war, being openly critical about how the war is being handled.
 -   Herbert Grönemeyer as _Leutnant_ (Ensign) Werner, War Correspondent: Naive but honest, he has been sent out to sea with the crew to gather photographs of them in action and report on the voyage. Werner is mocked for his lack of experience, and soon learns the true horrors of service on a U-boat.
 -   Klaus Wennemann as Chief Engineer (_Leitender Ingenieur_ or LI, Rank: _Oberleutnant_): A quiet and well-respected man. At age 27, the oldest crew member besides the Captain. Tormented by the uncertain fate of his wife, especially after hearing about an Allied air raid on Cologne. The second most important crewman, as he oversees diving operations and makes sure the systems are running correctly.
@@ -65,8 +63,8 @@ Hans-Joachim Krug, former first officer on U-219, served as a consultant, as did
 
 Sets and models
 
-Baselapallice08.jpg at the harbor of La Rochelle (2007)
-]] U995_2004_1.jpg, a U-boat of the version VII-C/41, at its exhibition in Laboe in 2004]]
+at the harbor of La Rochelle (2007)
+]] , a U-boat of the version VII-C/41, at its exhibition in Laboe in 2004]]
 
 Several different sets were used. Two full-size mock-ups of a Type VIIC boat were built, one representing the portion above water for use in outdoor scenes, and the other a cylindrical tube on a motion mount for the interior scenes. The mock-ups were built according to U-boat plans from Chicago's Museum of Science and Industry.
 
@@ -86,8 +84,6 @@ Most of the interior shots were filmed using a hand-held Arriflex of cinematogra
 
 
 Historical accuracy
-
-U-96_Model.jpg
 
 Wolfgang Petersen created the film based on Buchheim's novel of the same name with several alterations to the plot and characters.
 

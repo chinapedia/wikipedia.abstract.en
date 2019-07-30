@@ -3,7 +3,7 @@ The BURROUGHS CORPORATION was a major American manufacturer of business equipmen
 
 Early history
 
-Burrough's_Adding_Machines,_1914.jpg BurroughsCorporationAddingMachine.jpg ]] 1890s_adding_machine.jpg In 1886, the American Arithmometer Company was established in St. Louis, Missouri to produce and sell an adding machine invented by William Seward Burroughs (grandfather of Beat Generation author William S. Burroughs). In 1904, six years after Burroughs' death, the company moved to Detroit and changed its name to the Burroughs Adding Machine Company. It was soon the biggest adding machine company in America.
+]] In 1886, the American Arithmometer Company was established in St. Louis, Missouri to produce and sell an adding machine invented by William Seward Burroughs (grandfather of Beat Generation author William S. Burroughs). In 1904, six years after Burroughs' death, the company moved to Detroit and changed its name to the Burroughs Adding Machine Company. It was soon the biggest adding machine company in America.
 
 
 Evolving product lines
@@ -44,7 +44,7 @@ In September 1986, Burroughs Corporation merged with Sperry Corporation to form 
 
 Re-emergence of the Burroughs name
 
-Burroughs_Payment_Systems_Plymouth_Michigan.JPG, 2011]] In 2010, UNISYS sold off its Payment Systems Division to Marlin Equity Partners, a California-based private investment firm, which incorporated it as Burroughs Payment Systems based in Plymouth, Michigan.[15][16]
+, 2011]] In 2010, UNISYS sold off its Payment Systems Division to Marlin Equity Partners, a California-based private investment firm, which incorporated it as Burroughs Payment Systems based in Plymouth, Michigan.[15][16]
 
 
 References in popular culture

@@ -3,7 +3,7 @@ The '''Book of Amos ''' is the third of the Twelve Minor Prophets in the Tanakh/
 
 Structure
 
-UPennE3074.jpg: Amos 2 (LXX)]] (Michael D. Coogan, _A Brief Introduction to the Old Testament_, 2009, p. 256.)
+: Amos 2 (LXX)]] (Michael D. Coogan, _A Brief Introduction to the Old Testament_, 2009, p. 256.)
 
 -   Oracles against the nations (1.3–2.6)
 -   Addresses to groups in Israel

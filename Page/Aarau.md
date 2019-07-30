@@ -5,7 +5,7 @@ The official language of Aarau is (the Swiss variety of Standard) German, but th
 
 Geography and geology
 
-Aarau_from_top.jpg The old city of Aarau is situated on a rocky outcrop at a narrowing of the Aare river valley, at the southern foot of the Jura mountains.[5] Newer districts of the city lie to the south and east of the outcrop, as well as higher up the mountain, and in the valley on both sides of the Aare. The neighboring municipalities are Küttigen to the north and Buchs to the east, Suhr to the south-east, Unterentfelden to the south, and Eppenberg-Wöschnau and Erlinsbach to the west. Aarau and the nearby neighboring municipalities have grown together and now form an interconnected agglomeration. The only exception is Unterentfelden whose settlements are divided from Aarau by the extensive forests of Gönhard and Zelgli. Approximately nine-tenths of the city is south of the Aare, and one tenth is to the north. It has an area, , of . Of this area, 6.3% is used for agricultural purposes, while 34% is forested. Of the rest of the land, 55.2% is settled (buildings or roads) and the remainder (4.5%) is non-productive (rivers or lakes).[6] The lowest elevation, , is found at the banks of the Aar, and the highest elevation, at , is the Hungerberg on the border with Küttigen.
+The old city of Aarau is situated on a rocky outcrop at a narrowing of the Aare river valley, at the southern foot of the Jura mountains.[5] Newer districts of the city lie to the south and east of the outcrop, as well as higher up the mountain, and in the valley on both sides of the Aare. The neighboring municipalities are Küttigen to the north and Buchs to the east, Suhr to the south-east, Unterentfelden to the south, and Eppenberg-Wöschnau and Erlinsbach to the west. Aarau and the nearby neighboring municipalities have grown together and now form an interconnected agglomeration. The only exception is Unterentfelden whose settlements are divided from Aarau by the extensive forests of Gönhard and Zelgli. Approximately nine-tenths of the city is south of the Aare, and one tenth is to the north. It has an area, , of . Of this area, 6.3% is used for agricultural purposes, while 34% is forested. Of the rest of the land, 55.2% is settled (buildings or roads) and the remainder (4.5%) is non-productive (rivers or lakes).[6] The lowest elevation, , is found at the banks of the Aar, and the highest elevation, at , is the Hungerberg on the border with Küttigen.
 
 Climate
 
@@ -14,11 +14,11 @@ History
 
 Prehistory
 
-Aarau_schloessli.jpg Aarau_rathaus.jpg Aarau_stadtkirche.jpg Aarau_oberer_turm.jpg]] A few artifacts from the Neolithic period were found in Aarau. Near the location of the present train station, the ruins of a settlement from the Bronze Age (about 1000 BC) have been excavated. The Roman road between Salodurum (Solothurn) and Vindonissa passed through the area, along the route now covered by the Bahnhofstrasse. In 1976 divers in the Aare found part of a seven-meter wide wooden bridge from the late Roman times.
+]] A few artifacts from the Neolithic period were found in Aarau. Near the location of the present train station, the ruins of a settlement from the Bronze Age (about 1000 BC) have been excavated. The Roman road between Salodurum (Solothurn) and Vindonissa passed through the area, along the route now covered by the Bahnhofstrasse. In 1976 divers in the Aare found part of a seven-meter wide wooden bridge from the late Roman times.
 
 Middle Ages
 
-Aarau_rore-turm.jpg Aarau was founded around AD 1240 by the counts of Kyburg.[7] Aarau is first mentioned in 1248 as _Arowe_. Around 1250 it was mentioned as _Arowa_. However the first mention of a city sized settlement was in 1256.[8] The town was ruled from the "Rore" tower, which has been incorporated into the modern city hall.
+Aarau was founded around AD 1240 by the counts of Kyburg.[7] Aarau is first mentioned in 1248 as _Arowe_. Around 1250 it was mentioned as _Arowa_. However the first mention of a city sized settlement was in 1256.[8] The town was ruled from the "Rore" tower, which has been incorporated into the modern city hall.
 
 In 1273 the counts of Kyburg died out. Agnes of Kyburg, who had no male relations, sold the family's lands to King Rudolf I von Habsburg. He granted Aarau its city rights in 1283.[9] In the 14th century the city was expanded in two stages, and a second defensive wall was constructed. A deep ditch separated the city from its "suburb;" its location is today marked by a wide street named "Graben" (meaning Ditch).
 
@@ -53,20 +53,20 @@ The earliest use of the place name was in 1248 (in the form Arowe), and probably
 
 Old town
 
-Aarauer_Giebel.jpg The historic old town forms an irregular square, consisting of four parts (called _Stöcke_). To the south lies the Laurenzenvorstadt, that is, the part of the town formerly outside the city wall. One characteristic of the city is its painted gables, for which Aarau is sometimes called the "City of beautiful Gables". The old town, Laurenzenvorstadt, government building, cantonal library, state archive and art museum are all listed as heritage sites of national significance.[16]
+The historic old town forms an irregular square, consisting of four parts (called _Stöcke_). To the south lies the Laurenzenvorstadt, that is, the part of the town formerly outside the city wall. One characteristic of the city is its painted gables, for which Aarau is sometimes called the "City of beautiful Gables". The old town, Laurenzenvorstadt, government building, cantonal library, state archive and art museum are all listed as heritage sites of national significance.[16]
 
 The buildings in the old city originate, on the whole, from building projects during the 16th century, when nearly all the Middle Age period buildings were replaced or expanded. The architectural development of the city ended in the 18th century, when the city began to expand beyond its (still existing) wall. Most of the buildings in the "suburb" date from this time.
 
 The "Schlössli" (small Castle), Rore Tower and the upper gate tower have remained nearly unchanged since the 13th century. The "Schlössli" is the oldest building in the city. It was already founded at the time of the establishment of the city shortly after 1200; the exact date is not known. City hall was built around Rore Tower in 1515.
 
-Aarau1612.jpg The upper gate tower stands beside the southern gate in the city wall, along the road to Lucerne and Bern. The jail has been housed in it since the Middle Ages. A Carillon was installed in the tower in the middle of the 20th century, the bells for which were provided by the centuries-old bell manufacturers of Aarau.
+The upper gate tower stands beside the southern gate in the city wall, along the road to Lucerne and Bern. The jail has been housed in it since the Middle Ages. A Carillon was installed in the tower in the middle of the 20th century, the bells for which were provided by the centuries-old bell manufacturers of Aarau.
 
 The town church was built between 1471 and 1478. During the Reformation, in 1528, its twelve altars and accompanying pictures were destroyed. The "Justice fountain" (Gerechtskeitbrunnen) was built in 1634, and is made of French limestone; it includes a statue of Lady Justice made of sandstone, hence the name. It was originally in the street in front of city hall, but was moved to its present location in front of the town church in 1905 due to increased traffic.
 
 
 Economy
 
-Kunsthaus_Aarau.jpg , Aarau had an unemployment rate of 2.35%. , there were 48 people employed in the primary economic sector and about 9 businesses involved in this sector. 4,181 people are employed in the secondary sector and there are 164 businesses in this sector. 20,186 people are employed in the tertiary sector, with 1,461 businesses in this sector.[17] This is a total of over 24,000 jobs, since Aarau's population is about 16,000 it draws workers from many surrounding communities. there were 8,050 total workers who lived in the municipality. Of these, 4,308 or about 53.5% of the residents worked outside Aarau while 17,419 people commuted into the municipality for work. There were a total of 21,161 jobs (of at least 6 hours per week) in the municipality.[18]
+, Aarau had an unemployment rate of 2.35%. , there were 48 people employed in the primary economic sector and about 9 businesses involved in this sector. 4,181 people are employed in the secondary sector and there are 164 businesses in this sector. 20,186 people are employed in the tertiary sector, with 1,461 businesses in this sector.[17] This is a total of over 24,000 jobs, since Aarau's population is about 16,000 it draws workers from many surrounding communities. there were 8,050 total workers who lived in the municipality. Of these, 4,308 or about 53.5% of the residents worked outside Aarau while 17,419 people commuted into the municipality for work. There were a total of 21,161 jobs (of at least 6 hours per week) in the municipality.[18]
 
 The largest employer in Aarau is the cantonal government, the offices of which are distributed across the entire city at numerous locations. One of the two head offices of the _Aargauer Zeitung_, Switzerland's fifth largest newspaper, is located in Aarau, as are the Tele M1 television channel studios, and several radio stations.
 
@@ -132,7 +132,7 @@ Sites
 
 Heritage sites of national significance
 
-Stadtkirche_Aarau.jpg Aarau is home to a number of sites that are listed as Swiss heritage sites of national significance. The list includes three churches; the Christian Catholic parish house, the Catholic parish house, and the Reformed _City Church_. There are five government buildings on the list; the Cantonal Library, which contains many pieces important to the nation's history,[32] and Art Gallery, the old Cantonal School, the Legislature, the Cantonal Administration building, and the archives. Three gardens or parks are on the list; _Garten Schmidlin_, _Naturama Aargau_ and the _Schlossgarten_. The remaining four buildings on the list are; the former Rickenbach Factory, the Crematorium, the _Haus zum Erker_ at Rathausgasse 10 and the _Restaurant Zunftstube_ at Pelzgasse.[33]
+Aarau is home to a number of sites that are listed as Swiss heritage sites of national significance. The list includes three churches; the Christian Catholic parish house, the Catholic parish house, and the Reformed _City Church_. There are five government buildings on the list; the Cantonal Library, which contains many pieces important to the nation's history,[32] and Art Gallery, the old Cantonal School, the Legislature, the Cantonal Administration building, and the archives. Three gardens or parks are on the list; _Garten Schmidlin_, _Naturama Aargau_ and the _Schlossgarten_. The remaining four buildings on the list are; the former Rickenbach Factory, the Crematorium, the _Haus zum Erker_ at Rathausgasse 10 and the _Restaurant Zunftstube_ at Pelzgasse.[33]
 
 Tourist Sites
 
@@ -189,8 +189,6 @@ The blazon of the municipal coat of arms is _Argent an Eagle displayed Sable bea
 
 Notable people
 
-4bircher.JPG Martin_Schlumpf.jpg MarisaBrunner.jpg
-
 born in Aarau
 
 -   Ferdinand Rudolph Hassler, (1770–1843), first director of the United States Coast Survey [39]
@@ -224,8 +222,6 @@ born in Aarau
 -   Stefan Eichenberger (born 1984) film director and film producer [42]
 
 lived in Aarau
-
-Sylvia_Flückiger-Bäni.jpg
 
 -   Johann Rudolf Dolder (1753–1807), politician [43]
 -   Johann Kaspar Riesbeck (1754–1786), author and actor[44]

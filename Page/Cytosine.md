@@ -12,7 +12,7 @@ In March 2015, NASA scientists reported the formation of cytosine, along with ur
 
 Chemical reactions
 
-Cytosine_chemical_structure.svg occurs on carbon number 5.]] Cytosine can be found as part of DNA, as part of RNA, or as a part of a nucleotide. As cytidine triphosphate (CTP), it can act as a co-factor to enzymes, and can transfer a phosphate to convert adenosine diphosphate (ADP) to adenosine triphosphate (ATP).
+occurs on carbon number 5.]] Cytosine can be found as part of DNA, as part of RNA, or as a part of a nucleotide. As cytidine triphosphate (CTP), it can act as a co-factor to enzymes, and can transfer a phosphate to convert adenosine diphosphate (ADP) to adenosine triphosphate (ATP).
 
 In DNA and RNA, cytosine is paired with guanine. However, it is inherently unstable, and can change into uracil (spontaneous deamination). This can lead to a point mutation if not repaired by the DNA repair enzymes such as uracil glycosylase, which cleaves a uracil in DNA.
 

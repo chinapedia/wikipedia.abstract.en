@@ -157,8 +157,6 @@ Later life and death
 
 After the death of his second wife in 1984, in 1985 Parkinson married Iris Hilda Waters (d. 1994) and moved to the Isle of Man. After two years there, they moved to Canterbury, Kent,[71] where he died in March 1993, at the age of 83. He was buried in Canterbury, and the law named after him is quoted as his epitaph.
 
-Cyril_Northcote_Parkinson_grave_Canterbury_2017.jpg
-
 
 Published works
 

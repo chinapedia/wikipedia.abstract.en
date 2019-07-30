@@ -7,7 +7,7 @@ In June 2016, the estimated greater area population was 224,462.[9] The city is 
 
 History
 
-John_Glover_-_Mount_Wellington_and_Hobart_Town_from_Kangaroo_Point_-_Google_Art_Project.jpg's 1834 painting _Mount Wellington and Hobart Town from Kangaroo Point_ depicts Aboriginal Tasmanians dancing in the foreground.]] The first European settlement began in 1803 as a military camp at Risdon Cove on the eastern shores of the Derwent River, amid British concerns over the presence of French explorers. In 1804, along with the military, settlers and convicts from the abandoned Port Phillip settlement, the camp at Risdon Cove was moved by Captain David Collins to a better location at the present site of Hobart at Sullivans Cove. The city, initially known as _Hobart Town_ or _Hobarton_, was named after Lord Hobart, the British secretary of state for war and the colonies.
+'s 1834 painting _Mount Wellington and Hobart Town from Kangaroo Point_ depicts Aboriginal Tasmanians dancing in the foreground.]] The first European settlement began in 1803 as a military camp at Risdon Cove on the eastern shores of the Derwent River, amid British concerns over the presence of French explorers. In 1804, along with the military, settlers and convicts from the abandoned Port Phillip settlement, the camp at Risdon Cove was moved by Captain David Collins to a better location at the present site of Hobart at Sullivans Cove. The city, initially known as _Hobart Town_ or _Hobarton_, was named after Lord Hobart, the British secretary of state for war and the colonies.
 
 The area's indigenous inhabitants were members of the semi-nomadic _Mouheneener_ tribe.[15] Violent conflict with the European settlers, and the effects of diseases brought by them, dramatically reduced the aboriginal population, which was rapidly replaced by free settlers and the convict population. Charles Darwin visited Hobart Town in February 1836 as part of the Beagle expedition. He writes of Hobart and the Derwent estuary in his _Voyage of the Beagle_:
 
@@ -22,13 +22,13 @@ Geography
 
 Topography
 
-LGA_Tas_SE_Hobart.png Hobart is located on the estuary of the Derwent River in the state's south-east. Geologically Hobart is built predominantly on Jurassic dolerite around the foothills interspersed with smaller areas of Triassic siltstone and Permian mudstone. Hobart extends along both sides of the Derwent River; on the western shore from the Derwent valley in the north through the flatter areas of Glenorchy which rests on older Triassic sediment and into the hilly areas of New Town, Lenah Valley. Both of these areas rest on the younger Jurassic dolerite deposits, before stretching into the lower areas such as the beaches of Sandy Bay in the south, in the Derwent estuary. South of the Derwent estuary lies Storm Bay and the Tasman Peninsula.
+Hobart is located on the estuary of the Derwent River in the state's south-east. Geologically Hobart is built predominantly on Jurassic dolerite around the foothills interspersed with smaller areas of Triassic siltstone and Permian mudstone. Hobart extends along both sides of the Derwent River; on the western shore from the Derwent valley in the north through the flatter areas of Glenorchy which rests on older Triassic sediment and into the hilly areas of New Town, Lenah Valley. Both of these areas rest on the younger Jurassic dolerite deposits, before stretching into the lower areas such as the beaches of Sandy Bay in the south, in the Derwent estuary. South of the Derwent estuary lies Storm Bay and the Tasman Peninsula.
 
 The Eastern Shore also extends from the Derwent valley area in a southerly direction hugging the Meehan Range in the east before sprawling into flatter land in suburbs such as Bellerive. These flatter areas of the eastern shore rest on far younger deposits from the Quaternary. From there the city extends in an easterly direction through the Meehan Range into the hilly areas of Rokeby and Oakdowns, before reaching into the tidal flatland area of Lauderdale.
 
 Hobart has access to a number of beach areas including those in the Derwent estuary itself; Sandy Bay, Cornelian Bay, Nutgrove, Kingston, Bellerive, and Howrah Beaches as well as many more in Frederick Henry Bay such as; Seven Mile, Roaches, Cremorne, Clifton, and Goats Beaches.
 
-Greater_Hobart_Panorama.jpg]]
+]]
 
 Climate
 
@@ -36,7 +36,7 @@ Hobart has a mild temperate oceanic climate (Köppen _Cfb_).[17] The highest tem
 
 Although Hobart itself rarely receives snow during the winter (the city's geographic position keeps temperatures from plummeting far below zero Celsius), the adjacent kunanyi/Mount Wellington is often seen with a snowcap. Mountain snow covering has also been known to occur during the other seasons. During the 20th century, the city itself has received snowfalls at sea level on average only once every 15 years; however, outer suburbs lying higher on the slopes of Mount Wellington receive snow more often, owing to cold air masses arriving from Antarctica coupled with them resting at higher altitude. These snow-bearing winds often carry on through Tasmania and Victoria to the Snowy Mountains in northern Victoria and southern New South Wales.
 
-Panorama_of_Hobart_from_Mt_Wellington,_Tasmania,_Australia_-_March_2005_(36662529600).jpg in March 2005]] The average temperature of the sea ranges from in September to in February.[20]
+in March 2005]] The average temperature of the sea ranges from in September to in February.[20]
 
   Climate data for Hobart
   ---------------------------------
@@ -48,8 +48,6 @@ Panorama_of_Hobart_from_Mt_Wellington,_Tasmania,_Australia_-_March_2005_(3666252
 
 
 Demographics
-
-Hobart_gospel_church.jpg
 
 At the 2016 census there were 222,356 people in the Greater Hobart area making it the second least populated capital city in Australia.[22] The City of Hobart local government area had a population of 50,439.
 
@@ -89,7 +87,7 @@ In 2013, Hillsong Church established a Hillsong Connect campus in Hobart.[36]
 
 Economy
 
-Wrest_Point_Casino.jpg]]
+]]
 
 Shipping is significant to the city's economy. Hobart is the home port for the Antarctic activities of Australia and France. The port loads around 2,000 tonnes of Antarctic cargo a year for the Australian research vessel _Aurora Australis._[37] The city is also a popular cruise ship destination during the summer months, with 47 such ships docking during the course of the 2016–17 summer season.
 
@@ -118,7 +116,7 @@ Tasmania has a high concentration of Antarctic and Southern Ocean scientists. Ho
 
 Tourism
 
-Hobart_Tasmania_Salamanca_Place.jpg with the snow-capped Mount Wellington in the background.]] Hobart serves as a focal point and mecca for tourism in the state of Tasmania. In 2016, Hobart received 1.8 million visitors, surpassing both Perth and Canberra, tying equally with Brisbane.[41]
+with the snow-capped Mount Wellington in the background.]] Hobart serves as a focal point and mecca for tourism in the state of Tasmania. In 2016, Hobart received 1.8 million visitors, surpassing both Perth and Canberra, tying equally with Brisbane.[41]
 
 The Royal Tasmanian Botanical Gardens is a popular recreation area a short distance from the city centre. It is the second-oldest Botanic Gardens in Australia and holds extensive significant plant collections.[42]
 
@@ -131,7 +129,7 @@ The Tasman Bridge is also a uniquely important feature of the city, connecting t
 
 Architecture
 
-Cascade_Brewery_2015.jpg, like many old buildings in Hobart, was built using convict labour.]] Hobart is known for its well-preserved historic architecture, much of it dating back to the Georgian and Victorian eras, giving the city a distinctly "Old World" feel.[43] For locals, this became a source of discomfiture about the city's convict past, but is now a draw card for tourists.[44] Regions within the city centre, such as Salamanca Place, contain many of the city's heritage-listed buildings. Historic homes and mansions also exist in the suburbs.
+, like many old buildings in Hobart, was built using convict labour.]] Hobart is known for its well-preserved historic architecture, much of it dating back to the Georgian and Victorian eras, giving the city a distinctly "Old World" feel.[43] For locals, this became a source of discomfiture about the city's convict past, but is now a draw card for tourists.[44] Regions within the city centre, such as Salamanca Place, contain many of the city's heritage-listed buildings. Historic homes and mansions also exist in the suburbs.
 
 Kelly's Steps were built in 1839 by shipwright and adventurer James Kelly to provide a short-cut from Kelly Street and Arthur Circus in Battery Point to the warehouse and dockyards district of Salamanca Place.[45] In 1835, John Lee Archer designed and oversaw the construction of the sandstone Customs House, facing Sullivans Cove. Completed in 1840, it was used as Tasmania's parliament house, and is now commemorated by a pub bearing the same name (built in 1844) which is frequented by yachtsmen after they have completed the Sydney to Hobart yacht race.
 
@@ -139,14 +137,12 @@ Hobart is also home to many historic churches. The Scots Church (formerly known 
 
 Hobart has very few high rise buildings in comparison to other Australian cities. This is partly a result of height limits imposed due to Hobart's proximity to Derwent River and Mount Wellington.[46]
 
-Hobart,_TAS.jpg
-
 
 Culture
 
 Arts and entertainment
 
-Theatre_Royal_Hobart.jpg, Australia's oldest continually operating theatre[47]]] Hobart_waterfront_architecture.jpg]]
+, Australia's oldest continually operating theatre[47]]] ]]
 
 Hobart is home to the Tasmanian Symphony Orchestra, which is resident at the Federation Concert Hall on the city's waterfront. It offers a year-round program of concerts and is thought to be one of the finest small orchestras in the world. Hobart also plays host to the University of Tasmania's acclaimed Australian International Symphony Orchestra Institute (AISOI) which brings pre-professional advanced young musicians to town from all over Australia and internationally. The AISOI plays host to a public concert season during the first two weeks of December every year focusing on large symphonic music. Like the Tasmanian Symphony Orchestra, the AISOI uses the Federation Concert Hall as its performing base.
 
@@ -162,11 +158,11 @@ Designed by the prolific architect Sir Roy Grounds, the 17-storey Wrest Point Ho
 
 The city's nightlife primarily revolves around Salamanca Place, the waterfront area, Elizabeth St in North Hobart and Sandy Bay, but popular pubs, bars and nightclubs exist around the city as well. Major national and international music events are usually held at the Derwent Entertainment Centre, or the Casino. Popular restaurant strips include Elizabeth Street in North Hobart, and Salamanca Place near the waterfront. These include numerous ethnic restaurants including Chinese, Thai, Greek, Pakistani, Italian, Indian and Mexican. The major shopping street in the CBD is Elizabeth Street, with the pedestrianised Elizabeth Mall and the General Post Office.
 
-Close Shave, one of Australia's longest serving male a cappella quartets, is based in Hobart. James_Turrell's_Amarna_at_Mona_2015.jpg (MONA), the largest privately owned museum in the Southern Hemisphere]]
+Close Shave, one of Australia's longest serving male a cappella quartets, is based in Hobart. (MONA), the largest privately owned museum in the Southern Hemisphere]]
 
 Events
 
-Hobart_Wharfchancellor.jpg, and is the scene of celebration by many yachtsmen during the new year festivities.]]
+, and is the scene of celebration by many yachtsmen during the new year festivities.]]
 
 Hobart is internationally famous among the yachting community as the finish of the Sydney to Hobart Yacht Race which starts in Sydney on Boxing Day (the day after Christmas Day). The arrival of the yachts is celebrated as part of the Hobart Summer Festival, a food and wine festival beginning just after Christmas and ending in mid-January. The Taste of Tasmania is a major part of the festival, where locals and visitors can taste fine local and international food and wine.
 
@@ -178,7 +174,7 @@ The Australian Wooden Boat Festival is a biennial event held in Hobart celebrati
 
 Sport
 
-Bellerive_oval_hobart.jpg is home to cricket and Australian rules football, Hobart's two most popular spectator sports.]]
+is home to cricket and Australian rules football, Hobart's two most popular spectator sports.]]
 
 Most professional Hobart-based sports teams represent Tasmania as a whole rather than exclusively the city.
 
@@ -195,8 +191,6 @@ Hockey Tasmania has a men's team (the Tasmanian Tigers) and a women's team (the 
 The city co-hosted the basketball FIBA Oceania Championship 1975.
 
 Media
-
-Mount_Wellington_lookout.jpg
 
 Five free-to-air television stations service Hobart:
 
@@ -267,8 +261,6 @@ Hobart's major newspaper is _The Mercury_, which was founded by John Davies in 1
 
 Government
 
-Lascar_Parliament_House_(Hobart)_(4551936219).jpg
-
 Greater Hobart metropolitan area consists of five local government areas of which three, City of Hobart, City of Glenorchy and City of Clarence are designated as cities. Hobart also includes the urbanised local governments of the Municipality of Kingborough and Municipality of Brighton. Each local government services all the suburbs that are within its geographical boundaries and are responsible for their own urban area, up to a certain scale, and residential planning as well as waste management and mains water storage.
 
 Most citywide events such as the Taste of Tasmania and Hobart Summer Festival are funded by the Tasmanian State Government as a joint venture with the Hobart City Council. Urban planning of the Hobart CBD in particular the Heritage listed areas such as Sullivans Cove are also intensely scrutinised by State Government, which is operated out of Parliament House on the waterfront.
@@ -276,7 +268,7 @@ Most citywide events such as the Taste of Tasmania and Hobart Summer Festival ar
 
 Education
 
-UTAS_Centenary_Building.jpg's Centenary Building, Sandy Bay campus]]
+'s Centenary Building, Sandy Bay campus]]
 
 Hobart is home to the main campus of the University of Tasmania, located in Sandy Bay. On-site accommodation colleges include Christ College, Jane Franklin Hall and St John Fisher College. Other campuses are in Launceston and Burnie.
 
@@ -285,19 +277,17 @@ The Greater Hobart area contains 122 primary, secondary and pretertiary (College
 
 Infrastructure
 
-Connection_to_the_east_-_panoramio.jpg The only public transportation within the city of Hobart is via a network of Metro Tasmania buses funded by the Tasmanian Government and a small number of private bus services. Like many large Australian cities, Hobart once operated passenger tram services, a trolleybus network consisting of six routes which operated until 1968. However, the tramway closed in the early 1960s. The tracks are still visible in the older streets of Hobart.
+The only public transportation within the city of Hobart is via a network of Metro Tasmania buses funded by the Tasmanian Government and a small number of private bus services. Like many large Australian cities, Hobart once operated passenger tram services, a trolleybus network consisting of six routes which operated until 1968. However, the tramway closed in the early 1960s. The tracks are still visible in the older streets of Hobart.
 
 Suburban passenger trains, run by the Tasmanian Government Railways, were closed in 1974 and the intrastate passenger service, the Tasman Limited, ceased running in 1978. Recently though there has been a push from the city, and increasingly from government, to establish a light rail network, intended to be fast, efficient, and eco-friendly, along existing tracks in a North South corridor; to help relieve the frequent jamming of traffic in Hobart CBD.
 
 The main arterial routes within the urban area are the Brooker Highway to Glenorchy and the northern suburbs, the Tasman Bridge and Bowen Bridge across the river to Rosny and the Eastern Shore. The East Derwent Highway to Lindisfarne, Geilston Bay, and Northwards to Brighton, the South Arm Highway leading to Howrah, Rokeby, Lauderdale and Opossum Bay and the Southern Outlet south to Kingston and the D'Entrecasteaux Channel. Leaving the city, motorists can travel the Lyell Highway to the west coast, Midland Highway to Launceston and the north, Tasman Highway to the east coast, or the Huon Highway to the far south.
 
-HobartAirportTerminal.jpg]]
+]]
 
 Ferry services from Hobart's Eastern Shore into the city were once a common form of public transportation, but with lack of government funding, as well as a lack of interest from the private sector, there has been the demise of a regular commuter ferry service – leaving Hobart's commuters relying solely on travel by automobiles and buses. There is however a water taxi service operating from the Eastern Shore into Hobart which provides an alternative to the Tasman Bridge.
 
 Hobart is served by Hobart International Airport with flights to/from Melbourne (Qantas, Virgin Australia, Jetstar Airways and Tiger Airways Australia); Sydney (Qantas, Jetstar and Virgin); Brisbane (Virgin); Perth (Virgin); Gold Coast (Tiger Airways); and Adelaide (Jetstar).The smaller Cambridge Aerodrome mainly serves small charter airlines offering local tourist flights. In the past decade, Hobart International Airport received a huge upgrade, with the airport now being a first class airport facility.
-
-Cobble_Creek,_Hobart.jpg
 
 In 2009, it was announced that Hobart Airport would receive more upgrades, including a first floor, aerobridges (currently, passengers must walk on the tarmac) and shopping facilities. Possible new international flights to Asia and New Zealand, and possible new domestic flights to Darwin and Cairns have been proposed. A second runway, possibly to be constructed in the next 15 years, would assist with growing passenger numbers to Hobart. Hobart Control Tower may be renovated and fitted with new radar equipment, and the airport's carpark may be extended further. Also, new facilities will be built just outside the airport. A new service station, hotel and day care centre have already been built and the road leading to the airport has been maintained and re-sealed. In 2016, work began on a 500-metre extension of the existing runway in addition to a $100 million upgrade of the airport. The runway extension is expected to allow international flights to land and increase air-traffic with Antarctica. This upgrade was, in part, funded under a promise made during the 2013 federal election by the Abbott government.[55]
 
@@ -306,7 +296,7 @@ Notable residents
 
 Arts
 
-Errol_Flynn1.jpg was born in Hobart in 1909.]]
+was born in Hobart in 1909.]]
 
 -   Asta, singer-songwriter
 -   Phillip Borsos, best known for his films _The Mean Season_ (1985) and _One Magic Christmas_ (1985)

@@ -1,11 +1,11 @@
-Bishop_Christian_Plaque_Grudziadz.JPG]] CHRISTIAN OF OLIVA (), also CHRISTIAN OF PRUSSIA () (died 4 December(?) 1245) was the first missionary bishop of Prussia. [1]
+]] CHRISTIAN OF OLIVA (), also CHRISTIAN OF PRUSSIA () (died 4 December(?) 1245) was the first missionary bishop of Prussia. [1]
 
 
 History
 
 Christian was born about 1180 in the Duchy of Pomerania, possibly in the area of Chociwel (according to Johannes Voigt). Probably as a juvenile he joined the Cistercian Order at newly established Kołbacz (_Kolbatz_) Abbey and in 1209 entered Oliwa Abbey near Gdańsk, founded in 1178 by the Samboride dukes of Pomerelia. At this time the Piast duke Konrad I of Masovia with the consent of Pope Innocent III had started the first of several unsuccessful Prussian Crusades into the adjacent Chełmno Land and Christian acted as a missionary among the Prussians east of the Vistula River.
 
-Prussian_clans_13th_century.png In 1209, Christian was commissioned by the Pope to be responsible for the Prussian missions between the Vistula and Neman Rivers and in 1212 he was appointed bishop. In 1215 he went to Rome in order to report to the Curia on the condition and prospects of his mission, and was consecrated first "Bishop of Prussia" at the Fourth Council of the Lateran. His seat as a bishop remained at Oliwa Abbey on the western side of the Vistula, whereas the pagan Prussian (later East Prussian) territory was on the eastern side of it.
+In 1209, Christian was commissioned by the Pope to be responsible for the Prussian missions between the Vistula and Neman Rivers and in 1212 he was appointed bishop. In 1215 he went to Rome in order to report to the Curia on the condition and prospects of his mission, and was consecrated first "Bishop of Prussia" at the Fourth Council of the Lateran. His seat as a bishop remained at Oliwa Abbey on the western side of the Vistula, whereas the pagan Prussian (later East Prussian) territory was on the eastern side of it.
 
 The attempts by Konrad of Masovia to subdue the Prussian lands had picked long-term and intense border quarrels, whereby the Polish lands of Masovia, Cuyavia and even Greater Poland became subject to continuous Prussian raids. Bishop Christian asked the new Pope Honorius III for the consent to start another Crusade, however a first campaign in 1217 proved a failure and even the joint efforts by Duke Konrad with the Polish High Duke Leszek I the White and Duke Henry I the Bearded of Silesia in 1222/23 only led to the reconquest of Chełmno Land but did not stop the Prussian invasions. At least Christian was able to establish the Diocese of Chełmno east of the Vistula, adopting the episcopal rights from the Masovian Bishop of Płock, confirmed by both Duke Konrad and the Pope.
 

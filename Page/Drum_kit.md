@@ -10,7 +10,7 @@ A standard modern kit (for a right-handed player), as used in popular music and 
 
 All of these are classified as non-pitched percussion, allowing the music to be scored using percussion notation, for which a loose semi-standardized form exists for both the drum kit and electronic drums. The drum kit is usually played while seated on a stool known as a throne. While many instruments like the guitar or piano are capable of performing melodies and chords, most drum kits are unable to achieve this as they produce sounds of indeterminate pitch.[7] The drum kit is a part of the standard rhythm section, used in many types of popular and traditional music styles, ranging from rock and pop to blues and jazz. Other standard instruments used in the rhythm section include the piano, electric guitar, electric bass, and keyboards.
 
-Many drummers extend their kits from this basic configuration, adding more drums, more cymbals, and many other instruments including pitched percussion. In some styles of music, particular extensions are normal. For example, some rock and heavy metal drummers make use of double bass drums, which can be achieved with either a second bass drum or a remote double foot pedal.[8] Some progressive drummers may include orchestral percussion such as gongs and tubular bells in their rig. Some performers, such as some rockabilly drummers, play small kits that omit elements from the basic setup.Yoshiki's_drum_riser,_XJapan_MSG_10112014_(15325073010).jpg's drum riser at Madison Square Garden]] __TOC__
+Many drummers extend their kits from this basic configuration, adding more drums, more cymbals, and many other instruments including pitched percussion. In some styles of music, particular extensions are normal. For example, some rock and heavy metal drummers make use of double bass drums, which can be achieved with either a second bass drum or a remote double foot pedal.[8] Some progressive drummers may include orchestral percussion such as gongs and tubular bells in their rig. Some performers, such as some rockabilly drummers, play small kits that omit elements from the basic setup.'s drum riser at Madison Square Garden]] __TOC__
 
 
 History
@@ -57,7 +57,7 @@ A drum solo is an instrumental section that highlights the virtuosity, skill and
 
 Grips
 
-Traditional_Grip.jpg Music-neutralclef.svg Most drummers hold the drumsticks in one of two types of grip:
+Most drummers hold the drumsticks in one of two types of grip:
 
 -   The traditional grip, originally developed for playing the military side drum, most commonly with an overhand grip for the right hand and an underhand for the left. It arose from the need to clear the counter-hoop (rim) of an angled marching drum (due to the single-point attachment of the drum sling).[21]
 -   The matched grip, in which the sticks are held in similar (but mirror image) fashion.[22]
@@ -95,15 +95,15 @@ Drums
 
 Bass drum
 
-Bass_drum.jpg ImprovisedDrumLondon.jpg in Trafalgar Square, London.]] The bass drum (also known as the "kick drum") provides a regular but often-varied foundation to the rhythm. The bass drum is the lowest pitched drum and usually provides the basic beat or timing element with basic pulse patterns. Some drummers may use two or more bass drums or use a double bass drum pedal with a single bass drum. Double bass drumming is an important technique in many heavy metal genres. Using a double bass drum pedal enables a drummer to play a double bass drum style with only one bass drum, saving space in recording/performance areas and reducing time and effort during set-up, taking down, and transportation.
+in Trafalgar Square, London.]] The bass drum (also known as the "kick drum") provides a regular but often-varied foundation to the rhythm. The bass drum is the lowest pitched drum and usually provides the basic beat or timing element with basic pulse patterns. Some drummers may use two or more bass drums or use a double bass drum pedal with a single bass drum. Double bass drumming is an important technique in many heavy metal genres. Using a double bass drum pedal enables a drummer to play a double bass drum style with only one bass drum, saving space in recording/performance areas and reducing time and effort during set-up, taking down, and transportation.
 
 Snare drum
 
-2006-07-06_snare_14.jpg The snare drum is the heart of the drum kit, particularly in rock, due its utility of providing the backbeat. When applied in this fashion, it supplies strong regular accents, played by the left hand (if right handed), and the backbone for many fills. Its distinctive sound can be attributed to the bed of stiff snare wires held under tension to the underside of the lower drum head. When the stiff wires are "engaged" (held under tension), they vibrate with the top (snare-side) drum skin (head), creating a snappy, staccato buzzing sound, along with the sound of the stick striking the batter head.
+The snare drum is the heart of the drum kit, particularly in rock, due its utility of providing the backbeat. When applied in this fashion, it supplies strong regular accents, played by the left hand (if right handed), and the backbone for many fills. Its distinctive sound can be attributed to the bed of stiff snare wires held under tension to the underside of the lower drum head. When the stiff wires are "engaged" (held under tension), they vibrate with the top (snare-side) drum skin (head), creating a snappy, staccato buzzing sound, along with the sound of the stick striking the batter head.
 
 Toms
 
-Keith_Moon_4_-_The_Who_-_1975.jpg of The Who with a mixture of concert toms and conventional toms, 1975]]
+of The Who with a mixture of concert toms and conventional toms, 1975]]
 
 Tom-tom drums, or _toms_ for short, are drums without snares and played with sticks (or whatever tools the music style requires), and are the most numerous drums in most kits. They provide the bulk of most drum fills and solos.
 
@@ -118,11 +118,11 @@ The smallest and largest drums without snares, octobans and gong drums respectiv
 
 Other drums
 
-Octobans are smaller toms designed for use in a drum kit, extending the tom range upwards in pitch, primarily by their depth; as well as diameter (typically 6"). Pearl brand octobans are called "rocket toms"; the instruments are also called tube toms. Anders_Johansson_2.jpg with an array of Octobans]] Timbales are tuned much higher than a tom of the same diameter, and normally played with very light, thin, non-tapered sticks. They have relatively thin heads and a very different tone than a tom, but are used by some drummers/percussionists to extend the tom range upwards. Alternatively, they can be fitted with tom heads and tuned as shallow concert toms. Attack timbales and mini timbales are reduced-diameter timbales designed for drum kit usage, the smaller diameter allowing for thicker heads providing the same pitch and head tension. They are recognizable in 2010s genres and in more traditional forms of Latin, reggae & numerous world music styles. Timbales were also used on occasion by Led Zeppelin drummer John Bonham. Gong drums are a rare extension to a drum kit. The single-headed mountable drum appears similar to a bass drum (sizing around 20–24 inches in diameter), but has the same purpose as that of a floor tom. Similarly, most hand drum percussion cannot be played easily or suitably with drum sticks without risking damage to the head and to the bearing edge, which is not protected by a metal drum rim, like a snare or tom. For use in a drum kit, they may be fitted with a metal drum head and played with care, or played by hand.
+Octobans are smaller toms designed for use in a drum kit, extending the tom range upwards in pitch, primarily by their depth; as well as diameter (typically 6"). Pearl brand octobans are called "rocket toms"; the instruments are also called tube toms. with an array of Octobans]] Timbales are tuned much higher than a tom of the same diameter, and normally played with very light, thin, non-tapered sticks. They have relatively thin heads and a very different tone than a tom, but are used by some drummers/percussionists to extend the tom range upwards. Alternatively, they can be fitted with tom heads and tuned as shallow concert toms. Attack timbales and mini timbales are reduced-diameter timbales designed for drum kit usage, the smaller diameter allowing for thicker heads providing the same pitch and head tension. They are recognizable in 2010s genres and in more traditional forms of Latin, reggae & numerous world music styles. Timbales were also used on occasion by Led Zeppelin drummer John Bonham. Gong drums are a rare extension to a drum kit. The single-headed mountable drum appears similar to a bass drum (sizing around 20–24 inches in diameter), but has the same purpose as that of a floor tom. Similarly, most hand drum percussion cannot be played easily or suitably with drum sticks without risking damage to the head and to the bearing edge, which is not protected by a metal drum rim, like a snare or tom. For use in a drum kit, they may be fitted with a metal drum head and played with care, or played by hand.
 
 Cymbals
 
-Portnoy_2327834448_d06703c5cd_o.jpg, the ex drummer of Dream Theater with many cymbals. Rio de Janeiro, 7 March 2008]] In most drum kits and drum/percussion kits cymbals are as important as the drums themselves. The oldest idiophones in music are cymbals, and were used throughout the ancient Near East, very early in the Bronze Age period. Cymbals are most associated with Turkey and Turkish craftsmanship, where Zildjian (the name means cymbal smith) has predominantly made them since 1623.[25]
+, the ex drummer of Dream Theater with many cymbals. Rio de Janeiro, 7 March 2008]] In most drum kits and drum/percussion kits cymbals are as important as the drums themselves. The oldest idiophones in music are cymbals, and were used throughout the ancient Near East, very early in the Bronze Age period. Cymbals are most associated with Turkey and Turkish craftsmanship, where Zildjian (the name means cymbal smith) has predominantly made them since 1623.[25]
 
 Beginners cymbal packs normally contain four cymbals: one ride, one crash, and a pair of hi-hats. A few contain only three cymbals, using a crash/ride instead of the separate ride and crash. The sizes closely follow those given in Common configurations below.
 
@@ -150,7 +150,7 @@ Other cymbals
 
 Effects cymbals
 
-Sabian_O-zone_cymbal.jpg O-zone "vented" crash cymbal]]
+O-zone "vented" crash cymbal]]
 
 All cymbals other than rides, hi-hats and crashes/splashes are usually called effects cymbals when used in a drum kit, though this is a non-classical or colloquial designation that has become a standardized label. Most extended kits include one or more splash cymbals and at least one china cymbal. Major cymbal makers produce cymbal extension packs consisting of one splash and one china, or more rarely a second crash, a splash and a china, to match some of their starter packs of ride, crash and hi-hats. However any combination of options can be found in the marketplace.[30]
 
@@ -162,7 +162,7 @@ Cymbals of any type used to provide an accent rather than a regular pattern or g
 
 Other acoustic instruments
 
-Günter_Baby_Sommer_E5100543.jpg with bodhrán and bongo drums in his kit]] Other instruments that have regularly been incorporated into drum kits include:
+with bodhrán and bongo drums in his kit]] Other instruments that have regularly been incorporated into drum kits include:
 
 -   Wood block and cowbell. These are traditional in classic rock. As well, they are used in culturally diverse forms of music
 -   Tambourine, particularly mounted on the hi-hat stand above the cymbals; an ordinary tambourine can be used, or a tambourine produced specially for drum kit use
@@ -178,7 +178,7 @@ See also Extended kits below.
 
 Electronic drums
 
-Clavia_ddrum4_SE.jpg Korg_Wavedrum_WD-X.jpg trigger pad]] Tampere_Jazz_Happening_2005_-_KTU_2.jpg playing a kit with both acoustic and electronic drums, 2005]] V-drums-2.jpg, are often built in the form of an acoustic drum kit. The unit's sound module is mounted to the left.]]
+trigger pad]] playing a kit with both acoustic and electronic drums, 2005]] , are often built in the form of an acoustic drum kit. The unit's sound module is mounted to the left.]]
 
 Electronic drums are used for many reasons. Some drummers use electronic drums for playing in small venues such as coffeehouses or church services, where a very low volume for the band is desired. Since fully electronic drums do not create any acoustic sound (apart from the quiet sound of the stick hitting the sensor pads), all of the drum sounds come from a keyboard amplifier or PA system; as such, the volume of electronic drums can be much lower than an acoustic kit. Some drummers use electronic drums as practice instruments, because they can be listened to with headphones, enabling a drummer to practice in an apartment or in the middle of the night without disturbing others. Some drummers use electronic drums to take advantage of the huge range of sounds that modern drum modules can produce, which range from sampled sounds of real drums, cymbals and percussion instruments (including instruments that would be impractical to take to a small gig, such as gongs or tubular bells), to electronic and synthesized sounds, including non-instrument sounds such as ocean waves.[31]
 
@@ -211,7 +211,7 @@ Virtual drums are a type of audio software that simulates the sound of a drum ki
 
 Hardware
 
-20_화합의_아리랑파티-1.jpg _Hardware_ is the name given to the metal stands that support the drums, cymbals and other percussion instruments. Generally the term also includes the hi-hat pedal and bass drum pedal or pedals, and the drum stool, but not the drum sticks.
+_Hardware_ is the name given to the metal stands that support the drums, cymbals and other percussion instruments. Generally the term also includes the hi-hat pedal and bass drum pedal or pedals, and the drum stool, but not the drum sticks.
 
 Hardware is carried along with sticks and other accessories in the traps case, and includes:
 
@@ -231,17 +231,17 @@ Drummers often set up their own drum hardware onstage and adjust to their own co
 
 Common configurations
 
-Th05SuDaBruniesTrio.jpg Drum kits are traditionally categorised by the number of drums, ignoring cymbals and other instruments. Snare, tom-tom and bass drums are always counted; Other drums such as octobans may or may not be counted.[38]
+Drum kits are traditionally categorised by the number of drums, ignoring cymbals and other instruments. Snare, tom-tom and bass drums are always counted; Other drums such as octobans may or may not be counted.[38]
 
 Traditionally, in America and the United Kingdom, drum sizes were expressed as _depth x diameter_, both in inches, but many drum kit manufacturers have since begun to express their sizes in terms of _diameter x depth_; still in the measure of inches.For example, a hanging tom 12 inches in diameter and 8 inches deep would be described by Tama as 8 inches × 12 inches, but by Pearl as 12 inches × 8 inches, and a standard diameter Ludwig snare drum 5 inches deep is a 5-inch × 14-inch, while the UK's Premier Manufacturer offers the same dimensions as: a 14-inch × 5-inch snare. The sizes of drums and cymbals given below are typical. Many drummers differ slightly or radically from them. Where no size is given, it is because there is too much variety to determine a typical size.
 
 Three-piece
 
-Junior_drum_set.JPG A three-piece drum set is the most basic set. A conventional three-piece kit consists of a bass drum, a 14" diameter snare drum, 12"–14" hi-hats, a single 12" diameter hanging tom, 8"–9" in depth, and a suspended cymbal, in the range of 14"–18", both mounted on the bass drum. These kits were common in the 1950s and 1960s and are still used in the 2010s in small acoustic dance bands.[39] It is a common configuration for kits sold through mail order, and, with smaller sized drums and cymbals, for kits for children.
+A three-piece drum set is the most basic set. A conventional three-piece kit consists of a bass drum, a 14" diameter snare drum, 12"–14" hi-hats, a single 12" diameter hanging tom, 8"–9" in depth, and a suspended cymbal, in the range of 14"–18", both mounted on the bass drum. These kits were common in the 1950s and 1960s and are still used in the 2010s in small acoustic dance bands.[39] It is a common configuration for kits sold through mail order, and, with smaller sized drums and cymbals, for kits for children.
 
 Four-piece
 
-Jimi_Hendrix_Experience_in_Fenklup.png playing a classic four-piece kit in the Jimi Hendrix Experience]] A four-piece kit extends the three-piece by adding one tom, either a second hanging tom mounted on the bass drum (a notable user is Chris Frantz of Talking Heads) and often displacing the cymbal, or by adding a floor tom. Normally another cymbal is added as well, so there are separate ride and crash cymbals, either on two stands, or the ride cymbal mounted on the bass drum to the player's right and the crash cymbal on a separate stand. The standard cymbal sizes are 16" crash and 18"–20" ride, with the 20" ride most common.
+playing a classic four-piece kit in the Jimi Hendrix Experience]] A four-piece kit extends the three-piece by adding one tom, either a second hanging tom mounted on the bass drum (a notable user is Chris Frantz of Talking Heads) and often displacing the cymbal, or by adding a floor tom. Normally another cymbal is added as well, so there are separate ride and crash cymbals, either on two stands, or the ride cymbal mounted on the bass drum to the player's right and the crash cymbal on a separate stand. The standard cymbal sizes are 16" crash and 18"–20" ride, with the 20" ride most common.
 
 Four piece with floor tom
 
@@ -253,7 +253,7 @@ If a second hanging tom is used, it is 10" diameter and 8" deep for fusion, or 1
 
 Five-piece
 
-Platin_Drums_PTCL2016_AF.jpg The five-piece kit is the full entry-level kit and the most common configuration across all musical genres. It adds a third tom to the bass drum/snare drum/two toms set, making three toms in all. A fusion kit will normally add a 14" tom, either a floor tom or a hanging tom on a stand to the right of the bass drum; in either case, making the tom lineup 10", 12" and 14". Having three toms enables drummers to have a low-pitched, middle-register and higher-pitched tom, which gives them more options for fills and solos.
+The five-piece kit is the full entry-level kit and the most common configuration across all musical genres. It adds a third tom to the bass drum/snare drum/two toms set, making three toms in all. A fusion kit will normally add a 14" tom, either a floor tom or a hanging tom on a stand to the right of the bass drum; in either case, making the tom lineup 10", 12" and 14". Having three toms enables drummers to have a low-pitched, middle-register and higher-pitched tom, which gives them more options for fills and solos.
 
 Other kits will normally have 12" and 13" hanging toms plus either a 14" hanging tom on a stand, a 14" floor tom, or a 16" floor tom. For depths, see Tom-tom drum#Modern tom-toms. In the 2010s, it is very popular to have 10" and 12" hanging toms, with a 16" floor tom. This configuration is often called a hybrid setup.[40] The bass drum is most commonly 22" in diameter, but rock kits may use 24", fusion 20", jazz 18",[41] and in larger bands up to 26". A second crash cymbal is common, typically an inch or two larger or smaller than the 16", with the larger of the two to the right for a right-handed drummer, but a big band may use crashes up to 20" and ride up to 24" or, very rarely, 26". A rock kit may also substitute a larger ride cymbal or larger hi-hats, typically 22" for the ride and 15" for the hats.
 
@@ -261,7 +261,7 @@ Most five-piece kits, at more than entry level, also have one or more effects cy
 
 Small kits
 
-Slim_Jim_Phantom_Stray_Cats,_Sweden_2008.jpg playing a two-piece kit while standing]]
+playing a two-piece kit while standing]]
 
 If the toms are omitted completely, or the bass drum is replaced by a pedal-operated beater on the bottom skin of a floor tom and the hanging toms omitted, the result is a two-piece "cocktail" (lounge) kit. Such kits are particularly favoured in musical genres such as trad jazz, rockabilly and jump blues. Some rockabilly kits and beginners kits for very young players omit the hi-hat stand. In rockabilly, this allows the drummer to play standing rather than seated.
 
@@ -269,7 +269,7 @@ Although these kits may be small with respect to the number of drums used, the d
 
 Extended kits
 
-OutsideBRX-15.JPG and progressive rock, consisting of double bass drums, two floor toms, and an extended set of cymbals (three crashes with splash and China-type).]] Terry_Bozzio_drums.jpg]] Common extensions beyond these standard configurations include:
+and progressive rock, consisting of double bass drums, two floor toms, and an extended set of cymbals (three crashes with splash and China-type).]] ]] Common extensions beyond these standard configurations include:
 
 -   Effects cymbals, particularly splash cymbals and china cymbals
 -   Double bass drums. Double bass drums or a double bass pedal are standard for some genres, particularly in heavy metal music
@@ -302,7 +302,7 @@ Accessories
 
 Sticks
 
-Drum_sticks.jpg Sticks were traditionally made from wood (particularly maple, hickory, and oak) but more recently metal, carbon fibre and other exotic materials have been used for high market end sticks. The prototypical wooden drum stick was primarily designed for use with the snare drum, and optimized for playing snare rudiments. Sticks come in a variety of weights and tip designs; 7N is a common jazz stick with a nylon tip, while a 5B is a common wood tipped stick, heavier than a 7N but with a similar profile, and a common standard for beginners. Numbers range from 1 (heaviest) to 10 (lightest).
+Sticks were traditionally made from wood (particularly maple, hickory, and oak) but more recently metal, carbon fibre and other exotic materials have been used for high market end sticks. The prototypical wooden drum stick was primarily designed for use with the snare drum, and optimized for playing snare rudiments. Sticks come in a variety of weights and tip designs; 7N is a common jazz stick with a nylon tip, while a 5B is a common wood tipped stick, heavier than a 7N but with a similar profile, and a common standard for beginners. Numbers range from 1 (heaviest) to 10 (lightest).
 
 The meanings of both numbers and letters vary from manufacturer to manufacturer, and some sticks are not described using this system at all, just being known as _Smooth Jazz_ (typically a 7N or 9N) or _Speed Rock_ (typically a 2B or 3B) for example. Many famous drummers endorse sticks made to their particular preference and sold under their signature.
 
@@ -312,7 +312,7 @@ A stick bag is the standard way for a drummer to bring drumsticks to a live perf
 
 Muffles
 
-Ring_muffle_on_snare.jpg Drum muffles are types of mutes that can reduce the ring, boomy overtone frequencies, or overall volume on a snare, bass, or tom. Controlling the ring is useful in studio or live settings when unwanted frequencies can clash with other instruments in the mix. There are internal and external muffling devices which rest on the inside or outside of the drumhead, respectively. Common types of mufflers include muffling rings, gels and duct tape, and improvised methods, such as placing a wallet near the edge of the head.[42] Some drummers muffle the sound of a drum by putting a cloth over the drumhead.
+Drum muffles are types of mutes that can reduce the ring, boomy overtone frequencies, or overall volume on a snare, bass, or tom. Controlling the ring is useful in studio or live settings when unwanted frequencies can clash with other instruments in the mix. There are internal and external muffling devices which rest on the inside or outside of the drumhead, respectively. Common types of mufflers include muffling rings, gels and duct tape, and improvised methods, such as placing a wallet near the edge of the head.[42] Some drummers muffle the sound of a drum by putting a cloth over the drumhead.
 
 SNARE DRUM AND TOM-TOM Typical ways to muffle a snare or tom include placing an object on the outer edge of the drumhead. A piece of cloth, a wallet, gel, or fitted rings made of mylar are common objects. Also used are external clip-on muffles that work using the same principle. Internal mufflers that lie on the inside of the drumhead are often built into a drum, but are generally considered less effective than external muffles, as they stifle the initial tone, rather than simply reducing the sustain of it.
 
@@ -340,15 +340,13 @@ There are various types of stick holder accessories, including bags that can be 
 
 Sizzlers
 
-aasizzler2.jpg
-
 A sizzler is a metal chain or combination of chains that is hung across a cymbal, creating a distinctive metallic sound when the cymbal is struck similar to that of a sizzle cymbal. Using a sizzler is the non-destructive alternative to drilling holes in a cymbal and putting metal rivets in the holes. Another benefit of using a "sizzler" chain is that the chain can be removed and the cymbal will return to its normal sound (in contrast, a cymbal with rivets would have to have the rivets removed).
 
 Some sizzlers feature pivoting arms that allow the chains to be quickly raised from the cymbal, or lowered onto it, allowing the effect to be used for some songs and removed for others.
 
 Cases
 
-Drum_kit_cases.JPG, floor tom case, snare case (front), twin hanging toms case, cymbal case, bass drum case (rear)]] Three types of protective covers are common for kit drums:
+, floor tom case, snare case (front), twin hanging toms case, cymbal case, bass drum case (rear)]] Three types of protective covers are common for kit drums:
 
 -   Drum bags are made from robust cloth such as cordura or from cloth-backed vinyl. They give minimal protection from bumps and impacts, but they do protect drums and cymbals from precipitation. They are adequate for drums transported in private vehicles to go to local gigs and sessions. They are often the only option for young drummers who are just starting out.
 -   Mid-price hard cases are of similar construction to suitcases, commonly made of fibre composite. The offer more protection from bumps than cloth bags.
@@ -358,7 +356,7 @@ As with all musical instruments, the best protection is provided by a combinatio
 
 Microphones
 
-Carl_Palmer.jpg with rim-mounted tom mics]]
+with rim-mounted tom mics]]
 
 Microphones ("mics") are used with drums to pick up the sound of the drums and cymbals for a sound recording and/or to pick up the sound of the drum kit so that it can be amplified through a PA system or sound reinforcement system. While most drummers use microphones and amplification in live shows in the 2010s, so that the sound engineer can adjust and balance the levels of the drums and cymbals, some bands that play in quieter genres of music and that play in small venues such as coffeehouses play acoustically, without mics or PA amplification. Small jazz groups such as jazz quartets or organ trios that are playing in a small bar will often just use acoustic drums. Of course if the same small jazz groups play on the mainstage of a big jazz festival, the drums will be mic'ed so that they can be adjusted in the sound system mix. A middle-ground approach is used by some bands that play in small venues; they do not mic every drum and cymbal, but rather mic only the instruments that the sound engineer wants to be able to control in the mix, such as the bass drum and the snare.
 
@@ -394,13 +392,11 @@ Drummers use a variety of accessories when practicing. Metronomes and beat count
 
 Tuning equipment
 
-ARNO_DRUM_KEYS_COLLECTION_Custom_Drum_Key.jpg
-
 Drummers use a drum key for tuning their drums and adjusting some drum hardware.[51] Besides the basic type of drum key (a T-handled wrench) there are various tuning wrenches and tools. Basic drum keys are divided in three types which allows tuning of three types of tuning screws on drums: square (most used), slotted and hexagonal. Ratchet-type wrenches allow high-tension drums to be tuned easily. Spin keys (utilizing a ball joint) allow rapid head changing. Torque-wrench type keys are available, graphically revealing the torque at each lug. Also, tension gauges, or meters, which are set on the head, aid drummers to achieve a consistent tuning. Drummers can tune drums "by ear" or, in the 2010s, use a digital drum tuner, which "measures tympanic pressure" on the drumhead to provide accurate tuning.[52]
 
 Notation and improvisation
 
-Characteristic_rock_drum_pattern.png groove with bass (bottom), back beat snare, and cymbal (top) is common in popular music]]
+groove with bass (bottom), back beat snare, and cymbal (top) is common in popular music]]
 
 Drum kit music is either written down in music notation (called "drum parts"), learned and played by ear, improvised, or some combination of some or all three of these methods.[53] Professional session musician drummers and big band drummers are often required to read drum parts. Drum parts are most commonly written on a standard five-line staff. In 2016, a special _percussion clef_ is used, while previously the bass clef was used. However, even if the bass or no clef is used, each line and space is assigned an instrument of the kit, rather than to a pitch. In jazz, traditional music, folk music, rock music, and pop music, drummers are expected to be able to learn songs by ear (from a recording or from another musician who is playing or singing the song) and improvise. The degree of improvisation differs in different styles. Jazz and jazz fusion drummers may have lengthy improvised solos in every song. In rock music and blues, there are also drum solos in some songs, although they tend to be shorter than those in jazz. Drummers in all popular music and traditional music styles are expected to be able to improvise accompaniment parts to songs, once they are told the genre or style (e.g., shuffle, ballad, blues).
 

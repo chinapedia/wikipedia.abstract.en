@@ -46,11 +46,9 @@ Chile's unique geography and climate make it ideal for winegrowing and the count
 
 The popularity of Chilean wine has been attributed not just to the quantity produced but also to increasing levels of quality.[35] The combination of quantity and quality allows Chile to export excellent wines at reasonable prices to the international market.[36]
 
-Chileanwine.jpg
-
 Mining
 
-Chuqui001.jpg The mining sector in Chile is one of the pillars of Chilean economy. The Chilean government strongly supports foreign investment in the sector and has modified its mining industry laws and regulations to create a favourable investing environment for foreigners. Thanks to a large amount of copper resources, progressive legislation and a healthy investment environment, Chile has become the copper mining capital of the world, producing over 1/3 of the global copper output.[37]
+The mining sector in Chile is one of the pillars of Chilean economy. The Chilean government strongly supports foreign investment in the sector and has modified its mining industry laws and regulations to create a favourable investing environment for foreigners. Thanks to a large amount of copper resources, progressive legislation and a healthy investment environment, Chile has become the copper mining capital of the world, producing over 1/3 of the global copper output.[37]
 
 Services
 
@@ -73,7 +71,7 @@ Many of the most visited attractions in Chile are protected areas. The extensive
 
 Economic policies
 
-Chile_GDP_per_capita_(PPP).svgan (blue) and average Latin American (gray) GDP per capita (1950–2008).]]
+an (blue) and average Latin American (gray) GDP per capita (1950–2008).]]
 
 According to the CIA World Factbook, Chile's "sound economic policies", maintained consistently since the 1980s, "have contributed to steady economic growth in Chile and have more than halved poverty rates."[47][48] The 1973–90 military government sold many state-owned companies, and the three democratic governments since 1990 have implemented export promotion policies [49][50] and continued privatization, though at a slower pace. The government's role in the economy is mostly limited to regulation, although the state continues to operate copper giant CODELCO and a few other enterprises (there is one state-run bank).
 
@@ -123,9 +121,9 @@ Chile is also a party in conversations to establish the Pacific Alliance along w
 
 Foreign trade
 
-Antiguas_reservas_wine.jpg and the eighth largest producer.[79]]] 2006 was a record year for Chilean trade. Total trade registered a 31% increase over 2005. During 2006, exports of goods and services totaled US$58 billion, an increase of 41%. This figure was somewhat distorted by the skyrocketing price of copper. In 2006, copper exports reached a historical high of US$33.3 billion. Imports totaled US$35 billion, an increase of 17% compared to the previous year. Chile thus recorded a positive trade balance of US$2.3 billion in 2006.[80]
+and the eighth largest producer.[79]]] 2006 was a record year for Chilean trade. Total trade registered a 31% increase over 2005. During 2006, exports of goods and services totaled US$58 billion, an increase of 41%. This figure was somewhat distorted by the skyrocketing price of copper. In 2006, copper exports reached a historical high of US$33.3 billion. Imports totaled US$35 billion, an increase of 17% compared to the previous year. Chile thus recorded a positive trade balance of US$2.3 billion in 2006.[80]
 
-Tree_map_export_2009_Chile.jpeg The main destinations for Chilean exports were the Americas (US$39 billion), Asia (US$27.8 billion) and Europe (US$22.2 billion). Seen as shares of Chile's export markets, 42% of exports went to the Americas, 30% to Asia and 24% to Europe. Within Chile's diversified network of trade relationships, its most important partner remained the United States. Total trade with the U.S. was US$14.8 billion in 2006. Since the U.S.–Chile Free Trade Agreement went into effect on January 1, 2004, U.S.–Chilean trade has increased by 154%. Internal Government of Chile figures show that even when factoring out inflation and the recent high price of copper, bilateral trade between the U.S. and Chile has grown over 60% since then.[81]
+The main destinations for Chilean exports were the Americas (US$39 billion), Asia (US$27.8 billion) and Europe (US$22.2 billion). Seen as shares of Chile's export markets, 42% of exports went to the Americas, 30% to Asia and 24% to Europe. Within Chile's diversified network of trade relationships, its most important partner remained the United States. Total trade with the U.S. was US$14.8 billion in 2006. Since the U.S.–Chile Free Trade Agreement went into effect on January 1, 2004, U.S.–Chilean trade has increased by 154%. Internal Government of Chile figures show that even when factoring out inflation and the recent high price of copper, bilateral trade between the U.S. and Chile has grown over 60% since then.[81]
 
 Total trade with Europe also grew in 2006, expanding by 42%. The Netherlands and Italy were Chile's main European trading partners. Total trade with Asia also grew significantly at nearly 31%. Trade with Korea and Japan grew significantly, but China remained Chile's most important trading partner in Asia. Chile's total trade with China reached U.S. $8.8 billion in 2006, representing nearly 66% of the value of its trade relationship with Asia.[82]=
 
@@ -137,7 +135,7 @@ Chile's overall trade profile has traditionally been dependent upon copper expor
 
 Trade agreements
 
-Chile_FTA.png Over the last several years, Chile has signed FTAs with the European Union, South Korea, New Zealand, Singapore, Brunei, China, and Japan. It reached a partial trade agreement with India in 2005 and began negotiations for a full-fledged FTA with India in 2006. Chile conducted trade negotiations in 2007 with Australia, Malaysia, and Thailand, as well as with China to expand an existing agreement beyond just trade in goods. Chile concluded FTA negotiations with Australia and an expanded agreement with China in 2008. The members of the P4 (Chile, Singapore, New Zealand, and Brunei) also plan to conclude a chapter on finance and investment in 2008.[86]
+Over the last several years, Chile has signed FTAs with the European Union, South Korea, New Zealand, Singapore, Brunei, China, and Japan. It reached a partial trade agreement with India in 2005 and began negotiations for a full-fledged FTA with India in 2006. Chile conducted trade negotiations in 2007 with Australia, Malaysia, and Thailand, as well as with China to expand an existing agreement beyond just trade in goods. Chile concluded FTA negotiations with Australia and an expanded agreement with China in 2008. The members of the P4 (Chile, Singapore, New Zealand, and Brunei) also plan to conclude a chapter on finance and investment in 2008.[86]
 
 Successive Chilean governments have actively pursued trade-liberalizing agreements. During the 1990s, Chile signed free trade agreements (FTA) with Canada, Mexico, and Central America. Chile also concluded preferential trade agreements with Venezuela, Colombia, and Ecuador. An association agreement with Mercosur-Argentina, Brazil, Paraguay, and Uruguay-went into effect in October 1996. Continuing its export-oriented development strategy, Chile completed landmark free trade agreements in 2002 with the European Union and South Korea. Chile, as a member of the Asia-Pacific Economic Cooperation (APEC) organization, is seeking to boost commercial ties to Asian markets. To that end, it has signed trade agreements in recent years with New Zealand, Singapore, Brunei, India, China, and most recently Japan. In 2007, Chile held trade negotiations with Australia, Thailand, Malaysia, and China. In 2008, Chile hopes to conclude an FTA with Australia, and finalize an expanded agreement (covering trade in services and investment) with China. The P4 (Chile, Singapore, New Zealand, and Brunei) also plan to expand ties through adding a finance and investment chapter to the existing P4 agreement. Chile's trade talks with Malaysia and Thailand are also scheduled to continue in 2008.[87]
 
@@ -346,8 +344,6 @@ Gross domestic product by sector of the economy.
 Note: 2011 data are preliminary. Source: Cuentas Nacionales – Evolución de la actividad económica en el año 2011 (p. 34). Central Bank of Chile. accessed on March 22, 2012.
 
 Top exports
-
-Compexchile07.jpg
 
 Chile's top exports in 2013.
 

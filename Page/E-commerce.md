@@ -52,7 +52,7 @@ A timeline for the development of e-commerce:
 
 Business application
 
-Automated_online_assistant.png on a merchandising website.]] Some common applications related to electronic commerce are:
+on a merchandising website.]] Some common applications related to electronic commerce are:
 
 
 Governmental regulation
@@ -119,7 +119,7 @@ Contrary to common misconception, there are significant barriers to entry in e-c
 
 Impact on markets and retailers
 
-Store_Closing_Flags.jpg in New Jersey. Despite investments, the chain struggled to win market share in the age of digital commerce. ]] E-commerce markets are growing at noticeable rates. The online market is expected to grow by 56% in 2015–2020. In 2017, retail e-commerce sales worldwide amounted to 2.3 trillion US dollars and e-retail revenues are projected to grow to 4.88 trillion US dollars in 2021.[62] Traditional markets are only expected 2% growth during the same time. Brick and mortar retailers are struggling because of online retailer's ability to offer lower prices and higher efficiency. Many larger retailers are able to maintain a presence offline and online by linking physical and online offerings.[63][64]
+in New Jersey. Despite investments, the chain struggled to win market share in the age of digital commerce. ]] E-commerce markets are growing at noticeable rates. The online market is expected to grow by 56% in 2015–2020. In 2017, retail e-commerce sales worldwide amounted to 2.3 trillion US dollars and e-retail revenues are projected to grow to 4.88 trillion US dollars in 2021.[62] Traditional markets are only expected 2% growth during the same time. Brick and mortar retailers are struggling because of online retailer's ability to offer lower prices and higher efficiency. Many larger retailers are able to maintain a presence offline and online by linking physical and online offerings.[63][64]
 
 E-commerce allows customers to overcome geographical barriers and allows them to purchase products anytime and from anywhere. Online and traditional markets have different strategies for conducting business. Traditional retailers offer fewer assortment of products because of shelf space where, online retailers often hold no inventory but send customer orders directly to the manufacture. The pricing strategies are also different for traditional and online retailers. Traditional retailers base their prices on store traffic and the cost to keep inventory. Online retailers base prices on the speed of delivery.
 

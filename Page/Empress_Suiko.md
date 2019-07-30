@@ -35,7 +35,7 @@ At a time when imperial succession was generally determined by clan leaders, rat
 
 Empress Suiko ruled for 35 years. Although there were seven other reigning empresses, their successors were most often selected from amongst the males of the paternal Imperial bloodline, which is why some conservative scholars argue that the women's reigns were temporary and that male-only succession tradition must be maintained in the 21st century.[11] Empress Genmei, who was followed on the throne by her daughter, Empress Genshō, remains the sole exception to this conventional argument.
 
-Suiko_tenno-Shinagano_Yamadano_misasagi.jpg The actual site of Suiko's grave is known.[12] This empress is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Osaka.
+The actual site of Suiko's grave is known.[12] This empress is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Osaka.
 
 The Imperial Household Agency designates this location as Suiko's mausoleum. It's formally named _Shinaga no Yamada no misasagi_.[13]
 

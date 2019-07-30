@@ -7,7 +7,7 @@ Although it was originally presented in reaction to the statements of artificial
 
 Chinese room thought experiment
 
-John_searle2.jpg Searle's thought experiment begins with this hypothetical premise: suppose that artificial intelligence research has succeeded in constructing a computer that behaves as if it understands Chinese. It takes Chinese characters as input and, by following the instructions of a computer program, produces other Chinese characters, which it presents as output. Suppose, says Searle, that this computer performs its task so convincingly that it comfortably passes the Turing test: it convinces a human Chinese speaker that the program is itself a live Chinese speaker. To all of the questions that the person asks, it makes appropriate responses, such that any Chinese speaker would be convinced that they are talking to another Chinese-speaking human being.
+Searle's thought experiment begins with this hypothetical premise: suppose that artificial intelligence research has succeeded in constructing a computer that behaves as if it understands Chinese. It takes Chinese characters as input and, by following the instructions of a computer program, produces other Chinese characters, which it presents as output. Suppose, says Searle, that this computer performs its task so convincingly that it comfortably passes the Turing test: it convinces a human Chinese speaker that the program is itself a live Chinese speaker. To all of the questions that the person asks, it makes appropriate responses, such that any Chinese speaker would be convinced that they are talking to another Chinese-speaking human being.
 
 The question Searle wants to answer is this: does the machine _literally_ "understand" Chinese? Or is it merely _simulating_ the ability to understand Chinese? Searle calls the first position "strong AI" and the latter "weak AI".
 
@@ -79,7 +79,7 @@ Searle argues that this is only true for an observer _outside_ of the room. The 
 
 Applied ethics
 
-USS_Vincennes_(CG-49)_Aegis_large_screen_displays.jpg – proposed as a real-life analog to the Chinese Room]]
+– proposed as a real-life analog to the Chinese Room]]
 
 Patrick Hew used the Chinese Room argument to deduce requirements from military command and control systems if they are to preserve a commander's moral agency. He drew an analogy between a commander in their command center and the person in the Chinese Room, and analyzed it under a reading of Aristotle’s notions of "compulsory" and "ignorance". Information could be "down converted" from meaning to symbols, and manipulated symbolically, but moral agency could be undermined if there was inadequate 'up conversion' into meaning. Hew cited examples from the USS _Vincennes_ incident.[10]
 
@@ -98,7 +98,7 @@ Searle's "strong AI" should not be confused with "strong AI" as defined by Ray K
 
 Turing test
 
-Turing_Test_version_3.png The Chinese room implements a version of the Turing test. Alan Turing introduced the test in 1950 to help answer the question "can machines think?" In the standard version, a human judge engages in a natural language conversation with a human and a machine designed to generate performance indistinguishable from that of a human being. All participants are separated from one another. If the judge cannot reliably tell the machine from the human, the machine is said to have passed the test.
+The Chinese room implements a version of the Turing test. Alan Turing introduced the test in 1950 to help answer the question "can machines think?" In the standard version, a human judge engages in a natural language conversation with a human and a machine designed to generate performance indistinguishable from that of a human being. All participants are separated from one another. If the judge cannot reliably tell the machine from the human, the machine is said to have passed the test.
 
 Turing then considered each possible objection to the proposal "machines can think", and found that there are simple, obvious answers if the question is de-mystified in this way. He did not, however, intend for the test to measure for the presence of "consciousness" or "understanding". He did not believe this was relevant to the issues that he was addressing. He wrote:
 

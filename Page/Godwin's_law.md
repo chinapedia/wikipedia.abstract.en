@@ -1,4 +1,4 @@
-__NOTOC__ Mike_Godwin_photographed_by_Voice_of_America_(Cambodia),_September_2017.png in the Voice of America headquarters, 2017]]
+__NOTOC__ in the Voice of America headquarters, 2017]]
 
 GODWIN'S LAW (or GODWIN'S RULE OF HITLER ANALOGIES)[1][2] is an Internet adage asserting that "As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1";[3][4] that is, if an online discussion (regardless of topic or scope) goes on long enough, sooner or later someone will compare someone or something to Adolf Hitler or his deeds, the point at which effectively the discussion or thread often ends. Promulgated by the American attorney and author Mike Godwin in 1990,[5] Godwin's law originally referred specifically to Usenet newsgroup discussions.[6] It is now applied to any threaded online discussion, such as Internet forums, chat rooms, and comment threads, as well as to speeches, articles, and other rhetoric[7][8] where _reductio ad Hitlerum_ occurs.
 

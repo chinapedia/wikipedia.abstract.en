@@ -13,7 +13,7 @@ History
 
 In the 1970s, groups of activists and engineers were inspired by the warnings of imminent resource depletion and starvation. In the US a group calling themselves the New Alchemists were famous for the depth of research effort placed in their projects. Using conventional construction techniques, they designed a series of "bioshelter" projects, the most famous of which was the Ark Bioshelter community for Prince Edward Island. They published the plans for all of these, with detailed design calculations and blueprints. The Ark used wind based water pumping and electricity, and was self-contained in food production. It had living quarters for people, fish tanks raising tilapia for protein, a greenhouse watered with fish water and a closed loop sewage reclamation system that recycled human waste into sanitized fertilizer for the fish tanks. As of January 2010, the successor organization to the New Alchemists has a web page up as the "New Alchemy Institute".[2] The PEI Ark has been abandoned and partially renovated several times.
 
-PHOENIXBATH.jpg, featuring a recycled bottle wall]]
+, featuring a recycled bottle wall]]
 
 The 1990s saw the development of Earthships, similar in intent to the Ark project, but organized as a for-profit venture, with construction details published in a series of 3 books by Mike Reynolds. The building material is tires filled with earth. This makes a wall that has large amounts of thermal mass (see earth sheltering). Berms are placed on exposed surfaces to further increase the house's temperature stability. The water system starts with rain water, processed for drinking, then washing, then plant watering, then toilet flushing, and finally black water is recycled again for more plant watering. The cisterns are placed and used as thermal masses. Power, including electricity, heat and water heating, is from solar power.
 
@@ -46,7 +46,7 @@ This section includes some minimal descriptions of methods, to give some feel fo
 
 Water
 
-Ceres_rainwater_tank_2_Pengo.jpg system]] Unterirdische_Zisterne.jpg
+system]]
 
 There are many methods of collecting and conserving water. Use reduction is cost-effective.
 
@@ -78,7 +78,7 @@ Sewage
 
 Resource
 
-Nature_Loo_Waterless_Composting_Toilet_Pedestal.jpg Composting toilets use bacteria to decompose human feces into useful, odourless, sanitary compost. The process is sanitary because soil bacteria eat the human pathogens as well as most of the mass of the waste. Nevertheless, most health authorities forbid direct use of "humanure" for growing food.[7] The risk is microbial and viral contamination. In a dry composting toilet, the waste is evaporated or digested to gas (mostly carbon dioxide) and vented, so a toilet produces only a few pounds of compost every six months. To control the odor, modern toilets use a small fan to keep the toilet under negative pressure, and exhaust the gasses to a vent pipe.[8]
+Composting toilets use bacteria to decompose human feces into useful, odourless, sanitary compost. The process is sanitary because soil bacteria eat the human pathogens as well as most of the mass of the waste. Nevertheless, most health authorities forbid direct use of "humanure" for growing food.[7] The risk is microbial and viral contamination. In a dry composting toilet, the waste is evaporated or digested to gas (mostly carbon dioxide) and vented, so a toilet produces only a few pounds of compost every six months. To control the odor, modern toilets use a small fan to keep the toilet under negative pressure, and exhaust the gasses to a vent pipe.[8]
 
 Some home sewage treatment systems use biological treatment, usually beds of plants and aquaria, that absorb nutrients and bacteria and convert greywater and sewage to clear water. This odor- and color-free reclaimed water can be used to flush toilets and water outside plants. When tested, it approaches standards for potable water. In climates that freeze, the plants and aquaria need to be kept in a small greenhouse space. Good systems need about as much care as a large aquarium.
 
@@ -118,8 +118,6 @@ A green roof captures precipitation and uses the water to grow plants. It can be
 
 Electricity
 
-Green_Building_by_Terry_Farrel_and_Partners_394640345.jpg Solar_panels_on_house_roof.jpg
-
 Since electricity is an expensive utility, the first step towards autonomy is to design a house and lifestyle to reduce demand. LED lights, laptop computers and gas-powered refrigerators save electricity, although gas-powered refrigerators are not very efficient.[10] There are also superefficient electric refrigerators, such as those produced by the Sun Frost company, some of which use only about half as much electricity as a mass-market energy star-rated refrigerator.
 
 Using a solar roof, solar cells can provide electric power. Solar roofs can be more cost-effective than retrofitted solar power, because buildings need roofs anyway. Modern solar cells last about 40 years, which makes them a reasonable investment in some areas. At a sufficient angle, solar cells are cleaned by run-off rain water and therefore have almost no life-style impact.
@@ -141,8 +139,6 @@ Earth batteries tap electric currents in the earth called telluric current. They
 Microbial fuel cells and thermoelectric generators[15][16] allow electricity to be generated from biomass. The plant can be dried, chopped and converted or burned as a whole, or it can be left alive so that waste saps from the plant can be converted by bacteria.
 
 Heating
-
-Active_Solar_Water_Heater_Diagram.svg
 
 Most autonomous buildings are designed to use insulation, thermal mass and passive solar heating and cooling. Examples of these are trombe walls and other technologies as skylights.
 

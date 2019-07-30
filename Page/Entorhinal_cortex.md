@@ -7,7 +7,7 @@ In rodents, the EC is located at the caudal end of the temporal lobe. In primate
 
 Connections
 
-Apoe-cortical-thickness-entorhinal.jpg The superficial layers – layers II and III – of EC project to the dentate gyrus and hippocampus: Layer II projects primarily to dentate gyrus and hippocampal region CA3; layer III projects primarily to hippocampal region CA1 and the subiculum. These layers receive input from other cortical areas, especially associational, perirhinal, and parahippocampal cortices, as well as prefrontal cortex. EC as a whole, therefore, receives highly processed input from every sensory modality, as well as input relating to ongoing cognitive processes, though it should be stressed that, within EC, this information remains at least partially segregated.
+The superficial layers – layers II and III – of EC project to the dentate gyrus and hippocampus: Layer II projects primarily to dentate gyrus and hippocampal region CA3; layer III projects primarily to hippocampal region CA1 and the subiculum. These layers receive input from other cortical areas, especially associational, perirhinal, and parahippocampal cortices, as well as prefrontal cortex. EC as a whole, therefore, receives highly processed input from every sensory modality, as well as input relating to ongoing cognitive processes, though it should be stressed that, within EC, this information remains at least partially segregated.
 
 The deep layers, especially layer V, receive one of the three main outputs of the hippocampus and, in turn, reciprocate connections from other cortical areas that project to superficial EC.
 

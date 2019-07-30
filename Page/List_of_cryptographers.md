@@ -115,7 +115,7 @@ Symmetric-key algorithm inventors
 
 Asymmetric-key algorithm inventors
 
-Cryptographers-2008.jpg, Martin Hellman, Ronald Rivest, and Adi Shamir at RSA 2008]]
+, Martin Hellman, Ronald Rivest, and Adi Shamir at RSA 2008]]
 
 -   Leonard Adleman, US, USC, the 'A' in RSA.
 -   David Chaum, US, inventor of blind signatures.

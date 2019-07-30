@@ -119,7 +119,7 @@ Example: _I think that …_
 
 Usage in menus
 
-Menu_(computing)_example.PNG of file operations]] In computer menu functions or buttons, an appended ellipsis means that upon selection a dialog will be displayed, where the user can or must make a choice.[30] If the ellipsis is missing, the function is immediately executed upon selection.
+of file operations]] In computer menu functions or buttons, an appended ellipsis means that upon selection a dialog will be displayed, where the user can or must make a choice.[30] If the ellipsis is missing, the function is immediately executed upon selection.
 
 E.g., the menu item "Save" indicates that the file will be overwritten without further input, whereas "Save as…" indicates that a dialog follows where the user can, for example, select another location, file name, or format.
 
@@ -236,7 +236,7 @@ In the TeX typesetting system, the following types of ellipsis are available:
   Diagonal ellipsis   ⋱       \ddots
   Vertical ellipsis   ⋮       \vdots
 
-In LaTeX, note that the reverse orientation of \ddots can be achieved with \reflectbox provided by the graphicx package: \reflectbox{\ddots} yields Iddots_black.svg.
+In LaTeX, note that the reverse orientation of \ddots can be achieved with \reflectbox provided by the graphicx package: \reflectbox{\ddots} yields .
 
 With the amsmath package from AMS-LaTeX, more specific ellipses are provided for math mode.[42]
 

@@ -53,7 +53,7 @@ Pediatric cardiology
 
 Helen B. Taussig is known as the founder of pediatric cardiology. She became famous through her work with Tetralogy of Fallot, a congenital heart defect in which oxygenated and deoxygenated blood enters the circulatory system resulting from a ventricular septal defect (VSD) right beneath the aorta. This condition causes newborns to have a bluish-tint, cyanosis, and have a deficiency of oxygen to their tissues, hypoxemia. She worked with Alfred Blalock and Vivien Thomas at the Johns Hopkins Hospital where they experimented with dogs to look at how they would attempt to surgically cure these "blue babies." They eventually figured out how to do just that by the anastomosis of the systemic artery to the pulmonary artery and called this the Blalock-Taussig Shunt.[8]
 
-Tetralogy of Fallot, pulmonary atresia, double outlet right ventricle, transposition of the great arteries, persistent truncus arteriosus, and Ebsteins anomaly are various congenital cyanotic heart diseases. Congenital cyanotic heart diseases is where something is wrong with the heart of a newborn and it is not oxygenating the blood efficiently. Heart_tetralogy_fallot.svg
+Tetralogy of Fallot, pulmonary atresia, double outlet right ventricle, transposition of the great arteries, persistent truncus arteriosus, and Ebsteins anomaly are various congenital cyanotic heart diseases. Congenital cyanotic heart diseases is where something is wrong with the heart of a newborn and it is not oxygenating the blood efficiently.
 
 Tetralogy of Fallot
 
@@ -74,7 +74,7 @@ Double outlet right ventricle is when both great arteries, the pulmonary artery 
 
 Transposition of Great Arteries
 
-D-tga-575px.jpg There are two different types of transposition of the great arteries, Dextro-transposition of the great arteries and Levo-transposition of the great arteries, depending on where the chambers and vessels connect. Dextro-transposition happens in about 1 in 4,000 newborns and is when the right ventricle pumps blood into the aorta and deoxygenated blood enters the blood stream. The temporary procedure is to create an atrial septal defect (ASD). A permanent fix is more complicated and involves redirecting the pulmonary return to the right atrium and the systemic return to the left atrium, which is known as the Senning procedure. The Rastelli procedure can also be done by rerouting the left ventricular outflow, dividing the pulmonary trunk, and placing a conduit in between the right ventricle and pulmonary trunk. Levo-transposition happens in about 1 in 13,000 newborns and is characterized by the left ventricle pumping blood into the lungs and the right ventricle pumping the blood into the aorta. This may not produce problems at the beginning, but will eventually due to the different pressures each ventricle uses to pump blood. Switching the left ventricle to be the systemic ventricle and the right ventricle to pump blood into the pulmonary artery can repair levo-transposition.
+There are two different types of transposition of the great arteries, Dextro-transposition of the great arteries and Levo-transposition of the great arteries, depending on where the chambers and vessels connect. Dextro-transposition happens in about 1 in 4,000 newborns and is when the right ventricle pumps blood into the aorta and deoxygenated blood enters the blood stream. The temporary procedure is to create an atrial septal defect (ASD). A permanent fix is more complicated and involves redirecting the pulmonary return to the right atrium and the systemic return to the left atrium, which is known as the Senning procedure. The Rastelli procedure can also be done by rerouting the left ventricular outflow, dividing the pulmonary trunk, and placing a conduit in between the right ventricle and pulmonary trunk. Levo-transposition happens in about 1 in 13,000 newborns and is characterized by the left ventricle pumping blood into the lungs and the right ventricle pumping the blood into the aorta. This may not produce problems at the beginning, but will eventually due to the different pressures each ventricle uses to pump blood. Switching the left ventricle to be the systemic ventricle and the right ventricle to pump blood into the pulmonary artery can repair levo-transposition.
 
 Persistent Truncus Arteriosis
 
@@ -88,8 +88,6 @@ Pediatric cardiology is a sub-specialty of pediatrics. To become a pediatric car
 
 
 The heart
-
-Latidos.gif
 
 As the center focus of cardiology, the heart has numerous anatomical features (e.g., atria, ventricles, heart valves) and numerous physiological features (e.g., systole, heart sounds, afterload) that have been encyclopedically documented for many centuries.
 
@@ -126,8 +124,6 @@ Cardiology is concerned with the normal functionality of the heart and the devia
 
 Hypertension
 
-Main_complications_of_persistent_high_blood_pressure.svg
-
 Hypertension, also known as "high blood pressure"", is a long term medical condition in which the blood pressure in the arteries is persistently elevated.[17] High blood pressure usually does not cause symptoms.[18] Long term high blood pressure, however, is a major risk factor for coronary artery disease, stroke, heart failure, peripheral vascular disease, vision loss, and chronic kidney disease.[19][20]
 
 Lifestyle factors can increase the risk of hypertension. These include excess salt in the diet, excess body weight, smoking, and alcohol.[21][22] Hypertension can also be caused by other diseases, or as a side-effect of drugs.
@@ -144,7 +140,7 @@ Secondary hypertension is a type of hypertension which is caused by an identifia
 
 Complications of hypertension
 
-Main_complications_of_persistent_high_blood_pressure.svg]]
+]]
 
 Complications of hypertension are clinical outcomes that result from persistent elevation of blood pressure.[44] Hypertension is a risk factor for all clinical manifestations of atherosclerosis since it is a risk factor for atherosclerosis itself.[45][46][47][48][49] It is an independent predisposing factor for heart failure,[50][51] coronary artery disease,[52][53] stroke,[54] renal disease,[55][56][57] and peripheral arterial disease.[58][59] It is the most important risk factor for cardiovascular morbidity and mortality, in industrialized countries.[60]
 

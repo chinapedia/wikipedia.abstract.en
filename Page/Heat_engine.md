@@ -1,5 +1,3 @@
-heat_engine.png
-
 In thermodynamics and engineering, a HEAT ENGINE is a system that converts heat or thermal energy—and chemical energy—to mechanical energy, which can then be used to do mechanical work.[1][2] It does this by bringing a working substance from a higher state temperature to a lower state temperature. A heat source generates thermal energy that brings the working substance to the high temperature state. The working substance generates work in the working body of the engine while transferring heat to the colder sink until it reaches a low temperature state. During this process some of the thermal energy is converted into work by exploiting the properties of the working substance. The working substance can be any system with a non-zero heat capacity, but it usually is a gas or liquid. During this process, a lot of heat is lost to the surroundings and so cannot be converted to work.
 
 In general an engine converts energy to mechanical work. Heat engines distinguish themselves from other types of engines by the fact that their efficiency is fundamentally limited by Carnot's theorem.[3] Although this efficiency limitation can be a drawback, an advantage of heat engines is that most forms of energy can be easily converted to heat by processes like exothermic reactions (such as combustion), absorption of light or energetic particles, friction, dissipation, and resistance. Since the heat source that supplies thermal energy to the engine can thus be powered by virtually any kind of energy, heat engines are very versatile and have a wide range of applicability.
@@ -137,9 +135,9 @@ Empirically, no heat engine has ever been shown to run at a greater efficiency t
 
 Figure 2 and Figure 3 show variations on Carnot cycle efficiency. Figure 2 indicates how efficiency changes with an increase in the heat addition temperature for a constant compressor inlet temperature. Figure 3 indicates how the efficiency changes with an increase in the heat rejection temperature for a constant turbine inlet temperature.
 
-  ----------------------- ------------------------
-  Carnot_Efficiency.svg   Carnot_Efficiency2.svg
-  ----------------------- ------------------------
+  -- --
+
+  -- --
 
 Endo-reversible heat-engines
 

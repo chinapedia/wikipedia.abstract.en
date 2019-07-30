@@ -1,4 +1,4 @@
-Watered_pattern_on_sword_blade1.Iran.JPG DAMASCUS STEEL was the forged steel comprising the blades of swords smithed in the Near East from ingots of Wootz steel[1] imported from India and Sri Lanka. These swords are characterized by distinctive patterns of banding and mottling reminiscent of flowing water, or in a "ladder" or "teardrop" pattern. Such blades were reputed to be tough, resistant to shattering, and capable of being honed to a sharp, resilient edge.[2]
+DAMASCUS STEEL was the forged steel comprising the blades of swords smithed in the Near East from ingots of Wootz steel[1] imported from India and Sri Lanka. These swords are characterized by distinctive patterns of banding and mottling reminiscent of flowing water, or in a "ladder" or "teardrop" pattern. Such blades were reputed to be tough, resistant to shattering, and capable of being honed to a sharp, resilient edge.[2]
 
 The steel is named after Damascus, the capital city of Syria and one of the largest cities in the ancient Levant. It may either refer to swords made or sold in Damascus directly, or it may just refer to the aspect of the typical patterns, by comparison with Damask fabrics (which are themselves named after Damascus).[3][4]
 
@@ -9,7 +9,7 @@ The reputation and history of Damascus steel has given rise to many legends, suc
 
 History
 
-Damascus_bladesmith.jpg Damascus blades were first manufactured in the Near East from ingots of wootz steel that were imported from India,[14] as well as Sri Lanka.[15] The Arabs introduced the wootz steel to Damascus, where a weapons industry thrived.[16] From the 3rd century to the 17th century, steel ingots were being shipped to the Middle East from India.[17]
+Damascus blades were first manufactured in the Near East from ingots of wootz steel that were imported from India,[14] as well as Sri Lanka.[15] The Arabs introduced the wootz steel to Damascus, where a weapons industry thrived.[16] From the 3rd century to the 17th century, steel ingots were being shipped to the Middle East from India.[17]
 
 Loss of the technique
 
@@ -26,7 +26,7 @@ Recreating Damascus steel is a subfield of experimental archaeology. Many have a
 
 Moran: billet welding
 
-DamaszenerKlinge_crop.jpg Since the well-known technique of pattern welding - the forge-welding of a blade from several differing pieces - produced surface patterns similar to those found on Damascus blades, some modern blacksmiths were erroneously led to believe that the original Damascus blades were made using this technique. However today, the difference between wootz steel and pattern welding is fully documented and well understood.[28][29][30] Pattern-welded steel has been referred to as "Damascus steel" since 1973 when Bladesmith William F. Moran unveiled his "Damascus knives" at the Knifemakers' Guild Show.[31][32]
+Since the well-known technique of pattern welding - the forge-welding of a blade from several differing pieces - produced surface patterns similar to those found on Damascus blades, some modern blacksmiths were erroneously led to believe that the original Damascus blades were made using this technique. However today, the difference between wootz steel and pattern welding is fully documented and well understood.[28][29][30] Pattern-welded steel has been referred to as "Damascus steel" since 1973 when Bladesmith William F. Moran unveiled his "Damascus knives" at the Knifemakers' Guild Show.[31][32]
 
 This "Modern Damascus" is made from several types of steel and iron slices welded together to form a billet (semi-finished product), and currently, the term "Damascus" (although technically incorrect) is widely accepted to describe modern pattern welded steel blades in the trade.[33] The patterns vary depending on how the smith works the billet.[34] The billet is drawn out and folded until the desired number of layers are formed.[35] To attain a Master Smith rating with the American Bladesmith Society that Moran founded, the smith must forge a Damascus blade with a minimum of 300 layers.[36]
 
@@ -38,7 +38,7 @@ Although such material could be worked at low temperatures to produce the striat
 
 Anosov, Wadsworth and Sherby: bulat
 
-In Russia, chronicles record the use of a material known as bulat steel to make highly valued weapons, including swords, knives, and axes. Tsar Michael of Russia reportedly had a bulat helmet made for him in 1621. The exact origin or the manufacturing process of the bulat is unknown, but it was likely imported to Russia via Persia and Turkestan, and it was similar and possibly the same as Damascus steel. Pavel Petrovich Anosov made several attempts to reproduce the process in the mid-19th century. Wadsworth and Sherby also researched [38] the reproduction of bulat steel and published their results in 1980. Kristallstruktur_Zementit.png
+In Russia, chronicles record the use of a material known as bulat steel to make highly valued weapons, including swords, knives, and axes. Tsar Michael of Russia reportedly had a bulat helmet made for him in 1621. The exact origin or the manufacturing process of the bulat is unknown, but it was likely imported to Russia via Persia and Turkestan, and it was similar and possibly the same as Damascus steel. Pavel Petrovich Anosov made several attempts to reproduce the process in the mid-19th century. Wadsworth and Sherby also researched [38] the reproduction of bulat steel and published their results in 1980.
 
 Additional research
 

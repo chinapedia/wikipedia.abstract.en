@@ -1,4 +1,4 @@
-Beer–Lambert_law_in_solution.JPG. The beam radiant power becomes weaker as it passes through solution]] The BEER–LAMBERT LAW, also known as BEER'S LAW, the LAMBERT–BEER LAW, or the BEER–LAMBERT–BOUGUER LAW relates the attenuation of light to the properties of the material through which the light is travelling. The law is commonly applied to chemical analysis measurements and used in understanding attenuation in physical optics, for photons, neutrons, or rarefied gases. In mathematical physics, this law arises as a solution of the BGK equation.
+. The beam radiant power becomes weaker as it passes through solution]] The BEER–LAMBERT LAW, also known as BEER'S LAW, the LAMBERT–BEER LAW, or the BEER–LAMBERT–BOUGUER LAW relates the attenuation of light to the properties of the material through which the light is travelling. The law is commonly applied to chemical analysis measurements and used in understanding attenuation in physical optics, for photons, neutrons, or rarefied gases. In mathematical physics, this law arises as a solution of the BGK equation.
 
 
 History

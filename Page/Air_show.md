@@ -1,4 +1,4 @@
-air.show.utterly.arp.500pix.jpg PT-17 biplanes at an English air show]]
+PT-17 biplanes at an English air show]]
 
 An AIR SHOW, (or AIRSHOW, AIR FAIR, AIR TATTOO) is a public event where aircraft are exhibited. They often include aerobatics demonstrations, without they are called "static air shows" with aircraft parked on the ground.
 
@@ -7,15 +7,13 @@ The largest air show measured by number of exhibitors and size of exhibit space 
 
 Outline
 
-Aviatiker-Woche_Reims_1909.jpg
-
 Some airshows are held as a business venture or as a trade event where aircraft, avionics and other services are promoted to potential customers. Many air shows are held in support of local, national or military charities. Military air firms often organise air shows at military airfields as a public relations exercise to thank the local community, promote military careers and raise the profile of the military.
 
-Airshow_Nellis_AFB.JPG, United States]]
+, United States]]
 
 Air "seasons" vary around the world. The United States enjoys a long season that generally runs from March to November, covering the spring, summer, and fall seasons. Other countries often have much shorter seasons. In Japan air shows are generally events held at Japan Self-Defense Forces bases regularly throughout the year. The European season usually starts in late April or Early May and is usually over by mid October. The Middle East, Australia and New Zealand hold their events between January and March. However, for many acts, the "off-season" does not mean a period of inactivity; pilots and performers use this time for maintenance and practice.
 
-Patrouille_Suisse_at_ILA_2010_07.jpg performing at the ILA Berlin Air Show]]
+performing at the ILA Berlin Air Show]]
 
 The type of displays seen at an are constrained by a number of factors, including the weather and visibility. Most aviation authorities now publish rules and guidance on minimum display heights and criteria for differing conditions. In addition to the weather, pilots and organizers must also consider local airspace restrictions. Most exhibitors will plan "full," "rolling" and "flat" display for varying weather and airspace conditions.
 
@@ -26,7 +24,7 @@ The first public international airshow, at which many types of aircraft were dis
 
 Attractions
 
-red.bull.air.race.arp.750pix.jpg: the Red Bull Air Race heat held at Kemble Airfield, Gloucestershire. The aircraft fly singly, and pass between pairs of pylons]]
+: the Red Bull Air Race heat held at Kemble Airfield, Gloucestershire. The aircraft fly singly, and pass between pairs of pylons]]
 
 Before the Second World War, air shows were associated with long distance air races, often lasting many days and covering thousands of miles. While the Reno Air Races keep this tradition alive, most air shows today primarily feature a series of aerial demos of short duration.
 
@@ -36,14 +34,14 @@ Specialist aerobatic aircraft have powerful piston engines, light weight and big
 
 Larger airshows can be headlined by military jet demonstration teams. In the United States, those are the U.S. Navy Blue Angels and USAF Thunderbirds. The Canadian Forces Snowbirds will headline many airshows in Canada and the United States. Many airshows in the United Kingdom are headlined by the RAF's Red Arrows.
 
-F-111-Fuel-Dump,-Avalon,-VIC-23.03.2007.jpg F-111 performing a dump-and-burn fuel dump at the Australian International Airshow]]
+F-111 performing a dump-and-burn fuel dump at the Australian International Airshow]]
 
 Solo military jet demos, also known as tactical demo, feature one aircraft, usually a strike fighter or an advanced trainer. The demonstration focuses on the capabilities of modern aircraft used in combat operations. The display will usually demonstrate the aircraft's very short (and often very loud) rolls, fast speeds, slow approach speeds, as well as their ability to quickly make tight turns, to climb quickly, and their ability to be precisely controlled at a large range of speeds. Manoeuvres include aileron rolls, barrel rolls, hesitation rolls, Cuban-8s, tight turns, high-alpha flight, a high-speed pass, double Immelmans, and touch-and-gos. Tactical demos may include simulated bomb drops, sometimes with pyrotechnics on the ground for effect. Aircraft with special characteristics that give them unique capabilities will often display those in their demos; For example, Russian fighters with Thrust vectoring may be used to perform Pugachev's Cobra or the Kulbit, among other difficult manoeuvers that cannot be performed by other aircraft. Similarly, an F-22 pilot may hover his jet in the air with the nose pointed straight up, a Harrier or Osprey pilot may perform a vertical landing or vertical takeoff, and so on.
 
 
 Safety
 
-crash.arp.600pix.jpg, Idaho, September 14, 2003: U.S. Air Force Thunderbirds Captain Christopher Stricklin ejecting from his F-16 after realizing he could not pull up in time from a Split-S and ensuring the aircraft would not crash into spectators. The aircraft was destroyed less than a second later with no loss of life.]]
+, Idaho, September 14, 2003: U.S. Air Force Thunderbirds Captain Christopher Stricklin ejecting from his F-16 after realizing he could not pull up in time from a Split-S and ensuring the aircraft would not crash into spectators. The aircraft was destroyed less than a second later with no loss of life.]]
 
 Air shows may present some risk to spectators and aviators. Accidents have occurred, sometimes with a large loss of life, such as the 1988 disaster at Ramstein Air Base (70 deaths) in Germany and the 2002 air show crash at Sknyliv (77 deaths), Ukraine.
 

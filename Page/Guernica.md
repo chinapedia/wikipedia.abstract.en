@@ -1,4 +1,4 @@
-GuernicaGernikara.jpg)]]
+)]]
 
 GUERNICA (,[1] ), official and Basque name GERNIKA (), is a town in the province of Biscay, in the Autonomous Community of the Basque Country, Spain. The town of Guernica is united in one municipality with neighbouring Lumo, as GERNIKA-LUMO. The population of the municipality is 16,224 .
 
@@ -70,7 +70,7 @@ As part of the "Symbol for Peace" movement, Gernika has twinned with several tow
 
 Market day
 
-Cestapuntista_suelo.jpg Puestos_del_último_lunes.jpg There is a popular saying in Guernica which runs as follows: "lunes gerniqués, golperik ez". This translates roughly as "not a stroke of work gets done on Mondays". The Monday market day has for decades been considered as a holiday in the town.
+There is a popular saying in Guernica which runs as follows: "lunes gerniqués, golperik ez". This translates roughly as "not a stroke of work gets done on Mondays". The Monday market day has for decades been considered as a holiday in the town.
 
 People would flock to Guernica not just from the immediate vicinity, but from all over the province, so that the town was packed. They came not just to buy or sell at the produce market, but also to eat at the town's renowned restaurants and afterwards perhaps to watch a pelota game at the local court. The Monday market has been fulfilling its age-old function of bringing people together since the times when people could not afford to travel far and it provided them with a chance to socialise. The bombing of Guernica by Nazi Germany's _Luftwaffe_ and the Italian Aviazione Legionaria was deliberately chosen to occur on a Monday (April 26, 1937), because it was known that the Basque people who lived outside of Guernica proper would travel into town for the Market Day, thus affording the pilots of the German and Italian aircraft the opportunity to murder as many innocent people as possible.
 
@@ -83,8 +83,6 @@ Bare-handed pelota games are held at the Santanape court. This is the most popul
 
 
 Main sights
-
-Tríptico_iglesia_andra_mari.jpg Arbol_viejo_noche.jpg
 
 -   Parish Church of Santa María. Work on this church, at the top of the town, began in 1418 in a Gothic style, and continued non-stop until 1625, though the finishing touches were not completed until 1715, in the Renaissance period.
 -   Church of Santa María de la Antigua. Built in 1826-33 by Antonio de Echevarría in the purest Neo-classical style, this building is currently used as the plenary meeting hall of the General Assemblies of Biscay.

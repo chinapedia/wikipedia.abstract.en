@@ -3,7 +3,7 @@ The ECONOMY of the FALKLAND ISLANDS, which first involved sealing, whaling and p
 
 Historical development
 
-Port-William.JPG representing two trends in recent economic development]]
+representing two trends in recent economic development]]
 
 During the 19th century, the supply and maintenance depot for ships at Stanley developed into a port serving ships rounding Cape Horn. There was also trade in cow hides from the wild descendants of cattle introduced by French settlers in the late 18th century. Sheep farming was then introduced, taking over from the cattle trade in the 1870s and becoming self-supporting by 1885. The islands also provided a base for whaling and sealing, with factories being built on East Falkland and South Georgia Island, but these industries ended.
 
@@ -16,7 +16,7 @@ By 2002 the Falklands' economy was booming, with income from tourism and the sal
 
 Economic overview
 
-Tree_map_exports_2009_Falkland_Islands.jpeg The Falkland Islands have a GDP of $164.5 million, and a per capita GDP of $70,800 (2015 estimate) compared with the United Kingdom GDP per capita of $35,200 (2009 estimate).[5] The contributors to the GDP by sector (2010 forecast) are:[6]
+The Falkland Islands have a GDP of $164.5 million, and a per capita GDP of $70,800 (2015 estimate) compared with the United Kingdom GDP per capita of $35,200 (2009 estimate).[5] The contributors to the GDP by sector (2010 forecast) are:[6]
 
 -   Fisheries – 52.5%
 -   Government (including health and education) – 14.0%
@@ -80,7 +80,7 @@ There are also a small number of cows, pigs and horses on the islands that are r
 
 Fishing
 
-Chapkanov-Saint-Nicholas.jpg, the patron saint of fishermen. The icon is located at the premises of the Falklands Legislative Assembly at Gilbert House in Stanley, Falkland Islands]] FalklandEconomicZone.png Fishing is the largest part of the economy. Although Lord Shackleton's Report (1982) recommended the setting up of a fisheries limit which gave an impetus to the fishing industry, the report did not go into much detail regarding the expansion of the industry.[22] The Falkland Islands Development Corporation which formed as a result of the Shackleton Report provided the impetus for the Falkland Islands to exploit their marine environment.
+, the patron saint of fishermen. The icon is located at the premises of the Falklands Legislative Assembly at Gilbert House in Stanley, Falkland Islands]] Fishing is the largest part of the economy. Although Lord Shackleton's Report (1982) recommended the setting up of a fisheries limit which gave an impetus to the fishing industry, the report did not go into much detail regarding the expansion of the industry.[22] The Falkland Islands Development Corporation which formed as a result of the Shackleton Report provided the impetus for the Falkland Islands to exploit their marine environment.
 
 Fishing grounds
 
@@ -244,7 +244,7 @@ The islands have been investing in windpower – in 2010, three 330 kW wind tur
 
 Philately and numismatics
 
-Stamp_Falkland_Islands_1891_0.5p.jpg In October 1877, the Secretary of State of the Colonial Office, the Earl of Carnarvon began the process of application for the Falkland Islands to join the General Postal Union (renamed Universal Postal Union in 1879). The first stamps, 1d, 6d, and 1 shilling values featuring the usual profile of Queen Victoria, were issued 19 June 1878. Since then the islands have issued their own stamps, which are a source of revenue from overseas collectors. Between 2000 and 2008, the islands issued between six and eight sets of commemorative stamps.[91] The workload placed on the Falkland Islands Post Office by overseas collectors led to the establishments in 1978 of the Falkland Islands Philatelic Bureau.[92] The Bureau also handles philately-related sales on behalf of the governments of Government of South Georgia and the South Sandwich Islands and of the British Antarctic Territory.
+In October 1877, the Secretary of State of the Colonial Office, the Earl of Carnarvon began the process of application for the Falkland Islands to join the General Postal Union (renamed Universal Postal Union in 1879). The first stamps, 1d, 6d, and 1 shilling values featuring the usual profile of Queen Victoria, were issued 19 June 1878. Since then the islands have issued their own stamps, which are a source of revenue from overseas collectors. Between 2000 and 2008, the islands issued between six and eight sets of commemorative stamps.[91] The workload placed on the Falkland Islands Post Office by overseas collectors led to the establishments in 1978 of the Falkland Islands Philatelic Bureau.[92] The Bureau also handles philately-related sales on behalf of the governments of Government of South Georgia and the South Sandwich Islands and of the British Antarctic Territory.
 
 Coins and banknotes may only be issued by the Falkland Islands Government with the authorisation of the British Government. Coins for local use were first struck in 1974 and are the same size as the corresponding British coins. There is a flourishing business in the issue of commemorative coins struck on behalf of the Falkland Island Government for collectors – in particular the 2007 series of coins that commemorated the 25th anniversary of the liberation of islands attracted much attention.[93] The Falkland Islands Government (FIG) is required to deposit 110% of the face value of any coins struck on its behalf into its currency fund,[94] thereby effectively backing the Falkland pound with the pound sterling. In the case of commemorative coins that are unlikely to be redeemed, this money represents a long-term investment. In many cases the set-up and production costs are carried by the mint concerned, who pay the FIG a royalty on coins that it sells to collectors.[95]
 

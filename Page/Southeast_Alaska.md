@@ -1,6 +1,6 @@
-Alaska_Panhandle.png ferry routes]] SOUTHEAST ALASKA, colloquially referred to as the ALASKA PANHANDLE or ALASKAN PANHANDLE, is the southeastern portion of the U.S. state of Alaska, bordered to the east by the northern half of the Canadian province of British Columbia. The majority of Southeast Alaska's area is part of the Tongass National Forest, the United States' largest national forest. In many places, the international border runs along the crest of the Boundary Ranges of the Coast Mountains (see Alaska boundary dispute). The region is noted for its scenery and mild rainy climate.
+ferry routes]] SOUTHEAST ALASKA, colloquially referred to as the ALASKA PANHANDLE or ALASKAN PANHANDLE, is the southeastern portion of the U.S. state of Alaska, bordered to the east by the northern half of the Canadian province of British Columbia. The majority of Southeast Alaska's area is part of the Tongass National Forest, the United States' largest national forest. In many places, the international border runs along the crest of the Boundary Ranges of the Coast Mountains (see Alaska boundary dispute). The region is noted for its scenery and mild rainy climate.
 
-The largest cities in the region are Juneau, Sitka, and Ketchikan. MistyFjordsWaterfall.jpg Southeast_Alaska_Köppen.png in southeast Alaska]] TongassForest1.jpg, near Ketchikan]] CruiseShipsKetchikan.jpg
+The largest cities in the region are Juneau, Sitka, and Ketchikan. in southeast Alaska]] , near Ketchikan]]
 
 
 Geography
@@ -47,7 +47,7 @@ Major cities are Juneau, Ketchikan, and Sitka. Other towns are Petersburg, Wrang
 
 Culture
 
-Raventotemsitka.jpg]] This area is the traditional homeland of the Tlingit, and home of a historic settling of Haida as well as a modern settlement of Tsimshian. The region is closely connected to Seattle and the American Pacific Northwest economically and culturally.
+]] This area is the traditional homeland of the Tlingit, and home of a historic settling of Haida as well as a modern settlement of Tsimshian. The region is closely connected to Seattle and the American Pacific Northwest economically and culturally.
 
 
 Industry

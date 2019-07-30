@@ -1,4 +1,4 @@
-HouMuWuDingFullView.jpg _ding_ (), the largest ancient bronze ever found; 1300-1046 BC; National Museum of China (Beijing). This ding’s name is based on the inscription in the bronze interior wall, which reads Hòumǔwù, meaning “Queen Mother Wu”]] BRONZE is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals (such as aluminium, manganese, nickel or zinc) and sometimes non-metals or metalloids such as arsenic, phosphorus or silicon. These additions produce a range of alloys that may be harder than copper alone, or have other useful properties, such as stiffness, ductility, or machinability.
+_ding_ (), the largest ancient bronze ever found; 1300-1046 BC; National Museum of China (Beijing). This ding’s name is based on the inscription in the bronze interior wall, which reads Hòumǔwù, meaning “Queen Mother Wu”]] BRONZE is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals (such as aluminium, manganese, nickel or zinc) and sometimes non-metals or metalloids such as arsenic, phosphorus or silicon. These additions produce a range of alloys that may be harder than copper alone, or have other useful properties, such as stiffness, ductility, or machinability.
 
 The archeological period in which bronze was the hardest metal in widespread use is known as the Bronze Age. The beginning of the Bronze Age in India and western Eurasia is conventionally dated to the mid-4th millennium BC, and to the early 2nd millennium BC in China;[1] elsewhere it gradually spread across regions. The Bronze Age was followed by the Iron Age starting from about 1300 BC and reaching most of Eurasia by about 500 BC, although bronze continued to be much more widely used than it is in modern times.
 
@@ -15,7 +15,7 @@ The word _bronze_ (1730–40) is borrowed from French _bronze_ (1511), itself bo
 
 History
 
-ALB_-_Hortfund_Groß_Gaglow.jpg found in modern Germany. This was the top tool of the period, and also seems to have been used as a store of value.]] Magical_Roman_Nails.jpg
+found in modern Germany. This was the top tool of the period, and also seems to have been used as a store of value.]]
 
 The discovery of bronze enabled people to create metal objects which were harder and more durable than previously possible. Bronze tools, weapons, armor, and building materials such as decorative tiles were harder and more durable than their stone and copper ("Chalcolithic") predecessors. Initially, bronze was made out of copper and arsenic, forming arsenic bronze, or from naturally or artificially mixed ores of copper and arsenic,[7] with the earliest artifacts so far known coming from the Iranian plateau in the 5th millennium BC.[8] It was only later that tin was used, becoming the major non-copper ingredient of bronze in the late 3rd millennium BC.[9]
 
@@ -34,7 +34,7 @@ Bronze was still used during the Iron Age, and has continued in use for many pur
 
 Composition
 
-Bronze_bell_with_visible_material_structure.jpg structure.]]
+structure.]]
 
 There are many different bronze alloys, but typically modern bronze is 88% copper and 12% tin.[15] ALPHA BRONZE consists of the alpha solid solution of tin in copper. Alpha bronze alloys of 4–5% tin are used to make coins, springs, turbines and blades. Historical "bronzes" are highly variable in composition, as most metalworkers probably used whatever scrap was on hand; the metal of the 12th-century English Gloucester Candlestick is bronze containing a mixture of copper, zinc, tin, lead, nickel, iron, antimony, arsenic with an unusually large amount of silver – between 22.5% in the base and 5.76% in the pan below the candle. The proportions of this mixture suggests that the candlestick was made from a hoard of old coins. The Benin Bronzes are in fact brass, and the Romanesque Baptismal font at St Bartholomew's Church, Liège is described as both bronze and brass.
 
@@ -53,7 +53,7 @@ Other bronze alloys include aluminium bronze, phosphor bronze, manganese bronze,
 
 Properties
 
-Norwid_Relief.jpg, Wawel Cathedral, Kraków, by Czesław Dźwigaj]] Benin_Bronzes.jpg]] Bronzes are typically very ductile alloys, considerably less brittle than cast iron. Typically bronze only oxidizes superficially; once a copper oxide (eventually becoming copper carbonate) layer is formed, the underlying metal is protected from further corrosion. This can be seen on statues from the Hellenistic period. However, if copper chlorides are formed, a corrosion-mode called "bronze disease" will eventually completely destroy it.[22] Copper-based alloys have lower melting points than steel or iron and are more readily produced from their constituent metals. They are generally about 10 percent denser than steel, although alloys using aluminium or silicon may be slightly less dense. Bronze is a better conductor of heat and electricity than most steels. The cost of copper-base alloys is generally higher than that of steels but lower than that of nickel-base alloys.
+, Wawel Cathedral, Kraków, by Czesław Dźwigaj]] ]] Bronzes are typically very ductile alloys, considerably less brittle than cast iron. Typically bronze only oxidizes superficially; once a copper oxide (eventually becoming copper carbonate) layer is formed, the underlying metal is protected from further corrosion. This can be seen on statues from the Hellenistic period. However, if copper chlorides are formed, a corrosion-mode called "bronze disease" will eventually completely destroy it.[22] Copper-based alloys have lower melting points than steel or iron and are more readily produced from their constituent metals. They are generally about 10 percent denser than steel, although alloys using aluminium or silicon may be slightly less dense. Bronze is a better conductor of heat and electricity than most steels. The cost of copper-base alloys is generally higher than that of steels but lower than that of nickel-base alloys.
 
 Copper and its alloys have a huge variety of uses that reflect their versatile physical, mechanical, and chemical properties. Some common examples are the high electrical conductivity of pure copper, low-friction properties of bearing bronze (bronze which has a high lead content— 6–8%), resonant qualities of bell bronze (20% tin, 80% copper), and resistance to corrosion by seawater of several bronze alloys.
 
@@ -76,7 +76,7 @@ Phosphor bronze is used for ships' propellers, musical instruments, and electric
 
 Sculptures
 
-Netuno19b.jpg representing either Poseidon or Zeus, c. 460 BC, National Archaeological Museum, Athens. This classical sculpture was found in a sunken ship off the coast of Cape Artemisium in 1928. The figure is more than 2 meters in height.]] The Assyrian king Sennacherib (704–681 BC) claims to have been the first to cast monumental bronze statues (of up to 30 tonnes) using two-part moulds instead of the lost-wax method.[26]
+representing either Poseidon or Zeus, c. 460 BC, National Archaeological Museum, Athens. This classical sculpture was found in a sunken ship off the coast of Cape Artemisium in 1928. The figure is more than 2 meters in height.]] The Assyrian king Sennacherib (704–681 BC) claims to have been the first to cast monumental bronze statues (of up to 30 tonnes) using two-part moulds instead of the lost-wax method.[26]
 
 Bronze statues were regarded as the highest form of sculpture in Ancient Greek art, though survivals are few, as bronze was a valuable material in short supply in the Late Antique and medieval periods. Many of the most famous Greek bronze sculptures are known through Roman copies in marble, which were more likely to survive.
 
@@ -94,7 +94,7 @@ Bronze mirrors survive from the Egyptian Middle Kingdom (2040–1750 BC). In Eur
 
 Musical instruments
 
-Bianzhong.jpg, Spring and Autumn period (476–221 BC)]] Picsingingbowls.jpgs from the 16th to 18th centuries. Annealed bronze continues to be made in the Himalayas]] Bronze is the preferred metal for bells in the form of a high tin bronze alloy known colloquially as bell metal, which is about 23% tin.
+, Spring and Autumn period (476–221 BC)]] s from the 16th to 18th centuries. Annealed bronze continues to be made in the Himalayas]] Bronze is the preferred metal for bells in the form of a high tin bronze alloy known colloquially as bell metal, which is about 23% tin.
 
 Nearly all professional cymbals are made from bronze, which gives a desirable balance of durability and timbre. Several types of bronze are used, commonly B20 bronze, which is roughly 20% tin, 80% copper, with traces of silver, or the tougher B8 bronze which is made from 8% tin and 92% copper. As the tin content in a bell or cymbal rises, the timbre drops.[29]
 

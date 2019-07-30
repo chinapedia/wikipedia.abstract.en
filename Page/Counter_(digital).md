@@ -1,4 +1,4 @@
-Bin_counter_timing_d.jpg In digital logic and computing, a COUNTER is a device which stores (and sometimes displays) the number of times a particular event or process has occurred, often in relationship to a clock signal. The most common type is a sequential digital logic circuit with an input line called the _clock_ and multiple output lines. The values on the output lines represent a number in the binary or BCD number system. Each pulse applied to the clock input increments or decrements the number in the counter.
+In digital logic and computing, a COUNTER is a device which stores (and sometimes displays) the number of times a particular event or process has occurred, often in relationship to a clock signal. The most common type is a sequential digital logic circuit with an input line called the _clock_ and multiple output lines. The values on the output lines represent a number in the binary or BCD number system. Each pulse applied to the clock input increments or decrements the number in the counter.
 
 A counter circuit is usually constructed of a number of flip-flops connected in cascade. Counters are a very widely used component in digital circuits, and are manufactured as separate integrated circuits and also incorporated as parts of larger integrated circuits.
 
@@ -24,7 +24,7 @@ Counters are useful for digital clocks and timers, and in oven timers, VCR clock
 
 Asynchronous (ripple) counter
 
-Asynchronous-counter2.svgs]]
+s]]
 
 An asynchronous (ripple) counter is a single d-type flip-flop, with its J (data) input fed from its own inverted output. This circuit can store one bit, and hence can count from zero to one before it overflows (starts over from 0). This counter will increment once for every clock cycle and takes two clock cycles to overflow, so every cycle it will alternate between a transition from 0 to 1 and a transition from 1 to 0. Notice that this creates a new clock with a 50% duty cycle at exactly half the frequency of the input clock. If this output is then used as the clock signal for a similarly arranged D flip-flop (remembering to invert the output to the input), one will get another 1 bit counter that counts half as fast. Putting them together yields a two-bit counter:
 
@@ -42,15 +42,13 @@ The use of flip-flop outputs as clocks leads to timing skew between the count da
 
 Synchronous counter
 
-4-bit-jk-flip-flop_V1.1.svg
-
 In synchronous counters, the clock inputs of all the flip-flops are connected together and are triggered by the input pulses. Thus, all the flip-flops change state simultaneously (in parallel). The circuit below is a 4-bit synchronous counter. The J and K inputs of FF0 are connected to HIGH. FF1 has its J and K inputs connected to the output of FF0, and the J and K inputs of FF2 are connected to the output of an AND gate that is fed by the outputs of FF0 and FF1. A simple way of implementing the logic for each bit of an ascending counter (which is what is depicted in the adjacent image) is for each bit to toggle when all of the less significant bits are at a logic high state. For example, bit 1 toggles when bit 0 is logic high; bit 2 toggles when both bit 1 and bit 0 are logic high; bit 3 toggles when bit 2, bit 1 and bit 0 are all high; and so on.
 
 Synchronous counters can also be implemented with hardware finite-state machines, which are more complex but allow for smoother, more stable transitions.
 
 Decade counter
 
-DecadeCounter.jpg A decade counter is one that counts in decimal digits, rather than binary. A decade counter may have each (that is, it may count in binary-coded decimal, as the 7490 integrated circuit did) or other binary encodings. "A decade counter is a binary counter that is designed to count to 1010 (decimal 10). An ordinary four-stage counter can be easily modified to a decade counter by adding a NAND gate as in the schematic to the right. Notice that FF2 and FF4 provide the inputs to the NAND gate. The NAND gate outputs are connected to the CLR input of each of the FFs." A decade counter is one that counts in decimal digits, rather than binary. It counts from 0 to 9 and then resets to zero. The counter output can be set to zero by pulsing the reset line low. The count then increments on each clock pulse until it reaches 1001 (decimal 9). When it increments to 1010 (decimal 10) both inputs of the NAND gate go high. The result is that the NAND output goes low, and resets the counter to zero. D going low can be a CARRY OUT signal, indicating that there has been a count of ten.
+A decade counter is one that counts in decimal digits, rather than binary. A decade counter may have each (that is, it may count in binary-coded decimal, as the 7490 integrated circuit did) or other binary encodings. "A decade counter is a binary counter that is designed to count to 1010 (decimal 10). An ordinary four-stage counter can be easily modified to a decade counter by adding a NAND gate as in the schematic to the right. Notice that FF2 and FF4 provide the inputs to the NAND gate. The NAND gate outputs are connected to the CLR input of each of the FFs." A decade counter is one that counts in decimal digits, rather than binary. It counts from 0 to 9 and then resets to zero. The counter output can be set to zero by pulsing the reset line low. The count then increments on each clock pulse until it reaches 1001 (decimal 9). When it increments to 1010 (decimal 10) both inputs of the NAND gate go high. The result is that the NAND output goes low, and resets the counter to zero. D going low can be a CARRY OUT signal, indicating that there has been a count of ten.
 
 Ring counter
 
@@ -98,7 +96,7 @@ Many automation systems use PC and laptops to monitor different parameters of ma
 
 Mechanical counters
 
-Teller_(3).jpg CountersMechanical.agr.jpg Early_SSA_accounting_operations.jpg Long before electronics became common, mechanical devices were used to count events. These are known as tally counters. They typically consist of a series of disks mounted on an axle, with the digits zero through nine marked on their edge. The right most disk moves one increment with each event. Each disk except the left-most has a protrusion that, after the completion of one revolution, moves the next disk to the left one increment. Such counters were used as odometers for bicycles and cars and in tape recorders, fuel dispensers, in production machinery as well as in other machinery. One of the largest manufacturers was the Veeder-Root company, and their name was often used for this type of counter.[5]
+Long before electronics became common, mechanical devices were used to count events. These are known as tally counters. They typically consist of a series of disks mounted on an axle, with the digits zero through nine marked on their edge. The right most disk moves one increment with each event. Each disk except the left-most has a protrusion that, after the completion of one revolution, moves the next disk to the left one increment. Such counters were used as odometers for bicycles and cars and in tape recorders, fuel dispensers, in production machinery as well as in other machinery. One of the largest manufacturers was the Veeder-Root company, and their name was often used for this type of counter.[5]
 
 Hand held tally counters are used mainly for stocktaking and for counting people attending events.
 

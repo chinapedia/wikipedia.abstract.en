@@ -1,4 +1,4 @@
-Euclid_flowchart.svg of an algorithm (Euclid's algorithm) for calculating the greatest common divisor (g.c.d.) of two numbers _a_ and _b_ in locations named A and B. The algorithm proceeds by successive subtractions in two loops: IF the test B ≥ A yields "yes" (or true) (more accurately the _number_ _b_ in location B is greater than or equal to the _number_ _a_ in location A) THEN, the algorithm specifies B ← B − A (meaning the number _b_ − _a_ replaces the old _b_). Similarly, IF A > B, THEN A ← A − B. The process terminates when (the contents of) B is 0, yielding the g.c.d. in A. (Algorithm derived from Scott 2009:13; symbols and drawing style from Tausworthe 1977).]] Diagram_for_the_computation_of_Bernoulli_numbers.jpg's diagram from "note G", the first published computer algorithm.]]
+of an algorithm (Euclid's algorithm) for calculating the greatest common divisor (g.c.d.) of two numbers _a_ and _b_ in locations named A and B. The algorithm proceeds by successive subtractions in two loops: IF the test B ≥ A yields "yes" (or true) (more accurately the _number_ _b_ in location B is greater than or equal to the _number_ _a_ in location A) THEN, the algorithm specifies B ← B − A (meaning the number _b_ − _a_ replaces the old _b_). Similarly, IF A > B, THEN A ← A − B. The process terminates when (the contents of) B is 0, yielding the g.c.d. in A. (Algorithm derived from Scott 2009:13; symbols and drawing style from Tausworthe 1977).]] 's diagram from "note G", the first published computer algorithm.]]
 
 In mathematics and computer science, an ALGORITHM () is a set of instructions, typically to solve a class of problems or perform a computation. Algorithms are unambiguous specifications for performing calculation, data processing, automated reasoning, and other tasks.
 
@@ -100,12 +100,12 @@ Typical steps in the development of algorithms:
 
 Implementation
 
-TTL_npn_nand.svg algorithm implemented electronically in 7400 chip]] Most algorithms are intended to be implemented as computer programs. However, algorithms are also implemented by other means, such as in a biological neural network (for example, the human brain implementing arithmetic or an insect looking for food), in an electrical circuit, or in a mechanical device.
+algorithm implemented electronically in 7400 chip]] Most algorithms are intended to be implemented as computer programs. However, algorithms are also implemented by other means, such as in a biological neural network (for example, the human brain implementing arithmetic or an insect looking for food), in an electrical circuit, or in a mechanical device.
 
 
 Computer algorithms
 
-Euclid's_algorithm_structured_blocks_1.png: the SEQUENCE (rectangles descending the page), the WHILE-DO and the IF-THEN-ELSE. The three structures are made of the primitive conditional GOTO (IF _test_=true THEN GOTO step xxx) (a diamond), the unconditional GOTO (rectangle), various assignment operators (rectangle), and HALT (rectangle). Nesting of these structures inside assignment-blocks result in complex diagrams (cf Tausworthe 1977:100, 114).]]
+: the SEQUENCE (rectangles descending the page), the WHILE-DO and the IF-THEN-ELSE. The three structures are made of the primitive conditional GOTO (IF _test_=true THEN GOTO step xxx) (a diamond), the unconditional GOTO (rectangle), various assignment operators (rectangle), and HALT (rectangle). Nesting of these structures inside assignment-blocks result in complex diagrams (cf Tausworthe 1977:100, 114).]]
 
 In computer systems, an algorithm is basically an instance of logic written in software by software developers, to be effective for the intended "target" computer(s) to produce _output_ from given (perhaps null) _input_. An optimal algorithm, even running in old hardware, would produce faster results than a non-optimal (higher time complexity) algorithm for the same purpose, running in more efficient hardware; that is why algorithms, like computer hardware, are considered technology.
 
@@ -140,7 +140,7 @@ Examples
 
 Algorithm example
 
-Sorting_quicksort_anim.gif sorting an array of randomized values. The red bars mark the pivot element; at the start of the animation, the element farthest to the right-hand side is chosen as the pivot.]]
+sorting an array of randomized values. The red bars mark the pivot element; at the start of the animation, the element farthest to the right-hand side is chosen as the pivot.]]
 
 One of the simplest algorithms is to find the largest number in a list of numbers of random order. Finding the solution requires looking at every number in the list. From this follows a simple algorithm, which can be stated in a high-level description in English prose, as:
 
@@ -164,8 +164,6 @@ _(Quasi-)formal description:_ Written in prose but much closer to the high-level
   return _largest_
 
 Euclid's algorithm
-
-Euclid's_algorithm_Book_VII_Proposition_2_2.png
 
 Euclid's algorithm to compute the greatest common divisor (GCD) to two numbers appears as Proposition II in Book VII ("Elementary Number Theory") of his _Elements_.[51] Euclid poses the problem thus: "Given two numbers not prime to one another, to find their greatest common measure". He defines "A number [to be] a multitude composed of units": a counting number, a positive integer not including zero. To "measure" is to place a shorter measuring length _s_ successively (_q_ times) along longer length _l_ until the remaining portion _r_ is less than the shorter length _s_.[52] In modern words, remainder _r_ = _l_ − _q_×_s_, _q_ being the quotient, or remainder _r_ is the "modulus", the integer-fractional part left over after the division.[53]
 
@@ -191,8 +189,6 @@ Only a few instruction _types_ are required to execute Euclid's algorithm—some
 -   The varying quantity (number) in a location is written in lower case letter(s) and (usually) associated with the location's name. For example, location L at the start might contain the number _l_ = 3009.
 
 An inelegant program for Euclid's algorithm
-
-Euclid's_algorithm_Inelegant_program_1.png
 
 The following algorithm is framed as Knuth's four-step version of Euclid's and Nicomachus', but, rather than using division to find the remainder, it uses successive subtractions of the shorter length _s_ from the remaining length _r_ until _r_ is less than _s_. The high-level description, shown in boldface, is adapted from Knuth 1973:2–4:
 
@@ -492,7 +488,7 @@ His symbol space would be
 
     "A set of directions applicable to a general problem sets up a deterministic process when applied to each specific problem. This process terminates only when it comes to the direction of type (C ) [i.e., STOP]".[94] See more at Post–Turing machine
 
-Alan_Turing.jpg]] Alan Turing's work[95] preceded that of Stibitz (1937); it is unknown whether Stibitz knew of the work of Turing. Turing's biographer believed that Turing's use of a typewriter-like model derived from a youthful interest: "Alan had dreamt of inventing typewriters as a boy; Mrs. Turing had a typewriter, and he could well have begun by asking himself what was meant by calling a typewriter 'mechanical'".[96] Given the prevalence of Morse code and telegraphy, ticker tape machines, and teletypewriters we might conjecture that all were influences.
+]] Alan Turing's work[95] preceded that of Stibitz (1937); it is unknown whether Stibitz knew of the work of Turing. Turing's biographer believed that Turing's use of a typewriter-like model derived from a youthful interest: "Alan had dreamt of inventing typewriters as a boy; Mrs. Turing had a typewriter, and he could well have begun by asking himself what was meant by calling a typewriter 'mechanical'".[96] Given the prevalence of Morse code and telegraphy, ticker tape machines, and teletypewriters we might conjecture that all were influences.
 
 Turing—his model of computation is now called a Turing machine—begins, as did Post, with an analysis of a human computer that he whittles down to a simple set of basic motions and "states of mind". But he continues a step further and creates a machine as a model of computation of numbers.[97]
 

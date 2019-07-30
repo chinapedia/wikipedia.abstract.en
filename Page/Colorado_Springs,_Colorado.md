@@ -13,13 +13,13 @@ History
 
 The Ute, Arapaho and Cheyenne peoples were the first recorded inhabiting the area which would become Colorado Springs.[8] Part of the territory included in the United States' 1803 Louisiana Purchase, the current city area was designated part of the 1854 Kansas Territory. In 1859, after the first local settlement was established, it became part of the Jefferson Territory on October 24 and of El Paso County on November 28. Colorado City at the Front Range confluence of Fountain and Camp creeks was "formally organized on August13, 1859"[9] during the Pike's Peak Gold Rush. It served as the capital of the Colorado Territory from November 5, 1861, until August 14, 1862, when the capital was moved to Denver.
 
-Detroit_Photographic_Company_(0251).jpg (above) was torn down in 1964.]] In 1871 the Colorado Springs Company laid out the towns of La Font (later called Manitou Springs) and Fountain Colony, upstream and downstream respectively, of Colorado City.[10] Within a year, Fountain Colony would be renamed "Colorado Springs", and was officially incorporated.[11] The El Paso County seat shifted from Colorado City in 1873 to the Town of Colorado Springs. On December 1, 1880, Colorado Springs expanded northward with two annexations.
+(above) was torn down in 1964.]] In 1871 the Colorado Springs Company laid out the towns of La Font (later called Manitou Springs) and Fountain Colony, upstream and downstream respectively, of Colorado City.[10] Within a year, Fountain Colony would be renamed "Colorado Springs", and was officially incorporated.[11] The El Paso County seat shifted from Colorado City in 1873 to the Town of Colorado Springs. On December 1, 1880, Colorado Springs expanded northward with two annexations.
 
 The second period of annexations was during 188990, and included Seavey's Addition, West Colorado Springs, East End, and another North End addition. In 1891 the Broadmoor Land Company built the Broadmoor suburb, which included the Broadmoor Casino, and by December 12, 1895, the city had "four Mining Exchanges and 275 mining brokers."[12] By 1898, the city was designated into quadrants by the north-south Cascade Avenue and the east-west Washington/Pike's Peak avenues.
 
 From 1899 to 1901 Tesla Experimental Station operated on Knob Hill,[13] and aircraft flights to the Broadmoor's neighboring fields began in 1919. Alexander Airport north of the city opened in 1925, and in 1927 the original Colorado Springs Municipal Airport land was purchased east of the city.
 
-PetersonAFB.jpg In World War II the United States Army Air Forces leased land adjacent to the municipal airfield, naming it "Peterson Field" in December 1942. This was only one of several military presences in and around Colorado Springs during the war.[14]
+In World War II the United States Army Air Forces leased land adjacent to the municipal airfield, naming it "Peterson Field" in December 1942. This was only one of several military presences in and around Colorado Springs during the war.[14]
 
 In November 1950, Ent Air Force Base was selected as the Cold War headquarters for Air Defense Command (ADC). The former WWII Army Air Base, Peterson Field, which had been inactivated at the end of the war, was re-opened in 1951 as a U.S. Air Force base.[15] The 1950s through 1970s saw a continued expansion of the military presence in the area, with the establishment of NORAD's headquarters in the city, as well as the ADCOM headquarters.
 
@@ -30,7 +30,7 @@ On October 1, 1981, the Broadmoor Addition, Cheyenne Canon, Ivywild, Skyway, and
 
 Geography
 
-Colorado_Springs_from_Pikes_Peak_Nov_2010.JPG The city lies in a high desert with the Southern Rocky Mountains to the west, the Palmer Divide to the north, high plains further east, and high desert lands to the south when leaving Fountain and approaching Pueblo.[19]
+The city lies in a high desert with the Southern Rocky Mountains to the west, the Palmer Divide to the north, high plains further east, and high desert lands to the south when leaving Fountain and approaching Pueblo.[19]
 
 According to the United States Census Bureau, the city has a total area of , of which is land and , or 0.19%, is water.[20]
 
@@ -40,7 +40,7 @@ Colorado Springs has many features of a modern urban area, such as parks, bike t
 
 Climate
 
-PikesPeakFromUCCS.jpg, the easternmost "14er" in the United States]] Colorado Springs has a cooler, dry-winter semi-arid climate (Köppen _BSkw_), and its location just east of the Rocky Mountains affords it the rapid warming influence from chinook winds during winter but also subjects it to drastic day-to-day variability in weather conditions.[22] The city has abundant sunshine year-round, averaging 243 sunny days per year,[23][24] and receives approximately of annual precipitation. Due to unusually low precipitation for several years after flooding in 1999, Colorado Springs enacted lawn water restrictions in 2002. These were lifted in 2005.[25]
+, the easternmost "14er" in the United States]] Colorado Springs has a cooler, dry-winter semi-arid climate (Köppen _BSkw_), and its location just east of the Rocky Mountains affords it the rapid warming influence from chinook winds during winter but also subjects it to drastic day-to-day variability in weather conditions.[22] The city has abundant sunshine year-round, averaging 243 sunny days per year,[23][24] and receives approximately of annual precipitation. Due to unusually low precipitation for several years after flooding in 1999, Colorado Springs enacted lawn water restrictions in 2002. These were lifted in 2005.[25]
 
 Colorado Springs is one of the most active lightning strike areas in the United States. This natural phenomenon led Nikola Tesla to select Colorado Springs as the preferred location to build his lab and study electricity.[26]
 
@@ -56,14 +56,12 @@ Climate data
 
 Cityscape
 
-Colorado_springs_downtown.jpg
-
 
 Demographics
 
 As of the 2010 census, the population of Colorado Springs was 416,427[33] (40th most populous U.S. city), and the population of the Colorado Springs Metropolitan Statistical Area was 645,613 in 2010 (84th most populous MSA),[34] and the population of the Front Range Urban Corridor in Colorado was an estimated 4,166,855.
 
-As of the April 2010 census:[35] 78.8% White, 16.1% Hispanic or Latino (of any race), 6.3% Black or African American, 3.0% Asian, 1.0% Native American, 0.3% Native Hawaiian and Other Pacific Islander, 5.5% Some other race, 5.1% Two or more races. Mexican Americans made up 14.6% of the city's population. The median age in the city was 35 years.[36] Non-Hispanic Whites were 70.7% of the population,[37] compared to 86.6% in 1970.[38] Colorado_Springs_City_Hall_by_David_Shankbone.jpg Colorado_Springs,_Colorado_city_hall.jpg
+As of the April 2010 census:[35] 78.8% White, 16.1% Hispanic or Latino (of any race), 6.3% Black or African American, 3.0% Asian, 1.0% Native American, 0.3% Native Hawaiian and Other Pacific Islander, 5.5% Some other race, 5.1% Two or more races. Mexican Americans made up 14.6% of the city's population. The median age in the city was 35 years.[36] Non-Hispanic Whites were 70.7% of the population,[37] compared to 86.6% in 1970.[38]
 
 
 Economy
@@ -113,7 +111,7 @@ In 2017, the state of Colorado had the third highest number of craft breweries a
 
 Religious institutions
 
-Focus_on_the_Family_Welcome_Center_by_David_Shankbone.jpg Visitors Center]] Although houses of worship of almost every major world religion are within the city, Colorado Springs has in particular attracted a large influx of Evangelical Christians and Christian organizations in recent years. At one time Colorado Springs was the national headquarters for 81 different religious organizations, earning the city the tongue-in-cheek nicknames "the Evangelical Vatican"[79] and "The Christian Mecca." Religious groups with regional or international headquarters in Colorado Springs include:
+Visitors Center]] Although houses of worship of almost every major world religion are within the city, Colorado Springs has in particular attracted a large influx of Evangelical Christians and Christian organizations in recent years. At one time Colorado Springs was the national headquarters for 81 different religious organizations, earning the city the tongue-in-cheek nicknames "the Evangelical Vatican"[79] and "The Christian Mecca." Religious groups with regional or international headquarters in Colorado Springs include:
 
 -   Andrew Wommack Ministries[80]
 -   Association of Christian Schools International[81]
@@ -152,7 +150,7 @@ Sports
 
 Olympic sports
 
-US_Olympic_Committee_Headquarters_by_David_Shankbone.jpg headquarters and training facility]]
+headquarters and training facility]]
 
 Colorado Springs, dubbed Olympic City USA, is home to the United States Olympic Training Center and the headquarters of the United States Olympic Committee and the United States Anti-Doping Agency.[109] In addition, 24 of the United States' national federations for individual Olympic sports have their headquarters in Colorado Springs, including: US bobsled, fencing, figure skating, basketball, boxing, cycling, judo, field hockey, hockey, swimming, shooting, table tennis, taekwondo, triathlon, volleyball, pentathlon, handball, and wrestling associations and organizations.
 
@@ -260,7 +258,7 @@ Higher education
 
 Bachelors and graduate degree programs are offered at these colleges and universities in the city:
 
-Air_Force_Academy_Doolittle_Hall_by_David_Shankbone.jpg]]
+]]
 
 -   Colorado College
 -   CollegeAmerica
@@ -318,8 +316,6 @@ Walkability
 
 A 2011 study by Walk Score ranked Colorado Springs 34th most walkable of fifty largest U.S. cities.[154]
 
-Colorado_Springs_Transportation_by_David_Shankbone.jpg
-
 Mountain Metropolitan Transit
 
 Mountain Metropolitan Transit (MMT) offers public transportation services in the Pikes Peak region providing over 11,000 one-way trips per day. In addition to bus routes within the City of Colorado Springs, Mountain Metro Transit provides service into Manitou Springs, north to the Chapel Hills Mall, east to Peterson Air Force Base and south into the Widefield area.
@@ -335,12 +331,12 @@ Mountain Metro Rides offers alternative transportation options to residents of t
 
 Notable people
 
-Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg sitting in the Colorado Springs Experimental Station with his "magnifying transmitter" generating millions of volts]]
+sitting in the Colorado Springs Experimental Station with his "magnifying transmitter" generating millions of volts]]
 
 
 Sister cities
 
-ArstanbekNogoev.jpg mayor Arstanbek Nogoev presents a gift for Colorado Springs mayor Lionel Rivera to a US airman at Manas Air Base, in a ceremony aimed at reviving ties between the two sister cities.[155]]]
+mayor Arstanbek Nogoev presents a gift for Colorado Springs mayor Lionel Rivera to a US airman at Manas Air Base, in a ceremony aimed at reviving ties between the two sister cities.[155]]]
 
 Sister cities of Colorado Springs include:
 

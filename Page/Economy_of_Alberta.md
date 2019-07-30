@@ -1,4 +1,4 @@
-Alberta_oil_field.JPG, 2008.]]
+, 2008.]]
 
 _' Alberta's economy_' is the sum of all economic activity in Alberta, Canada's fourth largest province by population. Although Alberta has a presence in many industries such as agriculture, forestry, education, tourism, finance, and manufacturing, the politics and culture of the province have been closely tied to the production of fossil energy since the 1940s. Alberta—with an estimated 1.4 billion cubic metres of unconventional oil resource in the bituminous oil sands—leads Canada as an oil producer.[1] Revenue from oil and natural gas extraction has fueled a series of economic booms in the province's recent history, and economic spin-offs have included petrochemical and pipelines. In 1985 36.1% of Alberta's $66.8 billion GDP was from energy industries. In 2012, "the mining and oil and gas extraction industry made up 23.3% of Alberta's GDP."[2] By 2013 Alberta's GDP was $331.9 billion with 24.6% in energy. The energy industry provided 7.7% of all jobs in Alberta in 2013.[3]
 
@@ -8,8 +8,6 @@ Beginning in June 2014 the record high volume of worldwide oil inventories in st
 
 
 Economic geography
-
-Alberta,_Canada.svg
 
 Alberta has a small internal market, and it is relatively distant from major world markets, despite good transportation links to the rest of Canada and to the United States to the south. Alberta is located in the northwestern quadrant of North America, in a region of low population density called the Interior Plains. Alberta is landlocked, and separated by a series of mountain ranges from the nearest outlets to the Pacific Ocean, and by the Canadian Shield from ports on the Lakehead or Hudson Bay. From these ports to major populations centres and markets in Europe or Asia is several thousands of kilometers. The largest population clusters of North America (the Boston – Washington, San Francisco - San Diego, Chicago – Pittsburgh, and Quebec City – Windsor Corridors) are all thousands of kilometers away from Alberta. Partly for this reason, Alberta has never developed a large presence in the industries that have traditionally started industrialization in other places (notably the original Industrial Revolution in Great Britain) but which require large labour forces, and large internal markets or easy transportation to export markets, namely textiles, metallurgy, or transportation-related manufacturing (automotives, ships, or train cars).
 
@@ -40,7 +38,7 @@ Seeing Calgary and Edmonton as part of a single economic region as the TD study 
 
 Trends
 
-Leduc_oil.jpg well, which blew in 1947, marked the beginning of series of petroleum-related economic booms.]]
+well, which blew in 1947, marked the beginning of series of petroleum-related economic booms.]]
 
 Alberta has always been an export-oriented economy. In line with Harold Innis' "Staples Thesis", the economy has changed substantially as different export commodities have risen or fallen in importance. In sequence, the most important products have been: fur, wheat and beef, and oil and gas.
 
@@ -107,8 +105,6 @@ Energy
 
 Oil and gas
 
-Alberta_oil_gas_drilling_well_023.jpg
-
 Since the early 1940s, Alberta had supplied oil and gas to the rest of Canada and the United States. The Athabasca River region produces oil for internal and external use. The Athabasca Oil Sands contain the largest proven reserves of oil in the world outside Saudi Arabia. Natural gas has been found at several points, and in 1999, the production of natural gas liquids (ethane, propane, and butanes) totalled , valued at $2.27 billion. Alberta also provides 13% of all the natural gas used in the United States.
 
 Notable gas reserves were discovered in the 1883 near Medicine Hat.[44] The town of Medicine Hat began using gas for lighting the town, and supplying light and fuel for the people, and a number of industries using the gas for manufacturing. In fact a large glassworks was established at Redcliff. When Rudyard Kipling visited Medicine Hat he described it as the city "with all hell for a basement".
@@ -136,7 +132,7 @@ Basic statistics
 
 Coal
 
-Atlas_coal_mine.jpg.]] Coal has been mined in Alberta since the late 19th century. Over 1800 mines have operated in Alberta since then.[46]
+.]] Coal has been mined in Alberta since the late 19th century. Over 1800 mines have operated in Alberta since then.[46]
 
 The coal industry was vital to the early development of several communities, especially those in the foothills and along deep river valleys where coal was close to the surface.
 
@@ -192,13 +188,13 @@ Owing to the strength of agriculture, food processing was once a major part of t
 
 Transportation
 
-WestJetHQ.jpg, in Calgary.]] Edmonton is a major distribution centre for northern communities, hence the nickname "Gateway to the North". Edmonton is one CN Rail's most important hubs. Since 1996, Canadian Pacific Railway has its headquarters in downtown Calgary.
+, in Calgary.]] Edmonton is a major distribution centre for northern communities, hence the nickname "Gateway to the North". Edmonton is one CN Rail's most important hubs. Since 1996, Canadian Pacific Railway has its headquarters in downtown Calgary.
 
 WestJet, Canada's second largest air carrier, is headquartered in Calgary, by Calgary International Airport, which serves as the airline's primary hub.[57] Prior to its dissolution, Canadian Airlines was headquartered in Calgary by the airport.[58] Prior to its dissolution, Air Canada subsidiary Zip was headquartered in Calgary.[59]
 
 Agriculture and forestry
 
-Grain_Elevator_047.jpg]]
+]]
 
 Agriculture
 

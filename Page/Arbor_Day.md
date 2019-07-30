@@ -3,7 +3,7 @@ ARBOR DAY (or ARBOUR; from the Latin _arbor_, meaning _tree_) is a holiday in wh
 
 Origins
 
-Fiesta_del_arbol.jpg at the monument to the first Arbor Day in the world, Villanueva de la Sierra (Spain) 1805]]
+at the monument to the first Arbor Day in the world, Villanueva de la Sierra (Spain) 1805]]
 
 First Arbor Day in the world
 
@@ -11,7 +11,7 @@ The Spanish village of Mondoñedo held the first documented arbor plantation fes
 
 First American Arbor Day
 
-Birdsey_Northrop.jpg The first American Arbor Day was originated in Nebraska City, Nebraska by J. Sterling Morton.[2] On April 10, 1872, an estimated one million trees were planted in Nebraska.[3]
+The first American Arbor Day was originated in Nebraska City, Nebraska by J. Sterling Morton.[2] On April 10, 1872, an estimated one million trees were planted in Nebraska.[3]
 
 Birdsey Northrop of Connecticut was responsible for globalizing the idea when he visited Japan in 1883 and delivered his Arbor Day and Village Improvement message. In that same year, the American Forestry Association made Northrop the Chairman of the committee to campaign for Arbor Day nationwide. He also brought his enthusiasm for Arbor Day to Australia, Canada, and Europe.[4]
 
@@ -22,7 +22,7 @@ Beginning in 1906, Pennsylvania conservationist Major Israel McCreight of DuBois
 
 Around the world
 
-Arbor_day_in_Algeria.jpg]]
+]]
 
 Australia
 
@@ -84,13 +84,13 @@ The name Van Mahotsava (the festival of trees) originated in July 1947 after a s
 
 Iran
 
-President_Rouhani_in_Arbor_Day_03.jpg, Hassan Rouhani, planting a tree on 2016 Arbor Day]] In Iran, it is known as "National Tree Planting Day". By the Solar Hijri calendar, it is on the fifteenth day of the month Esfand, which usually corresponds with March 5. This day is the first day of the "Natural Recyclable Resources Week" (March 5 to 12).
+, Hassan Rouhani, planting a tree on 2016 Arbor Day]] In Iran, it is known as "National Tree Planting Day". By the Solar Hijri calendar, it is on the fifteenth day of the month Esfand, which usually corresponds with March 5. This day is the first day of the "Natural Recyclable Resources Week" (March 5 to 12).
 
 This is the time when the saplings of the all kinds in terms of different climates of different parts of Iran are shared among the people. They are also taught how to plant trees.[11]
 
 Israel
 
-PikiWiki_Israel_7673_Environment_of_Israel.JPG The Jewish holiday Tu Bishvat, the new year for trees, is on the 15th day of the month of Shvat, which usually falls in January or February. Originally based on the date used to calculate the age of fruit trees for tithing as mandated in Leviticus 19:23–25, the holiday now is most often observed by planting trees or raising money to plant trees,[12] and by eating fruit, specifically grapes, figs, pomegranates, olives, and dates.[13] Tu Bishvat is a semi-official holiday in Israel; schools are open but Hebrew-speaking schools often go on tree-planting excursions.
+The Jewish holiday Tu Bishvat, the new year for trees, is on the 15th day of the month of Shvat, which usually falls in January or February. Originally based on the date used to calculate the age of fruit trees for tithing as mandated in Leviticus 19:23–25, the holiday now is most often observed by planting trees or raising money to plant trees,[12] and by eating fruit, specifically grapes, figs, pomegranates, olives, and dates.[13] Tu Bishvat is a semi-official holiday in Israel; schools are open but Hebrew-speaking schools often go on tree-planting excursions.
 
 Japan
 
@@ -120,7 +120,7 @@ National Tree Planting Day is on the 2nd Monday of December.
 
 Mexico
 
-EPN._Día_del_Árbol.jpg plants a tree in Balleza, Chihuahua to commemorate the _Día del Árbol_ 2013.]] The _Día del Árbol_ was established in Mexico in 1959 with President Adolfo López Mateos issuing a decree that it should be observed on the 2nd Thursday of July.[18]
+plants a tree in Balleza, Chihuahua to commemorate the _Día del Árbol_ 2013.]] The _Día del Árbol_ was established in Mexico in 1959 with President Adolfo López Mateos issuing a decree that it should be observed on the 2nd Thursday of July.[18]
 
 Mongolia
 
@@ -188,7 +188,7 @@ Arbor Day was celebrated from 1945 until 2000 in South Africa. After that, the n
 
 Spain
 
-Plantando_encinas.jpg]] In Spain there is an International Forest Day on 21 March, but a decree in 1915 also brought in an Arbor Day throughout Spain. Each municipality or collective decides the date for its Arbor Day, usually between February and May. In Villanueva de la Sierra (Extremadura), where the first Arbor Day in the world was held in 1805, it is celebrated, as on that occasion, on Tuesday Carnaval. It is a great day in the local festive calendar.[38]
+]] In Spain there is an International Forest Day on 21 March, but a decree in 1915 also brought in an Arbor Day throughout Spain. Each municipality or collective decides the date for its Arbor Day, usually between February and May. In Villanueva de la Sierra (Extremadura), where the first Arbor Day in the world was held in 1805, it is celebrated, as on that occasion, on Tuesday Carnaval. It is a great day in the local festive calendar.[38]
 
 As an example of commitment to nature, the small town of Pescueza, with only 180 inhabitants, organizes every spring a large plantation of holm oaks, which is called the "Festivalino", promoted by city council, several foundations, and citizen participation.[39]
 
@@ -212,7 +212,7 @@ United Kingdom
 
 First mounted in 1975, National Tree Week is a celebration of the start of the winter tree planting season. Around a million trees are planted each year by schools, community organizations and local authorities.
 
-2009ArborDayRochesterMinnesota.JPG]]
+]]
 
 United States of America
 

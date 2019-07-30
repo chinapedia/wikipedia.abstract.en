@@ -9,7 +9,7 @@ Abersychan was the birthplace of the politicians Roy Jenkins, Don Touhig and Pau
 
 History
 
-British_Ironworks_office,_Abersychan.jpg]] Abersychan_Limestone_Railway,_Abersychan.JPG Disused_mine_building_-_geograph.org.uk_-_558135.jpg Like many of the 17th century isolated agricultural hamlets in the forested South Wales Valleys, Abersychan became a thriving industrial centre in the 19th and early 20th centuries, particularly for iron production.[1]
+]] Like many of the 17th century isolated agricultural hamlets in the forested South Wales Valleys, Abersychan became a thriving industrial centre in the 19th and early 20th centuries, particularly for iron production.[1]
 
 After the discovery of iron stone locally, the principal ironworks were built by the British Iron Company in 1825, served mainly by the LNWR's Brynmawr and Blaenavon Railway. The ironwork's main office building and quadrangle were designed by architect Decimus Burton, best known for his design of London Zoo.[2] The works passed to the New British Iron Company in 1843 and to the Ebbw Vale Company in 1852, before closing in 1889. On 6 February 1890, an underground explosion at Llanerch Colliery killed 176.[3]
 

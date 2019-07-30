@@ -9,9 +9,9 @@ Levant
 
 Early Epipaleolithic
 
-Climate_and_Post-Glacial_expansion_in_the_Near_East.jpg (LGM), before the start of the Holocene and the onset of the Neolithic Revolution. Evolution of temperatures in the Post-Glacial period according to Greenland ice cores.[11]]] Archaeological_evidence_of_human_activities_at_the_end_of_the_Upper_Paleolithic_and_during_the_Epipaleolithic;_human_occupation_signs_29–15.2_ka,_wood_charcoal,_nuts_15.9–11.2_ka.jpg and during the Epipaleolithic. Human occupation signs 29–15.2 ka (diamonds), wood charcoal, nuts 15.9–11.2 ka (squares).]] The Early Epipaleolithic, also known as Kebaran, lasts from 20,000 to 12,150 BP.[12] It followed the Upper Paleolithic Levantine Aurignacian (formerly called Antelian) period throughout the Levant. By the end of the Levantine Aurignacian, gradual changes took place in stone industries. Small stone tools called microliths and retouched bladelets can be found for the first time. The microliths of this culture period differ greatly from the Aurignacian artifacts.
+(LGM), before the start of the Holocene and the onset of the Neolithic Revolution. Evolution of temperatures in the Post-Glacial period according to Greenland ice cores.[11]]] and during the Epipaleolithic. Human occupation signs 29–15.2 ka (diamonds), wood charcoal, nuts 15.9–11.2 ka (squares).]] The Early Epipaleolithic, also known as Kebaran, lasts from 20,000 to 12,150 BP.[12] It followed the Upper Paleolithic Levantine Aurignacian (formerly called Antelian) period throughout the Levant. By the end of the Levantine Aurignacian, gradual changes took place in stone industries. Small stone tools called microliths and retouched bladelets can be found for the first time. The microliths of this culture period differ greatly from the Aurignacian artifacts.
 
-Stone_Age_Stone_Mortar_&_Pestle,_Kebaran_culture,_22000-18000_BP.jpg Composite_Sickles_for_Cereal_Harvesting_at_23,000-Years-Old_Ohalo_II,_Israel.jpg, Israel.[13]]] By 18,000 BP the climate and environment had changed, starting a period of transition. The Levant became more arid and the forest vegetation retreated, to be replaced by steppe. The cool and dry period ended at the beginning of Mesolithic 1. The hunter-gatherers of the Aurignacian would have had to modify their way of living and their pattern of settlement to adapt to the changing conditions. The crystallization of these new patterns resulted in Mesolithic 1. New types of settlements and new stone industries developed.
+, Israel.[13]]] By 18,000 BP the climate and environment had changed, starting a period of transition. The Levant became more arid and the forest vegetation retreated, to be replaced by steppe. The cool and dry period ended at the beginning of Mesolithic 1. The hunter-gatherers of the Aurignacian would have had to modify their way of living and their pattern of settlement to adapt to the changing conditions. The crystallization of these new patterns resulted in Mesolithic 1. New types of settlements and new stone industries developed.
 
 The inhabitants of a small Mesolithic 1 site in the Levant left little more than their chipped stone tools behind. The industry was of small tools made of bladelets struck off single-platform cores. Besides bladelets, burins and end-scrapers were found. A few bone tools and some ground stone have also been found. These so-called Mesolithic sites of Asia are far less numerous than those of the Neolithic and the archeological remains are very poor.
 
@@ -51,7 +51,7 @@ However in 2014, archaeologists working in the southern Nefud desert discovered 
 
 Food sources
 
-Associations_of_wild_cereals_and_other_wild_grasses_in_northern_Israel.jpg The Epipaleolithic is best understood when discussing the southern Levant, as the period is well documented due to good preservation at the sites, at least of animal remains. The most prevalent animal food sources in the Levant during this period were: deer, gazelle, and ibex of various species, and smaller animals including birds, lizard, fox, tortoise, and hare. Less common were aurochs, wild equids, wild boar, wild cattle, and hartebeest.[34] At Neve David near Haifa, 15 mammal species were found, and two reptile species. Despite then being very close to the coast, the rather small number of seashells found (7 genera) and the piercing of many, suggests these may have been collected as ornaments rather than food.[35]
+The Epipaleolithic is best understood when discussing the southern Levant, as the period is well documented due to good preservation at the sites, at least of animal remains. The most prevalent animal food sources in the Levant during this period were: deer, gazelle, and ibex of various species, and smaller animals including birds, lizard, fox, tortoise, and hare. Less common were aurochs, wild equids, wild boar, wild cattle, and hartebeest.[34] At Neve David near Haifa, 15 mammal species were found, and two reptile species. Despite then being very close to the coast, the rather small number of seashells found (7 genera) and the piercing of many, suggests these may have been collected as ornaments rather than food.[35]
 
 However the period seems to be marked by an increase in plant foods and a decrease in meat eating. Over 40 plant species have been found by analysing one site in the Jordan Valley, and some grains were processed and baked. Stones with evidence of grinding have been found.[36] These were most likely the main food sources throughout the Pre-Pottery Neolithic A, which introduced the widespread agricultural growing of crops.
 
@@ -113,7 +113,7 @@ Mesolithic_Asia Category:Upper Paleolithic Category:Prehistory of the Middle Eas
 
 [20]
 
-[21] CC-BY_icon.svg Material was adapted from this source, which is available under a Creative Commons Attribution 4.0 International License
+[21]  Material was adapted from this source, which is available under a Creative Commons Attribution 4.0 International License
 
 [22]
 
@@ -123,7 +123,7 @@ Mesolithic_Asia Category:Upper Paleolithic Category:Prehistory of the Middle Eas
 
 [25]
 
-[26] CC-BY_icon.svg Material was adapted from this source, which is available under a Creative Commons Attribution 4.0 International License
+[26]  Material was adapted from this source, which is available under a Creative Commons Attribution 4.0 International License
 
 [27]
 

@@ -1,4 +1,4 @@
-Stonehenge_Summer_Solstice_eve_02.jpg gathers at Stonehenge, England, for the summer solstice.]]
+gathers at Stonehenge, England, for the summer solstice.]]
 
 A COMMUNITY is a small or large social unit (a group of living things) that has something in common, such as norms, religion, values, customs, or identity. Communities often share a sense of place that is situated in a given geographical area (e.g. a country, village, town, or neighbourhood) or in virtual space through communication platforms. Durable relations that extend beyond immediate genealogical ties also define a sense of community. People tend to define those social ties as important to their identity, practice, and roles in social institutions (such as family, home, work, government, society, or humanity at-large).[1][2] Although communities are usually small relative to personal social ties (micro-level), "community" may also refer to large group affiliations (or macro-level), such as national communities, international communities, and virtual communities.[3]
 
@@ -15,7 +15,7 @@ In archaeological studies of social communities the term "community" is used in 
 
 Ecology
 
-In ecology, a community is an assemblage of populations of different species, interacting with one another. Community ecology is the branch of ecology that studies interactions between and among species. It considers how such interactions, along with interactions between species and the abiotic environment, affect community structure and species richness, diversity and patterns of abundance. Species interact in three ways: competition, predation and mutualism. Competition typically results in a double negative—that is both species lose in the interaction. Predation is a win/lose situation with one species winning. Mutualism, on the other hand, involves both species cooperating in some way, with both winning. The two main types of communities are major which are self-sustaining and self-regulating (such as a forest or a lake) and minor communities which rely on other communities (like fungi decomposing a log) and are the building blocks of major communities. IB_Biology_Figure_Project_(1).svg
+In ecology, a community is an assemblage of populations of different species, interacting with one another. Community ecology is the branch of ecology that studies interactions between and among species. It considers how such interactions, along with interactions between species and the abiotic environment, affect community structure and species richness, diversity and patterns of abundance. Species interact in three ways: competition, predation and mutualism. Competition typically results in a double negative—that is both species lose in the interaction. Predation is a win/lose situation with one species winning. Mutualism, on the other hand, involves both species cooperating in some way, with both winning. The two main types of communities are major which are self-sustaining and self-regulating (such as a forest or a lake) and minor communities which rely on other communities (like fungi decomposing a log) and are the building blocks of major communities.
 
 
 Key concepts
@@ -33,7 +33,7 @@ In a seminal 1986 study, McMillan and Chavis[7] identify four elements of "sense
 3.  reinforcement: integration and fulfillment of needs,
 4.  shared emotional connection.
 
-Bigdayout_crowd2.jpg?]]
+?]]
 
 A "sense of community index'' (SCI) was developed by Chavis and colleagues, and revised and adapted by others. Although originally designed to assess sense of community in neighborhoods, the index has been adapted for use in schools, the workplace, and a variety of types of communities.[8]
 
@@ -41,7 +41,7 @@ Studies conducted by the APPA indicate that young adults who feel a sense of bel
 
 Socialization
 
-Lewes_Bonfire,_Martyrs_Crosses.jpg procession commemorating 17 Protestant martyrs burnt at the stake from 1555 to 1557]]
+procession commemorating 17 Protestant martyrs burnt at the stake from 1555 to 1557]]
 
 The process of learning to adopt the behavior patterns of the community is called socialization. The most fertile time of socialization is usually the early stages of life, during which individuals develop the skills and knowledge and learn the roles necessary to function within their culture and social environment.[9] For some psychologists, especially those in the psychodynamic tradition, the most important period of socialization is between the ages of one and ten. But socialization also includes adults moving into a significantly different environment, where they must learn a new set of behaviors.[10]
 
@@ -58,7 +58,7 @@ At the intersection between community _development_ and community _building_ are
 
 Community building and organizing
 
-Affinity_group_collateral_damage.jpg "Collateral Damage" protesting the Iraq War]]
+"Collateral Damage" protesting the Iraq War]]
 
 In _The Different Drum: Community-Making and Peace_ (1987) Scott Peck argues that the almost accidental sense of community that exists at times of crisis can be consciously built. Peck believes that conscious community building is a process of deliberate design based on the knowledge and application of certain rules.[18] He states that this process goes through four stages:[19]
 
@@ -86,7 +86,7 @@ Some communities have developed their own local exchange trading systems (LETS)[
 
 Types of community
 
-Community_Circle_at_OUR_Ecovillage.jpg]]
+]]
 
 A number of ways to categorize types of community have been proposed. One such breakdown is as follows:
 

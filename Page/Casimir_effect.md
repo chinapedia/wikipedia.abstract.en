@@ -1,4 +1,4 @@
-Casimir_plates.svg Water_wave_analogue_of_Casimir_effect.ogv. When the sonicator is turned on, waves are excited imitating vacuum fluctuations; as a result, the plates are forced together.]]
+. When the sonicator is turned on, waves are excited imitating vacuum fluctuations; as a result, the plates are forced together.]]
 
 In quantum field theory, the CASIMIR EFFECT and the CASIMIR–POLDER FORCE are physical forces arising from a quantized field. They are named after the Dutch physicist Hendrik Casimir who predicted them in 1948.
 

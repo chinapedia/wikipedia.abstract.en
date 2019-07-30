@@ -5,11 +5,11 @@ History
 
 The Lumière brothers were born in Besançon, France, to Charles-Antoine Lumière (1840–1913)[3] and Jeanne Joséphine Costille Lumière, who were married in 1861 and moved to Besançon, setting up a small photographic portrait studio where Auguste and Louis were born. They moved to Lyon in 1870, where son Edouard and three daughters were born. Auguste and Louis both attended La Martiniere, the largest technical school in Lyon.[4] Their father Charles-Antoine set up a small factory producing photographic plates, but even with Louis and a young sister working from 5 a.m. to 11 p.m. it teetered on the verge of bankruptcy, and by 1882 it looked as if they would fail, but when Auguste returned from military service the boys designed the machines necessary to automate their father's plate production and devised a very successful new photo plate, 'etiquettes bleue', and by 1884 the factory employed a dozen workers.
 
-Institut_Lumière_-_CINEMATOGRAPHE_Camera.jpg, France]] When their father retired in 1892 the brothers began to create moving pictures. They patented several significant processes leading up to their film camera, most notably film perforations (originally implemented by Emile Reynaud) as a means of advancing the film through the camera and projector. The original cinématographe had been patented by Léon Guillaume Bouly on 12 February 1892.[5] The brothers patented their own version on 13 February 1895.[6] The first footage ever to be recorded using it was recorded on 19 March 1895. This first film shows workers leaving the Lumière factory.
+, France]] When their father retired in 1892 the brothers began to create moving pictures. They patented several significant processes leading up to their film camera, most notably film perforations (originally implemented by Emile Reynaud) as a means of advancing the film through the camera and projector. The original cinématographe had been patented by Léon Guillaume Bouly on 12 February 1892.[5] The brothers patented their own version on 13 February 1895.[6] The first footage ever to be recorded using it was recorded on 19 March 1895. This first film shows workers leaving the Lumière factory.
 
 The Lumière brothers saw film as a novelty and had withdrawn from the film business in 1905. They went on to develop the first practical photographic colour process, the Lumière Autochrome.
 
-Tombe_des_frères_Lumière.jpg in Lyon]]
+in Lyon]]
 
 Louis died on 6 June 1948 and Auguste on 10 April 1954. They are buried in a family tomb in the New Guillotière Cemetery in Lyon.
 
@@ -20,9 +20,9 @@ The Lumières held their first private screening of projected motion pictures in
 
 The Lumières gave their first paid public screening on 28 December 1895, at Salon Indien du Grand Café in Paris.[10] This history-making presentation featured 10 short films, including their first film, _Sortie des Usines Lumière à Lyon_ (_Workers Leaving the Lumière Factory_).[11]
 
-Lumières_La_Sortie_de_l'Usine_Lumière_à_Lyon_1895.png Each film is 17 meters long, which, when hand cranked through a projector, runs approximately 50 seconds.
+Each film is 17 meters long, which, when hand cranked through a projector, runs approximately 50 seconds.
 
-L'Arrivée_d'un_train_en_gare_de_La_Ciotat,_Complete.webm_]] Cinématographe_Lumière.jpg_]] It is believed their first film was recorded that same year (1895) with Léon Bouly's cinématographe device, which was patented the previous year. The date of the recording of their first film is in dispute. In an interview with Georges Sadoul given in 1948, Louis Lumière tells that he shot the film in August 1894. This is questioned by historians (Sadoul, Pinel, Chardère) who consider that a functional Lumière camera didn't exist before the end of 1894, and that their first film was recorded 19 March 1895, and then publicly projected 22 March at the Société d'encouragement pour l'industrie nationale in Paris. The cinématographe — a three-in-one device that could record, develop, and project motion pictures — was further developed by the Lumières.[12]
+_]] _]] It is believed their first film was recorded that same year (1895) with Léon Bouly's cinématographe device, which was patented the previous year. The date of the recording of their first film is in dispute. In an interview with Georges Sadoul given in 1948, Louis Lumière tells that he shot the film in August 1894. This is questioned by historians (Sadoul, Pinel, Chardère) who consider that a functional Lumière camera didn't exist before the end of 1894, and that their first film was recorded 19 March 1895, and then publicly projected 22 March at the Société d'encouragement pour l'industrie nationale in Paris. The cinématographe — a three-in-one device that could record, develop, and project motion pictures — was further developed by the Lumières.[12]
 
 The public debut at the Grand Café came a few months later and consisted of the following 10 short films (in order of presentation):[13]
 
@@ -46,7 +46,7 @@ The moving images had an immediate and significant influence on popular culture 
 
 Early colour photography
 
-LumiereAlgerijnen.jpg of North-African soldiers, Oise, France, 1917.]]
+of North-African soldiers, Oise, France, 1917.]]
 
 The brothers stated that "the cinema is an invention without any future" and declined to sell their camera to other filmmakers such as Georges Méliès. This made many film makers upset. Consequently, their role in the history of film was exceedingly brief. In parallel with their cinema work they experimented with colour photography. They worked on a number of colour photographic processes in the 1890s including the Lippmann process (interference heliochromy) and their own 'bichromated glue' process,[16] a subtractive colour process, examples of which were exhibited at the Exposition Universelle in Paris in 1900. This last process was commercialised by the Lumieres but commercial success had to wait for their next colour process. In 1903 they patented a colour photographic process, the _Autochrome Lumière_, which was launched on the market in 1907.[17] Throughout much of the 20th century, the Lumière company was a major producer of photographic products in Europe, but the brand name, Lumière, disappeared from the marketplace following merger with Ilford.[18] They also invented the colour plate, which really got photography on the road.
 
@@ -64,7 +64,7 @@ See also
 
 -
 
-Lumière_House_Lyon.jpg is now the Institut Lumière museum.]]
+is now the Institut Lumière museum.]]
 
 -   1895 in film
 -   1896 in film

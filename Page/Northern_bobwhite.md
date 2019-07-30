@@ -7,7 +7,7 @@ Taxonomy and systematics
 
 Subspecies
 
-76_Virginian_Partridge.jpg'' by John James Audubon depicting Virginian Partridge.
+'' by John James Audubon depicting Virginian Partridge.
 
 ]] There are twenty-one recognized subspecies in 3 groups. 1 subspecies is extinct.
 
@@ -58,7 +58,7 @@ The clear whistle "bob-WHITE" or "bob-bob-WHITE" call is very recognizable. The 
 
 Behavior and ecology
 
-Colin_de_Virginie_MHNT.jpg Like most game birds, the northern bobwhite is shy and elusive. When threatened, it will crouch and freeze, relying on camouflage to stay undetected, but will flush into low flight if closely disturbed. It is generally solitary or paired early in the year, but family groups are common in the late summer and winter roosts may have two dozen or more birds in a single covey.
+Like most game birds, the northern bobwhite is shy and elusive. When threatened, it will crouch and freeze, relying on camouflage to stay undetected, but will flush into low flight if closely disturbed. It is generally solitary or paired early in the year, but family groups are common in the late summer and winter roosts may have two dozen or more birds in a single covey.
 
 Breeding
 
@@ -90,8 +90,6 @@ More birds have been imported into New Zealand by private individuals since the 
 An albino hen was present in a covey in Bayview, Hawkes Bay for a couple of seasons sometime around 2000.[26]
 
 Captivity
-
-Domesticated_quail.png
 
 Housing
 

@@ -235,7 +235,7 @@ Critics
 
 See also
 
-Big_Valley_Creation_Science_Museum.jpg, Canada]]
+, Canada]]
 
 -   Adnan Oktar
 -   Biogenesis

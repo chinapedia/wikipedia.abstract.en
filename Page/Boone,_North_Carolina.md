@@ -5,7 +5,7 @@ The town is named for famous American pioneer and explorer Daniel Boone, and eve
 
 About
 
-Boone_NC_-_aerial.jpg]] Boone took its name from the famous pioneer and explorer Daniel Boone, who on several occasions camped at a site generally agreed to be within the present city limits. Daniel's nephews, Jesse and Jonathan (sons of brother Israel Boone), were members of the town's first church,[1] Three Forks Baptist, still in existence today.[2] Boone was served by the narrow gauge East Tennessee and Western North Carolina Railroad (nicknamed "Tweetsie") until the flood of 1940. The flood washed away much of the tracks and it was decided not to replace them.
+]] Boone took its name from the famous pioneer and explorer Daniel Boone, who on several occasions camped at a site generally agreed to be within the present city limits. Daniel's nephews, Jesse and Jonathan (sons of brother Israel Boone), were members of the town's first church,[1] Three Forks Baptist, still in existence today.[2] Boone was served by the narrow gauge East Tennessee and Western North Carolina Railroad (nicknamed "Tweetsie") until the flood of 1940. The flood washed away much of the tracks and it was decided not to replace them.
 
 Boone is the home of Appalachian State University, a constituent member of the University of North Carolina. Appalachian State is the sixth largest university in the seventeen-campus system. Caldwell Community College & Technical Institute also operates a satellite campus in Boone.
 
@@ -85,8 +85,6 @@ Points of interest
 
 
 Notable residents
-
-DocW_Sculpture_Boone.jpg
 
 -   Sam Adams, professional golfer who played on the PGA Tour[21]
 -   Chris Austin, country music singer[22]

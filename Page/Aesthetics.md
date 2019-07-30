@@ -33,7 +33,7 @@ Viewer interpretations of beauty may on occasion be observed to possess two conc
 
 Factors involved in aesthetic judgment
 
-Double-alaskan-rainbow.jpgs often have aesthetic appeal.]]
+s often have aesthetic appeal.]]
 
 Judgments of aesthetical values seem often to involve many other kinds of issues as well. Responses such as disgust show that sensory detection is linked in instinctual ways to facial expressions, and even behaviours like the gag reflex. Yet disgust can often be a learned or cultural issue too; as Darwin pointed out, seeing a stripe of soup in a man's beard is disgusting even though neither soup nor beards are themselves disgusting. Aesthetic judgments may be linked to emotions or, like emotions, partially embodied in our physical reactions. For example, the awe inspired by a sublime landscape might physically manifest with an increased heart-rate or pupil dilation; physiological reaction may express or even cause the initial awe.
 
@@ -82,7 +82,7 @@ A large number of derivative forms of aesthetics have developed as contemporary 
 
 Post-modern aesthetics and psychoanalysis
 
-Duchamp_Fountaine.jpg aesthetic, Marcel Duchamp's _Fountain_ 1917]]
+aesthetic, Marcel Duchamp's _Fountain_ 1917]]
 
 Early-twentieth-century artists, poets and composers challenged existing notions of beauty, broadening the scope of art and aesthetics. In 1941, Eli Siegel, American philosopher and poet, founded Aesthetic Realism, the philosophy that reality itself is aesthetic, and that "The world, art, and self explain each other: each is the aesthetic oneness of opposites."[33][34]
 
@@ -108,7 +108,7 @@ Gregory Loewen has suggested that the subject is key in the interaction with the
 
 Aesthetics and science
 
-Mandel_zoom_00_mandelbrot_set.jpg with continuously coloured environment]]
+with continuously coloured environment]]
 
 The field of experimental aesthetics was founded by Gustav Theodor Fechner in the 19th century. Experimental aesthetics in these times had been characterized by a subject-based, inductive approach. The analysis of individual experience and behaviour based on experimental methods is a central part of experimental aesthetics. In particular, the perception of works of art,[51] music, or modern items such as websites[52] or other IT products[53] is studied. Experimental aesthetics is strongly oriented towards the natural sciences. Modern approaches mostly come from the fields of cognitive psychology or neuroscience (neuroaesthetics[54]).
 

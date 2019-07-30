@@ -78,7 +78,7 @@ The ROMANTIC COMEDY FILM subgenre typically involves the development of a relati
 
 By Country
 
-Three_Stooges_Brideless_Groom.ogv'']]
+'']]
 
 +---------+------------------------+
 | Country | Comedy film            |

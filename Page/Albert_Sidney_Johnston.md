@@ -14,7 +14,7 @@ Johnston was assigned to posts in New York and Missouri and served in the brief 
 
 Marriage and family
 
-China_Grove_Plantation.jpg In 1829 he married Henrietta Preston, sister of Kentucky politician and future Civil War general William Preston. They had one son, William Preston Johnston, who became a colonel in the Confederate States Army.[3] The senior Johnston resigned his commission in 1834 in order to care for his dying wife in Kentucky, who succumbed two years later to tuberculosis.[4]
+In 1829 he married Henrietta Preston, sister of Kentucky politician and future Civil War general William Preston. They had one son, William Preston Johnston, who became a colonel in the Confederate States Army.[3] The senior Johnston resigned his commission in 1834 in order to care for his dying wife in Kentucky, who succumbed two years later to tuberculosis.[4]
 
 After serving as Secretary of War for the Republic of Texas from 1838 to 1840, Johnston resigned and returned to Kentucky. In 1843, he married Eliza Griffin, his late wife's first cousin. The couple moved to Texas, where they settled on a large plantation in Brazoria County. Johnston named the property "China Grove". Here they raised Johnston's two children from his first marriage and the first three children born to Eliza and him. (A sixth child was born later when they lived in Los Angeles).
 
@@ -30,7 +30,7 @@ On December 22, 1838, Mirabeau B. Lamar, the second president of the Republic of
 
 United States Army
 
-AlbertSJohnston.jpg at Camp Floyd, Utah Territory, winter of 1858–59.]] Johnston returned to Texas during the Mexican–American War (1846–1848), under General Zachary Taylor as a colonel of the 1st Texas Rifle Volunteers. The enlistments of his volunteers ran out just before the Battle of Monterrey. Johnston convinced a few volunteers to stay and fight as he served as the inspector general of volunteers and fought at the battles of Monterrey and Buena Vista.
+at Camp Floyd, Utah Territory, winter of 1858–59.]] Johnston returned to Texas during the Mexican–American War (1846–1848), under General Zachary Taylor as a colonel of the 1st Texas Rifle Volunteers. The enlistments of his volunteers ran out just before the Battle of Monterrey. Johnston convinced a few volunteers to stay and fight as he served as the inspector general of volunteers and fought at the battles of Monterrey and Buena Vista.
 
 He remained on his plantation after the war until he was appointed by later 12th president Zachary Taylor to the U.S. Army as a major and was made a paymaster in December 1849. He served in that role for more than five years, making six tours, and traveling more than annually on the Indian frontier of Texas. He served on the Texas frontier at Fort Mason and elsewhere in the West.
 
@@ -44,7 +44,7 @@ As a key figure in the Utah War, Johnston led U.S. troops who established a non-
 
 Civil War
 
-Albert_S._Johnston,_head_and_shoulders_portrait_(cropped).jpg At the outbreak of the American Civil War, Johnston was the commander of the U.S. Army Department of the Pacific in California. Like many regular army officers from the South, he was opposed to secession. But he resigned his commission soon after he heard of the secession of his adopted state of Texas. It was accepted by the War Department on May 6, 1861, effective May 3.[5] On April 28 he moved to Los Angeles, the home of his wife's brother John Griffin. Considering staying in California with his wife and five children, Johnston remained there until May.
+At the outbreak of the American Civil War, Johnston was the commander of the U.S. Army Department of the Pacific in California. Like many regular army officers from the South, he was opposed to secession. But he resigned his commission soon after he heard of the secession of his adopted state of Texas. It was accepted by the War Department on May 6, 1861, effective May 3.[5] On April 28 he moved to Los Angeles, the home of his wife's brother John Griffin. Considering staying in California with his wife and five children, Johnston remained there until May.
 
 Soon, under suspicion by local Union officials, he evaded arrest and joined the Los Angeles Mounted Rifles as a private, leaving Warner's Ranch May 27.[6] He participated in their trek across the southwestern deserts to Texas, crossing the Colorado River into the Confederate Territory of Arizona on July 4, 1861.
 
@@ -88,7 +88,7 @@ Johnston now planned to defeat the Union forces piecemeal before the various Uni
 
 Battle of Shiloh and death
 
-Johnston_Shiloh_Monument.jpg]] Johnston launched a massive surprise attack with his concentrated forces against Grant at the Battle of Shiloh on April 6, 1862. As the Confederate forces overran the Union camps, Johnston seemed to be everywhere, personally leading and rallying troops up and down the line on his horse. At about 2:30 pm, while leading one of those charges against a Union camp near the "Peach Orchard," he was wounded, taking a bullet behind his right knee. He apparently did not think the wound was serious at the time, or even possibly did not feel it. It is possible that Johnston's duel in 1837 had caused nerve damage or numbness to his right leg and that he did not feel the wound to his leg as a result. The bullet had in fact clipped a part of his popliteal artery and his boot was filling up with blood. There were no medical personnel on scene at the time, since Johnston had sent his personal surgeon to care for the wounded Confederate troops and Yankee prisoners earlier in the battle.[113]
+]] Johnston launched a massive surprise attack with his concentrated forces against Grant at the Battle of Shiloh on April 6, 1862. As the Confederate forces overran the Union camps, Johnston seemed to be everywhere, personally leading and rallying troops up and down the line on his horse. At about 2:30 pm, while leading one of those charges against a Union camp near the "Peach Orchard," he was wounded, taking a bullet behind his right knee. He apparently did not think the wound was serious at the time, or even possibly did not feel it. It is possible that Johnston's duel in 1837 had caused nerve damage or numbness to his right leg and that he did not feel the wound to his leg as a result. The bullet had in fact clipped a part of his popliteal artery and his boot was filling up with blood. There were no medical personnel on scene at the time, since Johnston had sent his personal surgeon to care for the wounded Confederate troops and Yankee prisoners earlier in the battle.[113]
 
 Within a few minutes, Johnston was observed by his staff to be nearly fainting. Among his staff was Isham G. Harris, the Governor of Tennessee, who had ceased to make any real effort to function as governor after learning that Abraham Lincoln had appointed Andrew Johnson as military governor of Tennessee. Seeing Johnston slumping in his saddle and his face turning deathly pale, Harris asked: "General, are you wounded?" Johnston glanced down at his leg wound, then faced Harris and replied in a weak voice his last words: "Yes... and I fear seriously." Harris and other staff officers removed Johnston from his horse and carried him to a small ravine near the "Hornets Nest" and desperately tried to aid the general who had lost consciousness by this point. Harris then sent an aide to fetch Johnston's surgeon but did not apply a tourniquet to Johnson's wounded leg. Before a doctor could be found, Johnston died from blood loss a few minutes later. It is believed that Johnston may have lived for as long as one hour after receiving his fatal wound. Ironically, it was later discovered that Johnston had a tourniquet in his pocket when he died.[114]
 
@@ -101,7 +101,7 @@ Johnston was the highest-ranking fatality of the war on either side,[118][119] a
 
 Legacy and honors
 
-Albert_Sidney_Johnston_Tomb.jpg by Elisabet Ney in the Texas State Cemetery in Austin, Texas]]
+by Elisabet Ney in the Texas State Cemetery in Austin, Texas]]
 
 Johnston was survived by his wife Eliza and six children. His wife and five younger children, including one born after he went to war, chose to live out their days at home in Los Angeles with Eliza's brother, Dr. John Strother Griffin.[121] Johnston's eldest son, Albert Sidney Jr. (born in Texas), had already followed him into the Confederate States Army. In 1863, after taking home leave in Los Angeles, Albert Jr. was on his way out of San Pedro harbor on a ferry. While a steamer was taking on passengers from the ferry, a wave swamped the smaller boat, causing its boilers to explode. Albert Jr. was killed in the accident.[122]
 

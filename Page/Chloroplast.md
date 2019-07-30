@@ -1,4 +1,4 @@
-Bryum_capillare_leaf_cells.jpg capillare'', a type of moss]]
+capillare'', a type of moss]]
 
 CHLOROPLASTS are organelles that conduct photosynthesis, where the photosynthetic pigment chlorophyll captures the energy from sunlight, converts it, and stores it in the energy-storage molecules ATP and NADPH while freeing oxygen from water in plant and algal cells. They then use the ATP and NADPH to make organic molecules from carbon dioxide in a process known as the Calvin cycle. Chloroplasts carry out a number of other functions, including fatty acid synthesis, much amino acid synthesis, and the immune response in plants. The number of chloroplasts per cell varies from one, in unicellular algae, up to 100 in plants like _Arabidopsis_ and wheat.
 
@@ -74,13 +74,13 @@ Green algal derived chloroplasts
 
 Green algae have been taken up by the euglenids, chlorarachniophytes, a lineage of dinoflagellates,[106] and possibly the ancestor of the CASH lineage (cryptomonads, alveolates, stramenopiles and haptophytes)[107] in three or four separate engulfments.[108] Many green algal derived chloroplasts contain pyrenoids, but unlike chloroplasts in their green algal ancestors, storage product collects in granules outside the chloroplast.[109]
 
-Two_Euglena.jpg'', a euglenophyte, contains secondary chloroplasts from green algae.]]
+'', a euglenophyte, contains secondary chloroplasts from green algae.]]
 
 Euglenophytes
 
 Euglenophytes are a group of common flagellated protists that contain chloroplasts derived from a green alga.[110] Euglenophyte chloroplasts have three membranes—it is thought that the membrane of the primary endosymbiont was lost, leaving the cyanobacterial membranes, and the secondary host's phagosomal membrane.[111] Euglenophyte chloroplasts have a pyrenoid and thylakoids stacked in groups of three. Photosynthetic product is stored in the form of paramylon, which is contained in membrane-bound granules in the cytoplasm of the euglenophyte.[112][113]
 
-Chlorarachnion_reptans.jpg'' is a chlorarachniophyte. Chlorarachniophytes replaced their original red algal endosymbiont with a green alga.]]
+'' is a chlorarachniophyte. Chlorarachniophytes replaced their original red algal endosymbiont with a green alga.]]
 
 Chlorarachniophytes
 
@@ -104,7 +104,7 @@ Their chloroplasts do not have phycobilisomes,[129] but they do have phycobilin 
 
 Cryptophytes may have played a key role in the spreading of red algal based chloroplasts.[132][133]
 
-Gephyrocapsa_oceanica_brighter.jpg of _Gephyrocapsa oceanica_, a haptophyte.|200px]]
+of _Gephyrocapsa oceanica_, a haptophyte.|200px]]
 
 Haptophytes
 
@@ -112,7 +112,7 @@ Haptophytes are similar and closely related to cryptophytes or heterokontophytes
 
 Heterokontophytes (stramenopiles)
 
-20110123_185042_Diatom.jpg a greenish-brown color.]] The heterokontophytes, also known as the stramenopiles, are a very large and diverse group of eukaryotes. The photoautotrophic lineage, Ochrophyta, including the diatoms and the brown algae, golden algae,[138] and yellow-green algae, also contains red algal derived chloroplasts.[139]
+a greenish-brown color.]] The heterokontophytes, also known as the stramenopiles, are a very large and diverse group of eukaryotes. The photoautotrophic lineage, Ochrophyta, including the diatoms and the brown algae, golden algae,[138] and yellow-green algae, also contains red algal derived chloroplasts.[139]
 
 Heterokont chloroplasts are very similar to haptophyte chloroplasts, containing a pyrenoid, triplet thylakoids, and with some exceptions,[140] having four layer plastidic envelope, the outermost epiplastid membrane connected to the endoplasmic reticulum. Like haptophytes, heterokontophytes store sugar in chrysolaminarin granules in the cytoplasm.[141] Heterokontophyte chloroplasts contain chlorophyll _a_ and with a few exceptions[142] chlorophyll _c_,[143] but also have carotenoids which give them their many colors.[144]
 
@@ -138,7 +138,7 @@ Most dinophyte chloroplasts are secondary red algal derived chloroplasts. Many o
 
 Most dinophyte chloroplasts contain form II RuBisCO, at least the photosynthetic pigments chlorophyll _a_, chlorophyll _c₂_, _beta_-carotene, and at least one dinophyte-unique xanthophyll (peridinin, dinoxanthin, or diadinoxanthin), giving many a golden-brown color.[163][164] All dinophytes store starch in their cytoplasm, and most have chloroplasts with thylakoids arranged in stacks of three.[165]
 
-Ceratium_furca.jpg'', a peridinin-containing dinophyte[166]]]
+'', a peridinin-containing dinophyte[166]]]
 
 The most common dinophyte chloroplast is the peridinin-type chloroplast, characterized by the carotenoid pigment peridinin in their chloroplasts, along with chlorophyll _a_ and chlorophyll _c_₂.[167][168] Peridinin is not found in any other group of chloroplasts.[169] The peridinin chloroplast is bounded by three membranes (occasionally two),[170] having lost the red algal endosymbiont's original cell membrane.[171][172] The outermost membrane is not connected to the endoplasmic reticulum.[173][174] They contain a pyrenoid, and have triplet-stacked thylakoids. Starch is found outside the chloroplast.[175] An important feature of these chloroplasts is that their chloroplast DNA is highly reduced and fragmented into many small circles. Most of the genome has migrated to the nucleus, and only critical photosynthesis-related genes remain in the chloroplast.[176]
 
@@ -146,13 +146,13 @@ The peridinin chloroplast is thought to be the dinophytes' "original" chloroplas
 
 Fucoxanthin-containing (haptophyte-derived) dinophyte chloroplasts
 
-Karenia_brevis.jpg'' is a fucoxanthin-containing dynophyte responsible for algal blooms called "red tides".[179]]]
+'' is a fucoxanthin-containing dynophyte responsible for algal blooms called "red tides".[179]]]
 
 The fucoxanthin dinophyte lineages (including _Karlodinium_ and _Karenia_)[180] lost their original red algal derived chloroplast, and replaced it with a new chloroplast derived from a haptophyte endosymbiont. _Karlodinium_ and _Karenia_ probably took up different heterokontophytes.[181] Because the haptophyte chloroplast has four membranes, tertiary endosymbiosis would be expected to create a six membraned chloroplast, adding the haptophyte's cell membrane and the dinophyte's phagosomal vacuole.[182] However, the haptophyte was heavily reduced, stripped of a few membranes and its nucleus, leaving only its chloroplast (with its original double membrane), and possibly one or two additional membranes around it.[183][184]
 
 Fucoxanthin-containing chloroplasts are characterized by having the pigment fucoxanthin (actually 19′-hexanoyloxy-fucoxanthin and/or 19′-butanoyloxy-fucoxanthin) and no peridinin. Fucoxanthin is also found in haptophyte chloroplasts, providing evidence of ancestry.[185]
 
-Dinophysis_acuminata.jpg'' has chloroplasts taken from a cryptophyte.[186]]]
+'' has chloroplasts taken from a cryptophyte.[186]]]
 
 Diatom-derived dinophyte chloroplasts
 
@@ -204,9 +204,9 @@ DNA replication
 
 The leading model of cpDNA replication
 
-CpDNA_Replication.png The mechanism for chloroplast DNA (cpDNA) replication has not been conclusively determined, but two main models have been proposed. Scientists have attempted to observe chloroplast replication via electron microscopy since the 1970s.[240][241] The results of the microscopy experiments led to the idea that chloroplast DNA replicates using a double displacement loop (D-loop). As the D-loop moves through the circular DNA, it adopts a theta intermediary form, also known as a Cairns replication intermediate, and completes replication with a rolling circle mechanism.[242][243] Transcription starts at specific points of origin. Multiple replication forks open up, allowing replication machinery to transcribe the DNA. As replication continues, the forks grow and eventually converge. The new cpDNA structures separate, creating daughter cpDNA chromosomes.
+The mechanism for chloroplast DNA (cpDNA) replication has not been conclusively determined, but two main models have been proposed. Scientists have attempted to observe chloroplast replication via electron microscopy since the 1970s.[240][241] The results of the microscopy experiments led to the idea that chloroplast DNA replicates using a double displacement loop (D-loop). As the D-loop moves through the circular DNA, it adopts a theta intermediary form, also known as a Cairns replication intermediate, and completes replication with a rolling circle mechanism.[242][243] Transcription starts at specific points of origin. Multiple replication forks open up, allowing replication machinery to transcribe the DNA. As replication continues, the forks grow and eventually converge. The new cpDNA structures separate, creating daughter cpDNA chromosomes.
 
-In addition to the early microscopy experiments, this model is also supported by the amounts of deamination seen in cpDNA.[244] Deamination occurs when an amino group is lost and is a mutation that often results in base changes. When adenine is deaminated, it becomes hypoxanthine. Hypoxanthine can bind to cytosine, and when the XC base pair is replicated, it becomes a GC (thus, an A → G base change).[245] Adenine_Deaminates_to_Guanine.png
+In addition to the early microscopy experiments, this model is also supported by the amounts of deamination seen in cpDNA.[244] Deamination occurs when an amino group is lost and is a mutation that often results in base changes. When adenine is deaminated, it becomes hypoxanthine. Hypoxanthine can bind to cytosine, and when the XC base pair is replicated, it becomes a GC (thus, an A → G base change).[245]
 
 Deamination
 
@@ -255,7 +255,7 @@ From here, chloroplast proteins bound for the stroma must pass through two prote
 
 Structure
 
-Chloroplast_in_leaf_of_Anemone_sp_TEM_12000x.png image of a chloroplast. Grana of thylakoids and their connecting lamellae are clearly visible.]]
+image of a chloroplast. Grana of thylakoids and their connecting lamellae are clearly visible.]]
 
 In land plants, chloroplasts are generally lens-shaped, 3–10 μm in diameter and 1–3 μm thick.[288][289] Corn seedling chloroplasts are ≈20 µm³ in volume.[290] Greater diversity in chloroplast shapes exists among the algae, which often contain a single chloroplast[291] that can be shaped like a net (e.g., _Oedogonium_),[292] a cup (e.g., _Chlamydomonas_),[293] a ribbon-like spiral around the edges of the cell (e.g., _Spirogyra_),[294] or slightly twisted bands at the cell edges (e.g., _Sirogonium_).[295] Some algae have two chloroplasts in each cell; they are star-shaped in _Zygnema_,[296] or may follow the shape of half the cell in order Desmidiales.[297] In some algae, the chloroplast takes up most of the cell, with pockets for the nucleus and other organelles,[298] for example, some species of _Chlorella_ have a cup-shaped chloroplast that occupies much of the cell.[299]
 
@@ -273,7 +273,7 @@ The chloroplast membranes sometimes protrude out into the cytoplasm, forming a s
 
 Intermembrane space and peptidoglycan wall
 
-Glaucocystis_sp.jpg have a peptidoglycan wall between their inner and outer chloroplast membranes.]]
+have a peptidoglycan wall between their inner and outer chloroplast membranes.]]
 
 Usually, a thin intermembrane space about 10–20 nanometers thick exists between the outer and inner chloroplast membranes.[313]
 
@@ -325,7 +325,7 @@ The chloroplasts of some hornworts[354] and algae contain structures called pyre
 
 Thylakoid system
 
-Chloroplast_in_leaf_of_Anemone_sp_TEM_85000x.png image of some thylakoids arranged in grana stacks and lamellæ. Plastoglobuli (dark blobs) are also present.]]
+image of some thylakoids arranged in grana stacks and lamellæ. Plastoglobuli (dark blobs) are also present.]]
 
 Suspended within the chloroplast stroma is the thylakoid system, a highly dynamic collection of membranous sacks called thylakoids where chlorophyll is found and the light reactions of photosynthesis happen.[360] In most vascular plant chloroplasts, the thylakoids are arranged in stacks called grana,[361] though in certain plant chloroplasts[362] and some algal chloroplasts, the thylakoids are free floating.[363]
 
@@ -352,8 +352,6 @@ The number of thylakoids and the total thylakoid area of a chloroplast is influe
 Pigments and chloroplast colors
 
 Inside the photosystems embedded in chloroplast thylakoid membranes are various photosynthetic pigments, which absorb and transfer light energy. The types of pigments found are different in various groups of chloroplasts, and are responsible for a wide variety of chloroplast colorations.
-
-Paper chromatography of some spinach leaf extract shows the various pigments present in their chloroplasts.|100px
 
 Paper chroma-tography of some spinach leaf extract shows the various pigments present in their chloroplasts.
 

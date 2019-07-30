@@ -17,7 +17,7 @@ Cyrillic script spread throughout the East Slavic and some South Slavic territor
 
 Capital and lowercase letters were not distinguished in old manuscripts.
 
-Meletius_Smotrisky_Cyrillic_Alphabet.PNG (1619)]]
+(1619)]]
 
 Yeri () was originally a ligature of Yer and I ( + = ). Iotation was indicated by ligatures formed with the letter І: (not an ancestor of modern Ya, Я, which is derived from ), , (ligature of and ), , . Sometimes different letters were used interchangeably, for example = = , as were typographical variants like = . There were also commonly used ligatures like = .
 
@@ -94,11 +94,9 @@ The development of Cyrillic typography passed directly from the medieval stage t
 
 Peter the Great, Czar of Russia, mandated the use of westernized letter forms (ru) in the early 18th century. Over time, these were largely adopted in the other languages that use the script. Thus, unlike the majority of modern Greek fonts that retained their own set of design principles for lower-case letters (such as the placement of serifs, the shapes of stroke ends, and stroke-thickness rules, although Greek capital letters do use Latin design principles), modern Cyrillic fonts are much the same as modern Latin fonts of the same font family. The development of some Cyrillic computer typefaces from Latin ones has also contributed to the visual Latinization of Cyrillic type.
 
-Cyrillic_upright-cursive-n.png Cyrillic uppercase and lowercase letter forms are not as differentiated as in Latin typography. Upright Cyrillic lowercase letters are essentially small capitals (with exceptions: Cyrillic , , , , , and adopted Western lowercase shapes, lowercase is typically designed under the influence of Latin , lowercase , and are traditional handwritten forms), although a good-quality Cyrillic typeface will still include separate small-caps glyphs.[10]
+Cyrillic uppercase and lowercase letter forms are not as differentiated as in Latin typography. Upright Cyrillic lowercase letters are essentially small capitals (with exceptions: Cyrillic , , , , , and adopted Western lowercase shapes, lowercase is typically designed under the influence of Latin , lowercase , and are traditional handwritten forms), although a good-quality Cyrillic typeface will still include separate small-caps glyphs.[10]
 
 Cyrillic fonts, as well as Latin ones, have roman and italic types (practically all popular modern fonts include parallel sets of Latin and Cyrillic letters, where many glyphs, uppercase as well as lowercase, are simply shared by both). However, the native font terminology in most Slavic languages (for example, in Russian) does not use the words "roman" and "italic" in this sense.[11] Instead, the nomenclature follows German naming patterns:
-
-Cyrillic_cursive.svg
 
 -   Roman type is called __ ("upright type")—compare with __ ("regular type") in German
 -   Italic type is called __ ("cursive") or __ ("cursive type")—from the German word __, meaning italic typefaces and not cursive writing
@@ -140,14 +138,14 @@ The first alphabet derived from Cyrillic was Abur, used for the Komi language. O
 
 Name
 
-Cyrillic_monument.jpg]] Since the script was conceived and popularised by the followers of Cyril and Methodius, rather than by Cyril and Methodius themselves, its name denotes homage rather than authorship. The name "Cyrillic" often confuses people who are not familiar with the script's history, because it does not identify a country of origin (in contrast to the "Greek alphabet"). Among the general public, it is often called "the Russian alphabet," because Russian is the most popular and influential alphabet based on the script. Some Bulgarian intellectuals, notably Stefan Tsanev, have expressed concern over this, and have suggested that the Cyrillic script be called the "Bulgarian alphabet" instead, for the sake of historical accuracy.[16]
+]] Since the script was conceived and popularised by the followers of Cyril and Methodius, rather than by Cyril and Methodius themselves, its name denotes homage rather than authorship. The name "Cyrillic" often confuses people who are not familiar with the script's history, because it does not identify a country of origin (in contrast to the "Greek alphabet"). Among the general public, it is often called "the Russian alphabet," because Russian is the most popular and influential alphabet based on the script. Some Bulgarian intellectuals, notably Stefan Tsanev, have expressed concern over this, and have suggested that the Cyrillic script be called the "Bulgarian alphabet" instead, for the sake of historical accuracy.[16]
 
 In Bulgarian, Macedonian, Russian, and Serbian, the Cyrillic alphabet is also known as _azbuka_, derived from the old names of the first two letters of most Cyrillic alphabets (just as the term _alphabet_ came from the first two Greek letters _alpha_ and _beta_).
 
 
 History
 
-Azbuka_1574_by_Ivan_Fyodorov.png in 1574. This page features the Cyrillic alphabet.]]
+in 1574. This page features the Cyrillic alphabet.]]
 
 The Cyrillic script was created in the First Bulgarian Empire.[17] Its first variant, the Early Cyrillic alphabet, was created at the Preslav Literary School. It is derived from the Greek uncial script letters, augmented by ligatures and consonants from the older Glagolitic alphabet for sounds not found in Greek. Tradition holds that Cyrillic and Glagolitic were formalized either by Saints Cyril and Methodius who brought Christianity to the southern Slavs, or by their disciples.[18][19][20][21] Paul Cubberley posits that although Cyril may have codified and expanded Glagolitic, it was his students in the First Bulgarian Empire under Tsar Simeon the Great that developed Cyrillic from the Greek letters in the 890s as a more suitable script for church books.[22] Later Cyrillic spread among other Slavic peoples, as well as among non-Slavic Vlachs.
 

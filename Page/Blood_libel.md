@@ -28,7 +28,7 @@ Professor Israel Jacob Yuval of the Hebrew University of Jerusalem published an 
 
 Origins in England
 
-Death_of_William_of_Norwich.jpg in Holy Trinity church, Loddon, Norfolk ]]
+in Holy Trinity church, Loddon, Norfolk ]]
 
 In England in 1144, the Jews of Norwich were falsely accused of ritual murder after a boy, William of Norwich, was found dead with stab wounds in the woods. William's hagiographer, Thomas of Monmouth, falsely claimed that every year there is an international council of Jews at which they choose the country in which a child will be killed during Easter, because of a Jewish prophecy that states that the killing of a Christian child each year will ensure that the Jews will be restored to the Holy Land. In 1144, England was chosen, and the leaders of the Jewish community delegated the Jews of Norwich to perform the killing. They then abducted and crucified William.[25] The legend was turned into a cult, with William acquiring the status of a martyr and pilgrims bringing offerings to the local church.[26]
 
@@ -40,7 +40,7 @@ The eight-year-old Hugh disappeared at Lincoln on 31 July 1255. His body was pro
 
 Continental Europe
 
-Ritualmord-Legende.jpg blood libel. Illustration in Hartmann Schedel's Weltchronik, 1493]]
+blood libel. Illustration in Hartmann Schedel's Weltchronik, 1493]]
 
 Much like the blood libel of England, the history of blood libel in continental Europe consists of unsubstantiated claims made about the corpses of Christian children. There were frequently associated supernatural events speculated about these discoveries and corpses, events which were often attributed by contemporaries to miracles. Also, just as in England, these accusations in continental Europe typically resulted in the execution of numerous Jews — sometimes even all, or close to all, the Jews in one town. These accusations and their effects also, in some cases, led to royal interference on behalf of the Jews.
 
@@ -52,7 +52,7 @@ Thomas added that the Jews had misunderstood the words of their prophet, who by 
 
 The first known case outside England was in Blois, France, in 1171. This was the site of a blood libel accusation against the town's entire Jewish community that led to around 31–33 Jews (with 17 women making up this total[33])[34][35] being burned to death.[36][37] on 29 May of that year, or the 20th of Sivan of 4931.[38] The blood libel revolved around R. Isaac, a Jew whom a Christian servant reported had deposited a murdered Christian in the Loire.[39] The child's body was never found. The count had the about 40 adult Blois Jews arrested and they were eventually to be burned. The surviving members of the Blois Jewish community, as well as surviving holy texts, were ransomed. As a result of this case, the Jews garnered new promises from the king. The burned bodies of the sentenced Jews were supposedly maintained unblemished through the burning, a claim which is a well-known miracle, martyr myth for both Jews and Christians.[40] There is significant primary source material from this case including a letter revealing moves for Jewish protection with King Louis VII.[41] Responding to the mass execution, the 20th of Sivan was declared a fast day by Rabbenu Tam.[42] In this case in Blois, there was not yet the myth proclaimed that Jews needed the blood of Christians.[43]
 
-Werner-vom-Oberwesel.jpg At Pforzheim, Baden, in 1267, a woman supposedly sold said girl over to Jews who, according to the myth, then cut her open and dumped her in the Enz River, where boatmen found her. She apparently cried for vengeance, and then died. The body apparently bled as the suspected Jews were brought to it. The woman and the reportedly involved Jews confessed and were then subsequently killed.[44] That a judicial murder was then and there committed against the Jews in consequence of the accusation is evident from the manner in which the Nuremberg "Memorbuch" and the synagogal poems refer to the incident (Siegmund Salfeld, _Das Martyrologium des Nürnberger Memorbuches_ (1898), pp. 15, 128–130).
+At Pforzheim, Baden, in 1267, a woman supposedly sold said girl over to Jews who, according to the myth, then cut her open and dumped her in the Enz River, where boatmen found her. She apparently cried for vengeance, and then died. The body apparently bled as the suspected Jews were brought to it. The woman and the reportedly involved Jews confessed and were then subsequently killed.[44] That a judicial murder was then and there committed against the Jews in consequence of the accusation is evident from the manner in which the Nuremberg "Memorbuch" and the synagogal poems refer to the incident (Siegmund Salfeld, _Das Martyrologium des Nürnberger Memorbuches_ (1898), pp. 15, 128–130).
 
 In 1270, at Weissenburg, of Alsace,[45] a supposed miracle alone decided the charge against the Jews. A child's body had shown up in the Lauter River. Supposedly, Jews cut into the child to acquire his blood and the child apparently continued bleeding for five days.[46]
 
@@ -64,7 +64,7 @@ There have been several explanations put forth as to why these blood libel accus
 
 Renaissance and Baroque
 
-Judensau_Frankfurt.jpg"]]
+"]]
 
 Simon of Trent, aged two, disappeared, and his father alleged that he had been kidnapped and murdered by the local Jewish community. Fifteen local Jews were sentenced to death and burned. Simon was regarded locally as a saint, although he was never canonised by the church of Rome. His local status as a saint was removed in 1965 by Pope Paul VI.
 
@@ -74,7 +74,7 @@ In a case at Tyrnau (Nagyszombat, today Trnava, Slovakia), the absurdity, even t
 
 At Bösing (Bazin, today Pezinok, Slovakia), it was charged that a nine-year-old boy had been bled to death, suffering cruel torture; thirty Jews confessed to the crime and were publicly burned. The true facts of the case were disclosed later, when the child was found alive in Vienna. He had been taken there by the accuser, Count Wolf of Bazin, as a means of ridding himself of his Jewish creditors at Bazin.
 
-Antisemitic-church-fresco.jpg in St Paul's Church in Sandomierz, Poland, depicting blood libel]]
+in St Paul's Church in Sandomierz, Poland, depicting blood libel]]
 
 In Rinn, near Innsbruck, a boy named Andreas Oxner (also known as Anderl von Rinn) was said to have been bought by Jewish merchants and cruelly murdered by them in a forest near the city, his blood being carefully collected in vessels. The accusation of drawing off the blood (without murder) was not made until the beginning of the 17th century, when the cult was founded. The older inscription in the church of Rinn, dating from 1575, is distorted by fabulous embellishments for example, that the money paid for the boy to his godfather turned into leaves, and that a lily blossomed upon his grave. The cult continued until officially prohibited in 1994, by the Bishop of Innsbruck.[59]
 
@@ -97,7 +97,7 @@ One of the child-saints in the Russian Orthodox Church is the six-year-old boy G
 -   The 1903 Kishinev pogrom, an anti-Jewish revolt, started when an anti-Semitic newspaper wrote that a Christian Russian boy, Mikhail Rybachenko, was found murdered in the town of Dubossary, alleging that the Jews killed him in order to use the blood in preparation of matzo. Around 49 Jews were killed and hundreds were wounded, with over 700 houses being looted and destroyed.
 -   In the 1910 Shiraz blood libel, the Jews of Shiraz, Iran, were falsely accused of murdering a Muslim girl. The entire Jewish quarter was pillaged; the pogrom left 12 Jews dead and about 50 injured.
 
-1910s_antisemitic_flier_Andrei_Yushchinsky.jpg, 1915: "Christians, take care of your children!!! It will be Jewish Passover on 17 March."]]
+, 1915: "Christians, take care of your children!!! It will be Jewish Passover on 17 March."]]
 
 -   In Kiev, a Jewish factory manager, Menahem Mendel Beilis, was accused of murdering Andrei Yushchinsky, a Christian child, and using his blood in matzos. He was acquitted by an all-Christian jury after a sensational trial in 1913.[70]
 -   In 1928, the Jews of Massena, New York, were falsely accused of kidnapping and killing a Christian girl in the Massena blood libel.
@@ -109,8 +109,6 @@ One of the child-saints in the Russian Orthodox Church is the six-year-old boy G
 -   _The Matzah Of Zion_ was written by the Syrian Defense Minister, Mustafa Tlass in 1986. The book concentrates on two issues: renewed ritual murder accusations against the Jews in the Damascus affair of 1840, and _The Protocols of the Elders of Zion_.[73] The book was cited at a United Nations conference in 1991 by a Syrian delegate. On 21 October 2002, the London-based Arabic paper _Al-Hayat_ reported that the book _The Matzah of Zion_ was undergoing its eighth reprinting and was being translated into English, French and Italian. Egyptian filmmaker Munir Radhi has announced plans to adapt the book into a film.[74]
 -   In 2003, a private Syrian film company created a 29-part television series _Ash-Shatat_ ("The Diaspora"). This series originally aired in Lebanon in late 2003 and it was subsequently broadcast by _Al-Manar_, a satellite television network owned by Hezbollah. This TV series, based on the antisemitic forgery _The Protocols of the Learned Elders of Zion_, shows the Jewish people engaging in a conspiracy to rule the world, and it also presents Jews as people who murder the children of Christians, drain their blood and use this blood to bake matzah.
 -   In early January 2005, some 20 members of the Russian State Duma publicly made a blood libel accusation against the Jewish people. They approached the Prosecutor General's Office and demanded that Russia "ban all Jewish organizations." They accused all Jewish groups of being extremist, "anti-Christian and inhumane, and even accused them of practices that include ritual murders." Alluding to previous antisemitic Russian court decrees that accused the Jews of ritual murder, they wrote that "Many facts of such religious extremism were proven in courts." The accusation included traditional antisemitic canards, such as "the whole democratic world today is under the financial and political control of international Jewry. And we do not want our Russia to be among such unfree countries". This demand was published as an open letter to the prosecutor general, in _Rus Pravoslavnaya_ (, "Orthodox Russia"), a national-conservative newspaper. This group consisted of members of the ultra-nationalist Liberal Democrats, the Communist faction, and the nationalist Motherland party, with some 500 supporters. The mentioned document is known as "The Letter of Five Hundred" ("Письмо пятисот").[75][76] Their supporters included editors of nationalist newspapers as well as journalists. By the end of the month, this group was strongly criticized, and it retracted its demand in response.
-
-Painting of blood libel in Sandomierz Cathedral
 
 -   At the end of April 2005, five boys, ages 9 to 12, in Krasnoyarsk (Russia) disappeared. In May 2005, their burnt bodies were found in the city sewage. The crime was not disclosed, and in August 2007 the investigation was extended until 18 November 2007.[77] Some Russian nationalist groups claimed that the children were murdered by a Jewish sect with a ritual purpose.[78][79] Nationalist M. Nazarov, one of the authors of "The Letter of Five Hundred" alleges "the existence of a 'Hasidic sect', whose members kill children before Passover to collect their blood", using the Beilis case mentioned above as evidence. M.Nazarov also alleges that "the ritual murder requires throwing the body away rather than its concealing". "The Union of the Russian People" demanded officials thoroughly investigate the Jews, not stopping at the search in synagogues, Matzah bakeries and their offices.[80]
 -   During a speech in 2007, Raed Salah, the leader of the northern branch of the Islamic Movement in Israel, referred to Jews in Europe having in the past used children's blood to bake holy bread. "We have never allowed ourselves to knead [the dough for] the bread that breaks the fast in the holy month of Ramadan with children's blood", he said. "Whoever wants a more thorough explanation, let him ask what used to happen to some children in Europe, whose blood was mixed in with the dough of the [Jewish] holy bread."[81]

@@ -9,7 +9,7 @@ On average, homeschoolers score at or above the national average on standardized
 
 History
 
-Fireside_Education_frontispiece.jpg]]
+]]
 
 For most of history and in different cultures, the education of children at home by family members was a common practice. Enlisting professional tutors was an option available only to the wealthy. Homeschooling declined in the 19th and 20th centuries with the enactment of compulsory attendance laws. However, it continued to be practiced in isolated communities. Homeschooling began a resurgence in the 1960s and 1970s with educational reformists dissatisfied with industrialized education.[10]
 
@@ -43,8 +43,6 @@ One common theme in the homeschool philosophies of both Holt and that of the Moo
 
 
 Motivations
-
-Motivations_regarded_most_important_for_homeschooling.png
 
 Parents commonly cite two main motivations for homeschooling their children: dissatisfaction with the local schools and the interest in increased involvement with their children's learning and development. Parental dissatisfaction with available schools typically includes concerns about the school environment, the quality of academic instruction, the curriculum, bullying, racism and lack of faith in the school's ability to cater to their children's special needs.[29] Some parents homeschool in order to have greater control over what and how their children are taught, to cater more adequately to an individual child's aptitudes and abilities, to provide instruction from a specific religious or moral position, and to take advantage of the efficiency of one-to-one instruction and thus allow the child to spend more time on childhood activities, socializing, and non-academic learning.
 

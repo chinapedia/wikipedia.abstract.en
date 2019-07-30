@@ -149,7 +149,7 @@ Types
 
 Selective serotonin reuptake inhibitors
 
-Prozac.jpg of Prozac (fluoxetine), a selective serotonin reuptake inhibitor]]
+of Prozac (fluoxetine), a selective serotonin reuptake inhibitor]]
 
 Selective serotonin reuptake inhibitors (SSRIs) are believed to increase the extracellular level of the neurotransmitter serotonin by limiting its reabsorption into the presynaptic cell, increasing the level of serotonin in the synaptic cleft available to bind to the postsynaptic receptor. They have varying degrees of selectivity for the other monoamine transporters, with pure SSRIs having only weak affinity for the norepinephrine and dopamine transporters.
 
@@ -157,7 +157,7 @@ SSRIs are the most widely prescribed antidepressants in many countries.[130] The
 
 Serotonin–norepinephrine reuptake inhibitors
 
-Venlafaxine-3D-balls.png (Effexor), an SNRI]]
+(Effexor), an SNRI]]
 
 Serotonin–norepinephrine reuptake inhibitors (SNRIs) are potent inhibitors of the reuptake of serotonin and norepinephrine. These neurotransmitters are known to play an important role in mood. SNRIs can be contrasted with the more widely used selective serotonin reuptake inhibitors (SSRIs), which act mostly upon serotonin alone.
 
@@ -236,7 +236,7 @@ Psychopharmacologists have also tried adding a stimulant, in particular, d-amphe
 
 History
 
-Saint_John's_wort_flowers.jpg]]
+]]
 
 Before the 1950s, opioids and amphetamines were commonly used as antidepressants.[175][176] Their use was later restricted due to their addictive nature and side effects.[177] Extracts from the herb St John's wort have been used as a "nerve tonic" to alleviate depression.[178]
 
@@ -275,7 +275,7 @@ In the United States, antidepressants were the most commonly prescribed medicati
 
 In the UK, figures reported in 2010 indicated that the number of antidepressant prescribed by the National Health Service (NHS) almost doubled over a decade.[204] Further analysis published in 2014 showed that number of antidepressants dispensed annually in the community went up by 25 million in the 14 years between 1998 and 2012, rising from 15 million to 40 million. Nearly 50% of this rise occurred in the four years after the 2008 banking crash, during which time the annual increase in prescriptions rose from 6.7% to 8.5%.[205] These sources also suggest that aside from the recession, other factors that may influence changes in prescribing rates may include: improvements in diagnosis, a reduction of the stigma surrounding mental health, broader prescribing trends, GP characteristics, geographical location and housing status. Another factor that may contribute to increasing consumption of antidepressants is the fact that these medications now are used for other conditions including social anxiety and post traumatic stress.
 
-Sertraline2DACS2.svg]]
+]]
 
 UNITED STATES: The most commonly prescribed antidepressants in the US retail market in 2010 were:[206]
 

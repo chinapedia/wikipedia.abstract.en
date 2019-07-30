@@ -6,7 +6,7 @@ The island was named _La Española_ and claimed by Spain, which ruled until the 
 
 In the midst of the French Revolution (1789–99), slaves and free people of color revolted in the Haitian Revolution (1791–1804), culminating in the abolition of slavery and the defeat of Napoleon Bonaparte's army at the Battle of Vertières. Afterward the sovereign state of Haiti was established on 1 January 1804—the first independent nation of Latin America and the Caribbean, the second republic in the Americas, and the only nation in the world established as a result of a successful slave revolt.[9][10] The rebellion that began in 1791 was led by a former slave and the first black general of the French Army, Toussaint Louverture, whose military genius and political acumen transformed an entire society of slaves into an independent country. Upon his death in a prison in France, he was succeeded by his lieutenant, Jean-Jacques Dessalines, who declared Haiti's sovereignty and later became the first Emperor of Haiti, Jacques I.[11][12][13][14] The Haitian Revolution lasted just over a dozen years; and apart from Alexandre Pétion, the first President of the Republic, all the first leaders of the new government were former slaves.[15] The Citadelle Laferrière is the largest fortress in the Americas. Henri Christophe—former slave and first king of Haiti, Henri I—built it to withstand a possible foreign attack.[16][17]
 
-It is a founding member of the United Nations, Organization of American States (OAS),[18] Association of Caribbean States,[19] and the International Francophonie Organisation. In addition to CARICOM, it is a member of the International Monetary Fund,[20] World Trade Organization,[21] and the Community of Latin American and Caribbean States. It has the lowest Human Development Index in the Americas. Most recently, in February 2004, a _coup d'état_ originating in the north of the country forced the resignation and exile of President Jean-Bertrand Aristide. A provisional government took control with security provided by the United Nations Stabilization Mission in Haiti (MINUSTAH). Antilhas_-_Periòde_coloniau_vèrs_1790.png in 1790.]]
+It is a founding member of the United Nations, Organization of American States (OAS),[18] Association of Caribbean States,[19] and the International Francophonie Organisation. In addition to CARICOM, it is a member of the International Monetary Fund,[20] World Trade Organization,[21] and the Community of Latin American and Caribbean States. It has the lowest Human Development Index in the Americas. Most recently, in February 2004, a _coup d'état_ originating in the north of the country forced the resignation and exile of President Jean-Bertrand Aristide. A provisional government took control with security provided by the United Nations Stabilization Mission in Haiti (MINUSTAH). in 1790.]]
 
 
 Etymology
@@ -22,7 +22,7 @@ History
 
 Pre-Columbian history
 
-Copia_de_Cacicazgos_de_la_Hispaniola.pngdoms of Hispaniola at the time of the arrival of Christopher Columbus]]
+doms of Hispaniola at the time of the arrival of Christopher Columbus]]
 
 At the time of European conquest, the island of Hispaniola, of which Haiti occupies the western three-eighths,[28][29] was one of many Caribbean islands inhabited by the Taíno Native Americans, speakers of an Arawakan language called Taino, which has been preserved in the Haitian Creole language. The Taíno name for the entire island was _Haiti_. The people had migrated over centuries into the Caribbean islands from South America. Genetic studies show they were related to the Yanomami of the Amazon Basin. They also originated in Central and South America. After migrating to Caribbean islands, in the 15th century, the Taíno were pushed into the northeast Caribbean islands by the Caribs.[30]
 
@@ -32,7 +32,7 @@ Taíno cultural artifacts include cave paintings in several locations in the cou
 
 Spanish rule (1492–1625)
 
-Columbus_landing_on_Hispaniola_adj.jpg Piktograf1.png telling a story of missionaries arriving in Hispaniola ]] Navigator Christopher Columbus landed in Haiti on 5 December 1492, in an area that he named _Môle-Saint-Nicolas,_[34] and claimed the island for the Crown of Castile. Nineteen days later, his ship the _Santa María_ ran aground near the present site of Cap-Haïtien. Columbus left 39 men on the island, who founded the settlement of La Navidad.
+telling a story of missionaries arriving in Hispaniola ]] Navigator Christopher Columbus landed in Haiti on 5 December 1492, in an area that he named _Môle-Saint-Nicolas,_[34] and claimed the island for the Crown of Castile. Nineteen days later, his ship the _Santa María_ ran aground near the present site of Cap-Haïtien. Columbus left 39 men on the island, who founded the settlement of La Navidad.
 
 The sailors carried endemic Eurasian infectious diseases. The natives lacked immunity to these new diseases and died in great numbers in epidemics.[35][36] The first recorded smallpox epidemic in the Americas erupted on Hispaniola in 1507.[37] The __ system forced natives to work in gold mines and plantations.[38]
 
@@ -50,11 +50,11 @@ The French-enacted _Code Noir_ ("Black Code"), prepared by Jean-Baptiste Colbert
 
 As in its Louisiana colony, the French colonial government allowed some rights to free people of color: the mixed-race descendants of European male colonists and African female slaves (and later, mixed-race women). Over time, many were released from slavery. They established a separate social class. White French Creole fathers frequently sent their mixed-race sons to France for their education. Some men of color were admitted into the military. More of the free people of color lived in the south of the island, near Port-au-Prince, and many intermarried within their community. They frequently worked as artisans and tradesmen, and began to own some property. Some became slave holders. The free people of color petitioned the colonial government to expand their rights.
 
-Fire_in_Saint-Domingo_1791,_German_copper_engraving.jpg in 1791]] Slaves that made it to Haiti from the trans-Atlantic journey and slaves born in Haiti were first documented in Haiti's archives and transferred to France's Ministry of Defense and the Ministry of Foreign Affairs. , these records are in The National Archives of France. According to the 1788 Census, Haiti's population consisted of nearly 25,000 Europeans, 22,000 free coloreds and 700,000 African slaves.[47]
+in 1791]] Slaves that made it to Haiti from the trans-Atlantic journey and slaves born in Haiti were first documented in Haiti's archives and transferred to France's Ministry of Defense and the Ministry of Foreign Affairs. , these records are in The National Archives of France. According to the 1788 Census, Haiti's population consisted of nearly 25,000 Europeans, 22,000 free coloreds and 700,000 African slaves.[47]
 
 Haitian Revolution (1791–1804)
 
-Haitian_Revolution_-_Blacks_murdering_white_civilians.gif, i.e. the French, in a massacre that effectively eliminated the white population of Haiti]] Général_Toussaint_Louverture.jpg]] Inspired by the French Revolution of 1789 and principles of the rights of man, free people of color and slaves in Saint-Domingue and the French West Indies pressed for freedom and more civil rights. Most important was the revolution of the slaves in Saint-Domingue, starting in the northern plains in 1791, where Africans greatly outnumbered the whites.
+, i.e. the French, in a massacre that effectively eliminated the white population of Haiti]] ]] Inspired by the French Revolution of 1789 and principles of the rights of man, free people of color and slaves in Saint-Domingue and the French West Indies pressed for freedom and more civil rights. Most important was the revolution of the slaves in Saint-Domingue, starting in the northern plains in 1791, where Africans greatly outnumbered the whites.
 
 In 1792, the French government sent three commissioners with troops to re-establish control. To build an alliance with the _gens de couleur_ and slaves, the French commissioners Sonthonax and Polverel abolished slavery in the colony. Six months later, the National Convention, led by Robespierre and the Jacobins, endorsed abolition and extended it to all the French colonies.[48]
 
@@ -62,13 +62,13 @@ Political leaders in the United States, which was a new republic itself, reacted
 
 Toussaint Louverture, a former slave and leader in the slave revolt, drove out the Spanish (from Santo Domingo) and the British invaders who threatened the colony. In the uncertain years of revolution, the United States played both sides off against each other, with its traders supplying both the French and the rebels.[50] The struggle within Haiti between the free people of color led by André Rigaud and the Haitians of African ancestry led by Louverture devolved into the War of the Knives in 1799 and 1800.[51][52] Many surviving free people of color left the island as refugees.
 
-Battle_for_Palm_Tree_Hill.jpg in French service and the Haitian rebels ]] After Louverture created a separatist constitution, Napoléon Bonaparte in 1802 sent an expedition of 20,000 soldiers and as many sailors[53] under the command of his brother-in-law, General Charles Leclerc, to retake the island. The French achieved some victories, but within a few months, most of the French had died from yellow fever.[54] More than 50,000 French troops died in an attempt to retake the colony, including 18 generals.[55] The French captured Louverture, transporting him to France for trial. He was imprisoned at Fort de Joux, where he died in 1803 of exposure and possibly tuberculosis.[56]
+in French service and the Haitian rebels ]] After Louverture created a separatist constitution, Napoléon Bonaparte in 1802 sent an expedition of 20,000 soldiers and as many sailors[53] under the command of his brother-in-law, General Charles Leclerc, to retake the island. The French achieved some victories, but within a few months, most of the French had died from yellow fever.[54] More than 50,000 French troops died in an attempt to retake the colony, including 18 generals.[55] The French captured Louverture, transporting him to France for trial. He was imprisoned at Fort de Joux, where he died in 1803 of exposure and possibly tuberculosis.[56]
 
 The slaves, along with free _gens de couleur_ and allies, continued their fight for independence. Jean-Jacques Dessalines defeated French troops at the Battle of Vertières on 18 November 1803, leading the first ever nation to successfully gain independence through a slave revolt.[57] In late 1803, France withdrew its remaining 7,000 troops from the island and Napoleon gave up his idea of re-establishing a North American empire. With the war going badly, he sold Louisiana (New France) to the United States, in the Louisiana Purchase.
 
 First Empire (1804–1806)
 
-Le_serment_des_Ancêtres.jpg ]]
+]]
 
 The independence of Saint-Domingue was proclaimed by Dessalines on 1 January 1804.[58] It has been estimated that between 24,000 and 100,000 Europeans, and between 100,000 and 350,000 Haitian ex-slaves, died in the revolution.[59] Tropical disease was a major factor in the number of deaths. Many black and Caribbean people died fighting for white masters; and a large number of British and Spanish soldiers, deployed to neighbouring Saint-Domingue, died aiding the rebels.
 
@@ -82,13 +82,13 @@ The revolution led to a wave of emigration.[67] In 1809, nearly 10,000 refugees 
 
 State of Haiti, Kingdom of Haiti and the Republic (1806–1820)
 
-Citadelle_Laferrière_Aerial_View.jpg is the largest fortress in the Americas, and is considered locally to be the eighth wonder of the world.[70]]] Saint-Domingue was divided between the Kingdom of Haiti in the north, directed by Henri Christophe, who declared himself Henri I, and a republic in the south, directed by Alexandre Pétion, an _homme de couleur_. Henri Christophe established a semi-feudal corvée system, with a rigid education and economic code.[71]
+is the largest fortress in the Americas, and is considered locally to be the eighth wonder of the world.[70]]] Saint-Domingue was divided between the Kingdom of Haiti in the north, directed by Henri Christophe, who declared himself Henri I, and a republic in the south, directed by Alexandre Pétion, an _homme de couleur_. Henri Christophe established a semi-feudal corvée system, with a rigid education and economic code.[71]
 
 President Pétion gave military and financial assistance to the revolutionary leader Simón Bolívar, which were critical in enabling him to liberate the Viceroyalty of New Granada.[72] He was instrumental in aiding countries in South America achieve independence from Spain.
 
 Haitian invasion of Santo Domingo (1821–1844)
 
-President_Jean-Pierre_Boyer_of_Haiti_(Hispaniola_Unification_Regime)_Portrait.jpg, the mulatto ruler of Haiti]] Beginning in 1821, President Jean-Pierre Boyer, also an _homme de couleur_ and successor to Pétion, reunified the island and extended control over the entire western portion of the island.[73] In addition, after Santo Domingo declared its independence from Spain on 30 November 1821, Boyer sent forces in to take control. Boyer ruled the entire island and ended slavery in Santo Domingo.[74] After Santo Domingo achieved independence from Haiti, it established a separate national identity.
+, the mulatto ruler of Haiti]] Beginning in 1821, President Jean-Pierre Boyer, also an _homme de couleur_ and successor to Pétion, reunified the island and extended control over the entire western portion of the island.[73] In addition, after Santo Domingo declared its independence from Spain on 30 November 1821, Boyer sent forces in to take control. Boyer ruled the entire island and ended slavery in Santo Domingo.[74] After Santo Domingo achieved independence from Haiti, it established a separate national identity.
 
 Struggling to revive the agricultural economy to produce commodity crops, Boyer passed the Code Rural, which denied peasant laborers the right to leave the land, enter the towns, or start farms or shops of their own. Following the Revolution, many peasants wanted to have their own farms rather than work on plantations.[75][76]
 
@@ -112,7 +112,7 @@ On 1 January 1846 Pierrot announced a fresh campaign to put down the Dominicans,
 
 Second Empire (1849–1859)
 
-Faustin_I.jpg'', 16 February 1856]] On 27 February 1846, President Riché died after only a few days of power and was replaced by an obscure officer, General Faustin Soulouque. During the first two years of Soulouque's administration the conspiracies and opposition he faced in retaining power were so manifold that the Dominicans were given a further breathing space in which to continue the re-organization of their country.[92] But, when in 1848 France finally recognized the Dominican Republic as a free and independent state and provisionally signed a treaty of peace, friendship, commerce and navigation, Haiti immediately protested, claiming the treaty was an attack upon their own security.[93] Soulouque decided to invade the east before the French Government could ratify the treaty.[94]
+'', 16 February 1856]] On 27 February 1846, President Riché died after only a few days of power and was replaced by an obscure officer, General Faustin Soulouque. During the first two years of Soulouque's administration the conspiracies and opposition he faced in retaining power were so manifold that the Dominicans were given a further breathing space in which to continue the re-organization of their country.[92] But, when in 1848 France finally recognized the Dominican Republic as a free and independent state and provisionally signed a treaty of peace, friendship, commerce and navigation, Haiti immediately protested, claiming the treaty was an attack upon their own security.[93] Soulouque decided to invade the east before the French Government could ratify the treaty.[94]
 
 On 21 March 1849, Haitian soldiers attacked the Dominican garrison at Las Matas. The demoralized defenders offered almost no resistance before abandoning their weapons. Soulouque pressed on, capturing San Juan. This left only the town of Azua as the remaining Dominican stronghold between the Haitian army and the capital. On 6 April, Azua fell to 18,000 Haitians and a 5,000-man Dominican counterattack failed.[95] The way to Santo Domingo was clear. But the news of discontent existing at Port-au-Prince, which reached Soulouque, arrested his further progress and caused him to return with the army to his capital.[96]
 
@@ -122,7 +122,7 @@ The sufferings endured by the soldiers during the campaign of 1855, the losses a
 
 Early 20th century
 
-Luders_Affair,_Germany,_Haiti.jpg U.S._Marines_and_guide_in_search_of_bandits._Haiti,_circa_1919.,_1927_-_1981_-_NARA_-_532584.tif fighters against the U.S. occupation of Haiti, ]] In 1892, the German government supported suppression of the reform movement of Anténor Firmin, and in 1897, the Germans used gunboat diplomacy to intimidate and then humiliate the Haitian government during the Luders Affair.
+fighters against the U.S. occupation of Haiti, ]] In 1892, the German government supported suppression of the reform movement of Anténor Firmin, and in 1897, the Germans used gunboat diplomacy to intimidate and then humiliate the Haitian government during the Luders Affair.
 
 In the first decades of the 20th century, Haiti experienced great political instability and was heavily in debt to France, Germany and the United States. Fearing possible foreign intervention, President Woodrow Wilson sent U.S. Marines into Haiti in December 1914, just after the outbreak of World War I. They removed $500,000 from the Haitian National Bank, but rather than seize it to help pay the debt, it was removed for safe-keeping in New York, thus giving the United States control of the bank and preventing other powers from doing so. This gave a stable financial base on which to build the economy, and so enable the debt to be repaid.[102]
 
@@ -148,7 +148,7 @@ The waterfront area of Port-au-Prince was redeveloped to allow cruise ship passe
 
 Duvalier dynasty (1957–86)
 
-Duvalier_crop2.jpg in 1968]] After a period of disorder, in September 1957 Dr. François Duvalier was elected President of Haiti. Known as "Papa Doc" and initially popular, Duvalier was President until his death in 1971. He advanced black interests in the public sector, where over time, people of color had predominated as the educated urban elite.[122] He stayed in power by enlisting an organization known as _Tontons Macoutes_ ("Bogeymen"), which maintained order by terrorizing the populace and political opponents.[123] 40,000 to 60,000 Haitians are estimated to have been killed during the reign of the Duvalier father and son.[124]
+in 1968]] After a period of disorder, in September 1957 Dr. François Duvalier was elected President of Haiti. Known as "Papa Doc" and initially popular, Duvalier was President until his death in 1971. He advanced black interests in the public sector, where over time, people of color had predominated as the educated urban elite.[122] He stayed in power by enlisting an organization known as _Tontons Macoutes_ ("Bogeymen"), which maintained order by terrorizing the populace and political opponents.[123] 40,000 to 60,000 Haitians are estimated to have been killed during the reign of the Duvalier father and son.[124]
 
 Haiti's brief tourism boom was wiped out by the rule of Papa Doc Duvalier and his unstable government. When his son Jean-Claude "Baby Doc" Duvalier succeeded him as _President for Life_, tourism returned in the 1970s.[125] _Vive la différence_ has long been Haiti's national tourism slogan[126] and its proximity to the United States made Haiti a hot attraction until the Duvalier regime was ousted in 1986.[127]
 
@@ -156,7 +156,7 @@ Contemporary history
 
 Papa Doc's son led the country from 1971 until his ouster in 1986, when protests led him to seek exile in France. Army leader General Henri Namphy headed a new National Governing Council.[128] General elections in November were aborted after dozens of inhabitants were shot in the capital by soldiers and Tontons Macoutes. Fraudulent elections followed. The elected President, Leslie Manigat, was overthrown some months later in the June 1988 Haitian coup d'état. The September 1988 Haitian coup d'état, which followed the St. Jean Bosco massacre, revealed the increasing prominence of former Tontons Macoutes. General Prosper Avril led a military regime until March 1990.
 
-Port-au-Prince_airfield_seizure.jpg in 1994 designed to remove the regime installed by the 1991 Haitian coup d'état]]
+in 1994 designed to remove the regime installed by the 1991 Haitian coup d'état]]
 
 In December 1990, a former Catholic priest, Jean-Bertrand Aristide, was elected President in the Haitian general election. In September of the following year, Aristide was overthrown by the military in the 1991 Haitian coup d'état.
 
@@ -170,7 +170,7 @@ In 2004, a revolt began in northern Haiti. The rebellion eventually reached the 
 
 In 2004, Tropical Storm Jeanne skimmed the north coast of Haiti, leaving 3,006 people dead in flooding and mudslides, mostly in the city of Gonaïves.[137] In 2008, Haiti was again struck by tropical storms; Tropical Storm Fay, Hurricane Gustav, Hurricane Hanna and Hurricane Ike all produced heavy winds and rain. There were 331 dead and about 800,000 in need of humanitarian aid.[138] The state of affairs produced by these storms was intensified by already high food and fuel prices that had caused a food crisis and political unrest in April 2008.[139]
 
-Haitian_national_palace_earthquake.jpg destroyed following the 2010 earthquake.]]
+destroyed following the 2010 earthquake.]]
 
 On 12 January 2010, at 4:53pm local time, Haiti was struck by a magnitude-7.0 earthquake. This was the country's most severe earthquake in over 200 years.[140] The 2010 Haiti earthquake was reported to have left between 220,000 and 300,000 people dead and up to 1.6 million homeless.[141] [142] The country has yet to recover from the 2010 earthquake and a subsequent and massive Haiti cholera outbreak that was triggered when cholera-infected waste from a United Nations peacekeeping station contaminated the country's main river, the Artibonite.[143][144] In 2017, it was reported that roughly 10,000 Haitians had died and nearly a million had been sickened. After years of denial the United Nations apologized in 2016, but , they have refused to acknowledge fault, thus avoiding financial responsibility.[145]
 
@@ -207,8 +207,6 @@ Port-au-Prince receives an average annual rainfall of . There are two rainy seas
 
 Geology
 
-Haiti_relief_location_map.jpg
-
 There are blind thrust faults associated with the Enriquillo-Plantain Garden fault system over which Haiti lies.[155] After the earthquake of 2010, there was no evidence of surface rupture and geologists' findings were based on seismological, geological and ground deformation data.[156]
 
 The northern boundary of the fault is where the Caribbean tectonic plate shifts eastwards by about per year in relation to the North American plate. The strike-slip fault system in the region has two branches in Haiti, the Septentrional-Oriente fault in the north and the Enriquillo-Plantain Garden fault in the south.
@@ -219,7 +217,7 @@ Haiti also has rare elements such as gold, which can be found at The Mont Organi
 
 Environment
 
-Haiti_deforestation.jpg in 2002 (left) shows the amount of deforestation on the Haitian side.]]
+in 2002 (left) shows the amount of deforestation on the Haitian side.]]
 
 The soil erosion released from the upper catchments and deforestation have caused periodic and severe flooding in Haiti, as experienced, for example, on 17 September 2004. Earlier in May that year, floods had killed over 3,000 people on Haiti's southern border with the Dominican Republic.[161]
 
@@ -288,8 +286,6 @@ Administrative divisions
 
 Administratively, Haiti is divided into ten departments. The departments are listed below, with the departmental capital cities in parentheses.
 
-Haiti,_administrative_divisions_-_Nmbrs_-_colored.svg
-
 1.  Nord-Ouest (Port-de-Paix)
 2.  Nord (Cap-Haïtien)
 3.  Nord-Est (Fort-Liberté)
@@ -305,8 +301,6 @@ The departments are further divided into 42 arrondissements, 145 communes and 57
 
 
 Economy
-
-Haiti_Export_Treemap.jpg
 
 Haiti's purchasing power parity GDP fell 8% in 2010 (from US$12.15 billion to US$11.18 billion) and the GDP per capita remained unchanged at PPP US$1,200.[215] Despite having a viable tourist industry, Haiti is one of the world's poorest countries and the poorest in the Americas region, with poverty, corruption, poor infrastructure, lack of health care and lack of education cited as the main causes. Trade declined dramatically after the 2010 earthquake and subsequent outbreak of cholera. Haiti ranked 145 of 182 countries in the 2010 United Nations Human Development Index, with 57.3% of the population being deprived in at least three of the HDI's poverty measures.[216]
 
@@ -340,13 +334,13 @@ Energy
 
 In 1925, the city of Jacmel was the first area in the Caribbean to have electricity and was subsequently dubbed the _City of Light_.[234]
 
-Today, Haiti relies heavily on an oil alliance with Petrocaribe for much of its energy requirements. In recent years, hydroelectric, solar and wind energy have been explored as possible sustainable energy sources.[235] Power_plant_in_Port-au-Prince.JPEG As of 2017, among all the countries in the Americas, Haiti is producing the least amount of energy. Less than a quarter of the country has electric coverage.[236] Most regions of Haiti that do have energy are powered by generators. These generators are often expensive and produce a lot of pollution. The areas that do get electricity experience power cuts on a daily basis, and some areas are limited to 12 hours of electricity a day. Electricity is provided by a small number of independent companies: Sogener, E-power, and Haytrac.[237] There is no national electricity grid within the country.[238] The most common source of energy used is wood, along with charcoal. In Haiti, about 4 million metric tons of wood products are consumed yearly.[239] Like charcoal and wood, petroleum is also an important source of energy for Haiti. Since Haiti cannot produce its own fuel, all fuel is imported. Yearly, around 691,000 tons of oil is imported into the country.[240]
+Today, Haiti relies heavily on an oil alliance with Petrocaribe for much of its energy requirements. In recent years, hydroelectric, solar and wind energy have been explored as possible sustainable energy sources.[235] As of 2017, among all the countries in the Americas, Haiti is producing the least amount of energy. Less than a quarter of the country has electric coverage.[236] Most regions of Haiti that do have energy are powered by generators. These generators are often expensive and produce a lot of pollution. The areas that do get electricity experience power cuts on a daily basis, and some areas are limited to 12 hours of electricity a day. Electricity is provided by a small number of independent companies: Sogener, E-power, and Haytrac.[237] There is no national electricity grid within the country.[238] The most common source of energy used is wood, along with charcoal. In Haiti, about 4 million metric tons of wood products are consumed yearly.[239] Like charcoal and wood, petroleum is also an important source of energy for Haiti. Since Haiti cannot produce its own fuel, all fuel is imported. Yearly, around 691,000 tons of oil is imported into the country.[240]
 
 On 31 October 2018, Evenson Calixte, the General Director of energy regulation (ANARSE) announced the 24 hour electricity project. To meet this objective, 236 Megawatt needs to installed in Port-au-Prince alone, with an additional 75 Megawatt needed in all other regions in the country. Presently only 27,5% of the population has access to electricity; moreover, the national energy agency l'Électricité d'Haïti (Ed'H) is only able to meet 62% of overall electricity demand said Fritz Caillot, the Minister of Public Works, Transportation and Communication (Travaux publics, transport et communication (TPTC)).[241]
 
 Personal income
 
-CapHaitienMarche.jpg ]]
+]]
 
 _The World Factbook_ reports a shortage of skilled labor, widespread unemployment and underemployment, saying "more than two-thirds of the labor force do not have formal jobs." It is also often stated that three-quarters of the population lives on US$2 or less per day.[242]
 
@@ -376,7 +370,7 @@ The vast majority of the business sector and individuals in Haiti will also acce
 
 Tourism
 
-Jacmel_Seaside.jpg ]] Labadee.jpg, a cruise ship destination]]
+]] , a cruise ship destination]]
 
 In 2014, the country received 1,250,000 tourists (mostly from cruise ships), and the industry generated US$200 million in 2014.[258] In December 2014, the US State Department issued a travel warning about the country, noting that while thousands of American citizens safely visit Haiti each year, a few foreign tourists had been victims of burglary, predominantly in the Port-au-Prince area.[259] Port-au-Prince used to be known for its docks where boats and shoppers would come and go with goods, but this is also where the 2010 earthquake struck the hardest and now the poverty struck city and people are still attempting to recover.
 
@@ -411,15 +405,13 @@ In the past, Haiti used rail transport, however the rail infrastructure was poor
 
 Airports
 
-Toussaint_Louverture_International_Airport.jpg
-
 Toussaint Louverture International Airport, located North/North East of Port-au-Prince proper in the commune of Tabarre, is the primary transportation hub regarding entry and exit into the country. It has Haiti's main jetway, and along with Cap-Haïtien International Airport located near the northern city of Cap-Haïtien, handles the vast majority of the country's international flights. Cities such as Jacmel, Jérémie, Les Cayes, and Port-de-Paix have smaller, less accessible airports that are serviced by regional airlines and private aircraft. Such companies include: Caribintair (defunct), Sunrise Airways and Tortug' Air (defunct).
 
 In 2013, plans for the development of an international airport on Île-à-Vache were introduced by the Prime Minister.[275]
 
 Bus service
 
-Tap_tap_public_transportation_Haiti.jpg ]]
+]]
 
 Tap tap buses are colorfully painted buses or pick-up trucks that serve as share taxis. The "tap tap" name comes from the sound of passengers tapping on the metal bus body to indicate they want off.[276] These vehicles for hire are often privately owned and extensively decorated. They follow fixed routes, do not leave until filled with passengers, and riders can usually disembark at any point. The decorations are a typically Haitian form of art.[277]
 
@@ -435,8 +427,6 @@ Haiti faces key challenges in the water supply and sanitation sector: Notably, a
 
 
 Demographics
-
-Haiti-demographie.png
 
 Haiti's population was about {{#expr:/1e6 round 0}} million according to UN estimates, with half of the population younger than age 20.[280] In 1950, the first formal census gave a total population of 3.1 million.[281] Haiti averages approximately 350 people per square kilometer (~900 per sq mi.), with its population concentrated most heavily in urban areas, coastal plains, and valleys.
 
@@ -515,15 +505,11 @@ upright=0.7 Haiti is famous for its creole cuisine (which related to Cajun cuisi
 
 Architecture
 
-Sans-Souci_Palace,_National_History_Park,_Haiti.jpg
-
 Monuments include the Sans-Souci Palace and the Citadelle Laferrière, inscribed as a World Heritage site in 1982.[333] Situated in the Northern Massif du Nord, in one of Haiti's National Parks, the structures date from the early 19th century.[334] The buildings were among the first built after Haiti's independence from France. The Citadelle Laferrière, is the largest fortress in the Americas, is located in northern Haiti. It was built between 1805 and 1820 and is today referred to by some Haitians as the eighth wonder of the world.[335]
 
 Jacmel, a colonial city that was tentatively accepted as a World Heritage site, was extensively damaged by the 2010 Haiti earthquake.[336]
 
 Museums
-
-Santa_Maria_Anchor.JPG
 
 The anchor of Christopher Columbus's largest ship, the _Santa María_ now rests in the Musée du Panthéon National Haïtien (MUPANAH), in Port-au-Prince, Haiti.[337]
 
@@ -539,14 +525,14 @@ Rara is a festival celebrated before Easter. The festival has generated a style 
 
 Sports
 
-Haiti_national_football_team_training_in_Port-au-Prince_2004-08-16_2.jpg training in Port-au-Prince, 2004]] Football is the most popular sport in Haiti with hundreds of small football clubs competing at the local level. Basketball is growing in popularity.[340] Stade Sylvio Cator is the multi-purpose stadium in Port-au-Prince, where it is currently used mostly for association football matches that fits a capacity of 10,000 people. In 1974, the Haiti national football team were only the second Caribbean team to make the World Cup (after Cuba's entry in 1938). They lost in the opening qualifying stages against three of the pre-tournament favorites; Italy, Poland, and Argentina. The national team won the 2007 Caribbean Nations Cup.[341]
+training in Port-au-Prince, 2004]] Football is the most popular sport in Haiti with hundreds of small football clubs competing at the local level. Basketball is growing in popularity.[340] Stade Sylvio Cator is the multi-purpose stadium in Port-au-Prince, where it is currently used mostly for association football matches that fits a capacity of 10,000 people. In 1974, the Haiti national football team were only the second Caribbean team to make the World Cup (after Cuba's entry in 1938). They lost in the opening qualifying stages against three of the pre-tournament favorites; Italy, Poland, and Argentina. The national team won the 2007 Caribbean Nations Cup.[341]
 
 Haiti has participated in the Olympic Games since the year 1900 and won a number of medals. Haitian footballer Joe Gaetjens played for the United States national team in the 1950 FIFA World Cup, scoring the winning goal in the 1–0 upset of England.[342]
 
 
 Notable natives and residents
 
-WyclefJean.jpg]]
+]]
 
 -   Comte d'Estaing in command of more than 500 volunteers from Saint-Domingue; fought alongside American colonial troops against the British in the Siege of Savannah, one of the most significant foreign contributions to the American Revolutionary War in 1779[343]
 -   Raquel Pelissier one of Haiti's most remarkable beauty queen; Miss Universe 2017 first runner-up and Reina Hispanoamericana 2016 third runner-up
@@ -564,7 +550,7 @@ WyclefJean.jpg]]
 
 Education
 
-Universite_henrichristophe.jpg]]
+]]
 
 The educational system of Haiti is based on the French system. Higher education, under the responsibility of the Ministry of Education,[347] is provided by universities and other public and private institutions.[348]
 

@@ -1,4 +1,4 @@
-Geodetisch_station1855.jpg, Belgium]]
+, Belgium]]
 
 GEODESY (),[1] is the Earth science of accurately measuring and understanding Earth's geometric shape, orientation in space, and gravitational field.[2] The field also incorporates studies of how these properties change over time and equivalent measurements for other planets (known as planetary geodesy). Geodynamical phenomena include crustal motion, tides, and polar motion, which can be studied by designing global and national control networks, applying space and terrestrial techniques, and relying on datums and coordinate systems.
 
@@ -43,7 +43,7 @@ The coordinate transformation between these two systems is described to good app
 
 Coordinate systems in the plane
 
-Litography_archive_of_the_Bayerisches_Vermessungsamt.jpg archive with lithography plates of maps of Bavaria]] In surveying and mapping, important fields of application of geodesy, two general types of coordinate systems are used in the plane:
+archive with lithography plates of maps of Bavaria]] In surveying and mapping, important fields of application of geodesy, two general types of coordinate systems are used in the plane:
 
 1.  Plano-polar, in which points in a plane are defined by a distance _s_ from a specified point along a ray having a specified direction _α_ with respect to a base line or axis;
 2.  Rectangular, points are defined by distances from two perpendicular axes called _x_ and _y_. It is geodetic practice—contrary to the mathematical convention—to let the _x_-axis point to the north and the _y_-axis to the east.
@@ -97,7 +97,7 @@ In the abstract, a coordinate system as used in mathematics and geodesy is calle
 
 Point positioning
 
-Geodetic_Control_Mark.jpg)]]
+)]]
 
 Point positioning is the determination of the coordinates of a point on land, at sea, or in space with respect to a coordinate system. Point position is solved by computation from measurements linking the known positions of terrestrial or extraterrestrial points with the unknown terrestrial position. This may involve transformations between or among astronomical and terrestrial coordinate systems. The known points used for point positioning can be triangulation points of a higher-order network or GPS satellites.
 
@@ -146,7 +146,7 @@ Here we define some basic observational concepts, like angles and coordinates, d
 
 Measurements
 
-Stephen_Merkowitz_NASA's_Space_Geodesy_Project.ogv Project, including an overview of its four fundamental techniques: GPS, VLBI, SLR, and DORIS.]]
+Project, including an overview of its four fundamental techniques: GPS, VLBI, SLR, and DORIS.]]
 
 The level is used for determining height differences and height reference systems, commonly referred to mean sea level. The traditional spirit level produces these practically most useful heights above sea level directly; the more economical use of GPS instruments for height determination requires precise knowledge of the figure of the geoid, as GPS only gives heights above the GRS80 reference ellipsoid. As geoid knowledge accumulates, one may expect the use of GPS heighting to spread.
 

@@ -3,7 +3,7 @@ The COMMON LANGUAGE INFRASTRUCTURE (CLI) is an open specification (technical sta
 
 Overview
 
-Overview_of_the_Common_Language_Infrastructure.svg Among other things, the CLI specification describes the following four aspects:
+Among other things, the CLI specification describes the following four aspects:
 
 The Common Type System (CTS)
     A set of data types and operations that are shared by all CTS-compliant programming languages.

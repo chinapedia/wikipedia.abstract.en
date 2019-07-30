@@ -1,4 +1,4 @@
-Methane-2D-stereo.svg, the simplest alkane]] In organic chemistry, an ALKANE, or PARAFFIN (a historical name that also has other meanings), is an acyclic saturated hydrocarbon. In other words, an alkane consists of hydrogen and carbon atoms arranged in a tree structure in which all the carbon–carbon bonds are single.[1] Alkanes have the general chemical formula C_(_n_)H_(2_n_+2). The alkanes range in complexity from the simplest case of methane (CH₄), where _n_ = 1 (sometimes called the parent molecule), to arbitrarily large and complex molecules, like pentacontane (C₅₀H₁₀₂) or 6-ethyl-2-methyl-5-(1-methylethyl) octane, an isomer of tetradecane (C₁₄H₃₀).
+, the simplest alkane]] In organic chemistry, an ALKANE, or PARAFFIN (a historical name that also has other meanings), is an acyclic saturated hydrocarbon. In other words, an alkane consists of hydrogen and carbon atoms arranged in a tree structure in which all the carbon–carbon bonds are single.[1] Alkanes have the general chemical formula C_(_n_)H_(2_n_+2). The alkanes range in complexity from the simplest case of methane (CH₄), where _n_ = 1 (sometimes called the parent molecule), to arbitrarily large and complex molecules, like pentacontane (C₅₀H₁₀₂) or 6-ethyl-2-methyl-5-(1-methylethyl) octane, an isomer of tetradecane (C₁₄H₃₀).
 
 IUPAC defines alkanes as "acyclic branched or unbranched hydrocarbons having the general formula _(_n_)_(2_n_+2), and therefore consisting entirely of hydrogen atoms and saturated carbon atoms". However, some sources use the term to denote _any_ saturated hydrocarbon, including those that are either monocyclic (i.e. the cycloalkanes) or polycyclic,[2] despite their having a different general formula (i.e. cycloalkanes are C_(_n_)H_(2_n_)).
 
@@ -26,10 +26,10 @@ According to the definition by IUPAC, the former two are alkanes, whereas the th
 
 Isomerism
 
-Saturated_C4_hydrocarbons_ball-and-stick.png and isobutane are the two C₄H₁₀ isomers; cyclobutane and methylcyclopropane are the two C₄H₈ alkane isomers.
+and isobutane are the two C₄H₁₀ isomers; cyclobutane and methylcyclopropane are the two C₄H₈ alkane isomers.
 [[Bicyclobutane|Bicyclo[1.1.0]butane]] is the only C₄H₆ alkane and has no alkane isomer; tetrahedrane (below) is the only C₄H₄ alkane and so has no alkane isomer.]]
 
-Tetrahedrane-3D-balls.png ]]
+]]
 
 Alkanes with more than three carbon atoms can be arranged in various different ways, forming structural isomers. The simplest isomer of an alkane is the one in which the carbon atoms are arranged in a single chain with no branches. This isomer is sometimes called the _n_-isomer (_n_ for "normal", although it is not necessarily the most common). However the chain of carbon atoms may also be branched at one or more points. The number of possible isomers increases rapidly with the number of carbon atoms. For example, for acyclic alkanes:[5]
 
@@ -71,7 +71,7 @@ The first four names were derived from methanol, ether, propionic acid and butyr
 
 Branched alkanes
 
-Isopentane-numbered-3D-balls.png of isopentane (common name) or 2-methylbutane (IUPAC systematic name)]] Simple branched alkanes often have a common name using a prefix to distinguish them from linear alkanes, for example _n_-pentane, isopentane, and neopentane.
+of isopentane (common name) or 2-methylbutane (IUPAC systematic name)]] Simple branched alkanes often have a common name using a prefix to distinguish them from linear alkanes, for example _n_-pentane, isopentane, and neopentane.
 
 IUPAC naming conventions can be used to produce a systematic name.
 
@@ -85,10 +85,10 @@ The key steps in the naming of more complicated branched alkanes are as follows:
 -   If there are multiple side chains of the same type, use prefixes such as "di-" and "tri-" to indicate it as such, and number each one.
 -   Add side chain names in alphabetical (disregarding "di-" etc. prefixes) order in front of the name of the root chain
 
-  Common name   _n_-pentane               isopentane                   neopentane
-  ------------- ------------------------- ---------------------------- ----------------------------
-  IUPAC name    pentane                   2-methylbutane               2,2-dimethylpropane
-  Structure     Pentane-2D-Skeletal.svg   Isopentane-2D-skeletal.png   Neopentane-2D-skeletal.png
+  Common name   _n_-pentane   isopentane       neopentane
+  ------------- ------------- ---------------- ---------------------
+  IUPAC name    pentane       2-methylbutane   2,2-dimethylpropane
+  Structure
 
   : Comparison of nomenclatures for three isomers of C₅H₁₂
 
@@ -147,8 +147,6 @@ Table of alkanes
 
 Boiling point
 
-AlkaneBoilingMeltingPoint.png
-
 Alkanes experience intermolecular van der Waals forces. Stronger intermolecular van der Waals forces give rise to greater boiling points of alkanes.[15]
 
 There are two determinants for the strength of the van der Waals forces:
@@ -178,17 +176,17 @@ The density of the alkanes usually increases with the number of carbon atoms but
 
 Molecular geometry
 
-Ch4_hybridization.svg.]] The molecular structure of the alkanes directly affects their physical and chemical characteristics. It is derived from the electron configuration of carbon, which has four valence electrons. The carbon atoms in alkanes are always sp³-hybridized, that is to say that the valence electrons are said to be in four equivalent orbitals derived from the combination of the 2s orbital and the three 2p orbitals. These orbitals, which have identical energies, are arranged spatially in the form of a tetrahedron, the angle of cos^(−1)(−) ≈ 109.47° between them.
+.]] The molecular structure of the alkanes directly affects their physical and chemical characteristics. It is derived from the electron configuration of carbon, which has four valence electrons. The carbon atoms in alkanes are always sp³-hybridized, that is to say that the valence electrons are said to be in four equivalent orbitals derived from the combination of the 2s orbital and the three 2p orbitals. These orbitals, which have identical energies, are arranged spatially in the form of a tetrahedron, the angle of cos^(−1)(−) ≈ 109.47° between them.
 
 Bond lengths and bond angles
 
-An alkane molecule has only C–H and C–C single bonds. The former result from the overlap of an sp³ orbital of carbon with the 1s orbital of a hydrogen; the latter by the overlap of two sp³ orbitals on different carbon atoms. The bond lengths amount to 1.09 × 10^(−10) m for a C–H bond and 1.54 × 10^(−10) m for a C–C bond. Ch4-structure.png
+An alkane molecule has only C–H and C–C single bonds. The former result from the overlap of an sp³ orbital of carbon with the 1s orbital of a hydrogen; the latter by the overlap of two sp³ orbitals on different carbon atoms. The bond lengths amount to 1.09 × 10^(−10) m for a C–H bond and 1.54 × 10^(−10) m for a C–C bond.
 
 The spatial arrangement of the bonds is similar to that of the four sp³ orbitals—they are tetrahedrally arranged, with an angle of 109.47° between them. Structural formulae that represent the bonds as being at right angles to one another, while both common and useful, do not correspond with the reality.
 
 Conformation
 
-The structural formula and the bond angles are not usually sufficient to completely describe the geometry of a molecule. There is a further degree of freedom for each carbon–carbon bond: the torsion angle between the atoms or groups bound to the atoms at each end of the bond. The spatial arrangement described by the torsion angles of the molecule is known as its conformation. Newman_projection_ethane.png Ethane-rotamers-3D-balls.pngs of the two rotamers of ethane]]
+The structural formula and the bond angles are not usually sufficient to completely describe the geometry of a molecule. There is a further degree of freedom for each carbon–carbon bond: the torsion angle between the atoms or groups bound to the atoms at each end of the bond. The spatial arrangement described by the torsion angles of the molecule is known as its conformation. s of the two rotamers of ethane]]
 
 Ethane forms the simplest case for studying the conformation of alkanes, as there is only one C–C bond. If one looks down the axis of the C–C bond, one will see the so-called Newman projection. The hydrogen atoms on both the front and rear carbon atoms have an angle of 120° between them, resulting from the projection of the base of the tetrahedron onto a flat plane. However, the torsion angle between a given hydrogen atom attached to the front carbon and a given hydrogen atom attached to the rear carbon can vary freely between 0° and 360°. This is a consequence of the free rotation about a carbon–carbon single bond. Despite this apparent freedom, only two limiting conformations are important: eclipsed conformation and staggered conformation.
 
@@ -255,7 +253,7 @@ These reactions are an important industrial route to halogenated hydrocarbons. T
 -   CHAIN REACTION or PROPAGATION then takes place—the halogen radical abstracts a hydrogen from the alkane to give an alkyl radical. This reacts further.
 -   CHAIN TERMINATION where the radicals recombine.
 
-Experiments have shown that all halogenation produces a mixture of all possible isomers, indicating that all hydrogen atoms are susceptible to reaction. The mixture produced, however, is not a statistical mixture: Secondary and tertiary hydrogen atoms are preferentially replaced due to the greater stability of secondary and tertiary free-radicals. An example can be seen in the monobromination of propane:[20] Monobromination_of_propane.png]]
+Experiments have shown that all halogenation produces a mixture of all possible isomers, indicating that all hydrogen atoms are susceptible to reaction. The mixture produced, however, is not a statistical mixture: Secondary and tertiary hydrogen atoms are preferentially replaced due to the greater stability of secondary and tertiary free-radicals. An example can be seen in the monobromination of propane:[20] ]]
 
 Cracking
 
@@ -274,7 +272,7 @@ Occurrence
 
 Occurrence of alkanes in the Universe
 
-Jupiter.jpg and ethane make up a tiny proportion of Jupiter's atmosphere]] Oil_well.jpgs including alkanes]]
+and ethane make up a tiny proportion of Jupiter's atmosphere]] s including alkanes]]
 
 Alkanes form a small portion of the atmospheres of the outer gas planets such as Jupiter (0.1% methane, 2 ppm ethane), Saturn (0.2% methane, 5 ppm ethane), Uranus (1.99% methane, 2.5 ppm ethane) and Neptune (1.5% methane, 1.5 ppm ethane). Titan (1.6% methane), a satellite of Saturn, was examined by the _Huygens_ probe, which indicated that Titan's atmosphere periodically rains liquid methane onto the moon's surface.[24] Also on Titan the Cassini mission has imaged seasonal methane/ethane lakes near the polar regions of Titan. Methane and ethane have also been detected in the tail of the comet Hyakutake. Chemical analysis showed that the abundances of ethane and methane were roughly equal, which is thought to imply that its ices formed in interstellar space, away from the Sun, which would have evaporated these volatile molecules.[25] Alkanes have also been detected in meteorites such as carbonaceous chondrites.
 
@@ -298,7 +296,7 @@ Acyclic alkanes occur in nature in various ways.
 
 Bacteria and archaea
 
-Rotbuntes_Rind.jpgic archaea in the gut of this cow are responsible for some of the methane in Earth's atmosphere.]] Certain types of bacteria can metabolize alkanes: they prefer even-numbered carbon chains as they are easier to degrade than odd-numbered chains.[28]
+ic archaea in the gut of this cow are responsible for some of the methane in Earth's atmosphere.]] Certain types of bacteria can metabolize alkanes: they prefer even-numbered carbon chains as they are easier to degrade than odd-numbered chains.[28]
 
 On the other hand, certain archaea, the methanogens, produce large quantities of methane by the metabolism of carbon dioxide or other oxidized organic compounds. The energy is released by the oxidation of hydrogen:
 
@@ -322,14 +320,14 @@ Alkanes are found in animal products, although they are less important than unsa
 
 Ecological relations
 
-Ophrys_sphegodes_flower.jpg_)]] One example, in which both plant and animal alkanes play a role, is the ecological relationship between the sand bee (_Andrena nigroaenea_) and the early spider orchid (_Ophrys sphegodes''); the latter is dependent for pollination on the former. Sand bees use pheromones in order to identify a mate; in the case of _A. nigroaenea_, the females emit a mixture of tricosane (C₂₃H₄₈), pentacosane (C₂₅H₅₂) and heptacosane (C₂₇H₅₆) in the ratio 3:3:1, and males are attracted by specifically this odor. The orchid takes advantage of this mating arrangement to get the male bee to collect and disseminate its pollen; parts of its flower not only resemble the appearance of sand bees but also produce large quantities of the three alkanes in the same ratio as female sand bees. As a result, numerous males are lured to the blooms and attempt to copulate with their imaginary partner: although this endeavor is not crowned with success for the bee, it allows the orchid to transfer its pollen, which will be dispersed after the departure of the frustrated male to different blooms.
+_)]] One example, in which both plant and animal alkanes play a role, is the ecological relationship between the sand bee (_Andrena nigroaenea_) and the early spider orchid (_Ophrys sphegodes''); the latter is dependent for pollination on the former. Sand bees use pheromones in order to identify a mate; in the case of _A. nigroaenea_, the females emit a mixture of tricosane (C₂₃H₄₈), pentacosane (C₂₅H₅₂) and heptacosane (C₂₇H₅₆) in the ratio 3:3:1, and males are attracted by specifically this odor. The orchid takes advantage of this mating arrangement to get the male bee to collect and disseminate its pollen; parts of its flower not only resemble the appearance of sand bees but also produce large quantities of the three alkanes in the same ratio as female sand bees. As a result, numerous males are lured to the blooms and attempt to copulate with their imaginary partner: although this endeavor is not crowned with success for the bee, it allows the orchid to transfer its pollen, which will be dispersed after the departure of the frustrated male to different blooms.
 
 
 Production
 
 Petroleum refining
 
-ShellMartinez-refi.jpg at Martinez, California.]] As stated earlier, the most important source of alkanes is natural gas and crude oil.[41] Alkanes are separated in an oil refinery by fractional distillation and processed into many different products.
+at Martinez, California.]] As stated earlier, the most important source of alkanes is natural gas and crude oil.[41] Alkanes are separated in an oil refinery by fractional distillation and processed into many different products.
 
 Fischer–Tropsch
 
@@ -347,11 +345,11 @@ However, at times it may be desirable to make a section of a molecule into an al
 
 Alkanes or alkyl groups can also be prepared directly from alkyl halides in the Corey–House–Posner–Whitesides reaction. The Barton–McCombie deoxygenation[42][43] removes hydroxyl groups from alcohols e.g.
 
-    Barton-McCombie_Deoxygenation_Scheme.svg scheme]]
+    scheme]]
 
 and the Clemmensen reduction[44][45][46][47] removes carbonyl groups from aldehydes and ketones to form alkanes or alkyl-substituted compounds e.g.:
 
-    Clemmensen_Reduction_Scheme.png]]
+    ]]
 
 
 Applications

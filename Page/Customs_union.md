@@ -12,7 +12,7 @@ The General Agreement on Tariffs and Trade, part of the World Trade Organization
 
 Lists of customs unions
 
-Customs_Unions_World.svg}}]]
+}}]]
 
 Current
 

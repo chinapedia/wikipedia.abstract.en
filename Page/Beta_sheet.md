@@ -3,14 +3,14 @@ The Β-SHEET (also Β-PLEATED SHEET) is a common motif of regular secondary stru
 
 History
 
-1gwe_antipar_betaSheet_both.png β-sheet fragment from a crystal structure of the enzyme catalase (PDB file 1GWE at 0.88 Å resolution). a) Front view, showing the antiparallel hydrogen bonds (dotted) between peptide NH and CO groups on adjacent strands. Arrows indicate chain direction, and electron density contours outline the non-hydrogen atoms. Oxygen atoms are red balls, nitrogen atoms are blue, and hydrogen atoms are omitted for simplicity; sidechains are shown only out to the first sidechain carbon atom (green). b) Edge-on view of the central two β-strands in a, showing the righthanded _twist_ and the _pleat_ of C^(α)s and sidechains that alternately stick out in opposite directions from the sheet.]] The first β-sheet structure was proposed by William Astbury in the 1930s. He proposed the idea of hydrogen bonding between the peptide bonds of parallel or antiparallel extended β-strands. However, Astbury did not have the necessary data on the bond geometry of the amino acids in order to build accurate models, especially since he did not then know that the peptide bond was planar. A refined version was proposed by Linus Pauling and Robert Corey in 1951. Their model incorporated the planarity of the peptide bond which they previously explained as resulting from keto-enol tautomerization.
+β-sheet fragment from a crystal structure of the enzyme catalase (PDB file 1GWE at 0.88 Å resolution). a) Front view, showing the antiparallel hydrogen bonds (dotted) between peptide NH and CO groups on adjacent strands. Arrows indicate chain direction, and electron density contours outline the non-hydrogen atoms. Oxygen atoms are red balls, nitrogen atoms are blue, and hydrogen atoms are omitted for simplicity; sidechains are shown only out to the first sidechain carbon atom (green). b) Edge-on view of the central two β-strands in a, showing the righthanded _twist_ and the _pleat_ of C^(α)s and sidechains that alternately stick out in opposite directions from the sheet.]] The first β-sheet structure was proposed by William Astbury in the 1930s. He proposed the idea of hydrogen bonding between the peptide bonds of parallel or antiparallel extended β-strands. However, Astbury did not have the necessary data on the bond geometry of the amino acids in order to build accurate models, especially since he did not then know that the peptide bond was planar. A refined version was proposed by Linus Pauling and Robert Corey in 1951. Their model incorporated the planarity of the peptide bond which they previously explained as resulting from keto-enol tautomerization.
 
 
 Structure and orientation
 
 Geometry
 
-The majority of β-strands are arranged adjacent to other strands and form an extensive hydrogen bond network with their neighbors in which the N−H groups in the backbone of one strand establish hydrogen bonds with the C=O groups in the backbone of the adjacent strands. In the fully extended β-strand, successive side chains point straight up, then straight down, then straight up, etc. Adjacent β-strands in a β-sheet are aligned so that their C^(α) atoms are adjacent and their side chains point in the same direction. The "pleated" appearance of β-strands arises from tetrahedral chemical bonding at the C^(α) atom; for example, if a side chain points straight up, then the bond to the C′ must point slightly downwards, since its bond angle is approximately 109.5°. The pleating causes the distance between C and C to be approximately , rather than the expected from two fully extended _trans_ peptides. The "sideways" distance between adjacent C^(α) atoms in hydrogen-bonded β-strands is roughly . Ramachandran_plot_general_100K.jpg However, β-strands are rarely perfectly extended; rather, they exhibit a twist. The energetically preferred dihedral angles near (_φ_, _ψ_) = (–135°, 135°) (broadly, the upper left region of the Ramachandran plot) diverge significantly from the fully extended conformation (_φ_, _ψ_) = (–180°, 180°).[1] The twist is often associated with alternating fluctuations in the dihedral angles to prevent the individual β-strands in a larger sheet from splaying apart. A good example of a strongly twisted β-hairpin can be seen in the protein BPTI.
+The majority of β-strands are arranged adjacent to other strands and form an extensive hydrogen bond network with their neighbors in which the N−H groups in the backbone of one strand establish hydrogen bonds with the C=O groups in the backbone of the adjacent strands. In the fully extended β-strand, successive side chains point straight up, then straight down, then straight up, etc. Adjacent β-strands in a β-sheet are aligned so that their C^(α) atoms are adjacent and their side chains point in the same direction. The "pleated" appearance of β-strands arises from tetrahedral chemical bonding at the C^(α) atom; for example, if a side chain points straight up, then the bond to the C′ must point slightly downwards, since its bond angle is approximately 109.5°. The pleating causes the distance between C and C to be approximately , rather than the expected from two fully extended _trans_ peptides. The "sideways" distance between adjacent C^(α) atoms in hydrogen-bonded β-strands is roughly . However, β-strands are rarely perfectly extended; rather, they exhibit a twist. The energetically preferred dihedral angles near (_φ_, _ψ_) = (–135°, 135°) (broadly, the upper left region of the Ramachandran plot) diverge significantly from the fully extended conformation (_φ_, _ψ_) = (–180°, 180°).[1] The twist is often associated with alternating fluctuations in the dihedral angles to prevent the individual β-strands in a larger sheet from splaying apart. A good example of a strongly twisted β-hairpin can be seen in the protein BPTI.
 
 The side chains point outwards from the folds of the pleats, roughly perpendicularly to the plane of the sheet; successive amino acid residues point outwards on alternating faces of the sheet.
 
@@ -37,7 +37,7 @@ Large aromatic residues (tyrosine, phenylalanine, tryptophan) and β-branched am
 
 Common structural motifs
 
-Beta_hairpin.png motif]] Anthrax_toxin_protein_key_motif.svg A very simple structural motif involving β-sheets is the β-hairpin, in which two antiparallel strands are linked by a short loop of two to five residues, of which one is frequently a glycine or a proline, both of which can assume the dihedral-angle conformations required for a tight turn or a β-bulge loop. Individual strands can also be linked in more elaborate ways with longer loops that may contain α-helices.
+motif]] A very simple structural motif involving β-sheets is the β-hairpin, in which two antiparallel strands are linked by a short loop of two to five residues, of which one is frequently a glycine or a proline, both of which can assume the dihedral-angle conformations required for a tight turn or a β-bulge loop. Individual strands can also be linked in more elaborate ways with longer loops that may contain α-helices.
 
 Greek key motif
 
@@ -47,13 +47,13 @@ The β-α-β motif
 
 Due to the chirality of their component amino acids, all strands exhibit right-handed twist evident in most higher-order β-sheet structures. In particular, the linking loop between two parallel strands almost always has a right-handed crossover chirality, which is strongly favored by the inherent twist of the sheet.[5] This linking loop frequently contains a helical region, in which case it is called a β-α-β motif. A closely related motif called a β-α-β-α motif forms the basic component of the most commonly observed protein tertiary structure, the TIM barrel.
 
-beta-meander1.png]]
+]]
 
 β-meander motif
 
 A simple supersecondary protein topology composed of 2 or more consecutive antiparallel β-strands linked together by hairpin loops.[6][7] This motif is common in β-sheets and can be found in several structural architectures including β-barrels and β-propellers.
 
-5CPAgood.png]]
+]]
 
 Psi-loop motif
 
@@ -79,11 +79,11 @@ Dynamic features
 
 Parallel β-helices
 
-1QRE_L3betaHelix.jpg A β-helix is formed from repeating structural units consisting of two or three short β-strands linked by short loops. These units "stack" atop one another in a helical fashion so that successive repetitions of the same strand hydrogen-bond with each other in a parallel orientation. See the β-helix article for further information.
+A β-helix is formed from repeating structural units consisting of two or three short β-strands linked by short loops. These units "stack" atop one another in a helical fashion so that successive repetitions of the same strand hydrogen-bond with each other in a parallel orientation. See the β-helix article for further information.
 
 In lefthanded β-helices, the strands themselves are quite straight and untwisted; the resulting helical surfaces are nearly flat, forming a regular triangular prism shape, as shown for the 1QRE archaeal carbonic anhydrase at right. Other examples are the lipid A synthesis enzyme LpxA and insect antifreeze proteins with a regular array of Thr sidechains on one face that mimic the structure of ice.[15]
 
-Pectate_lyase_R3betaHelix.jpg Righthanded β-helices, typified by the pectate lyase enzyme shown at left or P22 phage tailspike protein, have a less regular cross-section, longer and indented on one of the sides; of the three linker loops, one is consistently just two residues long and the others are variable, often elaborated to form a binding or active site.[16]
+Righthanded β-helices, typified by the pectate lyase enzyme shown at left or P22 phage tailspike protein, have a less regular cross-section, longer and indented on one of the sides; of the three linker loops, one is consistently just two residues long and the others are variable, often elaborated to form a binding or active site.[16]
 A two-sided β-helix (right-handed) is found in some bacterial metalloproteases; its two loops are each six residues long and bind stabilizing calcium ions to maintain the integrity of the structure, using the backbone and the Asp side chain oxygens of a GGXGXD sequence motif.[17] This fold is called a β-roll in the SCOP classification.
 
 

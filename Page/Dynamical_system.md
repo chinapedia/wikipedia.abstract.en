@@ -1,4 +1,4 @@
-Lorenz_attractor_yb.svg arises in the study of the Lorenz Oscillator, a dynamical system.]]
+arises in the study of the Lorenz Oscillator, a dynamical system.]]
 
 In mathematics, a DYNAMICAL SYSTEM is a system in which a function describes the time dependence of a point in a geometrical space. Examples include the mathematical models that describe the swinging of a clock pendulum, the flow of water in a pipe, and the number of fish each springtime in a lake.
 
@@ -100,7 +100,7 @@ When _b_ = 0, the eigenvalues of _A_ determine the structure of the phase space.
 
 The distance between two different initial conditions in the case _A_ ≠ 0 will change exponentially in most cases, either converging exponentially fast towards a point, or diverging exponentially fast. Linear systems display sensitive dependence on initial conditions in the case of divergence. For nonlinear systems this is one of the (necessary but not sufficient) conditions for chaotic behavior.
 
-LinearFields.png {{-}}
+{{-}}
 
 Maps
 

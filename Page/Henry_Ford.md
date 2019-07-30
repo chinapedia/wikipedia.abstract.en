@@ -18,8 +18,7 @@ In 1879, Ford left home to work as an apprentice machinist in Detroit, first wit
 
 Marriage and family
 
-Henry Ford in 1888
-(aged 25) Ford married Clara Jane Bryant (1866–1950) on April 11, 1888, and supported himself by farming and running a sawmill.[8] They had one child: Edsel Ford (1893–1943).[9]
+Ford married Clara Jane Bryant (1866–1950) on April 11, 1888, and supported himself by farming and running a sawmill.[8] They had one child: Edsel Ford (1893–1943).[9]
 
 
 Career
@@ -34,7 +33,7 @@ Teaming up with former racing cyclist Tom Cooper, Ford also produced the 80+ hor
 
 Ford Motor Company
 
-Ford_Edison_Firestone1.jpg and Harvey Firestone. Fort Myers, Florida, February 11, 1929.]]
+and Harvey Firestone. Fort Myers, Florida, February 11, 1929.]]
 
 In response, Malcomson brought in another group of investors and convinced the Dodge Brothers to accept a portion of the new company.[18] Ford & Malcomson was reincorporated as the Ford Motor Company on June 16, 1903,[19] with $28,000 capital. The original investors included Ford and Malcomson, the Dodge brothers, Malcomson's uncle John S. Gray, Malcolmson's secretary James Couzens, and two of Malcomson's lawyers, John W. Anderson and Horace Rackham. Ford then demonstrated a newly designed car on the ice of Lake St. Clair, driving in 39.4 seconds and setting a new land speed record at . Convinced by this success, the race driver Barney Oldfield, who named this new Ford model "999" in honor of the fastest locomotive of the day, took the car around the country, making the Ford brand known throughout the United States. Ford also was one of the early backers of the Indianapolis 500.
 
@@ -44,9 +43,7 @@ The Model T was introduced on October 1, 1908. It had the steering wheel on the 
 
 Ford created a huge publicity machine in Detroit to ensure every newspaper carried stories and ads about the new product. Ford's network of local dealers made the car ubiquitous in almost every city in North America. As independent dealers, the franchises grew rich and publicized not just the Ford but the concept of automobiling; local motor clubs sprang up to help new drivers and to encourage exploring the countryside. Ford was always eager to sell to farmers, who looked on the vehicle as a commercial device to help their business. Sales skyrocketed—several years posted 100% gains on the previous year. Always on the hunt for more efficiency and lower costs, in 1913 Ford introduced the moving assembly belts into his plants, which enabled an enormous increase in production. Although Ford is often credited with the idea, contemporary sources indicate that the concept and its development came from employees Clarence Avery, Peter E. Martin, Charles E. Sorensen, and C. Harold Wills.[21] (See Ford Piquette Avenue Plant)
 
-Ford_assembly_line_-_1913.jpg
-
-Sales passed 250,000 in 1914. By 1916, as the price dropped to $360 for the basic touring car, sales reached 472,000.[22] (Using the consumer price index, this price was equivalent to $7,828 in 2015 dollars.) 1924-1925_Ford_-_T_Roadster,_Coimbatore_(1).jpg By 1918, half of all cars in America were Model Ts. All new cars were black; as Ford wrote in his autobiography, "Any customer can have a car painted any color that he wants so long as it is black".[23] Until the development of the assembly line, which mandated black because of its quicker drying time, Model Ts were available in other colors, including red. The design was fervently promoted and defended by Ford, and production continued as late as 1927; the final total production was 15,007,034. This record stood for the next 45 years. This record was achieved in 19 years from the introduction of the first Model T (1908).
+Sales passed 250,000 in 1914. By 1916, as the price dropped to $360 for the basic touring car, sales reached 472,000.[22] (Using the consumer price index, this price was equivalent to $7,828 in 2015 dollars.) By 1918, half of all cars in America were Model Ts. All new cars were black; as Ford wrote in his autobiography, "Any customer can have a car painted any color that he wants so long as it is black".[23] Until the development of the assembly line, which mandated black because of its quicker drying time, Model Ts were available in other colors, including red. The design was fervently promoted and defended by Ford, and production continued as late as 1927; the final total production was 15,007,034. This record stood for the next 45 years. This record was achieved in 19 years from the introduction of the first Model T (1908).
 
 President Woodrow Wilson asked Ford to run as a Democrat for the United States Senate from Michigan in 1918. Although the nation was at war, Ford ran as a peace candidate and a strong supporter of the proposed League of Nations.[24] Ford was defeated in a close election by the Republican candidate, Truman Newberry, a former United States Secretary of the Navy.
 
@@ -66,7 +63,7 @@ Labor philosophy
 
 The five-dollar wage
 
-Timehenryford.jpg'' magazine, January 14, 1935]] Ford was a pioneer of "welfare capitalism", designed to improve the lot of his workers and especially to reduce the heavy turnover that had many departments hiring 300 men per year to fill 100 slots. Efficiency meant hiring and keeping the best workers.[29]
+'' magazine, January 14, 1935]] Ford was a pioneer of "welfare capitalism", designed to improve the lot of his workers and especially to reduce the heavy turnover that had many departments hiring 300 men per year to fill 100 slots. Efficiency meant hiring and keeping the best workers.[29]
 
 Ford astonished the world in 1914 by offering a $5 per day wage ($ today), which more than doubled the rate of most of his workers.[30] A Cleveland, Ohio, newspaper editorialized that the announcement "shot like a blinding rocket through the dark clouds of the present industrial depression."[31] The move proved extremely profitable; instead of constant turnover of employees, the best mechanics in Detroit flocked to Ford, bringing their human capital and expertise, raising productivity, and lowering training costs.[32][33] Ford announced his $5-per-day program on January 5, 1914, raising the minimum daily pay from $2.34 to $5 for qualifying male workers.
 
@@ -98,7 +95,7 @@ Ford Airplane Company
 
 Ford, like other automobile companies, entered the aviation business during World War I, building Liberty engines. After the war, it returned to auto manufacturing until 1925, when Ford acquired the Stout Metal Airplane Company.
 
-Ford_4ATF.jpg]] Ford's most successful aircraft was the Ford 4AT Trimotor, often called the "Tin Goose" because of its corrugated metal construction. It used a new alloy called Alclad that combined the corrosion resistance of aluminum with the strength of duralumin. The plane was similar to Fokker's V.VII-3m, and some say that Ford's engineers surreptitiously measured the Fokker plane and then copied it. The Trimotor first flew on June 11, 1926, and was the first successful U.S. passenger airliner, accommodating about 12 passengers in a rather uncomfortable fashion. Several variants were also used by the U.S. Army. Ford has been honored by the Smithsonian Institution for changing the aviation industry. 199 Trimotors were built before it was discontinued in 1933, when the Ford Airplane Division shut down because of poor sales during the Great Depression.
+]] Ford's most successful aircraft was the Ford 4AT Trimotor, often called the "Tin Goose" because of its corrugated metal construction. It used a new alloy called Alclad that combined the corrosion resistance of aluminum with the strength of duralumin. The plane was similar to Fokker's V.VII-3m, and some say that Ford's engineers surreptitiously measured the Fokker plane and then copied it. The Trimotor first flew on June 11, 1926, and was the first successful U.S. passenger airliner, accommodating about 12 passengers in a rather uncomfortable fashion. Several variants were also used by the U.S. Army. Ford has been honored by the Smithsonian Institution for changing the aviation industry. 199 Trimotors were built before it was discontinued in 1933, when the Ford Airplane Division shut down because of poor sales during the Great Depression.
 
 Willow Run
 
@@ -127,7 +124,7 @@ When Edsel Ford died prematurely in 1943, Henry Ford nominally resumed control o
 
 _The Dearborn Independent_ and antisemitism
 
-1920_International_Jew_reprint_from_Dearborn_Independent.jpg''. Articles from _The Dearborn Independent_, 1920]]
+''. Articles from _The Dearborn Independent_, 1920]]
 
 In the early 1920s, Ford sponsored a weekly newspaper that published strongly antisemitic views. At the same time, Ford had a reputation as one of the few major corporations actively hiring black workers, and was not accused of discrimination against Jewish workers or suppliers.[73] He also hired women and handicapped men at a time when doing so was uncommon.[74]
 
@@ -137,7 +134,7 @@ During this period, Ford emerged as "a respected spokesman for right-wing extrem
 
 In Germany, Ford's antisemitic articles from _The Dearborn Independent_ were issued in four volumes, cumulatively titled _The International Jew, the World's Foremost Problem_ published by Theodor Fritsch, founder of several antisemitic parties and a member of the Reichstag. In a letter written in 1924, Heinrich Himmler described Ford as "one of our most valuable, important, and witty fighters".[77] Ford is the only American mentioned favorably in _Mein Kampf_, although he is only mentioned twice:[78] Adolf Hitler wrote, "only a single great man, Ford, [who], to [the Jews'] fury, still maintains full independence ... [from] the controlling masters of the producers in a nation of one hundred and twenty millions." Speaking in 1931 to a _Detroit News_ reporter, Hitler said he regarded Ford as his "inspiration", explaining his reason for keeping Ford's life-size portrait next to his desk.[79] Steven Watts wrote that Hitler "revered" Ford, proclaiming that "I shall do my best to put his theories into practice in Germany", and modeling the Volkswagen, the people's car, on the Model T.[80] Max Wallace has stated "History records that ... Adolf Hitler was an ardent Anti-Semite before he ever read Ford's _The International Jew_."[81] Under Ford, the newspaper also reprinted the antisemitic fabricated text _The Protocols of the Elders of Zion_.[82]
 
-Service_Cross_of_the_German_Eagle.png, an award bestowed on Ford by Nazi Germany]]
+, an award bestowed on Ford by Nazi Germany]]
 
 On February 1, 1924, Ford received Kurt Ludecke, a representative of Hitler, at home. Ludecke was introduced to Ford by Siegfried Wagner (son of the composer Richard Wagner) and his wife Winifred, both Nazi sympathizers and antisemites. Ludecke asked Ford for a contribution to the Nazi cause, but was apparently refused.[83]
 
@@ -174,7 +171,7 @@ Ford's philosophy was one of economic independence for the United States. His Ri
 
 He opened Ford assembly plants in Britain and Canada in 1911, and soon became the biggest automotive producer in those countries. In 1912, Ford cooperated with Giovanni Agnelli of Fiat to launch the first Italian automotive assembly plants. The first plants in Germany were built in the 1920s with the encouragement of Herbert Hoover and the Commerce Department, which agreed with Ford's theory that international trade was essential to world peace.[101] In the 1920s, Ford also opened plants in Australia, India, and France, and by 1929, he had successful dealerships on six continents. Ford experimented with a commercial rubber plantation in the Amazon jungle called Fordlândia; it was one of his few failures.
 
-Ford_Bron_Mezhlauk.jpg In 1929, Ford made an agreement with the Soviets to provide technical aid over nine years in building the first Soviet automobile plant (GAZ) near Nizhny Novgorod (Gorky).[102] (an additional contract for construction of the plant was signed with The Austin Company on August 23, 1929).[103] The contract involved the purchase of $30,000,000 worth of knocked-down Ford cars and trucks for assembly during the first four years of the plant's operation, after which the plant would gradually switch to Soviet-made components. Ford sent his engineers and technicians to the Soviet Union to help install the equipment and train the working force, while over a hundred Soviet engineers and technicians were stationed at Ford's plants in Detroit and Dearborn "for the purpose of learning the methods and practice of manufacture and assembly in the Company's plants."[104] Said Ford: "No matter where industry prospers, whether in India or China, or Russia, the more profit there will be for everyone, including us. All the world is bound to catch some good from it."[105]
+In 1929, Ford made an agreement with the Soviets to provide technical aid over nine years in building the first Soviet automobile plant (GAZ) near Nizhny Novgorod (Gorky).[102] (an additional contract for construction of the plant was signed with The Austin Company on August 23, 1929).[103] The contract involved the purchase of $30,000,000 worth of knocked-down Ford cars and trucks for assembly during the first four years of the plant's operation, after which the plant would gradually switch to Soviet-made components. Ford sent his engineers and technicians to the Soviet Union to help install the equipment and train the working force, while over a hundred Soviet engineers and technicians were stationed at Ford's plants in Detroit and Dearborn "for the purpose of learning the methods and practice of manufacture and assembly in the Company's plants."[104] Said Ford: "No matter where industry prospers, whether in India or China, or Russia, the more profit there will be for everyone, including us. All the world is bound to catch some good from it."[105]
 
 By 1932, Ford was manufacturing one third of all the world's automobiles. It set up numerous subsidiaries that sold or assembled the Ford cars and trucks:
 
@@ -189,14 +186,14 @@ By 1932, Ford was manufacturing one third of all the world's automobiles. It set
 -   Ford Mexico
 -   Ford Philippines
 
-Bundesarchiv_Bild_102-10400,_Henry_Ford_in_Deutschland.jpg Ford's image transfixed Europeans, especially the Germans, arousing the "fear of some, the infatuation of others, and the fascination among all".[106] Germans who discussed "Fordism" often believed that it represented something quintessentially American. They saw the size, tempo, standardization, and philosophy of production demonstrated at the Ford Works as a national service—an "American thing" that represented the culture of the United States. Both supporters and critics insisted that Fordism epitomized American capitalist development, and that the auto industry was the key to understanding economic and social relations in the United States. As one German explained, "Automobiles have so completely changed the American's mode of life that today one can hardly imagine being without a car. It is difficult to remember what life was like before Mr. Ford began preaching his doctrine of salvation".[107] For many Germans, Ford embodied the essence of successful Americanism.
+Ford's image transfixed Europeans, especially the Germans, arousing the "fear of some, the infatuation of others, and the fascination among all".[106] Germans who discussed "Fordism" often believed that it represented something quintessentially American. They saw the size, tempo, standardization, and philosophy of production demonstrated at the Ford Works as a national service—an "American thing" that represented the culture of the United States. Both supporters and critics insisted that Fordism epitomized American capitalist development, and that the auto industry was the key to understanding economic and social relations in the United States. As one German explained, "Automobiles have so completely changed the American's mode of life that today one can hardly imagine being without a car. It is difficult to remember what life was like before Mr. Ford began preaching his doctrine of salvation".[107] For many Germans, Ford embodied the essence of successful Americanism.
 
 In _My Life and Work_, Ford predicted that if greed, racism, and short-sightedness could be overcome, then economic and technological development throughout the world would progress to the point that international trade would no longer be based on (what today would be called) colonial or neocolonial models and would truly benefit all peoples.[108] His ideas in this passage were vague, but they were idealistic.
 
 
 Racing
 
-Henry_Ford_and_Barney_Oldfield_with_Old_999,_1902.jpg's career in 1902]]
+'s career in 1902]]
 
 Ford maintained an interest in auto racing from 1901 to 1913 and began his involvement in the sport as both a builder and a driver, later turning the wheel over to hired drivers. He entered stripped-down Model Ts in races, finishing first (although later disqualified) in an "ocean-to-ocean" (across the United States) race in 1909, and setting a one-mile (1.6 km) oval speed record at Detroit Fairgrounds in 1911 with driver Frank Kulick. In 1913, Ford attempted to enter a reworked Model T in the Indianapolis 500 but was told rules required the addition of another to the car before it could qualify. Ford dropped out of the race and soon thereafter dropped out of racing permanently, citing dissatisfaction with the sport's rules, demands on his time by the booming production of the Model Ts, and his low opinion of racing as a worthwhile activity.
 
@@ -211,7 +208,7 @@ When Edsel Ford, President of Ford Motor Company, died of cancer in May 1943, th
 
 Most of the directors did not want to see him as President. But for the previous 20 years, though he had long been without any official executive title, he had always had _de facto_ control over the company; the board and the management had never seriously defied him, and this moment was not different. The directors elected him,[112] and he served until the end of the war. During this period the company began to decline, losing more than $10 million a month ($ today). The administration of President Franklin Roosevelt had been considering a government takeover of the company in order to ensure continued war production,[113] but the idea never progressed.
 
-Henry_Ford_grave_Ford_Cemetery_Detroit.JPG His health failing, Ford ceded the company Presidency to his grandson, Henry Ford II, in September 1945 and went into retirement. He died on April 7, 1947, of a cerebral hemorrhage at Fair Lane, his estate in Dearborn, at the age of 83. A public viewing was held at Greenfield Village where up to 5,000 people per hour filed past the casket. Funeral services were held in Detroit's Cathedral Church of St. Paul and he was buried in the Ford Cemetery in Detroit.[114][115]
+His health failing, Ford ceded the company Presidency to his grandson, Henry Ford II, in September 1945 and went into retirement. He died on April 7, 1947, of a cerebral hemorrhage at Fair Lane, his estate in Dearborn, at the age of 83. A public viewing was held at Greenfield Village where up to 5,000 people per hour filed past the casket. Funeral services were held in Detroit's Cathedral Church of St. Paul and he was buried in the Ford Cemetery in Detroit.[114][115]
 
 
 Personal interests
@@ -247,7 +244,7 @@ Ford had an interest in "Americana". In the 1920s, Ford began work to turn Sudbu
 
 In popular culture
 
-Mr_and_Mrs_Henry_Ford_in_his_first_car.jpg]]
+]]
 
 -   In Aldous Huxley's _Brave New World_ (1932), society is organized on "Fordist" lines, the years are dated A.F. or Anno Ford ("In the Year of our Ford"), and the expression "My Ford" is used instead of "My Lord". The Christian cross is replaced with a capital "T" for Model-T.
 -   Upton Sinclair created a fictional description of Ford in the 1937 novel _The Flivver King_.

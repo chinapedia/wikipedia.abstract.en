@@ -10,8 +10,6 @@ Equipment inventory
 -   RPG-7 Anti-Tank Weapon
 -   Mitsubishi L200 Pickup Trucks
 
-Hand-to-hand_combat_skills_of_the_Comoran_Army.jpg
-
 
 Aircraft
 

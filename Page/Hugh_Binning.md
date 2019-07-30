@@ -1,4 +1,4 @@
-Covenanters01hewi_orig_0413.png of 5? December 1643]] HUGH BINNING (1627–1653) was a Scottish philosopher and theologian. Binning was born in Scotland during the reign of Charles I, ordained in the (Presbyterian) Church of Scotland and died during the time of Oliver Cromwell and the Commonwealth of England.
+of 5? December 1643]] HUGH BINNING (1627–1653) was a Scottish philosopher and theologian. Binning was born in Scotland during the reign of Charles I, ordained in the (Presbyterian) Church of Scotland and died during the time of Oliver Cromwell and the Commonwealth of England.
 
 Binning was born in 1627, the son of John Binning of Dalvennan, Straiton. A precocious child, Binning at age 13 was admitted to the study of philosophy at the University of Glasgow. By the age of 19, he was appointed regent and professor of philosophy at the University of Glasgow Binning has been described as "an extraordinary instance of precocious learning and genius." At the early age of nineteen, he succeeded as Regent of Philosophy the celebrated James Dalrymple, who was afterwards President of the Court of Session, and Viscount Stair. He was called 25 October 1649. As minister of Govan, he was the successor of Mr William Wilkie. His ordination took place on the 8th of January 1649, when Mr David Dickson, one of the theological professors in the College of Glasgow, and author of " Therapeutica Sacra," presided. He was ordained in January, at the age of 22, holding his regency till 14 May that year. At that time Govan was a separate town rather than part of Glasgow.
 
@@ -28,7 +28,7 @@ When Cromwell sent troops to Scotland, he was also attempting to dis-establish P
 
 Politics
 
-EDI_CITY_CAC_1978_113.jpg. The Victorian painter William Hole places Alexander Henderson at the centre of events in 1638]] Hugh Binning political views were based on his theology. Binning was a Covenanter, a movement that began in Scotland at Greyfriars Kirkyard in 1638 with the National Covenant and continued with the 1643 Solemn League and Covenant – in effect a treaty between the English Long Parliament and Scotland for the preservation of the reformed religion in exchange for troops to confront the threat of Irish Catholic troops joining the Royalist army. Binning could also be described as a Protestor; both political positions were taken because of their religious implications. However, he saw the evils of the politics of his day was not a “fomenter of factions” writing “A Treatise of Christian Love” as a response.[4]
+. The Victorian painter William Hole places Alexander Henderson at the centre of events in 1638]] Hugh Binning political views were based on his theology. Binning was a Covenanter, a movement that began in Scotland at Greyfriars Kirkyard in 1638 with the National Covenant and continued with the 1643 Solemn League and Covenant – in effect a treaty between the English Long Parliament and Scotland for the preservation of the reformed religion in exchange for troops to confront the threat of Irish Catholic troops joining the Royalist army. Binning could also be described as a Protestor; both political positions were taken because of their religious implications. However, he saw the evils of the politics of his day was not a “fomenter of factions” writing “A Treatise of Christian Love” as a response.[4]
 
 
 Theology
@@ -46,7 +46,7 @@ Binning believed that "forgiveness is based on Christ's death, understood as a s
 
 Works
 
-Blaeu.Atlas.of.Scotland.1654.Renfrew.Govan.jpg is on the north bank of the Clyde, across from _Litle Gouan_ ("Little Govan"). ]] All of the works of Hugh Binning were published posthumously and were primarily collections of his sermons. Of his speaking style, it was said: "There is originality without any affectation, a rich imagination, without anything fanciful or extravert, the utmost simplicity, without an thing mean or trifling." [7]
+is on the north bank of the Clyde, across from _Litle Gouan_ ("Little Govan"). ]] All of the works of Hugh Binning were published posthumously and were primarily collections of his sermons. Of his speaking style, it was said: "There is originality without any affectation, a rich imagination, without anything fanciful or extravert, the utmost simplicity, without an thing mean or trifling." [7]
 
 -   _The Common Principles of the Christian Religion, Clearly Proved, and Singularly Improved; or, A Practical Catechism_ published by Patrick Gillespie in 1660
 
@@ -97,7 +97,7 @@ The documents seems to have been presented to the Society either by Hugh Binning
 
 Personal life
 
-Sir_James_Dalrymple_of_Stair.jpg, President of the Court of Session, Created 1st Viscount Stair]] Hugh Binning was the son of John Binning and Margaret M'Kell. Margaret was the daughter of Rev. Matthew M'Kell,[14] [15] who was a minister in the parish of Bothwell, Scotland, and sister of Hugh M'Kell, a minister in Edinburgh. [16] [17] [18] Hugh Binning was born on the estate of his father in Dalvennan, Straiton, in the shire of Ayr. The family owned other land in the parishes of Straiton and Colmonell as well as Maybole in Carrick. [19]
+, President of the Court of Session, Created 1st Viscount Stair]] Hugh Binning was the son of John Binning and Margaret M'Kell. Margaret was the daughter of Rev. Matthew M'Kell,[14] [15] who was a minister in the parish of Bothwell, Scotland, and sister of Hugh M'Kell, a minister in Edinburgh. [16] [17] [18] Hugh Binning was born on the estate of his father in Dalvennan, Straiton, in the shire of Ayr. The family owned other land in the parishes of Straiton and Colmonell as well as Maybole in Carrick. [19]
 
 In 1645, James Dalrymple, 1st Viscount of Stair, who was Hugh's master (primary professor) in the study of philosophy, announced he was retiring from the University of Glasgow. After a national search for a replacement on the faculty, three men were selected to compete for the position. Hugh was one of those selected, but was at a disadvantage because of his extreme youth and because he was not of noble birth. However, he had strong support from the existing faculty, who suggested that the candidates speak extemporaneously on any topic of the candidate's choice. After hearing Hugh speak, the other candidates withdrew, making Hugh a regent and professor of philosophy, while he was still 18 years old.[20]
 

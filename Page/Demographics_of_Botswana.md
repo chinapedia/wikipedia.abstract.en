@@ -1,6 +1,6 @@
 This article is about the demographic features of the population of Botswana, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
-Botswana-demography.svg, year 2008; Number of inhabitants in thousands.]] Botswanahouse.jpg
+, year 2008; Number of inhabitants in thousands.]]
 
 Botswana, like many nations in southern Africa, suffers from a high HIV infection rate, estimated among adults ages 15 to 49 to be 24.8%.[1]
 
@@ -136,8 +136,6 @@ Population
     2,214,858 (July 2017 est.)
 
 Age structure
-
-Botswanapop.svg
 
 -   _0-14 years:_ 31.48% (male 357,175 /female 350,775)
 -   _15-24 years:_ 18.7% (male 207,611 /female 212,874)

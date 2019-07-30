@@ -3,7 +3,7 @@ Book of Kings}} The two BOOKS OF KINGS, originally a single book, are the eleven
 
 Contents
 
-Saabaghiberti.jpg]]
+]]
 
 The Jerusalem Bible divides the two books of Kings into eight sections:
 
@@ -27,7 +27,7 @@ In the final chapters, God brings the Neo-Babylonian Empire of King Nebuchadnezz
 
 Composition
 
-Rembrandt_Harmensz._van_Rijn_-_Jeremia_treurend_over_de_verwoesting_van_Jeruzalem_-_Google_Art_Project.jpg, _Jeremiah Lamenting the Destruction of Jerusalem_, c. 1630.]]
+, _Jeremiah Lamenting the Destruction of Jerusalem_, c. 1630.]]
 
 Textual history
 
@@ -50,7 +50,7 @@ The editors/authors of the Deuteronomistic history cite a number of sources, inc
 
 Themes and genre
 
-Genealogy_of_the_kings_of_Israel_and_Judah.svg]]
+]]
 
 Kings is "history-like" rather than history in the modern sense, mixing legends, folktales, miracle stories and "fictional constructions" in with the annals, and its primary explanation for all that happens is God's offended sense of what is right; it is therefore more fruitful to read it as theological literature in the form of history.[24] The theological bias is seen in the way it judges each king of Israel on the basis of whether he recognises the authority of the Temple in Jerusalem (none do, and therefore all are "evil"), and each king of Judah on the basis of whether he destroys the "high places" (rivals to the Temple in Jerusalem); it gives only passing mention to important and successful kings like Omri and Jeroboam II and totally ignores one of the most significant events in ancient Israel's history, the battle of Qarqar.[25]
 
@@ -65,7 +65,7 @@ Another and related theme is that of prophecy. The main point of the prophetic s
 
 Textual features
 
-Tissot_The_Flight_of_the_Prisoners.jpg, _The Flight of the Prisoners_ – the fall of Jerusalem, 586 BCE]]
+, _The Flight of the Prisoners_ – the fall of Jerusalem, 586 BCE]]
 
 Chronology
 

@@ -39,7 +39,7 @@ SAT is trivial if the formulas are restricted to those in DISJUNCTIVE NORMAL FOR
 
 3-satisfiability
 
-Sat_reduced_to_Clique_from_Sipser.svg. The green vertices form a 3-clique and correspond to the satisfying assignment _x_=FALSE, _y_=TRUE.]] Like the satisfiability problem for arbitrary formulas, determining the satisfiability of a formula in conjunctive normal form where each clause is limited to at most three literals is NP-complete also; this problem is called 3-SAT, 3CNFSAT, or 3-SATISFIABILITY. To reduce the unrestricted SAT problem to 3-SAT, transform each clause to a conjunction of _n_ − 2 clauses
+. The green vertices form a 3-clique and correspond to the satisfying assignment _x_=FALSE, _y_=TRUE.]] Like the satisfiability problem for arbitrary formulas, determining the satisfiability of a formula in conjunctive normal form where each clause is limited to at most three literals is NP-complete also; this problem is called 3-SAT, 3CNFSAT, or 3-SATISFIABILITY. To reduce the unrestricted SAT problem to 3-SAT, transform each clause to a conjunction of _n_ − 2 clauses
 
 
 
@@ -63,7 +63,7 @@ Some authors restrict k-SAT to CNF formulas with EXACTLY K LITERALS. This doesn'
 
 Exactly-1 3-satisfiability
 
-Schaefer's_3-SAT_to_1-in-3-SAT_reduction.gif A variant of the 3-satisfiability problem is the ONE-IN-THREE 3-SAT (also known variously as 1-IN-3-SAT and EXACTLY-1 3-SAT). Given a conjunctive normal form with three literals per clause, the problem is to determine whether there exists a truth assignment to the variables so that each clause has _exactly_ one TRUE literal (and thus exactly two FALSE literals). In contrast, ordinary 3-SAT requires that every clause has _at least_ one TRUE literal. Formally, a one-in-three 3-SAT problem is given as a generalized conjunctive normal form with all generalized clauses using a ternary operator _R_ that is TRUE just if exactly one of its arguments is. When all literals of a one-in-three 3-SAT formula are positive, the satisfiability problem is called ONE-IN-THREE POSITIVE 3-SAT.
+A variant of the 3-satisfiability problem is the ONE-IN-THREE 3-SAT (also known variously as 1-IN-3-SAT and EXACTLY-1 3-SAT). Given a conjunctive normal form with three literals per clause, the problem is to determine whether there exists a truth assignment to the variables so that each clause has _exactly_ one TRUE literal (and thus exactly two FALSE literals). In contrast, ordinary 3-SAT requires that every clause has _at least_ one TRUE literal. Formally, a one-in-three 3-SAT problem is given as a generalized conjunctive normal form with all generalized clauses using a ternary operator _R_ that is TRUE just if exactly one of its arguments is. When all literals of a one-in-three 3-SAT formula are positive, the satisfiability problem is called ONE-IN-THREE POSITIVE 3-SAT.
 
 One-in-three 3-SAT, together with its positive case, is listed as NP-complete problem "LO4" in the standard reference, _Computers and Intractability: A Guide to the Theory of NP-Completeness_ by Michael R. Garey and David S. Johnson. One-in-three 3-SAT was proved to be NP-complete by Thomas Jerome Schaefer as a special case of Schaefer's dichotomy theorem, which asserts that any problem generalizing Boolean satisfiability in a certain way is either in the class P or is NP-complete.[11]
 
@@ -85,9 +85,8 @@ Horn clauses are of interest because they are able to express implication of one
 
 A generalization of the class of Horn formulae is that of renameable-Horn formulae, which is the set of formulae that can be placed in Horn form by replacing some variables with their respective negation. For example, (_x_₁ ∨ ¬_x_₂) ∧ (¬_x_₁ ∨ _x_₂ ∨ _x_₃) ∧ ¬_x_₁ is not a Horn formula, but can be renamed to the Horn formula (_x_₁ ∨ ¬_x_₂) ∧ (¬_x_₁ ∨ _x_₂ ∨ ¬_y_₃) ∧ ¬_x_₁ by introducing _y_₃ as negation of _x_₃. In contrast, no renaming of (_x_₁ ∨ ¬_x_₂ ∨ ¬_x_₃) ∧ (¬_x_₁ ∨ _x_₂ ∨ _x_₃) ∧ ¬_x_₁ leads to a Horn formula. Checking the existence of such a replacement can be done in linear time; therefore, the satisfiability of such formulae is in P as it can be solved by first performing this replacement and then checking the satisfiability of the resulting Horn formula.
 
-  ---------------------------------------------------
-  Boolean_satisfiability_vs_true_literal_counts.png
-  ---------------------------------------------------
+  --
+  --
 
 XOR-satisfiability
 

@@ -3,8 +3,6 @@ CETUS () is a constellation. Its name refers to Cetus, a sea monster in Greek my
 
 Features
 
-CetusCC.jpg
-
 Ecliptic
 
 Although Cetus is not generally considered part of the zodiac, the ecliptic passes less than a quarter of a degree from its constellation boundary, and thus the moon, planets, and even part of the sun may be in Cetus for brief periods of time. This is all the more true of asteroids since their orbits usually have a greater inclination to the ecliptic than the moon and planets.
@@ -21,7 +19,7 @@ AA Ceti is a triple star system; the brightest member has a magnitude of 6.2. Th
 
 Deep-sky objects
 
-Messier_77_spiral_galaxy_by_HST.jpg Himmelsglob,_1602_-_Skoklosters_slott_-_102439.tif Cetus lies far from the galactic plane, so that many distant galaxies are visible, unobscured by dust from the Milky Way. Of these, the brightest is Messier 77 (NGC 1068), a 9th magnitude spiral galaxy near Delta Ceti. It appears face-on and has a clearly visible nucleus of magnitude 10. About 50 million light-years from Earth, M77 is also a Seyfert galaxy and thus a bright object in the radio spectrum. Recently, the galactic cluster JKCS 041 was confirmed to be the most distant cluster of galaxies yet discovered.[1]
+Cetus lies far from the galactic plane, so that many distant galaxies are visible, unobscured by dust from the Milky Way. Of these, the brightest is Messier 77 (NGC 1068), a 9th magnitude spiral galaxy near Delta Ceti. It appears face-on and has a clearly visible nucleus of magnitude 10. About 50 million light-years from Earth, M77 is also a Seyfert galaxy and thus a bright object in the radio spectrum. Recently, the galactic cluster JKCS 041 was confirmed to be the most distant cluster of galaxies yet discovered.[1]
 
 The massive cD galaxy Holmberg 15A is also found in Cetus. As is spiral galaxy NGC 1042 and ultra-diffuse galaxy NGC 1052-DF2.
 
@@ -32,7 +30,7 @@ NGC 246 (Caldwell 56), also called the Cetus Ring, is a planetary nebula with a 
 
 History and mythology
 
-Sidney_Hall_-_Urania's_Mirror_-_Psalterium_Georgii,_Fluvius_Eridanus,_Cetus,_Officina_Sculptoris,_Fornax_Chemica,_and_Machina_Electrica.jpg'' (1825).]] Cetus may have originally been associated with a whale, which would have had mythic status amongst Mesopotamian cultures. It is often now called the Whale, though it is most strongly associated with Cetus the sea-monster, who was slain by Perseus as he saved the princess Andromeda from Poseidon's wrath. Cetus is located in a region of the sky called "The Sea" because many water-associated constellations are placed there, including Eridanus, Pisces, Piscis Austrinus, Capricornus, and Aquarius.[2]
+'' (1825).]] Cetus may have originally been associated with a whale, which would have had mythic status amongst Mesopotamian cultures. It is often now called the Whale, though it is most strongly associated with Cetus the sea-monster, who was slain by Perseus as he saved the princess Andromeda from Poseidon's wrath. Cetus is located in a region of the sky called "The Sea" because many water-associated constellations are placed there, including Eridanus, Pisces, Piscis Austrinus, Capricornus, and Aquarius.[2]
 
 Cetus has been depicted in many ways throughout its history. In the 17th century, Cetus was depicted as a "dragon fish" by Johann Bayer. Both Willem Blaeu and Andreas Cellarius depicted Cetus as a whale-like creature in the same century. However, Cetus has also been variously depicted with animal heads attached to a piscine body.[3]
 

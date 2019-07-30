@@ -32,7 +32,7 @@ After a new constitution was approved by referendum, it is expected President Al
 
 Legislative branch
 
-Asnat_codivoire.jpg.]] Parliament of Ivory Coast will be a bicameral body composed by the National Assembly and the Senate of Ivory Coast. Prior to November 2016 and the future creation of the Senate, the Parliament of Ivory Coast was only composed of the National Assembly. The National Assembly (_Assemblée Nationale_) has 225 members, elected for a five-year term in single-seat constituencies. It passes on legislation typically introduced by the president although it also can introduce legislation. The Senate of Ivory Coast (_Sénat_) will have two third of senators indirectly elected and one third appointed by the president-elect, elected five-year term in single-seat constituencies. Ivory Coast is a one party dominant state with the Rally of the Republicans in power.
+.]] Parliament of Ivory Coast will be a bicameral body composed by the National Assembly and the Senate of Ivory Coast. Prior to November 2016 and the future creation of the Senate, the Parliament of Ivory Coast was only composed of the National Assembly. The National Assembly (_Assemblée Nationale_) has 225 members, elected for a five-year term in single-seat constituencies. It passes on legislation typically introduced by the president although it also can introduce legislation. The Senate of Ivory Coast (_Sénat_) will have two third of senators indirectly elected and one third appointed by the president-elect, elected five-year term in single-seat constituencies. Ivory Coast is a one party dominant state with the Rally of the Republicans in power.
 
 
 Judicial branch

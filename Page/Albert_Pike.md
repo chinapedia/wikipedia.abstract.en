@@ -14,7 +14,7 @@ Pike's relative, Jacob, married Bethina Jones, daughter of the Chief of the Choc
 
 Journalist and lawyer
 
-Albert_Pike_CDV.jpg Settling in Arkansas in 1833, Pike taught in a school and wrote a series of articles for the Little Rock _Arkansas Advocate_ under the pen name of "Casca."[8] The articles were popular enough that he was asked to join the newspaper's staff. Under Pike's administration the _Advocate_ promoted the viewpoint of the Whig Party in a politically volatile and divided Arkansas in December 1832.[9] After marrying Mary Ann Hamilton in 1834, he purchased the newspaper.[10]
+Settling in Arkansas in 1833, Pike taught in a school and wrote a series of articles for the Little Rock _Arkansas Advocate_ under the pen name of "Casca."[8] The articles were popular enough that he was asked to join the newspaper's staff. Under Pike's administration the _Advocate_ promoted the viewpoint of the Whig Party in a politically volatile and divided Arkansas in December 1832.[9] After marrying Mary Ann Hamilton in 1834, he purchased the newspaper.[10]
 
 He was the first reporter for the Arkansas Supreme Court. He wrote a book (published anonymously), titled _The Arkansas Form Book_, which was a guidebook for lawyers[11]. Pike began to study law and was admitted to the bar in 1837, selling the _Advocate_ the same year.
 
@@ -25,7 +25,7 @@ Additionally, Pike wrote on several legal subjects. He also continued writing po
 
 Military service
 
-Albert_Pike_memorial_statue.jpg'' statue, Washington, D.C.]]
+'' statue, Washington, D.C.]]
 
 Mexican–American War
 

@@ -10,7 +10,7 @@ The word _fox_ comes from Old English, which derived from Proto-Germanic *_fuhsa
 
 Phylogenetic relationships
 
-Vulpes_vulpes_&_Urocyon_cinereoargenteus_skulls_&_mandibles.jpg Within the Canidae, the results of DNA analysis shows several phylogenetic divisions:
+Within the Canidae, the results of DNA analysis shows several phylogenetic divisions:
 
 1.  The fox-like canids, which include the kit fox (_Vulpes velox_), red fox (_Vulpes vulpes_), Cape fox (_Vulpes chama_), Arctic fox (_Vulpes lagopus_), and fennec fox (_Vulpes zerda_).[6]
 2.  The wolf-like canids, (genus _Canis_, _Cuon_ and _Lycaon_) including the dog _(Canis lupus familiaris)_, gray wolf (_Canis lupus_), red wolf (_Canis rufus_), eastern wolf (_Canis lycaon_), coyote (_Canis latrans_), golden jackal (_Canis aureus_), Ethiopian wolf (_Canis simensis_), black-backed jackal (_Canis mesomelas_), side-striped jackal (_Canis adustus_), dhole (_Cuon alpinus_), and African wild dog (_Lycaon pictus_).[7]
@@ -19,8 +19,6 @@ Vulpes_vulpes_&_Urocyon_cinereoargenteus_skulls_&_mandibles.jpg Within the Canid
 
 
 Biology
-
-FoxSkelLyd1.png
 
 General morphology
 
@@ -36,7 +34,7 @@ A fox's dentition, like all other canids, is I 3/3, C 1/1, PM 4/4, M 3/2 = 42. (
 
 Behaviour
 
-Alopex_lagopus_coiled_up_in_snow.jpg curled up in snow]] In the wild, the typical lifespan of a fox is one to three years, although individuals may live up to ten years. Unlike many canids, foxes are not always pack animals. Typically, they live in small family groups, but some (Arctic foxes) are known to be solitary.[21][22]
+curled up in snow]] In the wild, the typical lifespan of a fox is one to three years, although individuals may live up to ten years. Unlike many canids, foxes are not always pack animals. Typically, they live in small family groups, but some (Arctic foxes) are known to be solitary.[21][22]
 
 Foxes are omnivores.[23][24] The diet of foxes is largely made up of invertebrates such as insects, and small vertebrates such as reptiles and birds, and can include eggs and plants. Many species are generalist predators, but some (such as the crab-eating fox) have more specialized diets. Most species of fox consume around of food every day. Foxes cache excess food, burying it for later consumption, usually under leaves, snow, or soil.[25][26] Foxes tend to use a pouncing technique where they crouch down to camouflage themselves in the terrain, then using their hind legs, leap up with great force to land on top of their targeted prey.[27] Using their pronounced canine teeth, foxes grip on to their prey's neck and either shake until the prey is dead, or until the animal can be disemboweled.[28]
 
@@ -73,48 +71,46 @@ Classification
 
 Canids commonly known as foxes include the following genera and species:[41]
 
-+--------------+--------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| Genus        | Species                                                                                          | Picture                                                                                               |
-+==============+==================================================================================================+=======================================================================================================+
-| _Canis_      | Ethiopian wolf, sometimes called the Simien fox or Simien jackal                                 | Canis_simensis_.jpg, native to the Ethiopian highlands]]                                              |
-+--------------+--------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| _Cerdocyon_  | Crab-eating fox                                                                                  | Cerdocyon_thous_MG_9503.jpg, a South American species]]                                               |
-+--------------+--------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| † _Dusicyon_ | extinct genus, including the Falkland Islands wolf, sometimes known as the Falklands Islands fox | FalklandIslandFox2.jpg Illustration by John Gerrard Keulemans (1842–1912)]]                           |
-+--------------+--------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| _Lycalopex_  | -   Culpeo or Andean fox                                                                         | fox_pan_de_azucar.JPG in Pan de Azúcar National Park along the Pacific coast of the Atacama Desert]]  |
-|              | -   Darwin's fox                                                                                 |                                                                                                       |
-|              | -   South American gray fox                                                                      |                                                                                                       |
-|              | -   Pampas fox                                                                                   |                                                                                                       |
-|              | -   Sechuran fox                                                                                 |                                                                                                       |
-|              | -   Hoary fox                                                                                    |                                                                                                       |
-+--------------+--------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| _Otocyon_    | Bat-eared fox                                                                                    | Bat_eared_fox_Kenya_crop.jpg in Kenya]]                                                               |
-+--------------+--------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| _Urocyon_    | -   Gray fox                                                                                     | Urocyon_littoralis_full_figure.jpg (_Urocyon littoralis_), in the Channel Islands of California, US]] |
-|              | -   Island fox                                                                                   |                                                                                                       |
-|              | -   Cozumel fox (undescribed)                                                                    |                                                                                                       |
-+--------------+--------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| _Vulpes_     | -   Arctic fox                                                                                   | Fennec_Fox.jpg is the smallest species of fox]]                                                       |
-|              | -   Bengal fox                                                                                   |                                                                                                       |
-|              | -   Blanford's fox                                                                               |                                                                                                       |
-|              | -   Cape fox                                                                                     |                                                                                                       |
-|              | -   Corsac fox                                                                                   |                                                                                                       |
-|              | -   Fennec fox                                                                                   |                                                                                                       |
-|              | -   Kit fox                                                                                      |                                                                                                       |
-|              | -   Pale fox                                                                                     |                                                                                                       |
-|              | -   Rüppell's fox                                                                                |                                                                                                       |
-|              | -   Red fox                                                                                      |                                                                                                       |
-|              | -   Swift fox                                                                                    |                                                                                                       |
-|              | -   Tibetan sand fox                                                                             |                                                                                                       |
-+--------------+--------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-
-Räv_vid_Revhusen_i_Ystad_-_Juli_2012..jpg
++--------------+--------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| Genus        | Species                                                                                          | Picture                                                                        |
++==============+==================================================================================================+================================================================================+
+| _Canis_      | Ethiopian wolf, sometimes called the Simien fox or Simien jackal                                 | , native to the Ethiopian highlands]]                                          |
++--------------+--------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| _Cerdocyon_  | Crab-eating fox                                                                                  | , a South American species]]                                                   |
++--------------+--------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| † _Dusicyon_ | extinct genus, including the Falkland Islands wolf, sometimes known as the Falklands Islands fox | Illustration by John Gerrard Keulemans (1842–1912)]]                           |
++--------------+--------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| _Lycalopex_  | -   Culpeo or Andean fox                                                                         | in Pan de Azúcar National Park along the Pacific coast of the Atacama Desert]] |
+|              | -   Darwin's fox                                                                                 |                                                                                |
+|              | -   South American gray fox                                                                      |                                                                                |
+|              | -   Pampas fox                                                                                   |                                                                                |
+|              | -   Sechuran fox                                                                                 |                                                                                |
+|              | -   Hoary fox                                                                                    |                                                                                |
++--------------+--------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| _Otocyon_    | Bat-eared fox                                                                                    | in Kenya]]                                                                     |
++--------------+--------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| _Urocyon_    | -   Gray fox                                                                                     | (_Urocyon littoralis_), in the Channel Islands of California, US]]             |
+|              | -   Island fox                                                                                   |                                                                                |
+|              | -   Cozumel fox (undescribed)                                                                    |                                                                                |
++--------------+--------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| _Vulpes_     | -   Arctic fox                                                                                   | is the smallest species of fox]]                                               |
+|              | -   Bengal fox                                                                                   |                                                                                |
+|              | -   Blanford's fox                                                                               |                                                                                |
+|              | -   Cape fox                                                                                     |                                                                                |
+|              | -   Corsac fox                                                                                   |                                                                                |
+|              | -   Fennec fox                                                                                   |                                                                                |
+|              | -   Kit fox                                                                                      |                                                                                |
+|              | -   Pale fox                                                                                     |                                                                                |
+|              | -   Rüppell's fox                                                                                |                                                                                |
+|              | -   Red fox                                                                                      |                                                                                |
+|              | -   Swift fox                                                                                    |                                                                                |
+|              | -   Tibetan sand fox                                                                             |                                                                                |
++--------------+--------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
 
 
 Conservation
 
-Urocyon_littoralis_pair.jpg is a near-threatened species.]] Several fox species are endangered in their native environments. Pressures placed on foxes include habitat loss and being hunted for pelts, other trade, or control.[42] Due in part to their opportunistic hunting style and industriousness, foxes are commonly resented as nuisance animals.[43] On the other hand, foxes, while often considered pests themselves, have been successfully employed to control pests on fruit farms while leaving the fruit intact.[44]
+is a near-threatened species.]] Several fox species are endangered in their native environments. Pressures placed on foxes include habitat loss and being hunted for pelts, other trade, or control.[42] Due in part to their opportunistic hunting style and industriousness, foxes are commonly resented as nuisance animals.[43] On the other hand, foxes, while often considered pests themselves, have been successfully employed to control pests on fruit farms while leaving the fruit intact.[44]
 
 Island fox (_Urocyon littoralis_)
 
@@ -127,7 +123,7 @@ Darwin's fox is considered critically endangered because of their small known po
 
 Relationships with humans
 
-Sunny_Fox.jpg on the porch of a house.]] Foxes are often considered pests or nuisance creatures for their opportunistic attacks on poultry and other small livestock. Fox attacks on humans are not common.[64] Many foxes adapt well to human environments, with several species classified as "resident urban carnivores" for their ability to sustain populations entirely within urban boundaries.[65] Foxes in urban areas can live longer and can have smaller litter sizes than foxes in non-urban areas.[66] Urban foxes are ubiquitous in Europe, where they show altered behaviors compared to non-urban foxes, including increased population density, smaller territory, and pack foraging.[67] Foxes have been introduced in numerous locations, with varying effects on indigenous flora and fauna.[68]
+on the porch of a house.]] Foxes are often considered pests or nuisance creatures for their opportunistic attacks on poultry and other small livestock. Fox attacks on humans are not common.[64] Many foxes adapt well to human environments, with several species classified as "resident urban carnivores" for their ability to sustain populations entirely within urban boundaries.[65] Foxes in urban areas can live longer and can have smaller litter sizes than foxes in non-urban areas.[66] Urban foxes are ubiquitous in Europe, where they show altered behaviors compared to non-urban foxes, including increased population density, smaller territory, and pack foraging.[67] Foxes have been introduced in numerous locations, with varying effects on indigenous flora and fauna.[68]
 
 In some countries, foxes are major predators of rabbits and hens. Population oscillations of these two species were the first nonlinear oscillation studied, and led to the now-famous Lotka-Volterra equation.[69][70]
 
@@ -137,7 +133,7 @@ Fox hunting originated in the United Kingdom in the 16th century. Hunting with d
 
 Domestication
 
-A_tame_fox_cub_at_home_with_Mr_and_Mrs_Gordon_Jones,_Talysarn_(4478261667).jpg]] There are many records of domesticated red foxes and others, but rarely of sustained domestication. A recent and notable exception is the Russian silver fox,[76] which resulted in visible and behavioral changes, and is a case study of an animal population modeling according to human domestication needs. The current group of domesticated silver foxes are the result of nearly fifty years of experiments in the Soviet Union and Russia to domesticate the silver morph of the red fox. This selective breeding resulted in physical and behavioral traits appearing that are frequently seen in domestic cats, dogs, and other animals, such as pigmentation changes, floppy ears, and curly tails.[77] Notably, the new foxes became more tame, allowing themselves to be petted, whimpering to get attention and sniffing and licking their caretakers.[78]
+]] There are many records of domesticated red foxes and others, but rarely of sustained domestication. A recent and notable exception is the Russian silver fox,[76] which resulted in visible and behavioral changes, and is a case study of an animal population modeling according to human domestication needs. The current group of domesticated silver foxes are the result of nearly fifty years of experiments in the Soviet Union and Russia to domesticate the silver morph of the red fox. This selective breeding resulted in physical and behavioral traits appearing that are frequently seen in domestic cats, dogs, and other animals, such as pigmentation changes, floppy ears, and curly tails.[77] Notably, the new foxes became more tame, allowing themselves to be petted, whimpering to get attention and sniffing and licking their caretakers.[78]
 
 Attacks on humans
 

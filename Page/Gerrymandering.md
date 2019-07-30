@@ -1,5 +1,3 @@
-DifferingApportionment.svg
-
 GERRYMANDERING ( )[1] is a practice intended to establish a political advantage for a particular party or group by manipulating district boundaries.
 
 The term is named after Elbridge Gerry, who, as Governor of Massachusetts in 1812, signed a bill that created a partisan district in the Boston area that was compared to the shape of a mythological salamander.
@@ -13,7 +11,7 @@ The resulting district is known as a GERRYMANDER (); however, that word is also 
 
 Etymology
 
-The_Gerry-Mander_Edit.png, as a dragon-like "monster". Federalist newspaper editors and others at the time likened the district shape to a salamander, and the word _gerrymander_ was a blend of that word and Governor Gerry's last name.]]
+, as a dragon-like "monster". Federalist newspaper editors and others at the time likened the district shape to a salamander, and the word _gerrymander_ was a blend of that word and Governor Gerry's last name.]]
 
 The word gerrymander (originally written Gerry-mander) was used for the first time in the Boston Gazette (not to be confused with the original _Boston Gazette_) on 26 March 1812. The word was created in reaction to a redrawing of Massachusetts state senate election districts under Governor Elbridge Gerry. In 1812, Gerry signed a bill that redistricted Massachusetts to benefit his Democratic-Republican Party. When mapped, one of the contorted districts in the Boston area was said to resemble the shape of a mythological salamander.[6]
 
@@ -192,7 +190,7 @@ Under the Sixth Periodic Review of Westminster constituencies, the Coalition gov
 
 United States
 
-TravisCountyDistricts.png (outlined in red) in 2002, left, and 2004, right. In 2003, the majority of Republicans in the Texas legislature redistricted the state, diluting the voting power of the heavily Democratic county by parcelling its residents out to more Republican districts.]] North_Carolina_12th_Congressional_District_(National_Atlas).gif'' was a United States Supreme Court case involving the redistricting and racial gerrymandering of North Carolina's 12th congressional district _(pictured)_.]]
+(outlined in red) in 2002, left, and 2004, right. In 2003, the majority of Republicans in the Texas legislature redistricted the state, diluting the voting power of the heavily Democratic county by parcelling its residents out to more Republican districts.]] '' was a United States Supreme Court case involving the redistricting and racial gerrymandering of North Carolina's 12th congressional district _(pictured)_.]]
 
 The United States, among the first with an elected representative government, eventually named the practice. Incidents precede the 1789 election of the First U.S. Congress. In 1788, Patrick Henry and his Anti-Federalist allies were in control of the Virginia House of Delegates. They drew the boundaries of Virginia's 5th congressional district in an unsuccessful attempt to keep James Madison out of the U.S. House of Representatives via the candidacy of James Monroe.[67]
 
@@ -219,7 +217,7 @@ Prior to the 26 September 2010 legislative elections, gerrymandering took place 
 
 Gerrymandering tactics
 
-Elkanah_Tisdale,_The_Gerry-Mander_Map,_1813_Cornell_CUL_PJM_1034_01.jpg The primary goals of gerrymandering are to maximize the effect of supporters' votes and to minimize the effect of opponents' votes. A partisan gerrymander's main purpose is to influence not only the districting statute but the entire corpus of legislative decisions enacted in its path.[84]
+The primary goals of gerrymandering are to maximize the effect of supporters' votes and to minimize the effect of opponents' votes. A partisan gerrymander's main purpose is to influence not only the districting statute but the entire corpus of legislative decisions enacted in its path.[84]
 
 These can be accomplished through a number of ways:[85]
 
@@ -241,7 +239,7 @@ While the wasted vote effect is strongest when a party wins by narrow margins ac
 
 Effect on electoral competition
 
-Gerrymandering_9-6.png. For a state with 3 equally sized districts, 15 voters and 2 parties: _Plum_ (squares) and _Orange_ (circles).
+. For a state with 3 equally sized districts, 15 voters and 2 parties: _Plum_ (squares) and _Orange_ (circles).
 In (A), creating 3 mixed-type districts yields a 3–0 win to _Plum_—a disproportional result considering the statewide 9:6 _Plum_ majority.
 In (B), _Orange_ wins the urban district while _Plum_ wins the rural districts—the 2–1 result reflects the statewide vote ratio.
 In (C), gerrymandering techniques ensure a 2–1 win to the statewide minority _Orange_ party.]]
@@ -293,7 +291,7 @@ Prison-based gerrymandering occurs when prisoners are counted as residents of a 
 
 Changes to achieve competitive elections
 
-map22007.gif]] Due to the perceived issues associated with gerrymandering and its effect on competitive elections and democratic accountability, numerous countries have enacted reforms making the practice either more difficult or less effective. Countries such as the U.K., Australia, Canada and most of those in Europe have transferred responsibility for defining constituency boundaries to neutral or cross-party bodies. In Spain, they are constitutionally fixed since 1978.[110]
+]] Due to the perceived issues associated with gerrymandering and its effect on competitive elections and democratic accountability, numerous countries have enacted reforms making the practice either more difficult or less effective. Countries such as the U.K., Australia, Canada and most of those in Europe have transferred responsibility for defining constituency boundaries to neutral or cross-party bodies. In Spain, they are constitutionally fixed since 1978.[110]
 
 In the United States, however, such reforms are controversial and frequently meet particularly strong opposition from groups that benefit from gerrymandering. In a more neutral system, they might lose considerable influence.
 
@@ -349,7 +347,7 @@ Depending on the distribution of voters for a particular party, metrics that max
 
 Minimum district to convex polygon ratio
 
-One method is to define a minimum district to convex polygon ratio . To use this method, every proposed district is circumscribed by the smallest possible convex polygon (similar to the concept of a convex hull; think of stretching a rubberband around the outline of the district). Then, the area of the district is divided by the area of the polygon; or, if at the edge of the state, by the portion of the area of the polygon within state boundaries. GeorgiaDistricts8and10.png The advantages of this method are that it allows a certain amount of human intervention to take place (thus solving the Colorado problem of splitline districting); it allows the borders of the district to follow existing jagged subdivisions, such as neighbourhoods or voting districts (something isoperimetric rules would discourage); and it allows concave coastline districts, such as the Florida gulf coast area. It would mostly eliminate bent districts, but still permit long, straight ones. However, since human intervention is still allowed, the gerrymandering issues of packing and cracking would still occur, just to a lesser extent.
+One method is to define a minimum district to convex polygon ratio . To use this method, every proposed district is circumscribed by the smallest possible convex polygon (similar to the concept of a convex hull; think of stretching a rubberband around the outline of the district). Then, the area of the district is divided by the area of the polygon; or, if at the edge of the state, by the portion of the area of the polygon within state boundaries. The advantages of this method are that it allows a certain amount of human intervention to take place (thus solving the Colorado problem of splitline districting); it allows the borders of the district to follow existing jagged subdivisions, such as neighbourhoods or voting districts (something isoperimetric rules would discourage); and it allows concave coastline districts, such as the Florida gulf coast area. It would mostly eliminate bent districts, but still permit long, straight ones. However, since human intervention is still allowed, the gerrymandering issues of packing and cracking would still occur, just to a lesser extent.
 
 Shortest splitline algorithm
 

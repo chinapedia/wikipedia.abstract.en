@@ -1,5 +1,3 @@
-L_%27photo_de_haschich.png Hashish,_American_pressed.jpg
-
 HASHISH, or HASH, is a drug made from the resin of the cannabis plant.[1] It is consumed by smoking a small piece, typically in a pipe, bong, vaporizer or joint, or via oral ingestion (after decarboxylation). As pure hashish will not burn if rolled alone in a joint, it is typically mixed with herbal cannabis, tobacco or another type of herb for this method of consumption. Depending on region or country, multiple synonyms and alternative names exist.[2]
 
 Hash is an extracted cannabis product composed of compressed or purified preparations of stalked resin glands, called trichomes, from the plant. It is defined by the 1961 UN Single Convention on Narcotic Drugs (Schedule I and IV) as "the separated resin, whether crude or purified, obtained from the cannabis plant". The resin contains ingredients such as tetrahydrocannabinol (THC) and other cannabinoids—but often in higher concentrations than the unsifted or unprocessed cannabis flower.[3] Purities of confiscated hashish in Europe (2011) range between 4-15%. Between 2000 and 2005 the percentage of hashish in cannabis end product seizures was at 18%.[4]
@@ -71,7 +69,7 @@ Generally the after effects are the same as for cannabis use in general, includi
 
 Use
 
-Sebse.jpg, a Moroccan long-drawtube one-hitter.]] Hashish can be consumed by oral ingestion or smoking; typically in a pipe, bong, vaporizer or joints, where it is normally mixed with cannabis or tobacco, as pure hashish will burn poorly if burned alone. In many parts of the world, individuals do what are known as "buckets"[39], in which they take a bottle with the bottom cut off and put it in a bucket of water, they then take a pipe bowl and put it in the top of the bottle , stick a "slab"(large hashish ball) then let the smoke fill the bottle before inhalation. THC has a low water solubility therefore ingestion leads to poor absorption.[40] Generally the methods are similar to overall cannabis consumption.
+, a Moroccan long-drawtube one-hitter.]] Hashish can be consumed by oral ingestion or smoking; typically in a pipe, bong, vaporizer or joints, where it is normally mixed with cannabis or tobacco, as pure hashish will burn poorly if burned alone. In many parts of the world, individuals do what are known as "buckets"[39], in which they take a bottle with the bottom cut off and put it in a bucket of water, they then take a pipe bowl and put it in the top of the bottle , stick a "slab"(large hashish ball) then let the smoke fill the bottle before inhalation. THC has a low water solubility therefore ingestion leads to poor absorption.[40] Generally the methods are similar to overall cannabis consumption.
 
 
 Altered state
@@ -93,13 +91,13 @@ Expectancies and anticipation which are important to keep behaviour consistent i
 
 Manufacturing processes
 
-Récolte_de_la_résine_de_cannabis,_Uttarakhand,_Inde_288x512.ogv, India]] The sticky resins of the fresh flowering female cannabis plant are collected by pressing or rubbing the flowering plant between two hands and then forming the sticky resins into a small ball of hashish called charas.
+, India]] The sticky resins of the fresh flowering female cannabis plant are collected by pressing or rubbing the flowering plant between two hands and then forming the sticky resins into a small ball of hashish called charas.
 
 Mechanical separation methods use physical action to remove the trichomes from the dried plant material, such as sieving through a screen by hand or in motorized tumblers. This technique is known as "drysifting". The resulting powder, referred to as "kief" or "drysift", is compressed with the aid of heat into blocks of hashish; if pure, the kief will become gooey and pliable. When a high level of pure THC is present, the end product will be almost transparent and will start to melt at the point of human contact.
 
 Ice-water separation is another mechanical method of isolating trichomes. Newer techniques have been developed such as heat and pressure separations, static-electricity sieving or acoustical dry sieving.[59]
 
-American_medical_hashish(3).jpgs isolated with ice-water extraction method.]]
+s isolated with ice-water extraction method.]]
 
 Trichomes may break away from supporting stalks and leaves when plant material becomes brittle at low temperatures. After plant material has been agitated in an icy slush, separated trichomes are often dense enough to sink to the bottom of the ice-water mixture following agitation, while lighter pieces of leaves and stems tend to float.[60]
 

@@ -36,7 +36,7 @@ The view of complex numbers as points in the complex plane was described about 5
 
 Applications in complex number theory
 
-Euler's_formula.svg Euler's_Formula_c.png.]]
+.]]
 
 Interpretation of the formula
 
@@ -94,7 +94,7 @@ which can be seen to hold for all integers , together with Euler's formula, impl
 
 Relationship to trigonometry
 
-Sine_Cosine_Exponential_qtl1.svg Euler's formula provides a powerful connection between analysis and trigonometry, and provides an interpretation of the sine and cosine functions as weighted sums of the exponential function:
+Euler's formula provides a powerful connection between analysis and trigonometry, and provides an interpretation of the sine and cosine functions as weighted sums of the exponential function:
 
 $$\begin{align}
 \cos x &= \operatorname{Re} \left(e^{ix}\right) =\frac{e^{ix} + e^{-ix}}{2}, \\
@@ -142,8 +142,6 @@ See also Phasor arithmetic.
 Topological interpretation
 
 In the language of topology, Euler's formula states that the imaginary exponential function is a (surjective) morphism of topological groups from the real line to the unit circle . In fact, this exhibits as a covering space of 𝕊¹. Similarly, Euler's identity says that the kernel of this map is , where . These observations may be combined and summarized in the commutative diagram below:
-
-Euler's_formula_commutative_diagram.png
 
 
 Other applications

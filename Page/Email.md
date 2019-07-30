@@ -1,4 +1,4 @@
-Evolution_36_mail.png (at).svg, a part of every SMTP email address[1]]] ELECTRONIC MAIL (EMAIL or E-MAIL) is a method of exchanging messages ("mail") between people using electronic devices. Invented by Ray Tomlinson, email first entered limited use in the 1960s and by the mid-1970s had taken the form now recognized as email. Email operates across computer networks, which today is primarily the Internet. Some early email systems required the author and the recipient to both be online at the same time, in common with instant messaging. Today's email systems are based on a store-and-forward model. Email servers accept, forward, deliver, and store messages. Neither the users nor their computers are required to be online simultaneously; they need to connect only briefly, typically to a mail server or a webmail interface for as long as it takes to send or receive messages.
+, a part of every SMTP email address[1]]] ELECTRONIC MAIL (EMAIL or E-MAIL) is a method of exchanging messages ("mail") between people using electronic devices. Invented by Ray Tomlinson, email first entered limited use in the 1960s and by the mid-1970s had taken the form now recognized as email. Email operates across computer networks, which today is primarily the Internet. Some early email systems required the author and the recipient to both be online at the same time, in common with instant messaging. Today's email systems are based on a store-and-forward model. Email servers accept, forward, deliver, and store messages. Neither the users nor their computers are required to be online simultaneously; they need to connect only briefly, typically to a mail server or a webmail interface for as long as it takes to send or receive messages.
 
 Originally an ASCII text-only communications medium, Internet email was extended by Multipurpose Internet Mail Extensions (MIME) to carry text in other character sets and multimedia content attachments. International email, with internationalized email addresses using UTF-8, has been standardized, but it has not been widely adopted.[2]
 
@@ -30,8 +30,6 @@ For a time in the late 1980s and early 1990s, it seemed likely that either a pro
 Operation
 
 The diagram to the right shows a typical sequence of events that takes place when sender Alice transmits a message using a mail user agent (MUA) addressed to the email address of the recipient.[26]
-
-email.svg
 
 1.  The MUA formats the message in email format and uses the submission protocol, a profile of the Simple Mail Transfer Protocol (SMTP), to send the message content to the local mail submission agent (MSA), in this case _smtp.a.org_.
 2.  The MSA determines the destination address provided in the SMTP protocol (not from the message header), in this case _bob@b.org_ which is a fully qualified domain address (FQDA). The part before the @ sign is the _local part_ of the address, often the username of the recipient, and the part after the @ sign is a domain name. The MSA resolves a domain name to determine the fully qualified domain name of the mail server in the Domain Name System (DNS).
@@ -115,7 +113,7 @@ Some web-based mailing lists recommend that all posts be made in plain-text, wit
 
 Servers and client applications
 
-Mozilla_Thunderbird_3.1.png.]] Messages are exchanged between hosts using the Simple Mail Transfer Protocol with software programs called mail transfer agents (MTAs); and delivered to a mail store by programs called mail delivery agents (MDAs, also sometimes called local delivery agents, LDAs). Accepting a message obliges an MTA to deliver it,[55] and when a message cannot be delivered, that MTA must send a bounce message back to the sender, indicating the problem.
+.]] Messages are exchanged between hosts using the Simple Mail Transfer Protocol with software programs called mail transfer agents (MTAs); and delivered to a mail store by programs called mail delivery agents (MDAs, also sometimes called local delivery agents, LDAs). Accepting a message obliges an MTA to deliver it,[55] and when a message cannot be delivered, that MTA must send a bounce message back to the sender, indicating the problem.
 
 Users can retrieve their messages from servers using standard protocols such as POP or IMAP, or, as is more likely in a large corporate environment, with a proprietary protocol specific to Novell Groupwise, Lotus Notes or Microsoft Exchange Servers. Programs used by users for retrieving, reading, and managing email are called mail user agents (MUAs).
 

@@ -19,7 +19,7 @@ Dead Kennedys played numerous shows at local venues afterwards. Due to the provo
 
 _Fresh Fruit for Rotting Vegetables_ (1980–81)
 
-Dead-kennedys-live.jpg In early 1980, they recorded and released the single "Holiday in Cambodia". In June, the band recorded their debut album, _Fresh Fruit for Rotting Vegetables_, released in September of that year on the UK label Cherry Red. The album reached number 33 on the UK Albums Chart. Since its initial release, it has been re-released by several other labels, including IRS, Alternative Tentacles, and Cleopatra. The newest reissue-- the special 25th anniversary edition-- features the original artwork and a bonus 55-minute DVD documenting the making of the album as well as the band's early years [4].
+In early 1980, they recorded and released the single "Holiday in Cambodia". In June, the band recorded their debut album, _Fresh Fruit for Rotting Vegetables_, released in September of that year on the UK label Cherry Red. The album reached number 33 on the UK Albums Chart. Since its initial release, it has been re-released by several other labels, including IRS, Alternative Tentacles, and Cleopatra. The newest reissue-- the special 25th anniversary edition-- features the original artwork and a bonus 55-minute DVD documenting the making of the album as well as the band's early years [4].
 
 On March 25, 1980, Dead Kennedys were invited to perform at the Bay Area Music Awards in an effort to give the event some "new wave credibility", in the words of the organizers. The day of the performance was spent practicing the song they were asked to play, the underground hit "California Über Alles". The band became the talking point of the ceremony when after about 15 seconds into the song, Biafra stopped the band—in a manner reminiscent of Elvis Costello's _Saturday Night Live_ appearance—and said, "Hold it! We've gotta prove that we're adults now. We're not a punk rock band, we're a new wave band." The band, all wearing white shirts with a big, black S painted on the front, pulled black ties from around the backs of their necks to form a dollar sign, then started playing a new song titled "Pull My Strings", a barbed, satirical attack on the ethics of the mainstream music industry, which contained the lyrics, "Is my cock big enough, is my brain small enough, for you to make me a star?". The song also referenced The Knack's song "My Sharona". "Pull My Strings" was never recorded for a studio release, though the performance at the Bay Area Music Awards, which was the only time the song was ever performed, was released on the band's compilation album _Give Me Convenience or Give Me Death_.
 
@@ -67,7 +67,7 @@ In August 2010, Dead Kennedys announced plans for a short East Coast tour. The l
 
 Back on the road
 
-Dead_Kennedys_live_in_Chicago_at_Bottom_Lounge_on_west_Lake_June_27,_2014_23-32_-01_(14530182562).jpg in Chicago, June 2014]] Dead Kennedys had world tours in 2013 and in 2014, the latter mostly in North American cities. In 2015 and 2016 they toured again, including South America, where they had not played since 2001.
+in Chicago, June 2014]] Dead Kennedys had world tours in 2013 and in 2014, the latter mostly in North American cities. In 2015 and 2016 they toured again, including South America, where they had not played since 2001.
 
 In 2017, East Bay Ray revealed that the band and Jello Biafra had been approached by the Punk-oriented music festival Riot Fest about a potential reunion. While Ray and the rest of the band expressed interest in the concept, Biafra refused.[24]
 
@@ -105,7 +105,7 @@ The band claims on their website that they still pay close attention to an anti-
 
 Logo
 
-Dead_Kennedys_(logo).jpgThe original logo was created by Winston Smith. He later contributed artwork for the covers of _In God We Trust, Inc._, _Plastic Surgery Disasters_, _Frankenchrist_, _Bedtime for Democracy_, _Give Me Convenience or Give Me Death_, the back cover of the "Kill the Poor" single and the Alternative Tentacles logo. When asked about the "DK" logo in an interview, Jello Biafra explained, "...I wanted to make sure it was something simple and easy to spray-paint so people would graffiti it all over the place, and then I showed it to Winston Smith. He played around with it, came back with a bunch of designs that had the circle and slightly 3-D looking letters and he had ones with different patterns behind it. I liked the one with bricks, but ultimately I thought simple red behind it was the boldest and the best."[39]
+The original logo was created by Winston Smith. He later contributed artwork for the covers of _In God We Trust, Inc._, _Plastic Surgery Disasters_, _Frankenchrist_, _Bedtime for Democracy_, _Give Me Convenience or Give Me Death_, the back cover of the "Kill the Poor" single and the Alternative Tentacles logo. When asked about the "DK" logo in an interview, Jello Biafra explained, "...I wanted to make sure it was something simple and easy to spray-paint so people would graffiti it all over the place, and then I showed it to Winston Smith. He played around with it, came back with a bunch of designs that had the circle and slightly 3-D looking letters and he had ones with different patterns behind it. I liked the one with bricks, but ultimately I thought simple red behind it was the boldest and the best."[39]
 
 
 Music and lyrics

@@ -3,14 +3,14 @@ GAVOI is a _comune_ in central Sardinia (Italy), part of the province of Nuoro, 
 
 History
 
-Gavoi_-_Costume_tradizionale_(13).JPG The territory of Gavoi is inhabited since the prenuragic period. During the middleage is cited various times in the list of villages and towns that paid the taxes to the Roman curia.
+The territory of Gavoi is inhabited since the prenuragic period. During the middleage is cited various times in the list of villages and towns that paid the taxes to the Roman curia.
 
 Gavoi was hit by the plague in the 18th century.[1]
 
 
 Main sights
 
-City_of_Gavoi_2014-07-21_13.30.41.jpg The Roman church of San Gavino is Gavoi's foremost sacred spot, through there are eight other ancient churches in the village. The village's center contains rock houses with balconies, and a village fountain is known as "Antana 'e Cartzonna".
+The Roman church of San Gavino is Gavoi's foremost sacred spot, through there are eight other ancient churches in the village. The village's center contains rock houses with balconies, and a village fountain is known as "Antana 'e Cartzonna".
 
 Near the lake are the archaeological areas of Orrui and San Michele di Fonni. A Roman bridge is submerged beneath the lake.
 

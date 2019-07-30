@@ -1,6 +1,6 @@
 _ACACIA S.L._ ( or ), known commonly as MIMOSA, ACACIA, THORNTREE or WATTLE,[1] is a polyphyletic genus of shrubs and trees belonging to the subfamily Mimosoideae of the family Fabaceae. It was described by the Swedish botanist Carl Linnaeus in 1773 based on the African species _Acacia nilotica_. Many non-Australian species tend to be thorny, whereas the majority of Australian acacias are not. All species are pod-bearing, with sap and leaves often bearing large amounts of tannins and condensed tannins that historically found use as pharmaceuticals and preservatives.
 
-The genus _Acacia_ constitutes, in its traditional circumspection, the second largest genus in Fabaceae[2] (_Astragalus_ being the largest), with roughly 1,300 species, about 960 of them native to Australia, with the remainder spread around the tropical to warm-temperate regions of both hemispheres, including Europe, Africa, southern Asia, and the Americas (see List of _Acacia_ species). The genus was divided into five separate genera under the tribe "Acacieae". The genus now called _Acacia_ represents the majority of the Australian species and a few native to southeast Asia, Réunion, and Pacific Islands. Most of the species outside Australia, and a small number of Australian species, are classified into _Vachellia_ and _Senegalia_. The two final genera, _Acaciella_ and _Mariosousa_, each contain about a dozen species from the Americas (but see "Classification" below for the ongoing debate concerning their taxonomy). Acacia_Negev.JPG Desert of southern Israel]] Acacia_pycnantha_Golden_Wattle.jpg''), the floral emblem of Australia]]Acacia_sp._MHNT.BOT.2009.13.18.jpg]]
+The genus _Acacia_ constitutes, in its traditional circumspection, the second largest genus in Fabaceae[2] (_Astragalus_ being the largest), with roughly 1,300 species, about 960 of them native to Australia, with the remainder spread around the tropical to warm-temperate regions of both hemispheres, including Europe, Africa, southern Asia, and the Americas (see List of _Acacia_ species). The genus was divided into five separate genera under the tribe "Acacieae". The genus now called _Acacia_ represents the majority of the Australian species and a few native to southeast Asia, Réunion, and Pacific Islands. Most of the species outside Australia, and a small number of Australian species, are classified into _Vachellia_ and _Senegalia_. The two final genera, _Acaciella_ and _Mariosousa_, each contain about a dozen species from the Americas (but see "Classification" below for the ongoing debate concerning their taxonomy). Desert of southern Israel]] ''), the floral emblem of Australia]]]]
 
 This article describes acacias in the broader sense.
 
@@ -20,7 +20,7 @@ In common parlance, the term "acacia" is occasionally applied to species of the 
 
 Description
 
-Acacia_facsiculifera_seedling.jpg'' seedling in the transitional stage between pinnate leaves and phyllodes]] The leaves of acacias are compound pinnate in general. In some species, however, more especially in the Australian and Pacific Islands species, the leaflets are suppressed, and the leaf-stalks (petioles) become vertically flattened in order to serve the purpose of leaves. These are known as "phyllodes". The vertical orientation of the phyllodes protects them from intense sunlight since with their edges towards the sky and earth they do not intercept light as fully as horizontally placed leaves. A few species (such as _Acacia glaucoptera_) lack leaves or phyllodes altogether but instead possess cladodes, modified leaf-like photosynthetic stems functioning as leaves.
+'' seedling in the transitional stage between pinnate leaves and phyllodes]] The leaves of acacias are compound pinnate in general. In some species, however, more especially in the Australian and Pacific Islands species, the leaflets are suppressed, and the leaf-stalks (petioles) become vertically flattened in order to serve the purpose of leaves. These are known as "phyllodes". The vertical orientation of the phyllodes protects them from intense sunlight since with their edges towards the sky and earth they do not intercept light as fully as horizontally placed leaves. A few species (such as _Acacia glaucoptera_) lack leaves or phyllodes altogether but instead possess cladodes, modified leaf-like photosynthetic stems functioning as leaves.
 
 The small flowers have five very small petals, almost hidden by the long stamens, and are arranged in dense, globular or cylindrical clusters; they are yellow or cream-colored in most species, whitish in some, or even purple (_Acacia purpureopetala_) or red (_Acacia leprosa_ 'Scarlet Blaze'). _Acacia_ flowers can be distinguished from those of a large related genus, _Albizia_, by their stamens, which are not joined at the base. Also, unlike individual _Mimosa_ flowers, those of _Acacia_ have more than ten stamens.[19]
 
@@ -31,7 +31,7 @@ Acacia seeds can be difficult to germinate. Research has found that immersing th
 
 Symbiosis
 
-Acacia_collinsii3.jpg'' stipules]] Acacia_drepanolobium_MHNT.BOT.2011.3.97.jpg. An entry hole can be seen at the base of one of the spines of the largest domatia. From the MHNT]] In the Central American bullthorn acacias—_Acacia sphaerocephala_, _Acacia cornigera_ and _Acacia collinsii_ — some of the spiny stipules are large, swollen and hollow. These afford shelter for several species of _Pseudomyrmex_ ants, which feed on extrafloral nectaries on the leaf-stalk and small lipid-rich food-bodies at the tips of the leaflets called Beltian bodies. In return, the ants add protection to the plant against herbivores.[21] Some species of ants will also remove competing plants around the acacia, cutting off the offending plants' leaves with their jaws and ultimately killing them. Other associated ant species appear to do nothing to benefit their hosts.
+'' stipules]] . An entry hole can be seen at the base of one of the spines of the largest domatia. From the MHNT]] In the Central American bullthorn acacias—_Acacia sphaerocephala_, _Acacia cornigera_ and _Acacia collinsii_ — some of the spiny stipules are large, swollen and hollow. These afford shelter for several species of _Pseudomyrmex_ ants, which feed on extrafloral nectaries on the leaf-stalk and small lipid-rich food-bodies at the tips of the leaflets called Beltian bodies. In return, the ants add protection to the plant against herbivores.[21] Some species of ants will also remove competing plants around the acacia, cutting off the offending plants' leaves with their jaws and ultimately killing them. Other associated ant species appear to do nothing to benefit their hosts.
 
 Similar mutualisms with ants occur on _Acacia_ trees in Africa, such as the whistling thorn acacia. The acacias provide shelter for ants in similar swollen stipules and nectar in extrafloral nectaries for their symbiotic ants, such as _Crematogaster mimosae_. In turn, the ants protect the plant by attacking large mammalian herbivores and stem-boring beetles that damage the plant.[22]
 
@@ -49,7 +49,7 @@ Uses
 
 Use as human food
 
-Acacia_dealbata_seeds.jpg'' seeds]]
+'' seeds]]
 
 Acacia seeds are often used for food and a variety of other products.
 
@@ -61,7 +61,7 @@ Various species of acacia yield gum. True gum arabic is the product of _Acacia s
 
 _Acacia nilotica_ (syn. _Acacia arabica_) is the gum arabic tree of India, but yields a gum inferior to the true gum arabic. Gum arabic is used in a wide variety of food products, including some soft drinks[25] and confections.
 
-The ancient Egyptians used acacia gum in paints.[26] Acaciasap.jpg]] The gum of _Acacia xanthophloea_ and _Acacia karroo_ has a high sugar content and is sought out by the lesser bushbaby. _Acacia karroo_ gum was once used for making confectionery and traded under the name "Cape Gum". It was also used medicinally to treat cattle suffering poisoning by _Moraea_ species.[27]
+The ancient Egyptians used acacia gum in paints.[26] ]] The gum of _Acacia xanthophloea_ and _Acacia karroo_ has a high sugar content and is sought out by the lesser bushbaby. _Acacia karroo_ gum was once used for making confectionery and traded under the name "Cape Gum". It was also used medicinally to treat cattle suffering poisoning by _Moraea_ species.[27]
 
 Uses in folk medicine
 
@@ -79,11 +79,11 @@ Ornamental species of acacias are also used by homeowners and landscape architec
 
 Perfume
 
-Acaciafarnesiana1web.jpg'']] _Acacia farnesiana_ is used in the perfume industry due to its strong fragrance. The use of acacia as a fragrance dates back centuries.
+'']] _Acacia farnesiana_ is used in the perfume industry due to its strong fragrance. The use of acacia as a fragrance dates back centuries.
 
 Symbolism and ritual
 
-Philae_Temple_Egypt_Goddess_Isis_As_Angel_Mural_Artwork_2004-10-11.jpg]]
+]]
 
 Egyptian mythology has associated the acacia tree with characteristics of the tree of life, such as in the Myth of Osiris and Isis.
 
@@ -103,9 +103,7 @@ Black wattle is grown in plantations in South Africa and South America. Most Aus
 
 Wood
 
-Starr_030405-0092_Acacia_koa.jpg'' wood]] Some _Acacia_ species are valuable as timber, such as _A. melanoxylon_ (blackwood) from Australia, which attains a great size; its wood is used for furniture, and takes a high polish; and _A. omalophylla_ (myall wood, also Australian), which yields a fragrant timber used for ornaments. _A. seyal_ is thought to be the shittah-tree of the Bible, which supplied shittim-wood. According to the Book of Exodus, this was used in the construction of the Ark of the Covenant. _A. koa_ from the Hawaiian Islands and _A. heterophylla_ from Réunion are both excellent timber trees. Depending on abundance and regional culture, some _Acacia_ species (e.g. _A. fumosa_) are traditionally used locally as firewoods.[40] It is also used to make homes for different animals.
-
-Acacia-heterophylla-wood-xup.jpg
+'' wood]] Some _Acacia_ species are valuable as timber, such as _A. melanoxylon_ (blackwood) from Australia, which attains a great size; its wood is used for furniture, and takes a high polish; and _A. omalophylla_ (myall wood, also Australian), which yields a fragrant timber used for ornaments. _A. seyal_ is thought to be the shittah-tree of the Bible, which supplied shittim-wood. According to the Book of Exodus, this was used in the construction of the Ark of the Covenant. _A. koa_ from the Hawaiian Islands and _A. heterophylla_ from Réunion are both excellent timber trees. Depending on abundance and regional culture, some _Acacia_ species (e.g. _A. fumosa_) are traditionally used locally as firewoods.[40] It is also used to make homes for different animals.
 
 Pulpwood
 

@@ -1,4 +1,4 @@
-Aged_Canadian_Whisky.jpg, a Canadian whisky]] CANADIAN WHISKY is a type of whisky produced in Canada. Most Canadian whiskies are blended multi-grain liquors containing a large percentage of corn spirits, and are typically lighter and smoother than other whisky styles.[1] When Canadian distillers began adding small amounts of highly-flavourful rye grain to their mashes, people began demanding this new rye-flavoured whisky, referring to it simply as "rye". Today, as for the past two centuries, the terms "rye whisky" and "Canadian whisky" are used interchangeably in Canada and (as defined in Canadian law) refer to exactly the same product, which generally is made with only a small amount of rye grain.[2]
+, a Canadian whisky]] CANADIAN WHISKY is a type of whisky produced in Canada. Most Canadian whiskies are blended multi-grain liquors containing a large percentage of corn spirits, and are typically lighter and smoother than other whisky styles.[1] When Canadian distillers began adding small amounts of highly-flavourful rye grain to their mashes, people began demanding this new rye-flavoured whisky, referring to it simply as "rye". Today, as for the past two centuries, the terms "rye whisky" and "Canadian whisky" are used interchangeably in Canada and (as defined in Canadian law) refer to exactly the same product, which generally is made with only a small amount of rye grain.[2]
 
 
 Characteristics
@@ -29,7 +29,7 @@ Canadian whisky featured prominently in rum-running into the U.S. during Prohibi
 
 Distilleries and brands
 
-CanadianWhisky.JPG ALBERTA DISTILLERS – Established in 1946 in Calgary, Alberta, the distillery was purchased in 1987 by Fortune Brands which became Beam Suntory in 2011. The distillery uses a specific strain of yeast which they developed that specializes in fermenting rye. While the distillery exports much of its whisky for bottling in other countries, they also produce the brands Alberta Premium, Alberta Springs, Windsor Canadian and Tangle Ridge.[23]
+ALBERTA DISTILLERS – Established in 1946 in Calgary, Alberta, the distillery was purchased in 1987 by Fortune Brands which became Beam Suntory in 2011. The distillery uses a specific strain of yeast which they developed that specializes in fermenting rye. While the distillery exports much of its whisky for bottling in other countries, they also produce the brands Alberta Premium, Alberta Springs, Windsor Canadian and Tangle Ridge.[23]
 
 BLACK VELVET DISTILLERY (formerly the PALLISER DISTRILLERY) – Established in 1973 in Lethbridge, Alberta it has been owned by Constellation Brands since 1999. They produce the Black Velvet brand which is mostly shipped in bulk for bottling in Carson, California and Owensboro, Kentucky, with some bottled onsite for the Canadian market. The distillery also produces Danfield's and Schenley's Golden Wedding and OFC.[24]
 

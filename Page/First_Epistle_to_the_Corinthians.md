@@ -21,7 +21,7 @@ Anthony C. Thiselton suggests that it is possible that I Corinthians was written
 
 Structure
 
-Codex_Amiatinus_(1_Cor_1,1-21).jpg from the 8th century.]] Minuscule_223_(GA)_f150v.jpg from the 14th century.]] The epistle may be divided into seven parts:[14]
+from the 8th century.]] from the 14th century.]] The epistle may be divided into seven parts:[14]
 
 1.  Salutation (1:1–3)
     1.  Paul addresses the issue regarding challenges to his apostleship and defends the issue by claiming that it was given to him through a revelation from Christ. The salutation (the first section of the letter) reinforces the legitimacy of Paul's apostolic claim.
@@ -51,7 +51,7 @@ Codex_Amiatinus_(1_Cor_1,1-21).jpg from the 8th century.]] Minuscule_223_(GA)_f1
 
 Content
 
-F_C_07-04-2008_01;35;39PM.JPG & Mennonite Museum in Shipshewana, Indiana]] B_Facundus_167.jpg, _at the last trump_: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed." 1 Corinthians 15:52. Illumination from Beatus de Facundus, 1047.]] Some time before 2 Corinthians was written, Paul paid them a second visit (; ) to check some rising disorder (; ), and wrote them a letter, now lost (). They had also been visited by Apollos (), perhaps by Peter (), and by some Jewish Christians who brought with them letters of commendation from Jerusalem (; ; ; ).
+& Mennonite Museum in Shipshewana, Indiana]] , _at the last trump_: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed." 1 Corinthians 15:52. Illumination from Beatus de Facundus, 1047.]] Some time before 2 Corinthians was written, Paul paid them a second visit (; ) to check some rising disorder (; ), and wrote them a letter, now lost (). They had also been visited by Apollos (), perhaps by Peter (), and by some Jewish Christians who brought with them letters of commendation from Jerusalem (; ; ; ).
 
 Paul wrote this letter to correct what he saw as erroneous views in the Corinthian church. Several sources informed Paul of conflicts within the church at Corinth: Apollos (Acts 19:1), a letter from the Corinthians, the "household of Chloe", and finally Stephanas and his two friends who had visited Paul (1:11; 16:17). Paul then wrote this letter to the Corinthians, urging uniformity of belief ("that ye all speak the same thing and that there be no divisions among you", 1:10) and expounding Christian doctrine. Titus and a brother whose name is not given were probably the bearers of the letter to the church at Corinth (2 Corinthians 2:13; 8:6, 16–18).
 

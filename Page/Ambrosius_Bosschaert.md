@@ -3,8 +3,6 @@ AMBROSIUS BOSSCHAERT THE ELDER (18 January 1573 – 1621) was a still life paint
 
 Biography
 
-Ambrosius_Bosschaert_the_Elder_-_Still-Life_with_flowers_-_Google_Art_Project.jpg
-
 He was born in Antwerp, where he started his career, but he spent most of it in Middelburg (1587–1613), where he moved with his family because of the threat of religious persecution. He specialized in painting still lifes with flowers, which he signed with the monogram AB (the B in the A).[1] At the age of twenty-one, he joined the city's Guild of Saint Luke and later became dean.[2] Not long after, Bosschaert had married and established himself as a leading figure in the fashionable floral painting genre.
 
 He had three sons who all became flower painters; Ambrosius II, Johannes and Abraham. His brother-in-law Balthasar van der Ast also lived and worked in his workshop and moved with him on his travels. Bosschaert later worked in Amsterdam (1614), Bergen op Zoom (1615–1616), Utrecht (1616–1619), and Breda (1619).[3] In 1619 when he moved to Utrecht, his brother-in-law van der Ast entered the Utrecht Guild of St. Luke, where the renowned painter Abraham Bloemaert had just become dean. The painter Roelandt Savery (1576–1639) entered the St. Luke's guild in Utrecht at about the same time. Savery had considerable influence on the Bosschaert dynasty.[4] When Bosschaert died in The Hague while on commission there for a flower piece, Balthasar van der Ast took over running his workshop and pupils.[5]
@@ -12,7 +10,7 @@ He had three sons who all became flower painters; Ambrosius II, Johannes and Abr
 
 Style
 
-Fruit_still_life_with_shells.jpg.]] His bouquets were painted symmetrically and with scientific accuracy in small dimensions and normally on copper. They sometimes included symbolic and religious meanings. At the time of his death, Bosschaert was working on an important commission in the Hague.[6] That piece is now in the collection in Stockholm.[7][8] Bosschaert became one of the first artists to specialize in still life painting, and he started a tradition of painting detailed flower bouquets, which typically included tulips and roses. Thanks to the booming seventeenth-century Dutch art market, he became highly successful, as the inscription on one of his paintings attests.[9]
+.]] His bouquets were painted symmetrically and with scientific accuracy in small dimensions and normally on copper. They sometimes included symbolic and religious meanings. At the time of his death, Bosschaert was working on an important commission in the Hague.[6] That piece is now in the collection in Stockholm.[7][8] Bosschaert became one of the first artists to specialize in still life painting, and he started a tradition of painting detailed flower bouquets, which typically included tulips and roses. Thanks to the booming seventeenth-century Dutch art market, he became highly successful, as the inscription on one of his paintings attests.[9]
 
 Legacy
 

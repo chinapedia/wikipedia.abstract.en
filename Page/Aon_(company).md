@@ -4,12 +4,12 @@ In 2011, Aon was ranked as the largest insurance broker in the world based on re
 
 Aon was created in 1982 when the Ryan Insurance Group merged with the Combined Insurance Company of America. In 1987, that company was renamed Aon, a Gaelic word meaning "one".
 
-2004-07-14_1880x2820_chicago_aon_looking_up.jpg, Chicago, Illinois, USA]]
+, Chicago, Illinois, USA]]
 
 
 History
 
-Aon_Center_LA.jpg, Los Angeles]]
+, Los Angeles]]
 
 W. Clement Stone's mother bought a small Detroit insurance agency, and in 1918 brought her son into the business. Mr. Stone sold low-cost, low-benefit accident insurance, underwriting and issuing policies on-site. The next year he founded his own agency, the COMBINED REGISTRY CO.
 
@@ -79,8 +79,6 @@ In September 2017, Aon announced its intent to purchase real estate investment m
 
 
 Operations
-
-Aon_Tower_Sydney_Australia.jpg
 
 Manchester United
 

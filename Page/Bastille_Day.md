@@ -13,7 +13,7 @@ Shortly after the storming of the Bastille, late in the evening of 4 August, aft
 
 _Fête de la Fédération_
 
-Fête_de_la_Fédération_1790,_Musée_de_la_Révolution_française_-_Vizille.jpg]] As early as 1789, the year of the storming of the Bastille, preliminary designs for a national festival were underway. These designs were intended to strengthen the country's national identity through the celebration of the events of 14 July 1789.[10] One of the first designs was proposed by Clément Gonchon, a French textile worker, who presented his design for a festival celebrating the anniversary of the storming of the Bastille to the French city administration and the public on 9 December 1789.[11] There were other proposals and unofficial celebrations of 14 July 1789, but the official festival sponsored by the National Assembly was called the Fête de la Fédération.[12]
+]] As early as 1789, the year of the storming of the Bastille, preliminary designs for a national festival were underway. These designs were intended to strengthen the country's national identity through the celebration of the events of 14 July 1789.[10] One of the first designs was proposed by Clément Gonchon, a French textile worker, who presented his design for a festival celebrating the anniversary of the storming of the Bastille to the French city administration and the public on 9 December 1789.[11] There were other proposals and unofficial celebrations of 14 July 1789, but the official festival sponsored by the National Assembly was called the Fête de la Fédération.[12]
 
 The _Fête de la Fédération_ on 14 July 1790 was a celebration of the unity of the French nation during the French Revolution. The aim of this celebration, one year after the Storming of the Bastille, was to symbolise peace. The event took place on the Champ de Mars, which was located far outside of Paris at the time. The work needed to transform the Champ de Mars into a suitable location for the celebration was not on schedule to be completed in time. On the day recalled as the Journée des brouettes ("The Day of the Wheelbarrow"), thousands of Parisian citizens gathered together to finish the construction needed for the celebration.[13]
 
@@ -21,7 +21,7 @@ The day of the festival, the National Guard assembled and proceeded along the bo
 
 Origin of the current celebration
 
-Monet-montorgueil.JPG, _Rue Montorgueil, Paris, Festival of 30 June 1878_]] On 30 June 1878, a feast was officially arranged in Paris to honour the French Republic (the event was commemorated in a painting by Claude Monet).[15] On 14 July 1879, there was another feast, with a semi-official aspect. The day's events included a reception in the Chamber of Deputies, organised and presided over by Léon Gambetta,[16] a military review at Longchamp, and a Republican Feast in the Pré Catelan.[17] All through France, _Le Figaro_ wrote, "people feasted much to honour the storming of the Bastille".[18]
+, _Rue Montorgueil, Paris, Festival of 30 June 1878_]] On 30 June 1878, a feast was officially arranged in Paris to honour the French Republic (the event was commemorated in a painting by Claude Monet).[15] On 14 July 1879, there was another feast, with a semi-official aspect. The day's events included a reception in the Chamber of Deputies, organised and presided over by Léon Gambetta,[16] a military review at Longchamp, and a Republican Feast in the Pré Catelan.[17] All through France, _Le Figaro_ wrote, "people feasted much to honour the storming of the Bastille".[18]
 
 In 1880, the government of the Third Republic wanted to revive the 14 July festival. The campaign for the reinstatement of the festival had been underway for nearly a decade, sponsored by the notable politician Léon Gambetta and scholar Henri Baudrillant.[19] On 21 May 1880, Benjamin Raspail proposed a law, signed by sixty-four members of government, to have "the Republic adopt 14 July as the day of an annual national festival". There were many disputes over which date to be remembered as the national holiday, including 4 August (the commemoration of the end of the feudal system), 5 May (when the Estates-General first assembled), 27 July (the fall of Robespierre), and 21 January (the date of Louis XVI's execution).[20] The government decided that the date of the holiday would be 14 July, but it was still somewhat problematic. The events of 14 July 1789 were illegal under the previous government, which contradicted the Third Republic's need to establish legal legitimacy.[21] French politicians also did not want the sole foundation of their national holiday to be rooted in a day of bloodshed and class-hatred as the day of storming the Bastille was. Instead, they based the establishment of the holiday as a dual celebration of the Fête de la Fédération, a festival celebrating the one year anniversary of 14 July 1789, and the storming of the Bastille.[22] The Assembly voted in favor of the proposal on 21 May and 8 June, and the law was approved on 27 and 29 June. The law was made official on 6 July 1880.
 
@@ -29,7 +29,7 @@ In the debate leading up to the adoption of the holiday, Senator Henri Martin, w
 
 Bastille Day military parade
 
-French_Republican_Guard_Bastille_Day_2007_n1.jpg during the 2007 military parade on the Champs-Élysées]] Dominique_Vallet-IMG_5734.JPG, 2012]] The Bastille Day military parade is the French military parade that has been held on the morning of 14 July each year in Paris since 1880. While previously held elsewhere within or near the capital city, since 1918 it has been held on the Champs-Élysées, with the participation of the Allies as represented in the Versailles Peace Conference, and with the exception of the period of German occupation from 1940 to 1944 (when the ceremony took place in London under the command of General Charles de Gaulle).[24] The parade passes down the Champs-Élysées from the Arc de Triomphe to the Place de la Concorde, where the President of the French Republic, his government and foreign ambassadors to France stand. This is a popular event in France, broadcast on French TV, and is the oldest and largest regular military parade in Europe.[25][26] In some years, invited detachments of foreign troops take part in the parade and foreign statesmen attend as guests
+during the 2007 military parade on the Champs-Élysées]] , 2012]] The Bastille Day military parade is the French military parade that has been held on the morning of 14 July each year in Paris since 1880. While previously held elsewhere within or near the capital city, since 1918 it has been held on the Champs-Élysées, with the participation of the Allies as represented in the Versailles Peace Conference, and with the exception of the period of German occupation from 1940 to 1944 (when the ceremony took place in London under the command of General Charles de Gaulle).[24] The parade passes down the Champs-Élysées from the Arc de Triomphe to the Place de la Concorde, where the President of the French Republic, his government and foreign ambassadors to France stand. This is a popular event in France, broadcast on French TV, and is the oldest and largest regular military parade in Europe.[25][26] In some years, invited detachments of foreign troops take part in the parade and foreign statesmen attend as guests
 
 Smaller military parades are held in French garrison towns, including Toulon and Belfort, with local troops.
 
@@ -48,7 +48,7 @@ Czechia
 
 Since 2008, Prague has hosted a French market "" ("Fourteenth of July Market") offering traditional French food and wine as well as music. The market takes place on Kampa Island, it is usually between 11 and 14 July.[32] It acts as an event that marks the relinquish of the EU presidency from France to the Czech Republic. Traditional selections of French produce, including cheese, wine, meat, bread and pastries, are provided by the market. Throughout the event, live music is played in the evenings, with lanterns lighting up the square at night.[33]
 
-Fireworks_on_the_Danube_Bastille_Day_2008.jpg, Hungary]]
+, Hungary]]
 
 Hungary
 
@@ -100,8 +100,6 @@ Portland, Oregon has celebrated Bastille Day with crowds up to 8,000, in public 
 
 
 One-time celebrations
-
-Bastille_Day,_14_July_1880_(Monument_to_the_Republic)_2010-03-23_02.jpg
 
 -   1979: A concert with Jean Michel Jarre on the Place de la Concorde in Paris was the first concert to have one million attendees.[66]
 -   1989: France celebrated the 200th anniversary of the French Revolution, notably with a monumental show on the Champs-Élysées in Paris, directed by French designer Jean-Paul Goude. President François Mitterrand acted as host for invited world leaders.[67]

@@ -13,7 +13,7 @@ They are the only primate group that regularly produces twins, which constitute 
 
 Species and subspecies list
 
-Tamarin_portrait_2_edit3.jpg (_Saguinus imperator_)]] A 2017 review of callitrichid species and subspecies confirmed the existence of the following taxa:[8]
+(_Saguinus imperator_)]] A 2017 review of callitrichid species and subspecies confirmed the existence of the following taxa:[8]
 
 -   FAMILY CALLITRICHIDAE
     -   Genus _Cebuella_

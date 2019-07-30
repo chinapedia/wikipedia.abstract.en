@@ -1,5 +1,3 @@
-Cytochrome_c.png
-
 CYTOCHROMES are proteins containing heme as a cofactor. They are classified according to the type of heme and its mode of binding. Four varieties are recognized by the IUBMB, cytochromes a, cytochromes b, cytochromes c and cytochrome d.[1] Cytochrome function is linked to the reversible redox change from ferrous (Fe(II)) to the ferric (Fe(III)) oxidation state of the iron found in the heme core.[2] In addition to the classification by the IUBMB into four cytochrome classes, several additional classifications such as cytochrome o[3] and cytochrome P450 can be found in biochemical literature.
 
 

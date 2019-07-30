@@ -36,7 +36,7 @@ The Game Boy Advance and Nintendo DS 2D graphics hardware have scaling and rotat
 
 Games
 
-Nintendo_Game_Cartridge_Size_Comparison.jpg Game Pak, a Game Boy Advance Game Pak, and a Nintendo DS Game Card. On the far right is a United States Nickel shown for scale.]]
+Game Pak, a Game Boy Advance Game Pak, and a Nintendo DS Game Card. On the far right is a United States Nickel shown for scale.]]
 
 With hardware comparable to the Super NES, the Game Boy Advance represents progress for sprite-based technology. The Game Boy Advance has platformers, SNES-style role-playing video games, and classic games ported from various 8-bit and 16-bit systems of the previous generations. This includes the _Super Mario Advance_ series, as well as the system's backward compatibility with all earlier Game Boy titles. All titles were GBA-exclusive and none of these were backwards compatible with older Game Boy systems. It featured a warning message that was refuse to play on classic Game Boy.
 
@@ -57,7 +57,7 @@ Accessories
 
 Official
 
-Game-Boy-Advance-Wireless-Adapter.jpg Nintendo released many addons for the Game Boy Advance. These include:
+Nintendo released many addons for the Game Boy Advance. These include:
 
 -   WIRELESS ADAPTER: Released in 2004, this adapter hooks up to the back of the Game Boy Advance. It replaces link cables and allows many people to link together. It marketed for US$20 and came included with _Pokémon FireRed_ and _LeafGreen_. Because it was released so late in the Game Boy Advance's life, fewer than 20 games support this hardware. The adapter's usefulness is most evident in Pokémon, as _FireRed_/_LeafGreen_ and _Emerald_ feature a "Union Room" where up to forty people can enter to battle or trade Pokémon. A Game Boy Micro version was released interacting fully with both models of the Wireless Adapter.
 -   GAME BOY ADVANCE INFRA-RED ADAPTER: This adapter was included with the game _Cyberdrive Zoids_, as it is only compatible with this game. The adapter was not sold separately. This is also currently the only Game Boy Advance accessory that has not been remade for the Game Boy Micro.
@@ -70,7 +70,7 @@ Game-Boy-Advance-Wireless-Adapter.jpg Nintendo released many addons for the Game
 
 Unofficial
 
-Game-Boy-Advance-Afterburner-installed.jpg installed on a GBA, showing internal lighting.]] Other accessories for the Game Boy Advance are:
+installed on a GBA, showing internal lighting.]] Other accessories for the Game Boy Advance are:
 
 -   AFTERBURNER: The Afterburner was an internal front-lighting system manufactured by Triton Labs and released in mid-2002.[40] The installation consisted of disassembling the system, removing some plastic from the interior of the case, attaching the lighting mechanism to the screen, and soldering two wires to the motherboard for power. Optionally, a potentiometer or an integrated circuit could be added to allow adjusting the brightness of the light. When the initial version of the Game Boy Advance SP was released, it included a very similar integrated lighting system. This was replaced in the subsequent version of the Game Boy Advance SP with a backlit display. According to Triton Labs, the Afterburner achieved considerable success during the lifespan of the GBA, with many gamers buying it despite the kit technically voiding the system’s warranty, and the company had minor trouble keeping up with demand for the accessory during the 2002 holiday season.[41]
 -   HALO LIGHT: The Halo light was an external front-lighting system that replaced the screen protector/lens of the GBA. The Halo had an external power adapter that connected to the link port, it featured on/off functions with a dimmer and a pass-through connector so other devices could be connected to the link port.
@@ -92,15 +92,11 @@ Revisions
 
 Game Boy Advance SP
 
-Gameboy-Advance-SP-Mk2.jpg
-
 In early 2003, Nintendo introduced a new form-factor for the handheld, known as the Game Boy Advance SP (model AGS-001). The redesigned unit resembles a pocket-size laptop computer, including a folding case approximately one-half the size of the original unit. It also supports a rechargeable lithium ion battery, a significantly brighter LCD screen, and an internal front-light that can be toggled on and off. The redesign was intended to address some common complaints about the original Game Boy Advance, which had been criticized for being somewhat uncomfortable to use, especially due to an overly dark screen.
 
 Around the same time as the release of the Game Boy Micro, Nintendo released a new backlit version of the SP (model AGS-101) in North America (commonly referred to as the "GBA SP+", SPII, or SP2). The switch that controls the light now toggles between "normal" (which itself is already brighter than the original Game Boy Advance SP's screen), and "bright", an intense brightness level similar to an LCD television set.
 
 Game Boy Micro
-
-Game-Boy-Micro.jpg
 
 In September 2005, Nintendo released a second redesign of the Game Boy Advance. This model, dubbed the Game Boy Micro, is similar in style to the original Game Boy Advance's horizontal orientation, but is much smaller and sleeker. The Game Boy Micro also allows the user to switch between several colored faceplates to allow customization, a feature which Nintendo advertised heavily around the Game Boy Micro's launch. Nintendo also hoped that this "fashion" feature would help target audiences outside of typical video game players. Unlike the previous Game Boy Advance models, Game Boy Micro is unable to support Game Boy and Game Boy Color titles. The Game Boy Micro did not make much of an impact in the video game market as it was overshadowed by Nintendo's other portable, the Nintendo DS, which also played Game Boy Advance cartridges.[45]
 

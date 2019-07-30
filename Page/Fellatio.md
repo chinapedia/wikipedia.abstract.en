@@ -1,5 +1,3 @@
-Wiki-fellatio02.png
-
 FELLATIO (also known as FELLATION,[1] and in slang as BLOWJOB, BJ, GIVING HEAD, or SUCKING OFF[2]) is an oral sex act involving the use of the mouth or throat, usually performed by a person on the penis of another person. If performed on oneself, the act is called autofellatio.[3][4] Oral stimulation of the scrotum may also be termed _fellatio_,[5][6] or colloquially as _teabagging._[7]
 
 Fellatio can be sexually arousing for both participants, and may lead to orgasm for the receiving partner.[8][9] It may be performed by a sexual partner as foreplay before other sexual activities such as vaginal or anal intercourse,[10][11] or as an erotic and physically intimate act of its own.[12][13] Like most forms of sexual activity, oral sex creates a risk of contracting sexually transmitted infections (STIs/STDs); however, the risk is significantly lower than that of vaginal or anal sex, especially for HIV transmission.[14][15][16]
@@ -18,7 +16,7 @@ Practice
 
 General
 
-Édouard-Henri_Avril_(20).jpg of fellatio scene]] We,_two_boys_together_clinging_-_05_-_Picture_by_Giovanni_Dall'Orto,_July_30_2014.jpg
+of fellatio scene]]
 
 A person who performs fellatio on someone may be referred to as the giving partner, and the other person as the receiving partner. Fellatio can be sexually arousing for participants, and males commonly experience orgasm and ejaculation of semen during the act.[23][24] People may use fellatio as foreplay to sexually arouse their sex partner before vaginal or anal intercourse, or other sexual activity,[25][26] or they may use it as an erotic and physically intimate act in its own right.[27][28] The sex partner may be of either sex. When the penis is thrust into someone's mouth, it may be called _irrumatio_, though the term is rarely used.[29]
 
@@ -34,7 +32,7 @@ It is physically possible for men with sufficient flexibility, penis size, or bo
 
 Deep-throating
 
-Wiki-dthroat.svg Deep-throating is a sexual act in which a person takes a partner's entire erect penis deep into the mouth and throat. The technique and term were popularized by the 1972 pornographic film _Deep Throat_. The practice is a type of fellatio where the receptive partner (the one whose mouth receives the penis) is in control, while deep throat penetration by an actively thrusting partner is called irrumatio; both are a form of oral sex.[39][40] For deep-throating, the penis has to be long enough so that it can reach the back of the recipient's throat.[41]
+Deep-throating is a sexual act in which a person takes a partner's entire erect penis deep into the mouth and throat. The technique and term were popularized by the 1972 pornographic film _Deep Throat_. The practice is a type of fellatio where the receptive partner (the one whose mouth receives the penis) is in control, while deep throat penetration by an actively thrusting partner is called irrumatio; both are a form of oral sex.[39][40] For deep-throating, the penis has to be long enough so that it can reach the back of the recipient's throat.[41]
 
 Deep-throating can be difficult, due to the natural gag reflex triggered when the soft palate is touched.[42][43] Different people have different sensitivities to the reflex, and with practice, some people learn to suppress it. Deep-throating leads to an entirely different kind of oral stimulation in comparison to regular fellatio: the tongue is immobilized during deep-throating and sucking becomes impossible;[44] the glans penis can be intensely stimulated by the tightness of the pharynx.
 
@@ -80,9 +78,9 @@ In Malaysia, fellatio is illegal, but the law is seldom enforced. Under Malaysia
 
 Tradition
 
-Depiction_of_fellatio_on_Attic_red-figure_kylix,_c._510_BC.jpg Galienus called fellatio _lesbiari_ since women of the island of Lesbos were supposed to have introduced the practice of using one's lips to give sexual pleasure.[92]
+Galienus called fellatio _lesbiari_ since women of the island of Lesbos were supposed to have introduced the practice of using one's lips to give sexual pleasure.[92]
 
-KamaSutra08.jpg]] The Ancient Indian Kama Sutra, dating from the first century AD, describes oral sex,[93] discussing fellatio in great detail (the Kama Sutra has a chapter on _auparishtaka_ (or _oparishtaka_), "mouth congress")[94] and only briefly mentioning cunnilingus. However, according to the Kama Sutra, fellatio is above all a characteristic of eunuchs (or, according to other translations, of effeminate homosexuals or transwomen similar to the modern Hijra of India), who use their mouths as a substitute for female genitalia.
+]] The Ancient Indian Kama Sutra, dating from the first century AD, describes oral sex,[93] discussing fellatio in great detail (the Kama Sutra has a chapter on _auparishtaka_ (or _oparishtaka_), "mouth congress")[94] and only briefly mentioning cunnilingus. However, according to the Kama Sutra, fellatio is above all a characteristic of eunuchs (or, according to other translations, of effeminate homosexuals or transwomen similar to the modern Hijra of India), who use their mouths as a substitute for female genitalia.
 
 The author of the Kama Sutra states that it is also practiced by "unchaste women", but mentions that there are widespread traditional concerns about this being a degrading or unclean practice, with known practitioners being evaded as love partners in large parts of the country. The author appears to somewhat agree with these attitudes, claiming that "a wise man" should not engage in that form of intercourse while acknowledging that it can be appropriate in some unspecified cases.
 
@@ -93,7 +91,7 @@ In some cultures, such as Cambodia, Chinese in Southeast Asia, northern Manchu t
 
 Other animals
 
-Cynopterus_sphinx_fellatio_no_music.ogg Flying foxes have been observed engaging in oral sex.[106] Indian flying fox males will lick a female's vulva both before and after copulation, with the length of pre-copulation cunnilingus positively correlated with length of copulation.[107] The fruit bat _Cynopterus sphinx_, has been observed to engage in fellatio during mating. Pairs spend more time copulating if the female licks the male than if she does not.[108][109] Male Livingstone's fruit bats have been observed engaging in homosexual fellatio, although it is unknown if this is an example of sexual behavior or social grooming.[110] Bonin flying foxes also engage in homosexual fellatio, but the behavior has been observed independently of social grooming.[111]
+Flying foxes have been observed engaging in oral sex.[106] Indian flying fox males will lick a female's vulva both before and after copulation, with the length of pre-copulation cunnilingus positively correlated with length of copulation.[107] The fruit bat _Cynopterus sphinx_, has been observed to engage in fellatio during mating. Pairs spend more time copulating if the female licks the male than if she does not.[108][109] Male Livingstone's fruit bats have been observed engaging in homosexual fellatio, although it is unknown if this is an example of sexual behavior or social grooming.[110] Bonin flying foxes also engage in homosexual fellatio, but the behavior has been observed independently of social grooming.[111]
 
 
 See also

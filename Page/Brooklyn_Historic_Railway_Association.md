@@ -1,5 +1,3 @@
-Bhratrolleysjeh.JPG
-
 The BROOKLYN HISTORIC RAILWAY ASSOCIATION's (BHRA) shop, trolley barn and offices are located in Red Hook, Brooklyn, New York, on the historic Beard Street Piers (c. 1870). BHRA had a fleet of 16 trolleys (15 PCC trolleys and a leased 1897 trolley car from Oslo, Norway).
 
 

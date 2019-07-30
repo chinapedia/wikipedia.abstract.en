@@ -27,8 +27,6 @@ The right to vote on matters brought before the Assembly varies according to the
 
 On budget matters (which fall into the second category), votes are weighted according to the relative subscription levels of the national members. A second category vote requires a turnout of at least two-thirds of national members in order to be valid. An absolute majority is sufficient for approval in any vote, except for Statute revision which requires a two-thirds majority. An equality of votes is resolved by the vote of the President of the Union.
 
-IAU_National_Members.svg
-
 
 General Assemblies
 
@@ -94,8 +92,6 @@ Commission 46 is a Committee of the Executive Committee of the IAU, playing a sp
 
 
 Publications
-
-Cover_picture_of_CAP_Journal_issue_19.jpg
 
 In 2004 the IAU contracted with the Cambridge University Press to publish the _Proceedings of the International Astronomical Union_.[21]
 

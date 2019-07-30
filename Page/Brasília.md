@@ -11,7 +11,7 @@ History
 
 Background
 
-Pedra_fundamental.jpg in 1922.]] PlanoVeraCruz1.jpg
+in 1922.]]
 
 From 1763 until 1960, Rio de Janeiro was Brazil's capital. At this time, resources tended to be centered in Brazil's southeast region near Rio de Janeiro and most of its population was concentrated near to the Atlantic Coast.[11] Brasília's geographically central location fostered a more regionally neutral federal capital. An article of the country's first republican constitution dating back to 1891 stated the capital should be moved from Rio de Janeiro to a place close to the country's center.
 
@@ -21,7 +21,7 @@ According to legend, Italian saint Don Bosco in 1883 had a dream in which he des
 
 Costa plan
 
-Brasilia_-_Plan.JPG 0741_NOV_B_05_Esplanada_dos_Ministerios_Brasilia_DF_03_09_1959.jpg in 1959]]
+in 1959]]
 
 In 1955 Juscelino Kubitschek was elected president of Brazil. Upon taking office in January 1956, in response to his campaign pledge, he initiated the planning and construction of the new capital. In 1957 an international jury selected Lúcio Costa's plan to guide the construction of Brazil’s new capital, Brasília. Costa's plan was not as detailed as some of the plans presented by other architects and city planners. It did not include land use schedules, models, population charts or mechanical drawings, however, it was chosen by five out of six jurors because it had the features required to align the growth of a capital city[14] Even though the initial plan was transformed over time, his plan oriented much of the construction and most of its features survived.
 
@@ -33,7 +33,7 @@ The Residential Axis was intended to contain areas with intimate character and i
 
 The urban design of the communal apartment blocks was based on Le Corbusier's Ville Radieuse of 1935 and the superblocks on the North American Radburn layout from 1929.[20] Visually, the blocks were intended to appear absorbed by the landscape because they were isolated by a belt of tall trees and lower vegetation. Costa attempted to introduce a Brazil that was more equitable, he also designed housing for the working classes that was separated from the upper and middle-class housing and was visually different, with the intention of avoiding slums (_favelas_) in the urban periphery.[21] The superquadra has been accused of being a space where individuals are oppressed and alienated to a form of spatial segregation.[22]
 
-One of the main objectives of the plan was to allow the free flow of automobile traffic, the plan included lanes of traffic in a north-south direction (seven for each direction) for the Monumental Axis and three arterials (the W3, the Eixo and the L2) for the residential Axis;[23] the cul-de-sac access roads of the superblocks were planned to be the end of the main flow of traffic. This emphasis of the plan on automobiles caused the lengthening of distances between centers and it attended only the necessities of a small segment of the population who owned cars.[24] Brasília-em-1964.jpg Brasilia,_Brazil_(28252970275).jpg
+One of the main objectives of the plan was to allow the free flow of automobile traffic, the plan included lanes of traffic in a north-south direction (seven for each direction) for the Monumental Axis and three arterials (the W3, the Eixo and the L2) for the residential Axis;[23] the cul-de-sac access roads of the superblocks were planned to be the end of the main flow of traffic. This emphasis of the plan on automobiles caused the lengthening of distances between centers and it attended only the necessities of a small segment of the population who owned cars.[24]
 
 At the intersection of the Monumental and Residential Axis Costa planned the city center with the transportation center (Rodoviaria), the banking sector and the hotel sector,[25] near to the city center, he proposed an amusement center with theatres, cinemas and restaurants. Costa's Plan is seen as a plan with a sectoral tendency, segregating all the banks, the office buildings, and the amusement center.[26]
 
@@ -48,7 +48,7 @@ Juscelino Kubitschek, President of Brazil from 1956 to 1961, ordered Brasília's
 
 Geography
 
-Vista_parcial_do_Distrito_Federal,_Brasil.jpg]]
+]]
 
 The city is located at the top of the Brazilian highlands in the country's center-western region. The Paranoá Lake is a large artificial lake that was built to increase the amount of water available and to maintain the region's humidity. It has Brazil's second largest marina, and hosts wakeboarders and windsurfers. Diving can also be practiced and one of the main attractions is Vila Amaury, an old village submerged in the lake. This is where the first construction workers of Brasília used to live.
 
@@ -61,7 +61,7 @@ According to Brazilian National Institute of Meteorology (INMET), the record low
 
 Demographics
 
-Brasilia_aerea_eixo_monumental.jpg]] Federal_District,_Brazil,_from_space.jpg]]
+]] ]]
 
 According to the 2010 IBGE Census, there were 2,469,489 people residing in Brasília and its metropolitan area,[38] of which 1,239,882 were Pardo (multiracial) (48.2%), 1,084,418 White (42.2%), 198,072 Black (7.7%), 41,522 Asian (1.6%), and 6,128 Amerindian (0.2%).[39]
 
@@ -77,7 +77,7 @@ Brasília's inhabitants include a foreign population of mostly embassy workers a
 
 Religion
 
-Catedral_Metropolitana_de_Brasília_2.jpg]] Igreja_Ortodoxa_Sao_Jorge_DF_03.jpg]] Christianity, in general, is by far the most prevalent religion in Brazil with Roman Catholicism being the largest denomination.
+]] ]] Christianity, in general, is by far the most prevalent religion in Brazil with Roman Catholicism being the largest denomination.
 
   Religion      Percentage   Number
   ------------- ------------ -----------
@@ -93,7 +93,7 @@ Catedral_Metropolitana_de_Brasília_2.jpg]] Igreja_Ortodoxa_Sao_Jorge_DF_03.jpg]
 
 Government
 
-Palácio_do_Buriti_(vista_lateral).jpg of the Federal District]] Câmara_Legislativa_do_Distrito_Federal_2012.jpg building]] Brasília does not have mayor and councillors, because the article 32 of the 1988 Brazilian Constitution expressly prohibits that the Federal District be divided in municipalities, being considered one.
+of the Federal District]] building]] Brasília does not have mayor and councillors, because the article 32 of the 1988 Brazilian Constitution expressly prohibits that the Federal District be divided in municipalities, being considered one.
 
 The Federal District is a legal entity of internal public law, which is part of the political-administrative structure of Brazil of nature _sui generis_, because it is neither a state nor a municipality, but rather a special entity that accumulates the legislative powers reserved to the states and municipalities, as provided in art. 32, § 1º of the CF, which gives it a hybrid nature of state and municipality.[48]
 
@@ -148,8 +148,6 @@ Of these, Abuja, Canberra, and Washington were likewise cities planned specifica
 
 Economy
 
-Brasilia_aerea_setorbancariosul.jpg
-
 The major roles of construction and of services (government, communications, banking and finance, food production, entertainment, and legal services) in Brasília's economy reflect the city's status as a governmental rather than an industrial center. Industries connected with construction, food processing, and furnishings are important, as are those associated with publishing, printing, and computer software. GDP is divided in Public Administration 54.8%, Services 28.7%, Industry 10.2%, Commerce 6.1%, Agrobusiness 0.2%.[71]
 
 Besides being the political center, Brasília is an important economic center. Brasília has the highest city gross domestic product (GDP) of 99.5 billion reais representing 3.76% of the total Brazilian GDP. The main economic activity of the federal capital results from its administrative function. Its industrial planning is studied carefully by the Government of the Federal District. Being a city registered by UNESCO, the government in Brasília has opted to encourage the development of non-polluting industries such as software, film, video, and gemology among others, with emphasis on environmental preservation and maintaining ecological balance, preserving the city property.
@@ -158,7 +156,7 @@ According to Mercer's city rankings of cost of living for expatriate employees, 
 
 Services
 
-Brasilia_Shopping_02.jpg (91% of local GDP, according to the IBGE):
+(91% of local GDP, according to the IBGE):
 
 -   Government – the public sector is by far the largest employer, accounting for around 40% of the city jobs. Government jobs include all levels, from the federal police to diplomacy, from the transportation bureau to the armed forces;
 -   Communications – the telephony used to be a state monopoly, and Brasília held the HQ of Telebrás, the central state company; one of the enterprises that resulted from the privatization of the system in the 90's, Brasil Telecom, keeps it HQ in the city; the official Postal Service (Correios) HQ is located in the city as well; as it is the main place of Federal Government news, it is also notable the activities of TV stations, including the main offices of four public networks (TV Brasil/Agência Brasil, TV Câmara, TV Senado and TV Justiça), the regional offices of four major private television networks (Rede Globo, SBT, Rede Bandeirantes and Rede Record) and a main affiliate of RedeTV!;
@@ -169,8 +167,6 @@ Brasilia_Shopping_02.jpg (91% of local GDP, according to the IBGE):
 
 Industries
 
-Brasilia_aerea_torredetveixomonumental.jpg
-
 Industries in the city include construction (Paulo Octavio, Via Construções, and Irmãos Gravia among others); food processing (Perdigão, Sadia); furniture making; recycling (Novo Rio, Rexam, Latasa and others); pharmaceuticals (União Química); and graphic industries. The main agricultural products produced in the city are coffee, guavas, strawberries, oranges, lemons, papayas, soybeans, and mangoes. It has over 110,000 cows and it exports wood products worldwide.
 
 The Federal District, where Brasília is located, has a GDP of R$133,4 billion (about US$64.1 billion), about the same as Belarus according to The Economist. Its share of the total Brazilian GDP is about 3.8%.[72] The Federal District has the largest GDP per capita income of Brazil US$25,062, slightly higher than Belarus.[73]
@@ -180,7 +176,7 @@ The city's planned design included specific areas for almost everything, includi
 
 Culture
 
-Complexo_Cultural_interior.jpg]]
+]]
 
 As a venue for political events, music performances and movie festivals, Brasília is a cosmopolitan city, with around 124 embassies, a wide range of restaurants and complete infrastructure ready to host any kind of event. Not surprisingly, the city stands out as an important business/tourism destination, which is an important part of the local economy, with dozens of hotels spread around the federal capital. Traditional parties take place throughout the year.
 
@@ -188,7 +184,7 @@ In June, large festivals known as "festas juninas" are held celebrating Catholic
 
 The city also hosts a varied assortment of art works from artists like Bruno Giorgi, Alfredo Ceschiatti, Athos Bulcão, Marianne Peretti, Alfredo Volpi, Di Cavalcanti, Dyllan Taxman, Victor Brecheret and Burle Marx, whose works have been integrated into the city's architecture, making it a unique landscape. The cuisine in the city is very diverse. Many of the best restaurants in the city can be found in the Asa Sul district.[75]
 
-The city is also the birthplace of Brazilian rock and place of origin of many bands like: Legião Urbana, Capital Inicial, Aborto Elétrico, Plebe Rude and Raimundos. Currently Brasília has the Rock Basement Festival which attempts to bring new bands to the national scene. The festival is held in the parking Brasilia National Stadium Mané Garrincha. Teatro_Nacional_Cláudio_Santoro_-_Brasilia_-_DSC00311.JPG]]
+The city is also the birthplace of Brazilian rock and place of origin of many bands like: Legião Urbana, Capital Inicial, Aborto Elétrico, Plebe Rude and Raimundos. Currently Brasília has the Rock Basement Festival which attempts to bring new bands to the national scene. The festival is held in the parking Brasilia National Stadium Mané Garrincha. ]]
 
 Since 1965, the annual Brasília Festival of Brazilian Cinema is one of the most traditional cinema festivals in Brazil, being compared only to the Brazilian Cinema Festival of Gramado, in Rio Grande do Sul. The difference between both is that the festival in Brasília still preserves the tradition to only submit and reward Brazilian movies.
 
@@ -200,7 +196,7 @@ _American Flagg!_, the First Comics comic book series created by Howard Chaykin,
 
 Architecture and urbanism
 
-At the northwestern end of the Monumental Axis are federal district and municipal buildings, while at the southeastern end, near the middle shore of Lake Paranoá, stand the executive, legislative, and judiciary buildings around the Square of Three Powers, the conceptual heart of the city.[79] BrasiliaBanNacional.jpg and the National Congress in spring]]
+At the northwestern end of the Monumental Axis are federal district and municipal buildings, while at the southeastern end, near the middle shore of Lake Paranoá, stand the executive, legislative, and judiciary buildings around the Square of Three Powers, the conceptual heart of the city.[79] and the National Congress in spring]]
 
 These and other major structures were designed by Brazilian architect Oscar Niemeyer and projected by Brazilian structural engineer Joaquim Cardozo in the style of modern Brazilian architecture. In the Square of Three Powers, he created as a focal point the dramatic Congressional Palace, which is composed of five parts: twin administrative towers surrounded by a large, white concrete dome (the meeting place of the Senate) and by an equally massive concrete bowl (the Chamber of Deputies), which is joined to the dome by an underlying, flat-roofed building.[80] The Congress also occupies various other surrounding buildings, some connected by tunnels. A series of low-lying annexes (largely hidden) surround both ends.
 
@@ -212,7 +208,7 @@ Both low-cost and luxury buildings were built by the government in the Brasília
 
 Monumental civic scale
 
-Vista_aérea_da_Asa_Sul_em_direção_ao_Lago_Sul.jpg Brasilia_aerea_torredetv1304_4713.jpg and Brasilia TV Tower]] The city has been both acclaimed and criticized for its use of modernist architecture on a grand scale and for its somewhat utopian city plan.[83]
+and Brasilia TV Tower]] The city has been both acclaimed and criticized for its use of modernist architecture on a grand scale and for its somewhat utopian city plan.[83]
 
 After a visit to Brasília, the French writer Simone de Beauvoir complained that all of its _superquadras_ exuded "the same air of elegant monotony", and other observers have equated the city's large open lawns, plazas, and fields to wastelands. As the city has matured, some of these have gained adornments, and many have been improved by landscaping, giving some observers a sense of "humanized" spaciousness. Although not fully accomplished, the "Brasília utopia" has produced a city of relatively high quality of life, in which the citizens live in forested areas with sporting and leisure structure (the _superquadras_) surrounded by small commercial areas, bookstores and cafés; the city is famous for its cuisine and efficiency of transit.[84]
 
@@ -222,7 +218,7 @@ Critics of Brasília's grand scale have characterized it as a modernist bauhaus 
 
 Notable structures
 
-Catedral1_Rodrigo_Marfan.jpg.]] Praça_dos_Três_Poderes_em_Brasília.jpg (Three Powers Plaza)]]
+.]] (Three Powers Plaza)]]
 
 The Cathedral of Brasília in the capital of the Federative Republic of Brazil, is an expression of the atheist architect Oscar Niemeyer and the structural engineer Joaquim Cardozo. This concrete-framed hyperboloid structure, seems with its glass roof reaching up, open, to the heavens. On May 31, 1970, the Cathedral's structure was finished, and only the diameter of the circular area were visible. Niemeyer's and Cardozo's project of Cathedral of Brasília is based in the hyperboloid of revolution which sections are asymmetric. The hyperboloid structure itself is a result of 16 identical assembled concrete columns. There is controversy as to what these columns, having hyperbolic section and weighing 90 t, represent, some say they are two hands moving upwards to heaven, others associate it to the chalice Jesus used in the last supper and some claim it represent his crown of thorns. The Cathedral was dedicated on May 31, 1970.
 
@@ -230,7 +226,7 @@ At the end of the _Eixo Monumental_ ("Monumental Axis") lies the _Esplanada dos 
 
 _Praça dos Três Poderes_ (Portuguese for _Square of the Three Powers_) is a plaza in Brasília. The name is derived from the encounter of the three federal branches around the plaza: the Executive, represented by the Palácio do Planalto (presidential office); the Legislative, represented by the National Congress (Congresso Nacional); and the Judiciary branch, represented by the Supreme Federal Court (Supremo Tribunal Federal). It is a tourist attraction in Brasília, designed by Lúcio Costa and Oscar Niemeyer as a place where the three branches would meet harmoniously.
 
-Palacio_Alvorada_commons.jpg]] Planalto_panorama.jpg]]
+]] ]]
 
 The Palácio da Alvorada is the official residence of the president of Brazil. The palace was designed, along with the rest of the city of Brasília, by Oscar Niemeyer and inaugurated in 1958. One of the first structures built in the republic's new capital city, the "Alvorada" lies on a peninsula at the margins of Lake Paranoá. The principles of simplicity and modernity, that in the past characterized the great works of architecture, motivated Niemeyer. The viewer has an impression of looking at a glass box, softly landed on the ground with the support of thin external columns. The building has an area of 7,000 m² with three floors consisting of the basement, landing, and second floor. The auditorium, kitchen, laundry, medical center, and administration offices are at basement level. The rooms used by the presidency for official receptions are on the landing. The second floor has four suites, two apartments, and various private rooms which make up the residential part of the palace. The building also has a library, a heated Olympic-sized swimming pool, a music room, two dining rooms and various meeting rooms. A chapel and heliport are in adjacent buildings.
 
@@ -239,7 +235,7 @@ The Palácio do Planalto is the official workplace of the president of Brazil. I
 
 Education
 
-IB_UnB.jpg]]
+]]
 
 Portuguese is the official national language and the primary language taught in schools. English and Spanish are also part of the official curriculum. The city has six international schools: American School of Brasília, Brasília International School (BIS), Escola das Nações, Swiss International School (SIS), Lycée français François-Mitterrand (LfFM) and Maple Bear Canadian School.[87] August 2016 will see the opening of a new international school – The British School of Brasilia. Brasília has two universities, three university centers, and many private colleges.
 
@@ -250,7 +246,7 @@ Transportation
 
 Airport
 
-Brasilia_aeroportojk_inauguracaoalasul.jpg]] Brasilia_aerea_aeroporto.jpg Brasília–Presidente Juscelino Kubitschek International Airport serves the metropolitan area with major domestic and international flights. It is the third busiest Brazilian airport based on passengers and aircraft movements.[88] Because of its strategic location it is a civil aviation hub for the rest of the country.
+]] Brasília–Presidente Juscelino Kubitschek International Airport serves the metropolitan area with major domestic and international flights. It is the third busiest Brazilian airport based on passengers and aircraft movements.[88] Because of its strategic location it is a civil aviation hub for the rest of the country.
 
 This makes for a large number of takeoffs and landings and it is not unusual for flights to be delayed in the holding pattern before landing. Following the airport's master plan, Infraero built a second runway, which was finished in 2006. In 2007, the airport handled 11,119,872 passengers.[89] The main building's third floor, with 12 thousand square meters, has a panoramic deck, a food court, shops, four movie theatres with total capacity of 500 people, and space for exhibitions. Brasília Airport has 136 vendor spaces. The airport is located about from the central area of Brasília, outside the metro system. The area outside the airport's main gate is lined with taxis as well as several bus line services that connect the airport to Brasília's central district. The parking lot accommodates 1,200 cars.[90] The airport is serviced by domestic and regional airlines (TAM, GOL, Azul, WebJET, Trip and Avianca), in addition to a number of international carriers. In 2012, Brasília's International Airport was won by the InfraAmerica consortium, formed by the Brazilian engineering company ENGEVIX and the Argentine Corporacion America holding company, with a 50% stake each.[91] During the 25-year concession, the airport may be expanded to up to 40 million passengers a year.[92]
 
@@ -258,7 +254,7 @@ In 2014 the airport received 15 new boarding bridges, totaling 28 in all. This w
 
 Road transport
 
-Ponte_JK_Brasília_Brazil.jpg]] Esplanada_dos_Ministérios_(15232674849).jpg Like most Brazilian cities, Brasília has a good network of taxi companies. Taxis from the airport are available immediately outside the terminal, but at times there can be quite a queue of people. Although the airport is not far from the downtown area, taxi prices do seem to be higher than in other Brazilian cities. Booking in advance can be advantageous, particularly if time is limited, and local companies should be able to assist airport transfer or transport requirements.
+]] Like most Brazilian cities, Brasília has a good network of taxi companies. Taxis from the airport are available immediately outside the terminal, but at times there can be quite a queue of people. Although the airport is not far from the downtown area, taxi prices do seem to be higher than in other Brazilian cities. Booking in advance can be advantageous, particularly if time is limited, and local companies should be able to assist airport transfer or transport requirements.
 
 The Juscelino Kubitschek bridge, also known as the 'President JK Bridge' or the 'JK Bridge', crosses Lake Paranoá in Brasília. It is named after Juscelino Kubitschek de Oliveira, former president of Brazil. It was designed by architect Alexandre Chan and structural engineer Mário Vila Verde. Chan won the Gustav Lindenthal Medal[94] for this project at the 2003 International Bridge Conference in Pittsburgh due to "...outstanding achievement demonstrating harmony with the environment, aesthetic merit and successful community participation".
 
@@ -266,15 +262,13 @@ It consists of three tall asymmetrical steel arches that crisscross diagonally. 
 
 Metro
 
-Metro_DF_Galeria.jpg]] The Brasília Metro is Brasília's underground metro system. The system has 24 stations on two lines, the Orange and Green lines, along a total network of , covering some of the metropolitan area. Both lines begin at the Central Station and run parallel until the Águas Claras Station. The Brasília metro is not comprehensive so buses may provide better access to the center.
+]] The Brasília Metro is Brasília's underground metro system. The system has 24 stations on two lines, the Orange and Green lines, along a total network of , covering some of the metropolitan area. Both lines begin at the Central Station and run parallel until the Águas Claras Station. The Brasília metro is not comprehensive so buses may provide better access to the center.
 
 The metro leaves the Rodoviária (bus station) and goes south, avoiding most of the political and tourist areas. The main purpose of the metro is to serve cities, such as Samambaia, Taguatinga and Ceilândia, as well as Guará and Águas Claras. The satellite cities served are more populated in total than the Plano Piloto itself (the census of 2000 indicated that Ceilândia had 344,039 inhabitants, Taguatinga had 243,575, and the Plano Piloto had approximately 400,000 inhabitants), and most residents of the satellite cities depend on public transportation.[95]
 
 A high-speed railway was planned between Brasília and Goiânia, the capital of the state of Goias, but it will probably be turned into a regional service linking the capital cities and cities in between, like Anápolis and Alexânia.[96]
 
 Buses
-
-Rodoviária_do_Plano_Piloto.jpg
 
 The main bus hub in Brasília is the Central Bus Station, located in the crossing of the Eixo Monumental and the Eixão, about from the Three Powers Plaza. The original plan was to have a bus station as near as possible to every corner of Brasília. Today, the bus station is the hub of urban buses only, some running within Brasília and others connecting Brasília to the satellite cities.
 
@@ -287,13 +281,13 @@ The average amount of time people spend commuting with public transit in Brasíl
 
 Sports
 
-Brasilia_Stadium_-_June_2013.jpg]]
+]]
 
 The main stadiums are the Brasília National Stadium Mané Garrincha (which was reinaugurated on May 18, 2013), the Serejão Stadium (home for Brasiliense) and the Bezerrão Stadium (home for Gama).
 
 Brasília was one of the host cities of the 2014 FIFA World Cup and 2013 FIFA Confederations Cup, for which Brazil is the host nation. Brasília hosted the opening of the Confederations Cup and hosted 7 World Cup games.[98] Brasília also hosted the football tournaments during the 2016 Summer Olympics held in Rio de Janeiro.
 
-Ginásio_Nilson_Nelson_-_Brasilia_-_DSC00168.JPG]] Brasília is known as a departing point for the practice of unpowered air sports, sports that may be practiced with hang gliding or paragliding wings. Practitioners of such sports reveal that, because of the city's dry weather, the city offers strong thermal winds and great "cloud-streets", which is also the name for a manoeuvre quite appreciated by practitioners. In 2003, Brasília hosted the 14th Hang Gliding World Championship, one of the categories of free flying. In August 2005, the city hosted the 2nd stage of the Brazilian Hang Gliding Championship.
+]] Brasília is known as a departing point for the practice of unpowered air sports, sports that may be practiced with hang gliding or paragliding wings. Practitioners of such sports reveal that, because of the city's dry weather, the city offers strong thermal winds and great "cloud-streets", which is also the name for a manoeuvre quite appreciated by practitioners. In 2003, Brasília hosted the 14th Hang Gliding World Championship, one of the categories of free flying. In August 2005, the city hosted the 2nd stage of the Brazilian Hang Gliding Championship.
 
 Brasília is the site of the Autódromo Internacional Nelson Piquet which hosted a non-championship round of the 1974 Formula One Grand Prix season. An IndyCar race was cancelled at the last minute in 2015.
 
@@ -512,6 +506,6 @@ Brasília Category:Capitals in South America Category:Modernist heritage distric
 
 [96]
 
-[97]  CC-BY_icon.svg Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
+[97]  Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
 
 [98]

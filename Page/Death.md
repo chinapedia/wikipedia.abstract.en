@@ -1,11 +1,11 @@
-Vanitas_Still_Life_by_Giovanni_Francesco_Barbieri.jpg is used universally as a symbol of death.]] CathedralOfTrier_Skeleton.JPG, personified as a human skeleton dressed in a shroud and clutching a scythe, from the Cathedral of Trier in Trier, Germany]] Kuoleman_Puutarha_by_Hugo_Simberg.jpg (1906)]] DEATH is the permanent cessation of all biological functions that sustain a living organism.[1] Phenomena which commonly bring about death include aging, predation, malnutrition, disease, suicide, homicide, starvation, dehydration, and accidents or major trauma resulting in terminal injury.[2] In most cases, bodies of living organisms begin to decompose shortly after death.[3]
+is used universally as a symbol of death.]] , personified as a human skeleton dressed in a shroud and clutching a scythe, from the Cathedral of Trier in Trier, Germany]] (1906)]] DEATH is the permanent cessation of all biological functions that sustain a living organism.[1] Phenomena which commonly bring about death include aging, predation, malnutrition, disease, suicide, homicide, starvation, dehydration, and accidents or major trauma resulting in terminal injury.[2] In most cases, bodies of living organisms begin to decompose shortly after death.[3]
 
 Death – particularly the death of humans – has commonly been considered a sad or unpleasant occasion, due to the affection for the being that has died and the termination of social and familial bonds with the deceased. Other concerns include fear of death, necrophobia, anxiety, sorrow, grief, emotional pain, depression, sympathy, compassion, solitude, or saudade. Many cultures and religions have the idea of an afterlife, and also hold the idea of reward or judgement and punishment for past sin.
 
 
 Senescence
 
-Dead_magpie.jpg]]
+]]
 
 Senescence refers to a scenario when a living being is able to survive all calamities, but eventually dies due to causes relating to old age. Animal and plant cells normally reproduce and function during the whole period of natural existence, but the aging process derives from deterioration of cellular activity and ruination of regular functioning. Aptitude of cells for gradual deterioration and mortality means that cells are naturally sentenced to stable and long-term loss of living capacities, even despite continuing metabolic reactions and viability. In the United Kingdom, for example, nine out of ten of all the deaths that occur on a daily basis relates to senescence, while around the world it accounts for two-thirds of 150,000 deaths that take place daily (Hayflick & Moody, 2003).
 
@@ -40,7 +40,7 @@ Signs of death or strong indications that a warm-blooded animal is no longer ali
 
 Problems of definition
 
-StillLifeWithASkull.jpg, death and time in this 17th-century painting by Philippe de Champaigne]] French_-_Pendant_with_a_Monk_and_Death_-_Walters_71461.jpg)]]
+, death and time in this 17th-century painting by Philippe de Champaigne]] )]]
 
 The concept of death is a key to human understanding of the phenomenon.[9] There are many scientific approaches and various interpretations of the concept. Additionally, the advent of life-sustaining therapy and the numerous criteria for defining death from both a medical and legal standpoint, have made it difficult to create a single unifying definition.
 
@@ -74,7 +74,7 @@ The death of a person has legal consequences that may vary between different jur
 
 Misdiagnosed
 
-Wiertz_burial.jpg's painting of a man buried alive]] There are many anecdotal references to people being declared dead by physicians and then "coming back to life", sometimes days later in their own coffin, or when embalming procedures are about to begin. From the mid-18th century onwards, there was an upsurge in the public's fear of being mistakenly buried alive,[26] and much debate about the uncertainty of the signs of death. Various suggestions were made to test for signs of life before burial, ranging from pouring vinegar and pepper into the corpse's mouth to applying red hot pokers to the feet or into the rectum.[27] Writing in 1895, the physician J.C. Ouseley claimed that as many as 2,700 people were buried prematurely each year in England and Wales, although others estimated the figure to be closer to 800.[28]
+'s painting of a man buried alive]] There are many anecdotal references to people being declared dead by physicians and then "coming back to life", sometimes days later in their own coffin, or when embalming procedures are about to begin. From the mid-18th century onwards, there was an upsurge in the public's fear of being mistakenly buried alive,[26] and much debate about the uncertainty of the signs of death. Various suggestions were made to test for signs of life before burial, ranging from pouring vinegar and pepper into the corpse's mouth to applying red hot pokers to the feet or into the rectum.[27] Writing in 1895, the physician J.C. Ouseley claimed that as many as 2,700 people were buried prematurely each year in England and Wales, although others estimated the figure to be closer to 800.[28]
 
 In cases of electric shock, cardiopulmonary resuscitation (CPR) for an hour or longer can allow stunned nerves to recover, allowing an apparently dead person to survive. People found unconscious under icy water may survive if their faces are kept continuously cold until they arrive at an emergency room.[29] In science fiction scenarios where such technology is readily available, real death is distinguished from reversible death.
 
@@ -83,7 +83,7 @@ Cause
 
 The leading cause of human death in developing countries is infectious disease. The leading causes in developed countries are atherosclerosis (heart disease and stroke), cancer, and other diseases related to obesity and aging. By an extremely wide margin, the largest unifying cause of death in the developed world is biological aging,[30] leading to various complications known as aging-associated diseases. These conditions cause loss of homeostasis, leading to cardiac arrest, causing loss of oxygen and nutrient supply, causing irreversible deterioration of the brain and other tissues. Of the roughly 150,000 people who die each day across the globe, about two thirds die of age-related causes.[31] In industrialized nations, the proportion is much higher, approaching 90%.[32] With improved medical capability, dying has become a condition to be managed. Home deaths, once commonplace, are now rare in the developed world.
 
-Lewis_Hine,_Newsies_smoking_at_Skeeter's_Branch,_St._Louis,_1910.jpg caused an estimated 100 million deaths in the 20th century.[33]]] In developing nations, inferior sanitary conditions and lack of access to modern medical technology makes death from infectious diseases more common than in developed countries. One such disease is tuberculosis, a bacterial disease which killed 1.8M people in 2015.[34] Malaria causes about 400–900M cases of fever and 1–3M deaths annually.[35] AIDS death toll in Africa may reach 90–100M by 2025.[36][37]
+caused an estimated 100 million deaths in the 20th century.[33]]] In developing nations, inferior sanitary conditions and lack of access to modern medical technology makes death from infectious diseases more common than in developed countries. One such disease is tuberculosis, a bacterial disease which killed 1.8M people in 2015.[34] Malaria causes about 400–900M cases of fever and 1–3M deaths annually.[35] AIDS death toll in Africa may reach 90–100M by 2025.[36][37]
 
 According to Jean Ziegler (United Nations Special Reporter on the Right to Food, 2000 – Mar 2008), mortality due to malnutrition accounted for 58% of the total mortality rate in 2006. Ziegler says worldwide approximately 62M people died from all causes and of those deaths more than 36M died of hunger or diseases due to deficiencies in micronutrients.[38]
 
@@ -97,15 +97,13 @@ In 2012, suicide overtook car crashes for leading causes of human injury deaths 
 
 Autopsy
 
-Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg'', by Rembrandt]] An autopsy, also known as a _postmortem examination_ or an _obduction_, is a medical procedure that consists of a thorough examination of a human corpse to determine the cause and manner of a person's death and to evaluate any disease or injury that may be present. It is usually performed by a specialized medical doctor called a pathologist.
+'', by Rembrandt]] An autopsy, also known as a _postmortem examination_ or an _obduction_, is a medical procedure that consists of a thorough examination of a human corpse to determine the cause and manner of a person's death and to evaluate any disease or injury that may be present. It is usually performed by a specialized medical doctor called a pathologist.
 
 Autopsies are either performed for legal or medical purposes. A forensic autopsy is carried out when the cause of death may be a criminal matter, while a clinical or academic autopsy is performed to find the medical cause of death and is used in cases of unknown or uncertain death, or for research purposes. Autopsies can be further classified into cases where external examination suffices, and those where the body is dissected and an internal examination is conducted. Permission from next of kin may be required for internal autopsy in some cases. Once an internal autopsy is complete the body is generally reconstituted by sewing it back together. Autopsy is important in a medical environment and may shed light on mistakes and help improve practices.
 
 A necropsy, which is not always a medical procedure, was a term previously used to describe an unregulated postmortem examination . In modern times, this term is more commonly associated with the corpses of animals.
 
 Cryonics
-
-Cryo_surgery.jpg
 
 Cryonics (from Greek κρύος 'kryos-' meaning 'icy cold') is the low-temperature preservation of animals and humans who cannot be sustained by contemporary medicine, with the hope that healing and resuscitation may be possible in the future.[46][47]
 
@@ -144,7 +142,7 @@ Philosopher Galen Strawson writes that the death that many people wish for is an
 
 Society and culture
 
-Hertig_Karl_skymfande_Klaus_Flemings_lik,_målning_av_Albert_Edelfelt_från_1878.jpg) insulting the corpse of Klaus Fleming. Albert Edelfelt, 1878.]] Placid_death.JPG either naturally, as this one from Guanajuato, or by intention, as those in ancient Egypt.]]
+) insulting the corpse of Klaus Fleming. Albert Edelfelt, 1878.]] either naturally, as this one from Guanajuato, or by intention, as those in ancient Egypt.]]
 
 In society, the nature of death and humanity's awareness of its own mortality has for millennia been a concern of the world's religious traditions and of philosophical inquiry. This includes belief in resurrection or an afterlife (associated with Abrahamic religions), reincarnation or rebirth (associated with Dharmic religions), or that consciousness permanently ceases to exist, known as eternal oblivion (associated with atheism).[65]
 
@@ -154,7 +152,7 @@ Death is the center of many traditions and organizations; customs relating to de
 
 Legal aspects of death are also part of many cultures, particularly the settlement of the deceased estate and the issues of inheritance and in some countries, inheritance taxation.
 
-Grave_stone2.JPG, Japan]] Capital punishment is also a culturally divisive aspect of death. In most jurisdictions where capital punishment is carried out today, the death penalty is reserved for premeditated murder, espionage, treason, or as part of military justice. In some countries, sexual crimes, such as adultery and sodomy, carry the death penalty, as do religious crimes such as apostasy, the formal renunciation of one's religion. In many retentionist countries, drug trafficking is also a capital offense. In China, human trafficking and serious cases of corruption are also punished by the death penalty. In militaries around the world courts-martial have imposed death sentences for offenses such as cowardice, desertion, insubordination, and mutiny.[67]
+, Japan]] Capital punishment is also a culturally divisive aspect of death. In most jurisdictions where capital punishment is carried out today, the death penalty is reserved for premeditated murder, espionage, treason, or as part of military justice. In some countries, sexual crimes, such as adultery and sodomy, carry the death penalty, as do religious crimes such as apostasy, the formal renunciation of one's religion. In many retentionist countries, drug trafficking is also a capital offense. In China, human trafficking and serious cases of corruption are also punished by the death penalty. In militaries around the world courts-martial have imposed death sentences for offenses such as cowardice, desertion, insubordination, and mutiny.[67]
 
 Death in warfare and in suicide attack also have cultural links, and the ideas of dulce et decorum est pro patria mori, mutiny punishable by death, grieving relatives of dead soldiers and death notification are embedded in many cultures. Recently in the western world, with the increase in terrorism following the September 11 attacks, but also further back in time with suicide bombings, kamikaze missions in World War II and suicide missions in a host of other conflicts in history, death for a cause by way of suicide attack, and martyrdom have had significant cultural impacts.
 
@@ -172,7 +170,7 @@ Much interest and debate surround the question of what happens to one's consciou
 
 In biology
 
-Earthworm.jpgs are a good example of soil-dwelling detritivores.]] After death, the remains of an organism become part of the biogeochemical cycle, during which animals may be consumed by a predator or a scavenger. Organic material may then be further decomposed by detritivores, organisms which recycle detritus, returning it to the environment for reuse in the food chain, where these chemicals may eventually end up being consumed and assimilated into the cells of a living organism. Examples of detritivores include earthworms, woodlice and dung beetles.
+s are a good example of soil-dwelling detritivores.]] After death, the remains of an organism become part of the biogeochemical cycle, during which animals may be consumed by a predator or a scavenger. Organic material may then be further decomposed by detritivores, organisms which recycle detritus, returning it to the environment for reuse in the food chain, where these chemicals may eventually end up being consumed and assimilated into the cells of a living organism. Examples of detritivores include earthworms, woodlice and dung beetles.
 
 Microorganisms also play a vital role, raising the temperature of the decomposing matter as they break it down into yet simpler molecules. Not all materials need to be fully decomposed. Coal, a fossil fuel formed over vast tracts of time in swamp ecosystems, is one example.
 
@@ -182,7 +180,7 @@ Contemporary evolutionary theory sees death as an important part of the process 
 
 Extinction
 
-ExtinctDodoBird.jpeg, the bird that became a byword in the English language for the extinction of a species[69]]]
+, the bird that became a byword in the English language for the extinction of a species[69]]]
 
 Extinction is the cessation of existence of a species or group of taxa, reducing biodiversity. The moment of extinction is generally considered to be the death of the last individual of that species (although the capacity to breed and recover may have been lost before this point). Because a species' potential range may be very large, determining this moment is difficult, and is usually done retrospectively. This difficulty leads to phenomena such as Lazarus taxa, where species presumed extinct abruptly "reappear" (typically in the fossil record) after a period of apparent absence. New species arise through the process of speciation, an aspect of evolution. New varieties of organisms arise and thrive when they are able to find and exploit an ecological niche – and species become extinct when they are no longer able to survive in changing conditions or against superior competition.
 
@@ -209,10 +207,10 @@ Christianity
 
 Judaism
 
-Yahrtzeit_candle.JPG lit in memory of a loved one on the anniversary of the death]] Death is seen in Judaism as tragic and intimidating. Persons who come into contact with corpses are ritually impure. There are a variety of beliefs about the afterlife within Judaism, but none of them contradict the preference of life over death. This is partially because death puts a cessation to the possibility of fulfilling any commandments.[76]
+lit in memory of a loved one on the anniversary of the death]] Death is seen in Judaism as tragic and intimidating. Persons who come into contact with corpses are ritually impure. There are a variety of beliefs about the afterlife within Judaism, but none of them contradict the preference of life over death. This is partially because death puts a cessation to the possibility of fulfilling any commandments.[76]
 
 == Language around death == The word death comes from Old English _dēaþ_, which in turn comes from Proto-Germanic *_dauþuz_ (reconstructed by etymological analysis). This comes from the Proto-Indo-European stem *_dheu-_ meaning the "process, act, condition of dying".[77]
-Leonardo_Skeleton_1511.jpg]] The concept and symptoms of death, and varying degrees of delicacy used in discussion in public forums, have generated numerous scientific, legal, and socially acceptable terms or euphemisms for death. When a person has died, it is also said they have _passed away_, _passed on_, _expired_, or are _gone_, among numerous other socially accepted, religiously specific, slang, and irreverent terms.
+]] The concept and symptoms of death, and varying degrees of delicacy used in discussion in public forums, have generated numerous scientific, legal, and socially acceptable terms or euphemisms for death. When a person has died, it is also said they have _passed away_, _passed on_, _expired_, or are _gone_, among numerous other socially accepted, religiously specific, slang, and irreverent terms.
 
 As a formal reference to a dead person, it has become common practice to use the participle form of "decease", as in _the deceased_; another noun form is _decedent_.
 

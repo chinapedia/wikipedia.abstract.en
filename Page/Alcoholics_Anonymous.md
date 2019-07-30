@@ -1,4 +1,4 @@
-Alcoholics_Anonymous,_Book_Cover,_4th_Edition.jpg AA_-_Medalj.jpg or "chip", given for specified lengths of sobriety, on the back is the Serenity Prayer. Here green is for six months of sobriety; purple is for nine months.]] ALCOHOLICS ANONYMOUS (AA) is an international mutual aid fellowship[1] with the stated purpose of enabling its members to "stay sober and help other alcoholics achieve sobriety."[2][3][4] AA is nonprofessional, self-supporting, and apolitical. Its only membership requirement is a desire to stop drinking.[5][6][7] The AA program of recovery is set forth in the Twelve Steps.[8]
+or "chip", given for specified lengths of sobriety, on the back is the Serenity Prayer. Here green is for six months of sobriety; purple is for nine months.]] ALCOHOLICS ANONYMOUS (AA) is an international mutual aid fellowship[1] with the stated purpose of enabling its members to "stay sober and help other alcoholics achieve sobriety."[2][3][4] AA is nonprofessional, self-supporting, and apolitical. Its only membership requirement is a desire to stop drinking.[5][6][7] The AA program of recovery is set forth in the Twelve Steps.[8]
 
 AA was founded in Akron, Ohio when in 1935 one alcoholic, Bill Wilson, talked to another alcoholic, Bob Smith, about the nature of alcoholism and a possible solution. With the help of other early members, the book _Alcoholics Anonymous: The Story of How More Than One Hundred Men Have Recovered From Alcoholism_ was written in 1939. Its title became the name of the organization and is now usually referred to as "The Big Book".[9] AA's initial Twelve Traditions were introduced in 1946 to help the fellowship be stable and unified while disengaged from "outside issues" and influences.[10]
 
@@ -24,8 +24,6 @@ In 1941, interviews on American radio and favorable articles in US magazines, in
 
 
 Organization and finances
-
-Alcoholics_Anonymous_Regional_Service_Center_by_David_Shankbone.jpg
 
 AA says it is "not organized in the formal or political sense",[28] and Bill Wilson, borrowing the phrase from anarchist theorist Peter Kropotkin, called it a "benign anarchy".[29] In Ireland, Shane Butler said that AA “looks like it couldn’t survive as there’s no leadership or top-level telling local cumanns what to do, but it has worked and proved itself extremely robust.” Butler explained that "AA’s 'inverted pyramid' style of governance has helped it to avoid many of the pitfalls that political and religious institutions have encountered since it was established here in 1946."[30]
 

@@ -151,8 +151,6 @@ In Traditional Hebrew words can end with an H consonant, e.g. when the suffix "-
 
 Vowels
 
-Hebrew_vowel_chart.svg
-
 Modern Hebrew has five vowel phonemes:
 
 +------+-------+---------+------+

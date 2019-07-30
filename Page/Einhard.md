@@ -1,5 +1,3 @@
-Éginhard_Vita_Caroli_magni_imperatoris-Lettrine_V_historiée_Charlemagne_assis.jpg
-
 EINHARD (also EGINHARD or EINHART; ; 775 – March 14, 840 AD) was a Frankish scholar and courtier. Einhard was a dedicated servant of Charlemagne and his son Louis the Pious; his main work is a biography of Charlemagne, the _Vita Karoli Magni_, "one of the most precious literary bequests of the early Middle Ages."[1]
 
 
@@ -12,7 +10,7 @@ He died at Seligenstadt in 840.
 
 Private life
 
-Einhard was married to Emma, of whom little is known. There is a possibility that their marriage bore a son, Vussin. Their marriage also appears to have been exceptionally liberal for the period, with Emma being as active as Einhard, if not more so, in the handling of their property.[3] It is said that in the later years of their marriage Emma and Einhard abstained from sexual relations, choosing instead to focus their attentions on their many religious commitments. Though he was undoubtedly devoted to her, Einhard wrote nothing of his wife until after her death on 13 December 835, when he wrote to a friend that he was reminded of her loss in ‘every day, in every action, in every undertaking, in all the administration of the house and household, in everything needing to be decided upon and sorted out in my religious and earthly responsibilities’.[4] Denkmal_Einhard_Eschweiler.jpg]]
+Einhard was married to Emma, of whom little is known. There is a possibility that their marriage bore a son, Vussin. Their marriage also appears to have been exceptionally liberal for the period, with Emma being as active as Einhard, if not more so, in the handling of their property.[3] It is said that in the later years of their marriage Emma and Einhard abstained from sexual relations, choosing instead to focus their attentions on their many religious commitments. Though he was undoubtedly devoted to her, Einhard wrote nothing of his wife until after her death on 13 December 835, when he wrote to a friend that he was reminded of her loss in ‘every day, in every action, in every undertaking, in all the administration of the house and household, in everything needing to be decided upon and sorted out in my religious and earthly responsibilities’.[4] ]]
 
 
 Religious beliefs

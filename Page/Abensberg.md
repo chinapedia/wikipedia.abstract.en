@@ -1,4 +1,4 @@
-Maderturm_2.jpg ABENSBERG () is a town in the Lower Bavarian district of Kelheim, in Bavaria, Germany, lying around 30 km southwest of Regensburg, 40 km east of Ingolstadt, 50 northwest of Landshut and 100 km north of Munich. It is situated on the Abens river, a tributary of the Danube.
+ABENSBERG () is a town in the Lower Bavarian district of Kelheim, in Bavaria, Germany, lying around 30 km southwest of Regensburg, 40 km east of Ingolstadt, 50 northwest of Landshut and 100 km north of Munich. It is situated on the Abens river, a tributary of the Danube.
 
 
 Geography
@@ -33,8 +33,6 @@ Abensberg then lost its independence and became a part of the Duchy of Bavaria, 
 Johannes Aventinus (1477–1534) is the city's most famous son, the founder of the study of history in Bavaria. Aventinus, whose name was real name is Johann or Johannes Turmair (_Aventinus_ being the Latin name of his birthplace) wrote the _Annals of Bavaria_, a valuable record of the early history of Germany and the first major written work on the subject. He is commemorated in the Walhalla temple, a monument near Regensburg to the distinguished figures of German history. Until 1800, Abensberg was a municipality belonging to the Straubing district of the Electorate of Bavaria. Abensberg also contained a magistrates' court. In the Battle of Abensberg on 19–20 April 1809, Napoleon gained a significant victory over the Austrians under Archduke Ludwig of Austria and General Johann von Hiller.[1]
 
 Arms
-
-Wappen_von_Abensberg.svg
 
 The arms of the city are divided into two halves. On the left are the blue and white rhombuses of Bavaria, while the right half is split into two silver and black triangles. Two diagonally-crossed silver swords with golden handles rest on top.
 

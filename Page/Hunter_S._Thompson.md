@@ -45,8 +45,6 @@ In 1964 the family relocated to Glen Ellen, California, where Thompson continued
 
 _Hell's Angels_
 
-318_Parnassus_Ave_San_Francisco.jpg
-
 In 1965 Carey McWilliams, editor of _The Nation_, hired Thompson to write a story about the Hells Angels motorcycle club in California. The article appeared on May 17, 1965, and after that Thompson received several book offers and spent the next year living and riding with the club. The relationship broke down when the bikers perceived that Thompson was exploiting them for personal gain and demanded a share of the profits from his writings. An argument at a party resulted in Thompson suffering a savage beating (or "stomping", as the Angels referred to it). Random House published the hard-cover _Hell's Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs_ in 1966, and the fight between Thompson and the Angels was well-marketed. CBC Television even broadcast an encounter between Thompson and Hells Angel Skip Workman before a live studio audience.[32]
 
 A reviewer for _The New York Times_ praised the work as an "angry, knowledgeable, fascinating and excitedly written book", that shows the Hells Angels "not so much as dropouts from society but as total misfits, or unfits—emotionally, intellectually and educationally unfit to achieve the rewards, such as they are, that the contemporary social order offers". The reviewer also praised Thompson as a "spirited, witty, observant and original writer; his prose crackles like motorcycle exhaust".[33]
@@ -66,8 +64,6 @@ In early 1968, Thompson signed the "Writers and Editors War Tax Protest" pledge,
 Middle years
 
 Aspen sheriff campaign
-
-Thompson_for_Sheriff_poster.jpg
 
 In 1970, Thompson ran for sheriff of Pitkin County, Colorado, as part of a group of citizens running for local offices on the "Freak Power" ticket. The platform included promoting the decriminalization of drugs (for personal use only, not trafficking, as he disapproved of profiteering), tearing up the streets and turning them into grassy pedestrian malls, banning any building so tall as to obscure the view of the mountains, disarming all police forces, and renaming Aspen "Fat City" to deter investors.[40] Thompson, having shaved his head, referred to the crew cut-wearing Republican candidate as "my long-haired opponent".[41]
 
@@ -109,8 +105,6 @@ Starting in about 1980, Thompson became more reclusive. He would often retreat t
 In 1980 Thompson divorced wife Sandra Conklin. The same year marked the release of _Where the Buffalo Roam_, a loose film adaptation based on Thompson's early 1970s work, starring Bill Murray as the writer. Murray eventually became one of Thompson's trusted friends. Later that year Thompson relocated to Hawaii to research and write, _The Curse of Lono_, a Gonzo-style account of the 1980 Honolulu Marathon. Extensively illustrated by Ralph Steadman, the piece first appeared in _Running_ magazine in 1981 as "The Charge of the Weird Brigade" and was excerpted in 1983 _Playboy_.[51]
 
 In 1983, he covered the U.S. invasion of Grenada but didn't write or discuss the experiences until the publication of _Kingdom of Fear_ in 2003. Later that year, at the behest of Terry McDonell, he wrote "A Dog Took My Place", an exposé for _Rolling Stone_ of the scandalous Roxanne Pulitzer divorce case and what he called the "Palm Beach lifestyle". The story included dubious insinuations of bestiality but was widely considered to be a return by Thompson to his proper form. In 1985 Thompson accepted an advance to write about "couples pornography" for _Playboy_. As part of his research, he spent evenings at the Mitchell Brothers O'Farrell Theatre striptease club in San Francisco. The experience evolved into an as-yet-unpublished novel tentatively entitled _The Night Manager_.
-
-Hst-by-rsexton-longbeach-5-1989-2.jpg
 
 Thompson next accepted a role as weekly media columnist and critic for _The San Francisco Examiner._ The position was arranged by former editor and fellow _Examiner_ columnist Warren Hinckle.[52] His editor at The Examiner, David McCumber described "One week it would be acid-soaked gibberish with a charm of its own. The next week it would be incisive political analysis of the highest order."
 

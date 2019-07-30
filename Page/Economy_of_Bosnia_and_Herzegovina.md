@@ -14,8 +14,6 @@ The United States Embassy in Sarajevo, Bosnia and Herzegovina produces the Count
 
 Brief economic history until the 1990s
 
-Real_GDP_growth_rates_RS_&_FBH.png
-
 At the time of the Socialist Federal Republic of Yugoslavia (SFRY), Bosnia and Herzegovina was an important mineral processing centre and provided the other republics with basic mineral commodities in exchange for current consumption goods. While large amounts of public capital investments poured in during the 1970s, productivity levels remained low, often due to the limited capacity of public managers. [4] Under former republican premier Džemal Bijedić, and Yugoslav president Tito, metal-product industries were promoted in the republic, resulting in the development of a large share of Yugoslavia's metal products plants.
 
 Merging small firms into larger agglomerates was a common practice in the SFRY to preserve employment levels. As a result, four large conglomerates emerged in Bosnia and Herzegovina over time: Energoinvest (energy sector), Unis (automotive and defence industry, which partnered with Volkswagen in the early 1970s), Šipad (wood processing) and RMK Zenica (steel industry, later acquired by ArcelorMittal). Construction and defence were important industries of the Bosnian economy, despite their low efficiency and, ultimately, supply excess. The defence industry was particularly developed in the southern districts and around Mostar, which was also a relevant metallurgical centre (Aluminij Mostar). Machinery production was concentrated in the north, particularly around Banja Luka. The Tuzla district was renowned for its chemical industry. The automotive industry, which developed in the 1950s with the production of vehicle components, extended later on to passenger and commercial vehicles, with plants in Sarajevo, Mostar and Banja Luka. Agriculture was not highly developed, despite its importance for employment and the presence of the large Agrokomerc conglomerate based at the north-west border with Croatia.[5]
@@ -39,7 +37,7 @@ The following table shows the main economic indicators in 1997–2017.[8]
 
 Present
 
-Tree_map_export_2009_Bosnia_and_Herzegovina.jpeg 2006Bosnian_exports.PNG OVERALL VALUE OF FOREIGN DIRECT INVESTMENT (1999–2011):[9]
+OVERALL VALUE OF FOREIGN DIRECT INVESTMENT (1999–2011):[9]
 
 -   1999: €166 million
 -   2000: €159 million
@@ -130,7 +128,7 @@ In the first quarter of 2019, the average price of new apartments sold in Bosnia
 
 Sarajevo
 
-BBI_Shopping_and_Business_Center.jpg shopping and business center, also the headquarters of al-jazeera Balkans]]
+shopping and business center, also the headquarters of al-jazeera Balkans]]
 
 Sarajevo industries now include tobacco products, furniture, hosiery, automobiles, and communication equipment. Companies based in Sarajevo include B&H Airlines, BH Telecom, Bosnalijek, Energopetrol, Sarajevo Tobacco Factory, and Sarajevska Pivara (Sarajevo Brewery).
 
@@ -146,7 +144,7 @@ In 2011 Sarajevo's GDP was estimated to be 16.76 billion US$ by the Central Bank
 
 Mostar
 
-Construction_mercur.jpg Mostar's economy relies heavily on tourism, aluminum and metal industry, banking services and telecommunication sector. The city is the seat of some of the country's largest corporations.
+Mostar's economy relies heavily on tourism, aluminum and metal industry, banking services and telecommunication sector. The city is the seat of some of the country's largest corporations.
 
 Along with Sarajevo, it is the largest financial center in Bosnia-Herzegovina, with two out of three largest banks in the country having their headquarters in Mostar.[41][42] Bosnia-Herzegovina has three national electric, postal and telecommunication service corporations; These three companies banks and the aluminium factory make a vast portion of overall economic activity in the city.
 
@@ -154,7 +152,7 @@ Aluminij is one of the most influential companies in the city, region, but also 
 
 Prijedor
 
-Prijedor_regions_map_2_copy.svg Prijedor is the sixth largest city in Bosnia and Herzegovina. It is an economically prosperous municipality hosting a wide range of industries, services and educational institutions. The city's geographical location close to major European capitals has made it an important industrial and commercial hub nationally. It has a developed financial sector, 11 international banks are represented, 5 microcredit organizations and a foundation for development. The city's huge economic potential is in the strategic geographical location being close to Zagreb, Belgrade, Budapest and Vienna. Giving it one of the best climates for economic expansion in Bosnia-Herzegovina.
+Prijedor is the sixth largest city in Bosnia and Herzegovina. It is an economically prosperous municipality hosting a wide range of industries, services and educational institutions. The city's geographical location close to major European capitals has made it an important industrial and commercial hub nationally. It has a developed financial sector, 11 international banks are represented, 5 microcredit organizations and a foundation for development. The city's huge economic potential is in the strategic geographical location being close to Zagreb, Belgrade, Budapest and Vienna. Giving it one of the best climates for economic expansion in Bosnia-Herzegovina.
 
 The agricultural land around the city, raw minerals in the municipality and growth of high educated population in the city proper gives it a unique combination of both being able to produce sophisticated industrial products, food and service branches.
 
@@ -164,7 +162,7 @@ The Zenica city host today the Bosnian part of ArcelorMittal Steel Company, form
 
 Agricultural sector
 
-SanicaniLake.JPG Among this Prijedor has a fruit growing production, gardening production, crop farming production, mill and bakery industries, stock farming production, processing industries and a milk industry.
+Among this Prijedor has a fruit growing production, gardening production, crop farming production, mill and bakery industries, stock farming production, processing industries and a milk industry.
 
 Lake Saničani, near Prijedor, is one of the biggest commercial fish-farming lakes in the southern Europe.
 
@@ -176,7 +174,7 @@ The service sector in Prijedor is growing rapidly and this reflects in the growt
 
 Banja Luka
 
-TranzitBL.jpg Although the city itself was not directly affected by the Bosnian war in the early 1990s, its economy was. For four years, Banja Luka fell behind the world in key areas such as technology, resulting in a rather stagnant economy. However, in recent years, the financial services sector has gained in importance in the city. In 2002, the trading began on the newly established Banja Luka Stock Exchange. The number of companies listed, the trading volume and the number of investors have increased significantly. A number of big companies such as Telekom Srpske, Rafinerija ulja Modriča, Banjalučka Pivara and Vitaminka are all listed on the exchange and are traded regularly. Investors, apart from those from Slovenia, Croatia and Serbia, now include a number of investment funds from the European Union, Norway, the United States, Japan and China.
+Although the city itself was not directly affected by the Bosnian war in the early 1990s, its economy was. For four years, Banja Luka fell behind the world in key areas such as technology, resulting in a rather stagnant economy. However, in recent years, the financial services sector has gained in importance in the city. In 2002, the trading began on the newly established Banja Luka Stock Exchange. The number of companies listed, the trading volume and the number of investors have increased significantly. A number of big companies such as Telekom Srpske, Rafinerija ulja Modriča, Banjalučka Pivara and Vitaminka are all listed on the exchange and are traded regularly. Investors, apart from those from Slovenia, Croatia and Serbia, now include a number of investment funds from the European Union, Norway, the United States, Japan and China.
 
 A number of financial services regulators, such as the Republika Srpska Securities Commission and the RS Banking Agency are headquartered in Banja Luka. This, along with the fact that some of the major banks in Bosnia, the Deposit Insurance Agency and the Value-added tax (VAT) Authority are all based in the city, has helped Banja Luka establish itself as a major financial centre of the country.
 
@@ -185,7 +183,7 @@ In 1981 Banja Luka's GDP per capita was 97% of the Yugoslav average.[43]
 
 Tourism
 
-Stari_Most_September_2004_4.jpg in Mostar, a UNESCO World Heritage Site]] The tourism sector has been recovering and helping the economy altogether in the process, with popular winter skiing destinations as well as summer countryside tourism. Bosnia and Herzegovina has been a top performer in recent years in terms of tourism development; tourist arrivals have grown by an average of 24% annually from 1995 to 2000. The European region's solid growth in arrivals in 2007 was due in significant part to Southern and Mediterranean Europe's strong performance (+7%). In particular, Bosnia and Herzegovina were among the stronger players with a growth of 20%.[44]
+in Mostar, a UNESCO World Heritage Site]] The tourism sector has been recovering and helping the economy altogether in the process, with popular winter skiing destinations as well as summer countryside tourism. Bosnia and Herzegovina has been a top performer in recent years in terms of tourism development; tourist arrivals have grown by an average of 24% annually from 1995 to 2000. The European region's solid growth in arrivals in 2007 was due in significant part to Southern and Mediterranean Europe's strong performance (+7%). In particular, Bosnia and Herzegovina were among the stronger players with a growth of 20%.[44]
 
 In 2012, Bosnia-Herzegovina had 747.827 tourists an increase of 9% and 1.645.521 overnight stays which is a 9,4% increase from 2012. 58,6% of the tourists came from foreign countries.[45]
 
@@ -211,7 +209,7 @@ Bosnia has been preparing for an era of declining international assistance. Coun
 
 Infrastructure
 
-Autobahn_Visoko.jpg The Bosnian government has issued an international tender for the construction of the 350 km long CORRIDOR 5C in Bosnia and Herzegovina which will passes along the route Budapest-Osijek-Sarajevo-Ploče. The highway along this corridor is the most significant roadway in B&H and the shortest communication route between Central Europe and the Southern Adriatic. The routing of the road passes through the central part of the country in the North-South direction from Donji Svilaj to the border of B&H, north from the Croatian port of Ploče, following the rivers Bosna and Neretva. More than 50% of the total population and the economic activity of Bosnia and Herzegovina lies within the zone of influence along this route.
+The Bosnian government has issued an international tender for the construction of the 350 km long CORRIDOR 5C in Bosnia and Herzegovina which will passes along the route Budapest-Osijek-Sarajevo-Ploče. The highway along this corridor is the most significant roadway in B&H and the shortest communication route between Central Europe and the Southern Adriatic. The routing of the road passes through the central part of the country in the North-South direction from Donji Svilaj to the border of B&H, north from the Croatian port of Ploče, following the rivers Bosna and Neretva. More than 50% of the total population and the economic activity of Bosnia and Herzegovina lies within the zone of influence along this route.
 
 As of August 2018, 200 km motorway has been completed.[51]
 

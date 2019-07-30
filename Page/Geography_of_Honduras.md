@@ -1,4 +1,4 @@
-Un-honduras.png.]]
+.]]
 
 HONDURAS is a country in Central America. Honduras borders the Caribbean Sea and the North Pacific Ocean. Guatemala lies to the west, Nicaragua south east and El Salvador to the south west. Honduras is the second largest Central American republic, with a total area of .
 
@@ -7,7 +7,7 @@ Honduras has a Caribbean coastline extending from the mouth of the Río Motagua 
 
 Topography
 
-Honduras_Topography.png Honduras has three distinct topographical regions: an extensive interior highland area and two narrow coastal lowlands. The interior, which constitutes approximately 80 percent of the country's terrain, is mountainous. The larger Caribbean lowlands in the north and the Pacific lowlands bordering the Gulf of Fonseca are characterized by alluvial plains.
+Honduras has three distinct topographical regions: an extensive interior highland area and two narrow coastal lowlands. The interior, which constitutes approximately 80 percent of the country's terrain, is mountainous. The larger Caribbean lowlands in the north and the Pacific lowlands bordering the Gulf of Fonseca are characterized by alluvial plains.
 
 Interior highlands
 
@@ -19,7 +19,7 @@ In the east, the mountains merge with those in Nicaragua. Although generally not
 
 One of the most prominent features of the interior highlands is a depression that runs from the Caribbean Sea to the Gulf of Fonseca. This depression splits the country's cordilleras into eastern and western parts and provides a relatively easy transportation route across the isthmus. Widest at its northern end near San Pedro Sula, the depression narrows as it follows the upper course of the Río Humuya. Passing first through Comayagua and then through narrow passes south of the city, the depression widens again as it runs along the border of El Salvador into the Gulf of Fonseca.
 
-Honduras_econ_1983.jpg Honduras_land_1983.jpg Scattered throughout the interior highlands are numerous flat-floored valleys, at in elevation, which vary in size. The floors of the large valleys provide sufficient grass, shrubs, and dry woodland to support livestock and, in some cases, commercial agriculture. Subsistence agriculture has been relegated to the slopes of the valleys, with the limitations of small-sized holdings, primitive technology, and low productivity that traditionally accompany hillside cultivation. Villages and towns, including the capital, Tegucigalpa, are tucked in the larger valleys.
+Scattered throughout the interior highlands are numerous flat-floored valleys, at in elevation, which vary in size. The floors of the large valleys provide sufficient grass, shrubs, and dry woodland to support livestock and, in some cases, commercial agriculture. Subsistence agriculture has been relegated to the slopes of the valleys, with the limitations of small-sized holdings, primitive technology, and low productivity that traditionally accompany hillside cultivation. Villages and towns, including the capital, Tegucigalpa, are tucked in the larger valleys.
 
 Vegetation in the interior highlands is varied. Much of the western, southern, and central mountains are open woodland; supporting pine forest interspersed with some oak, scrub, and grassy clearings. The ranges toward the east are primarily continuous areas of dense, broad-leaf evergreen forest. Around the highest peaks, remnants of dense rainforest that formerly covered much of the area are still found.
 
@@ -48,7 +48,7 @@ Farther out in the Caribbean are the Islas Santanillas, formerly known as Swan I
 
 Climate
 
-Honduras_Köppen.svg of Honduras|alt=|left]]
+of Honduras|alt=|left]]
 
 Honduras has a rainy tropical climate.[4]
 
@@ -91,7 +91,7 @@ Honduras contributes only 0.1 percent of global greenhouse gas emissions.[15]
 
 Hydrography
 
-Barra-de-los-rios-ulua_y_chamelecon.jpg as seen from the air. The Ulua is perhaps the most economically important river in Honduras.]] Honduras is a water-rich country. The most important river in Honduras is the Ulúa, which flows to the Caribbean through the economically important Valle de Sula. Numerous other rivers drain the interior highlands and empty north into the Caribbean. These other rivers are important, not as transportation routes, but because of the broad fertile valleys they have produced. The Choluteca River runs south from Tegucigalpa through Choluteca and out at the Gulf of Fonseca.
+as seen from the air. The Ulua is perhaps the most economically important river in Honduras.]] Honduras is a water-rich country. The most important river in Honduras is the Ulúa, which flows to the Caribbean through the economically important Valle de Sula. Numerous other rivers drain the interior highlands and empty north into the Caribbean. These other rivers are important, not as transportation routes, but because of the broad fertile valleys they have produced. The Choluteca River runs south from Tegucigalpa through Choluteca and out at the Gulf of Fonseca.
 
 Rivers also define about half of Honduras's international borders. The Río Goascorán, flowing to the Gulf of Fonseca, and the Río Lempa define part of the border between El Salvador and Honduras. The Coco River marks about half of the border between Nicaragua and Honduras.
 

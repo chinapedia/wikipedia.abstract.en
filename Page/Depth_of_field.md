@@ -1,9 +1,9 @@
-DOF-ShallowDepthofField.jpg illustrating the effect of depth of field on a tilted object.]] For many cameras, DEPTH OF FIELD (DOF) is the distance between the nearest and the furthest objects that are in acceptably sharp focus in an image. The depth of field can be calculated based on focal length, distance to subject, the acceptable circle of confusion size, and aperture. A particular depth of field may be chosen for technical or artistic purposes. Limitations of depth of field can sometimes be overcome with various techniques/equipment.
+illustrating the effect of depth of field on a tilted object.]] For many cameras, DEPTH OF FIELD (DOF) is the distance between the nearest and the furthest objects that are in acceptably sharp focus in an image. The depth of field can be calculated based on focal length, distance to subject, the acceptable circle of confusion size, and aperture. A particular depth of field may be chosen for technical or artistic purposes. Limitations of depth of field can sometimes be overcome with various techniques/equipment.
 
 
 Factors affecting depth of field
 
-Depth_of_field_illustration.svg. Decreasing the aperture size (4) reduces the size of the blur spots for points not in the focused plane, so that the blurring is imperceptible, and all points are within the DOF.]] For Cameras that can only focus on one object distance at a time, Depth of field is the distance between the nearest and the furthest objects that are in acceptably sharp focus. "Acceptably sharp focus" is defined using a property called the _circle of confusion_.
+. Decreasing the aperture size (4) reduces the size of the blur spots for points not in the focused plane, so that the blurring is imperceptible, and all points are within the DOF.]] For Cameras that can only focus on one object distance at a time, Depth of field is the distance between the nearest and the furthest objects that are in acceptably sharp focus. "Acceptably sharp focus" is defined using a property called the _circle of confusion_.
 
 The depth of field can be determined by focal length, distance to subject, the acceptable circle of confusion size, and aperture.[1] The approximate depth of field can be given by:
 
@@ -16,8 +16,6 @@ As distance or the size of the acceptable circle of confusion increases, the dep
 Sensor size affects DOF only in that changing the sensor size on a camera requires changing the focal length to get the same picture. It is the change in focal length that then affects the DOF.[4][5][6]
 
 Effect of lens aperture
-
-Heart-shaped_bokeh.jpg
 
 For a given subject framing and camera position, the DOF is controlled by the lens aperture diameter, which is usually specified as the f-number (the ratio of lens focal length to aperture diameter). Reducing the aperture diameter (increasing the f-number) increases the DOF because only the light travelling at shallower angles passes through the aperture. Because the angles are shallow, the light rays are within the acceptable circle of confusion for a greater distance.[7]
 
@@ -32,8 +30,6 @@ The acceptable circle of confusion depends on how the final image will be used. 
 For 35 mm motion pictures, the image area on the film is roughly 22 mm by 16 mm. The limit of tolerable error was traditionally set at 0.05 mm (0.002 in) diameter, while for 16 mm film, where the size is about half as large, the tolerance is stricter, 0.025 mm (0.001 in).[8] More modern practice for 35 mm productions set the circle of confusion limit at 0.025 mm (0.001 in).[9]
 
 Camera movements
-
-Scheimpflug.jpg
 
 The plane of focus is normally parallel to the image plane. However, moving the lens relative to the sensor can rotate the plane of focus.
 
@@ -73,8 +69,6 @@ Hopkins, Stokseth, and Williams and Becklund have discussed the combined effects
 
 DOF scales
 
-DOF_scale_detail.png TessinaDOF.jpg
-
 Many lenses include scales that indicate the DOF for a given focus distance and f-number; the 35 mm lens in the image is typical. That lens includes distance scales in feet and meters; when a marked distance is set opposite the large white index mark, the focus is set to that distance. The DOF scale below the distance scales includes markings on either side of the index that correspond to f-numbers. When the lens is set to a given f-number, the DOF extends between the distances that align with the f-number markings.
 
 Photographers can use the lens scales to work backwards from the desired depth of field to find the necessary focus distance and aperture. For the 35 mm lens above, if it were desired for the DOF to extend from 1 m to 2 m, focus would be set so that index mark was centered between the marks for those distances, and the aperture would be set to f/11.
@@ -86,8 +80,6 @@ Hyperfocal distance
 
    
    }}
-
-Contessa_hyperfocal.JPG
 
 Some cameras have their hyperfocal distance marked on the focus dial. For example, on the Minox LX focusing dial there is a red dot between 2 m and infinity; when the lens is set at the red dot, that is, focused at the hyperfocal distance, the depth of field stretches from 2 m to infinity.
 

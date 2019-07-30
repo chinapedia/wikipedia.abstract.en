@@ -5,7 +5,7 @@ While the boys were originally created as mischief-makers to provoke Donald's fa
 
 Origins
 
-HDL_debut_1937.jpg]]
+]]
 
 Huey, Dewey, and Louie were the idea of Al Taliaferro, the artist for the _Silly Symphonies_ comic strip, which featured Donald Duck. The Walt Disney Productions Story Dept. on February 5, 1937, sent Taliaferro a memo recognizing him as the source of the idea for the planned short, _Donald's Nephews_. The nephews debuted in Taliaferro's comic strip, which by this time had been renamed _Donald Duck_, on Sunday, October 17, 1937, beating the theatrical release of _Donald's Nephews_ by almost six months. The names were devised by Disney gag man Dana Coty, who took them from Huey Long, Thomas Dewey, and Louis Schmitt, an animator at the Disney Studio in the 1930s and 1940s. Taliaferro's introduction of the nephews emulated the three nephews in the Happy Hooligan comic strip and was also influenced by Mickey Mouse's nephews, Morty and Ferdie Fieldmouse.[2]
 
@@ -21,7 +21,7 @@ The three ducklings are noted for their identical appearances and personalities.
 
 Colors of Huey, Dewey, and Louie's outfits
 
-Return_to_Plain_Awful_-_Huey_Dewey_and_Louie.jpg: Scrooge with Huey, Dewey, and Louie in "Return to Plain Awful" (1989) by Don Rosa]]
+: Scrooge with Huey, Dewey, and Louie in "Return to Plain Awful" (1989) by Don Rosa]]
 
 In early comic books and shorts, the caps of Huey, Dewey, and Louie were colored randomly, depending on the whim of the colorist.
 
@@ -37,7 +37,7 @@ Clarence Nash, Donald's voice actor, gave the voices to the boys in the cartoon 
 
 Phooey Duck
 
-Phooey_Duck1.gif On a few occasions, an artist by error drew four nephews and the error was not noticed but was published. This fourth nephew has been named PHOOEY DUCK by Disney comic editor Bob Foster.[4][5]
+On a few occasions, an artist by error drew four nephews and the error was not noticed but was published. This fourth nephew has been named PHOOEY DUCK by Disney comic editor Bob Foster.[4][5]
 
 One short Egmont-licensed Disney comic (called _Much Ado About Phooey_ in the English-language version) used Phooey as a character and explained Phooey's sporadic appearances as a freak incident of nature. (The Swedish text in the two speech balloons says "It is a fourth nephew! An exact copy of the others! / Yes, it's probably best that I explain".)[6]
 
@@ -108,13 +108,13 @@ Television
 
 _DuckTales_
 
-Huey,_Dewey_and_Louie_in_the_2017_reboot.png They later starred in the 1987 animated television series _DuckTales_, in which they appeared in adventures with their great-uncle, Scrooge McDuck (Donald having enlisted in the U.S. Navy). The boys' personalities in this series were mainly based on their comic book appearances versus the theatrical shorts.
+They later starred in the 1987 animated television series _DuckTales_, in which they appeared in adventures with their great-uncle, Scrooge McDuck (Donald having enlisted in the U.S. Navy). The boys' personalities in this series were mainly based on their comic book appearances versus the theatrical shorts.
 
 A new adaptation of the series once again titled, _DuckTales_ features the three brothers as well, albeit with distinct designs, voices, and personalities like in _Quack Pack_, who move to Scrooge's house with Donald after the boat where they lived is destroyed by accident. In the new installment, the brothers also travel in adventures with Scrooge, now with Donald in tow. The first episode also shows an image of Della, the triplets' mother, who also traveled the world in adventures with Donald and Scrooge. This iteration also changed Dewey's real name to DEWFORD, while making DEUTERONOMY his middle name, and Louie's real name to LLWELLYN, a fact which he seems to be embarrassed by.
 
 _Quack Pack_
 
-QuackPack.jpg''.]] Huey, Dewey, and Louie also starred in the 1990s series _Quack Pack_, in which the three were portrayed as teenagers. In _Quack Pack_, the boys were given distinct personalities, with Huey serving as the group's leader, Dewey as a computer whiz, and Louie as enjoying sports. After _Quack Pack_, the boys were reverted to their original ages in future appearances, including 2000s series _Mickey Mouse Works_, and then re-aged in _House of Mouse_. On _House of Mouse_, they served as the house band in a variety of different styles (most commonly as 'The Quackstreet Boys'). They also feature prominently, in a segment of the computer-animated film, _Mickey's Twice Upon a Christmas_ from 2004.
+''.]] Huey, Dewey, and Louie also starred in the 1990s series _Quack Pack_, in which the three were portrayed as teenagers. In _Quack Pack_, the boys were given distinct personalities, with Huey serving as the group's leader, Dewey as a computer whiz, and Louie as enjoying sports. After _Quack Pack_, the boys were reverted to their original ages in future appearances, including 2000s series _Mickey Mouse Works_, and then re-aged in _House of Mouse_. On _House of Mouse_, they served as the house band in a variety of different styles (most commonly as 'The Quackstreet Boys'). They also feature prominently, in a segment of the computer-animated film, _Mickey's Twice Upon a Christmas_ from 2004.
 
 Video games
 

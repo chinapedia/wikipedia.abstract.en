@@ -5,7 +5,7 @@ Guinea also has considerable potential for growth in the agricultural and fishin
 
 Economic history
 
-What_did_Guinea_export_in_2016.png] Guinea was part of the franc zone countries that included most of the former French Colonies. After Independence, these countries did not become completely economical free. France decided against monetary autonomy hence they could not use a freely convertible currency. The state intervention of the new governments was characterized by stops of quotas on imports and internal price controls. In the time up to c. 1980, the franc-zone countries had on average a lower inflation and a higher economic growth compared to the Anglophone counterparts, who could use their own currencies. But regarding the time after c. 1980 and the economic liberalism, characterized by Structural Adjustments, the franc zone countries could not outperform the rest.[2]
+] Guinea was part of the franc zone countries that included most of the former French Colonies. After Independence, these countries did not become completely economical free. France decided against monetary autonomy hence they could not use a freely convertible currency. The state intervention of the new governments was characterized by stops of quotas on imports and internal price controls. In the time up to c. 1980, the franc-zone countries had on average a lower inflation and a higher economic growth compared to the Anglophone counterparts, who could use their own currencies. But regarding the time after c. 1980 and the economic liberalism, characterized by Structural Adjustments, the franc zone countries could not outperform the rest.[2]
 
 Since 1985, the Guinean Government has adopted policies to return commercial activity to the private sector, promote investment, reduce the role of the state in the economy, and improve the administrative and judicial framework. The government has eliminated restrictions on agricultural enterprise and foreign trade, liquidated many parastatals, increased spending on education, and vastly downsized the civil service. The government also has made major strides in restructuring the public finances.
 
@@ -50,8 +50,6 @@ Economic statistics
 The following table shows the main economic indicators in 1980–2017.[5]
 
 [TABLE]
-
-2006Guinea_exports.PNG
 
 GDP: purchasing power parity - $26.5 billion (2017 est.)
 

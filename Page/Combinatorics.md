@@ -16,7 +16,7 @@ A mathematician who studies combinatorics is called a __.
 
 History
 
-Plain-bob-minor_2.png (with six bells), one of the earliest nontrivial results in graph theory.]]
+(with six bells), one of the earliest nontrivial results in graph theory.]]
 
 Basic combinatorial concepts and enumerative results appeared throughout the ancient world. In the 6th century BCE, ancient Indian physician Sushruta asserts in Sushruta Samhita that 63 combinations can be made out of 6 different tastes, taken one at a time, two at a time, etc., thus computing all 2⁶ − 1 possibilities. Greek historian Plutarch discusses an argument between Chrysippus (3rd century BCE) and Hipparchus (2nd century BCE) of a rather delicate enumerative problem, which was later shown to be related to Schröder–Hipparchus numbers.[7][8] In the _Ostomachion_, Archimedes (3rd century BCE) considers a tiling puzzle.
 
@@ -31,7 +31,7 @@ Approaches and subfields of combinatorics
 
 Enumerative combinatorics
 
-Catalan_4_leaves_binary_tree_example.svgs on three vertices, an example of Catalan numbers.]]
+s on three vertices, an example of Catalan numbers.]]
 
 Enumerative combinatorics is the most classical area of combinatorics and concentrates on counting the number of certain combinatorial objects. Although counting the number of elements in a set is a rather broad mathematical problem, many of the problems that arise in applications have a relatively simple combinatorial description. Fibonacci numbers is the basic example of a problem in enumerative combinatorics. The twelvefold way provides a unified framework for counting permutations, combinations and partitions.
 
@@ -41,13 +41,13 @@ Analytic combinatorics concerns the enumeration of combinatorial structures usin
 
 Partition theory
 
-Partition3D.svg.]]
+.]]
 
 Partition theory studies various enumeration and asymptotic problems related to integer partitions, and is closely related to q-series, special functions and orthogonal polynomials. Originally a part of number theory and analysis, it is now considered a part of combinatorics or an independent field. It incorporates the bijective approach and various tools in analysis and analytic number theory, and has connections with statistical mechanics.
 
 Graph theory
 
-Petersen1_tiny.svg.]]
+.]]
 
 Graphs are basic objects in combinatorics. The questions range from counting (e.g., the number of graphs on _n_ vertices with _k_ edges) to structural (e.g., which graphs contain Hamiltonian cycles) to algebraic questions (e.g., given a graph _G_ and two numbers _x_ and _y_, does the Tutte polynomial _T__(_G_)(_x_,_y_) have a combinatorial interpretation?). Although there are very strong connections between graph theory and combinatorics, these two are sometimes thought of as separate subjects.[15] This is due to the fact that while combinatorial methods apply to many graph theory problems, the two are generally used to seek solutions to different problems.
 
@@ -61,7 +61,7 @@ Finite geometry is the study of geometric systems having only a finite number of
 
 Order theory
 
-Hasse_diagram_of_powerset_of_3.svg of the powerset of {x,y,z} ordered by inclusion.]]
+of the powerset of {x,y,z} ordered by inclusion.]]
 
 Order theory is the study of partially ordered sets, both finite and infinite. Various examples of partial orders appear in algebra, geometry, number theory and throughout combinatorics and graph theory. Notable classes and examples of partial orders include lattices and Boolean algebras.
 
@@ -77,7 +77,7 @@ Ramsey theory is another part of extremal combinatorics. It states that any suff
 
 Probabilistic combinatorics
 
-Self_avoiding_walk.svg in a square grid graph.]]
+in a square grid graph.]]
 
 In probabilistic combinatorics, the questions are of the following type: what is the probability of a certain property for a random discrete object, such as a random graph? For instance, what is the average number of triangles in a random graph? Probabilistic methods are also used to determine the existence of combinatorial objects with certain prescribed properties (for which explicit examples might be difficult to find), simply by observing that the probability of randomly selecting an object with those properties is greater than 0. This approach (often referred to as _the_ probabilistic method) proved highly effective in applications to extremal combinatorics and graph theory. A closely related area is the study of finite Markov chains, especially on combinatorial objects. Here again probabilistic tools are used to estimate the mixing time.
 
@@ -85,25 +85,25 @@ Often associated with Paul Erdős, who did the pioneering work on the subject, p
 
 Algebraic combinatorics
 
-Young_diagram_for_541_partition.svg of a partition (5,4,1).]]
+of a partition (5,4,1).]]
 
 Algebraic combinatorics is an area of mathematics that employs methods of abstract algebra, notably group theory and representation theory, in various combinatorial contexts and, conversely, applies combinatorial techniques to problems in algebra. Algebraic combinatorics is continuously expanding its scope, in both topics and techniques, and can be seen as the area of mathematics where the interaction of combinatorial and algebraic methods is particularly strong and significant.
 
 Combinatorics on words
 
-Morse-Thue_sequence.gif.]]
+.]]
 
 Combinatorics on words deals with formal languages. It arose independently within several branches of mathematics, including number theory, group theory and probability. It has applications to enumerative combinatorics, fractal analysis, theoretical computer science, automata theory and linguistics. While many applications are new, the classical Chomsky–Schützenberger hierarchy of classes of formal grammars is perhaps the best-known result in the field.
 
 Geometric combinatorics
 
-Icosahedron.svg.]]
+.]]
 
 Geometric combinatorics is related to convex and discrete geometry, in particular polyhedral combinatorics. It asks, for example, how many faces of each dimension a convex polytope can have. Metric properties of polytopes play an important role as well, e.g. the Cauchy theorem on the rigidity of convex polytopes. Special polytopes are also considered, such as permutohedra, associahedra and Birkhoff polytopes. We should note that combinatorial geometry is an old fashioned name for discrete geometry.
 
 Topological combinatorics
 
-Collier-de-perles-rouge-vert.svg with two cuts.]]
+with two cuts.]]
 
 Combinatorial analogs of concepts and methods in topology are used to study graph coloring, fair division, partitions, partially ordered sets, decision trees, necklace problems and discrete Morse theory. It should not be confused with combinatorial topology which is an older name for algebraic topology.
 
@@ -120,7 +120,7 @@ Gian-Carlo Rota used the name _continuous combinatorics_[16] to describe geometr
 
 Related fields
 
-Kissing-3d.png are connected to both coding theory and discrete geometry.]]
+are connected to both coding theory and discrete geometry.]]
 
 Combinatorial optimization
 

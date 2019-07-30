@@ -1,6 +1,6 @@
-Altera_StratixIVGX_FPGA.jpg FPGA from Altera]] A FIELD-PROGRAMMABLE GATE ARRAY (FPGA) is an integrated circuit designed to be configured by a customer or a designer after manufacturinghence the term "field-programmable". The FPGA configuration is generally specified using a hardware description language (HDL), similar to that used for an Application-Specific Integrated Circuit (ASIC). Circuit diagrams were previously used to specify the configuration, but this is increasingly rare due to the advent of electronic design automation tools.
+FPGA from Altera]] A FIELD-PROGRAMMABLE GATE ARRAY (FPGA) is an integrated circuit designed to be configured by a customer or a designer after manufacturinghence the term "field-programmable". The FPGA configuration is generally specified using a hardware description language (HDL), similar to that used for an Application-Specific Integrated Circuit (ASIC). Circuit diagrams were previously used to specify the configuration, but this is increasingly rare due to the advent of electronic design automation tools.
 
-Fpga_xilinx_spartan.jpg]]
+]]
 
 FPGAs contain an array of programmable logic blocks, and a hierarchy of "reconfigurable interconnects" that allow the blocks to be "wired together", like many logic gates that can be inter-wired in different configurations. Logic blocks can be configured to perform complex combinational functions, or merely simple logic gates like AND and XOR. In most FPGAs, logic blocks also include memory elements, which may be simple flip-flops or more complete blocks of memory.[1] Many FPGAs can be reprogrammed to implement different logic functions,[2] allowing flexible reconfigurable computing as performed in computer software.
 
@@ -36,7 +36,7 @@ In 2012 the coarse-grained architectural approach was taken a step further by co
 
 Examples of such hybrid technologies can be found in the Xilinx Zynq-7000 All Programmable SoC,[22] which includes a 1.0 GHz dual-core ARM Cortex-A9 MPCore processor embedded within the FPGA's logic fabric[23] or in the Altera Arria V FPGA, which includes an 800 MHz dual-core ARM Cortex-A9 MPCore. The Atmel FPSLIC is another such device, which uses an AVR processor in combination with Atmel's programmable logic architecture. The Microsemi SmartFusion devices incorporate an ARM Cortex-M3 hard processor core (with up to 512 kB of flash and 64 kB of RAM) and analog peripherals such as a multi-channel analog-to-digital converters and digital-to-analog converters to their flash memory-based FPGA fabric.
 
-Xilinx_Zynq-7000_AP_SoC.jpg Zynq-7000 All Programmable System on a Chip.]]
+Zynq-7000 All Programmable System on a Chip.]]
 
 Soft Core
 
@@ -219,7 +219,7 @@ Architecture
 
 Logic blocks
 
-FPGA_cell_example.png, FA – Full adder, DFF – D-type flip-flop)]] The most common FPGA architecture consists of an array of logic blocks,[57] I/O pads, and routing channels.[58] Generally, all the routing channels have the same width (number of wires). Multiple I/O pads may fit into the height of one row or the width of one column in the array.
+, FA – Full adder, DFF – D-type flip-flop)]] The most common FPGA architecture consists of an array of logic blocks,[57] I/O pads, and routing channels.[58] Generally, all the routing channels have the same width (number of wires). Multiple I/O pads may fit into the height of one row or the width of one column in the array.
 
 An application circuit must be mapped into an FPGA with adequate resources. While the number of CLBs/LABs and I/Os required is easily determined from the design, the number of routing tracks needed may vary considerably even among designs with the same amount of logic.[59]
 

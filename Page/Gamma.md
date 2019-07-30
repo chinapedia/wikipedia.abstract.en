@@ -1,4 +1,4 @@
-NAMA_Alphabet_grec.jpg with a lambda-shaped gamma]]
+with a lambda-shaped gamma]]
 
 GAMMA (uppercase , lowercase ; _gámma_) is the third letter of the Greek alphabet. In the system of Greek numerals it has a value of 3. In Ancient Greek, the letter gamma represented a voiced velar stop . In Modern Greek, this letter represents either a voiced velar fricative or a voiced palatal fricative.
 

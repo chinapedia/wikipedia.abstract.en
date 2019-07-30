@@ -67,7 +67,7 @@ Forts in Cholistan
 
 Terra cotta
 
-Derawar_Fort_3_by_gul791.jpg, Cholistan Desert]]
+, Cholistan Desert]]
 
 The Indus Civilization was the earliest centre of ceramics, and thus the pottery of Cholistan has a long history. Local soil is very fine and suitable for making pottery. The fineness of the earth can be observed on the Kacha houses which are actually plastered with mud but look like they have been white washed. The chief Cholistani ceramic articles are their surahies, piyalas, and glasses, remarkable for their lightness and fine finishing.
 

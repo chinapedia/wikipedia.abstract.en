@@ -1,5 +1,3 @@
-Anneau_sigillaire_Alaric_II.jpg
-
 ALARIC II (, "ruler of all";[1] also known as ALARICUS in Latin, August 507) was the King of the Visigoths in 484–507. He succeeded his father Euric as king of the Visigoths in Toulouse on December 28, 484; he was the great-grandson of the more famous Alaric I, who sacked Rome in 410.[2] He established his capital at Aire-sur-l'Adour (_Vicus Julii_) in Aquitaine. His dominions included not only the majority of Hispania (excluding its northwestern corner) but also Gallia Aquitania and the greater part of an as-yet undivided Gallia Narbonensis.
 
 
@@ -7,7 +5,7 @@ Reign
 
 Herwig Wolfram opens his chapter on the eighth Visigothic king, "Alaric's reign gets no full treatment in the sources, and the little they do contain is overshadowed by his death in the Battle of Vouillé and the downfall of the Toulosan kingdom."[3] One example is Isidore of Seville's account of Alaric's reign: consisting of a single paragraph, it is primarily about Alaric's death in that battle.[4]
 
-Alarico_II,_rey_de_los_Visigodos_(Museo_del_Prado).jpg The earliest documented event in Alaric's reign concerned providing refuge to Syagrius, the former ruler of the Domain of Soissons (in what is now northwestern France) who had been defeated by Clovis I, King of the Franks. According to Gregory of Tours' account, Alaric was intimidated by Clovis into surrendering Syagrius to Clovis; Gregory then adds that "the Goths are a timorous race." The Franks then imprisoned Syagrius, and once his control over Syagrius' former kingdom was secure, Clovis had him beheaded.[5] However, Wolfram points out that at the time "Clovis got no farther than the Seine; only after several more years did the Franks succeed in occupying the rest of the Gallo-Roman buffer state north of the Loire." Any threat of war Clovis could make would only be effective if they were neighbors; "it is nowhere written that Syagrius was handed over in 486 or 487."[6]
+The earliest documented event in Alaric's reign concerned providing refuge to Syagrius, the former ruler of the Domain of Soissons (in what is now northwestern France) who had been defeated by Clovis I, King of the Franks. According to Gregory of Tours' account, Alaric was intimidated by Clovis into surrendering Syagrius to Clovis; Gregory then adds that "the Goths are a timorous race." The Franks then imprisoned Syagrius, and once his control over Syagrius' former kingdom was secure, Clovis had him beheaded.[5] However, Wolfram points out that at the time "Clovis got no farther than the Seine; only after several more years did the Franks succeed in occupying the rest of the Gallo-Roman buffer state north of the Loire." Any threat of war Clovis could make would only be effective if they were neighbors; "it is nowhere written that Syagrius was handed over in 486 or 487."[6]
 
 Despite Frankish advances in the years that followed, Alaric was not afraid to take the military initiative when it presented itself. In 490, Alaric assisted his fellow Gothic king, Theodoric the Great, in his conquest of Italy by dispatching an army to raise Odoacer's siege of Pavia, where Theodoric had been trapped.[7] Then when the Franks attacked the Burgundians in the decade after 500, Alaric assisted the ruling house, and according to Wolfram the victorious Burgundian king Gundobad ceded Avignon to Alaric.[8] By 502 Clovis and Alaric met on an island in the Loire near Amboise for face-to-face talks, which led to a peace treaty.
 
@@ -16,7 +14,7 @@ In 506, the Visigoths captured the city of Dertosa in the Ebro valley. There the
 
 Battle of Vouillé and aftermath
 
-Reino_de_los_visigodos-en.svg under Alaric II]]
+under Alaric II]]
 
 After a few years, however, Clovis violated the peace treaty negotiated in 502. Despite the diplomatic intervention of Theodoric, king of the Ostrogoths and father-in-law of Alaric, Clovis led his followers into Visigothic territory. Alaric was forced by his magnates to meet Clovis in the Battle of Vouillé (summer 507) near Poitiers; there the Goths were defeated and Alaric slain, according to Gregory of Tours, by Clovis himself.[10]
 

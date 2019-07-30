@@ -1,4 +1,4 @@
-Dollarnote_siegel_hq.jpg, or the all-seeing eye of God, seen here on the US$1 bill, has been taken by some to be evidence of a conspiracy involving the founders of the United States and the Illuminati.[1]]]
+, or the all-seeing eye of God, seen here on the US$1 bill, has been taken by some to be evidence of a conspiracy involving the founders of the United States and the Illuminati.[1]]]
 
 A CONSPIRACY THEORY is an explanation of an event or situation that invokes a conspiracy by sinister and powerful actors, often political in motivation,[2][3] when other explanations are more probable.[4] The term has a pejorative connotation, implying that the appeal to a conspiracy is based on prejudice or insufficient evidence.[5] Conspiracy theories resist falsification and are reinforced by circular reasoning: both evidence against the conspiracy and an absence of evidence for it, are re-interpreted as evidence of its truth,[6][7] and the conspiracy becomes a matter of faith rather than proof.[8]
 

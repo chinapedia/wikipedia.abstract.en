@@ -5,7 +5,7 @@ DREXEL UNIVERSITY is a private research university with its main campus in Phila
 
 History
 
-Anthony_J._Drexel_by_Moses_Ezekiel_(1844-1917)_-_Drexel_University_-_IMG_7320.JPG by Moses J. Ezekiel, 1904. Moved to the Drexel campus in 1966.]] Drexel_Main_Building_c.1892.jpg Clock_sculpture_-_Drexel_University_-_IMG_7332.JPG, sculpture by Albert-Ernest Carrier-Belleuse. Donated in 1912 to the University. Main building, great court.]]
+by Moses J. Ezekiel, 1904. Moved to the Drexel campus in 1966.]] , sculpture by Albert-Ernest Carrier-Belleuse. Donated in 1912 to the University. Main building, great court.]]
 
 Drexel University was founded in 1891 as the Drexel Institute of Art, Science and Industry, by Philadelphia financier and philanthropist Anthony J. Drexel. The original mission of the institution was to provide educational opportunities in the "practical arts and sciences" for women and men of all backgrounds. The institution became known as the Drexel Institute of Technology in 1936, and in 1970 the Drexel Institute of Technology gained university status, becoming Drexel University.
 
@@ -30,7 +30,7 @@ The College of Media Arts and Design "fosters the study, exploration and managem
 
 Bennett S. LeBow College of Business
 
-The Bennett S. LeBow College of Business history dates to the founding in 1891 of the Drexel Institute, that later became Drexel University, and of its Business Department in 1896. Today LeBow offers thirteen undergraduate majors, eight graduate programs, and two doctoral programs; 22 percent of Drexel University's undergraduate students are enrolled in a LeBow College of Business program. SR2015_Drexel_Campus_162.jpg
+The Bennett S. LeBow College of Business history dates to the founding in 1891 of the Drexel Institute, that later became Drexel University, and of its Business Department in 1896. Today LeBow offers thirteen undergraduate majors, eight graduate programs, and two doctoral programs; 22 percent of Drexel University's undergraduate students are enrolled in a LeBow College of Business program.
 
 The LeBow College of Business has been ranked as the 38th best private business school in the nation.[5] Its online MBA program is ranked 14th in the world by the _Financial Times_; the publication also ranks the undergraduate business program at LeBow as 19th in the United States. The part-time MBA program ranks 1st in academic quality in the 2015 edition of _Business Insider's_ rankings. Undergraduate and graduate entrepreneurship programs are ranked 19th in the country by the _Princeton Review_.[6]
 
@@ -40,7 +40,7 @@ Economics programs at the LeBow College of Business are housed within the School
 
 College of Engineering
 
-Drexel's College of Engineering is one of its oldest and largest academic colleges, and served as the original focus of the career-oriented school upon its founding in 1891. The College of Engineering is home to several notable alumni, including two astronauts; financier Bennett S. LeBow, for whom the university's College of Business is named; and Paul Baran, inventor of the packet-switched network. Today, Drexel University's College of Engineering, which is home to 19 percent of the undergraduate student body,[8] is known for creating the world's first engineering degree in appropriate technology.[9] The college is also one of only 17 U.S. universities to offer a bachelor's degree in architectural engineering, and only one of five private institutions to do so.[10][11] Bossone_Research_Enterprese_Center_-_Drexel_University_-_IMG_7528.JPG']]
+Drexel's College of Engineering is one of its oldest and largest academic colleges, and served as the original focus of the career-oriented school upon its founding in 1891. The College of Engineering is home to several notable alumni, including two astronauts; financier Bennett S. LeBow, for whom the university's College of Business is named; and Paul Baran, inventor of the packet-switched network. Today, Drexel University's College of Engineering, which is home to 19 percent of the undergraduate student body,[8] is known for creating the world's first engineering degree in appropriate technology.[9] The college is also one of only 17 U.S. universities to offer a bachelor's degree in architectural engineering, and only one of five private institutions to do so.[10][11] ']]
 
 The Drexel Engineering Curriculum (tDEC)
 
@@ -74,7 +74,7 @@ Established in 1892, the department now known as the College of Professional Stu
 
 Pennoni Honors College
 
-The Pennoni Honors College, named for Drexel alumnus and trustee Dr. C.R. "Chuck" Pennoni '63, '66, Hon. '92, and his wife Annette, recognizes and promotes excellence among Drexel students. Students admitted to the Honors College live together and take many of the same classes; the college provides these students with access to unique cultural and social activities and a unique guest speaker series. Students are also involved in the university's Honors Student Advisory Committee and have the opportunity to take part in Drexel's "Alternative Spring Break", an international study tour held each spring.[19] Earle_Mack_School_of_Law_-_Drexel_University_-_IMG_7300.JPG]]
+The Pennoni Honors College, named for Drexel alumnus and trustee Dr. C.R. "Chuck" Pennoni '63, '66, Hon. '92, and his wife Annette, recognizes and promotes excellence among Drexel students. Students admitted to the Honors College live together and take many of the same classes; the college provides these students with access to unique cultural and social activities and a unique guest speaker series. Students are also involved in the university's Honors Student Advisory Committee and have the opportunity to take part in Drexel's "Alternative Spring Break", an international study tour held each spring.[19] ]]
 
 Thomas R. Kline School of Law
 
@@ -82,7 +82,7 @@ Upon its founding in 2006, the Thomas R. Kline School of Law, originally known a
 
 School of Education
 
-One of the oldest schools within Drexel University, the modern School of Education dates back to the 1891 founding of the school. Originally, the Department of Education offered teacher training to women as one of its original, career-focused degree programs. Today, the School of Education offers a coeducational approach to teacher training at the elementary and secondary levels for undergraduates. Other undergraduate programs include those focused on the intersection between learning and technology, teacher certification for non-education majors, and a minor in education for students with an interest in instruction. Graduate degrees offered by the School of Education include those in administration and leadership, special education, higher education, mathematics education, international education, and educational creativity and innovation. Doctoral degrees are offered in educational leadership and learning technologies. As of right now, the school of education has 1,136 students total, 42 faculty members, 43 programs offered, and 17 degrees. Drexel_University_School_of_Education.jpg
+One of the oldest schools within Drexel University, the modern School of Education dates back to the 1891 founding of the school. Originally, the Department of Education offered teacher training to women as one of its original, career-focused degree programs. Today, the School of Education offers a coeducational approach to teacher training at the elementary and secondary levels for undergraduates. Other undergraduate programs include those focused on the intersection between learning and technology, teacher certification for non-education majors, and a minor in education for students with an interest in instruction. Graduate degrees offered by the School of Education include those in administration and leadership, special education, higher education, mathematics education, international education, and educational creativity and innovation. Doctoral degrees are offered in educational leadership and learning technologies. As of right now, the school of education has 1,136 students total, 42 faculty members, 43 programs offered, and 17 degrees.
 
 Dornsife School of Public Health
 
@@ -173,7 +173,7 @@ In 2014, _The Princeton Review_ ranked Drexel 20th in its list of worst college 
 
 Campuses
 
-Drexel University's programs are divided across three Philadelphia-area campuses: the University City Campus, the Center City Hahnemann Campus including Hahnemann University Hospital, and the Queen Lane College of Medicine Campus. QueenLaneCampus.jpg
+Drexel University's programs are divided across three Philadelphia-area campuses: the University City Campus, the Center City Hahnemann Campus including Hahnemann University Hospital, and the Queen Lane College of Medicine Campus.
 
 University City Main Campus
 
@@ -189,7 +189,7 @@ The Center City Hahnemann Campus is in the middle of Philadelphia, straddling th
 
 The Academy of Natural Sciences
 
-T-rex_exhibit_Philadelphia.jpg'' fossil on display with other dinosaur specimens at The Academy of Natural Sciences.]] In 2011, The Academy of Natural Sciences entered into an agreement to become a subsidiary of Drexel University. Founded in 1812, the Academy of Natural Sciences is America's oldest natural history museum and is a world leader in biodiversity and environmental research.
+'' fossil on display with other dinosaur specimens at The Academy of Natural Sciences.]] In 2011, The Academy of Natural Sciences entered into an agreement to become a subsidiary of Drexel University. Founded in 1812, the Academy of Natural Sciences is America's oldest natural history museum and is a world leader in biodiversity and environmental research.
 
 Drexel University Sacramento
 
@@ -197,8 +197,6 @@ On January 5, 2009, Drexel University opened the Center for Graduate Studies in 
 
 
 Student life
-
-Buckley_Volleyball_Courts_at_Drexel_University.JPG
 
 Student government
 
@@ -230,7 +228,7 @@ The Drexel Publishing Group serves as a medium for literary publishing on campus
 
 Housing
 
-North_Hall.JPG]]
+]]
 
 Drexel requires all non-commuting first- and second-year students to live in one of its ten residence halls or in "university approved housing".[62] First year students must live in one of the residence halls designated specifically for first-years. These residence halls include Millennium, Calhoun, Kelly, Myers, Towers, Van Rensselaer and Race Halls. Kelly, Myers, Towers, and Calhoun Halls are traditional residence halls (a bedroom shared with one or more roommate(s) and one bathroom per floor), while Race and Van Rensselaer Halls are suite-style residence halls (shared bedrooms, private bathrooms, kitchens, and common area within the suite). Millennium Hall, Drexel's newest residence hall, is a modified suite (a bedroom shared with one roommate, and bathrooms and showers that look like closets with open sinks in the hallway).
 
@@ -336,7 +334,7 @@ Sororities
 
 Athletics
 
-Mario_the_Magnificent.jpg]] Drexel_Dragons_wordmark.svg wordmark]] Drexel's school mascot is a dragon known, as "Mario the Magnificent", named in honor of alumnus and Board of Trustees member Mario V. Mascioli.[67] The Dragon has been the mascot of the school since around the mid-1920s; the first written reference to the Dragons occurred in 1928, when the football team was called "The Dragons in The Triangle". Before becoming known as the Dragons, the athletic teams had been known by such names as the Blue & Gold, the Engineers, and the Drexelites.[68] The school's sports teams, now known as the Drexel Dragons, participate in the NCAA's Division I as a member of the Colonial Athletic Association.[69] They do not currently field a varsity football team.[70]
+]] wordmark]] Drexel's school mascot is a dragon known, as "Mario the Magnificent", named in honor of alumnus and Board of Trustees member Mario V. Mascioli.[67] The Dragon has been the mascot of the school since around the mid-1920s; the first written reference to the Dragons occurred in 1928, when the football team was called "The Dragons in The Triangle". Before becoming known as the Dragons, the athletic teams had been known by such names as the Blue & Gold, the Engineers, and the Drexelites.[68] The school's sports teams, now known as the Drexel Dragons, participate in the NCAA's Division I as a member of the Colonial Athletic Association.[69] They do not currently field a varsity football team.[70]
 
 In addition to its NCAA Division I teams, Drexel University is home to 33 active club teams including lacrosse, water polo, squash, triathlon, and cycling. Other club teams include soccer, baseball, rugby, field hockey, and roller hockey. The club teams operate under the direction of the Club Sports Council and the Recreational Sports Office.
 
@@ -356,7 +354,7 @@ During the fall of 2014, a chemical leak was detected at Millennium Hall, one of
 
 In popular culture
 
-US_Open_Squash_Championship_2011_Drexel_University.jpg|281x281px]] Drexel has appeared in news and television media several times. In 2006 Drexel served as the location for ABC Family's reality show "Back on Campus".[77] Also in 2006, the Epsilon Zeta chapter of Delta Zeta won ABC Daytime's Summer of Fun contest. As a result, the sorority was featured in national television spots for a week and hosted an ABC party on campus, which was attended by cast members from _General Hospital_ and _All My Children_.[78]
+|281x281px]] Drexel has appeared in news and television media several times. In 2006 Drexel served as the location for ABC Family's reality show "Back on Campus".[77] Also in 2006, the Epsilon Zeta chapter of Delta Zeta won ABC Daytime's Summer of Fun contest. As a result, the sorority was featured in national television spots for a week and hosted an ABC party on campus, which was attended by cast members from _General Hospital_ and _All My Children_.[78]
 
 John Langdon, adjunct professor in the Antoinette Westphal College of Media Arts & Design, created the ambigram featured on the cover of Dan Brown's Angels & Demons; a number of other ambigrams served as the central focus of the book and its corresponding film. It is believed Prof. Langdon was the inspiration for the name of the lead character, played by Tom Hanks in the film adaptation.[79]
 

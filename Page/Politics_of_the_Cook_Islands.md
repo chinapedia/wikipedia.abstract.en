@@ -25,7 +25,7 @@ The New Zealand High Commissioner is appointed by the New Zealand Government.
 
 Legislature
 
-Parliament_of_the_Cook_Islands_-_2006.JPG The Parliament of the Cook Islands has 24 members, elected for a five-year term in single-seat constituencies. There is also a House of Ariki, composed of chiefs, which has a purely advisory role. The Koutu Nui is a similar organization consisting of sub-chiefs. It was established by an amendment in 1972 of the 1966 House of Ariki Act. The current president is Te Tika Mataiapo Dorice Reid.
+The Parliament of the Cook Islands has 24 members, elected for a five-year term in single-seat constituencies. There is also a House of Ariki, composed of chiefs, which has a purely advisory role. The Koutu Nui is a similar organization consisting of sub-chiefs. It was established by an amendment in 1972 of the 1966 House of Ariki Act. The current president is Te Tika Mataiapo Dorice Reid.
 
 On June 13, 2008, a small majority of members of the House of Ariki attempted a coup, claiming to dissolve the elected government and to take control of the country's leadership. "Basically we are dissolving the leadership, the prime minister and the deputy prime minister and the ministers," chief Makea Vakatini Joseph Ariki explained. The _Cook Islands Herald_ suggested that the _ariki_ were attempting thereby to regain some of their traditional prestige or _mana_.[1][2] Prime Minister Jim Marurai described the take-over move as "ill-founded and nonsensical".[3] By June 23, the situation appeared to have normalised, with members of the House of Ariki accepting to return to their regular duties.[4]
 

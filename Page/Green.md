@@ -7,8 +7,6 @@ In surveys made in American, European, and Islamic countries, green is the color
 
 Etymology and linguistic definitions
 
-Leavessnipedale.jpg
-
 The word _green_ comes from the Middle English and Old English word _grene_, which, like the German word _grün_, has the same root as the words _grass_ and _grow_.[1] It is from a Common Germanic _*gronja-_, which is also reflected in Old Norse _grænn_, Old High German _gruoni_ (but unattested in East Germanic), ultimately from a PIE root _*_ "to grow", and root-cognate with _grass_ and _to grow_.[2] The first recorded use of the word as a color term in Old English dates to ca. AD 700.[3]
 
 Latin with _viridis_ also has a genuine and widely used term for "green". Related to _virere_ "to grow" and _ver_ "spring", it gave rise to words in several Romance languages, French _vert_, Italian _verde_ (and English _vert_, _verdure_ etc.).[4] Likewise the Slavic languages with _zelenъ_. Ancient Greek also had a term for yellowish, pale green – χλωρός, _chloros_ (cf. the color of chlorine), cognate with χλοερός "verdant" and χλόη "chloe, the green of new growth".
@@ -32,8 +30,7 @@ In science
 
 Color vision and colorimetry
 
-  Linear_visible_spectrum.svg
-  -----------------------------
+  --------
   Color
   VIOLET
   BLUE
@@ -42,7 +39,7 @@ Color vision and colorimetry
   ORANGE
   RED
 
-RGB_illumination.jpg. All the colors seen are made by mixing them in different intensities.]]
+. All the colors seen are made by mixing them in different intensities.]]
 
 In optics, the perception of green is evoked by light having a spectrum dominated by energy with a wavelength of roughly 495570nm. The sensitivity of the dark-adapted human eye is greatest at about 507nm, a blue-green color, while the light-adapted eye is most sensitive about 555nm, a yellow-green; these are the peak locations of the rod and cone (scotopic and photopic, respectively) luminosity functions.[13]
 
@@ -62,7 +59,7 @@ As of mid-2011, direct green laser diodes at 510nm and 500nm have become general
 
 Pigments, food coloring and fireworks
 
-Chicago_River_dyed_green,_focus_on_river.jpg is dyed green every year to mark St. Patrick's Day]] Many minerals provide pigments which have been used in green paints and dyes over the centuries. Pigments, in this case, are minerals which reflect the color green, rather that emitting it through luminescent or phosphorescent qualities. The large number of green pigments makes it impossible to mention them all. Among the more notable green minerals, however is the emerald, which is colored green by trace amounts of chromium and sometimes vanadium.[23] Chromium(III) oxide (Cr₂O₃), is called chrome green, also called viridian or institutional green when used as a pigment.[24] For many years, the source of amazonite's color was a mystery. Widely thought to have been due to copper because copper compounds often have blue and green colors, the blue-green color is likely to be derived from small quantities of lead and water in the feldspar.[25] Copper is the source of the green color in malachite pigments, chemically known as basic copper(II) carbonate.[26]
+is dyed green every year to mark St. Patrick's Day]] Many minerals provide pigments which have been used in green paints and dyes over the centuries. Pigments, in this case, are minerals which reflect the color green, rather that emitting it through luminescent or phosphorescent qualities. The large number of green pigments makes it impossible to mention them all. Among the more notable green minerals, however is the emerald, which is colored green by trace amounts of chromium and sometimes vanadium.[23] Chromium(III) oxide (Cr₂O₃), is called chrome green, also called viridian or institutional green when used as a pigment.[24] For many years, the source of amazonite's color was a mystery. Widely thought to have been due to copper because copper compounds often have blue and green colors, the blue-green color is likely to be derived from small quantities of lead and water in the feldspar.[25] Copper is the source of the green color in malachite pigments, chemically known as basic copper(II) carbonate.[26]
 
 Verdigris is made by placing a plate or blade of copper, brass or bronze, slightly warmed, into a vat of fermenting wine, leaving it there for several weeks, and then scraping off and drying the green powder that forms on the metal. The process of making verdigris was described in ancient times by Pliny. It was used by the Romans in the murals of Pompeii, and in Celtic medieval manuscripts as early as the 5th century AD. It produced a blue-green which no other pigment could imitate, but it had drawbacks: it was unstable, it could not resist dampness, it did not mix well with other colors, it could ruin other colors with which it came into contact, and it was toxic. Leonardo da Vinci, in his treatise on painting, warned artists not to use it. It was widely used in miniature paintings in Europe and Persia in the 16th and 17th centuries. Its use largely ended in the late 19th century, when it was replaced by the safer and more stable chrome green. Viridian, as described above, was patented in 1859. It became popular with painters, since, unlike other synthetic greens, it was stable and not toxic. Vincent van Gogh used it, along with Prussian blue, to create a dark blue sky with a greenish tint in his painting _Café Terrace at Night_.[27]
 
@@ -72,7 +69,7 @@ Mixtures of oxidized cobalt and zinc were also used to create green paints as ea
 
 Cobalt green, sometimes known as Rinman's green or zinc green, is a translucent green pigment made by heating a mixture of cobalt (II) oxide and zinc oxide. Sven Rinman, a Swedish chemist, discovered this compound in 1780.[29] Green chrome oxide was a new synthetic green created by a chemist named Pannetier in Paris in about 1835. Emerald green was a synthetic deep green made in the 19th century by hydrating chrome oxide. It was also known as Guignet green.[30]
 
-Fireworks_2.JPG typically use barium salts to create green sparks]] There is no natural source for green food colorings which has been approved by the US Food and Drug Administration. Chlorophyll, the E numbers E140 and E141, is the most common green chemical found in nature, and only allowed in certain medicines and cosmetic materials.[31] Quinoline Yellow (E104) is a commonly used coloring in the United Kingdom but is banned in Australia, Japan, Norway and the United States.[32] Green S (E142) is prohibited in many countries, for it is known to cause hyperactivity, asthma, urticaria, and insomnia.[33]
+typically use barium salts to create green sparks]] There is no natural source for green food colorings which has been approved by the US Food and Drug Administration. Chlorophyll, the E numbers E140 and E141, is the most common green chemical found in nature, and only allowed in certain medicines and cosmetic materials.[31] Quinoline Yellow (E104) is a commonly used coloring in the United Kingdom but is banned in Australia, Japan, Norway and the United States.[32] Green S (E142) is prohibited in many countries, for it is known to cause hyperactivity, asthma, urticaria, and insomnia.[33]
 
 To create green sparks, fireworks use barium salts, such as barium chlorate, barium nitrate crystals, or barium chloride, also used for green fireplace logs.[34] Copper salts typically burn blue, but cupric chloride (also known as "campfire blue") can also produce green flames.[35] Green pyrotechnic flares can use a mix ratio 75:25 of boron and potassium nitrate.[36] Smoke can be turned green by a mixture: solvent yellow 33, solvent green 3, lactose, magnesium carbonate plus sodium carbonate added to potassium chlorate.[37]
 
@@ -82,13 +79,11 @@ File:Plagiomnium affine laminazellen.jpeg|The chloroplasts of plant cells contai
 
 Green is common in nature, as many plants are green because of a complex chemical known as chlorophyll, which is involved in photosynthesis. Chlorophyll absorbs the long wavelengths of light (red) and short wavelengths of light (blue) much more efficiently than the wavelengths that appear green to the human eye, so light reflected by plants is enriched in green.[38] Chlorophyll absorbs green light poorly because it first arose in organisms living in oceans where purple halobacteria were already exploiting photosynthesis. Their purple color arose because they extracted energy in the green portion of the spectrum using bacteriorhodopsin. The new organisms that then later came to dominate the extraction of light were selected to exploit those portions of the spectrum not used by the halobacteria.[39]
 
-Mamba_Dendroaspis_angusticeps.jpg]] Animals typically use the color green as camouflage, blending in with the chlorophyll green of the surrounding environment.[40] Most fish, reptiles, amphibians, and birds appear green because of a reflection of blue light coming through an over-layer of yellow pigment. Perception of color can also be affected by the surrounding environment. For example, broadleaf forests typically have a yellow-green light about them as the trees filter the light. Turacoverdin is one chemical which can cause a green hue in birds, especially.[41] Invertebrates such as insects or mollusks often display green colors because of porphyrin pigments, sometimes caused by diet. This can causes their feces to look green as well. Other chemicals which generally contribute to greenness among organisms are flavins (lychochromes) and hemanovadin.[42] Humans have imitated this by wearing green clothing as a camouflage in military and other fields. Substances that may impart a greenish hue to one's skin include biliverdin, the green pigment in bile, and ceruloplasmin, a protein that carries copper ions in chelation.
+]] Animals typically use the color green as camouflage, blending in with the chlorophyll green of the surrounding environment.[40] Most fish, reptiles, amphibians, and birds appear green because of a reflection of blue light coming through an over-layer of yellow pigment. Perception of color can also be affected by the surrounding environment. For example, broadleaf forests typically have a yellow-green light about them as the trees filter the light. Turacoverdin is one chemical which can cause a green hue in birds, especially.[41] Invertebrates such as insects or mollusks often display green colors because of porphyrin pigments, sometimes caused by diet. This can causes their feces to look green as well. Other chemicals which generally contribute to greenness among organisms are flavins (lychochromes) and hemanovadin.[42] Humans have imitated this by wearing green clothing as a camouflage in military and other fields. Substances that may impart a greenish hue to one's skin include biliverdin, the green pigment in bile, and ceruloplasmin, a protein that carries copper ions in chelation.
 
 The green huntsman spider is green due to the presence of bilin pigments in the spider's hemolymph (circulatory system fluids) and tissue fluids.[43] It hunts insects in green vegetation, where it is well camouflaged.
 
 Green eyes
-
-Greeneyes.jpg
 
 There is no green pigment in green eyes; like the color of blue eyes, it is an optical illusion; its appearance is caused by the combination of an amber or light brown pigmentation of the stroma, given by a low or moderate concentration of melanin, with the blue tone imparted by the Rayleigh scattering of the reflected light.[44] Green eyes are most common in Northern and Central Europe.[45][46] They can also be found in Southern Europe,[47] West Asia, Central Asia, and South Asia. In Iceland, 89% of women and 87% of men have either blue or green eye color.[48] A study of Icelandic and Dutch adults found green eyes to be much more prevalent in women than in men.[49] Among European Americans, green eyes are most common among those of recent Celtic and Germanic ancestry, about 16%.
 
@@ -145,8 +140,6 @@ In the 1980s green became a political symbol, the color of the Green Party in Ge
 Symbolism and associations
 
 Safety and permission
-
-Feuvert2.jpg
 
 Green can communicate safety to proceed, as in traffic lights.[57] Green and red were standardized as the colors of international railroad signals in the 19th century. The first traffic light, using green and red gas lamps, was erected in 1868 in front of the Houses of Parliament in London. It exploded the following year, injuring the policeman who operated it. In 1912, the first modern electric traffic lights were put up in Salt Lake City, Utah. Red was chosen largely because of its high visibility, and its association with danger, while green was chosen largely because it could not be mistaken for red. Today green lights universally signal that a system is turned on and working as it should. In many video games, green signifies both health and completed objectives, opposite red.
 

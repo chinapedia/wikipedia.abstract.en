@@ -27,7 +27,7 @@ The empire never achieved the extent of political unification as was formed to t
 
 Name
 
-Quaterionenadler_David_de_Negker.jpg In various languages the Holy Roman Empire was known as: , , Spanish: Sacro Imperio Romano Germánico, , , , , , .[19] Before 1157, the realm was merely referred to as the _Roman Empire_.[20] The term _sacrum_ ("holy", in the sense of "consecrated") in connection with the medieval Roman Empire was used beginning in 1157 under Frederick I Barbarossa ("Holy Empire"): the term was added to reflect Frederick's ambition to dominate Italy and the Papacy.[21] The form "Holy Roman Empire" is attested from 1254 onward.[22]
+In various languages the Holy Roman Empire was known as: , , Spanish: Sacro Imperio Romano Germánico, , , , , , .[19] Before 1157, the realm was merely referred to as the _Roman Empire_.[20] The term _sacrum_ ("holy", in the sense of "consecrated") in connection with the medieval Roman Empire was used beginning in 1157 under Frederick I Barbarossa ("Holy Empire"): the term was added to reflect Frederick's ambition to dominate Italy and the Papacy.[21] The form "Holy Roman Empire" is attested from 1254 onward.[22]
 
 In a decree following the 1512 Diet of Cologne, the name was changed to the _Holy Roman Empire of the German Nation_ (, ),[23][24] a form first used in a document in 1474.[25] The new title was adopted partly because the Empire had lost most of its Italian and Burgundian (Kingdom of Arles) territories to the south and west by the late 15th century,[26] but also to emphasize the new importance of the German Imperial Estates in ruling the Empire due to the Imperial Reform.[27] By the end of the 18th century, the term "Holy Roman Empire of the German Nation" had fallen out of official use. Contradicting the traditional view concerning that designation, Hermann Weisert has argued in a study on imperial titulature that, despite the claims of many textbooks, the name _"Holy Roman Empire of the German Nation"_ never had an official status and points out that documents were thirty times as likely to omit the national suffix as include it.[28]
 
@@ -54,15 +54,11 @@ Around 900, autonomous stem duchies (Franconia, Bavaria, Swabia, Saxony, and Lot
 
 Henry died in 936, but his descendants, the Liudolfing (or Ottonian) dynasty, would continue to rule the Eastern kingdom for roughly a century. Upon Henry the Fowler's death, Otto, his son and designated successor,[45] was elected King in Aachen in 936.[46] He overcame a series of revolts from a younger brother and from several dukes. After that, the king managed to control the appointment of dukes and often also employed bishops in administrative affairs.[47]
 
-HRR.gif
-
 In 951, Otto came to the aid of Adelaide, the widowed queen of Italy, defeating her enemies, marrying her, and taking control over Italy.[48] In 955, Otto won a decisive victory over the Magyars in the Battle of Lechfeld.[49] In 962, Otto was crowned Emperor by Pope John XII,[50] thus intertwining the affairs of the German kingdom with those of Italy and the Papacy. Otto's coronation as Emperor marked the German kings as successors to the Empire of Charlemagne, which through the concept of _translatio imperii_, also made them consider themselves as successors to Ancient Rome.
 
-The kingdom had no permanent capital city.[51] Kings traveled between residences (called Kaiserpfalz) to discharge affairs. However, each king preferred certain places; in Otto's case, this was the city of Magdeburg. Kingship continued to be transferred by election, but Kings often ensured their own sons were elected during their lifetimes, enabling them to keep the crown for their families. This only changed after the end of the Salian dynasty in the 12th century. Heiliges_Römisches_Reich_1000.jpg]] In 963, Otto deposed the current Pope John XII and chose Pope Leo VIII as the new pope (although John XII and Leo VIII both claimed the papacy until 964 when John XII died). This also renewed the conflict with the Eastern Emperor in Constantinople, especially after Otto's son Otto II (r. 967–83) adopted the designation _imperator Romanorum_. Still, Otto II formed marital ties with the east when he married the Byzantine princess Theophanu.[52] Their son, Otto III, came to the throne only three years old, and was subjected to a power struggle and series of regencies until his age of majority in 994. Up to that time, he had remained in Germany, while a deposed Duke, Crescentius II, ruled over Rome and part of Italy, ostensibly in his stead.
+The kingdom had no permanent capital city.[51] Kings traveled between residences (called Kaiserpfalz) to discharge affairs. However, each king preferred certain places; in Otto's case, this was the city of Magdeburg. Kingship continued to be transferred by election, but Kings often ensured their own sons were elected during their lifetimes, enabling them to keep the crown for their families. This only changed after the end of the Salian dynasty in the 12th century. ]] In 963, Otto deposed the current Pope John XII and chose Pope Leo VIII as the new pope (although John XII and Leo VIII both claimed the papacy until 964 when John XII died). This also renewed the conflict with the Eastern Emperor in Constantinople, especially after Otto's son Otto II (r. 967–83) adopted the designation _imperator Romanorum_. Still, Otto II formed marital ties with the east when he married the Byzantine princess Theophanu.[52] Their son, Otto III, came to the throne only three years old, and was subjected to a power struggle and series of regencies until his age of majority in 994. Up to that time, he had remained in Germany, while a deposed Duke, Crescentius II, ruled over Rome and part of Italy, ostensibly in his stead.
 
 In 996 Otto III appointed his cousin Gregory V the first German Pope.[53] A foreign pope and foreign papal officers were seen with suspicion by Roman nobles, who were led by Crescentius II to revolt. Otto III's former mentor Antipope John XVI briefly held Rome, until the Holy Roman Emperor seized the city.[54]
-
-Holy_Roman_Empire_11th_century_map-en.svg
 
 Otto died young in 1002, and was succeeded by his cousin Henry II, who focused on Germany.[55]
 
@@ -83,7 +79,7 @@ Kings often employed bishops in administrative affairs and often determined who 
 
 Holy Roman Empire under Hohenstaufen dynasty
 
-Mitteleuropa_zur_Zeit_der_Staufer.svg. Imperial and directly held Hohenstaufen lands in the Empire are shown in bright yellow.]] When the Salian dynasty ended with Henry V's death in 1125, the princes chose not to elect the next of kin, but rather Lothair, the moderately powerful but already old Duke of Saxony. When he died in 1137, the princes again aimed to check royal power; accordingly they did not elect Lothair's favoured heir, his son-in-law Henry the Proud of the Welf family, but Conrad III of the Hohenstaufen family, the grandson of Emperor Henry IV and thus a nephew of Emperor Henry V. This led to over a century of strife between the two houses. Conrad ousted the Welfs from their possessions, but after his death in 1152, his nephew Frederick I "Barbarossa" succeeded him and made peace with the Welfs, restoring his cousin Henry the Lion to his – albeit diminished – possessions.
+. Imperial and directly held Hohenstaufen lands in the Empire are shown in bright yellow.]] When the Salian dynasty ended with Henry V's death in 1125, the princes chose not to elect the next of kin, but rather Lothair, the moderately powerful but already old Duke of Saxony. When he died in 1137, the princes again aimed to check royal power; accordingly they did not elect Lothair's favoured heir, his son-in-law Henry the Proud of the Welf family, but Conrad III of the Hohenstaufen family, the grandson of Emperor Henry IV and thus a nephew of Emperor Henry V. This led to over a century of strife between the two houses. Conrad ousted the Welfs from their possessions, but after his death in 1152, his nephew Frederick I "Barbarossa" succeeded him and made peace with the Welfs, restoring his cousin Henry the Lion to his – albeit diminished – possessions.
 
 The Hohenstaufen rulers increasingly lent land to _ministerialia_, formerly non-free servicemen, who Frederick hoped would be more reliable than dukes. Initially used mainly for war services, this new class of people would form the basis for the later knights, another basis of imperial power. A further important constitutional move at Roncaglia was the establishment of a new peace mechanism for the entire empire, the Landfrieden, with the first imperial one being issued in 1103 under Henry IV at Mainz.[64][65] This was an attempt to abolish private feuds, between the many dukes and other people, and to tie the Emperor's subordinates to a legal system of jurisdiction and public prosecution of criminal acts – a predecessor of the modern concept of "rule of law". Another new concept of the time was the systematic foundation of new cities by the Emperor and by the local dukes. These were partly caused by the explosion in population, and they also concentrated economic power at strategic locations. Before this, cities had only existed in the form of old Roman foundations or older bishoprics. Cities that were founded in the 12th century include Freiburg, possibly the economic model for many later cities, and Munich.
 
@@ -95,7 +91,7 @@ During the Hohenstaufen period, German princes facilitated a successful, peacefu
 
 Under the son and successor of Frederick Barbarossa, Henry VI, the Hohenstaufen dynasty reached its apex. Henry added the Norman kingdom of Sicily to his domains, held English king Richard the Lionheart captive, and aimed to establish a hereditary monarchy when he died in 1197. As his son, Frederick II, though already elected king, was still a small child and living in Sicily, German princes chose to elect an adult king, resulting in the dual election of Frederick Barbarossa's youngest son Philip of Swabia and Henry the Lion's son Otto of Brunswick, who competed for the crown. Otto prevailed for a while after Philip was murdered in a private squabble in 1208 until he began to also claim Sicily.
 
-War_flag_of_the_Holy_Roman_Empire_(1200-1350).svg'', a military banner during the 13th and early 14th centuries.]]
+'', a military banner during the 13th and early 14th centuries.]]
 
 Pope Innocent III, who feared the threat posed by a union of the empire and Sicily, now supported by Frederick II, who marched to Germany and defeated Otto. After his victory, Frederick did not act upon his promise to keep the two realms separate. Though he had made his son Henry king of Sicily before marching on Germany, he still reserved real political power for himself. This continued after Frederick was crowned Emperor in 1220. Fearing Frederick's concentration of power, the Pope finally excommunicated the Emperor. Another point of contention was the crusade, which Frederick had promised but repeatedly postponed. Now, although excommunicated, Frederick led the Sixth Crusade in 1228, which ended in negotiations and a temporary restoration of the Kingdom of Jerusalem.
 
@@ -103,7 +99,7 @@ Despite his imperial claims, Frederick's rule was a major turning point towards 
 
 Kingdom of Bohemia
 
-Karte_Böhmische_Krone.png since the reign of Holy Roman Emperor Charles IV]] The Kingdom of Bohemia was a significant regional power during the Middle Ages. In 1212, King Ottokar I (bearing the title "king" since 1198) extracted a Golden Bull of Sicily (a formal edict) from the emperor Frederick II, confirming the royal title for Ottokar and his descendants and the Duchy of Bohemia was raised to a kingdom. Bohemian kings would be exempt from all future obligations to the Holy Roman Empire except for participation in the imperial councils. Charles IV set Prague to be the seat of the Holy Roman Emperor.
+since the reign of Holy Roman Emperor Charles IV]] The Kingdom of Bohemia was a significant regional power during the Middle Ages. In 1212, King Ottokar I (bearing the title "king" since 1198) extracted a Golden Bull of Sicily (a formal edict) from the emperor Frederick II, confirming the royal title for Ottokar and his descendants and the Duchy of Bohemia was raised to a kingdom. Bohemian kings would be exempt from all future obligations to the Holy Roman Empire except for participation in the imperial councils. Charles IV set Prague to be the seat of the Holy Roman Emperor.
 
 Interregnum
 
@@ -111,7 +107,7 @@ After the death of Frederick II in 1250, the German kingdom was divided between 
 
 Changes in political structure
 
-Schedelsche_Weltchronik_Struktur_des_Reiches.jpg depicting the structure of the Reich: The Holy Roman Emperor is sitting; on his right are three ecclesiastics; on his left are four secular electors.]]
+depicting the structure of the Reich: The Holy Roman Emperor is sitting; on his right are three ecclesiastics; on his left are four secular electors.]]
 
 During the 13th century, a general structural change in how land was administered prepared the shift of political power towards the rising bourgeoisie at the expense of aristocratic feudalism that would characterize the Late Middle Ages. Instead of personal duties, money increasingly became the common means to represent economic value in agriculture. Peasants were increasingly required to pay tribute to their lands. The concept of "property" began to replace more ancient forms of jurisdiction, although they were still very much tied together. In the territories (not at the level of the Empire), power became increasingly bundled: Whoever owned the land had jurisdiction, from which other powers derived. It is important to note, however, that jurisdiction at this time did not include legislation, which virtually did not exist until well into the 15th century. Court practice heavily relied on traditional customs or rules described as customary.
 
@@ -129,8 +125,6 @@ The kings beginning with Rudolf I of Germany increasingly relied on the lands of
 
 Imperial reform
 
-Golden_Bull_of_1356.png
-
 The "constitution" of the Empire still remained largely unsettled at the beginning of the 15th century. Although some procedures and institutions had been fixed, for example by the Golden Bull of 1356, the rules of how the king, the electors, and the other dukes should cooperate in the Empire much depended on the personality of the respective king. It therefore proved somewhat damaging that Sigismund of Luxemburg (king 1410, emperor 1433–1437) and Frederick III of Habsburg (king 1440, emperor 1452–1493) neglected the old core lands of the empire and mostly resided in their own lands. Without the presence of the king, the old institution of the _Hoftag_, the assembly of the realm's leading men, deteriorated. The _Imperial Diet_ as a legislative organ of the Empire did not exist at that time. The dukes often conducted feuds against each other – feuds that, more often than not, escalated into local wars.
 
 Simultaneously, the Catholic Church experienced crises of its own, with wide-reaching effects in the Empire. The conflict between several papal claimants (two anti-popes and the "legitimate" Pope) ended only with the Council of Constance (1414–1418); after 1419 the Papacy directed much of its energy to suppress the Hussites. The medieval idea of unifying all Christendom into a single political entity, with the Church and the Empire as its leading institutions, began to decline.
@@ -142,8 +136,6 @@ When Frederick III needed the dukes to finance a war against Hungary in 1486, an
 However, it took a few more decades for the new regulation to gain universal acceptance and for the new court to begin to function effectively; only in 1512 would the Imperial Circles be finalized. The King also made sure that his own court, the _Reichshofrat_, continued to operate in parallel to the _Reichskammergericht_. Also in 1512, the Empire received its new title, the _Heiliges Römisches Reich Deutscher Nation_ ("Holy Roman Empire of the German Nation").
 
 Reformation and Renaissance
-
-Deutschland_im_XVI._Jahrhundert_(Putzger).jpg
 
 upright=1.15, 1520 dedicated to Emperor Charles V.)]]
 
@@ -157,7 +149,7 @@ upright=1.1
 
 Charles V continued to battle the French and the Protestant princes in Germany for much of his reign. After his son Philip married Queen Mary of England, it appeared that France would be completely surrounded by Habsburg domains, but this hope proved unfounded when the marriage produced no children. In 1555, Paul IV was elected pope and took the side of France, whereupon an exhausted Charles finally gave up his hopes of a world Christian empire. He abdicated and divided his territories between Philip and Ferdinand of Austria. The Peace of Augsburg ended the war in Germany and accepted the existence of Protestantism in form of Lutheranism, while Calvinism was still not recognized. Anabaptist, Arminian and other minor Protestant communities were also forbidden.
 
-upright=1.1]] HRR_1648.png, 1648]]
+upright=1.1]] , 1648]]
 
 Germany would enjoy relative peace for the next six decades. On the eastern front, the Turks continued to loom large as a threat, although war would mean further compromises with the Protestant princes, and so the Emperor sought to avoid it. In the west, the Rhineland increasingly fell under French influence. After the Dutch revolt against Spain erupted, the Empire remained neutral, _de facto_ allowing the Netherlands to depart the empire in 1581, a secession acknowledged in 1648. A side effect was the Cologne War, which ravaged much of the upper Rhine.
 
@@ -175,7 +167,7 @@ By the rise of Louis XIV, the Habsburgs were chiefly dependent on their heredita
 
 French Revolutionary Wars and final dissolution
 
-HRR_1789_EN.png, 1789]] From 1792 onwards, revolutionary France was at war with various parts of the Empire intermittently.
+, 1789]] From 1792 onwards, revolutionary France was at war with various parts of the Empire intermittently.
 
 The German mediatization was the series of mediatizations and secularizations that occurred between 1795 and 1814, during the latter part of the era of the French Revolution and then the Napoleonic Era. "Mediatization" was the process of annexing the lands of one imperial estate to another, often leaving the annexed some rights. For example, the estates of the Imperial Knights were formally mediatized in 1806, having _de facto_ been seized by the great territorial states in 1803 in the so-called _Rittersturm_. "Secularization" was the abolition of the temporal power of an ecclesiastical ruler such as a bishop or an abbot and the annexation of the secularized territory to a secular territory.
 
@@ -205,7 +197,7 @@ A sum total of 1,500 Imperial estates has been reckoned.[71] For a list of _Reic
 
 King of the Romans
 
-Weltliche_Schatzkammer_Wien_(189)2.JPG (2nd half of the 10th century), now held in the Schatzkammer (Vienna)]]
+(2nd half of the 10th century), now held in the Schatzkammer (Vienna)]]
 
 A prospective Emperor had first to be elected King of the Romans (Latin: _Rex Romanorum_; German: _römischer König_). German kings had been elected since the 9th century; at that point they were chosen by the leaders of the five most important tribes (the Salian Franks of Lorraine, Ripuarian Franks of Franconia, Saxons, Bavarians, and Swabians). In the Holy Roman Empire, the main dukes and bishops of the kingdom elected the King of the Romans. In 1356, Emperor Charles IV issued the Golden Bull, which limited the electors to seven: the King of Bohemia, the Count Palatine of the Rhine, the Duke of Saxony, the Margrave of Brandenburg, and the archbishops of Cologne, Mainz, and Trier. During the Thirty Years' War, the Duke of Bavaria was given the right to vote as the eighth elector, and the Duke of Brunswick-Lüneburg (colloquially, Hanover) was granted a ninth electorate; additionally, the Napoleonic Wars resulted in several electorates being reallocated, but these new electors never voted before the Empire's dissolution. A candidate for election would be expected to offer concessions of land or money to the electors in order to secure their vote.
 
@@ -215,7 +207,7 @@ The Emperor had to be male and of noble blood. No law required him to be a Catho
 
 Imperial Diet (_Reichstag_)
 
-Balduineum_Wahl_Heinrich_VII.jpgs (_Codex Balduini Trevirorum_, c. 1340)]]
+s (_Codex Balduini Trevirorum_, c. 1340)]]
 
 The Imperial Diet (_Reichstag_, or _Reichsversammlung_) was not a legislative body as we understand it today, as its members envisioned it more like a central forum where it was more important to negotiate than to decide.[73] The Diet was theoretically superior to the emperor himself. It was divided into three classes. The first class, the Council of Electors, consisted of the electors, or the princes who could vote for King of the Romans. The second class, the Council of Princes, consisted of the other princes. The Council of Princes was divided into two "benches", one for secular rulers and one for ecclesiastical ones. Higher-ranking princes had individual votes, while lower-ranking princes were grouped into "colleges" by geography. Each college had one vote.
 
@@ -226,8 +218,6 @@ Imperial courts
 The Empire also had two courts: the _Reichshofrat_ (also known in English as the Aulic Council) at the court of the King/Emperor, and the _Reichskammergericht_ (Imperial Chamber Court), established with the Imperial Reform of 1495.
 
 Imperial circles
-
-Map_of_the_Imperial_Circles_(1512)-en.png
 
 As part of the Imperial Reform, six Imperial Circles were established in 1500; four more were established in 1512. These were regional groupings of most (though not all) of the various states of the Empire for the purposes of defense, imperial taxation, supervision of coining, peace-keeping functions, and public security. Each circle had its own parliament, known as a _Kreistag_ ("Circle Diet"), and one or more directors, who coordinated the affairs of the circle. Not all imperial territories were included within the imperial circles, even after 1512; the Lands of the Bohemian Crown were excluded, as were Switzerland, the imperial fiefs in northern Italy, the lands of the Imperial Knights, and certain other small territories like the Lordship of Jever.
 
@@ -287,7 +277,7 @@ Largest cities or towns of the Empire by year:
 
 Religion
 
-Druck_Augsburger_Reichsfrieden.jpg, which laid the legal groundwork for two co-existing religious confessions (Roman Catholicism and Lutheranism) in the German-speaking states of the Holy Roman Empire]] Roman Catholicism constituted the single official religion of the Empire until 1555. The Holy Roman Emperor was always a Roman Catholic.
+, which laid the legal groundwork for two co-existing religious confessions (Roman Catholicism and Lutheranism) in the German-speaking states of the Holy Roman Empire]] Roman Catholicism constituted the single official religion of the Empire until 1555. The Holy Roman Emperor was always a Roman Catholic.
 
 Lutheranism was officially recognized in the Peace of Augsburg of 1555, and Calvinism in the Peace of Westphalia of 1648. Those two constituted the only officially recognized Protestant denominations, while various other Protestant confessions such as Anabaptism, Arminianism, etc. coexisted illegally within the Empire. Anabaptism came in a variety of denominations, including Mennonites, Schwarzenau Brethren, Hutterites, the Amish, and multiple other groups.
 

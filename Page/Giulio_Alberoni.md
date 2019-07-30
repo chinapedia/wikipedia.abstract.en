@@ -1,4 +1,4 @@
-Cardinale_Giulio_Alberoni.jpg GIULIO ALBERONI (30 May 1664 OS – 26 June NS 1752) was an Italian cardinal and statesman in the service of Philip V of Spain.[1] He is known also for being a remarkable soldier and great gourmet who advised the Spanish court on table manners and menus.
+GIULIO ALBERONI (30 May 1664 OS – 26 June NS 1752) was an Italian cardinal and statesman in the service of Philip V of Spain.[1] He is known also for being a remarkable soldier and great gourmet who advised the Spanish court on table manners and menus.
 
 
 Early years
@@ -12,7 +12,7 @@ During the War of the Spanish Succession Alberoni laid the foundation of his pol
 
 Middle years
 
-Affresco_contro_il_Card._Alberoni_Palazzo_Pubblico_San_Marino.JPG Alberoni accompanied Vendôme to Spain as his secretary and became very active in promoting the cause of the French candidate Philip V. Following Vendôme's death, in 1713 he was made a Count and appointed Consular agent for Parma at Philip's court where he was a Royal favourite.
+Alberoni accompanied Vendôme to Spain as his secretary and became very active in promoting the cause of the French candidate Philip V. Following Vendôme's death, in 1713 he was made a Count and appointed Consular agent for Parma at Philip's court where he was a Royal favourite.
 
 Under the terms of the 1713 Treaty of Utrecht, Philip became King of Spain but the Spanish Empire was effectively partitioned. The Southern Netherlands and their Italian possessions were ceded to the Austrian Habsburgs and Savoy, Menorca and Gibraltar went to Britain while British merchants gained trading rights in the previously closed market of the Spanish Americas.
 
@@ -22,7 +22,7 @@ Elisabetta was a strong personality herself and formed an alliance with Alberoni
 
 One outcome of the war was to reduce the powers of Castile and Aragon and create a Spanish state similar to the centralised French system. This allowed Alberoni to copy the economic reforms of Colbert and he passed a series of decrees aimed at restoring the Spanish economy. These abolished internal custom-houses, promoted trade with the Americas, instituted a regular mail service to the colonies and reorganised state finances along lines established by the French economist Jean Orry. Some attempts were made to satisfy Spanish conservatives eg a new School of Navigation was reserved for the sons of the nobility.
 
-The_Battle_of_Cape_Passaro.jpg, 11 August 1718; the destruction of the Spanish fleet off Sicily]]
+, 11 August 1718; the destruction of the Spanish fleet off Sicily]]
 
 These reforms made Spain confident enough to attempt the recovery of territories in Italy ceded to Savoy and Charles VI of Austria.[5] In 1717, a Spanish force occupied Sardinia unopposed; neither Austria or Savoy had significant naval forces and Austria was engaged in the Austro-Turkish War of 1716–18. This assumed the British would not intervene but when 38,000 Spanish troops landed on Sicily in 1718, Britain declared it a violation of Utrecht. On 2 August 1718, Britain, France, the Netherlands and the Austrians formed the Quadruple Alliance and on 11 August the Royal Navy destroyed a Spanish fleet off Sicily at the Battle of Cape Passaro.
 
@@ -33,7 +33,7 @@ France invaded eastern Spain and in October 1719 a British naval expedition capt
 
 Later years
 
-Dupuis_Charles_-_Jules_Alberoni_-.jpg Giulio-Alberoni-Ontwerp-van-den-kardinaal-Alberoni-om-het-Turksche-ryk_MG_1208.tif He went to Italy, escaped from arrest at Genoa, and had to take refuge among the Apennines, Pope Clement XI, who was his bitter enemy, having given strict orders for his arrest. On the death of Clement in 1721, Alberoni boldly appeared at the conclave, and took part in the election of Innocent XIII, after which he was for a short time imprisoned by the new pontiff on the demand of Spain on charges including sodomy (Elizabeth Charlotte of the Palatine noted in her diaries that he was a pederast).[8] He was ultimately cleared by a commission of his fellow Cardinals. At the next election (1724) he was himself proposed for the papal chair, and secured ten votes at the conclave that elected Benedict XIII.
+He went to Italy, escaped from arrest at Genoa, and had to take refuge among the Apennines, Pope Clement XI, who was his bitter enemy, having given strict orders for his arrest. On the death of Clement in 1721, Alberoni boldly appeared at the conclave, and took part in the election of Innocent XIII, after which he was for a short time imprisoned by the new pontiff on the demand of Spain on charges including sodomy (Elizabeth Charlotte of the Palatine noted in her diaries that he was a pederast).[8] He was ultimately cleared by a commission of his fellow Cardinals. At the next election (1724) he was himself proposed for the papal chair, and secured ten votes at the conclave that elected Benedict XIII.
 
 Benedict's successor, Clement XII (elected 1730), named him legate of Ravenna, where he erected the Porta Alberoni (1739), a magnificent gateway that formerly provided access to the city's dockyards, and has since been moved to the entrance of the Teatro Rasi.[9] That same year, the strong and unwarrantable measures he adopted to subject the grand republic of San Marino to the papal states incurred the pope's displeasure, and left a historical scar in that place's memory.[10] He was soon replaced by another legate in 1740, and he retired to Piacenza, where in 1730 Clement XII appointed him administrator of the hospital of San Lazzaro, a medieval foundation for the benefit of lepers. Since leprosy had nearly disappeared in Italy, Alberoni obtained the consent of the pope to suppress the hospital, which had fallen into great disorder, and replaced it with a seminary for the priestly education of seventy poor boys, under the name of the Collegio Alberoni, which it still bears. The Cardinal's collections of art gathered in Rome and Piacenza, housed in his richly appointed private apartments, have been augmented by the Collegio. There are remarkable suites of Flemish tapestries, and paintings, among which the most famous is the _Ecce Homo_ by Antonello da Messina (1473), but which also include panels by Jan Provoost and other Flemish artists, oil paintings by Domenico Maria Viani and Francesco Solimena.
 

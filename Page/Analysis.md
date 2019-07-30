@@ -9,7 +9,7 @@ Applications
 
 Science
 
-Clinical_Chemistry_Analyzer_,_Клинички_биохемиски_анализатор_3.jpg The field of chemistry uses analysis in at least three ways: to identify the components of a particular chemical compound (qualitative analysis), to identify the proportions of components in a mixture (quantitative analysis), and to break down chemical processes and examine chemical reactions between elements of matter. For an example of its use, analysis of the concentration of elements is important in managing a nuclear reactor, so nuclear scientists will analyse neutron activation to develop discrete measurements within vast samples. A matrix can have a considerable effect on the way a chemical analysis is conducted and the quality of its results. Analysis can be done manually or with a device. Chemical analysis is an important element of national security among the major world powers with materials
+The field of chemistry uses analysis in at least three ways: to identify the components of a particular chemical compound (qualitative analysis), to identify the proportions of components in a mixture (quantitative analysis), and to break down chemical processes and examine chemical reactions between elements of matter. For an example of its use, analysis of the concentration of elements is important in managing a nuclear reactor, so nuclear scientists will analyse neutron activation to develop discrete measurements within vast samples. A matrix can have a considerable effect on the way a chemical analysis is conducted and the quality of its results. Analysis can be done manually or with a device. Chemical analysis is an important element of national security among the major world powers with materials
 
 Isotopes
 

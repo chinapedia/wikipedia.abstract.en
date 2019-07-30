@@ -11,7 +11,7 @@ Biography
 
 Early life and education
 
-Ernest_Rutherford_1892.jpg Ernest Rutherford was the son of James Rutherford, a farmer, and his wife Martha Thompson, originally from Hornchurch, Essex, England.[14] James had emigrated to New Zealand from Perth, Scotland, "to raise a little flax and a lot of children". Ernest was born at Brightwater, near Nelson, New Zealand. His first name was mistakenly spelled 'Earnest' when his birth was registered.[15] Rutherford's mother Martha Thompson was a schoolteacher.[16]
+Ernest Rutherford was the son of James Rutherford, a farmer, and his wife Martha Thompson, originally from Hornchurch, Essex, England.[14] James had emigrated to New Zealand from Perth, Scotland, "to raise a little flax and a lot of children". Ernest was born at Brightwater, near Nelson, New Zealand. His first name was mistakenly spelled 'Earnest' when his birth was registered.[15] Rutherford's mother Martha Thompson was a schoolteacher.[16]
 
 He studied at Havelock School and then Nelson College and won a scholarship to study at Canterbury College, University of New Zealand, where he participated in the debating society and played rugby.[17] After gaining his BA, MA and BSc, and doing two years of research during which he invented a new form of radio receiver, in 1895 Rutherford was awarded an 1851 Research Fellowship from the Royal Commission for the Exhibition of 1851,[18] to travel to England for postgraduate study at the Cavendish Laboratory, University of Cambridge.[19] He was among the first of the 'aliens' (those without a Cambridge degree) allowed to do research at the university, under the leadership of J. J. Thomson,[20] which aroused jealousies from the more conservative members of the Cavendish fraternity. With Thomson's encouragement, he managed to detect radio waves at half a mile and briefly held the world record for the distance over which electromagnetic waves could be detected, though when he presented his results at the British Association meeting in 1896, he discovered he had been outdone by another lecturer, by the name of Marconi.
 
@@ -21,12 +21,12 @@ Later years and honours
 
 He was knighted in 1914.[27] During World War I, he worked on a top secret project to solve the practical problems of submarine detection by sonar.[28] In 1916, he was awarded the Hector Memorial Medal. In 1919, he returned to the Cavendish succeeding J. J. Thomson as the Cavendish professor and Director. Under him, Nobel Prizes were awarded to James Chadwick for discovering the neutron (in 1932), John Cockcroft and Ernest Walton for an experiment which was to be known as _splitting the atom_ using a particle accelerator, and Edward Appleton for demonstrating the existence of the ionosphere. In 1925, Rutherford pushed calls to the Government of New Zealand to support education and research, which led to the formation of the Department of Scientific and Industrial Research (DSIR) in the following year.[29] Between 1925 and 1930, he served as President of the Royal Society, and later as president of the Academic Assistance Council which helped almost 1,000 university refugees from Germany.[30] He was appointed to the Order of Merit in the 1925 New Year Honours[31] and raised to the peerage as Baron Rutherford of Nelson, of Cambridge in the County of Cambridge in 1931,[32] a title that became extinct upon his unexpected death in 1937. In 1933, Rutherford was one of the two inaugural recipients of the T. K. Sidey Medal, set up by the Royal Society of New Zealand as an award for outstanding scientific research.[33][34]
 
-SirErnieWestminster.JPG]] For some time before his death, Rutherford had a small hernia, which he had neglected to have fixed, and it became strangulated, causing him to be violently ill. Despite an emergency operation in London, he died four days afterwards of what physicians termed "intestinal paralysis", at Cambridge.[35] After cremation at Golders Green Crematorium,[36] he was given the high honour of burial in Westminster Abbey, near Isaac Newton and other illustrious British scientists.[37]
+]] For some time before his death, Rutherford had a small hernia, which he had neglected to have fixed, and it became strangulated, causing him to be violently ill. Despite an emergency operation in London, he died four days afterwards of what physicians termed "intestinal paralysis", at Cambridge.[35] After cremation at Golders Green Crematorium,[36] he was given the high honour of burial in Westminster Abbey, near Isaac Newton and other illustrious British scientists.[37]
 
 
 Scientific research
 
-Ernest_Rutherford_1905.jpg At Cambridge, Rutherford started to work with J. J. Thomson on the conductive effects of X-rays on gases, work which led to the discovery of the electron which Thomson presented to the world in 1897. Hearing of Becquerel's experience with uranium, Rutherford started to explore its radioactivity, discovering two types that differed from X-rays in their penetrating power. Continuing his research in Canada, he coined the terms alpha ray and beta ray in 1899 to describe the two distinct types of radiation. He then discovered that thorium gave off a gas which produced an emanation which was itself radioactive and would coat other substances. He found that a sample of this radioactive material of any size invariably took the same amount of time for half the sample to decay – its "half-life" (11½ minutes in this case).
+At Cambridge, Rutherford started to work with J. J. Thomson on the conductive effects of X-rays on gases, work which led to the discovery of the electron which Thomson presented to the world in 1897. Hearing of Becquerel's experience with uranium, Rutherford started to explore its radioactivity, discovering two types that differed from X-rays in their penetrating power. Continuing his research in Canada, he coined the terms alpha ray and beta ray in 1899 to describe the two distinct types of radiation. He then discovered that thorium gave off a gas which produced an emanation which was itself radioactive and would coat other substances. He found that a sample of this radioactive material of any size invariably took the same amount of time for half the sample to decay – its "half-life" (11½ minutes in this case).
 
 From 1900 to 1903, he was joined at McGill by the young chemist Frederick Soddy (Nobel Prize in Chemistry, 1921) for whom he set the problem of identifying the thorium emanations. Once he had eliminated all the normal chemical reactions, Soddy suggested that it must be one of the inert gases, which they named thoron (later found to be an isotope of radon). They also found another type of thorium they called Thorium X, and kept on finding traces of helium. They also worked with samples of "Uranium X" from William Crookes and radium from Marie Curie.
 
@@ -40,7 +40,7 @@ A long-standing myth existed, at least as early as 1948,[38] [39] running at lea
 
 Gold foil experiment
 
-Gold_foil_experiment_conclusions.svgs passing through the plum pudding model of the atom undisturbed.
+s passing through the plum pudding model of the atom undisturbed.
 _Bottom:_ Observed results: a small portion of the particles were deflected, indicating a small, concentrated charge. Note that the image is not to scale; in reality the nucleus is vastly smaller than the electron shell.]] Rutherford performed his most famous work _after_ receiving the Nobel prize in 1908. Along with Hans Geiger and Ernest Marsden in 1909, he carried out the Geiger–Marsden experiment, which demonstrated the nuclear nature of atoms by deflecting alpha particles passing through a thin gold foil. Rutherford was inspired to ask Geiger and Marsden in this experiment to look for alpha particles with very high deflection angles, of a type not expected from any theory of matter at that time. Such deflections, though rare, were found, and proved to be a smooth but high-order function of the deflection angle. It was Rutherford's interpretation of this data that led him to formulate the Rutherford model of the atom in 1911that a very small charged[45] nucleus, containing much of the atom's mass, was orbited by low-mass electrons.
 
 In 1919–1920, Rutherford found that nitrogen and other light elements ejected a proton (Rutherford said "a hydrogen atom" rather than "a proton") when hit with α (alpha) particles.[46] This result showed Rutherford that hydrogen nuclei were a part of nitrogen nuclei (and by inference, probably other nuclei as well). Such a construction had been suspected for many years on the basis of atomic weights which were whole numbers of that of hydrogen; see Prout's hypothesis. Hydrogen was known to be the lightest element, and its nuclei presumably the lightest nuclei. Now, because of all these considerations, Rutherford decided that a hydrogen nucleus was possibly a fundamental building block of all nuclei, and also possibly a new fundamental particle as well, since nothing was known from the nucleus that was lighter. Thus, confirming and extending the work of Wilhelm Wien who in 1898 discovered the proton in streams of ionized gas,[47] Rutherford postulated the hydrogen nucleus to be a new particle in 1920, which he dubbed the _proton_.
@@ -52,7 +52,7 @@ Rutherford's theory of neutrons was proved in 1932 by his associate James Chadwi
 
 Legacy
 
-Sir_Ernest_Rutherford_-_Plaque_at_the_University_of_Manchester.jpg]]
+]]
 
 Nuclear physics
 
@@ -62,7 +62,7 @@ Rutherford's speech touched on the 1932 work of his students John Cockcroft and 
 
 Items named in honour of Rutherford's life and work
 
-Statue_of_Ernest_Rutherford.JPG.]]
+.]]
 
 Scientific discoveries
 

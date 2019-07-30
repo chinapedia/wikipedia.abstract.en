@@ -16,11 +16,11 @@ Sometimes the city is informally referred to as __ by people from Alexandria (; 
 
 History
 
-Louis_Comfort_Tiffany_-_On_the_Way_between_Old_and_New_Cairo,_Citadel_Mosque_of_Mohammed_Ali,_and_Tombs_of_the_Mamelukes_-_Google_Art_Project.jpg (1848–1933). _On the Way between Old and New Cairo, Citadel Mosque of Mohammed Ali, and Tombs of the Mamelukes,_ 1872. Oil on canvas. Brooklyn Museum]]
+(1848–1933). _On the Way between Old and New Cairo, Citadel Mosque of Mohammed Ali, and Tombs of the Mamelukes,_ 1872. Oil on canvas. Brooklyn Museum]]
 
 Initial settlements
 
-Fostat-329.jpg from A. S. Rappoport's _History of Egypt_|alt=A man on a donkey walks past a palm tree, with a mosque and market behind Mohamed kamal]]
+from A. S. Rappoport's _History of Egypt_|alt=A man on a donkey walks past a palm tree, with a mosque and market behind Mohamed kamal]]
 
 The area around present-day Cairo, especially Memphis that was the old capital of Egypt, had long been a focal point of Ancient Egypt due to its strategic location just upstream from the Nile Delta. However, the origins of the modern city are generally traced back to a series of settlements in the first millennium. Around the turn of the 4th century,[15] as Memphis was continuing to decline in importance,[16] the Romans established a fortress town along the east bank of the Nile. This fortress, known as Babylon, was the nucleus of the Roman and then the Byzantine city and is the oldest structure in the city today. It is also situated at the nucleus of the Coptic Orthodox community, which separated from the Roman and Byzantine churches in the late 4th century. Many of Cairo's oldest Coptic churches, including the Hanging Church, are located along the fortress walls in a section of the city known as Coptic Cairo.
 
@@ -40,13 +40,13 @@ For nearly 200 years after Cairo was established, the administrative centre of E
 
 While the Fustat fire successfully protected the city of Cairo, a continuing power struggle between Shawar, King Amalric I of Jerusalem, and the Zengid general Shirkuh led to the downfall of the Fatimid establishment.[22]
 
-In 1169, Saladin was appointed as the new vizier of Egypt by the Fatimids and two years later he seized power from the family of the last Fatimid caliph, al-'Āḍid.[23] As the first Sultan of Egypt, Saladin established the Ayyubid dynasty, based in Cairo, and aligned Egypt with the Abbasids, who were based in Baghdad.[24] During his reign, Saladin constructed the Cairo Citadel, which served as the seat of the Egyptian government until the mid-19th century. Cairo-citadel-1800s.jpg, seen above in the late 19th century, was commissioned by Saladin between 1176 and 1183|alt=A multi-domed mosque dominates the walled Citadel, with ruined tombs and a lone minaret in front.]] قلعة_محمد_على.jpg In 1250, slave soldiers, known as the Mamluks, seized control of Egypt and like many of their predecessors established Cairo as the capital of their new dynasty. Continuing a practice started by the Ayyubids, much of the land occupied by former Fatimid palaces was sold and replaced by newer buildings.[25] Construction projects initiated by the Mamluks pushed the city outward while also bringing new infrastructure to the centre of the city.[26] Meanwhile, Cairo flourished as a centre of Islamic scholarship and a crossroads on the spice trade route among the civilisations in Afro-Eurasia. By 1340, Cairo had a population of close to half a million, making it the largest city west of China.[27]
+In 1169, Saladin was appointed as the new vizier of Egypt by the Fatimids and two years later he seized power from the family of the last Fatimid caliph, al-'Āḍid.[23] As the first Sultan of Egypt, Saladin established the Ayyubid dynasty, based in Cairo, and aligned Egypt with the Abbasids, who were based in Baghdad.[24] During his reign, Saladin constructed the Cairo Citadel, which served as the seat of the Egyptian government until the mid-19th century. , seen above in the late 19th century, was commissioned by Saladin between 1176 and 1183|alt=A multi-domed mosque dominates the walled Citadel, with ruined tombs and a lone minaret in front.]] In 1250, slave soldiers, known as the Mamluks, seized control of Egypt and like many of their predecessors established Cairo as the capital of their new dynasty. Continuing a practice started by the Ayyubids, much of the land occupied by former Fatimid palaces was sold and replaced by newer buildings.[25] Construction projects initiated by the Mamluks pushed the city outward while also bringing new infrastructure to the centre of the city.[26] Meanwhile, Cairo flourished as a centre of Islamic scholarship and a crossroads on the spice trade route among the civilisations in Afro-Eurasia. By 1340, Cairo had a population of close to half a million, making it the largest city west of China.[27]
 
 The historic traveler [28] Ibn Battuta traveled thousands of miles during the course of his trek. One city he stopped in was Cairo, Egypt. One significant note Ibn Battuta made was that Cairo was the principal district of Egypt, meaning Cairo was Egypt's most important and most influential city (Ibn Battuta, 2009). Ibn Battuta also acknowledges the importance of the Nile river to all of Egypt, including Cairo, as he often traveled via boat to arrive at Cairo and to leave to continue his journey. The Nile was not just a means for transportation, it was the source of a plethora of other tangibles as well. The Nile's most influential attribute was its ability to sustain rich soil for agriculture. Part of the Agricultural Revolution thrived in Egypt, predominantly off the back of the Nile. The Nile also served as a source of food and a pathway for trade. Without it, the Egypt we know today wouldn't have been the same. One of Ibn Battuta's most detailed accounts in Cairo involves a plague that was devastating the city. Today, this plague is known as the Bubonic Plague, or the Black Death. It is believed to have arrived in Egypt in 1347, and as Ibn Battuta recalls, the Bubonic plague was responsible for the deaths of between 1 and 20,000 people a day in Cairo [29](Berkeley ORIAS, 2018) (Ibn Battuta, 2009). The plague originated in Asia and spread via flees on rodents, such as rats (Berkeley ORIAS, 2018). The plague would end up spreading to all of Eurasia and wiped out any civilizations that were in its path. It is estimated that somewhere between 75 and 200 million people total died from the plague.
 
 Ottoman rule
 
-Georg_Macco_Kairo.jpg Although Cairo avoided Europe's stagnation during the Late Middle Ages, it could not escape the Black Death, which struck the city more than fifty times between 1348 and 1517.[30] During its initial, and most deadly waves, approximately 200,000 people were killed by the plague,[31] and, by the 15th century, Cairo's population had been reduced to between 150,000 and 300,000.[32] The city's status was further diminished after Vasco da Gama discovered a sea route around the Cape of Good Hope between 1497 and 1499, thereby allowing spice traders to avoid Cairo.[33] Cairo's political influence diminished significantly after the Ottomans supplanted Mamluk power over Egypt in 1517. Ruling from Constantinople, Sultan Selim I relegated Egypt to a province, with Cairo as its capital.[34] For this reason, the history of Cairo during Ottoman times is often described as inconsequential, especially in comparison to other time periods.[35][36][37] However, during the 16th and 17th centuries, Cairo remained an important economic and cultural centre. Although no longer on the spice route, the city facilitated the transportation of Yemeni coffee and Indian textiles, primarily to Anatolia, North Africa, and the Balkans. Cairene merchants were instrumental in bringing goods to the barren Hejaz, especially during the annual hajj to Mecca.[38][39] It was during this same period that al-Azhar University reached the predominance among Islamic schools that it continues to hold today;[40][41] pilgrims on their way to hajj often attested to the superiority of the institution, which had become associated with Egypt's body of Islamic scholars.[42] By the 16th century, Cairo also had high-rise apartment buildings where the two lower floors were for commercial and storage purposes and the multiple stories above them were rented out to tenants.[43]
+Although Cairo avoided Europe's stagnation during the Late Middle Ages, it could not escape the Black Death, which struck the city more than fifty times between 1348 and 1517.[30] During its initial, and most deadly waves, approximately 200,000 people were killed by the plague,[31] and, by the 15th century, Cairo's population had been reduced to between 150,000 and 300,000.[32] The city's status was further diminished after Vasco da Gama discovered a sea route around the Cape of Good Hope between 1497 and 1499, thereby allowing spice traders to avoid Cairo.[33] Cairo's political influence diminished significantly after the Ottomans supplanted Mamluk power over Egypt in 1517. Ruling from Constantinople, Sultan Selim I relegated Egypt to a province, with Cairo as its capital.[34] For this reason, the history of Cairo during Ottoman times is often described as inconsequential, especially in comparison to other time periods.[35][36][37] However, during the 16th and 17th centuries, Cairo remained an important economic and cultural centre. Although no longer on the spice route, the city facilitated the transportation of Yemeni coffee and Indian textiles, primarily to Anatolia, North Africa, and the Balkans. Cairene merchants were instrumental in bringing goods to the barren Hejaz, especially during the annual hajj to Mecca.[38][39] It was during this same period that al-Azhar University reached the predominance among Islamic schools that it continues to hold today;[40][41] pilgrims on their way to hajj often attested to the superiority of the institution, which had become associated with Egypt's body of Islamic scholars.[42] By the 16th century, Cairo also had high-rise apartment buildings where the two lower floors were for commercial and storage purposes and the multiple stories above them were rented out to tenants.[43]
 
 Under the Ottomans, Cairo expanded south and west from its nucleus around the Citadel.[44] The city was the second-largest in the empire, behind Constantinople, and, although migration was not the primary source of Cairo's growth, twenty percent of its population at the end of the 18th century consisted of religious minorities and foreigners from around the Mediterranean.[45] Still, when Napoleon arrived in Cairo in 1798, the city's population was less than 300,000, forty percent lower than it was at the height of Mamluk—and Cairene—influence in the mid-14th century.[46][47]
 
@@ -54,13 +54,13 @@ The French occupation was short-lived as British and Ottoman forces, including a
 
 Modern era
 
-كوبري_قصر_النيل_القاهرة.jpg]]
+]]
 
 Until his death in 1848, Muhammad Ali Pasha instituted a number of social and economic reforms that earned him the title of founder of modern Egypt.[52][53] However, while Muhammad Ali initiated the construction of public buildings in the city,[54] those reforms had minimal effect on Cairo's landscape.[55] Bigger changes came to Cairo under Isma'il Pasha (r. 1863–1879), who continued the modernisation processes started by his grandfather.[56] Drawing inspiration from Paris, Isma'il envisioned a city of maidans and wide avenues; due to financial constraints, only some of them, in the area now composing Downtown Cairo, came to fruition.[57] Isma'il also sought to modernize the city, which was merging with neighboring settlements, by establishing a public works ministry, bringing gas and lighting to the city, and opening a theater and opera house.[58][59]
 
 The immense debt resulting from Isma'il's projects provided a pretext for increasing European control, which culminated with the British invasion in 1882.[60] The city's economic centre quickly moved west toward the Nile, away from the historic Islamic Cairo section and toward the contemporary, European-style areas built by Isma'il.[61][62] Europeans accounted for five percent of Cairo's population at the end of the 19th century, by which point they held most top governmental positions.[63]
 
-CH-NB_-_Aegypten,_Kairo_und_Nil_-_Eduard_Spelterini_-_EAD-WEHR-32043-B.tif appears to the right side.]] View_of_the_Nile_from_Hilton.jpg and the Cairo skyline.]] Nile_view_from_Marriott.jpg The British occupation was intended to be temporary, but it lasted well into the 20th century. Nationalists staged large-scale demonstrations in Cairo in 1919,[64] five years after Egypt had been declared a British protectorate.[65] Nevertheless, while this led to Egypt's independence in 1922, British troops remained in the country until 1956. During this time, urban Cairo, spurred by new bridges and transport links, continued to expand to include the upscale neighbourhoods of Garden City, Zamalek, and Heliopolis.[66] Between 1882 and 1937, the population of Cairo more than tripled—from 347,000 to 1.3 million[67]—and its area increased from .[68]
+appears to the right side.]] and the Cairo skyline.]] The British occupation was intended to be temporary, but it lasted well into the 20th century. Nationalists staged large-scale demonstrations in Cairo in 1919,[64] five years after Egypt had been declared a British protectorate.[65] Nevertheless, while this led to Egypt's independence in 1922, British troops remained in the country until 1956. During this time, urban Cairo, spurred by new bridges and transport links, continued to expand to include the upscale neighbourhoods of Garden City, Zamalek, and Heliopolis.[66] Between 1882 and 1937, the population of Cairo more than tripled—from 347,000 to 1.3 million[67]—and its area increased from .[68]
 
 The city was devastated during the 1952 riots known as the Cairo Fire or Black Saturday, which saw the destruction of nearly 700 shops, movie theaters, casinos and hotels in Downtown Cairo.[69] The British departed Cairo following the Egyptian Revolution of 1952, but the city's rapid growth showed no signs of abating. Seeking to accommodate the increasing population, President Gamal Abdel Nasser redeveloped Maidan Tahrir and the Nile Corniche, and improved the city's network of bridges and highways.[70] Meanwhile, additional controls of the Nile fostered development within Gezira Island and along the city's waterfront. The metropolis began to encroach on the fertile Nile Delta, prompting the government to build desert satellite towns and devise incentives for city-dwellers to move to them.[71]
 
@@ -68,7 +68,7 @@ Cairo's population has doubled since the 1960s, reaching close to seven million 
 
 In 1992, Cairo was hit by an earthquake causing 545 deaths, 6,512 injuries and 50,000 people homeless.[72]
 
-Today, Cairo serves as the national capital of Egypt, so it is fair to say it still holds major importance. Many things have changed since Ibn Battuta trekked through the city during his travels. Today, Cairo has taken a major step forward in urbanization as most Cairenes now live in apartment buildings. Because of the influx of people in the city, lone standing houses are rare to find, and apartment buildings accommodate for the limited space and abundance of people. In fact, lone standing houses are symbolic of the wealthy. Formal education has also become very important to those in the city of Cairo. Just as in the United States, there are twelve years of formal education. Cairenes also take an apprehension test similar to the SAT to help them further their education and become accepted to a higher institution. However, most children do not finish school and opt to pick up a trade to enter the work force.[73] The civil rights movement for women in Cairo has been a long and troubling battle for many years now. Women face constant discrimination, harassment, and abuse throughout Cairo. The situation is so bad in Cairo that it has even been named the most dangerous megacity for women in the world [74](BBC News, 2017). Cairo has also been influenced by modern western civilization. As one travels through modern Cairo, it is not unusual to come across McDonald's, Arby's, Pizza Hut, Subway, and Kentucky Fried Chicken. There are even large scale western restaurants in Cairo, such as Chili's and T.G.I. Friday's. Of course, the majority of restaurants serve Egyptian and Middle Eastern dishes, but the fact remains that certain aspects of western civilization have crossed the Atlantic and reached the city of Cairo. Sadly, Egypt is one of the poorer countries in the Middle East, with almost half the population living on $2 or less a day [75](Hartman, 2011). However, from the income the country does make, most of it does come from Cairo, as the majority of the countries manufacturing headquarters are located there. Today's Cairo has clearly evolved since Ibn Battuta made his way through the ancient city. Cairo has made advances in some aspects of daily life, and taken steps backwards in others. However, with that being said, Cairo is still one of the most influential cities in all of Egypt. The_lion_of_Egyptian_revolution_(Qasr_al-Nil_Bridge)-edit2.jpg
+Today, Cairo serves as the national capital of Egypt, so it is fair to say it still holds major importance. Many things have changed since Ibn Battuta trekked through the city during his travels. Today, Cairo has taken a major step forward in urbanization as most Cairenes now live in apartment buildings. Because of the influx of people in the city, lone standing houses are rare to find, and apartment buildings accommodate for the limited space and abundance of people. In fact, lone standing houses are symbolic of the wealthy. Formal education has also become very important to those in the city of Cairo. Just as in the United States, there are twelve years of formal education. Cairenes also take an apprehension test similar to the SAT to help them further their education and become accepted to a higher institution. However, most children do not finish school and opt to pick up a trade to enter the work force.[73] The civil rights movement for women in Cairo has been a long and troubling battle for many years now. Women face constant discrimination, harassment, and abuse throughout Cairo. The situation is so bad in Cairo that it has even been named the most dangerous megacity for women in the world [74](BBC News, 2017). Cairo has also been influenced by modern western civilization. As one travels through modern Cairo, it is not unusual to come across McDonald's, Arby's, Pizza Hut, Subway, and Kentucky Fried Chicken. There are even large scale western restaurants in Cairo, such as Chili's and T.G.I. Friday's. Of course, the majority of restaurants serve Egyptian and Middle Eastern dishes, but the fact remains that certain aspects of western civilization have crossed the Atlantic and reached the city of Cairo. Sadly, Egypt is one of the poorer countries in the Middle East, with almost half the population living on $2 or less a day [75](Hartman, 2011). However, from the income the country does make, most of it does come from Cairo, as the majority of the countries manufacturing headquarters are located there. Today's Cairo has clearly evolved since Ibn Battuta made his way through the ancient city. Cairo has made advances in some aspects of daily life, and taken steps backwards in others. However, with that being said, Cairo is still one of the most influential cities in all of Egypt.
 
 2011 Egyptian revolution
 
@@ -81,7 +81,7 @@ Under the rule of President el-Sisi, in March 2015 plans were announced for anot
 
 Geography
 
-Cairo_Nile_River.jpg flows through Cairo, here contrasting ancient customs of daily life with the modern city of today]] Zamalek_Arial.jpg, surrounded by the Nile.]]
+flows through Cairo, here contrasting ancient customs of daily life with the modern city of today]] , surrounded by the Nile.]]
 
 Cairo is located in northern Egypt, known as Lower Egypt, south of the Mediterranean Sea and west of the Gulf of Suez and Suez Canal.[81] The city lies along the Nile River, immediately south of the point where the river leaves its desert-bound valley and branches into the low-lying Nile Delta region. Although the Cairo metropolis extends away from the Nile in all directions, the city of Cairo resides only on the east bank of the river and two islands within it on a total area of .[82][83]
 
@@ -97,7 +97,7 @@ According to the World Health Organization, the level of air pollution in Cairo 
 
 Climate
 
-In Cairo, and along the Nile River Valley, the climate is a hot desert climate (_BWh_ according to the Köppen climate classification system[90]). Wind storms can be frequent, bringing Saharan dust into the city, from March to May (see Khamasin) and the air often becomes uncomfortably dry. High temperatures in winter range from , while night-time lows drop to below , often to . In summer, the highs rarely surpass , and lows drop to about . Rainfall is sparse and only happens in the colder months, but sudden showers do cause harsh flooding. The summer months have high humidity due to its coastal location. Snowfall is extremely rare; a small amount of graupel, widely believed to be snow, fell on Cairo's easternmost suburbs on 13 December 2013, the first time Cairo's area received this kind of precipitation in many decades.[91] Dewpoints in the hottest months range from in June to in August.[92] Cairo_weather_observations_by_French_savants.jpg
+In Cairo, and along the Nile River Valley, the climate is a hot desert climate (_BWh_ according to the Köppen climate classification system[90]). Wind storms can be frequent, bringing Saharan dust into the city, from March to May (see Khamasin) and the air often becomes uncomfortably dry. High temperatures in winter range from , while night-time lows drop to below , often to . In summer, the highs rarely surpass , and lows drop to about . Rainfall is sparse and only happens in the colder months, but sudden showers do cause harsh flooding. The summer months have high humidity due to its coastal location. Snowfall is extremely rare; a small amount of graupel, widely believed to be snow, fell on Cairo's easternmost suburbs on 13 December 2013, the first time Cairo's area received this kind of precipitation in many decades.[91] Dewpoints in the hottest months range from in June to in August.[92]
 
 Metropolitan area
 
@@ -114,7 +114,7 @@ In March 2015, plans were announced for a yet-unnamed planned city to be built e
 
 Infrastructure
 
-Cairo_SPOT_1006.jpg]]
+]]
 
 Health
 
@@ -124,7 +124,7 @@ Education
 
 Greater Cairo has long been the hub of education and educational services for Egypt and the region. Today, Greater Cairo is the centre for many government offices governing the Egyptian educational system, has the largest number of educational schools, and higher learning institutes among other cities and governorates of Egypt.
 
-SOME OF THE INTERNATIONAL SCHOOLS FOUND IN CAIRO: Cairo_UNI.jpg is the largest university in Egypt, and is located in Giza.]] AUC_New_Library_garden.jpg in New Cairo.]] UNIVERSITIES IN GREATER CAIRO:
+SOME OF THE INTERNATIONAL SCHOOLS FOUND IN CAIRO: is the largest university in Egypt, and is located in Giza.]] in New Cairo.]] UNIVERSITIES IN GREATER CAIRO:
 
   University                                                     Date of Foundation
   -------------------------------------------------------------- --------------------
@@ -151,7 +151,7 @@ SOME OF THE INTERNATIONAL SCHOOLS FOUND IN CAIRO: Cairo_UNI.jpg is the largest u
 
 Transportation
 
-Nasr_road.jpg]] Ramses-Station.jpg]]
+]] ]]
 
 Cairo has an extensive road network, rail system, subway system and maritime services. Road transport is facilitated by personal vehicles, taxi cabs, privately owned public buses and Cairo microbuses. Cairo, specifically Ramses Square, is the centre of almost the entire Egyptian transportation network.[96]
 
@@ -176,7 +176,7 @@ Other forms of transport
 
 Sports
 
-Cairo_International_Stadium.jpg with 75,100 seats]]
+with 75,100 seats]]
 
 Football is the most popular sport in Egypt, and Cairo has a number of sporting teams that compete in national and regional leagues. The best known teams are Al Ahly, El Zamalek and Al-Ismaily. Al Ahly and El Zamalek annual football tournament is perhaps the most watched sports event in Egypt as well as the African-Arab region. Both teams are known as the "rivals" of Egyptian football, and are the first and the second champions in Africa and the Arab world. They play their home games at Cairo International Stadium or Naser Stadium, which is Egypt's 2nd largest stadium, Cairo's largest one and one of the largest stadiums in the world.
 
@@ -197,15 +197,13 @@ Culture
 
 Cultural tourism in Egypt
 
-Historic_Cairo-129003.jpg, declared World Heritage Site by UNESCO in 1979.]]
+, declared World Heritage Site by UNESCO in 1979.]]
 
 Cairo Opera House
 
-Cairo_opera_house.jpg district.]]
+district.]]
 
 President Mubarak inaugurated the new Cairo Opera House of the Egyptian National Cultural Centres on 10 October 1988, 17 years after the Royal Opera House had been destroyed by fire. The National Cultural Centre was built with the help of JICA, the Japan International Co-operation Agency and stands as a prominent feature for the Japanese-Egyptian co-operation and the friendship between the two nations.
-
-ModernEgypt,_Khedivial_Opera_House,_BAP_25178.jpg
 
 Khedivial Opera House
 
@@ -221,7 +219,7 @@ In 1998, the Festival took place under the presidency of one of Egypt's leading 
 
 Cairo Geniza
 
-Solomon_Schechter.jpg The Cairo Geniza is an accumulation of almost 200,000 Jewish manuscripts that were found in the genizah of the Ben Ezra synagogue (built 882) of Fustat, Egypt (now Old Cairo), the Basatin cemetery east of Old Cairo, and a number of old documents that were bought in Cairo in the later 19th century. These documents were written from about 870 to 1880 AD and have been archived in various American and European libraries. The Taylor-Schechter collection in the University of Cambridge runs to 140,000 manuscripts, a further 40,000 manuscripts are at the Jewish Theological Seminary of America.
+The Cairo Geniza is an accumulation of almost 200,000 Jewish manuscripts that were found in the genizah of the Ben Ezra synagogue (built 882) of Fustat, Egypt (now Old Cairo), the Basatin cemetery east of Old Cairo, and a number of old documents that were bought in Cairo in the later 19th century. These documents were written from about 870 to 1880 AD and have been archived in various American and European libraries. The Taylor-Schechter collection in the University of Cambridge runs to 140,000 manuscripts, a further 40,000 manuscripts are at the Jewish Theological Seminary of America.
 
 
 Places of worship
@@ -231,7 +229,7 @@ Among the places of worship, they are predominantly Muslim mosques. [102] There 
 
 Economy
 
-ColArchCairo.jpg in Downtown Cairo, the father of the modern Egyptian economy.]] National_Bank_of_Egypt.JPG towers as viewed from the Nile.]]
+in Downtown Cairo, the father of the modern Egyptian economy.]] towers as viewed from the Nile.]]
 
 Cairo accounts for 11% of Egypt's population and 22% of its economy (PPP). The majority of the nation's commerce is generated there, or passes through the city. The great majority of publishing houses and media outlets and nearly all film studios are there, as are half of the nation's hospital beds and universities. This has fueled rapid construction in the city—one building in five is less than 15 years old.
 
@@ -251,13 +249,11 @@ Cairo's automobile assembler and manufacturer
 
 Cityscape
 
-Tahrir_Square,_Cairo,_in_the_early_morning_-_c.jpg
-
 Historical sites and landmarks
 
     _For a complete list, see Visitor attractions in Cairo, List of mosques in Cairo_
 
-Kairo_Ägyptisches_Museum_04.jpg, located in Tahrir Square.]] GD-EG-Caire-Musée007.JPG
+, located in Tahrir Square.]]
 
 Tahrir Square
 
@@ -273,11 +269,11 @@ The Cairo Tower is a free-standing tower with a revolving restaurant at the top.
 
 Old Cairo
 
-El-Moez_Street-Old_Cairo-Egypt.jpg in Old Cairo]] This area of Cairo is so-named as it contains the remains of the ancient Roman fortress of Babylon and also overlaps the original site of Fustat, the first Arab settlement in Egypt (7th century AD) and the predecessor of later Cairo. The area includes the Coptic Cairo, which holds a high concentration of old Christian churches such as the Hanging Church, the Greek Orthodox Church of St. George, and other Christian or Coptic buildings, most of which are located over the site of the ancient Roman fortress. It is also the location of the Coptic Museum, which showcases the history of Coptic art from Greco-Roman to Islamic times, and of the Ben Ezra Synagogue, the oldest and best-known synagogue in Cairo, where the important collection of Geniza documents were discovered in the 19th century.[110] To the north of this Coptic enclave is the Amr ibn al-'As Mosque, the first mosque in Egypt and the most important religious center of what was formerly Fustat, founded in 642 AD right after the Arab conquest but rebuilt many times since.[111]
+in Old Cairo]] This area of Cairo is so-named as it contains the remains of the ancient Roman fortress of Babylon and also overlaps the original site of Fustat, the first Arab settlement in Egypt (7th century AD) and the predecessor of later Cairo. The area includes the Coptic Cairo, which holds a high concentration of old Christian churches such as the Hanging Church, the Greek Orthodox Church of St. George, and other Christian or Coptic buildings, most of which are located over the site of the ancient Roman fortress. It is also the location of the Coptic Museum, which showcases the history of Coptic art from Greco-Roman to Islamic times, and of the Ben Ezra Synagogue, the oldest and best-known synagogue in Cairo, where the important collection of Geniza documents were discovered in the 19th century.[110] To the north of this Coptic enclave is the Amr ibn al-'As Mosque, the first mosque in Egypt and the most important religious center of what was formerly Fustat, founded in 642 AD right after the Arab conquest but rebuilt many times since.[111]
 
 Islamic Cairo
 
-Cairo(js).jpg Al-Azhar_(inside)_2006.jpg; Fatimid courtyard and Mamluk minarets.]] El_Hakim_Mosque.jpg.]] GD-EG-Caire-Suhaymi008.JPG]] Cairo holds one of the greatest concentrations of historical monuments of Islamic architecture in the world.[112] The areas around the old walled city and around the Citadel are characterized by hundreds of mosques, tombs, madrasas, mansions, caravanserais, and fortifications dating from the Islamic era and are often referred to as "Islamic Cairo", especially in English travel literature.[113] It is also the location of several important religious shrines such as the al-Hussein Mosque (whose shrine is believed to hold the head of Husayn ibn Ali), the Mausoleum of Imam al-Shafi'i (founder of the Shafi'i madhhab, one of the primary schools of thought in Sunni Islamic jurisprudence), the Tomb of Sayyida Ruqayya, the Mosque of Sayyida Nafisa, and others.[114]
+; Fatimid courtyard and Mamluk minarets.]] .]] ]] Cairo holds one of the greatest concentrations of historical monuments of Islamic architecture in the world.[112] The areas around the old walled city and around the Citadel are characterized by hundreds of mosques, tombs, madrasas, mansions, caravanserais, and fortifications dating from the Islamic era and are often referred to as "Islamic Cairo", especially in English travel literature.[113] It is also the location of several important religious shrines such as the al-Hussein Mosque (whose shrine is believed to hold the head of Husayn ibn Ali), the Mausoleum of Imam al-Shafi'i (founder of the Shafi'i madhhab, one of the primary schools of thought in Sunni Islamic jurisprudence), the Tomb of Sayyida Ruqayya, the Mosque of Sayyida Nafisa, and others.[114]
 
 The first mosque in Egypt was the Mosque of Amr ibn al-As in what was formerly Fustat, the first Arab-Muslim settlement in the area. However, the Mosque of Ibn Tulun is the oldest mosque that still retains its original form and is a rare example of Abbasid architecture from the classical period of Islamic civilization. It was built in 876–879 AD in a style inspired by the Abbasid capital of Samarra in Iraq.[115] It is one of the largest mosques in Cairo and is often cited as one of the most beautiful.[116][117] Another Abbasid construction, the Nilometer on Rhoda Island, is the oldest original structure in Cairo, built in 862 AD. It was designed to measure the level of the Nile, which was important for agricultural and administrative purposes.[118]
 
@@ -295,7 +291,7 @@ File:Kairo Ibn Tulun Moschee BW 5.jpg|Ibn Tulun Mosque, courtyard and minaret Fi
 
 Citadel of Cairo
 
-Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_قلعة_صلاح_الدين_الأيوبي_ومسجد_محمد_علي_-_Cairo_-_Egypt_-_17_04_2010_(4).jpg, with the Mosque of Muhammad Ali.]] Kairo_Zitadelle_Muhammad-Ali-Moschee_02.jpg]]
+, with the Mosque of Muhammad Ali.]] ]]
 
 The Citadel is a fortified enclosure begun by Salah al-Din in 1176 AD on an outcrop of the Muqattam Hills as part of a large defensive system to protect both Cairo to the north and Fustat to the southwest.[125] It was the center of Egyptian government and residence of its rulers until 1874, when Khedive Isma'il moved to 'Abdin Palace.[126] It is still occupied by the military today, but is now open as a tourist attraction comprising, notably, the National Military Museum, the 14th century Mosque of al-Nasir Muhammad, and the 19th century Mosque of Muhammad Ali which commands a dominant position on Cairo's skyline.
 
@@ -308,11 +304,11 @@ Pollution
 
 Cairo is an expanding city, which has led to many environmental problems. The air pollution in Cairo is a matter of serious concern. Greater Cairo's volatile aromatic hydrocarbon levels are higher than many other similar cities.[130] Air quality measurements in Cairo have also been recording dangerous levels of lead, carbon dioxide, sulphur dioxide, and suspended particulate matter concentrations due to decades of unregulated vehicle emissions, urban industrial operations, and chaff and trash burning. There are over 4,500,000 cars on the streets of Cairo, 60% of which are over 10 years old, and therefore lack modern emission cutting features like catalytic converters. Cairo has a very poor dispersion factor because of its lack of rain and its layout of tall buildings and narrow streets, which create a bowl effect.[131]
 
-0021_Cairo_in_smog,_2010.JPG In recent years, a mysterious black cloud (as Egyptians refer to it) appeared over Cairo every autumn and causes serious respiratory diseases and eye irritations for the city's citizens. Tourists who are not familiar with such high levels of pollution must take extra care.[132]
+In recent years, a mysterious black cloud (as Egyptians refer to it) appeared over Cairo every autumn and causes serious respiratory diseases and eye irritations for the city's citizens. Tourists who are not familiar with such high levels of pollution must take extra care.[132]
 
 Cairo also has many unregistered lead and copper smelters which heavily pollute the city. The results of this has been a permanent haze over the city with particulate matter in the air reaching over three times normal levels. It is estimated that 10,000 to 25,000 people a year in Cairo die due to air pollution-related diseases. Lead has been shown to cause harm to the central nervous system and neurotoxicity particularly in children.[133] In 1995, the first environmental acts were introduced and the situation has seen some improvement with 36 air monitoring stations and emissions tests on cars. Twenty thousand buses have also been commissioned to the city to improve congestion levels, which are very high.
 
-The city also suffers from a high level of land pollution. Cairo produces 10,000 tons of waste material each day, 4,000 tons of which is not collected or managed. This once again is a huge health hazard and the Egyptian Government is looking for ways to combat this. The Cairo Cleaning and Beautification Agency was founded to collect and recycle the waste; however, they also work with the Zabbaleen (or Zabaleen), a community that has been collecting and recycling Cairo's waste since the turn of the 20th century and live in an area known locally as Manshiyat naser.[134] Both are working together to pick up as much waste as possible within the city limits, though it remains a pressing problem. Street_in_Cairo_-_panoramio_(1).jpg
+The city also suffers from a high level of land pollution. Cairo produces 10,000 tons of waste material each day, 4,000 tons of which is not collected or managed. This once again is a huge health hazard and the Egyptian Government is looking for ways to combat this. The Cairo Cleaning and Beautification Agency was founded to collect and recycle the waste; however, they also work with the Zabbaleen (or Zabaleen), a community that has been collecting and recycling Cairo's waste since the turn of the 20th century and live in an area known locally as Manshiyat naser.[134] Both are working together to pick up as much waste as possible within the city limits, though it remains a pressing problem.
 
 The city also suffers from water pollution as the sewer system tends to fail and overflow. On occasion, sewage has escaped onto the streets to create a health hazard. This problem is hoped to be solved by a new sewer system funded by the European Union, which could cope with the demand of the city. The dangerously high levels of mercury in the city's water system has global health officials concerned over related health risks.
 

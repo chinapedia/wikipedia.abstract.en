@@ -9,7 +9,7 @@ When first published, _Don Quixote_ was usually interpreted as a comic novel. Af
 
 Summary
 
-Don_Quijote_Illustration_by_Gustave_Dore_VII.jpg, depicting the famous windmill scene.]]
+, depicting the famous windmill scene.]]
 
 Cervantes wrote that the first chapters were taken from "the archives of La Mancha", and the rest were translated from an Arabic text by the Moorish author Cide Hamete Benengeli. This metafictional trick appears to give a greater credibility to the text, implying that Don Quixote is a real character and that the events related truly occurred several decades prior to the recording of this account. However, it was also common practice in that era for fictional works to make some pretense of being factual, such as the common opening line of fairy tales "Once upon a time in a land far away...".
 
@@ -35,8 +35,6 @@ After a short period of feigning health, Don Quixote requests his neighbour, San
 
 The two next encounter two Benedictine friars travelling on the road ahead of a lady in a carriage. The friars are not travelling with the lady, but happen to be travelling on the same road. Don Quixote takes the friars to be enchanters who hold the lady captive, knocks a friar from his horse, and is challenged by an armed Basque traveling with the company. As he has no shield, the Basque uses a pillow from the carriage to protect himself, which saves him when Don Quixote strikes him. Cervantes chooses this point, in the middle of the battle, to say that his source ends here. Soon, however, he resumes Don Quixote's adventures after a story about finding Arabic notebooks containing the rest of the story by Cid Hamet Ben Engeli. The combat ends with the lady leaving her carriage and commanding those traveling with her to "surrender" to Don Quixote.
 
-Quijote1y2.jpg
-
 The Pastoral Peregrinations (Chapters 11–15)
 
 Sancho and Don Quixote fall in with a group of goat herders. Don Quixote tells Sancho and the goat herders about the "Golden Age" of man, in which property does not exist and men live in peace. The goatherders invite the Knight and Sancho to the funeral of Grisóstomo, a former student who left his studies to become a shepherd after reading pastoral novels (paralleling Don Quixote's decision to become a knight), seeking the shepherdess Marcela. At the funeral Marcela appears, vindicating herself from the bitter verses written about her by Grisóstomo, and claiming her own autonomy and freedom from expectations put on her by pastoral clichés. She disappears into the woods, and Don Quixote and Sancho follow. Ultimately giving up, the two dismount by a pond to rest. Some Galicians arrive to water their ponies, and Rocinante (Don Quixote's horse) attempts to mate with the ponies. The Galicians hit Rocinante with clubs to dissuade him, whereupon Don Quixote tries to defend Rocinante. The Galicians beat Don Quixote and Sancho, leaving them in great pain.
@@ -47,7 +45,7 @@ After escaping the musketeers, Don Quixote and Sancho ride to a nearby inn. Once
 
 The galley slaves and Cardenio (Chapters 19–24)
 
-Don_Quijote_and_Sancho_Panza.jpg.]]
+.]]
 
 After Don Quixote has adventures involving a dead body, a helmet, and freeing a group of galley slaves, he and Sancho wander into the Sierra Morena and there encounter the dejected Cardenio. Cardenio relates the first part of his story, in which he falls deeply in love with his childhood friend Lucinda, and is hired as the companion to the Duke's son, leading to his friendship with the Duke's younger son, Don Fernando. Cardenio confides in Don Fernando his love for Lucinda and the delays in their engagement, caused by Cardenio's desire to keep with tradition. After reading Cardenio's poems praising Lucinda, Don Fernando falls in love with her. Don Quixote interrupts when Cardenio suggests that his beloved may have become unfaithful after the formulaic stories of spurned lovers in chivalric novels. They get into a fight, ending with Cardenio beating all of them and walking away to the mountains.
 
@@ -64,8 +62,6 @@ The ending (Chapters 45–52)
 An officer of the Santa Hermandad has a warrant for Quixote's arrest for freeing the galley slaves. The priest begs for the officer to have mercy on account of Quixote's insanity. The officer agrees, and Quixote is locked in a cage and made to think that it is an enchantment and that there is a prophecy of his heroic return home. While traveling, the group stops to eat and lets Quixote out of the cage; he gets into a fight with a goatherd and with a group of pilgrims, who beat him into submission, and he is finally brought home. The narrator ends the story by saying that he has found manuscripts of Quixote's further adventures.
 
 Part 2
-
-Don_Quixote_Illustration_I.jpg
 
 Although the two parts are now published as a single work, _Don Quixote, Part Two_ was a sequel published ten years after the original novel. While _Part One_ was mostly farcical, the second half is more serious and philosophical about the theme of deception.
 
@@ -93,7 +89,7 @@ Edith Grossman, who wrote and published a highly acclaimed English translation o
 
 Themes
 
-Don_Quichotte_Honoré_Daumier.jpg (1868)]]
+(1868)]]
 
 The novel's structure is episodic in form. The full title is indicative of the tale's object, as _ingenioso_ (Spanish) means "quick with inventiveness",[9] marking the transition of modern literature from dramatic to thematic unity. The novel takes place over a long period of time, including many adventures united by common themes of the nature of reality, reading, and dialogue in general.
 
@@ -130,7 +126,7 @@ The second part of Cervantes' _Don Quixote_, finished as a direct result of the 
 
 Other stories
 
-Don Quixote and Sancho Panza.]]
+.]]
 
 _Don Quixote, Part One_ contains a number of stories which do not directly involve the two main characters, but which are narrated by some of the picaresque figures encountered by the Don and Sancho during their travels. The longest and best known of these is "El Curioso Impertinente" (the impertinently curious man), found in Part One, Book Four. This story, read to a group of travelers at an inn, tells of a Florentine nobleman, Anselmo, who becomes obsessed with testing his wife's fidelity, and talks his close friend Lothario into attempting to seduce her, with disastrous results for all.
 
@@ -174,7 +170,7 @@ _La Mancha_ is a region of Spain, but _mancha_ (Spanish word) means spot, mark, 
 
 Publication
 
-Illustration_to_Don_Quixote_de_la_Mancha_by_Miguel_de_Cervantes.jpg Don_Quixote_attacking_a_puppet_theatre.jpg Bronze_statues_of_Don_Quixote_and_Sancho_Panza.jpg in Madrid.]] Don_Quixote_-_Engravings_by_Gustave_Doré.jpg
+in Madrid.]]
 
 In July 1604, Cervantes sold the rights of _El ingenioso hidalgo don Quixote de la Mancha_ (known as _Don Quixote, Part I_) to the publisher-bookseller Francisco de Robles for an unknown sum.[27] License to publish was granted in September, the printing was finished in December, and the book came out on 16 January 1605.[28][29]
 
@@ -188,7 +184,7 @@ In 1613, Cervantes published the _Novelas Ejemplares_, dedicated to the Maecenas
 
 English editions in translation
 
-Gustave_Doré_-_Miguel_de_Cervantes_-_Don_Quixote_-_Part_1_-_Chapter_1_-_Plate_1_"A_world_of_disorderly_notions,_picked_out_of_his_books,_crowded_into_his_imagination".jpg.]]
+.]]
 
 There are many translations of the book, and it has been adapted many times in shortened versions. Many derivative editions were also written at the time, as was the custom of envious or unscrupulous writers. Seven years after the _Parte Primera_ appeared, _Don Quixote_ had been translated into French, German, Italian, and English, with the first French translation of 'Part II' appearing in 1618, and the first English translation in 1620. One abridged adaptation, authored by Agustín Sánchez, runs slightly over 150 pages, cutting away about 750 pages.[38]
 

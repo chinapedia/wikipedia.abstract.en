@@ -25,7 +25,7 @@ The Public Cars (_Carros Públicos–Conchos_) are privately owned passenger car
 
 Railways
 
-Dominican_Republic_rail_map_1925.jpg Rail operations are provided by one state owned operator and several private operators (mainly for sugar mills):
+Rail operations are provided by one state owned operator and several private operators (mainly for sugar mills):
 
 -   Central Romana Railroad was established in 1911 in the sugarcane fields. The total length of the line is , being the standard gauge.
 -   The Dominican Republic Government Railway is a narrow gauge railway.
@@ -79,7 +79,7 @@ Boaters and sailors who wish to dock in any of DR's ports must follow certain en
 
 Airports
 
-AALB738STI.JPG at Cibao International Airport in Santiago, DR]]
+ at Cibao International Airport in Santiago, DR]]
 
 There are 7 major and 31 minor airports in the DR (2009):
 

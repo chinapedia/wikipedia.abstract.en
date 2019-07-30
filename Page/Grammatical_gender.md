@@ -12,7 +12,7 @@ Grammatical gender is found in many Indo-European languages (including Spanish, 
 
 Overview
 
-Gato_vs_gata,_illustration_of_grammatical_gender_in_Spanish.svg, determiners, adjectives, and pronouns change their form depending on the noun to which they refer. Spanish nouns have two genders: masculine and feminine, represented here by the nouns _gato_ and _gata_ respectively.]] In languages with grammatical gender, each noun is assigned to one of the classes called _genders_, which form a closed set. Most such languages usually have from two to four different genders, but some are attested with up to 20.[7][8][9]
+, determiners, adjectives, and pronouns change their form depending on the noun to which they refer. Spanish nouns have two genders: masculine and feminine, represented here by the nouns _gato_ and _gata_ respectively.]] In languages with grammatical gender, each noun is assigned to one of the classes called _genders_, which form a closed set. Most such languages usually have from two to four different genders, but some are attested with up to 20.[7][8][9]
 
 The division into genders usually correlates to some degree, at least for a certain set of nouns (such as those denoting humans), with some property or properties of the things that particular nouns denote. Such properties include animacy or inanimacy, "humanness" or non-humanness, and biological sex.
 
@@ -164,8 +164,6 @@ Although gender inflection may be used to construct nouns and names for people o
 
 Gender in personal names
 
-Spanish_names&nouns_ending_in_a_Statistics.png
-
 Given names are proper nouns and they follow the same gender grammatical rules as common nouns. In most Indo-European languages female grammatical gender is created using an “a” or an “e” ending.
 
 Classical Latin typically made a grammatical feminine gender in “a” (silva – forest, aqua – water) and this was reflected in feminine names originating in that period, like Emilia. Romance languages preserved this characteristic. For example, Spanish has approximately 89% feminine nouns with an “a” ending and 98% given names with the same ending.[22]
@@ -223,7 +221,7 @@ Classifiers can be considered similar to genders or noun classes, in that a lang
 
 Gender of pronouns
 
-Gender_in_Pronouns.png As noted above, pronouns may agree in gender with the noun or noun phrase to which they refer (their antecedent). Sometimes, however, there is no antecedent – the referent of the pronoun is deduced indirectly from the context. In such cases, the pronoun is likely to agree with the _natural gender_ of the referent. Examples of this can be in most European languages, including English (the personal pronouns _he_, _she_ and _it_ are used depending on whether the referent is male, female, or inanimate or non-human; this is in spite of the fact that English does not generally have grammatical gender). A parallel example is provided by the object suffixes of verbs in Arabic, which correspond to object pronouns, and which also inflect for gender in the second person (though not in the first):
+As noted above, pronouns may agree in gender with the noun or noun phrase to which they refer (their antecedent). Sometimes, however, there is no antecedent – the referent of the pronoun is deduced indirectly from the context. In such cases, the pronoun is likely to agree with the _natural gender_ of the referent. Examples of this can be in most European languages, including English (the personal pronouns _he_, _she_ and _it_ are used depending on whether the referent is male, female, or inanimate or non-human; this is in spite of the fact that English does not generally have grammatical gender). A parallel example is provided by the object suffixes of verbs in Arabic, which correspond to object pronouns, and which also inflect for gender in the second person (though not in the first):
 
 -   "I love you", said to a male: __ ()
 -   "I love you", said to a female: __ ()

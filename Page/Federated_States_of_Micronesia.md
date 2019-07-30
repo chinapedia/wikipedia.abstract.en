@@ -34,7 +34,7 @@ The president and vice president are supported by an appointed cabinet. There ar
 
 Defense and foreign affairs
 
-Two_Federated_States_of_Micronesia_Pacific_Forum_Patrol_Vessels,_moored_in_Pohnpei.jpg, to help it police its own Exclusive Economic Zone.]]
+, to help it police its own Exclusive Economic Zone.]]
 
 In international politics, the Federated States of Micronesia has often voted with the United States with respect to United Nations General Assembly resolutions.[2]
 
@@ -43,8 +43,6 @@ The FSM is a sovereign, self-governing state in free association with the United
 FSM has foreign relations with 56 countries, including the Holy See. FSM was admitted to the United Nations based on the Security Council's recommendation on August 9, 1991 in Resolution 703 and the General Assembly's approval on September 17, 1991 in Resolution 46/2.[4] The FSM is an active member of the Pacific Islands Forum.[5]
 
 Administrative divisions
-
-Map_of_the_Federated_States_of_Micronesia_CIA.jpg
 
 The four states in the federation are, from west to east:
 
@@ -76,7 +74,7 @@ Successive Spanish governments have not abandoned Spain's sovereignty, or insist
 
 Geography
 
-Koloniasokehs.jpg.]]
+.]]
 
 The Federated States of Micronesia consists of 607 islands extending across the archipelago of the Caroline Islands east of the Philippines. The islands have a combined area of .[14]
 
@@ -102,7 +100,7 @@ Society
 
 Demographics
 
-Ulithi-Dancers.jpg atoll.]] The indigenous population of the nation, which is predominantly Micronesian, consists of various ethnolinguistic groups. It has a nearly 100% Pacific Islander and Asian population: Chuukese 48.8%, Pohnpeian 24.2%, Kosraean 6.2%, Yapese 5.2%, Yap outer islands 4.5%, Asian 1.8%, Polynesian 1.5%, other 6.4%, unknown 1.4%. A sizeable minority also have some Japanese ancestry, which is a result of intermarriages between Japanese settlers and Micronesians during the Japanese colonial period.[22]
+atoll.]] The indigenous population of the nation, which is predominantly Micronesian, consists of various ethnolinguistic groups. It has a nearly 100% Pacific Islander and Asian population: Chuukese 48.8%, Pohnpeian 24.2%, Kosraean 6.2%, Yapese 5.2%, Yap outer islands 4.5%, Asian 1.8%, Polynesian 1.5%, other 6.4%, unknown 1.4%. A sizeable minority also have some Japanese ancestry, which is a result of intermarriages between Japanese settlers and Micronesians during the Japanese colonial period.[22]
 
 There is also a growing expatriate population of Americans, Australians, Europeans, and residents from China and the Philippines since the 1990s. English has become the common language of the government, and for secondary and tertiary education. Outside of the main capital towns of the four FSM states, the local languages are primarily spoken. Population growth remains high at more than 3% annually, offset somewhat by net emigration.
 
@@ -114,7 +112,7 @@ Other languages spoken in the country include Pingelapese, Ngatikese, Satawalese
 
 Religion
 
-Operation_Christmas_Drop_2008_081219-F-6911G-440.jpg every Christmas since 1952.]] Most Micronesians are Christian. Several Protestant denominations, as well as the Roman Catholic Church, are present in every Micronesian state.[26] Most Protestant groups trace their roots to American Congregationalist missionaries.[27] On the island of Kosrae, the population is approximately 7,800; 95 percent are Protestants.[28] On Pohnpei, the population of 35,000 is evenly divided between Protestants and Catholics. Most immigrants are Filipino Catholics who have joined local Catholic churches, e.g. Our Lady of Mercy Catholic Church in Pohnpei.[29][30]
+every Christmas since 1952.]] Most Micronesians are Christian. Several Protestant denominations, as well as the Roman Catholic Church, are present in every Micronesian state.[26] Most Protestant groups trace their roots to American Congregationalist missionaries.[27] On the island of Kosrae, the population is approximately 7,800; 95 percent are Protestants.[28] On Pohnpei, the population of 35,000 is evenly divided between Protestants and Catholics. Most immigrants are Filipino Catholics who have joined local Catholic churches, e.g. Our Lady of Mercy Catholic Church in Pohnpei.[29][30]
 
 On Chuuk and Yap, an estimated 60 percent are Catholic and 40 percent are Protestant.[31] Religious groups with small followings include Baptists, Assemblies of God, Salvation Army, Seventh-day Adventists, Jehovah's Witnesses, The Church of Jesus Christ of Latter-day Saints (Mormons), and the Bahá'í Faith.[32] There is a small group of Buddhists on Pohnpei,[33] and a small group of Ahmadiyya Muslims in Kosrae. Attendance at religious services is generally high; churches are well supported by their congregations and play a significant role in civil society.[34]
 
@@ -139,7 +137,7 @@ FSMAA
 
 The Federated States of Micronesia Athletic Association is the governing body for the country's sports and athletics.
 
-Yap_Stone_Money.jpg) in the village of Gachpar.]]
+) in the village of Gachpar.]]
 
 
 Culture

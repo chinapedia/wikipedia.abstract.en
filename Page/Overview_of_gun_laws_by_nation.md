@@ -9,8 +9,6 @@ The legislation which restricts small arms may also restrict other weapons, such
 
 Comparison
 
-POSSESSION OF FIREARMS BY PRIVATE CITIZENS:
-
 [TABLE]
 
 
@@ -92,7 +90,7 @@ Obtaining firearms in Panama requires a Firearms Possession Certificate, which r
 
 United States
 
-Concealed_carry_across_USA_by_county.svg by county ]] Open_Carrying_US_states_map.svg in the United States:|350x350px]] In the United States, gun laws are found in a number of federal statutes, enforced by the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF). The right to keep and bear arms is protected by the Second Amendment to the Constitution,[37] and most state constitutions also guarantee this right. There is some variance across the country as both federal and state laws apply to firearm possession and ownership.
+by county ]] in the United States:|350x350px]] In the United States, gun laws are found in a number of federal statutes, enforced by the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF). The right to keep and bear arms is protected by the Second Amendment to the Constitution,[37] and most state constitutions also guarantee this right. There is some variance across the country as both federal and state laws apply to firearm possession and ownership.
 
 Persons are generally prohibited from purchasing a firearm if:[38]
 
@@ -222,8 +220,6 @@ Firearms in Vietnam are restricted to law enforcement and military only, with po
 
 Europe
 
-Issuing of concealed carry permit in Europe (by country, 2019):
-
 Bosnia-Herzegovina
 
 The Federation of Bosnia-Herzegovina and Republika Srpska have relatively liberal weapon laws compared to the rest of Europe. Weapons are regulated by the Weapons and Ammunition Law.[100] People over 21 may apply for a permit. Those with a history of criminal activity, mental disorders, alcohol or drug abuse will be denied a permit. There is also a thorough background check, interviewing neighbors and family, and the applicant must complete a course and pass a multiple-choice exam. Police have the last word on the matter, with an appeal possible to a captain of police. Firearms must be kept in a "safe place" in a residence, and may be confiscated by police if the owner is found irresponsible. Concealed carry is allowed with a permit. Pepper spray may be carried by females if registered with police.
@@ -283,7 +279,7 @@ Foreigners have the right to purchase civilian weapons of ammunition and ammunit
 
 European Union
 
-Civilian_firearms_ownership_in_the_EU.png European Directive 91/477/EC sets minimum standards regarding civilian firearms acquisition and possession that EU Member States must implement into their national legal systems. The Member States are free to adopt more stringent rules, which leads to differences in the extent of legal access to firearms among EU countries.[121]
+European Directive 91/477/EC sets minimum standards regarding civilian firearms acquisition and possession that EU Member States must implement into their national legal systems. The Member States are free to adopt more stringent rules, which leads to differences in the extent of legal access to firearms among EU countries.[121]
 
 Austria
 

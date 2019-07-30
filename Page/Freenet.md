@@ -9,7 +9,7 @@ The origin of Freenet can be traced to Ian Clarke's student project at the Unive
 
 Researchers suggested that Freenet can provide anonymity on the Internet by storing small encrypted snippets of content distributed on the computers of its users and connecting only through intermediate computers which pass on requests for content and sending them back without knowing the contents of the full file, similar to how routers on the Internet route packets without knowing anything about files—except Freenet has caching, a layer of strong encryption, and no reliance on centralized structures.[16] This allows users to publish anonymously or retrieve various kinds of information.[17]
 
-freenet_darknet.png Freenet has been under continuous development since 2000.
+Freenet has been under continuous development since 2000.
 
 Freenet 0.7, released on 8 May 2008, is a major re-write incorporating a number of fundamental changes. The most fundamental change is support for darknet operation. Version 0.7 offered two modes of operation: a mode in which it connects only to friends, and an opennet-mode in which it connects to any other Freenet user. Both modes can be run simultaneously. When a user switches to pure darknet operation, Freenet becomes very difficult to detect from the outside. The transport layer created for the darknet mode allows communication over restricted routes as commonly found in mesh networks, as long as these connections follow a small-world structure.[18] Other modifications include switching from TCP to UDP, which allows UDP hole punching along with faster transmission of messages between peers in the network.[19]
 
@@ -77,8 +77,6 @@ Each node maintains a data store containing documents associated with keys, and 
 
 Protocol
 
-Freenet_Request_Sequence_ZP.svg
-
 The Freenet protocol uses a key-based routing protocol, similar to distributed hash tables. The routing algorithm changed significantly in version 0.7. Prior to version 0.7, Freenet used a heuristic routing algorithm where each node had no fixed location, and routing was based on which node had served a key closest to the key being fetched (in version 0.3) or which is estimated to serve it faster (in version 0.5). In either case, new connections were sometimes added to downstream nodes (i.e. the node that answered the request) when requests succeeded, and old nodes were discarded in least recently used order (or something close to it). Oskar Sandberg's research (during the development of version 0.7) shows that this "path folding" is critical, and that a very simple routing algorithm will suffice provided there is path folding.
 
 The disadvantage of this is that it is very easy for an attacker to find Freenet nodes, and connect to them, because every node is continually attempting to find new connections. In version 0.7, Freenet supports both 'Opennet' (similar to the old algorithms, but simpler), and "Darknet" (all node connections are set up manually, so only your friends know your node's IP address). Darknet is less convenient, but much more secure against a distant attacker.
@@ -91,7 +89,7 @@ Eventually, either the document is found or the hop limit is exceeded. The termi
 
 Effect
 
-Freenet_datastore_specialisation.ani.gif Initially, the locations in Darknet are distributed randomly. This means that routing of requests is essentially random. In Opennet connections are established by a join request which provides an optimized network structure if the existing network is already optimized.[31] So the data in a newly started Freenet will be distributed somewhat randomly.
+Initially, the locations in Darknet are distributed randomly. This means that routing of requests is essentially random. In Opennet connections are established by a join request which provides an optimized network structure if the existing network is already optimized.[31] So the data in a newly started Freenet will be distributed somewhat randomly.
 
 As location swapping (on Darknet) and path folding (on Opennet) progress, nodes which are close to one another will increasingly have close locations, and nodes which are far away will have distant locations. Data with similar keys will be stored on the same node.[32]
 
@@ -124,7 +122,7 @@ The core innovation in Freenet 0.7 is to allow a globally scalable darknet, capa
 
 Tools and applications
 
-frost_screenshot.png]]
+]]
 
 Unlike many other P2P applications Freenet does not provide comprehensive functionality itself. Freenet is modular and features an API called Freenet Client Protocol (FCP) for other programs to use to implement services such as message boards, file sharing, or online chat.[41]
 

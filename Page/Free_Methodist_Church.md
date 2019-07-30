@@ -1,11 +1,11 @@
-Free_Methodist_Hymnal,_ca_1908.jpg The FREE METHODIST CHURCH is a Methodist Christian denomination within the holiness movement. It is evangelical in nature and is Wesleyan-Arminian in theology.[1]
+The FREE METHODIST CHURCH is a Methodist Christian denomination within the holiness movement. It is evangelical in nature and is Wesleyan-Arminian in theology.[1]
 
 The Free Methodist Church has 77,000 members in the United States and 1,055,000 members worldwide[2] in 82 nations. The _Light & Life Magazine_ is their official publication.[3] The Free Methodist Church World Ministries Center is in Indianapolis, Indiana.
 
 
 History
 
-Free_Methodist_World_Ministries_Center.JPG The Free Methodist Church was organized at Pekin, New York, in 1860.[4] The founders had been members of the Methodist Episcopal Church but were excluded from its membership for too earnestly advocating what they saw as the doctrines and usages of authentic Wesleyan Methodism. Under the leadership of the Rev. Benjamin Titus (B. T.) Roberts, a graduate of Wesleyan University and an able and eloquent preacher, the movement spread rapidly. Societies were organized, churches built and the work established.[5]
+The Free Methodist Church was organized at Pekin, New York, in 1860.[4] The founders had been members of the Methodist Episcopal Church but were excluded from its membership for too earnestly advocating what they saw as the doctrines and usages of authentic Wesleyan Methodism. Under the leadership of the Rev. Benjamin Titus (B. T.) Roberts, a graduate of Wesleyan University and an able and eloquent preacher, the movement spread rapidly. Societies were organized, churches built and the work established.[5]
 
 At the 1910 session of the General Conference of the Methodist Church at Rochester, New York, a full acknowledgement was made of the wrong done to Roberts fifty years before, and the credentials unjustly taken from him were restored in a public meeting to his son, Rev. Benson Roberts.[6]
 
@@ -45,7 +45,7 @@ The Free Methodist Church's highest governing body is the World Conference,[21] 
 
 World missions
 
-Escuela_en_Gamonales_construida_por_la_Iglesia_metodista_libre_(1240169717)_Quesada,_Alajuela,_Costa_Rica.jpg in Costa Rica built by a local mission of the Free Methodist Church]]
+in Costa Rica built by a local mission of the Free Methodist Church]]
 
 International Child Care Ministries (ICCM), a child sponsorship initiative serves more than 21 000 children in 29 countries around the world. Through education, meals and medical care, children in need are given an opportunity for a better life. Each sponsored child is connected to a Free Methodist congregation or ministry at a local level.
 

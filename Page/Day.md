@@ -13,12 +13,10 @@ Day can be defined as each of the twenty-four-hour periods, reckoned from one mi
 -   7
 -   8 The word _day_ may also refer to a day of the week or to a calendar date, as in answer to the question, "On which day?" The life patterns (circadian rhythms) of humans and many other species are related to Earth's solar day and the day-night cycle.
 
-Daytime_image_of_the_bay_of_Naples.jpg
-
 
 Introduction
 
-Dagr_by_Arbo.jpg, the Norse god of the day, rides his horse in this 19th-century painting by Peter Nicolai Arbo.]]
+, the Norse god of the day, rides his horse in this 19th-century painting by Peter Nicolai Arbo.]]
 
 Apparent and mean solar day
 
@@ -94,7 +92,7 @@ Daytime
 
 Boundaries
 
-Sun_and_Moon_Nuremberg_chronicle.jpg and Moon, Hartmann Schedel's _Nuremberg Chronicle_, 1493]] For most diurnal animals, the day naturally begins at dawn and ends at sunset. Humans, with their cultural norms and scientific knowledge, have employed several different conceptions of the day's boundaries. Common convention among the ancient Romans,[20] ancient Chinese[21] and in modern times is for the civil day to begin at midnight, i.e. 00:00, and last a full 24 hours until 24:00 (i.e. 00:00 of the next day). In ancient Egypt, the day was reckoned from sunrise to sunrise. The Jewish day begins at either sunset or nightfall (when three second-magnitude stars appear).
+and Moon, Hartmann Schedel's _Nuremberg Chronicle_, 1493]] For most diurnal animals, the day naturally begins at dawn and ends at sunset. Humans, with their cultural norms and scientific knowledge, have employed several different conceptions of the day's boundaries. Common convention among the ancient Romans,[20] ancient Chinese[21] and in modern times is for the civil day to begin at midnight, i.e. 00:00, and last a full 24 hours until 24:00 (i.e. 00:00 of the next day). In ancient Egypt, the day was reckoned from sunrise to sunrise. The Jewish day begins at either sunset or nightfall (when three second-magnitude stars appear).
 
 Medieval Europe also followed this tradition, known as Florentine reckoning: in this system, a reference like "two hours into the day" meant _two hours after sunset_ and thus times during the evening need to be shifted back one calendar day in modern reckoning. Days such as Christmas Eve, Halloween, and the Eve of Saint Agnes are remnants of the older pattern when holidays began during the prior evening. Prior to 1926, Turkey had two time systems: Turkish (counting the hours from sunset) and French (counting the hours from midnight).
 
@@ -162,7 +160,7 @@ Day Category:Units of time Category:Orders of magnitude (time)
 
 [8]
 
-[9] The average over the last 50 years is about 86 400.002. The yearly average over that period has ranged between about 86 400 and 86 400.003, while the length of individual days has varied between about 86 399.999 and 86 400.004 seconds. See this graph: Deviation_of_day_length_from_SI_day.svg (data from ).
+[9] The average over the last 50 years is about 86 400.002. The yearly average over that period has ranged between about 86 400 and 86 400.003, while the length of individual days has varied between about 86 399.999 and 86 400.004 seconds. See this graph: (data from ).
 
 [10] L. Holford-Stevens, _The History of Time_ (Oxford 2005) p. 6
 

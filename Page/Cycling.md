@@ -1,4 +1,4 @@
-Vélocourse.jpg racing, 2009]] Police_cyclists_London_Olympic_Torch_Relay.jpg.]] Bicycling_Tamil_girl,_Batticaloa.JPG.]] Cycling_Amsterdan_04.jpg, safe from traffic.]] CYCLING, also called BIKING or BICYCLING, is the use of bicycles for transport, recreation, exercise or sport.[1] People engaged in cycling are referred to as "cyclists",[2] "bikers",[3] or less commonly, as "bicyclists".[4] Apart from two-wheeled bicycles, "cycling" also includes the riding of unicycles, tricycles, quadracycles, recumbent and similar human-powered vehicles (HPVs).
+racing, 2009]] .]] .]] , safe from traffic.]] CYCLING, also called BIKING or BICYCLING, is the use of bicycles for transport, recreation, exercise or sport.[1] People engaged in cycling are referred to as "cyclists",[2] "bikers",[3] or less commonly, as "bicyclists".[4] Apart from two-wheeled bicycles, "cycling" also includes the riding of unicycles, tricycles, quadracycles, recumbent and similar human-powered vehicles (HPVs).
 
 Bicycles were introduced in the 19th century and now number approximately one billion worldwide.[5] They are the principal means of transportation in many parts of the world.
 
@@ -16,7 +16,7 @@ Cycling quickly became an activity after bicycles were introduced in the 19th ce
 
 Equipment
 
-Cycling_in_Alabama.webm In many countries, the most commonly used vehicle for road transport is a utility bicycle. These have frames with relaxed geometry, protecting the rider from shocks of the road and easing steering at low speeds. Utility bicycles tend to be equipped with accessories such as mudguards, pannier racks and lights, which extends their usefulness on a daily basis. As the bicycle is so effective as a means of transportation various companies have developed methods of carrying anything from the weekly shop to children on bicycles. Certain countries rely heavily on bicycles and their culture has developed around the bicycle as a primary form of transport. In Europe, Denmark and the Netherlands have the most bicycles per capita and most often use bicycles for everyday transport.[11][12]
+In many countries, the most commonly used vehicle for road transport is a utility bicycle. These have frames with relaxed geometry, protecting the rider from shocks of the road and easing steering at low speeds. Utility bicycles tend to be equipped with accessories such as mudguards, pannier racks and lights, which extends their usefulness on a daily basis. As the bicycle is so effective as a means of transportation various companies have developed methods of carrying anything from the weekly shop to children on bicycles. Certain countries rely heavily on bicycles and their culture has developed around the bicycle as a primary form of transport. In Europe, Denmark and the Netherlands have the most bicycles per capita and most often use bicycles for everyday transport.[11][12]
 
 Road bikes tend to have a more upright shape and a shorter wheelbase, which make the bike more mobile but harder to ride slowly. The design, coupled with low or dropped handlebars, requires the rider to bend forward more, making use of stronger muscles (particularly the gluteus maximus) and reducing air resistance at high speed.
 
@@ -42,7 +42,7 @@ Beyond simply riding, another skill is riding efficiently and safely in traffic.
 
 Infrastructure
 
-Bicycle_Parking_Lot_Niigata.jpg, Japan.|alt=Hundreds of bicycles, grouped in rectangular parking places with driving paths in between.]] Cambridge_CMS_Bicycle_Racks.jpgs outside the Centre for Mathematical Sciences at the University of Cambridge. Many students at the university opt to travel by bicycle.]] Cyclists, pedestrians and motorists make different demands on road design which may lead to conflicts. Some jurisdictions give priority to motorized traffic, for example setting up one-way street systems, free-right turns, high capacity roundabouts, and slip roads. Others share priority with cyclists so as to encourage more cycling by applying varying combinations of traffic calming measures to limit the impact of motorized transport, and by building bike lanes, bike paths and cycle tracks.
+, Japan.|alt=Hundreds of bicycles, grouped in rectangular parking places with driving paths in between.]] s outside the Centre for Mathematical Sciences at the University of Cambridge. Many students at the university opt to travel by bicycle.]] Cyclists, pedestrians and motorists make different demands on road design which may lead to conflicts. Some jurisdictions give priority to motorized traffic, for example setting up one-way street systems, free-right turns, high capacity roundabouts, and slip roads. Others share priority with cyclists so as to encourage more cycling by applying varying combinations of traffic calming measures to limit the impact of motorized transport, and by building bike lanes, bike paths and cycle tracks.
 
 In jurisdictions where motor vehicles were given priority, cycling has tended to decline while in jurisdictions where cycling infrastructure was built, cycling rates have remained steady or increased[17]. Occasionally, extreme measures against cycling may occur. In Shanghai, where bicycles were once the dominant mode of transport, bicycle travel on a few city roads was banned temporarily in December 2003.[18]
 
@@ -54,7 +54,7 @@ Bicycles are considered a sustainable mode of transport, especially suited for u
 
 A number of cities, including Paris, London and Barcelona, now have successful bike hire schemes designed to help people cycle in the city. Typically these feature utilitarian city bikes which lock into docking stations, released on payment for set time periods. Costs vary from city to city. In London, initial hire access costs £2 per day. The first 30 minutes of each trip is free, with £2 for each additional 30 minutes until the bicycle is returned.[19]
 
-Utrecht-IMG_7481.JPG.]]
+.]]
 
 In the Netherlands, many roads have one or two separate cycleways alongside them, or cycle lanes marked on the road. On roads where adjacent bike paths or cycle tracks exist, the use of these facilities is compulsory, and cycling on the main carriageway is not permitted.[20] Some 35,000 km of cycle-track has been physically segregated from motor traffic,[21][22] equal to a quarter of the country's entire 140,000 km road network.[23]
 
@@ -63,7 +63,7 @@ Types
 
 Utility
 
-coconut_bunch.jpgs for sale. Karnataka, India.|alt=A bicycle loaded with so many green fruits that the rear wheel can not be seen.]]
+s for sale. Karnataka, India.|alt=A bicycle loaded with so many green fruits that the rear wheel can not be seen.]]
 
 Utility cycling refers both to cycling as a mode of daily commuting transport as well as the use of a bicycle in a commercial activity, mainly to transport goods, mostly accomplished in an urban environment.
 
@@ -77,7 +77,7 @@ Recreational
 
 Bicycle touring
 
-WhiteBikesVeluwe.jpg.|alt=A white bicycle parked in the grass.]] Bikes_in_Portland.jpg|alt=Many bicyclists with colorful clothes]]
+.|alt=A white bicycle parked in the grass.]] |alt=Many bicyclists with colorful clothes]]
 
 Bicycles are used for recreation at all ages. Bicycle touring, also known as cyclotourism, involves touring and exploration or sightseeing by bicycle for leisure. A brevet or randonnée is an organized long-distance ride.
 
@@ -89,7 +89,7 @@ Many cycling clubs hold organized rides in which bicyclists of all levels partic
 
 Most organized rides, for example cyclosportives (or gran fondos), Challenge Rides or reliability trials, and hill climbs include registration requirements and will provide information either through the mail or online concerning start times and other requirements. Rides usually consist of several different routes, sorted by mileage, and with a certain number of rest stops that usually include refreshments, first aid and maintenance tools. Routes can vary by as much as .
 
-Kluft-photo-2019-07-19-SJBP-regroup2a.jpg Some organized rides are entirely social events. One example is the monthly San Jose Bike Party which can reach attendance of one to two thousand riders in Summer months.
+Some organized rides are entirely social events. One example is the monthly San Jose Bike Party which can reach attendance of one to two thousand riders in Summer months.
 
 Mountain
 
@@ -101,7 +101,7 @@ The Marching and Cycling Band HHK from Haarlem (the Netherlands) is one of the f
 
 Racing
 
-Leon_Georget_1909.jpg Peloton_on_GGB.jpg of professional bicycle racers on the Golden Gate Bridge|alt=A group of bicyclist following a car.]]
+of professional bicycle racers on the Golden Gate Bridge|alt=A group of bicyclist following a car.]]
 
 Shortly after the introduction of bicycles, competitions developed independently in many parts of the world. Early races involving boneshaker style bicycles were predictably fraught with injuries. Large races became popular during the 1890s "Golden Age of Cycling", with events across Europe, and in the U.S. and Japan as well. At one point, almost every major city in the US had a velodrome or two for track racing events, however since the middle of the 20th century cycling has become a minority sport in the US whilst in Continental Europe it continues to be a major sport, particularly in the United Kingdom, France, Belgium, Italy and Spain. The most famous of all bicycle races is the Tour de France. This began in 1903, and continues to capture the attention of the sporting world.
 
@@ -124,7 +124,7 @@ Activism
 
 Two broad and correlated themes run in bicycle activism: one is about advocating the bicycle as an alternative mode of transport, and the other is about the creation of conditions to permit and/or encourage bicycle use, both for utility and recreational cycling.[28] Although the first, which emphasizes the potential for energy and resource conservation and health benefits gained from cycling versus automobile use, is relatively undisputed, the second is the subject of much debate.
 
-Critical_Mass,_San_Francisco,_April_29,_2005.jpg, April 29, 2005.|alt=Many cyclists on a road, all going in the same direction.]]
+, April 29, 2005.|alt=Many cyclists on a road, all going in the same direction.]]
 
 It is generally agreed that improved local and inter-city rail services and other methods of mass transportation (including greater provision for cycle carriage on such services) create conditions to encourage bicycle use. However, there are different opinions on the role of various types of cycling infrastructure in building bicycle-friendly cities and roads.
 
@@ -137,7 +137,7 @@ There is a long-running cycle helmet debate among activists. The most heated con
 
 Associations
 
-World_Cycling_Centre_-_Aigle_Switzerland.jpg in Switzerland]] Cyclists form associations, both for specific interests (trails development, road maintenance, bike maintenance, urban design, racing clubs, touring clubs, etc.) and for more global goals (energy conservation, pollution reduction, promotion of fitness). Some bicycle clubs and national associations became prominent advocates for improvements to roads and highways. In the United States, the League of American Wheelmen lobbied for the improvement of roads in the last part of the 19th century, founding and leading the national Good Roads Movement. Their model for political organization, as well as the paved roads for which they argued, facilitated the growth of the automobile.
+in Switzerland]] Cyclists form associations, both for specific interests (trails development, road maintenance, bike maintenance, urban design, racing clubs, touring clubs, etc.) and for more global goals (energy conservation, pollution reduction, promotion of fitness). Some bicycle clubs and national associations became prominent advocates for improvements to roads and highways. In the United States, the League of American Wheelmen lobbied for the improvement of roads in the last part of the 19th century, founding and leading the national Good Roads Movement. Their model for political organization, as well as the paved roads for which they argued, facilitated the growth of the automobile.
 
 As a sport, cycling is governed internationally by the Union Cycliste Internationale in Switzerland, USA Cycling (merged with the United States Cycling Federation in 1995) in the United States, (for upright bicycles) and by the International Human Powered Vehicle Association (for other HPVs, or human-powered vehicles). Cycling for transport and touring is promoted on a European level by the European Cyclists' Federation, with associated members from Great Britain, Japan and elsewhere. Regular conferences on cycling as transport are held under the auspices of Velo City; global conferences are coordinated by Velo Mondial.[29]
 
@@ -148,13 +148,13 @@ The health benefits of cycling outweigh the risks, when cycling is compared to a
 
 Exercise
 
-Cyclist-189.JPG The physical exercise gained from cycling is generally linked with increased health and well-being. According to the World Health Organization, physical inactivity is second only to tobacco smoking as a health risk in developed countries,[34] and this is associated with many tens of billions of dollars of healthcare costs.[35] The WHO's report[36] suggests that increasing physical activity is a public health 'best buy', and that cycling is a 'highly suitable activity' for this purpose. The charity Sustrans reports that investment in cycling provision can give a 20:1 return from health and other benefits.[37] It has been estimated that, on average, approximately 20 life-years are gained from the health benefits of road bicycling for every life-year lost through injury.[38]
+The physical exercise gained from cycling is generally linked with increased health and well-being. According to the World Health Organization, physical inactivity is second only to tobacco smoking as a health risk in developed countries,[34] and this is associated with many tens of billions of dollars of healthcare costs.[35] The WHO's report[36] suggests that increasing physical activity is a public health 'best buy', and that cycling is a 'highly suitable activity' for this purpose. The charity Sustrans reports that investment in cycling provision can give a 20:1 return from health and other benefits.[37] It has been estimated that, on average, approximately 20 life-years are gained from the health benefits of road bicycling for every life-year lost through injury.[38]
 
 Bicycles are often used by people seeking to improve their fitness and cardiovascular health. In this regard, cycling is especially helpful for those with arthritis of the lower limbs who are unable to pursue sports that cause impact to the knees and other joints. Since cycling can be used for the practical purpose of transportation, there can be less need for self-discipline to exercise.
 
 Cycling while seated is a relatively non-weight bearing exercise that, like swimming, does little to promote bone density.[39] Cycling up and out of the saddle, on the other hand, does a better job by transferring more of the rider's body weight to the legs. However, excessive cycling while standing can cause knee damage[40] It used to be thought that cycling while standing was less energy efficient, but recent research has proven this not to be true. Other than air resistance, there is no wasted energy from cycling while standing, if it is done correctly.[41]
 
-Cycling on a stationary cycle is frequently advocated as a suitable exercise for rehabilitation, particularly for lower limb injury, owing to the low impact which it has on the joints. In particular, cycling is commonly used within knee rehabilitation programs. Bike_at_Prins_hendrikkade_Amsterdam_centraal.JPG.]]
+Cycling on a stationary cycle is frequently advocated as a suitable exercise for rehabilitation, particularly for lower limb injury, owing to the low impact which it has on the joints. In particular, cycling is commonly used within knee rehabilitation programs. .]]
 
 As a response to the increased global sedentarity and consequent overweight and obesity, one response that has been adopted by many organizations concerned with health and environment is the promotion of Active travel, which seeks to promote walking and cycling as safe and attractive alternatives to motorized transport. Given that many journeys are for relatively short distances, there is considerable scope to replace car use with walking or cycling, though in many settings this may require some infrastructure modification, particularly to attract the less experienced and confident.
 
@@ -162,7 +162,7 @@ Illinois designated cycling as its official state exercise in 2007.[42]
 
 Bicycle safety
 
-Santa-Maria-Patroness-of-bicyclists-4606.jpg venerated as the holy protector of bicyclists on the roads of the mountainous Basque Country|alt=A statue, covered with flowers.]] Cycling suffers from a perception that it is unsafe.[43][44] This perception is not always backed by hard numbers, because of under reporting of accidents and lack of bicycle use data (amount of cycling, kilometers cycled) which make it hard to assess the risk and monitor changes in risks.[45] In the UK, fatality rates per mile or kilometre are slightly less than those for walking.[46] In the US, bicycling fatality rates are less than 2/3 of those walking the same distance.[47][48] However, in the UK for example the fatality and serious injury rates _per hour of travel_ are just over double for cycling than those for walking.[49] Thus if a person is, for example, about to undertake a ten kilometre journey to a given destination it may on average be safer to undertake this journey by bicycle than on foot. However, if a person is intending, for example, to undertake an hour's exercise it may be more dangerous to take that exercise by cycling rather than by walking.
+venerated as the holy protector of bicyclists on the roads of the mountainous Basque Country|alt=A statue, covered with flowers.]] Cycling suffers from a perception that it is unsafe.[43][44] This perception is not always backed by hard numbers, because of under reporting of accidents and lack of bicycle use data (amount of cycling, kilometers cycled) which make it hard to assess the risk and monitor changes in risks.[45] In the UK, fatality rates per mile or kilometre are slightly less than those for walking.[46] In the US, bicycling fatality rates are less than 2/3 of those walking the same distance.[47][48] However, in the UK for example the fatality and serious injury rates _per hour of travel_ are just over double for cycling than those for walking.[49] Thus if a person is, for example, about to undertake a ten kilometre journey to a given destination it may on average be safer to undertake this journey by bicycle than on foot. However, if a person is intending, for example, to undertake an hour's exercise it may be more dangerous to take that exercise by cycling rather than by walking.
 
 Despite the risk factors associated with bicycling, cyclists have a lower overall mortality rate when compared to other groups. A Danish study in 2000 found that even after adjustment for other risk factors, including leisure time physical activity, those who did not cycle to work experienced a 39% higher mortality rate than those who did.[50]
 
@@ -177,7 +177,7 @@ Acute physical trauma includes injuries to the head and extremities resulting fr
 
 Although a majority of bicycle collisions occur during the day,[56] bicycle lighting is recommended for safety when bicycling at night to increase visibility.[57]
 
-Taiwan_2009_HuaLien_Taroko_Gorge_Biking_FRD_5416_Pano_Extracted.jpg in Taiwan]] Bicycles_and_winter.jpg (Finland)]]
+in Taiwan]] (Finland)]]
 
 Overuse injuries
 

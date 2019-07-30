@@ -19,12 +19,12 @@ In the 1948 national elections, the National Party won on a platform of _aparthe
 
 School students from Langa, Gugulethu and Nyanga in Cape Town reacted to the news of protests against Bantu Education in Soweto in June 1976 and organised gatherings and marches which were met with resistance from the police. A number of school buildings were burnt down.[17][18]
 
-St_George's_Cathedral_Cape_Town_04.JPG known as the "people's cathedral was built in 1901.]] Cape Town was home to many leaders of the anti-apartheid movement. On Robben Island, a former penitentiary island from the city, many famous political prisoners were held for years. In one of the most famous moments marking the end of apartheid, Nelson Mandela made his first public speech since his imprisonment, from the balcony of Cape Town City Hall hours after being released on 11 February 1990. His speech heralded the beginning of a new era for the country, and the first democratic election, was held four years later, on 27 April 1994. Nobel Square in the Victoria & Alfred Waterfront features statues of South Africa's four Nobel Peace Prize winners: Albert Luthuli, Desmond Tutu, F. W. de Klerk and Nelson Mandela. Since 1994, the city has struggled with problems such as drugs, a surge in violent drug-related crime and more recently gang violence. In the Cape Flats alone, there are approximately 100,000 people in over 130 different gangs in 2018. While there are some alliances, this multitude and division is also cause for conflict between groups.[19] At the same time, the economy has surged to unprecedented levels due to the boom in the tourism and the real estate industries. With a Gini coefficient of 0.58,[20] Cape Town has the lowest inequality rate in South Africa.[21]
+known as the "people's cathedral was built in 1901.]] Cape Town was home to many leaders of the anti-apartheid movement. On Robben Island, a former penitentiary island from the city, many famous political prisoners were held for years. In one of the most famous moments marking the end of apartheid, Nelson Mandela made his first public speech since his imprisonment, from the balcony of Cape Town City Hall hours after being released on 11 February 1990. His speech heralded the beginning of a new era for the country, and the first democratic election, was held four years later, on 27 April 1994. Nobel Square in the Victoria & Alfred Waterfront features statues of South Africa's four Nobel Peace Prize winners: Albert Luthuli, Desmond Tutu, F. W. de Klerk and Nelson Mandela. Since 1994, the city has struggled with problems such as drugs, a surge in violent drug-related crime and more recently gang violence. In the Cape Flats alone, there are approximately 100,000 people in over 130 different gangs in 2018. While there are some alliances, this multitude and division is also cause for conflict between groups.[19] At the same time, the economy has surged to unprecedented levels due to the boom in the tourism and the real estate industries. With a Gini coefficient of 0.58,[20] Cape Town has the lowest inequality rate in South Africa.[21]
 
 
 Geography
 
-Ciudad_del_Cabo_desde_Cabeza_de_León,_Sudáfrica,_2018-07-22,_DD_20-23_PAN.jpg" viewed from Lion's Head in May (late autumn)]] Cape_Town_-_Planet_Imagery.jpg
+" viewed from Lion's Head in May (late autumn)]]
 
 Cape Town is located at latitude 33.55° S (approx. the same as Sydney and Buenos Aires and equivalent to Casablanca and Los Angeles in the northern hemisphere) and longitude 18.25° E. Table Mountain, with its near vertical cliffs and flat-topped summit over high, and with Devil's Peak and Lion's Head on either side, together form a dramatic mountainous backdrop enclosing the central area of Cape Town, the so-called City Bowl. A thin strip of cloud, known colloquially as the "tablecloth", sometimes forms on top of the mountain. To the immediate south, the Cape Peninsula is a scenic mountainous spine jutting southwards into the Atlantic Ocean and terminating at Cape Point. There are over 70 peaks above within Cape Town's official city limits. Many of the city's suburbs lie on the large plain called the Cape Flats, which extends over to the east and joins the peninsula to the mainland. The Cape Town region is characterised by an extensive coastline, rugged mountain ranges, coastal plains, inland valleys and semi-desert fringes.
 
@@ -42,7 +42,7 @@ Water temperatures range greatly, between on the Atlantic Seaboard, to over in F
 
 Flora and fauna
 
-Peninsula_Sandstone_Fynbos_-_Cape_Town_8.JPG growing in Table Mountain National Park.]]
+growing in Table Mountain National Park.]]
 
 Located in a CI Biodiversity hotspot as well as the unique Cape Floristic Region, the city of Cape Town has one of the highest levels of biodiversity of any equivalent area in the world.[28] These protected areas are a World Heritage Site, and an estimated 2,200 species of plants are confined to Table Mountain – more than exist in the whole of the United Kingdom which has 1200 plant species and 67 endemic plant species.[29][30][31] Many of these species, including a great many types of proteas, are endemic to the mountain and can be found nowhere else.[32]
 
@@ -55,11 +55,11 @@ Unfortunately, rapid population growth and urban sprawl has covered much of thes
 
 Suburbs
 
-Table_Mountain_Cape_Town_South_Africa_19Mar2018_SkySat.jpg Cape Town's urban geography is influenced by the contours of Table Mountain, its surrounding peaks, the Durbanville Hills, and the expansive lowland region known as the Cape Flats. These geographic features in part divide the city into several commonly known groupings of suburbs (equivalent to districts outside South Africa), many of which developed historically together and share common attributes of language and culture.
+Cape Town's urban geography is influenced by the contours of Table Mountain, its surrounding peaks, the Durbanville Hills, and the expansive lowland region known as the Cape Flats. These geographic features in part divide the city into several commonly known groupings of suburbs (equivalent to districts outside South Africa), many of which developed historically together and share common attributes of language and culture.
 
 City Bowl
 
-Cape_Town_City_Aerial.jpg taken from above Signal Hill looking north.]]
+taken from above Signal Hill looking north.]]
 
 The City Bowl is a natural amphitheatre-shaped area bordered by Table Bay and defined by the mountains of Signal Hill, Lion's Head, Table Mountain and Devil's Peak.
 
@@ -69,7 +69,7 @@ The Foreshore Freeway Bridge has stood in its unfinished state since constructio
 
 Atlantic Seaboard
 
-CampsBayFromLionsHead.jpg viewed from Lion's Head]] Hout_Bay_panorama.jpg from Chapman's Peak, with Chapman's Peak Drive visible at the base of the mountain]]
+viewed from Lion's Head]] from Chapman's Peak, with Chapman's Peak Drive visible at the base of the mountain]]
 
 The Atlantic Seaboard lies west of the City Bowl and Table Mountain, and is characterised by its beaches, cliffs, promenade and hillside communities. The area includes, from north to south, the neighbourhoods of Green Point, Mouille Point, Three Anchor Bay, Sea Point, Fresnaye, Bantry Bay, Clifton, Camps Bay, Llandudno, and Hout Bay. The Atlantic Seaboard has some of the most expensive real estate in South Africa particularly on Nettleton and Clifton Roads in Clifton, Ocean View Drive and St Leon Avenue in Bantry Bay, Theresa Avenue in Bakoven and Fishermans Bend in Llandudno. Camps Bay is home to the highest concentration of multimillionaires in Cape Town and has the highest number of high-priced mansions in South Africa with more than 155 residential units exceeding R20 million (or $US1.8 million). [37]
 
@@ -87,7 +87,7 @@ The Southern Suburbs lie along the eastern slopes of Table Mountain, southeast o
 
 South Peninsula
 
-Simonstown.jpg]] Lonely_Wave.jpg ]] The South Peninsula is generally regarded as the area south of Muizenberg on False Bay and Noordhoek on the Atlantic Ocean, all the way to Cape Point. Until recently, this predominantly English-speaking area was quite rural, however the population of the area is growing quickly as new coastal developments proliferate and larger plots are subdivided to provide more compact housing. It includes Capri Village, Clovelly, Fish Hoek, Glencairn, Kalk Bay, Kommetjie, Masiphumelele, Muizenberg, Noordhoek, Ocean View, Scarborough, Simon's Town, St James, Sunnydale and Sun Valley. South Africa's largest naval base is located at Simon's Town harbour, and close by is Boulders Beach, the site of a large colony of African penguins.[41]
+]] ]] The South Peninsula is generally regarded as the area south of Muizenberg on False Bay and Noordhoek on the Atlantic Ocean, all the way to Cape Point. Until recently, this predominantly English-speaking area was quite rural, however the population of the area is growing quickly as new coastal developments proliferate and larger plots are subdivided to provide more compact housing. It includes Capri Village, Clovelly, Fish Hoek, Glencairn, Kalk Bay, Kommetjie, Masiphumelele, Muizenberg, Noordhoek, Ocean View, Scarborough, Simon's Town, St James, Sunnydale and Sun Valley. South Africa's largest naval base is located at Simon's Town harbour, and close by is Boulders Beach, the site of a large colony of African penguins.[41]
 
 Eastern Suburbs
 
@@ -106,14 +106,12 @@ The Helderberg consists of Somerset West, Strand, Gordons Bay and a few other su
 
 Government
 
-Dan_Plato.jpeg]] CT_City_Hall_Before_the_Sun.jpg as seen from the Grand Parade in front of the building. Table Mountain is visible in the background.]] Cape Town is governed by a 231-member city council elected in a system of mixed-member proportional representation. The city is divided into 116 wards, each of which elects a councillor by first-past-the-post voting. The remaining 115 councillors are elected from party lists so that the total number of councillors for each party is proportional to the number of votes received by that party.
+]] as seen from the Grand Parade in front of the building. Table Mountain is visible in the background.]] Cape Town is governed by a 231-member city council elected in a system of mixed-member proportional representation. The city is divided into 116 wards, each of which elects a councillor by first-past-the-post voting. The remaining 115 councillors are elected from party lists so that the total number of councillors for each party is proportional to the number of votes received by that party.
 
 In the local government elections of 3 August 2016, the Democratic Alliance (DA) won an outright majority, taking 154 of the 231 council seats. The African National Congress, the national ruling party, received 57 seats.[42] As a result of this victory, Patricia de Lille of the Democratic Alliance was re-elected to a second term as Executive Mayor. However, De Lille resigned as Mayor on 31 October 2018. The Democratic Alliance designated Dan Plato as their candidate to replace her.
 
 
 Demographics
-
-Population density in Cape Town Geographical distribution of home languages in Cape Town (2011)
 
 According to the South African National Census of 2011, the population of the City of Cape Town metropolitan municipalityan area that includes suburbs and exurbs not always considered as part of Cape Townis 3,740,026 people. This represents an annual growth rate of 2.6% compared to the results of the previous census in 2001 which found a population of 2,892,243 people.[43] The sex ratio is 96, meaning that there are slightly more women than men.[44] 42.4% of the population described themselves as "Coloured", 32.3% as "White", 15.8% as "Black African", 1.4% as "Indian or Asian"[45]and 1.9 as "Other".
 
@@ -128,7 +126,7 @@ There are 1,068,573 households in the municipality, giving an average household 
 
 Economy
 
-Cape_Town_International_Convention_Centre.jpg]] Cape Town is the economic hub of the Western Cape Province, South Africa's second main economic centre and Africa's third main economic hub city. It serves as the regional manufacturing centre in the Western Cape. In 2011 the city's GDP was US$56.8 billion with a GDP per capita of US$15,721.[59] In the five years preceding 2014 Cape Town GDP grew at an average of 3.7% a year. As a proportion of GDP, the agriculture and manufacturing sectors have declined whilst finance, business services, transport and logistics have grown reflecting the growth in specialised services sectors of the local economy. Fishing, clothing and textiles, wood product manufacturing, electronics, furniture, hospitality, finance and business services are industries in which Cape Town's economy has the largest comparative advantage.[60]
+]] Cape Town is the economic hub of the Western Cape Province, South Africa's second main economic centre and Africa's third main economic hub city. It serves as the regional manufacturing centre in the Western Cape. In 2011 the city's GDP was US$56.8 billion with a GDP per capita of US$15,721.[59] In the five years preceding 2014 Cape Town GDP grew at an average of 3.7% a year. As a proportion of GDP, the agriculture and manufacturing sectors have declined whilst finance, business services, transport and logistics have grown reflecting the growth in specialised services sectors of the local economy. Fishing, clothing and textiles, wood product manufacturing, electronics, furniture, hospitality, finance and business services are industries in which Cape Town's economy has the largest comparative advantage.[60]
 
 Between 2001 and 2010 the city's Gini coefficient, a measure of inequality, improved by dropping from 0.59 in 2007 to 0.57 in 2010[61] only to increase to 0.58 by 2017.[62] The city has the lowest rate of inequality in South Africa.[63]
 
@@ -149,9 +147,9 @@ Nature and wildlife
 
 Cape Town is not only a popular international tourist destination in South Africa, but Africa as a whole. This is due to its mild climate, natural setting, and well-developed infrastructure. The city has several well-known natural features that attract tourists, most notably Table Mountain,[74] which forms a large part of the Table Mountain National Park and is the back end of the City Bowl. Reaching the top of the mountain can be achieved either by hiking up, or by taking the Table Mountain Cableway. Cape Point is recognised as the dramatic headland at the end of the Cape Peninsula.[75] Many tourists also drive along Chapman's Peak Drive, a narrow road that links Noordhoek with Hout Bay, for the views of the Atlantic Ocean and nearby mountains. It is possible to either drive or hike up Signal Hill for closer views of the City Bowl and Table Mountain.[76]
 
-Clifton_Beachs.jpg is one of Cape Town's most famous beaches and is a significant tourist destination in its own right.]] Many tourists also visit Cape Town's beaches, which are popular with local residents.[77] Due to the city's unique geography, it is possible to visit several different beaches in the same day, each with a different setting and atmosphere. Though the Cape's water ranges from cold to mild, the difference between the two sides of the city is dramatic. While the Atlantic Seaboard averages annual water temperatures barely above that of coastal California around , the False Bay coast is much warmer, averaging between annually. This is similar to water temperatures in much of the Northern Mediterranean (for example Nice). In summer, False Bay water averages slightly over , with a common high. Beaches located on the Atlantic Coast tend to have very cold water due to the Benguela current which originates from the Southern Ocean, whilst the water at False Bay beaches may be warmer by up to at the same moment due to the influence of the warm Agulhas current.[78] It is a common misconception that False Bay is part of the Indian Ocean, with Cape Point being both the meeting point of the Indian and Atlantic Oceans, and the southernmost tip of Africa. The oceans in fact meet at the actual southernmost tip, Cape Agulhas, which lies approximately to the south east. The misconception is fuelled by the relative warmth of the False Bay water to the Atlantic Seaboard water, and the many confusing instances of "Two Oceans" in names synonymous with Cape Town, such as the Two Oceans Marathon, the Two Oceans Aquarium, and places such as Two Oceans wine farm.
+is one of Cape Town's most famous beaches and is a significant tourist destination in its own right.]] Many tourists also visit Cape Town's beaches, which are popular with local residents.[77] Due to the city's unique geography, it is possible to visit several different beaches in the same day, each with a different setting and atmosphere. Though the Cape's water ranges from cold to mild, the difference between the two sides of the city is dramatic. While the Atlantic Seaboard averages annual water temperatures barely above that of coastal California around , the False Bay coast is much warmer, averaging between annually. This is similar to water temperatures in much of the Northern Mediterranean (for example Nice). In summer, False Bay water averages slightly over , with a common high. Beaches located on the Atlantic Coast tend to have very cold water due to the Benguela current which originates from the Southern Ocean, whilst the water at False Bay beaches may be warmer by up to at the same moment due to the influence of the warm Agulhas current.[78] It is a common misconception that False Bay is part of the Indian Ocean, with Cape Point being both the meeting point of the Indian and Atlantic Oceans, and the southernmost tip of Africa. The oceans in fact meet at the actual southernmost tip, Cape Agulhas, which lies approximately to the south east. The misconception is fuelled by the relative warmth of the False Bay water to the Atlantic Seaboard water, and the many confusing instances of "Two Oceans" in names synonymous with Cape Town, such as the Two Oceans Marathon, the Two Oceans Aquarium, and places such as Two Oceans wine farm.
 
-Boulders_Beach_Suedafrika.jpgs at Boulders Penguin Colony]] Both coasts are equally popular, although the beaches in affluent Clifton and elsewhere on the Atlantic Coast are better developed with restaurants and cafés, with a strip of restaurants and bars accessible to the beach at Camps Bay. The Atlantic seaboard, known as Cape Town's Riviera, is regarded as one of the most scenic routes in South Africa, along the slopes of the Twelve Apostles to the boulders and white sand beaches of Llandudno, which the route ending in Hout Bay, a diverse bustling suburb with a harbour and a seal island. This fishing village is flanked by the Constantia valley and the picturesque Chapman's Peak drive. Boulders Beach near Simon's Town is known for its colony of African penguins.[79] Surfing is popular and the city hosts the Red Bull Big Wave Africa surfing competition every year.
+s at Boulders Penguin Colony]] Both coasts are equally popular, although the beaches in affluent Clifton and elsewhere on the Atlantic Coast are better developed with restaurants and cafés, with a strip of restaurants and bars accessible to the beach at Camps Bay. The Atlantic seaboard, known as Cape Town's Riviera, is regarded as one of the most scenic routes in South Africa, along the slopes of the Twelve Apostles to the boulders and white sand beaches of Llandudno, which the route ending in Hout Bay, a diverse bustling suburb with a harbour and a seal island. This fishing village is flanked by the Constantia valley and the picturesque Chapman's Peak drive. Boulders Beach near Simon's Town is known for its colony of African penguins.[79] Surfing is popular and the city hosts the Red Bull Big Wave Africa surfing competition every year.
 
 The city has several notable cultural attractions. The Victoria & Alfred Waterfront, built on top of part of the docks of the Port of Cape Town, is the city's most visited tourist attraction. It is also one of the city's most popular shopping venues, with several hundred shops and the Two Oceans Aquarium.[80][81] The V&A also hosts the Nelson Mandela Gateway, through which ferries depart for Robben Island.[82] It is possible to take a ferry from the V&A to Hout Bay, Simon's Town and the Cape fur seal colonies on Seal and Duiker Islands. Several companies offer tours of the Cape Flats, a mostly Coloured township, and Khayelitsha, a mostly black township.[83]
 
@@ -168,7 +166,7 @@ Culture
 
 File:Artscape Theatre Centre, Cape Town (2017).jpg|Artscape Theatre Centre at Foreshore. File:Cape Town Bo-Kaap city street.jpg|The distinctive Cape Malay Bo-Kaap is one of the most visited areas in Cape Town. File:MostertsMill.jpg|Mostert's Mill File:ZA-CA-Groote Kerk.jpg|Groote Kerk, Cape Town
 
-Cape Town is noted for its architectural heritage, with the highest density of Cape Dutch style buildings in the world. Cape Dutch style, which combines the architectural traditions of the Netherlands, Germany, France and Indonesia, is most visible in Constantia, the old government buildings in the Central Business District, and along Long Street.[89][90] The annual Cape Town Minstrel Carnival, also known by its Afrikaans name of _Kaapse Klopse_, is a large minstrel festival held annually on 2 January or _"Tweede Nuwe Jaar"_ (Afrikaans: Second New Year). Competing teams of minstrels parade in brightly coloured costumes, performing Cape Jazz, either carrying colourful umbrellas or playing an array of musical instruments. The Artscape Theatre Centre is the largest performing arts venue in Cape Town.[91] Holi_One_We_Are_One_Colour_Festival_South_Africa_2013.jpg festival at the Grand Parade]]
+Cape Town is noted for its architectural heritage, with the highest density of Cape Dutch style buildings in the world. Cape Dutch style, which combines the architectural traditions of the Netherlands, Germany, France and Indonesia, is most visible in Constantia, the old government buildings in the Central Business District, and along Long Street.[89][90] The annual Cape Town Minstrel Carnival, also known by its Afrikaans name of _Kaapse Klopse_, is a large minstrel festival held annually on 2 January or _"Tweede Nuwe Jaar"_ (Afrikaans: Second New Year). Competing teams of minstrels parade in brightly coloured costumes, performing Cape Jazz, either carrying colourful umbrellas or playing an array of musical instruments. The Artscape Theatre Centre is the largest performing arts venue in Cape Town.[91] festival at the Grand Parade]]
 
 The city also encloses the 36 hectare Kirstenbosch National Botanical Garden that contains protected natural forest and fynbos along with a variety of animals and birds. There are over 7,000 species in cultivation at Kirstenbosch, including many rare and threatened species of the Cape Floristic Region. In 2004 this Region, including Kirstenbosch, was declared a UNESCO World Heritage Site.[92]
 
@@ -195,7 +193,7 @@ The SABC (South African Broadcasting Corporation) has a small presence in the ci
 
 Sports
 
-Kitesurfers-001.JPG in Table Bay]]
+in Table Bay]]
 
   Venue                                Sport                             Capacity   Club(s)
   ------------------------------------ --------------------------------- ---------- ---------------------------------------
@@ -241,7 +239,7 @@ Public primary and secondary schools in Cape Town are run by the Western Cape Ed
 
 Tertiary education
 
-UCT_Upper_Campus_landscape_view.jpg's main campus]] Cape Town has a well-developed higher system of public universities. Cape Town is served by three public universities: the University of Cape Town (UCT), the University of the Western Cape (UWC) and the Cape Peninsula University of Technology (CPUT). Stellenbosch University, while not in the city itself, is 50 kilometres from the City Bowl and has additional campuses, such as the Tygerberg Faculty of Medicine and Health Sciences and the Bellville Business Park closer to the City.
+'s main campus]] Cape Town has a well-developed higher system of public universities. Cape Town is served by three public universities: the University of Cape Town (UCT), the University of the Western Cape (UWC) and the Cape Peninsula University of Technology (CPUT). Stellenbosch University, while not in the city itself, is 50 kilometres from the City Bowl and has additional campuses, such as the Tygerberg Faculty of Medicine and Health Sciences and the Bellville Business Park closer to the City.
 
 Both the University of Cape Town and Stellenbosch University are leading universities in South Africa. This is due in large part to substantial financial contributions made to these institutions by both the public and private sector. UCT is an English-speaking institution. It has over 21,000 students and has an MBA programme that is ranked 51st by the Financial Times in 2006.[108] It is also the top-ranked university in Africa, being the only African university to make the world's Top 200 university list at number 146.[109] Since the African National Congress has come into governmental power, some restructuring of Western Cape universities has taken place and as such, traditionally non-white universities have seen increased financing, which has benefitted the University of the Western Cape.[110][111]
 
@@ -254,7 +252,7 @@ Transport
 
 Air
 
-2013.01.03_Ciudad_del_Cabo,_ZA_(22).JPG]] Cape Town International Airport serves both domestic and international flights. It is the second-largest airport in South Africa and serves as a major gateway for travellers to the Cape region. Cape Town has direct flights to most cities in South Africa as well as a number of international destinations.[112]
+]] Cape Town International Airport serves both domestic and international flights. It is the second-largest airport in South Africa and serves as a major gateway for travellers to the Cape region. Cape Town has direct flights to most cities in South Africa as well as a number of international destinations.[112]
 
 Cape Town International Airport recently opened a brand new central terminal building that was developed to handle an expected increase in air traffic as tourism numbers increased in the lead-up to the 2010 FIFA World Cup.[113] Other renovations include several large new parking garages, a revamped domestic departure terminal, a new Bus Rapid Transit system station and a new double-decker road system. The airport's cargo facilities are also being expanded and several large empty lots are being developed into office space and hotels.
 
@@ -264,7 +262,7 @@ Cape Town International Airport is located 18.159 km from the CBD [115]
 
 Sea
 
-Port_of_Cape_Town.jpg is a major transport node in southern Africa. In addition to moving freight it also serves as a major repair site for ships and oil rigs.]] Cape Town has a long tradition as a port city. The Port of Cape Town, the city's main port, is in Table Bay directly to the north of the central business district. The port is a hub for ships in the southern Atlantic: it is located along one of the busiest shipping corridors in the world. It is also a busy container port, second in South Africa only to Durban. In 2004, it handled 3,161 ships and 9.2 million tonnes of cargo.[116]
+is a major transport node in southern Africa. In addition to moving freight it also serves as a major repair site for ships and oil rigs.]] Cape Town has a long tradition as a port city. The Port of Cape Town, the city's main port, is in Table Bay directly to the north of the central business district. The port is a hub for ships in the southern Atlantic: it is located along one of the busiest shipping corridors in the world. It is also a busy container port, second in South Africa only to Durban. In 2004, it handled 3,161 ships and 9.2 million tonnes of cargo.[116]
 
 Simon's Town Harbour on the False Bay coast of the Cape Peninsula is the main operational base of the South African Navy.
 
@@ -278,7 +276,7 @@ Road
 
 Cape Town is the origin of three national roads. The N1 and N2 begin in the foreshore area near the city centre.
 
-The N1 runs ENE as a highway through Edgemead, Parow, Bellville, and Brackenfell. It connects Cape Town to Paarl and the major cities in the interior - Bloemfontein, Johannesburg, Pretoria and Zimbabwe. An older at-grade road, the R101, runs parallel to the N1 from Bellville. Khayelitsha_at_N2_road,_Cape_Town_(2015).jpg, Township along N2 (2015)]] The N2 runs ESE as a highway through Rondebosch, Guguletu, Khayelitsha, Macassar to Somerset West. It becomes a multiple-carriageway at-grade road from the intersection with the R44 onwards. The N2 continues east along the coast, linking Cape Town to the coastal cities of Port Elizabeth, East London and Durban. An older at-grade road, the R101, runs parallel to the N1 initially, before veering south at Bellville, to join the N2 at Somerset West via the suburbs of Kuils River and Eerste River.
+The N1 runs ENE as a highway through Edgemead, Parow, Bellville, and Brackenfell. It connects Cape Town to Paarl and the major cities in the interior - Bloemfontein, Johannesburg, Pretoria and Zimbabwe. An older at-grade road, the R101, runs parallel to the N1 from Bellville. , Township along N2 (2015)]] The N2 runs ESE as a highway through Rondebosch, Guguletu, Khayelitsha, Macassar to Somerset West. It becomes a multiple-carriageway at-grade road from the intersection with the R44 onwards. The N2 continues east along the coast, linking Cape Town to the coastal cities of Port Elizabeth, East London and Durban. An older at-grade road, the R101, runs parallel to the N1 initially, before veering south at Bellville, to join the N2 at Somerset West via the suburbs of Kuils River and Eerste River.
 
 The N7 originates from the N1 at Wingfield Interchange near Edgemead. It runs north, initially as a highway, but becoming an at-grade road from the intersection with the M5 (Potsdam Rd) onwards. It links Cape Town with the Northern Cape Province and Namibia.
 
@@ -289,8 +287,6 @@ Of the three-digit routes, the R300, which is informally known as the _Cape Flat
 Cape Town, like most South African cities, uses Metropolitan or "M" routes for important intra-city routes, a layer below National (N) roads and Regional (R) routes. Each city's M roads are independently numbered. Most are at-grade roads. However, the M3 splits from the N2 and runs to the south along the eastern slopes of Table Mountain, connecting the City Bowl with Muizenberg. Except for a section between Rondebosch and Newlands that has at-grade intersections, this route is a highway. The M5 splits from the N1 further east than the M3, and links the Cape Flats to the CBD. It is a highway as far as the interchange with the M68 at Ottery, before continuing as an at-grade road.
 
 Cape Town suffers from the worst traffic congestion in South Africa.[117][118]
-
-TomTom_congestion_Index.png
 
 Buses
 

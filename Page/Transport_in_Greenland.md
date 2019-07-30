@@ -1,4 +1,4 @@
-Nuuk_airport.jpg]] Uummannaq-Salliaruseq.jpg]] Nuuk_bus.jpg in downtown Nuuk]] Kangerlussuaq_overview.jpg]] The TRANSPORTATION SYSTEM IN GREENLAND is very unusual in that Greenland has no railways, no inland waterways, and virtually no roads between towns. Historically the major means of transportation has been by boat around the coast in summer and by dog sled in winter, particularly in the north and east.
+]] ]] in downtown Nuuk]] ]] The TRANSPORTATION SYSTEM IN GREENLAND is very unusual in that Greenland has no railways, no inland waterways, and virtually no roads between towns. Historically the major means of transportation has been by boat around the coast in summer and by dog sled in winter, particularly in the north and east.
 
 
 Air transport

@@ -12,8 +12,6 @@ _"In 1857 baseball games were a daily spectacle in Cleveland's Public Squares. C
 1865–1868 Forest Citys of Cleveland _(Amateur)_
 1869–1872 Forest Citys of Cleveland
 
-Forest_Citys.jpg
-
 From 1865 to 1868 Forest Citys was an amateur ball club. During the 1869 season, Cleveland was among several cities which established professional baseball teams following the success of the 1869 Cincinnati Red Stockings, the first fully professional team.[6][7] In the newspapers before and after 1870, the team was often called the Forest Citys, in the same generic way that the team from Chicago was sometimes called The Chicagos.
 
 In 1871 the Forest Citys joined the new National Association of Professional Base Ball Players (NA), the first professional league. Ultimately, two of the league's western clubs went out of business during the first season and the Chicago Fire left that city's White Stockings impoverished, unable to field a team again until 1874. Cleveland was thus the NA's westernmost outpost in 1872, the year the club folded. Cleveland played their full schedule to July 19 followed by two games versus Boston in mid-August and disbanded at the end of the season.[8]
@@ -40,13 +38,13 @@ Franchise history
 
 The GRAND RAPIDS RUSTLERS were founded in Michigan in 1894 and were part of the Western League. In 1900 the team moved to Cleveland and was named the CLEVELAND LAKE SHORES. Around the same time Ban Johnson changed the name of his minor league (Western League) to the American League. In 1900 the American League was still considered a minor league. In 1901 team was renamed the CLEVELAND BLUEBIRDS when the American League broke with the National Agreement and declared itself a competing Major League. The Cleveland franchise was among its eight charter members, and is one of four teams that remain in its original city, along with Boston, Chicago, and Detroit.
 
-Nap_Lajoie_1913.jpg, who won the 1903 American League Batting Championship with the Indians, was the team's namesake from 1903–15, and an MLB Hall of Famer.]] The new team was owned by coal magnate Charles Somers and tailor Jack Kilfoyl. Somers, a wealthy industrialist and also co-owner of the Boston Americans, lent money to other team owners, including Connie Mack's Philadelphia Athletics, to keep them and the new league afloat. Players didn't think the name "Bluebirds" was suitable for a baseball team.[14] Writers frequently shortened it to CLEVELAND BLUES due to the players' all-blue uniforms,[15] but the players didn't like this unofficial name either. The players themselves tried to change the name to CLEVELAND BRONCOS in , but this unofficial name never really caught on.[16]
+, who won the 1903 American League Batting Championship with the Indians, was the team's namesake from 1903–15, and an MLB Hall of Famer.]] The new team was owned by coal magnate Charles Somers and tailor Jack Kilfoyl. Somers, a wealthy industrialist and also co-owner of the Boston Americans, lent money to other team owners, including Connie Mack's Philadelphia Athletics, to keep them and the new league afloat. Players didn't think the name "Bluebirds" was suitable for a baseball team.[14] Writers frequently shortened it to CLEVELAND BLUES due to the players' all-blue uniforms,[15] but the players didn't like this unofficial name either. The players themselves tried to change the name to CLEVELAND BRONCOS in , but this unofficial name never really caught on.[16]
 
 The Bluebirds suffered from financial problems in their first two seasons. This led Somers to seriously consider moving to either Pittsburgh or Cincinnati. Relief came in 1902 as a result of the conflict between the National and American Leagues. In 1901, Napoleon "Nap" Lajoie, the Philadelphia Phillies' star second baseman, jumped to the A's after his contract was capped at $2,400 per year—one of the highest-profile players to jump to the upstart AL. The Phillies subsequently filed an injunction to force Lajoie's return, which was granted by the Pennsylvania Supreme Court. The injunction appeared to doom any hopes of an early settlement between the warring leagues. However, a lawyer discovered that the injunction was only enforceable in the state of Pennsylvania.[17] Mack, partly to thank Somers for his past financial support, agreed to trade Lajoie to the then-moribund Blues, who offered $25,000 salary over three years.[18] Due to the injunction, however, Lajoie had to sit out any games played against the A's in Philadelphia.[19] Lajoie arrived in Cleveland on June 4 and was an immediate hit, drawing 10,000 fans to League Park. Soon afterward, he was named team captain, and in 1903 the team was renamed the CLEVELAND NAPOLEONS (soon shortened to NAPS) after a newspaper conducted a write-in contest.[20]
 
 Lajoie was named manager in , and the team's fortunes improved somewhat. They finished half a game short of the pennant in 1908.[21] However, the success did not last and Lajoie resigned during the 1909 season as manager but remained on as a player.[22]
 
-1909_Cleveland_Naps.jpg]] After that, the team began to unravel, leading Kilfoyl to sell his share of the team to Somers. Cy Young, who returned to Cleveland in 1909, was ineffective for most of his three remaining years[23] and Addie Joss died from tubercular meningitis prior to the 1911 season.[24]
+]] After that, the team began to unravel, leading Kilfoyl to sell his share of the team to Somers. Cy Young, who returned to Cleveland in 1909, was ineffective for most of his three remaining years[23] and Addie Joss died from tubercular meningitis prior to the 1911 season.[24]
 
 Despite a strong lineup anchored by the potent Lajoie and Shoeless Joe Jackson, poor pitching kept the team below third place for most of the next decade. One reporter referred to the team as the Napkins, "because they fold up so easily". The team hit bottom in 1914 and 1915, finishing in the cellar both years.[25][26]
 
@@ -68,7 +66,7 @@ The team would not reach the heights of 1920 again for 28 years. Speaker and Cov
 
 1936–46: Bob Feller enters the show
 
-The Indians were a middling team by the 1930s, finishing third or fourth most years. brought Cleveland a new superstar in 17-year-old pitcher Bob Feller, who came from Iowa with a dominating fastball. That season, Feller set a record with 17 strikeouts in a single game and went on to lead the league in strikeouts from 1938–1941. Bob_Feller.jpg; winner of the A.L. pitching Triple Crown in 1940, member of the 1948 World Series Championship team, the Indians all-time leader in wins and strikeouts, and an MLB Hall of Famer.]]
+The Indians were a middling team by the 1930s, finishing third or fourth most years. brought Cleveland a new superstar in 17-year-old pitcher Bob Feller, who came from Iowa with a dominating fastball. That season, Feller set a record with 17 strikeouts in a single game and went on to lead the league in strikeouts from 1938–1941. ; winner of the A.L. pitching Triple Crown in 1940, member of the 1948 World Series Championship team, the Indians all-time leader in wins and strikeouts, and an MLB Hall of Famer.]]
 
 On August 20, 1938, Indians catchers Hank Helf and Frank Pytlak set the "all-time altitude mark" by catching baseballs dropped from the 708-foot Terminal Tower.[40]
 
@@ -82,15 +80,13 @@ In , Bill Veeck formed an investment group that purchased the Cleveland Indians 
 
 Recognizing that he had acquired a solid team, Veeck soon abandoned the aging, small and lightless League Park to take up full-time residence in massive Cleveland Municipal Stadium.[48] The Indians had briefly moved from League Park to Municipal Stadium in mid-1932, but moved back to League Park due to complaints about the cavernous environment. From 1937 onward, however, the Indians began playing an increasing number of games at Municipal, until by 1940 they played most of their home slate there.[49] League Park was mostly demolished in 1951, but has since been rebuilt as a recreational park.[50]
 
-Logo_of_the_Cleveland_Indians_(1946-1950).png
-
 Making the most of the cavernous stadium, Veeck had a portable center field fence installed, which he could move in or out depending on how the distance favored the Indians against their opponents in a given series. The fence moved as much as between series opponents. Following the 1947 season, the American League countered with a rule change that fixed the distance of an outfield wall for the duration of a season. The massive stadium did, however, permit the Indians to set the then record for the largest crowd to see a Major League baseball game. On October 10, 1948, Game 5 of the World Series against the Boston Braves drew over 84,000. The record stood until the Los Angeles Dodgers drew a crowd in excess of 92,500 to watch Game 5 of the 1959 World Series at the Los Angeles Memorial Coliseum against the Chicago White Sox.
 
 Under Veeck's leadership, one of Cleveland's most significant achievements was breaking the color barrier in the American League by signing Larry Doby, formerly a player for the Negro League's Newark Eagles in , 11 weeks after Jackie Robinson signed with the Dodgers.[51] Similar to Robinson, Doby battled racism on and off the field but posted a .301 batting average in 1948, his first full season. A power-hitting center fielder, Doby led the American League twice in homers.
 
 In 1948, needing pitching for the stretch run of the pennant race, Veeck turned to the Negro League again and signed pitching great Satchel Paige amid much controversy.[52] Barred from Major League Baseball during his prime, Veeck's signing of the aging star in 1948 was viewed by many as another publicity stunt. At an official age of 42, Paige became the oldest rookie in Major League baseball history, and the first black pitcher. Paige ended the year with a 6–1 record with a 2.48 ERA, 45 strikeouts and two shutouts.[53]
 
-LouBoudreau1953bowman.jpg, 1948 American League MVP]] In , veterans Boudreau, Keltner, and Joe Gordon had career offensive seasons, while newcomers Doby and Gene Bearden also had standout seasons. The team went down to the wire with the Boston Red Sox, winning a one-game playoff, the first in American League history, to go to the World Series. In the series, the Indians defeated the Boston Braves four games to two for their first championship in 28 years. Boudreau won the American League MVP Award.
+, 1948 American League MVP]] In , veterans Boudreau, Keltner, and Joe Gordon had career offensive seasons, while newcomers Doby and Gene Bearden also had standout seasons. The team went down to the wire with the Boston Red Sox, winning a one-game playoff, the first in American League history, to go to the World Series. In the series, the Indians defeated the Boston Braves four games to two for their first championship in 28 years. Boudreau won the American League MVP Award.
 
 The Indians would appear in a film the following year titled _The Kid From Cleveland_, in which Veeck had an interest.[54] The film portrayed the team helping out a "troubled teenaged fan"[55] and featured many members of the Indians organization. However, filming during the season cost the players valuable rest days leading to fatigue towards the end of the season.[56] That season, Cleveland again contended before falling to third place. On September 23, 1949, Bill Veeck and the Indians buried their 1948 pennant in center field the day after they were mathematically eliminated from the pennant race.[57]
 
@@ -98,9 +94,9 @@ Later in 1949, Veeck's first wife (who had a half-stake in Veeck's share of the 
 
 1950–59: Near misses
 
-Al_Rosen_1953.jpg, 1953 Most Valuable Player.]] In , Al Rosen was an All Star for the second year in a row, was named _The Sporting News_ Major League Player of the Year, and won the American League Most Valuable Player Award in a unanimous vote playing for the Indians after leading the AL in runs, home runs, RBIs (for the second year in a row), and slugging percentage, and coming in second by one point in batting average.[59] Ryan was forced out in 1953 in favor of Myron Wilson, who in turn gave way to William Daley in . Despite this turnover in the ownership, a powerhouse team composed of Feller, Doby, Minnie Miñoso, Luke Easter, Bobby Ávila, Al Rosen, Early Wynn, Bob Lemon, and Mike Garcia continued to contend through the early 1950s. However, Cleveland only won a single pennant in the decade, in 1954, finishing second to the New York Yankees five times.
+, 1953 Most Valuable Player.]] In , Al Rosen was an All Star for the second year in a row, was named _The Sporting News_ Major League Player of the Year, and won the American League Most Valuable Player Award in a unanimous vote playing for the Indians after leading the AL in runs, home runs, RBIs (for the second year in a row), and slugging percentage, and coming in second by one point in batting average.[59] Ryan was forced out in 1953 in favor of Myron Wilson, who in turn gave way to William Daley in . Despite this turnover in the ownership, a powerhouse team composed of Feller, Doby, Minnie Miñoso, Luke Easter, Bobby Ávila, Al Rosen, Early Wynn, Bob Lemon, and Mike Garcia continued to contend through the early 1950s. However, Cleveland only won a single pennant in the decade, in 1954, finishing second to the New York Yankees five times.
 
-Herb_Score_1955.JPG – who was the 1955 American League Rookie of the Year, a two-time A.L. All-Star, and after his playing career went on to be the longest tenured announcer in club history, serving 34 seasons (1964–1997) as a member of the Indians broadcast team.]] The winningest season in franchise history came in 1954, when the Indians finished the season with a record of 111–43 (.721). That mark set an American League record for wins which stood for 44 years until the Yankees won 114 games in 1998 (a 162-game regular season). The Indians 1954 winning percentage of .721 is still an American League record. The Indians returned to the World Series to face the New York Giants. The team could not bring home the title, however, ultimately being upset by the Giants in a sweep. The series was notable for Willie Mays' over-the-shoulder catch off the bat of Vic Wertz in Game 1. Cleveland remained a talented team throughout the remainder of the decade, finishing in second place in 1959, George Strickland's last full year in the majors.
+– who was the 1955 American League Rookie of the Year, a two-time A.L. All-Star, and after his playing career went on to be the longest tenured announcer in club history, serving 34 seasons (1964–1997) as a member of the Indians broadcast team.]] The winningest season in franchise history came in 1954, when the Indians finished the season with a record of 111–43 (.721). That mark set an American League record for wins which stood for 44 years until the Yankees won 114 games in 1998 (a 162-game regular season). The Indians 1954 winning percentage of .721 is still an American League record. The Indians returned to the World Series to face the New York Giants. The team could not bring home the title, however, ultimately being upset by the Giants in a sweep. The series was notable for Willie Mays' over-the-shoulder catch off the bat of Vic Wertz in Game 1. Cleveland remained a talented team throughout the remainder of the decade, finishing in second place in 1959, George Strickland's last full year in the majors.
 
 1960–93: The 33-year slump
 
@@ -162,7 +158,7 @@ By the end of the 1993 season, the team was in transition, leaving Cleveland Sta
 
 1994: Jacobs Field opens
 
-Progressive_Field.jpg in 2008]] Indians General Manager John Hart and team owner Richard Jacobs managed to turn the team's fortunes around. The Indians opened Jacobs Field in 1994 with the aim of improving on the prior season's sixth-place finish. The Indians were only one game behind the division-leading Chicago White Sox on August 12 when a players strike wiped out the rest of the season.
+in 2008]] Indians General Manager John Hart and team owner Richard Jacobs managed to turn the team's fortunes around. The Indians opened Jacobs Field in 1994 with the aim of improving on the prior season's sixth-place finish. The Indians were only one game behind the division-leading Chicago White Sox on August 12 when a players strike wiped out the rest of the season.
 
 1995: First AL pennant since 1954
 
@@ -194,7 +190,7 @@ Seattle and Cleveland met in the first round of the postseason, however the Mari
 
 2002–10: The Shapiro/Wedge years
 
-Mark_Shapiro.png – Indians GM from 2001–2010, President from 2010–2015, and two-time Sporting News Executive of the Year.]]
+– Indians GM from 2001–2010, President from 2010–2015, and two-time Sporting News Executive of the Year.]]
 
 First "rebuilding of the team"
 
@@ -206,7 +202,7 @@ In early , the offense got off to a poor start. After a brief July slump, the In
 
 In , Shapiro signed veteran help for the bullpen and outfield in the offseason. Veterans Aaron Fultz and Joe Borowski joined Rafael Betancourt in the Indians bullpen.[106] The Indians improved significantly over the prior year and went into the All-Star break in second place. The team brought back Kenny Lofton for his third stint with the team in late July.[107] The Indians finished with a 96–66 record tied with the Red Sox for best in baseball, their seventh Central Division title in 13 years and their first postseason trip since 2001.[108]
 
-CC_Sabathia.jpg – who won the 2007 A.L. Cy Young Award with the Indians, and was the first of back-to-back Indians Cy Young winners (with teammate Cliff Lee winning the following year).]]
+– who won the 2007 A.L. Cy Young Award with the Indians, and was the first of back-to-back Indians Cy Young winners (with teammate Cliff Lee winning the following year).]]
 
 The Indians began their playoff run by defeating the Yankees in the ALDS three games to one. This series will be most remembered for the swarm of bugs that overtook the field in the later innings of Game Two. They also jumped out to a three-games-to-one lead over the Red Sox in the ALCS. The season ended in disappointment when Boston swept the final three games to advance to the 2007 World Series.[109]
 
@@ -222,10 +218,10 @@ On February 18, 2010, it was announced that Shapiro (following the end of the 20
 
 2011–present: Antonetti/Francona era
 
-Terry_Francona_on_June_26,_2013.jpg winner Terry Francona, who became Indians manager on October 6, 2012
+winner Terry Francona, who became Indians manager on October 6, 2012
 In his tenure with the Tribe, he is a two-time AL Manager of the Year (2013, 2016) and led the team to the 2016 AL Championship.]]
 
-On January 18, 2011, longtime popular former first baseman and manager Mike Hargrove was brought in as a special adviser. The Indians started the 2011 season strong – going 30–15 in their first 45 games and seven games ahead of the Detroit Tigers for first place. Injuries led to a slump where the Indians fell out of first place. Many minor leaguers such as Jason Kipnis and Lonnie Chisenhall got opportunities to fill in for the injuries.[122] The biggest news of the season came on July 30 when the Indians traded four prospects for Colorado Rockies star pitcher, Ubaldo Jiménez. The Indians sent their top two pitchers in the minors, Alex White and Drew Pomeranz along with Joe Gardner and Matt McBride.[123] On August 25, the Indians signed the team leader in home runs, Jim Thome off of waivers.[124] He made his first appearance in an Indians uniform since he left Cleveland after the 2002 season. To honor Thome, the Indians placed him at his original position, third base, for one pitch against the Minnesota Twins on September 25. It was his first time playing third base since 1996.[125] This would also be his last appearance as an Indian. The Indians finished the season in 2nd place, 15 games behind the division champion Tigers.[126] Corey_Kluber_on_June_27,_2013.jpg – who is a two-time AL Cy Young Award winner with the Indians (2014, 2017) - giving the team four winners over 11 seasons.]]
+On January 18, 2011, longtime popular former first baseman and manager Mike Hargrove was brought in as a special adviser. The Indians started the 2011 season strong – going 30–15 in their first 45 games and seven games ahead of the Detroit Tigers for first place. Injuries led to a slump where the Indians fell out of first place. Many minor leaguers such as Jason Kipnis and Lonnie Chisenhall got opportunities to fill in for the injuries.[122] The biggest news of the season came on July 30 when the Indians traded four prospects for Colorado Rockies star pitcher, Ubaldo Jiménez. The Indians sent their top two pitchers in the minors, Alex White and Drew Pomeranz along with Joe Gardner and Matt McBride.[123] On August 25, the Indians signed the team leader in home runs, Jim Thome off of waivers.[124] He made his first appearance in an Indians uniform since he left Cleveland after the 2002 season. To honor Thome, the Indians placed him at his original position, third base, for one pitch against the Minnesota Twins on September 25. It was his first time playing third base since 1996.[125] This would also be his last appearance as an Indian. The Indians finished the season in 2nd place, 15 games behind the division champion Tigers.[126] – who is a two-time AL Cy Young Award winner with the Indians (2014, 2017) - giving the team four winners over 11 seasons.]]
 
 The Indians broke the Opening Day attendance record for Progressive Field with 43,190 against the Toronto Blue Jays on April 5, 2012. The game went on to be the longest opening day game by innings in MLB history. The game was 16 innings and lasted 5 hours and 14 minutes.[127]
 
@@ -255,7 +251,7 @@ Rivalries
 
 Interleague
 
-Ohio_Cup_Trophy.jpg The rivalry with fellow Ohio team the Cincinnati Reds is known as the Battle of Ohio or Buckeye Series and features the Ohio Cup trophy for the winner. Prior to 1997, the winner of the cup was determined by an annual pre-season baseball game, played each year at minor-league Cooper Stadium in the state capital of Columbus, and staged just days before the start of each new Major League Baseball season. A total of eight Ohio Cup games were played, with the Indians winning six of them. It ended with the start of interleague play in 1997. The winner of the game each year was awarded the Ohio Cup in postgame ceremonies. The Ohio Cup was a favorite among baseball fans in Columbus, with attendances regularly topping 15,000.
+The rivalry with fellow Ohio team the Cincinnati Reds is known as the Battle of Ohio or Buckeye Series and features the Ohio Cup trophy for the winner. Prior to 1997, the winner of the cup was determined by an annual pre-season baseball game, played each year at minor-league Cooper Stadium in the state capital of Columbus, and staged just days before the start of each new Major League Baseball season. A total of eight Ohio Cup games were played, with the Indians winning six of them. It ended with the start of interleague play in 1997. The winner of the game each year was awarded the Ohio Cup in postgame ceremonies. The Ohio Cup was a favorite among baseball fans in Columbus, with attendances regularly topping 15,000.
 
 Since 1997, the two teams have played each other as part of the regular season, with the exception of 2002. The Ohio Cup was reintroduced in 2008 and is presented to the team who wins the most games in the series that season. Initially, the teams only played one three-game series per season, meeting in Cleveland in 1997 and Cincinnati the following year. Since 1999, the teams have played two series per season against each other, one series at each ballpark. Since 2013, each series is two games, except in years where the AL Central plays the NL Central in interleague play, when the teams play two three-game series.[139] Through the 2019 meetings, the Indians lead the series 63–50.[140]
 
@@ -299,7 +295,7 @@ Fan support and traditions
 
 The Drummer
 
-John_Adams_drummer.jpg – who (along with his drum) has been an iconic fixture at Indians home games for over 40 years.]] John Adams, known by baseball fans as "The Drummer", has played a bass drum at nearly every home game since 1973. He is the only fan for whom the team has dedicated a bobble head day.[145] Adams originally paid for his tickets (one for himself, and one for his drum), but recently the Indians have paid for his seats in honor of the contributions he has made to the ballpark atmosphere. He has been featured and interviewed on national TV shows and newspaper articles. [146]
+– who (along with his drum) has been an iconic fixture at Indians home games for over 40 years.]] John Adams, known by baseball fans as "The Drummer", has played a bass drum at nearly every home game since 1973. He is the only fan for whom the team has dedicated a bobble head day.[145] Adams originally paid for his tickets (one for himself, and one for his drum), but recently the Indians have paid for his seats in honor of the contributions he has made to the ballpark atmosphere. He has been featured and interviewed on national TV shows and newspaper articles. [146]
 
 Sellout streak
 
@@ -321,7 +317,7 @@ On January 29, 2018, Major League Baseball announced that Chief Wahoo would be r
 
 Media
 
-US_Navy_060828-N-1805P-007_Chief_of_Naval_Personnel_Vice_Adm._John_C._Harvey_Jr._chats_with_broadcasters_from_Cleveland_radio_station_WTAM_1100_AM_during_a_Major_League_Baseball_game_at_Jacobs_Field_between_the_Cleveland_Indian.jpg (seated, center) and longtime lead radio announcer Tom Hamilton (right)]] Cleveland radio stations WTAM (1100 AM) and WMMS (100.7 FM) serve as flagship stations for the Cleveland Indians Radio Network.[157] Tom Hamilton and Jim Rosenhaus serve as play-by-play announcers.[158]
+(seated, center) and longtime lead radio announcer Tom Hamilton (right)]] Cleveland radio stations WTAM (1100 AM) and WMMS (100.7 FM) serve as flagship stations for the Cleveland Indians Radio Network.[157] Tom Hamilton and Jim Rosenhaus serve as play-by-play announcers.[158]
 
 The television rights are held by SportsTime Ohio (STO), Matt Underwood and former Indians Gold Glove winning CF Rick Manning form the announcing team,[159] with veteran Cleveland sportscaster Andre Knott as field reporter,[160] and Al Pawlowski and former Indians pitcher Jensen Lewis as pregame/postgame hosts.[161] Select games are shown on free TV, airing on NBC affiliate WKYC channel 3 via simulcast.
 
@@ -349,7 +345,7 @@ Awards and honors
 
 Baseball Hall of Famers
 
-Nap_Lajoie_Baseball_Card.jpg on a 1911 baseball card]]
+on a 1911 baseball card]]
 
 Ford C. Frick Award recipients
 
@@ -357,8 +353,6 @@ Retired numbers
 
 -   Jackie Robinson's number 42 is retired throughout Major League Baseball.
 -   The number 455 was retired in honor of the Indians fans after the team sold out 455 consecutive games between 1995 and 2001, which was an MLB record until it was surpassed by the Boston Red Sox on September 8, 2008.
-
-Larry_Doby_Statue.jpg
 
 Indians Hall of Fame
 

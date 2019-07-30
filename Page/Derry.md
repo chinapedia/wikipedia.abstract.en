@@ -9,7 +9,7 @@ In 2013, Derry was the inaugural UK City of Culture, having been awarded the tit
 
 Name
 
-Vandalised_road-sign_Londonderry_P3010060.jpg Derry_Stranorlar_N13_roadsign_cropped.JPG (County Donegal shown) use _Derry_ and the Irish _Doire_.]] According to the city's Royal Charter of 10 April 1662, the official name is "Londonderry". This was reaffirmed in a High Court decision in 2007 when Derry City Council sought guidance on the procedure for effecting a name change.[13][14] The council had changed its name from "Londonderry City Council" to "Derry City Council" in 1984;[15] the court case was seeking clarification as to whether this had also changed the name of the city. The decision of the court was that it had not but it was clarified that the correct procedure to do so was via a petition to the Privy Council.[16] Derry City Council since started this process and were involved in conducting an equality impact assessment report (EQIA).[17] Firstly it held an opinion poll of district residents in 2009, which reported that 75% of Catholics and 77% of Nationalists found the proposed change acceptable, compared to 6% of Protestants and 8% of Unionists.[18] Then the EQIA held two consultative forums, and solicited comments from the general public on whether or not the city should have its name changed to Derry.[19] A total of 12,136 comments were received, of which 3,108 were broadly in favour of the proposal, and 9,028 opposed to it.[20] On 23 July 2015, the council voted in favour of a motion to change the official name of the city to Derry and to write to Mark H. Durkan, Northern Ireland Minister of the Environment, to ask how the change could be effected.[21]
+(County Donegal shown) use _Derry_ and the Irish _Doire_.]] According to the city's Royal Charter of 10 April 1662, the official name is "Londonderry". This was reaffirmed in a High Court decision in 2007 when Derry City Council sought guidance on the procedure for effecting a name change.[13][14] The council had changed its name from "Londonderry City Council" to "Derry City Council" in 1984;[15] the court case was seeking clarification as to whether this had also changed the name of the city. The decision of the court was that it had not but it was clarified that the correct procedure to do so was via a petition to the Privy Council.[16] Derry City Council since started this process and were involved in conducting an equality impact assessment report (EQIA).[17] Firstly it held an opinion poll of district residents in 2009, which reported that 75% of Catholics and 77% of Nationalists found the proposed change acceptable, compared to 6% of Protestants and 8% of Unionists.[18] Then the EQIA held two consultative forums, and solicited comments from the general public on whether or not the city should have its name changed to Derry.[19] A total of 12,136 comments were received, of which 3,108 were broadly in favour of the proposal, and 9,028 opposed to it.[20] On 23 July 2015, the council voted in favour of a motion to change the official name of the city to Derry and to write to Mark H. Durkan, Northern Ireland Minister of the Environment, to ask how the change could be effected.[21]
 
 Despite the official name, the city is more usually known as "Derry",[22][23] which is an anglicisation of the Irish _Daire_ or _Doire_, and translates as "oak-grove/oak-wood". The name derives from the settlement's earliest references, _Daire Calgaich_ ("oak-grove of Calgach").[24] The name was changed from Derry in 1613 during the Plantation of Ulster to reflect the establishment of the city by the London guilds.[25][26]
 
@@ -28,7 +28,7 @@ The names Derry and Londonderry are not limited to Ireland. There is a town call
 
 City walls
 
-Cannon_on_Derry_City_Walls_SMC_2007.jpg Bishops_Street_Gate_Derry_SMC_2007.jpg Derry is the only remaining completely intact walled city in Ireland and one of the finest examples of a walled city in Europe.[41][42][43] The walls constitute the largest monument in State care in Northern Ireland and, as the last walled city to be built in Europe, stands as the most complete and spectacular.[44]
+Derry is the only remaining completely intact walled city in Ireland and one of the finest examples of a walled city in Europe.[41][42][43] The walls constitute the largest monument in State care in Northern Ireland and, as the last walled city to be built in Europe, stands as the most complete and spectacular.[44]
 
 The Walls were built in 1613–1619 by The Honourable The Irish Society as defences for early 17th century settlers from England and Scotland. The Walls, which are approximately in circumference and which vary in height and width between , are completely intact and form a walkway around the inner city. They provide a unique promenade to view the layout of the original town which still preserves its Renaissance style street plan. The four original gates to the Walled City are Bishop's Gate, Ferryquay Gate, Butcher Gate and Shipquay Gate. Three further gates were added later, Magazine Gate, Castle Gate and New Gate, making seven gates in total. Historic buildings within the walls include the Gothic cathedral of St Columb (1633), the Apprentice Boys Memorial Hall and the courthouse.
 
@@ -37,7 +37,7 @@ It is one of the few cities in Europe that never saw its fortifications breached
 
 History
 
-St_Columb's_Cathedral.jpg]]
+]]
 
 Early history
 
@@ -63,7 +63,7 @@ During the Glorious Revolution, only Derry and nearby Enniskillen had a Protesta
 
 18th and 19th centuries
 
-1837Londonderry.jpg The city was rebuilt in the 18th century with many of its fine Georgian style houses still surviving. The city's first bridge across the River Foyle was built in 1790. During the 18th and 19th centuries the port became an important embarkation point for Irish emigrants setting out for North America. Some of these founded the colonies of Derry and Londonderry in the state of New Hampshire.
+The city was rebuilt in the 18th century with many of its fine Georgian style houses still surviving. The city's first bridge across the River Foyle was built in 1790. During the 18th and 19th centuries the port became an important embarkation point for Irish emigrants setting out for North America. Some of these founded the colonies of Derry and Londonderry in the state of New Hampshire.
 
 Also during the 19th century, it became a destination for migrants fleeing areas more severely affected by the Irish Potato Famine.[57][58] One of the most notable shipping lines was the McCorkell Line operated by Wm. McCorkell & Co. Ltd. from 1778.[59] The McCorkell's most famous ship was the Minnehaha, which was known as the "Green Yacht from Derry".[60]
 
@@ -75,7 +75,7 @@ During World War I the city contributed over 5,000 men to the British Army from 
 
 Partition
 
-War_memorial_Derry_2007_SMC.jpg During the Irish War of Independence, the area was rocked by sectarian violence, partly prompted by the guerilla war raging between the Irish Republican Army and British forces, but also influenced by economic and social pressures. By mid-1920 there was severe sectarian rioting in the city.[61][62] Many lives were lost and in addition many Catholics and Protestants were expelled from their homes during this communal unrest. After a week's violence, a truce was negotiated by local politicians on both unionist and republican sides.
+During the Irish War of Independence, the area was rocked by sectarian violence, partly prompted by the guerilla war raging between the Irish Republican Army and British forces, but also influenced by economic and social pressures. By mid-1920 there was severe sectarian rioting in the city.[61][62] Many lives were lost and in addition many Catholics and Protestants were expelled from their homes during this communal unrest. After a week's violence, a truce was negotiated by local politicians on both unionist and republican sides.
 
 In 1921, following the Anglo-Irish Treaty and the Partition of Ireland, it unexpectedly became a 'border city', separated from much of its traditional economic hinterland in County Donegal.
 
@@ -101,7 +101,7 @@ The Civil Rights Movement
 
 Derry was a focal point for the nascent civil rights movement in Northern Ireland.
 
-Bogside_Derry_SMC_2005.jpg Catholics were discriminated against under Unionist government in Northern Ireland, both politically and economically.[69][70][71][72] In the late 1960s the city became the flashpoint of disputes about institutional gerrymandering. Political scientist John Whyte explains that:
+Catholics were discriminated against under Unionist government in Northern Ireland, both politically and economically.[69][70][71][72] In the late 1960s the city became the flashpoint of disputes about institutional gerrymandering. Political scientist John Whyte explains that:
 
   All the accusations of gerrymandering, practically all the complaints about housing and regional policy, and a disproportionate amount of the charges about public and private employment come from this area. The area – which consisted of Counties Tyrone and Fermanagh, Londonderry County Borough, and portions of Counties Londonderry and Armagh – had less than a quarter of the total population of Northern Ireland yet generated not far short of three-quarters of the complaints of discrimination...The unionist government must bear its share of responsibility. It put through the original gerrymander which underpinned so many of the subsequent malpractices, and then, despite repeated protests, did nothing to stop those malpractices continuing. The most serious charge against the Northern Ireland government is not that it was directly responsible for widespread discrimination, but that it allowed discrimination on such a scale over a substantial segment of Northern Ireland.[73]
 
@@ -111,7 +111,7 @@ On Sunday 30 January 1972, 13 unarmed civilians were shot dead by British paratr
 
 The Troubles
 
-Free_Derry_Corner_in_1969.jpg" at the corner of Lecky Road and Fahan Street in the Bogside. The slogan was first painted in January 1969 by John Casey.]] The conflict which became known as the Troubles is widely regarded as having started in Derry with the Battle of the Bogside. The Civil Rights Movement had also been very active in the city. In the early 1970s the city was heavily militarised and there was widespread civil unrest. Several districts in the city constructed barricades to control access and prevent the forces of the state from entering.
+" at the corner of Lecky Road and Fahan Street in the Bogside. The slogan was first painted in January 1969 by John Casey.]] The conflict which became known as the Troubles is widely regarded as having started in Derry with the Battle of the Bogside. The Civil Rights Movement had also been very active in the city. In the early 1970s the city was heavily militarised and there was widespread civil unrest. Several districts in the city constructed barricades to control access and prevent the forces of the state from entering.
 
 Violence eased towards the end of the Troubles in the late 1980s and early 1990s. Irish journalist Ed Maloney claims in "The Secret History of the IRA" that republican leaders there negotiated a _de facto_ ceasefire in the city as early as 1991. Whether this is true or not, the city did see less bloodshed by this time than Belfast or other localities.
 
@@ -154,7 +154,7 @@ The councillors elected in 2014 for the city are:
 
 Coat of arms and motto
 
-Coat_of_arms_of_Derry.png The devices on the city's arms are a skeleton and a three-towered castle on a black field, with the _chief_ or top third of the shield depicting the arms of the City of London: a red cross and sword on white. In the centre of the cross is a gold harp. The blazon of the arms is as follows:
+The devices on the city's arms are a skeleton and a three-towered castle on a black field, with the _chief_ or top third of the shield depicting the arms of the City of London: a red cross and sword on white. In the centre of the cross is a gold harp. The blazon of the arms is as follows:
 
 _Sable, a human skeleton Or seated upon a mossy stone proper and in dexter chief a castle triple towered argent on a chief also argent a cross gules thereon a harp or and in the first quarter a sword erect gules_[76]
 
@@ -174,7 +174,7 @@ The motto attached to the coat of arms reads in Latin, "Vita, Veritas, Victoria"
 
 Geography
 
-OpenStreetMap_of_DerryLondonderry_UK_Apr2012.png Craigavon_bridge.jpg]] Derry is characterised by its distinctively hilly topography.[87] The River Foyle forms a deep valley as it flows through the city, making Derry a place of very steep streets and sudden, startling views. The original walled city of Londonderry lies on a hill on the west bank of the River Foyle. In the past, the river branched and enclosed this wooded hill as an island; over the centuries, however, the western branch of the river dried up and became a low-lying and boggy district that is now called the Bogside.[88]
+]] Derry is characterised by its distinctively hilly topography.[87] The River Foyle forms a deep valley as it flows through the city, making Derry a place of very steep streets and sudden, startling views. The original walled city of Londonderry lies on a hill on the west bank of the River Foyle. In the past, the river branched and enclosed this wooded hill as an island; over the centuries, however, the western branch of the river dried up and became a low-lying and boggy district that is now called the Bogside.[88]
 
 Today, modern Derry extends considerably north and west of the city walls and east of the river. The half of the city the west of the Foyle is known as the Cityside and the area east is called the Waterside. The Cityside and Waterside are connected by the Craigavon Bridge and Foyle Bridge, and by a foot bridge in the centre of the city called Peace Bridge. The district also extends into rural areas to the southeast of the city.
 
@@ -191,7 +191,7 @@ The lowest temperature recorded at Carmoney was on 27 December 1995.[95]
 
 Demography
 
-Ebrington_Square,_Derry,.jpg]] Derry Urban Area (DUA), including the city and the neighbouring settlements of Culmore, Newbuildings and Strathfoyle, is classified as a city by the Northern Ireland Statistics and Research Agency (NISRA) since its population exceeds 75,000. On census day (27 March 2011) there were 105,066 people living in Derry Urban Area. Of these, 27% were aged under 16 years and 14% were aged 60 and over; 49% of the population were male and 51% were female; 75% were from a Roman Catholic background and 23% (up three per cent from 2001) were from a Protestant background.[96]
+]] Derry Urban Area (DUA), including the city and the neighbouring settlements of Culmore, Newbuildings and Strathfoyle, is classified as a city by the Northern Ireland Statistics and Research Agency (NISRA) since its population exceeds 75,000. On census day (27 March 2011) there were 105,066 people living in Derry Urban Area. Of these, 27% were aged under 16 years and 14% were aged 60 and over; 49% of the population were male and 51% were female; 75% were from a Roman Catholic background and 23% (up three per cent from 2001) were from a Protestant background.[96]
 
 The mid-2006 population estimate for the wider Derry City Council area was 107,300.[97] Population growth in 2005/06 was driven by natural change, with net out-migration of approximately 100 people.[98]
 
@@ -199,7 +199,7 @@ The city was one of the few in Ireland to experience an increase in population d
 
 Protestant minority
 
-Nosurrender_mural_derry.jpg outside city wall, taken in 2004]] Concerns have been raised by both communities over the increasingly divided nature of the city. There were about 17,000 Protestants on the west bank of the River Foyle in 1971.[100] The proportion rapidly declined during the 1970s;[101] the 2011 census recorded 3,169 Protestants on the west bank, compared to 54,976 Catholics,[102] and it is feared that the city could become permanently divided.[103][104]
+outside city wall, taken in 2004]] Concerns have been raised by both communities over the increasingly divided nature of the city. There were about 17,000 Protestants on the west bank of the River Foyle in 1971.[100] The proportion rapidly declined during the 1970s;[101] the 2011 census recorded 3,169 Protestants on the west bank, compared to 54,976 Catholics,[102] and it is feared that the city could become permanently divided.[103][104]
 
 However, concerted efforts have been made by local community, church and political leaders from both traditions to redress the problem. A conference to bring together key actors and promote tolerance was held in October 2006.[105] The Rt Rev. Dr Ken Good, the Church of Ireland Bishop of Derry and Raphoe, said he was happy living on the cityside. "I feel part of it. It is my city and I want to encourage other Protestants to feel exactly the same", he said.[106]
 
@@ -207,8 +207,6 @@ Support for Protestants in the district has been strong from the former SDLP cit
 
 
 Economy
-
-Du_Pont_Derry_2007_SMC.JPG
 
 History
 
@@ -218,7 +216,7 @@ A long-term foreign employer in the area is Du Pont, which has been based at May
 
 Inward investment
 
-Seagate_building_Derry_2005.jpg In the last 15 years there has been a drive to increase inward investment in the city, more recently concentrating on digital industries. Currently the three largest private-sector employers are American firms.[115] Economic successes have included call centres and a large investment by Seagate, which has operated a factory in the Springtown Industrial Estate since 1993. Seagate currently employs over 1,000 people, producing more than half of the company's total requirement for hard drive read-write heads.
+In the last 15 years there has been a drive to increase inward investment in the city, more recently concentrating on digital industries. Currently the three largest private-sector employers are American firms.[115] Economic successes have included call centres and a large investment by Seagate, which has operated a factory in the Springtown Industrial Estate since 1993. Seagate currently employs over 1,000 people, producing more than half of the company's total requirement for hard drive read-write heads.
 
 A controversial new employer in the area was Raytheon Systems Limited, a software division of the American defence contractor, which was set up in Derry in 1999.[116] Although some of the local people welcomed the jobs boost, others in the area objected to the jobs being provided by a firm involved heavily in the arms trade.[117] Following four years of protest by the Foyle Ethical Investment Campaign, in 2004 Derry City Council passed a motion declaring the district a "A 'No – Go' Area for the Arms Trade",[118] and in 2006 its offices were briefly occupied by anti-war protestors who became known as the Raytheon 9.[119] In 2009, the company announced that it was not renewing its lease when it expired in 2010 and was looking for a new location for its operations.[120]
 
@@ -232,7 +230,7 @@ In July 2005, the Irish Minister for Finance, Brian Cowen, called for a joint ta
 
 Shopping
 
-Austins_2007_SMC.jpg department store]] The city is the north west's foremost shopping district, housing two large shopping centres along with numerous shop packed streets serving much of the greater county, as well as Tyrone and Donegal.
+department store]] The city is the north west's foremost shopping district, housing two large shopping centres along with numerous shop packed streets serving much of the greater county, as well as Tyrone and Donegal.
 
 The city centre has two main shopping centres; the Foyleside Shopping Centre which has 45 stores and 1,430 parking spaces, and the Richmond Centre, which has 39 retail units. The Quayside Shopping Centre also serves the city-side and there is also Lisnagelvin Shopping Centre in the Waterside. These centres, as well as local-run businesses, feature numerous national and international stores. A recent addition was the Crescent Link Retail Park located in the Waterside with many international chain stores, including Homebase, Currys & PC World (stores combined), Carpet Right, Maplin, Argos Extra, Toys R Us, Halfords, DW Sports (formerly JJB Sports), Pets at Home, Next Home, Starbucks, McDonald's, Tesco Express and M&S Simply Food. In the short period of time that this site has been operational, it has quickly grown to become the second largest retail park in Northern Ireland (second only to Sprucefield in Lisburn).[124] Plans have also been approved for Derry's first Asda store, which will be located at the retail park sharing a unit with Homebase.[125] Sainsbury's also applied for planning permission for a store at Crescent Link, but Environment Minister Alex Attwood turned it down.[126]
 
@@ -241,7 +239,7 @@ Until the store's closure in March 2016, the city was also home to the world's o
 
 Landmarks
 
-St_Eugene's_Cathedral,_August_2009.JPG Bishop_Street_Courthouse,_Derry_-_Londonderry_-_geograph.org.uk_-_174216.jpg Long_Tower_Church,_August_2009.JPG Derry is renowned for its architecture. This can be primarily ascribed to the formal planning of the historic walled city of Derry at the core of the modern city. This is centred on the Diamond with a collection of late Georgian, Victorian and Edwardian buildings maintaining the gridlines of the main thoroughfares (Shipquay Street, Ferryquay Street, Butcher Street and Bishop Street) to the City Gates. St Columb's Cathedral does not follow the grid pattern reinforcing its civic status. This Church of Ireland Cathedral was the first post-Reformation Cathedral built for an Anglican church. The construction of the Roman Catholic St Eugene's Cathedral in the Bogside in the 19th-century was another major architectural addition to the city. The Townscape Heritage Initiative has funded restoration works to key listed buildings and other older structures.
+Derry is renowned for its architecture. This can be primarily ascribed to the formal planning of the historic walled city of Derry at the core of the modern city. This is centred on the Diamond with a collection of late Georgian, Victorian and Edwardian buildings maintaining the gridlines of the main thoroughfares (Shipquay Street, Ferryquay Street, Butcher Street and Bishop Street) to the City Gates. St Columb's Cathedral does not follow the grid pattern reinforcing its civic status. This Church of Ireland Cathedral was the first post-Reformation Cathedral built for an Anglican church. The construction of the Roman Catholic St Eugene's Cathedral in the Bogside in the 19th-century was another major architectural addition to the city. The Townscape Heritage Initiative has funded restoration works to key listed buildings and other older structures.
 
 In the three centuries since their construction, the city walls have been adapted to meet the needs of a changing city. The best example of this adaptation is the insertion of three additional gates – Castle Gate, New Gate and Magazine Gate – into the walls in the course of the 19th century. Today, the fortifications form a continuous promenade around the city centre, complete with cannon, avenues of mature trees and views across Derry. Historic buildings within the city walls include St Augustine's Church, which sits on the city walls close to the site of the original monastic settlement; the copper-domed Austin's department store, which claims to the oldest such store in the world; and the imposing Greek Revival Courthouse on Bishop Street. The red-brick late-Victorian Guildhall, also crowned by a copper dome, stands just beyond Shipquay Gate and close to the river front.
 
@@ -251,12 +249,12 @@ Attractions include museums, a vibrant shopping centre and trips to the Giant's 
 
 On 25 June 2011, the Peace Bridge opened. It is a cycle and foot bridge that begins from the Guild Hall in the city centre of Derry City to Ebrington Square and St Columb's Park on the far side of the River Foyle. It symbolizes the unity of the Protestant community and the Nationalist community who are settled on either sides of the Foyle River. "The Derry Peace Bridge has become an integral part of Derry City’s infrastructure and has changed the way local people use and view their city with over 3 million people having crossed it so far and many of the locals using it daily."[129]
 
-Future projects include the Walled City Signature Project, which intends to ensure that the city's walls become a world class tourist experience.[130] The Ilex Urban Regeneration Company is charged with delivering several landmark redevelopments. It has taken control of two former British Army barracks in the centre of the city. The Ebrington site is nearing completion and is linked to the city centre by the new Peace Bridge. Peace_bridge_Derry_2012.jpg
+Future projects include the Walled City Signature Project, which intends to ensure that the city's walls become a world class tourist experience.[130] The Ilex Urban Regeneration Company is charged with delivering several landmark redevelopments. It has taken control of two former British Army barracks in the centre of the city. The Ebrington site is nearing completion and is linked to the city centre by the new Peace Bridge.
 
 
 Transport
 
-Foyle_bridge,_railside.jpg showing Derry-to-Belfast rail link]] The transport network is built out of a complex array of old and modern roads and railways throughout the city and county. The city's road network also makes use of two bridges to cross the River Foyle, the Craigavon Bridge and the Foyle Bridge, the longest bridge in Ireland. Derry also serves as a major transport hub for travel throughout nearby County Donegal.
+showing Derry-to-Belfast rail link]] The transport network is built out of a complex array of old and modern roads and railways throughout the city and county. The city's road network also makes use of two bridges to cross the River Foyle, the Craigavon Bridge and the Foyle Bridge, the longest bridge in Ireland. Derry also serves as a major transport hub for travel throughout nearby County Donegal.
 
 In spite of it being the second city of Northern Ireland (and it being the second-largest city in all of Ulster), road and rail links to other cities are below par for its standing. Many business leaders claim that government investment in the city and infrastructure has been badly lacking. Some have stated that this is due to its outlying border location whilst others have cited a sectarian bias against the region west of the River Bann due to its high proportion of Catholics.[131][132] There is no direct motorway link with Dublin or Belfast. The rail link to Belfast has been downgraded over the years so that, presently, it is not a viable alternative to the roads for industry to rely on. There are currently plans for £1 billion worth of transport infrastructure investment in and around the district.[133] Planned upgrades to the A5 Dublin road agreed as part of the Good Friday Agreement and St. Andrews Talks fell through when the government of the Republic of Ireland reneged on its funding citing the recent economic crisis.[134]
 
@@ -282,7 +280,7 @@ In 2008 the Department for Regional Development announced plans to have the trac
 
 Railway history
 
-Map_Rail_Ireland_Viceregal_Commission_1906.jpg Throughout the first half of the 20th century the city was served by four different railways that between them linked the city with much of the province of Ulster, plus a harbour railway network that linked the other four lines. There was also a tramway on the City side of the Foyle.
+Throughout the first half of the 20th century the city was served by four different railways that between them linked the city with much of the province of Ulster, plus a harbour railway network that linked the other four lines. There was also a tramway on the City side of the Foyle.
 
 19th and 20th century growth
 
@@ -320,7 +318,7 @@ It is not yet known if these two separate projects will connect at any point, al
 
 Sea
 
-HMS_Ferret_surrendered_Uboats.jpg Londonderry Port at Lisahally is the United Kingdom's most westerly port and has capacity for 30,000-ton vessels. The Londonderry Port and Harbour Commissioners (LPHC) announced record turnover, record profits and record tonnage figures for the year ended March 2008. The figures are the result of a significant capital expenditure programme for the period 2000 to 2007 of about £22 million. Tonnage handled by LPHC increased almost 65% between 2000 and 2007, according to the latest annual results.
+Londonderry Port at Lisahally is the United Kingdom's most westerly port and has capacity for 30,000-ton vessels. The Londonderry Port and Harbour Commissioners (LPHC) announced record turnover, record profits and record tonnage figures for the year ended March 2008. The figures are the result of a significant capital expenditure programme for the period 2000 to 2007 of about £22 million. Tonnage handled by LPHC increased almost 65% between 2000 and 2007, according to the latest annual results.
 
 The port gave vital Allied service in the longest running campaign of the Second World War, the Battle of the Atlantic, and saw the surrender of the German U-boat fleet at Lisahally on 8 May 1945.[172]
 
@@ -331,7 +329,7 @@ The tidal River Foyle is navigable from the coast at Derry to approximately inla
 
 Education
 
-Magee_University_Derry_SMC_2005.jpg became a campus of Ulster University in 1969.]] Derry is home to the Magee Campus of Ulster University, formerly Magee College. However, Lockwood's[173] 1960s decision to locate Northern Ireland's second university in Coleraine rather than Derry helped contribute to the formation of the civil rights movement that ultimately led to The Troubles. Derry was the town more closely associated with higher learning, with Magee College already more than a century old by that time.[174][175] In the mid-1980s a half-hearted attempt was made at rectifying this mistake by forming Magee College as a campus of the Ulster University but this has failed to stifle calls for the establishment of an independent University in Derry that can grow to it full potential.[176] The campus has never thrived and currently only has 3,500 students out of a total Ulster University student population of 27,000. Ironically, although Coleraine is blamed by many in the city for 'stealing the University', it has only 5,000 students, the remaining 19,000 being based in Belfast.[177]
+became a campus of Ulster University in 1969.]] Derry is home to the Magee Campus of Ulster University, formerly Magee College. However, Lockwood's[173] 1960s decision to locate Northern Ireland's second university in Coleraine rather than Derry helped contribute to the formation of the civil rights movement that ultimately led to The Troubles. Derry was the town more closely associated with higher learning, with Magee College already more than a century old by that time.[174][175] In the mid-1980s a half-hearted attempt was made at rectifying this mistake by forming Magee College as a campus of the Ulster University but this has failed to stifle calls for the establishment of an independent University in Derry that can grow to it full potential.[176] The campus has never thrived and currently only has 3,500 students out of a total Ulster University student population of 27,000. Ironically, although Coleraine is blamed by many in the city for 'stealing the University', it has only 5,000 students, the remaining 19,000 being based in Belfast.[177]
 
 The North West Regional College is also based in the city. In recent years it has grown to almost 30,000 students.[178]
 
@@ -340,7 +338,7 @@ One of the two oldest secondary schools in Northern Ireland is located in Derry,
 
 Sports
 
-Derry_2009_NFL_final.jpg team ahead of the 2009 National League final]]
+team ahead of the 2009 National League final]]
 
 The city is home to sports clubs and teams. Both association football and Gaelic football are popular in the area.
 
@@ -377,9 +375,9 @@ Golf is also a sport which is popular with many in the city. There are two golf 
 
 Culture
 
-'Hands_Across_the_Divide'_sculpture,_Derry.jpg]] In recent years the city and surrounding countryside have become well known for their artistic legacy, producing Nobel Prize-winning poet Seamus Heaney,[183] poet Seamus Deane, playwright Brian Friel,[184] writer and music critic Nik Cohn, artist Willie Doherty, socio-political commentator and activist Eamonn McCann[185] and bands such as The Undertones. The large political gable-wall murals of Bogside Artists, Free Derry Corner, the Foyle Film Festival, the Derry Walls, St Eugene's and St Columb's Cathedrals and the annual Halloween street carnival[186] are popular tourist attractions. In 2010, Derry was named the UK's tenth 'most musical' city by PRS for Music.[187][188]
+]] In recent years the city and surrounding countryside have become well known for their artistic legacy, producing Nobel Prize-winning poet Seamus Heaney,[183] poet Seamus Deane, playwright Brian Friel,[184] writer and music critic Nik Cohn, artist Willie Doherty, socio-political commentator and activist Eamonn McCann[185] and bands such as The Undertones. The large political gable-wall murals of Bogside Artists, Free Derry Corner, the Foyle Film Festival, the Derry Walls, St Eugene's and St Columb's Cathedrals and the annual Halloween street carnival[186] are popular tourist attractions. In 2010, Derry was named the UK's tenth 'most musical' city by PRS for Music.[187][188]
 
-Derry_Peace_Flame.jpg In May 2013 a perpetual Peace Flame Monument was unveiled by Martin Luther King III and Presbyterian minister Rev. David Latimer. The flame was lit by children from both traditions in the city and is one of only 15 such flames across the world.[189][190]
+In May 2013 a perpetual Peace Flame Monument was unveiled by Martin Luther King III and Presbyterian minister Rev. David Latimer. The flame was lit by children from both traditions in the city and is one of only 15 such flames across the world.[189][190]
 
 Media
 
@@ -412,7 +410,7 @@ References in popular music
 
 Notable people
 
-Millennium_Forum_(02),_August_2009.JPG Notable people who were born or have lived in Derry include:
+Notable people who were born or have lived in Derry include:
 
 -   Frederick Hervey, Bishop of Derry and 4th Earl of Bristol
 -   William Thomas Gaul, became Bishop of Mashonaland

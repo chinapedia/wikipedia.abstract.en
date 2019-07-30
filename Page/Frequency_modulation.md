@@ -1,4 +1,4 @@
-Amfm3-en-de.gif or FM radio wave.|alt=Animation of audio, AM and FM signals]] GE_FM_radio_antistatic_demonstration_1940.jpg) rejection than AM, as shown in this dramatic New York publicity demonstration by General Electric in 1940. The radio has both AM and FM receivers. With a million-volt arc as a source of interference behind it, the AM receiver produced only a roar of static, while the FM receiver clearly reproduced a music program from Armstrong's experimental FM transmitter W2XMN in New Jersey.]]
+or FM radio wave.|alt=Animation of audio, AM and FM signals]] ) rejection than AM, as shown in this dramatic New York publicity demonstration by General Electric in 1940. The radio has both AM and FM receivers. With a million-volt arc as a source of interference behind it, the AM receiver produced only a roar of static, while the FM receiver clearly reproduced a music program from Armstrong's experimental FM transmitter W2XMN in New Jersey.]]
 
 In telecommunications and signal processing, FREQUENCY MODULATION (FM) is the encoding of information in a carrier wave by varying the instantaneous frequency of the wave.
 
@@ -65,7 +65,7 @@ Frequency modulation can be classified as narrowband if the change in the carrie
 
 Bessel functions
 
-Waterfall_FM.jpg of a 146.52MHz carrier, frequency modulated by a 1,000Hz sinusoid. The modulation index has been adjusted to around 2.4, so the carrier frequency has small amplitude. Several strong sidebands are apparent; in principle an infinite number are produced in FM but the higher-order sidebands are of negligible magnitude.]]
+of a 146.52MHz carrier, frequency modulated by a 1,000Hz sinusoid. The modulation index has been adjusted to around 2.4, so the carrier frequency has small amplitude. Several strong sidebands are apparent; in principle an infinite number are produced in FM but the higher-order sidebands are of negligible magnitude.]]
 
 For the case of a carrier modulated by a single sine wave, the resulting frequency spectrum can be calculated using Bessel functions of the first kind, as a function of the sideband number and the modulation index. The carrier and sideband amplitudes are illustrated for different modulation indices of FM signals. For particular values of the modulation index, the carrier amplitude becomes zero and all the signal power is in the sidebands.[7]
 
@@ -145,7 +145,7 @@ FM signals can be generated using either direct or indirect frequency modulation
 
 Demodulation
 
-FM_Modulation_-_en.png Many FM detector circuits exist. A common method for recovering the information signal is through a Foster-Seeley discriminator or ratio detector. A phase-locked loop can be used as an FM demodulator. _Slope detection_ demodulates an FM signal by using a tuned circuit which has its resonant frequency slightly offset from the carrier. As the frequency rises and falls the tuned circuit provides a changing amplitude of response, converting FM to AM. AM receivers may detect some FM transmissions by this means, although it does not provide an efficient means of detection for FM broadcasts.
+Many FM detector circuits exist. A common method for recovering the information signal is through a Foster-Seeley discriminator or ratio detector. A phase-locked loop can be used as an FM demodulator. _Slope detection_ demodulates an FM signal by using a tuned circuit which has its resonant frequency slightly offset from the carrier. As the frequency rises and falls the tuned circuit provides a changing amplitude of response, converting FM to AM. AM receivers may detect some FM transmissions by this means, although it does not provide an efficient means of detection for FM broadcasts.
 
 
 Applications
@@ -162,7 +162,7 @@ FM is also used at audio frequencies to synthesize sound. This technique, known 
 
 Radio
 
-FM_Broadcast_Transmitter_High_Power.jpg Edwin Howard Armstrong (1890–1954) was an American electrical engineer who invented wideband frequency modulation (FM) radio.[12] He patented the regenerative circuit in 1914, the superheterodyne receiver in 1918 and the super-regenerative circuit in 1922.[13] Armstrong presented his paper, "A Method of Reducing Disturbances in Radio Signaling by a System of Frequency Modulation", (which first described FM radio) before the New York section of the Institute of Radio Engineers on November 6, 1935. The paper was published in 1936.[14]
+Edwin Howard Armstrong (1890–1954) was an American electrical engineer who invented wideband frequency modulation (FM) radio.[12] He patented the regenerative circuit in 1914, the superheterodyne receiver in 1918 and the super-regenerative circuit in 1922.[13] Armstrong presented his paper, "A Method of Reducing Disturbances in Radio Signaling by a System of Frequency Modulation", (which first described FM radio) before the New York section of the Institute of Radio Engineers on November 6, 1935. The paper was published in 1936.[14]
 
 As the name implies, wideband FM (WFM) requires a wider signal bandwidth than amplitude modulation by an equivalent modulating signal; this also makes the signal more robust against noise and interference. Frequency modulation is also more robust against signal-amplitude-fading phenomena. As a result, FM was chosen as the modulation standard for high frequency, high fidelity radio transmission, hence the term "FM radio" (although for many years the BBC called it "VHF radio" because commercial FM broadcasting uses part of the VHF band—the FM broadcast band). FM receivers employ a special detector for FM signals and exhibit a phenomenon known as the _capture effect_, in which the tuner "captures" the stronger of two stations on the same frequency while rejecting the other (compare this with a similar situation on an AM receiver, where both stations can be heard simultaneously). However, frequency drift or a lack of selectivity may cause one station to be overtaken by another on an adjacent channel. Frequency drift was a problem in early (or inexpensive) receivers; inadequate selectivity may affect any tuner.
 

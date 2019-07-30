@@ -1,9 +1,9 @@
-General_aviation_aircraft_at_Cheb_Airport_(LKCB).jpg, Czech Republic]] GENERAL AVIATION (GA) represents the 'private transport' and recreational flying component of aviation.
+, Czech Republic]] GENERAL AVIATION (GA) represents the 'private transport' and recreational flying component of aviation.
 
 
 Definition
 
-Cessna_172S_Skyhawk_SP,_Private_JP6817606.jpg is the most produced aircraft in history[1]]] Cirrus_SR22_ZS-CPB_(2)_(21833428109).jpg, a popular modern GA aircraft]] General aviation is the name or term given to all civil aviation aircraft operations with the exception of commercial air transport (CAT) or aerial work (AW).[2] They are flight activities not involving commercial air transportation of passengers, cargo or mail for remuneration or hire, or an aerial work operation such as agriculture, construction, photography, surveying, observation and patrol, search and rescue, aerial advertisement, etc.[3][4] It covers certain commercial and private flights that can be carried out under both visual flight (VFR) and instrument flight (IFR) rules, such as light aircraft, business and private jets or helicopters.[5] General aviation thus represents the 'private transport' component of aviation.[6]
+is the most produced aircraft in history[1]]] , a popular modern GA aircraft]] General aviation is the name or term given to all civil aviation aircraft operations with the exception of commercial air transport (CAT) or aerial work (AW).[2] They are flight activities not involving commercial air transportation of passengers, cargo or mail for remuneration or hire, or an aerial work operation such as agriculture, construction, photography, surveying, observation and patrol, search and rescue, aerial advertisement, etc.[3][4] It covers certain commercial and private flights that can be carried out under both visual flight (VFR) and instrument flight (IFR) rules, such as light aircraft, business and private jets or helicopters.[5] General aviation thus represents the 'private transport' component of aviation.[6]
 
 The International Civil Aviation Organization (ICAO) defines civil aviation aircraft operations in three categories: General Aviation (GA), Aerial Work (AW) and Commercial Air Transport (CAT).[7][8] The International Council of Aircraft Owner and Pilot Associations (IAOPA) includes the following definitions for General Aviation aircraft activities:[9]
 
@@ -20,7 +20,7 @@ Geography
 
 Europe
 
-Helsinki-Malmi_2008-001.jpg, Finland]]
+, Finland]]
 
 In 2003 the European Aviation Safety Agency (EASA) was established as the central EU regulator, taking over responsibility for legislating airworthiness and environmental regulation from the national authorities.[10]
 
@@ -32,7 +32,7 @@ GA is regulated by the Civil Aviation Authority (CAA), although regulatory power
 
 North America
 
-Gardu1.JPG in North Carolina, United States]]
+in North Carolina, United States]]
 
 General aviation is particularly popular in North America, with over 6,300 airports available for public use by pilots of general aviation aircraft (around 5,200 airports in the U.S., and over 1,000 in Canada[12]). In comparison, scheduled flights operate from around 560 airports in the U.S.[13] According to the U.S. Aircraft Owners and Pilots Association, general aviation provides more than one percent of the United States' GDP, accounting for 1.3 million jobs in professional services and manufacturing.[14]
 

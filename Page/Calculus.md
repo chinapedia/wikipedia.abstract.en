@@ -13,7 +13,7 @@ Modern calculus was developed in 17th-century Europe by Isaac Newton and Gottfri
 
 Ancient
 
-Parabolic_segment_and_inscribed_triangle.svg to calculate the area under a parabola.]] The ancient period introduced some of the ideas that led to integral calculus, but does not seem to have developed these ideas in a rigorous and systematic way. Calculations of volume and area, one goal of integral calculus, can be found in the Egyptian Moscow papyrus (13th dynasty,  BC), but the formulas are simple instructions, with no indication as to method, and some of them lack major components.[5]
+to calculate the area under a parabola.]] The ancient period introduced some of the ideas that led to integral calculus, but does not seem to have developed these ideas in a rigorous and systematic way. Calculations of volume and area, one goal of integral calculus, can be found in the Egyptian Moscow papyrus (13th dynasty,  BC), but the formulas are simple instructions, with no indication as to method, and some of them lack major components.[5]
 
 From the age of Greek mathematics, Eudoxus ( BC) used the method of exhaustion, which foreshadows the concept of the limit, to calculate areas and volumes, while Archimedes ( BC) developed this idea further, inventing heuristics which resemble the methods of integral calculus.[6]
 
@@ -21,7 +21,7 @@ The method of exhaustion was later discovered independently in China by Liu Hui 
 
 Medieval
 
-Alhazen-cropped.png In the Middle East, Hasan Ibn al-Haytham, Latinized as Alhazen ( ) derived a formula for the sum of fourth powers. He used the results to carry out what would now be called an integration of this function, where the formulae for the sums of integral squares and fourth powers allowed him to calculate the volume of a paraboloid.[10]
+In the Middle East, Hasan Ibn al-Haytham, Latinized as Alhazen ( ) derived a formula for the sum of fourth powers. He used the results to carry out what would now be called an integration of this function, where the formulae for the sums of integral squares and fourth powers allowed him to calculate the volume of a paraboloid.[10]
 
 In the 14th century, Indian mathematicians gave a non-rigorous method, resembling differentiation, applicable to some trigonometric functions. Madhava of Sangamagrama and the Kerala School of Astronomy and Mathematics thereby stated components of calculus. A complete theory encompassing these components is now well known in the Western world as the _Taylor series_ or _infinite series approximations_.[11] However, they were not able to "combine many differing ideas under the two unifying themes of the derivative and the integral, show the connection between the two, and turn calculus into the great problem-solving tool we have today".[12]
 
@@ -31,11 +31,11 @@ In Europe, the foundational work was a treatise written by Bonaventura Cavalieri
 
 The formal study of calculus brought together Cavalieri's infinitesimals with the calculus of finite differences developed in Europe at around the same time. Pierre de Fermat, claiming that he borrowed from Diophantus, introduced the concept of adequality, which represented equality up to an infinitesimal error term.[13] The combination was achieved by John Wallis, Isaac Barrow, and James Gregory, the latter two proving the second fundamental theorem of calculus around 1670.
 
-GodfreyKneller-IsaacNewton-1689.jpg developed the use of calculus in his laws of motion and gravitation.]]
+developed the use of calculus in his laws of motion and gravitation.]]
 
 The product rule and chain rule,[14] the notions of higher derivatives and Taylor series,[15] and of analytic functions were introduced by Isaac Newton in an idiosyncratic notation which he used to solve problems of mathematical physics. In his works, Newton rephrased his ideas to suit the mathematical idiom of the time, replacing calculations with infinitesimals by equivalent geometrical arguments which were considered beyond reproach. He used the methods of calculus to solve the problem of planetary motion, the shape of the surface of a rotating fluid, the oblateness of the earth, the motion of a weight sliding on a cycloid, and many other problems discussed in his _Principia Mathematica_ (1687). In other work, he developed series expansions for functions, including fractional and irrational powers, and it was clear that he understood the principles of the Taylor series. He did not publish all these discoveries, and at this time infinitesimal methods were still considered disreputable.
 
-Gottfried_Wilhelm_Leibniz,_Bernhard_Christoph_Francke.jpg was the first to state clearly the rules of calculus.]]
+was the first to state clearly the rules of calculus.]]
 
 These ideas were arranged into a true calculus of infinitesimals by Gottfried Wilhelm Leibniz, who was originally accused of plagiarism by Newton.[16] He is now regarded as an independent inventor of and contributor to calculus. His contribution was to provide a clear set of rules for working with infinitesimal quantities, allowing the computation of second and higher derivatives, and providing the product rule and chain rule, in their differential and integral forms. Unlike Newton, Leibniz paid a lot of attention to the formalism, often spending days determining appropriate symbols for concepts.
 
@@ -43,7 +43,7 @@ Today, Leibniz and Newton are usually both given credit for independently invent
 
 When Newton and Leibniz first published their results, there was great controversy over which mathematician (and therefore which country) deserved credit. Newton derived his results first (later to be published in his _Method of Fluxions_), but Leibniz published his "Nova Methodus pro Maximis et Minimis" first. Newton claimed Leibniz stole ideas from his unpublished notes, which Newton had shared with a few members of the Royal Society. This controversy divided English-speaking mathematicians from continental European mathematicians for many years, to the detriment of English mathematics. A careful examination of the papers of Leibniz and Newton shows that they arrived at their results independently, with Leibniz starting first with integration and Newton with differentiation. It is Leibniz, however, who gave the new discipline its name. Newton called his calculus "the science of fluxions".
 
-Since the time of Leibniz and Newton, many mathematicians have contributed to the continuing development of calculus. One of the first and most complete works on both infinitesimal and integral calculus was written in 1748 by Maria Gaetana Agnesi.[17][18] Maria_Gaetana_Agnesi.jpg]]
+Since the time of Leibniz and Newton, many mathematicians have contributed to the continuing development of calculus. One of the first and most complete works on both infinitesimal and integral calculus was written in 1748 by Maria Gaetana Agnesi.[17][18] ]]
 
 Foundations
 
@@ -76,8 +76,6 @@ In the late 19th century, infinitesimals were replaced within academia by the ep
 
 Differential calculus
 
-Tangent_derivative_calculusdia.svg
-
 Differential calculus is the study of the definition, properties, and applications of the derivative of a function. The process of finding the derivative is called _differentiation_. Given a function and a point in the domain, the derivative at that point is a way of encoding the small-scale behavior of the function near that point. By finding the derivative of a function at every point in its domain, it is possible to produce a new function, called the _derivative function_ or just the _derivative_ of the original function. In formal terms, the derivative is a linear operator which takes a function as its input and produces a second function as its output. This is more abstract than many of the processes studied in elementary algebra, where functions usually input a number and output another number. For example, if the doubling function is given the input three, then it outputs six, and if the squaring function is given the input three, then it outputs nine. The derivative, however, can take the squaring function as an input. This means that the derivative takes all the information of the squaring function—such as that two is sent to four, three is sent to nine, four is sent to sixteen, and so on—and uses this information to produce another function. The function produced by deriving the squaring function turns out to be the doubling function.
 
 In more explicit terms the "doubling function" may be denoted by 2_x_}} and the "squaring function" by _x_²}}. The "derivative" now takes the function , defined by the expression "", as an input, that is all the information—such as that two is sent to four, three is sent to nine, four is sent to sixteen, and so on—and uses this information to output another function, the function 2_x_}}, as will turn out.
@@ -101,8 +99,6 @@ $$\lim_{h \to 0}{f(a+h) - f(a)\over{h}}.$$
 Geometrically, the derivative is the slope of the tangent line to the graph of at . The tangent line is a limit of secant lines just as the derivative is a limit of difference quotients. For this reason, the derivative is sometimes called the slope of the function .
 
 Here is a particular example, the derivative of the squaring function at the input 3. Let _x_²}} be the squaring function.
-
-Sec2tan.gif
 
 $$\begin{align}f'(3) &=\lim_{h \to 0}{(3+h)^2 - 3^2\over{h}} \\
 &=\lim_{h \to 0}{9 + 6h + h^2 - 9\over{h}} \\
@@ -148,7 +144,7 @@ _D__i__s__t__a__n__c__e_ = _S__p__e__e__d_ ⋅ _T__i__m__e_
 
 If the speed is constant, only multiplication is needed, but if the speed changes, a more powerful method of finding the distance is necessary. One such method is to approximate the distance traveled by breaking up the time into many short intervals of time, then multiplying the time elapsed in each interval by one of the speeds in that interval, and then taking the sum (a Riemann sum) of the approximate distance traveled in each interval. The basic idea is that if only a short time elapses, then the speed will stay more or less the same. However, a Riemann sum only gives an approximation of the distance traveled. We must take the limit of all such Riemann sums to find the exact distance traveled.
 
-Constant_velocity.png Integral_as_region_under_curve.svg When velocity is constant, the total distance traveled over the given time interval can be computed by multiplying velocity and time. For example, travelling a steady 50 mph for 3 hours results in a total distance of 150 miles. In the diagram on the left, when constant velocity and time are graphed, these two values form a rectangle with height equal to the velocity and width equal to the time elapsed. Therefore, the product of velocity and time also calculates the rectangular area under the (constant) velocity curve. This connection between the area under a curve and distance traveled can be extended to _any_ irregularly shaped region exhibiting a fluctuating velocity over a given time period. If in the diagram on the right represents speed as it varies over time, the distance traveled (between the times represented by and ) is the area of the shaded region .
+When velocity is constant, the total distance traveled over the given time interval can be computed by multiplying velocity and time. For example, travelling a steady 50 mph for 3 hours results in a total distance of 150 miles. In the diagram on the left, when constant velocity and time are graphed, these two values form a rectangle with height equal to the velocity and width equal to the time elapsed. Therefore, the product of velocity and time also calculates the rectangular area under the (constant) velocity curve. This connection between the area under a curve and distance traveled can be extended to _any_ irregularly shaped region exhibiting a fluctuating velocity over a given time period. If in the diagram on the right represents speed as it varies over time, the distance traveled (between the times represented by and ) is the area of the shaded region .
 
 To approximate that area, an intuitive method would be to divide up the distance between and into a number of equal segments, the length of each segment represented by the symbol . For each small segment, we can choose one value of the function . Call that value . Then the area of the rectangle with base and height gives the distance (time multiplied by speed ) traveled in that segment. Associated with each segment is the average value of the function above it, _h_}}. The sum of all such rectangles gives an approximation of the area between the axis and the curve, which is an approximation of the total distance traveled. A smaller value for will give more rectangles and in most cases a better approximation, but for an exact answer we need to take a limit as approaches zero.
 
@@ -188,7 +184,7 @@ This realization, made by both Newton and Leibniz, who based their results on ea
 
 Applications
 
-NautilusCutawayLogarithmicSpiral.jpg of the Nautilus shell is a classical image used to depict the growth and change related to calculus.]] Calculus is used in every branch of the physical sciences, actuarial science, computer science, statistics, engineering, economics, business, medicine, demography, and in other fields wherever a problem can be mathematically modeled and an optimal solution is desired. It allows one to go from (non-constant) rates of change to the total change or vice versa, and many times in studying a problem we know one and are trying to find the other.
+of the Nautilus shell is a classical image used to depict the growth and change related to calculus.]] Calculus is used in every branch of the physical sciences, actuarial science, computer science, statistics, engineering, economics, business, medicine, demography, and in other fields wherever a problem can be mathematically modeled and an optimal solution is desired. It allows one to go from (non-constant) rates of change to the total change or vice versa, and many times in studying a problem we know one and are trying to find the other.
 
 Physics makes particular use of calculus; all concepts in classical mechanics and electromagnetism are related through calculus. The mass of an object of known density, the moment of inertia of objects, as well as the total energy of an object within a conservative field can be found by the use of calculus. An example of the use of calculus in mechanics is Newton's second law of motion: historically stated it expressly uses the term "change of motion" which implies the derivative saying _The_ CHANGE _of momentum of a body is equal to the resultant force acting on the body and is in the same direction._ Commonly expressed today as Force = Mass × acceleration, it implies differential calculus because acceleration is the time derivative of velocity or second time derivative of trajectory or spatial position. Starting from knowing how an object is accelerating, we use calculus to derive its path.
 

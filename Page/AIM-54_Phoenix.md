@@ -17,7 +17,7 @@ The Navy would require a long-range, long-endurance interceptor aircraft to defe
 
 AIM-54
 
-AIM-54A_first_test_A-3A_NAN11-66.jpg-testbed in 1966]]
+-testbed in 1966]]
 
 In the early 1960s, the U.S. Navy made the next interceptor attempt with the F-111B, and they needed a new missile design. At the same time, the USAF canceled the projects for their land-based high-speed interceptor aircraft, the North American XF-108 Rapier and the Lockheed YF-12, and left the capable AIM-47 Falcon missile at a quite advanced stage of development, but with no effective launch platform.
 
@@ -42,8 +42,6 @@ The Link 4 datalink allowed US Navy Tomcats to share information with the E-2C H
 
 Active guidance
 
-F-14A_VF-1_launching_AIM-54_Phoenix.JPEG
-
 The Phoenix has several guidance modes and achieves its longest range by using mid-course updates from the F-14A/B AWG-9 radar (APG-71 radar in the F-14D) as it climbs to cruise between and at close to Mach 5. The Phoenix uses this high altitude to gain gravitational potential energy, which is later converted into kinetic energy as the missile dives at high velocity towards its target. At around from the target, the missile activates its own radar to provide terminal guidance.[5] Minimum engagement range for the Phoenix is around and active homing would initiate upon launch.[6]
 
 
@@ -51,20 +49,16 @@ Service history
 
 U.S. combat experience
 
-AIM-54_Phoenix_destroys_QF-4_drone_1983.jpeg target drone, 1983.]]
+target drone, 1983.]]
 
 -   On January 5, 1999, a pair of US F-14s fired two Phoenixes at Iraqi MiG-25s southeast of Baghdad. Both AIM-54s' rocket motors failed and neither missile hit its target.[7][8]
 -   On September 9, 1999, another US F-14 launched an AIM-54 at an Iraqi MiG-23 that was heading south into the no-fly zone from Al Taqaddum air base west of Baghdad. The missile missed, eventually going into the ground after the Iraqi fighter reversed course and fled north.[9]
-
-AIM-54_Phoenix_cropped.jpg
 
 The AIM-54 Phoenix was retired from USN service on September 30, 2004. F-14 Tomcats were retired on September 22, 2006. They were replaced by shorter-range AIM-120 AMRAAMs, employed on the F/A-18E/F Super Hornet.
 
 Despite the much-vaunted capabilities, the Phoenix was rarely used in combat, with only two confirmed launches and no confirmed targets destroyed in US Navy service, though a large number of kills were claimed by Iranian F-14s during the Iran–Iraq War. The USAF F-15 Eagle had responsibility for overland combat air patrol duties in Operation Desert Storm in 1991, primarily because of the onboard F-15 IFF capabilities. The Tomcat did not have the requisite IFF capability mandated by the JFACC to satisfy the rules of engagement to utilize the Phoenix capability at beyond visual range. The AIM-54 was not adopted by any foreign nation besides Iran, or any other US armed service, and was not used on any aircraft other than the F-14.
 
 Iranian combat experience
-
-Irani_F-14_Tomcats_carrying_AIM-54_Phoenixs.jpg
 
 There is very little information available regarding Iran's use of its 79 F-14A Tomcats (delivered prior to 1979) in most western outlets. The exception is a book released by Osprey Publishing titled _Iranian F-14 Tomcats in Combat_ by Tom Cooper and Farzad Bishop.[10] Most of the research contained in the book was based on pilot interviews. Reports vary on the use of the 285 missiles supplied to Iran,[11] during the Iran–Iraq War (1980–1988), and achieving at least 78 victories against Iraqi MiG-21/23/25s, Mirage F-1s, Super Étendards, and even one AM-39 Exocet and one C-601 anti-ship cruise missiles.[12]
 
@@ -75,7 +69,7 @@ Both the F-14 Tomcat and AIM-54 Phoenix missile continue in the service of the I
 
 Variants
 
-Phoenix_missile_at_Grumman_Memorial_Park.jpg in New York State]]
+in New York State]]
 
 : Original model that became operational with the U.S. Navy in about 1974, and it was also exported to Iran before the Iran hostage crisis beginning in 1979.
 : Also known as the 'Dry' missile. A version with simplified construction and no coolant conditioning. Did not enter series production. Developmental work started in January 1972. 7 X-AIM-54B missiles were created for testing, 6 of them by modifying pilot production IVE/PIP rounds. After two successful test firings, the 'Dry' missile effort was cancelled for being "not cost effective".[16]
@@ -90,8 +84,6 @@ AIM-54B: A land based version for the USMC was also proposed. It has been sugges
 
 
 Operators
-
-AIM-54_operators.png
 
 Current operators
 

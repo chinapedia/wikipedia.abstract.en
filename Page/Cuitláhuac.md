@@ -7,7 +7,7 @@ Cuitláhuac was the eleventh son of the ruler Axayacatl and a younger brother of
 
 Cuitláhuac was ritually married to Moctezuma's eldest daughter, a ten- or eleven-year-old girl, who later was called Isabel Moctezuma.[8]
 
-Cuauhtláhuac.jpg Cuitláhuac ruled just 80 days, perhaps dying from smallpox[9] that had been introduced to the New World by the Europeans. The early sources do not explicitly say from what he succumbed.[10] Immediately after Cuitláhuac's death, Cuauhtémoc was made the next _tlatoani_.[11]
+Cuitláhuac ruled just 80 days, perhaps dying from smallpox[9] that had been introduced to the New World by the Europeans. The early sources do not explicitly say from what he succumbed.[10] Immediately after Cuitláhuac's death, Cuauhtémoc was made the next _tlatoani_.[11]
 
 
 Legacy

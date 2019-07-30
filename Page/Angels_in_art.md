@@ -1,4 +1,4 @@
-Auf_zarten_Saiten.jpg, 1900]] William-Adolphe_Bouguereau_(1825-1905)_-_Song_of_the_Angels_(1881).jpg (1825-1905)]]
+, 1900]] (1825-1905)]]
 
 ANGELS have appeared in works of art since early Christian art, and they have been a popular subject for Byzantine and European paintings and sculpture.
 
@@ -7,7 +7,7 @@ Angels are usually intended, in both Christian and Islamic art, to be beautiful,
 
 Christian art
 
-Annunciation_on_the_triumphal_arch_of_santa_maria_maggiore_in_rome.pngs, Basilica di Santa Maria Maggiore, Rome (432-440)]]
+s, Basilica di Santa Maria Maggiore, Rome (432-440)]]
 
 In the Early Church
 
@@ -25,7 +25,7 @@ From then on Christian art generally represented angels with wings, as in the cy
 
 Byzantine art
 
-Erzengel_Michael_und_Gabriel.jpg of the Archangels Michael and Gabriel wearing the _loros_ of the Imperial guards.]]
+of the Archangels Michael and Gabriel wearing the _loros_ of the Imperial guards.]]
 
 Angels appear in Byzantine art in mosaics and icons. Artists found some of their inspiration from winged Greek figures such as "Victory". They also drew from imperial iconography. Court eunuchs could rise to positions of authority in the Empire. They performed ceremonial functions and served as trusted messengers. Amelia R. Brown points out that legislation under Justinian indicates that many of them came from the Caucasus, having light eyes, hair, and skin, as well as the "comely features and fine bodies" desired by slave traders.[14] Those "castrated in childhood developed a distinctive skeletal structure, lacked full masculine musculature, body hair and beards,...." As officials, they would wear a white tunic decorated with gold. Brown suggests that "Byzantine artists drew, consciously or not, on this iconography of the court eunuch".[15]
 
@@ -37,7 +37,7 @@ Medieval depictions of angels borrow from the Byzantine. In the French _Hours of
 
 Renaissance art
 
-ANGELICO,_Fra_Annunciation,_1437-46_(2236990916).jpg The classical _erotes_ or _putto_ re-appeared in art during the Italian Renaissance in both religious and mythological art, and is often known in English as a cherub, the singular of cherubim, actually one of the higher ranks in the Christian angelic hierarchy. They normally appear in groups and are generally given wings in religious art, and are sometimes represented as just a winged head. They generally are just in attendance, except that they may be amusing Christ or John the Baptist as infants in scenes of the Holy Family.
+The classical _erotes_ or _putto_ re-appeared in art during the Italian Renaissance in both religious and mythological art, and is often known in English as a cherub, the singular of cherubim, actually one of the higher ranks in the Christian angelic hierarchy. They normally appear in groups and are generally given wings in religious art, and are sometimes represented as just a winged head. They generally are just in attendance, except that they may be amusing Christ or John the Baptist as infants in scenes of the Holy Family.
 
 Victorian art
 
@@ -46,11 +46,11 @@ In the late 19th century artists' model Jane Burden Morris came to embody an ide
 
 Islamic art
 
-Deux_livres_en_turc-oriental_écrit_(...)Ferid_ed-Din_btv1b8427195m-1.jpgAngels in Islamic art often appear in illustrated manuscripts of Muhammad's life. Other common depictions of angels in Islamic art include angels with Adam and Eve in the garden of Eden, angels discerning the saved from the damned on the Day of Judgement, and angels as a repeating motif in borders or textiles.[21] Islamic depictions of angels resemble winged Christian angels, although Islamic angels are typically shown with multicolored wings.[22] Angels, such as the archangel Gabriel, are typically depicted as masculine, which is consistent with God's rejection of feminine depictions of angels in several verses of Quran.[23] Nevertheless, later depictions of angels in Islamic art are more feminine and androgynous.[24]
+Angels in Islamic art often appear in illustrated manuscripts of Muhammad's life. Other common depictions of angels in Islamic art include angels with Adam and Eve in the garden of Eden, angels discerning the saved from the damned on the Day of Judgement, and angels as a repeating motif in borders or textiles.[21] Islamic depictions of angels resemble winged Christian angels, although Islamic angels are typically shown with multicolored wings.[22] Angels, such as the archangel Gabriel, are typically depicted as masculine, which is consistent with God's rejection of feminine depictions of angels in several verses of Quran.[23] Nevertheless, later depictions of angels in Islamic art are more feminine and androgynous.[24]
 
 Angels in manuscripts
 
-The 13th century book _Ajā'ib al-makhlūqāt wa gharā'ib al-mawjūdāt_ _(The Wonders of Creation)_ by Zakariya al-Qazwini describes Islamic angelology, and is often illustrated with many images of angels. The angels are typically depicted with bright, vivid colors, giving them unusual liveliness and other-worldly translucence.[25] While some angels are referred to as "Guardians of the Kingdom of God," others are associated with hell. An undated manuscript of _The Wonders of Creation_ from the Bavarian State Library in Munich includes depictions of angels both alone and alongside humans and animals.[26] Angels are also illustrated in Timurid and Ottoman manuscripts, such as _The Timurid Book of the Prophet Muhammad’s Ascension (Mir‘ajnama)_ and the _Siyer-i Nebi._[27]Maalik_opens_the_gates_of_hell.jpg
+The 13th century book _Ajā'ib al-makhlūqāt wa gharā'ib al-mawjūdāt_ _(The Wonders of Creation)_ by Zakariya al-Qazwini describes Islamic angelology, and is often illustrated with many images of angels. The angels are typically depicted with bright, vivid colors, giving them unusual liveliness and other-worldly translucence.[25] While some angels are referred to as "Guardians of the Kingdom of God," others are associated with hell. An undated manuscript of _The Wonders of Creation_ from the Bavarian State Library in Munich includes depictions of angels both alone and alongside humans and animals.[26] Angels are also illustrated in Timurid and Ottoman manuscripts, such as _The Timurid Book of the Prophet Muhammad’s Ascension (Mir‘ajnama)_ and the _Siyer-i Nebi._[27]
 
 ANGELS IN HEAVEN AND HELL
 
@@ -60,7 +60,7 @@ Another angel-like creature mentioned in the Qu’ran (4:97, 32:11) is the _zab�
 
 ANGELS ASSOCIATED WITH MUHAMMAD
 
-Muhammad_during_the_Mi'raj_-_from_Jami_al-Tawarikh.jpgAlthough depictions of Muhammad are often forbidden, the few that exist often include images of angels. Specifically, the Archangel Gabriel is frequently shown alongside the prophet.[31] For example, in _The Timurid Book of the Prophet Muhammad’s Ascension_, the Archangel Gabriel appears to the Prophet Muhammad in Mecca to announce his ascension.[32] Kneeling before Muhammad, Gabriel is shown with colorful wings and a crown. Later in _The Timurid Book,_ Muhammad is shown with Gabriel meeting a group of angels in heaven. In the _Jami' al-tawarikh_, a Persian history from the 14th century, Muhammad is depicted beside al-Buraq, whose tail is transformed into an angel, while two other angels approach.[33] A 16th-century Ottoman manuscript of _Siyer-i Nebi_, a Turkish epic about the life of Muhammad, also includes many depictions of the prophet alongside angels.[34]
+Although depictions of Muhammad are often forbidden, the few that exist often include images of angels. Specifically, the Archangel Gabriel is frequently shown alongside the prophet.[31] For example, in _The Timurid Book of the Prophet Muhammad’s Ascension_, the Archangel Gabriel appears to the Prophet Muhammad in Mecca to announce his ascension.[32] Kneeling before Muhammad, Gabriel is shown with colorful wings and a crown. Later in _The Timurid Book,_ Muhammad is shown with Gabriel meeting a group of angels in heaven. In the _Jami' al-tawarikh_, a Persian history from the 14th century, Muhammad is depicted beside al-Buraq, whose tail is transformed into an angel, while two other angels approach.[33] A 16th-century Ottoman manuscript of _Siyer-i Nebi_, a Turkish epic about the life of Muhammad, also includes many depictions of the prophet alongside angels.[34]
 
 
 Galleries of Angels

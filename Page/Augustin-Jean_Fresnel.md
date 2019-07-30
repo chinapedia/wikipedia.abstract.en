@@ -9,7 +9,7 @@ Fresnel had a lifelong battle with tuberculosis, to which he succumbed at the ag
 
 Early life
 
-Augustin_Fresnel_buste_Broglie.jpg (facing Rue Jean François Mérimée), inaugurated on 14 September 1884. The inscription, when translated, says:
+(facing Rue Jean François Mérimée), inaugurated on 14 September 1884. The inscription, when translated, says:
 "Augustin Fresnel, engineer of Bridges and Roads, member of the Academy of Sciences, creator of lenticular lighthouses, was born in this house on 10 May 1788. The theory of light owes to this emulator of Newton the highest concepts and the most useful applications."]]
 
 Family
@@ -48,7 +48,7 @@ Historical context: From Newton to Biot
 
 The appreciation of Fresnel's reconstruction of physical optics might be assisted by an overview of the fragmented state in which he found the subject. In this subsection, optical phenomena that were unexplained or whose explanations were disputed are named in BOLD TYPE.
 
-Refraction_-_Huygens-Fresnel_principle.svg are shown in blue before refraction, and in green after refraction. For _ordinary_ refraction, the secondary wavefronts (gray curves) are spherical, so that the rays (straight gray lines) are perpendicular to the wavefronts.]]
+are shown in blue before refraction, and in green after refraction. For _ordinary_ refraction, the secondary wavefronts (gray curves) are spherical, so that the rays (straight gray lines) are perpendicular to the wavefronts.]]
 
 The corpuscular theory of light, favored by Isaac Newton and accepted by nearly all of Fresnel's seniors, easily explained RECTILINEAR PROPAGATION: the corpuscles obviously moved very fast, so that their paths were very nearly straight. The wave theory, as developed by Christiaan Huygens in his _Treatise on Light_ (1690), explained rectilinear propagation on the assumption that each point crossed by a traveling wavefront becomes the source of a secondary wavefront. Given the initial position of a traveling wavefront, any later position (according to Huygens) was the common tangent surface (envelope) of the secondary wavefronts emitted from the earlier position.[25] As the extent of the common tangent was limited by the extent of the initial wavefront, the repeated application of Huygens' construction to a plane wavefront of limited extent (in a uniform medium) gave a straight, parallel beam. While this construction indeed predicted rectilinear propagation, it was difficult to reconcile with the common observation that wavefronts on the surface of water can bend around obstructions, and with the similar behavior of sound waves — causing Newton to maintain, to the end of his life, that if light consisted of waves it would "bend and spread every way" into the shadows.[26]
 
@@ -58,21 +58,15 @@ Similarly inconclusive was STELLAR ABERRATION — that is, the apparent change i
 
 The outstanding strength of Huygens' theory was his explanation of the BIREFRINGENCE (double refraction) of "Iceland crystal" (transparent calcite), on the assumption that the secondary waves are spherical for the ordinary refraction (which satisfies Snell's law) and spheroidal for the _extraordinary_ refraction (which does not).[30] In general, Huygens' common-tangent construction implies that rays are _paths of least time_ between successive positions of the wavefront, in accordance with Fermat's principle.[31] In the special case of isotropic media, the secondary wavefronts must be spherical, and Huygens' construction then implies that the rays are perpendicular to the wavefront; indeed, the law of _ordinary_ refraction can be separately derived from that premise, as Ignace-Gaston Pardies did before Huygens.[32]
 
-Ggb_in_soap_bubble_3.JPG'' (formerly called "thin-plate" interference).]]
+'' (formerly called "thin-plate" interference).]]
 
 Although Newton rejected the wave theory, he noticed its potential to explain colors, including the colors of "THIN PLATES" (e.g., "Newton's rings", and the colors of skylight reflected in soap bubbles), on the assumption that light consists of _periodic_ waves, with the lowest frequencies (longest wavelengths) at the red end of the spectrum, and the highest frequencies (shortest wavelengths) at the violet end. In 1672 he published a heavy hint to that effect,[33] but contemporary supporters of the wave theory failed to act on it: Robert Hooke treated light as a periodic sequence of pulses but did not use frequency as the criterion of color,[34] while Huygens treated the waves as individual pulses without any periodicity;[35] and Pardies died young in 1673. Newton himself tried to explain colors of thin plates using the corpuscular theory, by supposing that his corpuscles had the wavelike property of alternating between "fits of easy transmission" and "fits of easy reflection",[36] the distance between like "fits" depending on the color and the medium[37] and, awkwardly, on the angle of refraction or reflection into that medium.[38] More awkwardly still, this theory required thin plates to reflect only at the back surface, although _thick_ plates manifestly reflected also at the front surface.[39] It was not until 1801 that Thomas Young, in the Bakerian Lecture for that year, cited Newton's hint, and accounted for the colors of a thin plate as the combined effect of the front and back reflections, which reinforce or cancel each other according to the _wavelength_ and the thickness. Young similarly explained the colors of "striated surfaces" (e.g., GRATINGS) as the wavelength-dependent reinforcement or cancellation of reflections from adjacent lines. He described this reinforcement or cancellation as INTERFERENCE.
-
-Thomas_Young_(scientist).jpg
 
 Neither Newton nor Huygens satisfactorily explained DIFFRACTION — the blurring and fringing of shadows where, according to rectilinear propagation, they ought to be sharp. Newton, who called diffraction "inflexion", supposed that rays of light passing close to obstacles were bent ("inflected"); but his explanation was only qualitative.[40] Huygens' common-tangent construction, without modifications, could not accommodate diffraction at all. Two such modifications were proposed by Young in the same 1801 Bakerian Lecture: first, that the secondary waves near the edge of an obstacle could diverge into the shadow, but only weakly, due to limited reinforcement from other secondary waves; and second, that diffraction by an edge was caused by interference between two rays: one reflected off the edge, and the other inflected while passing near the edge. The latter ray would be undeviated if sufficiently far from the edge, but Young did not elaborate on that case. These were the earliest suggestions that the degree of diffraction depends on wavelength.[41] Later, in the 1803 Bakerian Lecture, Young ceased to regard inflection as a separate phenomenon,[42] and produced evidence that diffraction fringes _inside_ the shadow of a narrow obstacle were due to interference: when the light from one side was blocked, the internal fringes disappeared.[43] But Young was alone in such efforts until Fresnel entered the field.[44]
 
 Huygens, in his investigation of double refraction, noticed something that he could not explain: when light passes through two similarly oriented calcite crystals at normal incidence, the ordinary ray emerging from the first crystal suffers only the ordinary refraction in the second, while the extraordinary ray emerging from the first suffers only the extraordinary refraction in the second; but when the second crystal is rotated 90° about the incident rays, the roles are interchanged, so that the ordinary ray emerging from the first crystal suffers only the extraordinary refraction in the second, and vice versa.[45] This discovery gave Newton another reason to reject the wave theory: rays of light evidently had "sides".[46] Corpuscles could have sides[47] (or _poles_, as they would later be called); but waves of light could not,[48] because (so it seemed) any such waves would need to be longitudinal (with vibrations in the direction of propagation). Newton offered an alternative "Rule" for the extraordinary refraction,[49] which rode on his authority through the 18th century, although he made "no known attempt to deduce it from any principles of optics, corpuscular or otherwise."
 
-Etienne-Louis_Malus.jpg
-
 In 1808 the extraordinary refraction of calcite was investigated experimentally, with unprecedented accuracy, by Étienne-Louis Malus, and found to be consistent with Huygens' spheroid construction, not Newton's "Rule". Malus, encouraged by Pierre-Simon Laplace, then sought to explain this law in corpuscular terms: from the known relation between the incident and refracted ray directions, Malus derived the corpuscular velocity (as a function of direction) that would satisfy Maupertuis's "least action" principle. But, as Young pointed out, the existence of such a velocity law was guaranteed by Huygens' spheroid, because Huygens' construction leads to Fermat's principle, which becomes Maupertuis's principle if the ray speed is replaced by the reciprocal of the particle speed! The corpuscularists had not found a _force_ law that would yield the alleged velocity law. Worse, it was doubtful that any such force law would satisfy the conditions of Maupertuis's principle.[50] In contrast, Young proceeded to show that "a medium more easily compressible in one direction than in any direction perpendicular to it, as if it consisted of an infinite number of parallel plates connected by a substance somewhat less elastic" admits spheroidal longitudinal wavefronts, as Huygens supposed.[51]
-
-Calcite_and_polarizing_filter.gif
 
 But Malus, in the course of his experiments on double refraction, noticed something else: when a ray of light is reflected off a non-metallic surface at the appropriate angle, it behaves like _one_ of the two rays emerging from a calcite crystal.[52] It was Malus who coined the term POLARIZATION to describe this behavior, although the polarizing angle became known as BREWSTER'S ANGLE after its dependence on the refractive index was determined experimentally by David Brewster in 1815. Malus also introduced the term _plane of polarization_. In the case of polarization by reflection, his "plane of polarization" was the plane of the incident and reflected rays; in modern terms, this is the plane _normal_ to the _electric_ vibration. In 1809, Malus further discovered that the intensity of light passing through _two_ polarizers is proportional to the squared cosine of the angle between their planes of polarization (MALUS'S LAW),[53] whether the polarizers work by reflection or double refraction, and that _all_ birefringent crystals produce both extraordinary refraction and polarization.[54] As the corpuscularists started trying to explain these things in terms of polar "molecules" of light, the wave-theorists had _no working hypothesis_ on the nature of polarization, prompting Young to remark that Malus's observations "present greater difficulties to the advocates of the undulatory theory than any other facts with which we are acquainted."[55]
 
@@ -80,11 +74,7 @@ Malus died in February 1812, at the age of 36, shortly after receiving the Rumfo
 
 In August 1811, François Arago reported that if a thin plate of mica was viewed against a white polarized backlight through a calcite crystal, the two images of the mica were of complementary colors (the overlap having the same color as the background). The light emerging from the mica was "_de_polarized" in the sense that there was no orientation of the calcite that made one image disappear; yet it was not ordinary ("_un_polarized") light, for which the two images would be of the same color. Rotating the calcite around the line of sight changed the colors, though they remained complementary. Rotating the mica changed the _saturation_ (not the hue) of the colors. This phenomenon became known as CHROMATIC POLARIZATION. Replacing the mica with a much thicker plate of quartz, with its faces perpendicular to the optic axis (the axis of Huygens' spheroid or Malus's velocity function), produced a similar effect, except that rotating the quartz made no difference. Arago tried to explain his observations in _corpuscular_ terms.[56]
 
-Arago_Francois_portrait.jpg
-
 In 1812, as Arago pursued further qualitative experiments and other commitments, Jean-Baptiste Biot reworked the same ground using a gypsum lamina in place of the mica, and found empirical formulae for the intensities of the ordinary and extraordinary images. The formulae contained two coefficients, supposedly representing colors of rays "affected" and "unaffected" by the plate — the "affected" rays being of the same color mix as those reflected by amorphous thin plates of proportional, but lesser, thickness.[57]
-
-T1-_d642_-_Fig._327._—_J._B._Biot.png
 
 Arago protested, declaring that he had made some of the same discoveries but had not had time to write them up. In fact the overlap between Arago's work and Biot's was minimal, because Arago's was only qualitative and sought to include other topics. But the dispute triggered a notorious falling-out between the two men.[58]
 
@@ -96,7 +86,7 @@ In summary, in the spring of 1814, as Fresnel tried in vain to guess what polari
 
 Rêveries
 
-Léonor_Mérimée.jpg of Fresnel's uncle Léonor Mérimée (1757–1836), on the same wall as the Fresnel monument in Broglie.]]
+of Fresnel's uncle Léonor Mérimée (1757–1836), on the same wall as the Fresnel monument in Broglie.]]
 
 Fresnel's letters from later in 1814 reveal his interest in the wave theory, including his awareness that it explained the constancy of the speed of light and was at least compatible with stellar aberration. Eventually he compiled what he called his _rêveries_ (musings) into an essay and submitted it via Léonor Mérimée to André-Marie Ampère, who did not respond directly.[65] But on 19 December, Mérimée dined with Ampère and Arago, with whom he was acquainted through the École Polytechnique; and Arago promised to look at Fresnel's essay.[66]
 
@@ -126,10 +116,6 @@ Fresnel's updated memoir[86] was eventually published in the March 1816 issue of
 
 "Efficacious ray", double-mirror experiment (1816)
 
-Young_diffraction.svg
-
-Fresnel_double_mirror.png
-
 On 24 May 1816, Fresnel wrote to Young (in French), acknowledging how little of his own memoir was new.[90] But in a "supplement" signed on 14 July and read the next day,[91] Fresnel noted that the internal fringes were more accurately predicted by supposing that the two interfering rays came from some distance _outside_ the edges of the obstacle. To explain this, he divided the incident wavefront at the obstacle into what we now call _Fresnel zones_, such that the secondary waves from each zone were spread over half a cycle when they arrived at the observation point. The zones on each side of the obstacle largely canceled out in pairs, except the first, which was represented by an "efficacious ray". This approach worked for the internal fringes, but the superposition of the efficacious ray and the direct ray did _not_ work for the _external_ fringes.[92]
 
 The contribution from the "efficacious ray" was thought to be only _partly_ canceled, for reasons involving the dynamics of the medium: where the wavefront was continuous, symmetry forbade oblique vibrations; but near the obstacle that truncated the wavefront, the asymmetry allowed some sideways vibration towards the geometric shadow. This argument showed that Fresnel had not (yet) fully accepted Huygens' principle, which would have permitted oblique radiation from all portions of the front.[93]
@@ -148,8 +134,6 @@ On 15 January 1818, in a different context (revisited below), Fresnel showed tha
 
 Knowledge of this method was assumed in a preliminary note on diffraction,[103] dated 19 April 1818 and deposited on 20 April, in which Fresnel outlined the elementary theory of diffraction as found in modern textbooks. He restated Huygens' principle in combination with the superposition principle, saying that the vibration at each point on a wavefront is the sum of the vibrations that would be sent to it at that moment by all the elements of the wavefront in any of its previous positions, all elements acting separately . For a wavefront partly obstructed in a previous position, the summation was to be carried out over the unobstructed portion. In directions other than the normal to the primary wavefront, the secondary waves were weakened due to obliquity, but weakened much more by destructive interference, so that the effect of obliquity alone could be ignored.[104] For diffraction by a straight edge, the intensity as a function of distance from the geometric shadow could then be expressed with sufficient accuracy in terms of what are now called the normalized Fresnel integrals:
 
-Fresnel_Integrals_(Normalised).svg
-
 $$C(x) = \!\int_0^x \!\cos\big(\tfrac{1}{2}\pi z^2\big)\,dz$$
 ; $S(x) = \!\int_0^x \!\sin\big(\tfrac{1}{2}\pi z^2\big)\,dz\,.$
 
@@ -161,11 +145,7 @@ For the experimental testing of his calculations, Fresnel used red light with a 
 
 Near the end of the memoir, Fresnel summed up the difference between Huygens' use of secondary waves and his own: whereas Huygens says there is light only where the secondary waves exactly agree, Fresnel says there is complete darkness only where the secondary waves exactly cancel out.[113]
 
-Simeon_Poisson.jpg
-
 The judging committee comprised Laplace, Biot, and Poisson (all corpuscularists), Gay-Lussac (uncommitted), and Arago, who eventually wrote the committee's report.[114] Although entries in the competition were supposed to be anonymous to the judges, Fresnel's must have been recognizable by the content.[115] There was only one other entry, of which neither the manuscript nor any record of the author has survived.[116] That entry (identified as "no.1") was mentioned only in the last paragraph of the judges' report,[117] noting that the author had shown ignorance of the relevant earlier works of Young and Fresnel, used insufficiently precise methods of observation, overlooked known phenomena, and made obvious errors. In the words of John Worrall, "The competition facing Fresnel could hardly have been less stiff."[118] We may infer that the committee had only two options: award the prize to Fresnel ("no.2"), or withhold it.[119]
-
-A_photograph_of_the_Arago_spot.png
 
 The committee deliberated into the new year. Then Poisson, exploiting a case in which Fresnel's theory gave easy integrals, predicted that if a circular obstacle were illuminated by a point-source, there should be (according to the theory) a bright spot in the center of the shadow, illuminated as brightly as the exterior. This seems to have been intended as a _reductio ad absurdum_. Arago, undeterred, assembled an experiment with an obstacle 2mm in diameter — and there, in the center of the shadow, was Poisson's spot.[120]
 
@@ -220,8 +200,6 @@ Moreover, by this time Fresnel had a new, simpler derivation of his equations on
 
 Breakthrough: Pure transverse waves (1821)
 
-Andre-marie-ampere2.jpg
-
 In the draft memoir of 30 August 1816, Fresnel mentioned two hypotheses — one of which he attributed to Ampère — by which the non-interference of orthogonally-polarized beams could be explained if polarized light waves were _partly_ transverse. But Fresnel could not develop either of these ideas into a comprehensive theory. According to his later account, both he and Ampère realized as early as September 1816 that the non-interference of orthogonally-polarized beams, together with the phase-inversion rule in chromatic polarization, would be most easily explained if the waves were _purely_ transverse. But that would raise a new difficulty: as natural light seemed to be _un_polarized and its waves were therefore presumed to be longitudinal, one would need to explain how the longitudinal component of vibration disappeared on polarization, and why it did not reappear when polarized light was reflected or refracted obliquely by a glass plate.[145]
 
 Independently, on 12 January 1817, Young wrote to Arago (in English) noting that a transverse vibration would constitute a polarization, and that if two longitudinal waves crossed at a significant angle, they could not cancel without leaving a residual transverse vibration.[146] Young repeated this idea in an article published in a supplement to the _Encyclopædia Britannica_ in February 1818, in which he added that Malus's law would be explained if polarization consisted in a transverse motion.
@@ -255,15 +233,11 @@ This success inspired James MacCullagh and Augustin-Louis Cauchy, beginning in 1
 
 Circular and elliptical polarization, optical rotation (1822)
 
-Circular.Polarization.Circularly.Polarized.Light_Left.Hand.Animation.305x190.255Colors.gif
-
 In a memoir dated 9 December 1822, Fresnel coined the terms _linear polarization_ (French: _polarisation rectiligne_) for the simple case in which the perpendicular components of vibration are in phase or 180° out of phase, _circular polarization_ for the case in which they are of equal magnitude and a quarter-cycle (±90°) out of phase, and _elliptical polarization_ for other cases in which the two components have a fixed amplitude ratio and a fixed phase difference. He then explained how optical rotation could be understood as a species of birefringence. Linearly-polarized light could be resolved into two circularly-polarized components rotating in opposite directions. If these components propagated at slightly different speeds, the phase difference between them — and therefore the direction of their linearly-polarized resultant — would vary continuously with distance.[160]
 
 These concepts called for a redefinition of the distinction between polarized and unpolarized light. Before Fresnel, it was thought that polarization could vary in direction, and in degree (e.g., due to variation in the angle of reflection off a transparent body), and that it could be a function of color (chromatic polarization), but not that it could vary in _kind_. Hence it was thought that the degree of polarization was the degree to which the light could be suppressed by an analyzer with the appropriate orientation. Light that had been converted from linear to elliptical or circular polarization (e.g., by passage through a crystal lamina, or by total internal reflection) was described as partly or fully "depolarized" because of its behavior in an analyzer. _After_ Fresnel, the defining feature of polarized light was that the perpendicular components of vibration had a fixed ratio of amplitudes and a fixed difference in phase. By that definition, elliptically or circularly polarized light is _fully_ polarized although it cannot be fully suppressed by an analyzer alone.[161] The conceptual gap between the wave theory and selectionism had widened again.
 
 Total internal reflection (1817–23)
-
-Fresnel_rhomb_linear_to_elliptical.svg
 
 By 1817 it had been discovered by Brewster, but not adequately reported,[162] that plane-polarized light was partly depolarized by total internal reflection if initially polarized at an acute angle to the plane of incidence. Fresnel rediscovered this effect and investigated it by including total internal reflection in a chromatic-polarization experiment. With the aid of his _first_ theory of chromatic polarization, he found that the apparently depolarized light was a mixture of components polarized parallel and perpendicular to the plane of incidence, and that the total reflection introduced a phase difference between them.[163] Choosing an appropriate angle of incidence (not yet exactly specified) gave a phase difference of 1/8 of a cycle (45°). Two such reflections from the "parallel faces" of "two coupled prisms" gave a phase difference of 1/4 of a cycle (90°). These findings were contained in a memoir submitted to the Académie on 10 November 1817 and read a fortnight later. An undated marginal note indicates that the two coupled prisms were later replaced by a single "parallelepiped in glass" — now known as a _Fresnel rhomb_.
 
@@ -319,7 +293,7 @@ As early as 1822, Fresnel discussed his perpendicular axes with Cauchy. Acknowle
 
 Photoelasticity, multiple-prism experiments (1822)
 
-Plastic_Protractor_Polarized_05375.jpg, caused by stress-induced birefringence.]]
+, caused by stress-induced birefringence.]]
 
 In 1815, Brewster reported that colors appear when a slice of isotropic material, placed between crossed polarizers, is mechanically stressed. Brewster himself immediately and correctly attributed this phenomenon to stress-induced birefringence — now known as _photoelasticity_.
 
@@ -337,8 +311,6 @@ In the following year, Poisson, who did not sign Arago's report, disputed the po
 
 Among the French, Poisson's reluctance was an exception. According to Frankel, "in Paris no debate on the issue seems to have taken place after 1825. Indeed, almost the entire generation of physicists and mathematicians who came to maturity in the 1820s — Pouillet, Savart, Lamé, Navier, Liouville, Cauchy — seem to have adopted the theory immediately." Fresnel's other prominent French opponent, Biot, appeared to take a neutral position in 1830, and eventually accepted the wave theory — possibly by 1846 and certainly by 1858.[206]
 
-Beugungsscheibchen.k.720.jpg
-
 In 1826, the British astronomer John Herschel, who was working on a book-length article on light for the _Encyclopædia Metropolitana_, addressed three questions to Fresnel concerning double refraction, partial reflection, and their relation to polarization. The resulting article, titled simply "Light", was highly sympathetic to the wave theory, although not entirely free of selectionist language. It was circulating privately by 1828 and was published in 1830.[207] Meanwhile, Young's translation of Fresnel's _De la Lumière_ was published in installments from 1827 to 1829.[208] George Biddell Airy, the former Lucasian Professor at Cambridge and future Astronomer Royal, unreservedly accepted the wave theory by 1831.[209] In 1834 he famously calculated the diffraction pattern of a circular aperture from the wave theory, thereby explaining the limited angular resolution of a perfect telescope . By the end of the 1830s, the only prominent British physicist who held out against the wave theory was Brewster, whose objections included the difficulty of explaining photochemical effects and (in his opinion) dispersion.[210]
 
 A German translation of _De la Lumière_ was published in installments in 1825 and 1828. The wave theory was adopted by Fraunhofer in the early 1820s and by Franz Ernst Neumann in the 1830s, and then began to find favor in German textbooks.[211]
@@ -354,7 +326,7 @@ Prior art
 
 Fresnel was not the first person to focus a lighthouse beam using a lens. That distinction apparently belongs to the London glass-cutter Thomas Rogers, who proposed the idea to Trinity House in 1788. The first Rogers lenses, 53cm in diameter and 14cm thick at the center, were installed at the Old Lower Lighthouse at Portland Bill in 1789.[214] Further samples followed at Howth Baily, North Foreland, and at least four other locations. But much of the light was wasted by absorption in the glass.
 
-Fresnel_lens.svg of equivalent power. (Buffon's version was biconvex.[215])]]
+of equivalent power. (Buffon's version was biconvex.[215])]]
 
 Nor was Fresnel the first to suggest replacing a convex lens with a series of concentric annular prisms, to reduce weight and absorption. In 1748, Count Buffon proposed grinding such prisms as steps in a single piece of glass. In 1790 (although secondary sources give the date as 1773 or 1788), the Marquis de Condorcet suggested that it would be easier to make the annular sections separately and assemble them on a frame; but even that was impractical at the time.[216] These designs were intended not for lighthouses, but for burning glasses. Brewster, however, proposed a system similar to Condorcet's in 1811, and by 1820 was advocating its use in British lighthouses.
 
@@ -368,8 +340,6 @@ By the end of August 1819, unaware of the Buffon-Condorcet-Brewster proposal, Fr
 
 Fresnel's innovations
 
-Fresnel_lighthouse_lens_diagram.png
-
 Fresnel's next lens was a rotating apparatus with eight "bull's-eye" panels, made in annular arcs by Saint-Gobain,[226] giving eight rotating beams — to be seen by mariners as a periodic flash. Above and behind each main panel was a smaller, sloping bull's-eye panel of trapezoidal outline with trapezoidal elements. This refracted the light to a sloping plane mirror, which then reflected it horizontally, 7 degrees ahead of the main beam, increasing the duration of the flash.[227] Below the main panels were 128 small mirrors arranged in four rings, stacked like the slats of a louver or Venetian blind. Each ring, shaped like a frustum of a cone, reflected the light to the horizon, giving a fainter steady light between the flashes. The official test, conducted on the unfinished _Arc de Triomphe_ on 20 August 1822, was witnessed by the Commission — and by Louis {{serif and his entourage — from 32km away. The apparatus was stored at Bordeaux for the winter, and then reassembled at Cordouan Lighthouse under Fresnel's supervision. On 25 July 1823, the world's first lighthouse Fresnel lens was lit.[228] It was about this time that Fresnel started coughing up blood.[229]
 
 In May 1824, Fresnel was promoted to Secretary of the _Commission des Phares_, becoming the first member of that body to draw a salary.[230] He was also an examiner (not a teacher) at the École Polytechnique since 1821; but poor health, long hours during the examination season, and anxiety about judging others induced him to resign that post in late 1824, to save his energy for his lighthouse work.[231]
@@ -380,13 +350,11 @@ In 1825 Fresnel extended his fixed-lens design by adding a rotating array outsid
 
 Also in 1825, Fresnel unveiled the _Carte des Phares_ (Lighthouse Map), calling for a system of 51 lighthouses plus smaller harbor lights, in a hierarchy of lens sizes (called _orders_, the first order being the largest), with different characteristics to facilitate recognition: a constant light (from a fixed lens), one flash per minute (from a rotating lens with eight panels), and two per minute (sixteen panels).[236]
 
-MuseeMarine-phareFresnel-p1000466.jpg'', Paris. In this case the dioptric prisms (inside the bronze rings) and catadioptric prisms (outside) are arranged to give a purely flashing light with four flashes per rotation. The assembly stands 2.54 metres tall and weighs about 1.5 tonnes.]]
+'', Paris. In this case the dioptric prisms (inside the bronze rings) and catadioptric prisms (outside) are arranged to give a purely flashing light with four flashes per rotation. The assembly stands 2.54 metres tall and weighs about 1.5 tonnes.]]
 
 In late 1825,[237] to reduce the loss of light in the reflecting elements, Fresnel proposed to replace each mirror with a catadioptric prism, through which the light would travel by refraction through the first surface, then total internal reflection off the second surface, then refraction through the third surface.[238] The result was the lighthouse lens as we now know it. In 1826 he assembled a small model for use on the Canal Saint-Martin, but he did not live to see a full-sized version.
 
 The first fixed lens with toroidal prisms was a first-order apparatus designed by Alan Stevenson under the influence of Léonor Fresnel, and fabricated by Isaac Cookson & Co. from French glass; it entered service at the Isle of May, Scotland, on 22 September 1836.[239] The first large catadioptric lenses were made in 1842 for the lighthouses at Gravelines and Île Vierge; these were fixed third-order lenses whose catadioptric rings (made in segments) were one metre in diameter. Stevenson's first-order Skerryvore lens, lit in 1844, was only partly catadioptric; it was similar to the Cordouan lens except that the lower slats were replaced by French-made catadioptric prisms, while mirrors were retained at the top. The first _fully_ catadioptric first-order lens, installed at Ailly in 1852, also gave eight rotating beams plus a fixed light at the bottom; but its top section had eight catadioptric panels focusing the light about 4 degrees ahead of the main beams, in order to lengthen the flashes. The first fully catadioptric lens with _purely revolving_ beams — also of first order — was installed at Saint-Clément-des-Baleines in 1854, and marked the completion of Augustin Fresnel's original _Carte des Phares_.[240]
-
-Flat_flexible_plastic_sheet_lens.JPG
 
 Later developments
 
@@ -395,7 +363,7 @@ Production of one-piece stepped lenses (roughly as envisaged by Buffon) eventual
 
 Honors
 
-Bust_of_Augustin_Fresnel_by_David_d'Angers-MnM_41_OA_256_D-IMG_8741.jpg (1854), formerly at the lighthouse of Hourtin, Gironde, and now exhibited at the .]]
+(1854), formerly at the lighthouse of Hourtin, Gironde, and now exhibited at the .]]
 
 Fresnel was elected to the _Société Philomathique de Paris_ in April 1819,[241] and in 1822 became one of the editors of the Société's _Bulletin des Sciences_.[242] As early as May 1817, at Arago's suggestion, Fresnel applied for membership of the Académie des Sciences, but received only one vote.[243] The successful candidate on that occasion was Joseph Fourier. In November 1822, Fourier's elevation to Permanent Secretary of the Académie created a vacancy in the physics section, which was filled in February 1823 by Pierre Louis Dulong, with 36 votes to Fresnel's 20. But in May 1823, after another vacancy was left by the death of Jacques Charles, Fresnel's election was unanimous.[244] In 1824,[245] Fresnel was made a _chevalier de la Légion d'honneur_ (Knight of the Legion of Honour).
 
@@ -405,8 +373,6 @@ The monument to Fresnel at his birthplace was dedicated on 14 September 1884 wit
 
 
 Decline and death
-
-Père-Lachaise_-_Division_14_-_Fresnel_01.jpg
 
 Fresnel's health, which had always been poor, deteriorated in the winter of 1822-3, increasing the urgency of his original research, and causing him to turn down an invitation from Young to write an article on double refraction for the _Encyclopædia Britannica_.[247] The memoirs on circular and elliptical polarization and optical rotation, and on the detailed derivation of the Fresnel equations and their application to total internal reflection, date from this period. In the spring he recovered enough, in his own view, to supervise the lens installation at Cordouan. Soon afterwards, it became clear that his condition was tuberculosis.[248]
 
@@ -418,8 +384,6 @@ He is buried at Père Lachaise Cemetery, Paris. The inscription on his headstone
 
 
 Posthumous publications
-
-Emile_Verdet.png
 
 Fresnel's "second memoir" on double refraction[253] was not printed until late 1827, a few months after his death.[254] Until then, the best published source on his work on double refraction was an extract of that memoir, printed in 1822.[255] His final treatment of partial reflection and total internal reflection, read to the Académie in January 1823, was thought to be lost until it was rediscovered among the papers of the deceased Joseph Fourier (1768–1830), and was printed in 1831. Until then, it was known chiefly through an extract printed in 1823 and 1825. The memoir introducing the parallelepiped form of the Fresnel rhomb,[256] read in March 1818, was mislaid until 1846,[257] and then attracted such interest that it was soon republished in English.[258] Most of Fresnel's writings on polarized light before 1821 — including his first theory of chromatic polarization (submitted 7 October 1816) and the crucial "supplement" of January 1818 — were not published in full until his _Oeuvres complètes_ ("complete works") began to appear in 1866.[259] The "supplement" of July 1816, proposing the "efficacious ray" and reporting the famous double-mirror experiment, met the same fate,[260] as did the "first memoir" on double refraction.[261]
 
@@ -464,7 +428,7 @@ Thus a new pair of phenomena, _qualitatively_ different from anything previously
 
 Legacy
 
-Cordouan6.jpg, in which the first Fresnel lens entered service in 1823. The current fixed catadioptric "beehive" lens replaced Fresnel's original rotating lens in 1854.]]
+, in which the first Fresnel lens entered service in 1823. The current fixed catadioptric "beehive" lens replaced Fresnel's original rotating lens in 1854.]]
 
 Within a century of Fresnel's initial stepped-lens proposal, more than 10,000 lights with Fresnel lenses were protecting lives and property around the world.[280] Concerning the other benefits, the science historian Theresa H. Levitt has remarked:
 

@@ -1,4 +1,4 @@
-109.Ezra_Reads_the_Law_to_the_People.jpg]]
+]]
 
 EZRA (; , __;[1] fl. 480–440 BCE), also called EZRA THE SCRIBE (, __) and EZRA THE PRIEST in the Book of Ezra, was a Jewish scribe (_sofer_) and priest (_kohen_). In Greco-Latin Ezra is called Esdras (). According to the Hebrew Bible he was a descendant of Sraya ()[2] the last High Priest to serve in the First Temple (), and a close relative of Joshua the first High Priest of the Second Temple ( CJB and similar translations only; see also ). He returned from Babylonian exile and reintroduced the Torah in Jerusalem ( and ). According to 1 Esdras, a Greek translation of the Book of Ezra still in use in Eastern Orthodoxy, he was also a High Priest. Rabbinic tradition holds that he was an ordinary member of the priesthood.[3]
 
@@ -37,7 +37,7 @@ There is also another work, thought to be influenced by this one, known as the _
 
 Ezra in rabbinic literature
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_125.png.]] Traditionally Judaism credits Ezra with establishing the Great Assembly of scholars and prophets, the forerunner of the Sanhedrin, as the authority on matters of religious law. The Great Assembly is credited with establishing numerous features of contemporary traditional Judaism in something like their present form, including Torah reading, the Amidah, and celebration of the feast of Purim.[20]
+.]] Traditionally Judaism credits Ezra with establishing the Great Assembly of scholars and prophets, the forerunner of the Sanhedrin, as the authority on matters of religious law. The Great Assembly is credited with establishing numerous features of contemporary traditional Judaism in something like their present form, including Torah reading, the Amidah, and celebration of the feast of Purim.[20]
 
 In Rabbinic traditions, Ezra is metaphorically referred to as the "flowers that appear on the earth" signifying the springtime in the national history of Judaism. A disciple of Baruch ben Neriah, he favored study of the Law over the reconstruction of the Temple and thus because of his studies, he did not join the first party returning to Jerusalem in the reign of Cyrus. According to another opinion, he did not join the first party so as not to compete, even involuntarily, with Jeshua ben Jozadak for the office of chief priest.[21]
 
@@ -66,7 +66,7 @@ Scholars are divided over the chronological sequence of the activities of Ezra a
 
 Historicity
 
-Tomb_of_Ezra.jpg at Al-Uzayr near Basra, Iraq.]] Mary Joan Winn Leith in _The Oxford History of the Biblical World_ believes that Ezra was a historical figure whose life was enhanced in the scripture and given a theological buildup.[40] Gosta W. Ahlstrom argues the inconsistencies of the biblical tradition are insufficient to say that Ezra, with his central position as the 'father of Judaism' in the Jewish tradition, has been a later literary invention.[41] Those who argue against the historicity of Ezra argue that the presentation style of Ezra as a leader and lawgiver resembles that of Moses. There are also similarities between Ezra the priest-scribe (but not high priest) and Nehemiah the secular governor on the one hand and Joshua and Zerubbabel on the other hand. The early 2nd-century BCE Jewish author Ben Sira praises Nehemiah, but makes no mention of Ezra.[42]
+at Al-Uzayr near Basra, Iraq.]] Mary Joan Winn Leith in _The Oxford History of the Biblical World_ believes that Ezra was a historical figure whose life was enhanced in the scripture and given a theological buildup.[40] Gosta W. Ahlstrom argues the inconsistencies of the biblical tradition are insufficient to say that Ezra, with his central position as the 'father of Judaism' in the Jewish tradition, has been a later literary invention.[41] Those who argue against the historicity of Ezra argue that the presentation style of Ezra as a leader and lawgiver resembles that of Moses. There are also similarities between Ezra the priest-scribe (but not high priest) and Nehemiah the secular governor on the one hand and Joshua and Zerubbabel on the other hand. The early 2nd-century BCE Jewish author Ben Sira praises Nehemiah, but makes no mention of Ezra.[42]
 
 Richard Friedman argued in his book _Who Wrote the Bible?_ (p. 232 1997 edition) that Ezra is the one who redacted the Torah, and in fact effectively produced the first Torah.[43] It has been argued that even if one does not accept the documentary hypothesis, Ezra was instrumental in the start of the process of bringing the Torah together.[44]
 

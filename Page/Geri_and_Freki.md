@@ -1,4 +1,4 @@
-Odin,_der_Göttervater.jpg as illustrated (1882) by Carl Emil Doepler]]
+as illustrated (1882) by Carl Emil Doepler]]
 
 In Norse mythology, GERI and FREKI (Old Norse, both meaning "the ravenous" or "greedy one") are two wolves which are said to accompany the god Odin. They are attested in the _Poetic Edda_, a collection of epic poetry compiled in the 13th century from earlier traditional sources, in the _Prose Edda_, written in the 13th century by Snorri Sturluson, and in the poetry of skalds. The pair has been compared to similar figures found in Greek, Roman and Vedic mythology, and may also be connected to beliefs surrounding the Germanic "wolf-warrior bands", the Úlfhéðnar.
 
@@ -44,7 +44,7 @@ If the rider on horseback on the image on the Böksta Runestone has been correct
 
 Theories
 
-Bronsplåt_pressbleck_Öland_vendeltid.jpg bronze plate found on Öland, Sweden depicting a wolf-pelt warrior drawing a sword beside a dancing figure.]] _Freki_ is also a name applied to the monstrous wolf Fenrir in the _Poetic Edda_ poem _Völuspá_. Folklorist John Lindow sees irony in the fact that Odin feeds one Freki at his dinner table and another—Fenrir—with his flesh during the events of Ragnarök.[17]
+bronze plate found on Öland, Sweden depicting a wolf-pelt warrior drawing a sword beside a dancing figure.]] _Freki_ is also a name applied to the monstrous wolf Fenrir in the _Poetic Edda_ poem _Völuspá_. Folklorist John Lindow sees irony in the fact that Odin feeds one Freki at his dinner table and another—Fenrir—with his flesh during the events of Ragnarök.[17]
 
 Historian Michael Spiedel connects Geri and Freki with archaeological finds depicting figures wearing wolf-pelts and frequently found wolf-related names among the Germanic peoples, including Wulfhroc ("Wolf-Frock"), Wolfhetan ("Wolf-Hide"), Isangrim ("Grey-Mask"), Scrutolf ("Garb-Wolf") and Wolfgang ("Wolf-Gait"), Wolfdregil ("Wolf-Runner"), and Vulfolaic ("Wolf-Dancer") and myths regarding wolf warriors from Norse mythology (such as the Úlfhéðnar). Michael Speidel believes this to point to the pan-Germanic wolf-warrior band cult centered on Odin that waned away after Christianization.[18]
 

@@ -1,6 +1,6 @@
 upright=1.5|thumb|right|Diachronic distribution of Celtic peoples, on the traditional view:
 
-Wandsworth_Shield.png, in the _plastic style_, found in London]]
+, in the _plastic style_, found in London]]
 
 The CELTS (, see pronunciation of _Celt_ for different usages) are[1] an Indo-European[2] ethnolinguistic group of Europe identified by their use of Celtic languages and cultural similarities.[3] The history of pre-Celtic Europe and the exact relationship between ethnic, linguistic and cultural factors in the Celtic world remains uncertain and controversial.[4] The exact geographic spread of the ancient Celts is disputed; in particular, the ways in which the Iron Age inhabitants of Great Britain and Ireland should be regarded as Celts have become a subject of controversy.[5][6][7][8] According to one theory, the common root of the Celtic languages, the Proto-Celtic language, arose in the Late Bronze Age Urnfield culture of Central Europe, which flourished from around 1200 BC.[9]
 
@@ -15,7 +15,7 @@ Insular Celtic culture diversified into that of the Gaels (Irish, Scottish and M
 
 Names and terminology
 
-Galician_Celtic_Stele_-_Estela_Galaica.jpg from Galicia, 2nd century: "APANA·AMBO(-) /
+from Galicia, 2nd century: "APANA·AMBO(-) /
 LLI·F(_ilia_)·CELTICA /
 SUPERTAM(_arica_) /
 (_castello_) MAIOBRI /
@@ -41,7 +41,7 @@ CONTINENTAL CELTS are the Celtic-speaking people of mainland Europe and INSULAR 
 
 Origins
 
-Hallstatt_LaTene.png and La Tène cultures. The territories of some major Celtic tribes of the late La Tène period are labelled.]]
+and La Tène cultures. The territories of some major Celtic tribes of the late La Tène period are labelled.]]
 
 The Celtic languages form a branch of the larger Indo-European family. By the time speakers of Celtic languages entered history around 400 BC, they were already split into several language groups, and spread over much of Western continental Europe, the Iberian Peninsula, Ireland and Britain. The Greek historian Ephorus of Cyme in Asia Minor, writing in the 4th century BC, believed that the Celts came from the islands off the mouth of the Rhine and were "driven from their homes by the frequency of wars and the violent rising of the sea".
 
@@ -75,13 +75,11 @@ More recent genetic evidence does not support the notion of a significant geneti
 
 Archaeological evidence
 
-Hallstatt_culture.png Herodotus_world_map-en.svg
-
 Before the 19th century, scholars assumed that the original land of the Celts was west of the Rhine, more precisely in Gaul, because it was where Greek and Roman ancient sources, namely Caesar, located the Celts. This view was challenged by the 19th-century historian Marie Henri d'Arbois de Jubainville who placed the land of origin of the Celts east of the Rhine. Jubainville based his arguments on a phrase of Herodotus' that placed the Celts at the source of the Danube, and argued that Herodotus had meant to place the Celtic homeland in southern Germany. The finding of the prehistoric cemetery of Hallstat in 1846 by Johan Ramsauer and the finding of the archaeological site of La Tène by Hansli Kopp in 1857 drew attention to this area.
 
 The concept that the Hallstatt and La Tène cultures could be seen not just as chronological periods but as "Culture Groups", entities composed of people of the same ethnicity and language, had started to grow by the end of the 19th century. At the beginning of the 20th century the belief that these "Culture Groups" could be thought of in racial or ethnic terms was strongly held by Gordon Childe whose theory was influenced by the writings of Gustaf Kossinna.[61] As the 20th century progressed, the racial ethnic interpretation of La Tène culture became much more strongly rooted, and any findings of La Tène culture and flat inhumation cemeteries were directly associated with the Celts and the Celtic language.[62] The Iron Age Hallstatt (c. 800–475 BC) and La Tène (c. 500–50 BC) cultures are typically associated with Proto-Celtic and Celtic culture.[63]
 
-Celts_in_III_century_BC.jpg and the origins of Europe'' (Italian version), p. 446.]]
+and the origins of Europe'' (Italian version), p. 446.]]
 
 In various academic disciplines the Celts were considered a Central European Iron Age phenomenon, through the cultures of Hallstatt and La Tène. However, archaeological finds from the Halstatt and La Tène culture were rare in the Iberian Peninsula, in southwestern France, northern and western Britain, southern Ireland and Galatia[64][65] and did not provide enough evidence for a cultural scenario comparable to that of Central Europe. It is considered equally difficult to maintain that the origin of the Peninsular Celts can be linked to the preceding Urnfield culture. This has resulted in a more recent approach that introduces a 'proto-Celtic' substratum and a process of Celticisation, having its initial roots in the Bronze Age Bell Beaker culture.[66]
 
@@ -89,7 +87,7 @@ The La Tène culture developed and flourished during the late Iron Age (from 450
 
 The western La Tène culture corresponds to historical Celtic Gaul. Whether this means that the whole of La Tène culture can be attributed to a unified Celtic people is difficult to assess; archaeologists have repeatedly concluded that language, material culture, and political affiliation do not necessarily run parallel. Frey notes that in the 5th century, "burial customs in the Celtic world were not uniform; rather, localised groups had their own beliefs, which, in consequence, also gave rise to distinct artistic expressions".[67] Thus, while the La Tène culture is certainly associated with the Gauls, the presence of La Tène artefacts may be due to cultural contact and does not imply the permanent presence of Celtic speakers.
 
-Map_Gallia_Tribes_Towns.png''.]] Divinka_minca.jpg in Slovakia.]]
+''.]] in Slovakia.]]
 
 Historical evidence
 
@@ -116,7 +114,7 @@ Place- and personal-name analysis and inscriptions suggest that the Gaulish Celt
 
 Iberia
 
-Iberia_300BC-en.svg, showing Celtic languages in beige, c. 300 BC]]
+, showing Celtic languages in beige, c. 300 BC]]
 
 Until the end of the 19th century, traditional scholarship dealing with the Celts did acknowledge their presence in the Iberian Peninsula[73][74] as a material culture relatable to the Hallstatt and La Tène cultures. However, since according to the definition of the Iron Age in the 19th century Celtic populations were supposedly rare in Iberia and did not provide a cultural scenario that could easily be linked to that of Central Europe, the presence of Celtic culture in that region was generally not fully recognised. Modern scholarship, however, has clearly proven that Celtic presence and influences were most substantial in what is today Spain and Portugal (with perhaps the highest settlement saturation in Western Europe), particularly in the central, western and northern regions.[75][76]
 
@@ -126,7 +124,7 @@ In addition to Gauls infiltrating from the north of the Pyrenees, the Roman and 
 -   The Vetton group in the western Meseta, between the Tormes, Douro and Tagus Rivers. They were characterised by the production of _Verracos_, sculptures of bulls and pigs carved in granite.
 -   The Vaccean group in the central Douro valley. They were mentioned by Roman sources already in the 220 BC. Some of their funerary rituals suggest strong influences from their Celtiberian neighbours.
 
-Torque_de_Santa_Tegra_1.JPG terminal, Museum of Castro de Santa Tegra, A Guarda]]
+terminal, Museum of Castro de Santa Tegra, A Guarda]]
 
 -   The _Castro Culture_ in northwestern Iberia, modern day Galicia.[81] Its high degree of continuity, from the Late Bronze Age, makes it difficult to support that the introduction of Celtic elements was due to the same process of Celticization of the western Iberia, from the nucleus area of Celtiberia. Two typical elements are the sauna baths with monumental entrances, and the "Gallaecian Warriors", stone sculptures built in the 1st century AD. A large group of Latin inscriptions contain linguistic features that are clearly Celtic, while others are similar to those found in the non-Celtic Lusitanian language.[82]
 -   The Astures and the Cantabri. This area was romanised late, as it was not conquered by Rome until the Cantabrian Wars of 29–19 BC.
@@ -137,8 +135,6 @@ The origins of the Celtiberians might provide a key to understanding the Celtici
 John T. Koch of Aberystwyth University suggested that Tartessian inscriptions of the 8th century BC might be classified as Celtic. This would mean that Tartessian is the earliest attested trace of Celtic by a margin of more than a century.[87]
 
 Alps and Italy
-
-Römische_Provinzen_im_Alpenraum_ca_14_n_Chr.png
 
 The Canegrate culture represented the first migratory wave of the proto-Celtic[88][89] population from the northwest part of the Alps that, through the Alpine passes, had already penetrated and settled in the western Po valley between Lake Maggiore and Lake Como (Scamozzina culture). It has also been proposed that a more ancient proto-Celtic presence can be traced back to the beginning of the Middle Bronze Age, when North Westwern Italy appears closely linked regarding the production of bronze artefacts, including ornaments, to the western groups of the Tumulus culture.[90] La Tène cultural material appeared over a large area of mainland Italy,[91] the southernmost example being the Celtic helmet from Canosa di Puglia.[92]
 
@@ -151,8 +147,6 @@ At the battle of Telamon in 225 BC, a large Celtic army was trapped between two 
 The defeat of the combined Samnite, Celtic and Etruscan alliance by the Romans in the Third Samnite War sounded the beginning of the end of the Celtic domination in mainland Europe, but it was not until 192 BC that the Roman armies conquered the last remaining independent Celtic kingdoms in Italy.
 
 Expansion east and south
-
-Roman_period_tribes_in_Illyria_and_Lower_Pannonia.png
 
 The Celts also expanded down the Danube river and its tributaries. One of the most influential tribes, the Scordisci, had established their capital at Singidunum in the 3rd century BC, which is present-day Belgrade, Serbia. The concentration of hill-forts and cemeteries shows a density of population in the Tisza valley of modern-day Vojvodina, Serbia, Hungary and into Ukraine. Expansion into Romania was however blocked by the Dacians.
 
@@ -168,7 +162,7 @@ There are records of Celtic mercenaries in Egypt serving the Ptolemies. Thousand
 
 Insular Celts
 
-Romanbritain.jpg, with indication of tribal territories]]
+, with indication of tribal territories]]
 
 All Celtic languages extant today belong to the Insular Celtic languages, derived from the Celtic languages spoken in Iron Age Britain and Ireland.[106] They were separated into a Goidelic and a Brythonic branch from an early period.
 
@@ -181,7 +175,7 @@ Classical writers did not apply the terms (_Keltoi_) or "Celtae" to the inhabita
 
 Romanisation
 
-Cesare_prima_Gallia_58_a.C._jpg.jpg and its neighbours in 58 BC]]
+and its neighbours in 58 BC]]
 
 Under Caesar the Romans conquered Celtic Gaul, and from Claudius onward the Roman empire absorbed parts of Britain. Roman local government of these regions closely mirrored pre-Roman tribal boundaries, and archaeological finds suggest native involvement in local government.
 
@@ -198,7 +192,7 @@ To the extent that sources are available, they depict a pre-Christian Iron Age C
 
 In the main, the evidence is of tribes being led by kings, although some argue that there is also evidence of oligarchical republican forms of government eventually emerging in areas which had close contact with Rome. Most descriptions of Celtic societies portray them as being divided into three groups: a warrior aristocracy; an intellectual class including professions such as druid, poet, and jurist; and everyone else. In historical times, the offices of high and low kings in Ireland and Scotland were filled by election under the system of tanistry, which eventually came into conflict with the feudal principle of primogeniture in which succession goes to the first-born son.
 
-Roman_Bronze_Statuette_of_a_Captive_Gaul,_2nd_Century_AD.jpg Dying_gaul.jpg'', a Roman marble copy of a Hellenistic work of the late third century BC, Capitoline Museums, Rome]]
+'', a Roman marble copy of a Hellenistic work of the late third century BC, Capitoline Museums, Rome]]
 
 Little is known of family structure among the Celts. Patterns of settlement varied from decentralised to urban. The popular stereotype of non-urbanised societies settled in hillforts and duns,[122] drawn from Britain and Ireland (there are about 3,000 hill forts known in Britain)[123] contrasts with the urban settlements present in the core Hallstatt and La Tène areas, with the many significant _oppida_ of Gaul late in the first millennium BC, and with the towns of Gallia Cisalpina.
 
@@ -214,7 +208,7 @@ In some regards the Atlantic Celts were conservative: for example, they still us
 
 According to Diodorus Siculus:
 
-Britishmuseumwaterloohelmet.jpg]]
+]]
 
 Clothing
 
@@ -222,7 +216,7 @@ During the later Iron Age the Gauls generally wore long-sleeved shirts or tunics
 
 Gender and sexual norms
 
-Celtic.warriors.garments-replica.jpg, Germany]]
+, Germany]]
 
 Very few reliable sources exist regarding Celtic views on gender divisions and societal status, though some archaeological evidence does suggest that their views of gender roles may differ from contemporary and less egalitarian classical counterparts of the Roman era.[132][133] There are some general indications from Iron Age burial sites in the Champagne and Bourgogne regions of Northeastern France suggesting that women may have had roles in combat during the earlier _La Tène_ period. However, the evidence is far from conclusive.[134] Examples of individuals buried with both female jewellery and weaponry have been identified, such as the Vix Grave, and there are questions about the gender of some skeletons that were buried with warrior assemblages. However, it has been suggested that "the weapons may indicate rank instead of masculinity".[135]
 
@@ -238,8 +232,6 @@ There are instances recorded where women participated both in warfare and in kin
 
 Celtic art
 
-Romano-Celtic_mirror_(Desborough).jpg
-
 Celtic art is generally used by art historians to refer to art of the La Tène period across Europe, while the Early Medieval art of Britain and Ireland, that is what "Celtic art" evokes for much of the general public, is called Insular art in art history. Both styles absorbed considerable influences from non-Celtic sources, but retained a preference for geometrical decoration over figurative subjects, which are often extremely stylised when they do appear; narrative scenes only appear under outside influence. Energetic circular forms, triskeles and spirals are characteristic. Much of the surviving material is in precious metal, which no doubt gives a very unrepresentative picture, but apart from Pictish stones and the Insular high crosses, large monumental sculpture, even with decorative carving, is very rare; possibly it was originally common in wood. Celts were also able to create developed musical instruments such as the carnyces, these famous war trumpets used before the battle to frighten the enemy, as the best preserved found in Tintignac (Gaul) in 2004 and which were decorated with a boar head or a snake head.[144]
 
 The interlace patterns that are often regarded as typical of "Celtic art" were characteristic of the whole of the British Isles, a style referred to as Insular art, or Hiberno-Saxon art. This artistic style incorporated elements of La Tène, Late Roman, and, most importantly, animal Style II of Germanic Migration Period art. The style was taken up with great skill and enthusiasm by Celtic artists in metalwork and illuminated manuscripts. Equally, the forms used for the finest Insular art were all adopted from the Roman world: Gospel books like the Book of Kells and Book of Lindisfarne, chalices like the Ardagh Chalice and Derrynaflan Chalice, and penannular brooches like the Tara Brooch. These works are from the period of peak achievement of Insular art, which lasted from the 7th to the 9th centuries, before the Viking attacks sharply set back cultural life.
@@ -249,7 +241,7 @@ In contrast the less well known but often spectacular art of the richest earlier
 
 Warfare and weapons
 
-Parade_helmet.jpg, 350 BC, Angoulême city Museum in France, with stylistic borrowings from around the Mediterranean]] Celtic_Warrior_Naked_in_The_Braganza_Brooch.jpg, Hellenistic art, 250-200 BC]] Tribal warfare appears to have been a regular feature of Celtic societies. While epic literature depicts this as more of a sport focused on raids and hunting rather than organised territorial conquest, the historical record is more of tribes using warfare to exert political control and harass rivals, for economic advantage, and in some instances to conquer territory.
+, 350 BC, Angoulême city Museum in France, with stylistic borrowings from around the Mediterranean]] , Hellenistic art, 250-200 BC]] Tribal warfare appears to have been a regular feature of Celtic societies. While epic literature depicts this as more of a sport focused on raids and hunting rather than organised territorial conquest, the historical record is more of tribes using warfare to exert political control and harass rivals, for economic advantage, and in some instances to conquer territory.
 
 The Celts were described by classical writers such as Strabo, Livy, Pausanias, and Florus as fighting like "wild beasts", and as hordes. Dionysius said that their Such descriptions have been challenged by contemporary historians.[145]
 
@@ -259,7 +251,7 @@ Polybius also asserts that certain of the Celts fought naked, "The appearance of
 
 Head hunting
 
-nudeCeltwarrior.jpg, France]]
+, France]]
 
 Celts had a reputation as head hunters. According to Paul Jacobsthal, "Amongst the Celts the human head was venerated above all else, since the head was to the Celt the soul, centre of the emotions as well as of life itself, a symbol of divinity and of the powers of the other-world."[151] Arguments for a Celtic cult of the severed head include the many sculptured representations of severed heads in La Tène carvings, and the surviving Celtic mythology, which is full of stories of the severed heads of heroes and the saints who carry their own severed heads, right down to _Sir Gawain and the Green Knight_, where the Green Knight picks up his own severed head after Gawain has struck it off, just as St. Denis carried his head to the top of Montmartre. Physical evidence exists for the ritual importance of the severed head at the religious centre at Roquepertuse (southern France), destroyed by the Romans in 124 BC, where stone pillars with prominent niches for displaying severed heads were found.
 
@@ -272,7 +264,7 @@ In _Gods and Fighting Men_, Lady Gregory's Celtic Revival translation of Irish m
 
 Religion
 
-BrigitteCelt.jpg (or Brigid), with iconography derived from Roman statues of Minerva, first century AD, Museum of Brittany, Rennes]]
+(or Brigid), with iconography derived from Roman statues of Minerva, first century AD, Museum of Brittany, Rennes]]
 
 Polytheism
 
@@ -298,7 +290,7 @@ Roman influence
 
 The Roman invasion of Gaul brought a great deal of Celtic peoples into the Roman Empire. Roman culture had a profound effect on the Celtic tribes which came under the empire's control. Roman influence led to many changes in Celtic religion, the most noticeable of which was the weakening of the druid class, especially religiously; the druids were to eventually disappear altogether. Romano-Celtic deities also began to appear: these deities often had both Roman and Celtic attributes, combined the names of Roman and Celtic deities, and/or included couples with one Roman and one Celtic deity. Other changes included the adaptation of the Jupiter Column, a sacred column set up in many Celtic regions of the empire, primarily in northern and eastern Gaul. Another major change in religious practice was the use of stone monuments to represent gods and goddesses. The Celts had only created wooden idols (including monuments carved into trees, which were known as sacred poles) previously to Roman conquest.[161]
 
-Ccross.svg]]
+]]
 
 Celtic Christianity
 

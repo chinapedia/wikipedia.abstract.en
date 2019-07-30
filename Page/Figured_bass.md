@@ -1,4 +1,4 @@
-Purcell_diatonic_chromaticism.png's "Thy Hand, Belinda", _Dido and Aeneas_ (1689) with figured bass below (, with figured bass realization).]]
+'s "Thy Hand, Belinda", _Dido and Aeneas_ (1689) with figured bass below (, with figured bass realization).]]
 
 FIGURED BASS, or THOROUGHBASS, is a kind of musical notation in which numerals and symbols (often accidentals) indicate intervals, chords, and non-chord tones that a musician playing piano, harpsichord, organ, lute (or other instruments capable of playing chords) play in relation to the bass note that these numbers and symbols appear above or below. Figured bass is closely associated with basso continuo, a historically improvised accompaniment used in almost all genres of music in the Baroque period of Classical music (1600–1750), though rarely in modern music.
 
@@ -97,7 +97,7 @@ When sharps or flats are used with key signatures, they may have a slightly diff
 
 Example in context
 
-    Figured_bass.png (BWV 443). ]]
+    (BWV 443). ]]
 
 
 History

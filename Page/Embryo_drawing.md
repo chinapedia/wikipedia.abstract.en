@@ -1,4 +1,4 @@
-Gray41.png.]] EMBRYO DRAWING is the illustration of embryos in their developmental sequence. In plants and animals, an embryo develops from a zygote, the single cell that results when an egg and sperm fuse during fertilization. In animals, the zygote divides repeatedly to form a ball of cells, which then forms a set of tissue layers that migrate and fold to form an early embryo. Images of embryos provide a means of comparing embryos of different ages, and species. To this day, embryo drawings are made in undergraduate developmental biology lessons.
+.]] EMBRYO DRAWING is the illustration of embryos in their developmental sequence. In plants and animals, an embryo develops from a zygote, the single cell that results when an egg and sperm fuse during fertilization. In animals, the zygote divides repeatedly to form a ball of cells, which then forms a set of tissue layers that migrate and fold to form an early embryo. Images of embryos provide a means of comparing embryos of different ages, and species. To this day, embryo drawings are made in undergraduate developmental biology lessons.
 
 Comparing different embryonic stages of different animals is a tool that can be used to infer relationships between species, and thus biological evolution. This has been a source of quite some controversy, both now and in the past. Ernst Haeckel pioneered in this field. By comparing different embryonic stages of different vertebrate species, he formulated the recapitulation theory. This theory states that an animal's embryonic development follows exactly the same sequence as the sequence of its evolutionary ancestors. Haeckel's work and the ensuing controversy linked the fields of developmental biology and comparative anatomy into comparative embryology. From a more modern perspective, Haeckel's drawings were the beginnings of the field of evolutionary developmental biology (evo-devo).
 
@@ -23,7 +23,7 @@ Famous embryo illustrators
 
 Ernst Haeckel (1834-1919)
 
-Haeckel_drawings.jpg's allegedly fraudulent embryo drawings (this version of the figure is often attributed incorrectly to Haeckel).[6]]]
+'s allegedly fraudulent embryo drawings (this version of the figure is often attributed incorrectly to Haeckel).[6]]]
 
 Haeckel's illustrations show vertebrate embryos at different stages of development, which exhibit embryonic resemblance as support for evolution, recapitulation as evidence of the Biogenetic Law, and phenotypic divergence as evidence of von Baer's laws. The series of twenty-four embryos from the early editions of Haeckel's _Anthropogenie_ remain the most famous. The different species are arranged in columns, and the different stages in rows. Similarities can be seen along the first two rows; the appearance of specialized characters in each species can be seen in the columns and a diagonal interpretation leads one to Haeckel's idea of recapitulation.
 

@@ -24,7 +24,7 @@ In 2015, she was cast as Lillian Kaushtupper, the landlord to the title characte
 
 Films
 
-Kane also appeared in _The Last Detail_ (1973), _Annie Hall_ (1977), _The World's Greatest Lover_ (1977), _Norman Loves Rose_ (1982), _Dog Day Afternoon_ (1975), _When A Stranger Calls_ (1979),_Transylvania 6-5000_ (1985), _The Princess Bride_ (1987), _Flashback_ (1989) with Dennis Hopper, and _Scrooged_ (1988), in which _Variety_ called her "unquestionably [the] pic's comic highlight."[13] Carol_Kane_Gene_Wilder_1977.jpg in a publicity photo for _The World's Greatest Lover_, 1977]] In 1998, she played Mother Duck on the cartoon movie _The First Snow of Winter_. In 1999 she made a cameo on the movie _Man On The Moon_ as her character she played on _Taxi_.
+Kane also appeared in _The Last Detail_ (1973), _Annie Hall_ (1977), _The World's Greatest Lover_ (1977), _Norman Loves Rose_ (1982), _Dog Day Afternoon_ (1975), _When A Stranger Calls_ (1979),_Transylvania 6-5000_ (1985), _The Princess Bride_ (1987), _Flashback_ (1989) with Dennis Hopper, and _Scrooged_ (1988), in which _Variety_ called her "unquestionably [the] pic's comic highlight."[13] in a publicity photo for _The World's Greatest Lover_, 1977]] In 1998, she played Mother Duck on the cartoon movie _The First Snow of Winter_. In 1999 she made a cameo on the movie _Man On The Moon_ as her character she played on _Taxi_.
 
 Kane was nominated for an Academy Award for Best Actress for her role in the film _Hester Street_.
 

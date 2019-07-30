@@ -7,7 +7,7 @@ Born in Nuoro, Sardinia, into a middle-class family, she attended elementary sch
 
 The first novel she wrote and published was _Fiori di Sardegna_ (Flowers of Sardinia). This novel was published in 1892. She first published some pieces in the fashion magazine _L'ultima moda_ when it still published works in prose and poetry. _Nell'azzurro_, published by Trevisani in 1890, might be considered her first work. Her family was not supportive of her desire to write. Her works seemed to focus on portraying harsh realities and difficult lifestyles, combining imaginary and autobiographical elements. Her novels tend to criticize social values and moral norms rather than the people who are victims of such circumstances.
 
-Still between prose and poetry are, among the first works, _Paesaggi sardi_, published by Speirani in 1896. In 1900, after having married Palmiro Madesani, a functionary of the Ministry of War whom she met in Cagliari in October 1899, the writer moved to Rome and after the publication of _Anime oneste_ in 1895 and of _Il vecchio della montagna_ in 1900, plus the collaboration with magazines _La Sardegna_, _Piccola rivista_ and _Nuova Antologia_, her work began to gain critical interest. She had two sons and lived a quiet life occupied by her writing.[4] She was a very prolific writer publishing, on average, a novel a year.[5] Grazia_Deledda.jpg In 1903 she published her first real success, _Elias Portolu_ that confirmed her as a writer and started her work as a successful writer of novels and theatrical works:'' Cenere'' (1904), _L'edera_ (1908), _Sino al confine_ (1910), _Colombi e sparvieri_ (1912), _Canne al vento_ (1913) -her most well known book in Italy-, _L'incendio nell'oliveto_ (1918), _Il Dio dei venti_ (1922).
+Still between prose and poetry are, among the first works, _Paesaggi sardi_, published by Speirani in 1896. In 1900, after having married Palmiro Madesani, a functionary of the Ministry of War whom she met in Cagliari in October 1899, the writer moved to Rome and after the publication of _Anime oneste_ in 1895 and of _Il vecchio della montagna_ in 1900, plus the collaboration with magazines _La Sardegna_, _Piccola rivista_ and _Nuova Antologia_, her work began to gain critical interest. She had two sons and lived a quiet life occupied by her writing.[4] She was a very prolific writer publishing, on average, a novel a year.[5] In 1903 she published her first real success, _Elias Portolu_ that confirmed her as a writer and started her work as a successful writer of novels and theatrical works:'' Cenere'' (1904), _L'edera_ (1908), _Sino al confine_ (1910), _Colombi e sparvieri_ (1912), _Canne al vento_ (1913) -her most well known book in Italy-, _L'incendio nell'oliveto_ (1918), _Il Dio dei venti_ (1922).
 
 _Cenere_ was the inspiration for a silent movie with the famous Italian actress Eleonora Duse. It was the only time Duse appeared in film.
 
@@ -17,7 +17,7 @@ Deledda continued to write even as she grew older and weaker. "La Casa del Poeta
 
 She died in Rome at the age of 64 of breast cancer. _La chiesa della solitudine_ (1936), Deledda's last novel, is a semi-autobiographical depiction of a young Italian woman coming to terms with her breast cancer. A completed manuscript of the novel "Cosima" (1937) was discovered after her death and published posthumously.[7]
 
-Her work has been highly regarded by Luigi Capuana and Giovanni Verga as well as some lesser known writers and critics such as , and ; also by Sardinian writers such as Sergio Atzeni, Giulio Angioni and Salvatore Mannuzzu, the founders of what has become known as the Sardinian Literary Spring. Pincio_-_busti_-_Deledda_P1080984.jpg)]]
+Her work has been highly regarded by Luigi Capuana and Giovanni Verga as well as some lesser known writers and critics such as , and ; also by Sardinian writers such as Sergio Atzeni, Giulio Angioni and Salvatore Mannuzzu, the founders of what has become known as the Sardinian Literary Spring. )]]
 
 
 Work
@@ -124,7 +124,7 @@ References
 
 Voice recording
 
-The voice of Grazia Deledda speaking (in Italian) at the Nobel Prize Ceremony in 1926. Listen
+The voice of Grazia Deledda speaking (in Italian) at the Nobel Prize Ceremony in 1926.
 
 
 External links

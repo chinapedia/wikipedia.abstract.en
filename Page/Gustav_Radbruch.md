@@ -16,7 +16,7 @@ In September 1945, Radbruch published a short paper _Fünf Minuten Rechtsphiloso
 
 Work
 
-Radbruch_Rechtsphilosophie.png Radbruch's legal philosophy derived from Neokantianism, which assumes that a categorical cleavage exists between "is" (_sein_) and "ought" (_sollen_). According to this view, "should" can never be derived from "Being." Indicative of the Heidelberg school of neokantianism to which Radbruch subscribed was that it interpolated the value-related cultural studies between the explanatory sciences (being) and philosophical teachings of values (should). RadbruchGrab2.jpg
+Radbruch's legal philosophy derived from Neokantianism, which assumes that a categorical cleavage exists between "is" (_sein_) and "ought" (_sollen_). According to this view, "should" can never be derived from "Being." Indicative of the Heidelberg school of neokantianism to which Radbruch subscribed was that it interpolated the value-related cultural studies between the explanatory sciences (being) and philosophical teachings of values (should).
 
 In relation to the law, this triadism shows itself in the subfields of legal sociology, legal philosophy and legal dogma. Legal dogma assumes a place in between. It posits itself in opposition to positive law, as the latter depicts itself in social reality and methodologically in the objective "should-have" sense of law, which reveals itself through value-related interpretation.
 

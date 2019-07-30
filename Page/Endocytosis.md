@@ -1,4 +1,4 @@
-Endocytosis_types.svg ENDOCYTOSIS is a cellular process in which substances are brought into the cell. The material to be internalized is surrounded by an area of cell membrane, which then buds off inside the cell to form a vesicle containing the ingested material. Endocytosis includes pinocytosis (cell drinking) and phagocytosis (cell eating). It is a form of active transport.
+ENDOCYTOSIS is a cellular process in which substances are brought into the cell. The material to be internalized is surrounded by an area of cell membrane, which then buds off inside the cell to form a vesicle containing the ingested material. Endocytosis includes pinocytosis (cell drinking) and phagocytosis (cell eating). It is a form of active transport.
 
 
 History
@@ -8,7 +8,7 @@ The term was proposed by De Duve in 1963.[1] Phagocytosis was discovered by Éli
 
 Endocytosis pathways
 
-A-dynamin-1--dynamin-3--and-clathrin-independent-pathway-of-synaptic-vesicle-recycling-mediated-by-elife01621f013.jpg membranes.]]
+membranes.]]
 
 Endocytosis pathways can be subdivided into four categories: namely, receptor-mediated endocytosis (also known as clathrin-mediated endocytosis), caveolae, pinocytosis, and phagocytosis.[3]
 
@@ -16,7 +16,7 @@ Endocytosis pathways can be subdivided into four categories: namely, receptor-me
 
     Study [6] in mammalian cells confirm a reduction in clathrin coat size in an increased tension environment. In addition, it suggests that the two apparently distinct clathrin assembly modes, namely coated pits and coated plaques, observed in experimental investigations might be a consequence of varied tensions in the plasma membrane.
 
--   CAVEOLAE are the most commonly reported non-clathrin-coated plasma membrane buds, which exist on the surface of many, but not all cell types. They consist of the cholesterol-binding protein caveolin (Vip21) with a bilayer enriched in cholesterol and glycolipids. Caveolae are small (approx. 50 nm in diameter) flask-shape pits in the membrane that resemble the shape of a cave (hence the name caveolae). They can constitute up to a third of the plasma membrane area of the cells of some tissues, being especially abundant in smooth muscle, type I pneumocytes, fibroblasts, adipocytes, and endothelial cells.[7] Uptake of extracellular molecules is also believed to be specifically mediated via receptors in caveolae.A_depiction_of_various_types_of_Endocytosis.jpg
+-   CAVEOLAE are the most commonly reported non-clathrin-coated plasma membrane buds, which exist on the surface of many, but not all cell types. They consist of the cholesterol-binding protein caveolin (Vip21) with a bilayer enriched in cholesterol and glycolipids. Caveolae are small (approx. 50 nm in diameter) flask-shape pits in the membrane that resemble the shape of a cave (hence the name caveolae). They can constitute up to a third of the plasma membrane area of the cells of some tissues, being especially abundant in smooth muscle, type I pneumocytes, fibroblasts, adipocytes, and endothelial cells.[7] Uptake of extracellular molecules is also believed to be specifically mediated via receptors in caveolae.
     -   POTOCYTOSIS is a form of receptor-mediated endocytosis that uses caveolae vesicles to bring molecules of various sizes into the cell. Unlike most endocytosis that uses caveolae to deliver contents of vesicles to lysosomes or other organelles, material endocytosed via potocytosis is released into the cytosol.[8]
 -   PINOCYTOSIS, which usually occurs from highly ruffled regions of the plasma membrane, is the invagination of the cell membrane to form a pocket, which then pinches off into the cell to form a vesicle (.5–5 µm in diameter) filled with a large volume of extracellular fluid and molecules within it (equivalent to ~100 CCVs). The filling of the pocket occurs in a non-specific manner. The vesicle then travels into the cytosol and fuses with other vesicles such as endosomes and lysosomes.[9]
 

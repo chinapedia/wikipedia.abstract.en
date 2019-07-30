@@ -11,7 +11,7 @@ Dennett was born on March 28, 1942, in Boston, Massachusetts,[5] the son of Ruth
 
 Dennett graduated from Phillips Exeter Academy in 1959, and spent one year at Wesleyan University before receiving his Bachelor of Arts in philosophy at Harvard University in 1963. At Harvard University he was a student of W. V. Quine. In 1965, he received his Doctor of Philosophy in philosophy at the University of Oxford, where he studied under Gilbert Ryle and was a member of Hertford College.[12] His dissertation was entitled _The Mind and the Brain: Introspective Description in the Light of Neurological Findings; Intentionality_.[13]
 
-Daniel_dennett_Oct2008.JPG Dennett describes himself as "an autodidact—or, more properly, the beneficiary of hundreds of hours of informal tutorials on all the fields that interest me, from some of the world's leading scientists".[14]
+Dennett describes himself as "an autodidact—or, more properly, the beneficiary of hundreds of hours of informal tutorials on all the fields that interest me, from some of the world's leading scientists".[14]
 
 He is the recipient of a Fulbright Fellowship, two Guggenheim Fellowships, and a Fellowship at the Center for Advanced Study in the Behavioral Sciences.[15] He is a Fellow of the Committee for Skeptical Inquiry and a Humanist Laureate of the International Academy of Humanism.[16] He was named 2004 Humanist of the Year by the American Humanist Association.[17]
 
@@ -56,7 +56,7 @@ Dennett's theories have had a significant influence on the work of evolutionary 
 
 An account of religion and morality
 
-Solidarity_message_to_ex-Muslims_-_Daniel_Dennett.webm in July 2017]]
+in July 2017]]
 
 In _Darwin's Dangerous Idea_, Dennett writes that evolution can account for the origin of morality. He rejects the idea of the naturalistic fallacy as the idea that ethics is in some free-floating realm, writing that the fallacy is to rush from facts to values.
 

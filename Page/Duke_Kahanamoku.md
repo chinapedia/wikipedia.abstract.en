@@ -1,5 +1,3 @@
-Duke_Kahanamoku_signature.svg
-
 DUKE PAOA KAHINU MOKOE HULIKOHOLA KAHANAMOKU (August 24, 1890 – January 22, 1968) was a Native Hawaiian competition swimmer who popularized the ancient Hawaiian sport of surfing. He was born towards the end of the Kingdom of Hawaii, just before the overthrow, living into statehood as a United States citizen. He was a five-time Olympic medalist in swimming. Duke was also a Scottish Rite Freemason[1], a law enforcement officer, an actor, a beach volleyball player and a businessman.[2]
 
 
@@ -19,8 +17,6 @@ He was initiated to the Hawaiian Masonic Lodge No 21[10][11] [12] and was also a
 
 
 Career
-
-Duke_Kahanamoku_1920.jpg
 
 Kahanamoku easily qualified for the U.S. Olympic swimming team in 1912. At the 1912 Summer Olympics in Stockholm, he won a gold medal in the 100-meter freestyle, and a silver medal with the second-place U.S. team in the men's 4×200-meter freestyle relay. During the 1920 Olympics in Antwerp, he won gold medals both in the 100 meters (bettering fellow Hawaiian Pua Kealoha) and in the relay. He finished the 100 meters with a silver medal during the 1924 Olympics in Paris, with the gold going to Johnny Weissmuller and the bronze to Duke's brother, Samuel Kahanamoku. At age 34, this was Kahanamoku's last Olympic medal.[14] He also was an alternate for the U.S. water polo team at the 1932 Summer Olympics.
 

@@ -5,7 +5,7 @@ Origins of the group
 
 As described in Isaac Asimov's autobiography _In Memory Yet Green_, the Futurians spun off from the Greater New York Science Fiction Club (headed by Sam Moskowitz, later an influential SF editor and historian) over ideological differences, with the Futurians wishing to take a more overt political stance. Other sources indicate that Donald A. Wollheim was pushing for a more left-wing direction with a goal of leading fandom toward a political ideal, all of which Moskowitz resisted. As a result, Wollheim broke off from the Greater New York group and founded the Futurians in September, 1938.[1][2][3] The fans following Moskowitz reorganized into the Queens Science Fiction Club.
 
-With_Frederik_Pohl_and_John_Michel_c._1938.jpg Frederik Pohl, in his autobiography _The Way the Future Was_, said that the origin of the Futurians lay with the Science Fiction League founded by Hugo Gernsback in 1934, the local New York City chapter of which was called the "Brooklyn Science Fiction League" or BSFL, headed by G. G. Clark.
+Frederik Pohl, in his autobiography _The Way the Future Was_, said that the origin of the Futurians lay with the Science Fiction League founded by Hugo Gernsback in 1934, the local New York City chapter of which was called the "Brooklyn Science Fiction League" or BSFL, headed by G. G. Clark.
 
 Wollheim, John Michel, and Robert A. W. Lowndes were also members of the BSFL. Along with Pohl, the four started calling themselves the "Quadrumvirate". Pohl, commenting about that time, said "we four marched from Brooklyn to the sea, leaving a wide scar of burned out clubs behind us. We changed clubs the way Detroit changes tailfins, every year had a new one, and last year's was junk".
 

@@ -18,7 +18,7 @@ G. Evelyn Hutchinson, a limnologist who was a contemporary of Tansley's, combine
 
 Processes
 
-River_gambia_Niokolokoba_National_Park.gif ecosystems are rich in biodiversity. This is the Gambia River in Senegal's Niokolo-Koba National Park.]] Baja_California_Desert.jpg of Baja California Desert, Cataviña region, Mexico]] Vegetation.png
+ecosystems are rich in biodiversity. This is the Gambia River in Senegal's Niokolo-Koba National Park.]] of Baja California Desert, Cataviña region, Mexico]]
 
 Ecosystems are controlled both by external and internal factors. External factors, also called state factors, control the overall structure of an ecosystem and the way things work within it, but are not themselves influenced by the ecosystem. The most important of these is climate.[17] Climate determines the biome in which the ecosystem is embedded. Rainfall patterns and seasonal temperatures influence photosynthesis and thereby determine the amount of water and energy available to the ecosystem.[18]
 
@@ -60,7 +60,7 @@ Decomposition rates are low under very wet or very dry conditions. Decomposition
 
 Nutrient cycling
 
-Nitrogen_Cycle.jpg Ecosystems continually exchange energy and carbon with the wider environment. Mineral nutrients, on the other hand, are mostly cycled back and forth between plants, animals, microbes and the soil. Most nitrogen enters ecosystems through biological nitrogen fixation, is deposited through precipitation, dust, gases or is applied as fertilizer.[43]
+Ecosystems continually exchange energy and carbon with the wider environment. Mineral nutrients, on the other hand, are mostly cycled back and forth between plants, animals, microbes and the soil. Most nitrogen enters ecosystems through biological nitrogen fixation, is deposited through precipitation, dust, gases or is applied as fertilizer.[43]
 
 Since most terrestrial ecosystems are nitrogen-limited, nitrogen cycling is an important control on ecosystem production.[44]
 
@@ -72,7 +72,7 @@ Other important nutrients include phosphorus, sulfur, calcium, potassium, magnes
 
 Function and biodiversity
 
-View_of_loch_lomond.JPG in Scotland forms a relatively isolated ecosystem. The fish community of this lake has remained stable over a long period until a number of introductions in the 1970s restructured it's food web.[54]]] Spiny_Forest_Ifaty_Madagascar.jpg, featuring various _Adansonia_ (baobab) species, _Alluaudia procera_ (Madagascar ocotillo) and other vegetation.]] Biodiversity plays an important role in ecosystem functioning.[55] The reason for this is that ecosystem processes are driven by the number of species in an ecosystem, the exact nature of each individual species, and the relative abundance organisms within these species.[56] Ecosystem processes are broad generalizations that actually take place through the actions of individual organisms. The nature of the organisms—the species, functional groups and trophic levels to which they belong—dictates the sorts of actions these individuals are capable of carrying out and the relative efficiency with which they do so.
+in Scotland forms a relatively isolated ecosystem. The fish community of this lake has remained stable over a long period until a number of introductions in the 1970s restructured it's food web.[54]]] , featuring various _Adansonia_ (baobab) species, _Alluaudia procera_ (Madagascar ocotillo) and other vegetation.]] Biodiversity plays an important role in ecosystem functioning.[55] The reason for this is that ecosystem processes are driven by the number of species in an ecosystem, the exact nature of each individual species, and the relative abundance organisms within these species.[56] Ecosystem processes are broad generalizations that actually take place through the actions of individual organisms. The nature of the organisms—the species, functional groups and trophic levels to which they belong—dictates the sorts of actions these individuals are capable of carrying out and the relative efficiency with which they do so.
 
 Ecological theory suggests that in order to coexist, species must have some level of limiting similarity—they must be different from one another in some fundamental way, otherwise one species would competitively exclude the other.[57] Despite this, the cumulative effect of additional species in an ecosystem is not linear—additional species may enhance nitrogen retention, for example, but beyond some level of species richness, additional species may have little additive effect.[58]
 
@@ -88,14 +88,14 @@ Disturbance also plays an important role in ecological processes. F. Stuart Chap
 
 The frequency and severity of disturbance determine the way it affects ecosystem function. A major disturbance like a volcanic eruption or glacial advance and retreat leave behind soils that lack plants, animals or organic matter. Ecosystems that experience such disturbances undergo primary succession. A less severe disturbance like forest fires, hurricanes or cultivation result in secondary succession and a faster recovery.[68] More severe disturbance and more frequent disturbance result in longer recovery times.[69]
 
-Panorama_presa_las_niñas_mogan_gran_canaria.jpg lake in Gran Canaria, an island of the Canary Islands. Clear boundaries make lakes convenient to study using an ecosystem approach.
+lake in Gran Canaria, an island of the Canary Islands. Clear boundaries make lakes convenient to study using an ecosystem approach.
 
 ]]
 
 
 Ecosystem ecology
 
-East_Scotia_Ridge_-_Plos_Biol_04.tif is an ecosystem on the ocean floor. (The scale bar is 1 m.)]] Ecosystem ecology studies the processes and dynamics of ecosystems, and the way the flow of matter and energy through them structures natural systems. The study of ecosystems can cover 10 orders of magnitude, from the surface layers of rocks to the surface of the planet.[70]
+is an ecosystem on the ocean floor. (The scale bar is 1 m.)]] Ecosystem ecology studies the processes and dynamics of ecosystems, and the way the flow of matter and energy through them structures natural systems. The study of ecosystems can cover 10 orders of magnitude, from the surface layers of rocks to the surface of the planet.[70]
 
 There is no single definition of what constitutes an ecosystem.[71] German ecologist Ernst-Detlef Schulze and coauthors defined an ecosystem as an area which is "uniform regarding the biological turnover, and contains all the fluxes above and below the ground area under consideration." They explicitly reject Gene Likens' use of entire river catchments as "too wide a demarcation" to be a single ecosystem, given the level of heterogeneity within such an area.[72] Other authors have suggested that an ecosystem can encompass a much larger area, even the whole planet.[73] Schulze and coauthors also rejected the idea that a single rotting log could be studied as an ecosystem because the size of the flows between the log and its surroundings are too large, relative to the proportion cycles within the log.[74] Philosopher of science Mark Sagoff considers the failure to define "the kind of object it studies" to be an obstacle to the development of theory in ecosystem ecology.[75]
 
@@ -110,7 +110,7 @@ Human activities are important in almost all ecosystems. Although humans exist a
 
 Ecosystem goods and services
 
-Avalanche_Lake,_looking_south.jpg in the Adirondack Park is an example of a diverse ecosystem.]] Ecosystems provide a variety of goods and services upon which people depend.[82] Ecosystem goods include the "tangible, material products" of ecosystem processes such as food, construction material, medicinal plants.[83] They also include less tangible items like tourism and recreation, and genes from wild plants and animals that can be used to improve domestic species.[84]
+in the Adirondack Park is an example of a diverse ecosystem.]] Ecosystems provide a variety of goods and services upon which people depend.[82] Ecosystem goods include the "tangible, material products" of ecosystem processes such as food, construction material, medicinal plants.[83] They also include less tangible items like tourism and recreation, and genes from wild plants and animals that can be used to improve domestic species.[84]
 
 Ecosystem services, on the other hand, are generally "improvements in the condition or location of things of value".[85] These include things like the maintenance of hydrological cycles, cleaning air and water, the maintenance of oxygen in the atmosphere, crop pollination and even things like beauty, inspiration and opportunities for research.[86] While material from the ecosystem had traditionally been recognized as being the basis for things of economic value, ecosystem services tend to be taken for granted.[87]
 

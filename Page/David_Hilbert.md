@@ -19,11 +19,11 @@ In 1884, Adolf Hurwitz arrived from Göttingen as an Extraordinarius (i.e., an a
 
 Hilbert remained at the University of Königsberg as a _Privatdozent_ (senior lecturer) from 1886 to 1895. In 1895, as a result of intervention on his behalf by Felix Klein, he obtained the position of Professor of Mathematics at the University of Göttingen. During the Klein and Hilbert years, Göttingen became the preeminent institution in the mathematical world.[9] He remained there for the rest of his life.
 
-Mathematik_Göttingen.jpg, was opened by Hilbert and Courant in 1930.]]
+, was opened by Hilbert and Courant in 1930.]]
 
 Göttingen school
 
-David_Hilbert.tif Among Hilbert's students were Hermann Weyl, chess champion Emanuel Lasker, Ernst Zermelo, and Carl Gustav Hempel. John von Neumann was his assistant. At the University of Göttingen, Hilbert was surrounded by a social circle of some of the most important mathematicians of the 20th century, such as Emmy Noether and Alonzo Church.
+Among Hilbert's students were Hermann Weyl, chess champion Emanuel Lasker, Ernst Zermelo, and Carl Gustav Hempel. John von Neumann was his assistant. At the University of Göttingen, Hilbert was surrounded by a social circle of some of the most important mathematicians of the 20th century, such as Emmy Noether and Alonzo Church.
 
 Among his 69 Ph.D. students in Göttingen were many who later became famous mathematicians, including (with date of thesis): Otto Blumenthal (1898), Felix Bernstein (1901), Hermann Weyl (1908), Richard Courant (1910), Erich Hecke (1910), Hugo Steinhaus (1911), and Wilhelm Ackermann (1925).[10] Between 1902 and 1939 Hilbert was editor of the _Mathematische Annalen_, the leading mathematical journal of the time.
 
@@ -38,7 +38,7 @@ About a year later, Hilbert attended a banquet and was seated next to the new Mi
 
 Death
 
-Göttingen_Stadtfriedhof_Grab_David_Hilbert.jpg By the time Hilbert died in 1943, the Nazis had nearly completely restaffed the university, as many of the former faculty had either been Jewish or married to Jews. Hilbert's funeral was attended by fewer than a dozen people, only two of whom were fellow academics, among them Arnold Sommerfeld, a theoretical physicist and also a native of Königsberg.[15] News of his death only became known to the wider world six months after he died.
+By the time Hilbert died in 1943, the Nazis had nearly completely restaffed the university, as many of the former faculty had either been Jewish or married to Jews. Hilbert's funeral was attended by fewer than a dozen people, only two of whom were fellow academics, among them Arnold Sommerfeld, a theoretical physicist and also a native of Königsberg.[15] News of his death only became known to the wider world six months after he died.
 
 The epitaph on his tombstone in Göttingen consists of the famous lines he spoke at the conclusion of his retirement address to the Society of German Scientists and Physicians on 8 September 1930. The words were given in response to the Latin maxim: "Ignoramus et ignorabimus" or "We do not know, we shall not know":[16]
 
@@ -54,7 +54,7 @@ The day before Hilbert pronounced these phrases at the 1930 annual meeting of th
 
 Personal life
 
-ConstantinCaratheodory_KatheHilbert_MFO633.jpg, before 1932]] In 1892, Hilbert married Käthe Jerosch (1864–1945), "the daughter of a Königsberg merchant, an outspoken young lady with an independence of mind that matched his own".[18] While at Königsberg they had their one child, Franz Hilbert (1893–1969).
+, before 1932]] In 1892, Hilbert married Käthe Jerosch (1864–1945), "the daughter of a Königsberg merchant, an outspoken young lady with an independence of mind that matched his own".[18] While at Königsberg they had their one child, Franz Hilbert (1893–1969).
 
 Hilbert's son Franz suffered throughout his life from an undiagnosed mental illness. His inferior intellect was a terrible disappointment to his father and this misfortune was a matter of distress to the mathematicians and students at Göttingen.[19]
 

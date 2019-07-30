@@ -20,8 +20,6 @@ This great improvement in memory read performance makes it practical for an AGP 
 
 History
 
-AGP-Video-Card.jpg
-
 The AGP slot first appeared on x86-compatible system boards based on Socket 7 Intel P5 Pentium and Slot 1 P6 Pentium II processors. Intel introduced AGP support with the i440LX Slot 1 chipset on August 26, 1997, and a flood of products followed from all the major system board vendors.[3]
 
 The first Socket 7 chipsets to support AGP were the VIA Apollo VP3, SiS 5591/5592, and the ALI Aladdin V. Intel never released an AGP-equipped Socket 7 chipset. FIC demonstrated the first Socket 7 AGP system board in November 1997 as the _FIC PA-2012_ based on the VIA Apollo VP3 chipset, followed very quickly by the _EPoX P55-VP3_ also based on the VIA VP3 chipset which was first to market.[4]
@@ -55,7 +53,7 @@ There are various physical interfaces (connectors); see the Compatibility sectio
 
 Official extensions
 
-NVIDIA_GeForce4_Ti_4600_Mac.jpg Macintosh)]] Quadro_ELSA_GLoria_II_Pro.jpg
+Macintosh)]]
 
 AGP Pro
 
@@ -91,8 +89,6 @@ PCIe based AGP ports
 
 
 Compatibility
-
-AGP_&_AGP_Pro_Keying.svg
 
 AGP cards are backward and forward compatible within limits. 1.5 V-only keyed cards will not go into 3.3 V slots and vice versa, though "Universal" cards exist which will fit into either type of slot. There are also unkeyed "Universal" slots that will accept either type of card. When an AGP Universal card is plugged-into an AGP Universal slot, only the 1.5 V portion of the card is used. Some cards, like Nvidia's GeForce 6 series (except the 6200) or ATI's Radeon X800 series, only have keys for 1.5 V to prevent them from being installed in older mainboards without 1.5 V support. Some of the last modern cards with 3.3 V support were the Nvidia GeForce FX series (FX 5200, FX 5500, FX 5700, some FX 5800, FX 5900 and some FX 5950), Geforce 6 Series (6200, 6600/6600 LE/6600 GT only) and the ATI Radeon 9500/9700/9800(R350) (but not 9600/9800(R360)). Some Geforce 6200 and Geforce 6600 cards will function with AGP 1.0 (3.3v) slots.
 

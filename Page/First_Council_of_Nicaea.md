@@ -7,7 +7,7 @@ Its main accomplishments were settlement of the Christological issue of the divi
 
 Overview
 
-THE_FIRST_COUNCIL_OF_NICEA.jpg The First Council of Nicaea was the first ecumenical council of the Church.[6] Most significantly, it resulted in the first uniform Christian doctrine, called the Nicene Creed. With the creation of the creed, a precedent was established for subsequent local and regional councils of Bishops (Synods) to create statements of belief and canons of doctrinal orthodoxy—the intent being to define unity of beliefs for the whole of Christendom.
+The First Council of Nicaea was the first ecumenical council of the Church.[6] Most significantly, it resulted in the first uniform Christian doctrine, called the Nicene Creed. With the creation of the creed, a precedent was established for subsequent local and regional councils of Bishops (Synods) to create statements of belief and canons of doctrinal orthodoxy—the intent being to define unity of beliefs for the whole of Christendom.
 
 Derived from Greek (), "ecumenical" means "worldwide" but generally is assumed to be limited to the known inhabited Earth, and at this time in history is synonymous with the Roman Empire; the earliest extant uses of the term for a council are Eusebius' _Life of Constantine_ 3.6[7] around 338, which states "he convoked an ecumenical council" ()[8] and the Letter in 382 to Pope Damasus I and the Latin bishops from the First Council of Constantinople.[9]
 
@@ -20,7 +20,7 @@ Historically significant as the first effort to attain consensus in the church t
 
 Character and purpose
 
-Byzantinischer_Mosaizist_um_1000_002.jpg summoned the bishops of the Christian Church to Nicaea to address divisions in the Church (mosaic in Hagia Sophia, Constantinople (Istanbul), ca. 1000).]]
+summoned the bishops of the Christian Church to Nicaea to address divisions in the Church (mosaic in Hagia Sophia, Constantinople (Istanbul), ca. 1000).]]
 
 The First Council of Nicaea was convened by the Roman emperor Constantine the Great upon the recommendations of a synod led by the bishop Hosius of Corduba in the Eastertide of 325. This synod had been charged with investigation of the trouble brought about by the Arian controversy in the Greek-speaking east.[16] To most bishops, the teachings of Arius were heretical and dangerous to the salvation of souls.[17] In the summer of 325, the bishops of all provinces were summoned to Nicaea, a place reasonably accessible to many delegates, particularly those of Asia Minor, Georgia, Armenia, Syria, Egypt, Greece, and Thrace.
 
@@ -69,8 +69,6 @@ The orthodox bishops won approval of every one of their proposals regarding the 
 
 Arian controversy
 
-Constantine_burning_Arian_books.jpg
-
 The Arian controversy arose in Alexandria when the newly reinstated presbyter Arius[47] began to spread doctrinal views that were contrary to those of his bishop, St. Alexander of Alexandria. The disputed issues centered on the natures and relationship of God (the Father) and the Son of God (Jesus). The disagreements sprang from different ideas about the Godhead and what it meant for Jesus to be God's Son. Alexander maintained that the Son was divine in just the same sense that the Father is, coeternal with the Father, else he could not be a true Son.[48][49]
 
 Arius emphasized the supremacy and uniqueness of God the Father, meaning that the Father alone is almighty and infinite, and that therefore the Father's divinity must be greater than the Son's. Arius taught that the Son had a beginning, and that he possessed neither the eternity nor the true divinity of the Father, but was rather made "God" only by the Father's permission and power, and that the Son was rather the very first and the most perfect of God's creatures.[50][51]
@@ -85,7 +83,7 @@ According to surviving accounts, the presbyter Arius argued for the supremacy of
 
 Arguments against Arianism
 
-Nikea-arius.png]] The opposing view stemmed from the idea that begetting the Son is itself in the nature of the Father, which is eternal. Thus, the Father was always a Father, and both Father and Son existed always together, eternally, coequally and consubstantially.[58] The contra-Arian argument thus stated that the Logos was "eternally begotten", therefore with no beginning. Those in opposition to Arius believed that to follow the Arian view destroyed the unity of the Godhead, and made the Son unequal to the Father. They insisted that such a view was in contravention of such Scriptures as "I and the Father are one"[59] and "the Word was God",[60] as such verses were interpreted. They declared, as did Athanasius,[61] that the Son had no beginning, but had an "eternal derivation" from the Father, and therefore was coeternal with him, and equal to God in all aspects.
+]] The opposing view stemmed from the idea that begetting the Son is itself in the nature of the Father, which is eternal. Thus, the Father was always a Father, and both Father and Son existed always together, eternally, coequally and consubstantially.[58] The contra-Arian argument thus stated that the Logos was "eternally begotten", therefore with no beginning. Those in opposition to Arius believed that to follow the Arian view destroyed the unity of the Godhead, and made the Son unequal to the Father. They insisted that such a view was in contravention of such Scriptures as "I and the Father are one"[59] and "the Word was God",[60] as such verses were interpreted. They declared, as did Athanasius,[61] that the Son had no beginning, but had an "eternal derivation" from the Father, and therefore was coeternal with him, and equal to God in all aspects.
 
 Result of the debate
 
@@ -94,7 +92,7 @@ The Council declared that the Son was true God, coeternal with the Father and be
 
 Nicene Creed
 
-Nicaea_icon.jpg and the bishops of the First Council of Nicaea (325) holding the Niceno–Constantinopolitan Creed of 381]]
+and the bishops of the First Council of Nicaea (325) holding the Niceno–Constantinopolitan Creed of 381]]
 
 One of the projects undertaken by the Council was the creation of a Creed, a declaration and summary of the Christian faith. Several creeds were already in existence; many creeds were acceptable to the members of the council, including Arius. From earliest times, various creeds served as a means of identification for Christians, as a means of inclusion and recognition, especially at baptism.
 
@@ -168,7 +166,7 @@ On 25 July 325, in conclusion, the fathers of the council celebrated the Emperor
 
 Effects of the council
 
-COUNCIL_OF_NICEA_Fresco_in_the_Sistine_Salon_Vatican_t.jpg The long-term effects of the Council of Nicaea were significant. For the first time, representatives of many of the bishops of the Church convened to agree on a doctrinal statement. Also for the first time, the Emperor played a role, by calling together the bishops under his authority, and using the power of the state to give the council's orders effect.
+The long-term effects of the Council of Nicaea were significant. For the first time, representatives of many of the bishops of the Church convened to agree on a doctrinal statement. Also for the first time, the Emperor played a role, by calling together the bishops under his authority, and using the power of the state to give the council's orders effect.
 
 In the short-term, however, the council did not completely solve the problems it was convened to discuss and a period of conflict and upheaval continued for some time. Constantine himself was succeeded by two Arian Emperors in the Eastern Empire: his son, Constantius II and Valens. Valens could not resolve the outstanding ecclesiastical issues, and unsuccessfully confronted St. Basil over the Nicene Creed.[72]
 

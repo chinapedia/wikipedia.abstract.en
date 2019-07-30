@@ -87,7 +87,7 @@ Fichte argued that "active citizenship, civic freedom and even property rights s
 
 Final period in Berlin
 
-Dorotheenst_Friedhof_Fichte.jpg (cemetery), Berlin]] Fichte gave a wide range of public and private lectures in Berlin from the last decade of his life. These form some of his best known work, and are the basis of a revived German-speaking scholarly interest in his work.[64]
+(cemetery), Berlin]] Fichte gave a wide range of public and private lectures in Berlin from the last decade of his life. These form some of his best known work, and are the basis of a revived German-speaking scholarly interest in his work.[64]
 
 The lectures include two works from 1806. In _The Characteristics of the Present Age_ (_Die Grundzüge des gegenwärtigen Zeitalters_), Fichte outlines his theory of different historical and cultural epochs. His mystic work _The Way Towards the Blessed Life_ (_Die Anweisung zum seligen Leben oder auch die Religionslehre_) gave his fullest thoughts on religion. In 1807-1808 he gave a series of speeches in French-occupied Berlin, _Addresses to the German Nation_.[65]
 

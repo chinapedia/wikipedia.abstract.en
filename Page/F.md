@@ -3,12 +3,12 @@ F-sharp}} F (named _ef_[1] )[2] is the sixth letter in the modern English alphab
 
 History
 
-+-----------------------+--------------------+-------------------+------------------+---------------+
-| Proto-Semitic         | Phoenician         | Greek             | Etruscan         | Roman F       |
-| W                     | _waw_              | _Digamma_         | V or W           |               |
-+=======================+====================+===================+==================+===============+
-| Proto-semiticW-01.png | PhoenicianW-01.png | Digamma_uc_lc.svg | EtruscanF-01.svg | RomanF-01.png |
-+-----------------------+--------------------+-------------------+------------------+---------------+
++---------------+-------------+-----------+----------+---------+
+| Proto-Semitic | Phoenician  | Greek     | Etruscan | Roman F |
+| W             | _waw_       | _Digamma_ | V or W   |         |
++===============+=============+===========+==========+=========+
+|               |             |           |          |         |
++---------------+-------------+-----------+----------+---------+
 
 The origin of 'F' is the Semitic letter _vâv_ (or _waw_) that represented a sound like or . Graphically it originally probably depicted either a hook or a club. It may have been based on a comparable Egyptian hieroglyph such as that which represented the word _mace_ (transliterated as ḥ(dj)): T3
 

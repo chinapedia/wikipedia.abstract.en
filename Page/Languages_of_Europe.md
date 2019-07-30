@@ -11,16 +11,13 @@ The Indo-European language family is descended from Proto-Indo-European, which i
 
 Romance
 
-Romance_20c_en.png Roughly 215 million Europeans (primarily in Southern and Western Europe) are native speakers of Romance languages, the largest groups including French (c. 69 million), Italian (c. 65 million), Spanish (Castilian) (c. 40 million), Romanian (c. 23 million), Portuguese (c. 10 million), Sicilian (c. 5 million, also subsumed under Italian), Venetian language (c. 4 million), Catalan (c. 4 million), Galician (c. 2 million), Sardinian (c. 1 million), Occitan (c. 500,000), besides numerous smaller communities.
+Roughly 215 million Europeans (primarily in Southern and Western Europe) are native speakers of Romance languages, the largest groups including French (c. 69 million), Italian (c. 65 million), Spanish (Castilian) (c. 40 million), Romanian (c. 23 million), Portuguese (c. 10 million), Sicilian (c. 5 million, also subsumed under Italian), Venetian language (c. 4 million), Catalan (c. 4 million), Galician (c. 2 million), Sardinian (c. 1 million), Occitan (c. 500,000), besides numerous smaller communities.
 
 The Romance languages are descended from varieties of Vulgar Latin spoken in the various parts of the Roman Empire in Late Antiquity. Latin was itself part of the (otherwise extinct) Italic branch of Indo-European. Romance is divided phylogenetically into ITALO-WESTERN, EASTERN ROMANCE (including Romanian) and SARDINIAN. The Romance-speaking area in Europe is often referred to as Latin Europe.[2]
 
 We can further break down Italo-Western into the _Italo-Dalmatian languages_ (sometimes grouped with Eastern Romance), including the Tuscan-derived Italian and numerous local Romance lects in Italy as well as Dalmatian, and the _Western Romance languages_. The Western Romance languages in turn separate into the Gallo-Romance languages, including French and its varieties (Langues d'oïl), the Rhaeto-Romance languages and the Gallo-Italic languages; the Occitano-Romance languages (East Iberian), grouped with either Gallo-Romance or West Iberian, including Occitan, Catalan and Aragonese; and finally the West Iberian languages (Spanish-Portuguese), including the Astur-Leonese languages, Galician-Portuguese and Castilian.
 
 Germanic
-
-The present-day distribution of the Germanic languages in Europe:
-NORTH GERMANIC LANGUAGES WEST GERMANIC LANGUAGES Dots indicate areas where multilingualism is common.
 
 The Germanic languages make up the predominant language family in northwestern Europe. An estimated 210 million Europeans are native speakers of Germanic languages, the largest groups being German (c. 95 million), English (c. 70 million) and Dutch (c. 24 million), Swedish (c. 10 million), Danish (c. 6 million) and Norwegian (c. 5 million).
 
@@ -60,7 +57,7 @@ English has a long history of contact with Scandinavian languages, given the imm
 
 Slavic
 
-Slavic_europe.svg Slavic languages are spoken in large areas of Central Europe, Southern Europe and Eastern Europe. An estimated 250 million Europeans are native speakers of Slavic languages, the largest groups being Russian (c. 110 million in European Russia and adjacent parts of Eastern Europe, Russian forming the largest linguistic community in Europe), Polish (c. 55 million), Ukrainian (c. 40 million), Serbo-Croatian (c. 21 million), Czech (c. 11 million), Bulgarian (c. 9 million), Slovak (c. 5 million) Belarusian and Slovene (c. 3 million each) and Macedonian (c. 2 million).
+Slavic languages are spoken in large areas of Central Europe, Southern Europe and Eastern Europe. An estimated 250 million Europeans are native speakers of Slavic languages, the largest groups being Russian (c. 110 million in European Russia and adjacent parts of Eastern Europe, Russian forming the largest linguistic community in Europe), Polish (c. 55 million), Ukrainian (c. 40 million), Serbo-Croatian (c. 21 million), Czech (c. 11 million), Bulgarian (c. 9 million), Slovak (c. 5 million) Belarusian and Slovene (c. 3 million each) and Macedonian (c. 2 million).
 
 Phylogenetically, Slavic is divided into three subgroups:
 
@@ -73,8 +70,6 @@ Other
 -   Greek (ca. 13 million) is the official language of Greece and Cyprus, and there are Greek-speaking enclaves in Albania, Bulgaria, Italy, North Macedonia, Romania, Georgia, Ukraine, Lebanon, Egypt, Israel, Jordan and Turkey, and in Greek communities around the world. Dialects of modern Greek that originate from Attic Greek (through Koine and then Medieval Greek) are Cappadocian, Pontic, Cretan, Cypriot, Katharevousa, and Yevanic
     -   Italiot Greek is, debatably, a Doric dialect of Greek. It is spoken in southern Italy only, in the southern Calabria region (as Grecanic)[4][5][6][7][8] and in the Salento region (as Griko). It has been studied by the German linguist Gerhard Rohlfs during the 1930s and 1950s.
     -   Tsakonian is a Doric dialect of the Greek language spoken in the lower Arcadia region of the Peloponnese around the village of Leonidio
-
-Baltic_languages.png
 
 -   The Baltic languages are spoken in Lithuania (Lithuanian (ca. 3 million), Samogitian) and Latvia (Latvian (ca. 2 million), Latgalian). Samogitian and Latgalian are usually considered to be dialects of Lithuanian and Latvian respectively.
     -   There are also several extinct Baltic languages, including: Galindian, Curonian, Old Prussian, Selonian, Semigallian and Sudovian.
@@ -92,8 +87,6 @@ Non-Indo-European languages
 
 Uralic
 
-bélyegkép
-
 Uralic is native to northern Eurasia. Finno-Ugric groups the Uralic languages other than Samoyedic. Finnic languages include Finnish (ca. 5 million) and Estonian (ca. 1 million). The Sami languages (ca. 30 000) are closely related to Finnic.
 
 The Ugric languages are represented in Europe with the Hungarian language (ca. 13 million), historically introduced with the Hungarian conquest of the Carpathian Basin of the 9th century.
@@ -101,8 +94,6 @@ The Ugric languages are represented in Europe with the Hungarian language (ca. 1
 The Samoyedic Nenets language is spoken in Nenets Autonomous Okrug in the far northeastern corner of Europe (as delimited by the Ural Mountains).
 
 Turkic
-
-Carte_peuples_turcs.png
 
 -   Oghuz languages in Europe include Turkish, spoken in European Turkey and by immigrant communities; Azerbaijani is spoken in Azerbaijan and parts of Southern Russia and Gagauz is spoken in Gagauzia.
 -   Kypchak languages in Europe include Crimean Tatar, which is spoken in Crimea; Tatar, which is spoken in Tatarstan; Bashkir, which is spoken in Bashkortostan; and Kazakh, which is spoken in Kazakhstan.
@@ -150,8 +141,6 @@ Linguistic minorities
 Historical attitudes towards linguistic diversity are illustrated by two French laws: the Ordonnance de Villers-Cotterêts (1539), which said that every document in France should be written in French (neither in Latin nor in Occitan) and the Loi Toubon (1994), which aimed to eliminate anglicisms from official documents. States and populations within a state have often resorted to war to settle their differences. There have been attempts to prevent such hostilities: two such initiatives were promoted by the Council of Europe, founded in 1949, which affirms the right of minority language speakers to use their language fully and freely.[20] The Council of Europe is committed to protecting linguistic diversity. Currently all European countries except France, Andorra and Turkey have signed the Framework Convention for the Protection of National Minorities, while Greece, Iceland and Luxembourg have signed it, but have not ratified it; this framework entered into force in 1998. Another European treaty, the European Charter for Regional or Minority Languages, was adopted in 1992 under the auspices of the Council of Europe: it entered into force in 1998, and while it is legally binding for 24 countries, France, Iceland, Italy, North Macedonia, Moldova and Russia have chosen to sign without ratifying the convention.
 
 Scripts
-
-Alphabets used in national languages in Europe:
 
 The main scripts used in Europe today are the Latin and Cyrillic.
 

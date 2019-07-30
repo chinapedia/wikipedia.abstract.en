@@ -41,21 +41,8 @@ Denominations of Ancient Greek drachma
 The weight of the silver drachma was approximately 4.3 grams or 0.15 ounces,[9] although weights varied significantly from one city-state to another. It was divided into six obols of 0.72 grams, which were subdivided into four tetartemoria of 0.18 grams, one of the smallest coins ever struck, approximately 5–7 mm in diameter.[10]
 
   Denominations of silver drachma
-  -------------------------------------------------
+  ---------------------------------
   Image
-  001-athens-dekadrachm-1.jpg
-  Kyme-01.jpg
-  AR_Didrachm_90001284.jpg
-  Naxos-02.jpg
-  001-Massalia-tetrobol-02.jpg
-  Metapontum_Triobol_868740.jpg
-  Tarentum_AR_Diobol_851470.jpg
-  SNGCop_053.jpg
-  Thasitischer_Tritartemorion_630264_C.jpg
-  Hemiobol_Corinth.jpg
-  Triihemitartemorion_Cilicia,_4th_century_BC.jpg
-  001-Tetartemorion-3.jpg
-  001-Hemitartemorion-02.jpg
 
 Historic currency divisions
 
@@ -68,8 +55,6 @@ Minae and talents were never actually minted: they represented weight measures u
 
 
 Modern drachma
-
-Drachma-Symbol.svg
 
 First modern drachma
 
@@ -87,11 +72,11 @@ Between 1926 and 1930, a new coinage was introduced for the new Hellenic Republi
 
 Notes
 
-NBG_banknote-1912.jpg Notes were issued by the National Bank of Greece from 1841 until 2001 when Greece joined the Euro. Early denominations ranged from 10 to 500 drachmae. Smaller denominations (1, 2, 3 and 5 drachmae) were issued from 1885, with the first 5-drachma notes being made by cutting 10-drachma notes in half.
+Notes were issued by the National Bank of Greece from 1841 until 2001 when Greece joined the Euro. Early denominations ranged from 10 to 500 drachmae. Smaller denominations (1, 2, 3 and 5 drachmae) were issued from 1885, with the first 5-drachma notes being made by cutting 10-drachma notes in half.
 
 When Greece finally achieved its independence from the Ottoman Empire in 1828, the phoenix was introduced as the monetary unit; its use was short-lived, however, and in 1832 the phoenix was replaced by the drachma, adorned with the image of King Otto of Greece, who reigned as modern Greece's first king from 1832 to 1862. The drachma was divided into 100 lepta. In 2002 the drachma ceased to be legal tender after the euro, the monetary unit of the European Union, became Greece's sole currency.
 
-Between 1917 and 1920, the Greek government issued paper money in denominations of 10 lepta, 50 lepta, 1 drachma, 2 drachmae, and 5 drachmae. The National Bank of Greece introduced 1000-drachma notes in 1901, and the Bank of Greece introduced 5,000-drachma notes in 1928. The economic depression of the 1920s affected many nations around the globe, including Greece. In 1922, the Greek government issued a forced loan in order to finance their growing budget deficit. On April 1, 1922, the government decreed that half of all bank notes had to be surrendered and exchanged for 6.5% bonds. The notes were then cut in half, with the portion bearing the Greek crown standing in for the bonds while the other half was exchanged for a new issue of central bank notes at half the original value[15].The Greek government again issued notes between 1940 and 1944, in denominations ranging from 50 lepta to 20 drachmae. Image_of_5_Drachma_note_cut_in_half.jpg
+Between 1917 and 1920, the Greek government issued paper money in denominations of 10 lepta, 50 lepta, 1 drachma, 2 drachmae, and 5 drachmae. The National Bank of Greece introduced 1000-drachma notes in 1901, and the Bank of Greece introduced 5,000-drachma notes in 1928. The economic depression of the 1920s affected many nations around the globe, including Greece. In 1922, the Greek government issued a forced loan in order to finance their growing budget deficit. On April 1, 1922, the government decreed that half of all bank notes had to be surrendered and exchanged for 6.5% bonds. The notes were then cut in half, with the portion bearing the Greek crown standing in for the bonds while the other half was exchanged for a new issue of central bank notes at half the original value[15].The Greek government again issued notes between 1940 and 1944, in denominations ranging from 50 lepta to 20 drachmae.
 
 During the German–Italian occupation of Greece from 1941 to 1944, catastrophic hyperinflation and Nazi looting of the Greek treasury caused much higher denominations to be issued, culminating in 100,000,000,000-drachma notes in 1944.[16]
 

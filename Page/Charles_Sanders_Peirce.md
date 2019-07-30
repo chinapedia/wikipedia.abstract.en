@@ -7,7 +7,7 @@ In 1934, the philosopher Paul Weiss called Peirce "the most original and versati
 
 Life
 
-Charles_Sanders_Peirce's_birthplace_building.jpg's Graduate School of Arts and Social Sciences]]
+'s Graduate School of Arts and Social Sciences]]
 
 Peirce was born at 3 Phillips Place in Cambridge, Massachusetts. He was the son of Sarah Hunt Mills and Benjamin Peirce, himself a professor of astronomy and mathematics at Harvard University and perhaps the first serious research mathematician in America. At age 12, Charles read his older brother's copy of Richard Whately's _Elements of Logic_, then the leading English-language text on the subject. So began his lifelong fascination with logic and reasoning.[7] He went on to earn a Bachelor of Arts degree and a Master of Arts degree (1862) from Harvard. In 1863 the Lawrence Scientific School awarded him a Bachelor of Science degree, Harvard's first _summa cum laude_ chemistry degree.[8] His academic record was otherwise undistinguished.[9] At Harvard, he began lifelong friendships with Francis Ellingwood Abbot, Chauncey Wright, and William James.[10] One of his Harvard instructors, Charles William Eliot, formed an unfavorable opinion of Peirce. This proved fateful, because Eliot, while President of Harvard (1869–1909—a period encompassing nearly all of Peirce's working life—repeatedly vetoed Peirce'e employment at the university.[11]
 
@@ -28,8 +28,6 @@ Brent documents something Peirce never suspected, namely that his efforts to obt
 Peirce's personal life undoubtedly worked against his professional success. After his first wife, Harriet Melusina Fay ("Zina"), left him in 1875,[30] Peirce, while still legally married, became involved with Juliette, whose last name, given variously as Froissy and Pourtalai,[31] and nationality (she spoke French[32]) remains uncertain.[33] When his divorce from Zina became final in 1883, he married Juliette.[34] That year, Newcomb pointed out to a Johns Hopkins trustee that Peirce, while a Hopkins employee, had lived and traveled with a woman to whom he was not married; the ensuing scandal led to his dismissal in January 1884.[35] Over the years Peirce sought academic employment at various universities without success.[36] He had no children by either marriage.[37]
 
 Poverty
-
-Charles_S._Peirce_house_PA1.jpg Milford_and_NYC_and_Cambridge.GIF JulietteAndCharles.JPG Gravestone_Charles_Sanders_Peirce_and_Juliette_Peirce.jpg
 
 In 1887 Peirce spent part of his inheritance from his parents to buy of rural land near Milford, Pennsylvania, which never yielded an economic return.[38] There he had an 1854 farmhouse remodeled to his design.[39] The Peirces named the property "Arisbe". There they lived with few interruptions for the rest of their lives,[40] Charles writing prolifically, much of it unpublished to this day (see Works). Living beyond their means soon led to grave financial and legal difficulties.[41] He spent much of his last two decades unable to afford heat in winter and subsisting on old bread donated by the local baker. Unable to afford new stationery, he wrote on the verso side of old manuscripts. An outstanding warrant for assault and unpaid debts led to his being a fugitive in New York City for a while.[42] Several people, including his brother James Mills Peirce[43] and his neighbors, relatives of Gifford Pinchot, settled his debts and paid his property taxes and mortgage.[44]
 
@@ -94,7 +92,7 @@ The first published anthology of Peirce's articles was the one-volume _Chance, L
 
 Mathematics
 
-Peirce-quincuncial-bright-lines.gif of a sphere keeps angles true except at several isolated points and results in less distortion of area than in other projections. It can be tessellated, that is, multiple copies can be joined together continuously edge-to-edge.]]Peirce's most important work in pure mathematics was in logical and foundational areas. He also worked on linear algebra, matrices, various geometries, topology and Listing numbers, Bell numbers, graphs, the four-color problem, and the nature of continuity.
+of a sphere keeps angles true except at several isolated points and results in less distortion of area than in other projections. It can be tessellated, that is, multiple copies can be joined together continuously edge-to-edge.]]Peirce's most important work in pure mathematics was in logical and foundational areas. He also worked on linear algebra, matrices, various geometries, topology and Listing numbers, Bell numbers, graphs, the four-color problem, and the nature of continuity.
 
 He worked on applied mathematics in economics, engineering, and map projections (such as the Peirce quincuncial projection), and was especially active in probability and statistics.[77]
 
@@ -115,7 +113,7 @@ In 1881[80] he set out the axiomatization of natural number arithmetic, a few ye
 
 In 1885[81] he distinguished between first-order and second-order quantification.[82][83] In the same paper he set out what can be read as the first (primitive) axiomatic set theory, anticipating Zermelo by about two decades (Brady 2000,[84] pp. 132–33).
 
-In 1886, he saw that Boolean calculations could be carried out via electrical switches,[85] anticipating Claude Shannon by more than 50 years. PeirceAlphaGraphs.svgs: Alpha graphs]] By the later 1890s[86] he was devising existential graphs, a diagrammatic notation for the predicate calculus. Based on them are John F. Sowa's conceptual graphs and Sun-Joo Shin's diagrammatic reasoning.
+In 1886, he saw that Boolean calculations could be carried out via electrical switches,[85] anticipating Claude Shannon by more than 50 years. s: Alpha graphs]] By the later 1890s[86] he was devising existential graphs, a diagrammatic notation for the predicate calculus. Based on them are John F. Sowa's conceptual graphs and Sun-Joo Shin's diagrammatic reasoning.
 
 _The New Elements of Mathematics_
 

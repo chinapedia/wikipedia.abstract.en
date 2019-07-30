@@ -33,7 +33,7 @@ Half-life is constant over the lifetime of an exponentially decaying quantity, a
 
 Probabilistic nature
 
-Halflife-sim.gif: with more atoms, the overall decay is more regular and more predictable.]]
+: with more atoms, the overall decay is more regular and more predictable.]]
 
 A half-life usually describes the decay of discrete entities, such as radioactive atoms. In that case, it does not work to use the definition that states "half-life is the time required for exactly half of the entities to decay". For example, if there is just one radioactive atom, and its half-life is one second, there will _not_ be "half of an atom" left after one second.
 
@@ -76,7 +76,7 @@ For a proof of these formulas, see Exponential decay § Decay by two or more pro
 
 Examples
 
-Dice_half-life_decay.jpg]] There is a half-life describing any exponential-decay process. For example:
+]] There is a half-life describing any exponential-decay process. For example:
 
 -   As noted above, in radioactive decay the half-life is the length of time after which there is a 50% chance that an atom will have undergone nuclear decay. It varies depending on the atom type and isotope, and is usually determined experimentally. See List of nuclides.
 -   The current flowing through an RC circuit or RL circuit decays with a half-life of ln(2)_RC_ or ln(2)_L/R_, respectively. For this example the term half time tends to be used, rather than "half life", but they mean the same thing.

@@ -46,8 +46,6 @@ In 1985, President Reagan entered Bethesda Naval Hospital for colon cancer surge
 
 Following the Israeli–U.S. meeting, Israel requested permission from the United States to sell a small number of BGM-71 TOW antitank missiles to Iran, claiming that this would aid the "moderate" Iranian faction,[48] by demonstrating that the group actually had high-level connections to the U.S. government.[49] Reagan initially rejected the plan, until Israel sent information to the United States showing that the "moderate" Iranians were opposed to terrorism and had fought against it.[50] Now having a reason to trust the "moderates", Reagan approved the transaction, which was meant to be between Israel and the "moderates" in Iran, with the United States reimbursing Israel.[51] In his 1990 autobiography _An American Life_, Reagan claimed that he was deeply committed to securing the release of the hostages; it was this compassion that supposedly motivated his support for the arms initiatives.[52] The president requested that the "moderate" Iranians do everything in their capability to free the hostages held by Hezbollah.[53] Reagan always insisted in public after the scandal broke in late 1986 that purpose behind the arms-for-hostages trade was to establish a working relationship with the "moderate" faction associated with Rafsanjani to facilitate the reestablishment of the American–Iranian alliance after the soon to be expected death of Khomeini, to end the Iran–Iraq war and end Iranian support for Islamic terrorism while downplaying the importance of freeing the hostages in Lebanon as a secondary issue. By contrast, when testifying before the Tower Commission, Reagan declared that hostage issue was the main reason for selling arms to Iran.
 
-Tow_atm.jpg
-
 The following arms were supplied to Iran:[54][55]
 
 -   First arms sales in 1981 (see above)
@@ -91,7 +89,7 @@ During a secret meeting in Frankfurt in October 1986, North told Bahramani that:
 
 Discovery and scandal
 
-Oliver_North_mug_shot.jpg's mugshot, after his arrest]] After a leak by Mehdi Hashemi, a senior official in the Islamic Revolutionary Guard Corps, the Lebanese magazine _Ash-Shiraa_ exposed the arrangement on 3 November 1986.[85] The leak may have been orchestrated by a covert team led by Arthur S. Moreau Jr., assistant to the chairman of the United States Joint Chiefs of Staff, due to fears the scheme had grown out of control.[86]
+'s mugshot, after his arrest]] After a leak by Mehdi Hashemi, a senior official in the Islamic Revolutionary Guard Corps, the Lebanese magazine _Ash-Shiraa_ exposed the arrangement on 3 November 1986.[85] The leak may have been orchestrated by a covert team led by Arthur S. Moreau Jr., assistant to the chairman of the United States Joint Chiefs of Staff, due to fears the scheme had grown out of control.[86]
 
 This was the first public report of the weapons-for-hostages deal. The operation was discovered only after an airlift of guns (Corporate Air Services HPF821) was downed over Nicaragua. Eugene Hasenfus, who was captured by Nicaraguan authorities after surviving the plane crash, initially alleged in a press conference on Nicaraguan soil that two of his coworkers, Max Gomez and Ramon Medina, worked for the Central Intelligence Agency.[87] He later said he did not know whether they did or not.[88] The Iranian government confirmed the _Ash-Shiraa_ story, and ten days after the story was first published, President Reagan appeared on national television from the Oval Office on 13 November, stating:
 
@@ -110,7 +108,7 @@ Tower Commission
 
 On 25 November 1986, President Reagan announced the creation of a Special Review Board to look into the matter; the following day, he appointed former Senator John Tower, former Secretary of State Edmund Muskie, and former National Security Adviser Brent Scowcroft to serve as members. This Presidential Commission took effect on 1 December and became known as the Tower Commission. The main objectives of the commission were to inquire into "the circumstances surrounding the Iran–Contra matter, other case studies that might reveal strengths and weaknesses in the operation of the National Security Council system under stress, and the manner in which that system has served eight different presidents since its inception in 1947".[100] The Tower Commission was the first presidential commission to review and evaluate the National Security Council.[101]
 
-President_Ronald_Reagan_receives_the_Tower_Commission_Report_with_John_Tower_and_Edmund_Muskie.jpg is at left and Edmund Muskie is at right, 1987.]]
+is at left and Edmund Muskie is at right, 1987.]]
 
 President Reagan appeared before the Tower Commission on 2 December 1986, to answer questions regarding his involvement in the affair. When asked about his role in authorizing the arms deals, he first stated that he had; later, he appeared to contradict himself by stating that he had no recollection of doing so.[102] In his 1990 autobiography, _An American Life_, Reagan acknowledges authorizing the shipments to Israel.[103]
 

@@ -1,5 +1,3 @@
-LocationEgypt.svg
-
 The GEOGRAPHY OF EGYPT relates to two regions: North Africa and Southwest Asia.
 
 Egypt has coastlines on the Mediterranean Sea, the River Nile, and the Red Sea. Egypt borders Libya to the west, the Gaza Strip to the northeast, and Sudan to the south. Egypt has an area of 1,001,449 km² (386,662 mi²).
@@ -14,7 +12,7 @@ Egypt is divided into 28 governorates, which include two city-governorates: Alex
 
 Natural regions
 
-Egypt_Topography.png Egypt is predominantly desert. 35,000 km² - 3.5% - of the total land area is cultivated and permanently settled. Most of the country lies within the wide band of desert that stretches eastwards from Africa's Atlantic Coast across the continent and into southwest Asia.
+Egypt is predominantly desert. 35,000 km² - 3.5% - of the total land area is cultivated and permanently settled. Most of the country lies within the wide band of desert that stretches eastwards from Africa's Atlantic Coast across the continent and into southwest Asia.
 
 Egypt's geological history has produced four major physical regions:
 
@@ -27,7 +25,7 @@ Despite covering only about 5% of the total area of Egypt; the Nile Valley and N
 
 Nile Valley and Delta
 
-Nile_composite_NASA.jpg The Nile Valley and Delta, the most extensive oasis on earth, was created by the world's longest river and its seemingly inexhaustible sources. Without the topographic channel that permits the Nile to flow across the Sahara, Egypt would be entirely desert. The length within Egypt of the River Nile in its northwards course from three central African sources – the White Nile, the Blue Nile, and the Atbara – totals some 1,600 km.
+The Nile Valley and Delta, the most extensive oasis on earth, was created by the world's longest river and its seemingly inexhaustible sources. Without the topographic channel that permits the Nile to flow across the Sahara, Egypt would be entirely desert. The length within Egypt of the River Nile in its northwards course from three central African sources – the White Nile, the Blue Nile, and the Atbara – totals some 1,600 km.
 
 The White Nile, which begins at Lake Victoria in Uganda, supplies about 28% of the Nile's Egyptian waters. In its course from Lake Victoria to Juba in South Sudan, the White Nile's channel drops more than 600 m. In its 1,600-km course from Juba to Khartoum, Sudan's capital, the river descends just 75 m. In South Sudan, the White Nile passes through the Sudd, a wide, flat plain covered with swamp vegetation and slows almost to the point of stagnation.
 
@@ -65,15 +63,13 @@ The other major oases form a topographic chain of basins extending from the Faiy
 
 Eastern Desert
 
-Dust_storms_off_Egypt.jpg
-
 The topographic features of the desert region east of the Nile differ from those to the west of the Nile. The Eastern Desert is relatively mountainous. The elevation rises abruptly from the Nile, and a downward-sloping plateau of sand gives way within 100 km to arid, defoliated, rocky hills running north and south between the Sudan border and the Delta. The hills reach elevations of more than 1,900 m.
 
 The region's most prominent feature is the easterly chain of rugged mountains, the Red Sea Hills, which extend from the Nile Valley eastward to the Gulf of Suez and the Red Sea. This elevated region has a natural drainage pattern that rarely functions because of insufficient rainfall. It also has a complex of irregular, sharply cut wadis that extend westward toward the Nile. The desert environment extends all the way to the Red Sea coast.
 
 Sinai Peninsula
 
-Katharinenkloster_Sinai_BW_2.jpg in Sinai, Egypt's highest point.]] The Sinai Peninsula is a triangular-shaped peninsula, about 61,100 km² in area (slightly smaller than the U.S. state of West Virginia). Similar to the desert, the peninsula contains mountains in its southern sector that are a geological extension of the Red Sea Hills, the low range along the Red Sea coast that includes Mount Catherine (Jabal Katrinah), the country's highest point, at 2,642 m above sea-level. The Red Sea may have been named after these mountains, which are red.
+in Sinai, Egypt's highest point.]] The Sinai Peninsula is a triangular-shaped peninsula, about 61,100 km² in area (slightly smaller than the U.S. state of West Virginia). Similar to the desert, the peninsula contains mountains in its southern sector that are a geological extension of the Red Sea Hills, the low range along the Red Sea coast that includes Mount Catherine (Jabal Katrinah), the country's highest point, at 2,642 m above sea-level. The Red Sea may have been named after these mountains, which are red.
 
 The southern side of the peninsula has a sharp escarpment that subsides after a narrow coastal shelf that slopes into the Red Sea and the Gulf of Aqaba. The elevation of Sinai's southern rim is about 1,000 m. Moving northward, the elevation of this limestone plateau decreases. The northern third of Sinai is a flat, sandy coastal plain, which extends from the Suez Canal into the Gaza Strip and Israel.
 

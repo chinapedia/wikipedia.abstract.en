@@ -13,7 +13,7 @@ In 1845, his family moved to Le Havre in Normandy. His father wanted him to go i
 
 On 1 April 1851, Monet entered Le Havre secondary school of the arts. Locals knew him well for his charcoal caricatures, which he would sell for ten to twenty francs. Monet also undertook his first drawing lessons from Jacques-François Ochard, a former student of Jacques-Louis David. On the beaches of Normandy around 1856 he met fellow artist Eugène Boudin, who became his mentor and taught him to use oil paints. Boudin taught Monet "en plein air" (outdoor) techniques for painting.[12] Both were influenced by Johan Barthold Jongkind.
 
-On 28 January 1857, his mother died. At the age of sixteen, he left school and went to live with his widowed, childless aunt, Marie-Jeanne Lecadre. Claude_Monet_-_Camille.JPG, 1866, Kunsthalle Bremen]]
+On 28 January 1857, his mother died. At the age of sixteen, he left school and went to live with his widowed, childless aunt, Marie-Jeanne Lecadre. , 1866, Kunsthalle Bremen]]
 
 Paris and Algeria
 
@@ -23,13 +23,13 @@ After drawing a low ballot number in March 1861, Monet was drafted into the Firs
 
 Disillusioned with the traditional art taught at art schools, in 1862 Monet became a student of Charles Gleyre in Paris, where he met Pierre-Auguste Renoir, Frédéric Bazille and Alfred Sisley. Together they shared new approaches to art, painting the effects of light _en plein air_ with broken colour and rapid brushstrokes, in what later came to be known as Impressionism.
 
-Monet_dejeunersurlherbe.jpg, Frédéric Bazille and Camille Doncieux, first wife of the artist, Musée d'Orsay, Paris[15]]]
+, Frédéric Bazille and Camille Doncieux, first wife of the artist, Musée d'Orsay, Paris[15]]]
 
 In January 1865 Monet was working on a version of _Le déjeuner sur l'herbe_, aiming to present it for hanging at the Salon, which had rejected Manet's _Le déjeuner sur l'herbe_ two years earlier.[16] Monet's painting was very large and could not be completed in time. (It was later cut up, with parts now in different galleries.) Monet submitted instead a painting of _Camille_ or _The Woman in the Green Dress_ (_La femme à la robe verte_), one of many works using his future wife, Camille Doncieux, as his model. Both this painting and a small landscape were hung.[17] The following year Monet used Camille for his model in _Women in the Garden_, and _On the Bank of the Seine, Bennecourt_ in 1868. Camille became pregnant and gave birth to their first child, Jean, in 1867.[18] Monet and Camille married on 28 June 1870, just before the outbreak of the Franco-Prussian War,[19] and, after their excursion to London and Zaandam, they moved to Argenteuil, in December 1871. During this time Monet painted various works of modern life. He and Camille lived in poverty for most of this period. Following the successful exhibition of some maritime paintings, and the winning of a silver medal at Le Havre, Monet's paintings were seized by creditors, from whom they were bought back by a shipping merchant, Gaudibert, who was also a patron of Boudin.[20]
 
 Impressionism
 
-Claude_Monet,_Impression,_soleil_levant.jpg (Impression, soleil levant)'', 1872; the painting that gave its name to the style and artistic movement. Musée Marmottan Monet, Paris]]
+(Impression, soleil levant)'', 1872; the painting that gave its name to the style and artistic movement. Musée Marmottan Monet, Paris]]
 
 From the late 1860s, Monet and other like-minded artists met with rejection from the conservative Académie des Beaux-Arts, which held its annual exhibition at the Salon de Paris. During the latter part of 1873, Monet, Pierre-Auguste Renoir, Camille Pissarro, and Alfred Sisley organized the Société anonyme des artistes peintres, sculpteurs et graveurs (Anonymous Society of Painters, Sculptors, and Engravers) to exhibit their artworks independently. At their first exhibition, held in April 1874, Monet exhibited the work that was to give the group its lasting name. He was inspired by the style and subject matter of previous modern painters Camille Pissarro and Edouard Manet.[21]
 
@@ -43,8 +43,6 @@ In May 1871, he left London to live in Zaandam, in the Netherlands,[27] where he
 
 Impressionism
 
-Claude_Monet-Madame_Monet_en_costume_japonais.jpg
-
 The first Impressionist exhibition was held in 1874 at 35 boulevard des Capucines, Paris, from 15 April to 15 May. The primary purpose of the participants was not so much to promote a new style, but to free themselves from the constraints of the Salon de Paris. The exhibition, open to anyone prepared to pay 60 francs, gave artists the opportunity to show their work without the interference of a jury.[32][33][34]
 
 Renoir chaired the hanging committee and did most of the work himself, as others members failed to present themselves.[35][36]
@@ -57,7 +55,7 @@ File:Monet, Claude - View At Rouelles, Le Havre (1858).jpg|_View at Rouelles, Le
 
 Death of Camille
 
-Claude_Monet,_1879,_Camille_sur_son_lit_de_mort,_oil_on_canvas,_90_x_68_cm,_Musée_d'Orsay,_Paris.jpg, Paris]] Pierre-Auguste_Renoir,_1875,_Claude_Monet,_oil_on_canvas,_84_x_60.5_cm,_Musée_d'Orsay,_Paris.jpg, _Portrait of Claude Monet_, 1875, Musée d'Orsay]]
+, Paris]] , _Portrait of Claude Monet_, 1875, Musée d'Orsay]]
 
 In 1876, Camille Monet became ill with tuberculosis. Their second son, Michel, was born on 17 March 1878. This second child weakened her already fading health. In the summer of that year, the family moved to the village of Vétheuil where they shared a house with the family of Ernest Hoschedé, a wealthy department store owner and patron of the arts. In 1878, Camille Monet was diagnosed with uterine cancer.[53][54][55] She died on 5 September 1879 at the age of thirty-two.[56][57]
 
@@ -69,7 +67,7 @@ John Berger describes the work as "a blizzard of white, grey, purplish paint ..
 
 Vétheuil
 
-Monet_Poppies.jpg After several difficult months following the death of Camille, Monet began to create some of his best paintings of the 19th century. During the early 1880s, Monet painted several groups of landscapes and seascapes in what he considered to be campaigns to document the French countryside. These began to evolve into series of pictures in which he documented the same scene many times in order to capture the changing of light and the passing of the seasons.
+After several difficult months following the death of Camille, Monet began to create some of his best paintings of the 19th century. During the early 1880s, Monet painted several groups of landscapes and seascapes in what he considered to be campaigns to document the French countryside. These began to evolve into series of pictures in which he documented the same scene many times in order to capture the changing of light and the passing of the seasons.
 
 Monet's friend Ernest Hoschedé became bankrupt, and left in 1878 for Belgium. After the death of Camille Monet in September 1879, and while Monet continued to live in the house in Vétheuil, Alice Hoschedé helped Monet to raise his two sons, Jean and Michel. She took them to Paris to live alongside her own six children,[59] Blanche (who married Jean Monet), Germaine, Suzanne, Marthe, Jean-Pierre, and Jacques. In the spring of 1880, Alice Hoschedé and all the children left Paris and rejoined Monet at Vétheuil.[60] In 1881, all of them moved to Poissy, which Monet hated. In April 1883, looking out the window of the little train between Vernon and Gasny, he discovered Giverny in Normandy.[61][62][63] Monet, Alice Hoschedé and the children moved to Vernon, then to the house in Giverny, where he planted a large garden and where he painted for much of the rest of his life. Following the death of her estranged husband, Monet married Alice Hoschedé in 1892.[64]
 
@@ -78,13 +76,13 @@ File:Claude Monet, 1873, Camille Monet on a Bench, oil on canvas, 60.6 x 80.3 cm
 
 Giverny
 
-Claude_Monet_023.jpg]]
+]]
 
 Monet's house and garden
 
 Monet rented and eventually purchased a house and gardens in Giverny. At the beginning of May 1883, Monet and his large family rented the home and from a local landowner. The house was situated near the main road between the towns of Vernon and Gasny at Giverny. There was a barn that doubled as a painting studio, orchards and a small garden. The house was close enough to the local schools for the children to attend, and the surrounding landscape offered many suitable motifs for Monet's work.
 
-The family worked and built up the gardens, and Monet's fortunes began to change for the better as his dealer, Paul Durand-Ruel, had increasing success in selling his paintings.[65] By November 1890, Monet was prosperous enough to buy the house, the surrounding buildings and the land for his gardens. During the 1890s, Monet built a greenhouse and a second studio, a spacious building well lit with skylights. Monet's_Garden_1989_Copyright_Mitzi_Humphrey.png 1989]] Monet wrote daily instructions to his gardener, precise designs and layouts for plantings, and invoices for his floral purchases and his collection of botany books. As Monet's wealth grew, his garden evolved. He remained its architect, even after he hired seven gardeners.[66]
+The family worked and built up the gardens, and Monet's fortunes began to change for the better as his dealer, Paul Durand-Ruel, had increasing success in selling his paintings.[65] By November 1890, Monet was prosperous enough to buy the house, the surrounding buildings and the land for his gardens. During the 1890s, Monet built a greenhouse and a second studio, a spacious building well lit with skylights. 1989]] Monet wrote daily instructions to his gardener, precise designs and layouts for plantings, and invoices for his floral purchases and his collection of botany books. As Monet's wealth grew, his garden evolved. He remained its architect, even after he hired seven gardeners.[66]
 
 Monet purchased additional land with a water meadow. In 1893 he began a vast landscaping project which included lily ponds that would become the subjects of his best-known works. White water lilies local to France were planted along with imported cultivars from South America and Egypt, resulting in a range of colours including yellow, blue and white lilies that turned pink with age.[67] In 1899 he began painting the water lilies, first in vertical views with a Japanese bridge as a central feature, and later in the series of large-scale paintings that was to occupy him continuously for the next 20 years of his life. This scenery, with its alternating light and mirror-like reflections, became an integral part of his work. By the mid-1910s Monet had achieved
 
@@ -93,7 +91,7 @@ File:Monet - Im Garten - 1895.jpeg|_In the Garden_, 1895, Collection E. G. Buehr
 
 Last years
 
-Monet_in_Garden,_New_York_Times,_1922.JPG, 1922]]
+, 1922]]
 
 Failing sight
 
@@ -103,7 +101,7 @@ During World War I, in which his younger son Michel served and his friend and ad
 
 Death
 
-Giverny,_Claude_Monet_Grave_-_panoramio.jpg Monet died of lung cancer on 5 December 1926 at the age of 86 and is buried in the Giverny church cemetery.[71] Monet had insisted that the occasion be simple; thus only about fifty people attended the ceremony.[72] At his funeral, his long-time friend Georges Clemenceau removed the black cloth draped over the coffin, stating, "No black for Monet!" and replaced it with a flower-patterned cloth.[73]
+Monet died of lung cancer on 5 December 1926 at the age of 86 and is buried in the Giverny church cemetery.[71] Monet had insisted that the occasion be simple; thus only about fifty people attended the ceremony.[72] At his funeral, his long-time friend Georges Clemenceau removed the black cloth draped over the coffin, stating, "No black for Monet!" and replaced it with a flower-patterned cloth.[73]
 
 His home, garden, and waterlily pond were bequeathed by his son Michel, his only heir, to the French Academy of Fine Arts (part of the Institut de France) in 1966. Through the _Fondation Claude Monet_, the house and gardens were opened for visits in 1980, following restoration.[74] In addition to souvenirs of Monet and other objects of his life, the house contains his collection of Japanese woodcut prints. The house and garden, along with the Museum of Impressionism, are major attractions in Giverny, which hosts tourists from all over the world.
 
@@ -112,7 +110,7 @@ File:Nymphéas reflets de saule 1916-19.jpg|_Water Lilies and Reflections of a W
 
 Monet's methods
 
-Claude_Monet_-_Rouen_Cathedral,_Facade_(Sunset).JPG]]
+]]
 
 Monet has been described as "the driving force behind Impressionism".[75] Crucial to the art of the Impressionist painters was the understanding of the effects of light on the local colour of objects, and the effects of the juxtaposition of colours with each other.[76] Monet's long career as a painter was spent in the pursuit of this aim.
 

@@ -32,7 +32,7 @@ File:ABC Mobile Studio Caravan.jpg|ABC mobile studio caravan, used for concerts 
 
 1950s–70s
 
-The_start_of_TV_ABC.ogv, 5 November 1956]] Jamesdibble.jpg, reading the first ABC News television bulletin in NSW, 1956]] The ABC commenced television broadcasting in 1956, and followed the earlier radio practice of naming the station after the first letter of the base state. ABN-2 (New South Wales) Sydney was inaugurated by Prime Minister Robert Menzies on 5 November 1956, with the first broadcast presented by Michael Charlton, and James Dibble reading the first television news bulletin.[20] ABV-2 (Melbourne, Victoria) followed two weeks later, on 18 November 1956. Stations in other capital cities followed: ABQ-2 (Brisbane, Queensland) (1959), ABS-2 (Adelaide, South Australia) (1960), ABW-2 (Perth, Western Australia) (1960), and ABT-2 (Hobart, Tasmania) (1960). ABC-3 Canberra opened in 1961, and ABD-6 (Darwin, Northern Territory) started broadcasting in 1971, both named after the base city.
+, 5 November 1956]] , reading the first ABC News television bulletin in NSW, 1956]] The ABC commenced television broadcasting in 1956, and followed the earlier radio practice of naming the station after the first letter of the base state. ABN-2 (New South Wales) Sydney was inaugurated by Prime Minister Robert Menzies on 5 November 1956, with the first broadcast presented by Michael Charlton, and James Dibble reading the first television news bulletin.[20] ABV-2 (Melbourne, Victoria) followed two weeks later, on 18 November 1956. Stations in other capital cities followed: ABQ-2 (Brisbane, Queensland) (1959), ABS-2 (Adelaide, South Australia) (1960), ABW-2 (Perth, Western Australia) (1960), and ABT-2 (Hobart, Tasmania) (1960). ABC-3 Canberra opened in 1961, and ABD-6 (Darwin, Northern Territory) started broadcasting in 1971, both named after the base city.
 
 Although radio programs could be distributed nationally by landline, television relay facilities were not in place until the early 1960s.[21] This meant that news bulletins had to be sent to each capital city by teleprinter, to be prepared and presented separately in each city, with filmed materials copied manually and sent to each state.[22] Other television programs at the time included the popular _Six O'Clock Rock_ hosted by Johnny O'Keefe, _Mr. Squiggle_, as well as operas and plays.[23]
 
@@ -52,7 +52,7 @@ A new Concert Music Department was formed in 1985 to co-ordinate the corporation
 
 ABC Radio was restructured significantly again in 1985 – Radio One became the Metropolitan network, while Radio 2 became known as Radio National (callsigns, however, were not standardised until 1990). New programs such as _The World Today_, _Australia All Over_, and _The Coodabeen Champions_ were introduced, while ABC-FM established an Australian Music Unit in 1989.[38] Radio Australia began to focus on the Asia-Pacific region, with coverage targeted at the south west and central Pacific, south-east Asia, and north Asia. Radio Australia also carried more news coverage, with special broadcasts during the 1987 Fijian coup, Tiananmen Square massacre, and the First Gulf War.[39]
 
-ABC_Sydney.jpg]] In 1991, the Corporation's Sydney radio and orchestral operations moved to a new building in the inner-city suburb of Ultimo.[40] In Melbourne, the ABC Southbank Centre was completed in 1994, and now houses the radio division in Victoria as well as the Melbourne Symphony Orchestra.[41]
+]] In 1991, the Corporation's Sydney radio and orchestral operations moved to a new building in the inner-city suburb of Ultimo.[40] In Melbourne, the ABC Southbank Centre was completed in 1994, and now houses the radio division in Victoria as well as the Melbourne Symphony Orchestra.[41]
 
 The ABC Multimedia Unit was established in July 1995, to manage the new ABC website (launched in August). Funding was allocated later that year specifically for online content, as opposed to reliance on funding for television and radio content. The first online election coverage was put together in 1996, and included news, electorate maps, candidate information and live results.[42]
 
@@ -167,7 +167,7 @@ As a publicly funded broadcaster, the ABC is expected not to take editorial stan
 
 Reviews of the ABC are regularly commissioned and sometimes not released.[107][108]
 
-Maxine_McKew_Portrait_2007.jpg won a seat in federal parliament in the 2007 and served for one term.]]
+won a seat in federal parliament in the 2007 and served for one term.]]
 
 The ABC's requirement of impartiality has led to persistent debates. External critics have complained in particular of left-wing political bias at the broadcaster, citing a prominence of Labor Party-connected journalists hosting masthead political programs or a tendency to favour "progressive" over "conservative" political views on issues such as immigration, refugees, the republic, multiculturalism, reconciliation, feminism, environmentalism, anti-Americanism, gay marriage, budgeting and the like.[109][110][111][112]
 
@@ -240,7 +240,7 @@ Services
 
 Radio
 
-ABC_Building_South_Bank.jpg]]
+]]
 
 The ABC operates 54 local radio stations, in addition to four national networks and international service Radio Australia. In addition, DiG Radio launched on digital platforms in 2002, currently offering three separate stations.
 

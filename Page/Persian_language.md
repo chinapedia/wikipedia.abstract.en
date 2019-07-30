@@ -58,7 +58,7 @@ The known history of the Persian language can be divided into the following thre
 
 Old Persian
 
-Persépolis._Inscription.jpg]] As a written language, Old Persian is attested in royal Achaemenid inscriptions. The oldest known text written in Old Persian is from the Behistun Inscription, dating to the time of king Darius I (reigned 522-486 BC).[54] Examples of Old Persian have been found in what is now Iran, Romania (Gherla), Armenia, Bahrain, Iraq, Turkey and Egypt.[55][56] Old Persian is one of the oldest Indo-European languages which is attested in original texts.[57]
+]] As a written language, Old Persian is attested in royal Achaemenid inscriptions. The oldest known text written in Old Persian is from the Behistun Inscription, dating to the time of king Darius I (reigned 522-486 BC).[54] Examples of Old Persian have been found in what is now Iran, Romania (Gherla), Armenia, Bahrain, Iraq, Turkey and Egypt.[55][56] Old Persian is one of the oldest Indo-European languages which is attested in original texts.[57]
 
 Related to Old Persian, but from a different branch of the Iranian language family, was Avestan, the language of the Zoroastrian liturgical texts.
 
@@ -74,7 +74,7 @@ Gernot Windfuhr considers new Persian as an evolution of the Old Persian languag
 
 New Persian
 
-Rudaba.JPG's _Shahnameh_]] "New Persian" (Modern) is conventionally divided into three stages:
+'s _Shahnameh_]] "New Persian" (Modern) is conventionally divided into three stages:
 
 -   Early New Persian (8th/9th centuries)
 -   Classical Persian (10th–18th centuries)
@@ -96,25 +96,23 @@ The language spread geographically from the 11th century on and was the medium t
 
 Classical Persian
 
-Kalila_wa_Dimna_001.jpg, an influential work in Persian literature]] "Classical Persian" loosely refers to the standardized language of medieval Persia used in literature and poetry. This is the language of the 10th to 12th centuries, which continued to be used as literary language and lingua franca under the "Persianized" Turko-Mongol dynasties during the 12th to 15th centuries, and under restored Persian rule during the 16th to 19th centuries.[72]
+, an influential work in Persian literature]] "Classical Persian" loosely refers to the standardized language of medieval Persia used in literature and poetry. This is the language of the 10th to 12th centuries, which continued to be used as literary language and lingua franca under the "Persianized" Turko-Mongol dynasties during the 12th to 15th centuries, and under restored Persian rule during the 16th to 19th centuries.[72]
 
 Persian during this time served as lingua franca of Greater Persia and of much of the Indian subcontinent. It was also the official and cultural language of many Islamic dynasties, including the Samanids, Buyids, Tahirids, Ziyarids, the Mughal Empire, Timurids, Ghaznavids, Karakhanids, Seljuqs, Khwarazmians, the Sultanate of Rum, Delhi Sultanate, the Shirvanshahs, Safavids, Afsharids, Zands, Qajars, Khanate of Bukhara, Khanate of Kokand, Emirate of Bukhara, Khanate of Khiva, Ottomans and also many Mughal successors such as the Nizam of Hyderabad. Persian was the only non-European language known and used by Marco Polo at the Court of Kublai Khan and in his journeys through China.[73]
 
 Use in Asia Minor
 
-Ottoman_miniature_painters.jpg.]] Despite Anatolia having been ruled at various times prior to the Middle Ages by various Persian-speaking dynasties originating in Iran, the language lost its traditional foothold there with the demise of the Sasanian Empire. Centuries later however, the practise and usage of Persian in the region would be strongly revived. A branch of the Seljuks, the Sultanate of Rum, took Persian language, art and letters to Anatolia.[74] They adopted Persian language as the official language of the empire.[75] The Ottomans, which can roughly be seen as their eventual successors, took this tradition over. Persian was the official court language of the empire, and for some time, the official language of the empire.[76] The educated and noble class of the Ottoman Empire all spoke Persian, such as Sultan Selim I, despite being Safavid Iran's archrival and a staunch opposer of Shia Islam.[77] It was a major literary language in the empire.[78] Some of the noted earlier Persian works during the Ottoman rule are Idris Bidlisi's _Hasht Bihisht_, which began in 1502 and covered the reign of the first eight Ottoman rulers, and the _Salim-Namah_, a glorification of Selim I.[79] After a period of several centuries, Ottoman Turkish (which was highly Persianised itself) had developed towards a fully accepted language of literature, which was even able to satisfy the demands of a scientific presentation.[80] However, the number of Persian and Arabic loanwords contained in those works increased at times up to 88%.[81]
+.]] Despite Anatolia having been ruled at various times prior to the Middle Ages by various Persian-speaking dynasties originating in Iran, the language lost its traditional foothold there with the demise of the Sasanian Empire. Centuries later however, the practise and usage of Persian in the region would be strongly revived. A branch of the Seljuks, the Sultanate of Rum, took Persian language, art and letters to Anatolia.[74] They adopted Persian language as the official language of the empire.[75] The Ottomans, which can roughly be seen as their eventual successors, took this tradition over. Persian was the official court language of the empire, and for some time, the official language of the empire.[76] The educated and noble class of the Ottoman Empire all spoke Persian, such as Sultan Selim I, despite being Safavid Iran's archrival and a staunch opposer of Shia Islam.[77] It was a major literary language in the empire.[78] Some of the noted earlier Persian works during the Ottoman rule are Idris Bidlisi's _Hasht Bihisht_, which began in 1502 and covered the reign of the first eight Ottoman rulers, and the _Salim-Namah_, a glorification of Selim I.[79] After a period of several centuries, Ottoman Turkish (which was highly Persianised itself) had developed towards a fully accepted language of literature, which was even able to satisfy the demands of a scientific presentation.[80] However, the number of Persian and Arabic loanwords contained in those works increased at times up to 88%.[81]
 
 Use in South Asia
 
-Agra_India_persian_poem.jpg, India, 18th century]]
+, India, 18th century]]
 
-Agra_castle_India_persian_poem.jpg, India]]
+, India]]
 
 The Persian language influenced the formation of many modern languages in West Asia, Europe, Central Asia, and South Asia. Following the Turko-Persian Ghaznavid conquest of South Asia, Persian was firstly introduced in the region by Turkic Central Asians.[82] The basis in general for the introduction of Persian language into the subcontinent was set, from its earliest days, by various Persianized Central Asian Turkic and Afghan dynasties.[83] For five centuries prior to the British colonization, Persian was widely used as a second language in the Indian subcontinent, due to the admiration the Mughals (who were of Turco-Mongol origin) had for the foreign language. It took prominence as the language of culture and education in several Muslim courts on the subcontinent and became the sole "official language" under the Mughal emperors. Beginning in 1843, though, English and Hindustani gradually replaced Persian in importance on the subcontinent.[84] Evidence of Persian's historical influence there can be seen in the extent of its influence on certain languages of the Indian subcontinent. Words borrowed from Persian are still quite commonly used in certain Indo-Aryan languages, especially Urdu, also historically known as Hindustani. There is also a small population of Zoroastrian Iranis in India, who migrated in the 19th century to escape religious execution in Qajar Iran and speak a Dari dialect.
 
 Contemporary Persian
-
-Persian_keyboard_layout,_unshifted.gif
 
 Qajar dynasty
 
@@ -153,11 +151,9 @@ Phonology
 
 Iranian Persian has six vowels and twenty-three consonants.
 
-Dinani_Greats_and_Century_Philosopher.ogg
-
 Vowels
 
-Farsi_vowel_chart.svg Historically, Persian distinguished length. Early New Persian had a series of five long vowels (, , , and ) along with three short vowels , and . At some point prior to the 16th century in the general area now modern Iran, and merged into , and and merged into . Thus, older contrasts such as _shēr_ "lion" vs. _shīr_ "milk", and _zūd_ "quick" vs _zōr_ "strong" were lost. However, there are exceptions to this rule, and in some words, _ē_ and _ō_ are merged into the diphthongs and (which are descendants of the diphthongs and in Early New Persian), instead of merging into and . Examples of the exception can be found in words such as (bright). Numerous other instances exist.
+Historically, Persian distinguished length. Early New Persian had a series of five long vowels (, , , and ) along with three short vowels , and . At some point prior to the 16th century in the general area now modern Iran, and merged into , and and merged into . Thus, older contrasts such as _shēr_ "lion" vs. _shīr_ "milk", and _zūd_ "quick" vs _zōr_ "strong" were lost. However, there are exceptions to this rule, and in some words, _ē_ and _ō_ are merged into the diphthongs and (which are descendants of the diphthongs and in Early New Persian), instead of merging into and . Examples of the exception can be found in words such as (bright). Numerous other instances exist.
 
 However, in Dari, the archaic distinction of and (respectively known as _Yā-ye majhūl_ and _Yā-ye ma'rūf_) is still preserved as well as the distinction of and (known as _Wāw-e majhūl_ and _Wāw-e ma'rūf_). On the other hand, in standard Tajik, the length distinction has disappeared, and merged with and with .[93] Therefore, contemporary Afghan Dari dialects are the closest to the vowel inventory of Early New Persian.
 
@@ -222,7 +218,7 @@ Use of occasional foreign synonyms instead of Persian words can be a common prac
 
 Orthography
 
-Nastaliq-proportions.jpg Dehkhoda_note.jpg's personal handwriting, a typical cursive Persian script.]] The_word_Persian_in_Pahlavi_script.png script]]
+'s personal handwriting, a typical cursive Persian script.]] script]]
 
 The vast majority of modern Iranian Persian and Dari text is written with the Arabic script. Tajiki, which is considered by some linguists to be a Persian dialect influenced by Russian and the Turkic languages of Central Asia,[121][122] is written with the Cyrillic script in Tajikistan (see Tajik alphabet). There also exist several romanization systems for Persian.
 
@@ -230,7 +226,7 @@ Persian alphabet
 
 Modern Iranian Persian and Afghan Persian are written using the Persian alphabet which is a modified variant of the Arabic alphabet, which uses different pronunciation and additional letters not found in Arabic language. After the Muslim conquest of Persia, it took approximately 200 years which is referred to as Two Centuries of Silence in Iran, before Persians adopted the Arabic script in place of the older alphabet. Previously, two different scripts were used, Pahlavi, used for Middle Persian, and the Avestan alphabet (in Persian, Dīndapirak or Din Dabire—literally: religion script), used for religious purposes, primarily for the Avestan but sometimes for Middle Persian.
 
-In the modern Persian script, historically short vowels are usually not written, only the historically long ones are represented in the text, so words distinguished from each other only by short vowels are ambiguous in writing: Iranian Persian __ "worm", __ "generosity", __ "cream", and __ "chrome" are all spelled __ () in Persian. The reader must determine the word from context. The Arabic system of vocalization marks known as _harakat_ is also used in Persian, although some of the symbols have different pronunciations. For example, a _ḍammah_ is pronounced , while in Iranian Persian it is pronounced . This system is not used in mainstream Persian literature; it is primarily used for teaching and in some (but not all) dictionaries. Persian_typewriter_keyboard_layout.svg There are several letters generally only used in Arabic loanwords. These letters are pronounced the same as similar Persian letters. For example, there are four functionally identical letters for (), three letters for (), two letters for (), two letters for (). On the other hand, there are four letters that don't exist in Arabic .
+In the modern Persian script, historically short vowels are usually not written, only the historically long ones are represented in the text, so words distinguished from each other only by short vowels are ambiguous in writing: Iranian Persian __ "worm", __ "generosity", __ "cream", and __ "chrome" are all spelled __ () in Persian. The reader must determine the word from context. The Arabic system of vocalization marks known as _harakat_ is also used in Persian, although some of the symbols have different pronunciations. For example, a _ḍammah_ is pronounced , while in Iranian Persian it is pronounced . This system is not used in mainstream Persian literature; it is primarily used for teaching and in some (but not all) dictionaries. There are several letters generally only used in Arabic loanwords. These letters are pronounced the same as similar Persian letters. For example, there are four functionally identical letters for (), three letters for (), two letters for (), two letters for (). On the other hand, there are four letters that don't exist in Arabic .
 
 Additions
 
@@ -276,8 +272,6 @@ Another Latin alphabet, based on the Common Turkic Alphabet, was used in Tajikis
 Fingilish is Persian using ISO basic Latin alphabet. It is most commonly used in chat, emails and SMS applications. The orthography is not standardized, and varies among writers and even media (for example, typing 'aa' for the phoneme is easier on computer keyboards than on cellphone keyboards, resulting in smaller usage of the combination on cellphones).
 
 Tajik alphabet
-
-Akademijai_ilmxhoi_jumxhurii_tojikiston.jpg
 
 The Cyrillic script was introduced for writing the Tajik language under the Tajik Soviet Socialist Republic in the late 1930s, replacing the Latin alphabet that had been used since the October Revolution and the Persian script that had been used earlier. After 1939, materials published in Persian in the Persian script were banned from the country.[126][127]
 

@@ -3,7 +3,7 @@ THE CAMBODIAN GOVERNMENT has diplomatic relations with most countries, including
 
 International disputes
 
-Obama_and_ASEAN_leaders_at_Peace_Palace.jpg, Cambodia, on 19 November 2012.]] Cambodia is involved in a dispute regarding offshore islands and sections of the boundary with Vietnam. In addition, the maritime boundary Cambodia has with Vietnam is undefined. Parts of Cambodia's border with Thailand are indefinite, and the maritime boundary with Thailand is not clearly defined.
+, Cambodia, on 19 November 2012.]] Cambodia is involved in a dispute regarding offshore islands and sections of the boundary with Vietnam. In addition, the maritime boundary Cambodia has with Vietnam is undefined. Parts of Cambodia's border with Thailand are indefinite, and the maritime boundary with Thailand is not clearly defined.
 
 
 Illicit drugs
@@ -81,7 +81,7 @@ Asia
 |             |                        | -   The two countries have an agreements on economic and trade relations, agricultural and agribusiness collaboration, and tourism cooperation.                                      |
 |             |                        | -   Cambodia has an embassy in Manila.                                                                                                                                               |
 |             |                        |                                                                                                                                                                                      |
-|             |                        | 1-121416_ACE1.jpg with King Norodom Sihamoni at the Royal Palace in Phnom Penh on 14 December 2016.]]                                                                                |
+|             |                        | with King Norodom Sihamoni at the Royal Palace in Phnom Penh on 14 December 2016.]]                                                                                                  |
 +-------------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Russia      | 13 May 1956[12]        | See Cambodia–Russia relations                                                                                                                                                        |
 |             |                        |                                                                                                                                                                                      |
@@ -90,7 +90,7 @@ Asia
 |             |                        | -   Cambodia has an embassy in Moscow.                                                                                                                                               |
 |             |                        | -   Both countries are full members of the East Asia Summit.                                                                                                                         |
 |             |                        |                                                                                                                                                                                      |
-|             |                        | Russian_President_Vladimir_Putin_with_Cambodian_Prime_Minister_Hun_Sen.jpg with President of Russia Vladimir Putin in 2016.]]                                                        |
+|             |                        | with President of Russia Vladimir Putin in 2016.]]                                                                                                                                   |
 +-------------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Singapore   | 10 August 1965         | See Cambodia–Singapore relations                                                                                                                                                     |
 |             |                        |                                                                                                                                                                                      |
@@ -104,7 +104,7 @@ Asia
 |             |                        | -   The Republic of Korea has an embassy in Phnom Penh Kingdom of Cambodia.                                                                                                          |
 |             |                        | -   The Kingdom of Cambodia has an embassy in Seoul Republic of Korea.                                                                                                               |
 |             |                        |                                                                                                                                                                                      |
-|             |                        | President_Lee_and_Cambodia’s_King_Norodom_Sihamoni_(4348149784).jpg granting an audience to President of South Korea Lee Myung-bak in 2009.]]                                        |
+|             |                        | granting an audience to President of South Korea Lee Myung-bak in 2009.]]                                                                                                            |
 +-------------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Thailand    | 1468                   | See Cambodia–Thailand relations                                                                                                                                                      |
 |             |                        |                                                                                                                                                                                      |
@@ -178,7 +178,7 @@ Americas
 |               |                           | -   Barack Obama visited Cambodia in 2012 during an ASEAN Meeting.                                                                    |
 |               |                           | -   Secretary of State Hillary Clinton visited Cambodia in 2012 and met with foreign minister Hor Namhong and Prime Minister Hun Sen. |
 |               |                           |                                                                                                                                       |
-|               |                           | John_Kerry_meets_with_Cambodian_Prime_Minister_Hun_Sen.jpg in 2016.]]                                                                 |
+|               |                           | in 2016.]]                                                                                                                            |
 +---------------+---------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
 | Guyana        | 1973                      | Both countries established diplomatic relations on 5 September 1973.[32]                                                              |
 +---------------+---------------------------+---------------------------------------------------------------------------------------------------------------------------------------+

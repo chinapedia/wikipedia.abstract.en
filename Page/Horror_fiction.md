@@ -1,4 +1,4 @@
-Paul_Gustave_Dore_Raven1.jpg" by Gustave Doré]]
+" by Gustave Doré]]
 
 HORROR is a genre of speculative fiction which is intended to frighten, scare, disgust, or startle its readers by inducing feelings of horror and terror. Literary historian J. A. Cuddon defined the horror story as "a piece of fiction in prose of variable length... which shocks, or even frightens the reader, or perhaps induces a feeling of repulsion or loathing".[1] It creates an eerie and frightening atmosphere. Horror is frequently supernatural, though it can be non-supernatural. Often the central menace of a work of horror fiction can be interpreted as a metaphor for the larger fears of a society.
 
@@ -7,7 +7,7 @@ History
 
 Horror in ancient Greece and Rome
 
-Athenodorus_-_The_Greek_Stoic_Philosopher_Athenodorus_Rents_a_Haunted_House.jpg, c.1900|Athenodorus]]
+, c.1900|Athenodorus]]
 
 The horror genre has ancient origins with roots in folklore and religious traditions, focusing on death, the afterlife, evil, the demonic and the principle of the thing embodied in the person.[2] These were manifested in stories of beings such as witches, vampires, werewolves and ghosts. European horror fiction became established through works by the Ancient Greeks and Ancient Romans. The well-known 19th century novel about Frankenstein was greatly influenced by the story of Hippolytus, where Asclepius revives him from death.[3] Euripides wrote plays based on the story, _Hippolytos Kalyptomenos_ and _Hippolytus_.[4] Plutarch's "The Lives of the Noble Grecians and Romans: _Cimon_ describes the spirit of a murderer, Damon, who himself was murdered in a bathhouse in Chaeronea.[5]
 
@@ -15,19 +15,19 @@ Pliny the Younger tells the tale of Athenodorus Cananites who bought a haunted h
 
 Horror after AD 1000
 
-The earliest recording of an official accusation of Satanism by the Church took place in Toulouse in AD 1022 against a couple of clerics.[7] Werewolf stories were popular in medieval French literature. One of Marie de France's twelve lais is a werewolf story titled "Bisclavret". Vlad_Tepes_coloured_drawing.png The Countess Yolande commissioned a werewolf story titled "Guillaume de Palerme". Anonymous writers penned two werewolf stories, "Biclarel" and "Melion".
+The earliest recording of an official accusation of Satanism by the Church took place in Toulouse in AD 1022 against a couple of clerics.[7] Werewolf stories were popular in medieval French literature. One of Marie de France's twelve lais is a werewolf story titled "Bisclavret". The Countess Yolande commissioned a werewolf story titled "Guillaume de Palerme". Anonymous writers penned two werewolf stories, "Biclarel" and "Melion".
 
 Much horror fiction derives from the cruellest personages of the 15th century. Dracula can be traced to the Prince of Wallachia Vlad III, whose alleged war crimes were published in German pamphlets. A 1499 pamphlet was published by Markus Ayrer, who is most notable for its woodcut imagery.[8] The alleged serial killer spree of Giles de Rais have been seen as the inspiration for "Bluebeard".[9] The motif of the vampiress is most notably derived from the real life noblewoman and murderess, Elizabeth Bathory, and helped usher in the emergence of horror fiction in the 18th century, such as through László Turóczi's 1729 book _Tragica Historia_.[10]
 
 Gothic horror in the 18th century
 
-Horace_Walpole.jpg wrote the first Gothic novel, _The Castle of Otranto_ (1764), initiating a new literary genre.[11]]]
+ wrote the first Gothic novel, _The Castle of Otranto_ (1764), initiating a new literary genre.[11]]]
 
 The 18th century saw the gradual development of Romanticism and the Gothic horror genre. It drew on the written and material heritage of the Late Middle Ages, finding its form with Horace Walpole's seminal and controversial 1764 novel, _The Castle of Otranto_. In fact, the first edition was published disguised as an actual medieval romance from Italy, discovered and republished by a fictitious translator.[12] Once revealed as modern, many found it anachronistic, reactionary, or simply in poor taste — but it proved immediately popular.[13] _Otranto_ inspired _Vathek_ (1786) by William Beckford, _A Sicilian Romance_ (1790), _The Mysteries of Udolpho_ (1794) and _The Italian_ (1796) by Ann Radcliffe and _The Monk_ (1797) by Matthew Lewis.[14] A significant amount of horror fiction of this era was written by women and marketed towards a female audience, a typical scenario of the novels being a resourceful female menaced in a gloomy castle.[15]
 
 Horror in the 19th century
 
-Mary_Wollstonecraft_Shelley_Rothwell.tif by Richard Rothwell (1840–41)]] Edgar_Allan_Poe_2.jpg The Gothic tradition blossomed into the genre that modern readers today call horror literature in the 19th century. Influential works and characters that continue resonating in fiction and film today saw their genesis in the Brothers Grimm's "Hänsel und Gretel" (1812), Mary Shelley's _Frankenstein_ (1818), Washington Irving's _The Legend of Sleepy Hollow_ (1820), Jane C. Loudon's "The Mummy!: Or a Tale of the Twenty-Second Century" (1827), Victor Hugo's _The Hunchback of Notre Dame_ (1831), Thomas Peckett Prest's _Varney the Vampire_ (1847), Nathaniel Hawthorne's _The Scarlet Letter_ (1850), the works of Edgar Allan Poe, the works of Sheridan Le Fanu, Robert Louis Stevenson's _Strange Case of Dr Jekyll and Mr Hyde_ (1886), Oscar Wilde's _The Picture of Dorian Gray_ (1890), H. G. Wells' _The Invisible Man_ (1897), and Bram Stoker's _Dracula_ (1897). Each of these works created an enduring icon of horror seen in later re-imaginings on the page, stage and screen.[16]
+by Richard Rothwell (1840–41)]] The Gothic tradition blossomed into the genre that modern readers today call horror literature in the 19th century. Influential works and characters that continue resonating in fiction and film today saw their genesis in the Brothers Grimm's "Hänsel und Gretel" (1812), Mary Shelley's _Frankenstein_ (1818), Washington Irving's _The Legend of Sleepy Hollow_ (1820), Jane C. Loudon's "The Mummy!: Or a Tale of the Twenty-Second Century" (1827), Victor Hugo's _The Hunchback of Notre Dame_ (1831), Thomas Peckett Prest's _Varney the Vampire_ (1847), Nathaniel Hawthorne's _The Scarlet Letter_ (1850), the works of Edgar Allan Poe, the works of Sheridan Le Fanu, Robert Louis Stevenson's _Strange Case of Dr Jekyll and Mr Hyde_ (1886), Oscar Wilde's _The Picture of Dorian Gray_ (1890), H. G. Wells' _The Invisible Man_ (1897), and Bram Stoker's _Dracula_ (1897). Each of these works created an enduring icon of horror seen in later re-imaginings on the page, stage and screen.[16]
 
 Horror in the 20th century
 
@@ -43,7 +43,7 @@ Early cinema was inspired by many aspects of horror literature, and started a st
 
 The modern zombie tale dealing with the motif of the living dead harks back to works including H.P. Lovecraft's stories "Cool Air" (1925), "In The Vault" (1926), and "The Outsider" (1926), and Dennis Wheatley's "Strange Conflict" (1941). Richard Matheson's novel _I Am Legend_ (1954) influenced an entire genre of apocalyptic zombie fiction emblematized by the films of George A. Romero.
 
-Stephen_King,_Comicon.jpg]] One of the best-known late-20th century horror writers is Stephen King, known for _Carrie_, _The Shining_, _It_, _Misery_ and several dozen other novels and about 200 short stories.[24][25][26] Beginning in the 1970s, King's stories have attracted a large audience, for which he was awarded by the U.S. National Book Foundation in 2003.[27] Other popular horror authors of the period included Anne Rice, Brian Lumley, James Herbert, Dean Koontz, Clive Barker,[28] Ramsey Campbell,[29] and Peter Straub.
+]] One of the best-known late-20th century horror writers is Stephen King, known for _Carrie_, _The Shining_, _It_, _Misery_ and several dozen other novels and about 200 short stories.[24][25][26] Beginning in the 1970s, King's stories have attracted a large audience, for which he was awarded by the U.S. National Book Foundation in 2003.[27] Other popular horror authors of the period included Anne Rice, Brian Lumley, James Herbert, Dean Koontz, Clive Barker,[28] Ramsey Campbell,[29] and Peter Straub.
 
 Post-millennial horror fiction
 
@@ -66,7 +66,7 @@ Stephanie Demetrakopoulos illustrates a common interpretation of one of the benc
 
 It is a now commonly accepted viewpoint that the horror elements of Dracula's portrayal of vampirism are metaphors for sexuality in a repressed Victorian era.[36] But this is merely one of many interpretations of the metaphor of Dracula. Judith Halberstam postulates many of these in her essay _Technologies of Monstrosity: Bram Stoker's Dracula_. She writes:
 
-Punch_Anti-Irish_propaganda_(1882)_Irish_Frankenstein.jpg'': An English editorial cartoonist conceives the Irish Fenian movement as akin to Frankenstein's monster, in the wake of the Phoenix Park killings.
+'': An English editorial cartoonist conceives the Irish Fenian movement as akin to Frankenstein's monster, in the wake of the Phoenix Park killings.
 Menacing villains and monsters in horror literature can often be seen as metaphors for the fears incarnate of a society.]]
 
 Halberstram articulates a view of Dracula as manifesting the growing perception of the aristocracy as an evil and outdated notion to be defeated. The depiction of a multinational band of protagonists using the latest technologies (such as a telegraph) to quickly share, collate, and act upon new information is what leads to the destruction of the Vampire. This is one of many interpretations of the metaphor of only one central figure of the canon of horror fiction, as over a dozen possible metaphors are referenced in the analysis, from the religious to the anti-semitic.[37]

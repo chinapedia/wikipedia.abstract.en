@@ -52,7 +52,7 @@ The rocks of Hertfordshire belong to the great shallow syncline known as the Lon
 
 Natural resources and environment
 
-De_Wint,_Peter,_Cornfields_near_Tring_Station,_Hertfordshire,_1847.jpg, _Cornfields near Tring Station, Hertfordshire_, 1847, Princeton University Art Museum]] Much of the county is given over to agriculture. One product, now largely defunct, was water-cress, based in Hemel Hempstead and Berkhamsted supported by reliable, clean chalk rivers.
+, _Cornfields near Tring Station, Hertfordshire_, 1847, Princeton University Art Museum]] Much of the county is given over to agriculture. One product, now largely defunct, was water-cress, based in Hemel Hempstead and Berkhamsted supported by reliable, clean chalk rivers.
 
 Some quarrying of sand and gravel occurs in the St Albans area. In the past, clay has supplied local brick-making and still does in Bovingdon, just south-west of Hemel Hempstead. The chalk that is the bedrock of much of the county provides an aquifer that feeds streams and is also exploited to provide water supplies for much of the county and beyond. Chalk has also been used as a building material and, once fired, the resultant lime was spread on agricultural land to improve fertility. The mining of chalk since the early 18th century has left unrecorded underground galleries that occasionally collapse unexpectedly and endanger buildings.[11]
 
@@ -67,7 +67,7 @@ In November 2013, the uSwitch Quality of Life Index listed Hertfordshire as the 
 
 Economy
 
-Hatfield_Business_Park.jpg, currently the headquarters of EE.]] This is a table of trends of regional gross value added of Hertfordshire at current basic prices with figures in millions of British Pounds Sterling.[14]
+, currently the headquarters of EE.]] This is a table of trends of regional gross value added of Hertfordshire at current basic prices with figures in millions of British Pounds Sterling.[14]
 
   Year   Regional Gross Value Added   Agriculture   Industry   Services
   ------ ---------------------------- ------------- ---------- ----------
@@ -82,7 +82,7 @@ Sport
 
 Football
 
-Vicarage_Road_2015.jpg As of the 2018-19 season, there are three professional football teams in Hertfordshire: Arsenal W.F.C., Stevenage F.C., and Watford F.C..
+As of the 2018-19 season, there are three professional football teams in Hertfordshire: Arsenal W.F.C., Stevenage F.C., and Watford F.C..
 
 Arsenal W.F.C. play at Meadow Park alongside Conference Premier side Boreham Wood, in Borehamwood, Hertfordshire.[15] The club was formed in 1987 and have played in the FA Women's Super League since its inaugural season in 2011.[16]
 
@@ -107,7 +107,7 @@ Tring Rugby play matches at Cow Lane, Tring.[31] The first XV currently play in 
 
 Landmarks
 
-Ashridge_2007-09-01_035.jpg The_Cathedral_and_Abbey_Church_of_St_Alban.jpg University_of_Hertfordshire_building_1.jpg]] Trees_and_Bluebells,_Dockey_Wood,_Ashridge_-_geograph.org.uk_-_1516118.jpg The_Making_of_Harry_Potter_29-05-2012_(7528994480).jpg
+]]
 
 Below is a list of notable visitor attractions in Hertfordshire:
 
@@ -156,7 +156,7 @@ Main footpaths
 
 Transport
 
-M25-M1_intersection_near_Hemel_Hempstead.jpg and M25 near Hemel Hempstead]] 700110_-_London_Blackfriars_3T13.JPG provide frequent train services through Hertfordshire on the Midland Main Line and East Coast Main Line]] Bridge_168,_Grand_Union_Canal,_Watford_-_geograph.org.uk_-_464942.jpg]] Hertfordshire is a home county with many towns forming part of the London commuter belt and has some of the principal roads in England including the A1, A1(M), A41, A414, M1, M11, and the M25.
+and M25 near Hemel Hempstead]] provide frequent train services through Hertfordshire on the Midland Main Line and East Coast Main Line]] ]] Hertfordshire is a home county with many towns forming part of the London commuter belt and has some of the principal roads in England including the A1, A1(M), A41, A414, M1, M11, and the M25.
 
 Four principal national railway lines pass through the county:
 
@@ -184,7 +184,7 @@ The Grand Union Canal passes through Rickmansworth, Watford, Hemel Hempstead, Be
 
 Education
 
-St_George's_School.jpg]]
+]]
 
 Hertfordshire has 26 independent schools and 73 state secondary schools. The state secondary schools are entirely comprehensive, although 7 schools in the south and southwest of the county are partially selective (see Education in Watford). All state schools have sixth forms, and there are no sixth form colleges. The tertiary colleges, each with multiple campuses, are Hertford Regional College, North Hertfordshire College, Oaklands College and West Herts College. The University of Hertfordshire is a modern university based largely in Hatfield. It has more than 23,000 students.
 

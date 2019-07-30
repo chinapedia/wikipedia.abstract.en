@@ -1,5 +1,3 @@
-CNO_Cycle.svg CNO_cycle.png
-
 The CNO CYCLE (for carbon–nitrogen–oxygen) is one of the two known sets of fusion reactions by which stars convert hydrogen to helium, the other being the proton–proton chain reaction (pp-chain reaction). Unlike the latter, the CNO cycle is a catalytic cycle. It is dominant in stars that are more than 1.3 times as massive as the Sun.[1]
 
 In the CNO cycle, four protons fuse, using carbon, nitrogen, and oxygen isotopes as catalysts, to produce one alpha particle, two positrons and two electron neutrinos. Although there are various paths and catalysts involved in the CNO cycles, all these cycles have the same net result:
@@ -45,7 +43,7 @@ This subdominant branch is significant only for massive stars. The reactions are
 
 CNO-IV
 
-NuclearReaction.svg Like the CNO-III, this branch is also only significant in massive stars. The reactions are started when one of the reactions in CNO-III results in fluorine-19 and gamma instead of nitrogen-15 and alpha, and continues →→→→→→:
+Like the CNO-III, this branch is also only significant in massive stars. The reactions are started when one of the reactions in CNO-III results in fluorine-19 and gamma instead of nitrogen-15 and alpha, and continues →→→→→→:
 
     {| border="0"
 

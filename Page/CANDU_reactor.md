@@ -1,4 +1,4 @@
-CANDU_at_Qinshan.jpg Phase III units 1 and 2, located in Zhejiang China (30.436° N 120.958° E): Two CANDU 6 reactors, designed by Atomic Energy of Canada Limited (AECL), owned and operated by the Third Qinshan Nuclear Power Company Limited. Note that the installation is essentially two separate plants, inherent to the CANDU6 design.]]
+Phase III units 1 and 2, located in Zhejiang China (30.436° N 120.958° E): Two CANDU 6 reactors, designed by Atomic Energy of Canada Limited (AECL), owned and operated by the Third Qinshan Nuclear Power Company Limited. Note that the installation is essentially two separate plants, inherent to the CANDU6 design.]]
 
 The CANDU (CANADA DEUTERIUM URANIUM) is a Canadian pressurized heavy-water reactor design used to generate electric power. The acronym refers to its deuterium oxide (heavy water) moderator and its use of (originally, natural) uranium fuel. CANDU reactors were first developed in the late 1950s and 1960s by a partnership between Atomic Energy of Canada Limited (AECL), the Hydro-Electric Power Commission of Ontario, Canadian General Electric, and other companies.
 
@@ -9,7 +9,7 @@ By the early 2000s, sales prospects for the original CANDU designs were dwindlin
 
 Design and operation
 
-CANDU_Reactor_Schematic.svgs are known). ]]
+s are known). ]]
 
 The basic operation of the CANDU design is similar to other nuclear reactors. Fission reactions in the reactor core heat pressurized water in a _primary cooling loop_. A heat exchanger, also known as a steam generator, transfers the heat to a _secondary cooling loop_, which powers a steam turbine with an electric generator attached to it (for a typical Rankine thermodynamic cycle). The exhaust steam from the turbines is then cooled, condensed and returned as feedwater to the steam generator. The final cooling often uses cooling water from a nearby source, such as a lake, river, or ocean. Newer CANDU plants, such as the Darlington Nuclear Generating Station near Toronto, Ontario, use a diffuser to spread the warm outlet water over a larger volume and limit the effects on the environment. Although all CANDU plants to date have used open-cycle cooling, modern CANDU designs are capable of using cooling towers instead.[1]
 
@@ -29,7 +29,7 @@ Each fuel bundle is a cylinder assembled from thin tubes filled with ceramic pel
 
 Purpose of using heavy water
 
-CANDU_fuel_bundles.jpg Bruce-Nuclear-Szmurlo.jpg, operating eight CANDU reactors, is the largest nuclear power plant in the world by net operating capacity]]
+, operating eight CANDU reactors, is the largest nuclear power plant in the world by net operating capacity]]
 
 Natural uranium is a mix of isotopes, mainly uranium-238, with 0.72% fissile uranium-235 by weight. A reactor aims for a steady rate of fission over time, where the neutrons released by fission cause an equal number of fissions in other fissile atoms. This balance is referred to as _criticality_. The neutrons released in these reactions are fairly energetic and don't readily react with (get "captured" by) the surrounding fissile material. In order to improve this rate, they must have their energy _moderated_, ideally to the same energy as the fuel atoms themselves. As these neutrons are in thermal equilibrium with the fuel, they are referred to as _thermal neutrons_.
 
@@ -62,8 +62,6 @@ There are two independent, fast-acting safety shutdown systems as well. Shutoff 
 
 
 Fuel cycle
-
-CANDU_fuel_cycles.jpg
 
 A heavy-water design can sustain a chain reaction with a lower concentration of fissile atoms than light-water reactors, allowing it to use some alternative fuels; for example, "recovered uranium" (RU) from used LWR fuel. CANDU was designed for natural uranium with only 0.7% ²³⁵U, so RU with 0.9% ²³⁵U is a rich fuel. This extracts a further 30–40% energy from the uranium. The DUPIC (_Direct Use of spent PWR fuel In CANDU_) process under development can recycle it even without reprocessing. The fuel is sintered in air (oxidized), then in hydrogen (reduced) to break it into a powder, which is then formed into CANDU fuel pellets. CANDU can also breed fuel from the more abundant thorium. This is being investigated by India to take advantage of its natural thorium reserves.[8]
 
@@ -111,7 +109,7 @@ The first heavy-water-moderated design in Canada was the ZEEP, which started ope
 
 The second CANDU was the Douglas Point reactor, a more powerful version rated at roughly 200 MW^(e) and located near Kincardine, Ontario. It went into service in 1968 and ran until 1984. Uniquely among CANDU stations, Douglas Point had an oil-filled window with a view of the east reactor face, even when the reactor was operating. Douglas Point was originally planned to be a two-unit station, but the second unit was cancelled because of the success of the larger 515 MW^(e) units at Pickering.[39][40]
 
-Centrale_nucléaire_Gentilly.jpg Gentilly-1, in Bécancour, Quebec near Trois-Rivières, Quebec, was also an experimental version of CANDU, using a boiling light-water coolant and vertical pressure tubes, but was not considered successful and closed after seven years of fitful operation.[41] Gentilly-2, a CANDU-6 reactor, has been operating since 1983. Following statements from the in-coming Parti Québécois government in September 2012 that Gentilly would close, the operator, Hydro-Québec, has decided to cancel a previously announced refurbishment of the plant and announced its shutdown at the end of 2012, citing economic reasons for the decision. The company will then undertake a 50-year decommissioning process estimated to cost $1.8 billion.[42]
+Gentilly-1, in Bécancour, Quebec near Trois-Rivières, Quebec, was also an experimental version of CANDU, using a boiling light-water coolant and vertical pressure tubes, but was not considered successful and closed after seven years of fitful operation.[41] Gentilly-2, a CANDU-6 reactor, has been operating since 1983. Following statements from the in-coming Parti Québécois government in September 2012 that Gentilly would close, the operator, Hydro-Québec, has decided to cancel a previously announced refurbishment of the plant and announced its shutdown at the end of 2012, citing economic reasons for the decision. The company will then undertake a 50-year decommissioning process estimated to cost $1.8 billion.[42]
 
 In parallel with the classic CANDU design, experimental variants were being developed. WR-1, located at the AECL's Whiteshell Laboratories in Pinawa, Manitoba, used vertical pressure tubes and organic oil as the primary coolant. The oil used has a higher boiling point than water, allowing the reactor to operate at higher temperatures and lower pressures than a conventional reactor. WR-1's outlet temperature was about 490 °C compared to the CANDU 6's nominal 310 °C, which means that , resulting in a smaller and less expensive core. The higher temperatures also result in more efficient conversion to steam, and ultimately, electricity. WR-1 operated successfully for many years and promised a significantly higher efficiency than water-cooled versions.[43][44]
 

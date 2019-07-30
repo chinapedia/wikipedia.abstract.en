@@ -1,4 +1,4 @@
-Aardwolf_Skeleton.jpg.]] The AARDWOLF (_Proteles cristata_) is an insectivorous mammal, native to East and Southern Africa. Its name means "earth-wolf" in Afrikaans and Dutch.[1][2] It is also called "maanhaar-jackal"[3][4] (Afrikaans for "mane-jackal"), "ant hyena" or _civet hyena_, based on its habit of secreting substances from its anal gland, a characteristic shared with the African civet.[5] The aardwolf is in the same family as the hyena. Unlike many of its relatives in the order Carnivora, the aardwolf does not hunt large animals. It eats insects and their larvae,[6] mainly termites; one aardwolf can lap up as many as 250,000 termites during a single night using its long, sticky tongue.[7]
+.]] The AARDWOLF (_Proteles cristata_) is an insectivorous mammal, native to East and Southern Africa. Its name means "earth-wolf" in Afrikaans and Dutch.[1][2] It is also called "maanhaar-jackal"[3][4] (Afrikaans for "mane-jackal"), "ant hyena" or _civet hyena_, based on its habit of secreting substances from its anal gland, a characteristic shared with the African civet.[5] The aardwolf is in the same family as the hyena. Unlike many of its relatives in the order Carnivora, the aardwolf does not hunt large animals. It eats insects and their larvae,[6] mainly termites; one aardwolf can lap up as many as 250,000 termites during a single night using its long, sticky tongue.[7]
 
 The aardwolf lives in the shrublands of eastern and southern Africa – open lands covered with stunted trees and shrubs. It is nocturnal, resting in burrows during the day and emerging at night to seek food.
 
@@ -17,11 +17,11 @@ The generic name _proteles_ comes from two words both of Greek origin, _protos_ 
 
 Physical characteristics
 
-Aardwolf02.jpg]] The aardwolf resembles a very thin striped hyena, but with a more slender muzzle, black vertical stripes on a coat of yellowish fur, and a long, distinct mane down the midline of the neck and back. It also has one or two diagonal stripes down the fore- and hind-quarters, along with several stripes on its legs.[15] The mane is raised during confrontations to make the aardwolf appear larger. It is missing the throat spot that others in the family have.[16] Its lower leg (from the knee down) is all black, and its tail is bushy with a black tip.[17]
+]] The aardwolf resembles a very thin striped hyena, but with a more slender muzzle, black vertical stripes on a coat of yellowish fur, and a long, distinct mane down the midline of the neck and back. It also has one or two diagonal stripes down the fore- and hind-quarters, along with several stripes on its legs.[15] The mane is raised during confrontations to make the aardwolf appear larger. It is missing the throat spot that others in the family have.[16] Its lower leg (from the knee down) is all black, and its tail is bushy with a black tip.[17]
 
 The aardwolf is about long, excluding its bushy tail, which is about long,[18][19] and stands about tall at the shoulders.[20] An adult aardwolf weighs approximately , sometimes reaching .[21] The aardwolves in the south of the continent tend to be smaller (about )than the eastern version (around ).[22] The front feet have five toes each, unlike the four-toed hyena.[23][24] The teeth and skull are similar to those of other hyenas, though smaller,[25] and its cheek teeth are specialised for eating insects.[26] It does still have canines, but, unlike other hyenas, these teeth are used primarily for fighting and defense.[27] Its ears, which are large,[28] are very similar to those of the striped hyena.[29]
 
-As an aardwolf ages, it will normally lose some of its teeth, though this has little impact on its feeding habits due to the softness of the insects that it eats.[30] Aardwolf_Skull.JPG]]
+As an aardwolf ages, it will normally lose some of its teeth, though this has little impact on its feeding habits due to the softness of the insects that it eats.[30] ]]
 
 
 Distribution and habitat
@@ -35,7 +35,7 @@ An adult pair, along with their most-recent offspring, occupies a territory of .
 
 Behavior
 
-Aardwolf.jpg]] Aardwolves are shy and nocturnal, sleeping in underground burrows by day.[34] They will, on occasion during the winter, become diurnal feeders. This happens during the coldest periods as they then stay in at night to conserve heat.[35]
+]] Aardwolves are shy and nocturnal, sleeping in underground burrows by day.[34] They will, on occasion during the winter, become diurnal feeders. This happens during the coldest periods as they then stay in at night to conserve heat.[35]
 
 They have often been mistaken for solitary animals. In fact, they live as monogamous pairs with their young.[36][37] If their territory is infringed upon, they will chase the intruder up to or to the border.[38] If the intruder is caught, which rarely happens,[39] a fight will occur, which is accompanied by soft clucking,[40] hoarse barking, and a type of roar.[41] The majority of incursions occur during mating season, when they can occur once or twice per week.[42] When food is scarce, the stringent territorial system may be abandoned and as many as three pairs may occupy a "single territory".[43]
 
@@ -68,8 +68,6 @@ The aardwolf has not seen decreasing numbers and they are relatively widespread 
 Interaction with humans
 
 Aardwolves are common sights at zoos. Frankfurt Zoo in Germany was home to the oldest recorded aardwolf in captivity at 18 years and 11 months.[95]
-
-Aardwolf.png
 
 
 Notes

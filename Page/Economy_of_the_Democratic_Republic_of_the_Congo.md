@@ -20,11 +20,9 @@ The conflicts in the DRC were over water, minerals, and other resources. Politic
 
 Economic history
 
-Democratic_Republic_of_the_Congo_GDP_evolution-fr.svg
-
 After Leopold
 
-Forced labor was important for the rural sector. The corporations that dominated the economy were mostly owned by Belgium, but British capital also played an important role. The 1950s were a period of rising income and expectations. Congo was said to have the best public health system in Africa, but there was also a huge wealth disparity. Belgian companies favored workers in certain areas more and exported them to work in different areas, restricting opportunities for others. Favored groups also received better education and were able to secure jobs for people in the same ethnic group which increased tensions. In 1960 there were only 16 university graduates out of a population of 20 million. Belgium still had economic power and independence gave little opportunity for improvement. Common refrains included "no elite, no trouble" and "before independence = after independence". When the Belgians left, most of the government officials and educated residents left with them. Before independence there were just 3 out of 5000 government jobs held by Congolese people.[8] The resulting loss of institutional knowledge and human capital crippled the government.2006Congo(Zaire)_exports.PNG
+Forced labor was important for the rural sector. The corporations that dominated the economy were mostly owned by Belgium, but British capital also played an important role. The 1950s were a period of rising income and expectations. Congo was said to have the best public health system in Africa, but there was also a huge wealth disparity. Belgian companies favored workers in certain areas more and exported them to work in different areas, restricting opportunities for others. Favored groups also received better education and were able to secure jobs for people in the same ethnic group which increased tensions. In 1960 there were only 16 university graduates out of a population of 20 million. Belgium still had economic power and independence gave little opportunity for improvement. Common refrains included "no elite, no trouble" and "before independence = after independence". When the Belgians left, most of the government officials and educated residents left with them. Before independence there were just 3 out of 5000 government jobs held by Congolese people.[8] The resulting loss of institutional knowledge and human capital crippled the government.
 
 Zaire
 
@@ -94,7 +92,7 @@ Roundwood removals were estimated at 72,170,000 m² in 2003, about 95 percent fo
 
 Mining
 
-Tree_map_exports_2009_DRCongo.jpeg Rich in minerals, the DRC has a difficult history of predatory mineral extraction, which has been at the heart of many struggles within the country for many decades, but particularly in the 1990s. Although the economy of the Democratic Republic of the Congo, the second largest country in Africa who has historically relied heavily on mining, is no longer reflected in the GDP data as the mining industry has suffered from long-term "uncertain legal framework, corruption, and a lack of transparency in government policy." The informal sector .[21]
+Rich in minerals, the DRC has a difficult history of predatory mineral extraction, which has been at the heart of many struggles within the country for many decades, but particularly in the 1990s. Although the economy of the Democratic Republic of the Congo, the second largest country in Africa who has historically relied heavily on mining, is no longer reflected in the GDP data as the mining industry has suffered from long-term "uncertain legal framework, corruption, and a lack of transparency in government policy." The informal sector .[21]
 
 In her book entitled _The Real Economy of Zaire_, MacGaffey described a second, often illegal economy, "system D," which is outside the official economy (MacGaffey 1991:27).[22] and therefore is not reflected in the GDP.
 
@@ -113,7 +111,7 @@ Much economic activity occurs in the informal sector and is not reflected in GDP
 
 Transport
 
-First_train_in_Kindu,_DRC.jpg arriving in Kindu on a newly refurbished line.]]
+arriving in Kindu on a newly refurbished line.]]
 
 Ground transport in the Democratic Republic of Congo has always been difficult. The terrain and climate of the Congo Basin present serious barriers to road and rail construction, and the distances are enormous across this vast country. Furthermore, chronic economic mismanagement and internal conflict has led to serious under-investment over many years.
 

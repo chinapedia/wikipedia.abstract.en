@@ -1,4 +1,4 @@
-Odin_and_Fenris.jpg _' Fenrir_' (Old Norse: "fen-dweller")[1] or FENRISÚLFR (Old Norse: "Fenrir's wolf", often translated "Fenris-wolf"),[2] also referred to as HRÓÐVITNIR ("fame-wolf")[3] and VÁNAGANDR ("monster of the [River] Ván"),[4] or VANARGAND, is a monstrous wolf in Norse mythology. Fenrir is attested in the _Poetic Edda_, compiled in the 13th century from earlier traditional sources, and the _Prose Edda_ and _Heimskringla_, written in the 13th century by Snorri Sturluson. In both the _Poetic Edda_ and _Prose Edda_, Fenrir is the father of the wolves Sköll and Hati Hróðvitnisson, is a son of Loki, and is foretold to kill the god Odin during the events of Ragnarök, but will in turn be killed by Odin's son Víðarr.
+_' Fenrir_' (Old Norse: "fen-dweller")[1] or FENRISÚLFR (Old Norse: "Fenrir's wolf", often translated "Fenris-wolf"),[2] also referred to as HRÓÐVITNIR ("fame-wolf")[3] and VÁNAGANDR ("monster of the [River] Ván"),[4] or VANARGAND, is a monstrous wolf in Norse mythology. Fenrir is attested in the _Poetic Edda_, compiled in the 13th century from earlier traditional sources, and the _Prose Edda_ and _Heimskringla_, written in the 13th century by Snorri Sturluson. In both the _Poetic Edda_ and _Prose Edda_, Fenrir is the father of the wolves Sköll and Hati Hróðvitnisson, is a son of Loki, and is foretold to kill the god Odin during the events of Ragnarök, but will in turn be killed by Odin's son Víðarr.
 
 In the _Prose Edda_, additional information is given about Fenrir, including that, due to the gods' knowledge of prophecies foretelling great trouble from Fenrir and his rapid growth, the gods bound him, and as a result Fenrir bit off the right hand of the god Týr. Depictions of Fenrir have been identified on various objects, and scholarly theories have been proposed regarding Fenrir's relation to other canine beings in Norse mythology. Fenrir has been the subject of artistic depictions, and he appears in literature.
 
@@ -7,7 +7,7 @@ Attestations
 
 _Poetic Edda_
 
-Fenrir_and_Odin_by_Frølich.jpg]] Vidar_by_Collingwood.jpg, inspired by the Gosforth Cross]] Fenrir is mentioned in three stanzas of the poem _Völuspá_ and in two stanzas of the poem _Vafþrúðnismál_. In stanza 40 of the poem _Völuspá_, a völva divulges to Odin that, in the east, an old woman sat in the forest Járnviðr "and bred there the broods of Fenrir. There will come from them all one of that number to be a moon-snatcher in troll's skin."[5] Further into the poem the völva foretells that Odin will be consumed by Fenrir at Ragnarök:
+]] , inspired by the Gosforth Cross]] Fenrir is mentioned in three stanzas of the poem _Völuspá_ and in two stanzas of the poem _Vafþrúðnismál_. In stanza 40 of the poem _Völuspá_, a völva divulges to Odin that, in the east, an old woman sat in the forest Járnviðr "and bred there the broods of Fenrir. There will come from them all one of that number to be a moon-snatcher in troll's skin."[5] Further into the poem the völva foretells that Odin will be consumed by Fenrir at Ragnarök:
 
       Then is fulfilled Hlín's
       second sorrow,
@@ -31,7 +31,7 @@ In the stanza that follows Vafþrúðnir responds that Sól (here referred to as
 
 _Prose Edda_
 
-Lokis_Gezücht.jpg Loki's_children_by_Frølich.jpg Tyr_and_Fenrir-John_Bauer.jpg]] In the _Prose Edda_, Fenrir is mentioned in three books: _Gylfaginning_, _Skáldskaparmál_ and _Háttatal_.
+]] In the _Prose Edda_, Fenrir is mentioned in three books: _Gylfaginning_, _Skáldskaparmál_ and _Háttatal_.
 
 _Gylfaginning_ chapters 13 and 25
 
@@ -45,7 +45,7 @@ High says that Odin sent the gods to gather the children and bring them to him. 
 
 When the Æsir exclaimed that they were ready, Fenrir shook himself, knocked the fetter to the ground, strained hard, and kicking with his feet, snapped the fetter – breaking it into pieces that flew far into the distance. High says that, as a result, to "loose from Leyding" or to "strike out of Dromi" have become sayings for when something is achieved with great effort. The Æsir started to fear that they would not be able to bind Fenrir, and so Odin sent Freyr's messenger Skírnir down into the land of Svartálfaheimr to "some dwarfs" and had them make a fetter called Gleipnir. The dwarves constructed Gleipnir from six mythical ingredients. After an exchange between Gangleri and High, High continues that the fetter was smooth and soft as a silken ribbon, yet strong and firm. The messenger brought the ribbon to the Æsir, and they thanked him heartily for completing the task.[12]
 
-The Æsir went out on to the lake Amsvartnir sent for Fenrir to accompany them, and continued to the island Lyngvi (Old Norse "a place overgrown with heather").[13] The gods showed Fenrir the silken fetter Gleipnir, told him to tear it, stated that it was much stronger than it appeared, passed it among themselves, used their hands to pull it, and yet it did not tear. However, they said that Fenrir would be able to tear it, to which Fenrir replied: The_binding_of_Fenrir_by_George_Wright.jpg]]
+The Æsir went out on to the lake Amsvartnir sent for Fenrir to accompany them, and continued to the island Lyngvi (Old Norse "a place overgrown with heather").[13] The gods showed Fenrir the silken fetter Gleipnir, told him to tear it, stated that it was much stronger than it appeared, passed it among themselves, used their hands to pull it, and yet it did not tear. However, they said that Fenrir would be able to tear it, to which Fenrir replied: ]]
 
   "It looks to me that with this ribbon as though I will gain no fame from it if I do tear apart such a slender band, but if it is made with art and trickery, then even if it does look thin, this band is not going on my legs."[14]
 
@@ -53,13 +53,11 @@ The Æsir said Fenrir would quickly tear apart a thin silken strip, noting that 
 
   "If you bind me so that I am unable to release myself, then you will be standing by in such a way that I should have to wait a long time before I got any help from you. I am reluctant to have this band put on me. But rather than that you question my courage, let someone put his hand in my mouth as a pledge that this is done in good faith."[15]
 
-With this statement, all of the Æsir look to one another, finding themselves in a dilemma. Everyone refused to place their hand in Fenrir's mouth until Týr put out his right hand and placed it into the wolf's jaws. When Fenrir kicked, Gleipnir caught tightly, and the more Fenrir struggled, the stronger the band grew. At this, everyone laughed, except Týr, who there lost his right hand. When the gods knew that Fenrir was fully bound, they took a cord called Gelgja (Old Norse "fetter")[16] hanging from Gleipnir, inserted the cord through a large stone slab called Gjöll (Old Norse "scream"),[17] and the gods fastened the stone slab deep into the ground. After, the gods took a great rock called Thviti (Old Norse "hitter, batterer"),[18] and thrust it even further into the ground as an anchoring peg. Fenrir reacted violently; he opened his jaws very wide, and tried to bite the gods. Then the gods thrust a sword into his mouth. Its hilt touched the lower jaw and its point the upper one; by means of it the jaws of the wolf were spread apart and the wolf gagged. Fenrir "howled horribly," saliva ran from his mouth, and this saliva formed the river Ván (Old Norse "hope").[19] There Fenrir will lie until Ragnarök. Gangleri comments that Loki created a "pretty terrible family" though important, and asks why the Æsir did not just kill Fenrir there since they expected great malice from him. High replies that "so greatly did the gods respect their holy places and places of sanctuary that they did not want to defile them with the wolf's blood even though the prophecies say that he will be the death of Odin."[20] Odin_und_Fenriswolf_Freyr_und_Surt.jpg and Surt" (1905) by Emil Doepler]]
+With this statement, all of the Æsir look to one another, finding themselves in a dilemma. Everyone refused to place their hand in Fenrir's mouth until Týr put out his right hand and placed it into the wolf's jaws. When Fenrir kicked, Gleipnir caught tightly, and the more Fenrir struggled, the stronger the band grew. At this, everyone laughed, except Týr, who there lost his right hand. When the gods knew that Fenrir was fully bound, they took a cord called Gelgja (Old Norse "fetter")[16] hanging from Gleipnir, inserted the cord through a large stone slab called Gjöll (Old Norse "scream"),[17] and the gods fastened the stone slab deep into the ground. After, the gods took a great rock called Thviti (Old Norse "hitter, batterer"),[18] and thrust it even further into the ground as an anchoring peg. Fenrir reacted violently; he opened his jaws very wide, and tried to bite the gods. Then the gods thrust a sword into his mouth. Its hilt touched the lower jaw and its point the upper one; by means of it the jaws of the wolf were spread apart and the wolf gagged. Fenrir "howled horribly," saliva ran from his mouth, and this saliva formed the river Ván (Old Norse "hope").[19] There Fenrir will lie until Ragnarök. Gangleri comments that Loki created a "pretty terrible family" though important, and asks why the Æsir did not just kill Fenrir there since they expected great malice from him. High replies that "so greatly did the gods respect their holy places and places of sanctuary that they did not want to defile them with the wolf's blood even though the prophecies say that he will be the death of Odin."[20] and Surt" (1905) by Emil Doepler]]
 
 _Gylfaginning_ chapters 38 and 51
 
 In chapter 38, High says that there are many men in Valhalla, and many more who will arrive, yet they will "seem too few when the wolf comes."[21] In chapter 51, High foretells that as part of the events of Ragnarök, after Fenrir's son Sköll has swallowed the sun and his other son Hati Hróðvitnisson has swallowed the moon, the stars will disappear from the sky. The earth will shake violently, trees will be uprooted, mountains will fall, and all binds will snap – Fenrisúlfr will be free. Fenrisúlfr will go forth with his mouth opened wide, his upper jaw touching the sky and his lower jaw the earth, and flames will burn from his eyes and nostrils.[22] Later, Fenrisúlfr will arrive at the field Vígríðr with his sibling Jörmungandr. With the forces assembled there, an immense battle will take place. During this, Odin will ride to fight Fenrisúlfr. During the battle, Fenrisúlfr will eventually swallow Odin, killing him, and Odin's son Víðarr will move forward and kick one foot into the lower jaw of the wolf. This foot will bear a legendary shoe "for which the material has been collected throughout all time." With one hand, Víðarr will take hold of the wolf's upper jaw and tear apart his mouth, killing Fenrisúlfr.[23] High follows this prose description by citing various quotes from _Völuspá_ in support, some of which mention Fenrir.[24]
-
-Fenrir_(Manual_of_Mythology).jpg
 
 _Skáldskaparmál_ and _Háttatal_
 
@@ -67,7 +65,7 @@ In the Epilogue section of the _Prose Edda_ book _Skáldskaparmál_, a euhemeriz
 
 _Heimskringla_
 
-Fenrir_bound_manuscript_image.jpg At the end of the _Heimskringla_ saga _Hákonar saga góða_, the poem _Hákonarmál_ by the 10th century skald Eyvindr skáldaspillir is presented. The poem is about the fall of King Haakon I of Norway; although he is Christian, he is taken by two valkyries to Valhalla, and is there received as one of the Einherjar. Towards the end of the poem, a stanza relates sooner will the bonds of Fenrir snap than as good a king as Haakon shall stand in his place:
+At the end of the _Heimskringla_ saga _Hákonar saga góða_, the poem _Hákonarmál_ by the 10th century skald Eyvindr skáldaspillir is presented. The poem is about the fall of King Haakon I of Norway; although he is Christian, he is taken by two valkyries to Valhalla, and is there received as one of the Einherjar. Towards the end of the poem, a stanza relates sooner will the bonds of Fenrir snap than as good a king as Haakon shall stand in his place:
 
       Unfettered will fare the Fenris Wolf
       and ravaged the realm of men,
@@ -76,8 +74,6 @@ Fenrir_bound_manuscript_image.jpg At the end of the _Heimskringla_ saga _Hákona
 
 
 Archaeological record
-
-Br_Olsen;185A,_Andreas.jpg Ledbergsstenen_2.jpg
 
 Thorwald's Cross
 
@@ -102,7 +98,7 @@ Scholars propose that a variety of objects from the archaeological record depict
 
 Theories
 
-Treated_NKS_fenrir.jpg In reference to Fenrir's presentation in the _Prose Edda_, Andy Orchard theorizes that "the hound (or wolf)" Garmr, Sköll, and Hati Hróðvitnisson were originally simply all Fenrir, stating that "Snorri, characteristically, is careful to make distinctions, naming the wolves who devour the sun and moon as Sköll and Hati Hróðvitnisson respectively, and describing an encounter between Garm and Týr (who, one would have thought, might like to get his hand on Fenrir) at Ragnarök."[51]
+In reference to Fenrir's presentation in the _Prose Edda_, Andy Orchard theorizes that "the hound (or wolf)" Garmr, Sköll, and Hati Hróðvitnisson were originally simply all Fenrir, stating that "Snorri, characteristically, is careful to make distinctions, naming the wolves who devour the sun and moon as Sköll and Hati Hróðvitnisson respectively, and describing an encounter between Garm and Týr (who, one would have thought, might like to get his hand on Fenrir) at Ragnarök."[51]
 
 John Lindow says that it is unclear why the gods decide to raise Fenrir as opposed to his siblings Hel and Jörmungandr in _Gylfaginning_ chapter 35, theorizing that it may be "because Odin had a connection with wolves? Because Loki was Odin's blood brother?" Referring to the same chapter, Lindow comments that neither of the phrases that Fenrir's binding result in have left any other traces. Lindow compares Fenrir's role to his father Loki and Fenrir's sibling Jörmungandr, in that they all spend time with the gods, are bound or cast out by them, return "at the end of the current mythic order to destroy them, only to be destroyed himself as a younger generation of gods, one of them his slayer, survives into the new world order."[52] He also points to Fenrir's binding as part of a recurring theme of the bound monster, where an enemy of the gods is bound, but destined to break free at Ragnarok.[53]
 

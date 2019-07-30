@@ -9,7 +9,7 @@ Honey use and production have a long and varied history as an ancient activity. 
 
 Formation
 
-Bee_on_-calyx_935.jpg on calyx of goldenrod with its proboscis extended]] Thermal_Image_of_a_Honey_Bee_and_a_fly_on_a_Dandelion.jpg: The bee emits a large amount of body heat, especially where the wings attach.]]
+on calyx of goldenrod with its proboscis extended]] : The bee emits a large amount of body heat, especially where the wings attach.]]
 
 Honey is produced by bees collecting nectar for use as sugars consumed to support metabolism of muscle activity during foraging or to be stored as a long-term food supply.[14][15] During foraging, bees access part of the nectar collected to support metabolic activity of flight muscles, with the majority of collected nectar destined for regurgitation, digestion, and storage as honey.[16][17] In cold weather or when other food sources are scarce, adult and larval bees use stored honey as food.[18]
 
@@ -31,8 +31,6 @@ Some wasps, such as _Polistes versicolor_, even consume honey themselves, altern
 Production
 
 Collection
-
-Sealed_Honey_in_frame.JPG Extractor_Beekeeping.jpg Filtering_of_honey.jpg
 
 Honey is collected from wild bee colonies or from domesticated beehives. On average, a hive will produce about of honey per year.[38] Wild bee nests are sometimes located by following a honeyguide bird.
 
@@ -102,8 +100,6 @@ Mead varieties include drinks called metheglin (with spices or herbs), melomel (
 
 Physical and chemical properties
 
-Crystallized_honey_with_close-up.jpg
-
 The physical properties of honey vary, depending on water content, the type of flora used to produce it (pasturage), temperature, and the proportion of the specific sugars it contains. Fresh honey is a supersaturated liquid, containing more sugar than the water can typically dissolve at ambient temperatures. At room temperature, honey is a supercooled liquid, in which the glucose will precipitate into solid granules. This forms a semisolid solution of precipitated glucose crystals in a solution of fructose and other ingredients.
 
 At the temperature of 20 °C, density of honey typically ranges between 1.38 and 1.45 kg/l.[71]
@@ -117,8 +113,6 @@ Crystallization is also affected by water content, because a high percentage of 
 Since honey normally exists below its melting point, it is a supercooled liquid. At very low temperatures, honey does not freeze solid. Instead, as the temperatures become lower, the viscosity of honey increases. Like most viscous liquids, the honey becomes thick and sluggish with decreasing temperature. At , honey may appear or even feel solid, but it continues to flow at very low rates. Honey has a glass transition between . Below this temperature, honey enters a glassy state and becomes an amorphous solid (noncrystalline).[75][76]
 
 Rheology
-
-Honey-miel.jpg
 
 The viscosity of honey is affected greatly by both temperature and water content. The higher the water percentage, the more easily honey flows. Above its melting point, however, water has little effect on viscosity. Aside from water content, the composition of honey also has little effect on viscosity, with the exception of a few types. At , honey with 14% water content generally has a viscosity around 400 poise, while a honey containing 20% water has a viscosity around 20 poise. Viscosity increase due to cooling occurs very slowly at first. A honey containing 16% water, at , has a viscosity around 2 poise, while at , the viscosity is around 70 poise. As cooling progresses, honey becomes more viscous at an increasingly rapid rate, reaching 600 poise around .[77][78] However, while honey is very viscous, it has rather low surface tension of 50–60 mJ/m², thus the wettability of honey is on the same order as water, glycerin, or most other liquids.[79] The high viscosity and wettability of honey lead to the phenomenon of stickiness, which is a time-dependent process in supercooled liquids between the glass-transition temperature (T_(g)) and the crystalline-melting temperature.[80]
 
@@ -137,8 +131,6 @@ Honey has the ability to absorb moisture directly from the air, a phenomenon cal
 Fermentation of honey usually occurs after crystallization, because without the glucose, the liquid portion of the honey primarily consists of a concentrated mixture of fructose, acids, and water, providing the yeast with enough of an increase in the water percentage for growth. Honey that is to be stored at room temperature for long periods of time is often pasteurized, to kill any yeast, by heating it above .[87]
 
 Thermal characteristics
-
-Creamed_honey_Maillard_reaction_after_aging.jpg
 
 Like all sugar compounds, honey caramelizes if heated sufficiently, becoming darker in color, and eventually burns. However, honey contains fructose, which caramelizes at lower temperatures than glucose.[88] The temperature at which caramelization begins varies, depending on the composition, but is typically between . Honey also contains acids, which act as catalysts for caramelization. The specific types of acids and their amounts play a primary role in determining the exact temperature.[89] Of these acids, the amino acids, which occur in very small amounts, play an important role in the darkening of honey. The amino acids form darkened compounds called melanoidins, during a Maillard reaction. The Maillard reaction occurs slowly at room temperature, taking from a few to several months to show visible darkening, but speeds up dramatically with increasing temperatures. However, the reaction can also be slowed by storing the honey at colder temperatures.[90]
 
@@ -285,7 +277,7 @@ Infantile botulism shows geographical variation. In the UK, only six cases have 
 
 Toxic honey
 
-Honey_bee_collecting_nectar_from_toxic_monkshood.png (_Aconitum delphinifolium_, or "wolf's bane"), an extremely toxic plant: The flowers are shaped in such a way that the bee must fit its entire body into the flower to reach the nectar.]]
+(_Aconitum delphinifolium_, or "wolf's bane"), an extremely toxic plant: The flowers are shaped in such a way that the bee must fit its entire body into the flower to reach the nectar.]]
 
 Mad honey intoxication is a result of eating honey containing grayanotoxins.[180] Honey produced from flowers of rhododendrons, mountain laurels, sheep laurel, and azaleas may cause honey intoxication. Symptoms include dizziness, weakness, excessive perspiration, nausea, and vomiting. Less commonly, low blood pressure, shock, heart rhythm irregularities, and convulsions may occur, with rare cases resulting in death. Honey intoxication is more likely when using "natural" unprocessed honey and honey from farmers who may have a small number of hives. Commercial processing, with pooling of honey from numerous sources, is thought to dilute any toxins.[181]
 
@@ -298,7 +290,7 @@ Honey use and production has a long and varied history.[185] In many cultures, h
 
 Ancient times
 
-Cueva_arana.jpg in Spain]]
+in Spain]]
 
 Honey collection is an ancient activity.[187] Humans apparently began hunting for honey at least 8,000 years ago, as evidenced by a cave painting in Valencia, Spain.[188] The painting is a Mesolithic rock painting, showing two honey hunters collecting honey and honeycomb from a wild bee nest. The figures are depicted carrying baskets or gourds, and using a ladder or series of ropes to reach the wild nest.
 

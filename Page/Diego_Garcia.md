@@ -21,7 +21,7 @@ History
 
 Before European discovery
 
-DG_Ariel_Plantation.jpg (former main settlement)]]
+(former main settlement)]]
 
 According to Southern Maldivian oral tradition, traders and fishermen were occasionally lost at sea and got stranded on one of the islands of the Chagos. Eventually, they were rescued and brought back home. However, the different atolls of the Chagos have no individual names in the Maldivian oral tradition.[17]
 
@@ -31,7 +31,7 @@ European discovery
 
 The uninhabited islands are asserted to have been discovered by the Portuguese navigator, explorer, and diplomat Pedro Mascarenhas in 1512, first named as Dom Garcia, in honour of his patron, Dom Garcia de Noronha[18][19] when he was detached from the Portuguese India Armadas[20] during his voyage of 1512–1513. Another Portuguese expedition with a Spanish explorer of Andalusian origin, Diego García de Moguer,[21] rediscovered the island in 1544 and named it after himself. Garcia de Moguer died the same year on the return trip to Portugal in the Indian Ocean, off the South African coast. The misnomer "Diego" could have been made unwittingly by the British ever since, as they copied the Portuguese maps. It is assumed that the island was named after one of its first two discoverers—the one by the name of Garcia, the other with name Diego. Also, a cacography of the saying _Deo Gracias_ ("Thank God") is eligible for the attribution of the atoll. Although the Cantino planisphere (1504) and the Ruysch map (1507) clearly delineate the Maldive Islands, giving them the same names, they do not show any islands to the south which can be identified as the Chagos archipelago.
 
-Diego_garcian.jpg photographed by a US National Geodetic Survey team in 1969]] The Sebastian Cabot map (Antwerp 1544) shows a number of islands to the south which may be the Mascarene Islands. The first map which identifies and names "_Los Chagos_" (in about the right position) is that of Pierre Desceliers (Dieppe 1550), although Diego Garcia is not named. An island called "Don Garcia" appears on the _Theatrum Orbis Terrarum_ of Abraham Ortelius (Antwerp 1570), together with "Dos Compagnos", slightly to the north. It may be the case that "Don Garcia" was named after Garcia de Noronha, although no evidence exists to support this. The island is also labelled "Don Garcia" on Mercator's _Nova et Aucta Orbis Terrae Descriptio ad Usum Navigatium Emendate_ (Duisburg 1569). However, on the _Vera Totius Expeditionis Nauticae Description_ of Jodocus Hondius (London 1589), "Don Garcia" mysteriously changes its name to "I. de Dio Gratia", while the "I. de Chagues" appears close by.
+photographed by a US National Geodetic Survey team in 1969]] The Sebastian Cabot map (Antwerp 1544) shows a number of islands to the south which may be the Mascarene Islands. The first map which identifies and names "_Los Chagos_" (in about the right position) is that of Pierre Desceliers (Dieppe 1550), although Diego Garcia is not named. An island called "Don Garcia" appears on the _Theatrum Orbis Terrarum_ of Abraham Ortelius (Antwerp 1570), together with "Dos Compagnos", slightly to the north. It may be the case that "Don Garcia" was named after Garcia de Noronha, although no evidence exists to support this. The island is also labelled "Don Garcia" on Mercator's _Nova et Aucta Orbis Terrae Descriptio ad Usum Navigatium Emendate_ (Duisburg 1569). However, on the _Vera Totius Expeditionis Nauticae Description_ of Jodocus Hondius (London 1589), "Don Garcia" mysteriously changes its name to "I. de Dio Gratia", while the "I. de Chagues" appears close by.
 
 The first map to delineate the island under its present name, Diego Garcia, is the _World Map_ of Edward Wright (London 1599), possibly as a result of misreading Dio (or simply "D.") as Diego, and Gratia as Garcia. The _Nova Totius Terrarum Orbis Geographica_ of Hendrik Hondius II (Antwerp 1630) repeats Wright's use of the name, which is then proliferated on all subsequent Dutch maps of the period, and to the present day.
 
@@ -47,7 +47,7 @@ In 1882, the French-financed, Mauritian-based Société Huilière de Diego et de
 
 20th century
 
-Barochois_Maurice,_Diego_Garcia.jpg Maurice, Diego Garcia]] Consolidated_PBY_Catalina_wreck_on_Diego_Garcia_1982.jpg
+Maurice, Diego Garcia]]
 
 In 1914, the island was visited by the German light cruiser SMS _Emden_ halfway through its commerce-raiding cruise during the early months of World War I.[30]
 
@@ -59,8 +59,6 @@ In the early 1960s, the UK was withdrawing its military presence from the Indian
 
 Purchase by the United Kingdom
 
-Ted_Morris_on_Diego_Garcia.jpg
-
 To accomplish the UK–US mutual defence strategy, in November 1965, the UK purchased the Chagos Archipelago, which includes Diego Garcia, from the then self-governing colony of Mauritius for £3 million to create the British Indian Ocean Territory (BIOT), with the intent of ultimately closing the plantations to provide the uninhabited British territory from which the United States would conduct its military activities in the region.[37]
 
 In April 1966, the British government bought the entire assets of the Chagos Agalega Company in the BIOT for £600,000 and administered them as a government enterprise while awaiting United States funding of the proposed facilities, with an interim objective of paying for the administrative expenses of the new territory.[38] However, the plantations, both under their previous private ownership and under government administration, proved consistently unprofitable due to the introduction of new oils and lubricants in the international marketplace, and the establishment of vast coconut plantations in the East Indies and the Philippines.[39]
@@ -71,15 +69,13 @@ Arrival of the U.S. Navy
 
 To the United States, Diego Garcia was a prime territory for setting up a foreign military base. According to Stuart Barber—a civilian working for the US Navy at the Pentagon—Diego Garcia was located far away from any potential threats, it was low in a native population and it was an island that was not sought after by other countries as it lacked economic interest. To Barber, Diego Garcia and other acquired islands would play a key role in maintaining US dominance. Here Barber designed the strategic island concept, where the US would obtain as many less populated islands as possible for military purposes. According to Barber, this was the only way to ensure security for a foreign base. Diego Garcia is often referred to as "Fantasy Island" for its seclusion.
 
-Seychelles_Governor_inspection_1972.jpg oversaw the depopulation of Chagossians from the Chagos Archipelago.]] The key component in obtaining Diego Garcia was the perceived lack of a native population on the island. Uninhabited until the late 18th century, Diego Garcia had no indigenous population. Its only inhabitants were European overseers who managed the coconut plantations for their absentee landowners and contract workers mostly of African, Indian, and Malay ancestry, known as Chagossians, who had lived and worked on the plantations for several generations. Prior to setting up a military base, the United States government was informed by the British government—which owned the island—that Diego Garcia had a population of hundreds. The eventual number of Chagossians numbered around 1,000.[42]
+oversaw the depopulation of Chagossians from the Chagos Archipelago.]] The key component in obtaining Diego Garcia was the perceived lack of a native population on the island. Uninhabited until the late 18th century, Diego Garcia had no indigenous population. Its only inhabitants were European overseers who managed the coconut plantations for their absentee landowners and contract workers mostly of African, Indian, and Malay ancestry, known as Chagossians, who had lived and worked on the plantations for several generations. Prior to setting up a military base, the United States government was informed by the British government—which owned the island—that Diego Garcia had a population of hundreds. The eventual number of Chagossians numbered around 1,000.[42]
 
 Regardless of the size of the population, the Chagossians had to be removed from the island before the base could be constructed. In 1968, the first tactics were implemented to decrease the population of Diego Garcia. Those who left the island—either for vacation or medical purposes—were not allowed to return, and those who stayed could obtain only restricted food and medical supplies. This tactic was in hope that those that stayed would leave "willingly".[43] One of the tactics used was that of killing Chagossian pets.[44]
 
 In March 1971, United States Naval construction battalions, (Seabees), arrived on Diego Garcia to begin the construction of the communications station and an airfield.[45] To satisfy the terms of an agreement between the UK and the United States for an uninhabited island, the plantation on Diego Garcia was closed in October of that year.[46] The plantation workers and their families were relocated to the plantations on Peros Bahnos and Salomon atolls to the northwest. The by-then-independent Mauritian government refused to accept the islanders without payment, and in 1974, the UK gave the Mauritian government an additional £650,000 to resettle the islanders.[47] Those who still remained on the island of Diego Garcia between 1971 and 1973 were forced onto cargo ships that were heading to Mauritius and the Seychelles.
 
 By 1973, construction of the Naval Communications Station (NAVCOMMSTA) was completed.[48] In the early 1970s, setbacks to United States military capabilities in the region including the fall of Saigon, victory of the Khmer Rouge in Cambodia, the closure of the Peshawar Air Station listening post in Pakistan and Kagnew Station in Eritrea, the _Mayaguez_ incident, and the build-up of Soviet naval presence in Aden and a Soviet airbase at Berbera, Somalia, caused the United States to request, and the UK to approve, permission to build a fleet anchorage and enlarged airfield on Diego Garcia,[49] and the Seabees doubled the number of workers constructing these facilities.[50]
-
-The_O_Club_on_Diego_Garcia.jpg
 
 Following the fall of the Shah of Iran and the Iran Hostage Crisis in 1979–1980, the West became concerned with ensuring the flow of oil from the Persian Gulf through the Strait of Hormuz, and the United States received permission for a $400-million expansion of the military facilities on Diego Garcia consisting of two parallel runways, expansive parking aprons for heavy bombers, 20 new anchorages in the lagoon, a deep-water pier, port facilities for the largest naval vessels in the American or British fleet, aircraft hangars, maintenance buildings and an air terminal, a fuel storage area, and billeting and messing facilities for thousands of sailors and support personnel.[51]
 
@@ -116,8 +112,6 @@ In 2004, US Navy recruitment literature described Diego Garcia as being one of t
 
 
 Politics
-
-CIA-DG-BIOT.jpg
 
 Diego Garcia is the only inhabited island in the British Indian Ocean Territory, an overseas territory of the United Kingdom, usually abbreviated as "BIOT". The Government of the BIOT consists of a commissioner appointed by the Queen. The commissioner is assisted by an administrator and small staff, and is based in London and is resident in the Foreign and Commonwealth Office.
 
@@ -167,7 +161,7 @@ In 2004, the UK applied for, and received, Ramsar site wetlands conservation sta
 
 Geography
 
-Biot-travel-svg-map.svg Diego Garcia is the largest land mass in the Chagos Archipelago (which includes Peros Banhos, the Salomon Islands, the Three Brothers, the Egmont Islands, and the Great Chagos Bank), being an atoll occupying approximately , of which is dry land.[101] The continuous portion of the atoll rim stretches from one end to the other, enclosing a lagoon long and up to wide, with a pass opening at the north. Three small islands are located in the pass.[102]
+Diego Garcia is the largest land mass in the Chagos Archipelago (which includes Peros Banhos, the Salomon Islands, the Three Brothers, the Egmont Islands, and the Great Chagos Bank), being an atoll occupying approximately , of which is dry land.[101] The continuous portion of the atoll rim stretches from one end to the other, enclosing a lagoon long and up to wide, with a pass opening at the north. Three small islands are located in the pass.[102]
 
 The island consists of the largest continuous dryland rim of all atolls in the world. The dryland rim varies in width from a few hundred metres to 2.4 km. Typical of coral atolls, it has a maximum elevation on some dunes on the ocean side of the rim of 9 m (30 ft) above mean low water. The rim nearly encloses a lagoon about long and up to wide. The atoll forms a nearly complete rim of land around a lagoon, enclosing 90% of its perimeter, with an opening only in the north. The main island is the largest of about 60 islands which form the Chagos Archipelago. Besides the main island, three small islets are at the mouth of the lagoon: West Island (), Middle Island () and East Island (). A fourth, Anniversary Island, 1 km (1,100 yards) southwest of Middle Island, appears as just a sand bar on satellite images. Both Middle Island and Anniversary Island are part of the Spur Reef complex.[103]
 
@@ -199,8 +193,6 @@ Also, several man-made freshwater ponds resulted from excavations made during co
 
 Climate
 
-Island_couple.jpg
-
 All precipitation falls as rain, characterised by air mass-type showers. Annual rainfall averages , with the heaviest precipitation from September to April. January is the wettest month with of mean monthly precipitation, and August the dryest month, averaging of mean monthly precipitation.[118]
 
 The surrounding sea surface temperature is the primary climatic control, and temperatures are generally uniform throughout the year, with an average maximum of by day during March and April, and in July through September. Diurnal variation is roughly , falling to the low by night.[119] Humidity is high throughout the year. The almost constant breeze keeps conditions reasonably comfortable.
@@ -211,21 +203,19 @@ Thunderstorm activity is generally noticed during the afternoon and evenings dur
 
 Diego Garcia is at minimum risk from tropical cyclones due to its proximity to the equator where the coriolis parameter required to organise circulation of the upper atmosphere is minimal. Low-intensity storms have hit the island, including one in 1901, which blew over 1,500 coconut trees;[122] one on September 16, 1944,[123] which caused the wreck of a Royal Air Force PBY Catalina; one in September 1990 which demolished the tent city then being constructed for United States Air Force bomber crews during Operation Desert Storm;[124] and one on July 22, 2007, when winds exceeded and over of rain fell in 24 hours.[125]
 
-Degar_sunset_from_cannon_point.jpg The island was somewhat affected by the tsunami caused by the 2004 Indian Ocean earthquake. Service personnel on the western arm of the island reported only a minor increase in wave activity. The island was protected to a large degree by its favourable ocean topography. About east of the atoll lies the 650-km-long (400-mile) Chagos Trench, an underwater canyon plunging more than . The depth of the trench and its grade to the atoll's slope and shelf shore makes it more difficult for substantial tsunami waves to build before passing the atoll from the east. In addition, near-shore coral reefs and an algal platform may have dissipated much of the waves' impact.[126][127] A biological survey conducted in early 2005 indicated erosional effects of the tsunami wave on Diego Garcia and other islands of the Chagos Archipelago. One stretch of shoreline was found to have been breached by the tsunami wave, representing about 10% of the eastern arm. A biological survey by the Chagos Conservation Trust reported that the resulting inundation additionally washed away shoreline shrubs and small to medium-sized coconut palms.[128]
+The island was somewhat affected by the tsunami caused by the 2004 Indian Ocean earthquake. Service personnel on the western arm of the island reported only a minor increase in wave activity. The island was protected to a large degree by its favourable ocean topography. About east of the atoll lies the 650-km-long (400-mile) Chagos Trench, an underwater canyon plunging more than . The depth of the trench and its grade to the atoll's slope and shelf shore makes it more difficult for substantial tsunami waves to build before passing the atoll from the east. In addition, near-shore coral reefs and an algal platform may have dissipated much of the waves' impact.[126][127] A biological survey conducted in early 2005 indicated erosional effects of the tsunami wave on Diego Garcia and other islands of the Chagos Archipelago. One stretch of shoreline was found to have been breached by the tsunami wave, representing about 10% of the eastern arm. A biological survey by the Chagos Conservation Trust reported that the resulting inundation additionally washed away shoreline shrubs and small to medium-sized coconut palms.[128]
 
 Vegetation
-
-Diego_Garcia_Mixed_Species_Marsh.png
 
 The first botanical observations of the island were made by Hume in 1883, when the coconut plantations had been in operation for a full century. Subsequent studies and collections during the plantation era were made in 1885, 1905, 1939, and 1967.[129] Thus, very little of the nature of the precontact vegetation is known.
 
 The 1967 survey, published by the Smithsonian[130] is used as the most authoritative baseline for more recent research. These studies indicate the vegetation of the island may be changing rapidly. For example, J. M. W. Topp collected data annually between 1993 and 2003 and found that on the average three new plant species arrived each year, mainly on Diego Garcia. His research added fully a third more species to Stoddart.[131] Topp and Martin Hamilton of Kew Gardens compiled the most recent checklist of vegetation in 2009.[132]
 
-Diego_Garcia_Cocos_Forest.png In 1967, Stoddart described the land area of Diego Garcia as having a littoral hedge of _Scaevola taccada_, while inland, _Cocos nucifera_ (coconut) was the most dominant tree, covering most of the island. The substory was either managed and park-like, with understory less than 0.5 m in height, or consisted of what he called "Cocos Bon-Dieu" – an intermediate story of juvenile trees and a luxuriant ground layer of self-sown seedlings – causing those areas to be relatively impenetrable.[133]
+In 1967, Stoddart described the land area of Diego Garcia as having a littoral hedge of _Scaevola taccada_, while inland, _Cocos nucifera_ (coconut) was the most dominant tree, covering most of the island. The substory was either managed and park-like, with understory less than 0.5 m in height, or consisted of what he called "Cocos Bon-Dieu" – an intermediate story of juvenile trees and a luxuriant ground layer of self-sown seedlings – causing those areas to be relatively impenetrable.[133]
 
 Also, areas of remnant tropical hardwood forest are at the sites of the plantation-era villages, as well as _Casuarina equisetifolia_ (iron wood pines) woodlands.[134]
 
-In 1997, the United States Navy contracted a vegetation survey that identified about 280 species of terrestrial vascular plants on Diego Garcia.[135] None of these was endemic, and another survey in 2005 identified just 36 species as "native", meaning arriving without the assistance of humans, and found elsewhere in the world.[136] No terrestrial plant species are of any conservation-related concern at present.[137] Diego_Garcia_Hernandia_Forest.png
+In 1997, the United States Navy contracted a vegetation survey that identified about 280 species of terrestrial vascular plants on Diego Garcia.[135] None of these was endemic, and another survey in 2005 identified just 36 species as "native", meaning arriving without the assistance of humans, and found elsewhere in the world.[136] No terrestrial plant species are of any conservation-related concern at present.[137]
 
 Of the 36 native vascular plants on Diego Garcia, 12 are trees, five are shrubs, seven are dicotyledon herbs, three are grasses, four are vines, and five are ferns.[138]
 
@@ -233,11 +223,7 @@ The 12 tree species are: _Barringtonia asiatica_ (fish-poison tree), _Calophyllu
 
 The five native shrubs are: _Caesalpinia bonduc_, _Pemphis acidula_, _Premna serratifolia_, _Scaevola taccada_ (often mispronounced "Scaveola"), and _Suriana maritima_.
 
-Premna_Shrubland.png Also, 134 species of plants are classified as "weedy" or "naturalised alien species", being those unintentionally introduced by man, or intentionally introduced as ornamentals or crop plants which have now "gone native", including 32 new species recorded since 1995, indicating a very rapid rate of introduction.[140] The remainder of the species list consists of cultivated food or ornamental species, grown in restricted environments such as a planter's pot.[141]
-
-Diego_Garcia_Cattail_Marsh.png
-
-Diego_Garcia_Littoral_Scrub_1.png
+Also, 134 species of plants are classified as "weedy" or "naturalised alien species", being those unintentionally introduced by man, or intentionally introduced as ornamentals or crop plants which have now "gone native", including 32 new species recorded since 1995, indicating a very rapid rate of introduction.[140] The remainder of the species list consists of cultivated food or ornamental species, grown in restricted environments such as a planter's pot.[141]
 
 In 2004, 10 plant communities were recognized on the atoll rim:[142]
 
@@ -254,7 +240,7 @@ In 2004, 10 plant communities were recognized on the atoll rim:[142]
 
 Wildlife
 
-Coconut_Crab.jpgs are protected on Diego Garcia.]] All the terrestrial and aquatic fauna of Diego Garcia are protected, with the exception of certain game fish, rats, and cats; hefty fines are levied against violators.[144]
+s are protected on Diego Garcia.]] All the terrestrial and aquatic fauna of Diego Garcia are protected, with the exception of certain game fish, rats, and cats; hefty fines are levied against violators.[144]
 
 Crustaceans
 
@@ -266,7 +252,7 @@ No mammal species are native on Diego Garcia, with no record of bats.[146] Other
 
 Native birds
 
-Red-tailed_Tropicbird3.jpg nest near the cantonment area.]]
+nest near the cantonment area.]]
 
 The total bird list for the Chagos Archipelago, including Diego Garcia, consists of 91 species, with large breeding populations of 16 species. Although no birds are endemic, internationally important seabird colonies exist. Diego Garcia's seabird community includes thriving populations of species which are rapidly declining in other parts of the Indian Ocean. Large nesting colonies of brown noddies (_Anous stolidous_), bridled terns (_Sterna anaethetus_), the lesser noddy (_Anous tenuirostris_), red-footed booby (_Sula sula_) and lesser frigate birds (_Fregata ariel_), exist on Diego Garcia.
 
@@ -296,8 +282,6 @@ British Forces British Indian Ocean Territories (BFBIOT) is the official name fo
 
 United States military activities
 
-Diego_Garcia_Island_Map.jpg
-
 During the Cold War era, following the British withdrawal from East of Suez, the United States was keen to establish a military base in the Indian Ocean to counter Soviet influence in the region and protect the sea-lanes for oil transportation from the Middle East. The United States saw the atoll as the "Malta of the Indian Ocean" equidistant from all points.[160] The value has been proven many times, with the island providing an "unsinkable aircraft carrier" for the United States during the Iranian revolution, the Iraqi invasion of Kuwait, Operation Desert Fox, Operation Enduring Freedom, and Operation Iraqi Freedom. In the contemporary era, the atoll continues to play a key role in America's approach to the Indian Ocean as a flexible forward hub that can facilitate a range of regional strategies.[161][162]
 
 The United States military facilities on Diego Garcia have been known informally as Camp Justice[163][164][165] and, after renaming in July 2006, as Camp Thunder Cove.[166] Formally, the base is known as Naval Support Facility Diego Garcia (the US activity) or Permanent Joint Operating Base (PJOB) Diego Garcia (the UK's term).[167]
@@ -306,7 +290,7 @@ United States military activities in Diego Garcia have caused friction between I
 
 Naval Support Facility Diego Garcia
 
-B-1_Bombers_on_Diego_Garcia.jpg bombers on Diego Garcia in November 2001 during the Afghanistan bombing campaign]] US_Air_Force_030320-F-4338B-042_Busy_bombers.jpg take off, B-52 bombers on tarmac on Diego Garcia]]
+bombers on Diego Garcia in November 2001 during the Afghanistan bombing campaign]] take off, B-52 bombers on tarmac on Diego Garcia]]
 
 Naval Support Facility Diego Garcia provides Base Operating Services to tenant commands located on the island. The command's mission is "To provide logistic support to operational forces forward deployed to the Indian Ocean and Persian Gulf AORs in support of national policy objectives."[172]
 
@@ -318,8 +302,6 @@ United States Air Force units based on Diego Garcia
 -   AFSPC Det 2, a GEODSS facility, Air Force Space Command
 
 United States pre-positioned vessels
-
-Camp_Justice_--Diego_Garcia.jpg
 
 The atoll shelters the ships of the United States Marine Pre-positioning Squadron Two. These ships carry equipment and supplies to support a major armed force with tanks, armoured personnel carriers, munitions, fuel, spare parts and even a mobile field hospital. This equipment was used during the Persian Gulf War, when the squadron transported equipment to Saudi Arabia.
 
@@ -364,7 +346,7 @@ The island was one of 33 emergency landing sites worldwide for the NASA Space Sh
 
 Cargo service
 
-Mv-baffin-strait-route.png transited between Singapore and Diego Garcia once a month.]]
+transited between Singapore and Diego Garcia once a month.]]
 
 All consumable food and equipment are brought to Diego Garcia by sea or air, and all non-biodegradable waste is shipped off the island as well. From 1971 to 1973, United States Navy LSTs provided this service. Beginning in 1973, civilian ships were contracted to provide these services. From 2004 to 2009, the US-flagged container ship MV _Baffin Strait_, often referred to as the "DGAR shuttle," delivered 250 containers every month from Singapore to Diego Garcia.[181] The ship delivered "more than 200,000 tons of cargo to the island each year."[182] On the return trip to Singapore, it carried recyclable metals.[183]
 

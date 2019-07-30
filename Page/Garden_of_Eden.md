@@ -1,4 +1,4 @@
-Hieronymus_Bosch_-_The_Garden_of_Earthly_Delights_-_The_Earthly_Paradise_(Garden_of_Eden).jpg's _The Garden of Earthly Delights_ triptych. The panel includes many imagined and exotic African animals.[1]]]
+'s _The Garden of Earthly Delights_ triptych. The panel includes many imagined and exotic African animals.[1]]]
 
 The GARDEN OF EDEN ( – _gan-ʿḖḏen_), also called PARADISE, is the biblical "garden of God" described in the Book of Genesis and the Book of Ezekiel.[2][3] Genesis 13:10 refers to the "garden of God",[4] and the "trees of the garden" are mentioned in Ezekiel 31.[5][6] The Book of Zechariah and the Book of Psalms also refer to trees and water without explicitly mentioning Eden.[7]
 
@@ -11,7 +11,7 @@ The location of Eden is described in the Book of Genesis as the source of four t
 
 Biblical narratives
 
-James_Jacques_Joseph_Tissot_-_Adam_and_Eve_Driven_From_Paradise_-_Google_Art_Project.jpg ]] CaedmonManuscriptPage46Illust.jpg, c. 1000 CE]]
+]] , c. 1000 CE]]
 
 Genesis
 
@@ -32,7 +32,7 @@ According to Terje Stordalen, the Eden in Ezekiel appears to be located in Leban
 
 Proposed locations
 
-Tigr-euph.png Mortier,_Situation_du_Paradise_Terrestre,_1700_Cornell_CUL_PJM_1014_01.jpg, 1700, based on theories of Pierre Daniel Huet, Bishop of Avranches. A caption in French and Dutch reads: _Map of the location of the terrestrial paradise, and of the country inhabited by the patriarchs, laid out for the good understanding of sacred history, by M. Pierre Daniel Huet_.]]
+, 1700, based on theories of Pierre Daniel Huet, Bishop of Avranches. A caption in French and Dutch reads: _Map of the location of the terrestrial paradise, and of the country inhabited by the patriarchs, laid out for the good understanding of sacred history, by M. Pierre Daniel Huet_.]]
 
 The Garden of Eden is considered to be mythological by most scholars.[30][31][32][33][34][35] However, there have been suggestions for its location:[36] at its source of the rivers, while others have looked at the head of the Persian Gulf, in southern Mesopotamia (now Iraq) where the Tigris and Euphrates rivers run into the sea;[37] and in the Armenian Highlands or Armenian Plateau.[38][39][40][41] British archaeologist David Rohl locates it in Iran, and in the vicinity of Tabriz, but this suggestion has not caught on with scholarly sources.[42]
 
@@ -64,7 +64,7 @@ In chapter two, Legends of the Jews gives a brief description of the lower Gan E
 
 Islamic view
 
-Spanish-Arabic_map_of_1109.jpg world map from 1109 with Eden in the East (at top)]] The term _jannāt ʿadni_ ("Gardens of Eden" or "Gardens of Perpetual Residence") is used in the Qur'an for the destination of the righteous. There are several mentions of "the Garden" in the Qur'an (2:35, 7:19, 20:117), while the Garden of Eden, without the word _ʿadn_,[64] is commonly the fourth layer of the Islamic heaven and not necessarily thought as the dwelling place of Adam.[65] The Quran refers frequently over various Surah about the first abode of Adam and Hawwa (Eve), including surat Sad, which features 18 verses on the subject (38:71–88), surat al-Baqara, surat al-A'raf, and surat al-Hijr although sometimes without mentioning the location. The narrative mainly surrounds the resulting expulsion of Hawwa and Adam after they were tempted by Shaitan. Despite the Biblical account, the Quran mentions only one tree in Eden, the tree of immortality, which God specifically claimed it was forbidden to Adam and Eve. Some exegesis added an account, about Satan, disguised as a serpent to enter the Garden, repeatedly told Adam to eat from the tree, and eventually both Adam and Eve did so, resulting in disobeying God.[66] These stories are also featured in the hadith collections, including al-Tabari.[67]
+world map from 1109 with Eden in the East (at top)]] The term _jannāt ʿadni_ ("Gardens of Eden" or "Gardens of Perpetual Residence") is used in the Qur'an for the destination of the righteous. There are several mentions of "the Garden" in the Qur'an (2:35, 7:19, 20:117), while the Garden of Eden, without the word _ʿadn_,[64] is commonly the fourth layer of the Islamic heaven and not necessarily thought as the dwelling place of Adam.[65] The Quran refers frequently over various Surah about the first abode of Adam and Hawwa (Eve), including surat Sad, which features 18 verses on the subject (38:71–88), surat al-Baqara, surat al-A'raf, and surat al-Hijr although sometimes without mentioning the location. The narrative mainly surrounds the resulting expulsion of Hawwa and Adam after they were tempted by Shaitan. Despite the Biblical account, the Quran mentions only one tree in Eden, the tree of immortality, which God specifically claimed it was forbidden to Adam and Eve. Some exegesis added an account, about Satan, disguised as a serpent to enter the Garden, repeatedly told Adam to eat from the tree, and eventually both Adam and Eve did so, resulting in disobeying God.[66] These stories are also featured in the hadith collections, including al-Tabari.[67]
 
 Latter Day Saints
 

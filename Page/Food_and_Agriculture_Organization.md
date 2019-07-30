@@ -18,7 +18,7 @@ During the 1950s and 1960s, FAO partnered with many different international orga
 
 Structure and finance
 
-Lester_Bowles_Pearson_presiding_at_a_plenary_session_of_the_founding_conference_of_the_United_Nations_Food_and_Agriculture_Organization.jpg presiding at a plenary session of the founding conference of the United Nations Food and Agriculture Organization. October 1945]]
+presiding at a plenary session of the founding conference of the United Nations Food and Agriculture Organization. October 1945]]
 
 In 1951, FAO's headquarters were moved from Washington, DC, United States, to Rome, Italy. The agency is directed by the Conference of Member Nations, which meets every two years to review the work carried out by the organization and to Work and Budget for the next two-year period. The Conference elects a council of 49 member states (serve three-year rotating terms) that acts as an interim governing body, and the Director-General, that heads the agency.
 
@@ -36,7 +36,7 @@ This overall budget covers core technical work, cooperation and partnerships, le
 
 Directors-General
 
-Jose_graziano.jpg, FAO Director-General]]
+, FAO Director-General]]
 
 -   John Boyd Orr, October 1945 – April 1948
 -   Norris E. Dodd, April 1948 – December 1953
@@ -94,7 +94,7 @@ Offices
 
 FAO headquarters
 
-FAO_sede.jpg.]] The world headquarters are located in Rome, in the former seat of the Department of Italian East Africa. One of the most notable features of the building was the Axum Obelisk which stood in front of the agency seat, although just outside the territory allocated to FAO by the Italian Government. It was taken from Ethiopia by Benito Mussolini's troops in 1937 as a war chest, and returned on 18 April 2005.
+.]] The world headquarters are located in Rome, in the former seat of the Department of Italian East Africa. One of the most notable features of the building was the Axum Obelisk which stood in front of the agency seat, although just outside the territory allocated to FAO by the Italian Government. It was taken from Ethiopia by Benito Mussolini's troops in 1937 as a war chest, and returned on 18 April 2005.
 
 Regional offices
 
@@ -105,8 +105,6 @@ Regional offices
 -   Regional Office for the Near East, in Cairo, Egypt
 
 Sub-regional offices
-
-Washington_Park_Building.JPG
 
 -   Sub-regional Office for Central Africa (SFC), in Libreville, Gabon
 -   Sub-regional Office for Central Asia, in Ankara, Turkey
@@ -219,8 +217,6 @@ FAO established an _Emergency Prevention System for Transboundary Animal and Pla
 
 Global Partnership Initiative for Plant Breeding Capacity Building
 
-The Food Price Index (FAO) 1990-2012
-
 The Global Partnership Initiative for Plant Breeding Capacity Building (GIPB) is a global partnership dedicated to increasing plant breeding capacity building.[33] The mission of GIPB is to enhance the capacity of developing countries to improve crops for food security and sustainable development through better plant breeding and delivery systems.[34] The ultimate goal is to ensure that a critical mass of plant breeders, leaders, managers and technicians, donors and partners are linked together through an effective global network.
 
 Increasing capacity building for plant breeding in developing countries is critical for the achievement of meaningful results in poverty and hunger reduction and to reverse the current worrisome trends. Plant breeding is a well recognized science capable of widening the genetic and adaptability base of cropping systems, by combining conventional selection techniques and modern technologies. It is essential to face and prevent the recurrence of crises such as that of the soaring food prices and to respond to the increasing demands for crop based sources of energy.
@@ -257,7 +253,7 @@ The Forestry Department is also organized geographically in several groups cover
 
 Fisheries
 
-ER_Kvaran_being_filmed,_Sri_Lanka,_Ca._1956.jpeg, 1950s]] The FAO Fisheries and Aquaculture Department is defined through its vision and mission statements:
+, 1950s]] The FAO Fisheries and Aquaculture Department is defined through its vision and mission statements:
 
 -   _Vision_: A world in which responsible and sustainable use of fisheries and aquaculture resources makes an appreciable contribution to human well-being, food security and poverty alleviation.
 -   _Mission_: To strengthen global governance and the managerial and technical capacities of members and to lead consensus-building towards improved conservation and utilization of aquatic resources.
@@ -490,7 +486,7 @@ There are a total of 197 members comprising 194 member nations, 1 member organiz
 196. Zambia
 197. Zimbabwe
 
-FAO_members_and_observers.png The UN member state that is a non-member of the FAO is Liechtenstein.[54][55]
+The UN member state that is a non-member of the FAO is Liechtenstein.[54][55]
 
 Some countries may denote specific representatives to the FAO, for instance the United States Ambassador to the Food and Agriculture Organization of the United Nations, who has ambassador rank and is also part of the United States Mission to the UN Agencies in Rome.
 

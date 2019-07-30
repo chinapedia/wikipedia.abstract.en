@@ -34,7 +34,7 @@ Ancient bronze and stone idols of Jain Tirthankara were found in archaeological 
 
 After the sack of Bhatner fort during the Timurid conquests of India in 1398, Timur attacked and sacked the cities of Sirsa, Fatehabad, Sunam, Kaithal and Panipat. When he reached the town of Sarsuti (Sirsa), the residents, who were mostly non-Muslims, fled and were chased by a detachment of Timur's troops, with thousands of them being killed and looted by the troops. From there he travelled to Fatehabad, whose residents fled and a large number of those remaining in the town were massacred. The Ahirs resisted him at Ahruni but were defeated, with thousands being killed and many being taken prisoners while the town was burnt to ashes. From there he travelled to Tohana, whose Jat inhabitants were stated to be robbers according to Sharaf ad-Din Ali Yazdi. They tried to resist but were defeated and fled. Timur's army pursued and killed 200 Jats, while taking many more as prisoners. He then sent a detachment to chase the fleeing Jats and killed 2,000 of them while their wives and children were enslaved and their property plundered. Timur proceeded to Kaithal whose residents were massacred and plundered, destroying all villages along the way. On the next day, he came to Assandh whose residents were "fire-worshippers" according to Yazdi, and had fled to Delhi. Next, he travelled to and subdued Tughlaqpur fort and Salwan before reaching Panipat whose residents had already fled. He then marched on to Loni fort.[21][22]
 
-Maharaja_Hemu_Bhargava_-_Victor_of_Twenty_Two_Pitched_Battles,_1910s.jpg, who fought and won across North India from the Punjab to Bengal, winning 22 straight battles.]] Hemu claimed royal status after defeating Akbar's Mughal forces on 7 October 1556 in the Battle of Delhi and assumed the ancient title of Vikramaditya.]] The area that is now Haryana has been ruled by some of the major empires of India. Panipat is known for three seminal battles in the history of India. In the First Battle of Panipat (1526), Babur defeated the Lodis. In the Second Battle of Panipat (1556), Akbar defeated the local Haryanvi Hindu Emperor of Delhi, who belonged to Rewari. Hem Chandra Vikramaditya had earlier won 22 battles across India from Punjab to Bengal, defeating Mughals and Afghans. Hemu had defeated Akbar's forces twice at Agra and the Battle of Delhi in 1556 to become the last Hindu Emperor of India with a formal coronation at Purana Quila in Delhi on 7 October 1556. In the Third Battle of Panipat (1761), the Afghan king Ahmad Shah Abdali defeated the Marathas.[23]
+, who fought and won across North India from the Punjab to Bengal, winning 22 straight battles.]] Hemu claimed royal status after defeating Akbar's Mughal forces on 7 October 1556 in the Battle of Delhi and assumed the ancient title of Vikramaditya.]] The area that is now Haryana has been ruled by some of the major empires of India. Panipat is known for three seminal battles in the history of India. In the First Battle of Panipat (1526), Babur defeated the Lodis. In the Second Battle of Panipat (1556), Akbar defeated the local Haryanvi Hindu Emperor of Delhi, who belonged to Rewari. Hem Chandra Vikramaditya had earlier won 22 battles across India from Punjab to Bengal, defeating Mughals and Afghans. Hemu had defeated Akbar's forces twice at Agra and the Battle of Delhi in 1556 to become the last Hindu Emperor of India with a formal coronation at Purana Quila in Delhi on 7 October 1556. In the Third Battle of Panipat (1761), the Afghan king Ahmad Shah Abdali defeated the Marathas.[23]
 
 Formation
 
@@ -107,7 +107,7 @@ Haryana has four main geographical features.
 
 Hydrography
 
-YamunaRiver.jpg River near the Haryana Border]] The Yamuna, tributary of Ganges, flows along the state's eastern boundary.[69]
+River near the Haryana Border]] The Yamuna, tributary of Ganges, flows along the state's eastern boundary.[69]
 
 Northern Haryana has several north-east to south-west flowing rivers originating from the Sivalik Hills of Himalayas, such as Ghaggar-Hakra (palaeochannel of vedic Sarasvati river),[70] Chautang (paleochannel of vedic Drishadvati river, tributary of Ghagghar),[71][72] Tangri river (tributary of Ghagghar),[73][74] Kaushalya river (tributary of Ghagghar),[75][76] Markanda River (tributary of Ghagghar),[77][78] Sarsuti,[79][80] Dangri,[81][82] Somb river.[83] Haryana's main seasonal river, the Ghaggar-Hakra, known as Ghaggar before the Ottu barrage and as the Hakra downstream of the barrage,[84] rises in the outer Himalayas, between the Yamuna and the Satluj and enters the state near Pinjore in the Panchkula district, passes through Ambala and Sirsa, it reaches Bikaner in Rajasthan and runs for before disappearing into the deserts of Rajasthan.[85] The seasonal Markanda River, known as the _Aruna_ in ancient times, originates from the lower Shivalik Hills and enters Haryana west of Ambala, and swells into a raging torrent during monsoon is notorious for its devastating power, carries its surplus water on to the _Sanisa Lake_ where the _Markanda_ joins the _Sarasuti_ and later the _Ghaggar_.[86]
 
@@ -163,7 +163,7 @@ Administration
 
 Divisions
 
-Haryana_Wahlkreise_Lok_Sabha.svg constituencies in Haryana]] The state is divided into 6 revenue divisions, 5 Police Ranges and 3 Police Commissionerates (c. January 2017).[159][160][161][162] Six revenue divisions are: Ambala, Rohtak, Gurgaon, Hisar, Karnal and Faridabad.[163] Haryana has 10 municipal corporations (Gurugram, Faridabad, Ambala, Panchkula, Yamunanagar, Rohtak, Hisar, Panipat, Karnal and Sonepat), 18 municipal councils and 52 municipalities (c. Jan 2018).[164]
+constituencies in Haryana]] The state is divided into 6 revenue divisions, 5 Police Ranges and 3 Police Commissionerates (c. January 2017).[159][160][161][162] Six revenue divisions are: Ambala, Rohtak, Gurgaon, Hisar, Karnal and Faridabad.[163] Haryana has 10 municipal corporations (Gurugram, Faridabad, Ambala, Panchkula, Yamunanagar, Rohtak, Hisar, Panipat, Karnal and Sonepat), 18 municipal councils and 52 municipalities (c. Jan 2018).[164]
 
 Within these there are 22 districts, 72 sub-divisions, 93 tehsils, 50 sub-tehsils, 140 blocks, 154 cities and towns, 6,841 villages, 6212 villages panchayats and numerous smaller dhanis.
 
@@ -235,7 +235,7 @@ Industrial sector
 
 Manufacturing
 
-Larsen_&_Toubro_Office.png Office at Faridabad.]] DLF_Gateway_Tower.png, India's largest real estate company, in Gurgaon, Haryana.]]
+Office at Faridabad.]] , India's largest real estate company, in Gurgaon, Haryana.]]
 
 -   Faridabad is one of the biggest industrial city of Haryana as well as North India.[200] The city is home to large-scale MNC companies like India Yamaha Motor Pvt. Ltd., Havells India Limited,[201] JCB India Limited, Indian Oil (R&D),[202] and Larsen & Toubro (L&T).[203] Eyewear e-tailer Lenskart and healthcare startup Lybrate have their headquarters in Faridabad.[204][205]
 -   Hissar, a NCR Counter Magnet city known as steel and cotton spinning hub as well as upcoming integrated industrial aerocity and aero MRO hub at Hisar Airport,[206][207][208] is a fast developing city and the hometown of Navin Jindal and Subhash Chandra of Zee TV fame. Savitri Jindal, Navin Jindal's mother, has been listed by _Forbes_ as the third richest woman in world.[209]
@@ -268,8 +268,6 @@ Power in the state are:
 Services sector
 
 Transport
-
-Administrative_map_of_Haryana_with_RTO_codes_for_vehicle_registration.png
 
 Roads and Highways
 
@@ -311,8 +309,6 @@ The total fertility rate of Haryana is 2.3. The infant mortality rate is 41 (SRS
 
 Education
 
-Pgims.jpg
-
 Literacy
 
 Literacy rate in Haryana has seen an upward trend and is 76.64 percent as per 2011 population census. Male literacy stands at 85.38 percent, while female literacy is at 66.67 percent. In 2001, the literacy rate in Haryana stood at 67.91 percent of which male and female were 78.49 percent and 55.73 percent literate respectively.[254] , Gurgaon city had the highest literacy rate in Haryana at 86.30% followed by Panchkula at 81.9 per cent and Ambala at 81.7 percent.[255] In terms of districts, Rewari had the highest literacy rate in Haryana at 74%, higher than the national average of 59.5%: male literacy was 79%, and female 67%.[256]
@@ -331,7 +327,7 @@ Union Minister Ravi Shankar Prasad announced on 27 February 2016 that National I
 
 Sports
 
-Vijendersingh2.jpg, middleweight boxer from Bhiwani, Haryana]] Ballu.jpg]] In the 2010 Commonwealth Games at Delhi, 22 out of 38 gold medals that India won came from Haryana.[272] During the 33rd National Games held in Assam in 2007, Haryana stood first in the nation[273] with a medal tally of 80, including 30 gold, 22 silver and 28 bronze medals.
+, middleweight boxer from Bhiwani, Haryana]] ]] In the 2010 Commonwealth Games at Delhi, 22 out of 38 gold medals that India won came from Haryana.[272] During the 33rd National Games held in Assam in 2007, Haryana stood first in the nation[273] with a medal tally of 80, including 30 gold, 22 silver and 28 bronze medals.
 
 The 1983 World Cup winning captain Kapil Dev made his domestic-cricket debut playing for Haryana. Nahar Singh Stadium was built in Faridabad in the year 1981 for international cricket. This ground has the capacity to hold around 25,000 people as spectators.[274] Tejli Sports Complex is an Ultra-Modern sports complex in Yamuna Nagar. Tau Devi Lal Stadium in Gurgaon is a multi-sport complex.[275]
 

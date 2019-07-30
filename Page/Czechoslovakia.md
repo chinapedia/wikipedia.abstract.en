@@ -58,7 +58,7 @@ History
 
 Origins
 
-Tomáš_Garrigue_Masaryk_1925.PNG, founder and first president]] Czech_Troops.jpg 28._říjen_1918.jpg rally in Prague on Wenceslas Square, 28 October 1918]]
+, founder and first president]] rally in Prague on Wenceslas Square, 28 October 1918]]
 
 The area was long a part of the Austro-Hungarian Empire until the empire collapsed at the end of World War I. The new state was founded by Tomáš Garrigue Masaryk[7] (1850–1937), who served as its first president from 14 November 1918 to 14 December 1935. He was succeeded by his close ally, Edvard Beneš (1884–1948).
 
@@ -74,11 +74,9 @@ First Czechoslovak Republic
 
 Formation
 
-Czechoslovakia01.png The Bohemian Kingdom ceased to exist in 1918 when it was incorporated into Czechoslovakia. Czechoslovakia was founded in October 1918, as one of the successor states of the Austro-Hungarian Empire at the end of World War I and as part of the Treaty of Saint-Germain-en-Laye. It consisted of the present day territories of Bohemia, Moravia, Slovakia and Carpathian Ruthenia. Its territory included some of the most industrialized regions of the former Austria-Hungary.
+The Bohemian Kingdom ceased to exist in 1918 when it was incorporated into Czechoslovakia. Czechoslovakia was founded in October 1918, as one of the successor states of the Austro-Hungarian Empire at the end of World War I and as part of the Treaty of Saint-Germain-en-Laye. It consisted of the present day territories of Bohemia, Moravia, Slovakia and Carpathian Ruthenia. Its territory included some of the most industrialized regions of the former Austria-Hungary.
 
 Ethnicity
-
-Czechoslovakia_1930_linguistic_map_-_created_2008-10-30.svg
 
 The new country was a multi-ethnic state, with Czechs and Slovaks as _constituent peoples_. The population consisted of Czechs (51%), Slovaks (16%), Germans (22%), Hungarians (5%) and Rusyns (4%).[10] Many of the Germans, Hungarians, Ruthenians and Poles[11] and some Slovaks, felt oppressed because the political elite did not generally allow political autonomy for minority ethnic groups. This policy led to unrest among the non-Czech population, particularly in German-speaking Sudetenland, which initially had proclaimed itself part of the Republic of German-Austria in accordance with the self-determination prinicple.
 
@@ -152,7 +150,7 @@ After 1933, Czechoslovakia remained the only democracy in central and eastern Eu
 
 Munich Agreement, and Two-Step German Occupation
 
-Czechoslovakia_1939.SVG]] Bundesarchiv_Bild_146-1972-039-44,_Heydrich-Attentat.jpg was killed]] Czechoslovak_Republic_(1939).svg (1938–1939)]]
+]] was killed]] (1938–1939)]]
 
 In September 1938, Adolf Hitler demanded control of the Sudetenland. On 29 September 1938, Britain and France ceded control in the Appeasement at the Munich Conference; France ignored the military alliance it had with Czechoslovakia. During October 1938, Nazi Germany occupied and annexed the Sudetenland border region, effectively crippling Czechoslovak defences.
 
@@ -172,17 +170,15 @@ On 6 May 1945, the third US Army of General Patton entered Pilsen from the south
 
 Socialist Czechoslovakia
 
-Coat_of_arms_of_Czechoslovakia_(1961-1989).svg in 1960–1990]]
+in 1960–1990]]
 
 After World War II, pre-war Czechoslovakia was re-established, with the exception of Subcarpathian Ruthenia, which was annexed by the Soviet Union and incorporated into the Ukrainian Soviet Socialist Republic. The Beneš decrees were promulgated concerning ethnic Germans (see Potsdam Agreement) and ethnic Hungarians. Under the decrees, citizenship was abrogated for people of German and Hungarian ethnic origin who had accepted German or Hungarian citizenship during the occupations. In 1948, this provision was cancelled for the Hungarians, but only partially for the Germans. The government then confiscated the property of the Germans and expelled about 90% of the ethnic German population, over 2 million people. Those who remained were collectively accused of supporting the Nazis after the Munich Agreement, as 97.32% of Sudeten Germans had voted for the NSDAP in the December 1938 elections. Almost every decree explicitly stated that the sanctions did not apply to antifascists. Some 250,000 Germans, many married to Czechs, some antifascists, and also those required for the post-war reconstruction of the country, remained in Czechoslovakia. The Beneš Decrees still cause controversy among nationalist groups in the Czech Republic, Germany, Austria and Hungary.[19]
 
-Spartakiáda_-_1960.JPG'' in 1960]]
+'' in 1960]]
 
 Carpathian Ruthenia (Podkarpatská Rus) was occupied by (and in June 1945 formally ceded to) the Soviet Union. In the 1946 parliamentary election, the Communist Party of Czechoslovakia was the winner in the Czech lands, and the Democratic Party won in Slovakia. In February 1948 the Communists seized power. Although they would maintain the fiction of political pluralism through the existence of the National Front, except for a short period in the late 1960s (the Prague Spring) the country had no liberal democracy. Since citizens lacked significant electoral methods of registering protest against government policies, periodically there were street protests that became violent. For example, there were riots in the town of Plzeň in 1953, reflecting economic discontent. Police and army units put down the rebellion, and hundreds were injured but no one was killed. While its economy remained more advanced than those of its neighbors in Eastern Europe, Czechoslovakia grew increasingly economically weak relative to Western Europe.
 
 The currency reform of 1953 caused dissatisfaction among Czechoslovakian laborers. Prior to World War II, the Czech purchasing power surpassed that of the Soviet Union by 115-144%. This disparity was noted after Czechoslovakia came under the Soviet bloc. To equalize the wage rate, Czechoslovakians had to turn in their old money for new at a decreased value. This lowered the real value of wages by about 11%.[20] The banks also confiscated savings and bank deposits to control the amount of money in circulation. The economy continued to suffer as production achievements of bituminous coal was less than anticipated. Bituminous coal powered 85% of Czechoslovakia's economy. Because of low production, coal was utilized in industry only. Pre-war years, consumers used both coal and lignite for fuel, however due to low production, coal was for industrial use only which meant the consumer was only able to utilize lignite. In 1929, a typical family of four consumed approximately 2.34 tons of lignite but, by 1953, this same family unit was only allowed to use 1.6-1.8 tons per year.[21]
-
-Czechoslovakia.png
 
 In 1968, when the reformer Alexander Dubček was appointed to the key post of First Secretary of the Czechoslovak Communist Party, there was a brief period of liberalization known as the Prague Spring. In response, after failing to persuade the Czechoslovak leaders to change course, five other Eastern Bloc members of the Warsaw Pact invaded. Soviet tanks rolled into Czechoslovakia on the night of 20–21 August 1968.[22] The General Secretary of the Soviet Communist Party Leonid Brezhnev viewed this intervention as vital for the preservation of the Soviet, socialist system and vowed to intervene in any state that sought to replace Marxism-Leninism with capitalism.[23] In the week after the invasion there was a spontaneous campaign of civil resistance against the occupation. This resistance involved a wide range of acts of non-cooperation and defiance: this was followed by a period in which the Czechoslovak Communist Party leadership, having been forced in Moscow to make concessions to the Soviet Union, gradually put the brakes on their earlier liberal policies.[24] In April 1969 Dubček was finally dismissed from the First Secretaryship of the Czechoslovak Communist Party. Meanwhile, one plank of the reform program had been carried out: in 1968-69, Czechoslovakia was turned into a federation of the Czech Socialist Republic and Slovak Socialist Republic. The theory was that under the federation, social and economic inequities between the Czech and Slovak halves of the state would be largely eliminated. A number of ministries, such as education, now became two formally equal bodies in the two formally equal republics. However, the centralised political control by the Czechoslovak Communist Party severely limited the effects of federalization.
 
@@ -190,7 +186,7 @@ The 1970s saw the rise of the dissident movement in Czechoslovakia, represented 
 
 After 1989
 
-Foundation_of_the_Visegrád_Group.tiff signing ceremony in February 1991]]
+signing ceremony in February 1991]]
 
 In 1989, the Velvet Revolution restored democracy. This occurred at around the same time as the fall of communism in Romania, Bulgaria, Hungary and Poland.
 
@@ -205,7 +201,7 @@ After World War II, a political monopoly was held by the Communist Party of Czec
 
 Constitutional development
 
-Coat_of_arms_of_the_Czech_and_Slovak_Federal_Republic.svg in 1990–1992]]
+in 1990–1992]]
 
 Czechoslovakia had the following constitutions during its history (1918–1992):
 

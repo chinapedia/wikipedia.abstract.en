@@ -13,7 +13,7 @@ History
 
 Early years
 
-Inferno-_1911,_pluto.jpg'' (1911) the first full-length Italian feature film ever made]]
+'' (1911) the first full-length Italian feature film ever made]]
 
 The French Lumière brothers commenced public screenings in Italy in 1896: in March 1896, in Rome and Milan; in April in Naples, Salerno and Bari; in June in Livorno; in August in Bergamo, Bologna and Ravenna; in October in Ancona;[7] and in December in Turin, Pescara and Reggio Calabria. Lumière trainees produced short films documenting everyday life and comic strips in the late 1890s and early 1900s. Pioneering Italian cinematographer Filoteo Alberini patented his "Kinetograph" during this period.[8]
 
@@ -21,7 +21,7 @@ The Italian film industry took shape between 1903 and 1908, led by three major o
 
 Early Italian films typically consisted of adaptations of books or stage plays, such as Mario Caserini's _Otello_ (1906) and Arturo Ambrosio's 1908 adaptation of the novel, _The Last Days of Pompeii_. Also popular during this period were films about historical figures, such as Caserini's _Beatrice Cenci_ (1909) and Ugo Falena's _Lucrezia Borgia_ (1910). _L'Inferno_, produced by Milano Films in 1911, was the first full-length Italian feature film ever made.[9] Popular early Italian actors included Emilio Ghione, Alberto Collo, Bartolomeo Pagano, Amleto Novelli, Lyda Borelli, Ida Carloni Talli, Lidia Quaranta and Maria Jacobini.[10]
 
-Thais_Bragaglia_1917_02.jpg'' (1917)]]
+'' (1917)]]
 
 Enrico Guazzone's 1913 film _Quo Vadis_ was one of the earliest "blockbusters" in cinema history, utilizing thousands of extras and a lavish set design. Giovanni Pastrone's 1914 film _Cabiria_ was an even larger production, requiring two years and a record budget to produce, and it was the first epic film ever made. Nino Martoglio's _Lost in Darkness_, also produced in 1914, documented life in the slums of Naples, and is considered a precursor to the Neorealist movement of the 1940s and 1950s.[11]
 
@@ -31,7 +31,7 @@ The Italian film industry struggled against rising foreign competition in the ye
 
 Cinecittà
 
-Cinecittà_-_Entrance.jpg studios]] In 1930, Gennaro Righelli directed the first Italian talking picture, _The Song of Love_. This was followed by Blasetti's _Mother Earth_ (1930) and _Resurrection_ (1931), and Camerini's _Figaro and His Great Day_ (1931). The advent of talkies led to stricter censorship by the Fascist government.[15]
+studios]] In 1930, Gennaro Righelli directed the first Italian talking picture, _The Song of Love_. This was followed by Blasetti's _Mother Earth_ (1930) and _Resurrection_ (1931), and Camerini's _Figaro and His Great Day_ (1931). The advent of talkies led to stricter censorship by the Fascist government.[15]
 
 During the 1930s, light comedies known as _telefoni bianchi_ ("white telephones") were predominant in Italian cinema.[16] These films, which featured lavish set designs, promoted conservative values and respect for authority, and thus typically avoided the scrutiny of government censors. Important examples of _telefoni bianchi_ include Guido Brignone's _Paradiso_ (1932), Carlo Bragaglia's _O la borsa o la vita_ (1933), and Righelli's _Together in the Dark_ (1935). Historical films such as Blasetti's _1860_ (1934) and Carmine Gallone's _Scipio Africanus: The Defeat of Hannibal_ (1937) were also popular during this period.[17]
 
@@ -41,9 +41,9 @@ During this period, Mussolini's son, Vittorio, created a national production com
 
 Neorealism
 
-ROMA_C~1.JPG'' (1945), by Roberto Rossellini.]] By the end of World War II, the Italian "neorealist" movement had begun to take shape. Neorealist films typically dealt with the working class (in contrast to the _Telefoni Bianchi_), and were shot on location. Many neorealist films, but not all, utilized non-professional actors. Though the term "neorealism" was used for the first time to describe Luchino Visconti’s 1943 film, _Ossessione_, there were several important precursors to the movement, most notably Camerini's _What Scoundrels Men Are!_ (1932), which was the first Italian film shot entirely on location, and Blasetti's 1942 film, _Four Steps in the Clouds_.[19]
+'' (1945), by Roberto Rossellini.]] By the end of World War II, the Italian "neorealist" movement had begun to take shape. Neorealist films typically dealt with the working class (in contrast to the _Telefoni Bianchi_), and were shot on location. Many neorealist films, but not all, utilized non-professional actors. Though the term "neorealism" was used for the first time to describe Luchino Visconti’s 1943 film, _Ossessione_, there were several important precursors to the movement, most notably Camerini's _What Scoundrels Men Are!_ (1932), which was the first Italian film shot entirely on location, and Blasetti's 1942 film, _Four Steps in the Clouds_.[19]
 
-LadriDiBicicletteStaiola1948.jpg'' (1948), by Vittorio De Sica, ranked among the best movies ever made.]]
+'' (1948), by Vittorio De Sica, ranked among the best movies ever made.]]
 
 _Ossessione_ angered Fascist officials. Upon viewing the film, Vittorio Mussolini is reported to have shouted, "This is not Italy!" before walking out of the theater.[20] The film was subsequently banned in the Fascist-controlled parts of Italy. While neorealism exploded after the war, and was incredibly influential at the international level, neorealist films made up only a small percentage of Italian films produced during this period, as postwar Italian moviegoers preferred escapist comedies starring actors such as Totò and Alberto Sordi.[21]
 
@@ -55,9 +55,9 @@ Although _Umberto D._ is considered the end of the neorealist period, later film
 
 Pink neorealism and comedy
 
-Mastroianni_ottomez.jpg in _8½_ (1963) by Federico Fellini, considered to be one of the greatest films of all time]] It has been said that after _Umberto D._ nothing more could be added to neorealism. Possibly because of this, neorealism effectively ended with that film; subsequent works turned toward lighter atmospheres, perhaps more coherent with the improving conditions of the country, and this genre has been called _pink neorealism_. This trend allowed better-"equipped" actresses to become real celebrities, such as Sophia Loren, Gina Lollobrigida, Silvana Pampanini, Lucia Bosé, Barbara Bouchet, Eleonora Rossi Drago, Silvana Mangano, Virna Lisi, Claudia Cardinale and Stefania Sandrelli. Soon pink neorealism, such as _Pane, amore e gelosia_ (1954, released in the US as _Frisky_) with Vittorio DeSica and Gina Lollobrigida, was replaced by the _Commedia all'italiana_, a unique genre that, born on an ideally humouristic line, talked instead very seriously about important social themes.
+in _8½_ (1963) by Federico Fellini, considered to be one of the greatest films of all time]] It has been said that after _Umberto D._ nothing more could be added to neorealism. Possibly because of this, neorealism effectively ended with that film; subsequent works turned toward lighter atmospheres, perhaps more coherent with the improving conditions of the country, and this genre has been called _pink neorealism_. This trend allowed better-"equipped" actresses to become real celebrities, such as Sophia Loren, Gina Lollobrigida, Silvana Pampanini, Lucia Bosé, Barbara Bouchet, Eleonora Rossi Drago, Silvana Mangano, Virna Lisi, Claudia Cardinale and Stefania Sandrelli. Soon pink neorealism, such as _Pane, amore e gelosia_ (1954, released in the US as _Frisky_) with Vittorio DeSica and Gina Lollobrigida, was replaced by the _Commedia all'italiana_, a unique genre that, born on an ideally humouristic line, talked instead very seriously about important social themes.
 
-Fermo_con_le_mani_!.png in his first movie _Hands Off Me!_ (1937)]]
+in his first movie _Hands Off Me!_ (1937)]]
 
 At this time, on the more commercial side of production, the phenomenon of Totò, a Neapolitan actor who is acclaimed as the major Italian comic, exploded. His films (often with Peppino De Filippo and almost always with Mario Castellani) expressed a sort of neorealistic satire, in the means of a _guitto_ (a "hammy" actor) as well as with the art of the great dramatic actor he also was. A "film-machine" who produced dozens of titles per year, his repertoire was frequently repeated. His personal story (a prince born in the poorest _rione_ (section of the city) of Naples), his unique twisted face, his special mimic expressions and his gestures created an inimitable personage and made him one of the most beloved Italians of the 1960s.
 
@@ -73,7 +73,7 @@ A series of black-and-white films based on Don Camillo character created by the 
 
 Hollywood on the Tiber
 
-Cuadrigas_de_Ben_Hur_(1959).jpg'' (1959) was shot at the Cinecittà studios and on location around Rome during the "Hollywood on the Tiber" era.]] In the late 1940s, Hollywood studios began to shift production abroad to Europe. Italy was, along with Britain, one of the major destinations for American film companies. Shooting at Cinecittà, large-budget films such as _Quo Vadis_ (1951), _Roman Holiday_ (1953), _Ben-Hur_ (1959), and _Cleopatra_ (1963) were made in English with international casts and sometimes, but not always, Italian settings or themes. The heyday of what was dubbed '"Hollywood on the Tiber" was between 1950 and 1970, during which time many of the most famous names in world cinema made films in Italy.
+'' (1959) was shot at the Cinecittà studios and on location around Rome during the "Hollywood on the Tiber" era.]] In the late 1940s, Hollywood studios began to shift production abroad to Europe. Italy was, along with Britain, one of the major destinations for American film companies. Shooting at Cinecittà, large-budget films such as _Quo Vadis_ (1951), _Roman Holiday_ (1953), _Ben-Hur_ (1959), and _Cleopatra_ (1963) were made in English with international casts and sometimes, but not always, Italian settings or themes. The heyday of what was dubbed '"Hollywood on the Tiber" was between 1950 and 1970, during which time many of the most famous names in world cinema made films in Italy.
 
 Peplum (a.k.a. Sword and Sandal)
 
@@ -83,7 +83,7 @@ File:Bartolomeo Pagano - Maciste.JPG|Bartolomeo Pagano as Maciste File:Douglas M
 
 The Spaghetti Western
 
-SERGIO_LEONE.jpg is credited as the inventor of the Spaghetti Western genre.]] On the heels of the Peplum craze, a related genre, the Spaghetti Western arose and was popular both in Italy and elsewhere. These films differed from traditional westerns by being filmed in Europe on limited budgets, but featured vivid cinematography.
+is credited as the inventor of the Spaghetti Western genre.]] On the heels of the Peplum craze, a related genre, the Spaghetti Western arose and was popular both in Italy and elsewhere. These films differed from traditional westerns by being filmed in Europe on limited budgets, but featured vivid cinematography.
 
 The most popular Spaghetti Westerns were those of Sergio Leone, whose Dollars Trilogy (_A Fistful of Dollars_, _For a Few Dollars More_, and _The Good, the Bad and the Ugly_), featuring Clint Eastwood and scores by Ennio Morricone, came to define the genre along with _Once Upon a Time in the West_.
 
@@ -107,7 +107,7 @@ File:La Maschera del Demonio.png|Barbara Steele in _Black Sunday_ (1960) File:Se
 
 Poliziotteschi
 
-Fernando_Di_Leo.jpg]] POLIZIOTTESCHI (; plural of _POLIZIOTTESCO_) films constitute a subgenre of crime and action film that emerged in Italy in the late 1960s and reached the height of their popularity in the 1970s. They are also known as polizieschi, Italo-crime, Euro-crime or simply Italian crime films. Most notable international actors acted in this genre of films such Alain Delon, Henry Silva, Fred Williamson, Charles Bronson, Tomas Milian and others international stars.
+]] POLIZIOTTESCHI (; plural of _POLIZIOTTESCO_) films constitute a subgenre of crime and action film that emerged in Italy in the late 1960s and reached the height of their popularity in the 1970s. They are also known as polizieschi, Italo-crime, Euro-crime or simply Italian crime films. Most notable international actors acted in this genre of films such Alain Delon, Henry Silva, Fred Williamson, Charles Bronson, Tomas Milian and others international stars.
 
 The 1980s crisis
 
@@ -121,11 +121,11 @@ Also considered part of the trash genre are films which feature Fantozzi, a comi
 
 1990 to present
 
-Ennio_Morricone_Cannes_2012.jpg has composed over 500 scores for cinema and television since 1946.]] A new generation of directors has helped return Italian cinema to a healthy level since the end of the 1980s. Probably the most noted film of the period is _Nuovo Cinema Paradiso_, for which Giuseppe Tornatore won a 1989 Oscar (awarded in 1990) for Best Foreign Language Film. This award was followed when Gabriele Salvatores's _Mediterraneo_ won the same prize for 1991. _Il Postino: The Postman_ (1994), directed by and starring Massimo Troisi, received five nominations at the Academy Awards, and won for Best Original Score. Another exploit was in 1998 when Roberto Benigni won three oscars for his movie _Life Is Beautiful_ (_La vita è bella)_ (Best Actor, Best Foreign Film, Best Music). In 2001 Nanni Moretti's film _The Son's Room_ (_La stanza del figlio_) received the Palme d'Or at the Cannes Film Festival.
+has composed over 500 scores for cinema and television since 1946.]] A new generation of directors has helped return Italian cinema to a healthy level since the end of the 1980s. Probably the most noted film of the period is _Nuovo Cinema Paradiso_, for which Giuseppe Tornatore won a 1989 Oscar (awarded in 1990) for Best Foreign Language Film. This award was followed when Gabriele Salvatores's _Mediterraneo_ won the same prize for 1991. _Il Postino: The Postman_ (1994), directed by and starring Massimo Troisi, received five nominations at the Academy Awards, and won for Best Original Score. Another exploit was in 1998 when Roberto Benigni won three oscars for his movie _Life Is Beautiful_ (_La vita è bella)_ (Best Actor, Best Foreign Film, Best Music). In 2001 Nanni Moretti's film _The Son's Room_ (_La stanza del figlio_) received the Palme d'Or at the Cannes Film Festival.
 
 Other noteworthy recent Italian films include: _Jona che visse nella balena_ directed by Roberto Faenza, _Il grande cocomero_ by Francesca Archibugi, _The Profession of Arms_ (_Il mestiere delle armi_) by Olmi, _L'ora di religione_ by Marco Bellocchio, _Il ladro di bambini_, _Lamerica_, _The Keys to the House_ (_Le chiavi di casa_) by Gianni Amelio, _I'm Not Scared_ (_Io non ho paura_) by Gabriele Salvatores, _Le fate ignoranti_, _Facing Windows_ (_La finestra di fronte_) by Ferzan Özpetek, _Good Morning, Night_ (_Buongiorno, notte_) by Marco Bellocchio, _The Best of Youth_ (_La meglio gioventù_) by Marco Tullio Giordana, _The Beast in the Heart_ (_La bestia nel cuore_) by Cristina Comencini.
 
-Roberto_Benigni_Nicoletta_Braschi.jpg and Nicoletta Braschi]]
+and Nicoletta Braschi]]
 
 In 2008 Paolo Sorrentino's _Il Divo_, a biographical film based on the life of Giulio Andreotti, won the Jury prize and _Gomorra_, a crime drama film, directed by Matteo Garrone won the Gran Prix at the Cannes Film Festival.
 
@@ -146,7 +146,7 @@ File:Nanni Moretti (2007).jpg|Nanni Moretti File:Giuseppe Tornatore.jpg|Giuseppe
 
 Italian Academy Award winners
 
-Federico_Fellini_in_the_Seventies.jpg has won four Oscars for Best Foreign Language Film, the most for any director in the history of the Academy, and has had three other films submitted.]]
+has won four Oscars for Best Foreign Language Film, the most for any director in the history of the Academy, and has had three other films submitted.]]
 
 After the United States and the United Kingdom, Italy has the most Academy Awards wins.
 
@@ -169,13 +169,13 @@ Italy is the most awarded country at the Academy Award for Best Foreign Language
 
 In 1961, Sophia Loren won the Academy Award for Best Actress for her role as a woman who is raped in World War II, along with her adolescent daughter, in Vittorio De Sica's _Two Women_. She was the first actress to win an Academy Award for a performance in any foreign language, and the second Italian leading lady Oscar-winner, after Anna Magnani for _The Rose Tattoo_. In 1998, Roberto Benigni was the first Italian actor to win for the Best Actor for _Life Is Beautiful_.
 
-La_ciociara,_screenshot.gif and Eleonora Brown in _Two Women_ (1960)]]
+and Eleonora Brown in _Two Women_ (1960)]]
 
 Italian-born filmmaker Frank Capra won three times at the Academy Award for Best Director, for _It Happened One Night_, _Mr. Deeds Goes to Town_ and _You Can't Take It with You_. Bernardo Bertolucci won the award for _The Last Emperor_, and also Best Adapted Screenplay for the same movie.
 
 Ennio De Concini, Alfredo Giannetti and Pietro Germi won the award for Best Original Screenplay for _Divorce Italian Style_. The Academy Award for Best Film Editing was won by Gabriella Cristiani for _The Last Emperor_ and by Pietro Scalia for _JFK_ and _Black Hawk Down_.
 
-Dino_de_laurentiis_crop.jpg had produced more than 500 films, of which 38 were nominated for Oscars.]] The award for Best Original Score was won by Nino Rota for _The Godfather Part II_; Giorgio Moroder for _Midnight Express_; Nicola Piovani for _Life is Beautifull_; Dario Marianelli for _Atonement_; and Ennio Morricone for _The Hateful Eight_. Giorgio Moroder also won the award for Best Original Song for _Flashdance_ and _Top Gun_.
+had produced more than 500 films, of which 38 were nominated for Oscars.]] The award for Best Original Score was won by Nino Rota for _The Godfather Part II_; Giorgio Moroder for _Midnight Express_; Nicola Piovani for _Life is Beautifull_; Dario Marianelli for _Atonement_; and Ennio Morricone for _The Hateful Eight_. Giorgio Moroder also won the award for Best Original Song for _Flashdance_ and _Top Gun_.
 
 The Italian winners at the Academy Award for Best Production Design are Dario Simoni for _Lawrence of Arabia_ and _Doctor Zhivago_; Elio Altramura and Gianni Quaranta for _A Room with a View_; Bruno Cesari, Osvaldo Desideri and Ferdinando Scarfiotti for _The Last Emperor_; Luciana Arrighi for _Howards End_; and Dante Ferretti and Francesca Lo Schiavo for _The Aviator_, _Sweeney Todd: The Demon Barber of Fleet Street_ and _Hugo_.
 
@@ -190,7 +190,7 @@ Sophia Loren, Federico Fellini, Michelangelo Antonioni, Dino De Laurentiis, Enni
 
 Festivals
 
-Martin_Scorsese_01.jpg receiving a Golden Lion, the most prestigious award given out at the Venice Film Festival, the oldest film festival in the world.]]
+receiving a Golden Lion, the most prestigious award given out at the Venice Film Festival, the oldest film festival in the world.]]
 
 -   Venice Film Festival, founded in 1932, is the world's oldest film festival, and one of the most prestigious and publicized
 -   Bari International Film Festival
@@ -204,7 +204,7 @@ Martin_Scorsese_01.jpg receiving a Golden Lion, the most prestigious award given
 -   Courmayeur Noir Film Festival
 -   Ecologico International Film Festival
 
-David_di_Donatello_miglior_canzone_originale-_Alessandro_Nelson_Garofalo.jpg award]]
+award]]
 
 -   Fantafestival
 -   Festival del Cinema all'Aperto "Accordi @ DISACCORDI"

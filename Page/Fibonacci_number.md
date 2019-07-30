@@ -1,5 +1,3 @@
-34*21-FibonacciBlocks.png
-
 In mathematics, the FIBONACCI NUMBERS, commonly denoted form a sequence, called the FIBONACCI SEQUENCE, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
 
 _F_₀ = 0, _F_₁ = 1,
@@ -13,7 +11,7 @@ One has . In some books, and particularly in old ones, , the "0" is omitted, and
 (0, ) 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, …
 [1]
 
-FibonacciSpiral.svg created by drawing circular arcs connecting the opposite corners of squares in the Fibonacci tiling;[2] this one uses squares of sizes 1, 1, 2, 3, 5, 8, 13 and 21. ]]
+created by drawing circular arcs connecting the opposite corners of squares in the Fibonacci tiling;[2] this one uses squares of sizes 1, 1, 2, 3, 5, 8, 13 and 21. ]]
 
 Fibonacci numbers are strongly related to the golden ratio: Binet's formula expresses the th Fibonacci number in terms of and the golden ratio, and implies that the ratio of two consecutive Fibonacci numbers tends to the golden ratio as increases.
 
@@ -28,7 +26,7 @@ Fibonacci numbers are also closely related to Lucas numbers L_(n) in that they f
 
 History
 
-Thirteen_ways_of_arranging_long_and_short_syllables_in_a_cadence_of_length_six.svg The Fibonacci sequence appears in Indian mathematics in connection with Sanskrit prosody, as pointed out by Parmanand Singh in 1985.[6][7] In the Sanskrit poetic tradition, there was interest in enumerating all patterns of long (L) syllables of 2 units duration, juxtaposed with short (S) syllables of 1 unit duration. Counting the different patterns of successive L and S with a given total duration results in the Fibonacci numbers: the number of patterns of duration _m_ units is _F__(_m_ + 1).[8]
+The Fibonacci sequence appears in Indian mathematics in connection with Sanskrit prosody, as pointed out by Parmanand Singh in 1985.[6][7] In the Sanskrit poetic tradition, there was interest in enumerating all patterns of long (L) syllables of 2 units duration, juxtaposed with short (S) syllables of 1 unit duration. Counting the different patterns of successive L and S with a given total duration results in the Fibonacci numbers: the number of patterns of duration _m_ units is _F__(_m_ + 1).[8]
 
 Knowledge of the Fibonacci sequence was expressed as early as Pingala ( 450 BC–200 BC). Singh cites Pingala's cryptic formula _misrau cha_ ("the two are mixed") and scholars who interpret it in context as saying that the number of patterns for _m_ beats (_F__(_m+1_)) is obtained by adding one [S] to the _F__(_m_) cases and one [L] to the _F__(_m_−1) cases. [9] Bharata Muni also expresses knowledge of the sequence in the _Natya Shastra_ (c. 100 BC–c. 350 AD).[10][11] However, the clearest exposition of the sequence arises in the work of Virahanka (c. 700 AD), whose own work is lost, but is available in a quotation by Gopala (c. 1135):
 
@@ -36,7 +34,7 @@ Knowledge of the Fibonacci sequence was expressed as early as Pingala ( 450 BC
 
 Hemachandra (c. 1150) is credited with knowledge of the sequence as well,[12] writing that "the sum of the last and the one before the last is the number ... of the next mātrā-vṛtta."[13]
 
-Liber_abbaci_magliab_f124r.jpg's _Liber Abaci_ from the Biblioteca Nazionale di Firenze showing (in box on right) the Fibonacci sequence with the position in the sequence labeled in Latin and Roman numerals and the value in Hindu-Arabic numerals.]] FibonacciRabbit.svg Outside India, the Fibonacci sequence first appears in the book _Liber Abaci_ (1202) by Fibonacci.[14] using it to calculate the growth of rabbit populations.[15][16] Fibonacci considers the growth of a hypothetical, idealized (biologically unrealistic) rabbit population, assuming that: a newly born pair of rabbits, one male, one female, are put in a field; rabbits are able to mate at the age of one month so that at the end of its second month a female can produce another pair of rabbits; rabbits never die and a mating pair always produces one new pair (one male, one female) every month from the second month on. Fibonacci posed the puzzle: how many pairs will there be in one year?
+'s _Liber Abaci_ from the Biblioteca Nazionale di Firenze showing (in box on right) the Fibonacci sequence with the position in the sequence labeled in Latin and Roman numerals and the value in Hindu-Arabic numerals.]] Outside India, the Fibonacci sequence first appears in the book _Liber Abaci_ (1202) by Fibonacci.[14] using it to calculate the growth of rabbit populations.[15][16] Fibonacci considers the growth of a hypothetical, idealized (biologically unrealistic) rabbit population, assuming that: a newly born pair of rabbits, one male, one female, are put in a field; rabbits are able to mate at the age of one month so that at the end of its second month a female can produce another pair of rabbits; rabbits never die and a mating pair always produces one new pair (one male, one female) every month from the second month on. Fibonacci posed the puzzle: how many pairs will there be in one year?
 
 -   At the end of the first month, they mate, but there is still only 1 pair.
 -   At the end of the second month the female produces a new pair, so now there are 2 pairs of rabbits in the field.
@@ -73,13 +71,13 @@ Joseph Schillinger (1895–1943) developed a system of composition which uses Fi
 
 Nature
 
-FibonacciChamomile.PNG head showing the arrangement in 21 (blue) and 13 (aqua) spirals. Such arrangements involving consecutive Fibonacci numbers appear in a wide variety of plants.]]
+head showing the arrangement in 21 (blue) and 13 (aqua) spirals. Such arrangements involving consecutive Fibonacci numbers appear in a wide variety of plants.]]
 
 Fibonacci sequences appear in biological settings,[26] such as branching in trees, arrangement of leaves on a stem, the fruitlets of a pineapple,[27] the flowering of artichoke, an uncurling fern and the arrangement of a pine cone,[28] and the family tree of honeybees.[29][30] Kepler pointed out the presence of the Fibonacci sequence in nature, using it to explain the (golden ratio-related) pentagonal form of some flowers. Field daisies most often have petals in counts of Fibonacci numbers. In 1754, Charles Bonnet discovered that the spiral phyllotaxis of plants were frequently expressed in Fibonacci number series.[31]
 
 Przemysław Prusinkiewicz advanced the idea that real instances can in part be understood as the expression of certain algebraic constraints on free groups, specifically as certain Lindenmayer grammars.[32]
 
-SunflowerModel.svg A model for the pattern of florets in the head of a sunflower was proposed by in 1979.[33] This has the form
+A model for the pattern of florets in the head of a sunflower was proposed by in 1979.[33] This has the form
 
 $$\theta = \frac{2\pi}{\phi^2} n,\  r = c \sqrt{n}$$
 
@@ -92,8 +90,6 @@ Fibonacci numbers also appear in the pedigrees of idealized honeybees, according
 
 Thus, a male bee always has one parent, and a female bee has two. If one traces the pedigree of any male bee (1 bee), he has 1 parent (1 bee), 2 grandparents, 3 great-grandparents, 5 great-great-grandparents, and so on. This sequence of numbers of parents is the Fibonacci sequence. The number of ancestors at each level, _F__(_n_), is the number of female ancestors, which is _F__(_n_−1), plus the number of male ancestors, which is _F__(_n_−2).[35] This is under the unrealistic assumption that the ancestors at each level are otherwise unrelated.
 
-X_chromosome_ancestral_line_Fibonacci_sequence.svg
-
 Luke Hutchison noticed that the number of possible ancestors on the human X chromosome inheritance line at a given ancestral generation also follows the Fibonacci sequence.[36] A male individual has an X chromosome, which he received from his mother, and a Y chromosome, which he received from his father. The male counts as the "origin" of his own X chromosome (F₁ = 1), and at his parents' generation, his X chromosome came from a single parent (F₂ = 1). The male's mother received one X chromosome from her mother (the son's maternal grandmother), and one from her father (the son's maternal grandfather), so two grandparents contributed to the male descendant's X chromosome (F₃ = 2). The maternal grandfather received his X chromosome from his mother, and the maternal grandmother received X chromosomes from both of her parents, so three great-grandparents contributed to the male descendant's X chromosome (F₄ = 3). Five great-great-grandparents contributed to the male descendant's X chromosome (F₅ = 5), etc. (Note that this assumes that all ancestors of a given descendant are independent, but if any genealogy is traced far enough back in time, ancestors begin to appear on multiple lines of the genealogy, until eventually a population founder appears on all lines of the genealogy.)
 
 The pathways of tubulins on intracellular microtubules arrange in patterns of 3, 5, 8 and 13.[37]
@@ -101,7 +97,7 @@ The pathways of tubulins on intracellular microtubules arrange in patterns of 3,
 
 Mathematics
 
-PascalTriangleFibanacci.svg.]] The Fibonacci numbers occur in the sums of "shallow" diagonals in Pascal's triangle (see binomial coefficient):
+.]] The Fibonacci numbers occur in the sums of "shallow" diagonals in Pascal's triangle (see binomial coefficient):
 
 $$F_n = \sum_{k=0}^{\left\lfloor\frac{n-1}{2}\right\rfloor} \binom{n-k-1}{k}.$$
 
@@ -222,8 +218,6 @@ Johannes Kepler observed that the ratio of consecutive Fibonacci numbers converg
 $$\lim_{n\to\infty}\frac{F_{n+1}}{F_n}=\varphi.$$
 
 This convergence holds regardless of the starting values, excluding 0 and 0, or any pair in the conjugate golden ratio,  − 1/φ. This can be verified using Binet's formula. For example, the initial values 3 and 2 generate the sequence 3, 2, 5, 7, 12, 19, 31, 50, 81, 131, 212, 343, 555, ... The ratio of consecutive terms in this sequence shows the same convergence towards the golden ratio.
-
-Fibonacci_tiling_of_the_plane_and_approximation_to_Golden_Ratio.gif
 
 Decomposition of powers
 

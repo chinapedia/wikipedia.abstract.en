@@ -3,7 +3,7 @@ A DNA VIRUS is a virus that has DNA as its genetic material and replicates using
 
 Group I: dsDNA viruses
 
-Hhv6_genome2.png_, a member of the family Herpesviridae]] Genome organization within this group varies considerably. Some have circular genomes (_Baculoviridae'', _Papovaviridae_ and _Polydnaviridae_) while others have linear genomes (_Adenoviridae_, _Herpesviridae_ and some phages). Some families have circularly permuted linear genomes (phage T4 and some _Iridoviridae_). Others have linear genomes with covalently closed ends (_Poxviridae_ and _Phycodnaviridae_).
+_, a member of the family Herpesviridae]] Genome organization within this group varies considerably. Some have circular genomes (_Baculoviridae'', _Papovaviridae_ and _Polydnaviridae_) while others have linear genomes (_Adenoviridae_, _Herpesviridae_ and some phages). Some families have circularly permuted linear genomes (phage T4 and some _Iridoviridae_). Others have linear genomes with covalently closed ends (_Poxviridae_ and _Phycodnaviridae_).
 
 A virus infecting archaea was first described in 1974. Several others have been described since: most have head-tail morphologies and linear double-stranded DNA genomes. Other morphologies have also been described: spindle shaped, rod shaped, filamentous, icosahedral and spherical. Additional morphological types may exist.
 
@@ -162,8 +162,6 @@ doi:10.1111/mmi.13204
 
 
 Group II: ssDNA viruses
-
-Genome_map_of_the_bacteriophage_ΦX174_showing_overlapping_genes.svg
 
 Although bacteriophages were first described in 1927, it was only in 1959 that Sinshemer working with phage Phi X 174 showed that they could possess single-stranded DNA genomes.[13][14] Despite this discovery, until relatively recently it was believed that most DNA viruses contained double-stranded DNA. Recent work, however, has shown that single-stranded DNA viruses can be highly abundant in seawater, freshwater, sediments, terrestrial and extreme environments, as well as metazoan-associated and marine microbial mats.[15][16][17] Many of these "environmental" viruses belong to the family Microviridae.[18] However, the vast majority has yet to be classified and assigned to genera and higher taxa. Because most of these viruses do not appear to be related, or are only distantly related to known viruses, additional taxa will have to be created to accommodate them.
 

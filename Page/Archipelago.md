@@ -1,4 +1,4 @@
-Aegean_Sea_map_bathymetry-fr.jpg with its large number of islands is the origin of the term "Archipelago".]] MerguiArchipelagoMap.png in Myanmar.]]An ARCHIPELAGO ( ), sometimes called an ISLAND GROUP or ISLAND CHAIN, is a chain, cluster or collection of islands, or sometimes a sea containing a small number of scattered islands.
+with its large number of islands is the origin of the term "Archipelago".]] in Myanmar.]]An ARCHIPELAGO ( ), sometimes called an ISLAND GROUP or ISLAND CHAIN, is a chain, cluster or collection of islands, or sometimes a sea containing a small number of scattered islands.
 
 Indonesia, Japan, the Philippines, New Zealand, Maldives, the British Isles, the Bahamas, the Aegean Islands (Greece), the Florida Keys, Hawaii, Puerto Rico, the Canary Islands, the Madeira and the Azores are all examples of well-known archipelagos.
 

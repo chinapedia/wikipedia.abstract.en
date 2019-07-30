@@ -1,4 +1,4 @@
-Listerine_products.jpg]] MOUTHWASH, MOUTH RINSE, ORAL RINSE, or MOUTH BATH[1] is a liquid which is held in the mouth passively or swilled around the mouth by contraction of the perioral muscles and/or movement of the head, and may be gargled, where the head is tilted back and the liquid bubbled at the back of the mouth.
+]] MOUTHWASH, MOUTH RINSE, ORAL RINSE, or MOUTH BATH[1] is a liquid which is held in the mouth passively or swilled around the mouth by contraction of the perioral muscles and/or movement of the head, and may be gargled, where the head is tilted back and the liquid bubbled at the back of the mouth.
 
 Usually mouthwashes are antiseptic solutions intended to reduce the microbial load in the oral cavity, although other mouthwashes might be given for other reasons such as for their analgesic, anti-inflammatory or anti-fungal action. Additionally, some rinses act as saliva substitutes to neutralize acid and keep the mouth moist in xerostomia (dry mouth).[2][3] Cosmetic mouthrinses temporarily control or reduce bad breath and leave the mouth with a pleasant taste.[4]
 
@@ -23,7 +23,7 @@ Prescription mouthwashes are used prior to and after oral surgery procedures suc
 
 History
 
-Listerine_advertisement,_1932.jpg Katalog_vintern_1905-1906._AB_Nordiska_Kompaniet._Hår-,_Toalett-_&_Tandvatten,_Pomada_&_Brilliantine_-_Nordiska_Museet_-_NMA.0040796.jpg The first known references to mouth rinsing is in Ayurveda[27] for treatment of gingivitis.[28] Later, in the Greek and Roman periods, mouth rinsing following mechanical cleansing became common among the upper classes, and Hippocrates recommended a mixture of salt, alum, and vinegar.[29] The Jewish Talmud, dating back about 1,800 years, suggests a cure for gum ailments containing "dough water" and olive oil.[30]
+The first known references to mouth rinsing is in Ayurveda[27] for treatment of gingivitis.[28] Later, in the Greek and Roman periods, mouth rinsing following mechanical cleansing became common among the upper classes, and Hippocrates recommended a mixture of salt, alum, and vinegar.[29] The Jewish Talmud, dating back about 1,800 years, suggests a cure for gum ailments containing "dough water" and olive oil.[30]
 
 Before Europeans came to the Americas, Native North American and Mesoamerican cultures used mouthwashes, often made from plants such as _Coptis trifolia_.[31] Indeed, Aztec dentistry was more advanced than European dentistry of the age.[32] Peoples of the Americas used salt water mouthwashes for sore throats, and other mouthwashes for problems such as teething and mouth ulcers.[33]
 
@@ -43,7 +43,7 @@ Ingredients
 
 Alcohol
 
-Colgate_Alcohol_Free_Mouthwash.jpg Alcohol is added to mouthwash not to destroy bacteria but to act as a carrier agent for essential active ingredients such as menthol, eucalyptol and thymol which help to penetrate plaque.[44] Sometimes a significant amount of alcohol (up to 27% vol) is added,[45] as a carrier for the flavor, to provide "bite".[46] Because of the alcohol content, it is possible to fail a breathalyzer test after rinsing although breath alcohol levels return to normal after 10 minutes.[47] In addition, alcohol is a drying agent, which encourages bacterial activity in the mouth, releasing more malodorous volatile sulfur compounds. Therefore, alcohol-containing mouthwash may temporarily worsen halitosis in those who already have it, or indeed be the sole cause of halitosis in other individuals.[48]
+Alcohol is added to mouthwash not to destroy bacteria but to act as a carrier agent for essential active ingredients such as menthol, eucalyptol and thymol which help to penetrate plaque.[44] Sometimes a significant amount of alcohol (up to 27% vol) is added,[45] as a carrier for the flavor, to provide "bite".[46] Because of the alcohol content, it is possible to fail a breathalyzer test after rinsing although breath alcohol levels return to normal after 10 minutes.[47] In addition, alcohol is a drying agent, which encourages bacterial activity in the mouth, releasing more malodorous volatile sulfur compounds. Therefore, alcohol-containing mouthwash may temporarily worsen halitosis in those who already have it, or indeed be the sole cause of halitosis in other individuals.[48]
 
 It is hypothesized that alcohol mouthwashes acts as a carcinogen (cancer-inducing). Generally, there is no scientific consensus about this.[49][50][51] One review stated:
 

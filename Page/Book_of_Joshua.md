@@ -5,7 +5,7 @@ Almost all scholars agree that the Book of Joshua holds little historical value 
 
 Contents
 
-Dore_joshua_crossing.jpg)]]
+)]]
 
 Structure
 
@@ -62,7 +62,7 @@ God commissions Joshua to take possession of the land and warns him to keep fait
 
 Entry into the land and conquest (chapters 2–12)
 
-James_Jacques_Joseph_Tissot_-_The_Ark_Passes_Over_the_Jordan_-_Google_Art_Project.jpg)]] The Israelites cross the Jordan River through the miraculous intervention of God and the Ark of the Covenant and are circumcised at Gibeath-Haaraloth (translated as _hill of foreskins_), renamed Gilgal in memory. _Gilgal_ sounds like _Gallothi_, "_I have removed_", but is more likely to translate as "_circle of standing stones_". The conquest begins with the battle of Jericho, followed by Ai (central Canaan), after which Joshua builds an altar to Yahweh at Mount Ebal in northern Canaan and renews the Covenant in a ceremony has elements of a divine land-grant ceremony, similar to ceremonies known from Mesopotamia.[7]
+)]] The Israelites cross the Jordan River through the miraculous intervention of God and the Ark of the Covenant and are circumcised at Gibeath-Haaraloth (translated as _hill of foreskins_), renamed Gilgal in memory. _Gilgal_ sounds like _Gallothi_, "_I have removed_", but is more likely to translate as "_circle of standing stones_". The conquest begins with the battle of Jericho, followed by Ai (central Canaan), after which Joshua builds an altar to Yahweh at Mount Ebal in northern Canaan and renews the Covenant in a ceremony has elements of a divine land-grant ceremony, similar to ceremonies known from Mesopotamia.[7]
 
 The narrative then switches to the south. The Gibeonites trick the Israelites into entering an alliance with them by saying that they are not Canaanites. This prevents the Israelites from exterminating them, but they are enslaved instead. An alliance of Amorite kingdoms headed by the Canaanite king of Jerusalem is defeated with Yahweh's miraculous help of stopping the Sun and the Moon, and hurling down large hailstones (Joshua 10:10–14). The enemy kings were eventually hanged on trees. The Deuteronomist author may have used the then-recent 701 BCE campaign of the Assyrian king Sennacherib in the Kingdom of Judah as his model; the hanging of the captured kings is in accordance with Assyrian practice of the 8th century BCE.[8]
 
@@ -73,7 +73,7 @@ With the south conquered the narrative moves to the northern campaign. A powerfu
 
 Division of the land (chapters 13–22)
 
-The_map_of_the_Holy_Land_by_Marino_Sanudo_(drawn_in_1320).jpg, Pietro Vesconte, 1321, showing the allotments of the tribes of Israel. Described by Adolf Erik Nordenskiöld as "the first non-Ptolemaic map of a definite country"[9]]] 1759_map_Holy_Land_and_12_Tribes.jpg Having described how the Israelites and Joshua have carried out the first of their God's commands, the narrative now turns to the second: to "put the people in possession of the land." Joshua is "old, advanced (or stricken) in years" by this time (Joshua 13:1).
+, Pietro Vesconte, 1321, showing the allotments of the tribes of Israel. Described by Adolf Erik Nordenskiöld as "the first non-Ptolemaic map of a definite country"[9]]] Having described how the Israelites and Joshua have carried out the first of their God's commands, the narrative now turns to the second: to "put the people in possession of the land." Joshua is "old, advanced (or stricken) in years" by this time (Joshua 13:1).
 
 This land distribution is a "covenantal land grant": Yahweh, as king, is issuing each tribe its territory.[10] The "Cities of Refuge" and Levitical cities are attached to the end, since it is necessary for the tribes to receive their grants before they allocate parts of it to others. The Transjordanian tribes are dismissed, affirming their loyalty to Yahweh.
 
@@ -108,7 +108,7 @@ In some manuscripts and editions of the Septuagint, there is an additional verse
 
 Composition
 
-Prise_de_Jéricho.jpg, c.1452–1460)]]
+, c.1452–1460)]]
 
 Authorship and date
 
@@ -116,7 +116,7 @@ The Book of Joshua is an anonymous work. The Babylonian Talmud, written in the 3
 
 Historicity
 
-Shemesh_Givon_Dom_1.jpg)]] The prevailing scholarly view is that Joshua is not a factual account of historical events.[22][23] The apparent setting of Joshua is the 13th century BCE[24] which was a time of widespread city-destruction, but with a few exceptions (Hazor, Lachish) the destroyed cities are not the ones the Bible associates with Joshua, and the ones it does associate with him show little or no sign of even being occupied at the time.[25] Given its lack of historicity, Carolyn Pressler in her commentary for the _Westminster Bible Companion_ series suggests that readers of Joshua should give priority to its theological message ("what passages teach about God") and be aware of what these would have meant to audiences in the 7th and 6th centuries BCE.[26] Richard Nelson explained that the needs of the centralised monarchy favoured a single story of origins, combining old traditions of an exodus from Egypt, belief in a national god as "divine warrior," and explanations for ruined cities, social stratification and ethnic groups, and contemporary tribes.[27]
+)]] The prevailing scholarly view is that Joshua is not a factual account of historical events.[22][23] The apparent setting of Joshua is the 13th century BCE[24] which was a time of widespread city-destruction, but with a few exceptions (Hazor, Lachish) the destroyed cities are not the ones the Bible associates with Joshua, and the ones it does associate with him show little or no sign of even being occupied at the time.[25] Given its lack of historicity, Carolyn Pressler in her commentary for the _Westminster Bible Companion_ series suggests that readers of Joshua should give priority to its theological message ("what passages teach about God") and be aware of what these would have meant to audiences in the 7th and 6th centuries BCE.[26] Richard Nelson explained that the needs of the centralised monarchy favoured a single story of origins, combining old traditions of an exodus from Egypt, belief in a national god as "divine warrior," and explanations for ruined cities, social stratification and ethnic groups, and contemporary tribes.[27]
 
 In the 1930s Martin Noth made a sweeping criticism of the usefulness of the Book of Joshua for history.[28] Noth was a student of Albrecht Alt, who emphasized form criticism and the importance of etiology.[29][30] Alt and Noth posited a peaceful movement of the Israelites into various areas of Canaan, _contra_ the Biblical account.[31]
 
@@ -131,7 +131,7 @@ The Book of Joshua holds little historical value. The archaeological evidence sh
 
 Themes
 
-JoshuaSun_Martin.jpg)]]
+)]]
 
 Faith and wrath
 
@@ -147,7 +147,7 @@ Land is the central topic of Joshua.[48] The introduction to Deuteronomy recalle
 
 The enemy
 
-Tissot_The_Taking_of_Jericho.jpg Joshua "carries out a systematic campaign against the civilians of Canaan — men, women and children — that amounts to genocide."[51] In doing this he is carrying out _herem_ as commanded by Yahweh in Deuteronomy 20:17: "You shall not leave alive anything that breathes". The purpose is to drive out and dispossess the Canaanites, with the implication that there are to be no treaties with the enemy, no mercy, and no intermarriage.[52] "The extermination of the nations glorifies Yahweh as a warrior and promotes Israel's claim to the land," while their continued survival "explores the themes of disobedience and penalty and looks forward to the story told in Judges and Kings."[53] The divine call for massacre at Jericho and elsewhere can be explained in terms of cultural norms (Israel was not the only Iron Age state to practice _herem_) and theology (a measure to ensure Israel's purity as well as the fulfillment of God's promise),[54] but Patrick D. Miller in his commentary on Deuteronomy remarks, "there is no real way to make such reports palatable to the hearts and minds of contemporary readers and believers."[55]
+Joshua "carries out a systematic campaign against the civilians of Canaan — men, women and children — that amounts to genocide."[51] In doing this he is carrying out _herem_ as commanded by Yahweh in Deuteronomy 20:17: "You shall not leave alive anything that breathes". The purpose is to drive out and dispossess the Canaanites, with the implication that there are to be no treaties with the enemy, no mercy, and no intermarriage.[52] "The extermination of the nations glorifies Yahweh as a warrior and promotes Israel's claim to the land," while their continued survival "explores the themes of disobedience and penalty and looks forward to the story told in Judges and Kings."[53] The divine call for massacre at Jericho and elsewhere can be explained in terms of cultural norms (Israel was not the only Iron Age state to practice _herem_) and theology (a measure to ensure Israel's purity as well as the fulfillment of God's promise),[54] but Patrick D. Miller in his commentary on Deuteronomy remarks, "there is no real way to make such reports palatable to the hearts and minds of contemporary readers and believers."[55]
 
 Obedience
 
@@ -173,7 +173,7 @@ Some of the parallels with Moses can be seen in the following, and not exhaustiv
 
 Moral and political interpretations
 
-Joshua_Leading_the_Israelites_Across_the_Jordan_on_10th_of_Nisan.jpg Joshua has become an iconic figure for the Jewish Zionist movement, and many Israeli settlements sit on land taken by force from Palestinians. David Ben-Gurion saw in the war narrative of Joshua an ideal basis for a unifying national myth for his new State of Israel, framed against a common enemy, the Arabs. He met with politicians and scholars such as Bible scholar Shemaryahu Talmon to discuss Joshua's supposed conquests and later published a book of the meeting transcripts; in a lecture at Ben-Gurion's home, archaeologist Yigael Yadin argued for the historicity of the Israelite military campaign pointing to the conquests of Hazor, Bethel, and Lachish. Zionism thus presented the 1948 war (the war which saw the creation of the State of Israel) as a "miraculous" clearing of the land based on Joshua, and the Bible as a mandate for the expulsion of the Palestinians.
+Joshua has become an iconic figure for the Jewish Zionist movement, and many Israeli settlements sit on land taken by force from Palestinians. David Ben-Gurion saw in the war narrative of Joshua an ideal basis for a unifying national myth for his new State of Israel, framed against a common enemy, the Arabs. He met with politicians and scholars such as Bible scholar Shemaryahu Talmon to discuss Joshua's supposed conquests and later published a book of the meeting transcripts; in a lecture at Ben-Gurion's home, archaeologist Yigael Yadin argued for the historicity of the Israelite military campaign pointing to the conquests of Hazor, Bethel, and Lachish. Zionism thus presented the 1948 war (the war which saw the creation of the State of Israel) as a "miraculous" clearing of the land based on Joshua, and the Bible as a mandate for the expulsion of the Palestinians.
 
 By the same token, the Biblical narrative of conquest has been used as an apparatus of critique against Zionism. For example, Michael Prior criticizes the use of the campaign in Joshua to favor "colonial enterprises" (in general, not only Zionism) and have been interpreted as validating ethnic cleansing. He asserts that the Bible was used to make the treatment of Palestinians more palatable morally.[61] A related moral condemnation can be seen in "The political sacralization of imperial genocide: contextualizing Timothy Dwight's _The Conquest of Canaan_" by Bill Templer.[62] This kind of critique is not new; Jonathan Boyarin notes how Frederick W. Turner blamed Israel's monotheism for the very idea of genocide, which Boyarin found "simplistic" yet with precedents.[63]
 

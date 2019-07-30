@@ -11,7 +11,7 @@ The flesh of abalones is widely considered to be a desirable food, and is consum
 
 Description
 
-AbaloneInside.jpg surface inside a red abalone shell from Northern California (the adjacent coin is 25 mm in diameter)]]
+surface inside a red abalone shell from Northern California (the adjacent coin is 25 mm in diameter)]]
 
 Abalone vary in size from (_Haliotis pulcherrima_) to while _Haliotis rufescens_ is the largest of the genus at .[7]
 
@@ -30,7 +30,7 @@ The adults provide no further assistance to the larvae and they are described as
 
 Distribution
 
-Abalone_Santo_Andre_Povoa_de_Varzim.jpg, Portugal]] The haliotid family has a worldwide distribution, along the coastal waters of every continent, except the Pacific coast of South America, the East Coast of the United States, the Arctic, and Antarctica.[11] The majority of abalone species are found in cold waters, such as off the coasts of New Zealand, South Africa, Australia, Western North America, and Japan.
+, Portugal]] The haliotid family has a worldwide distribution, along the coastal waters of every continent, except the Pacific coast of South America, the East Coast of the United States, the Arctic, and Antarctica.[11] The majority of abalone species are found in cold waters, such as off the coasts of New Zealand, South Africa, Australia, Western North America, and Japan.
 
 
 Structure and properties of the shell
@@ -49,7 +49,7 @@ The meat (foot muscle) of abalone is used for food, and the shells of abalone ar
 
 Farming
 
-Abalone-farm1web.jpg Alaminosjf384.JPG Alaminosjf385.JPG, (Oceanographic Marine Laboratory, Lucap, Alaminos, Pangasinan, Philippines, 2011)]] Farming of abalone began in the late 1950s and early 1960s in Japan and China.[18] Since the mid-1990s, there have been many increasingly successful endeavors to commercially farm abalone for the purpose of consumption.[19] Overfishing and poaching have reduced wild populations to such an extent that farmed abalone now supplies most of the abalone meat consumed. The principal abalone farming regions are China, Taiwan,[20] Japan, and Korea. Abalone is also farmed in Australia, Canada, Chile, France,[21] Iceland, Ireland, Mexico, Namibia, New Zealand, South Africa, Spain,[22] Thailand, and the United States.[23]
+, (Oceanographic Marine Laboratory, Lucap, Alaminos, Pangasinan, Philippines, 2011)]] Farming of abalone began in the late 1950s and early 1960s in Japan and China.[18] Since the mid-1990s, there have been many increasingly successful endeavors to commercially farm abalone for the purpose of consumption.[19] Overfishing and poaching have reduced wild populations to such an extent that farmed abalone now supplies most of the abalone meat consumed. The principal abalone farming regions are China, Taiwan,[20] Japan, and Korea. Abalone is also farmed in Australia, Canada, Chile, France,[21] Iceland, Ireland, Mexico, Namibia, New Zealand, South Africa, Spain,[22] Thailand, and the United States.[23]
 
 After trials in 2012,[24] a commercial "sea ranch" was set up in Flinders Bay, Western Australia to raise abalone. The ranch is based on an artificial reef made up of 5000 () separate concrete units called _abitats_ (abalone habitats). The habitats can host 400 abalone each. The reef is seeded with young abalone from an onshore hatchery.
 
@@ -79,7 +79,7 @@ Victoria has had an active abalone fishery since the late 1950s. The state is se
 
 United States
 
-Workers_drying_abalone_shells_in_the_sun_in_southern_California_(CHS-1399).jpg Japanese_Abalone_Diver.jpg Two highly endangered white abalone: Prohibitions on commercial and recreational harvest of this species have been in place since 1996. Sport harvesting of red abalone is permitted with a California fishing license and an abalone stamp card. In 2008, the abalone card also came with a set of 24 tags. This was reduced to 18 abalone per year in 2014, and as of 2017 the limit has been reduced to 12, only nine of which may be taken south of Mendocino County. Legal-size abalone must be tagged immediately.[38] Abalone may only be taken using breath-hold techniques or shorepicking; scuba diving for abalone is strictly prohibited.[39] Taking of abalone is not permitted south of the mouth of the San Francisco Bay.[40] A size minimum of measured across the shell is in place. A person may be in possession of only three abalone at any given time.[41][42]
+Sport harvesting of red abalone is permitted with a California fishing license and an abalone stamp card. In 2008, the abalone card also came with a set of 24 tags. This was reduced to 18 abalone per year in 2014, and as of 2017 the limit has been reduced to 12, only nine of which may be taken south of Mendocino County. Legal-size abalone must be tagged immediately.[38] Abalone may only be taken using breath-hold techniques or shorepicking; scuba diving for abalone is strictly prohibited.[39] Taking of abalone is not permitted south of the mouth of the San Francisco Bay.[40] A size minimum of measured across the shell is in place. A person may be in possession of only three abalone at any given time.[41][42]
 
 As of 2017, Abalone season is May to October, excluding July. Transportation of abalone may only legally occur while the abalone is still attached in the shell. Sale of sport-obtained abalone is illegal, including the shell. Only red abalone may be taken, as black, white, pink, flat, green, and pinto abalone are protected by law.[43] In 2018, The California Fish and Game Commission closed recreational abalone season due to dramatically declining populations. That year, they extended the moratorium to last through April, 2021.[44]
 

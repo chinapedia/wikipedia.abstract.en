@@ -3,7 +3,7 @@ ALFRED HABDANK SKARBEK KORZYBSKI (; July 3, 1879 – March 1, 1950) was a Polish
 
 Early life and career
 
-Herb_Abdank.svg).]] Born in Warsaw, Poland, then part of the Russian Empire, Korzybski belonged to an aristocratic Polish family whose members had worked as mathematicians, scientists, and engineers for generations. He learned the Polish language at home and the Russian language in schools; and having a French and German governess, he became fluent in four languages as a child.
+).]] Born in Warsaw, Poland, then part of the Russian Empire, Korzybski belonged to an aristocratic Polish family whose members had worked as mathematicians, scientists, and engineers for generations. He learned the Polish language at home and the Russian language in schools; and having a French and German governess, he became fluent in four languages as a child.
 
 Korzybski studied engineering at the Warsaw University of Technology. During the First World War (1914-1918) Korzybski served as an intelligence officer in the Russian Army. After being wounded in a leg and suffering other injuries, he moved to North America in 1916 (first to Canada, then to the United States) to coordinate the shipment of artillery to Russia. He also lectured to Polish-American audiences about the conflict, promoting the sale of war bonds. After the war he decided to remain in the United States, becoming a naturalized citizen in 1940. He met Mira Edgerly,[1] a painter of portraits on ivory, shortly after the 1918 Armistice; They married in January 1919; the marriage lasted until his death.
 

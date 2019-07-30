@@ -104,7 +104,7 @@ Timeline and modernization
 -   On February 14, 1989, the first modern Block-II satellite was launched.
 -   The Gulf War from 1990 to 1991 was the first conflict in which the military widely used GPS.[52]
 -   In 1991, a project to create a miniature GPS receiver successfully ended, replacing the previous military receivers with a handheld receiver.[53]
--   In 1992, the 2nd Space Wing, which originally managed the system, was inactivated and replaced by the 50th Space Wing.50th_Space_Wing.png]]
+-   In 1992, the 2nd Space Wing, which originally managed the system, was inactivated and replaced by the 50th Space Wing.]]
 -   By December 1993, GPS achieved initial operational capability (IOC), with a full constellation (24 satellites) available and providing the Standard Positioning Service (SPS).[54]
 -   Full Operational Capability (FOC) was declared by Air Force Space Command (AFSPC) in April 1995, signifying full availability of the military's secure Precise Positioning Service (PPS).[55]
 -   In 1996, recognizing the importance of GPS to civilian users as well as military users, U.S. President Bill Clinton issued a policy directive[56] declaring GPS a dual-use system and establishing an Interagency GPS Executive Board to manage it as a national asset.
@@ -122,7 +122,7 @@ Timeline and modernization
 
 Awards
 
-Dr_Gladys_West.jpg with an award as she is inducted into the Air Force Space and Missile Pioneers Hall of Fame for her GPS work on Dec. 6, 2018.]] On February 10, 1993, the National Aeronautic Association selected the GPS Team as winners of the 1992 Robert J. Collier Trophy, the nation's most prestigious aviation award. This team combines researchers from the Naval Research Laboratory, the USAF, the Aerospace Corporation, Rockwell International Corporation, and IBM Federal Systems Company. The citation honors them "for the most significant development for safe and efficient navigation and surveillance of air and spacecraft since the introduction of radio navigation 50 years ago."
+with an award as she is inducted into the Air Force Space and Missile Pioneers Hall of Fame for her GPS work on Dec. 6, 2018.]] On February 10, 1993, the National Aeronautic Association selected the GPS Team as winners of the 1992 Robert J. Collier Trophy, the nation's most prestigious aviation award. This team combines researchers from the Naval Research Laboratory, the USAF, the Aerospace Corporation, Rockwell International Corporation, and IBM Federal Systems Company. The citation honors them "for the most significant development for safe and efficient navigation and surveillance of air and spacecraft since the introduction of radio navigation 50 years ago."
 
 Two GPS developers received the National Academy of Engineering Charles Stark Draper Prize for 2003:
 
@@ -188,7 +188,7 @@ The current GPS consists of three major segments. These are the space segment, a
 
 Space segment
 
-Global_Positioning_System_satellite.jpg]] GPS24goldenSML.gif
+]]
 
 The space segment (SS) is composed of 24 to 32 satellites in medium Earth orbit and also includes the payload adapters to the boosters required to launch them into orbit.
 
@@ -200,7 +200,7 @@ Orbiting at an altitude of approximately ; orbital radius of approximately ,[85]
 
 Control segment
 
-GPS_monitor_station.jpg.]]
+.]]
 
 The control segment (CS) is composed of:
 
@@ -234,15 +234,13 @@ The GPS OCX program has missed major milestones and is pushing the GPS IIIA laun
 
 User segment
 
-GPS_Receivers.jpg Leica_WM_101_at_the_National_Science_Museum_at_Maynooth.JPG at Maynooth.]]
+at Maynooth.]]
 
 The user segment (US) is composed of hundreds of thousands of U.S. and allied military users of the secure GPS Precise Positioning Service, and tens of millions of civil, commercial and scientific users of the Standard Positioning Service (see GPS navigation devices). In general, GPS receivers are composed of an antenna, tuned to the frequencies transmitted by the satellites, receiver-processors, and a highly stable clock (often a crystal oscillator). They may also include a display for providing location and speed information to the user. A receiver is often described by its number of channels: this signifies how many satellites it can monitor simultaneously. Originally limited to four or five, this has progressively increased over the years so that, , receivers typically have between 12 and 20 channels. Though there are many receiver manufacturers, they almost all use one of the chipsets produced for this purpose.
 
-j32_1_small.jpg GPS receiver module measuring ]]
+GPS receiver module measuring ]]
 
 GPS receivers may include an input for differential corrections, using the RTCM SC-104 format. This is typically in the form of an RS-232 port at 4,800 bit/s speed. Data is actually sent at a much lower rate, which limits the accuracy of the signal sent using RTCM. Receivers with internal DGPS receivers can outperform those using external RTCM data. , even low-cost units commonly include Wide Area Augmentation System (WAAS) receivers.
-
-SiRF_Star_III_основанный_на_GPS_приёмнике_с_интегрированной_антенной.jpg
 
 Many GPS receivers can relay position data to a PC or other device using the NMEA 0183 protocol. Although this protocol is officially defined by the National Marine Electronics Association (NMEA),[96] references to this protocol have been compiled from public records, allowing open source tools like gpsd to read the protocol without violating intellectual property laws. Other proprietary protocols exist as well, such as the SiRF and MTK protocols. Receivers can interface with other devices using methods including a serial connection, USB, or Bluetooth.
 
@@ -255,7 +253,7 @@ GPS has become a widely deployed and useful tool for commerce, scientific uses, 
 
 Civilian
 
-GPS_roof_antenna_dsc06160.jpg is mounted on the roof of a hut containing a scientific experiment needing precise timing.]]
+is mounted on the roof of a hut containing a scientific experiment needing precise timing.]]
 
 Many civilian applications use one or more of GPS's three basic components: absolute location, relative movement, and time transfer.
 
@@ -295,7 +293,7 @@ These limits only apply to units or components exported from the United States. 
 
 Military
 
-US_Navy_030319-N-4142G-020_Ordnance_handlers_assemble_Joint_Direct_Attack_Munition_(JDAM)_bombs_in_the_forward_mess_decks.jpg, March 2003.]] XM982_Excalibur_inert.jpg GPS-guided artillery shell.]] As of 2009, military GPS applications include:
+, March 2003.]] GPS-guided artillery shell.]] As of 2009, military GPS applications include:
 
 -   Navigation: Soldiers use GPS to find objectives, even in the dark or in unfamiliar territory, and to coordinate troop and supply movement. In the United States armed forces, commanders use the _Commander's Digital Assistant_ and lower ranks use the _Soldier Digital Assistant_.[105]
 -   Target tracking: Various military weapons systems use GPS to track potential ground and air targets before flagging them as hostile. These weapon systems pass target coordinates to precision-guided munitions to allow them to engage targets accurately. Military aircraft, particularly in air-to-ground roles, use GPS to find targets.
@@ -349,7 +347,7 @@ In 2011, a conditional waiver was granted to LightSquared to operate a terrestri
 
 Demodulation and decoding
 
-gps_ca_gold.svg.]]
+.]]
 
 Because all of the satellite signals are modulated onto the same L1 carrier frequency, the signals must be separated after demodulation. This is done by assigning each satellite a unique binary sequence known as a Gold code. The signals are decoded after demodulation using addition of the Gold codes corresponding to the satellites monitored by the receiver.[132][133]
 

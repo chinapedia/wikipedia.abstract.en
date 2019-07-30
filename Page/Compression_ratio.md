@@ -1,5 +1,3 @@
-4-Stroke-Engine-with-airflows.gif
-
 In a combustion engine, the STATIC COMPRESSION RATIO is calculated based on the relative volumes of the combustion chamber and the cylinder. It is a fundamental specification for combustion engines. The DYNAMIC COMPRESSION RATIO is a more advanced calculation which also takes into account gasses entering and exiting the cylinder during the compression phase.
 
 Most engines used a fixed compression ratio, however a variable compression ratio engine is able to adjust the compression ratio while the engine is in operation. The first production engine with a variable compression ratio was introduced in 2019.
@@ -77,8 +75,6 @@ The 2019 Infiniti QX50 is the first commercially available car that uses a varia
 
 
 Relationship with the pressure ratio
-
-Compression_ratio_versus_pressure_ratio.png
 
 Based on the assumptions that adiabatic compression is carried out (i.e. that no heat energy is supplied to the gas being compressed, and that any temperature rise is solely due to the compression) and that air is a perfect gas, the relationship between the compression ratio and overall pressure ratio is as follows:
 

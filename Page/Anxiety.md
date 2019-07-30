@@ -40,7 +40,7 @@ The physiological symptoms of anxiety may include:[30][31]
 
 Types
 
-Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg'', 1894, by Edvard Munch]]
+'', 1894, by Edvard Munch]]
 
 Existential
 
@@ -102,7 +102,7 @@ About 12% of people are affected by an anxiety disorder in a given year and betw
 
 Risk factors
 
-Emperor_Traianus_Decius_(Mary_Harrsch).jpg from the Capitoline Museum. This portrait "conveys an impression of anxiety and weariness, as of a man shouldering heavy [state] responsibilities".[71]]]
+from the Capitoline Museum. This portrait "conveys an impression of anxiety and weariness, as of a man shouldering heavy [state] responsibilities".[71]]]
 
 Neuroanatomy
 
@@ -170,7 +170,7 @@ Joseph E. LeDoux and Lisa Feldman Barrett have both sought to separate automatic
 
 Fear
 
-Los_Angeles,_California._Lockheed_Employment._A_worried_applicant_waiting_to_be_interviewed_-_NARA_-_532210.tif Anxiety is distinguished from fear, which is an appropriate cognitive and emotional response to a perceived threat.[139] Anxiety is related to the specific behaviors of fight-or-flight responses, defensive behavior or escape. It occurs in situations only perceived as uncontrollable or unavoidable, but not realistically so.[140] David Barlow defines anxiety as "a future-oriented mood state in which one is not ready or prepared to attempt to cope with upcoming negative events,"[141] and that it is a distinction between future and present dangers which divides anxiety and fear. Another description of anxiety is agony, dread, terror, or even apprehension.[142] In positive psychology, anxiety is described as the mental state that results from a difficult challenge for which the subject has insufficient coping skills.[143]
+Anxiety is distinguished from fear, which is an appropriate cognitive and emotional response to a perceived threat.[139] Anxiety is related to the specific behaviors of fight-or-flight responses, defensive behavior or escape. It occurs in situations only perceived as uncontrollable or unavoidable, but not realistically so.[140] David Barlow defines anxiety as "a future-oriented mood state in which one is not ready or prepared to attempt to cope with upcoming negative events,"[141] and that it is a distinction between future and present dangers which divides anxiety and fear. Another description of anxiety is agony, dread, terror, or even apprehension.[142] In positive psychology, anxiety is described as the mental state that results from a difficult challenge for which the subject has insufficient coping skills.[143]
 
 Fear and anxiety can be differentiated in four domains: (1) duration of emotional experience, (2) temporal focus, (3) specificity of the threat, and (4) motivated direction. Fear is short lived, present focused, geared towards a specific threat, and facilitating escape from threat; anxiety, on the other hand, is long-acting, future focused, broadly focused towards a diffuse threat, and promoting excessive caution while approaching a potential threat and interferes with constructive coping.[144]
 

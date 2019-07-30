@@ -3,13 +3,13 @@ ELI WHITNEY (December 8, 1765January 8, 1825) was an American inventor best know
 
 Early life and education
 
-Coat_of_Arms_of_Eli_Whitney.svg Whitney was born in Westborough, Massachusetts, on December 8, 1765, the eldest child of Eli Whitney Sr., a prosperous farmer, and his wife Elizabeth Fay, also of Westborough.
+Whitney was born in Westborough, Massachusetts, on December 8, 1765, the eldest child of Eli Whitney Sr., a prosperous farmer, and his wife Elizabeth Fay, also of Westborough.
 
 Although the younger Eli, born in 1765, could technically be called a "Junior", history has never known him as such. He was famous during his lifetime and afterward by the name "Eli Whitney". His son, born in 1820, also named Eli, was well known during his lifetime and afterward by the name "Eli Whitney, Jr."
 
 Whitney's mother, Elizabeth Fay, died in 1777, when he was 11.[2] At age 14 he operated a profitable nail manufacturing operation in his father's workshop during the Revolutionary War.[3]
 
-Because his stepmother opposed his wish to attend college, Whitney worked as a farm laborer and school teacher to save money. He prepared for Yale at Leicester Academy (now Becker College) and under the tutelage of Rev. Elizur Goodrich of Durham, Connecticut, he entered in the fall of 1789 and graduated Phi Beta Kappa in 1792.[4][5] Whitney expected to study law but, finding himself short of funds, accepted an offer to go to South Carolina as a private tutor. Petition_of_Eli_Whitney_to_Selectmen_of_Westborough_Massachusetts.jpg of Westborough, Massachusetts, to run a public school, with sample of his penmanship]]
+Because his stepmother opposed his wish to attend college, Whitney worked as a farm laborer and school teacher to save money. He prepared for Yale at Leicester Academy (now Becker College) and under the tutelage of Rev. Elizur Goodrich of Durham, Connecticut, he entered in the fall of 1789 and graduated Phi Beta Kappa in 1792.[4][5] Whitney expected to study law but, finding himself short of funds, accepted an offer to go to South Carolina as a private tutor. of Westborough, Massachusetts, to run a public school, with sample of his penmanship]]
 
 Instead of reaching his destination, he was convinced to visit Georgia.[6] In the closing years of the 18th century, Georgia was a magnet for New Englanders seeking their fortunes (its Revolutionary-era governor had been Lyman Hall, a migrant from Connecticut). When he initially sailed for South Carolina, among his shipmates were the widow (Catherine Littlefield Greene) and family of the Revolutionary hero Gen. Nathanael Greene of Rhode Island. Mrs. Greene invited Whitney to visit her Georgia plantation, Mulberry Grove. Her plantation manager and husband-to-be was Phineas Miller, another Connecticut migrant and Yale graduate (class of 1785), who would become Whitney's business partner.
 
@@ -20,7 +20,7 @@ Whitney is most famous for two innovations which came to have significant impact
 
 Cotton gin
 
-Cotton_gin_harpers.jpg Whitney_Gin.jpg Cotton_gin_EWM_2007.jpg.]]
+.]]
 
 The cotton gin is a mechanical device that removes the seeds from cotton, a process that had previously been extremely labor-intensive. The word _gin_ is short for _engine._ While staying at Mulberry Grove, Whitney constructed several ingenious household devices which led Mrs Greene to introduce him to some businessmen who were discussing the desirability of a machine to separate the short staple upland cotton from its seeds, work that was then done by hand at the rate of a pound of lint a day. In a few weeks Whitney produced a model. The cotton gin was a wooden drum stuck with hooks that pulled the cotton fibers through a mesh. The cotton seeds would not fit through the mesh and fell outside. Whitney occasionally told a story wherein he was pondering an improved method of seeding the cotton when he was inspired by observing a cat attempting to pull a chicken through a fence, and able to only pull through some of the feathers.[8]
 
@@ -36,13 +36,13 @@ Paradoxically, the cotton gin, a labor-saving device, helped preserve and prolon
 
 Interchangeable parts
 
-Eli_Whitney's_first_contract_as_a_gunfounder_signed_by_Oliver_Ellsworth_1786.jpg, Secretary of the Treasury.]] Eli Whitney has often been incorrectly credited with inventing the idea of interchangeable parts, which he championed for years as a maker of muskets; however, the idea predated Whitney, and Whitney's role in it was one of promotion and popularizing, not invention.[16] Successful implementation of the idea eluded Whitney until near the end of his life, occurring first in others' armories.
+, Secretary of the Treasury.]] Eli Whitney has often been incorrectly credited with inventing the idea of interchangeable parts, which he championed for years as a maker of muskets; however, the idea predated Whitney, and Whitney's role in it was one of promotion and popularizing, not invention.[16] Successful implementation of the idea eluded Whitney until near the end of his life, occurring first in others' armories.
 
 Attempts at interchangeability of parts can be traced back as far as the Punic Wars through both archaeological remains of boats now in Museo Archeologico Baglio Anselmi and contemporary written accounts. In modern times the idea developed over decades among many people. An early leader was Jean-Baptiste Vaquette de Gribeauval, an 18th-century French artillerist who created a fair amount of standardization of artillery pieces, although not true interchangeability of parts. He inspired others, including Honoré Blanc and Louis de Tousard, to work further on the idea, and on shoulder weapons as well as artillery. In the 19th century these efforts produced the "armory system," or American system of manufacturing. Certain other New Englanders, including Captain John H. Hall and Simeon North, arrived at successful interchangeability before Whitney's armory did. The Whitney armory finally succeeded not long after his death in 1825.
 
 The motives behind Whitney's acceptance of a contract to manufacture muskets in 1798 were mostly monetary. By the late 1790s, Whitney was on the verge of bankruptcy and the cotton gin litigation had left him deeply in debt. His New Haven cotton gin factory had burned to the ground, and litigation sapped his remaining resources. The French Revolution had ignited new conflicts between Great Britain, France, and the United States. The new American government, realizing the need to prepare for war, began to rearm. The War Department issued contracts for the manufacture of 10,000 muskets. Whitney, who had never made a gun in his life, obtained a contract in January 1798 to deliver 10,000 to 15,000 muskets in 1800. He had not mentioned interchangeable parts at that time. Ten months later, the Treasury Secretary, Oliver Wolcott, Jr., sent him a "foreign pamphlet on arms manufacturing techniques," possibly one of Honoré Blanc's reports, after which Whitney first began to talk about interchangeability.
 
-Eli_Whitney_Gun_Factory_William_Giles_Munson_1827.jpg In May 1798, Congress voted for legislation that would use eight hundred thousand dollars in order to pay for small arms and cannons in case war with France erupted. It offered a 5,000 dollar incentive with an additional 5,000 dollars once that money was exhausted for the person that was able to accurately produce arms for the government. Because the cotton gin had not brought Whitney the rewards he believed it promised, he accepted the offer. Although the contract was for one year, Whitney did not deliver the arms until 1809, using multiple excuses for the delay. Recently, historians have found that during 1801–1806, Whitney took the money and headed into South Carolina in order to profit from the cotton gin.[17]
+In May 1798, Congress voted for legislation that would use eight hundred thousand dollars in order to pay for small arms and cannons in case war with France erupted. It offered a 5,000 dollar incentive with an additional 5,000 dollars once that money was exhausted for the person that was able to accurately produce arms for the government. Because the cotton gin had not brought Whitney the rewards he believed it promised, he accepted the offer. Although the contract was for one year, Whitney did not deliver the arms until 1809, using multiple excuses for the delay. Recently, historians have found that during 1801–1806, Whitney took the money and headed into South Carolina in order to profit from the cotton gin.[17]
 
 Although Whitney's demonstration of 1801 appeared to show the feasibility of creating interchangeable parts, Merritt Roe Smith concludes that it was "staged" and "duped government authorities" into believing that he had been successful. The charade gained him time and resources toward achieving that goal.[18]
 
@@ -55,7 +55,7 @@ Machine tool historian Joseph W. Roe credited Whitney with inventing the first m
 
 Later life and legacy
 
-Eli_Whitney_1940_Issue-1c.jpg, 1c]] EliWhitneyGraveSouthSideGroveStCemeteryNewHavenCT04152008.JPG, New Haven, Connecticut]]
+, 1c]] , New Haven, Connecticut]]
 
 Despite his humble origins, Whitney was keenly aware of the value of social and political connections. In building his arms business, he took full advantage of the access that his status as a Yale alumnus gave him to other well-placed graduates, such as Oliver Wolcott, Jr., Secretary of the Treasury (class of 1778), and James Hillhouse, a New Haven developer and political leader.
 

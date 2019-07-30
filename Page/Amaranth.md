@@ -7,7 +7,7 @@ _AMARANTHUS_, collectively known as AMARANTH,[1] is a cosmopolitan genus of annu
 
 Taxonomy
 
-Día_de_muertos.jpg in Mexico]] Dulce_de_amaranto..JPG _Amaranthus_ shows a wide variety of morphological diversity among and even within certain species. Although the family (Amaranthaceae) is distinctive, the genus has few distinguishing characters among the 70 species included.[5] This complicates taxonomy and _Amaranthus_ has generally been considered among systematists as a "difficult" genus.[6]
+in Mexico]] _Amaranthus_ shows a wide variety of morphological diversity among and even within certain species. Although the family (Amaranthaceae) is distinctive, the genus has few distinguishing characters among the 70 species included.[5] This complicates taxonomy and _Amaranthus_ has generally been considered among systematists as a "difficult" genus.[6]
 
 Formerly, Sauer (1955) classified the genus into two subgenera, differentiating only between monoecious and dioecious species: _Acnida_ (L.) Aellen ex K.R. Robertson and _Amaranthus_.[7] Although this classification was widely accepted, further infrageneric classification was (and still is) needed to differentiate this widely diverse group.
 
@@ -82,8 +82,6 @@ Amaranth grain contains phytochemicals that are not defined as nutrients and may
 
 Human uses
 
-Tostando_amaranto_en_comal_de_barro.jpg
-
 History
 
 Known to the Aztecs as ,[21] amaranth is thought to have represented up to 80% of their energy consumption before the Spanish conquest. Another important use of amaranth throughout Mesoamerica was in ritual drinks and foods. To this day, amaranth grains are toasted much like popcorn and mixed with honey, molasses, or chocolate to make a treat called , meaning "joy" in Spanish. Diego Durán described the festivities for the Aztec god (whose name means "left side of the hummingbird"; hummingbirds feed on amaranth flowers). The Aztec month of (7 December to 26 December) was dedicated to . People decorated their homes and trees with paper flags; ritual races, processions, dances, songs, prayers, and finally human sacrifices were held. This was one of the more important Aztec festivals, and the people prepared for the whole month. They fasted or ate very little; a statue of the god was made out of amaranth seeds and honey, and at the end of the month, it was cut into small pieces so everybody could eat a piece of the god. After the Spanish conquest, cultivation of amaranth was outlawed, while some of the festivities were subsumed into the Christmas celebration.
@@ -129,7 +127,7 @@ The flowers of the 'Hopi Red Dye' amaranth were used by the Hopi (a tribe in the
 
 Ornamentals
 
-Amaranthus_flowers.jpg The genus also contains several well-known ornamental plants, such as _Amaranthus caudatus_ (love-lies-bleeding), a vigorous, hardy annual with dark purplish flowers crowded in handsome drooping spikes. Another Indian annual, _A. hypochondriacus_ (prince's feather), has deeply veined, lance-shaped leaves, purple on the under face, and deep crimson flowers densely packed on erect spikes.
+The genus also contains several well-known ornamental plants, such as _Amaranthus caudatus_ (love-lies-bleeding), a vigorous, hardy annual with dark purplish flowers crowded in handsome drooping spikes. Another Indian annual, _A. hypochondriacus_ (prince's feather), has deeply veined, lance-shaped leaves, purple on the under face, and deep crimson flowers densely packed on erect spikes.
 
 Amaranths are recorded as food plants for some Lepidoptera (butterfly and moth) species including the nutmeg moth and various case-bearer moths of the genus _Coleophora_: _C. amaranthella_, _C. enchorda_ (feeds exclusively on _Amaranthus_), _C. immortalis_ (feeds exclusively on _Amaranthus_), _C. lineapulvella_, and _C. versurella_ (recorded on _A. spinosus_).
 

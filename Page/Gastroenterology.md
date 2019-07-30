@@ -1,4 +1,4 @@
-{{ infobox medical speciality | title = Gastroenterology | subdivisions = | image = Stomach_colon_rectum_diagram-en.svg | caption = Illustration of the stomach, colon and rectum. | system = Gastrointestinal | diseases = Gastrointestinal cancers, Gastrointestinal bleeding, Liver cirrhosis, Gallstones, Gastroenteritis, Inflammatory bowel disease | tests = Colonoscopy, Stool test, Barium swallows, Endoscopy | specialist = Gastroenterologist | glossary = Glossary of medicine }}
+{{ infobox medical speciality | title = Gastroenterology | subdivisions = | image = | caption = Illustration of the stomach, colon and rectum. | system = Gastrointestinal | diseases = Gastrointestinal cancers, Gastrointestinal bleeding, Liver cirrhosis, Gallstones, Gastroenteritis, Inflammatory bowel disease | tests = Colonoscopy, Stool test, Barium swallows, Endoscopy | specialist = Gastroenterologist | glossary = Glossary of medicine }}
 
 GASTROENTEROLOGY[1] is the branch of medicine focused on the digestive system and its disorders.
 
@@ -9,7 +9,7 @@ HEPATOLOGY, or HEPATOBILIARY MEDICINE, encompasses the study of the liver, pancr
 
 History
 
-Bozzini_Lichtleiter.jpg]]
+]]
 
 Citing from Egyptian papyri, John F. Nunn identified significant knowledge of gastrointestinal diseases among practicing physicians during the periods of the pharaohs. Irynakhty, of the tenth dynasty, c. 2125 B.C., was a court physician specializing in gastroenterology, sleeping, and proctology.[2]
 
@@ -34,7 +34,7 @@ Nineteenth century:
 -   In 1876, Karl Wilhelm von Kupffer described the properties of some liver cells now called Kupffer cell.
 -   In 1883, Hugo Kronecker and Samuel James Meltzer studied oesophageal manometry in humans.
 
-McClendon_pH-probe.png pH-probe]] Twentieth century:
+pH-probe]] Twentieth century:
 
 -   In 1915, Jesse McClendon tested acidity of human stomach _in situ_.[8]
 -   In 1921-22, Walter Alvarez did the first electrogastrography research.[9]

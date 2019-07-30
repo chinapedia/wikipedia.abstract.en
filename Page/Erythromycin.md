@@ -16,7 +16,7 @@ Erythromycin can be used to treat bacteria responsible for causing infections of
 
 Available forms
 
-000719lg_Enteric_coated_erythomycin.jpg Erythromycin is available in enteric-coated tablets, slow-release capsules, oral suspensions, ophthalmic solutions, ointments, gels, enteric-coated capsules, non enteric-coated tablets, non enteric-coated capsules, and injections. The following erythromycin combinations are available for oral dosage:[22]
+Erythromycin is available in enteric-coated tablets, slow-release capsules, oral suspensions, ophthalmic solutions, ointments, gels, enteric-coated capsules, non enteric-coated tablets, non enteric-coated capsules, and injections. The following erythromycin combinations are available for oral dosage:[22]
 
 -   erythromycin base (capsules, tablets)
 -   erythromycin estolate (capsules, oral suspension, tablets), contraindicated during pregnancy[23]

@@ -9,11 +9,9 @@ The British Rail "double arrow" logo is formed of two interlocked arrows showing
 
 History
 
-British_Railways_filmstrip_(2).jpg
-
 Nationalisation in 1948
 
-70013_Oliver_Cromwell_Carlisle_Kingmoor.jpg'']] The rail transport system in Great Britain developed during the 19th century. After the grouping of 1923 under the Railways Act 1921, there were four large railway companies, each dominating its own geographic area: the Great Western Railway (GWR), the London, Midland and Scottish Railway (LMS), the London and North Eastern Railway (LNER) and the Southern Railway (SR). During World War I the railways were under state control, which continued until 1921. Complete nationalisation had been considered, and the Railways Act 1921[5] is sometimes considered as a precursor to that, but the concept was rejected. Nationalisation was subsequently carried out after World War II, under the Transport Act 1947. This Act made provision for the nationalisation of the network, as part of a policy of nationalising public services by Clement Attlee's Labour Government. British Railways came into existence as the business name of the Railway Executive of the British Transport Commission (BTC) on 1 January 1948 when it took over the assets of the Big Four.[6]
+'']] The rail transport system in Great Britain developed during the 19th century. After the grouping of 1923 under the Railways Act 1921, there were four large railway companies, each dominating its own geographic area: the Great Western Railway (GWR), the London, Midland and Scottish Railway (LMS), the London and North Eastern Railway (LNER) and the Southern Railway (SR). During World War I the railways were under state control, which continued until 1921. Complete nationalisation had been considered, and the Railways Act 1921[5] is sometimes considered as a precursor to that, but the concept was rejected. Nationalisation was subsequently carried out after World War II, under the Transport Act 1947. This Act made provision for the nationalisation of the network, as part of a policy of nationalising public services by Clement Attlee's Labour Government. British Railways came into existence as the business name of the Railway Executive of the British Transport Commission (BTC) on 1 January 1948 when it took over the assets of the Big Four.[6]
 
 There were also joint railways between the Big Four and a few light railways to consider (see list of constituents of British Railways). Excluded from nationalisation were industrial lines like the Oxfordshire Ironstone Railway. The London Underground – publicly owned since 1933 – was also nationalised, becoming the London Transport Executive of the British Transport Commission. The Bicester Military Railway was already run by the government. The electric Liverpool Overhead Railway was also excluded from nationalisation.[7]
 
@@ -36,7 +34,7 @@ The Anglia Region was created in late 1987, its first General Manager being John
 
 1955 Modernisation Plan
 
-Bristol_Pullman_(8226781197).jpg at Bristol Bath Road depot]] The report, latterly known as the "Modernisation Plan",[10] was published in January 1955. It was intended to bring the railway system into the 20th century. A government White Paper produced in 1956 stated that modernisation would help eliminate BR's financial deficit by 1962, but the figures in both this and the original plan were produced for political reasons and not based on detailed analysis.[11] The aim was to increase speed, reliability, safety, and line capacity through a series of measures that would make services more attractive to passengers and freight operators, thus recovering traffic lost to the roads. Important areas included:
+at Bristol Bath Road depot]] The report, latterly known as the "Modernisation Plan",[10] was published in January 1955. It was intended to bring the railway system into the 20th century. A government White Paper produced in 1956 stated that modernisation would help eliminate BR's financial deficit by 1962, but the figures in both this and the original plan were produced for political reasons and not based on detailed analysis.[11] The aim was to increase speed, reliability, safety, and line capacity through a series of measures that would make services more attractive to passengers and freight operators, thus recovering traffic lost to the roads. Important areas included:
 
 -   Electrification of principal main lines, in the Eastern Region, Kent, Birmingham to Liverpool/Manchester and Central Scotland
 -   Large-scale dieselisation to replace steam locomotives
@@ -49,7 +47,7 @@ The government appeared to endorse the 1955 programme (costing £1.2 billion), 
 
 The Beeching reports
 
-Beeching2.svg During the late 1950s, railway finances continued to worsen, whilst passenger numbers grew after restoring many services reduced during the war, and in 1959 the government stepped in, limiting the amount the BTC could spend without ministerial authority. A White Paper proposing reorganisation was published in the following year, and a new structure was brought into effect by the Transport Act 1962.[17] This abolished the Commission and replaced it by several separate Boards. These included a British Railways Board, which took over on 1 January 1963.[18] British_Railways_Delivery_Truck_London_1962.jpg truck in British Railways livery, London, 1962. British Railways was involved in numerous related businesses including road haulage]]
+During the late 1950s, railway finances continued to worsen, whilst passenger numbers grew after restoring many services reduced during the war, and in 1959 the government stepped in, limiting the amount the BTC could spend without ministerial authority. A White Paper proposing reorganisation was published in the following year, and a new structure was brought into effect by the Transport Act 1962.[17] This abolished the Commission and replaced it by several separate Boards. These included a British Railways Board, which took over on 1 January 1963.[18] truck in British Railways livery, London, 1962. British Railways was involved in numerous related businesses including road haulage]]
 
 Following semi-secret discussions on railway finances by the government-appointed Stedeford Committee in 1961, one of its members, Dr Richard Beeching, was offered the post of chairing the BTC while it lasted, and then becoming the first Chairman of the British Railways Board.[19]
 
@@ -69,7 +67,7 @@ The 1980s and 1990s saw the closure of some railways which had survived the Beec
 
 A further British Rail report, from a committee chaired by Sir David Serpell, was published in 1983. The Serpell Report made no recommendations as such, but did set out various options for the network including, at their most extreme, a skeletal system of less than 2000 route km. This report was not welcomed, and the government decided to quietly leave it on the shelf. Meanwhile, BR was gradually reorganised, with the regional structure finally being abolished and replaced with business-led sectors. This process, known as "sectorisation", led to far greater customer focus, but was cut short in 1994 with the splitting up of BR for privatisation.
 
-Charing_Cross_station_geograph-3300926-by-Ben-Brooksbank.jpg with a Networker at Charing Cross serving Kent]] Upon sectorisation in 1982, three passenger sectors were created: InterCity, operating principal express services; London & South East (renamed Network SouthEast in 1986) operating commuter services in the London area; and Provincial (renamed Regional Railways in 1989) responsible for all other passenger services.[30] In the metropolitan counties local services were managed by the Passenger Transport Executives. Provincial was the most subsidised (per passenger km) of the three sectors; upon formation, its costs were four times its revenue.[31]
+with a Networker at Charing Cross serving Kent]] Upon sectorisation in 1982, three passenger sectors were created: InterCity, operating principal express services; London & South East (renamed Network SouthEast in 1986) operating commuter services in the London area; and Provincial (renamed Regional Railways in 1989) responsible for all other passenger services.[30] In the metropolitan counties local services were managed by the Passenger Transport Executives. Provincial was the most subsidised (per passenger km) of the three sectors; upon formation, its costs were four times its revenue.[31]
 
 Because British Railways was such a large operation, running not just railways but also ferries, steamships and hotels, it has been considered difficult to analyse the effects of nationalisation.[32] During the 1980s British Rail ran the Rail Riders membership club aimed at 5- to 15-year-olds.
 
@@ -130,9 +128,9 @@ In the Southwest, the line from Bournemouth to Weymouth was electrified along wi
 
 Privatisation
 
-GBR_rail_passengers_by_year_1830-2015.png UK_total_rail_subsidies_1986-2015.png In 1989, the narrow-gauge Vale of Rheidol Railway was preserved, becoming the first part of British Rail to be privatised. Between 1994 and 1997, British Rail was privatised.[45] Ownership of the track and infrastructure passed to Railtrack on 1 April 1994. Passenger operations were later franchised to 25 private-sector operators and the freight services were sold to six companies, five of whom were owned by the same buyer.[46]
+In 1989, the narrow-gauge Vale of Rheidol Railway was preserved, becoming the first part of British Rail to be privatised. Between 1994 and 1997, British Rail was privatised.[45] Ownership of the track and infrastructure passed to Railtrack on 1 April 1994. Passenger operations were later franchised to 25 private-sector operators and the freight services were sold to six companies, five of whom were owned by the same buyer.[46]
 
-Waterloo-city-1992.jpg The Waterloo & City line, part of BR Network SouthEast, was not included in the privatisation and was transferred to London Underground in December 1994. The remaining obligations of British Rail were transferred to BRB (Residuary) Limited.
+The Waterloo & City line, part of BR Network SouthEast, was not included in the privatisation and was transferred to London Underground in December 1994. The remaining obligations of British Rail were transferred to BRB (Residuary) Limited.
 
 The privatisation, proposed by the Conservative government in 1992, was opposed by the Labour Party and the rail unions. Although Labour initially proposed to reverse privatisation,[47] the New Labour manifesto of 1997 instead opposed Conservative plans to privatise the London Underground.[48] Rail unions have historically opposed privatisation, but former Associated Society of Locomotive Engineers and Firemen general secretary Lew Adams moved to work for Virgin Trains, and said on a 2004 radio phone-in programme: "All the time it was in the public sector, all we got were cuts, cuts, cuts. And today there are more members in the trade union, more train drivers, and more trains running. The reality is that it worked, we’ve protected jobs, and we got more jobs."[49][50]
 
@@ -142,7 +140,7 @@ Accidents and incidents
 
 Network
 
-Maesteg_Castle_Street_Station_-_geograph.org.uk_-_3905158.jpg]] The former BR network, with the trunk routes of the West Coast Main Line, East Coast Main Line, Great Western Main Line, Great Eastern Main Line and Midland Main Line, and other lines.
+]] The former BR network, with the trunk routes of the West Coast Main Line, East Coast Main Line, Great Western Main Line, Great Eastern Main Line and Midland Main Line, and other lines.
 
 
 Preserved lines
@@ -158,7 +156,7 @@ Marine services
 
 Ships
 
-Gb~brail.png British Railways operated ships from its formation in 1948 on several routes. Many ships were acquired on nationalisation, and others were built for operation by British Railways or its later subsidiary, Sealink. Those ships capable of carrying rail vehicles were classed under TOPS as Class 99. Larne_harbour_(1984)_-_geograph.org.uk_-_1158519.jpg MV _St David_ berthed in Larne]]
+British Railways operated ships from its formation in 1948 on several routes. Many ships were acquired on nationalisation, and others were built for operation by British Railways or its later subsidiary, Sealink. Those ships capable of carrying rail vehicles were classed under TOPS as Class 99. MV _St David_ berthed in Larne]]
 
 Sealink
 
@@ -177,11 +175,11 @@ A family of railway carriages, designed and built by British Rail workshops (fro
 
 Advanced Passenger Train
 
-Apt_370004_-_euston_-_13-02-1980.jpg departs Euston for Glasgow]] The ADVANCED PASSENGER TRAIN (APT) was an experimental tilting high speed train developed by British Rail during the 1970s and early 1980s, for use on the West Coast Main Line, which contained a lot of curves. Notable among numerous technical advancements was the active tilting system, which the APT pioneered and has since appeared on other designs around the world.
+departs Euston for Glasgow]] The ADVANCED PASSENGER TRAIN (APT) was an experimental tilting high speed train developed by British Rail during the 1970s and early 1980s, for use on the West Coast Main Line, which contained a lot of curves. Notable among numerous technical advancements was the active tilting system, which the APT pioneered and has since appeared on other designs around the world.
 
 InterCity 125
 
-Intercity_125_original_logo.svg 19880131-Paddington-HST-253035.jpg at London Paddington in 1988.]] The InterCity 125 was and is a High Speed Diesel train that is widely credited with saving British Rail and is usually called HST.[52] It was introduced by British Rail in the early 1970s.
+at London Paddington in 1988.]] The InterCity 125 was and is a High Speed Diesel train that is widely credited with saving British Rail and is usually called HST.[52] It was introduced by British Rail in the early 1970s.
 
 
 Successor companies
@@ -217,7 +215,7 @@ Future
 
 Since privatisation, many groups have campaigned for the renationalisation of British Rail, most notably 'Bring Back British Rail'.[53] Various interested parties also have views on the privatisation of British Rail.
 
-Bring_Back_British_Rail_logo.jpg The renationalisation of the railways of Britain continues to have popular support. Polls in 2012 and 2013 showed 70% and 66% support for renationalisation, respectively.[54][55]
+The renationalisation of the railways of Britain continues to have popular support. Polls in 2012 and 2013 showed 70% and 66% support for renationalisation, respectively.[54][55]
 
 Due to rail franchises lasting sometimes over a decade, full renationalisation would take years unless compensation was paid to terminate contracts early.
 

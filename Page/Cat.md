@@ -54,7 +54,7 @@ The domestic cat is a member of the Felidae, a family that had a common ancestor
 
 Domestication
 
-Wild-domestic-hybrid_cat_skulls.png Tomb_of_Nakht_(7).jpg in an Egyptian tomb dating to the 15th century BC]] The earliest known indication for a tamed African wildcat was excavated close by a human grave in Shillourokambos, southern Cyprus, dating to about 9,200 to 9,500 years before present. As there is no evidence of native mammalian fauna on Cyprus, the inhabitants of this Neolithic village most likely brought the cat and other wild mammals to the island from the Middle Eastern mainland.[52] Scientists therefore assume that African wildcats were attracted to early human settlements in the Fertile Crescent by rodents, in particular the house mouse (_Mus musculus_), and were tamed by Neolithic farmers. This commensal relationship between early farmers and tamed cats lasted thousands of years. As agricultural practices spread, so did tame and domesticated cats.[53][54] Wildcats of Egypt contributed to the maternal gene pool of the domestic cat at a later time.[55] The earliest known evidence for the occurrence of the domestic cat in Greece dates to around 1200 BC. Greek, Phoenician, Carthaginian and Etruscan traders introduced domestic cats to southern Europe.[56] By the 5th century BC, it was a familiar animal around settlements in Magna Graecia and Etruria.[57] Domesticated cats were introduced to Corsica and Sardinia during the Roman Empire before the beginning of the 1st millennium.[58] The Egyptian domestic cat lineage is evidenced in a Baltic Sea port in northern Germany by the end of the Roman Empire in the 5th century.[59]
+in an Egyptian tomb dating to the 15th century BC]] The earliest known indication for a tamed African wildcat was excavated close by a human grave in Shillourokambos, southern Cyprus, dating to about 9,200 to 9,500 years before present. As there is no evidence of native mammalian fauna on Cyprus, the inhabitants of this Neolithic village most likely brought the cat and other wild mammals to the island from the Middle Eastern mainland.[52] Scientists therefore assume that African wildcats were attracted to early human settlements in the Fertile Crescent by rodents, in particular the house mouse (_Mus musculus_), and were tamed by Neolithic farmers. This commensal relationship between early farmers and tamed cats lasted thousands of years. As agricultural practices spread, so did tame and domesticated cats.[53][54] Wildcats of Egypt contributed to the maternal gene pool of the domestic cat at a later time.[55] The earliest known evidence for the occurrence of the domestic cat in Greece dates to around 1200 BC. Greek, Phoenician, Carthaginian and Etruscan traders introduced domestic cats to southern Europe.[56] By the 5th century BC, it was a familiar animal around settlements in Magna Graecia and Etruria.[57] Domesticated cats were introduced to Corsica and Sardinia during the Roman Empire before the beginning of the 1st millennium.[58] The Egyptian domestic cat lineage is evidenced in a Baltic Sea port in northern Germany by the end of the Roman Empire in the 5th century.[59]
 
 During domestication, cats have undergone only minor changes in anatomy and behavior, and they are still capable of surviving in the wild.[60][61] House cats often interbreed with feral cats,[62] producing hybrids such as the Kellas cat in Scotland.[63] Hybridisation between domestic and other small wild cat species is also possible.[64]
 
@@ -63,7 +63,7 @@ Several natural behaviors and characteristics of wildcats may have preadapted th
 
 Characteristics
 
-Scheme_cat_anatomy.svg of a male]]
+of a male]]
 
 Size
 
@@ -75,7 +75,7 @@ Cats have seven cervical vertebrae (as do most mammals); 13 thoracic vertebrae (
 
 Skull
 
-Cat_skull.jpg The cat skull is unusual among mammals in having very large eye sockets and a powerful specialized jaw.[78] Within the jaw, cats have teeth adapted for killing prey and tearing meat. When it overpowers its prey, a cat delivers a lethal neck bite with its two long canine teeth, inserting them between two of the prey's vertebrae and severing its spinal cord, causing irreversible paralysis and death.[79] Compared to other felines, domestic cats have narrowly spaced canine teeth relative to the size of their jaw, which is an adaptation to their preferred prey of small rodents, which have small vertebrae.[80] The premolar and first molar together compose the carnassial pair on each side of the mouth, which efficiently shears meat into small pieces, like a pair of scissors. These are vital in feeding, since cats' small molars cannot chew food effectively, and cats are largely incapable of mastication.[81] Although cats tend to have better teeth than most humans, with decay generally less likely because of a thicker protective layer of enamel, a less damaging saliva, less retention of food particles between teeth, and a diet mostly devoid of sugar, they are nonetheless subject to occasional tooth loss and infection.[82]
+The cat skull is unusual among mammals in having very large eye sockets and a powerful specialized jaw.[78] Within the jaw, cats have teeth adapted for killing prey and tearing meat. When it overpowers its prey, a cat delivers a lethal neck bite with its two long canine teeth, inserting them between two of the prey's vertebrae and severing its spinal cord, causing irreversible paralysis and death.[79] Compared to other felines, domestic cats have narrowly spaced canine teeth relative to the size of their jaw, which is an adaptation to their preferred prey of small rodents, which have small vertebrae.[80] The premolar and first molar together compose the carnassial pair on each side of the mouth, which efficiently shears meat into small pieces, like a pair of scissors. These are vital in feeding, since cats' small molars cannot chew food effectively, and cats are largely incapable of mastication.[81] Although cats tend to have better teeth than most humans, with decay generally less likely because of a thicker protective layer of enamel, a less damaging saliva, less retention of food particles between teeth, and a diet mostly devoid of sugar, they are nonetheless subject to occasional tooth loss and infection.[82]
 
 Ambulation
 
@@ -88,7 +88,7 @@ Like almost all members of the Felidae, cats have protractable and retractable c
 
 Senses
 
-TapetumLucidum.JPG]]
+]]
 
 Vision
 
@@ -108,7 +108,7 @@ Cats and many other animals have a Jacobson's organ in their mouths that is used
 
 Taste
 
-Cats have relatively few taste buds compared to humans (470 or so versus more than 9,000 on the human tongue).[110] Domestic and wild cats share a gene mutation that keeps their sweet taste buds from binding to sugary molecules, leaving them with no ability to taste sweetness.[111] Their taste buds instead respond to acids, amino acids like protein, and bitter tastes.[112] Cats also have a distinct temperature preference for their food, preferring food with a temperature around which is similar to that of a fresh kill and routinely rejecting food presented cold or refrigerated (which would signal to the cat that the "prey" item is long dead and therefore possibly toxic or decomposing).[113] Kittyply_edit1.jpg
+Cats have relatively few taste buds compared to humans (470 or so versus more than 9,000 on the human tongue).[110] Domestic and wild cats share a gene mutation that keeps their sweet taste buds from binding to sugary molecules, leaving them with no ability to taste sweetness.[111] Their taste buds instead respond to acids, amino acids like protein, and bitter tastes.[112] Cats also have a distinct temperature preference for their food, preferring food with a temperature around which is similar to that of a fresh kill and routinely rejecting food presented cold or refrigerated (which would signal to the cat that the "prey" item is long dead and therefore possibly toxic or decomposing).[113]
 
 Whiskers
 
@@ -116,7 +116,7 @@ To aid with navigation and sensation, cats have dozens of movable whiskers (vibr
 
 Heights
 
-BIOASTRONAUTICS_RESEARCH_Gov.archives.arc.68700.ogv vis-à-vis zero gravity]] Most breeds of cat have a noted fondness for settling in high places, or perching. In the wild, a higher place may serve as a concealed site from which to hunt; domestic cats may strike prey by pouncing from a perch such as a tree branch, as does a leopard.[115] Another possible explanation is that height gives the cat a better observation point, allowing it to survey its territory. A cat falling from heights of up to 3 meters can right itself and land on its paws.[116]
+vis-à-vis zero gravity]] Most breeds of cat have a noted fondness for settling in high places, or perching. In the wild, a higher place may serve as a concealed site from which to hunt; domestic cats may strike prey by pouncing from a perch such as a tree branch, as does a leopard.[115] Another possible explanation is that height gives the cat a better observation point, allowing it to survey its territory. A cat falling from heights of up to 3 meters can right itself and land on its paws.[116]
 
 Balance
 
@@ -139,7 +139,7 @@ Physiology
 
 : Normal physiological values[123]
 
-Cold_nose,_warm_touch_-_Thermography_of_Cat.jpg Cats are familiar and easily kept animals, and their physiology has been particularly well studied; it generally resembles those of other carnivorous mammals, but displays several unusual features probably attributable to cats' descent from desert-dwelling species.[124]
+Cats are familiar and easily kept animals, and their physiology has been particularly well studied; it generally resembles those of other carnivorous mammals, but displays several unusual features probably attributable to cats' descent from desert-dwelling species.[124]
 
 Heat tolerance
 
@@ -195,8 +195,6 @@ Cats, like all mammals, need to get linoleic acid, an essential fatty acid, from
 
 Behavior
 
-Felis_silvestris_catus_lying_on_rice_straw.jpg
-
 Outdoor cats are active both day and night, although they tend to be slightly more active at night.[159][160] The timing of cats' activity is quite flexible and varied, which means house cats may be more active in the morning and evening, as a response to greater human activity at these times.[161] Although they spend the majority of their time in the vicinity of their home, housecats can range many hundreds of meters from this central point, and are known to establish territories that vary considerably in size, in one study ranging from .[162]
 
 Cats conserve energy by sleeping more than most animals, especially as they grow older. The daily duration of sleep varies, usually between 12 and 16 hours, with 13 and 14 being the average. Some cats can sleep as much as 20 hours. The term "cat nap" for a short rest refers to the cat's tendency to fall asleep (lightly) for a brief period. While asleep, cats experience short periods of rapid eye movement sleep often accompanied by muscle twitches, which suggests they are dreaming.[163]
@@ -217,15 +215,13 @@ File:Listen, do you want to know a secret.jpg|Social grooming File:Domestic cat 
 
 Communication
 
-Domestic_Cat_Face_Shot.jpg
-
 Domestic cats use many vocalizations for communication, including purring, trilling, hissing, growling/snarling, grunting, and several different forms of meowing.[176] By contrast, feral cats are generally silent.[177] Their types of body language, including position of ears and tail, relaxation of the whole body, and kneading of the paws, are all indicators of mood. The tail and ears are particularly important social signal mechanisms in cats;[178][179] for example, a raised tail acts as a friendly greeting, and flattened ears indicates hostility. Tail-raising also indicates the cat's position in the group's social hierarchy, with dominant individuals raising their tails less often than subordinate animals.[180] Nose-to-nose touching is also a common greeting and may be followed by social grooming, which is solicited by one of the cats raising and tilting its head.[181]
 
 Purring may have developed as an evolutionary advantage as a signalling mechanism of reassurance between mother cats and nursing kittens. Post-nursing cats often purr as a sign of contentment: when being petted, becoming relaxed,[182][183] or eating. The mechanism by which cats purr is elusive. The cat has no unique anatomical feature that is clearly responsible for the sound.[184] It was until recent times, believed that only the cats of the _Felis_ genus could purr. However, felids of the genus _Panthera_ (tiger, lion, jaguar, and leopard) also produce non-continuous sounds, called _chuffs_, similar to purring, but only when exhaling.[185]
 
 Grooming
 
-Cat_tongue_macro.jpg on a cat's tongue act like a hairbrush to help clean and detangle fur.]] Housecat_Grooming_Itself.webm housecat uses its brush-like tongue to groom itself, licking its fur to straighten it.]]
+on a cat's tongue act like a hairbrush to help clean and detangle fur.]] housecat uses its brush-like tongue to groom itself, licking its fur to straighten it.]]
 
 Cats are known for spending considerable amounts of time licking their coats to keep them clean.[186] The cat's tongue has backwards-facing spines about 500 μm long, which are called papillae. These contain keratin which makes them rigid[187] so the papillae act like a hairbrush. Some cats, particularly longhaired cats, occasionally regurgitate hairballs of fur that have collected in their stomachs from grooming. These clumps of fur are usually sausage-shaped and about long. Hairballs can be prevented with remedies that ease elimination of the hair through the gut, as well as regular grooming of the coat with a comb or stiff brush.[188]
 
@@ -233,15 +229,13 @@ Fighting
 
 Among domestic cats, males are more likely to fight than females.[189] Among feral cats, the most common reason for cat fighting is competition between two males to mate with a female. In such cases, most fights are won by the heavier male.[190] Another common reason for fighting in domestic cats is the difficulty of establishing territories within a small home.[191] Female cats also fight over territory or to defend their kittens. Neutering will decrease or eliminate this behavior in many cases, suggesting that the behavior is linked to sex hormones.[192]
 
-GAto.jpg
-
 When cats become aggressive, they try to make themselves appear larger and more threatening by raising their fur, arching their backs, turning sideways and hissing or spitting.[193] Often, the ears are pointed down and back to avoid damage to the inner ear and potentially listen for any changes behind them while focused forward. They may also vocalize loudly and bare their teeth in an effort to further intimidate their opponent. Fights usually consist of grappling and delivering powerful slaps to the face and body with the forepaws as well as bites. Cats also throw themselves to the ground in a defensive posture to rake their opponent's belly with their powerful hind legs.[194]
 
 Serious damage is rare, as the fights are usually short in duration, with the loser running away with little more than a few scratches to the face and ears. However, fights for mating rights are typically more severe and injuries may include deep puncture wounds and lacerations. Normally, serious injuries from fighting are limited to infections of scratches and bites, though these can occasionally kill cats if untreated. In addition, bites are probably the main route of transmission of feline immunodeficiency virus.[195] Sexually active males are usually involved in many fights during their lives, and often have decidedly battered faces with obvious scars and cuts to their ears and nose.[196]
 
 Hunting and feeding
 
-Large_Siamese_cat_tosses_a_mouse.jpg Kot_z_myszą.jpg Cats hunt small prey, primarily birds and rodents,[197] and are often used as a form of pest control.[198][199] Domestic cats are a major predator of wildlife in the United States, killing an estimated 1.4 to 3.7 billion birds and 6.9 to 20.7 billion mammals annually.[200][201] The bulk of predation in the United States is done by 80 million feral and stray cats. Effective measures to reduce this population are elusive, meeting opposition from cat enthusiasts.[202][203] In the case of free-ranging pets, equipping cats with bells and not letting them out at night will reduce wildlife predation.[204]
+Cats hunt small prey, primarily birds and rodents,[197] and are often used as a form of pest control.[198][199] Domestic cats are a major predator of wildlife in the United States, killing an estimated 1.4 to 3.7 billion birds and 6.9 to 20.7 billion mammals annually.[200][201] The bulk of predation in the United States is done by 80 million feral and stray cats. Effective measures to reduce this population are elusive, meeting opposition from cat enthusiasts.[202][203] In the case of free-ranging pets, equipping cats with bells and not letting them out at night will reduce wildlife predation.[204]
 
 Free-fed feral cats and house cats tend to consume many small meals in a single day, although the frequency and size of meals varies between individuals.[205] Cats use two hunting strategies, either stalking prey actively, or waiting in ambush until an animal comes close enough to be captured.[206] Although it is not certain, the strategy used may depend on the prey species in the area, with cats waiting in ambush outside burrows, but tending to actively stalk birds.[207]
 
@@ -257,13 +251,13 @@ Since cats lack sufficient lips to create suction,[221] they use a lapping metho
 
 Play
 
-Play_fight_between_cats.webmhd.webm Cat_playing_with_a_lizard.jpg Domestic cats, especially young kittens, are known for their love of play. This behavior mimics hunting and is important in helping kittens learn to stalk, capture, and kill prey.[223] Cats also engage in play fighting, with each other and with humans. This behavior may be a way for cats to practice the skills needed for real combat, and might also reduce any fear they associate with launching attacks on other animals.[224]
+Domestic cats, especially young kittens, are known for their love of play. This behavior mimics hunting and is important in helping kittens learn to stalk, capture, and kill prey.[223] Cats also engage in play fighting, with each other and with humans. This behavior may be a way for cats to practice the skills needed for real combat, and might also reduce any fear they associate with launching attacks on other animals.[224]
 
 Owing to the close similarity between play and hunting, cats prefer to play with objects that resemble prey, such as small furry toys that move rapidly, but rapidly lose interest (they become habituated) in a toy they have played with before.[225] Cats also tend to play with toys more when they are hungry.[226] String is often used as a toy, but if it is eaten, it can become caught at the base of the cat's tongue and then move into the intestines, a medical emergency which can cause serious illness, even death.[227] Owing to the risks posed by cats eating string, it is sometimes replaced with a laser pointer's dot, which cats may chase.[228]
 
 Reproduction
 
-Cats_having_sex_in_Israel.jpg known as lordosis behavior.]] Radiography_of_a_pregnant_cat.jpg Three-hour-old-kitten.jpg]]
+known as lordosis behavior.]] ]]
 
 Female cats are seasonally polyestrous, which means they may have many periods of heat over the course of a year, the season beginning in spring and ending in late autumn. Heat periods occur about every two weeks and last about 4 to 7 days.[229] Multiple males will be attracted to a female in heat. The males will fight over her, and the victor wins the right to mate. At first, the female rejects the male, but eventually the female allows the male to mate. The female utters a loud yowl as the male pulls out of her because a male cat's penis has a band of about 120–150 backwards-pointing penile spines, which are about 1 mm long; upon withdrawal of the penis, the spines rake the walls of the female's vagina, which acts to induce ovulation. This act also occurs to clear the vagina of other sperm in the context of a second (or more) mating, thus giving the later males a larger chance of conception.[230]
 
@@ -290,7 +284,7 @@ Ecology
 
 Habitats
 
-Felis_catus-cat_on_snow.jpg in snowy weather]] The domestic cat is a cosmopolitan species and occurs across much of the world.[257] It can live on the highest mountains and in the hottest deserts.[258] It is adaptable and now present on all continents except Antarctica, and on 118 of the 131 main groups of islands—even on isolated islands such as the Kerguelen Islands.[259][260]
+in snowy weather]] The domestic cat is a cosmopolitan species and occurs across much of the world.[257] It can live on the highest mountains and in the hottest deserts.[258] It is adaptable and now present on all continents except Antarctica, and on 118 of the 131 main groups of islands—even on isolated islands such as the Kerguelen Islands.[259][260]
 
 The domestic cat's ability to thrive in almost any terrestrial habitat has led to its designation as one of the world's most invasive species.[261] As it is little altered from the wildcat, it can readily interbreed with the wildcat. This hybridization poses a danger to the genetic distinctiveness of some wildcat populations, particularly in Scotland and Hungary and possibly also the Iberian Peninsula.[262]
 
@@ -298,7 +292,7 @@ Feral cats can live in forests, grasslands, tundra, coastal areas, agricultural 
 
 Feral cats
 
-Feral_cat_Virginia_crop.jpg]]
+]]
 
 Feral cats are domestic cats that were born in or have reverted to a wild state. They are unfamiliar with and wary of humans and roam freely in urban and rural areas.[267] The numbers of feral cats is not known, but estimates of the US feral population range from 25 to 60 million.[268] Feral cats may live alone, but most are found in large colonies, which occupy a specific territory and are usually associated with a source of food.[269] Famous feral cat colonies are found in Rome around the Colosseum and Forum Romanum, with cats at some of these sites being fed and given medical attention by volunteers.[270]
 
@@ -306,7 +300,7 @@ Public attitudes towards feral cats vary widely, ranging from seeing them as fre
 
 Impact on prey species
 
-Cat_chasing_a_pigeon.webm Cat_eating_a_rabbit.jpeg To date, little scientific data is available to assess the impact of cat predation on prey populations outside of agricultural situations. Even well-fed domestic cats may hunt and kill, mainly catching small mammals, but also birds, amphibians, reptiles, fish, and invertebrates.[274][275] Hunting by domestic cats may be contributing to the decline in the numbers of birds in urban areas, although the importance of this effect remains controversial.[276] In the wild, the introduction of feral cats during human settlement can threaten native species with extinction.[277] In many cases, controlling or eliminating the populations of non-native cats can produce a rapid recovery in native animals.[278] However, the ecological role of introduced cats can be more complicated. For example, cats can control the numbers of rats, which also prey on birds' eggs and young, so a cat population can protect an endangered bird species by suppressing mesopredators.[279]
+To date, little scientific data is available to assess the impact of cat predation on prey populations outside of agricultural situations. Even well-fed domestic cats may hunt and kill, mainly catching small mammals, but also birds, amphibians, reptiles, fish, and invertebrates.[274][275] Hunting by domestic cats may be contributing to the decline in the numbers of birds in urban areas, although the importance of this effect remains controversial.[276] In the wild, the introduction of feral cats during human settlement can threaten native species with extinction.[277] In many cases, controlling or eliminating the populations of non-native cats can produce a rapid recovery in native animals.[278] However, the ecological role of introduced cats can be more complicated. For example, cats can control the numbers of rats, which also prey on birds' eggs and young, so a cat population can protect an endangered bird species by suppressing mesopredators.[279]
 
 In isolated landmasses, such as Australasia, there are often no other native, medium-sized quadrupedal predators (including other feline species); this tends to exacerbate the impact of feral cats on small native animals.[280] Native species such as the New Zealand kakapo and the Australian bettong, for example, tend to be more ecologically vulnerable and behaviorally "naive", when faced with predation by cats.[281] Feral cats have had a major impact on these native species and have played a leading role in the endangerment and extinction of many animals.[282]
 
@@ -316,7 +310,7 @@ In agricultural settings, cats can be effective at keeping mouse and rat populat
 
 Impact on birds
 
-Cat-eating-prey.jpg]]
+]]
 
 The domestic cat is a significant predator of birds. UK assessments indicate they may be accountable for an estimated 64.8 million bird deaths each year.[290] A 2012 study suggests feral cats may kill several billion birds each year in the United States.[291] Certain species appear more susceptible than others; for example, 30% of house sparrow mortality is linked to the domestic cat.[292] In the recovery of ringed robins (_Erithacus rubecula_) and dunnocks (_Prunella modularis_), 31% of deaths were a result of cat predation.[293] In parts of North America, the presence of larger carnivores such as coyotes which prey on cats and other small predators reduces the effect of predation by cats and other small predators such as opossums and raccoons on bird numbers and variety.[294] The proposal that cat populations will increase when the numbers of these top predators decline is called the mesopredator release hypothesis.
 
@@ -367,7 +361,7 @@ File:Louvre egyptologie 21.jpg|The ancient Egyptians mummified dead cats out of 
 
 Superstitions and rituals
 
-Close_up_of_a_black_domestic_cat.jpg Many cultures have negative superstitions about cats. An example would be the belief that a black cat "crossing one's path" leads to bad luck, or that cats are witches' familiars used to augment a witch's powers and skills. The killing of cats in Medieval Ypres, Belgium, is commemorated in the innocuous present-day Kattenstoet (cat parade).[373] In medieval France, cats would be burnt alive as a form of entertainment. According to Norman Davies, the assembled people "shrieked with laughter as the animals, howling with pain, were singed, roasted, and finally carbonized".[374]
+Many cultures have negative superstitions about cats. An example would be the belief that a black cat "crossing one's path" leads to bad luck, or that cats are witches' familiars used to augment a witch's powers and skills. The killing of cats in Medieval Ypres, Belgium, is commemorated in the innocuous present-day Kattenstoet (cat parade).[373] In medieval France, cats would be burnt alive as a form of entertainment. According to Norman Davies, the assembled people "shrieked with laughter as the animals, howling with pain, were singed, roasted, and finally carbonized".[374]
 
 "It was the custom to burn a basket, barrel, or sack full of live cats, which was hung from a tall mast in the midst of the bonfire; sometimes a fox was burned. The people collected the embers and ashes of the fire and took them home, believing that they brought good luck. The French kings often witnessed these spectacles and even lit the bonfire with their own hands. In 1648 Louis XIV, crowned with a wreath of roses and carrying a bunch of roses in his hand, kindled the fire, danced at it and partook of the banquet afterwards in the town hall. But this was the last occasion when a monarch presided at the midsummer bonfire in Paris. At Metz midsummer fires were lighted with great pomp on the esplanade, and a dozen cats, enclosed in wicker cages, were burned alive in them, to the amusement of the people. Similarly at Gap, in the department of the Hautes-Alpes, cats used to be roasted over the midsummer bonfire."[375]
 

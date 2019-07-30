@@ -7,7 +7,7 @@ Wiesel was awarded the Nobel Peace Prize in 1986, at which time the Norwegian No
 
 Early life
 
-Eli_wiesel_house_in_sighet01.jpg]] Elie Wiesel was born in Sighet (now Sighetu Marmației), Maramureș, in the Carpathian Mountains in Romania.[8] His parents were Sarah Feig and Shlomo Wiesel. At home, Wiesel's family spoke Yiddish most of the time, but also German, Hungarian, and Romanian.[9][10] Wiesel's mother, Sarah, was the daughter of Dodye Feig, a celebrated Vizhnitz Hasid and farmer from a nearby village. Dodye was active and trusted within the community.
+]] Elie Wiesel was born in Sighet (now Sighetu Marmației), Maramureș, in the Carpathian Mountains in Romania.[8] His parents were Sarah Feig and Shlomo Wiesel. At home, Wiesel's family spoke Yiddish most of the time, but also German, Hungarian, and Romanian.[9][10] Wiesel's mother, Sarah, was the daughter of Dodye Feig, a celebrated Vizhnitz Hasid and farmer from a nearby village. Dodye was active and trusted within the community.
 
 Wiesel's father, Shlomo, instilled a strong sense of humanism in his son, encouraging him to learn Hebrew and to read literature, whereas his mother encouraged him to study the Torah. Wiesel has said his father represented reason, while his mother Sarah promoted faith.[11] Wiesel was instructed that his genealogy traced back to Rabbi Schlomo, son of Yitzhak, and was a descendant of Rabbi Yeshayahu ben Abraham Horovitz ha-Levi, an author.[12]
 
@@ -16,7 +16,7 @@ Wiesel had three siblings—older sisters Beatrice and Hilda, and younger sister
 
 Imprisoned and orphaned during the Holocaust
 
-Buchenwald_Slave_Laborers_Liberation.jpg, photo taken April 16, 1945, five days after liberation of the camp. Wiesel is in the second row from the bottom, seventh from the left, next to the bunk post.[13]]]
+, photo taken April 16, 1945, five days after liberation of the camp. Wiesel is in the second row from the bottom, seventh from the left, next to the bunk post.[13]]]
 
 In March 1944, Germany occupied Hungary, which extended the Holocaust into that country. Wiesel was 15, and he, with his family, along with the rest of the town's Jewish population, was placed in one of the two confinement ghettos set up in Máramarossziget (Sighet), the town where he had been born and raised. In May 1944, the Hungarian authorities, under German pressure, began to deport the Jewish community to the Auschwitz concentration camp, where up to 90 percent of the people were killed on arrival.[14]
 
@@ -47,8 +47,6 @@ United States
 
 In 1955, Wiesel moved to New York as foreign correspondent for the Israel daily, _Yediot Ahronot_.[39] In 1969, he married Marion Erster Rose, who was from Austria, who also translated many of his books.[40] They had one son, Shlomo Elisha Wiesel, named after Wiesel's father.[41][42]
 
-Elie_Wiesel_(1987)_by_Erling_Mandelmann_-_2.jpg
-
 In the U.S., he went on to write over 40 books, most of them non-fiction Holocaust literature, and novels. As an author, he has been awarded a number of literary prizes and is considered among the most important in describing the Holocaust from a highly personal perspective.[43] As a result, some historians credited Wiesel with giving the term _Holocaust_ its present meaning, although he did not feel that the word adequately described that historical event.[44]
 
 In 1975, he co-founded the magazine _Moment_ with writer Leonard Fein.
@@ -70,7 +68,7 @@ He was awarded the Nobel Peace Prize in 1986 for speaking out against violence, 
 
 He received many other prizes and honors for his work, including the Congressional Gold Medal in 1985, the Presidential Medal of Freedom, and The International Center in New York's Award of Excellence.[56] He was also elected to the American Academy of Arts and Letters in 1996.[57]
 
-Elie_Wiesel_2009.jpg in 2009]]
+in 2009]]
 
 Wiesel co-founded _Moment Magazine_ with Leonard Fein in 1975. They founded the magazine to provide a voice for American Jews.[58] He was also a member of the International Advisory Board of NGO Monitor.[59]
 
@@ -90,7 +88,7 @@ In September 2006, he appeared before the UN Security Council with actor George 
 
 In 2007, Wiesel was awarded the Dayton Literary Peace Prize's Lifetime Achievement Award.[68] That same year, the Elie Wiesel Foundation for Humanity issued a letter condemning Armenian genocide denial, a letter that was signed by 53 Nobel laureates including Wiesel. Wiesel has repeatedly called Turkey's 90-year-old campaign to downplay its actions during the Armenian genocide a double killing.[69]
 
-Dalai_Lama_and_Bush_welcome_Elie_Wiesel_(2007).jpg, joined by the Dalai Lama and Wiesel, October 17, 2007, to the ceremony at the U.S. Capitol in Washington, D.C., for the presentation of the Congressional Gold Medal to the Dalai Lama]]
+, joined by the Dalai Lama and Wiesel, October 17, 2007, to the ceremony at the U.S. Capitol in Washington, D.C., for the presentation of the Congressional Gold Medal to the Dalai Lama]]
 
 In 2009, Wiesel criticized the Vatican for lifting the excommunication of controversial bishop Richard Williamson, a member of the Society of Saint Pius X.[70]
 
@@ -107,7 +105,7 @@ Wiesel often emphasized the Jewish connection to Jerusalem, and criticized the O
 
 Teaching
 
-Elie_Wiesel_2008.jpg]] Wiesel was particularly fond of teaching and held the position of Andrew Mellon Professor of the Humanities at Boston University since 1976,[89] where he taught in both its religion and philosophy departments.[90] He became a close friend of the president and chancellor John Silber.[91] The university created the Elie Wiesel Center for Jewish Studies in his honor.[92] From 1972 to 1976 Wiesel was a Distinguished Professor at the City University of New York and member of the American Federation of Teachers.[93][94]
+]] Wiesel was particularly fond of teaching and held the position of Andrew Mellon Professor of the Humanities at Boston University since 1976,[89] where he taught in both its religion and philosophy departments.[90] He became a close friend of the president and chancellor John Silber.[91] The university created the Elie Wiesel Center for Jewish Studies in his honor.[92] From 1972 to 1976 Wiesel was a Distinguished Professor at the City University of New York and member of the American Federation of Teachers.[93][94]
 
 In 1982 he served as the first Henry Luce Visiting Scholar in Humanities and Social Thought at Yale University.[95] He also co-instructed Winter Term (January) courses at Eckerd College, St. Petersburg, Florida. From 1997 to 1999 he was Ingeborg Rennert Visiting Professor of Judaic Studies at Barnard College of Columbia University.[96]
 
@@ -116,7 +114,7 @@ Personal life
 
 In 1969 he married Marion Erster Rose, who originally was from Austria and also translated many of his books.[97] They had one son, Shlomo Elisha Wiesel, named after Wiesel's father.[98][99] The family lived in Greenwich, Connecticut.[100]
 
-Wiesel was attacked in a San Francisco hotel by 22-year-old Holocaust denier Eric Hunt in February 2007, but was not injured. Hunt was arrested the following month and charged with multiple offenses.[101][102] Elie_Wiesel_2012_Shankbone.JPG]] In February 2012, a member of The Church of Jesus Christ of Latter-day Saints performed a posthumous baptism for Simon Wiesenthal's parents without proper authorization.[103] After his own name was submitted for proxy baptism, Wiesel spoke out against the unauthorized practice of posthumously baptizing Jews and asked presidential candidate and Latter-day Saint Mitt Romney to denounce it. Romney's campaign declined to comment, directing such questions to church officials.[104]
+Wiesel was attacked in a San Francisco hotel by 22-year-old Holocaust denier Eric Hunt in February 2007, but was not injured. Hunt was arrested the following month and charged with multiple offenses.[101][102] ]] In February 2012, a member of The Church of Jesus Christ of Latter-day Saints performed a posthumous baptism for Simon Wiesenthal's parents without proper authorization.[103] After his own name was submitted for proxy baptism, Wiesel spoke out against the unauthorized practice of posthumously baptizing Jews and asked presidential candidate and Latter-day Saint Mitt Romney to denounce it. Romney's campaign declined to comment, directing such questions to church officials.[104]
 
 
 Death and after

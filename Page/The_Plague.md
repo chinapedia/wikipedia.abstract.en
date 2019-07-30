@@ -49,7 +49,7 @@ The text of _The Plague_ is divided into five parts.
 
 Part one
 
-Library_Walk_5.JPG In the town of Oran, thousands of rats, initially unnoticed by the populace, begin to die in the streets. Hysteria develops soon afterward, causing the local newspapers to report the incident. Authorities responding to public pressure order the collection and cremation of the rats, unaware that the collection itself was the catalyst for the spread of the bubonic plague.
+In the town of Oran, thousands of rats, initially unnoticed by the populace, begin to die in the streets. Hysteria develops soon afterward, causing the local newspapers to report the incident. Authorities responding to public pressure order the collection and cremation of the rats, unaware that the collection itself was the catalyst for the spread of the bubonic plague.
 
 The main character, Dr. Bernard Rieux, lives comfortably in an apartment building when strangely the building's concierge, M. Michel, a confidante, dies from a fever. Dr. Rieux consults his colleague, Dr. Castel, about the illness until they come to the conclusion that a plague is sweeping the town. They both approach fellow doctors and town authorities about their theory but are eventually dismissed on the basis of one death. However, as more and more deaths quickly ensue, it becomes apparent that there is an epidemic. Meanwhile, Rieux's wife has been sent to a sanatorium in another city, to be treated for an unrelated chronic illness.
 

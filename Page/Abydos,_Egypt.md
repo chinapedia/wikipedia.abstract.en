@@ -1,6 +1,6 @@
 Abydos}}
 
-ABYDOS (; Sahidic __) is one of the oldest cities of ancient Egypt, and also of the eighth nome in Upper Egypt. It is located about west of the Nile at latitude 26° 10' N, near the modern Egyptian towns of el-'Araba el Madfuna and al-Balyana. In the ancient Egyptian language, the city was called ABDJU (_ꜣbḏw_ or _AbDw_). The English name _Abydos_ comes from the Greek , a name borrowed by Greek geographers from the unrelated city of Abydos on the Hellespont. Amy,_Flinders_Petrie's_sister-in-law,_buying_antiquities_at_Abydos,_c._1899.jpg Considered one of the most important archaeological sites in Egypt, the sacred city of Abydos was the site of many ancient temples, including Umm el-Qa'ab, a royal necropolis where early pharaohs were entombed.[1] These tombs began to be seen as extremely significant burials and in later times it became desirable to be buried in the area, leading to the growth of the town's importance as a cult site.
+ABYDOS (; Sahidic __) is one of the oldest cities of ancient Egypt, and also of the eighth nome in Upper Egypt. It is located about west of the Nile at latitude 26° 10' N, near the modern Egyptian towns of el-'Araba el Madfuna and al-Balyana. In the ancient Egyptian language, the city was called ABDJU (_ꜣbḏw_ or _AbDw_). The English name _Abydos_ comes from the Greek , a name borrowed by Greek geographers from the unrelated city of Abydos on the Hellespont. Considered one of the most important archaeological sites in Egypt, the sacred city of Abydos was the site of many ancient temples, including Umm el-Qa'ab, a royal necropolis where early pharaohs were entombed.[1] These tombs began to be seen as extremely significant burials and in later times it became desirable to be buried in the area, leading to the growth of the town's importance as a cult site.
 
 Today, Abydos is notable for the memorial temple of Seti I, which contains an inscription from the nineteenth dynasty known to the modern world as the Abydos King List. It is a chronological list showing cartouches of most dynastic pharaohs of Egypt from Menes until Seti I's father, Ramesses I.[2]
 
@@ -9,13 +9,13 @@ The Great Temple and most of the ancient town are buried under the modern buildi
 
 History
 
-Green_glazed_faience_weight,_inscribed_for_the_high_Steward_Aabeni._Late_Middle_Kingdom._From_Abydos,_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology,_London.jpg. Late Middle Kingdom. From Abydos, Egypt. The Petrie Museum of Egyptian Archaeology, London]]
+. Late Middle Kingdom. From Abydos, Egypt. The Petrie Museum of Egyptian Archaeology, London]]
 
 Abydos was occupied by the rulers of the Predynastic period,[4] whose town, temple and tombs have been found there. The temple and town continued to be rebuilt at intervals down to the times of the Thirtieth Dynasty, and the cemetery was in continuous use.
 
 The pharaohs of the First Dynasty were buried in Abydos, including Narmer, who is regarded as the founder of the First Dynasty, and his successor, Aha.[5] It was in this time period that the Abydos boats were constructed. Some pharaohs of the Second Dynasty were also buried in Abydos. The temple was renewed and enlarged by these pharaohs as well. Funerary enclosures, misinterpreted in modern times as great 'forts', were built on the desert behind the town by three kings of the Second Dynasty; the most complete is that of Khasekhemwy.[6]
 
-SFEC-ABYDOS-2010-056.JPG Journey_of_the_dead_to_Abydos.jpg, Late Period, Twenty-sixth Dynasty of Egypt, reign of Psammetichus I]] SFEC-L-ABYDOS11.JPG temple: Horus presents royal regalia to a worshipping pharaoh.]] Osireion.jpg]] Abydos_Seti_I.jpg, Abydos]] From the Fifth Dynasty, the deity Khentiamentiu, _foremost of the Westerners_, came to be seen as a manifestation of the dead pharaoh in the underworld. Pepi I (Sixth Dynasty) constructed a funerary chapel which evolved over the years into the Great Temple of Osiris, the ruins of which still exist within the town enclosure. Abydos became the centre of the worship of the Isis and Osiris cult.
+, Late Period, Twenty-sixth Dynasty of Egypt, reign of Psammetichus I]] temple: Horus presents royal regalia to a worshipping pharaoh.]] ]] , Abydos]] From the Fifth Dynasty, the deity Khentiamentiu, _foremost of the Westerners_, came to be seen as a manifestation of the dead pharaoh in the underworld. Pepi I (Sixth Dynasty) constructed a funerary chapel which evolved over the years into the Great Temple of Osiris, the ruins of which still exist within the town enclosure. Abydos became the centre of the worship of the Isis and Osiris cult.
 
 During the First Intermediate Period, the principal deity of the area, Khentiamentiu, began to be seen as an aspect of Osiris, and the deities gradually merged and came to be regarded as one. Khentiamentiu's name became an epithet of Osiris. King Mentuhotep II was the first to build a royal chapel. In the Twelfth Dynasty a gigantic tomb was cut into the rock by Senusret III. Associated with this tomb was a _cenotaph_, a cult temple and a small town known as "Wah-Sut", that was used by the workers for these structures.[7] Next to the cenotaph at least two kings of the Thirteenth Dynasty were buried (in tombs S9 and S10) as well as some rulers of the Second Intermediate Period, such as Senebkay. An indigenous line of kings, the Abydos Dynasty, may have ruled the region from Abydos at the time.
 
@@ -41,8 +41,6 @@ Decorations in tombs throughout Egypt, such as the one displayed to the right, r
 
 Major constructions
 
-Egypt_and_the_Sûdân;_handbook_for_travellers_(1914)_(14597319359).jpg
-
 Great Osiris Temple
 
 From the First Dynasty to the Twenty-sixth Dynasty, nine or ten temples were successively built on one site at Abydos. The first was an enclosure, about , enclosed by a thin wall of unbaked bricks. Incorporating one wall of this first structure, the second temple of about square was built with walls about thick. An outer _temenos_ (enclosure) wall surrounded the grounds. This outer wall was made wider some time around the Second or Third Dynasty. The old temple entirely vanished in the Fourth Dynasty, and a smaller building was erected behind it, enclosing a wide hearth of black ashes. Pottery models of offerings are found in these ashes and were probably the substitutes for live sacrifices decreed by Khufu (or Cheops) in his temple reforms.
@@ -53,7 +51,7 @@ The temple was entirely rebuilt on a larger scale by Pepi I in the Sixth Dynasty
 
 Temple of Seti I
 
-S03_06_01_018_image_2401.jpg Brooklyn_Museum_-_Egypt-Abydos_(pd).jpg S03_06_01_018_image_2367.jpg The temple of Seti I was built on entirely new ground half a mile to the south of the long series of temples just described. This surviving building is best known as the Great Temple of Abydos, being nearly complete and an impressive sight. A principal purpose of the temple was to serve as a memorial to king Seti I, as well as to show reverence for the early pharaohs, which is incorporated within as part of the "Rite of the Ancestors".
+The temple of Seti I was built on entirely new ground half a mile to the south of the long series of temples just described. This surviving building is best known as the Great Temple of Abydos, being nearly complete and an impressive sight. A principal purpose of the temple was to serve as a memorial to king Seti I, as well as to show reverence for the early pharaohs, which is incorporated within as part of the "Rite of the Ancestors".
 
 The long list of the pharaohs of the principal dynasties—recognized by Seti—are carved on a wall and known as the "Abydos King List" (showing the cartouche name of many dynastic pharaohs of Egypt from the first, Narmer or Menes, until Seti's time)- with the exception of those noted above. There were significant names deliberately left off of the list. So rare, as an almost complete list of pharaoh names, the Table of Abydos, rediscovered by William John Bankes, has been called the "Rosetta Stone" of Egyptian archaeology, analogous to the Rosetta Stone for Egyptian writing, beyond the Narmer Palette.[11]
 
@@ -68,7 +66,7 @@ The adjacent temple of Ramesses II was much smaller and simpler in plan; but it 
 
 Tombs
 
-SFEC-ABYDOS-2010-060.JPG crown of Lower Egypt, with Prince Ramesses (later Ramesses II), ready to rope the sacred bull for sacrifice]] Pyramidion_of_Nesnubhotep,_top_of_a_limestone_chapel_monument._A_scarab_and_adoring_baboons_in_relief._26th_Dynasty._From_Abydos,_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology,_London.jpg of Nesnubhotep, top of a limestone chapel monument. A scarab and adoring baboons in relief. Dynasty XXVI, Abydos, Egypt. Petrie Museum of Egyptian Archaeology, London]] Indus_carnelian_bead_UC30334_Egypt_Middle_Kingdom_London,_Petrie_Museum_of_Egyptian_Archaeology.jpg bead found in Abydos, tomb 197, thought to have been imported from the Indus Valley Civilisation through Mesopotamia, in an example of Egypt-Mesopotamia relations. Late Middle Kingdom of Egypt. London, Petrie Museum of Egyptian Archaeology, ref. UC30334.[14][15]]] The royal necropolises of the earliest dynasties were placed about a mile into the great desert plain, in a place now known as Umm El Qa'ab "The Mother of Pots" because of the shards remaining from all of the devotional objects left by religious pilgrims.
+crown of Lower Egypt, with Prince Ramesses (later Ramesses II), ready to rope the sacred bull for sacrifice]] of Nesnubhotep, top of a limestone chapel monument. A scarab and adoring baboons in relief. Dynasty XXVI, Abydos, Egypt. Petrie Museum of Egyptian Archaeology, London]] bead found in Abydos, tomb 197, thought to have been imported from the Indus Valley Civilisation through Mesopotamia, in an example of Egypt-Mesopotamia relations. Late Middle Kingdom of Egypt. London, Petrie Museum of Egyptian Archaeology, ref. UC30334.[14][15]]] The royal necropolises of the earliest dynasties were placed about a mile into the great desert plain, in a place now known as Umm El Qa'ab "The Mother of Pots" because of the shards remaining from all of the devotional objects left by religious pilgrims.
 
 The earliest burial is about inside, a pit lined with brick walls, and originally roofed with timber and matting. Others tombs also built before Menes are . The probable tomb of Menes is of the latter size.
 
@@ -86,7 +84,7 @@ Some of the tomb structures, referred to as "forts" by modern researchers, lay b
 
 Hieroglyphs in the Temple of Seti I
 
-Hieroglif_z_Abydos.jpg Some of the hieroglyphs carved over an arch on the site have been interpreted in esoteric and "ufological" circles as depicting modern technology.
+Some of the hieroglyphs carved over an arch on the site have been interpreted in esoteric and "ufological" circles as depicting modern technology.
 
 The carvings are often thought to be a helicopter, a battle tank or submarine, and a fighter plane (some interpret this as a U.F.O.) However, these conjectures are largely based in pseudoarchaeology, and the picture often claimed as "evidence" has been retouched (see right).[19][20]
 

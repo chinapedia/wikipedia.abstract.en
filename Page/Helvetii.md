@@ -1,4 +1,4 @@
-Maxima_Sequanorum.jpg'' (c. 300 AD), which comprised the territories of the Helvetii, Sequani and several smaller tribes. The relative locations of the Helvetian _pagi_ Tigurini and Verbigeni, though indicated on the map, remain unknown.[1]]] 300 px in the 1st century BC, showing the relative positions of the Celtic tribes.]]
+'' (c. 300 AD), which comprised the territories of the Helvetii, Sequani and several smaller tribes. The relative locations of the Helvetian _pagi_ Tigurini and Verbigeni, though indicated on the map, remain unknown.[1]]] in the 1st century BC, showing the relative positions of the Celtic tribes.]]
 
 The HELVETII ( , anglicized HELVETIANS) were a Celtic[2] tribe or tribal confederation[3] occupying most of the Swiss plateau at the time of their contact with the Roman Republic in the 1st century BC. According to Julius Caesar, the Helvetians were divided into four subgroups or _pagi._ Of these Caesar names only the Verbigeni and the Tigurini,[4] while Posidonius mentions the Tigurini and the Tougeni ().[5] They feature prominently in the _Commentaries on the Gallic War,_ with their failed migration attempt to southwestern Gaul (58 BC) serving as a catalyst for Caesar's conquest of Gaul.
 
@@ -35,7 +35,7 @@ At the later Vicus _Turicum_, probably in the first 1st century BC or even much 
 
 First contact with the Romans
 
-Charles_Gleyre_Les_Romans_p.jpg (19th century) celebrating the Helvetian victory over the Romans at Agen (107 BC) under Divico’s command.]] The Germanic tribes of the Cimbri and Ambrones probably reached southern Germany around the year 111 BC, where they were joined by the Tigurini, and, probably the Teutoni-Toutonoi-Toygenoi. (The precise identity of the latter group is unclear).[25]
+(19th century) celebrating the Helvetian victory over the Romans at Agen (107 BC) under Divico’s command.]] The Germanic tribes of the Cimbri and Ambrones probably reached southern Germany around the year 111 BC, where they were joined by the Tigurini, and, probably the Teutoni-Toutonoi-Toygenoi. (The precise identity of the latter group is unclear).[25]
 
 The tribes began a joint invasion of Gaul, including the Roman Provincia Narbonensis, which led to the Tigurini’s victory over a Roman army under L. Cassius Longinus near Agendicum in 107 BC, in which the consul was killed. According to Caesar, the captured Roman soldiers were ordered to pass through under a yoke set up by the triumphant Gauls, a dishonour that called for both public as well as private vengeance.[26] Caesar is the only narrative source for this episode, as the corresponding books of Livy’s histories are preserved only in the _Periochae_, short summarising lists of contents, in which hostages given by the Romans, but no yoke, are mentioned.[27]
 
@@ -43,7 +43,7 @@ In 105 BC, the allies defeated another Roman army near Arausio, and went on to h
 
 Caesar and the Helvetian campaign of 58 BC
 
-Divico_und_Caesar.jpg and Divico parley after the battle at the Saône. Historic painting of the 19th century by Karl Jauslin.]]
+and Divico parley after the battle at the Saône. Historic painting of the 19th century by Karl Jauslin.]]
 
 Prelude
 
@@ -85,7 +85,7 @@ As Caesar’s account is heavily influenced by his political agenda, it is diffi
 
 The Helvetii as Roman subjects
 
-Römische_Provinzen_im_Alpenraum_ca_14_n_Chr.png The Helvetii and Rauraci most likely lost their status as _foederati_ only six years after the battle of Bibracte, when they supported Vercingetorix in 52 BC with 8,000 and 2,000 men, respectively. Sometime between 50 and 45 BC, the Romans founded the _Colonia Iulia Equestris_ at the site of the Helvetian settlement _Noviodunum_ (modern Nyon), and around 44 BC the _Colonia Raurica_ on Rauracan territory. These colonies were probably established as a means of controlling the two most important military access routes between the Helvetian territory and the rest of Gaul, blocking the passage through the Rhône valley and Sundgau.
+The Helvetii and Rauraci most likely lost their status as _foederati_ only six years after the battle of Bibracte, when they supported Vercingetorix in 52 BC with 8,000 and 2,000 men, respectively. Sometime between 50 and 45 BC, the Romans founded the _Colonia Iulia Equestris_ at the site of the Helvetian settlement _Noviodunum_ (modern Nyon), and around 44 BC the _Colonia Raurica_ on Rauracan territory. These colonies were probably established as a means of controlling the two most important military access routes between the Helvetian territory and the rest of Gaul, blocking the passage through the Rhône valley and Sundgau.
 
 In the course of Augustus' reign, Roman dominance became more concrete. Some of the traditional Celtic oppida were now used as legionary garrisons, such as Vindonissa or Basilea (modern Basel); others were relocated, such as the hill-fort on the Bois de Châtel, whose inhabitants founded the new “capital” of the civitas at nearby Aventicum. First incorporated into the Roman province of _Gallia Belgica_, later into the _Germania Superior_ and finally into the Diocletian province of _Maxima Sequanorum_, the former territories of the Helvetii and their inhabitants were as thoroughly romanised as the rest of Gaul.
 
@@ -113,7 +113,7 @@ In 2015, the star 51 Pegasi, the first main-sequence star found to have an exopl
 
 Celtic oppida in Switzerland
 
-Historische_Karte_CH_Helvet.png (green) settlements in Switzerland]] The distribution of La Tène culture burials in Switzerland indicates that the Swiss plateau between Lausanne and Winterthur was relatively densely populated. Settlement centres existed in the Aare valley between Thun and Bern, and between Lake Zurich and the river Reuss. The Valais and the regions around Bellinzona and Lugano also seem to have been well-populated; however, those lay outside the Helvetian borders.
+(green) settlements in Switzerland]] The distribution of La Tène culture burials in Switzerland indicates that the Swiss plateau between Lausanne and Winterthur was relatively densely populated. Settlement centres existed in the Aare valley between Thun and Bern, and between Lake Zurich and the river Reuss. The Valais and the regions around Bellinzona and Lugano also seem to have been well-populated; however, those lay outside the Helvetian borders.
 
 Almost all the Helvetic _oppida_ were built in the vicinity of the larger rivers of the Swiss midlands. Not all of them existed at the same time. For most of them, we do not have any idea as to what their Gaulish names might have been, with one or two possible exceptions. Where a pre-Roman name is preserved, it is added in brackets.[58] Those marked with an asterisk (*) were most likely occupied by neighbouring tribes (Raurici, Veragri, etc.) rather than the Helvetii.
 

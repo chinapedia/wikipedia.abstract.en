@@ -1,5 +1,3 @@
-Prague-golem-reproduction.jpg
-
 In Jewish folklore, a GOLEM ( ; ) is an animated anthropomorphic being that is magically created entirely from inanimate matter (usually clay or mud). The word was used to mean an amorphous, unformed material in Psalms and medieval writing.[1]
 
 The most famous golem narrative involves Judah Loew ben Bezalel, the late-16th-century rabbi of Prague. There are many tales differing on how the golem was brought to life and afterward controlled. According to _Moment Magazine_, "the golem is a highly mutable metaphor with seemingly limitless symbolism. It can be victim or villain, Jew or non-Jew, man or woman—or sometimes both. Over the centuries it has been used to connote war, community, isolation, hope and despair."[2]
@@ -39,7 +37,7 @@ According to the Polish Kabbalist, "the legend was known to several persons, thu
 
 The classic narrative: The Golem of Prague
 
-Rabbi_Löw_Saloun.JPG statue at the new town hall of Prague]] Golem_and_Loew.jpg, 1899.]] AltneuschulPrague.agr.jpg of Prague with the rungs of the ladder to the attic on the wall. Legend has Golem lying in the loft]] Ústěk_Jewish_museum.jpg with statue of Golem in Úštěk]]
+statue at the new town hall of Prague]] , 1899.]] of Prague with the rungs of the ladder to the attic on the wall. Legend has Golem lying in the loft]] with statue of Golem in Úštěk]]
 
 The most famous golem narrative involves Judah Loew ben Bezalel, the late 16th century rabbi of Prague, also known as the Maharal, who reportedly "created a golem out of clay from the banks of the Vltava River and brought it to life through rituals and Hebrew incantations to defend the Prague ghetto from anti-Semitic attacks" and pogroms.[25][26] Depending on the version of the legend, the Jews in Prague were to be either expelled or killed under the rule of Rudolf II, the Holy Roman Emperor. The Golem was called Josef and was known as Yossele. It was said that he could make himself invisible and summon spirits from the dead.[27] Rabbi Loew deactivated the Golem on Friday evenings by removing the _shem_ before the Sabbath (Saturday) began,[28] so as to let it rest on Sabbath.[29] One Friday evening Rabbi Loew forgot to remove the _shem_, and feared that the Golem would desecrate the Sabbath.[30] A different story tells of a golem that fell in love, and when rejected, became the violent monster seen in most accounts. Some versions have the golem eventually going on a murderous rampage.[31]
 
@@ -73,7 +71,7 @@ There is a similar tradition relating to the Vilna Gaon or "the saintly genius f
 
 Hubris theme
 
-Clay-golem.jpg'']]
+'']]
 
 The existence of a golem is sometimes a mixed blessing. Golems are not intelligent, and if commanded to perform a task, they will perform the instructions literally. In many depictions, Golems are inherently perfectly obedient. In its earliest known modern form, the Golem of Chełm became enormous and uncooperative. In one version of this story, the rabbi had to resort to trickery to deactivate it, whereupon it crumbled upon its creator and crushed him.[65] There is a similar hubris theme in _Frankenstein_, _The Sorcerer's Apprentice_, and some other stories in popular culture, for example: _The Terminator_. The theme also manifests itself in _R.U.R. (Rossum's Universal Robots)_, Karel Čapek's 1921 play which coined the term robot; the play was written in Prague, and while Čapek denied that he modeled the robot after the Golem, there are many similarities in the plot.[66]
 
@@ -91,8 +89,6 @@ A Yiddish and Slavic folktale is the Clay Boy, which combines elements of the Go
 
 
 Golem in popular culture
-
-Golem_1920_Poster.jpg Golem_by_Philippe_Semeria.jpg
 
 -   Mainstream European society adopted the golem in the early 20th century. Most notably, Gustav Meyrink's 1914 novel _Der Golem_ is loosely inspired by the tales of the golem created by Rabbi Loew. Another famous treatment from the same era is H. Leivick's 1921 Yiddish-language "dramatic poem in eight sections", _The Golem_. In 1923, Romanian composer Nicolae Bretan wrote the one-act opera _The Golem_, first performed the following year in Cluj and later revived in Denver, Colorado, in 1990. Nobel prize winner Isaac Bashevis Singer also wrote a version of the legend,[71] and Elie Wiesel wrote a children's book on the legend.[72]
 -   Inspired by Gustav Meyrink's novel was a classic set of expressionistic silent movies (1915–1920), Paul Wegener's _Golem_ series, of which _The Golem: How He Came into the World_ (also released as _The Golem_, 1920, US 1921: the only surviving film of the trilogy) is especially famous. In the first film the Golem is revived in modern times before falling from a tower and breaking apart. Also notable is Julien Duvivier's _Le Golem_ (1936), a French/Czechoslovakian sequel to the Wegener film.

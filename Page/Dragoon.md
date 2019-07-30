@@ -1,4 +1,4 @@
-Battle_of_Jena.jpg]]
+]]
 
 DRAGOONS originally were a class of mounted infantry, who used horses for mobility, but dismounted to fight on foot. From the early 18th century onward, dragoons were increasingly also employed as conventional cavalry, trained for combat with swords from horseback.[1]
 
@@ -11,7 +11,7 @@ The title has been retained in modern times by a number of armoured or ceremonia
 
 Origins and name
 
-Dragonnades430.jpg in the dragonnades]] Leonard_Wintorowski_Österreichisch-ungarische_Dragoner_1915.jpg
+in the dragonnades]]
 
 The establishment of dragoons evolved from the practice of sometimes transporting infantry by horse when speed of movement was needed. In 1552 Prince Alexander of Parma mounted several companies of infantry on pack horses to achieve surprise.[4] Another early instance was ordered by Louis of Nassau in 1572 during operations near Mons in Hainaut, when 500 infantry were transported this way.[5] It is also suggested the first dragoons were raised by the Marshal de Brissac in 1600.[6] According to old German literature, dragoons were invented by Count Ernst von Mansfeld, one of the greatest German military commanders, in the early 1620s. There are other instances of mounted infantry predating this. However Mansfeld, who had learned his profession in Hungary and the Netherlands, often used horses to make his foot troops more mobile, creating what was called an "armée volante" (French for _flying army_).
 
@@ -38,7 +38,7 @@ Towards the end of 1776, George Washington realized the need for a mounted branc
 
 Dragoons were at a disadvantage when engaged against true cavalry, and constantly sought to improve their horsemanship, armament and social status. By the Seven Years' War the primary role of dragoons in most European armies had progressed from that of mounted infantry to that of heavy cavalry.[14] Earlier dragoon responsibilities for scouting and picket duty had passed to hussars and similar light cavalry corps in the French, Austrian, Prussian, and other armies. In the Imperial Russian Army, due to the availability of the Cossack troops, the dragoons were retained in their original role for much longer.
 
-An exception to the rule was the British Army. To reduce military budgets, all horse (cavalry) regiments were gradually demoted to dragoons from 1746 onward — which meant they were paid on a lower scale. When this was completed in 1788, the heavy cavalry regiments had become either Dragoon Guards or Heavy Dragoons (depending on their precedence). The designation of Dragoon Guards did not mean that these regiments (the former 2nd to 8th Horse) had become Household Troops, but simply that they had been given a more dignified title to compensate for the loss of pay and prestige.[15] Starting in 1756, seven regiments of Light Dragoons were raised. These Light Dragoons were trained in reconnaissance, skirmishing and other work requiring endurance in accordance with contemporary standards of light cavalry performance. The success of this new class of cavalry was such that eight regular Dragoon regiments were converted to Light Dragoons between 1768 and 1783.[16] Helm_eines_k.u.k._Dragoneroffiziers.jpg
+An exception to the rule was the British Army. To reduce military budgets, all horse (cavalry) regiments were gradually demoted to dragoons from 1746 onward — which meant they were paid on a lower scale. When this was completed in 1788, the heavy cavalry regiments had become either Dragoon Guards or Heavy Dragoons (depending on their precedence). The designation of Dragoon Guards did not mean that these regiments (the former 2nd to 8th Horse) had become Household Troops, but simply that they had been given a more dignified title to compensate for the loss of pay and prestige.[15] Starting in 1756, seven regiments of Light Dragoons were raised. These Light Dragoons were trained in reconnaissance, skirmishing and other work requiring endurance in accordance with contemporary standards of light cavalry performance. The success of this new class of cavalry was such that eight regular Dragoon regiments were converted to Light Dragoons between 1768 and 1783.[16]
 
 
 19th century
@@ -53,7 +53,7 @@ The Austrian (later Austro-Hungarian) Army of the 19th century included six regi
 
 During the 18th century several regiments of dragoons were created in Spain's American viceroyalties to protect the northern provinces and borders of New Spain in the present-day states of California, Nevada, Colorado, Texas, Kansas, Arizona, Montana, North Dakota and South Dakota.[29] Some of these functioned as a police force. In 1803, the regiments of dragoons began to be called light cavalry (C_azadores_) and dragoons disappeared from the Spanish Army shortly after 1815.
 
-In New Spain, soon to be México, dragoons were important and elite units of the Royal Army. A number of dragoons became important military and political figures, among them Ignacio Allende and Juan Aldama, members of the Queen's Regiment of Dragoons who defected and then initiated the independence movement in México in 1810. Another important dragoon was Agustin de Iturbide, who would ultimately achieve Mexican independence in 1821. He was known as the greatest horseman in México and became so renowned in battle during his youth that he acquired the nickname _El Dragón de Hierro_ or "The Iron Dragon" (in Spanish, "dragon" and "dragoon" both sound and are written exactly the same). He would go on to become Agustín I, after being elected Emperor of México. The political importance of dragoons during this time in the nascent country cannot be overstated. Battle_of_Resaca_de_la_Palma.jpg in May 1846.]] Prior to the War of 1812 the U.S. organized the Regiment of Light Dragoons. For the war a second regiment was activated; that regiment was consolidated with the original regiment in 1814. The original regiment was consolidated with the Corps of Artillery in June 1815.[30]
+In New Spain, soon to be México, dragoons were important and elite units of the Royal Army. A number of dragoons became important military and political figures, among them Ignacio Allende and Juan Aldama, members of the Queen's Regiment of Dragoons who defected and then initiated the independence movement in México in 1810. Another important dragoon was Agustin de Iturbide, who would ultimately achieve Mexican independence in 1821. He was known as the greatest horseman in México and became so renowned in battle during his youth that he acquired the nickname _El Dragón de Hierro_ or "The Iron Dragon" (in Spanish, "dragon" and "dragoon" both sound and are written exactly the same). He would go on to become Agustín I, after being elected Emperor of México. The political importance of dragoons during this time in the nascent country cannot be overstated. in May 1846.]] Prior to the War of 1812 the U.S. organized the Regiment of Light Dragoons. For the war a second regiment was activated; that regiment was consolidated with the original regiment in 1814. The original regiment was consolidated with the Corps of Artillery in June 1815.[30]
 
 The 1st United States Dragoons explored Iowa after the Black Hawk Purchase put the area under U.S. control. In the summer of 1835, the regiment blazed a trail along the Des Moines river and established outposts from present-day Des Moines to Fort Dodge. In 1933, the State of Iowa opened the Dragoon Trail, a scenic and historic drive that follows the path of the 1st United States Dragoons on their historic march.
 
@@ -61,7 +61,7 @@ In 1861 the two existing U.S. Dragoon regiments were re-designated as the 1st an
 
 In several stages between 1816 and 1861, the 21 existing Light Dragoon regiments in the British Army were disbanded or converted to lancers or hussars.[31]
 
-Between 1881 and 1907 all Russian cavalry (other than Cossacks and Imperial Guard regiments) were designated as dragoons, reflecting an emphasis on the double ability of dismounted action as well as the new cavalry tactics in their training and a growing acceptance of the impracticality of employing historical cavalry tactics against modern firepower. Upon the reinstatement of Uhlan and Hussar Regiments in 1907 their training pattern, as well as that of the Cuirassiers of the Guard, remained unchanged until the collapse of the Russian Imperial Army.[32] Karlsruhe_Leibdragonerdenkmal.jpg dragoon in a World War I monument at Karlsruhe. While almost an anachronism after the early stages of that war, German dragoons did see continuing service on the Eastern Front until 1917. Note the functional Stahlhelm helmet.]] In Japan, in the late 19th century/early 20th century, dragoons were deployed in the same way as in other armies, but were dressed as hussars.
+Between 1881 and 1907 all Russian cavalry (other than Cossacks and Imperial Guard regiments) were designated as dragoons, reflecting an emphasis on the double ability of dismounted action as well as the new cavalry tactics in their training and a growing acceptance of the impracticality of employing historical cavalry tactics against modern firepower. Upon the reinstatement of Uhlan and Hussar Regiments in 1907 their training pattern, as well as that of the Cuirassiers of the Guard, remained unchanged until the collapse of the Russian Imperial Army.[32] dragoon in a World War I monument at Karlsruhe. While almost an anachronism after the early stages of that war, German dragoons did see continuing service on the Eastern Front until 1917. Note the functional Stahlhelm helmet.]] In Japan, in the late 19th century/early 20th century, dragoons were deployed in the same way as in other armies, but were dressed as hussars.
 
 
 20th century
@@ -76,7 +76,7 @@ Probably the last use of real dragoons (infantry on horseback) in combat was mad
 
 Dragoner rank
 
-Dragoner_des_Oldenburgischen_Dragoner-Regiments_Nr._19,_1870..jpg Until 1918 _DRAGONER_ (en: dragoon) was the designation given to the lowest ranks in the dragoon regiments of the Austro-Hungarian and Imperial German Armies. The _Dragoner_ rank, together with all other private ranks of the different branch of service, did belong to the so-called gemeine rank group.
+Until 1918 _DRAGONER_ (en: dragoon) was the designation given to the lowest ranks in the dragoon regiments of the Austro-Hungarian and Imperial German Armies. The _Dragoner_ rank, together with all other private ranks of the different branch of service, did belong to the so-called gemeine rank group.
 
 
 Modern dragoons
@@ -95,7 +95,7 @@ At the time of the Republic proclamation in 1889, horse #6 of the Imperial Honor
 
 Canada
 
-Memorial_Stained_Glass_window,_2770_LCol_KL_Jefferson,_Royal_Military_College_of_Canada.jpg of 2770 LCol KL Jefferson, a member of the 12th Manitoba Dragoons, an armoured regiment of the Canadian Army and Canadian Forces]] There are three dragoon regiments in the Canadian Forces: the Royal Canadian Dragoons and two reserve regiments, the British Columbia Dragoons and the Saskatchewan Dragoons. The Royal Canadian Dragoons is the senior Armoured regiment in the Canadian Forces. The current role of The Royal Canadian Dragoons is to provide Armour Reconnaissance support to 2 Canadian Mechanized Brigade Group (2 CMBG) operations.
+of 2770 LCol KL Jefferson, a member of the 12th Manitoba Dragoons, an armoured regiment of the Canadian Army and Canadian Forces]] There are three dragoon regiments in the Canadian Forces: the Royal Canadian Dragoons and two reserve regiments, the British Columbia Dragoons and the Saskatchewan Dragoons. The Royal Canadian Dragoons is the senior Armoured regiment in the Canadian Forces. The current role of The Royal Canadian Dragoons is to provide Armour Reconnaissance support to 2 Canadian Mechanized Brigade Group (2 CMBG) operations.
 
 The Royal Canadian Mounted Police were accorded the formal status of a regiment of dragoons in 1921.[39][40] The modern RCMP does not retain any military status however.
 
@@ -109,7 +109,7 @@ The Royal Danish Army includes amongst its historic regiments the Jutish Dragoon
 
 Finland
 
-Ratsumieskilta_riders.jpg The Finnish Dragoon squadron exists in conjunction with the Army Academy in Lappeenranta and continues the traditions of the former 1. Squadron of the Uusimaa Dragoon battalion.
+The Finnish Dragoon squadron exists in conjunction with the Army Academy in Lappeenranta and continues the traditions of the former 1. Squadron of the Uusimaa Dragoon battalion.
 
 France
 
@@ -125,7 +125,7 @@ In the Norwegian Army during the early part of the 20th century, dragoons served
 
 Peru
 
-Dragones_del_Perú.jpg The Presidential Escort Life Guard Dragoons Regiment "Field Marshal Domingo Nieto", named after Field Marshal Domingo Nieto, of the President of the Republic of Perú were the traditional Guard of the Government Palace of Perú until March 5, 1987 and its disbandment in that year. However, by Ministerial Resolution No 139-2012/DE/EP of February 2, 2012 the restoration of the Cavalry Regiment "Marshal Domingo Nieto" as the official escort of the President of the Republic of Peru was announced. The main mission of the reestablished regiment was to guarantee the security of the President of the Republic and of the Government Palace.
+The Presidential Escort Life Guard Dragoons Regiment "Field Marshal Domingo Nieto", named after Field Marshal Domingo Nieto, of the President of the Republic of Perú were the traditional Guard of the Government Palace of Perú until March 5, 1987 and its disbandment in that year. However, by Ministerial Resolution No 139-2012/DE/EP of February 2, 2012 the restoration of the Cavalry Regiment "Marshal Domingo Nieto" as the official escort of the President of the Republic of Peru was announced. The main mission of the reestablished regiment was to guarantee the security of the President of the Republic and of the Government Palace.
 
 This regiment of dragoons was created in 1904 following the suggestion of a French military mission which undertook the reorganization of the Peruvian Army in 1896. The initial title of the unit was Cavalry Squadron "President's Escort". It was modelled on the French dragoons of the period. The unit was later renamed as the Cavalry Regiment "President's Escort" before receiving its current title in 1949.
 
@@ -137,7 +137,7 @@ Portugal
 
 The Portuguese Army still maintains two units which are descended from former regiments of dragoons. These are the 3rd Regiment of Cavalry (the former "Olivença Dragoons") and the 6th Regiment of Cavalry (the former "Chaves Dragoons"). Both regiments are, presently, armoured units. The Portuguese Rapid Reaction Brigade' Armoured Reconnaissance Squadron – a unit from the 3rd Regiment of Cavalry – is known as the "Paratroopers Dragoons".
 
-During the Portuguese Colonial War in the 1960s and the 1970s, the Portuguese Army created an experimental horse platoon, to combat the guerrillas in eastern Angola. This unit was soon augmented, becoming a group of three squadrons, known as the "Angola Dragoons". The Angola Dragoons operated as mounted infantry – like the original dragoons – each soldier being armed with a pistol to fire when on horseback and with an automatic rifle, to use when dismounted. A unit of the same type was being created in Mozambique when the war ended in 1974. Dragon_de_cuera_.jpg.]]
+During the Portuguese Colonial War in the 1960s and the 1970s, the Portuguese Army created an experimental horse platoon, to combat the guerrillas in eastern Angola. This unit was soon augmented, becoming a group of three squadrons, known as the "Angola Dragoons". The Angola Dragoons operated as mounted infantry – like the original dragoons – each soldier being armed with a pistol to fire when on horseback and with an automatic rifle, to use when dismounted. A unit of the same type was being created in Mozambique when the war ended in 1974. .]]
 
 Spain
 
@@ -155,7 +155,7 @@ In the Swedish Army, dragoons comprise the Military Police and Military Police R
 
 Switzerland
 
-Dragon_IMG_3508.jpg In the Swiss Army, mounted dragoons existed until the early 1970s, when they were converted into Armoured Grenadiers units. The "_Dragoner_" had to prove he was able to keep a horse at home before entering the army. At the end of basic training they had to buy a horse at a reduced price from the army and to take it home together with equipment, uniform and weapon. In the "yearly repetition course" the dragoons served with their horses, often riding from home to the meeting point.
+In the Swiss Army, mounted dragoons existed until the early 1970s, when they were converted into Armoured Grenadiers units. The "_Dragoner_" had to prove he was able to keep a horse at home before entering the army. At the end of basic training they had to buy a horse at a reduced price from the army and to take it home together with equipment, uniform and weapon. In the "yearly repetition course" the dragoons served with their horses, often riding from home to the meeting point.
 
 The abolition of the dragoon units, believed to be the last non-ceremonial horse cavalry in Europe, was a contentious issue in Switzerland. On 5 December 1972 the Swiss _National Council_ approved the measure by 91 votes, against 71 for retention.[46]
 

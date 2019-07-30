@@ -1,5 +1,3 @@
-Doctor-V64-Nintendo-64-Attached-FL.jpg
-
 The DOCTOR V64 (also referred to simply as the V64) was a development and backup device made by Bung Enterprises Ltd that was used in conjunction with the Nintendo 64. The Doctor V64 also had the ability to play Video CDs, audio CDs and had an option for applying stereo 3D effects to the audio.
 
 
@@ -33,8 +31,6 @@ Nintendo made many legal efforts worldwide in order to stop the sale of Doctor V
 
 
 Main menu
-
-Dv64-menu_c.jpg
 
 As with many backup devices of its time, the Doctor V64 implemented text based menu driven screens. The menus were spartan and purely functional in nature. Utilizing the buttons on the V64 unit a user would navigate the menus and issue commands. It was mainly designed for game developers even though it is possible to backup cartridges with it (through the use of an unofficial V64 bios). Some of the menu items related to game backups were removed from the V64's BIOS near the end of its life due to pressure from Nintendo. These items are only available by obtaining a patched V64 BIOS.
 

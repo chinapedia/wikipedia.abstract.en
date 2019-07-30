@@ -15,7 +15,7 @@ In 1797, Daniel C. Cooper laid out Mad River Road, the first overland connection
 
 Innovation
 
-Dayton_1870.JPG Innovation led to business growth in the region. In 1884, John Henry Patterson acquired James Ritty's National Manufacturing Company along with his cash register patents and formed the National Cash Register Company (NCR). The company manufactured the first mechanical cash registers and played a crucial role in the shaping of Dayton's reputation as an epicenter for manufacturing in the early 1900s. In 1906, Charles F. Kettering, a leading engineer at the company, helped develop the first electric cash register, which propelled NCR into the national spotlight.[21] NCR also helped develop the US Navy Bombe, a code-breaking machine that helped crack the Enigma machine cipher during World War II.[22]
+Innovation led to business growth in the region. In 1884, John Henry Patterson acquired James Ritty's National Manufacturing Company along with his cash register patents and formed the National Cash Register Company (NCR). The company manufactured the first mechanical cash registers and played a crucial role in the shaping of Dayton's reputation as an epicenter for manufacturing in the early 1900s. In 1906, Charles F. Kettering, a leading engineer at the company, helped develop the first electric cash register, which propelled NCR into the national spotlight.[21] NCR also helped develop the US Navy Bombe, a code-breaking machine that helped crack the Enigma machine cipher during World War II.[22]
 
 Dayton has been the home for many patents and inventions since the 1870s.[23][24] According to the National Park Service, citing information from the U.S. Patent Office, Dayton had granted more patents per capita than any other U.S. city in 1890 and ranked fifth in the nation as early as 1870.*
 
@@ -112,23 +112,21 @@ The 2013 census population estimate showed an increasing city of Dayton populati
 
 Economy
 
-445aw-1.jpg Dayton's economy is relatively diversified and vital to the overall economy of the state of Ohio. In 2008 and 2009, _Site Selection_ magazine ranked Dayton the #1 medium-sized metropolitan area in the U.S. for economic development.[57][58] Dayton is also among the top 100 metropolitan areas in both exports and export-related jobs, ranked 16 and 14 respectively by the Brookings Institution. The 2010 report placed the value of exports at $4.7 billion and the number of export-related jobs at 44,133.[59] The Dayton Metropolitan Statistical Area ranks 4th in Ohio's Gross Domestic Product with a 2008 industry total of $33.78 billion.[60] Additionally, Dayton ranks third among 11 major metropolitan areas in Ohio for exports to foreign countries.[61] The Dayton Development Coalition is attempting to leverage the region's large water capacity, estimated to be 1.5 trillion gallons of renewable water aquifers, to attract new businesses.[62][63] Moody's Investment Services revised Dayton's bond rating from A1 to the stronger rating of Aa2 as part of its global recalibration process. Standard & Poor's upgraded Dayton's rating from A+ to AA- in the summer of 2009.[64]
+Dayton's economy is relatively diversified and vital to the overall economy of the state of Ohio. In 2008 and 2009, _Site Selection_ magazine ranked Dayton the #1 medium-sized metropolitan area in the U.S. for economic development.[57][58] Dayton is also among the top 100 metropolitan areas in both exports and export-related jobs, ranked 16 and 14 respectively by the Brookings Institution. The 2010 report placed the value of exports at $4.7 billion and the number of export-related jobs at 44,133.[59] The Dayton Metropolitan Statistical Area ranks 4th in Ohio's Gross Domestic Product with a 2008 industry total of $33.78 billion.[60] Additionally, Dayton ranks third among 11 major metropolitan areas in Ohio for exports to foreign countries.[61] The Dayton Development Coalition is attempting to leverage the region's large water capacity, estimated to be 1.5 trillion gallons of renewable water aquifers, to attract new businesses.[62][63] Moody's Investment Services revised Dayton's bond rating from A1 to the stronger rating of Aa2 as part of its global recalibration process. Standard & Poor's upgraded Dayton's rating from A+ to AA- in the summer of 2009.[64]
 
 _Bloomberg Businessweek_ ranked Dayton in 2010 as one of the best places in the U.S. for college graduates looking for a job.[65][66] Companies such as Reynolds and Reynolds, CareSource, DPL, LexisNexis, Kettering Health Network, Premier Health Partners, and Standard Register have their headquarters in Dayton. It is also the former home of the Speedwell Motor Car Company, MeadWestvaco (formerly known as the Mead Paper Company), and NCR. NCR was headquartered in Dayton for over 125 years and was a major innovator in computer technology.[67]
 
 Research, development, aerospace and aviation
 
-Downtown_Dayton,_Ohio.jpg The Dayton region gave birth to aviation[68] and is known for its high concentration of aerospace and aviation technology. In 2009, Governor Ted Strickland designated Dayton as Ohio's aerospace innovation hub, the state's first such technology hub.[69] Two major United States research and development organizations have leveraged Dayton's historical leadership in aviation and maintain their headquarters in the area: The National Air and Space Intelligence Center (NASIC) and the Air Force Research Laboratory (AFRL). NASIC is the U.S. military's primary producer of intelligence on foreign air and space forces, weapons, and systems, while the AFRL provides leading-edge warfighting capabilities.[70] Both have their headquarters at Wright-Patterson Air Force Base.[71] Wright-Patterson Air Force Base is one of the Air Force's largest air base wings. The installation generated a total economic impact in the Dayton area of $4.67 billion in fiscal year 2011, a decline from $5.1 billion in fiscal year 2009.*
+The Dayton region gave birth to aviation[68] and is known for its high concentration of aerospace and aviation technology. In 2009, Governor Ted Strickland designated Dayton as Ohio's aerospace innovation hub, the state's first such technology hub.[69] Two major United States research and development organizations have leveraged Dayton's historical leadership in aviation and maintain their headquarters in the area: The National Air and Space Intelligence Center (NASIC) and the Air Force Research Laboratory (AFRL). NASIC is the U.S. military's primary producer of intelligence on foreign air and space forces, weapons, and systems, while the AFRL provides leading-edge warfighting capabilities.[70] Both have their headquarters at Wright-Patterson Air Force Base.[71] Wright-Patterson Air Force Base is one of the Air Force's largest air base wings. The installation generated a total economic impact in the Dayton area of $4.67 billion in fiscal year 2011, a decline from $5.1 billion in fiscal year 2009.*
 
 -   In addition, state officials are working to make the Dayton region a hub and a leader for UAV research and manufacturing.[72]
-
-Kettering_tower.JPG
 
 Several research organizations support NASIC, AFRL, and the Dayton community. The Advanced Technical Intelligence Center is a confederation of government, academic, and industry partners that leverage advanced technical intelligence expertise. daytaOhio is a non-profit organization based at Wright State University in Dayton, which also hosts five Ohio Centers of Excellence,[73] one of which is the Knowledge Enabled Computing (Kno.e.sis) center, which specializes in making technical advances in computer science areas such as semantics and big data.[74] The University of Dayton Research Institute (UDRI) is led by the University of Dayton. In 2004 and 2005, UDRI was ranked #2 in the nation by the National Science Foundation in federal and industry-funded materials research. The Cognitive Technologies Division (CTD) of Applied Research Associates, Inc., which carries out human-centered research and design, is headquartered in the Dayton suburb of Fairborn. The city of Dayton has started Tech Town, a development project to attract technology-based firms and revitalize the downtown area. Tech Town is home to the world's first RFID business incubator.[75] The University of Dayton-led Institute for Development & Commercialization of Sensor Technologies (IDCAST) at TechTown is a world-class center for excellence in remote sensing and sensing technology. It is one of Dayton's technology business incubators housed in The Entrepreneurs Center building.[76]
 
 Healthcare
 
-MVH_Southeast_Tower.JPG]] The Kettering Health Network and Premier Health Partners have a major role on the Dayton area's economy. Hospitals in the Greater Dayton area have an estimated combined employment of nearly 32,000 and a yearly economic impact of $6.8 billion.[77] In addition, several Dayton area hospitals consistently earn top national ranking and recognition including the _U.S. News & World Report_'s list of "America's Best Hospitals" as well as many of HealthGrades top ratings.[78] The most notable hospitals are Miami Valley Hospital and Kettering Medical Center. In 2011, the Dayton area was rated number three in the nation by HealthGrades for excellence in healthcare.[79][80] Also in 2011, Dayton was ranked the fourth best in the nation for emergency medicine care.[81] Then in 2013, HealthGrades ranked the Dayton region number one in the nation for the lowest hospital mortality rate.[82]
+]] The Kettering Health Network and Premier Health Partners have a major role on the Dayton area's economy. Hospitals in the Greater Dayton area have an estimated combined employment of nearly 32,000 and a yearly economic impact of $6.8 billion.[77] In addition, several Dayton area hospitals consistently earn top national ranking and recognition including the _U.S. News & World Report_'s list of "America's Best Hospitals" as well as many of HealthGrades top ratings.[78] The most notable hospitals are Miami Valley Hospital and Kettering Medical Center. In 2011, the Dayton area was rated number three in the nation by HealthGrades for excellence in healthcare.[79][80] Also in 2011, Dayton was ranked the fourth best in the nation for emergency medicine care.[81] Then in 2013, HealthGrades ranked the Dayton region number one in the nation for the lowest hospital mortality rate.[82]
 
 The Dayton region has several key institutes and centers for health care. The Center for Tissue Regeneration and Engineering at Dayton focuses on the science and development of human tissue regeneration. The National Center for Medical Readiness (NCMR) is also in the Dayton area. The center includes Calamityville, which is a state-of-the-art disaster training facility. Over a period of five years, Calamityville is estimated to have a regional economic impact of $374 million.[83] Also, the Neurological Institute at Miami Valley Hospital is an institute focused on the diagnosis, treatment, and research of neurological disorders.
 
@@ -157,13 +155,11 @@ The Dayton City Commission is composed of the mayor and four city commissioners.
 
 Cityscape
 
-DaytonView.jpg
-
 Architecture
 
 Unlike many Midwestern cities its age, Dayton has very broad and straight downtown streets (generally two or three full lanes in each direction) that improved access to the downtown even after the automobile became popular. The main reason for the broad streets was that Dayton was a marketing and shipping center from its beginning; streets were broad to enable wagons drawn by teams of three to four pairs of oxen to turn around. Also, some of today's streets were once barge canals flanked by draw-paths.
 
-MutualHomeSavingsBuilding.jpg]] A courthouse building was built in downtown Dayton in 1888 to supplement Dayton's original Neoclassical courthouse, which still stands. This second, "new" courthouse has since been replaced with new facilities as well as a park. The Old Court House has been a favored political campaign stop. On September 17, 1859, Abraham Lincoln delivered an address on its steps. Eight other presidents have visited the courthouse, either as presidents or during presidential campaigns: Andrew Johnson, James Garfield, John F. Kennedy, Lyndon B. Johnson, Richard Nixon, Gerald Ford, Ronald Reagan, and Bill Clinton.[86]
+]] A courthouse building was built in downtown Dayton in 1888 to supplement Dayton's original Neoclassical courthouse, which still stands. This second, "new" courthouse has since been replaced with new facilities as well as a park. The Old Court House has been a favored political campaign stop. On September 17, 1859, Abraham Lincoln delivered an address on its steps. Eight other presidents have visited the courthouse, either as presidents or during presidential campaigns: Andrew Johnson, James Garfield, John F. Kennedy, Lyndon B. Johnson, Richard Nixon, Gerald Ford, Ronald Reagan, and Bill Clinton.[86]
 
 In 2009, the CareSource Management Group finished construction of a $55 million corporate headquarters in downtown Dayton. The , 10-story building was downtown's first new office tower in more than a decade.[87]
 
@@ -186,14 +182,12 @@ Dayton is an outdoor city with an extensive bicycle and jogging trail system, fi
 
 Bicycling
 
-Montgomery_County_OH_USA_Recreation_Trail_Map.jpg In cooperation with the Miami Conservancy District, Five Rivers MetroParks hosts 340 miles of paved trails, the largest network of paved off-street trails in the United States.[92][93][94] In 2010, the city of Troy was named "bike friendly" by the League of American Bicyclists, which gave the city the organization's bronze designation.[95] The honorable mention made Dayton one of two cities in Ohio to receive the award, the other being Columbus, and one of 15 cities nationwide.[96]
+In cooperation with the Miami Conservancy District, Five Rivers MetroParks hosts 340 miles of paved trails, the largest network of paved off-street trails in the United States.[92][93][94] In 2010, the city of Troy was named "bike friendly" by the League of American Bicyclists, which gave the city the organization's bronze designation.[95] The honorable mention made Dayton one of two cities in Ohio to receive the award, the other being Columbus, and one of 15 cities nationwide.[96]
 
 
 Culture
 
 Fine arts
-
-Schustercenter.jpg
 
 The Dayton Region ranked within the top 10% in the nation in arts and culture.[97] In a 2012 readers' poll by _American Style_ magazine, Dayton ranked #2 in the country among mid-size cities as an arts destination, ranking higher than larger cities such as Atlanta, St. Louis, and Cincinnati.[98][99] Dayton is the home of the Dayton Art Institute.
 
@@ -207,15 +201,13 @@ Dayton is the home to several ballet companies including:
 
 Food
 
-Marion's_Piazza.JPG
-
 The city's fine dining restaurants include The Pine Club, a nationally known steakhouse.[110][111][112][113] Dayton is home to a variety of pizza chains that have become woven into local culture, the most notable of which are Cassano's and Marion's Piazza. Notable Dayton-based restaurant chains include Hot Head Burritos.[114]
 
 In addition to restaurants, the city is also home to Esther Price Candies,[115] a candy and chocolate company, and Mike-sells, the oldest potato chip company in the United States.[116]
 
 Religion
 
-SacredHeartChurchDayton.jpg Many major religions are represented in Dayton. Christianity is represented in Dayton by dozens of denominations and their respective churches.[117] Notable Dayton churches include the First Lutheran Church, Sacred Heart Church, and Ginghamsburg Church. Dayton's Muslim community is largely represented by the Islamic Society of Greater Dayton (ISGD), a Muslim community that includes a mosque on Josie Street. Dayton is also home to the United Theological Seminary, one of 13 seminaries affiliated with the United Methodist Church. Judaism is represented by Temple Israel. Hinduism is represented by the Hindu Temple of Dayton.[118]
+Many major religions are represented in Dayton. Christianity is represented in Dayton by dozens of denominations and their respective churches.[117] Notable Dayton churches include the First Lutheran Church, Sacred Heart Church, and Ginghamsburg Church. Dayton's Muslim community is largely represented by the Islamic Society of Greater Dayton (ISGD), a Muslim community that includes a mosque on Josie Street. Dayton is also home to the United Theological Seminary, one of 13 seminaries affiliated with the United Methodist Church. Judaism is represented by Temple Israel. Hinduism is represented by the Hindu Temple of Dayton.[118]
 
 
 Tourism
@@ -228,7 +220,7 @@ There are also some notable historical museums in the region. The Dayton Aviatio
 
 Entertainment
 
-Dayton_Air_Show_2009.jpg]]
+]]
 
 The Vectren Dayton Air Show is an annual air show that takes place at the Dayton International Airport. The Vectren Dayton Airshow is one of the largest air shows in the United States.[127]
 
@@ -275,7 +267,7 @@ The Dayton Dragons professional baseball team is a Class A minor league affiliat
 
 Collegiate
 
-UDarena.jpg The University of Dayton and Wright State University both host NCAA basketball. The University of Dayton Arena has hosted more games in the NCAA men's basketball tournament over its history than any other venue.[141] UD Arena is also the site of the First Round games of the NCAA Tournament. In 2012, eight teams competed for the final four spots in the NCAA Basketball Tournament. Wright State University's NCAA men's basketball is the Wright State Raiders and the University of Dayton's NCAA men's basketball team is the Dayton Flyers.
+The University of Dayton and Wright State University both host NCAA basketball. The University of Dayton Arena has hosted more games in the NCAA men's basketball tournament over its history than any other venue.[141] UD Arena is also the site of the First Round games of the NCAA Tournament. In 2012, eight teams competed for the final four spots in the NCAA Basketball Tournament. Wright State University's NCAA men's basketball is the Wright State Raiders and the University of Dayton's NCAA men's basketball team is the Dayton Flyers.
 
 Hockey
 
@@ -299,8 +291,6 @@ The city of Dayton is the home to the Dayton Area Rugby Club which host their ho
 
 
 Media
-
-New_Dayton_Daily_News_Building.jpg
 
 Newspapers
 
@@ -329,7 +319,7 @@ Dayton operates a Greyhound Station which provides inter-city bus transportation
 
 Airports
 
-Dayton_terminal.JPG]]
+]]
 
 Air transportation is available north of Dayton proper, via Dayton International Airport in Vandalia, Ohio. The airport offers service to 21 markets through 10 airlines. In 2008, it served 2.9 million passengers. The Dayton International Airport is also a significant regional air freight hub hosting FedEx Express, UPS Airlines, United States Postal Service, and major commercial freight carriers.[152]
 
@@ -396,7 +386,7 @@ Dayton has 33 charter schools.[162] Three of the top five charter schools named 
 
 Colleges and universities
 
-UniversityofDayton.jpg The Dayton area was ranked tenth for higher education among metropolitan areas in the United States by _Forbes_ in 2009.[164] The city is home to two major universities. The University of Dayton is a private, Catholic institution founded in 1850 by the Marianist order. It has the only American Bar Association (ABA)-approved law school in the Dayton area.[165] The University of Dayton is Ohio's largest private university and is also home to the University of Dayton Research Institute, which ranks third in the nation for sponsored materials research,[166] and the Center for Tissue Regeneration and Engineering at Dayton, which focuses on human tissue regeneration.[167]
+The Dayton area was ranked tenth for higher education among metropolitan areas in the United States by _Forbes_ in 2009.[164] The city is home to two major universities. The University of Dayton is a private, Catholic institution founded in 1850 by the Marianist order. It has the only American Bar Association (ABA)-approved law school in the Dayton area.[165] The University of Dayton is Ohio's largest private university and is also home to the University of Dayton Research Institute, which ranks third in the nation for sponsored materials research,[166] and the Center for Tissue Regeneration and Engineering at Dayton, which focuses on human tissue regeneration.[167]
 
 The public Wright State University became a state university in 1967. Wright State University established the National Center for Medical Readiness, a national training program for disaster preparedness and relief. Wright State's Boonshoft School of Medicine is the Dayton area's only medical school and is a leader in biomedical research.[168]
 
@@ -421,8 +411,6 @@ Also notable, John Dillinger, a famous bank robber during the early 1930s, was c
 
 
 Sister cities
-
-Holon_Twin_cities.JPG
 
 -   Augsburg, Bavaria, Germany
 

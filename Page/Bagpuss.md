@@ -40,8 +40,6 @@ The episodes were originally broadcast at 1:45pm on BBC1. The titles of the epis
 
 Production
 
-BagpussCharacters.jpg
-
 The programmes were made using stop-frame animation. Bagpuss is an actual cloth cat, but was not intended to be such an electric pink. "It should have been a ginger marmalade cat but the company in Folkestone dyeing the material made a mistake and it turned out pink and cream. It was the best thing that ever happened," said Firmin.[13]
 
 Madeleine the rag doll was made by Firmin's wife, Joan, with an extra long dress to hold their children's nightdresses, but Postgate asked Joan to make a new version as one of the characters.
@@ -51,8 +49,6 @@ Gabriel the Toad was the only character in the series who could move freely with
 Professor Yaffle was created as the Bookend who had access to "facts". The BBC did not like Peter's first character, a man in top hat made from black Irish bog oak called "Professor Bogwood". They thought it was too frightening and asked for a non-human instead.
 
 Bagpuss is now retired. First he lived with Rupert Bear in the Rupert Bear Museum in Canterbury, part of the Canterbury Heritage Museum. After its closure at the end of 2017, he and Rupert Bear moved to the Beaney House of Art and Knowledge in Canterbury.
-
-Bagpuss_in_Canterbury.jpg
 
 Most of the stories and songs used in the series are based on folk songs and fairy tales from around the world.
 

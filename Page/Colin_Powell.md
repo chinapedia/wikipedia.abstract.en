@@ -44,7 +44,7 @@ Powell returned to Vietnam as a major in 1968, serving as assistant chief of sta
 
 Powell was charged with investigating a detailed letter by 11th Light Infantry Brigade soldier Tom Glen, which backed up rumored allegations of the My Lai Massacre. He wrote: "In direct refutation of this portrayal is the fact that relations between American soldiers and the Vietnamese people are excellent." Later, Powell's assessment would be described as whitewashing the news of the massacre, and questions would continue to remain undisclosed to the public. In May 2004 Powell said to television and radio host Larry King, "I was in a unit that was responsible for My Lai. I got there after My Lai happened. So, in war, these sorts of horrible things happen every now and again, but they are still to be deplored."[30]
 
-Powell.JPEG of FORSCOM.]]
+of FORSCOM.]]
 
 After the Vietnam War
 
@@ -56,7 +56,7 @@ A "political general"
 
 In the early 1980s, Powell served at Fort Carson, Colorado. After he left Fort Carson, Powell became senior military assistant to Secretary of Defense Caspar Weinberger, whom he assisted during the 1983 invasion of Grenada and the 1986 airstrike on Libya.
 
-ReaganPowell.jpg and National Security Advisor Powell in 1988]] In 1986, Powell took over the command of V Corps in Frankfurt, Germany, from Robert Lewis "Sam" Wetzel.
+and National Security Advisor Powell in 1988]] In 1986, Powell took over the command of V Corps in Frankfurt, Germany, from Robert Lewis "Sam" Wetzel.
 
 Following the Iran–Contra scandal, Powell became, at the age of 49, Ronald Reagan's National Security Advisor, serving from 1987 to 1989 while retaining his Army commission as a lieutenant general.
 
@@ -66,13 +66,9 @@ Later that year, President George H. W. Bush selected him as Chairman of the Joi
 
 Chairman of the Joint Chiefs of Staff
 
-GEN_Colin_Powell.JPG
-
 Powell's last military assignment, from October 1, 1989, to September 30, 1993, was as the 12th Chairman of the Joint Chiefs of Staff, the highest military position in the Department of Defense. At age 52, he became the youngest officer, and first Afro-Caribbean American, to serve in this position. Powell was also the first JCS Chair who received his commission through ROTC.[35]
 
 During this time, he oversaw responses to 28 crises, including the invasion of Panama in 1989 to remove General Manuel Noriega from power and Operation Desert Storm in the 1991 Persian Gulf War. During these events, Powell earned his nickname, "the reluctant warrior." He rarely advocated military intervention as the first solution to an international crisis, and instead usually prescribed diplomacy and containment.
-
-DA-SD-05-00599.jpg
 
 As a military strategist, Powell advocated an approach to military conflicts that maximizes the potential for success and minimizes casualties. A component of this approach is the use of overwhelming force, which he applied to Operation Desert Storm in 1991. His approach has been dubbed the "Powell Doctrine". Powell continued as chairman of the JCS into the Clinton presidency but as a dedicated "realist" he considered himself a bad fit for an administration largely made up of liberal internationalists.[36] He clashed with then-U.S. ambassador to the United Nations Madeleine Albright over the Bosnian crisis, as he opposed any military interventions that didn't involve US interests.[37]
 
@@ -80,18 +76,18 @@ During his chairmanship of the JCS, there was discussion of awarding Powell a fi
 
 Dates of rank
 
-  Rank                                                      Date
-  --------------------------------------------------------- -------------------
-  US_Army_O10_shoulderboard_rotated.svg General             April 4, 1989
-  US_Army_O9_shoulderboard_rotated.svg Lieutenant general   March 26, 1986
-  US_Army_O8_shoulderboard_rotated.svg Major general        August 1, 1983
-  US_Army_O7_shoulderboard_rotated.svg Brigadier general    June 1, 1979
-  US_Army_O6_shoulderboard_rotated.svg Colonel              February 1, 1976
-  US_Army_O5_shoulderboard_rotated.svg Lieutenant colonel   July 9, 1970
-  US_Army_O4_shoulderboard_rotated.svg Major                May 24, 1966
-  US_Army_O3_shoulderboard_rotated.svg Captain              June 2, 1962
-  US_Army_O2_shoulderboard_rotated.svg First lieutenant     December 30, 1959
-  US_Army_O1_shoulderboard_rotated.svg Second lieutenant    June 9, 1958
+  Rank                 Date
+  -------------------- -------------------
+  General              April 4, 1989
+  Lieutenant general   March 26, 1986
+  Major general        August 1, 1983
+  Brigadier general    June 1, 1979
+  Colonel              February 1, 1976
+  Lieutenant colonel   July 9, 1970
+  Major                May 24, 1966
+  Captain              June 2, 1962
+  First lieutenant     December 30, 1959
+  Second lieutenant    June 9, 1958
 
   : Promotions
 
@@ -103,49 +99,49 @@ File:Combat Infantry Badge.svg|Combat Infantryman Badge File:Expert Infantry Bad
 
 Medals and ribbons
 
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Defense Distinguished Service Medal with three oak leaf clusters[43] |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Army Distinguished Service Medal with oak leaf cluster[44]           |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Navy Distinguished Service Medal[45]                                 |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Air Force Distinguished Service Medal[46]                            |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Coast Guard Distinguished Service Medal[47]                          |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Defense Superior Service Medal[48]                                   |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Legion of Merit with oak leaf cluster[49]                            |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Soldier's Medal[50]                                                  |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Bronze Star Medal                                                    |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Purple Heart                                                         |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Air Medal                                                            |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Joint Service Commendation Medal                                     |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Army Commendation Medal with two oak leaf clusters                   |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Presidential Medal of Freedom with Distinction (1993)[51]            |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Presidential Medal of Freedom (1991)                                 |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Presidential Citizens Medal                                          |
-+-------------------------------------------+----------------------------------------------------------------------+
-| USA_-_DOS_Distinguished_Service_Award.png | Secretary's Distinguished Service Award                              |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | National Defense Service Medal with bronze service star              |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Vietnam Service Medal with silver service star                       |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}                         | Army Service Ribbon                                                  |
-+-------------------------------------------+----------------------------------------------------------------------+
-| border|width=80}}Award_numeral_4.png      | Army Overseas Service Ribbon with award numeral 4                    |
-+-------------------------------------------+----------------------------------------------------------------------+
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Defense Distinguished Service Medal with three oak leaf clusters[43] |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Army Distinguished Service Medal with oak leaf cluster[44]           |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Navy Distinguished Service Medal[45]                                 |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Air Force Distinguished Service Medal[46]                            |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Coast Guard Distinguished Service Medal[47]                          |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Defense Superior Service Medal[48]                                   |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Legion of Merit with oak leaf cluster[49]                            |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Soldier's Medal[50]                                                  |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Bronze Star Medal                                                    |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Purple Heart                                                         |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Air Medal                                                            |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Joint Service Commendation Medal                                     |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Army Commendation Medal with two oak leaf clusters                   |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Presidential Medal of Freedom with Distinction (1993)[51]            |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Presidential Medal of Freedom (1991)                                 |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Presidential Citizens Medal                                          |
++-------------------+----------------------------------------------------------------------+
+|                   | Secretary's Distinguished Service Award                              |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | National Defense Service Medal with bronze service star              |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Vietnam Service Medal with silver service star                       |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Army Service Ribbon                                                  |
++-------------------+----------------------------------------------------------------------+
+| border|width=80}} | Army Overseas Service Ribbon with award numeral 4                    |
++-------------------+----------------------------------------------------------------------+
 
 Foreign decorations
 
@@ -197,13 +193,13 @@ In the electoral college vote count of 2016, Powell received three votes for Pre
 
 Secretary of State (2001–2005)
 
-Condoleezza_Rice_Colin_Powell_George_W._Bush_Donald_Rumsfeld.jpg and Secretary of Defense Donald Rumsfeld listen to President George W. Bush speak.]] As Secretary of State in the Bush administration, Powell was perceived as moderate. Powell was unanimously confirmed by the United States Senate. Over the course of his tenure he traveled less than any other U.S. Secretary of State in 30 years. [68]
+and Secretary of Defense Donald Rumsfeld listen to President George W. Bush speak.]] As Secretary of State in the Bush administration, Powell was perceived as moderate. Powell was unanimously confirmed by the United States Senate. Over the course of his tenure he traveled less than any other U.S. Secretary of State in 30 years. [68]
 
 On September 11, 2001, Powell was in Lima, Peru, meeting with President Alejandro Toledo and US Ambassador John Hamilton, and attending the special session of the OAS General Assembly that subsequently adopted the Inter-American Democratic Charter. After the September 11 attacks, Powell's job became of critical importance in managing America's relationships with foreign countries in order to secure a stable coalition in the War on Terrorism.
 
 Powell came under fire for his role in building the case for the 2003 Invasion of Iraq. In a press statement on February 24, 2001, he had said that sanctions against Iraq had prevented the development of any weapons of mass destruction by Saddam Hussein. As was the case in the days leading up to the Persian Gulf War, Powell was initially opposed to a forcible overthrow of Saddam, preferring to continue a policy of containment. However, Powell eventually agreed to go along with the Bush administration's determination to remove Saddam. He had often clashed with others in the administration, who were reportedly planning an Iraq invasion even before the September 11 attacks, an insight supported by testimony by former terrorism czar Richard Clarke in front of the 9/11 Commission. The main concession Powell wanted before he would offer his full support for the Iraq War was the involvement of the international community in the invasion, as opposed to a unilateral approach. He was also successful in persuading Bush to take the case of Iraq to the United Nations, and in moderating other initiatives. Powell was placed at the forefront of this diplomatic campaign.
 
-Powell_UN_Iraq_presentation,_alleged_Mobile_Production_Facilities.jpg, presented by Powell at the UN Security Council. On May 27, 2003, US and UK experts examined the trailers and declared they had nothing to do with biological weapons.[69]]] Powell-anthrax-vial.jpg while giving a presentation to the United Nations Security Council in February 2003.]]
+, presented by Powell at the UN Security Council. On May 27, 2003, US and UK experts examined the trailers and declared they had nothing to do with biological weapons.[69]]] while giving a presentation to the United Nations Security Council in February 2003.]]
 
 Powell's chief role was to garner international support for a multi-national coalition to mount the invasion. To this end, Powell addressed a plenary session of the United Nations Security Council on February 5, 2003, to argue in favor of military action. Citing numerous anonymous Iraqi defectors, Powell asserted that "there can be no doubt that Saddam Hussein has biological weapons and the capability to rapidly produce more, many more." Powell also stated that there was "no doubt in my mind" that Saddam was working to obtain key components to produce nuclear weapons.[70]
 
@@ -219,7 +215,7 @@ Wilkerson said that he inadvertently participated in a hoax on the American peop
 
 Because Powell was seen as more moderate than most figures in the administration, he was spared many of the attacks that have been leveled at more controversial advocates of the invasion, such as Donald Rumsfeld and Paul Wolfowitz. At times, infighting among the Powell-led State Department, the Rumsfeld-led Defense Department, and Cheney's office had the effect of polarizing the administration on crucial issues, such as what actions to take regarding Iran and North Korea.
 
-Jaap_de_Hoop_Scheffer.jpg]]
+]]
 
 After Saddam Hussein had been deposed, Powell's new role was to once again establish a working international coalition, this time to assist in the rebuilding of post-war Iraq. On September 13, 2004, Powell testified before the Senate Governmental Affairs Committee,[78] acknowledging that the sources who provided much of the information in his February 2003 UN presentation were "wrong" and that it was "unlikely" that any stockpiles of WMDs would be found. Claiming that he was unaware that some intelligence officials questioned the information prior to his presentation, Powell pushed for reform in the intelligence community, including the creation of a national intelligence director who would assure that "what one person knew, everyone else knew."
 
@@ -236,11 +232,11 @@ Life after diplomatic service
 
 After retiring from the role of Secretary of State, Powell returned to private life. In April 2005, he was privately telephoned by Republican senators Lincoln Chafee and Chuck Hagel,[84] at which time Powell expressed reservations and mixed reviews about the nomination of John R. Bolton as ambassador to the United Nations, but refrained from advising the senators to oppose Bolton (Powell had clashed with Bolton during Bush's first term).[85] The decision was viewed as potentially dealing significant damage to Bolton's chances of confirmation. Bolton was put into the position via a recess appointment because of the strong opposition in the Senate.
 
-Ki-moon_Powell.jpg, 2004.]] On April 28, 2005, an opinion piece in _The Guardian_ by Sidney Blumenthal (a former top aide to President Bill Clinton) claimed that Powell was in fact "conducting a campaign" against Bolton because of the acrimonious battles they had had while working together, which among other things had resulted in Powell cutting Bolton out of talks with Iran and Libya after complaints about Bolton's involvement from the British. Blumenthal added that "The foreign relations committee has discovered that Bolton made a highly unusual request and gained access to 10 intercepts by the National Security Agency. Staff members on the committee believe that Bolton was probably spying on Powell, his senior advisors and other officials reporting to him on diplomatic initiatives that Bolton opposed."[86]
+, 2004.]] On April 28, 2005, an opinion piece in _The Guardian_ by Sidney Blumenthal (a former top aide to President Bill Clinton) claimed that Powell was in fact "conducting a campaign" against Bolton because of the acrimonious battles they had had while working together, which among other things had resulted in Powell cutting Bolton out of talks with Iran and Libya after complaints about Bolton's involvement from the British. Blumenthal added that "The foreign relations committee has discovered that Bolton made a highly unusual request and gained access to 10 intercepts by the National Security Agency. Staff members on the committee believe that Bolton was probably spying on Powell, his senior advisors and other officials reporting to him on diplomatic initiatives that Bolton opposed."[86]
 
 In July 2005, Powell joined Kleiner, Perkins, Caufield & Byers, a well-known Silicon Valley venture capital firm, with the title of "strategic limited partner."
 
-In September 2005, Powell criticized the response to Hurricane Katrina.[87] Powell said that thousands of people were not properly protected, but because they were poor rather than because they were black. King_Abdullah_with_Dick_Cheney_George_H.W._Bush,_August_2005.jpg, Vice President Dick Cheney, and former President George H. W. Bush, Saudi Arabia, August 2005.]] On January 5, 2006, he participated in a meeting at the White House of former Secretaries of Defense and State to discuss United States foreign policy with Bush administration officials. In September 2006, Powell sided with more moderate Senate Republicans in supporting more rights for detainees and opposing President Bush's terrorism bill. He backed Senators John Warner, John McCain and Lindsey Graham in their statement that U.S. military and intelligence personnel in future wars will suffer for abuses committed in 2006 by the U.S. in the name of fighting terrorism. Powell stated that "The world is beginning to doubt the moral basis of [America's] fight against terrorism."[88]
+In September 2005, Powell criticized the response to Hurricane Katrina.[87] Powell said that thousands of people were not properly protected, but because they were poor rather than because they were black. , Vice President Dick Cheney, and former President George H. W. Bush, Saudi Arabia, August 2005.]] On January 5, 2006, he participated in a meeting at the White House of former Secretaries of Defense and State to discuss United States foreign policy with Bush administration officials. In September 2006, Powell sided with more moderate Senate Republicans in supporting more rights for detainees and opposing President Bush's terrorism bill. He backed Senators John Warner, John McCain and Lindsey Graham in their statement that U.S. military and intelligence personnel in future wars will suffer for abuses committed in 2006 by the U.S. in the name of fighting terrorism. Powell stated that "The world is beginning to doubt the moral basis of [America's] fight against terrorism."[88]
 
 Also in 2006, Powell began appearing as a speaker at a series of motivational events called _Get Motivated_, along with former New York Mayor Rudy Giuliani. In his speeches for the tour, he openly criticized the Bush Administration on a number of issues. Powell has been the recipient of mild criticism for his role with _Get Motivated_ which has been called a "get-rich-quick-without-much-effort, feel-good schemology."[89]
 
@@ -330,8 +326,6 @@ Powell's civilian awards include two Presidential Medals of Freedom (the second 
 -   On December 15, 1993, Colin Powell was created an honorary Knight Commander of the Order of the Bath by Queen Elizabeth II of the United Kingdom.
 -   In 1998, he was awarded the prestigious Sylvanus Thayer Award by the United States Military Academy for his commitment to the ideals of "Duty, Honor, Country."
 -   The 2002 Liberty Medal was awarded to Colin Powell on July 4 in Philadelphia, Pennsylvania. In his acceptance speech, Powell reminded Americans that "It is for America, the Land of the Free and the Home of the Brave, to help freedom ring across the globe, unto all the peoples thereof. That is our solemn obligation, and we will not fail."[141]
-
-Coat_of_Arms_of_Colin_Powell.svg
 
 -   The coat of arms of Colin Powell was granted by the Lord Lyon in Edinburgh on February 4, 2004. Technically the grant was to Powell's father (a British subject) to be passed on by descent. Scotland's King of Arms is traditionally responsible for granting arms to Commonwealth citizens of Scottish descent. Blazoned as
 

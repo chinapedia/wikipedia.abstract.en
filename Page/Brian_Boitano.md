@@ -8,8 +8,6 @@ Brian Boitano was born in Mountain View, California, and as an adult has lived i
 
 Figure skating career
 
-Brian_Boitano_1990_Paraguay_stamp.jpg
-
 Early career
 
 Brian Boitano first made his mark on the international scene when he won the bronze medal at the 1978 World Junior Figure Skating Championships, beating future rival Brian Orser for that medal[4]

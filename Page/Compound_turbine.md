@@ -8,7 +8,7 @@ The rotor arrangement can be either tandem-compound in which the two axles are j
 
 Advantages
 
-Niederdruck-Turbinenläufer.jpg The principal advantages of compound turbines are the reduction in size of any one casing, the confinement of the highest pressure to the smaller casing (which may be made of stronger and more expensive materials) and the possibility of divided flow in the low-pressure casing for the purpose of equalizing end thrusts.
+The principal advantages of compound turbines are the reduction in size of any one casing, the confinement of the highest pressure to the smaller casing (which may be made of stronger and more expensive materials) and the possibility of divided flow in the low-pressure casing for the purpose of equalizing end thrusts.
 
 
 See also

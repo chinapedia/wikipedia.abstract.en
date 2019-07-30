@@ -1,11 +1,11 @@
-Falkland_Islands_map_shaded_relief-en.svg]] The HISTORY OF THE FALKLAND ISLANDS () goes back at least five hundred years, with active exploration and colonisation only taking place in the 18th century. Nonetheless, the islands have been a matter of controversy, as they have been claimed by the French, British, Spaniards and Argentines at various points.
+]] The HISTORY OF THE FALKLAND ISLANDS () goes back at least five hundred years, with active exploration and colonisation only taking place in the 18th century. Nonetheless, the islands have been a matter of controversy, as they have been claimed by the French, British, Spaniards and Argentines at various points.
 
 The islands were uninhabited when discovered by Europeans. France established a colony on the islands in 1764. In 1765, a British captain claimed the islands for Britain. In early 1770 a Spanish commander arrived from Argentina with five ships and 1400 soldiers forcing the British to leave Port Egmont. Britain and Spain almost went to war over the islands, but the British government decided that it should withdraw its presence from many overseas settlements in 1774. Spain, which had a garrison at Puerto Soledad on East Falklands, administered the garrison from Montevideo until 1811 when it was compelled to withdraw by pressures resulting from the Peninsular War. In 1833, the British returned to the Falkland Islands. Argentina invaded the islands on 2 April 1982. The British responded with an expeditionary force that forced the Argentines to surrender.
 
 
 Pre-European discovery
 
-FalklandIslandFox2.jpg is sometimes taken as evidence of pre-European discovery.]]
+is sometimes taken as evidence of pre-European discovery.]]
 
 When the world sea level was lower in the Ice Age, the Falkland Islands may have been joined to the mainland of South America.
 
@@ -18,7 +18,7 @@ The islands had no native trees when discovered but there is some ambiguous evid
 
 European discovery
 
-Richard_Hawkins.jpg]]
+]]
 
 An archipelago in the region of the Falkland Islands appeared on Portuguese maps from the early 16th century. Researchers Pepper and Pascoe cite the possibility that an unknown Portuguese expedition may have sighted the islands, based on the existence of a French copy of a Portuguese map from 1516.[5] Maps from this period show islands known as the _Sanson_ islands in a position that could be interpreted as the Falklands.
 
@@ -26,13 +26,11 @@ Sightings of the islands are attributed to Ferdinand Magellan or Estêvão Gomes
 
 Destefani also attributes an early visit to the Falklands by an unknown Spanish ship, although Destefani's firm conclusions are contradicted by authors who conclude the sightings refer to the Beagle Channel.[8]
 
-Hawkesworth-Byron-Map.PNG When English explorer John Davis, commander of the _Desire_, one of the ships belonging to Thomas Cavendish's second expedition to the New World, separated from Cavendish off the coast of what is now southern Argentina, he decided to make for the Strait of Magellan in order to find Cavendish. On 9 August 1592 a severe storm battered his ship, and Davis drifted under bare masts, taking refuge "among certain Isles never before discovered". Davis did not provide the latitude of these islands, indicating they were 50 leagues away from the Patagonian coast (they are actually 75 leagues away).[9] Positional errors due to the longitude problem continued to be a problem till the late 19th century, when accurate chronometers were first produced,[10] although Destefani asserts the error here to be "unusually large".
+When English explorer John Davis, commander of the _Desire_, one of the ships belonging to Thomas Cavendish's second expedition to the New World, separated from Cavendish off the coast of what is now southern Argentina, he decided to make for the Strait of Magellan in order to find Cavendish. On 9 August 1592 a severe storm battered his ship, and Davis drifted under bare masts, taking refuge "among certain Isles never before discovered". Davis did not provide the latitude of these islands, indicating they were 50 leagues away from the Patagonian coast (they are actually 75 leagues away).[9] Positional errors due to the longitude problem continued to be a problem till the late 19th century, when accurate chronometers were first produced,[10] although Destefani asserts the error here to be "unusually large".
 
 In 1594, they may have been visited by English commander Richard Hawkins, who, combining his own name with that of Queen Elizabeth I, the "Virgin Queen", gave a group of islands the name of "Hawkins' Maidenland". However, the latitude given was off by at least 3 degrees and the description of the shore (including the sighting of bonfires) casts doubts on his discovery.[11] Errors in the latitude measured can be attributed to a simple mistake reading a cross staff divided into minutes meaning the latitude measured could be 50° 48'.[12] The description of bonfires can also be attributed to peat fires caused by lightning, which is not uncommon in the outer islands of the Falklands in February.[13] In 1925, Conor O'Brian analysed the voyage of Hawkins and concluded that the only land he could have sighted was Steeple Jason Island.[14] The British historian Mary Cawkell also points out that criticism of the account of Hawkins discovery should be tempered by the fact it was written 9 years after the event; Hawkins was captured by the Spanish and spent 8 years in prison.[15]
 
 On 24 January 1600, the Dutchman Sebald de Weert visited the Jason Islands and called them the Sebald Islands (in Spanish, "Islas Sebaldinas" or "Sebaldes"). This name remained in use for the entire Falkland Islands for a long time; William Dampier used the name _Sibbel de Wards_ in his reports of his visits in 1684 and 1703,[16] while James Cook still referred to the Sebaldine Islands in the 1770s.[17] The latitude that De Weert provided (50° 40') was close enough as to be considered, for the first time beyond doubt, the Falkland Islands.[18]
-
-French_map_of_South_America,_c._1710.jpg
 
 English Captain John Strong, commander of the _Welfare_, sailed between the two principal islands in 1690 and called the passage "Falkland Channel" (now Falkland Sound), after Anthony Cary, 5th Viscount Falkland (1656–1694), who as Commissioner of the Admiralty had financed the expedition and later became First Lord of the Admiralty. From this body of water the island group later took its collective name.
 
@@ -41,7 +39,7 @@ Early colonisation
 
 France established a colony at Port St. Louis, on East Falkland's Berkeley Sound coast in 1764. The French name _Îles Malouines_ was given to the islands – _malouin_ being the adjective for the Breton port of Saint-Malo. The Spanish name _Islas Malvinas_ is a translation of the French name of _Îles Malouines_.
 
-John_Byron-Joshua_Reynolds-1759.jpg, 1759.]] In 1765, Capt. John Byron, who was unaware the French had established Port Saint Louis on East Falkland, explored Saunders Island around West Falkland. After discovering a natural harbour, he named the area Port Egmont and claimed the islands for Britain on the grounds of prior discovery. The next year Captain John MacBride established a permanent British settlement at Port Egmont.
+, 1759.]] In 1765, Capt. John Byron, who was unaware the French had established Port Saint Louis on East Falkland, explored Saunders Island around West Falkland. After discovering a natural harbour, he named the area Port Egmont and claimed the islands for Britain on the grounds of prior discovery. The next year Captain John MacBride established a permanent British settlement at Port Egmont.
 
 Under the alliance established by the Pacte de Famille, in 1766 France agreed to leave after the Spanish complained about French presence in territories they considered their own. Spain agreed to compensate Louis de Bougainville, the French admiral and explorer who had established the settlement on East Falkland at his own expense. In 1767, the Spanish formally assumed control of Port St. Louis and renamed it _Puerto Soledad_ (English: Port Solitude).
 
@@ -71,8 +69,6 @@ Barnard and his party survived for eighteen months marooned on the islands until
 
 Argentine colonisation attempts
 
-Jewett_.Col.D.contemporary.jpeg
-
 In March 1820, the _Heroína_, a privately owned frigate that was operated as a privateer under a license issued by the United Provinces of the River Plate, under the command of American Colonel David Jewett, set sail looking to capture Spanish ships as prizes. He captured _Carlota_, a Portuguese ship, which was considered an act of piracy. A storm resulted in severe damage to _Heroína_ and sank the prize _Carlota_, forcing Jewett to put into Puerto Soledad for repairs in October 1820.
 
 Captain Jewett sought assistance from the British explorer James Weddell. Weddell reported the letter he received from Jewett as:[23]
@@ -87,7 +83,7 @@ Jewett departed from the Falkland Islands in April 1821. In total he had spent n
 
 Luis Vernet's enterprise
 
-Vernet_Luis_Portrait.jpg]]
+]]
 
 In 1823, the United Provinces of the River Plate granted fishing rights to Jorge Pacheco and Luis Vernet. Travelling to the islands in 1824, the first expedition failed almost as soon as it landed, and Pacheco chose not to continue with the venture. Vernet persisted, but the second attempt, delayed until winter 1826 by a Brazilian blockade, was also unsuccessful. The expedition intended to exploit the feral cattle on the islands but the boggy conditions meant the gauchos could not catch cattle in their traditional way. Vernet was by now aware of conflicting British claims to the islands and sought permission from the British consulate before departing for the islands.
 
@@ -110,7 +106,7 @@ In the aftermath of the _Lexington_ incident, Major Esteban Mestivier was commis
 
 British return
 
-HMS_Beagle_by_Conrad_Martens.jpg's draughtsman, Conrad Martens. Painted during the survey of Tierra del Fuego, it depicts the _Beagle_ being hailed by native Fuegians. The _Beagle_ visited the Falklands in 1834, and a Fuegian "mission" was later planted on Keppel Island in the west of the Falklands]]
+'s draughtsman, Conrad Martens. Painted during the survey of Tierra del Fuego, it depicts the _Beagle_ being hailed by native Fuegians. The _Beagle_ visited the Falklands in 1834, and a Fuegian "mission" was later planted on Keppel Island in the west of the Falklands]]
 
 The Argentinian assertions of sovereignty provided the spur for Britain to send a naval task force in order to finally and permanently return to the islands.
 
@@ -131,7 +127,7 @@ Vernet later attempted to return to the Islands but was refused permission to re
 
 British colonisation
 
-Lord_john_russell.jpg, GCMG, PC (18 August 179228 May 1878)]]
+, GCMG, PC (18 August 179228 May 1878)]]
 
 Immediately following their return to the Falkland Islands and the failure of Vernet's settlement, the British maintained Port Louis as a military outpost. There was no attempt to colonise the islands following the intervention, instead there was a reliance upon the remaining rump of Vernet's settlement.[43] Lt. Smith received little support from the Royal Navy and the islands developed largely on his initiative but he had to rely on a group of armed gauchos to enforce authority and protect British interests. Smith received advice from Vernet in this regard, and in turn continued to administer Vernet's property and provide him with regular accounts.[44] His superiors later rebuked him for his ideas and actions in promoting the development of the small settlement in Port Louis. In frustration, Smith resigned but his successors Lt. Lowcay and Lt. Tyssen did not continue with the initiatives Smith had pursued and the settlement began to stagnate.[45]
 
@@ -143,8 +139,6 @@ Unaware of the decision by the British Government to colonise the islands, Whitt
 
 Establishment of Port Stanley
 
-Stamp_Falkland_Islands_1891_0.5p.jpg
-
 In 1833 the United Kingdom asserted authority over the Falkland Islands and Richard Clement Moody, a highly esteemed Royal Engineer, was appointed as Lieutenant Governor of the islands. This post was renamed Governor of the Falkland Islands in 1843, when he also became Commander-in-Chief of the Falkland Islands. Moody left England for Falkland on 1 October 1841 aboard the ship _Hebe_ and arrived in Anson's Harbour later that month. He was accompanied by twelve sappers and miners and their families; together with Whittington's colonists this brought the population of Anson's Harbour to approximately 50. When Moody arrived, the Falklands was 'almost in a state of anarchy', but he used his powers 'with great wisdom and moderation'[48] to develop the Islands' infrastructure and, commanding detachment of sappers, erected government offices, a school and barracks, residences, ports, and a new road system.
 
 In 1842, Moody was instructed by Lord Stanley the British Secretary of State for War and the Colonies to report on the potential of the Port William area as the site of the new capital. Moody assigned the task of surveying the area to Captain Ross, leader of the Antarctic Expedition. Captain Ross delivered his report in 1843, concluding that Port William afforded a good deep-water anchorage for naval vessels, and that the southern shores of Port Jackson was a suitable location for the proposed settlement. Moody accepted the recommendation of Ross and construction of the new settlement started in July 1843. Inn July 1845, at Moody's suggestion, the new capital of the islands was officially named Port Stanley after Lord Stanley. Not everyone was enthused with the selection of the location of the new capital, J. B. Whittington famously remarked that "Of all the miserable bog holes, I believe that Mr Moody has selected one of the worst for the site of his town."
@@ -154,8 +148,6 @@ The structure of the Colonial Government was established in 1845 with the format
 With the establishment of the deep-water anchorage and improvements in port facilities, Stanley saw a dramatic increase in the number of visiting ships in the 1840s in part due to the California Gold Rush. A boom in ship provisioning and ship-repair resulted, aided by the notoriously bad weather in the South Atlantic and around Cape Horn. Stanley and the Falkland Islands are famous as the repository of many wrecks of 19th-century ships that reached the islands only to be condemned as unseaworthy and were often employed as floating warehouses by local merchants.
 
 At one point in the 19th century, Stanley became one of the world's busiest ports. However, the ship-repair trade began to slacken off in 1876 with the establishment of the Plimsoll line, which saw the elimination of the so-called coffin ships and unseaworthy vessels that might otherwise have ended up in Stanley for repair. With the introduction of increasingly reliable iron steamships in the 1890s the trade declined further and was no longer viable following the opening of the Panama Canal in 1914. Port Stanley continued to be a busy port supporting whaling and sealing activities in the early part of the 20th century, British warships (and garrisons) in the First and Second World War and the fishing and cruise ship industries in the latter half of the century.
-
-WhaleboneArchCathedral.JPG
 
 Government House opened as the offices of the Lieutenant Governor in 1847. Government House continued to develop with various additions, formally becoming the Governor's residence in 1859 when Governor Moore took residence. Government House remains the residence of the Governor.
 
@@ -169,7 +161,7 @@ Christ Church Cathedral was consecrated in 1892 and completed in 1903. It receiv
 
 Development of agriculture and the Camp
 
-Sapper-Hill-Corral.jpgs at Sapper Hill, near Stanley.]]
+s at Sapper Hill, near Stanley.]]
 
 A few years after the British had established themselves in the islands, a number of new British settlements were started. Initially many of these settlements were established in order to exploit the feral cattle on the islands. Following the introduction of the Cheviot breed of sheep to the islands in 1852, sheep farming became the dominant form of agriculture on the Islands.
 
@@ -179,7 +171,7 @@ Vernet furnished Samuel Fisher Lafone, a British merchant operating from Montevi
 
 Cattle were concentrated in the southern part of East Falkland, an area that became known as Lafonia. Lafone was an absentee landlord and never actually set foot on the islands. His activities were not monitored by the British and rather than introducing more British settlers as he promised, he brought large numbers of Spanish and Indian gauchos to hunt cattle. In 1846, they established Hope Place on the south shores of Brenton Loch and in 1849 a sod wall (the Boca wall) was built across the isthmus at Darwin to control the movement of cattle.
 
-Falkland-Islands-Company.JPG Lafone continued to develop his business interests and in 1849 looked to establish a joint stock company with his London creditors. The company was launched as _The Royal Falkland Land, Cattle, Seal and Fishery Company_ in 1850 but soon thereafter was incorporated under Royal Charter as The Falkland Islands Company Limited. Lafone became a director and his brother-in-law J.P. Dale the company's first manager in the Islands. By 1852, the feral cattle had been hunted virtually to extinction by gauchos and the company switched to sheep farming with the introduction of the Cheviot breed of sheep. Hope Place proved to be an unsuitable location and the operation moved to Darwin. In 1860, the Lafone Beef contract was terminated but the Falkland Islands Company was given a grant to Lafonia. Ownership of the remaining cattle outside of Lafonia reverted to the Crown and hunting cattle without permission was banned.
+Lafone continued to develop his business interests and in 1849 looked to establish a joint stock company with his London creditors. The company was launched as _The Royal Falkland Land, Cattle, Seal and Fishery Company_ in 1850 but soon thereafter was incorporated under Royal Charter as The Falkland Islands Company Limited. Lafone became a director and his brother-in-law J.P. Dale the company's first manager in the Islands. By 1852, the feral cattle had been hunted virtually to extinction by gauchos and the company switched to sheep farming with the introduction of the Cheviot breed of sheep. Hope Place proved to be an unsuitable location and the operation moved to Darwin. In 1860, the Lafone Beef contract was terminated but the Falkland Islands Company was given a grant to Lafonia. Ownership of the remaining cattle outside of Lafonia reverted to the Crown and hunting cattle without permission was banned.
 
 In the second half of the 19th century, Darwin, Goose Green, Fox Bay and Port Howard were established. Port Howard was founded by James Lovegrove Waldron, and his brother in 1866; the Waldron brothers later left for Patagonia, but left the farm under local management.[53]
 
@@ -208,7 +200,7 @@ A line was laid between Darwin and Stanley, with the ship _Consort_ landing pole
 
 Economic development
 
-Ajaxbayview.jpg. Most of the workers' cottages were moved to Stanley]]
+. Most of the workers' cottages were moved to Stanley]]
 
 A canning factory was opened in 1911 at Goose Green and was initially extremely successful. It absorbed a large proportion of surplus sheep but during the postwar slump it suffered a serious loss and closed in 1921.[60]
 
@@ -218,7 +210,7 @@ The mid-20th century saw a number of abortive attempts to diversify the islands'
 
 In the period just after the Second World War, Port Albemarle, in the south west of West Falkland, was enlarged during the post-WWII period by the Colonial Development Company and included its own power station, jetty, Nissen huts etc.; this was an attempt to revive the old sealing industry which had flourished during the 19th century. However, the project proved to be unviable, not least because seal numbers had declined massively.
 
-Shovel-Falklands.jpg (1950s)]] Similarly, Ajax Bay on Falkland Sound, was developed by the Colonial Development Corporation in the 1950s, which was also responsible for developing Port Albemarle. It was mainly a refrigeration plant, and was supposed to freeze Falkland mutton, but this was found to be economically unviable, despite the huge expense incurred. Many of the pre-fabricated houses here were moved to Stanley. The site later became a British field hospital during the landings of Operation Sutton.
+(1950s)]] Similarly, Ajax Bay on Falkland Sound, was developed by the Colonial Development Corporation in the 1950s, which was also responsible for developing Port Albemarle. It was mainly a refrigeration plant, and was supposed to freeze Falkland mutton, but this was found to be economically unviable, despite the huge expense incurred. Many of the pre-fabricated houses here were moved to Stanley. The site later became a British field hospital during the landings of Operation Sutton.
 
 The seas around the Falkland Islands were not well policed prior to the Falklands War, and many foreign boats fished off the islands, despite protests that potential revenue was being lost. Fishing licences were only later to be introduced.
 
@@ -230,7 +222,7 @@ Up until the 1970s, Goose Green was the site of a boarding school, run by the st
 
 First World War
 
-HMS_Canopus_news_mimic.jpg commemorates her role in the Battle of the Falkland Islands.]] Falklandschlacht.jpg''', 8 December 1914. The German armoured cruisers under Admiral von Spee that had been raiding British sealanes were sunk by a British battlecruiser task force.]]
+commemorates her role in the Battle of the Falkland Islands.]] ''', 8 December 1914. The German armoured cruisers under Admiral von Spee that had been raiding British sealanes were sunk by a British battlecruiser task force.]]
 
 Port Stanley became an important coaling station for the Royal Navy. This led to ships based there being involved in major naval engagements in both the First and Second World Wars.
 
@@ -254,7 +246,7 @@ With the exception of an attempt by President Juan Peron to buy the Falkland Isl
 
 The first of these took place in 1964, when a light plane piloted by Miguel Fitzgerald touched down on the racecourse at Stanley. Leaping from the aircraft, he handed a letter claiming sovereignty to a bemused islander before flying off again. The stunt was timed to coincide with Argentine diplomatic efforts at the UN Decolonisation Committee.
 
-MiguelLFitzergersald.jpg in light aircraft in 1964 and 1968. (Originally published by _Crónica_, 9 September 1964.)]]
+in light aircraft in 1964 and 1968. (Originally published by _Crónica_, 9 September 1964.)]]
 
 A more serious incident took place on 28 September 1966 when eighteen young Peronists staged a symbolic invasion of the Islands by hijacking an Aerolineas Argentina airliner and landing it in Stanley; the group called this action Operation Condor. There, they raised seven Argentine flags and took four islanders hostage. The planning had been done during a trip to the islands that one of the leaders, Cristina Verrier, had made as a tourist. Before leaving, twenty plotters had been "locked up" for three days at a training camp on a "spiritual retreat." At one point, two of them left the group.[73][74] [75][76]
 
@@ -266,7 +258,7 @@ Les Gleadell, acting Governor of the Falkland Islands, ordered that the DC-4 be 
 
 After a bitterly cold night in the aircraft, which contained only brandy, wine, orange juice and a few biscuits, the kidnappers surrendered.[84] They were kept locked up in an annex to St Mary's Church for a week until they were put aboard an Argentine ship, the _Bahia Buen Suceso,_ which had lingered outside the harbor awaiting conclusion of the affair. The men were tried in Argentina on crimes that included illegal deprivation of freedom, possession of weapons of war, illegal association, piracy, and robbery in the open. The leaders were sentenced to three years in prison and the others to nine months.[85][86]
 
-On October of the same year a group of Argentine naval special forces conducted covert landings from the submarine ARA _Santiago del Estero_. The 12-man team, which landed some from Stanley, was led by Juan Jose Lombardo who later, as Chief of Naval Operations, planned the 1982 invasion of the Falkland Islands.[87] ARA-Stgo.jpg submarine ARA _Santiago del Estero_ (S-12), Argentine Naval Base at Mar del Plata, _circa_ 1969]] In November 1968, Miguel Fitzgerald was hired by the Argentine press to attempt a reprise of his 1964 landing. Accompanied by one of the 1966 hijackers, he flew to Stanley but on arrival found he could not land at the racecourse due to obstacles placed following the hijacking. The plane was forced to crash land on Eliza Cove Road, but the two occupants were unharmed. The stunt was intended to coincide with the visit of Lord Chalfont to the islands.
+On October of the same year a group of Argentine naval special forces conducted covert landings from the submarine ARA _Santiago del Estero_. The 12-man team, which landed some from Stanley, was led by Juan Jose Lombardo who later, as Chief of Naval Operations, planned the 1982 invasion of the Falkland Islands.[87] submarine ARA _Santiago del Estero_ (S-12), Argentine Naval Base at Mar del Plata, _circa_ 1969]] In November 1968, Miguel Fitzgerald was hired by the Argentine press to attempt a reprise of his 1964 landing. Accompanied by one of the 1966 hijackers, he flew to Stanley but on arrival found he could not land at the racecourse due to obstacles placed following the hijacking. The plane was forced to crash land on Eliza Cove Road, but the two occupants were unharmed. The stunt was intended to coincide with the visit of Lord Chalfont to the islands.
 
 The latter incident proved counter-productive to the Argentine sovereignty push, as Lord Chalfont had been talking to a public meeting at the time of the plane's arrival. The islanders made it plain to Lord Chalfont that they rejected a Memorandum of Agreement negotiated between Britain and Argentina that August which stated that Britain was prepared to discuss sovereignty provided the islanders' wishes were respected. This spurred the formation of the Falkland Islands Committee by London barrister Bill Hunter-Christie and others. The Emergency Committee, as it became known, proved to be an effective lobbying organisation, constantly undermining Foreign Office initiatives on sovereignty negotiations. In December 1968, the lobbying effort managed to force the British Government to state that the islanders' wishes would be paramount.
 
@@ -284,7 +276,7 @@ LADE set up an office in Stanley and mail was routed through Argentina. Medical 
 
 The islands became more dependent upon Argentina, when the British and Argentine governments agreed that the islands would be supplied with petrol, diesel and oil by YPF, the Argentine national oil and gas company.
 
-James_Callaghan.JPG Jim Callaghan sent a naval task force in response to Argentine pressure in 1976.]]
+Jim Callaghan sent a naval task force in response to Argentine pressure in 1976.]]
 
 Despite these tensions relationships between the islanders and the Argentines operating the new services in the islands were cordial. Although there was apprehension, politics were generally avoided and on a one-to-one basis there was never any real hostility.
 
@@ -298,7 +290,7 @@ Lord Shackleton's report was delivered in 1977 and documented the economic stagn
 
 Falklands War
 
-Military_Government_message_from_the_Falklands_War_(5612267360).jpg Argentina invaded the islands on 2 April 1982, using special forces, which landed at Mullet Creek and advanced on Government House in Stanley, with a secondary force coming in from Yorke Bay. They encountered little opposition, there being only a small force of fifty-seven British marines and eleven sailors, in addition to the Falkland Islands Defence Force (who were later sent to Fox Bay). There was only one Argentine fatality. The event garnered international attention at a level which the islands had never experienced before, and made them a household name in the UK.
+Argentina invaded the islands on 2 April 1982, using special forces, which landed at Mullet Creek and advanced on Government House in Stanley, with a secondary force coming in from Yorke Bay. They encountered little opposition, there being only a small force of fifty-seven British marines and eleven sailors, in addition to the Falkland Islands Defence Force (who were later sent to Fox Bay). There was only one Argentine fatality. The event garnered international attention at a level which the islands had never experienced before, and made them a household name in the UK.
 
 For a brief period, the Falkland Islands found themselves under Argentine control. This included Spanish-language signage, and attempts to make the islanders drive on the right (although few roads in the Falklands at the time actually had two lanes). In many parts of the Camp, such as Goose Green and Pebble Island, the islanders found themselves under house arrest.
 
@@ -309,15 +301,13 @@ Margaret Thatcher's general political legacy remains controversial and divisive 
 
 Post-war
 
-Kirchner-UN_General_Assembly_(2007).jpg continued to pursue Argentine claims to the islands.]]
+continued to pursue Argentine claims to the islands.]]
 
 Following the war, Britain focused on improving its facilities on the islands. It increased its military presence significantly, building a large base at RAF Mount Pleasant and its port at Mare Harbour. It also invested heavily in improving facilities in Stanley and transportation and infrastructure around the islands, tarmacking the Stanley - Mount Pleasant road and many roads within Stanley.[89] The population has risen due to the growth of Stanley, but has declined in _Camp_ (the countryside). Since November 2008, a regular ferry service has linked East and West, carrying cars, passengers and cargo serviced by MV _Concordia Bay_, a 42.45 m twin-screw shallow draft (2.59 m) landing craft.[90]
 
 A major change to the way the Falkland Islands are governed was introduced by the 1985 constitution. Under the 1985 constitution the Falkland Islands Government (FIG) became a parliamentary representative democratic dependency, with the governor as head of government and representative of the Queen. Members of the FIG are democratically elected; the Governor is purely a figurehead with no executive powers. Effectively under this constitution, the Falkland Islands are self-governing with the exception of foreign policy, although the FIG represents itself at the United Nations Special Committee on Decolonisation as the British Government no longer attends.
 
 Links with Argentina became severed during the post-war period, with laws being introduced to forbid Argentine citizens from buying land. An alternative trading partner was found in Chile, and over the years, the islands found themselves with closer links to that country, with flights being introduced to Punta Arenas, in the far south of Patagonian Chile, near Tierra del Fuego. In recent years, Argentines have been allowed to visit the islands again, often to visit the military cemeteries where their friends and loved ones are buried.
-
-Falklands-Minefield.JPG
 
 Mines continue to be a persistent problem, and though some areas have been cleared, massive minefields are still to be found on both the main islands and elsewhere, particularly in the areas immediately around Stanley. Because peat moves over time, the mines themselves have shifted location.
 
@@ -335,7 +325,7 @@ The islands lacked barracks for a permanent garrison, so the Ministry of defence
 
 The British government later decided to construct a new RAF base as the centrepiece of plans to considerably strengthen the island's defences. This was intended to deter any future Argentine attempts to take the islands by force again. It was a massive undertaking, requiring the construction of the world's longest corridor, a half-mile long, linking barracks, messes and recreational and the welfare areas of the base.[94] The base is occasionally referred to by its residents as the Death Star because of its vast size, and sometimes confusing layout.
 
-Mount-Pleasant.JPG Mount Pleasant, to the west of Stanley, was chosen as the site for the new base. The airfield was opened by The Duke of York in 1985, and became fully operational in 1986.[95]
+Mount Pleasant, to the west of Stanley, was chosen as the site for the new base. The airfield was opened by The Duke of York in 1985, and became fully operational in 1986.[95]
 
 Using the IATA airport code MPN, RAF Mount Pleasant also acts as the Falkland Islands' only international airport, in addition to its military role. Flights open to civilian passengers are operated twice-weekly.[96] These flights are currently operated by a civilian airline on behalf of the Royal Air Force, and fly to and from RAF Brize Norton in Oxfordshire, UK with a refuelling stop at RAF Ascension Island in the south-central Atlantic Ocean. Chilean airline LAN Airlines also operate weekly flights from Santiago.[97]
 
@@ -343,7 +333,7 @@ In May 2005, some English tabloid newspapers reported that Argentina might be co
 
 Attempts at diversifying the economy
 
-Port-William.JPG representing two trends in recent economic development]]
+representing two trends in recent economic development]]
 
 Before the Falklands war, sheep-farming was the Falkland Islands' only industry.[100] Fishing has become the largest part of the economy since two species of squid popular with consumers were discovered in substantial numbers near the Falklands in the late 1980s.[101] On 14 September 2011 Rockhopper Exploration announced plans are under way for oil production to commence in 2016, through the use of Floating production storage and offloading (FPSO) technology, replicating the methodology used on the Foinaven field off the Shetland Islands.[102] The production site will require approximately 110 people working offshore and another 40 working onshore.[103] The oil is expected to trade at of the Brent crude price.[104]
 

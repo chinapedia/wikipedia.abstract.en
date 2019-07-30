@@ -16,11 +16,11 @@ History
 
 Ancient history
 
-Djémila-109038.jpg]] In the region of Ain Hanech (Saïda Province), early remnants (200,000 BC) of hominid occupation in North Africa were found. Neanderthal tool makers produced hand axes in the Levalloisian and Mousterian styles (43,000 BC) similar to those in the Levant.[8][9] Algeria was the site of the highest state of development of Middle Paleolithic Flake tool techniques.[10] Tools of this era, starting about 30,000 BC, are called Aterian (after the archeological site of Bir el Ater, south of Tebessa).
+]] In the region of Ain Hanech (Saïda Province), early remnants (200,000 BC) of hominid occupation in North Africa were found. Neanderthal tool makers produced hand axes in the Levalloisian and Mousterian styles (43,000 BC) similar to those in the Levant.[8][9] Algeria was the site of the highest state of development of Middle Paleolithic Flake tool techniques.[10] Tools of this era, starting about 30,000 BC, are called Aterian (after the archeological site of Bir el Ater, south of Tebessa).
 
 The earliest blade industries in North Africa are called Iberomaurusian (located mainly in the Oran region). This industry appears to have spread throughout the coastal regions of the Maghreb between 15,000 and 10,000 BC. Neolithic civilization (animal domestication and agriculture) developed in the Saharan and Mediterranean Maghreb perhaps as early as 11,000 BC[11] or as late as between 6000 and 2000 BC. This life, richly depicted in the Tassili n'Ajjer paintings, predominated in Algeria until the classical period. The mixture of peoples of North Africa coalesced eventually into a distinct native population that came to be called Berbers, who are the indigenous peoples of northern Africa.[12]
 
-Timgad_rue.jpg ruins of Timgadon the street leading to the local Arch of Trajan]]
+ruins of Timgadon the street leading to the local Arch of Trajan]]
 
 From their principal center of power at Carthage, the Carthaginians expanded and established small settlements along the North African coast; by 600 BC, a Phoenician presence existed at Tipasa, east of Cherchell, Hippo Regius (modern Annaba) and Rusicade (modern Skikda). These settlements served as market towns as well as anchorages.
 
@@ -28,25 +28,23 @@ As Carthaginian power grew, its impact on the indigenous population increased dr
 
 By the early 4th century BC, Berbers formed the single largest element of the Carthaginian army. In the Revolt of the Mercenaries, Berber soldiers rebelled from 241 to 238 BC after being unpaid following the defeat of Carthage in the First Punic War.[13] They succeeded in obtaining control of much of Carthage's North African territory, and they minted coins bearing the name Libyan, used in Greek to describe natives of North Africa. The Carthaginian state declined because of successive defeats by the Romans in the Punic Wars.[14]
 
-In 146 BC the city of Carthage was destroyed. As Carthaginian power waned, the influence of Berber leaders in the hinterland grew. By the 2nd century BC, several large but loosely administered Berber kingdoms had emerged. Two of them were established in Numidia, behind the coastal areas controlled by Carthage. West of Numidia lay Mauretania, which extended across the Moulouya River in modern-day Morocco to the Atlantic Ocean. The high point of Berber civilization, unequaled until the coming of the Almohads and Almoravids more than a millennium later, was reached during the reign of Masinissa in the 2nd century BC. Egypt,_Rome,_Carthage_and_Numidia.jpg along with Egypt, Rome, and Carthage 200 BC]] After Masinissa's death in 148 BC, the Berber kingdoms were divided and reunited several times. Masinissa's line survived until 24 AD, when the remaining Berber territory was annexed to the Roman Empire.
+In 146 BC the city of Carthage was destroyed. As Carthaginian power waned, the influence of Berber leaders in the hinterland grew. By the 2nd century BC, several large but loosely administered Berber kingdoms had emerged. Two of them were established in Numidia, behind the coastal areas controlled by Carthage. West of Numidia lay Mauretania, which extended across the Moulouya River in modern-day Morocco to the Atlantic Ocean. The high point of Berber civilization, unequaled until the coming of the Almohads and Almoravids more than a millennium later, was reached during the reign of Masinissa in the 2nd century BC. along with Egypt, Rome, and Carthage 200 BC]] After Masinissa's death in 148 BC, the Berber kingdoms were divided and reunited several times. Masinissa's line survived until 24 AD, when the remaining Berber territory was annexed to the Roman Empire.
 
 For several centuries Algeria was ruled by the Romans, who founded many colonies in the region. Like the rest of North Africa, Algeria was one of the breadbaskets of the empire, exporting cereals and other agricultural products. Saint Augustine was the bishop of Hippo Regius (modern-day Algeria), located in the Roman province of Africa. The Germanic Vandals of Geiseric moved into North Africa in 429, and by 435 controlled coastal Numidia.[15] They did not make any significant settlement on the land, as they were harassed by local tribes. In fact, by the time the Byzantines arrived Leptis Magna was abandoned and the Msellata region was occupied by the indigenous Laguatan who had been busy facilitating an Amazigh political, military and cultural revival.[16][17]
 
 Middle Ages
 
-Mansourah-1.jpg
-
 After negligible resistance from the locals, Muslim Arabs of the Umayyad Caliphate conquered Algeria in the early 8th century. Large numbers of the indigenous Berber people converted to Islam. Christians, Berber and Latin speakers remained in the great majority in Tunisia until the end of the 9th century and Muslims only became a vast majority some time in the 10th.[18] After the fall of the Umayyad Caliphate, numerous local dynasties emerged, including the Aghlabids, Almohads, Abdalwadid, Zirids, Rustamids, Hammadids, Almoravids and the Fatimids. The Christians left in three waves: after the initial conquest, in the 10th century and the 11th. The last were evacuated to Sicily by the Normans and the few remaining died out in the 14th century.[19]
 
 During the Middle Ages, North Africa was home to many great scholars, saints and sovereigns including Judah Ibn Quraysh, the first grammarian to mention Semitic and Berber languages, the great Sufi masters Sidi Boumediene (Abu Madyan) and Sidi El Houari, and the Emirs Abd Al Mu'min and Yāghmūrasen. It was during this time that the Fatimids or children of Fatima, daughter of Muhammad, came to the Maghreb. These "Fatimids" went on to found a long lasting dynasty stretching across the Maghreb, Hejaz and the Levant, boasting a secular inner government, as well as a powerful army and navy, made up primarily of Arabs and Levantines extending from Algeria to their capital state of Cairo. The Fatimid caliphate began to collapse when its governors the Zirids seceded. In order to punish them the Fatimids sent the Arab Banu Hilal and Banu Sulaym against them. The resultant war is recounted in the epic Tāghribāt. In Al-Tāghrībāt the Amazigh Zirid Hero Khālīfā Al-Zānatī asks daily, for duels, to defeat the Hilalan hero Ābu Zayd al-Hilalī and many other Arab knights in a string of victories. The Zirids, however, were ultimately defeated ushering in an adoption of Arab customs and culture. The indigenous Amazigh tribes, however, remained largely independent, and depending on tribe, location and time controlled varying parts of the Maghreb, at times unifying it (as under the Fatimids). The Fatimid Islamic state, also known as Fatimid Caliphate made an Islamic empire that included North Africa, Sicily, Palestine, Jordan, Lebanon, Syria, Egypt, the Red Sea coast of Africa, Tihamah, Hejaz and Yemen.[20][21][22] Caliphates from Northern Africa traded with the other empires of their time, as well as forming part of a confederated support and trade network with other Islamic states during the Islamic Era.
 
-Fatimid_Caliphate.PNG Ismaili dynasty that ruled much of North Africa, c. 960–1100]]
+Ismaili dynasty that ruled much of North Africa, c. 960–1100]]
 
 The Amazighs historically consisted of several tribes. The two main branches were the Botr and Barnès tribes, who were divided into tribes, and again into sub-tribes. Each region of the Maghreb contained several tribes (for example, Sanhadja, Houara, Zenata, Masmouda, Kutama, Awarba, and Berghwata). All these tribes made independent territorial decisions.[23]
 
 Several Amazigh dynasties emerged during the Middle Ages in the Maghreb and other nearby lands. Ibn Khaldun provides a table summarising the Amazigh dynasties of the Maghreb region, the Zirid, Banu Ifran, Maghrawa, Almoravid, Hammadid, Almohad, Merinid, Abdalwadid, Wattasid, Meknassa and Hafsid dynasties.[24]
 
-Empire_almohade.PNG at its greatest extent, c. 1212]]
+at its greatest extent, c. 1212]]
 
 There reigned in Ifriqiya, current Tunisia, a Berber family, Zirid, somehow recognising the suzerainty of the Fatimid caliph of Cairo. Probably in 1048, the Zirid ruler or viceroy, el-Mu'izz, decided to end this suzerainty. The Fatimid state was too weak to attempt a punitive expedition; The Viceroy, el-Mu'izz, also found another means of revenge.
 
@@ -60,11 +58,11 @@ In the early 16th century, Spain constructed fortified outposts (presidios) on o
 
 Ottoman era
 
-Maghreb_15th_Century.svg of Tlemcen in the fifteenth century and its neighbors]]
+of Tlemcen in the fifteenth century and its neighbors]]
 
 The region of Algeria was partially ruled by Ottomans for three centuries from 1516 to 1830. In 1516 the Turkish privateer brothers Aruj and Hayreddin Barbarossa, who operated successfully under the Hafsids, moved their base of operations to Algiers. They succeeded in conquering Jijel and Algiers from the Spaniards but eventually assumed control over the city and the surrounding region, forcing the previous ruler, Abu Hamo Musa III of the _Bani Ziyad_ dynasty, to flee.[28] When Aruj was killed in 1518 during his invasion of Tlemcen, Hayreddin succeeded him as military commander of Algiers. The Ottoman sultan gave him the title of beylerbey and a contingent of some 2,000 janissaries. With the aid of this force, Hayreddin conquered the whole area between Constantine and Oran (although the city of Oran remained in Spanish hands until 1792).[29][30]
 
-Barbarossa_Hayreddin_Pasha.jpg]]
+]]
 
 The next beylerbey was Hayreddin's son Hasan, who assumed the position in 1544. Until 1587 the area was governed by officers who served terms with no fixed limits. Subsequently, with the institution of a regular Ottoman administration, governors with the title of pasha ruled for three-year terms. The pasha was assisted by janissaries, known in Algeria as the ojaq and led by an agha. Discontent among the ojaq rose in the mid-1600s because they were not paid regularly, and they repeatedly revolted against the pasha. As a result, the agha charged the pasha with corruption and incompetence and seized power in 1659.[31]
 
@@ -74,11 +72,11 @@ In 1671, the taifa rebelled, killed the agha, and placed one of its own in power
 
 The dey was in effect a constitutional autocrat. The dey was elected for a life term, but in the 159 years (1671–1830) that the system survived, fourteen of the twenty-nine deys were assassinated. Despite usurpation, military coups and occasional mob rule, the day-to-day operation of Ottoman government was remarkably orderly. Although the regency patronised the tribal chieftains, it never had the unanimous allegiance of the countryside, where heavy taxation frequently provoked unrest. Autonomous tribal states were tolerated, and the regency's authority was seldom applied in the Kabylie.[34]
 
-Debarquement_et_maltraitement_de_prisonniers_a_alger.JPG in Algiers, 1706]]
+in Algiers, 1706]]
 
 The Barbary pirates preyed on Christian and other non-Islamic shipping in the western Mediterranean Sea.[35] The pirates often took the passengers and crew on the ships and sold them or used them as slaves.[36] They also did a brisk business in ransoming some of the captives. According to Robert Davis, from the 16th to 19th century, pirates captured 1 million to 1.25 million Europeans as slaves.[37] They often made raids, called Razzias, on European coastal towns to capture Christian slaves to sell at slave markets in North Africa and other parts of the Ottoman Empire.[38][39] In 1544, for example, Hayreddin Barbarossa captured the island of Ischia, taking 4,000 prisoners, and enslaved some 9,000 inhabitants of Lipari, almost the entire population.[40] In 1551, the Ottoman governor of Algiers, Turgut Reis, enslaved the entire population of the Maltese island of Gozo. Barbary pirates often attacked the Balearic Islands. The threat was so severe that residents abandoned the island of Formentera.[41]
 
-De_Engels-Nederlandse_vloot_in_de_Baai_van_Algiers_ter_ondersteuning_van_het_ultimatum_tot_vrijlating_van_blanke_slaven,_26_augustus_1816._Rijksmuseum_SK-A-1377.jpeg by the Anglo-Dutch fleet, to support the ultimatum to release European slaves, August 1816]]
+by the Anglo-Dutch fleet, to support the ultimatum to release European slaves, August 1816]]
 
 Until the 17th century the Barbary pirates used galleys, but a Dutch renegade of the name of Zymen Danseker taught them the advantage of using sailing ships.[42][43] In July 1627 two pirate ships from Algiers under the command of Dutch pirate Jan Janszoon sailed as far as Iceland,[44] raiding and capturing slaves.[45][46][47] Two weeks earlier another pirate ship from Salé in Morocco had also raided in Iceland. Some of the slaves brought to Algiers were later ransomed back to Iceland, but some chose to stay in Algeria. In 1629 pirate ships from Algeria raided the Faroe Islands.[48]
 
@@ -92,15 +90,13 @@ Despite being removed from Algeria in the 19th century, Spain retained a presenc
 
 French colonization (1830–1962)
 
-Vernet-Combat_de_Somah.jpg
-
 Under the pretext of a slight to their consul, the French invaded and captured Algiers in 1830.[54][55] Historian Ben Kiernan wrote on the French conquest of Algeria: "By 1875, the French conquest was complete. The war had killed approximately 825,000 indigenous Algerians since 1830."[56] French losses from 1831–51 were 92,329 dead in the hospital and only 3,336 killed in action.[57][58] The population of Algeria, which stood at about 2.9 million in 1872, reached nearly 11 million in 1960.[59] French policy was predicated on "civilising" the country.[60] The slave trade and piracy in Algeria ceased following the French conquest.[61] The conquest of Algeria by the French took some time and resulted in considerable bloodshed. A combination of violence and disease epidemics caused the indigenous Algerian population to decline by nearly one-third from 1830 to 1872.[62][63] During this period, a small but influential French-speaking indigenous elite was formed, made up of Berbers, mostly Kabyles. As a consequence, French government favored the Kabyles.[64] About 80% of Indigenous schools were constructed for Kabyles.
 
-Abd_al-Qadir.jpg, Algerian leader insurgent against French colonial rule, 1865]]
+, Algerian leader insurgent against French colonial rule, 1865]]
 
 From 1848 until independence, France administered the whole Mediterranean region of Algeria as an integral part and _département_ of the nation. One of France's longest-held overseas territories, Algeria became a destination for hundreds of thousands of European immigrants, who became known as _colons_ and later, as _Pied-Noirs._ Between 1825 and 1847, 50,000 French people emigrated to Algeria.[65][66] These settlers benefited from the French government's confiscation of communal land from tribal peoples, and the application of modern agricultural techniques that increased the amount of arable land.[67] Many Europeans settled in Oran and Algiers, and by the early 20th century they formed a majority of the population in both cities.[68]
 
-Six_chefs_FLN_-_1954.jpg, Mostefa Ben Boulaïd, Didouche Mourad, Mohammed Boudiaf, Krim Belkacem and Larbi Ben M'Hidi.]]
+, Mostefa Ben Boulaïd, Didouche Mourad, Mohammed Boudiaf, Krim Belkacem and Larbi Ben M'Hidi.]]
 
 During the late 19th and early 20th century; the European share was almost a fifth of the population. The French government aimed at making Algeria an assimilated part of France, and this included substantial educational investments especially after 1900. The indigenous cultural and religious resistance heavily opposed this tendency, but in contrast to the other colonised countries' path in central Asia and Caucasus, Algeria kept its individual skills and a relatively human-capital intensive agriculture.[69]
 
@@ -114,7 +110,7 @@ The first three decades of independence (1962–1991)
 
 The number of European _Pied-Noirs_ who fled Algeria totaled more than 900,000 between 1962 and 1964.[73] The exodus to mainland France accelerated after the Oran massacre of 1962, in which hundreds of militants entered European sections of the city, and began attacking civilians.
 
-Houari_Boumediene's_Portrait.jpg]]
+]]
 
 Algeria's first president was the Front de Libération Nationale (FLN) leader Ahmed Ben Bella. Morocco's claim to portions of western Algeria led to the Sand War in 1963. Ben Bella was overthrown in 1965 by Houari Boumédiène, his former ally and defence minister. Under Ben Bella, the government had become increasingly socialist and authoritarian; Boumédienne continued this trend. But, he relied much more on the army for his support, and reduced the sole legal party to a symbolic role. He collectivised agriculture and launched a massive industrialization drive. Oil extraction facilities were nationalised. This was especially beneficial to the leadership after the international 1973 oil crisis.
 
@@ -124,7 +120,7 @@ The Algerian economy became increasingly dependent on oil, leading to hardship w
 
 Civil War (1991–2002) and aftermath
 
-Algerian_massacres_1997-1998.png of over 50 people in 1997–1998. The Armed Islamic Group (GIA) claimed responsibility for many of them.]] In December 1991 the Islamic Salvation Front dominated the first of two rounds of legislative elections. Fearing the election of an Islamist government, the authorities intervened on 11 January 1992, cancelling the elections. Bendjedid resigned and a High Council of State was installed to act as the Presidency. It banned the FIS, triggering a civil insurgency between the Front's armed wing, the Armed Islamic Group, and the national armed forces, in which more than 100,000 people are thought to have died. The Islamist militants conducted a violent campaign of civilian massacres.[77] At several points in the conflict, the situation in Algeria became a point of international concern, most notably during the crisis surrounding Air France Flight 8969, a hijacking perpetrated by the Armed Islamic Group. The Armed Islamic Group declared a ceasefire in October 1997.[78]
+of over 50 people in 1997–1998. The Armed Islamic Group (GIA) claimed responsibility for many of them.]] In December 1991 the Islamic Salvation Front dominated the first of two rounds of legislative elections. Fearing the election of an Islamist government, the authorities intervened on 11 January 1992, cancelling the elections. Bendjedid resigned and a High Council of State was installed to act as the Presidency. It banned the FIS, triggering a civil insurgency between the Front's armed wing, the Armed Islamic Group, and the national armed forces, in which more than 100,000 people are thought to have died. The Islamist militants conducted a violent campaign of civilian massacres.[77] At several points in the conflict, the situation in Algeria became a point of international concern, most notably during the crisis surrounding Air France Flight 8969, a hijacking perpetrated by the Armed Islamic Group. The Armed Islamic Group declared a ceasefire in October 1997.[78]
 
 Algeria held elections in 1999, considered biased by international observers and most opposition groups[79] which were won by President Abdelaziz Bouteflika. He worked to restore political stability to the country and announced a "Civil Concord" initiative, approved in a referendum, under which many political prisoners were pardoned, and several thousand members of armed groups were granted exemption from prosecution under a limited amnesty, in force until 13 January 2000. The AIS disbanded and levels of insurgent violence fell rapidly. The Groupe Salafiste pour la Prédication et le Combat (GSPC), a splinter group of the Group Islamic Army, continued a terrorist campaign against the Government.[80]
 
@@ -139,7 +135,7 @@ On 2 April 2019, Bouteflika resigned from the presidency.[86]
 
 Geography
 
-Algeria_relief.png, the Hoggar and the Atlas mountains compose the Algerian relief.]] Algeria is the largest country in Africa, and the Mediterranean Basin. Its southern part includes a significant portion of the Sahara. To the north, the Tell Atlas form with the Saharan Atlas, further south, two parallel sets of reliefs in approaching eastbound, and between which are inserted vast plains and highlands. Both Atlas tend to merge in eastern Algeria. The vast mountain ranges of Aures and Nememcha occupy the entire northeastern Algeria and are delineated by the Tunisian border. The highest point is Mount Tahat ( m).
+, the Hoggar and the Atlas mountains compose the Algerian relief.]] Algeria is the largest country in Africa, and the Mediterranean Basin. Its southern part includes a significant portion of the Sahara. To the north, the Tell Atlas form with the Saharan Atlas, further south, two parallel sets of reliefs in approaching eastbound, and between which are inserted vast plains and highlands. Both Atlas tend to merge in eastern Algeria. The vast mountain ranges of Aures and Nememcha occupy the entire northeastern Algeria and are delineated by the Tunisian border. The highest point is Mount Tahat ( m).
 
 Algeria lies mostly between latitudes 19° and 37°N (a small area is north of 37°N and south of 19°N), and longitudes 9°W and 12°E. Most of the coastal area is hilly, sometimes even mountainous, and there are a few natural harbours. The area from the coast to the Tell Atlas is fertile. South of the Tell Atlas is a steppe landscape ending with the Saharan Atlas; farther south, there is the Sahara desert.[87]
 
@@ -147,7 +143,7 @@ The Hoggar Mountains (), also known as the Hoggar, are a highland region in cent
 
 Climate and hydrology
 
-Koppen-Geiger_Map_DZA_present.svg Algeria_Sahara_Desert_Photo_From_Drone_5.jpg]] In this region, midday desert temperatures can be hot year round. After sunset, however, the clear, dry air permits rapid loss of heat, and the nights are cool to chilly. Enormous daily ranges in temperature are recorded.
+]] In this region, midday desert temperatures can be hot year round. After sunset, however, the clear, dry air permits rapid loss of heat, and the nights are cool to chilly. Enormous daily ranges in temperature are recorded.
 
 Rainfall is fairly plentiful along the coastal part of the Tell Atlas, ranging from annually, the amount of precipitation increasing from west to east. Precipitation is heaviest in the northern part of eastern Algeria, where it reaches as much as in some years.
 
@@ -155,7 +151,7 @@ Farther inland, the rainfall is less plentiful. Algeria also has ergs, or sand d
 
 Fauna and flora
 
-Cèdre_du_Chélia_13_(Algeria).jpg of Chélia in the Aures]]
+of Chélia in the Aures]]
 
 The varied vegetation of Algeria includes coastal, mountainous and grassy desert-like regions which all support a wide range of wildlife. Many of the creatures comprising the Algerian wildlife live in close proximity to civilization. The most commonly seen animals include the wild boars, jackals, and gazelles, although it is not uncommon to spot fennecs (foxes), and jerboas. Algeria also has a small African leopard and Saharan cheetah population, but these are seldom seen. A species of deer, the Barbary stag, inhabits the dense humid forests in the north-eastern areas.
 
@@ -168,14 +164,14 @@ Camels are used extensively; the desert also abounds with venomous and nonvenomo
 
 Politics
 
-+------------------------------------------------------------+-----------------------+
-| World_Leaders_Investment_Summit_(7098511567)_(cropped).jpg | Noureddine_Bedoui.jpg |
-+------------------------------------------------------------+-----------------------+
-| Abdelkader Bensalah                                        | Noureddine Bedoui     |
-| Interim President                                          | Prime Minister        |
-+------------------------------------------------------------+-----------------------+
++---------------------+-------------------+
+|                     |                   |
++---------------------+-------------------+
+| Abdelkader Bensalah | Noureddine Bedoui |
+| Interim President   | Prime Minister    |
++---------------------+-------------------+
 
-Hémicycle_de_l'assemblée_populaire_nationale_(Algérie).jpg]]
+]]
 
 Elected politicians have relatively little sway over Algeria. Instead, a group of unelected civilian and military "décideurs", known as "le pouvoir" ("the power"), actually rule the country, even deciding who should be president. The most powerful man may be Mohamed Mediène, the head of military intelligence.[90] In recent years, many of these generals have died or retired. After the death of General Larbi Belkheir, Bouteflika put loyalists in key posts, notably at Sonatrach, and secured constitutional amendments that make him re-electable indefinitely.[91]
 
@@ -185,7 +181,7 @@ Parliamentary elections were last held in May 2012, and were judged to be largel
 
 Foreign relations
 
-Abdelaziz_Bouteflika_and_George_W_Bush_20080707.jpg and George W. Bush exchange handshakes at the Windsor Hotel Toya Resort and Spa in Tōyako Town, Abuta District, Hokkaidō in 2008. With them are Dmitriy Medvedev, left, and Yasuo Fukuda, right.]]
+and George W. Bush exchange handshakes at the Windsor Hotel Toya Resort and Spa in Tōyako Town, Abuta District, Hokkaidō in 2008. With them are Dmitriy Medvedev, left, and Yasuo Fukuda, right.]]
 
 Algeria is included in the European Union's European Neighbourhood Policy (ENP) which aims at bringing the EU and its neighbours closer. Giving incentives and rewarding best performers, as well as offering funds in a faster and more flexible manner, are the two main principles underlying the European Neighbourhood Instrument (ENI) that came into force in 2014. It has a budget of €15.4 billion and provides the bulk of funding through a number of programmes.
 
@@ -219,19 +215,15 @@ The administrative divisions have changed several times since independence. When
 
 Economy
 
-Algeria_Export_Treemap.jpg
-
 Algeria is classified as an upper middle income country by the World Bank.[115] Algeria's currency is the dinar (DZD). The economy remains dominated by the state, a legacy of the country's socialist post-independence development model. In recent years, the Algerian government has halted the privatization of state-owned industries and imposed restrictions on imports and foreign involvement in its economy.[116] These restrictions are just starting to be lifted off recently although questions about Algeria's slowly-diversifying economy remain.
 
 Algeria has struggled to develop industries outside hydrocarbons in part because of high costs and an inert state bureaucracy. The government's efforts to diversify the economy by attracting foreign and domestic investment outside the energy sector have done little to reduce high youth unemployment rates or to address housing shortages.[117] The country is facing a number of short-term and medium-term problems, including the need to diversify the economy, strengthen political, economic and financial reforms, improve the business climate and reduce inequalities amongst regions.[118]
 
 A wave of economic protests in February and March 2011 prompted the Algerian government to offer more than $23 billion in public grants and retroactive salary and benefit increases. Public spending has increased by 27% annually during the past 5 years. The 2010–14 public-investment programme will cost US$286 billion, 40% of which will go to human development.[119]
 
-Theatre_d'oran.jpg
-
 The Algerian economy grew by 2.6% in 2011, driven by public spending, in particular in the construction and public-works sector, and by growing internal demand. If hydrocarbons are excluded, growth has been estimated at 4.8%. Growth of 3% is expected in 2012, rising to 4.2% in 2013. The rate of inflation was 4% and the budget deficit 3% of GDP. The current-account surplus is estimated at 9.3% of GDP and at the end of December 2011, official reserves were put at US$182 billion.[120] Inflation, the lowest in the region, has remained stable at 4% on average between 2003 and 2007.[121]
 
-Algeria,_Trends_in_the_Human_Development_Index_1970-2010.png 1970–2010]]
+1970–2010]]
 
 In 2011 Algeria announced a budgetary surplus of $26.9 billion, 62% increase in comparison to 2010 surplus. In general, the country exported $73 billion worth of commodities while it imported $46 billion.[122]
 
@@ -246,8 +238,6 @@ In March 2006, Russia agreed to erase $4.74 billion of Algeria's Soviet-era deb
 Dubai-based conglomerate Emarat Dzayer Group said it had signed a joint venture agreement to develop a $1.6 billion steel factory in Algeria.[132]
 
 Hydrocarbons
-
-Algeria_pipelines_map.jpg
 
 Algeria, whose economy is reliant on petroleum, has been an OPEC member since 1969. Its crude oil production stands at around 1.1 million barrels/day, but it is also a major gas producer and exporter, with important links to Europe.[133] Hydrocarbons have long been the backbone of the economy, accounting for roughly 60% of budget revenues, 30% of GDP, and over 95% of export earnings. Algeria has the 10th-largest reserves of natural gas in the world and is the sixth-largest gas exporter. The U.S. Energy Information Administration reported that in 2005, Algeria had of proven natural-gas reserves.[134] It also ranks 16th in oil reserves.[135]
 
@@ -269,7 +259,7 @@ The overall rate of unemployment was 10% in 2011, but remained higher among youn
 
 Tourism
 
-Giants_-_Rock_towers_in_the_Algerian_Sahara.jpg]]
+]]
 
 The development of the tourism sector in Algeria had previously been hampered by a lack of facilities, but since 2004 a broad tourism development strategy has been implemented resulting in many hotels of a high modern standard being built.
 
@@ -277,14 +267,14 @@ There are several UNESCO World Heritage Sites in Algeria[145] including Al Qal'a
 
 Transport
 
-Autoroute_est_ouest_ghomri2.JPG project]]
+project]]
 
 The Algerian road network is the densest in Africa; its length is estimated at of highways, with more than 3,756 structures and a paving rate of 85%. This network will be complemented by the East-West Highway, a major infrastructure project currently under construction. It is a 3-way, highway, linking Annaba in the extreme east to the Tlemcen in the far west. Algeria is also crossed by the Trans-Sahara Highway, which is now completely paved. This road is supported by the Algerian government to increase trade between the six countries crossed: Algeria, Mali, Niger, Nigeria, Chad, and Tunisia.
 
 
 Demographics
 
-Bevölkerungspyramide_Algerien_2016.png In January 2016 Algeria's population was an estimated 40.4 million, who are mainly Arab-Berber ethnically.[146][147][148] At the outset of the 20th century, its population was approximately four million.[149] About 90% of Algerians live in the northern, coastal area; the inhabitants of the Sahara desert are mainly concentrated in oases, although some 1.5 million remain nomadic or partly nomadic. 28.1% of Algerians are under the age of 15.[150]
+In January 2016 Algeria's population was an estimated 40.4 million, who are mainly Arab-Berber ethnically.[146][147][148] At the outset of the 20th century, its population was approximately four million.[149] About 90% of Algerians live in the northern, coastal area; the inhabitants of the Sahara desert are mainly concentrated in oases, although some 1.5 million remain nomadic or partly nomadic. 28.1% of Algerians are under the age of 15.[150]
 
 Women make up 70% of the country's lawyers and 60% of its judges and also dominate the field of medicine. Increasingly, women are contributing more to household income than men. 60% of university students are women, according to university researchers.[151]
 
@@ -296,15 +286,13 @@ Ethnic groups
 
 Indigenous Berbers as well as Phoenicians, Romans, Byzantine Greeks, Arabs, Turks, various Sub-Saharan Africans, and French have contributed to the history of Algeria.[159] Descendants of Andalusian refugees are also present in the population of Algiers and other cities.[160] Moreover, Spanish was spoken by these Aragonese and Castillian Morisco descendants deep into the 18th century, and even Catalan was spoken at the same time by Catalan Morisco descendants in the small town of Grish El-Oued.[161]
 
-Tenus_traditionnelles_algériennes_27.png
-
 Despite the dominance of the Berber culture and ethnicity in Algeria, the majority of Algerians identify with an Arabic-based identity, especially after the Arab nationalism rising in the 20th century.[162][163] Berbers and Berber-speaking Algerians are divided into many groups with varying languages. The largest of these are the Kabyles, who live in the Kabylie region east of Algiers, the Chaoui of Northeast Algeria, the Tuaregs in the southern desert and the Shenwa people of North Algeria.[164]
 
 During the colonial period, there was a large (10% in 1960)[165] European population who became known as _Pied-Noirs_. They were primarily of French, Spanish and Italian origin. Almost all of this population left during the war of independence or immediately after its end.[166]
 
 Languages
 
-Tizi_Ouzou_Tasdawit.jpg in three languages: Arabic, Berber, and French]]
+in three languages: Arabic, Berber, and French]]
 
 Modern Standard Arabic and Berber are the official languages.[167] Algerian Arabic (Darja) is the language used by the majority of the population. Colloquial Algerian Arabic is heavily infused with borrowings from French and Berber.
 
@@ -327,7 +315,7 @@ Below is a list of the most important Algerian cities:
 
 Culture
 
-Bensari2.jpg, Ottoman Algeria. Painting by Bachir Yellès]]
+, Ottoman Algeria. Painting by Bachir Yellès]]
 
 Modern Algerian literature, split between Arabic, Tamazight and French, has been strongly influenced by the country's recent history. Famous novelists of the 20th century include Mohammed Dib, Albert Camus, Kateb Yacine and Ahlam Mosteghanemi while Assia Djebar is widely translated. Among the important novelists of the 1980s were Rachid Mimouni, later vice-president of Amnesty International, and Tahar Djaout, murdered by an Islamist group in 1993 for his secularist views.[175]
 
@@ -339,13 +327,11 @@ Media
 
 Art
 
-Portrait-racim.jpg
-
 Algerian painters, like Mohamed Racim or Baya, attempted to revive the prestigious Algerian past prior to French colonization, at the same time that they have contributed to the preservation of the authentic values of Algeria. In this line, Mohamed Temam, Abdelkhader Houamel have also returned through this art, scenes from the history of the country, the habits and customs of the past and the country life. Other new artistic currents including the one of M'hamed Issiakhem, Mohammed Khadda and Bachir Yelles, appeared on the scene of Algerian painting, abandoning figurative classical painting to find new pictorial ways, in order to adapt Algerian paintings to the new realities of the country through its struggle and its aspirations. Mohammed Khadda[177] and M'hamed Issiakhem have been notable in recent years.[178]
 
 Literature
 
-Ahlem_Mosteghanemi_at_Beirut_Book_Fair_2012.JPG, the most widely read woman writer in the Arab world.[179]]]
+, the most widely read woman writer in the Arab world.[179]]]
 
 The historic roots of Algerian literature go back to the Numidian and Roman African era, when Apuleius wrote _The Golden Ass_, the only Latin novel to survive in its entirety. This period had also known Augustine of Hippo, Nonius Marcellus and Martianus Capella, among many others. The Middle Ages have known many Arabic writers who revolutionized the Arab world literature, with authors like Ahmad al-Buni, Ibn Manzur and Ibn Khaldoun, who wrote the Muqaddimah while staying in Algeria, and many others.
 
@@ -363,7 +349,7 @@ Music
 
 Chaâbi music is a typically Algerian musical genre characterized by specific rhythms and of Qacidate (popular poems) in Arabic dialect. The undisputed master of this music is El Hadj M'Hamed El Anka. The Constantinois Malouf style is saved by musician from whom Mohamed Tahar Fergani is a performer.
 
-Anka.jpg]] Cheb_Khaled_performed_in_Oran_on_July_5th_2011.jpg King raï]]
+]] King raï]]
 
 Folk music styles include Bedouin music, characterized by the poetic songs based on long kacida (poems); Kabyle music, based on a rich repertoire that is poetry and old tales passed through generations; Shawiya music, a folklore from diverse areas of the Aurès Mountains. Rahaba music style is unique to the Aures. Souad Massi is a rising Algerian folk singer. Other Algerian singers of the diaspora include Manel Filali in Germany and Kenza Farah in France. Tergui music is sung in Tuareg languages generally, Tinariwen had a worldwide success. Finally, the staïfi music is born in Sétif and remains a unique style of its kind.
 
@@ -371,7 +357,7 @@ Modern music is available in several facets, Raï music is a style typical of we
 
 Cinema
 
-Chronique_des_annees_de_braise.jpg, the film won the Palme d'Or prize at the 1975 Cannes Film Festival.[180]]]
+, the film won the Palme d'Or prize at the 1975 Cannes Film Festival.[180]]]
 
 The Algerian state's interest in film-industry activities can be seen in the annual budget of DZD 200 million (EUR 1.8) allocated to production, specific measures and an ambitious programme plan implemented by the Ministry of Culture in order to promote national production, renovate the cinema stock and remedy the weak links in distribution and exploitation.
 
@@ -391,7 +377,7 @@ Football is the most popular sport in Algeria. Several names are engraved in the
 
 Cuisine
 
-Bulgur_wheat_salad.jpg-based salad]]
+-based salad]]
 
 Algerian cuisine is rich and diverse. The country was considered as the "granary of Rome". It offers a component of dishes and varied dishes, depending on the region and according to the seasons. The cuisine uses cereals as the main products, since they are always produced with abundance in the country. There is not a dish where cereals are not present.
 
@@ -409,9 +395,7 @@ Health records have been maintained in Algeria since 1882 and began adding Musli
 
 Education
 
-Des_élevesen_Algérie.jpg
-
-Since the 1970s, in a centralized system that was designed to significantly reduce the rate of illiteracy, the Algerian government introduced a decree by which school attendance became compulsory for all children aged between 6 and 15 years who have the ability to track their learning through the 20 facilities built since independence, now the literacy rate is around 78.7%.[188] UIS_Literacy_Rate_Algeria_population_plus15_1980_2015.png literacy rate Algeria population plus 15 1985–2015]] Since 1972, Arabic is used as the language of instruction during the first nine years of schooling. From the third year, French is taught and it is also the language of instruction for science classes. The students can also learn English, Italian, Spanish and German. In 2008, new programs at the elementary appeared, therefore the compulsory schooling does not start at the age of six anymore, but at the age of five.[189] Apart from the 122 private schools, the Universities of the State are free of charge. After nine years of primary school, students can go to the high school or to an educational institution. The school offers two programs: general or technical. At the end of the third year of secondary school, students pass the exam of the baccalaureate, which allows once it is successful to pursue graduate studies in universities and institutes.[190]
+Since the 1970s, in a centralized system that was designed to significantly reduce the rate of illiteracy, the Algerian government introduced a decree by which school attendance became compulsory for all children aged between 6 and 15 years who have the ability to track their learning through the 20 facilities built since independence, now the literacy rate is around 78.7%.[188] literacy rate Algeria population plus 15 1985–2015]] Since 1972, Arabic is used as the language of instruction during the first nine years of schooling. From the third year, French is taught and it is also the language of instruction for science classes. The students can also learn English, Italian, Spanish and German. In 2008, new programs at the elementary appeared, therefore the compulsory schooling does not start at the age of six anymore, but at the age of five.[189] Apart from the 122 private schools, the Universities of the State are free of charge. After nine years of primary school, students can go to the high school or to an educational institution. The school offers two programs: general or technical. At the end of the third year of secondary school, students pass the exam of the baccalaureate, which allows once it is successful to pursue graduate studies in universities and institutes.[190]
 
 Education is officially compulsory for children between the ages of six and 15. In 2008, the illiteracy rate for people over 10 was 22.3%, 15.6% for men and 29.0% for women. The province with the lowest rate of illiteracy was Algiers Province at 11.6%, while the province with the highest rate was Djelfa Province at 35.5%.[191]
 

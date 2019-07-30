@@ -11,11 +11,11 @@ History
 
 Early history
 
-Cascadilla_Gorge.jpg Indigenous people occupied this area for thousands of years. At the time of European contact, this area was controlled by the Cayuga Nation, one of the powerful Five Nations of the _Haudenosaunee_ or Iroquois League. Jesuit missionaries from New France (Quebec) are said to have had a mission to the Cayuga as early as 1657.[6]
+Indigenous people occupied this area for thousands of years. At the time of European contact, this area was controlled by the Cayuga Nation, one of the powerful Five Nations of the _Haudenosaunee_ or Iroquois League. Jesuit missionaries from New France (Quebec) are said to have had a mission to the Cayuga as early as 1657.[6]
 
 Saponi and Tutelo peoples, Siouan-speaking tribes, later occupied lands at the south end of Cayuga Lake. Dependent tributaries of the Cayuga, they had been permitted to settle on the tribe's hunting lands at the south end of Cayuga Lake, as well as in Pony (originally Sapony) Hollow of what is known as present-day Newfield, New York. Remnants of these tribes had been forced from Virginia and North Carolina by tribal conflicts and European colonial encroachment. Similarly, the Tuscarora people, an Iroquoian-speaking tribe from the Carolinas, migrated after defeat in the Yamasee War; they settled with the Oneida people and became the sixth nation of the Haudenosaunee, with chiefs stating the migration was complete in 1722.
 
-Ithaca,_N.Y._LOC_95685698.tif of Ithaca published in 1882]] During the Revolutionary War, four of the then six Iroquois nations were allied with the British, although bands made decisions on fighting in a highly decentralized way. Conflict with the rebel colonists was fierce throughout the Mohawk Valley and western New York. In retaliation for conflicts to the east, the 1779 Sullivan Expedition was conducted against the Iroquois peoples in the west of the state, destroying more than 40 villages and stored winter crops.[7] It destroyed the Tutelo village of Coregonal, located near what is now the junction of state routes 13 and 13A just south of the Ithaca city limits. Most Iroquois were forced from the state after the Revolutionary War, but some remnants remained. The state sold off the former Iroquois lands to stimulate development and settlement by European Americans; lands were also granted as payment to veterans of the war.
+of Ithaca published in 1882]] During the Revolutionary War, four of the then six Iroquois nations were allied with the British, although bands made decisions on fighting in a highly decentralized way. Conflict with the rebel colonists was fierce throughout the Mohawk Valley and western New York. In retaliation for conflicts to the east, the 1779 Sullivan Expedition was conducted against the Iroquois peoples in the west of the state, destroying more than 40 villages and stored winter crops.[7] It destroyed the Tutelo village of Coregonal, located near what is now the junction of state routes 13 and 13A just south of the Ithaca city limits. Most Iroquois were forced from the state after the Revolutionary War, but some remnants remained. The state sold off the former Iroquois lands to stimulate development and settlement by European Americans; lands were also granted as payment to veterans of the war.
 
 Within the current boundaries of the City of Ithaca, Native Americans maintained only a temporary hunting camp at the base of Cascadilla Gorge. In 1788, eleven men from Kingston, New York came to the area with two Delaware people (Lenape) guides, to explore what they considered wilderness. The following year Jacob Yaple, Isaac Dumond, and Peter Hinepaw returned with their families and constructed log cabins.[8] That same year Abraham Bloodgood of Albany obtained a patent from the state for 1,400 acres, which included all of the present downtown west of Tioga Street.[9] In 1790, the federal government and state began an official program to grant land in the area, known as the Central New York Military Tract, as payment for service to the American soldiers of the Revolutionary War, as the government was cash poor. Most local land titles trace back to these Revolutionary war grants.
 
@@ -33,13 +33,13 @@ With the depression of 1837, the railroad was re-organized as the Cayuga & Susqu
 
 However, easier railroad routes were constructed, such as that of the Syracuse, Binghamton & New York (1854). In the decade following the Civil War, railroads were built from Ithaca to surrounding points (Geneva; Cayuga; Cortland; and Elmira, New York; and Athens, Pennsylvania), mainly with financing from Ezra Cornell. The geography of the city, on a steep hill by the lake, has prevented it from being directly connected to a major transportation artery. When the Lehigh Valley Railroad built its main line from Pennsylvania to Buffalo, New York in 1890, it bypassed Ithaca (running via eastern Schuyler County on easier grades), as the Delaware, Lackawanna and Western Railroad had done in the 1850s.
 
-Ithaca-guns_1916_a-oakley.jpg In the late 19th century, more industry developed in Ithaca. In 1883 William Henry Baker and his partners started the Ithaca Gun Company, making shotguns. The original factory was located in the Fall Creek neighborhood of the city, on a slope later known as Gun Hill, where the nearby waterfall supplied the main source of energy for the plant. The company became an icon in the hunting and shooting world, its shotguns famous for their fine decorative work. Wooden gunstocks with knots or other imperfections were donated to the high school woodworking shop to be made into lamps.[19] John Philip Sousa and trick-shooter Annie Oakley favored Ithaca guns. In 1937 the company began producing the Ithaca 37, based on a 1915 patent by noted firearms designer John Browning. Its 12-gauge shotguns were the standard used for decades by the New York Police Department and Los Angeles Police Department.[20]
+In the late 19th century, more industry developed in Ithaca. In 1883 William Henry Baker and his partners started the Ithaca Gun Company, making shotguns. The original factory was located in the Fall Creek neighborhood of the city, on a slope later known as Gun Hill, where the nearby waterfall supplied the main source of energy for the plant. The company became an icon in the hunting and shooting world, its shotguns famous for their fine decorative work. Wooden gunstocks with knots or other imperfections were donated to the high school woodworking shop to be made into lamps.[19] John Philip Sousa and trick-shooter Annie Oakley favored Ithaca guns. In 1937 the company began producing the Ithaca 37, based on a 1915 patent by noted firearms designer John Browning. Its 12-gauge shotguns were the standard used for decades by the New York Police Department and Los Angeles Police Department.[20]
 
 In 1885, Ithaca Children's Home was established on West Seneca Street. The orphanage had two programs at the time: a residential home for both orphaned and destitute children, and a day nursery.[21] The village established its first trolley in 1887. Ithaca developed as a small manufacturing and retail center and was incorporated as a city in 1888. The largest industrial company in the area was Morse Chain, elements of which were absorbed into Emerson Power Transmission on South Hill and Borg Warner Automotive in Lansing, New York.
 
 Ithaca claims to be the birthplace of the ice cream sundae, created in 1892 when fountain shop owner Chester Platt "served his local priest vanilla ice cream covered in cherry syrup with a dark candied cherry on top. The priest suggested the dessert be named after the day, Sunday—although the spelling was later changed out of fear some would find it offensive."[22] The local Unitarian church, where the priest, Rev. John Scott, preached, has an annual "Sundae Sunday" every September in commemoration.[23][24] Ithaca's claim has long been disputed by Two Rivers, Wisconsin. Also in 1892, the Ithaca Kitty became one of the first mass-produced stuffed animal toys in the United States.[25]
 
-State_Street_-_Ithaca,_New_York.jpg In 1903 a typhoid epidemic, resulting from poor sanitation infrastructure, devastated the city. One out of 10 citizens fell ill or died.
+In 1903 a typhoid epidemic, resulting from poor sanitation infrastructure, devastated the city. One out of 10 citizens fell ill or died.
 
 In 1900 Cornell anatomy professor G.S. Moler made an early movie using frame-by-frame technology. For _The Skeleton Dance,_ he took single-frame photos of a human skeleton in varying positions, giving the illusion of a dancing skeleton. During the early 20th century, Ithaca was an important center in the silent film industry. These films often featured the local natural scenery. Many of these films were the work of Leopold Wharton and his brother Theodore; their studio was on the site of what is now Stewart Park.[26]
 
@@ -49,7 +49,7 @@ After World War II, the Langmuir Research Labs of General Electric developed as 
 
 Recent history
 
-Ithaca_Commons_(New_York).jpg west entrance at Cayuga Street]] For decades, the Ithaca Gun Company tested their shotguns behind the plant on Lake Street; the shot fell into the Fall Creek gorge at the base of Ithaca Falls. Lead accumulated in the soil in and around the factory and gorge. A major lead clean-up effort sponsored by the United States Superfund took place from 2002 to 2004, managed through the Environmental Protection Agency.[28] The old Ithaca Gun building has been dismantled. It was scheduled to be replaced by development of an apartment complex on the cleaned land.
+west entrance at Cayuga Street]] For decades, the Ithaca Gun Company tested their shotguns behind the plant on Lake Street; the shot fell into the Fall Creek gorge at the base of Ithaca Falls. Lead accumulated in the soil in and around the factory and gorge. A major lead clean-up effort sponsored by the United States Superfund took place from 2002 to 2004, managed through the Environmental Protection Agency.[28] The old Ithaca Gun building has been dismantled. It was scheduled to be replaced by development of an apartment complex on the cleaned land.
 
 The former Morse Chain company factory on South Hill, now owned by Emerson Power Transmission, was the site of extensive groundwater and soil contamination from its industrial operations.[29] Emerson Power Transmission has been working with the state and South Hill residents to determine the extent and danger of the contamination and aid in cleanup.
 
@@ -60,7 +60,7 @@ Geography and climate
 
 Geography
 
-Ithaca_Hemlock_Gorge.JPG The valley in which Cayuga Lake is located is long and narrow with a north-south orientation. Ithaca is at the southern end (the "head") of the lake, but the valley continues to the southwest behind the city. Originally a river valley, it was deepened and widened by the action of Pleistocene ice sheets over the last several hundred thousand years. The lake, which drains to the north, formed behind a dam of glacial moraine. The rock is predominantly Devonian and, north of Ithaca, is relatively fossil rich. Glacial erratics can be found in the area. The world-renowned fossils found in this area can be examined at the Museum of the Earth.
+The valley in which Cayuga Lake is located is long and narrow with a north-south orientation. Ithaca is at the southern end (the "head") of the lake, but the valley continues to the southwest behind the city. Originally a river valley, it was deepened and widened by the action of Pleistocene ice sheets over the last several hundred thousand years. The lake, which drains to the north, formed behind a dam of glacial moraine. The rock is predominantly Devonian and, north of Ithaca, is relatively fossil rich. Glacial erratics can be found in the area. The world-renowned fossils found in this area can be examined at the Museum of the Earth.
 
 Ithaca was founded on flat land just south of the lake—land that formed in fairly recent geological times when silt filled the southern end of the lake. The city ultimately spread to the adjacent hillsides, which rise several hundred feet above the central flats: East Hill, West Hill, and South Hill. Its sides are fairly steep, and a number of the streams that flow into the valley from east or west have cut deep canyons, usually with several waterfalls.
 
@@ -77,7 +77,7 @@ Due to the microclimates created by the impact of the lakes, the region surround
 
 Demographics
 
-Ithaca-Cortland_CSA.png Ithaca is the larger principal city of the Ithaca-Cortland CSA, a Combined Statistical Area that includes the Ithaca metropolitan area (Tompkins County) and the Cortland micropolitan area (Cortland County),[35][36][37] which had a combined population of 145,100 at the 2000 census.[38]
+Ithaca is the larger principal city of the Ithaca-Cortland CSA, a Combined Statistical Area that includes the Ithaca metropolitan area (Tompkins County) and the Cortland micropolitan area (Cortland County),[35][36][37] which had a combined population of 145,100 at the 2000 census.[38]
 
 As of the census[39] of 2000, there were 29,287 people, 10,287 households, and 2,962 families residing in the city. The population density was 5,360.9 people per square mile (2,071.0/km²). There were 10,736 housing units at an average density of 1,965.2 per square mile (759.2/km²). The racial makeup of the city was 73.97% White, 13.65% Asian, 6.71% Black or African American, 0.39% Native American, 0.05% Pacific Islander, 1.86% from other races, and 3.36% from two or more races. Hispanic or Latino of any race were 5.31% of the population.
 
@@ -109,7 +109,7 @@ CENSUS-DESIGNATED PLACES
 
 Local government
 
-Ithaca_City_Hall,_Green_Street.jpg There are two governmental entities in the area: the Town of Ithaca and the City of Ithaca. The Town of Ithaca is one of the nine towns comprising Tompkins County. The City of Ithaca is surrounded by, but legally independent of, the Town.
+There are two governmental entities in the area: the Town of Ithaca and the City of Ithaca. The Town of Ithaca is one of the nine towns comprising Tompkins County. The City of Ithaca is surrounded by, but legally independent of, the Town.
 
 The City of Ithaca has a mayor-council government. The charter of the City of Ithaca provides for a full-time mayor and city judge, each independent and elected at-large. Since 1995, the mayor has been elected to a four-year term, and since 1989, the city judge has been elected to a six-year term.
 
@@ -136,7 +136,7 @@ Sister city
 
 Education
 
-Cornell_University_from_McGraw_Tower.JPG The two major postsecondary educational institutions located in Ithaca were each founded in the late nineteenth century. In 1865, Ezra Cornell founded Cornell University, which overlooks the town from East Hill. It was opened as a coeducational institution. Women first enrolled in 1870. Ezra Cornell also established a public library for the city. Ithaca College was founded as the Ithaca Conservatory of Music in 1892. Ithaca College was originally located in the downtown area, but relocated to South Hill in the 1960s.
+The two major postsecondary educational institutions located in Ithaca were each founded in the late nineteenth century. In 1865, Ezra Cornell founded Cornell University, which overlooks the town from East Hill. It was opened as a coeducational institution. Women first enrolled in 1870. Ezra Cornell also established a public library for the city. Ithaca College was founded as the Ithaca Conservatory of Music in 1892. Ithaca College was originally located in the downtown area, but relocated to South Hill in the 1960s.
 
 Colleges
 
@@ -148,12 +148,12 @@ The public school system is based in Ithaca. The Ithaca City School District, wh
 
 Library
 
-Tompkins_County_Public_Library,_Ithaca_NY.jpg The Tompkins County Public Library, located at 101 East Green Street, serves as the public library for Tompkins County and is the Central Library for the Finger Lakes Library System. The library serves over 37,000 registered borrowers and contains 250,000 items in its circulating collection.[48]
+The Tompkins County Public Library, located at 101 East Green Street, serves as the public library for Tompkins County and is the Central Library for the Finger Lakes Library System. The library serves over 37,000 registered borrowers and contains 250,000 items in its circulating collection.[48]
 
 
 Economy
 
-Ithaca_Farmers_Market,_Steamboat_Landing,_Ithaca_NY.jpg The economy of Ithaca is based on education, with agriculture, technology and tourism in supporting roles. As of 2006, Ithaca has continued to have one of the few expanding economies in New York State outside New York City. It draws commuters for work from the neighboring rural counties of Cortland, Tioga, and Schuyler, as well as from the more urbanized Chemung County.
+The economy of Ithaca is based on education, with agriculture, technology and tourism in supporting roles. As of 2006, Ithaca has continued to have one of the few expanding economies in New York State outside New York City. It draws commuters for work from the neighboring rural counties of Cortland, Tioga, and Schuyler, as well as from the more urbanized Chemung County.
 
 Ithaca has tried to maintain its traditional downtown shopping area with its pedestrian orientation; this includes the Ithaca Commons pedestrian mall and Center Ithaca, a small mixed-use complex built at the end of the urban renewal era. Another commercial center, Collegetown, is located next to the Cornell campus. It features a number of restaurants, shops, and bars, and an increasing number of high-rise apartments. It is primarily frequented by Cornell University students.
 
@@ -165,7 +165,7 @@ The South Hills Business Campus originally opened in 1957 as the regional headqu
 
 Agriculture
 
-Ithaca_yogurt.jpg Ithaca, home to Cornell University College of Agriculture and Life Sciences, has a deep connection to Central New York's farming and dairy industries. About 60 small farms are located in the greater Ithaca/Trumansburg area,[53] including a number of research farms managed by the Cornell University Agricultural Experiment Station.[54] Cornell's Dairy Research Facility is a center of research and support for New York's large and growing milk and yogurt industries.[55]
+Ithaca, home to Cornell University College of Agriculture and Life Sciences, has a deep connection to Central New York's farming and dairy industries. About 60 small farms are located in the greater Ithaca/Trumansburg area,[53] including a number of research farms managed by the Cornell University Agricultural Experiment Station.[54] Cornell's Dairy Research Facility is a center of research and support for New York's large and growing milk and yogurt industries.[55]
 
 
 Media
@@ -194,7 +194,7 @@ Other FM stations include: Saga's "98.7 The Vine", a low-powered translator stat
 
 Culture
 
-ClintonHouseInIthacaNY.jpg, a 19th-century building in downtown Ithaca]] Founded in 1983, the Sciencenter, is a non-profit hands-on science museum, accredited by the American Alliance of Museums (AAM) and is a member of the Association of Science-Technology Centers (ASTC) and Association of Children's Museums (ACM).[58]
+, a 19th-century building in downtown Ithaca]] Founded in 1983, the Sciencenter, is a non-profit hands-on science museum, accredited by the American Alliance of Museums (AAM) and is a member of the Association of Science-Technology Centers (ASTC) and Association of Children's Museums (ACM).[58]
 
 The Museum of the Earth is a natural history museum created in 2003 by the Paleontological Research Institution (PRI). The PRI was founded in Ithaca in 1932 and is the publisher of the oldest journal of paleontology in the western hemisphere. Exhibits cover the 4.5 billion year history of the earth in an accessible manner, including interactive displays. As of 2004, the PRI is now formally affiliated with Cornell.[59]
 
@@ -229,11 +229,11 @@ Ithaca is the center of a thriving live music scene, featuring over 200 groups p
 
 Transportation
 
-Cayuga_Steet,_Ithaca,_NY.jpg In 2009, the Ithaca metropolitan statistical area (MSA) ranked as the highest in the United States for percentage of commuters who walked to work (15.1 percent).[72] In 2013, the Ithaca MSA ranked as the second lowest in the United States for percentage of commuters who traveled by private vehicle (68.7 percent). During the same year, 17.5 percent of commuters in the Ithaca MSA walked to work.[73]
+In 2009, the Ithaca metropolitan statistical area (MSA) ranked as the highest in the United States for percentage of commuters who walked to work (15.1 percent).[72] In 2013, the Ithaca MSA ranked as the second lowest in the United States for percentage of commuters who traveled by private vehicle (68.7 percent). During the same year, 17.5 percent of commuters in the Ithaca MSA walked to work.[73]
 
 Roads
 
-TompkinsConsolidatedAreaTransitBus2.JPG Voyager_golden_record_103_highway.gif]] Ithaca is in the rural Finger Lakes region about northwest of New York City; the nearest larger cities, Binghamton and Syracuse, are an hour's drive away by car, Rochester and Scranton are two hours, Buffalo and Albany are three. New York City, Philadelphia, Toronto, and Ottawa are about four hours away.
+]] Ithaca is in the rural Finger Lakes region about northwest of New York City; the nearest larger cities, Binghamton and Syracuse, are an hour's drive away by car, Rochester and Scranton are two hours, Buffalo and Albany are three. New York City, Philadelphia, Toronto, and Ottawa are about four hours away.
 
 Ithaca lies at over a half hour's drive from any interstate highway, and all car trips to Ithaca involve some driving on two-lane state rural highways. The city is at the convergence of many regional two-lane state highways: Routes 13, 13A, 34, 79, 89, 96, 96B, and 366. These are usually not congested except in Ithaca proper. However, Route 79 between the I-81 access at Whitney Point and Ithaca receives a significant amount of Ithaca-bound congestion right before Ithaca's colleges reopen after breaks.
 
@@ -253,13 +253,11 @@ GADABOUT Transportation Services, Inc. provides demand-response paratransit serv
 
 Airports
 
-Pinnacle_Airlines_CRJ-200_N823AY_KDCA.JPG
-
 Ithaca is served by Ithaca Tompkins Regional Airport, located about three miles to the northeast of the city center. American Eagle offers flights to its hub at Philadelphia, operated by Piedmont Airlines using Embraer ERJ-145 airliners. Delta Connection provides service to its hub at Detroit Metro airport, operated by SkyWest Airlines using Bombardier CRJ-200 airliners. United Express offers two daily flights to Washington Dulles International Airport, operated by CommutAir using Embraer ERJ-145. Some residents choose to travel to Syracuse Hancock International Airport, Greater Binghamton Airport, Elmira-Corning Regional Airport or Greater Rochester International Airport for more airline service options. Ithaca Tompkins Regional Airport is currently in the middle of an expansion due to a grant by Governor Cuomo and New York State. The airport will be adding three passenger bridges, a customs facility, a dedicated pre-screened security line and expanded passenger, ticketing and concessions areas, and would foster increased business travel to the area and expanded destinations.[76]
 
 Railways
 
-NS_8921_GE_C40-9W.jpg In the 1920s, it was possible to reach Ithaca by passenger rail. Two trains per day serviced Ithaca along either the Delaware, Lackawanna and Western Railroad or the Lehigh Valley Railroad. The trip took "about seven hours" from New York City, "about eight hours" from Philadelphia, and "about three hours" from Buffalo.[77] Within Ithaca, electric railways ran along Stewart Avenue and Eddy Street.[78] In fact, Ithaca was the fourth community in New York state with a street railway; streetcars ran from 1887 to summer 1935.[79][80]
+In the 1920s, it was possible to reach Ithaca by passenger rail. Two trains per day serviced Ithaca along either the Delaware, Lackawanna and Western Railroad or the Lehigh Valley Railroad. The trip took "about seven hours" from New York City, "about eight hours" from Philadelphia, and "about three hours" from Buffalo.[77] Within Ithaca, electric railways ran along Stewart Avenue and Eddy Street.[78] In fact, Ithaca was the fourth community in New York state with a street railway; streetcars ran from 1887 to summer 1935.[79][80]
 
 In 2019 the Ithaca Central Railroad, a Watco subsidiary, took over the operation of the Norfolk Southern Ithaca Secondary line from Sayre, Pennsylvania to the Lake Ridge site of the AES Cayuga, a coal power plant (known as Milliken Station during NYSEG ownership). Unit trains of coal, delivered at Sayre, Pennsylvania from the Norfolk Southern are now rare. The main traffic is salt from the Cargill salt mine on the east shore of Cayuga Lake near Myers Point. There has been no passenger rail service since 1961. From the 1870s through 1961 there were trains to Buffalo via Geneva, New York; to New York City via Wilkes-Barre, Pennsylvania (Lehigh Valley Railroad) and (until the 1940s) Scranton, Pennsylvania (DL&W); to Auburn, New York; and to the US northeast via Cortland, New York[81][82] The Lehigh Valley's top New York City-Ithaca-Buffalo passenger train, the _Black Diamond,_ was optimistically publicized as 'The Handsomest Train in the World', perhaps to compensate for its roundabout route to Buffalo. It was named after the railroad's largest commodity, anthracite coal.
 

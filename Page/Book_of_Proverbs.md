@@ -5,7 +5,7 @@ Proverbs is not merely an anthology but a "collection of collections" relating t
 
 Structure
 
-Faith Proverb_scroll.PNG
+Faith
 
 The superscriptions divide the collections as follows:
 
@@ -28,7 +28,7 @@ The first section (chapters 1–9) consists of an initial invitation to young me
 
 Composition
 
-Dore_Solomon_Proverbs.png)]]
+)]]
 
 It is impossible to offer precise dates for the sayings in Proverbs, a "collection of collections" relating to a pattern of life which lasted for more than a millennium. The phrase conventionally used for the title is taken from chapter 1:1, _mishley shelomoh_, Proverbs of Solomon (the phrase is repeated at 10:1 and 25:1), is likely more concerned with labeling the material than ascribing authorship.
 
@@ -39,7 +39,7 @@ The "wisdom" genre was widespread throughout the ancient Near East, and reading 
 
 Themes
 
-Proverbs_3-_5,6_IMG_3141.JPG in Portland, Maine]] Incunabulum_Blackletter_Bible_1497.jpg from 1497]]
+in Portland, Maine]] from 1497]]
 
 Along with the other examples of the Biblical wisdom tradition – Job and Ecclesiastes and some other writings – Proverbs raises questions of values, moral behavior, the meaning of human life, and righteous conduct. The three retain an ongoing relevance for both religious and secular readers, Job and Ecclesiastes through the boldness of their dissent from received tradition, Proverbs in its worldliness and satiric shrewdness. Wisdom is as close as Biblical literature comes to Greek philosophy, of which it was a contemporary; it shares with the Greeks an inquiry into values and reflections on the human condition, although there is no discussion of ontology, epistemology, metaphysics, and the other abstract issues raised by the Greeks.
 

@@ -1,5 +1,3 @@
-The_Brewer_designed_and_engraved_in_the_Sixteenth._Century_by_J_Amman.png
-
 BREWING is the production of beer by steeping a starch source (commonly cereal grains, the most popular of which is barley)[1] in water and fermenting the resulting sweet liquid with yeast. It may be done in a brewery by a commercial brewer, at home by a homebrewer, or by a variety of traditional methods such as communally by the indigenous peoples in Brazil when making cauim.[2] Brewing has taken place since around the 6th millennium BC, and archaeological evidence suggests that emerging civilizations including ancient Egypt[3] and Mesopotamia brewed beer.[4] Since the nineteenth century the brewing industry has been part of most western economies.
 
 The basic ingredients of beer are water and a fermentable starch source such as malted barley. Most beer is fermented with a brewer's yeast and flavoured with hops.[5] Less widely used starch sources include millet, sorghum and cassava.[6] Secondary sources (adjuncts), such as maize (corn), rice, or sugar, may also be used, sometimes to reduce cost, or to add a feature, such as adding wheat to aid in retaining the foamy head of the beer.[7] The proportion of each starch source in a beer recipe is collectively called the grain bill.
@@ -18,7 +16,7 @@ Ale produced before the Industrial Revolution continued to be made and sold on a
 
 Ingredients
 
-Sjb_whiskey_malt.jpg barley before kilning or roasting]]
+barley before kilning or roasting]]
 
 The basic ingredients of beer are water; a starch source, such as malted barley, able to be fermented (converted into alcohol); a brewer's yeast to produce the fermentation; and a flavouring, such as hops,[23] to offset the sweetness of the malt.[24] A mixture of starch sources may be used, with a secondary saccharide, such as maize (corn), rice, or sugar, often being termed an adjunct, especially when used as a lower-cost substitute for malted barley.[25] Less widely used starch sources include millet, sorghum, and cassava root in Africa, potato in Brazil, and agave in Mexico, among others.[26] The amount of each starch source in a beer recipe is collectively called the grain bill.
 
@@ -34,7 +32,7 @@ Nearly all beer includes barley malt as the majority of the starch. This is beca
 
 Hops
 
-Hopfendolde-mit-hopfengarten.jpg in a Hallertau, Germany, hop yard]]
+in a Hallertau, Germany, hop yard]]
 
 Hops are the female flower clusters or seed cones of the hop vine _Humulus lupulus_,[34] which are used as a flavouring and preservative agent in nearly all beer made today.[35] Hops had been used for medicinal and food flavouring purposes since Roman times; by the 7th century in Carolingian monasteries in what is now Germany, beer was being made with hops,[36] though it isn't until the thirteenth century that widespread cultivation of hops for use in beer is recorded.[37] Before the thirteenth century, beer was flavoured with plants such as yarrow, wild rosemary, and bog myrtle, and other ingredients such as juniper berries, aniseed and ginger, which would be combined into a mixture known as gruit and used as hops are now used; between the thirteenth and the sixteenth century, during which hops took over as the dominant flavouring, beer flavoured with gruit was known as ale, while beer flavoured with hops was known as beer.[38][39] Some beers today, such as _Fraoch_ by the Scottish Heather Ales company and _Cervoise Lancelot_ by the French Brasserie-Lancelot company, use plants other than hops for flavouring.[40][41]
 
@@ -68,7 +66,7 @@ After the whirlpool, the wort is drawn away from the compacted hop trub, and rap
 
 Mashing
 
-Mash_Tun_exhibit_in_the_Brewery_Museum_at_Burton-upon-Trent_-_geograph.org.uk_-_2664334.jpg in Burton-upon-Trent]]
+in Burton-upon-Trent]]
 
 Mashing is the process of combining a mix of milled grain (typically malted barley with supplementary grains such as corn, sorghum, rye or wheat), known as the "grain bill", and water, known as "liquor", and heating this mixture in a vessel called a "mash tun". Mashing is a form of steeping,[75] and defines the act of brewing, such as with making tea, sake, and soy sauce.[76] Technically, wine, cider and mead are not brewed but rather vinified, as there is no steeping process involving solids.[77] Mashing allows the enzymes in the malt to break down the starch in the grain into sugars, typically maltose to create a malty liquid called wort.[78] There are two main methods – infusion mashing, in which the grains are heated in one vessel; and decoction mashing, in which a proportion of the grains are boiled and then returned to the mash, raising the temperature.[79] Mashing involves pauses at certain temperatures (notably ), and takes place in a "mash tun" – an insulated brewing vessel with a false bottom.[80][81][82] The end product of mashing is called a "mash".
 
@@ -76,7 +74,7 @@ Mashing usually takes 1 to 2 hours, and during this time the various temperature
 
 Lautering
 
-Brasserie_Ratz_-_20140926_-_Cuve_à_mélanger.jpg Lautering is the separation of the wort (the liquid containing the sugar extracted during mashing) from the grains.[84] This is done either in a mash tun outfitted with a false bottom, in a lauter tun, or in a mash filter. Most separation processes have two stages: first wort run-off, during which the extract is separated in an undiluted state from the spent grains, and sparging, in which extract which remains with the grains is rinsed off with hot water. The lauter tun is a tank with holes in the bottom small enough to hold back the large bits of grist and hulls.[85] The bed of grist that settles on it is the actual filter. Some lauter tuns have provision for rotating rakes or knives to cut into the bed of grist to maintain good flow. The knives can be turned so they push the grain, a feature used to drive the spent grain out of the vessel.[86] The mash filter is a plate-and-frame filter. The empty frames contain the mash, including the spent grains, and have a capacity of around one hectoliter. The plates contain a support structure for the filter cloth. The plates, frames, and filter cloths are arranged in a carrier frame like so: frame, cloth, plate, cloth, with plates at each end of the structure. Newer mash filters have bladders that can press the liquid out of the grains between spargings. The grain does not act like a filtration medium in a mash filter.[87]
+Lautering is the separation of the wort (the liquid containing the sugar extracted during mashing) from the grains.[84] This is done either in a mash tun outfitted with a false bottom, in a lauter tun, or in a mash filter. Most separation processes have two stages: first wort run-off, during which the extract is separated in an undiluted state from the spent grains, and sparging, in which extract which remains with the grains is rinsed off with hot water. The lauter tun is a tank with holes in the bottom small enough to hold back the large bits of grist and hulls.[85] The bed of grist that settles on it is the actual filter. Some lauter tuns have provision for rotating rakes or knives to cut into the bed of grist to maintain good flow. The knives can be turned so they push the grain, a feature used to drive the spent grain out of the vessel.[86] The mash filter is a plate-and-frame filter. The empty frames contain the mash, including the spent grains, and have a capacity of around one hectoliter. The plates contain a support structure for the filter cloth. The plates, frames, and filter cloths are arranged in a carrier frame like so: frame, cloth, plate, cloth, with plates at each end of the structure. Newer mash filters have bladders that can press the liquid out of the grains between spargings. The grain does not act like a filtration medium in a mash filter.[87]
 
 
 Boiling
@@ -84,8 +82,6 @@ Boiling
 After mashing, the beer wort is boiled with hops (and other flavourings if used) in a large tank known as a "copper" or brew kettle – though historically the mash vessel was used and is still in some small breweries.[88] The boiling process is where chemical reactions take place,[89] including sterilization of the wort to remove unwanted bacteria, releasing of hop flavours, bitterness and aroma compounds through isomerization, stopping of enzymatic processes, precipitation of proteins, and concentration of the wort.[90][91] Finally, the vapours produced during the boil volatilise off-flavours, including dimethyl sulfide precursors.[92] The boil is conducted so that it is even and intense – a continuous "rolling boil".[93] The boil on average lasts between 45 and 90 minutes, depending on its intensity, the hop addition schedule, and volume of water the brewer expects to evaporate.[94] At the end of the boil, solid particles in the hopped wort are separated out, usually in a vessel called a "whirlpool".[95]
 
 Brew kettle or copper
-
-Brasserie_La_Choulette_12-11-2006.jpg
 
 Copper is the traditional material for the boiling vessel, because copper transfers heat quickly and evenly, and because the bubbles produced during boiling, and which would act as an insulator against the heat, do not cling to the surface of copper, so the wort is heated in a consistent manner.[96] The simplest boil kettles are direct-fired, with a burner underneath. These can produce a vigorous and favourable boil, but are also apt to scorch the wort where the flame touches the kettle, causing caramelisation and making cleanup difficult. Most breweries use a steam-fired kettle, which uses steam jackets in the kettle to boil the wort.[97] Breweries usually have a boiling unit either inside or outside of the kettle, usually a tall, thin cylinder with vertical tubes, called a calandria, through which wort is pumped.[98]
 
@@ -106,15 +102,11 @@ While boiling, it is useful to recover some of the energy used to boil the wort.
 
 Fermenting
 
-Cuves_de_fermentations.jpg
-
 Fermentation takes place in fermentation vessels which come in various forms, from enormous cylindroconical vessels, through open stone vessels, to wooden vats.[116][117][118] After the wort is cooled and aerated – usually with sterile air – yeast is added to it, and it begins to ferment. It is during this stage that sugars won from the malt are converted into alcohol and carbon dioxide, and the product can be called beer for the first time.
 
 Most breweries today use cylindroconical vessels, or CCVs, which have a conical bottom and a cylindrical top. The cone's aperture is typically around 60°, an angle that will allow the yeast to flow towards the cone's apex, but is not so steep as to take up too much vertical space. CCVs can handle both fermenting and conditioning in the same tank. At the end of fermentation, the yeast and other solids which have fallen to the cone's apex can be simply flushed out of a port at the apex. Open fermentation vessels are also used, often for show in brewpubs, and in Europe in wheat beer fermentation. These vessels have no tops, which makes harvesting top-fermenting yeasts very easy. The open tops of the vessels make the risk of infection greater, but with proper cleaning procedures and careful protocol about who enters fermentation chambers, the risk can be well controlled. Fermentation tanks are typically made of stainless steel. If they are simple cylindrical tanks with beveled ends, they are arranged vertically, as opposed to conditioning tanks which are usually laid out horizontally. Only a very few breweries still use wooden vats for fermentation as wood is difficult to keep clean and infection-free and must be repitched more or less yearly.[119][120][121]
 
 Fermentation methods
-
-Anchor_Brewing_Company_fermentation_tank.JPG
 
 There are three main fermentation methods, warm, cool and wild or spontaneous. Fermentation may take place in open or closed vessels. There may be a secondary fermentation which can take place in the brewery, in the cask or in the bottle.
 
@@ -139,7 +131,7 @@ Lambic beers are historically brewed in Brussels and the nearby Pajottenland reg
 
 Conditioning
 
-Anchor_Brewing_Company_conditioning_tanks.JPG]]
+]]
 
 After an initial or primary fermentation, beer is _conditioned_, matured or aged,[152] in one of several ways,[153] which can take from 2 to 4 weeks, several months, or several years, depending on the brewer's intention for the beer. The beer is usually transferred into a second container, so that it is no longer exposed to the dead yeast and other debris (also known as "trub") that have settled to the bottom of the primary fermenter. This prevents the formation of unwanted flavours and harmful compounds such as acetylaldehyde.[154]
 
@@ -166,7 +158,7 @@ Cask ale or cask-conditioned beer is unfiltered and unpasteurised beer that is c
 
 Filtering
 
-DE_and_yeast_crop.jpg and yeast after filtering]]
+and yeast after filtering]]
 
 Filtering the beer stabilizes the flavour, and gives beer its polished shine and brilliance. Not all beer is filtered. When tax determination is required by local laws, it is typically done at this stage in a calibrated tank. There are several forms of filters, they may be in the form of sheets or "candles", or they may be a fine powder such as diatomaceous earth, also called kieselguhr. The powder is added to the beer and recirculated past screens to form a filtration bed.
 
@@ -191,8 +183,6 @@ Packaging is putting the beer into the containers in which it will leave the bre
 
 
 By-products
-
-Spent_grain.jpg
 
 Brewing by-products are "spent grain" and the sediment (or "dregs") from the filtration process which may be dried and resold as "brewers dried yeast" for poultry feed,[167] or made into yeast extract which is used in brands such as Vegemite and Marmite.[168] The process of turning the yeast sediment into edible yeast extract was discovered by German scientist Justus Liebig.[169]
 

@@ -47,7 +47,7 @@ Californium-252 is a very strong neutron emitter, which makes it extremely radio
 
 History
 
-Berkeley_60-inch_cyclotron.gif used to first synthesize californium|alt=Large pieces of equipment with a man standing nearby.]] Californium was first synthesized at the University of California Radiation Laboratory in Berkeley, by the physics researchers Stanley G. Thompson, Kenneth Street, Jr., Albert Ghiorso, and Glenn T. Seaborg on or about February 9, 1950. It was the sixth transuranium element to be discovered; the team announced its discovery on March 17, 1950.[11][12][13]
+used to first synthesize californium|alt=Large pieces of equipment with a man standing nearby.]] Californium was first synthesized at the University of California Radiation Laboratory in Berkeley, by the physics researchers Stanley G. Thompson, Kenneth Street, Jr., Albert Ghiorso, and Glenn T. Seaborg on or about February 9, 1950. It was the sixth transuranium element to be discovered; the team announced its discovery on March 17, 1950.[11][12][13]
 
 To produce californium, a microgram-sized target of curium-242 () was bombarded with 35 MeV-alpha particles () in the cyclotron at Berkeley, which produced californium-245 () plus one free neutron ().
 
@@ -87,12 +87,10 @@ Prolonged irradiation of americium, curium, and plutonium with neutrons produces
 
 Microgram quantities of californium-252 are available for commercial use through the U.S. Nuclear Regulatory Commission. Only two sites produce californium-252: the Oak Ridge National Laboratory in the United States, and the Research Institute of Atomic Reactors in Dimitrovgrad, Russia. As of 2003, the two sites produce 0.25 grams and 0.025 grams of californium-252 per year, respectively.
 
-Three californium isotopes with significant half-lives are produced, requiring a total of 15 neutron captures by uranium-238 without nuclear fission or alpha decay occurring during the process. Californium-253 is at the end of a production chain that starts with uranium-238, includes several isotopes of plutonium, americium, curium, berkelium, and the californium isotopes 249 to 253 (see diagram). Cf_252_Produktion.png
+Three californium isotopes with significant half-lives are produced, requiring a total of 15 neutron captures by uranium-238 without nuclear fission or alpha decay occurring during the process. Californium-253 is at the end of a production chain that starts with uranium-238, includes several isotopes of plutonium, americium, curium, berkelium, and the californium isotopes 249 to 253 (see diagram).
 
 
 Applications
-
-CfShield.JPG
 
 Californium-252 has a number of specialized applications as a strong neutron emitter, and each microgram of fresh californium produces 139 million neutrons per minute.[27] This property makes californium useful as a neutron startup source for some nuclear reactors and as a portable (non-reactor based) neutron source for neutron activation analysis to detect trace amounts of elements in samples.[28] Neutrons from californium are employed as a treatment of certain cervical and brain cancers where other radiation therapy is ineffective. It has been used in educational applications since 1969 when the Georgia Institute of Technology received a loan of 119 µg of californium-252 from the Savannah River Plant. It is also used with online elemental coal analyzers and bulk material analyzers in the coal and cement industries.
 

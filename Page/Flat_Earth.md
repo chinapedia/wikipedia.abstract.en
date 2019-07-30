@@ -1,4 +1,4 @@
-Orlando-Ferguson-flat-earth-map_edit.jpg in 1893. The map contains several references to biblical passages as well as various jabs at the "Globe Theory".]]
+in 1893. The map contains several references to biblical passages as well as various jabs at the "Globe Theory".]]
 
 The FLAT EARTH model is an archaic conception of Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat Earth cosmography, including Greece until the classical period, the Bronze Age and Iron Age civilizations of the Near East until the Hellenistic period, India until the Gupta period (early centuries AD), and China until the 17th century.
 
@@ -13,7 +13,7 @@ Belief in flat Earth
 
 West Asia
 
-Baylonianmaps.JPG'' Babylonian map, the oldest known world map, 6th century BC Babylonia]] In early Egyptian[8] and Mesopotamian thought, the world was portrayed as a disk floating in the ocean. A similar model is found in the Homeric account from the 8th century BC in which "Okeanos, the personified body of water surrounding the circular surface of the Earth, is the begetter of all life and possibly of all gods."[9]
+'' Babylonian map, the oldest known world map, 6th century BC Babylonia]] In early Egyptian[8] and Mesopotamian thought, the world was portrayed as a disk floating in the ocean. A similar model is found in the Homeric account from the 8th century BC in which "Okeanos, the personified body of water surrounding the circular surface of the Earth, is the begetter of all life and possibly of all gods."[9]
 
 The Pyramid Texts and Coffin Texts of ancient Egypt show a similar cosmography; Nun (the Ocean) encircled _nbwt_ ("dry lands" or "Islands").[10][11][12]
 
@@ -29,7 +29,7 @@ Homer's description of the disc cosmography on the shield of Achilles with the e
 
 Philosophers
 
-Anaximander_world_map-en.svg Several pre-Socratic philosophers believed that the world was flat: Thales (c. 550 BC) according to several sources,[28] and Leucippus (c. 440 BC) and Democritus (c. 460–370 BC) according to Aristotle.[29][30][31]
+Several pre-Socratic philosophers believed that the world was flat: Thales (c. 550 BC) according to several sources,[28] and Leucippus (c. 440 BC) and Democritus (c. 460–370 BC) according to Aristotle.[29][30][31]
 
 Thales thought the Earth floated in water like a log.[32] It has been argued, however, that Thales actually believed in a round Earth.[33][34] Anaximander (c. 550 BC) believed the Earth was a short cylinder with a flat, circular top that remained stable because it was the same distance from all things.[35][36] Anaximenes of Miletus believed that "the Earth is flat and rides on air; in the same way the Sun and the Moon and the other heavenly bodies, which are all fiery, ride the air because of their flatness."[37] Xenophanes of Colophon (c. 500 BC) thought that the Earth was flat, with its upper side touching the air, and the lower side extending without limit.[38]
 
@@ -49,7 +49,7 @@ East Asia
 
 In ancient China, the prevailing belief was that the Earth was flat and square, while the heavens were round,[47] an assumption virtually unquestioned until the introduction of European astronomy in the 17th century.[48][49][50] The English sinologist Cullen emphasizes the point that there was no concept of a round Earth in ancient Chinese astronomy:
 
-The model of an egg was often used by Chinese astronomers such as Zhang Heng (78–139 AD) to describe the heavens as spherical: Illustration_of_the_Earthdisc_floating_out_of_the_Water.jpg]]
+The model of an egg was often used by Chinese astronomers such as Zhang Heng (78–139 AD) to describe the heavens as spherical: ]]
 
 This analogy with a curved egg led some modern historians, notably Joseph Needham, to conjecture that Chinese astronomers were, after all, aware of the Earth's sphericity. The egg reference, however, was rather meant to clarify the relative position of the flat Earth to the heavens:
 
@@ -61,13 +61,13 @@ Alternate or mixed theories
 
 Greece: spherical Earth
 
-LunarEclipse.gif during the phases of a lunar eclipse]] Pythagoras in the 6th century BC and Parmenides in the 5th century stated that the Earth is spherical,[59] and this view spread rapidly in the Greek world. Around 330 BC, Aristotle maintained on the basis of physical theory and observational evidence that the Earth was spherical, and reported an estimate of its circumference.[60] The Earth's circumference was first determined around 240 BC by Eratosthenes.[61] By the second century AD, Ptolemy had derived his maps from a globe and developed the system of latitude, longitude, and climes. His _Almagest_ was written in Greek and only translated into Latin in the 11th century from Arabic translations.
+during the phases of a lunar eclipse]] Pythagoras in the 6th century BC and Parmenides in the 5th century stated that the Earth is spherical,[59] and this view spread rapidly in the Greek world. Around 330 BC, Aristotle maintained on the basis of physical theory and observational evidence that the Earth was spherical, and reported an estimate of its circumference.[60] The Earth's circumference was first determined around 240 BC by Eratosthenes.[61] By the second century AD, Ptolemy had derived his maps from a globe and developed the system of latitude, longitude, and climes. His _Almagest_ was written in Greek and only translated into Latin in the 11th century from Arabic translations.
 
 Lucretius (1st century BC) opposed the concept of a spherical Earth, because he considered that an infinite universe had no center towards which heavy bodies would tend. Thus, he thought the idea of animals walking around topsy-turvy under the Earth was absurd.[62][63] By the 1st century AD, Pliny the Elder was in a position to claim that everyone agreed on the spherical shape of Earth,[64] though disputes continued regarding the nature of the antipodes, and how it is possible to keep the ocean in a curved shape.
 
 South Asia
 
-Offshore_windpark_Thorntonbank.jpg The Vedic texts depict the cosmos in many ways.[65][66] The earliest Indian cosmological texts picture the Earth as one of a stack of flat disks.
+The Vedic texts depict the cosmos in many ways.[65][66] The earliest Indian cosmological texts picture the Earth as one of a stack of flat disks.
 
 In the Vedic texts, Dyaus (heaven) and Prithvi (Earth) are compared to wheels on an axle, yielding a flat model. They are also described as bowls or leather bags, yielding a concave model.[67] According to Macdonell: "the conception of the Earth being a disc surrounded by an ocean does not appear in the Samhitas. But it was naturally regarded as circular, being compared with a wheel (10.89) and expressly called circular (parimandala) in the _Shatapatha Brahmana_."[68]
 
@@ -83,7 +83,7 @@ The influential theologian and philosopher Saint Augustine, one of the four Grea
 
 Some historians do not view Augustine's scriptural commentaries as endorsing any particular cosmological model,[81] but the view that Augustine shared the common view of his contemporaries that the Earth is spherical,[82] in line with his endorsement of science in _De Genesi ad litteram_,[83] has been challenged:
 
-Cosmas_Indicopleustes_-_Topographia_Christiana_1.jpg]] Diodorus of Tarsus, a leading figure in the School of Antioch and mentor of John Chrysostom, may have argued for a flat Earth; however, Diodorus' opinion on the matter is known only from a later criticism.[84] Chrysostom, one of the four Great Church Fathers of the Eastern Church and Archbishop of Constantinople, explicitly espoused the idea, based on scripture, that the Earth floats miraculously on the water beneath the firmament.[85] Athanasius the Great, Church Father and Patriarch of Alexandria, expressed a similar view in _Against the Heathen_.[86]
+]] Diodorus of Tarsus, a leading figure in the School of Antioch and mentor of John Chrysostom, may have argued for a flat Earth; however, Diodorus' opinion on the matter is known only from a later criticism.[84] Chrysostom, one of the four Great Church Fathers of the Eastern Church and Archbishop of Constantinople, explicitly espoused the idea, based on scripture, that the Earth floats miraculously on the water beneath the firmament.[85] Athanasius the Great, Church Father and Patriarch of Alexandria, expressed a similar view in _Against the Heathen_.[86]
 
 _Christian Topography_ (547) by the Alexandrian monk Cosmas Indicopleustes, who had travelled as far as Sri Lanka and the source of the Blue Nile, is now widely considered the most valuable geographical document of the early medieval age, although it received relatively little attention from contemporaries. In it, the author repeatedly expounds the doctrine that the universe consists of only two places, the Earth below the firmament and heaven above it. Carefully drawing on arguments from scripture, he describes the Earth as a rectangle, 400 days' journey long by 200 wide, surrounded by four oceans and enclosed by four massive walls which support the firmament. The spherical Earth theory is contemptuously dismissed as "pagan".[87][88][89]
 
@@ -91,9 +91,9 @@ Severian, Bishop of Gabala (d. 408), wrote that the Earth is flat and the Sun do
 
 Europe: Early Middle Ages
 
-Early medieval Christian writers in the early Middle Ages felt little urge to assume flatness of the Earth, though they had fuzzy impressions of the writings of Ptolemy and Aristotle, relying more on Pliny.[92] Macrobian_Planetary_Diagram.jpg With the end of the Western Roman Empire, Western Europe entered the Middle Ages with great difficulties that affected the continent's intellectual production. Most scientific treatises of classical antiquity (in Greek) were unavailable, leaving only simplified summaries and compilations. In contrast, the Eastern Roman Empire did not fall, and it preserved the learning.[93] Still, many textbooks of the Early Middle Ages supported the sphericity of the Earth in the western part of Europe.[94]
+Early medieval Christian writers in the early Middle Ages felt little urge to assume flatness of the Earth, though they had fuzzy impressions of the writings of Ptolemy and Aristotle, relying more on Pliny.[92] With the end of the Western Roman Empire, Western Europe entered the Middle Ages with great difficulties that affected the continent's intellectual production. Most scientific treatises of classical antiquity (in Greek) were unavailable, leaving only simplified summaries and compilations. In contrast, the Eastern Roman Empire did not fall, and it preserved the learning.[93] Still, many textbooks of the Early Middle Ages supported the sphericity of the Earth in the western part of Europe.[94]
 
-Diagrammatic_T-O_world_map_-_12th_century.jpg representing the inhabited world as described by Isidore of Seville in his _Etymologiae_ (chapter 14, _de terra et partibus_)]] Europe's view of the shape of the Earth in Late Antiquity and the Early Middle Ages may be best expressed by the writings of early Christian scholars: Hildegard_von_Bingen-_'Werk_Gottes',_12._Jh..jpg)]]
+representing the inhabited world as described by Isidore of Seville in his _Etymologiae_ (chapter 14, _de terra et partibus_)]] Europe's view of the shape of the Earth in Late Antiquity and the Early Middle Ages may be best expressed by the writings of early Christian scholars: )]]
 
 A possible non-literary but graphic indication that people in the Middle Ages believed that the Earth (or perhaps the world) was a sphere is the use of the _orb_ (globus cruciger) in the regalia of many kingdoms and of the Holy Roman Empire. It is attested from the time of the Christian late-Roman emperor Theodosius II (423) throughout the Middle Ages; the _Reichsapfel_ was used in 1191 at the coronation of emperor Henry VI. However the word 'orbis' means 'circle' and there is no record of a globe as a representation of the Earth since ancient times in the west until that of Martin Behaim in 1492. Additionally it could well be a representation of the entire 'world' or cosmos.[95]
 
@@ -101,9 +101,9 @@ A recent study of medieval concepts of the sphericity of the Earth noted that "s
 
 Europe: Late Middle Ages
 
-Sacrobosco-1550-B3r-detail01.jpg'', the most influential astronomy textbook of 13th-century Europe]] Hermannus Contractus (1013–1054) was among the earliest Christian scholars to estimate the circumference of Earth with Eratosthenes' method. St. Thomas Aquinas (1225–1274), the most widely taught theologian of the Middle Ages, believed in a spherical Earth; and he even took for granted his readers also knew the Earth is round.[97] Lectures in the medieval universities commonly advanced evidence in favor of the idea that the Earth was a sphere.[98]
+'', the most influential astronomy textbook of 13th-century Europe]] Hermannus Contractus (1013–1054) was among the earliest Christian scholars to estimate the circumference of Earth with Eratosthenes' method. St. Thomas Aquinas (1225–1274), the most widely taught theologian of the Middle Ages, believed in a spherical Earth; and he even took for granted his readers also knew the Earth is round.[97] Lectures in the medieval universities commonly advanced evidence in favor of the idea that the Earth was a sphere.[98]
 
-Gossuin_de_Metz_-_L'image_du_monde_-_BNF_Fr._574_fo42_-_miniature.jpg in a 14th-century copy of _L'Image du monde_ (c. 1246)]] Tattersall shows that in many vernacular works in 12th- and 13th-century French texts the Earth was considered "round like a table" rather than "round like an apple". "In virtually all the examples quoted ... from epics and from non-'historical' romances (that is, works of a less learned character) the actual form of words used suggests strongly a circle rather than a sphere", though he notes that even in these works the language is ambiguous.[99]
+in a 14th-century copy of _L'Image du monde_ (c. 1246)]] Tattersall shows that in many vernacular works in 12th- and 13th-century French texts the Earth was considered "round like a table" rather than "round like an apple". "In virtually all the examples quoted ... from epics and from non-'historical' romances (that is, works of a less learned character) the actual form of words used suggests strongly a circle rather than a sphere", though he notes that even in these works the language is ambiguous.[99]
 
 Portuguese navigation down and around the coast of Africa in the latter half of the 1400s gave wide-scale observational evidence for Earth's sphericity. In these explorations, the sun's position moved more northward the further south the explorers travel. Its position directly overhead at noon gave evidence for crossing the equator. These apparent solar motions in detail were more consistent with north-south curvature and a distant sun, than with any flat-Earth explanation. The ultimate demonstration came when Ferdinand Magellan's expedition completed the first global circumnavigation in 1521. Antonio Pigafetta, one of the few survivors of the voyage, recorded the loss of a day in the course of the voyage, giving evidence for east-west curvature.
 
@@ -119,7 +119,7 @@ Scholar Ibn Taymiyyah stated that the Earth is spherical and not flat. He stated
 
 Ming Dynasty in China
 
-Shanhai_Yudi_Quantu_translation.jpg _Shanhai Yudi Quantu_ map in the _Sancai Tuhui_ encyclopedia, published in 1609, with translations in English from Roderich Ptak's "The Sino-European Map".[106]]] A spherical terrestrial globe was introduced to Yuan-era Khanbaliq (i.e. Beijing) in 1267 by the Persian astronomer Jamal ad-Din, but it is not known to have made an impact on the traditional Chinese conception of the shape of the Earth.[107] As late as 1595, an early Jesuit missionary to China, Matteo Ricci, recorded that the Ming-dynasty Chinese say: "The Earth is flat and square, and the sky is a round canopy; they did not succeed in conceiving the possibility of the antipodes."[108] The universal belief in a flat Earth is confirmed by a contemporary Chinese encyclopedia from 1609 illustrating a flat Earth extending over the horizontal diametral plane of a spherical heaven.[109]
+_Shanhai Yudi Quantu_ map in the _Sancai Tuhui_ encyclopedia, published in 1609, with translations in English from Roderich Ptak's "The Sino-European Map".[106]]] A spherical terrestrial globe was introduced to Yuan-era Khanbaliq (i.e. Beijing) in 1267 by the Persian astronomer Jamal ad-Din, but it is not known to have made an impact on the traditional Chinese conception of the shape of the Earth.[107] As late as 1595, an early Jesuit missionary to China, Matteo Ricci, recorded that the Ming-dynasty Chinese say: "The Earth is flat and square, and the sky is a round canopy; they did not succeed in conceiving the possibility of the antipodes."[108] The universal belief in a flat Earth is confirmed by a contemporary Chinese encyclopedia from 1609 illustrating a flat Earth extending over the horizontal diametral plane of a spherical heaven.[109]
 
 In the 17th century, the idea of a spherical Earth spread in China due to the influence of the Jesuits, who held high positions as astronomers at the imperial court.[110] Matteo Ricci, in collaboration with Chinese cartographers and translator Li Zhizao, published the _Kunyu Wanguo Quantu_ in 1602, the first Chinese world map based on European discoveries.[111] The astronomical and geographical treatise _Gezhicao_ (格致草) written in 1648 by Xiong Mingyu (熊明遇) explained that the Earth was spherical, not flat or square, and could be circumnavigated.[112]
 
@@ -147,7 +147,7 @@ Rowbotham also produced studies that purported to show that the effects of ships
 
 Flat Earth Society
 
-Flat_earth.png like this one have also been co-opted as images of the flat Earth model depicting Antarctica as an ice wall[131][132] surrounding a disk-shaped Earth.]]
+like this one have also been co-opted as images of the flat Earth model depicting Antarctica as an ice wall[131][132] surrounding a disk-shaped Earth.]]
 
 In 1956, Samuel Shenton set up the _International Flat Earth Research Society_ (IFERS), better known as the Flat Earth Society from Dover, UK, as a direct descendant of the Universal Zetetic Society. This was just before the Soviet Union launched the first artificial satellite, Sputnik; he responded, "Would sailing round the Isle of Wight prove that it were spherical? It is just the same for those satellites."
 

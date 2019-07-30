@@ -13,7 +13,7 @@ Forester moved to the United States during the Second World War, where he worked
 
 Literary career
 
-Famous_fantastic_mysteries_194802.jpg'' in 1948.]]
+'' in 1948.]]
 
 Forester wrote many novels, but he is best known for the 12-book Horatio Hornblower series depicting a Royal Navy officer during the Napoleonic Wars. He began the series with Hornblower fairly high in rank in the first novel that he wrote, which was published in 1937. But high demand for more stories led him to fill in Hornblower's life story, and he wrote novels detailing his rise from the rank of midshipman. The last completed novel was published in 1962. Hornblower's fictional feats were based on real events, but Forester wrote the body of the works carefully to avoid entanglements with real world history, so that Hornblower is always off on another mission when a great naval battle occurs during the Napoleonic Wars.
 

@@ -37,7 +37,7 @@ The Holy Tradition of the Orthodox Church teaches that the Book of James was "wr
 
 Dating
 
-Minuscule_319_(GA)_f85r.jpg, a Greek minuscule manuscript of the New Testament. ]] Many scholars consider the epistle to be written in the late 1st or early 2nd centuries:[23]
+, a Greek minuscule manuscript of the New Testament. ]] Many scholars consider the epistle to be written in the late 1st or early 2nd centuries:[23]
 
 -   The author introduces himself merely as "a servant of God and of the Lord Jesus Christ" without invoking any special family relationship to Jesus.
 -   The cultured Greek language of the Epistle, it is contended, could not have been written by a Jerusalem Jew. Some scholars argue for a primitive version of the letter composed by James and then later polished by another writer.[24]

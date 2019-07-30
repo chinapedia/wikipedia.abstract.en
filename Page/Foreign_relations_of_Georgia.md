@@ -403,8 +403,6 @@ Oceania
 
 Overview
 
-Diplomatic_relations_of_Georgia.svg
-
 Georgia has established relations with 171 countries, the Vatican City, Order of Malta and Palestine.[146][147][148]
 
 Georgia has terminated its diplomatic relations with Russia,[149][150] Nicaragua[151][152] and Syria.[153][154]

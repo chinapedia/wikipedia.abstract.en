@@ -11,7 +11,7 @@ Emperor Ninmyō is traditionally venerated at his tomb; the Imperial Household A
 
 Events of Ninmyō's life
 
-Fujiwara_no_Junshi-Rijksmuseum_RP-P-1991-578.jpeg, 1800 and 1805, (Rijksmuseum Amsterdam)]]
+, 1800 and 1805, (Rijksmuseum Amsterdam)]]
 
 Ninmyō ascended to the throne following the abdication of his uncle, Emperor Junna.
 
@@ -139,7 +139,7 @@ See also
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

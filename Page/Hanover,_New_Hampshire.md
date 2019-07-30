@@ -66,7 +66,7 @@ Like most other college towns, Hanover is a liberal bastion and a Democratic str
 
 Education
 
-A_Front_View_of_Dartmouth_College_(1793).jpg at Dartmouth College in 1793]]
+at Dartmouth College in 1793]]
 
 Public schools
 

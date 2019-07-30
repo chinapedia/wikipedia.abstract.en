@@ -22,7 +22,7 @@ Home-rule movement
 
 From the Act of Union on 1 January 1801, until 6 December 1922, the island of Ireland was part of the United Kingdom of Great Britain and Ireland. During the Great Famine, from 1845 to 1849, the island's population of over 8 million fell by 30%. One million Irish died of starvation and/or disease and another 1.5 million emigrated, mostly to the United States.[25] This set the pattern of emigration for the century to come, resulting in constant population decline up to the 1960s.[26][27][28]
 
-Charles_Stewart_Parnell_-_Brady-Handy.jpg was formed in 1882 by Charles Stewart Parnell (1846–1891).]]
+was formed in 1882 by Charles Stewart Parnell (1846–1891).]]
 
 From 1874, and particularly under Charles Stewart Parnell from 1880, the Irish Parliamentary Party gained prominence. This was firstly through widespread agrarian agitation via the Irish Land League, that won land reforms for tenants in the form of the Irish Land Acts, and secondly through its attempts to achieve Home Rule, via two unsuccessful bills which would have granted Ireland limited national autonomy. These led to "grass-roots" control of national affairs, under the Local Government Act 1898, that had been in the hands of landlord-dominated grand juries of the Protestant Ascendancy.
 
@@ -30,11 +30,11 @@ Home Rule seemed certain when the Parliament Act 1911 abolished the veto of the 
 
 Revolution and steps to independence
 
-Easter_Proclamation_of_1916.png, 1916]] Though it received the Royal Assent and was placed on the statute books in 1914, the implementation of the Third Home Rule Act was suspended until after the First World War which defused the threat of civil war in Ireland. With the hope of ensuring the implementation of the Act at the end of the war through Ireland's engagement in the war, Redmond and his Irish National Volunteers supported the UK and its Allies. 175,000 men joined Irish regiments of the 10th (Irish) and 16th (Irish) divisions of the New British Army, while Unionists joined the 36th (Ulster) divisions.[31]
+, 1916]] Though it received the Royal Assent and was placed on the statute books in 1914, the implementation of the Third Home Rule Act was suspended until after the First World War which defused the threat of civil war in Ireland. With the hope of ensuring the implementation of the Act at the end of the war through Ireland's engagement in the war, Redmond and his Irish National Volunteers supported the UK and its Allies. 175,000 men joined Irish regiments of the 10th (Irish) and 16th (Irish) divisions of the New British Army, while Unionists joined the 36th (Ulster) divisions.[31]
 
 The remainder of the Irish Volunteers, who opposed any support of the UK, launched an armed insurrection against British rule in the 1916 Easter Rising, together with the Irish Citizen Army. This commenced on 24 April 1916 with the declaration of independence. After a week of heavy fighting, primarily in Dublin, the surviving rebels were forced to surrender their positions. The majority were imprisoned but fifteen of the prisoners (including most of the leaders) were executed as traitors to the UK. This included Patrick Pearse, the spokesman for the rising and who provided the signal to the volunteers to start the rising, as well as James Connolly, socialist and founder of the Industrial Workers of the World union and both the Irish and Scottish Labour movements. These events, together with the Conscription Crisis of 1918, had a profound effect on changing public opinion in Ireland.[32]
 
-In January 1919, after the December 1918 general election, 73 of Ireland's 106 Members of Parliament (MPs) elected were Sinn Féin members who refused to take their seats in the British House of Commons. Instead, they set up an Irish parliament called Dáil Éireann. This first Dáil in January 1919 issued a Declaration of Independence and proclaimed an Irish Republic. The Declaration was mainly a restatement of the 1916 Proclamation with the additional provision that Ireland was no longer a part of the United Kingdom. The new Irish Republic was recognised internationally only by the Russian Soviet Republic.[33] The Irish Republic's __ (Ministry) sent a delegation under __ (Head of Council, or Speaker, of the Daíl) Seán T. O'Kelly to the Paris Peace Conference of 1919, but it was not admitted. Dáil_Chamber.jpg was established, of which Dáil Éireann became the lower house.]]
+In January 1919, after the December 1918 general election, 73 of Ireland's 106 Members of Parliament (MPs) elected were Sinn Féin members who refused to take their seats in the British House of Commons. Instead, they set up an Irish parliament called Dáil Éireann. This first Dáil in January 1919 issued a Declaration of Independence and proclaimed an Irish Republic. The Declaration was mainly a restatement of the 1916 Proclamation with the additional provision that Ireland was no longer a part of the United Kingdom. The new Irish Republic was recognised internationally only by the Russian Soviet Republic.[33] The Irish Republic's __ (Ministry) sent a delegation under __ (Head of Council, or Speaker, of the Daíl) Seán T. O'Kelly to the Paris Peace Conference of 1919, but it was not admitted. was established, of which Dáil Éireann became the lower house.]]
 
 After the War of Independence and truce called in July 1921, representatives of the British government and the Irish treaty delegates, led by Arthur Griffith, Robert Barton and Michael Collins, negotiated the Anglo-Irish Treaty in London from 11 October to 6 December 1921. The Irish delegates set up headquarters at Hans Place in Knightsbridge, and it was here in private discussions that the decision was taken on 5 December to recommend the treaty to Dáil Éireann. The Second Dáil Éireann narrowly ratified the Treaty.[34]
 
@@ -42,7 +42,7 @@ In accordance with the treaty, on 6 December 1922 the entire island of Ireland b
 
 Irish Civil War
 
-De_Valera_LCCN2016822004_(crop).jpg (1882–1975)]] The Irish Civil War (June 1922 – May 1923) was the consequence of the creation of the Irish Free State. Anti-treaty forces, led by Éamon de Valera, objected to the fact that acceptance of the treaty _abolished_ the Irish Republic of 1919 to which they had sworn loyalty, arguing in the face of public support for the settlement that the "people have no right to do wrong".[36] They objected most to the fact that the state would remain part of the British Empire and that members of the Free State Parliament would have to swear what the Anti-treaty side saw as an oath of fidelity to the British King. Pro-treaty forces, led by Michael Collins, argued that the treaty gave "not the ultimate freedom that all nations aspire to and develop, but the freedom to achieve it".[37]
+(1882–1975)]] The Irish Civil War (June 1922 – May 1923) was the consequence of the creation of the Irish Free State. Anti-treaty forces, led by Éamon de Valera, objected to the fact that acceptance of the treaty _abolished_ the Irish Republic of 1919 to which they had sworn loyalty, arguing in the face of public support for the settlement that the "people have no right to do wrong".[36] They objected most to the fact that the state would remain part of the British Empire and that members of the Free State Parliament would have to swear what the Anti-treaty side saw as an oath of fidelity to the British King. Pro-treaty forces, led by Michael Collins, argued that the treaty gave "not the ultimate freedom that all nations aspire to and develop, but the freedom to achieve it".[37]
 
 At the start of the war, the Irish Republican Army (IRA) split into two opposing camps: a pro-treaty IRA and an anti-treaty IRA. The pro-treaty IRA disbanded and joined the new National Army. However, because the anti-treaty IRA lacked an effective command structure and because of the pro-treaty forces' defensive tactics throughout the war, Michael Collins and his pro-treaty forces were able to build up an army with many tens of thousands of World War I veterans from the 1922 disbanded Irish regiments of the British Army, capable of overwhelming the anti-treatyists. British supplies of artillery, aircraft, machine-guns and ammunition boosted pro-treaty forces, and the threat of a return of Crown forces to the Free State removed any doubts about the necessity of enforcing the treaty. The lack of public support for the anti-treaty forces (often called the _Irregulars_) and the determination of the government to overcome the Irregulars contributed significantly to their defeat.
 
@@ -54,7 +54,7 @@ Ireland remained neutral during World War II, a period it described as the Emerg
 
 Recent history
 
-Tratado_de_Lisboa_13_12_2007_(081).jpg along with the United Kingdom and Denmark. The country signed the Lisbon Treaty in 2007.]] Ireland became a member of the United Nations in December 1955, after having been denied membership because of its neutral stance during the Second World War and not supporting the Allied cause.[44] At the time, joining the UN involved a commitment to using force to deter aggression by one state against another if the UN thought it was necessary.[45]
+along with the United Kingdom and Denmark. The country signed the Lisbon Treaty in 2007.]] Ireland became a member of the United Nations in December 1955, after having been denied membership because of its neutral stance during the Second World War and not supporting the Allied cause.[44] At the time, joining the UN involved a commitment to using force to deter aggression by one state against another if the UN thought it was necessary.[45]
 
 Interest towards membership of the European Economic Community (EEC) developed in Ireland during the 1950s, with consideration also given to membership of the European Free Trade Area. As the United Kingdom intended on EEC membership, Ireland applied for membership in July 1961 due to the substantial economic linkages with the United Kingdom. However, the founding EEC members remained skeptical regarding Ireland's economic capacity, neutrality, and unattractive protectionist policy.[46] Many Irish economists and politicians realised that economic policy reform was necessary. The prospect of EEC membership became doubtful in 1963 when French President General Charles de Gaulle stated that France opposed Britain's accession, which ceased negotiations with all other candidate countries. However, in 1969 his successor, Georges Pompidou, was not opposed to British and Irish membership. Negotiations began and in 1972 the Treaty of Accession was signed. A referendum held in 1972 confirmed Ireland's entry, and it finally joined the EEC in 1973.[47]
 
@@ -65,17 +65,17 @@ In the Northern Ireland question, the British and Irish governments started to s
 
 Geography
 
-Cliffs_of_Moher_bei_bestem_Wetter_(2007).jpg on the Atlantic coast]]
+on the Atlantic coast]]
 
 The state extends over an area of about five-sixths () of the island of Ireland (), with Northern Ireland constituting the remainder. The island is bounded to the north and west by the Atlantic Ocean and to the northeast by the North Channel. To the east, the Irish Sea connects to the Atlantic Ocean via St George's Channel and the Celtic Sea to the southwest.
 
 The western landscape mostly consists of rugged cliffs, hills and mountains. The central lowlands are extensively covered with glacial deposits of clay and sand, as well as significant areas of bogland and several lakes. The highest point is Carrauntoohil (), located in the MacGillycuddy's Reeks mountain range in the southwest. River Shannon, which traverses the central lowlands, is the longest river in Ireland at in length. The west coast is more rugged than the east, with numerous islands, peninsulas, headlands and bays.
 
-Macgillycuddy%27s_Reeks,_Lough_Callee_and_Cnoc_na_P%C3%A9iste_(Knocknapeasta)_-_geograph.org.uk_-_1434579.jpg, mountain range in County Kerry includes the highest peaks in Ireland]]
+, mountain range in County Kerry includes the highest peaks in Ireland]]
 
 Ireland is the least forested country in Europe.[51] Until the end of the Middle Ages, the land was heavily forested with native trees such as oak, ash, hazel, birch, alder, willow, aspen, elm, rowan, yew and Scots pine.[52] The growth of blanket bog and the extensive clearing of woodland for farming are believed to be the main causes of deforestation.[53] Today, only about 10% of Ireland is woodland,[54] most of which is non-native conifer plantations, and only 2% of which is native woodland.[55][56] The average woodland cover in European countries is over 33%.[57] Ideal soil conditions, high rainfall and a mild climate give Ireland the highest growth rates for forests in Europe. Hedgerows, which are traditionally used to define land boundaries, are an important substitute for woodland habitat, providing refuge for native wild flora and a wide range of insect, bird and mammal species.[58]
 
-Glendalough.jpg valley in County Wicklow]] Agriculture accounts for about 64% of the total land area.[59] This has resulted in limited land to preserve natural habitats, in particular for larger wild mammals with greater territorial requirements.[60] The long history of agricultural production coupled with modern agricultural methods, such as pesticide and fertiliser use, has placed pressure on biodiversity.[61]
+valley in County Wicklow]] Agriculture accounts for about 64% of the total land area.[59] This has resulted in limited land to preserve natural habitats, in particular for larger wild mammals with greater territorial requirements.[60] The long history of agricultural production coupled with modern agricultural methods, such as pesticide and fertiliser use, has placed pressure on biodiversity.[61]
 
 Climate
 
@@ -86,11 +86,11 @@ Politics
 
 Ireland is a constitutional republic with a parliamentary system of government. The __ is the bicameral national parliament composed of the President of Ireland and the two Houses of the Oireachtas: __ (Senate) and __ (House of Representatives).[68] Áras an Uachtaráin is the official residence of the President of Ireland, while the houses of the Oireachtas meet at Leinster House in Dublin.
 
-President_Higgins's_visit_FINIRISH_BATT_HQ,_Lebanon_(cropped).jpg]] The President serves as head of state, and is elected for a seven-year term and may be re-elected once. The President is primarily a figurehead, but is entrusted with certain constitutional powers with the advice of the Council of State. The office has absolute discretion in some areas, such as referring a bill to the Supreme Court for a judgment on its constitutionality.[69] Michael D. Higgins became the ninth President of Ireland on 11 November 2011.[70]
+]] The President serves as head of state, and is elected for a seven-year term and may be re-elected once. The President is primarily a figurehead, but is entrusted with certain constitutional powers with the advice of the Council of State. The office has absolute discretion in some areas, such as referring a bill to the Supreme Court for a judgment on its constitutionality.[69] Michael D. Higgins became the ninth President of Ireland on 11 November 2011.[70]
 
 The __ (Prime Minister) serves as the head of government and is appointed by the President upon the nomination of the . Most __ have served as the leader of the political party that gains the most seats in national elections. It has become customary for coalitions to form a government, as there has not been a single-party government since 1989.[71] Leo Varadkar succeeded Enda Kenny as Taoiseach on 14 June 2017.
 
-Leo_Varadkar_2011.jpg]] The is composed of sixty members, with eleven nominated by the , six elected by two universities, and 43 elected by public representatives from panels of candidates established on a vocational basis. The has 158 members (__) elected to represent multi-seat constituencies under the system of proportional representation and by means of the single transferable vote.
+]] The is composed of sixty members, with eleven nominated by the , six elected by two universities, and 43 elected by public representatives from panels of candidates established on a vocational basis. The has 158 members (__) elected to represent multi-seat constituencies under the system of proportional representation and by means of the single transferable vote.
 
 The Government is constitutionally limited to fifteen members. No more than two members can be selected from the , and the , __ (Deputy Prime Minister) and Minister for Finance must be members of the . The Dáil must be dissolved within five years after its first meeting following the previous election,[72] and a general election for members of the Dáil must take place no later than thirty days after the dissolution. According to the Constitution of Ireland, parliamentary elections must be held at least every seven years, though a lower limit may be set by statute law. The current government is a Fine Gael led minority government led by Leo Varadkar as Taoiseach and Simon Coveney as Tánaiste. It is supported by a number of independents including Shane Ross and former Senator Katherine Zappone. The minority government is held in place by a confidence and supply deal with Fianna Fáil. Opposition parties in the current are Fianna Fáil, Sinn Féin, the Labour Party, Solidarity–People Before Profit, Social Democrats, Workers and Unemployed Action, the Green Party as well as a number of independents.
 
@@ -98,40 +98,40 @@ Ireland has been a member state of the European Union since 1973, but has chosen
 
 Local government
 
-Government_buildings2_(8162790757).jpg]]
+]]
 
 The Local Government Act 1898[73] is the founding document of the present system of local government, while the Twentieth Amendment to the constitution of 1999 provided for its constitutional recognition. The twenty-six traditional counties of Ireland are not always coterminous with administrative divisions although they are generally used as a geographical frame of reference by the population of Ireland. The Local Government Reform Act 2014 provides for a system of thirty-one local authorities – twenty-six county councils, two city and county councils and three city councils.[74] Below this (with the exception of the Dublin Region and the three city councils) are municipal districts, replacing a previous system of town councils.
 
-+----------------------------------------------------------------------------------------+
-| +-------------------------------------+----------------------------+-----------------+ |
-| | Ireland_Administrative_Counties.svg | 1.  Fingal                 | 17. Kilkenny    | |
-| |                                     | 2.  Dublin City            | 18. Waterford   | |
-| |                                     | 3.  Dún Laoghaire–Rathdown | 19. Cork City   | |
-| |                                     | 4.  South Dublin           | 20. Cork        | |
-| |                                     | 5.  Wicklow                | 21. Kerry       | |
-| |                                     | 6.  Wexford                | 22. Limerick    | |
-| |                                     | 7.  Carlow                 | 23. Tipperary   | |
-| |                                     | 8.  Kildare                | 24. Clare       | |
-| |                                     | 9.  Meath                  | 25. Galway      | |
-| |                                     | 10. Louth                  | 26. Galway City | |
-| |                                     | 11. Monaghan               | 27. Mayo        | |
-| |                                     | 12. Cavan                  | 28. Roscommon   | |
-| |                                     | 13. Longford               | 29. Sligo       | |
-| |                                     | 14. Westmeath              | 30. Leitrim     | |
-| |                                     | 15. Offaly                 | 31. Donegal     | |
-| |                                     | 16. Laois                  |                 | |
-| +-------------------------------------+----------------------------+-----------------+ |
-+----------------------------------------------------------------------------------------+
++-----------------------------------------------------+
+| +--+----------------------------+-----------------+ |
+| |  | 1.  Fingal                 | 17. Kilkenny    | |
+| |  | 2.  Dublin City            | 18. Waterford   | |
+| |  | 3.  Dún Laoghaire–Rathdown | 19. Cork City   | |
+| |  | 4.  South Dublin           | 20. Cork        | |
+| |  | 5.  Wicklow                | 21. Kerry       | |
+| |  | 6.  Wexford                | 22. Limerick    | |
+| |  | 7.  Carlow                 | 23. Tipperary   | |
+| |  | 8.  Kildare                | 24. Clare       | |
+| |  | 9.  Meath                  | 25. Galway      | |
+| |  | 10. Louth                  | 26. Galway City | |
+| |  | 11. Monaghan               | 27. Mayo        | |
+| |  | 12. Cavan                  | 28. Roscommon   | |
+| |  | 13. Longford               | 29. Sligo       | |
+| |  | 14. Westmeath              | 30. Leitrim     | |
+| |  | 15. Offaly                 | 31. Donegal     | |
+| |  | 16. Laois                  |                 | |
+| +--+----------------------------+-----------------+ |
++-----------------------------------------------------+
 
 Local authorities are responsible for matters such as planning, local roads, sanitation, and libraries. Dáil constituencies are required to follow county boundaries as much as possible. Counties with greater populations have multiple constituencies, some of more than one county, but generally do not cross county boundaries. The counties are grouped into eight regions, each with a Regional Authority composed of members delegated by the various county and city councils in the region. The regions do not have any direct administrative role as such, but they serve for planning, coordination and statistical purposes.
 
 Law
 
-Dublin_four_courts.JPG, completed in 1802, is the principal building for civil courts]]
+, completed in 1802, is the principal building for civil courts]]
 
 Ireland has a common law legal system with a written constitution that provides for a parliamentary democracy. The court system consists of the Supreme Court, the Court of Appeal, the High Court, the Circuit Court and the District Court, all of which apply the Irish law and hear both civil and criminal matters. Trials for serious offences must usually be held before a jury. The High Court, Court of Appeal and the Supreme Court have authority, by means of judicial review, to determine the compatibility of laws and activities of other institutions of the state with the constitution and the law. Except in exceptional circumstances, court hearings must occur in public.
 
-CriminalCourtofJusticeDublin.jpg is the principal building for criminal courts]]
+is the principal building for criminal courts]]
 
 Garda Síochána na hÉireann (_Guardians of the Peace of Ireland_), more commonly referred to as the Gardaí, is the state's civilian police force. The force is responsible for all aspects of civil policing, both in terms of territory and infrastructure. It is headed by the Garda Commissioner, who is appointed by the Government. Most uniformed members do not routinely carry firearms. Standard policing is traditionally carried out by uniformed officers equipped only with a baton and pepper spray.[75]
 
@@ -143,7 +143,7 @@ Foreign relations
 
 Foreign relations are substantially influenced by membership of the European Union, although bilateral relations with the United Kingdom and United States are also important.[79] It held the Presidency of the Council of the European Union on six occasions, most recently from January to June 2013.[80]
 
-Institutions_europeennes_IMG_4300.jpg since 1973.]]
+since 1973.]]
 
 Ireland tends towards independence in foreign policy; thus the country is not a member of NATO and has a longstanding policy of military neutrality. This policy has helped the Irish Defence Forces to be successful in their contributions to peace-keeping missions with the United Nations since 1960, during the Congo Crisis and subsequently in Cyprus, Lebanon and Bosnia and Herzegovina.[81]
 
@@ -153,8 +153,6 @@ Since 1999, Ireland has been a member of NATO's Partnership for Peace (PfP) prog
 
 Military
 
-State_Visit_by_The_President_of_the_Republic_of_Mozambique011_(14173266347).jpg
-
 The Defence Forces are made up of the Army, Naval Service, Air Corps and Reserve Defence Force. It is small but well equipped, with almost 10,000 full-time military personnel and over 2,000 in reserve.[87][88] Ireland is a neutral country,[89] and has "triple-lock" rules governing the participation of Irish troops in conflict zones, whereby approval must be given by the UN, the Dáil and Government.[90] Daily deployments of the Defence Forces cover aid to civil power operations, protection and patrol of Irish territorial waters and EEZ by the Irish Naval Service, and UN, EU and PfP peace-keeping missions. By 1996, over 40,000 Irish service personnel had served in international UN peacekeeping missions.[91]
 
 The Irish Air Corps is the air component of the Defence Forces and operates sixteen fixed wing aircraft and eight helicopters. The Irish Naval Service is Ireland's navy, and operates eight patrol ships, and smaller numbers of inflatable boats and training vessels, and has armed boarding parties capable of seizing a ship and a special unit of frogmen. The military includes the Reserve Defence Forces (Army Reserve and Naval Service Reserve) for part-time reservists. Ireland's special forces include the Army Ranger Wing, which trains and operates with international special operations units. The President is the formal Supreme Commander of the Defence Forces, but in practice these Forces answer to the Government via the Minister for Defence.
@@ -162,7 +160,7 @@ The Irish Air Corps is the air component of the Defence Forces and operates sixt
 
 Economy
 
-BlueEurozone.svg (dark blue).]]
+(dark blue).]]
 
 Ireland is an open economy (6th on the Index of Economic Freedom), and ranks first for "high-value" foreign direct investment (FDI) flows.[92] Using the metric global GDP per capita, Ireland ranks 5th of 187 (IMF) and 6th of 175 (World Bank). The alternative metric modified Gross National Income (GNI) is intended to give a more accurate view of "activity in the domestic economy".[93] This is particularly relevant in Ireland 's small globalised economy, as GDP includes income from non-Irish owned companies, which flows out of Ireland.[94] Indeed, foreign multinationals are the driver of Ireland's economy, employing a quarter of the private sector workforce,[95] and paying 80% of Irish business taxes.[96][97][98] 14 of Ireland's top 20 firms (by 2017 turnover) are US-based multinationals[99] (80% of foreign mutinationals in Ireland are US;[100][101] there are no non-US/non-UK foreign firms in Ireland's top 50 firms by turnover, and only one by employees, that being German retailer Lidl at No. 41[102]).
 
@@ -186,7 +184,7 @@ Ireland's successful "low-tax" economy opens it to accusations of being a "corpo
 
 Trade
 
-La_Touche_House,_Dublin_(_DSC6350).jpg in Dublin]] Although multinational corporations dominate Ireland's export sector, exports from other sources also contribute significantly to the national income. The activities of multinational companies based in Ireland have made it one of the largest exporters of pharmaceutical agents, medical devices and software-related goods and services in the world. Ireland's exports also relate to the activities of large Irish companies (such as Ryanair, Kerry Group and Smurfit Kappa) and exports of mineral resources: Ireland is the seventh largest producer of zinc concentrates, and the twelfth largest producer of lead concentrates. The country also has significant deposits of gypsum, limestone, and smaller quantities of copper, silver, gold, barite, and dolomite.[150] Tourism in Ireland contributes about 4% of GDP and is a significant source of employment.
+in Dublin]] Although multinational corporations dominate Ireland's export sector, exports from other sources also contribute significantly to the national income. The activities of multinational companies based in Ireland have made it one of the largest exporters of pharmaceutical agents, medical devices and software-related goods and services in the world. Ireland's exports also relate to the activities of large Irish companies (such as Ryanair, Kerry Group and Smurfit Kappa) and exports of mineral resources: Ireland is the seventh largest producer of zinc concentrates, and the twelfth largest producer of lead concentrates. The country also has significant deposits of gypsum, limestone, and smaller quantities of copper, silver, gold, barite, and dolomite.[150] Tourism in Ireland contributes about 4% of GDP and is a significant source of employment.
 
 Other goods exports include agri-food, cattle, beef, dairy products, and aluminum. Ireland's major imports include data processing equipment, chemicals, petroleum and petroleum products, textiles, and clothing. Financial services provided by multinational corporations based at the Irish Financial Services Centre also contribute to Irish exports. The difference between exports (€89.4 billion) and imports (€45.5 billion) resulted an annual trade surplus of €43.9 billion in 2010, which is the highest trade surplus relative to GDP achieved by any EU member state.[151]
 
@@ -194,13 +192,13 @@ The EU is by far the country's largest trading partner, accounting for 57.9% of 
 
 Energy
 
-IMG_WindfarmKilmuck1920.jpg]] ESB, Bord Gáis Energy and Airtricity are the three main electricity and gas suppliers in Ireland. There are 19.82 billion cubic metres of proven reserves of gas.[153][154] Natural gas extraction previously occurred at the Kinsale Head until its exhaustion. The Corrib gas field was due to come on stream in 2013/14. In 2012, the Barryroe field was confirmed to have up to 1.6 billion barrels of oil in reserve, with between 160 and 600 million recoverable.[155] That could provide for Ireland's entire energy needs for up to 13 years, when it is developed in 2015/16. There have been significant efforts to increase the use of renewable and sustainable forms of energy in Ireland, particularly in wind power, with 3,000 MegaWatts[156] of wind farms being constructed, some for the purpose of export.[157] The Sustainable Energy Authority of Ireland (SEAI) has estimated that 6.5% of Ireland's 2011 energy requirements were produced by renewable sources.[158] The SEAI has also reported an increase in energy efficiency in Ireland with a 28% reduction in carbon emissions per house from 2005 to 2013.[159]
+]] ESB, Bord Gáis Energy and Airtricity are the three main electricity and gas suppliers in Ireland. There are 19.82 billion cubic metres of proven reserves of gas.[153][154] Natural gas extraction previously occurred at the Kinsale Head until its exhaustion. The Corrib gas field was due to come on stream in 2013/14. In 2012, the Barryroe field was confirmed to have up to 1.6 billion barrels of oil in reserve, with between 160 and 600 million recoverable.[155] That could provide for Ireland's entire energy needs for up to 13 years, when it is developed in 2015/16. There have been significant efforts to increase the use of renewable and sustainable forms of energy in Ireland, particularly in wind power, with 3,000 MegaWatts[156] of wind farms being constructed, some for the purpose of export.[157] The Sustainable Energy Authority of Ireland (SEAI) has estimated that 6.5% of Ireland's 2011 energy requirements were produced by renewable sources.[158] The SEAI has also reported an increase in energy efficiency in Ireland with a 28% reduction in carbon emissions per house from 2005 to 2013.[159]
 
 Transport
 
-Aerfort-bac.jpg]] The country's three main international airports at Dublin, Shannon and Cork serve many European and intercontinental routes with scheduled and chartered flights. The London to Dublin air route is the ninth busiest international air route in the world, and also the busiest international air route in Europe, with 14,500 flights between the two in 2017.[160][161] In 2015, 4.5 million people took the route, at that time, the world's second-busiest.[162] Aer Lingus is the flag carrier of Ireland, although Ryanair is the country's largest airline. Ryanair is Europe's largest low-cost carrier,[163] the second largest in terms of passenger numbers, and the world's largest in terms of international passenger numbers.[164]
+]] The country's three main international airports at Dublin, Shannon and Cork serve many European and intercontinental routes with scheduled and chartered flights. The London to Dublin air route is the ninth busiest international air route in the world, and also the busiest international air route in Europe, with 14,500 flights between the two in 2017.[160][161] In 2015, 4.5 million people took the route, at that time, the world's second-busiest.[162] Aer Lingus is the flag carrier of Ireland, although Ryanair is the country's largest airline. Ryanair is Europe's largest low-cost carrier,[163] the second largest in terms of passenger numbers, and the world's largest in terms of international passenger numbers.[164]
 
-Intercity_Heuston.jpg Mark IV train at Heuston station]] Railway services are provided by Iarnród Éireann (Irish Rail), which operates all internal intercity, commuter and freight railway services in the country. Dublin is the centre of the network with two main stations, Heuston station and Connolly station, linking to the country's cities and main towns. The Enterprise service, which runs jointly with Northern Ireland Railways, connects Dublin and Belfast. The whole of Ireland's mainline network operates on track with a gauge of {{convert, which is unique in Europe and has resulted in distinct rolling stock designs. Dublin has a steadily improving public transport network including the DART, Luas, Dublin Bus, and dublinbikes.
+Mark IV train at Heuston station]] Railway services are provided by Iarnród Éireann (Irish Rail), which operates all internal intercity, commuter and freight railway services in the country. Dublin is the centre of the network with two main stations, Heuston station and Connolly station, linking to the country's cities and main towns. The Enterprise service, which runs jointly with Northern Ireland Railways, connects Dublin and Belfast. The whole of Ireland's mainline network operates on track with a gauge of {{convert, which is unique in Europe and has resulted in distinct rolling stock designs. Dublin has a steadily improving public transport network including the DART, Luas, Dublin Bus, and dublinbikes.
 
 Motorways, national primary roads and national secondary roads are managed by Transport Infrastructure Ireland, while regional roads and local roads are managed by the local authorities in each of their respective areas. The road network is primarily focused on the capital, but motorways connect it to other major Irish cities including Cork, Limerick, Waterford and Galway.[165]
 
@@ -208,8 +206,6 @@ Dublin is served by major infrastructure such as the East-Link and West-Link tol
 
 
 Demographics
-
-Population_of_Ireland_1951-2011.png
 
 Genetic research suggests that the earliest settlers migrated from Iberia following the most recent ice age.[166] After the Mesolithic, Neolithic and Bronze Age, migrants introduced a Celtic language and culture. Migrants from the two latter eras still represent the genetic heritage of most Irish people.[167][168] Gaelic tradition expanded and became the dominant form over time. Irish people are a combination of Gaelic, Norse, Anglo-Norman, French, and British ancestry.
 
@@ -220,9 +216,7 @@ At the time of the 2016 census, the number of non-Irish nationals was recorded a
 +---------------------------------------------------+
 | Largest urban centres by population (2016 census) |
 +===================================================+
-| Dublin_city_Luftbild_(21951181938).jpg            |
 | Dublin                                            |
-| LimerickCity_Riverpoint.jpg                       |
 | Limerick                                          |
 +---------------------------------------------------+
 | 1                                                 |
@@ -269,15 +263,13 @@ The following is a list of functional urban areas in Ireland and their populatio
 
 Languages
 
-Percentage_stating_they_speak_Irish_daily_outside_the_education_system_in_the_2011_census.png
-
 The Irish Constitution describes Irish as the "national language", but English is the dominant language. In the 2006 census, 39% of the population regarded themselves as competent in Irish. Irish is spoken as a community language only in a small number of rural areas mostly in the west and south of the country, collectively known as the Gaeltacht. Except in Gaeltacht regions, road signs are usually bilingual.[177] Most public notices and print media are in English only. While the state is officially bilingual, citizens can often struggle to access state services in Irish and most government publications are not available in both languages, even though citizens have the right to deal with the state in Irish. Irish language media include the TV channel TG4, the radio station RTÉ Raidió na Gaeltachta and online newspaper Tuairisc.ie. In the Irish Defence Forces, all foot and arms drill commands are given in the Irish language.
 
 As a result of immigration, Polish is the most widely spoken language in Ireland after English, with Irish as the third most spoken.[178] Several other Central European languages (namely Czech, Hungarian and Slovak), as well as Baltic languages (Lithuanian and Latvian) are also spoken on a day-to-day basis. Other languages spoken in Ireland include Shelta, spoken by Irish Travellers, and a dialect of Scots is spoken by some Ulster Scots people in Donegal.[179] Most secondary school students choose to learn one or two foreign languages. Languages available for the Junior Certificate and the Leaving Certificate include French, German, Italian and Spanish; Leaving Certificate students can also study Arabic, Japanese and Russian. Some secondary schools also offer Ancient Greek, Hebrew and Latin. The study of Irish is compulsory for Leaving Certificate students, but some may qualify for an exemption in some circumstances, such as learning difficulties or entering the country after age 11.[180]
 
 Healthcare
 
-R.C.S.I_Disease_Research_Centre.jpg Disease and Research Centre at Beaumont Hospital in Dublin city.]] Healthcare in Ireland is provided by both public and private healthcare providers.[181] The Minister for Health has responsibility for setting overall health service policy. Every resident of Ireland is entitled to receive health care through the public health care system, which is managed by the Health Service Executive and funded by general taxation. A person may be required to pay a subsidised fee for certain health care received; this depends on income, age, illness or disability. All maternity services are provided free of charge and children up to the age of 6 months. Emergency care is provided to patients who present to a hospital emergency department. However, visitors to emergency departments in non-emergency situations who are not referred by their GP may incur a fee of €100. In some circumstances this fee is not payable or may be waived.[182]
+Disease and Research Centre at Beaumont Hospital in Dublin city.]] Healthcare in Ireland is provided by both public and private healthcare providers.[181] The Minister for Health has responsibility for setting overall health service policy. Every resident of Ireland is entitled to receive health care through the public health care system, which is managed by the Health Service Executive and funded by general taxation. A person may be required to pay a subsidised fee for certain health care received; this depends on income, age, illness or disability. All maternity services are provided free of charge and children up to the age of 6 months. Emergency care is provided to patients who present to a hospital emergency department. However, visitors to emergency departments in non-emergency situations who are not referred by their GP may incur a fee of €100. In some circumstances this fee is not payable or may be waived.[182]
 
 Anyone holding a European Health Insurance Card is entitled to free maintenance and treatment in public beds in Health Service Executive and voluntary hospitals. Outpatient services are also provided for free. However, the majority of patients on median incomes or above are required to pay subsidised hospital charges. Private health insurance is available to the population for those who want to avail of it.
 
@@ -285,13 +277,13 @@ The average life expectancy in Ireland in 2016 was 81.8 years (OECD 2016 list), 
 
 Education
 
-University-College-Cork-Panorama-2012.JPG was founded in 1845 and is a _constituent university_ of the National University of Ireland.]]
+was founded in 1845 and is a _constituent university_ of the National University of Ireland.]]
 
 Ireland has three levels of education: primary, secondary and higher education. The education systems are largely under the direction of the Government via the Minister for Education and Skills. Recognised primary and secondary schools must adhere to the curriculum established by the relevant authorities. Education is compulsory between the ages of six and fifteen years, and all children up to the age of eighteen must complete the first three years of secondary, including one sitting of the Junior Certificate examination.[186]
 
 There are approximately 3,300 primary schools in Ireland.[187] The vast majority (92%) are under the patronage of the Catholic Church. Schools run by religious organisations, but receiving public money and recognition, cannot discriminate against pupils based upon religion or lack thereof. A sanctioned system of preference does exist, where students of a particular religion may be accepted before those who do not share the ethos of the school, in a case where a school's quota has already been reached.
 
-Long_Room_Interior,_Trinity_College_Dublin,_Ireland_-_Diliff.jpg]]
+]]
 
 The Leaving Certificate, which is taken after two years of study, is the final examination in the secondary school system. Those intending to pursue higher education normally take this examination, with access to third-level courses generally depending on results obtained from the best six subjects taken, on a competitive basis.[188] Third-level education awards are conferred by at least 38 Higher Education Institutions – this includes the constituent or linked colleges of seven universities, plus other designated institutions of the Higher Education and Training Awards Council.
 
@@ -303,9 +295,9 @@ Religion
 
 Religious freedom is constitutionally provided for in Ireland. Christianity is the predominant religion, and while Ireland remains a predominantly Catholic country, the percentage of the population who identified as Catholic on the census has fallen sharply from 84.2 percent in the 2011 census to 78.3 percent in the most recent 2016 census. Other results from the 2016 census are : 4.2% Protestant, 1.3% Orthodox, 1.3% as Muslim, and 9.8% as having no religion.[195] According to a Georgetown University study, before 2000 the country had one of the highest rates of regular Mass attendance in the Western world.[196] While daily attendance was 13% in 2006, there was a reduction in weekly attendance from 81% in 1990 to 48% in 2006, although the decline was reported as stabilising.[197] In 2011, it was reported that weekly Mass attendance in Dublin was just 18%, with it being even lower among younger generations.[198]
 
-Procath.jpg is the seat of the Roman Catholic Church in Dublin.]]
+is the seat of the Roman Catholic Church in Dublin.]]
 
-14_St._Patricks_Cathedral,_Dublin.jpg, is the national Cathedral of the Church of Ireland.]]
+, is the national Cathedral of the Church of Ireland.]]
 
 The Church of Ireland, at 2.7% of the population, is the second largest Christian denomination. Membership declined throughout the twentieth century, but experienced an increase early in the 21st century, as have other small Christian denominations. Significant Protestant denominations are the Presbyterian Church and Methodist Church. Immigration has contributed to a growth in Hindu and Muslim populations. In percentage terms, Orthodox Christianity and Islam were the fastest growing religions, with increases of 100% and 70% respectively.[199]
 
@@ -322,11 +314,11 @@ Ireland's culture was for centuries predominantly Gaelic, and it remains one of 
 
 Literature
 
-Jonathan_Swift_by_Charles_Jervas_detail.jpg (1667–1745)]] Ireland has made a significant contribution to world literature in both the English and Irish languages. Modern Irish fiction began with the publishing of the 1726 novel _Gulliver's Travels_ by Jonathan Swift. Other writers of importance during the 18th century and their most notable works include Laurence Sterne with the publication of _The Life and Opinions of Tristram Shandy, Gentleman_ and Oliver Goldsmith's _The Vicar of Wakefield_. Numerous Irish novelists emerged during the 19th century, including Maria Edgeworth, John Banim, Gerald Griffin, Charles Kickham, William Carleton, George Moore, and Somerville and Ross. Bram Stoker is best known as the author of the 1897 novel _Dracula_.
+(1667–1745)]] Ireland has made a significant contribution to world literature in both the English and Irish languages. Modern Irish fiction began with the publishing of the 1726 novel _Gulliver's Travels_ by Jonathan Swift. Other writers of importance during the 18th century and their most notable works include Laurence Sterne with the publication of _The Life and Opinions of Tristram Shandy, Gentleman_ and Oliver Goldsmith's _The Vicar of Wakefield_. Numerous Irish novelists emerged during the 19th century, including Maria Edgeworth, John Banim, Gerald Griffin, Charles Kickham, William Carleton, George Moore, and Somerville and Ross. Bram Stoker is best known as the author of the 1897 novel _Dracula_.
 
 James Joyce (1882–1941) published his most famous work _Ulysses_ in 1922, which is an interpretation of the _Odyssey_ set in Dublin. Edith Somerville continued writing after the death of her partner Martin Ross in 1915. Dublin's Annie M. P. Smithson was one of several authors catering for fans of romantic fiction in the 1920s and 1930s. After the Second World War, popular novels were published by, among others, Brian O'Nolan, who published as Flann O'Brien, Elizabeth Bowen, and Kate O'Brien. During the final decades of the 20th century, Edna O'Brien, John McGahern, Maeve Binchy, Joseph O'Connor, Roddy Doyle, Colm Tóibín, and John Banville came to the fore as novelists.
 
-Yeats1923.jpg (1865–1939)]]
+(1865–1939)]]
 
 Patricia Lynch was a prolific children's author in the 20th century, while Eoin Colfer's works were NYT Best Sellers in this genre in the early 21st century.[201] In the genre of the short story, which is a form favoured by many Irish writers, the most prominent figures include Seán Ó Faoláin, Frank O'Connor and William Trevor. Well known Irish poets include Patrick Kavanagh, Thomas McCarthy, Dermot Bolger, and Nobel Prize in Literature laureates William Butler Yeats and Seamus Heaney (born in Northern Ireland but resided in Dublin). Prominent writers in the Irish language are Pádraic Ó Conaire, Máirtín Ó Cadhain, Séamus Ó Grianna, and Nuala Ní Dhomhnaill.
 
@@ -336,7 +328,7 @@ Music and dance
 
 Irish traditional music has remained vibrant, despite globalising cultural forces, and retains many traditional aspects. It has influenced various music genres, such as American country and roots music, and to some extent modern rock. It has occasionally been blended with styles such as rock and roll and punk rock. Ireland has also produced many internationally known artists in other genres, such as rock, pop, jazz, and blues. Ireland's best selling musical act is the rock band U2, who have sold 170 million copies of their albums worldwide since their formation in 1976.[203]
 
-U2_on_Joshua_Tree_Tour_2017_Brussels_8-1-17.jpg.]]
+.]]
 
 There are a number of classical music ensembles around the country, such as the RTÉ Performing Groups.[204] Ireland also has three opera organisations. Opera Ireland produces large-scale operas in Dublin, the Opera Theatre Company tours its chamber-style operas throughout the country, and the annual Wexford Opera Festival, which promotes lesser-known operas, takes place during October and November.
 
@@ -346,19 +338,19 @@ Irish dance can broadly be divided into social dance and performance dance. Iris
 
 Architecture
 
-Monasterboice_North_Church_and_West_Cross_West_Face_2013_09_27.jpg in County Louth are of early Christian settlement.]]
+in County Louth are of early Christian settlement.]]
 
 Ireland has a wealth of structures,[210] surviving in various states of preservation, from the Neolithic period, such as _Brú na Bóinne_, Poulnabrone dolmen, Castlestrange stone, Turoe stone, and Drombeg stone circle.[211] As the Romans never conquered Ireland, architecture of Greco-Roman origin is extremely rare. The country instead had an extended period of Iron Age architecture.[212] The Irish round tower originated during the Early Medieval period.
 
 Christianity introduced simple monastic houses, such as Clonmacnoise, Skellig Michael and Scattery Island. A stylistic similarity has been remarked between these double monasteries and those of the Copts of Egypt.[213] Gaelic kings and aristocrats occupied ringforts or _crannógs_.[214] Church reforms during the 12th century via the Cistercians stimulated continental influence, with the Romanesque styled Mellifont, Boyle and Tintern abbeys.[215] Gaelic settlement had been limited to the Monastic proto-towns, such as Kells, where the current street pattern preserves the original circular settlement outline to some extent.[216] Significant urban settlements only developed following the period of Viking invasions.[217] The major Hiberno-Norse Longphorts were located on the coast, but with minor inland fluvial settlements, such as the eponymous Longford.
 
-CustomHouseDublin.JPG is a neoclassical building from the late 18th century.]] Castles were built by the Anglo-Normans during the late 12th century, such as Dublin Castle and Kilkenny Castle,[218] and the concept of the planned walled trading town was introduced, which gained legal status and several rights by grant of a Charter under Feudalism. These charters specifically governed the design of these towns.[219] Two significant waves of planned town formation followed, the first being the 16th- and 17th-century plantation towns, which were used as a mechanism for the Tudor English kings to suppress local insurgency, followed by 18th-century landlord towns.[220] Surviving Norman founded planned towns include Drogheda and Youghal; plantation towns include Portlaoise and Portarlington; well-preserved 18th-century planned towns include Westport and Ballinasloe. These episodes of planned settlement account for the majority of present-day towns throughout the country. Buildings_on_Dame_Street,_Dublin_20150808_1.jpg
+is a neoclassical building from the late 18th century.]] Castles were built by the Anglo-Normans during the late 12th century, such as Dublin Castle and Kilkenny Castle,[218] and the concept of the planned walled trading town was introduced, which gained legal status and several rights by grant of a Charter under Feudalism. These charters specifically governed the design of these towns.[219] Two significant waves of planned town formation followed, the first being the 16th- and 17th-century plantation towns, which were used as a mechanism for the Tudor English kings to suppress local insurgency, followed by 18th-century landlord towns.[220] Surviving Norman founded planned towns include Drogheda and Youghal; plantation towns include Portlaoise and Portarlington; well-preserved 18th-century planned towns include Westport and Ballinasloe. These episodes of planned settlement account for the majority of present-day towns throughout the country.
 
 Gothic cathedrals, such as St Patrick's, were also introduced by the Normans.[221] Franciscans were dominant in directing the abbeys by the Late Middle Ages, while elegant tower houses, such as Bunratty Castle, were built by the Gaelic and Norman aristocracy.[222] Many religious buildings were ruined with the Dissolution of the Monasteries.[223] Following the Restoration, palladianism and rococo, particularly country houses, swept through Ireland under the initiative of Edward Lovett Pearce, with the Houses of Parliament being the most significant.[224]
 
 With the erection of buildings such as The Custom House, Four Courts, General Post Office and King's Inns, the neoclassical and Georgian styles flourished, especially in Dublin.[225] Georgian townhouses produced streets of singular distinction, particularly in Dublin, Limerick and Cork. Following Catholic Emancipation, cathedrals and churches influenced by the French Gothic Revival emerged, such as St Colman's and St Finbarre's.[226] Ireland has long been associated with thatched roof cottages, though these are nowadays considered quaint.[227]
 
-Elysian_tower_Cork.JPG tower in Cork is the second tallest storeyed building in the Republic of Ireland.]] Beginning with the American designed art deco church at Turner's Cross in 1927, Irish architecture followed the international trend towards modern and sleek building styles since the 20th century.[228] Other developments include the regeneration of Ballymun and an urban extension of Dublin at Adamstown.[229] Since the establishment of the Dublin Docklands Development Authority in 1997, the Dublin Docklands area underwent large-scale redevelopment, which included the construction of the Convention Centre Dublin and Grand Canal Theatre.[230] Completed in 2008, the Elysian tower in Cork is the tallest storeyed building in the Republic of Ireland (the Obel Tower in Belfast, Northern Ireland being the tallest in Ireland), at a height of , surpassing Cork County Hall. The Royal Institute of the Architects of Ireland regulates the practice of architecture in the state.[231]
+tower in Cork is the second tallest storeyed building in the Republic of Ireland.]] Beginning with the American designed art deco church at Turner's Cross in 1927, Irish architecture followed the international trend towards modern and sleek building styles since the 20th century.[228] Other developments include the regeneration of Ballymun and an urban extension of Dublin at Adamstown.[229] Since the establishment of the Dublin Docklands Development Authority in 1997, the Dublin Docklands area underwent large-scale redevelopment, which included the construction of the Convention Centre Dublin and Grand Canal Theatre.[230] Completed in 2008, the Elysian tower in Cork is the tallest storeyed building in the Republic of Ireland (the Obel Tower in Belfast, Northern Ireland being the tallest in Ireland), at a height of , surpassing Cork County Hall. The Royal Institute of the Architects of Ireland regulates the practice of architecture in the state.[231]
 
 Media
 
@@ -374,13 +366,13 @@ Eurostat reported that 82% of Irish households had Internet access in 2013 compa
 
 Cuisine
 
-A_pint_of_Guinness.jpg of Guinness]] Irish cuisine was traditionally based on meat and dairy products, supplemented with vegetables and seafood. Examples of popular Irish cuisine include boxty, colcannon, coddle, stew, and bacon and cabbage. Ireland is famous for the full Irish breakfast, which involves a fried or grilled meal generally consisting of rashers, egg, sausage, white and black pudding, and fried tomato. Apart from the influence by European and international dishes, there has been an emergence of a new Irish cuisine based on traditional ingredients handled in new ways. This cuisine is based on fresh vegetables, fish, oysters, mussels and other shellfish, and the wide range of hand-made cheeses that are now being produced across the country. Shellfish have increased in popularity, especially due to the high quality shellfish available from the country's coastline. The most popular fish include salmon and cod. Traditional breads include soda bread and wheaten bread. Barmbrack is a yeasted bread with added sultanas and raisins, traditionally eaten on Halloween.[238]
+of Guinness]] Irish cuisine was traditionally based on meat and dairy products, supplemented with vegetables and seafood. Examples of popular Irish cuisine include boxty, colcannon, coddle, stew, and bacon and cabbage. Ireland is famous for the full Irish breakfast, which involves a fried or grilled meal generally consisting of rashers, egg, sausage, white and black pudding, and fried tomato. Apart from the influence by European and international dishes, there has been an emergence of a new Irish cuisine based on traditional ingredients handled in new ways. This cuisine is based on fresh vegetables, fish, oysters, mussels and other shellfish, and the wide range of hand-made cheeses that are now being produced across the country. Shellfish have increased in popularity, especially due to the high quality shellfish available from the country's coastline. The most popular fish include salmon and cod. Traditional breads include soda bread and wheaten bread. Barmbrack is a yeasted bread with added sultanas and raisins, traditionally eaten on Halloween.[238]
 
 Popular everyday beverages among the Irish include tea and coffee. Alcoholic drinks associated with Ireland include Poitín and the world-famous Guinness, which is a dry stout that originated in the brewery of Arthur Guinness at St. James's Gate in Dublin. Irish whiskey is also popular throughout the country and comes in various forms, including single malt, single grain, and blended whiskey.[239]
 
 Sports
 
-Croke_park_hogan_stand.jpg stadium is the headquarters of the Gaelic Athletic Association.]]
+stadium is the headquarters of the Gaelic Athletic Association.]]
 
 Gaelic football and hurling are the traditional sports of Ireland as well as most popular spectator sports.[240] They are administered by the Gaelic Athletics Association on an all-Ireland basis. Other Gaelic games organised by the association include Gaelic handball and rounders.[241]
 
@@ -414,7 +406,7 @@ Ireland became the first country in the world to introduce an environmental levy
 
 State symbols
 
-Seal_of_the_President_of_Ireland.png, incorporating a harp]]
+, incorporating a harp]]
 
 The state shares many symbols with the island of Ireland. These include the colours green and blue, animals such as the Irish wolfhound and stags, structures such as round towers and celtic crosses, and designs such as Celtic knots and spirals. The shamrock, a type of clover, has been a national symbol of Ireland since the 17th century when it became customary to wear it as a symbol on St. Patrick's Day. These symbols are used by state institutions as well as private bodies in the Republic of Ireland.
 

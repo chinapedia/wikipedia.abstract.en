@@ -11,13 +11,13 @@ The island was administered as an extension of Virginia by the Company until 161
 
 Pre-settlement
 
-Map_of_Bermuda_1511_legatio_babylonica.jpg in his book _Legatio Babylonica_]]
+in his book _Legatio Babylonica_]]
 
 Bermuda was discovered in 1505 by Spanish explorer Juan de Bermúdez.[9] It is mentioned in _Legatio Babylonica_, published in 1511 by historian Pedro Mártir de Anglería, and was also included on Spanish charts of that year. Both Spanish and Portuguese ships used the islands as a replenishment spot to take on fresh meat and water. Legends arose of spirits and devils, now thought to have stemmed from the calls of raucous birds (most likely the Bermuda petrel, or _cahow_) and the loud noise heard at night from wild hogs. Combined with the frequent storm-wracked conditions and the dangerous reefs, the archipelago became known as the ISLE OF DEVILS.[10] Neither Spain nor Portugal attempted to settle it.
 
 Settlement by the English
 
-Generall_Historie_of_Virginia.jpg wrote one of the first histories of Bermuda in 1624 (combined with Virginia and New England).]] For the next century, the island is believed to have been visited frequently, but not settled. After the failure of the first two English colonies in Virginia, a more determined effort was initiated by King James I of England, who granted a Royal Charter to the Virginia Company.
+wrote one of the first histories of Bermuda in 1624 (combined with Virginia and New England).]] For the next century, the island is believed to have been visited frequently, but not settled. After the failure of the first two English colonies in Virginia, a more determined effort was initiated by King James I of England, who granted a Royal Charter to the Virginia Company.
 
 It established a colony at Jamestown, Virginia, in 1607. Two years later, a flotilla of seven ships left England under the Company's Admiral, Sir George Somers, and the new Governor of Jamestown, Sir Thomas Gates, with several hundred settlers, food and supplies to relieve the colony of Jamestown.[11] Somers had previous experience sailing with both Sir Francis Drake and Sir Walter Raleigh. The flotilla was broken up by a storm. As the flagship, , was taking on water, Somers drove it onto Bermuda's reef and gained the shores safely with smaller boats – all 150 passengers and a dog survived. (William Shakespeare's play _The Tempest_, in which the character Ariel refers to the "still-vex'd Bermoothes" (I.ii.229), is thought to have been inspired by William Strachey's account of this shipwreck.)[12] They stayed ten months, starting a new settlement and building two small ships, the Deliverance and the Patience, to sail to Jamestown. The group of islands were claimed for the English Crown, and the charter of the Virginia Company was later extended to include them.
 
@@ -39,7 +39,7 @@ The Royalist colonies were also threatened with invasion. The Government of Berm
 
 Maritime economy
 
-Bermuda_Gazette_-_12_November_1796.jpging against Spain and its allies; it has advertisements for crew for two privateer vessels.]] In the 17th century, the Somers Isles Company suppressed shipbuilding, as it needed Bermudians to farm in order for it to generate income from the land. The colony of Virginia far surpassed Bermuda in both quality and quantity of tobacco produced. Bermudians began to turn to maritime trades relatively early in the 17th century, but the Somers Isles Company used all its authority to suppress turning away from agriculture. This interference led to the islanders demanding, and receiving, the revocation of the Company's charter in 1684, and the Company was dissolved.
+ing against Spain and its allies; it has advertisements for crew for two privateer vessels.]] In the 17th century, the Somers Isles Company suppressed shipbuilding, as it needed Bermudians to farm in order for it to generate income from the land. The colony of Virginia far surpassed Bermuda in both quality and quantity of tobacco produced. Bermudians began to turn to maritime trades relatively early in the 17th century, but the Somers Isles Company used all its authority to suppress turning away from agriculture. This interference led to the islanders demanding, and receiving, the revocation of the Company's charter in 1684, and the Company was dissolved.
 
 Bermudians rapidly abandoned agriculture for shipbuilding, replanting farmland with the native juniper (_Juniperus bermudiana_, called _Bermuda cedar_) trees that grew thickly over the entire island. Establishing effective control over the Turks Islands, Bermudians deforested their landscape to begin the salt trade. It became the world's largest and remained the cornerstone of Bermuda's economy for the next century.
 
@@ -61,11 +61,9 @@ The Bermuda Gazette, Bermuda's first newspaper, began publishing in 1784.[24][25
 
 Fortress Bermuda
 
-Devonshire_Redoubt_(Bermuda).png
-
 After the American Revolution, the Royal Navy began improving the harbours on the Bermudas. In 1811, work began on the large Royal Naval Dockyard on Ireland Island, in the west of the chain, which was to serve as the islands' principal naval base guarding the western Atlantic Ocean shipping lanes. To guard the dockyard, the British Army built up a large Bermuda Garrison, and heavily fortified the archipelago.
 
-During the War of 1812 between Britain and the United States, the British attacks on Washington, D.C. and the Chesapeake were planned and launched from Bermuda, where the headquarters of the Royal Navy's North American Station had recently been moved from Halifax, Nova Scotia. The_Harbor_at_St._George,_Bermuda_from_Sugar_Loaf_Hill.jpg, the original capital.]]In 1816, James Arnold, the son of Benedict Arnold, fortified Bermuda's Royal Naval Dockyard against possible US attacks.[27] Today, the National Museum of Bermuda, which incorporates Bermuda's Maritime Museum, occupies the Keep of the Royal Naval Dockyard, including the Commissioner's House, and exhibits artifacts of the base's military history.
+During the War of 1812 between Britain and the United States, the British attacks on Washington, D.C. and the Chesapeake were planned and launched from Bermuda, where the headquarters of the Royal Navy's North American Station had recently been moved from Halifax, Nova Scotia. , the original capital.]]In 1816, James Arnold, the son of Benedict Arnold, fortified Bermuda's Royal Naval Dockyard against possible US attacks.[27] Today, the National Museum of Bermuda, which incorporates Bermuda's Maritime Museum, occupies the Keep of the Royal Naval Dockyard, including the Commissioner's House, and exhibits artifacts of the base's military history.
 
 Due to its proximity to the southeastern US coast, Bermuda was frequently used during the American Civil War as a stopping point base for the Confederate States' blockade runners on their runs to and from the Southern states, and England, to evade Union naval vessels on blockade patrol; the blockade runners were then able to transport essential war goods from England and deliver much needed cotton back to England. The old Globe Hotel in St George's, which was a centre of intrigue for Confederate agents, is preserved as a public museum.
 
@@ -81,11 +79,11 @@ Lord Kitchener's brother, Lt. Gen. Sir Walter Kitchener, had been the Governor o
 
 Economic and political development
 
-Bermuda_harbour_1926.jpg in the mid-1920s.]] In the early 20th century, as modern transport and communication systems developed, Bermuda became a popular destination for American, Canadian and British tourists arriving by sea. The United States Smoot–Hawley Tariff Act of 1930, which enacted protectionist trade tariffs on goods imported into the US, led to the demise of Bermuda's once-thriving agricultural export trade to America and encouraged the development of tourism as an alternative source of income. Queen_Elizabeth_II_and_Prince_Philip_visiting_in_Bermuda_in_1953.jpg and Prince Philip visiting Bermuda in 1953.]] In 1930, after several failed attempts, a Stinson Detroiter seaplane flew to Bermuda from New York City, the first aeroplane ever to reach the islands. The flight was not without incident, as the aircraft had to land twice in the ocean, once because of darkness and again when it needed to refuel.
+in the mid-1920s.]] In the early 20th century, as modern transport and communication systems developed, Bermuda became a popular destination for American, Canadian and British tourists arriving by sea. The United States Smoot–Hawley Tariff Act of 1930, which enacted protectionist trade tariffs on goods imported into the US, led to the demise of Bermuda's once-thriving agricultural export trade to America and encouraged the development of tourism as an alternative source of income. and Prince Philip visiting Bermuda in 1953.]] In 1930, after several failed attempts, a Stinson Detroiter seaplane flew to Bermuda from New York City, the first aeroplane ever to reach the islands. The flight was not without incident, as the aircraft had to land twice in the ocean, once because of darkness and again when it needed to refuel.
 
 Navigation and weather forecasting improved in 1933 when the Royal Air Force (then responsible for providing equipment and personnel for the Royal Navy's Fleet Air Arm) established a station at the Royal Naval Dockyard to repair float planes (and supply replacements) for the fleet. In 1936, Luft Hansa began to experiment with seaplane flights from Berlin via the Azores with continuation flights to New York City.[32]
 
-In 1937, Imperial Airways and Pan American Airways began operating scheduled flying boat airline services from New York and Baltimore to Darrell's Island, Bermuda. In 1948, a regularly scheduled commercial airline service began to operate, using land-based aeroplanes landing at Kindley Field (now L.F. Wade International Airport), helping tourism to reach its peak in the 1960s–1970s. By the end of the 1970s, however, international business had supplanted tourism as the dominant sector of Bermuda's economy. Winston_Churchill_visiting_Bermuda_for_the_Wetern_Summit_in_December_1953.jpg The_Queen_of_Bermuda_in_Bermuda,_late_1952_or_very_early_1953.jpg The Royal Naval Dockyard, and the attendant military garrison, continued to be important to Bermuda's economy until the mid-20th century. In addition to considerable building work, the armed forces needed to source food and other materials from local vendors. Beginning in World War II, US military installations were also located in Bermuda, including a naval air station and submarine base along with US Army air, anti-aircraft, and coast artillery forces. The Army forces were under the Bermuda Base Command during the war, with some shifting and renaming of bases between the US Army, Navy, and Air Force postwar. The American military presence lasted until 1995.[33]
+In 1937, Imperial Airways and Pan American Airways began operating scheduled flying boat airline services from New York and Baltimore to Darrell's Island, Bermuda. In 1948, a regularly scheduled commercial airline service began to operate, using land-based aeroplanes landing at Kindley Field (now L.F. Wade International Airport), helping tourism to reach its peak in the 1960s–1970s. By the end of the 1970s, however, international business had supplanted tourism as the dominant sector of Bermuda's economy. The Royal Naval Dockyard, and the attendant military garrison, continued to be important to Bermuda's economy until the mid-20th century. In addition to considerable building work, the armed forces needed to source food and other materials from local vendors. Beginning in World War II, US military installations were also located in Bermuda, including a naval air station and submarine base along with US Army air, anti-aircraft, and coast artillery forces. The Army forces were under the Bermuda Base Command during the war, with some shifting and renaming of bases between the US Army, Navy, and Air Force postwar. The American military presence lasted until 1995.[33]
 
 Universal adult suffrage and the development of a two-party political system took place in the 1960s. Universal suffrage was adopted as part of Bermuda's Constitution in 1967; voting had previously been dependent on a certain level of property ownership.
 
@@ -94,7 +92,7 @@ On 10 March 1973, the Governor of Bermuda, Richard Sharples, was assassinated by
 
 Geography
 
-View_from_top_of_Gibbs_Lighthouse_Bermuda.jpg Bermuda_oli_2014275_lrg-cropped.png Bermuda_from_ISS.jpg]] Bermuda_topographic_map-en.png
+]]
 
 Bermuda is a group of low-forming volcanoes in the Atlantic Ocean, near the western edge of the Sargasso Sea, roughly east-southeast of Cape Hatteras[34] on the Outer Banks of North Carolina and about southeast of Martha's Vineyard, Massachusetts. The islands are almost exactly antipodal with Perth, Australia, and are northeast of Miami, Florida, and from Cape Sable Island, in Nova Scotia, Canada. The islands lie due east of Fripp Island, South Carolina, west-northwest of Cape Verde, southeast of New York City, New York, north-northwest of Brazil and north of Cuba.[35]
 
@@ -108,8 +106,6 @@ Bermuda is the northernmost point of the Bermuda Triangle, a region of sea in wh
 
 Main sights
 
-BDA_Bermuda.jpg
-
 Bermuda's pink sand beaches and clear, cerulean blue ocean waters are popular with tourists.[39] Many of Bermuda's hotels are located along the south shore of the island. In addition to its beaches, there are a number of sightseeing attractions. Historic St George's is a designated World Heritage Site. Scuba divers can explore numerous wrecks and coral reefs in relatively shallow water (typically in depth), with virtually unlimited visibility. Many nearby reefs are readily accessible from shore by snorkellers, especially at Church Bay.
 
 Bermuda's most popular visitor attraction is the Royal Naval Dockyard, which includes the Bermuda Maritime Museum. Other attractions include the Bermuda Aquarium, Museum and Zoo,[40] Bermuda Underwater Exploration Institute, the Botanical Gardens and Masterworks Museum of Bermuda Art, lighthouses, and the Crystal Caves with stalactites and underground saltwater pools.
@@ -118,7 +114,7 @@ It is not possible to rent a car on the island; public transport and taxis are a
 
 Geology
 
-NOAA_Ocean_Explorer_Bermuda_Geologic_Map.png Bermuda consists of more than 150 limestone islands, but 5 main islands, along the southern margin of the Bermuda Platform, which is one of three topographic highs found on the Bermuda Pedestal. This Bermuda Pedestal sits atop the Bermuda Rise, a mid-basin swell surrounded by abyssal plains. Initial uplift of this rise occurred in the Middle to Late Eocene and concluded by the Late Oligocene, when it subsided below sea level. The volcanic rocks associated with this rise are tholeiitic lavas and intrusive lamprophyre sheets, which form a volcanic basement, on average, 50 m below the island carbonate surface.[42]
+Bermuda consists of more than 150 limestone islands, but 5 main islands, along the southern margin of the Bermuda Platform, which is one of three topographic highs found on the Bermuda Pedestal. This Bermuda Pedestal sits atop the Bermuda Rise, a mid-basin swell surrounded by abyssal plains. Initial uplift of this rise occurred in the Middle to Late Eocene and concluded by the Late Oligocene, when it subsided below sea level. The volcanic rocks associated with this rise are tholeiitic lavas and intrusive lamprophyre sheets, which form a volcanic basement, on average, 50 m below the island carbonate surface.[42]
 
 The limestones of Bermuda consist of biocalcarenites with minor conglomerates. The portion of Bermuda above sea level consists of rocks deposited by Aeolian processes. These eolianites are actually the type locality, and formed during interglaciations, and are laced by red paleosols, also referred to as geosols or terra rossas, indicative of Saharan atmospheric dust and forming during glacial stages. The stratigraphic column starts with the Walsingham Formation, overlain by the Castle Harbour Geosol, the Lower and Upper Town Hill Formations separated by the Harbour Road Geosol, the Ord Road Geosol, the Belmont Formation, the Shore Hills Geosol, the Rocky Bay Formation, and the Southampton Formation.[43]
 
@@ -128,7 +124,7 @@ Bermuda has two major aquifers, the Langton Aquifer located within the Southampt
 
 Climate
 
-Bermuda_wv.jpg Bermuda has a humid subtropical climate[46][47] (Köppen _Cfa_), very closely bordering on a tropical rainforest climate (Köppen Af). Bermuda is warmed by the nearby Gulf Stream, and low latitude. The islands may experience modestly cooler temperatures in January, February, and March (average ).[48] There has never been snow, a frost or freeze on record in Bermuda.
+Bermuda has a humid subtropical climate[46][47] (Köppen _Cfa_), very closely bordering on a tropical rainforest climate (Köppen Af). Bermuda is warmed by the nearby Gulf Stream, and low latitude. The islands may experience modestly cooler temperatures in January, February, and March (average ).[48] There has never been snow, a frost or freeze on record in Bermuda.
 
 Summertime heat index in Bermuda can be high, although mid-August temperatures rarely exceed . The highest recorded temperature was in August 1989.[49]
 
@@ -142,7 +138,7 @@ Bermuda is on the same parallel as the Portuguese archipelago Madeira a few time
 
 Flora and fauna
 
-Juvenile_Bermuda_Cedar_at_Ferry_Reach.jpg]]
+]]
 
 When discovered, Bermuda was uninhabited and mostly dominated by forests of Bermuda cedar, with mangrove marshes along its shores. Only 165 of the island's current 1,000 vascular plant species are considered native; fifteen of those, including the eponymous cedar, are endemic. The semi-tropical climate of Bermuda allowed settlers to introduce many species of trees and plants to the island. Today, many types of palm trees, fruit trees, and bananas grow on Bermuda.
 
@@ -153,13 +149,13 @@ The Bermuda skink (or _rock lizard_) was long thought to have been the only indi
 
 Demographics
 
-Gibb's_Hill_Lighthouse,_Bermuda_July_2015_-_panoramio.jpg in July 2015.]]
+in July 2015.]]
 
 Bermuda's 2010 Census put Bermuda's population at 64,237 and, with an area of , it has a calculated population density of 1207/km². As of July 2018, the population is estimated to be 71,146.[53]
 
 The racial makeup of Bermuda as recorded by the 2010 census, was 54% Black, 31% White, 8% multiracial, 4% Asian, and 4% other races, although these numbers are based on self-identification, and the majority of those who answered "black" have any mixture of black, white and indigenous American ancestry.[54] Native-born Bermudians made up 67% of the population, compared to 29% non-natives.
 
-St._Theresa's_Cathedral_chapel.jpg, in Hamilton, venerated by Azoreans in Bermuda.]] The island experienced large-scale immigration over the 20th century, especially after the Second World War. Bermuda has a diverse population including both those with relatively deep roots in Bermuda extending back for centuries, and newer communities whose ancestry results from recent immigration, especially from Britain, North America, the West Indies, and the Portuguese Atlantic islands (especially the Azores), although these groups are steadily merging. About 64% of the population identified themselves with Bermudian ancestry in 2010, which was an increase from the 51% who did so in the 2000 census. Those identifying with British ancestry dropped by 1% to 11% (although those born in Britain remain the largest non-native group at 3,942 persons). The number of people born in Canada declined by 13%. Those who reported West Indian ancestry were 13%. The number of people born in the West Indies actually increased by 538. A significant segment of the population is of Portuguese ancestry (25%), the result of immigration over the past 160 years,[55] of whom 79% have residency status.
+, in Hamilton, venerated by Azoreans in Bermuda.]] The island experienced large-scale immigration over the 20th century, especially after the Second World War. Bermuda has a diverse population including both those with relatively deep roots in Bermuda extending back for centuries, and newer communities whose ancestry results from recent immigration, especially from Britain, North America, the West Indies, and the Portuguese Atlantic islands (especially the Azores), although these groups are steadily merging. About 64% of the population identified themselves with Bermudian ancestry in 2010, which was an increase from the 51% who did so in the 2000 census. Those identifying with British ancestry dropped by 1% to 11% (although those born in Britain remain the largest non-native group at 3,942 persons). The number of people born in Canada declined by 13%. Those who reported West Indian ancestry were 13%. The number of people born in the West Indies actually increased by 538. A significant segment of the population is of Portuguese ancestry (25%), the result of immigration over the past 160 years,[55] of whom 79% have residency status.
 
 The deeper ancestral demography of Bermuda's population has been obscured by the ethnic homogenisation of the last four centuries. For the first hundred years of settlement, white Protestants of English heritage were the distinct majority, with white minorities of Irish (the native language of many of whom can be assumed to have been Gaelic) and Scots sent to Bermuda after the English invasions of their homelands that followed the English Civil War. Non-white minorities included Spanish-speaking, free (indentured) blacks from the West Indies (like the Irish, presumably Catholics), black chattel slaves primarily captured from Spanish and Portuguese ships by Bermudian privateers, and Native Americans, primarily from the Algonquian and other tribes of the Atlantic seaboard, but possibly from as far away as Mexico. By the 19th century, the white ethnically-English Bermudians had lost their numerical advantage. The majority white-Anglo population, or at least its elites, became alarmed very early at the increasing numbers of Irish and non-whites.
 
@@ -245,21 +241,19 @@ Many people in Bermuda are Anglican, Roman Catholic, African Methodist Episcopal
 
 Politics
 
-EU_OCT_and_OMR_map_en.png]] The current ruling party in Bermuda is the Progressive Labour Party, commonly referred to as the PLP. They were voted into power in July 2017 after Bermuda was ruled by the One Bermuda Alliance (OBA) for five years, from 2012 to 2017. David Burt is currently () the Premier of Bermuda, replacing Michael Dunkley, who led the OBA.
+]] The current ruling party in Bermuda is the Progressive Labour Party, commonly referred to as the PLP. They were voted into power in July 2017 after Bermuda was ruled by the One Bermuda Alliance (OBA) for five years, from 2012 to 2017. David Burt is currently () the Premier of Bermuda, replacing Michael Dunkley, who led the OBA.
 
 Government organization
 
 Executive authority in Bermuda is vested in the monarch and is exercised on her behalf by the Governor. The governor is appointed by the Queen on the advice of the British Government. Since December 2016, the governor has been John Rankin; he was sworn in on 5 December 2016.[61] There is also a Deputy Governor (currently David Arkley JP).[62] Defence and foreign affairs are carried out by the United Kingdom, which also retains responsibility to ensure good government. It must approve any changes to the Constitution of Bermuda. Bermuda is classified as a British Overseas Territory, but it is the oldest British colony. In 1620, a Royal Proclamation granted Bermuda limited self-governance; its Parliament is the fifth oldest in the world, behind the Parliament of the United Kingdom, the Tynwald of the Isle of Man, the Althing of Iceland, and Sejm of Poland.[63]
 
-Bermuda-The_State_House.jpg in St. George's, the home of Bermuda's parliament between 1620 and 1815.]] Sessions_House,_Hamilton,_Bermuda.jpg in Hamilton, current home of the House of Assembly and the Supreme Court.]] The Constitution of Bermuda came into force on 1 June 1967; it was amended in 1989 and 2003. The head of government is the premier. A cabinet is nominated by the premier and appointed officially by the governor. The legislative branch consists of a bicameral parliament modelled on the Westminster system. The Senate is the upper house, consisting of 11 members appointed by the governor on the advice of the premier and the leader of the opposition. The House of Assembly, or lower house, has 36 members, elected by the eligible voting populace in secret ballot to represent geographically defined constituencies.
+in St. George's, the home of Bermuda's parliament between 1620 and 1815.]] in Hamilton, current home of the House of Assembly and the Supreme Court.]] The Constitution of Bermuda came into force on 1 June 1967; it was amended in 1989 and 2003. The head of government is the premier. A cabinet is nominated by the premier and appointed officially by the governor. The legislative branch consists of a bicameral parliament modelled on the Westminster system. The Senate is the upper house, consisting of 11 members appointed by the governor on the advice of the premier and the leader of the opposition. The House of Assembly, or lower house, has 36 members, elected by the eligible voting populace in secret ballot to represent geographically defined constituencies.
 
 Elections must be called at no more than five-year intervals. The most recent took place on 18 July 2017. Following this election, the Progressive Labour Party took power, with David Burt succeeding Michael Dunkley, of the One Bermuda Alliance, as Premier.[64][65][66]
 
 There are few accredited diplomats in Bermuda. The United States maintains the largest diplomatic mission in Bermuda, comprising both the United States Consulate and the US Customs and Border Protection Services at the L.F. Wade International Airport. The United States is Bermuda's largest trading partner (providing over 71% of total imports, 85% of tourist visitors, and an estimated $163 billion of US capital in the Bermuda insurance/re-insurance industry), and an estimated 5% of Bermuda residents are US citizens, representing 14% of all foreign-born persons.
 
 Administrative divisions
-
-Bermuda-divmap.png
 
 Bermuda is divided into nine parishes and two incorporated municipalities.
 
@@ -315,7 +309,7 @@ The secret bilateral discussions that led to prisoner transfers between the US a
 
 Caribbean Community
 
-Bermuda_passport.jpg]]
+]]
 
 Bermuda became an associate member of the Caribbean Community (CARICOM) in July 2003, despite not being in the Caribbean region.[81][82][83]
 
@@ -338,9 +332,7 @@ The UBP, which had been in government from 1968 to 1998, argued that joining CAR
 
 Military
 
-BVRC-Great-War-Contingent_1914.jpg Contingent, raised in 1914. By the war's end, the two BVRC contingents had lost over 75% of their combined strength.]]
-
-Rembrance_Day_Parade_Bermuda.jpg
+ Contingent, raised in 1914. By the war's end, the two BVRC contingents had lost over 75% of their combined strength.]]
 
 Once known as "the Gibraltar of the West" and "Fortress Bermuda", Bermuda today is defended by British forces. For the first two centuries of settlement, the most potent armed force operating from Bermuda was its merchant shipping fleet, which turned to privateering at every opportunity. The Bermuda government maintained a local militia. After the American Revolutionary War, Bermuda was established as the Western Atlantic headquarters of the Royal Navy. Once the Royal Navy established a base and dockyard defended by regular soldiers, however, the militias were disbanded following the War of 1812. At the end of the 19th century, the colony raised volunteer units to form a reserve for the military garrison.
 
@@ -356,14 +348,12 @@ Canada, which had operated a war-time naval base, HMCS _Somers Isles_, on the ol
 
 In the 1950s, after the end of World War II, the Royal Naval dockyard and the military garrison were closed. A small Royal Navy supply base, HMS Malabar, continued to operate within the dockyard area, supporting transiting Royal Navy ships and submarines until it, too, was closed in 1995, along with the American and Canadian bases.
 
-HMS_Ambuscade_in_Bermuda.jpg at the Royal Naval Dockyard in 1988.]] Bermudians served in the British armed forces during both World War I and World War II. After the latter, Major-General Glyn Charles Anglim Gilbert, Bermuda's highest-ranking soldier, was instrumental in developing the Bermuda Regiment. A number of other Bermudians and their descendants had preceded him into senior ranks, including Bahamian-born Admiral Lord Gambier, and Bermudian-born Royal Marines Brigadier Harvey. When promoted to Brigadier at age 39, following his wounding at the Anzio landings, Harvey became the youngest-ever Royal Marine Brigadier. The Cenotaph in front of the Cabinet Building (in Hamilton) was erected in tribute to Bermuda's Great War dead (the tribute was later extended to Bermuda's Second World War dead) and is the site of the annual Remembrance Day commemoration.
+at the Royal Naval Dockyard in 1988.]] Bermudians served in the British armed forces during both World War I and World War II. After the latter, Major-General Glyn Charles Anglim Gilbert, Bermuda's highest-ranking soldier, was instrumental in developing the Bermuda Regiment. A number of other Bermudians and their descendants had preceded him into senior ranks, including Bahamian-born Admiral Lord Gambier, and Bermudian-born Royal Marines Brigadier Harvey. When promoted to Brigadier at age 39, following his wounding at the Anzio landings, Harvey became the youngest-ever Royal Marine Brigadier. The Cenotaph in front of the Cabinet Building (in Hamilton) was erected in tribute to Bermuda's Great War dead (the tribute was later extended to Bermuda's Second World War dead) and is the site of the annual Remembrance Day commemoration.
 
 Today, the only military unit remaining in Bermuda, other than naval and army cadet corps, is the Bermuda Regiment, an amalgam of the voluntary units originally formed toward the end of the 19th century. Although the Regiment's predecessors were voluntary units, the modern body is formed primarily by conscription: balloted males are required to serve for three years, two months part-time, once they turn 18.
 
 
 Economy
-
-Front_Street,_Hamilton,_Bermuda.jpg
 
 In 1970 the country switched its currency from the Bermudian pound to the Bermudian dollar, which is pegged at par with the US dollar. US notes and coins are used interchangeably with Bermudian notes and coins within the islands for most practical purposes; however, banks levy an exchange rate fee for the purchase of US dollars with Bermudian dollars.[97] Bermudian notes carry the image of Queen Elizabeth II. The Bermuda Monetary Authority is the issuing authority for all banknotes and coins, and regulates financial institutions. The Royal Naval Dockyard Museum holds a permanent exhibition of Bermuda notes and coins.
 
@@ -421,7 +411,7 @@ Actors such as Ernest Trimingham, Oona O'Neill, Earl Cameron, Diana Dill, Lena H
 
 Arts
 
-Music and dance are an important part of Bermudian culture. West Indian musicians introduced calypso music when Bermuda's tourist industry was expanded with the increase of visitors brought by post-Second World War aviation. Local icons, The Talbot Brothers, performed calypso music for many decades both in Bermuda and the United States, and appeared on the _Ed Sullivan Show_. While calypso appealed more to tourists than to the local residents, reggae has been embraced by many Bermudians since the 1970s with the influx of Jamaican immigrants. Gombey_dancers_from_Bermuda2001.jpg Noted Bermudian musicians include operatic tenor Dr. Gary Burgess; jazz pianist Lance Hayward; singer-songwriter and poet, Heather Nova, and her brother Mishka, reggae musician; classical musician and conductor Kenneth Amis; and more recently, dancehall artist Collie Buddz.
+Music and dance are an important part of Bermudian culture. West Indian musicians introduced calypso music when Bermuda's tourist industry was expanded with the increase of visitors brought by post-Second World War aviation. Local icons, The Talbot Brothers, performed calypso music for many decades both in Bermuda and the United States, and appeared on the _Ed Sullivan Show_. While calypso appealed more to tourists than to the local residents, reggae has been embraced by many Bermudians since the 1970s with the influx of Jamaican immigrants. Noted Bermudian musicians include operatic tenor Dr. Gary Burgess; jazz pianist Lance Hayward; singer-songwriter and poet, Heather Nova, and her brother Mishka, reggae musician; classical musician and conductor Kenneth Amis; and more recently, dancehall artist Collie Buddz.
 
 The dances of the colourful Gombey dancers, seen at many events, are strongly influenced by African, Caribbean, Native American and British cultural traditions. In summer 2001, they performed at the Smithsonian Folklife Festival on the National Mall in Washington, D.C., United States. These Gombey Dancers continue to showcase their work for locals and visitors during the Harbour Nights festival on Bermuda's Front Street every Wednesday evening (during the summer months) and draw very large crowds.
 
@@ -439,7 +429,7 @@ Bermudian model Gina Swainson was crowned "Miss World" in 1979.[122]
 
 Sports
 
-95_Coy_RGA_team_and_Governor%27s_Cup_in_Bermuda_1917.jpg, victors in the 1917 Governor's Cup football match, pose with the cup. The cup was contested for annually by teams from annually by teams from the various Royal Navy, British Army Bermuda Garrison, and Royal Air Force units stationed in Bermuda.]]
+, victors in the 1917 Governor's Cup football match, pose with the cup. The cup was contested for annually by teams from annually by teams from the various Royal Navy, British Army Bermuda Garrison, and Royal Air Force units stationed in Bermuda.]]
 
 Many sports popular today were formalised by British Public schools and universities in the 19th century. These schools produced the civil servants and military and naval officers required to build and maintain the British empire, and team sports were considered a vital tool for training their students to think and act as part of a team. Former public schoolboys continued to pursue these activities, and founded organisations such as the Football Association (FA). Today's association of football with the working classes began in 1885 when the FA changed its rules to allow professional players.
 
@@ -449,7 +439,7 @@ Bermuda's national cricket team participated in the Cricket World Cup 2007 in th
 
 In 2007, Bermuda hosted the 25th PGA Grand Slam of Golf. This 36-hole event was held on 16–17 October 2007, at the Mid Ocean Club in Tucker's Town. This season-ending tournament is limited to four golfers: the winners of the Masters, U.S. Open, British Open and PGA Championship. The event returned to Bermuda in 2008 and 2009. One-armed Bermudian golfer Quinn Talbot was both the United States National Amputee Golf Champion for five successive years and the British World One-Arm Golf Champion.[124]
 
-International_One_Design_-_Hamilton_Harbour_-_Bermuda.jpg racer on a mooring in Hamilton Harbour.]] The Government announced in 2006 that it would provide substantial financial support to Bermuda's cricket and football teams. Football did not become popular with Bermudians 'til after the Second World War, though teams from the various Royal Navy, British Army Bermuda Garrison, and Royal Air Force units of Bermuda had competed annually for the Governor's Cup introduced by Major-General Sir George Mackworth Bullock in 1913. A combined team of the Bermuda Militia Artillery (BMA) and the Bermuda Militia Infantry (BMI) defeated HMS Malabar to win the cup on 21 March, 1943, becoming the first team of a locally-raised unit to do so, and the third British Army team to do so since 1926.[125] Bermuda's most prominent footballers are Clyde Best, Shaun Goater, Kyle Lightbourne, Reggie Lambe, Sam Nusum and Nahki Wells. In 2006, the Bermuda Hogges were formed as the nation's first professional football team to raise the standard of play for the Bermuda national football team. The team played in the United Soccer Leagues Second Division but folded in 2013.
+racer on a mooring in Hamilton Harbour.]] The Government announced in 2006 that it would provide substantial financial support to Bermuda's cricket and football teams. Football did not become popular with Bermudians 'til after the Second World War, though teams from the various Royal Navy, British Army Bermuda Garrison, and Royal Air Force units of Bermuda had competed annually for the Governor's Cup introduced by Major-General Sir George Mackworth Bullock in 1913. A combined team of the Bermuda Militia Artillery (BMA) and the Bermuda Militia Infantry (BMI) defeated HMS Malabar to win the cup on 21 March, 1943, becoming the first team of a locally-raised unit to do so, and the third British Army team to do so since 1926.[125] Bermuda's most prominent footballers are Clyde Best, Shaun Goater, Kyle Lightbourne, Reggie Lambe, Sam Nusum and Nahki Wells. In 2006, the Bermuda Hogges were formed as the nation's first professional football team to raise the standard of play for the Bermuda national football team. The team played in the United Soccer Leagues Second Division but folded in 2013.
 
 Sailing, fishing and equestrian sports are popular with both residents and visitors alike. The prestigious Newport–Bermuda Yacht Race is a more than 100-year-old tradition, with boats racing between Newport, Rhode Island and Bermuda. In 2007, the 16th biennial Marion-Bermuda yacht race occurred. A sport unique to Bermuda is racing the Bermuda Fitted Dinghy. International One Design racing also originated in Bermuda.[126] In December 2013, Bermuda's bid to host the 2017 America's Cup was announced.
 

@@ -22,9 +22,9 @@ The official use of the furlong was abolished in the United Kingdom under the We
 
 Use
 
-Naypyitaw_Tollbooth.jpg]] Milepost_358-6_on_Yangon-Mandalay_Expressway.JPG In Myanmar, furlongs are currently used in conjunction with miles to indicate distances on highway signs. Mileposts on the Yangon–Mandalay Expressway use miles and furlongs.
+]] In Myanmar, furlongs are currently used in conjunction with miles to indicate distances on highway signs. Mileposts on the Yangon–Mandalay Expressway use miles and furlongs.
 
-036175_5_furlong.jpg]] In the rest of the world, the furlong has very limited use, with the notable exception of horse racing in most English-speaking countries, including Canada and the United States. The distances for horse racing in Australia were converted to metric in 1972,[5] but in the United Kingdom,[6] Ireland, Canada, and the United States, races are still given in miles and furlongs.
+]] In the rest of the world, the furlong has very limited use, with the notable exception of horse racing in most English-speaking countries, including Canada and the United States. The distances for horse racing in Australia were converted to metric in 1972,[5] but in the United Kingdom,[6] Ireland, Canada, and the United States, races are still given in miles and furlongs.
 
 The city of Chicago's street numbering system allots a measure of 800 address units to each mile, in keeping with the city's system of eight blocks per mile. This means that every block in a typical Chicago neighborhood (in either North/South or East/West direction but rarely both) is approximately one furlong in length. Salt Lake City's blocks are also each a square furlong in the downtown area. The blocks become less regular in shape further from the center, but the numbering system (800 units to each mile) remains the same everywhere in Salt Lake County. Blocks in central Logan, Utah, and in large sections of Phoenix, Arizona, are similarly a square furlong in extent (eight to a mile, which explains the series of freeway exits: 19th Ave, 27th, 35th, 43rd, 51st, 59th ...). City blocks in the Hoddle Grid of Melbourne are also one furlong in length.
 

@@ -10,14 +10,12 @@ Biology
 
 A member of the Apiaceae, chervil is native to the Caucasus but was spread by the Romans through most of Europe, where it is now naturalised.[3] It is also grown frequently in the United States, where it sometimes escapes cultivation. Such escape can be recognized, however, as garden chervil is distinguished from all other Anthriscus species growing in North America (i.e., A. caucalis and A. sylvestris) by its having lanceolate-linear bracteoles and a fruit with a relatively long beak.
 
-The plants grow to , with tripinnate leaves that may be curly. The small white flowers form small umbels, across. The fruit is about 1 cm long, oblong-ovoid with a slender, ridged beak.[4] Graine_de_cerfeuil.JPG
+The plants grow to , with tripinnate leaves that may be curly. The small white flowers form small umbels, across. The fruit is about 1 cm long, oblong-ovoid with a slender, ridged beak.[4]
 
 
 Uses and impact
 
 Culinary arts
-
-Chervil.JPG
 
 Chervil is used, particularly in France, to season poultry, seafood, young spring vegetables (such as carrots), soups, and sauces. More delicate than parsley, it has a faint taste of liquorice or aniseed.[5]
 

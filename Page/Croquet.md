@@ -1,9 +1,9 @@
-Modern_croquet_equipment.JPG Wyczółkowski_Game_of_croquet.jpg, _A Game of Croquet_ (1892-1895), National Museum, Warsaw]] CROQUET () is a sport[1][2] that involves hitting wooden or plastic balls with a mallet through hoops (often called "wickets" in the United States) embedded in a grass playing court.
+, _A Game of Croquet_ (1892-1895), National Museum, Warsaw]] CROQUET () is a sport[1][2] that involves hitting wooden or plastic balls with a mallet through hoops (often called "wickets" in the United States) embedded in a grass playing court.
 
 
 History
 
-Pall_Mall_-_Project_Gutenberg_eText_14315.jpg (pall-mall) illustrated in _Old English Sports, Pastimes and Customs_, published 1891. Original image by Lauthier, 1717]]
+(pall-mall) illustrated in _Old English Sports, Pastimes and Customs_, published 1891. Original image by Lauthier, 1717]]
 
 The oldest document to bear the word _croquet_ with a description of the modern game is the set of rules registered by Isaac Spratt in November 1856 with the Stationers' Company in London. This record is now in the Public Record Office. In 1868, the first croquet all-comers meet was held at Moreton-in-Marsh, Gloucestershire and in the same year the All England Croquet Club was formed at Wimbledon, London.
 
@@ -15,7 +15,7 @@ The first explanation is that the ancestral game was introduced to Britain from 
 
 In his 1810 book _The Sports and Pastimes of the People of England_, Joseph Strutt described the way pall-mall was played in England at the time: "Pale-maille is a game wherein a round box[wood] ball is struck with a mallet through a high arch of iron, which he that can do at the fewest blows, or at the number agreed upon, wins. It is to be observed, that there are two of these arches, that is one at either end of the alley. The game of mall was a fashionable amusement in the reign of Charles the Second, and the walk in Saint James's Park, now called the Mall, received its name from having been appropriated to the purpose of playing at mall, where Charles himself and his courtiers frequently exercised themselves in the practice of this pastime."[8]
 
-While the name _pall-mall_ and various games bearing this name also appeared elsewhere (France and Italy), the description above suggests that the croquet-like games in particular were popular in England by the early 17th century. Some other early modern sources refer to pall-mall being played over a large distance (as in golf); however, an image in Strutt's 1801 book shows a croquet-like ground billiards game (balls on ground, hoop, bats, and peg) being played over a , garden-sized distance. The image's caption describes the game as "a curious ancient pastime", confirming that croquet games were not new in early-19th-century England. EarlyCroquetSportsofPeopleofEnglandStrutt.jpg games date to classical antiquity.]]
+While the name _pall-mall_ and various games bearing this name also appeared elsewhere (France and Italy), the description above suggests that the croquet-like games in particular were popular in England by the early 17th century. Some other early modern sources refer to pall-mall being played over a large distance (as in golf); however, an image in Strutt's 1801 book shows a croquet-like ground billiards game (balls on ground, hoop, bats, and peg) being played over a , garden-sized distance. The image's caption describes the game as "a curious ancient pastime", confirming that croquet games were not new in early-19th-century England. games date to classical antiquity.]]
 
 In Samuel Johnson's 1755 dictionary, his definition of "pall-mall" clearly describes a game with similarities to modern croquet: "A play in which the ball is struck with a mallet through an iron ring".[9] However, there is no evidence that pall-mall involved the croquet stroke which is the distinguishing characteristic of the modern game.
 
@@ -23,11 +23,11 @@ The second theory is that the rules of the modern game of croquet arrived from I
 
 At least one version of it, __ ('wheel') was a multi-ball lawn game. Records show a game called "crookey", similar to croquet, being played at Castlebellingham in County Louth, Ireland, in 1834, which was introduced to Galway in 1835 and played on the bishop's palace garden, and in the same year to the genteel Dublin suburb of Kingstown (today Dún Laoghaire) where it was first spelt as "croquet".[10] There is, however, no pre-1858 Irish document that describes the way game was played, in particular there is no reference to the distinctive croquet stroke,[11] which is described below under "Variations: Association". The noted croquet historian Dr Prior, in his book of 1872, makes the categoric statement "One thing only is certain: it is from Ireland that croquet came to England and it was on the lawn of the late Lord Lonsdale that it was first played in this country." This was about 1851.[12]
 
-Eglington1.JPG, North Ayrshire, in the early 1860s]] John Jaques apparently claimed in a letter to Arthur Lillie in 1873 that he had himself seen the game played in Ireland, writing "I made the implements and published directions (such as they were) before Mr. Spratt [mentioned above] introduced the subject to me."[13] Whatever the truth of the matter, Jaques certainly played an important role in popularising the game, producing editions of the rules in 1857, 1860, and 1864.
+, North Ayrshire, in the early 1860s]] John Jaques apparently claimed in a letter to Arthur Lillie in 1873 that he had himself seen the game played in Ireland, writing "I made the implements and published directions (such as they were) before Mr. Spratt [mentioned above] introduced the subject to me."[13] Whatever the truth of the matter, Jaques certainly played an important role in popularising the game, producing editions of the rules in 1857, 1860, and 1864.
 
 Croquet became highly popular as a social pastime in England during the 1860s. It was enthusiastically adopted and promoted by the Earl of Essex who held lavish croquet parties at Cassiobury House, his stately home in Watford, Hertfordshire, and the Earl even launched his own _Cassiobury_ brand croquet set.[14][15] By 1867, Jaques had printed 65,000 copies of his _Laws and Regulations_ of the game. It quickly spread to other Anglophone countries, including Australia, Canada, New Zealand, South Africa, and the United States. No doubt one of the attractions was that the game could be played by both sexes; this also ensured a certain amount of adverse comment.
 
-Män_och_kvinnor_spelar_krocket_framför_hus_på_Lidingö_-_Nordiska_Museet_-_NMA.0040765.jpg By the late 1870s, however, croquet had been eclipsed by another fashionable game, lawn tennis, and many of the newly created croquet clubs, including the All England Club at Wimbledon, converted some or all of their lawns into tennis courts. There was a revival in the 1890s, but from then onwards, croquet was always a minority sport, with national individual participation amounting to a few thousand players. The All England Lawn Tennis and Croquet Club still has a croquet lawn, but has not hosted any significant tournaments. The English headquarters for the game is now in Cheltenham.
+By the late 1870s, however, croquet had been eclipsed by another fashionable game, lawn tennis, and many of the newly created croquet clubs, including the All England Club at Wimbledon, converted some or all of their lawns into tennis courts. There was a revival in the 1890s, but from then onwards, croquet was always a minority sport, with national individual participation amounting to a few thousand players. The All England Lawn Tennis and Croquet Club still has a croquet lawn, but has not hosted any significant tournaments. The English headquarters for the game is now in Cheltenham.
 
 The earliest known reference to croquet in Scotland is the booklet _The Game of Croquet, its Laws and Regulations_ which was published in the mid-1860s for the proprietor of Eglinton Castle, the Earl of Eglinton. On the page facing the title page is a picture of Eglinton Castle with a game of "croquet" in full swing.[16]
 
@@ -54,7 +54,7 @@ Variations
 
 Association
 
-Croquetplayers.jpg 2014_BL_Wetherby_Yorkshire_Prof_15.jpg, West Yorkshire.]] Association croquet is the name of an advanced game of croquet, played at all levels up to international level. It involves four balls teamed in pairs, with both balls going through every hoop for one pair to win. The game's distinguishing feature is the "croquet" shot: when certain balls hit other balls, extra shots are allowed. The six hoops are arranged three at each end of the court, with a centre peg.
+, West Yorkshire.]] Association croquet is the name of an advanced game of croquet, played at all levels up to international level. It involves four balls teamed in pairs, with both balls going through every hoop for one pair to win. The game's distinguishing feature is the "croquet" shot: when certain balls hit other balls, extra shots are allowed. The six hoops are arranged three at each end of the court, with a centre peg.
 
 One side takes the black and blue balls, the other takes red and yellow. At each turn, players can choose to play with either of their balls for that turn. At the start of a turn, the player plays a stroke. If the player either hits the ball through the correct hoop ("runs" the hoop), or hits another ball (a "roquet"), the turn continues.
 
@@ -100,8 +100,6 @@ Garden croquet is widely played in the UK. The rules are easy to learn and the g
 
 This version of the game is easy for beginners to learn. The main Garden Croquet Club in the UK is the Bygrave Croquet Club which is a private club with five lawns. Other clubs also use garden croquet as an introduction to the game, notably the Hampstead Heath Croquet Club and the Watford Croquet Club.
 
-TwilightCroquet4034.JPG
-
 American six-wicket
 
 The American-rules version of croquet, another six-hoop game, is the dominant version of the game in the United States and is also widely played in Canada. It is governed by the United States Croquet Association. Its genesis is mostly in association croquet, but it differs in a number of important ways that reflect the home-grown traditions of American "backyard" croquet.
@@ -133,8 +131,6 @@ Ricochet has similar rules to association and garden croquet, except that when a
 
 
 Glossary of terms
-
-CroquetConverse4037.JPG
 
 -   BACKWARD BALL: The ball of a side that has scored fewer hoops (compare with 'forward ball').[35]
 -   BALL-IN-HAND: A ball that the striker can pick up to change its position, for example:
@@ -174,7 +170,7 @@ CroquetConverse4037.JPG
 
 In art and literature
 
-Edouard_Manet_012.jpg'', Édouard Manet, 1873]] Louise_Abbéma_-_A_Game_of_Croquet.jpg, _A Game of Croquet_ (Trouville, 1872), private collection]]
+'', Édouard Manet, 1873]] , _A Game of Croquet_ (Trouville, 1872), private collection]]
 
 The way croquet is depicted in paintings and books says much about popular perceptions of the game, though little about the reality of modern play.
 

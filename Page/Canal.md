@@ -1,4 +1,4 @@
-Alter_Strom.jpg, Germany.]] IMG_RoyalCanalnrKinnegad5706w.jpg in Ireland.]] Basingstoke_Canal_-_Lock.JPG fuelled the industrial revolution in much of Europe and the United States.]] Broek_in_Waterland,_woonhuis_aan_het_Ee.jpg, Netherlands.]] Wenecja,_kanał_wodny_(Aw58TF).jpg.]] CANALS, or NAVIGATIONS, are human-made channels, or ARTIFICIAL WATERWAYS, for water conveyance, or to service water transport vehicles.
+, Germany.]] in Ireland.]] fuelled the industrial revolution in much of Europe and the United States.]] , Netherlands.]] .]] CANALS, or NAVIGATIONS, are human-made channels, or ARTIFICIAL WATERWAYS, for water conveyance, or to service water transport vehicles.
 
 In most cases, the engineered works will have a series of dams and locks that create reservoirs of low speed current flow. These reservoirs are referred to as _slack water levels_, often just called _levels_.
 
@@ -43,7 +43,7 @@ There are two broad types of canal:
 
 -   Aqueducts: water supply canals that are used for the conveyance and delivery of potable water for human consumption, municipal uses, hydro power canals and agriculture irrigation.
 
-Chutes_Loading_the_Canal_Boats_on_the_Lehigh_Canal.jpg on the Lehigh Canal to feed the early United States industries in the pioneer-era.]] [[File:River Levee Cross Section Figure.svg|thumb|
+on the Lehigh Canal to feed the early United States industries in the pioneer-era.]] [[File:River Levee Cross Section Figure.svg|thumb|
 
    1. Design High Water Level (HWL)
    2. Low water channel
@@ -60,12 +60,12 @@ Chutes_Loading_the_Canal_Boats_on_the_Lehigh_Canal.jpg on the Lehigh Canal to fe
   13. Protected lowland
   14. River zone]]
 
-MurtfaltalrDanubeChannel.JPG in Romania]] AmsterdamRijnkanaal.air.jpg near Rijswijk, Netherlands]]
+in Romania]] near Rijswijk, Netherlands]]
 
 
 Importance
 
-Canal_de_Castilla.jpg in Castile and León, Spain, has 207 kilometers, crossing 38 municipalities, initially to transport wheat, now it is used for irrigation.]] Historically canals were of immense importance to commerce and the development, growth and vitality of a civilization. In 1855 the Lehigh Canal carried over 1.2 million tons of anthracite coal; by the 1930s the company which built and operated it over a century pulled the plug. The few canals still in operation in our modern age are a fraction of the numbers that once fueled and enabled economic growth, indeed were practically a prerequisite to further urbanization and industrialization – for the movement of bulk raw materials such as coal and ores are difficult and marginally affordable without water transport. Such raw materials fueled the industrial developments and new metallurgy resulting of the spiral of increasing mechanization during 17th–20th century, leading to new research disciplines, new industries and economies of scale, raising the standard of living for any industrialized society.
+in Castile and León, Spain, has 207 kilometers, crossing 38 municipalities, initially to transport wheat, now it is used for irrigation.]] Historically canals were of immense importance to commerce and the development, growth and vitality of a civilization. In 1855 the Lehigh Canal carried over 1.2 million tons of anthracite coal; by the 1930s the company which built and operated it over a century pulled the plug. The few canals still in operation in our modern age are a fraction of the numbers that once fueled and enabled economic growth, indeed were practically a prerequisite to further urbanization and industrialization – for the movement of bulk raw materials such as coal and ores are difficult and marginally affordable without water transport. Such raw materials fueled the industrial developments and new metallurgy resulting of the spiral of increasing mechanization during 17th–20th century, leading to new research disciplines, new industries and economies of scale, raising the standard of living for any industrialized society.
 
 The surviving canals, including most ship canals, today primarily service mostly bulk cargo and large ship transportation industries, whereas the once critical smaller inland waterways conceived and engineered as boat and barge canals have largely been supplanted and filled in, abandoned and left to deteriorate, or kept in service and staffed by state employees, where dams and locks are maintained for flood control or pleasure boating. Their replacement was gradual, beginning first in the United States in the mid-1850s where canal shipping was first augmented by, then began being replaced by using _much faster_, less geographically constrained & limited, and generally cheaper to maintain railways.
 
@@ -94,11 +94,11 @@ Smaller transportation canals can carry barges or narrowboats, while ship canals
 
 Features
 
-caen.hill.locks.in.devizes.arp.jpg on the Kennet and Avon Canal, Wiltshire.]] pontcysyllte_aqueduct_arp.jpg in Denbighshire, Wales.]]
+on the Kennet and Avon Canal, Wiltshire.]] in Denbighshire, Wales.]]
 
 At their simplest, canals consist of a trench filled with water. Depending on the stratum the canal passes through, it may be necessary to line the cut with some form of watertight material such as clay or concrete. When this is done with clay, it is known as puddling.
 
-Canal_of_korinth_greece.jpg seen from the air.]] Canals need to be level, and while small irregularities in the lie of the land can be dealt with through cuttings and embankments, for larger deviations other approaches have been adopted. The most common is the pound lock, which consists of a chamber within which the water level can be raised or lowered connecting either two pieces of canal at a different level or the canal with a river or the sea. When there is a hill to be climbed, flights of many locks in short succession may be used.
+seen from the air.]] Canals need to be level, and while small irregularities in the lie of the land can be dealt with through cuttings and embankments, for larger deviations other approaches have been adopted. The most common is the pound lock, which consists of a chamber within which the water level can be raised or lowered connecting either two pieces of canal at a different level or the canal with a river or the sea. When there is a hill to be climbed, flights of many locks in short succession may be used.
 
 Prior to the development of the pound lock in 984 AD in China by Chhaio Wei-Yo[2] and later in Europe in the 15th century, either flash locks consisting of a single gate were used or ramps, sometimes equipped with rollers, were used to change the level. Flash locks were only practical where there was plenty of water available.
 
@@ -119,11 +119,11 @@ When a section of the canal needs to be sealed off so it can be drained for main
 
 History
 
-Canal_de_la_Peyrade,_Sète,_Hérault_01.jpg, France.]] The transport capacity of pack animals and carts is limited. A mule can carry an eighth-ton[3] [] maximum load over a journey measured in days and weeks,[4] though much more for shorter distances and periods with appropriate rest.[5] Besides, carts need roads. Transport over water is much more efficient and cost-effective for large cargoes. It goes back to the summer of 1997, perhaps even earlier.
+, France.]] The transport capacity of pack animals and carts is limited. A mule can carry an eighth-ton[3] [] maximum load over a journey measured in days and weeks,[4] though much more for shorter distances and periods with appropriate rest.[5] Besides, carts need roads. Transport over water is much more efficient and cost-effective for large cargoes. It goes back to the summer of 1997, perhaps even earlier.
 
 Ancient canals
 
-Kaiserkanal01.jpg at Suzhou.]]
+at Suzhou.]]
 
 The oldest known canals were irrigation canals, built in Mesopotamia circa 4000 BC, in what is now Iraq and Iran. The Indus Valley Civilization, Ancient India, (circa 2600 BC) had sophisticated irrigation and storage systems developed, including the reservoirs built at Girnar in 3000 BC.[6] In Egypt, canals date back at least to the time of Pepi I Meryre (reigned 2332–2283 BC), who ordered a canal built to bypass the cataract on the Nile near Aswan.[7]
 
@@ -133,7 +133,7 @@ Greek engineers were also among the first to use canal locks, by which they regu
 
 Middle Ages
 
-Thal_Canal.JPG.]] In the Middle Ages, water transport was several times cheaper and faster than transport overland. Overland transport by animal drawn conveyances was used around settled areas, but unimproved roads required pack animal trains, usually of mules to carry any degree of mass, and while a mule could carry an eighth ton,[13] it also needed teamsters to tend it and one man could only tend perhaps five mules,[14] meaning overland bulk transport was also expensive, as men expect compensation in the form of wages, room and board. This was because long-haul roads were unpaved, more often than not too narrow for carts, much less wagons, and in poor condition, wending their way through forests, marshy or muddy quagmires as often as unimproved but dry footing. In that era, as today, greater cargoes, especially bulk goods and raw materials, could be transported by ship far more economically than by land; in the pre-railroad days of the industrial revolution, water transport was the gold standard of fast transportation. The first artificial canal in Western Europe was the Fossa Carolina built at the end of the 8th century under personal supervision of Charlemagne.
+.]] In the Middle Ages, water transport was several times cheaper and faster than transport overland. Overland transport by animal drawn conveyances was used around settled areas, but unimproved roads required pack animal trains, usually of mules to carry any degree of mass, and while a mule could carry an eighth ton,[13] it also needed teamsters to tend it and one man could only tend perhaps five mules,[14] meaning overland bulk transport was also expensive, as men expect compensation in the form of wages, room and board. This was because long-haul roads were unpaved, more often than not too narrow for carts, much less wagons, and in poor condition, wending their way through forests, marshy or muddy quagmires as often as unimproved but dry footing. In that era, as today, greater cargoes, especially bulk goods and raw materials, could be transported by ship far more economically than by land; in the pre-railroad days of the industrial revolution, water transport was the gold standard of fast transportation. The first artificial canal in Western Europe was the Fossa Carolina built at the end of the 8th century under personal supervision of Charlemagne.
 
 In Britain, the _Glastonbury Canal _ is believed to be the first post-Roman canal and was built in the middle of the 10th century to link the River Brue at Northover[15] with Glastonbury Abbey, a distance of about .[16] Its initial purpose is believed to be the transport of building stone for the abbey, but later it was used for delivering produce, including grain, wine and fish, from the abbey's outlying properties. It remained in use until at least the 14th century, but possibly as late as the mid-16th century.[17]
 More lasting and of more economic impact were canals like the Naviglio Grande built between 1127 and 1257 to connect Milan with the Ticino River. The Naviglio Grande is the most important of the lombard "navigli"[18] and the oldest functioning canal in Europe.
@@ -145,7 +145,7 @@ To break out of the limitations caused by river valleys, the first summit level 
 
 Early modern period
 
-Negombo_canal_2.jpg, Sri Lanka.]] Around 1500–1800 the first canal to use pound locks was the Briare Canal connecting the Loire and Seine (1642), followed by the more ambitious Canal du Midi (1683) connecting the Atlantic to the Mediterranean. This included a staircase of 8 locks at Béziers, a tunnel, and three major aqueducts.
+, Sri Lanka.]] Around 1500–1800 the first canal to use pound locks was the Briare Canal connecting the Loire and Seine (1642), followed by the more ambitious Canal du Midi (1683) connecting the Atlantic to the Mediterranean. This included a staircase of 8 locks at Béziers, a tunnel, and three major aqueducts.
 
 Canal building progressed steadily in Germany in the 17th and 18th centuries with three great rivers, the Elbe, Oder and Weser being linked by canals. In post-Roman Britain, the first early modern period canal built appears to have been the Exeter Canal, which was surveyed in 1563, and open in 1566.[20][21]
 
@@ -154,8 +154,6 @@ The oldest canal in North America, technically a mill race built for industrial 
 In Russia, the Volga–Baltic Waterway, a nationwide canal system connecting the Baltic Sea and Caspian Sea via the Neva and Volga rivers, was opened in 1718.
 
 Industrial Revolution
-
-1975_map_of_canal_system_in_Lowell,_Massachusetts.png
 
 -   See also: History of the British canal system
 -   See also: History of turnpikes and canals in the United States
@@ -184,13 +182,13 @@ In a further development, there was often out-and-out speculation, where people 
 
 Many rival canal companies were formed and competition was rampant. Perhaps the best example was Worcester Bar in Birmingham, a point where the Worcester and Birmingham Canal and the Birmingham Canal Navigations Main Line were only seven feet apart. For many years, a dispute about tolls meant that goods travelling through Birmingham had to be portaged from boats in one canal to boats in the other.[33]
 
-NYmohawk-ErieCanalRexford.JPG at Rexford, New York, one of 32 navigable aqueducts on the Erie Canal.]]
+at Rexford, New York, one of 32 navigable aqueducts on the Erie Canal.]]
 
 Canal companies were initially chartered by individual states in the United States. These early canals were constructed, owned, and operated by private joint-stock companies. Three were completed when the War of 1812 broke out; these were the Santee Canal (opened 1800) in South Carolina, the Middlesex Canal (opened 1802) in Massachusetts and the Dismal Swamp Canal (opened 1805) in Virginia. The Erie Canal (opened 1825) was chartered and owned by the state of New York and financed by bonds bought by private investors. The Erie canal runs about from Albany, New York, on the Hudson River to Buffalo, New York, at Lake Erie. The Hudson River connects Albany to the Atlantic port of New York City and the Erie Canal completed a navigable water route from the Atlantic Ocean to the Great Lakes. The canal contains 36 locks and encompasses a total elevation differential of around 565 ft. (169 m). The Erie Canal with its easy connections to most of the U.S. mid-west and New York City soon quickly paid back all its invested capital (US$7 million) and started turning a profit. By cutting transportation costs in half or more it became a large profit center for Albany and New York City as it allowed the cheap transportation of many of the agricultural products grown in the mid west of the United States to the rest of the world. From New York City these agricultural products could easily be shipped to other U.S. states or overseas. Assured of a market for their farm products the settlement of the U.S. mid-west was greatly accelerated by the Erie Canal. The profits generated by the Erie Canal project started a canal building boom in the United States that lasted until about 1850 when railroads started becoming seriously competitive in price and convenience. The Blackstone Canal (finished in 1828) in Massachusetts and Rhode Island fulfilled a similar role in the early industrial revolution between 1828 and 1848. The Blackstone Valley was a major contributor of the American Industrial Revolution where Samuel Slater built his first textile mill.
 
 Power canals
 
-Gabčíkovo_sluice_Slovakia.jpg in the canal of Gabčíkovo Dam (Slovakia) – the canal is conveying water to a hydroelectric power station.]]
+in the canal of Gabčíkovo Dam (Slovakia) – the canal is conveying water to a hydroelectric power station.]]
 
 -   See also: Power canal
 
@@ -198,13 +196,13 @@ A POWER CANAL refers to a canal used for hydraulic power generation, rather than
 
 19th century
 
-Canals_USA_1825.png Competition, from railways from the 1830s and roads in the 20th century, made the smaller canals obsolete for most commercial transport, and many of the British canals fell into decay. Only the Manchester Ship Canal and the Aire and Calder Canal bucked this trend. Yet in other countries canals grew in size as construction techniques improved. During the 19th century in the US, the length of canals grew from to over 4,000, with a complex network making the Great Lakes navigable, in conjunction with Canada, although some canals were later drained and used as railroad rights-of-way.
+Competition, from railways from the 1830s and roads in the 20th century, made the smaller canals obsolete for most commercial transport, and many of the British canals fell into decay. Only the Manchester Ship Canal and the Aire and Calder Canal bucked this trend. Yet in other countries canals grew in size as construction techniques improved. During the 19th century in the US, the length of canals grew from to over 4,000, with a complex network making the Great Lakes navigable, in conjunction with Canada, although some canals were later drained and used as railroad rights-of-way.
 
 In the United States, navigable canals reached into isolated areas and brought them in touch with the world beyond. By 1825 the Erie Canal, long with 36 locks, opened up a connection from the populated Northeast to the Great Lakes. Settlers flooded into regions serviced by such canals, since access to markets was available. The Erie Canal (as well as other canals) was instrumental in lowering the differences in commodity prices between these various markets across America. The canals caused price convergence between different regions because of their reduction in transportation costs, which allowed Americans to ship and buy goods from farther distances much cheaper. Ohio built many miles of canal, Indiana had working canals for a few decades, and the Illinois and Michigan Canal connected the Great Lakes to the Mississippi River system until replaced by a channelized river waterway.
 
-Amsterdam_-_Herengracht_-_0206.jpg.]] Three major canals with very different purposes were built in what is now Canada. The first Welland Canal, which opened in 1829 between Lake Ontario and Lake Erie, bypassing Niagara Falls and the Lachine Canal (1825), which allowed ships to skirt the nearly impassable rapids on the St. Lawrence River at Montreal, were built for commerce. The Rideau Canal, completed in 1832, connects Ottawa on the Ottawa River to Kingston, Ontario on Lake Ontario. The Rideau Canal was built as a result of the War of 1812 to provide military transportation between the British colonies of Upper Canada and Lower Canada as an alternative to part of the St. Lawrence River, which was susceptible to blockade by the United States.
+.]] Three major canals with very different purposes were built in what is now Canada. The first Welland Canal, which opened in 1829 between Lake Ontario and Lake Erie, bypassing Niagara Falls and the Lachine Canal (1825), which allowed ships to skirt the nearly impassable rapids on the St. Lawrence River at Montreal, were built for commerce. The Rideau Canal, completed in 1832, connects Ottawa on the Ottawa River to Kingston, Ontario on Lake Ontario. The Rideau Canal was built as a result of the War of 1812 to provide military transportation between the British colonies of Upper Canada and Lower Canada as an alternative to part of the St. Lawrence River, which was susceptible to blockade by the United States.
 
-1870_Nicaragua_Canal_Map_Restoration.png, from around 1870.]] In France, a steady linking of all the river systems – Rhine, Rhône, Saône and Seine – and the North Sea was boosted in 1879 by the establishment of the Freycinet gauge, which specified the minimum size of locks. Canal traffic doubled in the first decades of the 20th century.[35]
+, from around 1870.]] In France, a steady linking of all the river systems – Rhine, Rhône, Saône and Seine – and the North Sea was boosted in 1879 by the establishment of the Freycinet gauge, which specified the minimum size of locks. Canal traffic doubled in the first decades of the 20th century.[35]
 
 Many notable sea canals were completed in this period, starting with the Suez Canal (1869) – which carries tonnage many times that of most other canals – and the Kiel Canal (1897), though the Panama Canal was not opened until 1914.
 
@@ -212,7 +210,7 @@ In the 19th century, a number of canals were built in Japan including the Biwako
 
 Modern uses
 
-Viewing_man-made_canals_in_the_marsh_in_Louisiana,_Barataria_Basin.jpg Large-scale ship canals such as the Panama Canal and Suez Canal continue to operate for cargo transportation, as do European barge canals. Due to globalization, they are becoming increasingly important, resulting in expansion projects such as the Panama Canal expansion project. The expanded canal began commercial operation on 26 June 2016. The new set of locks allow transit of larger, Post-Panamax and New Panamax ships.[37]
+Large-scale ship canals such as the Panama Canal and Suez Canal continue to operate for cargo transportation, as do European barge canals. Due to globalization, they are becoming increasingly important, resulting in expansion projects such as the Panama Canal expansion project. The expanded canal began commercial operation on 26 June 2016. The new set of locks allow transit of larger, Post-Panamax and New Panamax ships.[37]
 
 The narrow early industrial canals, however, have ceased to carry significant amounts of trade and many have been abandoned to navigation, but may still be used as a system for transportation of untreated water. In some cases railways have been built along the canal route, an example being the Croydon Canal.
 
@@ -227,11 +225,11 @@ Canals are still used to provide water for agriculture. An extensive canal syste
 
 Cities on water
 
-Herengracht_tussen_Beulingstraat_en_Koningsplein_pic1.JPG) in Amsterdam, Netherlands.]] Griboyedov_Canal_2.jpg in St. Petersburg, Russia.]] Goldcoast_Queensland_Australia_aerial_view.jpg, Australia.]] Utrecht_Canals_-_July_2006.jpg in Utrecht, Netherlands.]] Canals are so deeply identified with Venice that many canal cities have been nicknamed _"the Venice of…"_. The city is built on marshy islands, with wooden piles supporting the buildings, so that the land is man-made rather than the waterways. The islands have a long history of settlement; by the 12th century, Venice was a powerful city state.
+) in Amsterdam, Netherlands.]] in St. Petersburg, Russia.]] , Australia.]] in Utrecht, Netherlands.]] Canals are so deeply identified with Venice that many canal cities have been nicknamed _"the Venice of…"_. The city is built on marshy islands, with wooden piles supporting the buildings, so that the land is man-made rather than the waterways. The islands have a long history of settlement; by the 12th century, Venice was a powerful city state.
 
 Amsterdam was built in a similar way, with buildings on wooden piles. It became a city around 1300. Many Amsterdam canals were built as part of fortifications. They became _grachten_ when the city was enlarged and houses were built alongside the water.
 
-Quai_Maréchal_de_Lattre_de_Tassigny,_Sète_02.jpg, France.]]
+, France.]]
 
 Other cities with extensive canal networks include: Alkmaar, Amersfoort, Bolsward, Brielle, Delft, Den Bosch, Dokkum, Dordrecht, Enkhuizen, Franeker, Gouda, Haarlem, Harlingen, Leeuwarden, Leiden, Sneek and Utrecht in the Netherlands; Brugge and Gent in Flanders, Belgium; Birmingham in England; Saint Petersburg in Russia; Aveiro in Portugal; Hamburg and Berlin in Germany; Fort Lauderdale and Cape Coral in Florida, United States and Lahore in Pakistan.
 
@@ -242,7 +240,7 @@ Canal Estates (commonly known as bayous) are a form of subdivision popular in ci
 
 Boats
 
-Panama_Canal_Miraflores_Locks.jpg ships in the Miraflores Locks on the Panama Canal, Panama.]] Inland canals have often had boats specifically built for them. An example of this is the British narrowboat, which is up to long and wide and was primarily built for British Midland canals. In this case the limiting factor was the size of the locks. This is also the limiting factor on the Panama canal where Panamax ships were limited to a length of and a beam of until 26 June 2016 when the opening of larger locks allowed for the passage of larger New Panamax ships. For the lockless Suez Canal the limiting factor for Suezmax ships is generally draft, which is limited to . At the other end of the scale, tub-boat canals such as the Bude Canal were limited to boats of under 10 tons for much of their length due to the capacity of their inclined planes or boat lifts. Most canals have a limit on height imposed either by bridges or by tunnels.
+ships in the Miraflores Locks on the Panama Canal, Panama.]] Inland canals have often had boats specifically built for them. An example of this is the British narrowboat, which is up to long and wide and was primarily built for British Midland canals. In this case the limiting factor was the size of the locks. This is also the limiting factor on the Panama canal where Panamax ships were limited to a length of and a beam of until 26 June 2016 when the opening of larger locks allowed for the passage of larger New Panamax ships. For the lockless Suez Canal the limiting factor for Suezmax ships is generally draft, which is limited to . At the other end of the scale, tub-boat canals such as the Bude Canal were limited to boats of under 10 tons for much of their length due to the capacity of their inclined planes or boat lifts. Most canals have a limit on height imposed either by bridges or by tunnels.
 
 
 Lists of canals

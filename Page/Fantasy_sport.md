@@ -90,7 +90,7 @@ Growth of the market
 
 A prior study conducted by the FSTA in 2013, showed 33.5 million people age 12 and above in the U.S. with the 2011 FSTA Study showing 3.1 million people in Canada played fantasy sports.[57] A 2006 study showed 22 percent of U.S. adult males 18 to 49 years old, with Internet access, play fantasy sports. Fantasy Sports is estimated to have a $3–$4 Billion annual economic impact across the sports industry.[58] Since 2011, yearly non-betting fantasy sports users have grown 25%.[59] And with the help of media and the growing fantasy sports market, daily fantasy sports leagues FanDuel and DraftKings were able to generate over 300 million dollars in investments from companies like Comcast, NBC Sports, and Time Warner.[60] The new development of daily fantasy sports is where major growth can be seen, "...the daily fantasy spending is where the numbers jump: $257 per year in 2015, while players only spent $5 in 2012."[61]
 
-Fantasy_Sports_User_Growth.png[62]
+[62]
 
 International growth of fantasy sports
 

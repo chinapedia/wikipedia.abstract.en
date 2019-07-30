@@ -53,7 +53,7 @@ In the year AD 381, Pope Timothy I of Alexandria presided over the second ecume
 
 Council of Ephesus
 
-CopticAltar.jpg, Jerusalem]]
+, Jerusalem]]
 
 Another theological dispute in the 5th century occurred over the teachings of Nestorius, the Patriarch of Constantinople who taught that God the Word was not hypostatically joined with human nature, but rather dwelt in the man Jesus. As a consequence of this, he denied the title "Mother of God" _(Theotokos)_ to the Virgin Mary, declaring her instead to be "Mother of Christ" _Christotokos_.
 
@@ -65,7 +65,7 @@ The Council confirmed the teachings of Saint Athanasius and confirmed the title 
 
 Council of Chalcedon
 
-StMarkCathAlex.jpg]] When in AD 451 Emperor Marcian attempted to heal divisions in the Church, the response of Pope Dioscorus – the Pope of Alexandria who was later exiled – was that the emperor should not intervene in the affairs of the Church. It was at Chalcedon that the emperor, through the Imperial delegates, enforced harsh disciplinary measures against Pope Dioscorus in response to his boldness. In AD 449, Pope Dioscorus headed the 2nd Council of Ephesus, called the "Robber Council" by Chalcedonian historians. It held to the Miaphysite formula which upheld the Christology of "One Incarnate Nature of God the Word" (Greek: μία φύσις Θεοῦ Λόγου σεσαρκωμένη (_mia physis Theou Logou sesarkōmenē_)),[12] and upheld the heretic Eutyches claiming he was orthodox.
+]] When in AD 451 Emperor Marcian attempted to heal divisions in the Church, the response of Pope Dioscorus – the Pope of Alexandria who was later exiled – was that the emperor should not intervene in the affairs of the Church. It was at Chalcedon that the emperor, through the Imperial delegates, enforced harsh disciplinary measures against Pope Dioscorus in response to his boldness. In AD 449, Pope Dioscorus headed the 2nd Council of Ephesus, called the "Robber Council" by Chalcedonian historians. It held to the Miaphysite formula which upheld the Christology of "One Incarnate Nature of God the Word" (Greek: μία φύσις Θεοῦ Λόγου σεσαρκωμένη (_mia physis Theou Logou sesarkōmenē_)),[12] and upheld the heretic Eutyches claiming he was orthodox.
 
 The Council of Chalcedon summoned Dioscorus three times to appear at the council, after which he was deposed. The Council of Chalcedon further deposed him for his support of Eutyches, but not necessarily for Eutychian Monophysitism. Dioscorus appealed to the conciliar fathers to allow for a more Miaphysite interpretation of Christology at the council, but was denied. Following his being deposed, the Coptic Church and its faithful felt unfairly underrepresented at the council and oppressed politically by the Byzantine Empire. After the Byzantines appointed Proterius of Alexandria as Patriarch to represent the Chalcedonian Church, the Coptic Church appointed their own Patriarch Timothy Aelurus and broke from the Chalcedonian communion.
 
@@ -99,7 +99,7 @@ Prior to Chalcedon, the Imperial Church's main division stemmed from Nestorianis
 
 Muslim conquest of Egypt
 
-Bischop_of_Faras.jpgn wall painting depicting a Nubian bishop and Virgin Mary (11th century)]] The Muslim invasion of Egypt took place in AD 639. Despite the political upheaval, the Egyptian population remained mainly Christian. However, gradual conversions to Islam over the centuries had changed Egypt from a Christian to a largely Muslim country by the end of the 12th century.[17] Egypt's Umayyad rulers taxed Christians at a higher rate than Muslims, driving merchants towards Islam and undermining the economic base of the Coptic Church.[18] Although the Coptic Church did not disappear, the Umayyad tax policies made it difficult for the church to retain the Egyptian elites.[19]
+n wall painting depicting a Nubian bishop and Virgin Mary (11th century)]] The Muslim invasion of Egypt took place in AD 639. Despite the political upheaval, the Egyptian population remained mainly Christian. However, gradual conversions to Islam over the centuries had changed Egypt from a Christian to a largely Muslim country by the end of the 12th century.[17] Egypt's Umayyad rulers taxed Christians at a higher rate than Muslims, driving merchants towards Islam and undermining the economic base of the Coptic Church.[18] Although the Coptic Church did not disappear, the Umayyad tax policies made it difficult for the church to retain the Egyptian elites.[19]
 
 Under Islamic rule (640–1800)
 
@@ -107,14 +107,14 @@ The Church suffered greatly under the many regimes of Islamic rule. Sometime dur
 
 From the 19th century to the 1952 revolution
 
-The position of Copts began to improve early in the 19th century under the stability and tolerance of the Muhammad Ali Dynasty. The Coptic community ceased to be regarded by the state as an administrative unit. In 1855 the jizya tax was abolished. Shortly thereafter, the Copts started to serve in the Egyptian army.[20] Coptic_monks.jpg Towards the end of the 19th century, the Coptic Church underwent phases of new development. In 1853, Pope Cyril IV established the first modern Coptic schools, including the first Egyptian school for girls. He also founded a printing press, which was only the second national press in the country. The Pope established very friendly relations with other denominations, to the extent that when the Greek Patriarch in Egypt had to absent himself from the country for a long period of time, he left his Church under the guidance of the Coptic Patriarch.[21]
+The position of Copts began to improve early in the 19th century under the stability and tolerance of the Muhammad Ali Dynasty. The Coptic community ceased to be regarded by the state as an administrative unit. In 1855 the jizya tax was abolished. Shortly thereafter, the Copts started to serve in the Egyptian army.[20] Towards the end of the 19th century, the Coptic Church underwent phases of new development. In 1853, Pope Cyril IV established the first modern Coptic schools, including the first Egyptian school for girls. He also founded a printing press, which was only the second national press in the country. The Pope established very friendly relations with other denominations, to the extent that when the Greek Patriarch in Egypt had to absent himself from the country for a long period of time, he left his Church under the guidance of the Coptic Patriarch.[21]
 
 The Theological College of the School of Alexandria was reestablished in 1893. It began its new history with five students, one of whom was later to become its dean. Today it has campuses in Alexandria and Cairo, and in various dioceses throughout Egypt, as well as outside Egypt. It has campuses in New Jersey, Los Angeles, Sydney, Melbourne, and London, where potential clergymen and other qualified men and women study many subjects, including theology, church history, missionary studies, and the Coptic language.[22]
 
 
 Present day
 
-Monastry3.jpg.]]
+.]]
 
 In 1959, the Ethiopian Orthodox Tewahedo Church was granted its first own Patriarch by Pope Cyril VI. Furthermore, the Eritrean Orthodox Tewahedo Church similarly became independent of the Ethiopian Orthodox Tewahedo Church in 1994, when four bishops were consecrated by Pope Shenouda III of Alexandria to form the basis of a local Holy Synod of the Eritrean Church. In 1998, the Eritrean Orthodox Tewahedo Church gained its autocephaly from the Coptic Orthodox Church when its first Patriarch was enthroned by Pope Shenouda III of Alexandria.
 
@@ -139,7 +139,7 @@ On 4 November 2012, Bishop Tawadros was chosen as the 118th Pope. In a ritual fi
 
 Demographics
 
-Coptic_Orthodox_pope,_Syriac_Orthodox_patriarch,_and_Armenian_Apostolic_catholicos.jpg of the Coptic Orthodox Church revived Ignatius Aphrem II Patriarch of Antioch and All East of the Syriac Orthodox Church Aram I Catholicose of Cilicia of the Armenian Apostolic Orthodox Church in Lebanon.]]
+of the Coptic Orthodox Church revived Ignatius Aphrem II Patriarch of Antioch and All East of the Syriac Orthodox Church Aram I Catholicose of Cilicia of the Armenian Apostolic Orthodox Church in Lebanon.]]
 
 There are about 30 million Coptic Orthodox Christians in the world.[27] Between 23 and 25 million of them are found in Egypt under the jurisdiction of the Coptic Orthodox Church of Alexandria.[28][29][30][31] Since Egypt does not have an official government census on religion, estimates of the size of Egypt's Christian population vary from the estimated low previous government figures of 6 to 7 million to the 12 million reported by some Christian leaders in 2008. The actual numbers may be in the 23 to 25 million range, out of an Egyptian population of more than 90 million.[32][33][34][35][36][37] However, in 2011, the Pew Research Center announced that Copts in Egypt constitute 4.5% of the population, while the Catholic Holy See puts Copts at 6 to 8%.[38] Then in 2017 government owned news Al Ahram estimated the percentage of Copts at 10 to 15%.[39] However, in 2012 after the Egyptian revolution the Muslim Brotherhood was drafting new constitution then Major-General Abu Bakr al-Guindi claimed that the lower figures support a downward trend in the percentage of Copts in Egypt, as recorded in consecutive estimated Egyptian censuses since a 1927 high where Egyptian Christians formed 8.3% of the population.[40] This decline has been explained by Major-General Abu Bakr al-Guindi, head of Egypt's Central Agency for Public Mobilization and Statistics, as being the result of Copts having the highest emigration rate, the lowest birthrate and the highest income level in the country. However, this statement and population count has been rejected by the Coptic Church.[41][42][43]
 
@@ -157,7 +157,7 @@ While Copts have cited instances of persecution throughout their history, Human 
 
 Jurisdiction outside Egypt
 
-ChristCopticArt.jpg in a Coptic icon]] Besides Egypt, the Church of Alexandria has jurisdiction over all of Africa.
+in a Coptic icon]] Besides Egypt, the Church of Alexandria has jurisdiction over all of Africa.
 
 In addition, the Ethiopian Orthodox Tewahedo Church and Eritrean Orthodox Tewahedo Church are daughter churches of the Coptic Orthodox Church of Alexandria. Both the Patriarchate of Addis Ababa and all Ethiopia and the Patriarchate of Asmara and all Eritrea acknowledge the supremacy of honor and dignity of the Pope of Alexandria on the basis that both patriarchates were established by the Throne of Alexandria and that they have their roots in the Apostolic Church of Alexandria, and acknowledge that Saint Mark the Apostle is the founder of their Churches through the heritage and Apostolic evangelization of the Fathers of Alexandria.
 
@@ -175,7 +175,7 @@ Following the independence of Eritrea from Ethiopia in 1993, the newly independe
 
 Around the world
 
-StMarkCopticOrthodoxChurchBellaireTX0.JPG]] St_Mark's_Coptic_Church_Interior,_London,_UK_-_Diliff.jpg, England.]] The Coptic Orthodox Church has a presence in many countries outside Egypt, including:
+]] , England.]] The Coptic Orthodox Church has a presence in many countries outside Egypt, including:
 
 -   Africa
 -   Asia
@@ -194,7 +194,7 @@ Official titles of the Patriarch of Alexandria
 
 Episcopal titles
 
-Chuck_Kennedy_-_The_Official_White_House_Photostream_-_P060409CK-0199_(pd).jpg, the 117th Patriarch of Alexandria on the Holy Apostolic See of Saint Mark the Evangelist (1971–2012).]]
+, the 117th Patriarch of Alexandria on the Holy Apostolic See of Saint Mark the Evangelist (1971–2012).]]
 
 -   The leader of the Coptic Orthodox Church of Alexandria is known as _Pope of Alexandria and Patriarch of all Africa on the Holy See of St. Mark the Apostle_.
 -   His full title is Patriarch and Lord Archbishop of the Great City of Alexandria on the Holy Orthodox and Apostolic Throne of Saint Mark the Evangelist and Holy Apostle that is, in Egypt, Pentapolis, Libya, Nubia, Sudan, Ethiopia, Eritrea and all Africa.
@@ -228,7 +228,7 @@ It is to be noted that only the Patriarch of Alexandria has the double title of 
 
 Administration
 
-StMarkcoptic.jpg of Saint Mark the Evangelist, the apostolic founder of the Church of Alexandria]]The Coptic Orthodox patriarchate of Alexandria is governed by its Holy Synod, which is headed by the Patriarch of Alexandria. Under his authority are the metropolitan archbishops, metropolitan bishops, diocesan bishops, patriarchal exarchs, missionary bishops, auxiliary bishops, suffragan bishops, assistant bishops, chorbishops and the patriarchal vicars for the Church of Alexandria. They are organized as follows:
+of Saint Mark the Evangelist, the apostolic founder of the Church of Alexandria]]The Coptic Orthodox patriarchate of Alexandria is governed by its Holy Synod, which is headed by the Patriarch of Alexandria. Under his authority are the metropolitan archbishops, metropolitan bishops, diocesan bishops, patriarchal exarchs, missionary bishops, auxiliary bishops, suffragan bishops, assistant bishops, chorbishops and the patriarchal vicars for the Church of Alexandria. They are organized as follows:
 
 -   16 metropolitanates, out of which 12 metropolitanates are in Egypt, one metropolitanate in the Near East, one in Europe, one in the US and one in Africa; served by two metropolitan archbishops and 14 metropolitan bishops; out of the 16 hierarchs, one metropolitan archbishop is in the Near East, one metropolitan archbishop in Egypt, while 11 metropolitan bishops are in Egypt, one metropolitan bishop in Europe, one metropolitan bishop in the US and one metropolitan bishop in Africa.
 -   67 dioceses with 41 diocesan bishops are in Egypt, 13 diocesan bishops are in Europe, 7 diocesan bishops are in North America, two diocesan bishops are in South America, two diocesan bishops are in Sudan, and finally two diocesan bishops are in Australia.

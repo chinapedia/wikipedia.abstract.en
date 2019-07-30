@@ -1,4 +1,4 @@
-EPSILON (uppercase , lowercase or lunate ; ) is the fifth letter of the Greek alphabet, corresponding phonetically to a mid front unrounded vowel . In the system of Greek numerals it also has the value five. It was derived from the Phoenician letter He Phoenician_he.svg. Letters that arose from epsilon include the Roman E, Ë and Ɛ, and Cyrillic Е, È, Ё, Є and Э.
+EPSILON (uppercase , lowercase or lunate ; ) is the fifth letter of the Greek alphabet, corresponding phonetically to a mid front unrounded vowel . In the system of Greek numerals it also has the value five. It was derived from the Phoenician letter He . Letters that arose from epsilon include the Roman E, Ë and Ɛ, and Cyrillic Е, È, Ё, Є and Э.
 
 The name of the letter was originally (), but the name was changed to (_e psilon_ "simple e") in the Middle Ages to distinguish the letter from the digraph , a former diphthong that had come to be pronounced the same as epsilon.
 
@@ -13,7 +13,7 @@ History
 
 Origin
 
-The letter Ε was taken over from the Phoenician letter He (inline) when Greeks first adopted alphabetic writing. In archaic Greek writing, its shape is often still identical to that of the Phoenician letter. Like other Greek letters, it could face either leftward or rightward (inlineinline), depending on the current writing direction, but, just as in Phoenician, the horizontal bars always faced in the direction of writing. Archaic writing often preserves the Phoenician form with a vertical stem extending slightly below the lowest horizontal bar. In the classical era, through the influence of more cursive writing styles, the shape was simplified to the current E glyph.[5]
+The letter Ε was taken over from the Phoenician letter He () when Greeks first adopted alphabetic writing. In archaic Greek writing, its shape is often still identical to that of the Phoenician letter. Like other Greek letters, it could face either leftward or rightward (), depending on the current writing direction, but, just as in Phoenician, the horizontal bars always faced in the direction of writing. Archaic writing often preserves the Phoenician form with a vertical stem extending slightly below the lowest horizontal bar. In the classical era, through the influence of more cursive writing styles, the shape was simplified to the current E glyph.[5]
 
 Sound value
 
@@ -23,19 +23,19 @@ Epichoric alphabets
 
 Some dialects used yet other ways of distinguishing between various e-like sounds.
 
-In Corinth, the normal function of Ε to denote and was taken by a glyph resembling a pointed B (inline), while Ε was used only for long close .[7] The letter Beta, in turn, took the deviant shape inline.
+In Corinth, the normal function of Ε to denote and was taken by a glyph resembling a pointed B (), while Ε was used only for long close .[7] The letter Beta, in turn, took the deviant shape .
 
-In Sicyon, a variant glyph resembling an X (inline) was used in the same function as Corinthian inline.[8]
+In Sicyon, a variant glyph resembling an X () was used in the same function as Corinthian .[8]
 
-In Thespiai (Boeotia), a special letter form consisting of a vertical stem with a single rightward-pointing horizontal bar (inline) was used for what was probably a raised variant of in pre-vocalic environments.[9][10] This tack glyph was used elsewhere also as a form of "Heta", i.e. for the sound .
+In Thespiai (Boeotia), a special letter form consisting of a vertical stem with a single rightward-pointing horizontal bar () was used for what was probably a raised variant of in pre-vocalic environments.[9][10] This tack glyph was used elsewhere also as a form of "Heta", i.e. for the sound .
 
 Glyph variants
 
-After the establishment of the canonical classical Ionian (Eucleidean) Greek alphabet, new glyph variants for Ε were introduced through handwriting. In the uncial script (used for literary papyrus manuscripts in late antiquity and then in early medieval vellum codices), the "lunate" shape (inline) became predominant. In cursive handwriting, a large number of shorthand glyphs came to be used, where the cross-bar and the curved stroke were linked in various ways.[11] Some of them resembled a modern lowercase Latin "e", some a "6" with a connecting stroke to the next letter starting from the middle, and some a combination of two small "c"-like curves. Several of these shapes were later taken over into minuscule book hand. Of the various minuscule letter shapes, the inverted-3 form became the basis for lower-case Epsilon in Greek typography during the modern era.
+After the establishment of the canonical classical Ionian (Eucleidean) Greek alphabet, new glyph variants for Ε were introduced through handwriting. In the uncial script (used for literary papyrus manuscripts in late antiquity and then in early medieval vellum codices), the "lunate" shape () became predominant. In cursive handwriting, a large number of shorthand glyphs came to be used, where the cross-bar and the curved stroke were linked in various ways.[11] Some of them resembled a modern lowercase Latin "e", some a "6" with a connecting stroke to the next letter starting from the middle, and some a combination of two small "c"-like curves. Several of these shapes were later taken over into minuscule book hand. Of the various minuscule letter shapes, the inverted-3 form became the basis for lower-case Epsilon in Greek typography during the modern era.
 
   Uncial   Uncial variants   Cursive variants   Minuscule   Minuscule with ligatures
   -------- ----------------- ------------------ ----------- --------------------------
-  inline   inline            inline             inline      inline
+
 
 
 Uses

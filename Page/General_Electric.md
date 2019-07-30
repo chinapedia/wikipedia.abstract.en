@@ -7,7 +7,7 @@ History
 
 Formation
 
-General_Electric_Shops,_Schenectady,_NY,_aerial_view,_1896.jpg General_Electric_Shops,_Schenectady,_NY,_1896.jpg "Modern Machine-Shop Economics. Part II" in _Engineering Magazine_ 11. 1896]] 570_Lexington_Avenue_(General_Electric_Building)_001.jpg at 570 Lexington Avenue, New York]] During 1889, Thomas Edison had business interests in many electricity-related companies including _Edison Lamp Company_, a lamp manufacturer in East Newark, New Jersey; _Edison Machine Works_, a manufacturer of dynamos and large electric motors in Schenectady, New York; _Bergmann & Company_, a manufacturer of electric lighting fixtures, sockets, and other electric lighting devices; and _Edison Electric Light Company_, the patent-holding company and the financial arm backed by J.P. Morgan and the Vanderbilt family for Edison's lighting experiments.[8]
+"Modern Machine-Shop Economics. Part II" in _Engineering Magazine_ 11. 1896]] at 570 Lexington Avenue, New York]] During 1889, Thomas Edison had business interests in many electricity-related companies including _Edison Lamp Company_, a lamp manufacturer in East Newark, New Jersey; _Edison Machine Works_, a manufacturer of dynamos and large electric motors in Schenectady, New York; _Bergmann & Company_, a manufacturer of electric lighting fixtures, sockets, and other electric lighting devices; and _Edison Electric Light Company_, the patent-holding company and the financial arm backed by J.P. Morgan and the Vanderbilt family for Edison's lighting experiments.[8]
 
 In 1889, Drexel, Morgan & Co., a company founded by J.P. Morgan and Anthony J. Drexel, financed Edison's research and helped merge those companies under one corporation to form _Edison General Electric Company_, which was incorporated in New York on April 24, 1889. The new company also acquired Sprague Electric Railway & Motor Company in the same year.[9][10]
 
@@ -17,7 +17,7 @@ Public company
 
 In 1896, General Electric was one of the original 12 companies listed on the newly formed Dow Jones Industrial Average,[15] where it remained a part of the index for 122 years, though not continuously.[16]
 
-Carmen_Miranda_by_General_Electric_(1945).jpg in a 1945 advertisement for a General Electric FM radio in _The Saturday Evening Post_]]
+in a 1945 advertisement for a General Electric FM radio in _The Saturday Evening Post_]]
 
 In 1911, General Electric absorbed the National Electric Lamp Association (NELA) into its lighting business. GE established its lighting division headquarters at Nela Park in East Cleveland, Ohio. The lighting division has since remained in the same location.[17]
 
@@ -51,7 +51,7 @@ GE got into computer manufacturing because in the 1950s they were the largest us
 
 In 2000 when United Technologies Corp. planned to buy Honeywell, GE made a counter-offer that was approved by Honeywell.[39] On July 3, 2001, the European Union issued a statement that "prohibit the proposed acquisition by General Electric Co. of Honeywell Inc.".[40] The reasons given were it "would create or strengthen dominant positions on several markets and that the remedies proposed by GE were insufficient to resolve the competition concerns resulting from the proposed acquisition of Honeywell."[41]
 
-On June 27, 2014, GE partnered with collaborative design company Quirky to announce its connected LED bulb called Link. The Link bulb is designed to communicate with smartphones and tablets using a mobile app called Wink.[42] GE,_Global_Operations_Center_-_Cincinnati.jpg, Ohio]]
+On June 27, 2014, GE partnered with collaborative design company Quirky to announce its connected LED bulb called Link. The Link bulb is designed to communicate with smartphones and tablets using a mobile app called Wink.[42] , Ohio]]
 
 Acquisitions and divestments
 
@@ -152,7 +152,7 @@ In July 2010, General Electric was willing to pay $23.4 million to settle a SEC 
 
 Corporate affairs
 
-GeneralElectricSign.jpg ]]
+]]
 
 In 1959, General Electric was accused of promoting the largest illegal cartel in the United States since the adoption of the Sherman Antitrust Act. (1890) in order to maintain artificially high prices. In total, 29 companies and 45 executives will be convicted. Subsequent parliamentary inquiries revealed that "white-collar crime" was by far the most costly form of crime for the United States' finances.[110]
 
@@ -243,7 +243,7 @@ The former GE Appliances and Lighting segment was dissolved in 2014 when GE's ap
 
 Through these businesses, GE participates in markets that include the generation, transmission and distribution of electricity (e.g. nuclear, gas and solar), lighting, industrial automation, medical imaging equipment, motors, railway locomotives, aircraft jet engines, and aviation services. Through GE Commercial Finance, GE Consumer Finance, GE Equipment Services, and GE Insurance it offers a range of financial services. It has a presence in over 100 countries.[139]
 
-LocomotiveGaugesSRM.jpg at a museum near Saskatoon, Canada[140]]]
+at a museum near Saskatoon, Canada[140]]]
 
 General Imaging manufacturers GE digital cameras.[141]
 
@@ -278,7 +278,7 @@ From until 1977, GE polluted the Housatonic River with PCB discharges from its p
 
 Environmental initiatives
 
-GE_Schenectady.JPG]] EVChargingMarkham.jpg On June 6, 2011, GE announced that it has licensed solar thermal technology from California-based eSolar for use in power plants that use both solar and natural gas.[171]
+]] On June 6, 2011, GE announced that it has licensed solar thermal technology from California-based eSolar for use in power plants that use both solar and natural gas.[171]
 
 On May 26, 2011, GE unveiled its EV Solar Carport, a carport that incorporates solar panels on its roof, with electric vehicle charging stations under its cover.[172]
 

@@ -20,7 +20,7 @@ The minority of scholars who believe Paul wrote _Titus_ date its composition fro
 
 -   Note: Sources that say Nicopolis was in Epirus are technically correct, but Epirus had become part of Macedonia (Roman province) in 146 BCE. In 110 CE under Trajan it became a province in its own right, separate from Macedonia and Achaia. The expression "Nicopolis of Macedonia" in Paul's timeframe is valid. from which place he wrote to Titus, about 66 or 67.
 
-Minuscule_699_GA_folio_41v.jpg gives its title as _'προς τιτον_, "To Titus."]]
+gives its title as _'προς τιτον_, "To Titus."]]
 
 Recent scholarship has revived the theory that Paul used an amanuensis, or secretaries, in writing his letters (e.g. Rom 16:22), but possibly Luke for the pastorals[9][10] This was a common practice in ancient letter writing, even for the biblical writers.[11][12]
 

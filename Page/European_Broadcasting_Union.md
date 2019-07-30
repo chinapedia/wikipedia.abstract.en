@@ -3,7 +3,7 @@ The EUROPEAN BROADCASTING UNION (EBU; ; ) is an alliance of public service media
 
 General description
 
-Eurovision_old_logo.svg.]] Debate_of_lead_candidates_for_the_European_Commission_presidency_(40894703423).jpg'' (May 2019). Left to right: Zahradil, Cué, Keller, Vestager, Timmermans, Weber]] EBU Members are Public Service Media (PSM) broadcasters whose output is made, financed and controlled by the public, for the public. PSM broadcasters are often established by law but are non-partisan, independent and run for the benefit of society as a whole.
+.]] '' (May 2019). Left to right: Zahradil, Cué, Keller, Vestager, Timmermans, Weber]] EBU Members are Public Service Media (PSM) broadcasters whose output is made, financed and controlled by the public, for the public. PSM broadcasters are often established by law but are non-partisan, independent and run for the benefit of society as a whole.
 
 EBU Members come from as far north as Iceland and as far south as Egypt, from Ireland in the west and Azerbaijan in the east, and almost every nation from geographical Europe in between. Associate Members are from countries and territories beyond Europe, such as Canada, Japan, Mexico, India and Hong Kong. Associate Members from the United States include ABC, CBS, NBC, CPB, NPR, APM and the only individual station, Chicago-based classical music radio WFMT.
 
@@ -29,7 +29,7 @@ The theme music played before EBU broadcasts are Marc-Antoine Charpentier's _Pre
 
 History
 
-EBU_logo.svg The_New_Years_Eve_Concert_2013_at_The_Wiener_Musikverein_(8336464777).jpg.]] The EBU was a successor to the International Broadcasting Union (IBU) that was founded in 1925 and had its administrative headquarters in Geneva and technical office in Brussels. It fostered programming exchanges between members and mediated technical disputes between members that were mostly concerned with frequency and interference issues. It was in effect taken over by Nazi Germany during the Second World War and when the conflict ended in the eyes of the Allies it was a compromised organisation that they could not trust.
+.]] The EBU was a successor to the International Broadcasting Union (IBU) that was founded in 1925 and had its administrative headquarters in Geneva and technical office in Brussels. It fostered programming exchanges between members and mediated technical disputes between members that were mostly concerned with frequency and interference issues. It was in effect taken over by Nazi Germany during the Second World War and when the conflict ended in the eyes of the Allies it was a compromised organisation that they could not trust.
 
 In the spring of 1946, representatives of the Soviet radio committee proposed forming a new organisation; however, at the same time preparations were being made for an inter-governmental “European Broadcasting Conference” (EBC) in Copenhagen in 1948 to draw up a new plan for frequency use in the European Broadcasting Area (EBA). It was considered necessary to have an organisation that could implement the “Copenhagen Wavelength Plan” but there was disagreement among broadcasters and particularly a fear expressed by the BBC that a new association might be dominated by the USSR and its proposal to give each of its constituent states one vote. France proposed that it would have four votes with the inclusion of its North African colonies. Great Britain felt it would have little influence with just one vote.
 
@@ -74,8 +74,6 @@ Starting on 4 May 2014, the New Hellenic Radio, Internet and Television broadcas
 
 
 Members
-
-EBU_enlargement_animation.gif
 
 The Member list as of January 2019, comprises the following 73 broadcasting companies from 56 countries.[16]
 
@@ -354,7 +352,7 @@ Past members
 
 Associate Members
 
-EBU_Associate_Members.svg Any group or organisation from an International Telecommunication Union (ITU) member country, which provide a radio or television service outside of the European Broadcasting Area, are permitted to submit applications to the EBU for Associate Membership. Countries which have this status also pay an annual fee to maintain this status. It was also noted by the EBU that any country that is granted Associate Member status does not include any access into the Eurovision events (with the exceptions of Australia, who have participated in the Eurovision Song Contest and the Junior Eurovision Song Contest since 2015, Canada in Eurovision Young Dancers between 1987 and 1989 and Kazakhstan, who will participate in Junior Eurovision in 2018).[17]
+Any group or organisation from an International Telecommunication Union (ITU) member country, which provide a radio or television service outside of the European Broadcasting Area, are permitted to submit applications to the EBU for Associate Membership. Countries which have this status also pay an annual fee to maintain this status. It was also noted by the EBU that any country that is granted Associate Member status does not include any access into the Eurovision events (with the exceptions of Australia, who have participated in the Eurovision Song Contest and the Junior Eurovision Song Contest since 2015, Canada in Eurovision Young Dancers between 1987 and 1989 and Kazakhstan, who will participate in Junior Eurovision in 2018).[17]
 
 The list of Associate Members of EBU comprised the following 34 broadcasting companies from 21 countries as of January 2018.[18]
 

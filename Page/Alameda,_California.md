@@ -35,7 +35,7 @@ The vast majority of the Neptune Beach structures – the hand-carved carousel 
 
 Transportation
 
-Oakland_1917.jpg Alameda_1937.jpg When the railroad came to town in the 1860s, Park Street developed as the major thoroughfare of the city. After the main Alameda train station was located here, residents of Old Alameda pulled up stakes and moved across town to the new downtown. The street's location was chosen by two landowners who wished to attract tenants and development to their land. They designated their mutual property line as Park Street.
+When the railroad came to town in the 1860s, Park Street developed as the major thoroughfare of the city. After the main Alameda train station was located here, residents of Old Alameda pulled up stakes and moved across town to the new downtown. The street's location was chosen by two landowners who wished to attract tenants and development to their land. They designated their mutual property line as Park Street.
 
 The need for expanded shipping facilities and increased flow of current through the estuary led to the dredging of a tidal canal through the marshland between Oakland and Alameda. Construction started in 1874, but it was not completed until 1902, resulting in Alameda becoming an island.[18]
 
@@ -57,8 +57,6 @@ On February 7, 1973, a USN Vought A-7E Corsair II fighter jet on a routine train
 
 
 Geography
-
-Oakland_and_Alameda.jpg
 
 According to the United States Census Bureau, the city has a total area of , of which is land and (53.79%) is water.
 
@@ -162,7 +160,7 @@ Alameda has also featured prominently on automotive blog Jalopnik, with their "D
 
 Attractions
 
-Vichouse.jpgDue to its proximity to the Bay, wind surfers and kite surfers can often be seen at Robert W. Crown Memorial State Beach. From the beach there are also views of the San Francisco skyline and the San Francisco–Oakland Bay Bridge.
+Due to its proximity to the Bay, wind surfers and kite surfers can often be seen at Robert W. Crown Memorial State Beach. From the beach there are also views of the San Francisco skyline and the San Francisco–Oakland Bay Bridge.
 
 The aircraft carrier _USS Hornet_, a museum ship, has been moored at the former Naval Air Station as the USS _Hornet_ Museum since 1998. This ship was originally named the _USS Kearsarge_, but was renamed in honor of the previous _Hornet_ (CV-8) (famous for the Doolittle raid), which was lost in October 1942.
 
@@ -203,7 +201,7 @@ Alameda Island Brewing is located on Park Street.
 
 Movie theaters
 
-Alameda_Theater.jpg in 2006 prior to expansion and restoration]] The city restored the historic Art Deco city landmark Alameda Theatre, expanding it to include a theater multiplex. The public opening was May 21, 2008.
+in 2006 prior to expansion and restoration]] The city restored the historic Art Deco city landmark Alameda Theatre, expanding it to include a theater multiplex. The public opening was May 21, 2008.
 
 The South Shore Mall Twin Cinema opened in 1969 and served as a prominent theater on the island until its closure in 1998. In 2002, the building was demolished and its former site is now a parking lot.
 

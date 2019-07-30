@@ -40,13 +40,13 @@ Because there is no permanent population, there is no elected assembly, nor does
 
 Geography
 
-TAAF-CIA_WFB_Map.png (in Antarctica) and Banc du Geyser and Bassas da India (in the Îles Éparses district) are not shown.}}]] Pringlea_antiscorbutica_Mayes_fake.jpg.]]
+(in Antarctica) and Banc du Geyser and Bassas da India (in the Îles Éparses district) are not shown.}}]] .]]
 
 The territory includes Amsterdam Island, Saint-Paul Island, Crozet Islands, and the Kerguelen Islands in the southern Indian Ocean near 43°S, 67°E, along with Adélie Land, the sector of Antarctica claimed by France, named by the French explorer Jules Dumont d'Urville after his wife.
 
 Adélie Land (about ) and the islands, totaling , have no indigenous inhabitants, though in 1997 there were about 100 researchers whose numbers varied from winter (July) to summer (January).
 
-Amsterdam Island and Saint-Paul Island are extinct volcanoes and have been delineated as the Amsterdam and Saint-Paul Islands temperate grasslands ecoregion. The highest point in the territory is Mont Ross on Kerguelen Island at . There are very few airstrips on the islands, only existing on islands with weather stations, and the of coastline have no ports or harbors, only offshore anchorages. Kerguelen_VolcanDuDiable.jpg – The Volcan du Diable.]]
+Amsterdam Island and Saint-Paul Island are extinct volcanoes and have been delineated as the Amsterdam and Saint-Paul Islands temperate grasslands ecoregion. The highest point in the territory is Mont Ross on Kerguelen Island at . There are very few airstrips on the islands, only existing on islands with weather stations, and the of coastline have no ports or harbors, only offshore anchorages. – The Volcan du Diable.]]
 
 The islands in the Indian Ocean are supplied by the special ship _Marion Dufresne_ sailing out of Le Port in Réunion Island. Terre Adélie is supplied by _Astrolabe_ sailing out of Hobart in Tasmania.
 

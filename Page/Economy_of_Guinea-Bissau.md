@@ -7,7 +7,7 @@ Economic history
 
 Early colonialism
 
-Portugueseguineacompanyflag.svg, a Portuguese company that traded in several commodities and slaves around the Guinea coast from the 15th century.]] From a European viewpoint, the economic history of the Guinea Coast is largely associated with slavery. Indeed, one of the alternative names for the region was the Slave Coast. When the Portuguese first sailed down the Atlantic coast of Africa in the 1430s, they were interested in gold. Ever since Mansa Musa, king of the Mali Empire, made his pilgrimage to Mecca in 1325, with 500 slaves and 100 camels (each carrying gold) the region had become synonymous with such wealth. The trade from sub-Saharan Africa was controlled by the Islamic Empire which stretched along Africa's northern coast. Muslim trade routes across the Sahara, which had existed for centuries, involved salt, kola, textiles, fish, grain and slaves.[1]
+, a Portuguese company that traded in several commodities and slaves around the Guinea coast from the 15th century.]] From a European viewpoint, the economic history of the Guinea Coast is largely associated with slavery. Indeed, one of the alternative names for the region was the Slave Coast. When the Portuguese first sailed down the Atlantic coast of Africa in the 1430s, they were interested in gold. Ever since Mansa Musa, king of the Mali Empire, made his pilgrimage to Mecca in 1325, with 500 slaves and 100 camels (each carrying gold) the region had become synonymous with such wealth. The trade from sub-Saharan Africa was controlled by the Islamic Empire which stretched along Africa's northern coast. Muslim trade routes across the Sahara, which had existed for centuries, involved salt, kola, textiles, fish, grain and slaves.[1]
 
 As the Portuguese extended their influence around the coast, Mauritania, Senegambia (by 1445) and Guinea, they created trading posts. Rather than becoming direct competitors to the Muslim merchants, the expanding market opportunities in Europe and the Mediterranean resulted in increased trade across the Sahara.[2] In addition, the Portuguese merchants gained access to the interior via the Sénégal and Gambia rivers which bisected long-standing trans-Saharan routes.[3]
 
@@ -52,7 +52,7 @@ Present day
 
 Macro-economic trend
 
-Guinea-Bissau_Export_Treemap.jpg Following the April 2012 coup d'État growth plunged to reach -1.5% of GDP. In 2013, the country's GDP grew only by 0.9%. This low growth level during a period of democratic transition is explained by a combination of low administrative efficiency, low investments on account of the political instability and a bad cashew export season.[8] Key macroeconomic indicators estimated by the African Development Bank are presented in the chart below:
+Following the April 2012 coup d'État growth plunged to reach -1.5% of GDP. In 2013, the country's GDP grew only by 0.9%. This low growth level during a period of democratic transition is explained by a combination of low administrative efficiency, low investments on account of the political instability and a bad cashew export season.[8] Key macroeconomic indicators estimated by the African Development Bank are presented in the chart below:
 
   Real GDP growth                 2013   2014 (estimate)   2015 (projection)   2016 (projection)
   ------------------------------- ------ ----------------- ------------------- -------------------

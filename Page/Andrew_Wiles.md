@@ -30,7 +30,7 @@ In August 1993, it was discovered that the proof contained a flaw in one area. W
 
 Awards and honours
 
-Wiles_vor_Sockel.JPG in Beaumont-de-Lomagne, Fermat's birthplace in southern France]] Wiles's proof of Fermat's Last Theorem has stood up to the scrutiny of the world's other mathematical experts. Wiles was interviewed for an episode of the BBC documentary series _Horizon_[23] that focused on Fermat's Last Theorem. This was renamed "The Proof", and it was made an episode of the US Public Broadcasting Service's science television series _Nova_.[24] His work and life are also described in great detail in Simon Singh's popular book _Fermat's Last Theorem_.
+in Beaumont-de-Lomagne, Fermat's birthplace in southern France]] Wiles's proof of Fermat's Last Theorem has stood up to the scrutiny of the world's other mathematical experts. Wiles was interviewed for an episode of the BBC documentary series _Horizon_[23] that focused on Fermat's Last Theorem. This was renamed "The Proof", and it was made an episode of the US Public Broadcasting Service's science television series _Nova_.[24] His work and life are also described in great detail in Simon Singh's popular book _Fermat's Last Theorem_.
 
 Wiles has been awarded a number of major prizes in mathematics and science:
 

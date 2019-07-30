@@ -1,5 +1,3 @@
-GeometricSquares.svg
-
 In mathematics, a GEOMETRIC SERIES is a series with a constant ratio between successive terms. For example, the series
 
 $$\frac{1}{2} \,+\, \frac{1}{4} \,+\, \frac{1}{8} \,+\, \frac{1}{16} \,+\, \cdots$$
@@ -11,7 +9,7 @@ Geometric series are among the simplest examples of infinite series with finite 
 
 Common ratio
 
-Geometric_Segment.svg Geometrische_reihe.svg The terms of a geometric series form a geometric progression, meaning that the ratio of successive terms in the series is constant. This relationship allows for the representation of a geometric series using only two terms, _r_ and _a_. The term _r_ is the common ratio, and _a_ is the first term of the series. As an example the geometric series given in the introduction,
+The terms of a geometric series form a geometric progression, meaning that the ratio of successive terms in the series is constant. This relationship allows for the representation of a geometric series using only two terms, _r_ and _a_. The term _r_ is the common ratio, and _a_ is the first term of the series. As an example the geometric series given in the introduction,
 
     $\frac{1}{2} \,+\, \frac{1}{4} \,+\, \frac{1}{8} \,+\, \frac{1}{16} \,+\, \cdots$
 
@@ -45,7 +43,7 @@ The sum of a geometric series is finite as long as the absolute value of the rat
 
 Example
 
-Infinite_geometric_series_sum.svg Consider the sum of the following geometric series:
+Consider the sum of the following geometric series:
 
 $$s \;=\; 1 \,+\, \frac{2}{3} \,+\, \frac{4}{9} \,+\, \frac{8}{27} \,+\, \cdots .$$
 This series has common ratio 2/3. If we multiply through by this common ratio, then the initial 1 becomes a 2/3, the 2/3 becomes a 4/9, and so on:
@@ -143,7 +141,7 @@ That is, a repeating decimal with repeat length is equal to the quotient of the 
 
 Archimedes' quadrature of the parabola
 
-Parabolic_Segment_Dissection.svg Archimedes used the sum of a geometric series to compute the area enclosed by a parabola and a straight line. His method was to dissect the area into an infinite number of triangles.
+Archimedes used the sum of a geometric series to compute the area enclosed by a parabola and a straight line. His method was to dissect the area into an infinite number of triangles.
 
 Archimedes' Theorem states that the total area under the parabola is 4/3 of the area of the blue triangle.
 
@@ -169,7 +167,7 @@ This computation uses the method of exhaustion, an early version of integration.
 
 Fractal geometry
 
-Koch_Snowflake_Triangles.png is a union of infinitely many triangles.]] In the study of fractals, geometric series often arise as the perimeter, area, or volume of a self-similar figure.
+is a union of infinitely many triangles.]] In the study of fractals, geometric series often arise as the perimeter, area, or volume of a self-similar figure.
 
 For example, the area inside the Koch snowflake can be described as the union of infinitely many equilateral triangles (see figure). Each side of the green triangle is exactly 1/3 the size of a side of the large blue triangle, and therefore has exactly 1/9 the area. Similarly, each yellow triangle has 1/9 the area of a green triangle, and so forth. Taking the blue triangle as a unit of area, the total area of the snowflake is
 

@@ -3,11 +3,7 @@ Guinea-Bissau was dominated by Portugal from the 1450s to the 1970s; since indep
 
 Portuguese Rule
 
-Guiné_portuguesa.PNG
-
 Struggle for independence
-
-Portugal_Colonial_War_1970.jpg Stamps_of_Germany_(DDR)_1978,_MiNr_2293.jpg
 
 Amílcar Cabral was assassinated in Conakry in 1973, and party leadership fell to Aristides Pereira, who later became the first president of the Republic of Cape Verde. The PAIGC National Assembly met at Boe in the southeastern region and declared the independence of Guinea-Bissau on 24 September 1973 and was recognized by a 93-7 UN General Assembly vote in November.[1]
 

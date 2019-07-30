@@ -22,7 +22,7 @@ The personal relationships and Andersson and Ulvaeus' songwriting collaboration 
 
 ABBA (1972–1982)
 
-Benny_Andersson_at_The_Eddy_Go_Round_Show_1975.png The group's breakthrough came with winning the Eurovision Song Contest for Sweden with "Waterloo" on 6 April 1974. During the next eight years, Andersson (together with Ulvaeus) wrote music for and produced eight studio albums with ABBA. The group achieved great success globally and scored a chain of No. 1 hits.
+The group's breakthrough came with winning the Eurovision Song Contest for Sweden with "Waterloo" on 6 April 1974. During the next eight years, Andersson (together with Ulvaeus) wrote music for and produced eight studio albums with ABBA. The group achieved great success globally and scored a chain of No. 1 hits.
 
 After ABBA: _Chess_, _Kristina_ and _Mamma Mia!_ (1983–present)
 
@@ -48,7 +48,7 @@ A film version of _Mamma Mia!_ premiered on 18 July 2008. In April/May 2007, And
 
 Benny Anderssons Orkester (2001–present)
 
-Benny_Andersson_Orkester.jpg Andersson currently performs with his own band of 16 musicians, Benny Anderssons Orkester ("Benny Andersson's orchestra", BAO), with fellow Swedes Helen Sjöholm (of _Kristina from Duvemåla_) and Tommy Körberg (of _Chess_), with lyrics to new material sometimes written by Björn Ulvaeus. BAO has released five albums to huge success in Sweden, all containing hit singles.
+Andersson currently performs with his own band of 16 musicians, Benny Anderssons Orkester ("Benny Andersson's orchestra", BAO), with fellow Swedes Helen Sjöholm (of _Kristina from Duvemåla_) and Tommy Körberg (of _Chess_), with lyrics to new material sometimes written by Björn Ulvaeus. BAO has released five albums to huge success in Sweden, all containing hit singles.
 
 BAO recently achieved a new record in Sweden on the Svensktoppen chart by staying there for 243 weeks with the song "_Du är min man_" ("You Are My Man"), sung by Sjöholm.[1]
 
@@ -92,7 +92,7 @@ Andersson won the Swedish "Guldbaggen" award in 2012 as composer of the music fo
 
 Personal life
 
-Frida_Lyngstad_and_Benny_Andersson_1976b.jpg Andersson was engaged to Christina Grönvall. In 1963, they had a son, Peter Grönvall, and in 1965, a daughter, Heléne. They split in 1966 and Christina kept custody of the children as Andersson was then at the peak of his Hep Stars' success. In the 1990s, Peter formed One More Time, a group that enjoyed European success with the ABBA-like "Highland" and, later, as Sweden's entry to the Eurovision Song Contest 1996.
+Andersson was engaged to Christina Grönvall. In 1963, they had a son, Peter Grönvall, and in 1965, a daughter, Heléne. They split in 1966 and Christina kept custody of the children as Andersson was then at the peak of his Hep Stars' success. In the 1990s, Peter formed One More Time, a group that enjoyed European success with the ABBA-like "Highland" and, later, as Sweden's entry to the Eurovision Song Contest 1996.
 
 Andersson was engaged to Anni-Frid Lyngstad of ABBA for about nine years and they married on 6 October 1978, but separated on 26 November 1980 and divorced in 1981.
 

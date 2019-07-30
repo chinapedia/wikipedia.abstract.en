@@ -1,4 +1,4 @@
-Clade-grade_II.svg (family tree) of a biological group, showing the last common ancestor of the composite tree, which is the vertical line 'trunk' (stem) at the bottom, with all descendant branches shown above. The blue and red subgroups (at left and right) are clades, or monophyletic (complete) groups; each shows its common ancestor 'stem' at the bottom of the subgroup 'branch'. The green subgroup is _not_ a clade; it is a paraphyletic group, which is an _incomplete_ clade here because it excludes the blue branch even though it has also descended from the common ancestor stem at the bottom of the green branch. The green subgroup together with the blue one forms a clade again.]]
+(family tree) of a biological group, showing the last common ancestor of the composite tree, which is the vertical line 'trunk' (stem) at the bottom, with all descendant branches shown above. The blue and red subgroups (at left and right) are clades, or monophyletic (complete) groups; each shows its common ancestor 'stem' at the bottom of the subgroup 'branch'. The green subgroup is _not_ a clade; it is a paraphyletic group, which is an _incomplete_ clade here because it excludes the blue branch even though it has also descended from the common ancestor stem at the bottom of the green branch. The green subgroup together with the blue one forms a clade again.]]
 
 A CLADE (from , _klados_, "branch"), also known as monophyletic group, is a group of organisms that consists of a common ancestor and all its lineal descendants, and represents a single "branch" on the "tree of life".[1] Rather than English, the equivalent Latin term _cladus_ (plural _cladi_) is often used in taxonomical literature.
 
@@ -16,7 +16,7 @@ Many commonly named groups, rodents and insects for example, are clades because,
 
 History of nomenclature and taxonomy
 
-Haeckel_arbol_bn.png, 1866. Groups once thought to be more advanced, such as birds ("Aves"), are placed at the top.]]
+, 1866. Groups once thought to be more advanced, such as birds ("Aves"), are placed at the top.]]
 
 The idea of a clade did not exist in pre-Darwinian Linnaean taxonomy, which was based by necessity only on internal or external morphological similarities between organisms – although as it happens, many of the better known animal groups in Linnaeus' original Systema Naturae (notably among the vertebrate groups) do represent clades. The phenomenon of convergent evolution is, however, responsible for many cases where there are misleading similarities in the morphology of groups that evolved from different lineages.
 
@@ -29,7 +29,7 @@ Taxonomists have increasingly worked to make the taxonomic system reflect evolut
 
 Definitions
 
-Cladogram_Crocodilia_NL.PNG tree of crocodylians.]]
+tree of crocodylians.]]
 
 A clade is by definition monophyletic, meaning that it contains one ancestor (which can be an organism, a population, or a species) and all its descendants.[12][13][14] The ancestor can be known or unknown; any and all members of a clade can be extant or extinct.
 
@@ -42,8 +42,6 @@ Three methods of defining clades are featured in phylogenetic nomenclature: node
 
 
 Terminology
-
-Primate_cladogram.svg
 
 The relationship between clades can be described in several ways:
 

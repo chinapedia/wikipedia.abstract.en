@@ -1,4 +1,4 @@
-Epigraph}} Quodlibets_Epigrams.JPG's 1628 book _Quodlibets_ devotes much of its text to epigrams.]] An EPIGRAM is a brief, interesting, memorable, and sometimes surprising or satirical statement. The word is derived from the _epigramma_ "inscription" from ἐπιγράφειν _epigraphein_ "to write on, to inscribe",[1] and the literary device has been employed for over two millennia.
+Epigraph}} 's 1628 book _Quodlibets_ devotes much of its text to epigrams.]] An EPIGRAM is a brief, interesting, memorable, and sometimes surprising or satirical statement. The word is derived from the _epigramma_ "inscription" from ἐπιγράφειν _epigraphein_ "to write on, to inscribe",[1] and the literary device has been employed for over two millennia.
 
 The presence of wit or sarcasm tends to distinguish non-poetic epigrams from aphorisms and adages, which tend to lack those qualities.
 

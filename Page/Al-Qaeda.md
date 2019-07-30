@@ -19,7 +19,7 @@ This view mirrors the account given by Osama bin Laden in his October 2001 inter
 
 Bruce Hoffman, however, sees al-Qaeda as a cohesive network that is strongly led from the Pakistani tribal areas.[21]
 
-Al-Qaida_crée_une_brigade_dirigée_par_des_Touaregs_(8246938011).jpg armed with a Type 56 assault rifle, 2012]]
+armed with a Type 56 assault rifle, 2012]]
 
 Al-Qaeda has the following direct affiliates:
 
@@ -63,8 +63,6 @@ Leadership
 
 Osama bin Laden (1988 – May 2011)
 
-Hamid_Mir_interviewing_Osama_bin_Laden_and_Ayman_al-Zawahiri_2001.jpg
-
 Osama bin Laden was the Senior Operations Chief of al-Qaeda prior to his assassination by US forces on May 1, 2011. Atiyah Abd al-Rahman was alleged to be second in command prior to his death on August 22, 2011.[26]
 
 Bin Laden was advised by a Shura Council, which consists of senior al-Qaeda members. The group was estimated to consist of 20–30 people. One such member is thought to have been Sayed Tayib al-Madani.
@@ -101,7 +99,7 @@ During the 2001 trial, the US Department of Justice needed to show that bin Lade
 
 Field operatives
 
-Hamid_Mir_interviewing_Osama_bin_Laden.jpg interviewing Osama bin Laden in Afghanistan, 1997.]]
+interviewing Osama bin Laden in Afghanistan, 1997.]]
 
 The number of individuals in the group who have undergone proper military training, and are capable of commanding insurgent forces, is largely unknown. Documents captured in the raid on bin Laden's compound in 2011 show that the core al-Qaeda membership in 2002 was 170.[41] In 2006, it was estimated that al-Qaeda had several thousand commanders embedded in 40 different countries.[42] , it was believed that no more than 200–300 members were still active commanders.[43]
 
@@ -202,13 +200,13 @@ _The Guardian_ in 2009 described five distinct phases in the development of al-Q
 
 Jihad in Afghanistan
 
-Afghan_Muja_crossing_from_Saohol_Sar_pass_in_Durand_border_region_of_Pakistan,_August_1985.png-funded and ISI-trained Afghan mujahideen fighters crossing the Durand Line border to fight Soviet forces and the Soviet-backed Afghan government in 1985.]]
+-funded and ISI-trained Afghan mujahideen fighters crossing the Durand Line border to fight Soviet forces and the Soviet-backed Afghan government in 1985.]]
 
 The origins of al-Qaeda can be traced to the Soviet War in Afghanistan (December 1979 – February 1989).[105] The United States viewed the conflict in Afghanistan in terms of the Cold War, with Marxists on one side and the native Afghan _mujahideen_ on the other. This view led to a CIA program called Operation Cyclone, which channeled funds through Pakistan's Inter-Services Intelligence agency to the Afghan Mujahideen.[106] The US government provided substantial financial support to the Afghan Islamic militants. Aid to Gulbuddin Hekmatyar, an Afghan _mujahideen_ leader and founder of the Hezb-e Islami, amounted to more than $600 million. In addition to American aid, Hekmatyar was the recipient of Saudi aid.[107] In the early 1990s, after the US had withdrawn support, Hekmatyar "worked closely" with bin Laden.[108]
 
 At the same time, a growing number of Arab _mujahideen_ joined the _jihad_ against the Afghan Marxist regime, which was facilitated by international Muslim organizations, particularly the Maktab al-Khidamat (MAK).[109] In 1984, MAK was established in Peshawar, Pakistan, by bin Laden and Abdullah Yusuf Azzam, a Palestinian Islamic scholar and member of the Muslim Brotherhood. MAK organized guest houses in Peshawar, near the Afghan border, and gathered supplies for the construction of paramilitary training camps to prepare foreign recruits for the Afghan war front. MAK was funded by the Saudi government as well as by individual Muslims including Saudi businessmen.[110] Bin Laden also became a major financier of the _mujahideen_, spending his own money and using his connections to influence public opinion about the war.[111]
 
-Omar_Abdel-Rahman.jpg]]
+]]
 
 From 1986, MAK began to set up a network of recruiting offices in the US, the hub of which was the Al Kifah Refugee Center at the Farouq Mosque on Brooklyn's Atlantic Avenue. Among notable figures at the Brooklyn center were "double agent" Ali Mohamed, whom FBI special agent Jack Cloonan called "bin Laden's first trainer",[112] and "Blind Sheikh" Omar Abdel-Rahman, a leading recruiter of _mujahideen_ for Afghanistan. Azzam and bin Laden began to establish camps in Afghanistan in 1987.[113]
 
@@ -284,7 +282,7 @@ In February 2014, after a prolonged dispute with al-Qaeda in Iraq's successor or
 
 Somalia and Yemen
 
-Somali_Civil_War_(2009-present).svg and Allies}} ]] Yemeni_Civil_War.svg and Ansar al-Sharia}}]]
+and Allies}} ]] and Ansar al-Sharia}}]]
 
 In Somalia, al-Qaeda agents had been collaborating closely with its Somali wing, which was created from the al-Shabaab group. In February 2012, al-Shabaab officially joined al-Qaeda, declaring loyalty in a video.[156] Somalian al-Qaeda recruited children for suicide-bomber training, recruited young people to participate in militant actions against Americans.[157]
 
@@ -298,7 +296,7 @@ United States operations
 
 In December 1998, the Director of the CIA Counterterrorism Center reported to President Bill Clinton that al-Qaeda was preparing to launch attacks in the United States, and that the group was training personnel to hijack aircraft.[167] On September 11, 2001, al-Qaeda attacked the United States, hijacking four airliners within the country and deliberately crashing two into the twin towers of the World Trade Center in New York City. The third plane crashed into the western side of the Pentagon in Arlington County, Virginia. The fourth plane was crashed into a field in Shanksville, Pennsylvania.[168] In total, the attackers killed 2,977 victims and injured more than 6,000 others.[169]
 
-Anwar_al-Awlaki_sitting_on_couch,_lightened.jpg]]
+]]
 
 US officials noted that Anwar al-Awlaki had considerable reach within the US. A former FBI agent identified Awlaki as a known "senior recruiter for al-Qaeda", and a spiritual motivator.[170] Awlaki's sermons in the US were attended by three of the 9/11 hijackers, and accused Fort Hood shooter Nidal Malik Hasan. US intelligence intercepted emails from Hasan to Awlaki between December 2008 and early 2009. On his website, Awlaki has praised Hasan's actions in the Fort Hood shooting.[171]
 
@@ -306,11 +304,11 @@ An unnamed official claimed there was good reason to believe Awlaki "has been in
 
 Death of Osama bin Laden
 
-Osama_bin_Laden_compound1.jpg, Pakistan, where he was killed on May 1, 2011.]] On May 1, 2011, US President Barack Obama announced that Osama bin Laden had been killed by "a small team of Americans" acting under direct orders, in a covert operation in Abbottabad, Pakistan.[186][187] The action took place north of Islamabad.[188] According to US officials, a team of 20–25 US Navy SEALs under the command of the Joint Special Operations Command stormed bin Laden's compound with two helicopters. Bin Laden and those with him were killed during a firefight in which US forces experienced no casualties.[189] According to one US official the attack was carried out without the knowledge or consent of the Pakistani authorities.[190] In Pakistan some people were reported to be shocked at the unauthorized incursion by US armed forces.[191] The site is a few miles from the Pakistan Military Academy in Kakul.[192] In his broadcast announcement President Obama said that US forces "took care to avoid civilian casualties."[193] Details soon emerged that three men and a woman were killed along with bin Laden, the woman being killed when she was "used as a shield by a male combatant".[194] DNA from bin Laden's body, compared with DNA samples on record from his dead sister,[195] confirmed bin Laden's identity.[196] The body was recovered by the US military and was in its custody[197] until, according to one US official, his body was buried at sea according to Islamic traditions.[198][199] One US official stated that "finding a country willing to accept the remains of the world's most wanted terrorist would have been difficult."[200] US State Department issued a "Worldwide caution" for Americans following bin Laden's death and US diplomatic facilities everywhere were placed on high alert, a senior US official said.[201] Crowds gathered outside the White House and in New York City's Times Square to celebrate bin Laden's death.[202]
+, Pakistan, where he was killed on May 1, 2011.]] On May 1, 2011, US President Barack Obama announced that Osama bin Laden had been killed by "a small team of Americans" acting under direct orders, in a covert operation in Abbottabad, Pakistan.[186][187] The action took place north of Islamabad.[188] According to US officials, a team of 20–25 US Navy SEALs under the command of the Joint Special Operations Command stormed bin Laden's compound with two helicopters. Bin Laden and those with him were killed during a firefight in which US forces experienced no casualties.[189] According to one US official the attack was carried out without the knowledge or consent of the Pakistani authorities.[190] In Pakistan some people were reported to be shocked at the unauthorized incursion by US armed forces.[191] The site is a few miles from the Pakistan Military Academy in Kakul.[192] In his broadcast announcement President Obama said that US forces "took care to avoid civilian casualties."[193] Details soon emerged that three men and a woman were killed along with bin Laden, the woman being killed when she was "used as a shield by a male combatant".[194] DNA from bin Laden's body, compared with DNA samples on record from his dead sister,[195] confirmed bin Laden's identity.[196] The body was recovered by the US military and was in its custody[197] until, according to one US official, his body was buried at sea according to Islamic traditions.[198][199] One US official stated that "finding a country willing to accept the remains of the world's most wanted terrorist would have been difficult."[200] US State Department issued a "Worldwide caution" for Americans following bin Laden's death and US diplomatic facilities everywhere were placed on high alert, a senior US official said.[201] Crowds gathered outside the White House and in New York City's Times Square to celebrate bin Laden's death.[202]
 
 Syria
 
-Syrian_Civil_War_map.svg}}]] Saadallah_al-Jabiri_square,_Aleppo,_after_the_explosion_of_October_2012.jpg, for which al-Nusra Front claimed responsibility.[203]]]
+}}]] , for which al-Nusra Front claimed responsibility.[203]]]
 
 In 2003, President Bashar al-Assad revealed in an interview with a Kuwaiti newspaper that he doubted that al-Qaeda even existed. He was quoted as saying, "Is there really an entity called al-Qaeda? Was it in Afghanistan? Does it exist now?" He went on further to remark about bin Laden, commenting "[he] cannot talk on the phone or use the Internet, but he can direct communications to the four corners of the world? This is illogical."[204]
 
@@ -347,15 +345,13 @@ The bombings were an attempt to eliminate American soldiers on their way to Soma
 
 Late 1990s
 
-Kenya_bombing_1.jpg]] In 1996, bin Laden personally engineered a plot to assassinate United States President Bill Clinton while the president was in Manila for the Asia-Pacific Economic Cooperation. However, intelligence agents intercepted a message before the motorcade was to leave, and alerted the US Secret Service. Agents later discovered a bomb planted under a bridge.[234]
+]] In 1996, bin Laden personally engineered a plot to assassinate United States President Bill Clinton while the president was in Manila for the Asia-Pacific Economic Cooperation. However, intelligence agents intercepted a message before the motorcade was to leave, and alerted the US Secret Service. Agents later discovered a bomb planted under a bridge.[234]
 
 On August 7, 1998, al-Qaeda bombed the US embassies in East Africa, killing 224 people, including 12 Americans. In retaliation, a barrage of cruise missiles launched by the US military devastated an al-Qaeda base in Khost, Afghanistan. The network's capacity was unharmed. In late 1999 and 2000, Al-Qaeda planned attacks to coincide with the millennium, masterminded by Abu Zubaydah and involving Abu Qatada, which would include the bombing of Christian holy sites in Jordan, the bombing of Los Angeles International Airport by Ahmed Ressam, and the bombing of the .
 
 On October 12, 2000, al-Qaeda militants in Yemen bombed the missile destroyer _USS Cole_ in a suicide attack, killing 17 US servicemen and damaging the vessel while it lay offshore. Inspired by the success of such a brazen attack, al-Qaeda's command core began to prepare for an attack on the US itself.
 
 September 11 attacks
-
-FEMA_-_4235_-_Photograph_by_Andrea_Booher_taken_on_09-28-2001_in_New_York.jpg
 
 The September 11 attacks on America by al-Qaeda killed 2,977 people — 2,507 civilians, 343 firefighters, 72 law enforcement officers, and 55 military personnel. Two commercial airliners were deliberately flown into the twin towers of the World Trade Center, a third into the Pentagon, and a fourth, originally intended to target either the United States Capitol or the White House, crashed in a field in Stonycreek Township near Shanksville, Pennsylvania. It was also the deadliest foreign attack on American soil since the Japanese attack on Pearl Harbor on December 7, 1941.
 
@@ -439,15 +435,13 @@ Al-Qaeda is deemed a designated terrorist group by the following countries and i
 
 War on Terror
 
-US_10th_Mountain_Division_soldiers_in_Afghanistan.jpg
-
 In the immediate aftermath of the 9/11 attacks, the US government responded, and began to prepare its armed forces to overthrow the Taliban, which it believed was harboring al-Qaeda. The US offered Taliban leader Mullah Omar a chance to surrender bin Laden and his top associates. The first forces to be inserted into Afghanistan were paramilitary officers from the CIA's elite Special Activities Division (SAD).
 
 The Taliban offered to turn over bin Laden to a neutral country for trial if the US would provide evidence of bin Laden's complicity in the attacks. US President George W. Bush responded by saying: "We know he's guilty. Turn him over",[278] and British Prime Minister Tony Blair warned the Taliban regime: "Surrender bin Laden, or surrender power".[279]
 
 Soon thereafter the US and its allies invaded Afghanistan, and together with the Afghan Northern Alliance removed the Taliban government as part of the war in Afghanistan. As a result of the US special forces and air support for the Northern Alliance ground forces, a number of Taliban and al-Qaeda training camps were destroyed, and much of the operating structure of al-Qaeda is believed to have been disrupted. After being driven from their key positions in the Tora Bora area of Afghanistan, many al-Qaeda fighters tried to regroup in the rugged Gardez region of the nation.
 
-Khalid_Shaikh_Mohammed_after_capture.jpg after his arrest in Rawalpindi, Pakistan, in March 2003.]]
+after his arrest in Rawalpindi, Pakistan, in March 2003.]]
 
 By early 2002, al-Qaeda had been dealt a serious blow to its operational capacity, and the Afghan invasion appeared to be a success. Nevertheless, a significant Taliban insurgency remained in Afghanistan.
 
@@ -462,7 +456,7 @@ Activities
 
 Africa
 
-GSPC_map.png (formerly GSPC) area of operations]] The_Guardian_al-Qaeda_recruitment.jpg'' on the eighth anniversary of the September 11 attacks. The article claimed that al-Qaeda's activity is "increasingly dispersed to 'affiliates' or 'franchises' in Yemen and North Africa."[289]]]
+(formerly GSPC) area of operations]] '' on the eighth anniversary of the September 11 attacks. The article claimed that al-Qaeda's activity is "increasingly dispersed to 'affiliates' or 'franchises' in Yemen and North Africa."[289]]]
 
 Al-Qaeda involvement in Africa has included a number of bombing attacks in North Africa, while supporting parties in civil wars in Eritrea and Somalia. From 1991 to 1996, bin Laden and other al-Qaeda leaders were based in Sudan.
 
@@ -489,8 +483,6 @@ In 2009, three Londoners, Tanvir Hussain, Assad Sarwar and Ahmed Abdullah Ali, w
 In 2012, Russian Intelligence indicated that al-Qaeda had given a call for "forest jihad" and has been starting massive forest fires as part of a strategy of "thousand cuts".[304]
 
 Arab world
-
-INTEL-COGNITIVE-Cole.jpg
 
 Following Yemeni unification in 1990, Wahhabi networks began moving missionaries into the country. Although it is unlikely that bin Laden or Saudi al-Qaeda were directly involved, the personal connections they made would be established over the next decade and used in the USS _Cole_ bombing.[305] Concerns grew over Al Qaeda's group in Yemen.[306]
 

@@ -3,7 +3,7 @@ CENTAURUS is a bright constellation in the southern sky. One of the largest cons
 
 Notable features
 
-Constellation_Centaurus.jpg Alpha,_Beta_and_Proxima_Centauri_(1).jpg and (right) Beta Centauri. The faint red star in the center of the red circle is Proxima Centauri. Taken with Canon 85mm f/1.8 lens with 11 frames stacked, each frame exposed 30 seconds.]] Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_"Firmamentum_Sobiescianum,_sive_uranographia"_-_Tavola_XX_-_Centaurus_et_Crux.jpg. This image is reversed from what one sees looking at the sky — it is as though one is looking at the "celestial sphere" from the outside.]]
+and (right) Beta Centauri. The faint red star in the center of the red circle is Proxima Centauri. Taken with Canon 85mm f/1.8 lens with 11 frames stacked, each frame exposed 30 seconds.]] . This image is reversed from what one sees looking at the sky — it is as though one is looking at the "celestial sphere" from the outside.]]
 
 Stars
 
@@ -42,7 +42,7 @@ One of the closest galaxy clusters to Earth is the Centaurus Cluster at 160 mill
 
 History
 
-Kentauren,_1602_-_Skoklosters_slott_-_102438.tif While Centaurus now has a high southern latitude, at the dawn of civilization it was an equatorial constellation. Precession has been slowly shifting it southward for millennia, and it is now close to its maximal southern declination. In a little over 7000 years it will be at maximum visibility for those in the northern hemisphere, visible at times in the year up to quite a high northern latitude.
+While Centaurus now has a high southern latitude, at the dawn of civilization it was an equatorial constellation. Precession has been slowly shifting it southward for millennia, and it is now close to its maximal southern declination. In a little over 7000 years it will be at maximum visibility for those in the northern hemisphere, visible at times in the year up to quite a high northern latitude.
 
 The figure of Centaurus can be traced back to a Babylonian constellation known as the Bison-man (MUL.GUD.ALIM). This being was depicted in two major forms: firstly, as a 4-legged bison with a human head, and secondly, as a being with a man's head and torso attached to the rear legs and tail of a bull or bison. It has been closely associated with the Sun god Utu-Shamash from very early times.[10]
 

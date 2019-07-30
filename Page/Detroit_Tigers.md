@@ -23,7 +23,7 @@ The Cobb era (1905–26)
 
 1905
 
-Ty-Cobb-1913-NPC-detail-2.jpeg in 1913.]] In 1905, the team acquired 18-year-old Ty Cobb, a fearless player with a mean streak, who came to be regarded as one of the greatest players of all time. The addition of Cobb to an already talented team that included Sam Crawford, Hughie Jennings, Bill Donovan and George Mullin quickly yielded results.[20]
+in 1913.]] In 1905, the team acquired 18-year-old Ty Cobb, a fearless player with a mean streak, who came to be regarded as one of the greatest players of all time. The addition of Cobb to an already talented team that included Sam Crawford, Hughie Jennings, Bill Donovan and George Mullin quickly yielded results.[20]
 
 1907 American League Champions
 
@@ -73,7 +73,7 @@ Cobb announced his retirement in November 1926 after 22 seasons with the Tigers,
 
 The Tigers break through (1927–40)
 
-Hank_Greenberg_1937_cropped.jpg]]
+]]
 
 1927–33
 
@@ -255,7 +255,7 @@ A new approach (1988–95)
 
 Despite their 1987 division title victory, the Tigers proved unable to build on their success. The team lost Kirk Gibson to free agency in the offseason, but still spent much of 1988 in first place in the AL East. A late season slump left the team in second place at 88–74, one game behind the Boston Red Sox.[399][400]
 
-Arlington_Stadium_1992_-_2.jpg during a 1992 away game at Arlington Stadium.]]
+during a 1992 away game at Arlington Stadium.]]
 
 In 1989, the team collapsed to a 59–103 record, worst in the majors.[401][402] The franchise then attempted to rebuild using a power-hitting approach, with sluggers Cecil Fielder, Rob Deer and Mickey Tettleton joining Trammell and Whitaker in the lineup (fitting for the team with the most 200+ home run seasons in baseball history).[403] In 1990, Fielder led the American League with 51 home runs (becoming the first player to hit 50 since George Foster in 1977, and the first AL player since Roger Maris and Mickey Mantle in 1961), and finished second in the voting for AL MVP.[404][405][406] He hit 44 home runs and collected 132 RBI in 1991, again finishing second in the AL MVP balloting.[407] Behind the hitting of Fielder and others, the Tigers improved by 20 wins in 1990 (79–83), and posted a winning record in 1991 (84–78).[408][409] However, the team lacked quality pitching, despite Bill Gullickson's 20 wins in 1991, and its core of key players began to age, setting the franchise up for decline.[410] Their minor league system was largely barren of talent as well, producing only a few everyday players during the 1990s.[411][412][413] Adding insult to injury, the Tigers and radio station WJR announced in December 1990, that they were not renewing the contract of long-time Hall of Fame play-by play announcer Ernie Harwell, and that the 1991 season would be Harwell's last with the team.[414] The announcement was met with resounding protests from fans, both in Michigan and around the baseball world.[415]
 
@@ -269,7 +269,7 @@ From 1994 to 2005, the Tigers did not post a winning record, the longest sub-.50
 
 In 1998, the Tigers moved from the AL East, where they had been since the divisions were created in 1969, to the AL Central as part of a realignment necessitated by the addition of the expansion Tampa Bay Devil Rays.[432][433][434]
 
-ComericaParkWEntrance.jpg In 2000, the team left Tiger Stadium in favor of Comerica Park.[435]
+In 2000, the team left Tiger Stadium in favor of Comerica Park.[435]
 
 Soon after it opened, Comerica Park drew criticism for its deep dimensions, which made it difficult to hit home runs; the distance to left-center field (395 ft), in particular, was seen as unfair to hitters. This led to the nickname "Comerica National Park."[436] The team made a successful bid to bring in slugger Juan González from the Texas Rangers for the inaugural season at Comerica Park.[437] After four consecutive seasons of no fewer than 39 home runs, González only hit 22 homers in 2000. He cited Comerica Park's dimensions as a major reason why he turned down a multiyear contract extension.[438] In 2003, the franchise largely quieted the criticism by moving in the left-center fence to , taking the flagpole in that area out of play, a feature carried over from Tiger Stadium.[439] In 2005, the team moved the bullpens to the vacant area beyond the left field fence and filled the previous location with seats.[440]
 
@@ -301,8 +301,6 @@ The playoffs saw the Tigers beat the heavily favored New York Yankees 3–1 in t
 
 Falling short (2007–2010)
 
-Tigers_opening_day2_2007.jpg
-
 2007
 
 During the offseason, the Tigers traded for outfielder Gary Sheffield, who had been a part of the 1997 World Series champion Florida Marlins managed by Jim Leyland.[496] In addition to acquisitions, Dombrowski developed a productive farm system. Justin Verlander and Joel Zumaya, the most notable rookie contributors to the 2006 team, were followed by Andrew Miller, who was drafted in 2006 and called up early in the 2007 campaign, and minor leaguer Cameron Maybin, an athletic five-tool outfielder ranked #6 in Baseball America's 2007 Top 100 Prospects.[497]
@@ -313,7 +311,7 @@ Magglio Ordóñez captured the AL batting title in 2007 with a .363 average, bec
 
 2008
 
-Justin_Verlander_2008.jpg, June 2008]] Going into the 2008 season, the franchise traded for prominent talent in Édgar Rentería (from the Atlanta Braves) and Miguel Cabrera and Dontrelle Willis (from the Florida Marlins).[507][508] However, the Tigers, who now boasted the second-highest team payroll in the majors at over $138 million,[509] began the regular season by losing seven straight games.[510] The Tigers climbed back, and at the midway point of the season, they were 42–40.[511] In the end, the team finished miserably, slumping to a 74–88 record.[512] Justin Verlander finished with his worst season as a pro, as he went 11–17 with a 4.84 ERA.[513] The Tigers also lost closer Todd Jones to retirement on September 25, 2008.[514] Despite the disappointing season, the team set an attendance record in 2008, drawing 3,202,654 customers to Comerica Park.[515]
+, June 2008]] Going into the 2008 season, the franchise traded for prominent talent in Édgar Rentería (from the Atlanta Braves) and Miguel Cabrera and Dontrelle Willis (from the Florida Marlins).[507][508] However, the Tigers, who now boasted the second-highest team payroll in the majors at over $138 million,[509] began the regular season by losing seven straight games.[510] The Tigers climbed back, and at the midway point of the season, they were 42–40.[511] In the end, the team finished miserably, slumping to a 74–88 record.[512] Justin Verlander finished with his worst season as a pro, as he went 11–17 with a 4.84 ERA.[513] The Tigers also lost closer Todd Jones to retirement on September 25, 2008.[514] Despite the disappointing season, the team set an attendance record in 2008, drawing 3,202,654 customers to Comerica Park.[515]
 
 2009
 
@@ -323,7 +321,7 @@ Despite the improvements, the Tigers once again found themselves struggling to h
 
 2010
 
-Alex_Avila_2010.jpg, March 2010]] Entering 2010, the Tigers parted ways with Curtis Granderson and Edwin Jackson as part of a three-way trade with the New York Yankees and Arizona Diamondbacks; in return they picked up outfield prospect Austin Jackson and pitchers Phil Coke, Max Scherzer and Daniel Schlereth.[535] Jackson made the Tigers opening day roster, and was American League Rookie of the Month for April.[536] 2010 also saw the debut of Brennan Boesch, who was named the AL Rookie of the Month for May and June.[537][538]
+, March 2010]] Entering 2010, the Tigers parted ways with Curtis Granderson and Edwin Jackson as part of a three-way trade with the New York Yankees and Arizona Diamondbacks; in return they picked up outfield prospect Austin Jackson and pitchers Phil Coke, Max Scherzer and Daniel Schlereth.[535] Jackson made the Tigers opening day roster, and was American League Rookie of the Month for April.[536] 2010 also saw the debut of Brennan Boesch, who was named the AL Rookie of the Month for May and June.[537][538]
 
 At the All-Star break, the Tigers were a half-game out of first place in the AL Central, behind the Chicago White Sox.[539] However, a slow start after the break and injuries to three key players sent the Tigers into yet another second half tailspin.[540][541][542] The Tigers finished the season in third place with an 81–81 record, 13 games back of the division-winning Minnesota Twins.[543][544] While playing outstanding baseball at home, the Tigers were just 29–52 on the road.[545]
 
@@ -353,7 +351,7 @@ The Tigers beat the New York Yankees by a score of 3–2 in Game 5 of the ALDS, 
 
 2012: American League Champions
 
-Miguel_Cabrera_(2011).jpg became the first Major League player to win the Triple Crown in 45 years.]]
+became the first Major League player to win the Triple Crown in 45 years.]]
 
 In 2012, the Tigers looked to defend their 2011 AL Central Division title, with the hopes of earning a second consecutive playoff appearance. On January 24, the Tigers signed free agent All-Star first baseman Prince Fielder to a 9-year, $214 million contract.[583] The move came shortly after the Tigers learned that Víctor Martínez had torn his anterior cruciate ligament during offseason training in Lakeland, Florida, and would likely miss the entire 2012 season.[584] Miguel Cabrera moved back to his original position of third base, leading to the eventual release of veteran Brandon Inge on April 26.[585] On July 23, the Tigers acquired veteran second baseman Omar Infante, who played for Detroit in 2003–07, and starting pitcher Aníbal Sánchez from the Miami Marlins in exchange for starting pitcher Jacob Turner and two other minor leaguers.[586]
 
@@ -377,7 +375,7 @@ The Tigers advanced to their third straight ALCS, where they played the Boston R
 
 2014: Changes at the top
 
-Brad_Ausmus_on_August_1,_2015.jpg]] Jim Leyland stepped down from his managerial position after eight years with Detroit,[612] and the Tigers hired Brad Ausmus as Leyland's successor.[613] On November 20, 2013, the Tigers traded Prince Fielder to the Texas Rangers for three time All-Star second baseman Ian Kinsler plus cash considerations with regard to Fielder's remaining contract amount.[614] The Tigers later traded starting pitcher Doug Fister to the Washington Nationals for infielder Steve Lombardozzi Jr. and pitchers Ian Krol and Robbie Ray.[615]
+]] Jim Leyland stepped down from his managerial position after eight years with Detroit,[612] and the Tigers hired Brad Ausmus as Leyland's successor.[613] On November 20, 2013, the Tigers traded Prince Fielder to the Texas Rangers for three time All-Star second baseman Ian Kinsler plus cash considerations with regard to Fielder's remaining contract amount.[614] The Tigers later traded starting pitcher Doug Fister to the Washington Nationals for infielder Steve Lombardozzi Jr. and pitchers Ian Krol and Robbie Ray.[615]
 
 In an effort to improve a bullpen that often struggled in 2013, the Tigers signed veteran closer Joe Nathan to a two-year, $20 million contract, with a club option for 2016,[616] and later signed Joba Chamberlain to a one-year, $2.5 million deal.[617] On May 2, 2014, a month into the season, with the bullpen having a combined 5.37 ERA, which was 29th out of 30 in the MLB, the Tigers signed free agent reliever Joel Hanrahan to a one-year contract.[618] However, he never came off the disabled list to pitch for the team.[619] The team further bolstered the bullpen near the MLB trading deadline, dealing pitchers Corey Knebel and Jake Thompson to the Texas Rangers in exchange for former All-Star closer Joakim Soria on July 23.[620]
 
@@ -485,7 +483,7 @@ Payroll
 
 The Tigers
 
-Tiger_Stadium_exterior_April_2008_-_Detroit_Michigan.jpg, home of the Detroit Tigers from 1912 to 1999 at the corner of Michigan and Trumbull Avenues in the Corktown district of Detroit.]] There are various legends about how the Tigers got their nickname.[671][672] One involves the orange stripes they wore on their black stockings.[673][674][675] Tigers manager George Stallings took credit for the name. However, the earliest known use of it appeared in the _Detroit Free Press_ on April 16, 1895, a year prior to Stallings joining the team.[676][677]
+, home of the Detroit Tigers from 1912 to 1999 at the corner of Michigan and Trumbull Avenues in the Corktown district of Detroit.]] There are various legends about how the Tigers got their nickname.[671][672] One involves the orange stripes they wore on their black stockings.[673][674][675] Tigers manager George Stallings took credit for the name. However, the earliest known use of it appeared in the _Detroit Free Press_ on April 16, 1895, a year prior to Stallings joining the team.[676][677]
 
 In the book _A Place for Summer: A Narrative History of Tiger Stadium_, Richard Bak states that the name originated from the Detroit Light Guard military unit, who were known as "The Tigers". They had played significant roles in certain Civil War battles and in the 1898 Spanish–American War. Upon entry into the majors, the ballclub sought and received formal permission from the Light Guard to use its trademark. From that day forth, the team has officially been known as the Tigers.[678]
 

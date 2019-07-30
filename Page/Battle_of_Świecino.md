@@ -1,5 +1,3 @@
-Polish_Knights_1447-1492.PNG
-
 The BATTLE OF ŚWIECINO (named for the village of Świecino, near Żarnowiec Lake, northern Poland) also called the BATTLE OF ŻARNOWIEC or in German BATTLE OF SCHWETZ, took place on September 17, 1462 during the Thirteen Years' War. The Poles commanded by Piotr Dunin, consisting of some 2000 mercenaries and Poles, decisively defeated the 2700 man army of the Teutonic Knights commanded by Fritz Raweneck and Kaspar Nostyc. Auxiliary forces sent by duke Eric II of Pomerania, an ally of the Polish king, did not enter the battle.
 
 

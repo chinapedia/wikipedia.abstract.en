@@ -9,7 +9,7 @@ European awareness of Capoeira advances but mostly begins with the start of ensl
 
 Origins
 
-CapoeiraEarle.JPG]] In the 16th century, Portugal had claimed one of the largest territories of the colonial empires, but lacked people to colonize it, especially workers. In the Brazilian colony, the Portuguese, like many European colonists, chose to use slavery to build their economy.
+]] In the 16th century, Portugal had claimed one of the largest territories of the colonial empires, but lacked people to colonize it, especially workers. In the Brazilian colony, the Portuguese, like many European colonists, chose to use slavery to build their economy.
 
 In its first century, the main economic activity in the colony was the production and processing of sugar cane. Portuguese colonists created large sugarcane farms called "engenhos", literally "engines" (of economic activity), which depended on the labor of slaves. Slaves, living in inhumane conditions, were forced to work hard and often suffered physical punishment for small misbehaviors.[13]
 
@@ -21,7 +21,7 @@ As Brazil became more urbanised in the 17th and 18th century, the nature of capo
 
 Quilombos
 
-Antônio_Parreiras_-_Zumbi.jpg (1927) by Antônio Parreiras]] Soon several groups of enslaved persons who liberated themselves gathered and established settlements, known as quilombos, in far and hard to reach places. Some quilombos would soon increase in size, attracting more fugitive slaves, Brazilian natives and even Europeans escaping the law or Christian extremism. Some quilombos would grow to an enormous size, becoming a real independent multi-ethnic state.[14]
+(1927) by Antônio Parreiras]] Soon several groups of enslaved persons who liberated themselves gathered and established settlements, known as quilombos, in far and hard to reach places. Some quilombos would soon increase in size, attracting more fugitive slaves, Brazilian natives and even Europeans escaping the law or Christian extremism. Some quilombos would grow to an enormous size, becoming a real independent multi-ethnic state.[14]
 
 Everyday life in a quilombo offered freedom and the opportunity to revive traditional cultures away from colonial oppression.[15] In this kind of multi-ethnic community, constantly threatened by Portuguese colonial troops, capoeira evolved from a survival tool to a martial art focused on war.
 
@@ -39,7 +39,7 @@ Ample data from police records from the 1800s shows that many slaves and free co
 
 End of slavery and prohibition of capoeira
 
-Lei_Áurea_(Golden_Law).tif By the end of the 19th century, slavery was on the verge of departing the Brazilian Empire. Reasons included growing quilombo militia raids in plantations that still used slaves, the refusal of the Brazilian army to deal with escapees and the growth of Brazilian abolitionist movements. The Empire tried to soften the problems with laws to restrict slavery, but finally Brazil would recognize the end of the institution on May 13, 1888, with a law called _Lei Áurea_ (Golden Law), sanctioned by imperial parliament and signed by Princess Isabel.
+By the end of the 19th century, slavery was on the verge of departing the Brazilian Empire. Reasons included growing quilombo militia raids in plantations that still used slaves, the refusal of the Brazilian army to deal with escapees and the growth of Brazilian abolitionist movements. The Empire tried to soften the problems with laws to restrict slavery, but finally Brazil would recognize the end of the institution on May 13, 1888, with a law called _Lei Áurea_ (Golden Law), sanctioned by imperial parliament and signed by Princess Isabel.
 
 However, free former slaves now felt abandoned. Most of them had nowhere to live, no jobs and were despised by Brazilian society, which usually viewed them as lazy workers.[22][23] Also, new immigration from Europe and Asia left most former slaves with no employment.[24][25]
 
@@ -72,13 +72,13 @@ Techniques
 
 Capoeira is a fast and versatile martial art that is historically focused on fighting outnumbered or in technological disadvantage. The style emphasizes using the lower body to kick, sweep and take down and the upper body to assist those movements and occasionally attack as well. It features a series of complex positions and body postures that are meant to get chained in an uninterrupted flow, in order to strike, dodge and move without breaking motion, conferring the style with a characteristic unpredictability and versatility.
 
-Ginga_de_dos.gif The _ginga_ (literally: rocking back and forth; to swing) is the fundamental movement in capoeira, important both for attack and defense purposes. It has two main objectives. One is to keep the capoeirista in a state of constant motion, preventing him or her from being a still and easy target. The other, using also fakes and feints, is to mislead, fool, trick the opponent, leaving them open for an attack or a counter-attack.
+The _ginga_ (literally: rocking back and forth; to swing) is the fundamental movement in capoeira, important both for attack and defense purposes. It has two main objectives. One is to keep the capoeirista in a state of constant motion, preventing him or her from being a still and easy target. The other, using also fakes and feints, is to mislead, fool, trick the opponent, leaving them open for an attack or a counter-attack.
 
 The attacks in the capoeira should be done when opportunity arises, and though they can be preceded by feints or pokes, they must be precise and decisive, like a direct kick to the head, face or a vital body part, or a strong takedown. Most capoeira attacks are made with the legs, like direct or swirling kicks, rasteiras (leg sweeps), tesouras or knee strikes. Elbow strikes, punches and other forms of takedowns complete the main list. The head strike is a very important counter-attack move.
 
 The defense is based on the principle of non-resistance, meaning avoiding an attack using evasive moves instead of blocking it. Avoids are called _esquivas_, which depend on the direction of the attack and intention of the defender, and can be done standing or with a hand leaning on the floor. A block should only be made when the _esquiva_ is completely non-viable. This fighting strategy allows quick and unpredictable counterattacks, the ability to focus on more than one adversary and to face empty-handed an armed adversary.
 
-Auangole.gif A series of rolls and acrobatics (like the cartwheels called aú or the transitional position called negativa) allows the capoeirista to quickly overcome a takedown or a loss of balance, and to position themselves around the aggressor in order to lay up for an attack. It is this combination of attacks, defense and mobility that gives capoeira its perceived "fluidity" and choreography-like style.
+A series of rolls and acrobatics (like the cartwheels called aú or the transitional position called negativa) allows the capoeirista to quickly overcome a takedown or a loss of balance, and to position themselves around the aggressor in order to lay up for an attack. It is this combination of attacks, defense and mobility that gives capoeira its perceived "fluidity" and choreography-like style.
 
 
 Weapons
@@ -92,13 +92,13 @@ This weapon training is almost completely absent in current capoeira teachings, 
 
 As a game
 
-Capoeira_Dance.jpg Playing capoeira is both a game and a method of practicing the application of capoeira movements in simulated combat. It can be played anywhere, but it's usually done in a _roda_. During the game most capoeira moves are used, but capoeiristas usually avoid using punches or elbow strikes unless it's a very aggressive game.
+Playing capoeira is both a game and a method of practicing the application of capoeira movements in simulated combat. It can be played anywhere, but it's usually done in a _roda_. During the game most capoeira moves are used, but capoeiristas usually avoid using punches or elbow strikes unless it's a very aggressive game.
 
 The game usually does not focus on knocking down or destroying the opponent, rather it emphasizes skill. Capoeiristas often prefer to rely on a takedown like a _rasteira_, then allowing the opponent to recover and get back into the game. It is also very common to slow down a kick inches before hitting the target, so a capoeirista can enforce superiority without the need of injuring the opponent. If an opponent clearly cannot dodge an attack, there is no reason to complete it. However, between two high-skilled capoeiristas, the game can get much more aggressive and dangerous. Capoeiristas tend to avoid showing this kind of game in presentations or to the general public.
 
 Roda
 
-Roda_de_capoeira1.jpg, Brazil)]] The _roda_ (pronounced ) is a circle formed by capoeiristas and capoeira musical instruments, where every participant sings the typical songs and claps their hands following the music. Two _capoeiristas_ enter the _roda_ and play the game according to the style required by the musical rhythm. The game finishes when one of the musicians holding a berimbau determine it, when one of the _capoeiristas_ decide to leave or call the end of the game or when another capoeirista interrupts the game to start playing, either with one of the current players or with another _capoeirista_.
+, Brazil)]] The _roda_ (pronounced ) is a circle formed by capoeiristas and capoeira musical instruments, where every participant sings the typical songs and claps their hands following the music. Two _capoeiristas_ enter the _roda_ and play the game according to the style required by the musical rhythm. The game finishes when one of the musicians holding a berimbau determine it, when one of the _capoeiristas_ decide to leave or call the end of the game or when another capoeirista interrupts the game to start playing, either with one of the current players or with another _capoeirista_.
 
 In a _roda_ every cultural aspect of capoeira is present, not only the martial side. Aerial acrobatics are common in a presentation _roda_, while not seen as often in a more serious one. Takedowns, on the other hand, are common in a serious _roda_ but rarely seen in presentations.
 
@@ -147,7 +147,7 @@ Music is integral to capoeira. It sets the tempo and style of game that is to be
 
 Instruments
 
-Capoeira-three-berimbau-one-pandeiro.jpgs a reco- reco and a pandeiro]] Capoeira instruments are disposed in a row called bateria. It is traditionally formed by three berimbaus, two pandeiros, three atabaques, one agogô and one ganzá, but this format may vary depending on the capoeira group's traditions or the _roda_ style.
+s a reco- reco and a pandeiro]] Capoeira instruments are disposed in a row called bateria. It is traditionally formed by three berimbaus, two pandeiros, three atabaques, one agogô and one ganzá, but this format may vary depending on the capoeira group's traditions or the _roda_ style.
 
 The berimbau is the leading instrument, determining the tempo and style of the music and game played. Two low pitch berimbaus (called _berra-boi_ and _médio_) form the base and a high pitch berimbau (called _viola_) makes variations and improvisations. The other instruments must follow the berimbau's rhythm, free to vary and improvise a little, depending upon the capoeira group's musical style.
 
@@ -164,7 +164,7 @@ Capoeira songs can talk about virtually anything, being it about a historical fa
 
 Styles
 
-Vídeo_Agência_Nacional_40.webm Determining styles in capoeira is difficult, since there was never a unity in the original capoeira, or a teaching method before the decade of 1920. However, a division between two styles and a sub-style is widely accepted.
+Determining styles in capoeira is difficult, since there was never a unity in the original capoeira, or a teaching method before the decade of 1920. However, a division between two styles and a sub-style is widely accepted.
 
 Capoeira Angola
 

@@ -194,7 +194,7 @@ Three short stories with Whitfield ("Tape-Measure Murder", "The Case of the Perf
 
 Other appearances
 
-Jane_Marple_in_Case_Closed.jpg'']]
+'']]
 
 Marple was highlighted in volume 20 of the _Case Closed_ manga's edition of "Gosho Aoyama's Mystery Library", a section of the graphic novels (usually the last page) where the author introduces a different detective (or occasionally, a villain) from mystery literature, television, or other media.
 

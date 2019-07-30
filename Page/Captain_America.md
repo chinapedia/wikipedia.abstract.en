@@ -15,7 +15,7 @@ In 1940, writer Joe Simon conceived the idea for Captain America and made a sket
 
 Simon recalled in his autobiography that Timely Comics publisher Martin Goodman gave him the go-ahead and directed that a Captain America solo comic book series be published as soon as possible. Needing to fill a full comic with primarily one character's stories, Simon did not believe that his regular creative partner, artist Jack Kirby, could handle the workload alone:
 
-1974ComicArtCon_book.jpg program featuring Simon's original sketch of Captain America.]] Al Lieberman would ink that first issue, which was lettered by Simon and Kirby's regular letterer, Howard Ferguson.[5]
+program featuring Simon's original sketch of Captain America.]] Al Lieberman would ink that first issue, which was lettered by Simon and Kirby's regular letterer, Howard Ferguson.[5]
 
 Simon said Captain America was a consciously political creation; he and Kirby were morally repulsed by the actions of Nazi Germany in the years leading up to the United States' involvement in World War II and felt war was inevitable: "The opponents to the war were all quite well organized. We wanted to have our say too."[6]
 
@@ -33,7 +33,7 @@ Atlas Comics attempted to revive its superhero titles when it reintroduced Capta
 
 Silver and Bronze Age
 
-Avengers_(1964)_March_poster_4.jpg and George Roussos.]] In the Human Torch story titled "Captain America" in Marvel Comics' _Strange Tales_ #114 (Nov. 1963),[22] writer-editor Stan Lee and artist and co-plotter Jack Kirby depicted the brash young Fantastic Four member Johnny Storm, the Human Torch, in an exhibition performance with Captain America, described as a legendary World War II and 1950s superhero who has returned after many years of apparent retirement. The 18-page story ends with this Captain America revealed as an impostor: it was actually the villain the Acrobat, a former circus performer the Torch had defeated in _Strange Tales_ #106, who broke two thieves out of jail, hoping to draw the police away while trying to rob the local bank. Afterward, Storm digs out an old comic book in which Captain America is shown to be Steve Rogers. A caption in the final panel says this story was a test to see if readers would like Captain America to return. According to Lee, fan response to the tryout was very enthusiastic.[23]
+and George Roussos.]] In the Human Torch story titled "Captain America" in Marvel Comics' _Strange Tales_ #114 (Nov. 1963),[22] writer-editor Stan Lee and artist and co-plotter Jack Kirby depicted the brash young Fantastic Four member Johnny Storm, the Human Torch, in an exhibition performance with Captain America, described as a legendary World War II and 1950s superhero who has returned after many years of apparent retirement. The 18-page story ends with this Captain America revealed as an impostor: it was actually the villain the Acrobat, a former circus performer the Torch had defeated in _Strange Tales_ #106, who broke two thieves out of jail, hoping to draw the police away while trying to rob the local bank. Afterward, Storm digs out an old comic book in which Captain America is shown to be Steve Rogers. A caption in the final panel says this story was a test to see if readers would like Captain America to return. According to Lee, fan response to the tryout was very enthusiastic.[23]
 
 Captain America was then formally reintroduced in _The Avengers_ #4 (March 1964),[24] which explained that in the final days of World War II, he had fallen from an experimental drone plane into the North Atlantic Ocean and spent decades frozen in a block of ice in a state of suspended animation. The hero found a new generation of readers as leader of that superhero team. Following the success of other Marvel characters introduced during the 1960s, Captain America was recast as a hero "haunted by past memories, and trying to adapt to 1960s society".[25]
 
@@ -79,7 +79,7 @@ Fictional character biography
 
 1940s
 
-Captainamerica1.jpg (inks and pencils) and Jack Kirby (pencils).|alt=The front page of the first Captain America comic depicts Captain America punching Adolf Hitler in the jaw. A Nazi soldier's bullet deflects from Captain America's shield, while Adolf Hitler falls onto a map of the United States of America and a document reading 'Sabotage plans for U.S.A.']] Steven Rogers was born in the Lower East Side of Manhattan, New York City, in 1920 to poor Irish immigrants, Sarah and Joseph Rogers.[57] Joseph died when Steve was a child, and Sarah died of pneumonia while Steve was a teen. By early 1940, before America's entry into World War II, Rogers is a tall, scrawny fine arts student specializing in illustration and a comic book writer and artist.
+(inks and pencils) and Jack Kirby (pencils).|alt=The front page of the first Captain America comic depicts Captain America punching Adolf Hitler in the jaw. A Nazi soldier's bullet deflects from Captain America's shield, while Adolf Hitler falls onto a map of the United States of America and a document reading 'Sabotage plans for U.S.A.']] Steven Rogers was born in the Lower East Side of Manhattan, New York City, in 1920 to poor Irish immigrants, Sarah and Joseph Rogers.[57] Joseph died when Steve was a child, and Sarah died of pneumonia while Steve was a teen. By early 1940, before America's entry into World War II, Rogers is a tall, scrawny fine arts student specializing in illustration and a comic book writer and artist.
 
 Disturbed by Adolf Hitler's rise to power, Rogers attempts to enlist but is rejected due to his frail body. His resolution attracts the notice of U.S. Army General Chester Phillips and "Project: Rebirth". Rogers is used as a test subject for the Super-Soldier project, receiving a special serum made by "Dr. Josef Reinstein",[58][59] later retroactively changed to a code name for the scientist Abraham Erskine.[60]
 
@@ -105,7 +105,7 @@ The last of these other official Captains, William Burnside,[76] was a history g
 
 Years later, the superhero team the Avengers discovers Steve Rogers' body in the North Atlantic. After he revives, they piece together that Rogers has been preserved in a block of ice since 1945, surviving because of his enhancements from Project: Rebirth. The block began to melt after the Sub-Mariner, enraged that an Inuit tribe is worshipping the frozen figure, throws it into the ocean.[80] Rogers accepts membership in the Avengers, and his experience in individual combat service and his time with the Invaders makes him a valuable asset. He quickly assumes leadership[81] and has typically returned to that position throughout the team's history.
 
-CaptainAmericaV1-180.jpg and Frank Giacoia.]] Captain America is plagued by guilt for having been unable to prevent Bucky's death. Although he takes the young Rick Jones (who closely resembles Bucky) under his tutelage, he refuses for some time to allow Jones to take up the Bucky identity, not wishing to be responsible for another youth's death. Insisting that his hero move on from that loss, Jones convinces Rogers to let him don the Bucky costume,[82] but this partnership lasts only a short time; a disguised Red Skull, impersonating Rogers with the help of the Cosmic Cube, drives Jones away.
+and Frank Giacoia.]] Captain America is plagued by guilt for having been unable to prevent Bucky's death. Although he takes the young Rick Jones (who closely resembles Bucky) under his tutelage, he refuses for some time to allow Jones to take up the Bucky identity, not wishing to be responsible for another youth's death. Insisting that his hero move on from that loss, Jones convinces Rogers to let him don the Bucky costume,[82] but this partnership lasts only a short time; a disguised Red Skull, impersonating Rogers with the help of the Cosmic Cube, drives Jones away.
 
 Rogers reunites with his old war comrade Nick Fury, who is similarly well-preserved due to the "Infinity Formula". As a result, Rogers regularly undertakes missions for the security agency S.H.I.E.L.D., for which Fury is public director.[83] Through Fury, Rogers befriends Sharon Carter, a S.H.I.E.L.D. agent,[84] with whom he eventually begins a romantic relationship.
 
@@ -115,7 +115,7 @@ The series dealt with the Marvel Universe's version of the Watergate scandal,[95
 
 1980s to 1990s
 
-Captain_America_350.jpg and Al Milgrom.]] The 1980s included a run by writer Roger Stern and artist John Byrne. Stern had Rogers consider a run for President of the United States in _Captain America_ #250 (June 1980),[102] an idea originally developed by Roger McKenzie and Don Perlin. Stern, in his capacity as editor of the title, originally rejected the idea but later changed his mind about the concept.[103][104] McKenzie and Perlin received credit for the idea on the letters page at Stern's insistence.[105] Stern additionally introduced a new love interest, law student Bernie Rosenthal, in _Captain America_ #248 (Aug. 1980).[106]
+and Al Milgrom.]] The 1980s included a run by writer Roger Stern and artist John Byrne. Stern had Rogers consider a run for President of the United States in _Captain America_ #250 (June 1980),[102] an idea originally developed by Roger McKenzie and Don Perlin. Stern, in his capacity as editor of the title, originally rejected the idea but later changed his mind about the concept.[103][104] McKenzie and Perlin received credit for the idea on the letters page at Stern's insistence.[105] Stern additionally introduced a new love interest, law student Bernie Rosenthal, in _Captain America_ #248 (Aug. 1980).[106]
 
 Writer J. M. DeMatteis revealed the true face and full origin of the Red Skull in _Captain America_ #298–300, and had Captain America take on Jack Monroe, Nomad, as a partner for a time.[107] The heroes gathered by the Beyonder elect Rogers as leader during their stay on Battleworld. Homophobia is dealt with as Rogers runs into a childhood friend named Arnold Roth who is gay.[108][109]
 
@@ -143,7 +143,7 @@ _Captain America: Reborn_ #1 (Aug. 2009) reveals that Rogers did not die, as the
 
 2010s
 
-Steve_Rogers_Super_Soldier.jpg and Tim Townsend.]] Following the company-wide "Dark Reign" and "Siege" story arcs, the Steve Rogers character became part of the "Heroic Age" arc.[135]
+and Tim Townsend.]] Following the company-wide "Dark Reign" and "Siege" story arcs, the Steve Rogers character became part of the "Heroic Age" arc.[135]
 
 The President of the United States appoints Rogers, in his civilian identity, as "_America's top cop_" and head of the nation's security,[136] replacing Norman Osborn as the tenth _Executive Director of S.H.I.E.L.D._. The Superhuman Registration Act is repealed and Rogers re-establishes the superhero team the Avengers, spearheaded by Iron Man, Thor, and Bucky as Captain America. In the miniseries _Steve Rogers: Super Soldier_, he encounters Jacob Erskine, the grandson of Professor Abraham Erskine and the son of Tyler Paxton, one of Rogers' fellow volunteers in the Super-Soldier program. Shortly afterward, Rogers becomes leader of the Secret Avengers, a black-ops superhero team.
 
@@ -180,7 +180,7 @@ In the 2017 "Secret Empire" storyline, Rogers, as the head of S.H.I.E.L.D, uses 
 
 Powers and abilities
 
-CAtransformation.png and Jack Kirby.]]
+and Jack Kirby.]]
 
 Tactician and field commander
 
@@ -198,7 +198,7 @@ Steve Rodgers is often considered to be the pinnacle of human potential and oper
 
 Weapons and equipment
 
-Captain_America's_shield.svg Captain America has used multiple shields throughout his history, the most prevalent of which is a nigh-indestructible disc-shaped shield made from an experimental alloy of steel and the fictional vibranium.[195][196] The shield was cast by American metallurgist Dr. Myron MacLain, who was contracted by the U.S. government, from orders of President Franklin D. Roosevelt, to create an impenetrable substance to use for tanks during World War II.[197] This alloy was created by accident and never duplicated, although efforts to reverse-engineer it resulted in the discovery of adamantium.[198]
+Captain America has used multiple shields throughout his history, the most prevalent of which is a nigh-indestructible disc-shaped shield made from an experimental alloy of steel and the fictional vibranium.[195][196] The shield was cast by American metallurgist Dr. Myron MacLain, who was contracted by the U.S. government, from orders of President Franklin D. Roosevelt, to create an impenetrable substance to use for tanks during World War II.[197] This alloy was created by accident and never duplicated, although efforts to reverse-engineer it resulted in the discovery of adamantium.[198]
 
 Captain America often uses his shield as an offensive throwing weapon. The first instance of Captain America's trademark ricocheting shield-toss occurs in Stan Lee's first comics writing, the two-page text story "Captain America Foils the Traitor's Revenge" in _Captain America Comics_ #3 (May 1941).[199] The legacy of the shield among other comics characters includes the time-traveling mutant superhero Cable telling Captain America that his shield still exists in one of the possible futures; Cable carries it into battle and brandishes it as a symbol.[200]
 

@@ -14,17 +14,17 @@ File:Interior of St Bartholomew's Chapel, Botley - geograph.org.uk - 221854 (cro
 
 First Call vehicles
 
-First_Call_Vehicle_Funeral_Home.jpg A First Call vehicle is used to pick up the remains of a recently deceased person, and transport that person to the funeral home for preparation.
+A First Call vehicle is used to pick up the remains of a recently deceased person, and transport that person to the funeral home for preparation.
 
 
 Rail transport
 
-Clapham_Junction_Sir_Winston_Churchill's_Funeral_Train_geograph-2675150-by-Ben-Brooksbank.jpg A few big cities provided special rail lines and/or funeral trolley cars and/or subway cars to carry bodies and mourners to remote cemeteries such as in Sydney, NSW and London and tram services were common. Chicago, Illinois operated 3 different funeral trolley cars over the elevated tracks in downtown Chicago to outlying cemeteries in the western suburbs. A special funeral bureau handled the funeral trains which sometimes operated 3–4 funeral trains a week over the "L".
+A few big cities provided special rail lines and/or funeral trolley cars and/or subway cars to carry bodies and mourners to remote cemeteries such as in Sydney, NSW and London and tram services were common. Chicago, Illinois operated 3 different funeral trolley cars over the elevated tracks in downtown Chicago to outlying cemeteries in the western suburbs. A special funeral bureau handled the funeral trains which sometimes operated 3–4 funeral trains a week over the "L".
 
 
 Motorcycle hearses
 
-Motorcycle-Hearse.jpg-style hearse.]]
+-style hearse.]]
 
 The motorcycle hearse has become popular and is often used during the funeral of motorcycle enthusiasts.[7] This type of hearse is either a motorcycle with a special sidecar built to carry a casket or an urn at the side of the rider, or it is a trike that carries the casket behind the rider.
 
@@ -41,7 +41,7 @@ Perhaps owing to the morbid associations of the hearse, its luxurious accommodat
 
 North America
 
-Hearse-r.jpg Usually more luxurious automobile brands are used as a base for funeral cars; the vast majority of hearses in the United States and Canada are Cadillacs and Lincolns.
+Usually more luxurious automobile brands are used as a base for funeral cars; the vast majority of hearses in the United States and Canada are Cadillacs and Lincolns.
 
 The Cadillac Commercial Chassis was a longer and strengthened version of the long-wheelbase Fleetwood limousine frame to carry the extra weight of bodywork, rear deck and cargo. The rear of the Cadillac commercial chassis was considerably lower than the passenger car frame, thereby lowering the rear deck height as well for ease of loading and unloading. The Cadillac hearses were shipped as incomplete cars to coachbuilders for final assembly.
 
@@ -53,7 +53,7 @@ Until the 1970s, it was common for many hearses to also be used as ambulances, d
 
 Europe
 
-2013_Mercedes-Benz_E250_BlueEFFICIENCY_SE_CDi_Automatic_Hearse_2.1.jpg hearse.]] Coachbuilders modify Mercedes-Benz, Jaguar, Opel, Ford, Vauxhall Motors and Volvo products to hearses. Some second-hand Rolls-Royce cars have traditionally been used as hearses though the high cost of newer models is generally considered prohibitive.
+hearse.]] Coachbuilders modify Mercedes-Benz, Jaguar, Opel, Ford, Vauxhall Motors and Volvo products to hearses. Some second-hand Rolls-Royce cars have traditionally been used as hearses though the high cost of newer models is generally considered prohibitive.
 
 Japan
 
@@ -67,7 +67,7 @@ The ornaments on a Japanese-style hearse vary by region. Nagoya style decorates 
 
 Hong Kong
 
-HK_HH_Universal_Funeral_Parlour_D.JPG hearse]] In Hong Kong, light goods vehicles of Isuzu, Volkswagen and Ford are used as hearses by most of the privately operated funeral homes.[19][20][21]
+hearse]] In Hong Kong, light goods vehicles of Isuzu, Volkswagen and Ford are used as hearses by most of the privately operated funeral homes.[19][20][21]
 
 Singapore
 
@@ -76,7 +76,7 @@ In Singapore, most hearses are built upon commercial van chassis, such as the To
 
 In popular culture
 
-Cadillac_Hearse.jpg Amongst enthusiasts, the 1959 Cadillac Miller-Meteor hearse is considered one of the most desirable, due to its especially ornate styling and appearances in feature films, notably an ambulance version (Ecto-1) in the motion picture _Ghostbusters_.
+Amongst enthusiasts, the 1959 Cadillac Miller-Meteor hearse is considered one of the most desirable, due to its especially ornate styling and appearances in feature films, notably an ambulance version (Ecto-1) in the motion picture _Ghostbusters_.
 
 In the 1971 film _Harold and Maude_ the character Harold, played by Bud Cort, drives two hearses: originally a 1959 Cadillac Superior 3-way; and then later a custom hearse he makes from a 1971 Jaguar XK-E 4.2 Series II. The Cadillac hearse used in the film is now privately owned in central California and is preserved, looking essentially identical to the way it did in the film. Only one Jaguar "hearse" was built and was destroyed as part of the film's storyline. Several _Harold and Maude_ fans have since built similar hearses from E-Types and photos of them can be found online. Jane Goldman, wife of British TV and radio personality Jonathan Ross, owns a similar style "hearse" built from a Jaguar XK8 convertible.
 
@@ -93,7 +93,7 @@ In the Canadian television program _Degrassi_, character Eli Goldsworthy, a 'dea
 
 Other uses of the term
 
-300 effigy at Warwick, surmounted by a hearse for a pall covering]]
+effigy at Warwick, surmounted by a hearse for a pall covering]]
 
 -   In the traditional Holy Week services of the Roman Catholic Church and some Anglican churches, a candelabrum with 15 candles on it is used for the service of Tenebrae. This candlestick is referred to as a "hearse".
 -   The same name is used for a similar but more complex structure placed above the coffin of distinguished persons at their funeral and perhaps subsequently above their tombs.[24]

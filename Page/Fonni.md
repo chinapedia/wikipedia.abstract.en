@@ -7,8 +7,6 @@ Etymology
 
 The term "Fonni/-e" probably derives from the Latin _fons_, meaning "fountain" or "god of the sources". In fact the village contains numerous spring water fountains.
 
-fonni_san_giov.jpg
-
 
 Culture
 
@@ -18,8 +16,6 @@ The local costumes are extremely picturesque, and are well seen on the day of St
 Neighborhoods
 
 Neighborhoods in Fonni are called "Rioni" of these the oldest is called _su piggiu_ or the peak, probably derived by the fact this is the highest and first layer of the village. Others include _puppuai_ and _cresiedda_ to the south, and _logotza_ to the east.
-
-Fonni_(07).JPG
 
 
 References

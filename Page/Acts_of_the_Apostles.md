@@ -9,13 +9,13 @@ Luke–Acts is an attempt to answer a theological problem, namely how the Messia
 
 Composition and setting
 
-ApostleFedorZubov.jpg by Fyodor Zubov, 1660]]
+by Fyodor Zubov, 1660]]
 
 Title, unity of Luke–Acts, authorship and date
 
 The title "Acts of the Apostles" (Greek _Praxeis Apostolon_) was first used by Irenaeus in the late 2nd century. It is not known whether this was an existing title or one invented by Irenaeus; it does seem clear, however, that it was not given by the author.
 
-The Gospel of Luke and Acts make up a two-volume work which scholars call Luke–Acts. Together they account for 27.5% of the New Testament, the largest contribution attributed to a single author, providing the framework for both the Church's liturgical calendar and the historical outline into which later generations have fitted their idea of the story of Jesus and the early church. Деяния_Апостолов.jpg The author is not named in either volume. According to Church tradition dating from the 2nd century, he was the "Luke" named as a companion of the apostle Paul in three of the letters attributed to Paul himself; this view is still sometimes advanced, but "a critical consensus emphasizes the countless contradictions between the account in Acts and the authentic Pauline letters." (An example can be seen by comparing Acts's accounts of Paul's conversion (Acts 9:1–31, 22:6–21, and 26:9–23) with Paul's own statement that he remained unknown to Christians in Judea after that event (Galatians 1:17–24).) The author "is an admirer of Paul, but does not share Paul's own view of himself as an apostle; his own theology is considerably different from Paul's on key points and does not represent Paul's own views accurately." He was educated, a man of means, probably urban, and someone who respected manual work, although not a worker himself; this is significant, because more high-brow writers of the time looked down on the artisans and small business people who made up the early church of Paul and were presumably Luke's audience.
+The Gospel of Luke and Acts make up a two-volume work which scholars call Luke–Acts. Together they account for 27.5% of the New Testament, the largest contribution attributed to a single author, providing the framework for both the Church's liturgical calendar and the historical outline into which later generations have fitted their idea of the story of Jesus and the early church. The author is not named in either volume. According to Church tradition dating from the 2nd century, he was the "Luke" named as a companion of the apostle Paul in three of the letters attributed to Paul himself; this view is still sometimes advanced, but "a critical consensus emphasizes the countless contradictions between the account in Acts and the authentic Pauline letters." (An example can be seen by comparing Acts's accounts of Paul's conversion (Acts 9:1–31, 22:6–21, and 26:9–23) with Paul's own statement that he remained unknown to Christians in Judea after that event (Galatians 1:17–24).) The author "is an admirer of Paul, but does not share Paul's own view of himself as an apostle; his own theology is considerably different from Paul's on key points and does not represent Paul's own views accurately." He was educated, a man of means, probably urban, and someone who respected manual work, although not a worker himself; this is significant, because more high-brow writers of the time looked down on the artisans and small business people who made up the early church of Paul and were presumably Luke's audience.
 
 While no proposed date for the composition of Acts is universally accepted, the most common scholarly position is to date Luke–Acts to 80–90 AD, on the grounds that it uses Mark as a source, looks back on the destruction of Jerusalem, and does not show any awareness of the letters of Paul (which began circulating late in the first century). The earliest possible date for the composition of Acts is set by the events with which it ends, Paul's imprisonment in Rome c. 63 AD, but such an early dating is a minority position. The last possible date would be set by its first definite citation by another author, but there is no unanimity on this; some scholars find echoes of Acts in a work from c. 95 AD called 1 Clement, while others see no indisputable citation until the middle of the 2nd century. A minority of scholars, necessarily in the latter camp, conclude that Acts dates to the 2nd century, believing that it shows awareness of the letters of Paul, the works of Josephus, or the writings of Marcion.
 
@@ -40,7 +40,7 @@ Acts (or Luke–Acts) is intended as a work of "edification." Edification means 
 
 Structure and content
 
-Minuscule_223_(GA)_f11r.jpg]]
+]]
 
 Structure
 
@@ -132,7 +132,7 @@ The mission to the Gentiles is promoted from Antioch and confirmed at meeting in
 
 Theology
 
-Saint_Paul.jpg, in the Château de Chantilly]] Prior to the 1950s, Luke–Acts was seen as a historical work, written to defend Christianity before the Romans or Paul against his detractors; since then, however, the tendency has been to see the work as primarily theological. Luke's theology is expressed primarily through his overarching plot, the way scenes, themes and characters combine to construct his specific worldview. His "salvation history" stretches from the Creation to the present time of his readers, in three ages: first, the time of "the Law and the Prophets" (Luke 16:16), the period beginning with Genesis and ending with the appearance of John the Baptist (Luke 1:5–3:1); second, the epoch of Jesus, in which the Kingdom of God was preached (Luke 3:2–24:51); and finally the period of the Church, which began when the risen Christ was taken into Heaven, and would end with his second coming.
+, in the Château de Chantilly]] Prior to the 1950s, Luke–Acts was seen as a historical work, written to defend Christianity before the Romans or Paul against his detractors; since then, however, the tendency has been to see the work as primarily theological. Luke's theology is expressed primarily through his overarching plot, the way scenes, themes and characters combine to construct his specific worldview. His "salvation history" stretches from the Creation to the present time of his readers, in three ages: first, the time of "the Law and the Prophets" (Luke 16:16), the period beginning with Genesis and ending with the appearance of John the Baptist (Luke 1:5–3:1); second, the epoch of Jesus, in which the Kingdom of God was preached (Luke 3:2–24:51); and finally the period of the Church, which began when the risen Christ was taken into Heaven, and would end with his second coming.
 
 Luke–Acts is an attempt to answer a theological problem, namely how the Messiah promised to the Jews came to have an overwhelmingly non-Jewish church; the answer it provides, and its central theme, is that the message of Christ was sent to the Gentiles because the Jews rejected it. This theme is introduced at the opening of the Gospel of Luke, when Jesus, rejected in Nazareth, recalls that the prophets were rejected by Israel and accepted by Gentiles; at the end of the gospel he commands his disciples to preach his message to all nations, "beginning from Jerusalem." He repeats the command in Acts, telling them to preach "in Jerusalem, in all Judea and Samaria, and to the end of the Earth." They then proceed to do so, in the order outlined: first Jerusalem, then Judea, then Samaria, then the entire (Roman) world.
 
@@ -145,7 +145,7 @@ On the other hand, events such as the imprisonment of Paul at the hands of the e
 
 Comparison with other writings
 
-Probably_Valentin_de_Boulogne_-_Saint_Paul_Writing_His_Epistles_-_Google_Art_Project.jpg, 17th century]]
+, 17th century]]
 
 Gospel of Luke
 

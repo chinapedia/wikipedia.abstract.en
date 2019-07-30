@@ -1,4 +1,4 @@
-Symbolics3640_Modified.JPG Lisp Machine: an early platform for expert systems.]]
+Lisp Machine: an early platform for expert systems.]]
 
 In artificial intelligence, an EXPERT SYSTEM is a computer system that emulates the decision-making ability of a human expert.[1] Expert systems are designed to solve complex problems by reasoning through bodies of knowledge, represented mainly as if–then rules rather than through conventional procedural code.[2] The first expert systems were created in the 1970s and then proliferated in the 1980s.[3] Expert systems were among the first truly successful forms of artificial intelligence (AI) software.[4] An expert system is divided into two subsystems: the inference engine and the knowledge base. The knowledge base represents facts and rules. The inference engine applies the rules to the known facts to deduce new facts. Inference engines can also include explanation and debugging abilities.[5]
 

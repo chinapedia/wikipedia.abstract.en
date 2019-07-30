@@ -1,8 +1,8 @@
-Dinitrogen-3D-vdW.png of the diatomic molecule dinitrogen, N₂]]
+of the diatomic molecule dinitrogen, N₂]]
 
 DIATOMIC MOLECULES are molecules composed of only two atoms, of the same or different chemical elements. The prefix _di-_ is of Greek origin, meaning "two". If a diatomic molecule consists of two atoms of the same element, such as hydrogen (H₂) or oxygen (O₂), then it is said to be homonuclear. Otherwise, if a diatomic molecule consists of two different atoms, such as carbon monoxide (CO) or nitric oxide (NO), the molecule is said to be heteronuclear.
 
-Diatomic_molecules_periodic_table.svg showing the elements that exist as homonuclear diatomic molecules under typical laboratory conditions.]]
+showing the elements that exist as homonuclear diatomic molecules under typical laboratory conditions.]]
 
 The only chemical elements that form stable homonuclear diatomic molecules at standard temperature and pressure (STP) (or typical laboratory conditions of 1 bar and 25 °C) are the gases hydrogen (H₂), nitrogen (N₂), oxygen (O₂), fluorine (F₂), and chlorine (Cl₂).[1]
 

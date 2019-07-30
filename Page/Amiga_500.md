@@ -41,8 +41,6 @@ Whenever the computer is powered on a self-diagnostic test is run that will show
 
 Technical specifications
 
-Amiga_1.3_and_disks.jpg
-
 -   OCS (1.2 & 1.3 models) or ECS (1.3 and 500+ 2.04 models) chipset. ECS revisions of the chipset made PAL/NTSC mode switchable in software.
     -   Graphics can be of arbitrary dimensions, resolution and colour depth, even on the same screen.
     -   Without using overscan, the graphics can be 320 or 640 pixels wide by 200/256 or 400/512 pixels tall.
@@ -64,7 +62,7 @@ Max 6 bpp. The Amiga can show multiple resolution modes at the same time, splitt
 
 Connectors
 
-AMIGA500-3.jpg Amiga_520_1.jpg output, to be connected to a TV]]
+output, to be connected to a TV]]
 
 -   Two DE9M Atari joystick ports for joysticks or mice
 -   Stereo audio (RCA connectors 1 V p-p)
@@ -120,7 +118,7 @@ Memory map
 
 Trap-door expansion 501
 
-RAM_512K_for_Amiga_500_ubt.jpeg A popular expansion for the Amiga 500 was the Amiga 501 circuit board that can be installed underneath the computer behind a plastic cover. It contains RAM configured by default as "Slow RAM" or "trap-door RAM" and a battery-backed real-time clock (RTC). However, the RAM is pseudo-fast RAM, only accessible by the processor, but still as slow as chip RAM. The motherboard can be modified to relocate the trap-door RAM to the chip memory pool, provided a compatible Agnus chip is fitted on the motherboard.
+A popular expansion for the Amiga 500 was the Amiga 501 circuit board that can be installed underneath the computer behind a plastic cover. It contains RAM configured by default as "Slow RAM" or "trap-door RAM" and a battery-backed real-time clock (RTC). However, the RAM is pseudo-fast RAM, only accessible by the processor, but still as slow as chip RAM. The motherboard can be modified to relocate the trap-door RAM to the chip memory pool, provided a compatible Agnus chip is fitted on the motherboard.
 
 
 Notable uses

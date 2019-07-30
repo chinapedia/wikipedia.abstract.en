@@ -1,4 +1,4 @@
-Zn_reaction_with_HCl.JPG, a typical metal, reacting with hydrochloric acid, a typical acid]] An ACID is a molecule or ion capable of donating a proton (hydrogen ion H⁺), or, alternatively, capable of forming a covalent bond with an electron pair (a Lewis acid).[1]
+, a typical metal, reacting with hydrochloric acid, a typical acid]] An ACID is a molecule or ion capable of donating a proton (hydrogen ion H⁺), or, alternatively, capable of forming a covalent bond with an electron pair (a Lewis acid).[1]
 
 The first category of acids is the proton donors or Brønsted–Lowry acids. In the special case of aqueous solutions, proton donors form the hydronium ion H₃O⁺ and are known as Arrhenius acids. Brønsted and Lowry generalized the Arrhenius theory to include non-aqueous solvents. A Brønsted or Arrhenius acid usually contains a hydrogen atom bonded to a chemical structure that is still energetically favorable after loss of H⁺.
 
@@ -21,8 +21,6 @@ Hydronium ions are acids according to all three definitions. Although alcohols a
 
 Arrhenius acids
 
-Arrhenius2.jpg
-
 The Swedish chemist Svante Arrhenius attributed the properties of acidity to hydrogen ions (H⁺) or protons in 1884. An ARRHENIUS ACID is a substance that, when added to water, increases the concentration of H⁺ ions in the water.[8][9] Note that chemists often write H⁺(_aq_) and refer to the hydrogen ion when describing acid-base reactions but the free hydrogen nucleus, a proton, does not exist alone in water, it exists as the hydronium ion, H₃O⁺. Thus, an Arrhenius acid can also be described as a substance that increases the concentration of hydronium ions when added to water. Examples include molecular substances such as HCl and acetic acid.
 
 An Arrhenius base, on the other hand, is a substance which increases the concentration of hydroxide (OH^(−)) ions when dissolved in water. This decreases the concentration of hydronium because the ions react to form H₂O molecules:
@@ -35,7 +33,7 @@ In an acidic solution, the concentration of hydronium ions is greater than 10^(�
 
 Brønsted–Lowry acids
 
-Acetic-acid-dissociation-3D-balls.png, a weak acid, donates a proton (hydrogen ion, highlighted in green) to water in an equilibrium reaction to give the acetate ion and the hydronium ion. Red: oxygen, black: carbon, white: hydrogen.]]
+, a weak acid, donates a proton (hydrogen ion, highlighted in green) to water in an equilibrium reaction to give the acetate ion and the hydronium ion. Red: oxygen, black: carbon, white: hydrogen.]]
 
 While the Arrhenius concept is useful for describing many reactions, it is also quite limited in its scope. In 1923 chemists Johannes Nicolaus Brønsted and Thomas Martin Lowry independently recognized that acid-base reactions involve the transfer of a proton. A BRØNSTED-LOWRY ACID (or simply Brønsted acid) is a species that donates a proton to a Brønsted-Lowry base.[10] Brønsted-Lowry acid-base theory has several advantages over Arrhenius theory. Consider the following reactions of acetic acid (CH₃COOH), the organic acid that gives vinegar its characteristic taste:
 
@@ -57,7 +55,7 @@ Lewis acids
 
 A third, only marginally related concept was proposed in 1923 by Gilbert N. Lewis, which includes reactions with acid-base characteristics that do not involve a proton transfer. A LEWIS ACID is a species that accepts a pair of electrons from another species; in other words, it is an electron pair acceptor.[11] Brønsted acid-base reactions are proton transfer reactions while Lewis acid-base reactions are electron pair transfers. Many Lewis acids are not Brønsted-Lowry acids. Contrast how the following reactions are described in terms of acid-base chemistry:
 
-    LewisAcid.png
+
 
 In the first reaction a fluoride ion, F^(−), gives up an electron pair to boron trifluoride to form the product tetrafluoroborate. Fluoride "loses" a pair of valence electrons because the electrons shared in the B—F bond are located in the region of space between the two atomic nuclei and are therefore more distant from the fluoride nucleus than they are in the lone fluoride ion. BF₃ is a Lewis acid because it accepts the electron pair from fluoride. This reaction cannot be described in terms of Brønsted theory because there is no proton transfer. The second reaction can be described using either theory. A proton is transferred from an unspecified Brønsted acid to ammonia, a Brønsted base; alternatively, ammonia acts as a Lewis base and transfers a lone pair of electrons to form a bond with a hydrogen ion. The species that gains the electron pair is the Lewis acid; for example, the oxygen atom in H₃O⁺ gains a pair of electrons when one of the H—O bonds is broken and the electrons shared in the bond become localized on oxygen. Depending on the context, a Lewis acid may also be described as an oxidizer or an electrophile. Organic Brønsted acids, such as acetic, citric, or oxalic acid, are not Lewis acids.[12] They dissociate in water to produce a Lewis acid, H⁺, but at the same time also yield an equal amount of a Lewis base (acetate, citrate, or oxalate, respectively, for the acids mentioned). Few, if any, of the acids discussed in the following are Lewis acids.
 
@@ -144,7 +142,7 @@ where _K_₀ = 1 and the other K-terms are the dissociation constants for the ac
 
 Neutralization
 
-Hydrochloric_acid_ammonia.jpg (in beaker) reacting with ammonia fumes to produce ammonium chloride (white smoke).]] Neutralization is the reaction between an acid and a base, producing a salt and neutralized base; for example, hydrochloric acid and sodium hydroxide form sodium chloride and water:
+(in beaker) reacting with ammonia fumes to produce ammonium chloride (white smoke).]] Neutralization is the reaction between an acid and a base, producing a salt and neutralized base; for example, hydrochloric acid and sodium hydroxide form sodium chloride and water:
 
     HCl_((aq)) + NaOH_((aq)) → H₂O_((l)) + NaCl_((aq))
 
@@ -165,7 +163,7 @@ To determine the concentration of an acid in an aqueous solution, an acid-base t
 
 Example: Diprotic acid
 
-Titration_alanine.jpg, a diprotic amino acid.[15] Point 2 is the first equivalent point where the amount of NaOH added equals the amount of alanine in the original solution.]] For each diprotic acid titration curve, from left to right, there are two midpoints, two equivalence points, and two buffer regions.[16]
+, a diprotic amino acid.[15] Point 2 is the first equivalent point where the amount of NaOH added equals the amount of alanine in the original solution.]] For each diprotic acid titration curve, from left to right, there are two midpoints, two equivalence points, and two buffer regions.[16]
 
 Equivalence points
 
@@ -190,7 +188,7 @@ Acids are often used to remove rust and other corrosion from metals in a process
 
 In food
 
-Lata_Coca_Cola.JPG Tartaric acid is an important component of some commonly used foods like unripened mangoes and tamarind. Natural fruits and vegetables also contain acids. Citric acid is present in oranges, lemon and other citrus fruits. Oxalic acid is present in tomatoes, spinach, and especially in carambola and rhubarb; rhubarb leaves and unripe carambolas are toxic because of high concentrations of oxalic acid. Ascorbic acid (Vitamin C) is an essential vitamin for the human body and is present in such foods as amla (Indian gooseberry), lemon, citrus fruits, and guava.
+Tartaric acid is an important component of some commonly used foods like unripened mangoes and tamarind. Natural fruits and vegetables also contain acids. Citric acid is present in oranges, lemon and other citrus fruits. Oxalic acid is present in tomatoes, spinach, and especially in carambola and rhubarb; rhubarb leaves and unripe carambolas are toxic because of high concentrations of oxalic acid. Ascorbic acid (Vitamin C) is an essential vitamin for the human body and is present in such foods as amla (Indian gooseberry), lemon, citrus fruits, and guava.
 
 Many acids can be found in various kinds of food as additives, as they alter their taste and serve as preservatives. Phosphoric acid, for example, is a component of cola drinks. Acetic acid is used in day-to-day life as vinegar. Citric acid is used as a preservative in sauces and pickles.
 
@@ -211,7 +209,7 @@ Acids are used as catalysts in industrial and organic chemistry; for example, su
 
 Biological occurrence
 
-Aminoacid.png.]]Many biologically important molecules are acids. Nucleic acids, which contain acidic phosphate groups, include DNA and RNA. Nucleic acids contain the genetic code that determines many of an organism's characteristics, and is passed from parents to offspring. DNA contains the chemical blueprint for the synthesis of proteins which are made up of amino acid subunits. Cell membranes contain fatty acid esters such as phospholipids.
+.]]Many biologically important molecules are acids. Nucleic acids, which contain acidic phosphate groups, include DNA and RNA. Nucleic acids contain the genetic code that determines many of an organism's characteristics, and is passed from parents to offspring. DNA contains the chemical blueprint for the synthesis of proteins which are made up of amino acid subunits. Cell membranes contain fatty acid esters such as phospholipids.
 
 An α-amino acid has a central carbon (the α or _alpha_ carbon) which is covalently bonded to a carboxyl group (thus they are carboxylic acids), an amino group, a hydrogen atom and a variable group. The variable group, also called the R group or side chain, determines the identity and many of the properties of a specific amino acid. In glycine, the simplest amino acid, the R group is a hydrogen atom, but in all other amino acids it is contains one or more carbon atoms bonded to hydrogens, and may contain other elements such as sulfur, oxygen or nitrogen. With the exception of glycine, naturally occurring amino acids are chiral and almost invariably occur in the L-configuration. Peptidoglycan, found in some bacterial cell walls contains some D-amino acids. At physiological pH, typically around 7, free amino acids exist in a charged form, where the acidic carboxyl group (-COOH) loses a proton (-COO^(−)) and the basic amine group (-NH₂) gains a proton (-NH). The entire molecule has a net neutral charge and is a zwitterion, with the exception of amino acids with basic or acidic side chains. Aspartic acid, for example, possesses one protonated amine and two deprotonated carboxyl groups, for a net charge of −1 at physiological pH.
 
@@ -225,7 +223,7 @@ Acid-base equilibrium plays a critical role in regulating mammalian breathing. O
 
 It is the decrease in pH that signals the brain to breathe faster and deeper, expelling the excess CO₂ and resupplying the cells with O₂.
 
-Aspirin-skeletal.svg (acetylsalicylic acid) is a carboxylic acid.]] Cell membranes are generally impermeable to charged or large, polar molecules because of the lipophilic fatty acyl chains comprising their interior. Many biologically important molecules, including a number of pharmaceutical agents, are organic weak acids which can cross the membrane in their protonated, uncharged form but not in their charged form (i.e. as the conjugate base). For this reason the activity of many drugs can be enhanced or inhibited by the use of antacids or acidic foods. The charged form, however, is often more soluble in blood and cytosol, both aqueous environments. When the extracellular environment is more acidic than the neutral pH within the cell, certain acids will exist in their neutral form and will be membrane soluble, allowing them to cross the phospholipid bilayer. Acids that lose a proton at the intracellular pH will exist in their soluble, charged form and are thus able to diffuse through the cytosol to their target. Ibuprofen, aspirin and penicillin are examples of drugs that are weak acids.
+(acetylsalicylic acid) is a carboxylic acid.]] Cell membranes are generally impermeable to charged or large, polar molecules because of the lipophilic fatty acyl chains comprising their interior. Many biologically important molecules, including a number of pharmaceutical agents, are organic weak acids which can cross the membrane in their protonated, uncharged form but not in their charged form (i.e. as the conjugate base). For this reason the activity of many drugs can be enhanced or inhibited by the use of antacids or acidic foods. The charged form, however, is often more soluble in blood and cytosol, both aqueous environments. When the extracellular environment is more acidic than the neutral pH within the cell, certain acids will exist in their neutral form and will be membrane soluble, allowing them to cross the phospholipid bilayer. Acids that lose a proton at the intracellular pH will exist in their soluble, charged form and are thus able to diffuse through the cytosol to their target. Ibuprofen, aspirin and penicillin are examples of drugs that are weak acids.
 
 
 Common acids

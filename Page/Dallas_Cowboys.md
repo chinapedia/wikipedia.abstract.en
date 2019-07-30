@@ -15,7 +15,7 @@ Marshall had a falling out with the Redskins band leader Barnee Breeskin. Breesk
 
 1970s
 
-1986_Jeno's_Pizza_-_01_-_Duane_Thomas.jpg.]] From 1970 through 1979, the Cowboys won 105 regular season games, more than any other NFL franchise during that span.[9] In addition, they appeared in 5 and won two Super Bowls, at the end of the 1971 and 1977 regular seasons.
+.]] From 1970 through 1979, the Cowboys won 105 regular season games, more than any other NFL franchise during that span.[9] In addition, they appeared in 5 and won two Super Bowls, at the end of the 1971 and 1977 regular seasons.
 
 1980s
 
@@ -23,7 +23,7 @@ Danny White became the Cowboys' starting quarterback in 1980 after quarterback R
 
 1981 brought another division championship for the Cowboys. They entered the 1981-82 NFL playoffs as the number 2 seed. Their first game of the postseason saw them blowout and shutout Tampa Bay 38–0. For the Conference Title game they were pitted against the San Francisco 49ers, the number 1 seed. Despite having a late 4th quarter 27–21 lead, they would lose to the 49ers 28–27. 49ers quarterback Joe Montana led his team to an 89-yard game-winning touchdown drive connecting to Dwight Clark in a play known as The Catch.
 
-1986_Jeno's_Pizza_-_02_-_Butch_Johnson.jpg The 1982 season was shortened after a player strike. With a 6–3 record Dallas made it to the playoffs for the 8th consecutive season. As the number 2 seed for the 1982–83 NFL playoffs they eliminated the Buccaneers 30–17 in the Wild Card round and dispatched the Packers 37–26 in the Divisional round to advance to their 3rd consecutive Conference championship game. 3 times was not a charm for the Cowboys as they fell 31–17 to division rival and eventual Super Bowl XVII champions, the Redskins.
+The 1982 season was shortened after a player strike. With a 6–3 record Dallas made it to the playoffs for the 8th consecutive season. As the number 2 seed for the 1982–83 NFL playoffs they eliminated the Buccaneers 30–17 in the Wild Card round and dispatched the Packers 37–26 in the Divisional round to advance to their 3rd consecutive Conference championship game. 3 times was not a charm for the Cowboys as they fell 31–17 to division rival and eventual Super Bowl XVII champions, the Redskins.
 
 For the 1983 season the Cowboys went 12–4 and made it once again to the playoffs but were defeated at home in the Wild Card by the Rams 24–17. Prior to the 1984 season, H.R. "Bum" Bright purchased the Dallas Cowboys from Clint Murchison, Jr. Dallas posted a 9–7 record that season but missed the playoffs for the first time in 10 seasons. After going 10–6 in 1985 and winning a division title, the Cowboys were blown out in the Divisional round at home to the Rams 20–0.
 
@@ -33,7 +33,7 @@ Jones immediately fired Tom Landry, the only head coach in franchise history, re
 
 1990s
 
-Johnson quickly returned the Cowboys to the NFL's elite. Skillful drafts added fullback Daryl Johnston and center Mark Stepnoski in 1989, running back Emmitt Smith in 1990, defensive tackle Russell Maryland and offensive tackle Erik Williams in 1991, and safety Darren Woodson in 1992. The young talent joined holdovers from the Landry era such as wide receiver Michael Irvin, guard Nate Newton, linebacker Ken Norton Jr., and offensive lineman Mark Tuinei, defensive lineman Jim Jeffcoat, and veteran pickups such as tight end Jay Novacek and defensive end Charles Haley. Texas_Stadium_-_Dallas_Cowboys_World_Champions_Mural.JPG Things started to look up for the franchise in 1990. On Week 1 Dallas won their first home game since September 1988 when they defeated the San Diego Chargers 17–14. They went 2–7 in their next 9 games but won 4 of their last 6 games to finish the season with a 4th place 7–9 record.
+Johnson quickly returned the Cowboys to the NFL's elite. Skillful drafts added fullback Daryl Johnston and center Mark Stepnoski in 1989, running back Emmitt Smith in 1990, defensive tackle Russell Maryland and offensive tackle Erik Williams in 1991, and safety Darren Woodson in 1992. The young talent joined holdovers from the Landry era such as wide receiver Michael Irvin, guard Nate Newton, linebacker Ken Norton Jr., and offensive lineman Mark Tuinei, defensive lineman Jim Jeffcoat, and veteran pickups such as tight end Jay Novacek and defensive end Charles Haley. Things started to look up for the franchise in 1990. On Week 1 Dallas won their first home game since September 1988 when they defeated the San Diego Chargers 17–14. They went 2–7 in their next 9 games but won 4 of their last 6 games to finish the season with a 4th place 7–9 record.
 
 Coming into 1991 the Cowboys replaced offensive coordinator Dave Shula with Norv Turner; the Cowboys raced to a 6–5 start, then defeated the previously-unbeaten Redskins despite injury to Troy Aikman. Backup Steve Beuerlein took over and the Cowboys finished 11–5. In the Wild Card round they defeated the Bears 17–13 for the Cowboys first playoff win since 1982. In the Divisional round their season ended in a 38–6 playoff rout by the Lions.
 
@@ -41,7 +41,7 @@ In 1992 Dallas set a team record for regular season wins with a 13–3 mark. The
 
 Despite starting the 1993 season 0–2, they again defeated the Buffalo Bills in Super Bowl XXVIII, 30–13 (becoming the first team in NFL history to win a Super Bowl after starting 0–2). Dallas finished the regular season 12–4 as the number 1 seed of the NFC. They defeated the Green Bay Packers 27–17 in the divisional round. In the NFC Conference Championship, Dallas beat the 49ers in Dallas, 38–21. Dallas sent a then-NFL record 11 players to the Pro Bowl in 1993: Aikman, safety Thomas Everett, Irvin, Johnston, Maryland, Newton, Norton, Novacek, Smith, Stepnoski, and Williams.
 
-Dallas_Cowboys_stadium_championship_banners_4.JPG Only weeks after Super Bowl XXVIII, however, friction between Johnson and Jones culminated in Johnson stunning the football world by announcing his resignation. Jones then hired former University of Oklahoma head coach Barry Switzer to replace Johnson. The Cowboys finished 12–4 in 1994. They once again clinched a first round bye and defeated Green Bay 35–9 in the Divisional Round. They missed the Super Bowl, however, after losing to the 49ers in the NFC Championship Game, 38–28.
+Only weeks after Super Bowl XXVIII, however, friction between Johnson and Jones culminated in Johnson stunning the football world by announcing his resignation. Jones then hired former University of Oklahoma head coach Barry Switzer to replace Johnson. The Cowboys finished 12–4 in 1994. They once again clinched a first round bye and defeated Green Bay 35–9 in the Divisional Round. They missed the Super Bowl, however, after losing to the 49ers in the NFC Championship Game, 38–28.
 
 Prior to the start of 1995 season Jerry Jones lured All-Pro cornerback Deion Sanders away from San Francisco. Dallas started the season 4–0 including shutting out their division rival New York Giants 35–0 at Giants Stadium to open their season. Emmitt Smith set an NFL record with 25 rushing touchdowns that season. They ended the season 12–4 and went into the playoffs as the number 1 seed. In the Divisional round they dispatched their division rival Eagles 30–11 to advance to their 4th consecutive NFC Conference Championship Game, in which they defeated Green Bay, 38–27. In Super Bowl XXX the Cowboys defeated the Pittsburgh Steelers 27–17 at Sun Devil Stadium for their fifth Super Bowl championship. Switzer joined Johnson as the only coaches to win a college football national championship and a Super Bowl.
 
@@ -136,8 +136,6 @@ Logos and uniforms
 
 Logo
 
-Cowboys_wordmark.svg
-
 The Dallas Cowboys' blue star logo, which represents Texas as "The Lone Star State," is one of the most well-known team logos in professional sports. The blue star originally was a solid shape until a white line and blue border was added in 1964. The logo has remained the same since. Today, the blue star has been extended to not only the Dallas Cowboys, but owner Jerry Jones' AFL team, the Dallas Desperados that have a similar logo based on that of the Cowboys. The blue star also is used on other entries like an imaging facility and storage facility.
 
 Uniforms
@@ -171,8 +169,6 @@ The only notable changes in the last 40 years were:
 
 During the 1976 season, the blue-white-blue stripe on the crown of the helmets were temporarily changed to red-white-blue to commemorate the United States' bicentennial anniversary.
 
-Cowboys_75anniv_throwback.png
-
 In 1994, the NFL celebrated their 75th Anniversary, and the Dallas Cowboys celebrated their back-to-back Super Bowl titles by unveiling a white "Double-Star" jersey on Thanksgiving Day. This jersey was used for special occasions and was worn throughout the 1994–1995 playoffs. During the same season, the Cowboys also wore their 1960–63 road jersey with a silver helmet for one game as part of a league-wide "throwback" policy.
 
 During the 1995 season, the team wore the navy "Double-Star" jersey for games at Washington and Philadelphia and permanently switched to solid color socks (royal blue for the white uniform, and navy blue for the dark uniform). The navy "Double-Star" jersey was not seen again until the NFL's _Classic Throwback Weekend_ on Thanksgiving Day 2001–2003.
@@ -188,8 +184,6 @@ The Cowboys also unveiled a navy uniform-white pants combination which was first
 Home/road jersey history
 
 In 1964, Tex Schramm started the tradition of the Cowboys wearing their white jersey at home, contrary to an unofficial rule that teams should wear colored jerseys at home. Schramm did this because he wanted fans to see a variety of opponents' colors at home games.[24][25][26] Since then, a number of other teams have worn their white uniforms at home, including the Miami Dolphins. According to Mike McCord, the Cowboys' equipment director, one of the reasons why the Cowboys started wearing white at home was because of the intense heat during Cowboys' home games at Texas Stadium.[27][28]
-
-Staubach_and_Lilly_HOF_jerseys.jpg
 
 Throughout the years, the Cowboys' blue jersey has been popularly viewed to be "jinxed" because the team often seemed to lose when they wore them. This purported curse drew attention after the team lost Super Bowl V with the blue jerseys.[29] However, the roots of the curse likely date back earlier to the 1968 divisional playoffs, when the blue-shirted Cowboys were upset by the Cleveland Browns in what turned out to be Don Meredith's final game with the Cowboys. Dallas's lone victory in a conference championship or Super Bowl wearing the blue jerseys was in the 1978 NFC Championship game against the Los Angeles Rams.
 
@@ -210,17 +204,17 @@ Stadiums
 
 Cotton Bowl
 
-CottonBowl.jpg The Cotton Bowl is a stadium which opened in 1932 and became known as "The House That Doak Built" due to the immense crowds that former SMU running back Doak Walker drew to the stadium during his college career in the late 1940s. Originally known as the Fair Park Bowl, it is located in Fair Park, site of the State Fair of Texas. Concerts or other events using a stage allow the playing field to be used for additional spectators. The Cotton Bowl was the longtime home of the annual Cotton Bowl Classic college football bowl game, for which the stadium is named. (Beginning with the January 2010 game, the Cotton Bowl Classic has been played at Cowboys Stadium in Arlington.) The Dallas Cowboys called the Cotton Bowl home for 11 years, from the team's formation in 1960 until 1971, when the Cowboys moved to Texas Stadium. It is the only Cowboys stadium within the Dallas city limits. The Cowboys hosted the Green Bay Packers for the 1966 NFL Championship at the Cotton Bowl.
+The Cotton Bowl is a stadium which opened in 1932 and became known as "The House That Doak Built" due to the immense crowds that former SMU running back Doak Walker drew to the stadium during his college career in the late 1940s. Originally known as the Fair Park Bowl, it is located in Fair Park, site of the State Fair of Texas. Concerts or other events using a stage allow the playing field to be used for additional spectators. The Cotton Bowl was the longtime home of the annual Cotton Bowl Classic college football bowl game, for which the stadium is named. (Beginning with the January 2010 game, the Cotton Bowl Classic has been played at Cowboys Stadium in Arlington.) The Dallas Cowboys called the Cotton Bowl home for 11 years, from the team's formation in 1960 until 1971, when the Cowboys moved to Texas Stadium. It is the only Cowboys stadium within the Dallas city limits. The Cowboys hosted the Green Bay Packers for the 1966 NFL Championship at the Cotton Bowl.
 
 Texas Stadium
 
-Texas_Stadium.jpeg For the majority of the franchise's history the Cowboys played their home games at Texas Stadium. Just outside the city of Dallas, the stadium was located in Irving. The stadium opened on October 24, 1971, at a cost of $35 million and with a seating capacity of 65,675. The stadium was famous for its hole-in-the-roof dome. The roof's worn paint had become so unsightly in the early 2000s that it was repainted in the summer of 2006 by the City of Irving. It was the first time the famed roof was repainted since Texas Stadium opened. The roof was structurally independent from the stadium it covered. The Cowboys lost their final game at Texas Stadium to the Baltimore Ravens, 33–24, on December 20, 2008. After Cowboys Stadium was opened in 2009, the Cowboys turned over the facility to the City of Irving.
+For the majority of the franchise's history the Cowboys played their home games at Texas Stadium. Just outside the city of Dallas, the stadium was located in Irving. The stadium opened on October 24, 1971, at a cost of $35 million and with a seating capacity of 65,675. The stadium was famous for its hole-in-the-roof dome. The roof's worn paint had become so unsightly in the early 2000s that it was repainted in the summer of 2006 by the City of Irving. It was the first time the famed roof was repainted since Texas Stadium opened. The roof was structurally independent from the stadium it covered. The Cowboys lost their final game at Texas Stadium to the Baltimore Ravens, 33–24, on December 20, 2008. After Cowboys Stadium was opened in 2009, the Cowboys turned over the facility to the City of Irving.
 
 In 2009, it was replaced as home of the Cowboys by Cowboys Stadium, which officially opened on May 27, 2009 in Arlington.[35] Texas Stadium was demolished by implosion on April 11, 2010.
 
 AT&T Stadium
 
-Cowboys_Stadium_field.jpg AT&T Stadium, previously named Cowboys Stadium, is a domed stadium with a retractable roof in Arlington. After failed negotiations to build a new stadium on the site of the Cotton Bowl, Jerry Jones, along with the city of Arlington, Texas, a suburb of Fort Worth, funded the stadium at a cost of $1.3 billion. The stadium is located in Tarrant County, the first time the Cowboys will call a stadium home outside of Dallas County. It was completed on May 29, 2009 and seats 80,000, but is expandable to seat up to 100,000. AT&T Stadium is the largest domed stadium in the world.[36]
+AT&T Stadium, previously named Cowboys Stadium, is a domed stadium with a retractable roof in Arlington. After failed negotiations to build a new stadium on the site of the Cotton Bowl, Jerry Jones, along with the city of Arlington, Texas, a suburb of Fort Worth, funded the stadium at a cost of $1.3 billion. The stadium is located in Tarrant County, the first time the Cowboys will call a stadium home outside of Dallas County. It was completed on May 29, 2009 and seats 80,000, but is expandable to seat up to 100,000. AT&T Stadium is the largest domed stadium in the world.[36]
 
 A highlight of AT&T Stadium is its gigantic, center-hung high-definition television screen, the largest in the world. The , scoreboard surpasses the screen that opened in 2009 at the renovated Kauffman Stadium in Kansas City as the world's largest.[37][38][39]
 

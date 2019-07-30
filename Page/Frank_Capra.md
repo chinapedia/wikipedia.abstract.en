@@ -90,7 +90,7 @@ The significance of the film's message was established further in France, shortl
 
 _Meet John Doe_ (1941)
 
-Meet_John_Doe_1941.jpg, Gary Cooper, Irving Bacon, Barbara Stanwyck, and James Gleason in _Meet John Doe_]] In 1941 Capra directed _Meet John Doe_ (1941), which some consider Capra's most controversial movie. The film's hero, played by Gary Cooper, is a former baseball player now bumming around, lacking goals. He is selected by a news reporter to represent the "common man," to capture the imagination of ordinary Americans. The film was released shortly before America became involved in World War II, and citizens were still in an isolationist mood. According to some historians, the film was made to convey a "deliberate reaffirmation of American values," though ones that seemed uncertain with respect to the future.
+, Gary Cooper, Irving Bacon, Barbara Stanwyck, and James Gleason in _Meet John Doe_]] In 1941 Capra directed _Meet John Doe_ (1941), which some consider Capra's most controversial movie. The film's hero, played by Gary Cooper, is a former baseball player now bumming around, lacking goals. He is selected by a news reporter to represent the "common man," to capture the imagination of ordinary Americans. The film was released shortly before America became involved in World War II, and citizens were still in an isolationist mood. According to some historians, the film was made to convey a "deliberate reaffirmation of American values," though ones that seemed uncertain with respect to the future.
 
 Film author Richard Glazer speculates that the film may have been autobiographical, "reflecting Capra's own uncertainties." Glazer describes how, "John's accidental transformation from drifter to national figure parallels Capra's own early drifting experience and subsequent involvement in movie making ... _Meet John Doe_, then, was an attempt to work out his own fears and questions."[39]
 
@@ -99,7 +99,7 @@ World War II years (1941–1945)
 
 Joining the Army after Pearl Harbor
 
-Frank_Capra.JPG Within four days after the Japanese Attack on Pearl Harbor on December 7, 1941, Capra quit his successful directing career in Hollywood and received a commission as a major in the United States Army. He also gave up his presidency of the Screen Directors Guild. Being 44 years of age, he was not asked to enlist, but, notes Friedman, "Capra had an intense desire to prove his patriotism to his adopted land."[40]
+Within four days after the Japanese Attack on Pearl Harbor on December 7, 1941, Capra quit his successful directing career in Hollywood and received a commission as a major in the United States Army. He also gave up his presidency of the Screen Directors Guild. Being 44 years of age, he was not asked to enlist, but, notes Friedman, "Capra had an intense desire to prove his patriotism to his adopted land."[40]
 
 Capra recalls some personal reasons for enlisting:
 
@@ -109,7 +109,7 @@ During the next four years of World War II, Capra's job was to head a special se
 
 Capra was assigned to work directly under Chief of Staff George C. Marshall, the most senior officer in command of the Army, who later created the Marshall Plan and was awarded a Nobel Peace Prize. Marshall chose to bypass the usual documentary film-making department, Signal Corps, because he felt they were not capable of producing "sensitive and objective troop information films." One colonel explained the importance of these future films to Capra:
 
-Capra-Army-45.jpg from General George C. Marshall, 1945]] During his first meeting with General Marshall, Capra was told his mission:
+from General George C. Marshall, 1945]] During his first meeting with General Marshall, Capra was told his mission:
 
 The films included the seven-episode _Why We Fight_ series – consisting of _Prelude to War_ (1942),[41] _The Nazis Strike_ (1942),[42] _Divide and Conquer_ (1943), _The Battle of Britain_ (1943), _The Battle of Russia_ (1943), _The Battle of China_ (1944), _War Comes to America_ (1945) – plus _Know Your Enemy: Japan_ (1945), _Here Is Germany_ (1945), _Tunisian Victory_ (1945), and _Two Down and One to Go_ (1945) that do not bear the _Why We Fight_ banner; as well as the African-American related film, _The Negro Soldier_ (1944).
 
@@ -124,7 +124,7 @@ Post-war career (1946–1961)
 
 _It's a Wonderful Life_ (1946)
 
-Guardian_angel_clarence.jpg and James Stewart]] After the war ended, along with directors William Wyler and George Stevens, Capra founded Liberty Films. Their studio became the first independent company of directors since United Artists in 1919 whose goal was to make films without interference by studio bosses. However, the only pictures completed by the studio were _It's a Wonderful Life_ (1946) and _State of the Union_ (1948).[46] The first of these was a box office disappointment, but was nominated for five Academy Awards.
+and James Stewart]] After the war ended, along with directors William Wyler and George Stevens, Capra founded Liberty Films. Their studio became the first independent company of directors since United Artists in 1919 whose goal was to make films without interference by studio bosses. However, the only pictures completed by the studio were _It's a Wonderful Life_ (1946) and _State of the Union_ (1948).[46] The first of these was a box office disappointment, but was nominated for five Academy Awards.
 
 While the film did not resonate with audiences in 1946, its popularity has grown through the years. In 1998, the American Film Institute (AFI) named it one of the best films ever made, putting it at 11th on AFI's 100 Years...100 Movies list of the top American films of all time. In 2006, the AFI put the film at the top of its AFI's 100 Years...100 Cheers list, ranking what AFI considers the most inspirational American movies of all time. It would become Capra's last film to win major acclaim—his successful years were now behind him, although he directed five more films over the next 14 years.[47]
 

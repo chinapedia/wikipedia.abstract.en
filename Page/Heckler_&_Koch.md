@@ -31,7 +31,7 @@ In 2003, HK Beteiligungs GmbH's business organization restructured as Heckler & 
 
 In 2004, Heckler & Koch was awarded a major handgun contract for the DHS, worth a potential $26.2 million for up to 65,000 handguns.[18] This contract ranks as the single largest handgun procurement contract in US law enforcement history.[19]
 
-Heckler_&_Koch_Oberndorf_01.jpg.]]
+.]]
 
 HK was contracted by the United States Army to produce the kinetic energy subsystem[20] (see: kinetic projectiles or kinetic energy penetrator) of the Objective Individual Combat Weapon, a planned replacement for the M16/M203 grenade launcher combination. The OICW was designed to fire 5.56 mm bullets and 25 mm grenades. The kinetic energy component was also developed separately as the XM8, though both the OICW and XM8 are now indefinitely suspended.
 

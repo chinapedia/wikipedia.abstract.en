@@ -11,7 +11,7 @@ Aqueous solutions
 
 In aqueous solutions hydrogen peroxide differs from the pure substance due to the effects of hydrogen bonding between water and hydrogen peroxide molecules. Hydrogen peroxide and water form a eutectic mixture, exhibiting freezing-point depression; pure water has a freezing point of 0 °C and pure hydrogen peroxide of −0.43 °C. The boiling point of the same mixtures is also depressed in relation with the mean of both boiling points (125.1 °C). It occurs at 114 °C. This boiling point is 14 °C greater than that of pure water and 36.2 °C less than that of pure hydrogen peroxide.[4]
 
-Phase_diagram_hydrogen_peroxide_water.svg of and water: Area above blue line is liquid. Dotted lines separate solid+liquid phases from solid+solid phases.]]
+of and water: Area above blue line is liquid. Dotted lines separate solid+liquid phases from solid+solid phases.]]
 
 +------------+---------+-------+
 | H₂O₂ (w/w) | Density | Temp. |
@@ -97,8 +97,6 @@ Previously, hydrogen peroxide was prepared industrially by hydrolysis of ammoniu
 
 Today, hydrogen peroxide is manufactured almost exclusively by the anthraquinone process, which was formalized in 1936 and patented in 1939. It begins with the reduction of an anthraquinone (such as 2-ethylanthraquinone or the 2-amyl derivative) to the corresponding anthrahydroquinone, typically by hydrogenation on a palladium catalyst. In the presence of oxygen, the anthrahydroquinone then undergoes autoxidation: the labile hydrogen atoms of the hydroxy groups transfer to the oxygen molecule, to give hydrogen peroxide and regenerating the anthraquinone. Most commercial processes achieve oxidation by bubbling compressed air through a solution of the anthrahydroquinone, with the hydrogen peroxide then extracted from the solution and the anthraquinone recycled back for successive cycles of hydrogenation and oxidation.[17][18]
 
-Riedl-Pfleiderer_process.svg
-
 The simplified overall equation for the process is simple:[19]
 
     H2 + O2 -> H2O2
@@ -106,8 +104,6 @@ The simplified overall equation for the process is simple:[19]
 The economics of the process depend heavily on effective recycling of the extraction solvents, the hydrogenation catalyst and the expensive quinone.
 
 A process to produce hydrogen peroxide directly from the elements has been of interest for many years. Direct synthesis is difficult to achieve, as the reaction of hydrogen with oxygen thermodynamically favours production of water. Systems for direct synthesis have been developed, most of which employ finely dispersed metal catalysts similar to those used for hydrogenation of organic substrates.[20][21] None of these has yet reached a point where they can be used for industrial-scale synthesis.
-
-Container_JOTU501003_9.jpg HydrogenPeroxideTankCarBoltonON.jpg
 
 Availability
 
@@ -188,7 +184,7 @@ Hydrogen peroxide is both an oxidizing agent and reducing agent. The oxidation o
 
 Biological function
 
-Ascaridol.svg]] Hydrogen peroxide is formed in human and animals as a short-lived product in biochemical processes and is toxic to cells. The toxicity is due to oxidation of proteins, membrane lipids and DNA by the peroxide ions.[30] The class of biological enzymes called SOD (superoxide dismutase) is developed in nearly all living cells as an important antioxidant agent. They promote the disproportionation of superoxide into oxygen and hydrogen peroxide, which is then rapidly decomposed by the enzyme catalase to oxygen and water.[31]
+]] Hydrogen peroxide is formed in human and animals as a short-lived product in biochemical processes and is toxic to cells. The toxicity is due to oxidation of proteins, membrane lipids and DNA by the peroxide ions.[30] The class of biological enzymes called SOD (superoxide dismutase) is developed in nearly all living cells as an important antioxidant agent. They promote the disproportionation of superoxide into oxygen and hydrogen peroxide, which is then rapidly decomposed by the enzyme catalase to oxygen and water.[31]
 
     2O2^- + 2H+ ->[\ce{SOD}] H2O2 + O2
     Formation of hydrogen peroxide by superoxide dismutase (SOD)
@@ -208,7 +204,7 @@ This reaction is important in liver and kidney cells, where the peroxisomes neut
 
 Another origin of hydrogen peroxide is the degradation of adenosine monophosphate which yields hypoxanthine. Hypoxanthine is then oxidatively catabolized first to xanthine and then to uric acid, and the reaction is catalyzed by the enzyme xanthine oxidase:[36]
 
-Pheropsophus_verticalis_01_Pengo.jpg]]
+]]
 
 The degradation of guanosine monophosphate yields xanthine as an intermediate product which is then converted in the same way to uric acid with the formation of hydrogen peroxide.[37]
 
@@ -243,8 +239,6 @@ It is used in the production of various organic peroxides with dibenzoyl peroxid
 
 Disinfectant
 
-Hydrogen_peroxide_35_percent_on_skin.jpg
-
 Hydrogen peroxide is used in certain waste-water treatment processes to remove organic impurities. In advanced oxidation processing, the Fenton reaction[52][53] gives the highly reactive hydroxyl radical (·OH). This degrades organic compounds, including those that are ordinarily robust, such as aromatic or halogenated compounds.[54] It can also oxidize sulfur based compounds present in the waste; which is beneficial as it generally reduces their odour.[55]
 
 Hydrogen peroxide can be used for the sterilization of various surfaces,[56] including surgical tools[57] and may be deployed as a vapour (VHP) for room sterilization.[58] H₂O₂ demonstrates broad-spectrum efficacy against viruses, bacteria, yeasts, and bacterial spores.[59] In general, greater activity is seen against Gram-positive than Gram-negative bacteria; however, the presence of catalase or other peroxidases in these organisms can increase tolerance in the presence of lower concentrations.[60] Higher concentrations of H₂O₂ (10 to 30%) and longer contact times are required for sporicidal activity.[61]
@@ -275,7 +269,7 @@ The American Cancer Society states that "there is no scientific evidence that hy
 
 Propellant
 
-Rocket_Belt_Propulsion.svg]]
+]]
 
 High-concentration is referred to as "high-test peroxide" (HTP). It can be used either as a monopropellant (not mixed with fuel) or as the oxidizer component of a bipropellant rocket. Use as a monopropellant takes advantage of the decomposition of 70–98% concentration hydrogen peroxide into steam and oxygen. The propellant is pumped into a reaction chamber, where a catalyst, usually a silver or platinum screen, triggers decomposition, producing steam at over , which is expelled through a nozzle, generating thrust. monopropellant produces a maximal specific impulse (_I__(sp)) of 161 s (1.6 kN·s/kg). Peroxide was the first major monopropellant adopted for use in rocket applications. Hydrazine eventually replaced hydrogen-peroxide monopropellant thruster applications primarily because of a 25% increase in the vacuum specific impulse.[85] Hydrazine (toxic) and hydrogen peroxide (less-toxic [ACGIH TLV 0.01 and 1 ppm respectively]) are the only two monopropellants (other than cold gases) to have been widely adopted and utilized for propulsion and power applications. The Bell Rocket Belt, reaction control systems for X-1, X-15, Centaur, Mercury, Little Joe, as well as the turbo-pump gas generators for X-1, X-15, Jupiter, Redstone and Viking used hydrogen peroxide as a monopropellant.[86]
 
@@ -285,7 +279,7 @@ In the 1940s and 1950s, the Hellmuth Walter KG-conceived turbine used hydrogen p
 
 Other uses
 
-Chemiluminescance.JPG of cyalume, as found in a glow stick]]
+of cyalume, as found in a glow stick]]
 
 Hydrogen peroxide has various domestic uses, primarily as a cleaning and disinfecting agent.
 

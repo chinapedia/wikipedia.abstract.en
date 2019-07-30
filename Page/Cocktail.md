@@ -1,4 +1,4 @@
-15-09-26-RalfR-WLC-0084.jpg cocktail, served in a cocktail glass]]
+cocktail, served in a cocktail glass]]
 
 A COCKTAIL is an alcoholic mixed drink, which is either a combination of spirits, or one or more spirits mixed with other ingredients such as fruit juice, flavored syrup, or cream. There are various types of cocktails, based on the number and kind of ingredients added. The origins of the cocktail are debated.
 
@@ -18,8 +18,6 @@ The origin of the word cocktail is disputed. The first recorded use of cocktail 
 
 _The Oxford English Dictionary_ cites the word as originating in the U.S.[4] The first recorded use of _cocktail_ as a beverage (possibly non-alcoholic) in the United States appears in _The Farmer's Cabinet_, April 28, 1803:[5]
 
-The_first_definition_of_Cocktail.jpg
-
 The first definition of cocktail known to be an alcoholic beverage appeared in _The Balance and Columbian Repository_ (Hudson, New York) May 13, 1806; editor Harry Croswell answered the question, "What is a cocktail?":
 
 Etymologist Anatoly Liberman endorses as "highly probable" the theory advanced by Låftman (1946), which Liberman summarizes as follows:[6]
@@ -35,7 +33,7 @@ There is a lack of clarity on the origins of cocktails.[11] Traditionally cockta
 
 The first publication of a bartenders' guide which included cocktail recipes was in 1862 – _How to Mix Drinks; or, The Bon Vivant's Companion_, by "Professor" Jerry Thomas. In addition to recipes for punches, sours, slings, cobblers, shrubs, toddies, flips, and a variety of other mixed drinks were 10 recipes for "cocktails". A key ingredient differentiating cocktails from other drinks in this compendium was the use of bitters. Mixed drinks popular today that conform to this original meaning of "cocktail" include the Old Fashioned whiskey cocktail, the Sazerac cocktail, and the Manhattan cocktail.
 
-Flaming_cocktails.jpg]] The ingredients listed (spirits, sugar, water, and bitters) match the ingredients of an Old Fashioned,[15] which originated as a term used by late 19th century bar patrons to distinguish cocktails made the "old-fashioned" way from newer, more complex cocktails.[16]
+]] The ingredients listed (spirits, sugar, water, and bitters) match the ingredients of an Old Fashioned,[15] which originated as a term used by late 19th century bar patrons to distinguish cocktails made the "old-fashioned" way from newer, more complex cocktails.[16]
 
 In the 1869 recipe book _Cooling Cups and Dainty Drinks_, by William Terrington, cocktails are described as:[17]
 

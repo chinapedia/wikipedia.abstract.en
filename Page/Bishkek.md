@@ -38,7 +38,7 @@ In 1860, the fort was conquered and razed by the military forces of Colonel Zimm
 
 Soviet era
 
-Michael_Frunze_Statue_vor_dem_Bahnhof_von_Bischkek.JPG In 1926, the city became the capital of the newly established Kirghiz ASSR and was renamed "Frunze" after Mikhail Frunze, Lenin's close associate who was born in Bishkek and played key roles during the revolutions of 1905 and 1917 and during the Russian civil war of the early 1920s.
+In 1926, the city became the capital of the newly established Kirghiz ASSR and was renamed "Frunze" after Mikhail Frunze, Lenin's close associate who was born in Bishkek and played key roles during the revolutions of 1905 and 1917 and during the Russian civil war of the early 1920s.
 
 Independence era
 
@@ -53,7 +53,7 @@ Geography
 
 Orientation
 
-Though the city is relatively young, the surrounding area has some sites of interest dating to prehistorical times. There are also sites from the Greco-Buddhist period, the period of Nestorian influence, the era of the Central Asian _khanates_, and the Soviet period. Russian_Orthodox_cathedral_in_Bishkek.jpg Bishkek_historical_museum.jpg
+Though the city is relatively young, the surrounding area has some sites of interest dating to prehistorical times. There are also sites from the Greco-Buddhist period, the period of Nestorian influence, the era of the Central Asian _khanates_, and the Soviet period.
 
 The central part of the city is laid out on a rectangular grid plan. The city's main street is the east–west Chui Avenue (Chuy Prospekti), named after the region's main river. In the Soviet era, it was called Lenin Avenue. Along or near it are many of the most important government buildings and universities. These include the Academy of Sciences compound. The westernmost section of the avenue is known as Deng Xiaoping Avenue.
 
@@ -67,7 +67,7 @@ There is a Roman Catholic church located at ul. Vasiljeva 197 (near Rynok Bayat)
 
 City centre
 
-Bishkek_square.jpg, ]]
+, ]]
 
 -   State Historical Museum, located in Ala-Too Square, the main city square
 -   State Museum of Applied Arts, containing examples of traditional Kyrgyz handicrafts
@@ -110,7 +110,7 @@ Responsibility for ambient air quality monitoring in Bishkek lies with the Kyrgy
 
 Economy
 
-E7919-Dordoy-Bazaar-clothing.jpg]] Bishkek uses the Kyrgyzstan currency, the som. The som's value fluctuates regularly, but averaged around 61 som per U.S. dollar as of February 2015. The economy in Bishkek is primarily agricultural, and agricultural products are sometimes bartered in the outlying regions. The streets of Bishkek are regularly lined with produce vendors in a market style venue. In most of the downtown area there is a more urban cityscape with banks, stores, markets and malls. Sought after goods include hand-crafted artisan pieces, such as statues, carvings, paintings and many nature-based sculptures.
+]] Bishkek uses the Kyrgyzstan currency, the som. The som's value fluctuates regularly, but averaged around 61 som per U.S. dollar as of February 2015. The economy in Bishkek is primarily agricultural, and agricultural products are sometimes bartered in the outlying regions. The streets of Bishkek are regularly lined with produce vendors in a market style venue. In most of the downtown area there is a more urban cityscape with banks, stores, markets and malls. Sought after goods include hand-crafted artisan pieces, such as statues, carvings, paintings and many nature-based sculptures.
 
 Housing
 
@@ -167,8 +167,6 @@ In addition, the following international schools serve the expatriate community 
 
 
 Transportation
-
-E8094-Bishkek-East-Bus-Station.jpg E7912-Bishkek2-interior.jpg Bishkek_Railway_Station.jpg
 
 Mass public transport
 

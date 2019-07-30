@@ -1,5 +1,3 @@
-Cn-map.png LocationComoros.svg Comoros_in_relation_to_Afrika_map.jpg Anjouan_(Comoros)_map.jpg Moheli_(Comoros)_map.jpg
-
 The COMOROS ARCHIPELAGO consists of four main islands aligned along a northwest-southeast axis at the north end of the Mozambique Channel, between Mozambique and the island of Madagascar. Still widely known by their French names, the islands officially have been called by their Swahili names by the Comorian government. They are Grande Comore (Njazidja), Mohéli (Mwali), Anjouan (Nzwani), and Mayotte (Mahoré). The islands' distance from each other—Grande Comore is some 200 kilometers from Mayotte, forty kilometers from Mohéli, and eighty kilometers from Grande Comore—along with a lack of good harbor facilities, make transportation and communication difficult. Comoros has lots of sun.
 
 

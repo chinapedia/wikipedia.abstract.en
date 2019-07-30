@@ -71,7 +71,7 @@ For a binomial involving subtraction, the theorem can be applied by using the fo
 
 Geometric explanation
 
-binomial_theorem_visualisation.svg For positive values of _a_ and _b_, the binomial theorem with is the geometrically evident fact that a square of side can be cut into a square of side _a_, a square of side _b_, and two rectangles with sides _a_ and _b_. With , the theorem states that a cube of side can be cut into a cube of side _a_, a cube of side _b_, three _a_×_a_×_b_ rectangular boxes, and three _a_×_b_×_b_ rectangular boxes.
+For positive values of _a_ and _b_, the binomial theorem with is the geometrically evident fact that a square of side can be cut into a square of side _a_, a square of side _b_, and two rectangles with sides _a_ and _b_. With , the theorem states that a cube of side can be cut into a cube of side _a_, a cube of side _b_, three _a_×_a_×_b_ rectangular boxes, and three _a_×_b_×_b_ rectangular boxes.
 
 In calculus, this picture also gives a geometric proof of the derivative (x^(n))′ = nx^(n − 1):[22] if one sets a = x and b = Δx, interpreting _b_ as an infinitesimal change in _a,_ then this picture shows the infinitesimal change in the volume of an _n_-dimensional hypercube, (x + Δx)^(n), where the coefficient of the linear term (in Δx) is nx^(n − 1), the area of the _n_ faces, each of dimension (n − 1):
 

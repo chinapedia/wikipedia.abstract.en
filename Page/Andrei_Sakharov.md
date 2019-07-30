@@ -31,7 +31,7 @@ Sakharov then tested a MK-driven "plasma cannon" where a small aluminum ring was
 
 Particle physics and cosmology
 
-After 1965 Sakharov returned to fundamental science and began working on particle physics and physical cosmology.[18] [19] [20] [21] [22] [23] [24] [25] [26] [27][28][29][30][31][32] 2D_didactic_image_of_Sakharov's_twin_universe_model.svg He tried to explain the baryon asymmetry of the universe; in that regard, he was the first to propose proton decay and to consider CPT-symmetric events occurring _before_ the Big Bang:
+After 1965 Sakharov returned to fundamental science and began working on particle physics and physical cosmology.[18] [19] [20] [21] [22] [23] [24] [25] [26] [27][28][29][30][31][32] He tried to explain the baryon asymmetry of the universe; in that regard, he was the first to propose proton decay and to consider CPT-symmetric events occurring _before_ the Big Bang:
 
   We can visualize that neutral spinless maximons (or photons) are produced at ''t'' < 0 from contracting matter having an excess of antiquarks, that they pass "one through the other" at the instant ''t'' = 0 when the density is infinite, and decay with an excess of quarks when ''t'' > 0, realizing total CPT symmetry of the universe. All the phenomena at t < 0 are assumed in this hypothesis to be CPT reflections of the phenomena at t > 0.[33]
 
@@ -61,7 +61,7 @@ By 1973 Sakharov was meeting regularly with Western correspondents, holding pres
 
 Attacked by Soviet establishment, 1972 onwards
 
-Meiman_dissidents.gif, Sofiya Kallistratova, Petro Grigorenko, his wife Zinaida Grigorenko, Tatyana Velikanova's mother, the priest Father Sergei Zheludkov; in the lower row are Genrikh Altunyan and Alexander Podrabinek. Photo taken on 16 October 1977.[51]]]In 1972 Sakharov became the target of sustained pressure from his fellow scientists in the USSR Academy of Sciences, the Soviet press. The writer Aleksandr Solzhenitsyn, sprang to his defence.[52]
+, Sofiya Kallistratova, Petro Grigorenko, his wife Zinaida Grigorenko, Tatyana Velikanova's mother, the priest Father Sergei Zheludkov; in the lower row are Genrikh Altunyan and Alexander Podrabinek. Photo taken on 16 October 1977.[51]]]In 1972 Sakharov became the target of sustained pressure from his fellow scientists in the USSR Academy of Sciences, the Soviet press. The writer Aleksandr Solzhenitsyn, sprang to his defence.[52]
 
 In 1973 and 1974, the Soviet media campaign continued, targeting both Sakharov and Solzhenitsyn. While Sakharov disagreed with Solzhenitsyn's vision of Russian revival, he deeply respected him for his courage.
 
@@ -85,7 +85,7 @@ By 1976 the head of the KGB Yuri Andropov was prepared to call Sakharov "Domesti
 
 Internal exile (1980–1986)
 
-C0474-NN-Sakharov-house.jpg Sakharov was arrested on 22 January 1980, following his public protests against the Soviet intervention in Afghanistan in 1979, and was sent to the city of Gorky, now Nizhny Novgorod, a city that was off limits to foreigners.[61]
+Sakharov was arrested on 22 January 1980, following his public protests against the Soviet intervention in Afghanistan in 1979, and was sent to the city of Gorky, now Nizhny Novgorod, a city that was off limits to foreigners.[61]
 
 Between 1980 and 1986, Sakharov was kept under Soviet police surveillance. In his memoirs he mentions that their apartment in Gorky was repeatedly subjected to searches and heists. Sakharov was named the 1980 Humanist of the Year by the American Humanist Association.[62]
 
@@ -103,7 +103,7 @@ In 1988, Sakharov was given the International Humanist Award by the Internationa
 
 Death
 
-People_gathered_at_the_grave_of_Andrei_Sakharov,_1990.jpg Soon after 21:00 on 14 December 1989, Sakharov went to his study to take a nap before preparing an important speech he was to deliver the next day in the Congress. His wife went to wake him at 23:00 as he had requested but she found Sakharov dead on the floor. According to the notes of Yakov Rapoport, a senior pathologist present at the autopsy, it is most likely that Sakharov died of an arrhythmia consequent to dilated cardiomyopathy at the age of 68.[68] He was interred in the Vostryakovskoye Cemetery in Moscow.
+Soon after 21:00 on 14 December 1989, Sakharov went to his study to take a nap before preparing an important speech he was to deliver the next day in the Congress. His wife went to wake him at 23:00 as he had requested but she found Sakharov dead on the floor. According to the notes of Yakov Rapoport, a senior pathologist present at the autopsy, it is most likely that Sakharov died of an arrhythmia consequent to dilated cardiomyopathy at the age of 68.[68] He was interred in the Vostryakovskoye Cemetery in Moscow.
 
 
 Influence
@@ -127,7 +127,7 @@ Legacy and remembrance
 
 Places
 
-Andrei_Sakharov-IMG_0887-raffi_kojian.JPG, Armenia]] A_portrait_Andrey_Sakharov_by_Dmitry_Vrubel,_as_restored_in_July_2009.jpg]] 1991_CPA_6322.jpg
+, Armenia]] ]]
 
 -   In Moscow, there is Academician Sakharov Avenue and Sakharov Center.
 -   During the 1980s, the block of 16th Street NW between L and M streets, in front of the Russian ambassador's residence in Washington, D.C. was renamed "Andrei Sakharov Plaza" as a form of protest against his 1980 arrest and detention.[76]

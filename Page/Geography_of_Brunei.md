@@ -1,5 +1,3 @@
-Brunei_location_map_Topographic.png
-
 BRUNEI is a country in Southeast Asia, bordering the South China Sea and East Malaysia. Its geographical coordinates are . The country is similar in size to Norfolk, United Kingdom and slightly smaller than the US state of Delaware. It is close to vital sea lanes through the South China Sea linking the Indian and Pacific Oceans. The country has two parts physically separated by Malaysia, making it almost an enclave within Malaysia.
 
 Brunei shares a border with Malaysia and has a coastline.
@@ -30,7 +28,7 @@ AREA:
 -   Land:
 -   Water:
 
-KgBrunei_Sabah_Sungai-Kimanis-at-Kampung-Brunei-01.jpg MARITIME CLAIMS:
+MARITIME CLAIMS:
 _territorial sea:_
 _exclusive economic zone:_ or to median line
 

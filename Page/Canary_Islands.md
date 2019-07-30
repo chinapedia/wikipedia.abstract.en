@@ -29,7 +29,7 @@ What is certain is that the name of the islands does not derive from the canary 
 
 Physical geography
 
-Map of the Canary Islands Hacha_grande_from_papagayo_pano.jpg, a mountain in the south of Lanzarote, viewed from the road to the Playa de Papagayo.]] Grancanaria.jpg at the left and Roque Bentayga at the center]]
+, a mountain in the south of Lanzarote, viewed from the road to the Playa de Papagayo.]] at the left and Roque Bentayga at the center]]
 
 Tenerife is the largest and most populous island of the archipelago. Gran Canaria, with 865,070 inhabitants, is both the Canary Islands' second most populous island, and the third most populous one in Spain after Majorca and Tenerife. The island of Fuerteventura is the second largest in the archipelago and located from the African coast.
 
@@ -53,7 +53,7 @@ In the summer of 2011 a series of low-magnitude earthquakes occurred beneath El 
 
 The following table shows the highest mountains in each of the islands:
 
-National_Park_de_Tiede,_Tenerife,_Canary_Islands,_Spain_-_panoramio.jpg, the highest mountain in Spain, is also one of the most visited National Parks in the world.[33][34][35][36]]]
+, the highest mountain in Spain, is also one of the most visited National Parks in the world.[33][34][35][36]]]
 
 +------------------------+-----------+---------------+
 | Mountain               | Elevation | Island        |
@@ -91,7 +91,7 @@ File:Serinus canaria LC0210.jpg|_Serinus canaria_ File:Phoenix canariensis ag.JP
 
 National parks
 
-Caldera_de_Taburiente_La_Palma.jpg (La Palma).]]
+(La Palma).]]
 
 Four of Spain's thirteen national parks are located in the Canary Islands, more than any other autonomous community. Teide National Park is the most visited in Spain, and the oldest and largest within the Canary Islands. The parks are:
 
@@ -112,7 +112,7 @@ The Canary Islands have four national parks, of which two have been declared Wor
 
 Politics
 
-Spain_Canary_Islands_location_map_Province_of_Las_Palmas.svg]] Spain_Canary_Islands_location_map_Province_of_Santa_Cruz_de_Tenerife.svg]] Las_Palmas_-_Mapa_municipal.svg Santa_Cruz_de_Tenerife_-_Mapa_municipal.svg
+]] ]]
 
 Governance
 
@@ -137,7 +137,7 @@ History
 
 Ancient and pre-colonial times
 
-MNH_-_Mumie_Frau_1.jpg of a woman (830 AD). Museo de la Naturaleza y el Hombre, Santa Cruz de Tenerife.]] Before the arrival of humans, the Canaries were inhabited by prehistoric animals; for example, the giant lizard (_Gallotia goliath_), the Tenerife and Gran Canaria giant rats,[44] and giant prehistoric tortoises, _Geochelone burchardi_ and _Geochelone vulcanica_.
+of a woman (830 AD). Museo de la Naturaleza y el Hombre, Santa Cruz de Tenerife.]] Before the arrival of humans, the Canaries were inhabited by prehistoric animals; for example, the giant lizard (_Gallotia goliath_), the Tenerife and Gran Canaria giant rats,[44] and giant prehistoric tortoises, _Geochelone burchardi_ and _Geochelone vulcanica_.
 
 The islands may have been visited by the Phoenicians, the Greeks, and the Carthaginians. King Juba II, Caesar Augustus's Numidian protégé, is credited with discovering the islands for the Western world. According to Pliny the Elder, Juba found the islands uninhabited, but found "a small temple of stone" and "some traces of buildings".[45] Juba dispatched a naval contingent to re-open the dye production facility at Mogador in what is now western Morocco in the early first century AD.[46] That same naval force was subsequently sent on an exploration of the Canary Islands, using Mogador as their mission base.
 
@@ -154,25 +154,25 @@ The islands may have been visited by the Phoenicians, the Greeks, and the Cartha
 
   : Roman names for individual islands
 
-Pueblochico_guanches_A.jpg settlement of Tenerife]] When the Europeans began to explore the islands in the late Middle Ages, they encountered several indigenous peoples living at a Neolithic level of technology. Although the prehistory of the settlement of the Canary Islands is still unclear, linguistic and genetic analyses seem to indicate that at least some of these inhabitants shared a common origin with the Berbers on the nearby North African coast.[47] The precolonial inhabitants came to be known collectively as the Guanches, although _Guanches_ had been the name for only the indigenous inhabitants of Tenerife.[48] From the 14th century onward, numerous visits were made by sailors from Majorca, Portugal and Genoa. Lancelotto Malocello settled on Lanzarote in 1312. The Majorcans established a mission with a bishop in the islands that lasted from 1350 to 1400.
+ settlement of Tenerife]] When the Europeans began to explore the islands in the late Middle Ages, they encountered several indigenous peoples living at a Neolithic level of technology. Although the prehistory of the settlement of the Canary Islands is still unclear, linguistic and genetic analyses seem to indicate that at least some of these inhabitants shared a common origin with the Berbers on the nearby North African coast.[47] The precolonial inhabitants came to be known collectively as the Guanches, although _Guanches_ had been the name for only the indigenous inhabitants of Tenerife.[48] From the 14th century onward, numerous visits were made by sailors from Majorca, Portugal and Genoa. Lancelotto Malocello settled on Lanzarote in 1312. The Majorcans established a mission with a bishop in the islands that lasted from 1350 to 1400.
 
 Castilian conquest
 
 In 1402, the Castilian conquest of the islands began, with the expedition of the French explorers Jean de Béthencourt and Gadifer de la Salle, nobles and vassals of Henry III of Castile, to Lanzarote. From there, they went on to conquer Fuerteventura (1405) and El Hierro. Béthencourt received the title King of the Canary Islands, but still recognised King Henry III as his overlord. It was not a simple military enterprise, given the aboriginal resistance on some islands. Neither was it politically, since the particular interests of the nobility (determined to strengthen their economic and political power through the acquisition of the islands) conflicted with those of the states, particularly Castile, which were in the midst of territorial expansion and in a process of strengthening of the Crown against the nobility.[49]
 
-AlonsoFernandezdeLugo2.JPG presenting the captured native Guanche kings of Tenerife to the Catholic Monarchs]] Historians distinguish two periods in the conquest of the Canary Islands:
+presenting the captured native Guanche kings of Tenerife to the Catholic Monarchs]] Historians distinguish two periods in the conquest of the Canary Islands:
 
 Aristocratic conquest (_Conquista señorial_). This refers to the early conquests carried out by the nobility, for their own benefit and without the direct participation of the Crown of Castile, which merely granted rights of conquest in exchange for pacts of vassalage between the noble conqueror and the Crown. One can identify within this period an early phase known as the Betancurian or Norman Conquest, carried out by Jean de Bethencourt (who was originally from Normandy) and Gadifer de la Salle between 1402 and 1405, which involved the islands of Lanzarote, El Hierro and Fuerteventura. The subsequent phase is known as the Castilian Conquest, carried out by Castilian nobles who acquired, through purchases, assignments and marriages, the previously conquered islands and also incorporated the island of La Gomera around 1450.
 
 Royal conquest (_Conquista realenga_). This defines the conquest between 1478 and 1496, carried out directly by the Crown of Castile, during the reign of the Catholic Monarchs, who armed and partly financed the conquest of those islands which were still unconquered: Gran Canaria, La Palma and Tenerife. This phase of the conquest came to an end in the year 1496, with the dominion of the island of Tenerife, bringing the entire Canarian Archipelago under the control of the Crown of Castile.
 
-Columbus_House-Vegueta-Las_Palmas_Gran_Canaria.jpg Béthencourt also established a base on the island of La Gomera, but it would be many years before the island was fully conquered. The natives of La Gomera, and of Gran Canaria, Tenerife, and La Palma, resisted the Castilian invaders for almost a century. In 1448 Maciot de Béthencourt sold the lordship of Lanzarote to Portugal's Prince Henry the Navigator, an action that was accepted by neither the natives nor the Castilians. Despite Pope Nicholas V ruling that the Canary Islands were under Portuguese control, the crisis swelled to a revolt which lasted until 1459 with the final expulsion of the Portuguese. In 1479, Portugal and Castile signed the Treaty of Alcáçovas, which settled disputes between Castile and Portugal over the control of the Atlantic. This treaty recognized Castilian control of the Canary Islands but also confirmed Portuguese possession of the Azores, Madeira, and the Cape Verde islands, and gave the Portuguese rights to any further islands or lands in the Atlantic that might be discovered.
+Béthencourt also established a base on the island of La Gomera, but it would be many years before the island was fully conquered. The natives of La Gomera, and of Gran Canaria, Tenerife, and La Palma, resisted the Castilian invaders for almost a century. In 1448 Maciot de Béthencourt sold the lordship of Lanzarote to Portugal's Prince Henry the Navigator, an action that was accepted by neither the natives nor the Castilians. Despite Pope Nicholas V ruling that the Canary Islands were under Portuguese control, the crisis swelled to a revolt which lasted until 1459 with the final expulsion of the Portuguese. In 1479, Portugal and Castile signed the Treaty of Alcáçovas, which settled disputes between Castile and Portugal over the control of the Atlantic. This treaty recognized Castilian control of the Canary Islands but also confirmed Portuguese possession of the Azores, Madeira, and the Cape Verde islands, and gave the Portuguese rights to any further islands or lands in the Atlantic that might be discovered.
 
 The Castilians continued to dominate the islands, but due to the topography and the resistance of the native Guanches, they did not achieve complete control until 1496, when Tenerife and La Palma were finally subdued by Alonso Fernández de Lugo. After that, the Canaries were incorporated into the Kingdom of Castile.
 
 After the conquest
 
-Canary_Islands_map_by_William_Dampier_1699_-_Project_Gutenberg_eText_15675.jpg during his voyage to New Holland in 1699.]] Coat_of_Arms_of_the_Realm_of_Canary_Islands.svg After the conquest, the Castilians imposed a new economic model, based on single-crop cultivation: first sugarcane; then wine, an important item of trade with England. In this era, the first institutions of colonial government were founded. Gran Canaria, a colony of the Crown of Castile since 6 March 1480 (from 1556, of Spain), and Tenerife, a Spanish colony since 1495, each had its own governor.
+during his voyage to New Holland in 1699.]] After the conquest, the Castilians imposed a new economic model, based on single-crop cultivation: first sugarcane; then wine, an important item of trade with England. In this era, the first institutions of colonial government were founded. Gran Canaria, a colony of the Crown of Castile since 6 March 1480 (from 1556, of Spain), and Tenerife, a Spanish colony since 1495, each had its own governor.
 
 The cities of Santa Cruz de Tenerife and Las Palmas de Gran Canaria became a stopping point for the Spanish conquistadors, traders, and missionaries on their way to the New World. This trade route brought great prosperity to some of the social sectors of the islands. The islands became quite wealthy and soon were attracting merchants and adventurers from all over Europe. Magnificent palaces and churches were built on La Palma during this busy, prosperous period. The Church of El Salvador survives as one of the island's finest examples of the architecture of the 16th century.
 
@@ -186,13 +186,13 @@ In 1618 the Barbary pirates attacked Lanzarote and La Gomera taking 1000 captive
 
 18th to 19th century
 
-Amaro_Pargo.jpg (1678–1741), corsair and merchant from Tenerife who participated in the Spanish treasure fleet (the Spanish-American trade route).]] The sugar-based economy of the islands faced stiff competition from Spain's Caribbean colonies. Low prices in the sugar market in the 19th century caused severe recessions on the islands. A new cash crop, cochineal (_cochinilla_), came into cultivation during this time, saving the islands' economy. During this time the Canarian-American trade was developed, in which Canarian products such as cochineal, sugarcane and rum are sold in American ports, such as Veracruz, Campeche, La Guaira and Havana among others.[51]
+(1678–1741), corsair and merchant from Tenerife who participated in the Spanish treasure fleet (the Spanish-American trade route).]] The sugar-based economy of the islands faced stiff competition from Spain's Caribbean colonies. Low prices in the sugar market in the 19th century caused severe recessions on the islands. A new cash crop, cochineal (_cochinilla_), came into cultivation during this time, saving the islands' economy. During this time the Canarian-American trade was developed, in which Canarian products such as cochineal, sugarcane and rum are sold in American ports, such as Veracruz, Campeche, La Guaira and Havana among others.[51]
 
 By the end of the 18th century, Canary Islanders had already emigrated to Spanish American territories, such as Havana, Veracruz, Santo Domingo,[52] San Antonio, Texas[53] and St. Bernard Parish, Louisiana.[54][55] These economic difficulties spurred mass emigration, primarily to the Americas, during the 19th and first half of the 20th century. Between 1840 and 1890 as many as 40,000 Canary Islanders emigrated to Venezuela. Also, thousands of Canarians moved to Puerto Rico where the Spanish monarchy felt that Canarians would adapt to island life better than other immigrants from the mainland of Spain. Deeply entrenched traditions, such as the Mascaras Festival in the town of Hatillo, Puerto Rico, are an example of Canarian culture still preserved in Puerto Rico. Similarly, many thousands of Canarians emigrated to the shores of Cuba.[56] During the Spanish–American War of 1898, the Spanish fortified the islands against a possible American attack, but no such event took place.
 
 Romantic period and scientific expeditions
 
-Coast_El_Golfo.JPG Sirera and Renn (2004)[57] distinguish two different types of expeditions, or voyages, during the period 1770–1830, which they term "the Romantic period":
+Sirera and Renn (2004)[57] distinguish two different types of expeditions, or voyages, during the period 1770–1830, which they term "the Romantic period":
 
 First are "expeditions financed by the States, closely related with the official scientific Institutions. characterised by having strict scientific objectives (and inspired by) the spirit of Illustration and progress". In this type of expedition, Sirera and Renn include the following travellers:
 
@@ -213,7 +213,7 @@ Sirera and Renn identify the period 1770–1830 as one in which "In a panorama d
 
 Early 20th century
 
-Bahia_luz_las_palmas_1912_jordao_da_luz_perestello.jpg in 1912.]] At the beginning of the 20th century, the British introduced a new cash-crop, the banana, the export of which was controlled by companies such as Fyffes.
+in 1912.]] At the beginning of the 20th century, the British introduced a new cash-crop, the banana, the export of which was controlled by companies such as Fyffes.
 
 The rivalry between the elites of the cities of Las Palmas de Gran Canaria and Santa Cruz de Tenerife for the capital of the islands led to the division of the archipelago into two provinces in 1927. This has not laid to rest the rivalry between the two cities, which continues to this day.
 
@@ -229,7 +229,7 @@ Opposition to Franco's regime did not begin to organise until the late 1950s, wh
 
 Self-governance
 
-Auditorio_de_Tenerife_Pano.jpg by Santiago Calatrava, and an icon of contemporary architecture in the Canary Islands, (Santa Cruz de Tenerife)]] EU_OCT_and_OMR_map_en.png]] After the death of Franco, there was a pro-independence armed movement based in Algeria, the Movement for the Independence and Self-determination of the Canaries Archipelago (MAIAC). In 1968, the Organisation of African Unity recognized the MAIAC as a legitimate African independence movement, and declared the Canary Islands as an African territory still under foreign rule.[59]
+by Santiago Calatrava, and an icon of contemporary architecture in the Canary Islands, (Santa Cruz de Tenerife)]] ]] After the death of Franco, there was a pro-independence armed movement based in Algeria, the Movement for the Independence and Self-determination of the Canaries Archipelago (MAIAC). In 1968, the Organisation of African Unity recognized the MAIAC as a legitimate African independence movement, and declared the Canary Islands as an African territory still under foreign rule.[59]
 
 After the establishment of a democratic constitutional monarchy in Spain, autonomy was granted to the Canaries via a law passed in 1982, with a newly established autonomous devolved government and parliament. In 1983, the first autonomous elections were held. The Spanish Socialist Workers' Party (PSOE) won. In the 2007 elections, the PSOE gained a plurality of seats, but the nationalist Canarian Coalition and the conservative Partido Popular (PP) formed a ruling coalition government.[60]
 
@@ -239,7 +239,7 @@ At present, the Canary Islands is the only autonomous community in Spain that ha
 
 The political capital of the archipelago does not exist as such until the nineteenth century. The first cities founded by the Europeans at the time of the conquest of the Canary Islands in the 15th century were: Telde (in Gran Canaria), San Marcial del Rubicón (in Lanzarote) and Betancuria (in Fuerteventura). These cities boasted the first European institutions present in the archipelago, including Catholic bishoprics.[63] Although, because the period of splendor of these cities developed before the total conquest of the archipelago and its incorporation into the Crown of Castile never had a political and real control of the entire Canary archipelago.
 
-Las_Palmas_panorama.jpg Vista_de_Santa_Cruz_de_Tenerife.png The function of a Canarian city with full jurisdiction for the entire archipelago only exists after the conquest of the Canary Islands, although originally _De facto_, that is, without legal and real meaning and linked to the headquarters of the Canary Islands General Captaincy.
+The function of a Canarian city with full jurisdiction for the entire archipelago only exists after the conquest of the Canary Islands, although originally _De facto_, that is, without legal and real meaning and linked to the headquarters of the Canary Islands General Captaincy.
 
 Las Palmas de Gran Canaria was the first city that exercised this function. This is because the residence of the Captain General of the Canary Islands was in this city during part of the sixteenth and seventeenth centuries.[64] In May 1661, the Captain General of the Canary Islands, Jerónimo de Benavente y Quiñones, moved the headquarters of the captaincy to the city of San Cristóbal de La Laguna on the island of Tenerife.[65] This was due to the fact that this island since the conquest was the most populated, productive and with the highest economic expectations.[66] La Laguna would be considered the _De facto_ capital of the archipelago[67] until mid the official status of the capital of Canary Islands in the city of Santa Cruz de Tenerife was confirmed in the 19th century, due in part to the constant controversies and rivalries between the bourgeoisies of San Cristóbal de La Laguna and Las Palmas de Gran Canaria for the economic, political and institutional hegemony of the archipelago.[68]
 
@@ -281,7 +281,7 @@ The population of the islands according to the 2018 data are:[83]
 
 Religion
 
-Candelaria_Basilica.jpg (Patroness of the Canary Islands) in Candelaria, Tenerife]] The Roman Catholic branch of Christianity has been the majority religion in the archipelago for more than five centuries, ever since the Conquest of the Canary Islands. There are also several other religious communities.
+(Patroness of the Canary Islands) in Candelaria, Tenerife]] The Roman Catholic branch of Christianity has been the majority religion in the archipelago for more than five centuries, ever since the Conquest of the Canary Islands. There are also several other religious communities.
 
 Roman Catholic Church
 
@@ -327,7 +327,7 @@ Fuerteventura, with a surface of , is the second-most extensive island of the ar
 
 Gran Canaria
 
-Pueblo_de_Fataga.jpg, Gran Canaria]] Gran Canaria has 846,717 inhabitants. The capital, Las Palmas de Gran Canaria (377,203 inhabitants), is the most populous city and shares the status of capital of the Canaries with Santa Cruz de Tenerife. Gran Canaria's surface area is . In center of the island lie the Roque Nublo and Pico de las Nieves ("Peak of Snow") . In the south of island are the Maspalomas Dunes (Gran Canaria), these are the biggest tourist attractions.
+, Gran Canaria]] Gran Canaria has 846,717 inhabitants. The capital, Las Palmas de Gran Canaria (377,203 inhabitants), is the most populous city and shares the status of capital of the Canaries with Santa Cruz de Tenerife. Gran Canaria's surface area is . In center of the island lie the Roque Nublo and Pico de las Nieves ("Peak of Snow") . In the south of island are the Maspalomas Dunes (Gran Canaria), these are the biggest tourist attractions.
 
 La Gomera
 
@@ -347,26 +347,26 @@ La Palma, with 81,863 inhabitants covering an area of , is in its entirety a bio
 
 Tenerife
 
-Urville-Laguna.jpg in 1880 (Tenerife)]] Tenerife is, with its area of , the most extensive island of the Canary Islands. In addition, with 904,713 inhabitants it is the most populated island of the archipelago and Spain. Two of the islands' principal cities are located on it: The capital, Santa Cruz de Tenerife and San Cristóbal de La Laguna (a World Heritage Site). San Cristóbal de La Laguna, the second city of the island is home to the oldest university in the Canary Islands, the University of La Laguna. The Teide, with its is the highest peak of Spain and also a World Heritage Site. Tenerife is the site of the worst air disaster in the history of aviation, in which 583 people were killed in the collision of two Boeing 747s on 27 March 1977.
+in 1880 (Tenerife)]] Tenerife is, with its area of , the most extensive island of the Canary Islands. In addition, with 904,713 inhabitants it is the most populated island of the archipelago and Spain. Two of the islands' principal cities are located on it: The capital, Santa Cruz de Tenerife and San Cristóbal de La Laguna (a World Heritage Site). San Cristóbal de La Laguna, the second city of the island is home to the oldest university in the Canary Islands, the University of La Laguna. The Teide, with its is the highest peak of Spain and also a World Heritage Site. Tenerife is the site of the worst air disaster in the history of aviation, in which 583 people were killed in the collision of two Boeing 747s on 27 March 1977.
 
 
 Data
 
-  Flag                             Coat of arms                        Island            Capital                      Area (km²)   Population (2010)   Population Density (people/km²)
-  -------------------------------- ----------------------------------- ----------------- ---------------------------- ------------ ------------------- ---------------------------------
-  Flag_of_El_Hierro_with_CoA.svg   Coat_of_Arms_of_El_Hierro.svg       El Hierro         Valverde                     268.71       10,960              40.79
-  Flag_of_Fuerteventura.svg        Coat_of_Arms_of_Fuerteventura.svg   Fuerteventura     Puerto del Rosario           1,660        103,492             62.34
-  Flag_of_Gran_Canaria.svg         Coat_of_Arms_of_Gran_Canaria.svg    Gran Canaria      Las Palmas de Gran Canaria   1,560.1      845,676             542.07
-  Flag_of_La_Gomera.svg            Coat_of_Arms_of_La_Gomera.svg       La Gomera         San Sebastián                369.76       22,776              61.6
-  Flag_of_Lanzarote.svg            Coat_of_Arms_of_Lanzarote.svg       Lanzarote         Arrecife                     845.94       141,437             167.2
-  Flag_of_La_Palma_with_CoA.svg    Coat_of_Arms_of_La_Palma.svg        La Palma          Santa Cruz de La Palma       708.32       86,324              121.87
-  Flag_of_Tenerife.svg             Escudo_de_Tenerife.svg              Tenerife          Santa Cruz de Tenerife       2,034.38     906,854             445.76
-  –                                –                                   La Graciosa       Caleta de Sebo               29.05        658                 22.65
-  –                                –                                   Alegranza         –                            10.3         –                   –
-  –                                –                                   Isla de Lobos     –                            4.5          –                   –
-  –                                –                                   Montaña Clara     –                            1.48         –                   –
-  –                                –                                   Roque del Este    –                            0.06         –                   –
-  –                                –                                   Roque del Oeste   –                            0.015        –                   –
+  Flag   Coat of arms   Island            Capital                      Area (km²)   Population (2010)   Population Density (people/km²)
+  ------ -------------- ----------------- ---------------------------- ------------ ------------------- ---------------------------------
+                        El Hierro         Valverde                     268.71       10,960              40.79
+                        Fuerteventura     Puerto del Rosario           1,660        103,492             62.34
+                        Gran Canaria      Las Palmas de Gran Canaria   1,560.1      845,676             542.07
+                        La Gomera         San Sebastián                369.76       22,776              61.6
+                        Lanzarote         Arrecife                     845.94       141,437             167.2
+                        La Palma          Santa Cruz de La Palma       708.32       86,324              121.87
+                        Tenerife          Santa Cruz de Tenerife       2,034.38     906,854             445.76
+  –      –              La Graciosa       Caleta de Sebo               29.05        658                 22.65
+  –      –              Alegranza         –                            10.3         –                   –
+  –      –              Isla de Lobos     –                            4.5          –                   –
+  –      –              Montaña Clara     –                            1.48         –                   –
+  –      –              Roque del Este    –                            0.06         –                   –
+  –      –              Roque del Oeste   –                            0.015        –                   –
 
 
 Economy
@@ -406,7 +406,7 @@ Economy
 
 : TOURISM IN THE CANARY ISLANDS[97]
 
-Dunas_de_Maspalomas.jpg in Gran Canaria is one of the tourist attractions]]
+in Gran Canaria is one of the tourist attractions]]
 
 The economy is based primarily on tourism, which makes up 32% of the GDP. The Canaries receive about 12 million tourists per year. Construction makes up nearly 20% of the GDP and tropical agriculture, primarily bananas and tobacco, are grown for export to Europe and the Americas. Ecologists are concerned that the resources, especially in the more arid islands, are being overexploited but there are still many agricultural resources like tomatoes, potatoes, onions, cochineal, sugarcane, grapes, vines, dates, oranges, lemons, figs, wheat, barley, maize, apricots, peaches and almonds.
 
@@ -440,7 +440,7 @@ In 2017, 15,976,000 tourists visited the Canary Islands. The statistics per dest
 
 Transport
 
-Las_palmas_gran_canaria_parque_san_telmo_2005.jpg]] Tranviadetenerife.JPG]] The Canary Islands have eight airports altogether, two of the main ports of Spain, and an extensive network of autopistas (highways) and other roads. For a road map see multimap.[105]
+]] ]] The Canary Islands have eight airports altogether, two of the main ports of Spain, and an extensive network of autopistas (highways) and other roads. For a road map see multimap.[105]
 
 There are large ferry boats that link islands as well as fast ferries linking most of the islands. Both types can transport large numbers of passengers and cargo (including vehicles). Fast ferries are made of aluminium and powered by modern and efficient diesel engines, while conventional ferries have a steel hull and are powered by heavy oil. Fast ferries travel relatively quickly (in excess of ) and are a faster method of transportation than the conventional ferry (some ). A typical ferry ride between La Palma and Tenerife may take up to eight hours or more while a fast ferry takes about two and a half hours and between Tenerife and Gran Canaria can be about one hour.
 
@@ -466,8 +466,6 @@ Airports
 -   El Hierro Airport – El Hierro[116]
 
 Ports
-
-La_Palma_-_Santa_Cruz_de_La_Palma_-_Avenida_Los_Indianos_+_Port_+_Avenida_Maritima_+_Playa_+_Carretera_del_Galión_(Mirador_de_la_Concepción)_01_ies.jpg
 
 -   Port of Puerto del Rosario – Fuerteventura
 -   Port of Arrecife – Lanzarote
@@ -502,11 +500,11 @@ The _Servicio Canario de Salud_ is an autonomous body of administrative nature a
 
 Wildlife
 
-2012-01-10_14-53-40_Spain_Canarias_Cofete.jpg in Fuerteventura]]
+in Fuerteventura]]
 
 Prehistoric fauna
 
-Canariomys_bravoi_skull.JPG'' (_Tenerife giant rat_). It was an endemic species that is now extinct.]] Before the arrival of the Aborigines, the Canary Islands was inhabited by endemic animals, such as some extinct; giant lizards (_Gallotia goliath_), giant rats (_Canariomys bravoi_ and _Canariomys tamarani_)[118] and giant tortoises (_Geochelone burchardi_ and _Geochelone vulcanica_),[119] among others.
+'' (_Tenerife giant rat_). It was an endemic species that is now extinct.]] Before the arrival of the Aborigines, the Canary Islands was inhabited by endemic animals, such as some extinct; giant lizards (_Gallotia goliath_), giant rats (_Canariomys bravoi_ and _Canariomys tamarani_)[118] and giant tortoises (_Geochelone burchardi_ and _Geochelone vulcanica_),[119] among others.
 
 Terrestrial wildlife
 
@@ -533,7 +531,7 @@ Terrestrial fauna includes geckos, wall lizards, and three endemic species of re
 
 Marine life
 
-Caretta_caretta_060417w2.jpg, by far the most common species of marine turtle in the Canary Islands.]] The marine life found in the Canary Islands is also varied, being a combination of North Atlantic, Mediterranean and endemic species. In recent years, the increasing popularity of both scuba diving and underwater photography have provided biologists with much new information on the marine life of the islands.
+, by far the most common species of marine turtle in the Canary Islands.]] The marine life found in the Canary Islands is also varied, being a combination of North Atlantic, Mediterranean and endemic species. In recent years, the increasing popularity of both scuba diving and underwater photography have provided biologists with much new information on the marine life of the islands.
 
 Fish species found in the islands include many species of shark, ray, moray eel, bream, jack, grunt, scorpionfish, triggerfish, grouper, goby, and blenny. In addition, there are many invertebrate species, including sponge, jellyfish, anemone, crab, mollusc, sea urchin, starfish, sea cucumber and coral.
 
@@ -548,7 +546,7 @@ Arbutus canariensis2.jpg|_Arbutus canariensis_ Argyranthemum frutescens cv Vera 
 
 Holidays
 
-Danza_de_Enanos_2015_PMBV.jpg.]] Bailarines.jpg).]] Banda_de_Agaete_en_la_Traída_del_Agua.jpg in the _Traída del Agua_ (Gran Canaria).]] Some holidays of those celebrated in the Canary Islands are international and national, others are regional holidays and others are of insular character. The official day of the autonomous community is Canary Islands Day on 30 May. The anniversary of the first session of the Parliament of the Canary Islands, based in the city of Santa Cruz de Tenerife, held on 30 May 1983, is commemorated with this day.
+.]] ).]] in the _Traída del Agua_ (Gran Canaria).]] Some holidays of those celebrated in the Canary Islands are international and national, others are regional holidays and others are of insular character. The official day of the autonomous community is Canary Islands Day on 30 May. The anniversary of the first session of the Parliament of the Canary Islands, based in the city of Santa Cruz de Tenerife, held on 30 May 1983, is commemorated with this day.
 
 The common festive calendar throughout the Canary Islands is as follows:[122]
 
@@ -578,19 +576,19 @@ In addition, each of the islands has an island festival in which it is a holiday
   24 September                                     El Hierro       Our Lady of the Kings
   Monday following the first Saturday of October   La Gomera       Our Lady of Guadalupe
 
-Desfile_del_Sábado_de_Carnaval,_en_Santa_Cruz_de_Tenerife.JPG.]] The most famous festivals of the Canary Islands is the carnival. It is the most famous and international festival of the archipelago. The carnival is celebrated in all the islands and all its municipalities, perhaps the two busiest are those of the two Canarian capitals; the Carnival of Santa Cruz de Tenerife (_Tourist Festival of International Interest_) and the Carnival of Las Palmas de Gran Canaria. It is celebrated on the streets between the months of February and March. But the rest of the islands of the archipelago have their carnivals with their own traditions among which stand out: The Festival of the Carneros of El Hierro, the Festival of the Diabletes of Teguise in Lanzarote, Los Indianos de La Palma, the Carnival of San Sebastián de La Gomera and the Carnival of Puerto del Rosario in Fuerteventura.
+.]] The most famous festivals of the Canary Islands is the carnival. It is the most famous and international festival of the archipelago. The carnival is celebrated in all the islands and all its municipalities, perhaps the two busiest are those of the two Canarian capitals; the Carnival of Santa Cruz de Tenerife (_Tourist Festival of International Interest_) and the Carnival of Las Palmas de Gran Canaria. It is celebrated on the streets between the months of February and March. But the rest of the islands of the archipelago have their carnivals with their own traditions among which stand out: The Festival of the Carneros of El Hierro, the Festival of the Diabletes of Teguise in Lanzarote, Los Indianos de La Palma, the Carnival of San Sebastián de La Gomera and the Carnival of Puerto del Rosario in Fuerteventura.
 
 
 Science and technology
 
-Erdfunkstelle_Gran_Canaria-3.JPG In the 1960s, Gran Canaria was selected as the location for one of the 14 ground stations in the Manned Space Flight Network (MSFN) to support the NASA space program. Maspalomas Station, located in the south of the island, took part in a number of space missions including the Apollo 11 Moon landings and Skylab. Today it continues to support satellite communications as part of the ESA network.[126]
+In the 1960s, Gran Canaria was selected as the location for one of the 14 ground stations in the Manned Space Flight Network (MSFN) to support the NASA space program. Maspalomas Station, located in the south of the island, took part in a number of space missions including the Apollo 11 Moon landings and Skylab. Today it continues to support satellite communications as part of the ESA network.[126]
 
 Because of the remote location, a number of astronomical observatories are located in the archipelago, including the Teide Observatory on Tenerife, the Roque de los Muchachos Observatory on La Palma, and the Temisas Astronomical Observatory on Gran Canaria.
 
 
 Sports
 
-RodriguezLopez2008.jpg in Tenerife, the stadium with the largest area of field of the Canary Islands.[127][128]]] Estadiogc7septiembre2008.jpg, the biggest sports venue of Canary Islands.[129]]] A unique form of wrestling known as Canarian wrestling (_lucha canaria_) has opponents stand in a special area called a "terrero" and try to throw each other to the ground using strength and quick movements.[130]
+in Tenerife, the stadium with the largest area of field of the Canary Islands.[127][128]]] , the biggest sports venue of Canary Islands.[129]]] A unique form of wrestling known as Canarian wrestling (_lucha canaria_) has opponents stand in a special area called a "terrero" and try to throw each other to the ground using strength and quick movements.[130]
 
 Another sport is the "game of the sticks" where opponents fence with long sticks. This may have come about from the shepherds of the islands who would challenge each other using their long walking sticks.[131]
 

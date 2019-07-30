@@ -1,4 +1,4 @@
-Transporte_público_de_Ghana_–_Public_Transport_in_Ghana_(collage).JPG systems in Ghana: Airbus A320 of a Ghana Regional Airline in Ghana, Taxicab system in Ghana, Bus Rapid Transit of Metro mass Transit L.T.D in Ghana, Railway Station and Kumasi Railway Station in Ghana, and Ferryboat transportation in Ghana.]]
+systems in Ghana: Airbus A320 of a Ghana Regional Airline in Ghana, Taxicab system in Ghana, Bus Rapid Transit of Metro mass Transit L.T.D in Ghana, Railway Station and Kumasi Railway Station in Ghana, and Ferryboat transportation in Ghana.]]
 
 TRANSPORT IN GHANA is accomplished by road, rail, air and water. Ghana's transportation and communications networks are centered in the southern regions, especially the areas in which gold, cocoa, and timber are produced. The northern and central areas are connected through a major road system.[1]
 
@@ -7,9 +7,7 @@ Increased transport investment helped to increase the number of new vehicle regi
 
 Railways
 
-Railways_in_Ghana.svg The railway system in Ghana has historically been confined to the plains south of the barrier range on mountains north of the city of Kumasi. However, the narrow gauge railway, totalling 935 kilometres, is presently undergoing major rehabilitation and inroads to the interior are now being made. In Ghana, most of the lines are single tracked, and in 1997, it was estimated that 32 kilometres were double tracked.
-
-Railway_Station_Kumasi,_2005_–_Panorama.jpg
+The railway system in Ghana has historically been confined to the plains south of the barrier range on mountains north of the city of Kumasi. However, the narrow gauge railway, totalling 935 kilometres, is presently undergoing major rehabilitation and inroads to the interior are now being made. In Ghana, most of the lines are single tracked, and in 1997, it was estimated that 32 kilometres were double tracked.
 
 Rail expansion initiatives
 
@@ -17,15 +15,13 @@ In 2005, the Minister of Ports, Harbours and Railways announced plans to extend 
 
 Over the next two years, there were various studies[4] and in 2007, work began.[5]
 
-Ghana_Railways_1670.jpg In March 2007, a Private Public Partnership was proposed to rehabilitate the Eastern Railway from Accra to Ejisu and Kumasi, with an extension from Ejisu via Mampong, Nkoranza, Tamale, Bolgatanga and Paga, with a branch from Tamale to Yendi and Sheini. The extension starts at Kumasi and will cost $1.6b.[6]
+In March 2007, a Private Public Partnership was proposed to rehabilitate the Eastern Railway from Accra to Ejisu and Kumasi, with an extension from Ejisu via Mampong, Nkoranza, Tamale, Bolgatanga and Paga, with a branch from Tamale to Yendi and Sheini. The extension starts at Kumasi and will cost $1.6b.[6]
 
 There was another proposal in September 2007 to extend the Western Railway from Awaso via Techiman, Bole, Sawla, Wa to Hamile.[7]
 
 In February 2008, the _Ghana General News_ reported that the Ministry of Harbours and Railways and the Ghana Railway Corporation (GRC) expected to complete a new commuter line linking Accra and Tema by June 2008. The formation was complete from Sakumono to the SSNIT flats near Tema. Diesel multiple-unit trainsets will be imported for use on the line.[8] Construction of sleeper plant for the far north line was also initiated in 2008.
 
 Rail transport
-
-GhanaRailwayMap1.jpg
 
 The Ghana railway network occupies a total rail route length and rail track length of 947 km and 1300 km, comprising national rail lines that do not go outside of Ghana and the Ghana national border.[9] Ghana railway network is limited to south Ghana and the southern part of Ghana within the Greater Accra region, Central region, Western region, Eastern region and Ashanti region of south Ghana.[10]
 
@@ -50,7 +46,7 @@ Korean engineers studying the building of new lines in February 2007 were also t
 
 Highways
 
-Nice_bridge,_close_to_Akosombo_Dam.jpg crosses the Volta River.]]
+crosses the Volta River.]]
 
 Road transport is by far the dominant carrier of freight and passengers in Ghana's land transport system. It carries over 95% of all passenger and freight traffic and reaches most communities, and is classified under three categories of trunk roads, urban roads, and feeder roads.[22] The Ghana Highway Authority, established in 1974 is tasked with developing and maintaining the country's trunk road network totaling 13,367 km, which makes up 33% of Ghana's total road network of 40,186 km.[23]
 
@@ -72,7 +68,7 @@ The Ghana road network is 64,323 km and road transportation is the most dominan
 
 There is a Ghanaian Bus Rapid Transit, known as Metro mass Transit L.T.D, and a Taxicab system connecting the Ghanaian big cities among themselves, and a Minibuses system, known as Tro Tros, connecting big cities with the country's rural areas and small towns.[27] The Ghana Police Service's Motor Transport and Traffic Unit (MTTU) and the Ghana Highways Authority is responsible for the maintenance of the Road Traffic Control of Ghana and the Ghana Road Network (Ghana national highways and motorways).[28]
 
-Bus_Rapid_Transit,_Tamale.jpg bus rapid transit system]]
+bus rapid transit system]]
 
 International highways
 
@@ -81,7 +77,7 @@ The Trans–West African Coastal Highway, part of the Trans-African Highway netw
 
 Ferries and waterways
 
-VoltaRiverWithAdombeBridge183-1-.jpg is the largest artificial lake in the world by surface area.]]
+is the largest artificial lake in the world by surface area.]]
 
 The Volta, Ankobra, and Tano rivers provide 168 km of perennial navigation for launches and lighters; Lake Volta provides 1,125 kilometres of arterial and feeder waterway.
 
@@ -92,7 +88,7 @@ Marine transport
 
 Seaports and harbours
 
-Tema_Harbour,_Greater_Accra.jpgs and Merchant ships being loaded and unloaded at the Intermodal freight transport of Tema Port.]] There are ports on the Atlantic Ocean at Takoradi and Tema. Tema Port in South Ghana, officially opened in 1962, is the bigger of the two seaports in Ghana, and is Africa's largest harbour. It has a water-enclosed area of and a total land area of .[30] Apart from handling goods for Ghana, it is also a traffic junction, where goods are transhipped, and transit cargo destined for the landlocked countries to the north of Ghana.[31]
+s and Merchant ships being loaded and unloaded at the Intermodal freight transport of Tema Port.]] There are ports on the Atlantic Ocean at Takoradi and Tema. Tema Port in South Ghana, officially opened in 1962, is the bigger of the two seaports in Ghana, and is Africa's largest harbour. It has a water-enclosed area of and a total land area of .[30] Apart from handling goods for Ghana, it is also a traffic junction, where goods are transhipped, and transit cargo destined for the landlocked countries to the north of Ghana.[31]
 
 The port of Tema handles the majority of the nation's import and export cargo and most of the country's chief exports is shipped from Sekondi-Takoradi and Tema.[32] The port of Tema has of breakwaters, 12 deepwater berths, an outsize oil tanker berth, a dockyard, warehouses, and transit sheds. The port has open and covered areas for the storage of cargo, including a 77,200-m² (7.72-hectare) paved area for the storage of containers, steel products and other conventional cargo.[33] The port's container yard is capable of holding over 8,000 TEUs at any given time. The closed storage area, which is about 25,049 m² (2.51 hectares) in area, consists of six sheds with a total storage capacity of 50,000 tonnes of cargo. The port also includes a 100,000 dwt dry dock and slipway facility.[34] The Tema and Takoradi harbours in South Ghana are operated by the Ghana Ports and Harbours Authority.
 
@@ -100,7 +96,7 @@ Merchant marine
 
 There are six ships (with a volume of or over) totaling /. This includes two petroleum tankers and four refrigerated cargo vessels (1999 estimates).
 
-Volta_River_with_Adomi_Bridge.JPGs on Volta Lake in Ghana
+s on Volta Lake in Ghana
 
 ]] Ghana's Volta River, Ankobra River, and Tano River provide 168 km of perennial navigation for launches and lighters, and Volta Lake provides 1,125 kilometres of arterial and feeder waterway.[35] There are two main seaports in Ghana which are located in the southern coastal cities of Sekondi-Takoradi and Tema (Takoradi Harbour and Tema Harbour).[36] The strategic geographical location of Ghana to the Volta Lake and the many rivers of Ghana that provide inland transport make Ghana a very transited sovereign state for freighters.[37]
 
@@ -109,13 +105,13 @@ Inland water transport in Ghana includes the movement of passengers by ferry or 
 
 Aviation
 
-Kotoka_International_Airport_–_Kumasi_Airport_–_Sekondi-Takoradi_Airport.jpg in Accra, Kumasi International Airport in Kumasi, and Sekondi-Takoradi Airport in Sekondi-Takoradi.]]
+in Accra, Kumasi International Airport in Kumasi, and Sekondi-Takoradi Airport in Sekondi-Takoradi.]]
 
 On July 4, 1958, the Ghanaian government established Ghana Airways connecting Ghana with other countries. By the mid-1990s, Ghana Airways operated international scheduled passenger and cargo service to numerous European, Middle Eastern, and African destinations, including London, Düsseldorf, Rome, Abidjan, Dakar, Lagos, Lomé, and Johannesburg. As a result of persistent management and financial problems, Ghana Airways ceased all operations and entered into liquidation in 2004.[42]
 
 Ghana has twelve airports, six with hard surfaced runways. The most important are Kotoka International Airport at Accra and airports at Sekondi-Takoradi, Kumasi, and Tamale that serve domestic air traffic. In 1990, the government spent US$12 million to improve Accra's facilities. Workmen resurfaced the runway, upgraded the lighting system and built a new freight terminal. Construction crews also extended and upgraded the terminal building at Kumasi. In early 1991, the government announced further plans to improve Accra's international airport. The main runway was upgraded, improvements were made in freight landing and infrastructure, and the terminal building and the airport's navigational aids were upgraded.[43]
 
-Ghana_Airways_DC-10-30_9G-ANE_JFK_2004-4-10.png of the Ghana Airways
+of the Ghana Airways
 
 ]]
 

@@ -1,5 +1,3 @@
-StadtpfarrkircheStJakob.JPG
-
 DACHAU () is a town in Upper Bavaria, in the southern part of Germany. It is a major district town—a _Große Kreisstadt_—of the administrative region of Upper Bavaria, about north-west of Munich. It is now a popular residential area for people working in Munich with roughly 45,000 inhabitants. The historic centre of town with its 18th-century castle is situated on an elevation and visible over a great distance.
 
 Dachau was founded in the 9th century. It was home to many artists during the late 19th and early 20th centuries; well-known author and editor Ludwig Thoma lived here for two years. The town is also known for its proximity to the infamous Dachau concentration camp built in 1933 by the Nazis, in which tens of thousands of prisoners died.
@@ -71,7 +69,7 @@ Within the city boundaries, in Dachau Süd (South), there is also a small lake c
 
 Transport
 
-Dachau_Railway_and_Bus_Station.JPG]]
+]]
 
 The city is served by Munich S-Bahn (S2) and Deutsche Bahn via Dachau railway station located in the South of the town. The station is also annexed to the central bus terminal. In Dachau the line S2 is split in two directions: Petershausen and Altomünster. Both lines are named S2 but with different direction names. The offshoot to Altomünster is also served by Dachau Stadt Railway Station which is much smaller than the main railway station. There are five bus lines which are operated by Stadtwerke Dachau: 719, 720, 722, 724 and 726. There is no tramway transport.
 
@@ -79,8 +77,6 @@ Dachau has a well-developed road infrastructure for regional transportation. The
 
 
 Sights
-
-DachauAutumn20021025.JPG
 
 -   Old town including the Town Hall
 -   Church of St. Jakob (St. James), built in the 17th century (Stadtpfarrkirche).[4]

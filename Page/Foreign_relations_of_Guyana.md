@@ -21,8 +21,6 @@ Transshipment point for narcotics from South America – primarily Venezuela –
 
 Relations by country
 
-Diplomatic_relations_of_Guyana.svg
-
 Africa
 
 +---------+------------------------+-------------------------------------------------------------------------------------------------+

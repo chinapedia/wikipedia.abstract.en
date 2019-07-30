@@ -300,8 +300,6 @@ the structure of the string would be:
 
 where { ... }_(S) indicates a substring recognized as belonging to S. This hierarchy can also be seen as a tree:
 
-Simple_Parse_Tree_1.svg
-
 This tree is called a _parse tree_ or "concrete syntax tree" of the string, by contrast with the abstract syntax tree. In this case the presented leftmost and the rightmost derivations define the same parse tree; however, there is another (rightmost) derivation of the same string
 
     S → S + S (1)
@@ -311,8 +309,6 @@ This tree is called a _parse tree_ or "concrete syntax tree" of the string, by c
        → 1 + 1 + a (2)
 
 and this defines the following parse tree:
-
-Simple_Parse_Tree_2.svg
 
 Note however that both parse trees can be obtained by both leftmost and rightmost derivations. For example, the last tree can be obtained with the leftmost derivation as follows:
 
@@ -373,15 +369,11 @@ Also, many choices were made on which rule to apply to each selected S. Changing
 
 Let's look at this in more detail. Consider the parse tree of this derivation:
 
-An example parse tree
-
 Starting at the top, step by step, an S in the tree is expanded, until no more unexpanded Ses (nonterminals) remain. Picking a different order of expansion will produce a different derivation, but the same parse tree. The parse tree will only change if we pick a different rule to apply at some position in the tree.
 
 But can a different parse tree still produce the same terminal string, which is ( x + y ) * x - z * y / ( x + x ) in this case? Yes, for this particular grammar, this is possible. Grammars with this property are called ambiguous.
 
 For example, x + y * z can be produced with these two different parse trees:
-
-Parse_Tree_Derivations.svg
 
 However, the _language_ described by this grammar is not inherently ambiguous: an alternative, unambiguous grammar can be given for the language, for example:
 

@@ -1,4 +1,4 @@
-Beverly_Hillbillies_Episode_18_Jed_Saves_The_Drysdales_Marriage.ogg _THE BEVERLY HILLBILLIES_ is an American sitcom television series originally broadcast on CBS from 1962 to 1971. The show had an ensemble cast featuring Buddy Ebsen, Irene Ryan, Donna Douglas, and Max Baer Jr. as the Clampetts, a poor backwoods family from the Ozarks region who move to posh Beverly Hills, California, after striking oil on their land. The show was produced by Filmways and was created by writer Paul Henning. It was followed by two other Henning-inspired "country cousin" series on CBS: _Petticoat Junction_, and its spin-off _Green Acres_, which reversed the rags-to-riches, country-to-city model of _The Beverly Hillbillies_.
+_THE BEVERLY HILLBILLIES_ is an American sitcom television series originally broadcast on CBS from 1962 to 1971. The show had an ensemble cast featuring Buddy Ebsen, Irene Ryan, Donna Douglas, and Max Baer Jr. as the Clampetts, a poor backwoods family from the Ozarks region who move to posh Beverly Hills, California, after striking oil on their land. The show was produced by Filmways and was created by writer Paul Henning. It was followed by two other Henning-inspired "country cousin" series on CBS: _Petticoat Junction_, and its spin-off _Green Acres_, which reversed the rags-to-riches, country-to-city model of _The Beverly Hillbillies_.
 
 _The Beverly Hillbillies_ ranked among the top 20 most-watched programs on television for eight of its nine seasons, twice ranking as the number one series of the year, with a number of episodes that remain among the most-watched television episodes in history.[1] It accumulated seven Emmy nominations during its run. The series remains in syndicated reruns, and its ongoing popularity spawned a 1993 film remake by 20th Century Fox.[2]
 
@@ -57,7 +57,7 @@ Milburn (Raymond Bailey in 247 episodes) is the Clampetts' banker, confidant and
 
 Jane Hathaway
 
-Max_Baer_Jr,_Nancy_Kulp_and_Sharon_Tate_in_The_Beverly_Hillbillies,_The_Giant_Jackrabbit_episode.jpg (center) as Jane Hathaway, with Max Baer Jr. and Sharon Tate (in a dark wig).
+(center) as Jane Hathaway, with Max Baer Jr. and Sharon Tate (in a dark wig).
 
 ]] Jane Hathaway (Nancy Kulp in 246 episodes), whom the Clampetts address as Miss Jane, is Drysdale's loyal, highly-educated and efficient secretary. Though she reluctantly carries out his wishes, she is genuinely fond of the family and tries to shield them from her boss's greed. Miss Hathaway frequently has to "rescue" Drysdale from his schemes, receiving little or no thanks for her efforts. The Clampetts consider her family; even Granny, the one most dead-set against living in California, likes her very much. Jane harbors something of a crush on Jethro for most of the series' run. In 1999, _TV Guide_ ranked Jane Hathaway number 38 on its list titled "50 Greatest TV Characters of All Time".[10]
 
@@ -131,7 +131,7 @@ Nielsen ratings
 
 Cancellation
 
-Hillbillies.JPG. This one, which was modified by George Barris, is on display at Planet Hollywood in Disney Springs. The original truck is at the College of the Ozarks.[17]]]
+. This one, which was modified by George Barris, is on display at Planet Hollywood in Disney Springs. The original truck is at the College of the Ozarks.[17]]]
 
 Season nine, during the 1970–71 TV season placed 33rd out of 96 shows.[18] Despite the respectable ratings, the show was canceled in the spring of 1971 after 274 episodes. The CBS network, prompted by pressure from advertisers seeking a more sophisticated urban audience, decided to refocus its schedule on several "hip" new urban-themed shows and, to make room for them, the two remaining series of CBS's rural-themed comedies were simultaneously cancelled.[19] This action came to be known as "the Rural Purge". Pat Buttram, who played Mr. Haney on _Green Acres_, famously remarked, "It was the year CBS cancelled everything with a tree - including Lassie."[20]
 

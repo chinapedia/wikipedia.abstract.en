@@ -5,7 +5,7 @@ Structure
 
 Sections
 
-Relations_of_the_aorta,_trachea,_esophagus_and_other_heart_structures.png, then anterior to the right pulmonary arteries, the trachea and the esophagus, then turning posteriorly to course dorsally to these structures.]] In anatomical sources, the aorta is usually divided into sections.[2][3][4][5]
+, then anterior to the right pulmonary arteries, the trachea and the esophagus, then turning posteriorly to course dorsally to these structures.]] In anatomical sources, the aorta is usually divided into sections.[2][3][4][5]
 
 One way of classifying a part of the aorta is by anatomical compartment, where the thoracic aorta (or thoracic portion of the aorta) runs from the heart to the diaphragm. The aorta then continues downward as the abdominal aorta (or abdominal portion of the aorta) diaphragm to the aortic bifurcation.
 
@@ -41,7 +41,7 @@ The aortic arches start as five pairs of symmetrical arteries connecting the hea
 
 Microanatomy
 
-An_opened_aorta.jpg The aorta is an elastic artery, and as such is quite distensible. The aorta consists of a heterogeneous mixture of smooth muscle, nerves, intimal cells, endothelial cells, fibroblast-like cells, and a complex extracellular matrix. The vascular wall consists of several layers known as the tunica externa, tunica media, and tunica intima. The thickness of the aorta requires an extensive network of tiny blood vessels called vasa vasorum, which feed the tunica externa and tunica media outer layers of the aorta.[15] The aortic arch contains baroreceptors and chemoreceptors that relay information concerning blood pressure and blood pH and carbon dioxide levels to the medulla oblongata of the brain. This information is processed by the brain and the autonomic nervous system mediates the homeostatic responses.
+The aorta is an elastic artery, and as such is quite distensible. The aorta consists of a heterogeneous mixture of smooth muscle, nerves, intimal cells, endothelial cells, fibroblast-like cells, and a complex extracellular matrix. The vascular wall consists of several layers known as the tunica externa, tunica media, and tunica intima. The thickness of the aorta requires an extensive network of tiny blood vessels called vasa vasorum, which feed the tunica externa and tunica media outer layers of the aorta.[15] The aortic arch contains baroreceptors and chemoreceptors that relay information concerning blood pressure and blood pH and carbon dioxide levels to the medulla oblongata of the brain. This information is processed by the brain and the autonomic nervous system mediates the homeostatic responses.
 
 Within the tunica media, smooth muscle and the extracellular matrix are quantitatively the largest components of the aortic vascular wall. The fundamental unit of the aorta is the elastic lamella, which consists of smooth muscle and elastic matrix. The medial layer of the aorta consist of concentric musculoelastic layers (the elastic lamella) in mammals. The smooth muscle component does not dramatically alter the diameter of the aorta but rather serves to increase the stiffness and viscoelasticity of the aortic wall when activated. The elastic matrix dominates the biomechanical properties of the aorta. The elastic matrix forms lamellae, consisting of elastic fibers, collagens (predominately type III), proteoglycans, and glycoaminoglycans.[16]
 
@@ -56,7 +56,7 @@ In patent ductus arteriosus, a congenital disorder, the fetal ductus arteriosis 
 
 Function
 
-Aorta_Anatomy.jpg The aorta supplies all of the systemic circulation, which means that the entire body, except for the respiratory zone of the lung, receives its blood from the aorta. Broadly speaking, branches from the ascending aorta supply the heart; branches from the aortic arch supply the head, neck and arms; branches from the thoracic descending aorta supply the chest (excluding the heart and the respiratory zone of the lung); and branches from the abdominal aorta supply the abdomen. The pelvis and legs get their blood from the common iliac arteries.
+The aorta supplies all of the systemic circulation, which means that the entire body, except for the respiratory zone of the lung, receives its blood from the aorta. Broadly speaking, branches from the ascending aorta supply the heart; branches from the aortic arch supply the head, neck and arms; branches from the thoracic descending aorta supply the chest (excluding the heart and the respiratory zone of the lung); and branches from the abdominal aorta supply the abdomen. The pelvis and legs get their blood from the common iliac arteries.
 
 Blood flow and velocity
 

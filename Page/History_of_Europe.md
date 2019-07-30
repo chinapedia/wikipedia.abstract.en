@@ -1,4 +1,4 @@
-Abraham_Ortelius_Map_of_Europe.jpg cartographer Abraham Ortelius in 1595|203x203px]] The HISTORY OF EUROPE covers the peoples inhabiting Europe from prehistory to the present. During the Neolithic era and the time of the Indo-European migrations Europe saw human inflows from east and southeast and subsequent important cultural and material exchange. The period known as classical antiquity began with the emergence of the city-states of ancient Greece. Later, the Roman Empire came to dominate the entire Mediterranean basin. The fall of the Roman Empire in AD 476 traditionally marks the start of the Middle Ages. Beginning in the 14th century a Renaissance of knowledge challenged traditional doctrines in science and theology. Simultaneously, the Protestant Reformation set up Protestant churches primarily in Germany, Scandinavia and England. After 1800, the Industrial Revolution brought prosperity to Britain and Western Europe. The main powers set up colonies in most of the Americas and Africa, and parts of Asia. In the 20th century, World War I and World War II resulted in massive numbers of deaths. The Cold War dominated European geo-politics from 1947 to 1989.
+cartographer Abraham Ortelius in 1595|203x203px]] The HISTORY OF EUROPE covers the peoples inhabiting Europe from prehistory to the present. During the Neolithic era and the time of the Indo-European migrations Europe saw human inflows from east and southeast and subsequent important cultural and material exchange. The period known as classical antiquity began with the emergence of the city-states of ancient Greece. Later, the Roman Empire came to dominate the entire Mediterranean basin. The fall of the Roman Empire in AD 476 traditionally marks the start of the Middle Ages. Beginning in the 14th century a Renaissance of knowledge challenged traditional doctrines in science and theology. Simultaneously, the Protestant Reformation set up Protestant churches primarily in Germany, Scandinavia and England. After 1800, the Industrial Revolution brought prosperity to Britain and Western Europe. The main powers set up colonies in most of the Americas and Africa, and parts of Asia. In the 20th century, World War I and World War II resulted in massive numbers of deaths. The Cold War dominated European geo-politics from 1947 to 1989.
 
 
 Overview
@@ -15,13 +15,13 @@ The Byzantine Empire – the eastern part of the Roman Empire, with its capital 
 
 The Viking Age, a period of migrations of Scandinavian peoples, occurred from the late 8th century to the middle 11th century. The Normans, descendants of the Vikings who settled in Northern France, had a significant impact on many parts of Europe, from the Norman conquest of England to Sicily. The Rus' people founded Kievan Rus', which evolved into Russia. After 1000 the Crusades were a series of religiously motivated military expeditions originally intended to bring the Levant back under Christian rule. The Crusaders opened trade routes which enabled the merchant republics of Genoa and Venice to become major economic powers. The Reconquista, a related movement, worked to reconquer Iberia for Christendom.
 
-Les_Très_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg and sowing for the winter grain, from _The Very Rich Hours of the Duke of Berry_, c.1410|left]]
+and sowing for the winter grain, from _The Very Rich Hours of the Duke of Berry_, c.1410|left]]
 
 Eastern Europe in the High Middle Ages was dominated by the rise and fall of the Mongol Empire. Led by Genghis Khan, the Mongols were a group of steppe nomads who established a decentralized empire which, at its height, extended from China in the east to the Black and Baltic Seas in Europe. As Mongol power waned towards the Late Middle Ages, the Grand Duchy of Moscow rose to become the strongest of the numerous Russian principalities and republics and would grow into the Tsardom of Russia in 1547. The Late Middle Ages represented a period of upheaval in Europe. The epidemic known as the Black Death and an associated famine caused demographic catastrophe in Europe as the population plummeted. Dynastic struggles and wars of conquest kept many of the states of Europe at war for much of the period. In Scandinavia, the Kalmar Union dominated the political landscape, while England fought with Scotland in the Wars of Scottish Independence and with France in the Hundred Years' War. In Central Europe, the Polish–Lithuanian Commonwealth became a large territorial empire, while the Holy Roman Empire, which was an elective monarchy, came to be dominated for centuries by the House of Habsburg. Russia continued to expand southward and eastward into former Mongol lands. In the Balkans, the Ottoman Empire overran Byzantine lands, culminating in the Fall of Constantinople in 1453, which historians mark as the end of the Middle Ages.
 
 Beginning in the 14th century in Florence and later spreading through Europe, a Renaissance of knowledge challenged traditional doctrines in science and theology. The rediscovery of classical Greek and Roman knowledge had an enormous liberating effect on intellectuals. Simultaneously, the Protestant Reformation under German Martin Luther questioned Papal authority. Henry VIII seized control of the English Church and its lands. The European religious wars were fought between German and Spanish rulers. The Reconquista ended Muslim rule in Iberia. By the 1490s a series of oceanic explorations marked the Age of Discovery, establishing direct links with Africa, the Americas, and Asia. Religious wars continued to be fought in Europe, until the 1648 Peace of Westphalia. The Spanish crown maintained its hegemony in Europe and was the leading power on the continent until the signing of the Treaty of the Pyrenees, which ended a conflict between Spain and France that had begun during the Thirty Years' War. An unprecedented series of major wars and political revolutions took place around Europe and the world in the period between 1610 and 1700.[1]
 
-Maquina_vapor_Watt_ETSIIM.jpg. The steam engine, fuelled primarily by coal, propelled the Industrial Revolution in 19th-century Northwestern Europe.]]
+. The steam engine, fuelled primarily by coal, propelled the Industrial Revolution in 19th-century Northwestern Europe.]]
 
 The Industrial Revolution began in Britain, based on coal, steam, and textile mills. Political change in continental Europe was spurred by the French Revolution under the motto _liberté, égalité, fraternité_. Napoleon Bonaparte took control, made many reforms inside France, and transformed Western Europe. But his rise stimulated both nationalism and reaction and he was defeated in 1814–15 as the old royal conservatives returned to power.
 
@@ -33,8 +33,6 @@ Germany lost its overseas empire and several provinces, had to pay large reparat
 
 
 Prehistory
-
-Europe_Prehistory.gif
 
 _Homo erectus_ migrated from Africa to Europe before the emergence of modern humans. _Homo erectus georgicus_, which lived roughly 1.8 million years ago in Georgia, is the earliest hominid to have been discovered in Europe.[2] Lézignan-la-Cèbe in France, Orce[3] in Spain, Monte Poggiolo[4] in Italy and Kozarnika in Bulgaria are amongst the oldest Palaeolithic sites in Europe.
 
@@ -55,7 +53,7 @@ The Neolithic reached Central Europe in the 6th millennium BC and parts of North
 
 Minoans and Mycenae 2700–1100 BC
 
-Tholos_of_Atreus.jpg, or Tomb of Agamemnon in Mycenae 1250 BC]]
+, or Tomb of Agamemnon in Mycenae 1250 BC]]
 
 The first well-known literate civilization in Europe was that of the Minoans. The Minoan civilization was a Bronze Age civilization that arose on the island of Crete and flourished from approximately the 27th century BC to the 15th century BC.[6] It was rediscovered at the beginning of the 20th century through the work of the British archaeologist Arthur Evans. Will Durant referred to it as "the first link in the European chain".[7]
 
@@ -68,19 +66,17 @@ The Mycenaean civilization perished with the collapse of Bronze-Age civilization
 
 Classical antiquity
 
-Parthenon_from_south.jpg, an ancient Athenian Temple on the Acropolis (hill-top city) fell to Rome in 176 BC]]
+, an ancient Athenian Temple on the Acropolis (hill-top city) fell to Rome in 176 BC]]
 
 The Greeks and the Romans left a legacy in Europe which is evident in European languages, thought, visual arts and law. Ancient Greece was a collection of city-states, out of which the original form of democracy developed. Athens was the most powerful and developed city, and a cradle of learning from the time of Pericles. Citizens' forums debated and legislated policy of the state, and from here arose some of the most notable classical philosophers, such as Socrates, Plato, and Aristotle, the last of whom taught Alexander the Great.
 
 Through his military campaigns, the king of the kingdom of Macedon, Alexander, spread Hellenistic culture and learning to the banks of the River Indus. Meanwhile, the Roman Republic strengthened through victory over Carthage in the Punic Wars. Greek wisdom passed into Roman institutions, as Athens itself was absorbed under the banner of the Senate and People of Rome – SPQR.
 
-Europe-In-301BC.png
-
 The Romans expanded from Arabia to Britannia. In 44 BC as it approached its height, its dictator Julius Caesar was murdered by senators in an attempt to restore the Republic. In the ensuing turmoil, Octavian (ruled as Augustus; and as _divi filius_, or Son of God, as Julius had adopted him as an heir) usurped the reins of power and fought the Roman Senate. While proclaiming the rebirth of the Republic, he had ushered in the transfer of the Roman state from a republic to an empire, the Roman Empire, which lasted for more than four centuries until the fall of the Western Roman Empire.
 
 Ancient Greece
 
-Napoli_BW_2013-05-16_16-24-01.jpg showing Alexander the Great battling Darius III]]
+showing Alexander the Great battling Darius III]]
 
 The Hellenic civilisation was a collection of city-states or poleis with different governments and cultures that achieved notable developments in government, philosophy, science, mathematics, politics, sports, theatre and music.
 
@@ -92,15 +88,15 @@ Hellenic infighting left Greek city states vulnerable, and Philip II of Macedon 
 
 After the death of Alexander, his empire split into multiple kingdoms ruled by his generals, the Diadochi. The Diadochi fought against each other in a series of conflicts called the Wars of the Diadochi. In the beginning of the 2nd century BC, only three major kingdoms remained: the Ptolemaic Egypt, the Seleucid Empire and Macedonia. These kingdoms spread Greek culture to regions as far away as Bactria.[18]
 
-Cesare_prima_Gallia_58_a.C._jpg.jpg and its neighbours in 58 BC.]]
+and its neighbours in 58 BC.]]
 
 The rise of Rome
 
-Cicerón_denuncia_a_Catilina,_por_Cesare_Maccari.jpg addresses the Roman Senate to denounce Catiline's conspiracy to overthrow the Republic, by Cesare Maccari]]
+addresses the Roman Senate to denounce Catiline's conspiracy to overthrow the Republic, by Cesare Maccari]]
 
 Much of Greek learning was assimilated by the nascent Roman state as it expanded outward from Italy, taking advantage of its enemies' inability to unite: the only challenge to Roman ascent came from the Phoenician colony of Carthage, and its defeats in the three Punic Wars marked the start of Roman hegemony. First governed by kings, then as a senatorial republic (the Roman Republic), Rome finally became an empire at the end of the 1st century BC, under Augustus and his authoritarian successors.
 
-Europe-In-117AD.png]]
+]]
 
 The Roman Empire had its centre in the Mediterranean, controlling all the countries on its shores; the northern border was marked by the Rhine and Danube rivers. Under emperor Trajan (2nd century AD) the empire reached its maximum expansion, controlling approximately of land surface, including Italia, Gallia, Dalmatia, Aquitania, Britannia, Baetica, Hispania, Thrace, Macedonia, Greece, Moesia, Dacia, Pannonia, Egypt, Minor Asia, Cappadocia, Armenia, Caucasus, North Africa, Levant and parts of Mesopotamia. Pax Romana, a period of peace, civilisation and an efficient centralised government in the subject territories ended in the 3rd century, when a series of civil wars undermined Rome's economic and social strength.
 
@@ -108,7 +104,7 @@ In the 4th century, the emperors Diocletian and Constantine were able to slow do
 
 Decline of the Roman Empire
 
-Partition_of_the_Roman_Empire_in_395_AD.png: the Western Roman Empire is shown in red and the Eastern Roman Empire (Byzantine Empire) is shown in purple]]
+: the Western Roman Empire is shown in red and the Eastern Roman Empire (Byzantine Empire) is shown in purple]]
 
 The Roman Empire had been repeatedly attacked by invading armies from Northern Europe and in 476, Rome finally fell. Romulus Augustus, the last Emperor of the Western Roman Empire, surrendered to the Germanic King Odoacer. The British historian Edward Gibbon argued in _The History of the Decline and Fall of the Roman Empire_ (1776) that the Romans had become decadent, they had lost civic virtue.
 
@@ -118,13 +114,11 @@ Some other notable dates are the Battle of Adrianople in 378, the death of Theod
 
 Late Antiquity and Migration Period
 
-Invasions_of_the_Roman_Empire_1.png.]]
+.]]
 
 When Emperor Constantine had reconquered Rome under the banner of the cross in 312, he soon afterwards issued the Edict of Milan in 313 (preceded by the Edict of Serdica in 311), declaring the legality of Christianity in the Roman Empire. In addition, Constantine officially shifted the capital of the Roman Empire from Rome to the Greek town of Byzantium, which he renamed Nova Roma – it was later named Constantinople ("City of Constantine").
 
 In 395 Theodosius I, who had made Christianity the official religion of the Roman Empire, would be the last emperor to preside over a united Roman Empire. The empire was split into two halves: the Western Roman Empire centred in Ravenna, and the Eastern Roman Empire (later to be referred to as the Byzantine Empire) centred in Constantinople. The Roman Empire was repeatedly attacked by Hunnic, Germanic, Slavic and other “barbarian” tribes (see: Migration Period), and in 476 finally the Western part fell to the Heruli chieftain Odoacer.
-
-Europa_in_526.png
 
 Roman authority in the Western part of the empire had collapsed, and a power vacuum left in the wake of this collapse; the central organization, institutions, laws and power of Rome had broken down, resulting in many areas being open to invasion by migrating tribes. Over time, feudalism and manorialism arose, two interlocking institutions that provided for division of land and labor, as well as a broad if uneven hierarchy of law and protection. These localised hierarchies were based on the bond of common people to the land on which they worked, and to a lord, who would provide and administer both local law to settle disputes among the peasants, as well as protection from outside invaders. Unlike under Roman rule, with its standard laws and military across the empire and its great bureaucracy to administer them and collect taxes, each lord (although having obligations to a higher lord) was largely sovereign in his domain. A peasant's lot could vary greatly depending on the leadership skills and attitudes to justice of the lord toward his people. Tithes or rents were paid to the lord, who in turn owed resources, and armed men in times of war, to his lord, perhaps a regional prince. However, the levels of hierarchy were varied over time and place.
 
@@ -145,13 +139,13 @@ The Middle Ages are commonly dated from the fall of the Western Roman Empire (or
 
 Byzantium
 
-Hagia_Sophia_Southwestern_entrance_mosaics_2.jpg and Justinian I offering their fealty to the Virgin Mary inside the Hagia Sophia]]
+and Justinian I offering their fealty to the Virgin Mary inside the Hagia Sophia]]
 
 Many consider Emperor Constantine I (reigned 306–337) to be the first "Byzantine Emperor". It was he who moved the imperial capital in 324 from Nicomedia to Byzantium, which re-founded as Constantinople, or Nova Roma ("New Rome").[24] The city of Rome itself had not served as the capital since the reign of Diocletian. Some date the beginnings of the Empire to the reign of Theodosius I (379–395) and Christianity's official supplanting of the pagan Roman religion, or following his death in 395, when the empire was split into two parts, with capitals in Rome and Constantinople. Others place it yet later in 476, when Romulus Augustulus, traditionally considered the last western Emperor, was deposed, thus leaving sole imperial authority with the emperor in the Greek East. Others point to the reorganisation of the empire in the time of Heraclius (c. 620) when Latin titles and usages were officially replaced with Greek versions. In any case, the changeover was gradual and by 330, when Constantine inaugurated his new capital, the process of hellenization and increasing Christianisation was already under way. The Empire is generally considered to have ended after the fall of Constantinople to the Ottoman Turks in 1453. The Plague of Justinian was a pandemic that afflicted the Byzantine Empire, including its capital Constantinople, in the years 541–542. It is estimated that the Plague of Justinian killed as many as 100 million people across the world.[25][26] It caused Europe's population to drop by around 50% between 541 and 700.[27] It also may have contributed to the success of the Muslim conquests.[28][29]
 
 Early Middle Ages
 
-The Early Middle Ages span roughly five centuries from 500 to 1000.[30] Europe_814.svg in the Early Middle Ages]] In the Eastern part of Europe new dominant states formatted – the Avar Khaganate (567–after 822), Old Great Bulgaria (632–668), the Khazar Khaganate (c. 650–969) and Danube Bulgaria (founded by Asparuh in 680) were constantly rivaling the hegemony of the Byzantine Empire.
+The Early Middle Ages span roughly five centuries from 500 to 1000.[30] in the Early Middle Ages]] In the Eastern part of Europe new dominant states formatted – the Avar Khaganate (567–after 822), Old Great Bulgaria (632–668), the Khazar Khaganate (c. 650–969) and Danube Bulgaria (founded by Asparuh in 680) were constantly rivaling the hegemony of the Byzantine Empire.
 
 From the 7th century Byzantine history was greatly affected by the rise of Islam and the Caliphates. Muslim Arabs first invaded historically Roman territory under Abū Bakr, first Caliph of the Rashidun Caliphate, who entered Roman Syria and Roman Mesopotamia. As the Byzantines and neighboring Sasanids were severely weakened by the time, amongst the most important reason(s) being the protracted, centuries-lasting and frequent Byzantine–Sasanian wars, which included the climactic Byzantine–Sasanian War of 602–628, under Umar, the second Caliph, the Muslims entirely toppled the Sasanid Persian Empire, and decisively conquered Syria and Mesopotamia, as well as Roman Palestine, Roman Egypt, and parts of Asia Minor and Roman North Africa. In the mid 7th century AD, following the Muslim conquest of Persia, Islam penetrated into the Caucasus region, of which parts would later permanently become part of Russia.[31] This trend, which included the conquests by the invading Muslim forces and by that the spread of Islam as well continued under Umar's successors and under the Umayyad Caliphate, which conquered the rest of Mediterranean North Africa and most of the Iberian Peninsula. Over the next centuries Muslim forces were able to take further European territory, including Cyprus, Malta, Crete, and Sicily and parts of southern Italy.[32]
 
@@ -160,8 +154,6 @@ The Muslim conquest of Hispania began when the Moors (Berbers and Arabs) invaded
 The second siege of Constantinople (717) ended unsuccessful after the intervention of Tervel of Bulgaria and weakened the Umayyad dynasty and reduced their prestige. In 722 Don Pelayo, a nobleman of Visigothic origin, formed an army of 300 Astur soldiers, to confront Munuza's Muslim troops. In the battle of Covadonga, the Astures defeated the Arab-Moors, who decided to retire. The Christian victory marked the beginning of the Reconquista and the establishment of the Kingdom of Asturias, whose first sovereign was Don Pelayo. The conquerors intended to continue their expansion in Europe and move northeast across the Pyrenees, but were defeated by the Frankish leader Charles Martel at the Battle of Poitiers in 732. The Umayyads were overthrown in 750 by the 'Abbāsids,[33] and, in 756, the Umayyads established an independent emirate in the Iberian Peninsula.[34]
 
 Feudal Christendom
-
-Europe_1000.jpg HRE-at-its-peak.jpg
 
 The Holy Roman Empire emerged around 800, as Charlemagne, king of the Franks, was crowned by the pope as emperor. His empire based in modern France, the Low Countries and Germany expanded into modern Hungary, Italy, Bohemia, Lower Saxony and Spain. He and his father received substantial help from an alliance with the Pope, who wanted help against the Lombards.[35]
 
@@ -173,7 +165,7 @@ Slavery in the early medieval period had mostly died out in western Europe by ab
 
 High Middle Ages
 
-Europe_map_1092.PNG First.Crusade.Map.jpg to the Holy Land commences]]
+to the Holy Land commences]]
 
 The slumber of the Dark Ages was shaken by a renewed crisis in the Church. In 1054, the East–West Schism, an insoluble split, occurred between the two remaining Christian seats in Rome and Constantinople (modern Istanbul).
 
@@ -193,7 +185,7 @@ The Great Schism between the Western (Catholic) and Eastern (Orthodox) Christian
 
 Holy wars
 
-SiegeofAntioch.jpeg, from a medieval miniature painting, during the First Crusade]]
+, from a medieval miniature painting, during the First Crusade]]
 
 After the East–West Schism, Western Christianity was adopted by the newly created kingdoms of Central Europe: Poland, Hungary and Bohemia. The Roman Catholic Church developed as a major power, leading to conflicts between the Pope and Emperor. The geographic reach of the Roman Catholic Church expanded enormously due to the conversions of pagan kings (Scandinavia, Lithuania, Poland, Hungary), the Christian Reconquista of Al-Andalus, and the crusades. Most of Europe was Roman Catholic in the 15th century.
 
@@ -201,11 +193,9 @@ Early signs of the rebirth of civilization in western Europe began to appear in 
 
 The 14th century, when the Mongol Empire came to power, is often called the _Age of the Mongols_. Mongol armies expanded westward under the command of Batu Khan. Their western conquests included almost all of Russia (save Novgorod, which became a vassal),[39] the Kipchak-Cuman Confederation. Bulgaria, Hungary, and Poland managed to remain sovereign states. Mongolian records indicate that Batu Khan was planning a complete conquest of the remaining European powers, beginning with a winter attack on Austria, Italy and Germany, when he was recalled to Mongolia upon the death of Great Khan Ögedei. Most historians believe only his death prevented the complete conquest of Europe. The areas of Eastern Europe and most of Central Asia that were under direct Mongol rule became known as the Golden Horde. Under Uzbeg Khan, Islam became the official religion of the region in the early 14th century.[40] The invading Mongols, together with their mostly Turkic subjects, were known as Tatars. In Russia, the Tatars ruled the various states of the Rus' through vassalage for over 300 years.
 
-Chrzest_Litwy_1387_Matejko.JPG in 1387", oil on canvas by Jan Matejko, 1889, Royal Castle in Warsaw]] In the Northern Europe, Konrad of Masovia gave Chelmno to the Teutonic Knights in 1226 as a base for a Crusade against the Old Prussians and Grand Duchy of Lithuania. The Livonian Brothers of the Sword were defeated by the Lithuanians, so in 1237 Gregory IX merged the remainder of the order into the Teutonic Order as the Livonian Order. By the middle of the century, the Teutonic Knights completed their conquest of the Prussians before conquering and converting the Lithuanians in the subsequent decades. The order also came into conflict with the Eastern Orthodox Church of the Pskov and Novgorod Republics. In 1240 the Orthodox Novgorod army defeated the Catholic Swedes in the Battle of the Neva, and, two years later, they defeated the Livonian Order in the Battle on the Ice. The Union of Krewo in 1386, bringing two major changes in the history of the Grand Duchy of Lithuania: conversion to Catholicism and establishment of a dynastic union between the Grand Duchy of Lithuania and the Crown of the Kingdom of Poland marked both the greatest territorial expansion of the Grand Duchy and the defeat of the Teutonic Knights in the Battle of Grunwald in 1410.
+in 1387", oil on canvas by Jan Matejko, 1889, Royal Castle in Warsaw]] In the Northern Europe, Konrad of Masovia gave Chelmno to the Teutonic Knights in 1226 as a base for a Crusade against the Old Prussians and Grand Duchy of Lithuania. The Livonian Brothers of the Sword were defeated by the Lithuanians, so in 1237 Gregory IX merged the remainder of the order into the Teutonic Order as the Livonian Order. By the middle of the century, the Teutonic Knights completed their conquest of the Prussians before conquering and converting the Lithuanians in the subsequent decades. The order also came into conflict with the Eastern Orthodox Church of the Pskov and Novgorod Republics. In 1240 the Orthodox Novgorod army defeated the Catholic Swedes in the Battle of the Neva, and, two years later, they defeated the Livonian Order in the Battle on the Ice. The Union of Krewo in 1386, bringing two major changes in the history of the Grand Duchy of Lithuania: conversion to Catholicism and establishment of a dynastic union between the Grand Duchy of Lithuania and the Crown of the Kingdom of Poland marked both the greatest territorial expansion of the Grand Duchy and the defeat of the Teutonic Knights in the Battle of Grunwald in 1410.
 
 Late Middle Ages
-
-Pestilence_spreading_1347-1351_europe.png
 
 The Late Middle Ages spanned the 14th and early 15th centuries.[41] Around 1300, centuries of European prosperity and growth came to a halt. A series of famines and plagues, such as the Great Famine of 1315–1317 and the Black Death, killed people in a matter of days, reducing the population of some areas by half as many survivors fled. Kishlansky reports:
 
@@ -243,13 +233,13 @@ Historian Manuel Eisner has summarized the patterns from over 300 historical stu
 
 Early modern Europe
 
-Republik_Venedig_Handelswege01.png (red) and Venetian (green) maritime trade routes in the Mediterranean and Black Sea]]
+(red) and Venetian (green) maritime trade routes in the Mediterranean and Black Sea]]
 
 The Early Modern period spans the centuries between the Middle Ages and the Industrial Revolution, roughly from 1500 to 1800, or from the discovery of the New World in 1492 to the French Revolution in 1789. The period is characterised by the rise to importance of science and increasingly rapid technological progress, secularised civic politics and the nation state. Capitalist economies began their rise, beginning in northern Italian republics such as Genoa. The early modern period also saw the rise and dominance of the economic theory of mercantilism. As such, the early modern period represents the decline and eventual disappearance, in much of the European sphere, of feudalism, serfdom and the power of the Catholic Church. The period includes the Protestant Reformation, the disastrous Thirty Years' War, the European colonisation of the Americas and the European witch-hunts.
 
 Renaissance
 
-Pacioli.jpg'', the founder of accounting, by Jacopo de' Barbari (Museo di Capodimonte).]]
+'', the founder of accounting, by Jacopo de' Barbari (Museo di Capodimonte).]]
 
 Despite these crises, the 14th century was also a time of great progress within the arts and sciences. A renewed interest in ancient Greek and Roman as well as more recent Arabic texts[50] led to what has later been termed the Italian Renaissance.
 
@@ -259,7 +249,7 @@ The Italian Petrarch (Francesco di Petracco), deemed the first full-blooded Huma
 
 The Renaissance was inspired by the growth in study of Latin and Greek texts and the admiration of the Greco-Roman era as a golden age. This prompted many artists and writers to begin drawing from Roman and Greek examples for their works, but there was also much innovation in this period, especially by multi-faceted artists such as Leonardo da Vinci. The Humanists saw their repossession of a great past as a Renaissance – a rebirth of civilization itself.[51]
 
-Francesco_Melzi_-_Portrait_of_Leonardo_-_WGA14795.jpg (1452–1519), famed for the diversity of his talents.]]
+(1452–1519), famed for the diversity of his talents.]]
 
 Important political precedents were also set in this period. Niccolò Machiavelli's political writing in _The Prince_ influenced later absolutism and real-politik. Also important were the many patrons who ruled states and used the artistry of the Renaissance as a sign of their power.
 
@@ -269,7 +259,7 @@ During this period, Spain experienced the greatest epoch of cultural splendor in
 
 Exploration and trade
 
-Cantino_Planisphere.jpg, 1502, earliest chart showing explorations by Gama, Columbus and Cabral]]
+, 1502, earliest chart showing explorations by Gama, Columbus and Cabral]]
 
 Toward the end of the period, an era of discovery began. The growth of the Ottoman Empire, culminating in the fall of Constantinople in 1453, cut off trading possibilities with the east. Western Europe was forced to discover new trading routes, as happened with Columbus' travel to the Americas in 1492, and Vasco da Gama's circumnavigation of India and Africa in 1498.
 
@@ -277,7 +267,7 @@ The numerous wars did not prevent European states from exploring and conquering 
 
 Reformation
 
-95Thesen.jpg of German monk Martin Luther, which criticized the Catholic Church]] Europe_map_1648.PNG
+of German monk Martin Luther, which criticized the Catholic Church]]
 
 With the development of the printing press, new ideas spread throughout Europe and challenged traditional doctrines in science and theology. Simultaneously, the Protestant Reformation under German Martin Luther questioned Papal authority. The most common dating of the Reformation begins in 1517, when Luther published _The Ninety-Five Theses_, and concludes in 1648 with the Treaty of Westphalia that ended years of European religious wars.[54]
 
@@ -289,15 +279,15 @@ Unlike many European countries, the Polish–Lithuanian Commonwealth and Hungary
 
 Another important development in this period was the growth of pan-European sentiments. Eméric Crucé (1623) came up with the idea of the European Council, intended to end wars in Europe; attempts to create lasting peace were no success, although all European countries (except the Russian and Ottoman Empires, regarded as foreign) agreed to make peace in 1518 at the Treaty of London. Many wars broke out again in a few years. The Reformation also made European peace impossible for many centuries.
 
-Europe_As_A_Queen_Sebastian_Munster_1570.jpg, 1570 print by Sebastian Münster of Basel]]
+, 1570 print by Sebastian Münster of Basel]]
 
 Another development was the idea of 'European superiority'. The ideal of civilisation was taken over from the ancient Greeks and Romans: Discipline, education and living in the city were required to make people civilised; Europeans and non-Europeans were judged for their civility, and Europe regarded itself as superior to other continents. There was a movement by some such as Montaigne that regarded the non-Europeans as a better, more natural and primitive people. Post services were founded all over Europe, which allowed a humanistic interconnected network of intellectuals across Europe, despite religious divisions. However, the Roman Catholic Church banned many leading scientific works; this led to an intellectual advantage for Protestant countries, where the banning of books was regionally organised. Francis Bacon and other advocates of science tried to create unity in Europe by focusing on the unity in nature.¹ In the 15th century, at the end of the Middle Ages, powerful sovereign states were appearing, built by the New Monarchs who were centralising power in France, England, and Spain. On the other hand, the Parliament in the Polish–Lithuanian Commonwealth grew in power, taking legislative rights from the Polish king. The new state power was contested by parliaments in other countries especially England. New kinds of states emerged which were co-operation agreements among territorial rulers, cities, farmer republics and knights.
 
-Alberico_Gentili.jpg, the Father of international law.]]
+, the Father of international law.]]
 
 Mercantilism and colonial expansion
 
-Colonisation2.gifs from 1492 to the present]]
+s from 1492 to the present]]
 
 The Iberian states (Spain and Portugal) were able to dominate New World (American) colonial activity in the 16th century. The Spanish constituted the first global empire and during the 16th century and the first half of the 17th century, Spain was the most powerful nation in the world, but was increasingly challenged by British, French, and the short-lived Dutch and Swedish colonial efforts of the 17th and 18th centuries. New forms of trade and expanding horizons made new forms of government, law and eco nomics necessary.
 
@@ -307,13 +297,13 @@ This expansion helped the economy of the countries owning them. Trade flourished
 
 Crisis of the 17th century
 
-Defenestration-prague-1618.jpg (1618), which marked the beginning of the Bohemian Revolt, which began the first part of the Thirty Years' War.]]
+(1618), which marked the beginning of the Bohemian Revolt, which began the first part of the Thirty Years' War.]]
 
 The 17th century was an era of crisis.[56][57] Many historians have rejected the idea, while others promote it as an invaluable insight into the warfare, politics, economics,[58] and even art.[59] The Thirty Years' War (1618–1648) focused attention on the massive horrors that wars could bring to entire populations.[60] The 1640s in particular saw more state breakdowns around the world than any previous or subsequent period.[61][62] The Polish-Lithuanian Commonwealth, the largest state in Europe, temporarily disappeared. In addition, there were secessions and upheavals in several parts of the Spanish empire, the world's first global empire. In Britain the entire Stuart monarchy (England, Scotland, Ireland, and its North American colonies) rebelled. Political insurgency and a spate of popular revolts seldom equalled shook the foundations of most states in Europe and Asia. More wars took place around the world in the mid-17th century than in almost any other period of recorded history. The crises spread far beyond Europe – for example Ming China, the most populous state in the world, collapsed. Across the Northern Hemisphere, the mid-17th century experienced almost unprecedented death rates. Geoffrey Parker, a British historian, suggests that environmental factors may have been in part to blame, especially global cooling.[63][64]
 
 Age of Absolutism
 
-Mária_Terézia_koronázása_a_Szent_Márton_székesegyházban.jpg, Pressburg (Bratislava)]]
+, Pressburg (Bratislava)]]
 
 The "absolute" rule of powerful monarchs such as Louis XIV (ruled France 1643–1715),[65] Peter the Great (ruled Russia 1682–1725),[66] Maria Theresa (ruled Habsburg lands 1740–1780) and Frederick the Great (ruled Prussia 1740–86),[67] produced powerful centralized states, with strong armies and powerful bureaucracies, all under the control of the king.[68]
 
@@ -325,9 +315,9 @@ Thirty Years' War 1618–1648
 
 The Thirty Years' War was fought between 1618 and 1648, across Germany and neighbouring areas, and involved most of the major European powers except England and Russia.[69] Beginning as a religious conflict between Protestants and Catholics in Bohemia, it quickly developed into a general war involving Catholics versus Protestants for the most part. The major impact of the war, in which mercenary armies were extensively used, was the devastation of entire regions scavenged bare by the foraging armies. Episodes of widespread famine and disease, and the breakup of family life, devastated the population of the German states and, to a lesser extent, the Low Countries, the Crown of Bohemia and northern parts of Italy, while bankrupting many of the regional powers involved. Between one-fourth and one-third of the German population perished from direct military causes or from disease and starvation, as well as postponed births.[70]
 
-Herman_Moll_Map_of_Europe.jpg, Europe's borders were still stable in 1708]] After the Peace of Westphalia, which ended the war in favour of nations deciding their own religious allegiance, absolutism became the norm of the continent, while parts of Europe experimented with constitutions foreshadowed by the English Civil War and particularly the Glorious Revolution. European military conflict did not cease, but had less disruptive effects on the lives of Europeans. In the advanced northwest, the Enlightenment gave a philosophical underpinning to the new outlook, and the continued spread of literacy, made possible by the printing press, created new secular forces in thought.
+, Europe's borders were still stable in 1708]] After the Peace of Westphalia, which ended the war in favour of nations deciding their own religious allegiance, absolutism became the norm of the continent, while parts of Europe experimented with constitutions foreshadowed by the English Civil War and particularly the Glorious Revolution. European military conflict did not cease, but had less disruptive effects on the lives of Europeans. In the advanced northwest, the Enlightenment gave a philosophical underpinning to the new outlook, and the continued spread of literacy, made possible by the printing press, created new secular forces in thought.
 
-Map_of_Europe_in_1794_Samuel_Dunn_Map_of_the_World_in_Hemispheres.JPG]] From the Union of Krewo (see above) central and eastern Europe was dominated by Kingdom of Poland and Grand Duchy of Lithuania. In the 16th and 17th centuries Central and Eastern Europe was an arena of conflict for domination of the continent between Sweden, the Polish–Lithuanian Commonwealth (involved in series of wars, like Khmelnytsky Uprising, Russo-Polish War, the Deluge, etc.) and the Ottoman Empire. This period saw a gradual decline of these three powers which were eventually replaced by new enlightened absolutist monarchies: Russia, Prussia and Austria (the Habsburg Monarchy). By the turn of the 19th century they had become new powers, having divided Poland between themselves, with Sweden and Turkey having experienced substantial territorial losses to Russia and Austria respectively as well as pauperisation.
+]] From the Union of Krewo (see above) central and eastern Europe was dominated by Kingdom of Poland and Grand Duchy of Lithuania. In the 16th and 17th centuries Central and Eastern Europe was an arena of conflict for domination of the continent between Sweden, the Polish–Lithuanian Commonwealth (involved in series of wars, like Khmelnytsky Uprising, Russo-Polish War, the Deluge, etc.) and the Ottoman Empire. This period saw a gradual decline of these three powers which were eventually replaced by new enlightened absolutist monarchies: Russia, Prussia and Austria (the Habsburg Monarchy). By the turn of the 19th century they had become new powers, having divided Poland between themselves, with Sweden and Turkey having experienced substantial territorial losses to Russia and Austria respectively as well as pauperisation.
 
 War of the Spanish Succession
 
@@ -362,13 +352,11 @@ The great enemy of Freemasonry was the Roman Catholic Church, so that in countri
 
 From revolution to imperialism (1789–1914)
 
-Europe_1815_map_en.png
-
 The "long 19th century", from 1789 to 1914 saw the drastic social, political and economic changes initiated by the Industrial Revolution, the French Revolution and the Napoleonic Wars. Following the reorganisation of the political map of Europe at the Congress of Vienna in 1815, Europe experienced the rise of Nationalism, the rise of the Russian Empire and the peak of the British Empire, which was paralleled by the decline of the Ottoman Empire. Finally, the rise of the German Empire and the Austro-Hungarian Empire initiated the course of events that culminated in the outbreak of the First World War in 1914.
 
 Industrial Revolution
 
-Dore_London.jpg]] Barricade_Voltaire_Lenoir_Commune_Paris_1871.jpg, 1871.]] The Industrial Revolution was a period in the late 18th century and early 19th century when major changes in agriculture, manufacturing, and transport affected socioeconomic and cultural conditions in Britain and subsequently spread throughout Europe and North America and eventually the world, a process that continues as industrialisation. Technological advancements, most notably the invention of the steam engine by Scottish engineer James Watt, were major catalysts in the industrialisation of Britain and, later, the wider world. It started in England and Scotland in the mid-18th century with the mechanisation of the textile industries, the development of iron-making techniques and the increased use of refined coal. Trade expansion was enabled by the introduction of canals, improved roads and railways. The introduction of steam power (fuelled primarily by coal) and powered machinery (mainly in textile manufacturing) underpinned the dramatic increases in production capacity.[88] The development of all-metal machine tools in the first two decades of the 19th century facilitated the manufacture of more production machines for manufacturing in other industries. The effects spread throughout Western Europe and North America during the 19th century, eventually affecting most of the world. The impact of this change on society was enormous.[89]
+]] , 1871.]] The Industrial Revolution was a period in the late 18th century and early 19th century when major changes in agriculture, manufacturing, and transport affected socioeconomic and cultural conditions in Britain and subsequently spread throughout Europe and North America and eventually the world, a process that continues as industrialisation. Technological advancements, most notably the invention of the steam engine by Scottish engineer James Watt, were major catalysts in the industrialisation of Britain and, later, the wider world. It started in England and Scotland in the mid-18th century with the mechanisation of the textile industries, the development of iron-making techniques and the increased use of refined coal. Trade expansion was enabled by the introduction of canals, improved roads and railways. The introduction of steam power (fuelled primarily by coal) and powered machinery (mainly in textile manufacturing) underpinned the dramatic increases in production capacity.[88] The development of all-metal machine tools in the first two decades of the 19th century facilitated the manufacture of more production machines for manufacturing in other industries. The effects spread throughout Western Europe and North America during the 19th century, eventually affecting most of the world. The impact of this change on society was enormous.[89]
 
 Era of the French Revolution
 
@@ -384,7 +372,7 @@ The French Revolution (1789–1804) was a product of the same democratic forces 
 
     From the social point of view, the Revolution consisted in the suppression of what was called the feudal system, in the emancipation of the individual, in greater division of landed property, the abolition of the privileges of noble birth, the establishment of equality, the simplification of life.... The French Revolution differed from other revolutions in being not merely national, for it aimed at benefiting all humanity."[94]
 
-Prise_de_la_Bastille.jpg in the French Revolution of 1789]]
+in the French Revolution of 1789]]
 
 French intervention in the American Revolutionary War had nearly bankrupted the state. After repeated failed attempts at financial reform, King Louis XVI had to convene the Estates-General, a representative body of the country made up of three estates: the clergy, the nobility, and the commoners. The third estate, joined by members of the other two, declared itself to be a National Assembly and swore an oath not to dissolve until France had a constitution and created, in July, the National Constituent Assembly. At the same time the people of Paris revolted, famously storming the Bastille prison on 14 July 1789.
 
@@ -392,7 +380,7 @@ At the time the assembly wanted to create a constitutional monarchy, and over th
 
 On 20 September 1792 the National Convention abolished the monarchy and declared France a republic. Due to the emergency of war, the National Convention created the Committee of Public Safety, controlled by Maximilien de Robespierre of the Jacobin Club, to act as the country's executive. Under Robespierre, the committee initiated the Reign of Terror, during which up to 40,000 people were executed in Paris, mainly nobles and those convicted by the Revolutionary Tribunal, often on the flimsiest of evidence. Internal tensions at Paris drove the Committee towards increasing assertions of radicalism and increasing suspicions, fueling new terror: A few months into this phase, more and more prominent revolutionaries were being sent to the guillotine by Robespierre and his faction, for example Madame Roland and Georges Danton. Elsewhere in the country, counter-revolutionary insurrections were brutally suppressed. The regime was overthrown in the coup of 9 Thermidor (27 July 1794) and Robespierre was executed. The regime which followed ended the Terror and relaxed Robespierre's more extreme policies.
 
-Battle_of_Waterloo_1815.PNG, where Napoleon was defeated by the Seventh Coalition in 1815]]
+, where Napoleon was defeated by the Seventh Coalition in 1815]]
 
 Napoleon
 
@@ -400,7 +388,7 @@ Napoleon Bonaparte was one of the world's most famous soldiers and statesmen, le
 
 Napoleon, despite his youth, was France's most successful general in the Revolutionary wars, having conquered large parts of Italy and forced the Austrians to sue for peace. In 1799 on 18 Brumaire (9 November) he overthrew the feeble government, replacing it with the Consulate, which he dominated. He gained popularity in France by restoring the Church, keeping taxes low, centralizing power in Paris, and winning glory on the battlefield. In 1804 he crowned himself Emperor. In 1805, Napoleon planned to invade Britain, but a renewed British alliance with Russia and Austria (Third Coalition), forced him to turn his attention towards the continent, while at the same time the French fleet was demolished by the British at the Battle of Trafalgar, ending any plan to invade Britain. On 2 December 1805, Napoleon defeated a numerically superior Austro-Russian army at Austerlitz, forcing Austria's withdrawal from the coalition (see Treaty of Pressburg) and dissolving the Holy Roman Empire. In 1806, a Fourth Coalition was set up. On 14 October Napoleon defeated the Prussians at the Battle of Jena-Auerstedt, marched through Germany and defeated the Russians on 14 June 1807 at Friedland. The Treaties of Tilsit divided Europe between France and Russia and created the Duchy of Warsaw.
 
-Berezyna.jpg at the Berezina river]]
+at the Berezina river]]
 
 On 12 June 1812 Napoleon invaded Russia with a Grande Armée of nearly 700,000 troops. After the measured victories at Smolensk and Borodino Napoleon occupied Moscow, only to find it burned by the retreating Russian army. He was forced to withdraw. On the march back his army was harassed by Cossacks, and suffered disease and starvation. Only 20,000 of his men survived the campaign. By 1813 the tide had begun to turn from Napoleon. Having been defeated by a seven nation army at the Battle of Leipzig in October 1813, he was forced to abdicate after the Six Days' Campaign and the occupation of Paris. Under the Treaty of Fontainebleau he was exiled to the island of Elba. He returned to France on 1 March 1815 (see Hundred Days), raised an army, but was finally defeated by a British and Prussian force at the Battle of Waterloo on 18 June 1815 and exiled to a small British island in the South Atlantic.
 
@@ -436,7 +424,7 @@ Historian Kenneth Scott Latourette argues that the outlook for Protestantism at 
 
 Nations rising
 
-Maerz1848_berlin.jpg in Berlin]]
+in Berlin]]
 
 Emerging nationalism
 
@@ -452,15 +440,13 @@ Italy
 
 Italian nationalism emerged in the 19th century and was the driving force for Italian unification or the "Risorgimento" (meaning the Resurgence or revival). It was the political and intellectual movement that consolidated different states of the Italian peninsula into the single state of the Kingdom of Italy in 1860. The memory of the Risorgimento is central to both Italian nationalism and Italian historiography.[112]
 
-Missolonghi.jpg began as a rebellion by Greek revolutionaries against the ruling Ottoman Empire.]]
+began as a rebellion by Greek revolutionaries against the ruling Ottoman Empire.]]
 
 Greece
 
 The Greek drive for independence from the Ottoman Empire inspired supporters across Christian Europe, especially in Britain. France, Russia and Britain intervened to make this nationalist dream become reality.[113]
 
 Serbia
-
-Breakup_of_Yugoslavia-TRY2.gif
 
 For centuries the Orthodox Christian Serbs were ruled by the Muslim-controlled Ottoman Empire. The success of the Serbian revolution against Ottoman rule in 1817 marked the foundation of modern Principality of Serbia. It achieved _de facto_ independence in 1867 and finally gained recognition by the Great Powers in the Berlin Congress of 1878. The Serbs developed a larger vision for nationalism in Pan-Slavism and with Russian support sought to pull the other Slavs out of the Austro-Hungarian Empire.[114][115] Austria, with German backing, tried to crush Serbia in 1914 but Russia intervened, thus igniting the First World War in which Austria dissolved into nation states.[116]
 
@@ -490,7 +476,7 @@ France under Napoleon III
 
 Napoleon III, nephew of Napoleon I, returned to France from exile in 1848, bringing a famous name that promised to stabilize the chaotic political situation. He was elected president and elected himself Emperor, a move approved later by a large majority of the French electorate. He modernized Paris, and build up the economy. He was most famous for his aggressive foreign policy in Europe, Mexico, and worldwide. He helped in the unification of Italy by fighting the Austrian Empire and joined the Crimean War on the side of the United Kingdom and the Ottoman Empire against Russia. His empire collapsed after being defeated in the Franco-Prussian War.[123] France gave up monarchs and became the democratic but anti-clerical French Third Republic, which lasted until 1940.[124]
 
-Battle_of_Calatafimi.jpg's redshirts during the Battle of Calatafimi, part of the Italian Unification.]]
+'s redshirts during the Battle of Calatafimi, part of the Italian Unification.]]
 
 Major powers
 
@@ -504,7 +490,7 @@ Major powers
   Italy             26.8 (1876)
   Source:           _Appleton Annual Cyclopedia: 1877_ (1878) p. 281
 
-Most European states had become constitutional (rather than absolute) monarchies by 1871, and Germany and Italy merged many small city-states to become united nation-states. Germany in particular increasingly dominated the continent in terms of economics and political power. Meanwhile, on a global scale, Great Britain, with its far-flung British Empire, unmatched Royal Navy, and powerful bankers, became the world's first global power. The sun never set on its territories, while an informal empire operated through British financiers, entrepreneurs, traders and engineers who established operations in many countries, and largely dominated Latin America. The British were especially famous for financing and constructing railways around the world.[125] Bundesarchiv_Bild_183-R68588,_Otto_von_Bismarck.jpg
+Most European states had become constitutional (rather than absolute) monarchies by 1871, and Germany and Italy merged many small city-states to become united nation-states. Germany in particular increasingly dominated the continent in terms of economics and political power. Meanwhile, on a global scale, Great Britain, with its far-flung British Empire, unmatched Royal Navy, and powerful bankers, became the world's first global power. The sun never set on its territories, while an informal empire operated through British financiers, entrepreneurs, traders and engineers who established operations in many countries, and largely dominated Latin America. The British were especially famous for financing and constructing railways around the world.[125]
 
 Bismarck's Germany
 
@@ -518,7 +504,7 @@ The Russian Empire likewise brought together a multitude of languages and cultur
 
 Imperialism
 
-Afrikakonferenz.jpg headed by Otto von Bismarck that regulated European colonization in Africa during the New Imperialism period]]
+headed by Otto von Bismarck that regulated European colonization in Africa during the New Imperialism period]]
 
 Colonial empires were the product of the European Age of Discovery from the 15th century. The initial impulse behind these dispersed maritime empires and those that followed was trade, driven by the new ideas and the capitalism that grew out of the Renaissance. Both the Portuguese Empire and Spanish Empire quickly grew into the first global political and economic systems with territories spread around the world.
 
@@ -526,12 +512,10 @@ Subsequent major European colonial empires included the French, Dutch, and Briti
 
 By the mid-19th century, the Ottoman Empire had declined enough to become a target for other global powers (see History of the Balkans). This instigated the Crimean War in 1854 and began a tenser period of minor clashes among the globe-spanning empires of Europe that eventually set the stage for the First World War. In the second half of the 19th century, the Kingdom of Sardinia and the Kingdom of Prussia carried out a series of wars that resulted in the creation of Italy and Germany as nation-states, significantly changing the balance of power in Europe. From 1870, Otto von Bismarck engineered a German hegemony of Europe that put France in a critical situation. It slowly rebuilt its relationships, seeking alliances with Russia and Britain to control the growing power of Germany. In this way, two opposing sides – the Triple Alliance of 1882 (Germany, Austria-Hungary and Italy) and the Triple Entente of 1907 (Britain, France and Russia) – formed in Europe, improving their military forces and alliances year-by-year.
 
-Quarto_Stato.jpg by Giuseppe Pellizza da Volpedo.]]
+by Giuseppe Pellizza da Volpedo.]]
 
 
 1914–1945: Two World wars
-
-Map_Europe_alliances_1914-en.svg
 
 German-American historian Konrad Jarausch, asked if he agreed that "the European record of the past century [was] just one gigantic catastrophe", argues:
 
@@ -541,15 +525,13 @@ The "short twentieth century", from 1914 to 1991, included the First World War, 
 
 World War I
 
-trencheswwi2.jpg
-
 After the relative peace of most of the 19th century, the rivalry between European powers, compounded by a rising nationalism among ethnic groups, exploded in August 1914, when the First World War started.[130] Over 65 million European soldiers were mobilised from 1914 to 1918; 20 million soldiers and civilians died, and 21 million were seriously wounded.[131] On one side were Germany, Austria-Hungary, the Ottoman Empire and Bulgaria (the Central Powers/Triple Alliance), while on the other side stood Serbia and the _Triple Entente_ – the coalition of France, Britain and Russia, which were joined by Italy in 1915, Romania in 1916 and by the United States in 1917. The Western Front involved especially brutal combat without any territorial gains by either side. Single battles like Verdun and the Somme killed hundreds of thousands of men while leaving the stalemate unchanged. Heavy artillery and machine guns caused most of the casualties, supplemented by poison gas. Czarist Russia collapsed in the February Revolution of 1917 and Germany claimed victory on the Eastern Front. After eight months of liberal rule, the October Revolution brought Vladimir Lenin and the Bolsheviks to power, leading to the creation of the Soviet Union in place of the disintegrated Russian Empire. With American entry into the war in 1917 on the Allied side, and the failure of Germany's spring 1918 offensive, Germany had run out of manpower, while an average of 10,000 American troops were arriving in France every day in the summer of 1918. Germany's allies, Austria-Hungary and the Ottoman Empire, surrendered and dissolved, followed by Germany on 11 November 1918.[132][133] The victors forced Germany to assume responsibility for the conflict and pay war reparations.
 
 One factor in determining the outcome of the war was that the Allies had significantly more economic resources they could spend on the war. One estimate (using 1913 US dollars) is that the Allies spent $58 billion on the war and the Central Powers only $25 billion. Among the Allies, Britain spent $21 billion and the U.S. $17 billion; among the Central Powers Germany spent $20 billion.[134]
 
 Paris Peace Conference
 
-Europe_map_1919.jpg William_Orpen_–_The_Signing_of_Peace_in_the_Hall_of_Mirrors,_Versailles_1919,_Ausschnitt.jpg's painting _The Signing of Peace in the Hall of Mirrors, Versailles, 28 June 1919_, showing the signing of the peace treaty by a minor German official opposite to the representatives of the winning powers.]]
+'s painting _The Signing of Peace in the Hall of Mirrors, Versailles, 28 June 1919_, showing the signing of the peace treaty by a minor German official opposite to the representatives of the winning powers.]]
 
 The world war was settled by the victors at the Paris Peace Conference in 1919. Two dozen nations sent delegations, and there were many nongovernmental groups, but the defeated powers were not invited.[135]
 
@@ -562,10 +544,6 @@ As the conference's decisions were enacted unilaterally, and largely on the whim
 At the insistence of President Wilson, the Big Four required Poland to sign a treaty on 28 June 1919 that guaranteed minority rights in the new nation. Poland signed under protest, and made little effort to enforce the specified rights for Germans, Jews, Ukrainians, and other minorities. Similar treaties were signed by Czechoslovakia, Romania, Yugoslavia, Greece, Austria, Hungary, Bulgaria, and later by Latvia, Estonia and Lithuania. Finland and Germany were not asked to sign a minority rights treaty.[139]
 
 Interwar
-
-Europe_in_1923.jpg
-
-Palatinus_Strandfürdő._Fortepan_78086.jpg
 
 In the Treaty of Versailles (1919) the winners imposed relatively hard conditions on Germany and recognised the new states (such as Poland, Czechoslovakia, Hungary, Austria, Yugoslavia, Finland, Estonia, Latvia, Lithuania) created in central Europe from the defunct German, Austro-Hungarian and Russian empires, based on national (ethnic) self-determination. It was a peaceful era with a few small wars before 1922 such as the Ukrainian–Soviet War (1917–1921) and the Polish–Soviet War (1919–1921). Prosperity was widespread, and the major cities sponsored a youth culture called the "Roaring Twenties" that was often featured in the cinema, which attracted very large audiences.
 
@@ -585,13 +563,13 @@ After the Wall Street Crash of 1929, nearly the whole world sank into a Great De
 
 Liberalism and democracy were discredited. In most of Europe, as well as in Japan and most of Latin America, nation after nation turned to dictators and authoritarian regimes. The most momentous change of government came when Hitler and his Nazis took power in Germany in 1933. The main institution that was meant to bring stability was the League of Nations, created in 1919. However the League failed to resolve any major crises and by 1938 it was no longer a major player. The League was undermined by the bellicosity of Nazi Germany, Imperial Japan, the Soviet Union, and Mussolini's Italy, and by the non-participation of the United States. By 1937 it was largely ignored.[146]
 
-A major civil war took place in Spain, with the nationalists winning. The League of Nations was helpless as Italy conquered Ethiopia and Japan seized Manchuria in 1931 and took over most of China starting in 1937.[147] Milicianas_CNT-FAI.png milicia during Spanish Social Revolution.]] The Spanish Civil War (1936–1939) was marked by numerous small battles and sieges, and many atrocities, until the rebels (the Nationalists), led by Francisco Franco, won in 1939. There was military intervention as Italy sent land forces, and Germany sent smaller elite air force and armoured units to the Nationalists. The Soviet Union sold armaments to the leftist Republicans on the other side, while the Communist parties in numerous countries sent soldiers to the "International Brigades." The civil war did not escalate into a larger conflict, but did become a worldwide ideological battleground that pitted the left, the communist movement and many liberals against Catholics, conservatives, and fascists. Britain, France and the US remained neutral and refused to sell military supplies to either side. Worldwide there was a decline in pacifism and a growing sense that another world war was imminent, and that it would be worth fighting for.[148]
+A major civil war took place in Spain, with the nationalists winning. The League of Nations was helpless as Italy conquered Ethiopia and Japan seized Manchuria in 1931 and took over most of China starting in 1937.[147] milicia during Spanish Social Revolution.]] The Spanish Civil War (1936–1939) was marked by numerous small battles and sieges, and many atrocities, until the rebels (the Nationalists), led by Francisco Franco, won in 1939. There was military intervention as Italy sent land forces, and Germany sent smaller elite air force and armoured units to the Nationalists. The Soviet Union sold armaments to the leftist Republicans on the other side, while the Communist parties in numerous countries sent soldiers to the "International Brigades." The civil war did not escalate into a larger conflict, but did become a worldwide ideological battleground that pitted the left, the communist movement and many liberals against Catholics, conservatives, and fascists. Britain, France and the US remained neutral and refused to sell military supplies to either side. Worldwide there was a decline in pacifism and a growing sense that another world war was imminent, and that it would be worth fighting for.[148]
 
 World War II
 
 In the Munich Agreement of 1938, Britain and France adopted a policy of appeasement as they gave Hitler what he wanted out of Czechoslovakia in the hope that it would bring peace. It did not. In 1939 Germany took over the rest of Czechoslovakia and appeasement policies gave way to hurried rearmament as Hitler next turned his attention to Poland.
 
-Bundesarchiv_N_1576_Bild-003,_Warschau,_Bettelnde_Kinder.jpg (1940–1943).]] Warsaw_1944.jpg in 1944.]] AmericanAndSovietAtElbe.jpg, east of the Elbe River.]]
+(1940–1943).]] in 1944.]] , east of the Elbe River.]]
 
 After allying with Japan in the Anti-Comintern Pact and then also with Benito Mussolini's Italy in the "Pact of Steel", and finally signing a non-aggression treaty with the Soviet Union in August 1939, Hitler launched the Second World War on 1 September 1939 by attacking Poland. To his surprise Britain and France declared war on Germany, but there was little fighting during the "Phoney War" period. War began in earnest in spring 1940 with the successful Blitzkrieg conquests of Denmark, Norway, the Low Countries, and France. Britain remained alone but refused to negotiate, and defeated Germany's air attacks in the Battle of Britain. Hitler's goal was to control Eastern Europe but because of his failure to defeat Britain and the Italian failures in North Africa and the Balkans, the great attack on the Soviet Union was delayed until June 1941. Despite initial successes, the German army was stopped close to Moscow in December 1941.[149]
 
@@ -599,12 +577,12 @@ Over the next year the tide was turned and the Germans started to suffer a serie
 
 This period was also marked by systematic genocide. In 1942–45, separately from the war-related deaths, the Nazis killed an additional number of over 11 million civilians identified through IBM-enabled censuses, including the majority of the Jews and Gypsies of Europe, millions of Polish and Soviet Slavs, and also homosexuals, Jehovah's Witnesses, misfits, disabled, and political enemies. Meanwhile, in the 1930s the Soviet system of forced labour, expulsions and allegedly engineered famine had a similar death toll. During and after the war millions of civilians were affected by forced population transfers.[152]
 
-Colonization_1945.png and Africa disintegrated after World War II]]
+and Africa disintegrated after World War II]]
 
 
 Cold War Era
 
-Berlin_Wall_1961-11-20.jpg DNV_opona.jpg" in Devínska Nová Ves, Bratislava (Slovakia).]] The world wars ended the pre-eminent position of Britain, France and Germany in Europe and the world.[153] At the Yalta Conference, Europe was divided into spheres of influence between the victors of World War II, and soon became the principal zone of contention in the Cold War between the two power blocs, the Western countries and the Communist bloc. The United States and the majority of European liberal democracies at the time (United Kingdom, France, Italy, Netherlands, West Germany etc.) established the NATO military alliance. Later, the Soviet Union and its satellites (Bulgaria, Czechoslovakia, East Germany, Hungary, Poland, and Romania) in 1955 established the Warsaw Pact as a counterpoint to NATO. The Warsaw Pact had a much larger ground force, but the American-French-British nuclear umbrellas protected NATO.
+" in Devínska Nová Ves, Bratislava (Slovakia).]] The world wars ended the pre-eminent position of Britain, France and Germany in Europe and the world.[153] At the Yalta Conference, Europe was divided into spheres of influence between the victors of World War II, and soon became the principal zone of contention in the Cold War between the two power blocs, the Western countries and the Communist bloc. The United States and the majority of European liberal democracies at the time (United Kingdom, France, Italy, Netherlands, West Germany etc.) established the NATO military alliance. Later, the Soviet Union and its satellites (Bulgaria, Czechoslovakia, East Germany, Hungary, Poland, and Romania) in 1955 established the Warsaw Pact as a counterpoint to NATO. The Warsaw Pact had a much larger ground force, but the American-French-British nuclear umbrellas protected NATO.
 
 Communist states were imposed by the Red Army in the East, while parliamentary democracy became the dominant form of government in the West. Most historians point to its success as the product of exhaustion with war and dictatorship, and the promise of continued economic prosperity. Martin Conway also adds that an important impetus came from the anti-Nazi wartime political coalitions.[154]
 
@@ -614,7 +592,7 @@ The United States gave away about $20 billion in Marshall Plan grants and other 
 
     It was not large enough to have significantly accelerated recovery by financing investment, aiding the reconstruction of damaged infrastructure, or easing commodity bottlenecks. We argue, however, that the Marshall Plan did play a major role in setting the stage for post-World War II Western Europe's rapid growth. The conditions attached to Marshall Plan aid pushed European political economy in a direction that left its post World War II "mixed economies" with more "market" and less "controls" in the mix.[156]
 
-Treaty_of_Rome.jpg, first step of the european integration process.]] The Soviet Union concentrated on its own recovery. It seized and transferred most of Germany's industrial plants and it exacted war reparations from East Germany, Hungary, Romania, and Bulgaria, using Soviet-dominated joint enterprises. It used trading arrangements deliberately designed to favor the Soviet Union. Moscow controlled the Communist parties that ruled the satellite states, and they followed orders from the Kremlin. Historian Mark Kramer concludes:
+, first step of the european integration process.]] The Soviet Union concentrated on its own recovery. It seized and transferred most of Germany's industrial plants and it exacted war reparations from East Germany, Hungary, Romania, and Bulgaria, using Soviet-dominated joint enterprises. It used trading arrangements deliberately designed to favor the Soviet Union. Moscow controlled the Communist parties that ruled the satellite states, and they followed orders from the Kremlin. Historian Mark Kramer concludes:
 
     The net outflow of resources from eastern Europe to the Soviet Union was approximately $15 billion to $20 billion in the first decade after World War II, an amount roughly equal to the total aid provided by the United States to western Europe under the Marshall Plan.[157]
 
@@ -631,7 +609,7 @@ Western Europe's industrial nations in the 1970s were hit by a global economic c
 
 Recent history
 
-Thefalloftheberlinwall1989.JPG at the Brandenburg Gate, November 1989; it would begin to be torn apart in the following days.]] Cold_War_border_changes.png
+at the Brandenburg Gate, November 1989; it would begin to be torn apart in the following days.]]
 
 The ending of the Cold War came in a rush of events in 1979 to 1991, chiefly in Eastern Europe, that brought the end of the Soviet control over its East European satellites and its world network of communist parties (1989) and ending with the final splitting up of the Soviet Union in 1991 into 15 non-communist states. Italian historian Federico Romero reports that observers at the time emphasized that,:
 

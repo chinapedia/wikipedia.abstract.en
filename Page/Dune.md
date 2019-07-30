@@ -1,4 +1,4 @@
-Morocco_Africa_Flickr_Rosino_December_2005_84514010.jpg, Morocco]] Rub_al_Khali_002.JPG to the east of Liwa Oasis, United Arab Emirates.]]
+, Morocco]] to the east of Liwa Oasis, United Arab Emirates.]]
 
 In physical geography, a DUNE is a hill of loose sand built by aeolian processes (wind) or the flow of water.[1] Dunes occur in different shapes and sizes, formed by interaction with the flow of air or water. Most kinds of dunes are longer on the stoss (upflow) side, where the sand is pushed up the dune, and have a shorter "slip face" in the lee side. The valley or trough between dunes is called a _slack_. A "dune field" or erg is an area covered by extensive dunes.
 
@@ -9,7 +9,7 @@ The modern word "dune" came into English from French 1790,[2] which in turn came
 
 Formation
 
-Saltation_on_sand_dune.png). This exacerbating feedback loop helps sand accumulate into dunes.]] Dunes are made of sand-sized particles, and may consist of quartz, calcium carbonate, snow, gypsum, or other materials. The upwind/upstream/upcurrent side of the dune is called the stoss side; the downflow side is called the lee side. Sand is pushed (creep) or bounces (saltation) up the stoss side, and slides down the lee side. A side of a dune that the sand has slid down is called a slip face (or slipface).
+). This exacerbating feedback loop helps sand accumulate into dunes.]] Dunes are made of sand-sized particles, and may consist of quartz, calcium carbonate, snow, gypsum, or other materials. The upwind/upstream/upcurrent side of the dune is called the stoss side; the downflow side is called the lee side. Sand is pushed (creep) or bounces (saltation) up the stoss side, and slides down the lee side. A side of a dune that the sand has slid down is called a slip face (or slipface).
 
 The Bagnold formula gives the speed at which particles can be transported.
 
@@ -22,7 +22,7 @@ Five basic dune types are recognized: crescentic, linear, star, dome, and parabo
 
 Barchan or crescentic
 
-Barchan_in_Noachis.jpg. Dominant wind direction would be from left to right.]] Barchan dunes are crescent-shaped mounds which are generally wider than they are long. The lee-side slipfaces are on the concave sides of the dunes. These dunes form under winds that blow consistently from one direction (unimodal winds). They form separate crescents when the sand supply is comparatively small. When the sand supply is greater, they may merge into barchanoid ridges, and then transverse dunes (see below).
+. Dominant wind direction would be from left to right.]] Barchan dunes are crescent-shaped mounds which are generally wider than they are long. The lee-side slipfaces are on the concave sides of the dunes. These dunes form under winds that blow consistently from one direction (unimodal winds). They form separate crescents when the sand supply is comparatively small. When the sand supply is greater, they may merge into barchanoid ridges, and then transverse dunes (see below).
 
 Some types of crescentic dunes move more quickly over desert surfaces than any other type of dune. A group of dunes moved more than 100 metres per year between 1954 and 1959 in China's Ningxia Province, and similar speeds have been recorded in the Western Desert of Egypt. The largest crescentic dunes on Earth, with mean crest-to-crest widths of more than three kilometres, are in China's Taklamakan Desert.[5]
 
@@ -48,7 +48,7 @@ Linear loess hills known as pahas are superficially similar. These hills appear 
 
 Star
 
-Star-dune.jpg Radially symmetrical, star dunes are pyramidal sand mounds with slipfaces on three or more arms that radiate from the high center of the mound. They tend to accumulate in areas with multidirectional wind regimes. Star dunes grow upward rather than laterally. They dominate the Grand Erg Oriental of the Sahara. In other deserts, they occur around the margins of the sand seas, particularly near topographic barriers. In the southeast Badain Jaran Desert of China, the star dunes are up to 500 metres tall and may be the tallest dunes on Earth.
+Radially symmetrical, star dunes are pyramidal sand mounds with slipfaces on three or more arms that radiate from the high center of the mound. They tend to accumulate in areas with multidirectional wind regimes. Star dunes grow upward rather than laterally. They dominate the Grand Erg Oriental of the Sahara. In other deserts, they occur around the margins of the sand seas, particularly near topographic barriers. In the southeast Badain Jaran Desert of China, the star dunes are up to 500 metres tall and may be the tallest dunes on Earth.
 
 Dome
 
@@ -60,7 +60,7 @@ Fixed crescentic dunes that form on the leeward margins of playas and river vall
 
 Parabolic
 
-Parabolic_dune.jpg U-shaped mounds of sand with convex noses trailed by elongated arms are parabolic dunes. These dunes are formed from blowout dunes where the erosion of vegetated sand leads to a U-shaped depression. The elongated arms are held in place by vegetation; the largest arm known on Earth reaches 12 km. Sometimes these dunes are called U-shaped, blowout, or hairpin dunes, and they are well known in coastal deserts. Unlike crescent shaped dunes, their crests point upwind. The bulk of the sand in the dune migrates forward.
+U-shaped mounds of sand with convex noses trailed by elongated arms are parabolic dunes. These dunes are formed from blowout dunes where the erosion of vegetated sand leads to a U-shaped depression. The elongated arms are held in place by vegetation; the largest arm known on Earth reaches 12 km. Sometimes these dunes are called U-shaped, blowout, or hairpin dunes, and they are well known in coastal deserts. Unlike crescent shaped dunes, their crests point upwind. The bulk of the sand in the dune migrates forward.
 
 In plan view, these are U-shaped or V-shaped mounds of well-sorted, very fine to medium sand with elongated arms that extend upwind behind the central part of the dune. There are slipfaces that often occur on the outer side of the nose and on the outer slopes of the arms.
 
@@ -78,11 +78,11 @@ A type of extensive parabolic dune that lacks discernible slipfaces and has most
 
 Reversing dunes
 
-Libya_4608_Idehan_Ubari_Dunes_Luca_Galuzzi_2007.jpg Occurring wherever winds periodically reverse direction, reversing dunes are varieties of any of the above shapes. These dunes typically have major and minor slipfaces oriented in opposite directions. The minor slipfaces are usually temporary, as they appear after a reverse wind and are generally destroyed when the wind next blows in the dominant direction.[16]
+Occurring wherever winds periodically reverse direction, reversing dunes are varieties of any of the above shapes. These dunes typically have major and minor slipfaces oriented in opposite directions. The minor slipfaces are usually temporary, as they appear after a reverse wind and are generally destroyed when the wind next blows in the dominant direction.[16]
 
 Draas
 
-350m_Düne_Deadvlei_Sossusvlei.JPG, Namibia, is over 300m high.]] Draas are very large-scale dune bedforms; they may be tens or a few hundreds of metres in height, kilometres wide, and hundreds of kilometres in length.[17] After a draa has reached a certain size, it generally develops superimposed dune forms.[18] They are thought to be more ancient and slower-moving than smaller dunes,[19] and to form by vertical growth of existing dunes. Draas are widespread in sand seas and are well-represented in the geological record.[20]
+, Namibia, is over 300m high.]] Draas are very large-scale dune bedforms; they may be tens or a few hundreds of metres in height, kilometres wide, and hundreds of kilometres in length.[17] After a draa has reached a certain size, it generally develops superimposed dune forms.[18] They are thought to be more ancient and slower-moving than smaller dunes,[19] and to form by vertical growth of existing dunes. Draas are widespread in sand seas and are well-represented in the geological record.[20]
 
 Dune complexity
 
@@ -94,7 +94,7 @@ The sand mass of dunes can move either windward or leeward, depending on if the 
 
 Coastal dunes
 
-LIVER_AAS_UDLOEB_I_JULI_2012_(ubt)-002.JPG Newborough_Dune_Rejuvenation.webm; video of work done by Natural Resources Wales; 2015]]
+; video of work done by Natural Resources Wales; 2015]]
 
 Coastal dunes form when wet sand is deposited along the coast and dries out and is blown along the beach.[23] Dunes form where the beach is wide enough to allow for the accumulation of wind-blown sand, and where prevailing ONSHORE WINDS tend to blow sand inland. The three key ingredients for coastal dune formation are a large sand supply, winds to move said sand supply, and a place for the sand supply to accumulate.[24] Obstacles—for example, vegetation, pebbles and so on—tend to slow down the wind and lead to the deposition of sand grains.[25] These small "incipient dunes or "shadow dunes" tend to grow in the vertical direction if the obstacle slowing the wind can also grow vertically (i.e., vegetation). Coastal dunes expand laterally as a result of lateral growth of coastal plants via seed or rhizome.[26][27] Models of coastal dunes suggest that their final equilibrium height is related to the distance between the water line and where vegetation can grow.[28] Coastal dunes can be classified by where they develop, or begin to take shape. Dunes are commonly grouped into either the Primary Dune Group or the Secondary Dune Group.[29] Primary dunes gain most of their sand from the beach itself, while secondary dunes gain their sand from the primary dune. Along the Florida Panhandle, most dunes are considered to be foredunes or hummocks.[30][31] Different locations around the globe have dune formations unique to their given coastal profile.
 
@@ -147,7 +147,7 @@ Dunes on the bed of a channel significantly increase flow resistance, their pres
 
 Lithified dunes
 
-Cross-bedding_Of_Sandstone_Near_Mt_Carmel_Road_Zion_Canyon_Utah.jpg A lithified (consolidated) sand dune is a type of sandstone that is formed when a marine or aeolian sand dune becomes compacted and hardened. Once in this form, water passing through the rock can carry and deposit minerals, which can alter the color of the rock. Cross-bedded layers of stacks of lithified dunes can produce the cross-hatching patterns, such as those seen in the Zion National Park in the western United States.
+A lithified (consolidated) sand dune is a type of sandstone that is formed when a marine or aeolian sand dune becomes compacted and hardened. Once in this form, water passing through the rock can carry and deposit minerals, which can alter the color of the rock. Cross-bedded layers of stacks of lithified dunes can produce the cross-hatching patterns, such as those seen in the Zion National Park in the western United States.
 
 A slang term, used in the southwest US, for consolidated and hardened sand dunes is "slickrock", a name that was introduced by pioneers of the Old West because their steel-rimmed wagon wheels could not gain traction on the rock.
 
@@ -161,14 +161,14 @@ Sand threatens buildings and crops in Africa, the Middle East, and China. Drench
 
 Conservation
 
-KelsoSand.JPG of the Mojave Desert, California, USA]] Dune habitats provide niches for highly specialized plants and animals, including numerous rare species and some endangered species. Due to widespread human population expansion, dunes face destruction through land development and recreational usages, as well as alteration to prevent the encroachment of sand onto inhabited areas. Some countries, notably the United States, Australia, Canada, New Zealand, the United Kingdom, Netherlands, and Sri Lanka have developed significant programs of dune protection through the use of sand dune stabilization. In the U.K., a Biodiversity Action Plan has been developed to assess dunes loss and to prevent future dunes destruction.
+of the Mojave Desert, California, USA]] Dune habitats provide niches for highly specialized plants and animals, including numerous rare species and some endangered species. Due to widespread human population expansion, dunes face destruction through land development and recreational usages, as well as alteration to prevent the encroachment of sand onto inhabited areas. Some countries, notably the United States, Australia, Canada, New Zealand, the United Kingdom, Netherlands, and Sri Lanka have developed significant programs of dune protection through the use of sand dune stabilization. In the U.K., a Biodiversity Action Plan has been developed to assess dunes loss and to prevent future dunes destruction.
 
 
 Examples
 
 Africa
 
-Düne_S-Schlag_Sossusvlei.JPG, in the greater Namib-Naukluft National Park, Namibia. Note the trees being engulfed for scale.]] Sand_dune_in_the_Kalahari_Desert_(Namibia).jpg trees and bushes scattered on dunes in the Kalahari Desert in Namibia (2017)]]
+, in the greater Namib-Naukluft National Park, Namibia. Note the trees being engulfed for scale.]] trees and bushes scattered on dunes in the Kalahari Desert in Namibia (2017)]]
 
 -   Alexandria Coastal Dunefields, in the Eastern Cape, South Africa[47]
 -   Witsand Nature Reserve in the Kalahari Desert, South Africa
@@ -198,8 +198,6 @@ Düne_S-Schlag_Sossusvlei.JPG, in the greater Namib-Naukluft National Park, Nami
 -   The dunes of Oursi in the Sahel Region, northern Burkina Faso
 -   Tanzania's Shifting Sands near Olduvai Gorge
 
-1969_Afghanistan_(Sistan)_wind_ripples.tiff
-
 Asia
 
 -   The dunes in the Thar Desert in India and Pakistan
@@ -214,7 +212,7 @@ Asia
 -   Teri, red dune complex in southern India
 -   The dunes of the Taklamakan Desert in southwest Xinjiang in Northwest China
 
-Mediterranean_Sea_in_Oliva,_Valencia_Region_of_the_Spain_01.JPG in Oliva, a municipality in the _comarca_ of Safor in the Valencian Community, Spain]]
+in Oliva, a municipality in the _comarca_ of Safor in the Valencian Community, Spain]]
 
 Europe
 
@@ -240,7 +238,7 @@ Europe
 
 North America
 
-Guadalupe_Dunes_County_Park_road.JPG]] My_Public_Lands_Roadtrip-_Cadiz_Dunes_Wilderness_in_California_(18720555819).jpg.]]
+]] .]]
 
 -   Herring Cove,[49] Race Point [50] and The Province Lands bicycle path[51] in Provincetown, Massachusetts as part of the US National Park Service of the Cape Cod National Seashore.
 -   Great Kobuk Sand Dunes, the northernmost sand dunes in the world, Kobuk Valley National Park, Alaska[52]
@@ -273,7 +271,7 @@ Guadalupe_Dunes_County_Park_road.JPG]] My_Public_Lands_Roadtrip-_Cadiz_Dunes_Wil
 
 South America
 
-Lencois_Maranhenses_7.jpg, Maranhão, Brazil]]
+, Maranhão, Brazil]]
 
 -   Lençóis Maranhenses National Park in the state of Maranhão, Brazil
 -   Jericoacoara National Park, in the state of Ceará, Brazil
@@ -358,7 +356,7 @@ Sand dune systems
 
 Extraterrestrial dunes
 
-Gusev_Crater,_Mars.jpg Dunes can likely be found in any environment where there is a substantial atmosphere, winds, and dust to be blown. Dunes are common on Mars and in the equatorial regions of Titan.
+Dunes can likely be found in any environment where there is a substantial atmosphere, winds, and dust to be blown. Dunes are common on Mars and in the equatorial regions of Titan.
 
 Titan's dunes include large expanses with modal lengths of about 20–30 km. The regions are not topographically confined, resembling sand seas. These dunes are interpreted to be longitudinal dunes whose crests are oriented parallel to the dominant wind direction, which generally indicates west-to-east wind flow. The sand is likely composed of hydrocarbon particles, possibly with some water ice mixed in.[57]
 

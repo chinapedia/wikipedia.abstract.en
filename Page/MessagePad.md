@@ -9,8 +9,6 @@ With the MessagePad 120 with Newton OS 2.0, the Newton Keyboard by Apple became 
 
 Newton devices featuring Newton OS 2.1 or higher can be used with the screen turned horizontally ("landscape") as well as vertically ("portrait"). A change of a setting rotates the contents of the display by 90, 180 or 270 degrees. Handwriting recognition still works properly with the display rotated, although display calibration is needed when rotation in any direction is used for the first time or when the Newton device is reset.
 
-Applenewton_emate300.jpg Apple_Newton.jpg
-
 Handwriting recognition
 
 In initial versions (Newton OS 1.x) the handwriting recognition gave extremely mixed results for users and was sometimes inaccurate. The original handwriting recognition engine was called Calligrapher, and was licensed from a Russian company called Paragraph International. Calligrapher's design was quite sophisticated; it attempted to learn the user's natural handwriting, using a database of known words to make guesses as to what the user was writing, and could interpret writing anywhere on the screen, whether hand-printed, in cursive, or a mix of the two. By contrast, Palm Pilot's Graffiti had a less sophisticated design than Calligrapher, but was sometimes found to be more accurate and precise due to its reliance on a fixed, predefined stroke alphabet. The stroke alphabet used letter shapes which resembled standard handwriting, but which were modified to be both simple and very easy to differentiate.[1] Palm Computing also released two versions of Graffiti for Newton devices. The Newton version sometimes performed better and could also show strokes as they were being written as input was done on the display itself, rather than on a silkscreen area.
@@ -69,7 +67,7 @@ Fourteen months after Sculley demoed it at the May 1992, Chicago CES, the Messag
 
 The original Apple MessagePad and MessagePad 100 were limited by the very short lifetime of their inadequate AAA batteries.
 
-Newton_eat_up_martha.jpg'' episode "Lisa on Ice".]] Critics also panned the handwriting recognition that was available in the debut models, which had been trumpeted in the Newton's marketing campaign. It was this problem that was skewered in the _Doonesbury_ comic strips[10] in which a written text entry is (erroneously) translated as "Egg Freckles?", as well as in the animated series _The Simpsons_.[11] However, the word 'freckles' was not included in the Newton dictionary, although a user could add it themselves. Difficulties were in part caused by the long time requirements for the Calligrapher handwriting recognition software to "learn" the user's handwriting; this process could take from two weeks to two months.
+'' episode "Lisa on Ice".]] Critics also panned the handwriting recognition that was available in the debut models, which had been trumpeted in the Newton's marketing campaign. It was this problem that was skewered in the _Doonesbury_ comic strips[10] in which a written text entry is (erroneously) translated as "Egg Freckles?", as well as in the animated series _The Simpsons_.[11] However, the word 'freckles' was not included in the Newton dictionary, although a user could add it themselves. Difficulties were in part caused by the long time requirements for the Calligrapher handwriting recognition software to "learn" the user's handwriting; this process could take from two weeks to two months.
 
 Another factor which limited the early Newton devices' appeal was that desktop connectivity was not included in the basic retail package, a problem that was later solved with 2.x Newton devices - these were bundled with a serial cable and the appropriate Newton Connection Utilities software.
 
@@ -102,7 +100,7 @@ NOTES: The eMate 300 actually has ROM chips silk screened with 2.2 on them. Step
 
 Other uses
 
-PSAINS_InteractStation7.jpg There were a number of projects that used the Newton as a portable information device in cultural settings such as museums. For example, Visible Interactive created a walking tour in San Francisco's Chinatown but the most significant effort took place in Malaysia at the Petronas Discovery Center, known as Petrosains.[16]
+There were a number of projects that used the Newton as a portable information device in cultural settings such as museums. For example, Visible Interactive created a walking tour in San Francisco's Chinatown but the most significant effort took place in Malaysia at the Petronas Discovery Center, known as Petrosains.[16]
 
 In 1995, an exhibit design firm, DMCD Inc., was awarded the contract to design a new science museum in the Petronas Towers in Kuala Lumpur. A major factor in the award was the concept that visitors would use a Newton device to access additional information, find out where they were in the museum, listen to audio, see animations, control robots and other media, and to bookmark information for printout at the end of the exhibit.
 

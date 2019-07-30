@@ -1,4 +1,4 @@
-Wea00920.jpg.]]
+.]]
 
 An ANEMOMETER is a device used for measuring wind speed, and is also a common weather station instrument. The term is derived from the Greek word _anemos_, which means wind, and is used to describe any wind speed instrument used in meteorology. The first known description of an anemometer was given by Leon Battista Alberti in 1450.
 
@@ -12,7 +12,7 @@ Velocity anemometers
 
 Cup anemometers
 
-Cup-Anemometer-Animation.gif A simple type of anemometer was invented in 1845 by Dr. John Thomas Romney Robinson, of Armagh Observatory. It consisted of four hemispherical cups mounted on horizontal arms, which were mounted on a vertical shaft. The air flow past the cups in any horizontal direction turned the shaft at a rate that was roughly proportional to the wind speed. Therefore, counting the turns of the shaft over a set time interval produced a value proportional to the average wind speed for a wide range of speeds. It is also called a rotational anemometer.
+A simple type of anemometer was invented in 1845 by Dr. John Thomas Romney Robinson, of Armagh Observatory. It consisted of four hemispherical cups mounted on horizontal arms, which were mounted on a vertical shaft. The air flow past the cups in any horizontal direction turned the shaft at a rate that was roughly proportional to the wind speed. Therefore, counting the turns of the shaft over a set time interval produced a value proportional to the average wind speed for a wide range of speeds. It is also called a rotational anemometer.
 
 On an anemometer with four cups, it is easy to see that since the cups are arranged symmetrically on the end of the arms, the wind always has the hollow of one cup presented to it and is blowing on the back of the cup on the opposite end of the cross. Since a hollow hemisphere has a drag coefficient of .38 on the spherical side and 1.42 on the hollow side,[2] more force is generated on the cup that is presenting its hollow side to the wind. Because of this asymmetrical force, torque is generated on the axis of the anemometer, causing it to spin.
 
@@ -36,7 +36,7 @@ File:Wind speed and direction instrument - NOAA.jpg|Vane style of anemometer Fil
 
 Hot-wire anemometers
 
-Hd_sonde.jpg Hot wire anemometers use a fine wire (on the order of several micrometres) electrically heated to some temperature above the ambient. Air flowing past the wire cools the wire. As the electrical resistance of most metals is dependent upon the temperature of the metal (tungsten is a popular choice for hot-wires), a relationship can be obtained between the resistance of the wire and the flow speed.[4]
+Hot wire anemometers use a fine wire (on the order of several micrometres) electrically heated to some temperature above the ambient. Air flowing past the wire cools the wire. As the electrical resistance of most metals is dependent upon the temperature of the metal (tungsten is a popular choice for hot-wires), a relationship can be obtained between the resistance of the wire and the flow speed.[4]
 
 Several ways of implementing this exist, and hot-wire devices can be further classified as CCA (constant current anemometer), CVA (constant voltage anemometer) and CTA (constant-temperature anemometer). The voltage output from these anemometers is thus the result of some sort of circuit within the device trying to maintain the specific variable (current, voltage or temperature) constant, following Ohm's law.
 
@@ -46,15 +46,13 @@ Hot-wire anemometers, while extremely delicate, have extremely high frequency-re
 
 An industrial version of the fine-wire anemometer is the thermal flow meter, which follows the same concept, but uses two pins or strings to monitor the variation in temperature. The strings contain fine wires, but encasing the wires makes them much more durable and capable of accurately measuring air, gas, and emissions flow in pipes, ducts, and stacks. Industrial applications often contain dirt that will damage the classic hot-wire anemometer.
 
-Laser_anemometer.png
-
 Laser Doppler anemometers
 
-In laser Doppler velocimetry, laser Doppler anemometers use a beam of light from a laser that is divided into two beams, with one propagated out of the anemometer. Particulates (or deliberately introduced seed material) flowing along with air molecules near where the beam exits reflect, or backscatter, the light back into a detector, where it is measured relative to the original laser beam. When the particles are in great motion, they produce a Doppler shift for measuring wind speed in the laser light, which is used to calculate the speed of the particles, and therefore the air around the anemometer.[5] Ultrasonic_Windsensor.png
+In laser Doppler velocimetry, laser Doppler anemometers use a beam of light from a laser that is divided into two beams, with one propagated out of the anemometer. Particulates (or deliberately introduced seed material) flowing along with air molecules near where the beam exits reflect, or backscatter, the light back into a detector, where it is measured relative to the original laser beam. When the particles are in great motion, they produce a Doppler shift for measuring wind speed in the laser light, which is used to calculate the speed of the particles, and therefore the air around the anemometer.[5]
 
 Ultrasonic anemometers
 
-WindMaster.jpg Ultrasonic anemometers, first developed in the 1950s, use ultrasonic sound waves to measure wind velocity. They measure wind speed based on the time of flight of sonic pulses between pairs of transducers. Measurements from pairs of transducers can be combined to yield a measurement of velocity in 1-, 2-, or 3-dimensional flow. The spatial resolution is given by the path length between transducers, which is typically 10 to 20 cm. Ultrasonic anemometers can take measurements with very fine temporal resolution, 20 Hz or better, which makes them well suited for turbulence measurements. The lack of moving parts makes them appropriate for long-term use in exposed automated weather stations and weather buoys where the accuracy and reliability of traditional cup-and-vane anemometers are adversely affected by salty air or dust. Their main disadvantage is the distortion of the air flow by the structure supporting the transducers, which requires a correction based upon wind tunnel measurements to minimize the effect. An international standard for this process, ISO 16622 _Meteorology—Ultrasonic anemometers/thermometers—Acceptance test methods for mean wind measurements_ is in general circulation. Another disadvantage is lower accuracy due to precipitation, where rain drops may vary the speed of sound.
+Ultrasonic anemometers, first developed in the 1950s, use ultrasonic sound waves to measure wind velocity. They measure wind speed based on the time of flight of sonic pulses between pairs of transducers. Measurements from pairs of transducers can be combined to yield a measurement of velocity in 1-, 2-, or 3-dimensional flow. The spatial resolution is given by the path length between transducers, which is typically 10 to 20 cm. Ultrasonic anemometers can take measurements with very fine temporal resolution, 20 Hz or better, which makes them well suited for turbulence measurements. The lack of moving parts makes them appropriate for long-term use in exposed automated weather stations and weather buoys where the accuracy and reliability of traditional cup-and-vane anemometers are adversely affected by salty air or dust. Their main disadvantage is the distortion of the air flow by the structure supporting the transducers, which requires a correction based upon wind tunnel measurements to minimize the effect. An international standard for this process, ISO 16622 _Meteorology—Ultrasonic anemometers/thermometers—Acceptance test methods for mean wind measurements_ is in general circulation. Another disadvantage is lower accuracy due to precipitation, where rain drops may vary the speed of sound.
 
 Since the speed of sound varies with temperature, and is virtually stable with pressure change, ultrasonic anemometers are also used as thermometers.
 
@@ -67,9 +65,9 @@ Two-dimensional wind sensors are of two types:
 
 Acoustic resonance anemometers
 
-Acoustic_Resonance_Wind_Sensor.jpg Acoustic resonance anemometers are a more recent variant of sonic anemometer. The technology was invented by Savvas Kapartis and patented in 1999.[7] Whereas conventional sonic anemometers rely on time of flight measurement, acoustic resonance sensors use resonating acoustic (ultrasonic) waves within a small purpose-built cavity in order to perform their measurement.
+Acoustic resonance anemometers are a more recent variant of sonic anemometer. The technology was invented by Savvas Kapartis and patented in 1999.[7] Whereas conventional sonic anemometers rely on time of flight measurement, acoustic resonance sensors use resonating acoustic (ultrasonic) waves within a small purpose-built cavity in order to perform their measurement.
 
-Acoustic_Resonance_Anemometer.jpg Built into the cavity is an array of ultrasonic transducers, which are used to create the separate standing-wave patterns at ultrasonic frequencies. As wind passes through the cavity, a change in the wave's property occurs (phase shift). By measuring the amount of phase shift in the received signals by each transducer, and then by mathematically processing the data, the sensor is able to provide an accurate horizontal measurement of wind speed and direction.
+Built into the cavity is an array of ultrasonic transducers, which are used to create the separate standing-wave patterns at ultrasonic frequencies. As wind passes through the cavity, a change in the wave's property occurs (phase shift). By measuring the amount of phase shift in the received signals by each transducer, and then by mathematically processing the data, the sensor is able to provide an accurate horizontal measurement of wind speed and direction.
 
 Acoustic resonance technology enables measurement within a small cavity, the sensors therefore tend to be typically smaller in size than other ultrasonic sensors. The small size of acoustic resonance anemometers makes them physically strong and easy to heat and therefore resistant to icing. This combination of features means that they achieve high levels of data availability and are well suited to wind turbine control and to other uses that require small robust sensors such as battlefield meteorology. One issue with this sensor type is measurement accuracy when compared to a calibrated mechanical sensor. For many end uses, this weakness is compensated for by the sensor's longevity and the fact that it does not require re-calibrating once installed.
 
@@ -82,7 +80,7 @@ This type of anemometer is mostly used for middle-school level instruction, whic
 
 Pressure anemometers
 
-Britannia_Yacht_Club_tour,_burgee,_and_wind_gauge.jpg clubhouse tour, burgee, and wind gauge on roof]] The first designs of anemometers that measure the pressure were divided into plate and tube classes.
+clubhouse tour, burgee, and wind gauge on roof]] The first designs of anemometers that measure the pressure were divided into plate and tube classes.
 
 Plate anemometers
 
@@ -90,7 +88,7 @@ These are the first modern anemometers. They consist of a flat plate suspended f
 
 Tube anemometers
 
-Tube_anemometer_invented_by_William_Henry_Dines.jpg Instruments_at_Mount_Washington_Observatory.JPG. The pitot tube static anemometer is on the right.]] Pitot_tube_static_anemometer.JPG
+. The pitot tube static anemometer is on the right.]]
 
 James Lind's anemometer of 1775 consisted of a glass U tube containing a liquid manometer (pressure gauge), with one end bent in a horizontal direction to face the wind and the other vertical end remains parallel to the wind flow. Though the Lind was not the first it was the most practical and best known anemometer of this type. If the wind blows into the mouth of a tube it causes an increase of pressure on one side of the manometer. The wind over the open end of a vertical tube causes little change in pressure on the other side of the manometer. The resulting elevation difference in the two legs of the U tube is an indication of the wind speed. However, an accurate measurement requires that the wind speed be directly into the open end of the tube; small departures from the true direction of the wind causes large variations in the reading.
 

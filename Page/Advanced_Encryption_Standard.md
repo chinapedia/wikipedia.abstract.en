@@ -63,15 +63,15 @@ High-level description of the algorithm
 
 The  step
 
-AES-SubBytes.svg In the step, each byte a_(i, j) in the _state_ array is replaced with a S(a_(i, j)) using an 8-bit substitution box. This operation provides the non-linearity in the cipher. The S-box used is derived from the multiplicative inverse over , known to have good non-linearity properties. To avoid attacks based on simple algebraic properties, the S-box is constructed by combining the inverse function with an invertible affine transformation. The S-box is also chosen to avoid any fixed points (and so is a derangement), i.e., S(a_(i, j)) ≠ a_(i, j), and also any opposite fixed points, i.e., S(a_(i, j)) ⊕ a_(i, j) ≠ FF₁₆. While performing the decryption, the step (the inverse of ) is used, which requires first taking the inverse of the affine transformation and then finding the multiplicative inverse.
+In the step, each byte a_(i, j) in the _state_ array is replaced with a S(a_(i, j)) using an 8-bit substitution box. This operation provides the non-linearity in the cipher. The S-box used is derived from the multiplicative inverse over , known to have good non-linearity properties. To avoid attacks based on simple algebraic properties, the S-box is constructed by combining the inverse function with an invertible affine transformation. The S-box is also chosen to avoid any fixed points (and so is a derangement), i.e., S(a_(i, j)) ≠ a_(i, j), and also any opposite fixed points, i.e., S(a_(i, j)) ⊕ a_(i, j) ≠ FF₁₆. While performing the decryption, the step (the inverse of ) is used, which requires first taking the inverse of the affine transformation and then finding the multiplicative inverse.
 
 The  step
 
-AES-ShiftRows.svg The step operates on the rows of the state; it cyclically shifts the bytes in each row by a certain offset. For AES, the first row is left unchanged. Each byte of the second row is shifted one to the left. Similarly, the third and fourth rows are shifted by offsets of two and three respectively.[12] In this way, each column of the output state of the step is composed of bytes from each column of the input state. The importance of this step is to avoid the columns being encrypted independently, in which case AES degenerates into four independent block ciphers.
+The step operates on the rows of the state; it cyclically shifts the bytes in each row by a certain offset. For AES, the first row is left unchanged. Each byte of the second row is shifted one to the left. Similarly, the third and fourth rows are shifted by offsets of two and three respectively.[12] In this way, each column of the output state of the step is composed of bytes from each column of the input state. The importance of this step is to avoid the columns being encrypted independently, in which case AES degenerates into four independent block ciphers.
 
 The  step
 
-AES-MixColumns.svg In the step, the four bytes of each column of the state are combined using an invertible linear transformation. The function takes four bytes as input and outputs four bytes, where each input byte affects all four output bytes. Together with , provides diffusion in the cipher.
+In the step, the four bytes of each column of the state are combined using an invertible linear transformation. The function takes four bytes as input and outputs four bytes, where each input byte affects all four output bytes. Together with , provides diffusion in the cipher.
 
 During this operation, each column is transformed using a fixed matrix (matrix left-multiplied by column gives new value of column in the state):
 
@@ -93,7 +93,7 @@ In more general sense, each column is treated as a polynomial over GF (2⁸) a
 
 The  step
 
-AES-AddRoundKey.svg operation (⊕).]] In the step, the subkey is combined with the state. For each round, a subkey is derived from the main key using Rijndael's key schedule; each subkey is the same size as the state. The subkey is added by combining each byte of the state with the corresponding byte of the subkey using bitwise XOR.
+operation (⊕).]] In the step, the subkey is combined with the state. For each round, a subkey is derived from the main key using Rijndael's key schedule; each subkey is the same size as the state. The subkey is added by combining each byte of the state with the corresponding byte of the subkey using bitwise XOR.
 
 Optimization of the cipher
 

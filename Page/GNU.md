@@ -2,7 +2,7 @@ GNU [1][2] is an operating system and an extensive collection of computer softwa
 
 _GNU_ is a recursive acronym for "GNU's Not Unix!",[12][13] chosen because GNU's design is Unix-like, but differs from Unix by being free software and containing no Unix code.[14][15][16] The GNU project includes an operating system kernel, GNU Hurd, which was the original focus of the Free Software Foundation (FSF).[17][18][19][20] However, given the Hurd kernel's status as not yet production-ready,[21] non-GNU kernels, most popularly the Linux kernel, can also be used with GNU software.[22][23] The combination of GNU and Linux has become ubiquitous to the point that the duo is often referred to as just _"Linux"_ in short, or, less frequently, _GNU/Linux_. (see the GNU/Linux naming controversy)
 
-Richard_Stallman_-_Fête_de_l'Humanité_2014_-_010.jpg, founder of the GNU project]]
+, founder of the GNU project]]
 
 Richard Stallman, the founder of the project, views GNU as a "technical means to a social end".[24] Relatedly Lawrence Lessig states in his introduction to the second edition of Stallman's book _Free Software, Free Society_ that in it Stallman has written about "the social aspects of software and how Free Software can create community and social justice".[25]
 
@@ -31,7 +31,7 @@ As of November 2015, there are a total of 466 GNU packages (including decommissi
 
 GNU variants
 
-GNewSense_screenshot.png, an example of an FSF approved distribution]] Parabola12.png, an example of an FSF approved distribution that uses a rolling release model]]
+, an example of an FSF approved distribution]] , an example of an FSF approved distribution that uses a rolling release model]]
 
 The official kernel of GNU Project was the GNU Hurd microkernel; however, as of 2012, the Linux kernel became officially part of the GNU Project in the form of Linux-libre, a variant of Linux with all proprietary components removed.[53]
 
@@ -57,7 +57,7 @@ Besides GNU's own packages, the GNU Project's licenses are used by many unrelate
 
 Logo
 
-Gnu-30-banner-without-background.svg The logo for GNU is a gnu head. Originally drawn by Etienne Suvasa, a bolder and simpler version designed by Aurelio Heckert is now preferred.[80][81] It appears in GNU software and in printed and electronic documentation for the GNU Project, and is also used in Free Software Foundation materials.
+The logo for GNU is a gnu head. Originally drawn by Etienne Suvasa, a bolder and simpler version designed by Aurelio Heckert is now preferred.[80][81] It appears in GNU software and in printed and electronic documentation for the GNU Project, and is also used in Free Software Foundation materials.
 
 The image shown here is a modified version of the official logo. It was created by the Free Software Foundation in September 2013 to commemorate the 30th anniversary of the GNU Project.[82]
 

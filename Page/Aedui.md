@@ -11,7 +11,7 @@ The country of the Aedui is defined by reports of them in ancient writings. The 
 
 History
 
-Eduens_denier_1st_century_BCE_1940mg.jpg of the Aedui, 1st century BCE, 1940mg. Hotel de la Monnaie.]]
+of the Aedui, 1st century BCE, 1940mg. Hotel de la Monnaie.]]
 
 Outside of the Roman province and prior to Roman rule, Independent Gaul was occupied by self-governing tribes divided into cantons, and each canton was further divided into communes. The Aedui, like other powerful tribes in the region (the Arverni, the Sequani, and the Helvetii), had replaced their monarchy with a council of magistrates called grand-judges. The grand-judges were under the authority of the senate. The senate was made up of the descendants of ancient royal families. Free men in the tribes were vassals to the heads of these families in exchange for military, financial and political interests.[5]
 

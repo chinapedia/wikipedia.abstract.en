@@ -100,7 +100,7 @@ The smaller the solar parallax, the greater the distance between the Sun and Ear
 
 Christiaan Huygens believed that the distance was even greater: by comparing the apparent sizes of Venus and Mars, he estimated a value of about Earth radii,[47] equivalent to a solar parallax of 8.6". Although Huygens' estimate is remarkably close to modern values, it is often discounted by historians of astronomy because of the many unproven (and incorrect) assumptions he had to make for his method to work; the accuracy of his value seems to be based more on luck than good measurement, with his various errors cancelling each other out.
 
-Venustransit_2004-06-08_07-44.jpg") and the rarity of observations.]] Jean Richer and Giovanni Domenico Cassini measured the parallax of Mars between Paris and Cayenne in French Guiana when Mars was at its closest to Earth in 1672. They arrived at a figure for the solar parallax of ", equivalent to an Earth–Sun distance of about Earth radii. They were also the first astronomers to have access to an accurate and reliable value for the radius of Earth, which had been measured by their colleague Jean Picard in 1669 as thousand _toises_. Another colleague, Ole Rømer, discovered the finite speed of light in 1676: the speed was so great that it was usually quoted as the time required for light to travel from the Sun to the Earth, or "light time per unit distance", a convention that is still followed by astronomers today.
+") and the rarity of observations.]] Jean Richer and Giovanni Domenico Cassini measured the parallax of Mars between Paris and Cayenne in French Guiana when Mars was at its closest to Earth in 1672. They arrived at a figure for the solar parallax of ", equivalent to an Earth–Sun distance of about Earth radii. They were also the first astronomers to have access to an accurate and reliable value for the radius of Earth, which had been measured by their colleague Jean Picard in 1669 as thousand _toises_. Another colleague, Ole Rømer, discovered the finite speed of light in 1676: the speed was so great that it was usually quoted as the time required for light to travel from the Sun to the Earth, or "light time per unit distance", a convention that is still followed by astronomers today.
 
 A better method for observing Venus transits was devised by James Gregory and published in his _Optica Promata_ (1663). It was strongly advocated by Edmond Halley[48] and was applied to the transits of Venus observed in 1761 and 1769, and then again in 1874 and 1882. Transits of Venus occur in pairs, but less than one pair every century, and observing the transits in 1761 and 1769 was an unprecedented international scientific operation including observations by James Cook and Charles Green from Tahiti. Despite the Seven Years' War, dozens of astronomers were dispatched to observing points around the world at great expense and personal danger: several of them died in the endeavour.[49] The various results were collated by Jérôme Lalande to give a figure for the solar parallax of 8.6″.
 
@@ -121,7 +121,7 @@ Direct radar measurements of the distances to Venus and Mars became available in
 
 Developments
 
-Stellarparallax_parsec1.svges _(distances in the image are not to scale)_.]]
+es _(distances in the image are not to scale)_.]]
 
 The unit distance _A_ (the value of the astronomical unit in metres) can be expressed in terms of other astronomical constants:
 

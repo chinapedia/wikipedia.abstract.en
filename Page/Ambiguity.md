@@ -1,4 +1,4 @@
-Alice_05a-1116x1492.jpg's illustration of the Caterpillar for Lewis Carroll's _Alice's Adventures in Wonderland_ is noted for its ambiguous central figure, whose head can be viewed as being a human male's face with a pointed nose and chin or as being the head end of an actual caterpillar, with the first two right "true" legs visible.[1]]]
+'s illustration of the Caterpillar for Lewis Carroll's _Alice's Adventures in Wonderland_ is noted for its ambiguous central figure, whose head can be viewed as being a human male's face with a pointed nose and chin or as being the head end of an actual caterpillar, with the first two right "true" legs visible.[1]]]
 
 AMBIGUITY is a type of meaning in which a phrase, statement or resolution is not explicitly defined, making several interpretations plausible. A common aspect of ambiguity is uncertainty. It is thus an attribute of any idea or statement whose intended meaning cannot be definitively resolved according to a rule or process with a finite number of steps. (The _ambi-_ part of the term reflects an idea of "two", as in "two meanings".)
 
@@ -11,7 +11,7 @@ Linguistic forms
 
 Lexical ambiguity is contrasted with semantic ambiguity. The former represents a choice between a finite number of known and meaningful context-dependent interpretations. The latter represents a choice between any number of possible interpretations, none of which may have a standard agreed-upon meaning. This form of ambiguity is closely related to vagueness.
 
-Linguistic ambiguity can be a problem in law, because the interpretation of written documents and oral agreements is often of paramount importance.Structural_analysis_of_an_ambiguous_spanish_sentence.svg
+Linguistic ambiguity can be a problem in law, because the interpretation of written documents and oral agreements is often of paramount importance.
 
 Lexical ambiguity
 
@@ -108,7 +108,7 @@ The Berry paradox arises as a result of systematic ambiguity in the meaning of t
 
 Mathematical interpretation of ambiguity
 
-The Necker cube and impossible cube, an underdetermined and overdetermined object, respectively.|thumb In mathematics and logic, ambiguity can be considered to be an instance of the logical concept of underdetermination—for example, X = Y leaves open what the value of _X_ is—while its opposite is a self-contradiction, also called inconsistency, paradoxicalness, or oxymoron, or in mathematics an inconsistent system—such as X = 2, X = 3, which has no solution.
+In mathematics and logic, ambiguity can be considered to be an instance of the logical concept of underdetermination—for example, X = Y leaves open what the value of _X_ is—while its opposite is a self-contradiction, also called inconsistency, paradoxicalness, or oxymoron, or in mathematics an inconsistent system—such as X = 2, X = 3, which has no solution.
 
 Logical ambiguity and self-contradiction is analogous to visual ambiguity and impossible objects, such as the Necker cube and impossible cube, or many of the drawings of M. C. Escher.[9]
 
@@ -130,7 +130,7 @@ In music, pieces or sections which confound expectations and may be or are inter
 
 Visual art
 
-The Necker cube, an ambiguous image|thumb In visual art, certain images are visually ambiguous, such as the Necker cube, which can be interpreted in two ways. Perceptions of such objects remain stable for a time, then may flip, a phenomenon called multistable perception. The opposite of such ambiguous images are impossible objects.
+In visual art, certain images are visually ambiguous, such as the Necker cube, which can be interpreted in two ways. Perceptions of such objects remain stable for a time, then may flip, a phenomenon called multistable perception. The opposite of such ambiguous images are impossible objects.
 
 Pictures or photographs may also be ambiguous at the semantic level: the visual image is unambiguous, but the meaning and narrative may be ambiguous: is a certain facial expression one of excitement or fear, for instance?
 

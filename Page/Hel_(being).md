@@ -1,4 +1,4 @@
-Hel_(1889)_by_Johannes_Gehrts.jpg, pictured here with her hound Garmr.]]
+, pictured here with her hound Garmr.]]
 
 In Norse mythology, HEL is a being who presides over a realm of the same name, where she receives a portion of the dead. Hel is attested in the _Poetic Edda_, compiled in the 13th century from earlier traditional sources, and the _Prose Edda_, written in the 13th century by Snorri Sturluson. In addition, she is mentioned in poems recorded in _Heimskringla_ and _Egils saga_ that date from the 9th and 10th centuries, respectively. An episode in the Latin work _Gesta Danorum_, written in the 12th century by Saxo Grammaticus, is generally considered to refer to Hel, and Hel may appear on various Migration Period bracteates.
 
@@ -28,7 +28,7 @@ Hel may also be alluded to in _Hamðismál_. Death is periphrased as "joy of the
 
 _Prose Edda_
 
-Loki's_children_by_Frølich.jpg.]] Hermod_before_Hela.jpg before Hela" (1909) by John Charles Dollman.]] The_children_of_Loki_by_Willy_Pogany.png.]] Lokis_Gezücht.jpg.]]
+.]] before Hela" (1909) by John Charles Dollman.]] .]] .]]
 
 Hel is referred to in the _Prose Edda_, written in the 13th century by Snorri Sturluson. In chapter 34 of the book _Gylfaginning_, Hel is listed by High as one of the three children of Loki and Angrboða; the wolf Fenrir, the serpent Jörmungandr, and Hel. High continues that, once the gods found that these three children are being brought up in the land of Jötunheimr, and when the gods "traced prophecies that from these siblings great mischief and disaster would arise for them" then the gods expected a lot of trouble from the three children, partially due to the nature of the mother of the children, yet worse so due to the nature of their father.[16]
 
@@ -103,7 +103,7 @@ Some B-class bracteates showing three godly figures have been interpreted as dep
 
 Theories
 
-Treated_NKS_hermodr.jpg (left), Baldr (upper right), and Hel (lower right). Details include but are not limited to Hel's dish "hunger" and the knife "famine".]] Heimdal_verlangt_die_Rückkehr_Iduns_aus_der_Unterwelt.jpg desires Iðunn's return from the Underworld" (1881) by Carl Emil Doepler.]]
+(left), Baldr (upper right), and Hel (lower right). Details include but are not limited to Hel's dish "hunger" and the knife "famine".]] desires Iðunn's return from the Underworld" (1881) by Carl Emil Doepler.]]
 
 Seo Hell
 

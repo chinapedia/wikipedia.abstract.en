@@ -46,7 +46,7 @@ In 1985, _24 Ayar Manço_ which included "Gibi Gibi" and a long conceptual song 
 
 _7'den 77'ye_ and 1990s
 
-Erkan_Umut_&_Baris_Manco_in_Mexico_1998.jpg, Mexico in 1998.]] Barış_Manço_museum01.JPG
+, Mexico in 1998.]]
 
 In 1988, _7'den 77'ye_ (_From 7 to 77_), a TV show directed and presented by Manço, began to run on TRT 1, the Turkish state television channel. It was a combined music, talk show, and documentary program which was a major hit during the eight years it stayed on air. Manço traveled to almost 150 countries for the show. "Adam Olacak Çocuk", a section of his show dedicated to children, strengthened Manço's popularity among the young generations.
 
@@ -55,7 +55,7 @@ Although his fame continued in the 1990s thanks to the wide audience of his TV s
 
 Death
 
-KanlıcaCemetery_(6).jpg in Kanlıca, Istanbul. ]]
+in Kanlıca, Istanbul. ]]
 
 On 1 February 1999, Barış Manço died of a sudden heart attack before the release of his just finished last work _Mançoloji_ (_Mançology_ or _Manchology_) (1999), a double album containing the new recordings of his hit songs along with an unfinished instrumental song "40. Yıl" ("The 40th Anniversary"), celebrating his 40th year in music. His sudden death caused an almost unanimous shock in Turkey with millions of people mourning and tens of thousands of people attending his funeral.
 
@@ -74,7 +74,7 @@ His lyrics with diverse themes, mostly following a somewhat modernized version o
 
 In 2002, a tribute album was released under the name _Yüreğimdeki Barış Şarkıları_ ("Songs of Barış (Peace) In My Heart"), featuring 15 popular Turkish artists of such diverse genres like arabesque, pop and rock (both Anatolian and western style) demonstrating his wide range of influence.
 
-Manco_Kosk_Baris_Manco.jpg of Barış Manço at his house (_Barış Manço Evi_) in the Moda quarter of Istanbul, today a museum.[8]]]
+of Barış Manço at his house (_Barış Manço Evi_) in the Moda quarter of Istanbul, today a museum.[8]]]
 
 
 Discography

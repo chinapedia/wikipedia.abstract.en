@@ -1,6 +1,6 @@
 Field § Mathematics}}
 
-Regular_polygon_7_annotated.svg heptagon cannot be constructed using only a straightedge and compass construction; this can be proven using the field of constructible numbers.]] In mathematics, a FIELD is a set on which addition, subtraction, multiplication, and division are defined, and behave as the corresponding operations on rational and real numbers do. A field is thus a fundamental algebraic structure, which is widely used in algebra, number theory and many other areas of mathematics.
+heptagon cannot be constructed using only a straightedge and compass construction; this can be proven using the field of constructible numbers.]] In mathematics, a FIELD is a set on which addition, subtraction, multiplication, and division are defined, and behave as the corresponding operations on rational and real numbers do. A field is thus a fundamental algebraic structure, which is widely used in algebra, number theory and many other areas of mathematics.
 
 The best known fields are the field of rational numbers, the field of real numbers and the field of complex numbers. Many other fields, such as fields of rational functions, algebraic function fields, algebraic number fields, and _p_-adic fields are commonly used and studied in mathematics, particularly in number theory and algebraic geometry. Most cryptographic protocols rely on finite fields, i.e., fields with finitely many elements.
 
@@ -55,8 +55,6 @@ $$\begin{align}
 
 Real and complex numbers
 
-Complex_multi.svg
-
 The real numbers , with the usual operations of addition and multiplication, also form a field. The complex numbers consist of expressions
 
     with real,
@@ -69,7 +67,7 @@ It is immediate that this is again an expression of the above type, and so the c
 
 Constructible numbers
 
-Root_construction_geometric_mean5.svg asserts that . Choosing allows construction of the square root of a given constructible number .]]
+asserts that . Choosing allows construction of the square root of a given constructible number .]]
 
 In antiquity, several geometric problems concerned the (in)feasibility of constructing certain numbers with compass and straightedge. For example, it was unknown to the Greeks that it is in general impossible to trisect a given angle in this way. These problems can be settled using the field of constructible numbers.[6] Real constructible numbers are, by definition, lengths of line segments that can be constructed from the points 0 and 1 in finitely many steps using only compass and straightedge. These numbers, endowed with the field operations of real numbers, restricted to the constructible numbers, form a field, which properly includes the field of rational numbers. The illustration shows the construction of square roots of constructible numbers, not necessarily contained within . Using the labeling in the illustration, construct the segments , , and a semicircle over (center at the midpoint ), which intersects the perpendicular line through _B_ in a point , at a distance of exactly $h=\sqrt p$ from when has length one.
 
@@ -157,7 +155,7 @@ Finite fields
 
 _Finite fields_ (also called _Galois fields_) are fields with finitely many elements, whose number is also referred to as the order of the field. The above introductory example is a field with four elements. Its subfield is the smallest field, because by definition a field has at least two distinct elements 1 ≠ 0.
 
-Clock_group.svg The simplest finite fields, with prime order, are most directly accessible using modular arithmetic. For a fixed positive integer , arithmetic "modulo " means to work with the numbers
+The simplest finite fields, with prime order, are most directly accessible using modular arithmetic. For a fixed positive integer , arithmetic "modulo " means to work with the numbers
 
 
 
@@ -309,7 +307,7 @@ An Archimedean field is an ordered field such that for each element there exists
 
 whose value is greater than that element, that is, there are no infinite elements. Equivalently, the field contains no infinitesimals (elements smaller than all rational numbers); or, yet equivalent, the field is isomorphic to a subfield of .
 
-Illustration_of_supremum.svg An ordered field is Dedekind-complete if all upper bounds, lower bounds (see Dedekind cut) and limits, which should exist, do exist. More formally, each bounded subset of is required to have a least upper bound. Any complete field is necessarily Archimedean,[38] since in any non-Archimedean field there is neither a greatest infinitesimal nor a least positive rational, whence the sequence , every element of which is greater than every infinitesimal, has no limit.
+An ordered field is Dedekind-complete if all upper bounds, lower bounds (see Dedekind cut) and limits, which should exist, do exist. More formally, each bounded subset of is required to have a least upper bound. Any complete field is necessarily Archimedean,[38] since in any non-Archimedean field there is neither a greatest infinitesimal nor a least positive rational, whence the sequence , every element of which is greater than every infinitesimal, has no limit.
 
 Since every proper subfield of the reals also contains such gaps, is the unique complete ordered field, up to isomorphism.[39] Several foundational results in calculus follow directly from this characterization of the reals.
 
@@ -430,7 +428,7 @@ Applications
 
 Linear algebra and commutative algebra
 
-euler2a.gif express the relation of different coordinate systems, i.e., bases of . They are used in computer graphics.]] If , then the equation
+express the relation of different coordinate systems, i.e., bases of . They are used in computer graphics.]] If , then the equation
 
 
 

@@ -1,4 +1,4 @@
-Evoluon_logos.png Overzicht_-_Eindhoven_-_20396787_-_RCE_-_Cropped.jpg The EVOLUON is a conference centre and former science museum erected by the electronics and electrical company Philips at Eindhoven in the Netherlands in 1966. Since its construction, it has become a landmark and a symbol for the city.
+The EVOLUON is a conference centre and former science museum erected by the electronics and electrical company Philips at Eindhoven in the Netherlands in 1966. Since its construction, it has become a landmark and a symbol for the city.
 
 The building is unique due to its very futuristic design, resembling a landed flying saucer. It was designed by architects Leo de Bever and Louis Christiaan Kalff,[1] while the exhibition it housed was conceived by James Gardner. De Bever and Kalff only got two demands for the design of the building, it had to be "spectacular" and it had to be possible to hold exhibitions in the building.[2]
 

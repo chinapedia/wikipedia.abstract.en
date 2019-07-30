@@ -42,7 +42,7 @@ Eos' team of horses pull her chariot across the sky and are named in the Odyssey
 
 Lovers and children
 
-Eos_Memnon_Louvre_G115.jpg on an Attic red-figure cup, ca. 490–480 BCE, the so-called "Memnon Pietà" found at Capua (Louvre).]]
+on an Attic red-figure cup, ca. 490–480 BCE, the so-called "Memnon Pietà" found at Capua (Louvre).]]
 
 Eos fell in love several times. According to Pseudo-Apollodorus, it was the jealous Aphrodite who cursed her to be perpetually in love and have an unsatisfiable sexual desire because once had Eos lain with Aphrodite's sweetheart Ares, the god of war.[36] This caused her to abduct a number of handsome young men, most notably Cephalus, Tithonus, Orion, and Cleitus. The good-looking Cleitus was made immortal by her.[37] She also asked for Tithonus to be made immortal, but forgot to ask for eternal youth, which resulted in him living forever as a helpless old man.[38]
 
@@ -72,7 +72,7 @@ Etruscan
 
 Among the Etruscans, the generative dawn-goddess was Thesan. Depictions of the dawn-goddess with a young lover became popular in Etruria in the fifth century, probably inspired by imported Greek vase-painting.[50] Though Etruscans preferred to show the goddess as a nurturer (_Kourotrophos_) rather than an abductor of young men, the late Archaic sculptural acroterion from Etruscan Cære, now in Berlin, showing the goddess in archaic running pose adapted from the Greeks, and bearing a boy in her arms, has commonly been identified as Eos and Cephalus.[51] On an Etruscan mirror Thesan is shown carrying off a young man, whose name is inscribed as Tinthu.[52]
 
-Eos_chariot_430-420_BC_Staatliche_Antikensammlungen.jpg from South Italy, 430–420 BC, Staatliche Antikensammlungen]]
+from South Italy, 430–420 BC, Staatliche Antikensammlungen]]
 
 Roman
 

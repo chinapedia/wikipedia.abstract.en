@@ -1,4 +1,4 @@
-Roman_Empire_125.png (ruled 117–138 AD), showing the location of the BURGUNDIONES Germanic group, then inhabiting the region between the Viadua (Oder) and Visula (Vistula) rivers (Poland)]]
+(ruled 117–138 AD), showing the location of the BURGUNDIONES Germanic group, then inhabiting the region between the Viadua (Oder) and Visula (Vistula) rivers (Poland)]]
 
 The BURGUNDIANS (; ; ; ) were a large East Germanic (possibly Vandal) tribe or group of tribes that lived in the time of the Roman Empire in the region of Germania that is now part of Poland.
 
@@ -20,7 +20,7 @@ History
 
 Background
 
-DenmarkBornholm2.png]]
+]]
 
 The Burgundians had a tradition of Scandinavian origin which finds support in place-name evidence and archaeological evidence (Stjerna) and many consider their tradition to be correct (e.g. Musset, p. 62). The Burgundians are believed to have then emigrated to the Baltic island of Bornholm ("the island of the Burgundians" in Old Norse). However, by about 250 AD, the population of Bornholm had largely disappeared from the island. Most cemeteries ceased to be used, and those that were still used had few burials (Stjerna, in Nerman 1925:176). In _Þorsteins saga Víkingssonar_ (_The Saga of Thorstein, Viking's Son_), a man (or group) named Veseti settled on a holm (island) called _borgundarhólmr_ in Old Norse, i.e. Bornholm. Alfred the Great's translation of _Orosius_ uses the name _Burgenda land_ to refer to a territory next to the land of Sweons ("Swedes").[5] The poet and early mythologist Viktor Rydberg (1828–1895), (_Our Fathers' Godsaga_) asserted from an early medieval source, _Vita Sigismundi_, that they themselves retained oral traditions about their Scandinavian origin.
 
@@ -48,8 +48,6 @@ The destruction of Worms and the Burgundian kingdom by the Huns became the subje
 
 Settlement in Savoy
 
-Map_Burgundian_Kingdom_EN.png
-
 For reasons not cited in the sources, the Burgundians were granted _foederati_ status a second time, and in 443 were resettled by Aëtius in the region of _Sapaudia_.[17] Though the precise geography is uncertain, _Sapaudia_ corresponds to the modern-day Savoy, and the Burgundians probably lived near _Lugdunum_, known today as Lyon.[18] A new king, Gundioc or _Gunderic_, presumed to be Gundahar's son, appears to have reigned following his father's death.[19] The historian Pline tells us that Gonderic ruled the areas of Saône, Dauphiny, Savoie and a part of Provence. He set up Vienne as the capital of the kingdom of Burgundy. In all, eight Burgundian kings of the house of Gundahar ruled until the kingdom was overrun by the Franks in 534.
 
 As allies of Rome in its last decades, the Burgundians fought alongside Aëtius and a confederation of Visigoths and others in the battle against Attila at the Battle of Châlons (also called "The Battle of the Catalaunian Fields") in 451. The alliance between Burgundians and Visigoths seems to have been strong, as Gundioc and his brother Chilperic I accompanied Theodoric II to Spain to fight the Sueves in 455.[20]
@@ -68,8 +66,6 @@ In 474, Burgundian influence over the empire seems to have ended. Glycerius was 
 
 Consolidation of the kingdom
 
-Conquests_of_Clovis.png
-
 According to Gregory of Tours, the years following Gundobad's return to Burgundy saw a bloody consolidation of power. Gregory states that Gundobad murdered his brother Chilperic, drowning his wife and exiling their daughters (one of whom was to become the wife of Clovis the Frank, and was reputedly responsible for his conversion).[27] This is contested by, e.g., Bury, who points out problems in much of Gregory's chronology for the events.
 
 In c. 500, when Gundobad and Clovis were at war, Gundobad appears to have been betrayed by his brother Godegisel, who joined the Franks; together Godegisel's and Clovis' forces "crushed the army of Gundobad".[28] Gundobad was temporarily holed up in Avignon, but was able to re-muster his army and sacked Vienne, where Godegisel and many of his followers were put to death. From this point, Gundobad appears to have been the sole king of Burgundy.[29] This would imply that his brother Gundomar was already dead, though there are no specific mentions of the event in the sources.
@@ -79,8 +75,6 @@ Either Gundobad and Clovis reconciled their differences, or Gundobad was forced 
 During the upheaval, sometime between 483–501, Gundobad began to set forth the _Lex Gundobada_ (see below), issuing roughly the first half, which drew upon the _Lex Visigothorum_.[30] Following his consolidation of power, between 501 and his death in 516, Gundobad issued the second half of his law, which was more originally Burgundian.
 
 Fall
-
-Map_Burgundian_Kingdom_2_EN.png
 
 The Burgundians were extending their power over southeastern Gaul—that is, northern Italy, western Switzerland, and southeastern France. In 493, Clovis, king of the Franks, married the Burgundian princess Clotilda (daughter of Chilperic), who converted him to the Catholic faith.
 

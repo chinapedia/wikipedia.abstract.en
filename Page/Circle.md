@@ -28,14 +28,14 @@ Terminology
 
 All of the specified regions may be considered as _open_, that is, not containing their boundaries, or as _closed_, including their respective boundaries.
 
-  ------------------ -------------------
-  CIRCLE_LINES.svg   Circle_slices.svg
-  ------------------ -------------------
+  -- --
+
+  -- --
 
 
 History
 
-The compass in this 13th-century manuscript is a symbol of God's act of Creation. Notice also the circular shape of the halo. The word _circle_ derives from the Greek κίρκος/κύκλος (_kirkos/kuklos_), itself a metathesis of the Homeric Greek κρίκος (_krikos_), meaning "hoop" or "ring".[1] The origins of the words _circus_ and _circuit_ are closely related. IlkhanateSilkCircular.jpg Shatir500.jpg astronomical drawing.]] The circle has been known since before the beginning of recorded history. Natural circles would have been observed, such as the Moon, Sun, and a short plant stalk blowing in the wind on sand, which forms a circle shape in the sand. The circle is the basis for the wheel, which, with related inventions such as gears, makes much of modern machinery possible. In mathematics, the study of the circle has helped inspire the development of geometry, astronomy and calculus.
+The word _circle_ derives from the Greek κίρκος/κύκλος (_kirkos/kuklos_), itself a metathesis of the Homeric Greek κρίκος (_krikos_), meaning "hoop" or "ring".[1] The origins of the words _circus_ and _circuit_ are closely related. astronomical drawing.]] The circle has been known since before the beginning of recorded history. Natural circles would have been observed, such as the Moon, Sun, and a short plant stalk blowing in the wind on sand, which forms a circle shape in the sand. The circle is the basis for the wheel, which, with related inventions such as gears, makes much of modern machinery possible. In mathematics, the study of the circle has helped inspire the development of geometry, astronomy and calculus.
 
 Early science, particularly geometry and astrology and astronomy, was connected to the divine for most medieval scholars, and many believed that there was something intrinsically "divine" or "perfect" that could be found in circles.[2][3]
 
@@ -43,7 +43,7 @@ Some highlights in the history of the circle are:
 
 -   1700 BCE – The Rhind papyrus gives a method to find the area of a circular field. The result corresponds to (3.16049...) as an approximate value of .[4]
 
-Toghrol_Tower_looking_up.jpg from inside]]
+from inside]]
 
 -   300 BCE – Book 3 of Euclid's _Elements_ deals with the properties of circles.
 -   In Plato's Seventh Letter there is a detailed definition and explanation of the circle. Plato explains the perfect circle, and how it is different from any drawing, words, definition or explanation.
@@ -60,7 +60,7 @@ _C_ = 2_π__r_ = _π__d_. 
 
 Area enclosed
 
-Circle_Area.svg As proved by Archimedes, in his Measurement of a Circle, the area enclosed by a circle is equal to that of a triangle whose base has the length of the circle's circumference and whose height equals the circle's radius,[6] which comes to multiplied by the radius squared:
+As proved by Archimedes, in his Measurement of a Circle, the area enclosed by a circle is equal to that of a triangle whose base has the length of the circle's circumference and whose height equals the circle's radius,[6] which comes to multiplied by the radius squared:
 
 _A__r__e__a_ = _π__r_². 
 
@@ -76,7 +76,7 @@ Equations
 
 Cartesian coordinates
 
-Circle_center_a_b_radius_r.svg EQUATION OF A CIRCLE
+EQUATION OF A CIRCLE
 In an _x_–_y_ Cartesian coordinate system, the circle with centre coordinates (_a_, _b_) and radius _r_ is the set of all points (_x_, _y_) such that
 
 (_x_−_a_)² + (_y_−_b_)² = _r_².
@@ -212,8 +212,6 @@ Tangent
 
 Theorems
 
-Secant-Secant_Theorem.svg
-
 -   The chord theorem states that if two chords, _CD_ and _EB_, intersect at _A_, then _AB_ × _AE_}}.
 -   If two secants, _AE_ and _AD_, also cut the circle at _B_ and _C_ respectively, then _AB_ × _AE_}}. (Corollary of the chord theorem.)
 -   A tangent can be considered a limiting case of a secant whose ends are coincident. If a tangent from an external point _A_ meets the circle at _F_ and a secant from the external point _A_ meets the circle at _C_ and _D_ respectively, then _AC_ × _AD_}}. (Tangent-secant theorem.)
@@ -223,11 +221,9 @@ Secant-Secant_Theorem.svg
 
 Inscribed angles
 
-inscribed_angle_theorem.svg An inscribed angle (examples are the blue and green angles in the figure) is exactly half the corresponding central angle (red). Hence, all inscribed angles that subtend the same arc (pink) are equal. Angles inscribed on the arc (brown) are supplementary. In particular, every inscribed angle that subtends a diameter is a right angle (since the central angle is 180 degrees).
+An inscribed angle (examples are the blue and green angles in the figure) is exactly half the corresponding central angle (red). Hence, all inscribed angles that subtend the same arc (pink) are equal. Angles inscribed on the arc (brown) are supplementary. In particular, every inscribed angle that subtends a diameter is a right angle (since the central angle is 180 degrees).
 
 Sagitta
-
-circle_Sagitta.svg
 
 -   The sagitta (also known as the versine) is a line segment drawn perpendicular to a chord, between the midpoint of that chord and the arc of the circle.
 -   Given the length _y_ of a chord, and the length _x_ of the sagitta, the Pythagorean theorem can be used to calculate the radius of the unique circle that will fit around the two lines:
@@ -250,8 +246,6 @@ Construct a circle with a given diameter
 -   Construct the midpoint of the diameter.
 -   Construct the circle with centre passing through one of the endpoints of the diameter (it will also pass through the other endpoint).
 
-Circunferencia_10.svg
-
 Construct a circle through 3 noncollinear points
 
 -   Name the points , and ,
@@ -263,7 +257,7 @@ Construct a circle through 3 noncollinear points
 
 Circle of Apollonius
 
-Apollonius_circle_definition_labels.svg Apollonius of Perga showed that a circle may also be defined as the set of points in a plane having a constant _ratio_ (other than 1) of distances to two fixed foci, _A_ and _B_.[10][11] (The set of points where the distances are equal is the perpendicular bisector of segment _AB_, a line.) That circle is sometimes said to be drawn _about_ two points.
+Apollonius of Perga showed that a circle may also be defined as the set of points in a plane having a constant _ratio_ (other than 1) of distances to two fixed foci, _A_ and _B_.[10][11] (The set of points where the distances are equal is the perpendicular bisector of segment _AB_, a line.) That circle is sometimes said to be drawn _about_ two points.
 
 The proof is in two parts. First, one must prove that, given two foci _A_ and _B_ and a ratio of distances, any point _P_ satisfying the ratio of distances must fall on a particular circle. Let _C_ be another point, also satisfying the ratio and lying on segment _AB_. By the angle bisector theorem the line segment _PC_ will bisect the interior angle _APB_, since the segments are similar:
 
@@ -317,7 +311,7 @@ The circle can be viewed as a limiting case of each of various other figures:
 
 Circles in other _p_-norms
 
-Vector-p-Norms_qtl1.svgs (see also superellipse) in different -norms (every vector from the origin to the unit circle has a length of one, the length being calculated with length-formula of the corresponding ).]] Defining a circle as the set of points with a fixed distance from a point, different shapes can be considered circles under different definitions of distance. In _p_-norm, distance is determined by
+s (see also superellipse) in different -norms (every vector from the origin to the unit circle has a length of one, the length being calculated with length-formula of the corresponding ).]] Defining a circle as the set of points with a fixed distance from a point, different shapes can be considered circles under different definitions of distance. In _p_-norm, distance is determined by
 
 $$\left\| x \right\| _p = \left( |x_1|^p + |x_2|^p + \dotsb + |x_n|^p \right) ^{1/p} .$$
 In Euclidean geometry, _p_ = 2, giving the familiar

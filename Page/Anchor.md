@@ -1,4 +1,4 @@
-Kotwica_SS_Poznań.JPG ship's anchor and chain on display]] Amoco_Cadiz_anchor.jpg'' in Portsall, north-west Brittany, France]]
+ship's anchor and chain on display]] '' in Portsall, north-west Brittany, France]]
 
 An ANCHOR is a device, normally made of metal, used to connect a vessel to the bed of a body of water to prevent the craft from drifting due to wind or current. The word derives from Latin _ancora_, which itself comes from the Greek ἄγκυρα (_ankura_).[1][2]
 
@@ -8,8 +8,6 @@ A sea anchor is a drogue, not in contact with the seabed. It is used to control 
 
 
 Overview
-
-Stockless_anchor_2_NT.PNG
 
 Anchors achieve holding power either by "hooking" into the seabed, or sheer mass, or a combination of the two. Permanent moorings use large masses (commonly a block or slab of concrete) resting on the seabed. Semi-permanent mooring anchors (such as mushroom anchors) and large ship's anchors derive a significant portion of their holding power from their mass, while also hooking or embedding in the bottom. Modern anchors for smaller vessels have metal _flukes_ which hook on to rocks on the bottom or bury themselves in soft seabed.
 
@@ -22,21 +20,19 @@ The term _aweigh_ describes an anchor when it is hanging on the rope and is not 
 
 Evolution of the anchor
 
-Anchor_types.jpg
-
 The earliest anchors were probably rocks, and many rock anchors have been found dating from at least the Bronze Age.[3] Pre-European Maori waka (canoes) used one or more hollowed stones, tied with flax ropes, as anchors. Many modern moorings still rely on a large rock as the primary element of their design. However, using pure mass to resist the forces of a storm only works well as a permanent mooring; a large enough rock would be nearly impossible to move to a new location.
 
 The ancient Greeks used baskets of stones, large sacks filled with sand, and wooden logs filled with lead. According to Apollonius Rhodius and Stephen of Byzantium, anchors were formed of stone, and Athenaeus states that they were also sometimes made of wood. Such anchors held the vessel merely by their weight and by their friction along the bottom.
 
 Fluked anchors
 
-Ladbyskibet_anker.jpg Iron was afterwards introduced for the construction of anchors, and an improvement was made by forming them with teeth, or "flukes", to fasten themselves into the bottom. This is the iconic anchor shape most familiar to non-sailors.
+Iron was afterwards introduced for the construction of anchors, and an improvement was made by forming them with teeth, or "flukes", to fasten themselves into the bottom. This is the iconic anchor shape most familiar to non-sailors.
 
 This form has been used since antiquity. The Roman Nemi ships of the 1st century AD used this form. The Viking Ladby ship (probably 10th century) used a fluked anchor of this type, made entirely of iron.
 
 Admiralty Anchor
 
-Admiralty_anchor.JPG The Admiralty Pattern anchor, or simply "Admiralty", also known as a "Fisherman", consists of a central shank with a ring or shackle for attaching the rode. At the other end of the shank there are two arms, carrying the flukes, while the stock is mounted to the shackle end, at ninety degrees to the arms. When the anchor lands on the bottom, it will generally fall over with the arms parallel to the seabed. As a strain comes onto the rode, the stock will dig into the bottom, canting the anchor until one of the flukes catches and digs into the bottom.
+The Admiralty Pattern anchor, or simply "Admiralty", also known as a "Fisherman", consists of a central shank with a ring or shackle for attaching the rode. At the other end of the shank there are two arms, carrying the flukes, while the stock is mounted to the shackle end, at ninety degrees to the arms. When the anchor lands on the bottom, it will generally fall over with the arms parallel to the seabed. As a strain comes onto the rode, the stock will dig into the bottom, canting the anchor until one of the flukes catches and digs into the bottom.
 
 The Admiralty Anchor is a reinvention of a classical design, as seen in one of the Nemi ship anchors. This basic design remained unchanged for centuries, with the most significant changes being to the overall proportions, and a move from stocks made of wood to iron stocks in the late 1830s and early 1840s.
 
@@ -45,8 +41,6 @@ Since one fluke always protrudes up from the set anchor, there is a great tenden
 Handling and storage of these anchors requires special equipment and procedures. Once the anchor is hauled up to the hawsepipe, the ring end is hoisted up to the end of a timber projecting from the bow known as the cathead. The crown of the anchor is then hauled up with a heavy tackle until one fluke can be hooked over the rail. This is known as "catting and fishing" the anchor. Before dropping the anchor, the fishing process is reversed, and the anchor is dropped from the end of the cathead.
 
 Stockless anchor
-
-Anchor,_England_-_scan01.jpg Stockless_anchor_1_NT.PNG
 
 The stockless anchor, patented in England in 1821,[4] represented the first significant departure in anchor design in centuries. Though their holding-power-to-weight ratio is significantly lower than admiralty pattern anchors, their ease of handling and stowage aboard large ships led to almost universal adoption. In contrast to the elaborate stowage procedures for earlier anchors, stockless anchors are simply hauled up until they rest with the shank inside the hawsepipes, and the flukes against the hull (or inside a recess in the hull).
 
@@ -73,8 +67,6 @@ Originally designed as a lightweight anchor for seaplanes, this design consists 
 
 CQR plough anchor
 
-Genuine_CQR.jpg
-
 Many manufacturers produce a plough-type anchor, so-named after to its resemblance to an agricultural plough. All such anchors are copied from the original CQR _"secure"_, a 1933 design patented in the UK by mathematician Geoffrey Ingram Taylor.[7][8]
 
 Plough anchors stow conveniently in a roller at the bow, and have been popular with cruising sailors and private boaters. Ploughs are generally good in all types of seafloor, though not exceptional in any. Contrary to popular belief, the CQR's hinged shank is not to allow the anchor to turn with direction changes rather than breaking out, but actually to prevent the shank's weight from disrupting the fluke's orientation while setting.[9] The hinge can wear out and may trap a sailor's fingers. Some later plough anchors have a rigid shank, such as the Lewmar's "Delta".[10]
@@ -87,8 +79,6 @@ The Delta was developed in the 1980s for commercialization by British marine man
 
 Danforth anchor
 
-Fluke_anchor-1-.gif
-
 American Richard Danforth invented the Danforth pattern in the 1940s for use aboard landing craft. It uses a stock at the crown to which two large flat triangular flukes are attached. The stock is hinged so the flukes can orient toward the bottom (and on some designs may be adjusted for an optimal angle depending on the bottom type). Tripping palms at the crown act to tip the flukes into the seabed. The design is a burying variety, and once well set can develop high resistance. Its lightweight and compact flat design make it easy to retrieve and relatively easy to store; some anchor rollers and hawsepipes can accommodate a fluke-style anchor.
 
 A Danforth will not usually penetrate or hold in gravel or weeds. In boulders and coral it may hold by acting as a hook. If there is much current, or if the vessel is moving while dropping the anchor, it may "kite" or "skate" over the bottom due to the large fluke area acting as a sail or wing.[11]
@@ -99,21 +89,17 @@ The Fortress is an American aluminum alloy Danforth variant which can be disasse
 
 Bruce or claw anchor
 
-The Bruce anchor was an evolutionary improvement in its day. It is most effective in larger sizes
-
 This claw-shaped anchor was designed by Peter Bruce from the Isle of Man in the 1970s.[17] Bruce gained his early reputation from the production of large-scale commercial anchors for ships and fixed installations such as oil rigs. The Bruce and its copies, known generically as "claws", have been adopted on smaller boats (partly because they stow easily on a bow roller) but they are most effective in larger sizes. It was intended to address some of the problems of the only general-purpose option then available, the plough. Claw-types do not always set quickly in most seabeds, but they have the reputation of not breaking out with tide or wind changes, instead slowly turning in the bottom to align with the force.
 
 Bruce anchors can have difficulty penetrating weedy bottoms and grass. They offer a fairly low holding-power-to-weight ratio and generally have to be oversized to compete with newer types. On the other hand, they have a reasonable reputation in boulder seafloors, and they perform relatively well with low rode scopes. They cannot be used with hawsepipes. Many yachtsmen are abandoning the Bruce in favour of more efficient modern anchors, such as the Ultra and the Vulcan.
 
 Recent designs
 
-Rocna_Anchor_In_Sea.jpg In recent years there has been significant progress in anchor design. Primarily designed to set very quickly, then generate high holding power, these new generation anchors (mostly proprietary inventions still under patent) are becoming popular with users of small to medium-sized vessels.
+In recent years there has been significant progress in anchor design. Primarily designed to set very quickly, then generate high holding power, these new generation anchors (mostly proprietary inventions still under patent) are becoming popular with users of small to medium-sized vessels.
 
 -   BÜGELANKER, or WASI: This German-designed bow anchor has a sharp tip for penetrating weed, and features a roll-bar which allows the correct setting attitude to be achieved without the need for extra weight to be inserted into the tip.[18]
 -   BULWAGGA: This is a unique design featuring three flukes instead of the usual two. It has performed well in tests by independent sources such as American boating magazine _Practical Sailor_.[19]
 -   KNOX ANCHOR: This is produced in Scotland was invented by Professor John Knox. It has a divided concave large area fluke arrangement and a shank in high tensile steel. A roll bar similar to the Rocna gives fast setting and a holding power of about 40 times anchor weight.[20]
-
-9kg_knox.jpg
 
 -   MANORK: This is a Slovenian design made by Marko Janjanin which has proved successful since 2017. The anchors Manork have been developed for safe anchoring even in the heaviest storms. Its roll-bar is also similar to that of the Bügel. The anchors Marnok have 55 % of their whole weigh on the toe of the fluke (foot). Therefore, the anchor Manork hooks in the seabed even if it is covered with seaweed.
 -   ROCNA: This New Zealand spade design, available in galvanised or stainless steel, has been produced since 2004. It has a roll-bar (similar to that of the Bügel), a large spade-like fluke area, and a sharp toe for penetrating weed and grass. The Rocna sets very quickly, holds well, and has become the best-selling anchor for yachts and workboats.[21]
@@ -134,7 +120,7 @@ Permanent anchors come in a wide range of types and have no standard form. A sla
 
 Mushroom
 
-Portsmouth_with_mushroom_anchor.jpg at Portsmouth, Virginia]]
+at Portsmouth, Virginia]]
 
 The mushroom anchor is suitable where the seabed is composed of silt or fine sand. It was invented by Robert Stevenson, for use by an 82-ton converted fishing boat, _Pharos_, which was used as a lightvessel between 1807 and 1810 near to Bell Rock whilst the lighthouse was being constructed. It was equipped with a 1.5-ton example.
 
@@ -159,7 +145,7 @@ There is a need in the oil-and-gas industry to resist large anchoring forces whe
 
 Anchoring gear
 
-AS_HMAS_Canberra_1.jpg, Australia]] The elements of anchoring gear include the anchor, the cable (also called a _RODE_), the method of attaching the two together, the method of attaching the cable to the ship, charts, and a method of learning the depth of the water.
+, Australia]] The elements of anchoring gear include the anchor, the cable (also called a _RODE_), the method of attaching the two together, the method of attaching the cable to the ship, charts, and a method of learning the depth of the water.
 
 Vessels may carry a number of anchors: _BOWER ANCHORS_ (formerly known as _sheet anchors_ ) are the main anchors used by a vessel and normally carried at the bow of the vessel. A _KEDGE ANCHOR_ is a light anchor used for warping an anchor, also known as _kedging_, or more commonly on yachts for mooring quickly or in benign conditions. A _STREAM ANCHOR_, which is usually heavier than a _kedge anchor_, can be used for kedging or warping in addition to temporary mooring and restraining stern movement in tidal conditions or in waters where vessel movement needs to be restricted, such as rivers and channels.[26] A _KILLICK ANCHOR_ is a small, possibly improvised, anchor.[27][28]
 
@@ -180,7 +166,7 @@ In moderate conditions the ratio of warp to water depth should be 4:1. In roughe
 
 Anchoring techniques
 
-Polarstern_anchor-winch_hg.jpg Chain_markers.jpg The basic anchoring consists of determining the location, dropping the anchor, laying out the scope, setting the hook, and assessing where the vessel ends up. The ship will seek a location which is sufficiently protected; has suitable holding ground, enough depth at low tide and enough room for the boat to swing.
+The basic anchoring consists of determining the location, dropping the anchor, laying out the scope, setting the hook, and assessing where the vessel ends up. The ship will seek a location which is sufficiently protected; has suitable holding ground, enough depth at low tide and enough room for the boat to swing.
 
 The location to drop the anchor should be approached from down wind or down current, whichever is stronger. As the chosen spot is approached, the vessel should be stopped or even beginning to drift back. The anchor should be lowered quickly but under control until it is on the bottom (see anchor windlass). The vessel should continue to drift back, and the cable should be veered out under control so it will be relatively straight.
 
@@ -212,7 +198,7 @@ Also known as _tandem anchoring_, in this technique two anchors are deployed in 
 
 Kedging
 
-Памятник_Петру_1.JPG in Voronezh, Russia. He is leaning on an anchor, symbolic of his contributions to modernizing and expanding Russia's navy (1860)]]
+in Voronezh, Russia. He is leaning on an anchor, symbolic of his contributions to modernizing and expanding Russia's navy (1860)]]
 
 _Kedging_ or _warping_ is a technique for moving or turning a ship by using a relatively light anchor.
 
@@ -226,7 +212,7 @@ Club hauling
 
 Club hauling is an archaic technique. When a vessel is in a narrow channel or on a lee shore so that there is no room to tack the vessel in a conventional manner, an anchor attached to the lee quarter may be dropped from the lee bow. This is deployed when the vessel is head to wind and has lost headway. As the vessel gathers sternway the strain on the cable pivots the vessel around what is now the weather quarter turning the vessel onto the other tack. The anchor is then normally cut away, as it cannot be recovered.[31][32]
 
-Triple_Entente.jpg of World War I, with Britannia's association with the sea symbolized by her holding a large anchor]]
+of World War I, with Britannia's association with the sea symbolized by her holding a large anchor]]
 
 
 In heraldry

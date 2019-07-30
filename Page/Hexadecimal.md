@@ -45,7 +45,7 @@ There is no universal convention to use lowercase or uppercase for the letter di
 
 History of written representations
 
-Bruce_Martin_hexadecimal_notation_proposal.png The use of the letters _A_ through _F_ to represent the digits above 9 was not universal in the early history of computers.
+The use of the letters _A_ through _F_ to represent the digits above 9 was not universal in the early history of computers.
 
 -   During the 1950s, some installations favored using the digits 0 through 5 with an overline to denote the values 10–15 as , , , , and .
 -   The SWAC (1950)[12] and Bendix G-15 (1956)[13][14] computers used the lowercase letters _u_, _v_, _w_, _x_, _y_ and _z_ for the values 10 to 15.
@@ -64,7 +64,7 @@ Verbal and digital representations
 
 There are no traditional numerals to represent the quantities from ten to fifteen – letters are used as a substitute – and most European languages lack non-decimal names for the numerals above ten. Even though English has names for several non-decimal powers (_pair_ for the first binary power, _score_ for the first vigesimal power, _dozen_, _gross_ and _great gross_ for the first three duodecimal powers), no English name describes the hexadecimal powers (decimal 16, 256, 4096, 65536, ... ). Some people read hexadecimal numbers digit by digit like a phone number, or using the NATO phonetic alphabet, the Joint Army/Navy Phonetic Alphabet, or a similar ad hoc system.
 
-Hexadecimal-counting.jpg Systems of counting on digits have been devised for both binary and hexadecimal. Arthur C. Clarke suggested using each finger as an on/off bit, allowing finger counting from zero to 1023₁₀ on ten fingers.[25] Another system for counting up to FF₁₆ (255₁₀) is illustrated on the right.
+Systems of counting on digits have been devised for both binary and hexadecimal. Arthur C. Clarke suggested using each finger as an on/off bit, allowing finger counting from zero to 1023₁₀ on ten fingers.[25] Another system for counting up to FF₁₆ (255₁₀) is illustrated on the right.
 
 Signs
 
@@ -156,7 +156,7 @@ The following is a JavaScript implementation of the above algorithm for converti
 
 Conversion through addition and multiplication
 
-Hexadecimal_multiplication_table.svg]] It is also possible to make the conversion by assigning each place in the source base the hexadecimal representation of its place value — before carrying out multiplication and addition to get the final representation. For example, to convert the number B3AD to decimal, one can split the hexadecimal number into its digits: B (11₁₀), 3 (3₁₀), A (10₁₀) and D (13₁₀), and then get the final result by multiplying each decimal representation by 16^(_p_) (_p_ being the corresponding hex digit position, counting from right to left, beginning with 0). In this case, we have that:
+]] It is also possible to make the conversion by assigning each place in the source base the hexadecimal representation of its place value — before carrying out multiplication and addition to get the final representation. For example, to convert the number B3AD to decimal, one can split the hexadecimal number into its digits: B (11₁₀), 3 (3₁₀), A (10₁₀) and D (13₁₀), and then get the final result by multiplying each decimal representation by 16^(_p_) (_p_ being the corresponding hex digit position, counting from right to left, beginning with 0). In this case, we have that:
 
 (11 × 16³) + (3 × 16²) + (10 × 16¹) + (13 × 16⁰)}}
 

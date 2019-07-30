@@ -16,13 +16,13 @@ In 1961, Bixby was in the musical _The Boy Friend_ at the Detroit Civic Theater,
 
 _My Favorite Martian_ and other early roles
 
-Bill_Bixby_My_Favorite_Martian_1965.JPG'', when an accident turns Uncle Martin back into a baby (Season 2, Episode 6)]] Bixby took the role of young reporter Tim O'Hara in the 1963 CBS sitcom, _My Favorite Martian_, in which he co-starred with Ray Walston. By 1966, though, high production costs forced the series to come to an end after 107 episodes. After the cancellation of _Martian_, Bixby starred in four movies: _Ride Beyond Vengeance_, _Doctor, You've Got to Be Kidding!_, and two of Elvis Presley's movies, _Clambake_ and _Speedway_. He turned down the role as Marlo Thomas's boyfriend in the successful _That Girl_, though he later guest-starred in the show, and starred in two failed pilots.
+'', when an accident turns Uncle Martin back into a baby (Season 2, Episode 6)]] Bixby took the role of young reporter Tim O'Hara in the 1963 CBS sitcom, _My Favorite Martian_, in which he co-starred with Ray Walston. By 1966, though, high production costs forced the series to come to an end after 107 episodes. After the cancellation of _Martian_, Bixby starred in four movies: _Ride Beyond Vengeance_, _Doctor, You've Got to Be Kidding!_, and two of Elvis Presley's movies, _Clambake_ and _Speedway_. He turned down the role as Marlo Thomas's boyfriend in the successful _That Girl_, though he later guest-starred in the show, and starred in two failed pilots.
 
 _The Courtship of Eddie's Father_
 
 In 1969, Bixby starred in his second high-profile television role, as Tom Corbett in _The Courtship of Eddie's Father_, a comedy-drama on ABC. The series concerned a widowed father raising a young son, managing a major syndicated magazine, and at the same time trying to re-enter the dating scene. This series was in the vein of other 1960s and 1970s sitcoms that dealt with widowerhood, such as _The Andy Griffith Show_ and _My Three Sons_. Eddie was played by novice actor Brandon Cruz. The pair developed a close rapport that translated to an off-camera friendship as well. The core cast was rounded out by Academy Award-winning actress Miyoshi Umeki, who played the role of Tom's housekeeper, Mrs. Livingston; James Komack (one of the series' producers) as Norman Tinker, Tom's pseudo-hippie, quirky photographer, and actress Kristina Holland as Tom's secretary, Tina. One episode of the series co-starred Bixby's future wife, Brenda Benet, as one of Tom's girlfriends.
 
-Courtship_of_Eddies_Father_1969.JPG and Miyoshi Umeki]] Bixby was nominated for the Emmy Award for Lead Actor in a Comedy Series in 1971. The following year, he won the Parents Without Partners Exemplary Service Award for 1972.
+and Miyoshi Umeki]] Bixby was nominated for the Emmy Award for Lead Actor in a Comedy Series in 1971. The following year, he won the Parents Without Partners Exemplary Service Award for 1972.
 
 Bixby made his directorial debut on the sitcom in 1970, directing eight episodes. ABC canceled the sitcom in 1972 at the end of season three.
 

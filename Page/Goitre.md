@@ -77,12 +77,12 @@ Goitre is treated according to the cause. If the thyroid gland is producing an e
 
 Epidemiology
 
-Iodine_deficiency_world_map_-_DALY_-_WHO2002.svg for iodine deficiency per 100,000 inhabitants in 2002.[18] ]] Goitre is more common among women, but this includes the many types of goitre caused by autoimmune problems, and not only those caused by simple lack of iodine.
+for iodine deficiency per 100,000 inhabitants in 2002.[18] ]] Goitre is more common among women, but this includes the many types of goitre caused by autoimmune problems, and not only those caused by simple lack of iodine.
 
 
 History
 
-Cretinnen_aus_Steiermark,_1819_gez._Loder,_gest._Leopold_Müller.jpg in Styria, copper engraving, 1815]] Miesbacher_gebirgstracht_frau.jpg Chinese physicians of the Tang Dynasty (618–907) were the first to successfully treat patients with goitre by using the iodine-rich thyroid gland of animals such as sheep and pigs—in raw, pill, or powdered form.[19] This was outlined in Zhen Quan's (d. 643 AD) book, as well as several others.[20] One Chinese book, _The Pharmacopoeia of the Heavenly Husbandman_, asserted that iodine-rich sargassum was used to treat goitre patients by the 1st century BC, but this book was written much later.[21]
+in Styria, copper engraving, 1815]] Chinese physicians of the Tang Dynasty (618–907) were the first to successfully treat patients with goitre by using the iodine-rich thyroid gland of animals such as sheep and pigs—in raw, pill, or powdered form.[19] This was outlined in Zhen Quan's (d. 643 AD) book, as well as several others.[20] One Chinese book, _The Pharmacopoeia of the Heavenly Husbandman_, asserted that iodine-rich sargassum was used to treat goitre patients by the 1st century BC, but this book was written much later.[21]
 
 In the 12th century, Zayn al-Din al-Jurjani, a Persian physician, provided the first description of Graves' disease after noting the association of goitre and a displacement of the eye known as exophthalmos in his _Thesaurus of the Shah of Khwarazm_, the major medical dictionary of its time.[22][23] Al-Jurjani also established an association between goitre and palpitation.[24] The disease was later named after Irish doctor Robert James Graves, who described a case of goitre with exophthalmos in 1835. The German Karl Adolph von Basedow also independently reported the same constellation of symptoms in 1840, while earlier reports of the disease were also published by the Italians Giuseppe Flajani and Antonio Giuseppe Testa, in 1802 and 1810 respectively,[25] and by the English physician Caleb Hillier Parry (a friend of Edward Jenner) in the late 18th century.[26]
 

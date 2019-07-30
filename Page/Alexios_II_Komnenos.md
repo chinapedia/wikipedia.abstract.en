@@ -7,8 +7,6 @@ On Manuel's death in 1180, Maria, who became a nun under the name Xene, took the
 
 Their party was defeated on 2 May 1182, but Andronikos Komnenos, a first cousin of Emperor Manuel, took advantage of the disorder to aim at the crown. He entered Constantinople, received with almost divine honours, and overthrew the government. His arrival was celebrated by a massacre of 80,000 Latins in Constantinople, especially the Venetian merchants, which he made no attempt to stop. He allowed Alexios II to be crowned but was responsible for the death of most of the young emperor's actual or potential defenders, including his mother, his half-sister, and the Caesar, and he refused to allow him any voice in public affairs.[3]
 
-Byzantium1173.JPG
-
 The betrothal in 1180 of Alexios II to Agnes of France, daughter of Louis VII of France and his third wife Adèle of Champagne and at the time a child of nine, had not apparently been followed by their marriage. Andronikos was now formally proclaimed as co-emperor before the crowd on the terrace of the Church of Christ of the Chalkè, and not long afterwards, on the pretext that divided rule was injurious to the Empire, he caused Alexios II to be strangled with a bow-string in October 1183.[4] During the reign of Alexius II, the Byzantine Empire was invaded by King Béla III, losing Syrmia and Bosnia to the Kingdom of Hungary in 1181; later even Dalmatia was lost to the Venetians. Kilij Arslan II invaded the empire in 1182, defeating the Byzantines at the Siege of Cotyaeum, resulting in the Empire losing Cotyaeum and Sozopolis.
 
 

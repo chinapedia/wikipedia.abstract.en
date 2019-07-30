@@ -166,8 +166,6 @@ Communication is not a tool used only by humans, plants and animals, but it is a
 
 Models
 
-Shannon and Weaver Model of Communication Communication major dimensions scheme Interactional Model of Communication Berlo's Sender-Message-Channel-Receiver Model of Communication Transactional model of communication Communication code scheme Linear Communication Model
-
 The first major model for communication was introduced by Claude Shannon and Warren Weaver for Bell Laboratories in 1949[40] The original model was designed to mirror the functioning of radio and telephone technologies. Their initial model consisted of three primary parts: sender, channel, and receiver. The sender was the part of a telephone a person spoke into, the channel was the telephone itself, and the receiver was the part of the phone where one could hear the other person. Shannon and Weaver also recognized that often there is static that interferes with one listening to a telephone conversation, which they deemed noise.
 
 In a simple model, often referred to as the transmission model or standard view of communication, information or content (e.g. a message in natural language) is sent in some form (as spoken language) from an emitter (_emisor_ in the picture)/ sender/ encoder to a destination/ receiver/ decoder. This common conception of communication simply views communication as a means of sending and receiving information. The strengths of this model are simplicity, generality, and quantifiability. Claude Shannon and Warren Weaver structured this model based on the following elements:

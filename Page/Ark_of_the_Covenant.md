@@ -1,11 +1,11 @@
-Tissot_Moses_and_Joshua_in_the_Tabernacle.jpg, c. 1900]] The ARK OF THE COVENANT (), also known as the ARK OF THE TESTIMONY, and in a few verses across various translations as the ARK OF GOD,[1][2] is a gold-covered wooden chest with lid cover described in the Book of Exodus as containing the two stone tablets of the Ten Commandments. According to various texts within the Hebrew Bible, it also contained Aaron's rod and a pot of manna.[3] Hebrews 9:4 describes: "The ark of the covenant [was] covered on all sides with gold, in which was a golden jar holding the manna, and Aaron's rod which budded, and the tablets of the covenant."[4]
+, c. 1900]] The ARK OF THE COVENANT (), also known as the ARK OF THE TESTIMONY, and in a few verses across various translations as the ARK OF GOD,[1][2] is a gold-covered wooden chest with lid cover described in the Book of Exodus as containing the two stone tablets of the Ten Commandments. According to various texts within the Hebrew Bible, it also contained Aaron's rod and a pot of manna.[3] Hebrews 9:4 describes: "The ark of the covenant [was] covered on all sides with gold, in which was a golden jar holding the manna, and Aaron's rod which budded, and the tablets of the covenant."[4]
 
 The biblical account relates that, approximately one year after the Israelites' exodus from Egypt, the Ark was created according to the pattern given to Moses by God when the Israelites were encamped at the foot of biblical Mount Sinai. Thereafter, the gold-plated acacia chest was carried by its staves while en route by the Levites approximately 2,000 cubits (approximately ) in advance of the people when on the march or before the Israelite army, the host of fighting men.[5] When carried, the Ark was always hidden under a large veil made of skins and blue cloth, always carefully concealed, even from the eyes of the priests and the Levites who carried it. God was said to have spoken with Moses "from between the two cherubim" on the Ark's cover.[6] When at rest the tabernacle was set up and the holy Ark was placed in it under the veil of the covering, the staves of it crossing the middle side bars to hold it up off the ground.
 
 
 Biblical account
 
-Schrana01.jpg, in an eighteenth-century artist's depiction.]]
+, in an eighteenth-century artist's depiction.]]
 
 Construction and description
 
@@ -15,7 +15,7 @@ The Book of Exodus gives detailed instructions on how the Ark is to be construct
 
 Mobile vanguard
 
-Benjamin_West_-_Joshua_passing_the_River_Jordan_with_the_Ark_of_the_Covenant_-_Google_Art_Project.jpg, 1800]]
+, 1800]]
 
 The biblical account continues that, after its creation by Moses, the Ark was carried by the Israelites during their 40 years of wandering in the desert. Whenever the Israelites camped, the Ark was placed in a separate room in a sacred tent, called the Tabernacle.
 
@@ -25,7 +25,7 @@ In the Battle of Jericho, the Ark was carried round the city once a day for six 
 
 Capture by the Philistines
 
-Figures_The_erection_of_the_Tabernacle_and_the_Sacred_vessels.jpg A few years later the elders of Israel decided to take the Ark out onto the battlefield to assist them against the Philistines, after being defeated at the battle of Eben-Ezer.[26] They were, however, heavily defeated with the loss of 30,000 men. The Ark was captured by the Philistines and Hophni and Phinehas were killed. The news of its capture was at once taken to Shiloh by a messenger "with his clothes rent, and with earth upon his head." The old priest, Eli, fell dead when he heard it; and his daughter-in-law, bearing a son at the time the news of the capture of the Ark was received, named him Ichabod—explained as "The glory has departed Israel" in reference to the loss of the Ark.[27] The mother of the child Ichabod died at his birth.[28]
+A few years later the elders of Israel decided to take the Ark out onto the battlefield to assist them against the Philistines, after being defeated at the battle of Eben-Ezer.[26] They were, however, heavily defeated with the loss of 30,000 men. The Ark was captured by the Philistines and Hophni and Phinehas were killed. The news of its capture was at once taken to Shiloh by a messenger "with his clothes rent, and with earth upon his head." The old priest, Eli, fell dead when he heard it; and his daughter-in-law, bearing a son at the time the news of the capture of the Ark was received, named him Ichabod—explained as "The glory has departed Israel" in reference to the loss of the Ark.[27] The mother of the child Ichabod died at his birth.[28]
 
 The Philistines took the Ark to several places in their country, and at each place misfortune befell them.[29] At Ashdod it was placed in the temple of Dagon. The next morning Dagon was found prostrate, bowed down, before it; and on being restored to his place, he was on the following morning again found prostrate and broken. The people of Ashdod were smitten with tumors; a plague of mice was sent over the land.[30] The affliction of boils was also visited upon the people of Gath and of Ekron, whither the Ark was successively removed.[31]
 
@@ -33,7 +33,7 @@ After the Ark had been among them for seven months, the Philistines, on the advi
 
 In the days of King David
 
-Morgan-bible-fl-39.jpg of David bringing the Ark into Jerusalem (2 Samuel 6).]] At the beginning of his reign over the United Monarchy, King David removed the Ark from Kirjath-jearim amid great rejoicing. On the way to Zion, Uzzah, one of the drivers of the cart that carried the Ark, put out his hand to steady the Ark, and was struck dead by God for touching it. The place was subsequently named "Perez-Uzzah", literally "Outburst Against Uzzah",[36] as a result. David, in fear, carried the Ark aside into the house of Obed-edom the Gittite, instead of carrying it on to Zion, and there it stayed three months.[37][38]
+of David bringing the Ark into Jerusalem (2 Samuel 6).]] At the beginning of his reign over the United Monarchy, King David removed the Ark from Kirjath-jearim amid great rejoicing. On the way to Zion, Uzzah, one of the drivers of the cart that carried the Ark, put out his hand to steady the Ark, and was struck dead by God for touching it. The place was subsequently named "Perez-Uzzah", literally "Outburst Against Uzzah",[36] as a result. David, in fear, carried the Ark aside into the house of Obed-edom the Gittite, instead of carrying it on to Zion, and there it stayed three months.[37][38]
 
 On hearing that God had blessed Obed-edom because of the presence of the Ark in his house, David had the Ark brought to Zion by the Levites, while he himself, "girded with a linen ephod ... danced before the Lord with all his might" and in the sight of all the public gathered in Jerusalem—a performance that caused him to be scornfully rebuked by his first wife, Saul's daughter Michal.[39][40][41] In Zion, David put the Ark in the tabernacle he had prepared for it, offered sacrifices, distributed food, and blessed the people and his own household.[42][43][44]
 
@@ -41,7 +41,7 @@ The Levites were appointed to minister before the Ark.[45] David's plan of build
 
 In Solomon's Temple
 
-Folio_29r_-_The_Ark_of_God_Carried_into_the_Temple.jpg'']] When Abiathar was dismissed from the priesthood by King Solomon for having taken part in Adonijah's conspiracy against David, his life was spared because he had formerly borne the Ark.[52] Solomon worshipped before the Ark after his dream in which God promised him wisdom.[53]
+'']] When Abiathar was dismissed from the priesthood by King Solomon for having taken part in Adonijah's conspiracy against David, his life was spared because he had formerly borne the Ark.[52] Solomon worshipped before the Ark after his dream in which God promised him wisdom.[53]
 
 During the construction of Solomon's Temple, a special inner room, named _Kodesh Hakodashim_ (Eng. Holy of Holies), was prepared to receive and house the Ark;[54] and when the Temple was dedicated, the Ark—containing the original tablets of the Ten Commandments—was placed therein.[55] When the priests emerged from the holy place after placing the Ark there, the Temple was filled with a cloud, "for the glory of the Lord had filled the house of the Lord".[56][57][58]
 
@@ -65,7 +65,7 @@ References in Scripture
 
 Tanakh
 
-Royal_Arch_Room_Ark_replica_2.jpg The Ark is first mentioned in the Book of Exodus, and then numerous times in Deuteronomy, Joshua, Judges, I Samuel, II Samuel, I Kings, I Chronicles, II Chronicles, Psalms and Jeremiah.
+The Ark is first mentioned in the Book of Exodus, and then numerous times in Deuteronomy, Joshua, Judges, I Samuel, II Samuel, I Kings, I Chronicles, II Chronicles, Psalms and Jeremiah.
 
 In the Book of Jeremiah, it is referenced by Jeremiah, who, speaking in the days of Josiah,[72] prophesied a future time, possibly the end of days, when the Ark will no longer be talked about or be made again:
 
@@ -79,7 +79,7 @@ The "mountain from the top of which Moses saw God's promised land" would be Moun
 
 New Testament
 
-Cathédrale_d'Auch_20.jpg]]
+]]
 
 In the New Testament, the Ark is mentioned in the Letter to the Hebrews and the Revelation to St. John. states that the Ark contained "the golden pot that had manna, and Aaron's rod that budded, and the tablets of the covenant." says the prophet saw God's temple in heaven opened, "and the ark of his covenant was seen within his temple."
 
@@ -110,7 +110,7 @@ Mount Nebo
 
 Ethiopia
 
-Ark_of_the_Covenant_church_in_Axum_Ethiopia.jpg in Axum allegedly houses the original Ark of the Covenant.]] The Ethiopian Orthodox Tewahedo Church claims to possess the Ark of the Covenant, or _Tabot_, in Axum. The object is currently kept under guard in a treasury near the Church of Our Lady Mary of Zion. Replicas of the Axum _tabot_ are kept in every Ethiopian Orthodox Tewahedo church, each with its own dedication to a particular saint; the most popular of these include Mary, George and Michael.[86]
+in Axum allegedly houses the original Ark of the Covenant.]] The Ethiopian Orthodox Tewahedo Church claims to possess the Ark of the Covenant, or _Tabot_, in Axum. The object is currently kept under guard in a treasury near the Church of Our Lady Mary of Zion. Replicas of the Axum _tabot_ are kept in every Ethiopian Orthodox Tewahedo church, each with its own dedication to a particular saint; the most popular of these include Mary, George and Michael.[86]
 
 The _Kebra Nagast_ was composed to legitimise the Solomonic dynasty, which ruled the Ethiopian Empire following its establishment in 1270. It narrates how the real Ark of the Covenant was brought to Ethiopia by Menelik I with divine assistance, while a forgery was left in the Temple in Jerusalem. Although the _Kebra Nagast_ is the best-known account of this belief, it predates the document. Abu al-Makarim, writing in the last quarter of the twelfth century, makes one early reference to this belief that they possessed the Ark. "The Abyssinians possess also the Ark of the Covenant", he wrote, and, after a description of the object, describes how the liturgy is celebrated upon the Ark four times a year, "on the feast of the great nativity, on the feast of the glorious Baptism, on the feast of the holy Resurrection, and on the feast of the illuminating Cross."[87]
 
@@ -154,7 +154,7 @@ Egypt
 
 Tutankhamun's tomb
 
-Arkofthecovenantatkingtutstomb.jpg (1879-1940)]] In 1922 in the Valley of the Kings in Egypt, the royal tomb of the Pharaoh Tutankhamun (KV62) was opened by Howard Carter and Lord Carnarvon. Among the artifacts was a processional ark, listed as Shrine 261, the Anubis Shrine. Almost immediately after publication of the photographs[105] of this sensational archaeological find, some claimed that the Anubis Shrine could be the Ark of the Covenant. John M. Lundquist, author of _The Temple of Jerusalem: Past, Present, and Future_ (2008), discounts this idea. The Anubis Shrine measures long, wide, and high in the shape of a pylon. The Biblical Ark of the Covenant is approximately long, wide, and high in the shape of a rectangular chest.
+(1879-1940)]] In 1922 in the Valley of the Kings in Egypt, the royal tomb of the Pharaoh Tutankhamun (KV62) was opened by Howard Carter and Lord Carnarvon. Among the artifacts was a processional ark, listed as Shrine 261, the Anubis Shrine. Almost immediately after publication of the photographs[105] of this sensational archaeological find, some claimed that the Anubis Shrine could be the Ark of the Covenant. John M. Lundquist, author of _The Temple of Jerusalem: Past, Present, and Future_ (2008), discounts this idea. The Anubis Shrine measures long, wide, and high in the shape of a pylon. The Biblical Ark of the Covenant is approximately long, wide, and high in the shape of a rectangular chest.
 
 Lundquist observes that the Anubis Shrine is not strictly analogous to the Ark of the Covenant; it can only be said that it is "ark-like", constructed of wood, gessoed and gilded, stored within a sacred tomb, "guarding" the treasury of the tomb (and not the primary focus of that environment), that it contains compartments within it that store and hold sacred objects, that it has a figure of Anubis on its lid, and that it was carried by two staves permanently inserted into rings at its base and borne by eight priests in the funerary procession to Tutankhamun's tomb. Its value is the insight it provides to the ancient culture of Egypt.[106]
 

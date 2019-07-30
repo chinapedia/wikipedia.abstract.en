@@ -35,17 +35,11 @@ Used in tandem with the Graeco-Armenian hypothesis, the Armenian language would 
 
 Evolution
 
-Manuscript_arm_5-6AD.jpg
-
 Classical Armenian (Arm: _grabar_), attested from the 5th century to the 19th century as the literary standard (up to the 11th century also as a spoken language with different varieties), was partially superseded by Middle Armenian, attested from the 12th century to the 18th century. Specialized literature prefers "Old Armenian" for _grabar_ as a whole, and designates as "Classical" the language used in the 5th century literature, "Post-Classical" from the late 5th to 8th centuries, and "Late Grabar" that of the period covering the 8th to 11th centuries. Later, it was used mainly in religious and specialized literature, with the exception of a revival during the early modern period, when attempts were made to establish it as the language of a literary renaissance, with neoclassical inclinations, through the creation and dissemination of literature in varied genres, especially by the Mekhitarists. The first Armenian periodical, _Azdarar_, was published in _grabar_ in 1794.
 
 The classical form borrowed numerous words from Middle Iranian languages, primarily Parthian,[32] and contains smaller inventories of loanwords from Greek,[33] Syriac,[34] Arabic,[35] Mongol,[36] Persian,[37] and indigenous languages such as Urartian. An effort to modernize the language in Bagratid Armenia and the Armenian Kingdom of Cilicia (11–14th centuries) resulted in the addition of two more characters to the alphabet ("" and ""), bringing the total number to 38.[38]
 
 The _Book of Lamentations_ by Gregory of Narek (951–1003) is an example of the development of a literature and writing style of Old Armenian by the 10th century. In addition to elevating the literary style and vocabulary of the Armenian language by adding well above a thousand new words,[39] through his other hymns and poems Gregory paved the way for his successors to include secular themes and vernacular language in their writings. The thematic shift from mainly religious texts to writings with secular outlooks further enhanced and enriched the vocabulary. “A Word of Wisdom”, a poem by Hovhannes Sargavak devoted to a starling, legitimizes poetry devoted to nature, love, or female beauty. Gradually, the interests of the population at large were reflected in other literary works as well. Konsdantin Yerzinkatsi and several others even take the unusual step of criticizing the ecclesiastic establishment and addressing the social issues of the Armenian homeland. However, these changes represented the nature of the literary style and syntax, but they did not constitute immense changes to the fundamentals of the grammar or the morphology of the language. Often, when writers codify a spoken dialect, other language users are then encouraged to imitate that structure through the literary device known as parallelism.[40]
-
-The_Four_Gospels,_1495,_Portrait_of_St_Mark_Wellcome_L0031107.jpg
-
-The_first_Bible_printed_in_the_Armenian_language.jpg
 
 In the 19th century, the traditional Armenian homeland was once again divided. This time Eastern Armenia was conquered from Qajar Iran by the Russian Empire, while Western Armenia, containing two thirds of historical Armenia, remained under Ottoman control. The antagonistic relationship between the Russian and Ottoman empires led to creation of two separate and different environments under which Armenians lived. Halfway through the 19th century, two important concentrations of Armenian communities were further consolidated.[41] Because of persecutions or the search for better economic opportunities, many Armenians living under Ottoman rule gradually moved to Istanbul, whereas Tbilisi became the center of Armenians living under Russian rule. These two cosmopolitan cities very soon became the primary poles of Armenian intellectual and cultural life.[42]
 
@@ -60,12 +54,12 @@ After World War I, the existence of the two modern versions of the same language
 
 Modern changes
 
-Panneau_près_d'Ohanavan.JPG The two modern literary dialects, Western (originally associated with writers in the Ottoman Empire) and Eastern (originally associated with writers in the Russian Empire), removed almost all of their Turkish lexical influences in the 20th century, primarily following the Armenian Genocide.[44]
+The two modern literary dialects, Western (originally associated with writers in the Ottoman Empire) and Eastern (originally associated with writers in the Russian Empire), removed almost all of their Turkish lexical influences in the 20th century, primarily following the Armenian Genocide.[44]
 
 
 Phonology
 
-Hy-1-ին_տիպի_շաքարային_դիաբետ_(Diabetes_mellitus_type_1).ogg Proto-Indo-European voiceless stop consonants are aspirated in the Proto-Armenian language, one of the circumstances that is often linked to the glottalic theory, a version of which postulated that the voiceless occlusives of Proto-Indo-European were aspirated.[45]
+Proto-Indo-European voiceless stop consonants are aspirated in the Proto-Armenian language, one of the circumstances that is often linked to the glottalic theory, a version of which postulated that the voiceless occlusives of Proto-Indo-European were aspirated.[45]
 
 Stress
 
@@ -258,7 +252,7 @@ Verbs in Armenian have an expansive system of conjugation with two main verb typ
 
 Dialects
 
-Armenian_dialects,_Adjarian_1909.png: ]] Armenian is a pluricentric language, having two modern standardized forms: Eastern Armenian and Western Armenian. The most distinctive feature of Western Armenian is that it has undergone several phonetic mergers; these may be due to proximity to Arabic- and Turkish-speaking communities.
+: ]] Armenian is a pluricentric language, having two modern standardized forms: Eastern Armenian and Western Armenian. The most distinctive feature of Western Armenian is that it has undergone several phonetic mergers; these may be due to proximity to Arabic- and Turkish-speaking communities.
 
 For example, Eastern Armenian speakers pronounce () as [tʰ], () as [d], and () as a tenuis occlusive [t˭]. Western Armenian has simplified the occlusive system into a simple division between voiced occlusives and aspirated ones; the first series corresponds to the tenuis series of Eastern Armenian, and the second corresponds to the Eastern voiced and aspirated series. Thus, the Western dialect pronounces both () and () as [tʰ], and the () letter as [d].
 
@@ -304,7 +298,7 @@ Western Armenian dialects are currently spoken also in Gavar (formerly Nor Bayaz
 
 Orthography
 
-Keyboard_Layout_Armenian.png layout using the Armenian alphabet.]] The Armenian alphabet ( or ) is a graphically unique alphabetical writing system that is used to write the Armenian language. It was introduced around AD 405 by Mesrop Mashtots, an Armenian linguist and ecclesiastical leader, and originally contained 36 letters. Two more letters, օ (o) and ֆ (f), were added in the Middle Ages. During the 1920s orthography reform in Soviet Armenia, a new letter և (capital ԵՎ) was added, which was a ligature before ե+ւ, whereas the letter Ւ ւ was discarded and reintroduced as part of a new letter ՈՒ ու (which was a digraph before). This alphabet and associated orthography is used by most Armenian speakers of the Republic of Armenia and the countries of the former Soviet Union. Neither the alphabet nor the orthography has been adopted by Diaspora Armenians, including Eastern Armenian speakers of Iran and all Western Armenian speakers, who keep using the traditional alphabet and spelling.
+layout using the Armenian alphabet.]] The Armenian alphabet ( or ) is a graphically unique alphabetical writing system that is used to write the Armenian language. It was introduced around AD 405 by Mesrop Mashtots, an Armenian linguist and ecclesiastical leader, and originally contained 36 letters. Two more letters, օ (o) and ֆ (f), were added in the Middle Ages. During the 1920s orthography reform in Soviet Armenia, a new letter և (capital ԵՎ) was added, which was a ligature before ե+ւ, whereas the letter Ւ ւ was discarded and reintroduced as part of a new letter ՈՒ ու (which was a digraph before). This alphabet and associated orthography is used by most Armenian speakers of the Republic of Armenia and the countries of the former Soviet Union. Neither the alphabet nor the orthography has been adopted by Diaspora Armenians, including Eastern Armenian speakers of Iran and all Western Armenian speakers, who keep using the traditional alphabet and spelling.
 
 
 Indo-European cognates

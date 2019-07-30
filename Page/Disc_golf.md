@@ -40,7 +40,7 @@ Established courses have tee signs near each tee position, showing a simple map 
 
 Targets
 
-Tone_Hole.jpg.]] Although early courses were played using trees, fence posts, or park equipment as the target, modern courses typically use tone targets or standard disc golf baskets. Tone targets are designed to make a distinctive sound when hit with a disc. Baskets are now much more common, which are constructed with a central pole holding a basket under an assembly of hanging chains. A disc which hits the chains is often, but not always, deflected into the basket. Discs must land inside the basket or on the chains to count the hole as completed. There are many different brands of baskets made by numerous manufacturers.
+.]] Although early courses were played using trees, fence posts, or park equipment as the target, modern courses typically use tone targets or standard disc golf baskets. Tone targets are designed to make a distinctive sound when hit with a disc. Baskets are now much more common, which are constructed with a central pole holding a basket under an assembly of hanging chains. A disc which hits the chains is often, but not always, deflected into the basket. Discs must land inside the basket or on the chains to count the hole as completed. There are many different brands of baskets made by numerous manufacturers.
 
 
 Play of the game
@@ -53,7 +53,7 @@ Many courses include out-of-bounds areas, commonly called "OB zones" or just "OB
 
 By tradition, players throw from the tee box in the order of their score on the previous hole, with the lowest scorer throwing first. Most players also follow a loose code of courtesy while playing, which includes norms such as standing out of the sight line of the throwing player and avoiding making distracting noises. Because a thrown disc could injure someone, the Professional Disc Golf Association recommends that players "Never throw into a blind area or when spectators, pedestrians or facility users are within range."[32]
 
-Formal competitive play is governed by the PDGA Official Rules of Disc Golf and the PDGA Competition Manual for Disc Golf events.Disc_golf_in_basket.JPG
+Formal competitive play is governed by the PDGA Official Rules of Disc Golf and the PDGA Competition Manual for Disc Golf events.
 
 
 Disc types
@@ -136,7 +136,7 @@ Doubles play is a unique style of play that many local courses offer on a weekly
 
 Tournaments
 
-KenClimo_USDGC2008.JPG teeing off at hole 5 of the 2008 USDGC]]
+teeing off at hole 5 of the 2008 USDGC]]
 
 Tournaments are held nationwide and year long in the United States. Sanctioned Tournament play is communicated through the Professional Disc Golf Association Membership. The PDGA provides international, professional, and amateur disc golf tournaments as well as communicates event results, opinions and other information beneficial to the sport via electronic and printed media. In 1982 the PDGA hosted the first World Championship Tournament. Since then, the World Championships have been held in 17 different American states, as well as Toronto, Ontario.[39]
 
@@ -149,7 +149,7 @@ To prove the year-round sustainability of the sport, annual winter tournaments k
 
 Popularity
 
-Carter_park_disk_golf.jpg Disc golf is a rapidly growing sport worldwide,[41] and is the 4th fastest growing sport in United States, behind mixed martial arts, roller derby, and parkour.[42] DGCourseReview.com, which tracks courses worldwide along with opening dates, shows a rapid increase in installed permanent courses with an average of more than 400 new courses added each year between 2007 and 2017. The site lists 6800 courses worldwide (in May 2017).[43]
+Disc golf is a rapidly growing sport worldwide,[41] and is the 4th fastest growing sport in United States, behind mixed martial arts, roller derby, and parkour.[42] DGCourseReview.com, which tracks courses worldwide along with opening dates, shows a rapid increase in installed permanent courses with an average of more than 400 new courses added each year between 2007 and 2017. The site lists 6800 courses worldwide (in May 2017).[43]
 
 Although most players play on a casual, amateur level, the professional disc golf scene is also growing rapidly, with the top professionals playing full-time and earning their livings through tournament winnings and sponsorship from equipment manufacturers. Online viewership of major tournaments and events has increased rapidly, with coverage of several tournaments in 2016 achieving more than 75,000 views on YouTube.[44][45] and a clip focused on a single throw by professional Philo Braithwaite achieving more than 1.2 million views.
 

@@ -16,7 +16,7 @@ During the 17th and 18th centuries coin collecting remained a pursuit of the wel
 
 Motivations
 
-Two_20kr_gold_coins.png coins from the Scandinavian
+coins from the Scandinavian
 
 Monetary Union.]]
 
@@ -50,7 +50,7 @@ Coin collecting can become a _competitive_ activity, as prompted by the recent e
 
 Common themes
 
-Lk-colonialcoins.jpg]] Eagle_coins.jpg Alexander_the_great_temnos_tetradrachm.jpg A few common themes are often combined into a collection goal:
+]] A few common themes are often combined into a collection goal:
 
 -   _Country collections_: Many enthusiasts focus their collection on only a single country—often their own. In contrast, some collectors attempt to obtain a sample from every country that has issued a coin.[23]
 -   _Year collections_: Rather than being satisfied with a single specimen of a type, a great many collectors collect type by year; for example, one Memorial Lincoln Cent for every year from 1959 (the year it was first minted) to 2008 (the last year it was minted). This is perhaps one of the most practical ways to collect a national currency since probably the majority of coin reference books and coin albums catalogue in the same manner.[24]
@@ -63,7 +63,7 @@ Lk-colonialcoins.jpg]] Eagle_coins.jpg Alexander_the_great_temnos_tetradrachm.jp
 -   _Printed value collections_: A currency collection might be modeled around the theme of a specific printed value, for example, the number 1. This collection might include specimens of the US 1 dollar coin, the Canadian Loonie, the Euro, 1 Indian rupee and 1 Singapore dollar.
 -   _Volume collections (Hoards)_: Collectors may have an interest in acquiring large volumes of a particular coins (e.g., as many pennies as they can store). These usually are not high-value coins, but the interest is in collecting a large volume of them either for the sake of the challenge, as a store of value, or in the hope that the intrinsic metal value will increase.[31]
 
-Italia_20_lire_argento_Mussolini.JPG coin, dated 1927. With the head of Benito Mussolini on the obverse, this is an obvious fake. Italian coins during the fascist period bore the portrait of King Victor Emmanuel III.[32][33]]]
+coin, dated 1927. With the head of Benito Mussolini on the obverse, this is an obvious fake. Italian coins during the fascist period bore the portrait of King Victor Emmanuel III.[32][33]]]
 
 -   _Copy collections_: Some collectors enjoy acquiring copies of coins, sometimes to complement the authentic coins in their collections. Copies might be:[34][35][36][37]
     -   contemporaneous ancient copies minted as official coins by other cities or rulers
@@ -91,7 +91,7 @@ In coin collecting, the condition of a coin (its grade) is paramount to its valu
 
 In the early days of coin collecting—before the development of a large international coin market—extremely precise grades were not needed. Coins were described using only three adjectives: "good," "fine" or "uncirculated". By the mid 20th century, with the growing market for rare coins, the American Numismatic Association helps identify most coins in North America. It uses a 1–70 numbering scale, where 70 represents a perfect specimen and 1 represents a barely identifiable coin. Descriptions and numeric grades for coins (from highest to lowest) is as follows:[40][41][42]
 
-Deutsche_Mark_Anaglyph_1.jpg coin shows blemishes and rim dents that would detract from its grade in appraisal. ]]
+coin shows blemishes and rim dents that would detract from its grade in appraisal. ]]
 
 -   Mint State (MS) 60–70: Uncirculated (UNC)
 -   About/Almost Uncirculated (AU) 50, 53, 55, 58

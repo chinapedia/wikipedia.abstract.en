@@ -1,4 +1,4 @@
-Pisanello_-_Codex_Vallardi_2481.jpg]]
+]]
 
 ALFONSO THE MAGNANIMOUS (also ALPHONSO; ; 1396 – 27 June 1458) was the King of Aragon (as ALFONSO V), Valencia (as ALFONSO III), Majorca, Sardinia and Corsica (as ALFONSO II), Sicily (as ALFONSO I) and Count of Barcelona (as ALFONSO IV) from 1416, and King of Naples (as ALFONSO I) from 1442 until his death. He was one of the most prominent figures of the early Renaissance and a knight of the Order of the Dragon.
 
@@ -7,13 +7,11 @@ Biography
 
 Born at Medina del Campo, he was the son of Ferdinand I of Aragon and Eleanor of Alburquerque. He represented the old line of the counts of Barcelona through the female line, and was on his father's side descended from the House of Trastamara, the reigning House of Castile. By hereditary right he was king of Sicily and claimed the island of Sardinia for himself, though it was then in the possession of Genoa. Alfonso was also in possession of much of Corsica by the 1420s.
 
-Escudo_armas_Alfonso_V_de_Aragón_en_Satyrarum_hecatostichon_cropped.jpg (1449).]] In 1421 the childless Queen Joanna II of Naples adopted and named him as heir to the Kingdom of Naples, and Alfonso went to Naples. Here he hired the condottiero Braccio da Montone with the task of reducing the resistance of his rival claimant, Louis III of Anjou, and his forces led by Muzio Attendolo Sforza. With Pope Martin V supporting Sforza, Alfonso switched his religious allegiance to the Aragonese antipope Benedict XIII. When Sforza abandoned Louis' cause, Alfonso seemed to have all his problems solved; however, his relationship with Joanna suddenly worsened, and in May 1423 he had her lover, Gianni Caracciolo, a powerful figure in the Neapolitan court, arrested.
+(1449).]] In 1421 the childless Queen Joanna II of Naples adopted and named him as heir to the Kingdom of Naples, and Alfonso went to Naples. Here he hired the condottiero Braccio da Montone with the task of reducing the resistance of his rival claimant, Louis III of Anjou, and his forces led by Muzio Attendolo Sforza. With Pope Martin V supporting Sforza, Alfonso switched his religious allegiance to the Aragonese antipope Benedict XIII. When Sforza abandoned Louis' cause, Alfonso seemed to have all his problems solved; however, his relationship with Joanna suddenly worsened, and in May 1423 he had her lover, Gianni Caracciolo, a powerful figure in the Neapolitan court, arrested.
 
 After an attempt to arrest the queen herself had failed, Joan called on Sforza who defeated the Aragonese militias near Castel Capuano in Naples. Alfonso fled to Castel Nuovo, but the help of a fleet of 22 galleys led by Giovanni da Cardona improved his situation. Sforza and Joanna ransomed Caracciolo and retreated to the fortress of Aversa. Here she repudiated her earlier adoption of Alfonso and, with the backing of Martin V, named Louis III as her heir instead.
 
 The Duke of Milan, Filippo Maria Visconti, joined the anti-Aragonese coalition. Alfonso requested support from Braccio da Montone, who was besieging Joanna's troops in L'Aquila, but had to set sail for Spain, where a war had broken out between his brothers and the Kingdom of Castile. On his way towards Barcelona, Alfonso destroyed Marseille, a possession of Louis III.
-
-King-alfonsoVaragon2.jpg
 
 In late 1423 the Genoese fleet of Filippo Maria Visconti moved in the southern Tyrrhenian Sea, rapidly conquering Gaeta, Procida, Castellammare and Sorrento. Naples, which was held by Alfonso's brother, Pedro de Aragon, was besieged in 1424 by the Genoese ships and Joanna's troops, now led by Francesco Sforza, the son of Muzio Sforza (who had met his death at L'Aquila). The city fell in April 1424. Pedro, after a short resistance in Castel Nuovo, fled to Sicily in August. Joanna II and Louis III again took possession of the realm, although the true power was in the hands of Gianni Caracciolo.
 
@@ -47,7 +45,7 @@ Giraldona was the daughter of Enrique Carlino and his wife, Isabel.
 
 Art and administration
 
-Like many Renaissance rulers, Alfonso V was a patron of the arts. He founded the Academy of Naples under Giovanni Pontano, and for his entrance into the city in 1443 had a magnificent triumphal arch added to the main gate of Castel Nuovo. NapoliMaschioAngioinoIngresso.jpg
+Like many Renaissance rulers, Alfonso V was a patron of the arts. He founded the Academy of Naples under Giovanni Pontano, and for his entrance into the city in 1443 had a magnificent triumphal arch added to the main gate of Castel Nuovo.
 
 Alfonso was particularly attracted to classical literature. He reportedly brought copies of the works of Livy and Julius Caesar on his campaigns; the poet Antonio Beccadelli even claimed that Alfonso was cured of a disease by the reading of a few pages from Quintus Curtius Rufus' history of Alexander the Great. Although this reputed erudition attracted scholars to his court, Alfonso apparently enjoyed pitting them against each other in spectacles of bawdy Latin rhetoric.[2]
 

@@ -5,7 +5,7 @@ When the 1934 Surname Law was adopted, Mustafa Kemal gave him a surname taken fr
 
 Family and early life
 
-Inonu_ailesi.jpg, and their three children, Ömer, Özden (later Toker), and Erdal]]
+, and their three children, Ömer, Özden (later Toker), and Erdal]]
 
 İsmet İnönü was born in İzmir, Aidin Vilayet to Hacı Reşit () and Cevriye () (later Cevriye Temelli), and was of Turkicized Kurdish descent on his father's side and of Turkish descent through his mother.[3][4][5][6][7] Hacı Reşit was retired from the First Examinant Department of Legal Affairs Bureau of the War Ministry (_Harbiye Nezareti Muhakemat Dairesi Birinci Mümeyyizliği_),[8] who was born in Malatya and a member of Kümüroğulları family of Bitlis. Cevriye was a daughter of _Müderris_ (professor) Hasan Efendi who belonged to the ulema[9] and was a member of a Turkish family of Razgrad.[10] Due to his father's assignments, the family moved from one city to another. Thus, Ismet completed his primary education in Sivas and graduated Sivas Military Junior High School (_Sivas Askerî Rüştiyesi_) in 1894. And then he studied at Sivas School for Civil Servants (_Sivas Mülkiye İdadisi_) for a year.
 
@@ -19,7 +19,7 @@ During the war, on 13 April 1916, Ismet married Mevhibe, who was a daughter of a
 
 Turkish War of Independence
 
-Lausanne_2.jpg (on the left wearing the top hat)]]
+(on the left wearing the top hat)]]
 
 After losing the Battle of Megiddo against General Edmund Allenby during the last days of World War I, he went to Constantinople (Istanbul) and was assigned Undersecretary of the Ministry of War and then General Secretary of the Documentation in the Military Council.
 
@@ -40,8 +40,6 @@ Single-party period
 
 Prime Minister
 
-PM_Ismet_Inonu.jpg
-
 İnönü later served as the Prime Minister of Turkey for several terms, maintaining the system that Mustafa Kemal had put in place. He acted after every major crisis (such as the rebellion of Sheikh Said or the attempted assassination in Izmir against Mustafa Kemal) to restore peace in the country.
 
 Statism in economy
@@ -55,7 +53,7 @@ Desiring a more liberal economic system, Atatürk dissolved the government of İ
 
 President
 
-Roosevelt_Inönü_and_Churchill_in_Cairo_cph.3b15312.jpg, İnönü and Churchill at the Second Cairo Conference on 4–6 December 1943.]] İsmet_İnönü_1964_(cropped).jpg Inonu_Bayar_Factory.jpg and İnönü visiting the Bakırköy Cloth Factory.]]
+, İnönü and Churchill at the Second Cairo Conference on 4–6 December 1943.]] and İnönü visiting the Bakırköy Cloth Factory.]]
 
 After the death of Atatürk on 10 November 1938,[14] İnönü was viewed as the most appropriate candidate to succeed him, and was elected the second President of the Republic of Turkey. He enjoyed the official title of "Millî Şef", i.e. "National Chief".
 
@@ -72,7 +70,7 @@ The post-war tensions and arguments surrounding the Turkish Straits would come t
 
 Multi-party period
 
-Turkey-1650_(2215849919).jpg]]
+]]
 
 Under international pressure to transform the country to a democratic state, İnönü presided over the infamous 1946 elections, where voting was carried out under the gaze of onlookers who could determine which voters had voted for which parties, and where secrecy prevailed as to the subsequent counting of votes. Free and fair national elections had to wait till 1950, and on that occasion İnönü's government was defeated.
 

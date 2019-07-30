@@ -5,7 +5,7 @@ Though primarily a comic figure, Falstaff still embodies a kind of depth common 
 
 Role in the plays
 
-MerryWives.jpg at the Golden Bough Playhouse in Carmel, CA, in 1999]]
+at the Golden Bough Playhouse in Carmel, CA, in 1999]]
 
 Falstaff appears in three of Shakespeare's plays, _Henry IV, Part 1_, _Henry IV, Part 2_, and _The Merry Wives of Windsor_. His death is mentioned in _Henry V_ but he has no lines, nor is it directed that he appear on stage. However, many stage and film adaptations have seen it necessary to include Falstaff for the insight he provides into King Henry V's character. The most notable examples in cinema are Laurence Olivier's 1944 version and Kenneth Branagh's 1989 film, both of which draw additional material from the _Henry IV_ plays.
 
@@ -13,7 +13,7 @@ The character is known to have been very popular with audiences at the time, and
 
 _Henry IV, Part 1_
 
-Falstaff_plays_the_king.jpg of Act II, Scene iv: Falstaff enacts the part of the king.]]
+of Act II, Scene iv: Falstaff enacts the part of the king.]]
 
 King Henry is troubled by the behaviour of his son and heir, the Prince of Wales. Hal (the future Henry V) has forsaken the Royal Court to waste his time in taverns with low companions. This makes him an object of scorn to the nobles and calls into question his royal worthiness. Hal's chief friend and foil in living the low life is Sir John Falstaff. Fat, old, drunk, and corrupt as he is, he has a charisma and a zest for life that captivates the Prince.
 
@@ -23,13 +23,13 @@ On the way to this climax, we are treated to Falstaff, who has "misused the King
 
 _Henry IV, Part 2_
 
-Edward_Grutzner_Goupil_Falstaff_at_the_Boars_Head_Tavern.jpg]] The play focuses on Prince Hal's journey toward kingship, and his ultimate rejection of Falstaff. However, unlike _Part One_, Hal's and Falstaff's stories are almost entirely separate, as the two characters meet only twice and very briefly. The tone of much of the play is elegiac, focusing on Falstaff's age and his closeness to death, which parallels that of the increasingly sick king.
+]] The play focuses on Prince Hal's journey toward kingship, and his ultimate rejection of Falstaff. However, unlike _Part One_, Hal's and Falstaff's stories are almost entirely separate, as the two characters meet only twice and very briefly. The tone of much of the play is elegiac, focusing on Falstaff's age and his closeness to death, which parallels that of the increasingly sick king.
 
 Falstaff is still drinking and engaging in petty criminality in the London underworld. He first appears, followed by a new character, a young page whom Prince Hal has assigned him as a joke. Falstaff enquires what the doctor has said about the analysis of his urine, and the page cryptically informs him that the urine is healthier than the patient. Falstaff delivers one of his most characteristic lines: "I am not only witty in myself, but the cause that wit is in other men." Falstaff promises to outfit the page in "vile apparel" (ragged clothing). He then complains of his insolvency, blaming it on "consumption of the purse." They go off, Falstaff vowing to find a wife "in the stews" (i.e., the local brothels).
 
 The Lord Chief Justice enters, looking for Falstaff. Falstaff at first feigns deafness in order to avoid conversing with him, and when this tactic fails pretends to mistake him for someone else. As the Chief Justice attempts to question Falstaff about a recent robbery, Falstaff insists on turning the subject of the conversation to the nature of the illness afflicting the King. He then adopts the pretense of being a much younger man than the Chief Justice: "You that are old consider not the capacities of us that are young." Finally, he asks the Chief Justice for one thousand pounds to help outfit a military expedition, but is denied.
 
-Falstaff_rebuked_(Smirke,_c._1795).jpg, c. 1795]]
+, c. 1795]]
 
 He has a relationship with Doll Tearsheet, a prostitute, who gets into a fight with Ancient Pistol, Falstaff's ensign. After Falstaff ejects Pistol, Doll asks him about the Prince. Falstaff is embarrassed when his derogatory remarks are overheard by Hal, who is present disguised as a musician. Falstaff tries to talk his way out of it, but Hal is unconvinced. When news of a second rebellion arrives, Falstaff joins the army again, and goes to the country to raise forces. There he encounters an old school friend, Justice Shallow, and they reminisce about their youthful follies. Shallow brings forward potential recruits for the loyalist army: Mouldy, Bullcalf, Feeble, Shadow and Wart, a motley collection of rustic yokels. Falstaff and his cronies accept bribes from two of them, Mouldy and Bullcalf, not to be conscripted.
 
@@ -40,8 +40,6 @@ _Henry V_
 Although Falstaff does not appear on stage in _Henry V_, his death is the main subject of Act 2, Scene 3, in which Mistress Quickly delivers a memorable eulogy:
 
 _The Merry Wives of Windsor_
-
-James_Stephanoff_-_Falstaff_at_Herne's_Oak,_from_"The_Merry_Wives_of_Windsor,"_Act_V,_Scene_v_-_Google_Art_Project.jpg
 
 Falstaff arrives in Windsor very short on money. To obtain financial advantage, he decides to court two wealthy married women, Mistress Ford and Mistress Page. Falstaff decides to send the women identical love letters and asks his servants – Pistol and Nym – to deliver them to the wives. When they refuse, Falstaff sacks them, and, in revenge, the men tell Ford and Page (the husbands) of Falstaff's intentions. Page is not concerned, but the jealous Ford persuades the Host of the Garter Inn to introduce him to Falstaff as a 'Master Brook' so that he can find out Falstaff's plans.
 
@@ -60,7 +58,7 @@ The wives meet Falstaff, and almost immediately the "fairies" attack. After the 
 
 Origins
 
-Grützner_Falstaff_mit_Kanne.jpg: _Falstaff mit großer Weinkanne und Becher_ (1896) (Falstaff with big wine jar and cup, 1896)]]
+: _Falstaff mit großer Weinkanne und Becher_ (1896) (Falstaff with big wine jar and cup, 1896)]]
 
 John Oldcastle
 
@@ -85,7 +83,7 @@ It has been suggested that the dissolute writer Robert Greene may also have been
 
 Cultural adaptations and appropriations
 
-Stratford_upon_Avon_-_panoramio_(28).jpg's Shakespeare-memorial in Stratford-upon-Avon]] There are several works about Falstaff, inspired by Shakespeare's plays:
+'s Shakespeare-memorial in Stratford-upon-Avon]] There are several works about Falstaff, inspired by Shakespeare's plays:
 
 Drama
 
@@ -93,7 +91,7 @@ Drama
 
 Music
 
-KembleFalstaff.jpg, "the best Sir John Falstaff which the British stage ever saw."]]
+, "the best Sir John Falstaff which the British stage ever saw."]]
 
 -   _Falstaff_ (1799), Antonio Salieri's opera, with a libretto by Carlo Prospero Defranceschi, which is based upon _The Merry Wives of Windsor_.
 -   _Falstaff_ (1838), an opera by Michael William Balfe to an Italian libretto by S. Manfredo Maggione that is based upon _The Merry Wives of Windsor_.

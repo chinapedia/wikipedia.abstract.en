@@ -1,11 +1,11 @@
-Two_percent_Agarose_Gel_in_Borate_Buffer_cast_in_a_Gel_Tray_(Front,_angled).jpg AGAROSE is a polysaccharide, generally extracted from certain red seaweed.[1] It is a linear polymer made up of the repeating unit of agarobiose, which is a disaccharide made up of D-galactose and 3,6-anhydro-L-galactopyranose.[2] Agarose is one of the two principal components of agar, and is purified from agar by removing agar's other component, agaropectin.[3]
+AGAROSE is a polysaccharide, generally extracted from certain red seaweed.[1] It is a linear polymer made up of the repeating unit of agarobiose, which is a disaccharide made up of D-galactose and 3,6-anhydro-L-galactopyranose.[2] Agarose is one of the two principal components of agar, and is purified from agar by removing agar's other component, agaropectin.[3]
 
 Agarose is frequently used in molecular biology for the separation of large molecules, especially DNA, by electrophoresis. Slabs of agarose gels (usually 0.7 - 2%) for electrophoresis are readily prepared by pouring the warm, liquid solution into a mold. A wide range of different agaroses of varying molecular weights and properties are commercially available for this purpose. Agarose may also be formed into beads and used in a number of chromatographic methods for protein purification.
 
 
 Structure
 
-Agarose_polymere.svg Agarose is a linear polymer with a molecular weight of about 120,000, consisting of alternating D-galactose and 3,6-anhydro-L-galactopyranose linked by α-(1→3) and β-(1→4) glycosidic bonds. The 3,6-anhydro-L-galactopyranose is an L-galactose with an anhydro bridge between the 3 and 6 positions, although some L-galactose units in the polymer may not contain the bridge. Some D-galactose and L-galactose units can be methylated, and pyruvate and sulfate are also found in small quantities.[4]
+Agarose is a linear polymer with a molecular weight of about 120,000, consisting of alternating D-galactose and 3,6-anhydro-L-galactopyranose linked by α-(1→3) and β-(1→4) glycosidic bonds. The 3,6-anhydro-L-galactopyranose is an L-galactose with an anhydro bridge between the 3 and 6 positions, although some L-galactose units in the polymer may not contain the bridge. Some D-galactose and L-galactose units can be methylated, and pyruvate and sulfate are also found in small quantities.[4]
 
 Each agarose chain contains ~800 molecules of galactose, and the agarose polymer chains form helical fibres that aggregate into supercoiled structure with a radius of 20-30 nm.[5] The fibers are quasi-rigid, and have a wide range of length depending on the agarose concentration.[6] When solidified, the fibres form a three-dimensional mesh of channels of diameter ranging from 50 nm to >200 nm depending on the concentration of agarose used - higher concentrations yield lower average pore diameters. The 3-D structure is held together with hydrogen bonds and can therefore be disrupted by heating back to a liquid state.
 
@@ -27,7 +27,7 @@ The melting and gelling temperatures of agarose can be modified by chemical modi
 
 Applications
 
-AgarosegelUV.jpg on a UV Transilluminator.]] Agarose is a preferred matrix for work with proteins and nucleic acids as it has a broad range of physical, chemical and thermal stability, and its lower degree of chemical complexity also makes it less likely to interact with biomolecules. Agarose is most commonly used as the medium for analytical scale electrophoretic separation in agarose gel electrophoresis. Gels made from purified agarose have a relatively large pore size, making them useful for separation of large molecules, such as proteins and protein complexes >200 kilodaltons, as well as DNA fragments >100 basepairs. Agarose is also used widely for a number of other applications, for example immunodiffusion and immunoelectrophoresis, as the agarose fibers functions as an anchor for immunocomplexes.
+on a UV Transilluminator.]] Agarose is a preferred matrix for work with proteins and nucleic acids as it has a broad range of physical, chemical and thermal stability, and its lower degree of chemical complexity also makes it less likely to interact with biomolecules. Agarose is most commonly used as the medium for analytical scale electrophoretic separation in agarose gel electrophoresis. Gels made from purified agarose have a relatively large pore size, making them useful for separation of large molecules, such as proteins and protein complexes >200 kilodaltons, as well as DNA fragments >100 basepairs. Agarose is also used widely for a number of other applications, for example immunodiffusion and immunoelectrophoresis, as the agarose fibers functions as an anchor for immunocomplexes.
 
 Agarose gel electrophoresis
 
@@ -37,7 +37,7 @@ The pore size of the gel affects the size of the DNA that can be sieved. The low
 
 Agarose gels are cast in a mold, and when set, usually run horizontally submerged in a buffer solution. Tris-acetate-EDTA and Tris-Borate-EDTA buffers are commonly used, but other buffers such as Tris-phosphate, barbituric acid-sodium barbiturate or Tris-barbiturate buffers may be used in other applications.[20] The DNA is normally visualized by staining with ethidium bromide and then viewed under a UV light, but other methods of staining are available, such as SYBR Green, GelRed, methylene blue, and crystal violet. If the separated DNA fragments are needed for further downstream experiment, they can be cut out from the gel in slices for further manipulation.
 
-Size_Exclusion_Chromatography_Apparatus.jpg machine.]]
+machine.]]
 
 Protein purification
 

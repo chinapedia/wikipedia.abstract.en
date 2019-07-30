@@ -135,8 +135,8 @@ Mortality rates fell in the period 1920–45, primarily due to biological immuni
 
 Salient features
 
-IndiaIBRdata.jpg trends in India
-(per 1000 people, national average)[61][62][63]]] IndiaIMRates.jpg rate trends in India
+trends in India
+(per 1000 people, national average)[61][62][63]]] rate trends in India
 (per 1000 births, under age 1, national average)]]
 
 India occupies 2.41% of the world's land area but supports over 18% of the world's population. At the 2001 census 72.2% of the population[64] lived in about 638,000 villages[65] and the remaining 27.8%[66] lived in more than 5,100 towns and over 380 urban agglomerations.[67]
@@ -234,7 +234,7 @@ Characteristics of religious groups[77]
 
 Neonatal and infant demographics
 
-India_Male_to_Female_Sex_Ratio_1941_1951_1961_1981_1991_2001_2011.png The table below represents the infant mortality rate trends in India, based on sex, over the last 15 years. In the urban areas of India, average male infant mortality rates are slightly higher than average female infant mortality rates.[85]
+The table below represents the infant mortality rate trends in India, based on sex, over the last 15 years. In the urban areas of India, average male infant mortality rates are slightly higher than average female infant mortality rates.[85]
 
   Year       Male   Female
   ---------- ------ --------
@@ -328,8 +328,6 @@ Population within the age group of 0–6
 
 Population above the age of 7
 
-2011-2016_Life_Expectancy_map_for_India_by_states.svg
-
 +----------------------------------------------------------------------------------+-----------------------------+------------------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------------+
 | scope="col" style="text-align: left;" data-sort-type="number" | State or UT code | State or UT                 | scope="col" style="text-align: right;" data-sort-type="number" | Total | scope="col" style="text-align: right;" data-sort-type="number" | Male | scope="col" style="text-align: right;" data-sort-type="number" | Female |
 +==================================================================================+=============================+========================================================================+=======================================================================+=========================================================================+
@@ -409,8 +407,6 @@ Population above the age of 7
 : Population above the age of 7 by state/union territory[94]
 
 Literacy rate
-
-2011_Census_India_literacy_distribution_map_by_states_and_union_territories.svg
 
   scope="col" style="text-align: left;" data-sort-type="number" | State or UT code   State or UT                   scope="col" style="text-align: right;" data-sort-type="number" | Overall (%)   scope="col" style="text-align: right;" data-sort-type="number" | Male (%)   scope="col" style="text-align: right;" data-sort-type="number" | Female (%)
   ---------------------------------------------------------------------------------- ----------------------------- ------------------------------------------------------------------------------ --------------------------------------------------------------------------- -----------------------------------------------------------------------------
@@ -565,8 +561,6 @@ UN estimates
 : United Nations, World Population Prospects: The 2015 revision – India[99]
 
 Census of India: sample registration system
-
-2012_Fertility_rate_map_of_India,_births_per_woman_by_its_states_and_union_territories.svg India_TFR_regions_2011.png
 
 +---------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+
 | Year                                                                                                          | scope="col" style="text-align: right; width: 70pt;" data-sort-type="number" | Average population | scope="col" style="text-align: right; width: 70pt;" data-sort-type="number" | Live births¹ | scope="col" style="text-align: right; width: 70pt;" data-sort-type="number" | Deaths¹ | scope="col" style="text-align: right; width: 70pt;" data-sort-type="number" | Natural change | scope="col" style="text-align: right; width: 70pt;" data-sort-type="number" | Crude birth rate | scope="col" style="text-align: right; width: 70pt;" data-sort-type="number" | Crude death rate | scope="col" style="text-align: right; width: 70pt;" data-sort-type="number" | Natural change | scope="col" style="text-align: right; width: 70pt;" data-sort-type="number" | Total fertility rate |
@@ -852,8 +846,6 @@ Regional vital statistics
 
 CIA World Factbook demographic statistics
 
-2011_Census_India_population_density_map,_states_and_union_territories.svg
-
 The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.
 
 Total population
@@ -986,7 +978,7 @@ Mitochondrial DNA mtDNA represents the female lineage. The Indian mitochondrial 
 
 Autosomal DNA
 
-Cropped_Tripuri.jpg children preparing for a dance performance. The Tripuris, are a Tibeto-Burman ethnic group.]] Numerous genomic studies have been conducted in the last 15 years to seek insights into India's demographic and cultural diversity. These studies paint a complex and conflicting picture.
+children preparing for a dance performance. The Tripuris, are a Tibeto-Burman ethnic group.]] Numerous genomic studies have been conducted in the last 15 years to seek insights into India's demographic and cultural diversity. These studies paint a complex and conflicting picture.
 
 -   In a 2003 study, Basu, Majumder _et al_. have concluded on the basis of results obtained from mtDNA, Y-chromosome and autosomal markers that "(1) there is an underlying unity of female lineages in India, indicating that the initial number of female settlers may have been small; (2) the tribal and the caste populations are highly differentiated; (3) the Austroasiatic tribals are the earliest settlers in India, providing support to one anthropological hypothesis while refuting some others; (4) a major wave of humans entered India through the northeast; (5) the Tibeto-Burman tribals share considerable genetic commonalities with the Austroasiatic tribals, supporting the hypothesis that they may have shared a common habitat in southern China, but the two groups of tribals can be differentiated on the basis of Y-chromosomal haplotypes; (6) the Dravidian speaking populations were possibly widespread throughout India but are regulated to South India now ; (7) formation of populations by fission that resulted in founder and drift effects have left their imprints on the genetic structures of contemporary populations; (8) the upper castes show closer genetic affinities with Central Asian populations, although those of southern India are more distant than those of northern India; (9) historical gene flow into India has contributed to a considerable obliteration of genetic histories of contemporary populations so that there is at present no clear congruence of genetic and geographical or sociocultural affinities."[134]
 -   In a later 2010 review article, Majumder affirms some of these conclusions, introduces and revises some other. The ongoing studies, concludes Majumder, suggest India has served as the major early corridor for geographical dispersal of modern humans from out-of-Africa. The archaeological and genetic traces of the earliest settlers in India has not provided any conclusive evidence. The tribal populations of India are older than the non-tribal populations. The autosomal differentiation and genetic diversity within India's caste populations at 0.04 is significantly lower than 0.14 for continental populations and 0.09 for 31 world population sets studied by Watkins _et al_., suggesting that while tribal populations were differentiated, the differentiation effects within India's caste population was less than previously thought. Majumder also concludes that recent studies suggest India has been a major contributor to the gene pool of southeast Asia.[135][136]

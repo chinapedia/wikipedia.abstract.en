@@ -79,8 +79,6 @@ Track listing
 -   All discographical information pertains to the original UK single release only.
 -   All songs written by Peter Gill/Holly Johnson/Brian Nash/Mark O'Toole, unless otherwise noted.
 
-WTTP_-_picturediscsingle.jpg
-
 7": ZTT / ZTAS 7 (UK)
 
 1.  "Welcome to the Pleasuredome" (Altered Real) – 4:20
@@ -135,8 +133,6 @@ WTTP_-_picturediscsingle.jpg
 -   "Relax" (International) was rereleased in 2012 on CD Sexmix Disk 1, Track 6 in a very slightly edited (first words of spoken introduction removed) version.
 
 12": ZTT / 12 XZTAS 7 (UK)
-
-WTTP_-_fruitness.jpg
 
 A : 'Fruitness'
 

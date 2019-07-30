@@ -1,5 +1,3 @@
-Apoptosisgif.gif
-
 APOPTOSIS (from Ancient Greek ἀπόπτωσις "falling off") is a form of programmed cell death that occurs in multicellular organisms.[1] Biochemical events lead to characteristic cell changes (morphology) and death. These changes include blebbing, cell shrinkage, nuclear fragmentation, chromatin condensation, chromosomal DNA fragmentation, and global mRNA decay. The average adult human loses between 50 and 70 billion cells each day due to apoptosis.[2] For an average human child between the ages of 8 to 14 year old approximately 20 to 30 billion cells die per day.[3]
 
 In contrast to necrosis, which is a form of traumatic cell death that results from acute cellular injury, apoptosis is a highly regulated and controlled process that confers advantages during an organism's lifecycle. For example, the separation of fingers and toes in a developing human embryo occurs because cells between the digits undergo apoptosis. Unlike necrosis, apoptosis produces cell fragments called apoptotic bodies that phagocytic cells are able to engulf and remove before the contents of the cell can spill out onto surrounding cells and cause damage to them.[4]
@@ -15,7 +13,7 @@ German scientist Karl Vogt was first to describe the principle of apoptosis in 1
 
 For many years, neither "apoptosis" nor "programmed cell death" was a highly cited term. Two discoveries brought cell death from obscurity to a major field of research: identification of components of the cell death control and effector mechanisms, and linkage of abnormalities in cell death to human disease, in particular cancer.
 
-The 2002 Nobel Prize in Medicine was awarded to Sydney Brenner, Horvitz and John E. Sulston for their work identifying genes that control apoptosis. The genes were identified by studies in the nematode _C. elegans_ and homologues of these genes function in humans to regulate apoptosis. John_Sulston.jpg won the Nobel Prize in Medicine in 2002, for his pioneering research on apoptosis.]]
+The 2002 Nobel Prize in Medicine was awarded to Sydney Brenner, Horvitz and John E. Sulston for their work identifying genes that control apoptosis. The genes were identified by studies in the nematode _C. elegans_ and homologues of these genes function in humans to regulate apoptosis. won the Nobel Prize in Medicine in 2002, for his pioneering research on apoptosis.]]
 
 In Greek, apoptosis translates to the "falling off" of leaves from a tree. Cormack, professor of Greek language, reintroduced the term for medical use as it had a medical meaning for the Greeks over two thousand years before. Hippocrates used the term to mean "the falling off of the bones". Galen extended its meaning to "the dropping of the scabs". Cormack was no doubt aware of this usage when he suggested the name. Debate continues over the correct pronunciation, with opinion divided between a pronunciation with the second _p_ silent ( [10][11]) and the second _p_ pronounced (),[12][13] as in the original Greek. In English, the _p_ of the Greek _-pt-_ consonant cluster is typically silent at the beginning of a word (e.g. pterodactyl, Ptolemy), but articulated when used in combining forms preceded by a vowel, as in helicopter or the orders of insects: diptera, lepidoptera, etc.
 
@@ -25,8 +23,6 @@ In the original Kerr, Wyllie & Currie paper,[14] there is a footnote regarding t
 
 
 Activation mechanisms
-
-Apoptosis.png Control_Of_The_Apoptosis_Mecanisms.pdf
 
 The initiation of apoptosis is tightly regulated by activation mechanisms, because once apoptosis has begun, it inevitably leads to the death of the cell.[15] The two best-understood activation mechanisms are the intrinsic pathway (also called the mitochondrial pathway) and the extrinsic pathway. The _intrinsic pathway_ is activated by intracellular signals generated when cells are stressed and depends on the release of proteins from the intermembrane space of mitochondria. The _extrinsic pathway_ is activated by extracellular ligands binding to cell-surface death receptors, which leads to the formation of the death-inducing signaling complex (DISC).
 
@@ -44,7 +40,7 @@ Mitochondria also release proteins known as SMACs (second mitochondria-derived a
 
 Extrinsic pathway
 
-signal_transduction_pathways.png Two theories of the direct initiation of apoptotic mechanisms in mammals have been suggested: the _TNF-induced_ (tumor necrosis factor) model and the _Fas-Fas ligand-mediated_ model, both involving receptors of the _TNF receptor_ (TNFR) family[36] coupled to extrinsic signals.
+Two theories of the direct initiation of apoptotic mechanisms in mammals have been suggested: the _TNF-induced_ (tumor necrosis factor) model and the _Fas-Fas ligand-mediated_ model, both involving receptors of the _TNF receptor_ (TNFR) family[36] coupled to extrinsic signals.
 
 TNF path
 
@@ -91,7 +87,7 @@ Apoptosis progresses quickly and its products are quickly removed, making it dif
 
 Apoptotic cell disassembly
 
-Apoptotic_cell_disassembly.png Before the apoptotic cell is disposed of, there is a process of disassembly. There are three recognized steps in apoptotic cell disassembly:[58]
+Before the apoptotic cell is disposed of, there is a process of disassembly. There are three recognized steps in apoptotic cell disassembly:[58]
 
 1.  Membrane blebbing: The cell membrane shows irregular buds known as blebs. Initially these are smaller surface blebs. Later these can grow into larger so-called dynamic membrane blebs.[59] An important regulator of apoptotic cell membrane blebbing is ROCK1 (rho associated coiled-coil-containing protein kinase 1).[60][61]
 2.  Formation of membrane protrusions: Some cell types, under specific conditions, may develop different types of long, thin extensions of the cell membrane called membrane protrusions. Three types have been described: microtubule spikes, APOPTOPODIA (_feet of death_), and BEADED APOPTOPODIA (the latter having a beads-on-a-string appearance).[62][63][64] Pannexin 1 is an important component of membrane channels involved in the formation of apoptopodia and beaded apoptopodia.[65]
@@ -116,7 +112,7 @@ In order to perform analysis of apoptotic versus necrotic (necroptotic) cells, o
 
 Implication in disease
 
-Apoptosis_multi_mouseliver.jpg Apoptosis_stained.jpg to show cells undergoing apoptosis (orange)]] Apoptosis.jpg
+to show cells undergoing apoptosis (orange)]]
 
 Defective pathways
 

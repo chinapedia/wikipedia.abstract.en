@@ -16,7 +16,7 @@ The inch is a commonly used customary unit of length in the United States,[4] Ca
 
 The international standard symbol for inch is IN (see ISO 31-1, Annex A) but traditionally the inch is denoted by a double prime, which is often approximated by double quotes, and the foot by a prime, which is often approximated by an apostrophe. For example, can be written as 3′ 2″. (This is akin to how the first and second "cuts" of the hour and degree are likewise indicated by prime and double prime symbols.) Subdivisions of an inch are typically written using dyadic fractions with odd number numerators; for example, would be written as ″ and not as 2.375″ nor as ″. However for engineering purposes fractions are commonly given to three or four places of decimals and have been for many years.[10][11]
 
-Inch_tape.jpg calibrated in 32nds of an inch]]
+calibrated in 32nds of an inch]]
 
 Equivalences
 
@@ -41,8 +41,6 @@ Equivalences
 
 
 History
-
-Inch_converter.jpg
 
 The earliest known reference to the inch in England is from the _Laws of Æthelberht_ dating to the early 7th century, surviving in a single manuscript, the _Textus Roffensis_ from 1120.[13] Paragraph LXVII sets out the fine for wounds of various depths: one inch, one shilling, two inches, two shillings, etc.
 

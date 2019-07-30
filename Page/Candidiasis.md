@@ -9,7 +9,7 @@ Infections of the mouth occur in about 6% of babies less than a month old.[26] A
 
 Signs and symptoms
 
-Derm-57.jpg Toefungus.jpg)]] Yeast_Infection.png]] Signs and symptoms of candidiasis vary depending on the area affected.[30] Most candidal infections result in minimal complications such as redness, itching, and discomfort, though complications may be severe or even fatal if left untreated in certain populations. In healthy (immunocompetent) persons, candidiasis is usually a localized infection of the skin, fingernails or toenails (onychomycosis), or mucosal membranes, including the oral cavity and pharynx (thrush), esophagus, and the genitalia (vagina, penis, etc.);[31][32][33] less commonly in healthy individuals, the gastrointestinal tract,[34][35][36] urinary tract,[37] and respiratory tract[38] are sites of candida infection.
+)]] ]] Signs and symptoms of candidiasis vary depending on the area affected.[30] Most candidal infections result in minimal complications such as redness, itching, and discomfort, though complications may be severe or even fatal if left untreated in certain populations. In healthy (immunocompetent) persons, candidiasis is usually a localized infection of the skin, fingernails or toenails (onychomycosis), or mucosal membranes, including the oral cavity and pharynx (thrush), esophagus, and the genitalia (vagina, penis, etc.);[31][32][33] less commonly in healthy individuals, the gastrointestinal tract,[34][35][36] urinary tract,[37] and respiratory tract[38] are sites of candida infection.
 
 In immunocompromised individuals, _Candida_ infections in the esophagus occur more frequently than in healthy individuals and have a higher potential of becoming systemic, causing a much more serious condition, a fungemia called candidemia.[39][40][41] Symptoms of esophageal candidiasis include difficulty swallowing, painful swallowing, abdominal pain, nausea, and vomiting.[42][43]
 
@@ -35,7 +35,7 @@ Vaginal candidiasis can cause congenital candidiasis in newborns.[67]
 
 Diagnosis
 
-Candida_albicans_PHIL_3192_lores.jpg culture of _C. albicans_]] Vaginal_wet_mount_of_candidal_vulvovaginitis.jpg on a vaginal wet mount, showing slings of pseudohyphae of _Candida albicans_ surrounded by round vaginal epithelial cells, conferring a diagnosis of candidal vulvovaginitis ]] Esophageal_candidiasis_(2)_PAS_stain.jpg specimen, PAS stain]]
+culture of _C. albicans_]] on a vaginal wet mount, showing slings of pseudohyphae of _Candida albicans_ surrounded by round vaginal epithelial cells, conferring a diagnosis of candidal vulvovaginitis ]] specimen, PAS stain]]
 
 Symptoms of vaginal candidiasis are also present in the more common bacterial vaginosis;[68] aerobic vaginitis is distinct and should be excluded in the differential diagnosis.[69] In a 2002 study, only 33% of women who were self-treating for a yeast infection actually had such an infection, while most had either bacterial vaginosis or a mixed-type infection.[70]
 

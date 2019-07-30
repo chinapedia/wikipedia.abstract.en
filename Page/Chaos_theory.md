@@ -1,4 +1,4 @@
-Lorenz_attractor_yb.svg for values 28}}, 10}}, 8/3}}]] Double-compound-pendulum.gif animation showing chaotic behavior. Starting the pendulum from a slightly different initial condition would result in a completely different trajectory. The double-rod pendulum is one of the simplest dynamical systems with chaotic solutions.]]
+for values 28}}, 10}}, 8/3}}]] animation showing chaotic behavior. Starting the pendulum from a slightly different initial condition would result in a completely different trajectory. The double-rod pendulum is one of the simplest dynamical systems with chaotic solutions.]]
 
 CHAOS THEORY is a branch of mathematics focusing on the behavior of dynamical systems that are highly sensitive to initial conditions. "Chaos" is an interdisciplinary theory stating that within the apparent randomness of chaotic complex systems, there are underlying patterns, constant feedback loops, repetition, self-similarity, fractals, self-organization, and reliance on programming at the initial point known as _sensitive dependence on initial conditions_. The butterfly effect describes how a small change in one state of a deterministic nonlinear system can result in large differences in a later state, e.g. a butterfly flapping its wings in Brazil can cause a hurricane in Texas.[1]
 
@@ -14,7 +14,7 @@ Chaos theory concerns deterministic systems whose behavior can in principle be p
 
 Chaotic dynamics
 
-Chaos_Sensitive_Dependence.svg 1 displays sensitivity to initial x positions. Here, two series of _x_ and _y_ values diverge markedly over time from a tiny initial difference.]] In common usage, "chaos" means "a state of disorder".[16] However, in chaos theory, the term is defined more precisely. Although no universally accepted mathematical definition of chaos exists, a commonly used definition originally formulated by Robert L. Devaney says that, to classify a dynamical system as chaotic, it must have these properties:[17]
+1 displays sensitivity to initial x positions. Here, two series of _x_ and _y_ values diverge markedly over time from a tiny initial difference.]] In common usage, "chaos" means "a state of disorder".[16] However, in chaos theory, the term is defined more precisely. Although no universally accepted mathematical definition of chaos exists, a commonly used definition originally formulated by Robert L. Devaney says that, to classify a dynamical system as chaotic, it must have these properties:[17]
 
 1.  it must be sensitive to initial conditions,
 2.  it must be topologically transitive,
@@ -30,7 +30,7 @@ In continuous time dynamical systems, chaos is the phenomenon of the spontaneous
 
 Sensitivity to initial conditions
 
-SensInitCond.gif SENSITIVITY TO INITIAL CONDITIONS means that each point in a chaotic system is arbitrarily closely approximated by other points with significantly different future paths, or trajectories. Thus, an arbitrarily small change, or perturbation, of the current trajectory may lead to significantly different future behavior.
+SENSITIVITY TO INITIAL CONDITIONS means that each point in a chaotic system is arbitrarily closely approximated by other points with significantly different future paths, or trajectories. Thus, an arbitrarily small change, or perturbation, of the current trajectory may lead to significantly different future behavior.
 
 Sensitivity to initial conditions is popularly known as the "butterfly effect", so-called because of the title of a paper given by Edward Lorenz in 1972 to the American Association for the Advancement of Science in Washington, D.C., entitled _Predictability: Does the Flap of a Butterfly's Wings in Brazil set off a Tornado in Texas?_. The flapping wing represents a small change in the initial condition of the system, which causes a chain of events that prevents the predictability of large-scale phenomena. Had the butterfly not flapped its wings, the trajectory of the overall system would have been vastly different.
 
@@ -46,7 +46,7 @@ Also, other properties relate to sensitivity of initial conditions, such as meas
 
 Topological mixing
 
-LogisticTopMixing1-6.gif Chaos_Topological_Mixing.png 1 also displays topological mixing. Here, the blue region is transformed by the dynamics first to the purple region, then to the pink and red regions, and eventually to a cloud of vertical lines scattered across the space.]]
+1 also displays topological mixing. Here, the blue region is transformed by the dynamics first to the purple region, then to the pink and red regions, and eventually to a cloud of vertical lines scattered across the space.]]
 
 TOPOLOGICAL MIXING (or TOPOLOGICAL TRANSITIVITY) means that the system evolves over time so that any given region or open set of its phase space eventually overlaps with any other given region. This mathematical concept of "mixing" corresponds to the standard intuition, and the mixing of colored dyes or fluids is an example of a chaotic system.
 
@@ -60,7 +60,7 @@ Sharkovskii's theorem is the basis of the Li and Yorke[28] (1975) proof that any
 
 Strange attractors
 
-TwoLorenzOrbits.jpg displays chaotic behavior. These two plots demonstrate sensitive dependence on initial conditions within the region of phase space occupied by the attractor.]] Some dynamical systems, like the one-dimensional logistic map defined by _x_ → 4 _x_ (1 – _x_), are chaotic everywhere, but in many cases chaotic behavior is found only in a subset of phase space. The cases of most interest arise when the chaotic behavior takes place on an attractor, since then a large set of initial conditions leads to orbits that converge to this chaotic region.[29]
+displays chaotic behavior. These two plots demonstrate sensitive dependence on initial conditions within the region of phase space occupied by the attractor.]] Some dynamical systems, like the one-dimensional logistic map defined by _x_ → 4 _x_ (1 – _x_), are chaotic everywhere, but in many cases chaotic behavior is found only in a subset of phase space. The cases of most interest arise when the chaotic behavior takes place on an attractor, since then a large set of initial conditions leads to orbits that converge to this chaotic region.[29]
 
 An easy way to visualize a chaotic attractor is to start with a point in the basin of attraction of the attractor, and then simply plot its subsequent orbit. Because of the topological transitivity condition, this is likely to produce a picture of the entire final attractor, and indeed both orbits shown in the figure on the right give a picture of the general shape of the Lorenz attractor. This attractor results from a simple three-dimensional model of the Lorenz weather system. The Lorenz attractor is perhaps one of the best-known chaotic system diagrams, probably because it is not only one of the first, but it is also one of the most complex, and as such gives rise to a very interesting pattern that, with a little imagination, looks like the wings of a butterfly.
 
@@ -68,7 +68,7 @@ Unlike fixed-point attractors and limit cycles, the attractors that arise from c
 
 Minimum complexity of a chaotic system
 
-Logistic_Map_Bifurcation_Diagram,_Matplotlib.svg of the logistic map _x_ → _r_ _x_ (1 – _x_). Each vertical slice shows the attractor for a specific value of _r_. The diagram displays period-doubling as _r_ increases, eventually producing chaos.]]
+of the logistic map _x_ → _r_ _x_ (1 – _x_). Each vertical slice shows the attractor for a specific value of _r_. The diagram displays period-doubling as _r_ increases, eventually producing chaos.]]
 
 Discrete chaotic systems, such as the logistic map, can exhibit strange attractors whatever their dimensionality. Universality of one-dimensional maps with parabolic maxima and Feigenbaum constants δ = 4.664201...,α = 2.502907... [30] is well visible with map proposed as a toy model for discrete laser dynamics: x → Gx(1 − tanh(x)), where x stands for electric field amplitude, G[31] is laser gain as bifurcation parameter. The gradual increase of G at interval [0, ∞) changes dynamics from regular to chaotic one [32] with qualitatively the same bifurcation diagram as those for logistic map.
 
@@ -110,8 +110,6 @@ $$\frac{\mathrm{d}^3 x}{\mathrm{d} t^3}+A\frac{\mathrm{d}^2 x}{\mathrm{d} t^2}+\
 
 Here, _A_ is an adjustable parameter. This equation has a chaotic solution for _A_=3/5 and can be implemented with the following jerk circuit; the required nonlinearity is brought about by the two diodes:
 
-JerkCircuit01.png
-
 In the above circuit, all resistors are of equal value, except R_(A) = R/A = 5R/3, and all capacitors are of equal size. The dominant frequency is 1/2πRC. The output of op amp 0 will correspond to the x variable, the output of 1 corresponds to the first derivative of x and the output of 2 corresponds to the second derivative.
 
 
@@ -122,7 +120,7 @@ Under the right conditions, chaos spontaneously evolves into a lockstep pattern.
 
 History
 
-Barnsley_fern_plotted_with_VisSim.PNG created using the chaos game. Natural forms (ferns, clouds, mountains, etc.) may be recreated through an iterated function system (IFS).]]
+created using the chaos game. Natural forms (ferns, clouds, mountains, etc.) may be recreated through an iterated function system (IFS).]]
 
 An early proponent of chaos theory was Henri Poincaré. In the 1880s, while studying the three-body problem, he found that there can be orbits that are nonperiodic, and yet not forever increasing nor approaching a fixed point.[43][44][45] In 1898, Jacques Hadamard published an influential study of the chaotic motion of a free particle gliding frictionlessly on a surface of constant negative curvature, called "Hadamard's billiards".[46] Hadamard was able to show that all trajectories are unstable, in that all particle trajectories diverge exponentially from one another, with a positive Lyapunov exponent.
 
@@ -132,7 +130,7 @@ Despite initial insights in the first half of the twentieth century, chaos theor
 
 The main catalyst for the development of chaos theory was the electronic computer. Much of the mathematics of chaos theory involves the repeated iteration of simple mathematical formulas, which would be impractical to do by hand. Electronic computers made these repeated calculations practical, while figures and images made it possible to visualize these systems. As a graduate student in Chihiro Hayashi's laboratory at Kyoto University, Yoshisuke Ueda was experimenting with analog computers and noticed, on November 27, 1961, what he called "randomly transitional phenomena". Yet his advisor did not agree with his conclusions at the time, and did not allow him to report his findings until 1970.[53][54]
 
-Airplane_vortex_edit.jpg in the tip vortex from an airplane wing. Studies of the critical point beyond which a system creates turbulence were important for chaos theory, analyzed for example by the Soviet physicist Lev Landau, who developed the Landau-Hopf theory of turbulence. David Ruelle and Floris Takens later predicted, against Landau, that fluid turbulence could develop through a strange attractor, a main concept of chaos theory.]]
+in the tip vortex from an airplane wing. Studies of the critical point beyond which a system creates turbulence were important for chaos theory, analyzed for example by the Soviet physicist Lev Landau, who developed the Landau-Hopf theory of turbulence. David Ruelle and Floris Takens later predicted, against Landau, that fluid turbulence could develop through a strange attractor, a main concept of chaos theory.]]
 
 Edward Lorenz was an early pioneer of the theory. His interest in chaos came about accidentally through his work on weather prediction in 1961.[55] Lorenz was using a simple digital computer, a Royal McBee LGP-30, to run his weather simulation. He wanted to see a sequence of data again, and to save time he started the simulation in the middle of its course. He did this by entering a printout of the data that corresponded to conditions in the middle of the original simulation. To his surprise, the weather the machine began to predict was completely different from the previous calculation. Lorenz tracked this down to the computer printout. The computer worked with 6-digit precision, but the printout rounded variables off to a 3-digit number, so a value like 0.506127 printed as 0.506. This difference is tiny, and the consensus at the time would have been that it should have no practical effect. However, Lorenz discovered that small changes in initial conditions produced large changes in long-term outcome.[56] Lorenz's discovery, which gave its name to Lorenz attractors, showed that even detailed atmospheric modelling cannot, in general, make precise long-term weather predictions.
 
@@ -155,7 +153,7 @@ The availability of cheaper, more powerful computers broadens the applicability 
 
 Applications
 
-Textile_cone.JPG shell, similar in appearance to Rule 30, a cellular automaton with chaotic behaviour.[73]]]
+shell, similar in appearance to Rule 30, a cellular automaton with chaotic behaviour.[73]]]
 
 Although chaos theory was born from observing weather patterns, it has become applicable to a variety of other situations. Some areas benefiting from chaos theory today are geology, mathematics, microbiology, biology, computer science, economics,[74][75][76] engineering,[77][78] finance,[79][80] algorithmic trading,[81][82][83] meteorology, philosophy, anthropology,[84] physics,[85][86][87] politics, population dynamics,[88] psychology,[89] and robotics. A few categories are listed below with examples, but this is by no means a comprehensive list as new applications are appearing.
 
@@ -188,8 +186,6 @@ Time series and first delay plots provide the best support for the claims made, 
 By adapting a model of career counseling to include a chaotic interpretation of the relationship between employees and the job market, Aniundson and Bright found that better suggestions can be made to people struggling with career decisions.[113] Modern organizations are increasingly seen as open complex adaptive systems with fundamental natural nonlinear structures, subject to internal and external forces that may contribute chaos. For instance, team building and group development is increasingly being researched as an inherently unpredictable system, as the uncertainty of different individuals meeting for the first time makes the trajectory of the team unknowable.[114]
 
 Some say the chaos metaphor—used in verbal theories—grounded on mathematical models and psychological aspects of human behavior provides helpful insights to describing the complexity of small work groups, that go beyond the metaphor itself.[115]
-
-BML_N=200_P=32.png
 
 It is possible that economic models can also be improved through an application of chaos theory, but predicting the health of an economic system and what factors influence it most is an extremely complex task.[116] Economic and financial systems are fundamentally different from those in the classical natural sciences since the former are inherently stochastic in nature, as they result from the interactions of people, and thus pure deterministic models are unlikely to provide accurate representations of the data. The empirical literature that tests for chaos in economics and finance presents very mixed results, in part due to confusion between specific tests for chaos and more general tests for non-linear relationships.[117]
 

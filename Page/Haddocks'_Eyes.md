@@ -1,4 +1,4 @@
-Knight2.jpg ]] HADDOCKS' EYES is a song sung by The White Knight from Lewis Carroll's _Through the Looking-Glass_, chapter VIII.
+]] HADDOCKS' EYES is a song sung by The White Knight from Lewis Carroll's _Through the Looking-Glass_, chapter VIII.
 
 "Haddocks' Eyes" is an example used to elaborate on the symbolic status of the concept of "name": a name as identification marker may be assigned to anything, including another name, thus introducing different levels of symbolization. It was discussed in several works on logic and philosophy.[1]
 

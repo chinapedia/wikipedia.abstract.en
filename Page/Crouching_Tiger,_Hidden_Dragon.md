@@ -20,8 +20,6 @@ As Jen leaves to prepare an antidote for the poisoned dart, Mu Bai prepares to d
 
 Cast
 
-Chow_Yun_Fat_for_wiki.jpg
-
 -   Chow Yun-fat as Li Mu Bai (C: 李慕白, P: _Lǐ Mùbái_)
 -   Michelle Yeoh as Yu Shu Lien (T: 俞秀蓮, S: 俞秀莲, P: _Yú Xiùlián_)
 -   Zhang Ziyi as Jen Yu (English subtitled version) / Yu Jiaolong (English dubbed version) (T: 玉嬌龍, S: 玉娇龙, P: _Yù Jiāolóng_)
@@ -72,7 +70,7 @@ The film was originally written as a novel series by Wang Dulu starting in the l
 
 Filming
 
-Mount_cangyan_2007.jpg, including the bridge pictured above, was one of many filming locations.]] Although its Academy Award was presented to Taiwan, _Crouching Tiger, Hidden Dragon_ was in fact an international co-production between companies in four regions: the Chinese company China Film Co-Production Corporation; the American companies Columbia Pictures Film Production Asia, Sony Pictures Classics, and Good Machine; the Hong Kong company EDKO Film; and the Taiwanese Zoom Hunt International Productions Company, Ltd; as well as the unspecified United China Vision, and Asia Union Film and Entertainment Ltd., created solely for this film.[9][10]
+, including the bridge pictured above, was one of many filming locations.]] Although its Academy Award was presented to Taiwan, _Crouching Tiger, Hidden Dragon_ was in fact an international co-production between companies in four regions: the Chinese company China Film Co-Production Corporation; the American companies Columbia Pictures Film Production Asia, Sony Pictures Classics, and Good Machine; the Hong Kong company EDKO Film; and the Taiwanese Zoom Hunt International Productions Company, Ltd; as well as the unspecified United China Vision, and Asia Union Film and Entertainment Ltd., created solely for this film.[9][10]
 
 The film was made in Beijing, with location shooting in the Anhui, Hebei, Jiangsu, and Xinjiang provinces of China.[11] The first phase of shooting was in the Gobi Desert where it consistently rained. Director Ang Lee noted, "I didn't take one break in eight months, not even for half a day. I was miserable -- I just didn't have the extra energy to be happy. Near the end, I could hardly breathe. I thought I was about to have a stroke."[12] The stunt work was mostly performed by the actors themselves and Ang Lee stated in an interview that computers were used "only to remove the safety wires that held the actors." "Most of the time you can see their faces," he added, "That's really them in the trees."[13]
 

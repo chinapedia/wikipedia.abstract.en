@@ -5,7 +5,7 @@ The three brightest stars—Alpha, Beta and Nu Fornacis—form a flattened trian
 
 History
 
-Sidney_Hall_-_Urania's_Mirror_-_Psalterium_Georgii,_Fluvius_Eridanus,_Cetus,_Officina_Sculptoris,_Fornax_Chemica,_and_Machina_Electrica.jpg in this card from _Urania's Mirror_ (1825).]]
+in this card from _Urania's Mirror_ (1825).]]
 
 The French astronomer Nicolas Louis de Lacaille first described the constellation in French as _le Fourneau Chymique_ (the Chemical Furnace) with an alembic and receiver in his early catalogue,[1] before abbreviating it to _le Fourneau_ on his planisphere in 1752,[2][3] after he had observed and catalogued almost 10,000 southern stars during a two-year stay at the Cape of Good Hope. He devised fourteen new constellations in uncharted regions of the Southern Celestial Hemisphere not visible from Europe. All but one honoured instruments that symbolised the Age of Enlightenment. Lacaille Latinised the name to _Fornax Chimiae_ on his 1763 chart.[4]
 
@@ -16,8 +16,6 @@ The constellation Eridanus borders Fornax to the east, north and south, while Ce
 
 
 Features
-
-Constellation_Fornax.jpg
 
 Stars
 
@@ -42,11 +40,11 @@ Six star systems in Fornax have been found to have planets:
 
 Deep-sky objects
 
-Heic1425a.jpg NGC 1049 is a globular cluster 500,000 light-years from Earth. It is in the Fornax Dwarf Galaxy. NGC 1360 is a planetary nebula in Fornax with a magnitude of approximately 9.0, 978 light-years from Earth. Its central star is of magnitude 11.4, an unusually bright specimen. It is five times the size of the famed Ring Nebula in Lyra at 6.5 arcminutes. Unlike the Ring Nebula, NGC 1360 is clearly elliptical.
+NGC 1049 is a globular cluster 500,000 light-years from Earth. It is in the Fornax Dwarf Galaxy. NGC 1360 is a planetary nebula in Fornax with a magnitude of approximately 9.0, 978 light-years from Earth. Its central star is of magnitude 11.4, an unusually bright specimen. It is five times the size of the famed Ring Nebula in Lyra at 6.5 arcminutes. Unlike the Ring Nebula, NGC 1360 is clearly elliptical.
 
 The Fornax Dwarf galaxy is a dwarf galaxy that is part of the Local Group of galaxies. It is not visible in amateur telescopes, despite its relatively small distance of 500,000 light-years.
 
-The_Hubble_Ultra_Deep_Field_seen_with_MUSE.jpg seen with MUSE.[30]]]
+seen with MUSE.[30]]]
 
 NGC 1097 is a barred spiral galaxy in Fornax, about 60 million light-years from Earth. At magnitude 9, it is visible in medium amateur telescopes. It is notable as a Seyfert galaxy with strong spectral emissions indicating ionized gases and a central supermassive black hole.
 

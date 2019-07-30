@@ -36,7 +36,7 @@ For L2 speakers, both the quality and amount of time Frisian is taught in the cl
 
 History
 
-Brokmerbrief.jpg text from 1345.]]
+text from 1345.]]
 
 Old Frisian
 
@@ -100,7 +100,7 @@ Frisian languages belong to the West Germanic branch of the Indo-European langua
         -   Southern Goesharde Frisian (extinct)
         -   Wiedingharde Frisian
         -   Halligen Frisian
-        -   Karrharde FrisianFrisian.jpg
+        -   Karrharde Frisian
     -   Island dialects
         -   Söl'ring
         -   Fering-Öömrang

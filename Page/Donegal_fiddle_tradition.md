@@ -1,4 +1,4 @@
-Tp1web.jpg.]]
+.]]
 
 The DONEGAL FIDDLE TRADITION is the way of playing the fiddle that is traditional in County Donegal, Ireland. It is one of the distinct fiddle traditions within Irish traditional music.[1]
 
@@ -22,18 +22,16 @@ Outside of the Comhaltas movement however, Donegal fiddling stood strong with Pa
 
 Description of style
 
-Donegalfiddle.PNG The Donegal style of fiddling is a label often applied to music from this area, though one also might plausibly identify several different, but related, styles within the county.[22] To the extent to which there is one common style in the county, it is characterised by a rapid pace; a tendency to be more un-swung in the playing of the fast dance tune types (reel and jigs); short (non-slurred), aggressive bowing, sparse ornamentation, the use of bowed triplets more often than trills as ornaments, the use of double stops and droning; and the occurrence of "playing the octave", with one player playing the melody and the other playing the melody an octave lower. None of these characteristics are universal, and there is some disagreement as to the extent to which there is a common style at all. In general, however, the style is rather aggressive.[23]
+The Donegal style of fiddling is a label often applied to music from this area, though one also might plausibly identify several different, but related, styles within the county.[22] To the extent to which there is one common style in the county, it is characterised by a rapid pace; a tendency to be more un-swung in the playing of the fast dance tune types (reel and jigs); short (non-slurred), aggressive bowing, sparse ornamentation, the use of bowed triplets more often than trills as ornaments, the use of double stops and droning; and the occurrence of "playing the octave", with one player playing the melody and the other playing the melody an octave lower. None of these characteristics are universal, and there is some disagreement as to the extent to which there is a common style at all. In general, however, the style is rather aggressive.[23]
 
 Another feature of Donegal fiddling that makes it distinctive among Irish musical traditions is the variety of rare tune types that are played. Highlands, a type of tune in {{music with some similarities to Scottish strathspeys, which are also played in Donegal, are one of the most commonly played types of tune in the county. Other tune types common solely in the county include barndances, also called "Germans," and mazurkas.[24]
 
 
 Fiddlers of the Donegal tradition
 
-James-Byrne.jpg
-
 Historical
 
-Donegalmap.jpgThere are a number of different strands to the history of fiddle playing in County Donegal.[25] Perhaps the best-known and, in the last half of the twentieth century, the most influential has been that of the Doherty family.[26][27] Hugh Doherty is the first known musician of this family. Born in 1790, he headed an unbroken tradition of fiddlers and pipers in the Doherty family until the death, in 1980, of perhaps the best-known Donegal fiddler, John Doherty.[28] John, a travelling tinsmith, was known for his extremely precise and fast finger- and bow-work and vast repertoire, and is considered to be one of the greatest Irish fiddlers ever recorded.[29] John's older brother, Mickey, was also recorded and, though Mickey was another of the great Irish fiddlers, his reputation has been overshadowed by John's.[30]
+There are a number of different strands to the history of fiddle playing in County Donegal.[25] Perhaps the best-known and, in the last half of the twentieth century, the most influential has been that of the Doherty family.[26][27] Hugh Doherty is the first known musician of this family. Born in 1790, he headed an unbroken tradition of fiddlers and pipers in the Doherty family until the death, in 1980, of perhaps the best-known Donegal fiddler, John Doherty.[28] John, a travelling tinsmith, was known for his extremely precise and fast finger- and bow-work and vast repertoire, and is considered to be one of the greatest Irish fiddlers ever recorded.[29] John's older brother, Mickey, was also recorded and, though Mickey was another of the great Irish fiddlers, his reputation has been overshadowed by John's.[30]
 
 There is no single Donegal style but several distinctive styles. These styles traditionally come from the geographical isolated regions of Donegal including Inishowen, eastern Donegal, The Rosses and Gweedore, Croaghs, Teelin, Kilcar, Glencolmcille, Ballyshannon and Bundoran. Even with improved communications and transport, these regions still have recognisably different ways of fiddle playing. Notable deceased players of the older Donegal styles include Neillidh ("Neilly") Boyle, Francie Byrne, Con Cassidy,Frank Cassidy, James Byrne (1946–2008), P.V. O'Donnell (2011), and Tommy Peoples (1948–2018). Currently living Donegal fiddlers, include, Vincent Campbell, John Gallagher, Paddy Glackin, and Danny O'Donnell.[31]
 

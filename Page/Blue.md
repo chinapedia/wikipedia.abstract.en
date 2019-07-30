@@ -7,7 +7,7 @@ Surveys in the US and Europe show that blue is the colour most commonly associat
 
 Shades and variations
 
-Linear_visible_spectrum.svg Blue is the colour of light between violet and green on the visible spectrum. Hues of blue include indigo and ultramarine, closer to violet; pure blue, without any mixture of other colours; Cyan, which is midway in the spectrum between blue and green, and the other blue-greens turquoise, teal, and aquamarine.
+Blue is the colour of light between violet and green on the visible spectrum. Hues of blue include indigo and ultramarine, closer to violet; pure blue, without any mixture of other colours; Cyan, which is midway in the spectrum between blue and green, and the other blue-greens turquoise, teal, and aquamarine.
 
 Blue also varies in shade or tint; darker shades of blue contain black or grey, while lighter tints contain white. Darker shades of blue include ultramarine, cobalt blue, navy blue, and Prussian blue; while lighter tints include sky blue, azure, and Egyptian blue. (For a more complete list see the List of colours).
 
@@ -31,8 +31,7 @@ Science and nature
 
 Optics
 
-  Linear_visible_spectrum.svg
-  -----------------------------
+  --------
   Colour
   VIOLET
   BLUE
@@ -90,7 +89,7 @@ Blue giants are hot and luminous stars with surface temperatures exceeding 10,00
 
 Blue eyes
 
-Blue_eye_Stephen.png.]] Blue eyes do not actually contain any blue pigment. Eye colour is determined by two factors: the pigmentation of the eye's iris[13][14] and the scattering of light by the turbid medium in the stroma of the iris.[15] In humans, the pigmentation of the iris varies from light brown to black. The appearance of blue, green, and hazel eyes results from the Tyndall scattering of light in the stroma, an optical effect similar to what accounts for the blueness of the sky.[16][17] The irises of the eyes of people with blue eyes contain less dark melanin than those of people with brown eyes, which means that they absorb less short-wavelength blue light, which is instead reflected out to the viewer. Eye colour also varies depending on the lighting conditions, especially for lighter-coloured eyes.
+.]] Blue eyes do not actually contain any blue pigment. Eye colour is determined by two factors: the pigmentation of the eye's iris[13][14] and the scattering of light by the turbid medium in the stroma of the iris.[15] In humans, the pigmentation of the iris varies from light brown to black. The appearance of blue, green, and hazel eyes results from the Tyndall scattering of light in the stroma, an optical effect similar to what accounts for the blueness of the sky.[16][17] The irises of the eyes of people with blue eyes contain less dark melanin than those of people with brown eyes, which means that they absorb less short-wavelength blue light, which is instead reflected out to the viewer. Eye colour also varies depending on the lighting conditions, especially for lighter-coloured eyes.
 
 Blue eyes are most common in Ireland, the Baltic Sea area and Northern Europe,[18] and are also found in Eastern, Central, and Southern Europe. Blue eyes are also found in parts of Western Asia, most notably in Afghanistan, Syria, Iraq, and Iran.[19] In Estonia, 99% of people have blue eyes.[20][21] In Denmark 30 years ago, only 8% of the population had brown eyes, though through immigration, today that number is about 11%. In Germany, about 75% have blue eyes.[22]
 
@@ -105,7 +104,7 @@ History
 
 In the ancient world
 
-Ebih-Il_Louvre_AO17551_n11.jpg'', dating to the twenty-fifth century BC, discovered in the temple of Ishtar at Mari]]
+'', dating to the twenty-fifth century BC, discovered in the temple of Ishtar at Mari]]
 
 Blue was a latecomer among colours used in art and decoration, as well as language and literature.[26] Reds, blacks, browns, and ochres are found in cave paintings from the Upper Paleolithic period, but not blue. Blue was also not used for dyeing fabric until long after red, ochre, pink and purple. This is probably due to the perennial difficulty of making good blue dyes and pigments.[27] The earliest known blue dyes were made from plants – woad in Europe, indigo in Asia and Africa, while blue pigments were made from minerals, usually either lapis lazuli or azurite.
 
@@ -171,7 +170,7 @@ File:Early blue and white ware circa 1335 Jingdezhen.jpg|Chinese blue and white 
 
 War of the blues – indigo versus woad
 
-Meisje_met_de_parel.jpg used natural ultramarine in his paintings, as in his _Girl with a Pearl Earring_. The expense was probably borne by his wealthy patron Pieter van Ruijven.[55]]]
+used natural ultramarine in his paintings, as in his _Girl with a Pearl Earring_. The expense was probably borne by his wealthy patron Pieter van Ruijven.[55]]]
 
 While blue was an expensive and prestigious colour in European painting, it became a common colour for clothing during the Renaissance. The rise of the colour blue in fashion in the 12th and 13th centuries led to a blue dye industry in several cities, notably Amiens, Toulouse, and Erfurt. They made a dye called pastel from woad, a plant common in Europe, which had been used to make blue dye by the Celts and German tribes. Blue became a colour worn by domestics and artisans, not just nobles. In 1570, when Pope Pius V listed the colours that could be used for ecclesiastical dress and for altar decoration, he excluded blue, because he considered it too common.[56]
 
@@ -189,7 +188,7 @@ File:Isatis tinctoria02.JPG|Isatis tinctoria, or woad, was the main source of bl
 
 Blue uniform
 
-5.29.10NYPDByLuigiNovi6.jpg In the 17th century, Frederick William, Elector of Brandenburg, was one of the first rulers to give his army blue uniforms. The reasons were economic; the German states were trying to protect their pastel dye industry against competition from imported indigo dye. When Brandenburg became the Kingdom of Prussia in 1701, the uniform colour was adopted by the Prussian army. Most German soldiers wore dark blue uniforms until the First World War, with the exception of the Bavarians, who wore light blue.[64]
+In the 17th century, Frederick William, Elector of Brandenburg, was one of the first rulers to give his army blue uniforms. The reasons were economic; the German states were trying to protect their pastel dye industry against competition from imported indigo dye. When Brandenburg became the Kingdom of Prussia in 1701, the uniform colour was adopted by the Prussian army. Most German soldiers wore dark blue uniforms until the First World War, with the exception of the Bavarians, who wore light blue.[64]
 
 Thanks in part to the availability of indigo dye, the 18th century saw the widespread use of blue military uniforms. Prior to 1748, British naval officers simply wore upper-class civilian clothing and wigs. In 1748, the British uniform for naval officers was officially established as an embroidered coat of the colour then called marine blue, now known as navy blue.[65] When the Continental Navy of the United States was created in 1775, it largely copied the British uniform and colour.
 
@@ -331,7 +330,7 @@ File:Western Wall - by Jacob Rask.jpg|Blue stripes on a traditional Jewish talli
 
 Gender
 
-ANAB767300Restroomsign.jpg Boeing 767-300 uses blue for the male gender]] Blue was first used as a gender signifier just prior to World War I (for either girls or boys), and first established as a male gender signifier in the 1940s.[125]
+Boeing 767-300 uses blue for the male gender]] Blue was first used as a gender signifier just prior to World War I (for either girls or boys), and first established as a male gender signifier in the 1940s.[125]
 
 Music
 
@@ -367,7 +366,7 @@ File:Charles André Van Loo - Madame de Pompadour en belle jardinière - v.1754-
 
 Sports
 
-Rink_bandy_ball.JPG, a blue ball is used]] Many sporting teams make blue their official colour, or use it as detail on kit of a different colour. In addition, the colour is present on the logos of many sports associations. Along with red, blue is the most commonly used non-white colours for teams.
+, a blue ball is used]] Many sporting teams make blue their official colour, or use it as detail on kit of a different colour. In addition, the colour is present on the logos of many sports associations. Along with red, blue is the most commonly used non-white colours for teams.
 
 The blues of antiquity
 

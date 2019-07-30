@@ -9,7 +9,7 @@ Reign
 
 Birth and regency
 
-Alfonso_XIII_y_María_Cristina_Regente._1898._Luis_Alvarez_Catalá.jpg Alfonso was born in Madrid on 17 May 1886. He was the posthumous son of Alfonso XII of Spain, who had died in November 1885, and became King of Spain upon his birth. Just after he was born, he was carried naked to the Spanish prime minister on a silver tray.
+Alfonso was born in Madrid on 17 May 1886. He was the posthumous son of Alfonso XII of Spain, who had died in November 1885, and became King of Spain upon his birth. Just after he was born, he was carried naked to the Spanish prime minister on a silver tray.
 
 Five days later he was carried in a solemn court procession with a golden fleece round his neck and was baptized with water specially brought from the River Jordan in Palestine.[1] The French newspaper _Le Figaro_ described the young king in 1889 as "the happiest and best-loved of all the rulers of the earth".[2] His mother, Maria Christina of Austria, served as his regent until his 16th birthday. During the regency, in 1898, Spain lost its colonial rule over Cuba, Puerto Rico, Guam and the Philippines to the United States as a result of the Spanish–American War.
 
@@ -17,11 +17,11 @@ When he came of age in May 1902, the week of his majority was marked by festivit
 
 Engagement and marriage
 
-The_Nine_Sovereigns_at_Windsor_for_the_funeral_of_King_Edward_VII.jpg for the funeral of King Edward VII, photographed on 20 May 1910. Standing, from left to right: King Haakon VII of Norway, Tsar Ferdinand of the Bulgarians, King Manuel II of Portugal and the Algarve, Kaiser Wilhelm II of Germany and Prussia, King George I of the Hellenes and King Albert I of the Belgians. Seated, from left to right: King Alfonso XIII of Spain, King George V of the United Kingdom and King Frederick VIII of Denmark]] By 1905, Alfonso was looking for a suitable consort. On a state visit to the United Kingdom, he stayed at Buckingham Palace with King Edward VII. There he met Princess Victoria Eugenie of Battenberg, the daughter of Edward's youngest sister Princess Beatrice, and a granddaughter of Queen Victoria. He found her attractive, and she returned his interest. There were obstacles to the marriage. Victoria was a Protestant, and would have to become a Catholic. Victoria's brother Leopold was a haemophiliac, so there was a 50 percent chance that Victoria was a carrier of the trait. Finally, Alfonso's mother Maria Christina wanted him to marry a member of her family, the House of Habsburg-Lorraine, or some other Catholic princess, as she considered the Battenbergs to be non-dynastic.
+for the funeral of King Edward VII, photographed on 20 May 1910. Standing, from left to right: King Haakon VII of Norway, Tsar Ferdinand of the Bulgarians, King Manuel II of Portugal and the Algarve, Kaiser Wilhelm II of Germany and Prussia, King George I of the Hellenes and King Albert I of the Belgians. Seated, from left to right: King Alfonso XIII of Spain, King George V of the United Kingdom and King Frederick VIII of Denmark]] By 1905, Alfonso was looking for a suitable consort. On a state visit to the United Kingdom, he stayed at Buckingham Palace with King Edward VII. There he met Princess Victoria Eugenie of Battenberg, the daughter of Edward's youngest sister Princess Beatrice, and a granddaughter of Queen Victoria. He found her attractive, and she returned his interest. There were obstacles to the marriage. Victoria was a Protestant, and would have to become a Catholic. Victoria's brother Leopold was a haemophiliac, so there was a 50 percent chance that Victoria was a carrier of the trait. Finally, Alfonso's mother Maria Christina wanted him to marry a member of her family, the House of Habsburg-Lorraine, or some other Catholic princess, as she considered the Battenbergs to be non-dynastic.
 
 Victoria was willing to change her religion, and her being a haemophilia carrier was only a possibility. Maria Christina was eventually persuaded to drop her opposition. In January 1906 she wrote an official letter to Princess Beatrice proposing the match. Victoria met Maria Christina and Alfonso in Biarritz, France, later that month, and converted to Catholicism in San Sebastián in March.
 
-Anarchist_attack_on_the_King_of_Spain_Alfonso_XIII_(1906).jpg on their wedding day]] In May, diplomats of both kingdoms officially executed the agreement of marriage. Alfonso and Victoria were married at the Royal Monastery of San Jerónimo in Madrid on 31 May 1906, with British royalty in attendance, including Victoria's cousins the Prince and Princess of Wales (later King George V and Queen Mary). The wedding was marked by an assassination attempt on Alfonso and Victoria by Catalan anarchist Mateu Morral. As the wedding procession returned to the palace, he threw a bomb from a window which killed or injured several bystanders and members of the procession.[4]
+on their wedding day]] In May, diplomats of both kingdoms officially executed the agreement of marriage. Alfonso and Victoria were married at the Royal Monastery of San Jerónimo in Madrid on 31 May 1906, with British royalty in attendance, including Victoria's cousins the Prince and Princess of Wales (later King George V and Queen Mary). The wedding was marked by an assassination attempt on Alfonso and Victoria by Catalan anarchist Mateu Morral. As the wedding procession returned to the palace, he threw a bomb from a window which killed or injured several bystanders and members of the procession.[4]
 
 On 10 May 1907, the couple's first child, Alfonso, Prince of Asturias, was born. However, Victoria was in fact a haemophilia carrier, and Alfonso inherited the condition.
 
@@ -29,7 +29,7 @@ Neither of the two daughters born to the King and Queen were haemophilia carrier
 
 From 1914 on, he had several mistresses, and fathered five illegitimate children. A sixth illegitimate child had been born before his marriage.
 
-Alfonso_XIII_in_uniform_of_a_British_Field_Marshall.jpg, 1928]]
+, 1928]]
 
 World War I
 
@@ -39,7 +39,7 @@ Alfonso became gravely ill during the 1918 flu pandemic. Spain was neutral and t
 
 Rif War and Miguel Primo de Rivera
 
-Bundesarchiv_Bild_102-09411,_Primo_de_Rivera_und_der_König_von_Spanien.jpg]]
+]]
 
 Following World War I, Spain entered the lengthy yet victorious Rif War (1920–1926) to preserve its colonial rule over northern Morocco. Critics of the monarchy thought the war was an unforgivable loss of money and lives, and nicknamed Alfonso _el Africano_ ("the African").[9] Alfonso had not acted as a strict constitutional monarch, and supported the Africanists who wanted to conquer for Spain a new empire in Africa to compensate for the lost empire in the Americas and Asia.[10] The Rif War had starkly polarized Spanish society between the Africanists who wanted to conquer an empire in Africa vs. the _abandonistas_ who wanted to abandon Morocco as not worth the blood and treasure.[11] Alfonso liked to play favourites with his generals, and one of his most favored generals was Manuel Fernández Silvestre.[12] In 1921, when Silvestre advanced up into the Rif mountains of Morocco, Alfonso sent him a telegram whose first line read "Hurrah for real men!", urging Silvestre not to retreat at a time when Silvestre was experiencing major difficulties.[13] Silvestre stayed the course, leading his men into the Battle of Annual, one of Spain's worst defeats. Alfonso, who was on holiday in the south of France at the time, was informed of the "Disaster of the Annual" while he was playing golf. Reportedly, Alfonso's response to the news was to shrug his shoulders and say "Chicken meat is cheap", before resuming his game of golf.[14] Alfonso remained in France and did not return to Spain to comfort the families of the soldiers lost at the "Disaster of the Annual", which many people at the time saw as a callous and cold act, a sign that the King couldn't care less about the lives of his soldiers. In 1922, the _Cortes_ started an investigation into the responsibility for the Annual disaster and soon discovered evidence that the King had been one of the main supporters of Silvestre's advance into the Rif mountains.
 
@@ -71,7 +71,7 @@ In Spain, the _caudillo_ Franco ordered three days of national mourning.[21] His
 
 Legacy
 
-Palace_Hotel_(Madrid)_03.jpg was built on Alfonso's wishes in 1912]]
+was built on Alfonso's wishes in 1912]]
 
 Alfonso was a promoter of tourism in Spain. The need for the lodging of his wedding guests prompted the construction of the luxury Hotel Palace in Madrid. He also supported the creation of a network of state-run lodges (Parador) in historic buildings of Spain. His fondness for the sport of football led to the patronage of several "Royal" ("Real" in Spanish) football clubs, the first being Real Club Deportivo de La Coruña in 1907.[24] Selected others include Real Madrid, Real Sociedad, Real Betis, Real Unión, Espanyol and Real Zaragoza.
 
@@ -113,7 +113,7 @@ Alfonso and Ena had six surviving children:
 | Infante Gonzalo                  | 24 October 1914                   | 13 August 1934   |                     |                                                         |
 +----------------------------------+-----------------------------------+------------------+---------------------+---------------------------------------------------------+
 
-Alfonso_XIII_and_Queen_Victoria_Eugenia_with_their_six_children.jpg with their children at Santander's Palacio de la Magdalena. Standing, from left to right: Infanta María Cristina, the Prince of Asturias and Infanta Beatriz. Seated, from left to right: Infante Jaime, the Queen, the King, Infante Gonzalo and Infante Juan seated on ground]]
+with their children at Santander's Palacio de la Magdalena. Standing, from left to right: Infanta María Cristina, the Prince of Asturias and Infanta Beatriz. Seated, from left to right: Infante Jaime, the Queen, the King, Infante Gonzalo and Infante Juan seated on ground]]
 
 
 Illegitimate issue
@@ -149,8 +149,6 @@ File:Royal Greater Coat of Arms of Spain (1761-1868 and 1874-1931) Version with 
 (1931)[31][32] File:Full Ornamented Royal Coat of Arms of Spain (1931).svg||Coat of arms of Alfonso XIII with royal supporters
 (1931)[33]
 
-Royal_Monogram_of_Alfonso_XIII_of_Spain.svg
-
 
 Honours
 
@@ -184,7 +182,7 @@ Foreign honours
 
 -   : Order of the Chrysanthemum – _1930_ – Emperor Hirohito's second brother, Prince Takamatsu, travelled to Madrid to confer the Great Collar of the Chrysanthemum on King Alfonso. This honour was intended, in part, to commemorate the diplomatic and trading history which existed long before other Western nations were officially aware of Japan's existence. Prince Takamatsu travelled with his wife, Princess Takamatsu, to Spain. Her symbolic role in this unique mission to the Spanish Court was intended to emphasize the international links which were forged by her 16th-century ancestor, Ieyasu Tokugawa. In the years before the Tokugawa shogunate, that innovative _daimyō_ from Western Japan had been actively involved in negotiating trade and diplomatic treaties with Spain and with the colonies of New Spain (Mexico) and the Philippines; and it was anticipated that the mere presence of the Princess could serve to underscore the range of possibilities which could be inferred from that little-known history.[49]
 
--   Amir_Kabir_Flag.svg Persia: Order of the Aqdas – _16 May 1902_ – The King received the Persian order in a special ceremony during his enthronement festivities.[50]
+-   Persia: Order of the Aqdas – _16 May 1902_ – The King received the Persian order in a special ceremony during his enthronement festivities.[50]
 -   : 315th Grand Cross of the Order of the Tower and Sword – _1900_[51]
 
 -   : Order of St. Andrew the Apostle the First-Called – _1902_ – During his enthronement festivities.[52]

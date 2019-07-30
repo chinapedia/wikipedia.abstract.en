@@ -14,7 +14,7 @@ Pre-Darwinian
 
 For the early history from Lindley (1853) onwards, see Caddick _et al._ (2000) Table 1, Caddick et al. (2002a) Table 1 and Table 2 in Bouman (1995). The taxonomic classification of Dioscoreales has been complicated by the presence of a number of morphological features reminiscent of the dicotyledons, leading some authors to place the order as intermediate between the monocotyledons and the dicotyledons.
 
-Dioscorea_-_Hooker.jpg) in Hooker's _A General System of Botany_ 1873 ]] While Lindley did not use the term "Dioscoreales", he placed the family Dioscoraceae together with four other families in what he referred to as an Alliance (the equivalent of the modern Order) called Dictyogens. He reflected the uncertainty as to the place of this Alliance by placing it as a class of its own between Endogens (monocots) and Exogens (dicots)[2] The botanical authority is given to von Martius (1835) by APG for his description of the Dioscoreae family or _Ordo_,[3] while other sources[4] cite Hooker (Dioscoreales Hook.f.) for his use of the term "Dioscorales" in 1873[5] with a single family, Dioscoreae.[6] However, in his more definitive work, the _Genera plantara_ (1883), he simply placed Dioscoraceae in the Epigynae "Series".[7]
+) in Hooker's _A General System of Botany_ 1873 ]] While Lindley did not use the term "Dioscoreales", he placed the family Dioscoraceae together with four other families in what he referred to as an Alliance (the equivalent of the modern Order) called Dictyogens. He reflected the uncertainty as to the place of this Alliance by placing it as a class of its own between Endogens (monocots) and Exogens (dicots)[2] The botanical authority is given to von Martius (1835) by APG for his description of the Dioscoreae family or _Ordo_,[3] while other sources[4] cite Hooker (Dioscoreales Hook.f.) for his use of the term "Dioscorales" in 1873[5] with a single family, Dioscoreae.[6] However, in his more definitive work, the _Genera plantara_ (1883), he simply placed Dioscoraceae in the Epigynae "Series".[7]
 
 Post-Darwinian
 
@@ -60,7 +60,7 @@ Species from this order are distributed across all of the continents except Anta
 
 Ecology
 
-Bog_Asphodel_-_geograph.org.uk_-_1402752.jpg'' - bog asphodel]] The three families included in order Dioscoreales also represent three different ecological groups of plants. Dioscoreaceae contains mainly vines (_Dioscorea_) and other crawling species (_Epipetrum_). Nartheciaceae on the other hand is a family composed of herbaceous plants with a rather lily-like appearance (_Aletris_) while Burmanniaceae is entirely myco-heterotrophic group.
+'' - bog asphodel]] The three families included in order Dioscoreales also represent three different ecological groups of plants. Dioscoreaceae contains mainly vines (_Dioscorea_) and other crawling species (_Epipetrum_). Nartheciaceae on the other hand is a family composed of herbaceous plants with a rather lily-like appearance (_Aletris_) while Burmanniaceae is entirely myco-heterotrophic group.
 
 
 Uses

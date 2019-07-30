@@ -15,8 +15,6 @@ In 1973 Albion was named an All-America City by the National Civic League. It ce
 
 Since that time citizens have mobilized, with support from the Albion Community Foundation founded in 1968, and the Albion Volunteer Service Organization, founded in the 1980s with support from Albion College, to address the challenge of diminishing economic opportunity.
 
-Albion's historic brick main street—first laid in 1903 and reconstructed with hand-laid, kiln-fired clay bricks in 1993.
-
 Key to the City Honor Bestowed:
 
 -   1964: Aunt Jemima visited Albion on January 25.[4]

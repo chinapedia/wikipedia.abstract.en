@@ -5,7 +5,7 @@ Set in various locations around the globe, players assume the roles of members o
 
 Gameplay
 
-Counter-Strike_screenshot.png).]] _Counter-Strike_ is a first-person shooter game in which players join either the terrorist team, the counter-terrorist team, or become spectators. Each team attempts to complete their mission objective and/or eliminate the opposing team. Each round starts with the two teams spawning simultaneously. All players have only one life by default and start with a pistol as well as a knife.
+).]] _Counter-Strike_ is a first-person shooter game in which players join either the terrorist team, the counter-terrorist team, or become spectators. Each team attempts to complete their mission objective and/or eliminate the opposing team. Each round starts with the two teams spawning simultaneously. All players have only one life by default and start with a pistol as well as a knife.
 
 The objectives vary depending on the type of map, and these are the most usual ones:
 

@@ -64,7 +64,7 @@ The Latin translation, confirmed by Hippolytus of Rome,[22] makes Irenaeus state
 
 Yaldabaoth
 
-Lion-faced_deity.jpg's _L'antiquité expliquée et représentée en figures_ may be a depiction of the Demiurge.]]
+'s _L'antiquité expliquée et représentée en figures_ may be a depiction of the Demiurge.]]
 
 In the Ophite and Sethian systems, which have many affinities with the teachings of Valentinus, the making of the world is ascribed to a company of seven archons, whose names are given, but still more prominent is their chief, "Yaldabaoth" (also known as "Yaltabaoth" or "Ialdabaoth").
 
@@ -82,7 +82,7 @@ Under the name of _Nebro_ (rebel), Yaldabaoth is called an angel in the apocryph
 
 Names
 
-Leontocephaline-Ostia.jpg of C. Valerius Heracles and sons, dedicated 190 AD at Ostia Antica, Italy (CIMRM 312).]]
+of C. Valerius Heracles and sons, dedicated 190 AD at Ostia Antica, Italy (CIMRM 312).]]
 
 The most probable derivation of the name "Yaldabaoth" was that given by Johann Karl Ludwig Gieseler. Giesler believed the name was derived from the Aramaic _yaldā bahuth_, , meaning "Son of Chaos". However, Gilles Quispel notes:
 

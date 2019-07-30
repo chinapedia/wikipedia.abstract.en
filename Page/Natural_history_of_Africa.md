@@ -1,4 +1,4 @@
-Africa_(satellite_image).jpg Africa_map_of_Köppen_climate_classification.svg The NATURAL HISTORY OF AFRICA encompasses some of the well known megafauna of that continent.
+The NATURAL HISTORY OF AFRICA encompasses some of the well known megafauna of that continent.
 
 Natural history is the study and description of organisms and natural objects, especially their origins, evolution, and interrelationships.
 
@@ -20,7 +20,7 @@ In the swamp regions of north-east Africa papyrus and associated plants, includi
 
 Fauna
 
-P_l_Bleyenberghi.jpg The fauna again shows the effect of the characteristics of the vegetation. The open savannas are the home of large ungulates, especially antelopes, the giraffe (peculiar to Africa), zebra, buffalo, wild donkey and four species of rhinoceros; and of carnivores, such as the lion, leopard, hyena, etc. The okapi (a genus restricted to Africa) is found only in the dense forests of the Congo basin. Bears are confined to the Atlas region, wolves and foxes to North Africa. The elephant (though its range has become restricted through the attacks of hunters) is found both in the savannas and forest regions, the latter being otherwise poor in large game, though the special habitat of the chimpanzee and gorilla. Baboons and mandrills, with few exceptions, are peculiar to Africa. The single-humped camel, as a domestic animal, is especially characteristic of the northern deserts and steppes.[7]
+The fauna again shows the effect of the characteristics of the vegetation. The open savannas are the home of large ungulates, especially antelopes, the giraffe (peculiar to Africa), zebra, buffalo, wild donkey and four species of rhinoceros; and of carnivores, such as the lion, leopard, hyena, etc. The okapi (a genus restricted to Africa) is found only in the dense forests of the Congo basin. Bears are confined to the Atlas region, wolves and foxes to North Africa. The elephant (though its range has become restricted through the attacks of hunters) is found both in the savannas and forest regions, the latter being otherwise poor in large game, though the special habitat of the chimpanzee and gorilla. Baboons and mandrills, with few exceptions, are peculiar to Africa. The single-humped camel, as a domestic animal, is especially characteristic of the northern deserts and steppes.[7]
 
 The rivers in the tropical zone abound with hippopotami and crocodiles, the former entirely confined to Africa. The vast herds of game, formerly so characteristic of many parts of Africa, have much diminished with the increase of intercourse with the interior. Game reserves have, however, been established in South Africa, British Central Africa, British East Africa, Somaliland, etc., while measures for the protection of wild animals were laid down in an international convention signed in May 1900.[8]
 

@@ -29,7 +29,7 @@ A _set_ is a collection of _elements_, and may be described in many ways. One wa
 
 Some sets are _infinite_; these sets have more than _n_ elements for any integer _n_. For example, the set of natural numbers, denotable by {0, 1, 2, 3, 4, 5, ...}, has infinitely many elements, and we cannot use any normal number to give its size. Nonetheless, it turns out that infinite sets do have a well-defined notion of size (or more properly, of _cardinality_, which is the technical term for the number of elements in a set), and not all infinite sets have the same cardinality.
 
-Aplicación_2_inyectiva_sobreyectiva02.svg To understand what this means, we first examine what it _does not_ mean. For example, there are infinitely many odd integers, infinitely many even integers, and (hence) infinitely many integers overall. However, it turns out that the number of even integers, which is the same as the number of odd integers, is also the same as the number of integers overall. This is because we arrange things such that for every integer, there is a distinct even integer: ... −2→−4, −1→−2, 0→0, 1→2, 2→4, ...; or, more generally, _n_→2_n_, see picture. What we have done here is arranged the integers and the even integers into a _one-to-one correspondence_ (or _bijection_), which is a function that maps between two sets such that each element of each set corresponds to a single element in the other set.
+To understand what this means, we first examine what it _does not_ mean. For example, there are infinitely many odd integers, infinitely many even integers, and (hence) infinitely many integers overall. However, it turns out that the number of even integers, which is the same as the number of odd integers, is also the same as the number of integers overall. This is because we arrange things such that for every integer, there is a distinct even integer: ... −2→−4, −1→−2, 0→0, 1→2, 2→4, ...; or, more generally, _n_→2_n_, see picture. What we have done here is arranged the integers and the even integers into a _one-to-one correspondence_ (or _bijection_), which is a function that maps between two sets such that each element of each set corresponds to a single element in the other set.
 
 However, not all infinite sets have the same cardinality. For example, Georg Cantor (who introduced this concept) demonstrated that the real numbers cannot be put into one-to-one correspondence with the natural numbers (non-negative integers), and therefore that the set of real numbers has a greater cardinality than the set of natural numbers.
 
@@ -56,7 +56,7 @@ Consider the sets _A_ = {1, 2, 3, ... }, the set of positive integers and _B_ = 
 
 As in the earlier example, every element of A has been paired off with precisely one element of B, and vice versa. Hence they have the same size. This is an example of a set of the same size as one of its proper subsets, which is impossible for finite sets.
 
-Likewise, the set of all ordered pairs of natural numbers is countably infinite, as can be seen by following a path like the one in the picture: Pairing_natural.svg assigns one natural number to each pair of natural numbers]] The resulting mapping is like this:
+Likewise, the set of all ordered pairs of natural numbers is countably infinite, as can be seen by following a path like the one in the picture: assigns one natural number to each pair of natural numbers]] The resulting mapping is like this:
 
     0 ↔ (0,0), 1 ↔ (1,0), 2 ↔ (0,1), 3 ↔ (2,0), 4 ↔ (1,1), 5 ↔ (0,2), 6 ↔ (3,0) ....
 
@@ -103,7 +103,7 @@ THEOREM: (Assuming the axiom of countable choice) The union of countably many co
 
 For example, given countable sets A, B, C, ...
 
-Countablepath.svg Using a variant of the triangular enumeration we saw above:
+Using a variant of the triangular enumeration we saw above:
 
 -   _a_₀ maps to 0
 -   _a_₁ maps to 1

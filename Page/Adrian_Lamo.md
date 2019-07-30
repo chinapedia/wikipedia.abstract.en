@@ -24,7 +24,7 @@ He subsequently declared on the question and answer site Quora that: "We all own
 
 DNA controversy
 
-Adrian_Lamo_bus_station.jpg in 2006]] On May 9, 2006, while 18 months into a two-year probation sentence, Lamo refused to give the United States government a blood sample, which they had demanded in order to record his DNA in their CODIS system.[38] According to his attorney at the time Lamo had a religious objection to giving blood but was willing to give his DNA in another form. On June 15, 2007, lawyers for Lamo filed a motion citing the Book of Genesis as one basis for Lamo's religious opposition to the giving of blood.
+in 2006]] On May 9, 2006, while 18 months into a two-year probation sentence, Lamo refused to give the United States government a blood sample, which they had demanded in order to record his DNA in their CODIS system.[38] According to his attorney at the time Lamo had a religious objection to giving blood but was willing to give his DNA in another form. On June 15, 2007, lawyers for Lamo filed a motion citing the Book of Genesis as one basis for Lamo's religious opposition to the giving of blood.
 
 On June 20, 2007, Lamo's legal counsel reached a settlement agreement with the U.S. Department of Justice whereby Lamo would submit a cheek swab in place of the blood sample.[39]
 

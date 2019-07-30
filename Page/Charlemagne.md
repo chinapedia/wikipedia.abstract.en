@@ -9,8 +9,6 @@ Charlemagne died in 814, having ruled as emperor for almost 14 years and as king
 
 Political background
 
-Francia_at_the_death_of_Pepin_of_Heristal,_714.jpg
-
 By the 6th century, the western Germanic tribe of the Franks had been Christianised, due in considerable measure to the Catholic conversion of Clovis I. Francia, ruled by the Merovingians, was the most powerful of the kingdoms that succeeded the Western Roman Empire. Following the Battle of Tertry, the Merovingians declined into powerlessness, for which they have been dubbed the _rois fainéants_ ("do-nothing kings"). Almost all government powers were exercised by their chief officer, the mayor of the palace.
 
 In 687, Pepin of Herstal, mayor of the palace of Austrasia, ended the strife between various kings and their mayors with his victory at Tertry. He became the sole governor of the entire Frankish kingdom. Pepin was the grandson of two important figures of the Austrasian Kingdom: Saint Arnulf of Metz and Pepin of Landen. Pepin of Herstal was eventually succeeded by his son Charles, later known as Charles Martel (Charles the Hammer).
@@ -33,8 +31,6 @@ The most likely date of Charlemagne's birth is reconstructed from several source
 In 747, Easter fell on 2 April, a coincidence that likely would have been remarked upon by chroniclers but was not.[10] If Easter was being used as the beginning of the calendar year, then 2 April 747 could have been, by modern reckoning, April 748 (not on Easter). The date favoured by the preponderance of evidence[11] is 2 April 742, based on Charlemagne's age at the time of his death.[12] This date supports the concept that Charlemagne was technically an illegitimate child, although that is not mentioned by Einhardin either since he was born out of wedlock; Pepin and Bertrada were bound by a private contract or Friedelehe[13] at the time of his birth, but did not marry until 744.[14]
 
 Place of birth
-
-Belgian_Railway_Line_37.png
 
 Charlemagne's exact birthplace is unknown, although historians have suggested Aachen in modern-day Germany, and Liège (Herstal) in present-day Belgium as possible locations.[15] Aachen and Liège are close to the region whence the Merovingian and Carolingian families originated. Other cities have been suggested, including Düren, Gauting, Mürlenbach,[16] Quierzy, and Prüm. No definitive evidence resolves the question.
 
@@ -66,8 +62,6 @@ At about 660, the Duchy of Vasconia united with the Duchy of Aquitaine to form a
 
 Acquisition of Aquitaine by the Carolingians
 
-Al-Andalus732.jpg
-
 The Latin chronicles of the end of Visigothic Hispania omit many details, such as identification of characters, filling in the gaps and reconciliation of numerous contradictions.[22] Muslim sources, however, present a more coherent view, such as in the _Ta'rikh iftitah al-Andalus_ ("History of the Conquest of al-Andalus") by Ibn al-Qūṭiyya ("the son of the Gothic woman", referring to the granddaughter of Wittiza, the last Visigothic king of a united Hispania, who married a Moor). Ibn al-Qūṭiyya, who had another, much longer name, must have been relying to some degree on family oral tradition.
 
 According to Ibn al-Qūṭiyya Wittiza, the last Visigothic king of a united Hispania died before his three sons, Almund, Romulo, and Ardabast reached maturity. Their mother was queen regent at Toledo, but Roderic, army chief of staff, staged a rebellion, capturing Córdoba. He chose to impose a joint rule over distinct jurisdictions on the true heirs. Evidence of a division of some sort can be found in the distribution of coins imprinted with the name of each king and in the king lists. Wittiza was succeeded by Roderic, who reigned for seven and a half years, followed by Achila (Aquila), who reigned three and a half years. If the reigns of both terminated with the incursion of the Saracens, then Roderic appears to have reigned a few years before the majority of Achila. The latter's kingdom is securely placed to the northeast, while Roderic seems to have taken the rest, notably modern Portugal.
@@ -93,7 +87,7 @@ Italian campaigns
 
 Conquest of the Lombard kingdom
 
-Charlemagne_and_Pope_Adrian_I.jpg was threatened by invaders, the king rushed to Rome to provide assistance. Shown here, the pope asks Charlemagne for help at a meeting near Rome.]]
+was threatened by invaders, the king rushed to Rome to provide assistance. Shown here, the pope asks Charlemagne for help at a meeting near Rome.]]
 
 At his succession in 772, Pope Adrian I demanded the return of certain cities in the former exarchate of Ravenna in accordance with a promise at the succession of Desiderius. Instead, Desiderius took over certain papal cities and invaded the Pentapolis, heading for Rome. Adrian sent ambassadors to Charlemagne in autumn requesting he enforce the policies of his father, Pepin. Desiderius sent his own ambassadors denying the pope's charges. The ambassadors met at Thionville, and Charlemagne upheld the pope's side. Charlemagne demanded what the pope had requested, but Desiderius swore never to comply. Charlemagne and his uncle Bernard crossed the Alps in 773 and chased the Lombards back to Pavia, which they then besieged.[25] Charlemagne temporarily left the siege to deal with Adelchis, son of Desiderius, who was raising an army at Verona. The young prince was chased to the Adriatic littoral and fled to Constantinople to plead for assistance from Constantine V, who was waging war with Bulgaria.[26]
 
@@ -108,7 +102,7 @@ In 787, Charlemagne directed his attention towards the Duchy of Benevento, where
 
 Children
 
-Karl_der_Grosse_-_Pippin_der_Bucklige.jpg (10th-century copy of 9th-century original)]]
+(10th-century copy of 9th-century original)]]
 
 During the first peace of any substantial length (780–782), Charles began to appoint his sons to positions of authority. In 781, he made his two youngest sons kings, crowned by the Pope. The elder of these two, Carloman, was made the king of Italy, taking the Iron Crown that his father had first worn in 774, and in the same ceremony was renamed "Pepin"[28] (not to be confused with Charlemagne's eldest, possibly illegitimate son, Pepin the Hunchback). The younger of the two, Louis, became King of Aquitaine. Charlemagne ordered Pepin and Louis to be raised in the customs of their kingdoms, and he gave their regents some control of their subkingdoms, but kept the real power, though he intended his sons to inherit their realms. He did not tolerate insubordination in his sons: in 792, he banished Pepin the Hunchback to the monastery of Prüm, because the young man had joined a rebellion against him.
 
@@ -116,7 +110,7 @@ Charles was determined to have his children educated, including his daughters, a
 
 The sons fought many wars on behalf of their father. Charles was mostly preoccupied with the Bretons, whose border he shared and who insurrected on at least two occasions and were easily put down. He also fought the Saxons on multiple occasions. In 805 and 806, he was sent into the Böhmerwald (modern Bohemia) to deal with the Slavs living there (Bohemian tribes, ancestors of the modern Czechs). He subjected them to Frankish authority and devastated the valley of the Elbe, forcing tribute from them. Pippin had to hold the Avar and Beneventan borders and fought the Slavs to his north. He was uniquely poised to fight the Byzantine Empire when that conflict arose after Charlemagne's imperial coronation and a Venetian rebellion. Finally, Louis was in charge of the Spanish March and fought the Duke of Benevento in southern Italy on at least one occasion. He took Barcelona in a great siege in 797.
 
-Charlemagne_et_Louis_le_Pieux.jpg]]
+]]
 
 Charlemagne kept his daughters at home with him and refused to allow them to contract sacramental marriages (though he originally condoned an engagement between his eldest daughter Rotrude and Constantine VI of Byzantium, this engagement was annulled when Rotrude was 11).[31] Charlemagne's opposition to his daughters' marriages may possibly have intended to prevent the creation of cadet branches of the family to challenge the main line, as had been the case with Tassilo of Bavaria. However, he tolerated their extramarital relationships, even rewarding their common-law husbands and treasuring the illegitimate grandchildren they produced for him. He also, apparently, refused to believe stories of their wild behaviour. After his death the surviving daughters were banished from the court by their brother, the pious Louis, to take up residence in the convents they had been bequeathed by their father. At least one of them, Bertha, had a recognised relationship, if not a marriage, with Angilbert, a member of Charlemagne's court circle.
 
@@ -141,7 +135,7 @@ In 778, he led the Neustrian army across the Western Pyrenees, while the Austras
 
 Contact with the Saracens
 
-Harun-Charlemagne.jpg receiving a delegation of Charlemagne in Baghdad, by Julius Köckert (1864)]]
+receiving a delegation of Charlemagne in Baghdad, by Julius Köckert (1864)]]
 
 The conquest of Italy brought Charlemagne in contact with the Saracens who, at the time, controlled the Mediterranean. Charlemagne's eldest son, Pepin the Hunchback, was much occupied with Saracens in Italy. Charlemagne conquered Corsica and Sardinia at an unknown date and in 799 the Balearic Islands. The islands were often attacked by Saracen pirates, but the counts of Genoa and Tuscany (Boniface) controlled them with large fleets until the end of Charlemagne's reign. Charlemagne even had contact with the caliphal court in Baghdad. In 797 (or possibly 801), the caliph of Baghdad, Harun al-Rashid, presented Charlemagne with an Asian elephant named Abul-Abbas and a clock.[35]
 
@@ -156,8 +150,6 @@ Eastern campaigns
 
 Saxon Wars
 
-Frankish_Empire_481_to_814-en.svg
-
 Charlemagne was engaged in almost constant warfare throughout his reign,[36] often at the head of his elite _scara_ bodyguard squadrons. In the Saxon Wars, spanning thirty years and eighteen battles, he conquered Saxonia and proceeded to convert it to Christianity.
 
 The Germanic Saxons were divided into four subgroups in four regions. Nearest to Austrasia was Westphalia and furthest away was Eastphalia. Between them was Engria and north of these three, at the base of the Jutland peninsula, was Nordalbingia.
@@ -168,7 +160,7 @@ Following his subjugation of the Dukes of Friuli and Spoleto, Charlemagne return
 
 In the summer of 779, he again invaded Saxony and reconquered Eastphalia, Engria and Westphalia. At a diet near Lippe, he divided the land into missionary districts and himself assisted in several mass baptisms (780). He then returned to Italy and, for the first time, the Saxons did not immediately revolt. Saxony was peaceful from 780 to 782.
 
-Ary_Scheffer,_Charlemagne_reçoit_la_soumission_de_Widukind_à_Paderborn,_(1840).jpg at Paderborn in 785, painted c. 1840 by Ary Scheffer]]
+at Paderborn in 785, painted c. 1840 by Ary Scheffer]]
 
 He returned to Saxony in 782 and instituted a code of law and appointed counts, both Saxon and Frank. The laws were draconian on religious issues; for example, the _Capitulatio de partibus Saxoniae_ prescribed death to Saxon pagans who refused to convert to Christianity. This led to renewed conflict. That year, in autumn, Widukind returned and led a new revolt. In response, at Verden in Lower Saxony, Charlemagne is recorded as having ordered the execution of 4,500 Saxon prisoners by beheading, known as the Massacre of Verden ("Verdener Blutgericht"). The killings triggered three years of renewed bloody warfare. During this war, the East Frisians between the Lauwers and the Weser joined the Saxons in revolt and were finally subdued.[38] The war ended with Widukind accepting baptism.[39] The Frisians afterwards asked for missionaries to be sent to them and a bishop of their own nation, Ludger, was sent. Charlemagne also promulgated a law code, the _Lex Frisonum_, as he did for most subject peoples.[40]
 
@@ -176,7 +168,7 @@ Thereafter, the Saxons maintained the peace for seven years, but in 792 Westphal
 
 Submission of Bavaria
 
-Charlemagne_Agostino_Cornacchini_Vatican_2.jpg (1725), St. Peter's Basilica, Vatican]]
+(1725), St. Peter's Basilica, Vatican]]
 
 By 774, Charlemagne had invaded the Kingdom of Lombardy, and he later annexed the Lombardian territories and assumed its crown, placing the Papal States under Frankish protection.[41] The Duchy of Spoleto south of Rome was acquired in 774, while in the central western parts of Europe, the Duchy of Bavaria was absorbed and the Bavarian policy continued of establishing tributary marches, (borders protected in return for tribute or taxes) among the Slavic Serbs and Czechs. The remaining power confronting the Franks in the east were the Avars. However, Charlemagne acquired other Slavic areas, including Bohemia, Moravia, Austria and Croatia.[42]
 
@@ -198,8 +190,6 @@ In 789, in recognition of his new pagan neighbours, the Slavs, Charlemagne march
 
 Southeast Slav expeditions
 
-Europe_around_800.gif
-
 When Charlemagne incorporated much of Central Europe, he brought the Frankish state face to face with the Avars and Slavs in the southeast.[48] The most southeast Frankish neighbours were Croats, who settled in Pannonian Croatia and Dalmatian Croatia. While fighting the Avars, the Franks had called for their support.[49] During the 790s, he won a major victory over them in 796.[50] Pannonian Croat Duke Vojnomir of Pannonian Croatia aided Charlemagne, and the Franks made themselves overlords over the Croats of northern Dalmatia, Slavonia and Pannonia.[51]
 
 The Frankish commander Eric of Friuli wanted to extend his dominion by conquering the Littoral Croat Duchy. During that time, Dalmatian Croatia was ruled by Duke Višeslav of Croatia. In the Battle of Trsat, the forces of Eric fled their positions and were routed by the forces of Višeslav.[52] Eric was among those killed which was a great blow for the Carolingian Empire.[53][54][55]
@@ -211,9 +201,9 @@ Imperium
 
 Coronation
 
-Friedrich_Kaulbach_-_Krönung_Karls_des_Großen.jpg, 1861]]
+, 1861]]
 
-In 799, Pope Leo III had been assaulted by some of the Romans, who tried to put out his eyes and tear out his tongue.[56] Leo escaped and fled to Charlemagne at Paderborn.[57] Charlemagne, advised by scholar Alcuin, travelled to Rome, in November 800 and held a synod. On 23 December, Leo swore an oath of innocence. At Mass, on Christmas Day (25 December), when Charlemagne knelt at the altar to pray, the Pope crowned him _Imperator Romanorum_ ("Emperor of the Romans") in Saint Peter's Basilica. In so doing, the Pope rejected the legitimacy of Empress Irene of Constantinople: Karel_Leo.jpg Charlemagne's coronation as Emperor, though intended to represent the continuation of the unbroken line of Emperors from Augustus to Constantine VI, had the effect of setting up two separate (and often opposing) Empires and two separate claims to imperial authority. For centuries to come, the Emperors of both West and East would make competing claims of sovereignty over the whole.
+In 799, Pope Leo III had been assaulted by some of the Romans, who tried to put out his eyes and tear out his tongue.[56] Leo escaped and fled to Charlemagne at Paderborn.[57] Charlemagne, advised by scholar Alcuin, travelled to Rome, in November 800 and held a synod. On 23 December, Leo swore an oath of innocence. At Mass, on Christmas Day (25 December), when Charlemagne knelt at the altar to pray, the Pope crowned him _Imperator Romanorum_ ("Emperor of the Romans") in Saint Peter's Basilica. In so doing, the Pope rejected the legitimacy of Empress Irene of Constantinople: Charlemagne's coronation as Emperor, though intended to represent the continuation of the unbroken line of Emperors from Augustus to Constantine VI, had the effect of setting up two separate (and often opposing) Empires and two separate claims to imperial authority. For centuries to come, the Emperors of both West and East would make competing claims of sovereignty over the whole.
 
 Einhard says that Charlemagne was ignorant of the Pope's intent and did not want any such coronation:
 
@@ -221,7 +211,7 @@ A number of modern scholars, however,[58] suggest that Charlemagne was indeed aw
 
 Debate
 
-Aachener_Dom_BW_2016-07-09_13-49-15.jpg]]
+]]
 
 Historians have debated for centuries whether Charlemagne was aware before the coronation of the Pope's intention to crown him Emperor (Charlemagne declared that he would not have entered Saint Peter's had he known, according to chapter twenty-eight of Einhard's _Vita Karoli Magni_),[60] but that debate obscured the more significant question of _why_ the Pope granted the title and why Charlemagne accepted it.
 
@@ -231,9 +221,9 @@ Furthermore, the new title—carrying with it the risk that the new emperor woul
 
 For both the Pope and Charlemagne, the Roman Empire remained a significant power in European politics at this time. The Byzantine Empire, based in Constantinople, continued to hold a substantial portion of Italy, with borders not far south of Rome. Charles' sitting in judgment of the Pope could be seen as usurping the prerogatives of the Emperor in Constantinople:
 
-Julius_Schnorr_von_Carolsfeld_(German_-_The_Coronation_of_Charlemagne_-_Google_Art_Project.jpg]] For the Pope, then, there was "no living Emperor at that time" though Henri Pirenne disputes this saying that the coronation "was not in any sense explained by the fact that at this moment a woman was reigning in Constantinople". Nonetheless, the Pope took the extraordinary step of creating one. The papacy had since 727 been in conflict with Irene's predecessors in Constantinople over a number of issues, chiefly the continued Byzantine adherence to the doctrine of iconoclasm, the destruction of Christian images; while from 750, the secular power of the Byzantine Empire in central Italy had been nullified.
+]] For the Pope, then, there was "no living Emperor at that time" though Henri Pirenne disputes this saying that the coronation "was not in any sense explained by the fact that at this moment a woman was reigning in Constantinople". Nonetheless, the Pope took the extraordinary step of creating one. The papacy had since 727 been in conflict with Irene's predecessors in Constantinople over a number of issues, chiefly the continued Byzantine adherence to the doctrine of iconoclasm, the destruction of Christian images; while from 750, the secular power of the Byzantine Empire in central Italy had been nullified.
 
-Couronnement_d'un_prince_-_Sacramentaire_de_Charles_le_Chauve_Lat1141_f2v.jpg (about 870)]]
+(about 870)]]
 
 By bestowing the Imperial crown upon Charlemagne, the Pope arrogated to himself "the right to appoint ... the Emperor of the Romans, ... establishing the imperial crown as his own personal gift but simultaneously granting himself implicit superiority over the Emperor whom he had created." And "because the Byzantines had proved so unsatisfactory from every point of view—political, military and doctrinal—he would select a westerner: the one man who by his wisdom and statesmanship and the vastness of his dominions ... stood out head and shoulders above his contemporaries."[61]
 
@@ -243,7 +233,7 @@ Alcuin writes hopefully in his letters of an _Imperium Christianum_ ("Christian 
 
 What is known, from the Byzantine chronicler Theophanes, is that Charlemagne's reaction to his coronation was to take the initial steps towards securing the Constantinopolitan throne by sending envoys of marriage to Irene, and that Irene reacted somewhat favourably to them.
 
-Raphael_Charlemagne.jpg'', by assistants of Raphael, c. 1516–1517]]
+'', by assistants of Raphael, c. 1516–1517]]
 
 It is important to distinguish between the universalist and localist conceptions of the empire, which remain controversial among historians. According to the former, the empire was a universal monarchy, a "commonwealth of the whole world, whose sublime unity transcended every minor distinction"; and the emperor "was entitled to the obedience of Christendom". According to the latter, the emperor had no ambition for universal dominion; his realm was limited in the same way as that of every other ruler, and when he made more far-reaching claims his object was normally to ward off the attacks either of the Pope or of the Byzantine emperor. According to this view, also, the origin of the empire is to be explained by specific local circumstances rather than by overarching theories.[63]
 
@@ -256,8 +246,6 @@ Charlemagne used these circumstances to claim that he was the renewer of the Rom
 The title of Emperor remained in the Carolingian family for years to come, but divisions of territory and in-fighting over supremacy of the Frankish state weakened its significance. The papacy itself never forgot the title nor abandoned the right to bestow it. When the family of Charles ceased to produce worthy heirs, the Pope gladly crowned whichever Italian magnate could best protect him from his local enemies. The empire would remain in continuous existence for nearly a millennium, as the Holy Roman Empire, a true imperial successor to Charles.
 
 Imperial diplomacy
-
-Europe_in_814,_Charlemagne,_Krum,_Nicephorus_I.png
 
 The iconoclasm of the Byzantine Isaurian Dynasty was endorsed by the Franks.[66] The Second Council of Nicaea reintroduced the veneration of icons under Empress Irene. The council was not recognised by Charlemagne since no Frankish emissaries had been invited, even though Charlemagne ruled more than three provinces of the classical Roman empire and was considered equal in rank to the Byzantine emperor. And while the Pope supported the reintroduction of the iconic veneration, he politically digressed from Byzantium.[67] He certainly desired to increase the influence of the papacy, to honour his saviour Charlemagne, and to solve the constitutional issues then most troubling to European jurists in an era when Rome was not in the hands of an emperor. Thus, Charlemagne's assumption of the imperial title was not a usurpation in the eyes of the Franks or Italians. It was, however, seen as such in Byzantium, where it was protested by Irene and her successor Nikephoros I—neither of whom had any great effect in enforcing their protests.
 
@@ -273,11 +261,11 @@ Godfred invaded Frisia, joked of visiting Aachen, but was murdered before he cou
 
 Death
 
-Shroud_of_Charlemagne_manufactured_in_Constantinople_814.jpg of Charlemagne. It represents a quadriga and was manufactured in Constantinople. Musée de Cluny, Paris.]] AachenerDomSarg.jpg of Charlemagne]]
+of Charlemagne. It represents a quadriga and was manufactured in Constantinople. Musée de Cluny, Paris.]] of Charlemagne]]
 
 In 813, Charlemagne called Louis the Pious, king of Aquitaine, his only surviving legitimate son, to his court. There Charlemagne crowned his son as co-emperor and sent him back to Aquitaine. He then spent the autumn hunting before returning to Aachen on 1 November. In January, he fell ill with pleurisy.[70] In deep depression (mostly because many of his plans were not yet realised), he took to his bed on 21 January and as Einhard tells it:
 
-Karlsschrein_front_side_left.jpg gold and silver casket for Charlemagne, the Karlsschrein]] He was buried that same day, in Aachen Cathedral, although the cold weather and the nature of his illness made such a hurried burial unnecessary. The earliest surviving _planctus_, the _Planctus de obitu Karoli_, was composed by a monk of Bobbio, which he had patronised.[71] A later story, told by Otho of Lomello, Count of the Palace at Aachen in the time of Emperor Otto III, would claim that he and Otto had discovered Charlemagne's tomb: Charlemagne, they claimed, was seated upon a throne, wearing a crown and holding a sceptre, his flesh almost entirely incorrupt. In 1165, Emperor Frederick I re-opened the tomb again and placed the emperor in a sarcophagus beneath the floor of the cathedral.[72] In 1215 Emperor Frederick II re-interred him in a casket made of gold and silver.
+gold and silver casket for Charlemagne, the Karlsschrein]] He was buried that same day, in Aachen Cathedral, although the cold weather and the nature of his illness made such a hurried burial unnecessary. The earliest surviving _planctus_, the _Planctus de obitu Karoli_, was composed by a monk of Bobbio, which he had patronised.[71] A later story, told by Otho of Lomello, Count of the Palace at Aachen in the time of Emperor Otto III, would claim that he and Otto had discovered Charlemagne's tomb: Charlemagne, they claimed, was seated upon a throne, wearing a crown and holding a sceptre, his flesh almost entirely incorrupt. In 1165, Emperor Frederick I re-opened the tomb again and placed the emperor in a sarcophagus beneath the floor of the cathedral.[72] In 1215 Emperor Frederick II re-interred him in a casket made of gold and silver.
 
 Charlemagne's death emotionally affected many of his subjects, particularly those of the literary clique who had surrounded him at Aachen. An anonymous monk of Bobbio lamented:
 
@@ -298,13 +286,13 @@ Horses were used extensively by the Frankish military because they provided a qu
 
 Economic and monetary reforms
 
-Karldergrossesignatur.svg of Charlemagne, including , from the subscription of a royal diploma: (monogr.: KAROLVS) ]]
+of Charlemagne, including , from the subscription of a royal diploma: (monogr.: KAROLVS) ]]
 
 Charlemagne had an important role in determining Europe's immediate economic future. Pursuing his father's reforms, Charlemagne abolished the monetary system based on the gold . Instead, he and the Anglo-Saxon King Offa of Mercia took up Pippin's system for pragmatic reasons, notably a shortage of the metal.
 
 The gold shortage was a direct consequence of the conclusion of peace with Byzantium, which resulted in ceding Venice and Sicily to the East and losing their trade routes to Africa. The resulting standardisation economically harmonised and unified the complex array of currencies that had been in use at the commencement of his reign, thus simplifying trade and commerce.
 
-Charlemagne_denier_Tours_793_to_812.jpg, 793–812]] Charlemagne established a new standard, the (from the Latin , the modern pound), which was based upon a pound of silver—a unit of both money and weight—worth 20 sous (from the Latin [which was primarily an accounting device and never actually minted], the modern shilling) or 240 (from the Latin , the modern penny). During this period, the and the were counting units; only the was a coin of the realm.
+, 793–812]] Charlemagne established a new standard, the (from the Latin , the modern pound), which was based upon a pound of silver—a unit of both money and weight—worth 20 sous (from the Latin [which was primarily an accounting device and never actually minted], the modern shilling) or 240 (from the Latin , the modern penny). During this period, the and the were counting units; only the was a coin of the realm.
 
 Charlemagne instituted principles for accounting practice by means of the Capitulare de villis of 802, which laid down strict rules for the way in which incomes and expenses were to be recorded.
 
@@ -320,7 +308,7 @@ Education reforms
 
 Part of Charlemagne's success as a warrior, an administrator and ruler can be traced to his admiration for learning and education. His reign is often referred to as the Carolingian Renaissance because of the flowering of scholarship, literature, art and architecture that characterise it. Charlemagne came into contact with the culture and learning of other countries (especially Moorish Spain, Anglo-Saxon England,[84] and Lombard Italy) due to his vast conquests. He greatly increased the provision of monastic schools and scriptoria (centres for book-copying) in Francia.
 
-Privilegio_di_carlo_magno_alla_chiesa_di_modena,_782_(facsimile).JPG (containing the monogram of Charlemagne), dated 782]] Most of the surviving works of classical Latin were copied and preserved by Carolingian scholars. Indeed, the earliest manuscripts available for many ancient texts are Carolingian. It is almost certain that a text which survived to the Carolingian age survives still.
+(containing the monogram of Charlemagne), dated 782]] Most of the surviving works of classical Latin were copied and preserved by Carolingian scholars. Indeed, the earliest manuscripts available for many ancient texts are Carolingian. It is almost certain that a text which survived to the Carolingian age survives still.
 
 The pan-European nature of Charlemagne's influence is indicated by the origins of many of the men who worked for him: Alcuin, an Anglo-Saxon from York; Theodulf, a Visigoth, probably from Septimania; Paul the Deacon, Lombard; Italians Peter of Pisa and Paulinus of Aquileia; and Franks Angilbert, Angilram, Einhard and Waldo of Reichenau.
 
@@ -332,7 +320,7 @@ In 800, Charlemagne enlarged the hostel at the Muristan in Jerusalem and added a
 
 Church reforms
 
-Aachen_Cathedral_top_floor.jpg at Aachen Cathedral]]
+at Aachen Cathedral]]
 
 Charlemagne expanded the reform Church's programme unlike his father, Pippin, and uncle, Carloman. The deepening of the spiritual life was later to be seen as central to public policy and royal governance. His reform focused on strengthening the church's power structure, improving clergy's skill and moral quality, standardising liturgical practices, improvements on the basic tenets of the faith and the rooting out of paganism. His authority extended over church and state. He could discipline clerics, control ecclesiastical property and define orthodox doctrine. Despite the harsh legislation and sudden change, he had developed support from clergy who approved his desire to deepen the piety and morals of his subjects.[87]
 
@@ -340,7 +328,7 @@ In 809–810, Charlemagne called a church council in Aachen, which confirmed the
 
 Writing reforms
 
-Codexaureus_04.jpg of Charlemagne's reign]]
+of Charlemagne's reign]]
 
 During Charles' reign, the Roman half uncial script and its cursive version, which had given rise to various continental minuscule scripts, were combined with features from the insular scripts in use in Irish and English monasteries. Carolingian minuscule was created partly under the patronage of Charlemagne. Alcuin, who ran the palace school and scriptorium at Aachen, was probably a chief influence.
 
@@ -361,7 +349,7 @@ Personality
 
 Manner
 
-StrasbourgCath_BasCoteN_09.JPG]]
+]]
 
 Einhard tells in his twenty-fourth chapter: Charlemagne threw grand banquets and feasts for special occasions such as religious holidays and four of his weddings. When he was not working, he loved Christian books, horseback riding, swimming, bathing in natural hot springs with his friends and family, and hunting.[94] Franks were well known for horsemanship and hunting skills.[95] Charles was a light sleeper and would stay in his bed chambers for entire days at a time due to restless nights. During these days, he would not get out of bed when a quarrel occurred in his kingdom, instead summoning all members of the situation into his bedroom to be given orders. Einhard tells again in the twenty-fourth chapter: "In summer after the midday meal, he would eat some fruit, drain a single cup, put off his clothes and shoes, just as he did for the night, and rest for two or three hours. He was in the habit of awaking and rising from bed four or five times during the night."[96]
 
@@ -375,7 +363,7 @@ The largely fictional account of Charlemagne's Iberian campaigns by Pseudo-Turpi
 
 Appearance
 
-Charles_Marville,_Hôtel_Carnavalet,_statue_of_Charlemagne,_ca._1853–70.jpg thought to represent Charlemagne (from Metz Cathedral, now in the Louvre)]]
+thought to represent Charlemagne (from Metz Cathedral, now in the Louvre)]]
 
 Charlemagne's personal appearance is known from a good description by Einhard after his death in the biography _Vita Karoli Magni_. Einhard states:
 
@@ -383,7 +371,7 @@ The physical portrait provided by Einhard is confirmed by contemporary depiction
 
 Dress
 
-Charles_Ier_le_Grand_ou_Charlemagne.jpg]]
+]]
 
 Charlemagne wore the traditional costume of the Frankish people, described by Einhard thus:
 
@@ -450,7 +438,7 @@ Charlemagne had eighteen children with eight of his ten known wives or concubine
 
 Name
 
-Aachen_Domschatz_Bueste1.jpg, located at Aachen Cathedral Treasury]] Charlemagne_arm_at_Cathedral_Treasury_Aachen_Germany.jpg
+, located at Aachen Cathedral Treasury]]
 
 He was named _Charles_ in French and English, _Carolus_ in Latin, after his grandfather, Charles Martel. Later Old French historians dubbed him _Charles le Magne_ (Charles the Great),[105] becoming Charlemagne in English after the Norman conquest of England. The epithet Carolus Magnus was widely used, leading to numerous translations into many languages of Europe.
 
@@ -476,7 +464,7 @@ In the _Divine Comedy_, the spirit of Charlemagne appears to Dante in the Heaven
 
 Modern era
 
-Dürer_karl_der_grosse.jpg, 1511–1513, Germanisches Nationalmuseum]]
+, 1511–1513, Germanisches Nationalmuseum]]
 
 Charlemagne appears in _Adelchi_, the second tragedy by Italian writer Alessandro Manzoni, first published in 1822.[115]
 

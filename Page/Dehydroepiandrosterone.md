@@ -61,7 +61,7 @@ DHEA has been found to competitively inhibit TRPV1.[60]
 
 Biochemistry
 
-Steroidogenesis.svg, showing DHEA at left among the androgens.[61] ]]
+, showing DHEA at left among the androgens.[61] ]]
 
 Biosynthesis
 

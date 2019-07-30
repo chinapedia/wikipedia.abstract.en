@@ -5,21 +5,21 @@ To date, he is the last monarch of Spain to have died whilst on the throne.
 
 Political background, early life and paternity
 
-Alfonso_XII_con_el_duque_de_Sesto.jpg]] Alfonso was born in Madrid as the eldest son of Queen Isabella II. Officially, his father was her husband, Infante Francis. Alfonso's biological paternity is uncertain: there is speculation that his biological father may have been Enrique Puigmoltó y Mayans (a captain of the guard).[1] These rumours were used as political propaganda against Alfonso by the Carlists.
+]] Alfonso was born in Madrid as the eldest son of Queen Isabella II. Officially, his father was her husband, Infante Francis. Alfonso's biological paternity is uncertain: there is speculation that his biological father may have been Enrique Puigmoltó y Mayans (a captain of the guard).[1] These rumours were used as political propaganda against Alfonso by the Carlists.
 
 His mother's accession created the second cause of instability, which was the Carlist Wars. The supporters of the Count of Molina as king of Spain rose to have him enthroned. In addition, within the context of the post-Napoleonic restorations and revolutions which engulfed the West both in Europe and the Americas, both the Carlistas as well as the Isabelino conservatives were opposed to the new Napoleonic constitutional system. Much like in Britain, which subtracted itself from the liberal constitutional process, Spanish conservatives wanted to continue with the Traditional Spanish Organic Laws such as the Fuero Juzgo, the Novísima Recopilación and the Partidas of Alfonso X. This led to the third cause of instability of note, the "Independence of the American Kingdoms", recognized between 1823 and 1850.
 
 
 A split nation
 
-When Queen Isabella II and her husband were forced to leave Spain by the Revolution of 1868, Alfonso accompanied them to Paris. From there, he was sent to the Theresianum at Vienna to continue his studies. On 25 June 1870, he was recalled to Paris, where his mother abdicated in his favour, in the presence of a number of Spanish nobles who had tied their fortunes to that of the exiled queen. He assumed the name Alfonso XII, for although no King of united Spain had borne the name "Alfonso XI", the Spanish monarchy was regarded as continuous with the more ancient monarchy represented by the 11 kings of Asturias, León and Castile also named Alfonso.[2] Royal_Monogram_of_Alfonso_XII_of_Spain.svg of Alfonso XII]]
+When Queen Isabella II and her husband were forced to leave Spain by the Revolution of 1868, Alfonso accompanied them to Paris. From there, he was sent to the Theresianum at Vienna to continue his studies. On 25 June 1870, he was recalled to Paris, where his mother abdicated in his favour, in the presence of a number of Spanish nobles who had tied their fortunes to that of the exiled queen. He assumed the name Alfonso XII, for although no King of united Spain had borne the name "Alfonso XI", the Spanish monarchy was regarded as continuous with the more ancient monarchy represented by the 11 kings of Asturias, León and Castile also named Alfonso.[2] of Alfonso XII]]
 
 
 The Republic
 
 Following Amadeo's abandonment in 1873, Parliament established the Federal Republic (including the territories of Cuba, Puerto Rico and the Pacific Archipelagos). The first act of President Estanislao Figueras was to extend the Abolition Act to Puerto Rico. Cuban slaves would have to wait until 1889.
 
-Homburg_Castle_Monarchs.jpg in 1883. Edward VII, Wilhelm I and Carlos I can be seen amongst others]]
+in 1883. Edward VII, Wilhelm I and Carlos I can be seen amongst others]]
 
 But the republicans were not in agreement either, and they had to contend with the War in Cuba, and Muslim uprisings in Spanish Morocco. In the midst of the crisis during and after the First Spanish Republic, the Carlist party made itself strong in areas with claims over their national and institutional specificity, such as Catalonia or the Basque districts. By 1872, the Third Carlist War erupted. This unrest led to the creation of a group in favor of the Bourbon restoration, made by some sectors of the conservatives led by Canovas del Castillo.
 
@@ -30,7 +30,7 @@ On 1 December 1874, Alfonso issued the Sandhurst Manifesto, where he set the ide
 
 Return from exile
 
-Alfonso_XII_King.JPG of the Spanish Navy]] 5_Pesetas_à_l'effigie_d'Alphonse_XII,1875.jpg Within a few days after Canovas del Castillo took power as Premier, the new king, proclaimed on 29 December 1874, arrived at Madrid, passing through Barcelona and Valencia and was acclaimed everywhere (1875). In 1876, a vigorous campaign against the Carlists, in which the young king took part, resulted in the defeat of Don Carlos and the Duke's abandonment of the struggle.[4]
+of the Spanish Navy]] Within a few days after Canovas del Castillo took power as Premier, the new king, proclaimed on 29 December 1874, arrived at Madrid, passing through Barcelona and Valencia and was acclaimed everywhere (1875). In 1876, a vigorous campaign against the Carlists, in which the young king took part, resulted in the defeat of Don Carlos and the Duke's abandonment of the struggle.[4]
 
 Initially led by Canovas del Castillo as moderate prime minister, what was thought at one time as a coup aimed at placing the military in the political-administrative positions of power, in reality ushered in a civilian regime that lasted until Primo de Rivera's 1923 coup d'état. Cánovas was the real architect of the new regime of the Restoration.
 
@@ -45,7 +45,7 @@ On 23 January 1878 at the Basilica of Atocha in Madrid, Alfonso married his firs
 
 Second marriage and rule
 
-FOTOGRAFIA_DEL_REY_ALFONSO_XII,_LA_REINA_M._CRISTINA_Y_LA_PRINCESA_DE_ASTURIAS_(1880).jpg with the Princess of Asturias in 1880]] On 29 November 1879 at the Basilica of Atocha in Madrid, Alfonso married a much more distant relative, Maria Christina of Austria, daughter of Archduke Karl Ferdinand and Archduchess Elisabeth of Austria. During the honeymoon, a pastry cook named Otero fired at the young sovereign and his wife as they were driving in Madrid.[6]
+with the Princess of Asturias in 1880]] On 29 November 1879 at the Basilica of Atocha in Madrid, Alfonso married a much more distant relative, Maria Christina of Austria, daughter of Archduke Karl Ferdinand and Archduchess Elisabeth of Austria. During the honeymoon, a pastry cook named Otero fired at the young sovereign and his wife as they were driving in Madrid.[6]
 
 The children of this marriage were:
 
@@ -63,7 +63,7 @@ In 1881 Alfonso refused to sanction a law by which the ministers were to remain 
 
 Death and impact
 
-Death_of_King_Alfonso_XII_of_Spain.jpg'']] Monumento_a_Alfonso_XII_de_España_en_los_Jardines_del_Retiro_-_04.jpg, erected in 1922 in the Buen Retiro Park, Madrid]] In November 1885, Alfonso died, just short of his 28th birthday, at the Royal Palace of El Pardo near Madrid. He had been suffering from tuberculosis, but the immediate cause of his death was a recurrence of dysentery.[9]
+'']] , erected in 1922 in the Buen Retiro Park, Madrid]] In November 1885, Alfonso died, just short of his 28th birthday, at the Royal Palace of El Pardo near Madrid. He had been suffering from tuberculosis, but the immediate cause of his death was a recurrence of dysentery.[9]
 
 In 1902, his widow Maria Cristina initiated a national contest to build a monument in memory of Alfonso. The winning design, by José Grases Riera, was erected in an artificial lake in Madrid's Parque del Buen Retiro in 1922.
 

@@ -54,7 +54,7 @@ _Antidisestablishmentarianism_ is the longest common example of a word formed by
 
 Technical terms
 
-Parastratiosphecomyia_sphecomyioides_Brunetti_(lectotype)_-_ZooKeys-238-001-g002-2.jpeg'']] A number of scientific naming schemes can be used to generate arbitrarily long words.
+'']] A number of scientific naming schemes can be used to generate arbitrarily long words.
 
 The IUPAC nomenclature for organic chemical compounds is open-ended, giving rise to the 189,819-letter chemical name _Methionylthreonylthreonyl...isoleucine_ for the protein also known as titin, which is involved in striated muscle formation. In nature, DNA molecules can be much bigger than protein molecules and therefore potentially be referred to with much longer chemical names. For example, the wheat chromosome 3B contains almost 1 billion base pairs,[20] so the sequence of one of its strands, if written out in full like _Adenilyladenilylguanilylcystidylthymidyl..._, would be about 8 billion letters long. The longest published word, _Acetylseryltyrosylseryliso...serine_, referring to the coat protein of a certain strain of tobacco mosaic virus (), is 1,185 letters long, and appeared in the American Chemical Society's Chemical Abstracts Service in 1964 and 1966.[21] In 1965, the Chemical Abstracts Service overhauled its naming system and started discouraging excessively long names. In 2011, a dictionary broke this record with a 1909-letter word describing the _trpA_ protein ().[22]
 
@@ -79,7 +79,7 @@ Notable long words
 
 Place names
 
-New_Zealand_0577.jpg]] Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch_station_sign_(cropped_version_1).jpg in North Wales]]
+]] in North Wales]]
 
 The longest officially recognized place name in an English-speaking country is _Taumatawhakatangihangakoauauotamateapokaiwhenuakitanatahu_ (57 letters), which is a hill in New Zealand. The name is in the Māori language. A longer and widely recognised version of the name is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu (85 letters), which appears on the signpost at the location (see the photo on this page). In Māori, the digraphs _ng_ and _wh_ are each treated as single letters.
 

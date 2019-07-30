@@ -1,8 +1,8 @@
-Antonio_Molinari_David_y_Abigail.jpg]] ABIGAIL (, ’Ǎḇîḡayil'') was the wife of Nabal; she became a wife of the future King David after Nabal's death (1 Samuel ).[1] Abigail was David's third wife, after Saul's daughter, Michal, whom Saul later married to Palti, son of Laish when David went into hiding, and Ahinoam.
+]] ABIGAIL (, ’Ǎḇîḡayil'') was the wife of Nabal; she became a wife of the future King David after Nabal's death (1 Samuel ).[1] Abigail was David's third wife, after Saul's daughter, Michal, whom Saul later married to Palti, son of Laish when David went into hiding, and Ahinoam.
 
 She became the mother of one of David's sons, who is listed in the Book of Chronicles under the name _Daniel_, in the Masoretic Text of the Books of Samuel as _Chileab,_[2] and in the Septuagint text of 2 Samuel 3:3 as Δαλουια, _Dalouia_.[3] Her name is spelled ABIGAL in in the American Standard Version.
 
-Escalante-abigail.jpg]] Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_096.png]]
+]] ]]
 
 
 Name

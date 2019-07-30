@@ -1,5 +1,3 @@
-Fifo_queue.png
-
 FIFO is an acronym for FIRST IN, FIRST OUT, a method for organising and manipulating a data buffer, where the oldest (first) entry, or 'head' of the queue, is processed first. It is analogous to processing a queue with first-come, first-served (FCFS) behaviour: where the people leave the queue in the order in which they arrive.
 
 FCFS is also the jargon term for the FIFO operating system scheduling algorithm, which gives every process central processing unit (CPU) time in the order in which it is demanded. FIFO's opposite is LIFO, last-in-first-out, where the youngest entry or 'top of the stack' is processed first.[1] A priority queue is neither FIFO or LIFO but may adopt similar behaviour temporarily or by default. Queueing theory encompasses these methods for processing data structures, as well as interactions between strict-FIFO queues.
@@ -8,8 +6,6 @@ FCFS is also the jargon term for the FIFO operating system scheduling algorithm,
 Computer science
 
 Data structure
-
-Data_Queue.svg
 
 Depending on the application, a FIFO could be implemented as a hardware shift register, or using different memory structures, typically a circular buffer or a kind of list. For information on the abstract data structure, see Queue (data structure). Most software implementations of a FIFO queue are not thread safe and require a locking mechanism to verify the data structure chain is being manipulated by only one thread at a time.
 
@@ -89,8 +85,6 @@ Communication network bridges, switches and routers used in computer networks us
 
 
 Electronics
-
-Fifo_schedule.png
 
 FIFOs are commonly used in electronic circuits for buffering and flow control between hardware and software. In its hardware form, a FIFO primarily consists of a set of read and write pointers, storage and control logic. Storage may be static random access memory (SRAM), flip-flops, latches or any other suitable form of storage. For FIFOs of non-trivial size, a dual-port SRAM is usually used, where one port is dedicated to writing and the other to reading.
 

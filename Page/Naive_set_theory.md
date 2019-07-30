@@ -44,13 +44,13 @@ Sets, membership and equality
 
 In naïve set theory, a SET is described as a well-defined collection of objects. These objects are called the ELEMENTS or MEMBERS of the set. Objects can be anything: numbers, people, other sets, etc. For instance, 4 is a member of the set of all even integers. Clearly, the set of even numbers is infinitely large; there is no requirement that a set be finite.
 
-Passage_with_the_set_definition_of_Georg_Cantor.png The definition of sets goes back to Georg Cantor. He wrote 1915 in his article _Beiträge zur Begründung der transfiniten Mengenlehre_:
+The definition of sets goes back to Georg Cantor. He wrote 1915 in his article _Beiträge zur Begründung der transfiniten Mengenlehre_:
 
   “Unter einer 'Menge' verstehen wir jede Zusammenfassung M von bestimmten wohlunterschiedenen Objekten unserer Anschauung oder unseres Denkens (welche die 'Elemente' von M genannt werden) zu einem Ganzen.” – Georg Cantor
 
   “A set is a gathering together into a whole of definite, distinct objects of our perception or of our thought—which are called elements of the set.” – Georg Cantor
 
-First_usage_of_the_symbol_∈.png.]]
+.]]
 
 Note on consistency
 

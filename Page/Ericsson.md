@@ -9,8 +9,6 @@ History
 
 Foundation
 
-Swedish_inventor_Lars_Magnus_Ericsson.jpg
-
 Lars Magnus Ericsson began his association with telephones in his youth as an instrument maker. He worked for a firm that made telegraph equipment for the Swedish government agency Telegrafverket. In 1876, at the age of 30, he started a telegraph repair shop with help from his friend Carl Johan Andersson in central Stockholm and repaired foreign-made telephones. In 1878 Ericsson began making and selling his own telephone equipment. His telephones were not technically innovative. In 1878 he made an agreement to supply telephones and switchboards to Sweden's first telecommunications operating company, Stockholms Allmänna Telefonaktiebolag.[6]
 
 Also in 1878, local telephone importer Numa Peterson hired Ericsson to adjust some telephones from the Bell Telephone Company. He bought a number of Siemens telephones and analyzed the technology; Ericsson had a scholarship at Siemens a few years earlier. He was familiar with Bell and Siemens Halske telephones through his firm's repair work for Telegrafverket and Swedish State Railways. He improved these designs to produce a higher-quality instrument to be used by new telephone companies such as Rikstelefon to provide cheaper service than the Bell Group. Ericsson had no patent or royalty problems because Bell had not patented their inventions in Scandinavia. His training as an instrument maker was reflected in the standard of finish and the ornate design of Ericsson telephones of this period. At the end of the year, he started to manufacture telephones much like those of Siemens; the first product was finished in 1879.
@@ -27,7 +25,7 @@ In 1884, a technician named Anton Avén at _Stockholms Allmänna Telefonaktiebol
 
 International expansion
 
-Thinktank_Birmingham_-_object_1961S01536.00001(1).jpg, England, it is now in the collection of Thinktank, Birmingham Science Museum.]]
+, England, it is now in the collection of Thinktank, Birmingham Science Museum.]]
 
 As production grew in the late 1890s, and the Swedish market seemed to be reaching saturation, Ericsson expanded into foreign markets through a number of agents. The UK (Ericsson Telephones Ltd.) and Russia were early markets, where factories were later established improve the chances of gaining local contracts and to augment the output of the Swedish factory. In the UK, the National Telephone Company was a major customer; by 1897 sold 28% of its output in the UK. The Nordic countries were also Ericsson customers; they were encouraged by the growth of telephone services in Sweden.[7]
 
@@ -37,7 +35,7 @@ Despite their successes elsewhere, Ericsson did not make significant sales into 
 
 Automatic equipment
 
-Ericsson_telefonplan_20050902_001.jpg in Stockholm, see LM Ericsson building]]
+in Stockholm, see LM Ericsson building]]
 
 Ericsson ignored the growth of automatic telephony in the United States and concentrated on manual exchange designs. Their first dial telephone was produced in 1921, although sales of the early automatic switching systems were slow until the equipment had proven itself on the world's markets. Telephones of this period had a simpler design and finish, and many of the early automatic desk telephones in Ericsson's catalogues were magneto styles with a dial on the front and appropriate changes to the electronics. Elaborate decals decorated the cases.[9] World War I, the subsequent Great Depression, and the loss of its Russian assets after the Revolution slowed the company's development while sales to other countries fell by about half.[10]
 
@@ -57,8 +55,6 @@ Ericsson was saved from bankruptcy and closure with the help of banks including 
 
 Market development
 
-Ericsson_bakelittelefon_1931_sv.jpg Ericsson_1950s_bakelite_telephone.jpg
-
 In the 1920s and 1930s, the world telephone markets were being organized and stabilized by many governments. The fragmented town-by-town systems serviced by small, private companies that had evolved were integrated and offered for lease to a single company. Ericsson obtained some leases, which represented further sales of equipment to the growing networks. Ericsson got almost one-third of its sales under the control of its telephone operating companies.[13]
 
 Negotiations between the major telephone companies aimed at dividing up the world between them. The size of ITT made it hard to compete with. Ericsson reduced its involvement in telephone operating companies and went back to manufacturing telephones and switchgear. The Beeston factory in the UK had been a joint venture between Ericsson and the National Telephone Company. The factory built automatic switching equipment for the GPO under license from Strowger, and exported products to former UK colonies. The UK government divided its equipment contracts between competing manufacturers, but Ericsson's presence and manufacturing facilities in the UK allowed it to get most of the contracts.
@@ -73,7 +69,7 @@ Ericsson introduced the world's first fully automatic mobile telephone system, M
 
 In the 1990s, during the emergence of the Internet, Ericsson was regarded as slow to realize its potential and falling behind in the area of IP technology.[16] But the company had established an Internet project in 1995 called Infocom Systems to exploit opportunities leading from fixed-line telecom and IT. CEO Lars Ramqvist wrote in the 1996 annual report that in all three of its business areas – Mobile Telephones and Terminals, Mobile Systems, and Infocom Systems – "we will expand our operations as they relate to customer service and Internet Protocol (IP) access (Internet and intranet access)".[17]
 
-Ericsson_mobil.jpg (1995) and Ericsson T28 (1999) mobile phones]] The growth of GSM, which became a _de facto_ world standard, combined with Ericsson's other mobile standards, such as D-AMPS and PDC, meant that by the start of 1997, Ericsson had an estimated 40% share of the world's mobile market, with around 54 million subscribers. There were also around 188 million AXE lines in place or on order in 117 countries.[18] Telecom and chip companies worked in the 1990s to provide Internet access over mobile telephones. Early versions such as Wireless Application Protocol (WAP) used packet data over the existing GSM network, in a form known as GPRS (General Packet Radio Service), but these services, known as 2.5G, were fairly rudimentary and did not achieve much mass-market success.
+(1995) and Ericsson T28 (1999) mobile phones]] The growth of GSM, which became a _de facto_ world standard, combined with Ericsson's other mobile standards, such as D-AMPS and PDC, meant that by the start of 1997, Ericsson had an estimated 40% share of the world's mobile market, with around 54 million subscribers. There were also around 188 million AXE lines in place or on order in 117 countries.[18] Telecom and chip companies worked in the 1990s to provide Internet access over mobile telephones. Early versions such as Wireless Application Protocol (WAP) used packet data over the existing GSM network, in a form known as GPRS (General Packet Radio Service), but these services, known as 2.5G, were fairly rudimentary and did not achieve much mass-market success.
 
 The International Telecommunication Union (ITU) had prepared the specifications for a 3G mobile service that included several technologies. Ericsson pushed hard for the WCDMA (wideband CDMA) form based on the GSM standard, and began testing it in 1996. Japanese operator NTT DoCoMo signed deals to partner with Ericsson and Nokia, who came together in 1997 to support WCDMA over rival standards. DoCoMo was the first operator with a live 3G network, using its own version of WCDMA called FOMA. Ericsson was a significant developer of the WCDMA version of GSM, while US-based chip developer Qualcomm promoted the alternative system CDMA2000, building on the popularity of CDMA in the US market. This resulted in a patent infringement lawsuit that was resolved in March 1999[19] when the two companies agreed to pay each other royalties for the use of their respective technologies and Ericsson purchased Qualcomm's wireless infrastructure business and some R&D resources.[20]
 
@@ -211,7 +207,7 @@ Sony Ericsson Mobile Communications AB (Sony Ericsson) was a joint venture with 
 
 Mobile (cell) telephones
 
-As a joint venture with Sony, Ericsson's mobile telephone production was moved into the company Sony Ericsson in 2001. The following is a list of mobile phones marketed under the brand name Ericsson. Ericsson-gf-768.jpg
+As a joint venture with Sony, Ericsson's mobile telephone production was moved into the company Sony Ericsson in 2001. The following is a list of mobile phones marketed under the brand name Ericsson.
 
 -   Ericsson GS88 – Cancelled mobile telephone where Ericsson invented the "Smartphone" name for
 -   Ericsson GA628 – Known for its Z80 CPU

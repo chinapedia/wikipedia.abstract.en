@@ -1,10 +1,8 @@
-Product’s_lifecycle.jpg The TERTIARY SECTOR or SERVICE SECTOR is the third of the three economic sectors of the three-sector theory. The others are the secondary sector (approximately the same as manufacturing), and the primary sector (raw materials).
+The TERTIARY SECTOR or SERVICE SECTOR is the third of the three economic sectors of the three-sector theory. The others are the secondary sector (approximately the same as manufacturing), and the primary sector (raw materials).
 
 The service sector consists of the production of services instead of end products. Services (also known as "intangible goods") include attention, advice, access, experience, and affective labor. The production of information has long been regarded as a service, but some economists now attribute it to a fourth sector, the quaternary sector.
 
 The tertiary sector of industry involves the provision of services to other businesses as well as final consumers. Services may involve the transport, distribution and sale of goods from producer to a consumer, as may happen in wholesaling and retailing, pest control or entertainment. The goods may be transformed in the process of providing the service, as happens in the restaurant industry. However, the focus is on people interacting with people and serving the customer rather than transforming physical goods.
-
-Medical_evacuation_after_car_accident_Kawartha_Lakes_Ontario.jpg Works_Progress_Administration_maid_poster_edit.jpg A_working_SBI_employee.jpg
 
 
 Difficulty of definition
@@ -29,7 +27,7 @@ Historically, manufacturing tended to be more open to international trade and co
 
 Issues for service providers
 
-FirstIncision.JPG Risciò-in-avorio.jpg Automatic_Telephone_Exchange-_Communications_in_Wartime,_London,_England,_UK,_1945_D23700.jpg in 1945.]] Service providers face obstacles selling services that goods-sellers rarely face. Services are intangible, making it difficult for potential customers to understand what they will receive and what value it will hold for them. Indeed, some, such as consultants and providers of investment services, offer no guarantees of the value for price paid.
+in 1945.]] Service providers face obstacles selling services that goods-sellers rarely face. Services are intangible, making it difficult for potential customers to understand what they will receive and what value it will hold for them. Indeed, some, such as consultants and providers of investment services, offer no guarantees of the value for price paid.
 
 Since the quality of most services depends largely on the quality of the individuals providing the services, "people costs" are usually a high fraction of service costs. Whereas a manufacturer may use technology, simplification, and other techniques to lower the cost of goods sold, the service provider often faces an unrelenting pattern of increasing costs.
 
@@ -68,7 +66,7 @@ Examples of tertiary industries may include:
 
 List of countries by tertiary output
 
-2005gdpServices.png Below is a list of countries by service output at market exchange rates in 2016.
+Below is a list of countries by service output at market exchange rates in 2016.
 
 
 See also

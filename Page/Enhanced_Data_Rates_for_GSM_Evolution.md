@@ -1,4 +1,4 @@
-EDGE_symbol_Android.png ENHANCED DATA RATES FOR GSM EVOLUTION (EDGE) (also known as ENHANCED GPRS (EGPRS), or IMT SINGLE CARRIER (IMT-SC), or ENHANCED DATA RATES FOR GLOBAL EVOLUTION) is a digital mobile phone technology that allows improved data transmission rates as a backward-compatible extension of GSM. EDGE is considered a pre-3G radio technology and is part of ITU's 3G definition.[1] EDGE was deployed on GSM networks beginning in 2003 – initially by Cingular (now AT&T) in the United States.[2]
+ENHANCED DATA RATES FOR GSM EVOLUTION (EDGE) (also known as ENHANCED GPRS (EGPRS), or IMT SINGLE CARRIER (IMT-SC), or ENHANCED DATA RATES FOR GLOBAL EVOLUTION) is a digital mobile phone technology that allows improved data transmission rates as a backward-compatible extension of GSM. EDGE is considered a pre-3G radio technology and is part of ITU's 3G definition.[1] EDGE was deployed on GSM networks beginning in 2003 – initially by Cingular (now AT&T) in the United States.[2]
 
 EDGE is standardized also by 3GPP as part of the GSM family. A variant, so called Compact-EDGE, was developed for use in a portion of Digital AMPS network spectrum.[3]
 

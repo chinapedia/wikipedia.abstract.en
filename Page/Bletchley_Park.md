@@ -18,7 +18,7 @@ After the war, the Government Code & Cypher School became the Government Communi
 
 Personnel
 
-AlanTuring-Bletchley.jpg's 2007 _Alan Turing_ statue]] Commander Alastair Denniston was operational head of GC&CS from 1919 to 1942, beginning with its formation from the Admiralty's Room 40 (NID25) and the War Office's MI1b.[17] Key GC&CS cryptanalysts who moved from London to Bletchley Park included John Tiltman, Dillwyn "Dilly" Knox, Josh Cooper, and Nigel de Grey. These people had a variety of backgroundslinguists and chess champions were common, and in Knox's case papyrology. The British War Office recruited top solvers of cryptic crossword puzzles, as these individuals had strong lateral thinking skills.[18]
+'s 2007 _Alan Turing_ statue]] Commander Alastair Denniston was operational head of GC&CS from 1919 to 1942, beginning with its formation from the Admiralty's Room 40 (NID25) and the War Office's MI1b.[17] Key GC&CS cryptanalysts who moved from London to Bletchley Park included John Tiltman, Dillwyn "Dilly" Knox, Josh Cooper, and Nigel de Grey. These people had a variety of backgroundslinguists and chess champions were common, and in Knox's case papyrology. The British War Office recruited top solvers of cryptic crossword puzzles, as these individuals had strong lateral thinking skills.[18]
 
 On the day Britain declared war on Germany, Denniston wrote to the Foreign Office about recruiting "men of the professor type".[19] Personal networking drove early recruitments, particularly of men from the universities of Cambridge and Oxford. Trustworthy women were similarly recruited for administrative and clerical jobs.[20] In one 1941 recruiting stratagem, _The Daily Telegraph_ was asked to organise a crossword competition, after which promising contestants were discreetly approached about "a particular type of work as a contribution to the war effort".[21]
 
@@ -52,8 +52,6 @@ Nevertheless, there were security leaks. Jock Colville, the Assistant Private Se
 
 Early work
 
-Information_Flow_Bletchley_Park_Enigma_Messages.png
-
 The first personnel of the Government Code and Cypher School (GC&CS) moved to Bletchley Park on 15 August 1939. The Naval, Military, and Air Sections were on the ground floor of the mansion, together with a telephone exchange, teleprinter room, kitchen, and dining room; the top floor was allocated to MI6. Construction of the wooden huts began in late 1939, and Elmers School, a neighbouring boys' boarding school in a Victorian Gothic redbrick building by a church, was acquired for the Commercial and Diplomatic Sections.[57]
 
 After the United States joined World War II, a number of American cryptographers were posted to Hut 3, and from May 1943 onwards there was close co-operation between British and American intelligence.[58] (See 1943 BRUSA Agreement.) In contrast, the Soviet Union was never officially told of Bletchley Park and its activities a reflection of Churchill's distrust of the Soviets even during the US-UK-USSR alliance imposed by the Nazi threat.[59]
@@ -63,7 +61,7 @@ The only direct enemy damage to the site was done 2021 November 1940 by three bo
 
 Intelligence reporting
 
-Ultra_Hut3_Graph.png Non-naval Enigma messages were deciphered in Hut 6, followed by translation, indexing and cross-referencing, in Hut 3. Only then was it sent out to the Secret Intelligence Service (MI6), the intelligence chiefs in the relevant ministries, and later on to high-level commanders in the field.[61]
+Non-naval Enigma messages were deciphered in Hut 6, followed by translation, indexing and cross-referencing, in Hut 3. Only then was it sent out to the Secret Intelligence Service (MI6), the intelligence chiefs in the relevant ministries, and later on to high-level commanders in the field.[61]
 
 Naval Enigma deciphering was in Hut 8, with translation in Hut 4. Verbatim translations were sent only to the Naval Intelligence Division (NID) of the Admiralty's Operational Intelligence Centre (OIC), supplemented by information from indexes as to the meaning of technical terms and cross-references from a knowledge store of German naval technology.[62]
 
@@ -83,7 +81,7 @@ The wartime needs required the building of additional accommodation.[68]
 
 Huts
 
-Hut-1.jpg BletchleyPark_Hut4_01.JPG Hut6.jpg Often a hut's number became so strongly associated with the work performed inside that even when the work was moved to another building it was still referred to by the original "Hut" designation.[69][70]
+Often a hut's number became so strongly associated with the work performed inside that even when the work was moved to another building it was still referred to by the original "Hut" designation.[69][70]
 
 -   _Hut 1_: The first hut, built in 1939[71] used to house the Wireless Station for a short time,[72] later administrative functions such as transport, typing, and Bombe maintenance. The first Bombe, "Victory", was initially housed here.[73]
 -   _Hut 2_: A recreational hut for "beer, tea, and relaxation".[74]
@@ -121,21 +119,19 @@ Work on specific countries' signals
 
 German signals
 
-bp-polish-codebreakers-plaque.jpg, Jerzy Różycki and Henryk Zygalski, mathematicians of the Polish intelligence service, in first breaking the Enigma code. Their work greatly assisted the Bletchley Park code breakers and contributed to the Allied victory in World WarII."]]
+, Jerzy Różycki and Henryk Zygalski, mathematicians of the Polish intelligence service, in first breaking the Enigma code. Their work greatly assisted the Bletchley Park code breakers and contributed to the Allied victory in World WarII."]]
 
 Most German messages decrypted at Bletchley were produced by one or another version of the Enigma cipher machine, but an important minority were produced by the even more complicated twelve-rotor Lorenz SZ42 on-line teleprinter cipher machine.[85]
 
 Five weeks before the outbreak of war, Warsaw's Cipher Bureau revealed its achievements in breaking Enigma to astonished French and British personnel.[86] The British used the Poles' information and techniques, and the Enigma clone sent to them in August 1939, which greatly increased their (previously very limited) success in decrypting Enigma messages.[87]
 
-RebuiltBombeFrontView.jpg[88] and switched on by the Duke of Kent, patron of the British Computer Society, on 17 July 2008. This is now located at The National Museum of Computing in Block H on Bletchley Park.]]
+[88] and switched on by the Duke of Kent, patron of the British Computer Society, on 17 July 2008. This is now located at The National Museum of Computing in Block H on Bletchley Park.]]
 
 The bombe was an electromechanical device whose function was to discover some of the daily settings of the Enigma machines on the various German military networks.[89][90][91] Its pioneering design was developed by Alan Turing (with an important contribution from Gordon Welchman) and the machine was engineered by Harold 'Doc' Keen of the British Tabulating Machine Company. Each machine was about high and wide, deep and weighed about a ton.[92]
 
 At its peak, GC&CS was reading approximately 4,000 messages per day.[93] As a hedge against enemy attack[94] most bombes were dispersed to installations at Adstock and Wavendon (both later supplanted by installations at Stanmore and Eastcote), and Gayhurst.[95][96]
 
 Luftwaffe messages were the first to be read in quantity. The German navy had much tighter procedures, and the capture of code books was needed before they could be broken. When, in February 1942, the German navy introduced the four-rotor Enigma for communications with its Atlantic U-boats, this traffic became unreadable for a period of ten months.[97] Britain produced modified bombes, but it was the success of the US Navy bombe that was the main source of reading messages from this version of Enigma for the rest of the war. Messages were sent to and fro across the Atlantic by enciphered teleprinter links.[98]
-
-Colossus.jpg
 
 The Lorenz messages were codenamed _Tunny_ at Bletchley Park. They were only sent in quantity from mid-1942. The Tunny networks were used for high-level messages between German High Command and field commanders. With the help of German operator errors, the cryptanalysts in the Testery (named after Ralph Tester, its head) worked out the logical structure of the machine despite not knowing its physical form. They devised automatic machinery to help with decryption, which culminated in Colossus, the world's first programmable digital electronic computer. This was designed and built by Tommy Flowers and his team at the Post Office Research Station at Dollis Hill. The prototype first worked in December 1943, was delivered to Bletchley Park in January and first worked operationally on 5 February 1944. Enhancements were developed for the Mark 2 Colossus, the first of which was working at Bletchley Park on the morning of 1 June in time for D-day. Flowers then produced one Colossus a month for the rest of the war, making a total of ten with an eleventh part-built. The machines were operated mainly by Wrens in a section named the Newmanry after its head Max Newman.[99]
 
@@ -183,13 +179,11 @@ In February 1992, the Milton Keynes Borough Council declared most of the Park a 
 
 Heritage attraction
 
-Turing_flat.jpg
-
 June 2014 saw the completion of an £8 million restoration project, which was marked by a visit from Catherine, Duchess of Cambridge. The Duchess' paternal grandmother, Valerie, and Valerie's twin sister, Mary (née Glassborow), both worked at Bletchley Park during the war. The twin sisters worked as Foreign Office Civilians in Hut 6, where they managed the interception of enemy and neutral diplomatic signals for decryption. Valerie married Catherine's grandfather, Captain Peter Middleton.[127][128][129] A memorial at Bletchley Park commemorates Mary and Valerie Middleton's work as code-breakers.[130]
 
 Exhibitions
 
-Bombe-rebuild.jpg[131]]]
+[131]]]
 
 -   Block C Visitor Centre
     -   Secrets Revealed introduction
@@ -218,7 +212,7 @@ Bombe-rebuild.jpg[131]]]
 
 Learning Department
 
-StoryOfEnigma.jpg students]] The Bletchley Park Learning Department offers educational group visits with active learning activities for schools and universities. Visits can be booked in advance during term time, where students can engage with the history of Bletchley Park and understand its wider relevance for computer history and national security. Their workshops cover introductions to codebreaking, cyber security and the story of Enigma and Lorenz.[132]
+students]] The Bletchley Park Learning Department offers educational group visits with active learning activities for schools and universities. Visits can be booked in advance during term time, where students can engage with the history of Bletchley Park and understand its wider relevance for computer history and national security. Their workshops cover introductions to codebreaking, cyber security and the story of Enigma and Lorenz.[132]
 
 
 Funding
@@ -234,7 +228,7 @@ Other organisations sharing the campus
 
 The National Museum of Computing
 
-ColossusRebuild_11.jpg supervising the breaking of an enciphered message with the completed Colossus computer rebuild in 2006 at The National Museum of Computing]]
+supervising the breaking of an enciphered message with the completed Colossus computer rebuild in 2006 at The National Museum of Computing]]
 
 The National Museum of Computing is housed in Block H, which is rented from the Bletchley Park Trust. Its Colossus and Tunny galleries tell an important part of allied breaking of German codes during World War II. There is a working reconstruction of a Bombe and a rebuilt Colossus computer which was used on the high-level Lorenz cipher, codenamed _Tunny_ by the British.[147][148]
 
@@ -264,7 +258,7 @@ Literature
 
 Film
 
-BletcleyPark_SubModel.JPG model used in the film _Enigma_ (2001)]] Sunbeam_Talbot_2_litre_Sports_Tourer_1947.jpg'' (2001)]]
+model used in the film _Enigma_ (2001)]] '' (2001)]]
 
 -   The film _Enigma_ (2001), which was based upon Robert Harris' book and starred Kate Winslet, Saffron Burrows and Dougray Scott, is set in part in Bletchley Park.[162]
 -   The film _The Imitation Game_ (2014), starring Benedict Cumberbatch as Alan Turing, is set in Bletchley Park, and was partially filmed there.[163]

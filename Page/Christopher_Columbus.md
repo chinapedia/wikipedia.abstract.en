@@ -11,13 +11,13 @@ Columbus's expeditions inaugurated a period of exploration, conquest, and coloni
 
 Early life
 
-Christopher_Columbus_at_the_gates_of_the_monastery_of_Santa_Maria_de_la_Rabida_with_his_son_Diego.jpg with his son Diego'', by Benet Mercadé]]
+with his son Diego'', by Benet Mercadé]]
 
 The name _Christopher Columbus_ is the Anglicisation of the Latin CHRISTOPHORUS COLUMBUS. His name in Ligurian is CRISTOFFA COROMBO, in Italian CRISTOFORO COLOMBO, in Spanish CRISTÓBAL COLÓN, and in Portuguese, CRISTÓVÃO COLOMBO. He was born before 31 October 1451 in the territory of the Republic of Genoa (now part of modern Italy), though the exact location remains disputed. His father was Domenico Colombo, a middle-class wool weaver who worked both in Genoa and Savona and who also owned a cheese stand at which young Christopher worked as a helper. His mother was Susanna Fontanarossa. Bartolomeo, Giovanni Pellegrino, and Giacomo were his brothers. Bartolomeo worked in a cartography workshop in Lisbon for at least part of his adulthood.[2] He also had a sister named Bianchinetta.[3]
 
 Columbus never wrote in his native language, which is presumed to have been a Genoese variety of Ligurian: his name in the 16th-century Genoese language would have been _Cristoffa_[4] _Corombo_[5] ().[6][7] In one of his writings, he says he went to sea at the age of 10. In 1470, the Columbus family moved to Savona, where Domenico took over a tavern. In the same year, Christopher was on a Genoese ship hired in the service of René of Anjou to support his attempt to conquer the Kingdom of Naples. Some modern historians have argued that he was not from Genoa but, instead, from the Aragon region of Spain[8] or from Portugal.[9] These competing hypotheses have generally been discounted by mainstream scholars.
 
-ColombusNotesToMarcoPolo.jpg'', with his handwritten notes in Latin written on the margins]]
+'', with his handwritten notes in Latin written on the margins]]
 
 In 1473, Columbus began his apprenticeship as business agent for the important Centurione, Di Negro and Spinola families of Genoa. Later, he allegedly made a trip to Chios, an Aegean island then ruled by Genoa.[10] In May 1476, he took part in an armed convoy sent by Genoa to carry valuable cargo to northern Europe. He docked in Bristol, England[11] and Galway, Ireland. In 1477, he was possibly in Iceland. In the autumn of 1477, he sailed on a Portuguese ship from Galway to Lisbon, where he found his brother Bartolomeo, and they continued trading for the Centurione family. Columbus based himself in Lisbon from 1477 to 1485. He married Filipa Moniz Perestrelo, daughter of the Porto Santo governor and Portuguese nobleman of Lombard origin Bartolomeu Perestrello.[12]
 
@@ -32,7 +32,7 @@ Quest for Asia
 
 Background
 
-Atlantic_Ocean,_Toscanelli,_1474.jpg's notions of the geography of the Atlantic Ocean (shown superimposed on a modern map), which directly influenced Columbus's plans.]]
+'s notions of the geography of the Atlantic Ocean (shown superimposed on a modern map), which directly influenced Columbus's plans.]]
 
 Under the Mongol Empire's hegemony over Asia (the _Pax Mongolica_, or _Mongol peace_), Europeans had long enjoyed a safe land passage, the Silk Road, to the Indies (then construed roughly as all of south and east Asia) and China, which were sources of valuable goods such as spices and silk. With the fall of Constantinople to the Ottoman Turks in 1453, the land route to Asia became much more difficult and dangerous. Portuguese navigators tried to find a sea way to Asia.
 
@@ -44,7 +44,7 @@ Washington Irving's 1828 biography of Columbus popularized the idea that Columbu
 
 As far back as the 3rd century BC, Eratosthenes had correctly computed the circumference of the Earth by using simple geometry and studying the shadows cast by objects at two remote locations.[26][27] In the 1st century BC, Posidonius confirmed Eratosthenes's results by comparing stellar observations at two separate locations. These measurements were widely known among scholars, but confusion about the old-fashioned units of distance in which they were expressed led to some debate about the size of the Earth.
 
-ColombusMap.jpg workshop of Bartolomeo and Christopher Columbus[28]]]
+workshop of Bartolomeo and Christopher Columbus[28]]]
 
 From Pierre d'Ailly's _Imago Mundi_ Columbus learned of Alfraganus's estimate that a degree of latitude (or a degree of longitude along the equator) spanned 56 miles, but did not realize that this was expressed in the Arabic mile rather than the shorter Roman mile with which he was familiar (1,480 m).[29] He therefore would have estimated the circumference of the Earth to be about 30,200 km at the equator and 26,200 km at 30 degrees north (around where he was sailing), whereas the correct value is 40,000 km at the equator and 34,700 km at 30 degrees north.
 
@@ -62,13 +62,13 @@ It is unclear whether Columbus learned about the winds from his own sailing expe
 
 Quest for financial support for a voyage
 
-Columbus_offers_his_services_to_the_King_of_Portugal_-_Daniel_Nicholas_Chodowiecki_(cropped).png, 17th c.]]
+, 17th c.]]
 
 In 1485, Columbus presented his plans to King John II of Portugal. He proposed that the king equip three sturdy ships and grant Columbus one year's time to sail out into the Atlantic, search for a western route to the Orient, and return. Columbus also requested he be made "Great Admiral of the Ocean", appointed governor of any and all lands he discovered, and given one-tenth of all revenue from those lands. The king submitted Columbus's proposal to his experts, who rejected it. It was their considered opinion that Columbus's estimation of a travel distance of was, in fact, far too low.[36]
 
 In 1488, Columbus again appealed to the court of Portugal, resulting in John II again inviting him for an audience. That meeting also proved unsuccessful, in part because not long afterwards Bartolomeu Dias returned to Portugal with news of his successful rounding of the southern tip of Africa (near the Cape of Good Hope). With an eastern sea route to Asia apparently at hand, King John was no longer interested in Columbus's far-fetched project.
 
-Emanuel_Gottlieb_Leutze_-_Columbus_Before_the_Queen.JPG's best-selling _Life and Voyages of Columbus_ (1828). by Emanuel Gottlieb Leutze, 1843]]
+'s best-selling _Life and Voyages of Columbus_ (1828). by Emanuel Gottlieb Leutze, 1843]]
 
 Columbus traveled from Portugal to both Genoa and Venice, but he received encouragement from neither. He had also dispatched his brother Bartholomew to the court of Henry VII of England to inquire whether the English crown might sponsor his expedition, but also without success.
 
@@ -78,7 +78,7 @@ However, to keep Columbus from taking his ideas elsewhere, and perhaps to keep t
 
 Agreement with the Spanish crown
 
-Columbus_Fleet_1893_Issue.jpg)]]
+)]]
 
 After continually lobbying at the Spanish court and two years of negotiations, he finally had success in January 1492. Ferdinand and Isabella had just conquered Granada, the last Muslim stronghold on the Iberian Peninsula, and they received Columbus in Córdoba, in the _Alcázar_ castle. Isabella turned him down on the advice of her confessor. Columbus was leaving town by mule in despair when Ferdinand intervened. Isabella then sent a royal guard to fetch him, and Ferdinand later claimed credit for being "the principal cause why those islands were discovered".
 
@@ -89,15 +89,11 @@ Columbus was later arrested in 1500 and dismissed from his posts. He and his son
 
 Voyages
 
-Viajes_de_colon_en.svg
-
 Between 1492 and 1503, Columbus completed four round-trip voyages between Spain and the Americas, each voyage being sponsored by the Crown of Castile. On his first voyage, he independently discovered the Americas and magnetic declination.[40][41] These voyages marked the beginning of the European exploration and colonization of the American continents, and are thus of enormous significance in Western history.[42]
 
 Columbus always insisted, in the face of mounting evidence to the contrary, that the lands that he visited during those voyages were part of the Asian continent, as previously described by Marco Polo and other European travelers.[43] Columbus's refusal to accept that the lands he had visited and claimed for Spain were not part of Asia might explain, in part, why the American continent was named after the Florentine explorer Amerigo Vespucci and not after Columbus.[44]
 
 First voyage
-
-Columbus_first_voyage.jpg
 
 On the evening of 3 August 1492, Columbus departed from Palos de la Frontera with three ships. The largest was a carrack (Spanish: _nao_), the _Santa María_ ex-_Gallega_ ("Galician"). The other two were smaller caravels. The name of one is lost: it is known today only by the nickname _Pinta_, which in Castilian of the time meant "painted one".[45] The _Santa Clara_ was nicknamed affectionately the _Niña_ ("the little one"), a pun on the name of her owner, Juan Niño of Moguer.[46] The monarchs forced the citizens of Palos to contribute to the expedition. The _Santa María_ was owned by Juan de la Cosa and captained by Columbus. The _Pinta_ and the _Niña_ were piloted by the Pinzón brothers (Martín Alonso and Vicente Yáñez).[47]
 
@@ -105,13 +101,13 @@ Columbus first sailed to the Canary Islands, which belonged to Castile. He resto
 
 Columbus called the island (in what is now the Bahamas) _San Salvador_ (meaning "Holy Savior"); the natives called it Guanahani. Exactly which island in the Bahamas this corresponds to is unresolved. Based on primary accounts and on what one would expect from the geographic positions of the islands given Columbus's course, the prime candidates are San Salvador Island (so named in 1925 on the theory that it was Columbus's San Salvador),[51] Samana Cay, and Plana Cays.[52]
 
-Landing_of_Columbus_(2).jpg]]
+]]
 
 The indigenous people he encountered, the Lucayan, Taíno, and Arawak, were peaceful and friendly. He called the inhabitants of the lands that he visited _indios_ (Spanish for "Indians").[53][54][55] Noting their gold ear ornaments, Columbus took some of the Arawaks prisoner and insisted that they guide him to the source of the gold.[56] From the entry in his journal of 12 October 1492, in which he wrote of them: "Many of the men I have seen have scars on their bodies, and when I made signs to them to find out how this happened, they indicated that people from other nearby islands come to San Salvador to capture them; they defend themselves the best they can. I believe that people from the mainland come here to take them as slaves. They ought to make good and skilled servants, for they repeat very quickly whatever we say to them. I think they can very easily be made Christians, for they seem to have no religion. If it pleases our Lord, I will take six of them to Your Highnesses when I depart, in order that they may learn our language."[57] Columbus noted that their primitive weapons and military tactics made them susceptible to easy conquest, writing, "these people are very simple in war-like matters … I could conquer the whole of them with 50 men, and govern them as I pleased."[58]
 
 Columbus also explored the northeast coast of Cuba, where he landed on 28 October. On 22 November, Martín Alonso Pinzón took the _Pinta_ on an unauthorized expedition in search of an island called "Babeque" or "Baneque", which the natives had told him was rich in gold. Columbus, for his part, continued to the northern coast of Hispaniola, where he landed on 5 December.[59] There, the _Santa María_ ran aground on Christmas Day 1492 and had to be abandoned. The wreck was used as a target for cannon fire to impress the native peoples.[60] Columbus was received by the native cacique Guacanagari, who gave him permission to leave some of his men behind. Columbus left 39 men, including Luis de Torres, the _converso_ interpreter, who spoke Hebrew and Arabic, and founded the settlement of _La Navidad_ at the site of present-day Bord de Mer de Limonade, Haiti.[61] Columbus took more natives prisoner and continued his exploration.[62] He kept sailing along the northern coast of Hispaniola with a single ship, until he encountered Pinzón and the _Pinta_ on 6 January.
 
-WC_Delacroix,Eugene_The_Return_of_Christopher_Columbus.jpg]]
+]]
 
 On 13 January 1493, Columbus made his last stop of this voyage in the New World, in the Bay of Rincón at the eastern end of the Samaná Peninsula in northeast Hispaniola.[63] There he encountered the warlike Cigüayos, the only natives who offered violent resistance during his first voyage to the Americas.[64] The Cigüayos refused to trade the amount of bows and arrows that Columbus desired; in the ensuing clash one Ciguayo was stabbed in the buttocks and another wounded with an arrow in his chest.[65] Because of this and because of the Cigüayos' use of arrows, he called the inlet where he met them the Bay of Arrows (or Gulf of Arrows).[66] Columbus kidnapped about 10 to 25 natives and took them back with him (only seven or eight of the natives arrived in Spain alive).
 
@@ -123,8 +119,6 @@ After spending more than a week in Portugal, and paying his respects to Eleanor 
 
 Second voyage
 
-Columbus_second_voyage.jpg
-
 Columbus left the port of Cádiz on 24 September 1493, with a fleet of 17 ships carrying 1,200 men and the supplies to establish permanent colonies in the New World. The passengers included priests, farmers, and soldiers, who would be the new colonists. This reflected the new policy of creating not just "colonies of exploitation", but also "colonies of settlement" from which to launch missions dedicated to converting the natives to Christianity.[71] Modern studies suggest that, as reported by the _Washington Post_, "crew members may have included free black Africans who arrived in the New World about a decade before the slave trade began."[72]
 
 As in the first voyage, the fleet stopped at the Canary Islands, from which it departed on 13 October, following a more southerly course than on the previous expedition. On 3 November, Columbus sighted a rugged island that he named Dominica (Latin for Sunday); later that day, he landed at Marie-Galante, which he named _Santa María la Galante_. After sailing past Les Saintes (_Los Santos_, "The Saints"), he arrived at the island of Guadeloupe, which he named _Santa María de Guadalupe de Extremadura_, after the image of the Virgin Mary venerated at the Spanish monastery of Villuercas, in Guadalupe, Cáceres, Spain. He explored that island from 4 to 10 November.
@@ -133,7 +127,7 @@ Michele da Cuneo, Columbus's childhood friend from Savona, sailed with Columbus 
 
 The same childhood friend reported in a letter that Columbus had provided one of the captured indigenous women to him. He wrote, "While I was in the boat, I captured a very beautiful Carib woman, whom the said Lord Admiral gave to me. When I had taken her to my cabin she was naked—as was their custom. I was filled with a desire to take my pleasure with her and attempted to satisfy my desire. She was unwilling, and so treated me with her nails that I wished I had never begun. But—to cut a long story short—I then took a piece of rope and whipped her soundly, and she let forth such incredible screams that you would not have believed your ears. Eventually we came to such terms, I assure you, that you would have thought that she had been brought up in a school for whores."[75]
 
-Inspiración_de_Cristóbal_Colón,_por_José_María_Obregón.jpg, 1856]]
+, 1856]]
 
 Pedro de las Casas, father of the priest Bartolomé de las Casas, also accompanied Columbus on this voyage.[76]
 
@@ -159,8 +153,6 @@ Columbus then sailed more than eastwards along the northern coast of Hispaniola,
 
 Third voyage
 
-Columbus_third_voyage.jpg
-
 According to the abstract of Columbus's journal made by Bartolomé de Las Casas, the objective of the third voyage was to verify the existence of a continent that King John II of Portugal suggested was located to the southwest of the Cape Verde Islands. King John reportedly knew of the existence of such a mainland because "canoes had been found which set out from the coast of Guinea [West Africa] and sailed to the west with merchandise."[80][81]
 
 On 30 May 1498, Columbus left with six ships from Sanlúcar, Spain, for his third trip to the New World. Three of the ships headed directly for Hispaniola with much-needed supplies, while Columbus took the other three in an exploration of what might lie to the south of the Caribbean islands he had already visited, including a hoped-for passage to continental Asia.[82]
@@ -177,7 +169,7 @@ Columbus was eventually forced to make peace with the rebellious colonists on hu
 
 Fourth voyage
 
-Columbus_fourth_voyage.jpg House_of_Colon_COA_(2).svg granted to Christopher Columbus and the House of Colon by Pope Alexander VI _motu proprio_ in 1502.]] Before leaving for his fourth voyage, Columbus wrote a letter to the Governors of the Bank of Saint George, Genoa, dated at Seville, 2 April 1502.[91] He wrote "Although my body is here my heart is always near you."[92]
+granted to Christopher Columbus and the House of Colon by Pope Alexander VI _motu proprio_ in 1502.]] Before leaving for his fourth voyage, Columbus wrote a letter to the Governors of the Bank of Saint George, Genoa, dated at Seville, 2 April 1502.[91] He wrote "Although my body is here my heart is always near you."[92]
 
 Columbus made a fourth voyage nominally in search of the Strait of Malacca to the Indian Ocean. Accompanied by his brother Bartolomeo and his 13-year-old son Fernando, he left Cádiz on 11 May 1502, with his flagship _Santa María_ and the vessels _Gallega_, _Vizcaína_, and _Santiago de Palos_. He sailed to Arzila on the Moroccan coast to rescue Portuguese soldiers whom he had heard were under siege by the Moors.
 
@@ -187,7 +179,7 @@ After a brief stop at Jamaica, Columbus sailed to Central America, arriving at G
 
 On 5 December 1502, Columbus and his crew found themselves in a storm unlike any they had ever experienced. In his journal Columbus writes,
 
-Eclipse_Christophe_Colomb.jpg of 1504.]]
+of 1504.]]
 
 In Panama, Columbus learned from the Ngobe of gold and a strait to another ocean, but was told by local leader Quibían not to go past a certain point down the river. After much exploration, in January 1503, he established a garrison at the mouth of the Belén River. On 6 April, one of the ships became stranded in the river. At the same time, the garrison was attacked by Quibían and the other ships were damaged. Shipworms also damaged the ships in tropical waters.[93]
 
@@ -209,7 +201,7 @@ Because of their gross misgovernance, Columbus and his brothers were arrested an
 
 Later life
 
-ColumbusHouseOfValladolid.jpg'', Columbus's flagship during his first voyage, at his Valladolid house[103]]]
+'', Columbus's flagship during his first voyage, at his Valladolid house[103]]]
 
 Columbus had always claimed the conversion of non-believers as one reason for his explorations, but he grew increasingly religious in his later years. Probably with the assistance of his son Diego and his friend the Carthusian monk Gaspar Gorricio, Columbus produced two books during his later years: a _Book of Privileges_ (1502), detailing and documenting the rewards from the Spanish Crown to which he believed he and his heirs were entitled, and a _Book of Prophecies_ (1505), in which he considered his achievements as an explorer but a fulfillment of Bible prophecy in the context of Christian eschatology.[104]
 
@@ -218,21 +210,17 @@ In his later years, Columbus demanded that the Spanish Crown give him 10 percent
 
 Illness and death
 
-The_death_of_Columbus.jpg
-
 During a violent storm on his first return voyage, Columbus, then 41, suffered an attack of what was believed at the time to be gout. In subsequent years, he was plagued with what was thought to be influenza and other fevers, bleeding from the eyes, and prolonged attacks of gout. The suspected attacks increased in duration and severity, sometimes leaving Columbus bedridden for months at a time, and culminated in his death 14 years later.
 
-Tumba_de_Colon-Sevilla.jpg. The remains are borne by kings of Castile, Leon, Aragon, and Navarre.[105]]]
+. The remains are borne by kings of Castile, Leon, Aragon, and Navarre.[105]]]
 
 Based on Columbus's lifestyle and the described symptoms, modern doctors suspect that he suffered from reactive arthritis, rather than gout.[106][107] Reactive arthritis, previously known as Reiter's syndrome, is a joint inflammation caused by intestinal bacterial infections or after acquiring certain sexually transmitted diseases (primarily chlamydia or gonorrhea). "It seems likely that [Columbus] acquired reactive arthritis from food poisoning on one of his ocean voyages because of poor sanitation and improper food preparation," writes Dr. Frank C. Arnett, a rheumatologist and professor of internal medicine, pathology and laboratory medicine the University of Texas Medical School at Houston.[108]
 
 On 20 May 1506, aged probably 54, Columbus died in Valladolid, Spain. His remains were first interred at Valladolid, then at the monastery of La Cartuja in Seville (southern Spain) by the will of his son Diego Colón, who had been governor of Hispaniola. In 1542, the remains were transferred to Colonial Santo Domingo, in the present-day Dominican Republic. In 1795, when France took over the entire island of Hispaniola, Columbus's remains were moved to Havana, Cuba. After Cuba became independent following the Spanish–American War in 1898, the remains were moved back to Spain, to the Cathedral of Seville,[109] where they were placed on an elaborate catafalque.
 
-Silver_Caravel._Ashes_of_Christopher_Columbus.png
-
 However, a lead box bearing an inscription identifying "Don Christopher Columbus" and containing bone fragments and a bullet was discovered at Santo Domingo in 1877. To lay to rest claims that the wrong relics had been moved to Havana and that Columbus's remains had been left buried in the cathedral at Santo Domingo, DNA samples of the corpse resting in Seville were taken in June 2003 (_History Today_ August 2003) as well as other DNA samples from the remains of his brother Diego and younger son Fernando Colón. Initial observations suggested that the bones did not appear to belong to somebody with the physique or age at death associated with Columbus.[110] DNA extraction proved difficult; only short fragments of mitochondrial DNA could be isolated. The mitochondrial DNA fragments matched corresponding DNA from Columbus's brother, giving support that both individuals had shared the same mother.[111]
 
-Columbus_Tomb_Dominican_Republic_01_2018_6805.jpg, Santo Domingo Este, Dominican Republic.]] Such evidence, together with anthropologic and historic analyses, led the researchers to conclude that the remains found in Seville belonged to Christopher Columbus.[112] The authorities in Santo Domingo have never allowed the remains there to be exhumed, so it is unknown if any of those remains could be from Columbus's body as well.[113][114] The Dominican remains are located in "The Columbus Lighthouse" (_Faro a Colón_), in Santo Domingo.
+, Santo Domingo Este, Dominican Republic.]] Such evidence, together with anthropologic and historic analyses, led the researchers to conclude that the remains found in Seville belonged to Christopher Columbus.[112] The authorities in Santo Domingo have never allowed the remains there to be exhumed, so it is unknown if any of those remains could be from Columbus's body as well.[113][114] The Dominican remains are located in "The Columbus Lighthouse" (_Faro a Colón_), in Santo Domingo.
 
 
 Commemoration
@@ -256,7 +244,7 @@ Columbus's voyages are considered some of the most important events in world his
 
 Discoverer
 
-Faro_colon.jpg[129]]]
+[129]]]
 
 Though Christopher Columbus came to be considered the discoverer of America in US and European popular culture, his historical legacy is more nuanced. America had been discovered and populated by its indigenous population. Columbus was not even the first European to reach its shores, having been preceded by Erik the Red in 10th-century Greenland and Leif Erikson in 11th-century Vinland at L'Anse aux Meadows.[130][131] However, Columbus's efforts brought the Americas to the attention of Europe at a time ripe for Europe to act upon. Thus, Columbus was able to initiate the enduring association between the Earth's two major landmasses and their inhabitants. "Columbus's claim to fame isn't that he got there first," explains historian Martin Dugard, "it's that he stayed."[132]
 
@@ -270,7 +258,7 @@ Columbus is often credited with refuting a prevalent belief in a flat Earth. How
 
 America as a distinct land
 
-1893_Nina_Pinta_Santa_Maria_replicas.jpg]] Christopher_Columbus_monument,_Denver,_CO_IMG_5575.JPG in Denver, Colorado[138]]]
+]] in Denver, Colorado[138]]]
 
 The scholar Amerigo Vespucci, who sailed to America in the years following Columbus's first voyage, was the first to speculate that the land was not part of Asia but in fact constituted some wholly new continent previously unknown to Eurasians. His travel journals, published 1502–04, convinced German cartographer Martin Waldseemüller to reach the same conclusion, and in 1507—a year after Columbus's death—Waldseemüller published a world map calling the new continent _America_ from Vespucci's Latinized name "Americus". According to Paul Lunde, "The preoccupation of European courts with the rise of the Ottoman Turks in the East partly explains their relative lack of interest in Columbus's discoveries in the West."[139]
 
@@ -307,7 +295,7 @@ Some historians have argued that, while brutal, Columbus was simply a product of
 
 Physical appearance
 
-Christopher_Columbus_Face.jpg'', 1531–36]]
+'', 1531–36]]
 
 Although an abundance of artwork involving Christopher Columbus exists, no authentic contemporary portrait has been found.[185] James W. Loewen, author of _Lies My Teacher Told Me_, believes the various posthumous portraits have no historical value.
 

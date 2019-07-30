@@ -52,7 +52,7 @@ In practice, no process is truly adiabatic. Many processes rely on a large diffe
 
 Ideal gas (reversible process)
 
-Adiabatic.svg of the working substance must decrease]] The mathematical equation for an ideal gas undergoing a reversible (i.e., no entropy generation) adiabatic process can be represented by the polytropic process equation[10]
+of the working substance must decrease]] The mathematical equation for an ideal gas undergoing a reversible (i.e., no entropy generation) adiabatic process can be represented by the polytropic process equation[10]
 
 _P__V_^(_γ_) = constant,
 where is pressure, is volume, and for this case _γ_}}, where
@@ -250,8 +250,6 @@ An adiabat is a curve of constant entropy in a diagram. Some properties of adiab
 5.  If adiabats and isotherms are graphed at regular intervals of entropy and temperature, respectively (like altitude on a contour map), then as the eye moves towards the axes (towards the south-west), it sees the density of isotherms stay constant, but it sees the density of adiabats grow. The exception is very near absolute zero, where the density of adiabats drops sharply and they become rare (see Nernst's theorem).
 
 The following diagram is a _P_–_V_ diagram with a superposition of adiabats and isotherms:
-
-Image:Entropyandtemp.PNG
 
 The isotherms are the red curves and the adiabats are the black curves.
 

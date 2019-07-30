@@ -1,4 +1,4 @@
-Powerloom_weaving_in_1835.jpg in a weaving shed in 1835. Textiles were the leading industry of the Industrial Revolution, and mechanized factories, powered by a central water wheel or steam engine, were the new workplace.]]
+in a weaving shed in 1835. Textiles were the leading industry of the Industrial Revolution, and mechanized factories, powered by a central water wheel or steam engine, were the new workplace.]]
 
 The INDUSTRIAL REVOLUTION, now also known as the FIRST INDUSTRIAL REVOLUTION, was the transition to new manufacturing processes in Europe and the United States, in the period from about 1760 to sometime between 1820 and 1840. This transition included going from hand production methods to machines, new chemical manufacturing and iron production processes, the increasing use of steam power and water power, the development of machine tools and the rise of the mechanized factory system. The Industrial Revolution also led to an unprecedented rise in the rate of population growth.
 
@@ -51,8 +51,6 @@ Cotton was a difficult raw material for Europe to obtain before it was grown on 
 
 Trade and textiles
 
-Colonisation_1754.png
-
 The Age of Discovery was followed by a period of colonialism beginning around the 16th century. Following the discovery of a trade route to India around southern Africa by the Portuguese, the Dutch established the Verenigde Oostindische Compagnie (abbr. VOC) or Dutch East India Company and the British founded the East India Company, along with smaller companies of different nationalities which established trading posts and employed agents to engage in trade throughout the Indian Ocean region and between the Indian Ocean region and North Atlantic Europe. One of the largest segments of this trade was in cotton textiles, which were purchased in India and sold in Southeast Asia, including the Indonesian archipelago, where spices were purchased for sale to Southeast Asia and Europe. By the mid-1760s cloth was over three-quarters of the East India Company's exports. Indian textiles were in demand in North Atlantic region of Europe where previously only wool and linen were available; however, the amount of cotton goods consumed in Western Europe was minor until the early 19th century.[52]
 
 Pre-mechanized European textile production
@@ -69,15 +67,15 @@ Invention of textile machinery
 
 The flying shuttle, patented in 1733 by John Kay, with a number of subsequent improvements including an important one in 1747, doubled the output of a weaver, worsening the imbalance between spinning and weaving. It became widely used around Lancashire after 1760 when John's son, Robert, invented the drop box, which facilitated changing thread colors.[61]
 
-Lewis Paul patented the roller spinning frame and the flyer-and-bobbin system for drawing wool to a more even thickness. The technology was developed with the help of John Wyatt of Birmingham. Paul and Wyatt opened a mill in Birmingham which used their new rolling machine powered by a donkey. In 1743 a factory opened in Northampton with 50 spindles on each of five of Paul and Wyatt's machines. This operated until about 1764. A similar mill was built by Daniel Bourn in Leominster, but this burnt down. Both Lewis Paul and Daniel Bourn patented carding machines in 1748. Based on two sets of rollers that travelled at different speeds, it was later used in the first cotton spinning mill. Lewis's invention was later developed and improved by Richard Arkwright in his water frame and Samuel Crompton in his spinning mule. Spinning_jenny.jpg in a museum in Wuppertal. Invented by James Hargreaves in 1764, the spinning jenny was one of the innovations that started the revolution.]] In 1764 in the village of Stanhill, Lancashire, James Hargreaves invented the spinning jenny, which he patented in 1770. It was the first practical spinning frame with multiple spindles.[62] The jenny worked in a similar manner to the spinning wheel, by first clamping down on the fibres, then by drawing them out, followed by twisting.[63] It was a simple, wooden framed machine that only cost about £6 for a 40-spindle model in 1792,[64] and was used mainly by home spinners. The jenny produced a lightly twisted yarn only suitable for weft, not warp.[65]
+Lewis Paul patented the roller spinning frame and the flyer-and-bobbin system for drawing wool to a more even thickness. The technology was developed with the help of John Wyatt of Birmingham. Paul and Wyatt opened a mill in Birmingham which used their new rolling machine powered by a donkey. In 1743 a factory opened in Northampton with 50 spindles on each of five of Paul and Wyatt's machines. This operated until about 1764. A similar mill was built by Daniel Bourn in Leominster, but this burnt down. Both Lewis Paul and Daniel Bourn patented carding machines in 1748. Based on two sets of rollers that travelled at different speeds, it was later used in the first cotton spinning mill. Lewis's invention was later developed and improved by Richard Arkwright in his water frame and Samuel Crompton in his spinning mule. in a museum in Wuppertal. Invented by James Hargreaves in 1764, the spinning jenny was one of the innovations that started the revolution.]] In 1764 in the village of Stanhill, Lancashire, James Hargreaves invented the spinning jenny, which he patented in 1770. It was the first practical spinning frame with multiple spindles.[62] The jenny worked in a similar manner to the spinning wheel, by first clamping down on the fibres, then by drawing them out, followed by twisting.[63] It was a simple, wooden framed machine that only cost about £6 for a 40-spindle model in 1792,[64] and was used mainly by home spinners. The jenny produced a lightly twisted yarn only suitable for weft, not warp.[65]
 
 The spinning frame or water frame was developed by Richard Arkwright who, along with two partners, patented it in 1769. The design was partly based on a spinning machine built for Thomas High by clockmaker John Kay, who was hired by Arkwright.[66] For each spindle the water frame used a series of four pairs of rollers, each operating at a successively higher rotating speed, to draw out the fibre, which was then twisted by the spindle. The roller spacing was slightly longer than the fibre length. Too close a spacing caused the fibres to break while too distant a spacing caused uneven thread. The top rollers were leather-covered and loading on the rollers was applied by a weight. The weights kept the twist from backing up before the rollers. The bottom rollers were wood and metal, with fluting along the length. The water frame was able to produce a hard, medium count thread suitable for warp, finally allowing 100% cotton cloth to be made in Britain. A horse powered the first factory to use the spinning frame. Arkwright and his partners used water power at a factory in Cromford, Derbyshire in 1771, giving the invention its name.
 
-Mule-jenny.jpg built by the inventor Samuel Crompton. The mule produced high-quality thread with minimal labour. Bolton Museum, Greater Manchester]]
+built by the inventor Samuel Crompton. The mule produced high-quality thread with minimal labour. Bolton Museum, Greater Manchester]]
 
 Samuel Crompton's Spinning Mule was introduced in 1779. Mule implies a hybrid because it was a combination of the spinning jenny and the water frame, in which the spindles were placed on a carriage, which went through an operational sequence during which the rollers stopped while the carriage moved away from the drawing roller to finish drawing out the fibres as the spindles started rotating.[67] Crompton's mule was able to produce finer thread than hand spinning and at a lower cost. Mule spun thread was of suitable strength to be used as warp, and finally allowed Britain to produce highly competitive yarn in large quantities.[68]
 
-Marshall's_flax-mill,_Holbeck,_Leeds_-_interior_-_c.1800.jpg in Leeds, West Yorkshire]]
+in Leeds, West Yorkshire]]
 
 Realising that the expiration of the Arkwright patent would greatly increase the supply of spun cotton and led to a shortage of weavers, Edmund Cartwright developed a vertical power loom which he patented in 1785. In 1776 he patented a two-man operated loom which was more conventional.[69] Cartwright built two factories; the first burned down and the second was sabotaged by his workers. Cartwright's loom design had several flaws, the most serious being thread breakage. Samuel Horrocks patented a fairly successful loom in 1813. Horock's loom was improved by Richard Roberts in 1822 and these were produced in large numbers by Roberts, Hill & Co.[70]
 
@@ -93,11 +91,11 @@ The earliest European attempts at mechanized spinning were with wool; however, w
 
 Silk
 
-Silkmill1.jpg]] Arguably the first highly mechanised factory was John Lombe's water-powered silk mill at Derby, operational by 1721. Lombe learned silk thread manufacturing by taking a job in Italy and acting as an industrial spy; however, because the Italian silk industry guarded its secrets closely, the state of the industry at that time is unknown. Although Lombe's factory was technically successful, the supply of raw silk from Italy was cut off to eliminate competition. In order to promote manufacturing the Crown paid for models of Lombe's machinery which were exhibited in the Tower of London.[77][78]
+]] Arguably the first highly mechanised factory was John Lombe's water-powered silk mill at Derby, operational by 1721. Lombe learned silk thread manufacturing by taking a job in Italy and acting as an industrial spy; however, because the Italian silk industry guarded its secrets closely, the state of the industry at that time is unknown. Although Lombe's factory was technically successful, the supply of raw silk from Italy was cut off to eliminate competition. In order to promote manufacturing the Crown paid for models of Lombe's machinery which were exhibited in the Tower of London.[77][78]
 
 Iron industry
 
-Reverberatory_furnace_diagram.png could produce cast iron using mined coal. The burning coal remained separate from the iron and so did not contaminate the iron with impurities like sulfur and silica. This opened the way to increased iron production.]] Ironbridge_6.jpg, Shropshire, England, the world's first bridge constructed of iron opened in 1781.[79]]] Puddling_furnace_int_captions.png
+could produce cast iron using mined coal. The burning coal remained separate from the iron and so did not contaminate the iron with impurities like sulfur and silica. This opened the way to increased iron production.]] , Shropshire, England, the world's first bridge constructed of iron opened in 1781.[79]]]
 
 UK iron production statistics
 
@@ -141,13 +139,13 @@ The supply of cheaper iron and steel aided a number of industries, such as those
 
 Steam power
 
-Maquina_vapor_Watt_ETSIIM.jpg. James Watt transformed the steam engine from a reciprocating motion that was used for pumping to a rotating motion suited to industrial applications. Watt and others significantly improved the efficiency of the steam engine.]]
+. James Watt transformed the steam engine from a reciprocating motion that was used for pumping to a rotating motion suited to industrial applications. Watt and others significantly improved the efficiency of the steam engine.]]
 
 The development of the stationary steam engine was an important element of the Industrial Revolution; however, during the early period of the Industrial Revolution, most industrial power was supplied by water and wind. In Britain by 1800 an estimated 10,000 horsepower was being supplied by steam. By 1815 steam power had grown to 210,000 hp.[106]
 
 The first commercially successful industrial use of steam power was due to Thomas Savery in 1698. He constructed and patented in London a low-lift combined vacuum and pressure water pump, that generated about one horsepower (hp) and was used in numerous water works and in a few mines (hence its "brand name", _The Miner's Friend_). Savery's pump was economical in small horsepower ranges, but was prone to boiler explosions in larger sizes. Savery pumps continued to be produced until the late 18th century.
 
-The first successful piston steam engine was introduced by Thomas Newcomen before 1712. A number of Newcomen engines were installed in Britain for draining hitherto unworkable deep mines, with the engine on the surface; these were large machines, requiring a significant amount of capital to build, and produced upwards of . They were also used to power municipal water supply pumps. They were extremely inefficient by modern standards, but when located where coal was cheap at pit heads, opened up a great expansion in coal mining by allowing mines to go deeper. Despite their disadvantages, Newcomen engines were reliable and easy to maintain and continued to be used in the coalfields until the early decades of the 19th century. By 1729, when Newcomen died, his engines had spread (first) to Hungary in 1722, Germany, Austria, and Sweden. A total of 110 are known to have been built by 1733 when the joint patent expired, of which 14 were abroad. In the 1770s the engineer John Smeaton built some very large examples and introduced a number of improvements. A total of 1,454 engines had been built by 1800.[107] Newcomens_Dampfmaschine_aus_Meyers_1890.png was the first practical piston steam engine. Subsequent steam engines were to power the Industrial Revolution.]]
+The first successful piston steam engine was introduced by Thomas Newcomen before 1712. A number of Newcomen engines were installed in Britain for draining hitherto unworkable deep mines, with the engine on the surface; these were large machines, requiring a significant amount of capital to build, and produced upwards of . They were also used to power municipal water supply pumps. They were extremely inefficient by modern standards, but when located where coal was cheap at pit heads, opened up a great expansion in coal mining by allowing mines to go deeper. Despite their disadvantages, Newcomen engines were reliable and easy to maintain and continued to be used in the coalfields until the early decades of the 19th century. By 1729, when Newcomen died, his engines had spread (first) to Hungary in 1722, Germany, Austria, and Sweden. A total of 110 are known to have been built by 1733 when the joint patent expired, of which 14 were abroad. In the 1770s the engineer John Smeaton built some very large examples and introduced a number of improvements. A total of 1,454 engines had been built by 1800.[107] was the first practical piston steam engine. Subsequent steam engines were to power the Industrial Revolution.]]
 
 A fundamental change in working principles was brought about by Scotsman James Watt. With financial support from his business partner Englishman Matthew Boulton, he had succeeded by 1778 in perfecting his steam engine, which incorporated a series of radical improvements, notably the closing off of the upper part of the cylinder, thereby making the low-pressure steam drive the top of the piston instead of the atmosphere, use of a steam jacket and the celebrated separate steam condenser chamber. The separate condenser did away with the cooling water that had been injected directly into the cylinder, which cooled the cylinder and wasted steam. Likewise, the steam jacket kept steam from condensing in the cylinder, also improving efficiency. These improvements increased engine efficiency so that Boulton and Watt's engines used only 20–25% as much coal per horsepower-hour as Newcomen's. Boulton and Watt opened the Soho Foundry for the manufacture of such engines in 1795.
 
@@ -161,7 +159,7 @@ Small industrial power requirements continued to be provided by animal and human
 
 Machine tools
 
-Maudslay_screw-cutting_lathes_of_circa_1797_and_1800.png's famous early screw-cutting lathes of circa 1797 and 1800]] Middletown_milling_machine_1818--001.png of c. 1818, associated with Robert Johnson and Simeon North]]
+'s famous early screw-cutting lathes of circa 1797 and 1800]] of c. 1818, associated with Robert Johnson and Simeon North]]
 
 Pre-industrial machinery was built by various craftsmenmillwrights built water and windmills, carpenters made wooden framing, and smiths and turners made metal parts. Wooden components had the disadvantage of changing dimensions with temperature and humidity, and the various joints tended to rack (work loose) over time. As the Industrial Revolution progressed, machines with metal parts and frames became more common. Other important uses of metal parts were in firearms and threaded fasteners, such as machine screws, bolts and nuts. There was also the need for precision in making parts. Precision would allow better working machinery, interchangeability of parts and standardization of threaded fasteners.
 
@@ -197,7 +195,7 @@ After 1860 the focus on chemical innovation was in dyestuffs, and Germany took w
 
 Cement
 
-Thamestunnel.jpg (opened 1843).
+(opened 1843).
 Cement was used in the world's first underwater tunnel.]] In 1824 Joseph Aspdin, a British bricklayer turned builder, patented a chemical process for making portland cement which was an important advance in the building trades. This process involves sintering a mixture of clay and limestone to about , then grinding it into a fine powder which is then mixed with water, sand and gravel to produce concrete. Portland cement was used by the famous English engineer Marc Isambard Brunel several years later when constructing the Thames Tunnel.[123] Cement was used on a large scale in the construction of the London sewerage system a generation later.
 
 Gas lighting
@@ -206,7 +204,7 @@ Another major industry of the later Industrial Revolution was gas lighting. Thou
 
 Glass making
 
-Crystal_Palace_interior.jpg of 1851]] A new method of producing glass, known as the cylinder process, was developed in Europe during the early 19th century. In 1832 this process was used by the Chance Brothers to create sheet glass. They became the leading producers of window and plate glass. This advancement allowed for larger panes of glass to be created without interruption, thus freeing up the space planning in interiors as well as the fenestration of buildings. The Crystal Palace is the supreme example of the use of sheet glass in a new and innovative structure.
+of 1851]] A new method of producing glass, known as the cylinder process, was developed in Europe during the early 19th century. In 1832 this process was used by the Chance Brothers to create sheet glass. They became the leading producers of window and plate glass. This advancement allowed for larger panes of glass to be created without interruption, thus freeing up the space planning in interiors as well as the fenestration of buildings. The Crystal Palace is the supreme example of the use of sheet glass in a new and innovative structure.
 
 Paper machine
 
@@ -240,7 +238,7 @@ The Industrial Revolution improved Britain's transport infrastructure with a tur
 
 Canals and improved waterways
 
-Barton-on-Irwell_11.05.02R.jpg, famous because of its commercial success, crossing the Manchester Ship Canal, one of the last canals to be built.]]
+, famous because of its commercial success, crossing the Manchester Ship Canal, one of the last canals to be built.]]
 
 Before and during the Industrial Revolution navigation on several British rivers was improved by removing obstructions, straightening curves, widening and deepening and building navigation locks. Britain had over 1,000 miles of navigable rivers and streams by 1750.[136]
 
@@ -254,7 +252,7 @@ Britain's canal network, together with its surviving mill buildings, is one of t
 
 Roads
 
-Rakeman_–_First_American_Macadam_Road.jpg)'' US Department of Transportation – Federal Highway Administration (Accessed 10 October 2008)]]
+)'' US Department of Transportation – Federal Highway Administration (Accessed 10 October 2008)]]
 
 France was known for having an excellent system of roads at the time of the Industrial Revolution; however, most of the roads on the European Continent and in the U.K. were in bad condition and dangerously rutted.[143][144]
 
@@ -262,7 +260,7 @@ Much of the original British road system was poorly maintained by thousands of l
 
 Railways
 
-Opening_Liverpool_and_Manchester_Railway.jpg in 1830, the first inter-city railway in the world and which spawned Railway Mania due to its success.]]
+in 1830, the first inter-city railway in the world and which spawned Railway Mania due to its success.]]
 
 Reducing friction was one of the major reasons for the success of railroads compared to wagons. This was demonstrated on an iron plate covered wooden tramway in 1805 at Croydon, England.
 
@@ -339,7 +337,7 @@ The invention of the paper machine and the application of steam power to the ind
 
 Clothing and consumer goods
 
-BLW_Tea_and_coffee_service,_Staffordshire.jpg tea and coffee service]] Consumers benefited from falling prices for clothing and household articles such as cast iron cooking utensils, and in the following decades, stoves for cooking and space heating. Coffee, tea, sugar, tobacco and chocolate became affordable to many in Europe. Watches and household clocks became popular consumer items.
+tea and coffee service]] Consumers benefited from falling prices for clothing and household articles such as cast iron cooking utensils, and in the following decades, stoves for cooking and space heating. Coffee, tea, sugar, tobacco and chocolate became affordable to many in Europe. Watches and household clocks became popular consumer items.
 
 Meeting the demands of the consumer revolution and growth in wealth of the middle classes in Britain, potter and entrepreneur Josiah Wedgwood, founder of Wedgwood fine china and porcelain, created goods such as tableware, which was starting to become a common feature on dining tables.[183]
 
@@ -373,7 +371,7 @@ In terms of social structure, the Industrial Revolution witnessed the triumph of
 
 Factories and urbanisation
 
-Cottonopolis1.jpg"), pictured in 1840, showing the mass of factory chimneys]]
+"), pictured in 1840, showing the mass of factory chimneys]]
 
 Industrialisation led to the creation of the factory. The factory system contributed to the growth of urban areas, as large numbers of workers migrated into the cities in search of work in the factories. Nowhere was this better illustrated than the mills and associated industries of Manchester, nicknamed "Cottonopolis", and the world's first industrial city.[207] Manchester experienced a six-times increase in its population between 1771 and 1831. Bradford grew by 50% every ten years between 1811 and 1851 and by 1851 only 50% of the population of Bradford was actually born there.[208]
 
@@ -386,8 +384,6 @@ In other industries, the transition to factory production was not so divisive. S
 By 1746 an integrated brass mill was working at Warmley near Bristol. Raw material went in at one end, was smelted into brass and was turned into pans, pins, wire, and other goods. Housing was provided for workers on site. Josiah Wedgwood and Matthew Boulton (whose Soho Manufactory was completed in 1766) were other prominent early industrialists, who employed the factory system.
 
 Child labour
-
-coaltub.png
 
 The Industrial Revolution led to a population increase but the chances of surviving childhood did not improve throughout the Industrial Revolution, although _infant_ mortality rates were reduced markedly.[211][212] There was still limited opportunity for education and children were expected to work. Employers could pay a child less than an adult even though their productivity was comparable; there was no need for strength to operate an industrial machine, and since the industrial system was completely new, there were no experienced adult labourers. This made child labour the labour of choice for manufacturing in the early phases of the Industrial Revolution between the 18th and 19th centuries. In England and Scotland in 1788, two-thirds of the workers in 143 water-powered cotton mills were described as children.[213]
 
@@ -412,8 +408,6 @@ Unions slowly overcame the legal restrictions on the right to strike. In 1842, a
 Eventually, effective political organisation for working people was achieved through the trades unions who, after the extensions of the franchise in 1867 and 1885, began to support socialist political parties that later merged to become the British Labour Party.
 
 Luddites
-
-FrameBreaking-1812.jpg
 
 The rapid industrialisation of the English economy cost many craft workers their jobs. The movement started first with lace and hosiery workers near Nottingham and spread to other areas of the textile industry owing to early industrialisation. Many weavers also found themselves suddenly unemployed since they could no longer compete with machines which only required relatively limited (and unskilled) labour to produce more cloth than a single weaver. Many such unemployed workers, weavers, and others, turned their animosity towards the machines that had taken their jobs and began destroying factories and machinery. These attackers became known as Luddites, supposedly followers of Ned Ludd, a folklore figure. The first attacks of the Luddite movement began in 1811. The Luddites rapidly gained popularity, and the British government took drastic measures, using the militia or army to protect industry. Those rioters who were caught were tried and hanged, or transported for life.
 
@@ -442,7 +436,7 @@ The Americas, particularly the U.S., had labour shortages and high priced labour
 
 Effect on environment
 
-StRolloxChemical_1831.jpg The origins of the environmental movement lay in the response to increasing levels of smoke pollution in the atmosphere during the Industrial Revolution. The emergence of great factories and the concomitant immense growth in coal consumption gave rise to an unprecedented level of air pollution in industrial centers; after 1900 the large volume of industrial chemical discharges added to the growing load of untreated human waste.[227] The first large-scale, modern environmental laws came in the form of Britain's Alkali Acts, passed in 1863, to regulate the deleterious air pollution (gaseous hydrochloric acid) given off by the Leblanc process, used to produce soda ash. An Alkali inspector and four sub-inspectors were appointed to curb this pollution. The responsibilities of the inspectorate were gradually expanded, culminating in the Alkali Order 1958 which placed all major heavy industries that emitted smoke, grit, dust and fumes under supervision.
+The origins of the environmental movement lay in the response to increasing levels of smoke pollution in the atmosphere during the Industrial Revolution. The emergence of great factories and the concomitant immense growth in coal consumption gave rise to an unprecedented level of air pollution in industrial centers; after 1900 the large volume of industrial chemical discharges added to the growing load of untreated human waste.[227] The first large-scale, modern environmental laws came in the form of Britain's Alkali Acts, passed in 1863, to regulate the deleterious air pollution (gaseous hydrochloric acid) given off by the Leblanc process, used to produce soda ash. An Alkali inspector and four sub-inspectors were appointed to curb this pollution. The responsibilities of the inspectorate were gradually expanded, culminating in the Alkali Order 1958 which placed all major heavy industries that emitted smoke, grit, dust and fumes under supervision.
 
 The manufactured gas industry began in British cities in 1812–1820. The technique used produced highly toxic effluent that was dumped into sewers and rivers. The gas companies were repeatedly sued in nuisance lawsuits. They usually lost and modified the worst practices. The City of London repeatedly indicted gas companies in the 1820s for polluting the Thames and poisoning its fish. Finally, Parliament wrote company charters to regulate toxicity.[228] The industry reached the US around 1850 causing pollution and lawsuits.[229]
 
@@ -498,7 +492,7 @@ Modern industry first appeared in textiles, including cotton and especially silk
 
 United States
 
-SlaterMill.JPG.]] During the late 18th an early 19th centuries when the UK and parts of Western Europe began to industrialise, the US was primarily an agricultural and natural resource producing and processing economy.[245] The building of roads and canals, the introduction of steamboats and the building of railroads were important for handling agricultural and natural resource products in the large and sparsely populated country of the period.[246][247]
+.]] During the late 18th an early 19th centuries when the UK and parts of Western Europe began to industrialise, the US was primarily an agricultural and natural resource producing and processing economy.[245] The building of roads and canals, the introduction of steamboats and the building of railroads were important for handling agricultural and natural resource products in the large and sparsely populated country of the period.[246][247]
 
 Important American technological contributions during the period of the Industrial Revolution were the cotton gin and the development of a system for making interchangeable parts, the latter aided by the development of the milling machine in the US. The development of machine tools and the system of interchangeable parts were the basis for the rise of the US as the world's leading industrial nation in the late 19th century.
 
@@ -519,9 +513,9 @@ Precision manufacturing techniques made it possible to build machines that mecha
 
 Second Industrial Revolution
 
-Hartmann_Maschinenhalle_1868_(01).jpg in Chemnitz, Germany, 1868]] Steel is often cited as the first of several new areas for industrial mass-production, which are said to characterise a "Second Industrial Revolution", beginning around 1850, although a method for mass manufacture of steel was not invented until the 1860s, when Sir Henry Bessemer invented a new furnace which could convert molten pig iron into steel in large quantities. However, it only became widely available in the 1870s after the process was modified to produce more uniform quality.[254][255] Bessemer steel was being displaced by the open hearth furnace near the end of the 19th century.
+in Chemnitz, Germany, 1868]] Steel is often cited as the first of several new areas for industrial mass-production, which are said to characterise a "Second Industrial Revolution", beginning around 1850, although a method for mass manufacture of steel was not invented until the 1860s, when Sir Henry Bessemer invented a new furnace which could convert molten pig iron into steel in large quantities. However, it only became widely available in the 1870s after the process was modified to produce more uniform quality.[254][255] Bessemer steel was being displaced by the open hearth furnace near the end of the 19th century.
 
-Bessemer_5180.JPG’s Bessemer converter, the most important technique for making steel from the 1850s to the 1950s. Located in Sheffield (Steel City)]] This Second Industrial Revolution gradually grew to include chemicals, mainly the chemical industries, petroleum (refining and distribution), and, in the 20th century, the automotive industry, and was marked by a transition of technological leadership from Britain to the United States and Germany.
+’s Bessemer converter, the most important technique for making steel from the 1850s to the 1950s. Located in Sheffield (Steel City)]] This Second Industrial Revolution gradually grew to include chemicals, mainly the chemical industries, petroleum (refining and distribution), and, in the 20th century, the automotive industry, and was marked by a transition of technological leadership from Britain to the United States and Germany.
 
 The increasing availability of economical petroleum products also reduced the importance of coal and further widened the potential for industrialisation.
 
@@ -550,7 +544,7 @@ Governments' grant of limited monopolies to inventors under a developing patent 
 
 Causes in Europe
 
-Microcosm_of_London_Plate_017_-_The_Coal_Exchange_(tone).jpg, c. 1808.
+, c. 1808.
 European 17th-century colonial expansion, international trade, and creation of financial markets produced a new legal and financial environment, one which supported and enabled 18th-century industrial growth.]] One question of active interest to historians is why the Industrial Revolution occurred in Europe and not in other parts of the world in the 18th century, particularly China, India, and the Middle East (which pioneered in shipbuilding, textile production, water mills, and much more in the period between 750 and 1100[268]), or at other times like in Classical Antiquity[269] or the Middle Ages.[270] A recent account argued that Europeans have been characterized for thousands of years by a freedom-loving culture originating from the aristocratic societies of early Indo-European invaders.[271] Many historians, however, have challenged this explanation as being not only Eurocentric, but also ignoring historical context. In fact, before the Industrial Revolution, "there existed something of a global economic parity between the most advanced regions in the world economy."[272] These historians have suggested a number of other factors, including education, technological changes[273] (see Scientific Revolution in Europe), "modern" government, "modern" work attitudes, ecology, and culture.[274]
 
 China was the world's most technologically advanced country for many centuries; however, China stagnated economically and technologically and was surpassed by Western Europe before the Age of Discovery, by which time China banned imports and denied entry to foreigners. China was also a totalitarian society. China also heavily taxed transported goods.[275][276] Modern estimates of per capita income in Western Europe in the late 18th century are of roughly 1,500 dollars in purchasing power parity (and Britain had a per capita income of nearly 2,000 dollars[277]) whereas China, by comparison, had only 450 dollars. India was essentially feudal, politically fragmented and not as economically advanced as Western Europe.[278]
@@ -580,11 +574,11 @@ Great Britain provided the legal and cultural foundations that enabled entrepren
 
 There were two main values that really drove the Industrial Revolution in Britain. These values were self-interest and an entrepreneurial spirit. Because of these interests, many industrial advances were made that resulted in a huge increase in personal wealth and a consumer revolution.[296] These advancements also greatly benefitted the British society as a whole. Countries around the world started to recognise the changes and advancements in Britain and use them as an example to begin their own Industrial Revolutions.[297]
 
-The debate about the start of the Industrial Revolution also concerns the massive lead that Great Britain had over other countries. Some have stressed the importance of natural or financial resources that Britain received from its many overseas colonies or that profits from the British slave trade between Africa and the Caribbean helped fuel industrial investment. However, it has been pointed out that slave trade and West Indian plantations provided only 5% of the British national income during the years of the Industrial Revolution.[298] Even though slavery accounted for so little, Caribbean-based demand accounted for 12% of Britain's industrial output.[299] William_Bell_Scott_-_Iron_and_Coal.jpg _Iron and Coal_, 1855–60]]
+The debate about the start of the Industrial Revolution also concerns the massive lead that Great Britain had over other countries. Some have stressed the importance of natural or financial resources that Britain received from its many overseas colonies or that profits from the British slave trade between Africa and the Caribbean helped fuel industrial investment. However, it has been pointed out that slave trade and West Indian plantations provided only 5% of the British national income during the years of the Industrial Revolution.[298] Even though slavery accounted for so little, Caribbean-based demand accounted for 12% of Britain's industrial output.[299] _Iron and Coal_, 1855–60]]
 
 Instead, the greater liberalisation of trade from a large merchant base may have allowed Britain to produce and use emerging scientific and technological developments more effectively than countries with stronger monarchies, particularly China and Russia. Britain emerged from the Napoleonic Wars as the only European nation not ravaged by financial plunder and economic collapse, and having the only merchant fleet of any useful size (European merchant fleets were destroyed during the war by the Royal Navy[300]). Britain's extensive exporting cottage industries also ensured markets were already available for many early forms of manufactured goods. The conflict resulted in most British warfare being conducted overseas, reducing the devastating effects of territorial conquest that affected much of Europe. This was further aided by Britain's geographical positionan island separated from the rest of mainland Europe.
 
-Thornhillvanda.jpg. Enthroned in heaven with the Virtues behind them are the royals William III and Mary II who had taken the throne after the Glorious Revolution and signed the English Bill of Rights of 1689. William tramples on arbitrary power and hands the red cap of liberty to Europe where, unlike Britain, absolute monarchy stayed the normal form of power execution. Below William is the French king Louis XIV.[301]]] Another theory is that Britain was able to succeed in the Industrial Revolution due to the availability of key resources it possessed. It had a dense population for its small geographical size. Enclosure of common land and the related agricultural revolution made a supply of this labour readily available. There was also a local coincidence of natural resources in the North of England, the English Midlands, South Wales and the Scottish Lowlands. Local supplies of coal, iron, lead, copper, tin, limestone and water power resulted in excellent conditions for the development and expansion of industry. Also, the damp, mild weather conditions of the North West of England provided ideal conditions for the spinning of cotton, providing a natural starting point for the birth of the textiles industry.
+. Enthroned in heaven with the Virtues behind them are the royals William III and Mary II who had taken the throne after the Glorious Revolution and signed the English Bill of Rights of 1689. William tramples on arbitrary power and hands the red cap of liberty to Europe where, unlike Britain, absolute monarchy stayed the normal form of power execution. Below William is the French king Louis XIV.[301]]] Another theory is that Britain was able to succeed in the Industrial Revolution due to the availability of key resources it possessed. It had a dense population for its small geographical size. Enclosure of common land and the related agricultural revolution made a supply of this labour readily available. There was also a local coincidence of natural resources in the North of England, the English Midlands, South Wales and the Scottish Lowlands. Local supplies of coal, iron, lead, copper, tin, limestone and water power resulted in excellent conditions for the development and expansion of industry. Also, the damp, mild weather conditions of the North West of England provided ideal conditions for the spinning of cotton, providing a natural starting point for the birth of the textiles industry.
 
 The stable political situation in Britain from around 1688 following the Glorious Revolution, and British society's greater receptiveness to change (compared with other European countries) can also be said to be factors favouring the Industrial Revolution. Peasant resistance to industrialisation was largely eliminated by the Enclosure movement, and the landed upper classes developed commercial interests that made them pioneers in removing obstacles to the growth of capitalism.[302] (This point is also made in Hilaire Belloc's _The Servile State_.)
 
@@ -598,7 +592,7 @@ Economic historian Robert Allen has argued that high wages, cheap capital and ve
 
 Transfer of knowledge
 
-Wright_of_Derby,_The_Orrery.jpg (c. 1766). Informal philosophical societies spread scientific advances]] Knowledge of innovation was spread by several means. Workers who were trained in the technique might move to another employer or might be poached. A common method was for someone to make a study tour, gathering information where he could. During the whole of the Industrial Revolution and for the century before, all European countries and America engaged in study-touring; some nations, like Sweden and France, even trained civil servants or technicians to undertake it as a matter of state policy. In other countries, notably Britain and America, this practice was carried out by individual manufacturers eager to improve their own methods. Study tours were common then, as now, as was the keeping of travel diaries. Records made by industrialists and technicians of the period are an incomparable source of information about their methods.
+(c. 1766). Informal philosophical societies spread scientific advances]] Knowledge of innovation was spread by several means. Workers who were trained in the technique might move to another employer or might be poached. A common method was for someone to make a study tour, gathering information where he could. During the whole of the Industrial Revolution and for the century before, all European countries and America engaged in study-touring; some nations, like Sweden and France, even trained civil servants or technicians to undertake it as a matter of state policy. In other countries, notably Britain and America, this practice was carried out by individual manufacturers eager to improve their own methods. Study tours were common then, as now, as was the keeping of travel diaries. Records made by industrialists and technicians of the period are an incomparable source of information about their methods.
 
 Another means for the spread of innovation was by the network of informal philosophical societies, like the Lunar Society of Birmingham, in which members met to discuss 'natural philosophy' (_i.e._ science) and often its application to manufacturing. The Lunar Society flourished from 1765 to 1809, and it has been said of them, "They were, if you like, the revolutionary committee of that most far reaching of all the eighteenth century revolutions, the Industrial Revolution".[310] Other such societies published volumes of proceedings and transactions. For example, the London-based Royal Society of Arts published an illustrated volume of new inventions, as well as papers about them in its annual _Transactions_.
 

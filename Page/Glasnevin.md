@@ -67,13 +67,13 @@ As well as the amenities of the National Botanic Gardens (Ireland) and local par
 
 National Botanic Gardens
 
-INBG_Glasnevin_02.jpg]] The house and lands of the poet Thomas Tickell were sold in 1790 to the Irish Parliament and given to the Royal Dublin Society for them to establish Ireland's first Botanic Gardens. The gardens were the first location in Ireland where the infection responsible for the 1845–1847 potato famine was identified. Throughout the famine research to stop the infection was undertaken at the gardens.
+]] The house and lands of the poet Thomas Tickell were sold in 1790 to the Irish Parliament and given to the Royal Dublin Society for them to establish Ireland's first Botanic Gardens. The gardens were the first location in Ireland where the infection responsible for the 1845–1847 potato famine was identified. Throughout the famine research to stop the infection was undertaken at the gardens.
 
 The which border the River Tolka also adjoin the Prospect Cemetery. In 2002 the Botanic Gardens gained a new two-storey complex which included a new cafe and a large lecture theatre. The Irish National Herbarium is also located at the botanic gardens.
 
 Glasnevin (Prospect) Cemetery
 
-Crossglasnevin.jpg]] Prospect Cemetery is located in Glasnevin, although better known as Glasnevin Cemetery, the most historically notable burial place in the country and the last resting place, among a host of historical figures, of Michael Collins, Éamon de Valera, Charles Stewart Parnell and also Arthur Griffith. This graveyard led to Glasnevin being known as "the dead centre of Dublin". It opened in 1832 and is the final resting place for thousands of ordinary citizens, as well as many Irish patriots.
+]] Prospect Cemetery is located in Glasnevin, although better known as Glasnevin Cemetery, the most historically notable burial place in the country and the last resting place, among a host of historical figures, of Michael Collins, Éamon de Valera, Charles Stewart Parnell and also Arthur Griffith. This graveyard led to Glasnevin being known as "the dead centre of Dublin". It opened in 1832 and is the final resting place for thousands of ordinary citizens, as well as many Irish patriots.
 
 Hart's Corner
 
@@ -91,8 +91,6 @@ The house was, under Mrs Delany, a centre of Dublin's intellectual life.[10] Swi
 
 Patrick Delany died in 1768 at the age of 82, prompting his widow to sell Delville and return to her native England until her death twenty years later.
 
-A_Church_near_National_Botanic_Garden,Dublin,Ireland_-_panoramio.jpg
-
 The Pyramid Church
 
 Glasnevin is also a parish in the Fingal South West deanery of the Roman Catholic Archdiocese of Dublin.[11] It is served by the Church of Lady of Dolours.
@@ -101,11 +99,11 @@ The church underwent some refurbishment work inside and in its grounds and car p
 
 Met Éireann
 
-Met_ireann_(Irish_Meteorological_Service)_(1387399963).jpg headquarters]] In 1975 the new headquarters of Met Éireann, the Irish Meteorological Office, opened just off Glasnevin Hill, on the former site of Marlborough House. The Met Éireann building too was built in a somewhat pyramidal shape and is recognised as one of the most significant, smaller commercial buildings, to be erected in Dublin in the 1970s.
+headquarters]] In 1975 the new headquarters of Met Éireann, the Irish Meteorological Office, opened just off Glasnevin Hill, on the former site of Marlborough House. The Met Éireann building too was built in a somewhat pyramidal shape and is recognised as one of the most significant, smaller commercial buildings, to be erected in Dublin in the 1970s.
 
 Griffith Avenue
 
-Griffith_Avenue,_Glasnevin,_Dublin,_Ireland_-_geograph.org.uk_-_332192.jpg Griffith Avenue, which runs through Glasnevin, Drumcondra and Marino. The avenue spans three electoral constituencies. It was named after Arthur Griffith who was the founder and third leader of Sinn Féin and also served as President of Dáil Éireann. Arthur Griffith also was buried in Glasnevin Cemetery.
+Griffith Avenue, which runs through Glasnevin, Drumcondra and Marino. The avenue spans three electoral constituencies. It was named after Arthur Griffith who was the founder and third leader of Sinn Féin and also served as President of Dáil Éireann. Arthur Griffith also was buried in Glasnevin Cemetery.
 
 
 Amenities and sport
@@ -119,8 +117,6 @@ There are several primary schools in Glasnevin, including Lindsay Road National 
 There are several Roman Catholic secondary schools in the area St Vincent's (Christian Brothers) School, Scoil Chaitríona and St Mary's Secondary School.
 
 Billy Whelan, one of the eight Manchester United players who lost their lives in the Munich air disaster of 6 February 1958, was born locally on 1 April 1935. He is buried in Glasnevin Cemetery.[13]
-
-DCU_Glasnevin_Library_in_2009.jpg
 
 
 Representation

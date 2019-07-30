@@ -5,7 +5,7 @@ Telecommunications is the main economic sector of Ghana according to the statist
 
 Radio and television
 
-Edificios_de_los_Medios_de_comunicación_en_Ghana_(Panomara_of_Media_Buildings_in_Ghana).jpgs and Mass media corporate headquarters.|thumb]]
+s and Mass media corporate headquarters.|thumb]]
 
 In 2007 Ghana was served by one state-owned TV station, two state-owned radio networks; several privately owned TV stations and a large number of privately owned radio stations. Multiple international broadcasters and several cable and satellite TV subscription services were also available.[4] In 2010, there were 140 authorised radio stations with 84 in operation and 32 authorised television stations with approximately 26 in operation.[5] Television broadcasters include First Digital TV (ATV, BTA, FAITH TV, CHANNEL D, STAR TV, FTV, SPORTS 24, CINIMAX, PLANET KIDZ) TV Africa, Metro TV, TV3, GTV, GH One TV[6] and Viasat 1.
 
@@ -21,7 +21,7 @@ The mass media of Ghana today is among the most liberal in Africa,[9] with Ghana
 
 Telephones
 
-Ghana_Mobile_Phone_Use.jpg use, July 2009.
+use, July 2009.
 
 ]]
 
@@ -40,7 +40,7 @@ Competition among multiple mobile-cellular providers has spurred growth, with a 
 
 Internet
 
-Fibreoptic.jpg, used for high-speed Internet access and telecommunications.]]
+, used for high-speed Internet access and telecommunications.]]
 
 The top-level domain of Ghana is .gh.[21]
 

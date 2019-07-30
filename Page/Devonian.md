@@ -11,7 +11,7 @@ The palaeogeography was dominated by the supercontinent of Gondwana to the south
 
 History
 
-Lummaton_Quarry_1.JPG in Devon played an early role in defining the Devonian period.]] The period is named after Devon, a county in southwestern England, where a controversial argument in the 1830s over the age and structure of the rocks found distributed throughout the county was eventually resolved by the definition of the Devonian period in the geological timescale. The Great Devonian Controversy was a long period of vigorous argument and counter-argument between the main protagonists of Roderick Murchison with Adam Sedgwick against Henry De la Beche supported by George Bellas Greenough. Murchison and Sedgwick won the debate and named the period they proposed as the Devonian System.[5]
+in Devon played an early role in defining the Devonian period.]] The period is named after Devon, a county in southwestern England, where a controversial argument in the 1830s over the age and structure of the rocks found distributed throughout the county was eventually resolved by the definition of the Devonian period in the geological timescale. The Great Devonian Controversy was a long period of vigorous argument and counter-argument between the main protagonists of Roderick Murchison with Adam Sedgwick against Henry De la Beche supported by George Bellas Greenough. Murchison and Sedgwick won the debate and named the period they proposed as the Devonian System.[5]
 
 While the rock beds that define the start and end of the Devonian period are well identified, the exact dates are uncertain. According to the International Commission on Stratigraphy, the Devonian extends from the end of the Silurian Mya, to the beginning of the Carboniferous Mya—in North America, the beginning of the Mississippian subperiod of the Carboniferous.
 
@@ -44,7 +44,7 @@ The Devonian was a relatively warm period, and probably lacked any glaciers. The
 
 Paleogeography
 
-380_Ma_plate_tectonic_reconstruction.png opened during the Devonian]] The Devonian period was a time of great tectonic activity, as Euramerica and Gondwana drew closer together.
+opened during the Devonian]] The Devonian period was a time of great tectonic activity, as Euramerica and Gondwana drew closer together.
 
 The continent Euramerica (or Laurussia) was created in the early Devonian by the collision of Laurentia and Baltica, which rotated into the natural dry zone along the Tropic of Capricorn, which is formed as much in Paleozoic times as nowadays by the convergence of two great air-masses, the Hadley cell and the Ferrel cell. In these near-deserts, the Old Red Sandstone sedimentary beds formed, made red by the oxidised iron (hematite) characteristic of drought conditions.[14]
 
@@ -60,8 +60,6 @@ During the Devonian, Chaitenia, an island arc, accreted to Patagonia.[16]
 Life
 
 Marine biota
-
-Fish_evolution.png
 
 Sea levels in the Devonian were generally high. Marine faunas continued to be dominated by bryozoa, diverse and abundant brachiopods, the enigmatic hederellids, microconchids and corals. Lily-like crinoids (animals, their resemblance to flowers notwithstanding) were abundant, and trilobites were still fairly common. Among vertebrates, jawless armored fish (ostracoderms) declined in diversity, while the jawed fish (gnathostomes) simultaneously increased in both the sea and fresh water. Armored placoderms were numerous during the lower stages of the Devonian Period and became extinct in the Late Devonian, perhaps because of competition for food against the other fish species. Early cartilaginous (Chondrichthyes) and bony fishes (Osteichthyes) also become diverse and played a large role within the Devonian seas. The first abundant genus of shark, _Cladoselache_, appeared in the oceans during the Devonian Period. The great diversity of fish around at the time has led to the Devonian being given the name "The Age of Fish" in popular culture.
 
@@ -79,7 +77,7 @@ By the Devonian Period, life was well underway in its colonisation of the land. 
 
 The greening of land
 
-Devonianscene-green.jpgs. With large land-dwelling herbivores not yet present, large forests grew and shaped the landscape.]] Many Early Devonian plants did not have true roots or leaves like extant plants although vascular tissue is observed in many of those plants. Some of the early land plants such as _Drepanophycus_ likely spread by vegetative growth and spores.[22] The earliest land plants such as _Cooksonia_ consisted of leafless, dichotomous axes and terminal sporangia and were generally very short-statured, and grew hardly more than a few centimetres tall.[23] By far the largest land organism during this period was the enigmatic _Prototaxites_, which was possibly the fruiting body of an enormous fungus,[24] rolled liverwort mat,[25] or another organism of uncertain affinities[26] that stood more than tall, and towered over the low, carpet-like vegetation. By the Middle Devonian, shrub-like forests of primitive plants existed: lycophytes, horsetails, ferns, and progymnosperms had evolved. Most of these plants had true roots and leaves, and many were quite tall. The earliest-known trees, from the genus _Wattieza_, appeared in the Late Devonian around 385 Mya.[27] In the Late Devonian, the tree-like ancestral Progymnosperm _Archaeopteris_ which had conifer-like true wood and fern-like foliage and the cladoxylopsids grew.[28] (See also: lignin.) These are the oldest-known trees of the world's first forests. By the end of the Devonian, the first seed-forming plants had appeared. This rapid appearance of so many plant groups and growth forms has been called the "Devonian Explosion".
+s. With large land-dwelling herbivores not yet present, large forests grew and shaped the landscape.]] Many Early Devonian plants did not have true roots or leaves like extant plants although vascular tissue is observed in many of those plants. Some of the early land plants such as _Drepanophycus_ likely spread by vegetative growth and spores.[22] The earliest land plants such as _Cooksonia_ consisted of leafless, dichotomous axes and terminal sporangia and were generally very short-statured, and grew hardly more than a few centimetres tall.[23] By far the largest land organism during this period was the enigmatic _Prototaxites_, which was possibly the fruiting body of an enormous fungus,[24] rolled liverwort mat,[25] or another organism of uncertain affinities[26] that stood more than tall, and towered over the low, carpet-like vegetation. By the Middle Devonian, shrub-like forests of primitive plants existed: lycophytes, horsetails, ferns, and progymnosperms had evolved. Most of these plants had true roots and leaves, and many were quite tall. The earliest-known trees, from the genus _Wattieza_, appeared in the Late Devonian around 385 Mya.[27] In the Late Devonian, the tree-like ancestral Progymnosperm _Archaeopteris_ which had conifer-like true wood and fern-like foliage and the cladoxylopsids grew.[28] (See also: lignin.) These are the oldest-known trees of the world's first forests. By the end of the Devonian, the first seed-forming plants had appeared. This rapid appearance of so many plant groups and growth forms has been called the "Devonian Explosion".
 
 The 'greening' of the continents acted as a carbon sink, and atmospheric concentrations of carbon dioxide may have dropped. This may have cooled the climate and led to a massive extinction event. See Late Devonian extinction.
 
@@ -90,7 +88,7 @@ Primitive arthropods co-evolved with this diversified terrestrial vegetation str
 
 Late Devonian extinction
 
-Extinction_Intensity.svg A major extinction occurred at the beginning of the last phase of the Devonian period, the Famennian faunal stage (the Frasnian-Famennian boundary), about Mya, when all the fossil agnathan fishes, save for the psammosteid heterostraci, suddenly disappeared. A second strong pulse closed the Devonian period. The Late Devonian extinction was one of five major extinction events in the history of the Earth's biota, and was more drastic than the familiar extinction event that closed the Cretaceous.
+A major extinction occurred at the beginning of the last phase of the Devonian period, the Famennian faunal stage (the Frasnian-Famennian boundary), about Mya, when all the fossil agnathan fishes, save for the psammosteid heterostraci, suddenly disappeared. A second strong pulse closed the Devonian period. The Late Devonian extinction was one of five major extinction events in the history of the Earth's biota, and was more drastic than the familiar extinction event that closed the Cretaceous.
 
 The Devonian extinction crisis primarily affected the marine community, and selectively affected shallow warm-water organisms rather than cool-water organisms. The most important group to be affected by this extinction event were the reef-builders of the great Devonian reef systems.
 

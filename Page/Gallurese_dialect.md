@@ -12,8 +12,6 @@ The most ancient literary sources in Gallurese date back to the early 17th centu
 
 Typical constitutional elements of Gallurese
 
-Dialetti_corsi.png
-
 -   the plural form of nouns in _-i_ (_ghjanni_ or _polti_ 'doors') are like in Corsican and Italian, and not as in _-s_ like in Sardinian (_jannas_, _portas_), French, Spanish, Catalan, etc.
 -   Latin 'll' has become _-dd-_ (like _casteddu, coraddu_ 'castle', 'coral'), the same as in Sardinian, southern Corsican and Sicilian (but _castellu, corallu_ in northern Corsican);
 -   _-r-_ modified to _-l-_ (_poltu_ 'port', while _portu_ in Corsican and Sardinian);

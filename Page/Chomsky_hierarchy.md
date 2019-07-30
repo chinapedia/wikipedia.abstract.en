@@ -66,7 +66,7 @@ Other sequences that can be derived from this grammar are: "_ideas hate great li
 
 The hierarchy
 
-Chomsky-hierarchy.svg The following table summarizes each of Chomsky's four types of grammars, the class of language it generates, the type of automaton that recognizes it, and the form its rules must have.
+The following table summarizes each of Chomsky's four types of grammars, the class of language it generates, the type of automaton that recognizes it, and the form its rules must have.
 
 +------------------------------------------------------+------------------------+-------------------------------------------------+---------------------------------+--------------------------------------------------+
 | Grammar                                              | Languages              | Automaton                                       | Production rules (constraints)* | Examples[3]                                      |

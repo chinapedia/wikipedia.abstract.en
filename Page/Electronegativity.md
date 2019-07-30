@@ -1,4 +1,4 @@
-Electrostatic_Potential.jpg ELECTRONEGATIVITY, symbol _χ_, is a chemical property that describes the tendency of an atom to attract a shared pair of electrons (or electron density) towards itself.[1] An atom's electronegativity is affected by both its atomic number and the distance at which its valence electrons reside from the charged nucleus. The higher the associated electronegativity number, the more an atom or a substituent group attracts electrons towards itself.
+ELECTRONEGATIVITY, symbol _χ_, is a chemical property that describes the tendency of an atom to attract a shared pair of electrons (or electron density) towards itself.[1] An atom's electronegativity is affected by both its atomic number and the distance at which its valence electrons reside from the charged nucleus. The higher the associated electronegativity number, the more an atom or a substituent group attracts electrons towards itself.
 
 On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more "pull" it will have on electrons) and the number/location of other electrons present in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result the less positive charge they will experience—both because of their increased distance from the nucleus, and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).
 
@@ -48,7 +48,7 @@ In more complex compounds, there is additional error since electronegativity dep
 
 Mulliken electronegativity
 
-Pauling_and_Mullikan_electronegativities.png Robert S. Mulliken proposed that the arithmetic mean of the first ionization energy (E_(i)) and the electron affinity (E_(ea)) should be a measure of the tendency of an atom to attract electrons.[12][13] As this definition is not dependent on an arbitrary relative scale, it has also been termed ABSOLUTE ELECTRONEGATIVITY,[14] with the units of kilojoules per mole or electronvolts.
+Robert S. Mulliken proposed that the arithmetic mean of the first ionization energy (E_(i)) and the electron affinity (E_(ea)) should be a measure of the tendency of an atom to attract electrons.[12][13] As this definition is not dependent on an arbitrary relative scale, it has also been termed ABSOLUTE ELECTRONEGATIVITY,[14] with the units of kilojoules per mole or electronvolts.
 
 $$\chi = \frac{E_{\rm i} + E_{\rm ea}} 2 \,$$
 
@@ -65,19 +65,19 @@ $$\mu(\rm Mulliken) = -\chi(\rm Mulliken) = {}-\frac{E_{\rm i} + E_{\rm ea}} 2 \
 
 Allred–Rochow electronegativity
 
-Pauling_and_Allred-Rochow_electronegativities.png A. Louis Allred and Eugene G. Rochow considered[17] that electronegativity should be related to the charge experienced by an electron on the "surface" of an atom: The higher the charge per unit area of atomic surface the greater the tendency of that atom to attract electrons. The effective nuclear charge, _Z__(eff), experienced by valence electrons can be estimated using Slater's rules, while the surface area of an atom in a molecule can be taken to be proportional to the square of the covalent radius, _r__(cov). When _r__(cov) is expressed in picometres,[18]
+A. Louis Allred and Eugene G. Rochow considered[17] that electronegativity should be related to the charge experienced by an electron on the "surface" of an atom: The higher the charge per unit area of atomic surface the greater the tendency of that atom to attract electrons. The effective nuclear charge, _Z__(eff), experienced by valence electrons can be estimated using Slater's rules, while the surface area of an atom in a molecule can be taken to be proportional to the square of the covalent radius, _r__(cov). When _r__(cov) is expressed in picometres,[18]
 
 $$\chi = 3590{{Z_{\rm eff}}\over{r^2_{\rm cov}}} + 0.744$$
 
 Sanderson electronegativity equalization
 
-Pauling_and_Sanderson_electronegativities.png R.T. Sanderson has also noted the relationship between Mulliken electronegativity and atomic size, and has proposed a method of calculation based on the reciprocal of the atomic volume.[19] With a knowledge of bond lengths, Sanderson's model allows the estimation of bond energies in a wide range of compounds.[20] Sanderson's model has also been used to calculate molecular geometry, _s_-electrons energy, NMR spin-spin constants and other parameters for organic compounds.[21][22] This work underlies the concept of ELECTRONEGATIVITY EQUALIZATION, which suggests that electrons distribute themselves around a molecule to minimize or to equalize the Mulliken electronegativity.
+R.T. Sanderson has also noted the relationship between Mulliken electronegativity and atomic size, and has proposed a method of calculation based on the reciprocal of the atomic volume.[19] With a knowledge of bond lengths, Sanderson's model allows the estimation of bond energies in a wide range of compounds.[20] Sanderson's model has also been used to calculate molecular geometry, _s_-electrons energy, NMR spin-spin constants and other parameters for organic compounds.[21][22] This work underlies the concept of ELECTRONEGATIVITY EQUALIZATION, which suggests that electrons distribute themselves around a molecule to minimize or to equalize the Mulliken electronegativity.
 
 This behavior is analogous to the equalization of chemical potential in macroscopic thermodynamics.[23]
 
 Allen electronegativity
 
-Pauling_and_Allen_electronegativities.png Perhaps the simplest definition of electronegativity is that of Leland C. Allen, who has proposed that it is related to the average energy of the valence electrons in a free atom,[24] [25] [26]
+Perhaps the simplest definition of electronegativity is that of Leland C. Allen, who has proposed that it is related to the average energy of the valence electrons in a free atom,[24] [25] [26]
 
 $$\chi = {n_{\rm s}\varepsilon_{\rm s} + n_{\rm p}\varepsilon_{\rm p} \over n_{\rm s} + n_{\rm p}}$$
 
@@ -90,7 +90,7 @@ In this scale neon has the highest electronegativity of all elements, followed b
 
 Correlation of electronegativity with other properties
 
-Sn-119_isomer_shifts_in_hexahalostannates.png, against the sum of the Pauling electronegativities of the halide substituents (_x_-axis).]] The wide variety of methods of calculation of electronegativities, which all give results that correlate well with one another, is one indication of the number of chemical properties which might be affected by electronegativity. The most obvious application of electronegativities is in the discussion of bond polarity, for which the concept was introduced by Pauling. In general, the greater the difference in electronegativity between two atoms the more polar the bond that will be formed between them, with the atom having the higher electronegativity being at the negative end of the dipole. Pauling proposed an equation to relate "ionic character" of a bond to the difference in electronegativity of the two atoms,[28] although this has fallen somewhat into disuse.
+, against the sum of the Pauling electronegativities of the halide substituents (_x_-axis).]] The wide variety of methods of calculation of electronegativities, which all give results that correlate well with one another, is one indication of the number of chemical properties which might be affected by electronegativity. The most obvious application of electronegativities is in the discussion of bond polarity, for which the concept was introduced by Pauling. In general, the greater the difference in electronegativity between two atoms the more polar the bond that will be formed between them, with the atom having the higher electronegativity being at the negative end of the dipole. Pauling proposed an equation to relate "ionic character" of a bond to the difference in electronegativity of the two atoms,[28] although this has fallen somewhat into disuse.
 
 Several correlations have been shown between infrared stretching frequencies of certain bonds and the electronegativities of the atoms involved:[29] however, this is not surprising as such stretching frequencies depend in part on bond strength, which enters into the calculation of Pauling electronegativities. More convincing are the correlations between electronegativity and chemical shifts in NMR spectroscopy[30] or isomer shifts in Mössbauer spectroscopy[31] (see figure). Both these measurements depend on the s-electron density at the nucleus, and so are a good indication that the different measures of electronegativity really are describing "the ability of an atom in a molecule to attract electrons to itself".[32][33]
 
@@ -99,7 +99,7 @@ Trends in electronegativity
 
 Periodic trends
 
-Periodic_variation_of_Pauling_electronegativities.png In general, electronegativity increases on passing from left to right along a period, and decreases on descending a group. Hence, fluorine is the most electronegative of the elements (not counting noble gases), whereas caesium is the least electronegative, at least of those elements for which substantial data is available.[34] This would lead one to believe that caesium fluoride is the compound whose bonding features the most ionic character.
+In general, electronegativity increases on passing from left to right along a period, and decreases on descending a group. Hence, fluorine is the most electronegative of the elements (not counting noble gases), whereas caesium is the least electronegative, at least of those elements for which substantial data is available.[34] This would lead one to believe that caesium fluoride is the compound whose bonding features the most ionic character.
 
 There are some exceptions to this general rule. Gallium and germanium have higher electronegativities than aluminium and silicon, respectively, because of the d-block contraction. Elements of the fourth period immediately after the first row of the transition metals have unusually small atomic radii because the 3d-electrons are not effective at shielding the increased nuclear charge, and smaller atomic size correlates with higher electronegativity (see Allred-Rochow electronegativity, Sanderson electronegativity above). The anomalously high electronegativity of lead, in particular when compared to thallium and bismuth, is an artifact of electronegativity varying with oxidation state: its electronegativity conforms better to trends if it is quoted for the +2 state instead of the +4 state.
 

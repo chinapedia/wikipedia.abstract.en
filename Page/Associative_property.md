@@ -17,7 +17,7 @@ However, many important and interesting operations are non-associative; some exa
 
 Definition
 
-Semigroup_associative.svg. That is, when the two paths from _S_×_S_×_S_ to _S_ compose to the same function from _S_×_S_×_S_ to _S_.]] Formally, a binary operation ∗ on a set _S_ is called ASSOCIATIVE if it satisfies the ASSOCIATIVE LAW:
+. That is, when the two paths from _S_×_S_×_S_ to _S_ compose to the same function from _S_×_S_×_S_ to _S_.]] Formally, a binary operation ∗ on a set _S_ is called ASSOCIATIVE if it satisfies the ASSOCIATIVE LAW:
 
     (_x_ ∗ _y_) ∗ _z_ = _x_ ∗ (_y_ ∗ _z_) for all _x_, _y_, _z_ in _S_.
 
@@ -30,7 +30,7 @@ The associative law can also be expressed in functional notation thus: .
 
 Generalized associative law
 
-Tamari_lattice.svg of order four, possibly different products.]] If a binary operation is associative, repeated application of the operation produces the same result regardless how valid pairs of parenthesis are inserted in the expression.[2] This is called the GENERALIZED ASSOCIATIVE LAW. For instance, a product of four elements may be written, without changing the order of the factors, in five possible ways:
+of order four, possibly different products.]] If a binary operation is associative, repeated application of the operation produces the same result regardless how valid pairs of parenthesis are inserted in the expression.[2] This is called the GENERALIZED ASSOCIATIVE LAW. For instance, a product of four elements may be written, without changing the order of the factors, in five possible ways:
 
     ((ab)c)d
     (ab)(cd)
@@ -49,7 +49,7 @@ An example where this does not work is the logical biconditional ↔. It is asso
 
 Examples
 
-Associativity_of_binary_operations_(without_question_marks).svg Associativity_of_real_number_addition.svg Some examples of associative operations include the following.
+Some examples of associative operations include the following.
 
 -   The concatenation of the three strings "hello", " ", "world" can be computed by concatenating the first two strings (giving "hello ") and appending the third string ("world"), or by joining the second and third string (giving " world") and concatenating the first string ("hello") with the result. The two methods produce the same result; string concatenation is associative (but not commutative).
 -   In arithmetic, addition and multiplication of real numbers are associative; i.e.,

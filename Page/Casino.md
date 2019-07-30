@@ -1,4 +1,4 @@
-Las_Vegas_Strip.png is renowned for its high concentration of casino resort hotels]]
+is renowned for its high concentration of casino resort hotels]]
 
 A CASINO is a facility which houses and accommodates certain types of gambling activities. The industry that deals in casinos is called the GAMING INDUSTRY. Casinos are most commonly built near or combined with hotels, restaurants, retail shopping, cruise ships or other tourist attractions. There is much debate over whether the social and economic consequences of casino gambling outweigh the initial revenue that may be generated.[1] Some casinos are also known for hosting live entertainment events, such as stand-up comedy, concerts, and sporting events.
 
@@ -16,7 +16,7 @@ In military and non-military usage in German and Spanish, a _casino_ or _kasino_
 
 History of gambling houses
 
-"Orient_Saloon_at_Bisbee,_Arizona..._Faro_game_in_full_blast._Recognized,_Left_to_right-Tony_Downs_(standing_with_derby)_-_NARA_-_530986.tif, 1900. Photograph by C.S. Fly.]] The precise origin of gambling is unknown. It is generally believed that gambling in some form or another has been seen in almost every society in history. From the Ancient Greeks and Romans to Napoleon's France and Elizabethan England, much of history is filled with stories of entertainment based on games of chance.
+, 1900. Photograph by C.S. Fly.]] The precise origin of gambling is unknown. It is generally believed that gambling in some form or another has been seen in almost every society in history. From the Ancient Greeks and Romans to Napoleon's France and Elizabethan England, much of history is filled with stories of entertainment based on games of chance.
 
 The first known European gambling house, not called a casino although meeting the modern definition, was the Ridotto, established in Venice, Italy in 1638 by the Great Council of Venice to provide controlled gambling during the carnival season. It was closed in 1774 as the city government felt it was impoverishing the local gentry.[9]
 
@@ -25,7 +25,7 @@ In American history, early gambling establishments were known as saloons. The cr
 
 Gambling in casinos
 
-Casino_slots2.jpgs in Atlantic City. Slot machines are a standard attraction of casinos]] Most jurisdictions worldwide have a minimum gambling age (16 to 21 years of age in most countries which permit the operation of casinos).[10]
+s in Atlantic City. Slot machines are a standard attraction of casinos]] Most jurisdictions worldwide have a minimum gambling age (16 to 21 years of age in most countries which permit the operation of casinos).[10]
 
 Customers gamble by playing games of chance, in some cases with an element of skill, such as craps, roulette, baccarat, blackjack, and video poker. Most games played have mathematically determined odds that ensure the house has at all times an overall advantage over the players. This can be expressed more precisely by the notion of expected value, which is uniformly negative (from the player's perspective). This advantage is called the _house edge_. In games such as poker where players play against each other, the house takes a commission called the rake. Casinos sometimes give out complimentary items or comps to gamblers.
 
@@ -128,11 +128,11 @@ Casinò di Campione is located in the tiny Italian enclave of Campione d'Italia,
 
 Macau
 
-Venetian_Macau.jpg]] The former Portuguese colony of Macau, a special administrative region of China since 1999, is a popular destination for visitors who wish to gamble. This started in Portuguese times, when Macau was popular with visitors from nearby British Hong Kong, where gambling was more closely regulated. The Venetian Macao is currently the largest casino in the world.[26] Macau also surpassed Las Vegas as the largest gambling market in the world.
+]] The former Portuguese colony of Macau, a special administrative region of China since 1999, is a popular destination for visitors who wish to gamble. This started in Portuguese times, when Macau was popular with visitors from nearby British Hong Kong, where gambling was more closely regulated. The Venetian Macao is currently the largest casino in the world.[26] Macau also surpassed Las Vegas as the largest gambling market in the world.
 
 Estoril, Cascais, Portugal
 
-Casino_Estoril_-_panoramio.jpg, in Portuguese Riviera, is Europe's largest casino by capacity.]] The Casino Estoril, located in the municipality of Cascais, on the Portuguese Riviera, near Lisbon, is the largest casino in Europe by capacity.
+, in Portuguese Riviera, is Europe's largest casino by capacity.]] The Casino Estoril, located in the municipality of Cascais, on the Portuguese Riviera, near Lisbon, is the largest casino in Europe by capacity.
 
 During the Second World War, it was reputed to be a gathering point for spies, dispossessed royals, and wartime adventurers; it became an inspiration for Ian Fleming's James Bond 007 novel _Casino Royale_.
 
@@ -170,7 +170,7 @@ Native American gaming has been responsible for a rise in the number of casinos 
 
 Security
 
-noidnoentry.jpg]] Given the large amounts of currency handled within a casino, both patrons and staff may be tempted to cheat and steal, in collusion or independently; most casinos have security measures to prevent this. Security cameras located throughout the casino are the most basic measure.
+]] Given the large amounts of currency handled within a casino, both patrons and staff may be tempted to cheat and steal, in collusion or independently; most casinos have security measures to prevent this. Security cameras located throughout the casino are the most basic measure.
 
 Modern casino security is usually divided between a physical security force and a specialized surveillance department. The physical security force usually patrols the casino and responds to calls for assistance and reports of suspicious or definite criminal activity. A specialized surveillance department operates the casino's closed circuit television system, known in the industry as the eye in the sky. Both of these specialized casino security departments work very closely with each other to ensure the safety of both guests and the casino's assets, and have been quite successful in preventing crime.[28] Some casinos also have catwalks in the ceiling above the casino floor, which allow surveillance personnel to look directly down, through one way glass, on the activities at the tables and slot machines.
 

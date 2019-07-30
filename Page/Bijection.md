@@ -1,4 +1,4 @@
-Bijection.svg In mathematics, a BIJECTION, BIJECTIVE FUNCTION, or ONE-TO-ONE CORRESPONDENCE is a function between the elements of two sets, where each element of one set is paired with exactly one element of the other set, and each element of the other set is paired with exactly one element of the first set. There are no unpaired elements. In mathematical terms, a bijective function is a one-to-one (injective) and onto (surjective) mapping of a set _X_ to a set _Y_.
+In mathematics, a BIJECTION, BIJECTIVE FUNCTION, or ONE-TO-ONE CORRESPONDENCE is a function between the elements of two sets, where each element of one set is paired with exactly one element of the other set, and each element of the other set is paired with exactly one element of the first set. There are no unpaired elements. In mathematical terms, a bijective function is a one-to-one (injective) and onto (surjective) mapping of a set _X_ to a set _Y_.
 
 A bijection from the set _X_ to the set _Y_ has an inverse function from _Y_ to _X_. If _X_ and _Y_ are finite sets, then the existence of a bijection means they have the same number of elements. For infinite sets the picture is more complicated, leading to the concept of cardinal number, a way to distinguish the various sizes of infinite sets.
 
@@ -63,7 +63,7 @@ Composition
 
 The composition $\scriptstyle g \,\circ\, f$ of two bijections _f_: _X → Y_ and _g_: _Y → Z_ is a bijection. The inverse of $\scriptstyle g \,\circ\, f$ is $\scriptstyle (g \,\circ\, f)^{-1} \;=\; (f^{-1}) \,\circ\, (g^{-1})$.
 
-Bijective_composition.svg Conversely, if the composition $\scriptstyle g \,\circ\, f$ of two functions is bijective, we can only say that _f_ is injective and _g_ is surjective.
+Conversely, if the composition $\scriptstyle g \,\circ\, f$ of two functions is bijective, we can only say that _f_ is injective and _g_ is surjective.
 
 
 Bijections and cardinality

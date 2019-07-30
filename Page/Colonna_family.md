@@ -33,7 +33,7 @@ In 1328, Louis IV of Germany marched into Italy for his coronation as Holy Roman
 
 The celebrated poet Petrarch, was a great friend of the family, in particular of Giovanni Colonna and often lived in Rome as a guest of the family. He composed a number of sonnets for special occasions within the Colonna family, including "Colonna the Glorious, the great Latin name upon which all our hopes rest". In this period, the Colonna started claiming they were descendants of the Julio-Claudian dynasty.
 
-Trevi_-_palazzo_colonna_e_basilica_santi_apostoli_01.JPG in Rome (begun by Pope Martin V, to this day residence of the family)]] At the Council of Constance, the Colonna finally succeeded in their papal ambitions when Oddone Colonna was elected on 14 November 1417. As Martin V, he reigned until his death on 20 February 1431.
+in Rome (begun by Pope Martin V, to this day residence of the family)]] At the Council of Constance, the Colonna finally succeeded in their papal ambitions when Oddone Colonna was elected on 14 November 1417. As Martin V, he reigned until his death on 20 February 1431.
 
 Early modern period
 
@@ -66,7 +66,7 @@ Popes
 
 Other members
 
-Pisanello,_copia_da_Ritratto_di_Martino_V_(Galleria_Colonna).jpg]] WP_Prospero_Colonna.jpg (1452–1523), papal condottiere]]
+]] (1452–1523), papal condottiere]]
 
 -   Blessed Margherita Colonna (c. 1255 – 1280).
 -   Stefano Colonna (1265 – c. 1348), an influential noble in Medieval Rome and Imperial vicar in the early 14th century.

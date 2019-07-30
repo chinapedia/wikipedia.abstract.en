@@ -1,5 +1,3 @@
-Hovedstaden_in_Denmark.svg
-
 BORNHOLM (; ) is a Danish island in the Baltic Sea, to the east of the rest of Denmark, south of Sweden, northeast of Germany and north of the westernmost part of Poland. Occupying an area of ,[1] the island had a total population on 1 January 2019 of 39,572.
 
 Among Bornholm's chief industrial activities are dairy farming and arts and crafts industries such as glass production and pottery using locally worked clay. Tourism is also important during the summer months. The island is home to an especially large number of Denmark's round churches.
@@ -28,11 +26,9 @@ Municipality
 
   : Result of referendum 29 May 2001 on merger of municipalities with the county 1 January 2003
 
-Færgeforbindelser_fra_Bornholm.jpg Bornholms-Amt.png hundreds and 5 municipalities (1970–2002) in green colour and 21 municipalities before 1 April 1970]] Bornholm_municipality_numbered.svg numbered]] Flag_of_Denmark_Bornholm.svg (_the tourist flag_).]] Flag_Denmark_Bornholmsflaget.svg is clearly visible with the green cross inserted in
+ hundreds and 5 municipalities (1970–2002) in green colour and 21 municipalities before 1 April 1970]] numbered]] (_the tourist flag_).]] is clearly visible with the green cross inserted in
 
 the white cross.]]
-
-Coat_of_arms_of_Bornholm.png
 
 Bornholm Regional Municipality is the local authority (Danish, _kommune_) covering the entire island. It is the result of a merger of the five former (1 April 1970 until 2002) municipalities on the island (Allinge-Gudhjem, Hasle, Nexø, Rønne and Aakirkeby) and the former Bornholm County. Bornholm Regional Municipality was also a county in its own right during its first four years from 1 January 2003 until 31 December 2006. From 1 January 2007 all counties were abolished, and Bornholm became part of the Capital Region of Denmark whose main responsibility is the health service. The municipality still retains its name Bornholm _Regional_ Municipality. The island had 21 municipalities until March 1970, of which 6 were market towns and 15 parishes. In addition to supervising parish municipalities, which was the responsibility of the counties in _all_ of Denmark, the market town municipalities of Bornholm were supervised by Bornholm County as well and not by the Interior Ministry as was the case in the rest of Denmark. The seat of the municipal council is the island's main town, Rønne. The voters decided to merge the county with the municipalities in a referendum May 29, 2001, effective from January 1, 2003. The question on the ballot was, "Do you want the six municipal entities of Bornholm to be joined to form one municipal entity as of 1 January 2003?" 73.9% voted in favour. The lowest percentage for the merger was in Nexø municipality, whose mayor, Annelise Molin, a Social Democrat, spoke out against the merger. It was required that each municipality had more "Yes" votes than "No" votes. Otherwise the merger would have to be abandoned altogether. The six municipal entities had 122 councillors (of which county clls were 15) and the new regional municipality would have 27 councillors from the start. They were reduced to 23 from 1 January 2018 (election November 2017). The merger was approved in a law by the Folketing 19 March 2002, transferring the tasks of the abolished county and old municipalities to the new _Bornholm Regional Municipality_. The first regional mayor in the first three years from 2003 until 2005 was Thomas Thors (born 28 July 1949), a physician and member of the Social Democrats and previously the last mayor of Rønne Municipality for five years from 1998 until 2002. Bjarne Kristiansen, who was the last mayor of Hasle 2½ years from the summer of 2000 until 2002, representing the local Borgerlisten political party, served as mayor for four years from January 1, 2006 until 2009. From January 1, 2007, Bornholm became a part of the Capital Region of Denmark. From January 1, 2010 the mayor has been Winni Grosbøll, a high school teacher and a member of the Social Democrats (_Socialdemokratiet_) political party.
 
@@ -109,7 +105,7 @@ Ruin.]]
 
 In Old Norse the island was known as _Borgundarholm_, and in ancient Danish especially the island's name was _Borghand_ or _Borghund_; these names were related to Old Norse _borg_ "height" and _bjarg/berg_ "mountain, rock", as it is an island that rises high from the sea.[7] Other names known for the island include _Burgendaland_ (9th century), _Hulmo_ / _Holmus_ (_Gesta Hammaburgensis ecclesiae pontificum_), _Burgundehulm_ (1145), and _Borghandæholm_ (14th century).[8] The Old English translation of Orosius uses the form _Burgenda land_.[9] Some scholars[10] believe that the Burgundians are named after Bornholm; the Burgundians were Germanic peoples who moved west when the Western Roman Empire collapsed and occupied and named Burgundy in France.
 
-GudhjemMill.JPG Bornholm formed part of the historical Lands of Denmark when the nation united out of a series of petty chiefdoms. It was originally administratively part of the province of Scania and was administered by the Scanian Law after this was codified in the 13th century. Control over the island evolved into a long-raging dispute between the See of Lund and the Danish crown culminating in several battles. The first fortress on the island was _Gamleborg_ which was replaced by _Lilleborg_, built by the king in 1150. In 1149, the king accepted the transfer of three of the island's four herreder (districts) to the archbishop. In 1250, the archbishop constructed his own fortress, Hammershus. A campaign launched from it in 1259 conquered the remaining part of the island including Lilleborg. The island's status remained a matter of dispute for an additional 200 years.
+Bornholm formed part of the historical Lands of Denmark when the nation united out of a series of petty chiefdoms. It was originally administratively part of the province of Scania and was administered by the Scanian Law after this was codified in the 13th century. Control over the island evolved into a long-raging dispute between the See of Lund and the Danish crown culminating in several battles. The first fortress on the island was _Gamleborg_ which was replaced by _Lilleborg_, built by the king in 1150. In 1149, the king accepted the transfer of three of the island's four herreder (districts) to the archbishop. In 1250, the archbishop constructed his own fortress, Hammershus. A campaign launched from it in 1259 conquered the remaining part of the island including Lilleborg. The island's status remained a matter of dispute for an additional 200 years.
 
 Bornholm was pawned to Lübeck for 50 years starting in 1525. Its first militia, Bornholms Milits, was formed in 1624. ]]
 
@@ -142,13 +138,13 @@ On 5 March 1953, the day of Stalin's death, Polish pilot Franciszek Jarecki defe
 
 Sights and landmarks
 
-Bornholm_Landsat.jpg satellite photo]]
+satellite photo]]
 
 On the surface of Bornholm older geological formations can be seen better than in the rest of Denmark. _Stubbeløkken_ – which is still operating (Danish _i drift_) – and _Klippeløkken_ granite quarries in Knudsker parish just east of central Rønne – and statistically a part of the town – are among the few remaining quarries of what was once many active quarries on the island. The island's varied geography and seascapes attract visitors to its many beauty spots from the Hammeren promontory in the northwest to the Almindingen forest in the centre and the Dueodde beaches in the southeast. Of special interest are the rocky sea cliffs at Jons Kapel and Helligdomsklipperne, the varied topography of Paradisbakkerne and rift valleys such as Ekkodalen and Døndalen.[19] Bornholm's numerous windmills include the post mill of Egeby and the well-kept Dutch mill at Aarsdale. The lighthouse at Dueodde is Denmark's tallest, while Hammeren Lighthouse stands at a height of above sea level and Rønne Lighthouse rises over the waterfront.[20]
 
 Examples of roads that have (very) steep climbs and descents are: (inland) Simblegårdsvej in Klemensker, which begins by the village inn Klemens Kro, and Slamrebjergvej just outside Nexø extending northward from the main road from Rønne. Along the coast there are several steep roads, which is also the case in some parts of Denmark as a whole, for instance in and around Vejle.[21]
 
-Oesterlars_Kirke_Bornholm_Denmark.jpg, one of Bornholm's four round churches]] Hammershus_castle.jpg, a medieval fortress]]
+, one of Bornholm's four round churches]] , a medieval fortress]]
 
 The island hosts examples of 19th- and early-20th-century architecture, and about 300 wooden houses in Rønne and Nexø, donated by Sweden after World War II, when the island was repairing damage caused by the war. The island is home to 15 medieval churches, four of which are round churches with unique artwork and architecture. The ancient site of Rispebjerg has remains of sun temples from the Neolithic and earthworks from the Iron Age.[22]
 
@@ -203,8 +199,6 @@ Cultural references
 
 
 Notable residents
-
-Kristian_Zahrtmann.jpg Selvportræt,_1902_-_Michael_Ancher.jpg Vilhelm_Herold_Portrait_By_Kroyer.jpg Bella_copy.jpg PiaRanslet.jpg Magnus_Cort.JPG
 
 Arts
 

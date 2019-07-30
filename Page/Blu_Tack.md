@@ -1,4 +1,4 @@
-Actual_blu_tack.jpg T5a.jpg]]
+]]
 
 BLU TACK is a reusable putty-like pressure-sensitive adhesive produced by Bostik, commonly used to attach lightweight objects (such as posters or sheets of paper) to walls, doors or other dry surfaces. Traditionally blue, it is also available in other colours. Generic versions of the product are also available from other manufacturers. The spelling now used is without the hyphen.[1]
 

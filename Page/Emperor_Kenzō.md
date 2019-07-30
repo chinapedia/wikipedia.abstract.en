@@ -11,7 +11,7 @@ It is said that the Oke came by chance to Akashi; and at that time, Prince Oke r
 
 At Seinei's death, he had no other heirs than Prince Oke and Prince Woke, whose father had been killed by Yūraku. At this point, Woke wanted his elder brother to become Emperor; but Oke refused. The two could not reach an agreement. The great men of the court insisted that one or the other of the brothers must accept the throne; but in the end, Woke proved to be more adamant. Prince Woke agreed to accept the throne; and Kenzō was ultimately proclaimed as the new Emperor—which created a sense of relief for all the people who had endured this period of uncertainty.[7]
 
-Nihon_Odai_Ichiran_sample_page.jpg'' (1834) represents the first published account of Emperor Kenzō's reign to become available in the West.]]
+'' (1834) represents the first published account of Emperor Kenzō's reign to become available in the West.]]
 
 Kenzō is considered to have ruled the country during the late-5th century, but there is a paucity of information about him. There is insufficient material available for further verification and study.
 
@@ -44,7 +44,7 @@ See also
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

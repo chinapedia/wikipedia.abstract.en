@@ -44,8 +44,6 @@ _Retro Gamer_ magazine issue 132 reported that according to Atari UK Marketing M
 
 Technical specifications
 
-Atari-7800-Motherboard-01.jpg Atari-7800-Motherboard-Euro-wRGB-FL.jpg
-
 -   CPU: Atari SALLY 6502 ("6502C")
     -   Speed: 1.79 MHz; drops to 1.19 MHz when the TIA Television Interface Adaptor or RIOT (6532 RAM-I/O-Timer) chips are accessed
     -   (note: Unlike a standard 6502, _SALLY_ can be halted to allow other devices to control the bus)
@@ -116,7 +114,7 @@ Production:
 
 Peripherals
 
-Atari-CX78-7800-Controller-FL-wThumbStick.jpg of the Atari 7800 with the thumbstick screwed in]] The Atari 7800 came bundled with the Atari Pro-Line Joystick, a two-button controller with a joystick for movement. The Pro-Line was originally developed for the 2600 and was advertised in 1983[44], but was delayed until Atari proceeded with the 7800. The right fire button only works as a separate fire button for certain 7800 games that utilize it; otherwise, it duplicates the left fire button, allowing either button to be used for 2600 games. In response to criticism over ergonomic issues in the 7800's Pro-Line controllers, Atari later released joypad controllers with European 7800s, which were similar in style to controllers found on Nintendo and Sega Systems. The Joypad was not available in the United States. Due to the unique backward compatibility with the 2600, the 7800's controllers were incompatible with the Sega Master System, and Sega's controllers were unable to use the 7800's two-button mode.
+of the Atari 7800 with the thumbstick screwed in]] The Atari 7800 came bundled with the Atari Pro-Line Joystick, a two-button controller with a joystick for movement. The Pro-Line was originally developed for the 2600 and was advertised in 1983[44], but was delayed until Atari proceeded with the 7800. The right fire button only works as a separate fire button for certain 7800 games that utilize it; otherwise, it duplicates the left fire button, allowing either button to be used for 2600 games. In response to criticism over ergonomic issues in the 7800's Pro-Line controllers, Atari later released joypad controllers with European 7800s, which were similar in style to controllers found on Nintendo and Sega Systems. The Joypad was not available in the United States. Due to the unique backward compatibility with the 2600, the 7800's controllers were incompatible with the Sega Master System, and Sega's controllers were unable to use the 7800's two-button mode.
 
 There were few add-on peripherals for the 7800, though its backwards compatibility feature allowed it to use most Atari 2600 peripherals. The XG-1 lightgun, which came bundled with the Atari XEGS, was sold separately for other Atari systems and was fully compatible with the 7800. Atari released five 7800 light gun games: _Alien Brigade_, _Barnyard Blaster_, _Crossbow_, _Meltdown_ and _Sentinel_.
 
@@ -130,8 +128,6 @@ After the acquisition of the Atari Consumer Division by Jack Tramiel in 1984, a 
 
 
 Software library
-
-Atari_7800_with_Cartridge.jpg
 
 While the 7800 can actually play hundreds of titles due to its compatibility with the Atari 2600, there was limited third-party support for the 7800 and fewer than 100 titles were specifically designed for it.
 

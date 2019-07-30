@@ -1,4 +1,4 @@
-Bruce_McCandless_II_during_EVA_in_1984.jpg Astronaut Bruce McCandless II using a Manned Maneuvering Unit outside on shuttle mission STS-41-B in 1984.]]
+Astronaut Bruce McCandless II using a Manned Maneuvering Unit outside on shuttle mission STS-41-B in 1984.]]
 
 An ASTRONAUT or COSMONAUT is a person trained by a human spaceflight program to command, pilot, or serve as a crew member of a spacecraft. Although generally reserved for professional space travelers, the terms are sometimes applied to anyone who travels into space, including scientists, politicians, journalists, and tourists.[1][2]
 
@@ -7,11 +7,9 @@ Until 2002, astronauts were sponsored and trained exclusively by governments, ei
 
 Definition
 
-Alan_Shepard_in_capsule_aboard_Freedom_7_before_launch.jpg aboard _Freedom 7_ (1961)]]
+aboard _Freedom 7_ (1961)]]
 
 The criteria for what constitutes human spaceflight vary. The Fédération Aéronautique Internationale (FAI) Sporting Code for astronautics recognizes only flights that exceed an [[Kármán_line|altitude of
-
-AstronautsEatingBurgers.jpg
 
 
 Food and drink
@@ -20,16 +18,12 @@ An astronaut on the International Space Station requires about 0.83 kilograms (1
 
 Shuttle astronauts worked with nutritionists to select menus that appeal to their individual tastes. Five months before flight, menus are selected and analyzed for nutritional content by the shuttle dietician. Foods are tested to see how they will react in a reduced gravity environment. Caloric requirements are determined using a basal energy expenditure (BEE) formula. On Earth, the average American uses about 35 gallons (132 liters) of water every day. On board the ISS astronauts limit water use to only about three gallons (11 liters) per day.[3]
 
-NASA_-_Astropin.png
-
 
 Insignia
 
 In Russia, cosmonauts are awarded Pilot-Cosmonaut of the Russian Federation upon completion of their missions, often accompanied with the award of Hero of the Russian Federation. This follows the practice established in the USSR where cosmonauts were usually awarded the title Hero of the Soviet Union.
 
 At NASA, those who complete astronaut candidate training receive a silver lapel pin. Once they have flown in space, they receive a gold pin. U.S. astronauts who also have active-duty military status receive a special qualification badge, known as the Astronaut Badge, after participation on a spaceflight. The United States Air Force also presents an Astronaut Badge to its pilots who exceed in altitude.
-
-amf_space_mirror.jpg
 
 
 Deaths

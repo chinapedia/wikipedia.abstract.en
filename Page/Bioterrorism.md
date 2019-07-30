@@ -1,4 +1,4 @@
-NBC-Mask_M-17.jpg wearing an M-17 nuclear, biological, and chemical warfare mask and hood]]
+wearing an M-17 nuclear, biological, and chemical warfare mask and hood]]
 
 BIOTERRORISM is terrorism involving the intentional release or dissemination of biological agents. These agents are bacteria, viruses, fungi, or toxins, and may be in a naturally occurring or a human-modified form, in much the same way in biological warfare.
 

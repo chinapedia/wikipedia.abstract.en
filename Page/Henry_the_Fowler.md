@@ -14,7 +14,7 @@ Born in Memleben, in what is now Saxony-Anhalt, Henry was the son of Otto the Il
 
 Rule
 
-Heinrich-der-finkler-darbringung-der-kaiserkrone.jpg (1854–1921)]] Henry became Duke of Saxony after his father's death in 912. An able ruler, he continued to strengthen the position of his duchy within the weakening kingdom of East Francia, and was frequently in conflict with his neighbors to the South in Duchy of Franconia.
+(1854–1921)]] Henry became Duke of Saxony after his father's death in 912. An able ruler, he continued to strengthen the position of his duchy within the weakening kingdom of East Francia, and was frequently in conflict with his neighbors to the South in Duchy of Franconia.
 
 On 23 December 918 Conrad I, king of East Francia and Franconian duke, died. Although Henry had rebelled against Conrad I between 912 and 915 over the lands in Thuringia, Conrad recommended Henry as his successor. Kingship now changed from Franks to Saxons, who had suffered greatly during the conquests of Charlemagne and were proud of their identity. Henry, as Saxon, was the first non-Frank on the throne.
 
@@ -26,7 +26,7 @@ Henry was too weak to impose absolutist rule, and regarded his kingdom as a conf
 
 Wars over Lotharingia
 
-Lotharingia-959.svg In 920 king of West Francia Charles the Simple invaded and marched as far as Pfeddersheim near Worms, but retreated when he learned that Henry was organizing an army.[2] On 7 November 921, Henry and Charles met and concluded the Treaty of Bonn, which they called a pact of friendship. Henry then saw an opportunity to wrest Lotharingia when a civil war over royal succession began in West Francia after coronation of king Robert I. In 923 Henry crossed the Rhine twice, capturing a large part of the duchy. The eastern part of Lotharingia was left in Henry's possession until October 924.
+In 920 king of West Francia Charles the Simple invaded and marched as far as Pfeddersheim near Worms, but retreated when he learned that Henry was organizing an army.[2] On 7 November 921, Henry and Charles met and concluded the Treaty of Bonn, which they called a pact of friendship. Henry then saw an opportunity to wrest Lotharingia when a civil war over royal succession began in West Francia after coronation of king Robert I. In 923 Henry crossed the Rhine twice, capturing a large part of the duchy. The eastern part of Lotharingia was left in Henry's possession until October 924.
 
 In 925 duke Gilbert of Lotharingia rebelled. Henry invaded the duchy and besieged Gilbert at Zülpich (Tolbiac), captured the town, and became master of a large portion of his lands. Allowing Gilbert to remain in power as duke, Henry arranged the marriage of his daughter Gerberga to his new vassal in 928. Thus he brought that realm, which had been lost in 910, back into the kingdom as the fifth stem duchy.
 
@@ -72,7 +72,7 @@ Henry had two wives and at least six children.
 
 Legacy
 
-Bundesarchiv_Bild_183-H08447,_Quedlinburg,_Heinrichs-Feier,_Heinrich_Himmler.jpg Henry returned to public attention as a character in Richard Wagner's opera, _Lohengrin_ (1850), trying to gain the support of the Brabantian nobles against the Magyars. After the attempts to achieve German national unity failed with the Revolutions of 1848, Wagner strongly relied on the picture of Henry as the actual ruler of all German tribes as advocated by pan-Germanist activists like Friedrich Ludwig Jahn.
+Henry returned to public attention as a character in Richard Wagner's opera, _Lohengrin_ (1850), trying to gain the support of the Brabantian nobles against the Magyars. After the attempts to achieve German national unity failed with the Revolutions of 1848, Wagner strongly relied on the picture of Henry as the actual ruler of all German tribes as advocated by pan-Germanist activists like Friedrich Ludwig Jahn.
 
 There are indications that Heinrich Himmler saw himself as the reincarnation of Henry, who was proclaimed to be the first king of Germany.[10]
 

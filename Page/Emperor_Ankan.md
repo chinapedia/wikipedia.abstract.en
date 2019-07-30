@@ -11,8 +11,6 @@ Ankan's contemporary title would not have been _tennō_, as most historians beli
 
 The most noteworthy event recorded during his reign was the construction of state granaries in large numbers throughout Japan, indicating the broad reach of imperial power at the time.[5]
 
-Grave_of_Emperor_Ankan.jpg
-
 Ankan's grave is traditionally associated with the Takayatsukiyama kofun in Habikino, Osaka.
 
 

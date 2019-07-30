@@ -1,4 +1,4 @@
-Hans_Memling_-_Allegory_with_a_Virgin_-_WGA14896.jpg of chastity by Hans Memling]]
+of chastity by Hans Memling]]
 
 CHASTITY is a virtue related to temperance, one of the seven virtues and it is defined as refraining from any sexual conduct or romantic relationships. Chastity is usually defined within the moral standards and guidelines of a culture, civilization or religion. The term is closely associated (and can be used interchangeably) with sexual abstinence, especially in the context of premarital and extramarital sex.[1][2]
 

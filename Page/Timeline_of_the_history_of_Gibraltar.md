@@ -3,7 +3,7 @@ The HISTORY OF GIBRALTAR portrays how The Rock gained an importance and a reputa
 
 Prehistoric
 
-Neanderthal_skull_from_Forbes'_Quarry.jpg skull, discovered in 1848 in Forbes' Quarry, was only the second Neanderthal skull and the first adult Neanderthal skull ever found]] Evidence of hominid inhabitation of the Rock dates back to the Neanderthals. A Neanderthal skull was discovered in Forbes' Quarry in 1848, prior to the "original" discovery in the Neander Valley. In 1926, the skull of a Neanderthal child was found in Devil's Tower.
+skull, discovered in 1848 in Forbes' Quarry, was only the second Neanderthal skull and the first adult Neanderthal skull ever found]] Evidence of hominid inhabitation of the Rock dates back to the Neanderthals. A Neanderthal skull was discovered in Forbes' Quarry in 1848, prior to the "original" discovery in the Neander Valley. In 1926, the skull of a Neanderthal child was found in Devil's Tower.
 
 Mousterian deposits found at Gorham's Cave, which are associated with Neanderthals in Europe, have been dated to as recently as 28,000 to 24,000 BP,[2] leading to suggestions that Gibraltar was one of the last places of Neanderthal habitation. Modern humans apparently visited the Gibraltar area in prehistoric times after the Neanderthal occupancy.[3]
 
@@ -12,7 +12,7 @@ While the rest of Europe was cooling, the area around Gibraltar back then resemb
 
 Ancient
 
-PillarsHerculesPeutingeriana.jpg depicted erroneously as an island on the _Tabula Peutingeriana_, an ancient Roman map]] The Phoenicians are known to have visited the Rock circa 950 BC and named the Rock _"Calpe"_. The Carthaginians also visited. However, neither group appears to have settled permanently. Plato refers to Gibraltar as one of the Pillars of Hercules along with Jebel Musa or Monte Hacho on the other side of the Strait.
+depicted erroneously as an island on the _Tabula Peutingeriana_, an ancient Roman map]] The Phoenicians are known to have visited the Rock circa 950 BC and named the Rock _"Calpe"_. The Carthaginians also visited. However, neither group appears to have settled permanently. Plato refers to Gibraltar as one of the Pillars of Hercules along with Jebel Musa or Monte Hacho on the other side of the Strait.
 
 The Romans visited Gibraltar, but no permanent settlement was established. Following the fall of the Western Roman Empire, Gibraltar was occupied by the Vandals and later the Goths kingdoms. The Vandals did not remain for long although the Visigoths remained on the Iberian peninsula from 414 to 711. The Gibraltar area and the rest of the South Iberian Peninsula was part of the Byzantine Empire during the second part of the 6th century, later reverting to the Visigoth Kingdom.
 
@@ -59,15 +59,13 @@ Castilian/Spanish rule
 -   1501 2 December – Acknowledging the importance of the town, the Catholic Monarchs asked the Duke of Medina Sidonia for the return of Gibraltar to the domains of the crown. The Duke accepted the Royal request and ceded the town to the monarchs.
 -   1502 2 January – Garcilaso de la Vega[5] took possession of the town on behalf of the Queen Isabella I of Castile.
 
-Original_coat_of_arms_of_Gibraltar.jpg granted to the city of Gibraltar by a Royal Warrant passed in Toledo on 10 July 1502 by Isabella I of Castile]]
+granted to the city of Gibraltar by a Royal Warrant passed in Toledo on 10 July 1502 by Isabella I of Castile]]
 
 -   1502 10 July – By a Royal Warrant passed in Toledo by Isabella I of Castile, Gibraltar was granted its coat of arms: "An escutcheon on which the upper two thirds shall be a white field and on the said field set a red castle, and below the said castle, on the other third of the escutcheon, which must be a red field in which there must be a white line between the castle and the said red field, there shall be a golden key which hangs by a chain from the said castle, as are here figured". The Castle and Key remain the Arms of Gibraltar to this day.
 -   1506 – Alleging a false donation by the king Philip I of Castile, the Duke of Medina Sidonia attempted to recover Gibraltar by besieging the town. The siege was unsuccessful and the Duke was admonished by the Regency and forced to pay a fee to the town. The town received the title of "Most Loyal City" (Tenth Siege of Gibraltar).The Duke died in 1507.
 -   1516 14 March – Spain becomes a united kingdom under Charles I.
 -   1540 8 September – Corsairs from the Barbary Coast (ruled by Barbarossa) landed at Gibraltar in sixteen galleys, looting the town and taking away many captives.[6]
 -   1552 – After the requests from the inhabitants of the town, Charles I of Spain (the Emperor Charles V) sent the Italian engineer Giovanni Battista Calvi to strengthen the defences of the town. A wall was built (nowadays known as Charles V Wall); also a ditch by the wall of the town and a drawbridge at the Landport (_Puerta de Tierra_).
-
-Battle_of_Gibraltar_1607.jpg
 
 -   1567 – Juan Mateos turned his large house in the Upper Town into a hospital. It was Gibraltar's first hospital, and remained on the same site serving the people of Gibraltar for almost four and a half centuries.
 -   1606 – The Moriscos (the descendants of the Muslim inhabitants in Spain) were expelled from Spain by King Philip III. Many passed through Gibraltar on their way into exile in North Africa.
@@ -86,15 +84,13 @@ The War of the Spanish Succession
 
 The Gibraltar capture
 
-_(There is a common discrepancy in the chronology between Spanish and British sources, the reason being that England still used the Julian calendar. By 1704 the Julian calendar was eleven days behind the Gregorian, and the siege thus began on 21 July according to the Julian.)_ George_Rooke.jpg
+_(There is a common discrepancy in the chronology between Spanish and British sources, the reason being that England still used the Julian calendar. By 1704 the Julian calendar was eleven days behind the Gregorian, and the siege thus began on 21 July according to the Julian.)_
 
 -   1704 1 August(NS): (21 July(OS)) – During the War of the Spanish Succession, and when returning from a failed expedition to Barcelona, an Anglo-Dutch fleet, under the command of Sir George Rooke, chief commander of the Alliance Navy, began a new siege (the eleventh siege of the town). They demanded its unconditional surrender and an oath of loyalty to the Habsburg pretender to the Spanish throne, the Archduke Charles. The Governor of Gibraltar, Diego de Salinas, refused the ultimatum. A brigade of Dutch Royal Marines and Royal Marines, 1,800 strong, under the command of Prince George of Hesse-Darmstadt, chief commander of the Alliance Army in Spain, began to besiege Gibraltar, in the name of the Archduke Charles. A small group of Spaniards, mainly Catalans, were integrated in the troops of the Prince of Hesse.
 -   1704 night of 3–4 August – Heavy shelling targeted the castle and the town.
 -   1704 4 August – The Governor Diego de Salinas surrendered the town to Prince George of Hesse, who took it in the name of Archduke, as Charles III, king of Castile and Aragon. This was the end of the Eleventh Siege of Gibraltar (a map on the situation of attacking forces can be seen in[9])
 
     The exact beginning of the English/British control of Gibraltar is hard to determine. From the eighteenth century, Spanish sources reported that immediately after the takeover of the city, Sir George Rooke, the British admiral,[10][11][12] on his own initiative caused the British flag to be hoisted, and took possession of the Rock in name of Anne, Queen of Great Britain, whose government ratified the occupation. On the other hand, even the British or the Gibraltarians sometimes date the beginning of British sovereignty in 1704 (for instance, in its speech at the United Nations in 1994, the Gibraltar Chief Minister at the time, Joe Bossano, stated that _Gibraltar has been a British colony ever since it was taken by Britain in 1704_[13]). Also, some British sources have accounted the flag story (_He [Rooke] had the Spanish flag hauled down and the English flag hoisted in its stead_;[14] _Rooke's men quickly raised the British flag ... and Rooke claimed the Rock in the name of Queen Anne_;[15] or _Sir George Rooke, the British admiral, on his own responsibility caused the British flag to be hoisted, and took possession in name of Queen Anne, whose government ratified the occupation_[16]).
-
-Bay_of_Gibraltar_18th_century_engraving.jpg
 
     However, it is claimed by present-day historians, both Spanish and British, that this version is apocryphal since no contemporary source accounts it. Isidro Sepúlveda,[17] William Jackson[18] and George Hills[19] explicitly refute it (Sepúlveda points out that if such a fact had actually happened, it would have caused a big crisis in the Alliance supporting the Archduke Charles; George Hills explains that the story was first accounted by the Marquis of San Felipe, who wrote his book "Comentarios de la guerra de España e historia de su rey Phelipe V el animoso" in 1725, more than twenty years after the fact; the marquis was not an eye-witness and cannot be considered as a reliable source for the events that took place in Gibraltar in 1704. As Hills concludes: "_The flag myth ... may perhaps be allowed now to disappear from Anglo-Spanish polemics. On the one side it has been used to support a claim to the Rock 'by right of conquest'; on the other to ... pour on Britain obloquy for perfidy_"[20]).
     What does seem nowadays proved is that the British troops who had landed on the South Mole area raised their flag to signal their presence to the ships, and avoid being fired upon by their own side.
@@ -137,8 +133,6 @@ British rule
 
 Treaty of Utrecht
 
-Allegory_of_the_Peace_of_1714.jpg
-
 -   11 April 1713 – The territory was subsequently ceded to the Crown of Great Britain in perpetuity by Spain under article X of the Treaties of Utrecht. Despite some military attempts by the Spanish to retake it in the 18th century, most notably in the Great Siege of 1779–1783, the Rock has remained under British control ever since.
 
     In that treaty, Spain ceded Great Britain "_the full and entire propriety of the town and castle of Gibraltar, together with the port, fortifications, and forts thereunto belonging ... for ever, without any exception or impediment whatsoever._"
@@ -147,7 +141,7 @@ Allegory_of_the_Peace_of_1714.jpg
 
 Until the Peninsular Wars
 
-Gibraltar_and_Bay_map_1750.jpg, circa 1750]] Between 1713 and 1728, there were seven occasions when British ministers was prepared to bargain Gibraltar away as part of his foreign policy. However, the Parliament frustrated always such attempts, echoing the public opinion in Britain.[46]
+, circa 1750]] Between 1713 and 1728, there were seven occasions when British ministers was prepared to bargain Gibraltar away as part of his foreign policy. However, the Parliament frustrated always such attempts, echoing the public opinion in Britain.[46]
 
 -   1721 March – Philip V of Spain requested the restitution of Gibraltar to proceed to the renewal of the trade licences of Great Britain with the Spanish possessions in America.
 -   1721 1 June – George I sent a letter to Philip V promising "_to make use of the first favourable Opportunity to regulate this Article (the Demand touching the Restitution of Gibraltar), with the Consent of my Parliament_".[47] However, the British Parliament never endorsed such promise.
@@ -158,7 +152,7 @@ Gibraltar_and_Bay_map_1750.jpg, circa 1750]] Between 1713 and 1728, there were s
 -   1776 23 February – One of the heaviest storms ever recorded in Gibraltar. The lower part of the town was flooded. Linewall was breached along 100 m.
 -   1779 June – In the midst of the American Revolutionary War, Spain declared war against Great Britain (as France had done the year before)
 
-The_Siege_and_Relief_of_Gibraltar_(2).jpg'', 13 September 1782. By John Singleton Copley (1738–1815)]]
+'', 13 September 1782. By John Singleton Copley (1738–1815)]]
 
 -   1779 July – Start of the GREAT SIEGE OF GIBRALTAR (fourteenth and most recent military siege). This was an action by French and Spanish forces to wrest control of Gibraltar from the established British Garrison. The garrison, led by George Augustus Eliott, later 1st Baron Heathfield of Gibraltar, survived all attacks and a blockade of supplies.
 -   1782 13 September – Start of an assault involving 100,000 men, 48 ships and 450 cannon. The British garrison survived.
@@ -185,8 +179,6 @@ The_Siege_and_Relief_of_Gibraltar_(2).jpg'', 13 September 1782. By John Singleto
 
 Until the Second World War
 
-Tipos_de_Gibraltar.jpg
-
 -   1814 – Outbreak of malignant fever.
 -   1815 – The civilian population of Gibraltar was about 10,000 people (two and a half times the size of the garrison). Genoese constituted about one-third of the civilian population (a large number of immigrants had arrived from Genoa at the beginning of the century). The rest were mainly Spaniards and Portuguese fled from the war, and Jews from Morocco.[56]
 -   1817 – The first civil judge was established.
@@ -196,7 +188,7 @@ Tipos_de_Gibraltar.jpg
 
 -   1832 – The Church of the Holy Trinity, built for the needs of Anglican worshippers among Gibraltar's civil population, is completed. (Ten years later it will become the Cathedral of the Holy Trinity).
 -   1842 21 August – The Church of England Diocese of Gibraltar was founded by Letters Patent and took over the pastoral care of the chaplaincies and congregations from Portugal to the Caspian Sea. George Tomlinson is enthroned as the first Bishop of Gibraltar. The Church of the Holy Trinity, Gibraltar becomes Cathedral for the Diocese.[58]
--   1842 – Official Coins of the Realm were struck for Gibraltar by the Royal Mint. Coins were issued in ½, 1 and 2 Quart denominations. 1842_Gibraltar_Half_Quart.jpg]]
+-   1842 – Official Coins of the Realm were struck for Gibraltar by the Royal Mint. Coins were issued in ½, 1 and 2 Quart denominations. ]]
 -   1869 – The Suez Canal was opened. It heavily increased the strategic value of the Rock in the route from the United Kingdom to India. Gibraltar economy, mainly based on commercial shipping and import-export trade, takes a new income source with the opening of a coaling station for the new steam ships.[59]
 -   1891 17 March – America-bound steamer _Utopia_ slammed in heavy weather into the iron-plated British battleship HMS _Anson_ and sank in the Bay of Gibraltar; 576 people died.[60]
 -   1894 – The construction of the dockyards started.
@@ -206,7 +198,7 @@ Tipos_de_Gibraltar.jpg
 
 Second World War and after
 
-Gibraltar_border_1977.jpg The history of Gibraltar from the Second World War is characterized by two main elements: the increasing autonomy and self-government achieved by Gibraltarians and the re-emergence of the Spanish claim, especially during the years of the Francoist dictatorship.
+The history of Gibraltar from the Second World War is characterized by two main elements: the increasing autonomy and self-government achieved by Gibraltarians and the re-emergence of the Spanish claim, especially during the years of the Francoist dictatorship.
 
 During World War II (1939–1945) the Rock was again turned into a fortress and the civilian residents of Gibraltar were evacuated. Initially, in May 1940, 16,700 people went to French Morocco. However, after the French-German Armistice and the subsequent destruction of the French fleet at Mers-el-Kebir, Algeria by the British Navy in July 1940, the French-Moroccan authorities asked all Gibraltarian evacuees to be removed. 12,000 went to Britain, while about 3,000 went to Madeira or Jamaica, with the rest moving to Spain or Tanger. Control of Gibraltar gave the Allied Powers control of the entry to the Mediterranean Sea (the other side of the Strait being Spanish territory, and thus non-belligerent). The Rock was a key part of the Allied supply lines to Malta and North Africa and base of the British Navy Force H, and prior to the war the racecourse on the isthmus was converted into an airbase and a concrete runway constructed (1938). The repatriation of the civilians started in 1944 and proceeded until 1951, causing considerable suffering and frustration. However, most of the population had returned by 1946.
 
@@ -244,8 +236,6 @@ During World War II (1939–1945) the Rock was again turned into a fortress and 
 -   1980 July – The Anglican Diocese of Gibraltar is amalgamated with the Jurisdiction of North and Central Europe to become the Diocese of Gibraltar in Europe. The Cathedral of the Holy Trinity, Gibraltar remains Anglican Cathedral for the Diocese.
 -   1981 – The British Nationality Act 1981 effectively made Gibraltar a _Dependent Territory_ and removed the right of entry into the UK of British Dependent Territory Citizens. After a short campaign Gibraltarians were offered full British citizenship (History of nationality in Gibraltar). The act was ratified in 1983.
 
-Gibraltar_gate_opened.jpg
-
 -   1982 15 December – The re-opening of the border was initially delayed due to the war between the United Kingdom and Argentina over the Falkland Islands. Upon the change in the Spanish government, with the Socialist Party in power, the border was partially re-opened (only pedestrians, resident in Gibraltar or Spanish nationals were allowed to cross the border by Spain; only one crossing each way per day was allowed). Restrictions on the land border continued until 2006,[79][80] although there are still occasionally issues related to the crossing.[81][82][83]
 -   1984 – Spain applied to join the European Community, succeeding in 1986. Under the Brussels Agreement[84] (27 November 1984) signed between the governments of the United Kingdom and Spain, the former agreed to enter into discussions with Spain over Gibraltar, including by first time the "issues" of sovereignty. The border was fully reopened.
 -   1987 2 December – A proposal for joint control of Gibraltar Airport with Spain[85] met with widespread local opposition which was expressed in a protest march to The Convent. Chief Minister Sir Joshua Hassan resigned at the end of the year and was succeeded by Adolfo Canepa.
@@ -270,8 +260,6 @@ Twenty-first century
     The Referendum was supervised by a team of international observers headed by the Labour MP Gerald Kaufman, who certified that it had been held fairly, freely and democratically.[95]
 
 -   2002 – The British Overseas Territories Act 2002 made provision for the renaming of British Dependent Territories as British Overseas Territories, which changed the status of Gibraltar to an Overseas Territory. This act granted full British citizenship to British Overseas Territories, which was already available to Gibraltarians since 1983.
-
-Gibraltar_Tercentenary_flag_display.jpg
 
 -   2004 August – Gibraltar celebrated 300 years of British rule. Spanish officials labelled this as the celebration of 300 years of British occupation.[96]
 

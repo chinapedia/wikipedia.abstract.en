@@ -5,7 +5,7 @@ The suburb is the administrative centre and CBD of the Central Coast region, whi
 
 History
 
-SLNSW_796353_Looking_south_Mann_St_Gosford.jpg Until white settlement, the area around Gosford was inhabited by the Guringai peoples, who were principally coastal-dwellers,[4] and the Darkinjung people that inhabited the hinterland. Along with the other land around the Hawkesbury River estuary, the Brisbane Water district was explored during the early stages of the settlement of New South Wales. Gosford_Henry_Kendall_Cottage_001.JPG Cottage and Historical Museum at West Gosford]] Gosford itself was explored by Governor Phillip between 1788 and 1789. The area was difficult to access and settlement began around 1823. By the late 19th century the agriculture in the region was diversifying, with market gardens and citrus orchards occupying the rich soil left after the timber harvest. As late as 1850, the road between Hawkesbury (near Pittwater) and Brisbane Water was a cart wheel track.[5]
+Until white settlement, the area around Gosford was inhabited by the Guringai peoples, who were principally coastal-dwellers,[4] and the Darkinjung people that inhabited the hinterland. Along with the other land around the Hawkesbury River estuary, the Brisbane Water district was explored during the early stages of the settlement of New South Wales. Cottage and Historical Museum at West Gosford]] Gosford itself was explored by Governor Phillip between 1788 and 1789. The area was difficult to access and settlement began around 1823. By the late 19th century the agriculture in the region was diversifying, with market gardens and citrus orchards occupying the rich soil left after the timber harvest. As late as 1850, the road between Hawkesbury (near Pittwater) and Brisbane Water was a cart wheel track.[5]
 
 Typical of early Colonial settlement, convicts lived and worked in the Gosford area. In 1825, Gosford's population reached 100, of whom 50% were convicts.
 
@@ -13,7 +13,7 @@ East Gosford was the first centre of settlement. Gosford was named in 1839 after
 
 In 1887, the rail link to Sydney was completed, requiring a bridge over the Hawkesbury River and a tunnel through the sandstone ridge west of Woy Woy. The introduction of this transport link and then the Pacific Highway in 1930 accelerated the development of the region.
 
-Gosford became a town in 1885 and was declared a municipality in 1886.[7] Rumbalara_Reserve_-_panoramio_(6).jpg
+Gosford became a town in 1885 and was declared a municipality in 1886.[7]
 
 
 Demographics
@@ -27,15 +27,13 @@ Climate
 
 Gosford has a humid subtropical climate (Köppen climate classification: Cfa)[9] with warm summers and mild winters. In summer, temperatures average about 27-28 °C in the day with high humidity and about 17-18 °C at night. Winters are mild with cool overnight temperatures and mild to occasionally warm daytime temperatures with lower humidity. Average rainfall is 1333mm, much of which falls in the late summer and autumn. Records range from a maximum of on 18 January 2013, to a low of on 16 July 1970.
 
-Gosford_looking_sth.JPG
-
 Central Business District
 
-Gosford,_nsw.jpg Gosford proper is located in a valley with President's Hill on the city's western border, Rumbalara Reserve on its eastern border, and Brisbane water to the city's south. Mann Street, Gosford's main street and part of the Pacific Highway, runs north-south and contains the frontage for much of the commercial district.
+Gosford proper is located in a valley with President's Hill on the city's western border, Rumbalara Reserve on its eastern border, and Brisbane water to the city's south. Mann Street, Gosford's main street and part of the Pacific Highway, runs north-south and contains the frontage for much of the commercial district.
 
 In the centre of Gosford is a shopping and community precinct, including Kibble Park, William Street Mall, Gosford City Library, the Imperial Shopping Centre and a full range of shops, cafes, banks and services.
 
-A renewed period of optimism has followed demolition of several derelict buildings and several infrastructure investment projects including the full fibre optic telecommunications rollout of the National Broadband Network in 2012 in the city's CBD[10] as well as the so-called Kibbleplex project, announced in 2013[11] that plans to house the new regional library, tertiary teaching rooms and associated organisations. Gosford Classic Car Museum opened in 2016 at nearby suburb of West Gosford. Gosford_railway_station.jpg
+A renewed period of optimism has followed demolition of several derelict buildings and several infrastructure investment projects including the full fibre optic telecommunications rollout of the National Broadband Network in 2012 in the city's CBD[10] as well as the so-called Kibbleplex project, announced in 2013[11] that plans to house the new regional library, tertiary teaching rooms and associated organisations. Gosford Classic Car Museum opened in 2016 at nearby suburb of West Gosford.
 
 Recent residential apartments have been built in various areas of the Gosford Central Business District.
 
@@ -63,8 +61,6 @@ Gosford is home to:
 -   Gavenlock Oval – Home ground of the Gosford City Dragons
 -   Gosford Regional Gallery and Gosford/Edogawa Commemorative Garden – The Commemorative Garden is a Japanese garden that was built as a gift to residents of Gosford City Council by the Ward of Edogawa, Tokyo, Japan. They were opened in September 1994.
 
-Bluetongue_CC_Stadium.jpg
-
 
 Media
 
@@ -88,8 +84,7 @@ The Central Coast Highway cuts through Gosford's waterfront area, while its pred
 
 Mann Street contains the main public transport links for Gosford, including Gosford railway station, with hourly trains to Sydney Central Station and to Newcastle Interchange.
 
-There is also a terminal for several bus routes linking Gosford to the rest of the Central Coast outside of Gosford station. Centralcoast_stadium.jpg
-Gosford_Court_House,_New_South_Wales.jpg
+There is also a terminal for several bus routes linking Gosford to the rest of the Central Coast outside of Gosford station.
 
 
 Education

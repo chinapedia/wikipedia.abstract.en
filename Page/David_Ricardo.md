@@ -156,7 +156,7 @@ The unequal exchange theory of trade has been influential to the (new) dependenc
 
 Publications
 
-Ricardo_-_Opere,_1852_-_5181784.tif Ricardo's publications included:
+Ricardo's publications included:
 
 -   _The High Price of Bullion, a Proof of the Depreciation of Bank Notes_ (1810), which advocated the adoption of a metallic currency.
 -   _Essay on the Influence of a Low Price of Corn on the Profits of Stock_ (1815), which argued that repealing the Corn Laws would distribute more wealth to the productive members of society.

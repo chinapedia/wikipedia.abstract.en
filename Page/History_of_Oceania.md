@@ -1,4 +1,4 @@
-1852_Bocage_Map_of_Australia_and_Polynesia_-_Geographicus_-_Oceanie-bocage-1852.jpg upright=1.2 The HISTORY OF OCEANIA includes the history of Australia, New Zealand, Papua New Guinea, Fiji and other Pacific island nations.
+upright=1.2 The HISTORY OF OCEANIA includes the history of Australia, New Zealand, Papua New Guinea, Fiji and other Pacific island nations.
 
 
 Prehistory
@@ -17,7 +17,7 @@ In the archaeological record there are well-defined traces of this expansion whi
 
 Within a mere three or four centuries between about 1300 and 900 BCE, the Lapita archaeological culture spread 6,000 kilometres further to the east from the Bismarck Archipelago, until it reached as far as Fiji, Tonga, and Samoa.[9][10] The area of Tonga, Fiji, and Samoa served as a gateway into the rest of the Pacific region known as Polynesia.[11] Ancient Tongan mythologies recorded by early European explorers report the islands of 'Ata and Tongatapu as the first islands being hauled to the surface from the deep ocean by Maui.[12][13]
 
-Haʻamonga.jpg is a stone trilithon on the Tongan island of Tongatapu. It is constructed of three coral limestone slabs each weighing at least 30–40 tons.[14] It was built at the beginning of the 13th century under the 11th Tuʻi Tonga Tuʻitātui.]]
+is a stone trilithon on the Tongan island of Tongatapu. It is constructed of three coral limestone slabs each weighing at least 30–40 tons.[14] It was built at the beginning of the 13th century under the 11th Tuʻi Tonga Tuʻitātui.]]
 
 The "TUʻI TONGA EMPIRE" or "Tongan Empire" in Oceania are descriptions sometimes given to Tongan expansionism and projected hegemony dating back to 950 CE, but at its peak during the period 1200–1500. While modern researchers and cultural experts attest to widespread Tongan influence and evidences of transoceanic trade and exchange of material and non-material cultural artifacts, empirical evidence of a true political empire ruled for any length of time by successive rulers is lacking.[15]
 
@@ -29,7 +29,7 @@ The first settlements in Fiji were started by voyaging traders and settlers from
 
 Over the centuries, a unique Fijian culture developed. Constant warfare and cannibalism between warring tribes were quite rampant and very much part of everyday life.[21] In later centuries, the ferocity of the cannibal lifestyle deterred European sailors from going near Fijian waters, giving Fiji the name _Cannibal Isles_; as a result, Fiji remained unknown to the rest of the world.[22]
 
-AhuTongariki.jpg at Ahu Tongariki on Rapa Nui (Easter Island)]]
+at Ahu Tongariki on Rapa Nui (Easter Island)]]
 
 Early European visitors to EASTER ISLAND recorded the local oral traditions about the original settlers. In these traditions, Easter Islanders claimed that a chief Hotu Matu'a[23] arrived on the island in one or two large canoes with his wife and extended family.[24] They are believed to have been Polynesian. There is considerable uncertainty about the accuracy of this legend as well as the date of settlement. Published literature suggests the island was settled around 300–400 CE, or at about the time of the arrival of the earliest settlers in Hawaii.
 
@@ -43,7 +43,7 @@ Micronesia began to be settled several millennia ago, although there are competi
 
 The ancestors of the Micronesians settled there over 4,000 years ago. A decentralized chieftain-based system eventually evolved into a more centralized economic and religious culture centered on Yap and Pohnpei.[30] The prehistory of many Micronesian islands such as Yap are not known very well.[31]
 
-Map_FM-Nan_Madol.PNG]] Nan_Madol_5.jpg, capital of the Saudeleur Dynasty]]
+]] , capital of the Saudeleur Dynasty]]
 
 On Pohnpei, pre-colonial history is divided into three eras: _Mwehin Kawa_ or _Mwehin Aramas_ (Period of Building, or Period of Peopling, before c. 1100); _Mwehin Sau Deleur_ (Period of the Lord of Deleur, c. 1100[32] to c. 1628);{{#tag:ref|The Saudeleur era lasted around 500 years.[33] Legend generally dates their downfall to the 1500s,[34] however archaeologists date Saudeleur ruins to c. 1628.[35][36][37] |group=note}} and _Mwehin Nahnmwarki_ (Period of the Nahnmwarki, c. 1628 to c. 1885).[38][39] Pohnpeian legend recounts that the Saudeleur rulers, the first to bring government to Pohnpei, were of foreign origin. The Saudeleur centralized form of absolute rule is characterized in Pohnpeian legend as becoming increasingly oppressive over several generations. Arbitrary and onerous demands, as well as a reputation for offending Pohnpeian deities, sowed resentment among Pohnpeians. The Saudeleur Dynasty ended with the invasion of Isokelekel, another semi-mythical foreigner, who replaced the Saudeleur rule with the more decentralized _nahnmwarki_ system in existence today.[40][41][42] Isokelekel is regarded as the creator of the modern Pohnpeian _nahnmwarki_ social system and the father of the Pompeian people.[43][44]
 
@@ -53,13 +53,11 @@ The first people of the Northern Mariana Islands navigated to the islands at som
 
 Melanesia theories
 
-Melanesians.jpg
-
 The first settlers of Australia, New Guinea, and the large islands just to the east arrived between 50,000 and 30,000 years ago, when Neanderthals still roamed Europe.[48] The original inhabitants of the group of islands now named Melanesia were likely the ancestors of the present-day Papuan-speaking people. Migrating from South-East Asia, they appear to have occupied these islands as far east as the main islands in the Solomon Islands archipelago, including Makira and possibly the smaller islands farther to the east.[49]
 
 Particularly along the north coast of New Guinea and in the islands north and east of New Guinea, the Austronesian people, who had migrated into the area somewhat more than 3,000 years ago,[50] came into contact with these pre-existing populations of Papuan-speaking peoples. In the late 20th century, some scholars theorized a long period of interaction, which resulted in many complex changes in genetics, languages, and culture among the peoples.[51] Kayser, et al. proposed that, from this area, a very small group of people (speaking an Austronesian language) departed to the east to become the forebears of the Polynesian people.[52]
 
-Vanuatu_blonde.jpg]]
+]]
 
 However, the theory is contradicted by the findings of a genetic study published by Temple University in 2008; based on genome scans and evaluation of more than 800 genetic markers among a wide variety of Pacific peoples, it found that neither Polynesians nor Micronesians have much genetic relation to Melanesians. Both groups are strongly related genetically to East Asians, particularly Taiwanese aborigines.[53] It appeared that, having developed their sailing outrigger canoes, the Polynesian ancestors migrated from East Asia, moved through the Melanesian area quickly on their way, and kept going to eastern areas, where they settled. They left little genetic evidence in Melanesia.[54]
 
@@ -82,7 +80,7 @@ Iberian pioneers
 
 Early Iberian exploration
 
-Ferdinand_Magellan.jpg]] Magellan_Elcano_Circumnavigation-en.svg'', one of the original five ships, circumnavigated the globe after the death of Ferdinand Magellan.]] Oceania was first explored by Europeans from the 16th century onwards. Portuguese navigators, between 1512 and 1526, reached the Moluccas (by António de Abreu and Francisco Serrão in 1512), Timor, the Aru Islands (Martim A. Melo Coutinho), the Tanimbar Islands, some of the Caroline Islands (by Gomes de Sequeira in 1525), and west Papua New Guinea (by Jorge de Menezes in 1526). In 1519 a Castilian ('Spanish') expedition led by Ferdinand Magellan sailed down the east coast of South America, found and sailed through the strait that bears his name and on 28 November 1520 entered the ocean which he named "Pacific". The three remaining ships, led by Magellan and his captains Duarte Barbosa and João Serrão, then sailed north and caught the trade winds which carried them across the Pacific to the Philippines where Magellan was killed. One surviving ship led by Juan Sebastián Elcano returned west across the Indian Ocean and the other went north in the hope of finding the westerlies and reaching Mexico. Unable to find the right winds, it was forced to return to the East Indies. The Magellan-Elcano expedition achieved the first circumnavigation of the world and reached the Philippines, the Mariana Islands and other islands of Oceania.
+]] '', one of the original five ships, circumnavigated the globe after the death of Ferdinand Magellan.]] Oceania was first explored by Europeans from the 16th century onwards. Portuguese navigators, between 1512 and 1526, reached the Moluccas (by António de Abreu and Francisco Serrão in 1512), Timor, the Aru Islands (Martim A. Melo Coutinho), the Tanimbar Islands, some of the Caroline Islands (by Gomes de Sequeira in 1525), and west Papua New Guinea (by Jorge de Menezes in 1526). In 1519 a Castilian ('Spanish') expedition led by Ferdinand Magellan sailed down the east coast of South America, found and sailed through the strait that bears his name and on 28 November 1520 entered the ocean which he named "Pacific". The three remaining ships, led by Magellan and his captains Duarte Barbosa and João Serrão, then sailed north and caught the trade winds which carried them across the Pacific to the Philippines where Magellan was killed. One surviving ship led by Juan Sebastián Elcano returned west across the Indian Ocean and the other went north in the hope of finding the westerlies and reaching Mexico. Unable to find the right winds, it was forced to return to the East Indies. The Magellan-Elcano expedition achieved the first circumnavigation of the world and reached the Philippines, the Mariana Islands and other islands of Oceania.
 
 Other large expeditions
 
@@ -94,7 +92,7 @@ Later, in the quest for Terra Australis, Spanish explorers in the 17th century d
 
 Oceania during the Golden Age of Dutch exploration and discovery
 
-Oceania_UN_Geoscheme_-_Map_of_Melanesia.svg (including Australasia, Polynesia, Micronesia, and Melanesia). "The Island Continent" Australia was the last human-inhabited continent to be largely known to the civilized world.]]
+(including Australasia, Polynesia, Micronesia, and Melanesia). "The Island Continent" Australia was the last human-inhabited continent to be largely known to the civilized world.]]
 
 Early Dutch exploration
 
@@ -118,7 +116,7 @@ British exploration and Captain James Cook's voyages
 
 First voyage (1768–71)
 
-Cook_new_zealand.jpg Captainjamescookportrait.jpg.[71]]] In 1766 the Royal Society engaged James Cook to travel to the Pacific Ocean to observe and record the transit of Venus across the Sun. The expedition sailed from England on 26 August 1768,[72] rounded Cape Horn and continued westward across the Pacific to arrive at Tahiti on 13 April 1769, where the observations of the Venus Transit were made. Once the observations were completed, Cook opened the sealed orders which were additional instructions from the Admiralty for the second part of his voyage: to search the south Pacific for signs of the postulated rich southern continent of _Terra Australis_.[73]
+.[71]]] In 1766 the Royal Society engaged James Cook to travel to the Pacific Ocean to observe and record the transit of Venus across the Sun. The expedition sailed from England on 26 August 1768,[72] rounded Cape Horn and continued westward across the Pacific to arrive at Tahiti on 13 April 1769, where the observations of the Venus Transit were made. Once the observations were completed, Cook opened the sealed orders which were additional instructions from the Admiralty for the second part of his voyage: to search the south Pacific for signs of the postulated rich southern continent of _Terra Australis_.[73]
 
 With the help of a Tahitian named Tupaia, who had extensive knowledge of Pacific geography, Cook managed to reach New Zealand on 6 October 1769, leading only the second group of Europeans to do so (after Abel Tasman over a century earlier, in 1642). Cook mapped the complete New Zealand coastline, making only some minor errors (such as calling Banks Peninsula an island, and thinking Stewart Island/Rakiura was a peninsula of the South Island). He also identified Cook Strait, which separates the North Island from the South Island, and which Tasman had not seen.
 
@@ -126,15 +124,15 @@ Cook then voyaged west, reaching the south-eastern coast of Australia on 19 Apri
 
 After his departure from Botany Bay he continued northwards. After a grounding mishap on the Great Barrier Reef, the voyage continued, sailing through Torres Strait before returning to England via Batavia, the Cape of Good Hope, and Saint Helena.
 
-MaoriChief1784.jpg). Drawn by Sydney Parkinson, the artist on Captain Cook's 1st voyage to New Zealand in 1769.]]
+). Drawn by Sydney Parkinson, the artist on Captain Cook's 1st voyage to New Zealand in 1769.]]
 
 Second voyage (1772–75)
 
-James_Cook,_Waimea_Kauai.JPG, Kauai commemorating his first contact with the Hawaiian Islands at the town's harbour in January 1778]] In 1772 the Royal Society commissioned Cook to search for the hypothetical Terra Australis again. On his first voyage, Cook had demonstrated by circumnavigating New Zealand that it was not attached to a larger landmass to the south. Although he charted almost the entire eastern coastline of Australia, showing it to be continental in size, the Terra Australis was believed by the Royal Society to lie further south.[77]
+, Kauai commemorating his first contact with the Hawaiian Islands at the town's harbour in January 1778]] In 1772 the Royal Society commissioned Cook to search for the hypothetical Terra Australis again. On his first voyage, Cook had demonstrated by circumnavigating New Zealand that it was not attached to a larger landmass to the south. Although he charted almost the entire eastern coastline of Australia, showing it to be continental in size, the Terra Australis was believed by the Royal Society to lie further south.[77]
 
 Cook commanded on this voyage, while Tobias Furneaux commanded its companion ship, . Cook's expedition circumnavigated the globe at an extreme southern latitude, becoming one of the first to cross the Antarctic Circle (17 January 1773). In the Antarctic fog, _Resolution_ and _Adventure_ became separated. Furneaux made his way to New Zealand, where he lost some of his men during an encounter with Māori, and eventually sailed back to Britain, while Cook continued to explore the Antarctic, reaching 71°10'S on 31 January 1774.[78]
 
-James_Cook,_English_navigator,_witnessing_human_sacrifice_in_Taihiti_(Otaheite)_c._1773.jpg c. 1773]]
+c. 1773]]
 
 Cook almost encountered the mainland of Antarctica, but turned towards Tahiti to resupply his ship. He then resumed his southward course in a second fruitless attempt to find the supposed continent. On this leg of the voyage he brought a young Tahitian named Omai, who proved to be somewhat less knowledgeable about the Pacific than Tupaia had been on the first voyage. On his return voyage to New Zealand in 1774, Cook landed at the Friendly Islands, Easter Island, Norfolk Island, New Caledonia, and Vanuatu.
 
@@ -148,7 +146,7 @@ From the Sandwich Islands Cook sailed north and then north-east to explore the w
 
 Cook returned to Hawaii in 1779. After sailing around the archipelago for some eight weeks, he made landfall at Kealakekua Bay, on 'Hawaii Island', largest island in the Hawaiian Archipelago. Cook's arrival coincided with the _Makahiki_, a Hawaiian harvest festival of worship for the Polynesian god Lono. Coincidentally the form of Cook's ship, HMS _Resolution_, or more particularly the mast formation, sails and rigging, resembled certain significant artefacts that formed part of the season of worship.[83][84] Similarly, Cook's clockwise route around the island of Hawaii before making landfall resembled the processions that took place in a clockwise direction around the island during the Lono festivals. It has been argued (most extensively by Marshall Sahlins) that such coincidences were the reasons for Cook's (and to a limited extent, his crew's) initial deification by some Hawaiians who treated Cook as an incarnation of Lono.[85] Though this view was first suggested by members of Cook's expedition, the idea that any Hawaiians understood Cook to be Lono, and the evidence presented in support of it, were challenged in 1992.[86][87]
 
-Zoffany_Death_of_Captain_Cook.jpg'', an unfinished painting by Johann Zoffany, [88]]]
+'', an unfinished painting by Johann Zoffany, [88]]]
 
 After a month's stay, Cook resumed his exploration of the Northern Pacific. Shortly after leaving Hawaii Island, however, the _Resolution_{{'s}} foremast broke, so the ships returned to Kealakekua Bay for repairs. Tensions rose, and a number of quarrels broke out between the Europeans and Hawaiians. On 14 February 1779, at Kealakekua Bay, some Hawaiians took one of Cook's small boats. As thefts were quite common in Tahiti and the other islands, Cook would have taken hostages until the stolen articles were returned.[89] He attempted to take as hostage the King of Hawaiʻi, Kalaniʻōpuʻu. The Hawaiians prevented this, and Cook's men had to retreat to the beach. As Cook turned his back to help launch the boats, he was struck on the head by the villagers and then stabbed to death as he fell on his face in the surf.[90] Hawaiian tradition says that he was killed by a chief named Kalaimanokahoʻowaha or Kanaʻina.[91] The Hawaiians dragged his body away. Four of Cook's men were also killed and two others were wounded in the confrontation.
 
@@ -156,12 +154,8 @@ The esteem which the islanders nevertheless held for Cook caused them to retain 
 
 Clerke assumed leadership of the expedition.[93] Following the death of Clerke, _Resolution_ and _Discovery_ returned home in October 1780 commanded by John Gore, a veteran of Cook's first voyage, and Captain James King.[94] After their arrival in England, King completed Cook's account of the voyage.
 
-Cook_Three_Voyages_59.png
-
 
 Colonisation
-
-Pacific_Area_-_Imperial_Powers_1939_-_Map.svg
 
 British colonization
 
@@ -172,8 +166,6 @@ The Gilbert Islands (now known as Kiribati) and the Ellice Islands (now known as
 Among the last islands in Oceania to be colonised was Niue (1900). In 1887, King Fata-a-iki, who reigned Niue from 1887 to 1896, offered to cede sovereignty to the British Empire, fearing the consequences of annexation by a less benevolent colonial power. The offer was not accepted until 1900. Niue was a British protectorate, but the UK's direct involvement ended in 1901 when New Zealand annexed the island.
 
 French colonization
-
-Society_kingdoms.svg
 
 French Catholic missionaries arrived on Tahiti in 1834; their expulsion in 1836 caused France to send a gunboat in 1838. In 1842, Tahiti and Tahuata were declared a French protectorate, to allow Catholic missionaries to work undisturbed. The capital of Papeetē was founded in 1843. In 1880, France annexed Tahiti, changing the status from that of a protectorate to that of a colony.[97]
 
@@ -189,7 +181,7 @@ Dutch colonization
 
 In 1606 Luís Vaz de Torres explored the southern coast of New Guinea from Milne Bay to the Gulf of Papua including Orangerie Bay which he named _Bahía de San Lorenzo_. His expedition also discovered Basilaki Island naming it _Tierra de San Buenaventura_, which he claimed for Spain in July 1606.[104] On 18 October his expedition reached the western part of the island in present-day Indonesia, and also claimed the territory for the King of Spain.
 
-New_Guinea_(1884-1919).png controlled the western half of New Guinea, Germany the north-eastern part, and Britain the south-eastern part.]]
+controlled the western half of New Guinea, Germany the north-eastern part, and Britain the south-eastern part.]]
 
 A successive European claim occurred in 1828, when the Netherlands formally claimed the western half of the island as Netherlands New Guinea. In 1883, following a short-lived French annexation of New Ireland, the British colony of Queensland annexed south-eastern New Guinea. However, the Queensland government's superiors in the United Kingdom revoked the claim, and (formally) assumed direct responsibility in 1884, when Germany claimed north-eastern New Guinea as the protectorate of German New Guinea (also called Kaiser-Wilhelmsland).
 
@@ -220,8 +212,6 @@ During World War II, Japan colonized many Oceanic colonies by wresting control f
 
 Samoan Crisis 1887–1889
 
-Samoan_Crisis_wrecks_2.jpg SMS_Adler_1889_1.jpg
-
 The SAMOAN CRISIS was a confrontation standoff between the United States, Imperial Germany and Great Britain from 1887–1889 over control of the Samoan Islands during the Samoan Civil War. The incident involved three American warships, USS , and and three German warships, SMS _Adler_, SMS _Olga_, and SMS _Eber_, keeping each other at bay over several months in Apia harbor, which was monitored by the British warship .
 
 The standoff ended on 15 and 16 March when a cyclone wrecked all six warships in the harbor. _Calliope_ was able to escape the harbor and survived the storm. Robert Louis Stevenson witnessed the storm and its aftermath at Apia and later wrote about what he saw.[106] The Samoan Civil War continued, involving Germany, United States and Britain, eventually resulting, via the Tripartite Convention of 1899, in the partition of the Samoan Islands into American Samoa and German Samoa.[107]
@@ -229,13 +219,9 @@ The standoff ended on 15 and 16 March when a cyclone wrecked all six warships in
 
 World War I
 
-Bita_paka_location_1914.jpg
-
 The ASIAN AND PACIFIC THEATRE of World War I was a conquest of German colonial possession in the Pacific Ocean and China. The most significant military action was the Siege of Tsingtao in what is now China, but smaller actions were also fought at Battle of Bita Paka and Siege of Toma in German New Guinea.
 
 All other German and Austrian possessions in Asia and the Pacific fell without bloodshed. Naval warfare was common; all of the colonial powers had naval squadrons stationed in the Indian or Pacific Oceans. These fleets operated by supporting the invasions of German held territories and by destroying the East Asia Squadron.
-
-German_Reservists_New_Britain_1914_(AWM_A02543).jpg
 
 One of the first land offensives in the Pacific theatre was the Occupation of German Samoa in August 1914 by New Zealand forces. The campaign to take Samoa ended without bloodshed after over 1,000 New Zealanders landed on the German colony, supported by an Australian and French naval squadron.
 
@@ -248,7 +234,7 @@ German Micronesia, the Marianas, the Carolines and the Marshall Islands also fel
 
 World War II
 
-Attack_on_Pearl_Harbor_Japanese_planes_view.jpg at the beginning of the attack. The explosion in the center is a torpedo strike on the . Two attacking Japanese planes can be seen: one over the and one over the Naval Yard.]]
+at the beginning of the attack. The explosion in the center is a torpedo strike on the . Two attacking Japanese planes can be seen: one over the and one over the Naval Yard.]]
 
 The Pacific front saw major action during the Second World War, mainly between the belligerents Japan and the United States.
 
@@ -262,7 +248,7 @@ Some of the most prominent Oceanic battlegrounds were the Solomon Islands campai
 
 In 1940 the administration of French Polynesia recognised the Free French Forces and many Polynesians served in World War II. Unknown at the time to French and Polynesians, the Konoe Cabinet in Imperial Japan on 16 September 1940 included French Polynesia among the many territories which were to become Japanese possessions in the post-war world—though in the course of the war in the Pacific the Japanese were not able to launch an actual invasion of the French islands.
 
-NZ_3rd_Division_(USMC_photo).jpg, in the Solomon Islands]] USS_Enterprise_(CV-6)_under_attack_and_burning_during_the_Battle_of_the_Eastern_Solomons_on_24_August_1942_(NH_97778).jpg]]
+, in the Solomon Islands]] ]]
 
 Solomon Islands campaign
 
@@ -271,8 +257,6 @@ Some of the most intense fighting of the Second World War occurred in the Solomo
 The Guadalcanal Campaign became an important and bloody campaign fought in the Pacific War as the Allies began to repulse Japanese expansion. Of strategic importance during the war were the coastwatchers operating in remote locations, often on Japanese held islands, providing early warning and intelligence of Japanese naval, army and aircraft movements during the campaign.[115]
 
 "The Slot" was a name for New Georgia Sound, when it was used by the Tokyo Express to supply the Japanese garrison on Guadalcanal. Of more than 36,000 Japanese on Guadalcanal, about 26,000 were killed or missing, 9,000 died of disease, and 1,000 were captured.[116]
-
-Kokoda_casualties_(AWM_013286).jpg
 
 Kokoda Track campaign
 
@@ -283,7 +267,7 @@ In sight of Port Moresby itself, the Japanese began to run out of momentum again
 
 Nuclear testing in Oceania
 
-Crossroads_baker_explosion.jpgs test, known as Operation CROSSROADS (Event Baker), conducted at Bikini Atoll (1946)]]
+s test, known as Operation CROSSROADS (Event Baker), conducted at Bikini Atoll (1946)]]
 
 Due to its low population, Oceania was a popular location for atmospheric and underground nuclear tests. Tests were conducted in various locations by the United Kingdom (Operation Grapple and Operation Antler), the United States (Bikini atoll and the Marshall Islands) and France (Moruroa), often with devastating consequences for the inhabitants.
 
@@ -300,8 +284,6 @@ French nuclear testing in the Pacific was controversial in the 1980s, in 1985 Fr
 
 Fijian coups
 
-Fiji-0050.JPG
-
 Fiji has suffered several coups d'état: military in 1987 and 2006 and civilian in 2000. All were ultimately due to ethnic tension between indigenous Fijians and Indo-Fijians, who originally came to the islands as indentured labour in the late nineteenth and early twentieth century. The 1987 coup followed the election of a multi-ethnic coalition, which Lieutenant Colonel Sitiveni Rabuka overthrew, claiming racial discrimination against ethnic Fijians. The coup was denounced by the United Nations and Fiji was expelled from the Commonwealth of Nations.
 
 The 2000 coup was essentially a repeat of the 1987 affair, although it was led by civilian George Speight, apparently with military support. Commodore Frank Bainimarama, who was opposed to Speight, then took over and appointed a new Prime Minister. Speight was later tried and convicted for treason. Many indigenous Fijians were unhappy at the treatment of Speight and his supporters, feeling that the coup had been legitimate. In 2006 the Fijian parliament attempted to introduce a series of bills which would have, amongst other things, pardoned those involved in the 2000 coup. Bainimarama, concerned that the legal and racial injustices of the previous coups would be perpetuated, staged his own coup. It was internationally condemned, and Fiji again suspended from the Commonwealth.
@@ -317,8 +299,6 @@ From 1975, there were attempts by the Bougainville Province to secede from Papua
 
 
 Modern age
-
-SH_60F_Sea_Hawk_helicopter_in_the_Solomon_Islands.jpg
 
 In 1946, French Polynesians were granted French citizenship and the islands' status was changed to an overseas territory; the islands' name was changed in 1957 to Polynésie Française (French Polynesia).
 

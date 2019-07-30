@@ -41,7 +41,7 @@ Protection of the Arctic environment, climate change, pollution of the food chai
 
 Climate
 
-Greenland_map_of_Köppen_climate_classification.svg Retreat_of_the_Helheim_Glacier,_Greenland.jpg Cambios_en_la_capa_de_hielo_de_Groenlandia.jpg Topographic_map_of_Greenland_bedrock.jpg The Greenland ice sheet is thick and broad enough to blanket an area the size of Mexico. The ice is so massive that its weight presses the bedrock of Greenland below sea level and is so all-concealing that not until recently did scientists discover Greenland's Grand Canyon or the possibility that Greenland might actually be three islands.[5]
+The Greenland ice sheet is thick and broad enough to blanket an area the size of Mexico. The ice is so massive that its weight presses the bedrock of Greenland below sea level and is so all-concealing that not until recently did scientists discover Greenland's Grand Canyon or the possibility that Greenland might actually be three islands.[5]
 
 If the ice melted, the interior bedrock below sea level would be covered by water. It is not clear whether this water would be at sea level or a lake above sea level. If it would be at sea level it could connect to the sea at Ilulissat Icefjord, in Baffin Bay and near Nordostrundingen, creating three large islands.[6] But it is most likely that it would be a lake with one drain.
 

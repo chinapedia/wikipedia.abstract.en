@@ -3,14 +3,14 @@ FAIR ISLE (IPA: /fɛəraɪ̯l/; ; ) is an island in Shetland, in northern Scotla
 
 Geography
 
-Fair_Isle_-_West_cliffs.jpg the most remote inhabited island in the United Kingdom.[1] It is administratively part of the parish of Dunrossness, Shetland, and is roughly equidistant from Sumburgh Head, some to the northeast on the Mainland of Shetland[2][3] and North Ronaldsay, Orkney, some to the southwest.[4] Fair Isle is long and wide. It has an area of , making it the tenth largest of the Shetland Islands. It gives its name to one of the British Sea Areas.[5]
+the most remote inhabited island in the United Kingdom.[1] It is administratively part of the parish of Dunrossness, Shetland, and is roughly equidistant from Sumburgh Head, some to the northeast on the Mainland of Shetland[2][3] and North Ronaldsay, Orkney, some to the southwest.[4] Fair Isle is long and wide. It has an area of , making it the tenth largest of the Shetland Islands. It gives its name to one of the British Sea Areas.[5]
 
 Most of the islanders live in the crofts on the southern half of the island, with the northern half consisting of rocky moorland. The western coast consists of cliffs of up to in height, with Ward Hill at being the highest point of the island and its only Marilyn. On the eastern coast the almost detached headland of Sheep Rock rises to .[6]
 
 
 History
 
-Heladia_Carta_Marina.JPG'']]
+'']]
 
 Fair Isle has been occupied since Neolithic times, which is remarkable because of the lack of raw materials on the island, although it is surrounded by rich fishing waters. There are two known Iron Age sites – a promontory fort at Landberg and the foundations of a house underlying an early Christian settlement at Kirkigeo.
 
@@ -18,7 +18,7 @@ Most of the place names date from after the 9th century Norse settlement of the 
 
 Between the 9th and 15th centuries, Fair Isle was a Norwegian possession. In 1469, Shetland, along with Orkney, was part of the dowry of the King of Denmark's daughter, Margaret, on her marriage to James III of Scotland.[7]
 
-On 20 August 1588 the flagship of the Spanish Armada, _El Gran Grifón_, was shipwrecked in the cove of Stroms Hellier, forcing its 300 sailors to spend six weeks living with the islanders. The wreck was discovered in 1970. The large Canadian sailing ship _Black Watch_ was wrecked on Fair Isle in 1877. Fair_Isle_-_Croft_houses.jpg]] Fair Isle was bought by the National Trust for Scotland in 1954 from George Waterston, the founder of the bird observatory.[8][9]
+On 20 August 1588 the flagship of the Spanish Armada, _El Gran Grifón_, was shipwrecked in the cove of Stroms Hellier, forcing its 300 sailors to spend six weeks living with the islanders. The wreck was discovered in 1970. The large Canadian sailing ship _Black Watch_ was wrecked on Fair Isle in 1877. ]] Fair Isle was bought by the National Trust for Scotland in 1954 from George Waterston, the founder of the bird observatory.[8][9]
 
 The population has decreased steadily from about 400 in 1900. There are currently around 55 permanent residents on the island,[10] the majority of whom are crofters who work the land. The island has 14 scheduled monuments, ranging from the earliest signs of human activity to the remains of a Second World War radar station. The two automated lighthouses are protected as listed buildings.
 
@@ -51,7 +51,7 @@ In 2010, a new observatory was built: a wooden lodge of two storeys, which cost 
 
 Infrastructure
 
-Fairislesunset.jpg Other than the restaurant of the Bird Observatory, and its little evening-only bar, there are no pubs or restaurants on the island. There is one shop, and one school (see below). There is a community hall available for meetings and social events.
+Other than the restaurant of the Bird Observatory, and its little evening-only bar, there are no pubs or restaurants on the island. There is one shop, and one school (see below). There is a community hall available for meetings and social events.
 
 Electricity supply
 
@@ -74,7 +74,7 @@ Transport
 
 Air
 
-Directflight_Britten-Norman_BN-2B-20_Islander_at_Fair_Isle.jpg of Directflight at Fair Isle Airport preparing for the flight to Tingwall Airport on Shetland (April 2011).]] Fair Isle Airport serves the island with flights to Tingwall Airport near Lerwick, and weekly to Sumburgh Airport, both on Shetland. Flights to Kirkwall on Orkney were scheduled to begin in September 2017, provided by Loganair.[32] Private aircraft use the facility and scheduled flights arrive twice daily, three days a week. There is a small terminal building, but facilities are otherwise very limited. Fire cover is provided by the island fire service.
+of Directflight at Fair Isle Airport preparing for the flight to Tingwall Airport on Shetland (April 2011).]] Fair Isle Airport serves the island with flights to Tingwall Airport near Lerwick, and weekly to Sumburgh Airport, both on Shetland. Flights to Kirkwall on Orkney were scheduled to begin in September 2017, provided by Loganair.[32] Private aircraft use the facility and scheduled flights arrive twice daily, three days a week. There is a small terminal building, but facilities are otherwise very limited. Fire cover is provided by the island fire service.
 
 There is also a helipad at the South Fair Isle lighthouse, for official use by the Northern Lighthouse Board and Coastguard helicopters, and a second one at the North Fair Isle lighthouse.
 

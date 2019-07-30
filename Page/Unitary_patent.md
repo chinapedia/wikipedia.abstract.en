@@ -1,14 +1,14 @@
-+---------------------------------+
-| Unitary_patent_participants.svg |
-+---------------------------------+
-|                                 |
-+---------------------------------+
-|                                 |
-+---------------------------------+
-|                                 |
-+---------------------------------+
-|                                 |
-+---------------------------------+
++--+
+|  |
++--+
+|  |
++--+
+|  |
++--+
+|  |
++--+
+|  |
++--+
 
 : Unitary patent in the European Union
 
@@ -32,7 +32,7 @@ Background
 
 Legislative history
 
-Mikolaj_Dowgielewicz_eu_minister_0c169_7655.jpg, Polish Minister for European and Economic Affairs, said: "We have our backs to the wall: one or two member states are not willing to compromise and there will not be a breakthrough before the end of our Presidency."[11]]]
+, Polish Minister for European and Economic Affairs, said: "We have our backs to the wall: one or two member states are not willing to compromise and there will not be a breakthrough before the end of our Presidency."[11]]]
 
 In 2009, three draft documents were published regarding a community patent: a European patent in which the European Community was designated:
 
@@ -217,7 +217,7 @@ In view of the difficulties in reaching an agreement on the community patent,[11
 
 Reactions to the failure
 
-ProdiBari.jpg (here on a picture taken in 2006) cited the failure to agree on a Europewide patent as a weak point of his five-year term as President of the European Commission.]] After the council in March 2004, EU Commissioner Frits Bolkestein said that "The failure to agree on the Community Patent I am afraid undermines the credibility of the whole enterprise to make Europe the most competitive economy in the world by 2010." Adding:
+(here on a picture taken in 2006) cited the failure to agree on a Europewide patent as a weak point of his five-year term as President of the European Commission.]] After the council in March 2004, EU Commissioner Frits Bolkestein said that "The failure to agree on the Community Patent I am afraid undermines the credibility of the whole enterprise to make Europe the most competitive economy in the world by 2010." Adding:
 
 Jonathan Todd, Commission's Internal Market spokesman, declared:
 
@@ -231,7 +231,7 @@ For larger businesses, however, other issues come into play, which have tended t
 
 Since 2005: stalemate and new debate
 
-Charlie_McCreevy_portrait.jpg was quoted as saying that the proposal for an EU-wide patent was stuck in the mud.]]
+was quoted as saying that the proposal for an EU-wide patent was stuck in the mud.]]
 
 Thus, in 2005, the Community patent looked unlikely to be implemented in the near future. However, on 16 January 2006 the European Commission "launched a public consultation on how future action in patent policy to create an EU-wide system of protection can best take account of stakeholders' needs." The Community patent was one of the issues the consultation focused on.[119] More than 2500 replies were received.[120] According to the European Commission, the consultation showed that there is widespread support for the Community patent but not at any cost, and "in particular not on the basis of the Common Political Approach reached by EU Ministers in 2003".[121]
 

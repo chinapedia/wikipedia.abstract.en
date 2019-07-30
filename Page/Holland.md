@@ -26,7 +26,7 @@ Initially, Holland was a remote corner of the Holy Roman Empire. Gradually, its 
 
 County of Holland
 
-Wapen_graafschap_Holland.svg of the County of Holland]] Until the start of the 12th century, the inhabitants of the area that became Holland were known as Frisians. The area was initially part of Frisia. At the end of the 9th century, West-Frisia became a separate county in the Holy Roman Empire. The first Count known about with certainty was Dirk I, who ruled from 896 to 931. He was succeeded by a long line of counts in the House of Holland (who were in fact known as counts of Frisia until 1101). When John I, Count of Holland, died childless in 1299, the county was inherited by John II of Avesnes, count of Hainaut. By the time of William V (House of Wittelsbach; 1354–1388) the count of Holland was also the count of Hainaut and Zealand.
+of the County of Holland]] Until the start of the 12th century, the inhabitants of the area that became Holland were known as Frisians. The area was initially part of Frisia. At the end of the 9th century, West-Frisia became a separate county in the Holy Roman Empire. The first Count known about with certainty was Dirk I, who ruled from 896 to 931. He was succeeded by a long line of counts in the House of Holland (who were in fact known as counts of Frisia until 1101). When John I, Count of Holland, died childless in 1299, the county was inherited by John II of Avesnes, count of Hainaut. By the time of William V (House of Wittelsbach; 1354–1388) the count of Holland was also the count of Hainaut and Zealand.
 
 After the St. Lucia's flood in 1287 the part of Frisia west of the later Zuiderzee, West Friesland, was conquered. As a result, most provincial institutions, including the States of Holland and West Frisia, would for more than five centuries refer to "Holland and West Frisia" as a unit. The Hook and Cod wars started around this time and ended when the countess of Holland, Jacoba or Jacqueline was forced to cede Holland to the Burgundian Philip III, known as Philip the Good, in 1432.
 
@@ -34,15 +34,13 @@ In 1432, Holland became part of the Burgundian Netherlands and since 1477 of the
 
 Dutch Republic
 
-COMITATUS_HOLLANDIAE_1682.jpg In the Dutch Rebellion against the Habsburgs during the Eighty Years' War, the naval forces of the rebels, the Watergeuzen, established their first permanent base in 1572 in the town of Brill. In this way, Holland, now a sovereign state in a larger Dutch confederation, became the centre of the rebellion. It became the cultural, political and economic centre of the United Provinces (), in the 17th century, the Dutch Golden Age, the wealthiest nation in the world. After the King of Spain was deposed as the count of Holland, the executive and legislative power rested with the States of Holland, which was led by a political figure who held the office of Grand Pensionary.
+In the Dutch Rebellion against the Habsburgs during the Eighty Years' War, the naval forces of the rebels, the Watergeuzen, established their first permanent base in 1572 in the town of Brill. In this way, Holland, now a sovereign state in a larger Dutch confederation, became the centre of the rebellion. It became the cultural, political and economic centre of the United Provinces (), in the 17th century, the Dutch Golden Age, the wealthiest nation in the world. After the King of Spain was deposed as the count of Holland, the executive and legislative power rested with the States of Holland, which was led by a political figure who held the office of Grand Pensionary.
 
 The largest cities in the Dutch Republic were in the province of Holland, such as Amsterdam, Rotterdam, Leiden, Alkmaar, The Hague, Delft, Dordrecht and Haarlem. From the great ports of Holland, Hollandic merchants sailed to and from destinations all over Europe, and merchants from all over Europe gathered to trade in the warehouses of Amsterdam and other trading cities of Holland.
 
 Many Europeans thought of the United Provinces first as _Holland_ rather than as the _Republic of the Seven United Provinces of the Netherlands_. A strong impression of _Holland_ was planted in the minds of other Europeans, which then was projected back onto the Republic as a whole. Within the provinces themselves, a gradual slow process of cultural expansion took place, leading to a "Hollandification" of the other provinces and a more uniform culture for the whole of the Republic. The dialect of urban Holland became the standard language.
 
 Under French rule
-
-Departments_of_French_Empire_North_1811-ex.svg
 
 The formation of the Batavian Republic, inspired by the French revolution, led to a more centralised government. Holland became a province of a unitary state. Its independence was further reduced by an administrative reform in 1798, in which its territory was divided into several departments called _Amstel_, _Delf_, _Texel_, and part of _Schelde en Maas_.
 
@@ -57,7 +55,7 @@ After 1813, Holland was restored as a province of the United Kingdom of the Neth
 
 Geography
 
-Provincie_Noord-Holland.gif Provincie_Zuid-Holland.gif Holland is situated in the west of the Netherlands. A maritime region, Holland lies on the North Sea at the mouths of the Rhine and the Meuse (Maas). It contains numerous rivers and lakes, and has an extensive inland canal and waterway system. To the south is Zealand. The region is bordered on the east by the IJsselmeer and four Dutch provinces.
+Holland is situated in the west of the Netherlands. A maritime region, Holland lies on the North Sea at the mouths of the Rhine and the Meuse (Maas). It contains numerous rivers and lakes, and has an extensive inland canal and waterway system. To the south is Zealand. The region is bordered on the east by the IJsselmeer and four Dutch provinces.
 
 Holland is protected from the sea by a long line of coastal dunes. The highest point in Holland, about above sea level,[15] is in the (Schoorl Dunes). Most of the land area behind the dunes consists of polder landscape lying well below sea level. At present the lowest point in Holland is a polder near Rotterdam, which is about below sea level. Continuous drainage is necessary to keep Holland from flooding. In earlier centuries windmills were used for this task. The landscape was (and in places still is) dotted with windmills, which have become a symbol of Holland.
 
@@ -69,7 +67,7 @@ The Randstad area is one of the most densely populated regions of Europe, but st
 
 Reclamation of the land
 
-Benthuizen_dijk_polder.jpg The land that is now Holland has not been "stable" since prehistoric times. The western coastline shifted up to to the east and storm surges regularly broke through the row of coastal dunes. The Frisian Isles, originally joined to the mainland, became detached islands in the north. The main rivers, the Rhine and the Meuse (Maas), flooded regularly and changed course repeatedly and dramatically.
+The land that is now Holland has not been "stable" since prehistoric times. The western coastline shifted up to to the east and storm surges regularly broke through the row of coastal dunes. The Frisian Isles, originally joined to the mainland, became detached islands in the north. The main rivers, the Rhine and the Meuse (Maas), flooded regularly and changed course repeatedly and dramatically.
 
 The people of Holland found themselves living in an unstable, watery environment. Behind the dunes on the coast of the Netherlands a high peat plateau had grown, forming a natural protection against the sea. Much of the area was marsh and bog. By the tenth century the inhabitants set about cultivating this land by draining it. However, the drainage resulted in extreme soil shrinkage, lowering the surface of the land by up to .
 

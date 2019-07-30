@@ -13,7 +13,7 @@ Uranium, element 92, is the heaviest element to occur in significant quantity in
 
 Reports
 
-Transactinide_chemistry_apparatus_Dubna.jpg, 105, and 106[4]]] The first report of the discovery of element 105 came from the Joint Institute for Nuclear Research (JINR) in Dubna, Moscow Oblast, Russian SFSR, Soviet Union, in April 1968. The scientists bombarded ²⁴³Am with a beam of ²²Ne ions, and reported 9.4 MeV (with a half-life of 0.1–3 seconds) and 9.7 MeV (_t__(1/2) > 0.05 s) alpha activities followed by alpha activities similar to those of either ²⁵⁶103 or ²⁵⁷103. Based on prior theoretical predictions, the two activity lines were assigned to ²⁶¹105 and ²⁶⁰105, respectively.[5]
+, 105, and 106[4]]] The first report of the discovery of element 105 came from the Joint Institute for Nuclear Research (JINR) in Dubna, Moscow Oblast, Russian SFSR, Soviet Union, in April 1968. The scientists bombarded ²⁴³Am with a beam of ²²Ne ions, and reported 9.4 MeV (with a half-life of 0.1–3 seconds) and 9.7 MeV (_t__(1/2) > 0.05 s) alpha activities followed by alpha activities similar to those of either ²⁵⁶103 or ²⁵⁷103. Based on prior theoretical predictions, the two activity lines were assigned to ²⁶¹105 and ²⁶⁰105, respectively.[5]
 
     + → ^(265−_x_)105 + _x_ (_x_ = 4, 5)
 
@@ -50,8 +50,6 @@ In 1996, IUPAC held another meeting, reconsidered all names in hand, and accepte
 
 Isotopes
 
-Nucleus_half_life_and_decay.svg
-
 Dubnium, having an atomic number of 105, is a superheavy element; like all elements with such high atomic numbers, it is very unstable. The longest-lasting known isotope of dubnium, ²⁶⁸Db, has a half-life of around a day.[33] No stable isotopes have been seen, and a 2012 calculation by JINR suggested that the half-lives of all dubnium isotopes would not significantly exceed a day.[34] Dubnium can only be obtained by artificial production.
 
 The short half-life of dubnium limits experimentation. This is exacerbated by the fact that the most stable isotopes are the hardest to synthesize.[35] Elements with a lower atomic number have stable isotopes with a lower neutron-to-proton ratio than those with higher atomic number, meaning that the target and beam nuclei that could be employed to create the superheavy element have fewer neutrons than needed to form these most stable isotopes. (Different techniques based on rapid neutron capture and transfer reactions are being considered as of the 2010s, but those based on the collision of a large and small nucleus still dominate research in the area.)[36][37]
@@ -65,19 +63,17 @@ According to the periodic law, dubnium should belong to group 5, with vanadium, 
 
 Atomic and physical
 
-7s_electrons_dubnium_relativistic_vs_nonrelativistic.svg A direct relativistic effect is that as the atomic numbers of elements increase, the innermost electrons begin to revolve faster around the nucleus as a result of an increase of electromagnetic attraction between an electron and a nucleus. Similar effects have been found for the outermost s orbitals (and p_(1/2) ones, though in dubnium they are not occupied): for example, the 7s orbital contracts by 25% in size and is stabilized by 2.6 eV.[45]
+A direct relativistic effect is that as the atomic numbers of elements increase, the innermost electrons begin to revolve faster around the nucleus as a result of an increase of electromagnetic attraction between an electron and a nucleus. Similar effects have been found for the outermost s orbitals (and p_(1/2) ones, though in dubnium they are not occupied): for example, the 7s orbital contracts by 25% in size and is stabilized by 2.6 eV.[45]
 
 A more indirect effect is that the contracted s and p_(1/2) orbitals shield the charge of the nucleus more effectively, leaving less for the outer d and f electrons, which therefore move in larger orbitals. Dubnium is greatly affected by this: unlike the previous group 5 members, its 7s electrons are slightly more difficult to extract than its 6d electrons.[46]
 
-Atomic_orbitals_dubnium.svg Another effect is the spin–orbit interaction, particularly spin–orbit splitting, which splits the 6d subshell—the azimuthal quantum number ℓ of a d shell is 2—into two subshells, with four of the ten orbitals having their ℓ lowered to 3/2 and six raised to 5/2. All ten energy levels are raised; four of them are lower than the other six. (The three 6d electrons normally occupy the lowest energy levels, 6d_(3/2).)[47]
+Another effect is the spin–orbit interaction, particularly spin–orbit splitting, which splits the 6d subshell—the azimuthal quantum number ℓ of a d shell is 2—into two subshells, with four of the ten orbitals having their ℓ lowered to 3/2 and six raised to 5/2. All ten energy levels are raised; four of them are lower than the other six. (The three 6d electrons normally occupy the lowest energy levels, 6d_(3/2).)[47]
 
 A singly ionized atom of dubnium (Db⁺) should lose a 6d electron compared to a neutral atom; the doubly (Db²⁺) or triply (Db³⁺) ionized atoms of dubnium should eliminate 7s electrons, unlike its lighter homologs. Despite the changes, dubnium is still expected to have five valence electrons; 7p energy levels have not been shown to influence dubnium and its properties. As the 6d orbitals of dubnium are more destabilized than the 5d ones of tantalum, and Db³⁺ is expected to have two 6d, rather than 7s, electrons remaining, the resulting +3 oxidation state is expected to be unstable and even rarer than that of tantalum. The ionization potential of dubnium in its maximum +5 oxidation state should be slightly lower than that of tantalum and the ionic radius of dubnium should increase compared to tantalum; this has a significant effect on dubnium's chemistry.[48]
 
 Atoms of dubnium in the solid state should arrange themselves in a body-centered cubic configuration, like the previous group 5 elements.[49] The predicted density of dubnium is 29 g/cm³.[50]
 
 Chemical
-
-Radiochem_104+_Transactinide.svg
 
 Computational chemistry is simplest in gas-phase chemistry, in which interactions between molecules may be ignored as negligible. Multiple authors[51] have researched dubnium pentachloride; calculations show it to be consistent with the periodic laws by exhibiting the properties of a compound of a group 5 element. For example, the molecular orbital levels indicate that dubnium uses three 6d electron levels as expected. Compared to its tantalum analog, dubnium pentachloride is expected to show increased covalent character: a decrease in the effective charge on an atom and an increase in the overlap population (between orbitals of dubnium and chlorine).[52]
 

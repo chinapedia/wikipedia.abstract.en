@@ -183,7 +183,7 @@ There is a Mozart reference in the title—_A Little Night Music_ is an occasion
 
 Cast recordings
 
-A_Little_Night_Music_(1995_cast_recording_-_cover_art).jpg In addition to the original Broadway and London cast recordings, and the motion picture soundtrack (no longer available), there are recordings of the 1990 studio cast, the 1995 Royal National Theatre revival (starring Judi Dench), and the 2001 Barcelona cast recording sung in Catalan. In 1997 an all-jazz version of the score was recorded by Terry Trotter.[48]
+In addition to the original Broadway and London cast recordings, and the motion picture soundtrack (no longer available), there are recordings of the 1990 studio cast, the 1995 Royal National Theatre revival (starring Judi Dench), and the 2001 Barcelona cast recording sung in Catalan. In 1997 an all-jazz version of the score was recorded by Terry Trotter.[48]
 
 The 2009 Broadway revival with Catherine Zeta-Jones and Angela Lansbury recorded a cast album on January 4, 2010, which was released on April 6.[49]
 

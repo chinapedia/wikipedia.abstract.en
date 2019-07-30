@@ -1,9 +1,9 @@
-Odin,_Lodur,_Hoenir_skabe_Ask_og_Embla_by_Frølich.jpg.]] In Norse mythology, ASK AND EMBLA (from )—male and female respectively—were the first two humans, created by the gods. The pair are attested in both the _Poetic Edda_, compiled in the 13th century from earlier traditional sources, and the _Prose Edda_, written in the 13th century by Snorri Sturluson. In both sources, three gods, one of whom is Odin, find Ask and Embla and bestow upon them various corporeal and spiritual gifts. A number of theories have been proposed to explain the two figures, and there are occasional references to them in popular culture.
+.]] In Norse mythology, ASK AND EMBLA (from )—male and female respectively—were the first two humans, created by the gods. The pair are attested in both the _Poetic Edda_, compiled in the 13th century from earlier traditional sources, and the _Prose Edda_, written in the 13th century by Snorri Sturluson. In both sources, three gods, one of whom is Odin, find Ask and Embla and bestow upon them various corporeal and spiritual gifts. A number of theories have been proposed to explain the two figures, and there are occasional references to them in popular culture.
 
 
 Etymology
 
-Ask_and_Embla_by_Robert_Engels.jpg Old Norse literally means "ash tree" but the etymology of _embla_ is uncertain, and two possibilities of the meaning of _embla_ are generally proposed. The first meaning, "elm tree", is problematic, and is reached by deriving _*Elm-la_ from _*Almilōn_ and subsequently to ("elm").[1] The second suggestion is "vine", which is reached through _*Ambilō_, which may be related to the Greek term (), itself meaning "vine, liana".[2] The latter etymology has resulted in a number of theories.
+Old Norse literally means "ash tree" but the etymology of _embla_ is uncertain, and two possibilities of the meaning of _embla_ are generally proposed. The first meaning, "elm tree", is problematic, and is reached by deriving _*Elm-la_ from _*Almilōn_ and subsequently to ("elm").[1] The second suggestion is "vine", which is reached through _*Ambilō_, which may be related to the Greek term (), itself meaning "vine, liana".[2] The latter etymology has resulted in a number of theories.
 
 According to Benjamin Thorpe "Grimm says the word embla, emla, signifies a busy woman, from amr, ambr, aml, ambl, assiduous labour; the same relation as Meshia and Meshiane, the ancient Persian names of the first man and woman, who were also formed from trees."[3]
 
@@ -27,7 +27,7 @@ According to chapter 9 of the _Prose Edda_ book _Gylfaginning_, the three brothe
 
 Theories
 
-Sölvesborg_Ask_och_Embla2.jpg. In Sölvesborg, Sweden. Photo by Henrik Sendelbach.]]
+. In Sölvesborg, Sweden. Photo by Henrik Sendelbach.]]
 
 Indo-European origins
 

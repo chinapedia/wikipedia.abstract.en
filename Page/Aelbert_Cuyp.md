@@ -1,6 +1,6 @@
-Aelbert_Cuyp_-_The_Maas_at_Dordrecht_-_Google_Art_Project.jpg in front of Cuyp's hometown of Dordrecht, National Gallery of Art.]]
+in front of Cuyp's hometown of Dordrecht, National Gallery of Art.]]
 
-AELBERT JACOBSZ CUYP (October 20, 1620 – November 15, 1691) was one of the leading Dutch Golden Age painters, producing mainly landscapes. The most famous of a family of painters, the pupil of his father Jacob Gerritsz Cuyp (1594–1651/52),[1] he is especially known for his large views of Dutch riverside scenes in a golden early morning or late afternoon light. Aelbert_Cuyp-The_Negro_Page.jpg]]
+AELBERT JACOBSZ CUYP (October 20, 1620 – November 15, 1691) was one of the leading Dutch Golden Age painters, producing mainly landscapes. The most famous of a family of painters, the pupil of his father Jacob Gerritsz Cuyp (1594–1651/52),[1] he is especially known for his large views of Dutch riverside scenes in a golden early morning or late afternoon light. ]]
 
 
 Biography
@@ -12,7 +12,7 @@ The amount of biographical information regarding Aelbert Cuyp is tremendously li
 
 Style
 
-Aelbert_Cuyp_-_Piping_Shepherds_(Metropolitan_Museum_of_Art).jpg The development of Aelbert Cuyp, who was trained as a landscape painter, may be roughly sketched in three phases based on the painters who most influenced him during that time and the subsequent artistic characteristics that are apparent in his paintings. Generally, Cuyp learned tone from the exceptionally prolific Jan van Goyen, light from Jan Both and form from his father, Jacob Gerritsz Cuyp.[7]
+The development of Aelbert Cuyp, who was trained as a landscape painter, may be roughly sketched in three phases based on the painters who most influenced him during that time and the subsequent artistic characteristics that are apparent in his paintings. Generally, Cuyp learned tone from the exceptionally prolific Jan van Goyen, light from Jan Both and form from his father, Jacob Gerritsz Cuyp.[7]
 
 Cuyp's "van Goyen phase" can be placed approximately in the early 1640s. Cuyp probably first encountered a painting by van Goyen in 1640 when van Goyen was, as Stephen Reiss points out "at the height of [his] powers."[8] This is noticeable in the comparison between two of Cuyp's landscape paintings inscribed 1639 where no properly formed style is apparent and the landscape backgrounds he painted two years later for two of his father's group portraits that are distinctly van Goyenesque. Cuyp took from van Goyen the straw yellow and light brown tones that are so apparent in his Dunes (1629) and the broken brush technique also very noticeable in that same work. This technique, a precursor to impressionism, is noted for the short brush strokes where the colors are not necessarily blended smoothly. In Cuyp's River Scene, Two Men Conversing (1641) both of these van Goyen-influenced stylistic elements are noticeable
 
@@ -23,7 +23,7 @@ Cuyp's third stylistic phase (which occurred throughout his career) is based on 
 
 Paintings
 
-Cuyp_-_Schafherde_auf_der_Weide_-_Städel.jpg]] Sunlight in his paintings rakes across the panel, accentuating small bits of detail in the golden light. In large, atmospheric panoramas of the countryside, the highlights on a blade of meadow grass, the mane of a tranquil horse, the horn of a dairy cow reclining by a stream, or the tip of a peasant's hat are all caught in a bath of yellow ocher light. The richly varnished medium refracts the rays of light like a jewel as it dissolves into numerous glazed layers. Cuyp's landscapes were based on reality and on his own invention of what an enchanting landscape should be.
+]] Sunlight in his paintings rakes across the panel, accentuating small bits of detail in the golden light. In large, atmospheric panoramas of the countryside, the highlights on a blade of meadow grass, the mane of a tranquil horse, the horn of a dairy cow reclining by a stream, or the tip of a peasant's hat are all caught in a bath of yellow ocher light. The richly varnished medium refracts the rays of light like a jewel as it dissolves into numerous glazed layers. Cuyp's landscapes were based on reality and on his own invention of what an enchanting landscape should be.
 
 Cuyp's drawings reveal him to be a draftsman of superior quality. Light-drenched washes of golden brown ink depict a distant view of the city of Dordrecht or Utrecht. A Cuyp drawing may look like he intended it to be a finished work of art, but it was most likely taken back to the studio and used as a reference for his paintings. Often the same section of a sketch can be found in several different pictures.
 
@@ -33,8 +33,6 @@ However, not everyone appreciates his work and _River Landscape_ (1660), despite
 
 
 Misattribution of paintings
-
-Cuyp,_Aelbert_-_Cattle_near_a_River_-_Google_Art_Project.jpg
 
 In addition to the scarcely documented and confirmed biography of Cuyp's life, and even more so than his amalgamated style from his three main influences, there are yet other factors that have led to the misattribution and confusion over Aelbert Cuyp's works for hundreds of years. His highly influenced style which incorporated Italianate lighting from Jan Both, broken brush technique and atonality from Jan van Goyen, and his ever-developing style from his father Jacob Gerritsz Cuyp was studied acutely by his most prominent follower, Abraham van Calraet. Calraet mimicked Cuyp's style, incorporating the same aspects, and produced similar landscapes to that of the latter. This made it quite difficult to tell whose paintings where whose. Adding to the confusion is the similar initials between the two and the inconsistent signing of paintings which were produced by Cuyp's studio.
 

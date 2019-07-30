@@ -41,7 +41,7 @@ _Anand_ (1971) followed, in which Bachchan starred alongside Rajesh Khanna. His 
 
 Rise to stardom (1973–1974)
 
-BigB_N_JayaB.jpg in 2013; the couple got married in 1973, after the release of _Zanjeer_.]]
+in 2013; the couple got married in 1973, after the release of _Zanjeer_.]]
 
 Bachchan was struggling, seen as a "failed newcomer" who, by the age of 30, had twelve flops and only two hits (as a lead in _Bombay to Goa_ and supporting role in _Anand_). Bachchan was soon discovered by screenwriter duo Salim-Javed, consisting of Salim Khan and Javed Akhtar.[35] Salim Khan wrote the story, screenplay and script of _Zanjeer_ (1973), and conceived the "angry young man" persona of the lead role. Javed Akhtar came on board as co-writer,[36] and Prakash Mehra, who saw the script as potentially groundbreaking, as the film's director. However, they were struggling to find an actor for the lead "angry young man" role; it was turned down by a number of actors, owing to it going against the "romantic hero" image dominant in the industry at the time.[37] Salim-Javed soon discovered Bachchan and "saw his talent, which most makers didn’t. He was exceptional, a genius actor who was in films that weren’t good."[38] According to Salim Khan, they "strongly felt that Amitabh was the ideal casting for _Zanjeer_".[39] Salim Khan introduced Bachchan to Prakash Mehra,[40] and Salim-Javed insisted that Bachchan be cast for the role.[41]
 
@@ -75,7 +75,7 @@ Later, he was diagnosed with Myasthenia gravis. His illness made him feel weak b
 
 Career decline and retirement (1988–1992)
 
-Amitabhbachchan28529.jpg]] After a three year stint in politics from 1984 to 1987, Bachchan returned to films in 1988, playing the title role in _Shahenshah_, which was a box office success.[74] After the success of his comeback film however, his star power began to wane as all of his subsequent films like _Jaadugar_, _Toofan_ and _Main Azaad Hoon_ (all released in 1989) failed at the box office. Successes during this period like the crime drama _Aaj Ka Arjun_ (1990) and action crime drama _Hum_ (1991), for which he won his third Filmfare Best Actor Award, looked like they might reverse the trend, but this momentum was short-lived and his string of box office failures continued.[75][76] Notably, despite the lack of hits, it was during this era that Bachchan won his first National Film Award for Best Actor for his performance as a Mafia don in the 1990 cult film _Agneepath._ These years would see his last on-screen appearances for some time. After the release of the critically acclaimed epic _Khuda Gawah_ in 1992, Bachchan went into semi-retirement for five years. With the exception of the delayed release of _Insaniyat_ (1994), which was also a box office failure, Bachchan did not appear in any new releases for five years.[77]
+]] After a three year stint in politics from 1984 to 1987, Bachchan returned to films in 1988, playing the title role in _Shahenshah_, which was a box office success.[74] After the success of his comeback film however, his star power began to wane as all of his subsequent films like _Jaadugar_, _Toofan_ and _Main Azaad Hoon_ (all released in 1989) failed at the box office. Successes during this period like the crime drama _Aaj Ka Arjun_ (1990) and action crime drama _Hum_ (1991), for which he won his third Filmfare Best Actor Award, looked like they might reverse the trend, but this momentum was short-lived and his string of box office failures continued.[75][76] Notably, despite the lack of hits, it was during this era that Bachchan won his first National Film Award for Best Actor for his performance as a Mafia don in the 1990 cult film _Agneepath._ These years would see his last on-screen appearances for some time. After the release of the critically acclaimed epic _Khuda Gawah_ in 1992, Bachchan went into semi-retirement for five years. With the exception of the delayed release of _Insaniyat_ (1994), which was also a box office failure, Bachchan did not appear in any new releases for five years.[77]
 
 Productions and acting comeback (1996–1999)
 
@@ -87,7 +87,7 @@ Bachchan attempted to revive his acting career, and eventually had commercial su
 
 Return to prominence (2000–present)
 
-Bachan_mohanlal.jpg]] In 2000, Amitabh Bachchan appeared in Yash Chopra's box-office hit, _Mohabbatein_, directed by Aditya Chopra. He played a stern, elder figure who rivalled the character of Shahrukh Khan. His role won him his third Filmfare Best Supporting Actor Award. Other hits followed, with Bachchan appearing as an older family patriarch in _Ek Rishtaa: The Bond of Love_ (2001), _Kabhi Khushi Kabhie Gham..._ (2001) and _Baghban_ (2003). As an actor, he continued to perform in a range of characters, receiving critical praise for his performances in _Aks_ (2001), _Aankhen_ (2002), _Kaante_ (2002), _Khakee_ (2004) and _Dev_ (2004). His performance in _Aks_ won him his first Filmfare Critics Award for Best Actor.
+]] In 2000, Amitabh Bachchan appeared in Yash Chopra's box-office hit, _Mohabbatein_, directed by Aditya Chopra. He played a stern, elder figure who rivalled the character of Shahrukh Khan. His role won him his third Filmfare Best Supporting Actor Award. Other hits followed, with Bachchan appearing as an older family patriarch in _Ek Rishtaa: The Bond of Love_ (2001), _Kabhi Khushi Kabhie Gham..._ (2001) and _Baghban_ (2003). As an actor, he continued to perform in a range of characters, receiving critical praise for his performances in _Aks_ (2001), _Aankhen_ (2002), _Kaante_ (2002), _Khakee_ (2004) and _Dev_ (2004). His performance in _Aks_ won him his first Filmfare Critics Award for Best Actor.
 
 One project that did particularly well for Bachchan was Sanjay Leela Bhansali's _Black_ (2005). The film starred Bachchan as an aging teacher of a deaf-blind girl and followed their relationship. His performance was unanimously praised by critics and audiences and won him his second National Film Award for Best Actor, his fourth Filmfare Best Actor Award and his second Filmfare Critics Award for Best Actor. Taking advantage of this resurgence, Amitabh began endorsing a variety of products and services, appearing in many television and billboard advertisements. In 2005 and 2006, he starred with his son Abhishek in the films _Bunty Aur Babli_ (2005), the _Godfather_ tribute _Sarkar_ (2005), and _Kabhi Alvida Naa Kehna_ (2006). All of them were successful at the box office.[85][86] His later releases in 2006 and early 2007 were _Baabul_ (2006),[87] _Ekalavya_ and _Nishabd_ (2007), which failed to do well at the box office but his performances in each of them were praised by critics.[88]
 
@@ -116,7 +116,7 @@ Bachchan has been accused of using the slogan "blood for blood" in the context o
 
 Television appearances
 
-Amitabh_Bachchan_KBC5_Press.jpg In 2000, Bachchan hosted the first season of _Kaun Banega Crorepati_ (_KBC_), the Indian adaptation of the British television game show, _Who Wants to Be a Millionaire?_. The show was well received.[134] A second season followed in 2005 but its run was cut short by STAR Plus when Bachchan fell ill in 2006.[135]
+In 2000, Bachchan hosted the first season of _Kaun Banega Crorepati_ (_KBC_), the Indian adaptation of the British television game show, _Who Wants to Be a Millionaire?_. The show was well received.[134] A second season followed in 2005 but its run was cut short by STAR Plus when Bachchan fell ill in 2006.[135]
 
 In 2009, Bachchan hosted the third season of the reality show _Bigg Boss_.[136]
 
@@ -151,7 +151,7 @@ He also has done voice-over work for the following movies:[147][148][149]
 
 Humanitarian causes
 
-BachchanAmitabh.jpg Bachchan has been involved with many social causes. For example, he donated to clear the debts of nearly 40 beleaguered farmers in Andhra Pradesh[154] and to clear the debts of some 100 Vidarbha farmers.[155] In 2010, he donated to Resul Pookutty's foundation for a medical centre at Kochi,[156][157][158] and he has given () to the family of Delhi policeman Subhash Chand Tomar who died after succumbing to injuries during a protest against gang-rape after the 2012 Delhi gang rape case.[159] He founded the Harivansh Rai Bachchan Memorial Trust, named after his father, in 2013. This trust, in association with Urja Foundation, will be powering 3,000 homes in India with electricity through solar energy.[160][161]
+Bachchan has been involved with many social causes. For example, he donated to clear the debts of nearly 40 beleaguered farmers in Andhra Pradesh[154] and to clear the debts of some 100 Vidarbha farmers.[155] In 2010, he donated to Resul Pookutty's foundation for a medical centre at Kochi,[156][157][158] and he has given () to the family of Delhi policeman Subhash Chand Tomar who died after succumbing to injuries during a protest against gang-rape after the 2012 Delhi gang rape case.[159] He founded the Harivansh Rai Bachchan Memorial Trust, named after his father, in 2013. This trust, in association with Urja Foundation, will be powering 3,000 homes in India with electricity through solar energy.[160][161]
 
 Bachchan was made a UNICEF goodwill ambassador for the polio Eradication Campaign in India in 2002.[162] In 2013, he and his family donated () to a charitable trust, Plan India, that works for the betterment of young girls in India.[163] He also donated () to the Maharashtra Police Welfare Fund in 2013.[164]
 
@@ -166,7 +166,7 @@ Amitabh Bachchan has invested in many upcoming business ventures. In 2013, he bo
 
 Awards and honours
 
-Amitabh_Bachchan_with_Olympic_torch.jpg in London on 27 July 2012]]
+ in London on 27 July 2012]]
 
 Apart from National Film Awards, Filmfare Awards and other competitive awards which Bachchan won for his performances throughout the years, he has been awarded several honours for his achievements in the Indian film industry. In 1991, he became the first artist to receive the Filmfare Lifetime Achievement Award, which was established in the name of Raj Kapoor. Bachchan was crowned as Superstar of the Millennium in 2000 at the Filmfare Awards.
 

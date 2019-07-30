@@ -1,4 +1,4 @@
-Ettore_Bugatti_in_1932.jpg AUTOMOBILES ETTORE BUGATTI was a French car manufacturer of high-performance automobiles, founded in 1909 in the then-German city of Molsheim, Alsace by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories. Famous Bugattis include the Type 35 Grand Prix cars, the Type 41 "Royale", the Type 57 "Atlantic" and the Type 55 sports car.
+AUTOMOBILES ETTORE BUGATTI was a French car manufacturer of high-performance automobiles, founded in 1909 in the then-German city of Molsheim, Alsace by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories. Famous Bugattis include the Type 35 Grand Prix cars, the Type 41 "Royale", the Type 57 "Atlantic" and the Type 55 sports car.
 
 The death of Ettore Bugatti in 1947 proved to be the end for the marque, and the death of his son Jean Bugatti in 1939 ensured there was not a successor to lead the factory. No more than about 8,000 cars were made. The company struggled financially, and released one last model in the 1950s, before eventually being purchased for its airplane parts business in 1963. In the 1990s, an Italian entrepreneur revived it as a builder of limited production exclusive sports cars. Today, the name is owned by the Volkswagen Group.
 
@@ -9,21 +9,21 @@ Founder Ettore Bugatti was born in Milan, Italy, and the automobile company that
 
 World War I and its aftermath
 
-Bugatti_Typ_13_Brescia_Sport-Racing_1922.jpg During the war Ettore Bugatti was sent away, initially to Milan and later to Paris, but as soon as hostilities had been concluded he returned to his factory at Molsheim.[1] Less than four months after the Versailles Treaty formalised the transfer of Alsace from Germany to France, Bugatti was able to obtain, at the last minute, a stand at the 15th Paris motor show in October 1919.[2] He exhibited three light cars, all of them closely based on their pre-war equivalents, and each fitted with the same overhead camshaft 4-cylinder 1,368cc engine with four valves per cylinder.[3] Smallest of the three was a "Type 13" with a racing body (constructed by Bugatti themselves) and using a chassis with a wheelbase.[4] The others were a "Type 22" and a "Type 23" with wheelbases of respectively.[5]
+During the war Ettore Bugatti was sent away, initially to Milan and later to Paris, but as soon as hostilities had been concluded he returned to his factory at Molsheim.[1] Less than four months after the Versailles Treaty formalised the transfer of Alsace from Germany to France, Bugatti was able to obtain, at the last minute, a stand at the 15th Paris motor show in October 1919.[2] He exhibited three light cars, all of them closely based on their pre-war equivalents, and each fitted with the same overhead camshaft 4-cylinder 1,368cc engine with four valves per cylinder.[3] Smallest of the three was a "Type 13" with a racing body (constructed by Bugatti themselves) and using a chassis with a wheelbase.[4] The others were a "Type 22" and a "Type 23" with wheelbases of respectively.[5]
 
 Racing successes
 
-Bugatti_Type_35.jpg The company also enjoyed great success in early Grand Prix motor racing: in 1929 a privately entered Bugatti won the first ever Monaco Grand Prix. Racing success culminated with driver Jean-Pierre Wimille winning the 24 hours of Le Mans twice (in 1937 with Robert Benoist and 1939 with Pierre Veyron).
+The company also enjoyed great success in early Grand Prix motor racing: in 1929 a privately entered Bugatti won the first ever Monaco Grand Prix. Racing success culminated with driver Jean-Pierre Wimille winning the 24 hours of Le Mans twice (in 1937 with Robert Benoist and 1939 with Pierre Veyron).
 
 Bugatti cars were extremely successful in racing. The little Bugatti Type 10 swept the top four positions at its first race. The 1924 Bugatti Type 35 is one of the most successful racing cars. The Type 35 was developed by Bugatti with master engineer and racing driver Jean Chassagne who also drove it in the car’s first ever Grand Prix in 1924 Lyon.[6] Bugattis swept to victory in the Targa Florio for five years straight from 1925 through 1929. Louis Chiron held the most podiums in Bugatti cars, and the modern marque revival Bugatti Automobiles S.A.S. named the 1999 Bugatti 18/3 Chiron concept car in his honour. But it was the final racing success at Le Mans that is most remembered—Jean-Pierre Wimille and Pierre Veyron won the 1939 race with just one car and meagre resources.
 
 Aeroplane racing
 
-Bugatti_100_Racing_Plane_@_Oshkosh_(2234509290)_(2).jpg In the 1930s, Ettore Bugatti got involved in the creation of a racer airplane, hoping to beat the Germans in the Deutsch de la Meurthe prize. This would be the Bugatti 100P,[7][8] which never flew. It was designed by Belgian engineer Louis de Monge who had already applied Bugatti Brescia engines in his "Type 7.5" lifting body.
+In the 1930s, Ettore Bugatti got involved in the creation of a racer airplane, hoping to beat the Germans in the Deutsch de la Meurthe prize. This would be the Bugatti 100P,[7][8] which never flew. It was designed by Belgian engineer Louis de Monge who had already applied Bugatti Brescia engines in his "Type 7.5" lifting body.
 
 Railcar
 
-Hugh_llewelyn_ZZy_24408_(5729560683).jpg Ettore Bugatti also designed a successful motorised railcar, the _Autorail Bugatti_ (Autorail Bugatti).[9]
+Ettore Bugatti also designed a successful motorised railcar, the _Autorail Bugatti_ (Autorail Bugatti).[9]
 
 Family tragedy
 
@@ -32,7 +32,7 @@ The death of Ettore Bugatti's son, Jean Bugatti, on 11 August 1939 marked a turn
 
 After World War II
 
-Bugatti_Coach_Type_73A_(1947)_pic1.JPG World War II left the Molsheim factory in ruins and the company lost control of the property. During the war, Bugatti planned a new factory at Levallois, a northwestern suburb of Paris. After the war, Bugatti designed and planned to build a series of new cars, including the Type 73 road car and Type 73C single seat racing car, but in all Bugatti built only five Type 73 cars.
+World War II left the Molsheim factory in ruins and the company lost control of the property. During the war, Bugatti planned a new factory at Levallois, a northwestern suburb of Paris. After the war, Bugatti designed and planned to build a series of new cars, including the Type 73 road car and Type 73C single seat racing car, but in all Bugatti built only five Type 73 cars.
 
 Development of a 375 cc supercharged car was stopped when Ettore Bugatti died on 21 August 1947. Following Ettore Bugatti's death, the business declined further and made its last appearance as a business in its own right at a Paris Motor Show in October 1952.[10]
 
@@ -41,7 +41,7 @@ After a long decline, the original incarnation of Bugatti ceased operations in 1
 
 Design
 
-Fondation_Bugatti-Molsheim-Moteur_Type_49_(2).jpg Bugattis are noticeably focused on design. Engine blocks were hand scraped to ensure that the surfaces were so flat that gaskets were not required for sealing, many of the exposed surfaces of the engine compartment featured _guilloché_ (engine turned) finishes on them, and safety wires had been threaded through almost every fastener in intricately laced patterns. Rather than bolt the springs to the axles as most manufacturers did, Bugatti's axles were forged such that the spring passed through a carefully sized opening in the axle, a much more elegant solution requiring fewer parts. He famously described his arch competitor Bentley's cars as "the world's fastest lorries" for focusing on durability. According to Bugatti, "weight was the enemy".
+Bugattis are noticeably focused on design. Engine blocks were hand scraped to ensure that the surfaces were so flat that gaskets were not required for sealing, many of the exposed surfaces of the engine compartment featured _guilloché_ (engine turned) finishes on them, and safety wires had been threaded through almost every fastener in intricately laced patterns. Rather than bolt the springs to the axles as most manufacturers did, Bugatti's axles were forged such that the spring passed through a carefully sized opening in the axle, a much more elegant solution requiring fewer parts. He famously described his arch competitor Bentley's cars as "the world's fastest lorries" for focusing on durability. According to Bugatti, "weight was the enemy".
 
 Important models built
 
@@ -86,7 +86,7 @@ Modern revivals
 
 Bugatti Automobili S.p.A. (1987–1995)
 
-BUGATTI_AUTOMOBILI.jpg 2007-06-15_18_Bugatti_EB_110_(bearb_-_kl).jpg (1996)]] Italian entrepreneur Romano Artioli acquired the Bugatti brand in 1987, and established BUGATTI AUTOMOBILI S.P.A.. Artioli commissioned architect Giampaolo Benedini to design the factory which was built in Campogalliano, Modena, Italy. Construction of the plant began in 1988, alongside the development of the first model, and it was inaugurated two years later—in 1990.
+(1996)]] Italian entrepreneur Romano Artioli acquired the Bugatti brand in 1987, and established BUGATTI AUTOMOBILI S.P.A.. Artioli commissioned architect Giampaolo Benedini to design the factory which was built in Campogalliano, Modena, Italy. Construction of the plant began in 1988, alongside the development of the first model, and it was inaugurated two years later—in 1990.
 
 By 1989, the plans for the new Bugatti revival were presented by Paolo Stanzani and Marcello Gandini, designers of the Lamborghini Miura and Lamborghini Countach. The first production vehicle was the Bugatti EB110 GT. It used a carbon-fibre-reinforced polymer chassis, a 3.5-litre, 5-valve per cylinder, quad-turbocharged 60° V12 engine, a six-speed gearbox, and four-wheel drive.
 
@@ -106,7 +106,7 @@ Bugatti Automobiles S.A.S. (1998–present)
 
 Pre-Veyron
 
-Bugatti_veyron_in_Tokyo.jpg]] Volkswagen Group acquired the Bugatti brand in 1998. Bugatti Automobiles S.A.S. commissioned Giorgetto Giugiaro of ItalDesign to produce Bugatti Automobiles's first concept vehicle, the EB118, a coupé that debuted at the 1998 Paris Auto Show. The EB118 concept featured a , W-18 engine. After its Paris debut, the EB118 concept was shown again in 1999 at the Geneva Auto Show and the Tokyo Motor Show. Bugatti introduced its next concepts, the EB 218 at the 1999 Geneva Motor Show and the 18/3 Chiron at the 1999 Frankfurt Motor Show (IAA).
+]] Volkswagen Group acquired the Bugatti brand in 1998. Bugatti Automobiles S.A.S. commissioned Giorgetto Giugiaro of ItalDesign to produce Bugatti Automobiles's first concept vehicle, the EB118, a coupé that debuted at the 1998 Paris Auto Show. The EB118 concept featured a , W-18 engine. After its Paris debut, the EB118 concept was shown again in 1999 at the Geneva Auto Show and the Tokyo Motor Show. Bugatti introduced its next concepts, the EB 218 at the 1999 Geneva Motor Show and the 18/3 Chiron at the 1999 Frankfurt Motor Show (IAA).
 
 Veyron era (2005–2015)
 
@@ -114,7 +114,7 @@ Bugatti Automobiles S.A.S. began assembling its first regular-production vehicle
 
 Chiron era (2016–present)
 
-Bugatti_Chiron_Sky_View,_Paris_Motor_Show_2018,_IMG_0301.jpg]] The Bugatti Chiron is a mid-engined, two-seated sports car, designed by Achim Anscheidt[18], developed as the successor to the Bugatti Veyron.[19] The Chiron was first revealed at the Geneva Motor Show on March 1, 2016.[20][21]
+]] The Bugatti Chiron is a mid-engined, two-seated sports car, designed by Achim Anscheidt[18], developed as the successor to the Bugatti Veyron.[19] The Chiron was first revealed at the Geneva Motor Show on March 1, 2016.[20][21]
 
 
 See also

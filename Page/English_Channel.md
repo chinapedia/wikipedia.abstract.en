@@ -7,7 +7,7 @@ Name
 
 upright=2
 
-Osborne-iow-3Ja10-10876.jpg, the summer retreat of Queen Victoria on the Isle of Wight. Starting from the late 18th century, settlements on and around the English Channel coastline in England grew rapidly into thriving seaside resorts, bolstered by their association with royalty and the middle and upper classes.]] Until the 18th century, the English Channel had no fixed name either in English or in French. It was never defined as a political border, and the names were more or less descriptive. It was not considered as the property of a nation. Before the development of the modern nations, British scholars very often referred to it as "Gaulish" (_Gallicum_ in Latin) and French scholars as "British" or "English".[4] The name "English Channel" has been widely used since the early 18th century, possibly originating from the designation in Dutch sea maps from the 16th century onwards. In modern Dutch, however, it is known as (with no reference to the word "English").[5] Later, it has also been known as the "British Channel"[6] or the "British Sea". It was called by the 2nd-century geographer Ptolemy. The same name is used on an Italian map of about 1450, which gives the alternative name of —possibly the first recorded use of the "Channel" designation.[7] The Anglo-Saxon texts often call it _Sūð-sǣ_ ("South Sea") as opposed to _Norð-sǣ_ ("North Sea" = Bristol Channel). The common word _channel_ was first recorded in Middle English in the 13th century and was borrowed from Old French _chanel_, variant form of _chenel_ "canal".
+, the summer retreat of Queen Victoria on the Isle of Wight. Starting from the late 18th century, settlements on and around the English Channel coastline in England grew rapidly into thriving seaside resorts, bolstered by their association with royalty and the middle and upper classes.]] Until the 18th century, the English Channel had no fixed name either in English or in French. It was never defined as a political border, and the names were more or less descriptive. It was not considered as the property of a nation. Before the development of the modern nations, British scholars very often referred to it as "Gaulish" (_Gallicum_ in Latin) and French scholars as "British" or "English".[4] The name "English Channel" has been widely used since the early 18th century, possibly originating from the designation in Dutch sea maps from the 16th century onwards. In modern Dutch, however, it is known as (with no reference to the word "English").[5] Later, it has also been known as the "British Channel"[6] or the "British Sea". It was called by the 2nd-century geographer Ptolemy. The same name is used on an Italian map of about 1450, which gives the alternative name of —possibly the first recorded use of the "Channel" designation.[7] The Anglo-Saxon texts often call it _Sūð-sǣ_ ("South Sea") as opposed to _Norð-sǣ_ ("North Sea" = Bristol Channel). The common word _channel_ was first recorded in Middle English in the 13th century and was borrowed from Old French _chanel_, variant form of _chenel_ "canal".
 
 The French name has been in use since at least the 17th century.[8] The name is usually said to refer to the Channel's sleeve () shape. Folk etymology has derived it from a Celtic word meaning _channel_ that is also the source of the name for the Minch in Scotland,[9] but this name is not attested before the 17th century, and French and British sources of that time are perfectly clear about its etymology.[10] The name in Breton (_Mor Breizh_) means "Breton Sea", and its Cornish name (_Mor Bretannek_) means "British Sea".
 
@@ -16,15 +16,13 @@ Nature
 
 Geography
 
-English_Channel.jpg
-
 The International Hydrographic Organization defines the limits of the English Channel as follows:[11]
 
 The IHO defines the southwestern limit of the North Sea as "a line joining the Walde Lighthouse (France, 1°55'E) and Leathercoat Point (England, 51°10'N)".[12] The Walde Lighthouse is 6 km east of Calais (), and Leathercoat Point is at the north end of St Margaret's Bay, Kent ().
 
-FranceGrisNez2Dover.jpg on the English coast are visible from France on a clear day.]] The Strait of Dover (French: _Pas de Calais_), at the Channel's eastern end, is its narrowest point, while its widest point lies between Lyme Bay and the Gulf of Saint Malo, near its midpoint.[13] It is relatively shallow, with an average depth of about at its widest part, reducing to a depth of about between Dover and Calais. Eastwards from there the adjoining North Sea reduces to about in the Broad Fourteens where it lies over the watershed of the former land bridge between East Anglia and the Low Countries. It reaches a maximum depth of in the submerged valley of Hurd's Deep, west-northwest of Guernsey.[14] The eastern region along the French coast between Cherbourg and the mouth of the Seine river at Le Havre is frequently referred to as the _Bay of the Seine_ ().[15]
+on the English coast are visible from France on a clear day.]] The Strait of Dover (French: _Pas de Calais_), at the Channel's eastern end, is its narrowest point, while its widest point lies between Lyme Bay and the Gulf of Saint Malo, near its midpoint.[13] It is relatively shallow, with an average depth of about at its widest part, reducing to a depth of about between Dover and Calais. Eastwards from there the adjoining North Sea reduces to about in the Broad Fourteens where it lies over the watershed of the former land bridge between East Anglia and the Low Countries. It reaches a maximum depth of in the submerged valley of Hurd's Deep, west-northwest of Guernsey.[14] The eastern region along the French coast between Cherbourg and the mouth of the Seine river at Le Havre is frequently referred to as the _Bay of the Seine_ ().[15]
 
-Three_French_river_mouths.JPG, the Authie and the Canche]] There are several major islands in the Channel, the most notable being the Isle of Wight off the English coast, and the Channel Islands, British Crown dependencies off the coast of France. The coastline, particularly on the French shore, is deeply indented; several small islands close to the coastline, including Chausey and Mont Saint-Michel, are within French jurisdiction. The Cotentin Peninsula in France juts out into the Channel, whilst on the English side there is a small parallel strait known as the Solent between the Isle of Wight and the mainland. The Celtic Sea is to the west of the Channel.
+, the Authie and the Canche]] There are several major islands in the Channel, the most notable being the Isle of Wight off the English coast, and the Channel Islands, British Crown dependencies off the coast of France. The coastline, particularly on the French shore, is deeply indented; several small islands close to the coastline, including Chausey and Mont Saint-Michel, are within French jurisdiction. The Cotentin Peninsula in France juts out into the Channel, whilst on the English side there is a small parallel strait known as the Solent between the Isle of Wight and the mainland. The Celtic Sea is to the west of the Channel.
 
 The Channel acts as a funnel that amplifies the tidal range from less than a metre as observed at sea to more than 6 metres as observed in the Channel Islands, the west coast of the Cotentin Peninsula and the north coast of Brittany. The time difference of about six hours between high water at the eastern and western limits of the Channel is indicative of the tidal range being amplified further by resonance.[16]
 
@@ -37,7 +35,7 @@ In the UK Shipping Forecast the Channel is divided into the following areas, fro
 
 Geological origins
 
-Weichsel-Würm-Glaciation.png ca. 20,000 years ago]] The Channel is of geologically recent origin, having been dry land for most of the Pleistocene period.[17] Before the Devensian glaciation (the most recent glacial period, which ended around 10,000 years ago), Britain and Ireland were part of continental Europe, linked by an unbroken Weald–Artois anticline, a ridge that acted as a natural dam holding back a large freshwater pro-glacial lake in the Doggerland region, now submerged under the North Sea. During this period the North Sea and almost all of the British Isles were covered by ice. The lake was fed by meltwater from the Baltic and from the Caledonian and Scandinavian ice sheets that joined to the north, blocking its exit. The sea level was about lower than it is today. Then, between 450,000 and 180,000 years ago, at least two catastrophic glacial lake outburst floods breached the Weald–Artois anticline.
+ca. 20,000 years ago]] The Channel is of geologically recent origin, having been dry land for most of the Pleistocene period.[17] Before the Devensian glaciation (the most recent glacial period, which ended around 10,000 years ago), Britain and Ireland were part of continental Europe, linked by an unbroken Weald–Artois anticline, a ridge that acted as a natural dam holding back a large freshwater pro-glacial lake in the Doggerland region, now submerged under the North Sea. During this period the North Sea and almost all of the British Isles were covered by ice. The lake was fed by meltwater from the Baltic and from the Caledonian and Scandinavian ice sheets that joined to the north, blocking its exit. The sea level was about lower than it is today. Then, between 450,000 and 180,000 years ago, at least two catastrophic glacial lake outburst floods breached the Weald–Artois anticline.
 
 The first flood would have lasted for several months, releasing as much as one million cubic metres of water per second.[18][19] The flood started with large but localized waterfalls over the ridge, which excavated depressions now known as the _Fosses Dangeard_. The flow eroded the retaining ridge, causing the rock dam to fail and releasing lake water into the Atlantic. After multiple episodes of changing sea level, during which the _Fosses Dangeard_ were largely infilled by various layers of sediment, another catastrophic flood carved a large bedrock-floored valley, the Lobourg Channel, some 500 m wide and 25 m deep, from the southern North Sea basin through the centre of the Straits of Dover and into the English Channel. It left streamlined islands, longitudinal erosional grooves, and other features characteristic of catastrophic megaflood events, still present on the sea floor and now revealed by high-resolution sonar.[20][21][22] Through the scoured channel passed a river, which drained the combined Rhine and Thames westwards to the Atlantic.
 
@@ -58,7 +56,7 @@ In February 1684, ice formed on the sea in a belt wide off the coast of Kent and
 
 Route to Britain
 
-North_sea_languages_900.png, the orange area Old East Norse, and the green area the other Germanic languages with which Old Norse still retained some mutual intelligibility.]]
+, the orange area Old East Norse, and the green area the other Germanic languages with which Old Norse still retained some mutual intelligibility.]]
 
 Remnants of a mesolithic boatyard have been found on the Isle of Wight. Wheat was traded across the Channel about 8,000 years ago.[31][32] "... Sophisticated social networks linked the Neolithic front in southern Europe to the Mesolithic peoples of northern Europe." The Ferriby Boats, Hanson Log Boats and the later Dover Bronze Age Boat could carry a substantial cross-Channel cargo.[33]
 
@@ -68,7 +66,7 @@ In the power vacuum left by the retreating Romans, the Germanic Angles, Saxons, 
 
 Norsemen and Normans
 
-Hermitage_St_Helier_Jersey.jpg lies in the bay off Saint Helier and is accessible on foot at low tide.]]
+lies in the bay off Saint Helier and is accessible on foot at low tide.]]
 
 The attack on Lindisfarne in 793 is generally considered the beginning of the Viking Age. For the next 250 years the Scandinavian raiders of Norway, Sweden, and Denmark dominated the North Sea, raiding monasteries, homes, and towns along the coast and along the rivers that ran inland. According to the _Anglo-Saxon Chronicle_ they began to settle in Britain in 851. They continued to settle in the British Isles and the continent until around 1050.[36]
 
@@ -76,7 +74,7 @@ The fiefdom of Normandy was created for the Viking leader Rollo (also known as R
 
 The descendants of Rollo and his followers adopted the local Gallo-Romance language and intermarried with the area's inhabitants and became the Normans – a Norman French-speaking mixture of Scandinavians, Hiberno-Norse, Orcadians, Anglo-Danish, and indigenous Franks and Gauls.
 
-Landing in England scene from the Bayeux Tapestry, depicting ships coming in and horses landing|thumb Rollo's descendant William, Duke of Normandy became king of England in 1066 in the Norman Conquest beginning with the Battle of Hastings, while retaining the fiefdom of Normandy for himself and his descendants. In 1204, during the reign of King John, mainland Normandy was taken from England by France under Philip II, while insular Normandy (the Channel Islands) remained under English control. In 1259, Henry III of England recognised the legality of French possession of mainland Normandy under the Treaty of Paris. His successors, however, often fought to regain control of mainland Normandy.
+Rollo's descendant William, Duke of Normandy became king of England in 1066 in the Norman Conquest beginning with the Battle of Hastings, while retaining the fiefdom of Normandy for himself and his descendants. In 1204, during the reign of King John, mainland Normandy was taken from England by France under Philip II, while insular Normandy (the Channel Islands) remained under English control. In 1259, Henry III of England recognised the legality of French possession of mainland Normandy under the Treaty of Paris. His successors, however, often fought to regain control of mainland Normandy.
 
 With the rise of William the Conqueror the North Sea and Channel began to lose some of their importance. The new order oriented most of England and Scandinavia's trade south, toward the Mediterranean and the Orient.
 
@@ -86,7 +84,7 @@ French Normandy was occupied by English forces during the Hundred Years' War in 
 
 England and Britain: Naval superpower
 
-Elizabeth_I_Watching_Defeat_of_Spanish_Armada_by_an_unknown_artist,_16th_century.jpg off the English coast in 1588]] La_bataille_des_Cadinaux_en_novembre_1759.jpg which ended the French invasion plans in 1759]] From the reign of Elizabeth I, English foreign policy concentrated on preventing invasion across the Channel by ensuring no major European power controlled the potential Dutch and Flemish invasion ports. Her climb to the pre-eminent sea power of the world began in 1588 as the attempted invasion of the Spanish Armada was defeated by the combination of outstanding naval tactics by the English and the Dutch under command of Charles Howard, 1st Earl of Nottingham with Sir Francis Drake second in command, and the following stormy weather. Over the centuries the Royal Navy slowly grew to be the most powerful in the world.[37]
+off the English coast in 1588]] which ended the French invasion plans in 1759]] From the reign of Elizabeth I, English foreign policy concentrated on preventing invasion across the Channel by ensuring no major European power controlled the potential Dutch and Flemish invasion ports. Her climb to the pre-eminent sea power of the world began in 1588 as the attempted invasion of the Spanish Armada was defeated by the combination of outstanding naval tactics by the English and the Dutch under command of Charles Howard, 1st Earl of Nottingham with Sir Francis Drake second in command, and the following stormy weather. Over the centuries the Royal Navy slowly grew to be the most powerful in the world.[37]
 
 The building of the British Empire was possible only because the Royal Navy eventually managed to exercise unquestioned control over the seas around Europe, especially the Channel and the North Sea. During the Seven Years' War, France attempted to launch an invasion of Britain. To achieve this France needed to gain control of the Channel for several weeks, but was thwarted following the British naval victory at the Battle of Quiberon Bay in 1759.
 
@@ -108,7 +106,7 @@ The naval blockade in the Channel and North Sea was one of the decisive factors 
 
 Second World War
 
-UK_Radar1940.JPG 1940]]
+1940]]
 
 During the Second World War, naval activity in the European theatre was primarily limited to the Atlantic. During the Battle of France in May 1940, the German forces succeeded in capturing both Boulogne and Calais, thereby threatening the line of retreat for the British Expeditionary Force. By a combination of hard fighting and German indecision, the port of Dunkirk was kept open allowing 338,000 Allied troops to be evacuated in Operation Dynamo. More than 11,000 were evacuated from Le Havre during Operation Cycle[44] and a further 192,000 were evacuated from ports further down the coast in Operation Ariel in June 1940.[45] The early stages of the Battle of Britain[46] featured German air attacks on Channel shipping and ports; despite these early successes against shipping the Germans did not win the air supremacy necessary for Operation Sealion, the projected cross-Channel invasion.
 
@@ -116,7 +114,7 @@ The Channel subsequently became the stage for an intensive coastal war, featurin
 
 The narrow waters of the Channel were considered too dangerous for major warships until the Normandy Landings with the exception, for the German Kriegsmarine, of the Channel Dash (Operation Cerberus) in February 1942, and this required the support of the Luftwaffe in Operation Thunderbolt.
 
-NormandyCourcelles2JM.jpg German_World_War_II_tower_Jersey.jpg, between 1940 and 1945 the occupying German forces and the Organisation Todt constructed fortifications round the coasts of the Channel Islands, such as this observation tower at Les Landes, Jersey.]] Dieppe was the site of an ill-fated Dieppe Raid by Canadian and British armed forces. More successful was the later Operation Overlord (D-Day), a massive invasion of German-occupied France by Allied troops. Caen, Cherbourg, Carentan, Falaise and other Norman towns endured many casualties in the fight for the province, which continued until the closing of the so-called Falaise gap between Chambois and Montormel, then liberation of Le Havre.
+, between 1940 and 1945 the occupying German forces and the Organisation Todt constructed fortifications round the coasts of the Channel Islands, such as this observation tower at Les Landes, Jersey.]] Dieppe was the site of an ill-fated Dieppe Raid by Canadian and British armed forces. More successful was the later Operation Overlord (D-Day), a massive invasion of German-occupied France by Allied troops. Caen, Cherbourg, Carentan, Falaise and other Norman towns endured many casualties in the fight for the province, which continued until the closing of the so-called Falaise gap between Chambois and Montormel, then liberation of Le Havre.
 
 The Channel Islands were the only part of the British Commonwealth occupied by Germany (excepting the part of Egypt occupied by the Afrika Korps at the time of the Second Battle of El Alamein, which was a protectorate and not part of the Commonwealth). The German occupation of 1940–1945 was harsh, with some island residents being taken for slave labour on the Continent; native Jews sent to concentration camps; partisan resistance and retribution; accusations of collaboration; and slave labour (primarily Russians and eastern Europeans) being brought to the islands to build fortifications.[48][49] The Royal Navy blockaded the islands from time to time, particularly following the liberation of mainland Normandy in 1944. Intense negotiations resulted in some Red Cross humanitarian aid, but there was considerable hunger and privation during the occupation, particularly in the final months, when the population was close to starvation. The German troops on the islands surrendered on 9 May 1945, a day after the final surrender in mainland Europe.
 
@@ -127,7 +125,7 @@ The English Channel coast is far more densely populated on the English shore. Th
 
 England
 
-Spinnaker_Tower_-_geograph.org.uk_-_1255913.jpg, Portsmouth Harbour]]
+, Portsmouth Harbour]]
 
 -   Brighton–Worthing–Littlehampton: 461,181 inhabitants, made up of:
     -   Brighton: 155,919
@@ -159,7 +157,7 @@ Spinnaker_Tower_-_geograph.org.uk_-_1255913.jpg, Portsmouth Harbour]]
 
 France
 
-Saintmalo.jpg was a former stronghold of corsairs.]]
+was a former stronghold of corsairs.]]
 
 -   Le Havre: 248,547 inhabitants
 -   Calais: 104,852
@@ -186,7 +184,7 @@ Channel Islands
 
 Culture and languages
 
-Norman_dictionary_1779_Kelham.jpg, a language historically used in English law courts]]
+, a language historically used in English law courts]]
 
 The two dominant cultures are English on the north shore of the Channel, French on the south. However, there are also a number of minority languages that are or were found on the shores and islands of the English Channel, which are listed here, with the Channel's name following them.
 
@@ -223,7 +221,7 @@ Economy
 
 Shipping through
 
-AIS_Manche_Est.png display showing traffic in the Channel in 2006]]
+display showing traffic in the Channel in 2006]]
 
 The Channel has traffic on both the UK-Europe and North Sea-Atlantic routes, and is the world's busiest seaway, with over 500 ships per day.[51] Following an accident in January 1971 and a series of disastrous collisions with wreckage in February,[52] the Dover TSS[53] the world's first radar-controlled Traffic Separation Scheme was set up by the International Maritime Organization. The scheme mandates that vessels travelling north must use the French side, travelling south the English side. There is a separation zone between the two lanes.[54]
 
@@ -236,8 +234,6 @@ Marine GPS systems allow ships to be preprogrammed to follow navigational channe
 A combination of radar difficulties in monitoring areas near cliffs, a failure of a CCTV system, incorrect operation of the anchor, the inability of the crew to follow standard procedures of using a GPS to provide early warning of the ship dragging the anchor and reluctance to admit the mistake and start the engine led to the MV _Willy_ running aground in Cawsand bay, Cornwall in January 2002. The MAIB report makes it clear that the harbour controllers were informed of impending disaster by shore observers before the crew were themselves aware.[57] The village of Kingsand was evacuated for three days because of the risk of explosion, and the ship was stranded for 11 days.[58][59][60]
 
 Ferry
-
-Baie-du-Havre_14_07_2005.jpg
 
 The number of ferry routes crossing the Strait of Dover has reduced since the Channel Tunnel opened. Current cross-channel ferry routes are:
 
@@ -262,7 +258,7 @@ Many travellers cross beneath the Channel using the Channel Tunnel, first propos
 
 Tourism
 
-Le_Mont_Saint-Michel.jpg is one of the most visited and recognisable landmarks on the English Channel.]]
+is one of the most visited and recognisable landmarks on the English Channel.]]
 
 The coastal resorts of the Channel, such as Brighton and Deauville, inaugurated an era of aristocratic tourism in the early 19th century, which developed into the seaside tourism that has shaped resorts around the world. Short trips across the Channel for leisure purposes are often referred to as Channel Hopping.
 

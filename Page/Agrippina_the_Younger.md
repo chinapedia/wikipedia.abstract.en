@@ -23,14 +23,14 @@ Germanicus' death caused much public grief in Rome, and gave rise to rumors that
 
 Marriage to Gnaeus Domitius Ahenobarbus
 
-Domizio_enobarbo,_padre_di_nerone,_busto_di_restauro,_inv._2222.JPG]] After her thirteenth birthday in 28, Tiberius arranged for Agrippina to marry her paternal first cousin once removed Gnaeus Domitius Ahenobarbus and ordered the marriage to be celebrated in Rome.[6] Domitius came from a distinguished family of consular rank. Through his mother Antonia Major, Domitius was a great nephew of Augustus, first cousin to Claudius, and first cousin once removed to Agrippina and Caligula. He had two sisters; Domitia Lepida the Elder and Domitia Lepida the Younger. Domitia Lepida the Younger was the mother of the Empress Valeria Messalina.
+]] After her thirteenth birthday in 28, Tiberius arranged for Agrippina to marry her paternal first cousin once removed Gnaeus Domitius Ahenobarbus and ordered the marriage to be celebrated in Rome.[6] Domitius came from a distinguished family of consular rank. Through his mother Antonia Major, Domitius was a great nephew of Augustus, first cousin to Claudius, and first cousin once removed to Agrippina and Caligula. He had two sisters; Domitia Lepida the Elder and Domitia Lepida the Younger. Domitia Lepida the Younger was the mother of the Empress Valeria Messalina.
 
 Antonia Major was the elder sister to Antonia Minor, and the first daughter of Octavia Minor and Mark Antony. According to Suetonius, Domitius was a wealthy man with a despicable and dishonest character, who, according to Suetonius, was "a man who was in every aspect of his life detestable" and served as consul in 32. Agrippina and Domitius lived between Antium (modern Anzio and Nettuno[7]) and Rome. Not much is known about the relationship between them.
 
 
 Reign of Caligula
 
-Caligula_sestertius_RIC_33_680999.jpg, coins like the one pictured here were issued depicting his three sisters, Drusilla, Livilla, and Agrippina the Younger]]
+, coins like the one pictured here were issued depicting his three sisters, Drusilla, Livilla, and Agrippina the Younger]]
 
 Tiberius died on March 16, AD 37, and Agrippina's only surviving brother, Caligula, became the new emperor. Being the emperor's sister gave Agrippina some influence.
 
@@ -57,7 +57,7 @@ Reign of Claudius
 
 Return from exile
 
-Messalinaandbritannicus.jpg holding her son Britannicus (Louvre)]] Claudius lifted the exiles of Agrippina and Livilla. Livilla returned to her husband, while Agrippina was reunited with her estranged son. After the death of her first husband, Agrippina tried to make shameless advances to the future emperor Galba, who showed no interest in her and was devoted to his wife Aemilia Lepida. On one occasion, Galba's mother-in-law gave Agrippina a public reprimand and a slap in the face before a whole bevy of married women.[8]
+holding her son Britannicus (Louvre)]] Claudius lifted the exiles of Agrippina and Livilla. Livilla returned to her husband, while Agrippina was reunited with her estranged son. After the death of her first husband, Agrippina tried to make shameless advances to the future emperor Galba, who showed no interest in her and was devoted to his wife Aemilia Lepida. On one occasion, Galba's mother-in-law gave Agrippina a public reprimand and a slap in the face before a whole bevy of married women.[8]
 
 Claudius had Lucius' inheritance reinstated. Lucius became more wealthy despite his youth shortly after Gaius Sallustius Crispus Passienus divorced Lucius' aunt, Domitia Lepida the Elder (Lucius' first paternal aunt) so that Crispus could marry Agrippina. They married, and Crispus became a step-father to Lucius. Crispus was a prominent, influential, witty, wealthy and powerful man, who served twice as consul. He was the adopted grandson and biological great-great-nephew of the historian Sallust. Little is known on their relationship, but Crispus soon died and left his estate to Nero.
 
@@ -101,7 +101,7 @@ Reign of Nero
 
 Power struggle between mother and son
 
-Nerón_y_Agripina.jpg Nero_Palatino_Inv618.jpg. Antiquarium of the Palatine.]] Agrippina was named a priestess of the cult of the deified Claudius. She was allowed to visit senate meetings, watching and hearing the meetings from behind a curtain.
+. Antiquarium of the Palatine.]] Agrippina was named a priestess of the cult of the deified Claudius. She was allowed to visit senate meetings, watching and hearing the meetings from behind a curtain.
 
 In the first months of Nero's reign Agrippina had influence over her son and the Empire. She started losing influence over Nero when he began to have an affair with the freed woman Claudia Acte, which Agrippina strongly disapproved of and violently scolded him for. Agrippina began to support Britannicus in her attempt to make him emperor. Britannicus was secretly poisoned on Nero's orders during his own banquet in February 55. The power struggle between Agrippina and her son had begun.[13]
 

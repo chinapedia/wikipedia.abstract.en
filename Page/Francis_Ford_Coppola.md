@@ -36,7 +36,7 @@ In 1969, Coppola took it upon himself to subvert the studio system which he felt
 
 1970s
 
-Francis_Ford_Coppola_-1976.jpg Coppola epitomized a group of filmmakers known as the "New Hollywood" that emerged in the early 1970s with ideas that challenged conventional film-making. The group included Steven Spielberg, Martin Scorsese, Brian De Palma, Terrence Malick, Robert Altman, Woody Allen, William Friedkin, Philip Kaufman and George Lucas.[47][48]
+Coppola epitomized a group of filmmakers known as the "New Hollywood" that emerged in the early 1970s with ideas that challenged conventional film-making. The group included Steven Spielberg, Martin Scorsese, Brian De Palma, Terrence Malick, Robert Altman, Woody Allen, William Friedkin, Philip Kaufman and George Lucas.[47][48]
 
 _Patton_ (1970)
 
@@ -122,7 +122,7 @@ In 1989, Coppola teamed up with fellow Oscar-winning directors Martin Scorsese a
 
 _The Godfather Part III_ (1990)
 
-Francis_Ford_Coppola_Cannes.jpg]] In 1990, he released the third and final chapter of _The Godfather_ series: _The Godfather Part III_. While not as critically acclaimed as the first two films,[89][90][91] it was still a box office success, earning $136 million against a budget of $54 million.[92] Some reviewers criticized the casting of Coppola's daughter Sofia, who had stepped into the leading role of Mary Corleone which had been abandoned by Winona Ryder just as filming began.[93] Despite this, _The Godfather Part III_ went on to gather 7 Academy Award nominations, including Best Director and Best Picture. The film failed to win any of these awards, the only film in the trilogy not to do so.
+]] In 1990, he released the third and final chapter of _The Godfather_ series: _The Godfather Part III_. While not as critically acclaimed as the first two films,[89][90][91] it was still a box office success, earning $136 million against a budget of $54 million.[92] Some reviewers criticized the casting of Coppola's daughter Sofia, who had stepped into the leading role of Mary Corleone which had been abandoned by Winona Ryder just as filming began.[93] Despite this, _The Godfather Part III_ went on to gather 7 Academy Award nominations, including Best Director and Best Picture. The film failed to win any of these awards, the only film in the trilogy not to do so.
 
 _Bram Stoker's Dracula_ (1992)
 
@@ -150,7 +150,7 @@ During the filming of _Contact_ on December 28, 1996, Coppola filed a lawsuit ag
 
 _Youth Without Youth_ (2007)
 
-Francis_Ford_Coppola(CannesPhotoCall)_crop.jpg.]] After a 10-year hiatus, Coppola returned to directing with _Youth Without Youth_ in 2007, based on the novella of the same name by Romanian author Mircea Eliade. The film was poorly reviewed, currently holding a 30% 'rotten' rating on Rotten Tomatoes.[109] It was made for about $19 million and was given a limited release, only managing $2,624,759 at the box-office.[110] As a result, Coppola announced his plans to produce his own films in order to avoid the marketing input that goes into most films that results in trying to make films appeal to too wide an audience.
+.]] After a 10-year hiatus, Coppola returned to directing with _Youth Without Youth_ in 2007, based on the novella of the same name by Romanian author Mircea Eliade. The film was poorly reviewed, currently holding a 30% 'rotten' rating on Rotten Tomatoes.[109] It was made for about $19 million and was given a limited release, only managing $2,624,759 at the box-office.[110] As a result, Coppola announced his plans to produce his own films in order to avoid the marketing input that goes into most films that results in trying to make films appeal to too wide an audience.
 
 _Tetro_ (2009)
 
@@ -197,7 +197,7 @@ The Francis Ford Coppola Winery near Geyserville, California,[130] located on th
 
 Resorts
 
-Palazzo_Coppola.JPG, owned by Coppola]] Included in the Francis Ford Coppola Presents lifestyle brand are several hotels and resorts around the world. The Blancaneaux Lodge in Belize, which from the early 1980s was a family retreat until it was opened to the public in 1993 as a 20-room luxury resort[133] and The Turtle Inn, in Placencia, Belize,[134] (both of which have won several prestigious awards including "Travel + Leisure's World's Best: Best Resort in Central & South America"); La Lancha in Lago Petén Itzá, Guatemala;[135] Jardin Escondido in Buenos Aires, Argentina[136] and Palazzo Margherita in Bernalda, Italy.[137]
+, owned by Coppola]] Included in the Francis Ford Coppola Presents lifestyle brand are several hotels and resorts around the world. The Blancaneaux Lodge in Belize, which from the early 1980s was a family retreat until it was opened to the public in 1993 as a 20-room luxury resort[133] and The Turtle Inn, in Placencia, Belize,[134] (both of which have won several prestigious awards including "Travel + Leisure's World's Best: Best Resort in Central & South America"); La Lancha in Lago Petén Itzá, Guatemala;[135] Jardin Escondido in Buenos Aires, Argentina[136] and Palazzo Margherita in Bernalda, Italy.[137]
 
 Cafe and restaurant
 

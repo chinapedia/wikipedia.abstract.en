@@ -114,7 +114,7 @@ The earliest tentative evidence for iron-making is a small number of iron fragme
 
 Similarly, recent archaeological remains of iron working in the Ganges Valley in India have been tentatively dated to 1800 BC. Tewari (2003) concludes that "knowledge of iron smelting and manufacturing of iron artifacts was well known in the Eastern Vindhyas and iron had been in use in the Central Ganga Plain, at least from the early second millennium BC".[10] By the Middle Bronze Age increasing numbers of smelted iron objects (distinguishable from meteoric iron by the lack of nickel in the product) appeared in the Middle East, Southeast Asia and South Asia. African sites are turning up dates as early as 1200 BC.[11][12][13]
 
-Modern archaeological evidence identifies the start of large-scale iron production in around 1200 BC, marking the end of the Bronze Age. Between 1200 BC and 1000 BC diffusion in the understanding of iron metallurgy and use of iron objects was fast and far-flung. Anthony Snodgrass[14][15] suggests that a shortage of tin, as a part of the Bronze Age Collapse and trade disruptions in the Mediterranean around 1300 BC, forced metalworkers to seek an alternative to bronze. As evidence, many bronze implements were recycled into weapons during that time. More widespread use of iron led to improved steel-making technology at lower cost. Thus, even when tin became available again, iron was cheaper, stronger and lighter, and forged iron implements superseded cast bronze tools permanently.[16] Aerial_photograph_of_Maiden_Castle,_1935.jpg, Dorset, England. More than 2,000 Iron Age hillforts are known in Britain.]]
+Modern archaeological evidence identifies the start of large-scale iron production in around 1200 BC, marking the end of the Bronze Age. Between 1200 BC and 1000 BC diffusion in the understanding of iron metallurgy and use of iron objects was fast and far-flung. Anthony Snodgrass[14][15] suggests that a shortage of tin, as a part of the Bronze Age Collapse and trade disruptions in the Mediterranean around 1300 BC, forced metalworkers to seek an alternative to bronze. As evidence, many bronze implements were recycled into weapons during that time. More widespread use of iron led to improved steel-making technology at lower cost. Thus, even when tin became available again, iron was cheaper, stronger and lighter, and forged iron implements superseded cast bronze tools permanently.[16] , Dorset, England. More than 2,000 Iron Age hillforts are known in Britain.]]
 
 
 Ancient Near East
@@ -192,8 +192,6 @@ Iron metal is singularly scarce in collections of Egyptian antiquities. Bronze r
 Europe
 
 In Europe, the Iron Age is the last stage of prehistoric Europe and the first of the protohistoric periods, which initially means descriptions of a particular area by Greek and Roman writers. For much of Europe, the period came to an abrupt local end after conquest by the Romans, though ironworking remained the dominant technology until recent times. Elsewhere it may last until the early centuries AD, and either Christianization or a new conquest in the Migration Period.
-
-Europe-In-700BC.png
 
 Iron working was introduced to Europe in the late 11th century BC,[32] probably from the Caucasus, and slowly spread northwards and westwards over the succeeding 500 years. The Iron Age did not start when iron first appeared in Europe but it began to replace bronze in the preparation of tools and weapons.[33] It did not happen at the same time all around Europe; local cultural developments played a role in the transition to the Iron Age. For example the Iron Age of Prehistoric Ireland begins around 500 BC, when the Greek Iron Age had already ended, and finishes around 400 AD. The widespread use of the technology of iron was implemented in Europe simultaneously with Asia.[34] The prehistoric Iron Age in Central Europe divided into two periods based on historical events – Hallstatt culture (early Iron Age) and La Tene (late Iron Age) cultures.[35] Material cultures of Hallstatt and La Tene consist of 4 phases (A, B, C, D phases).[36][37][38]
 
@@ -275,7 +273,7 @@ In Japan, iron items, such as tools, weapons, and decorative objects, are postul
 
 Distinguishing characteristics of the Yayoi period include the appearance of new pottery styles and the start of intensive rice agriculture in paddy fields. Yayoi culture flourished in a geographic area from southern Kyūshū to northern Honshū. The Kofun and the subsequent Asuka periods are sometimes referred to collectively as the Yamato period; The word _kofun_ is Japanese for the type of burial mounds dating from that era.
 
-Korea-Silla-Iron.armor-01.jpg chest and neck armour from National Museum of Korea]] Iron objects were introduced to the Korean peninsula through trade with chiefdoms and state-level societies in the Yellow Sea area in the 4th century BC, just at the end of the Warring States Period but before the Western Han Dynasty began.[48][49] Yoon proposes that iron was first introduced to chiefdoms located along North Korean river valleys that flow into the Yellow Sea such as the Cheongcheon and Taedong Rivers.[50] Iron production quickly followed in the 2nd century BC, and iron implements came to be used by farmers by the 1st century in southern Korea.[51] The earliest known cast-iron axes in southern Korea are found in the Geum River basin. The time that iron production begins is the same time that complex chiefdoms of Proto-historic Korea emerged. The complex chiefdoms were the precursors of early states such as Silla, Baekje, Goguryeo, and Gaya[52][53] Iron ingots were an important mortuary item and indicated the wealth or prestige of the deceased in this period.[54]
+chest and neck armour from National Museum of Korea]] Iron objects were introduced to the Korean peninsula through trade with chiefdoms and state-level societies in the Yellow Sea area in the 4th century BC, just at the end of the Warring States Period but before the Western Han Dynasty began.[48][49] Yoon proposes that iron was first introduced to chiefdoms located along North Korean river valleys that flow into the Yellow Sea such as the Cheongcheon and Taedong Rivers.[50] Iron production quickly followed in the 2nd century BC, and iron implements came to be used by farmers by the 1st century in southern Korea.[51] The earliest known cast-iron axes in southern Korea are found in the Geum River basin. The time that iron production begins is the same time that complex chiefdoms of Proto-historic Korea emerged. The complex chiefdoms were the precursors of early states such as Silla, Baekje, Goguryeo, and Gaya[52][53] Iron ingots were an important mortuary item and indicated the wealth or prestige of the deceased in this period.[54]
 
 South Asia
 
@@ -329,7 +327,7 @@ The protohistoric Early Iron Age in Sri Lanka lasted from 1000 BC to 600 BC. h
 
 Southeast Asia
 
-Lingling-o.JPG, Philippines]] ImageSize = width:800 height:80 PlotArea = width:720 height:55 left:65 bottom:20 AlignBars = justify
+, Philippines]] ImageSize = width:800 height:80 PlotArea = width:720 height:55 left:65 bottom:20 AlignBars = justify
 
 Colors =
 
@@ -380,7 +378,7 @@ Sub-Saharan Africa
 
 In Sub-Saharan Africa, where there was no continent-wide universal Bronze Age, the use of iron succeeded immediately the use of stone.[76] Metallurgy was characterized by the absence of a Bronze Age, and the transition from "stone to steel" in tool substances. Early evidence for iron technology in Sub-Saharan Africa can be found at sites such as KM2 and KM3 in northwest Tanzania. Nubia was one of the relatively few places in Africa to have a sustained Bronze Age along with Egypt and much of the rest of North Africa.
 
-East&southern_africa_early_iron_age.png Very early copper and bronze working sites in Niger may date to as early as 1500 BC. There is also evidence of iron metallurgy in Termit, Niger from around this period.[77][78] Nubia was a major manufacturer and exporter of iron after the expulsion of the Nubian dynasty from Egypt by the Assyrians in the 7th century BC.[79]
+Very early copper and bronze working sites in Niger may date to as early as 1500 BC. There is also evidence of iron metallurgy in Termit, Niger from around this period.[77][78] Nubia was a major manufacturer and exporter of iron after the expulsion of the Nubian dynasty from Egypt by the Assyrians in the 7th century BC.[79]
 
 Iron and copper working in Sub-Saharan Africa spread in conjunction with the Bantu expansion, from the Cameroon region to the African Great Lakes in the 3rd century BC, reaching the Cape around AD 400.[80] However, iron working may have been practiced in Central Africa as early as the 3rd millennium BC.[81] Instances of carbon steel based on complex preheating principles were found to be in production around the 1st century AD in northwest Tanzania.[82]
 

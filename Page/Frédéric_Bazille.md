@@ -3,7 +3,7 @@ JEAN FRÉDÉRIC BAZILLE (December 6, 1841 – November 28, 1870) was a French Im
 
 Life and work
 
-Frédéric_Bazille_-_Bazille's_Studio_-_Google_Art_Project.jpg,'' 1870, Musée d'Orsay, Paris. Among Bazille's friends portrayed are Pierre Auguste Renoir sitting, and Eduard Manet next to Bazille, who portrays himself painting.[2]]] Frédéric Bazille was born in Montpellier, Hérault, Languedoc-Roussillon, France, into a wealthy Protestant family. He became interested in painting after seeing some works of Eugène Delacroix. His family agreed to let him study painting, but only if he also studied medicine.[3]
+,'' 1870, Musée d'Orsay, Paris. Among Bazille's friends portrayed are Pierre Auguste Renoir sitting, and Eduard Manet next to Bazille, who portrays himself painting.[2]]] Frédéric Bazille was born in Montpellier, Hérault, Languedoc-Roussillon, France, into a wealthy Protestant family. He became interested in painting after seeing some works of Eugène Delacroix. His family agreed to let him study painting, but only if he also studied medicine.[3]
 
 Bazille began studying medicine in 1859, and moved to Paris in 1862 to continue his studies. There he met Pierre-Auguste Renoir and Alfred Sisley, was drawn to Impressionist painting, and began taking classes in Charles Gleyre's studio. After failing his medical exam in 1864, he began painting full-time. His close friends included Claude Monet, Alfred Sisley, and Édouard Manet. Bazille was generous with his wealth, and helped support his less fortunate associates by giving them space in his studio and materials to use.[4]
 
@@ -29,7 +29,7 @@ Main works
 
 Gallery
 
-Pierre-Auguste_Renoir_-_Frédéric_Bazille.jpg, _Frédéric Bazille painting The Heron_]]
+, _Frédéric Bazille painting The Heron_]]
 
 File:Bazille, Frédéric - Self Portrait.jpeg|_Self Portrait,_ unknown date File:Frédéric Bazille - The Pink Dress - Google Art Project.jpg|_The Pink Dress (View of Castelnau-le-Lez, Hérault),_ 1864, oil on canvas, Musée d'Orsay Image:Bazille_Sutdio_in_the_rue_de_Furstenberg.jpg|_Studio in the Rue de Furstenberg,_ 1865, Musée Fabre, oil on canvas, Fogg Art Museum, Cambridge, Massachusetts File:Renoir by Bazille.jpg|_Portrait of Renoir_, 1867, oil on canvas, Musée d'Orsay File:Frédéric Bazille - The Little Gardener - Google Art Project.jpg|_Le Petit Jardinier (The Little Gardener),_ c. 1866-67, oil on canvas Museum of Fine Arts, Houston File:Frédéric Bazille - Nature morte avec du poisson.jpg| _Nature morte avec du poisson_, Still life with fish, c. 1866-67. File:Bazille, Frédéric - Aigues-Mortes.jpeg|_Aigues-Mortes_, 1867 Image:Frédéric Bazille 001.jpg|_The Family Reunion_, c. 1867, Musée d'Orsay File:Bazille-Nature morte au héron.JPG|_Nature morte au héron_, 1867 File:Bazille, Frédéric ~ View of the Village, 1868.jpg|_View of the Village_, 1868, Musée Fabre File:Bazille - Pêcheur à l'épervier.jpg|_Fisherman with a Net_, 1868 File:Bazille, Frederic — Flowers — 1868.jpg| _Flowers_ — 1868 File:Frédéric Bazille - Portrait de Paul Verlaine comme une Troubadour.jpg|_Portrait of Paul Verlaine_, 1868, Dallas Museum of Art Image:Bazille,_Frédéric_~_Summer_Scene,_1869,_Oil_on_canvas_Fogg_Art_Museum,_Cambridge,_Massachusetts.jpg|_Scène d'été,_ 1869, File:Bazille, Frédéric - Portrait of Edmond Maitre.jpeg|_Portrait of _, 1869 Image:Bazille_La_Toilette.jpg|_La Toilette_, 1870, Musée Fabre File:Frédéric Bazille, Young Woman with Peonies, 1870, NGA 61356.jpg|_Young Woman with Peonies_, 1870, National Gallery of Art
 

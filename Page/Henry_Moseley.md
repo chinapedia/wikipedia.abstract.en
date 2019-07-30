@@ -41,7 +41,7 @@ Death and aftermath
 
 Sometime in the first half of 1914, Moseley resigned from his position at Manchester, with plans to return to Oxford and continue his physics research there. However, World War I broke out in August 1914, and Moseley turned down this job offer to instead enlist with the Royal Engineers of the British Army. His family and friends tried to persuade him not to join, but he thought it was his duty.[15] Moseley served as a technical officer in communications during the Battle of Gallipoli, in Turkey, beginning in April 1915, where he was killed in action on 10 August 1915. Moseley was shot in the head by a Turkish sniper while in the act of telephoning a military order.
 
-Clarendon_Laboratory.jpg erected by the Royal Society of Chemistry on the Townsend Building of the Clarendon Laboratory at Oxford in 2007, commemorating Moseley's early 20th-century research work on X-rays emitted by elements.]]
+erected by the Royal Society of Chemistry on the Townsend Building of the Clarendon Laboratory at Oxford in 2007, commemorating Moseley's early 20th-century research work on X-rays emitted by elements.]]
 
 Only twenty-seven years old at the time of his death, Moseley could, in the opinion of some scientists, have contributed much to the knowledge of atomic structure had he survived. Niels Bohr said in 1962 that Rutherford's work "was not taken seriously at all" and that the "great change came from Moseley."[16]
 

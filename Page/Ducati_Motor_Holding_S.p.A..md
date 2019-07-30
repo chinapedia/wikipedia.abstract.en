@@ -3,9 +3,9 @@ DUCATI MOTOR HOLDING S.P.A. is the motorcycle-manufacturing division of Italian 
 
 History
 
-In 1926 Antonio Cavalieri Ducati and his three sons, Adriano, Marcello, and Bruno Cavalieri Ducati founded _Società Scientifica Radio Brevetti Ducati_ in Bologna to produce vacuum tubes, condensers and other radio components. In 1935 they had become successful enough to enable construction of a new factory in the Borgo Panigale area of the city. Production was maintained during World War II, despite the Ducati factory being a repeated target of Allied bombing. Ducati_Werk.JPG Ducati_Vilar_Cucciolo_1950.jpg Meanwhile, at the small Turinese firm SIATA (_Societa Italiana per Applicazioni Tecniche Auto-Aviatorie_), Aldo Farinelli began developing a small pushrod engine for mounting on bicycles. Barely a month after the official liberation of Italy in 1944, SIATA announced its intention to sell this engine, called the "Cucciolo" (Italian for "puppy," in reference to the distinctive exhaust sound) to the public. The first Cucciolos were available alone, to be mounted on standard bicycles, by the buyer; however, businessmen soon bought the little engines in quantity, and offered complete motorized-bicycle units for sale.
+In 1926 Antonio Cavalieri Ducati and his three sons, Adriano, Marcello, and Bruno Cavalieri Ducati founded _Società Scientifica Radio Brevetti Ducati_ in Bologna to produce vacuum tubes, condensers and other radio components. In 1935 they had become successful enough to enable construction of a new factory in the Borgo Panigale area of the city. Production was maintained during World War II, despite the Ducati factory being a repeated target of Allied bombing. Meanwhile, at the small Turinese firm SIATA (_Societa Italiana per Applicazioni Tecniche Auto-Aviatorie_), Aldo Farinelli began developing a small pushrod engine for mounting on bicycles. Barely a month after the official liberation of Italy in 1944, SIATA announced its intention to sell this engine, called the "Cucciolo" (Italian for "puppy," in reference to the distinctive exhaust sound) to the public. The first Cucciolos were available alone, to be mounted on standard bicycles, by the buyer; however, businessmen soon bought the little engines in quantity, and offered complete motorized-bicycle units for sale.
 
-In 1950, after more than 200,000 Cucciolos had been sold, in collaboration with SIATA, the Ducati firm finally offered its own Cucciolo-based motorcycle. This first Ducati motorcycle was a 48 cc bike weighing , with a top speed of , and had a giving just under . Ducati soon dropped the Cucciolo name in favor of "55M" and "65TL". Scooters.Assisi026.jpg Ducati_mach1_800.jpg]] When the market moved toward larger motorcycles, Ducati management decided to respond, making an impression at an early-1952 Milan show, introducing their 65TS cycle and Cruiser (a four-stroke motor scooter). Despite being described as the most interesting new machine at the 1952 show, the Cruiser was not a great success, and only a few thousand were made over a two-year period before the model ceased production.
+In 1950, after more than 200,000 Cucciolos had been sold, in collaboration with SIATA, the Ducati firm finally offered its own Cucciolo-based motorcycle. This first Ducati motorcycle was a 48 cc bike weighing , with a top speed of , and had a giving just under . Ducati soon dropped the Cucciolo name in favor of "55M" and "65TL". ]] When the market moved toward larger motorcycles, Ducati management decided to respond, making an impression at an early-1952 Milan show, introducing their 65TS cycle and Cruiser (a four-stroke motor scooter). Despite being described as the most interesting new machine at the 1952 show, the Cruiser was not a great success, and only a few thousand were made over a two-year period before the model ceased production.
 
 In 1953, management split the company into two separate entities, Ducati Meccanica SpA and Ducati Elettronica, in acknowledgment of its diverging motorcycle and electronics product lines. Dr. Giuseppe Montano took over as head of Ducati Meccanica SpA and the Borgo Panigale factory was modernized with government assistance. By 1954, Ducati Meccanica SpA had increased production to 120 bikes a day.
 
@@ -39,12 +39,12 @@ Since 1926, Ducati has been owned by a number of groups and companies.
 
         AUDI AG acquired 100% of the voting rights of Ducati Motor Holding S.p.A. via Audi's Automobili Lamborghini S.p.A. subsidiary
 
-Ducatilogol.png From the 1960s to the 1990s, the Spanish company MotoTrans licensed Ducati engines and produced motorcycles that, although they incorporated subtle differences, were clearly Ducati-derived. MotoTrans's most notable machine was the 250 cc _24 Horas_ (Spanish for "24 hours").
+From the 1960s to the 1990s, the Spanish company MotoTrans licensed Ducati engines and produced motorcycles that, although they incorporated subtle differences, were clearly Ducati-derived. MotoTrans's most notable machine was the 250 cc _24 Horas_ (Spanish for "24 hours").
 
 
 Motorcycle designs
 
-PaulSmartLE1000.jpg]] Ducati is best known for high-performance motorcycles characterized by large-capacity four-stroke, 90° V-twin engines,[12] with a desmodromic valve design.[13] Ducati refers to this configuration as L-twin because one cylinder is vertical while the other is horizontal, making it look like a letter "L". Modern Ducatis remain among the dominant performance motorcycles available today partly because of the desmodromic valve design, which is nearing its 50th year of use. Desmodromic valves are closed with a separate, dedicated cam lobe and lifter instead of the conventional valve springs used in most internal combustion engines in consumer vehicles. This allows the cams to have a more radical profile, thus opening and closing the valves more quickly without the risk of valve-float, which causes a loss of power that is likely when using a "passive" closing mechanism under the same conditions.
+]] Ducati is best known for high-performance motorcycles characterized by large-capacity four-stroke, 90° V-twin engines,[12] with a desmodromic valve design.[13] Ducati refers to this configuration as L-twin because one cylinder is vertical while the other is horizontal, making it look like a letter "L". Modern Ducatis remain among the dominant performance motorcycles available today partly because of the desmodromic valve design, which is nearing its 50th year of use. Desmodromic valves are closed with a separate, dedicated cam lobe and lifter instead of the conventional valve springs used in most internal combustion engines in consumer vehicles. This allows the cams to have a more radical profile, thus opening and closing the valves more quickly without the risk of valve-float, which causes a loss of power that is likely when using a "passive" closing mechanism under the same conditions.
 
 While most other manufacturers use wet clutches (with the spinning parts bathed in oil)[14] Ducati previously used multiplate dry clutches in many of their motorcycles. The dry clutch eliminates the power loss from oil viscosity drag on the engine, even though the engagement may not be as smooth as the oil-bath versions, but the clutch plates can wear more rapidly. Ducati has converted to wet clutches across their current product lines.
 
@@ -71,7 +71,7 @@ In 1975, the company introduced the 860 GT, designed by noted car stylist Giorge
 
 Ducati's liquid-cooled, multi-valve V-twins, made from 1985 on, are known as _Desmoquattro_ ("desmodromic valve four"). These include the 851, 916 and 996, 999 and a few predecessors and derivatives.
 
-907ie.JPG The Ducati Paso was introduced in 1986 with the Paso 750, followed in 1989 with the Paso 906. The final version came in 1991 with the 907IE (Iniezione Elettronica), now without the name "Paso". The design was from the hand of Massimo Tamburini, who also designed the Ducati 916 and MV Agusta F4. The Paso was a typical "you love it, you hate it" bike. However, at that time it looked like that all-enclosed bodywork would be the future for all motorcycles. The Paso design was copied for the Moto Morini Dart 400 and Cagiva Freccia 125. Together with Tamburini's Bimota DB1, they were enormously influential in terms of styling.
+The Ducati Paso was introduced in 1986 with the Paso 750, followed in 1989 with the Paso 906. The final version came in 1991 with the 907IE (Iniezione Elettronica), now without the name "Paso". The design was from the hand of Massimo Tamburini, who also designed the Ducati 916 and MV Agusta F4. The Paso was a typical "you love it, you hate it" bike. However, at that time it looked like that all-enclosed bodywork would be the future for all motorcycles. The Paso design was copied for the Moto Morini Dart 400 and Cagiva Freccia 125. Together with Tamburini's Bimota DB1, they were enormously influential in terms of styling.
 
 1990s
 
@@ -96,7 +96,7 @@ In 2006, the retro-styled Ducati PaulSmart 1000 LE was released, which shared st
 
 Current lineup
 
-2007DucatiHyperMotard-001.jpg]] 2007DucatiDesmosediciRR-001.jpg]] 2007Ducati1098-001.jpg]]
+]] ]] ]]
 
 Monster[28][29][30]
 
@@ -219,7 +219,7 @@ Ducati has a wide range of accessories, lifestyle products and co-branded mercha
 
 Racing history
 
-Ducati_350_cc_racer_1968.jpg Ducati's history with motorsport began with speed records on Cucciolo motorized bicycle factory racers in 1951, followed in 1954 with bringing in Fabio Taglioni to found a road-racing program with the 100 Gran Sport.[46] , Ducati was still pursuing the "win on Sunday, sell on Monday" business model and spending 10% of company revenues, €, on its racing business.[47][48]
+Ducati's history with motorsport began with speed records on Cucciolo motorized bicycle factory racers in 1951, followed in 1954 with bringing in Fabio Taglioni to found a road-racing program with the 100 Gran Sport.[46] , Ducati was still pursuing the "win on Sunday, sell on Monday" business model and spending 10% of company revenues, €, on its racing business.[47][48]
 
 MotoGP World Championship
 

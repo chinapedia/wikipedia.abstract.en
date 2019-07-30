@@ -43,7 +43,7 @@ By the beginning of the Baroque period, the notion of the musical key was establ
 
 Theory
 
-Piano-keyboard.jpg is based on the interval patterns of the diatonic scale. Any sequence of seven successive white keys plays a diatonic scale.]] Of Glarean's six natural scales, three are major scales (those with a major third/triad: Ionian, Lydian, and Mixolydian), and three are minor (those with a minor third/triad: Dorian, Phrygian, and Aeolian). To these may be added the seventh diatonic scale, with a diminished fifth above the reference note, the Locrian scale. These could be transposed not only to include one flat in the signature (as described by Glarean), but to all twelve notes of the chromatic scale, resulting in a total of eighty-four diatonic scales.
+is based on the interval patterns of the diatonic scale. Any sequence of seven successive white keys plays a diatonic scale.]] Of Glarean's six natural scales, three are major scales (those with a major third/triad: Ionian, Lydian, and Mixolydian), and three are minor (those with a minor third/triad: Dorian, Phrygian, and Aeolian). To these may be added the seventh diatonic scale, with a diminished fifth above the reference note, the Locrian scale. These could be transposed not only to include one flat in the signature (as described by Glarean), but to all twelve notes of the chromatic scale, resulting in a total of eighty-four diatonic scales.
 
 The modern musical keyboard originated as a diatonic keyboard with only white keys.[5] The black keys were progressively added for several purposes:
 
@@ -125,7 +125,7 @@ For the sake of simplicity, the examples shown above are formed by natural notes
 
 The whole set of diatonic scales is commonly defined as the set composed of these seven natural-note scales, together with all of their possible transpositions. As discussed elsewhere, different definitions of this set are sometimes adopted in the literature.
 
-Modes.svgs of the modern musical modes]]
+s of the modern musical modes]]
 
 Diatonic scales and tetrachords
 

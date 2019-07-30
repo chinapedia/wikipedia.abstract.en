@@ -1,5 +1,3 @@
-Cardinal_vowels-Jones_x-ray.jpg Cardinal_vowel_tongue_position-front.svg Cardinal_vowel_tongue_position-back(png).svg Cardinal_vowel_chart-accurate(png).svg Cardinal_vowel_chart-common(png).svg
-
 CARDINAL VOWELS are a set of reference vowels used by phoneticians in describing the sounds of languages. For instance, the vowel of the English word "feet" can be described with reference to cardinal vowel 1, , which is the cardinal vowel closest to it. It is often stated that to be able to use the cardinal vowel system effectively one must undergo training with an expert phonetician, working both on the recognition and the production of the vowels. Daniel Jones wrote "The values of cardinal vowels cannot be learnt from written descriptions; they should be learnt by oral instruction from a teacher who knows them".[1]
 
 A cardinal vowel is a vowel sound produced when the tongue is in an extreme position, either front or back, high or low. The current system was systematised by Daniel Jones in the early 20th century,[2] though the idea goes back to earlier phoneticians, notably Ellis[3] and Bell.[4]
@@ -16,8 +14,6 @@ The lip positions can be reversed with the lip position for the corresponding vo
 
 
 Table of cardinal vowels
-
-Daniel_Jones's_18_Cardinal_Vowels.svg
 
 +----------+-----+---------------------------------+
 | cardinal | IPA | description                     |

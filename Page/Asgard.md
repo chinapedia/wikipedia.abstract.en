@@ -1,11 +1,11 @@
-Yggdrasil.jpg]] In Norse religion, ASGARD (;[1] ; "Enclosure of the Æsir"[2]) is one of the Nine Worlds and home to the Æsir tribe of gods. It is surrounded by an incomplete wall attributed to a Hrimthurs riding the stallion Svaðilfari, according to _Gylfaginning_. Odin and his wife, Frigg, are the rulers of Asgard.
+]] In Norse religion, ASGARD (;[1] ; "Enclosure of the Æsir"[2]) is one of the Nine Worlds and home to the Æsir tribe of gods. It is surrounded by an incomplete wall attributed to a Hrimthurs riding the stallion Svaðilfari, according to _Gylfaginning_. Odin and his wife, Frigg, are the rulers of Asgard.
 
 Asgard is home to many named locations; the most well known include Valhalla, where half of all those who die in battle are sent, and Fólkvangr, where the other half go.[3]
 
 
 Attestations
 
-Manuscript_Gylfi.jpg'', Gylfi, King of Sweden before the arrival of the Æsir under Odin, travels to Asgard, questions the three officials shown in the illumination concerning the Æsir, and is beguiled. Note that the officials have one eye, a sign of Odin. One of his attributes is that he can make the false seem true. 18th century Icelandic manuscript.]] The primary sources regarding Asgard come from the Prose Edda, written in the 13th century by Icelandic historian Snorri Sturluson, and the Poetic Edda, compiled in the 13th century from a basis of much older Skaldic poetry.
+'', Gylfi, King of Sweden before the arrival of the Æsir under Odin, travels to Asgard, questions the three officials shown in the illumination concerning the Æsir, and is beguiled. Note that the officials have one eye, a sign of Odin. One of his attributes is that he can make the false seem true. 18th century Icelandic manuscript.]] The primary sources regarding Asgard come from the Prose Edda, written in the 13th century by Icelandic historian Snorri Sturluson, and the Poetic Edda, compiled in the 13th century from a basis of much older Skaldic poetry.
 
 _Poetic Edda_
 
@@ -25,7 +25,7 @@ Snorri proposes the location of Asgard as Troy, the center of the earth. About i
 
 _Gylfaginning_
 
-Odin_and_his_brothers_create_the_world.jpg, Vili and Vé. Illustration by Lorenz Frølich.]] In _Gylfaginning_, Snorri presents the mythological version, taken no doubt from his sources. Icelanders were still being converted at that time. He could not present the myths as part of any current belief. Instead he resorts to a debunking device: Gylfi, king of Sweden before the Æsir, travels to Asgard and finds there a large hall (Valhalla) in Section 2.
+, Vili and Vé. Illustration by Lorenz Frølich.]] In _Gylfaginning_, Snorri presents the mythological version, taken no doubt from his sources. Icelanders were still being converted at that time. He could not present the myths as part of any current belief. Instead he resorts to a debunking device: Gylfi, king of Sweden before the Æsir, travels to Asgard and finds there a large hall (Valhalla) in Section 2.
 
 Within are three officials (three Aesir Kings), whom Gylfi in the guise of Gangleri is allowed to question about the Asgard and the Æsir. A revelation of the ancient myths follows, but at the end the palace and the people disappear in a clap of thunder and Gylfi finds himself alone on the plain, having been deluded (Section 59).
 

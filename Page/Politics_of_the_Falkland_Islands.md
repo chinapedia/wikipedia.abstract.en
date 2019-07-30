@@ -14,7 +14,7 @@ The sovereignty of the Falklands remains in dispute, with Argentina claiming the
 
 Executive
 
-Falkland_Islands_Office_Westminster.jpg, London]] Executive authority on the Falkland Islands is vested in Elizabeth II, who has been the head of state since her accession to the British throne on 6 February 1952. As the Queen is absent from the islands for most of the time, executive authority is exercised "in Her Majesty's name and on Her Majesty's behalf" by the Governor of the Falkland Islands. Nigel Phillips has been Governor since 12 September 2017.[5]
+, London]] Executive authority on the Falkland Islands is vested in Elizabeth II, who has been the head of state since her accession to the British throne on 6 February 1952. As the Queen is absent from the islands for most of the time, executive authority is exercised "in Her Majesty's name and on Her Majesty's behalf" by the Governor of the Falkland Islands. Nigel Phillips has been Governor since 12 September 2017.[5]
 
 The Governor normally acts only on the advice of the Executive Council of the Falkland Islands, which is composed of three Members of the Legislative Assembly elected by the Assembly to serve on the Council every year, the Chief Executive, the Director of Finance and the Governor, who acts as presiding officer. The constitution does permit the Governor to act without the consulting the Executive Council and even go against its instructions, but in both cases the Governor must immediately inform the Secretary of State for Foreign and Commonwealth Affairs in the United Kingdom, who can overrule the Governor's actions.
 
@@ -76,7 +76,7 @@ There is also a Public Accounts Committee consisting of a chairman and two other
 
 Elections and parties
 
-Falkland_Islands_constituency_map.svg As in many parliamentary democracies, there are no direct elections for the executive branch of the Falkland Islands Government. Instead the people elect the legislature which then advises and forms part of the executive. General elections, which elect the Legislative Assembly, must take place at least once every four years. Suffrage is universal in the Falklands, with the minimum voting age at eighteen. The Legislative Assembly has ten members, eight of which are elected using block voting (five from the Stanley constituency and three from the Camp constituency) and two _ex officio_ members (the Chief Executive and the Director of Finance).
+As in many parliamentary democracies, there are no direct elections for the executive branch of the Falkland Islands Government. Instead the people elect the legislature which then advises and forms part of the executive. General elections, which elect the Legislative Assembly, must take place at least once every four years. Suffrage is universal in the Falklands, with the minimum voting age at eighteen. The Legislative Assembly has ten members, eight of which are elected using block voting (five from the Stanley constituency and three from the Camp constituency) and two _ex officio_ members (the Chief Executive and the Director of Finance).
 
 In the last general election, which took place on 9 November 2017, only non-partisans were elected as there are no active political parties in the Falkland Islands. The next elections is must take place on or before 21 January 2022.
 

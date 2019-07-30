@@ -25,7 +25,7 @@ Thus, the original assignment Slayton submitted to his superiors for this flight
 
 For the first time ever, Slayton's recommendation was rejected by management, who felt that Shepard needed more time to train properly for a lunar flight, as he had only recently benefited from experimental surgery to correct an inner ear disorder which had kept him grounded since his first Mercury flight in 1961. Thus, Lovell's crew, backup for the historic Apollo 11 mission and therefore slated for Apollo 14, was swapped with Shepard's crew[2] and the original crew selection for the mission became:
 
-The_Original_Apollo_13_Prime_Crew_-_GPN-2000-001166.jpg Prime crew:
+Prime crew:
 
 Backup crew:
 
@@ -48,7 +48,7 @@ Flight directors
 
 Mission insignia
 
-Apollo_13_Flown_Silver_Robbins_Medallion_(SN-354).jpg]] The astronauts' mission insignia was sculpted as a medallion depicting _Steeds of Apollo_ by Lumen Martin Winter and was struck by the Franklin Mint.[8]
+]] The astronauts' mission insignia was sculpted as a medallion depicting _Steeds of Apollo_ by Lumen Martin Winter and was struck by the Franklin Mint.[8]
 
 
 Hardware and mission parameters
@@ -107,31 +107,25 @@ Mission highlights
 
 Launch and translunar injection
 
-Apollo_13_liftoff-KSC-70PC-160HR.jpg 2010-06-11_CSM&LM.jpg
-
 The mission was launched at the planned time, 02:13:00 PM EST (19:13:00 UTC) on April 11. An anomaly occurred when the second-stage, center (inboard) engine shut down about two minutes early. The four outboard engines and the third-stage engine burned longer to compensate, and the vehicle achieved very close to the planned circular parking orbit, followed by a normal translunar injection about two hours later.[14][15] The engine shutdown was determined to be caused by severe pogo oscillations measured at a strength of 68 _g_ and a frequency of 16 hertz, flexing the thrust frame by . The vehicle's guidance system shut the engine down in response to sensed thrust chamber pressure fluctuations. Pogo oscillations had been seen on previous Titan rockets, and also on the Saturn V during the uncrewed Apollo 6 mission,[16] but on Apollo 13, they were amplified by an unexpected interaction with turbopump cavitation.[17] Later missions implemented anti-pogo modifications that had been under development. These included addition of a helium-gas reservoir to the center engine liquid oxygen line to damp pressure oscillations, an automatic cutoff as a backup, and simplification of the propellant valves of all five second-stage engines.
 
 The crew performed the separation and transposition maneuver to dock the CM _Odyssey_ to the LM _Aquarius_, and pulled away from the spent third stage, which ground controllers then sent on a course to impact the Moon in range of a seismometer placed on the surface by Apollo 12. They then settled in for the three-day trip to Fra Mauro.
 
 Accident
 
-Mission_Operations_Control_Room_during_Apollo_13.jpg
-
 Approaching 56 hours into the mission, Apollo 13 was approximately from Earth en route to the Moon.[18][19] Approximately six and a half minutes after the end of a live TV broadcast from the spacecraft, Haise was in the process of closing out the LM, while Lovell was stowing the TV camera. Houston flight controllers asked Swigert to turn on the hydrogen and oxygen tank stirring fans in the service module, which were designed to destratify the cryogenic contents and increase the accuracy of their quantity readings. Two minutes later, the astronauts heard a "pretty large bang", accompanied by fluctuations in electrical power and the firing of the attitude control thrusters;[20] the crew initially thought that a meteoroid might have struck the lunar module. Communications and telemetry to Earth were lost for 1.8 seconds, until the system automatically corrected by switching the high-gain S-band antenna, used for translunar communications, from narrow-beam to wide-beam mode.[21]
 
 Immediately after the bang, Swigert reported "Okay, Houston, we've had a problem here", which Lovell repeated and clarified as a "main B bus undervolt", a temporary loss of operating voltage on the second of the spacecraft's main electrical circuits. Oxygen tank 2 immediately read quantity zero. About three minutes later, the number 1 and number 3 fuel cells failed. Lovell reported seeing out the window that the craft was venting "a gas of some sort" into space. The number 1 oxygen tank quantity gradually reduced to zero over the next 130 minutes, entirely depleting the SM's oxygen supply.[22]
 
-Because the fuel cells generated the command and service module's electrical power by combining hydrogen and oxygen into water, when oxygen tank 1 ran dry, the remaining fuel cell finally shut down, leaving the craft on the command module's limited-duration battery power and water. The crew was forced to shut down the CM completely to save this for reentry, and to power up the LM to use as a "lifeboat".[23] This situation had been suggested during an earlier training simulation, but had not been considered a likely scenario.[24] Without the LM, the accident would certainly have been fatal.[25] Apollo_13_timeline.svg followed by Apollo 13, drawn to scale; the accident occurred about 5 hours from entry into the Moon's sphere of gravitational influence]]
+Because the fuel cells generated the command and service module's electrical power by combining hydrogen and oxygen into water, when oxygen tank 1 ran dry, the remaining fuel cell finally shut down, leaving the craft on the command module's limited-duration battery power and water. The crew was forced to shut down the CM completely to save this for reentry, and to power up the LM to use as a "lifeboat".[23] This situation had been suggested during an earlier training simulation, but had not been considered a likely scenario.[24] Without the LM, the accident would certainly have been fatal.[25] followed by Apollo 13, drawn to scale; the accident occurred about 5 hours from entry into the Moon's sphere of gravitational influence]]
 
 Crew survival and return journey
-
-Direct_Abort_Trajectory_-_Lunar_Landing_Symposium,_MSC_Jun66.jpg
 
 The damage to the service module made safe return from a lunar landing impossible, so Lead Flight Director Gene Kranz ordered an abort of the mission. The existing abort plans, first drawn up in 1966, were evaluated; the quickest was a Direct Abort trajectory, which required using the service propulsion system (SPS) engine to achieve a delta-_v_.[26]^(p. III-14) Although a successful SPS firing at 60 hours ground elapsed time (GET) would land the crew one day earlier (at 118 hours GET, or 58 hours later), the large delta-_v_ was possible only if the LM were jettisoned first,[27]^(p. II-1) and since crew survival depended on the LM's presence during the coast back to Earth, that option was "out of the question."[28]^(p. III-17) An alternative would have been to burn the SPS fuel to depletion, then jettison the service module and make a second burn with the LM Descent Propulsion System (DPS) engine. It was desired to keep the service module attached for as long as possible because of the thermal protection it afforded the command module's heat shield. Apollo 13 was close to entering the lunar sphere of gravitational influence (at 61 hours GET), which was the break-even point between direct and circumlunar aborts, and the latter allowed more time for evaluation and planning before a major rocket burn.[29]^(p.\ B-5) There also was concern about "the structural integrity of the Service Module,"[30]^(p. III‑23) so mission planners were instructed that the SPS engine would not be used "except as a last-ditch effort."[31]^(p. III-14)
 
 For these reasons, Kranz chose the alternative circumlunar option, using the Moon's gravity to return the ship to Earth. Apollo 13 had left its initial free-return trajectory earlier in the mission, as required for the lunar landing at Fra Mauro. Therefore, the first order of business was to re-establish the free-return trajectory with a 30.7-second burn of the DPS. The descent engine was used again two hours after pericynthion, the closest approach to the Moon ("PC+2 burn"), to speed the return to Earth by 10 hours and move the landing spot from the Indian Ocean to the Pacific Ocean. A more aggressive burn could have been performed at PC+2 by first jettisoning the service module, returning the crew in about the same amount of time as a direct abort,[32]^(p. III-20) but this was deemed unnecessary given the rates at which consumables were being used. The 4-minute, 24-second burn was so accurate that only two more small course corrections were subsequently needed.
 
-Apollo13_apparatus.jpg scrubber cartridges to fit the lunar module, which took a round cartridge]] Apollo_13_Mailbox_at_Mission_Control.jpg during the Apollo 13 mission]] Considerable ingenuity under extreme pressure was required from the crew, flight controllers, and support personnel for the safe return. The developing drama was shown on television.[33] Because electrical power was severely limited, no more live TV broadcasts were made; TV commentators used models and animated footage as illustrations. Low power levels made even voice communications difficult.
+scrubber cartridges to fit the lunar module, which took a round cartridge]] during the Apollo 13 mission]] Considerable ingenuity under extreme pressure was required from the crew, flight controllers, and support personnel for the safe return. The developing drama was shown on television.[33] Because electrical power was severely limited, no more live TV broadcasts were made; TV commentators used models and animated footage as illustrations. Low power levels made even voice communications difficult.
 
 The lunar module consumables were intended to sustain two people for a day and a half, not three people for four days. Oxygen was the least critical consumable because the LM carried enough to repressurize the LM after each surface EVA. Unlike the command and service module (CSM), which was powered by fuel cells that produced water as a byproduct, the LM was powered by silver-zinc batteries, so electrical power and water (used for equipment cooling as well as drinking) were critical consumables. To keep the LM life-support and communication systems operational until reentry, the LM was powered down to the lowest levels possible. In particular, the LM's Abort Guidance System was used for most of the coast back to Earth instead of the primary guidance system, as it used less power and water.[34]^(pp. III‑17,33,40)
 
@@ -143,7 +137,7 @@ The last problem to be solved was how to separate the lunar module a safe distan
 
 Reentry and splashdown
 
-Apollo13_splashdown.jpg As Apollo 13 neared Earth, the crew first jettisoned the service module, using the LM's reaction control system to pull themselves a safe distance from it, instead of the normal procedure which used automatic firing of the SM's RCS. They photographed it for later analysis of the accident's cause. It was then that the crew were surprised to see for the first time that the entire Sector 4 panel had been blown off. According to the analysts, these pictures also showed the antenna damage and possibly an upward tilt to the fuel cell shelf above the oxygen tank compartment.
+As Apollo 13 neared Earth, the crew first jettisoned the service module, using the LM's reaction control system to pull themselves a safe distance from it, instead of the normal procedure which used automatic firing of the SM's RCS. They photographed it for later analysis of the accident's cause. It was then that the crew were surprised to see for the first time that the entire Sector 4 panel had been blown off. According to the analysts, these pictures also showed the antenna damage and possibly an upward tilt to the fuel cell shelf above the oxygen tank compartment.
 
 Finally, the crew jettisoned the lunar module _Aquarius_ using the above procedure worked out at the University of Toronto, leaving the command module _Odyssey_ to begin its lone reentry through the atmosphere. The reentry on a lunar mission normally was accompanied by about four minutes of typical communications blackout caused by ionization of the air around the command module. The blackout in Apollo 13's reentry lasted six minutes, which was 87 seconds longer than had been expected.[40] The possibility of heat-shield damage from the tank rupture heightened the tension of the blackout period.
 
@@ -228,13 +222,13 @@ The oxygen shelf carrying the oxygen tanks was originally installed in the Apoll
 
 The sustained high temperatures melted the Teflon insulation on the fan power supply wires and left them exposed. When the tank was refilled with oxygen, it became a bomb waiting to go off. During the "cryo stir" procedure, fan power passed through the bare wires which apparently shorted, producing sparks and igniting the Teflon. This in turn boiled liquid oxygen faster than the tank vent could remove it.
 
-Apollo13_tank2.jpg In June 1970, the Cortright Report[51] provided an in-depth analysis of the mission in an extremely detailed five-chapter report with eight appendices. It included a copy of established NASA procedures for alleviating high pressure in a cryogenic oxygen tank, to include:
+In June 1970, the Cortright Report[51] provided an in-depth analysis of the mission in an extremely detailed five-chapter report with eight appendices. It included a copy of established NASA procedures for alleviating high pressure in a cryogenic oxygen tank, to include:
 
 -   Turning the four tank heaters and fans off;
 -   Pulling the two heater circuit breakers to open to remove the energy source;
 -   Performing a 2-minute purge, or directly opening the O₂ valve.
 
-TankRuptureParametersGraph_-_Apollo13_CortrightReport_pg_B-47_(pg_A-209_inlay).png This procedure was designed to prevent hardware failure so that the lunar landing mission could be continued. The _Mission Operations Report Apollo 13_ recounts how the master caution and warning alarm had been turned off for a previous low-pressure reading on hydrogen tank 2, and so it did not trigger to call attention to the high oxygen pressure reading.[52]
+This procedure was designed to prevent hardware failure so that the lunar landing mission could be continued. The _Mission Operations Report Apollo 13_ recounts how the master caution and warning alarm had been turned off for a previous low-pressure reading on hydrogen tank 2, and so it did not trigger to call attention to the high oxygen pressure reading.[52]
 
 Oxygen tank 2 was not the only pressure vessel that failed during this mission. Prior to the accident, the crew had moved the scheduled entry into the lunar module forward by three hours. This was done to get an earlier look at the pressure reading of the supercritical helium (SHe) tank in the LM descent stage, which had been suspect since before launch. After the abort decision, the helium pressure continued to rise and Mission Control predicted the time that the burst disc would rupture. The helium tank burst disc ruptured at 108:54, after the lunar flyby. The expulsion reversed the direction of the passive thermal control (PTC) roll (nicknamed the "barbecue roll").[53]
 
@@ -249,7 +243,7 @@ All electrical wiring in the power system bay was sheathed in stainless steel, a
 
 Mission notes
 
-President_Richard_Nixon_speaks_before_awarding_the_Apollo_13_astronauts_the_Presidential_Medal_of_Freedom.jpg speaks before awarding the Apollo 13 astronauts the Presidential Medal of Freedom]]
+speaks before awarding the Apollo 13 astronauts the Presidential Medal of Freedom]]
 
 Because Apollo 13 followed the free-return trajectory, its altitude over the lunar far side was approximately greater than the orbital altitude on the remaining Apollo lunar missions. The Moon was almost at apogee during the mission (as it also was during the flights of Apollo 10 and Apollo 15), which also increased the distance from the Earth. The combination of the two effects ensures that Apollo 13 holds the absolute altitude record for a crewed spacecraft, reaching a distance of from Earth on 7:21 pm EST, April 14, 1970.[56]
 
@@ -262,8 +256,6 @@ President Nixon flew to Houston to award the Apollo 13 Mission Operations Team t
 The Cold Cathode Gauge Experiment (CCGE) which was part of the ALSEP on Apollo 13 was never flown again. It was a version of the Cold Cathode Ion Gauge (CCIG) which featured on Apollo 12, Apollo 14, and Apollo 15. The CCGE was designed as a standalone version of the CCIG. On other missions, the CCIG was connected as part of the Suprathermal Ion Detector (SIDE). Because of the aborted landing, this experiment was never deployed. Other experiments included on Apollo 13's ALSEP included the Heat Flow Experiment (HFE), the Passive Seismic Experiment (PSE), and the Charged Particle Lunar Environment Experiment (CPLEE).[63]
 
 Plaque and insignia
-
-APOLLO_13_LUNAR_PLAQUE_replica.jpg
 
 The original lunar plaque affixed to the front landing leg of _Aquarius_ bore Mattingly's name, so a replacement plaque with Swigert's name was carried in the cabin, for Lovell to place over the other after he descended the ladder. He kept the plaque as a souvenir. In his book _Lost Moon_ (later renamed _Apollo 13_), Lovell stated that, apart from the plaque and a couple of other pieces, the only other memento he possesses is a letter from Charles Lindbergh.
 
@@ -284,7 +276,7 @@ As a joke following Apollo 13's successful splashdown, Grumman Aerospace Corpora
 
 Spacecraft location
 
-Apollo13_CommandModule_Kansas.JPG in Hutchinson, Kansas]]
+in Hutchinson, Kansas]]
 
 The command module shell was formerly at the Musée de l'air et de l'espace, in Paris. The interior components were removed during the investigation of the accident and reassembled into boilerplate BP-1102A, the water egress training module; and were subsequently on display at the Museum of Natural History and Science in Louisville, Kentucky, until 2000. The command module and the internal components were reassembled, and _Odyssey_ is currently on display at the Cosmosphere in Hutchinson, Kansas.
 

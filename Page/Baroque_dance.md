@@ -1,4 +1,4 @@
-Baroquedance.gif BAROQUE DANCE is dance of the Baroque era (roughly 1600–1750),[1] closely linked with Baroque music, theatre and opera.
+BAROQUE DANCE is dance of the Baroque era (roughly 1600–1750),[1] closely linked with Baroque music, theatre and opera.
 
 
 English country dance
@@ -10,7 +10,7 @@ English country dance survived well beyond the Baroque era and eventually spread
 
 The French Noble style
 
-Ballet_de_la_nuit_1653.jpg'' (1653)]] The great innovations in dance in the 17th century originated at the French court under Louis XIV, and it is here that we see the first clear stylistic ancestor of classical ballet. The same basic technique was used both at social events, and as theatrical dance in court ballets and at public theaters. The style of dance is commonly known to modern scholars as the _French noble style_ or _belle danse_ (French, literally "beautiful dance"), however it is often referred to casually as _baroque dance_ in spite of the existence of other theatrical and social dance styles during the baroque era.
+'' (1653)]] The great innovations in dance in the 17th century originated at the French court under Louis XIV, and it is here that we see the first clear stylistic ancestor of classical ballet. The same basic technique was used both at social events, and as theatrical dance in court ballets and at public theaters. The style of dance is commonly known to modern scholars as the _French noble style_ or _belle danse_ (French, literally "beautiful dance"), however it is often referred to casually as _baroque dance_ in spite of the existence of other theatrical and social dance styles during the baroque era.
 
 Primary sources include more than three hundred choreographies in Beauchamp-Feuillet notation,[2][3] as well as manuals by Raoul Handsome Auger Feuillet and Pierre Rameau in France, Kellom Tomlinson and John Weaver in England, and Gottfried Taubert in Germany. This wealth of evidence has allowed modern scholars and dancers to recreate the style, although areas of controversy still exist. The standard modern introduction is Hilton.[4]
 
@@ -51,7 +51,7 @@ Other dance styles, such as the Italian and Spanish dances of the period are muc
 
 Modern reconstructions
 
-Historical_dancing_baroque_at_time_travellers_ball_earthly_delights_dance_group.JPG The revival of baroque music in the 1960s and '70s sparked renewed interest in 17th and 18th century dance styles. While some 300 of these dances had been preserved in Beauchamp-Feuillet notation, it wasn't until the mid-20th century that serious scholarship commenced in deciphering the notation and reconstructing the dances.
+The revival of baroque music in the 1960s and '70s sparked renewed interest in 17th and 18th century dance styles. While some 300 of these dances had been preserved in Beauchamp-Feuillet notation, it wasn't until the mid-20th century that serious scholarship commenced in deciphering the notation and reconstructing the dances.
 
 Perhaps best known among these pioneers was Britain's Melusine Wood, who published several books on historical dancing in the 1950s.[8] Wood passed her research on to her student Belinda Quirey, and also to Pavlova Company ballerina and choreographer Mary Skeaping (1902–1984). The latter became well known for her reconstructions of baroque ballets for London's "Ballet for All" company in the 1960s.
 

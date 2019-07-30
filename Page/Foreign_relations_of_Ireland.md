@@ -5,7 +5,7 @@ Main relationships
 
 China
 
-Irish_Embassy_in_Beijing.JPG]]
+]]
 
 Ireland's official relationship with the People's Republic of China began on 22 June 1979.[2] Following his visit to China in 1999, former Taoiseach Bertie Ahern authorised the establishment of an Asia Strategy.[3] The aim of this Strategy was to ensure that the Irish Government and Irish enterprise work coherently to enhance the important relationships between Ireland and Asia.[4] In recent years due to the rapid expansion of the Chinese economy, China is becoming a key trade partner of Ireland, with over $6bn worth of bilateral trade between the two countries in 2010. In July 2013, the Irish Tánaiste and Minister for Foreign Affairs and Trade were invited to China by the Chinese foreign minister Wang Yi on a trade mission to boost both investment and political ties between the two countries.[5]
 
@@ -17,7 +17,7 @@ The former Minister's emphasis on the One China policy and to the Taiwan issue b
 
 United Kingdom
 
-Irish_embassy_in_London.JPG]]
+]]
 
 Since at least the 1600s Ireland has had political connections with the United Kingdom, with the whole island becoming a part of the United Kingdom of Great Britain and Ireland from 1801 to 1922. From the time of Ireland declaring itself independent from the United Kingdom in 1937, the two countries have been involved in a dispute over the status of Northern Ireland. Articles 2 and 3 of the Constitution of Ireland formerly claimed Northern Ireland as a part of the _"national territory"_, though in practice the Irish government did recognise the UK's jurisdiction over the region.
 From the onset of the Troubles in 1969, the two governments sought to bring the violence to an end. The Sunningdale Agreement of 1973 and the Anglo-Irish Agreement of 1985 were important steps in this process. In 1998, both states signed the Good Friday Agreement and now co-operate closely to find a solution to the region's problems. Articles 2 and 3 of the Constitution of Ireland were amended as part of this agreement, the territorial claim being replaced with a statement of aspiration to unite the people of the island of Ireland. As part of the Good Friday Agreement, the states also ended their dispute over their respective names: _Ireland_ and the _United Kingdom of Great Britain and Northern Ireland_. Each agreed to accept and use the others' correct name.
@@ -30,7 +30,7 @@ The controversial Sellafield nuclear fuel reprocessing plant in north-western En
 
 United States
 
-Embassy_of_Ireland_in_Washington_DC.jpg]]
+]]
 
 The United States recognised the Irish Free State on 28 June 1924 with diplomatic relations being established on 7 October 1924. In 1927, the United States opened an American Legation in Dublin.[13] Due to the ancestral ties between the two countries, Ireland and the US have a strong relationship, both politically and economically, with the US being Ireland's biggest trading partner since 2000.[14] Ireland also receives more foreign direct investment from the US than many larger nations, with investments in Ireland equal to France and Germany combined and, in 2012, more than all of developing Asia put together.[15]
 
@@ -934,8 +934,6 @@ Oceania
 
 
 Overview
-
-Foreign_relations_of_Ireland.png
 
 As of 2008 Ireland maintains diplomatic relations with 173 states (including the Republic of Kosovo), the Holy See and the European Union.[275]
 

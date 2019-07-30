@@ -1,4 +1,4 @@
-watervapor_cup.jpg of microscopic water droplets suspended in the air above a hot cup of tea after that water vapor has sufficiently cooled and condensed. Water vapor is an invisible gas, but the clouds of condensed water droplets refract and disperse the sun light and so are visible.]] 10._Ладење_при_испарување.ogv and then taken out to evaporate, the instrument shows progressively lower temperature as the ethanol evaporates.]]
+of microscopic water droplets suspended in the air above a hot cup of tea after that water vapor has sufficiently cooled and condensed. Water vapor is an invisible gas, but the clouds of condensed water droplets refract and disperse the sun light and so are visible.]] and then taken out to evaporate, the instrument shows progressively lower temperature as the ethanol evaporates.]]
 
 EVAPORATION is a type of vaporization that occurs on the surface of a liquid as it changes into the gas phase.[1] The surrounding gas must not be saturated with the evaporating substance. When the molecules of the liquid collide, they transfer energy to each other based on how they collide with each other. When a molecule near the surface absorbs enough energy to overcome the vapor pressure, it will escape and enter the surrounding air as a gas.[2] When evaporation occurs, the energy removed from the vaporized liquid will reduce the temperature of the liquid, resulting in evaporative cooling.[3]
 
@@ -17,7 +17,7 @@ Liquids that do not evaporate visibly at a given temperature in a given gas (e.g
 
 Evaporative equilibrium
 
-Water_vapor_pressure_graph.svg = 1 atm.]]
+= 1 atm.]]
 
 If evaporation takes place in an enclosed area, the escaping molecules accumulate as a vapor above the liquid. Many of the molecules return to the liquid, with returning molecules becoming more frequent as the density and pressure of the vapor increases. When the process of escape and return reaches an equilibrium,[5] the vapor is said to be "saturated", and no further change in either vapor pressure and density or liquid temperature will occur. For a system consisting of vapor and liquid of a pure substance, this equilibrium state is directly related to the vapor pressure of the substance, as given by the Clausius–Clapeyron relation:
 

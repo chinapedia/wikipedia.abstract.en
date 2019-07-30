@@ -248,8 +248,6 @@ Pre-tribulation rapture theology originated in the eighteenth century, with the 
 
 The Second Coming
 
-Icon_second_coming.jpg
-
 Signs of Christ's return
 
 The Bible states:
@@ -361,7 +359,7 @@ A decisive factor in the Last Judgement will be the question, if the corporal wo
 
 New Heaven and New Earth
 
-Apocalypse_38._A_new_heaven_and_new_earth._Revelation_cap_21._Mortier's_Bible._Phillip_Medhurst_Collection.jpg Collection]]
+Collection]]
 
   But, in accordance with his promise, we wait for new heavens and a new earth, where righteousness is at home (2 Peter ).
 
@@ -379,7 +377,7 @@ The city and its streets are pure gold, but not like the gold we know, for this 
 
 The Tree of Life
 
-Apocalypse_43._The_tree_of_life._Revelation_cap_22_v_2._Mortier's_Bible._Phillip_Medhurst_Collection.jpg, England.]] The city has a river which proceeds "out of the throne of God and of the Lamb." [Rev 22:1] Next to the river is the tree of life, which bears twelve fruits and yields its fruit every month. The last time we saw the tree of life was in the Garden of Eden. [Gen 2:9] God drove Adam and Eve out from the garden, guarding it with cherubim and a flaming sword, because it gave eternal life to those who ate of it. [Gen 3:22] In the New Jerusalem, the tree of life reappears, and everyone in the city has access to it. Genesis says that the earth was cursed because of Adam's sin, [Gen 3:17] but the author of John writes that in the New Jerusalem, "there will be no more curse." [Rev 22:3]
+, England.]] The city has a river which proceeds "out of the throne of God and of the Lamb." [Rev 22:1] Next to the river is the tree of life, which bears twelve fruits and yields its fruit every month. The last time we saw the tree of life was in the Garden of Eden. [Gen 2:9] God drove Adam and Eve out from the garden, guarding it with cherubim and a flaming sword, because it gave eternal life to those who ate of it. [Gen 3:22] In the New Jerusalem, the tree of life reappears, and everyone in the city has access to it. Genesis says that the earth was cursed because of Adam's sin, [Gen 3:17] but the author of John writes that in the New Jerusalem, "there will be no more curse." [Rev 22:3]
 
 The _Evangelical Dictionary of Theology_ (Baker, 1984) says:
 

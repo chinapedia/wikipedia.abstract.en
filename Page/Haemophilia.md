@@ -30,8 +30,6 @@ Haemophilic arthropathy is characterized by chronic proliferative synovitis and 
 
 Genetics
 
-X-linked_recessive.svg
-
 Females possess two X-chromosomes, males have one X and one Y-chromosome. Since the mutations causing the disease are X-linked recessive, a female carrying the defect on one of her X-chromosomes may not be affected by it, as the equivalent allele on her other chromosome should express itself to produce the necessary clotting factors, due to X inactivation. However, the Y-chromosome in the male has no gene for factors VIII or IX. If the genes responsible for production of factor VIII or factor IX present on a male's X-chromosome are deficient there is no equivalent on the Y-chromosome to cancel it out, so the deficient gene is not masked and the disorder will develop.
 
 Since a male receives his single X-chromosome from his mother, the son of a healthy female silently carrying the deficient gene will have a 50% chance of inheriting that gene from her and with it the disease; and if his mother is affected with haemophilia, he will have a 100% chance of being a haemophiliac. In contrast, for a female to inherit the disease, she must receive two deficient X-chromosomes, one from her mother and the other from her father (who must therefore be a haemophiliac himself). Hence, haemophilia is expressed far more commonly among males than females, while double-X females are far more likely to be silent carriers, survive childhood and to submit each of her genetic children to an at least 50% risk of receiving the deficient gene. However, it is possible for female carriers to become mild haemophiliacs due to lyonisation (inactivation) of the X-chromosomes. Haemophiliac daughters are more common than they once were, as improved treatments for the disease have allowed more haemophiliac males to survive to adulthood and become parents. Adult females may experience menorrhagia (heavy periods) due to the bleeding tendency. The pattern of inheritance is criss-cross type. This type of pattern is also seen in colour blindness.
@@ -89,7 +87,7 @@ There is no long-term cure. Treatment and prevention of bleeding episodes is don
 
 Clotting factors
 
-Factor_VIII_concentrate_in_Commercial_Packaging.JPG injection.]] Clotting factors are usually not needed in mild haemophilia.[54] In moderate haemophilia clotting factors are typically only needed when bleeding occurs or to prevent bleeding with certain events.[55] In severe haemophilia preventive use is often recommended two or three times a week and may continue for life.[56] Rapid treatment of bleeding episodes decreases damage to the body.[57]
+injection.]] Clotting factors are usually not needed in mild haemophilia.[54] In moderate haemophilia clotting factors are typically only needed when bleeding occurs or to prevent bleeding with certain events.[55] In severe haemophilia preventive use is often recommended two or three times a week and may continue for life.[56] Rapid treatment of bleeding episodes decreases damage to the body.[57]
 
 Factor VIII is used in haemophilia A and factor IX in haemophilia B. Factor replacement can be either isolated from human blood serum, recombinant, or a combination of the two. Some people develop antibodies (inhibitors) against the replacement factors given to them, so the amount of the factor has to be increased or non-human replacement products must be given, such as porcine factor VIII.
 
@@ -138,7 +136,7 @@ The term "haemophilia" is derived from the term "haemorrhaphilia" which was used
 
 European royalty
 
-The_Young_Queen_Victoria.jpg passed haemophilia on to many of her descendants.]]
+passed haemophilia on to many of her descendants.]]
 
 Haemophilia has featured prominently in European royalty and thus is sometimes known as 'the royal disease'. Queen Victoria passed the mutation for haemophilia B[85][86] to her son Leopold and, through two of her daughters, Alice and Beatrice, to various royals across the continent, including the royal families of Spain, Germany, and Russia. In Russia, Tsarevich Alexei, the son and heir of Tsar Nicholas II, famously suffered from haemophilia, which he had inherited from his mother, Empress Alexandra, one of Queen Victoria's granddaughters. The haemophilia of Alexei would result in the rise to prominence of the Russian mystic Grigori Rasputin, at the imperial court.
 
@@ -152,7 +150,7 @@ The method for the production of an antihaemophilic factor was discovered by Jud
 
 Blood contamination
 
-Ryan_White.jpg was an American haemophiliac who became infected with HIV/AIDS through contaminated blood products.]] Up until late-1985 many people with haemophilia received clotting factor products that posed a risk of HIV and hepatitis C infection. The plasma used to create the products was not screened or tested, neither had most of the products been subject to any form of viral inactivation.
+was an American haemophiliac who became infected with HIV/AIDS through contaminated blood products.]] Up until late-1985 many people with haemophilia received clotting factor products that posed a risk of HIV and hepatitis C infection. The plasma used to create the products was not screened or tested, neither had most of the products been subject to any form of viral inactivation.
 
 Tens of thousands worldwide were infected as a result of contaminated factor products including more than 10,000 people in the United States,[90] 3,500 British, 1,400 Japanese,[91] 700 Canadians,[92] 250 Irish,[93] and 115 Iraqis.[94]
 

@@ -1,4 +1,4 @@
-Opium_pod_cut_to_demonstrate_fluid_extraction1.jpg such as this one provide ingredients for the class of analgesics called opiates]] An ANALGESIC or PAINKILLER is any member of the group of drugs used to achieve analgesia, relief from pain.
+such as this one provide ingredients for the class of analgesics called opiates]] An ANALGESIC or PAINKILLER is any member of the group of drugs used to achieve analgesia, relief from pain.
 
 Analgesic drugs act in various ways on the peripheral and central nervous systems. They are distinct from anesthetics, which temporarily affect, and in some instances completely eliminate, sensation. Analgesics include paracetamol (known in North America as acetaminophen or simply APAP), the nonsteroidal anti-inflammatory drugs (NSAIDs) such as the salicylates, and opioid drugs such as morphine and oxycodone.
 
@@ -9,7 +9,7 @@ Analgesic choice is also determined by the type of pain: For neuropathic pain, t
 
 Uses
 
-Topical nonsteroidal anti-inflammatory drugs provide pain relief in common conditions such as muscle sprains and overuse injuries. Since the side effects are also lesser, topical preparations could be preferred over oral medications in these conditions.[3] Tylenol.jpg.]]
+Topical nonsteroidal anti-inflammatory drugs provide pain relief in common conditions such as muscle sprains and overuse injuries. Since the side effects are also lesser, topical preparations could be preferred over oral medications in these conditions.[3] .]]
 
 
 Contraindications

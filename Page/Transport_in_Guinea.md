@@ -1,4 +1,4 @@
-Strada_Conakry-_Boffa_Guinea.jpg, Guinea, 2014.]] TRANSPORT IN GUINEA is composed by a variety of systems that people in the country use to get around as well as to and from domestic and international destinations.
+, Guinea, 2014.]] TRANSPORT IN GUINEA is composed by a variety of systems that people in the country use to get around as well as to and from domestic and international destinations.
 
 The railway from Conakry to Kankan ceased operating in the mid-1980s.[1]
 
@@ -13,7 +13,6 @@ Conakry International Airport is the largest airport in the country, with flight
 
 Railways
 
-Railways_in_Guinea.svg
 _total:_ 1,086 km
 _standard gauge:_ 279 km gauge
 _metre gauge:_ 807 km gauge (includes 662 km in common carrier service from Kankan to Conakry)

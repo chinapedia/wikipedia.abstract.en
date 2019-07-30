@@ -1,4 +1,4 @@
-Harvard_Theatre_Collection_-_Gilbert_A._Beckett_TCS_1.20.jpg GILBERT ARTHUR À BECKETT (1837 – October 15, 1891) was an English writer.
+GILBERT ARTHUR À BECKETT (1837 – October 15, 1891) was an English writer.
 
 
 Biography
@@ -11,7 +11,7 @@ In 1879, he had been asked by Tom Taylor, the editor of _Punch_, to follow the e
 
 Apart from his work on 'Punch,' he wrote songs and music for the German Reeds' entertainment, while in 1873 and 1874 he was collaborator in two dramatic productions which evoked a considerable amount of public attention.
 
-The_Happy_Land_-_Illustrated_London_News,_March_22,_1873.PNG'', March 22, 1873]] On 3 March 1873, _The Happy Land_ was given at the Court Theatre, 1873, a daring political satire and burlesque of W. S. Gilbert's _The Wicked World_. In this amusing piece of banter three statesmen (Gladstone, Lowe, and Ayrton) were represented as visiting Fairyland in order to impart to the inhabitants the secrets of popular government. The actors representing 'Mr. G.,' 'Mr. L.,' and 'Mr. A.' were dressed so as to resemble the ministers satirised, and the representation elicited a question in the House of Commons and an official visit of the Lord Chamberlain to the theatre, with the result that the actors had to change their 'make-up.'
+'', March 22, 1873]] On 3 March 1873, _The Happy Land_ was given at the Court Theatre, 1873, a daring political satire and burlesque of W. S. Gilbert's _The Wicked World_. In this amusing piece of banter three statesmen (Gladstone, Lowe, and Ayrton) were represented as visiting Fairyland in order to impart to the inhabitants the secrets of popular government. The actors representing 'Mr. G.,' 'Mr. L.,' and 'Mr. A.' were dressed so as to resemble the ministers satirised, and the representation elicited a question in the House of Commons and an official visit of the Lord Chamberlain to the theatre, with the result that the actors had to change their 'make-up.'
 
 In the following year, he furnished the 'legend' to Herman Merivale's tragedy 'The White Pilgrim,' first given at the Court in February 1874. At the close of his life he furnished the 'lyrics' and most of the book for the operetta _La Cigale_, which at the time of his death was nearing its four hundredth performance at the Lyric Theatre.
 

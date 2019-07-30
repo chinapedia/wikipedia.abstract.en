@@ -7,7 +7,7 @@ Game theory was developed extensively in the 1950s by many scholars. It was late
 
 History
 
-JohnvonNeumann-LosAlamos.gif]] John_f_nash_20061102_3.jpg]]
+]] ]]
 
 Early discussions of examples of two-person games occurred long before the rise of modern, mathematical game theory. The first known discussion of game theory occurred in a letter written by Charles Waldegrave, an active Jacobite, and uncle to James Waldegrave, a British diplomat, in 1713.[2] In this letter, Waldegrave provides a minimax mixed strategy solution to a two-person version of the card game le Her, and the problem is now known as Waldegrave problem. In his 1838 _Recherches sur les principes mathématiques de la théorie des richesses_ (_Researches into the Mathematical Principles of the Theory of Wealth_), Antoine Augustin Cournot considered a duopoly and presents a solution that is the Nash equilibrium of the considered game.
 
@@ -72,7 +72,7 @@ In short, the differences between sequential and simultaneous games are as follo
 
 Perfect information and imperfect information
 
-PD_with_outside_option.svg)]]
+)]]
 
 An important subset of sequential games consists of games of perfect information. A game is one of perfect information if all players know the moves previously made by all other players. Most games studied in game theory are imperfect-information games. Examples of perfect-information games include tic-tac-toe, checkers, infinite chess, and Go.[13][14][15][16]
 
@@ -139,7 +139,7 @@ Most cooperative games are presented in the characteristic function form, while 
 
 Extensive form
 
-Ultimatum_Game_Extensive_Form.svg The extensive form can be used to formalize games with a time sequencing of moves. Games here are played on trees (as pictured here). Here each vertex (or node) represents a point of choice for a player. The player is specified by a number listed by the vertex. The lines out of the vertex represent a possible action for that player. The payoffs are specified at the bottom of the tree. The extensive form can be viewed as a multi-player generalization of a decision tree. To solve any extensive form game, backward induction must be used. It involves working backward up the game tree to determine what a rational player would do at the last vertex of the tree, what the player with the previous move would do given that the player with the last move is rational, and so on until the first vertex of the tree is reached.[30]
+The extensive form can be used to formalize games with a time sequencing of moves. Games here are played on trees (as pictured here). Here each vertex (or node) represents a point of choice for a player. The player is specified by a number listed by the vertex. The lines out of the vertex represent a possible action for that player. The payoffs are specified at the bottom of the tree. The extensive form can be viewed as a multi-player generalization of a decision tree. To solve any extensive form game, backward induction must be used. It involves working backward up the game tree to determine what a rational player would do at the last vertex of the tree, what the player with the previous move would do given that the player with the last move is rational, and so on until the first vertex of the tree is reached.[30]
 
 The game pictured consists of two players. The way this particular game is structured (i.e., with sequential decision making and perfect information), _Player 1_ "moves" first by choosing either _F_ or _U_ (Fair or Unfair). Next in the sequence, _Player 2_, who has now seen _Player 1_{{'}}s move, chooses to play either _A_ or _R_. Once _Player 2_ has made his/ her choice, the game is considered finished and each player gets their respective payoff. Suppose that _Player 1_ chooses _U_ and then _Player 2_ chooses _A_: _Player 1_ then gets a payoff of "eight" (which in real-world terms can be interpreted in many ways, the simplest of which is in terms of money but could mean things such as eight days of vacation or eight countries conquered or even eight more opportunities to play the same game against other players) and _Player 2_ gets a payoff of "two".
 
@@ -174,7 +174,7 @@ In addition to being used to describe, predict, and explain behavior, game theor
 
 Description and modeling
 
-Centipede_game.svg]] The primary use of game theory is to describe and model how human populations behave. Some scholars believe that by finding the equilibria of games they can predict how actual human populations will behave when confronted with situations analogous to the game being studied. This particular view of game theory has been criticized. It is argued that the assumptions made by game theorists are often violated when applied to real-world situations. Game theorists usually assume players act rationally, but in practice human behavior often deviates from this model. Game theorists respond by comparing their assumptions to those used in physics. Thus while their assumptions do not always hold, they can treat game theory as a reasonable scientific ideal akin to the models used by physicists. However, empirical work has shown that in some classic games, such as the centipede game, guess 2/3 of the average game, and the dictator game, people regularly do not play Nash equilibria. There is an ongoing debate regarding the importance of these experiments and whether the analysis of the experiments fully captures all aspects of the relevant situation.[35]
+]] The primary use of game theory is to describe and model how human populations behave. Some scholars believe that by finding the equilibria of games they can predict how actual human populations will behave when confronted with situations analogous to the game being studied. This particular view of game theory has been criticized. It is argued that the assumptions made by game theorists are often violated when applied to real-world situations. Game theorists usually assume players act rationally, but in practice human behavior often deviates from this model. Game theorists respond by comparing their assumptions to those used in physics. Thus while their assumptions do not always hold, they can treat game theory as a reasonable scientific ideal akin to the models used by physicists. However, empirical work has shown that in some classic games, such as the centipede game, guess 2/3 of the average game, and the dictator game, people regularly do not play Nash equilibria. There is an ongoing debate regarding the importance of these experiments and whether the analysis of the experiments fully captures all aspects of the relevant situation.[35]
 
 Some game theorists, following the work of John Maynard Smith and George R. Price, have turned to evolutionary game theory in order to resolve these issues. These models presume either no rationality or bounded rationality on the part of players. Despite the name, evolutionary game theory does not necessarily presume natural selection in the biological sense. Evolutionary game theory includes both biological as well as cultural evolution and also models of individual learning (for example, fictitious play dynamics).
 

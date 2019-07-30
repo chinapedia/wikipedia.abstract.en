@@ -21,7 +21,7 @@ Another common house rule is that the bottom card of the deck is never given as 
 
 Sample deal
 
-Draw-poker-table.png The sample deal is being played by four players as shown to the right with Alice dealing. All four players ante $1. Alice deals five cards to each player and places the deck aside.
+The sample deal is being played by four players as shown to the right with Alice dealing. All four players ante $1. Alice deals five cards to each player and places the deck aside.
 
 Bob opens the betting round by betting $5. Carol folds, David calls, and Alice calls, closing the betting round.
 

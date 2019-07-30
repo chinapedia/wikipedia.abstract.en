@@ -1,4 +1,4 @@
-Graffiti_Panorama_rome.jpg in Rome, Italy]] Graffiti_Kom_Ombo.JPG, Egypt]] GRAFFITI (both singular and plural; the singular _graffito_ is very rare in English except in archeology)[1][2][3] is writing or drawings made on a wall or other surface, usually as a form of artistic expression, without permission and within public view. [4][5] Graffiti ranges from simple written words to elaborate wall paintings, and has existed since ancient times, with examples dating back to ancient Egypt, ancient Greece, and the Roman Empire. [6]
+in Rome, Italy]] , Egypt]] GRAFFITI (both singular and plural; the singular _graffito_ is very rare in English except in archeology)[1][2][3] is writing or drawings made on a wall or other surface, usually as a form of artistic expression, without permission and within public view. [4][5] Graffiti ranges from simple written words to elaborate wall paintings, and has existed since ancient times, with examples dating back to ancient Egypt, ancient Greece, and the Roman Empire. [6]
 
 In modern times, spray paint and marker pens have become commonly used graffiti materials, and there are many different types and styles of graffiti, it is a rapidly developing art form.
 
@@ -9,12 +9,12 @@ The life of artist Jean-Michel Basquiat illustrates the subjective nature of the
 
 Etymology
 
-Graffiti_signature_commemorating_Union_of_Lublin_01.jpg in Lublin, commemorating Union of Lublin]] Both "graffiti" and its occasional singular form "graffito" are from the Italian word _graffiato_ ("scratched"). "Graffiti" is applied in art history to works of art produced by scratching a design into a surface. A related term is "sgraffito",[8] which involves scratching through one layer of pigment to reveal another beneath it. This technique was primarily used by potters who would glaze their wares and then scratch a design into it. In ancient times graffiti were carved on walls with a sharp object, although sometimes chalk or coal were used. The word originates from Greek —_graphein_—meaning "to write".[9]
+in Lublin, commemorating Union of Lublin]] Both "graffiti" and its occasional singular form "graffito" are from the Italian word _graffiato_ ("scratched"). "Graffiti" is applied in art history to works of art produced by scratching a design into a surface. A related term is "sgraffito",[8] which involves scratching through one layer of pigment to reveal another beneath it. This technique was primarily used by potters who would glaze their wares and then scratch a design into it. In ancient times graffiti were carved on walls with a sharp object, although sometimes chalk or coal were used. The word originates from Greek —_graphein_—meaning "to write".[9]
 
 
 History
 
-Graffitti,_Castellania,_Malta.jpeg The term _graffiti_ referred to the inscriptions, figure drawings, and such, found on the walls of ancient sepulchres or ruins, as in the Catacombs of Rome or at Pompeii. Use of the word has evolved to include any graphics applied to surfaces in a manner that constitutes vandalism.[10]
+The term _graffiti_ referred to the inscriptions, figure drawings, and such, found on the walls of ancient sepulchres or ruins, as in the Catacombs of Rome or at Pompeii. Use of the word has evolved to include any graphics applied to surfaces in a manner that constitutes vandalism.[10]
 
 The only known source of the Safaitic language, a form of proto-Arabic, is from graffiti: inscriptions scratched on to the surface of rocks and boulders in the predominantly basalt desert of southern Syria, eastern Jordan and northern Saudi Arabia. Safaitic dates from the first century BC to the fourth century AD.[11][12]
 
@@ -111,7 +111,7 @@ Global developments
 
 South America
 
-Tristan Manco wrote that Brazil "boasts a unique and particularly rich, graffiti scene ... [earning] it an international reputation as the place to go for artistic inspiration." Graffiti "flourishes in every conceivable space in Brazil's cities." Artistic parallels "are often drawn between the energy of São Paulo today and 1970s New York." The "sprawling metropolis," of São Paulo has "become the new shrine to graffiti;" Manco alludes to "poverty and unemployment ... [and] the epic struggles and conditions of the country's marginalised peoples," and to "Brazil's chronic poverty," as the main engines that "have fuelled a vibrant graffiti culture." In world terms, Brazil has "one of the most uneven distributions of income. Laws and taxes change frequently." Such factors, Manco argues, contribute to a very fluid society, riven with those economic divisions and social tensions that underpin and feed the "folkloric vandalism and an urban sport for the disenfranchised," that is South American graffiti art.[41] Graffiti_in_Tel_Aviv,_Israel.jpg Prominent Brazilian graffitists include Os Gêmeos, Boleta, Nunca, Nina, Speto, Tikka, and T.Freak.[42] Their artistic success and involvement in commercial design ventures[43] has highlighted divisions within the Brazilian graffiti community between adherents of the cruder transgressive form of _pichação_ and the more conventionally artistic values of the practitioners of _grafite_.[44]
+Tristan Manco wrote that Brazil "boasts a unique and particularly rich, graffiti scene ... [earning] it an international reputation as the place to go for artistic inspiration." Graffiti "flourishes in every conceivable space in Brazil's cities." Artistic parallels "are often drawn between the energy of São Paulo today and 1970s New York." The "sprawling metropolis," of São Paulo has "become the new shrine to graffiti;" Manco alludes to "poverty and unemployment ... [and] the epic struggles and conditions of the country's marginalised peoples," and to "Brazil's chronic poverty," as the main engines that "have fuelled a vibrant graffiti culture." In world terms, Brazil has "one of the most uneven distributions of income. Laws and taxes change frequently." Such factors, Manco argues, contribute to a very fluid society, riven with those economic divisions and social tensions that underpin and feed the "folkloric vandalism and an urban sport for the disenfranchised," that is South American graffiti art.[41] Prominent Brazilian graffitists include Os Gêmeos, Boleta, Nunca, Nina, Speto, Tikka, and T.Freak.[42] Their artistic success and involvement in commercial design ventures[43] has highlighted divisions within the Brazilian graffiti community between adherents of the cruder transgressive form of _pichação_ and the more conventionally artistic values of the practitioners of _grafite_.[44]
 
 Middle East
 
@@ -136,15 +136,15 @@ File:Vlg shop.jpg|The first graffiti shop in Russia was opened in 1992 in Tver F
 
 Modern experimentation
 
-Knitted_graffiti_1.jpg]] Spiderweb_Yarnbomb_Installation_by_Stephen_Duneier.JPG Modern graffiti art often incorporates additional arts and technologies. For example, Graffiti Research Lab has encouraged the use of projected images and magnetic light-emitting diodes (throwies) as new media for graffitists. Yarnbombing is another recent form of graffiti. Yarnbombers occasionally target previous graffiti for modification, which had been avoided among the majority of graffitists.
+]] Modern graffiti art often incorporates additional arts and technologies. For example, Graffiti Research Lab has encouraged the use of projected images and magnetic light-emitting diodes (throwies) as new media for graffitists. Yarnbombing is another recent form of graffiti. Yarnbombers occasionally target previous graffiti for modification, which had been avoided among the majority of graffitists.
 
 Tagging
 
-Tag_by_Spore.jpg, reading "Spore"]] Grafitti_on_Class_376_train_at_Cannon_Street.jpg]] Some of the most common styles of graffiti have their own names. A TAG is the most basic writing of an artist's name; it is simply a handstyle. A graffiti writer's tag is his or her personalized signature. Tagging is often the example given when opponents of graffiti refer to any acts of handstyle graffiti writing (it is by far the most common form of graffiti). Tags can contain subtle and sometimes cryptic messages, and may incorporate the artist's crew initials or other letters.
+, reading "Spore"]] ]] Some of the most common styles of graffiti have their own names. A TAG is the most basic writing of an artist's name; it is simply a handstyle. A graffiti writer's tag is his or her personalized signature. Tagging is often the example given when opponents of graffiti refer to any acts of handstyle graffiti writing (it is by far the most common form of graffiti). Tags can contain subtle and sometimes cryptic messages, and may incorporate the artist's crew initials or other letters.
 
 One form of tagging, known as PISSING, involves taking a refillable fire-extinguisher and replacing the contents with paint, allowing for tags as high as approximately . Aiming and keeping a handstyle steady in this form of tagging is very difficult, usually coming out wavy and sloppy.
 
-Another form is the THROW-UP, also known as a BOMBING, which is normally painted very quickly with two or three colors, sacrificing aesthetics for speed. Throw-ups can also be outlined on a surface with one color. A PIECE is a more elaborate representation of the artist's name, incorporating more stylized letters, usually incorporating a much larger range of colors. This is more time-consuming and increases the likelihood of the artist getting caught. _Graffiti_under_a_bridge_in_Poland.jpg.]]
+Another form is the THROW-UP, also known as a BOMBING, which is normally painted very quickly with two or three colors, sacrificing aesthetics for speed. Throw-ups can also be outlined on a surface with one color. A PIECE is a more elaborate representation of the artist's name, incorporating more stylized letters, usually incorporating a much larger range of colors. This is more time-consuming and increases the likelihood of the artist getting caught. .]]
 
 A BLOCKBUSTER or ROLLER is a large piece, almost always done in a block-shaped style, done simply to cover a large area solidly with two contrasting colors, sometimes with the whole purpose of blocking other writers from painting on the same wall. These are usually accomplished with extended paint rollers and gallons of cheap exterior paint.
 
@@ -183,7 +183,7 @@ Graffiti at the Temple of Philae (XIII).jpg|Drawing at Temple of Philae, Egypt d
 
 Radical and political
 
-M2109_Iraq_War_Protest_(Black_Bloc_Element).jpg members spray graffiti on a wall during an Iraq War Protest in Washington, D.C.]] Graffiti often has a reputation as part of a subculture that rebels against authority, although the considerations of the practitioners often diverge and can relate to a wide range of attitudes. It can express a political practice and can form just one tool in an array of resistance techniques. One early example includes the anarcho-punk band Crass, who conducted a campaign of stenciling anti-war, anarchist, feminist, and anti-consumerist messages throughout the London Underground system during the late 1970s and early 1980s.[54] In Amsterdam graffiti was a major part of the punk scene. The city was covered with names such as "De Zoot", "Vendex", and "Dr Rat".[55] To document the graffiti a punk magazine was started that was called _Gallery Anus_. So when hip hop came to Europe in the early 1980s there was already a vibrant graffiti culture.
+members spray graffiti on a wall during an Iraq War Protest in Washington, D.C.]] Graffiti often has a reputation as part of a subculture that rebels against authority, although the considerations of the practitioners often diverge and can relate to a wide range of attitudes. It can express a political practice and can form just one tool in an array of resistance techniques. One early example includes the anarcho-punk band Crass, who conducted a campaign of stenciling anti-war, anarchist, feminist, and anti-consumerist messages throughout the London Underground system during the late 1970s and early 1980s.[54] In Amsterdam graffiti was a major part of the punk scene. The city was covered with names such as "De Zoot", "Vendex", and "Dr Rat".[55] To document the graffiti a punk magazine was started that was called _Gallery Anus_. So when hip hop came to Europe in the early 1980s there was already a vibrant graffiti culture.
 
 The student protests and general strike of May 1968 saw Paris bedecked in revolutionary, anarchistic, and situationist slogans such as _L'ennui est contre-révolutionnaire_ ("Boredom is counterrevolutionary") and _Lisez moins, vivez plus_ ("Read less, live more"). While not exhaustive, the graffiti gave a sense of the 'millenarian' and rebellious spirit, tempered with a good deal of verbal wit, of the strikers.
 
@@ -215,7 +215,7 @@ Smirnoff hired artists to use reverse graffiti (the use of high pressure hoses t
 
 Offensive graffiti
 
-Stop_graffitti.jpg]] Graffiti may also be used as an offensive expression. This form of graffiti may be difficult to identify, as it is mostly removed by the local authority (as councils which have adopted strategies of criminalization also strive to remove graffiti quickly).[63] Therefore, existing racist graffiti is mostly more subtle and at first sight, not easily recognized as "racist". It can then only be understood if one knows the relevant "local code" (social, historical, political, temporal, and spatial), which is seen as heteroglot and thus a 'unique set of conditions' in a cultural context.[64]
+]] Graffiti may also be used as an offensive expression. This form of graffiti may be difficult to identify, as it is mostly removed by the local authority (as councils which have adopted strategies of criminalization also strive to remove graffiti quickly).[63] Therefore, existing racist graffiti is mostly more subtle and at first sight, not easily recognized as "racist". It can then only be understood if one knows the relevant "local code" (social, historical, political, temporal, and spatial), which is seen as heteroglot and thus a 'unique set of conditions' in a cultural context.[64]
 
     A spatial code for example, could be that there is a certain youth group in an area that is engaging heavily in racist activities. So, for residents (knowing the local code), a graffiti containing only the name or abbreviation of this gang already is a racist expression, reminding the offended people of their gang activities. Also a graffiti is in most cases, the herald of more serious criminal activity to come.[65] A person who does not know these gang activities would not be able to recognize the meaning of this graffiti. Also if a tag of this youth group or gang is placed on a building occupied by asylum seekers, for example, its racist character is even stronger.
 
@@ -226,7 +226,7 @@ Elsewhere, activists in Russia have used painted caricatures of local officials 
 
 Decorative and high art
 
-JonesyLondon.jpg). Diameter about 8 cm.]] In the early 1980s, the first art galleries to show graffitists to the public were Fashion Moda in the Bronx, Now Gallery and Fun Gallery, both in the East Village, Manhattan.[70][71][72][73]
+). Diameter about 8 cm.]] In the early 1980s, the first art galleries to show graffitists to the public were Fashion Moda in the Bronx, Now Gallery and Fun Gallery, both in the East Village, Manhattan.[70][71][72][73]
 
 A 2006 exhibition at the Brooklyn Museum displayed graffiti as an art form that began in New York's outer boroughs and reached great heights in the early 1980s with the work of Crash, Lee, Daze, Keith Haring, and Jean-Michel Basquiat. It displayed 22 works by New York graffitists, including Crash, Daze, and Lady Pink. In an article about the exhibition in the magazine _Time Out_, curator Charlotta Kotik said that she hoped the exhibition would cause viewers to rethink their assumptions about graffiti. Terrance Lindall, an artist and executive director of the Williamsburg Art and Historic Center, said regarding graffiti and the exhibition:[74]
 
@@ -268,7 +268,7 @@ Taiwan 2009 HuaLien City Street Art in Poetic Form FRD 8395.jpg|Street art in po
 
 Europe
 
-Graffiti_removal_berlin.jpg In Europe, community cleaning squads have responded to graffiti, in some cases with reckless abandon, as when in 1992 in France a local Scout group, attempting to remove modern graffiti, damaged two prehistoric paintings of bison in the Cave of Mayrière supérieure near the French village of Bruniquel in Tarn-et-Garonne, earning them the 1992 Ig Nobel Prize in archeology.[87]
+In Europe, community cleaning squads have responded to graffiti, in some cases with reckless abandon, as when in 1992 in France a local Scout group, attempting to remove modern graffiti, damaged two prehistoric paintings of bison in the Cave of Mayrière supérieure near the French village of Bruniquel in Tarn-et-Garonne, earning them the 1992 Ig Nobel Prize in archeology.[87]
 
 In September 2006, the European Parliament directed the European Commission to create urban environment policies to prevent and eliminate dirt, litter, graffiti, animal excrement, and excessive noise from domestic and vehicular music systems in European cities, along with other concerns over urban life.[88]
 
@@ -288,7 +288,7 @@ Bridge-Gallery Lörrach 2011.JPG|"Approved" graffiti at Bridge-Gallery Loerrach,
 
 Australia
 
-Graffiti_tunnel_2009,_University_of_Sydney.jpg (2009)]] In an effort to reduce vandalism, many cities in Australia have designated walls or areas exclusively for use by graffitists. One early example is the "Graffiti Tunnel" located at the Camperdown Campus of the University of Sydney, which is available for use by any student at the university to tag, advertise, poster, and create "art". Advocates of this idea suggest that this discourages petty vandalism yet encourages artists to take their time and produce great art, without worry of being caught or arrested for vandalism or trespassing.[96][97] Others disagree with this approach, arguing that the presence of legal graffiti walls does not demonstrably reduce illegal graffiti elsewhere.[98] Some local government areas throughout Australia have introduced "anti-graffiti squads", who clean graffiti in the area, and such crews as BCW (Buffers Can't Win) have taken steps to keep one step ahead of local graffiti cleaners.
+(2009)]] In an effort to reduce vandalism, many cities in Australia have designated walls or areas exclusively for use by graffitists. One early example is the "Graffiti Tunnel" located at the Camperdown Campus of the University of Sydney, which is available for use by any student at the university to tag, advertise, poster, and create "art". Advocates of this idea suggest that this discourages petty vandalism yet encourages artists to take their time and produce great art, without worry of being caught or arrested for vandalism or trespassing.[96][97] Others disagree with this approach, arguing that the presence of legal graffiti walls does not demonstrably reduce illegal graffiti elsewhere.[98] Some local government areas throughout Australia have introduced "anti-graffiti squads", who clean graffiti in the area, and such crews as BCW (Buffers Can't Win) have taken steps to keep one step ahead of local graffiti cleaners.
 
 Many state governments have banned the sale or possession of spray paint to those under the age of 18 (age of majority). However, a number of local governments in Victoria have taken steps to recognize the cultural heritage value of some examples of graffiti, such as prominent political graffiti. Tough new graffiti laws have been introduced in Australia with fines of up to A$26,000 and two years in prison.
 
@@ -296,11 +296,9 @@ Melbourne is a prominent graffiti city of Australia with many of its lanes being
 
 New Zealand
 
-Christchurch_Stock_Yards.jpg In February 2008 Helen Clark, the New Zealand prime minister at that time, announced a government crackdown on tagging and other forms of graffiti vandalism, describing it as a destructive crime representing an invasion of public and private property. New legislation subsequently adopted included a ban on the sale of paint spray cans to persons under 18 and increases in maximum fines for the offence from NZ$200 to NZ$2,000 or extended community service. The issue of tagging become a widely debated one following an incident in Auckland during January 2008 in which a middle-aged property owner stabbed one of two teenage taggers to death and was subsequently convicted of manslaughter.
+In February 2008 Helen Clark, the New Zealand prime minister at that time, announced a government crackdown on tagging and other forms of graffiti vandalism, describing it as a destructive crime representing an invasion of public and private property. New legislation subsequently adopted included a ban on the sale of paint spray cans to persons under 18 and increases in maximum fines for the offence from NZ$200 to NZ$2,000 or extended community service. The issue of tagging become a widely debated one following an incident in Auckland during January 2008 in which a middle-aged property owner stabbed one of two teenage taggers to death and was subsequently convicted of manslaughter.
 
 United States
-
-Elevator_graffiti.jpg
 
 Tracker databases
 

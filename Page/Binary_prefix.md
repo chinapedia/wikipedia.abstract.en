@@ -81,8 +81,6 @@ Deviation between powers of 1024 and powers of 1000
 
 Computer storage has become cheaper per unit and thereby larger, by many orders of magnitude since "K" was first used to mean 1024. Because both the SI and "binary" meanings of kilo, mega, etc., are based on powers of 1000 or 1024 rather than simple multiples, the difference between 1M "binary" and 1M "decimal" is proportionally larger than that between 1K "binary" and 1k "decimal," and so on up the scale. The relative difference between the values in the binary and decimal interpretations increases, when using the SI prefixes as the base, from 2.4% for kilo to nearly 21% for the yotta prefix.
 
-Binaryvdecimal.svg
-
 +--------+------------------+------------------+
 | Prefix | Binary ÷ Decimal | Decimal ÷ Binary |
 +========+==================+==================+
@@ -271,8 +269,6 @@ Computer hardware
 Hardware types that use powers-of-1024 multipliers, such as memory, continue to be marketed with customary binary prefixes.
 
 Computer memory
-
-Elixir_M2U51264DS8HC3G-5T_20060320.jpg
 
 Measurements of most types of electronic memory such as RAM and ROM are given using customary binary prefixes (kilo, mega, and giga). This includes some flash memory, like EEPROMs. For example, a "512-megabyte" memory module is 512×2²⁰ bytes (512 × , or ).
 

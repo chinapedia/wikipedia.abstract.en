@@ -1,5 +1,3 @@
-DRG_Chicken_e7.jpg
-
 A GANGLION is a nerve cell cluster[1] or a group of nerve cell bodies located in the autonomic nervous system and sensory system, mostly outside the central nervous system except certain nuclei.[2][3] Ganglia house the cell bodies of afferent nerves (input nerve fibers) and efferent nerves (output/motor nerve fibers).
 
 A PSEUDOGANGLION looks like a ganglion, but only has nerve fibers and has no nerve cell bodies.

@@ -1,4 +1,4 @@
-Electron_Microscope.jpgElectron_Microscope.png Ernst_Ruska_Electron_Microscope_-_Deutsches_Museum_-_Munich-edit.jpg in 1933]]
+in 1933]]
 
 An ELECTRON MICROSCOPE is a microscope that uses a beam of accelerated electrons as a source of illumination. As the wavelength of an electron can be up to 100,000 times shorter than that of visible light photons, electron microscopes have a higher resolving power than light microscopes and can reveal the structure of smaller objects. A scanning transmission electron microscope has achieved better than 50 pm resolution in annular dark-field imaging mode[1] and magnifications of up to about 10,000,000× whereas most light microscopes are limited by diffraction to about 200 nm resolution and useful magnifications below 2000×.
 
@@ -9,7 +9,7 @@ Electron microscopes are used to investigate the ultrastructure of a wide range 
 
 History
 
-Electron_Interaction_with_Matter.svg In 1926 Hans Busch developed the electromagnetic lens.
+In 1926 Hans Busch developed the electromagnetic lens.
 
 According to Dennis Gabor, the physicist Leó Szilárd tried in 1928 to convince him to build an electron microscope, for which he had filed a patent.[2] The first prototype electron microscope, capable of four-hundred-power magnification, was developed in 1931 by the physicist Ernst Ruska and the electrical engineer Max Knoll.[3] The apparatus was the first practical demonstration of the principles of electron microscopy.[4] In May of the same year, Reinhold Rudenberg, the scientific director of Siemens-Schuckertwerke, obtained a patent for an electron microscope. In 1932, Ernst Lubcke of Siemens & Halske built and obtained images from a prototype electron microscope, applying the concepts described in Rudenberg's patent.[5]
 
@@ -19,8 +19,6 @@ In the following year, 1933, Ruska built the first electron microscope that exce
 Types
 
 Transmission electron microscope (TEM)
-
-Transmission_Electron_Microscope_operating_principle.ogg
 
 The original form of the electron microscope, the transmission electron microscope (TEM), uses a high voltage electron beam to illuminate the specimen and create an image. The electron beam is produced by an electron gun, commonly fitted with a tungsten filament cathode as the electron source. The electron beam is accelerated by an anode typically at +100 keV (40 to 400 keV) with respect to the cathode, focused by electrostatic and electromagnetic lenses, and transmitted through the specimen that is in part transparent to electrons and in part scatters them out of the beam. When it emerges from the specimen, the electron beam carries information about the structure of the specimen that is magnified by the objective lens system of the microscope. The spatial variation in this information (the "image") may be viewed by projecting the magnified electron image onto a fluorescent viewing screen coated with a phosphor or scintillator material such as zinc sulfide. Alternatively, the image can be photographically recorded by exposing a photographic film or plate directly to the electron beam, or a high-resolution phosphor may be coupled by means of a lens optical system or a fibre optic light-guide to the sensor of a digital camera. The image detected by the digital camera may be displayed on a monitor or computer.
 
@@ -36,11 +34,9 @@ One application of TEM is serial-section electron microscopy (ssEM), for example
 
 Scanning electron microscope (SEM)
 
-Scanning_Electron_Microscope.ogv
+'' taken with a 1960s electron microscope]] The SEM produces images by probing the specimen with a focused electron beam that is scanned across a rectangular area of the specimen (raster scanning). When the electron beam interacts with the specimen, it loses energy by a variety of mechanisms. The lost energy is converted into alternative forms such as heat, emission of low-energy secondary electrons and high-energy backscattered electrons, light emission (cathodoluminescence) or X-ray emission, all of which provide signals carrying information about the properties of the specimen surface, such as its topography and composition. The image displayed by an SEM maps the varying intensity of any of these signals into the image in a position corresponding to the position of the beam on the specimen when the signal was generated. In the SEM image of an ant shown below and to the right, the image was constructed from signals produced by a secondary electron detector, the normal or conventional imaging mode in most SEMs.
 
-Bacillus_subtilis_image.jpg'' taken with a 1960s electron microscope]] The SEM produces images by probing the specimen with a focused electron beam that is scanned across a rectangular area of the specimen (raster scanning). When the electron beam interacts with the specimen, it loses energy by a variety of mechanisms. The lost energy is converted into alternative forms such as heat, emission of low-energy secondary electrons and high-energy backscattered electrons, light emission (cathodoluminescence) or X-ray emission, all of which provide signals carrying information about the properties of the specimen surface, such as its topography and composition. The image displayed by an SEM maps the varying intensity of any of these signals into the image in a position corresponding to the position of the beam on the specimen when the signal was generated. In the SEM image of an ant shown below and to the right, the image was constructed from signals produced by a secondary electron detector, the normal or conventional imaging mode in most SEMs.
-
-Generally, the image resolution of an SEM is lower than that of a TEM. However, because the SEM images the surface of a sample rather than its interior, the electrons do not have to travel through the sample. This reduces the need for extensive sample preparation to thin the specimen to electron transparency. The SEM is able to image bulk samples that can fit on its stage and still be maneuvered, including a height less than the working distance being used, often 4 millimeters for high-resolution images. The SEM also has a great depth of field, and so can produce images that are good representations of the three-dimensional surface shape of the sample. Another advantage of SEMs comes with environmental scanning electron microscopes (ESEM) that can produce images of good quality and resolution with hydrated samples or in low, rather than high, vacuum or under chamber gases. This facilitates imaging unfixed biological samples that are unstable in the high vacuum of conventional electron microscopes.Ant_SEM.jpg in a scanning electron microscope]]
+Generally, the image resolution of an SEM is lower than that of a TEM. However, because the SEM images the surface of a sample rather than its interior, the electrons do not have to travel through the sample. This reduces the need for extensive sample preparation to thin the specimen to electron transparency. The SEM is able to image bulk samples that can fit on its stage and still be maneuvered, including a height less than the working distance being used, often 4 millimeters for high-resolution images. The SEM also has a great depth of field, and so can produce images that are good representations of the three-dimensional surface shape of the sample. Another advantage of SEMs comes with environmental scanning electron microscopes (ESEM) that can produce images of good quality and resolution with hydrated samples or in low, rather than high, vacuum or under chamber gases. This facilitates imaging unfixed biological samples that are unstable in the high vacuum of conventional electron microscopes. in a scanning electron microscope]]
 
 Color
 
@@ -61,7 +57,7 @@ The STEM rasters a focused incident probe across a specimen that (as with the TE
 
 Sample preparation
 
-Golden_insect_01_Pengo.jpg for viewing with a scanning electron microscope]] Materials to be viewed under an electron microscope may require processing to produce a suitable sample. The technique required varies depending on the specimen and the analysis required:
+for viewing with a scanning electron microscope]] Materials to be viewed under an electron microscope may require processing to produce a suitable sample. The technique required varies depending on the specimen and the analysis required:
 
 -   _Chemical fixation_ – for biological specimens aims to stabilize the specimen's mobile macromolecular structure by chemical crosslinking of proteins with aldehydes such as formaldehyde and glutaraldehyde, and lipids with osmium tetroxide.
 -   _Negative stain_ – suspensions containing nanoparticles or fine biological material (such as viruses and bacteria) are briefly mixed with a dilute solution of an electron-opaque solution such as ammonium molybdate, uranyl acetate (or formate), or phosphotungstic acid. This mixture is applied to a suitably coated EM grid, blotted, then allowed to dry. Viewing of this preparation in the TEM should be carried out without delay for best results. The method is important in microbiology for fast but crude morphological identification, but can also be used as the basis for high-resolution 3D reconstruction using EM tomography methodology when carbon films are used for support. Negative staining is also used for observation of nanoparticles.

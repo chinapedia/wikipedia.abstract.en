@@ -31,7 +31,7 @@ In 1936, Geisel and his wife were returning from an ocean voyage to Europe when 
 
 World War II-era work
 
-The_Goldbrick.ogv As World War II began, Geisel turned to political cartoons, drawing over 400 in two years as editorial cartoonist for the left-leaning New York City daily newspaper, _PM_.[42] Geisel's political cartoons, later published in _Dr. Seuss Goes to War_, denounced Hitler and Mussolini and were highly critical of non-interventionists ("isolationists"), most notably Charles Lindbergh, who opposed US entry into the war.[43] One cartoon[44] depicted Japanese Americans being handed TNT after a "call from home", while other cartoons deplored the racism at home against Jews and blacks that harmed the war effort. His cartoons were strongly supportive of President Roosevelt's handling of the war, combining the usual exhortations to ration and contribute to the war effort with frequent attacks on Congress[45] (especially the Republican Party),[46] parts of the press (such as the _New York Daily News_, _Chicago Tribune_, and _Washington Times-Herald_),[47] and others for criticism of Roosevelt, criticism of aid to the Soviet Union,[48][49] investigation of suspected Communists,[50] and other offences that he depicted as leading to disunity and helping the Nazis, intentionally or inadvertently.
+As World War II began, Geisel turned to political cartoons, drawing over 400 in two years as editorial cartoonist for the left-leaning New York City daily newspaper, _PM_.[42] Geisel's political cartoons, later published in _Dr. Seuss Goes to War_, denounced Hitler and Mussolini and were highly critical of non-interventionists ("isolationists"), most notably Charles Lindbergh, who opposed US entry into the war.[43] One cartoon[44] depicted Japanese Americans being handed TNT after a "call from home", while other cartoons deplored the racism at home against Jews and blacks that harmed the war effort. His cartoons were strongly supportive of President Roosevelt's handling of the war, combining the usual exhortations to ration and contribute to the war effort with frequent attacks on Congress[45] (especially the Republican Party),[46] parts of the press (such as the _New York Daily News_, _Chicago Tribune_, and _Washington Times-Herald_),[47] and others for criticism of Roosevelt, criticism of aid to the Soviet Union,[48][49] investigation of suspected Communists,[50] and other offences that he depicted as leading to disunity and helping the Nazis, intentionally or inadvertently.
 
 In 1942, Geisel turned his energies to direct support of the U.S. war effort. First, he worked drawing posters for the Treasury Department and the War Production Board. Then, in 1943, he joined the Army as a Captain and was commander of the Animation Department of the First Motion Picture Unit of the United States Army Air Forces, where he wrote films that included _Your Job in Germany_, a 1945 propaganda film about peace in Europe after World War II; _Our Job in Japan_; and the _Private Snafu_ series of adult army training films. While in the Army, he was awarded the Legion of Merit.[51] _Our Job in Japan_ became the basis for the commercially released film _Design for Death_ (1947), a study of Japanese culture that won the Academy Award for Best Documentary Feature.[52] _Gerald McBoing-Boing_ (1950) was based on an original story by Seuss and won the Academy Award for Best Animated Short Film.[53]
 
@@ -82,7 +82,7 @@ Political views
 
 Geisel was a liberal Democrat and a supporter of President Franklin D. Roosevelt and the New Deal. His early political cartoons show a passionate opposition to fascism, and he urged action against it both before and after the United States entered World War II. His cartoons portrayed the fear of communism as overstated, finding greater threats in the House Un-American Activities Committee and those who threatened to cut the United States' "life line"[78] to Stalin and the USSR, whom he once depicted as a porter carrying "our war load".[79]
 
-Seuss_cartoon.png Geisel supported the internment of Japanese Americans during World War II. His treatment of the Japanese and of Japanese Americans (between whom he often failed to differentiate) has struck many readers as a moral blind spot.[80] On the issue of the Japanese, he is quoted as saying:
+Geisel supported the internment of Japanese Americans during World War II. His treatment of the Japanese and of Japanese Americans (between whom he often failed to differentiate) has struck many readers as a moral blind spot.[80] On the issue of the Japanese, he is quoted as saying:
 
 After the war, though, Geisel overcame his feelings of animosity, using his book _Horton Hears a Who!_ (1954) as an allegory for the American post-war occupation of Japan,[81] as well as dedicating the book to a Japanese friend, though Ron Lamothe noted in an interview that even that book has a sense of "American chauvinism" and doesn't mention the atomic bombings of Hiroshima and Nagasaki.[82]
 
@@ -114,7 +114,7 @@ They then switch to iambs for the oobleck spell:
 
 Artwork
 
-Ted_Geisel_NYWTS.jpg for _How the Grinch Stole Christmas!_ in 1957]]
+for _How the Grinch Stole Christmas!_ in 1957]]
 
 Geisel's early artwork often employed the shaded texture of pencil drawings or watercolors, but in his children's books of the postwar period, he generally made use of a starker medium—pen and ink—normally using just black, white, and one or two colors. His later books, such as _The Lorax,_ used more colors.
 
@@ -203,7 +203,7 @@ TV series
 
 Adaptations
 
-Seuss_Landing.jpg at Islands of Adventure in Orlando, Florida]] For most of his career, Geisel was reluctant to have his characters marketed in contexts outside of his own books. However, he did permit the creation of several animated cartoons, an art form in which he had gained experience during World War II, and he gradually relaxed his policy as he aged.
+at Islands of Adventure in Orlando, Florida]] For most of his career, Geisel was reluctant to have his characters marketed in contexts outside of his own books. However, he did permit the creation of several animated cartoons, an art form in which he had gained experience during World War II, and he gradually relaxed his policy as he aged.
 
 The first adaptation of one of Geisel's works was a cartoon version of _Horton Hatches the Egg_, animated at Warner Bros. in 1942 and directed by Bob Clampett. It was presented as part of the Merrie Melodies series and included a number of gags not present in the original narrative, including a fish committing suicide and a Katharine Hepburn imitation by Mayzie.
 

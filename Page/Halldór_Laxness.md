@@ -55,7 +55,7 @@ Due to its examination of modern Reykjavík, _Atómstöðin_ caused many critics
 
 1950s
 
-Laxness_portrett_einar_hakonarson_1984.jpg, 1984]]
+, 1984]]
 
 In 1952 Laxness was awarded the Lenin Peace Prize and in 1953 he was awarded the Soviet-sponsored World Peace Council literary Prize.[30]
 

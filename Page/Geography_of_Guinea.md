@@ -1,4 +1,4 @@
-Un-guinea.png and administrative divisions.]] LocationGuinea.svg
+and administrative divisions.]]
 
 Guinea is a country on the coast of West Africa and is bordered by Guinea-Bissau, Senegal, Mali, Ivory Coast, Liberia, and Sierra Leone.
 
@@ -13,8 +13,6 @@ Guinea's land boundaries span a total of 4,046 km: with Ivory Coast 816 km, Gu
 
 
 Climate
-
-Guinea_Topography.png
 
 The coastal region of Guinea and most of the inland have a tropical climate, with a monsoonal-type rainy season lasting from April to November, relatively high and uniform temperatures, southwesterly winds, and high humidity.
 

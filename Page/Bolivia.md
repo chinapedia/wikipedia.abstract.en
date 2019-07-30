@@ -20,7 +20,7 @@ History
 
 Pre-colonial
 
-Puerta_del_Sol_Símbolo_de_Tiwanaku_-_Bolivia.jpg, Archaeological Zone of Tiwanaku, Bolivia]] Map_of_Wari_and_Tiawaku.svg The region now known as Bolivia had been occupied for over 2,500 years when the Aymara arrived. However, present-day Aymara associate themselves with the ancient civilization of the Tiwanaku culture which had its capital at Tiwanaku, in Western Bolivia. The capital city of Tiwanaku dates from as early as 1500 BC when it was a small, agriculturally based village.[9]
+, Archaeological Zone of Tiwanaku, Bolivia]] The region now known as Bolivia had been occupied for over 2,500 years when the Aymara arrived. However, present-day Aymara associate themselves with the ancient civilization of the Tiwanaku culture which had its capital at Tiwanaku, in Western Bolivia. The capital city of Tiwanaku dates from as early as 1500 BC when it was a small, agriculturally based village.[9]
 
 The community grew to urban proportions between AD 600 and AD 800, becoming an important regional power in the southern Andes. According to early estimates, the city covered approximately at its maximum extent and had between 15,000 and 30,000 inhabitants.[10] In 1996 satellite imaging was used to map the extent of fossilized suka kollus (flooded raised fields) across the three primary valleys of Tiwanaku, arriving at population-carrying capacity estimates of anywhere between 285,000 and 1,482,000 people.[11]
 
@@ -31,8 +31,6 @@ The empire continued to grow with no end in sight. William H. Isbell states "Tia
 Tiwanaku's elites gained their status through the surplus food they controlled, collected from outlying regions and then redistributed to the general populace. Further, this elite's control of llama herds became a powerful control mechanism as llamas were essential for carrying goods between the civic centre and the periphery. These herds also came to symbolize class distinctions between the commoners and the elites. Through this control and manipulation of surplus resources, the elite's power continued to grow until about AD 950. At this time a dramatic shift in climate occurred,[15] causing a significant drop in precipitation in the Titicaca Basin, believed by archaeologists to have been on the scale of a major drought.
 
 As the rainfall decreased, many of the cities farther away from Lake Titicaca began to tender fewer foodstuffs to the elites. As the surplus of food decreased, and thus the amount available to underpin their power, the control of the elites began to falter. The capital city became the last place viable for food production due to the resiliency of the raised field method of agriculture. Tiwanaku disappeared around AD 1000 because food production, the main source of the elites' power, dried up. The area remained uninhabited for centuries thereafter.[16]
-
-Inca_Expansion.svg
 
 Between 1438 and 1527, the Inca empire, during its expansion from its capital at Cuzco, Peru. It gained control over much of what is now Andean Bolivia and extended its control into the fringes of the Amazon basin.
 
@@ -48,7 +46,7 @@ The struggle for independence started in the city of Sucre on 25 May 1809 and th
 
 Bolivia was captured and recaptured many times during the war by the royalists and patriots. Buenos Aires sent three military campaigns, all of which were defeated, and eventually limited itself to protecting the national borders at Salta. Bolivia was finally freed of Royalist dominion by Marshal Antonio José de Sucre, with a military campaign coming from the North in support of the campaign of Simón Bolívar. After 16 years of war the Republic was proclaimed on 6 August 1825.
 
-Coat_of_arms_of_Bolivia_(1825).svg]]
+]]
 
 In 1836, Bolivia, under the rule of Marshal Andrés de Santa Cruz, invaded Peru to reinstall the deposed president, General Luis José de Orbegoso. Peru and Bolivia formed the Peru-Bolivian Confederation, with de Santa Cruz as the _Supreme Protector_. Following tension between the Confederation and Chile, Chile declared war on 28 December 1836. Argentina separately declared war on the Confederation on 9 May 1837. The Peruvian-Bolivian forces achieved several major victories during the War of the Confederation: the defeat of the Argentine expedition and the defeat of the first Chilean expedition on the fields of Paucarpata near the city of Arequipa.
 
@@ -68,7 +66,7 @@ Thus, since independence, Bolivia has lost over half of its territory to neighbo
 
 Early 20th century
 
-Map_Bolivia_territorial_loss-en.svg During the early 20th century, tin replaced silver as the country's most important source of wealth. A succession of governments controlled by the economic and social elite followed laissez-faire capitalist policies through the first 30 years of the 20th century.[26]
+During the early 20th century, tin replaced silver as the country's most important source of wealth. A succession of governments controlled by the economic and social elite followed laissez-faire capitalist policies through the first 30 years of the 20th century.[26]
 
 Living conditions of the native people, who constitute most of the population, remained deplorable. With work opportunities limited to primitive conditions in the mines and in large estates having nearly feudal status, they had no access to education, economic opportunity, and political participation. Bolivia's defeat by Paraguay in the Chaco War (1932–35), where Bolivia lost a great part of the Gran Chaco region in dispute, marked a turning-point.[27][28][29]
 
@@ -84,7 +82,7 @@ Elections in 1979 and 1981 were inconclusive and marked by fraud. There were cou
 
 Democratic transition
 
-Gonzalo_sanchez_de_lozada.jpg]] Gonzalo Sánchez de Lozada pursued an aggressive economic and social reform agenda. The most dramatic reform was privatization under the "capitalization" program, under which investors, typically foreign, acquired 50% ownership and management control of public enterprises in return for agreed upon capital investments.[33][34]
+]] Gonzalo Sánchez de Lozada pursued an aggressive economic and social reform agenda. The most dramatic reform was privatization under the "capitalization" program, under which investors, typically foreign, acquired 50% ownership and management control of public enterprises in return for agreed upon capital investments.[33][34]
 
 In 1993, Gonzalo Sánchez de Lozada ran for president in alliance with the Tupac Katari Revolutionary Liberation Movement, which inspired indigenous-sensitive and multicultural-aware policies.[35] In 1993, Sanchez de Lozada introduced the _Plan de Todos_, which led to the decentralization of government, introduction of intercultural bilingual education, implementation of agrarian legislation, and privatization of state owned businesses. The plan explicitly stated that Bolivian citizens would own a minimum of 51% of enterprises; under the plan, most state-owned enterprises (SOEs), though not mines, were sold.[36] This privatization of SOEs led to a neoliberal structuring. [37]
 
@@ -98,7 +96,7 @@ Between January 1999 and April 2000, large-scale protests erupted in Cochabamba,
 
 In the June 2002 national elections, former President Gonzalo Sánchez de Lozada (MNR) placed first with 22.5% of the vote, followed by coca-advocate and native peasant-leader Evo Morales (Movement Toward Socialism, MAS) with 20.9%. A July agreement between the MNR and the fourth-place MIR, which had again been led in the election by former President Jaime Paz Zamora, virtually ensured the election of Sánchez de Lozada in the congressional run-off, and on 6 August he was sworn in for the second time. The MNR platform featured three overarching objectives: economic reactivation (and job creation), anti-corruption, and social inclusion.
 
-Evo_Morales_in_Ecuador_(cropped).jpg]]
+]]
 
 In 2003 the Bolivian gas conflict broke out. On 12 October 2003 the government imposed martial law in El Alto after 16 people were shot by the police and several dozen wounded in violent clashes. Faced with the option of resigning or more bloodshed, Sanchez de Lozada offered his resignation in a letter to an emergency session of Congress. After his resignation was accepted and his vice president, Carlos Mesa, invested, he left on a commercially scheduled flight for the United States.
 
@@ -106,14 +104,14 @@ The country's internal situation became unfavorable for such political action on
 
 2005 Morales Presidency and re-nationalization of petroleum assets
 
-Evomorales_20050122_posesion01.jpg Evo Morales won the 2005 presidential election with 53.7% of the votes, an absolute majority, unusual in Bolivian elections. On 1 May 2006, Morales caused controversy when he announced his intent to re-nationalize Bolivian hydrocarbon assets. Fulfilling a campaign promise, on 6 August 2006, Morales opened the Bolivian Constituent Assembly to begin writing a new constitution aimed at giving more power to the indigenous majority.[40]
+Evo Morales won the 2005 presidential election with 53.7% of the votes, an absolute majority, unusual in Bolivian elections. On 1 May 2006, Morales caused controversy when he announced his intent to re-nationalize Bolivian hydrocarbon assets. Fulfilling a campaign promise, on 6 August 2006, Morales opened the Bolivian Constituent Assembly to begin writing a new constitution aimed at giving more power to the indigenous majority.[40]
 
 In August 2007, more conflicts arose in Sucre, as the city demanded the discussion of the seat of government inside the assembly, hoping the executive and legislative branches could return to the city, but the assembly and the government said this demand was overwhelmingly impractical and politically undesirable. In May 2008, Evo Morales was a signatory to the UNASUR Constitutive Treaty of the Union of South American Nations. In the 2009 national general elections, Evo Morales was re-elected with 64.22% of the vote. His party, Movement for Socialism, also won a two-thirds majority in both houses of the National Congress.
 
 
 Geography
 
-Copacabana,_Lake_Titicaca_(4088820782).jpg, in the Bolivian side of Lake Titicaca.]] Satellite_image_of_Bolivia_in_June_2002.jpg Altiplano.jpg SolDeManana(2012).jpg.]] Amazonia_boliviana_desde_el_aire.jpg seen in Pando Department, Northern Bolivia.]]
+, in the Bolivian side of Lake Titicaca.]] .]] seen in Pando Department, Northern Bolivia.]]
 
 Bolivia is located in the central zone of South America, between 57°26'–69°38'W and 9°38'–22°53'S. With an area of , Bolivia is the world's 28th-largest country, and the fifth largest country in South America,[41] extending from the Central Andes through part of the _Gran Chaco_, Pantanal and as far as the Amazon. The geographic center of the country is the so-called _Puerto Estrella_ ("Star Port") on the Río Grande, in Ñuflo de Chávez Province, Santa Cruz Department.
 
@@ -133,11 +131,11 @@ Bolivia has three drainage basins:
 
 Geology
 
-Bolivia_prec.tif Koppen-Geiger_Map_BOL_present.svg The geology of Bolivia comprises a variety of different lithologies as well as tectonic and sedimentary environments. On a synoptic scale, geological units coincide with topographical units. Most elementally, the country is divided into a mountainous western area affected by the subduction processes in the Pacific and an eastern lowlands of stable platforms and shields.
+The geology of Bolivia comprises a variety of different lithologies as well as tectonic and sedimentary environments. On a synoptic scale, geological units coincide with topographical units. Most elementally, the country is divided into a mountainous western area affected by the subduction processes in the Pacific and an eastern lowlands of stable platforms and shields.
 
 Climate
 
-Pista_de_esquí_de_Chacaltaya_Bolivia.jpg Ski Resort, La Paz Department]] The climate of Bolivia varies drastically from one eco-region to the other, from the tropics in the eastern _llanos_ to a polar climate in the western Andes. The summers are warm, humid in the east and dry in the west, with rains that often modify temperatures, humidity, winds, atmospheric pressure and evaporation, yielding very different climates in different areas. When the climatological phenomenon known as _El Niño_[43][44] takes place, it causes great alterations in the weather. Winters are very cold in the west, and it snows in the mountain ranges, while in the western regions, windy days are more common. The autumn is dry in the non-tropical regions.
+Ski Resort, La Paz Department]] The climate of Bolivia varies drastically from one eco-region to the other, from the tropics in the eastern _llanos_ to a polar climate in the western Andes. The summers are warm, humid in the east and dry in the west, with rains that often modify temperatures, humidity, winds, atmospheric pressure and evaporation, yielding very different climates in different areas. When the climatological phenomenon known as _El Niño_[43][44] takes place, it causes great alterations in the weather. Winters are very cold in the west, and it snows in the mountain ranges, while in the western regions, windy days are more common. The autumn is dry in the non-tropical regions.
 
 -   _Llanos_. A humid tropical climate with an average temperature of . The wind coming from the Amazon rainforest causes significant rainfall. In May, there is low precipitation because of dry winds, and most days have clear skies. Even so, winds from the south, called _surazos_, can bring cooler temperatures lasting several days.
 -   _Altiplano_. Desert-Polar climates, with strong and cold winds. The average temperature ranges from 15 to 20 °C. At night, temperatures descend drastically to slightly above 0 °C, while during the day, the weather is dry and solar radiation is high. Ground frosts occur every month, and snow is frequent.
@@ -167,14 +165,12 @@ Bolivia has more than 2,900 animal species, including 398 mammals, over 1,400 bi
 
 Bolivia has gained global attention for its 'Law of the Rights of Mother Earth', which accords nature the same rights as humans.[53]
 
-Samaipata,_Bolivia.jpg
-
 ]]
 
 
 Politics and government
 
-LaPaz_Plaza_Pedro_Di_Murillo_10.2004.jpg at the Plaza Murillo in central La Paz]]
+at the Plaza Murillo in central La Paz]]
 
 Bolivia has been governed by democratically elected governments since 1982; prior to that, it was governed by various dictatorships. Presidents Hernán Siles Zuazo (1982–85) and Víctor Paz Estenssoro (1985–89) began a tradition of ceding power peacefully which has continued, although two presidents have stepped down in the face of popular protests: Gonzalo Sánchez de Lozada in 2003 and Carlos Mesa in 2005.
 
@@ -186,7 +182,7 @@ The executive branch is headed by a president and vice president, and consists o
 
 The _Asamblea Legislativa Plurinacional_ (Plurinational Legislative Assembly or National Congress) has two chambers. The _Cámara de Diputados_ (Chamber of Deputies) has 130 members elected to five-year terms, seventy from single-member districts (_circunscripciones_), sixty by proportional representation, and seven by the minority indigenous peoples of seven departments. The _Cámara de Senadores_ (Chamber of Senators) has 36 members (four per department). Members of the Assembly are elected to five-year terms. The body has its headquarters on the Plaza Murillo in La Paz, but also holds honorary sessions elsewhere in Bolivia. The Vice President serves as titular head of the combined Assembly.
 
-20170805_Bolivia_1195_crop_Sucre_sRGB_(26204170499).jpg]]
+]]
 
 The judiciary consists of the Supreme Court, the Constitutional Tribunal, the Judiciary Council, Agrarian and Environmental Tribunal, and District (departmental) and lower courts. In October 2011, Bolivia held its first judicial elections to choose members of the national courts by popular vote, a reform brought about by Evo Morales.
 
@@ -225,27 +221,27 @@ According to what is established by the Bolivian Political Constitution, the Law
 
 There are four levels of decentralization: Departmental government, constituted by the _Departmental Assembly_, with rights over the legislation of the department. The governor is chosen by universal suffrage. Municipal government, constituted by a _Municipal Council_, with rights over the legislation of the municipality. The mayor is chosen by universal suffrage. Regional government, formed by several provinces or municipalities of geographical continuity within a department. It is constituted by a _Regional Assembly_. Original indigenous government, self-governance of original indigenous people on the ancient territories where they live.
 
-                                                            No.          Department                Capital
-  --------------------------------------------------------- ------------ ------------------------- ---------
-  Bolivia,_administrative_divisions_-_Nmbrs_-_colored.svg
-  1                                                         Pando        Cobija
-  2                                                         La Paz       La Paz
-  3                                                         Beni         Trinidad
-  4                                                         Oruro        Oruro
-  5                                                         Cochabamba   Cochabamba
-  6                                                         Santa Cruz   Santa Cruz de la Sierra
-  7                                                         Potosí       Potosí
-  8                                                         Chuquisaca   Sucre
-  9                                                         Tarija       Tarija
+      No.          Department                Capital
+  --- ------------ ------------------------- ---------
+
+  1   Pando        Cobija
+  2   La Paz       La Paz
+  3   Beni         Trinidad
+  4   Oruro        Oruro
+  5   Cochabamba   Cochabamba
+  6   Santa Cruz   Santa Cruz de la Sierra
+  7   Potosí       Potosí
+  8   Chuquisaca   Sucre
+  9   Tarija       Tarija
 
 
 Economy
 
-Tree_map_export_2009_Bolivia.jpeg Edificios_de_la_paz_en_Cotahuma.png Bolivia's estimated 2012 gross domestic product (GDP) totaled $27.43 billion at official exchange rate and $56.14 billion at purchasing power parity. Despite a series of mostly political setbacks, between 2006 and 2009 the Morales administration has spurred growth higher than at any point in the preceding 30 years. The growth was accompanied by a moderate decrease in inequality.[67] A surplus budget of 1.7% (GDP) was obtained by 2012, the government runs surpluses since Morales administration reflecting a prudent economic management.
+Bolivia's estimated 2012 gross domestic product (GDP) totaled $27.43 billion at official exchange rate and $56.14 billion at purchasing power parity. Despite a series of mostly political setbacks, between 2006 and 2009 the Morales administration has spurred growth higher than at any point in the preceding 30 years. The growth was accompanied by a moderate decrease in inequality.[67] A surplus budget of 1.7% (GDP) was obtained by 2012, the government runs surpluses since Morales administration reflecting a prudent economic management.
 
 A major blow to the Bolivian economy came with a drastic fall in the price of tin during the early 1980s, which impacted one of Bolivia's main sources of income and one of its major mining industries.[68] Since 1985, the government of Bolivia has implemented a far-reaching program of macroeconomic stabilization and structural reform aimed at maintaining price stability, creating conditions for sustained growth, and alleviating scarcity. A major reform of the customs service has significantly improved transparency in this area. Parallel legislative reforms have locked into place market-liberal policies, especially in the hydrocarbon and telecommunication sectors, that have encouraged private investment. Foreign investors are accorded national treatment.[69]
 
-Miners_at_Work_Potosi_(pixinn.net).jpg]]
+]]
 
 In April 2000, Hugo Banzer, the former president of Bolivia, signed a contract with Aguas del Tunari, a private consortium, to operate and improve the water supply in Bolivia's third-largest city, Cochabamba. Shortly thereafter, the company tripled the water rates in that city, an action which resulted in protests and rioting among those who could no longer afford clean water.[70][71] Amidst Bolivia's nationwide economic collapse and growing national unrest over the state of the economy, the Bolivian government was forced to withdraw the water contract.
 
@@ -339,7 +335,7 @@ Transport
 
 Air traffic
 
-Aviones_de_BoA_en_Cochabamba.jpg (BoA) is a state-owned company and the country's largest airline. Two BoA Boeing 737-300s parked at Jorge Wilstermann International Airport.]] The General Directorate of Civil Aeronautics (Dirección General de Aeronáutica Civil—DGAC) formerly part of the FAB, administers a civil aeronautics school called the National Institute of Civil Aeronautics (Instituto Nacional de Aeronáutica Civil—INAC), and two commercial air transport services TAM and TAB.
+(BoA) is a state-owned company and the country's largest airline. Two BoA Boeing 737-300s parked at Jorge Wilstermann International Airport.]] The General Directorate of Civil Aeronautics (Dirección General de Aeronáutica Civil—DGAC) formerly part of the FAB, administers a civil aeronautics school called the National Institute of Civil Aeronautics (Instituto Nacional de Aeronáutica Civil—INAC), and two commercial air transport services TAM and TAB.
 
 TAM – Transporte Aéreo Militar (the Bolivian Military Airline) is an airline based in La Paz, Bolivia. It is the civilian wing of the 'Fuerza Aérea Boliviana' (the Bolivian Air Force), operating passenger services to remote towns and communities in the North and Northeast of Bolivia. TAM (a.k.a. TAM Group 71) has been a part of the FAB since 1945.
 
@@ -351,7 +347,7 @@ The three largest, and main international airports in Bolivia are El Alto Intern
 
 Railways
 
-Railways_in_Bolivia.png)}}
+)}}
 ━━━ Routes with passenger traffic
 ━━━ Routes in usable state
 ·········· Unusable or dismantled routes]]
@@ -387,8 +383,6 @@ Demographics
 |            |
 +------------+
 
-Centro_de_La_Paz_en_Bolivia.JPG
-
 According to the last two censuses carried out by the Bolivian National Statistics Institute _(Instituto Nacional de Estadística_, INE), the population increased from 8,274,325 (from which 4,123,850 were men and 4,150,475 were women) in 2001 to 10,027,254 in 2012.[81]
 
 In the last fifty years the Bolivian population has tripled, reaching a population growth rate of 2.25%. The growth of the population in the inter-census periods (1950–1976 and 1976–1992) was approximately 2.05%, while between the last period, 1992–2001, it reached 2.74% annually.
@@ -402,8 +396,6 @@ Genetics
 According to a genetic study done on Bolivians, average values of Native American, European and African ancestry are 86%, 12.5%, and 1.5%, in individuals from La Paz and 76.8%, 21.4%, and 1.8% in individuals from Chuquisaca; respectively.[82]
 
 Ethnic and racial classifications
-
-Macheteros.JPG
 
 The vast majority of Bolivians are mestizo (with the indigenous component higher than the European one), although the government has not included cultural self-identification "mestizo" in the November 2012 census.[83] There are approximately three dozen native groups totaling approximately half of the Bolivian population – the largest proportion of indigenous people in Latin America. Exact numbers vary based on the wording of the ethnicity question and the available response choices. For example, the 2001 census did not provide the racial category "mestizo" as a response choice, resulting in a much higher proportion of respondents identifying themselves as belonging to one of the available indigenous ethnicity choices. Mestizos are distributed throughout the entire country and make up 26% of the Bolivian population. Most people assume their _mestizo_ identity while at the same time identifying themselves with one or more indigenous cultures. A 2018 estimate of racial classification put mestizo (mixed white and Amerindian) at 68%, indigenous at 20%, white at 5%, cholo at 2%, black at 1%, other at 4%, while 2% were unspecified; 44% attributed themselves to some indigenous group, predominantly the linguistic categories of Quechuas or Aymaras.[84] Whites comprised about 14% of the population in 2006, and are usually concentrated in the largest cities: La Paz, Santa Cruz de la Sierra and Cochabamba, but as well in some minor cities like Tarija and Sucre. The ancestry of Whites and the White ancestry of Mestizos lies within the continents of Europe and Middle East, most notably Spain, Italy, Germany, Croatia, Lebanon and Syria. In the Santa Cruz Department, there are several dozen colonies of German-speaking Mennonites from Russia totaling around 40,000 inhabitants ().[85]
 
@@ -432,7 +424,7 @@ The Indigenous peoples of Bolivia can be divided into two categories of ethnic g
 
 Language
 
-Pueblos_originarios_de_Bolivia.png Bolivia has great linguistic diversity as a result of its multiculturalism. The Constitution of Bolivia recognizes 36 official languages besides Spanish: Aymara, Araona, Baure, Bésiro, Canichana, Cavineño, Cayubaba, Chácobo, Chimán, Ese Ejja, Guaraní, Guarasu'we, Guarayu, Itonama, Leco, Machajuyai-Kallawaya, Machineri, Maropa, Mojeño-Ignaciano, Mojeño-Trinitario, Moré, Mosetén, Movima, Pacawara, Puquina, Quechua, Sirionó, Tacana, Tapieté, Toromona, Uru-Chipaya, Weenhayek, Yaminawa, Yuki, Yuracaré, and Zamuco.[89]
+Bolivia has great linguistic diversity as a result of its multiculturalism. The Constitution of Bolivia recognizes 36 official languages besides Spanish: Aymara, Araona, Baure, Bésiro, Canichana, Cavineño, Cayubaba, Chácobo, Chimán, Ese Ejja, Guaraní, Guarasu'we, Guarayu, Itonama, Leco, Machajuyai-Kallawaya, Machineri, Maropa, Mojeño-Ignaciano, Mojeño-Trinitario, Moré, Mosetén, Movima, Pacawara, Puquina, Quechua, Sirionó, Tacana, Tapieté, Toromona, Uru-Chipaya, Weenhayek, Yaminawa, Yuki, Yuracaré, and Zamuco.[89]
 
 Spanish is the most spoken official language in the country, according to the 2001 census; as it is spoken by two-thirds of the population. All legal and official documents issued by the State, including the Constitution, the main private and public institutions, the media, and commercial activities, are in Spanish.
 
@@ -461,11 +453,11 @@ Santa Cruz | pop_1 = 1,453,549 |img_1 = Northern Skyline Santa Cruz.jpg | city_2
 
 Culture
 
-Niños_ejecutando_una_tarkeada.jpg]] Bolivian culture has been heavily influenced by the Quechua, the Aymara, as well as the popular cultures of Latin America as a whole.
+]] Bolivian culture has been heavily influenced by the Quechua, the Aymara, as well as the popular cultures of Latin America as a whole.
 
 The cultural development is divided into three distinct periods: precolumbian, colonial, and republican. Important archaeological ruins, gold and silver ornaments, stone monuments, ceramics, and weavings remain from several important pre-Columbian cultures. Major ruins include Tiwanaku, El Fuerte de Samaipata, Inkallaqta and Iskanawaya. The country abounds in other sites that are difficult to reach and have seen little archaeological exploration.[101]
 
-Diablada_oruro_fraternidad.jpg, dance primeval, typical and main of Carnival of Oruro a Masterpiece of the Oral and Intangible Heritage of Humanity since 2001 in Bolivia (_File: Fraternidad Artística y Cultural "La Diablada"_)]]
+, dance primeval, typical and main of Carnival of Oruro a Masterpiece of the Oral and Intangible Heritage of Humanity since 2001 in Bolivia (_File: Fraternidad Artística y Cultural "La Diablada"_)]]
 
 The Spanish brought their own tradition of religious art which, in the hands of local native and mestizo builders and artisans, developed into a rich and distinctive style of architecture, painting, and sculpture known as "Mestizo Baroque". The colonial period produced not only the paintings of Pérez de Holguín, Flores, Bitti, and others but also the works of skilled but unknown stonecutters, woodcarvers, goldsmiths, and silversmiths. An important body of Native Baroque religious music of the colonial period was recovered and has been performed internationally to wide acclaim since 1994.[102]
 

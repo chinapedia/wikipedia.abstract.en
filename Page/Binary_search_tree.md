@@ -1,5 +1,3 @@
-Binary_search_tree.svg
-
 In computer science, BINARY SEARCH TREES (BST), sometimes called ORDERED or SORTED BINARY TREES, are a particular type of container: a data structure that stores "items" (such as numbers, names etc.) in memory. They allow fast lookup, addition and removal of items, and can be used to implement either dynamic sets of items, or lookup tables that allow finding an item by its _key_ (e.g., finding the phone number of a person by name).
 
 Binary search trees keep their keys in sorted order, so that lookup and other operations can use the principle of binary search: when looking for a key in a tree (or a place to insert a new key), they traverse the tree from root to leaf, making comparisons to keys stored in the nodes of the tree and deciding, on the basis of the comparison, to continue searching in the left or right subtrees. On average, this means that each comparison allows the operations to skip about half of the tree, so that each lookup, insertion or deletion takes time proportional to the logarithm of the number of items stored in the tree. This is much better than the linear time required to find items by key in an (unsorted) array, but slower than the corresponding operations on hash tables.
@@ -125,8 +123,6 @@ When removing a node from a binary _search_ tree it is mandatory to maintain the
 -   Deleting a node with no children: simply remove the node from the tree.
 -   Deleting a node with one child: remove the node and replace it with its child.
 -   Deleting a node with two children: call the node to be deleted _D_. Do not delete _D_. Instead, choose either its in-order predecessor node or its in-order successor node as replacement node _E_ (s. figure). Copy the user values of _E_ to _D_.[4] If _E_ does not have a child simply remove _E_ from its previous parent _G_. If _E_ has a child, say _F_, it is a right child. Replace _E_ with _F_ at _E_'s parent.
-
-AVL-tree-delete.svg
 
 In all cases, when _D_ happens to be the root, make the replacement node root again.
 
@@ -276,7 +272,7 @@ D. A. Heger (2004)[6] presented a performance comparison of binary search trees.
 
 Optimal binary search trees
 
-BinaryTreeRotations.svg If we do not plan on modifying a search tree, and we know exactly how often each item will be accessed, we can construct[7] an _optimal binary search tree_, which is a search tree where the average cost of looking up an item (the _expected search cost_) is minimized.
+If we do not plan on modifying a search tree, and we know exactly how often each item will be accessed, we can construct[7] an _optimal binary search tree_, which is a search tree where the average cost of looking up an item (the _expected search cost_) is minimized.
 
 Even if we only have estimates of the search costs, such a system can considerably speed up lookups on average. For example, if you have a BST of English words used in a spell checker, you might balance the tree based on word frequency in text corpora, placing words like _the_ near the root and words like _agerasia_ near the leaves. Such a tree might be compared with Huffman trees, which similarly seek to place frequently used items near the root in order to produce a dense information encoding; however, Huffman trees store data elements only in leaves, and these elements need not be ordered.
 

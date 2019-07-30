@@ -30,7 +30,7 @@ Haggai reports that three weeks after his first prophecy, the rebuilding of the 
 
 Outline
 
-CodexGigas_116_MinorProphets.jpg (Latin translation, early 13th century)]]
+(Latin translation, early 13th century)]]
 
 1.  Divine Announcement: The Command to Rebuild the Temple ( )
     1.  Introduction: Reluctant Rebuilders ( )

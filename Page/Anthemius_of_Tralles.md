@@ -12,7 +12,7 @@ Mathematics
 
 Anthemius was a capable mathematician. In the course of his treatise "On Burning Glasses", intended to facilitate the construction of surfaces to reflect light to a single point, he described the string construction of the ellipse and assumed a property of ellipses not found in Apollonius of Perga's _Conics_: the equality of the angles subtended at a focus by two tangents drawn from a point. His work also includes the first practical use of the directrix: having given the focus and a double ordinate, he used the focus and directrix to obtain any number of points on a parabola. This work was later known to Arab mathematicians such as Alhazen.
 
-Eutocius's commentary on Apollonius's _Conics_ was dedicated to Anthemius. Hagia_Sophia_Mars_2013.jpg, 2013]]
+Eutocius's commentary on Apollonius's _Conics_ was dedicated to Anthemius. , 2013]]
 
 
 Architecture

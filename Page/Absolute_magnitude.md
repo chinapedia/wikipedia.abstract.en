@@ -107,7 +107,7 @@ For planets and asteroids a definition of absolute magnitude that is more meanin
 
 Apparent magnitude
 
-Phase_angle_explanation.png.]] The absolute magnitude H can be used to calculate the apparent magnitude m of a body. For an object reflecting sunlight, H and m are connected by the relation
+.]] The absolute magnitude H can be used to calculate the apparent magnitude m of a body. For an object reflecting sunlight, H and m are connected by the relation
 
 $$m = H + 5 \log_{10}{\left(\frac{d_{BS}d_{BO}}{d_{0}^{2}}\right)} - 2.5 \log_{10}{q(\alpha)},$$
 where α is the phase angle, the angle between the body-Sun and body–observer lines. q(α) is the phase integral (the integration of reflected light; a number in the 0 to 1 range).[14]
@@ -132,7 +132,7 @@ The value of q(α) depends on the properties of the reflecting surface, in parti
 
 Planets
 
-Diffuse_reflector_sphere_disk.png Diffuse_reflection_model_phase_functions.svg Planetary bodies can be approximated reasonably well as ideal diffuse reflecting spheres. Let α be the phase angle in degrees, then[16]
+Planetary bodies can be approximated reasonably well as ideal diffuse reflecting spheres. Let α be the phase angle in degrees, then[16]
 
 $$q(\alpha) = \frac23 \left(\left(1-\frac{\alpha}{180^{\circ}}\right)\cos{\alpha}+\frac{1}{\pi}\sin{\alpha}\right).$$
 A full-phase diffuse sphere reflects two-thirds as much light as a diffuse flat disk of the same diameter. A quarter phase (α = 90^(∘)) has $\frac{1}{\pi}$ as much light as full phase (α = 0^(∘)).
@@ -186,7 +186,7 @@ Earth's albedo varies by a factor of 6, from 0.12 in the cloud-free case to 0.76
 
 Asteroids
 
-Ceres_opposition_effect.png, imaged by the Dawn spacecraft at phase angles of 0°, 7° and 33°. The left image at 0° phase angle shows the brightness surge due to the opposition effect.]] Asteroid_HG_phase_integrals.svg Slope_parameter_G.png If an object has an atmosphere, it reflects light more or less isotropically in all directions, and its brightness can be modelled as a diffuse reflector. Atmosphereless bodies, like asteroids or moons, tend to reflect light more strongly to the direction of the incident light, and their brightness increases rapidly as the phase angle approaches 0^(∘). This rapid brightening near opposition is called the opposition effect. Its strength depends on the physical properties of the body's surface, and hence it differs from asteroid to asteroid.[25]
+, imaged by the Dawn spacecraft at phase angles of 0°, 7° and 33°. The left image at 0° phase angle shows the brightness surge due to the opposition effect.]] If an object has an atmosphere, it reflects light more or less isotropically in all directions, and its brightness can be modelled as a diffuse reflector. Atmosphereless bodies, like asteroids or moons, tend to reflect light more strongly to the direction of the incident light, and their brightness increases rapidly as the phase angle approaches 0^(∘). This rapid brightening near opposition is called the opposition effect. Its strength depends on the physical properties of the body's surface, and hence it differs from asteroid to asteroid.[25]
 
 In 1985, the IAU adopted the semi-empirical HG-system, based on two parameters H and G called _absolute magnitude_ and _slope_, to model the opposition effect for the ephemerides published by the Minor Planet Center.[26]
 

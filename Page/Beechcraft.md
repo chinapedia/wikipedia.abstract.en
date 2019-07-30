@@ -3,13 +3,11 @@ BEECHCRAFT is a brand of Textron Aviation[1] since 2014. Originally, it was a br
 
 History
 
-beech.bonanza.arp.750pix.jpg]]
+]]
 
 Beech Aircraft Company was founded in Wichita, Kansas, in 1932 by Walter Beech as president, his wife Olive Ann Beech as secretary, Ted A. Wells as vice president of engineering, K.K. Shaul as treasurer, and investor C.G. Yankey as vice president. [7] The company began operations in an idle Cessna factory. With designer Ted Wells, they developed the first aircraft under the Beechcraft name, the classic Beechcraft Model 17 Staggerwing, which first flew in November 1932. Over 750 Staggerwings were built, with 270 manufactured for the United States Army Air Forces during World War II.
 
 Beechcraft was not Beech's first company, as he had previously formed Travel Air in 1924 and the design numbers used at Beechcraft followed the sequence started at Travel Air, and were then continued at Curtiss-Wright, after Travel Air had been absorbed into the much larger company in 1929. Beech became president of the Curtiss-Wright's airplane division and VP of sales, but became dissatisfied with being so far removed from aircraft production and quit to form Beechcraft, using the original Travel Air facilities and employing many of the same people. Model numbers prior to 11/11000 were built under the "Travel Air" name, while Curtiss-Wright built the CW-12, 14, 15, and 16 as well as previous successful Travel Air models (mostly the model 4).
-
-Beech_Aircraft_Corporation_ad_Model_17_"Staggerwing"_1937.jpg
 
 In 1942 Beech won its first Army-Navy "E" Award production award and became one of the elite five percent of war contracting firms in the country to win five straight awards for production efficiency, mostly for the production of the Beechcraft Model 18 which remains in widespread use worldwide. Beechcraft ranked 69th among United States corporations in the value of World War II military production contracts.[8]
 
@@ -28,7 +26,7 @@ On December 26, 2013, Textron agreed to purchase Beechcraft, including the disco
 
 Products
 
-As of January 2019, Beechcraft is producing the following models:beech.staggerwing.750pix.jpg]] NASA-2000Starship.jpg]] Air_Labrador_Beech_1900D.jpg
+As of January 2019, Beechcraft is producing the following models:]] ]]
 
 -   Beechcraft Bonanza series - Single-engined piston general aviation aircraft
 -   Beechcraft Baron - Twin-engined piston utility aircraft

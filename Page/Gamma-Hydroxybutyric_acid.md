@@ -18,7 +18,7 @@ GHB has been shown to reliably increase slow-wave sleep[13][14][15] and decrease
 
 Recreational use
 
-Gamma-hydroxybutyrate.jpg Rational_harm_assessment_of_drugs_radar_plot.svg regarding 20 popular recreational drugs. GHB was ranked 15th in dependence, 19th in physical harm, and 14th in social harm.[18]]] GHB is a central nervous system depressant used as an intoxicant.[19] It has many street names. Its effects have been described anecdotally as comparable with ethanol (alcohol) and MDMA use, such as euphoria, disinhibition, enhanced libido and empathogenic states. At higher doses, GHB may induce nausea, dizziness, drowsiness, agitation, visual disturbances, depressed breathing, amnesia, unconsciousness, and death. One potential cause of death from GHB consumption is polydrug toxicity. Co-administration with other CNS depressants such as alcohol or benzodiazepines can result in an additive effect (potentiation), as they all bind to gamma-aminobutyric acid (or "GABA") receptor sites. The effects of GHB can last from 1.5 to 4 hours, or longer if large doses have been consumed.[20] Consuming GHB with alcohol can cause respiratory arrest and vomiting in combination with unrouseable sleep, which can contribute to a lethal outcome.[21][22]
+regarding 20 popular recreational drugs. GHB was ranked 15th in dependence, 19th in physical harm, and 14th in social harm.[18]]] GHB is a central nervous system depressant used as an intoxicant.[19] It has many street names. Its effects have been described anecdotally as comparable with ethanol (alcohol) and MDMA use, such as euphoria, disinhibition, enhanced libido and empathogenic states. At higher doses, GHB may induce nausea, dizziness, drowsiness, agitation, visual disturbances, depressed breathing, amnesia, unconsciousness, and death. One potential cause of death from GHB consumption is polydrug toxicity. Co-administration with other CNS depressants such as alcohol or benzodiazepines can result in an additive effect (potentiation), as they all bind to gamma-aminobutyric acid (or "GABA") receptor sites. The effects of GHB can last from 1.5 to 4 hours, or longer if large doses have been consumed.[20] Consuming GHB with alcohol can cause respiratory arrest and vomiting in combination with unrouseable sleep, which can contribute to a lethal outcome.[21][22]
 
 Recreational doses of 1–2 g generally provide a feeling of euphoria, and larger doses create deleterious effects such as reduced motor function and drowsiness.[23] The sodium salt of GHB has a salty taste.[24] Other salt forms such as calcium GHB and magnesium GHB have also been reported,[25] but the sodium salt is by far the most common.
 
@@ -38,8 +38,6 @@ Some athletes have used GHB or analogs because they have been marketed as being 
 
 
 Use as a date rape drug
-
-Dangerous_dietary_supplements.gif
 
 GHB became known to the general public as a date rape drug by the late 1990s.[33][34] GHB is colourless and odorless and has been described as "very easy to add to drinks".[35] When unobtrusively administered in a drink the victim will quickly feel groggy and sleepy, and upon recovery may have an impaired ability to recall memories of events that occurred during the period of intoxication. Consequently, the evidence and the identification of the perpetrator of the rape is often difficult.[36][37]
 
@@ -142,8 +140,6 @@ Recently, analogs of GHB, such as 4-hydroxy-4-methylpentanoic acid (UMB68) have 
 
 Other prodrug ester forms of GHB have also rarely been encountered by law enforcement, including 1,4-butanediol diacetate (BDDA/DABD), methyl-4-acetoxybutanoate (MAB), and ethyl-4-acetoxybutanoate (EAB), but these are, in general, covered by analogue laws in jurisdictions where GHB is illegal, and little is known about them beyond their delayed onset and longer duration of action. The intermediate compound γ-hydroxybutyraldehyde (GHBAL) is also a prodrug for GHB; however, as with all aliphatic aldehydes this compound is caustic and is strong-smelling and foul-tasting; actual use of this compound as an intoxicant is likely to be unpleasant and result in severe nausea and vomiting.
 
-GHB_metabolic_pathway.svg
-
 Both of the metabolic breakdown pathways shown for GHB can run in either direction, depending on the concentrations of the substances involved, so the body can make its own GHB either from GABA or from succinic semialdehyde. Under normal physiological conditions, the concentration of GHB in the body is rather low, and the pathways would run in the reverse direction to what is shown here to produce endogenous GHB. However, when GHB is consumed for recreational or health promotion purposes, its concentration in the body is much higher than normal, which changes the enzyme kinetics so that these pathways operate to metabolise GHB rather than producing it.
 
 
@@ -161,8 +157,6 @@ A popular children's toy, Bindeez (also known as Aqua Dots, in the United States
 
 
 Legal status
-
-Alcover_17,5_-_Gamma-Hydroxybutyric_acid.JPG
 
 In the United States, GHB was placed on Schedule I of the Controlled Substances Act in March 2000. However, used in sodium oxybate under an IND or NDA from the US FDA, it is considered a Schedule III substance but with Schedule I trafficking penalties, one of several drugs that are listed in multiple schedules.[133][134]
 

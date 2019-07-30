@@ -1,7 +1,5 @@
 A HEMICELLULOSE (also known as POLYOSE) is one of a number of heteropolymer (matrix polysaccharides), such as arabinoxylans, present along with cellulose in almost all terrestrial plant cell walls.[1] While cellulose is crystalline, strong, and resistant to hydrolysis, hemicelluloses have random, amorphous structure with little strength. They are easily hydrolyzed by dilute acid or base as well as a myriad of hemicellulase enzymes.
 
-Hemicellulose.png
-
 
 Composition
 
@@ -17,7 +15,7 @@ Unlike cellulose, hemicelluloses consist of shorter chains – 500–3,000 sugar
 
 Native structure
 
-Plant_cell_wall_diagram-en.svg Hemicelluloses are embedded in the cell walls of plants, sometimes in chains that form a 'ground' – they bind with pectin to cellulose to form a network of cross-linked fibres.
+Hemicelluloses are embedded in the cell walls of plants, sometimes in chains that form a 'ground' – they bind with pectin to cellulose to form a network of cross-linked fibres.
 
 
 Biosynthesis

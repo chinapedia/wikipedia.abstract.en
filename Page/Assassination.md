@@ -1,11 +1,11 @@
-Lee_Harvey_Oswald_arrest_card_1963.jpg, the individual allegedly responsible for the assassination of United States President John F. Kennedy on November 22, 1963. Oswald himself was assassinated two days later by Jack Ruby, the first such event to receive wide television coverage.]] ASSASSINATION is the act of killing a prominent person for either political, religious or monetary reasons.[1]
+, the individual allegedly responsible for the assassination of United States President John F. Kennedy on November 22, 1963. Oswald himself was assassinated two days later by Jack Ruby, the first such event to receive wide television coverage.]] ASSASSINATION is the act of killing a prominent person for either political, religious or monetary reasons.[1]
 
 An assassination may be prompted by religious, political or military motives. It is an act that may be done for financial gain, to avenge a grievance, from a desire to acquire fame or notoriety, or because of a military, security, insurgent or secret police group's command to carry out the homicide. Acts of assassination have been performed since ancient times.
 
 
 Etymology
 
-Assassination_of_Nizam_al-Mulk.jpg, the _de facto_ ruler of the Seljuq Empire, by an Assassin.]] The word _assassin_ is often believed to derive from the word _hashshashin_ (Arabic: حشّاشين, ħashshāshīyīn, also hashishin, hashashiyyin, or assassins),[2] and shares its etymological roots with _hashish_ ( or ; from Arabic: __).[3] It referred to a group of Nizari Shia Muslims who worked against various political targets.
+, the _de facto_ ruler of the Seljuq Empire, by an Assassin.]] The word _assassin_ is often believed to derive from the word _hashshashin_ (Arabic: حشّاشين, ħashshāshīyīn, also hashishin, hashashiyyin, or assassins),[2] and shares its etymological roots with _hashish_ ( or ; from Arabic: __).[3] It referred to a group of Nizari Shia Muslims who worked against various political targets.
 
 Founded by Hassan-i Sabbah, the Assassins were active in the fortress of Alamut in Persia from the 8th to the 14th centuries, and later expanded by capturing forts in Syria. The group killed members of the Abbasid, Seljuq, Fatimid, and Christian Crusader elite for political and religious reasons.[4]
 
@@ -16,17 +16,17 @@ The earliest known use of the verb "to assassinate" in printed English was by Ma
 
 Use in history
 
-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg'', by Vincenzo Camuccini]]
+'', by Vincenzo Camuccini]]
 
 Ancient to medieval times
 
-Giaele_e_Sisara.JPG.]] Assassination is one of the oldest tools of power politics. It dates back at least as far as recorded history.
+.]] Assassination is one of the oldest tools of power politics. It dates back at least as far as recorded history.
 
 In the Old Testament, King Joash of Judah was recorded as being assassinated by his own servants;[8] Joab assassinated Absalom, King David's son;[9] and King Sennacherib of Assyria was assassinated by his own sons.[10]
 
 Chanakya (c. 350–283 BC) wrote about assassinations in detail in his political treatise _Arthashastra_. His student Chandragupta Maurya, the founder of the Maurya Empire, later made use of assassinations against some of his enemies, including two of Alexander the Great's generals, Nicanor and Philip.[11] Other famous victims are Philip II of Macedon (336 BC), the father of Alexander the Great, and Roman consul Julius Caesar (44 BC).[12] Emperors of Rome often met their end in this way, as did many of the Muslim Shia Imams hundreds of years later. The practice was also well known in ancient China, as in Jing Ke's failed assassination of Qin king Ying Zheng in 227 BC. Whilst many assassinations were performed by individuals or small groups, there were also specialized units who used a collective group of people to perform more than one assassination. The earliest were the sicarii in 6 AD, who predated the Middle Eastern assassins and Japanese ninjas by centuries.[13][14]
 
-Wojciech_Gerson,_Śmierć_Przemysława.jpg of Poland]] BalthasarGerards.jpg of Holland.]] Jacques_Clément.jpg]] Assassination_of_Henry_IV_by_Gaspar_Bouttats.jpg]]
+of Poland]] of Holland.]] ]] ]]
 
 In the Middle Ages, regicide was rare in Western Europe, but it was a recurring theme in the Eastern Roman Empire. Blinding and strangling in the bathtub were the most commonly used procedures. With the Renaissance, tyrannicide—or assassination for personal or political reasons—became more common again in Western Europe. High medieval sources mention the assassination of King Demetrius Zvonimir (1089), dying at the hands of his own people, who objected to a proposition by the pope to go on a campaign to aid the Byzantines against the Seljuk Turks. This account is, however, contentious among historians, it being most commonly asserted that he died of natural causes. The myth of the "Curse of King Zvonimir" is based on the legend of his assassination.[15] In 1192, Conrad of Montferrat, the _de facto_ King of Jerusalem, was killed by an assassin.
 
@@ -38,7 +38,7 @@ In the modern world, the killing of important people began to become more than a
 
 In Japan, a group of assassins called the Four Hitokiri of the Bakumatsu killed a number of people, including Ii Naosuke who was the head of administration for the Tokugawa shogunate, during the Boshin War.[17] Most of the assassinations in Japan were committed with bladed weaponry, a trait that was carried on into modern history. A video-record exists of the assassination of Inejiro Asanuma, using a sword.[18]
 
-Lincoln_assassination_slide_c1900_-_Restoration.jpg, Abraham Lincoln, Mary Todd Lincoln, Clara Harris and Henry Rathbone]] In the United States, within 100 years, four presidents—Abraham Lincoln, James A. Garfield, William McKinley and John F. Kennedy—died at the hands of assassins. There have been at least 20 known attempts on U.S. presidents' lives. Huey Long, a Senator, was assassinated on September 10, 1935. Robert F. Kennedy, a Senator and a presidential candidate, was also assassinated on June 6, 1968 in the United States.
+, Abraham Lincoln, Mary Todd Lincoln, Clara Harris and Henry Rathbone]] In the United States, within 100 years, four presidents—Abraham Lincoln, James A. Garfield, William McKinley and John F. Kennedy—died at the hands of assassins. There have been at least 20 known attempts on U.S. presidents' lives. Huey Long, a Senator, was assassinated on September 10, 1935. Robert F. Kennedy, a Senator and a presidential candidate, was also assassinated on June 6, 1968 in the United States.
 
 In Austria, the assassination of Archduke Franz Ferdinand and his wife Sophie, Duchess of Hohenberg in Sarajevo on June 28, 1914, carried out by Gavrilo Princip, a Serbian national and a member of the Serbian nationalist insurgents (The Black Hand), is blamed for igniting World War I after a succession of minor conflicts, while belligerents on both sides in World War II used operatives specifically trained for assassination. Reinhard Heydrich died after an attack by British-trained Czechoslovak soldiers on behalf of the Czechoslovak government in exile in Operation Anthropoid,[19] and knowledge from decoded transmissions allowed the United States to carry out a targeted attack, killing Japanese Admiral Isoroku Yamamoto while he was travelling by plane. The Polish Home Army conducted a regular campaign of assassinations against top Nazi German officials in occupied Poland. Adolf Hitler was almost killed by his own officers, and survived various attempts by other persons and organizations (such as Operation Foxley, though this plan was never put into practice).
 
@@ -50,7 +50,7 @@ The African-American civil rights activist, Martin Luther King Jr., was assassin
 
 Cold War and beyond
 
-JFK_limousine.png minutes before his assassination, November 22, 1963.]]
+minutes before his assassination, November 22, 1963.]]
 
 Liaquat Ali Khan, the first Prime Minister of Pakistan, was assassinated by Saad Akbar, a lone assassin, in 1951. Conspiracy theorists believe his conflict with certain members of the Pakistani military (Rawalpindi conspiracy) or suppression of Communists and antagonism towards the Soviet Union, were potential reasons for his assassination.
 
@@ -62,7 +62,7 @@ Most major powers repudiated Cold War assassination tactics, though many allege 
 
 In the Philippines, the assassination of Benigno Aquino, Jr. triggered the eventual downfall of the 20-year autocratic rule of President Ferdinand Marcos. Aquino, a former Senator and a leading figure of the political opposition, was assassinated in 1983 at the Manila International Airport (now the Ninoy Aquino International Airport) upon returning home from exile. His death thrust his widow, Corazon Aquino, into the limelight and, ultimately, the presidency following the peaceful 1986 EDSA Revolution.
 
-After the Iranian Revolution of 1979, the new Islamic government of Iran began an international campaign of assassination that lasted into the 1990s. At least 162 killings in 19 countries have been linked to the senior leadership of the Islamic Republic of Iran.[23] This campaign came to an end after the Mykonos restaurant assassinations, because a German court publicly implicated senior members of the government and issued arrest warrants for Ali Fallahian, the head of the Iranian Intelligence.[24] Evidence indicates that Fallahian's personal involvement and individual responsibility for the murders were far more pervasive than his current indictment record represents.[25] Orlando_Letelier,_Washingron_DC,_1976_(de_Marcelo_Montecino).jpg, a former Chilean minister, was assassinated in Washington, D.C. in 1976. Letelier's murder was part of the U.S.-backed state terror campaign known as Operation _Condor_.[26]]]
+After the Iranian Revolution of 1979, the new Islamic government of Iran began an international campaign of assassination that lasted into the 1990s. At least 162 killings in 19 countries have been linked to the senior leadership of the Islamic Republic of Iran.[23] This campaign came to an end after the Mykonos restaurant assassinations, because a German court publicly implicated senior members of the government and issued arrest warrants for Ali Fallahian, the head of the Iranian Intelligence.[24] Evidence indicates that Fallahian's personal involvement and individual responsibility for the murders were far more pervasive than his current indictment record represents.[25] , a former Chilean minister, was assassinated in Washington, D.C. in 1976. Letelier's murder was part of the U.S.-backed state terror campaign known as Operation _Condor_.[26]]]
 
 Anwar Sadat, President of the Arab Republic of Egypt (formerly President of the United Arab Republic), was assassinated October 6, 1981, during the annual parade celebrating Operation Badr, the opening maneuver of the Yom Kippur War.
 
@@ -72,7 +72,7 @@ On August 17, 1988, President of Pakistan Gen. M. Zia ul Haq died alongside 31 o
 
 In post-Saddam Iraq, the Shiite-dominated government used death squads to perform extrajudicial executions of radical Sunni Iraqis, with some alleging that the death squads were trained by the U.S.[28][29] Concrete allegations have since surfaced that the Iranian government has actively armed and funded Shia death-squads in post-Saddam Iraq.[30]
 
-IndiraGandhi-SareeAtTimeOfDeath.JPG's blood-stained _sari_ and belongings at the time of her assassination. She was the Prime Minister of India.]] In India, Prime Ministers Indira Gandhi and her son Rajiv Gandhi (neither of whom were related to Mahatma Gandhi, who was assassinated in 1948), were assassinated in 1984 and 1991 respectively. The assassinations were linked to separatist movements in Punjab and northern Sri Lanka, respectively.
+'s blood-stained _sari_ and belongings at the time of her assassination. She was the Prime Minister of India.]] In India, Prime Ministers Indira Gandhi and her son Rajiv Gandhi (neither of whom were related to Mahatma Gandhi, who was assassinated in 1948), were assassinated in 1984 and 1991 respectively. The assassinations were linked to separatist movements in Punjab and northern Sri Lanka, respectively.
 
 In Israel, Prime Minister Yitzhak Rabin was assassinated on November 4, 1995. Yigal Amir confessed and was convicted of the crime.
 
@@ -89,7 +89,7 @@ Further motivations
 
 As military and foreign policy doctrine
 
-Hokusai-sketches---hokusai-manga-vol6-crop.jpg included espionage, sabotage and assassination.]]
+included espionage, sabotage and assassination.]]
 
 Assassination for military purposes has long been espoused – Sun Tzu, writing around 500 BC, argued in favor of using assassination in his book _The Art of War_. Nearly 2000 years later, in his book _The Prince_, Machiavelli also advises rulers to assassinate enemies whenever possible so they won't pose a threat.[32] An army and even a nation might be based upon and around a particularly strong, canny, or charismatic leader, whose loss could paralyze the ability of both to make war.
 
@@ -135,7 +135,7 @@ With the advent of effective ranged weaponry, and later firearms, the position o
 
 Explosives, especially the car bomb, become far more common in modern history, with grenades and remote-triggered land mines also used, especially in the Middle East and Balkans (the initial attempt on Archduke Franz Ferdinand's life was with a grenade). With heavy weapons, the rocket-propelled grenade (RPG) has become a useful tool given the popularity of armored cars (discussed below), while Israeli forces have pioneered the use of aircraft-mounted missiles,[39] as well as the innovative use of explosive devices.
 
-Oswaldrifle.jpg, the assassin of President John F. Kennedy]] Booth_deringer.jpg of John Wilkes Booth, the assassin of President Abraham Lincoln]] A sniper with a precision rifle is often used in fictional assassinations. However, certain pragmatic difficulties attend long-range shooting, including finding a hidden shooting position with a clear line-of-sight, detailed advance knowledge of the intended victim's travel plans, the ability to identify the target at long range, and the ability to score a first-round lethal hit at long range, usually measured in hundreds of meters. A dedicated sniper rifle is also expensive, often costing thousands of dollars because of the high level of precision machining and hand-finishing required to achieve extreme accuracy.[40]
+, the assassin of President John F. Kennedy]] of John Wilkes Booth, the assassin of President Abraham Lincoln]] A sniper with a precision rifle is often used in fictional assassinations. However, certain pragmatic difficulties attend long-range shooting, including finding a hidden shooting position with a clear line-of-sight, detailed advance knowledge of the intended victim's travel plans, the ability to identify the target at long range, and the ability to score a first-round lethal hit at long range, usually measured in hundreds of meters. A dedicated sniper rifle is also expensive, often costing thousands of dollars because of the high level of precision machining and hand-finishing required to achieve extreme accuracy.[40]
 
 Despite their comparative disadvantages, handguns are more easily concealable, and consequentially much more commonly used than rifles. Of 74 principal incidents evaluated in a major study about assassination attempts in the U.S. in the second half of the 20th century, 51% were undertaken by a handgun, 30% with a rifle or shotgun, 15% used knives, and 8% explosives (usage of multiple weapons/methods was reported in 16% of all cases).[41]
 
@@ -144,7 +144,7 @@ In the case of state-sponsored assassination, poisoning can be more easily denie
 
 Targeted killing
 
-MQ-1_Predator_unmanned_aircraft.jpg drone; sometimes used in targeted killings]] Targeted killing is the intentional killing–by a government or its agents–of a civilian or "unlawful combatant" who is not in the government's custody. The target is a person asserted to be taking part in an armed conflict or terrorism, whether by bearing arms or otherwise, who has thereby lost the immunity from being targeted that he would otherwise have under the Third Geneva Convention.[45] Note that this is a different term and concept from that of "targeted violence" as used by specialists who study violence.
+drone; sometimes used in targeted killings]] Targeted killing is the intentional killing–by a government or its agents–of a civilian or "unlawful combatant" who is not in the government's custody. The target is a person asserted to be taking part in an armed conflict or terrorism, whether by bearing arms or otherwise, who has thereby lost the immunity from being targeted that he would otherwise have under the Third Geneva Convention.[45] Note that this is a different term and concept from that of "targeted violence" as used by specialists who study violence.
 
 On the other hand, Georgetown Law Professor Gary Solis, in his 2010 book entitled _The Law of Armed Conflict: International Humanitarian Law in War_,[46] writes: "Assassinations and targeted killings are very different acts".[47] The use of the term assassination is opposed, as it denotes murder, whereas the terrorists are targeted in self-defense, and thus it is viewed as a killing, but not a crime.[48] Judge Abraham Sofaer, former federal judge for the U.S. District Court for the Southern District of New York, wrote on the subject:
 
@@ -165,7 +165,7 @@ Counter-measures
 
 Early forms
 
-Sattar_Bodyguard.JPG during Sheik Abdul Sattar Abu Risha's assassination in 2007]] One of the earliest forms of defense against assassins was employing bodyguards. Bodyguards act as a shield for the potential target, keeping lookout for potential attackers (sometimes in advance, for example on a parade route), and putting themselves in harm's way—both by simple presence, showing that physical force is available to protect the target,[71][72] and by shielding the target during any attack. To neutralize an attacker, bodyguards are typically armed as much as legal and practical concerns permit.
+during Sheik Abdul Sattar Abu Risha's assassination in 2007]] One of the earliest forms of defense against assassins was employing bodyguards. Bodyguards act as a shield for the potential target, keeping lookout for potential attackers (sometimes in advance, for example on a parade route), and putting themselves in harm's way—both by simple presence, showing that physical force is available to protect the target,[71][72] and by shielding the target during any attack. To neutralize an attacker, bodyguards are typically armed as much as legal and practical concerns permit.
 
 Notable examples of bodyguards include the Roman Praetorian Guard or the Ottoman Janissaries—though, in both cases, the protectors sometimes became assassins themselves, exploiting their power to make the head of state a virtual hostage or killing the very leaders they were supposed to protect. The fidelity of individual bodyguards is an important question as well, especially for leaders who oversee states with strong ethnic or religious divisions. Failure to realize such divided loyalties led to the assassination of Indian Prime Minister Indira Gandhi, assassinated by two Sikh bodyguards in 1984.
 
@@ -175,7 +175,7 @@ Another notable measure is the use of a body double, a person who looks like the
 
 Modern strategies
 
-Reagan_assassination_attempt_4_crop.jpg]] With the advent of gunpowder, ranged assassination (via bombs or firearms) became possible. One of the first reactions was to simply increase the guard, creating what at times might seem a small army trailing every leader; another was to begin clearing large areas whenever a leader was present, to the point where entire sections of a city might be shut down.
+]] With the advent of gunpowder, ranged assassination (via bombs or firearms) became possible. One of the first reactions was to simply increase the guard, creating what at times might seem a small army trailing every leader; another was to begin clearing large areas whenever a leader was present, to the point where entire sections of a city might be shut down.
 
 As the 20th century dawned, the prevalence and capability of assassins grew quickly, as did measures to protect against them. For the first time, armored cars or limousines were put into service for safer transport, with modern versions virtually invulnerable to small arms fire, smaller bombs and mines.[73] Bulletproof vests also began to be used, which were of limited utility, restricting movement and leaving the head unprotected – so they tended to be worn only during high-profile public events, if at all.
 
@@ -183,7 +183,7 @@ Access to famous persons, too, became more and more restricted;[74] potential vi
 
 Most modern assassinations have been committed either during a public performance or during transport, both because of weaker security and security lapses, such as with U.S. President John F. Kennedy and former Pakistani Prime Minister Benazir Bhutto, or as part of coups d'état where security is either overwhelmed or completely removed, such as with Congolese Prime Minister Patrice Lumumba.
 
-Popemobil_Mai_2007.jpg in a modified Mercedes-Benz M-Class Popemobile in São Paulo, Brazil]] The methods used for protection by famous people have sometimes evoked negative reactions by the public, with some resenting the separation from their officials or major figures. One example might be traveling in a car protected by a bubble of clear bulletproof glass, such as the MRAP-like Popemobile of Pope John Paul II, built following an attempt at his life. Politicians often resent this need for separation, sometimes sending their bodyguards away from them for personal or publicity reasons; U.S. President William McKinley did this at the public reception where he was assassinated.[75]
+in a modified Mercedes-Benz M-Class Popemobile in São Paulo, Brazil]] The methods used for protection by famous people have sometimes evoked negative reactions by the public, with some resenting the separation from their officials or major figures. One example might be traveling in a car protected by a bubble of clear bulletproof glass, such as the MRAP-like Popemobile of Pope John Paul II, built following an attempt at his life. Politicians often resent this need for separation, sometimes sending their bodyguards away from them for personal or publicity reasons; U.S. President William McKinley did this at the public reception where he was assassinated.[75]
 
 Other potential targets go into seclusion, and are rarely heard from or seen in public, such as writer Salman Rushdie. A related form of protection is the use of body doubles, people with similar builds to those they are expected to impersonate. These persons are then made up, and in some cases altered to look like the target, with the body double then taking the place of the person in high risk situations. According to Joe R. Reeder, Under Secretary of the Army from 1993 to 1997, Fidel Castro used body doubles.[76]
 

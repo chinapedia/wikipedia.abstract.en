@@ -2,7 +2,7 @@ GEORGE BERKELEY (;[1][2] 12 March 1685 14 January 1753) – known as BISHOP BERK
 
 Berkeley was the namesake of the city of Berkeley, California, which is most famous as the home of the University of California, Berkeley.
 
-Berkeley_College_(South)_at_Yale.jpg, one of Yale University's 14 residential colleges, is named after George Berkeley.]]
+, one of Yale University's 14 residential colleges, is named after George Berkeley.]]
 
 In 1709, Berkeley published his first major work, _An Essay towards a New Theory of Vision_, in which he discussed the limitations of human vision and advanced the theory that the proper objects of sight are not material objects, but light and colour.[3] This foreshadowed his chief philosophical work, _A Treatise Concerning the Principles of Human Knowledge_, in 1710, which, after its poor reception, he rewrote in dialogue form and published under the title _Three Dialogues between Hylas and Philonous_ in 1713.
 Repr. in In this collection of essays, Turbayne's work comprised two papers that had been published in Philosophy and Phenomenological Research:

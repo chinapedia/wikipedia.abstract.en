@@ -1,9 +1,9 @@
-Great_Belt_Bridge_JvdC.jpg connecting the islands of Zealand and Funen across the Great Belt was opened in 1997]] TRANSPORT IN DENMARK is developed and modern. The motorway network covers 1,111 km[1] while the railway network totals 2,667 km of operational track.[2] The Great Belt Fixed Link (opened in 1997) connecting the islands of Zealand and Funen and the New Little Belt Bridge (opened in 1970) connecting Funen and Jutland greatly improved the traffic flow across the country on both motorways and rail. The two largest airports of Copenhagen and Billund provide a variety of domestic and international connections, while ferries provide services to the Faroe Islands, Greenland, Iceland, Germany, Sweden, and Norway, as well as domestic routes servicing most Danish islands.
+connecting the islands of Zealand and Funen across the Great Belt was opened in 1997]] TRANSPORT IN DENMARK is developed and modern. The motorway network covers 1,111 km[1] while the railway network totals 2,667 km of operational track.[2] The Great Belt Fixed Link (opened in 1997) connecting the islands of Zealand and Funen and the New Little Belt Bridge (opened in 1970) connecting Funen and Jutland greatly improved the traffic flow across the country on both motorways and rail. The two largest airports of Copenhagen and Billund provide a variety of domestic and international connections, while ferries provide services to the Faroe Islands, Greenland, Iceland, Germany, Sweden, and Norway, as well as domestic routes servicing most Danish islands.
 
 
 Air
 
-Aalborg_Lufthavn_indgang.JPG In 2011, a total of appr. 28 million passengers used Danish airports.[3]
+In 2011, a total of appr. 28 million passengers used Danish airports.[3]
 
 Copenhagen Airport is the largest airport in Scandinavia, handling approximately 29m passengers per year (2016). It is located at Kastrup, 8 km south-east of central Copenhagen. It is connected by train to Copenhagen Central Station and beyond as well as to Malmö and other towns in Sweden.
 
@@ -35,7 +35,7 @@ Today Denmark's ports handle some 48 million passengers and 109 million tonnes o
 
 Passenger traffic
 
-Rødbyhavn_-_færgehavnen.JPG]] Passenger traffic is made up partly of ferry crossings within Denmark, partly of international ferry crossings and partly of cruise ship passengers. Some short ferry routes are being electrified[6] and several more may be eligible,[7] as in Norway.[8] Among the most important ports for passenger traffic (thousands of passengers per year in 2007) are:
+]] Passenger traffic is made up partly of ferry crossings within Denmark, partly of international ferry crossings and partly of cruise ship passengers. Some short ferry routes are being electrified[6] and several more may be eligible,[7] as in Norway.[8] Among the most important ports for passenger traffic (thousands of passengers per year in 2007) are:
 
 -   Helsingør 10,967
 -   Rødbyhavn 7,058
@@ -82,7 +82,7 @@ Denmark has created its own international register, called the Danish Internatio
 
 Railways
 
-Copenhagen-Central-Station-København-H.jpg.]] The largest railway operator in Denmark is Danske Statsbaner (DSB) — Danish State Railways. Arriva operates some routes in Jutland, and several other smaller operators provide local services.
+.]] The largest railway operator in Denmark is Danske Statsbaner (DSB) — Danish State Railways. Arriva operates some routes in Jutland, and several other smaller operators provide local services.
 
 The total length of operational track is 2,667 km, 640 km electrified at 25 kV AC, 946 km double track (2008).[13] 508 km is privately owned and operated. Track is standard gauge.
 

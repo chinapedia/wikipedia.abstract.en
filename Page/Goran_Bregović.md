@@ -7,7 +7,7 @@ Bregović, during his 5 decade long career, has composed for critically acclaime
 
 Early life
 
-Goran_Bregovic_2011.jpg in New York City on 19 October 2011.]] Born in Sarajevo, PR Bosnia-Herzegovina, FPR Yugoslavia to a Croat father Franjo Bregović and Serb mother Borka Perišić,[1][2] Goran grew up with a younger sister, Dajana, and younger brother, Predrag. Their father was from the Croatian region of Zagorje, specifically Sveti Petar Čvrstec village near Križevci, while their mother was born in Virovitica to parents that had shortly before her birth arrived in the nearby village of Čemernica, settling there from the village of Kazanci near Gacko in eastern Herzegovina. Goran's maternal grandfather, fought in the Royal Serbian Army at the Salonica Front during World War I and as a reward received land in Slavonia where he soon moved his family.[3]
+in New York City on 19 October 2011.]] Born in Sarajevo, PR Bosnia-Herzegovina, FPR Yugoslavia to a Croat father Franjo Bregović and Serb mother Borka Perišić,[1][2] Goran grew up with a younger sister, Dajana, and younger brother, Predrag. Their father was from the Croatian region of Zagorje, specifically Sveti Petar Čvrstec village near Križevci, while their mother was born in Virovitica to parents that had shortly before her birth arrived in the nearby village of Čemernica, settling there from the village of Kazanci near Gacko in eastern Herzegovina. Goran's maternal grandfather, fought in the Royal Serbian Army at the Salonica Front during World War I and as a reward received land in Slavonia where he soon moved his family.[3]
 
 Goran's parents met shortly after World War II in Virovitica where his mother Borka lived and his father Franjo (who fought on the Partisan side during the war) attended a Yugoslav People's Army (JNA) military school.[4] Franjo Bregović soon got his first job, teaching ballistics at a military school in Sarajevo, so the couple that at the time moved there.[5] Goran, their first child, was born in 1950 in Sarajevo.
 
@@ -18,7 +18,7 @@ Goran played violin in a music school. However, deemed untalented, he was thrown
 
 Early career
 
-Goran_Bregovic_in_Tbilisi,_Georgia.jpg, Georgia on 3 October 2007.]] Upon entering high school, teenage Bregović joined the school band Izohipse where he began on bass guitar. Soon, however, he was kicked out of that school too (this time for misbehavior - he crashed into a school-owned Mercedes-Benz). Bregović then entered grammar school and its school band Beštije (again as a bass guitar player). When he was 16, his mother left him and moved to the coast, meaning that other than having a few relatives to rely on, he mostly had to take care of himself. He did that by playing folk music in a kafana in Konjic, working on construction sites, and selling newspapers.
+, Georgia on 3 October 2007.]] Upon entering high school, teenage Bregović joined the school band Izohipse where he began on bass guitar. Soon, however, he was kicked out of that school too (this time for misbehavior - he crashed into a school-owned Mercedes-Benz). Bregović then entered grammar school and its school band Beštije (again as a bass guitar player). When he was 16, his mother left him and moved to the coast, meaning that other than having a few relatives to rely on, he mostly had to take care of himself. He did that by playing folk music in a kafana in Konjic, working on construction sites, and selling newspapers.
 
 Spotting him at a Beštije gig in 1969, Željko Bebek invited 18-year-old Bregović to play bass guitar in his band Kodeksi, which Goran gladly accepted.
 
@@ -95,7 +95,7 @@ Bregović has described himself as Yugonostalgic. He prefers to avoid delving in
 
 List of film scores
 
-Goran_Bregovic.jpg: 15 March 2006.]]
+: 15 March 2006.]]
 
 -   1977 - _Butterfly cloud_ (Leptirov oblak) - Directed by: Zdravko Randić
 -   1979 - _Personal Affairs_ (Lične stvari) - Directed by: Aleksandar Mandić

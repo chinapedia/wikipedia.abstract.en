@@ -25,7 +25,7 @@ _Lead Me On_ (1988) contained many songs that were about Christianity and love r
 
 In the mainstream
 
-Amy_Grant_in_1998.jpg When _Heart in Motion_ was released in 1991, many fans were surprised that the album was so clearly one of contemporary pop music. Grant's desire to widen her audience was frowned upon by the confines of the popular definitions of ministry at the time.[21] The track "Baby Baby" (written for Grant's newborn daughter Millie, of whom Grant wrote, her "six-week-old face was my inspiration") became a pop hit (hitting No. 1 on the _Billboard_ Hot 100), and Grant was established as a name in the mainstream music world. "Baby Baby" received Grammy nominations for Best Female Pop Vocal Performance, and Record and Song of the Year (although it failed to win in any of those categories). Four other hits from the album made the Pop top 20: "Every Heartbeat" (No. 2), "That's What Love Is For" (No. 7), "Good for Me" (No. 8), and "I Will Remember You" (No. 20). On the Adult Contemporary chart, all five songs were top 10 hits, with two of the five ("Baby Baby" and "That's What Love Is For") reaching No. 1. Many Christian fans remained loyal, putting the album atop _Billboard_ Contemporary Christian Chart for 32 weeks. _Heart in Motion_ is Grant's best-selling album, having sold over five million copies according to the RIAA.[22] Grant followed the album with her second Christmas album, _Home For Christmas_ in 1992, which included the song "Breath of Heaven (Mary's Song)", written by Chris Eaton and Grant, and would later be covered by many artists, including Donna Summer, Jessica Simpson (who acknowledged Grant as one of her favorite artists), Vince Gill, Sara Groves, Point of Grace, Gladys Knight, and Broadway star Barbara Cook.
+When _Heart in Motion_ was released in 1991, many fans were surprised that the album was so clearly one of contemporary pop music. Grant's desire to widen her audience was frowned upon by the confines of the popular definitions of ministry at the time.[21] The track "Baby Baby" (written for Grant's newborn daughter Millie, of whom Grant wrote, her "six-week-old face was my inspiration") became a pop hit (hitting No. 1 on the _Billboard_ Hot 100), and Grant was established as a name in the mainstream music world. "Baby Baby" received Grammy nominations for Best Female Pop Vocal Performance, and Record and Song of the Year (although it failed to win in any of those categories). Four other hits from the album made the Pop top 20: "Every Heartbeat" (No. 2), "That's What Love Is For" (No. 7), "Good for Me" (No. 8), and "I Will Remember You" (No. 20). On the Adult Contemporary chart, all five songs were top 10 hits, with two of the five ("Baby Baby" and "That's What Love Is For") reaching No. 1. Many Christian fans remained loyal, putting the album atop _Billboard_ Contemporary Christian Chart for 32 weeks. _Heart in Motion_ is Grant's best-selling album, having sold over five million copies according to the RIAA.[22] Grant followed the album with her second Christmas album, _Home For Christmas_ in 1992, which included the song "Breath of Heaven (Mary's Song)", written by Chris Eaton and Grant, and would later be covered by many artists, including Donna Summer, Jessica Simpson (who acknowledged Grant as one of her favorite artists), Vince Gill, Sara Groves, Point of Grace, Gladys Knight, and Broadway star Barbara Cook.
 
 _House of Love_ in 1994 continued in the same vein, boasting catchy pop songs mingled with spiritual lyrics. The album was a multi-platinum success and produced the pop hit "Lucky One" (No. 18 pop and No. 2 AC; No. 1 on Radio & Records) as well as the title track (a duet with country music star and future husband Vince Gill) (No. 37 pop) and a cover of Joni Mitchell's frequently covered "Big Yellow Taxi" (No. 67 pop) (in which she changed the line "And they charged the people _a dollar and a half_ just to see'em" to "And then they charged the people _25 bucks_ just to see'em").
 
@@ -37,7 +37,7 @@ Return to her roots
 
 Grant returned to her roots with the 2002 release of an album of hymns titled _Legacy... Hymns and Faith_. The album featured a Vince Gill-influenced mix of bluegrass and pop and marked Grant's 25th anniversary in the music industry.[25] Grant followed this up with _Simple Things_ in 2003. The album did not have the success of her previous pop or gospel efforts. Soon after _Simple Things_, Grant and Interscope/A&M parted ways. The same year, Grant was inducted into the Gospel Music Hall of Fame by the Gospel Music Association, an industry trade organization of which she is a longstanding member, in her first year of eligibility. Grant released a sequel in 2005 titled _Rock of Ages...Hymns and Faith_.[26]
 
-Grant joined the reality television phenomenon by hosting _Three Wishes_, a show in which she and a team of helpers make wishes come true for small-town residents.[27] The show debuted on NBC in the fall of 2005 but was canceled at the end of its first season because of high production costs. After _Three Wishes_ was canceled, Grant won her 6th Grammy Award for _Rock of Ages... Hymns & Faith_. In a February 2006 webchat, Grant stated she believes her "best music is still ahead". Amy_Grant_October_2008.jpg In April 2006, a live CD/DVD titled _Time Again... Amy Grant Live_ was recorded in Fort Worth, Texas, at Bass Performance Hall. (Grant's first paid public performance was at the Will Rogers Auditorium in Fort Worth.) The concert was released on September 26, 2006. In addition to receiving a star on the Hollywood Walk of Fame, media appearances included write-ups in _CCM Magazine_, and a performance on _The View_.
+Grant joined the reality television phenomenon by hosting _Three Wishes_, a show in which she and a team of helpers make wishes come true for small-town residents.[27] The show debuted on NBC in the fall of 2005 but was canceled at the end of its first season because of high production costs. After _Three Wishes_ was canceled, Grant won her 6th Grammy Award for _Rock of Ages... Hymns & Faith_. In a February 2006 webchat, Grant stated she believes her "best music is still ahead". In April 2006, a live CD/DVD titled _Time Again... Amy Grant Live_ was recorded in Fort Worth, Texas, at Bass Performance Hall. (Grant's first paid public performance was at the Will Rogers Auditorium in Fort Worth.) The concert was released on September 26, 2006. In addition to receiving a star on the Hollywood Walk of Fame, media appearances included write-ups in _CCM Magazine_, and a performance on _The View_.
 
 In a February 2007 web chat on her web site, Grant discussed a book she was working on titled _Mosaic: Pieces of My Life So Far_, saying, "It's not an autobiography, but more a collection of memories, song lyrics, poetry and a few pictures." The book was released on October 16, 2007. In November, it debuted at No. 35 on the New York Times Best Seller list.[28] In the same web chat, Grant noted that she is "anxious to get back in the studio after the book is finished, and reinvent myself as an almost-50 performing woman".
 
@@ -50,8 +50,6 @@ In February 2008, Grant joined the writing team from Compassionart as a guest vo
 On June 24, 2008, Grant re-released her 1988 album, _Lead Me On_, in honor of its 20th anniversary. The two-disc release includes the original album and a second disc with new acoustic recordings, live performances from 1989, and interviews with Amy. Grant recreated the _Lead Me On_ tour in the fall of 2008.
 
 On June 27, 2008, at Creation Festival Northeast she performed "Lead Me On" and a few other songs backed by Hawk Nelson. At the end of the concert, Grant returned to the stage and sang "Thy Word". She appeared on the 2008 album _Anne Murray Duets: Friends & Legends_ singing "Could I Have This Dance".
-
-AmyGrantHWOFSept2012.jpg
 
 On May 5, 2009, Grant released an EP containing two new songs, "She Colors My Day", and "Unafraid", as well as the previously released songs "Baby Baby" and "Oh How the Years Go By". The EP, exclusively through iTunes, benefited the Entertainment Industry Foundation's (EIF) Women's Cancer Research Fund.[32]
 
@@ -76,7 +74,7 @@ Personal life
 
 On June 19, 1982, Grant married fellow Christian musician Gary Chapman. Their marriage produced three children.[52] In March 1999, she filed for divorce from Chapman, citing "irreconcilable differences", and the divorce was finalized three months later.[53]
 
-Amy_Grant_and_Vince_Gill.jpg in 2004]] On March 10, 2000, Grant married country singer-songwriter Vince Gill, who had been previously married to country singer Janis Oliver of Sweethearts of the Rodeo.[54] Grant and Gill have one daughter together, Corrina Grant Gill, born March 12, 2001.[55]
+in 2004]] On March 10, 2000, Grant married country singer-songwriter Vince Gill, who had been previously married to country singer Janis Oliver of Sweethearts of the Rodeo.[54] Grant and Gill have one daughter together, Corrina Grant Gill, born March 12, 2001.[55]
 
 In the November 1999 _CCM Magazine_, Grant explained why she left Chapman and married Gill:
 
@@ -111,7 +109,7 @@ GMA Dove Awards
 
 Special awards and recognitions
 
-Amy_Grant_Music_Room.jpgs in the Amy Grant Music Room at St. Jude Children's Research Hospital]] Friend_of_West_Point.jpg being awarded the Class of 1966 Friend of West Point Award in 2008]]
+s in the Amy Grant Music Room at St. Jude Children's Research Hospital]] being awarded the Class of 1966 Friend of West Point Award in 2008]]
 
 -   1992: Junior Chamber of Commerce Young Tennessean of the Year
 -   1994: St. John University Pax Christi Award
@@ -136,7 +134,7 @@ Amy_Grant_Music_Room.jpgs in the Amy Grant Music Room at St. Jude Children's Res
 
 Discography
 
-Amy_Grant_and_Michael_W_Smith.jpg in 2011]]
+in 2011]]
 
 
 Bibliography

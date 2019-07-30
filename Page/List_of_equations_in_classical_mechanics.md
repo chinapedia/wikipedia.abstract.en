@@ -44,8 +44,6 @@ Mass and inertia
 
 Derived kinematic quantities
 
-Kinematics.svg
-
   Quantity (common name/s)   (Common) symbol/s   Defining equation        SI units     Dimension
   -------------------------- ------------------- ------------------------ ------------ -------------
   Velocity                   V                   V = dR/dt                m s^(−1)     [L][T]^(−1)
@@ -58,7 +56,7 @@ Kinematics.svg
 
 Derived dynamic quantities
 
-Classical_angular_momentum.svg I and angular velocity Ω (L is not always parallel to Ω)[6]
+I and angular velocity Ω (L is not always parallel to Ω)[6]
 BOTTOM: momentum P and its radial position R from the axis.
 The total angular momentum (spin + orbital) is J.]]
 

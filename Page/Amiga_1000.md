@@ -26,7 +26,7 @@ The Amiga 1000 features an 86-pin expansion port (electrically identical to the 
 
 Specifications
 
-JayMiner_Mitch.jpg's signature from the top cover of a Commodore Amiga 1000 computer. The paw print is that of Mitchy, Miner's dog.]] Amiga_1000_Back.jpg
+'s signature from the top cover of a Commodore Amiga 1000 computer. The paw print is that of Mitchy, Miner's dog.]]
 
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Attribute          | Specification[10]                                                                                                                                               |

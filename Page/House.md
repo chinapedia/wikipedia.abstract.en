@@ -5,14 +5,14 @@ Most commonly, a household is a family unit of some kind, although households ma
 
 Etymology
 
-Beowulf_-_hus.jpg word]] The English word _house_ derives directly from the Old English _hus_ meaning "dwelling, shelter, home, house," which in turn derives from Proto-Germanic _husan_ (reconstructed by etymological analysis) which is of unknown origin.[3] The house itself gave rise to the letter 'B' through an early Proto-Semitic hieroglyphic symbol depicting a house. The symbol was called "bayt", "bet" or "beth" in various related languages, and became _beta_, the Greek letter, before it was used by the Romans.[4] _Beit_ in Arabic means house, while in Maltese _bejt_ refers to the roof of the house.[5][6]
+word]] The English word _house_ derives directly from the Old English _hus_ meaning "dwelling, shelter, home, house," which in turn derives from Proto-Germanic _husan_ (reconstructed by etymological analysis) which is of unknown origin.[3] The house itself gave rise to the letter 'B' through an early Proto-Semitic hieroglyphic symbol depicting a house. The symbol was called "bayt", "bet" or "beth" in various related languages, and became _beta_, the Greek letter, before it was used by the Romans.[4] _Beit_ in Arabic means house, while in Maltese _bejt_ refers to the roof of the house.[5][6]
 
 
 Elements
 
 Layout
 
-Gingerbread_House_Essex_CT.jpg "Gingerbread House" in Connecticut, United States, built in 1855]]
+"Gingerbread House" in Connecticut, United States, built in 1855]]
 
 Ideally, architects of houses design rooms to meet the needs of the people who will live in the house. Feng shui, originally a Chinese method of moving houses according to such factors as rain and micro-climates, has recently expanded its scope to address the design of interior spaces, with a view to promoting harmonious effects on the people living inside the house, although no actual effect has ever been demonstrated. Feng shui can also mean the "aura" in or around a dwelling, making it comparable to the real-estate sales concept of "indoor-outdoor flow".
 
@@ -24,11 +24,11 @@ Many houses have several large rooms with specialized functions and several very
 
 History of the interior
 
-HouseFlrPlan.svg of a "foursquare" house]] Little is known about the earliest origin of the house and its interior, however it can be traced back to the simplest form of shelters. Roman architect Vitruvius' theories have claimed the first form of architecture as a frame of timber branches finished in mud, also known as the primitive hut.[8] Philip Tabor later states the contribution of 17th century Dutch houses as the foundation of houses today.
+of a "foursquare" house]] Little is known about the earliest origin of the house and its interior, however it can be traced back to the simplest form of shelters. Roman architect Vitruvius' theories have claimed the first form of architecture as a frame of timber branches finished in mud, also known as the primitive hut.[8] Philip Tabor later states the contribution of 17th century Dutch houses as the foundation of houses today.
 
 Communal rooms
 
-Varassaari5.JPG house from the beginning of 20th century in Jyväskylä]] Gokayama_Suganuma_五箇山菅沼地区_PA101516.jpg]] thumb|left |Traditional two storied tin shed house in Bangladesh
+house from the beginning of 20th century in Jyväskylä]] ]] thumb|left |Traditional two storied tin shed house in Bangladesh
 
 In the Middle Ages, the Manor Houses facilitated different activities and events. Furthermore, the houses accommodated numerous people, including family, relatives, employees, servants and their guests.[9] Their lifestyles were largely communal, as areas such as the Great Hall enforced the custom of dining and meetings and the Solar intended for shared sleeping beds.[10]
 
@@ -98,23 +98,21 @@ File:Bhutanese Farmhouse Soe Yaksa.jpg|Farmhouse in Bhutan File:Cambo 169.jpg|Kh
 
 Work location, technology and doctors
 
-Doctor's_residence_and_surgery,_No_8_Milford_Ave,_Randwick_taken_for_LJ_Hooker_Ltd_by_Sam_Hood,_17_July_1951._Sourced_from_the_State_Library_of_New_South_Wales_Home_and_Away_11690_FL1472550.jpg]] In the American context, some professions, such as doctors, in the 19th and early 20th century typically operated out of the front room or parlor or had a two-room office on their property, which was detached from the house. By the mid 20th century and the increase in high-tech equipment saw a marked shift whereby the contemporary doctor typically works from an office complex or hospital.[22][23]
+]] In the American context, some professions, such as doctors, in the 19th and early 20th century typically operated out of the front room or parlor or had a two-room office on their property, which was detached from the house. By the mid 20th century and the increase in high-tech equipment saw a marked shift whereby the contemporary doctor typically works from an office complex or hospital.[22][23]
 
 Technology and privacy
-
-Kamena_kuca_u_Pokreveniku.jpg
 
 The introduction of technology and electronic systems within the house has questioned the impressions of privacy as well as the segregation of work from home. Technological advances of surveillance and communications allow insight of personal habits and private lives.[24] As a result, the "private becomes ever more public, [and] the desire for a protective home life increases, fuelled by the very media that undermine it" writes Hill.[25] Work also, has been altered due to the increase of communications. The "deluge of information",[26] has expressed the efforts of work, conveniently gaining access inside the house. Although commuting is reduced, "the desire to separate working and living remains apparent."[27] In Jonathan Hill's book _Immature Architecture_, he identifies this new invasion of privacy as _Electromagnetic Weather_. Natural or man-made weather remains concurrent inside or outside the house, yet the electromagnetic weather is able to generate within both positions.[28] On the other hand, some architects have designed homes in which eating, working and living are brought together.
 
 
 Construction
 
-HouseStructure.JPG Houseoltreilcolle.JPG, Italy.
+, Italy.
 These homes are often illegally built and without electricity, proper sanitation and taps for drinking water. ]] In the United States, modern house-construction techniques include light-frame construction (in areas with access to supplies of wood) and adobe or sometimes rammed-earth construction (in arid regions with scarce wood-resources). Some areas use brick almost exclusively, and quarried stone has long provided walling. To some extent, aluminum and steel have displaced some traditional building materials. Increasingly popular alternative construction materials include insulating concrete forms (foam forms filled with concrete), structural insulated panels (foam panels faced with oriented strand board or fiber cement), and light-gauge steel framing and heavy-gauge steel framing.
 
 More generally, people often build houses out of the nearest available material, and often tradition or culture govern construction-materials, so whole towns, areas, counties or even states/countries may be built out of one main type of material. For example, a large fraction of American houses use wood, while most British and many European houses use stone or brick or mud.
 
-Construction_maison_bambou.jpg. Bamboo-made houses are popular in China, Japan and other Asian countries, because of their resistance to earthquakes and hurricanes.]] In the 1900s (decade), some house designers started using prefabrication. Sears, Roebuck & Co. first marketed their Sears Catalog Homes to the general public in 1908. Prefab techniques became popular after World War II. First small inside rooms framing, then later, whole walls were prefabricated and carried to the construction site. The original impetus was to use the labor force inside a shelter during inclement weather. More recently builders have begun to collaborate with structural engineers who use computers and finite element analysis to design prefabricated steel-framed homes with known resistance to high wind-loads and seismic forces. These newer products provide labor savings, more consistent quality, and possibly accelerated construction processes.
+. Bamboo-made houses are popular in China, Japan and other Asian countries, because of their resistance to earthquakes and hurricanes.]] In the 1900s (decade), some house designers started using prefabrication. Sears, Roebuck & Co. first marketed their Sears Catalog Homes to the general public in 1908. Prefab techniques became popular after World War II. First small inside rooms framing, then later, whole walls were prefabricated and carried to the construction site. The original impetus was to use the labor force inside a shelter during inclement weather. More recently builders have begun to collaborate with structural engineers who use computers and finite element analysis to design prefabricated steel-framed homes with known resistance to high wind-loads and seismic forces. These newer products provide labor savings, more consistent quality, and possibly accelerated construction processes.
 
 Lesser-used construction methods have gained (or regained) popularity in recent years. Though not in wide use, these methods frequently appeal to homeowners who may become actively involved in the construction process. They include:
 
@@ -127,7 +125,7 @@ Lesser-used construction methods have gained (or regained) popularity in recent 
 
 Energy efficiency
 
-Passivhaus_thermogram_gedaemmt_ungedaemmt.png" (right) buildings]] Grachtenstad_De_Laak.jpg, Netherlands]] In the developed world, energy-conservation has grown in importance in house-design. Housing produces a major proportion of carbon emissions (studies have show that it is 30% of the total in the United Kingdom).[29]
+" (right) buildings]] , Netherlands]] In the developed world, energy-conservation has grown in importance in house-design. Housing produces a major proportion of carbon emissions (studies have show that it is 30% of the total in the United Kingdom).[29]
 
 Development of a number of low-energy building types and techniques continues. They include the zero-energy house, the passive solar house, the autonomous buildings, the superinsulated and houses built to the _Passivhaus_ standard.
 
@@ -142,14 +140,14 @@ Bamboo is an earthquake-resistant material, and is very versatile because it com
 
 Found materials
 
-Xaniyê_Gundê_Dîlan.JPG stone house]] In many parts of the world, houses are constructed using scavenged materials. In Manila's Payatas neighborhood, slum houses are often made of material sourced from a nearby garbage dump.[32]
+stone house]] In many parts of the world, houses are constructed using scavenged materials. In Manila's Payatas neighborhood, slum houses are often made of material sourced from a nearby garbage dump.[32]
 
 In Dakar, it is not uncommon to see houses made of recycled materials standing atop a mixture of garbage and sand which serves as a foundation. The garbage-sand mixture is also used to protect the house from flooding.[33]
 
 
 Legal issues
 
-NorthYorkHouse2.JPG, Canada]] Vandergrift-Biddle_House,_Junction_of_US_Route_13_and_County_Road_2,_Saint_Georges_Hundred,_Biddles_Corner,_New_Castle_County,_DE_HABS_DEL,2-BIDCO,1-_(sheet_1_of_8).png Buildings with historical importance have legal restrictions.
+, Canada]] Buildings with historical importance have legal restrictions.
 
 United Kingdom
 
@@ -163,7 +161,7 @@ With the growth of dense settlement, humans designed ways of identifying houses 
 
 Animal houses
 
-Vogelhaus_Modell_Eduard_4.JPG made to look like a real house]] Humans often build houses for domestic or wild animals, often resembling smaller versions of human domiciles. Familiar animal houses built by humans include birdhouses, henhouses and doghouses, while housed agricultural animals more often live in barns and stables.
+made to look like a real house]] Humans often build houses for domestic or wild animals, often resembling smaller versions of human domiciles. Familiar animal houses built by humans include birdhouses, henhouses and doghouses, while housed agricultural animals more often live in barns and stables.
 
 
 Houses and symbolism

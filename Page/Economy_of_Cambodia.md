@@ -48,7 +48,6 @@ Garment Factories by Ownership Nationality in 2010:[15]
   USA                        4%                        9
   Others                     4%                        10
 
-Cambodiahealth1.jpg
 note: In 2010, 236 garment export-oriented factories were operating and registered with GMAC, with 93% being foreign direct investment (FDI).
 
 As seen in the table above, Cambodia's garment industry is characterized by a small percentage of local ownership. This is a reflection of the deficiency of skilled workers in the country as well as the limited leverage and autonomy Cambodian factories have in strategic decisions.[16] Another characteristic of the industry is the country's competitive advantage as the only country where garment factories are monitored and reported according to national and international standards.[17]
@@ -59,7 +58,7 @@ The Garment Manufacturers Association in Cambodia (GMAC) is establishing a speci
 
 Agriculture
 
-Cambodian_farmers_planting_rice.jpg Agriculture is the traditional mainstay of the Cambodian economy. Agriculture accounted for 90 percent of GDP in 1985 and employed approximately 80 percent of the work force. Rice is the principle commodity.
+Agriculture is the traditional mainstay of the Cambodian economy. Agriculture accounted for 90 percent of GDP in 1985 and employed approximately 80 percent of the work force. Rice is the principle commodity.
 
 Major secondary crops include maize, cassava, sweet potatoes, groundnuts, soybeans, sesame seeds, dry beans, and rubber. The principal commercial crop is rubber. In the 1980s it was an important primary commodity, second only to rice, and one of the country's few sources of foreign exchange.
 
@@ -67,7 +66,7 @@ Tourism
 
 In the 1960s, Cambodia was a prominent tourist destination in the Southeast Asian region. Due to protracted periods of civil war, insurgencies, and especially the genocidal regime of the Khmer Rouge (see Khmer Rouge Genocide), Cambodia's tourism industry was reduced to being virtually non-existent. Since the late 1990s, tourism is fast becoming Cambodia's second largest industry, just behind the garment manufacturing.[20] In 2006, Cambodia's tourism sector generated a revenue of US$1.594 billion, which made up approximately 16% of the country's GDP.[21]
 
-Angkor_Wat.jpg in Siem Reap, Cambodia.]] Cultural heritage tourism is especially popular in the country, with many foreign tourists visiting the ancient Hindu temple of Angkor Wat located in the Siem Reap province. Other popular tourist attractions include the Royal Palace, Phnom Penh, as well as ecotourism spots such as Tonlé Sap Lake and the Mekong River.
+in Siem Reap, Cambodia.]] Cultural heritage tourism is especially popular in the country, with many foreign tourists visiting the ancient Hindu temple of Angkor Wat located in the Siem Reap province. Other popular tourist attractions include the Royal Palace, Phnom Penh, as well as ecotourism spots such as Tonlé Sap Lake and the Mekong River.
 
 The tourism industry in Cambodia has been perpetuated by the development of important transportation infrastructure; in particular Cambodia's two international airports in Phnom Penh and Siem Reap respectively. To the Cambodian economy, tourism has been a means for accumulation of foreign currency earnings and employment for the Cambodian workforce, with about 250,000 jobs generated in 2006.[22] Meanwhile, challenges to the industry include a leakage of revenue to foreign markets due to a dependence on foreign goods as well as the prevalence of the Child sex tourism industry.[23]
 
@@ -75,7 +74,7 @@ Gambling industry
 
 The gambling industry of Cambodia supports its tourism industry, which is mostly concentrated around the Siem Reap province. The introduction of casino on border cities and towns created an industry that has thrived and contributed to the generation of employment and a steady stream of revenue for the government. However, the issue of corruption in relation to the government bureaucratic process involved in the gambling sector has been raised. It has likewise spur growth in different parts of the country at border crossing towns like Poipet, Bavet and Koh Kong. The growth of the gambling industry in Cambodia is due to its proximity to Thailand where gambling is forbidden.
 
-Russian_Blvd,_P.P..JPG.]]
+.]]
 
 Construction
 
@@ -91,7 +90,7 @@ Sok Khavan, acting director general of the Cambodian National Petroleum Authorit
 
 Foreign aid
 
-Battambang_Provinz_01.jpg is very important to the Cambodian economy.]] Cambodia's emerging democracy has received strong international support. Under the mandate of the United Nations Transitional Authority in Cambodia (UNTAC), $1.72 billion (1.72 G$) was spent in an effort to bring basic security, stability and democratic rule to the country. Various news and media reports suggest that since 1993 the country has been the recipient of some US$10 billion in foreign aid.[29][30]
+is very important to the Cambodian economy.]] Cambodia's emerging democracy has received strong international support. Under the mandate of the United Nations Transitional Authority in Cambodia (UNTAC), $1.72 billion (1.72 G$) was spent in an effort to bring basic security, stability and democratic rule to the country. Various news and media reports suggest that since 1993 the country has been the recipient of some US$10 billion in foreign aid.[29][30]
 
 With regards to economic assistance, official donors had pledged $880 million at the Ministerial Conference on the Rehabilitation of Cambodia (MCRRC) in Tokyo in June 1992. In addition to that figure, $119 million was pledged in September 1993 at the International Committee on the Reconstruction of Cambodia (ICORC) meeting in Paris, and $643 million at the March 1994 ICORC meeting in Tokyo.
 
@@ -116,8 +115,6 @@ There is little evidence that the Law on Patents, Utility Model Certificates and
 
 
 Statistics
-
-Tree_map_export_2009_Cambodia.jpeg
 
 Investment (gross fixed)
     3% of GDP (2011 est.)

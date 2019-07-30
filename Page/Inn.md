@@ -1,11 +1,11 @@
 INS}}
 
-Roadside-inn-American-scenery.jpeg INNS are generally establishments or buildings where travelers can seek lodging and usually food and drink. They are typically located in the country or along a highway; before the advent of motorized transportation they also provided accommodation for horses.
+INNS are generally establishments or buildings where travelers can seek lodging and usually food and drink. They are typically located in the country or along a highway; before the advent of motorized transportation they also provided accommodation for horses.
 
 
 History
 
-Tabard_inn_mid19th.jpg Sultanhani_-_Fassade.jpg زین_الدین.JPG, Iran, one of a few circular caravanserai.]] Inns in Europe were possibly first established when the Romans built their system of Roman roads two millennia ago. Many inns in Europe are several centuries old. In addition to providing for the needs of travelers, inns traditionally acted as community gathering places.
+, Iran, one of a few circular caravanserai.]] Inns in Europe were possibly first established when the Romans built their system of Roman roads two millennia ago. Many inns in Europe are several centuries old. In addition to providing for the needs of travelers, inns traditionally acted as community gathering places.
 
 Historically, inns in Europe provided not only food and lodging, but also stabling and fodder for the travelers' horses. Famous London examples of inns include the George and the Tabard. There is however no longer a formal distinction between an inn and other kinds of establishment. Many pubs use the name "inn", either because they are long established and may have been formerly coaching inns, or to summon up a particular kind of image.
 

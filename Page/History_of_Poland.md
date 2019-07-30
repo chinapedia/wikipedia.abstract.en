@@ -11,7 +11,7 @@ As a result of territorial adjustments mandated by the victorious Allies at the 
 
 Prehistory and protohistory
 
-Biskupin_brama_od_wewnatrz.jpg fortified settlement of the Lusatian culture, 8th century BC]]
+fortified settlement of the Lusatian culture, 8th century BC]]
 
 In prehistoric and protohistoric times, over a period of at least 500,000 years, the area of present-day Poland was intermittently inhabited by members of the _Homo_ genus. It went through the Stone Age, Bronze Age and Iron Age stages of development, along with the nearby regions.[2] The Neolithic period ushered in the Linear Pottery culture, whose founders migrated from the Danube River area beginning about 5500 BC. This culture was distinguished by the establishment of the first settled agricultural communities in modern Polish territory. Later, between about 4400 and 2000 BC, the native post-Mesolithic populations would also adopt and further develop the agricultural way of life.[3]
 
@@ -26,7 +26,7 @@ Piast period (10th century–1385)
 
 Mieszko I
 
-Polska_992_-_1025.png (992), whereas the light pink area represents territories added during the reign of Bolesław I (died 1025). The dark pink area in the northwest was lost during the same period.]]
+(992), whereas the light pink area represents territories added during the reign of Bolesław I (died 1025). The dark pink area in the northwest was lost during the same period.]]
 
 Poland was established as a state under the Piast dynasty, which ruled the country between the 10th and 14th centuries. Historical records referring to the Polish state begin with the rule of Duke Mieszko I. Mieszko, whose reign commenced sometime before 963 and who continued as the Polish monarch until his death in 992, chose to be baptized in the Western Latin Rite, probably on 14 April 966, following his marriage to Princess Doubravka of Bohemia, a fervent Christian.[10] This event has become known as the baptism of Poland, and its date is often used to mark a symbolic beginning of Polish statehood.[11] Mieszko completed a unification of the West Slavic tribal lands that was fundamental to the new country's existence. Following its emergence, Poland was led by a series of rulers who converted the population to Christianity, created a strong kingdom and fostered a distinctive Polish culture that was integrated into the broader European culture.[12]
 
@@ -44,7 +44,7 @@ After Bolesław III divided Poland among his sons in his Testament of 1138,[22] 
 
 Late Piast monarchy under Władysław I and Casimir III
 
-Władysław_I_sarcophagus_figure.jpg]]
+]]
 
 Attempts to reunite the Polish lands gained momentum in the 13th century, and in 1295, Duke Przemysł II of Greater Poland managed to become the first ruler since Bolesław II to be crowned king of Poland.[30] He ruled over a limited territory and was soon killed. In 1300–05 King Wenceslaus II of Bohemia also reigned as king of Poland.[31] The Piast Kingdom was effectively restored under Władysław I the Elbow-high (r. 1306–33), who became king in 1320.[32] In 1308, the Teutonic Knights seized Gdańsk and the surrounding region of Pomerelia.[33]
 
@@ -59,7 +59,7 @@ Jagiellonian dynasty (1385–1572)
 
 Dynastic union with Lithuania, Władysław II Jagiełło
 
-Battle_of_Tannenberg.jpg, a great military contest of the Late Middle Ages]]
+, a great military contest of the Late Middle Ages]]
 
 In 1386, Grand Duke Jogaila of Lithuania converted to Catholicism and married Queen Jadwiga of Poland. This act enabled him to become a king of Poland himself,[41] and he ruled as Władysław II Jagiełło until his death in 1434. The marriage established a personal Polish–Lithuanian union ruled by the Jagiellonian dynasty. The first in a series of formal "unions" was the Union of Krewo of 1385, whereby arrangements were made for the marriage of Jogaila and Jadwiga.[42] The Polish–Lithuanian partnership brought vast areas of Ruthenia controlled by the Grand Duchy of Lithuania into Poland's sphere of influence and proved beneficial for the nationals of both countries, who coexisted and cooperated in one of the largest political entities in Europe for the next four centuries. When Queen Jadwiga died in 1399, the Kingdom of Poland fell to her husband's sole possession.[43][44]
 
@@ -69,7 +69,7 @@ The privileges of the _szlachta_ (nobility) kept expanding and in 1425 the rule 
 
 Władysław III and Casimir IV Jagiellon
 
-Casimir_IV_Jagiellon.jpg was the central figure of the Jagiellonian period]]
+was the central figure of the Jagiellonian period]]
 
 The reign of the young Władysław III (1434–44),[49] who succeeded his father Władysław II Jagiełło and ruled as king of Poland and Hungary, was cut short by his death at the Battle of Varna against the forces of the Ottoman Empire.[50][51] This disaster led to an interregnum of three years that ended with the accession of Władysław's brother Casimir IV Jagiellon in 1447.
 
@@ -79,7 +79,7 @@ The _Nihil novi_ act, adopted in 1505 by the Sejm, transferred most of the legis
 
 Early modern Poland under Sigismund I and Sigismund II
 
-Krakow_2006_075.jpg courtyard of Wawel Castle]]
+courtyard of Wawel Castle]]
 
 In the 16th century, Protestant Reformation movements made deep inroads into Polish Christianity and the resulting Reformation in Poland involved a number of different denominations. The policies of religious tolerance that developed in Poland were nearly unique in Europe at that time and many who fled regions torn by religious strife found refuge in Poland. The reigns of King Sigismund I the Old (1506–1548) and King Sigismund II Augustus (1548–1572) witnessed an intense cultivation of culture and science (a Golden Age of the Renaissance in Poland), of which the astronomer Nicolaus Copernicus (1473–1543)[59] is the best known representative. Jan Kochanowski (1530–1584) was a poet and the premier artistic personality of the period.[60][61] In 1525, during the reign of Sigismund I,[62] the Teutonic Order was secularized and Duke Albert performed an act of homage before the Polish king (the Prussian Homage) for his fief, the Duchy of Prussia.[63] Mazovia was finally fully incorporated into the Polish Crown in 1529.[64][65]
 
@@ -104,7 +104,7 @@ After the rule of the Jagiellonian dynasty ended in 1572, Henry of Valois (later
 
 First kings of the Vasa dynasty
 
-Sigismund_III_at_Smolensk_by_Tommaso_Dolabella.JPG at the Siege of Smolensk. The king enjoyed a long reign, but his actions, including excessive involvement in dynastic affairs of Sweden, destabilized the Commonwealth.]]
+at the Siege of Smolensk. The king enjoyed a long reign, but his actions, including excessive involvement in dynastic affairs of Sweden, destabilized the Commonwealth.]]
 
 A period of rule under the Swedish House of Vasa began in the Commonwealth in the year 1587. The first two kings from this dynasty, Sigismund III (r. 1587–1632) and Władysław IV (r. 1632–1648), repeatedly attempted to intrigue for accession to the throne of Sweden, which was a constant source of distraction for the affairs of the Commonwealth.[79] At that time, the Catholic Church embarked on an ideological counter-offensive and the Counter-Reformation claimed many converts from Polish and Lithuanian Protestant circles. In 1596, the Union of Brest split the Eastern Christians of the Commonwealth to create the Uniate Church of the Eastern Rite, but subject to the authority of the pope.[80] The Zebrzydowski rebellion against Sigismund III unfolded in 1606–1608.[81][82]
 
@@ -114,7 +114,7 @@ Decline (1648–1764)
 
 Deluge of wars
 
-John_II_Casimir_Vasa_1.PNG reigned during the Commonwealth's most difficult period. Frustrated with his inability to reform the state, he abdicated in 1668.[87]]]
+reigned during the Commonwealth's most difficult period. Frustrated with his inability to reform the state, he abdicated in 1668.[87]]]
 
 During the reign of John II Casimir Vasa (r. 1648–1668), the third and last king of his dynasty, the nobles' democracy fell into decline as a result of foreign invasions and domestic disorder.[88][89] These calamities multiplied rather suddenly and marked the end of the Polish Golden Age. Their effect was to render the once powerful Commonwealth increasingly vulnerable to foreign intervention.
 
@@ -124,7 +124,7 @@ In 1668, grief-stricken at the recent death of his wife and frustrated by the di
 
 John III Sobieski and last military victories
 
-Siemiginowski_John_III_Sobieski_with_his_son.jpg with his son Jakub, whom he tried to position to be his successor. Sobieski led the Commonwealth to its last great military victories.]]
+with his son Jakub, whom he tried to position to be his successor. Sobieski led the Commonwealth to its last great military victories.]]
 
 King Michał Korybut Wiśniowiecki, a native Pole, was elected to replace John II Casimir in 1669. The Polish–Ottoman War (1672–76) broke out during his reign, which lasted until 1673, and continued under his successor, John III Sobieski (r. 1674–1696).[98] Sobieski intended to pursue Baltic area expansion (and to this end he signed the secret Treaty of Jaworów with France in 1675),[99] but was forced instead to fight protracted wars with the Ottoman Empire. By doing so, Sobieski briefly revived the Commonwealth's military might. He defeated the expanding Muslims at the Battle of Khotyn in 1673 and decisively helped deliver Vienna from a Turkish onslaught at the Battle of Vienna in 1683.[100] Sobieski's reign marked the last high point in the history of the Commonwealth: in the first half of the 18th century, Poland ceased to be an active player in international politics. The Treaty of Perpetual Peace (1686) with Russia was the final border settlement between the two countries before the First Partition of Poland in 1772.[101][102]
 
@@ -132,7 +132,7 @@ The Commonwealth, subjected to almost constant warfare until 1720, suffered enor
 
 Saxon kings
 
-August_der_Starke.jpg, the first Saxon ruler of Poland. His death sparked the War of the Polish Succession.]]
+, the first Saxon ruler of Poland. His death sparked the War of the Polish Succession.]]
 
 The royal election of 1697 brought a ruler of the Saxon House of Wettin to the Polish throne: Augustus II the Strong (r. 1697–1733), who was able to assume the throne only by agreeing to convert to Roman Catholicism. He was succeeded by his son Augustus III (r. 1734–1763).[104] The reigns of the Saxon kings (who were both simultaneously prince-electors of Saxony) were disrupted by competing candidates for the throne and witnessed further disintegration of the Commonwealth.
 
@@ -144,7 +144,7 @@ Reforms and loss of statehood (1764–1795)
 
 Czartoryski reforms and Stanisław August Poniatowski
 
-Stanisław_August_Poniatowski_by_Johann_Baptist_Lampi.PNG, the "enlightened" monarch]]
+, the "enlightened" monarch]]
 
 During the later part of the 18th century, fundamental internal reforms were attempted in the Polish–Lithuanian Commonwealth as it slid into extinction. The reform activity, initially promoted by the magnate Czartoryski family faction known as the _Familia_, provoked a hostile reaction and military response from neighboring powers, but it did create conditions that fostered economic improvement. The most populous urban center, the capital city of Warsaw, replaced Danzig (Gdańsk) as the leading trade center, and the importance of the more prosperous urban social classes increased. The last decades of the independent Commonwealth's existence were characterized by aggressive reform movements and far-reaching progress in the areas of education, intellectual life, art and the evolution of the social and political system.[112]
 
@@ -156,17 +156,17 @@ Following the suppression of the Bar Confederation, parts of the Commonwealth we
 
 The Great Sejm of 1788–1791 and the Constitution of 3 May 1791
 
-Oath_of_confirmation_of_Constitution_of_the_3rd_May_1791.PNG adopted the Constitution of 3 May 1791 at the Royal Castle, Warsaw]]
+adopted the Constitution of 3 May 1791 at the Royal Castle, Warsaw]]
 
 The long-lasting session of parliament convened by King Stanisław August is known as the Great Sejm or Four-Year Sejm; it first met in 1788. Its landmark achievement was the passing of the Constitution of 3 May 1791,[120] the first singular pronouncement of a supreme law of the state in modern Europe. A moderately reformist document condemned by detractors as sympathetic to the ideals of the French Revolution, it soon generated strong opposition from the conservative circles of the Commonwealth's upper nobility and from Empress Catherine of Russia, who was determined to prevent the rebirth of a strong Commonwealth. The nobility's Targowica Confederation, formed in Russian imperial capital of Saint Petersburg, appealed to Catherine for help, and in May 1792, the Russian army entered the territory of the Commonwealth.[121] The Polish–Russian War of 1792, a defensive war fought by the forces of the Commonwealth against Russian invaders, ended when the Polish king, convinced of the futility of resistance, capitulated by joining the Targowica Confederation. The Russian-allied confederation took over the government, but Russia and Prussia in 1793 arranged for the Second Partition of Poland anyway. The partition left the country with a critically reduced territory that rendered it essentially incapable of an independent existence. The Commonwealth's Grodno Sejm of 1793, the last Sejm of the state's existence,[122] was compelled to confirm the new partition.[123]
 
 The Kościuszko Uprising of 1794 and the end of Polish–Lithuanian state
 
-Smuglewicz_Kosciuszko.jpg's call for a national uprising, Kraków 1794]]
+'s call for a national uprising, Kraków 1794]]
 
 Radicalized by recent events, Polish reformers (whether in exile or still resident in the reduced area remaining to the Commonwealth) were soon working on preparations for a national insurrection. Tadeusz Kościuszko, a popular general and a veteran of the American Revolution, was chosen as its leader. He returned from abroad and issued Kościuszko's proclamation in Kraków on March 24, 1794. It called for a national uprising under his supreme command.[124] Kościuszko emancipated many peasants in order to enroll them as _kosynierzy_ in his army, but the hard-fought insurrection, despite widespread national support, proved incapable of generating the foreign assistance necessary for its success. In the end, it was suppressed by the combined forces of Russia and Prussia, with Warsaw captured in November 1794 in the aftermath of the Battle of Praga.
 
-Partitions_of_Poland.png (1772, 1793, and 1795)]]
+(1772, 1793, and 1795)]]
 
 In 1795, a Third Partition of Poland was undertaken by Russia, Prussia and Austria as a final division of territory that resulted in the effective dissolution of the Polish–Lithuanian Commonwealth.[125] King Stanisław August Poniatowski was escorted to Grodno, forced to abdicate, and retired to Saint Petersburg.[126][127] Tadeusz Kościuszko, initially imprisoned, was allowed to emigrate to the United States in 1796.[128]
 
@@ -179,7 +179,7 @@ Armed resistance (1795–1864)
 
 Napoleonic wars
 
-Death_of_Poniatowski.jpg, army chief of the Duchy of Warsaw, at the Battle of Leipzig]]
+, army chief of the Duchy of Warsaw, at the Battle of Leipzig]]
 
 Although no sovereign Polish state existed between 1795 and 1918, the idea of Polish independence was kept alive throughout the 19th century. There were a number of uprisings and other armed undertakings waged against the partitioning powers. Military efforts after the partitions were first based on the alliances of Polish émigrés with post-revolutionary France. Jan Henryk Dąbrowski's Polish Legions fought in French campaigns outside of Poland between 1797 and 1802 in hopes that their involvement and contribution would be rewarded with the liberation of their Polish homeland.[130] The Polish national anthem, "Poland Is Not Yet Lost", or "Dąbrowski's Mazurka", was written in praise of his actions by Józef Wybicki in 1797.[131]
 
@@ -187,17 +187,17 @@ The Duchy of Warsaw, a small, semi-independent Polish state, was created in 1807
 
 The Congress of Vienna
 
-Adam_Jerzy_Czartoryski_by_J.Oleszkiewicz_02.jpg]]
+]]
 
 After Napoleon's defeat, a new European order was established at the Congress of Vienna, which met in the years 1814 and 1815. Adam Jerzy Czartoryski, a former close associate of Emperor Alexander I, became the leading advocate for the Polish national cause. The Congress implemented a new partition scheme, which took into account some of the gains realized by the Poles during the Napoleonic period. The Duchy of Warsaw was replaced in 1815 with a new Kingdom of Poland, unofficially known as Congress Poland.[134] The residual Polish kingdom was joined to the Russian Empire in a personal union under the Russian tsar and it was allowed its own constitution and military. East of the kingdom, large areas of the former Polish–Lithuanian Commonwealth remained directly incorporated into the Russian Empire as the Western Krai. These territories, along with Congress Poland, are generally considered to form the Russian Partition. The Russian, Prussian, and Austrian "partitions" are informal names for the lands of the former Commonwealth, not actual units of administrative division of Polish–Lithuanian territories after partitions.[135] The Prussian Partition included a portion separated as the Grand Duchy of Posen.[136] Peasants under the Prussian administration were gradually enfranchised under the reforms of 1811 and 1823. The limited legal reforms in the Austrian Partition were overshadowed by its rural poverty. The Free City of Cracow was a tiny republic created by the Congress of Vienna under the joint supervision of the three partitioning powers.[137] Despite the bleak from the standpoint of Polish patriots political situation, economic progress was made in the lands taken over by foreign powers because the period after the Congress of Vienna witnessed a significant development in the building of early industry.[138]
 
 The Uprising of November 1830
 
-Marcin_Zaleski,_Wzięcie_Arsenału.jpg of 1830]]
+of 1830]]
 
 The increasingly repressive policies of the partitioning powers led to resistance movements in partitioned Poland, and in 1830 Polish patriots staged the November Uprising.[139] This revolt developed into a full-scale war with Russia, but the leadership was taken over by Polish conservatives who were reluctant to challenge the empire and hostile to broadening the independence movement's social base through measures such as land reform. Despite the significant resources mobilized, a series of errors by several successive chief commanders appointed by the insurgent Polish National Government led to the defeat of its forces by the Russian army in 1831.[140] Congress Poland lost its constitution and military, but formally remained a separate administrative unit within the Russian Empire.[141]
 
-Chopin,_by_Wodzinska.JPG, a Romantic composer of piano works, including many inspired by Polish traditional dance music]]
+, a Romantic composer of piano works, including many inspired by Polish traditional dance music]]
 
 After the defeat of the November Uprising, thousands of former Polish combatants and other activists emigrated to Western Europe. This phenomenon, known as the Great Emigration, soon dominated Polish political and intellectual life. Together with the leaders of the independence movement, the Polish community abroad included the greatest Polish literary and artistic minds, including the Romantic poets Adam Mickiewicz, Juliusz Słowacki, Cyprian Norwid, and the composer Frédéric Chopin. In occupied and repressed Poland, some sought progress through nonviolent activism focused on education and economy, known as organic work; others, in cooperation with the emigrant circles, organized conspiracies and prepared for the next armed insurrection.[142]
 
@@ -207,7 +207,7 @@ The planned national uprising failed to materialize because the authorities in t
 
 The Uprising of January 1863
 
-Romuald_Traugutt_111.PNG, the last supreme commander of the 1863 Uprising]]
+, the last supreme commander of the 1863 Uprising]]
 
 As a matter of continuous policy, the Russian autocracy kept assailing Polish national core values of language, religion and culture.[147] In consequence, despite the limited liberalization measures allowed in Congress Poland under the rule of Tsar Alexander II of Russia, a renewal of popular liberation activities took place in 1860–1861. During large-scale demonstrations in Warsaw, Russian forces inflicted numerous casualties on the civilian participants. The "Red", or left-wing faction of Polish activists, which promoted peasant enfranchisement and cooperated with Russian revolutionaries, became involved in immediate preparations for a national uprising. The "White", or right-wing faction, was inclined to cooperate with the Russian authorities and countered with partial reform proposals. In order to cripple the manpower potential of the Reds, Aleksander Wielopolski, the conservative leader of the government of Congress Poland, arranged for a partial selective conscription of young Poles for the Russian army in the years 1862 and 1863.[148] This action hastened the outbreak of hostilities. The January Uprising, joined and led after the initial period by the Whites, was fought by partisan units against an overwhelmingly advantaged enemy. The uprising lasted from January 1863 to the spring of 1864,[149] when Romuald Traugutt, the last supreme commander of the insurgency, was captured by the tsarist police.[150][151]
 
@@ -217,7 +217,7 @@ Formation of modern Polish society under foreign rule (1864–1914)
 
 Repression and organic work
 
-Prus_002.jpg (1847–1912), a leading novelist, journalist and philosopher of Poland's Positivism movement]]
+(1847–1912), a leading novelist, journalist and philosopher of Poland's Positivism movement]]
 
 The failure of the January Uprising in Poland caused a major psychological trauma and became a historic watershed; indeed, it sparked the development of modern Polish nationalism. The Poles, subjected within the territories under the Russian and Prussian administrations to still stricter controls and increased persecution, sought to preserve their identity in non-violent ways. After the uprising, Congress Poland was downgraded in official usage from the "Kingdom of Poland" to the "Vistula Land" and was more fully integrated into Russia proper, but not entirely obliterated. The Russian and German languages were imposed in all public communication, and the Catholic Church was not spared from severe repression. Public education was increasingly subjected to Russification and Germanisation measures. Illiteracy was reduced, most effectively in the Prussian partition, but education in the Polish language was preserved mostly through unofficial efforts. The Prussian government pursued German colonization, including the purchase of Polish-owned land. On the other hand, the region of Galicia (western Ukraine and southern Poland) experienced a gradual relaxation of authoritarian policies and even a Polish cultural revival. Economically and socially backward, it was under the milder rule of the Austro-Hungarian Monarchy and from 1867 was increasingly allowed limited autonomy.[155] _Stańczycy_, a conservative Polish pro-Austrian faction led by great land owners, dominated the Galician government. The Polish Academy of Learning (an academy of sciences) was founded in Kraków in 1872.[156]
 
@@ -227,7 +227,7 @@ Positivism in Poland replaced Romanticism as the leading intellectual, social an
 
 Economic development and social change
 
-Gierymski_Feast_of_trumpets_I.jpg emigrated from the Polish–Lithuanian lands in the late 19th and early 20th centuries, but most remained to form a large ethnic minority]]
+emigrated from the Polish–Lithuanian lands in the late 19th and early 20th centuries, but most remained to form a large ethnic minority]]
 
 Under the partitioning powers, economic diversification and progress, including large-scale industrialisation, were introduced in the traditionally agrarian Polish lands, but this development turned out to be very uneven. Advanced agriculture was practiced in the Prussian Partition, except for Upper Silesia, where the coal-mining industry created a large labor force. The densest network of railroads was built in German-ruled western Poland. In Russian Congress Poland, a striking growth of industry, railways and towns took place, all against the background of an extensive, but less productive agriculture.[163] The industrial initiative, capital and know-how were provided largely by entrepreneurs who were not ethnic Poles.[164] Warsaw (a metallurgical center) and Łódź (a textiles center) grew rapidly, as did the total proportion of urban population, making the region the most economically advanced in the Russian Empire (industrial production exceeded agricultural production there by 1909). The coming of the railways spurred some industrial growth even in the vast Russian Partition territories outside of Congress Poland. The Austrian Partition was rural and poor, except for the industrialized Cieszyn Silesia area. Galician economic expansion after 1890 included oil extraction and resulted in the growth of Lemberg (Lwów, Lviv) and Kraków.[165]
 
@@ -237,7 +237,7 @@ Social and economic changes were partial and gradual. The degree of industrialis
 
 Nationalism, socialism and other movements
 
-RLuxemburgCpWz.jpg, leader of the Social Democracy of the Kingdom of Poland and Lithuania]] Mariecurie.jpg, discoverer of radioactive elements]]
+, leader of the Social Democracy of the Kingdom of Poland and Lithuania]] , discoverer of radioactive elements]]
 
 In the 1870s–1890s, large-scale socialist, nationalist, agrarian and other political movements of great ideological fervor became established in partitioned Poland and Lithuania, along with corresponding political parties to promote them. Of the major parties, the socialist First Proletariat was founded in 1882, the Polish League (precursor of National Democracy) in 1887, the Polish Social Democratic Party of Galicia and Silesia in 1890, the Polish Socialist Party in 1892, the Marxist Social Democracy of the Kingdom of Poland and Lithuania in 1893, the agrarian People's Party of Galicia in 1895 and the Jewish socialist Bund in 1897. Christian democracy regional associations allied with the Catholic Church were also active; they united into the Polish Christian Democratic Party in 1919. The main minority ethnic groups of the former Commonwealth, including Ukrainians, Lithuanians, Belarusians and Jews, were getting involved in their own national movements and plans, which met with disapproval on the part of those Polish independence activists who counted on an eventual rebirth of the Commonwealth or the rise of a Commonwealth-inspired federal structure (a political movement referred to as Prometheism).[169]
 
@@ -245,9 +245,7 @@ Around the start of the 20th century, the Young Poland cultural movement, center
 
 The Revolution of 1905
 
-Demonstrators attacked during the 1905 Russian Revolution in Poland|thumb|left
-
-Roman_Dmowski_in_color.jpg's National Democracy ideology proved highly influential in Polish politics. He favored the dominance of Polish-speaking Catholics in civic life without concern for the rights of ethnic minorities, in particular the Jews, whose emigration he advocated.]]
+'s National Democracy ideology proved highly influential in Polish politics. He favored the dominance of Polish-speaking Catholics in civic life without concern for the rights of ethnic minorities, in particular the Jews, whose emigration he advocated.]]
 
 The Revolution of 1905–1907 in Russian Poland,[172] the result of many years of pent-up political frustrations and stifled national ambitions, was marked by political maneuvering, strikes and rebellion. The revolt was part of much broader disturbances throughout the Russian Empire associated with the general Revolution of 1905. In Poland, the principal revolutionary figures were Roman Dmowski and Józef Piłsudski. Dmowski was associated with the right-wing nationalist movement National Democracy, whereas Piłsudski was associated with the Polish Socialist Party. As the authorities re-established control within the Russian Empire, the revolt in Congress Poland, placed under martial law, withered as well, partially as a result of tsarist concessions in the areas of national and workers' rights, including Polish representation in the newly created Russian Duma. The collapse of the revolt in the Russian Partition, coupled with intensified Germanization in the Prussian Partition, left Austrian Galicia as the territory where Polish patriotic action was most likely to flourish.[173]
 
@@ -257,21 +255,21 @@ Polish paramilitary organizations oriented toward independence, such as the Unio
 
 World War I and the issue of Poland's independence
 
-Pilsudski_in_Otwock.jpg with his legionaries in 1915]]
+with his legionaries in 1915]]
 
 The outbreak of World War I in the Polish lands offered Poles unexpected hopes for achieving independence as a result of the turbulence that engulfed the empires of the partitioning powers. All three of the monarchies that had benefited from the partition of Polish territories (Germany, Austria and Russia) were dissolved by the end of the war, and many of their territories were dispersed into new political units. At the start of the war, the Poles found themselves conscripted into the armies of the partitioning powers in a war that was not theirs. Furthermore, they were frequently forced to fight each other, since the armies of Germany and Austria were allied against Russia. Piłsudski's paramilitary units stationed in Galicia were turned into the Polish Legions in 1914 and as a part of the Austro-Hungarian Army fought on the Russian front until 1917, when the formation was disbanded.[177] Piłsudski, who refused demands that his men fight under German command, was arrested and imprisoned by the Germans and became a heroic symbol of Polish nationalism.[178][179]
 
-Ignacy_Paderewski_02.jpg was a pianist and a statesman]]
+was a pianist and a statesman]]
 
 Due to a series of German victories on the Eastern Front, the area of Congress Poland became occupied by the Central Powers of Germany and Austria;[180] Warsaw was captured by the Germans on 5 August 1915. In the Act of 5th November 1916, a fresh incarnation of the Kingdom of Poland (_Królestwo Regencyjne_) was proclaimed by Germany and Austria on formerly Russian-controlled territories,[181] within the German _Mitteleuropa_ scheme. The sponsor states were never able to agree on a candidate to assume the throne, however; rather, it was governed in turn by German and Austrian governor-generals, a Provisional Council of State, and a Regency Council. This increasingly autonomous puppet state existed until November 1918, when it was replaced by the newly established Republic of Poland. The existence of this "kingdom" and its planned Polish army had a positive effect on the Polish national efforts on the Allied side, but in the Treaty of Brest-Litovsk of March 1918 the victorious in the east Germany imposed harsh conditions on defeated Russia and ignored Polish interests.[182][183][184] Toward the end of the war, the German authorities engaged in massive, purposeful devastation of industrial and other economic potential of Polish lands in order to impoverish the country, a likely future competitor of Germany.[185]
 
-Polish_Regents_1916.jpg in 1918. The "Kingdom" was established to entice Poles to cooperate with the Central Powers.]]
+in 1918. The "Kingdom" was established to entice Poles to cooperate with the Central Powers.]]
 
 The independence of Poland had been campaigned for in Russia and in the West by Dmowski and in the West by Ignacy Jan Paderewski. Tsar Nicholas II of Russia, and then the leaders of the February Revolution and the October Revolution of 1917, installed governments who declared in turn their support for Polish independence.[186] In 1917, France formed the Blue Army (placed under Józef Haller) that comprised about 70,000 Poles by the end of the war, including men captured from German and Austrian units and 20,000 volunteers from the United States. There was also a 30,000-men strong Polish anti-German army in Russia. Dmowski, operating from Paris as head of the Polish National Committee (KNP), became the spokesman for Polish nationalism in the Allied camp. On the initiative of Woodrow Wilson's Fourteen Points, Polish independence was officially endorsed by the Allies in June 1918.[187][188][189]
 
 In all, about two million Poles served in the war, counting both sides, and about 400–450,000 died. Much of the fighting on the Eastern Front took place in Poland, and civilian casualties and devastation were high.[190][191]
 
-Ignacy_Daszyński_1915.jpg]]
+]]
 
 The final push for independence of Poland took place on the ground in October–November 1918. Near the end of the war, Austro-Hungarian and German units were being disarmed, and the Austrian army's collapse freed Cieszyn and Kraków at the end of October. Lviv was then contested in the Polish–Ukrainian War of 1918–1919. Ignacy Daszyński headed the first short-lived independent Polish government in Lublin from 7 November, the leftist Provisional People's Government of the Republic of Poland, proclaimed as a democracy. Germany, now defeated, was forced by the Allies to stand down its large military forces in Poland. Overtaken by the German Revolution of 1918–1919 at home, the Germans released Piłsudski from prison. He arrived in Warsaw on 10 November and was granted extensive authority by the Regency Council; Piłsudski's authority was also recognized by the Lublin government.[192] On 22 November, he became the temporary head of state. Piłsudski was held by many in high regard, but was resented by the right-wing National Democrats. The emerging Polish state was internally divided, heavily war-damaged and economically dysfunctional.[193][194]
 
@@ -280,21 +278,21 @@ Second Polish Republic (1918–1939)
 
 Securing national borders, war with Soviet Russia
 
-Powstanie_wielkopolskie_1919.jpg, a war with Germany, erupted in December 1918]]
+, a war with Germany, erupted in December 1918]]
 
 After more than a century of foreign rule, Poland regained its independence at the end of World War I as one of the outcomes of the negotiations that took place at the Paris Peace Conference of 1919.[195] The Treaty of Versailles that emerged from the conference set up an independent Polish nation with an outlet to the sea, but left some of its boundaries to be decided by plebiscites. The largely German-inhabited Free City of Danzig was granted a separate status that guaranteed its use as a port by Poland. In the end, the settlement of the German-Polish border turned out to be a prolonged and convoluted process. The dispute helped engender the Greater Poland Uprising of 1918–1919, the three Silesian uprisings of 1919–1921, the East Prussian plebiscite of 1920, the Upper Silesia plebiscite of 1921 and the 1922 Silesian Convention in Geneva.[196][197][198]
 
 Other boundaries were settled by war and subsequent treaties. A total of six border wars were fought in 1918–1921, including the Polish–Czechoslovak border conflicts over Cieszyn Silesia in January 1919.[199]
 
-Polish-soviet_war_1920_Polish_defences_near_Milosna,_August.jpg, defenses near Warsaw, August 1920]]
+, defenses near Warsaw, August 1920]]
 
 As distressing as these border conflicts were, the Polish–Soviet War of 1919–1921 was the most important series of military actions of the era. Piłsudski had entertained far-reaching anti-Russian cooperative designs in Eastern Europe, and in 1919 the Polish forces pushed eastward into Lithuania, Belarus and Ukraine by taking advantage of the Russian preoccupation with a civil war, but they were soon confronted with the Soviet westward offensive of 1918–1919. Western Ukraine was already a theater of the Polish–Ukrainian War, which eliminated the proclaimed West Ukrainian People's Republic in July 1919. In the autumn of 1919, Piłsudski rejected urgent pleas from the former Entente powers to support Anton Denikin's White movement in its advance on Moscow.[200] The Polish–Soviet War proper began with the Polish Kiev Offensive in April 1920.[201] Allied with the Directorate of Ukraine of the Ukrainian People's Republic, the Polish armies had advanced past Vilnius, Minsk and Kiev by June.[202] At that time, a massive Soviet counter-offensive pushed the Poles out of most of Ukraine. On the northern front, the Soviet army reached the outskirts of Warsaw in early August. A Soviet triumph and the quick end of Poland seemed inevitable. However, the Poles scored a stunning victory at the Battle of Warsaw (1920). Afterwards, more Polish military successes followed, and the Soviets had to pull back. They left swathes of territory populated largely by Belarusians or Ukrainians to Polish rule. The new eastern boundary was finalized by the Peace of Riga in March 1921.[203][204][205]
 
-Daszynski_and_Witos.jpg (right) and Ignacy Daszyński headed a wartime cabinet in 1920. Witos was an agrarian party leader and a centrist politician, later persecuted under the Sanation regime.]]
+(right) and Ignacy Daszyński headed a wartime cabinet in 1920. Witos was an agrarian party leader and a centrist politician, later persecuted under the Sanation regime.]]
 
 The defeat of the Russian armies forced Vladimir Lenin and the Soviet leadership to postpone their strategic objective of linking up with the German and other European revolutionary leftist collaborators to spread communist revolution. Lenin also hoped for generating support for the Red Army in Poland, which failed to materialize.[206]
 
-Wojciech_Korfanty.PNG fought for a Polish Silesia and was the leader of the Polish Christian Democratic Party]]
+fought for a Polish Silesia and was the leader of the Polish Christian Democratic Party]]
 
 Piłsudski's seizure of Vilnius in October 1920 (known as Żeligowski's Mutiny) was a nail in the coffin of the already poor Lithuania–Poland relations that had been strained by the Polish–Lithuanian War of 1919–1920; both states would remain hostile to one another for the remainder of the interwar period.[207] Piłsudski's concept of Intermarium (an East European federation of states inspired by the tradition of the multiethnic Polish–Lithuanian Commonwealth that would include a hypothetical multinational successor state to the Grand Duchy of Lithuania)[208] had the fatal flaw of being incompatible with his assumption of Polish domination, which would amount to an encroachment on the neighboring peoples' lands and aspirations. At the time of rising national movements, the plan thus ceased being a feature of Poland's politics.[209][210][211] A larger federated structure was also opposed by Dmowski's National Democrats. Their representative at the Peace of Riga talks, Stanisław Grabski, opted for leaving Minsk, Berdychiv, Kamianets-Podilskyi and the surrounding areas on the Soviet side of the border. The National Democrats did not want to assume the lands they considered politically undesirable, as such territorial enlargement would result in a reduced proportion of citizens who were ethnically Polish.[212][213][214]
 
@@ -304,7 +302,7 @@ The successful outcome of the Polish–Soviet War gave Poland a false sense of i
 
 Democratic politics (1918–1926)
 
-Narutowicz_death.jpg]]
+]]
 
 Among the chief difficulties faced by the government of the new Polish republic was the lack of an integrated infrastructure among the formerly separate partitions, a deficiency that disrupted industry, transportation, trade, and other areas.[225]
 
@@ -312,7 +310,7 @@ The first Polish legislative election for the re-established Sejm (national parl
 
 The rapidly growing population of Poland within its new boundaries was ¾ agricultural and ¼ urban; Polish was the primary language of only ⅔ of the inhabitants of the new country. The minorities had very little voice in the government. The permanent March Constitution of Poland was adopted in March 1921. At the insistence of the National Democrats, who were concerned about how aggressively Józef Piłsudski might exercise presidential powers if he were elected to office, the constitution mandated limited prerogatives for the presidency.[227]
 
-Władysław_Grabski_1925.jpg reformed the currency]]
+reformed the currency]]
 
 The proclamation of the March Constitution was followed by a short and turbulent period of constitutional order and parliamentary democracy that lasted until 1926. The legislature remained fragmented, without stable majorities, and governments changed frequently. The open-minded Gabriel Narutowicz was elected president constitutionally (without a popular vote) by the National Assembly in 1922. However, members of the nationalist right-wing faction did not regard his elevation as legitimate. They viewed Narutowicz rather as a traitor whose election was pushed through by the votes of alien minorities. Narutowicz and his supporters were subjected to an intense harassment campaign, and the president was assassinated on 16 December 1922, after serving only five days in office.[228]
 
@@ -322,13 +320,13 @@ Land reform measures were passed in 1919 and 1925 under pressure from an impover
 
 Piłsudski's coup and the Sanation Era (1926–1935)
 
-Piłsudski_May_1926.jpg of 1926 defined Poland's political reality in the years leading to World War II]]
+of 1926 defined Poland's political reality in the years leading to World War II]]
 
 On 12 May 1926, Piłsudski staged the May Coup, a military overthrow of the civilian government mounted against President Stanisław Wojciechowski and the troops loyal to the legitimate government. Hundreds died in fratricidal fighting.[235] Piłsudski was supported by several leftist factions who ensured the success of his coup by blocking the railway transportation of government forces.[236] He also had the support of the conservative great landowners, a move that left the right-wing National Democrats as the only major social force opposed to the takeover.[237][238]
 
 Following the coup, the new regime initially respected many parliamentary formalities, but gradually tightened its control and abandoned pretenses. The Centrolew, a coalition of center-left parties, was formed in 1929, and in 1930 called for the "abolition of dictatorship". In 1930, the Sejm was dissolved and a number of opposition deputies were imprisoned at the Brest Fortress. Five thousand political opponents were arrested ahead of the Polish legislative election of 1930,[239] which was rigged to award a majority of seats to the pro-regime Nonpartisan Bloc for Cooperation with the Government (BBWR).[240][241][242]
 
-Rydz_Smigly_Bulawa1.jpg and Marshal Edward Rydz-Śmigły were among top leaders of Sanation Poland]]
+and Marshal Edward Rydz-Śmigły were among top leaders of Sanation Poland]]
 
 The authoritarian Sanation regime ("sanation" meant to denote "healing") that Piłsudski led until his death in 1935 (and would remain in place until 1939) reflected the dictator's evolution from his center-left past to conservative alliances.[243] Political institutions and parties were allowed to function, but the electoral process was manipulated and those not willing to cooperate submissively were subjected to repression. From 1930, persistent opponents of the regime, many of the leftist persuasion, were imprisoned and subjected to staged legal processes with harsh sentences, such as the Brest trials, or else detained in the Bereza Kartuska prison and similar camps for political prisoners. About three thousand were detained without trial at different times at the Bereza internment camp between 1934 and 1939. In 1936 for example, 369 activists were taken there, including 342 Polish communists.[244] Rebellious peasants staged riots in 1932, 1933 and the 1937 peasant strike in Poland. Other civil disturbances were caused by striking industrial workers (e.g. events of the "Bloody Spring" of 1936), nationalist Ukrainians and the activists of the incipient Belarusian movement. All became targets of ruthless police-military pacification.[245][246][247][248] Besides sponsoring political repression, the regime fostered Józef Piłsudski's cult of personality that had already existed long before he assumed dictatorial powers.
 
@@ -340,7 +338,7 @@ When Marshal Piłsudski died in 1935, he retained the support of dominant sectio
 
 Social and economic trends of the interwar period
 
-Eugeniusz_Kwiatkowski.PNG promoted Poland's Central Industrial Region]]
+promoted Poland's Central Industrial Region]]
 
 Independence stimulated the development of Polish culture in the Interbellum and intellectual achievement was high. Warsaw, whose population almost doubled between World War I and World War II, was a restless, burgeoning metropolis. It outpaced Kraków, Lwów and Wilno, the other major population centers of the country.[258]
 
@@ -356,11 +354,11 @@ Conditions in the predominant agricultural sector kept deteriorating between 192
 
 Final Sanation years (1935–1939)
 
-Składkowski_premierem.jpg became the Second Polish Republic's last prime minister]]
+became the Second Polish Republic's last prime minister]]
 
 After Piłsudski's death in 1935, Poland was governed until (and initially during) the German invasion of 1939 by old allies and subordinates known as "Piłsudski's colonels". They had neither the vision nor the resources to cope with the perilous situation facing Poland in the late 1930s. The colonels had gradually assumed greater powers during Piłsudski's life by manipulating the ailing marshal behind the scenes.[269] Eventually they achieved an overt politicization of the army that did nothing to help prepare the country for war.[270]
 
-Beck_przemówienie.jpg rejected the proposed risky alliances with Nazi Germany and with the Soviet Union[271]]]
+rejected the proposed risky alliances with Nazi Germany and with the Soviet Union[271]]]
 
 Foreign policy was the responsibility of Józef Beck, under whom Polish diplomacy attempted balanced approaches toward Germany and the Soviet Union, unfortunately without success, on the basis of a flawed understanding of the European geopolitics of his day. Beck had numerous foreign policy schemes and harbored illusions of Poland's status as a great power. He alienated most of Poland's neighbors, but is not blamed by historians for the ultimate failure of relations with Germany. The principal events of his tenure were concentrated in its last two years. In the case of the 1938 Polish ultimatum to Lithuania, the Polish action nearly resulted in a German takeover of southwest Lithuania, the Klaipėda Region (Memel Territory), which had a largely German population.[272] Also in 1938, the Polish government opportunistically undertook a hostile action against the Czechoslovak state as weakened by the Munich Agreement and annexed a small piece of territory on its borders.[273] In this case, Beck's understanding of the consequences of the Polish military move turned out to be completely mistaken,[274][275] because in the end the German occupation of Czechoslovakia markedly weakened Poland's own position.[276] Furthermore, Beck erroneously believed that Nazi-Soviet ideological contradictions would preclude their cooperation.[277]
 
@@ -368,7 +366,7 @@ At home, increasingly alienated minorities threatened unrest and violence and we
 
 In the late 1930s, the exile bloc Front Morges united several major Polish anti-Sanation figures, including Ignacy Paderewski, Władysław Sikorski, Wincenty Witos, Wojciech Korfanty and Józef Haller. It gained little influence inside Poland, but its spirit soon reappeared during World War II, within the Polish government-in-exile.[282]
 
-Warsaw_1939_Krakowskie_Przedmiescie_photo.jpg Street in prewar Warsaw (1939)]]
+Street in prewar Warsaw (1939)]]
 
 In October 1938, Joachim von Ribbentrop first proposed German-Polish territorial adjustments and Poland's participation in the Anti-Comintern Pact against the Soviet Union.[283] The status of the Free City of Danzig was one of the key bones of contention. Approached by Ribbentrop again in March 1939, the Polish government expressed willingness to address issues causing German concern, but effectively rejected Germany's stated demands and thus refused to allow Poland to be turned by Adolf Hitler into a German puppet state.[284] Hitler, incensed by the British and French declarations of support for Poland,[285] abrogated the German–Polish Non-Aggression Pact in late April 1939.[286][287][288]
 
@@ -381,25 +379,25 @@ World War II
 
 Invasions and resistance
 
-Schleswig_Holstein_firing_Gdynia_13.09.1939.jpg shells Westerplatte, 1 September 1939]]
+shells Westerplatte, 1 September 1939]]
 
 On 1 September 1939, Hitler ordered an invasion of Poland, the opening event of World War II. Poland had signed an Anglo-Polish military alliance as recently as 25 August, and had long been in alliance with France. The two Western powers soon declared war on Germany, but they remained largely inactive (the period early in the conflict became known as the Phoney War) and extended no aid to the attacked country. The technically and numerically superior _Wehrmacht_ formations rapidly advanced eastwards and engaged massively in the murder of Polish civilians over the entire occupied territory.[299] On 17 September, a Soviet invasion of Poland began. The Soviet Union quickly occupied most of the areas of eastern Poland that contained large populations of Ukrainians and Belarusians. The two invading powers divided up the country as they had agreed in the secret provisions of the Molotov–Ribbentrop Pact. Poland's top government officials and military high command fled the war zone and arrived at the Romanian Bridgehead in mid-September. After the Soviet entry they sought refuge in Romania.[300][301][302]
 
 Among the military operations in which Poles held out the longest (until late September or early October) were the Siege of Warsaw, the Battle of Hel and the resistance of the Independent Operational Group Polesie. Warsaw fell on 27 September after a heavy German bombardment that killed tens of thousands civilians and soldiers.[303] Poland was ultimately partitioned between Germany and the Soviet Union according to the terms of the German–Soviet Frontier Treaty signed by the two powers in Moscow on 29 September.[304]
 
-Poland_in_1939.jpg (1939)]]
+(1939)]]
 
 Gerhard Weinberg has argued that the most significant Polish contribution to World War II was sharing its code-breaking results.[305] This allowed the British to perform the cryptanalysis of the Enigma and decipher the main German military code, which gave the Allies a major advantage in the conflict.[306] As regards actual military campaigns, some Polish historians have argued that simply resisting the initial invasion of Poland was the country's greatest contribution to the victory over Nazi Germany, despite its defeat. The Polish Army of nearly one million men significantly delayed the start of the Battle of France, planned by the Germans for 1939. When the Nazi offensive in the West did happen, the delay caused it to be less effective, a possibly crucial factor in the victory of the Battle of Britain.[307]
 
 After Germany invaded the Soviet Union as part of its Operation Barbarossa in June 1941, the whole of pre-war Poland was overrun and occupied by German troops.[308]
 
-Piloci_303.jpg won fame in the Battle of Britain]]
+won fame in the Battle of Britain]]
 
 German-occupied Poland was divided from 1939 into two regions: Polish areas annexed by Nazi Germany directly into the German _Reich_ and areas ruled under a so-called General Government of occupation.[309] The Poles formed an underground resistance movement and a Polish government-in-exile that operated first in Paris, then, from July 1940, in London.[310] Polish-Soviet diplomatic relations, broken since September 1939, were resumed in July 1941 under the Sikorski–Mayski agreement, which facilitated the formation of a Polish army (the Anders' Army) in the Soviet Union.[311][312] In November 1941, Prime Minister Sikorski flew to the Soviet Union to negotiate with Stalin on its role on the Soviet-German front, but the British wanted the Polish soldiers in the Middle East. Stalin agreed, and the army was evacuated there.[313][314]
 
 The organizations forming the Polish Underground State that functioned in Poland throughout the war were loyal to and formally under the Polish government-in-exile, acting through its Government Delegation for Poland.[315] During World War II, hundreds of thousands of Poles joined the underground Polish Home Army (_Armia Krajowa_),[316] a part of the Polish Armed Forces of the government-in-exile.[317] About 200,000 Poles fought on the Western Front in the Polish Armed Forces in the West loyal to the government-in-exile, and about 300,000 in the Polish Armed Forces in the East under the Soviet command on the Eastern Front.[318] The pro-Soviet resistance movement in Poland, led by the Polish Workers' Party, was active from 1941. It was opposed by the gradually forming extreme nationalistic National Armed Forces.[319]
 
-Stroop_Report_-_Warsaw_Ghetto_Uprising_09.jpg]]
+]]
 
 Beginning in late 1939, hundreds of thousands of Poles from the Soviet-occupied areas were deported and taken east. Of the upper-ranking military personnel and others deemed uncooperative or potentially harmful by the Soviets, about 22,000 were secretly executed by them at the Katyn massacre.[320] In April 1943, the Soviet Union broke off deteriorating relations with the Polish government-in-exile after the German military announced the discovery of mass graves containing murdered Polish army officers. The Soviets claimed that the Poles committed a hostile act by requesting that the Red Cross investigate these reports.[321]
 
@@ -407,13 +405,13 @@ From 1941, the implementation of the Nazi Final Solution began, and the Holocaus
 
 Soviet advance 1944–1945, Warsaw Uprising
 
-Sikorski_in_Gibraltar.jpg, prime minister of the Polish government-in-exile and commander-in-chief of Polish armed forces, shortly before his death in 1943]]
+, prime minister of the Polish government-in-exile and commander-in-chief of Polish armed forces, shortly before his death in 1943]]
 
 At a time of increasing cooperation between the Western Allies and the Soviet Union in the wake of the Nazi invasion of 1941, the influence of the Polish government-in-exile was seriously diminished by the death of Prime Minister Władysław Sikorski, its most capable leader, in a plane crash on 4 July 1943.[324] His successors lacked the ability or willingness to negotiate effectively with the Soviets and proved equally ineffective in pressing for the interests of the Polish people with the Western Allies.[325]
 
 In July 1944, the Soviet Red Army and Soviet-controlled Polish People's Army entered the territory of future postwar Poland. In protracted fighting in 1944 and 1945, the Soviets and their Polish allies defeated and expelled the German army from Poland at a cost of over 600,000 Soviet soldiers lost.[326]
 
-Warsaw_Uprising_Surrender-_5_of_October_1944.jpg]]
+]]
 
 The greatest single undertaking of the Polish resistance movement in World War II and a major political event was the Warsaw Uprising that began on 1 August 1944. The uprising, in which most of the city's population participated, was instigated by the underground Home Army and approved by the Polish government-in-exile in an attempt to establish a non-communist Polish administration ahead of the arrival of the Red Army. The uprising was originally planned as a short-lived armed demonstration in expectation that the Soviet forces approaching Warsaw would assist in any battle to take the city.[327] The Soviets had never agreed to an intervention, however, and they halted their advance at the Vistula River. The Germans used the opportunity to carry out a brutal suppression of the forces of the pro-Western Polish underground.[328][329]
 
@@ -421,7 +419,7 @@ The bitterly fought uprising lasted for two months and resulted in the death or 
 
 Allied conferences, Polish governments
 
-Swierczewski_Spychalski_Zymierski.jpg on the Eastern Front]]
+on the Eastern Front]]
 
 From the time of the Tehran Conference in late 1943, there was broad agreement among the three Great Powers (the United States, the United Kingdom, and the Soviet Union) that the locations of the borders between Germany and Poland and between Poland and the Soviet Union would be fundamentally changed after the conclusion of World War II.[332][333] Stalin's proposal that Poland should be moved far to the west was readily accepted by Polish communists, including the Polish Workers' Party and the Union of Polish Patriots, who were at that time in the early stages of forming a post-war government: the State National Council, a quasi-parliamentary body, was created.[334] In July 1944, a communist-controlled Polish Committee of National Liberation was established in Lublin nominally to govern the areas liberated from German control, a move that prompted protests from Prime Minister Stanisław Mikołajczyk and his Polish government-in-exile.[335][336]
 
@@ -429,13 +427,11 @@ By the time of the Yalta Conference in February 1945, the communists had already
 
 War losses, extermination of Jews
 
-Samuel Willenberg showing his drawings of the Treblinka extermination camp|thumb|right
-
 A lack of accurate data makes it difficult to document numerically the extent of the human losses suffered by Polish citizens during World War II. Additionally, many assertions made in the past must be considered suspect due to flawed methodology and a desire to promote certain political agendas. The last available enumeration of ethnic Poles and the large ethnic minorities is the Polish census of 1931. Exact population figures for 1939 are therefore not known.[339][340]
 
 According to the United States Holocaust Memorial Museum, at least 3 million Polish Jews and at least 1.9 million non-Jewish Polish civilians were killed.[341] According to the historians Brzoza and Sowa, about 2 million ethnic Poles were killed, but it is not known, even approximately, how many Polish citizens of other ethnicities perished, including Ukrainians, Belarusians, and Germans.[342] Millions of Polish citizens were deported to Germany for forced labor or to German extermination camps such as Treblinka, Auschwitz and Sobibór. Nazi Germany intended to exterminate the Jews completely, in actions that have come to be described collectively as the Holocaust.[343] The Poles were to be expelled from areas controlled by Nazi Germany through a process of resettlement that started in 1939. Such Nazi operations matured into a plan known as the _Generalplan Ost_ that amounted to displacement, enslavement and partial extermination of the Slavic people and was expected to be completed within 15 years.[344]
 
-Warsaw_Old_Town_1945.jpg destroyed, photo taken January 1945]]
+destroyed, photo taken January 1945]]
 
 In an attempt to incapacitate Polish society, the Nazis and the Soviets executed tens of thousands of members of the intelligentsia and community leadership during events such as the German AB-Aktion in Poland, Operation Tannenberg and the Katyn massacre.[345] Over 95% of the Jewish losses and 90% of the ethnic Polish losses were caused directly by Nazi Germany, whereas 5% of the ethnic Polish losses were caused by the Soviets and 5% by Ukrainian nationalists.[346] The large-scale Jewish presence in Poland that had endured for centuries was rather quickly put to an end by the policies of extermination implemented by the Nazis during the war. Waves of displacement and emigration that took place both during and after the war removed from Poland a majority of the Jews who survived. Further significant Jewish emigration followed events such as the Polish October political thaw of 1956 and the 1968 Polish political crisis.[347]
 
@@ -447,17 +443,17 @@ Approximately 90% of Poland's war casualties were the victims of prisons, death 
 
 Changing boundaries and population transfers
 
-PKWN_Manifest.jpg, officially issued on 22 July 1944 in Soviet-liberated Poland. It heralded the arrival of a communist, Soviet-dominated government of Poland.]]
+, officially issued on 22 July 1944 in Soviet-liberated Poland. It heralded the arrival of a communist, Soviet-dominated government of Poland.]]
 
 By the terms of the 1945 Potsdam Agreement signed by the three victorious Great Powers, the Soviet Union retained most of the territories captured as a result of the Molotov–Ribbentrop Pact of 1939, including western Ukraine and western Belarus, and gained others. Lithuania and the Königsberg area of East Prussia were officially incorporated into the Soviet Union, in the case of the former without the recognition of the Western powers. Poland was compensated with the bulk of Silesia, including Breslau (Wrocław) and Grünberg (Zielona Góra), the bulk of Pomerania, including Stettin (Szczecin), and the greater southern portion of the former East Prussia, along with Danzig (Gdańsk). Collectively referred to by the Polish authorities as the "Recovered Territories", they were included in the reconstituted Polish state. With Germany's defeat Poland was thus shifted west in relation to its prewar location, to the area between the Oder–Neisse and Curzon lines, which resulted in a country more compact and with much broader access to the sea. The Poles lost 70% of their pre-war oil capacity to the Soviets, but gained from the Germans a highly developed industrial base and infrastructure that made a diversified industrial economy possible for the first time in Polish history.[354]
 
-Curzon_line_en.svg: the gray territories were transferred from Poland to the Soviet Union, whereas the pink territories were transferred from Germany to Poland. Poland's new eastern border was adjusted in the following years.]]
+: the gray territories were transferred from Poland to the Soviet Union, whereas the pink territories were transferred from Germany to Poland. Poland's new eastern border was adjusted in the following years.]]
 
 The flight and expulsion of Germans from what was eastern Germany prior to the war began before and during the Soviet conquest of those regions from the Nazis, and the process continued in the years immediately after the war.[355] 8,030,000 Germans were evacuated, expelled, or migrated by 1950.[356] Early expulsions in Poland were undertaken by the Polish communist authorities even before the Potsdam Conference (the "wild expulsions" from June to mid July 1945, when the Polish military and militia expelled nearly all people from the districts immediately east of the Oder–Neisse line),[357] to ensure the establishment of ethnically homogeneous Poland.[358][359] About 1% (100,000) of the German civilian population east of the Oder–Neisse line perished in the fighting prior to the surrender in May 1945,[360] and afterwards some 200,000 Germans in Poland were employed as forced labor prior to being expelled.[361] Many Germans died in labor camps such as the Zgoda labour camp and the Potulice camp. Of those Germans who remained within the new borders of Poland, many later chose to emigrate to post-war Germany. On the other hand, 1.5–2 million ethnic Poles moved or were expelled from the previously Polish areas annexed by the Soviet Union. The vast majority were resettled in the former German territories.[362] At least one million Poles remained in what had become the Soviet Union, and at least half a million ended up in the West or elsewhere outside of Poland.[363]
 
 Many exiled Poles could not return to the country for which they had fought because they belonged to political groups incompatible with the new communist regimes, or because they originated from areas of pre-war eastern Poland that were incorporated into the Soviet Union (see Polish population transfers (1944–1946)). Some were deterred from returning simply on the strength of warnings that anyone who had served in military units in the West would be endangered. Many Poles were pursued, arrested, tortured and imprisoned by the Soviet authorities for belonging to the Home Army or other formations (see Anti-communist resistance in Poland (1944–1946)),[364] or were persecuted because they had fought on the Western front.[365]
 
-Bundesarchiv_Bild_175-S00-00326,_Flüchtlinge_aus_Ostpreußen_auf_Pferdewagen.jpg, 1945]]
+, 1945]]
 
 Territories on both sides of the new Polish-Ukrainian border were also "ethnically cleansed". Of the Ukrainians and Lemkos living in Poland within the new borders (about 700,000), close to 95% were forcibly moved to the Soviet Ukraine, or (in 1947) to the new territories in northern and western Poland under Operation Vistula. In Volhynia, 98% of the Polish pre-war population was either killed or expelled; in Eastern Galicia, the Polish population was reduced by 92%.[366] According to Timothy D. Snyder, about 70,000 Poles and about 20,000 Ukrainians were killed in the ethnic violence that occurred in the 1940s, both during and after the war.[367]
 
@@ -470,7 +466,7 @@ Polish People's Republic (1945–1989)
 
 Post-war struggle for power
 
-Mikolajczyk.jpg's Polish People's Party tried to outvote the communists in 1947, but the election process was rigged. Mikołajczyk had to flee to the West.]]
+'s Polish People's Party tried to outvote the communists in 1947, but the election process was rigged. Mikołajczyk had to flee to the West.]]
 
 In response to the February 1945 Yalta Conference directives,[373] a Polish Provisional Government of National Unity was formed in June 1945 under Soviet auspices; it was soon recognized by the United States and many other countries.[374] The Soviet domination was apparent from the beginning, as prominent leaders of the Polish Underground State were brought to trial in Moscow (the "Trial of the Sixteen" of June 1945).[375] In the immediate post-war years, the emerging communist rule was challenged by opposition groups, including militarily by the so-called "cursed soldiers", of whom thousands perished in armed confrontations or were pursued by the Ministry of Public Security and executed.[376] Such guerillas often pinned their hopes on expectations of an imminent outbreak of World War III and defeat of the Soviet Union.[377] The Polish right-wing insurgency faded after the amnesty of February 1947.[378][379]
 
@@ -478,7 +474,7 @@ The Polish people's referendum of June 1946 was arranged by the communist Polish
 
 Under Stalinism (1948–1955)
 
-Bolesław_Bierut_1949.jpg, leader of Stalinist Poland]]
+, leader of Stalinist Poland]]
 
 The Polish People's Republic (_Polska Rzeczpospolita Ludowa_) was established under the rule of the communist Polish United Workers' Party (PZPR). The name change from the Polish Republic was not officially adopted, however, until the proclamation of the Constitution of the Polish People's Republic in 1952.[386]
 
@@ -490,11 +486,11 @@ In the Warsaw Pact, formed in 1955, the army of the Polish People's Republic was
 
 Economic and social developments of the early communist era
 
-Wyszyński.jpg Stefan Wyszyński's leadership led to the exceptional strength of the Polish Catholic Church]]
+Stefan Wyszyński's leadership led to the exceptional strength of the Polish Catholic Church]]
 
 In 1944, large agricultural holdings and former German property in Poland started to be redistributed through land reform, and industry started to be nationalized.[405] Communist restructuring and the imposition of work-space rules encountered active worker opposition already in the years 1945–1947.[406] The moderate Three-Year Plan of 1947–1949 continued with the rebuilding, socialization and socialist restructuring of the economy. It was followed by the Six-Year Plan of 1950–1955 for heavy industry.[407] The rejection of the Marshall Plan in 1947 made aspirations for catching up with West European standards of living unrealistic.[408][409]
 
-PKiN_widziany_z_WFC.jpg in Warsaw]]
+in Warsaw]]
 
 The government's highest economic priority was the development of heavy industry useful to the military. State-run or controlled institutions common in all the socialist countries of eastern Europe were imposed on Poland, including collective farms and worker cooperatives. The latter were dismantled in the late 1940s as not socialist enough, although they were later re-established; even small-scale private enterprises were eradicated.[410] Stalinism introduced heavy political and ideological propaganda and indoctrination in social life, culture and education.[411][412]
 
@@ -504,7 +500,7 @@ The communist industrialization program led to increased urbanization and educat
 
 The Thaw and Gomułka's Polish October (1955–1958)
 
-Gomulka_speech.jpg]]
+]]
 
 In March 1956, after the 20th Congress of the Communist Party of the Soviet Union in Moscow ushered in de-Stalinization, Edward Ochab was chosen to replace the deceased Bolesław Bierut as first secretary of the Polish United Workers' Party.[420] As a result, Poland was rapidly overtaken by social restlessness and reformist undertakings; thousands of political prisoners were released and many people previously persecuted were officially rehabilitated.[421] Worker riots in Poznań in June 1956 were violently suppressed, but they gave rise to the formation of a reformist current within the communist party.[422][423]
 
@@ -516,7 +512,7 @@ Culture in the Polish People's Republic, to varying degrees linked to the intell
 
 Stagnation and crackdown (1958–1970)
 
-Bloki_ul._Piątkowska_-_panoramio.jpg built in communist Poland (these located in Poznań)]]
+built in communist Poland (these located in Poznań)]]
 
 One of the confirmations of the end of an era of greater tolerance was the expulsion from the communist party of several prominent "Marxist revisionists" in the 1960s.[434]
 
@@ -532,11 +528,11 @@ In the final major achievement of Gomułka diplomacy, the governments of Poland 
 
 Worker revolts, reforms of Gierek, the Polish pope and Solidarity (1970–1981)
 
-Polish_1970_protests_-_Zbyszek_Godlewski_body.jpg]]
+]]
 
 Price increases for essential consumer goods triggered the Polish protests of 1970. In December, there were disturbances and strikes in the Baltic Sea port cities of Gdańsk, Gdynia, and Szczecin that reflected deep dissatisfaction with living and working conditions in the country. The activity was centered in the industrial shipyard areas of the three coastal cities. Dozens of protesting workers and bystanders were killed in police and military actions, generally under the authority of Gomułka and Minister of Defense Wojciech Jaruzelski. In the aftermath, Edward Gierek replaced Gomułka as first secretary of the communist party. The new regime was seen as more modern, friendly and pragmatic, and at first it enjoyed a degree of popular and foreign support.[442]
 
-Gierek_in_Rząśnik.jpg (second from left) was unable to reverse Poland's economic decline]]
+(second from left) was unable to reverse Poland's economic decline]]
 
 To revitalize the economy, from 1971 the Gierek regime introduced wide-ranging reforms that involved large-scale foreign borrowing. These actions initially caused improved conditions for consumers, but in a few years the strategy backfired and the economy deteriorated. Another attempt to raise food prices resulted in the June 1976 protests.[443] The Workers' Defence Committee (KOR), established in response to the crackdown that followed, consisted of dissident intellectuals determined to support industrial workers, farmers and students persecuted by the authorities.[444][445] The opposition circles active in the late 1970s were emboldened by the Helsinki Conference processes.[446]
 
@@ -544,11 +540,11 @@ In October 1978, the Archbishop of Kraków, Cardinal Karol Józef Wojtyła, beca
 
 Fueled by large infusions of Western credit, Poland's economic growth rate was one of the world's highest during the first half of the 1970s, but much of the borrowed capital was misspent, and the centrally planned economy was unable to use the new resources effectively. The 1973 oil crisis caused recession and high interest rates in the West, to which the Polish government had to respond with sharp domestic consumer price increases. The growing debt burden became insupportable in the late 1970s, and negative economic growth set in by 1979.[448]
 
-Lech_Walesa_1980.jpg in 1980]]
+in 1980]]
 
 Around 1 July 1980, with the Polish foreign debt standing at more than $20 billion, the government made yet another attempt to increase meat prices. Workers responded with escalating work stoppages that culminated in the 1980 general strikes in Lublin.[449] In mid-August, labor protests at the Gdańsk Shipyard gave rise to a chain reaction of strikes that virtually paralyzed the Baltic coast by the end of the month and, for the first time, closed most coal mines in Silesia. The Inter-Enterprise Strike Committee coordinated the strike action across hundreds of workplaces and formulated the 21 demands as the basis for negotiations with the authorities. The Strike Committee was sovereign in its decision-making, but was aided by a team of "expert" advisers that included the well-known dissidents Jacek Kuroń, Karol Modzelewski, Bronisław Geremek and Tadeusz Mazowiecki.[450]
 
-Podpisanie_Porozumień_Sierpniowych_w_Szczecinie.jpg in Szczecin in August 1980]]
+in Szczecin in August 1980]]
 
 On 31 August 1980, representatives of workers at the Gdańsk Shipyard, led by an electrician and activist Lech Wałęsa, signed the Gdańsk Agreement with the government that ended their strike. Similar agreements were concluded in Szczecin (the Szczecin Agreement) and in Silesia. The key provision of these agreements was the guarantee of the workers' right to form independent trade unions and the right to strike. Following the successful resolution of the largest labor confrontation in communist Poland's history, nationwide union organizing movements swept the country.[451]
 
@@ -558,7 +554,7 @@ Delegates of the emergent worker committees from all over Poland gathered in Gda
 
 While party–controlled courts took up the contentious issues of Solidarity's legal registration as a trade union (finalized by November 10), planning had already begun for the imposition of martial law. A parallel farmers' union was organized and strongly opposed by the regime, but Rural Solidarity was eventually registered (12 May 1981).[454] In the meantime, a rapid deterioration of the authority of the communist party, disintegration of state power and escalation of demands and threats by the various Solidarity–affiliated groups were occurring.[455] According to Kuroń, a "tremendous social democratization movement in all spheres" was taking place and could not be contained. Wałęsa had meetings with Kania, which brought no resolution to the impasse.[456]
 
-00595309(Andropov&Jaruzelski).jpeg meeting Soviet security chief Yuri Andropov during the 1980 crisis. Jaruzelski was about to become the (last) leader of communist Poland.]]
+meeting Soviet security chief Yuri Andropov during the 1980 crisis. Jaruzelski was about to become the (last) leader of communist Poland.]]
 
 Following the Warsaw Pact summit in Moscow, the Soviet Union proceeded with a massive military build-up along Poland's border in December 1980, but during the summit Kania forcefully argued with Leonid Brezhnev and other allied communists leaders against the feasibility of an external military intervention, and no action was taken.[457] The United States, under presidents Jimmy Carter and Ronald Reagan, repeatedly warned the Soviets about the consequences of a direct intervention, while discouraging an open insurrection in Poland and signaling to the Polish opposition that there would be no rescue by the NATO forces.[458]
 
@@ -570,17 +566,17 @@ In October 1981, Jaruzelski was named first secretary of the PZPR. The Plenum's 
 
 The martial law, Jaruzelski's rule and the end of communism (1981–1989)
 
-T-55A_Martial_law_Poland.jpg enforced in December 1981]]
+enforced in December 1981]]
 
 On 12–13 December 1981, the regime declared martial law in Poland, under which the army and ZOMO riot police were used to crush Solidarity. The Soviet leaders insisted that Jaruzelski pacify the opposition with the forces at his disposal, without direct Soviet involvement. Virtually all Solidarity leaders and many affiliated intellectuals were arrested or detained. Nine workers were killed in the Pacification of Wujek. The United States and other Western countries responded by imposing economic sanctions against Poland and the Soviet Union. Unrest in the country was subdued, but continued.[463]
 
 During martial law, Poland was ruled by the so-called Military Council of National Salvation. The open or semi-open opposition communications, as recently practiced, were replaced by underground publishing (known in the eastern bloc as Samizdat), and Solidarity was reduced to a few thousand underground activists.[464][465]
 
-Pope_John_Paul_II_11_06_1987_01.jpg in Poland in 1987]]
+in Poland in 1987]]
 
 Having achieved some semblance of stability, the Polish regime relaxed and then rescinded martial law over several stages. By December 1982 martial law was suspended and a small number of political prisoners, including Wałęsa, were released. Although martial law formally ended in July 1983 and a partial amnesty was enacted, several hundred political prisoners remained in jail.[466] Jerzy Popiełuszko, a popular pro-Solidarity priest, was abducted and murdered by security functionaries in October 1984.[467][468]
 
-Czeslaw_MIlosz_2_ap.tif ranks among the great Polish poets]]
+ranks among the great Polish poets]]
 
 Further developments in Poland occurred concurrently with and were influenced by the reformist leadership of Mikhail Gorbachev in the Soviet Union (processes known as Glasnost and Perestroika).[469] In September 1986, a general amnesty was declared and the government released nearly all political prisoners. However, the country lacked basic stability, as the regime's efforts to organize society from the top down had failed, while the opposition's attempts at creating an "alternate society" were also unsuccessful.[470] With the economic crisis unresolved and societal institutions dysfunctional, both the ruling establishment and the opposition began looking for ways out of the stalemate. Facilitated by the indispensable mediation of the Catholic Church, exploratory contacts were established.[471]
 
@@ -591,13 +587,13 @@ Third Polish Republic (1989–today)
 
 Systemic transition
 
-Tadeusz_Mazowiecki_nah.jpg, one of the leaders of the Solidarity opposition, became prime minister in 1989]]
+, one of the leaders of the Solidarity opposition, became prime minister in 1989]]
 
 The Polish Round Table Agreement of April 1989 called for local self-government, policies of job guarantees, legalization of independent trade unions and many wide-ranging reforms.[477] The current Sejm promptly implemented the deal and agreed to National Assembly elections that were set for 4 June and 18 June.[478] Only 35% of the seats in the Sejm (national legislature's lower house) and all of the Senate seats were freely contested; the remaining Sejm seats (65%) were guaranteed for the communists and their allies.[479]
 
 The failure of the communists at the polls (almost all of the contested seats were won by the opposition) resulted in a political crisis. The new April Novelization to the constitution called for re-establishment of the Polish presidency and on 19 July the National Assembly elected the communist leader, General Wojciech Jaruzelski, to that office. His election, seen at the time as politically necessary, was barely accomplished with tacit support from some Solidarity deputies, and the new president's position was not strong. Moreover, the unexpected definitiveness of the parliamentary election results created new political dynamics and attempts by the communists to form a government failed.[480][481][482]
 
-Aleksander_Kwasniewski_i_Lech_Walesa,25lecie_NSZZ.jpg with Lech Wałęsa in 2005. Kwaśniewski defeated Wałęsa in the presidential election of 1995; he was one of the several "post-communist" politicians elected to highest offices.]]
+with Lech Wałęsa in 2005. Kwaśniewski defeated Wałęsa in the presidential election of 1995; he was one of the several "post-communist" politicians elected to highest offices.]]
 
 On 19 August, President Jaruzelski asked journalist and Solidarity activist Tadeusz Mazowiecki to form a government; on 12 September, the Sejm voted approval of Prime Minister Mazowiecki and his cabinet. Mazowiecki decided to leave the economic reform entirely in the hands of economic liberals led by the new Deputy Prime Minister Leszek Balcerowicz,[483] who proceeded with the design and implementation of his "shock therapy" policy. For the first time in post-war history, Poland had a government led by non-communists, setting a precedent soon to be followed by other Eastern Bloc nations in a phenomenon known as the Revolutions of 1989.[484] Mazowiecki's acceptance of the "thick line" formula meant that there would be no "witch-hunt", i.e., an absence of revenge seeking or exclusion from politics in regard to former communist officials.[485]
 

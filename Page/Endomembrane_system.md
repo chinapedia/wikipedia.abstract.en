@@ -18,8 +18,6 @@ Components of the system
 
 Nuclear envelope
 
-Diagram_human_cell_nucleus.svg
-
 The nuclear envelope surrounds the nucleus, separating its contents from the cytoplasm. It has two membranes, each a lipid bilayer with associated proteins.[21] The outer nuclear membrane is continuous with the rough endoplasmic reticulum membrane, and like that structure, features ribosomes attached to the surface. The outer membrane is also continuous with the inner nuclear membrane since the two layers are fused together at numerous tiny holes called nuclear pores that perforate the nuclear envelope. These pores are about 120 nm in diameter and regulate the passage of molecules between the nucleus and cytoplasm, permitting some to pass through the membrane, but not others.[22] Since the nuclear pores are located in an area of high traffic, they play an important role in the physiology of cells. The space between the outer and inner membranes is called the perinuclear space and is joined with the lumen of the rough ER.
 
 The nuclear envelope's structure is determined by a network of intermediate filaments (protein filaments). This network is organized into lining similar to mesh called the nuclear lamina, which binds to chromatin, integral membrane proteins, and other nuclear components along the inner surface of the nucleus. The nuclear lamina is thought to help materials inside the nucleus reach the nuclear pores and in the disintegration of the nuclear envelope during mitosis and its reassembly at the end of the process.[23]
@@ -28,7 +26,7 @@ The nuclear pores are highly efficient at selectively allowing the passage of ma
 
 Endoplasmic reticulum
 
-nucleus_ER_golgi.svg 2 Nuclear pore 3 Rough endoplasmic reticulum (RER) 4 Smooth endoplasmic reticulum (SER) 5 Ribosome on the rough ER 6 Proteins that are transported 7 Transport vesicle 8 Golgi apparatus 9 Cis face of the Golgi apparatus 10 Trans face of the Golgi apparatus 11 Cisternae of the Golgi apparatus]]
+2 Nuclear pore 3 Rough endoplasmic reticulum (RER) 4 Smooth endoplasmic reticulum (SER) 5 Ribosome on the rough ER 6 Proteins that are transported 7 Transport vesicle 8 Golgi apparatus 9 Cis face of the Golgi apparatus 10 Trans face of the Golgi apparatus 11 Cisternae of the Golgi apparatus]]
 
 The endoplasmic reticulum (ER) is a membranous synthesis and transport organelle that is an extension of the nuclear envelope. More than half the total membrane in eukaryotic cells is accounted for by the ER. The ER is made up of flattened sacs and branching tubules that are thought to interconnect, so that the ER membrane forms a continuous sheet enclosing a single internal space. This highly convoluted space is called the ER lumen and is also referred to as the ER cisternal space. The lumen takes up about ten percent of the entire cell volume. The endoplasmic reticulum membrane allows molecules to be selectively transferred between the lumen and the cytoplasm, and since it is connected to the nuclear envelope, it provides a channel between the nucleus and the cytoplasm.[25]
 
@@ -59,8 +57,6 @@ Once secretory proteins are formed, the ER membrane separates them from the prot
 In addition to making secretory proteins, the rough ER makes membranes that grows in place from the addition of proteins and phospholipids. As polypeptides intended to be membrane proteins grow from the ribosomes, they are inserted into the ER membrane itself and are kept there by their hydrophobic portions. The rough ER also produces its own membrane phospholipids; enzymes built into the ER membrane assemble phospholipids. The ER membrane expands and can be transferred by transport vesicles to other components of the endomembrane system.[44][45]
 
 Golgi apparatus
-
-Human_leukocyte,_showing_golgi_-_TEM.jpg
 
 The Golgi apparatus (also known as the Golgi body and the Golgi complex) is composed of separate sacs called cisternae. Its shape is similar to a stack of pancakes. The number of these stacks varies with the specific function of the cell. The Golgi apparatus is used by the cell for further protein modification. The section of the Golgi apparatus that receives the vesicles from the ER is known as the cis face, and is usually near the ER. The opposite end of the Golgi apparatus is called the trans face, this is where the modified compounds leave. The trans face is usually facing the plasma membrane, which is where most of the substances the Golgi apparatus modifies are sent.[46]
 
@@ -94,7 +90,7 @@ Spitzenkörper
 
 The spitzenkörper is a component of the endomembrane system found only in fungi, and is associated with hyphal tip growth. It is a phase-dark body that is composed of an aggregation of membrane-bound vesicles containing cell wall components, serving as a point of assemblage and release of such components intermediate between the Golgi and the cell membrane. The spitzenkörper is motile and generates new hyphal tip growth as it moves forward.[57]
 
-Cell_membrane_detailed_diagram_4.svg.]]
+.]]
 
 Plasma membrane
 

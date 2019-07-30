@@ -32,16 +32,14 @@ Scholars such as Kenneth Pollack, deAtkine, and Robert Springborg have identifie
 
 Army
 
-Egyptian_Mi-8_Hip_helicopters_after_unloading_troops.jpg The inventory of the Egyptian armed forces includes equipment from the United States, France, Brazil, the United Kingdom, the Soviet Union, and the People's Republic of China. Equipment from the Soviet Union is being progressively replaced by more modern U.S., French, and British equipment, a significant portion of which is built under license in Egypt, such as the M1A1 Abrams tank.
+The inventory of the Egyptian armed forces includes equipment from the United States, France, Brazil, the United Kingdom, the Soviet Union, and the People's Republic of China. Equipment from the Soviet Union is being progressively replaced by more modern U.S., French, and British equipment, a significant portion of which is built under license in Egypt, such as the M1A1 Abrams tank.
 
 Conscripts for the Egyptian Army and other service branches without a university degree serve three years as enlisted soldiers. Conscripts with a General Secondary School Degree serve two years as enlisted personnel. Conscripts with a university degree serve one year as enlisted personnel or three years as a reserve officer. Officers for the army are trained at the Egyptian Military Academy.
 
 
 Air Force
 
-Egyptian_Mirage_5_at_Cairo-West_1985.JPEG The Egyptian Air Force (EAF) is the aviation branch of the Egyptian Armed Forces. Currently, the backbone of the EAF is the F-16. The Mirage 2000 is the other modern interceptor used by the EAF. The Egyptian Air Force has 216 F-16s (plus 20 on order).[26] It has about 579 combat aircraft and 149 armed helicopters as it continues to fly extensively upgraded MiG-21s, F-7 Skybolts, F-4 Phantoms, Dassault Mirage Vs, and the C-130 Hercules among other planes. Egypt currently operates 11 Dassault Rafale a French twin-engine fighter aircraft as of July 2017 with another 24 on order.
-
-Egyptian_air_force_pilot.jpg
+The Egyptian Air Force (EAF) is the aviation branch of the Egyptian Armed Forces. Currently, the backbone of the EAF is the F-16. The Mirage 2000 is the other modern interceptor used by the EAF. The Egyptian Air Force has 216 F-16s (plus 20 on order).[26] It has about 579 combat aircraft and 149 armed helicopters as it continues to fly extensively upgraded MiG-21s, F-7 Skybolts, F-4 Phantoms, Dassault Mirage Vs, and the C-130 Hercules among other planes. Egypt currently operates 11 Dassault Rafale a French twin-engine fighter aircraft as of July 2017 with another 24 on order.
 
 
 Air Defense Forces
@@ -66,8 +64,6 @@ The Arab Organization for Industrialization supervises nine military factories w
 
 
 Military schools
-
-Egyptian_Military_Police_in_Alexandria.jpg
 
 There is an undergraduate military school for each branch of the Egyptian Military establishment, and they include:
 

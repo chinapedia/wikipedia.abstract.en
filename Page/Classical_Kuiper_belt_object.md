@@ -1,4 +1,4 @@
-UltimaThule_CA06_color_20190516.png.]] Cubewanos.png (blue) and Pluto (pink)]]
+.]] (blue) and Pluto (pink)]]
 
 A CLASSICAL KUIPER BELT OBJECT, also called a CUBEWANO ( "QB1-o"),[1] is a low-eccentricity Kuiper belt object (KBO) that orbits beyond Neptune and is not controlled by an orbital resonance with Neptune. Cubewanos have orbits with semi-major axes in the 40–50 AU range and, unlike Pluto, do not cross Neptune's orbit. That is, they have low-eccentricity and sometimes low-inclination orbits like the classical planets.
 
@@ -19,7 +19,7 @@ Haumea was provisionally listed as a cubewano by the Minor Planet Center in 2006
 
 : 'hot' and 'cold' populations
 
-TheKuiperBelt_55AU_Classical.svg and inclination of cubewanos (blue) compared to resonant TNOs (red).]]
+and inclination of cubewanos (blue) compared to resonant TNOs (red).]]
 
 There are two basic dynamical classes of classical Kuiper-belt bodies: those with relatively unperturbed ('cold') orbits, and those with markedly perturbed ('hot') orbits.
 
@@ -83,8 +83,6 @@ The first known collisional family in the classical Kuiper belt—a group of obj
 
 
 Exploration
-
-2014_MU69_orbit.jpg
 
 As of January 2019, only one classical Kuiper belt object has been observed up close by spacecraft. Both Voyager spacecrafts have passed through the region before the discovery of the Kuiper belt.[26] New Horizons was the first mission to visit a classical KBO. After its successful exploration of the Pluto system in 2015, the NASA spacecraft has visited the small KBO at a distance of on January 1, 2019.[27]
 

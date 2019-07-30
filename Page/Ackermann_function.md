@@ -96,7 +96,7 @@ $$\begin{array}{lcl}
 \operatorname{Iter}(f)(0) & = & f(1) \\
 \operatorname{Iter}(f)(n+1) & = & f(\operatorname{Iter}(f)(n)).
 \end{array}$$
-The function Ack defined in this way agrees with the Ackermann function A defined above: Ack(m)(n) = A(m, n). Ackerman(3,3).png
+The function Ack defined in this way agrees with the Ackermann function A defined above: Ack(m)(n) = A(m, n).
 
 
 Example expansions

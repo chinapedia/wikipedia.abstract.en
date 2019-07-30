@@ -3,7 +3,7 @@ FREQUENCY is the number of occurrences of a repeating event per unit of time.[1]
 
 Definitions
 
-FrequencyAnimation.gif, (Hz)—or the number of events per second (cycles per second)—that the dot flashes; while the _period_, or _time_, in seconds (s) of each cycle, (the number of seconds per cycle). Note f are reciprocal values to each other.]] Sine_waves_different_frequencies.svgs vary, or cycle, regularly at different rates. The red wave (top) has the lowest frequency (cycles at the slowest rate) while the purple wave (bottom) has the highest frequency (cycles at the fastest rate).]]
+, (Hz)—or the number of events per second (cycles per second)—that the dot flashes; while the _period_, or _time_, in seconds (s) of each cycle, (the number of seconds per cycle). Note f are reciprocal values to each other.]] s vary, or cycle, regularly at different rates. The red wave (top) has the lowest frequency (cycles at the slowest rate) while the purple wave (bottom) has the highest frequency (cycles at the fastest rate).]]
 
 For cyclical processes, such as rotation, oscillations, or waves, frequency is defined as a number of cycles per unit time. In physics and engineering disciplines, such as optics, acoustics, and radio, frequency is usually denoted by a Latin letter _f_ or by the Greek letter _ν_ or _ν_ (nu) (see e.g. Planck's formula).
 
@@ -29,8 +29,6 @@ As a matter of convenience, longer and slower waves, such as ocean surface waves
 
 
 Related types of frequency
-
-Commutative_diagram_of_harmonic_wave_properties.svg
 
 -   Angular frequency, usually denoted by the Greek letter ω (omega), is defined as the rate of change of angular displacement, _θ_, (during rotation), or the rate of change of the phase of a sinusoidal waveform (notably in oscillations and waves), or as the rate of change of the argument to the sine function:
 
@@ -79,8 +77,6 @@ An older method of measuring the frequency of rotating or vibrating objects is t
 
 Frequency counter
 
-Frequency_counter.jpg
-
 Higher frequencies are usually measured with a frequency counter. This is an electronic instrument which measures the frequency of an applied repetitive electronic signal and displays the result in hertz on a digital display. It uses digital logic to count the number of cycles during a time interval established by a precision quartz time base. Cyclic processes that are not electrical in nature, such as the rotation rate of a shaft, mechanical vibrations, or sound waves, can be converted to a repetitive electronic signal by transducers and the signal applied to a frequency counter. As of 2018, frequency counters can cover the range up to about 100 GHz. This represents the limit of direct counting methods; frequencies above this must be measured by indirect methods.
 
 Heterodyne methods
@@ -92,7 +88,7 @@ Examples
 
 Light
 
-EM_spectrum.svg with the visible portion highlighted]]
+with the visible portion highlighted]]
 
 Visible light is an electromagnetic wave, consisting of oscillating electric and magnetic fields traveling through space. The frequency of the wave determines its color: is red light, is violet light, and between these (in the range 4-) are all the other colors of the visible spectrum. An electromagnetic wave can have a frequency less than , but it will be invisible to the human eye; such waves are called infrared (IR) radiation. At even lower frequency, the wave is called a microwave, and at still lower frequencies it is called a radio wave. Likewise, an electromagnetic wave can have a frequency higher than , but it will be invisible to the human eye; such waves are called ultraviolet (UV) radiation. Even higher-frequency waves are called X-rays, and higher still are gamma rays.
 
@@ -106,7 +102,7 @@ In dispersive media, such as glass, the speed depends somewhat on frequency, so 
 
 Sound
 
-Ultrasound_range_diagram.svg spectrum, with rough guide of some applications]]
+spectrum, with rough guide of some applications]]
 
 Sound propagates as mechanical vibration waves of pressure and displacement, in air or other substances.[5]. In general, frequency components of a sound determine its "color", its timbre. When speaking about the frequency (in singular) of a sound, it means the property that most determines pitch.[6]
 

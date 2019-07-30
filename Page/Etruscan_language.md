@@ -11,7 +11,7 @@ Etruscan religion influenced that of the Romans, and many of the few surviving E
 
 History of Etruscan literacy
 
-Haruspex.png; see _haruspex_]]
+; see _haruspex_]]
 
 Etruscan literacy was widespread over the Mediterranean shores, as evidenced by about 13,000 inscriptions (dedications, epitaphs, etc.), most fairly short, but some of considerable length.[2] They date from about 700 BC.[3]
 
@@ -35,8 +35,6 @@ At the time of its extinction, only a few educated Romans with antiquarian inter
 
 Etruscan had some influence on Latin, as a few dozen Etruscan words and names were borrowed by the Romans, some of which remain in modern languages, among which are possibly _columna_ "column", _voltur_ "vulture", _tuba_ "trumpet", _vagina_ "sheath", _populus_ "people".[22]
 
-Etruscan_civilization_map.png
-
 
 Geographic distribution
 
@@ -53,7 +51,7 @@ The phonology of Etruscan is known through the alternation of Greek and Etruscan
 
 Tyrsenian family hypothesis
 
-Common_Tyrrhenic_model.jpg In 1998, Helmut Rix put forward the view that Etruscan is related to other members of what he called the "Tyrsenian language family".[25] Rix's Tyrsenian family of languages—composed of Rhaetian, anciently spoken in the eastern Alps, and Lemnian, together with Etruscan—has gained acceptance among scholars.[26][27][28][29][30] Rix's Tyrsenian family has been confirmed by Stefan Schumacher,[31][32][33][34] Norbert Oettinger,[35] Carlo De Simone,[36] and Simona Marchesini.[37] Common features between Etruscan, Rhaetian, and Lemnian have been found in morphology, phonology, and syntax. On the other hand, lexical correspondences are rarely documented, due to the scanty number of Rhaetian and Lemnian texts, and, above all, due to the very ancient date at which these languages split, because the split must have taken place before the Bronze Age.[38][39] The Tyrsenian family, or Common Tyrrhenic, in this case is often considered to be Paleo-European and to predate the arrival of Indo-European languages in southern Europe.[40]
+In 1998, Helmut Rix put forward the view that Etruscan is related to other members of what he called the "Tyrsenian language family".[25] Rix's Tyrsenian family of languages—composed of Rhaetian, anciently spoken in the eastern Alps, and Lemnian, together with Etruscan—has gained acceptance among scholars.[26][27][28][29][30] Rix's Tyrsenian family has been confirmed by Stefan Schumacher,[31][32][33][34] Norbert Oettinger,[35] Carlo De Simone,[36] and Simona Marchesini.[37] Common features between Etruscan, Rhaetian, and Lemnian have been found in morphology, phonology, and syntax. On the other hand, lexical correspondences are rarely documented, due to the scanty number of Rhaetian and Lemnian texts, and, above all, due to the very ancient date at which these languages split, because the split must have taken place before the Bronze Age.[38][39] The Tyrsenian family, or Common Tyrrhenic, in this case is often considered to be Paleo-European and to predate the arrival of Indo-European languages in southern Europe.[40]
 
 It has been proposed to possibly be part of a wider Paleo-European "Aegean" language family, which would also include Minoan, Eteocretan (possibly descended from Minoan) and Eteocypriot. This has been proposed by G. M. Facchetti, and supported by S. Yatsemirsky, referring to some similarities between Etruscan and Lemnian on one hand, and Minoan and Eteocretan on the other. It has also been proposed that this language family is related to the pre-Indo-European languages of Anatolia, based upon place name analysis.[41]
 
@@ -82,7 +80,7 @@ Writing system
 
 Alphabet
 
-L'Arringatore.jpg'', c. 100 BC, an Etrusco-Roman bronze sculpture depicting Aule Metele (Latin: _Aulus Metellus_), an Etruscan man of Roman senatorial rank, engaging in rhetoric. The statue features an inscription in the Etruscan alphabet]]
+'', c. 100 BC, an Etrusco-Roman bronze sculpture depicting Aule Metele (Latin: _Aulus Metellus_), an Etruscan man of Roman senatorial rank, engaging in rhetoric. The statue features an inscription in the Etruscan alphabet]]
 
 The Latin script owes its existence to the Etruscan alphabet, which was adapted for Latin in the form of the Old Italic script. The Etruscan alphabet[62] employs a Euboean variant[63] of the Greek alphabet using the letter digamma and was in all probability transmitted through Pithecusae and Cumae, two Euboean settlements in southern Italy. This system is ultimately derived from West Semitic scripts.
 
@@ -107,7 +105,7 @@ Corpus
 
 The Etruscan corpus is edited in the _Corpus Inscriptionum Etruscarum_ (CIE) and _Thesaurus Linguae Etruscae_ (TLE).[71]
 
-EtruscanLanguage2.JPGs in the Etruscan Museum in Rome]]
+s in the Etruscan Museum in Rome]]
 
 Bilingual text
 
@@ -132,7 +130,7 @@ Some additional longer texts are:
 
 Inscriptions on monuments
 
-Cerveteri,_necropoli_della_banditaccia,_via_sepolcrale_principale,_01.jpg]]
+]]
 
 The main material repository of Etruscan civilization, from the modern perspective, is its tombs, all other public and private buildings having been dismantled and the stone reused centuries ago. The tombs are the main source of Etruscan portables, provenance unknown, in collections throughout the world. Their incalculable value has created a brisk black market in Etruscan _objets d'art_ – and equally brisk law enforcement effort, as it is illegal to remove any objects from Etruscan tombs without authorization from the Italian government.
 
@@ -190,44 +188,35 @@ Vowels
 
 The Etruscan vowel system consisted of four distinct vowels. Vowels "o" and "u" appear to have not been phonetically distinguished based on the nature of the writing system, as only one symbol is used to cover both in loans from Greek (e.g. Greek _kōthōn_ > Etruscan _qutun_ "pitcher").
 
-+-------+------------------+------------------+
-|       | Front            | Back             |
-+=======+==================+==================+
-| Close | i                | u                |
-|       | EtruscanI-01.svg | EtruscanO-01.svg |
-+-------+------------------+------------------+
-| Mid   | e                |                  |
-|       | EtruscanE-01.svg |                  |
-+-------+------------------+------------------+
-| Open  |                  | a                |
-|       |                  | EtruscanA-01.svg |
-+-------+------------------+------------------+
++-------+-------+------+
+|       | Front | Back |
++=======+=======+======+
+| Close | i     | u    |
++-------+-------+------+
+| Mid   | e     |      |
++-------+-------+------+
+| Open  |       | a    |
++-------+-------+------+
 
 Consonants
 
 Table of consonants
 
-+-------------+------------------+-------------------+------------------------------------------------+-------------------+------------------+
-|             | Bilabial         | Dental            | Palatal                                        | Velar             | | Glottal        |
-+=============+==================+===================+================================================+===================+==================+
-| Nasal       | m                | n                 |                                                |                   |                  |
-|             | EtruscanM-01.svg | EtruscanN-01.svg  |                                                |                   |                  |
-+-------------+------------------+-------------------+------------------------------------------------+-------------------+------------------+
-| Plosive     | p                | φ                 | t, d                                           | θ                 |                  |
-|             | EtruscanP-01.svg | EtruscanPH-01.svg | EtruscanT-01.svg EtruscanD-01.svg              | EtruscanTH-03.svg |                  |
-+-------------+------------------+-------------------+------------------------------------------------+-------------------+------------------+
-| Affricate   |                  | z                 |                                                |                   |                  |
-|             |                  | EtruscanZ-01.svg  |                                                |                   |                  |
-+-------------+------------------+-------------------+------------------------------------------------+-------------------+------------------+
-| Fricative   | f                | s                 | ś                                              |                   | h                |
-|             | EtruscanF-02.svg | EtruscanS-01.svg  | Greek_alphabet_san2.png Alfabeto_camuno-ts.svg |                   | EtruscanH-01.svg |
-+-------------+------------------+-------------------+------------------------------------------------+-------------------+------------------+
-| Approximant |                  | l                 | i                                              | v                 |                  |
-|             |                  | EtruscanL-01.svg  | EtruscanI-01.svg                               | EtruscanF-01.svg  |                  |
-+-------------+------------------+-------------------+------------------------------------------------+-------------------+------------------+
-| Rhotic      |                  | r                 |                                                |                   |                  |
-|             |                  | EtruscanR-01.svg  |                                                |                   |                  |
-+-------------+------------------+-------------------+------------------------------------------------+-------------------+------------------+
++-------------+----------+--------+---------+-------+-----------+
+|             | Bilabial | Dental | Palatal | Velar | | Glottal |
++=============+==========+========+=========+=======+===========+
+| Nasal       | m        | n      |         |       |           |
++-------------+----------+--------+---------+-------+-----------+
+| Plosive     | p        | φ      | t, d    | θ     |           |
++-------------+----------+--------+---------+-------+-----------+
+| Affricate   |          | z      |         |       |           |
++-------------+----------+--------+---------+-------+-----------+
+| Fricative   | f        | s      | ś       |       | h         |
++-------------+----------+--------+---------+-------+-----------+
+| Approximant |          | l      | i       | v     |           |
++-------------+----------+--------+---------+-------+-----------+
+| Rhotic      |          | r      |         |       |           |
++-------------+----------+--------+---------+-------+-----------+
 
 Voiced stops missing
 

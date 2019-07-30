@@ -3,7 +3,7 @@ FELIX BLOCH (23 October 1905 – 10 September 1983) was a Swiss-American physici
 
 Life and work
 
-Felix_Bloch_1950s.jpg Bloch was born in Zürich, Switzerland to Jewish[3] parents Gustav and Agnes Bloch.
+Bloch was born in Zürich, Switzerland to Jewish[3] parents Gustav and Agnes Bloch.
 
 He was educated at the Cantonal Gymnasium in Zürich and at the Eidgenössische Technische Hochschule (ETHZ), also in Zürich. Initially studying engineering he soon changed to physics. During this time he attended lectures and seminars given by Peter Debye and Hermann Weyl at ETH Zürich and Erwin Schrödinger at the neighboring University of Zürich. A fellow student in these seminars was John von Neumann. Bloch graduated in 1927, and was encouraged by Debye to go to Leipzig to study with Werner Heisenberg.[4] Bloch became Heisenberg's first graduate student, and gained his doctorate in 1928.[5] His doctoral thesis established the quantum theory of solids, using Bloch waves to describe electrons in periodic lattices.
 

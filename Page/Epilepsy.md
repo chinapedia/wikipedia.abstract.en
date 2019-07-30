@@ -9,7 +9,7 @@ Epilepsy that occurs as a result of other issues may be preventable.[18] Seizure
 
 Signs and symptoms
 
-Epilpesia.ogv Attaque;_Periode_Epileptoide._Planche_XVII._Wellcome_L0074938.jpg Bittentongue.JPG Epilepsy is characterized by a long-term risk of recurrent seizures.[36] These seizures may present in several ways depending on the part of the brain involved and the person's age.[37][38]
+Epilepsy is characterized by a long-term risk of recurrent seizures.[36] These seizures may present in several ways depending on the part of the brain involved and the person's age.[37][38]
 
 Seizures
 
@@ -78,7 +78,7 @@ Focal seizures begin in one hemisphere of the brain while generalized seizures b
 
 Diagnosis
 
-EEG_Recording_Cap.jpg can aid in locating the focus of the epileptic seizure.]]
+can aid in locating the focus of the epileptic seizure.]]
 
 The diagnosis of epilepsy is typically made based on observation of the seizure onset and the underlying cause.[149] An electroencephalogram (EEG) to look for abnormal patterns of brain waves and neuroimaging (CT scan or MRI) to look at the structure of the brain are also usually part of the workup.[150] While figuring out a specific epileptic syndrome is often attempted, it is not always possible.[151] Video and EEG monitoring may be useful in difficult cases.[152]
 
@@ -192,7 +192,7 @@ While many cases are not preventable, efforts to reduce head injuries, provide g
 
 Management
 
-Epilepsy_Medical_Alert_Wrist_Bracelets_2018.jpgs or bracelets denoting their condition are occasionally worn by epileptics should they need medical assistance]] Epilepsy is usually treated with daily medication once a second seizure has occurred,[213][214] while medication may be started after the first seizure in those at high risk for subsequent seizures.[215] Supporting people's self management of their condition may be useful.[216] In drug-resistant cases different management options may be looked at including a special diet, the implantation of a neurostimulator, or neurosurgery.
+s or bracelets denoting their condition are occasionally worn by epileptics should they need medical assistance]] Epilepsy is usually treated with daily medication once a second seizure has occurred,[213][214] while medication may be started after the first seizure in those at high risk for subsequent seizures.[215] Supporting people's self management of their condition may be useful.[216] In drug-resistant cases different management options may be looked at including a special diet, the implantation of a neurostimulator, or neurosurgery.
 
 First aid
 
@@ -202,7 +202,7 @@ If a seizure lasts longer than 5 minutes or if there are more than two seizures
 
 Medications
 
-Anticonvulsants.jpg The mainstay treatment of epilepsy is anticonvulsant medications, possibly for the person's entire life.[231] The choice of anticonvulsant is based on seizure type, epilepsy syndrome, other medications used, other health problems, and the person's age and lifestyle.[232] A single medication is recommended initially;[233] if this is not effective, switching to a single other medication is recommended.[234] Two medications at once is recommended only if a single medication does not work.[235] In about half, the first agent is effective; a second single agent helps in about 13% and a third or two agents at the same time may help an additional 4%.[236] About 30% of people continue to have seizures despite anticonvulsant treatment.[237]
+The mainstay treatment of epilepsy is anticonvulsant medications, possibly for the person's entire life.[231] The choice of anticonvulsant is based on seizure type, epilepsy syndrome, other medications used, other health problems, and the person's age and lifestyle.[232] A single medication is recommended initially;[233] if this is not effective, switching to a single other medication is recommended.[234] Two medications at once is recommended only if a single medication does not work.[235] In about half, the first agent is effective; a second single agent helps in about 13% and a third or two agents at the same time may help an additional 4%.[236] About 30% of people continue to have seizures despite anticonvulsant treatment.[237]
 
 There are a number of medications available including phenytoin, carbamazepine and valproate. Low-quality evidence suggests that phenytoin, carbamazepine, and valproate may be equally effective in both focal and generalized seizures.[238][239] Controlled release carbamazepine appears to work as well as immediate release carbamazepine, and may have fewer side effects.[240] In the United Kingdom, carbamazepine or lamotrigine are recommended as first-line treatment for focal seizures, with levetiracetam and valproate as second-line due to issues of cost and side effects.[241] Valproate is recommended first-line for generalized seizures with lamotrigine being second-line.[242] In those with absence seizures, ethosuximide or valproate are recommended; valproate is particularly effective in myoclonic seizures and tonic or atonic seizures.[243] If seizures are well-controlled on a particular treatment, it is not usually necessary to routinely check the medication levels in the blood.[244]
 
@@ -239,8 +239,6 @@ Alternative medicine, including acupuncture,[296] routine vitamins,[297] and yog
 
 Prognosis
 
-Epilepsy_world_map-Deaths_per_million_persons-WHO2012.svg
-
 Epilepsy cannot usually be cured, but medication can control seizures effectively in about 70% of cases.[301] Of those with generalized seizures, more than 80% can be well controlled with medications while this is true in only 50% of people with focal seizures.[302] One predictor of long-term outcome is the number of seizures that occur in the first six months.[303] Other factors increasing the risk of a poor outcome include little response to the initial treatment, generalized seizures, a family history of epilepsy, psychiatric problems, and waves on the EEG representing generalized epileptiform activity.[304] In the developing world, 75% of people are either untreated or not appropriately treated.[305] In Africa, 90% do not get treatment.[306] This is partly related to appropriate medications not being available or being too expensive.[307]
 
 Mortality
@@ -261,7 +259,7 @@ The estimated prevalence of active epilepsy () is in the range 3–10 per 1,000,
 
 History
 
-Hippocrates_rubens.jpg of an antique bust.]] The oldest medical records show that epilepsy has been affecting people at least since the beginning of recorded history.[336] Throughout ancient history, the disease was thought to be a spiritual condition.[337] The world's oldest description of an epileptic seizure comes from a text in Akkadian (a language used in ancient Mesopotamia) and was written around 2000 BC.[338] The person described in the text was diagnosed as being under the influence of a moon god, and underwent an exorcism.[339] Epileptic seizures are listed in the Code of Hammurabi (c. 1790 BC) as reason for which a purchased slave may be returned for a refund,[340] and the Edwin Smith Papyrus (c. 1700 BC) describes cases of individuals with epileptic convulsions.[341]
+of an antique bust.]] The oldest medical records show that epilepsy has been affecting people at least since the beginning of recorded history.[336] Throughout ancient history, the disease was thought to be a spiritual condition.[337] The world's oldest description of an epileptic seizure comes from a text in Akkadian (a language used in ancient Mesopotamia) and was written around 2000 BC.[338] The person described in the text was diagnosed as being under the influence of a moon god, and underwent an exorcism.[339] Epileptic seizures are listed in the Code of Hammurabi (c. 1790 BC) as reason for which a purchased slave may be returned for a refund,[340] and the Edwin Smith Papyrus (c. 1700 BC) describes cases of individuals with epileptic convulsions.[341]
 
 The oldest known detailed record of the disease itself is in the _Sakikku_, a Babylonian cuneiform medical text from 10671046 BC.[342] This text gives signs and symptoms, details treatment and likely outcomes,[343] and describes many features of the different seizure types.[344] As the Babylonians had no biomedical understanding of the nature of disease, they attributed the seizures to possession by evil spirits and called for treating the condition through spiritual means.[345] Around 900 BC, Punarvasu Atreya described epilepsy as loss of consciousness;[346] this definition was carried forward into the Ayurvedic text of Charaka Samhita (about 400 BC).[347]
 

@@ -72,7 +72,7 @@ Some scholars who consider Jude to predate 2 Peter note that the latter appears 
 
 References to other books
 
-Judas9.jpg (c. 330-360)]] The Epistle of Jude references at least two other books, with one being non-canonical in all churches and the other non-canonical in most churches.
+(c. 330-360)]] The Epistle of Jude references at least two other books, with one being non-canonical in all churches and the other non-canonical in most churches.
 
 VERSE 9 refers to a dispute between Michael the Archangel and the devil about the body of Moses. Some interpreters understand this reference to be an allusion to the events described in .[29][30] The classical theologian Origen attributes this reference to the non-canonical Assumption of Moses.[31] According to James Charlesworth, there is no evidence the surviving book of this name ever contained any such content.[32] Others believe it to be in the lost ending of the book.[33][34]
 

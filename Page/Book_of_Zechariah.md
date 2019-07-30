@@ -24,7 +24,7 @@ Zechariah 1–8, sometimes referred to as First Zechariah, was written in the 6t
 
 Composition
 
-The return from exile is the theological premise of the prophet's visions in chapters 1–6. Chapters 7–8 address the quality of life God wants his renewed people to enjoy, containing many encouraging promises to them. Chapters 9–14 comprise two "oracles" of the future. Gustave_Doré_(1832-1883)_-_The_Bible_(1865)_-_Zechariah_6-5.jpg,[13] engraving by Gustave Doré.]]
+The return from exile is the theological premise of the prophet's visions in chapters 1–6. Chapters 7–8 address the quality of life God wants his renewed people to enjoy, containing many encouraging promises to them. Chapters 9–14 comprise two "oracles" of the future. ,[13] engraving by Gustave Doré.]]
 
 Chapters 1 to 6
 

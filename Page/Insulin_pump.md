@@ -47,7 +47,7 @@ Use of insulin pumps is increasing because of:
 
 History
 
-Early_insulin_pump.JPG In 1963 Dr. Arnold Kadish designed the first insulin pump to be worn as a backpack.[11] A more wearable version was later devised by Dean Kamen in 1976. Kamen formed a company called "AutoSyringe" to market the product, which he sold to Baxter Health Care in 1981.[12]
+In 1963 Dr. Arnold Kadish designed the first insulin pump to be worn as a backpack.[11] A more wearable version was later devised by Dean Kamen in 1976. Kamen formed a company called "AutoSyringe" to market the product, which he sold to Baxter Health Care in 1981.[12]
 
 In 1984 an Infusaid implantable infusion device was used to treat a 22-year-old diabetic female successfully.[13]
 
@@ -84,9 +84,7 @@ Future developments
 
 Dosing
 
-Insulin_pump_reservoir.jpg
-
-standard_bolus.JPG extended_bolus.JPG combo_bolus.JPG super_bolus.JPG An insulin pump allows the replacement of slow-acting insulin for basal needs with a continuous infusion of rapid-acting insulin.
+An insulin pump allows the replacement of slow-acting insulin for basal needs with a continuous infusion of rapid-acting insulin.
 
 The insulin pump delivers a single type of rapid-acting insulin in two ways:[24]
 

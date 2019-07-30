@@ -3,7 +3,7 @@ This article is about the demographic features of the population of Antigua and 
 
 Population
 
-Antigua_and_Barbuda_population_pyramid_2005.png]] Antigua-Barbuda-demography.png, year 2005 ; Number of inhabitants in thousands.]] According to the 2011 census the estimated resident population of Antigua and Barbuda was 86,295.[1] The estimated population of is ().
+]] , year 2005 ; Number of inhabitants in thousands.]] According to the 2011 census the estimated resident population of Antigua and Barbuda was 86,295.[1] The estimated population of is ().
 
 
 Vital statistics

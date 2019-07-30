@@ -1,4 +1,4 @@
-HP_Laserjet_5_DN_1.jpg printer]] Nintendo_PocketPrinter.JPG, a thermal printer released as a peripheral for the Nintendo Game Boy]] Epson_Wide_Carriage_9-pin_printer_-_with_legal_paper_8.5x14.jpg, designed for wide paper, shown with legal paper. Wide carriage printers were often used in the field of businesses, to print accounting records on tractor-feed paper. They were also called "132-column printers".]] Printer.ogv while printing a page.]]
+printer]] , a thermal printer released as a peripheral for the Nintendo Game Boy]] , designed for wide paper, shown with legal paper. Wide carriage printers were often used in the field of businesses, to print accounting records on tractor-feed paper. They were also called "132-column printers".]] while printing a page.]]
 
 In computing, a PRINTER is a peripheral device which makes a persistent representation of graphics or text on paper.[1] While most output is human-readable, bar code printers are an example of an expanded use for printers.[2]
 
@@ -47,7 +47,7 @@ Another toner-based printer is the LED printer which uses an array of LEDs inste
 
 Liquid inkjet printers
 
-Ink-jet-cartridge.jpg Inkjet printers operate by propelling variably sized droplets of liquid ink onto almost any sized page. They are the most common type of computer printer used by consumers.
+Inkjet printers operate by propelling variably sized droplets of liquid ink onto almost any sized page. They are the most common type of computer printer used by consumers.
 
 Solid ink printers
 
@@ -55,15 +55,15 @@ Solid ink printers, also known as phase-change printers, are a type of thermal t
 
 Dye-sublimation printers
 
-RGB_dye_sublimation_panels.jpg A dye-sublimation printer (or dye-sub printer) is a printer which employs a printing process that uses heat to transfer dye to a medium such as a plastic card, paper or canvas. The process is usually to lay one colour at a time using a ribbon that has colour panels. Dye-sub printers are intended primarily for high-quality colour applications, including colour photography; and are less well-suited for text. While once the province of high-end print shops, dye-sublimation printers are now increasingly used as dedicated consumer photo printers.
+A dye-sublimation printer (or dye-sub printer) is a printer which employs a printing process that uses heat to transfer dye to a medium such as a plastic card, paper or canvas. The process is usually to lay one colour at a time using a ribbon that has colour panels. Dye-sub printers are intended primarily for high-quality colour applications, including colour photography; and are less well-suited for text. While once the province of high-end print shops, dye-sublimation printers are now increasingly used as dedicated consumer photo printers.
 
 Thermal printers
 
-Twitter_receipt_printer.jpg Thermal printers work by selectively heating regions of special heat-sensitive paper. Monochrome thermal printers are used in cash registers, ATMs, gasoline dispensers and some older inexpensive fax machines. Colours can be achieved with special papers and different temperatures and heating rates for different colours; these coloured sheets are not required in black-and-white output. One example is Zink (a portmanteau of "zero ink").[10]
+Thermal printers work by selectively heating regions of special heat-sensitive paper. Monochrome thermal printers are used in cash registers, ATMs, gasoline dispensers and some older inexpensive fax machines. Colours can be achieved with special papers and different temperatures and heating rates for different colours; these coloured sheets are not required in black-and-white output. One example is Zink (a portmanteau of "zero ink").[10]
 
 Obsolete and special-purpose printing technologies
 
-Epson_MX-80.jpg MX-80, a popular model of dot-matrix printer in use for many years]]
+MX-80, a popular model of dot-matrix printer in use for many years]]
 
 The following technologies are either obsolete, or limited to special applications though most were, at one time, in widespread use.
 
@@ -73,7 +73,7 @@ Impact printers rely on a forcible impact to transfer ink to the media. The impa
 
 Typewriter-derived printers
 
-IBM_Selectric_typeball.jpg Several different computer printers were simply computer-controllable versions of existing electric typewriters. The Friden Flexowriter and IBM Selectric-based printers were the most-common examples. The Flexowriter printed with a conventional typebar mechanism while the Selectric used IBM's well-known "golf ball" printing mechanism. In either case, the letter form then struck a ribbon which was pressed against the paper, printing one character at a time. The maximum speed of the Selectric printer (the faster of the two) was 15.5 characters per second.
+Several different computer printers were simply computer-controllable versions of existing electric typewriters. The Friden Flexowriter and IBM Selectric-based printers were the most-common examples. The Flexowriter printed with a conventional typebar mechanism while the Selectric used IBM's well-known "golf ball" printing mechanism. In either case, the letter form then struck a ribbon which was pressed against the paper, printing one character at a time. The maximum speed of the Selectric printer (the faster of the two) was 15.5 characters per second.
 
 Teletypewriter-derived printers
 
@@ -81,11 +81,11 @@ The common teleprinter could easily be interfaced to the computer and became ver
 
 Daisy wheel printers
 
-Triumph-Adler_Daisy_wheel_Cubic_PS-92800.jpg Daisy wheel printers operate in much the same fashion as a typewriter. A hammer strikes a wheel with petals, the "daisy wheel", each petal containing a letter form at its tip. The letter form strikes a ribbon of ink, depositing the ink on the page and thus printing a character. By rotating the daisy wheel, different characters are selected for printing. These printers were also referred to as _letter-quality printers_ because they could produce text which was as clear and crisp as a typewriter. The fastest letter-quality printers printed at 30 characters per second.
+Daisy wheel printers operate in much the same fashion as a typewriter. A hammer strikes a wheel with petals, the "daisy wheel", each petal containing a letter form at its tip. The letter form strikes a ribbon of ink, depositing the ink on the page and thus printing a character. By rotating the daisy wheel, different characters are selected for printing. These printers were also referred to as _letter-quality printers_ because they could produce text which was as clear and crisp as a typewriter. The fastest letter-quality printers printed at 30 characters per second.
 
 Dot-matrix printers
 
-Dot_matrix_example_text.png The term dot matrix printer is used for impact printers that use a matrix of small pins to transfer ink to the page.[12] The advantage of dot matrix over other impact printers is that they can produce graphical images in addition to text; however the text is generally of poorer quality than impact printers that use letterforms (_type_).
+The term dot matrix printer is used for impact printers that use a matrix of small pins to transfer ink to the page.[12] The advantage of dot matrix over other impact printers is that they can produce graphical images in addition to text; however the text is generally of poorer quality than impact printers that use letterforms (_type_).
 
 Dot-matrix printers can be broadly divided into two major classes:
 
@@ -102,11 +102,9 @@ Dot matrix printers are still commonly used in low-cost, low-quality application
 
 Line printers
 
-Line printers print an entire line of text at a time. Four principal designs exist. Drum-printer.jpg
+Line printers print an entire line of text at a time. Four principal designs exist.
 
 -   _Drum printers_, where a horizontally mounted rotating drum carries the entire character set of the printer repeated in each printable character position. The IBM 1132 printer is an example of a drum printer.[15] Drum printers are also found in adding machines and other numeric printers (POS), the dimensions are compact as only a dozen characters need to be supported.[16]
-
-PrinterIBM1403_090325.jpg
 
 -   _Chain or train printers_, where the character set is arranged multiple times around a linked chain or a set of character slugs in a track traveling horizontally past the print line. The IBM 1403 is perhaps the most popular, and comes in both chain and train varieties. The _band printer_ is a later variant where the characters are embossed on a flexible steel band. The LP27 from Digital Equipment Corporation is a band printer.
 -   _Bar printers_, where the character set is attached to a solid bar that moves horizontally along the print line, such as the IBM 1443.[17]
@@ -126,7 +124,7 @@ Worldwide, most survey offices used this printer before color inkjet plotters be
 
 Plotters
 
-Calcomp_565_drum_plotter.jpg Pen-based plotters were an alternate printing technology once common in engineering and architectural firms. Pen-based plotters rely on contact with the paper (but not impact, per se) and special purpose pens that are mechanically run over the paper to create text and images. Since the pens output continuous lines, they were able to produce technical drawings of higher resolution than was achievable with dot-matrix technology.[22] Some plotters used roll-fed paper, and therefore had minimal restriction on the size of the output in one dimension. These plotters were capable of producing quite sizable drawings.
+Pen-based plotters were an alternate printing technology once common in engineering and architectural firms. Pen-based plotters rely on contact with the paper (but not impact, per se) and special purpose pens that are mechanically run over the paper to create text and images. Since the pens output continuous lines, they were able to produce technical drawings of higher resolution than was achievable with dot-matrix technology.[22] Some plotters used roll-fed paper, and therefore had minimal restriction on the size of the output in one dimension. These plotters were capable of producing quite sizable drawings.
 
 Other printers
 
@@ -191,8 +189,6 @@ Often the "razor and blades" business model is applied. That is, a company may s
 Other manufacturers, in reaction to the challenges from using this business model, choose to make more money on printers and less on the ink, promoting the latter through their advertising campaigns. Finally, this generates two clearly different proposals: "cheap printer – expensive ink" or "expensive printer – cheap ink". Ultimately, the consumer decision depends on their reference interest rate or their time preference. From an economics viewpoint, there is a clear trade-off between cost per copy and cost of the printer.[31]
 
 Printer steganography
-
-Printer_Steganography_Illustration.png
 
 Printer steganography is a type of steganography – "hiding data within data"[32] – produced by color printers, including Brother, Canon, Dell, Epson, HP, IBM, Konica Minolta, Kyocera, Lanier, Lexmark, Ricoh, Toshiba and Xerox[33] brand color laser printers, where tiny yellow dots are added to each page. The dots are barely visible and contain encoded printer serial numbers, as well as date and time stamps.
 

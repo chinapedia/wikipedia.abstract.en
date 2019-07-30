@@ -1,4 +1,4 @@
-GravityTap.jpg Rauchbier, a traditional smoked beer, being poured from a cask]]
+Rauchbier, a traditional smoked beer, being poured from a cask]]
 
 BEER is one of the oldest[1][2][3] and most widely consumed[4] alcoholic drinks in the world, and the third most popular drink overall after water and tea.[5] Beer is brewed from cereal grains—most commonly from malted barley, though wheat, maize (corn), and rice are also used. During the brewing process, fermentation of the starch sugars in the wort produces ethanol and carbonation in the resulting beer.[6] Most modern beer is brewed with hops, which add bitterness and other flavours and act as a natural preservative and stabilizing agent. Other flavouring agents such as gruit, herbs, or fruits may be included or used instead of hops. In commercial brewing, the natural carbonation effect is often removed during processing and replaced with forced carbonation.[7]
 
@@ -11,7 +11,7 @@ Beer forms part of the culture of many nations and is associated with social tra
 
 History
 
-EMS-89615-Rosecrucian-Egyptian-BeerMaking.jpg, San Jose, California]]
+, San Jose, California]]
 
 Beer is one of the world's oldest prepared drinks. The earliest archaeological evidence of fermentation consists of 13,000 year old residues of a beer with the consistency of gruel, used by the semi-nomadic Natufians for ritual feasting, at the Raqefet Cave in the Carmel Mountains near Haifa in Israel.[12][13] There is evidence that beer was produced at Göbekli Tepe during the Pre-Pottery Neolithic (around 8500 BC to 5500 BC).[14] The earliest clear chemical evidence of beer produced from barley dates to about 3500–3100 BC, from the site of Godin Tepe in the Zagros Mountains of western Iran.[15][16] It is possible, but not proven, that it dates back even further — to about 10,000 BC, when cereal was first farmed.[17] Beer is recorded in the written history of ancient Iraq and ancient Egypt,[18] and archaeologists speculate that beer was instrumental in the formation of civilizations.[19] Approximately 5000 years ago, workers in the city of Uruk (modern day Iraq) were paid by their employers in beer.[20] During the building of the Great Pyramids in Giza, Egypt, each worker got a daily ration of four to five litres of beer, which served as both nutrition and refreshment that was crucial to the pyramids' construction.[21]
 
@@ -20,8 +20,6 @@ Some of the earliest Sumerian writings contain references to beer; examples incl
 Almost any substance containing sugar can naturally undergo alcoholic fermentation. It is likely that many cultures, on observing that a sweet liquid could be obtained from a source of starch, independently invented beer. Bread and beer increased prosperity to a level that allowed time for development of other technologies and contributed to the building of civilizations.[27][28][29][30]
 
 Xenophon noted that during his travels, beer was being produced in Armenia.[31]
-
-François_Louis_Jaques_Paysans_fribourgeois_au_bistrot.jpg
 
 Beer was spread through Europe by Germanic and Celtic tribes as far back as 3000 BC,[32] and it was mainly brewed on a domestic scale.[33] The product that the early Europeans drank might not be recognised as beer by most people today. Alongside the basic starch source, the early European beers might contain fruits, honey, numerous types of plants, spices and other substances such as narcotic herbs.[34] What they did not contain was hops, as that was a later addition, first mentioned in Europe around 822 by a Carolingian Abbot[35] and again in 1067 by abbess Hildegard of Bingen.[36]
 
@@ -42,8 +40,6 @@ The purpose of brewing is to convert the starch source into a sugary liquid call
 
 The first step, where the wort is prepared by mixing the starch source (normally malted barley) with hot water, is known as "mashing". Hot water (known as "liquor" in brewing terms) is mixed with crushed malt or malts (known as "grist") in a mash tun.[44] The mashing process takes around 1 to 2 hours,[45] during which the starches are converted to sugars, and then the sweet wort is drained off the grains. The grains are now washed in a process known as "sparging". This washing allows the brewer to gather as much of the fermentable liquid from the grains as possible. The process of filtering the spent grain from the wort and sparge water is called _wort separation_. The traditional process for wort separation is lautering, in which the grain bed itself serves as the filter medium. Some modern breweries prefer the use of filter frames which allow a more finely ground grist.[46]
 
-The_Brewer_designed_and_engraved_in_the_Sixteenth._Century_by_J_Amman.png
-
 Most modern breweries use a continuous sparge, collecting the original wort and the sparge water together. However, it is possible to collect a second or even third wash with the not quite spent grains as separate batches. Each run would produce a weaker wort and thus a weaker beer. This process is known as second (and third) runnings. Brewing with several runnings is called parti gyle brewing.[47]
 
 The sweet wort collected from sparging is put into a kettle, or "copper" (so called because these vessels were traditionally made from copper),[48] and boiled, usually for about one hour. During boiling, water in the wort evaporates, but the sugars and other components of the wort remain; this allows more efficient use of the starch sources in the beer. Boiling also destroys any remaining enzymes left over from the mashing stage. Hops are added during boiling as a source of bitterness, flavour and aroma. Hops may be added at more than one point during the boil. The longer the hops are boiled, the more bitterness they contribute, but the less hop flavour and aroma remains in the beer.[49]
@@ -57,7 +53,7 @@ Fermentation is sometimes carried out in two stages, primary and secondary. Once
 
 Ingredients
 
-Sjb_whiskey_malt.jpg before roasting]]
+before roasting]]
 
 The basic ingredients of beer are water; a starch source, such as malted barley, able to be saccharified (converted to sugars) then fermented (converted into ethanol and carbon dioxide); a brewer's yeast to produce the fermentation; and a flavouring such as hops.[54] A mixture of starch sources may be used, with a secondary carbohydrate source, such as maize (corn), rice, wheat, or sugar, often being termed an adjunct, especially when used alongside malted barley.[55] Less widely used starch sources include millet, sorghum and cassava root in Africa, and potato in Brazil, and agave in Mexico, among others.[56] The amount of each starch source in a beer recipe is collectively called the grain bill.
 
@@ -65,7 +61,7 @@ Water is the main ingredient of beer, accounting for 93% of its weight.[57] Thou
 
 The starch source, termed as the "mash ingredients", in a beer provides the fermentable material and is a key determinant of the strength and flavour of the beer. The most common starch source used in beer is malted grain. Grain is malted by soaking it in water, allowing it to begin germination, and then drying the partially germinated grain in a kiln. Malting grain produces enzymes that convert starches in the grain into fermentable sugars.[62] Different roasting times and temperatures are used to produce different colours of malt from the same grain. Darker malts will produce darker beers.[63] Nearly all beer includes barley malt as the majority of the starch. This is because its fibrous hull remains attached to the grain during threshing. After malting, barley is milled, which finally removes the hull, breaking it into large pieces. These pieces remain with the grain during the mash, and act as a filter bed during lautering, when sweet wort is separated from insoluble grain material. Other malted and unmalted grains (including wheat, rice, oats, and rye, and less frequently, corn and sorghum) may be used. Some brewers have produced gluten-free beer, made with sorghum with no barley malt, for those who cannot consume gluten-containing grains like wheat, barley, and rye.[64]
 
-Hopfendolde-mit-hopfengarten.jpg in a Hallertau, Germany, hop yard]]
+in a Hallertau, Germany, hop yard]]
 
 Flavouring beer is the sole major commercial use of hops.[65] The flower of the hop vine is used as a flavouring and preservative agent in nearly all beer made today. The flowers themselves are often called "hops". The first historical mention of the use of hops in beer was from 822 AD in monastery rules written by Adalhard the Elder, also known as Adalard of Corbie,[66] [67] though the date normally given for widespread cultivation of hops for use in beer is the thirteenth century.[68] [69] Before the thirteenth century, and until the sixteenth century, during which hops took over as the dominant flavouring, beer was flavoured with other plants; for instance, grains of paradise or _alehoof_. Combinations of various aromatic herbs, berries, and even ingredients like wormwood would be combined into a mixture known as gruit and used as hops are now used.[70] Some beers today, such as Fraoch' by the Scottish Heather Ales company[71] and Cervoise Lancelot by the French Brasserie-Lancelot company,[72] use plants other than hops for flavouring.
 
@@ -78,7 +74,7 @@ Some brewers add one or more clarifying agents or finings to beer, which typical
 
 Brewing industry
 
-Dreher_Sörgyárak_Zrt._(11).jpg Beer_Consumption_by_Country_(with_legend).svg 2014_Beer_Countries_Export_Treemap.png The history of breweries in the 21st century has included larger breweries absorbing smaller breweries in order to ensure economy of scale. In 2002 South African Breweries bought the North American Miller Brewing Company to found SABMiller, becoming the second largest brewery, after North American Anheuser-Busch. In 2004 the Belgian Interbrew was the third largest brewery by volume and the Brazilian AmBev was the fifth largest. They merged into InBev, becoming the largest brewery. In 2007, SABMiller surpassed InBev and Anheuser-Bush when it acquired Royal Grolsch, brewer of Dutch premium beer brand Grolsch in 2007.[85] In 2008, when InBev (the second-largest) bought Anheuser-Busch (the third largest), the new Anheuser-Busch InBev company became again the largest brewer in the world.[86] AB InBev remains the largest brewery, with SABMiller second, and Heineken International third.
+The history of breweries in the 21st century has included larger breweries absorbing smaller breweries in order to ensure economy of scale. In 2002 South African Breweries bought the North American Miller Brewing Company to found SABMiller, becoming the second largest brewery, after North American Anheuser-Busch. In 2004 the Belgian Interbrew was the third largest brewery by volume and the Brazilian AmBev was the fifth largest. They merged into InBev, becoming the largest brewery. In 2007, SABMiller surpassed InBev and Anheuser-Bush when it acquired Royal Grolsch, brewer of Dutch premium beer brand Grolsch in 2007.[85] In 2008, when InBev (the second-largest) bought Anheuser-Busch (the third largest), the new Anheuser-Busch InBev company became again the largest brewer in the world.[86] AB InBev remains the largest brewery, with SABMiller second, and Heineken International third.
 
 A microbrewery, or craft brewery, produces a limited amount of beer.[87] The maximum amount of beer a brewery can produce and still be classed as a microbrewery varies by region and by authority, though is usually around 15,000 barrels (1.8 megalitres, 396 thousand imperial gallons or 475 thousand US gallons) a year.[88] A brewpub is a type of microbrewery that incorporates a pub or other drinking establishment. The highest density of breweries in the world, most of them microbreweries, exists in the German Region of Franconia, especially in the district of Upper Franconia, which has about 200 breweries.[89][90] The Benedictine Weihenstephan brewery in Bavaria, Germany, can trace its roots to the year 768, as a document from that year refers to a hop garden in the area paying a tithe to the monastery. The brewery was licensed by the City of Freising in 1040, and therefore is the oldest working brewery in the world.[91]
 
@@ -87,12 +83,12 @@ Brewing at home is subject to regulation and prohibition in many countries. Rest
 
 Etymology
 
-Beowulf_-_beore.jpg The word _ale_ comes from Old English _ealu_ (plural _ealoþ_), in turn from Proto-Germanic _*alu_ (plural _*aluþ_), ultimately from the Proto-Indo-European base _*h₂elut-_, which holds connotations of "sorcery, magic, possession, intoxication".[95][96][97] The word _beer_ comes from Old English _bēor_, from Proto-Germanic _*beuzą_, probably from Proto-Indo-European _*bʰeusóm_, originally "brewer's yeast, beer dregs", although other theories have been provided connecting the word with Old English _bēow_, "barley", or Latin _bibere_, "to drink".[98][99] On the currency of two words for the same thing in the Germanic languages, the 12th-century Old Icelandic poem _Alvíssmál_ says, "Ale it is called among men, but among the gods, beer."[100]
+The word _ale_ comes from Old English _ealu_ (plural _ealoþ_), in turn from Proto-Germanic _*alu_ (plural _*aluþ_), ultimately from the Proto-Indo-European base _*h₂elut-_, which holds connotations of "sorcery, magic, possession, intoxication".[95][96][97] The word _beer_ comes from Old English _bēor_, from Proto-Germanic _*beuzą_, probably from Proto-Indo-European _*bʰeusóm_, originally "brewer's yeast, beer dregs", although other theories have been provided connecting the word with Old English _bēow_, "barley", or Latin _bibere_, "to drink".[98][99] On the currency of two words for the same thing in the Germanic languages, the 12th-century Old Icelandic poem _Alvíssmál_ says, "Ale it is called among men, but among the gods, beer."[100]
 
 
 Varieties
 
-HandPumps.jpg with pump clips detailing the beers and their breweries]]
+with pump clips detailing the beers and their breweries]]
 
 While there are many types of beer brewed, the basics of brewing beer are shared across national and cultural boundaries.[101] The traditional European brewing regions—Germany, Belgium, England and the Czech Republic—have local varieties of beer.[102]
 
@@ -112,7 +108,7 @@ Mild ale has a predominantly malty palate. It is usually dark coloured with an a
 
 Wheat beer is brewed with a large proportion of wheat although it often also contains a significant proportion of malted barley. Wheat beers are usually top-fermented.[112] The flavour of wheat beers varies considerably, depending upon the specific style.
 
-Kriek_Beer_1.jpg, a variety of beer brewed with cherries]] Lambic, a beer of Belgium, is naturally fermented using wild yeasts, rather than cultivated. Many of these are not strains of brewer's yeast (_Saccharomyces cerevisiae_) and may have significant differences in aroma and sourness. Yeast varieties such as _Brettanomyces bruxellensis_ and _Brettanomyces lambicus_ are common in lambics. In addition, other organisms such as _Lactobacillus_ bacteria produce acids which contribute to the sourness.[113] Paulaner_Oktoberfest_Marzen_11.2oz_bottle_and_beer_mug.jpg style lager]]
+, a variety of beer brewed with cherries]] Lambic, a beer of Belgium, is naturally fermented using wild yeasts, rather than cultivated. Many of these are not strains of brewer's yeast (_Saccharomyces cerevisiae_) and may have significant differences in aroma and sourness. Yeast varieties such as _Brettanomyces bruxellensis_ and _Brettanomyces lambicus_ are common in lambics. In addition, other organisms such as _Lactobacillus_ bacteria produce acids which contribute to the sourness.[113] style lager]]
 
 Lager is cool fermented beer. Pale lagers are the most commonly consumed beers in the world. Many are of the “pilsner” type. The name "lager" comes from the German "lagern" for "to store", as brewers around Bavaria stored beer in cool cellars and caves during the warm summer months. These brewers noticed that the beers continued to ferment, and to also clear of sediment, when stored in cool conditions.[114]
 
@@ -127,7 +123,7 @@ Beer is measured and assessed by bitterness, by strength and by colour. The perc
 
 Colour
 
-Paulaner.jpg – a dark lager]]
+ – a dark lager]]
 
 Beer colour is determined by the malt.[118] The most common colour is a pale amber produced from using pale malts. _Pale lager_ and _pale ale_ are terms used for beers made from malt dried with the fuel coke. Coke was first used for roasting malt in 1642, but it was not until around 1703 that the term _pale ale_ was used.[119][120]
 
@@ -152,7 +148,7 @@ Serving
 
 Draught
 
-Cask_Ales.jpgs]]
+s]]
 
 Draught (also spelled "draft") beer from a pressurised keg using a lever-style dispenser and a spout is the most common method of dispensing in bars around the world. A metal keg is pressurised with carbon dioxide (CO₂) gas which drives the beer to the dispensing tap or faucet. Some beers may be served with a nitrogen/carbon dioxide mixture. Nitrogen produces fine bubbles, resulting in a dense head and a creamy mouthfeel. Some types of beer can also be found in smaller, disposable kegs called beer balls. In traditional pubs, the pull levers for major beer brands may include the beer's logo and trademark.
 
@@ -163,8 +159,6 @@ Cask-conditioned ales (or cask ales) are unfiltered and unpasteurised beers. The
 Draught beer's environmental impact can be 68% lower than bottled beer due to packaging differences.[154][155] A life cycle study of one beer brand, including grain production, brewing, bottling, distribution and waste management, shows that the CO₂ emissions from a 6-pack of micro-brew beer is about 3 kilograms (6.6 pounds).[156] The loss of natural habitat potential from the 6-pack of micro-brew beer is estimated to be 2.5 square metres (26 square feet).[157] Downstream emissions from distribution, retail, storage and disposal of waste can be over 45% of a bottled micro-brew beer's CO₂ emissions.[158] Where legal, the use of a refillable jug, reusable bottle or other reusable containers to transport draught beer from a store or a bar, rather than buying pre-bottled beer, can reduce the environmental impact of beer consumption.[159]
 
 Packaging
-
-Dutch_beers.jpg
 
 Most beers are cleared of yeast by filtering when packaged in bottles and cans.[160] However, bottle conditioned beers retain some yeast—either by being unfiltered, or by being filtered and then reseeded with fresh yeast.[161] It is usually recommended that the beer be poured slowly, leaving any yeast sediment at the bottom of the bottle. However, some drinkers prefer to pour in the yeast; this practice is customary with wheat beers. Typically, when serving a hefeweizen wheat beer, 90% of the contents are poured, and the remainder is swirled to suspend the sediment before pouring it into the glass. Alternatively, the bottle may be inverted prior to opening. Glass bottles are always used for bottle conditioned beers.
 
@@ -211,7 +205,7 @@ Beers vary in their nutritional content.[189] The ingredients used to make beer,
 
 Society and culture
 
-Oktoberfest2.jpg—the world's largest beer festival]]
+—the world's largest beer festival]]
 
 In many societies, beer is the most popular alcoholic drink. Various social traditions and activities are associated with beer drinking, such as playing cards, darts, or other pub games; attending beer festivals; engaging in zythology (the study of beer);[192][193] visiting a series of pubs in one evening; visiting breweries; beer-oriented tourism; or rating beer.[194] Drinking games, such as beer pong, are also popular.[195] A relatively new profession is that of the beer sommelier, who informs restaurant patrons about beers and food pairings.
 

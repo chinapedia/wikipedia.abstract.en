@@ -23,12 +23,12 @@ Newman (1977) classified the languages into the four groups which have been acce
 
 -   MASA
 
-Chadic_Languages.jpg {{-}}
+{{-}}
 
 
 Origin
 
-Afro_asiatic_peoples_nigeria.png Hausa_language_map.png Several modern genetic studies of Chadic speaking groups in the northern Cameroon region have observed high frequencies of the Y-Chromosome Haplogroup R1b in these populations (specifically, of R1b's R-V88 variant). This paternal marker is common in parts of West Eurasia, but otherwise rare in Africa. Cruciani et al. (2010) thus propose that the Proto-Chadic speakers during the mid-Holocene (~7,000 years ago) migrated from the Levant to the Central Sahara, and from there settled in the Lake Chad Basin.[2]
+Several modern genetic studies of Chadic speaking groups in the northern Cameroon region have observed high frequencies of the Y-Chromosome Haplogroup R1b in these populations (specifically, of R1b's R-V88 variant). This paternal marker is common in parts of West Eurasia, but otherwise rare in Africa. Cruciani et al. (2010) thus propose that the Proto-Chadic speakers during the mid-Holocene (~7,000 years ago) migrated from the Levant to the Central Sahara, and from there settled in the Lake Chad Basin.[2]
 
 
 Loanwords

@@ -53,7 +53,7 @@ Government efforts to lower subsidies to unprofitable enterprises and to shrink 
 
 Recovery
 
-GDP-Caribbean.png of Cuba and some other Caribbean countries, based on Maddison and current Cuban statistics ]]
+of Cuba and some other Caribbean countries, based on Maddison and current Cuban statistics ]]
 
 Due to the continued growth of tourism, growth began in 1999 with a 6.2% increase in GDP.[36] Growth then picked up, with a growth in GDP of 11.8% in 2005 according to government figures.[37] In 2007 the Cuban economy grew by 7.5%, higher than the Latin American average. Accordingly, the cumulative growth in GDP since 2004 stood at 42.5%.[38][39]
 
@@ -121,7 +121,7 @@ Cuba produces sugarcane, tobacco, citrus, coffee, rice, potatoes, beans and live
 
 Industry
 
-Oljepumpe_cuba.jpgs in Cuba]] In total, industrial production accounted for almost 37% of Cuban GDP, or US$6.9 billion and employed 24% of the population, or 2,671,000 people, in 1996. A rally in sugar prices in 2009 stimulated investment and development of sugar processing.
+s in Cuba]] In total, industrial production accounted for almost 37% of Cuban GDP, or US$6.9 billion and employed 24% of the population, or 2,671,000 people, in 1996. A rally in sugar prices in 2009 stimulated investment and development of sugar processing.
 
 In 2003 Cuba's biotechnology and pharmaceutical industry was gaining in importance.[74] Among the products sold internationally are vaccines against various viral and bacterial pathogens. For example, the drug Heberprot-P was developed as a cure for diabetic foot ulcer and had success in many developing countries.[75] Cuba has also done pioneering work on the development of drugs for cancer treatment.[76]
 
@@ -131,7 +131,7 @@ Services
 
 Tourism
 
-Varaderobeach.jpg]] In the mid-1990s tourism surpassed sugar, long the mainstay of the Cuban economy, as the primary source of foreign exchange. Havana devotes significant resources to building tourist facilities and renovating historic structures. Cuban officials estimate roughly 1.6 million tourists visited Cuba in 1999 yielding about $1.9 billion in gross revenues. In 2000, 1,773,986 foreign visitors arrived in Cuba. Revenue from tourism reached US$1.7 billion.[79] By 2012, some 3 million visitors brought nearly £2 billion yearly.[80]
+]] In the mid-1990s tourism surpassed sugar, long the mainstay of the Cuban economy, as the primary source of foreign exchange. Havana devotes significant resources to building tourist facilities and renovating historic structures. Cuban officials estimate roughly 1.6 million tourists visited Cuba in 1999 yielding about $1.9 billion in gross revenues. In 2000, 1,773,986 foreign visitors arrived in Cuba. Revenue from tourism reached US$1.7 billion.[79] By 2012, some 3 million visitors brought nearly £2 billion yearly.[80]
 
 The growth of tourism has had social and economic repercussions. This led to speculation of the emergence of a two-tier economy[81] and the fostering of a state of tourist apartheid. This situation was exacerbated by the influx of dollars during the 1990s, potentially creating a dual economy based on the dollar (the currency of tourists) on the one hand and the peso on the other. Scarce imported goods – and even some of local manufacture, such as rum and coffee – could be had at dollar-only stores, but were hard to find or unavailable at peso prices. As a result, Cubans who earned only in the peso economy, outside the tourist sector, were at a disadvantage. Those with dollar incomes based upon the service industry began to live more comfortably. This widened the gulf between Cubans' material standards of living, in conflict with the Cuban Government's long term socialist policies.[82]
 
@@ -149,7 +149,7 @@ The Netherlands receives the largest share of Cuban exports (24%), 70 to 80% of 
 
 Cuba began courting foreign investment in the Special Period. Foreign investors must form joint ventures with the Cuban government. The sole exception to this rule are Venezuelans, who are allowed to hold 100% ownership in businesses due to an agreement between Cuba and Venezuela. Cuban officials said in early 1998 that 332 joint ventures had begun. Many of these are loans or contracts for management, supplies, or services normally not considered equity investment in Western economies. Investors are constrained by the U.S.-Cuban Liberty and Democratic Solidarity Act that provides sanctions for those who traffic in property expropriated from U.S. citizens.[85]
 
-Cuba's average tariff rate is 10 percent. The country's planned economy deters foreign trade and investment. The state maintains strict capital and exchange controls.[86] Tobacco_field_cuba1.jpg plantation in Pinar del Río]]
+Cuba's average tariff rate is 10 percent. The country's planned economy deters foreign trade and investment. The state maintains strict capital and exchange controls.[86] plantation in Pinar del Río]]
 
 Currencies
 

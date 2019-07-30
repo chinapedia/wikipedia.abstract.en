@@ -5,23 +5,19 @@ The player can induce a curved path, described as _curl_, by causing the stone t
 
 History
 
-Pieter_Brueghel_de_Jonge_-_Winterlandschap_met_vogelval_(Brukenthal_Museum)_(curling_crop).jpg
-
 Evidence that curling existed in Scotland in the early 16th century includes a curling stone inscribed with the date 1511 uncovered (along with another bearing the date 1551) when an old pond was drained at Dunblane, Scotland.[4] The world's oldest curling stone and the world's oldest football are now kept in the same museum (the Stirling Smith Art Gallery and Museum) in Stirling.[5] The first written reference to a contest using stones on ice coming from the records of Paisley Abbey, Renfrewshire, in February 1541.[6] Two paintings, "Winter Landscape with a Bird Trap" and "The Hunters in the Snow" (both dated 1565) by Pieter Bruegel the Elder depict Flemish peasants curling, albeit without brooms; Scotland and the Low Countries had strong trading and cultural links during this period, which is also evident in the history of golf.[7]
 
-Curling_at_Eglinton_castle,_Ayrshire,_Scotland.jpg, Ayrshire, Scotland in 1860. The curling house is located to the left of the picture.]]
+, Ayrshire, Scotland in 1860. The curling house is located to the left of the picture.]]
 
 The word _curling_ first appears in print in 1620 in Perth, Scotland, in the preface and the verses of a poem by Henry Adamson.[8][9] The sport was (and still is, in Scotland and Scottish-settled regions like southern New Zealand) also known as "the roaring game" because of the sound the stones make while traveling over the _pebble_ (droplets of water applied to the playing surface).[10] The verbal noun _curling_ is formed from the Scots (and English) verb _curl_,[11] which describes the motion of the stone.
 
-Curling_on_a_lake_in_Dartmouth,_Nova_Scotia,_Canada,_ca._1897.jpg, Canada, c. 1897]]
+, Canada, c. 1897]]
 
 Kilsyth Curling Club claims to be the first club in the world, having been formally constituted in 1716;[12] it is still in existence today.[13] Kilsyth also claims the oldest purpose-built curling pond in the world at Colzium, in the form of a low dam creating a shallow pool some in size. The International Olympic Committee recognises the Royal Caledonian Curling Club (founded as the Grand Caledonian Curling Club in 1838) as developing the first official rules for the sport.[14]
 
-Men_curling_-_1909_-_Ontario_Canada.jpg
-
 In the early history of curling, the playing stones were simply flat-bottomed stones from rivers or fields, which lacked a handle and were of inconsistent size, shape and smoothness.[15][16] Some early stones had holes for a finger and the thumb, akin to ten-pin bowling balls.[17] Unlike today, the thrower had little control over the 'curl' or velocity and relied more on luck than on precision, skill and strategy. The sport was often played on frozen rivers although purpose-built ponds were later created in many Scottish towns.[18] For example, the Scottish poet David Gray describes whisky-drinking curlers on the Luggie Water at Kirkintilloch.[19][20]
 
-Curling_on_Lake_of_Menteith_-_geograph.org.uk_-_1756810.jpg from 2010. The last official Grand Match was held here in 1979.[21]]]
+from 2010. The last official Grand Match was held here in 1979.[21]]]
 
 In Darvel, East Ayrshire, the weavers relaxed by playing curling matches using the heavy stone weights from the looms' _warp beams_, fitted with a detachable handle for the purpose. Many a wife would keep her husband's brass curling stone handle on the mantelpiece, brightly polished until the next time it was needed.[22] Central Canadian curlers often used 'irons' rather than stones until the early 1900s; Canada is the only country known to have done so, while others experimented with wood or ice-filled tins.[23]
 
@@ -35,7 +31,7 @@ Curling was one of the first sports that was popular with women and girls.[26]
 
 Olympic curling
 
-12-01-20-yog-674.jpg Curling_pictogram.svg Curling has been a medal sport in the Winter Olympic Games since the 1998 Winter Olympics. It currently includes men's, women's and mixed doubles tournaments (the mixed doubles event was held for the first time in 2018).[27]
+Curling has been a medal sport in the Winter Olympic Games since the 1998 Winter Olympics. It currently includes men's, women's and mixed doubles tournaments (the mixed doubles event was held for the first time in 2018).[27]
 
 In February 2002, the International Olympic Committee retroactively decided that the curling competition from the 1924 Winter Olympics (originally called _Semaine des Sports d'Hiver_, or International Winter Sports Week) would be considered official Olympic events and no longer be considered demonstration events. Thus, the first Olympic medals in curling, which at the time was played outdoors, were awarded for the 1924 Winter Games, with the gold medal won by Great Britain, two silver medals by Sweden, and the bronze by France. A demonstration tournament was also held during the 1932 Winter Olympic Games between four teams from Canada and four teams from the United States, with Canada winning 12 games to 4.[28][29]
 
@@ -44,11 +40,9 @@ Since the 1998 Olympics, Canada has dominated the sport with their men's teams w
 
 Equipment
 
-curlingsheet.jpg
-
 Curling sheet
 
-CurlingHouseAndBackline.svg The playing surface or _curling sheet_ is defined by the World Curling Federation Rules of Curling.[30] It is a rectangular area of ice, carefully prepared to be as flat and level as possible, in length by in width. The shorter borders of the sheet are called the backboards. Because of the elongated shape, several sheets may be laid out side by side in the same arena, allowing multiple games to be played simultaneously.
+The playing surface or _curling sheet_ is defined by the World Curling Federation Rules of Curling.[30] It is a rectangular area of ice, carefully prepared to be as flat and level as possible, in length by in width. The shorter borders of the sheet are called the backboards. Because of the elongated shape, several sheets may be laid out side by side in the same arena, allowing multiple games to be played simultaneously.
 
 A target, the _house_, is centred on the intersection of the _centre line_, drawn lengthwise down the centre of the sheet and the _tee line_, drawn from, and parallel to, the backboard. These lines divide the house into quarters. The house consists of a centre circle (the _button_) and three concentric rings, of diameters 4, 8 and 12 feet, formed by painting or laying coloured vinyl sheet under the ice and are usually distinguished by colour. A stone must at least touch the outer ring in order to score (see Scoring below); otherwise the rings are merely a visual aid for aiming and judging which stone is closer to the button. Two _hog lines_ are drawn from, and parallel to, the backboard.
 
@@ -78,7 +72,7 @@ A handle is attached by a bolt running vertically through a hole in the centre o
 
 Curling broom
 
-Curling_broom.png The _curling broom_, or _brush_, is used to sweep the ice surface in the path of the stone (see _sweeping_) and is also often used as a balancing aid during delivery of the stone.
+The _curling broom_, or _brush_, is used to sweep the ice surface in the path of the stone (see _sweeping_) and is also often used as a balancing aid during delivery of the stone.
 
 Prior to the 1950s, most curling brooms were made of corn strands and were similar to household brooms of the day. In 1958, Fern Marchessault of Montreal inverted the corn straw in the centre of the broom. This style of corn broom was referred to as _the Blackjack_.[42]
 
@@ -87,8 +81,6 @@ Artificial brooms made from man-made fabrics rather than corn, such as the _Rink
 Curling brushes may have fabric, hog hair, or horsehair heads. Modern curling brush handles are usually hollow tubes made of fibreglass or carbon fibre instead of a solid length of wooden dowel. These hollow tube handles are lighter and stronger than wooden handles, allowing faster sweeping and also enabling more downward force to be applied to the broom head with reduced shaft flex. New, "directional fabric" brooms, which players are worried will alter the fundamentals of the sport by reducing the level of skill required, have been accused of giving players an unfair advantage.[44] The new brooms were temporarily banned by the World Curling Federation and Curling Canada[45] for the 2015–2016 season. The new brooms give sweepers unprecedented control over the direction the stone goes.[46]
 
 Shoes
-
-curlingshoes.jpg
 
 Curling shoes are similar to ordinary athletic shoes except for special soles; the _slider shoe_ (usually known as a "slider") is designed for the sliding foot and the "gripper shoe" (usually known as a _gripper_) for the foot that kicks off from the hack.
 
@@ -107,7 +99,7 @@ Other types of equipment include:
 
 Gameplay
 
-Curling_Canada_Torino_2006.jpg, Mark Nichols from Team Canada delivers a stone while his teammates look on, ready to begin sweeping. The curler uses his broom to help keep his balance during delivery.]]
+, Mark Nichols from Team Canada delivers a stone while his teammates look on, ready to begin sweeping. The curler uses his broom to help keep his balance during delivery.]]
 
 The purpose of a game is to score points by getting stones closer to the house centre, or the "button", than the other team's stones.[48] Players from either team alternate in taking shots from the far side of the sheet. An end is complete when all eight rocks from each team have been delivered, a total of sixteen stones. If the teams are tied at the end of the game, play continues for as many ends as may be required to break the tie. The winner is the team with the highest score after all ends have been completed (see Scoring below). A game may be conceded if considered unwinnable.
 
@@ -129,7 +121,7 @@ The skip may communicate the _weight_, _turn_, _line,_ and other tactics by call
 
 Before delivery, the running surface of the stone is wiped clean and the path across the ice swept with the broom if necessary, because any dirt on the bottom of a stone or in its path can alter the trajectory and ruin the shot. Intrusion by a foreign object is called a _pick-up_ or _pick_.
 
-hack.jpg.[51]]] Outdoor_curling_on_Stormont_Loch_-_geograph.org.uk_-_1655114.jpg
+.[51]]]
 
 The thrower starts from the _hack_. The thrower's _gripper_ shoe (with the non-slippery sole) is positioned against one of the hacks; for a right-handed curler the right foot is placed against the left hack and vice versa for a left-hander. The thrower, now _in the hack_, lines the body up with shoulders square to the skip's broom at the far end for _line_.
 
@@ -143,7 +135,7 @@ The stone must be released before its front edge crosses the near hog line, and 
 
 Sweeping
 
-Olympic_Curling,_Vancouver_2010_crop_sweeping.jpg in Vancouver]]
+in Vancouver]]
 
 After the stone is delivered, its trajectory is influenced by the two sweepers under instruction from the skip. Sweeping is done for several reasons: to make the stone travel farther, to decrease the amount of curl, and to clean debris from the stone's path.[54] Sweeping is able to make the stone travel farther and straighter by slightly melting the ice under the brooms, thus decreasing the friction as the stone travels across that part of the ice. The stones curl more as they slow down, so sweeping early in travel tends to increase distance as well as straighten the path, and sweeping after sideways motion is established can increase the sideways distance.
 
@@ -163,7 +155,7 @@ When a stone is touched when stones are in play, the remedies vary[55][56] betwe
 
 Types of shots
 
-CurlingLastStone.svg Many different types of shots are used to carefully place stones for strategic or tactical reasons; they fall into three fundamental categories as follows:
+Many different types of shots are used to carefully place stones for strategic or tactical reasons; they fall into three fundamental categories as follows:
 
 _GUARDS_ are thrown in front of the house in the _free guard zone_, usually to protect a stone or to make the opposing team's shot difficult. Guard shots include the _centre-guard_, on the centreline and the _corner-guards_ to the left or right sides of the centre line. See _Free Guard Zone_ below.
 
@@ -191,8 +183,6 @@ The last rock in an end is called the _hammer_ and throwing the hammer gives a t
 
 Strategy
 
-Curlingdiagram.svg
-
 Curling is a game of strategy, tactics and skill. The strategy depends on the team's skill, the opponent's skill, the conditions of the ice, the score of the game, how many ends remain and whether the team has last-stone advantage (the _hammer_). A team may play an end aggressively or defensively. Aggressive playing will put a lot of stones in play by throwing mostly draws; this makes for an exciting game and is very risky but the reward can be very great. Defensive playing will throw a lot of hits preventing a lot of stones in play; this tends to be less exciting and less risky. A good drawing team will usually opt to play aggressively, while a good hitting team will opt to play defensively.
 
 If a team does not have the hammer in an end, it will opt to try to clog up the four-foot zone in the house to deny the opposing team access to the button. This can be done by throwing "centre line" guards in front of the house on the centre line, which can be tapped into the house later or drawn around. If a team has the hammer, they will try to keep this four-foot zone free so that they have access to the button area at all times. A team with the hammer may throw a _corner guard_ as their first stone of an end placed in front of the house but outside the four-foot zone to utilize the free guard zone. Corner guards are key for a team to score two points in an end, because they can either draw around it later or hit and roll behind it, making the opposing team's shot to remove it more difficult.
@@ -207,14 +197,12 @@ It is not uncommon at any level for a losing team to terminate the match before 
 
 Dispute resolution
 
-Curling_metering.jpg
-
 Most decisions about rules are left to the skips, although in official tournaments, decisions may be left to the officials. However, all scoring disputes are handled by the vice skip. No players other than the vice skip from each team should be in the house while score is being determined. In tournament play, the most frequent circumstance in which a decision has to be made by someone other than the vice skip is the failure of the vice skips to agree on which stone is closest to the button. An independent official (supervisor at Canadian and World championships) then measures the distances using a specially designed device that pivots at the centre of the button. When no independent officials are available, the vice skips measure the distances.
 
 
 Scoring
 
-curlingscore.jpg The winner is the team having the highest number of accumulated points at the completion of ten ends. Points are scored at the conclusion of each of these ends as follows: when each team has thrown its eight stones, the team with the stone closest to the button wins that end; the winning team is then awarded one point for each of its own stones lying closer to the button than the opponent's closest stone.
+The winner is the team having the highest number of accumulated points at the completion of ten ends. Points are scored at the conclusion of each of these ends as follows: when each team has thrown its eight stones, the team with the stone closest to the button wins that end; the winning team is then awarded one point for each of its own stones lying closer to the button than the opponent's closest stone.
 
 Only stones that are _in the house_ are considered in the scoring. A stone is in the house if it lies within the zone or any portion of its edge lies over the edge of the ring. Since the bottom of the stone is rounded, a stone just barely in the house will not have any actual contact with the ring, which will pass under the rounded edge of the stone, but it still counts. This type of stone is known as a _biter_.
 
@@ -249,7 +237,7 @@ Eight points – all the rocks thrown by one team counting – is the highest sc
 
 Curling culture
 
-The_Curlers_by_Sir_George_Harvey.jpg]] John_George_Brown_-_Curling;--a_Scottish_Game,_at_Central_Park_-_Google_Art_Project.jpg'' (1862) by John George Brown]] Charles_Martin_Hardie_-_Curling_at_Carsebreck_-_Google_Art_Project.jpg'' (1899) by Charles Martin Hardie]]
+]] '' (1862) by John George Brown]] '' (1899) by Charles Martin Hardie]]
 
 Competition teams are normally named after the skip, for example, Team Martin after skip Kevin Martin. Amateur league players can (and do) creatively name their teams, but when in competition (a bonspiel) the official team will have a standard name.
 
@@ -277,7 +265,7 @@ It is not uncommon for a team to concede a curling match after it believes it no
 
 Accessibility in curling
 
-WWHCC_2009_-_Team_China.jpg Curling has been adapted for wheelchair users and people otherwise unable to throw the stone from the hack. These curlers may use a device known as a "delivery stick". The cue holds on to the handle of the stone and is then pushed along by the curler. At the end of delivery, the curler pulls back on the cue, which releases it from the stone.[74] The Canadian Curling Association _Rules of Curling_ allows the use of a delivery stick in club play but does not permit it in championships.
+Curling has been adapted for wheelchair users and people otherwise unable to throw the stone from the hack. These curlers may use a device known as a "delivery stick". The cue holds on to the handle of the stone and is then pushed along by the curler. At the end of delivery, the curler pulls back on the cue, which releases it from the stone.[74] The Canadian Curling Association _Rules of Curling_ allows the use of a delivery stick in club play but does not permit it in championships.
 
 The delivery stick was specifically invented for elderly curlers in Canada in 1999. In early 2016 an international initiative started to allow use of the delivery sticks by players over 60 years of age in World Curling Federation Senior Championships, as well as in any projected Masters (60+) Championship that develops in the future.[75]
 
@@ -292,8 +280,6 @@ _The back line to hog line speed_ is used principally by sweepers to get an init
 
 
 Champions and major championships
-
-Worldwomenschampionshiptrophy.JPG
 
 -   Curling at the Winter Olympics
 -   World Curling Championships

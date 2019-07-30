@@ -1,4 +1,4 @@
-Stickmuster_1735.jpg, Germany]] Modern_cross_stitching_by_Caterpillar_Cross_Stitch.jpg CROSS-STITCH is a form of sewing and a popular form of counted-thread embroidery in which X-shaped stitches in a tiled, raster-like pattern are used to form a picture. The stitcher counts the threads on a piece of evenweave fabric (such as linen) in each direction so that the stitches are of uniform size and appearance. This form of cross-stitch is also called COUNTED CROSS-STITCH in order to distinguish it from other forms of cross-stitch.[1] Sometimes cross-stitch is done on designs printed on the fabric (STAMPED CROSS-STITCH); the stitcher simply stitches over the printed pattern.[2] Cross-stitch is often executed on easily countable fabric called aida cloth[3] whose weave creates a plainly visible grid of squares with holes for the needle at each corner.
+, Germany]] CROSS-STITCH is a form of sewing and a popular form of counted-thread embroidery in which X-shaped stitches in a tiled, raster-like pattern are used to form a picture. The stitcher counts the threads on a piece of evenweave fabric (such as linen) in each direction so that the stitches are of uniform size and appearance. This form of cross-stitch is also called COUNTED CROSS-STITCH in order to distinguish it from other forms of cross-stitch.[1] Sometimes cross-stitch is done on designs printed on the fabric (STAMPED CROSS-STITCH); the stitcher simply stitches over the printed pattern.[2] Cross-stitch is often executed on easily countable fabric called aida cloth[3] whose weave creates a plainly visible grid of squares with holes for the needle at each corner.
 
 Fabrics used in cross-stitch include linen, aida, and mixed-content fabrics called 'evenweave' such as jobelan. All cross-stitch fabrics are technically "evenweave" as the term refers to the fact that the fabric is woven to make sure that there are the same number of threads per inch in both the warp and the weft (i.e. vertically and horizontally). Fabrics are categorized by threads per inch (referred to as 'count'), which can range from 11 to 40 count.
 
@@ -7,13 +7,13 @@ Counted cross-stitch projects are worked from a gridded pattern called a chart a
 
 History
 
-Cross_stitch_detail.jpg, mid-twentieth century]]
+, mid-twentieth century]]
 
 Cross-stitch is the oldest form of embroidery and can be found all over the world since the middle ages.[5] Many folk museums show examples of clothing decorated with cross-stitch, especially from continental Europe, Asia, and Eastern and Central Europe.[6]
 
 The cross-stitch sampler is called that because it was generally stitched by a young girl to learn how to stitch and to record alphabet and other patterns to be used in her household sewing. These samples of her stitching could be referred back to over the years. Often, motifs and initials were stitched on household items to identify their owner, or simply to decorate the otherwise-plain cloth. The earliest known cross stitch sampler made in the United States is currently housed at Pilgrim Hall in Plymouth, Massachusetts.[7] The sampler was created by Loara Standish, daughter of Captain Myles Standish and pioneer of the Leviathan stitch, circa 1653.
 
-Surif_cross-stitch.jpg. Top half of picture is the reverse side.]]
+. Top half of picture is the reverse side.]]
 
 Traditionally, cross-stitch was used to embellish items like household linens, tablecloths, dishcloths, and doilies (only a small portion of which would actually be embroidered, such as a border). Although there are many cross-stitchers who still employ it in this fashion, it is now increasingly popular to work the pattern on pieces of fabric and hang them on the wall for decoration. Cross-stitch is also often used to make greeting cards, pillowtops, or as inserts for box tops, coasters and trivets.
 
@@ -29,8 +29,6 @@ Cross-stitch is widely used in traditional Palestinian dressmaking.
 
 
 Related stitches and forms of embroidery
-
-Ukrainian_girls.jpg Cross_stitching.jpg
 
 Other stitches are also often used in cross-stitch, among them quarter-, half-, and three-quarter-stitches and backstitches.
 
@@ -48,8 +46,6 @@ Cross-stitch is often combined with other popular forms of embroidery, such as H
 
 
 Recent trends for cross stitch
-
-Ballrina_cross-stitching.jpg
 
 Cross-stitch has become increasingly popular with the younger generation of Europe in recent years.[12] Retailers such as John Lewis experienced a 17% rise in sales of haberdashery products between 2009 and 2010.[13] Hobbycraft, a chain of stores selling craft supplies, also enjoyed an 11% increase in sales over the year to February 22, 2009.[14]
 

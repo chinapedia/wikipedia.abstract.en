@@ -1,10 +1,8 @@
 this article on the Simple English Wikipedia}}
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Feynmann_Diagram_Gluon_Radiation.svg and a positron annihilate, producing a photon (represented by the blue sine wave) that becomes a quark–antiquark pair, after which the antiquark radiates a gluon (represented by the green helix).]]
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-RichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  and a positron annihilate, producing a photon (represented by the blue sine wave) that becomes a quark–antiquark pair, after which the antiquark radiates a gluon (represented by the green helix).]]
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In theoretical physics, FEYNMAN DIAGRAMS are pictorial representations of the mathematical expressions describing the behavior of subatomic particles. The scheme is named after its inventor, American physicist Richard Feynman, and was first introduced in 1948. The interaction of sub-atomic particles can be complex and difficult to understand intuitively. Feynman diagrams give a simple visualization of what would otherwise be an arcane and abstract formula. As David Kaiser writes, "since the middle of the 20th century, theoretical physicists have increasingly turned to this tool to help them undertake critical calculations", and so "Feynman diagrams have revolutionized nearly every aspect of theoretical physics".[1] While the diagrams are applied primarily to quantum field theory, they can also be used in other fields, such as solid-state theory.
 

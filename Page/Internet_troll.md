@@ -5,7 +5,7 @@ Both the noun and the verb forms of "troll" are associated with Internet discour
 
 Usage
 
-DoNotFeedTroll.svg rather than engage with a troll is sometimes phrased as "Please do not feed the trolls."]]
+rather than engage with a troll is sometimes phrased as "Please do not feed the trolls."]]
 
 Application of the term _troll_ is subjective. Some readers may characterize a post as _trolling_, while others may regard the same post as a legitimate contribution to the discussion, even if controversial. Like any pejorative term, it can be used as an _ad hominem_ attack, suggesting a negative motivation.
 

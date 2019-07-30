@@ -1,4 +1,4 @@
-Bochas_oliver_family.jpg, c. 1902]] Bocce_Play_Cape_Coral_FL-2007.JPG, US in 2007]] Bocce_being_played.theora.ogv
+, c. 1902]] , US in 2007]]
 
 (,[1][2] also ,[3] ), sometimes anglicized as BOCCI[4][5][6] or BOCCIE,[7][8] is a ball sport belonging to the boules family, closely related to British bowls and French , with a common ancestry from ancient games played in the Roman Empire. Developed into its present form in Italy, it is played around Europe and also in other areas with Italian migrants, including Australia, North America, and South America. Initially played only by the Italian migrants, the game has slowly become more popular with their descendants and the wider community.
 
@@ -30,7 +30,7 @@ A variation called __ uses a metal ball, which is thrown overhand (palm down), a
 
 Boccia
 
-Australian_Boccia_team_members.jpg Another development, for persons with disabilities, is called __. It is a shorter-range game, played with leather balls on an indoor, smooth surface. Boccia was first introduced to the Paralympics at the 1984 New York/Stoke Mandeville Games, and is one of the only two Paralympic sports that do not have an Olympic counterpart (the other being goalball).[23]
+Another development, for persons with disabilities, is called __. It is a shorter-range game, played with leather balls on an indoor, smooth surface. Boccia was first introduced to the Paralympics at the 1984 New York/Stoke Mandeville Games, and is one of the only two Paralympic sports that do not have an Olympic counterpart (the other being goalball).[23]
 
 
 See also

@@ -1,11 +1,11 @@
-Barge_on_River_Thames,_London_-_Dec_2009.jpg in London, England, UK]]
+in London, England, UK]]
 
 A BARGE is a flat-bottomed ship, built mainly for river and canal transport of heavy goods. Some barges are not self-propelled and must be towed or pushed by towboats, canal barges or towed by draft animals on an adjacent towpath. Barges contended with the railway in the early Industrial Revolution, but were outcompeted in the carriage of high-value items due to the higher speed, falling costs and route flexibility of railways.
 
 
 Etymology
 
-PénicheRecyclageFerrailles2008Deûle2.jpg in Lambersart, France]] _Barge_ is attested from 1300, from Old French _barge_, from Vulgar Latin _barga_. The word originally could refer to any small boat; the modern meaning arose around 1480. _Bark_, "small ship", is attested from 1420, from Old French _barque_, from Vulgar Latin _barca_ (400 AD). The more precise meaning "three-masted ship" arose in the 17th century, and often takes the French spelling for disambiguation. Both are probably derived from the Latin _barica_, from , from _bāri_ "small boat", hieroglyphic Egyptian D58-G29-M17-M17-D21-P1 and similar _ba-y-r_ for "basket-shaped boat".[1] By extension, the term "embark" literally means to board the kind of boat called a "barque".
+in Lambersart, France]] _Barge_ is attested from 1300, from Old French _barge_, from Vulgar Latin _barga_. The word originally could refer to any small boat; the modern meaning arose around 1480. _Bark_, "small ship", is attested from 1420, from Old French _barque_, from Vulgar Latin _barca_ (400 AD). The more precise meaning "three-masted ship" arose in the 17th century, and often takes the French spelling for disambiguation. Both are probably derived from the Latin _barica_, from , from _bāri_ "small boat", hieroglyphic Egyptian D58-G29-M17-M17-D21-P1 and similar _ba-y-r_ for "basket-shaped boat".[1] By extension, the term "embark" literally means to board the kind of boat called a "barque".
 
 The long pole used to maneuver or propel a barge has given rise to the saying "I wouldn't touch that [subject/thing] with a barge pole."[2]
 
@@ -60,7 +60,7 @@ Poles are used on barges to fend off the barge as it nears other vessels or a wh
 
 Modern use
 
-Chicago_River_towboat_and_barge_080405.jpg]] Barges are used today for low-value bulk items, as the cost of hauling goods by barge is very low. Barges are also used for very heavy or bulky items; a typical American barge measures , and can carry up to about of cargo. The most common European barge measures and can carry up to about .
+]] Barges are used today for low-value bulk items, as the cost of hauling goods by barge is very low. Barges are also used for very heavy or bulky items; a typical American barge measures , and can carry up to about of cargo. The most common European barge measures and can carry up to about .
 
 As an example, on June 26, 2006, a catalytic cracking unit reactor was shipped by barge from the Tulsa Port of Catoosa in Oklahoma to a refinery in Pascagoula, Mississippi. Extremely large objects are normally shipped in sections and assembled onsite, but shipping an assembled unit reduced costs and avoided reliance on construction labor at the delivery site (which in this case was still recovering from Hurricane Katrina). Of the reactor's journey, only about were traveled overland, from the final port to the refinery.
 
@@ -71,11 +71,11 @@ Many barges, primarily Dutch barges, which were originally designed for carrying
 
 Towed or otherwise unpowered barges in the United States
 
-Cumberland_River_barge_traffic.jpg]] In primitive regions today and in all pre-development (lacking highways or railways) regions worldwide in times before industrial development and highways, barges were the predominant and most efficient means of inland transportation in many regions. This holds true today, for many areas of the world.
+]] In primitive regions today and in all pre-development (lacking highways or railways) regions worldwide in times before industrial development and highways, barges were the predominant and most efficient means of inland transportation in many regions. This holds true today, for many areas of the world.
 
 In such pre-industrialized, or poorly developed infrastructure regions, many barges are purpose-designed to be powered on waterways by long slender poles – thereby becoming known on American waterways as POLEBOATS as the extensive west of North America was settled using the vast tributary river systems of the Mississippi drainage basin. Poleboats use muscle power of "walkers" along the sides of the craft pushing a pole against the streambed, canal or lake bottom to move the vessel where desired. In settling the American west it was generally faster to navigate downriver from Brownsville, Pennsylvania, to the Ohio River confluence with the Mississippi and then pole upriver against the current to St. Louis than to travel overland on the rare primitive dirt roads for many decades after the American Revolution.
 
-Once the New York Central and Pennsylvania Railroads reached Chicago, that time dynamic changed, and American poleboats became less common, relegated to smaller rivers and more remote streams. On the Mississippi riverine system today, including that of other sheltered waterways, industrial barge trafficking in bulk raw materials such as coal, coke, timber, iron ore and other minerals is extremely common; in the developed world using huge CARGO BARGES that connect in groups and trains-of-barges in ways that allow cargo volumes and weights considerably greater than those used by pioneers of modern barge systems and methods in the Victorian era. The_tugboat,_Herbert_P._Brake.jpg _Herbert P. Brake_ of New York pushes a new barge east on the Erie Canal in Fairport, New York, United States]]
+Once the New York Central and Pennsylvania Railroads reached Chicago, that time dynamic changed, and American poleboats became less common, relegated to smaller rivers and more remote streams. On the Mississippi riverine system today, including that of other sheltered waterways, industrial barge trafficking in bulk raw materials such as coal, coke, timber, iron ore and other minerals is extremely common; in the developed world using huge CARGO BARGES that connect in groups and trains-of-barges in ways that allow cargo volumes and weights considerably greater than those used by pioneers of modern barge systems and methods in the Victorian era. _Herbert P. Brake_ of New York pushes a new barge east on the Erie Canal in Fairport, New York, United States]]
 
 Such barges need to be towed by tugboats or pushed by towboats. Canal barges, towed by draft animals on a waterway adjacent towpath were of fundamental importance in the early Industrial Revolution, whose major early engineering projects were efforts to build viaducts, aqueducts and especially canals to fuel and feed raw materials to nascent factories in the early industrial takeoff (18th century) and take their goods to ports and cities for distribution.
 

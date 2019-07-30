@@ -1,4 +1,4 @@
-Drizzlecombe_kist_4.JPG on the southern edge of Dartmoor in Drizzlecombe (England) showing the capstone and the inner cist structure.]]Cista.jpg
+on the southern edge of Dartmoor in Drizzlecombe (England) showing the capstone and the inner cist structure.]]
 
 A CIST ( or ; also KIST ;[1][2] from or Germanic _Kiste_) is a small stone-built coffin-like box or ossuary used to hold the bodies of the dead. Examples can be found across Europe and in the Middle East.[3][4][5][6] A cist may have been associated with other monuments, perhaps under a cairn or long barrow. Several cists are sometimes found close together within the same cairn or barrow. Often ornaments have been found within an excavated cist, indicating the wealth or prominence of the interred individual.
 

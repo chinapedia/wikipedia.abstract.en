@@ -14,7 +14,7 @@ In English, the term 'Hong Kongers' (or sometimes 'Hongkongers') is also used to
 
 Population density
 
-Hong_Kong_Population_Graph.svg The following census data is available for Hong Kong between the years 1841–2011. In 2011, Hong Kong had a population of just over 7 million, with a density of approximately 6,300 people per square kilometre. This makes Hong Kong the fourth most densely populated region in the world, after Macau, Monaco, and Singapore.[6]
+The following census data is available for Hong Kong between the years 1841–2011. In 2011, Hong Kong had a population of just over 7 million, with a density of approximately 6,300 people per square kilometre. This makes Hong Kong the fourth most densely populated region in the world, after Macau, Monaco, and Singapore.[6]
 
 
 Ethnicity
@@ -23,7 +23,7 @@ Chinese groups
 
 According to the 2016 by-census, 92% of the Hong Kong population is ethnic Chinese.[7] 8% are other non-Chinese ethnic groups, including a large number of Filipinos and Indonesians, making up approximately 4% of the population.[8][9][10] The Hong Kong census does not categorise Han Chinese subgroups. However, the majority of Hong Kongers of Chinese descent trace their ancestry to various parts of Southern China: the Guangzhou area, followed by Siyi (a region of four counties neighbouring Guangzhou), Chaoshan (a region of North Guangdong home to Teochew speakers), Fujian and Shanghai.[11] Some Cantonese people also originate from Hakka-speaking villages in the New Territories.[12] Most Teochew-speaking migrants immigrated to Hong Kong from the late 1940s to the early 1970s, while migrants from Fujian (previously Southern Min speakers, and increasingly more Central Min and Northern Min speakers) have constituted a large-growing number of migrants since 1978.[13] Many Taishanese and Cantonese also migrated after 1949.
 
-Currently, the major Chinese groups include the Punti, Hakka, Cantonese (including Toishanese), Hoklo,[14] and Tanka ().[15] Punti and Tanka are Hong Kong indigenous people, while Cantonese people (including Taishanese) are not Hong Kong indigenous people. For Hakka and Hoklo, they have both indigenous and non-indigenous people in Hong Kong.Stanley_Market_6,_Mar_06.JPG]]
+Currently, the major Chinese groups include the Punti, Hakka, Cantonese (including Toishanese), Hoklo,[14] and Tanka ().[15] Punti and Tanka are Hong Kong indigenous people, while Cantonese people (including Taishanese) are not Hong Kong indigenous people. For Hakka and Hoklo, they have both indigenous and non-indigenous people in Hong Kong.]]
 
 Non-Chinese ethnic groups
 
@@ -89,8 +89,6 @@ Census data from 2006, 2011, and 2016.[16]
 
 
 Age groups
-
-Bevölkerungspyramide_Hongkong_2016.png
 
 United Nations data
 
@@ -314,7 +312,7 @@ The World Factbook in 2013 reported that the fertility rate in Hong Kong was 1.1
 
 Religion
 
-Hong_Kong_Budha.jpg on Lantau Island.]] DaJiuFestival.jpg'' celebration, the Cheung Chau Bun Festival.]] Over half of all people (56.1% as of 2010) are not religious[29]. Religious people in Hong Kong follow a diverse range of religions, among which Taoist and Buddhist (specifically Chinese Buddhism) faiths are common for people of Chinese descent.
+on Lantau Island.]] '' celebration, the Cheung Chau Bun Festival.]] Over half of all people (56.1% as of 2010) are not religious[29]. Religious people in Hong Kong follow a diverse range of religions, among which Taoist and Buddhist (specifically Chinese Buddhism) faiths are common for people of Chinese descent.
 
 Confucian beliefs are popular in Hong Kong, but it is arguable whether Confucianism can be considered as a religion [30]. As such, Confucianism is excluded in some studies [31].
 

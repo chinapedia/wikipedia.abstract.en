@@ -37,8 +37,6 @@ The usage of the term _octad(e)_ for eight bits is no longer common.[41][42]
 
 Unit multiples
 
-Binaryvdecimal.svg
-
 Despite standardization efforts, ambiguity still exists in the meanings of the SI (or metric) prefixes used with the unit byte, especially concerning the prefixes _kilo_ (k or K), _mega_ (M), and _giga_ (G). Computer memory has a binary architecture in which multiples are expressed in powers of 2. In some fields of the software and computer hardware industries a binary prefix is used for bytes and bits, while producers of computer storage devices practice adherence to decimal SI multiples. For example, a computer disk drive capacity of 100 gigabytes is specified when the disk contains 100 billion bytes (93 gibibytes) of storage space.
 
 While the numerical difference between the decimal and binary interpretations is relatively small for the prefixes kilo and mega, it grows to over 20% for prefix yotta. The linear–log graph illustrates the difference versus storage size up to an exabyte.

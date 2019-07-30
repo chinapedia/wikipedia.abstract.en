@@ -13,7 +13,7 @@ The word "dill" and its close relatives are found in most of the Germanic langua
 
 Culinary use
 
-DillEssOil.png Fresh and dried dill leaves (sometimes called "dill weed" to distinguish it from dill seed) are widely used as herbs in Europe and central Asia.
+Fresh and dried dill leaves (sometimes called "dill weed" to distinguish it from dill seed) are widely used as herbs in Europe and central Asia.
 
 Like caraway, the fernlike leaves of dill are aromatic and are used to flavor many foods such as gravlax (cured salmon) and other fish dishes, borscht, and other soups, as well as pickles (where the dill flower is sometimes used). Dill is best when used fresh, as it loses its flavor rapidly if dried, however, freeze-dried dill leaves retain their flavor relatively well for a few months.
 
@@ -96,7 +96,7 @@ These plants, like their fennel and parsley relatives, often are eaten by Black 
 
 Companion planting
 
-Anethum_graveolens_001.JPG When used as a companion plant, dill attracts many beneficial insects as the umbrella flower heads go to seed. It makes a good companion plant for cucumbers and broccoli.
+When used as a companion plant, dill attracts many beneficial insects as the umbrella flower heads go to seed. It makes a good companion plant for cucumbers and broccoli.
 
 It is a poor companion plant for carrots and tomatoes.[12]
 

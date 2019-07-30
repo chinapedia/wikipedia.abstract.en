@@ -49,7 +49,7 @@ History
 
 Creation
 
-Unua_Libro_ru_1st_ed.pdf]]
+]]
 
 Esperanto was created in the late 1870s and early 1880s by L. L. Zamenhof, a Polish-Jewish ophthalmologist from Białystok, then part of the Russian Empire but now part of Poland. According to Zamenhof, he created the language to reduce the "time and labour we spend in learning foreign tongues" and to foster harmony between people from different countries: "Were there but an international language, all translations would be made into it alone ... and all nations would be united in a common brotherhood."[28] His feelings and the situation in Białystok may be gleaned from an extract from his letter to Nikolai Borovko:[29]
 
@@ -61,13 +61,13 @@ Zamenhof's name for the language was simply ("International Language").[32]
 
 Later history
 
-1905-03-ge-frankf-mapo.jpg The autonomous territory of Neutral Moresnet, between what is today Belgium and Germany, had a sizable proportion of Esperanto-speakers among its small and multi-ethnic population. There was a proposal to make Esperanto its official language.
+The autonomous territory of Neutral Moresnet, between what is today Belgium and Germany, had a sizable proportion of Esperanto-speakers among its small and multi-ethnic population. There was a proposal to make Esperanto its official language.
 
 However, neither Belgium nor Prussia (now within Germany) had ever surrendered its original claim to it. Around 1900, Germany in particular was taking a more aggressive stance towards the territory and was accused of sabotage and of obstructing the administrative process in order to force the issue. It was the First World War, however, that was the catalyst that brought about the end of neutrality. On August 4, 1914, Germany invaded Belgium, leaving Moresnet at first "an oasis in a desert of destruction".[33] In 1915, the territory was annexed by the Kingdom of Prussia, without international recognition.
 
 After the Great War, a great opportunity seemed to arise for Esperanto when the Iranian delegation to the League of Nations proposed that it be adopted for use in international relations, following a report by Nitobe Inazō, an official delegate of the League of Nations during the 13th World Congress of Esperanto in Prague.[34] Ten delegates accepted the proposal with only one voice against, the French delegate, Gabriel Hanotaux. Hanotaux did not like how the French language was losing its position as the international language and saw Esperanto as a threat, effectively wielding his veto power to block the decision. However, two years later, the League recommended that its member states include Esperanto in their educational curricula. For this reason, many people see the 1920s as the heyday of the Esperanto movement. Anarchism as a political movement was very supportive during this time of anationalism as well as of the Esperanto language.[35]
 
-1911_Anvers_Congrès_Esperanto.jpg, August 1911]] Esperanto attracted the suspicion of many states. The situation was especially pronounced in Nazi Germany, Francoist Spain up until the 1950s, and in the Soviet Union from 1937 to 1956.
+, August 1911]] Esperanto attracted the suspicion of many states. The situation was especially pronounced in Nazi Germany, Francoist Spain up until the 1950s, and in the Soviet Union from 1937 to 1956.
 
 In Nazi Germany, there was a motivation to forbid Esperanto because Zamenhof was Jewish, and due to the internationalist nature of Esperanto, which was perceived as "Bolshevist". In his work, _Mein Kampf_, Adolf Hitler specifically mentioned Esperanto as an example of a language that could be used by an international Jewish conspiracy once they achieved world domination.[36] Esperantists were killed during the Holocaust, with Zamenhof's family in particular singled out for being killed.[37] The efforts of a minority of Esperantists to expel Jewish colleagues and align themselves with the Reich were futile and Esperanto was legally forbidden in 1935. Esperantists in German concentration camps taught the language to fellow prisoners, telling guards they were teaching Italian, the language of one of Germany's Axis allies.[38]
 
@@ -82,7 +82,7 @@ During and after the Spanish Civil War, Francoist Spain suppressed anarchists, s
 
 Official use
 
-Moresnet.png Esperanto has not been a secondary official language of any recognized country, but it entered the education system of several countries such as Hungary[45] and China.[46]
+Esperanto has not been a secondary official language of any recognized country, but it entered the education system of several countries such as Hungary[45] and China.[46]
 
 There were plans at the beginning of the 20th century to establish Neutral Moresnet as the world's first Esperanto state. In addition, the self-proclaimed artificial island micronation of Rose Island used Esperanto as its official language in 1968, and another micronation, the extant Republic of Molossia, uses Esperanto as an official language alongside English.[47]
 
@@ -358,7 +358,7 @@ Community
 
 Geography and demography
 
-PS_mapo_2015.png (akin to CouchSurfing), by 2015]] Esperanto is by far the most widely spoken constructed language in the world.[101] Speakers are most numerous in Europe and East Asia, especially in urban areas, where they often form Esperanto clubs.[102] Esperanto is particularly prevalent in the northern and central countries of Europe; in China, Korea, Japan, and Iran within Asia;[103] in Brazil, Argentina, and Mexico in the Americas;[104] and in Togo in Africa.[105]
+(akin to CouchSurfing), by 2015]] Esperanto is by far the most widely spoken constructed language in the world.[101] Speakers are most numerous in Europe and East Asia, especially in urban areas, where they often form Esperanto clubs.[102] Esperanto is particularly prevalent in the northern and central countries of Europe; in China, Korea, Japan, and Iran within Asia;[103] in Brazil, Argentina, and Mexico in the Americas;[104] and in Togo in Africa.[105]
 
 Countering a common criticism against Esperanto, the statistician Svend Nielsen has found there to be no significant correlation between the number of Esperanto speakers and similarity of a given national mother language to Esperanto. He concludes that Esperanto tends to be more popular in countries that are rich, with widespread Internet access and that tend to contribute more to science and culture. Linguistic diversity within a country was found to have a slight inverse correlation with Esperanto popularity.[106]
 
@@ -390,7 +390,7 @@ Native Esperanto speakers, _,_ have learned the language from birth from Esperan
 
 Culture
 
-Uk_2008_libroservo.JPG, Rotterdam 2008]]
+, Rotterdam 2008]]
 
 Esperantists can access an international culture, including a large body of original as well as translated literature. There are more than 25,000 Esperanto books, both originals and translations, as well as several regularly distributed Esperanto magazines. In 2013 a museum about Esperanto opened in China.[119] Esperantists use the language for free accommodations with Esperantists in 92 countries using the or to develop pen pals through __.[120]
 
@@ -450,7 +450,7 @@ In Season 1, episode 15 of Nickelodeon's "Danny Phantom" the Werewolf-type creat
 
 Science
 
-Bertalan_Farkas_(Author_-_Rudolf_Csiba).jpg, the first Esperantist in space]]
+, the first Esperantist in space]]
 
 In 1921 the French Academy of Sciences recommended using Esperanto for international scientific communication.[129] A few scientists and mathematicians, such as Maurice Fréchet (mathematics), John C. Wells (linguistics), Helmar Frank (pedagogy and cybernetics), and Nobel laureate Reinhard Selten (economics) have published part of their work in Esperanto. Frank and Selten were among the founders of the International Academy of Sciences in San Marino, sometimes called the "Esperanto University", where Esperanto is the primary language of teaching and administration.[130][131]
 
@@ -514,8 +514,6 @@ The first translation of the Bible into Esperanto was a translation of the Tanak
 
 Christianity
 
-Esperanto-meso_La_Habana_2010_(Peter_Knauer).jpg
-
 Christian Esperanto organizations include two that were formed early in the history of Esperanto:
 
 -   1910—The International Union of Catholic Esperantists. Two Roman Catholic popes, John Paul II and Benedict XVI, have regularly used Esperanto in their multilingual blessings at Easter and Christmas each year since Easter 1994.[154]
@@ -528,7 +526,7 @@ Individual churches using Esperanto include:
 -   There are instances of Christian apologists and teachers who use Esperanto as a medium. Nigerian pastor Bayo Afolaranmi's "Spirita nutraĵo"[159] (spiritual food) Yahoo mailing list, for example, has hosted weekly messages since 2003.[160]
 -   Chick Publications, publisher of Protestant fundamentalist themed evangelistic tracts, has published a number of comic book style tracts by Jack T. Chick translated into Esperanto, including "This Was Your Life!" ("")[161]
 
-Savplano.png in Esperanto.]]
+in Esperanto.]]
 
 -   The Book of Mormon has been partially translated into Esperanto, although the translation has not been officially endorsed by The Church of Jesus Christ of Latter-day Saints.[162] There exists a group of Mormon Esperantists who distribute church literature in this language.[163]
 

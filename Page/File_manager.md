@@ -23,7 +23,7 @@ This program ran only on IBM VM/SP CMS, but was the inspiration for other progra
 
 Orthodox file managers
 
-Midnight_Commander_4.7.0.9_on_Ubuntu_11.04.png, an orthodox file manager with a text-based user interface]] Orthodox file managers (sometimes abbreviated to "OFM") or command-based file managers are text-menu based file managers, that commonly have three windows (two panels and one command line window). Orthodox file managers are one of the longest running families of file managers, preceding graphical user interface-based types. Developers create applications that duplicate and extend the manager that was introduced by PathMinder and John Socha's famous Norton Commander for DOS. The concept dates to the mid-1980s—PathMinder was released in 1984, and Norton Commander version 1.0 was released in 1986. Despite the age of this concept, file managers based on Norton Commander are actively developed, and dozens of implementations exist for DOS, Unix, and Microsoft Windows. Nikolai Bezroukov publishes his own set of criteria for an OFM standard (version 1.2 dated June 1997).[16]
+, an orthodox file manager with a text-based user interface]] Orthodox file managers (sometimes abbreviated to "OFM") or command-based file managers are text-menu based file managers, that commonly have three windows (two panels and one command line window). Orthodox file managers are one of the longest running families of file managers, preceding graphical user interface-based types. Developers create applications that duplicate and extend the manager that was introduced by PathMinder and John Socha's famous Norton Commander for DOS. The concept dates to the mid-1980s—PathMinder was released in 1984, and Norton Commander version 1.0 was released in 1986. Despite the age of this concept, file managers based on Norton Commander are actively developed, and dozens of implementations exist for DOS, Unix, and Microsoft Windows. Nikolai Bezroukov publishes his own set of criteria for an OFM standard (version 1.2 dated June 1997).[16]
 
 Features
 
@@ -94,9 +94,9 @@ Notable ones include:
 
 Navigational file manager
 
-WinFile_10.0_Screen.PNG in Windows 7, displaying a folder and the contents of partition C:]] Nemo_4.0.6_screenshot.png]] A NAVIGATIONAL FILE MANAGER is a newer type of file manager. Since the advent of GUIs, it has become the dominant type of file manager for desktop computers.
+in Windows 7, displaying a folder and the contents of partition C:]] ]] A NAVIGATIONAL FILE MANAGER is a newer type of file manager. Since the advent of GUIs, it has become the dominant type of file manager for desktop computers.
 
-Typically, it has two panes, with the filesystem tree in the left pane and the contents of the current directory in the right pane. For macOS, the Miller columns view in Finder (originating in NeXTStep) is a variation on the navigational file manager theme. GNUstep-liveCD.png browser from GNUstep is a type of Navigational file manager.]]
+Typically, it has two panes, with the filesystem tree in the left pane and the contents of the current directory in the right pane. For macOS, the Miller columns view in Finder (originating in NeXTStep) is a variation on the navigational file manager theme. browser from GNUstep is a type of Navigational file manager.]]
 
 Concepts
 
@@ -130,7 +130,7 @@ Notable examples of navigational file managers include:
 
 Spatial file manager
 
-Nautilus-spatial.png had a spatial mode, which was removed with the arrival of GNOME (and with it Nautilus) version 3.x. Each of these windows displays an open directory.]] SPATIAL FILE MANAGERS use a spatial metaphor to represent files and directories as if they were actual physical objects. A spatial file manager imitates the way people interact with physical objects.
+had a spatial mode, which was removed with the arrival of GNOME (and with it Nautilus) version 3.x. Each of these windows displays an open directory.]] SPATIAL FILE MANAGERS use a spatial metaphor to represent files and directories as if they were actual physical objects. A spatial file manager imitates the way people interact with physical objects.
 
 Some ideas behind the concept of a spatial file manager are:
 
@@ -164,7 +164,7 @@ Dysfunctional spatial file managers:
 
 3D file managers
 
-FSV-OSX-screenshot.png, one example of a 3D file manager]] Cubix_3D_Filer_Screenshot.png
+, one example of a 3D file manager]]
 
 Some projects have attempted to implement a three-dimensional method of displaying files and directory structures. Three-dimensional file browsing has not become popular; the exact implementation tends to differ between projects, and there are no common standards to follow.
 

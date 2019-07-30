@@ -47,7 +47,7 @@ IEEE 802.15.3c-2009 was published on September 11, 2009. The task group TG3c dev
 
 IEEE 802.15.4: Low Rate WPAN
 
-IEEE_802.15.4_protocol_stack.svg IEEE 802.15.4-2003 (Low Rate WPAN) deals with low data rate but very long battery life (months or even years) and very low complexity. The standard defines both the physical (Layer 1) and data-link (Layer 2) layers of the OSI model. The first edition of the 802.15.4 standard was released in May 2003. Several standardized and proprietary networks (or mesh) layer protocols run over 802.15.4-based networks, including IEEE 802.15.5, ZigBee, Thread, 6LoWPAN, WirelessHART, and ISA100.11a.
+IEEE 802.15.4-2003 (Low Rate WPAN) deals with low data rate but very long battery life (months or even years) and very low complexity. The standard defines both the physical (Layer 1) and data-link (Layer 2) layers of the OSI model. The first edition of the 802.15.4 standard was released in May 2003. Several standardized and proprietary networks (or mesh) layer protocols run over 802.15.4-based networks, including IEEE 802.15.5, ZigBee, Thread, 6LoWPAN, WirelessHART, and ISA100.11a.
 
 WPAN Low Rate Alternative PHY (4a)
 

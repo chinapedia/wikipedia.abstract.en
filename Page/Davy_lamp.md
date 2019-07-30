@@ -1,4 +1,4 @@
-Davy_lamp.png The DAVY LAMP is a safety lamp for use in flammable atmospheres, invented in 1815 by Sir Humphry Davy.[1] It consists of a wick lamp with the flame enclosed inside a mesh screen. It was created for use in coal mines, to reduce the danger of explosions due to the presence of methane and other flammable gases, called _firedamp_ or _minedamp._
+The DAVY LAMP is a safety lamp for use in flammable atmospheres, invented in 1815 by Sir Humphry Davy.[1] It consists of a wick lamp with the flame enclosed inside a mesh screen. It was created for use in coal mines, to reduce the danger of explosions due to the presence of methane and other flammable gases, called _firedamp_ or _minedamp._
 
 
 History
@@ -13,8 +13,6 @@ A local committee of enquiry gathered in support of Stephenson exonerated him, s
 
 
 Design and theory
-
-Pieler_safety_lamp.jpg
 
 The lamp consists of a wick lamp with the flame enclosed inside a mesh screen. The screen acts as a flame arrestor; air (and any firedamp present) can pass through the mesh freely enough to support combustion, but the holes are too fine to allow a flame to propagate through them and ignite any firedamp outside the mesh. It originally burned a heavy vegetable oil.
 

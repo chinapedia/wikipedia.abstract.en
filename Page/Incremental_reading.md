@@ -1,4 +1,4 @@
-Incremental_Reading_add-on_(v4.7.14)_for_Anki_(v2.1beta27)_(annoted).jpg add-on: extracting a portion out of an article and creating a cloze deletion]]
+add-on: extracting a portion out of an article and creating a cloze deletion]]
 
 INCREMENTAL READING is a software-assisted method for learning and retaining information from reading, which involves the creation of flashcards out of electronic articles. "Incremental reading" means "reading in portions". Instead of a linear reading of articles one at a time, the method works by keeping a large reading list of electronic articles or books (often dozens or hundreds of them) and reading parts of several articles in each session. Articles in the reading list are prioritized by the user. In the course of reading, key points of articles are broken up into flashcards, which are then learned and reviewed over an extended period of time with the help of a spaced repetition algorithm.
 

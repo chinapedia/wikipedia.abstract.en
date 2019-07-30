@@ -1,4 +1,4 @@
-Inverse_Function.png In mathematics, an INVERSE FUNCTION (or ANTI-FUNCTION[1]) is a function that "reverses" another function: if the function applied to an input gives a result of , then applying its inverse function to gives the result , and vice versa, i.e., if and only if .[2][3]
+In mathematics, an INVERSE FUNCTION (or ANTI-FUNCTION[1]) is a function that "reverses" another function: if the function applied to an input gives a result of , then applying its inverse function to gives the result , and vice versa, i.e., if and only if .[2][3]
 
 As an example, consider the real-valued function of a real variable given by . Thinking of this as a step-by-step procedure (namely, take a number , multiply it by 5, then subtract 7 from the result), to reverse this and get back from some output value, say , we should undo each step in reverse order. In this case that means that we should add 7 to and then divide the result by 5. In functional notation this inverse function would be given by,
 
@@ -9,8 +9,6 @@ Not all functions have inverse functions. In order for a function to have an inv
 
 
 Definitions
-
-Inverse_Functions_Domain_and_Range.png
 
 Let be a function whose domain is the set , and whose image (range) is the set . Then is _invertible_ if there exists a function with domain and image , with the property:
 
@@ -71,7 +69,7 @@ This statement is a consequence of the implication that for to be invertible it 
 
 (_f_^( − 1))^( − 1) = _f_.
 
-Composition_of_Inverses.png The inverse of a composition of functions is given by[27]
+The inverse of a composition of functions is given by[27]
 
 (_g_ ∘ _f_)^( − 1) = _f_^( − 1) ∘ _g_^( − 1).
 Notice that the order of and have been reversed; to undo followed by , we must first undo and then undo .

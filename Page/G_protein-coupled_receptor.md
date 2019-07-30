@@ -1,4 +1,4 @@
-PDB_1hzx_7TM_Sketch_Membrane.png]] G PROTEIN-COUPLED RECEPTORS (GPCRS), also known as SEVEN-(PASS)-TRANSMEMBRANE DOMAIN RECEPTORS, 7TM RECEPTORS, HEPTAHELICAL RECEPTORS, SERPENTINE RECEPTOR, and G PROTEIN–LINKED RECEPTORS (GPLR), constitute a large protein family of receptors that detect molecules outside the cell and activate internal signal transduction pathways and, ultimately, cellular responses. Coupling with G proteins, they are called seven-transmembrane receptors because they pass through the cell membrane seven times.[1]
+]] G PROTEIN-COUPLED RECEPTORS (GPCRS), also known as SEVEN-(PASS)-TRANSMEMBRANE DOMAIN RECEPTORS, 7TM RECEPTORS, HEPTAHELICAL RECEPTORS, SERPENTINE RECEPTOR, and G PROTEIN–LINKED RECEPTORS (GPLR), constitute a large protein family of receptors that detect molecules outside the cell and activate internal signal transduction pathways and, ultimately, cellular responses. Coupling with G proteins, they are called seven-transmembrane receptors because they pass through the cell membrane seven times.[1]
 
 G protein-coupled receptors are found only in eukaryotes, including yeast, choanoflagellates,[2] and animals. The ligands that bind and activate these receptors include light-sensitive compounds, odors, pheromones, hormones, and neurotransmitters, and vary in size from small molecules to peptides to large proteins. G protein-coupled receptors are involved in many diseases, and are also the target of approximately 34% of all modern medicinal drugs.[3][4][5]
 
@@ -18,8 +18,6 @@ The 2012 Nobel Prize in Chemistry was awarded to Brian Kobilka and Robert Lefkow
 
 
 Classification
-
-GPCR_classification.svg
 
 The exact size of the GPCR superfamily is unknown, but at least 831 different human genes (or ~ 4% of the entire protein-coding genome) have been predicted to code for them from genome sequence analysis.[12][13] Although numerous classification schemes have been proposed, the superfamily was classically divided into three main classes (A, B, and C) with no detectable shared sequence homology between classes.
 
@@ -68,7 +66,7 @@ GPCRs are evolutionarily related to some other proteins with seven transmembrane
 
 Structure-function relationships
 
-GPCR_in_membrane.png In terms of structure, GPCRs are characterized by an extracellular N-terminus, followed by seven transmembrane (7-TM) α-helices (TM-1 to TM-7) connected by three intracellular (IL-1 to IL-3) and three extracellular loops (EL-1 to EL-3), and finally an intracellular C-terminus. The GPCR arranges itself into a tertiary structure resembling a barrel, with the seven transmembrane helices forming a cavity within the plasma membrane that serves a ligand-binding domain that is often covered by EL-2. Ligands may also bind elsewhere, however, as is the case for bulkier ligands (e.g., proteins or large peptides), which instead interact with the extracellular loops, or, as illustrated by the class C metabotropic glutamate receptors (mGluRs), the N-terminal tail. The class C GPCRs are distinguished by their large N-terminal tail, which also contains a ligand-binding domain. Upon glutamate-binding to an mGluR, the N-terminal tail undergoes a conformational change that leads to its interaction with the residues of the extracellular loops and TM domains. The eventual effect of all three types of agonist-induced activation is a change in the relative orientations of the TM helices (likened to a twisting motion) leading to a wider intracellular surface and "revelation" of residues of the intracellular helices and TM domains crucial to signal transduction function (i.e., G-protein coupling). Inverse agonists and antagonists may also bind to a number of different sites, but the eventual effect must be prevention of this TM helix reorientation.[40]
+In terms of structure, GPCRs are characterized by an extracellular N-terminus, followed by seven transmembrane (7-TM) α-helices (TM-1 to TM-7) connected by three intracellular (IL-1 to IL-3) and three extracellular loops (EL-1 to EL-3), and finally an intracellular C-terminus. The GPCR arranges itself into a tertiary structure resembling a barrel, with the seven transmembrane helices forming a cavity within the plasma membrane that serves a ligand-binding domain that is often covered by EL-2. Ligands may also bind elsewhere, however, as is the case for bulkier ligands (e.g., proteins or large peptides), which instead interact with the extracellular loops, or, as illustrated by the class C metabotropic glutamate receptors (mGluRs), the N-terminal tail. The class C GPCRs are distinguished by their large N-terminal tail, which also contains a ligand-binding domain. Upon glutamate-binding to an mGluR, the N-terminal tail undergoes a conformational change that leads to its interaction with the residues of the extracellular loops and TM domains. The eventual effect of all three types of agonist-induced activation is a change in the relative orientations of the TM helices (likened to a twisting motion) leading to a wider intracellular surface and "revelation" of residues of the intracellular helices and TM domains crucial to signal transduction function (i.e., G-protein coupling). Inverse agonists and antagonists may also bind to a number of different sites, but the eventual effect must be prevention of this TM helix reorientation.[40]
 
 The structure of the N- and C-terminal tails of GPCRs may also serve important functions beyond ligand-binding. For example, The C-terminus of M₃ muscarinic receptors is sufficient, and the six-amino-acid polybasic (KKKRRK) domain in the C-terminus is necessary for its preassembly with G_(q) proteins.[41] In particular, the C-terminus often contains serine (Ser) or threonine (Thr) residues that, when phosphorylated, increase the affinity of the intracellular surface for the binding of scaffolding proteins called β-arrestins (β-arr).[42] Once bound, β-arrestins both sterically prevent G-protein coupling and may recruit other proteins, leading to the creation of signaling complexes involved in extracellular-signal regulated kinase (ERK) pathway activation or receptor endocytosis (internalization). As the phosphorylation of these Ser and Thr residues often occurs as a result of GPCR activation, the β-arr-mediated G-protein-decoupling and internalization of GPCRs are important mechanisms of desensitization.[43] In addition, internalized "mega-complexes" consisting of a single GPCR, β-arr(in the tail conformation),[44][45] and heterotrimeric G protein exist and may account for protein signaling from endosomes.[46]
 
@@ -78,8 +76,6 @@ GPCRs respond to extracellular signals mediated by a huge diversity of agonists,
 
 
 Mechanism
-
-GPCR_activation.jpg
 
 The G protein-coupled receptor is activated by an external signal in the form of a ligand or other signal mediator. This creates a conformational change in the receptor, causing activation of a G protein. Further effect depends on the type of G protein. G proteins are subsequently inactivated by GTPase activating proteins, known as RGS proteins.
 
@@ -93,7 +89,7 @@ However, in other types of receptors that have been studied, wherein ligands bin
 
 Conformational change
 
-Beta2Receptor-with-Gs.png entry 3SN6). The receptor is colored red, Gα green, Gβ cyan, and Gγ yellow. The C-terminus of Gα is located in a cavity created by an outward movement of the cytoplasmic parts of TM5 and 6.]]
+entry 3SN6). The receptor is colored red, Gα green, Gβ cyan, and Gγ yellow. The C-terminus of Gα is located in a cavity created by an outward movement of the cytoplasmic parts of TM5 and 6.]]
 
 The transduction of the signal through the membrane by the receptor is not completely understood. It is known that in the inactive state, the GPCR is bound to a heterotrimeric G protein complex. Binding of an agonist to the GPCR results in a conformational change in the receptor that is transmitted to the bound G_(α) subunit of the heterotrimeric G protein via protein domain dynamics. The activated G_(α) subunit exchanges GTP in place of GDP which in turn triggers the dissociation of G_(α) subunit from the G_(βγ) dimer and from the receptor. The dissociated G_(α) and G_(βγ) subunits interact with other intracellular proteins to continue the signal transduction cascade while the freed GPCR is able to rebind to another heterotrimeric G protein to form a new complex that is ready to initiate another round of signal transduction.[48]
 
@@ -101,18 +97,18 @@ It is believed that a receptor molecule exists in a conformational equilibrium b
 
 G-protein activation/deactivation cycle
 
-GPCR_cycle.jpg When the receptor is inactive, the GEF domain may be bound to an also inactive α-subunit of a heterotrimeric G-protein. These "G-proteins" are a trimer of α, β, and γ subunits (known as Gα, Gβ, and Gγ, respectively) that is rendered inactive when reversibly bound to Guanosine diphosphate (GDP) (or, alternatively, no guanine nucleotide) but active when bound to guanosine triphosphate (GTP). Upon receptor activation, the GEF domain, in turn, allosterically activates the G-protein by facilitating the exchange of a molecule of GDP for GTP at the G-protein's α-subunit. The cell maintains a 10:1 ratio of cytosolic GTP:GDP so exchange for GTP is ensured. At this point, the subunits of the G-protein dissociate from the receptor, as well as each other, to yield a Gα-GTP monomer and a tightly interacting Gβγ dimer, which are now free to modulate the activity of other intracellular proteins. The extent to which they may diffuse, however, is limited due to the palmitoylation of Gα and the presence of an isoprenoid moiety that has been covalently added to the C-termini of Gγ.
+When the receptor is inactive, the GEF domain may be bound to an also inactive α-subunit of a heterotrimeric G-protein. These "G-proteins" are a trimer of α, β, and γ subunits (known as Gα, Gβ, and Gγ, respectively) that is rendered inactive when reversibly bound to Guanosine diphosphate (GDP) (or, alternatively, no guanine nucleotide) but active when bound to guanosine triphosphate (GTP). Upon receptor activation, the GEF domain, in turn, allosterically activates the G-protein by facilitating the exchange of a molecule of GDP for GTP at the G-protein's α-subunit. The cell maintains a 10:1 ratio of cytosolic GTP:GDP so exchange for GTP is ensured. At this point, the subunits of the G-protein dissociate from the receptor, as well as each other, to yield a Gα-GTP monomer and a tightly interacting Gβγ dimer, which are now free to modulate the activity of other intracellular proteins. The extent to which they may diffuse, however, is limited due to the palmitoylation of Gα and the presence of an isoprenoid moiety that has been covalently added to the C-termini of Gγ.
 
 Because Gα also has slow GTP→GDP hydrolysis capability, the inactive form of the α-subunit (Gα-GDP) is eventually regenerated, thus allowing reassociation with a Gβγ dimer to form the "resting" G-protein, which can again bind to a GPCR and await activation. The rate of GTP hydrolysis is often accelerated due to the actions of another family of allosteric modulating proteins called Regulators of G-protein Signaling, or RGS proteins, which are a type of GTPase-Activating Protein, or GAP. In fact, many of the primary effector proteins (e.g., adenylate cyclases) that become activated/inactivated upon interaction with Gα-GTP also have GAP activity. Thus, even at this early stage in the process, GPCR-initiated signaling has the capacity for self-termination.
 
 Crosstalk
 
-GPCR_and_itegrin_signaling_diagram.png signaling and GPCRs. Integrins are shown elevating Ca²⁺ and phosphorylating FAK, which is weakening GPCR signaling.]] GPCRs downstream signals have been shown to possibly interact with integrin signals, such as FAK.[50] Integrin signaling will phosphorylate FAK, which can then decrease GPCR G_(αs) activity.
+signaling and GPCRs. Integrins are shown elevating Ca²⁺ and phosphorylating FAK, which is weakening GPCR signaling.]] GPCRs downstream signals have been shown to possibly interact with integrin signals, such as FAK.[50] Integrin signaling will phosphorylate FAK, which can then decrease GPCR G_(αs) activity.
 
 
 Signaling
 
-GPCR_mechanism.png If a receptor in an active state encounters a G protein, it may activate it. Some evidence suggests that receptors and G proteins are actually pre-coupled.[51] For example, binding of G proteins to receptors affects the receptor's affinity for ligands. Activated G proteins are bound to GTP.
+If a receptor in an active state encounters a G protein, it may activate it. Some evidence suggests that receptors and G proteins are actually pre-coupled.[51] For example, binding of G proteins to receptors affects the receptor's affinity for ligands. Activated G proteins are bound to GTP.
 
 Further signal transduction depends on the type of G protein. The enzyme adenylate cyclase is an example of a cellular protein that can be regulated by a G protein, in this case the G protein G_(s). Adenylate cyclase activity is activated when it binds to a subunit of the activated G protein. Activation of adenylate cyclase ends when the G protein returns to the GDP-bound state.
 
@@ -155,7 +151,7 @@ Although it is a relatively immature area of research, it appears that heterotri
 
 Details of cAMP and PIP2 pathways
 
-Proteinkinase_1.svg The_effect_of_Rs_and_Gs_in_cAMP_signal_pathway.jpg The_effect_of_Ri_and_Gi_in_cAMP_signal_pathway.jpg There are two principal signal transduction pathways involving the G protein-linked receptors: the cAMP signal pathway and the phosphatidylinositol signal pathway.[56]
+There are two principal signal transduction pathways involving the G protein-linked receptors: the cAMP signal pathway and the phosphatidylinositol signal pathway.[56]
 
 cAMP signal pathway
 

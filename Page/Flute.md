@@ -1,4 +1,4 @@
-Shinobue_and_other_flutes.jpg The FLUTE is a family of musical instruments in the woodwind group. Unlike woodwind instruments with reeds, a flute is an aerophone or reedless wind instrument that produces its sound from the flow of air across an opening. According to the instrument classification of Hornbostel–Sachs, flutes are categorized as edge-blown aerophones.[1] A musician who plays the flute can be referred to as a flute player, flautist, flutist or, less commonly, fluter or flutenist.
+The FLUTE is a family of musical instruments in the woodwind group. Unlike woodwind instruments with reeds, a flute is an aerophone or reedless wind instrument that produces its sound from the flow of air across an opening. According to the instrument classification of Hornbostel–Sachs, flutes are categorized as edge-blown aerophones.[1] A musician who plays the flute can be referred to as a flute player, flautist, flutist or, less commonly, fluter or flutenist.
 
 Flutes are the earliest extant musical instruments, as paleolithic instruments with hand-bored holes have been found. A number of flutes dating to about 43,000 to 35,000 years ago have been found in the Swabian Jura region of present-day Germany. These flutes demonstrate that a developed musical tradition existed from the earliest period of modern human presence in Europe.[2][3]
 
@@ -12,11 +12,11 @@ Today, a musician who plays any instrument in the flute family can be called a f
 
 History
 
-Gu_Hongzhong's_Night_Revels,_Detail_4.jpg remake of the _Night Revels of Han Xizai_, originally by Gu Hongzhong (10th century)]] The oldest flute ever discovered may be a fragment of the femur of a juvenile cave bear, with two to four holes, found at Divje Babe in Slovenia and dated to about 43,000 years ago. However, this has been disputed.[18][19] In 2008 another flute dated back to at least 35,000 years ago was discovered in Hohle Fels cave near Ulm, Germany.[20] The five-holed flute has a V-shaped mouthpiece and is made from a vulture wing bone. The researchers involved in the discovery officially published their findings in the journal _Nature_, in August 2009.[21] The discovery was also the oldest confirmed find of any musical instrument in history,[22] until a redating of flutes found in Geißenklösterle cave revealed them to be even older with an age of 42,000 to 43,000 years.[23]
+remake of the _Night Revels of Han Xizai_, originally by Gu Hongzhong (10th century)]] The oldest flute ever discovered may be a fragment of the femur of a juvenile cave bear, with two to four holes, found at Divje Babe in Slovenia and dated to about 43,000 years ago. However, this has been disputed.[18][19] In 2008 another flute dated back to at least 35,000 years ago was discovered in Hohle Fels cave near Ulm, Germany.[20] The five-holed flute has a V-shaped mouthpiece and is made from a vulture wing bone. The researchers involved in the discovery officially published their findings in the journal _Nature_, in August 2009.[21] The discovery was also the oldest confirmed find of any musical instrument in history,[22] until a redating of flutes found in Geißenklösterle cave revealed them to be even older with an age of 42,000 to 43,000 years.[23]
 
 The flute, one of several found, was found in the Hohle Fels cavern next to the Venus of Hohle Fels and a short distance from the oldest known human carving.[24] On announcing the discovery, scientists suggested that the "finds demonstrate the presence of a well-established musical tradition at the time when modern humans colonized Europe".[25] Scientists have also suggested that the discovery of the flute may help to explain "the probable behavioural and cognitive gulf between" Neanderthals and early modern human.[26]
 
-A three-holed flute, 18.7 cm long, made from a mammoth tusk (from the Geißenklösterle cave, near Ulm, in the southern German Swabian Alb and dated to 30,000 to 37,000 years ago)[27] was discovered in 2004, and two flutes made from swan bones excavated a decade earlier (from the same cave in Germany, dated to circa 36,000 years ago) are among the oldest known musical instruments. CantigasDeSantaMariaPanPipes.jpg'', mid-13th century, Spain]] Sri_Mariamman_Temple_Singapore_2_amk.jpg playing a flute]]
+A three-holed flute, 18.7 cm long, made from a mammoth tusk (from the Geißenklösterle cave, near Ulm, in the southern German Swabian Alb and dated to 30,000 to 37,000 years ago)[27] was discovered in 2004, and two flutes made from swan bones excavated a decade earlier (from the same cave in Germany, dated to circa 36,000 years ago) are among the oldest known musical instruments. '', mid-13th century, Spain]] playing a flute]]
 
 A playable 9,000-year-old Gudi (literally, "bone flute") was excavated from a tomb in Jiahu along with 29 defunct twins,[28] made from the wing bones of red-crowned cranes with five to eight holes each, in the Central Chinese province of Henan.[29] The earliest extant Chinese transverse flute is a _chi_ (篪) flute discovered in the Tomb of Marquis Yi of Zeng at the Suizhou site, Hubei province, China. It dates from 433 BC, of the later Zhou Dynasty.[30] It is fashioned of lacquered bamboo with closed ends and has five stops that are at the flute's side instead of the top. Chi flutes are mentioned in _Shi Jing_, compiled and edited by Confucius, according to tradition.
 
@@ -38,7 +38,7 @@ A study in which professional flutists were blindfolded could find no significan
 
 Categories
 
-Zampoña.jpg'', a Pre-Inca instrument and type of pan flute.]]
+'', a Pre-Inca instrument and type of pan flute.]]
 
 In its most basic form, a flute is an open tube which is blown into. After focused study and training, players use controlled air-direction to create an airstream in which the air is aimed downward into the tone hole of the flute's headjoint. There are several broad classes of flutes. With most flutes, the musician blows directly across the edge of the mouthpiece, with 1/4 of their bottom lip covering the embouchure hole. However, some flutes, such as the whistle, gemshorn, flageolet, recorder, tin whistle, tonette, fujara, and ocarina have a duct that directs the air onto the edge (an arrangement that is termed a "fipple"). These are known as FIPPLE FLUTES. The fipple gives the instrument a distinct timbre which is different from non-fipple flutes and makes the instrument easier to play, but takes a degree of control away from the musician.
 
@@ -52,7 +52,7 @@ Flutes can be played with several different air sources. Conventional flutes are
 
 Western transverse flutes
 
-Flute_with_musicial_notes.jpg]]
+]]
 
 Wooden one-keyed transverse flute
 
@@ -60,25 +60,23 @@ Usually in D, wooden transverse flutes were played in European classical music m
 
 Western concert flute
 
-Western_concert_flute.jpg]] The Western concert flute, a descendant of the medieval German flute, is a transverse treble flute that is closed at the top. An _embouchure hole_ is positioned near the top across and into which the flutist blows. The flute has circular tone holes larger than the finger holes of its baroque predecessors. The size and placement of tone holes, key mechanism, and fingering system used to produce the notes in the flute's range were evolved from 1832 to 1847 by Theobald Boehm and greatly improved the instrument's dynamic range and intonation over its predecessors.[47] With some refinements (and the rare exception of the Kingma system and other custom adapted fingering systems), Western concert flutes typically conform to Boehm's design, known as the Boehm system. Beginner's flutes are made of nickel, silver, or brass that is silver-plated, while professionals use solid silver, gold, and sometimes platinum flutes. There are also modern wooden-bodied flutes usually with silver or gold keywork. The wood is usually African Blackwood.
+]] The Western concert flute, a descendant of the medieval German flute, is a transverse treble flute that is closed at the top. An _embouchure hole_ is positioned near the top across and into which the flutist blows. The flute has circular tone holes larger than the finger holes of its baroque predecessors. The size and placement of tone holes, key mechanism, and fingering system used to produce the notes in the flute's range were evolved from 1832 to 1847 by Theobald Boehm and greatly improved the instrument's dynamic range and intonation over its predecessors.[47] With some refinements (and the rare exception of the Kingma system and other custom adapted fingering systems), Western concert flutes typically conform to Boehm's design, known as the Boehm system. Beginner's flutes are made of nickel, silver, or brass that is silver-plated, while professionals use solid silver, gold, and sometimes platinum flutes. There are also modern wooden-bodied flutes usually with silver or gold keywork. The wood is usually African Blackwood.
 
 The standard concert flute is pitched in C and has a range of three octaves starting from middle C or one half step lower when a B foot is attached. This means the concert flute is one of the highest common orchestra and concert band instruments.
 
 Western concert flute variants
 
-Joueuse_de_flûte_à_Château-Thierry.jpg The piccolo plays an octave higher than the regular treble flute. Lower members of the flute family include the G alto and C bass flutes that are used occasionally, and are pitched a perfect fourth and an octave below the concert flute, respectively. The contrabass, double contrabass, and hyperbass are other rare forms of the flute pitched two, three, and four octaves below middle C respectively.
+The piccolo plays an octave higher than the regular treble flute. Lower members of the flute family include the G alto and C bass flutes that are used occasionally, and are pitched a perfect fourth and an octave below the concert flute, respectively. The contrabass, double contrabass, and hyperbass are other rare forms of the flute pitched two, three, and four octaves below middle C respectively.
 
 Other sizes of flutes and piccolos are used from time to time. A rarer instrument of the modern pitching system is the treble G flute. Instruments made according to an older pitch standard, used principally in wind-band music, include D piccolo, soprano flute (the primary instrument, equivalent to today's concert C flute), F alto flute, and B bass flute.
 
 Indian flutes
 
-Indian_bamboo_flute.jpg eight-holed bamboo flute]]
-
-Eight_Flute1.JPG
+eight-holed bamboo flute]]
 
 The bamboo flute is an important instrument in Indian classical music, and developed independently of the Western flute. The Hindu God Lord Krishna is traditionally considered a master of the bamboo flute. The Indian flutes are very simple compared to the Western counterparts; they are made of bamboo and are keyless.[48]
 
-Two main varieties of Indian flutes are currently used. The first, the Bansuri (बांसुरी), has six finger holes and one embouchure hole, and is used predominantly in the Hindustani music of Northern India. The second, the Venu or Pullanguzhal, has eight finger holes, and is played predominantly in the Carnatic music of Southern India. Presently, the eight-holed flute with cross-fingering technique is common among many Carnatic flutists. Prior to this, the South Indian flute had only seven finger holes, with the fingering standard developed by Sharaba Shastri, of the Palladam school, at the beginning of the 20th century.[49] Krishna_flute_suchindram_temple_car_carving.jpg, India]]
+Two main varieties of Indian flutes are currently used. The first, the Bansuri (बांसुरी), has six finger holes and one embouchure hole, and is used predominantly in the Hindustani music of Northern India. The second, the Venu or Pullanguzhal, has eight finger holes, and is played predominantly in the Carnatic music of Southern India. Presently, the eight-holed flute with cross-fingering technique is common among many Carnatic flutists. Prior to this, the South Indian flute had only seven finger holes, with the fingering standard developed by Sharaba Shastri, of the Palladam school, at the beginning of the 20th century.[49] , India]]
 
 The quality of the flute's sound depends somewhat on the specific bamboo used to make it, and it is generally agreed that the best bamboo grows in the Nagercoil area of South India.[50]
 
@@ -97,8 +95,6 @@ Japanese flutes
 The Japanese flute, called the fue, , encompasses a large number of musical flutes from Japan, include the end-blown shakuhachi and hotchiku, as well as the transverse gakubue, komabue, ryūteki, nōkan, shinobue, kagurabue and minteki.
 
 Sodina and suling
-
-Sodina_Flute_of_Madagascar.jpg
 
 The sodina is an end-blown flute found throughout the island state of Madagascar, located in the Indian Ocean off southeastern Africa. One of the oldest instruments on the island, it bears close resemblance to end-blown flutes found in Southeast Asia and particularly Indonesia, where it is known as the _suling_, suggesting the predecessor to the sodina was carried to Madagascar in outrigger canoes by the island's original settlers emigrating from Borneo.[53] An image of the most celebrated contemporary sodina flutist, Rakoto Frah (d. 2001), was featured on the local currency.[54]
 

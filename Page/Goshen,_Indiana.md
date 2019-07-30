@@ -11,7 +11,7 @@ The Yankee migration to Indiana was a result of several factors, one of which wa
 
 They were aided in this effort by the construction and completion of the Erie Canal which made traveling to the region much easier, causing an additional surge in migrants coming from New England. Added to this was the end of the Black Hawk War, which made the region much safer to travel through and settle in for white settlers. These settlers were primarily members of the Congregational Church, though due to the Second Great Awakening, many of them had converted to Methodism, and some had become Baptists before coming to what is now Indiana. The Congregational Church has subsequently gone through many divisions, and some factions, including those in Goshen, are now known as the Church of Christ and the United Church of Christ.[9] When the New Englanders arrived in what is now Elkhart County there was nothing but dense virgin forest and wild prairie. They laid out farms, constructed roads, erected government buildings and established post routes.[10][11]
 
-palmsundaytwintornadoes.jpg On Palm Sunday, April 11, 1965, a large outbreak of tornadoes struck the Midwest. The most famous pair of tornadoes devastated the Midway Trailer Park (now inside the city limits of Goshen), and the Sunnyside Housing Addition in Dunlap, Indiana, but a smaller F4 tornado also struck neighborhoods on the southeast side of Goshen on the same day. Statewide, 137 Hoosiers died in the storms—55 of them in Elkhart County. Days later, President Lyndon B. Johnson visited the Dunlap site.[12]
+On Palm Sunday, April 11, 1965, a large outbreak of tornadoes struck the Midwest. The most famous pair of tornadoes devastated the Midway Trailer Park (now inside the city limits of Goshen), and the Sunnyside Housing Addition in Dunlap, Indiana, but a smaller F4 tornado also struck neighborhoods on the southeast side of Goshen on the same day. Statewide, 137 Hoosiers died in the storms—55 of them in Elkhart County. Days later, President Lyndon B. Johnson visited the Dunlap site.[12]
 
 The Goshen Historic district, added in 1983 to the National Registor of Historic Places[13] is bounded by Pike, RR, Cottage, Plymouth, Main, Purl, the Canal, and Second Sts. with the Elkhart County Courthouse at its center.
 
@@ -31,7 +31,7 @@ According to the United States Census Bureau, the city has a total area of , of 
 
 Demographics
 
-Goshen-indiana-courthouse.jpg courthouse in Goshen.]]
+courthouse in Goshen.]]
 
 2010 census
 
@@ -89,8 +89,6 @@ The Interurban Trolley bus connects Goshen to the nearby city of Elkhart and the
 
 
 Recreation
-
-Pumpkinvine_Trail_Outside_of_Goshen.jpg First_Friday_Cruising_-_July_2011.jpg
 
 Goshen has seven parks and has a few different greenways and trails winding through the city, one of which runs along the old Mill Race and hydraulic canal which was once used to power an old hydroelectric power plant. Plans drawn up in 2005 call for the plant to be reopened and redevelopment to begin along the canal.[25]
 

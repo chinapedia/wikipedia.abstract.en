@@ -21,7 +21,7 @@ Cast
 
 Production
 
-damset.jpg Per the waning popularity of the _Godzilla_ series, special effects director Sadamasa Arikawa noted that Toho were going to potentially end the _Godzilla_ series as "Producer Tanaka figured that all the ideas had just run out."
+Per the waning popularity of the _Godzilla_ series, special effects director Sadamasa Arikawa noted that Toho were going to potentially end the _Godzilla_ series as "Producer Tanaka figured that all the ideas had just run out."
 
 The film was written by Takeshi Kimura and Ishirō Honda, making it the first _Godzilla_ film since _Godzilla Raids Again_ not written by Shinichi Sekizawa. Takeshi Kimura is credited to the pen name Kaoru Mabuchi in the film's credits. Kimura and Honda's script developed the concept of Monsterland (referred to as Monster Island in future films). As the films has several monsters who continuously return in the films, the location was developed to as a faraway island where the monsters are pacified. This tied other films not related to the _Godzilla_ series within its universe, as creatures such as Manda (from _Atragon_) and Varan (_Varan the Unbelievable_) exist. The film features footage from _Ghidorah, the Three-Headed Monster_ (1964), specifically King Ghidorah's fiery birth scene.
 

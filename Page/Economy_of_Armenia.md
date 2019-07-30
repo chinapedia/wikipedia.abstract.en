@@ -27,8 +27,6 @@ History of the modern Armenian economy
 
 At the beginning of the 20th century, the territory of present-day Armenia was a backward agricultural region with some copper mining and cognac production. From 1914 through 1921, Caucasian Armenia suffered from war, revolution, the influx of refugees from Turkish Armenia, disease, hunger and economic misery. About 200,000 people died in 1919 alone. At that point, only American relief efforts saved Armenia from total collapse.
 
-Trans-100millones-rev.jpg
-
 The first Soviet Armenian government regulated economic activity stringently, nationalising all economic enterprises, requisitioning grain from peasants, and suppressing most private market activity. This first experiment of state control ended with the advent of Soviet leader Vladimir Lenin's New Economic Policy (NEP) of 1921–27. This policy continued state control of the large enterprises and banks, but peasants could market much of their grain, and small businesses could function. In Armenia, the NEP years brought partial recovery from the economic disaster of the post-World War I period. By 1926 agricultural production in Armenia had reached nearly three-quarters of its prewar level.
 
 By the end of the 1920s, Stalin's regime had revoked the NEP and reestablished the state monopoly on all economic activity. Once this occurred, the main goal of the Soviet economic policy in Armenia was to turn a predominantly agrarian and rural republic into an industrial and urban one. Among other restrictions, peasants now were forced to sell nearly all of their output to state procurement agencies rather than at the market. From the 1930s through the 1960s, an industrial infrastructure has been constructed. Besides hydroelectric plants and canals, roads were built and gas pipelines were laid to bring fuel and food from Azerbaijan and Russia.
@@ -64,15 +62,13 @@ The chronic energy shortages Armenia suffered in the early and mid-1990s have be
 
 GDP growth
 
-GDP_growth_rates_in_Armenia,_Georgia_and_Azerbaijan_in_2010_-_2017.png
-
 GDP grew by 7.1 per cent in the first quarter of 2019.[9]
 
 GDP per capita was approximately $4,280 in 2018 and is expected to reach $4604 in 2019.[10] With 8.3% Armenia recorded highest degree of GDP growth among Eurasian Economic Union countries in 2018 January–June against the same period of 2017.[11]
 
 Earlier, the economy of Armenia grew by 7.5% in 2017 and reached a nominal GDP of $11.5 billion per annum, while per capita figure grew by 10.1% and reached $3880.[12] With 7.29% Armenia was second best in GDP per capita growth terms in Europe and Central Asia in 2017.[13]
 
-Armenian GDP PPP (measured in current international dollar) grew total of 316% per capita in the years 2000-2017 becoming 6th best worldwide in these terms.[14][15]GDP_Armenia_Georgia_Azerbaijan_1990_2016.jpg
+Armenian GDP PPP (measured in current international dollar) grew total of 316% per capita in the years 2000-2017 becoming 6th best worldwide in these terms.[14][15]
 
 +-------------+-----------------------------+-------------+---------------------+-------------------+
 | Year        | GDP (millions of drams)[16] | Growth [17] | GDP per capita [18] | GDP deflator [19] |
@@ -383,7 +379,7 @@ The global economic crisis has had less impact on imports because the sector is 
 
 Deficit
 
-According to the National Statistical Service foreign trade deficit amounted to US$1.94 billion in 2017.[86] The current account deficit represented 2.4 percent of GDP in 2017 and increased up to 8.1 percent of GDP during the first three quarters of 2018. This was a result of about 8 percent increase in goods export and 21 percent increase on goods import in nominal terms year on year in 2018.[87] Current_Account_Balance_.png
+According to the National Statistical Service foreign trade deficit amounted to US$1.94 billion in 2017.[86] The current account deficit represented 2.4 percent of GDP in 2017 and increased up to 8.1 percent of GDP during the first three quarters of 2018. This was a result of about 8 percent increase in goods export and 21 percent increase on goods import in nominal terms year on year in 2018.[87]
 
 Partners
 
@@ -537,7 +533,7 @@ With curtailment of the MCC funding, the European Union may replace the US as Ar
 
 Domestic business environment
 
-Armenian_State_Revenue_Committee_building.JPGSince transition of power to new leadership in 2018 Armenian government works on improving domestic business environment. Numerous formerly privileged business are now required to pay taxes and officially register all workers. Mainly due to this there were 9.7% more payroll employees registered in January 2019 as compared to January 2018.[129]
+Since transition of power to new leadership in 2018 Armenian government works on improving domestic business environment. Numerous formerly privileged business are now required to pay taxes and officially register all workers. Mainly due to this there were 9.7% more payroll employees registered in January 2019 as compared to January 2018.[129]
 
 In April 2019 Armenian parliament approved reforms of management of joint stock companies effectively enacting a blocking minority shareholders stake of 25%[130] to cope with shareholder oppression.
 
@@ -647,8 +643,6 @@ As of October 2008, the Armenian government was considering implementing an ambi
 
 
 Labor Market
-
-2006_Labor_Force_by_Occupation.png
 
 Unionization
 

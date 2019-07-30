@@ -1,4 +1,4 @@
-Good_Food_Display_-_NCI_Visuals_Online.jpg Foods_(cropped).jpg FOOD is any substance[1] consumed to provide nutritional support for an organism. It is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth.
+FOOD is any substance[1] consumed to provide nutritional support for an organism. It is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth.
 
 Historically, humans secured food through two methods: hunting and gathering and agriculture. Today, the majority of the food energy required by the ever increasing population of the world is supplied by the food industry.
 
@@ -27,7 +27,7 @@ Vegetables are a second type of plant matter that is commonly eaten as food. The
 
 Animals
 
-Meatfoodgroup.jpgs]] Animals are used as food either directly or indirectly by the products they produce. Meat is an example of a direct product taken from an animal, which comes from muscle systems or from organs.
+s]] Animals are used as food either directly or indirectly by the products they produce. Meat is an example of a direct product taken from an animal, which comes from muscle systems or from organs.
 
 Food products produced by animals include milk produced by mammary glands, which in many cultures is drunk or processed into dairy products (cheese, butter, etc.). In addition, birds and other animals lay eggs, which are often eaten, and bees produce honey, a reduced nectar from flowers, which is a popular sweetener in many cultures. Some cultures consume blood, sometimes in the form of blood sausage, as a thickener for sauces, or in a cured, salted form for times of food scarcity, and others use blood in stews such as jugged hare.[12]
 
@@ -44,7 +44,7 @@ Adulteration is a legal term meaning that a food product fails to meet the legal
 
 Camping food
 
-Freeze-dried_bacon_bars.jpg MRE_contents.jpg package]]
+package]]
 
 Camping food includes ingredients used to prepare food suitable for backcountry camping and backpacking. The foods differ substantially from the ingredients found in a typical home kitchen. The primary differences relate to campers' and backpackers' special needs for foods that have appropriate cooking time, perishability, weight, and nutritional content.
 
@@ -58,7 +58,7 @@ Surplus precooked military Meals, Meals, Ready-to-Eat (MREs) are sometimes used 
 
 Diet food
 
-New_KM.jpg, with "apple fries" replacing fried potato chips, and a serving of macaroni and cheese as its main dish]]
+, with "apple fries" replacing fried potato chips, and a serving of macaroni and cheese as its main dish]]
 
 Diet food (or "dietetic food") refers to any food or beverage whose recipe is altered to reduce fat, carbohydrates, abhor/adhore sugar in order to make it part of a weight loss program or diet. Such foods are usually intended to assist in weight loss or a change in body type, although bodybuilding supplements are designed to aid in gaining weight or muscle.
 
@@ -68,7 +68,7 @@ In whole grain foods, the higher fiber content effectively displaces some of the
 
 Finger food
 
-AfternoonTea.JPG finger foods]]
+finger foods]]
 
 Finger food is food meant to be eaten directly using the hands, in contrast to food eaten with a knife and fork, spoon, chopsticks, or other utensils.[17] In some cultures, food is almost always eaten with the hands; for example, Ethiopian cuisine is eaten by rolling various dishes up in _injera_ bread.[18] Foods considered street foods are frequently, though not exclusively, finger foods.
 
@@ -78,8 +78,6 @@ In East Asia, foods like pancakes or flatbreads (_bing_ 饼) and street foods su
 
 Fresh food
 
-Culinary_fruits_front_view.jpg
-
 Fresh food is food which has not been preserved and has not spoiled yet. For vegetables and fruits, this means that they have been recently harvested and treated properly postharvest; for meat, it has recently been slaughtered and butchered; for fish, it has been recently caught or harvested and kept cold.
 
 Dairy products are fresh and will spoil quickly. Thus, fresh cheese is cheese which has not been dried or salted for aging. Soured cream may be considered "fresh" (crème fraîche).
@@ -88,7 +86,7 @@ Fresh food has not been dried, smoked, salted, frozen, canned, pickled, or other
 
 Frozen food
 
-Tsukiji.CuttingFrozenTuna.jpg using a bandsaw in the Tsukiji fish market in Tokyo, Japan (2002)]]
+using a bandsaw in the Tsukiji fish market in Tokyo, Japan (2002)]]
 
 Freezing food preserves it from the time it is prepared to the time it is eaten. Since early times, farmers, fishermen, and trappers have preserved grains and produce in unheated buildings during the winter season.[20] Freezing food slows down decomposition by turning residual moisture into ice, inhibiting the growth of most bacterial species. In the food commodity industry, there are two processes: mechanical and cryogenic (or flash freezing). The freezing kinetics is important to preserve the food quality and texture. Quicker freezing generates smaller ice crystals and maintains cellular structure. Cryogenic freezing is the quickest freezing technology available due to the ultra low liquid nitrogen temperature .[21]
 
@@ -106,7 +104,7 @@ Health food is food marketed to provide human health effects beyond a normal hea
 
 Healthy food
 
-Marketvegetables.jpg, and cruciferous vegetables are key components of a healthy diet]]
+, and cruciferous vegetables are key components of a healthy diet]]
 
 A healthy diet is a diet that helps to maintain or improve overall health. A healthy diet provides the body with essential nutrition: fluid, macronutrients, micronutrients, and adequate calories.[27][28]
 
@@ -126,13 +124,13 @@ The World Health Organization (WHO) makes the following 5 recommendations with r
 
 Kosher foods
 
-Kosher_BethDin.jpg of Johannesburg]]
+of Johannesburg]]
 
 Kosher foods are those that conform to the Jewish dietary regulations of _kashrut_ (dietary law), primarily derived from Leviticus and Deuteronomy. Food that may be consumed according to _halakha_ (law) is termed _kosher_ () in English, from the Ashkenazi pronunciation of the Hebrew term _kashér_ (), meaning "fit" (in this context, fit for consumption). Food that is not in accordance with law is called _treif_ (; , derived from _trāfáh_) meaning "torn."
 
 Live food
 
-Feeder_mice.jpg for sale as live food for reptiles]]
+for sale as live food for reptiles]]
 
 Live food is living food for carnivorous or omnivorous animals kept in captivity; in other words, small animals such as insects or mice fed to larger carnivorous or omnivorous species kept in either in a zoo or as pet.
 
@@ -140,7 +138,7 @@ Live food is commonly used as feed for a variety of species of exotic pets and z
 
 Medical food
 
-Novartis_Fibersource_HN_medical_food_on_IV_pole.JPG Fibersource HN medical food deployed on an IV pole]]
+Fibersource HN medical food deployed on an IV pole]]
 
 Medical foods are foods that are specially formulated and intended for the dietary management of a disease that has distinctive nutritional needs that cannot be met by normal diet alone. In the United States they were defined in the Food and Drug Administration's 1988 Orphan Drug Act Amendments[36] and are subject to the general food and safety labeling requirements of the Federal Food, Drug, and Cosmetic Act. In Europe the European Food Safety Authority established definitions for "foods for special medical purposes" (FSMPs) in 2015.[37]
 
@@ -159,8 +157,6 @@ Medical foods can be classified into the following categories:
 
 Natural foods
 
-Foods.jpg
-
 Natural foods and "all natural foods" are widely used terms in food labeling and marketing with a variety of definitions, most of which are vague. The term is often assumed to imply foods that are not processed and whose ingredients are all natural products (in the chemist's sense of that term), thus conveying an appeal to nature. But the lack of standards in most jurisdictions means that the term assures nothing. In some countries, the term "natural" is defined and enforced. In others, such as the United States, it is not enforced.
 
 “Natural foods” are often assumed to be foods that are not processed, or do not contain any food additives, or do not contain particular additives such as hormones, antibiotics, sweeteners, food colors, or flavorings that were not originally in the food.[41] In fact, many people (63%) when surveyed showed a preference for products labeled "natural" compared to the unmarked counterparts, based on the common belief (86% of polled consumers) that the term "natural" indicated that the food does not contain any artificial ingredients.[42] The terms are variously used and misused on labels and in advertisements.[43]
@@ -173,7 +169,7 @@ A negative-calorie food is food that supposedly requires more food energy to be 
 
 Organic food
 
-pepperseggplants.jpg in Argentina]]
+in Argentina]]
 
 Organic food is food produced by methods that comply with the standards of organic farming. Standards vary worldwide, but organic farming in general features practices that strive to cycle resources, promote ecological balance, and conserve biodiversity. Organizations regulating organic products may restrict the use of certain pesticides and fertilizers in farming. In general, organic foods are also usually not processed using irradiation, industrial solvents or synthetic food additives.[46]
 
@@ -183,7 +179,7 @@ Fertilizing and the use of pesticides in conventional farming has caused, and is
 
 Peasant foods
 
-Acquacotta_soup.jpg soup]]
+soup]]
 
 Peasant foods are dishes specific to a particular culture, made from accessible and inexpensive ingredients, and usually prepared and seasoned to make them more palatable. They often form a significant part of the diets of people who live in poverty, or have a lower income compared to the average for their society or country.
 
@@ -193,7 +189,7 @@ Peasant foods often involve skilled preparation by knowledgeable cooks using inv
 
 Prison food
 
-COLLECTIE_TROPENMUSEUM_Etenstijd_in_de_gevangenis_van_Malang_Java_TMnr_10001527.jpg, Java, some time between 1921 and 1932]]
+, Java, some time between 1921 and 1932]]
 
 Prison food is the term for meals served to prisoners while incarcerated in correctional institutions. While some prisons prepare their own food, many use staff from on-site catering companies. Many prisons today support the requirements of specific religions, as well as vegetarianism.[56] It is said that prison food of many developed countries is adequate to maintain health and dieting.[57]
 
@@ -203,7 +199,7 @@ Seasonal food
 
 Shelf-stable food
 
-Mountain_house_egg.jpg eggs can be shelf-stable]]
+eggs can be shelf-stable]]
 
 Shelf-stable food (sometimes ambient food) is food of a type that can be safely stored at room temperature in a sealed container. This includes foods that would normally be stored refrigerated but which have been processed so that they can be safely stored at room or ambient temperature for a usefully long shelf life.
 
@@ -213,7 +209,7 @@ For some foods alternative ingredients can be used. Common oils and fats become 
 
 Space food
 
-ISSSpaceFoodOnATray.jpg to hold the cutlery and food packets to the tray]]
+to hold the cutlery and food packets to the tray]]
 
 Space food is a type of food product created and processed for consumption by astronauts in outer space. The food has specific requirements of providing balanced nutrition for individuals working in space, while being easy and safe to store, prepare and consume in the machinery-filled weightless environments of manned spacecraft.
 
@@ -221,7 +217,7 @@ In recent years, space food has been used by various nations engaging on space p
 
 Traditional food
 
-HaluskyzoZiaru.JPG (potato dumplings with sheep's-milk cheese) is a traditional food of shepherds in Slovakia.]]
+(potato dumplings with sheep's-milk cheese) is a traditional food of shepherds in Slovakia.]]
 
 Traditional foods are foods and dishes that are passed through generations[61] or which have been consumed many generations.[62] Traditional foods and dishes are traditional in nature, and may have a historic precedent in a national dish, regional cuisine[63] or local cuisine. Traditional foods and beverages may be produced as homemade, by restaurants and small manufacturers, and by large food processing plant facilities.[64]
 
@@ -231,7 +227,7 @@ This article also includes information about traditional beverages.
 
 Whole food
 
-Foods.jpg, whole foods]]
+, whole foods]]
 
 Whole foods are plant foods that are unprocessed and unrefined, or processed and refined as little as possible, before being consumed.[66] Examples of whole foods include whole grains, tubers, legumes, fruits, vegetables.[67]
 
@@ -242,7 +238,7 @@ The earliest use of the term in the post-industrial age appears to be in 1946 in
 
 Production
 
-Ueberladewagen_(jha).jpg pulling a chaser bin]] Most food has always been obtained through agriculture. With increasing concern over both the methods and products of modern industrial agriculture, there has been a growing trend toward sustainable agricultural practices. This approach, partly fueled by consumer demand, encourages biodiversity, local self-reliance and organic farming methods.[72] Major influences on food production include international organizations (e.g. the World Trade Organization and Common Agricultural Policy), national government policy (or law), and war.[73]
+pulling a chaser bin]] Most food has always been obtained through agriculture. With increasing concern over both the methods and products of modern industrial agriculture, there has been a growing trend toward sustainable agricultural practices. This approach, partly fueled by consumer demand, encourages biodiversity, local self-reliance and organic farming methods.[72] Major influences on food production include international organizations (e.g. the World Trade Organization and Common Agricultural Policy), national government policy (or law), and war.[73]
 
 Several organisations have begun calling for a new kind of agriculture in which agroecosystems provide food but also support vital ecosystem services so that soil fertility and biodiversity are maintained rather than compromised. According to the International Water Management Institute and UNEP, well-managed agroecosystems not only provide food, fiber and animal products, they also provide services such as flood mitigation, groundwater recharge, erosion control and habitats for plants, birds, fish and other animals.[74]
 
@@ -253,7 +249,7 @@ Animals, specifically humans, have five different types of tastes: sweet, sour, 
 
 Sweet
 
-Saccharose2.svg Generally regarded as the most pleasant taste, sweetness is almost always caused by a type of simple sugar such as glucose or fructose, or disaccharides such as sucrose, a molecule combining glucose and fructose.[77] Complex carbohydrates are long chains and thus do not have the sweet taste. Artificial sweeteners such as sucralose are used to mimic the sugar molecule, creating the sensation of sweet, without the calories. Other types of sugar include raw sugar, which is known for its amber color, as it is unprocessed. As sugar is vital for energy and survival, the taste of sugar is pleasant.
+Generally regarded as the most pleasant taste, sweetness is almost always caused by a type of simple sugar such as glucose or fructose, or disaccharides such as sucrose, a molecule combining glucose and fructose.[77] Complex carbohydrates are long chains and thus do not have the sweet taste. Artificial sweeteners such as sucralose are used to mimic the sugar molecule, creating the sensation of sweet, without the calories. Other types of sugar include raw sugar, which is known for its amber color, as it is unprocessed. As sugar is vital for energy and survival, the taste of sugar is pleasant.
 
 The stevia plant contains a compound known as steviol which, when extracted, has 300 times the sweetness of sugar while having minimal impact on blood sugar.[78]
 
@@ -263,7 +259,7 @@ Sourness is caused by the taste of acids, such as vinegar in alcoholic beverages
 
 Salty
 
-Piles_of_Salt_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006_a.jpg]]
+]]
 
 Saltiness is the taste of alkali metal ions such as sodium and potassium. It is found in almost every food in low to moderate proportions to enhance flavor, although to eat pure salt is regarded as highly unpleasant. There are many different types of salt, with each having a different degree of saltiness, including sea salt, fleur de sel, kosher salt, mined salt, and grey salt. Other than enhancing flavor, its significance is that the body needs and maintains a delicate electrolyte balance, which is the kidney's function. Salt may be iodized, meaning iodine has been added to it, a necessary nutrient that promotes thyroid function. Some canned foods, notably soups or packaged broths, tend to be high in salt as a means of preserving the food longer. Historically salt has long been used as a meat preservative as salt promotes water excretion. Similarly, dried foods also promote food safety.[80]
 
@@ -278,7 +274,7 @@ Umami, the Japanese word for delicious, is the least known in Western popular cu
 
 Cuisine
 
-Bali_cuisine.jpg in Indonesia]] Many scholars claim that the rhetorical function of food is to represent the culture of a country, and that it can be used as a form of communication. According to Goode, Curtis and Theophano, food "is the last aspect of an ethnic culture to be lost".[84]
+in Indonesia]] Many scholars claim that the rhetorical function of food is to represent the culture of a country, and that it can be used as a form of communication. According to Goode, Curtis and Theophano, food "is the last aspect of an ethnic culture to be lost".[84]
 
 Many cultures have a recognizable cuisine, a specific set of cooking traditions using various spices or a combination of flavors unique to that culture, which evolves over time. Other differences include preferences (hot or cold, spicy, etc.) and practices, the study of which is known as gastronomy. Many cultures have diversified their foods by means of preparation, cooking methods, and manufacturing. This also includes a complex food trade which helps the cultures to economically survive by way of food, not just by consumption.
 
@@ -286,7 +282,7 @@ Some popular types of ethnic foods include Italian, French, Japanese, Chinese, A
 
 Presentation
 
-Terrine_de_saumon_au_basilic.JPG, with eye-appealing garnishes]] Aesthetically pleasing and eye-appealing food presentations can encourage people to consume foods. A common saying is that people "eat with their eyes". Food presented in a clean and appetizing way will encourage a good flavor, even if unsatisfactory.[85][86]
+, with eye-appealing garnishes]] Aesthetically pleasing and eye-appealing food presentations can encourage people to consume foods. A common saying is that people "eat with their eyes". Food presented in a clean and appetizing way will encourage a good flavor, even if unsatisfactory.[85][86]
 
 Contrast in texture
 
@@ -298,7 +294,7 @@ Another universal phenomenon regarding food is the appeal of contrast in taste a
 
 Food preparation
 
-While many foods can be eaten raw, many also undergo some form of preparation for reasons of safety, palatability, texture, or flavor. At the simplest level this may involve washing, cutting, trimming, or adding other foods or ingredients, such as spices. It may also involve mixing, heating or cooling, pressure cooking, fermentation, or combination with other food. In a home, most food preparation takes place in a kitchen. Some preparation is done to enhance the taste or aesthetic appeal; other preparation may help to preserve the food; others may be involved in cultural identity. A meal is made up of food which is prepared to be eaten at a specific time and place.[88] LG_refrigerator_interior.jpg
+While many foods can be eaten raw, many also undergo some form of preparation for reasons of safety, palatability, texture, or flavor. At the simplest level this may involve washing, cutting, trimming, or adding other foods or ingredients, such as spices. It may also involve mixing, heating or cooling, pressure cooking, fermentation, or combination with other food. In a home, most food preparation takes place in a kitchen. Some preparation is done to enhance the taste or aesthetic appeal; other preparation may help to preserve the food; others may be involved in cultural identity. A meal is made up of food which is prepared to be eaten at a specific time and place.[88]
 
 Animal preparation
 
@@ -308,7 +304,7 @@ On the local level, a butcher may commonly break down larger animal meat into sm
 
 Cooking
 
-Wok_cooking_and_the_heat_source_by_The_Pocket_in_Nanjing.jpg in China]]
+in China]]
 
 The term "cooking" encompasses a vast range of methods, tools, and combinations of ingredients to improve the flavor or digestibility of food. Cooking technique, known as culinary art, generally requires the selection, measurement, and combining of ingredients in an ordered procedure in an effort to achieve the desired result. Constraints on success include the variability of ingredients, ambient conditions, tools, and the skill of the individual cook.[91] The diversity of cooking worldwide is a reflection of the myriad nutritional, aesthetic, agricultural, economic, cultural, and religious considerations that affect it.[92]
 
@@ -316,7 +312,7 @@ Cooking requires applying heat to a food which usually, though not always, chemi
 
 Cooking equipment
 
-Pfanne_(Edelstahl).jpg frying pan]] TraditionalAsado.jpg (barbecue)]]
+frying pan]] (barbecue)]]
 
 There are many different types of equipment used for cooking.
 
@@ -328,13 +324,13 @@ In addition, many cultures use grills for cooking. A grill operates with a radia
 
 Raw food preparation
 
-2007feb-sushi-odaiba-manytypes.jpg ready to be eaten, including salmon and tuna]]
+ready to be eaten, including salmon and tuna]]
 
 Certain cultures highlight animal and vegetable foods in a raw state. Salads consisting of raw vegetables or fruits are common in many cuisines. Sashimi in Japanese cuisine consists of raw sliced fish or other meat, and sushi often incorporates raw fish or seafood. Steak tartare and salmon tartare are dishes made from diced or ground raw beef or salmon, mixed with various ingredients and served with baguettes, brioche, or frites.[101] In Italy, carpaccio is a dish of very thinly sliced raw beef, drizzled with a vinaigrette made with olive oil.[102] The health food movement known as raw foodism promotes a mostly vegan diet of raw fruits, vegetables, and grains prepared in various ways, including juicing, food dehydration, sprouting, and other methods of preparation that do not heat the food above .[103] An example of a raw meat dish is ceviche, a Latin American dish made with raw meat that is "cooked" from the highly acidic citric juice from lemons and limes along with other aromatics such as garlic.
 
 Restaurants
 
-Inside_Le_Procope.jpg in Paris was founded in 1686]] Allyn_House_restaurant_menu_(March_5,_1859).jpg
+in Paris was founded in 1686]]
 
 Restaurants employ chefs to prepare the food, and waiters to serve customers at the table.[104] The term restaurant comes from an old term for a restorative meat broth; this broth (or bouillon) was served in elegant outlets in Paris from the mid 18th century.[105][106] These refined "restaurants" were a marked change from the usual basic eateries such as inns and taverns,[107] and some had developed from early Parisian cafés, such as Café Procope, by first serving bouillon, then adding other cooked food to their menus.[108]
 
@@ -344,14 +340,14 @@ In 2005, the population of the United States spent $496 billion on out-of-home d
 
 Food manufacturing
 
-Food_packages_(1).jpg Packaged foods are manufactured outside the home for purchase. This can be as simple as a butcher preparing meat, or as complex as a modern international food industry. Early food processing techniques were limited by available food preservation, packaging, and transportation. This mainly involved salting, curing, curdling, drying, pickling, fermenting, and smoking.[112] Food manufacturing arose during the industrial revolution in the 19th century.[113] This development took advantage of new mass markets and emerging technology, such as milling, preservation, packaging and labeling, and transportation. It brought the advantages of pre-prepared time-saving food to the bulk of ordinary people who did not employ domestic servants.[114]
+Packaged foods are manufactured outside the home for purchase. This can be as simple as a butcher preparing meat, or as complex as a modern international food industry. Early food processing techniques were limited by available food preservation, packaging, and transportation. This mainly involved salting, curing, curdling, drying, pickling, fermenting, and smoking.[112] Food manufacturing arose during the industrial revolution in the 19th century.[113] This development took advantage of new mass markets and emerging technology, such as milling, preservation, packaging and labeling, and transportation. It brought the advantages of pre-prepared time-saving food to the bulk of ordinary people who did not employ domestic servants.[114]
 
 At the start of the 21st century, a two-tier structure has arisen, with a few international food processing giants controlling a wide range of well-known food brands. There also exists a wide array of small local or national food processing companies.[115] Advanced technologies have also come to change food manufacture. Computer-based control systems, sophisticated processing and packaging methods, and logistics and distribution advances can enhance product quality, improve food safety, and reduce costs.[116]
 
 
 Commercial trade
 
-Seawifs_global_biosphere_2002.png image for the global biosphere]] Food_consumption.gif consumption in 1995]] 2005food_import.png Population_density_countries_2017_world_map,_people_per_sq_km.svg by country]]
+image for the global biosphere]] consumption in 1995]] by country]]
 
 International food imports and exports
 
@@ -363,7 +359,7 @@ In 1994, over 100 countries became signatories to the Uruguay Round of the Gener
 
 Marketing and retailing
 
-Fredmeyer_edit_1.jpg, United States of America]] Food marketing brings together the producer and the consumer. The marketing of even a single food product can be a complicated process involving many producers and companies. For example, fifty-six companies are involved in making one can of chicken noodle soup. These businesses include not only chicken and vegetable processors but also the companies that transport the ingredients and those who print labels and manufacture cans.[122] The food marketing system is the largest direct and indirect non-government employer in the United States.
+, United States of America]] Food marketing brings together the producer and the consumer. The marketing of even a single food product can be a complicated process involving many producers and companies. For example, fifty-six companies are involved in making one can of chicken noodle soup. These businesses include not only chicken and vegetable processors but also the companies that transport the ingredients and those who print labels and manufacture cans.[122] The food marketing system is the largest direct and indirect non-government employer in the United States.
 
 In the pre-modern era, the sale of surplus food took place once a week when farmers took their wares on market day into the local village marketplace. Here food was sold to grocers for sale in their local shops for purchase by local consumers.[123][124] With the onset of industrialization and the development of the food processing industry, a wider range of food could be sold and distributed in distant locations. Typically early grocery shops would be counter-based shops, in which purchasers told the shop-keeper what they wanted, so that the shop-keeper could get it for them.[125][126]
 
@@ -373,9 +369,9 @@ Unlike food processors, food retailing is a two-tier market in which a small num
 
 Prices
 
-GrainProducts.jpg, rice and pasta]]
+, rice and pasta]]
 
-Annual_real_food_price_indices.svg It is rare for price spikes to hit all major foods in most countries at once, but food prices suffered all-time peaks in 2008 and 2011, posting a 15% and 12% deflated increase year-over-year, representing prices higher than any data collected.[129]
+It is rare for price spikes to hit all major foods in most countries at once, but food prices suffered all-time peaks in 2008 and 2011, posting a 15% and 12% deflated increase year-over-year, representing prices higher than any data collected.[129]
 
 In December 2007, 37 countries faced food crises, and 20 had imposed some sort of food-price controls. In China, the price of pork jumped 58% in 2007. In the 1980s and 1990s, farm subsidies and support programs allowed major grain exporting countries to hold large surpluses, which could be tapped during food shortages to keep prices down. However, new trade policies had made agricultural production much more responsive to market demands, putting global food reserves at their lowest since 1983.[130]
 
@@ -405,7 +401,7 @@ Food aid can benefit people suffering from a shortage of food. It can be used to
 
 Safety
 
-SalmonellaNIAID.jpg bacteria is a common cause of foodborne illness, particularly in undercooked chicken and chicken eggs.]]
+bacteria is a common cause of foodborne illness, particularly in undercooked chicken and chicken eggs.]]
 
 Foodborne illness, commonly called "food poisoning", is caused by bacteria, toxins, viruses, parasites, and prions. Roughly 7 million people die of food poisoning each year, with about 10 times as many suffering from a non-fatal version.[151] The two most common factors leading to cases of bacterial foodborne illness are cross-contamination of ready-to-eat food from other uncooked foods and improper temperature control. Less commonly, acute adverse reactions can also occur if chemical contamination of food occurs, for example from improper storage, or use of non-food grade soaps and disinfectants. Food can also be adulterated by a very wide range of articles (known as "foreign bodies") during farming, manufacture, cooking, packaging, distribution, or sale. These foreign bodies can include pests or their droppings, hairs, cigarette butts, wood chips, and all manner of other contaminants. It is possible for certain types of food to become contaminated if stored or presented in an unsafe container, such as a ceramic pot with lead-based glaze.[152]
 
@@ -455,7 +451,7 @@ Many individuals limit what foods they eat for reasons of morality, or other hab
 
 Nutrition and dietary problems
 
-USDA_MyPlate_green.svg replaced MyPyramid as the USDA nutrition guide.]] Between the extremes of optimal health and death from starvation or malnutrition, there is an array of disease states that can be caused or alleviated by changes in diet. Deficiencies, excesses, and imbalances in diet can produce negative impacts on health, which may lead to various health problems such as scurvy, obesity, or osteoporosis, diabetes, cardiovascular diseases as well as psychological and behavioral problems. The science of nutrition attempts to understand how and why specific dietary aspects influence health.
+replaced MyPyramid as the USDA nutrition guide.]] Between the extremes of optimal health and death from starvation or malnutrition, there is an array of disease states that can be caused or alleviated by changes in diet. Deficiencies, excesses, and imbalances in diet can produce negative impacts on health, which may lead to various health problems such as scurvy, obesity, or osteoporosis, diabetes, cardiovascular diseases as well as psychological and behavioral problems. The science of nutrition attempts to understand how and why specific dietary aspects influence health.
 
 Nutrients in food are grouped into several categories. Macronutrients are fat, protein, and carbohydrates. Micronutrients are the minerals and vitamins. Additionally, food contains water and dietary fiber.
 

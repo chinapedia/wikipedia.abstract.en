@@ -1,4 +1,4 @@
-Ice_Climbing.jpg ice climber on a steep ice slope, with personal safety gear (such as a helmet) but completely without a rope or any form of protection from fall]]
+ice climber on a steep ice slope, with personal safety gear (such as a helmet) but completely without a rope or any form of protection from fall]]
 
 ACTION SPORTS, ADVENTURE SPORTS or EXTREME SPORTS are activities perceived as involving a high degree of risk.[1][2][3] These activities often involve speed, height, a high level of physical exertion and highly specialized gear.[4]
 
@@ -48,8 +48,6 @@ No vehicle is required (rock climbing, canyoning, ice climbing, parkour, deep-wa
 
 History
 
-ExtremeSports3.png
-
 The origin of the divergence of the term "extreme sports" from "sports" may date to the 1950s in the appearance of a phrase usually, but wrongly, attributed to Ernest Hemingway.[13] The phrase is;
 
   There are only three sports: bullfighting, motor racing, and mountaineering; all the rest are merely games.
@@ -67,12 +65,12 @@ Certain extreme sports clearly trace back to other extreme sports, or combinatio
 
 Marketing
 
-Hanggliding03042006.JPG launching from Mount Tamalpais]] Some contend[19] that the distinction between an extreme sport and a conventional one has as much to do with marketing as with the level of danger involved or the adrenaline generated. For example, rugby union is both dangerous and adrenaline-inducing but is not considered an extreme sport due to its traditional image, and because it does not involve high speed or an intention to perform stunts (the aesthetic criteria mentioned above) and also it does not have changing environmental variables for the athletes.
+launching from Mount Tamalpais]] Some contend[19] that the distinction between an extreme sport and a conventional one has as much to do with marketing as with the level of danger involved or the adrenaline generated. For example, rugby union is both dangerous and adrenaline-inducing but is not considered an extreme sport due to its traditional image, and because it does not involve high speed or an intention to perform stunts (the aesthetic criteria mentioned above) and also it does not have changing environmental variables for the athletes.
 
 
 Motivation
 
-Snowboarder_cornice_at_sugarbowl.jpg A feature of such activities in the view of some is their alleged capacity to induce an adrenaline rush in participants.[20] However, the medical view is that the rush or high associated with the activity is not due to adrenaline being released as a response to fear, but due to increased levels of dopamine, endorphins and serotonin because of the high level of physical exertion.[21] Furthermore, recent studies suggest that the link to adrenaline and 'true' extreme sports is tentative.[22] [23] Brymer and Gray's study defined 'true' extreme sports as a leisure or recreation activity where the most likely outcome of a mismanaged accident or mistake was death. This definition was designed to separate the marketing hype from the activity.
+A feature of such activities in the view of some is their alleged capacity to induce an adrenaline rush in participants.[20] However, the medical view is that the rush or high associated with the activity is not due to adrenaline being released as a response to fear, but due to increased levels of dopamine, endorphins and serotonin because of the high level of physical exertion.[21] Furthermore, recent studies suggest that the link to adrenaline and 'true' extreme sports is tentative.[22] [23] Brymer and Gray's study defined 'true' extreme sports as a leisure or recreation activity where the most likely outcome of a mismanaged accident or mistake was death. This definition was designed to separate the marketing hype from the activity.
 
 Eric Brymer[24] also found that the potential of various extraordinary human experiences, many of which parallel those found in activities such as meditation, was an important part of the extreme sport experience. Those experiences put the participants outside their comfort zone and are often done in conjunction with adventure travel.
 
@@ -83,7 +81,7 @@ Disabled people participate in extreme sports. Nonprofit organizations such as A
 
 Mortality
 
-Wingsuit-01.jpg is a recent activity.]] Extreme sports by their nature can be extremely dangerous, conducive to fatalities, near-fatalities and other serious injuries, and sometimes consist in treading along the brink of death. This imminent and inherent danger in an extreme sport has been considered a somewhat necessary part of its appeal,[28] which is partially a result of pressure for athletes to make more money and provide maximum entertainment.[29]
+is a recent activity.]] Extreme sports by their nature can be extremely dangerous, conducive to fatalities, near-fatalities and other serious injuries, and sometimes consist in treading along the brink of death. This imminent and inherent danger in an extreme sport has been considered a somewhat necessary part of its appeal,[28] which is partially a result of pressure for athletes to make more money and provide maximum entertainment.[29]
 
 
 Health
@@ -101,7 +99,7 @@ Extreme sports trigger the release of the hormone adrenaline.[35] This is a very
 
 Thrill
 
-windsurf-wipeout.jpg, Spain, a windsurfer jumping waves gets catapulted into a high double flip]] In outdoor adventure sports, participants get to experience the emotion of intense thrill, usually associated with the extreme sports. [37] Even though some extreme sports present a higher level of risk, people still choose to embark in the experience of extreme sports for the sake of the adrenaline. According to Sigmund Freud, we have an instinctual 'death wish', which is a subconscious inbuilt desire to destroy ourselves, proving that in the seek for the thrill, danger is considered pleasurable.[38]
+, Spain, a windsurfer jumping waves gets catapulted into a high double flip]] In outdoor adventure sports, participants get to experience the emotion of intense thrill, usually associated with the extreme sports. [37] Even though some extreme sports present a higher level of risk, people still choose to embark in the experience of extreme sports for the sake of the adrenaline. According to Sigmund Freud, we have an instinctual 'death wish', which is a subconscious inbuilt desire to destroy ourselves, proving that in the seek for the thrill, danger is considered pleasurable.[38]
 
 
 List of extreme sports

@@ -3,7 +3,7 @@ The HOHENSTAUFEN (, also ,[1][2][3][4] ), also known as STAUFER, were a dynasty 
 
 Name
 
-Hohenstaufen_Castle_Ruins.jpg]] The dynasty is named after a castle, which in turn is named after a mountain. The names used by scholars today, however, are conventional and somewhat anachronistic.
+]] The dynasty is named after a castle, which in turn is named after a mountain. The names used by scholars today, however, are conventional and somewhat anachronistic.
 
 The name Hohenstaufen was first used in the 14th century to distinguish the "high" (_hohen_) conical hill named Staufen in the Swabian Jura, in the district of Göppingen, from the village of the same name in the valley below. The new name was only applied to the hill castle of Staufen by historians in the 19th century, to distinguish it from other castles of the same name. The name of the dynasty followed, but in recent decades the trend in German historiography has been to prefer the name Staufer, which is closer to contemporary usage.[5]
 
@@ -25,7 +25,7 @@ Upon Frederick's death, he was succeeded by his son, Duke Frederick II, in 1105.
 
 Ruling in Germany
 
-Mitteleuropa_zur_Zeit_der_Staufer.svg at its greatest extent in the early to middle 13th century under the Hohenstaufen dynasty (1155–1268).]]
+at its greatest extent in the early to middle 13th century under the Hohenstaufen dynasty (1155–1268).]]
 
 When the last male member of the Salian dynasty, Emperor Henry V, died without heirs in 1125, a controversy arose about the succession. Duke Frederick II and Conrad, the two current male Staufers, by their mother Agnes, were grandsons of late Emperor Henry IV and nephews of Henry V. Frederick attempted to succeed to the throne of the Holy Roman Emperor (formally known as the King of the Romans) through a customary election, but lost to the Saxon duke Lothair of Supplinburg. A civil war between Frederick's dynasty and Lothair's ended with Frederick's submission in 1134. After Lothair's death in 1137, Frederick's brother Conrad was elected King as Conrad III.
 
@@ -41,7 +41,7 @@ During Frederick's long stays in Italy, the German princes became stronger and b
 
 Henry VI
 
-Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg, _Welfenchronik_, 1167/79, Weingarten Abbey]]
+, _Welfenchronik_, 1167/79, Weingarten Abbey]]
 
 Frederick died in 1190 while on the Third Crusade and was succeeded by his son, Henry VI. Elected king even before his father's death, Henry went to Rome to be crowned emperor. He married Princess Constance of Sicily, and deaths in his wife's family gave him claim of succession and possession of the Kingdom of Sicily in 1189 and 1194 respectively, a source of vast wealth. Henry failed to make royal and Imperial succession hereditary, but in 1196 he succeeded in gaining a pledge that his infant son Frederick would receive the German crown. Faced with difficulties in Italy and confident that he would realize his wishes in Germany at a later date, Henry returned to the south, where it appeared he might unify the peninsula under the Hohenstaufen name. After a series of military victories, however, he fell ill and died of natural causes in Sicily in 1197. His underage son Frederick could only succeed him in Sicily and Malta, while in the Empire the struggle between the House of Staufen and the House of Welf erupted once again.
 
@@ -60,11 +60,11 @@ Frederick II
 
 Emperor Frederick II spent little time in Germany as his main concerns lay in Southern Italy. He founded the University of Naples in 1224 to train future state officials and reigned over Germany primarily through the allocation of royal prerogatives, leaving the sovereign authority and imperial estates to the ecclesiastical and secular princes. He made significant concessions to the German nobles, such as those put forth in an imperial statute of 1232, which made princes virtually independent rulers within their territories. These measures favoured the further fragmentation of the Empire.
 
-Castel_del_Monte_BW_2016-10-14_12-26-11_r.jpg, in Andria, Apulia, Italy.]]
+, in Andria, Apulia, Italy.]]
 
 By the 1226 Golden Bull of Rimini, Frederick had assigned the military order of the Teutonic Knights to complete the conquest and conversion of the Prussian lands. A reconciliation with the Welfs took place in 1235, whereby Otto the Child, grandson of the late Saxon duke Henry the Lion, was named Duke of Brunswick and Lüneburg. The power struggle with the popes continued and resulted in Fredrick's excommunication in 1227. In 1239, Pope Gregory IX excommunicated Fredrick again, and in 1245 he was condemned as a heretic by a church council. Although Frederick was one of the most energetic, imaginative, and capable rulers of the time, he was not concerned with drawing the disparate forces in Germany together. His legacy was thus that local rulers had more authority after his reign than before it. The clergy also had become more powerful.
 
-Frederick_II_and_eagle.jpg'', c. 1240, Vatican Library]]
+'', c. 1240, Vatican Library]]
 
 By the time of Frederick's death in 1250, little centralized power remained in Germany. The Great Interregnum, a period in which there were several elected rival kings, none of whom was able to achieve any position of authority, followed the death of Frederick's son King Conrad IV of Germany in 1254. The German princes vied for individual advantage and managed to strip many powers away from the diminished monarchy. Rather than establish sovereign states however, many nobles tended to look after their families. Their many male heirs created more and smaller estates, and from a largely free class of officials previously formed, many of these assumed or acquired hereditary rights to administrative and legal offices. These trends compounded political fragmentation within Germany. The period was ended in 1273 with the election of Rudolph of Habsburg, a godson of Frederick.
 
@@ -77,7 +77,7 @@ During the political decentralization of the late Staufer period, the population
 
 Members of the Hohenstaufen family
 
-Staufen_dynasty.JPG Henry_7_of_Germany.jpg (dated 1216) shows him as a mounted knight with a shield and banner displaying _three leopards_ (_three lions passant guardant_)as the Hohenstaufen coat of arms; the three lions (later shown just _passant_) would later become known as the Swabian coat of arms.]]
+(dated 1216) shows him as a mounted knight with a shield and banner displaying _three leopards_ (_three lions passant guardant_)as the Hohenstaufen coat of arms; the three lions (later shown just _passant_) would later become known as the Swabian coat of arms.]]
 
 Holy Roman Emperors and Kings of the Romans
 
@@ -101,7 +101,7 @@ _Note: The following kings are already listed above as German Kings_
 
 Kings of Sicily
 
-King_Manfred_of_Sicily_Arms.svg _Note: Some of the following kings are already listed above as German Kings_
+_Note: Some of the following kings are already listed above as German Kings_
 
 -   Henry VI 1194–1197
 -   Frederick 1198–1250

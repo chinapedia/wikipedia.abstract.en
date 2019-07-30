@@ -7,7 +7,7 @@ Examples
 
 Coin toss
 
-Lawoflargenumbersanimation2.gif). But the difference between red and blue does not systematically decrease to zero.]] The gambler's fallacy can be illustrated by considering the repeated toss of a fair coin. The outcomes in different tosses are statistically independent and the probability of getting heads on a single toss is (one in two). The probability of getting two heads in two tosses is (one in four) and the probability of getting three heads in three tosses is (one in eight). In general, if _A_(i)_ is the event where toss _i_ of a fair coin comes up heads, then:
+). But the difference between red and blue does not systematically decrease to zero.]] The gambler's fallacy can be illustrated by considering the repeated toss of a fair coin. The outcomes in different tosses are statistically independent and the probability of getting heads on a single toss is (one in two). The probability of getting two heads in two tosses is (one in four) and the probability of getting three heads in three tosses is (one in eight). In general, if _A_(i)_ is the event where toss _i_ of a fair coin comes up heads, then:
 
 $$\Pr\left(\bigcap_{i=1}^n A_i\right)=\prod_{i=1}^n \Pr(A_i)={1\over2^n}$$
 .

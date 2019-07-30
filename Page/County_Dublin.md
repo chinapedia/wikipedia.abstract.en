@@ -11,8 +11,6 @@ Local authorities
 
 There are four local authorities whose remit collectively encompasses the geographic area of the county and city of Dublin. These are Dublin City Council, South Dublin County Council, Dún Laoghaire–Rathdown County Council and Fingal County Council.
 
-Map_of_the_Dublin_Region2.PNG
-
 +------+------------------------+---------------+
 | Name | Area                   | Population[5] |
 +======+========================+===============+
@@ -37,16 +35,16 @@ Despite the legal status of the Dublin Region, the term "County Dublin" is still
 
 Dublin Region
 
-Ireland_location_map_Dublin_region.svg The DUBLIN REGION is a NUTS Level III region of Ireland. The region is one of eight regions of the Republic of Ireland for the purposes of Eurostat statistics. Its NUTS code is IE061.[11] It is co-extensive with the old county. The regional capital is Dublin City which is also the national capital.[12]
+The DUBLIN REGION is a NUTS Level III region of Ireland. The region is one of eight regions of the Republic of Ireland for the purposes of Eurostat statistics. Its NUTS code is IE061.[11] It is co-extensive with the old county. The regional capital is Dublin City which is also the national capital.[12]
 
 The latest Ordnance Survey Ireland "Discovery Series" (Third Edition 2005) 1:50,000 map of the Dublin Region, Sheet 50, shows the boundaries of the city and three surrounding counties of the region. Extremities of the Dublin Region, in the north and south of the region, appear in other sheets of the series, 43 and 56 respectively.
 
-KILLINEY-147_(1424762996).jpg]]
+]]
 
 
 Media
 
-Three_Rock_Mountain_Southern_Tor.jpg Mountain, Dublin, Ireland looking towards Bray Head]] Local radio stations include 98FM, FM104, 103.2 Dublin City FM, Q102, SPIN 1038, Sunshine 106.8, TXFM, Raidió Na Life and Radio Nova.
+Mountain, Dublin, Ireland looking towards Bray Head]] Local radio stations include 98FM, FM104, 103.2 Dublin City FM, Q102, SPIN 1038, Sunshine 106.8, TXFM, Raidió Na Life and Radio Nova.
 
 Local newspapers include _The Echo_, _Northside People_, _Southside People_ and the _Liffey Champion_.
 

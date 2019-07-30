@@ -31,7 +31,7 @@ Indian police forces use "Known Dacoit" (K.D.) as a label to classify criminals.
 
 Notable Dacoits
 
-A_family_of_Indian_dacoits_(c._1900s).jpg Notable dacoits include:
+Notable dacoits include:
 
 -   Gabbar Singh Gujjar, inspired the famous 1975 film Sholay , based on his life[7]
 -   Chavviram Singh Yadav , he was became the synonym of awe.

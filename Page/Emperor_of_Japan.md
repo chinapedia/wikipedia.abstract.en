@@ -101,8 +101,6 @@ There are two Japanese words equivalent to the English word "Emperor": _tennō_ 
 
 Traditionally, the Japanese considered it disrespectful to call any person by his given name, and more so for a person of noble rank. This convention is only slightly relaxed in the modern age and it is still inadvisable among friends to use the given name, use of the family name being the common form of address. In the case of the imperial family, it is considered extremely inappropriate to use the given name. Since Emperor Meiji, it has been customary to have one era per Emperor and to rename each Emperor after his death using the name of the era over which he presided. Before Emperor Meiji, the names of the eras were changed more frequently, and the posthumous names of the Emperors were chosen differently.
 
-Emperor_of_Japan_-_Tenno_-_New_Years_2010.ogv
-
 Hirohito, as usually called in English outside Japan, was never referred to by his name in Japan. He was given posthumous name _Shōwa Tennō_ after his death, which is the only name that Japanese speakers currently use when referring to him.
 
 The current Emperor on the throne is typically referred to as _Tennō Heika_ (, "His (Imperial) Majesty the Emperor"), _Kinjō Heika_ (, "His Current Majesty") or simply _Tennō_, when speaking Japanese. Emperor Akihito received the title _Daijō Tennō_ (, Emperor Emeritus), often shortened to _Jōkō_ (), upon his abdication on 30 April 2019, and is expected to be renamed _Heisei Tennō_ () after his death and will then be referred to exclusively by that name in Japanese. In Japanese culture, it is considered a major faux pas to refer to a living Emperor by his era name, since it is only after his death when his era name becomes his posthumous name.
@@ -114,7 +112,7 @@ Originally, the ruler of Japan was known as either / (Yamato-ōkimi, Grand King 
 
 Marriage traditions
 
-Crown_Princess_Masako_of_Japan.jpg]] Throughout history, Japanese Emperors and noblemen appointed the position of chief wife, rather than just keeping a harem or an assortment of female attendants.
+]] Throughout history, Japanese Emperors and noblemen appointed the position of chief wife, rather than just keeping a harem or an assortment of female attendants.
 
 The Japanese imperial dynasty consistently practiced official polygamy, a practice that only ended in the Taishō period (1912–1926). Besides the Empress, the Emperor could take, and nearly always took, several secondary consorts ("concubines") of various hierarchical degrees. Concubines were allowed also to other dynasts (Shinnōke, Ōke). After a decree by Emperor Ichijō, some Emperors even had two empresses simultaneously (_kōgō_ and _chūgū_ are the two separate titles for that situation). With the help of all this polygamy, the imperial clan thus was capable of producing more offspring. (Sons by secondary consorts were usually recognized as imperial princes, too, and could be recognized as heir to the throne if the empress did not give birth to an heir.)
 
@@ -143,7 +141,7 @@ The law was repealed in the aftermath of World War II. The now-Emperor Emeritus 
 
 Burial traditions
 
-Musashiryo_-01.jpg in Hachiōji, Tokyo]] During the Kofun period, so-called "archaic funerals" were held for the dead Emperors, but only the funerary rites from the end of the period, which the chronicles describe in more detail, are known. They were centered around the rite of the _mogari_ (), a provisional depository between death and permanent burial.[17]
+in Hachiōji, Tokyo]] During the Kofun period, so-called "archaic funerals" were held for the dead Emperors, but only the funerary rites from the end of the period, which the chronicles describe in more detail, are known. They were centered around the rite of the _mogari_ (), a provisional depository between death and permanent burial.[17]
 
 Empress Jitō was the first Japanese imperial personage to be cremated (in 703). After that, with a few exceptions, all Emperors were cremated up to the Edo period.[18] For the next 350 years, in-ground burial became the favoured funeral custom. In 2013, the Imperial Household Agency announced that Emperor Akihito and Empress Michiko would be cremated after they die.[19]
 
@@ -152,7 +150,7 @@ Until 1912, the Emperors of Japan were usually buried in Kyoto.[20] From the Tai
 
 Succession
 
-Ceremony_of_Enthronement3.jpg with Prime Minister Toshiki Kaifu]]
+with Prime Minister Toshiki Kaifu]]
 
 The origins of the Japanese imperial dynasty are obscure, and it bases its position on the claim that it has "reigned since time immemorial". There are no records of any Emperor who was not said to have been a descendant of other, yet earlier Emperor ( _bansei ikkei_). There is suspicion that Emperor Keitai (c. AD 500) may have been an unrelated outsider, though the sources (Kojiki, Nihon-Shoki) state that he was a male-line descendant of Emperor Ōjin. However, his descendants, including his successors, were according to records descended from at least one and probably several imperial princesses of the older lineage. The tradition built by those legends has chosen to recognize just the putative male ancestry as valid for legitimizing his succession, not giving any weight to ties through the said princesses.
 
@@ -186,7 +184,7 @@ The panel dealing with the succession issue recommended on October 25, 2005, ame
 
 Wealth
 
-Imperial_place_Japan_1979_air.jpg]]
+]]
 
 Until World War II, the Japanese monarchy was thought to be among the wealthiest in the world.[23] Before 1911, no distinction was made between the imperial crown estates and the Emperor's personal properties, which were considerable. The Imperial Property Law, which came into effect in January 1911, established two categories of imperial properties: the hereditary or crown estates and the personal ("ordinary") properties of the imperial family. The Imperial Household Minister was given the responsibility for observing any judicial proceedings concerning imperial holdings. Under the terms of the law, imperial properties were only taxable in cases where no conflict with the Imperial House Law existed; however, crown estates could only be used for public or imperially-sanctioned undertakings. Personal properties of certain members of the imperial family, in addition to properties held for imperial family members who were minors, were exempted from taxation. Those family members included the Empress Dowager, the Empress, the Crown Prince and Crown Princess, the Imperial Grandson and the consort of the Imperial Grandson.[24] As a result of the poor economic conditions in Japan, 289,259.25 acres of crown lands (about 26% of the total landholdings) were either sold or transferred to government and private-sector interests in 1921. In 1930, the Nagoya Detached Palace (Nagoya Castle) was donated to the city of Nagoya, with six other imperial villas being either sold or donated at the same time.[25] In 1939, Nijō Castle, the former Kyoto residence of the Tokugawa shoguns and an imperial palace since the Meiji Restoration, was likewise donated to the city of Kyoto.
 

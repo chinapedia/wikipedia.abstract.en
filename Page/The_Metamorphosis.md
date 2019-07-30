@@ -58,7 +58,7 @@ Volker Drüke (2013) believes that the crucial metamorphosis in the story is tha
 
 Translation
 
-English illustrating the difference in syntax between the first sentence of Kafka's _The Metamorphosis_ in translation by Ian Johnston and in the original German]] Kafka's sentences often deliver an unexpected effect just before the period – that being the finalizing meaning and focus. This is achieved from the construction of sentences in the original German, where the verbs of subordinate clauses are put at the end. For example, in the opening sentence, it is the final word, _verwandelt_, that indicates transformation:
+illustrating the difference in syntax between the first sentence of Kafka's _The Metamorphosis_ in translation by Ian Johnston and in the original German]] Kafka's sentences often deliver an unexpected effect just before the period – that being the finalizing meaning and focus. This is achieved from the construction of sentences in the original German, where the verbs of subordinate clauses are put at the end. For example, in the opening sentence, it is the final word, _verwandelt_, that indicates transformation:
 
 These constructions are not directly translatable to English, so it is up to the translator to provide the reader with the effect of the original text.[14]
 

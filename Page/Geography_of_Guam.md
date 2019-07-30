@@ -1,4 +1,4 @@
-Pass_over_Eastern_Asia_to_Philippine_Sea_and_Guam.ogv, looking out west towards the Pacific Ocean, China, and Japan. As the video progresses, you can see major cities along the coast and the Japanese islands on the Philippine Sea. The island of Guam can be seen further down the pass into the Philippine Sea, and the pass ends just to the east of New Zealand. A lightning storm can be seen as light pulses near the end of the video.]]
+, looking out west towards the Pacific Ocean, China, and Japan. As the video progresses, you can see major cities along the coast and the Japanese islands on the Philippine Sea. The island of Guam can be seen further down the pass into the Philippine Sea, and the pass ends just to the east of New Zealand. A lightning storm can be seen as light pulses near the end of the video.]]
 
 This article describes the GEOGRAPHY OF THE UNITED STATES TERRITORY OF GUAM.
 

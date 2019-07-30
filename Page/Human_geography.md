@@ -1,4 +1,4 @@
-Snow-cholera-map-1.jpg of cholera cases in the London epidemic of 1854, which is a classical case of using human geography]]
+of cholera cases in the London epidemic of 1854, which is a classical case of using human geography]]
 
 HUMAN GEOGRAPHY or ANTHROPOGEOGRAPHY is the branch of geography that deals with the study of people and their communities, cultures, economies, and interactions with the environment by studying their relations with and across space and place.[1] Human geography attends to human patterns of social interaction, as well as spatial level interdependencies, and how they influence or affect the earth's environment.[2][3] As an intellectual discipline, geography is divided into the sub-fields of physical geography and human geography, the latter concentrating upon the study of human activities, by the application of qualitative and quantitative research methods.
 
@@ -32,7 +32,7 @@ The primary fields of study in human geography focus around the core fields of:
 
 Cultures
 
-Cultural geography is the study of cultural products and norms - their variation across spaces and places, as well as their relations. It focuses on describing and analyzing the ways language, religion, economy, government, and other cultural phenomena vary or remain constant from one place to another and on explaining how humans function spatially.[8] Agriculture_in_Asia.jpg
+Cultural geography is the study of cultural products and norms - their variation across spaces and places, as well as their relations. It focuses on describing and analyzing the ways language, religion, economy, government, and other cultural phenomena vary or remain constant from one place to another and on explaining how humans function spatially.[8]
 
 -   Subfields include: Social geography, Animal geographies, Language geography, Sexuality and space, Children's geographies, and Religion and geography.
 
@@ -42,7 +42,7 @@ Development geography is the study of the Earth's geography with reference to th
 
 Economies
 
-Shan_Street_Bazaar.JPG Economic geography examines relationships between human economic systems, states, and other factors, and the biophysical environment.
+Economic geography examines relationships between human economic systems, states, and other factors, and the biophysical environment.
 
 -   Subfields include: Marketing geography and Transportation geography
 

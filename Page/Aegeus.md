@@ -1,4 +1,4 @@
-Hippolyte_Flandrin_-_Theseus_Recognized_by_his_Father_-_1832.jpg In Greek mythology, AEGEUS (; ) was an archaic figure in the founding myth of Athens. The "goat-man" who gave his name to the Aegean Sea was, next to Poseidon, the father of Theseus, the founder of Athenian institutions and one of the kings of Athens.
+In Greek mythology, AEGEUS (; ) was an archaic figure in the founding myth of Athens. The "goat-man" who gave his name to the Aegean Sea was, next to Poseidon, the father of Theseus, the founder of Athenian institutions and one of the kings of Athens.
 
 
 Family
@@ -9,8 +9,6 @@ Aegeus' first wife was Meta[2], daughter of Hoples and his second wife was Chalc
 
 
 Mythology
-
-Themis_Aigeus_Antikensammlung_Berlin_F2538_n2.jpg
 
 Reign
 
@@ -26,15 +24,13 @@ Later on, Lycus was driven from the territory by Aegeus himself, and had to seek
 
 Heirless king
 
-Antoine_Placide_Gibert_Thésée_reconnu_par_son_père.JPG
-
 Still without a male heir with his previous marriages, Aegeus asked the oracle at Delphi for advice. According to Pausanias, Aegeus ascribed this misfortune to the anger of Aphrodite and in order to conciliate her introduced her worship as Aphrodite Urania (Heavenly) in Athens.[12]
 
 The cryptic words of the oracle were _"Do not loosen the bulging mouth of the wineskin until you have reached the height of Athens, lest you die of grief."_[13] Aegeus did not understand the prophecy and was disappointed. This puzzling oracle forced Aegeus to visit Pittheus, king of Troezen, who was famous for his wisdom and skill at expounding oracles. Pittheus understood the prophecy and introduced Aegeus to his daughter, Aethra, when Aegeus was drunk.[14] They lay with each other, and then in some versions, Aethra waded to the island of Sphairia (a.k.a. Calauria) and bedded Poseidon. When Aethra became pregnant, Aegeus decided to return to Athens. Before leaving, he buried his sandal, shield, and sword under a huge rock and told her that, when their son grew up, he should move the rock and bring the weapons to his father, who would acknowledge him. Upon his return to Athens, Aegeus married Medea, who had fled from Corinth and the wrath of Jason. Aegeus and Medea had one son named Medus.
 
 Conflict with Crete
 
-While visiting in Athens, King Minos' son, Androgeus managed to defeat Aegeus in every contest during the Panathenaic Games. Out of envy, Aegeus sent him to conquer the Marathonian Bull, which killed him.[15] Minos was angry and declared war on Athens. He offered the Athenians peace, however, under the condition that Athens would send seven young men and seven young women every nine years to Crete to be fed to the Minotaur, a vicious monster. This continued until Theseus killed the Minotaur with the help of Ariadne, Minos' daughter.Krater_Warrior_BM_F158.jpg arriving at Athens and being recognized because of his sword by Aegeus''. Apulian red-figured volute-krater, ca. 410–400 BC, from Ruvo (South Italy).|left]]
+While visiting in Athens, King Minos' son, Androgeus managed to defeat Aegeus in every contest during the Panathenaic Games. Out of envy, Aegeus sent him to conquer the Marathonian Bull, which killed him.[15] Minos was angry and declared war on Athens. He offered the Athenians peace, however, under the condition that Athens would send seven young men and seven young women every nine years to Crete to be fed to the Minotaur, a vicious monster. This continued until Theseus killed the Minotaur with the help of Ariadne, Minos' daughter. arriving at Athens and being recognized because of his sword by Aegeus''. Apulian red-figured volute-krater, ca. 410–400 BC, from Ruvo (South Italy).|left]]
 
 Theseus and the Minotaur
 

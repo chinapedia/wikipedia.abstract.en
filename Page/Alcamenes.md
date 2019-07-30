@@ -1,4 +1,4 @@
-Herma_IstArchMu747.jpg, Roman copy of a late 5th century BC original, the forefront inscription states the herm was made by Alcamenes and dedicated by Pergamios, Istanbul Museums.]]
+, Roman copy of a late 5th century BC original, the forefront inscription states the herm was made by Alcamenes and dedicated by Pergamios, Istanbul Museums.]]
 
 ALCAMENES () was an ancient Greek sculptor of Lemnos and Athens, who flourished in the 2nd half of the 5th century BC. He was a younger contemporary of Phidias and noted for the delicacy and finish of his works, among which a Hephaestus and an Aphrodite "of the Gardens" were conspicuous.[1]
 

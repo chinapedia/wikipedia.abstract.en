@@ -7,8 +7,6 @@ Cladistics is now the most commonly used method to classify organisms.[6]
 
 History
 
-Willi_Hennig2.jpg Peter_Chalmers_Mitchell_1920.jpg CSIRO_ScienceImage_2955_Robert_J_Tillyard_18811937.jpg
-
 The original methods used in cladistic analysis and the school of taxonomy derived from the work of the German entomologist Willi Hennig, who referred to it as PHYLOGENETIC SYSTEMATICS (also the title of his 1966 book); the terms "cladistics" and "clade" were popularized by other researchers. Cladistics in the original sense refers to a particular set of methods used in phylogenetic analysis, although it is now sometimes used to refer to the whole field.
 
 What is now called the cladistic method appeared as early as 1901 with a work by Peter Chalmers Mitchell for birds[7][8] and subsequently by Robert John Tillyard (for insects) in 1921,[9] and W. Zimmermann (for plants) in 1943.[10] The term "clade" was introduced in 1958 by Julian Huxley after having been coined by Lucien Cuénot in 1940,[11] "cladogenesis" in 1958,[12] "cladistic" by Cain and Harrison in 1960,[13] "cladist" (for an adherent of Hennig's school) by Mayr in 1965,[14] and "cladistics" in 1966.[15] Hennig referred to his own approach as "phylogenetic systematics". From the time of his original formulation until the end of the 1970s, cladistics competed as an analytical and philosophical approach to systematics with phenetics and so-called evolutionary taxonomy. Phenetics was championed at this time by the numerical taxonomists Peter Sneath and Robert Sokal, and evolutionary taxonomy by Ernst Mayr.
@@ -30,7 +28,7 @@ If this phylogenetic hypothesis is correct, then the last common ancestor of tur
 
 If this is accurate, then the last common ancestor of turtles and birds lived later than the last common ancestor of lizards and birds. Since the cladograms provide competing accounts of real events, at most one of them is correct.
 
-Monophyly,_paraphyly,_polyphyly.pngs, showing a monophyletic taxon (a clade: the simians or Anthropoidea, in yellow), a paraphyletic taxon (the prosimians, in blue, including the red patch), and a polyphyletic taxon (the nocturnal primates – the lorises and the tarsiers – in red)]]
+s, showing a monophyletic taxon (a clade: the simians or Anthropoidea, in yellow), a paraphyletic taxon (the prosimians, in blue, including the red patch), and a polyphyletic taxon (the nocturnal primates – the lorises and the tarsiers – in red)]]
 
 The cladogram to the right represents the current universally accepted hypothesis that all primates, including strepsirrhines like the lemurs and lorises, had a common ancestor all of whose descendants were primates, and so form a clade; the name Primates is therefore recognized for this clade. Within the primates, all anthropoids (monkeys, apes and humans) are hypothesized to have had a common ancestor all of whose descendants were anthropoids, so they form the clade called Anthropoidea. The "prosimians", on the other hand, form a paraphyletic taxon. The name Prosimii is not used in phylogenetic nomenclature, which names only clades; the "prosimians" are instead divided between the clades Strepsirhini and Haplorhini, where the latter contains Tarsiiformes and Anthropoidea.
 

@@ -29,7 +29,7 @@ At some point in his life, he wanted to convert to Buddhism, settle in cities. H
 
 Later reign
 
-Bilge_Khagan_monument_Mongolia.JPGIn 720, Wang believed that the Pugu (僕固) and Xiedie tribes of the region were planning to defect to Eastern Tujue and attack with Eastern Tujue troops. He thus held a feast and invited the chieftains, and, at the feast, massacred them. He then attacked the Pugu and Xiedie tribes in the area, nearly wiping them out. He then proposed a plan to attack Qaghan along with the Baximi, Xi, and Khitan.[10] Emperor Xuanzong also recruited Qapaghan Khagan's sons Bilgä Tigin and Mo Tigin, Yenisei Kyrgyz Qaghan Kutluk Bilgä Qaghan and Huoba Guiren to fight against Tujue. Tonyukuk cunningly launched first attack on Baximi in 721 autumn, completely crushing them. Meanwhile, Bilgä raided Gansu, taking much of the livestock. Later that year Khitans, next year Xi were also crushed.
+In 720, Wang believed that the Pugu (僕固) and Xiedie tribes of the region were planning to defect to Eastern Tujue and attack with Eastern Tujue troops. He thus held a feast and invited the chieftains, and, at the feast, massacred them. He then attacked the Pugu and Xiedie tribes in the area, nearly wiping them out. He then proposed a plan to attack Qaghan along with the Baximi, Xi, and Khitan.[10] Emperor Xuanzong also recruited Qapaghan Khagan's sons Bilgä Tigin and Mo Tigin, Yenisei Kyrgyz Qaghan Kutluk Bilgä Qaghan and Huoba Guiren to fight against Tujue. Tonyukuk cunningly launched first attack on Baximi in 721 autumn, completely crushing them. Meanwhile, Bilgä raided Gansu, taking much of the livestock. Later that year Khitans, next year Xi were also crushed.
 
 In 726, his father-in-law and chancellor Tonyukuk died.
 

@@ -24,7 +24,7 @@ Specifications
 
 Summary
 
-Nintendo-Game-Boy-Color-Motherboard-Bottom.jpg The technical specifications for the console are as follows:[9]
+The technical specifications for the console are as follows:[9]
 
 -   MAIN PROCESSOR: Sharp Corporation LR35902 (based on the 8-bit Zilog Z80)
 -   PROCESSOR SPEED: 4.194304/8.388608 MHz, effective speed 1.0485 (speed of original Game Boy) or 2.097 MHz (two processor modes)
@@ -79,7 +79,7 @@ Color palettes used for original Game Boy games
 
 For dozens of popular Game Boy titles, the Game Boy Color has an enhanced palette built in featuring up to 16 colors - four colors for each of the Game Boy's four layers.[12] If the system does not have a palette stored for a game, it defaults to a palette of green, blue, salmon, black, and white. However, when the user turns on the system, they may choose one of 12 built-in color palettes by pressing certain button combinations (namely a direction key and optionally A or B) while the Game Boy logo is present on the screen.
 
-These palettes each contain up to ten colors.[13] In most games, the four shades displayed on the original Game Boy would translate to different subsets of this 10-color palette, such as by displaying movable sprites in one subset and backgrounds, etc. in another. The grayscale (Left + B) palette produces an appearance similar to that experienced on the original Game Boy. GBC_keypad_palettes.png
+These palettes each contain up to ten colors.[13] In most games, the four shades displayed on the original Game Boy would translate to different subsets of this 10-color palette, such as by displaying movable sprites in one subset and backgrounds, etc. in another. The grayscale (Left + B) palette produces an appearance similar to that experienced on the original Game Boy.
 
 Partial list of games with special palettes
 
@@ -124,7 +124,7 @@ A few games used a technical trick to increase the number of colors available on
 
 Cartridges
 
-Nintendo-Game-Boy-Color-Cartridge.jpg Nintendo-Game-Boy-Cartridge-Black.jpg Game Boy Color exclusive games are housed in clear-colored cartridges, referred to as "Game Pak" cartridges.[16] They are shaped differently from original Game Boy games. When inserted into an original Game Boy, these translucent cartridges prevent the system from turning on due to a missing notch present in original Game Boy cartridges that prevent the cartridge from being removed once powered on (barring the Rumble Pack games or _Kirby Tilt 'n Tumble_[17]). While the Game Boy Pocket, Super Game Boy, Super Game Boy 2 and the Japanese-exclusive Game Boy Light do power on with a Game Boy Color exclusive cartridge inserted, these games display a warning message stating that a Game Boy Color system is required and refuse to play. In the cases of _Chee-Chai Alien_[18][19] and _Pocket Music_[20], it however did power on with Game Boy Advance and Game Boy Advance SP, these games also display a warning message stating that a Game Boy Color system is also required and also refuse to play. Games that are designed for the Game Boy Color, but which also include backward compatibility with the Game Boy, Game Boy Pocket, Super Game Boy, Super Game Boy 2 and the Japanese-exclusive Game Boy Light, use the same cartridge shape as original Game Boy games, but are typically black and never gray.
+Game Boy Color exclusive games are housed in clear-colored cartridges, referred to as "Game Pak" cartridges.[16] They are shaped differently from original Game Boy games. When inserted into an original Game Boy, these translucent cartridges prevent the system from turning on due to a missing notch present in original Game Boy cartridges that prevent the cartridge from being removed once powered on (barring the Rumble Pack games or _Kirby Tilt 'n Tumble_[17]). While the Game Boy Pocket, Super Game Boy, Super Game Boy 2 and the Japanese-exclusive Game Boy Light do power on with a Game Boy Color exclusive cartridge inserted, these games display a warning message stating that a Game Boy Color system is required and refuse to play. In the cases of _Chee-Chai Alien_[18][19] and _Pocket Music_[20], it however did power on with Game Boy Advance and Game Boy Advance SP, these games also display a warning message stating that a Game Boy Color system is also required and also refuse to play. Games that are designed for the Game Boy Color, but which also include backward compatibility with the Game Boy, Game Boy Pocket, Super Game Boy, Super Game Boy 2 and the Japanese-exclusive Game Boy Light, use the same cartridge shape as original Game Boy games, but are typically black and never gray.
 
 Colors produced
 

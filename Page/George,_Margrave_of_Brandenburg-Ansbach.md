@@ -1,4 +1,4 @@
-Cranach,_Lucas_(II)_-_Georg_der_Fromme_-_Jagdschloss_Grunewald_-_1564.jpg]] Schloss_Ratibor_-Stiftungstafel_5.jpg GEORGE OF BRANDENBURG-ANSBACH () (4 March 1484 – 27 December 1543), known as GEORGE THE PIOUS, was a Margrave of Brandenburg-Ansbach from the House of Hohenzollern.
+]] GEORGE OF BRANDENBURG-ANSBACH () (4 March 1484 – 27 December 1543), known as GEORGE THE PIOUS, was a Margrave of Brandenburg-Ansbach from the House of Hohenzollern.
 
 
 Biography
@@ -36,7 +36,7 @@ He is one of the figures on the _Prussian Homage_ painting by Jan Matejko.
 
 Family and children
 
-BeatriceFrangepan.jpg, George's first wife.]] 1516_Emilia.jpg, George's third wife.]] George went on to marry three times: First to Beatrice de Frangepan (1480 – c.1510); the marriage produced no children.
+, George's first wife.]] , George's third wife.]] George went on to marry three times: First to Beatrice de Frangepan (1480 – c.1510); the marriage produced no children.
 
 George's second wife was Hedwig of Münsterberg-Oels (1508–1531), daughter of Charles I of Münsterberg-Oels; their marriage produced two daughters:
 

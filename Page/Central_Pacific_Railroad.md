@@ -1,6 +1,6 @@
-Transcontinental_railroad_route.png: The Central Pacific (red) and the Union Pacific (blue) railroads met in Utah in 1869. ]]
+: The Central Pacific (red) and the Union Pacific (blue) railroads met in Utah in 1869. ]]
 
-Uploco.jpg'' locomotive]] Truckee_River_at_Verdi,_east_of_the_Sierra_Nevada_mountains,_Nevada,_Central_Pacific_R.R,_by_Thomas_Houseworth_&_Co..jpg at Verdi, Nevada. When the Central Pacific Railroad reached its site in 1868, Charles Crocker pulled a slip of paper from a hat and read the name of Giuseppe Verdi; so, the town was named after the Italian opera composer.[1]]] Trestle_CPRR.jpg Trestle, Placer County, California, c.1869. Photo: Carleton Watkins ]] The_Last_Spike_1869.jpg, (1881)]]
+'' locomotive]] at Verdi, Nevada. When the Central Pacific Railroad reached its site in 1868, Charles Crocker pulled a slip of paper from a hat and read the name of Giuseppe Verdi; so, the town was named after the Italian opera composer.[1]]] Trestle, Placer County, California, c.1869. Photo: Carleton Watkins ]] , (1881)]]
 
 The CENTRAL PACIFIC RAILROAD (CPRR) was a rail company chartered by U.S. Congress in 1862 to build a railroad eastwards from Sacramento, California, to complete the western part of the "First Transcontinental Railroad" in North America. Incorporated in 1861, CPRR ceased operation in 1885 when it was acquired by Southern Pacific Railroad as a leased line.
 
@@ -20,20 +20,18 @@ Chinese labor was the most vital source for constructing the railroad. Fifty Can
 
 Financing
 
-Central_Pacific_Railroad_First_Mortgage_Bonds_Advertisement_1867.jpgConstruction of the road was financed primarily by 30-year, 6% U.S. government bonds authorized by Sec. 5 of the Pacific Railroad Act of 1862. They were issued at the rate of $16,000 ($265,000 in 2017 dollars) per mile of tracked grade completed west of the designated base of the Sierra Nevada range near Roseville, CA where California state geologist Josiah Whitney had determined were the geologic start of the Sierras' foothills.[9] Sec. 11 of the Act also provided that the issuance of bonds "shall be treble the number per mile" (to $48,000) for tracked grade completed over and within the two mountain ranges (but limited to a total of at this rate), and "doubled" (to $32,000) per mile of completed grade laid between the two mountain ranges.[10] The U.S. Government Bonds, which constituted a lien upon the railroads and all their fixtures, were repaid in full (and with interest) by the company as and when they became due.
+Construction of the road was financed primarily by 30-year, 6% U.S. government bonds authorized by Sec. 5 of the Pacific Railroad Act of 1862. They were issued at the rate of $16,000 ($265,000 in 2017 dollars) per mile of tracked grade completed west of the designated base of the Sierra Nevada range near Roseville, CA where California state geologist Josiah Whitney had determined were the geologic start of the Sierras' foothills.[9] Sec. 11 of the Act also provided that the issuance of bonds "shall be treble the number per mile" (to $48,000) for tracked grade completed over and within the two mountain ranges (but limited to a total of at this rate), and "doubled" (to $32,000) per mile of completed grade laid between the two mountain ranges.[10] The U.S. Government Bonds, which constituted a lien upon the railroads and all their fixtures, were repaid in full (and with interest) by the company as and when they became due.
 
 Sec. 10 of the 1864 amending Pacific Railroad Act (13 Statutes at Large, 356) additionally authorized the company to issue its own "First Mortgage Bonds"[11] in total amounts up to (but not exceeding) that of the bonds issued by the United States. Such company-issued securities had priority over the original Government Bonds.[12] (Local and state governments also aided the financing, although the City and County of San Francisco did not do so willingly. This materially slowed early construction efforts.) Sec. 3 of the 1862 Act granted the railroads of public land for every mile laid, except where railroads ran through cities and crossed rivers. This grant was apportioned in 5 sections on alternating sides of the railroad, with each section measuring by .[13] These grants were later doubled to per mile of grade by the 1864 Act.
 
 Although the Pacific Railroad eventually benefited the Bay Area, the City and County of San Francisco obstructed financing it during the early years of 1863-1865. When Stanford was Governor of California, the Legislature passed on April 22, 1863, "An Act to Authorize the Board of Supervisors of the City and County of San Francisco to take and subscribe One Million Dollars to the Capital Stock of the Western Pacific Rail Road Company and the Central Pacific Rail Road Company of California and to provide for the payment of the same and other matters relating thereto" (which was later amended by Section Five of the "Compromise Act" of April 4, 1864). On May 19, 1863, the electors of the City and County of San Francisco passed this bond by a vote of 6,329 to 3,116, in a highly controversial Special Election.
 
-San_Francisco_Pacific_Railroad_Bond_WPRR_1865.jpg The City and County's financing of the investment through the issuance and delivery of Bonds was delayed for two years, when Mayor Henry P. Coon, and the County Clerk, Wilhelm Loewy, each refused to countersign the Bonds. It took legal actions to force them to do so: in 1864 the Supreme Court of the State of California ordered them under Writs of Mandamus (''The People of the State of California _ex rel_ the Central Pacific Railroad Company vs. Henry P. Coon, Mayor; Henry M. Hale, Auditor; and Joseph S. Paxson, Treasurer, of the City and County of San Francisco.'' 25 Cal. 635) and in 1865, a legal judgment against Loewy (''The People _ex rel_ The Central Pacific Railroad Company of California vs. The Board of Supervisors of the City and County of San Francisco, and Wilhelm Lowey, Clerk'' 27 Cal. 655) directing that the Bonds be countersigned and delivered.
+The City and County's financing of the investment through the issuance and delivery of Bonds was delayed for two years, when Mayor Henry P. Coon, and the County Clerk, Wilhelm Loewy, each refused to countersign the Bonds. It took legal actions to force them to do so: in 1864 the Supreme Court of the State of California ordered them under Writs of Mandamus (''The People of the State of California _ex rel_ the Central Pacific Railroad Company vs. Henry P. Coon, Mayor; Henry M. Hale, Auditor; and Joseph S. Paxson, Treasurer, of the City and County of San Francisco.'' 25 Cal. 635) and in 1865, a legal judgment against Loewy (''The People _ex rel_ The Central Pacific Railroad Company of California vs. The Board of Supervisors of the City and County of San Francisco, and Wilhelm Lowey, Clerk'' 27 Cal. 655) directing that the Bonds be countersigned and delivered.
 
 In 1863 the State legislature's forcing of City and County action became known as the "Dutch Flat Swindle". Critics claimed the CPRR's Big Four intended to build a railroad only as far as Dutch Flat, California, to connect to the Dutch Flat-Donner Pass Wagon Road to monopolize the lucrative mining traffic, and not push the track east of Dutch Flat into the more challenging and expensive High Sierra effort. CPRR's chief engineer, Theodore Judah, also argued against such a road and hence against the Big Four, fearing that its construction would siphon money from CPRR’s paramount trans-Sierra railroad effort. Despite Judah’s strong objection, the Big Four incorporated in August 1863 the Dutch Flat-Donner Lake Wagon Road Company. Frustrated, Judah headed off for New York via Panama to raise funds to buy out the Big Four from CPRR and build his trans-Sierra railroad. Unfortunately, Judah contracted yellow fever in Panama and died in New York in November 1863.[14]
 
 
 Museums and archives
-
-Lmc_tdj.jpg
 
 A replica of the Sacramento, California Central Pacific Railroad passenger station is part of the California State Railroad Museum, located in the Old Sacramento State Historic Park.
 
@@ -41,8 +39,6 @@ Nearly all the company's early correspondence is preserved at Syracuse Universit
 
 
 Locomotives
-
-CPRR_Locomotive_-113_FALCON_1869.jpg
 
 The Central Pacific's first three locomotives were of the then common 4-4-0 type, although with the American Civil War raging in the east, they had difficulty acquiring engines from eastern builders, who at times only had smaller 4-2-4 or 4-2-2 types available. Until the completion of the Transcontinental rail link and the railroad's opening of its own shops, all locomotives had to be purchased by builders in the northeastern U.S. The engines had to be dismantled, loaded on a ship, which would embark on a four-month journey that went around South America's Cape Horn until arriving in Sacramento where the locomotives would be unloaded, re-assembled, and placed in service.
 
@@ -71,7 +67,7 @@ Timeline
 
 -   June 28, 1861: "Central Pacific Rail Road of California" incorporated; name changed to "Central Pacific Railroad of California" on October 8, 1864, after the Pacific Railway Act amendment passes that summer.[15]
 
-CPRR_Button_1867.jpg 1862
+1862
 
 -   July 1, 1862: President Lincoln signs the Pacific Railway Act, which authorized the Central Pacific and the Union Pacific to build a railroad to the Pacific Ocean.[16]
 
@@ -86,7 +82,7 @@ CPRR_Button_1867.jpg 1862
 -   June 3, 1864: The first revenue train on the Central Pacific operates between Sacramento and Newcastle, California
 -   October 8, 1864: Following passage of the amendment to the Pacific Railroad Act, the company's name is changed to "Central Pacific Railroad of California," a new corporation.
 
-Central_Pacific_Railroad_1865_sand_cast_journal_box_cover.jpg "End_of_the_Track._Near_Humboldt_River_Canyon,_Nevada."_Campsite_and_train_of_the_Central_Pacific_Railroad_at_foot_of_mo_-_NARA_-_533792.jpg 57._Summit_station,_C.P.R.R.jpg 1865
+1865
 
 -   February 1865: Central Pacific hired its first 50 Cantonese emigrant laborers on a trial basis.
 -   May 13, 1865: Central Pacific opened to Auburn, California.
@@ -96,7 +92,7 @@ Central_Pacific_Railroad_1865_sand_cast_journal_box_cover.jpg "End_of_the_Track.
 
 -   December 3, 1866: Central Pacific opened to Cisco, California.
 
-1867 Donner_Pass_Summit_Tunnel_West_Portal.jpg
+1867
 
 -   August 28, 1867: The Sierra Nevadas were finally "conquered" by the Central Pacific Railroad, after almost five years of sustained construction effort by its mainly Chinese crew about 10,000 strong, with the successful completion at Donner Pass of its 1,659-foot (506 m) Tunnel #6 (a.k.a. the "Summit Tunnel").[18]
 -   December 1, 1867: Central Pacific opened to Summit of the Sierra Nevada, .

@@ -16,14 +16,12 @@ The Amir had scarcely suppressed it by winning a desperate battle when Abdur Rah
 
 Exile and negotiated return to power
 
-Indian_Celebrities-_Amir_Abd_al-Raḥmān_WDL11441.png. Khān was renowned for his skill and forcefulness in suppressing rebellions against his authority. He is credited with creating a centralized state in the aftermath the war, based on a cabinet called the Supreme Council, a general assembly called the Loya Jirgah, and the army. His achievements included the introduction of some modern manufacturing, agriculture, and health care. This portrait shows him as a young man in uniform, clutching the hilt of his sword]]
+. Khān was renowned for his skill and forcefulness in suppressing rebellions against his authority. He is credited with creating a centralized state in the aftermath the war, based on a cabinet called the Supreme Council, a general assembly called the Loya Jirgah, and the army. His achievements included the introduction of some modern manufacturing, agriculture, and health care. This portrait shows him as a young man in uniform, clutching the hilt of his sword]]
 
 Abdur Rahman lived in exile in Tashkent. The governor-general of Tashkent sent for Abdur Rahman and motivated him by bringing up the blessing of Jacob, Abdur's patriarch. He was being told to cross the Oxus and claim throne for Amir.[5] In March 1880, a report reached India that Abdur Rahman was in northern Afghanistan; and the Governor-General, Lord Lytton, opened communications with him to the effect that the British government were prepared to withdraw their troops, and to recognize Abdur Rahman as Amir of Afghanistan, with the exception of Kandahar and some districts adjacent to it. After some negotiations, and an interview with Lepel Griffin, the diplomatic representative at Kabul of the Indian government. Griffin described Abdur Rahman as a man of middle height, with an exceedingly intelligent face and frank and courteous manners, shrewd and able in conversation on the business in hand.
 
 
 Reign
-
-Ameer_Abdurahman_Khan.jpg
 
 At the _durbar_ on July 22, 1880, Abdur Rahman was officially recognized as Amir, granted assistance in arms and money, and promised, in case of unprovoked foreign aggression, such further aid as might be necessary to repel it, provided that he align his foreign policy with the British. The British evacuation of Afghanistan was settled on the terms proposed, and in 1881, the British troops also handed over Kandahar to the new _Amir_.
 
@@ -51,7 +49,7 @@ Dictatorship and the "Iron Amir"
 
 Abdur Rahman Khan's government was a military despotism resting upon a well-appointed army; it was administered through officials absolutely subservient to an inflexible will and controlled by a widespread system of espionage; while the exercise of his personal authority was too often stained by acts of unnecessary cruelty. He held open courts for the receipt of petitioners and the dispensation of justice; and in the disposal of business he was indefatigable.
 
-Emir_Abd_or-Rahman,_Rawalpindi,_April,_1885_Wellcome_L0020789.jpg Abdur_Rahman_Khan_sitting.jpg In the 1880s, the "Iron Emir" decided to strategically displace some members of different ethnic groups in order to bring better security. For example, he "uprooted troublesome Durrani and Ghilzai Pashtun tribes and transported them to Uzbek and Tajik populated areas in the north, where they could spy on local Dari-speaking, non-Pashtun ethnic groups and act as a screen against further Russian encroachments on Afghan territory."[7] From the end of 1888, the Amir spent eighteen months in his northern provinces bordering upon the Oxus, where he was engaged in pacifying the country that had been disturbed by revolts, and in punishing with a heavy hand all who were known or suspected to have taken any part in rebellion.
+In the 1880s, the "Iron Emir" decided to strategically displace some members of different ethnic groups in order to bring better security. For example, he "uprooted troublesome Durrani and Ghilzai Pashtun tribes and transported them to Uzbek and Tajik populated areas in the north, where they could spy on local Dari-speaking, non-Pashtun ethnic groups and act as a screen against further Russian encroachments on Afghan territory."[7] From the end of 1888, the Amir spent eighteen months in his northern provinces bordering upon the Oxus, where he was engaged in pacifying the country that had been disturbed by revolts, and in punishing with a heavy hand all who were known or suspected to have taken any part in rebellion.
 
 In 1895–1896, Abdur Rahman directed the invasion of Kafiristan and the conversion of its indigenous peoples to Islam. The region was subsequently renamed Nuristan. In 1896, he adopted the title of _Zia-ul-Millat-Wa-ud Din_ ("Light of the nation and religion"), and his zeal for the cause of Islam induced him to publish treatises on _jihad_.
 
@@ -64,7 +62,7 @@ In the early 1890s some Hazara tribes revolted against Abdur Rahman. In 1888, th
 
 Death and Descendants
 
-Amir_Abdurahman_Khan's_Tomb.jpg.]] Abdur Rahman died on October 1, 1901 inside his summer palace, being succeeded by his son Habibullah Khan. He had defeated all enterprises by rivals against his throne; he had broken down the power of local chiefs, and tamed the refractory tribes; so that his orders were irresistible throughout the whole dominion.
+.]] Abdur Rahman died on October 1, 1901 inside his summer palace, being succeeded by his son Habibullah Khan. He had defeated all enterprises by rivals against his throne; he had broken down the power of local chiefs, and tamed the refractory tribes; so that his orders were irresistible throughout the whole dominion.
 
 Today, his descendants can be found in many places outside Afghanistan, such as in America, France, Germany, and even in Scandinavian countries such as Denmark. His two eldest sons, Habibullah Khan and Nasrullah Khan, were born at Samarkand. His youngest son, Mahomed Omar Jan, was born in 1889 of an Afghan mother, connected by descent with the Barakzai family.
 

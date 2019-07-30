@@ -25,13 +25,13 @@ Wurtzite form (w-BN)
 
 The wurtzite form of boron nitride (w-BN; point group = C_(6v); space group = P6₃mc) has the same structure as lonsdaleite, a rare hexagonal polymorph of carbon. As in the cubic form, the boron and nitrogen atoms are grouped into tetrahedra.[2] As in the cubic form, the boron and nitrogen atoms are grouped into 6-membered rings; in the cubic form all rings are in the chair configuration, in w-BN the rings between 'layers' are in boat configuration. The Wurtzite form is thought to be very strong, and was estimated by a simulation as potentially having a strength 18% stronger than that of diamond, but because only small amounts of the mineral exist in nature, this has not yet been experimentally verified.[3]
 
-+---------------------------------------------+-----------------------------------------+---------------------------------------+
-| Boron-nitride-(hexagonal)-side-3D-balls.png | Boron-nitride-(sphalerite)-3D-balls.png | Boron-nitride-(wurtzite)-3D-balls.png |
-+---------------------------------------------+-----------------------------------------+---------------------------------------+
-| Hexagonal form (h-BN)                       | Cubic form (c-BN)                       | Wurtzite form (w-BN)                  |
-| hexagonal                                   | sphalerite structure                    | wurtzite structure                    |
-| analogous to graphite                       | analogous to diamond                    | analogous to lonsdaleite              |
-+---------------------------------------------+-----------------------------------------+---------------------------------------+
++-----------------------+----------------------+--------------------------+
+|                       |                      |                          |
++-----------------------+----------------------+--------------------------+
+| Hexagonal form (h-BN) | Cubic form (c-BN)    | Wurtzite form (w-BN)     |
+| hexagonal             | sphalerite structure | wurtzite structure       |
+| analogous to graphite | analogous to diamond | analogous to lonsdaleite |
++-----------------------+----------------------+--------------------------+
 
 
 Properties
@@ -129,8 +129,6 @@ Boron nitride reacts with iodine fluoride in trichlorofluoromethane at −30 °
 
 Intercalation of hexagonal BN
 
-BN8Kstructure.jpg
-
 Similar to graphite, various molecules, such as NH₃[36] or alkali metals,[37] can be intercalated into hexagonal boron nitride, that is inserted between its layers. Both experiment and theory suggest the intercalation is much more difficult for BN than for graphite.[38]
 
 Preparation of cubic BN
@@ -152,7 +150,7 @@ Applications
 
 Hexagonal BN
 
-BNcrucible.jpg Hexagonal BN (h-BN) is the most widely used polymorph. It is a good lubricant at both low and high temperatures (up to 900 °C, even in an oxidizing atmosphere). h-BN lubricant is particularly useful when the electrical conductivity or chemical reactivity of graphite (alternative lubricant) would be problematic. Another advantage of h-BN over graphite is that its lubricity does not require water or gas molecules trapped between the layers. Therefore, h-BN lubricants can be used even in vacuum, e.g. in space applications. The lubricating properties of fine-grained h-BN are used in cosmetics, paints, dental cements, and pencil leads.[47]
+Hexagonal BN (h-BN) is the most widely used polymorph. It is a good lubricant at both low and high temperatures (up to 900 °C, even in an oxidizing atmosphere). h-BN lubricant is particularly useful when the electrical conductivity or chemical reactivity of graphite (alternative lubricant) would be problematic. Another advantage of h-BN over graphite is that its lubricity does not require water or gas molecules trapped between the layers. Therefore, h-BN lubricants can be used even in vacuum, e.g. in space applications. The lubricating properties of fine-grained h-BN are used in cosmetics, paints, dental cements, and pencil leads.[47]
 
 Hexagonal BN was first used in cosmetics around 1940 in Japan. However, because of its high price, h-BN was soon abandoned for this application. Its use was revitalized in the late 1990s with the optimization h-BN production processes, and currently h-BN is used by nearly all leading producers of cosmetic products for foundations, make-up, eye shadows, blushers, kohl pencils, lipsticks and other skincare products.[48]
 
@@ -197,13 +195,13 @@ BETTER SURFACE ADSORPTION. Atomically thin boron nitride has been found to have 
 
 DIELECTRIC PROPERTIES. Atomically thin hexagonal boron nitride is an excellent dielectric substrate for graphene, molybdenum disulphide (MoS₂), and many other 2D material-based electronic and photonic devices. As shown by electric force microscopy (EFM) studies, the electric field screening in atomically thin boron nitride shows a weak dependence on thickness, which is in line with the smooth decay of electric field inside few-layer boron nitride revealed by the first-principles calculations.[74]
 
-RAMAN CHARACTERISTICS. Raman spectroscopy has been a useful tool to study a variety of 2D materials, and the Raman signature of high-quality atomically thin boron nitride was first reported by Gorbachev et al.[75] and Li et al.[76] However, the two reported Raman results of monolayer boron nitride did not agree with each other. Cai et al., therefore, conducted systematic experimental and theoretical studies to reveal the intrinsic Raman spectrum of atomically thin boron nitride.[77] It reveals that atomically thin boron nitride without interaction with a substrate has a G band frequency similar to that of bulk hexagonal boron nitride, but strain induced by the substrate can cause Raman shifts. Nevertheless, the Raman intensity of G band of atomically thin boron nitride can be used to estimate layer thickness and sample quality.STMnm-2.JPG. The center of each ring corresponds to the center of the pores]] Oil_absorption_by_BN_aerogel.jpg by BN aerogel. Cyclohexane is stained with Sudan II red dye and is floating on water. Bottom: reuse of the aerogel after burning in air.[78]]]
+RAMAN CHARACTERISTICS. Raman spectroscopy has been a useful tool to study a variety of 2D materials, and the Raman signature of high-quality atomically thin boron nitride was first reported by Gorbachev et al.[75] and Li et al.[76] However, the two reported Raman results of monolayer boron nitride did not agree with each other. Cai et al., therefore, conducted systematic experimental and theoretical studies to reveal the intrinsic Raman spectrum of atomically thin boron nitride.[77] It reveals that atomically thin boron nitride without interaction with a substrate has a G band frequency similar to that of bulk hexagonal boron nitride, but strain induced by the substrate can cause Raman shifts. Nevertheless, the Raman intensity of G band of atomically thin boron nitride can be used to estimate layer thickness and sample quality.. The center of each ring corresponds to the center of the pores]] by BN aerogel. Cyclohexane is stained with Sudan II red dye and is floating on water. Bottom: reuse of the aerogel after burning in air.[78]]]
 
 Boron nitride nanomesh
 
 Boron nitride nanomesh is a nanostructured two-dimensional material. It consists of a single BN layer, which forms by self-assembly a highly regular mesh after high-temperature exposure of a clean rhodium[79] or ruthenium[80] surface to borazine under ultra-high vacuum. The nanomesh looks like an assembly of hexagonal pores. The distance between two pore centers is 3.2 nm and the pore diameter is ~2 nm. Other terms for this material are boronitrene or white graphene.[81]
 
-The boron nitride nanomesh is not only stable to decomposition under vacuum,[82] air[83] and some liquids,[84][85] but also up to temperatures of 800 °C.[86] In addition, it shows the extraordinary ability to trap molecules[87] and metallic clusters[88] which have similar sizes to the nanomesh pores, forming a well-ordered array. These characteristics promise interesting applications of the nanomesh in areas like catalysis, surface functionalisation, spintronics, quantum computing and data storage media like hard drives.[89]Flame_test_of_buckypapers.jpg and BN nanotube buckypaper.[90]]]
+The boron nitride nanomesh is not only stable to decomposition under vacuum,[82] air[83] and some liquids,[84][85] but also up to temperatures of 800 °C.[86] In addition, it shows the extraordinary ability to trap molecules[87] and metallic clusters[88] which have similar sizes to the nanomesh pores, forming a well-ordered array. These characteristics promise interesting applications of the nanomesh in areas like catalysis, surface functionalisation, spintronics, quantum computing and data storage media like hard drives.[89] and BN nanotube buckypaper.[90]]]
 
 Boron nitride nanotubes
 

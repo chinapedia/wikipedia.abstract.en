@@ -24,7 +24,7 @@ This is a chart of trend of gross domestic product of Burkina Faso at market pri
 
 For purchasing power parity comparisons, the US Dollar is exchanged at 470.70 CFA Francs only. Mean wages were $0.56 per man-hour in 2009.
 
-2006Burkinabe_exports.PNG Current GDP per capita[2] of Burkina Faso grew 13% in the Sixties reaching a peak growth of 237% in the Seventies. But this proved unsustainable and growth consequently scaled back to 23% in the Eighties. Finally, it shrank by 37% in the Nineties. Average wages in 2007 hover around 2 to 3 dollars per day.
+Current GDP per capita[2] of Burkina Faso grew 13% in the Sixties reaching a peak growth of 237% in the Seventies. But this proved unsustainable and growth consequently scaled back to 23% in the Eighties. Finally, it shrank by 37% in the Nineties. Average wages in 2007 hover around 2 to 3 dollars per day.
 
 Although handicapped by an extremely resource-deprived domestic economy, Burkina Faso remains committed to the structural adjustment program it launched in 1991. It has largely recovered from the devaluation of the CFA in January 1994, with a 1996 growth rate of 5.9%.
 
@@ -36,7 +36,7 @@ A 2018 report by the African Development Bank Group discussed a macroeconomic ev
 
 External trade
 
-Burkina_Faso_Exports_Treemap_(2009).jpg Industry, still in an embryonic stage, is located primarily in Bobo-Dioulasso, Ouagadougou, Banfora, and Koudougou. Manufacturing is limited to food processing, textiles, and other import substitution heavily protected by tariffs. Some factories are privately owned, and others are set to be privatized. Burkina Faso's exploitable natural resources are limited, although a manganese ore deposit is located in the remote northeast. Gold mining has increased greatly since the mid-1980s and, along with cotton, is a leading export moneyearner. However, both gold and cotton are listed as goods produced mostly by child labor and forced labor according to a recent U.S. Department of Labor report.[4]
+Industry, still in an embryonic stage, is located primarily in Bobo-Dioulasso, Ouagadougou, Banfora, and Koudougou. Manufacturing is limited to food processing, textiles, and other import substitution heavily protected by tariffs. Some factories are privately owned, and others are set to be privatized. Burkina Faso's exploitable natural resources are limited, although a manganese ore deposit is located in the remote northeast. Gold mining has increased greatly since the mid-1980s and, along with cotton, is a leading export moneyearner. However, both gold and cotton are listed as goods produced mostly by child labor and forced labor according to a recent U.S. Department of Labor report.[4]
 
 
 See also

@@ -1,4 +1,4 @@
-Hematopoiesis_simple.svg HAEMATOPOIESIS (from Greek αἷμα, "blood" and ποιεῖν "to make"; also HEMATOPOIESIS in American English; sometimes also HAEMOPOIESIS or HEMOPOIESIS) is the formation of blood cellular components. All cellular blood components are derived from haematopoietic stem cells.[1] In a healthy adult person, approximately 10¹¹–10¹² new blood cells are produced daily in order to maintain steady state levels in the peripheral circulation.[2][3]
+HAEMATOPOIESIS (from Greek αἷμα, "blood" and ποιεῖν "to make"; also HEMATOPOIESIS in American English; sometimes also HAEMOPOIESIS or HEMOPOIESIS) is the formation of blood cellular components. All cellular blood components are derived from haematopoietic stem cells.[1] In a healthy adult person, approximately 10¹¹–10¹² new blood cells are produced daily in order to maintain steady state levels in the peripheral circulation.[2][3]
 
 
 Process
@@ -47,7 +47,7 @@ Osteoclasts also arise from hemopoietic cells of the monocyte/neutrophil lineage
 
 Location
 
-Hematopoesis_EN.svg In developing embryos, blood formation occurs in aggregates of blood cells in the yolk sac, called blood islands. As development progresses, blood formation occurs in the spleen, liver and lymph nodes. When bone marrow develops, it eventually assumes the task of forming most of the blood cells for the entire organism.[11] However, maturation, activation, and some proliferation of lymphoid cells occurs in the spleen, thymus, and lymph nodes. In children, haematopoiesis occurs in the marrow of the long bones such as the femur and tibia. In adults, it occurs mainly in the pelvis, cranium, vertebrae, and sternum.[12]
+In developing embryos, blood formation occurs in aggregates of blood cells in the yolk sac, called blood islands. As development progresses, blood formation occurs in the spleen, liver and lymph nodes. When bone marrow develops, it eventually assumes the task of forming most of the blood cells for the entire organism.[11] However, maturation, activation, and some proliferation of lymphoid cells occurs in the spleen, thymus, and lymph nodes. In children, haematopoiesis occurs in the marrow of the long bones such as the femur and tibia. In adults, it occurs mainly in the pelvis, cranium, vertebrae, and sternum.[12]
 
 Extramedullary
 
@@ -56,7 +56,7 @@ In some cases, the liver, thymus, and spleen may resume their haematopoietic fun
 
 Maturation
 
-More detailed and comprehensive diagram that shows the development of different blood cells in humans. As a stem cell matures it undergoes changes in gene expression that limit the cell types that it can become and moves it closer to a specific cell type (cellular differentiation). These changes can often be tracked by monitoring the presence of proteins on the surface of the cell. Each successive change moves the cell closer to the final cell type and further limits its potential to become a different cell type.
+As a stem cell matures it undergoes changes in gene expression that limit the cell types that it can become and moves it closer to a specific cell type (cellular differentiation). These changes can often be tracked by monitoring the presence of proteins on the surface of the cell. Each successive change moves the cell closer to the final cell type and further limits its potential to become a different cell type.
 
 Cell fate determination
 

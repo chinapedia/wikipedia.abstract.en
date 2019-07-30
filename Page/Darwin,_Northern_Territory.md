@@ -25,7 +25,7 @@ In the 1870s, relatively large numbers of Chinese settled at least temporarily i
 
 Early 20th century
 
-Remains_of_the_Darwin_Post_Office.jpg Darwin_2089.jpg]] LYONS_COTTAGE_-_DARWIN_-_NORTHERN_TERRITORY.jpg Darwin became the city's official name in 1911.
+]] Darwin became the city's official name in 1911.
 
 The period between 1911 and 1919 was filled with political turmoil, particularly with trade union unrest, which culminated on 17 December 1918. Led by Harold Nelson, some 1000 demonstrators marched to Government House at Liberty Square in Darwin where they burnt an effigy of the Administrator of the Northern Territory John Gilruth and demanded his resignation. The incident became known as the 'Darwin Rebellion'. Their grievances were against the two main Northern Territory employers: Vestey's Meatworks and the federal government. Both Gilruth and the Vestey company left Darwin soon afterwards.
 
@@ -41,7 +41,7 @@ On 17 September 2003 the Adelaide–Darwin railway was completed, with the openi
 
 Aviation history
 
-Darwin_1921.jpg Darwin has played host to many of aviation's early pioneers. On 10 December 1919 Captain Ross Smith and his crew landed in Darwin and won a £10,000 Prize from the Australian Government for completing the first flight from London to Australia in under thirty days. Smith and his Crew flew a Vickers Vimy, G-EAOU and landed on an airstrip that has now become Ross Smith Avenue.
+Darwin has played host to many of aviation's early pioneers. On 10 December 1919 Captain Ross Smith and his crew landed in Darwin and won a £10,000 Prize from the Australian Government for completing the first flight from London to Australia in under thirty days. Smith and his Crew flew a Vickers Vimy, G-EAOU and landed on an airstrip that has now become Ross Smith Avenue.
 
 Other aviation pioneers include Amy Johnson, Amelia Earhart, Sir Charles Kingsford Smith and Bert Hinkler. The original QANTAS Empire Airways Ltd Hangar, a registered heritage site,[15] was part of the original Darwin Civil Aerodrome in Parap and is now a museum and still bears scars from the bombing of Darwin during World War II.[16]
 
@@ -56,21 +56,19 @@ The Australian Aviation Heritage Centre is located approximately from the City c
 
 Geography
 
-Darwin_skyline.jpg
-
 Darwin lies in the Northern Territory, on the Timor Sea. The city proper occupies a low bluff overlooking Darwin Harbour, flanked by Frances Bay to the east and Cullen Bay to the west. The remainder of the city is flat and low-lying, and coastal areas are home to recreational reserves, extensive beaches, and excellent fishing.
 
 City and suburbs
 
-Map_of_the_Wards_and_Suburbs_of_Darwin,_Northern_Territory.png Darwin and its suburbs spread in an approximately triangular shape, with the older south-western suburbs—and the city itself—forming one corner, the newer northern suburbs another, and the eastern suburbs, progressing towards Palmerston, forming the third.
+Darwin and its suburbs spread in an approximately triangular shape, with the older south-western suburbs—and the city itself—forming one corner, the newer northern suburbs another, and the eastern suburbs, progressing towards Palmerston, forming the third.
 
-The older part of Darwin is separated from the newer northern suburbs by Darwin International Airport and RAAF Base Darwin. Palmerston is a satellite city east of Darwin that was established in the 1980s and is one of the fastest growing municipalities in Australia.[19] The rural areas of Darwin including Howard Springs, Humpty Doo and Berry Springs are experiencing strong growth.[20] Mitchell_Street_Darwin.jpg Darwin's central business district is bounded by Daly Street in the north-west, McMinn Street in the north-east, Mitchell Street on the south-west and Bennett Street on the south-east. The CBD has been the focus of a number of major projects, including the billion dollar redevelopment of the Stokes Hill wharf waterfront area including a convention centre with seating for 1500 people and approximately of exhibition space. The developers have announced that this will include hotels, residential apartments, and public space.[21] The city's main industrial areas are along the Stuart Highway going towards Palmerston, centred on Winnellie. The largest shopping precinct in the area is Casuarina Square.
+The older part of Darwin is separated from the newer northern suburbs by Darwin International Airport and RAAF Base Darwin. Palmerston is a satellite city east of Darwin that was established in the 1980s and is one of the fastest growing municipalities in Australia.[19] The rural areas of Darwin including Howard Springs, Humpty Doo and Berry Springs are experiencing strong growth.[20] Darwin's central business district is bounded by Daly Street in the north-west, McMinn Street in the north-east, Mitchell Street on the south-west and Bennett Street on the south-east. The CBD has been the focus of a number of major projects, including the billion dollar redevelopment of the Stokes Hill wharf waterfront area including a convention centre with seating for 1500 people and approximately of exhibition space. The developers have announced that this will include hotels, residential apartments, and public space.[21] The city's main industrial areas are along the Stuart Highway going towards Palmerston, centred on Winnellie. The largest shopping precinct in the area is Casuarina Square.
 
 The most expensive residential areas stand along the coast in suburbs such as the marina of Cullen Bay part of Larrakeyah, Bayview and Brinkin,[22] despite the risk these low-lying regions face during cyclones and higher tides, adequate drainage and stringent building regulations have reduced the potential damage to buildings or injury to residents.[23] The inner northern suburbs are home to lower-income households, although low-income Territory Housing units are scattered throughout the metropolitan area.[24] The suburb of Lyons was part of a multi-stage land release and development in the Northern Suburbs; planning, development and construction took place from 2004 to 2009. More recent developments near Lyons subdivision includes the suburb of Muirhead.
 
 Climate
 
-Darwin_1824.jpg Darwin has a tropical savanna climate (Köppen _Aw_)[25][26] with distinct wet and dry seasons and the average maximum temperature is similar all year round. The dry season runs from about May to September, during which nearly every day is sunny, and afternoon relative humidity averages around 30%.[27]
+Darwin has a tropical savanna climate (Köppen _Aw_)[25][26] with distinct wet and dry seasons and the average maximum temperature is similar all year round. The dry season runs from about May to September, during which nearly every day is sunny, and afternoon relative humidity averages around 30%.[27]
 
 The driest period of the year, seeing only approximately of monthly rainfall on average, is between May and September. In the coolest months of June and July, the daily minimum temperature may dip as low as , but very rarely lower, and a temperature lower than has never been recorded in the city centre. Outer suburbs away from the coast, however, can occasionally record temperatures as low as in the dry season. For an exceedingly lengthy 147‑day period during the 2012 dry season, from 5 May to 29 September, Darwin recorded no precipitation whatsoever. Prolonged periods of no precipitation are common in the dry season in Northern Australia (particularly in the Northern Territory and northern regions of Western Australia) although a no-rainfall event of this extent is rare. The 3pm dewpoint average in the wet season is at around .[28]
 
@@ -116,7 +114,7 @@ At the 2016 census, the most commonly nominated ancestries were:[46][47]
 
 Language
 
-Warumungu_native.jpg At the 2016 census, 58% of the population spoke only English at home. The other languages most commonly spoken at home were Tagalog and Filipino (3.1%), Greek (2.3%), Mandarin (1.4%) and Indonesian (0.8%).[52][53]
+At the 2016 census, 58% of the population spoke only English at home. The other languages most commonly spoken at home were Tagalog and Filipino (3.1%), Greek (2.3%), Mandarin (1.4%) and Indonesian (0.8%).[52][53]
 
 Religion
 
@@ -125,7 +123,7 @@ Christianity has the most adherents in Darwin, with 56,613 followers accounting 
 
 Law and government
 
-Northern_Territory_Legislative_Assembly.jpg Legislative_Assembly_of_the_Northern_Territory.JPG The Darwin City Council (Incorporated under the Northern Territory Local Government Act 1993) governs the City of Darwin which takes in the CBD and the suburbs. The city has been governed by a City Council form of government since 1957. The council consists of 13 elected members, the Lord Mayor, and 12 aldermen.
+The Darwin City Council (Incorporated under the Northern Territory Local Government Act 1993) governs the City of Darwin which takes in the CBD and the suburbs. The city has been governed by a City Council form of government since 1957. The council consists of 13 elected members, the Lord Mayor, and 12 aldermen.
 
 The City of Darwin electorate is organised into four electoral units or wards. The names of the wards are Chan, Lyons, Richardson, and Waters. The constituents of each ward are directly responsible for electing three aldermen. Constituents of all wards are directly responsible for electing the Lord Mayor of Darwin.[56] The mayor is Kon Vatskalis after council elections in August 2017.[57]
 
@@ -142,19 +140,17 @@ Darwin is split between nine electoral divisions in the Legislative Assembly—P
 
 Economy
 
-The_Supreme_Court.JPG]]
+]]
 
 The two largest economic sectors are mining and tourism. Given its location, Darwin serves as a "gateway" for Australian travellers to Asia.[63]
 
 Mining and energy industry production exceeds $2.5 billion per annum.[64] The most important mineral resources are gold, zinc and bauxite, along with manganese and many others. The energy production is mostly off shore with oil and natural gas from the Timor Sea, although there are significant uranium deposits near Darwin. Tourism employs 8% of Darwin residents, and is expected to grow as domestic and international tourists are now spending time in Darwin during the Wet and Dry seasons. Federal spending is also a major contributor to the local economy.
 
-Darwin_CBD-2005.jpg
-
 Darwin's importance as a port is expected to grow, due to the increased exploitation of petroleum in the nearby Timor Sea, and to the completion of the railway link and continued expansion in trade with Asia. During 2005, a number of major construction projects started in Darwin. One is the redevelopment of the Wharf Precinct, which includes a large convention and exhibition centre, apartment housing including Outrigger Pandanas and Evolution on Gardiner, retail and entertainment outlets including a large wave pool and safe swimming lagoon. The Chinatown project has also started with plans to construct Chinese-themed retail and dining outlets.[65]
 
 Tourism
 
-Charles_Darwin_National_Park.jpg]] Tourism is one of Darwin's largest industries. Tourism is a major industry and employment sector for the Northern Territory. In 2005/06, 1.38 million people visited the Northern Territory. They stayed for 9.2 million nights and spent over $1.5 billion.[66] The tourism industry directly employed 8,391 Territorians in June 2006 and when indirect employment is included, tourism typically accounts for more than 14,000 jobs across the Territory.
+]] Tourism is one of Darwin's largest industries. Tourism is a major industry and employment sector for the Northern Territory. In 2005/06, 1.38 million people visited the Northern Territory. They stayed for 9.2 million nights and spent over $1.5 billion.[66] The tourism industry directly employed 8,391 Territorians in June 2006 and when indirect employment is included, tourism typically accounts for more than 14,000 jobs across the Territory.
 
 Darwin is a hub for tours to Kakadu National Park,[67] Litchfield National Park[68] and Katherine Gorge. The Territory is traditionally divided into the wet and dry, but there are up to six traditional seasons in Darwin. It is warm and sunny from May to September. Humidity rises during the green season, from October to April bringing thunderstorms and monsoonal rains which rejuvenates the landscape. Tourism is largely seasonal with most tourists visiting during the cooler dry season which runs from April to September.
 
@@ -171,7 +167,7 @@ Education is overseen territory-wide by the Department of Education and Training
 
 Preschool, primary and secondary
 
-Darwin is served by a number of public and private schools that cater to local and overseas students. Over 16,500 primary and secondary students are enrolled in schools in Darwin, with 10,524 students attending primary education, and 5,932 students attending secondary education.[80] There are over 12,089 students enrolled in government schools and 2,124 students enrolled in independent schools.[81] CDU_library,_Casuarina.jpg's Library]]
+Darwin is served by a number of public and private schools that cater to local and overseas students. Over 16,500 primary and secondary students are enrolled in schools in Darwin, with 10,524 students attending primary education, and 5,932 students attending secondary education.[80] There are over 12,089 students enrolled in government schools and 2,124 students enrolled in independent schools.[81] 's Library]]
 
 There were 9,764 students attending schools in the City of Darwin area. 6,045 students attended primary schools and 3,719 students attended secondary schools. There are over 7,161 students enrolled in government schools and 1,108 students enrolled in independent schools.[82] There are over 35 primary and pre – schools, and 12 secondary schools including both government and non-government. Most schools in the city are secular, but there are a small number of Christian, Catholic and Lutheran institutions. Students intending to complete their secondary education can work towards either the Northern Territory Certificate of Education or the International Baccalaureate (only offered at Kormilda College). Schools have been restructured into Primary, Middle and High schools since the beginning of 2007.
 
@@ -182,11 +178,9 @@ Darwin's largest University is the Charles Darwin University, which is the centr
 
 Recreation and culture
 
-Darwin_2324.jpg
-
 Events and festivals
 
-Didgeridu_and_clap_sticks.jpg and clapstick players performing at the Seabreeze Festival]] On 1 July, Territorians celebrate Territory Day. This is the only day of the year, apart from the Chinese New Year and New Year's Eve, when fireworks are permitted. In Darwin, the main celebrations occur at Mindil Beach, where a large firework display is commissioned by the government.
+and clapstick players performing at the Seabreeze Festival]] On 1 July, Territorians celebrate Territory Day. This is the only day of the year, apart from the Chinese New Year and New Year's Eve, when fireworks are permitted. In Darwin, the main celebrations occur at Mindil Beach, where a large firework display is commissioned by the government.
 
 Weekly markets include Mindil Beach Sunset Markets[84] (Thursdays and Sundays during the dry season), Parap Market, Nightcliff Market and Rapid Creek market.[85] Mindil Beach Sunset Markets are very popular with locals and tourists alike and feature food, souvenirs, clothes and local performing artists.
 
@@ -204,7 +198,7 @@ The Royal Darwin Show is held annually in July at the Winnellie Showgrounds. Exh
 
 Arts and entertainment
 
-Darwin_6796.jpg The Darwin Symphony Orchestra was first assembled in 1989,[89] and has performed throughout the Territory. The Darwin Theatre Company is a locally produced professional theatre production company, performing locally and nationally.[90]
+The Darwin Symphony Orchestra was first assembled in 1989,[89] and has performed throughout the Territory. The Darwin Theatre Company is a locally produced professional theatre production company, performing locally and nationally.[90]
 
 The Darwin Entertainment Centre is the city's main concert venue and hosts theatre and orchestral performances.[91] Other theatres include the Darwin Convention Centre, opened in July 2008. The Darwin Convention Centre is part of the $1.1 billion Darwin Waterfront project.[92]
 
@@ -222,7 +216,7 @@ Mitchell Street in the central business district is lined with nightclubs, takea
 
 Recreation
 
-Darwin_2646.jpg The city has many kilometres of beaches, including the Casuarina Beach and renowned Mindil Beach, home of the Mindil Beach markets. Darwin City Council has designated an area of Casuarina Beach as a free beach which has been designated as a nudist beach area since 1976.[99] During the months of October–May the sea contains deadly box jellyfish, known locally as Stingers or Sea Wasps.
+The city has many kilometres of beaches, including the Casuarina Beach and renowned Mindil Beach, home of the Mindil Beach markets. Darwin City Council has designated an area of Casuarina Beach as a free beach which has been designated as a nudist beach area since 1976.[99] During the months of October–May the sea contains deadly box jellyfish, known locally as Stingers or Sea Wasps.
 
 Saltwater crocodiles are common in all waterways surrounding Darwin and are even occasionally found swimming in Darwin Harbour and on local beaches. An active trapping program is carried out by the NT Government to limit numbers of crocodiles within the Darwin urban waterway area.
 
@@ -252,7 +246,7 @@ The Darwin Cup culminating on the first Monday of August is a very popular horse
 
 Media
 
-The-gardens-nt.jpg]] Darwin's major newspapers are the _Northern Territory News_ (Monday – Saturday), _The Sunday Territorian_ (Sunday), and the national daily, _The Australian_ (Monday–Friday) and _The Weekend Australian_ (Saturday), all published by News Limited. Free weekly community newspapers include _Sun Newspapers_ (delivered in Darwin, Palmerston, and Litchfield), and published by the _NT News_.[105] Another newspaper, the _Centralian Advocate_ (1947-present) is printed in Darwin and trucked to Alice Springs.
+]] Darwin's major newspapers are the _Northern Territory News_ (Monday – Saturday), _The Sunday Territorian_ (Sunday), and the national daily, _The Australian_ (Monday–Friday) and _The Weekend Australian_ (Saturday), all published by News Limited. Free weekly community newspapers include _Sun Newspapers_ (delivered in Darwin, Palmerston, and Litchfield), and published by the _NT News_.[105] Another newspaper, the _Centralian Advocate_ (1947-present) is printed in Darwin and trucked to Alice Springs.
 
 Former publications in (or connected to) Darwin include:
 
@@ -272,8 +266,6 @@ Darwin has radio stations on both AM and FM frequencies. ABC stations include AB
 
 Infrastructure
 
-Royal_Darwin_Hospital.JPG
-
 Health
 
 The Government of the Northern Territory Department of Health and Families oversees one public hospital in the Darwin metropolitan region. The Royal Darwin Hospital, located in Tiwi, is the city's major teaching and referral hospital, and the largest in the Northern Territory.[107]
@@ -288,7 +280,7 @@ The Territory's public transport services are managed by the Department of Lands
 
 Darwin has no commuter rail system; however, long-distance passenger rail services do operate out of the city. The Alice Springs to Darwin rail line was completed in 2003 linking Darwin to Adelaide. The first service ran in 2004. The Ghan passenger train service from Adelaide via Alice Springs and Katherine runs once per week in each direction with some exceptions.[111]
 
-New_Darwin_Airport_Terminal_opening_in_December_1991.jpg in 1991]] Darwin International Airport, located in the suburb of Marrara, is Darwin's only airport, which shares its runways with the Royal Australian Air Force's RAAF Base Darwin.
+in 1991]] Darwin International Airport, located in the suburb of Marrara, is Darwin's only airport, which shares its runways with the Royal Australian Air Force's RAAF Base Darwin.
 
 Darwin can be reached via the Stuart Highway which runs the length of the Northern Territory from Darwin through Katherine, Tennant Creek, Alice Springs and on to Adelaide. Other major roads in Darwin include, Tiger Brennan Drive, Amy Johnson Avenue, Dick Ward Drive, Bagot Road, Trower Road and McMillans Road. Bus service in the greater Darwin area is served by Darwinbus.
 

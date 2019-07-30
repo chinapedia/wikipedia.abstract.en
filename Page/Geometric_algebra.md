@@ -36,7 +36,7 @@ It is usual to identify 1 ∈ R with 1 ∈ 𝒢(p, q), with associated
 
 The geometric product
 
-GA_parallel_and_perpendicular_vectors.svg For vectors a and b, we may write the geometric product of any two vectors a and b as the sum of a symmetric product and an antisymmetric product:
+For vectors a and b, we may write the geometric product of any two vectors a and b as the sum of a symmetric product and an antisymmetric product:
 
 $$ab=\frac{1}{2}(ab+ba)+\frac{1}{2}(ab-ba)$$
 
@@ -293,7 +293,7 @@ Conformal model
 
 A compact description of the current state of the art is provided by , which also includes further references, in particular to . Other useful references are and .
 
-Conformal_Embedding.svg Working within GA, Euclidean space ℰ³ (along with a conformal point at infinity) is embedded projectively in the CGA 𝒢(4, 1) via the identification of Euclidean points with 1-d subspaces in the 4-d null cone of the 5-d CGA vector subspace. This allows all conformal transformations to be done as rotations and reflections and is covariant, extending incidence relations of projective geometry to circles and spheres.
+Working within GA, Euclidean space ℰ³ (along with a conformal point at infinity) is embedded projectively in the CGA 𝒢(4, 1) via the identification of Euclidean points with 1-d subspaces in the 4-d null cone of the 5-d CGA vector subspace. This allows all conformal transformations to be done as rotations and reflections and is covariant, extending incidence relations of projective geometry to circles and spheres.
 
 Specifically, we add orthogonal basis vectors e₊ and e_(−) such that e₊² =  + 1 and e_(−)² =  − 1 to the basis of the vector space that generates 𝒢(3, 0) and identify null vectors
 
@@ -321,8 +321,6 @@ Geometric interpretation
 
 Projection and rejection
 
-GA_plane_subspace_and_projection.svg
-
 For any vector a and any invertible vector m,
 
 _a_ = _a__m__m_^( − 1) = (_a_ ⋅ _m_ + _a_ ∧ _m_)_m_^( − 1) = _a__(∥_m_) + _a__( ⊥ _m_),
@@ -345,8 +343,6 @@ The projection and rejection generalize to null blades B by replacing the invers
 Reflection
 
 Simple reflections in a hyperplane are readily expressed in the algebra through conjugation with a single vector. These serve to generate the group of general rotoreflections and rotations.
-
-GA_reflection_along_vector.svg
 
 The reflection c′ of a vector c along a vector m, or equivalently in the hyperplane orthogonal to m, is the same as negating the component of a vector parallel to m. The result of the reflection will be
 
@@ -373,8 +369,6 @@ _A_ ↦ _M__α_(_A_)_M_^( − 1),
 where α is the automorphism of reflection through the origin of the vector space (v ↦  − v) extended through linearity to the whole algebra.
 
 Rotations
-
-GA_planar_rotations.svg
 
 If we have a product of vectors R = a₁a₂⋯a_(r) then we denote the reverse as
 
@@ -439,8 +433,6 @@ Similar interpretations are true for any number of vectors spanning an n-dimensi
 
 Intersection of a line and a plane
 
-LinePlaneIntersect.png
-
 We may define the line parametrically by p = t + α v where p and t are position vectors for points P and T and v is the direction vector for the line.
 
 Then
@@ -455,7 +447,7 @@ $$p = t + \left(\frac{B \wedge (q-t)}{B \wedge v}\right) v.$$
 
 Rotating systems
 
-The mathematical description of rotational forces such as torque and angular momentum often makes use of the cross product of vector calculus in three dimensions with a convention of orientation (handedness). Exterior_calc_cross_product.svg
+The mathematical description of rotational forces such as torque and angular momentum often makes use of the cross product of vector calculus in three dimensions with a convention of orientation (handedness).
 
 The cross product can be viewed in terms of the exterior product allowing a more natural geometric interpretation of the cross product as a bivector using the dual relationship
 

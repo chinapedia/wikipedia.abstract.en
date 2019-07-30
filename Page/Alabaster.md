@@ -1,10 +1,10 @@
-Lioness_Bast_cosmetic_jar_83d40m_tut_burial_artifact.JPG; from the tomb of Tutankhamun (d. 1323 BC). Egyptian Museum, Cairo.]]
+; from the tomb of Tutankhamun (d. 1323 BC). Egyptian Museum, Cairo.]]
 
 ALABASTER is a mineral or rock that is soft, often used for carving, and is processed for plaster powder. Archaeologists and the stone processing industry use the word differently from geologists. The former use is in a wider sense that includes varieties of two different minerals: the fine-grained massive type of gypsum[1] and the fine-grained banded type of calcite.[2] Geologists define alabaster only as the gypsum type.[3] Chemically, gypsum is a hydrous sulfate of calcium, while calcite is a carbonate of calcium.[4]
 
 Both types of alabaster have similar properties. They are usually lightly colored, translucent, and soft stones. They have been used throughout history primarily for carving decorative artifacts.[5]
 
-The calcite type is also denominated "ONYX-MARBLE", "EGYPTIAN ALABASTER", and "ORIENTAL ALABASTER" and is geologically described as either a compact banded travertine[6] or "a stalagmitic limestone marked with patterns of swirling bands of cream and brown".[7] "Onyx-marble" is a traditional, but geologically inaccurate, name because both onyx and marble have geological definitions that are distinct from even the broadest definition of "alabaster". Septimius_Severus_busto-Musei_Capitolini.jpg at the Musei Capitolini, Rome]]
+The calcite type is also denominated "ONYX-MARBLE", "EGYPTIAN ALABASTER", and "ORIENTAL ALABASTER" and is geologically described as either a compact banded travertine[6] or "a stalagmitic limestone marked with patterns of swirling bands of cream and brown".[7] "Onyx-marble" is a traditional, but geologically inaccurate, name because both onyx and marble have geological definitions that are distinct from even the broadest definition of "alabaster". at the Musei Capitolini, Rome]]
 
 In general, ancient alabaster is calcite in the wider Middle East, including Egypt and Mesopotamia, while it is gypsum in medieval Europe. Modern alabaster is probably calcite but may be either. Both are easy to work and slightly soluble in water. They have been used for making a variety of indoor artwork and carving, and they will not survive long outdoors.
 
@@ -18,7 +18,7 @@ The two kinds are readily distinguished by their different hardnesses: gypsum al
 
 Etymology
 
-MorellaSantaMariaWindow.jpg, Spain (built 13th-16th centuries)]] The origin of "alabaster" is in Middle English through Old French "_alabastre_", in turn derived from Latin "_alabaster_", and that from Greek "_ἀλάβαστρος_" ("_alabastros_") or "_ἀλάβαστος_" ("_alabastos_"). The Greek words denoted a vase of alabaster.[8]
+, Spain (built 13th-16th centuries)]] The origin of "alabaster" is in Middle English through Old French "_alabastre_", in turn derived from Latin "_alabaster_", and that from Greek "_ἀλάβαστρος_" ("_alabastros_") or "_ἀλάβαστος_" ("_alabastos_"). The Greek words denoted a vase of alabaster.[8]
 
 The name may be derived further from ancient Egyptian "_a-labaste_", which refers to vessels of the Egyptian goddess Bast. She was represented as a lioness and frequently depicted as such in figures placed atop these alabaster vessels.[9][10] Ancient Roman authors, Pliny the Elder and Ptolemy, wrote that the stone used for ointment jars called _alabastra_ came from a region of Egypt known as Alabastron or Alabastrites.[11][12]
 
@@ -32,7 +32,7 @@ The softness of alabaster enables it to be carved readily into elaborate forms, 
 
 Modern processing
 
-Alabastro_z05.JPG, Italy]]
+, Italy]]
 
 Working techniques
 
@@ -49,7 +49,7 @@ Alabaster is a porous stone and can be "dyed" into any colour or shade, a techni
 
 Types, occurrence, history
 
-Alabaster_Perfume_Jar.jpg, d. 1323 BC]] Typically only one type is sculpted in any particular cultural environment, but sometimes both have been worked to make similar pieces in the same place and time. This was the case with small flasks of the alabastron type made in Cyprus from the Bronze Age into the Classical period.[23]
+, d. 1323 BC]] Typically only one type is sculpted in any particular cultural environment, but sometimes both have been worked to make similar pieces in the same place and time. This was the case with small flasks of the alabastron type made in Cyprus from the Bronze Age into the Classical period.[23]
 
 Window panels
 
@@ -57,7 +57,7 @@ When cut in thin sheets, alabaster is translucent enough to be used for small wi
 
 Calcite alabaster
 
-Calcite_dish._From_Royal_Tomb_"U",_Semerkhet,_at_Abydos,_Egypt._1st_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology,_London.jpg]]
+]]
 
 Calcite alabaster, harder than the gypsum variety, was the kind primarily used in ancient Egypt and the wider Middle East (but not Assyrian palace reliefs), and is also used in modern times. It is found as either a stalagmitic deposit from the floor and walls of limestone caverns, or as a kind of travertine, similarly deposited in springs of calcareous water. Its deposition in successive layers gives rise to the banded appearance that the marble often shows on cross-section, from which its name is derived: onyx-marble or alabaster-onyx, or sometimes simply (and wrongly) as onyx.[26]
 
@@ -81,7 +81,7 @@ Gypsum alabaster is the softer of the two varieties, the other being calcite ala
 
 Ancient and Classical Near East
 
-The_Royal_lion_hunt_reliefs_from_the_Assyrian_palace_at_Nineveh,_a_dying_male_lion,_about_645-635_BC,_British_Museum_(12254756385).jpg'', 7th century BC, British Museum]] "Mosul marble" is a kind of gypsum alabaster found in the north of modern Iraq, which was used for the Assyrian palace reliefs of the 9th to 7th centuries BC; these are the largest type of alabaster sculptures to have been regularly made. The relief is very low and the carving detailed, but large rooms were lined with continuous compositions on slabs around high. The _Lion Hunt of Ashurbanipal_ and military Lachish reliefs, both 7th century and in the British Museum, are some of the best known.
+'', 7th century BC, British Museum]] "Mosul marble" is a kind of gypsum alabaster found in the north of modern Iraq, which was used for the Assyrian palace reliefs of the 9th to 7th centuries BC; these are the largest type of alabaster sculptures to have been regularly made. The relief is very low and the carving detailed, but large rooms were lined with continuous compositions on slabs around high. The _Lion Hunt of Ashurbanipal_ and military Lachish reliefs, both 7th century and in the British Museum, are some of the best known.
 
 Gypsum alabaster was widely used for small sculpture for indoor use in the ancient world, especially in ancient Egypt and Mesopotamia. Fine detail could be obtained in a material with an attractive finish without iron or steel tools. Alabaster was used for vessels dedicated for use in the cult of the deity Bast in the culture of the ancient Egyptians, and thousands of gypsum alabaster artifacts dating to the late 4th millennium BC also have been found in Tell Brak (present day Nagar), in Syria.[31]
 
@@ -97,7 +97,7 @@ The oldest remains in the Aljafería Palace, together with other interesting ele
 
 Volterra (Tuscany)
 
-alabaster.whole.600pix.jpg In Europe, the centre of the alabaster trade today is Florence, Italy. Tuscan alabaster occurs in nodular masses embedded in limestone, interstratified with marls of Miocene and Pliocene age. The mineral is worked largely by means of underground galleries, in the district of Volterra. Several varieties are recognized—veined, spotted, clouded, agatiform, and others. The finest kind, obtained principally from Castellina, is sent to Florence for figure-sculpture, while the common kinds are carved locally, into vases, lights, and various ornamental objects. These items are objects of extensive trade, especially in Florence, Pisa, and Livorno.[44]
+In Europe, the centre of the alabaster trade today is Florence, Italy. Tuscan alabaster occurs in nodular masses embedded in limestone, interstratified with marls of Miocene and Pliocene age. The mineral is worked largely by means of underground galleries, in the district of Volterra. Several varieties are recognized—veined, spotted, clouded, agatiform, and others. The finest kind, obtained principally from Castellina, is sent to Florence for figure-sculpture, while the common kinds are carved locally, into vases, lights, and various ornamental objects. These items are objects of extensive trade, especially in Florence, Pisa, and Livorno.[44]
 
 In the 3rd century BC the Etruscans used the alabaster of Tuscany from the area of modern-day Volterra to produce funeral urns, possibly taught by Greek artists.[45] During the Middle Ages the craft of alabaster was almost completely forgotten.[46] A revival started in the mid-16th century, and until the beginning of the 17th century alabaster work was strictly artistic and did not expand to form a large industry.[47]
 
@@ -107,7 +107,7 @@ In the 19th century new processing technology was also introduced, allowing for 
 
 England and Wales
 
-English_-_Resurrection_-_Walters_27308.jpg, typical Nottingham alabaster panel from an altarpiece set, 1450–1490, with remains of the paint]] Gypsum alabaster is a common mineral, which occurs in England in the Keuper marls of the Midlands, especially at Chellaston in Derbyshire, at Fauld in Staffordshire, and near Newark in Nottinghamshire. Deposits at all of these localities have been worked extensively.[53]
+, typical Nottingham alabaster panel from an altarpiece set, 1450–1490, with remains of the paint]] Gypsum alabaster is a common mineral, which occurs in England in the Keuper marls of the Midlands, especially at Chellaston in Derbyshire, at Fauld in Staffordshire, and near Newark in Nottinghamshire. Deposits at all of these localities have been worked extensively.[53]
 
 In the 14th and 15th centuries its carving into small statues and sets of relief panels for altarpieces was a valuable local industry in Nottingham, as well as a major English export. These were usually painted, or partly painted. It was also used for the effigies, often life size, on tomb monuments, as the typical recumbent position suited the material's lack of strength, and it was cheaper and easier to work than good marble. After the English Reformation the making of altarpiece sets was discontinued, but funerary monument work in reliefs and statues continued.
 

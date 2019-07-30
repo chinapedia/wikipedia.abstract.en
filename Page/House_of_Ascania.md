@@ -5,7 +5,7 @@ The Ascanians are named after Ascania (or Ascaria) Castle, known as _Schloss Ask
 
 History
 
-Schloss_Ballenstedt,_Hofseite.JPG Castle]] Map_of_Anhalt_(1747-1793).svg The earliest known member of the house, Esiko, Count of Ballenstedt, first appears in a document of 1036. He is assumed to have been a grandson (through his mother) of Odo I, Margrave of the Saxon Ostmark. From Odo, the Ascanians inherited large properties in the Saxon Eastern March.
+Castle]] The earliest known member of the house, Esiko, Count of Ballenstedt, first appears in a document of 1036. He is assumed to have been a grandson (through his mother) of Odo I, Margrave of the Saxon Ostmark. From Odo, the Ascanians inherited large properties in the Saxon Eastern March.
 
 Esiko's grandson was Otto, Count of Ballenstedt, who died in 1123. By Otto's marriage to Eilika, daughter of Magnus, Duke of Saxony, the Ascanians became heirs to half of the property of the House of Billung, former dukes of Saxony.
 

@@ -33,7 +33,7 @@ Hammerhead sharks are known to eat a large range of prey such as fish (including
 
 Species
 
-Hammerhead_shark,_Cocos_Island,_Costa_Rica.jpgn hammerhead shark]]
+n hammerhead shark]]
 
   Species              Common names           IUCN status
   -------------------- ---------------------- ------------------------
@@ -50,15 +50,15 @@ Hammerhead_shark,_Cocos_Island,_Costa_Rica.jpgn hammerhead shark]]
 
 Relationship with humans
 
-Hammerhead_Atlantis.jpg]]
+]]
 
-According to the International Shark Attack File, humans have been subject to 17 documented, unprovoked attacks by hammerhead sharks within the genus _Sphyrna_ since 1580 AD. No human fatalities have been recorded.[28] A_man_carries_a_huge_hammerhead_through_the_streets_of_Mogadishu_(edit).jpg, Somalia.]] The great and the scalloped hammerheads are listed on the World Conservation Union's (IUCN) 2008 Red List as endangered, whereas the smalleye hammerhead is listed as vulnerable. The status given to these sharks is as a result of overfishing and demand for their fins, an expensive delicacy. Among others, scientists expressed their concern about the plight of the scalloped hammerhead at the American Association for the Advancement of Science annual meeting in Boston. The young swim mostly in shallow waters along shores all over the world to avoid predators.
+According to the International Shark Attack File, humans have been subject to 17 documented, unprovoked attacks by hammerhead sharks within the genus _Sphyrna_ since 1580 AD. No human fatalities have been recorded.[28] , Somalia.]] The great and the scalloped hammerheads are listed on the World Conservation Union's (IUCN) 2008 Red List as endangered, whereas the smalleye hammerhead is listed as vulnerable. The status given to these sharks is as a result of overfishing and demand for their fins, an expensive delicacy. Among others, scientists expressed their concern about the plight of the scalloped hammerhead at the American Association for the Advancement of Science annual meeting in Boston. The young swim mostly in shallow waters along shores all over the world to avoid predators.
 
 Shark fins are prized as a delicacy in certain countries in Asia (such as China), and overfishing is putting many hammerhead sharks at risk of extinction. Fishermen who harvest the animals typically cut off the fins and toss the remainder of the fish, which is often still alive, back into the sea.[29] This practice, known as finning, is lethal to the shark.
 
 In native Hawaiian culture, sharks are considered to be gods of the sea, protectors of humans, and cleaners of excessive ocean life. Some of these sharks are believed to be family members who died and have been reincarnated into shark form. However, some sharks are considered man-eaters, also known as _niuhi_. These sharks include great white sharks, tiger sharks, and bull sharks. The hammerhead shark, also known as _mano kihikihi_, is not considered a man-eater or _niuhi_; it is considered to be one of the most respected sharks of the ocean, an _aumakua_. Many Hawaiian families believe that they have an _aumakua_ watching over them and protecting them from the _niuhi_. The hammerhead shark is thought to be the birth animal of some children. Hawaiian children who are born with the hammerhead shark as an animal sign are believed to be warriors and are meant to sail the oceans. Hammerhead sharks rarely pass through the waters of Maui, but many Maui natives believe that their swimming by is a sign that the gods are watching over the families, and the oceans are clean and balanced.[30]
 
-Scalloped_hammerhead-tokyosealifepark-2019-1-8.webm swimming.]]
+swimming.]]
 
 In captivity
 

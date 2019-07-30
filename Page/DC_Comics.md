@@ -23,7 +23,7 @@ Golden Age
 
 National Allied Publications soon merged with Detective Comics, Inc., forming National Comics Publications on September 30, 1946.[18] National Comics Publications absorbed an affiliated concern, Max Gaines' and Liebowitz' All-American Publications. In the same year Gaines let Liebowitz buy him out, and kept only _Picture Stories from the Bible_ as the foundation of his own new company, EC Comics. At that point, "Liebowitz promptly orchestrated the merger of All-American and Detective Comics into National Comics... Next he took charge of organizing National Comics, [the self-distributorship] Independent News, and their affiliated firms into a single corporate entity, NATIONAL PERIODICAL PUBLICATIONS".[19] National Periodical Publications became publicly traded on the stock market in 1961.[20][21]
 
-Despite the official names "National Comics" and "National Periodical Publications", the company began branding itself as "Superman-DC" as early as 1940, and the company became known colloquially as DC Comics for years before the official adoption of that name in 1977.[22] C._C._Beck.jpg (1910–1989) at the October 1982 Minneapolis Comic-Con. DC purchased many of their competitors' comic stables, including Fawcett Comics, whose Beck-created Captain Marvel was central to a lawsuit with DC.]]
+Despite the official names "National Comics" and "National Periodical Publications", the company began branding itself as "Superman-DC" as early as 1940, and the company became known colloquially as DC Comics for years before the official adoption of that name in 1977.[22] (1910–1989) at the October 1982 Minneapolis Comic-Con. DC purchased many of their competitors' comic stables, including Fawcett Comics, whose Beck-created Captain Marvel was central to a lawsuit with DC.]]
 
 The company began to move aggressively against what it saw as copyright-violating imitations from other companies, such as Fox Comics' Wonder Man, which (according to court testimony) Fox started as a copy of Superman. This extended to DC suing Fawcett Comics over Captain Marvel, at the time comics' top-selling character (see _National Comics Publications, Inc. v. Fawcett Publications, Inc._). Faced with declining sales and the prospect of bankruptcy if it lost, Fawcett capitulated in 1953 and ceased publishing comics. Years later, Fawcett sold the rights for Captain Marvel to DC—which in 1972 revived Captain Marvel in the new title _Shazam!_ featuring artwork by his creator, C. C. Beck. In the meantime, the abandoned trademark had been seized by Marvel Comics in 1967, with the creation of their Captain Marvel, forbidding the DC comic itself to be called that. While Captain Marvel did not recapture his old popularity, he later appeared in a Saturday morning live action TV adaptation and gained a prominent place in the mainstream continuity DC calls the DC Universe.
 
@@ -135,7 +135,7 @@ With frustration over DC Films not matching Marvel Studios' results and Berg wan
 
 Logo
 
-dc_variantlogo.jpg upright=0.55 upright=0.55 upright=0.55
+upright=0.55 upright=0.55 upright=0.55
 
 DC's first logo appeared on the April 1940 issues of its titles. The letters "DC" stood for _Detective Comics_, the name of Batman's flagship title. The small logo, with no background, read simply, "A DC Publication".
 

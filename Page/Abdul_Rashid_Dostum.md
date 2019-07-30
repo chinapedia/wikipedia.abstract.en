@@ -36,7 +36,7 @@ Much like other Northern Alliance leaders, Dostum also faced infighting within h
 
 Operation Enduring Freedom
 
-Abdul_Rashid_Dostum_VOA_Jan_22_2002_retouched.jpg Dostum returned to Afghanistan in May 2001 to open up an new front before the U.S.-led campaign against the Taliban joined him, along with Commander Massoud, Ismail Khan and Mohammad Mohaqiq.[24] In November 2001, with the beginning of the U.S. invasion of Afghanistan, and against the wishes of the CIA who distrusted Dostum, a team including Johnny Micheal Spann landed to set up communications in Dar-e-Suf. A few hours later 12 men of Operational Detachment Alpha (ODA) 595 landed to begin the war.[25][26]
+Dostum returned to Afghanistan in May 2001 to open up an new front before the U.S.-led campaign against the Taliban joined him, along with Commander Massoud, Ismail Khan and Mohammad Mohaqiq.[24] In November 2001, with the beginning of the U.S. invasion of Afghanistan, and against the wishes of the CIA who distrusted Dostum, a team including Johnny Micheal Spann landed to set up communications in Dar-e-Suf. A few hours later 12 men of Operational Detachment Alpha (ODA) 595 landed to begin the war.[25][26]
 
 On 24 November 2001, 15,000 Taliban soldiers surrendered after the Siege of Kunduz to American and Northern Alliance forces. The Taliban laid down their weapons a few miles from the city of Mazar-i-Sharif, and eventually surrendered to Dostum. A small group of armed foreign fighters were transferred to the 19th century garrison fortress, Qala-i-Jangi. The Taliban used concealed weapons to start the Battle of Qala-i-Jangi against the guards. The uprising was eventually brought under control.
 

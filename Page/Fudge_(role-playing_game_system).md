@@ -25,13 +25,13 @@ With the publication of the Expanded Edition in 2000, the fad for acronym-based 
 
 Game mechanics
 
-FUDGE_4dF_probability.svg In _Fudge_, character Traits such as Attributes and Skills, are rated on a seven-level, ascending adjective scale: _Terrible, Poor, Mediocre, Fair, Good, Great,_ and _Superb._
+In _Fudge_, character Traits such as Attributes and Skills, are rated on a seven-level, ascending adjective scale: _Terrible, Poor, Mediocre, Fair, Good, Great,_ and _Superb._
 
 _Fudge_ characters can also have Gifts and Faults, which are positive and negative traits that do not fit into the adjective scale.
 
 Fudge dice
 
-White_Fudge_Dice.jpg _Fudge_ uses customized "_Fudge_ dice" which have an equal number of plus, minus and blank sides. A number of these dice are rolled, usually four at a time ("4dF" in Fudge dice notation), and for every plus side that comes up the result of using the Trait is considered one step higher (e.g. from _Fair_ to _Good_) and for every minus side that comes up the result is considered one step lower. The goal is to match or surpass the difficulty level, also on the adjective scale, of the test. Thus, a _Good_ attribute is considered to be _Great_ if the player were to roll two plus sides, one minus side, and one blank—the minus side cancels out one of the plus sides and the remaining plus side raises the result by one step. The same _Good_ attribute would be considered _Poor_ if you were to roll three minus sides and one blank. The same dice roll can be achieved with six-sided dice, treating a 1 or 2 as [−], a 3-4 as [ ] and a 5-6 as [+].
+_Fudge_ uses customized "_Fudge_ dice" which have an equal number of plus, minus and blank sides. A number of these dice are rolled, usually four at a time ("4dF" in Fudge dice notation), and for every plus side that comes up the result of using the Trait is considered one step higher (e.g. from _Fair_ to _Good_) and for every minus side that comes up the result is considered one step lower. The goal is to match or surpass the difficulty level, also on the adjective scale, of the test. Thus, a _Good_ attribute is considered to be _Great_ if the player were to roll two plus sides, one minus side, and one blank—the minus side cancels out one of the plus sides and the remaining plus side raises the result by one step. The same _Good_ attribute would be considered _Poor_ if you were to roll three minus sides and one blank. The same dice roll can be achieved with six-sided dice, treating a 1 or 2 as [−], a 3-4 as [ ] and a 5-6 as [+].
 
 There are also several alternative dice systems available that use ten-sided dice, coins, or playing cards.
 

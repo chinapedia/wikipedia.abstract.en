@@ -25,16 +25,12 @@ The Department of Defense conducted an extensive evaluation of air combat tactic
 
 Requirements
 
-CATM_120C_AMRAAM_p1230119.jpg
-
 By the 1990s, the reliability of the Sparrow had improved so much from the dismal days of Vietnam that it accounted for the largest number of aerial targets destroyed in Desert Storm. But while the USAF had passed on the Phoenix and their own similar AIM-47/YF-12 to optimize dogfight performance, they still needed a multiple-launch fire-and-forget capability for the F-15 and F-16. AMRAAM would need to be fitted on fighters as small as the F-16, and fit in the same spaces that were designed to fit the Sparrow on the F-4 Phantom. The European partners needed AMRAAM to be integrated on aircraft as small as the Sea Harrier. The US Navy needed AMRAAM to be carried on the F/A-18 Hornet and wanted capability for two to be carried on a launcher that normally carried one Sparrow to allow for more air-to-ground weapons.
 
 The AMRAAM became one of the primary air-to-air weapons of the new F-22 Raptor fighter, which needed to place all of its weapons into internal weapons bays in order to help achieve an extremely low radar cross-section.
 
 
 Development
-
-AIM-120_first_kill.jpg
 
 AMRAAM was developed as the result of an agreement (the Family of Weapons MOA, no longer in effect by 1990), among the United States and several other NATO nations to develop air-to-air missiles and to share production technology. Under this agreement the U.S. was to develop the next generation medium range missile (AMRAAM) and Europe would develop the next generation short range missile (ASRAAM). Although Europe initially adopted the AMRAAM, an effort to develop the Meteor, a competitor to AMRAAM, was begun in Great Britain. Eventually the ASRAAM was developed solely by the British, but using another source for its infrared seeker. After protracted development, the deployment of AMRAAM (AIM-120A) began in September 1991 in US Air Force F-15 Eagle fighter squadrons. The US Navy soon followed (in 1993) in its F/A-18 Hornet squadrons.
 
@@ -54,7 +50,7 @@ Guidance system overview
 
 Interception course stage
 
-F-14_carrying_AMRAAM.jpg carrying an AMRAAM during a 1982 test]]
+carrying an AMRAAM during a 1982 test]]
 
 AMRAAM uses two-stage guidance when fired at long range. The aircraft passes data to the missile just before launch, giving it information about the location of the target aircraft from the launch point and its direction and speed. The missile uses this information to fly on an interception course to the target using its built-in inertial navigation system (INS). This information is generally obtained using the launching aircraft's radar, although it could come from an infra-red search and track system, from a data link from another fighter aircraft, or from an AWACS aircraft.
 
@@ -80,7 +76,7 @@ The kill probability (P_(k)) is determined by several factors, including aspect 
 
 Variants and upgrades
 
-Aim_120_amraam_missile_20040710_145603_1.4.jpg F-22_GBU39B_AIM-120_m02006120800117.jpg]]
+]]
 
 Air-to-air missile versions
 
@@ -101,8 +97,6 @@ The -120A and -120B models are currently nearing the end of their service life w
 In 2017, work on the AIM-260 JOINT ADVANCED TACTICAL MISSILE (JATM) began to create a longer-ranged replacement for the AMRAAM to contend with foreign weapons like the PL-15. Flight tests are planned to begin in 2021 and initial operational capability is slated for 2022, facilitating the end of AMRAAM production by 2026.[17]
 
 Ground-launched systems
-
-AIM-120_AMRAAM_P6230147.JPG AMRAAM-ER.jpg
 
 Raytheon successfully tested launching AMRAAM missiles from a five-missile carrier on a M1097 Humvee. This system will be known as the SLAMRAAM (Surface Launched (SL) and AMRAAM). They receive their initial guidance information from a radar not mounted on the vehicle. Since the missile is launched without the benefit of an aircraft's speed or high altitude, its range is considerably shorter. Raytheon is currently marketing an SL-AMRAAM EX, purported to be an extended range AMRAAM and bearing a resemblance to the RIM-162 ESSM.
 
@@ -154,8 +148,6 @@ In March 2016, the US government approved the sales of AIM-120C-7 missiles to th
 
 
 Operators
-
-AIM-120_operators.png
 
 Current operators
 

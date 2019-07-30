@@ -35,14 +35,14 @@ Support crew
 
 Mission insignia
 
-Apollo_17_Flown_Silver_Robbins_Medallion_(SN-F39).jpg]] The insignia's most prominent feature is an image of the Greek sun god Apollo backdropped by a rendering of an American eagle, the red bars on the eagle mirroring those on the flag of the United States. Three white stars above the red bars represent the three crewmen of the mission. The background includes the Moon, the planet Saturn, and a galaxy or nebula. The wing of the eagle partially overlays the Moon, suggesting man's established presence there. The gaze of Apollo and the direction of the eagle's motion embody man's intention to explore further destinations in space.[20]
+]] The insignia's most prominent feature is an image of the Greek sun god Apollo backdropped by a rendering of an American eagle, the red bars on the eagle mirroring those on the flag of the United States. Three white stars above the red bars represent the three crewmen of the mission. The background includes the Moon, the planet Saturn, and a galaxy or nebula. The wing of the eagle partially overlays the Moon, suggesting man's established presence there. The gaze of Apollo and the direction of the eagle's motion embody man's intention to explore further destinations in space.[20]
 
 The patch includes, along with the colors of the U.S. flag (red, white, and blue), the color gold, representative of a "golden age" of spaceflight that was to begin with Apollo 17. The image of Apollo in the mission insignia is a rendering of the _Apollo Belvedere_ sculpture. The insignia was designed by Robert McCall, with input from the crew.[21]
 
 
 Planning and training
 
-Apollo_17_-_Gene_Cernan_training_in_Sudbury.jpg, in May 1972]] Like Apollo 15 and Apollo 16, Apollo 17 was slated to be a "J-mission", an Apollo mission type that featured lunar surface stays of three days, higher scientific capability, and the usage of the Lunar Roving Vehicle. Since Apollo 17 was to be the final lunar landing of the Apollo program, high-priority landing sites that had not been visited previously were given consideration for potential exploration. A landing in the crater Copernicus was considered, but was ultimately rejected because Apollo 12 had already obtained samples from that impact, and three other Apollo expeditions had already visited the vicinity of Mare Imbrium. A landing in the lunar highlands near the crater Tycho was also considered, but was rejected because of the rough terrain found there and a landing on the lunar far side in the crater Tsiolkovskiy was rejected due to technical considerations and the operational costs of maintaining communication during surface operations. A landing in a region southwest of Mare Crisium was also considered, but rejected on the grounds that a Soviet spacecraft could easily access the site; Luna 21 eventually did so shortly after the Apollo 17 site selection was made.[22]
+, in May 1972]] Like Apollo 15 and Apollo 16, Apollo 17 was slated to be a "J-mission", an Apollo mission type that featured lunar surface stays of three days, higher scientific capability, and the usage of the Lunar Roving Vehicle. Since Apollo 17 was to be the final lunar landing of the Apollo program, high-priority landing sites that had not been visited previously were given consideration for potential exploration. A landing in the crater Copernicus was considered, but was ultimately rejected because Apollo 12 had already obtained samples from that impact, and three other Apollo expeditions had already visited the vicinity of Mare Imbrium. A landing in the lunar highlands near the crater Tycho was also considered, but was rejected because of the rough terrain found there and a landing on the lunar far side in the crater Tsiolkovskiy was rejected due to technical considerations and the operational costs of maintaining communication during surface operations. A landing in a region southwest of Mare Crisium was also considered, but rejected on the grounds that a Soviet spacecraft could easily access the site; Luna 21 eventually did so shortly after the Apollo 17 site selection was made.[22]
 
 After the elimination of several sites, three sites made the final consideration for Apollo 17: Alphonsus crater, Gassendi crater, and the Taurus-Littrow valley. In making the final landing site decision, mission planners took into consideration the primary objectives for Apollo 17: obtaining old highlands material from a substantial distance from Mare Imbrium, sampling material from young volcanic activity (i.e., less than three billion years), and having minimal ground overlap with the orbital ground tracks of Apollo 15 and Apollo 16 to maximize the amount of new data obtained.[23]
 
@@ -61,8 +61,6 @@ The TGE was carried on the Lunar Roving Vehicle; measurements were taken by the 
 
 Scientific instrument module
 
-Apollo_17_CSM_SIM_bay.jpg
-
 Sector one of the Apollo 17 SM contained the scientific instrument module (SIM) bay. The SIM bay housed three experiments for use in lunar orbit: a lunar sounder, an infrared scanning radiometer, and a far-ultraviolet spectrometer. A mapping camera, panoramic camera, and a laser altimeter were also included in the SIM bay.[29]
 
 The lunar sounder beamed electromagnetic impulses toward the lunar surface, which were designed with the objective of obtaining data to assist in developing a geological model of the interior of the Moon to an approximate depth of .[30]
@@ -80,8 +78,6 @@ Throughout the Apollo lunar missions, the crew members observed light flashes th
 The Apollo 17 crew conducted an experiment, also conducted on Apollo 16, with the objective of linking these light flashes with cosmic rays. As part of an experiment conducted by NASA and the University of Houston, one astronaut wore a device that recorded the time, strength, and path of high-energy atomic particles that penetrated the device. Analysis of the results concluded that the evidence supported the hypothesis that the flashes occurred when charged particles travelled through the retina in the eye.[35][36]
 
 Surface electrical properties experiment
-
-Apollo_17_rover_at_final_resting_site.jpg
 
 Apollo 17 was the only lunar surface expedition to include the surface electrical properties (SEP) experiment. The experiment included two major components: a transmitting antenna deployed near the lunar module and a receiving antenna located on the Lunar Roving Vehicle. At different stops during the mission's traverses, electrical signals traveled from the transmitting device, through the ground, and received at the LRV. The electrical properties of the lunar soil could be determined by comparison of the transmitted and received electrical signals. The results of this experiment, which are consistent with lunar rock composition, show that the top of the Moon are extremely dry.[37]
 
@@ -104,8 +100,6 @@ Mission highlights
 
 Launch and outbound trip
 
-Apollo_17_liftoff.jpg
-
 Apollo 17 was the last crewed Saturn V launch and the only night launch. The launch was delayed by two hours and forty minutes due to an automatic cutoff in the launch sequencer at the T-30 second mark in the countdown. The issue was quickly determined to be a minor technical error. The clock was reset and held at the T-22 minute mark while technicians worked around the malfunction in order to continue with the launch. This pause was the only launch delay in the Apollo program caused by this type of hardware failure. The count then resumed, and the liftoff occurred at 12:33 am EST.[48][49]
 
 Approximately 500,000 people were estimated to have observed the launch in the immediate vicinity of Kennedy Space Center, despite the early morning hour. The launch was visible as far away as ; observers in Miami, Florida, saw a "red streak" crossing the northern sky.[50]
@@ -122,21 +116,19 @@ Soon after completing their preparations for landing, Cernan and Schmitt began t
 
 Lunar surface
 
-Apollo_17_Cernan_on_moon.jpg on the lunar surface, December 13, 1972]]
+on the lunar surface, December 13, 1972]]
 
 The first moonwalk (EVA) of the mission began approximately four hours after landing, at about 6:55 pm on December 11. The first task of the first lunar excursion was to offload the Lunar Roving Vehicle and other equipment from the LM. While working near the rover, a fender was accidentally broken off when Gene Cernan brushed up against it, his hammer getting caught under the right-rear fender, breaking off the rear extension. The same incident had also occurred on Apollo 16 as Commander John Young maneuvered around the rover. Although this was not a mission-critical issue, the loss of the fender caused Cernan and Schmitt to be covered with dust thrown up when the rover was in motion.[57] The crew used duct tape to fix the problem by attaching a map to the damaged fender, but the dust picked up on the tape surface prevented it from sticking properly and the first fix was short lived. After an overnight rethink by the flight controllers, a better method of applying the tape resulted in a satisfactory fix that lasted for the length of the exploration.[58] The crew then deployed the Apollo Lunar Surface Experiments Package (ALSEP) west of the immediate landing site. After completing this, Cernan and Schmitt departed on the first geologic traverse of the mission towards Steno crater to the south of the landing site, during which they gathered of samples; took seven gravimeter measurements; and deployed two explosive packages, which were later detonated remotely to test geophones that had been placed by the astronauts and seismometers that had been placed on previous Apollo missions.[59] The EVA ended after seven hours and twelve minutes.[60][61]
 
-Ap17_strolling.ogv" on the Moon during the Apollo 17 mission]]
+" on the Moon during the Apollo 17 mission]]
 
-584392main_M168000580LR_ap17_area.jpg]] Lunar_Regolith_70050_from_Apollo_17_in_National_Museum_of_Natural_History.jpg On December 12, at 6:28 pm EST, Cernan and Schmitt began their second lunar excursion. One of the first tasks of the EVA was repairing the right-rear fender on the LRV, the rearward extension of which had been broken off the previous day. The pair did this by taping together four cronopaque maps with duct tape and clamping the replacement fender extension to the fender, thus providing a means of preventing dust from raining down upon them while in motion.[62][63][64] During this EVA, the pair sampled several different types of geologic deposits found in the valley, including the avalanche at the base of the South Massif, orange-colored soil at Shorty crater, and ejecta of Camelot crater. The crew completed this moonwalk after seven hours and thirty-seven minutes. They collected of samples, deployed three more explosive packages and took seven gravimeter measurements.[65]
+]] On December 12, at 6:28 pm EST, Cernan and Schmitt began their second lunar excursion. One of the first tasks of the EVA was repairing the right-rear fender on the LRV, the rearward extension of which had been broken off the previous day. The pair did this by taping together four cronopaque maps with duct tape and clamping the replacement fender extension to the fender, thus providing a means of preventing dust from raining down upon them while in motion.[62][63][64] During this EVA, the pair sampled several different types of geologic deposits found in the valley, including the avalanche at the base of the South Massif, orange-colored soil at Shorty crater, and ejecta of Camelot crater. The crew completed this moonwalk after seven hours and thirty-seven minutes. They collected of samples, deployed three more explosive packages and took seven gravimeter measurements.[65]
 
 The third moonwalk, the last of the Apollo program, began at 5:26 pm EST on December 13. During this excursion, the crew collected of lunar samples and took nine gravimeter measurements. They drove the rover to the north and east of the landing site and explored the base of the North Massif, the Sculptured Hills, and the unusual crater Van Serg. Before ending the moonwalk, the crew collected a rock, a breccia, and dedicated it to several different nations which were represented in Mission Control Center in Houston, Texas, at the time. A plaque located on the LM, commemorating the achievements made during the Apollo program, was then unveiled. Before reentering the LM for the final time, Gene Cernan expressed his thoughts:[66]
 
 Cernan then followed Schmitt into the LM after spending approximately seven hours and 15 minutes outside during the mission's final lunar excursion.[67]
 
 Return to Earth
-
-SH-3_Sea_King_of_HC-1_recovers_Apollo_17_astronauts_off_USS_Ticonderoga_(CVS-14),_19_December_1972_(Ap17-S72-55974).jpgApollo-17-with-USS-Ticonderoga.jpg
 
 Eugene Cernan and Harrison Schmitt successfully lifted off from the lunar surface in the ascent stage of the LM on December 14, at 5:55 pm EST. After a successful rendezvous and docking with Ron Evans in the CSM in orbit, the crew transferred equipment and lunar samples between the LM and the CSM for return to Earth. Following this, the LM ascent stage was sealed off and jettisoned at 1:31 am on December 15. The ascent stage was then deliberately crashed into the Moon in a collision recorded by seismometers deployed on Apollo 17 and previous Apollo expeditions.[68][69]
 
@@ -147,7 +139,7 @@ On December 19, the crew jettisoned the no-longer-needed SM, leaving only the CM
 
 Spacecraft locations
 
-Apollo_17_CM_Houston.jpg]] The Command Module _America_ is currently on display at Space Center Houston at the Lyndon B. Johnson Space Center in Houston, Texas.[73]
+]] The Command Module _America_ is currently on display at Space Center Houston at the Lyndon B. Johnson Space Center in Houston, Texas.[73]
 
 The ascent stage of Lunar Module _Challenger_ impacted the Moon December 15, 1972 at 06:50:20.8 UT (1:50 am EST), at .[74] The descent stage remains on the Moon at the landing site, .[75]
 

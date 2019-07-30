@@ -9,7 +9,7 @@ He turned down an invitation of George III's to become a physician to the King.
 
 Early life and education
 
-Darwin_cutout.png, c. 1795]] Erasmus_Darwin_House.jpg Darwin was born in 1731 at Elston Hall, Nottinghamshire near Newark-on-Trent, England, the youngest of seven children of Robert Darwin of Elston (12 August 1682 – 20 November 1754), a lawyer and physician, and his wife Elizabeth Hill (1702–97). The name Erasmus had been used by a number of his family and derives from his ancestor Erasmus Earle, Common Sergent of England under Oliver Cromwell.[2] His siblings were:
+, c. 1795]] Darwin was born in 1731 at Elston Hall, Nottinghamshire near Newark-on-Trent, England, the youngest of seven children of Robert Darwin of Elston (12 August 1682 – 20 November 1754), a lawyer and physician, and his wife Elizabeth Hill (1702–97). The name Erasmus had been used by a number of his family and derives from his ancestor Erasmus Earle, Common Sergent of England under Oliver Cromwell.[2] His siblings were:
 
 -   Robert Darwin (17 October 1724 – 4 November 1816)
 -   Elizabeth Darwin (15 September 1725 – 8 April 1800)
@@ -23,7 +23,7 @@ He was educated at Chesterfield Grammar School, then later at St John's College,
 
 Personal life
 
-Erasmus_Darwin,_after_Joseph_Wright.jpg, _Erasmus Darwin_ (1770; Birmingham Museum and Art Gallery).]]Darwin married twice and had 14 children, including two illegitimate daughters by an employee, and, possibly, at least one further illegitimate daughter.
+, _Erasmus Darwin_ (1770; Birmingham Museum and Art Gallery).]]Darwin married twice and had 14 children, including two illegitimate daughters by an employee, and, possibly, at least one further illegitimate daughter.
 
 In 1757 he married Mary (Polly) Howard (1740–1770). They had four sons and one daughter, two of whom (a son and a daughter) died in infancy:
 
@@ -70,7 +70,7 @@ Writings
 
 Botanical works and the Lichfield Botanical Society
 
-Portrait_detail,_Erasmus_Darwin._Stipple_engraving_by_Holl,_1803,_after_J._Ra_Wellcome_V0006492_(cropped).jpg Darwin formed 'A Botanical Society, at Lichfield' almost always incorrectly named as the Lichfield Botanical Society (despite the name, composed of only three men, Erasmus Darwin, Sir Brooke Boothby and Mr John Jackson, proctor of Lichfield Cathedral[6]) to translate the works of the Swedish botanist Carl Linnaeus from Latin into English. This took seven years. The result was two publications: _A System of Vegetables_ between 1783 and 1785, and _The Families of Plants_ in 1787. In these volumes, Darwin coined many of the English names of plants that we use today.
+Darwin formed 'A Botanical Society, at Lichfield' almost always incorrectly named as the Lichfield Botanical Society (despite the name, composed of only three men, Erasmus Darwin, Sir Brooke Boothby and Mr John Jackson, proctor of Lichfield Cathedral[6]) to translate the works of the Swedish botanist Carl Linnaeus from Latin into English. This took seven years. The result was two publications: _A System of Vegetables_ between 1783 and 1785, and _The Families of Plants_ in 1787. In these volumes, Darwin coined many of the English names of plants that we use today.
 
 Darwin then wrote _The Loves of the Plants,_ a long poem, which was a popular rendering of Linnaeus' works. Darwin also wrote _Economy of Vegetation_, and together the two were published as _The Botanic Garden_. Among other writers he influenced were Anna Seward and Maria Jacson.
 
@@ -192,8 +192,6 @@ Major publications
 
 
 Family tree
-
-Darwin-Wedgwood-Galton_family_tree.png
 
 
 Appearances

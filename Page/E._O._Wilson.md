@@ -126,7 +126,7 @@ Understanding the scale of the extinction crisis has led him to advocate for for
 
 Awards and honors
 
-E._O._Wilson_sitting,_October_16,_2007.jpg EOWilsonCntr.jpg Wilson's scientific and conservation honors include:
+Wilson's scientific and conservation honors include:
 
 -   Member, National Academy of Sciences, 1969
 -   U.S. National Medal of Science, 1976

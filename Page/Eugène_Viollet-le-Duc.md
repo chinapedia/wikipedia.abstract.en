@@ -7,14 +7,14 @@ Viollet-le-Duc was born in Paris in 1814, in the last year of the Empire of Napo
 
 In 1825 he began his education at the Pension Moran, in Fontenay-aux-Roses. He returned to Paris in 1829 as a student at the College de Bourbon (now the Lycée Condorcet). He passed his baccalaureate examination in 1830. His uncle urged him to enter the École des Beaux-Arts, which had been created in 1806, but the ''École '' had an extremely rigid system, based entirely on copying classical models, and Eugène was not interested. Instead he decided to get practical experience in the architectural offices of Jacques-Marie Huvé and Achille Leclère, while devoting much of his time to drawing medieval churches and monuments around Paris.
 
-He participated in the July 1830 revolution which overthrew Charles X, building a barricade, his first known construction project. Following the revolution, which brought Louis Philippe to power, his father became chief of the bureau of royal residences. The new government created, for the first time, the position of Inspector General of Historic Monuments. Eugène's uncle Delécluze agreed to take Eugène on a long tour of France to see monuments. They travelled from July to October 1831 throughout the south of France, and he returned with a large collection of detailed paintings and watercolours of churches and monuments. Banquet_des_dames_aux_Tuileries_1835.jpg On his return to Paris, he moved with his family into the Tuileries Palace, where his father was now governor of royal residences. His family again urged him to attend the École des Beaux-Arts, but he still refused. He wrote in his journal in December 1831, "the _École_ is just a mould for architects. they all come out practically identical." He was a talented and meticulous artist; he travelled around France to visit monuments, cathedrals, and other medieval architecture, made detailed drawings and watercolours, which he sometimes sold at a high price to members of the Court.
+He participated in the July 1830 revolution which overthrew Charles X, building a barricade, his first known construction project. Following the revolution, which brought Louis Philippe to power, his father became chief of the bureau of royal residences. The new government created, for the first time, the position of Inspector General of Historic Monuments. Eugène's uncle Delécluze agreed to take Eugène on a long tour of France to see monuments. They travelled from July to October 1831 throughout the south of France, and he returned with a large collection of detailed paintings and watercolours of churches and monuments. On his return to Paris, he moved with his family into the Tuileries Palace, where his father was now governor of royal residences. His family again urged him to attend the École des Beaux-Arts, but he still refused. He wrote in his journal in December 1831, "the _École_ is just a mould for architects. they all come out practically identical." He was a talented and meticulous artist; he travelled around France to visit monuments, cathedrals, and other medieval architecture, made detailed drawings and watercolours, which he sometimes sold at a high price to members of the Court.
 
 On May 3, 1834, at age twenty, he married Élisabeth Templier, and in the same year he was named an associate professor of ornamental decoration at the Royal School of Decorative Arts, which gave him a more regular income. With the money from the sale of his drawings and paintings, the couple set off on a long tour of the monuments of Italy, visiting Rome, Venice, Florence and other sites, drawing and painting. His reaction to the Leaning Tower of Pisa was characteristic: "It was extremely disagreeable to see", he wrote, "it would have been infinitely better if it had been straight." In 1838, he presented several of his drawings at the Paris Salon, and began making a travel book, _Picturesque and romantic images of the old France_, for which, between 1838 and 1844, he made nearly three hundred engravings.
 
 
 First architectural restorations
 
-Vezelay-7776-Bearbeitet.jpg, Viollet-le-Duc's first restoration project]]
+, Viollet-le-Duc's first restoration project]]
 
 In October 1838, with the recommendation of Achille Leclère, the architect with whom he had trained, he was named deputy inspector of the enlargement of the Hôtel Soubise, the new home of the French National Archives. His uncle, Delécluze, then recommended him to the new Commission of Historic Monuments of France, led by Prosper Mérimée, who had just published a book on medieval French monuments. Though he was just twenty-four years old and had no degree in architecture, he was asked to go to Narbonne to propose a plan for the completion of the cathedral there. He made his first plan, which included not only the completion but also the restoration of the oldest parts of the structure. His first project was rejected by the local authorities as too ambitious and too expensive.
 
@@ -99,7 +99,7 @@ In 1874 Viollet-le-Duc resigned as diocesan architect of Paris and was succeeded
 
 National Museum of French Monuments and final years
 
-humb]]
+]]
 
 He became engaged in the planning and construction of the Paris Universal Exposition of 1878. He proposed to the Minister of Education, Jules Ferry, that the Palais de Trocadero, the main building of the Exposition on the hilltop of Chaillot, be transformed after the Exposition into a museum of French monuments, displaying models of architecture and sculpture from landmarks around France. This idea was accepted. The National Museum of French Monuments opened in 1882, after his death. The Palais was reconstructed into the Palais de Chaillot in 1937, but the Museum of French Monuments was preserved and can be seen there today.
 
@@ -141,8 +141,6 @@ The restoration of ramparts of Carcassonne was also criticized in the 20th centu
 
 
 Existing buildings designed and constructed by Viollet-le-Duc
-
-Paris_residence_of_Viollet-le-Duc.jpg
 
 -   His residence and studio, 68 Rue Condorcet, 9th arrondissement, Paris (1862)
 -   28 rue de Liège, Paris
@@ -190,7 +188,7 @@ File:Notre Dame dalla Senna.jpg|Notre-Dame de Paris (restored 1845–1870) File:
 
 Publications
 
-Dictionnaire_Raisonné_de_Architecture_pequeño.png'', A. Morel editor, Paris, 1868]] Throughout his career Viollet-le-Duc made notes and drawings, not only for the buildings he was working on but also on Romanesque, Gothic and Renaissance buildings that were to be soon demolished. His notes were useful when preparing his published works. His study of medieval and Renaissance periods was not limited to architecture but extended also to such areas as furniture, clothing, musical instruments, armament, and geology.
+'', A. Morel editor, Paris, 1868]] Throughout his career Viollet-le-Duc made notes and drawings, not only for the buildings he was working on but also on Romanesque, Gothic and Renaissance buildings that were to be soon demolished. His notes were useful when preparing his published works. His study of medieval and Renaissance periods was not limited to architecture but extended also to such areas as furniture, clothing, musical instruments, armament, and geology.
 
 His work was published, first in serial form, and then as full-scale books, as:
 
@@ -203,7 +201,7 @@ His work was published, first in serial form, and then as full-scale books, as:
 
 Architectural theory and new building projects
 
-Eugène_Viollet-le-Duc_-_Iron-frame_house_with_glazed_earthenware_cladding_-_Google_Art_Project.jpg Viollet-le-DucConcertHallEntretiens.jpg Viollet-le-Duc is considered by many to be the first theorist of modern architecture. Sir John Summerson wrote that "there have been two supremely eminent theorists in the history of European architecture – Leon Battista Alberti and Eugène Viollet-le-Duc."[14]
+Viollet-le-Duc is considered by many to be the first theorist of modern architecture. Sir John Summerson wrote that "there have been two supremely eminent theorists in the history of European architecture – Leon Battista Alberti and Eugène Viollet-le-Duc."[14]
 
 His architectural theory was largely based on finding the ideal forms for specific materials and using these forms to create buildings. His writings centered on the idea that materials should be used "honestly". He believed that the outward appearance of a building should reflect the rational construction of the building. In _Entretiens sur l'architecture_, Viollet-le-Duc praised the Greek temple for its rational representation of its construction. For him, "Greek architecture served as a model for the correspondence of structure and appearance."[15] There is speculation that this philosophy was heavily influenced by the writings of John Ruskin, who championed honesty of materials as one of the seven main emphases of architecture.
 
@@ -223,7 +221,7 @@ _Annals of a Fortress_ strongly influenced French military defensive thinking. V
 
 Legacy
 
-Carcassonne_JPG03.jpg]]
+]]
 
 The English architect Benjamin Bucknall (1833–95) was a devotee of Viollet-le-Duc and during 1874 to 1881 translated several of his publications into English to popularise his principles in Great Britain. The later works of the English designer and architect William Burges were greatly influenced by Viollet-le-Duc, most strongly in Burges's designs for his own home, The Tower House in London's Holland Park district, and Burges's designs for Castell Coch near Cardiff, Wales.[18]
 

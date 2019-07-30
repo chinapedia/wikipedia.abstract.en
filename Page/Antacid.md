@@ -1,5 +1,3 @@
-Antacid-L478.jpg
-
 An ANTACID is a substance which neutralizes stomach acidity and is used to relieve heartburn, indigestion or an upset stomach.[1]
 
 
@@ -34,7 +32,7 @@ Well known brands are Alka-Seltzer in the United States, along with Eno and Andr
 
 Algeldrate
 
-Old_aluminum_tablets.JPG Under the generic name algeldrate, aluminium hydroxide is used as an antacid. Aluminium hydroxide is preferred over other alternatives such as sodium bicarbonate because Al(OH)₃, being insoluble, does not increase the pH of stomach above 7 and hence, does not trigger secretion of excess stomach acid. Brand names include Alu-Cap, Aludrox, Gaviscon, and Pepsamar. In 2016 Gaviscon was one of the biggest selling branded over-the-counter medications sold in Great Britain, with sales of £62 million.[13] It reacts with excess acid in the stomach, reducing the acidity of the stomach content,[14] which may relieve the symptoms of ulcers, heartburn or dyspepsia. Such products can cause constipation, because the aluminum ions inhibit the contractions of smooth muscle cells in the gastrointestinal tract, slowing peristalsis and lengthening the time needed for stool to pass through the colon.[15] Some such products are formulated to minimize such effects through the inclusion of equal concentrations of magnesium hydroxide or magnesium carbonate, which have counterbalancing laxative effects.
+Under the generic name algeldrate, aluminium hydroxide is used as an antacid. Aluminium hydroxide is preferred over other alternatives such as sodium bicarbonate because Al(OH)₃, being insoluble, does not increase the pH of stomach above 7 and hence, does not trigger secretion of excess stomach acid. Brand names include Alu-Cap, Aludrox, Gaviscon, and Pepsamar. In 2016 Gaviscon was one of the biggest selling branded over-the-counter medications sold in Great Britain, with sales of £62 million.[13] It reacts with excess acid in the stomach, reducing the acidity of the stomach content,[14] which may relieve the symptoms of ulcers, heartburn or dyspepsia. Such products can cause constipation, because the aluminum ions inhibit the contractions of smooth muscle cells in the gastrointestinal tract, slowing peristalsis and lengthening the time needed for stool to pass through the colon.[15] Some such products are formulated to minimize such effects through the inclusion of equal concentrations of magnesium hydroxide or magnesium carbonate, which have counterbalancing laxative effects.
 
 
 References

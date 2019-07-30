@@ -7,7 +7,7 @@ The finite state machine has less computational power than some other models of 
 
 Example: coin-operated turnstile
 
-Turnstile_state_machine_colored.svg Torniqueterevolution.jpg An example of a simple mechanism that can be modeled by a state machine is a turnstile.[3][4] A turnstile, used to control access to subways and amusement park rides, is a gate with three rotating arms at waist height, one across the entryway. Initially the arms are locked, blocking the entry, preventing patrons from passing through. Depositing a coin or token in a slot on the turnstile unlocks the arms, allowing a single customer to push through. After the customer passes through, the arms are locked again until another coin is inserted.
+An example of a simple mechanism that can be modeled by a state machine is a turnstile.[3][4] A turnstile, used to control access to subways and amusement park rides, is a gate with three rotating arms at waist height, one across the entryway. Initially the arms are locked, blocking the entry, preventing patrons from passing through. Depositing a coin or token in a slot on the turnstile unlocks the arms, allowing a single customer to push through. After the customer passes through, the arms are locked again until another coin is inserted.
 
 Considered as a state machine, the turnstile has two possible states: _LOCKED_ and _UNLOCKED_.[5] THERE ARE TWO POSSIBLE INPUTS THAT AFFECT ITS STATE: PUTTING A COIN IN THE SLOT (_COIN_) AND PUSHING THE ARM (_PUSH_). In the locked state, pushing on the arm has no effect; no matter how many times the input _PUSH_ is given, it stays in the locked state. Putting a coin in – that is, giving the machine a _COIN_ input – shifts the state from _LOCKED_ to _UNLOCKED_. In the unlocked state, putting additional coins in has no effect; that is, giving additional _COIN_ inputs does not change the state. However, a customer pushing through the arms, giving a _PUSH_ input, shifts the state back to _LOCKED_.
 
@@ -31,8 +31,6 @@ In some finite-state machine representations, it is also possible to associate a
 
 
 Representations
-
-UML_state_machine_Fig5.png SdlStateMachine.png Finite_state_machine_example_with_comments.svg
 
 State/Event table
 
@@ -83,8 +81,6 @@ Finite state machines can be subdivided into transducers, acceptors, classifiers
 
 Acceptors (recognizers)
 
-Fsm_parsing_word_nice.svg
-
 ACCEPTORS (also called RECOGNIZERS and SEQUENCE DETECTORS), produce binary output, indicating whether or not the received input is accepted. Each state of an FSM is either "accepting" or "not accepting". Once all input has been received, if the current state is an accepting state, the input is accepted; otherwise it is rejected. As a rule, input is a sequence of symbols (characters); actions are not used. The example in figure 4 shows a finite state machine that accepts the string "nice". In this FSM, the only accepting state is state 7.
 
 A (possibly infinite) set of symbol sequences, aka. formal language, is called a regular language if there is some Finite State Machine that accepts exactly that set. For example, the set of binary strings with an even number of zeroes is a regular language (cf. Fig. 5), while the set of all strings whose length is a prime number is not.[7]
@@ -92,8 +88,6 @@ A (possibly infinite) set of symbol sequences, aka. formal language, is called a
 A machine could also be described as defining a language, that would contain every string accepted by the machine but none of the rejected ones; that language is "accepted" by the machine. By definition, the languages accepted by FSMs are the regular languages—; a language is regular if there is some FSM that accepts it.
 
 The problem of determining the language accepted by a given finite state acceptor is an instance of the algebraic path problem—itself a generalization of the shortest path problem to graphs with edges weighted by the elements of an (arbitrary) semiring.[8][9]
-
-DFAexample.svg
 
 The start state can also be an accepting state, in which case the automaton accepts the empty string.
 
@@ -107,15 +101,11 @@ A CLASSIFIER is a generalization of a finite state machine that, similar to an a
 
 Transducers
 
-Fsm_Moore_model_door_control.svg
-
 Transducers generate output based on a given input and/or a state using actions. They are used for control applications and in the field of computational linguistics.
 
 In control applications, two types are distinguished:
 
 Moore machine: The FSM uses only entry actions, i.e., output depends only on the state. The advantage of the Moore model is a simplification of the behaviour. Consider an elevator door. The state machine recognizes two commands: "command_open" and "command_close", which trigger state changes. The entry action (E:) in state "Opening" starts a motor opening the door, the entry action in state "Closing" starts a motor in the other direction closing the door. States "Opened" and "Closed" stop the motor when fully opened or closed. They signal to the outside world (e.g., to other state machines) the situation: "door is open" or "door is closed".
-
-Fsm_mealy_model_door_control.svg
 
 Mealy machine: The FSM also uses input actions, i.e., output depends on input and state. The use of a Mealy FSM leads often to a reduction of the number of states. The example in figure 7 shows a Mealy FSM implementing the same behaviour as in the Moore example (the behaviour depends on the implemented FSM execution model and will work, e.g., for virtual FSM but not for event-driven FSM). There are two input actions (I:): "start motor to close the door if command_close arrives" and "start motor in the other direction to open the door if command_open arrives". The "opening" and "closing" intermediate states are not shown.
 
@@ -172,7 +162,7 @@ Implementation
 
 Hardware applications
 
-4_bit_counter.svg for a 4-bit TTL counter, a type of state machine]] In a digital circuit, an FSM may be built using a programmable logic device, a programmable logic controller, logic gates and flip flops or relays. More specifically, a hardware implementation requires a register to store state variables, a block of combinational logic that determines the state transition, and a second block of combinational logic that determines the output of an FSM. One of the classic hardware implementations is the Richards controller.
+for a 4-bit TTL counter, a type of state machine]] In a digital circuit, an FSM may be built using a programmable logic device, a programmable logic controller, logic gates and flip flops or relays. More specifically, a hardware implementation requires a register to store state variables, a block of combinational logic that determines the state transition, and a second block of combinational logic that determines the output of an FSM. One of the classic hardware implementations is the Richards controller.
 
 In a _Medvedev machine_, the output is directly connected to the state flip-flops minimizing the time delay between flip-flops and output.[20][21]
 

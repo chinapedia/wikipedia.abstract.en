@@ -1,5 +1,3 @@
-Andrea_Alciato_1584.JPGAndreas-Alciatus-Opera-omnia_MG_0360.tif
-
 ANDREA ALCIATO (8 May 149212 January 1550),[1] commonly known as ALCIATI (ANDREAS ALCIATUS), was an Italian jurist and writer.[2] He is regarded as the founder of the French school of legal humanists.
 
 
@@ -13,8 +11,6 @@ Alciati died at Pavia in 1550.[5]
 
 
 Works
-
-Alciati,_Andrea_–_In_Digestorum_titulos_aliquot_commentaria,_1560_–_BEIC_11135576.tif Emblema_CLXXXIX.gif
 
 -   _Annotationes in tres libros Codicis_ (1515)
 -   _Emblematum libellus_ (1531)

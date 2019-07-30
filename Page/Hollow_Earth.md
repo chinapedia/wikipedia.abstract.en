@@ -1,4 +1,4 @@
-Map_of_the_Interior_World.png's 1892 science-fiction novel _The Goddess of Atvatabar_]] The HOLLOW EARTH was a concept proposing that the planet Earth is entirely hollow or contains a substantial interior space. Notably suggested by Edmond Halley in the late 17th century, the notion was tentatively disproven by Pierre Bouguer in 1740, and definitively by Charles Hutton in his Schiehallion experiment around 1774.
+'s 1892 science-fiction novel _The Goddess of Atvatabar_]] The HOLLOW EARTH was a concept proposing that the planet Earth is entirely hollow or contains a substantial interior space. Notably suggested by Edmond Halley in the late 17th century, the notion was tentatively disproven by Pierre Bouguer in 1740, and definitively by Charles Hutton in his Schiehallion experiment around 1774.
 
 It was still occasionally defended through the mid 19th century, notably by John Cleves Symmes Jr. and Jeremiah N. Reynolds, but by this time was part of popular pseudoscience and no longer a scientifically viable hypothesis.
 
@@ -11,7 +11,7 @@ In ancient times, the concept of a subterranean land inside the Earth appeared i
 
 According to the Ancient Greeks, there were caverns under the surface which were entrances leading to the underworld, some of which were the caverns at Tainaron in Lakonia, at Troezen in Argolis, at Ephya in Thesprotia, at Herakleia in Pontos, and in Ermioni.[4] In Thracian and Dacian legends, it is said that there are caverns occupied by an ancient god called Zalmoxis.[5] In Mesopotamian religion there is a story of a man who, after traveling through the darkness of a tunnel in the mountain of "Mashu", entered a subterranean garden.[6]
 
-Station_Island.jpg. The bell tower stands on a mound that is the site of a cave which, according to various myths, is an entrance to a place of purgatory inside the Earth. The cave has been closed since October 25, 1632.]]
+. The bell tower stands on a mound that is the site of a cave which, according to various myths, is an entrance to a place of purgatory inside the Earth. The cave has been closed since October 25, 1632.]]
 
 In Celtic mythology there is a legend of a cave called "Cruachan", also known as "Ireland's gate to Hell", a mythical and ancient cave from which according to legend strange creatures would emerge and be seen on the surface of the Earth.[7] There are also stories of medieval knights and saints who went on pilgrimages to a cave located in Station Island, County Donegal in Ireland, where they made journeys inside the Earth into a place of purgatory.[8] In County Down, Northern Ireland there is a myth which says tunnels lead to the land of the subterranean Tuatha Dé Danann, a group of people who are believed to have introduced Druidism to Ireland, and then went back underground.[9]
 
@@ -25,13 +25,13 @@ In Native American mythology, it is said that the ancestors of the Mandan people
 
 Brazilian Indians, who live alongside the Parima River in Brazil, claim that their forefathers emerged in ancient times from an underground land, and that many of their ancestors still remained inside the Earth. Ancestors of the Inca supposedly came from caves which are located east of Cuzco, Peru.[20]
 
-Excerpts from the Bible and the Book of Enoch: God_the_Geometer.jpg
+Excerpts from the Bible and the Book of Enoch:
 
 The sun and moon
 
 17th and 18th centuries
 
-Hollow_Earth.svg's hypothesis.]]
+'s hypothesis.]]
 
 Edmond Halley in 1692[21] put forth the idea of Earth consisting of a hollow shell about thick, two inner concentric shells and an innermost core. Atmospheres separate these shells, and each shell has its own magnetic poles. The spheres rotate at different speeds. Halley proposed this scheme in order to explain anomalous compass readings. He envisaged the atmosphere inside as luminous (and possibly inhabited) and speculated that escaping gas caused the Aurora Borealis.[22]
 
@@ -78,8 +78,6 @@ Hollow Earth proponents have claimed a number of different locations for the ent
 Allegorical references in pop culture music: The Smashing Pumpkins - Bullet with Butterfly Wings Queen - Don't Stop Me Now Eurythmics - Sweet Dreams
 
 Concave Hollow Earths
-
-Concave_hollow_Earths.svg
 
 Instead of saying that humans live on the outside surface of a hollow planet—sometimes called a "convex" Hollow Earth hypothesis—some have claimed humans live on the _inside_ surface of a hollow spherical world, so that our universe itself lies in that world's interior. This has been called the "concave" Hollow Earth hypothesis or skycentrism.
 

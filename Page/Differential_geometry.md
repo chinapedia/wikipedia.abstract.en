@@ -1,4 +1,4 @@
-Hyperbolic_triangle.svg), as well as two diverging ultraparallel lines.]]
+), as well as two diverging ultraparallel lines.]]
 
 DIFFERENTIAL GEOMETRY is a mathematical discipline that uses the techniques of differential calculus, integral calculus, linear algebra and multilinear algebra to study problems in geometry. The theory of plane and space curves and surfaces in the three-dimensional Euclidean space formed the basis for development of differential geometry during the 18th century and the 19th century.
 

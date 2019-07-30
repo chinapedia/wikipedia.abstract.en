@@ -15,7 +15,7 @@ The Internet Scrabble Club offers the ability to play Clabbers online.[1]
 
 Example game (SOWPODS)
 
-Clabbers_example_board.png Clabbers]]
+Clabbers]]
 
 HORIZONTAL WORDS from top to bottom (# denotes words that exist in the Collins English Dictionary but not the TWL). Some of the words below have multiple anagrams:
 

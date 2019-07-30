@@ -1,4 +1,4 @@
-Bk-map.png Bosnia and Herzegovina is located in Southeastern Europe, in the western Balkans. It has a 932 km border with Croatia to the north and southwest, a 357 km border with Serbia to the east, and a 249 km border with Montenegro to the southeast.[1] It borders the Adriatic Sea along its 20 km (12.42 mi) coastline.
+Bosnia and Herzegovina is located in Southeastern Europe, in the western Balkans. It has a 932 km border with Croatia to the north and southwest, a 357 km border with Serbia to the east, and a 249 km border with Montenegro to the southeast.[1] It borders the Adriatic Sea along its 20 km (12.42 mi) coastline.
 
 The most striking features of the local terrain are valleys and mountains which measure up to 2386 m in height. The country is mostly mountainous, encompassing the central Dinaric Alps. The northeastern parts reach into the Pannonian basin, while in the south it borders the Adriatic Sea.
 
@@ -22,7 +22,7 @@ The country has only of coastline,[2] around the town of Neum in the Herzegovina
 
 Rivers
 
-Croatia_Bosnia_Herzegovina_Drainage_basins.svg Vrelo_Bosne_3.JPG river, Ilidža]] There are seven major rivers in the Republic of Bosnia and Herzegovina:
+river, Ilidža]] There are seven major rivers in the Republic of Bosnia and Herzegovina:
 
 -   The Una in the northwest part of Bosnia flows along the northern and western border of Bosnia and Croatia and through the Bosnian city of Bihać. It is a very beautiful river and popular for rafting and adventure sports.
 -   The Sana flows through the city of Sanski Most and Prijedor and is a tributary of the river Una in the north.
@@ -30,7 +30,7 @@ Croatia_Bosnia_Herzegovina_Drainage_basins.svg Vrelo_Bosne_3.JPG river, Ilidža]
 -   The River Bosna is the longest river in Bosnia and is fully contained within the country as it stretches from its source near Sarajevo to the river Sava in the north. It gave its name to the country.
 -   The Drina flows through the eastern part of Bosnia, at many places in the border between Bosnia and Serbia. The Drina flows through the cities of Foča, Goražde Višegrad and Zvornik.
 -   The Neretva river is a large river in Central and Southern Bosnia, flowing from Jablanica south to the Adriatic Sea. The river is famous as it flows through the famous city of Mostar.
--   Affected_People_by_Floods_2005_2015_Europe.pngThe Sava river is the largest river in Bosnia and Herzegovina but not the largest river that is flowing through Bosnia and Herzegovina. The Sava river flows through Serbia, Bosnia and Herzegovina and Croatia. Sava is used as a natural border between Bosnia and Herzegovina and Croatia and towns like Brčko, Bosanski Šamac, Bosanska Gradiška lies on the river.
+-   The Sava river is the largest river in Bosnia and Herzegovina but not the largest river that is flowing through Bosnia and Herzegovina. The Sava river flows through Serbia, Bosnia and Herzegovina and Croatia. Sava is used as a natural border between Bosnia and Herzegovina and Croatia and towns like Brčko, Bosanski Šamac, Bosanska Gradiška lies on the river.
 
 
 Phytogeography
@@ -45,7 +45,7 @@ The southern parts of the country have a Mediterranean climate. The Western and 
 
 Mining industry
 
-Calcite_Crystal_from_Trebević.JPG Crystal found at Trebević mountain around Sarajevo; Bosnia and Herzegovina on display at National Museum of Bosnia and Herzegovina.]] Various archaeological artifacts including relicts of mining activities and tools belonging to similar age groups, provide an indication of the geographical distribution, scale and methods of mining activities in Bosnia and Herzegovina during the Paleolithic to Roman era.
+Crystal found at Trebević mountain around Sarajevo; Bosnia and Herzegovina on display at National Museum of Bosnia and Herzegovina.]] Various archaeological artifacts including relicts of mining activities and tools belonging to similar age groups, provide an indication of the geographical distribution, scale and methods of mining activities in Bosnia and Herzegovina during the Paleolithic to Roman era.
 
 Most important of these is the so-called area of “central Bosnian mountains” located between the rivers Vrbas, Lašva, Neretva, Rama and their tributaries. The second one is the area of western Bosnia, bordered by the Vrbas and Una rivers, with its main orebearing formations found in the river-valleys of Sana and Japra, and their tributaries. The third area is eastern Bosnia, around the river Drina between the towns of Foča and Zvornik, the principal mining activity centered around Srebrenica.
 

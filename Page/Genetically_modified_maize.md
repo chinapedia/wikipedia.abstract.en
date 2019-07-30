@@ -1,4 +1,4 @@
-Btcornafrica.jpg containing a gene from the bacteria _Bacillus thuringiensis_]] GENETICALLY MODIFIED MAIZE (corn) is a genetically modified crop. Specific maize strains have been genetically engineered to express agriculturally-desirable traits, including resistance to pests and to herbicides. Maize strains with both traits are now in use in multiple countries. GM maize has also caused controversy with respect to possible health effects, impact on other insects and impact on other plants via gene flow. One strain, called Starlink, was approved only for animal feed in the US, but was found in food, leading to a series of recalls starting in 2000.
+containing a gene from the bacteria _Bacillus thuringiensis_]] GENETICALLY MODIFIED MAIZE (corn) is a genetically modified crop. Specific maize strains have been genetically engineered to express agriculturally-desirable traits, including resistance to pests and to herbicides. Maize strains with both traits are now in use in multiple countries. GM maize has also caused controversy with respect to possible health effects, impact on other insects and impact on other plants via gene flow. One strain, called Starlink, was approved only for animal feed in the US, but was found in food, leading to a series of recalls starting in 2000.
 
 
 Marketed products
@@ -11,7 +11,7 @@ As of 2011, herbicide-resistant GM corn was grown in 14 countries.[5] By 2012, 2
 
 Insect-resistant corn
 
-Corn_borer.jpg, _Ostrinia nubilalis_, destroys corn crops by burrowing into the stem, causing the plant to fall over.]]
+, _Ostrinia nubilalis_, destroys corn crops by burrowing into the stem, causing the plant to fall over.]]
 
 Bt corn is a variant of maize that has been genetically altered to express one or more proteins from the bacterium _Bacillus thuringiensis_[9] including Delta endotoxins. The protein is poisonous to certain insect pests. Spores of the bacillus are widely used in organic gardening,[10] although GM corn is not considered organic. The European corn borer causes about a billion dollars in damage to corn crops each year.[11]
 

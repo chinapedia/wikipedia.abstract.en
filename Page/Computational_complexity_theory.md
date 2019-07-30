@@ -7,8 +7,6 @@ Closely related fields in theoretical computer science are analysis of algorithm
 
 Computational problems
 
-TSP_Deutschland_3.png
-
 Problem instances
 
 A computational problem can be viewed as an infinite collection of _instances_ together with a _solution_ for every instance. The input string for a computational problem is referred to as a problem instance, and should not be confused with the problem itself. In computational complexity theory, a problem refers to the abstract question to be solved. In contrast, an instance of this problem is a rather concrete utterance, which can serve as the input for a decision problem. For example, consider the problem of primality testing. The instance is a number (e.g., 15) and the solution is "yes" if the number is prime and "no" otherwise (in this case, 15 is not prime and the answer is "no"). Stated another way, the _instance_ is a particular input to the problem, and the _solution_ is the output corresponding to the given input.
@@ -23,7 +21,7 @@ Even though some proofs of complexity-theoretic theorems regularly assume some c
 
 Decision problems as formal languages
 
-Decision_Problem.svg has only two possible outputs, _yes_ or _no_ (or alternately 1 or 0) on any input.]] Decision problems are one of the central objects of study in computational complexity theory. A decision problem is a special type of computational problem whose answer is either _yes_ or _no_, or alternately either 1 or 0. A decision problem can be viewed as a formal language, where the members of the language are instances whose output is yes, and the non-members are those instances whose output is no. The objective is to decide, with the aid of an algorithm, whether a given input string is a member of the formal language under consideration. If the algorithm deciding this problem returns the answer _yes_, the algorithm is said to accept the input string, otherwise it is said to reject the input.
+has only two possible outputs, _yes_ or _no_ (or alternately 1 or 0) on any input.]] Decision problems are one of the central objects of study in computational complexity theory. A decision problem is a special type of computational problem whose answer is either _yes_ or _no_, or alternately either 1 or 0. A decision problem can be viewed as a formal language, where the members of the language are instances whose output is yes, and the non-members are those instances whose output is no. The objective is to decide, with the aid of an algorithm, whether a given input string is a member of the formal language under consideration. If the algorithm deciding this problem returns the answer _yes_, the algorithm is said to accept the input string, otherwise it is said to reject the input.
 
 An example of a decision problem is the following. The input is an arbitrary graph. The problem consists in deciding whether the given graph is connected or not. The formal language associated with this decision problem is then the set of all connected graphs — to obtain a precise definition of this language, one has to decide how graphs are encoded as binary strings.
 
@@ -44,7 +42,7 @@ Machine models and complexity measures
 
 Turing machine
 
-Turing_machine_2b.svg A Turing machine is a mathematical model of a general computing machine. It is a theoretical device that manipulates symbols contained on a strip of tape. Turing machines are not intended as a practical computing technology, but rather as a general model of a computing machine—anything from an advanced supercomputer to a mathematician with a pencil and paper. It is believed that if a problem can be solved by an algorithm, there exists a Turing machine that solves the problem. Indeed, this is the statement of the Church–Turing thesis. Furthermore, it is known that everything that can be computed on other models of computation known to us today, such as a RAM machine, Conway's Game of Life, cellular automata or any programming language can be computed on a Turing machine. Since Turing machines are easy to analyze mathematically, and are believed to be as powerful as any other model of computation, the Turing machine is the most commonly used model in complexity theory.
+A Turing machine is a mathematical model of a general computing machine. It is a theoretical device that manipulates symbols contained on a strip of tape. Turing machines are not intended as a practical computing technology, but rather as a general model of a computing machine—anything from an advanced supercomputer to a mathematician with a pencil and paper. It is believed that if a problem can be solved by an algorithm, there exists a Turing machine that solves the problem. Indeed, this is the statement of the Church–Turing thesis. Furthermore, it is known that everything that can be computed on other models of computation known to us today, such as a RAM machine, Conway's Game of Life, cellular automata or any programming language can be computed on a Turing machine. Since Turing machines are easy to analyze mathematically, and are believed to be as powerful as any other model of computation, the Turing machine is the most commonly used model in complexity theory.
 
 Many types of Turing machines are used to define complexity classes, such as deterministic Turing machines, probabilistic Turing machines, non-deterministic Turing machines, quantum Turing machines, symmetric Turing machines and alternating Turing machines. They are all equally powerful in principle, but when resources (such as time or space) are bounded, some of these may be more powerful than others.
 
@@ -66,7 +64,7 @@ The complexity of an algorithm is often expressed using big O notation.
 
 Best, worst and average case complexity
 
-Sorting_quicksort_anim.gif algorithm that has average case performance 𝒪(nlog n).]] The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size. Since some inputs of size _n_ may be faster to solve than others, we define the following complexities:
+algorithm that has average case performance 𝒪(nlog n).]] The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size. Since some inputs of size _n_ may be faster to solve than others, we define the following complexities:
 
 1.  Best-case complexity: This is the complexity of solving the problem for the best input of size _n_.
 2.  Average-case complexity: This is the complexity of solving the problem on an average. This complexity is only defined with respect to a probability distribution over the inputs. For instance, if all inputs of the same size are assumed to be equally likely to appear, the average case complexity can be defined with respect to the uniform distribution over all inputs of size _n_.
@@ -102,7 +100,7 @@ But bounding the computation time above by some concrete function _f_(_n_) often
 
 Important complexity classes
 
-Complexity_subsets_pspace.svg Many important complexity classes can be defined by bounding the time or space used by the algorithm. Some important complexity classes of decision problems defined in this manner are the following:
+Many important complexity classes can be defined by bounding the time or space used by the algorithm. Some important complexity classes of decision problems defined in this manner are the following:
 
 +-------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
 |   Complexity class         Model of computation               Resource constraint   |   Complexity class          Model of computation               Resource constraint   |
@@ -157,7 +155,7 @@ If a problem _X_ is in _C_ and hard for _C_, then _X_ is said to be _complete_ f
 
 Important open problems
 
-Complexity_classes.svg |volume=22|year=1975|pages=151–171|doi=10.1145/321864.321877|issue=1|postscript=.}}]]
+|volume=22|year=1975|pages=151–171|doi=10.1145/321864.321877|issue=1|postscript=.}}]]
 
 P versus NP problem
 

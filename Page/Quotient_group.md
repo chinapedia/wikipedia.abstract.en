@@ -65,7 +65,7 @@ A slight generalization of the last example. Once again consider the group of in
 
 Complex integer roots of 1
 
-Normal_subgroup_illustration.svg _N_ in the twelfth roots of unity _G_.]] The twelfth roots of unity, which are points on the complex unit circle, form a multiplicative abelian group _G_, shown on the picture on the right as colored balls with the number at each point giving its complex argument. Consider its subgroup _N_ made of the fourth roots of unity, shown as red balls. This normal subgroup splits the group into three cosets, shown in red, green and blue. One can check that the cosets form a group of three elements (the product of a red element with a blue element is blue, the inverse of a blue element is green, etc.). Thus, the quotient group _G_/_N_ is the group of three colors, which turns out to be the cyclic group with three elements.
+_N_ in the twelfth roots of unity _G_.]] The twelfth roots of unity, which are points on the complex unit circle, form a multiplicative abelian group _G_, shown on the picture on the right as colored balls with the number at each point giving its complex argument. Consider its subgroup _N_ made of the fourth roots of unity, shown as red balls. This normal subgroup splits the group into three cosets, shown in red, green and blue. One can check that the cosets form a group of three elements (the product of a red element with a blue element is blue, the inverse of a blue element is green, etc.). Thus, the quotient group _G_/_N_ is the group of three colors, which turns out to be the cyclic group with three elements.
 
 Sums of integers and real numbers
 

@@ -11,15 +11,13 @@ Order of battle
 
 Allied
 
-Battle_of_Okinawa.svg In all, the Army had over 102,000 soldiers (of these, 38,000+ were non-divisional artillery, combat support and HQ troops, with another 9,000 service troops),[11] over 88,000 Marines and 18,000 Navy personnel (mostly Seabees and medical personnel).[12] At the start of the Battle of Okinawa, the 10th Army had 182,821 personnel under its command.[13] It was planned that General Buckner would report to Turner until the amphibious phase was completed, after which he would report directly to Spruance.
+In all, the Army had over 102,000 soldiers (of these, 38,000+ were non-divisional artillery, combat support and HQ troops, with another 9,000 service troops),[11] over 88,000 Marines and 18,000 Navy personnel (mostly Seabees and medical personnel).[12] At the start of the Battle of Okinawa, the 10th Army had 182,821 personnel under its command.[13] It was planned that General Buckner would report to Turner until the amphibious phase was completed, after which he would report directly to Spruance.
 
 Although Allied land forces were entirely composed of American units, the British Pacific Fleet (BPF; known to the US Navy as Task Force 57) provided about ¼ of Allied naval air power (450 planes). It comprised a force which included 50 warships, of which 17 were aircraft carriers; while the British armored flight decks meant that fewer planes could be carried in a single aircraft carrier, they were more resistant to _kamikaze_ strikes.[14]
 
 Although all the BPF aircraft carriers were provided by Britain, the carrier group was a combined British Commonwealth fleet with Australian, New Zealand and Canadian ships and personnel.[15] Their mission was to neutralize Japanese airfields in the Sakishima Islands and provide air cover against Japanese _kamikaze_ attacks. Most of the air-to-air fighters and the small dive bombers and strike aircraft were US Navy carrier-based airplanes.
 
 Japanese
-
-Japanese_Commanders_on_Okinawa.jpg
 
 The Japanese land campaign (mainly defensive) was conducted by the 67,000-strong (77,000 according to some sources) regular 32nd Army and some 9,000 Imperial Japanese Navy (IJN) troops at Oroku Naval Base (only a few hundred of whom had been trained and equipped for ground combat), supported by 39,000 drafted local Ryukyuan people (including 24,000 hastily drafted rear militia called _Boeitai_ and 15,000 non-uniformed laborers). The Japanese had used _kamikaze_ tactics since the Battle of Leyte Gulf, but for the first time, they became a major part of the defense. Between the American landing on April 1 and May 25, seven major _kamikaze_ attacks were attempted, involving more than 1,500 planes.
 
@@ -40,7 +38,7 @@ File:Childsoldier In Okinawa.jpg|Tekketsu Kinnōtai child soldiers File:Ie defen
 
 Naval battle
 
-USS_Bunker_Hill_hit_by_two_Kamikazes.jpg'' planes within 30 seconds.]] HMS_Implacable_AWM_019037.jpg Fleet Air Arm Avengers, Seafires and Fireflies on warm up their engines before taking off.]]
+'' planes within 30 seconds.]] Fleet Air Arm Avengers, Seafires and Fireflies on warm up their engines before taking off.]]
 
 The United States Navy's Task Force 58, deployed to the east of Okinawa with a picket group of from 6 to 8 destroyers, kept 13 carriers (7 CVs and 6 CVLs) on duty from March 23 to April 27 and a smaller number thereafter. Until April 27, a minimum of 14 and up to 18 escort carriers (CVEs) were in the area at all times. Until April 20, British Task Force 57, with 4 large and 6 escort carriers, remained off the Sakishima Islands to protect the southern flank.[17]
 
@@ -54,15 +52,13 @@ The ships lost were smaller vessels, particularly the destroyers of the radar pi
 
 Operation _Ten-Go_
 
-Yamato_battleship_explosion.jpg
-
 Operation _Ten-Go_ (_Ten-gō sakusen_) was the attempted attack by a strike force of 10 Japanese surface vessels, led by the and commanded by Admiral Seiichi Itō. This small task force had been ordered to fight through enemy naval forces, then beach _Yamato_ and fight from shore, using her guns as coastal artillery and her crew as naval infantry. The _Ten-Go_ force was spotted by submarines shortly after it left the Japanese home waters, and was intercepted by US carrier aircraft.
 
 Under attack from more than 300 aircraft over a two-hour span, the world's largest battleship sank on April 7, 1945, after a one-sided battle, long before she could reach Okinawa. (US torpedo bombers were instructed to aim for only one side to prevent effective counter flooding by the battleship's crew, and to aim for the bow or the stern, where armor was believed to be the thinnest.) Of _Yamato_{{'}}s screening force, the light cruiser and 4 of the 8 destroyers were also sunk. The Imperial Japanese Navy lost some 3,700 sailors, including Admiral Itō, at the cost of 10 US aircraft and 12 airmen.
 
 British Pacific Fleet
 
-HMS_Formidable_(67)_on_fire_1945.jpg'' attack on May 4. The ship was out of action for fifty minutes.]] The British Pacific Fleet, taking part as Task Force 57, was assigned the task of neutralizing the Japanese airfields in the Sakishima Islands, which it did successfully from March 26 to April 10.
+'' attack on May 4. The ship was out of action for fifty minutes.]] The British Pacific Fleet, taking part as Task Force 57, was assigned the task of neutralizing the Japanese airfields in the Sakishima Islands, which it did successfully from March 26 to April 10.
 
 On April 10, its attention was shifted to airfields on northern Formosa. The force withdrew to San Pedro Bay on April 23.
 
@@ -70,8 +66,6 @@ On May 1, the British Pacific Fleet returned to action, subduing the airfields a
 
 
 Land battle
-
-New_Mexico_class_battleship_bombarding_Okinawa.jpg
 
 The land battle took place over about 81 days beginning on April 1, 1945. The first Americans ashore were soldiers of the 77th Infantry Division, who landed in the Kerama Islands, west of Okinawa on March 26. Subsidiary landings followed, and the Kerama group was secured over the next five days. In these preliminary operations, the 77th Infantry Division suffered 27 dead and 81 wounded, while Japanese dead and captured numbered over 650. The operation provided a protected anchorage for the fleet and eliminated the threat from suicide boats.
 

@@ -21,7 +21,7 @@ Lifeson's first girlfriend, Charlene, gave birth to their eldest son, Justin, in
 
 Rush
 
-20110527-200145_Rush_Ahoy_Rotterdam_1200x0800.jpg, Ahoy, Rotterdam, the Netherlands (27 May 2011)]] Lifeson's neighbour John Rutsey began experimenting on a rented drum kit. In 1963, Lifeson and Rutsey formed The Projection, which eventually became Rush in August 1968 following the recruitment of original bassist and vocalist Jeff Jones. Geddy Lee, a high school friend of Lifeson, assumed this role soon after.[12]
+, Ahoy, Rotterdam, the Netherlands (27 May 2011)]] Lifeson's neighbour John Rutsey began experimenting on a rented drum kit. In 1963, Lifeson and Rutsey formed The Projection, which eventually became Rush in August 1968 following the recruitment of original bassist and vocalist Jeff Jones. Geddy Lee, a high school friend of Lifeson, assumed this role soon after.[12]
 
 Instrumentally, Lifeson is renowned for his signature riffing, electronic effects and processing, unorthodox chord structures, and the copious arsenal of equipment he has used over the years.[13][14][15]
 
@@ -61,7 +61,7 @@ On 21 April 2005, Lifeson and his son agreed to a plea deal with the local prose
 
 Guitar equipment
 
-Right in the 'Heritage Cherry Sunburst'. This guitar has been modified to incorporate a Floyd Rose tremolo.]]
+in the 'Heritage Cherry Sunburst'. This guitar has been modified to incorporate a Floyd Rose tremolo.]]
 
 Early Rush (1970s)
 

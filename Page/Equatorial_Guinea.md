@@ -23,7 +23,7 @@ There was also a trickle of immigration from the neighbouring Portuguese islands
 
 The opening years of the twentieth century saw a new generation of Spanish immigrants. Land regulations issued in 1904–1905 favoured Spaniards, and most of the later big planters arrived from Spain after that. The Liberian labor agreement of 1914 favoured wealthy men with ready access to the state, and the shift in labor supplies from Liberia to Rio Muni increased this advantage. In 1940, an estimated 20% of the colony's cocoa production came from African-owned land, nearly all of it was in the hands of Fernandinos.
 
-Corisco-Saliendo_de_misa-1910.jpg, 1910]] The greatest constraint to economic development was a chronic shortage of labour. Pushed into the interior of the island and decimated by alcohol addiction, venereal disease, smallpox, and sleeping sickness, the indigenous Bubi population of Bioko refused to work on plantations. Working their own small cocoa farms gave them a considerable degree of autonomy.
+, 1910]] The greatest constraint to economic development was a chronic shortage of labour. Pushed into the interior of the island and decimated by alcohol addiction, venereal disease, smallpox, and sleeping sickness, the indigenous Bubi population of Bioko refused to work on plantations. Working their own small cocoa farms gave them a considerable degree of autonomy.
 
 By the late nineteenth century, the Bubi were protected from the demands of the planters by Spanish Claretian missionaries, who were very influential in the colony and eventually organised the Bubi into little mission theocracies reminiscent of the famous Jesuit reductions in Paraguay. Catholic penetration was furthered by two small insurrections in 1898 and 1910 protesting conscription of forced labour for the plantations. The Bubi were disarmed in 1917, and left dependent on the missionaries.[13]
 
@@ -60,7 +60,7 @@ In 2011, the government announced it was planning a new capital for the country,
 
 Politics
 
-Teodoro_Obiang_Nguema_Mbasogo_with_Obamas_2014.jpg with their wives in 2014]] Equatorial_Guinea_Map.png
+with their wives in 2014]]
 
 The current president of Equatorial Guinea is Teodoro Obiang. The 1982 constitution of Equatorial Guinea gives him extensive powers, including naming and dismissing members of the cabinet, making laws by decree, dissolving the Chamber of Representatives, negotiating and ratifying treaties and serving as commander in chief of the armed forces. Prime Minister Francisco Pascual Obama Asue was appointed by Obiang and operates under powers delegated by the President.
 
@@ -80,7 +80,7 @@ The anti-corruption lobby Transparency International put Equatorial Guinea in th
 
 In February 2010, Equatorial Guinea signed a contract with the MPRI subsidiary of the US defense corporation L3 Communications for coastal surveillance and maritime security in the Gulf of Guinea.[47][48]
 
-Obiang was re-elected to serve an additional term in 2009 in an election the African Union deemed "in line with electoral law".[49] Obiang re-appointed Prime Minister Ignacio Milam Tang in 2010.[50] Teodoro_Obiang_detail,_1650FRP051.jpg "has been described by rights organisations as one of Africa's most brutal dictators."[51]]]
+Obiang was re-elected to serve an additional term in 2009 in an election the African Union deemed "in line with electoral law".[49] Obiang re-appointed Prime Minister Ignacio Milam Tang in 2010.[50] "has been described by rights organisations as one of Africa's most brutal dictators."[51]]]
 
 Under Obiang, the basic infrastructure of Equatorial Guinea has improved. Asphalt now covers more than 80% of the national roads and ports and airports are being built by Chinese, Moroccan and French contractors across much of the country.[52] However, when a British parliamentary and press entourage toured the country as guests of the president in 2011, _The Guardian_ newspaper reported that very few of Equatorial Guinea's citizens seem to benefit from improvements, with reports of empty three-lane highways and many empty buildings.[53]
 
@@ -104,8 +104,6 @@ Equatorial Guinea is on the west coast of Central Africa. The country consists o
 Equatorial Guinea lies between latitudes 4°N and 2°S, and longitudes 5° and 12°E. Despite its name, no part of the country's territory lies on the equator—it is in the northern hemisphere, except for the insular Annobón Province, which is about south of the equator.
 
 Climate
-
-Koppen-Geiger_Map_GNQ_present.svg
 
 Equatorial Guinea has a tropical climate with distinct wet and dry seasons. From June to August, Río Muni is dry and Bioko wet; from December to February, the reverse occurs. In between there is gradual transition. Rain or mist occurs daily on Annobón, where a cloudless day has never been registered. The temperature at Malabo, Bioko, ranges from to , though on the southern Moka Plateau normal high temperatures are only . In Río Muni, the average temperature is about . Annual rainfall varied from at Malabo to at Ureka, Bioko, but Río Muni is somewhat drier.[59]
 
@@ -132,7 +130,7 @@ The provinces are further divided into districts.[65]
 
 Economy
 
-Tree_map_exports_2009_Equatorial_Guinea.jpeg Before independence Equatorial Guinea exported cocoa, coffee and timber, mostly to its colonial ruler, Spain, but also to Germany and the UK. On 1 January 1985, the country became the first non-Francophone African member of the franc zone, adopting the CFA franc as its currency. The national currency, the ekwele, had previously been linked to the Spanish peseta.[66]
+Before independence Equatorial Guinea exported cocoa, coffee and timber, mostly to its colonial ruler, Spain, but also to Germany and the UK. On 1 January 1985, the country became the first non-Francophone African member of the franc zone, adopting the CFA franc as its currency. The national currency, the ekwele, had previously been linked to the Spanish peseta.[66]
 
 The discovery of large oil reserves in 1996 and its subsequent exploitation contributed to a dramatic increase in government revenue. ,[67] Equatorial Guinea is the third-largest oil producer in Sub-Saharan Africa. Its oil production has risen to , up from 220,000 only two years earlier.
 
@@ -169,7 +167,7 @@ Demographics
 |                                 |
 +---------------------------------+
 
-bubi_children.jpg descent.]] The majority of the people of Equatorial Guinea are of Bantu origin.[74] The largest ethnic group, the Fang, is indigenous to the mainland, but substantial migration to Bioko Island since the 20th century means the Fang population exceeds that of the earlier Bubi inhabitants. The Fang constitute 80% of the population[75] and comprise around 67 clans. Those in the northern part of Río Muni speak Fang-Ntumu, while those in the south speak Fang-Okah; the two dialects have differences but are mutually intelligible. Dialects of Fang are also spoken in parts of neighboring Cameroon (Bulu) and Gabon. These dialects, while still intelligible, are more distinct. The Bubi, who constitute 15% of the population, are indigenous to Bioko Island. The traditional demarcation line between Fang and 'Beach' (inland) ethnic groups was the village of Niefang (limit of the Fang), east of Bata.
+descent.]] The majority of the people of Equatorial Guinea are of Bantu origin.[74] The largest ethnic group, the Fang, is indigenous to the mainland, but substantial migration to Bioko Island since the 20th century means the Fang population exceeds that of the earlier Bubi inhabitants. The Fang constitute 80% of the population[75] and comprise around 67 clans. Those in the northern part of Río Muni speak Fang-Ntumu, while those in the south speak Fang-Okah; the two dialects have differences but are mutually intelligible. Dialects of Fang are also spoken in parts of neighboring Cameroon (Bulu) and Gabon. These dialects, while still intelligible, are more distinct. The Bubi, who constitute 15% of the population, are indigenous to Bioko Island. The traditional demarcation line between Fang and 'Beach' (inland) ethnic groups was the village of Niefang (limit of the Fang), east of Bata.
 
 Coastal ethnic groups, sometimes referred to as Ndowe or "Playeros" (_Beach People_ in Spanish): Combes, Bujebas, Balengues, and Bengas on the mainland and small islands, and Fernandinos, a Krio community on Bioko Island. together comprise 5% of the population. Europeans (largely of Spanish or Portuguese descent, some with partial African ancestry) also live in the country, but most ethnic Spaniards left after independence.
 
@@ -214,7 +212,7 @@ In recent years, with change in the economic and political climate and governmen
 
 Culture
 
-Malabo_a_13-oct-01.jpg.]] In June 1984, the First Hispanic-African Cultural Congress was convened to explore the cultural identity of Equatorial Guinea. The congress constituted the center of integration and the marriage of the Hispanic culture with African cultures.[105]
+.]] In June 1984, the First Hispanic-African Cultural Congress was convened to explore the cultural identity of Equatorial Guinea. The congress constituted the center of integration and the marriage of the Hispanic culture with African cultures.[105]
 
 Tourism
 

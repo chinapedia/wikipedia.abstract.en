@@ -1,4 +1,4 @@
-caduco.jpg: a caducous phylloid germinating]] ASEXUAL REPRODUCTION[1] is a type of reproduction by which offspring arise from a single organism, and inherit the genes of that parent only; it does not involve the fusion of gametes, and almost never changes the number of chromosomes. Asexual reproduction is the primary form of reproduction for single-celled organisms such as archaea and bacteria. Many plants and fungi sometimes reproduce asexually. Some asexual cells die when they are very young.
+: a caducous phylloid germinating]] ASEXUAL REPRODUCTION[1] is a type of reproduction by which offspring arise from a single organism, and inherit the genes of that parent only; it does not involve the fusion of gametes, and almost never changes the number of chromosomes. Asexual reproduction is the primary form of reproduction for single-celled organisms such as archaea and bacteria. Many plants and fungi sometimes reproduce asexually. Some asexual cells die when they are very young.
 
 While all prokaryotes reproduce without the formation and fusion of gametes, mechanisms for lateral gene transfer such as conjugation, transformation and transduction can be likened to sexual reproduction in the sense of genetic recombination in meiosis.[2] A complete lack of sexual reproduction is relatively rare among multi-cellular organisms, particularly animals. It is not entirely understood why the ability to reproduce sexually is so common among them. Current hypotheses[3] suggest that asexual reproduction may have short term benefits when rapid population growth is important or in stable environments, while sexual reproduction offers a net advantage by allowing more rapid generation of genetic diversity, allowing adaptation to changing environments. Developmental constraints[4] may underlie why few animals have relinquished sexual reproduction completely in their life-cycles. Another constraint on switching from sexual to asexual reproduction would be the concomitant loss of meiosis and the protective recombinational repair of DNA damage afforded as one function of meiosis.[5][6]
 
@@ -15,7 +15,7 @@ In apicomplexans, multiple fission, or schizogony appears either as merogony, sp
 
 Budding
 
-S_cerevisiae_under_DIC_microscopy.jpg'' reproducing by budding]]
+'' reproducing by budding]]
 
 Some cells split via budding (for example baker's yeast), resulting in a "mother" and "daughter" cell. The offspring organism is smaller than the parent. Budding is also known on a multi-cellular level; an animal example is the hydra, which reproduces by budding. The buds grow into fully matured individuals which eventually break away from the parent organism.
 
@@ -25,7 +25,7 @@ Also, budding (external or internal) is present in some worm like Taenia or Echi
 
 Vegetative propagation
 
-Bryophyllum_daigremontianum_nahaufnahme1.jpg'']]
+'']]
 
 Vegetative propagation is a type of asexual reproduction found in plants where new individuals are formed without the production of seeds or spores by meiosis or syngamy.[13] Examples of vegetative reproduction include the formation of miniaturized plants called plantlets on specialized leaves (for example in kalanchoe) and some produce new plants out of rhizomes or stolon (for example in strawberry). Other plants reproduce by forming bulbs or tubers (for example tulip bulbs and dahlia tubers). Some plants produce adventitious shoots and may form a clonal colony, where all the individuals are clones, and the clones may cover a large area.[14]
 
@@ -37,7 +37,7 @@ Fungi and some algae can also utilize true asexual spore formation, which involv
 
 Fragmentation
 
-Tu_-_Linckia_guildingi.jpg'' "comet", a starfish regrowing from a single arm]]
+'' "comet", a starfish regrowing from a single arm]]
 
 Fragmentation is a form of asexual reproduction where a new organism grows from a fragment of the parent. Each fragment develops into a mature, fully grown individual. Fragmentation is seen in many organisms. Animals that reproduce asexually include planarians, many annelid worms including polychaetes[15] and some oligochaetes,[16] turbellarians and sea stars. Many fungi and plants reproduce asexually. Some plants have specialized structures for reproduction via fragmentation, such as _gemma_ in liverworts. Most lichens, which are a symbiotic union of a fungus and photosynthetic algae or bacteria, reproduce through fragmentation to ensure that new individuals contain both symbiont. These fragments can take the form of _soredia_, dust-like particles consisting of fungal hyphen wrapped around photobiont cells.
 
@@ -49,7 +49,7 @@ Agamogenesis is any form of reproduction that does not involve a male gamete. Ex
 
 Parthenogenesis
 
-Aphid-giving-birth.jpg giving birth to live young from an unfertilized egg]]
+giving birth to live young from an unfertilized egg]]
 
 Parthenogenesis is a form of agamogenesis in which an unfertilized egg develops into a new individual. Parthenogenesis occurs naturally in many plants, invertebrates (e.g. water fleas, rotifers, aphids, stick insects, some ants, bees and parasitic wasps), and vertebrates (e.g. some reptiles, amphibians, rarely sharks and birds). In plants, apomixis may or may not involve parthenogenesis.
 
@@ -60,7 +60,7 @@ Apomixis in plants is the formation of a new sporophyte without fertilization. I
 
 Alternation between sexual and asexual reproduction
 
-Soybeanaphidlifecycle.gif populations are often entirely female during the summer, with sexual reproduction only to produce eggs for overwintering.]]
+populations are often entirely female during the summer, with sexual reproduction only to produce eggs for overwintering.]]
 
 Some species can alternate between sexual and asexual strategies, an ability known as HETEROGAMY, depending on many conditions. Alternation is observed in several rotifer species (cyclical parthenogenesis e.g. in Brachionus species) and a few types of insects, such as aphids which will, under certain conditions, produce eggs that have not gone through meiosis, thus cloning themselves. The cape bee _Apis mellifera_ subsp. _capensis_ can reproduce asexually through a process called thelytoky. A few species of amphibians, reptiles, and birds have a similar ability. For example, the freshwater crustacean _Daphnia_ reproduces by parthenogenesis in the spring to rapidly populate ponds, then switches to sexual reproduction as the intensity of competition and predation increases. Another example are monogonont rotifers of the genus _Brachionus_, which reproduce via cyclical parthenogenesis: at low population densities females produce asexually and at higher densities a chemical cue accumulates and induces the transition to sexual reproduction. Many protists and fungi alternate between sexual and asexual reproduction.
 

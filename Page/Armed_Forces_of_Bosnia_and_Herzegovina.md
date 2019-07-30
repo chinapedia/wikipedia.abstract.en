@@ -82,7 +82,7 @@ As the joint AFBiH began to develop, troops began to be sent abroad. Bosnia and 
 
 Structure
 
-ISAFBHTF.jpg Bosnian troops display their national flag.]] LineBHISAF.jpg The Military units are commanded by the ARMED FORCES OF BOSNIA AND HERZEGOVINA JOINT STAFF in Sarajevo. There are two major commands under the Joint Staff: Operational Command and Support Command.
+Bosnian troops display their national flag.]] The Military units are commanded by the ARMED FORCES OF BOSNIA AND HERZEGOVINA JOINT STAFF in Sarajevo. There are two major commands under the Joint Staff: Operational Command and Support Command.
 
 There are three regiments that are each formed by soldiers from the three ethnic groups of Bosnia and Herzegovina: Bosniaks, Croats and Serbs and trace their roots to the armies that were created during the war in BiH. These regiments have their distinct ethnic insignias and consist of three active battalions each. Headquarters of Regiments have no operational authority. On the basis of the Law on Service in the Armed Forces of Bosnia and Herzegovina, the regimental headquarters have the following tasks: to manage the regimental museum, monitor financial fund Regiment, prepare, investigate and cherish the history of the regiment, the regiment publish newsletters, maintain cultural and historical heritage, give guidance on holding special ceremonies, give guidance on customs, dress and deportment Regiment, conduct officer, NCO and military clubs. Each regiments three battalions divided evenly between the three active brigades of the Army.
 
@@ -93,7 +93,7 @@ Joint Staff of the Armed Forces of Bosnia and Herzegovina
   OPERATIONAL COMMAND[11]   Sarajevo       The main command center of the Armed Forces of Bosnia and Herzegovina.   Senad Mašović
 
 
-Armed_Forces_Bosnia_Herzegovina_-_Operational_Command.png Operational Command]]
+ Operational Command]]
 
 Brigades under the Operational Command control
 
@@ -209,8 +209,6 @@ Small arms
 
 Machine guns
 
-Lead_curtain_(7315634228).jpg
-
   Name              Origin          Type                          Variant                   Notes
   ----------------- --------------- ----------------------------- ------------------------- -------
   M60[40]           United States   General-purpose machine gun   M60E3, M60E4, M60E6[41]
@@ -222,7 +220,7 @@ Lead_curtain_(7315634228).jpg
   DShK[49]          Soviet Union    Heavy machine gun             DŠK, DŠKM, Type 54 [50]
   NSV[51]           Soviet Union    Heavy machine gun
 
-Batalionul_7_arpr_01.jpg.]]
+.]]
 
 Armor
 

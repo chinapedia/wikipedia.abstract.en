@@ -1,11 +1,7 @@
-Bain-marie.jpg
-
 A BAIN-MARIE (; also known as a WATER BATH or DOUBLE BOILER), a type of heated bath, is a piece of equipment used in science, industry, and cooking to heat materials gently and gradually to fixed temperatures, or to keep materials warm over a period of time. A bain-marie is also used to melt ingredients for cooking.
 
 
 Description
-
-Can-in-can_steaming.svg
 
 The double boiler comes in a wide variety of shapes, sizes, and types, but traditionally is a wide, cylindrical, usually metal container made of three or four basic parts: a handle, an outer (or lower) container that holds the working fluid, an inner (or upper), smaller container that fits inside the outer one and which holds the material to be heated or cooked, and sometimes a base underneath. Under the outer container of the bain-marie (or built into its base) is a heat source.
 
@@ -27,8 +23,6 @@ Culinary applications
 
 In cooking applications, a bain-marie usually consists of a pan of water in which another container or containers of food to be cooked is placed within the pan of water.[1]
 
-Fondant_au_chocolat_(250g_de_beurre)_-_Bain-marie_au_four.jpg
-
 -   Chocolate can be melted in a bain-marie to avoid splitting and caking onto the pot. Special dessert bains-marie have a thermally insulated container and are used as a chocolate fondue.
 -   Cheesecake is often baked in a bain-marie to prevent the top from cracking in the centre.
 -   Custard may be cooked in a bain-marie to keep a crust from forming on the outside of the custard before the interior is fully cooked. In the case of the crème brûlée, placing the ramekins in a roasting pan and filling the pan with hot water until it is 1/2 to 2/3 of the way up the sides of the ramekins transfers the heat to the custard gently, which prevents the custard from curdling. The humidity from the steam that rises as the water heats helps keep the top of the custard from becoming too dry.[2]
@@ -47,7 +41,7 @@ In small scale soap-making, a bain-marie's inherent control over maximum tempera
 
 History
 
-Mary's_Bath_1528_detail_AQ9_(1).tif ]]
+]]
 
 The name comes from the medieval-Latin term _balneum_ (or _balineum_) _Mariae_—literally, _Mary's bath_—from which the French _bain de Marie_, or _bain-marie_, is derived. The device's invention has been popularly attributed to Mary the Jewess, an ancient alchemist. However, the water bath was known many centuries earlier (Hippocrates and Theophrastus).[3]
 

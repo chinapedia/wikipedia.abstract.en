@@ -16,7 +16,7 @@ Alberta is named after Princess Louise Caroline Alberta (1848–1939),[7] the fo
 
 Geography
 
-Alberta_Topo_Labeled_90_dpi.png map of Alberta]] Alberta, with an area of , is the fourth-largest province after Quebec, Ontario and British Columbia.[10]
+map of Alberta]] Alberta, with an area of , is the fourth-largest province after Quebec, Ontario and British Columbia.[10]
 
 Alberta's southern border is the 49th parallel north, which separates it from the U.S. state of Montana; while the 60th parallel north divides it from the Northwest Territories. The 110th meridian west separates it from the province of Saskatchewan; while on the west its boundary with British Columbia follows the 120th meridian west south from the Northwest Territories at 60°N until it reaches the Continental Divide at the Rocky Mountains, and from that point follows the line of peaks marking the Continental Divide in a generally southeasterly direction until it reaches the Montana border at 49°N.[11]
 
@@ -24,7 +24,7 @@ The province extends north to south and east to west at its maximum width. Its h
 
 With the exception of the semi-arid steppe of the south-eastern section, the province has adequate water resources. There are numerous rivers and lakes used for swimming, fishing and a range of water sports. There are three large lakes, Lake Claire () in Wood Buffalo National Park, Lesser Slave Lake (), and Lake Athabasca () which lies in both Alberta and Saskatchewan. The longest river in the province is the Athabasca River which travels from the Columbia Icefield in the Rocky Mountains to Lake Athabasca.[13]
 
-The largest river is the Peace River with an average flow of 2161 m³/s. The Peace River originates in the Rocky Mountains of northern British Columbia and flows through northern Alberta and into the Slave River, a tributary of the Mackenzie River. Moraine_Lake_17092005.jpg in Banff National Park|left]] Alberta's capital city, Edmonton, is located at about the geographic centre of the province. It is the most northerly major city in Canada, and serves as a gateway and hub for resource development in northern Canada. The region, with its proximity to Canada's largest oil fields, has most of western Canada's oil refinery capacity. Calgary is about south of Edmonton and north of Montana, surrounded by extensive ranching country. Almost 75% of the province's population lives in the Calgary–Edmonton Corridor. The land grant policy to the railroads served as a means to populate the province in its early years.[14]
+The largest river is the Peace River with an average flow of 2161 m³/s. The Peace River originates in the Rocky Mountains of northern British Columbia and flows through northern Alberta and into the Slave River, a tributary of the Mackenzie River. in Banff National Park|left]] Alberta's capital city, Edmonton, is located at about the geographic centre of the province. It is the most northerly major city in Canada, and serves as a gateway and hub for resource development in northern Canada. The region, with its proximity to Canada's largest oil fields, has most of western Canada's oil refinery capacity. Calgary is about south of Edmonton and north of Montana, surrounded by extensive ranching country. Almost 75% of the province's population lives in the Calgary–Edmonton Corridor. The land grant policy to the railroads served as a means to populate the province in its early years.[14]
 
 Most of the northern half of the province is boreal forest, while the Rocky Mountains along the southwestern boundary are largely forested (see Alberta Mountain forests and Alberta-British Columbia foothills forests). The southern quarter of the province is prairie, ranging from shortgrass prairie in the southeastern corner to mixed grass prairie in an arc to the west and north of it. The central aspen parkland region extending in a broad arc between the prairies and the forests, from Calgary, north to Edmonton, and then east to Lloydminster, contains the most fertile soil in the province and most of the population. Much of the unforested part of Alberta is given over either to grain or to dairy farming, with mixed farming more common in the north and centre, while ranching and irrigated agriculture predominate in the south.[15]
 
@@ -34,9 +34,9 @@ Climate
 
 Alberta has a humid continental climate with warm summers and cold winters. The province is open to cold arctic weather systems from the north, which often produce extremely cold conditions in winter. As the fronts between the air masses shift north and south across Alberta, the temperature can change rapidly. Arctic air masses in the winter produce extreme minimum temperatures varying from in northern Alberta to in southern Alberta, although temperatures at these extremes are rare.
 
-In the summer, continental air masses have produced record maximum temperatures from in the mountains to over in southeastern Alberta.[16] Prairie_Alberta.jpg in Alberta]] Alberta extends for over from north to south; its climate, therefore, varies considerably. Average high temperatures in January range from in the southwest to in the far north. The climate is also influenced by the presence of the Rocky Mountains to the southwest, which disrupt the flow of the prevailing westerly winds and cause them to drop most of their moisture on the western slopes of the mountain ranges before reaching the province, casting a rain shadow over much of Alberta. The northerly location and isolation from the weather systems of the Pacific Ocean cause Alberta to have a dry climate with little moderation from the ocean. Annual precipitation ranges from in the southeast to in the north, except in the foothills of the Rocky Mountains where total precipitation including snowfall can reach annually.[17][18]
+In the summer, continental air masses have produced record maximum temperatures from in the mountains to over in southeastern Alberta.[16] in Alberta]] Alberta extends for over from north to south; its climate, therefore, varies considerably. Average high temperatures in January range from in the southwest to in the far north. The climate is also influenced by the presence of the Rocky Mountains to the southwest, which disrupt the flow of the prevailing westerly winds and cause them to drop most of their moisture on the western slopes of the mountain ranges before reaching the province, casting a rain shadow over much of Alberta. The northerly location and isolation from the weather systems of the Pacific Ocean cause Alberta to have a dry climate with little moderation from the ocean. Annual precipitation ranges from in the southeast to in the north, except in the foothills of the Rocky Mountains where total precipitation including snowfall can reach annually.[17][18]
 
-The province is the namesake of the Alberta clipper, a type of intense, fast-moving winter storm that generally forms over or near the province and pushed with great speed by the continental polar jetstream descends over the rest of Southern Canada and the northern tier of the United States.[19] May_2011_Wildfires_in_Alberta,_Canada.jpg In the summer, the average daytime temperatures range from around in the Rocky Mountain valleys and far north, up to around in the dry prairie of the southeast. The northern and western parts of the province experience higher rainfall and lower evaporation rates caused by cooler summer temperatures. The south and east-central portions are prone to drought-like conditions sometimes persisting for several years, although even these areas can receive heavy precipitation, sometimes resulting in flooding. Alberta_Köppen.svg in Alberta]]
+The province is the namesake of the Alberta clipper, a type of intense, fast-moving winter storm that generally forms over or near the province and pushed with great speed by the continental polar jetstream descends over the rest of Southern Canada and the northern tier of the United States.[19] In the summer, the average daytime temperatures range from around in the Rocky Mountain valleys and far north, up to around in the dry prairie of the southeast. The northern and western parts of the province experience higher rainfall and lower evaporation rates caused by cooler summer temperatures. The south and east-central portions are prone to drought-like conditions sometimes persisting for several years, although even these areas can receive heavy precipitation, sometimes resulting in flooding. in Alberta]]
 
 Alberta is a sunny province. Annual bright sunshine totals range between 1,900 up to just under 2,600 hours per year. Northern Alberta gets about 18 hours of daylight in the summer.[20]
 
@@ -92,32 +92,32 @@ Ecology
 
 Flora
 
-DinosaurProvincialParkHoodoo.jpgs in Dinosaur Provincial Park]] In central and northern Alberta the arrival of spring is marked by the early flowering of the prairie crocus anemone; this member of the buttercup family has been recorded flowering as early as March, though April is the usual month for the general population.[29] Other prairie flora known to flower early are the golden bean and wild rose.[30] Members of the sunflower family blossom on the prairie in the summer months between July and September.[31] The southern and east central parts of Alberta are covered by short prairie grass,[32] which dries up as summer lengthens, to be replaced by hardy perennials such as the prairie coneflower, fleabane, and sage. Both yellow and white sweet clover can be found throughout the southern and central areas of the province.
+s in Dinosaur Provincial Park]] In central and northern Alberta the arrival of spring is marked by the early flowering of the prairie crocus anemone; this member of the buttercup family has been recorded flowering as early as March, though April is the usual month for the general population.[29] Other prairie flora known to flower early are the golden bean and wild rose.[30] Members of the sunflower family blossom on the prairie in the summer months between July and September.[31] The southern and east central parts of Alberta are covered by short prairie grass,[32] which dries up as summer lengthens, to be replaced by hardy perennials such as the prairie coneflower, fleabane, and sage. Both yellow and white sweet clover can be found throughout the southern and central areas of the province.
 
 The trees in the parkland region of the province grow in clumps and belts on the hillsides. These are largely deciduous, typically aspen, poplar, and willow. Many species of willow and other shrubs grow in virtually any terrain. On the north side of the North Saskatchewan River evergreen forests prevail for thousands of square kilometres. Aspen poplar, balsam poplar (or in some parts cottonwood), and paper birch are the primary large deciduous species. Conifers include jack pine, Rocky Mountain pine, lodgepole pine, both white and black spruce, and the deciduous conifer tamarack.
 
 Fauna
 
-Ovis_canadensis_2.jpg is Alberta's provincial animal]] The four climatic regions (alpine, boreal forest, parkland, and prairie) of Alberta are home to many different species of animals. The south and central prairie was the land of the bison, commonly known as buffalo, its grasses providing pasture and breeding ground for millions of buffalo. The buffalo population was decimated during early settlement, but since then buffalo have made a comeback, living on farms and in parks all over Alberta.
+is Alberta's provincial animal]] The four climatic regions (alpine, boreal forest, parkland, and prairie) of Alberta are home to many different species of animals. The south and central prairie was the land of the bison, commonly known as buffalo, its grasses providing pasture and breeding ground for millions of buffalo. The buffalo population was decimated during early settlement, but since then buffalo have made a comeback, living on farms and in parks all over Alberta.
 
 Alberta is home to many large carnivores. Among them are the grizzly bears and black bears, which are found in the mountains and wooded regions. Smaller carnivores of the canine and feline families include coyotes, wolves, fox, lynx, bobcat and mountain lion (cougar).
 
 Herbivorous animals are found throughout the province. Moose, mule deer, elk, and white-tailed deer are found in the wooded regions, and pronghorn can be found in the prairies of southern Alberta. Bighorn sheep and mountain goats live in the Rocky Mountains. Rabbits, porcupines, skunks, squirrels and many species of rodents and reptiles live in every corner of the province. Alberta is home to only one variety of venomous snake, the prairie rattlesnake.
 
-Mill_woods_edmonton_waterfowl.JPGCentral and northern Alberta and the region farther north is the nesting ground of many migratory birds. Vast numbers of ducks, geese, swans and pelicans arrive in Alberta every spring and nest on or near one of the hundreds of small lakes that dot northern Alberta. Eagles, hawks, owls and crows are plentiful, and a huge variety of smaller seed and insect-eating birds can be found. Alberta, like other temperate regions, is home to mosquitoes, flies, wasps, and bees. Rivers and lakes are populated with pike, walleye, whitefish, rainbow, speckled, brown trout, and sturgeon. Bull trout, native to the province, is Alberta's provincial fish. Turtles are found in some water bodies in the southern part of the province. Frogs and salamanders are a few of the amphibians that make their homes in Alberta.
+Central and northern Alberta and the region farther north is the nesting ground of many migratory birds. Vast numbers of ducks, geese, swans and pelicans arrive in Alberta every spring and nest on or near one of the hundreds of small lakes that dot northern Alberta. Eagles, hawks, owls and crows are plentiful, and a huge variety of smaller seed and insect-eating birds can be found. Alberta, like other temperate regions, is home to mosquitoes, flies, wasps, and bees. Rivers and lakes are populated with pike, walleye, whitefish, rainbow, speckled, brown trout, and sturgeon. Bull trout, native to the province, is Alberta's provincial fish. Turtles are found in some water bodies in the southern part of the province. Frogs and salamanders are a few of the amphibians that make their homes in Alberta.
 
 Alberta is the only province in Canada—as well as one of the few places in the world—that is free of Norwegian rats.[33] Since the early 1950s, the Government of Alberta has operated a rat-control program, which has been so successful that only isolated instances of wild rat sightings are reported, usually of rats arriving in the province aboard trucks or by rail. In 2006, Alberta Agriculture reported zero findings of wild rats; the only rat interceptions have been domesticated rats that have been seized from their owners. It is illegal for individual Albertans to own or keep Norwegian rats of any description; the animals can only be kept in the province by zoos, universities and colleges, and recognized research institutions. In 2009, several rats were found and captured, in small pockets in southern Alberta,[34] putting Alberta's rat-free status in jeopardy. A colony of rats were subsequently found in a landfill near Medicine Hat in 2012, and again in 2014.[35][36]
 
 Paleontology
 
-Pachyrhinosaurus_skull.jpg'' skull; large quantities of this genus are preserved in the Wapiti Formation]] Alberta has one of the greatest diversities and abundances of Late Cretaceous dinosaur fossils in the world.[37] Taxa are represented by complete fossil skeletons, isolated material, microvertebrate remains, and even mass graves. At least 38 dinosaur type specimens were collected in the province. The Foremost Formation, Oldman Formation and Dinosaur Park Formations collectively comprise the Judith River Group and are the most thoroughly studied dinosaur-bearing strata in Alberta.[38]
+'' skull; large quantities of this genus are preserved in the Wapiti Formation]] Alberta has one of the greatest diversities and abundances of Late Cretaceous dinosaur fossils in the world.[37] Taxa are represented by complete fossil skeletons, isolated material, microvertebrate remains, and even mass graves. At least 38 dinosaur type specimens were collected in the province. The Foremost Formation, Oldman Formation and Dinosaur Park Formations collectively comprise the Judith River Group and are the most thoroughly studied dinosaur-bearing strata in Alberta.[38]
 
 Dinosaur-bearing strata are distributed widely throughout Alberta.[39] The Dinosaur Provincial Park area contains outcrops of the Dinosaur Park Formation and Oldman Formation. In the central and southern regions of Alberta are intermittent Scollard Formation outcrops. In the Drumheller Valley and Edmonton regions there are exposed Horseshoe Canyon facies. Other formations have been recorded as well, like the Milk River and Foremost Formations. However, these latter two have a lower diversity of documented dinosaurs, primarily due to their lower total fossil quantity and neglect from collectors who are hindered by the isolation and scarcity of exposed outcrops. Their dinosaur fossils are primarily teeth recovered from microvertebrate fossil sites. Additional geologic formations that have produced only few fossils are the Belly River Group and St. Mary River Formations of the southwest and the northwestern Wapiti Formation. The Wapiti Formation contains two _Pachyrhinosaurus_ bone beds that break its general trend of low productivity, however. The Bearpaw Formation represents strata deposited during a marine transgression. Dinosaurs are known from this formation, but represent specimens washed out to sea or reworked from older sediments.[40]
 
 
 History
 
-Alexander_Rutherford.jpg, Alberta's first premier]] Bow-river-banff-np.jpg Paleo-Indians arrived in Alberta at least 10,000 years ago, toward the end of the last ice age. They are thought to have migrated from Siberia to Alaska on a land bridge across the Bering Strait and then possibly moved down the east side of the Rocky Mountains through Alberta to settle the Americas. Others may have migrated down the coast of British Columbia and then moved inland.[41] Over time they differentiated into various First Nations peoples, including the Plains Indian tribes of southern Alberta such as those of the Blackfoot Confederacy and the Plains Cree, who generally lived by hunting buffalo, and the more northerly tribes such as the Woodland Cree and Chipewyan who hunted, trapped, and fished for a living.[42]
+, Alberta's first premier]] Paleo-Indians arrived in Alberta at least 10,000 years ago, toward the end of the last ice age. They are thought to have migrated from Siberia to Alaska on a land bridge across the Bering Strait and then possibly moved down the east side of the Rocky Mountains through Alberta to settle the Americas. Others may have migrated down the coast of British Columbia and then moved inland.[41] Over time they differentiated into various First Nations peoples, including the Plains Indian tribes of southern Alberta such as those of the Blackfoot Confederacy and the Plains Cree, who generally lived by hunting buffalo, and the more northerly tribes such as the Woodland Cree and Chipewyan who hunted, trapped, and fished for a living.[42]
 
 After the British arrival in Canada, approximately half of the province of Alberta, south of the Athabasca River drainage, became part of Rupert's Land which consisted of all land drained by rivers flowing into Hudson Bay. This area was granted by Charles II of England to the Hudson's Bay Company (HBC) in 1670, and rival fur trading companies were not allowed to trade in it. After the arrival of French Canadians in the west around 1731, they settled near fur trading posts, establishing communities such as Lac La Biche and Bonnyville. Fort La Jonquière was established near what is now Calgary in 1752.
 
@@ -135,8 +135,6 @@ In 2016, a wildfire resulted in the largest evacuation of residents in Alberta's
 
 
 Demographics
-
-Canada_Alberta_Density_2016.png Alberta_population.svg
 
 The 2016 census reported Alberta had a population of 4,067,175 living in 1,527,678 of its 1,654,129 total dwellings, an 11.6% change from its 2011 population of 3,645,257. With a land area of , it had a population density of in 2016.[48] Statistics Canada estimated the province to have a population of 4,362,503 in Q2 of 2019.[49]
 
@@ -210,7 +208,7 @@ In 2014, Merchandise exports totalled US$121.4 billion. Energy revenues totalled
 
 Industry
 
-Syncrude_mildred_lake_plant.jpg]] Alberta is the largest producer of conventional crude oil, synthetic crude, natural gas and gas products in Canada. Alberta is the world's second-largest exporter of natural gas and the fourth-largest producer.[94] Two of the largest producers of petrochemicals in North America are located in central and north-central Alberta. In both Red Deer and Edmonton, polyethylene and vinyl manufacturers produce products that are shipped all over the world. Edmonton's oil refineries provide the raw materials for a large petrochemical industry to the east of Edmonton.
+]] Alberta is the largest producer of conventional crude oil, synthetic crude, natural gas and gas products in Canada. Alberta is the world's second-largest exporter of natural gas and the fourth-largest producer.[94] Two of the largest producers of petrochemicals in North America are located in central and north-central Alberta. In both Red Deer and Edmonton, polyethylene and vinyl manufacturers produce products that are shipped all over the world. Edmonton's oil refineries provide the raw materials for a large petrochemical industry to the east of Edmonton.
 
 The Athabasca oil sands surrounding Fort McMurray have estimated unconventional oil reserves approximately equal to the conventional oil reserves of the rest of the world, estimated to be 1.6 trillion barrels (254 km³). Many companies employ both conventional strip mining and non-conventional in situ methods to extract the bitumen from the oil sands. As of late 2006 there were over $100 billion in oil sands projects under construction or in the planning stages in northeastern Alberta.[95]
 
@@ -220,7 +218,7 @@ With concerted effort and support from the provincial government, several high-t
 
 Agriculture and forestry
 
-Alberta_July_2011.jpg Warner_Elevator_Row.jpg, the last surviving elevator row in Alberta, currently unprotected]] Agriculture has a significant position in the province's economy. The province has over three million head of cattle,[98] and Alberta beef has a healthy worldwide market. Nearly one half of all Canadian beef is produced in Alberta. Alberta is one of the top producers of plains buffalo (bison) for the consumer market. Sheep for wool and mutton are also raised.
+, the last surviving elevator row in Alberta, currently unprotected]] Agriculture has a significant position in the province's economy. The province has over three million head of cattle,[98] and Alberta beef has a healthy worldwide market. Nearly one half of all Canadian beef is produced in Alberta. Alberta is one of the top producers of plains buffalo (bison) for the consumer market. Sheep for wool and mutton are also raised.
 
 Wheat and canola are primary farm crops, with Alberta leading the provinces in spring wheat production; other grains are also prominent. Much of the farming is dryland farming, often with fallow seasons interspersed with cultivation. Continuous cropping (in which there is no fallow season) is gradually becoming a more common mode of production because of increased profits and a reduction of soil erosion. Across the province, the once common grain elevator is slowly being lost as rail lines are decreasing; farmers typically truck the grain to central points.[99]
 
@@ -236,7 +234,7 @@ According to Alberta Economic Development, Calgary and Edmonton both host over f
 
 Alberta's Rockies include well-known tourist destinations Banff National Park and Jasper National Park. The two mountain parks are connected by the scenic Icefields Parkway. Banff is located west of Calgary on Highway 1, and Jasper is located west of Edmonton on Yellowhead Highway. Five of Canada's fourteen UNESCO World heritage sites are located within the province: Canadian Rocky Mountain Parks, Waterton-Glacier International Peace Park, Wood Buffalo National Park, Dinosaur Provincial Park and Head-Smashed-In Buffalo Jump.
 
-Lake_Louise_17092005.jpg in the Canadian Rockies]] About 1.2 million people visit the Calgary Stampede,[108] a celebration of Canada's own Wild West and the cattle ranching industry. About 700,000 people enjoy Edmonton's K-Days (formerly Klondike Days and Capital EX).[109][110] Edmonton was the gateway to the only all-Canadian route to the Yukon gold fields, and the only route which did not require gold-seekers to travel the exhausting and dangerous Chilkoot Pass.
+in the Canadian Rockies]] About 1.2 million people visit the Calgary Stampede,[108] a celebration of Canada's own Wild West and the cattle ranching industry. About 700,000 people enjoy Edmonton's K-Days (formerly Klondike Days and Capital EX).[109][110] Edmonton was the gateway to the only all-Canadian route to the Yukon gold fields, and the only route which did not require gold-seekers to travel the exhausting and dangerous Chilkoot Pass.
 
 Another tourist destination that draws more than 650,000 visitors each year is the Drumheller Valley, located northeast of Calgary. Drumheller, "Dinosaur Capital of The World", offers the Royal Tyrrell Museum of Palaeontology. Drumheller also had a rich mining history being one of Western Canada's largest coal producers during the war years.
 
@@ -247,9 +245,9 @@ Alberta has numerous ski resorts most notably Sunshine Village, Lake Louise, Mar
 
 Government and politics
 
-Edmonton_leg.jpg in Edmonton]]
+in Edmonton]]
 
-JasperRoadEdmt.jpg is Edmonton's hub of offices and the financial centres.]] The Government of Alberta is organized as a parliamentary democracy with a unicameral legislature. Its unicameral legislature—the Legislative Assembly—consists of 87 members elected first past the post (FPTP) from single-member constituencies.[111]
+is Edmonton's hub of offices and the financial centres.]] The Government of Alberta is organized as a parliamentary democracy with a unicameral legislature. Its unicameral legislature—the Legislative Assembly—consists of 87 members elected first past the post (FPTP) from single-member constituencies.[111]
 
 Locally municipal governments and school boards are elected and operate separately. Their boundaries do not necessarily coincide.
 
@@ -295,7 +293,7 @@ Alberta is the only province in Canada without a provincial sales tax. Alberta r
 
 Law enforcement
 
-Alberta_Sheriff.jpg vehicle, part of the disaster response to the 2016 Fort McMurray wildfire]] Policing in the province of Alberta upon its creation was the responsibility of the Royal Northwest Mounted Police. In 1917, due to pressures of World War I, the Alberta Provincial Police was created. This organization policed the province until it was disbanded as a Great Depression era cost cutting measure in 1932. It was at that time the now renamed Royal Canadian Mounted Police resumed policing of the province, specifically RCMP "K" Division. With the advent of the Alberta Sheriffs Branch, the distribution of duties of law enforcement in Alberta has been evolving as certain aspects, such as traffic enforcement, mobile surveillance and the close protection of the Premier of Alberta have been transferred to the Sheriffs. In 2006, Alberta formed the Alberta Law Enforcement Response Teams (ALERT) to combat organized crime and the serious offences that accompany it. ALERT is made up of members of the RCMP, Sheriffs Branch and various major municipal police forces in Alberta.
+vehicle, part of the disaster response to the 2016 Fort McMurray wildfire]] Policing in the province of Alberta upon its creation was the responsibility of the Royal Northwest Mounted Police. In 1917, due to pressures of World War I, the Alberta Provincial Police was created. This organization policed the province until it was disbanded as a Great Depression era cost cutting measure in 1932. It was at that time the now renamed Royal Canadian Mounted Police resumed policing of the province, specifically RCMP "K" Division. With the advent of the Alberta Sheriffs Branch, the distribution of duties of law enforcement in Alberta has been evolving as certain aspects, such as traffic enforcement, mobile surveillance and the close protection of the Premier of Alberta have been transferred to the Sheriffs. In 2006, Alberta formed the Alberta Law Enforcement Response Teams (ALERT) to combat organized crime and the serious offences that accompany it. ALERT is made up of members of the RCMP, Sheriffs Branch and various major municipal police forces in Alberta.
 
 Military
 
@@ -306,9 +304,9 @@ Transportation
 
 Road
 
-DavidThompsonHighway.JPG beyond Banff National Park]]
+beyond Banff National Park]]
 
-Alberta_Hwy_63_2.jpg]] Alberta has over of highways and roads, of which nearly are paved.[144] The main north-south corridor is Highway 2, which begins south of Cardston at the Carway border crossing and is part of the CANAMEX Corridor. Highway 4, which effectively extends Interstate 15 into Alberta and is the busiest U.S. gateway to the province, begins at the Coutts border crossing and ends at Lethbridge. Highway 3 joins Lethbridge to Fort Macleod and links Highway 2 to Highway 4. Highway 2 travels north through Fort Macleod, Calgary, Red Deer, and Edmonton.[145]
+]] Alberta has over of highways and roads, of which nearly are paved.[144] The main north-south corridor is Highway 2, which begins south of Cardston at the Carway border crossing and is part of the CANAMEX Corridor. Highway 4, which effectively extends Interstate 15 into Alberta and is the busiest U.S. gateway to the province, begins at the Coutts border crossing and ends at Lethbridge. Highway 3 joins Lethbridge to Fort Macleod and links Highway 2 to Highway 4. Highway 2 travels north through Fort Macleod, Calgary, Red Deer, and Edmonton.[145]
 
 North of Edmonton, the highway continues to Athabasca, then northwesterly along the south shore of Lesser Slave Lake into High Prairie, north to Peace River, west to Fairview and finally south to Grande Prairie, where it ends at an interchange with Highway 43.[146] The section of Highway 2 between Calgary and Edmonton has been named the Queen Elizabeth II Highway to commemorate the visit of the monarch in 2005.[147] Highway 2 is supplemented by two more highways that run parallel to it: Highway 22, west of Highway 2, known as _Cowboy Trail_, and Highway 21, east of Highway 2. Highway 43 travels northwest into Grande Prairie and the Peace River Country; Highway 63 travels northeast to Fort McMurray, the location of the Athabasca oil sands.[148]
 
@@ -318,7 +316,7 @@ Urban stretches of Alberta's major highways and freeways are often called _trail
 
 Public transit
 
-Calgary_LRT-3.JPG C-Train ]] Calgary, Edmonton, Red Deer, Medicine Hat, and Lethbridge have substantial public transit systems. In addition to buses, Calgary and Edmonton operate light rail transit (LRT) systems. Edmonton LRT, which is underground in the downtown core and on the surface outside the CBD, was the first of the modern generation of light rail systems to be built in North America, while the Calgary C-Train has one of the highest number of daily riders of any LRT system in North America.
+C-Train ]] Calgary, Edmonton, Red Deer, Medicine Hat, and Lethbridge have substantial public transit systems. In addition to buses, Calgary and Edmonton operate light rail transit (LRT) systems. Edmonton LRT, which is underground in the downtown core and on the surface outside the CBD, was the first of the modern generation of light rail systems to be built in North America, while the Calgary C-Train has one of the highest number of daily riders of any LRT system in North America.
 
 Air
 
@@ -331,11 +329,11 @@ There are more than of operating mainline railway in Alberta. The vast majority 
 
 Health care
 
-Alberta_Children's_Hospital_3+4.jpg, Calgary]]
+, Calgary]]
 
 Alberta provides a publicly funded health care system, Alberta Health Services, for all its citizens and residents as set out by the provisions of the Canada Health Act of 1984. Alberta became Canada's second province (after Saskatchewan) to adopt a Tommy Douglas-style program in 1950, a precursor to the modern medicare system.
 
-Alberta's health care budget is currently $22.5 billion during the 2018–2019 fiscal year (approximately 45% of all government spending), making it the best funded health care system per-capita in Canada.[155] Every hour the province spends more than $2.5 million, (or $60 million per day), to maintain and improve health care in the province.[156] University_Hospital_Complex_University_Of_Alberta_Edmonton_Alberta_Canada_02A.jpg complex]] Notable health, education, research, and resources facilities in Alberta, all of which are located within Calgary or Edmonton:
+Alberta's health care budget is currently $22.5 billion during the 2018–2019 fiscal year (approximately 45% of all government spending), making it the best funded health care system per-capita in Canada.[155] Every hour the province spends more than $2.5 million, (or $60 million per day), to maintain and improve health care in the province.[156] complex]] Notable health, education, research, and resources facilities in Alberta, all of which are located within Calgary or Edmonton:
 
 Calgary
 
@@ -370,7 +368,7 @@ All public health care services funded by the Government of Alberta are delivere
 
 Education
 
-SAIT_Heart_Building_2.jpg]] As with any Canadian province, the Alberta Legislature has (almost) exclusive authority to make laws respecting education. Since 1905 the Legislature has used this capacity to continue the model of locally elected public and separate school boards which originated prior to 1905, as well as to create and regulate universities, colleges, technical institutions and other educational forms and institutions (public charter schools, private schools, home schooling).
+]] As with any Canadian province, the Alberta Legislature has (almost) exclusive authority to make laws respecting education. Since 1905 the Legislature has used this capacity to continue the model of locally elected public and separate school boards which originated prior to 1905, as well as to create and regulate universities, colleges, technical institutions and other educational forms and institutions (public charter schools, private schools, home schooling).
 
 Elementary schools
 
@@ -382,7 +380,7 @@ Public and separate school boards, charter schools, and private schools all foll
 
 Universities
 
-Saint_Josephs_College_University_Of_Alberta_Edmonton_Alberta_Canada_02A.jpg]]
+]]
 
 The University of Alberta, located in Edmonton and established in 1908, is Alberta's oldest and largest university. The University of Calgary, once affiliated with the University of Alberta, gained its autonomy in 1966 and is now the second-largest university in Alberta. Athabasca University, which focuses on distance learning, and the University of Lethbridge are located in Athabasca and Lethbridge respectively.
 
@@ -393,7 +391,7 @@ There is also many private post-secondary institutions, mostly Christian Univers
 
 Culture
 
-StampedeRodeo2002.JPG]] Summer brings many festivals to the province of Alberta, especially in Edmonton. The Edmonton Fringe Festival is the world's second-largest after the Edinburgh Festival. Both Calgary and Edmonton host a number of annual festivals and events, including folk music festivals. The city's "heritage days" festival sees the participation of over 70 ethnic groups. Edmonton's Churchill Square is home to a large number of the festivals, including the large Taste of Edmonton & The Works Art & Design Festival throughout the summer months.
+]] Summer brings many festivals to the province of Alberta, especially in Edmonton. The Edmonton Fringe Festival is the world's second-largest after the Edinburgh Festival. Both Calgary and Edmonton host a number of annual festivals and events, including folk music festivals. The city's "heritage days" festival sees the participation of over 70 ethnic groups. Edmonton's Churchill Square is home to a large number of the festivals, including the large Taste of Edmonton & The Works Art & Design Festival throughout the summer months.
 
 The City of Calgary is also famous for its Stampede, dubbed "The Greatest Outdoor Show on Earth". The Stampede is Canada's biggest rodeo festival and features various races and competitions, such as calf roping and bull riding. In line with the western tradition of rodeo are the cultural artisans that reside and create unique Alberta western heritage crafts.
 

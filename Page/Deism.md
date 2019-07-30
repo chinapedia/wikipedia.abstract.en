@@ -93,7 +93,7 @@ Natural theology is a facet of the revolution in world view that occurred in Eur
 
 Discovery of diversity
 
-LifeAndWorksOfConfucius1687.jpg at Paris in 1687.[35]]] The humanist tradition of the Renaissance included a revival of interest in Europe's classical past in ancient Greece and Rome. The veneration of that classical past, particularly pre-Christian Rome, the new availability of Greek philosophical works, and the successes of humanism and natural science, along with the fragmentation of Christianity and an increased understanding of other faiths, all helped erode the image of the Catholic Church as the unique source of wisdom, destined to dominate the whole world.[36]
+at Paris in 1687.[35]]] The humanist tradition of the Renaissance included a revival of interest in Europe's classical past in ancient Greece and Rome. The veneration of that classical past, particularly pre-Christian Rome, the new availability of Greek philosophical works, and the successes of humanism and natural science, along with the fragmentation of Christianity and an increased understanding of other faiths, all helped erode the image of the Catholic Church as the unique source of wisdom, destined to dominate the whole world.[36]
 
 In addition, study of classical documents led to the realization that some historical documents are less reliable than others, leading to the beginnings of biblical criticism. In particular, scholars working on biblical manuscripts began to develop the principles of textual criticism and a view of the New Testament as the product of a particular historical period different from their own.[37][38]
 
@@ -115,7 +115,7 @@ Isaac Newton's (1642–1727) mathematical explanation of universal gravitation e
 
 Precursors
 
-Edward_Herbert_1st_Baron_Herbert_of_Cherbury_by_Isaac_Oliver.jpg (1560–1617)]]
+(1560–1617)]]
 
 Edward, Lord Herbert of Cherbury (d. 1648) has been called the "father of English deism".[41]
 
@@ -170,8 +170,6 @@ Especially noteworthy is Matthew Tindal's _Christianity as Old as the Creation_ 
 
 David Hume
 
-David_Hume.jpg
-
 Views differ on whether David Hume was a deist, an atheist, or something else. Hume himself was uncomfortable with both terms, and Hume scholar Paul Russell has argued that the best and safest term for Hume's views is _irreligion_.[50] His writings are sometimes credited with causing or contributing to the decline of deism, but his works on religion lacked influence at the time they were published,[51] and in England deism was already in decline.[52] By the time of his famous _Dialogues Concerning Natural Religion_ (1779) it had almost vanished.
 
 His skepticism about miracles makes him a natural ally of deism, but in his _Natural History of Religion_ (1757), he contends that polytheism, not monotheism, was "the first and most ancient religion of mankind" and that the psychological basis of religion is not reason, but fear of the unknown.[53]
@@ -180,7 +178,7 @@ His skepticism about the validity of natural religion cuts equally against both 
 
 Deism in continental Europe
 
-D'après_Nicolas_de_Largillière,_portrait_de_Voltaire_(Institut_et_Musée_Voltaire)_-001.jpg ]] English deism, in the words of Peter Gay, "travelled well. ... As Deism waned in England, it waxed in France and the German states."[55]
+]] English deism, in the words of Peter Gay, "travelled well. ... As Deism waned in England, it waxed in France and the German states."[55]
 
 France had its own tradition of religious skepticism and natural theology in the works of Montaigne, Bayle, and Montesquieu. The most famous of the French deists was Voltaire, who acquired a taste for Newtonian science, and reinforcement of deistic inclinations, during a two-year visit to England starting in 1726.
 
@@ -189,8 +187,6 @@ French deists also included Maximilien Robespierre and Rousseau. For a short per
 Immanuel Kant's identification with deism is controversial. An argument in favor of Kant as deist is Allen Wood's "Kant's Deism" in P. Rossi and M. Wreen (eds.), _Kant's Philosophy of Religion Reconsidered_ (Bloomington: Indiana University Press, 1991); an argument against Kant as deist is Stephen Palmquist's "Kant's Theistic Solution".[56]
 
 Deism in the United States
-
-Thomas_Paine.jpg
 
 In the United States, Enlightenment philosophy (which itself was heavily inspired by deist ideals) played a major role in creating the principle of religious freedom, expressed in Thomas Jefferson's letters and included in the First Amendment to the United States Constitution. American Founding Fathers, or Framers of the Constitution, who were especially noted for being influenced by such philosophy include Thomas Jefferson, Benjamin Franklin, Cornelius Harnett, Gouverneur Morris, and Hugh Williamson. Their political speeches show distinct deistic influence.
 

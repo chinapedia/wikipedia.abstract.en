@@ -12,8 +12,7 @@ Backup crew
 Crew seating arrangements
 
 +---------+-----------+-----------+-----------------------------------------------------------------+
-| Seat[4] | Launch    | Landing   | STS-121_seating_assignments.png                                 |
-|         |           |           | Seats 1–4 are on the Flight Deck. Seats 5–7 are on the Middeck. |
+| Seat[4] | Launch    | Landing   | Seats 1–4 are on the Flight Deck. Seats 5–7 are on the Middeck. |
 +=========+===========+===========+=================================================================+
 | S1      | Fullerton | Fullerton |                                                                 |
 +---------+-----------+-----------+-----------------------------------------------------------------+
@@ -39,7 +38,7 @@ As with previous Spacelab missions, the crew was divided between two 12-hour shi
 
 Launch
 
-STS-51-F_shuttle.jpg Space_Shuttle_abort_panel.jpg STS-51-F's first launch attempt on July 12, 1985 was halted with the countdown at T−3 seconds after main engine ignition, when a malfunction of the number two Space Shuttle Main Engine (SSME) coolant valve caused the shutdown of all three main engines. _Challenger_ launched successfully on its second attempt on July 29, 1985, at 17:00 EDT, after a delay of 1 hour 37 minutes due to a problem with the table maintenance block update uplink.
+STS-51-F's first launch attempt on July 12, 1985 was halted with the countdown at T−3 seconds after main engine ignition, when a malfunction of the number two Space Shuttle Main Engine (SSME) coolant valve caused the shutdown of all three main engines. _Challenger_ launched successfully on its second attempt on July 29, 1985, at 17:00 EDT, after a delay of 1 hour 37 minutes due to a problem with the table maintenance block update uplink.
 
 At 3 minutes 31 seconds into the ascent, one of the central engine's two high-pressure fuel turbopump turbine discharge temperature sensors failed. 2 minutes and 12 seconds later, the second sensor failed, causing the shutdown of the central engine. This was the only in-flight main-engine failure of the Shuttle program. Approximately 8 minutes into the flight, one of the same temperature sensors in the right engine failed, and the remaining right-engine temperature sensor displayed readings near the redline for engine shutdown. Booster Systems Engineer Jenny M. Howard acted quickly to command the crew to inhibit any further automatic SSME shutdowns based on readings from the remaining sensors, preventing the potential shutdown of a second engine and a possible abort mode that may have resulted in the loss of the vehicle and crew.[7]
 
@@ -50,7 +49,7 @@ The failed SSME resulted in an Abort to Orbit (ATO) trajectory, whereby the shut
 
 Mission summary
 
-STS-51-F_Plasma_Diagnostics_Package.jpg (RMS)]] Spacelab_2_mission.jpg NASA_shuttle_astronaut_drinks_from_a_specially_designed_Coke_beverage_can.jpg Isabella_lake_STS51F-42-34.jpg STS-51-F's primary payload was the laboratory module Spacelab 2. A special part of the modular Spacelab system, the "igloo", which was located at head of a three-pallet train, provided on-site support to instruments mounted on pallets. The main mission objective was to verify performance of Spacelab systems, determine the interface capability of the orbiter, and measure the environment created by the spacecraft. Experiments covered life sciences, plasma physics, astronomy, high-energy astrophysics, solar physics, atmospheric physics and technology research. Despite mission replanning necessitated by _Challenger_'s abort to orbit trajectory, the Spacelab mission was declared a success.
+(RMS)]] STS-51-F's primary payload was the laboratory module Spacelab 2. A special part of the modular Spacelab system, the "igloo", which was located at head of a three-pallet train, provided on-site support to instruments mounted on pallets. The main mission objective was to verify performance of Spacelab systems, determine the interface capability of the orbiter, and measure the environment created by the spacecraft. Experiments covered life sciences, plasma physics, astronomy, high-energy astrophysics, solar physics, atmospheric physics and technology research. Despite mission replanning necessitated by _Challenger_'s abort to orbit trajectory, the Spacelab mission was declared a success.
 
 The flight marked the first time the ESA Instrument Pointing System (IPS) was tested in orbit. This unique pointing instrument was designed with an accuracy of one arcsecond. Initially, some problems were experienced when it was commanded to track the Sun, but a series of software fixes were made and the problem was corrected. In addition, Tony England became the second amateur radio operator to transmit from space during the mission.
 

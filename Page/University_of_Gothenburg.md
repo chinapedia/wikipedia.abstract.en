@@ -45,8 +45,6 @@ The university is organised into eight academic faculties.[5] Collaboration acro
 -   THE FACULTY OF EDUCATION (_Utbildningsvetenskapliga fakulteten_) is responsible for teacher training in various subjects.
 -   THE FACULTY OF ARTS (_Humanistiska fakulteten_) comprises the humanities, for instance cultural studies, history, literature, history of ideas, religion, modern languages, philosophy, linguistics, theory of science and Swedish language and literature
 
-Göteborgs_universitet_-_humanisten.jpg
-
 -   THE IT FACULTY (_IT fakulteten_) offers programmes in applied information technology, computer science and engineering.
 -   THE FACULTY OF SCIENCE (_Naturvetenskapliga fakulteten_) covers a number of science disciplines such as botany, cell and molecular biology, physics, earth sciences, chemistry, conservation, marine ecology, mathematics, environmental science, and zoology.
 -   THE SAHLGRENSKA ACADEMY (_Sahlgrenska Akadamin_) is part of the University of Gothenburg and functions as a separate academy with the prestigious Sahlgrenska University Hospital'''.
@@ -75,8 +73,6 @@ Noted people
 
 Alumni
 
-GU_-_Artisten.JPG
-
 -   Percy Barnevik, industry leader, former CEO of Asea Brown Boveri
 -   Nick Bostrom, philosopher and futurist, and Director of the Future of Humanity Institute at Oxford University
 -   Malin Byström, operatic soprano
@@ -95,7 +91,7 @@ GU_-_Artisten.JPG
 -   Ann-Sofie Johansson, Creative Advisor and former Head of Design for H&M
 -   Jonas Jonasson, author of _The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared_.
 
-Lotass.jpg, writer and member of the Swedish Academy.]]
+, writer and member of the Swedish Academy.]]
 
 -   Sture Allén, computer linguist, former permanent secretary of the Swedish Academy
 -   Jens Allwood, linguist

@@ -1,4 +1,4 @@
-Tombeau_guattari.JPG, Paris]]
+, Paris]]
 
 PIERRE-FÉLIX GUATTARI (; ; April 30, 1930 – August 29, 1992) was a French psychotherapist, philosopher, semiologist, and activist. He founded both schizoanalysis and ecosophy, and is best known for his intellectual collaborations with Gilles Deleuze, most notably _Anti-Oedipus_ (1972) and _A Thousand Plateaus_ (1980), the two volumes of _Capitalism and Schizophrenia_.
 

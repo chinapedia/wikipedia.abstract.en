@@ -1,5 +1,3 @@
-FlammenAAS.jpg
-
 ATOMIC ABSORPTION SPECTROSCOPY (AAS) and atomic emission spectroscopy (AES) is a spectroanalytical procedure for the quantitative determination of chemical elements using the absorption of optical radiation (light) by free atoms in the gaseous state. Atomic absorption spectroscopy is based on absorption of light by free metallic ions.
 
 In analytical chemistry the technique is used for determining the concentration of a particular element (the analyte) in a sample to be analyzed. AAS can be used to determine over 70 different elements in solution, or directly in solid samples via electrothermal vaporization, and is used in pharmacology, biophysics, archaeology and toxicology research.
@@ -18,7 +16,7 @@ The technique makes use of the atomic absorption spectrum of a sample in order t
 
 Instrumentation
 
-AASBLOCK.JPG In order to analyze a sample for its atomic constituents, it has to be atomized. The atomizers most commonly used nowadays are flames and electrothermal (graphite tube) atomizers. The atoms should then be irradiated by optical radiation, and the radiation source could be an element-specific line radiation source or a continuum radiation source. The radiation then passes through a monochromator in order to separate the element-specific radiation from any other radiation emitted by the radiation source, which is finally measured by a detector.
+In order to analyze a sample for its atomic constituents, it has to be atomized. The atomizers most commonly used nowadays are flames and electrothermal (graphite tube) atomizers. The atoms should then be irradiated by optical radiation, and the radiation source could be an element-specific line radiation source or a continuum radiation source. The radiation then passes through a monochromator in order to separate the element-specific radiation from any other radiation emitted by the radiation source, which is finally measured by a detector.
 
 Atomizers
 
@@ -26,7 +24,7 @@ The atomizers most commonly used nowadays are (spectroscopic) flames and electro
 
 Flame atomizers
 
-The oldest and most commonly used atomizers in AAS are flames, principally the air-acetylene flame with a temperature of about 2300 °C and the nitrous oxide[4] system (N₂O)-acetylene flame with a temperature of about 2700 °C. The latter flame, in addition, offers a more reducing environment, being ideally suited for analytes with high affinity to oxygen.FP8800GM.jpg
+The oldest and most commonly used atomizers in AAS are flames, principally the air-acetylene flame with a temperature of about 2300 °C and the nitrous oxide[4] system (N₂O)-acetylene flame with a temperature of about 2700 °C. The latter flame, in addition, offers a more reducing environment, being ideally suited for analytes with high affinity to oxygen.
 
 Liquid or dissolved samples are typically used with flame atomizers. The sample solution is aspirated by a pneumatic analytical nebulizer, transformed into an aerosol, which is introduced into a spray chamber, where it is mixed with the flame gases and conditioned in a way that only the finest aerosol droplets (< 10 μm) enter the flame. This conditioning process reduces interference, but only about 5% of the aerosolized solution reaches the flame because of it.
 
@@ -40,7 +38,7 @@ In flame AAS a steady-state signal is generated during the time period when the 
 
 Electrothermal atomizers
 
-GFAA_method_development-courtesy_jball-Analytik_Jena_USA.JPG Lvov_furnace_2.JPG Electrothermal AAS (ET AAS) using graphite tube atomizers was pioneered by Boris V. L’vov at the Saint Petersburg Polytechnical Institute, Russia,[5] since the late 1950s, and investigated in parallel by Hans Massmann at the Institute of Spectrochemistry and Applied Spectroscopy (ISAS) in Dortmund, Germany.[6]
+Electrothermal AAS (ET AAS) using graphite tube atomizers was pioneered by Boris V. L’vov at the Saint Petersburg Polytechnical Institute, Russia,[5] since the late 1950s, and investigated in parallel by Hans Massmann at the Institute of Spectrochemistry and Applied Spectroscopy (ISAS) in Dortmund, Germany.[6]
 
 Although a wide variety of graphite tube designs have been used over the years, the dimensions nowadays are typically 20–25 mm in length and 5–6 mm inner diameter. With this technique liquid/dissolved, solid and gaseous samples may be analyzed directly. A measured volume (typically 10–50 μL) or a weighed mass (typically around 1 mg) of a solid sample are introduced into the graphite tube and subject to a temperature program. This typically consists of stages, such as drying – the solvent is evaporated; pyrolysis – the majority of the matrix constituents are removed; atomization – the analyte element is released to the gaseous phase; and cleaning – eventual residues in the graphite tube are removed at high temperature.
 
@@ -70,8 +68,6 @@ Radiation sources
 
 We have to distinguish between line source AAS (LS AAS) and continuum source AAS (CS AAS). In classical LS AAS, as it has been proposed by Alan Walsh,[9] the high spectral resolution required for AAS measurements is provided by the radiation source itself that emits the spectrum of the analyte in the form of lines that are narrower than the absorption lines. Continuum sources, such as deuterium lamps, are only used for background correction purposes. The advantage of this technique is that only a medium-resolution monochromator is necessary for measuring AAS; however, it has the disadvantage that usually a separate lamp is required for each element that has to be determined. In CS AAS, in contrast, a single lamp, emitting a continuum spectrum over the entire spectral range of interest is used for all elements. Obviously, a high-resolution monochromator is required for this technique, as will be discussed later.
 
-Mehrelement-Hohlkathodenlampe_für_bessere_UV-Lichtdurchlässigkeit_mit_eingelassenem_Quarzfenster.jpg
-
 Hollow cathode lamps
 
 Hollow cathode lamps (HCL) are the most common radiation source in LS AAS. Inside the sealed lamp, filled with argon or neon gas at low pressure, is a cylindrical metal cathode containing the element of interest and an anode. A high voltage is applied across the anode and cathode, resulting in an ionization of the fill gas. The gas ions are accelerated towards the cathode and, upon impact on the cathode, sputter cathode material that is excited in the glow discharge to emit the radiation of the sputtered material, i.e., the element of interest. In the majority of cases single element lamps are used, where the cathode is pressed out of predominantly compounds of the target element. Multi-element lamps are available with combinations of compounds of the target elements pressed in the cathode. Multi element lamps produce slightly less sensitivity than single element lamps and the combinations of elements have to be selected carefully to avoid spectral interferences. Most multi-element lamps combine a handful of elements, e.g.: 2 - 8. Atomic Absorption Spectrometers can feature as few as 1-2 hollow cathode lamp positions or in automated multi-element spectrometers, a 8-12 lamp positions may be typically available.
@@ -83,8 +79,6 @@ Electrodeless discharge lamps (EDL) contain a small quantity of the analyte as a
 Deuterium lamps
 
 Deuterium HCL or even hydrogen HCL and deuterium discharge lamps are used in LS AAS for background correction purposes.[10] The radiation intensity emitted by these lamps decreases significantly with increasing wavelength, so that they can be only used in the wavelength range between 190 and about 320 nm.
-
-Continuous_radiation_source.jpg
 
 Continuum sources
 

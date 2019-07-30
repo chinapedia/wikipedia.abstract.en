@@ -1,4 +1,4 @@
-Americas_satellite_map.jpg. Much of the information in the image come from a single remote-sensing device—NASA's Moderate Resolution Imaging Spectroradiometer, or MODIS, flying over 700 km above the Earth on board the Terra satellite in 2001.]]
+. Much of the information in the image come from a single remote-sensing device—NASA's Moderate Resolution Imaging Spectroradiometer, or MODIS, flying over 700 km above the Earth on board the Terra satellite in 2001.]]
 
 The prehistory of the Americas (North, South, and Central America, and the Caribbean) begins with people migrating to these areas from Asia during the height of an Ice Age. These groups are generally believed to have been isolated from the people of the "Old World" until the coming of Europeans in the 10th century from Iceland led by Leif Erikson and with the voyages of Christopher Columbus in 1492.
 
@@ -13,7 +13,7 @@ Pre-colonization
 
 Migration into the continents
 
-Spreading_homo_sapiens_la.svg]] The specifics of Paleo-Indian migration to and throughout the Americas, including the exact dates and routes traveled, are subject to ongoing research and discussion.[1] The traditional theory has been that these early migrants moved into the Beringia land bridge between eastern Siberia and present-day Alaska around 40,000 – 17,000 years ago, when sea levels were significantly lowered due to the Quaternary glaciation.[2][3] These people are believed to have followed herds of now-extinct Pleistocene megafauna along _ice-free corridors_ that stretched between the Laurentide and Cordilleran ice sheets.[4] Another route proposed is that, either on foot or using primitive boats, they migrated down the Pacific Northwest coast to South America.[5] Evidence of the latter would since have been covered by a sea level rise of a hundred meters following the last ice age.[6]
+]] The specifics of Paleo-Indian migration to and throughout the Americas, including the exact dates and routes traveled, are subject to ongoing research and discussion.[1] The traditional theory has been that these early migrants moved into the Beringia land bridge between eastern Siberia and present-day Alaska around 40,000 – 17,000 years ago, when sea levels were significantly lowered due to the Quaternary glaciation.[2][3] These people are believed to have followed herds of now-extinct Pleistocene megafauna along _ice-free corridors_ that stretched between the Laurentide and Cordilleran ice sheets.[4] Another route proposed is that, either on foot or using primitive boats, they migrated down the Pacific Northwest coast to South America.[5] Evidence of the latter would since have been covered by a sea level rise of a hundred meters following the last ice age.[6]
 
 Archaeologists contend that the Paleo-Indian migration out of Beringia (eastern Alaska), ranges from 40,000 to around 16,500 years ago.[7][8][9] This time range is a hot source of debate. The few agreements achieved to date are the origin from Central Asia, with widespread habitation of the Americas during the end of the last glacial period, or more specifically what is known as the late glacial maximum, around 16,000 – 13,000 years before present.[10][11]
 
@@ -25,7 +25,7 @@ On October 3, 2014, the Oregon cave where the oldest DNA evidence of human habit
 
 Lithic stage (before 8000 BCE)
 
-Obsidiana.jpg projectile point from Puerta Parada, Guatemala]] The Lithic stage or _Paleo-Indian period_, is the earliest classification term referring to the first stage of human habitation in the Americas, covering the Late Pleistocene epoch. The time period derives its name from the appearance of "Lithic flaked" stone tools. Stone tools, particularly projectile points and scrapers, are the primary evidence of the earliest well known human activity in the Americas. Lithic reduction stone tools are used by archaeologists and anthropologists to classify cultural periods.
+projectile point from Puerta Parada, Guatemala]] The Lithic stage or _Paleo-Indian period_, is the earliest classification term referring to the first stage of human habitation in the Americas, covering the Late Pleistocene epoch. The time period derives its name from the appearance of "Lithic flaked" stone tools. Stone tools, particularly projectile points and scrapers, are the primary evidence of the earliest well known human activity in the Americas. Lithic reduction stone tools are used by archaeologists and anthropologists to classify cultural periods.
 
 Archaic stage (8000 BCE – 1000 BCE)
 
@@ -49,7 +49,7 @@ The Norte Chico civilization began to decline around 1800 BC as more powerful ce
 
 Mesoamerica, the Woodland Period, and Mississippian culture (2000 BCE – 500 CE)
 
-Simple map of subsistence methods in the Americas at 1000 BCE. After the decline of the Norte Chico civilization, several large, centralized civilizations developed in the Western Hemisphere: Chavin, Nazca, Moche, Huari, Quitus, Cañaris, Chimu, Pachacamac, Tiahuanaco, Aymara and Inca in the Central Andes (Ecuador, Peru and Bolivia); Muisca in Colombia ; Taínos in Dominican Republic (Hispaniola, Española) and part of Caribbean; and the Olmecs, Maya, Toltecs, Mixtecs, Zapotecs, Aztecs and Purepecha in southern North America (Mexico, Guatemala).
+After the decline of the Norte Chico civilization, several large, centralized civilizations developed in the Western Hemisphere: Chavin, Nazca, Moche, Huari, Quitus, Cañaris, Chimu, Pachacamac, Tiahuanaco, Aymara and Inca in the Central Andes (Ecuador, Peru and Bolivia); Muisca in Colombia ; Taínos in Dominican Republic (Hispaniola, Española) and part of Caribbean; and the Olmecs, Maya, Toltecs, Mixtecs, Zapotecs, Aztecs and Purepecha in southern North America (Mexico, Guatemala).
 
 The Olmec civilization was the first Mesoamerican civilization, beginning around 1600-1400 BC and ending around 400 BC. Mesoamerica is considered one of the six sites around the globe in which civilization developed independently and indigenously. This civilization is considered the mother culture of the Mesoamerican civilizations. The Mesoamerican calendar, numeral system, writing, and much of the Mesoamerican pantheon seem to have begun with the Olmec.
 
@@ -93,7 +93,7 @@ Pueblo people
 |                                                                                                                                                                                                                                                                                                             |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-The Pueblo people of what is now the Southwestern United States and northern Mexico, living conditions were that of large stone apartment like adobe structures. They live in Arizona, New Mexico, Utah, Colorado, and possibly surrounding areas. ChanBahlumCatherwood.jpg, the Classic period ruler of Palenque, as depicted on a stela.]]
+The Pueblo people of what is now the Southwestern United States and northern Mexico, living conditions were that of large stone apartment like adobe structures. They live in Arizona, New Mexico, Utah, Colorado, and possibly surrounding areas. , the Classic period ruler of Palenque, as depicted on a stela.]]
 
 Aridoamerica
 
@@ -133,7 +133,7 @@ The Aztec having started to build their empire around 14th century found their c
 
 South America
 
-Inca_Quipu.jpg]]
+]]
 
 Norte Chico
 
@@ -150,7 +150,7 @@ Holding their capital at the great city of Cusco, the Inca civilization dominate
 
 European colonization
 
-"America"_(Engraving)_Nova_reperta_(Speculum_diuersarum_imaginum_speculatiuarum_1638).tif awakens "America" in a Stradanus's engraving (circa 1638)]] Non-Native-American-Nations-Territorial-Claims-over-NAFTA-countries-1750-2008.gif Political_Evolution_of_Central_America_and_the_Caribbean_1700_and_on.gif Non-Native_American_Nations_Control_over_South_America_1700_and_on.gif
+awakens "America" in a Stradanus's engraving (circa 1638)]]
 
 Around 1000, the Vikings established a short-lived settlement in Newfoundland, now known as L'Anse aux Meadows. Speculations exist about other Old World discoveries of the New World, but none of these are generally or completely accepted by most scholars.
 
@@ -188,8 +188,6 @@ Slavery has had a significant role in the economic development of the New World 
 20th century
 
 North America
-
-New_Names_Canadian_WW1_recruiting_poster.jpg
 
 As a part of the British Empire, Canada immediately entered World War I when it broke out in 1914. Canada bore the brunt of several major battles during the early stages of the war, including the use of poison gas attacks at Ypres. Losses became grave, and the government eventually brought in conscription, despite the fact this was against the wishes of the majority of French Canadians. In the ensuing Conscription Crisis of 1917, riots broke out on the streets of Montreal. In neighboring Newfoundland, the new dominion suffered a devastating loss on July 1, 1916, the First day on the Somme.
 

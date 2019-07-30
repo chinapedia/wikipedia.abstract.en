@@ -9,7 +9,7 @@ Since its adoption by the European Union, it has become broadly associated with 
 
 Design
 
-EU_Flag_specification.svg The graphical specifications given by the EU in 1996 describe the design as: "On an azure field a circle of twelve golden mullets, their points not touching."[5]
+The graphical specifications given by the EU in 1996 describe the design as: "On an azure field a circle of twelve golden mullets, their points not touching."[5]
 
 Geometry
 
@@ -91,9 +91,9 @@ Following Expo 58 in Brussels, the flag caught on and the Council of Europe lobb
 
 The European Parliament used its own flag from 1973, but never formally adopted it. It fell out of use with the adoption of the twelve-star flag by the Parliament in 1983. The flag followed the yellow and blue colour scheme however instead of twelve stars there were the letters EP and PE (initials of the European Parliament in the six community languages at the time) surrounded by a wreath.[45]
 
-Flag_of_Europe_Adonnino_proposal.svg The June 1984 European Council (the Communities' leaders) summit in Fontainebleau stressed the importance of promoting a European image and identity to citizens and the world. The European Council appointed an _ad hoc_ committee, named "Committee for 'a People's Europe'" (Adonnino Committee). This committee submitted a substantial report, including wide-ranging suggestions, from organising a "European lottery" to campaigning for the introduction of local voting rights for foreign nationals throughout Europe.[46] Under the header of "strengthening of the Community's image and identity", the Committee suggested the introduction of "a flag and an emblem", recommending a design based on the Council of Europe flag, but with the addition of "a gold letter E" in the center of the circle of stars.[47] The European Council held in Milan on 28/29 June 1985 largely followed the recommendations of the Adonnino Committee. But as the adoption of a flag was strongly reminiscent of a national flag representing statehood, was extremely controversial with some member states (in particular the United Kingdom), the Council of Europe's "flag of Europe" design was adopted only with the status of a "logo".[48] The compromise was widely disregarded from the beginning, and the "European logo" in spite of the explicit avoidance of giving it the status of a "flag" was referred to as "Community flag" or even "European flag" from the outset.[49]
+The June 1984 European Council (the Communities' leaders) summit in Fontainebleau stressed the importance of promoting a European image and identity to citizens and the world. The European Council appointed an _ad hoc_ committee, named "Committee for 'a People's Europe'" (Adonnino Committee). This committee submitted a substantial report, including wide-ranging suggestions, from organising a "European lottery" to campaigning for the introduction of local voting rights for foreign nationals throughout Europe.[46] Under the header of "strengthening of the Community's image and identity", the Committee suggested the introduction of "a flag and an emblem", recommending a design based on the Council of Europe flag, but with the addition of "a gold letter E" in the center of the circle of stars.[47] The European Council held in Milan on 28/29 June 1985 largely followed the recommendations of the Adonnino Committee. But as the adoption of a flag was strongly reminiscent of a national flag representing statehood, was extremely controversial with some member states (in particular the United Kingdom), the Council of Europe's "flag of Europe" design was adopted only with the status of a "logo".[48] The compromise was widely disregarded from the beginning, and the "European logo" in spite of the explicit avoidance of giving it the status of a "flag" was referred to as "Community flag" or even "European flag" from the outset.[49]
 
-Strasbourg-76_allée_de_la_Robertsau_(3).jpg on Villa Schutzenberger, seat of the European Audiovisual Observatory, an institution within the Council of Europe (2011 photograph).]] The Communities began to use the "emblem" as its _de facto_ flag from 1986, with it being raised outside the Berlaymont building (the seat of the European Commission) for the first time on 29 May 1986.[50]
+on Villa Schutzenberger, seat of the European Audiovisual Observatory, an institution within the Council of Europe (2011 photograph).]] The Communities began to use the "emblem" as its _de facto_ flag from 1986, with it being raised outside the Berlaymont building (the seat of the European Commission) for the first time on 29 May 1986.[50]
 
 European Union
 
@@ -115,7 +115,7 @@ In 2015, a set of commemorative Euro coin was issued on the occasion of the 30th
 
 Informal and political use
 
-KOD_demonstration,_Warsaw_May_7_2016_21.jpg demonstration in Warsaw, Poland against the ruling Law and Justice party, on 7 May 2016]] Euromaidan_Kyiv_1-12-13_by_Gnatoush_005.jpg, December 2013.]] Pride_in_London_2016_-_A_man_in_a_kilt_with_the_European_flag_during_the_parade.png parade, just after the Brexit referendum in June 2016]] In April 2004, the European flag was flown on behalf of the European Space Agency, by Dutch astronaut André Kuipers while on board the International Space Station, in reference to the Framework Agreement establishing the legal basis for cooperation between the European Space Agency and the European Union.[60]
+demonstration in Warsaw, Poland against the ruling Law and Justice party, on 7 May 2016]] , December 2013.]] parade, just after the Brexit referendum in June 2016]] In April 2004, the European flag was flown on behalf of the European Space Agency, by Dutch astronaut André Kuipers while on board the International Space Station, in reference to the Framework Agreement establishing the legal basis for cooperation between the European Space Agency and the European Union.[60]
 
 Following the 2004 Summer Olympics, President Romano Prodi expressed his hope "to see the EU Member State teams in Beijing [viz., the 2008 games] carry the flag of the European Union alongside their own national flag as a symbol of our unity".[61] Use of the flag has also been reported as representing the European team at the Ryder Cup golf competition in the early 2000s, although most European participants preferred to use their own national flags.[62]
 
@@ -156,11 +156,11 @@ Use by the European Union
 
 Use as logo or emblem
 
-The_Europa_series_100_€_obverse_side.jpg The EU emblem ("EU flag") is depicted on the euro banknotes.[87] Euro coins also display circle of twelve stars on both the national and common sides.[88]
+The EU emblem ("EU flag") is depicted on the euro banknotes.[87] Euro coins also display circle of twelve stars on both the national and common sides.[88]
 
-Plate-KA-PA777.JPG. The "D" in this photo indicates Germany (Deutschland).]] It is also depicted on many driving licences and vehicle registration plates issued in the Union.[89] Diplomatic missions of EU member states fly the EU flag alongside their national flag. In October 2000, the then-new British Embassy in Berlin sparked controversy between the UK and Germany and the EU when the embassy did not have a second external flagpole for the EU flag. After diplomatic negotiations, it was agreed that the outside flagpole would have the Union Flag while inside the embassy, the EU flag would accompany the UK flag.[90]
+. The "D" in this photo indicates Germany (Deutschland).]] It is also depicted on many driving licences and vehicle registration plates issued in the Union.[89] Diplomatic missions of EU member states fly the EU flag alongside their national flag. In October 2000, the then-new British Embassy in Berlin sparked controversy between the UK and Germany and the EU when the embassy did not have a second external flagpole for the EU flag. After diplomatic negotiations, it was agreed that the outside flagpole would have the Union Flag while inside the embassy, the EU flag would accompany the UK flag.[90]
 
-Logo_European_Central_Bank.svg logo]] A number of logos used by EU institutions, bodies and agencies are derived from the design and colours of the EU emblem.[91]
+logo]] A number of logos used by EU institutions, bodies and agencies are derived from the design and colours of the EU emblem.[91]
 
 Other emblems make reference to the European flag, such as the EU organic food label that uses the twelve stars but reorders them into the shape of a leaf on a green background. The original logo of the European Broadcasting Union used the twelve stars on a blue background adding ray beams to connect the countries.
 
@@ -176,7 +176,7 @@ The flag has also been displayed in the context of EU military operations (EUFOR
 
 Recognition by member states
 
-Mrs._Laura_Bush_and_daughter,_Barbara_Bush,_are_greeted_by_Italian_Prime_Minister_Silvio_Berlusconi.jpg Flickr_-_Πρωθυπουργός_της_Ελλάδας_-_Angela_Merkel_-_Αντώνης_Σαμαράς_(9).jpg in Berlin (24 August 2012): The Greek flag takes the first order of precedence, followed by the German flag on the right (seen on the left when facing the building) and the European flag in third order, on the left.]] Sixteen out of twenty-seven member states in 2007 signed the declaration recognizing "the flag with a circle of twelve golden stars on a blue background" as representing "the sense of community of the people in the European Union and their allegiance to it."[99] In 2017, president of France Emmanuel Macron signed a declaration endorsing the 2007 statement,[100] so that, as of 2018, 17 out of 28 members have recognized the emblem as a flag representing "allegiance to the EU": Austria, Belgium, Bulgaria, Cyprus, France, Germany, Greece, Hungary, Italy, Lithuania, Luxemburg, Malta, Portugal, Romania, Slovakia, Slovenia and Spain.
+in Berlin (24 August 2012): The Greek flag takes the first order of precedence, followed by the German flag on the right (seen on the left when facing the building) and the European flag in third order, on the left.]] Sixteen out of twenty-seven member states in 2007 signed the declaration recognizing "the flag with a circle of twelve golden stars on a blue background" as representing "the sense of community of the people in the European Union and their allegiance to it."[99] In 2017, president of France Emmanuel Macron signed a declaration endorsing the 2007 statement,[100] so that, as of 2018, 17 out of 28 members have recognized the emblem as a flag representing "allegiance to the EU": Austria, Belgium, Bulgaria, Cyprus, France, Germany, Greece, Hungary, Italy, Lithuania, Luxemburg, Malta, Portugal, Romania, Slovakia, Slovenia and Spain.
 
 Italy has incorporated the EU flag into its flag code. According to an Italian law passed in 2000, it is mandatory for most public offices and buildings to hoist the European Flag alongside the Italian national flag (Law 22/1998 and Presidential Decree 121/2000). Outside official use, the flag may not be used for "aims incompatible with European values".[101] The 2000 Italian flag code expressly replaces the Italian flag with the European flag in precedence when dignitaries from other EU countries visit – for example the EU flag would be in the middle of a group of three flags rather than the Italian flag.[102] In Germany, the federal flag code of 1996 is only concerned with the German flag,[103] but some of the states have legislated additional provisions for the European flag, such as Bavaria in its flag regulation of 2001, which mandates that the European flag take the third order of precedence, after the federal and state flags, except on Europe Day, where it is to take the first order of precedence.[104]
 
@@ -186,7 +186,7 @@ In most member states, use of the EU flag is only _de facto_ and not regulated b
 
 Naval pennant
 
-Pennant_of_the_European_Union_Fishery_Inspection.svg of fishery inspection vessels]] Despite not having a civil ensign, the EU's Fishery Inspection teams display a blue and yellow pennant. The pennant is flown by inspection vessels in EU waters. The flag is triangular and quartered blue and yellow and was adopted according to _EEC Regulation #1382/87_ on 20 May 1978.[109] There are no other variants or alternative flags used by the EU (in contrast to countries which have presidential, naval and military variants).
+of fishery inspection vessels]] Despite not having a civil ensign, the EU's Fishery Inspection teams display a blue and yellow pennant. The pennant is flown by inspection vessels in EU waters. The flag is triangular and quartered blue and yellow and was adopted according to _EEC Regulation #1382/87_ on 20 May 1978.[109] There are no other variants or alternative flags used by the EU (in contrast to countries which have presidential, naval and military variants).
 
 
 Derivative flag designs
@@ -197,7 +197,7 @@ The flag of Bosnia and Herzegovina, imposed by High Representative Carlos Westen
 
 Likewise, Kosovo uses blue, yellow and stars in its flag, which has been mocked as "a none too subtle nod to the flag of the European Union, which is about to become Kosovo's new best friend as it takes over protector status from the United Nations".[112]
 
-Flag_of_the_Brussels-Capital_Region.svg, of which Brussels is the _de facto_ capital city.[113]]] The flag of the Brussels-Capital Region (introduced in 2016) consists of a yellow iris with a white outline upon a blue background. Its colours are based on the colours of the Flag of Europe, because Brussels is considered the unofficial capital of the EU.[114][115]
+, of which Brussels is the _de facto_ capital city.[113]]] The flag of the Brussels-Capital Region (introduced in 2016) consists of a yellow iris with a white outline upon a blue background. Its colours are based on the colours of the Flag of Europe, because Brussels is considered the unofficial capital of the EU.[114][115]
 
 
 See also

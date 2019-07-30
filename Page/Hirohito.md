@@ -5,7 +5,7 @@ At the start of his reign, Japan was already one of the great powers—the ninth
 
 Early life
 
-Michi-no-miya_Hirohito_1902.jpg Emperor_Taisho's_sons_1921.jpg's four sons in 1921: Hirohito, Takahito, Nobuhito and Yasuhito]] Born in Tokyo's Aoyama Palace (during the reign of his grandfather, Emperor Meiji) on 29 April 1901, Hirohito was the first son of 21-year-old Crown Prince Yoshihito (the future Emperor Taishō) and 17-year-old Crown Princess Sadako (the future Empress Teimei).[4] He was the grandson of Emperor Meiji and Yanagihara Naruko. His childhood title was Prince Michi. On the 70th day after his birth, Hirohito was removed from the court and placed in the care of the family of Count Kawamura Sumiyoshi, a former vice-admiral, who was to rear him as if he were his own grandchild. At the age of 3, Hirohito and his brother Yasuhito were returned to court when Kawamura died – first to the imperial mansion in Numazu, Shizuoka, then back to the Aoyama Palace.[5] In 1908 he began elementary studies at the Gakushūin (Peers School).
+'s four sons in 1921: Hirohito, Takahito, Nobuhito and Yasuhito]] Born in Tokyo's Aoyama Palace (during the reign of his grandfather, Emperor Meiji) on 29 April 1901, Hirohito was the first son of 21-year-old Crown Prince Yoshihito (the future Emperor Taishō) and 17-year-old Crown Princess Sadako (the future Empress Teimei).[4] He was the grandson of Emperor Meiji and Yanagihara Naruko. His childhood title was Prince Michi. On the 70th day after his birth, Hirohito was removed from the court and placed in the care of the family of Count Kawamura Sumiyoshi, a former vice-admiral, who was to rear him as if he were his own grandchild. At the age of 3, Hirohito and his brother Yasuhito were returned to court when Kawamura died – first to the imperial mansion in Numazu, Shizuoka, then back to the Aoyama Palace.[5] In 1908 he began elementary studies at the Gakushūin (Peers School).
 
 When his grandfather, Emperor Meiji, died on 30 July 1912, Hirohito's father, Yoshihito, assumed the throne, and Hirohito became the heir apparent. At the same time, he was formally commissioned in both the army and navy as a second lieutenant and ensign, respectively, and was also decorated with the Grand Cordon of the Order of the Chrysanthemum. In 1914, he was promoted to the ranks of lieutenant in the army and sub-lieutenant in the navy, then to captain and lieutenant in 1916. He was formally proclaimed Crown Prince and heir apparent on 2 November 1916; but an investiture ceremony was not strictly necessary to confirm this status as heir to the throne.[6]
 
@@ -16,7 +16,7 @@ In 1920 Hirohito was promoted to the rank of Major in the army and Lieutenant Co
 
 Regency
 
-Crown_Prince_Hirohito_and_Lloyd_George_1921.jpg, 1921]] After his return to Japan, Hirohito became Regent of Japan (Sesshō) on 29 November 1921, in place of his ailing father who was affected by a mental illness. In 1923 he was promoted to the rank of Lieutenant-Colonel in the army and Commander in the navy, and to army Colonel and Navy Captain in 1925.
+, 1921]] After his return to Japan, Hirohito became Regent of Japan (Sesshō) on 29 November 1921, in place of his ailing father who was affected by a mental illness. In 1923 he was promoted to the rank of Lieutenant-Colonel in the army and Commander in the navy, and to army Colonel and Navy Captain in 1925.
 
 During Hirohito's regency, a number of important events occurred:
 
@@ -25,21 +25,21 @@ In the Four-Power Treaty on Insular Possessions signed on 13 December 1921, Japa
 
 Marriage
 
-Emperor_Hirohito_and_empress_Kojun_of_japan.JPG Prince Hirohito married his distant cousin Princess Nagako Kuni (the future Empress Kōjun), the eldest daughter of Prince Kuniyoshi Kuni, on 26 January 1924. They had two sons and five daughters[7] (see Issue).
+Prince Hirohito married his distant cousin Princess Nagako Kuni (the future Empress Kōjun), the eldest daughter of Prince Kuniyoshi Kuni, on 26 January 1924. They had two sons and five daughters[7] (see Issue).
 
 The daughters who lived to adulthood left the imperial family as a result of the American reforms of the Japanese imperial household in October 1947 (in the case of Princess Shigeko) or under the terms of the Imperial Household Law at the moment of their subsequent marriages (in the cases of Princesses Kazuko, Atsuko, and Takako).
 
 
 Ascension
 
-Flag_of_the_Japanese_Emperor.svg On 25 December 1926, Hirohito assumed the throne upon the death of his father, Yoshihito. The Crown Prince was said to have received the succession (_senso_).[8] The Taishō era's end and the Shōwa era's beginning (Enlightened Peace) were proclaimed. The deceased Emperor was posthumously renamed Emperor Taishō within days. Following Japanese custom, the new Emperor was never referred to by his given name but rather was referred to simply as "His Majesty the Emperor" which may be shortened to "His Majesty." In writing, the Emperor was also referred to formally as "The Reigning Emperor."
+On 25 December 1926, Hirohito assumed the throne upon the death of his father, Yoshihito. The Crown Prince was said to have received the succession (_senso_).[8] The Taishō era's end and the Shōwa era's beginning (Enlightened Peace) were proclaimed. The deceased Emperor was posthumously renamed Emperor Taishō within days. Following Japanese custom, the new Emperor was never referred to by his given name but rather was referred to simply as "His Majesty the Emperor" which may be shortened to "His Majesty." In writing, the Emperor was also referred to formally as "The Reigning Emperor."
 
 In November 1928, the Emperor's ascension was confirmed in ceremonies (_sokui_)[9] which are conventionally identified as "enthronement" and "coronation" (_Shōwa no tairei-shiki_); but this formal event would have been more accurately described as a public confirmation that his Imperial Majesty possesses the Japanese Imperial Regalia,[10] also called the Three Sacred Treasures, which have been handed down through the centuries.[11]
 
 
 Early reign
 
-Emperor_Showa.jpg]] Hirohito_in_dress_uniform.jpg
+]]
 
 The first part of Hirohito's reign took place against a background of financial crisis and increasing military power within the government through both legal and extralegal means. The Imperial Japanese Army and Imperial Japanese Navy held veto power over the formation of cabinets since 1900, and between 1921 and 1944 there were no fewer than 64 incidents of political violence.
 
@@ -51,8 +51,6 @@ When Chief Aide-de-camp Shigeru Honjō informed him of the revolt, the Emperor i
 
 
 Second Sino-Japanese War
-
-Hirohito_Sirayuki.jpg
 
 Starting from the Mukden Incident in 1931, Japan occupied Chinese territories and established puppet governments. Such "aggression was recommended to Hirohito" by his chiefs of staff and prime minister Fumimaro Konoe, and Hirohito never personally objected to any invasion of China.[13] His main concern seems to have been the possibility of an attack by the Soviet Union in the north. His questions to his chief of staff, Prince Kan'in, and minister of the army, Hajime Sugiyama, were mostly about the time it could take to crush Chinese resistance.
 
@@ -73,8 +71,6 @@ On September 5, Prime Minister Konoe informally submitted a draft of the decisio
 
 Chief of Naval General Staff Admiral Nagano, a former Navy Minister and vastly experienced, later told a trusted colleague, "I have never seen the Emperor reprimand us in such a manner, his face turning red and raising his voice."
 
-Emperor_Shōwa_Army_1938-1-8.jpg
-
 According to the traditional view, Hirohito was deeply concerned by the decision to place "war preparations first and diplomatic negotiations second," and he announced his intention to break with tradition. At the Imperial Conference on the following day, the Emperor directly questioned the chiefs of the Army and Navy general staffs, which was quite an unprecedented action.
 
 Nevertheless, all speakers at the Imperial Conference were united in favor of war rather than diplomacy.[18] Baron Yoshimichi Hara, President of the Imperial Council and the Emperor's representative, then questioned them closely, producing replies to the effect that war would be considered only as a last resort from some, and silence from others.
@@ -87,7 +83,7 @@ At this time, Army Imperial Headquarters was continually communicating with the 
 
 As war preparations continued, Prime Minister Fumimaro Konoe found himself more and more isolated and gave his resignation on October 16. He justified himself to his chief cabinet secretary, Kenji Tomita, by stating:
 
-The army and the navy recommended the candidacy of Prince Naruhiko Higashikuni, one of the Emperor's uncles. According to the Shōwa "Monologue," written after the war, the Emperor then said that if the war were to begin while a member of the imperial house was prime minister, the imperial house would have to carry the responsibility and he was opposed to this.[20] Imperial_general_headquaters_meeting.jpg on April 29, 1943]] Instead, the Emperor chose the hard-line General Hideki Tōjō, who was known for his devotion to the imperial institution, and asked him to make a policy review of what had been sanctioned by the Imperial Conferences. On November 2 Tōjō, Sugiyama, and Nagano reported to the Emperor that the review of eleven points had been in vain. Emperor Hirohito gave his consent to the war and then asked: "Are you going to provide justification for the war?"[21] The decision for war against the United States was presented for approval to Hirohito by General Tōjō, Naval Minister Admiral Shigetarō Shimada, and Japanese Foreign Minister Shigenori Tōgō.[22]
+The army and the navy recommended the candidacy of Prince Naruhiko Higashikuni, one of the Emperor's uncles. According to the Shōwa "Monologue," written after the war, the Emperor then said that if the war were to begin while a member of the imperial house was prime minister, the imperial house would have to carry the responsibility and he was opposed to this.[20] on April 29, 1943]] Instead, the Emperor chose the hard-line General Hideki Tōjō, who was known for his devotion to the imperial institution, and asked him to make a policy review of what had been sanctioned by the Imperial Conferences. On November 2 Tōjō, Sugiyama, and Nagano reported to the Emperor that the review of eleven points had been in vain. Emperor Hirohito gave his consent to the war and then asked: "Are you going to provide justification for the war?"[21] The decision for war against the United States was presented for approval to Hirohito by General Tōjō, Naval Minister Admiral Shigetarō Shimada, and Japanese Foreign Minister Shigenori Tōgō.[22]
 
 On November 3, Nagano explained in detail the plan of the attack on Pearl Harbor to the Emperor.[23] On November 5 Emperor Hirohito approved in imperial conference the operations plan for a war against the Occident and had many meetings with the military and Tōjō until the end of the month. On November 25 Henry L. Stimson, United States Secretary of War, noted in his diary that he had discussed with US President Franklin D. Roosevelt the severe likelihood that Japan was about to launch a surprise attack and that the question had been "how we should maneuver them [the Japanese] into the position of firing the first shot without allowing too much danger to ourselves."
 
@@ -101,7 +97,7 @@ With the nation fully committed to the war, the Emperor took a keen interest in 
 
 As the tide of war began to turn against Japan (around late 1942 and early 1943), some people argue that the flow of information to the palace gradually began to bear less and less relation to reality, while others suggest that the Emperor worked closely with Prime Minister Hideki Tojo, continued to be well and accurately briefed by the military, and knew Japan's military position precisely right up to the point of surrender. The chief of staff of the General Affairs section of the Prime Minister's office, Shuichi Inada, remarked to Tōjō's private secretary, Sadao Akamatsu:
 
-Showa-family1941_12_7.jpg and their children on December 7, 1941]] In the first six months of war, all the major engagements had been victories. Japanese advances were stopped in the summer of 1942 with the battle of Midway and the landing of the American forces on Guadalcanal and Tulagi in August. The Emperor recognized the potential danger and pushed the navy and the army for greater efforts. In September 1942, Emperor Hirohito signed an Imperial Rescript condemning to death American fliers Lieutenants Dean E. Hallmark and William G. Farrow and Corporal Harold A. Spatz and commuting to life sentences Lieutenants Robert J. Meder, Chase Nielsen, Robert L. Hite and George Barr and Corporal Jacob DeShazer. All had participated in the Doolittle Raid and had been captured.
+and their children on December 7, 1941]] In the first six months of war, all the major engagements had been victories. Japanese advances were stopped in the summer of 1942 with the battle of Midway and the landing of the American forces on Guadalcanal and Tulagi in August. The Emperor recognized the potential danger and pushed the navy and the army for greater efforts. In September 1942, Emperor Hirohito signed an Imperial Rescript condemning to death American fliers Lieutenants Dean E. Hallmark and William G. Farrow and Corporal Harold A. Spatz and commuting to life sentences Lieutenants Robert J. Meder, Chase Nielsen, Robert L. Hite and George Barr and Corporal Jacob DeShazer. All had participated in the Doolittle Raid and had been captured.
 
 When informed in August 1943 by Sugiyama that the American advance through the Solomon Islands could not be stopped, the Emperor asked his chief of staff to consider other places to attack: "When and where are you ever going to put up a good fight? And when are you ever going to fight a decisive battle?"[25] On August 24 the Emperor reprimanded Nagano, and on September 11 he ordered Sugiyama to work with the Navy to implement better military preparation and give adequate supply to soldiers fighting in Rabaul.[26]
 
@@ -148,7 +144,7 @@ Kentarō Awaya argues that post-war Japanese public opinion supporting protectio
 
 Postwar reign
 
-macarthur_hirohito.jpg's photograph of General MacArthur and the Emperor at Allied GHQ in Tokyo, September 27, 1945]]
+'s photograph of General MacArthur and the Emperor at Allied GHQ in Tokyo, September 27, 1945]]
 
 As the Emperor chose his uncle Prince Higashikuni as prime minister to assist the occupation, there were attempts by numerous leaders to have him put on trial for alleged war crimes. Many members of the imperial family, such as Princes Chichibu, Takamatsu, and Higashikuni, pressured the Emperor to abdicate so that one of the Princes could serve as regent until Crown Prince Akihito came of age.[46] On February 27, 1946, the Emperor's youngest brother, Prince Mikasa (Takahito), even stood up in the privy council and indirectly urged the Emperor to step down and accept responsibility for Japan's defeat. According to Minister of Welfare Ashida's diary, "Everyone seemed to ponder Mikasa's words. Never have I seen His Majesty's face so pale."[47]
 
@@ -158,17 +154,17 @@ Before the war crime trials actually convened, the SCAP, its International Prose
 
 Imperial status
 
-Emperor_Showa_visit_to_Hiroshima_in_1947.JPG in 1947]]
+in 1947]]
 
 Hirohito was not put on trial, but he was forced to explicitly reject the quasi-official claim that the Emperor of Japan was an _arahitogami_, i.e., an incarnate divinity. This was motivated by the fact that, according to the Japanese constitution of 1889, the Emperor had a divine power over his country which was derived from the Shinto belief that the Japanese Imperial Family was the offspring of the sun goddess Amaterasu. Hirohito was however persistent in the idea that the Emperor of Japan should be considered a descendant of the gods. In December 1945, he told his vice-grand-chamberlain Michio Kinoshita: "It is permissible to say that the idea that the Japanese are descendants of the gods is a false conception; but it is absolutely impermissible to call chimerical the idea that the Emperor is a descendant of the gods."[54] In any case, the "renunciation of divinity" was noted more by foreigners than by Japanese, and seems to have been intended for the consumption of the former. The theory of a constitutional monarchy had already had some proponents in Japan. In 1935, when Tatsukichi Minobe advocated the theory that sovereignty resides in the state, of which the Emperor is just an organ (the _tennō kikan setsu_), it caused a furor. He was forced to resign from the House of Peers and his post at the Tokyo Imperial University, his books were banned, and an attempt was made on his life.[55] Not until 1946 was the tremendous step made to alter the Emperor's title from "imperial sovereign" to "constitutional monarch."
 
-Ford_and_Emperor1975.jpg, the Emperor, and President Gerald Ford at the White House before a state dinner held in honor of the Japanese head of state for the first time. October 2, 1975.]]
+, the Emperor, and President Gerald Ford at the White House before a state dinner held in honor of the Japanese head of state for the first time. October 2, 1975.]]
 
 Although the Emperor had supposedly repudiated claims to divinity, his public position was deliberately left vague, partly because General MacArthur thought him probable to be a useful partner to get the Japanese to accept the occupation and partly due to behind-the-scenes maneuvering by Shigeru Yoshida to thwart attempts to cast him as a European-style monarch.
 
 Nevertheless, Hirohito's status as a limited constitutional monarch status was formalized with the enactment of the 1947 Constitution–officially, an amendment to the Meiji Constitution. It defined the Emperor as "the symbol of the state and the unity of the people," and stripped him of even nominal power in government matters. His role was limited to matters of state as delineated in the Constitution, and in most cases his actions in that realm were carried out in accordance with the binding instructions of the Cabinet.
 
-Photograph_of_The_Reagans_and_Japanese_Emperor_Hirohito,_Tokyo,_Japan_-_NARA_-_198544.jpg, Tokyo, November 9, 1983]]
+, Tokyo, November 9, 1983]]
 
 For the rest of his life, Hirohito was an active figure in Japanese life and performed many of the duties commonly associated with a constitutional head of state. He and his family maintained a strong public presence, often holding public walkabouts and making public appearances on special events and ceremonies. He also played an important role in rebuilding Japan's diplomatic image, traveling abroad to meet with many foreign leaders, including Queen Elizabeth II (1971) and President Gerald Ford (1975).
 
@@ -187,7 +183,7 @@ On July 20, 2006, _Nihon Keizai Shimbun_ published a front-page article about th
 
 Death and state funeral
 
-Showa_Shrine.jpg, Hachiōji, Tokyo]]
+, Hachiōji, Tokyo]]
 
 On September 22, 1987, the Emperor underwent surgery on his pancreas after having digestive problems for several months. The doctors discovered that he had duodenal cancer. The Emperor appeared to be making a full recovery for several months after the surgery. About a year later, however, on September 19, 1988, he collapsed in his palace, and his health worsened over the next several months as he suffered from continuous internal bleeding. On January 7, 1989, at 7:55 AM, the grand steward of Japan's Imperial Household Agency, Shoichi Fujimori, officially announced the death of Emperor Hirohito at 6:33 AM and revealed details about his cancer for the first time. Hirohito was survived by his wife, his five surviving children, ten grandchildren, and one great-grandchild.[62]
 
@@ -227,7 +223,7 @@ National honours
 
 Foreign honours
 
-Emblem_of_Emperor_Hirohito_(Golden_Fleece_Variant).svg]]
+]]
 
 -   : Grand Cross Special Class of the Order of Merit of the Federal Republic of Germany
 

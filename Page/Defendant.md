@@ -1,4 +1,4 @@
-Angeklagter-vor-Gericht.jpg defendant before criminal court (Transportation Security Administration image)]]
+defendant before criminal court (Transportation Security Administration image)]]
 
 A DEFENDANT is a person accused of committing a crime in criminal prosecution or a person against whom some type of civil relief is being sought in a civil case.
 

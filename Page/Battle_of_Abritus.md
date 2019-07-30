@@ -14,8 +14,6 @@ The long-debated location of Abritus was believed to have been established ( eas
 
 Background
 
-GothicInvasions250-251-en.svg
-
 Soon after Decius ascended to the throne in 249, barbarian tribes invaded the Roman provinces of Dacia, Moesia Superior and Moesia Inferior. Two factors had contributed to growing unrest in the area north of Danube. First, Decius' predecessor Philip the Arab had refused to continue payments, initiated by Emperor Maximinus Thrax in 238, of annual subsidies to the aggressive tribes of the region.[7] Second and more important, there were continuous movements of new peoples since the time of Emperor Severus Alexander.[8] Decius may also have taken with him troops from the Danube frontier, in order to depose Philip in 249. He probably had with him three legions: legio XIV Gemina from Carnuntum, legio IV Flavia Felix from Singidunum, and legio VII Claudia from Viminacium and/or their vexillationes.[9]
 
 The resultant military vacuum would inevitably attract invaders.[10]
@@ -31,7 +29,7 @@ Battle
 
 In either June,[24] July[25] or August[26] of 251, the Roman army engaged the Scythians under Cniva near Abritus. The strengths of the belligerent forces are unknown, but we know that Cniva divided his forces into three units, with one of these parts concealed behind a swamp.[27] It seems that Cniva was a skilled tactician and that he was very familiar with the surrounding terrain.[28] Jordanes and Aurelius Victor claim that[29] Herennius Etruscus was killed by an arrow during a skirmish before the outset of the battle and that his father addressed his soldiers as if the loss of his son did not matter. He allegedly said, "Let no one mourn. The death of one soldier is not a great loss to the Republic". However, other sources state that Herennius died with his father.[30]
 
-TraDec_15V.jpg The manoeuvre of the Scythians was ultimately successful. Decius' forces defeated their opponents in the front line, but made the fatal mistake of pursuing their fleeing enemy into the swamp, where they were ambushed and routed. The immense slaughter marked one of the most catastrophic defeats in the history of the Roman Empire and resulted in the death of Decius himself.[31]
+The manoeuvre of the Scythians was ultimately successful. Decius' forces defeated their opponents in the front line, but made the fatal mistake of pursuing their fleeing enemy into the swamp, where they were ambushed and routed. The immense slaughter marked one of the most catastrophic defeats in the history of the Roman Empire and resulted in the death of Decius himself.[31]
 
 The Goths captured Decius' treasury of tons of gold coins and many weapons which have since been discovered in many locations over Gothic territories.[32]
 

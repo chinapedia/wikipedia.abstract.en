@@ -1,4 +1,4 @@
-Charles_Darwin_by_Julia_Margaret_Cameron_2.jpg in 1868]]
+in 1868]]
 
 DARWINISM is a theory of biological evolution developed by the English naturalist Charles Darwin (1809–1882) and others, stating that all species of organisms arise and develop through the natural selection of small, inherited variations that increase the individual's ability to compete, survive, and reproduce. Also called DARWINIAN THEORY, it originally included the broad concepts of transmutation of species or of evolution which gained general scientific acceptance after Darwin published _On the Origin of Species_ in 1859, including concepts which predated Darwin's theories. It subsequently referred to the specific concepts of natural selection, the Weismann barrier, or the central dogma of molecular biology.[1] Though the term usually refers strictly to biological evolution, creationists have appropriated it to refer to the origin of life, and it has even been applied to concepts of cosmic evolution, both of which have no connection to Darwin's work. It is therefore considered the belief and acceptance of Darwin's and of his predecessors' work—in place of other theories, including divine design and extraterrestrial origins.[2][3]
 
@@ -9,7 +9,7 @@ While the term _Darwinism_ has remained in use amongst the public when referring
 
 Conceptions of Darwinism
 
-Editorial_cartoon_depicting_Charles_Darwin_as_an_ape_(1871).jpg became widely accepted in the 1870s, caricatures of Charles Darwin with the body of an ape or monkey symbolised evolution.[12]]]
+became widely accepted in the 1870s, caricatures of Charles Darwin with the body of an ape or monkey symbolised evolution.[12]]]
 
 While the term _Darwinism_ had been used previously to refer to the work of Erasmus Darwin in the late 18th century, the term as understood today was introduced when Charles Darwin's 1859 book _On the Origin of Species_ was reviewed by Thomas Henry Huxley in the April 1860 issue of the _Westminster Review_.[13] Having hailed the book as "a veritable Whitworth gun in the armoury of liberalism" promoting scientific naturalism over theology, and praising the usefulness of Darwin's ideas while expressing professional reservations about Darwin's gradualism and doubting if it could be proved that natural selection could form new species,[14] Huxley compared Darwin's achievement to that of Nicolaus Copernicus in explaining planetary motion:
 

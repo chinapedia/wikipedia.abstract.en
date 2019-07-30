@@ -9,7 +9,7 @@ In addition to its hardness, corundum has a density of , which is unusually high
 
 Geology and occurrence
 
-Corindon_azulEZ.jpg, size about .]] Corundum occurs as a mineral in mica schist, gneiss, and some marbles in metamorphic terranes. It also occurs in low silica igneous syenite and nepheline syenite intrusives. Other occurrences are as masses adjacent to ultramafic intrusives, associated with lamprophyre dikes and as large crystals in pegmatites.[7] It commonly occurs as a detrital mineral in stream and beach sands because of its hardness and resistance to weathering.[8] The largest documented single crystal of corundum measured about , and weighed .[9] The record has since been surpassed by certain synthetic boules.[10]
+, size about .]] Corundum occurs as a mineral in mica schist, gneiss, and some marbles in metamorphic terranes. It also occurs in low silica igneous syenite and nepheline syenite intrusives. Other occurrences are as masses adjacent to ultramafic intrusives, associated with lamprophyre dikes and as large crystals in pegmatites.[7] It commonly occurs as a detrital mineral in stream and beach sands because of its hardness and resistance to weathering.[8] The largest documented single crystal of corundum measured about , and weighed .[9] The record has since been surpassed by certain synthetic boules.[10]
 
 Corundum for abrasives is mined in Zimbabwe, Pakistan, Afghanistan, Russia, Sri Lanka, and India. Historically it was mined from deposits associated with dunites in North Carolina, US and from a nepheline syenite in Craigmont, Ontario.[11] Emery-grade corundum is found on the Greek island of Naxos and near Peekskill, New York, US. Abrasive corundum is synthetically manufactured from bauxite.[12] Four corundum axes dating back to 2500 BCE from the Liangzhou culture have been discovered in China.[13]
 
@@ -23,7 +23,7 @@ The Verneuil process allows the production of flawless single-crystal sapphires,
 
 Structure and physical properties
 
-Corundum.png Corundum-pV.svg Corundum crystallizes with trigonal symmetry in the space group _R_{{overline and has the lattice parameters _a_ = 4.75 Å and _c_ = 12.982 Å at standard conditions. The unit cell contains six formula units.
+Corundum crystallizes with trigonal symmetry in the space group _R_{{overline and has the lattice parameters _a_ = 4.75 Å and _c_ = 12.982 Å at standard conditions. The unit cell contains six formula units.
 
 The toughness of corundum is sensitive to surface roughness[16][17] and crystallographic orientation.[18] It may be 6–7 MPa·m for synthetic crystals,[19] and around 4 MPa·m for natural[20]
 

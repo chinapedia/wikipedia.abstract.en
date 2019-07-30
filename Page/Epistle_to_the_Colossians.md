@@ -1,4 +1,4 @@
-Harleianus_5557_(first_page_of_Colossians).jpg gives its title as ΠΡΟΣ ΚΟΛΑΣΣΑΕΙΣ, "to the Colossians". British Library, London.]]
+gives its title as ΠΡΟΣ ΚΟΛΑΣΣΑΕΙΣ, "to the Colossians". British Library, London.]]
 
 The EPISTLE OF PAUL TO THE COLOSSIANS, often referred to simply as COLOSSIANS, is the twelfth book of the New Testament. It was written, according to the text, by Paul the Apostle and Timothy to the Church in Colossae, a small Phrygian city near Laodicea and approximately from Ephesus in Asia Minor.[1]
 
@@ -24,7 +24,7 @@ Advocates of Pauline authorship defend the differences that there are between el
 
 Content
 
-Codex_claromontanus_3_greek.jpg in the Bibliothèque nationale de France]] Colossae is in the same region as the seven churches of the Book of Revelation.[25] In Colossians there is mention of local brethren in Colossae, Laodicea, and Hierapolis. Colossae was approximately from Laodicea and from Hierapolis. Members of the congregation at Colossae may have been incorporating pagan elements into their practice, including worship of elemental spirits. The Epistle to the Colossians declares Christ's supremacy over the entire created universe and exhorts Christians to lead godly lives. The letter consists of two parts: first a doctrinal section, then a second regarding conduct. Those who believe that the impetus of the letter was a growing heresy in the church see both sections of the letter as opposing false teachers who have been spreading error in the congregation.[26] Others see both sections of the letter as primarily encouragement and edification for a developing church.[27]
+in the Bibliothèque nationale de France]] Colossae is in the same region as the seven churches of the Book of Revelation.[25] In Colossians there is mention of local brethren in Colossae, Laodicea, and Hierapolis. Colossae was approximately from Laodicea and from Hierapolis. Members of the congregation at Colossae may have been incorporating pagan elements into their practice, including worship of elemental spirits. The Epistle to the Colossians declares Christ's supremacy over the entire created universe and exhorts Christians to lead godly lives. The letter consists of two parts: first a doctrinal section, then a second regarding conduct. Those who believe that the impetus of the letter was a growing heresy in the church see both sections of the letter as opposing false teachers who have been spreading error in the congregation.[26] Others see both sections of the letter as primarily encouragement and edification for a developing church.[27]
 
 Outline
 

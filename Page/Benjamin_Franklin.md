@@ -33,7 +33,7 @@ At age 17, Franklin ran away to Philadelphia, Pennsylvania, seeking a new start 
 
 Junto and library
 
-Franklin_-_ita,_1825_-_766672_R.jpeg In 1727, Benjamin Franklin, then 21, created the Junto, a group of "like minded aspiring artisans and tradesmen who hoped to improve themselves while they improved their community." The Junto was a discussion group for issues of the day; it subsequently gave rise to many organizations in Philadelphia.[16] The Junto was modeled after English coffeehouses that Franklin knew well, and which had become the center of the spread of Enlightenment ideas in Britain.[17][18]
+In 1727, Benjamin Franklin, then 21, created the Junto, a group of "like minded aspiring artisans and tradesmen who hoped to improve themselves while they improved their community." The Junto was a discussion group for issues of the day; it subsequently gave rise to many organizations in Philadelphia.[16] The Junto was modeled after English coffeehouses that Franklin knew well, and which had become the center of the spread of Enlightenment ideas in Britain.[17][18]
 
 Reading was a great pastime of the Junto, but books were rare and expensive. The members created a library initially assembled from their own books after Franklin wrote:
 
@@ -43,13 +43,11 @@ Newspaperman
 
 Upon Denham's death, Franklin returned to his former trade. In 1728, Franklin had set up a printing house in partnership with Hugh Meredith; the following year he became the publisher of a newspaper called _The Pennsylvania Gazette_. The _Gazette_ gave Franklin a forum for agitation about a variety of local reforms and initiatives through printed essays and observations. Over time, his commentary, and his adroit cultivation of a positive image as an industrious and intellectual young man, earned him a great deal of social respect. But even after Franklin had achieved fame as a scientist and statesman, he habitually signed his letters with the unpretentious 'B. Franklin, Printer.'[20]
 
-Franklin_the_printer.jpg. Reproduction of a Charles Mills painting by the Detroit Publishing Company.]]
+. Reproduction of a Charles Mills painting by the Detroit Publishing Company.]]
 
 In 1732, Ben Franklin published the first German-language newspaper in America – _Die Philadelphische Zeitung_ – although it failed after only one year, because four other newly founded German papers quickly dominated the newspaper market.[21] Franklin printed Moravian religious books in German. Franklin often visited Bethlehem, Pennsylvania staying at the Moravian Sun Inn.[22] In a 1751 pamphlet on demographic growth and its implications for the colonies, he called the Pennsylvania Germans "Palatine Boors" who could never acquire the "Complexion" of the English settlers and referred to "Blacks and Tawneys" as weakening the social structure of the colonies. Although Franklin apparently reconsidered shortly thereafter, and the phrases were omitted from all later printings of the pamphlet, his views may have played a role in his political defeat in 1764.[23]
 
 Franklin saw the printing press as a device to instruct colonial Americans in moral virtue. In _Benjamin Franklin's Journalism_, Ralph Frasca argues he saw this as a service to God, because he understood moral virtue in terms of actions, thus, doing good provides a service to God. Despite his own moral lapses, Franklin saw himself as uniquely qualified to instruct Americans in morality. He tried to influence American moral life through construction of a printing network based on a chain of partnerships from the Carolinas to New England. Franklin thereby invented the first newspaper chain. It was more than a business venture, for like many publishers since, he believed that the press had a public-service duty.[24]
-
-Coat_of_Arms_of_Benjamin_Franklin.svg
 
 When Franklin established himself in Philadelphia, shortly before 1730, the town boasted two "wretched little" news sheets, Andrew Bradford's _The American Weekly Mercury_, and Samuel Keimer's _Universal Instructor in all Arts and Sciences, and Pennsylvania Gazette_.[25] This instruction in all arts and sciences consisted of weekly extracts from _Chambers's Universal Dictionary_. Franklin quickly did away with all this when he took over the _Instructor_ and made it _The Pennsylvania Gazette_. The _Gazette_ soon became Franklin's characteristic organ, which he freely used for satire, for the play of his wit, even for sheer excess of mischief or of fun. From the first, he had a way of adapting his models to his own uses. The series of essays called "The Busy-Body", which he wrote for Bradford's _American Mercury_ in 1729, followed the general Addisonian form, already modified to suit homelier conditions. The thrifty Patience, in her busy little shop, complaining of the useless visitors who waste her valuable time, is related to the ladies who address Mr. Spectator. The Busy-Body himself is a true Censor Morum, as Isaac Bickerstaff had been in the _Tatler_. And a number of the fictitious characters, Ridentius, Eugenius, Cato, and Cretico, represent traditional 18th-century classicism. Even this Franklin could use for contemporary satire, since Cretico, the "sowre Philosopher", is evidently a portrait of Franklin's rival, Samuel Keimer.[26]
 
@@ -73,15 +71,13 @@ Deborah's fear of the sea meant that she never accompanied Franklin on any of hi
 
 William Franklin
 
-WilliamFranklin.jpeg]]
+]]
 
 In 1730, 24-year-old Franklin publicly acknowledged the existence of his son William, who was deemed "illegitimate," as he was born out of wedlock, and raised him in his household. His mother's identity is unknown.[40] He was educated in Philadelphia. Beginning at about age 30, William studied law in London in the early 1760s. He fathered an illegitimate son, William Temple Franklin, born February 22, 1762. The boy's mother was never identified, and he was placed in foster care. Later in 1762, William married Elizabeth Downes, daughter of a planter from Barbados. After William passed the bar, his father helped him gain an appointment in 1763 as the last Royal Governor of New Jersey.
 
 A Loyalist, William and his father eventually broke relations over their differences about the American Revolutionary War. The elder Franklin could never accept William's position. Deposed in 1776 by the revolutionary government of New Jersey, William was arrested at his home in Perth Amboy at the Proprietary House and imprisoned for a time. The younger Franklin went to New York in 1782, which was still occupied by British troops. He became leader of the Board of Associated Loyalists—a quasi-military organization, headquartered in New York City. They initiated guerrilla forays into New Jersey, southern Connecticut, and New York counties north of the city.[41] When British troops evacuated from New York, William Franklin left with them and sailed to England. He settled in London, never to return to North America. In the preliminary peace talks in 1782 with Britain, "... Benjamin Franklin insisted that loyalists who had borne arms against the United States would be excluded from this plea (that they be given a general pardon). He was undoubtedly thinking of William Franklin."[42]
 
 Success as an author
-
-The_General_Magazine_and_Historical_Chronicle_Vol_1,_January,_1741.jpg
 
 In 1733, Franklin began to publish the noted _Poor Richard's Almanack_ (with content both original and borrowed) under the pseudonym Richard Saunders, on which much of his popular reputation is based. Franklin frequently wrote under pseudonyms. Although it was no secret that Franklin was the author, his Richard Saunders character repeatedly denied it. "Poor Richard's Proverbs", adages from this almanac, such as "A penny saved is twopence dear" (often misquoted as "A penny saved is a penny earned") and "Fish and visitors stink in three days", remain common quotations in the modern world. Wisdom in folk society meant the ability to provide an apt adage for any occasion, and Franklin's readers became well prepared. He sold about ten thousand copies per year—it became an institution. In 1741, Franklin began publishing _The General Magazine and Historical Chronicle for all the British Plantations in America_, the first such monthly magazine of this type published in America.
 
@@ -96,7 +92,7 @@ Franklin was a prodigious inventor. Among his many creations were the lightning 
 
 Electricity
 
-Benjamin_West,_English_(born_America)_-_Benjamin_Franklin_Drawing_Electricity_from_the_Sky_-_Google_Art_Project.jpg, by Benjamin West]]
+, by Benjamin West]]
 
 Franklin started exploring the phenomenon of electricity in 1746 when he saw some of Archibald Spencer's lectures using static electricity for illustrations.[46] Franklin proposed that "vitreous" and "resinous" electricity were not different types of "electrical fluid" (as electricity was called then), but the same "fluid" under different pressures. (The same proposal was made independently that same year by William Watson.) Franklin was the first to label them as positive and negative respectively,[47][48] and he was the first to discover the principle of conservation of charge.[49] In 1748, he constructed a multiple plate capacitor, that he called an "electrical battery" (not to be confused with Volta's pile) by placing eleven panes of glass sandwiched between lead plates, suspended with silk cords and connected by wires.[50]
 
@@ -108,7 +104,7 @@ Franklin briefly investigated electrotherapy, including the use of the electric 
 
 Kite experiment and lightning rod
 
-BEP-JONES-Franklin_and_Electricity.jpg by the BEP (c. 1860)]]
+by the BEP (c. 1860)]]
 
 Franklin published a proposal for an experiment to prove that lightning is electricity by flying a kite in a storm that appeared capable of becoming a lightning storm. On May 10, 1752, Thomas-François Dalibard of France conducted Franklin's experiment using a iron rod instead of a kite, and he extracted electrical sparks from a cloud. On June 15, 1752, Franklin may possibly have conducted his well-known kite experiment in Philadelphia, successfully extracting sparks from a cloud. Franklin described the experiment in the _Pennsylvania Gazette_ on October 19, 1752,[53][54] without mentioning that he himself had performed it.[55] This account was read to the Royal Society on December 21 and printed as such in the _Philosophical Transactions_.[56] Joseph Priestley published an account with additional details in his 1767 _History and Present Status of Electricity_. Franklin was careful to stand on an insulator, keeping dry under a roof to avoid the danger of electric shock. Others, such as Prof. Georg Wilhelm Richmann in Russia, were indeed electrocuted in performing lightning experiments during the months immediately following Franklin's experiment.
 
@@ -162,7 +158,7 @@ According to Michael Faraday, Franklin's experiments on the non-conduction of ic
 
 Oceanography findings
 
-BenFranklin_Waterspout_1806.jpg and Whirlwinds"]]
+and Whirlwinds"]]
 
 An aging Franklin accumulated all his oceanographic findings in _Maritime Observations_, published by the Philosophical Society's _transactions_ in 1786.[82] It contained ideas for sea anchors, catamaran hulls, watertight compartments, shipboard lightning rods and a soup bowl designed to stay stable in stormy weather.
 
@@ -177,7 +173,7 @@ While traveling on a ship, Franklin had observed that the wake of a ship was dim
 
 Musical endeavors
 
-Glassharmonica.png]]
+]]
 
 Franklin is known to have played the violin, the harp, and the guitar. He also composed music, notably a string quartet in early classical style. While he was in London, he developed a much-improved version of the glass harmonica, in which the glasses rotate on a shaft, with the player's fingers held steady, instead of the other way around. He worked with the London glassblower Charles James to create it, and instruments based on his mechanical version soon found their way to other parts of Europe.[85] Joesph Haydn (a fan of Franklin's enlightened ideas) had a glass harmonica in his instrument collection.[86] Beethoven wrote a sonata for the glass harmonica.[87][88]
 
@@ -195,7 +191,7 @@ Public life
 
 Early steps in Pennsylvania
 
-Benjamin_Franklin_-_Join_or_Die.jpg'': This political cartoon by Franklin urged the colonies to join together during the French and Indian War (Seven Years' War).]]
+'': This political cartoon by Franklin urged the colonies to join together during the French and Indian War (Seven Years' War).]]
 
 In 1736, Franklin created the Union Fire Company, one of the first volunteer firefighting companies in America. In the same year, he printed a new currency for New Jersey based on innovative anti-counterfeiting techniques he had devised. Throughout his career, Franklin was an advocate for paper money, publishing _A Modest Enquiry into the Nature and Necessity of a Paper Currency_ in 1729, and his printer printed money. He was influential in the more restrained and thus successful monetary experiments in the Middle Colonies, which stopped deflation without causing excessive inflation. In 1766 he made a case for paper money to the British House of Commons.[98]
 
@@ -205,7 +201,7 @@ In 1743, Franklin founded the American Philosophical Society to help scientific 
 
 In 1747, Franklin (already a very wealthy man) retired from printing and went into other businesses.[101] He created a partnership with his foreman, David Hall, which provided Franklin with half of the shop's profits for 18 years. This lucrative business arrangement provided leisure time for study, and in a few years he had made discoveries that gave him a reputation with educated persons throughout Europe and especially in France.
 
-PennsylvaniaHospitalWilliamStrickland.jpg by William Strickland, 1755]]
+by William Strickland, 1755]]
 
 Franklin became involved in Philadelphia politics and rapidly progressed. In October 1748, he was selected as a councilman, in June 1749 he became a Justice of the Peace for Philadelphia, and in 1751 he was elected to the Pennsylvania Assembly. On August 10, 1753, Franklin was appointed deputy postmaster-general of British North America, (see below). His most notable service in domestic politics was his reform of the postal system, with mail sent out every week.[102]
 
@@ -213,15 +209,13 @@ In 1751, Franklin and Thomas Bond obtained a charter from the Pennsylvania legis
 
 In 1752, Franklin organized the Philadelphia Contributionship, the first homeowner's insurance company in what would become the United States.[103][104]
 
-1757_UPenn_Seal.png
-
 Between 1750 and 1753, the "educational triumvirate"[105] of Benjamin Franklin, the American Samuel Johnson of Stratford, Connecticut, and the immigrant Scottish schoolteacher William Smith built on Franklin's initial scheme and created what Bishop James Madison, president of the College of William & Mary, called a "new-model"[106] plan or style of American college. Franklin solicited, printed in 1752, and promoted an American textbook of moral philosophy by Samuel Johnson, titled _Elementa Philosophica_,[107] to be taught in the new colleges to replace courses in denominational divinity.
 
 In June 1753, Johnson, Franklin, and Smith met in Stratford.[108] They decided the new-model college would focus on the professions, with classes taught in English instead of Latin, have subject matter experts as professors instead of one tutor leading a class for four years, and there would be no religious test for admission.[109] Johnson went on to found King's College (now Columbia University) in New York City in 1754, while Franklin hired Smith as Provost of the College of Philadelphia, which opened in 1755. At its first commencement, on May 17, 1757, seven men graduated; six with a Bachelor of Arts and one as Master of Arts. It was later merged with the University of the State of Pennsylvania to become the University of Pennsylvania. The College was to become influential in guiding the founding documents of the United States: in the Continental Congress, for example, over one third of the college-affiliated men who contributed the _Declaration of Independence_ between September 4, 1774, and July 4, 1776, were affiliated with the College.[110]
 
 In 1753, both Harvard[111] and Yale[112] awarded him honorary degrees.[113]
 
-Sketch_of_Tun_Tavern_in_the_Revolutionary_War.jpg]]
+]]
 
 In 1754, he headed the Pennsylvania delegation to the Albany Congress. This meeting of several colonies had been requested by the Board of Trade in England to improve relations with the Indians and defense against the French. Franklin proposed a broad Plan of Union for the colonies. While the plan was not adopted, elements of it found their way into the Articles of Confederation and the Constitution.
 
@@ -233,13 +227,11 @@ From the mid 1750s to the mid 1770s, Franklin spent much of his time in London. 
 
 In 1757, he was sent to England by the Pennsylvania Assembly as a colonial agent to protest against the political influence of the Penn family, the proprietors of the colony. He remained there for five years, striving to end the proprietors' prerogative to overturn legislation from the elected Assembly, and their exemption from paying taxes on their land. His lack of influential allies in Whitehall led to the failure of this mission.
 
-US-Colonial_(PA-115)-Pennsylvania-18_Jun_1764.jpg
-
 At this time, many members of the Pennsylvania Assembly were feuding with William Penn's heirs, who controlled the colony as proprietors. After his return to the colony, Franklin led the "anti-proprietary party" in the struggle against the Penn family, and was elected Speaker of the Pennsylvania House in May 1764. His call for a change from proprietary to royal government was a rare political miscalculation, however: Pennsylvanians worried that such a move would endanger their political and religious freedoms. Because of these fears, and because of political attacks on his character, Franklin lost his seat in the October 1764 Assembly elections. The anti-proprietary party dispatched Franklin to England again to continue the struggle against the Penn family proprietorship. During this trip, events drastically changed the nature of his mission.[115]
 
 In London, Franklin opposed the 1765 Stamp Act. Unable to prevent its passage, he made another political miscalculation and recommended a friend to the post of stamp distributor for Pennsylvania. Pennsylvanians were outraged, believing that he had supported the measure all along, and threatened to destroy his home in Philadelphia. Franklin soon learned of the extent of colonial resistance to the Stamp Act, and he testified during the House of Commons proceedings that led to its repeal.[116]
 
-Benjamin_Franklin_1767.jpg in later years. Painting by David Martin, displayed in the White House.]]
+in later years. Painting by David Martin, displayed in the White House.]]
 
 With this, Franklin suddenly emerged as the leading spokesman for American interests in England. He wrote popular essays on behalf of the colonies. Georgia, New Jersey, and Massachusetts also appointed him as their agent to the Crown.[117]
 
@@ -293,7 +285,7 @@ He provided an early response to British surveillance through his own network of
 
 Declaration of Independence
 
-Declaration_independence.jpg depicts the Committee of Five presenting their work to the Congress.[142]]]
+depicts the Committee of Five presenting their work to the Congress.[142]]]
 
 By the time Franklin arrived in Philadelphia on May 5, 1775, after his second mission to Great Britain, the American Revolution had begun—with fighting between colonials and British at Lexington and Concord. The New England militia had trapped the main British army in Boston. The Pennsylvania Assembly unanimously chose Franklin as their delegate to the Second Continental Congress. In June 1776, he was appointed a member of the Committee of Five that drafted the Declaration of Independence. Although he was temporarily disabled by gout and unable to attend most meetings of the Committee, Franklin made several "small but important"[143] changes to the draft sent to him by Thomas Jefferson.
 
@@ -301,7 +293,7 @@ At the signing, he is quoted as having replied to a comment by John Hancock that
 
 Postmaster
 
-Franklin_SC1_1847.jpg, issue of 1847]]
+, issue of 1847]]
 
 Well known as a printer and publisher, Franklin was appointed postmaster of Philadelphia in 1737, holding the office until 1753, when he and publisher William Hunter were named deputy postmasters–general of British North America, the first to hold the office. (Joint appointments were standard at the time, for political reasons.) Franklin was responsible for the British colonies from Pennsylvania north and east, as far as the island of Newfoundland. A post office for local and outgoing mail had been established in Halifax, Nova Scotia, by local stationer Benjamin Leigh, on April 23, 1754, but service was irregular. Franklin opened the first post office to offer regular, monthly mail in what would later become Canada, at Halifax, on December 9, 1755. Meantime, Hunter became postal administrator in Williamsburg, Virginia and oversaw areas south of Annapolis, Maryland. Franklin reorganized the service's accounting system, then improved speed of delivery between Philadelphia, New York and Boston. By 1761, efficiencies led to the first profits for the colonial post office.[145]
 
@@ -311,7 +303,7 @@ On July 26, 1775, the Second Continental Congress established the United States 
 
 Ambassador to France: 1776–1785
 
-Franklin1877.jpg hat, charmed the French with what they perceived as rustic New World genius.[149]]]
+hat, charmed the French with what they perceived as rustic New World genius.[149]]]
 
 In December 1776, Franklin was dispatched to France as commissioner for the United States.[150] He took with him as secretary his 16-year-old grandson, William Temple Franklin. They lived in a home in the Parisian suburb of Passy, donated by Jacques-Donatien Le Ray de Chaumont, who supported the United States. Franklin remained in France until 1785. He conducted the affairs of his country toward the French nation with great success, which included securing a critical military alliance in 1778 and negotiating the Treaty of Paris (1783).
 
@@ -319,7 +311,7 @@ Among his associates in France was Honoré Gabriel Riqueti, comte de Mirabeau—
 
 During his stay in France, Benjamin Franklin was active as a Freemason, serving as Venerable Master of the Lodge Les Neuf Sœurs from 1779 until 1781. He was the 106th member of the Lodge. In 1784, when Franz Mesmer began to publicize his theory of "animal magnetism" which was considered offensive by many, Louis XVI appointed a commission to investigate it. These included the chemist Antoine Lavoisier, the physician Joseph-Ignace Guillotin, the astronomer Jean Sylvain Bailly, and Benjamin Franklin.[154] In 1781, he was elected a Fellow of the American Academy of Arts and Sciences.[155]
 
-Libertas_Americana_silver_medallion_1783.jpg to engrave the medallion _"Libertas Americana"_ minted in Paris in 1783.]]
+to engrave the medallion _"Libertas Americana"_ minted in Paris in 1783.]]
 
 Franklin's advocacy for religious tolerance in France contributed to arguments made by French philosophers and politicians that resulted in Louis XVI's signing of the Edict of Versailles in November 1787. This edict effectively nullified the Edict of Fontainebleau, which had denied non-Catholics civil status and the right to openly practice their faith.[156]
 
@@ -327,7 +319,7 @@ Franklin also served as American minister to Sweden, although he never visited t
 
 Constitutional Convention
 
-Franklin's_return_to_Philadelphia_1785_cph.3g09906.jpg]]
+]]
 
 When he returned home in 1785, Franklin occupied a position only second to that of George Washington as the champion of American independence. Le Ray honored him with a commissioned portrait painted by Joseph Duplessis, which now hangs in the National Portrait Gallery of the Smithsonian Institution in Washington, D.C. After his return, Franklin became an abolitionist and freed his two slaves. He eventually became president of the Pennsylvania Abolition Society.[163]
 
@@ -341,24 +333,22 @@ Franklin strongly supported the right to freedom of speech:
 
 President of Pennsylvania
 
-FRANKLIN,_Benjamin_(signed_check).jpg
-
 Special balloting conducted October 18, 1785, unanimously elected Franklin the sixth president of the Supreme Executive Council of Pennsylvania, replacing John Dickinson. The office was practically that of governor. Franklin held that office for slightly over three years, longer than any other, and served the constitutional limit of three full terms. Shortly after his initial election he was reelected to a full term on October 29, 1785, and again in the fall of 1786 and on October 31, 1787. In that capacity he served as host to the Constitutional Convention of 1787 in Philadelphia.[164]
 
 
 Virtue, religion, and personal beliefs
 
-Benjamin_Franklin_(1706–1790)_MET_DT2883.jpg, 1778]]
+, 1778]]
 
 Like the other advocates of republicanism, Franklin emphasized that the new republic could survive only if the people were virtuous. All his life he explored the role of civic and personal virtue, as expressed in _Poor Richard's_ aphorisms. Franklin felt that organized religion was necessary to keep men good to their fellow men, but rarely attended religious services himself.[165] When Franklin met Voltaire in Paris and asked his fellow member of the Enlightenment vanguard to bless his grandson, Voltaire said in English, "God and Liberty", and added, "this is the only appropriate benediction for the grandson of Monsieur Franklin."[166]
 
-Pedro_Américo_-_Voltaire_abençoando_o_neto_de_Franklin_em_nome_de_Deus_e_da_Liberdade.jpg, 1889-90]]
+, 1889-90]]
 
 Franklin's parents were both pious Puritans.[167] The family attended the Old South Church, the most liberal Puritan congregation in Boston, where Benjamin Franklin was baptized in 1706.[168] Franklin's father, a poor chandler, owned a copy of a book, _Bonifacius: Essays to Do Good_, by the Puritan preacher and family friend Cotton Mather, which Franklin often cited as a key influence on his life.[169] Franklin's first pen name, Silence Dogood, paid homage both to the book and to a widely known sermon by Mather. The book preached the importance of forming voluntary associations to benefit society. Franklin learned about forming do-good associations from Cotton Mather, but his organizational skills made him the most influential force in making voluntarism an enduring part of the American ethos.[170]
 
 Franklin formulated a presentation of his beliefs and published it in 1728.[171] It did not mention many of the Puritan ideas regarding salvation, the divinity of Jesus, or indeed much religious dogma. He clarified himself as a deist in his 1771 autobiography,[172] although still considered himself a Christian.[173] He retained a strong faith in a God as the wellspring of morality and goodness in man, and as a Providential actor in history responsible for American independence.[174]
 
-Benjamin_Franklin_by_Hiram_Powers.jpg It was Ben Franklin who, at a critical impasse during the Constitutional Convention in June 1787, attempted to introduce the practice of daily common prayer with these words:
+It was Ben Franklin who, at a critical impasse during the Constitutional Convention in June 1787, attempted to introduce the practice of daily common prayer with these words:
 
 The motion met with resistance and was never brought to a vote.[175]
 
@@ -374,7 +364,7 @@ Franklin's commitment to teach these values was itself something he gained from 
 
 One of Franklin's notable characteristics was his respect, tolerance and promotion of all churches. Referring to his experience in Philadelphia, he wrote in his autobiography, "new Places of worship were continually wanted, and generally erected by voluntary Contribution, my Mite for such purpose, whatever might be the Sect, was never refused."[184] "He helped create a new type of nation that would draw strength from its religious pluralism."[185] The evangelical revivalists who were active mid-century, such as Franklin's friend and preacher, George Whitefield, were the greatest advocates of religious freedom, "claiming liberty of conscience to be an 'inalienable right of every rational creature.'"[186] Whitefield's supporters in Philadelphia, including Franklin, erected "a large, new hall, that ... could provide a pulpit to anyone of any belief."[187] Franklin's rejection of dogma and doctrine and his stress on the God of ethics and morality and civic virtue made him the "prophet of tolerance."[188] Franklin composed "A Parable Against Persecution", an apocryphal 51st chapter of Genesis in which God teaches Abraham the duty of tolerance.[189] While he was living in London in 1774, he was present at the birth of British Unitarianism, attending the inaugural session of the Essex Street Chapel, at which Theophilus Lindsey drew together the first avowedly Unitarian congregation in England; this was somewhat politically risky, and pushed religious tolerance to new boundaries, as a denial of the doctrine of the Trinity was illegal until the 1813 Act.[190]
 
-Dr_Richard_Price,_DD,_FRS_-_Benjamin_West.jpg, the radical minister of Newington Green Unitarian Church, holding a letter from Franklin]]
+, the radical minister of Newington Green Unitarian Church, holding a letter from Franklin]]
 
 Although Franklin's parents had intended for him to have a career in the Church,[191] Franklin as a young man adopted the Enlightenment religious belief in deism, that God's truths can be found entirely through nature and reason.[192] "I soon became a thorough Deist."[193] As a young man he rejected Christian dogma in a 1725 pamphlet _A Dissertation on Liberty and Necessity, Pleasure and Pain_,[194] which he later saw as an embarrassment,[195] while simultaneously asserting that God is "all wise, all good, all powerful."[196] He defended his rejection of religious dogma with these words: "I think opinions should be judged by their influences and effects; and if a man holds none that tend to make him less virtuous or more vicious, it may be concluded that he holds none that are dangerous, which I hope is the case with me." After the disillusioning experience of seeing the decay in his own moral standards, and those of two friends in London whom he had converted to Deism, Franklin turned back to a belief in the importance of organized religion, on the pragmatic grounds that without God and organized churches, man will not be good.[197] Moreover, because of his proposal that prayers be said in the Constitutional Convention of 1787, many have contended that in his later life Franklin became a pious Christian.[198][199]
 
@@ -386,7 +376,7 @@ On July 4, 1776, Congress appointed a three-member committee composed of Frankli
 
 Thirteen Virtues
 
-Franklin_bust_at_Columbia_University_IMG_0924.JPG Department of Columbia University in New York City]]
+Department of Columbia University in New York City]]
 
 Franklin sought to cultivate his character by a plan of 13 virtues, which he developed at age 20 (in 1726) and continued to practice in some form for the rest of his life. His autobiography lists his 13 virtues as:
 
@@ -424,8 +414,6 @@ In 1790, Quakers from New York and Pennsylvania presented their petition for abo
 
 Death
 
-Philly_2010_transit_071.JPG
-
 Franklin suffered from obesity throughout his middle-aged and later years, which resulted in multiple health problems, particularly gout, which worsened as he aged. In poor health during the signing of the US Constitution in 1787, he was rarely seen in public from then until his death.
 
 Benjamin Franklin died from pleuritic attack[211] at his home in Philadelphia on April 17, 1790.[212] He was aged 84 at the time of his death. His last words were reportedly "A dying man can do nothing easy.", to his daughter after she suggested that he change position in bed and lay on his side so he could breathe more easily.[213][214] Franklin's death is described in the book _The Life of Benjamin Franklin_, quoting from the account of John Jones:
@@ -437,7 +425,7 @@ Franklin's actual grave, however, as he specified in his final will, simply read
 
 Legacy
 
-New100front.jpg]] Benjamin_Franklin_National_Memorial.jpg]]A signer of both the Declaration of Independence and the Constitution, Franklin is considered one of the Founding Fathers of the United States. His pervasive influence in the early history of the nation has led to his being jocularly called "the only President of the United States who was never President of the United States."[216] Franklin's likeness is ubiquitous. Since 1928, it has adorned American $100 bills, which are sometimes referred to in slang as "Benjamins" or "Franklins." From 1948 to 1963, Franklin's portrait was on the half dollar. He has appeared on a $50 bill and on several varieties of the $100 bill from 1914 and 1918. Franklin appears on the $1,000 Series EE Savings bond. Philadelphia's Benjamin Franklin Parkway (a major thoroughfare) and Benjamin Franklin Bridge (the first major bridge to connect Philadelphia with New Jersey) are named in his honor.
+]] ]]A signer of both the Declaration of Independence and the Constitution, Franklin is considered one of the Founding Fathers of the United States. His pervasive influence in the early history of the nation has led to his being jocularly called "the only President of the United States who was never President of the United States."[216] Franklin's likeness is ubiquitous. Since 1928, it has adorned American $100 bills, which are sometimes referred to in slang as "Benjamins" or "Franklins." From 1948 to 1963, Franklin's portrait was on the half dollar. He has appeared on a $50 bill and on several varieties of the $100 bill from 1914 and 1918. Franklin appears on the $1,000 Series EE Savings bond. Philadelphia's Benjamin Franklin Parkway (a major thoroughfare) and Benjamin Franklin Bridge (the first major bridge to connect Philadelphia with New Jersey) are named in his honor.
 
 In 1976, as part of a bicentennial celebration, Congress dedicated a marble statue in Philadelphia's Franklin Institute as the Benjamin Franklin National Memorial. Many of Franklin's personal possessions are also on display at the Institute, one of the few national memorials located on private property.
 
@@ -461,7 +449,7 @@ Bawdy Ben
 
 Exhibitions
 
-2012-07_ncc_04.JPG, Philadelphia]] "The Princess and the Patriot: Ekaterina Dashkova, Benjamin Franklin and the Age of Enlightenment" exhibition opened in Philadelphia in February 2006 and ran through December 2006. Benjamin Franklin and Dashkova met only once, in Paris in 1781. Franklin was 75, and Dashkova was 37. Franklin invited Dashkova to become the first woman to join the American Philosophical Society; she was the only woman so honored for another 80 years. Later, Dashkova reciprocated by making him the first American member of the Russian Academy of Sciences.
+, Philadelphia]] "The Princess and the Patriot: Ekaterina Dashkova, Benjamin Franklin and the Age of Enlightenment" exhibition opened in Philadelphia in February 2006 and ran through December 2006. Benjamin Franklin and Dashkova met only once, in Paris in 1781. Franklin was 75, and Dashkova was 37. Franklin invited Dashkova to become the first woman to join the American Philosophical Society; she was the only woman so honored for another 80 years. Later, Dashkova reciprocated by making him the first American member of the Russian Academy of Sciences.
 
 Places and things named after Benjamin Franklin
 

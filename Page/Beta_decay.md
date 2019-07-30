@@ -1,4 +1,4 @@
-Beta-minus_Decay.svg (the accompanying antineutrino is omitted). The inset shows beta decay of a free neutron. In both processes, an intermediate virtual boson is not shown.]] In nuclear physics, BETA DECAY (_β_-decay) is a type of radioactive decay in which a beta particle (fast energetic electron or positron) is emitted from an atomic nucleus. For example, beta decay of a neutron transforms it into a proton by the emission of an electron accompanied by an antineutrino, or conversely a proton is converted into a neutron by the emission of a positron (positron emission) with a neutrino, thus changing the nuclide type. Neither the beta particle nor its associated (anti-)neutrino exist within the nucleus prior to beta decay, but are created in the decay process. By this process, unstable atoms obtain a more stable ratio of protons to neutrons. The probability of a nuclide decaying due to beta and other forms of decay is determined by its nuclear binding energy. The binding energies of all existing nuclides form what is called the nuclear band or valley of stability.[1] For either electron or positron emission to be energetically possible, the energy release (see below) or Q value must be positive.
+(the accompanying antineutrino is omitted). The inset shows beta decay of a free neutron. In both processes, an intermediate virtual boson is not shown.]] In nuclear physics, BETA DECAY (_β_-decay) is a type of radioactive decay in which a beta particle (fast energetic electron or positron) is emitted from an atomic nucleus. For example, beta decay of a neutron transforms it into a proton by the emission of an electron accompanied by an antineutrino, or conversely a proton is converted into a neutron by the emission of a positron (positron emission) with a neutrino, thus changing the nuclide type. Neither the beta particle nor its associated (anti-)neutrino exist within the nucleus prior to beta decay, but are created in the decay process. By this process, unstable atoms obtain a more stable ratio of protons to neutrons. The probability of a nuclide decaying due to beta and other forms of decay is determined by its nuclear binding energy. The binding energies of all existing nuclides form what is called the nuclear band or valley of stability.[1] For either electron or positron emission to be energetically possible, the energy release (see below) or Q value must be positive.
 
 Beta decay is a consequence of the weak force, which is characterized by relatively lengthy decay times. Nucleons are composed of up quarks and down quarks,[2] and the weak force allows a quark to change type by the exchange of a W boson and the creation of an electron/antineutrino or positron/neutrino pair. For example, a neutron, composed of two down quarks and an up quark, decays to a proton composed of a down quark and two up quarks. Decay times for many nuclides that are subject to beta decay can be thousands of years.
 
@@ -27,7 +27,7 @@ An example of positron emission (β⁺ decay) is the decay of magnesium-23 into 
 
 β⁺ decay also results in nuclear transmutation, with the resulting element having an atomic number that is decreased by one.
 
-RaE1.jpg The beta spectrum, or distribution of energy values for the beta particles, is continuous. The total energy of the decay process is divided between the electron, the antineutrino, and the recoiling nuclide. In the figure to the right, an example of an electron with 0.40 MeV energy from the beta decay of ²¹⁰Bi is shown. In this example, the total decay energy is 1.16 MeV, so the antineutrino has the remaining energy: 1.16-0.40=0.76 MeV. An electron at the far right of the curve would have the maximum possible kinetic energy, leaving the energy of the neutrino to be only its small rest mass.
+The beta spectrum, or distribution of energy values for the beta particles, is continuous. The total energy of the decay process is divided between the electron, the antineutrino, and the recoiling nuclide. In the figure to the right, an example of an electron with 0.40 MeV energy from the beta decay of ²¹⁰Bi is shown. In this example, the total decay energy is 1.16 MeV, so the antineutrino has the remaining energy: 1.16-0.40=0.76 MeV. An electron at the far right of the curve would have the maximum possible kinetic energy, leaving the energy of the neutrino to be only its small rest mass.
 
 
 History
@@ -63,7 +63,7 @@ In 1956, Tsung-Dao Lee and Chen Ning Yang noticed that there was no evidence tha
 
 β^(−) decay
 
-Beta_Negative_Decay.svg for  decay of a neutron into a proton, electron, and electron antineutrino via an intermediate [[W_boson|
+for  decay of a neutron into a proton, electron, and electron antineutrino via an intermediate [[W_boson|
 
 so all leptons have assigned a value of +1, antileptons −1, and non-leptonic particles 0.
 
@@ -175,7 +175,7 @@ Bibliography
 
 External links
 
--   Image:Ndslivechart.png THE LIVE CHART OF NUCLIDES - IAEA with filter on decay type
+-   THE LIVE CHART OF NUCLIDES - IAEA with filter on decay type
 
 -   BETA DECAY SIMULATION 1
 

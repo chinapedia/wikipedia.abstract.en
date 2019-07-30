@@ -1,4 +1,4 @@
-hydrogen_atom.svg radius. (Image not to scale)]] A HYDROGEN ATOM is an atom of the chemical element hydrogen. The electrically neutral atom contains a single positively charged proton and a single negatively charged electron bound to the nucleus by the Coulomb force. ATOMIC HYDROGEN constitutes about 75% of the baryonic mass of the universe.[1]
+radius. (Image not to scale)]] A HYDROGEN ATOM is an atom of the chemical element hydrogen. The electrically neutral atom contains a single positively charged proton and a single negatively charged electron bound to the nucleus by the Coulomb force. ATOMIC HYDROGEN constitutes about 75% of the baryonic mass of the universe.[1]
 
 In everyday life on Earth, isolated hydrogen atoms (called "atomic hydrogen") are extremely rare. Instead, a hydrogen atom tends to combine with other atoms in compounds, or with another hydrogen atom to form ordinary (diatomic) hydrogen gas, H₂. "Atomic hydrogen" and "hydrogen atom" in ordinary English use have overlapping, yet distinct, meanings. For example, a water molecule contains two hydrogen atoms, but does not contain atomic hydrogen (which would refer to isolated hydrogen atoms).
 
@@ -127,7 +127,7 @@ $$-\frac{\hbar^2}{2 \mu} \left[ \frac{1}{r^2} \frac{\partial }{\partial r} \left
 This is a separable, partial differential equation which can be solved in terms of special functions. The normalized position wavefunctions, given in spherical coordinates are:
 
 $$\psi_{n\ell m}(r,\vartheta,\varphi) = \sqrt {{\left (  \frac{2}{n a^*_0} \right )}^3 \frac{(n-\ell-1)!}{2n(n+\ell)!}} e^{- \rho / 2} \rho^{\ell} L_{n-\ell-1}^{2\ell+1}(\rho) Y_{\ell}^{m}(\vartheta, \varphi )$$
-Hydrogen_eigenstate_n4_l3_m1.png where:
+where:
 
 $$\rho = {2r \over {n a^*_0}}$$
 ,
@@ -210,7 +210,7 @@ $$\begin{array}{rl} \langle r\theta\phi|s,\gamma,\bar{\Omega}\rangle & = e^{-s^2
 
 Visualizing the hydrogen electron orbitals
 
-HAtomOrbitals.png The image to the right shows the first few hydrogen atom orbitals (energy eigenfunctions). These are cross-sections of the probability density that are color-coded (black represents zero density and white represents the highest density). The angular momentum (orbital) quantum number _ℓ_ is denoted in each column, using the usual spectroscopic letter code (_s_ means _ℓ_ = 0, _p_ means _ℓ_ = 1, _d_ means _ℓ_ = 2). The main (principal) quantum number _n_ (= 1, 2, 3, ...) is marked to the right of each row. For all pictures the magnetic quantum number _m_ has been set to 0, and the cross-sectional plane is the _xz_-plane (_z_ is the vertical axis). The probability density in three-dimensional space is obtained by rotating the one shown here around the _z_-axis.
+The image to the right shows the first few hydrogen atom orbitals (energy eigenfunctions). These are cross-sections of the probability density that are color-coded (black represents zero density and white represents the highest density). The angular momentum (orbital) quantum number _ℓ_ is denoted in each column, using the usual spectroscopic letter code (_s_ means _ℓ_ = 0, _p_ means _ℓ_ = 1, _d_ means _ℓ_ = 2). The main (principal) quantum number _n_ (= 1, 2, 3, ...) is marked to the right of each row. For all pictures the magnetic quantum number _m_ has been set to 0, and the cross-sectional plane is the _xz_-plane (_z_ is the vertical axis). The probability density in three-dimensional space is obtained by rotating the one shown here around the _z_-axis.
 
 The "ground state", i.e. the state of lowest energy, in which the electron is usually found, is the first one, the 1_s_ state (principal quantum level _n_ = 1, _ℓ_ = 0).
 

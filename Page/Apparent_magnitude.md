@@ -1,4 +1,4 @@
-65Cyb-LB3-apmag.jpg and two stars, with their magnitudes labeled]]
+and two stars, with their magnitudes labeled]]
 
 APPARENT MAGNITUDE () is a measure of the relative brightness of a star or other astronomical objects as seen by an observer. An object's apparent magnitude depends on its intrinsic luminosity, its distance, and any extinction of the object's light by interstellar dust along the line of sight to the observer.
 
@@ -57,7 +57,7 @@ Astronomers have developed other photometric zeropoint systems as alternatives t
 
 Calculations
 
-VISTA_Magellanic_Cloud_Survey_view_of_the_Tarantula_Nebula.jpg taken by ESO's VISTA. This nebula has an apparent magnitude of 8.]] Apparent_magnitude.svg
+taken by ESO's VISTA. This nebula has an apparent magnitude of 8.]]
 
 As the amount of light actually received by a telescope is reduced by transmission through the Earth's atmosphere, any measurement of apparent magnitude is corrected for what it would have been as seen from above the atmosphere. The dimmer an object appears, the higher the numerical value given to its apparent magnitude, with a difference of 5 magnitudes corresponding to a brightness factor of exactly 100. Therefore, the apparent magnitude , in the spectral band , would be given by
 

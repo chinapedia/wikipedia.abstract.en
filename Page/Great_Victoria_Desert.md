@@ -3,8 +3,6 @@ The GREAT VICTORIA DESERT, an interim Australian bioregion, is a sparsely popula
 
 Location and description
 
-Australia.A2002231.0145.250m_NASA_Nullarbor.jpg
-
 The Great Victoria is the largest desert in Australia[1] and consists of many small sandhills, grassland plains, areas with a closely packed surface of pebbles (called desert pavement or gibber plains) and salt lakes. It is over wide (from west to east) and covers an area of from the Eastern Goldfields region of Western Australia to the Gawler Ranges in South Australia. The Western Australia Mallee shrub ecoregion lies to the west, the Little Sandy Desert to the northwest, the Gibson Desert and the Central Ranges xeric shrublands to the north, the Tirari and Sturt Stony deserts to the east, while the Nullarbor Plain to the south separates it from the Southern Ocean. Average annual rainfall is low and irregular, ranging from per year. Thunderstorms are relatively common in the Great Victoria Desert, with an average of 15–20 thunderstorms per annum. Summer daytime temperatures range from while in winter, this falls to .
 
 
@@ -24,7 +22,7 @@ In 1875, British explorer Ernest Giles became the first European to cross the de
 
 Environment
 
-Serpentine_Lakes.JPG The Great Victoria desert is a World Wildlife Fund ecoregion[4] and an Interim Biogeographic Regionalisation for Australia (IBRA) region of the same name.[5]
+The Great Victoria desert is a World Wildlife Fund ecoregion[4] and an Interim Biogeographic Regionalisation for Australia (IBRA) region of the same name.[5]
 
 As this area has had very limited use for agriculture, habitats remain largely undisturbed while parts of the desert are protected areas including Mamungari Conservation Park (formerly known as Unnamed Conservation Park) in South Australia, a large area of pristine arid zone wilderness which possesses cultural significance and is one of the fourteen World Biosphere Reserves[6] in Australia. Habitat is also preserved in the large Aboriginal local government area of Anangu Pitjantjatjara Yankunytjatjara in South Australia and in the Great Victoria Desert Nature Reserve of Western Australia.
 

@@ -50,7 +50,7 @@ History
 
 Counts of Habsburg
 
-Schweiz_um_1200.png}}, and ]]
+}}, and ]]
 
 The progenitor of the House of Habsburg may have been Guntram the Rich, a count in the Breisgau who lived in the 10th century, and forewith farther back as the early medieval Adalrich, Duke of Alsace, father of the Etichonids from which Habsburg derives. His grandson Radbot, Count of Habsburg founded the Habsburg Castle, after which the Habsburgs are named. The origins of the castle's name, located in what is now the Swiss canton of Aargau, are uncertain. There is disagreement on whether the name is derived from the High German _Habichtsburg_ (hawk castle), or from the Middle High German word _hab/hap_ meaning _ford_, as there is a river with a ford nearby. The first documented use of the name by the dynasty itself has been traced to the year 1108.[5][6][7] The Habsburg Castle was the family seat in the 11th, 12th and 13th centuries.
 
@@ -66,8 +66,6 @@ By marrying Elisabeth of Luxembourg, the daughter of Holy Roman Emperor Sigismun
 
 Holy Roman emperors
 
-Growth_of_Habsburg_territories.jpg
-
 In 1440, Frederick III was chosen by the electoral college to succeed Albert II as the king. Several Habsburg kings had attempted to gain the imperial throne over the years, but success finally arrived on 19 March 1452, when Pope Nicholas V crowned Frederick III as the Holy Roman Emperor in a grand ceremony held in Rome. In Frederick III, the Pope found an important political ally with whose help he was able to counter the conciliar movement.[11]
 
 While in Rome, Frederick III married Eleanor of Portugal, enabling him to build a network of connections with dynasties in the west and southeast of Europe. Frederick was rather distant to his family; Eleanor, by contrast, had a great influence on the raising and education of Frederick's children, and therefore played an important role in the family's rise to prominence. After Frederick III's coronation, the Habsburgs were able to hold the imperial throne almost continuously for centuries, until 1806.[12]
@@ -78,7 +76,7 @@ On the external front, one of Frederick's main achievements was the Siege of Neu
 
 After the death of his father in 1493, Maximilian was proclaimed the new King of the Romans, receiving the name Maximilian I. Maximilian was initially unable to travel to Rome to receive the Imperial title from the Pope, due to opposition from Venice and from the French who were occupying Milan, as well a refusal from the Pope due to enemy forces being present on his territory. In 1508, Maximilian proclaimed himself as the "chosen Emperor," and this was also recognized by the Pope due to changes in political alliances. This had a historical consequence in that, in the future, the Roman King would also automatically become Emperor, without needing the Pope's consent. In 1530, Emperor Charles V became the last person to be crowned as the Emperor by the Pope.[16]
 
-Habsburg_Map_1547.jpg (1547) as depicted in _The Cambridge Modern History Atlas_ (1912); Habsburg lands are shaded green, but do not include the lands of the Holy Roman Empire over which they presided, nor the vast Castilian holdings outside of Europe, particularly in the New World.]]
+(1547) as depicted in _The Cambridge Modern History Atlas_ (1912); Habsburg lands are shaded green, but do not include the lands of the Holy Roman Empire over which they presided, nor the vast Castilian holdings outside of Europe, particularly in the New World.]]
 
 Maximilian's rule (1493–1519) was a time of great expansion for the Habsburgs. In 1497, Maximilian's son Philip the Handsome (also known as Phillip the Fair) married Joanna of Castile, also known as Joan the Mad, heiress of Castile, Aragon, and most of Spain. Phillip and Joan had six children, the eldest of whom became emperor Charles V and inherited the kingdoms of Castile and Aragon (including their colonies in the New World) as Charles I, Southern Italy, Austria, and the Low Countries.[17]
 
@@ -89,8 +87,6 @@ The Habsburg dynasty achieved the position of a true world power by the time of 
 The Habsburgs' policies against Protestantism led to an eradication of the former throughout vast areas under their control.
 
 Division of the house: Spanish and Austrian Habsburgs
-
-Habsburg_dominions_1700.png
 
 After the abdication of Charles V in 1556, the Habsburg dynasty split into the branch of the Austrian Habsburgs and the branch of the Spanish Habsburgs.[18] Ferdinand I, King of Bohemia, Hungary,[19] and archduke of Austria in the name of his brother Charles V, became suo jure monarch as well as the Habsburg Holy Roman Emperor (designated as successor already in 1531). Philip II of Spain, son of Charles V, became King of Spain and its colonial empire, and ruler of the Mezzogiorno of Italy. The Spanish Habsburgs also ruled Portugal for a time (1580–1640).
 
@@ -107,7 +103,6 @@ The Austrian branch became extinct in the male line in 1740 with the death of Ch
 Habsburg-Lorraine
 
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Austria-Hungary_map_new.svg                                                                                                                                                                                                                          |
 | Kingdoms and countries of Austria-Hungary:                                                                                                                                                                                                           |
 | CISLEITHANIA (EMPIRE OF AUSTRIA[23]): 1. Bohemia, 2. Bukovina, 3. Carinthia, 4. Carniola, 5. Dalmatia, 6. Galicia, 7. Küstenland, 8. Lower Austria, 9. Moravia, 10. Salzburg, 11. Silesia, 12. Styria, 13. Tirol, 14. Upper Austria, 15. Vorarlberg; |
 | TRANSLEITHANIA (KINGDOM OF HUNGARY[24]): 16. Hungary proper 17. Croatia-Slavonia; 18. Bosnia and Herzegovina (Austro-Hungarian condominium)                                                                                                          |
@@ -121,8 +116,6 @@ Emperor Francis I of Austria used the official full list of titles: "We, Francis
 
 The Austro-Hungarian Compromise of 1867 created a real union, whereby the Kingdom of Hungary was granted co-equality with the Empire of Austria, that henceforth didn't include the Kingdom of Hungary as a crownland anymore. The Austrian and the Hungarian lands became independent entities enjoying equal status[25] Under this arrangement, the Hungarians referred to their ruler as king and never emperor (see k. u. k.). This prevailed until the Habsburgs' deposition from both Austria and Hungary in 1918 following defeat in World War I.
 
-Austria_Hungary_ethnic.svg
-
 On 11 November 1918, with his empire collapsing around him, the last Habsburg ruler, Charles I of Austria (who also reigned as Charles IV of Hungary) issued a proclamation recognizing Austria's right to determine the future of the state and renouncing any role in state affairs. Two days later, he issued a separate proclamation for Hungary. Even though he did not officially abdicate, this is considered the end of the Habsburg dynasty. In 1919, the new republican Austrian government subsequently passed a law banishing the Habsburgs from Austrian territory until they renounced all intentions of regaining the throne and accepted the status of private citizens. Charles made several attempts to regain the throne of Hungary, and in 1921 the Hungarian government passed a law which revoked Charles' rights and dethroned the Habsburgs.
 
 The Habsburgs did not formally abandon all hope of returning to power until Otto von Habsburg, the eldest son of Charles I, on 31 May 1961 renounced all claims to the throne.
@@ -133,8 +126,6 @@ The dynasty's motto was "Leave the waging of wars to others! But you, happy Aust
 Family tree
 
 Similarly, this family tree only includes male scions of the House of Habsburg-Lorraine who survived to adulthood:
-
-Habsburg-Lorraine_Genealogy.PNG
 
 
 Monarchs of the House of Habsburg
@@ -148,8 +139,6 @@ Ancestors
 
 Counts of Habsburg
 
-Rangkronen-Fig._18.svg Arms_of_Counts_of_Habsbourg.svg
-
 Before Rudolph rose to German king, the Habsburgs were Counts of Baden in what is today southwestern Germany and Switzerland.[28]
 
 -   Radbot of Klettgau, built the Habsburg Castle (c. 985 – 1035 ). Besides Werner I, he had two other sons: Otto I, who would become Count of Sundgau in the Alsace, and Albrecht I.
@@ -162,7 +151,7 @@ Before Rudolph rose to German king, the Habsburgs were Counts of Baden in what i
 
 Dukes/Archdukes of Austria
 
-Ducal_Hat_of_Styria.svg Gules_a_fess_argent.svg, originally belonging to the Babenberg dukes. They became all but synonmous with the Habsburgs, as the Habsburgs abandoned their own arms for these.]]
+, originally belonging to the Babenberg dukes. They became all but synonmous with the Habsburgs, as the Habsburgs abandoned their own arms for these.]]
 
 In the late Middle Ages, when the Habsburgs expanded their territories in the east, they usually ruled as dukes of the Duchy of Austria which covered only what is today Lower Austria (_Niederösterreich_) and the eastern part of Upper Austria (_Oberösterreich_). The Habsburg possessions also included the rest of what was then called Inner Austria (_Innerösterreich_), i.e. the Duchy of Styria, and then expanded west to include the Duchy of Carinthia and Carniola in 1335 and the Count of Tirol in 1363. Their original scattered possessions in the southern Alsace, south-western Germany and Vorarlberg were collectively known as Further Austria.
 
@@ -174,7 +163,7 @@ When Albert's son Duke Rudolf IV of Austria died in 1365, his younger brothers A
 
 After the death of Leopold's eldest son William in 1406, the Leopoldinian line was further split among his brothers into the Inner Austrian territory under Ernest the Iron and a Tyrolean/Further Austrian line under Frederick IV. In 1457 Ernest's son Duke Frederick V of Inner Austria also gained the Austrian archduchy after his Albertine cousin Ladislaus the Posthumous had died without issue. 1490 saw the reunification of all Habsburg lines, when Archduke Sigismund of Further Austria and Tyrol resigned in favour of Frederick's son Maximilian I. In 1512, the Habsburg territories were incorporated into the Imperial Austrian Circle.
 
-Carte_archiduché_Autriche.svg: the Duchy of Austria comprising Upper Austria centred around Linz and Lower Austria centered around Vienna, Inner Austria comprising duchies of Styria, Carinthia and Carniola and the lands of the Austrian Littoral centered on Graz, and Further Austria comprising mostly the Sundgau territory with the town of Belfort in southern Alsace, the adjacent Breisgau region east of the Rhine, and usually the County of Tyrol. The part between Further Austria and the duchy of Austria was the Archbishopric of Salzburg.]]
+: the Duchy of Austria comprising Upper Austria centred around Linz and Lower Austria centered around Vienna, Inner Austria comprising duchies of Styria, Carinthia and Carniola and the lands of the Austrian Littoral centered on Graz, and Further Austria comprising mostly the Sundgau territory with the town of Belfort in southern Alsace, the adjacent Breisgau region east of the Rhine, and usually the County of Tyrol. The part between Further Austria and the duchy of Austria was the Archbishopric of Salzburg.]]
 
 _Archduke of Austria_, was invented in the _Privilegium Maius_, a 14th-century forgery initiated by Duke Rudolf IV of Austria. Originally, it was meant to denote the "ruler" (thus "Arch-") of the duchy of Austria, usually from Vienna, in an effort to put the Habsburgs on a par with the Prince-electors, as Austria had been bypassed as hereditary prince-electors of the empire when the Golden Bull of 1356 assigned that title to the highest ranking Imperial princes. The Holy Roman Emperor Charles IV refused to recognise the title.
 
@@ -199,8 +188,6 @@ After the death of Rudolph IV, his brothers Albert III and Leopold III ruled the
 
 Albertine line: Dukes of Austria
 
-Ducal_Hat_of_Styria.svg
-
 -   Albert III (_Albrecht III_), duke of Austria until 1395, from 1386 (after the death of Leopold) until 1395 also ruled over the latter's possessions.
 -   Albert IV (_Albrecht IV_), duke of Austria 1395–1404, in conflict with Leopold IV.
 -   Albert V (_Albrecht V_), duke of Austria 1404–1439, Holy Roman Emperor from 1438–1439 as Albert II. See also below.
@@ -208,15 +195,11 @@ Ducal_Hat_of_Styria.svg
 
 Leopoldine line: Dukes of Styria, Carinthia, Tyrol (Inner Austria)
 
-Ducal_Hat_of_Styria.svg Armoiries_Habsbourg-Styrie.svg
-
 -   Leopold III, duke of Styria, Carinthia, Tyrol, and Further Austria until 1386, when he was killed in the Battle of Sempach.
 -   William (_Wilhelm_), son of the above, 1386–1406 duke in Inner Austria (Carinthia, Styria)
 -   Leopold IV, son of Leopold III, 1391 regent of Further Austria, 1395–1402 duke of Tyrol, after 1404 also duke of Austria, 1406–1411 duke of Inner Austria
 
 Leopoldine-Inner Austrian sub-line
-
-Ducal_Hat_of_Styria.svg
 
 :* Ernest _the Iron_ (_der Eiserne_), 1406–1424 duke of Inner Austria, until 1411 together and competing with his brother Leopold IV.
 
@@ -228,8 +211,6 @@ Ducal_Hat_of_Styria.svg
 
 Leopoldine-Tyrol sub-line
 
-Ducal_Hat_of_Styria.svg
-
 :* Frederick IV (_Friedrich_), brother of Ernst, 1402–1439 duke of Tyrol and Further Austria
 
 :* Sigismund, also spelled _Siegmund_ or _Sigmund_, 1439–1446 under the tutelage of the Frederick V above, then duke of Tyrol, and after the death of Albrecht VI in 1463 also duke of Further Austria.
@@ -240,23 +221,17 @@ Sigismund had no children and adopted Maximilian I, son of duke Frederick V (emp
 
 King of the Romans and Holy Roman Emperors prior to the reunion of the Habsburg possessions
 
-Heraldic_Imperial_Crown_(Common).svg
-
--   Rudolph I, emperor 1273–1291 (never crowned) Emperor_Rudolf_I_Arms.svg
--   Albert I, emperor 1298–1308 (never crowned) Armoiries_empereur_Albert_Ier.svg
--   Albert II, emperor 1438–1439 (never crowned) -ancestor of Empress Catherine II of Russia Armoiries_empereur_Albert_II.svg
--   Frederick III, emperor 1440–1493 Armoiries_empereur_Frédéric_III.svg
+-   Rudolph I, emperor 1273–1291 (never crowned)
+-   Albert I, emperor 1298–1308 (never crowned)
+-   Albert II, emperor 1438–1439 (never crowned) -ancestor of Empress Catherine II of Russia
+-   Frederick III, emperor 1440–1493
 
 Kings of Hungary and Bohemia prior to the reunion of the Habsburg possessions
 
-Crown_of_Saint_Stephen.svg Crown_of_St._Wenceslas.svg
-
--   Albert, king of Hungary and Bohemia (1437–1439) Armoiries_Albert_II_de_Habsbourg.svg
--   Ladislaus V Posthumus, king of Hungary (1444–1457) and Bohemia (1453–1457) Coa_Hungary_Country_History_Ladislaus_V_(1440_–_1457).svg
+-   Albert, king of Hungary and Bohemia (1437–1439)
+-   Ladislaus V Posthumus, king of Hungary (1444–1457) and Bohemia (1453–1457)
 
 Holy Roman Emperors, Archdukes of Austria
-
-Heraldic_Imperial_Crown_(Common).svg Archducal_Coronet.svg
 
 The title Archduke of Austria, the one most famously associated with the Habsburgs, was invented in the Privilegium Maius, a 14th-century forgery initiated by Duke Rudolf IV of Austria. Originally, it was meant to denote the ruler of the (thus 'Arch')duchy of Austria, in an effort to put that ruler on par with the Prince-electors, as Austria had been passed over in the Golden Bull of 1356, when the electorships had been assigned. Holy Roman Emperor Charles IV refused to recognize the title. Ladislaus the Posthumous, Duke of Austria, who died in 1457, was never in his lifetime authorized to use it, and accordingly, not he nor anyone in his branch of the dynasty ever used the title.
 
@@ -264,27 +239,24 @@ Duke Ernest the Iron and his descendants unilaterally assumed the title "archduk
 
 Frederick's son and heir, the future Emperor Maximilian I, started to use the title, but apparently only after the death of his wife Mary of Burgundy (died 1482) as the title never appears in documents of joint Maximilian and Mary rule in the Low Countries (where Maximilian is still titled Duke of Austria). The title appears first in documents of joint Maximilian and Philip (his under-age son) rule in the Low Countries. It only gained currency with Charles V and the descendants of his brother, the Emperor Ferdinand.
 
--   Maximilian I, emperor 1508–1519 50 px 50 px Armoiries_Maximilien_Ier.svg Coat_of_arms_of_Maximilian_of_Austria_as_emperor.svg
--   Charles V, emperor 1519–1556, his arms are explained in an article about them Arms_of_Charles_II_of_Spain_(1668-1700).svg Arms_of_Charles_I_of_Spain,_Charles_V_as_Holy_Roman_Emperor-Or_shield_variant_(1530-1556).svg
+-   Maximilian I, emperor 1508–1519
+-   Charles V, emperor 1519–1556, his arms are explained in an article about them
 
 Titular Dukes of Burgundy, Lords of the Netherlands
 
-Cross_of_Burgundy-Gules_and_Link.svg
-Coat_of_Arms_of_Philip_IV_of_Burgundy.svg
-
 The reigning duke of Burgundy, Charles the Bold, was the chief political opponent of Maximilian's father Frederick III. Charles controlled not only Burgundy (both dukedom and county), but the wealthy and powerful Southern Netherlands, current Flanders, the real center of his power. Frederick was concerned about Burgundy's expansive tendencies on the western border of his Holy Roman Empire, and to forestall military conflict, he attempted to secure the marriage of Charles's only daughter, Mary of Burgundy, to his son Maximilian. After the Siege of Neuss (1474–75), he was successful. The wedding between Maximilian and Mary took place on the evening of 16 August 1477, after the death of Charles.[30] Mary and the Habsburgs lost the Duchy of Burgundy to France, but managed to defend and hold onto the rest what became the 17 provinces of the Habsburg Netherlands. After Mary's death in 1482, Maximilian acted as regent for his son:
 
--   Philip the Handsome (1482–1506) Coat_of_arms_of_Philipp_of_Austria_1483-1485.svg Arms_of_Philip_IV_of_Burgundy.svg
--   Charles V (1506–1555) Arms_of_Charles_V,_Holy_Roman_Emperor_as_Heir_of_Philip_the_Handsome.svg Arms_of_Philip_IV_of_Burgundy.svg
--   Margaret of Austria, Duchess of Savoy, regent (1507–1515) and (1519–1530) Coat_of_arms_of_Margaret_of_Austria_(princess_of_Spain).svg Coat_of_arms_of_Margaret_of_Austria_(duchess_of_Savoy).svg Coat_of_arms_of_Margaret_of_Austria_(countess_of_Burgundy).svg
--   Mary of Hungary, dowager queen of Hungary, sister of Charles V, governor of the Netherlands, 1531–1555 Coat_of_Arms_of_Mary_of_Austria_as_Queen_of_Hungary.svg Coat_of_Arms_of_Mary_of_Austria_as_Dowager_Queen_of_Hungary.svg
--   Margaret of Parma, illegitimate daughter of Charles V, Duchess of Parma, and mother of Alexander Farnese, Duke of Parma, governor 1559–1567 Coat_of_Arms_of_Margareth_of_Parma_Before_her_Marriage.svg
--   Don John of Austria, illegitimate son of Charles V, victor of Lepanto, governor of the Netherlands, 1576–1578 Coat_of_Arms_of_John_of_Austria_(1545-1578).svg
--   Alexander Farnese, Duke of Parma, son of Margaret of Parma, governor of the Netherlands, 1578–1592 Armoiries_Parme_1586.svg
+-   Philip the Handsome (1482–1506)
+-   Charles V (1506–1555)
+-   Margaret of Austria, Duchess of Savoy, regent (1507–1515) and (1519–1530)
+-   Mary of Hungary, dowager queen of Hungary, sister of Charles V, governor of the Netherlands, 1531–1555
+-   Margaret of Parma, illegitimate daughter of Charles V, Duchess of Parma, and mother of Alexander Farnese, Duke of Parma, governor 1559–1567
+-   Don John of Austria, illegitimate son of Charles V, victor of Lepanto, governor of the Netherlands, 1576–1578
+-   Alexander Farnese, Duke of Parma, son of Margaret of Parma, governor of the Netherlands, 1578–1592
 
 The Netherlands were frequently governed directly by a regent or governor-general, who was a collateral member of the Habsburgs. By the Pragmatic Sanction of 1549 Charles V combined the Netherlands into one administrative unit, to be inherited by his son Philip II. Charles effectively united the Netherlands as one entity. The Habsburgs controlled the 17 Provinces of the Netherlands until the Dutch Revolt in the second half of the 16th century, when they lost the seven northern Protestant provinces. They held onto the southern Catholic part (roughly modern Belgium and Luxembourg) as the Spanish and Austrian Netherlands until they were conquered by French Revolutionary armies in 1795. The one exception to this was the period of (1601–1621), when shortly before Philip II died on 13 September 1598, he renounced his rights to the Netherlands in favor of his daughter Isabella and her fiancé, Archduke Albert of Austria, a younger son of Emperor Maximilian II. The territories reverted to Spain on the death of Albert in 1621, as the couple had no surviving offspring, and Isabella acted as regent-governor until her death in 1633:
 
--   the Archdukes Albert and Isabella, 1601-1621 Coat_of_Arms_of_Archduke_Albert_of_Austria_as_Governor-Monarch_of_the_Low_Countries.svg Coat_of_Arms_of_Infanta_Isabella_of_Spain_as_Governor_Monarch_of_the_Low_Countries.svg
+-   the Archdukes Albert and Isabella, 1601-1621
 
 King of England
 
@@ -292,49 +264,41 @@ King of England
 
 Spanish Habsburgs: Kings of Spain, Kings of Portugal (1581–1640)
 
-Royal_Coat_of_Arms_of_Spain_(1580-1668).svg
-
-Full_Ornamented_Coat_of_Arms_of_Philip_II_of_Spain_(1580-1598).svg
-
 The Habsburg Kingdom(s) of Spain were more a personal union of possessions of the Habsburg king and dynast, who was King of Castile, Leon, Aragon, Valencia, sometime of Portugal, Naples and Sicily, Duke of Milan, and Lord of the Americas, as well as Duke of Brabant, Count of Flanders and Holland, Duke of Luxemburg (i.e. all the Habsburg Netherlands). A listing of a number of the titles can be seen here. The dynast (head of the Spanish Habsburgs, i.e. the King, showed this wide range of claims in his arms. There are many more variants of these arms in the Habsburg Armory, Spanish Section as well as coat of arms of the King of Spain, coat of arms of Spain, coat of arms of the Prince of Asturias, and coats of arms of Spanish Monarchs in Italy. The Spanish Habsburgs also kept up the Burgundian court tradition of the dynast being known by a "nickname" (e.g. the Bold, the Prudent, the Bewitched).[31] In Spain they were known as the ""Casa de Austria", and illegitimate sons were known as "de Austria" (see Don Juan de Austria and Don Juan José de Austria).
 
--   Philip I of Castile the Handsome,[32] second son of Maximilian I, founded the Spanish Habsburgs in 1496 by marrying Joanna the Mad, daughter of Ferdinand and Isabella. Philip died in 1506, leaving the thrones of Castile and Aragon to be inherited and united into the throne of Spain by his son: Coat_of_Arms_of_Philip_I_of_Castile.svg
--   Charles I 1516–1556, _aka Charles V, Holy Roman Emperor; divided the House into Austrian and Spanish lines_ The meanings of his arms are analyzed here. Arms_of_Charles_II_of_Spain_(1668-1700).svg Middle_Arms_of_Charles_I_of_Spain,_Charles_V_as_Holy_Roman_Emperor-Middle_(1530-1556).svg
--   Philip II the Prudent[33] 1556–1598, also Philip I of Portugal 1581–1598 and Philip I of England with his wife Mary I of England 1554–1558. The meanings of his arms are analyzed here. Arms_of_Philip_II_of_Spain_(1558-1580).svg. Royal_Arms_of_Spain_(1580-1668).svg
--   Philip III the Pious,[34] also Philip II of Portugal 1598–1621 Royal_Arms_of_Spain_(1580-1668).svg
--   Philip IV the Great[35] 1621–1665, also Philip III of Portugal 1621–1640 Royal_Arms_of_Spain_(1580-1668).svg
--   Charles II the Bewitched ( "El Hechizado")[36] 1665–1700 Arms_of_Charles_II_of_Spain_(1668-1700).svg
+-   Philip I of Castile the Handsome,[32] second son of Maximilian I, founded the Spanish Habsburgs in 1496 by marrying Joanna the Mad, daughter of Ferdinand and Isabella. Philip died in 1506, leaving the thrones of Castile and Aragon to be inherited and united into the throne of Spain by his son:
+-   Charles I 1516–1556, _aka Charles V, Holy Roman Emperor; divided the House into Austrian and Spanish lines_ The meanings of his arms are analyzed here.
+-   Philip II the Prudent[33] 1556–1598, also Philip I of Portugal 1581–1598 and Philip I of England with his wife Mary I of England 1554–1558. The meanings of his arms are analyzed here. .
+-   Philip III the Pious,[34] also Philip II of Portugal 1598–1621
+-   Philip IV the Great[35] 1621–1665, also Philip III of Portugal 1621–1640
+-   Charles II the Bewitched ( "El Hechizado")[36] 1665–1700
 
 The War of the Spanish Succession took place after the extinction of the Spanish Habsburg line, to determine the inheritance of Charles II.
 
 Austrian Habsburgs: Holy Roman Emperors, Kings of Hungary and Bohemia, Archdukes of Austria
 
-Heraldic_Imperial_Crown_(Common).svg Crown_of_Saint_Stephen.svg Crown_of_St._Wenceslas.svg Archducal_Coronet.svg
-
 The main junior line of the house ruled the Duchy of Austria, as well as the Kingdom of Bohemia and the Kingdom of Hungary. The dynasty however was split up again in 1564 among the children of deceased Emperor Ferdinand I of Habsburg. The Inner Austrian line founded by Archduke Charles II prevailed again, when his son and successor as regent of Inner Austria (i.e. the Duchy of Styria, the Duchy of Carniola with March of Istria, the Duchy of Carinthia, the Princely County of Gorizia and Gradisca, and the Imperial City of Trieste, ruled from Graz) Ferdinand II in 1619 became Archduke of Austria and Holy Roman Emperor as well as King of Bohemia and Hungary in 1620. The Further Austrian/Tyrolean line of Ferdinand's brother Archduke Leopold V survived until the death of his son Sigismund Francis in 1665, whereafter their territories ultimately returned to common control with the other Austrian Habsburg lands. Inner Austrian stadtholders went on to rule until the days of Empress Maria Theresa in the 18th century.
 
--   Charles V, emperor 1519–1556 (Maintained legal authority over his brother Ferdinand I, archduke of Austria and King of Bohemia and Hungary. Divided the House of Habsburg into spanish and Austrian branches in 1556, when Ferdinand became monarch suo jure and Emperor.) Greater_Coat_of_Arms_of_Charles_I_of_Spain,_Charles_V_as_Holy_Roman_Emperor_(1530-1556).svg
--   Ferdinand I, emperor 1556–1564 Armoiries_empereur_Ferdinand_Ier.svg (→Family Tree)
--   Maximilian II, emperor 1564–1576 Armoiries_empereur_Ferdinand_Ier.svg
--   Rudolf II, emperor 1576–1612 Armoiries_empereur_Rodolphe_II.svg
--   Matthias, emperor 1612–1619 Armoiries_empereur_Rodolphe_II.svg
--   Ferdinand II, emperor 1619–1637 Armoiries_empereur_Ferdinand_III.svg
--   Ferdinand III, emperor 1637–1657 Armoiries_empereur_Charles_IV.svg(→Family Tree)
--   Leopold I, emperor 1658–1705 Armoiries_empereur_Rodolphe_II.svg
--   Josef I, emperor 1705–1711 Armoiries_empereur_Ferdinand_Ier.svg
--   Charles VI, emperor 1711–1740 Arms_of_Charles_VI,_Holy_Roman_Emperor-Or_shield_variant.svg
+-   Charles V, emperor 1519–1556 (Maintained legal authority over his brother Ferdinand I, archduke of Austria and King of Bohemia and Hungary. Divided the House of Habsburg into spanish and Austrian branches in 1556, when Ferdinand became monarch suo jure and Emperor.)
+-   Ferdinand I, emperor 1556–1564 (→Family Tree)
+-   Maximilian II, emperor 1564–1576
+-   Rudolf II, emperor 1576–1612
+-   Matthias, emperor 1612–1619
+-   Ferdinand II, emperor 1619–1637
+-   Ferdinand III, emperor 1637–1657 (→Family Tree)
+-   Leopold I, emperor 1658–1705
+-   Josef I, emperor 1705–1711
+-   Charles VI, emperor 1711–1740
 -   Maria Theresa of Austria, Habsburg heiress and wife of emperor Francis I Stephen, reigned as Archduchess of Austria and Queen of Hungary and Bohemia 1740–1780.
 
 The War of the Austrian Succession took place after the extinction of the male line of the Austrian Habsburg line upon the death of Charles VI. The direct Habsburg line itself became totally extinct with the death of Maria Theresa of Austria, when it was followed by the House of Lorraine, styled '' of Habsburg-Lorraine''.
 
 House of Habsburg-Lorraine, main line: Holy Roman Emperors, Kings of Hungary and Bohemia, Archdukes of Austria
 
-Heraldic_Imperial_Crown_(Common).svg Crown_of_Saint_Stephen.svg Crown_of_St._Wenceslas.svg T08_Grossherzog.svg
-
--   Francis I Stephen, emperor 1745–1765 Armoiries_empereur_François_Ier.svg (→Family Tree)
--   Joseph II, emperor 1765–1790 Armoiries_empereur_Joseph_II.svg
--   Leopold II, emperor 1790–1792 Armoiries_empereur_Léopold_II.svg (→Family Tree)
--   Francis II, emperor 1792–1806 Armoiries_empereur_Léopold_II.svg (→Family Tree)
+-   Francis I Stephen, emperor 1745–1765 (→Family Tree)
+-   Joseph II, emperor 1765–1790
+-   Leopold II, emperor 1790–1792 (→Family Tree)
+-   Francis II, emperor 1792–1806 (→Family Tree)
 
 Queen Maria Christina of Austria of Spain, great-granddaughter of Leopold II, Holy Roman Emperor above. Wife of Alfonso XII of Spain and mother of Alfonso XIII of the House of Bourbon. Alfonso XIII's wife Victoria Eugenie of Battenberg was descended from King George I of Great Britain from the Habsburg Leopold Line {above}.
 
@@ -344,22 +308,15 @@ A son of Leopold II was Archduke Rainer of Austria whose wife was from the House
 
 House of Habsburg-Lorraine, main line: Emperors of Austria
 
-Imperial_Crown_of_Austria_(Heraldry).svg
-Wappen_Habsburg-Lothringen_Schild.svg
-
-Coat_of_Arms_of_Emperor_Franz_Joseph_I.svg
-
--   Francis I, Emperor of Austria 1804–1835: formerly _Francis II, Holy Roman Emperor_ Armoiries_Léopold_II_Habsbourg_Lorraine.svg Wappen_Habsburg-Lothringen_Schild.svg
+-   Francis I, Emperor of Austria 1804–1835: formerly _Francis II, Holy Roman Emperor_
 
 (→Family Tree)
 
--   Ferdinand I, Emperor of Austria 1835–1848 Habsburg_Personal_Arms_Ferdinand_I.PNG
--   Francis Joseph, Emperor of Austria 1848–1916. Habsburg_Personal_Arms_Franz_Joseph_and_Charles.PNG
--   Charles I, Emperor of Austria 1916–1918. He died in exile in 1922. His wife was of the House of Bourbon-Parma. Habsburg_Personal_Arms_Franz_Joseph_and_Charles.PNG
+-   Ferdinand I, Emperor of Austria 1835–1848
+-   Francis Joseph, Emperor of Austria 1848–1916.
+-   Charles I, Emperor of Austria 1916–1918. He died in exile in 1922. His wife was of the House of Bourbon-Parma.
 
 House of Habsburg-Lorraine: Grand dukes of Tuscany
-
-Coat_of_arms_of_the_House_of_Habsurg-Lorraine_(Tuscany_line).svg
 
 -   Francis Stephen 1737–1765 _(later Francis I, Holy Roman Emperor)_
 
@@ -367,12 +324,10 @@ Francis Stephen assigned the grand duchy of Tuscany to his second son Peter Leop
 
 -   Peter Leopold 1765–1790 _(later Leopold II, Holy Roman Emperor)_
 -   Ferdinand III 1790–1800, 1814–1824 (→Family Tree)
--   Leopold II 1824–1849, 1849–1859 Armoiries_Léopold_II_Habsbourg_Lorraine.svg
+-   Leopold II 1824–1849, 1849–1859
 -   Ferdinand IV 1859–1860
 
 House of Habsburg-Lorraine: Tuscany line, post monarchy
-
-Coat_of_arms_of_the_House_of_Habsurg-Lorraine_(Tuscany_line).svg
 
 -   Ferdinand IV 1860–1908
 -   Archduke Joseph Ferdinand, Prince of Tuscany 1908–1942
@@ -390,12 +345,10 @@ The duchy of Modena was assigned to a minor branch of the family by the Congress
 
 House of Habsburg-Lorraine: Modena line, post monarchy
 
-Coat_of_Arms_of_the_House_of_Habsburg_Este.svg
-
--   Francis V (1859–1875) Armoiries_Autriche-Este_1846.svg
--   Franz Ferdinand, Archduke of Austria-Este & Crown Prince of Austria-Hungary (1875–1914)Armoiries_Autriche-Este_1875.svg
+-   Francis V (1859–1875)
+-   Franz Ferdinand, Archduke of Austria-Este & Crown Prince of Austria-Hungary (1875–1914)
 -   Karl, Archduke of Austria-Este (1914–1917)
--   Robert, Archduke of Austria-Este (1917–1996) Armoiries_Autriche-Este_1914.svg
+-   Robert, Archduke of Austria-Este (1917–1996)
 -   Lorenz, Archduke of Austria-Este (1996–Present)
 
 House of Habsburg-Lorraine: Archduchess of Austria, Empress consort of Brazil and Queen consort of Portugal
@@ -414,14 +367,14 @@ The duchy of Parma was likewise assigned to a Habsburg, but did not stay in the 
 
 House of Habsburg-Lorraine: Emperor of Mexico
 
-Coat_of_arms_of_Mexico_(1864-1867).svg Maximilian, the adventurous second son of Archduke Franz Karl, was invited as part of Napoleon III's manipulations to take the throne of Mexico, becoming Emperor Maximilian I of Mexico. The conservative Mexican nobility, as well as the clergy, supported this Second Mexican Empire. His consort, Charlotte of Belgium, a daughter of King Leopold I of Belgium and a princess of the House of Saxe-Coburg Gotha, encouraged her husband's acceptance of the Mexican crown and accompanied him as Empress Carlota of Mexico. The adventure did not end well. Maximilian was shot in Cerro de las Campanas, Querétaro, in 1867 by the republican forces of Benito Juárez.
+Maximilian, the adventurous second son of Archduke Franz Karl, was invited as part of Napoleon III's manipulations to take the throne of Mexico, becoming Emperor Maximilian I of Mexico. The conservative Mexican nobility, as well as the clergy, supported this Second Mexican Empire. His consort, Charlotte of Belgium, a daughter of King Leopold I of Belgium and a princess of the House of Saxe-Coburg Gotha, encouraged her husband's acceptance of the Mexican crown and accompanied him as Empress Carlota of Mexico. The adventure did not end well. Maximilian was shot in Cerro de las Campanas, Querétaro, in 1867 by the republican forces of Benito Juárez.
 
 -   Maximilian I (1864–1867) (→Family Tree)
 
 
 House of Habsburg-Lorraine, main line: Heads of the House of Habsburg (post-monarchy)
 
-Charles I was expelled from his domains after World War I and the empire was abolished.[37] Habsburg_Lothringen.png]]
+Charles I was expelled from his domains after World War I and the empire was abolished.[37] ]]
 
 -   Charles I (1918–1922) (→Family Tree)
 -   Otto von Habsburg (1922–2007)[38]
@@ -436,7 +389,7 @@ Burials
 
 Kings of Hungary
 
-The kingship of Hungary remained in the Habsburg family for centuries; but as the kingship was not strictly inherited (Hungary was an elective monarchy until 1687) and was sometimes used as a training ground for young Habsburgs, as "Palatine" of Hungary, the dates of rule do not always match those of the primary Habsburg possessions. Therefore, the kings of Hungary are listed separately. Crown_of_Saint_Stephen.svg Arms_of_Hungary.svg
+The kingship of Hungary remained in the Habsburg family for centuries; but as the kingship was not strictly inherited (Hungary was an elective monarchy until 1687) and was sometimes used as a training ground for young Habsburgs, as "Palatine" of Hungary, the dates of rule do not always match those of the primary Habsburg possessions. Therefore, the kings of Hungary are listed separately.
 
 Albertine line: Kings of Hungary
 
@@ -459,8 +412,6 @@ Austrian Habsburgs: Kings of Hungary
 
 House of Habsburg-Lorraine, main line: Kings of Hungary
 
-Crown_of_Saint_Stephen.svg Coa_Hungary_Country_History_Mid_(1915).svg
-
 -   Joseph II, king of Hungary 1780–1790
 -   Leopold II, king of Hungary 1790–1792
 -   Francis, king of Hungary 1792–1835
@@ -471,7 +422,7 @@ Crown_of_Saint_Stephen.svg Coa_Hungary_Country_History_Mid_(1915).svg
 
 Kings of Bohemia
 
-Crown_of_St._Wenceslas.svg Blason_Boheme.svg After Václav III’s death, there were no male heirs remaining in the Přemyslid line. Therefore, with the election of Rudolf in 1306, the kingship of Bohemia was a position elected by its nobles, although often the crown was transferred through war, such as John of Bohemia in 1310.[39] As a result, it was not an automatically inherited position. Until the rule of Ferdinand I, Habsburgs didn't gain hereditary accession to the throne and were displaced by other dynasties. Hence, the kings of Bohemia and their ruling dates are listed separately. The Habsburgs became hereditary kings of Bohemia in 1627. By their acquisition of the Bohemian Crown in 1526 the Habsburgs secured the highest rank among the secular prince-electors of the Holy Roman Empire.
+After Václav III’s death, there were no male heirs remaining in the Přemyslid line. Therefore, with the election of Rudolf in 1306, the kingship of Bohemia was a position elected by its nobles, although often the crown was transferred through war, such as John of Bohemia in 1310.[39] As a result, it was not an automatically inherited position. Until the rule of Ferdinand I, Habsburgs didn't gain hereditary accession to the throne and were displaced by other dynasties. Hence, the kings of Bohemia and their ruling dates are listed separately. The Habsburgs became hereditary kings of Bohemia in 1627. By their acquisition of the Bohemian Crown in 1526 the Habsburgs secured the highest rank among the secular prince-electors of the Holy Roman Empire.
 
 Main line
 
@@ -515,7 +466,7 @@ Most royal families did not have a family name until the 19th century. They were
 Similarly, the Habsburg name was used as one of the subsidiary titles of the rulers above, as in "Princely Count of Habsburg" (see above under Habsburg-Lorraine). The Habsburg arms (see above) were displayed only in the most complete (great arms) of the prince. The dynasty was known as the "house of Austria". Most of the princes above were known as Archduke xyz "of Austria" and had no need of a surname. Charles V was known in his youth after his birthplace as "Charles of Ghent". When he became king of the Spains he was known as "Charles of Spain", until he became emperor, when he was known as Charles V ("Charles Quint"). In Spain, the dynasty was known as the "casa de Austria", and illegitimate sons were given the title of "de Austria" (see Don Juan de Austria and Don Juan José de Austria). The arms displayed in their simplest form were those of Austria, which the Habsburgs had made their own, at times impaled with the arms of the Duchy of Burgundy (ancient).
 
 +----------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Arms_of_Maximilian_I_of_Habsburg.svg                                                                                       | Habsburg_Lorraine.png                                                                  | Habsburg_Lorraine_Tuscany.png                                                                                                                                                            | Habsburg_Lorraine_Trishield.png                                                                                                                                       |
+|                                                                                                                            |                                                                                        |                                                                                                                                                                                          |                                                                                                                                                                       |
 +============================================================================================================================+========================================================================================+==========================================================================================================================================================================================+=======================================================================================================================================================================+
 | Arms of Austria impaled with Burgundy (ancient). The most personal arms of Austrian princes from 1477 until 1740 (see here | Personal Arms of Joseph II and Marie Antoinette showing Austria impaled with Lorraine. | Tripartite personal arms of Leopold II and Francis II/I showing Austria, Lorraine and Tuscany, and used by the House of Austria-Tuscany (see Archduke Sigismund, Grand Duke of Tuscany). | Tripartite personal arms of the "Habsburg" ruling house after 1805 showing the return to prominence of the Habsburg arms. Used today by most archdukes/archduchesses. |
 +----------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -529,24 +480,22 @@ Arms of Dominion of the Austro-Hungarian Empire
 
 The arms of dominion began to take on a life of their own in the 19th century as the idea of the state as independent from the Habsburg dynasty took root. They are the national arms as borne by a sovereign in his capacity as head of state and represent the state as separate from the person of the monarch or his dynasty. That very idea had been, heretofore, foreign to the concept of the Habsburg state. The state had been the personal property of the Habsburg dynast. Since the states, territories, and nationalities represented were in many cases only united to the Austro-Hungarian Empire by their historic loyalty to the head of the house of Habsburg as hereditary lord, these full ("grand") arms of dominion of Austria-Hungary reflect the complex political infrastructure that was necessarily to accommodate the many different nationalities and groupings within the empire after the Austro-Hungarian Compromise of 1867.
 
-Imperial_Coat_of_Arms_of_the_Empire_of_Austria.svg Coat_of_arms_of_Austria-Hungary_with_numbers_1867-1915.png
-
 After 1867 the eastern part of the empire, also called Transleithania, was mostly under the domination of the Kingdom of Hungary. The shield integrated the arms of the kingdom of Hungary, with two angels and supporters and the crown of St. Stephen, along with the territories that were subject to it:
 
 The Kingdom of Dalmatia, the Kingdom of Croatia, the Kingdom of Slavonia (conjoined with Croatia as the Kingdom of Croatia-Slavonia - formally known as the Triune Kingdom of Croatia, Slavonia, and Dalmatia, although the claim to Dalmatia was mostly de jure), the Great Principality of Transylvania, the Condominium of Bosnia and Herzegovina (1915–1918), the City of Fiume and its district (modern Rijeka), and in the center, the Kingdom of Hungary.
 
 The western or Austrian part of the empire, _Cisleithania_, continued using the shield of the Empire in 1815 but with the seals of various member territories located around the central shield. Paradoxically, some of these coats of arms belonged to the territories that were part of the Hungarian part of the empire and shield. This shield, the most frequently used until 1915, was known as the middle shield. There was also the small shield, with just the personal arms of the Habsburgs, as used in 1815.
 
-  |I                                               |II                                                       |III                                                         |IV                                |V
-  ------------------------------------------------ --------------------------------------------------------- ------------------------------------------------------------ ---------------------------------- ---------------------------------
-  Coa_Hungary_Country_History_(19th_Century).svg   Wappen_Königreich_Galizien_&_Lodomerien.png               Wappen_Erzherzogtum_Österreich_unter_der_Enns.png            Wappen_Herzogtum_Salzburg.png      Wappen_Herzogtum_Steiermark.png
-  |Kingdom of Hungary                              |Kingdom of Galicia and Lodomeria                         |Archduchy of Austria                                        |Duchy of Salzburg                 |Duchy of Styria
-  |VI                                              VII                                                       VIII
-  Wappen_Gefürstete_Grafschaft_Tirol.png           Wappen_Herzogtum_Kärnten.png                              Wappen_Herzogtum_Krain.png                                   Wappen_Markgrafschaft_Mähren.png   Wappen_Herzogtum_Schlesien.png
-  |Duchy of Tirol                                  Duchy of Carinthia and Duchy of Carniola (_Marshalled_)   Margraviate of Moravia and Duchy of Silesia (_Marshalled_)
-  |IX                                              |X                                                        |XI
-  Wappen_Großfürstentum_Siebenbürgen.png           CoA_of_Kingdom_of_Illyria.svg                             Wappen_Königreich_Böhmen.png
-  |Great Principality of Transylvania              |Kingdom of Illyria                                       |Kingdom of Bohemia
+  |I                                    |II                                                       |III                                                         |IV                  |V
+  ------------------------------------- --------------------------------------------------------- ------------------------------------------------------------ -------------------- ------------------
+
+  |Kingdom of Hungary                   |Kingdom of Galicia and Lodomeria                         |Archduchy of Austria                                        |Duchy of Salzburg   |Duchy of Styria
+  |VI                                   VII                                                       VIII
+
+  |Duchy of Tirol                       Duchy of Carinthia and Duchy of Carniola (_Marshalled_)   Margraviate of Moravia and Duchy of Silesia (_Marshalled_)
+  |IX                                   |X                                                        |XI
+
+  |Great Principality of Transylvania   |Kingdom of Illyria                                       |Kingdom of Bohemia
 
 Version of 1915
 
@@ -554,42 +503,38 @@ In 1915, in the middle of World War I, Austria-Hungary adopted a heraldic compos
 
 Before 1915, the arms of the different territories of the Austrian part of the Empire (heraldry was added to some areas not shown in the previous version and to the left to the Hungarian part) appeared together in the shield positioned on the double-headed eagle coat of arms of the Austrian Empire as an inescutcheon. The eagle was inside a shield with a gold field. The latter shield was supported by two griffins and was topped by the Austrian Imperial Crown (previously these items were included only in the large shield). Then, shown in the center of both arms of dominion, as an inescutcheon to the inescutcheon, is the small shield, i.e. personal arms, of the Habsburgs. All this was surrounded by the collar Order of the Golden Fleece[41][42]
 
-Middle_Coats_of_arms_of_Austrian_Countries_(1915).png
-
 In the heraldic composition of 1915, the shields of the two foci of the empire, Austria and Hungary, were brought together. The griffin supporter on the left was added for Austria and an angel on the right as a supporter for Hungary. The center featured the personal arms of the Habsburgs (Habsburg, Austria and Lorraine). This small shield was topped with a royal crown and surrounded by the collar of the Order of the Golden Fleece, below which was the Military Order of Maria Theresa, below which was the collars of the Orders of St. Stephen's and Leopold. At the bottom was the motto that read "AC INDIVISIBILITER INSEPARABILITER" ("indivisible and inseparable"). There were other simplified versions which did not have the supports depicted, and the simple shields of Austria and Hungary. These were the arms of the Empire of Austria with an inescutcheon of Austria, and the Arms of Hungary (with chequer of Croatia at the tip).
 
-Austria-Hungaria_transparency.png
++----------------+
+| AUSTRIAN LANDS |
++----------------+
+| Shield         |
++----------------+
+|                |
++----------------+
 
-+----------------------------------------------------------------------------+
-| AUSTRIAN LANDS                                                             |
-+----------------------------------------------------------------------------+
-| Shield                                                                     |
-+----------------------------------------------------------------------------+
-| Austrian_shield.jpgWappen_Österreichische_Länder_1915_(Mittel)_Numbers.png |
-+----------------------------------------------------------------------------+
++-----------------------------------------+
+| TERRITORIES OF THE CROWN OF ST. STEPHEN |
++-----------------------------------------+
+| Shield                                  |
++-----------------------------------------+
+|                                         |
++-----------------------------------------+
 
-+----------------------------------------------------------------------------------------------+
-| TERRITORIES OF THE CROWN OF ST. STEPHEN                                                      |
-+----------------------------------------------------------------------------------------------+
-| Shield                                                                                       |
-+----------------------------------------------------------------------------------------------+
-| Coa_Hungary_Country_History_Mid_(1915).svgWappen_Ungarische_Länder_1915_(Mittel)_Numbers.png |
-+----------------------------------------------------------------------------------------------+
-
-+---------------------------------+
-| PERSONAL SHIELD OF THE DYNASTY  |
-+---------------------------------+
-| Shield                          |
-+---------------------------------+
-| Habsburg_Lorraine_Trishield.png |
-+---------------------------------+
++--------------------------------+
+| PERSONAL SHIELD OF THE DYNASTY |
++--------------------------------+
+| Shield                         |
++--------------------------------+
+|                                |
++--------------------------------+
 
 Gallery
 
   -------------------------------------------------------------- -------------------------------------------------------------- ----------------------------------------------------------------------------
-  Wappen_Ungarische_Länder_1867_(Mittel).png                     Coa_Hungary_Country_History_med_(1915).svg                     Imperial_Coat_of_Arms_of_the_Empire_of_Austria_(1815).svg
+
   |Arms of the Lands of the Crown of Saint Stephen (1867–1915)   |Arms of the Lands of the Crown of Saint Stephen (1915–1918)   |Small Arms of Austria (Cisleithania) (1805–1918)
-  Imperial_Coat_of_Arms_of_Austria.svg                           Coat_of_Arms_of_Emperor_Franz_Joseph_I.svg                     Wappen_Österreich-Ungarn_1916_(Klein).png
+
   |Simple Arms of Cisleithania (1915–1918)                       |Personal Arms of the Emperor Franz Josef (1848–1916)          |Simple Arms of the Austrian and Hungarian parts of the empire (1915–1918)
   -------------------------------------------------------------- -------------------------------------------------------------- ----------------------------------------------------------------------------
 

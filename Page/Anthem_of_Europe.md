@@ -3,7 +3,7 @@
 
 History
 
-Beethoven.jpg]]
+]]
 
 Friedrich Schiller wrote the poem "An die Freude" ("To Joy") in 1785 as a "celebration of the brotherhood of man".[3] In later life, the poet was contemptuous of this popularity and dismissed the poem as typical of "the bad taste of the age" in which it had been written.[4] After Schiller's death, the poem provided the words for the choral movement of Ludwig van Beethoven's 9th Symphony.
 

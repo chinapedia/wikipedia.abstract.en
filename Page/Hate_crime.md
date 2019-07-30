@@ -13,7 +13,7 @@ The term "hate crime" came into common usage in the United States during the 198
 
 As Europeans began to colonize the world from the 16th century onwards, indigenous peoples in the colonized areas, such as Native Americans increasingly became the targets of bias-motivated intimidation and violence. During the past two centuries, typical examples of hate crimes in the U.S. include lynchings of African Americans, largely in the South, and lynchings of Mexicans and Chinese in the West; cross burnings to intimidate black activists or to drive black families from predominantly white neighborhoods both during and after Reconstruction; assaults on white people traveling in predominantly black neighborhoods; assaults on lesbian, gay, bisexual and transgender people; the painting of swastikas on Jewish synagogues; and xenophobic responses to a variety of minority ethnic groups.[13]
 
-Duluth-lynching-postcard.jpg of African-American men on June 15, 1920]]
+of African-American men on June 15, 1920]]
 
 The verb "_to lynch_" is attributed to the actions of Charles Lynch, an 18th-century Virginia Quaker. Lynch, other militia officers, and justices of the peace rounded up Tory sympathizers who were given a summary trial at an informal court; sentences handed down included whipping, property seizure, coerced pledges of allegiance, and conscription into the military. Originally, the term referred to extrajudicial organized but unauthorized punishment of criminals. It later evolved to describe execution outside "ordinary justice." It is highly associated with white suppression of African Americans in the South, and periods of weak or nonexistent police authority, as in certain frontier areas of the Old West.[14]
 
@@ -250,7 +250,7 @@ Under Scottish Common law the courts can take any aggravating factor into accoun
 
 Eurasian countries with no hate crime laws
 
-Ljeviska007b.jpg during the 2004 unrest in Kosovo]]
+during the 2004 unrest in Kosovo]]
 
 Albania, Cyprus, San Marino, Slovenia and Turkey have no hate crime laws.[88]
 
@@ -278,7 +278,7 @@ The first time someone was charged with hate speech over the internet occurred o
 
 United States
 
-Matthew_Shepard_and_James_Byrd,_Jr._Hate_Crimes_Prevention_Act.jpg in 2009 to promote the Hate Crimes Prevention Act]]
+in 2009 to promote the Hate Crimes Prevention Act]]
 
 Hate crime laws have a long history in the United States. The first hate crime[96] laws were passed after the American Civil War, beginning with the Civil Rights Act of 1871, to combat the growing number of racially motivated crimes being committed by the Reconstruction era Ku Klux Klan. The modern era of hate-crime legislation began in 1968 with the passage of federal statute, 18 U.S. 245, part of the Civil Rights Act which made it illegal to "by force or by threat of force, injure, intimidate, or interfere with anyone who is engaged in six specified protected activities, by reason of their race, color, religion, or national origin." However, "The prosecution of such crimes must be certified by the U.S. attorney general.".[97]
 

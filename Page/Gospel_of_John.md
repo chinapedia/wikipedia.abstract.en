@@ -5,7 +5,7 @@ The discourses contained in this gospel seem to be concerned with issues of the 
 
 Composition and setting
 
-John_the_Evangelist_(Rabbula_Gospels).jpg rendition of St. John the Evangelist, from the Rabbula Gospels.]]
+rendition of St. John the Evangelist, from the Rabbula Gospels.]]
 
 Johannine literature
 
@@ -30,7 +30,7 @@ The gospel makes extensive use of the Jewish scriptures. John quotes from them d
 
 Structure and content
 
-Christ_Taking_Leave_of_the_Apostles.jpg to his 11 remaining disciples, from the Maestà of Duccio, 1308–1311.]]
+to his 11 remaining disciples, from the Maestà of Duccio, 1308–1311.]]
 
 The majority of scholars see four sections in this gospel: a prologue (1:1–18); an account of the ministry, often called the "Book of Signs" (1:19–12:50); the account of Jesus' final night with his disciples and the passion and resurrection, sometimes called the "book of glory" (13:1–20:31); and an epilogue which did not form part of the original text (Chapter 21).
 
@@ -44,7 +44,7 @@ The structure is highly schematic: there are seven "signs" culminating in the ra
 
 Theology
 
-P52_recto.jpg the oldest known New Testament fragment, dated from its handwriting to about 125.]]
+the oldest known New Testament fragment, dated from its handwriting to about 125.]]
 
 Christology
 
@@ -124,7 +124,7 @@ The teachings of Jesus found in the synoptic gospels are very different from tho
 
 Representations
 
-The_last_chapter_by_J._Doyle_Penrose_(1902).jpg translating the Gospel of John on his deathbed'', by James Doyle Penrose, 1902.|alt=Bede translating the Gospel of John on his deathbed, by James Doyle Penrose, 1902. Depicts the Venerable Bede as an elderly man with a long, white beard, sitting in a darkened room and dictating his translation of the Bible, as a younger scribe, sitting across from him, writes down his words. Two monks, standing together in the corner of the room, look on.]]
+translating the Gospel of John on his deathbed'', by James Doyle Penrose, 1902.|alt=Bede translating the Gospel of John on his deathbed, by James Doyle Penrose, 1902. Depicts the Venerable Bede as an elderly man with a long, white beard, sitting in a darkened room and dictating his translation of the Bible, as a younger scribe, sitting across from him, writes down his words. Two monks, standing together in the corner of the room, look on.]]
 
 The gospel has been depicted in live narrations and dramatized in productions, skits, plays, and Passion Plays, as well as in film. The most recent such portrayal is the 2014 film _The Gospel of John_, directed by David Batty and narrated by David Harewood and Brian Cox, with Selva Rasalingam as Jesus. The 2003 film _The Gospel of John_, was directed by Philip Saville, narrated by Christopher Plummer, with Henry Ian Cusick as Jesus.
 

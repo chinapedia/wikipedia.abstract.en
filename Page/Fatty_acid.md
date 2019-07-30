@@ -1,4 +1,4 @@
-rasyslami.jpg fatty acids have perfectly straight chain structure. Unsaturated ones are typically bent, unless they have a trans configuration.]] In chemistry, particularly in biochemistry, a FATTY ACID is a carboxylic acid with a long aliphatic chain, which is either saturated or unsaturated. Most naturally occurring fatty acids have an unbranched chain of an even number of carbon atoms, from 4 to 28.[1] Fatty acids are usually not found in organisms, but instead as three main classes of esters: triglycerides, phospholipids, and cholesterol esters. In any of these forms, fatty acids are both important dietary sources of fuel for animals and they are important structural components for cells.
+fatty acids have perfectly straight chain structure. Unsaturated ones are typically bent, unless they have a trans configuration.]] In chemistry, particularly in biochemistry, a FATTY ACID is a carboxylic acid with a long aliphatic chain, which is either saturated or unsaturated. Most naturally occurring fatty acids have an unbranched chain of an even number of carbon atoms, from 4 to 28.[1] Fatty acids are usually not found in organisms, but instead as three main classes of esters: triglycerides, phospholipids, and cholesterol esters. In any of these forms, fatty acids are both important dietary sources of fuel for animals and they are important structural components for cells.
 
 
 History
@@ -8,7 +8,7 @@ The concept of fatty acid (_acide gras_) was introduced by Michel Eugène Chevre
 
 Types of fatty acids
 
-Isomers_of_oleic_acid.png Elaidic acid (top) and the _cis_ isomer oleic acid (bottom).]]
+Elaidic acid (top) and the _cis_ isomer oleic acid (bottom).]]
 
 Length of fatty acids
 
@@ -22,8 +22,6 @@ Fatty acids differ by length, often categorized as short to very long.
 Saturated fatty acids
 
 Saturated fatty acids have no C=C double bonds. They have the same formula CH₃(CH₂)_(n)COOH, with variations in "n". An important saturated fatty acid is stearic acid (n = 16), which when neutralized with lye is the most common form of soap.
-
-Arachidic_formula_representation.svg
 
   Common name       Chemical structure   _C_:_D_[9]
   ----------------- -------------------- ------------
@@ -74,7 +72,7 @@ Nomenclature
 
 Numbering of the carbon atoms in a fatty acid
 
-Fatty_acid_numbering.png The position of the carbon atoms in a fatty acid can be indicated from the −COOH (or carboxy) end, or from the −CH₃ (or methyl) end. If indicated from the −COOH end, then the C-1, C-2, C-3, ….(etc.) notation is used (blue numerals in the diagram on the right, where C-1 is the −COOH carbon). If the position is counted from the other, −CH₃, end then the position is indicated by the ω-_n_ notation (numerals in red, where ω-1 refers to the methyl carbon).
+The position of the carbon atoms in a fatty acid can be indicated from the −COOH (or carboxy) end, or from the −CH₃ (or methyl) end. If indicated from the −COOH end, then the C-1, C-2, C-3, ….(etc.) notation is used (blue numerals in the diagram on the right, where C-1 is the −COOH carbon). If the position is counted from the other, −CH₃, end then the position is indicated by the ω-_n_ notation (numerals in red, where ω-1 refers to the methyl carbon).
 
 The positions of the double bonds in a fatty acid chain can, therefore, be indicated in two ways, using the C-_n_ or the ω-_n_ notation. Thus, in an 18 carbon fatty acid, a double bond between C-12 (or ω-7) and C-13 (or ω-6) is reported either as Δ¹² if counted from the −COOH end (indicating only the “beginning” of the double bond), or as ω-6 (or omega-6) if counting from the −CH₃ end. The “Δ” is the Greek letter delta, which translates into “D” ( for Double bond) in the Roman alphabet. Omega (ω) is the last letter in the Greek alphabet, and is therefore used to indicate the “last” carbon atom in the fatty acid chain. Since the ω-_n_ notation is used almost exclusively to indicate the positions of the double bonds close to the −CH₃ end in essential fatty acids, there is no necessity for an equivalent “Δ”-like notation - the use of the “ω-_n_” notation always refers to the position of a double bond.
 

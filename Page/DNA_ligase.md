@@ -5,14 +5,14 @@ DNA ligase is used in both DNA repair and DNA replication (see _Mammalian ligase
 
 Enzymatic mechanism
 
-Ligase.svg The mechanism of DNA ligase is to form two covalent phosphodiester bonds between 3' hydroxyl ends of one nucleotide ("acceptor"), with the 5' phosphate end of another ("donor"). Two ATP molecules are consumed for each phosphodiester bond formed. AMP is required for the ligase reaction, which proceeds in four steps:
+The mechanism of DNA ligase is to form two covalent phosphodiester bonds between 3' hydroxyl ends of one nucleotide ("acceptor"), with the 5' phosphate end of another ("donor"). Two ATP molecules are consumed for each phosphodiester bond formed. AMP is required for the ligase reaction, which proceeds in four steps:
 
 1.  Reorganization of activity site such as nicks in DNA segments or Okazaki fragments etc.
 2.  Adenylation (addition of AMP) of a lysine residue in the active center of the enzyme, pyrophosphate is released;
 3.  Transfer of the AMP to the 5' phosphate of the so-called donor, formation of a pyrophosphate bond;
 4.  Formation of a phosphodiester bond between the 5' phosphate of the donor and the 3' hydroxyl of the acceptor.[2]
 
-Ligation.svgs)]]
+s)]]
 
 Ligase will also work with blunt ends, although higher enzyme concentrations and different reaction conditions are required.
 

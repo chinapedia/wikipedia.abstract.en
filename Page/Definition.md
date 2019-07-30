@@ -1,7 +1,5 @@
 Wiktionary|other uses of the word "definition" itself}}
 
-Blacks-Law-Dictionary.jpg
-
 A DEFINITION is a statement of the meaning of a term (a word, phrase, or other set of symbols).[1] Definitions can be classified into two large categories, intensional definitions (which try to give the sense of a term) and extensional definitions (which proceed by listing the objects that a term describes).[2] Another important category of definitions is the class of ostensive definitions, which convey the meaning of a term by pointing out examples. A term may have many different senses and multiple meanings, and thus require multiple definitions.[3]
 
 In mathematics, a definition is used to give a precise meaning to a new term, instead of describing a pre-existing term. Definitions and axioms are the basis on which all of modern mathematics is constructed.Richard J. Rossi

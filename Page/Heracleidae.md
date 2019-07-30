@@ -1,4 +1,4 @@
-Herakles_and_Telephos_Louvre_MR219.jpg, one of the Heracleidae]]
+, one of the Heracleidae]]
 
 In Greek mythology, the HERACLEIDAE (; ) or HERACLIDS were the numerous descendants of Heracles (Hercules), especially applied in a narrower sense to the descendants of Hyllus, the eldest of his four sons by Deianira (Hyllus was also sometimes thought of as Heracles' son by Melite). Other Heracleidae included Macaria, Lamos, Manto, Bianor, Tlepolemus, and Telephus. These Heraclids were a group of Dorian kings who conquered the Peloponnesian kingdoms of Mycenae, Sparta and Argos; according to the literary tradition in Greek mythology, they claimed a right to rule through their ancestor. Since Karl Otfried Müller's _Die Dorier_ (1830, English translation 1839), I. ch. 3, their rise to dominance has been associated with a "Dorian invasion".
 

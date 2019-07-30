@@ -93,7 +93,7 @@ Compact layouts
 
 Often the coefficients are chosen so that the elements occupy a contiguous area of memory. However, that is not necessary. Even if arrays are always created with contiguous elements, some array slicing operations may create non-contiguous sub-arrays from them.
 
-Row_and_column_major_order.svg There are two systematic compact layouts for a two-dimensional array. For example, consider the matrix
+There are two systematic compact layouts for a two-dimensional array. For example, consider the matrix
 
 $$\mathbf{A} =
 \begin{bmatrix}
@@ -148,7 +148,7 @@ Balanced trees require O(log _n_) time for indexed access, but also permit inser
 
 Linked lists allow constant time removal and insertion in the middle but take linear time for indexed access. Their memory use is typically worse than arrays, but is still linear.
 
-Array_of_array_storage.svg An Iliffe vector is an alternative to a multidimensional array structure. It uses a one-dimensional array of references to arrays of one dimension less. For two dimensions, in particular, this alternative structure would be a vector of pointers to vectors, one for each row(pointer on c or c++) . Thus an element in row _i_ and column _j_ of an array _A_ would be accessed by double indexing (_A_[_i_][_j_] in typical notation). This alternative structure allows jagged arrays, where each row may have a different size — or, in general, where the valid range of each index depends on the values of all preceding indices. It also saves one multiplication (by the column address increment) replacing it by a bit shift (to index the vector of row pointers) and one extra memory access (fetching the row address), which may be worthwhile in some architectures.
+An Iliffe vector is an alternative to a multidimensional array structure. It uses a one-dimensional array of references to arrays of one dimension less. For two dimensions, in particular, this alternative structure would be a vector of pointers to vectors, one for each row(pointer on c or c++) . Thus an element in row _i_ and column _j_ of an array _A_ would be accessed by double indexing (_A_[_i_][_j_] in typical notation). This alternative structure allows jagged arrays, where each row may have a different size — or, in general, where the valid range of each index depends on the values of all preceding indices. It also saves one multiplication (by the column address increment) replacing it by a bit shift (to index the vector of row pointers) and one extra memory access (fetching the row address), which may be worthwhile in some architectures.
 
 
 Dimension

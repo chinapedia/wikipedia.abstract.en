@@ -1,4 +1,4 @@
-Desmodium_gangeticum_2_W_IMG_2769.jpg'' ]]
+'' ]]
 
 The FABALES are an order of flowering plants included in the rosid group of the eudicots in the Angiosperm Phylogeny Group II classification system. In the APG II circumscription, this order includes the families Fabaceae or legumes (including the subfamilies Caesalpinioideae, Mimosoideae, and Faboideae), Quillajaceae, Polygalaceae or milkworts (including the families Diclidantheraceae, Moutabeaceae, and Xanthophyllaceae), and Surianaceae. Under the Cronquist system and some other plant classification systems, the order Fabales contains only the family Fabaceae. In the classification system of Dahlgren the Fabales were in the superorder Fabiflorae (also called Fabanae) with three familiese corresponding to the subfamilies of Fabaceae in APG II. The other families treated in the Fabales by the APG II classification were placed in separate orders by Cronquist, the Polygalaceae within its own order, the Polygalales, and the Quillajaceae and Surianaceae within the Rosales.
 

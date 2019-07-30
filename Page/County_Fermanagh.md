@@ -5,7 +5,7 @@ Fermanagh is one of four counties of Northern Ireland to have a majority of its 
 
 Geography
 
-Cuilcagh_Stairway.jpg range, on the Cavan/Fermanagh border.]] Lower_Lough_Erne_-_panoramio.jpg]] Fermanagh is by far the least populous of Northern's Ireland's six counties, with just over one-third of the population of Northern Ireland's second least populous county, Armagh. It is the second smallest county in Northern Ireland by area and is ranked 25th in Ireland by size. Fermanagh borders County Tyrone to the north-east, County Monaghan to the south-east, County Cavan to the south-west, County Leitrim to the west and County Donegal to the north-west. The county town, Enniskillen, is the largest settlement in Fermanagh, situated in the middle of the county.
+range, on the Cavan/Fermanagh border.]] ]] Fermanagh is by far the least populous of Northern's Ireland's six counties, with just over one-third of the population of Northern Ireland's second least populous county, Armagh. It is the second smallest county in Northern Ireland by area and is ranked 25th in Ireland by size. Fermanagh borders County Tyrone to the north-east, County Monaghan to the south-east, County Cavan to the south-west, County Leitrim to the west and County Donegal to the north-west. The county town, Enniskillen, is the largest settlement in Fermanagh, situated in the middle of the county.
 
 It is mainly rural, with a population density of 36.1 people per km2, and is situated largely in the basin of the River Erne. It is dominated by two connected lakes: Upper and Lower Lough Erne, and, including water, spans an area of 1,851 km² (715 sq; mi).[3] It is approximately from Belfast and from Dublin.
 
@@ -114,8 +114,6 @@ Small villages or hamlets
 Subdivisions
 
 BARONIES
-
-Baronies_of_Fermanagh.png
 
 -   Clanawley
 -   Clankelly

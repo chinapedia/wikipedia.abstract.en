@@ -7,7 +7,7 @@ Water was one of many _archai_ proposed by the Pre-socratics, most of whom tried
 
 Plato’s student Aristotle (384–322 BC) developed a different explanation for the elements based on pairs of qualities. The four elements were arranged concentrically around the center of the Universe to form the sublunary sphere. According to Aristotle, water is both cold and wet and occupies a place between air and earth among the elemental spheres.[2]
 
-Alchemy_water_symbol.svg for water]]
+for water]]
 
 In ancient Greek medicine, each of the four humours became associated with an element. Phlegm was the humor identified with water, since both were cold and wet. Other things associated with water and phlegm in ancient and medieval medicine included the season of Winter, since it increased the qualities of cold and moisture; the phlegmatic temperament, the feminine, the brain and the western point of the compass.
 

@@ -1,4 +1,4 @@
-Hydrolysis.png can go both ways.)]] HYDROLYSIS (; ) is any chemical reaction in which a molecule of water ruptures one or more chemical bonds. The term is used broadly for substitution, elimination, and fragmentation reactions in which water is the nucleophile.[1]
+can go both ways.)]] HYDROLYSIS (; ) is any chemical reaction in which a molecule of water ruptures one or more chemical bonds. The term is used broadly for substitution, elimination, and fragmentation reactions in which water is the nucleophile.[1]
 
 Biological hydrolysis is the cleavage of biomolecules where a water molecule is consumed to effect the separation of a larger molecule into component parts. When a carbohydrate is broken into its component sugar molecules by hydrolysis (e.g. sucrose being broken down into glucose and fructose), this is termed SACCHARIFICATION. Generally, hydrolysis or saccharification is a step in the degradation of a substance.
 
@@ -29,7 +29,7 @@ However, proteases do not catalyse the hydrolysis of all kinds of proteins. Thei
 
 Upon hydrolysis, an amide converts into a carboxylic acid and an amine or ammonia (which in the presence of acid are immediately converted to ammonium salts). One of the two oxygen groups on the carboxylic acid are derived from a water molecule and the amine (or ammonia) gains the hydrogen ion. The hydrolysis of peptides gives amino acids.
 
-    320 px
+
 
 Many polyamide polymers such as nylon 6,6 hydrolyse in the presence of strong acids. The process leads to depolymerization. For this reason nylon products fail by fracturing when exposed to small amounts of acidic water. Polyesters are also susceptible to similar polymer degradation reactions. The problem is known as environmental stress cracking.
 
@@ -39,7 +39,7 @@ Hydrolysis is related to energy metabolism and storage. All living cells require
 
 Polysaccharides
 
-Sucrose-inkscape.svg Monosaccharides can be linked together by glycosidic bonds, which can be cleaved by hydrolysis. Two, three, several or many monosaccharides thus linked form disaccharides, trisaccharides, oligosaccharides, or polysaccharides, respectively. Enzymes that hydrolyse glycosidic bonds are called "glycoside hydrolases" or "glycosidases".
+Monosaccharides can be linked together by glycosidic bonds, which can be cleaved by hydrolysis. Two, three, several or many monosaccharides thus linked form disaccharides, trisaccharides, oligosaccharides, or polysaccharides, respectively. Enzymes that hydrolyse glycosidic bonds are called "glycoside hydrolases" or "glycosidases".
 
 The best-known disaccharide is sucrose (table sugar). Hydrolysis of sucrose yields glucose and fructose. Invertase is a sucrase used industrially for the hydrolysis of sucrose to so-called invert sugar. Lactase is essential for digestive hydrolysis of lactose in milk; many adult humans do not produce lactase and cannot digest the lactose in milk.
 

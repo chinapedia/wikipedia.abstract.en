@@ -1,4 +1,4 @@
-Rd_to_SS.jpg. The volcano of San Salvador is seen in the distance.]] El Salvador has transport links by road, rail, sea and air.
+. The volcano of San Salvador is seen in the distance.]] El Salvador has transport links by road, rail, sea and air.
 
 El Salvador has over 10,000 km of roads, and one passenger rail service. There are several seaports on the Pacific Ocean, and two international airports.
 
@@ -17,8 +17,6 @@ Railway links with adjacent countries
 
 
 Highways
-
-El-Salvador-Bus.jpg
 
 -   _total:_ 10,029 km
 -   _paved:_ 1,986 km (including 327 km of Highways)
@@ -47,7 +45,7 @@ none (1999 est.)
 
 Airports
 
-comalapa_airport.jpg.]] 75 (2006 est.)
+.]] 75 (2006 est.)
 
 Airports - with paved runways
 

@@ -2,9 +2,7 @@ WEST FLEMISH (, ) is a dialect of the Dutch language spoken in western Belgium a
 
 West Flemish is spoken by about a million people in the Belgian province of West Flanders, and a further 120,000 in the neighbouring Dutch coastal district of Zeelandic Flanders and 10,000 in the northern part of the French _département_ of Nord.[2] Some of the main cities where West Flemish is widely spoken are Bruges, Dunkirk, Kortrijk, Ostend, Roeselare, Ypres and Newport
 
-West Flemish is listed as a "vulnerable" language in UNESCO's online Red Book of Endangered Languages.[3] The language has its own dedicated Wikipedia.[4] Languages_Benelux.PNG countries]] FlemishinDunkirkdistrict.PNG in France, in 1874 and 1972]]
-
-Bachten-de_Kupe_route.JPG
+West Flemish is listed as a "vulnerable" language in UNESCO's online Red Book of Endangered Languages.[3] The language has its own dedicated Wikipedia.[4] countries]] in France, in 1874 and 1972]]
 
 
 Phonology
@@ -117,7 +115,7 @@ Even when words exist in both Dutch and West Flemish, their meaning can be diffe
 
 See also
 
-Yzeren_Rampe.jpg (Belgium) with West Flemish name "Yzeren Rampe" (Iron embankment)]]
+(Belgium) with West Flemish name "Yzeren Rampe" (Iron embankment)]]
 
 -   Dutch dialects
 -   Flemish people (_Flemings_ or _Vlamingen_)

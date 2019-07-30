@@ -17,15 +17,13 @@ Similar functionality was available to most mainframe users, which might be cons
 
 The first BBSes
 
-Ward_Christensen_and_the_First_BBS.jpg Early modems were generally very simple devices using acoustic couplers to handle telephone operation. The user would first pick up the phone, dial a number, then press the handset into rubber cups on the top of the modem. Disconnecting at the end of a call required the user to pick up the handset and return it to the phone. Examples of direct-connecting modems did exist, and these often allowed the host computer to send it commands to answer or hang up calls, but these were very expensive devices used by large banks and similar companies.
+Early modems were generally very simple devices using acoustic couplers to handle telephone operation. The user would first pick up the phone, dial a number, then press the handset into rubber cups on the top of the modem. Disconnecting at the end of a call required the user to pick up the handset and return it to the phone. Examples of direct-connecting modems did exist, and these often allowed the host computer to send it commands to answer or hang up calls, but these were very expensive devices used by large banks and similar companies.
 
 With the introduction of microcomputers with expansion slots, like the S-100 bus machines and Apple II, it became possible for the modem to communicate instructions and data on separate lines. A number of modems of this sort were available by the late 1970s. This made the BBS possible for the first time, as it allowed software on the computer to pick up an incoming call, communicate with the user, and then hang up the call when the user logged off.
 
 The first public dial-up BBS was developed by Ward Christensen and Randy Suess. According to an early interview, when Chicago was snowed under during the Great Blizzard of 1978, the two began preliminary work on the Computerized Bulletin Board System, or CBBS. The system came into existence largely through a fortuitous combination of Christensen having a spare S-100 bus computer and an early Hayes internal modem, and Suess's insistence that the machine be placed at his house in Chicago where it would be a local phone call to millions of users. Christensen patterned the system after the cork board his local computer club used to post information like "need a ride". CBBS officially went online on 16 February 1978.[5][6] CBBS, which kept a count of callers, reportedly connected 253,301 callers before it was finally retired.
 
 Smartmodem
-
-Hayes_300_Baud_Smartmodem_02.jpg
 
 A key innovation required for the popularization of the BBS was the Smartmodem manufactured by Hayes Microcomputer Products. Internal modems like the ones used by CBBS and similar early systems were usable, but generally expensive due to the manufacturer having to make a different modem for every computer platform they wanted to target. They were also limited to those computers with internal expansion, and could not be used with other useful platforms like video terminals. External modems were available for these platforms but required the phone to be dialed using a conventional handset, making them unable to accept incoming calls without manual intervention. Internal modems could be software controlled to perform both outbound and inbound calls, but external modems had only the data pins to communicate with the host system.
 
@@ -68,8 +66,6 @@ As of March 2019, most traditional BBS systems have migrated to the Internet usi
 
 Software and hardware
 
-Amiga3000UX.jpg
-
 Unlike modern websites and online services that are typically hosted by third-party companies in commercial data centers, BBS computers (especially for smaller boards) were typically operated from the SysOp's home. As such, access could be unreliable, and in many cases, only one user could be on the system at a time. Only larger BBSes with multiple phone lines using specialized hardware, multitasking software, or a LAN connecting multiple computers, could host multiple simultaneous users.
 
 The first BBSes used homebrew software, quite often written or customized by the SysOps themselves, running on early S-100 bus microcomputer systems such as the Altair 8800, IMSAI 8080 and Cromemco under the CP/M operating system. Soon after, BBS software was being written for all of the major home computer systems of the late 1970s era – the Apple II, Atari 8-bit family, Commodore and TRS-80 being some of the most popular.
@@ -85,8 +81,6 @@ By 1995, many of the DOS-based BBSes had begun switching to modern multitasking 
 
 Presentation
 
-Neon2.png
-
 BBSes were generally text-based, rather than GUI-based, and early BBSes conversed using the simple ASCII character set. However, some home computer manufacturers extended the ASCII character set to take advantage of the advanced color and graphics capabilities of their systems. BBS software authors included these extended character sets in their software, and terminal program authors included the ability to display them when a compatible system was called. Atari's native character set was known as ATASCII, while most Commodore BBSes supported PETSCII. PETSCII was also supported by the nationwide online service Quantum Link.
 
 The use of these custom character sets was generally incompatible between manufacturers. Unless a caller was using terminal emulation software written for, and running on, the same type of system as the BBS, the session would simply fall back to simple ASCII output. For example, a Commodore 64 user calling an Atari BBS would use ASCII rather than the machine's native character set. As time progressed, most terminal programs began using the ANSI standard, but could use their native character set if it was available.
@@ -95,7 +89,7 @@ COCONET, a BBS system made by Coconut Computing, Inc., was released in 1988 and 
 
 In the UK, the BBC Micro based OBBS software, available from Pace for use with their modems, optionally allowed for color and graphics using the Teletext based graphics mode available on that platform. Other systems used the Viewdata protocols made popular in the UK by British Telecom's Prestel service, and the on-line magazine Micronet 800 whom were busy giving away modems with their subscriptions.
 
-The most popular form of online graphics was ANSI art, which combined the IBM Extended ASCII character set's blocks and symbols with ANSI escape sequences to allow changing colors on demand, provide cursor control and screen formatting, and even basic musical tones. During the late 1980s and early 1990s, most BBSes used ANSI to make elaborate welcome screens, and colorized menus, and thus, ANSI support was a sought-after feature in terminal client programs. The development of ANSI art became so popular that it spawned an entire BBS "artscene" subculture devoted to it. Koala_Country_BBS_Login_Screen.jpg
+The most popular form of online graphics was ANSI art, which combined the IBM Extended ASCII character set's blocks and symbols with ANSI escape sequences to allow changing colors on demand, provide cursor control and screen formatting, and even basic musical tones. During the late 1980s and early 1990s, most BBSes used ANSI to make elaborate welcome screens, and colorized menus, and thus, ANSI support was a sought-after feature in terminal client programs. The development of ANSI art became so popular that it spawned an entire BBS "artscene" subculture devoted to it.
 
 The Amiga _Skyline BBS_ software was the first in 1987 featuring a script markup language communication protocol called Skypix which was capable of giving the user a complete graphical interface, featuring rich graphic content, changeable fonts, mouse-controlled actions, animations and sound.[9]
 

@@ -5,7 +5,7 @@ In brief, an HTTP POST request from the client will send the HTML form data to t
 
 History
 
-CGIlogo.gif In 1993 the National Center for Supercomputing Applications (NCSA) team wrote the specification for calling command line executables on the www-talk mailing list.[2][3][4] The other Web server developers adopted it, and it has been a standard for Web servers ever since. A work group chaired by Ken Coar started in November 1997 to get the NCSA definition of CGI more formally defined.[5] This work resulted in RFC 3875, which specified CGI Version 1.1. Specifically mentioned in the RFC are the following contributors:[6]
+In 1993 the National Center for Supercomputing Applications (NCSA) team wrote the specification for calling command line executables on the www-talk mailing list.[2][3][4] The other Web server developers adopted it, and it has been a standard for Web servers ever since. A work group chaired by Ken Coar started in November 1997 to get the NCSA definition of CGI more formally defined.[5] This work resulted in RFC 3875, which specified CGI Version 1.1. Specifically mentioned in the RFC are the following contributors:[6]
 
 -   Rob McCool (author of the NCSA HTTPd Web Server)
 -   John Franks (author of the GN Web Server)

@@ -5,7 +5,7 @@ Born to a Jewish[1] family in Long Island, New York, he attended Worcester Polyt
 
 Career
 
-clinton-kamen.jpg and Kamen in the White House, Kamen riding the iBOT Mobility System]]
+and Kamen in the White House, Kamen riding the iBOT Mobility System]]
 
 Inventions
 
@@ -13,7 +13,7 @@ Kamen is best known for inventing the product that eventually became known as th
 
 Kamen was already a successful and wealthy inventor, after inventing the first drug infusion pump and starting a company, _AutoSyringe_, to market and manufacture the pump.[5] His company DEKA also holds patents for the technology used in a portable dialysis machines, an insulin pump (based on the drug infusion pump technology),[6] and an all-terrain electric wheelchair known as the iBOT, using many of the same gyroscopic balancing technologies that later made their way into the Segway.
 
-Dean_kamen.jpg Kamen_still.JPG Kamen has worked extensively on a project involving Stirling engine designs, attempting to create two machines; one that would generate power, and the Slingshot that would serve as a water purification system.[7] He hopes the project will help improve living standards in developing countries.[8][9] Kamen has a patent issued on his water purifier,[10] and other patents pending. In 2014, the film _SlingShot_ was released, detailing Kamen's quest to use his vapor compression distiller to fix the world's water crisis.[11]
+Kamen has worked extensively on a project involving Stirling engine designs, attempting to create two machines; one that would generate power, and the Slingshot that would serve as a water purification system.[7] He hopes the project will help improve living standards in developing countries.[8][9] Kamen has a patent issued on his water purifier,[10] and other patents pending. In 2014, the film _SlingShot_ was released, detailing Kamen's quest to use his vapor compression distiller to fix the world's water crisis.[11]
 
 Kamen is also the co-inventor of a compressed air device that would launch a human into the air in order to quickly launch SWAT teams or other emergency workers to the roofs of tall, inaccessible buildings.[12][13]
 
@@ -44,7 +44,7 @@ Kamen received the 2018 Public Service Award from the National Science Board, ho
 
 Personal life
 
-Will_I_Am_FIRST.TIF speaking at the 2011 FIRST kickoff at Southern New Hampshire University with Kamen]] His residence is a hexagonal, shed style mansion he dubbed Westwind,[27] located in Bedford, New Hampshire, just outside Manchester. The house has at least four different levels and is very eclectically conceived, with such things as hallways resembling mine shafts, 1960s novelty furniture, a collection of vintage wheelchairs, spiral staircases and at least one secret passage, an observation tower, a fully equipped machine shop, and a huge cast-iron steam engine which once belonged to Henry Ford built into the multi-story center atrium of the house which Kamen is working to convert into a Stirling engine-powered kinetic sculpture. Kamen owns and pilots an Embraer Phenom 300 light jet aircraft[28] and three Enstrom helicopters, including a 280FX, a 480, and a 480B.[29][30][31] He regularly commutes to work via his helicopters and had a hangar built into his house.[32] In 2016 he piloted a B-2 Spirit bomber at Whiteman AFB, marking the opening of the 2016 FRC World Championship in St. Louis.[33]
+speaking at the 2011 FIRST kickoff at Southern New Hampshire University with Kamen]] His residence is a hexagonal, shed style mansion he dubbed Westwind,[27] located in Bedford, New Hampshire, just outside Manchester. The house has at least four different levels and is very eclectically conceived, with such things as hallways resembling mine shafts, 1960s novelty furniture, a collection of vintage wheelchairs, spiral staircases and at least one secret passage, an observation tower, a fully equipped machine shop, and a huge cast-iron steam engine which once belonged to Henry Ford built into the multi-story center atrium of the house which Kamen is working to convert into a Stirling engine-powered kinetic sculpture. Kamen owns and pilots an Embraer Phenom 300 light jet aircraft[28] and three Enstrom helicopters, including a 280FX, a 480, and a 480B.[29][30][31] He regularly commutes to work via his helicopters and had a hangar built into his house.[32] In 2016 he piloted a B-2 Spirit bomber at Whiteman AFB, marking the opening of the 2016 FRC World Championship in St. Louis.[33]
 
 He is the main subject of _Code Name Ginger: the Story Behind Segway and Dean Kamen's Quest to Invent a New World_, a nonfiction narrative book by journalist Steve Kemper published by Harvard Business School Press in 2003 (released in paperback as _Reinventing the Wheel_).[34]
 

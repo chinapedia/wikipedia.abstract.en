@@ -39,7 +39,7 @@ Having a female partner increases the risk of BV by 60%. The bacteria associated
 
 Diagnosis
 
-Bacterial_vaginosis_workup.jpg to detect vaginal alkalinization (here showing approximately pH 8), and a microscope slide to microscopically detect clue cells.]] To make a diagnosis of bacterial vaginosis, a swab from inside the vagina should be obtained. These swabs should be tested for:
+to detect vaginal alkalinization (here showing approximately pH 8), and a microscope slide to microscopically detect clue cells.]] To make a diagnosis of bacterial vaginosis, a swab from inside the vagina should be obtained. These swabs should be tested for:
 
 -   A characteristic "fishy" odor on wet mount. This test, called the _whiff test_, is performed by adding a small amount of potassium hydroxide to a microscopic slide containing the vaginal discharge. A characteristic fishy odor is considered a positive whiff test and is suggestive of bacterial vaginosis.
 -   Loss of acidity. To control bacterial growth, the vagina is normally slightly acidic with a pH of 3.8–4.2. A swab of the discharge is put onto litmus paper to check its acidity. A pH greater than 4.5 is considered alkaline and is suggestive of bacterial vaginosis.

@@ -7,7 +7,7 @@ Beetles are prominent in human culture, from the sacred scarabs of ancient Egypt
 
 Etymology
 
-Coleoptera_SMNK.jpg, Germany]]
+, Germany]]
 
 The name of the taxonomic order, Coleoptera, comes from the Greek _koleopteros_ (κολεόπτερος), given to the group by Aristotle for their elytra, hardened shield-like forewings, from _koleos_, sheath, and _pteron_, wing. The English name beetle comes from the Old English word _bitela_, little biter, related to _bītan_ (to bite),[1][2] leading to Middle English _betylle_.[3] Another Old English name for beetle is _ċeafor_, chafer, used in names such as cockchafer, from the Proto-Germanic *_kebrô_ ("beetle"; compare German _Käfer_, Dutch _kever_).[4]
 
@@ -29,7 +29,7 @@ Evolution
 
 Late Paleozoic
 
-Phylogenetic_chart_of_Coleoptera.svg were mainly saprophages (detritivores) in the Permian and Triassic. During the Jurassic, herbivorous and then carnivorous genera became more common. In the Cenozoic, genera at all three trophic levels became far more numerous.]]
+were mainly saprophages (detritivores) in the Permian and Triassic. During the Jurassic, herbivorous and then carnivorous genera became more common. In the Cenozoic, genera at all three trophic levels became far more numerous.]]
 
 The oldest known fossil insect that unequivocally resembles a Coleopteran is from the Lower Permian Period about (mya), though these members of the family Tshekardocoleidae have 13-segmented antennae, elytra with more fully developed venation and more irregular longitudinal ribbing, and abdomen and ovipositor extending beyond the apex of the elytra. In the Permian–Triassic extinction event at the end of the Permian, some 30% of all insect species became extinct, so the fossil record of insects only includes beetles from the Lower Triassic . Around this time, during the Late Triassic, fungus-feeding species such as Cupedidae appear in the fossil record. In the stages of the Upper Triassic, alga-feeding insects such as Triaplidae and Hydrophilidae begin to appear, alongside predatory water beetles. The first weevils, including the Obrienidae, appear alongside the first rove beetles (Staphylinidae), which closely resemble recent species.[22] Some entomologists are sceptical that such early insects are so closely related to present-day species, arguing that this is extremely unlikely; for example, the structure of the metepisternum suggests that the Obrienidae could be Archostemata, not weevils at all, despite fossils with weevil-like snouts.[23]
 
@@ -51,7 +51,7 @@ Many fossil sites worldwide contain beetles from the Cretaceous. Most are in Eur
 
 Cenozoic
 
-Prachtkäfer_aus_der_Grube_Messel.JPG from the Eocene (50 mya) Messel pit, which retains its structural color[51]]]
+from the Eocene (50 mya) Messel pit, which retains its structural color[51]]]
 
 Beetle fossils are abundant in the Cenozoic; by the Quaternary (up to 1.6 mya), fossil species are identical to living ones, while from the Late Miocene (5.7 mya) the fossils are still so close to modern forms that they are most likely the ancestors of living species. The large oscillations in climate during the Quaternary caused beetles to change their geographic distributions so much that current location gives little clue to the biogeographical history of a species. It is evident that geographic isolation of populations must often have been broken as insects moved under the influence of changing climate, causing mixing of gene pools, rapid evolution, and extinctions, especially in middle latitudes.[52]
 
@@ -67,7 +67,7 @@ Molecular phylogenetic analysis confirms that the Coleoptera are monophyletic. D
 
 External morphology
 
-Melolontha_melolontha_insect_morphology.jpg. A: head, B: thorax, C: abdomen. 1: antenna, 2: compound eye, 3: femur, 4: elytron (wing cover), 5: tibia, 6: tarsus, 7: claws, 8: mouthparts, 9: prothorax, 10: mesothorax, 11: metathorax, 12: abdominal sternites, 13: pygidium.]]
+. A: head, B: thorax, C: abdomen. 1: antenna, 2: compound eye, 3: femur, 4: elytron (wing cover), 5: tibia, 6: tarsus, 7: claws, 8: mouthparts, 9: prothorax, 10: mesothorax, 11: metathorax, 12: abdominal sternites, 13: pygidium.]]
 
 Beetles are generally characterized by a particularly hard exoskeleton and hard forewings (elytra) not usable for flying. Almost all beetles have mandibles that move in a horizontal plane. The mouthparts are rarely suctorial, though they are sometimes reduced; the maxillae always bear palps. The antennae usually have 11 or fewer segments, except in some groups like the Cerambycidae (longhorn beetles) and the Rhipiceridae (cicada parasite beetles). The coxae of the legs are usually located recessed within a coxal cavity. The genitalic structures are telescoped into the last abdominal segment in all extant beetles. Beetle larvae can often be confused with those of other endopterygote groups.[75] The beetle's exoskeleton is made up of numerous plates, called sclerites, separated by thin sutures. This design provides armored defenses while maintaining flexibility. The general anatomy of a beetle is quite uniform, although specific organs and appendages vary greatly in appearance and function between the many families in the order. Like all insects, beetles' bodies are divided into three sections: the head, the thorax, and the abdomen.[76] Because there are so many species, identification is quite difficult, and relies on attributes including the shape of the antennae, the tarsal formulae and shapes of these small segments on the legs, the mouthparts, and the ventral plates (sterna, pleura, coxae). In many species accurate identification can only be made by examination of the unique male genitalic structures.[77]
 
@@ -75,7 +75,7 @@ Head
 
 The head, having mouthparts projecting forward or sometimes downturned, is usually heavily sclerotized and is sometimes very large.[78] The eyes are compound and may display remarkable adaptability, as in the case of the aquatic whirligig beetles (Gyrinidae), where they are split to allow a view both above and below the waterline. A few Longhorn beetles (Cerambycidae) and weevils as well as some fireflies (Rhagophthalmidae) [79] have divided eyes, while many have eyes that are notched, and a few have ocelli, small, simple eyes usually farther back on the head (on the vertex); these are more common in larvae than in adults.[80]. The anatomical organization of the compound eyes may be modified and depends on whether a species is primarily crepuscular, or diurnally or nocturnally active.[81] Ocelli are found in the adult carpet beetle (Dermestidae), some rove beetles (Omaliinae), and the Derodontidae.[82]
 
-Polyphylla_fullo_up.jpg'' has distinctive fan-like antennae, one of several distinct forms for the appendages among beetles.|left]]
+'' has distinctive fan-like antennae, one of several distinct forms for the appendages among beetles.|left]]
 
 Beetle antennae are primarily organs of sensory perception and can detect motion, odour and chemical substances,[83] but may also be used to physically feel a beetle's environment. Beetle families may use antennae in different ways. For example, when moving quickly, tiger beetles may not be able to see very well and instead hold their antennae rigidly in front of them in order to avoid obstacles.[84] Certain Cerambycidae use antennae to balance, and blister beetles may use them for grasping. Some aquatic beetle species may use antennae for gathering air and passing it under the body whilst submerged. Equally, some families use antennae during mating, and a few species use them for defence. In the cerambycid _Onychocerus albitarsis_, the antennae have venom injecting structures used in defence.[85] Antennae vary greatly in form, sometimes between the sexes, but are often similar within any given family. Antennae may be clubbed, threadlike, angled, shaped like a string of beads, comb-like (either on one side or both, bipectinate), or toothed. The physical variation of antennae is important for the identification of many beetle groups. The Curculionidae have elbowed or geniculate antennae. Feather like flabellate antennae are a restricted form found in the Rhipiceridae and a few other families. The Silphidae have a capitate antennae with a spherical head at the tip. The Scarabaeidae typically have lamellate antennae with the terminal segments extended into long flat structures stacked together. The Carabidae typically have thread-like antennae. The antennae arises between the eye and the mandibles and in the Tenebrionidae, the antennae rise in front of a notch that breaks the usually circular outline of the compound eye. They are segmented and usually consist of 11 parts, the first part is called the scape and the second part is the pedicel. The other segments are jointly called the flagellum.[86][87][88]
 
@@ -85,7 +85,7 @@ Thorax
 
 The thorax is segmented into the two discernible parts, the pro- and pterothorax. The pterothorax is the fused meso- and metathorax, which are commonly separated in other insect species, although flexibly articulate from the prothorax. When viewed from below, the thorax is that part from which all three pairs of legs and both pairs of wings arise. The abdomen is everything posterior to the thorax.[90] When viewed from above, most beetles appear to have three clear sections, but this is deceptive: on the beetle's upper surface, the middle section is a hard plate called the pronotum, which is only the front part of the thorax; the back part of the thorax is concealed by the beetle's wings. This further segmentation is usually best seen on the abdomen.[91]
 
-Acilius_sulcatus.gemeiner_furchenschwimmer.jpg'', a diving beetle with hind legs adapted as swimming limbs]]
+'', a diving beetle with hind legs adapted as swimming limbs]]
 
 Legs
 
@@ -93,7 +93,7 @@ The multisegmented legs end in two to five small segments called tarsi. Like man
 
 Wings
 
-_Soldier_Beetle_Trichodes_alvearius_taking_off_from_Knapweed_(cropped).jpg'' taking off, showing the hard elytra (forewings adapted as wing-cases) held stiffly away from the flight wings|left]]
+'' taking off, showing the hard elytra (forewings adapted as wing-cases) held stiffly away from the flight wings|left]]
 
 The forewings of beetles are not used for flight, but form elytra which cover the hind part of the body and protect the hindwings. The elytra are usually hard shell-like structures which must be raised to allow the hind wings to move for flight.[94] However, in the soldier beetles (Cantharidae), the elytra are soft, earning this family the name of leatherwings.[95] Other soft wing beetles include the net-winged beetle _Calopteron discrepans_, which has brittle wings that rupture easily in order to release chemicals for defence.[96]
 
@@ -118,7 +118,7 @@ The nervous system in beetles contains all the types found in insects, varying b
 
 Respiratory system
 
-DytiscusSpiracles.png'' spiracles (right) on upper side of abdomen, normally covered by the elytra, are in contact with an air bubble when the beetle dives.|left|175x175px]]Like most insects, beetles inhale air, for the oxygen it contains, and exhale carbon dioxide, via a tracheal system. Air enters the body through spiracles, and circulates within the haemocoel in a system of tracheae and tracheoles, through whose walls the gases can diffuse.[104]
+'' spiracles (right) on upper side of abdomen, normally covered by the elytra, are in contact with an air bubble when the beetle dives.|left|175x175px]]Like most insects, beetles inhale air, for the oxygen it contains, and exhale carbon dioxide, via a tracheal system. Air enters the body through spiracles, and circulates within the haemocoel in a system of tracheae and tracheoles, through whose walls the gases can diffuse.[104]
 
 Diving beetles, such as the Dytiscidae, carry a bubble of air with them when they dive. Such a bubble may be contained under the elytra or against the body by specialized hydrophobic hairs. The bubble covers at least some of the spiracles, permitting air to enter the tracheae.[105] The function of the bubble is not only to contain a store of air but to act as a physical gill. The air that it traps is in contact with oxygenated water, so as the animal's consumption depletes the oxygen in the bubble, more oxygen can diffuse in to replenish it.[106] Carbon dioxide is more soluble in water than either oxygen or nitrogen, so it readily diffuses out faster than in. Nitrogen is the most plentiful gas in the bubble, and the least soluble, so it constitutes a relatively static component of the bubble and acts as a stable medium for respiratory gases to accumulate in and pass through. Occasional visits to the surface are sufficient for the beetle to re-establish the constitution of the bubble.[107]
 
@@ -139,7 +139,7 @@ Beetles are members of the superorder Endopterygota, and accordingly most of the
 
 Mating
 
-Punctate_Flower_Chafer.jpgs (_Neorrhina punctata_, Scarabaeidae) mating]]
+s (_Neorrhina punctata_, Scarabaeidae) mating]]
 
 Some beetles have intricate mating behaviour. Pheromone communication is often important in locating a mate. Different species use different pheromones. Scarab beetles such as the Rutelinae use pheromones derived from fatty acid synthesis, while other scarabs such as the Melolonthinae use amino acids and terpenoids. Another way beetles find mates is seen in the fireflies (Lampyridae) which are bioluminescent, with abdominal light-producing organs. The males and females engage in a complex dialogue before mating; each species has a unique combination of flight patterns, duration, composition, and intensity of the light produced.[114]
 
@@ -149,7 +149,7 @@ Competition can play a part in the mating rituals of species such as burying bee
 
 Life cycle
 
-Life_cycle_of_stag_beetle.svg includes three instars.]]
+includes three instars.]]
 
 Egg
 
@@ -159,7 +159,7 @@ Larva
 
 The larva is usually the principal feeding stage of the beetle life cycle. Larvae tend to feed voraciously once they emerge from their eggs. Some feed externally on plants, such as those of certain leaf beetles, while others feed within their food sources. Examples of internal feeders are most Buprestidae and longhorn beetles. The larvae of many beetle families are predatory like the adults (ground beetles, ladybirds, rove beetles). The larval period varies between species, but can be as long as several years. The larvae of skin beetles undergo a degree of reversed development when starved, and later grow back to the previously attained level of maturity. The cycle can be repeated many times (see Biological immortality).[120] Larval morphology is highly varied amongst species, with well-developed and sclerotized heads, distinguishable thoracic and abdominal segments (usually the tenth, though sometimes the eighth or ninth).[121]
 
-Hercules_beetle_(larva).jpg larva of Hercules beetle]]
+larva of Hercules beetle]]
 
 Beetle larvae can be differentiated from other insect larvae by their hardened, often darkened heads, the presence of chewing mouthparts, and spiracles along the sides of their bodies. Like adult beetles, the larvae are varied in appearance, particularly between beetle families. Beetles with somewhat flattened, highly mobile larvae include the ground beetles and rove beetles; their larvae are described as campodeiform. Some beetle larvae resemble hardened worms with dark head capsules and minute legs. These are elateriform larvae, and are found in the click beetle (Elateridae) and darkling beetle (Tenebrionidae) families. Some elateriform larvae of click beetles are known as wireworms. Beetles in the Scarabaeoidea have short, thick larvae described as scarabaeiform, more commonly known as grubs.[122]
 
@@ -169,7 +169,7 @@ The larval period can vary widely. A fungus feeding staphylinid _Phanerota fasci
 
 Pupa and adult
 
-Eburia_quadrigeminata.jpg'', may live up to 40 years inside the hardwoods on which the larva feeds.]]
+'', may live up to 40 years inside the hardwoods on which the larva feeds.]]
 
 As with all endopterygotes, beetle larvae pupate, and from these pupae emerge fully formed, sexually mature adult beetles, or imagos. Pupae never have mandibles (they are adecticous). In most pupae, the appendages are not attached to the body and are said to be exarate; in a few beetles (Staphylinidae, Ptiliidae etc.) the appendages are fused with the body (termed as obtect pupae).[126]
 
@@ -180,7 +180,7 @@ Behaviour
 
 Locomotion
 
-Photinus_pyralis_Firefly_2.jpg'', firefly, in flight]]
+'', firefly, in flight]]
 
 The elytra allow beetles to both fly and move through confined spaces, doing so by folding the delicate wings under the elytra while not flying, and folding their wings out just before take off. The unfolding and folding of the wings is operated by muscles attached to the wing base; as long as the tension on the radial and cubital veins remains, the wings remain straight. In some day-flying species (for example, Buprestidae, Scarabaeidae), flight does not include large amounts of lifting of the elytra, having the metathorac wings extended under the lateral elytra margins.[130] The altitude reached by beetles in flight varies. One study investigating the flight altitude of the ladybird species _Coccinella septempunctata_ and _Harmonia axyridis_ using radar showed that, whilst the majority in flight over a single location were at 150–195 m above ground level, some reached altitudes of over 1100 m.[131]
 
@@ -194,7 +194,7 @@ Beetles have a variety of ways to communicate, including the use of pheromones. 
 
 Parental care
 
-Scarabaeus_laticollis.jpg Parental care is found in a few families[136] of beetle, perhaps for protection against adverse conditions and predators.[137] The rove beetle _Bledius spectabilis_ lives in salt marshes, so the eggs and larvae are endangered by the rising tide. The maternal beetle patrols the eggs and larvae, burrowing to keep them from flooding and asphyxiating, and protects them from the predatory carabid beetle _Dicheirotrichus gustavi_ and from the parasitoidal wasp _Barycnemis blediator_, which kills some 15% of the larvae.[138]
+Parental care is found in a few families[136] of beetle, perhaps for protection against adverse conditions and predators.[137] The rove beetle _Bledius spectabilis_ lives in salt marshes, so the eggs and larvae are endangered by the rising tide. The maternal beetle patrols the eggs and larvae, burrowing to keep them from flooding and asphyxiating, and protects them from the predatory carabid beetle _Dicheirotrichus gustavi_ and from the parasitoidal wasp _Barycnemis blediator_, which kills some 15% of the larvae.[138]
 
 Burying beetles are attentive parents, and participate in cooperative care and feeding of their offspring. Both parents work to bury small animal carcass to serve as a food resource for their young and build a brood chamber around it. The parents prepare the carcass and protect it from competitors and from early decomposition. After their eggs hatch, the parents keep the larvae clean of fungus and bacteria and help the larvae feed by regurgitating food for them.[139]
 
@@ -210,7 +210,7 @@ Eusociality involves cooperative brood care (including brood care of offspring f
 
 Feeding
 
-Orange_Blister_Beetle_(Mylabris_pustulata)_on_Ipomoea_carnea_W_IMG_0593.jpg'' sp. (Meloidae) feeding on the petals of _Ipomoea carnea_]]
+'' sp. (Meloidae) feeding on the petals of _Ipomoea carnea_]]
 
 Beetles are able to exploit a wide diversity of food sources available in their many habitats. Some are omnivores, eating both plants and animals. Other beetles are highly specialized in their diet. Many species of leaf beetles, longhorn beetles, and weevils are very host-specific, feeding on only a single species of plant. Ground beetles and rove beetles (Staphylinidae), among others, are primarily carnivorous and catch and consume many other arthropods and small prey, such as earthworms and snails. While most predatory beetles are generalists, a few species have more specific prey requirements or preferences.[153]
 
@@ -219,7 +219,7 @@ Decaying organic matter is a primary diet for many species. This can range from 
 
 Ecology
 
-Long-horn_Beetle_-_Ecyrus_dasycerus,_Leesylvania_State_Park,_Woodbridge,_Virginia.jpgd longhorn beetle, _Ecyrus dasycerus_]]
+d longhorn beetle, _Ecyrus dasycerus_]]
 
 Anti-predator adaptations
 
@@ -231,11 +231,11 @@ Camouflage is common and widespread among beetle families, especially those that
 
 Mimicry and aposematism
 
-Clyte_bélier_-_MHNT_-_Vue_dorsale.jpg'' (Cerambycidae), a Batesian mimic of wasps]]
+'' (Cerambycidae), a Batesian mimic of wasps]]
 
 Some longhorn beetles (Cerambycidae) are effective Batesian mimics of wasps. Beetles may combine coloration with behavioural mimicry, acting like the wasps they already closely resemble. Many other beetles, including ladybirds, blister beetles, and lycid beetles secrete distasteful or toxic substances to make them unpalatable or poisonous, and are often aposematic, where bright or contrasting coloration warn off predators; many beetles and other insects mimic these chemically protected species.[160]
 
-Blister_beetle_(26390828032).jpg'' have brilliant aposematic coloration, warning of their toxicity.]] Bloody_-nosed_Beetle^_Timarcha_tenebricosa_-_Flickr_-_gailhampshire.jpg'', defending itself by releasing a droplet of noxious red liquid (base of leg, on right)|left|172x172px]]
+'' have brilliant aposematic coloration, warning of their toxicity.]] '', defending itself by releasing a droplet of noxious red liquid (base of leg, on right)|left|172x172px]]
 
 Chemical defense is important in some species, usually being advertised by bright aposematic colours. Some Tenebrionidae use their posture for releasing noxious chemicals to warn off predators. Chemical defences may serve purposes other than just protection from vertebrates, such as protection from a wide range of microbes. Some species sequester chemicals from the plants they feed on, incorporating them into their own defenses.[161]
 
@@ -263,7 +263,7 @@ Mutualism is well known in a few beetles, such as the ambrosia beetle, which par
 
 Tolerance of extreme environments
 
-Stenocara_gracilipes.jpg, _Stenocara gracilipes_ is able to survive by collecting water from fog on its back.]]
+, _Stenocara gracilipes_ is able to survive by collecting water from fog on its back.]]
 
 About 90% of beetle species enter a period of adult diapause, a quiet phase with reduced metabolism to tide unfavourable environmental conditions. Adult diapause is the most common form of diapause in Coleoptera. To endure the period without food (often lasting many months) adults prepare by accumulating reserves of lipids, glycogen, proteins and other substances needed for resistance to future hazardous changes of environmental conditions. This diapause is induced by signals heralding the arrival of the unfavourable season; usually the cue is photoperiodic. Short (decreasing) day length serves as a signal of approaching winter and induces winter diapause (hibernation).[179] A study of hibernation in the Arctic beetle _Pterostichus brevicorni_ showed that the body fat levels of adults were highest in autumn with the alimentary canal filled with food, but empty by the end of January. This loss of body fat was a gradual process, occurring in combination with dehydration.[180]
 
@@ -284,19 +284,19 @@ Relationship to humans
 
 In ancient cultures
 
-Egypt.KV6.04.jpg]]Several species of dung beetle, especially the sacred scarab, _Scarabaeus sacer_, were revered in Ancient Egypt.[196][197] The hieroglyphic image of the beetle may have had existential, fictional, or ontologic significance.[198] Images of the scarab in bone, ivory, stone, Egyptian faience, and precious metals are known from the Sixth Dynasty and up to the period of Roman rule. The scarab was of prime significance in the funerary cult of ancient Egypt.[199] The scarab was linked to Khepri, the god of the rising sun, from the supposed resemblance of the rolling of the dung ball by the beetle to the rolling of the sun by the god.[200] Some of ancient Egypt's neighbors adopted the scarab motif for seals of varying types. The best-known of these are the Judean LMLK seals, where eight of 21 designs contained scarab beetles, which were used exclusively to stamp impressions on storage jars during the reign of Hezekiah.[201] Beetles are mentioned as a symbol of the sun, as in ancient Egypt, in Plutarch's 1st century _Moralia_.[202] The Greek Magical Papyri of the 2nd century BC to the 5th century AD describe scarabs as an ingredient in a spell.[203]
+]]Several species of dung beetle, especially the sacred scarab, _Scarabaeus sacer_, were revered in Ancient Egypt.[196][197] The hieroglyphic image of the beetle may have had existential, fictional, or ontologic significance.[198] Images of the scarab in bone, ivory, stone, Egyptian faience, and precious metals are known from the Sixth Dynasty and up to the period of Roman rule. The scarab was of prime significance in the funerary cult of ancient Egypt.[199] The scarab was linked to Khepri, the god of the rising sun, from the supposed resemblance of the rolling of the dung ball by the beetle to the rolling of the sun by the god.[200] Some of ancient Egypt's neighbors adopted the scarab motif for seals of varying types. The best-known of these are the Judean LMLK seals, where eight of 21 designs contained scarab beetles, which were used exclusively to stamp impressions on storage jars during the reign of Hezekiah.[201] Beetles are mentioned as a symbol of the sun, as in ancient Egypt, in Plutarch's 1st century _Moralia_.[202] The Greek Magical Papyri of the 2nd century BC to the 5th century AD describe scarabs as an ingredient in a spell.[203]
 
 Pliny the Elder discusses beetles in his _Natural History_,[204] describing the stag beetle: "Some insects, for the preservation of their wings, are covered with a erust (elytra) – the beetle, for instance, the wing of which is peculiarly fine and frail. To these insects a sting has been denied by Nature; but in one large kind we find horns of a remarkable length, two-pronged at the extremities, and forming pincers, which the animal closes when it is its intention to bite."[205][206] The stag beetle is recorded in a Greek myth by Nicander and recalled by Antoninus Liberalis in which Cerambus is turned into a beetle: "He can be seen on trunks and has hook-teeth, ever moving his jaws together. He is black, long and has hard wings like a great dung beetle".[207] The story concludes with the comment that the beetles were used as toys by young boys, and that the head was removed and worn as a pendant.[208][209]
 
 As pests
 
-Cotton_boll_weevil.jpg]]
+]]
 
 About 75% of beetle species are phytophagous in both the larval and adult stages. Many feed on economically important plants and stored plant products, including trees, cereals, tobacco, and dried fruits.[210] Some, such as the boll weevil, which feeds on cotton buds and flowers, can cause extremely serious damage to agriculture. The boll weevil crossed the Rio Grande near Brownsville, Texas, to enter the United States from Mexico around 1892,[211] and had reached southeastern Alabama by 1915. By the mid-1920s, it had entered all cotton-growing regions in the US, traveling per year. It remains the most destructive cotton pest in North America. Mississippi State University has estimated, since the boll weevil entered the United States, it has cost cotton producers about $13 billion, and in recent times about $300 million per year.[212]
 
 The bark beetle, elm leaf beetle and the Asian longhorned beetle (_Anoplophora glabripennis_)[213] are among the species that attack elm trees. Bark beetles (Scolytidae) carry Dutch elm disease as they move from infected breeding sites to healthy trees. The disease has devastated elm trees across Europe and North America.[214]
 
-Potato_beetle_larvae.jpg, _Leptinotarsa decemlineata_, a serious crop pest]]
+, _Leptinotarsa decemlineata_, a serious crop pest]]
 
 Some species of beetle have evolved immunity to insecticides. For example, the Colorado potato beetle, _Leptinotarsa decemlineata_, is a destructive pest of potato plants. Its hosts include other members of the Solanaceae, such as nightshade, tomato, eggplant and capsicum, as well as the potato. Different populations have between them developed resistance to all major classes of insecticide.[215] The Colorado potato beetle was evaluated as a tool of entomological warfare during World War II, the idea being to use the beetle and its larvae to damage the crops of enemy nations.[216] Germany tested its Colorado potato beetle weaponisation program south of Frankfurt, releasing 54,000 beetles.[217]
 
@@ -306,7 +306,7 @@ Other pests include the coconut hispine beetle, _Brontispa longissima_, which fe
 
 As beneficial resources
 
-Lady-beetle-close-up.jpg'', a predatory beetle beneficial to agriculture]]
+'', a predatory beetle beneficial to agriculture]]
 
 Beetles can be beneficial to human economics by controlling the populations of pests. The larvae and adults of some species of lady beetles (Coccinellidae) feed on aphids that are pests. Other lady beetles feed on scale insects, whitefly and mealybugs.[221] If normal food sources are scarce, they may feed on small caterpillars, young plant bugs, or honeydew and nectar.[222] Ground beetles (Carabidae) are common predators of many insect pests, including fly eggs, caterpillars, and wireworms.[223] Ground beetles can help to control weeds by eating their seeds in the soil, reducing the need for herbicides to protect crops.[224] The effectiveness of some species in reducing certain plant populations has resulted in the deliberate introduction of beetles in order to control weeds. For example, the genus _Zygogramma_ is native to North America but has been used to control _Parthenium hysterophorus_ in India and _Ambrosia artemisiifolia_ in Russia.[225][226]
 
@@ -316,7 +316,7 @@ The Dermestidae are often used in taxidermy and in the preparation of scientific
 
 As food and medicine
 
-Mealworm_01_Pengo.jpg]]
+]]
 
 Beetles are the most widely eaten insects, with about 344 species used as food, usually at the larval stage.[234] The mealworm (the larva of the darkling beetle) and the rhinoceros beetle are among the species commonly eaten.[235] A wide range of species is also used in folk medicine to treat those suffering from a variety of disorders and illnesses, though this is done without clinical studies supporting the efficacy of such treatments.[236]
 
@@ -326,7 +326,7 @@ Due to their habitat specificity, many species of beetles have been suggested as
 
 In art and adornment
 
-Zopheridae_jewelry_sjh.jpg in jewellery at the Texas A&M University Insect Collection]] Pendant_watch_in_shape_of_beetle_Switzerland_1850-1900_gold,_diamond,_enamel.jpg
+in jewellery at the Texas A&M University Insect Collection]]
 
 Many beetles have beautiful and durable elytra that have been used as material in arts, with beetlewing the best example.[241] Sometimes, they are incorporated into ritual objects for their religious significance. Whole beetles, either as-is or encased in clear plastic, are made into objects ranging from cheap souvenirs such as key chains to expensive fine-art jewellery. In parts of Mexico, beetles of the genus _Zopherus_ are made into living brooches by attaching costume jewelry and golden chains, which is made possible by the incredibly hard elytra and sedentary habits of the genus.[242]
 
@@ -340,7 +340,7 @@ As pets
 
 Some species of beetle are kept as pets, for example diving beetles (Dytiscidae) may be kept in a domestic fresh water tank.[247]
 
-Malay_Archipelago_Beetles.jpg in Borneo]]
+in Borneo]]
 
 In Japan the practice of keeping horned rhinoceros beetles (Dynastinae) and stag beetles (Lucanidae) is particularly popular amongst young boys.[248] Such is the popularity in Japan that vending machines dispensing live beetles were developed in 1999, each holding up to 100 stag beetles.[249][250]
 

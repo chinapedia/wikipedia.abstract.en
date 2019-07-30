@@ -5,7 +5,7 @@ Biography
 
 Life
 
-Alvar-Aalto-1976.jpg Jyväskylän_Kaupunginteatteri_Aalto-laatta.jpg's theatre building.]] VIPlibrary.jpg Aalto_studio.JPG Studio_Aalto.jpg University_of_Jyväskylä_main_Building.jpg University (1955)]] Heilig_Geist_Kirche_Wolfsburg_Alvar_Aalto_1958_62_photo_by_Christian_Gänshirt.JPG (1958-62)[6]]]
+'s theatre building.]] University (1955)]] (1958-62)[6]]]
 
 Hugo Alvar Henrik Aalto was born in Kuortane, Finland.[7] His father, Johan Henrik Aalto, was a Finnish-speaking land-surveyor and his mother, Selma Matilda "Selly" (née Hackstedt) was a Swedish-speaking postmistress. When Aalto was 5 years old, the family moved to Alajärvi, and from there to Jyväskylä in Central Finland.
 
@@ -39,7 +39,7 @@ Upon returning to Jyväskylä in 1923 to establish his own architect's office, A
 
 Furthermore, this was the period when Aalto was most prolific in his writings, with articles for professional journals and newspapers. Among his most well-known essays from this period are "Urban culture" (1924),[22] "Temple baths on Jyväskylä ridge" (1925),[23] "Abbé Coignard's sermon" (1925),[24] and "From doorstep to living room" (1926).[25]
 
-4Y1A7841_Alvar_Aalto,_Finland_(26710745140).jpg in Noormarkku]] Baker_House,_MIT,_Cambridge,_Massachusetts.JPG on the Charles River]] Helsinki_University_of_Technology_auditorium.jpg (now Aalto University) in Otaniemi, Finland (1949–66)]] Aalto_cultural_house.JPG Library_Wolfsburg_Alvar_Aalto_photo_by_Christian_Gänshirt.jpg (1958-62)[26]]] Finlandia_A-Wiki.jpg (1962–71)]] Aalto-Theater_02.jpg opera house in Essen, Germany]]
+in Noormarkku]] on the Charles River]] (now Aalto University) in Otaniemi, Finland (1949–66)]] (1958-62)[26]]] (1962–71)]] opera house in Essen, Germany]]
 
 Early career: functionalism
 
@@ -66,7 +66,7 @@ Following Aalto's death in 1976 his office continued to operate under the direct
 
 Furniture career
 
-Wolfsonian-FIU_Museum_-_IMG_8234.JPG Aalto_kruk.jpg Whereas Aalto was famous for his architecture, his furniture designs were well thought of and are still popular today. He studied Josef Hoffmann and the Wiener Werkstätte, and for a period of time, worked under Eliel Saarinen.[33] He also gained inspiration from Gebrüder Thonet.[34] During the late 1920s and 1930s he, working closely with Aino Aalto, also focused a lot of his energy on furniture design, partly due to the decision to design much of the individual furniture pieces and lamps for the Paimio Sanatorium. Of particular significance was the experimentation in bent plywood chairs, most notably the so-called Paimio chair, which had been designed for the sitting tuberculosis patient, and the Model 60 stacking stool. The Aaltos, together with visual arts promoter Maire Gullichsen and art historian Nils-Gustav Hahl founded the Artek company in 1935, ostensibly to sell Aalto products but also other imported products.[35] He became the first furniture designer to use the cantilever principle in chair design using wood.[36]
+Whereas Aalto was famous for his architecture, his furniture designs were well thought of and are still popular today. He studied Josef Hoffmann and the Wiener Werkstätte, and for a period of time, worked under Eliel Saarinen.[33] He also gained inspiration from Gebrüder Thonet.[34] During the late 1920s and 1930s he, working closely with Aino Aalto, also focused a lot of his energy on furniture design, partly due to the decision to design much of the individual furniture pieces and lamps for the Paimio Sanatorium. Of particular significance was the experimentation in bent plywood chairs, most notably the so-called Paimio chair, which had been designed for the sitting tuberculosis patient, and the Model 60 stacking stool. The Aaltos, together with visual arts promoter Maire Gullichsen and art historian Nils-Gustav Hahl founded the Artek company in 1935, ostensibly to sell Aalto products but also other imported products.[35] He became the first furniture designer to use the cantilever principle in chair design using wood.[36]
 
 
 Awards
@@ -86,9 +86,9 @@ Aalto's 'High Stool' and 'Stool E60' (manufactured by Artek) are currently used 
 
 Significant buildings
 
-KUNSTEN_Aalborg_2006.jpg Paolo_Monti_-_Servizio_fotografico_(Vergato,_1980)_-_BEIC_6353784.jpg, Italy, designed in 1966 and built 1975-1978. Photo by Paolo Monti, 1980.]]
+, Italy, designed in 1966 and built 1975-1978. Photo by Paolo Monti, 1980.]]
 
-Aalto_table_and_chairs1.JPG Aalto_Teewagen.jpg Alvar_Alto_-_Tank_Chair_(Armchair_400).jpg fur]]
+fur]]
 
 -   1921–1923: Bell tower of Kauhajärvi Church, Lapua, Finland
 -   1924–1928: Municipal hospital, Alajärvi, Finland

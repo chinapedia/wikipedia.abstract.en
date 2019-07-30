@@ -11,7 +11,7 @@ According to the Bible, Israel's character as the chosen people is unconditional
 
     "For you are a holy people to YHWH your God, and God has chosen you to be his treasured people from all the nations that are on the face of the earth."
 
-136.The_Prophet_Amos.jpg]] The Torah also says,
+]] The Torah also says,
 
     "Now therefore, if you will obey my voice indeed, and keep my covenant, then you shall be a peculiar treasure unto me from all the peoples, for all the earth is mine" ().
 
@@ -49,7 +49,7 @@ According to the Rabbis, "Israel is of all nations the most willful or headstron
 
 How do we understand "A Gentile who consecrates his life to the study and observance of the Law ranks as high as the high priest", says R. Meïr, by deduction from Lev. xviii. 5; II Sam. vii. 19; Isa. xxvi. 2; Ps. xxxiii. 1, cxviii. 20, cxxv. 4, where all stress is laid not on Israel, but on man or the righteous one.[10]
 
-Maimonides-Statue.jpg in Córdoba, Spain]] Maimonides states: _It is now abundantly clear that the pledges Hashem made to Avraham and his descendants would be fulfilled exclusively first in Yitzchak and then in Yaakov, Yitzchak son. This is confirmed by a passage that states, "He is ever mindful of His covenant ... that He made with Avraham, swore to Yitzchak, and confirmed in a decree for Yaakov, for Yisrael, as an eternal covenant." (Tehillim 105: 8,9)._[11]
+in Córdoba, Spain]] Maimonides states: _It is now abundantly clear that the pledges Hashem made to Avraham and his descendants would be fulfilled exclusively first in Yitzchak and then in Yaakov, Yitzchak son. This is confirmed by a passage that states, "He is ever mindful of His covenant ... that He made with Avraham, swore to Yitzchak, and confirmed in a decree for Yaakov, for Yisrael, as an eternal covenant." (Tehillim 105: 8,9)._[11]
 
 The Gemara states this regarding a non-Jew who studies Torah [his 7 mitzvot] and regarding this, see Shita Mekubetzes, Bava Kama 38a who says that this is an exaggeration. In any case, this statement was not extolling the non-Jew. The Rishonim explain that it is extolling the TORAH.
 
@@ -66,7 +66,7 @@ Rabbi Lord Immanuel Jakobovits, former Chief Rabbi of the United Synagogue of Gr
 
   "Yes, I do believe that the chosen people concept as affirmed by Judaism in its holy writ, its prayers, and its millennial tradition. In fact, I believe that every people—and indeed, in a more limited way, every individual—is "chosen" or destined for some distinct purpose in advancing the designs of Providence. Only, some fulfill their mission and others do not. Maybe the Greeks were chosen for their unique contributions to art and philosophy, the Romans for their pioneering services in law and government, the British for bringing parliamentary rule into the world, and the Americans for piloting democracy in a pluralistic society. The Jews were chosen by God to be 'peculiar unto Me' as the pioneers of religion and morality; that was and is their national purpose."[16]
 
-Michael_wyschogrod_head_shot2.jpg Modern Orthodox theologian Michael Wyschogrod wrote:
+Modern Orthodox theologian Michael Wyschogrod wrote:
 
   "[T]he initial election of Abraham himself was not earned. ... We are simply told that God commanded Abraham to leave his place of birth and go to a land that God would show him. He is also promised that his descendants will become a numerous people. But nowhere does the Bible tell us why Abraham rather than someone else was chosen. The implication is that God chooses whom He wishes and that He owes no accounting to anyone for His choices."Wyschogrod, Michael. _The Body of Faith, Judaism as a Corporeal Election_.
 
@@ -79,7 +79,7 @@ Rabbi Norman Lamm, a leader of Modern Orthodox Judaism wrote:
 
 Conservative views
 
-JTSA_122_Bway_jeh.JPG, the main rabbinical seminary of Conservative Judaism]] Conservative Judaism, views the concept of chosenness in this way:
+, the main rabbinical seminary of Conservative Judaism]] Conservative Judaism, views the concept of chosenness in this way:
 
   "Few beliefs have been subject to as much misunderstanding as the 'Chosen People' doctrine. The Torah and the Prophets clearly stated that this does not imply any innate Jewish superiority. In the words of Amos (3:2) 'You alone have I singled out of all the families of the earth—that is why I will call you to account for your iniquities.' The Torah tells us that we are to be "a kingdom of priests and a holy nation" with obligations and duties which flowed from our willingness to accept this status. Far from being a license for special privilege, it entailed additional responsibilities not only toward God but to our fellow human beings. As expressed in the blessing at the reading of the Torah, our people have always felt it to be a privilege to be selected for such a purpose. For the modern traditional Jew, the doctrine of the election and the covenant of Israel offers a purpose for Jewish existence which transcends its own self interests. It suggests that because of our special history and unique heritage we are in a position to demonstrate that a people that takes seriously the idea of being covenanted with God can not only thrive in the face of oppression, but can be a source of blessing to its children and its neighbors. It obligates us to build a just and compassionate society throughout the world and especially in the land of Israel where we may teach by example what it means to be a 'covenant people, a light unto the nations.'"[18]
 
@@ -97,7 +97,7 @@ Alternative views
 
 Equality of souls
 
-Rabbi_Menachem_Mendel_Schneerson2_crop.jpg, the "Lubavitcher Rebbe"]] Many Kabbalistic sources, notably the Tanya, contain statements to the effect that the Jewish soul is qualitatively different from the non-Jewish soul. A number of known Chabad rabbis offered alternative readings of the Tanya, did not take this teaching literally, and even managed to reconcile it with the leftist ideas of internationalism and class struggle. The original text of the Tanya refers to the "idol worshippers" and does not mention the "nations of the world" at all, although such interpretation was endorsed by Menachem Mendel Schneerson and is popular in contemporary Chabad circles. Hillel of Parich, an early Tanya commentator, wrote that the souls of righteous Gentiles are more similar to the Jewish souls, and are generally good and not egoistic. This teaching was accepted by Schneerson and is considered normative in Chabad.[22]
+, the "Lubavitcher Rebbe"]] Many Kabbalistic sources, notably the Tanya, contain statements to the effect that the Jewish soul is qualitatively different from the non-Jewish soul. A number of known Chabad rabbis offered alternative readings of the Tanya, did not take this teaching literally, and even managed to reconcile it with the leftist ideas of internationalism and class struggle. The original text of the Tanya refers to the "idol worshippers" and does not mention the "nations of the world" at all, although such interpretation was endorsed by Menachem Mendel Schneerson and is popular in contemporary Chabad circles. Hillel of Parich, an early Tanya commentator, wrote that the souls of righteous Gentiles are more similar to the Jewish souls, and are generally good and not egoistic. This teaching was accepted by Schneerson and is considered normative in Chabad.[22]
 
 Different in character but not value
 
@@ -117,7 +117,7 @@ Meiri applied his idea of "spiritual Israel" to the Talmudic statements about un
 
 Spinoza
 
-Spinoza_Tractatus_Theologico-Politicus.jpg One Jewish critic of chosenness was the philosopher Baruch Spinoza.Levy,
+One Jewish critic of chosenness was the philosopher Baruch Spinoza.Levy,
 
 Zeev.  "Spinoza and the Philosophical Impossibility of a Chosen People." _My Jewish Learning_.  1993.  20 February 2018. In the third chapter of his _Theologico-Political Treatise_, Spinoza mounts an argument against a naive interpretation of God's choice of the Jews. Bringing evidence from the Bible itself, he argues that God's choice of Israel was not unique (he had chosen other nations before choosing the Hebrew nation) and that the choice of the Jews is neither inclusive (it does not include all of the Jews, but only the 'pious' ones) nor exclusive (it also includes 'true gentile prophets'). Finally, he argues that God's choice is not unconditional. Recalling the numerous times God threatened the complete destruction of the Hebrew nation, he asserts that this choice is neither absolute, nor eternal, nor necessary.
 
@@ -145,7 +145,7 @@ The children of Israel enjoy a special status in the Islamic book, the Quran (2:
 
 Christianity
 
-PaulT.jpg is no longer valid.]] Some Christians believe that the Jews were God's chosen people (),[33] but because of Jewish Rejection of Jesus, the Christians in turn received that special status ().[34] This doctrine is known as Supersessionism.
+is no longer valid.]] Some Christians believe that the Jews were God's chosen people (),[33] but because of Jewish Rejection of Jesus, the Christians in turn received that special status ().[34] This doctrine is known as Supersessionism.
 
 Other Christians, such as the Christadelphians, believe that God has not rejected Israel as his chosen people (), and that the Jews will in fact accept Jesus as their Messiah at his Second Coming, resulting in their salvation (, ).[35]
 

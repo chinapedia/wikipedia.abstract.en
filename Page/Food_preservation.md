@@ -13,7 +13,7 @@ New techniques of food preservation became available to the home chef from the d
 
 Curing
 
-Prague_powder_No_1.jpg" or "pink salt". It is typically a combination of salt and sodium nitrite, with the pink color added to distinguish it from ordinary salt.]] The earliest form of curing was dehydration or drying, used as early as 12,000 BC. Smoking and salting techniques improve on the drying process and add antimicrobial agents that aid in preservation. Smoke deposits a number of pyrolysis products onto the food, including the phenols syringol, guaiacol and catechol.[5] Salt accelerates the drying process using osmosis and also inhibits the growth of several common strains of bacteria. More recently nitrites have been used to cure meat, contributing a characteristic pink colour.[6]
+" or "pink salt". It is typically a combination of salt and sodium nitrite, with the pink color added to distinguish it from ordinary salt.]] The earliest form of curing was dehydration or drying, used as early as 12,000 BC. Smoking and salting techniques improve on the drying process and add antimicrobial agents that aid in preservation. Smoke deposits a number of pyrolysis products onto the food, including the phenols syringol, guaiacol and catechol.[5] Salt accelerates the drying process using osmosis and also inhibits the growth of several common strains of bacteria. More recently nitrites have been used to cure meat, contributing a characteristic pink colour.[6]
 
 Cooling
 
@@ -51,7 +51,7 @@ Sodium hydroxide (lye) makes food too alkaline for bacterial growth. Lye will sa
 
 Canning
 
-PreservedFood1.jpg Canning involves cooking food, sealing it in sterilized cans or jars, and boiling the containers to kill or weaken any remaining bacteria as a form of sterilization. It was invented by the French confectioner Nicolas Appert.[9] By 1806, this process was used by the French Navy to preserve meat, fruit, vegetables, and even milk. Although Appert had discovered a new way of preservation, it wasn't understood until 1864 when Louis Pasteur found the relationship between microorganisms, food spoilage, and illness.[10]
+Canning involves cooking food, sealing it in sterilized cans or jars, and boiling the containers to kill or weaken any remaining bacteria as a form of sterilization. It was invented by the French confectioner Nicolas Appert.[9] By 1806, this process was used by the French Navy to preserve meat, fruit, vegetables, and even milk. Although Appert had discovered a new way of preservation, it wasn't understood until 1864 when Louis Pasteur found the relationship between microorganisms, food spoilage, and illness.[10]
 
 Foods have varying degrees of natural protection against spoilage and may require that the final step occur in a pressure cooker. High-acid fruits like strawberries require no preservatives to can and only a short boiling cycle, whereas marginal vegetables such as carrots require longer boiling and addition of other acidic elements. Low-acid foods, such as vegetables and meats, require pressure canning. Food preserved by canning or bottling is at immediate risk of spoilage once the can or bottle has been opened.
 
@@ -142,7 +142,7 @@ High-pressure food preservation or pascalization refers to the use of a food pre
 
 Biopreservation
 
-Nisin_1WCO.png. Some lactic acid bacteria manufacture nisin. It is a particularly effective preservative.]]
+. Some lactic acid bacteria manufacture nisin. It is a particularly effective preservative.]]
 
 Biopreservation is the use of natural or controlled microbiota or antimicrobials as a way of preserving food and extending its shelf life.[32] Beneficial bacteria or the fermentation products produced by these bacteria are used in biopreservation to control spoilage and render pathogens inactive in food.[33] It is a benign ecological approach which is gaining increasing attention.[34]
 

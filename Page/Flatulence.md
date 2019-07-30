@@ -7,7 +7,7 @@ There are five general symptoms related to intestinal gas: pain, bloating and ab
 
 Terminology
 
-Fart.ogg Non-medical definitions of the term include "the uncomfortable condition of having gas in the stomach and bowels", or "a state of excessive gas in the alimentary canal". These definitions highlight that many people consider "bloating", abdominal distension or increased volume of intestinal gas, to be synonymous with the term flatulence (although this is technically inaccurate). Colloquially, flatulence may be referred to as "farting", "trumping",[8] "tooting", "passing gas", "breaking wind" or simply (in American English) "gas" or (British English) "wind". Derived terms include vaginal flatulence, otherwise known as a _queef_.
+Non-medical definitions of the term include "the uncomfortable condition of having gas in the stomach and bowels", or "a state of excessive gas in the alimentary canal". These definitions highlight that many people consider "bloating", abdominal distension or increased volume of intestinal gas, to be synonymous with the term flatulence (although this is technically inaccurate). Colloquially, flatulence may be referred to as "farting", "trumping",[8] "tooting", "passing gas", "breaking wind" or simply (in American English) "gas" or (British English) "wind". Derived terms include vaginal flatulence, otherwise known as a _queef_.
 
 
 Signs and symptoms
@@ -122,7 +122,7 @@ In January 2011, the Malawi Minister of Justice, George Chaponda, said that Air 
 
 Environmental impact
 
-Cow_female_black_white.jpg is only a small portion of cows' methane release. Cows also _burp_ methane, due to the physiology of their digestive systems.[81] ]]
+is only a small portion of cows' methane release. Cows also _burp_ methane, due to the physiology of their digestive systems.[81] ]]
 
 Flatulence is often blamed as a significant source of greenhouse gases, owing to the erroneous belief that the methane released by livestock is in the flatus.[82] While livestock account for around 20% of global methane emissions,[83] 90–95% of that is released by exhaling or burping.[84] In cows, gas and burps are produced by methane-generating microbes called methanogens, that live inside the cow's digestive system. Proposals for reducing methane production in cows include the feeding of supplements such as oregano and seaweed, and the genetic engineering of gut biome microbes to produce less methane.[85]
 

@@ -131,8 +131,6 @@ The total fertility rate is the number of children born per woman. It is based o
   --------------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ -----------
   Total Fertility Rate in Hungary   5.2    4.96   5.25   5.08   5.48   5.11   4.97   4.95   4.62   4.79
 
-Hungary_1910-2009.png
-
 
 Vital statistics from 1900
 
@@ -378,9 +376,7 @@ Demographic statistics according to the World Population Review.[135]
 -   Net loss of one person every 16 minutes
 -   One net migrant every 90 minutes
 
-Hungary_pp_1960.png Demographic statistics according to the CIA World Factbook, unless otherwise indicated.[136]
-
-Hungarypop.svg
+Demographic statistics according to the CIA World Factbook, unless otherwise indicated.[136]
 
 Population:
     9,825,704 (July 2018 est.)
@@ -518,11 +514,11 @@ History
 
 Hungary before the Treaty of Trianon (4 June 1920)
 
-Ethnographic_map_of_hungary_1910_by_teleki_carte_rouge.jpg Hungary''|language=Hungarian|url=http://www.geographic.hu/index.php?act=napi&id=1707%7Cdate=2004-02-18%7Caccessdate=2008-01-30}}[139] Ethnic map of the Hungary proper publicized by the Hungarian delegation. Regions with population density below 20 persons/km²[140] are left blank and the corresponding population is represented in the nearest region with population density above that limit.]]
+Hungary''|language=Hungarian|url=http://www.geographic.hu/index.php?act=napi&id=1707%7Cdate=2004-02-18%7Caccessdate=2008-01-30}}[139] Ethnic map of the Hungary proper publicized by the Hungarian delegation. Regions with population density below 20 persons/km²[140] are left blank and the corresponding population is represented in the nearest region with population density above that limit.]]
 
 Hungary lost 64% of its total population in consequence of the Treaty of Trianon, decreasing from 20.9 million to 7.6 million,[141] and 31% (3.3 out of 10.7 million) of its ethnic Hungarians,[142] Hungary lost five of its ten most populous cities.
 
-Magyarorszag_1920.png within Austria-Hungary and independent Hungary after the Treaty of Trianon. Based on the 1910 census. Administrative Hungary in green, autonomous Croatia-Slavonia grey.]] According to the census of 1910, the largest ethnic group in the Kingdom of Hungary were Hungarians, who were 54.5% of the population of Kingdom of Hungary, excluding Croatia-Slavonia. Although the territories of the former Kingdom of Hungary that were assigned by the treaty to neighbouring states in total had a majority of non-Hungarian population, they also included areas of Hungarian majority and significant Hungarian minorities, numbering 3,318,000 in total.
+within Austria-Hungary and independent Hungary after the Treaty of Trianon. Based on the 1910 census. Administrative Hungary in green, autonomous Croatia-Slavonia grey.]] According to the census of 1910, the largest ethnic group in the Kingdom of Hungary were Hungarians, who were 54.5% of the population of Kingdom of Hungary, excluding Croatia-Slavonia. Although the territories of the former Kingdom of Hungary that were assigned by the treaty to neighbouring states in total had a majority of non-Hungarian population, they also included areas of Hungarian majority and significant Hungarian minorities, numbering 3,318,000 in total.
 
 The number of Hungarians in the different areas based on census data of 1910 (This census was recorded by language, thus amongst Hungarians also others - mainly Jews - were included who declared their primary language as Hungarian). The present day location of each area is given in parenthesis.
 
@@ -583,8 +579,6 @@ The number of bilingual people was much higher, for example 1,398,729 people spo
 Note: 300.000 Hungarian refugees fled to Hungary from the territory of successor states (Romania, Czechoslovakia and Yugoslavia) after the WW I.[146]
 
 From 1938 to 1945
-
-Hungary_1941_ethnic.svg
 
 Hungary expanded its borders and regained territories from Czechoslovakia, Romania and Yugoslavia at the outset of the war. These annexations were affirmed under the Munich Agreement (1938), two Vienna Awards (1938 and 1940), Carpathian Ruthenia and parts of Yugoslavia were occupied and annexed in 1939 and 1941, respectively. The population of Northern Transylvania, according to the Hungarian census from 1941 counted 53.5% Hungarians and 39.1% Romanians.[147] The territory of Bácska had 789,705 inhabitants, and 45,4% or 47,2% declared themselves to be Hungarian native speakers or ethnic Hungarians.[148] The percentage of Hungarian speakers was 84% in southern Czechoslovakia and 25% in the Sub-Carpathian Rus.[149]
 
@@ -755,11 +749,11 @@ For historical reasons, significant Hungarian minority populations can be found 
 
 Historical ethnic groups of Hungary
 
-Hungarians_in_subregions.png National_minorities_in_Hungary.PNG When the Hungarians invaded the Carpathian Basin, it was inhabited by West Slavic and Avar peoples. Written sources from the 9th century also suggest that some groups of Onogurs and Bulgars occupied the valley of the river Mureş at the time of the Magyars’ invasion. There is a dispute as to whether Romanian population existed in Transylvania during that time.
+When the Hungarians invaded the Carpathian Basin, it was inhabited by West Slavic and Avar peoples. Written sources from the 9th century also suggest that some groups of Onogurs and Bulgars occupied the valley of the river Mureş at the time of the Magyars’ invasion. There is a dispute as to whether Romanian population existed in Transylvania during that time.
 
 The Roma minority
 
-Population_pyramid_of_Budapest.png (99.2% non-Romany inhabitants), see: Demographics of Budapest]] Population_pyramid_of_Alsószentmárton.png (100% Romany inhabitants)]] The first Romani groups arrived in Hungary in the fifteenth century from Turkey.[160] Nowadays, the real number of Roma in Hungary is a disputed question.
+(99.2% non-Romany inhabitants), see: Demographics of Budapest]] (100% Romany inhabitants)]] The first Romani groups arrived in Hungary in the fifteenth century from Turkey.[160] Nowadays, the real number of Roma in Hungary is a disputed question.
 
 In the 2001 census only 190 046 (2%) called themselves Roma, but experts and Roma organisations estimate that there are between 450,000 and 1,000,000 Roma living in Hungary.[161][162][163][164][165] Since then, the size of the Roma population has increased rapidly. Today every fifth or sixth newborn child belongs to the Roma minority.[166] Based on current demographic trends, a 2006 estimate by Central European Management Intelligence claims that the proportion of the Roma population will double by 2050, putting the percentage of its Roma community at around 14-15% of the country's population.[167]
 
@@ -869,7 +863,7 @@ Religion
 
   : Religious affiliation in Hungary (2011)[198]
 
-Golgota,_Tata.JPG, Komárom-Esztergom]] Hungary_2011_Religion_2.PNG
+, Komárom-Esztergom]]
 
 The majority of Hungarians became Christian in the 11th century. Hungary remained predominantly Catholic until the 16th century, when the Reformation took place and, as a result, first Lutheranism, then soon afterwards Calvinism, became the religion of almost the entire population. In the second half of the 16th century, however, Jesuits led a successful campaign of counterreformation among the Hungarians, although Protestantism survived as the faith of a significant minority, especially in the far east and northeast of the country. Orthodox Christianity in Hungary has been the religion mainly of some national minorities in the country, notably Romanians, Rusyns, Ukrainians, and Serbs.
 
@@ -880,17 +874,17 @@ According to 2011 census data, Christianity is the largest religion in Hungary, 
 
 Largest cities
 
-  Name                                         Population (1949)   Population (1990)   Population (2011)   Agglomeration      Status
-  -------------------------------------------- ------------------- ------------------- ------------------- ------------------ --------------------------------------------
-  Coa_Hungary_Town_Budapest_big.svg Budapest   1,590,316           2,016,681           1,733,685           2,503,105 (2009)   Capital city
-  Coa_Hungary_Town_Debrecen.svg Debrecen       115,399             212,235             208,016             237,888 (2005)     Regional centre, county seat, urban county
-  Szeged_COA.png Szeged                        104,867             169,930             170,285             201,307 (2005)     Regional centre, county seat, urban county
-  HUN_Miskolc_COA.jpg Miskolc                  109,841             196,442             168,275             216,470 (2005)     Regional centre, county seat, urban county
-  Pecs,_COA.jpg Pécs                           89,470              170,039             157,721             179,215 (2005)     Regional centre, county seat, urban county
-  HUN_Győr_COA.jpg Győr                        69,583              129,331             131,267             182,776 (2005)     Regional centre, county seat, urban county
-  HUN_Nyíregyháza_COA.jpg Nyíregyháza          56,334              114,152             117,852             -                  County seat, urban county
-  Coa_Hungary_Town_Kecskemét.svg Kecskemét     61,730              102,516             113,275             -                  County seat, urban county
-  HUN_Székesfehérvár_COA.jpg Székesfehérvár    42,260              108,958             101,943             -                  Regional centre, county seat, urban county
+  Name             Population (1949)   Population (1990)   Population (2011)   Agglomeration      Status
+  ---------------- ------------------- ------------------- ------------------- ------------------ --------------------------------------------
+  Budapest         1,590,316           2,016,681           1,733,685           2,503,105 (2009)   Capital city
+  Debrecen         115,399             212,235             208,016             237,888 (2005)     Regional centre, county seat, urban county
+  Szeged           104,867             169,930             170,285             201,307 (2005)     Regional centre, county seat, urban county
+  Miskolc          109,841             196,442             168,275             216,470 (2005)     Regional centre, county seat, urban county
+  Pécs             89,470              170,039             157,721             179,215 (2005)     Regional centre, county seat, urban county
+  Győr             69,583              129,331             131,267             182,776 (2005)     Regional centre, county seat, urban county
+  Nyíregyháza      56,334              114,152             117,852             -                  County seat, urban county
+  Kecskemét        61,730              102,516             113,275             -                  County seat, urban county
+  Székesfehérvár   42,260              108,958             101,943             -                  Regional centre, county seat, urban county
 
 
 See also

@@ -12,7 +12,7 @@ Unlike most islands in the Indonesian archipelago, the name _Flores_ was given b
 
 History
 
-COLLECTIE_TROPENMUSEUM_Bewoner_uit_Ende_op_Flores_staat_klaar_voor_de_jacht_of_de_strijd_TMnr_60028899.jpg, Flores.]]
+, Flores.]]
 
 Portuguese traders and missionaries came to Flores in the 16th century, mainly to Larantuka and Sikka. Their influence is still discernible in Sikka's language, culture and religion. The first Portuguese visit took place in 1511, through the expedition of António de Abreu and his vice-captain Francisco Serrão, en route through the Sunda islands.
 
@@ -67,7 +67,7 @@ Main Cities in Flores are Labuan Bajo, Ruteng, Bajawa, Ende, Maumere and Larantu
 
 Flora and fauna
 
-Dermoplastie_de_la_Femme_de_Florès_par_Elisabeth_Daynès,_2007.jpg'']] The west coast of Flores is one of the few places, aside from the island of Komodo itself, where the Komodo dragon can be found in the wild, and is part of Komodo National Park, a UNESCO World Heritage Site. Kelimutu National Park is the second national park designated on Flores to protect endangered species. The Flores giant rat is also endemic to the island, and Verhoeven's giant tree rat was formerly present. These giant rodents are considered examples of island gigantism.
+'']] The west coast of Flores is one of the few places, aside from the island of Komodo itself, where the Komodo dragon can be found in the wild, and is part of Komodo National Park, a UNESCO World Heritage Site. Kelimutu National Park is the second national park designated on Flores to protect endangered species. The Flores giant rat is also endemic to the island, and Verhoeven's giant tree rat was formerly present. These giant rodents are considered examples of island gigantism.
 
 Flores was also the habitat of several extinct dwarf forms of the proboscidean _Stegodon_, the most recent (_Stegodon florensis insularis_) disappearing approximately 12,000 years ago[8] and the diminutive _Homo floresiensis_. It is speculated by scientists that limited resources and an absence of advanced predators made the few megafaunal species that reached the island subject to insular dwarfism.[9]
 
@@ -82,14 +82,14 @@ This hominin had originally been considered to be remarkable for its survival un
 
 Culture
 
-LabuhanBajoChurch.JPG FloresFishingBoat.jpg on Flores]] There are many languages spoken on the island of Flores, all of them belonging to the Austronesian family. In the centre of the island in the districts of Ngada, Nagekeo, and Ende there is what is variously called the Central Flores Dialect Chain or the Central Flores Linkage. Within this area there are slight linguistic differences in almost every village. At least six separate languages are identifiable. These are from west to east: Ngadha, Nage, Keo, Ende, Lio and Palu'e, which is spoken on the island with the same name of the north coast of Flores. Locals would probably also add So'a and Bajawa to this list, which anthropologists have labeled dialects of Ngadha.
+on Flores]] There are many languages spoken on the island of Flores, all of them belonging to the Austronesian family. In the centre of the island in the districts of Ngada, Nagekeo, and Ende there is what is variously called the Central Flores Dialect Chain or the Central Flores Linkage. Within this area there are slight linguistic differences in almost every village. At least six separate languages are identifiable. These are from west to east: Ngadha, Nage, Keo, Ende, Lio and Palu'e, which is spoken on the island with the same name of the north coast of Flores. Locals would probably also add So'a and Bajawa to this list, which anthropologists have labeled dialects of Ngadha.
 
-Jesus_Statue_Maumere.jpg]] The peoples of Flores are almost entirely Roman Catholic Christians, whereas most other Indonesians are Muslim. As a consequence, Flores may be regarded as surrounded by a religious border. The prominence of Catholicism on the island results from its colonisation by Portugal. In other parts of Indonesia with significant Christian populations, such as the Maluku Islands and Sulawesi, the geographical divide is less rigid and Muslims and Christians sometimes live side by side. Flores thereby also has less religious violence that has sporadically occurred in other parts of Indonesia. There are several churches on the island. On May 26, 2019, Flores' St. Paul Catholic University of Indonesia was formally inaugurated by Indonesian Education Minister Mohamad Nasir, becoming the first Catholic University in Indonesia.[13]
+]] The peoples of Flores are almost entirely Roman Catholic Christians, whereas most other Indonesians are Muslim. As a consequence, Flores may be regarded as surrounded by a religious border. The prominence of Catholicism on the island results from its colonisation by Portugal. In other parts of Indonesia with significant Christian populations, such as the Maluku Islands and Sulawesi, the geographical divide is less rigid and Muslims and Christians sometimes live side by side. Flores thereby also has less religious violence that has sporadically occurred in other parts of Indonesia. There are several churches on the island. On May 26, 2019, Flores' St. Paul Catholic University of Indonesia was formally inaugurated by Indonesian Education Minister Mohamad Nasir, becoming the first Catholic University in Indonesia.[13]
 
 
 Tourism
 
-BenaVillage.jpg LabuhanBajoHarbour.JPG The most famous tourist attraction in Flores is the Kelimutu volcano which containing three colored lakes, located in the district of Ende close to the town of Moni, although there is also the Inierie volcano near Bajawa. These crater lakes are in the caldera of a volcano, and fed by a volcanic gas source, resulting in highly acidic water. The colored lakes change colors on an irregular basis, depending on the oxidation state of the lake[14] from bright red through green and blue.
+The most famous tourist attraction in Flores is the Kelimutu volcano which containing three colored lakes, located in the district of Ende close to the town of Moni, although there is also the Inierie volcano near Bajawa. These crater lakes are in the caldera of a volcano, and fed by a volcanic gas source, resulting in highly acidic water. The colored lakes change colors on an irregular basis, depending on the oxidation state of the lake[14] from bright red through green and blue.
 
 There are snorkelling and diving locations along the north coast of Flores, most notably Maumere and Riung. However, due to the destructive practice of local fishermen using bombs to fish, and locals selling shells to tourists, combined with the after effects of a devastating tsunami in 1992, the reefs have slowly been destroyed.
 

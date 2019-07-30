@@ -16,7 +16,7 @@ Article 8 provides nationals with the right to renounce their nationality, provi
 
 Status
 
-European_Convention_on_Nationality_status.svg that:|#0000FF|Ratified |#00ff00|Signed not ratified |#ff0000|Not signed |#c0c0c0|Non members of the Council of Europe }}]] As at 6 March 2014, the following countries have signed or ratified the Convention:[3]
+that:|#0000FF|Ratified |#00ff00|Signed not ratified |#ff0000|Not signed |#c0c0c0|Non members of the Council of Europe }}]] As at 6 March 2014, the following countries have signed or ratified the Convention:[3]
 
 +-----------+--------+----------+----------+
 | Signatory | Signed | Ratified | In force |

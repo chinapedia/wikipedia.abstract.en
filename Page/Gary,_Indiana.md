@@ -9,7 +9,7 @@ History
 
 Founding and early years
 
-GaryIndiana-FifthAve-Broadway-1909-SS_(S_Shook_CollectionO.jpg Gary, Indiana, was founded in 1906 by the United States Steel Corporation as the home for its new plant, Gary Works. The city was named after lawyer Elbert Henry Gary, who was the founding chairman of the United States Steel Corporation.
+Gary, Indiana, was founded in 1906 by the United States Steel Corporation as the home for its new plant, Gary Works. The city was named after lawyer Elbert Henry Gary, who was the founding chairman of the United States Steel Corporation.
 
 Gary was the site of civil unrest in the steel strike of 1919. On October 4, 1919, a riot broke out on Broadway, the main north-south street through downtown Gary, between striking steel workers and strike breakers brought in from outside. Three days later, Indiana governor James P. Goodrich declared martial law. Shortly thereafter, over 4,000 federal troops under the command of Major General Leonard Wood arrived to restore order.[6]
 
@@ -17,7 +17,7 @@ The jobs offered by the steel industry provided Gary with very rapid growth and 
 
 Post-World War II
 
-U.S._STEEL_PLANT_-_NARA_-_547097_(retouched).jpg's Gary Works in 1973]] Gary's fortunes have risen and fallen with those of the steel industry. The growth of the steel industry brought prosperity to the community. Broadway was known as a commercial center for the region. Department stores and architecturally significant movie houses were built in the downtown area and the Glen Park neighborhood.
+'s Gary Works in 1973]] Gary's fortunes have risen and fallen with those of the steel industry. The growth of the steel industry brought prosperity to the community. Broadway was known as a commercial center for the region. Department stores and architecturally significant movie houses were built in the downtown area and the Glen Park neighborhood.
 
 In the 1960s, like many other American urban centers reliant on one particular industry, Gary entered a spiral of decline. Gary's decline was brought on by the growing overseas competitiveness in the steel industry, which had caused U.S. Steel to lay off many workers from the Gary area. The U.S. Steel Gary Works employed over 30,000 in 1970, declined to just 6,000 by 1990, and further declined to 5,100 in August 2015. Attempts to shore up the city's economy with major construction projects, such as a Holiday Inn hotel and the Genesis Convention Center, failed to reverse the decline.[7][8]
 
@@ -67,7 +67,7 @@ The following single properties and national historic districts are listed on th
 
 Neighborhoods
 
-Lake_County_Superior_Court,_Gary,_Indiana,_2009.jpg Superior Court Building]] Gary_City_Hall,_2009.jpg US-IN-Gary-Neighborhoods.png Downtown_Looking_North.jpg
+Superior Court Building]]
 
 Downtown Gary
 
@@ -83,7 +83,7 @@ West
 
 Ambridge Mann is a neighborhood located on Gary's near west side along 5th Avenue. Ambridge was developed for workers at the nearby steel plant in the 1910s and 1920s. It is named after the American Bridge Works, which was a subsidiary of U.S. Steel. The neighborhood is home to a huge stock of prairie-style and art deco homes. The Gary Masonic Temple is located in the neighborhood, along with the Ambassador apartment building. Located just south of Interstate 90, the neighborhood can be seen while passing Buchanan Street.
 
-Gary_Centennial_Landmark.jpg Brunswick is located on Gary's far west side. The neighborhood is located just south of Interstate 90 and can also be seen from the expressway. The Brunswick area includes the Tri-City Plaza shopping center on West 5th Avenue (U.S. 20). The area is south of the Gary Chicago International Airport.
+Brunswick is located on Gary's far west side. The neighborhood is located just south of Interstate 90 and can also be seen from the expressway. The Brunswick area includes the Tri-City Plaza shopping center on West 5th Avenue (U.S. 20). The area is south of the Gary Chicago International Airport.
 
 Downtown West is located in north-central Gary on the west side of Broadway just south of Interstate 90. The Genesis Convention Center, the Gary Police Department, the Lake Superior Court House, and the Main Branch of the Gary Public Library are located along 5th Avenue. A new 123-unit mixed-income apartment development was built using a HUD Hope VI grant in 2006. The Adam Benjamin Metro Center is located just north of 4th Avenue. It is operated by the Gary Public Transportation Corporation and serves as a multi-modal hub. It serves both as the Downtown Gary South Shore train station and an intercity bus stop.
 
@@ -99,7 +99,7 @@ Midtown is located south of Downtown Gary, along Broadway. In the pre-1960s days
 
 North and East
 
-Gary_Indiana_P9190219_Miller_School_(Dist_8).JPG Wells_Street_Beach_Miller_Beach.JPG Aetna is located on Gary's far east side along the Dunes Highway. Aetna predates the city of Gary. This company town was founded in 1881 by the Aetna Powder Works, an explosives company. Their factory closed after the end of World War I.
+Aetna is located on Gary's far east side along the Dunes Highway. Aetna predates the city of Gary. This company town was founded in 1881 by the Aetna Powder Works, an explosives company. Their factory closed after the end of World War I.
 
 The Town of Aetna was annexed by Gary in 1928, around the same time that the city annexed the Town of Miller. In the late 1920s and early 1930s, Gary's prosperous industries helped generate residential and other development in Aetna, resulting in an impressive collection of art deco architecture. The rest of the community was built after World War II and the Korean War in the 1950s, in a series of phases. On its south and east, Aetna borders the undeveloped floodplain of the Little Calumet River.
 
@@ -152,8 +152,6 @@ Arts and culture
 
 Arts and film
 
-Budding_Film_Industry_in_Gary,_Indiana.jpg
-
 Meredith Willson's 1957 Broadway musical _The Music Man_ featured the song "Gary, Indiana", in which lead character (and con man) Professor Harold Hill wistfully recalls his purported hometown, then prosperous. Hill claims to be an alumnus of "Gary Conservatory of Music, Class of '05," but this is later revealed to be another of his lies. The City of Gary was not founded until 1906. Willson's musical, set in 1912, was adapted both as a film of the same name released in 1962, and as a television film, produced in 2003.
 
 The 1996 urban movie _Original Gangstas_ was filmed in the city. The movie starred Gary native Fred Williamson, Pam Grier, Jim Brown, Richard Roundtree, and Isabel Sanford, among others. Since the early 2000s, Gary has been the setting for numerous films made by Hollywood filmmakers. In 2009, scenes for the remake of _A Nightmare on Elm Street_ were filmed in Gary.[26] Scenes from _Transformers: Dark of the Moon_ wrapped up filming on August 16, 2010.[27]
@@ -166,14 +164,14 @@ File:St. Augustine's Episcopal Church.jpg|St. Augustine's Episcopal Church File:
 
 Public libraries
 
-Gary_Indiana_Dntwn_Library_P1010060.jpg The Gary Public Library System consists of the main library at 220 West 5th Avenue and several branches: Brunswick Branch, W. E. B. DuBois Branch, J. F. Kennedy Branch, Tolleston Branch, and Woodson Branch.[29] In March 2011, the Gary Library Board voted to close the main library on 5th Avenue and the Tolleston branch in what officials said was their best economic option. The main library closed at the end of 2011. The building now houses a museum.[30]
+The Gary Public Library System consists of the main library at 220 West 5th Avenue and several branches: Brunswick Branch, W. E. B. DuBois Branch, J. F. Kennedy Branch, Tolleston Branch, and Woodson Branch.[29] In March 2011, the Gary Library Board voted to close the main library on 5th Avenue and the Tolleston branch in what officials said was their best economic option. The main library closed at the end of 2011. The building now houses a museum.[30]
 
 Lake County Public Library operates the Black Oak Branch at 5921 West 25th Avenue in the Gary city limits.[31] In addition, Indiana University Northwest operates the John W. Anderson Library on its campus.[32]
 
 
 Sports
 
-Gary_Steelyard.jpg, home of the Gary SouthShore RailCats]] The following sports franchises are based in Gary:
+, home of the Gary SouthShore RailCats]] The following sports franchises are based in Gary:
 
 -   The Gary SouthShore RailCats are an American Association, professional baseball team. The team plays in Gary's U.S. Steel Yard baseball stadium. The RailCats played in the Northern League from 2002 until 2010. They now play in the modern American Association. The team won league championships in 2005, 2007, and 2013.[33][34]
 -   Gary has hosted two professional basketball franchises. The Gary Splash played in the International Basketball League from 2010 to 2013, at the Genesis Convention Center. Previously, the Gary Steelheads played in the Genesis Convention Center as part of the IBL (1999-2001), CBA, USBL, and IBL.
@@ -235,7 +233,7 @@ Gary is served by the Gary Police Department and the Lake County Sheriff.
 
 Fire department
 
-Garys_Fire_fighters_1914.jpg The Gary Fire Department (GFD) provides fire protection and emergency medical services to the city of Gary.[35]
+The Gary Fire Department (GFD) provides fire protection and emergency medical services to the city of Gary.[35]
 
 
 Transportation
@@ -250,7 +248,7 @@ Notable people
 
 The Jacksons
 
-2300_Jackson_Street.jpg's childhood home in Gary, Indiana, shortly after the singer's death in 2009]] Gary is the hometown of The Jackson 5, a family of musicians who influenced the sound of modern popular music. In 1950, Joseph and Katherine Jackson moved from East Chicago, Indiana[38] into their two-bedroom house at 2300 Jackson Street. They had married on November 5, 1949. Their entertainer children later recorded a song entitled "2300 Jackson Street" (1989). The Jackson children include:
+'s childhood home in Gary, Indiana, shortly after the singer's death in 2009]] Gary is the hometown of The Jackson 5, a family of musicians who influenced the sound of modern popular music. In 1950, Joseph and Katherine Jackson moved from East Chicago, Indiana[38] into their two-bedroom house at 2300 Jackson Street. They had married on November 5, 1949. Their entertainer children later recorded a song entitled "2300 Jackson Street" (1989). The Jackson children include:
 
 -   Maureen Reillette "Rebbie" Jackson (born May 29, 1950)
 -   Sigmund Esco "Jackie" Jackson (born May 4, 1951)
@@ -264,7 +262,7 @@ The Jacksons
 
 Other notable people
 
-Frank_Borman.jpg, former astronaut for NASA and a retired United States Air Force Colonel]]
+, former astronaut for NASA and a retired United States Air Force Colonel]]
 
 -   Charles Adkins (1932-1993), boxer, gold medalist at 1952 Helsinki Olympics
 -   Forddy Anderson, basketball coach, Michigan State, Drake and Bradley

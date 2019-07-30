@@ -35,7 +35,7 @@ Arts and entertainment
 
 In business
 
--   CE marking (stylized Conformité_Européenne_(logo).svg), a mandatory conformity marking for certain products sold within the European Economic Area; not to be confused with "China Export"
+-   CE marking (stylized ), a mandatory conformity marking for certain products sold within the European Economic Area; not to be confused with "China Export"
 -   Customer equity, the total combined customer lifetime values of all of the company’s customers
 -   Combustion Engineering, a former American manufacturer of power systems
 -   Nationwide Airlines (South Africa) (IATA airline designator CE)

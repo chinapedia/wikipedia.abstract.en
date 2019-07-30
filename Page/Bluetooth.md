@@ -16,7 +16,7 @@ The idea of this name was proposed in 1997 by Jim Kardach of Intel who developed
 
 Logo
 
-The Bluetooth logo Bluetooth.svg is a bind rune merging the Younger Futhark runes Runic_letter_ior.svg (ᚼ, Hagall) and Runic_letter_berkanan.svg (ᛒ, Bjarkan), Harald's initials.[9][10]
+The Bluetooth logo is a bind rune merging the Younger Futhark runes  (ᚼ, Hagall) and  (ᛒ, Bjarkan), Harald's initials.[9][10]
 
 
 Implementation
@@ -76,7 +76,7 @@ To use Bluetooth wireless technology, a device must be able to interpret certain
 
 List of applications
 
-Bluetooth_headset.jpg]]
+]]
 
 -   Wireless control and communication between a mobile phone and a handsfree headset. This was one of the earliest applications to become popular.[27]
 -   Wireless control of and communication between a mobile phone and a Bluetooth compatible car stereo system.
@@ -111,14 +111,14 @@ Wi-Fi and Bluetooth are to some extent complementary in their applications and u
 
 Devices
 
-Drone_4.jpg dongle with a 100 m range.]] Bluetooth exists in numerous products such as telephones, speakers, tablets, media players, robotics systems, laptops, and console gaming equipment as well as some high definition headsets, modems, hearing aids[39] and even watches.[40] Given the variety of devices which use the Bluetooth, coupled with the contemporary deprecation of headphone jacks by Apple, Google, and other companies, and the lack of regulation by the FCC, the technology is prone to interference.[41] Nonetheless Bluetooth is useful when transferring information between two or more devices that are near each other in low-bandwidth situations. Bluetooth is commonly used to transfer sound data with telephones (i.e., with a Bluetooth headset) or byte data with hand-held computers (transferring files).
+dongle with a 100 m range.]] Bluetooth exists in numerous products such as telephones, speakers, tablets, media players, robotics systems, laptops, and console gaming equipment as well as some high definition headsets, modems, hearing aids[39] and even watches.[40] Given the variety of devices which use the Bluetooth, coupled with the contemporary deprecation of headphone jacks by Apple, Google, and other companies, and the lack of regulation by the FCC, the technology is prone to interference.[41] Nonetheless Bluetooth is useful when transferring information between two or more devices that are near each other in low-bandwidth situations. Bluetooth is commonly used to transfer sound data with telephones (i.e., with a Bluetooth headset) or byte data with hand-held computers (transferring files).
 
 Bluetooth protocols simplify the discovery and setup of services between devices.[42] Bluetooth devices can advertise all of the services they provide.[43] This makes using services easier, because more of the security, network address and permission configuration can be automated than with many other network types.[44]
 
 
 Computer requirements
 
-BluetoothUSB.jpg dongle.]] DELL_TrueMobile_350_Bluetooth_card.jpg
+dongle.]]
 
 A personal computer that does not have embedded Bluetooth can use a Bluetooth adapter that enables the PC to communicate with Bluetooth devices. While some desktop computers and most recent laptops come with a built-in Bluetooth radio, others require an external adapter, typically in the form of a small USB "dongle."
 
@@ -327,8 +327,6 @@ Hardware
 The hardware that makes up the Bluetooth device is made up of, logically, two parts; which may or may not be physically separate. A radio device, responsible for modulating and transmitting the signal; and a digital controller. The digital controller is likely a CPU, one of whose functions is to run a Link Controller; and interfaces with the host device; but some functions may be delegated to hardware. The Link Controller is responsible for the processing of the baseband and the management of ARQ and physical layer FEC protocols. In addition, it handles the transfer functions (both asynchronous and synchronous), audio coding and data encryption. The CPU of the device is responsible for attending the instructions related to Bluetooth of the host device, in order to simplify its operation. To do this, the CPU runs software called Link Manager that has the function of communicating with other devices through the LMP protocol.
 
 Bluetooth protocol stack
-
-Bluetooth_protokoly.svg
 
 Bluetooth is defined as a layer protocol architecture consisting of core protocols, cable replacement protocols, telephony control protocols, and adopted protocols.[106] Mandatory protocols for all Bluetooth stacks are LMP, L2CAP and SDP. In addition, devices that communicate with Bluetooth almost universally can use these protocols: HCI and RFCOMM.
 

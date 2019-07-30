@@ -1,4 +1,4 @@
-(253)_mathilde.jpg, a C-type asteroid measuring about across, covered in craters half that size. Photograph taken in 1997 by the _NEAR Shoemaker_ probe.]] PIA21597_-_New_Radar_Images_of_Asteroid_2014_JO25_(cropped).gif imaged by radar during its 2017 Earth flyby]] Asteroid_Belt.svg ASTEROIDS are minor planets, especially of the inner Solar System. Larger asteroids have also been called PLANETOIDS. These terms have historically been applied to any astronomical object orbiting the Sun that did not resemble a planet-like disc and was not observed to have characteristics of an active comet such as a tail. As minor planets in the outer Solar System were discovered they were typically found to have volatile-rich surfaces similar to comets. As a result, they were often distinguished from objects found in the main asteroid belt.[1] In this article, the term "asteroid" refers to the minor planets of the inner Solar System including those co-orbital with Jupiter.
+, a C-type asteroid measuring about across, covered in craters half that size. Photograph taken in 1997 by the _NEAR Shoemaker_ probe.]] imaged by radar during its 2017 Earth flyby]] ASTEROIDS are minor planets, especially of the inner Solar System. Larger asteroids have also been called PLANETOIDS. These terms have historically been applied to any astronomical object orbiting the Sun that did not resemble a planet-like disc and was not observed to have characteristics of an active comet such as a tail. As minor planets in the outer Solar System were discovered they were typically found to have volatile-rich surfaces similar to comets. As a result, they were often distinguished from objects found in the main asteroid belt.[1] In this article, the term "asteroid" refers to the minor planets of the inner Solar System including those co-orbital with Jupiter.
 
 There exist millions of asteroids, many thought to be the shattered remnants of planetesimals, bodies within the young Sun's solar nebula that never grew large enough to become planets.[2] The vast majority of known asteroids orbit within the main asteroid belt located between the orbits of Mars and Jupiter, or are co-orbital with Jupiter (the Jupiter trojans). However, other orbital families exist with significant populations, including the near-Earth objects. Individual asteroids are classified by their characteristic spectra, with the majority falling into three main groups: C-type, M-type, and S-type. These were named after and are generally identified with carbon-rich, metallic, and silicate (stony) compositions, respectively. The sizes of asteroids varies greatly; the largest, Ceres, is almost across.
 
@@ -13,7 +13,7 @@ In April 2018, the B612 Foundation reported "It's 100 percent certain we'll be h
 
 Discovery
 
-Moon_and_Asteroids_1_to_10.svg 243_ida.jpg and its moon Dactyl. Dactyl is the first satellite of an asteroid to be discovered.]] The first asteroid to be discovered, Ceres, was originally considered to be a new planet.[21] This was followed by the discovery of other similar bodies, which, with the equipment of the time, appeared to be points of light, like stars, showing little or no planetary disc, though readily distinguishable from stars due to their apparent motions. This prompted the astronomer Sir William Herschel to propose the term "asteroid", coined in Greek as ἀστεροειδής, or _asteroeidēs_, meaning 'star-like, star-shaped', and derived from the Ancient Greek _astēr_ 'star, planet'. In the early second half of the nineteenth century, the terms "asteroid" and "planet" (not always qualified as "minor") were still used interchangeably. [22]
+and its moon Dactyl. Dactyl is the first satellite of an asteroid to be discovered.]] The first asteroid to be discovered, Ceres, was originally considered to be a new planet.[21] This was followed by the discovery of other similar bodies, which, with the equipment of the time, appeared to be points of light, like stars, showing little or no planetary disc, though readily distinguishable from stars due to their apparent motions. This prompted the astronomer Sir William Herschel to propose the term "asteroid", coined in Greek as ἀστεροειδής, or _asteroeidēs_, meaning 'star-like, star-shaped', and derived from the Ancient Greek _astēr_ 'star, planet'. In the early second half of the nineteenth century, the terms "asteroid" and "planet" (not always qualified as "minor") were still used interchangeably. [22]
 
 Overview of discovery timeline:[23]
 
@@ -39,7 +39,7 @@ Historical methods
 
 Asteroid discovery methods have dramatically improved over the past two centuries.
 
-In the last years of the 18th century, Baron Franz Xaver von Zach organized a group of 24 astronomers to search the sky for the missing planet predicted at about 2.8 AU from the Sun by the Titius-Bode law, partly because of the discovery, by Sir William Herschel in 1781, of the planet Uranus at the distance predicted by the law.[30] This task required that hand-drawn sky charts be prepared for all stars in the zodiacal band down to an agreed-upon limit of faintness. On subsequent nights, the sky would be charted again and any moving object would, hopefully, be spotted. The expected motion of the missing planet was about 30 seconds of arc per hour, readily discernible by observers. PIA17937-MarsCuriosityRover-FirstAsteroidImage-20140420.jpg and Vesta) from Mars – viewed by _Curiosity_ (20 April 2014).]] The first object, Ceres, was not discovered by a member of the group, but rather by accident in 1801 by Giuseppe Piazzi, director of the observatory of Palermo in Sicily. He discovered a new star-like object in Taurus and followed the displacement of this object during several nights. Later that year, Carl Friedrich Gauss used these observations to calculate the orbit of this unknown object, which was found to be between the planets Mars and Jupiter. Piazzi named it after Ceres, the Roman goddess of agriculture.[31]
+In the last years of the 18th century, Baron Franz Xaver von Zach organized a group of 24 astronomers to search the sky for the missing planet predicted at about 2.8 AU from the Sun by the Titius-Bode law, partly because of the discovery, by Sir William Herschel in 1781, of the planet Uranus at the distance predicted by the law.[30] This task required that hand-drawn sky charts be prepared for all stars in the zodiacal band down to an agreed-upon limit of faintness. On subsequent nights, the sky would be charted again and any moving object would, hopefully, be spotted. The expected motion of the missing planet was about 30 seconds of arc per hour, readily discernible by observers. and Vesta) from Mars – viewed by _Curiosity_ (20 April 2014).]] The first object, Ceres, was not discovered by a member of the group, but rather by accident in 1801 by Giuseppe Piazzi, director of the observatory of Palermo in Sicily. He discovered a new star-like object in Taurus and followed the displacement of this object during several nights. Later that year, Carl Friedrich Gauss used these observations to calculate the orbit of this unknown object, which was found to be between the planets Mars and Jupiter. Piazzi named it after Ceres, the Roman goddess of agriculture.[31]
 
 Three other asteroids (2 Pallas, 3 Juno, and 4 Vesta) were discovered over the next few years, with Vesta found in 1807. After eight more years of fruitless searches, most astronomers assumed that there were no more and abandoned any further searches.
 
@@ -57,7 +57,7 @@ The last step of discovery is to send the locations and time of observations to 
 
 Computerized methods
 
-framed is the center dot being followed by the sequence; the object that flashes by during the clip is an artificial satellite.]] Known_NEAs.png There is increasing interest in identifying asteroids whose orbits cross Earth's, and that could, given enough time, collide with Earth _(see Earth-crosser asteroids)_. The three most important groups of near-Earth asteroids are the Apollos, Amors, and Atens. Various asteroid deflection strategies have been proposed, as early as the 1960s .
+framed is the center dot being followed by the sequence; the object that flashes by during the clip is an artificial satellite.]] There is increasing interest in identifying asteroids whose orbits cross Earth's, and that could, given enough time, collide with Earth _(see Earth-crosser asteroids)_. The three most important groups of near-Earth asteroids are the Apollos, Amors, and Atens. Various asteroid deflection strategies have been proposed, as early as the 1960s .
 
 The near-Earth asteroid 433 Eros had been discovered as long ago as 1898, and the 1930s brought a flurry of similar objects. In order of discovery, these were: 1221 Amor, 1862 Apollo, 2101 Adonis, and finally 69230 Hermes, which approached within 0.005 AU of Earth in 1937. Astronomers began to realize the possibilities of Earth impact.
 
@@ -82,7 +82,7 @@ All these considerations helped spur the launch of highly efficient surveys that
 
 Terminology
 
-Euler_diagram_of_solar_system_bodies.svg showing the types of bodies in the Solar System. (see Small Solar System body)]] Traditionally, small bodies orbiting the Sun were classified as comets, asteroids, or meteoroids, with anything smaller than one meter across being called a meteoroid. Beech and Steel's 1995 paper proposed a meteoroid definition including size limits.[42][43] The term "asteroid", from the Greek word for "star-like", never had a formal definition, with the broader term minor planet being preferred by the International Astronomical Union.
+showing the types of bodies in the Solar System. (see Small Solar System body)]] Traditionally, small bodies orbiting the Sun were classified as comets, asteroids, or meteoroids, with anything smaller than one meter across being called a meteoroid. Beech and Steel's 1995 paper proposed a meteoroid definition including size limits.[42][43] The term "asteroid", from the Greek word for "star-like", never had a formal definition, with the broader term minor planet being preferred by the International Astronomical Union.
 
 However, following the discovery of asteroids below ten meters in size, Rubin and Grossman's 2010 paper revised the previous definition of meteoroid to objects between 10 µm and 1 meter in size in order to maintain the distinction between asteroids and meteoroids.[44] The smallest asteroids discovered (based on absolute magnitude _H_) are with _H_ = 33.2 and with _H_ = 32.1 both with an estimated size of about 1 meter.[45]
 
@@ -101,14 +101,14 @@ When the IAU introduced the class small Solar System bodies in 2006 to include m
 
 Formation
 
-Artist’s_impression_of_the_glowing_disc_of_material_around_the_white_dwarf_SDSS_J1228+1040.jpg.[58]]] It is thought that planetesimals in the asteroid belt evolved much like the rest of the solar nebula until Jupiter neared its current mass, at which point excitation from orbital resonances with Jupiter ejected over 99% of planetesimals in the belt. Simulations and a discontinuity in spin rate and spectral properties suggest that asteroids larger than approximately in diameter accreted during that early era, whereas smaller bodies are fragments from collisions between asteroids during or after the Jovian disruption.[59] Ceres and Vesta grew large enough to melt and differentiate, with heavy metallic elements sinking to the core, leaving rocky minerals in the crust.[60]
+.[58]]] It is thought that planetesimals in the asteroid belt evolved much like the rest of the solar nebula until Jupiter neared its current mass, at which point excitation from orbital resonances with Jupiter ejected over 99% of planetesimals in the belt. Simulations and a discontinuity in spin rate and spectral properties suggest that asteroids larger than approximately in diameter accreted during that early era, whereas smaller bodies are fragments from collisions between asteroids during or after the Jovian disruption.[59] Ceres and Vesta grew large enough to melt and differentiate, with heavy metallic elements sinking to the core, leaving rocky minerals in the crust.[60]
 
 In the Nice model, many Kuiper-belt objects are captured in the outer asteroid belt, at distances greater than 2.6 AU. Most were later ejected by Jupiter, but those that remained may be the D-type asteroids, and possibly include Ceres.[61]
 
 
 Distribution within the Solar System
 
-InnerSolarSystem-en.png (white) and Jupiter's trojan asteroids (green)]] Various dynamical groups of asteroids have been discovered orbiting in the inner Solar System. Their orbits are perturbed by the gravity of other bodies in the Solar System and by the Yarkovsky effect. Significant populations include:
+(white) and Jupiter's trojan asteroids (green)]] Various dynamical groups of asteroids have been discovered orbiting in the inner Solar System. Their orbits are perturbed by the gravity of other bodies in the Solar System and by the Yarkovsky effect. Significant populations include:
 
 Asteroid belt
 
@@ -120,17 +120,17 @@ Trojans are populations that share an orbit with a larger planet or moon, but do
 
 Near-Earth asteroids
 
-Near-Earth asteroids, or NEAs, are asteroids that have orbits that pass close to that of Earth. Asteroids that actually cross Earth's orbital path are known as _Earth-crossers_. , 14,464 near-Earth asteroids are known[63] and the number over one kilometer in diameter is estimated to be 900–1,000. Asteroids-KnownNearEarthObjects-Animation-UpTo20180101.gif – as of January 2018
+Near-Earth asteroids, or NEAs, are asteroids that have orbits that pass close to that of Earth. Asteroids that actually cross Earth's orbital path are known as _Earth-crossers_. , 14,464 near-Earth asteroids are known[63] and the number over one kilometer in diameter is estimated to be 900–1,000. – as of January 2018
 Video (0:55; July 23, 2018)
 
-]] SmallAsteroidImpacts-Frequency-Bolide-20141114.jpgs, small asteroids roughly 1 to 20 meters in diameter impacting Earth's atmosphere.]]
+]] s, small asteroids roughly 1 to 20 meters in diameter impacting Earth's atmosphere.]]
 
 
 Characteristics
 
 Size distribution
 
-Asteroids_by_size_and_number.svg Asteroids vary greatly in size, from almost for the largest down to rocks just 1 meter across.[64] The three largest are very much like miniature planets: they are roughly spherical, have at least partly differentiated interiors,[65] and are thought to be surviving protoplanets. The vast majority, however, are much smaller and are irregularly shaped; they are thought to be either surviving planetesimals or fragments of larger bodies.
+Asteroids vary greatly in size, from almost for the largest down to rocks just 1 meter across.[64] The three largest are very much like miniature planets: they are roughly spherical, have at least partly differentiated interiors,[65] and are thought to be surviving protoplanets. The vast majority, however, are much smaller and are irregularly shaped; they are thought to be either surviving planetesimals or fragments of larger bodies.
 
 The dwarf planet Ceres is by far the largest asteroid, with a diameter of . The next largest are 4 Vesta and 2 Pallas, both with diameters of just over . Vesta is the only main-belt asteroid that can, on occasion, be visible to the naked eye. On some rare occasions, a near-Earth asteroid may briefly become visible without technical aid; see 99942 Apophis.
 
@@ -145,7 +145,7 @@ The number of asteroids decreases markedly with size. Although this generally fo
 
 Largest asteroids
 
-The_Four_Largest_Asteroids.jpg Although their location in the asteroid belt excludes them from planet status, the three largest objects, Ceres, Vesta, and Pallas, are intact protoplanets that share many characteristics common to planets, and are atypical compared to the majority of "potato"-shaped asteroids. The fourth largest asteroid, Hygiea, has an undifferentiated interior, like the majority of asteroids. Between them, the four largest asteroids constitute half the mass of the asteroid belt.
+Although their location in the asteroid belt excludes them from planet status, the three largest objects, Ceres, Vesta, and Pallas, are intact protoplanets that share many characteristics common to planets, and are atypical compared to the majority of "potato"-shaped asteroids. The fourth largest asteroid, Hygiea, has an undifferentiated interior, like the majority of asteroids. Between them, the four largest asteroids constitute half the mass of the asteroid belt.
 
 Ceres is the only asteroid with a fully ellipsoidal shape and hence the only one that is a dwarf planet.[68] It has a much higher absolute magnitude than the other asteroids, of around 3.32,[69] and may possess a surface layer of ice.[70] Like the planets, Ceres is differentiated: it has a crust, a mantle and a core.[71] No meteorites from Ceres have been found on Earth.
 
@@ -163,7 +163,7 @@ Hygiea is the largest carbonaceous asteroid[77] and, unlike the other largest as
   Pallas
   Hygiea
 
-masses_of_asteroids_vs_main_belt.png known,[79][80] compared to the remaining mass of the asteroid belt.[81]
+ known,[79][80] compared to the remaining mass of the asteroid belt.[81]
 
 +--+--+--+
 |  |  |  |
@@ -177,9 +177,9 @@ Measurements of the rotation rates of large asteroids in the asteroid belt show 
 
 Composition
 
-Vesta_Cratered_terrain_with_hills_and_ridges.jpg The physical composition of asteroids is varied and in most cases poorly understood. Ceres appears to be composed of a rocky core covered by an icy mantle, where Vesta is thought to have a nickel-iron core, olivine mantle, and basaltic crust.[84] 10 Hygiea, however, which appears to have a uniformly primitive composition of carbonaceous chondrite, is thought to be the largest undifferentiated asteroid. Most of the smaller asteroids are thought to be piles of rubble held together loosely by gravity, though the largest are probably solid. Some asteroids have moons or are co-orbiting binaries: Rubble piles, moons, binaries, and scattered asteroid families are thought to be the results of collisions that disrupted a parent asteroid, or, possibly, a planet.[85]
+The physical composition of asteroids is varied and in most cases poorly understood. Ceres appears to be composed of a rocky core covered by an icy mantle, where Vesta is thought to have a nickel-iron core, olivine mantle, and basaltic crust.[84] 10 Hygiea, however, which appears to have a uniformly primitive composition of carbonaceous chondrite, is thought to be the largest undifferentiated asteroid. Most of the smaller asteroids are thought to be piles of rubble held together loosely by gravity, though the largest are probably solid. Some asteroids have moons or are co-orbiting binaries: Rubble piles, moons, binaries, and scattered asteroid families are thought to be the results of collisions that disrupted a parent asteroid, or, possibly, a planet.[85]
 
-Asteroids contain traces of amino acids and other organic compounds, and some speculate that asteroid impacts may have seeded the early Earth with the chemicals necessary to initiate life, or may have even brought life itself to Earth _(also see panspermia)_.[86] In August 2011, a report, based on NASA studies with meteorites found on Earth, was published suggesting DNA and RNA components (adenine, guanine and related organic molecules) may have been formed on asteroids and comets in outer space.[87][88][89] PIA18469-AsteroidCollision-NearStarNGC2547-ID8-2013.jpg Composition is calculated from three primary sources: albedo, surface spectrum, and density. The last can only be determined accurately by observing the orbits of moons the asteroid might have. So far, every asteroid with moons has turned out to be a rubble pile, a loose conglomeration of rock and metal that may be half empty space by volume. The investigated asteroids are as large as 280 km in diameter, and include 121 Hermione (268×186×183 km), and 87 Sylvia (384×262×232 km). Only half a dozen asteroids are larger than 87 Sylvia, though none of them have moons; however, some smaller asteroids are thought to be more massive, suggesting they may not have been disrupted, and indeed 511 Davida, the same size as Sylvia to within measurement error, is estimated to be two and a half times as massive, though this is highly uncertain. The fact that such large asteroids as Sylvia can be rubble piles, presumably due to disruptive impacts, has important consequences for the formation of the Solar System: Computer simulations of collisions involving solid bodies show them destroying each other as often as merging, but colliding rubble piles are more likely to merge. This means that the cores of the planets could have formed relatively quickly.[90]
+Asteroids contain traces of amino acids and other organic compounds, and some speculate that asteroid impacts may have seeded the early Earth with the chemicals necessary to initiate life, or may have even brought life itself to Earth _(also see panspermia)_.[86] In August 2011, a report, based on NASA studies with meteorites found on Earth, was published suggesting DNA and RNA components (adenine, guanine and related organic molecules) may have been formed on asteroids and comets in outer space.[87][88][89] Composition is calculated from three primary sources: albedo, surface spectrum, and density. The last can only be determined accurately by observing the orbits of moons the asteroid might have. So far, every asteroid with moons has turned out to be a rubble pile, a loose conglomeration of rock and metal that may be half empty space by volume. The investigated asteroids are as large as 280 km in diameter, and include 121 Hermione (268×186×183 km), and 87 Sylvia (384×262×232 km). Only half a dozen asteroids are larger than 87 Sylvia, though none of them have moons; however, some smaller asteroids are thought to be more massive, suggesting they may not have been disrupted, and indeed 511 Davida, the same size as Sylvia to within measurement error, is estimated to be two and a half times as massive, though this is highly uncertain. The fact that such large asteroids as Sylvia can be rubble piles, presumably due to disruptive impacts, has important consequences for the formation of the Solar System: Computer simulations of collisions involving solid bodies show them destroying each other as often as merging, but colliding rubble piles are more likely to merge. This means that the cores of the planets could have formed relatively quickly.[90]
 
 On 7 October 2009, the presence of water ice was confirmed on the surface of 24 Themis using NASA’s Infrared Telescope Facility. The surface of the asteroid appears completely covered in ice. As this ice layer is sublimating, it may be getting replenished by a reservoir of ice under the surface. Organic compounds were also detected on the surface.[91][92][93][94] Scientists hypothesize that some of the first water brought to Earth was delivered by asteroid impacts after the collision that produced the Moon. The presence of ice on 24 Themis supports this theory.[95]
 
@@ -196,7 +196,7 @@ Asteroids become darker and redder with age due to space weathering.[108] Howeve
 
 Classification
 
-Kirkwood-20060509.png, by showing positions based on their semi-major axis]] Asteroids are commonly categorized according to two criteria: the characteristics of their orbits, and features of their reflectance spectrum.
+, by showing positions based on their semi-major axis]] Asteroids are commonly categorized according to two criteria: the characteristics of their orbits, and features of their reflectance spectrum.
 
 Orbital classification
 
@@ -214,7 +214,7 @@ Such objects, if associated with Earth or Venus or even hypothetically Mercury, 
 
 Spectral classification
 
-433eros.jpg shows the view looking from one end of the asteroid across the gouge on its underside and toward the opposite end. Features as small as across can be seen.]] In 1975, an asteroid taxonomic system based on color, albedo, and spectral shape was developed by Clark R. Chapman, David Morrison, and Ben Zellner.[112] These properties are thought to correspond to the composition of the asteroid's surface material. The original classification system had three categories: C-types for dark carbonaceous objects (75% of known asteroids), S-types for stony (silicaceous) objects (17% of known asteroids) and U for those that did not fit into either C or S. This classification has since been expanded to include many other asteroid types. The number of types continues to grow as more asteroids are studied.
+shows the view looking from one end of the asteroid across the gouge on its underside and toward the opposite end. Features as small as across can be seen.]] In 1975, an asteroid taxonomic system based on color, albedo, and spectral shape was developed by Clark R. Chapman, David Morrison, and Ben Zellner.[112] These properties are thought to correspond to the composition of the asteroid's surface material. The original classification system had three categories: C-types for dark carbonaceous objects (75% of known asteroids), S-types for stony (silicaceous) objects (17% of known asteroids) and U for those that did not fit into either C or S. This classification has since been expanded to include many other asteroid types. The number of types continues to grow as more asteroids are studied.
 
 The two most widely used taxonomies now used are the Tholen classification and SMASS classification. The former was proposed in 1984 by David J. Tholen, and was based on data collected from an eight-color asteroid survey performed in the 1980s. This resulted in 14 asteroid categories.[113] In 2002, the Small Main-Belt Asteroid Spectroscopic Survey resulted in a modified version of the Tholen taxonomy with 24 different types. Both systems have three broad categories of C, S, and X asteroids, where X consists of mostly metallic asteroids, such as the M-type. There are also several smaller classes.[114]
 
@@ -227,71 +227,71 @@ Originally, spectral designations were based on inferences of an asteroid's comp
 
 Naming
 
-Asteroid20130318-full.jpg, shown here in radar images, has a provisional designation]] A newly discovered asteroid is given a provisional designation (such as ) consisting of the year of discovery and an alphanumeric code indicating the half-month of discovery and the sequence within that half-month. Once an asteroid's orbit has been confirmed, it is given a number, and later may also be given a name (e.g. 433 Eros). The formal naming convention uses parentheses around the number (e.g. (433) Eros), but dropping the parentheses is quite common. Informally, it is common to drop the number altogether, or to drop it after the first mention when a name is repeated in running text.[116] In addition, names can be proposed by the asteroid's discoverer, within guidelines established by the International Astronomical Union.[117]
+, shown here in radar images, has a provisional designation]] A newly discovered asteroid is given a provisional designation (such as ) consisting of the year of discovery and an alphanumeric code indicating the half-month of discovery and the sequence within that half-month. Once an asteroid's orbit has been confirmed, it is given a number, and later may also be given a name (e.g. 433 Eros). The formal naming convention uses parentheses around the number (e.g. (433) Eros), but dropping the parentheses is quite common. Informally, it is common to drop the number altogether, or to drop it after the first mention when a name is repeated in running text.[116] In addition, names can be proposed by the asteroid's discoverer, within guidelines established by the International Astronomical Union.[117]
 
 Symbols
 
 The first asteroids to be discovered were assigned iconic symbols like the ones traditionally used to designate the planets. By 1855 there were two dozen asteroid symbols, which often occurred in multiple variants.[118]
 
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| Asteroid      | Symbol                                                                                  | Year                                                                          |
-+===============+=========================================================================================+===============================================================================+
-| 1 Ceres       | ⚳ Ceres_symbol.svg Ceres2.svg Ceres3.svg                                                | Ceres' scythe, reversed to double as the letter _C_                           |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 2 Pallas      | ⚴ 2Pallas_symbol.svg 2_Pallas.svg                                                       | Athena's (Pallas') spear                                                      |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 3 Juno        | ⚵ Juno_symbol.svg 3_Juno_(1).svg Symbol_3.jpg                                           | A star mounted on a scepter, for Juno, the Queen of Heaven                    |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 4 Vesta       | ⚶ Vesta_symbol.svg 4_Vesta_(0).svg Simbolo_di_Vesta.svg 4_Vesta_Unsimplified_Symbol.svg | The altar and sacred fire of Vesta                                            |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 5 Astraea     | 5_Astraea_symbol_alternate.svg 5_Astraea_Symbol.svg                                     | A scale, or an inverted anchor, symbols of justice                            |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 6 Hebe        | 6_Hebe_Astronomical_Symbol.svg                                                          | Hebe's cup                                                                    |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 7 Iris        | 7_Iris_Astronomical_Symbol.svg                                                          | A rainbow (_iris_) and a star                                                 |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 8 Flora       | 8_Flora_Astronomical_Symbol.svg                                                         | A flower (_flora_), specifically the Rose of England                          |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 9 Metis       | 9_Metis_symbol.svg                                                                      | The eye of wisdom and a star                                                  |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 10 Hygiea     | 10_Hygeia_symbol_alternate.svg 10_Hygiea_Astronomical_Symbol.svg                        | Hygiea's serpent and a star, or the Rod of Asclepius                          |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 11 Parthenope | 11_Parthenope_symbol_alternate.svg 11_Parthenope_symbol.svg                             | A harp, or a fish and a star; symbols of the sirens                           |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 12 Victoria   | 12_Victoria_symbol.svg                                                                  | The laurels of victory and a star                                             |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 13 Egeria     | 13_Egeria_symbol.svg                                                                    | A shield, symbol of Egeria's protection, and a star                           |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 14 Irene      | Symbol_14_Irene.png                                                                     | A dove carrying an olive branch (symbol of _irene_ 'peace')                   |
-|               |                                                                                         | with a star on its head,[119] or an olive branch, a flag of truce, and a star |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 15 Eunomia    | 15_Eunomia_symbol.svg                                                                   | A heart, symbol of good order (_eunomia_), and a star                         |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 16 Psyche     | 16_Psyche_symbol.svg                                                                    | A butterfly's wing, symbol of the soul (_psyche_), and a star                 |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 17 Thetis     | 17_Thetis_symbol.png                                                                    | A dolphin, symbol of Thetis, and a star                                       |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 18 Melpomene  | 18_Melpomene_symbol.svg                                                                 | The dagger of Melpomene, and a star                                           |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 19 Fortuna    | 19_Fortuna_symbol.svg                                                                   | The wheel of fortune and a star                                               |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 26 Proserpina | 26_Proserpina_symbol.svg                                                                | Proserpina's pomegranate                                                      |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 28 Bellona    | 28_Bellona_symbol.svg                                                                   | Bellona's whip and lance[120]                                                 |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 29 Amphitrite | 29_Amphitrite_symbol.svg                                                                | The shell of Amphitrite and a star                                            |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 35 Leukothea  | 35_Leukothea_symbol.png                                                                 | A lighthouse beacon, symbol of Leucothea[121]                                 |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
-| 37 Fides      | 37_Fides_symbol.svg                                                                     | The cross of faith (_fides_)[122]                                             |
-+---------------+-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
++---------------+--------+-------------------------------------------------------------------------------+
+| Asteroid      | Symbol | Year                                                                          |
++===============+========+===============================================================================+
+| 1 Ceres       | ⚳      | Ceres' scythe, reversed to double as the letter _C_                           |
++---------------+--------+-------------------------------------------------------------------------------+
+| 2 Pallas      | ⚴      | Athena's (Pallas') spear                                                      |
++---------------+--------+-------------------------------------------------------------------------------+
+| 3 Juno        | ⚵      | A star mounted on a scepter, for Juno, the Queen of Heaven                    |
++---------------+--------+-------------------------------------------------------------------------------+
+| 4 Vesta       | ⚶      | The altar and sacred fire of Vesta                                            |
++---------------+--------+-------------------------------------------------------------------------------+
+| 5 Astraea     |        | A scale, or an inverted anchor, symbols of justice                            |
++---------------+--------+-------------------------------------------------------------------------------+
+| 6 Hebe        |        | Hebe's cup                                                                    |
++---------------+--------+-------------------------------------------------------------------------------+
+| 7 Iris        |        | A rainbow (_iris_) and a star                                                 |
++---------------+--------+-------------------------------------------------------------------------------+
+| 8 Flora       |        | A flower (_flora_), specifically the Rose of England                          |
++---------------+--------+-------------------------------------------------------------------------------+
+| 9 Metis       |        | The eye of wisdom and a star                                                  |
++---------------+--------+-------------------------------------------------------------------------------+
+| 10 Hygiea     |        | Hygiea's serpent and a star, or the Rod of Asclepius                          |
++---------------+--------+-------------------------------------------------------------------------------+
+| 11 Parthenope |        | A harp, or a fish and a star; symbols of the sirens                           |
++---------------+--------+-------------------------------------------------------------------------------+
+| 12 Victoria   |        | The laurels of victory and a star                                             |
++---------------+--------+-------------------------------------------------------------------------------+
+| 13 Egeria     |        | A shield, symbol of Egeria's protection, and a star                           |
++---------------+--------+-------------------------------------------------------------------------------+
+| 14 Irene      |        | A dove carrying an olive branch (symbol of _irene_ 'peace')                   |
+|               |        | with a star on its head,[119] or an olive branch, a flag of truce, and a star |
++---------------+--------+-------------------------------------------------------------------------------+
+| 15 Eunomia    |        | A heart, symbol of good order (_eunomia_), and a star                         |
++---------------+--------+-------------------------------------------------------------------------------+
+| 16 Psyche     |        | A butterfly's wing, symbol of the soul (_psyche_), and a star                 |
++---------------+--------+-------------------------------------------------------------------------------+
+| 17 Thetis     |        | A dolphin, symbol of Thetis, and a star                                       |
++---------------+--------+-------------------------------------------------------------------------------+
+| 18 Melpomene  |        | The dagger of Melpomene, and a star                                           |
++---------------+--------+-------------------------------------------------------------------------------+
+| 19 Fortuna    |        | The wheel of fortune and a star                                               |
++---------------+--------+-------------------------------------------------------------------------------+
+| 26 Proserpina |        | Proserpina's pomegranate                                                      |
++---------------+--------+-------------------------------------------------------------------------------+
+| 28 Bellona    |        | Bellona's whip and lance[120]                                                 |
++---------------+--------+-------------------------------------------------------------------------------+
+| 29 Amphitrite |        | The shell of Amphitrite and a star                                            |
++---------------+--------+-------------------------------------------------------------------------------+
+| 35 Leukothea  |        | A lighthouse beacon, symbol of Leucothea[121]                                 |
++---------------+--------+-------------------------------------------------------------------------------+
+| 37 Fides      |        | The cross of faith (_fides_)[122]                                             |
++---------------+--------+-------------------------------------------------------------------------------+
 
 In 1851,[123] after the fifteenth asteroid (Eunomia) had been discovered, Johann Franz Encke made a major change in the upcoming 1854 edition of the _Berliner Astronomisches Jahrbuch_ (BAJ, _Berlin Astronomical Yearbook_). He introduced a disk (circle), a traditional symbol for a star, as the generic symbol for an asteroid. The circle was then numbered in order of discovery to indicate a specific asteroid (although he assigned ① to the fifth, Astraea, while continuing to designate the first four only with their existing iconic symbols). The numbered-circle convention was quickly adopted by astronomers, and the next asteroid to be discovered (16 Psyche, in 1852) was the first to be designated in that way at the time of its discovery. However, Psyche was given an iconic symbol as well, as were a few other asteroids discovered over the next few years (see chart above). 20 Massalia was the first asteroid that was not assigned an iconic symbol, and no iconic symbols were created after the 1855 discovery of 37 Fides.[124] That year Astraea's number was increased to ⑤, but the first four asteroids, Ceres to Vesta, were not listed by their numbers until the 1867 edition. The circle was soon abbreviated to a pair of parentheses, which were easier to typeset and sometimes omitted altogether over the next few decades, leading to the modern convention.[125]
 
 
 Exploration
 
-Eros_rotation_Dec._3-4_2000.gif Until the age of space travel, objects in the asteroid belt were merely pinpricks of light in even the largest telescopes and their shapes and terrain remained a mystery. The best modern ground-based telescopes and the Earth-orbiting Hubble Space Telescope can resolve a small amount of detail on the surfaces of the largest asteroids, but even these mostly remain little more than fuzzy blobs. Limited information about the shapes and compositions of asteroids can be inferred from their light curves (their variation in brightness as they rotate) and their spectral properties, and asteroid sizes can be estimated by timing the lengths of star occulations (when an asteroid passes directly in front of a star). Radar imaging can yield good information about asteroid shapes and orbital and rotational parameters, especially for near-Earth asteroids. In terms of delta-v and propellant requirements, NEOs are more easily accessible than the Moon.[126]
+Until the age of space travel, objects in the asteroid belt were merely pinpricks of light in even the largest telescopes and their shapes and terrain remained a mystery. The best modern ground-based telescopes and the Earth-orbiting Hubble Space Telescope can resolve a small amount of detail on the surfaces of the largest asteroids, but even these mostly remain little more than fuzzy blobs. Limited information about the shapes and compositions of asteroids can be inferred from their light curves (their variation in brightness as they rotate) and their spectral properties, and asteroid sizes can be estimated by timing the lengths of star occulations (when an asteroid passes directly in front of a star). Radar imaging can yield good information about asteroid shapes and orbital and rotational parameters, especially for near-Earth asteroids. In terms of delta-v and propellant requirements, NEOs are more easily accessible than the Moon.[126]
 
 The first close-up photographs of asteroid-like objects were taken in 1971, when the _Mariner 9_ probe imaged Phobos and Deimos, the two small moons of Mars, which are probably captured asteroids. These images revealed the irregular, potato-like shapes of most asteroids, as did later images from the Voyager probes of the small moons of the gas giants.
 
@@ -311,11 +311,11 @@ On 13 December 2012, China's lunar orbiter _Chang'e 2_ flew within of the astero
 
 The Japan Aerospace Exploration Agency (JAXA) launched the _Hayabusa2_ probe in December 2014, and plans to return samples from 162173 Ryugu in December 2020.
 
-In June 2018, the US National Science and Technology Council warned that America is unprepared for an asteroid impact event, and has developed and released the _"National Near-Earth Object Preparedness Strategy Action Plan"_ to better prepare.[127][128][129][130] Bennu_330km_181029.jpg In May 2011, NASA selected the OSIRIS-REx sample return mission to asteroid 101955 Bennu; it launched on 8 September 2016. Its arrival at Bennu was planned for December 2018, but by that fall it was close enough to image the asteroid in reasonable detail.
+In June 2018, the US National Science and Technology Council warned that America is unprepared for an asteroid impact event, and has developed and released the _"National Near-Earth Object Preparedness Strategy Action Plan"_ to better prepare.[127][128][129][130] In May 2011, NASA selected the OSIRIS-REx sample return mission to asteroid 101955 Bennu; it launched on 8 September 2016. Its arrival at Bennu was planned for December 2018, but by that fall it was close enough to image the asteroid in reasonable detail.
 
 Planned and future missions
 
-Lucy--mission-13--v3.png In early 2013, NASA announced the planning stages of a mission to capture a near-Earth asteroid and move it into lunar orbit where it could possibly be visited by astronauts and later impacted into the Moon.[131] On 19 June 2014, NASA reported that asteroid 2011 MD was a prime candidate for capture by a robotic mission, perhaps in the early 2020s.[132]
+In early 2013, NASA announced the planning stages of a mission to capture a near-Earth asteroid and move it into lunar orbit where it could possibly be visited by astronauts and later impacted into the Moon.[131] On 19 June 2014, NASA reported that asteroid 2011 MD was a prime candidate for capture by a robotic mission, perhaps in the early 2020s.[132]
 
 It has been suggested that asteroids might be used as a source of materials that may be rare or exhausted on Earth (asteroid mining), or materials for constructing space habitats _(see Colonization of the asteroids)_. Materials that are heavy and expensive to launch from Earth may someday be mined from asteroids and used for space manufacturing and construction.
 

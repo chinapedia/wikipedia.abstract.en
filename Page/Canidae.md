@@ -11,7 +11,7 @@ In the history of the carnivores, the family Canidae is represented by the two e
 
 Phylogenetic relationships
 
-Indian_Wolf_Photo_Dhaval_Vargiya.jpg MSU_V2P1a_-_Vulpes,_Nyctereutes,_Cuon_&_Canis_skulls.png'' (corsac fox), _Nyctereutes_ (raccoon dog), _Cuon_ (dhole), and _Canis_ (Eurasian golden jackal)]] Within the Canidae, the results of allozyme and chromosome analyses have previously suggested several phylogenetic divisions:
+'' (corsac fox), _Nyctereutes_ (raccoon dog), _Cuon_ (dhole), and _Canis_ (Eurasian golden jackal)]] Within the Canidae, the results of allozyme and chromosome analyses have previously suggested several phylogenetic divisions:
 
 1.  The wolf-like canids (genus _Canis_, _Cuon_, and _Lycaon_) include the domestic dog _(Canis lupus familiaris)_, gray wolf (_Canis lupus_), red wolf (_Canis rufus_), eastern wolf (_Canis lycaon_), coyote (_Canis latrans_), Eurasian golden jackal (_Canis aureus_), African golden wolf (_Canis anthus_), Ethiopian wolf (_Canis simensis_), black-backed jackal (_Canis mesomelas_), side-striped jackal (_Canis adustus_), dhole (_Cuon alpinus_), and African wild dog (_Lycaon pictus_).[8]
 2.  The fox-like canids include the kit fox (_Vulpes velox_), red fox (_Vulpes vulpes_), Cape fox (_Vulpes chama_), Arctic fox (_Vulpes lagopus_), and fennec fox (_Vulpes zerda_).[9]
@@ -49,22 +49,22 @@ The formation of the Isthmus of Panama, about 3 Mya, joined South America to Nor
 
 Pleistocene epoch
 
-Borophagus.jpg]] During the Pleistocene, the North American wolf line appeared, with _Canis edwardii_, clearly identifiable as a wolf, and _Canis rufus_ appeared, possibly a direct descendant of _C. edwardii_. Around 0.8 Mya, _Canis ambrusteri_ emerged in North America. A large wolf, it was found all over North and Central America and was eventually supplanted by its descendant, the dire wolf, which then spread into South America during the late Pleistocene.[28]
+]] During the Pleistocene, the North American wolf line appeared, with _Canis edwardii_, clearly identifiable as a wolf, and _Canis rufus_ appeared, possibly a direct descendant of _C. edwardii_. Around 0.8 Mya, _Canis ambrusteri_ emerged in North America. A large wolf, it was found all over North and Central America and was eventually supplanted by its descendant, the dire wolf, which then spread into South America during the late Pleistocene.[28]
 
 By 0.3 Mya, a number of subspecies of the gray wolf (_C. lupus_) had developed and had spread throughout Europe and northern Asia.[29] The gray wolf colonized North America during the late Rancholabrean era across the Bering land bridge, with at least three separate invasions, with each one consisting of one or more different Eurasian gray wolf clades.[30] MtDNA studies have shown that there are at least four extant _C. lupus_ lineages.[31] The dire wolf shared its habitat with the gray wolf, but became extinct in a large-scale extinction event that occurred around 11,500 years ago. It may have been more of a scavenger than a hunter; its molars appear to be adapted for crushing bones and it may have gone extinct as a result of the extinction of the large herbivorous animals on whose carcasses it relied.[32]
 
 In 2015, a study of mitochondrial genome sequences and whole genome nuclear sequences of African and Eurasian canids indicated that extant wolf-like canids have colonized Africa from Eurasia at least five times throughout the Pliocene and Pleistocene, which is consistent with fossil evidence suggesting that much of African canid fauna diversity resulted from the immigration of Eurasian ancestors, likely coincident with Plio-Pleistocene climatic oscillations between arid and humid conditions. When comparing the African and Eurasian golden jackals, the study concluded that the African specimens represented a distinct monophyletic lineage that should be recognized as a separate species, _Canis anthus_ (African golden wolf). According to a phylogeny derived from nuclear sequences, the Eurasian golden jackal (_Canis aureus_) diverged from the wolf/coyote lineage 1.9 Mya, but the African golden wolf separated 1.3 Mya. Mitochondrial genome sequences indicated the Ethiopian wolf diverged from the wolf/coyote lineage slightly prior to that.[33]
 
 
-MSU_V2P1a_-_Canis_lupus,_Canis_aureus_&_Cuon_alpinus_paws.png, Eurasian golden jackal, and dhole by A. N. Komarov]] Wild canids are found on every continent except Antarctica, and inhabit a wide range of different habitats, including deserts, mountains, forests, and grasslands. They vary in size from the fennec fox, which may be as little as in length and weigh ,[34] to the gray wolf, which may be up to long, and can weigh up to .[35] Only a few species are arboreal – the gray fox, the closely related island fox[36] and the raccoon dog habitually climb trees.[37][38][39]
+, Eurasian golden jackal, and dhole by A. N. Komarov]] Wild canids are found on every continent except Antarctica, and inhabit a wide range of different habitats, including deserts, mountains, forests, and grasslands. They vary in size from the fennec fox, which may be as little as in length and weigh ,[34] to the gray wolf, which may be up to long, and can weigh up to .[35] Only a few species are arboreal – the gray fox, the closely related island fox[36] and the raccoon dog habitually climb trees.[37][38][39]
 
-All canids have a similar basic form, as exemplified by the grey wolf, although the relative length of muzzle, limbs, ears and tail vary considerably between species. With the exceptions of the bush dog, the raccoon dog and some domestic breeds of _Canis lupus_, canids have relatively long legs and lithe bodies, adapted for chasing prey. The tails are bushy and the length and quality of the pelage varies with the season. The muzzle portion of the skull is much more elongated than that of the cat family. The zygomatic arches are wide, there is a transverse lambdoidal ridge at the rear of the cranium and in some species, a sagittal crest running from front to back. The bony orbits around the eye never form a complete ring and the auditory bullae are smooth and rounded.[40] Black-backed_Jackal_skeleton.jpg_) on display at the Museum of Osteology]] All canids are digitigrade, meaning they walk on their toes. The tip of the nose is always naked, as are the cushioned pads on the soles of the feet. These latter consist of a single pad behind the tip of each toe and a more-or-less three-lobed central pad under the roots of the digits. Hairs grow between the pads and in the Arctic fox, the sole of the foot is densely covered with hair at some times of year. With the exception of the four-toed African wild dog (_Lycaon pictus''), five toes are on the forefeet, but the pollex (thumb) is reduced and does not reach the ground. On the hind feet are four toes, but in some domestic dogs, a fifth vestigial toe, known as a dewclaw, is sometimes present, but has no anatomical connection to the rest of the foot. The slightly curved nails are not retractile and more-or-less blunt.[41]
+All canids have a similar basic form, as exemplified by the grey wolf, although the relative length of muzzle, limbs, ears and tail vary considerably between species. With the exceptions of the bush dog, the raccoon dog and some domestic breeds of _Canis lupus_, canids have relatively long legs and lithe bodies, adapted for chasing prey. The tails are bushy and the length and quality of the pelage varies with the season. The muzzle portion of the skull is much more elongated than that of the cat family. The zygomatic arches are wide, there is a transverse lambdoidal ridge at the rear of the cranium and in some species, a sagittal crest running from front to back. The bony orbits around the eye never form a complete ring and the auditory bullae are smooth and rounded.[40] _) on display at the Museum of Osteology]] All canids are digitigrade, meaning they walk on their toes. The tip of the nose is always naked, as are the cushioned pads on the soles of the feet. These latter consist of a single pad behind the tip of each toe and a more-or-less three-lobed central pad under the roots of the digits. Hairs grow between the pads and in the Arctic fox, the sole of the foot is densely covered with hair at some times of year. With the exception of the four-toed African wild dog (_Lycaon pictus''), five toes are on the forefeet, but the pollex (thumb) is reduced and does not reach the ground. On the hind feet are four toes, but in some domestic dogs, a fifth vestigial toe, known as a dewclaw, is sometimes present, but has no anatomical connection to the rest of the foot. The slightly curved nails are not retractile and more-or-less blunt.[41]
 
 The penis in male canids is supported by a bone called the baculum. It also contains a structure at the base called the bulbus glandis, which helps to create a copulatory tie during mating, locking the animals together for up to an hour.[42] Young canids are born blind, with their eyes opening a few weeks after birth.[43] All living canids (Caninae) have a ligament analogous to the nuchal ligament of ungulates used to maintain the posture of the head and neck with little active muscle exertion; this ligament allows them to conserve energy while running long distances following scent trails with their nose to the ground. However, based on skeletal details of the neck, at least some of the Borophaginae (such as _Aelurodon_) are believed to have lacked this ligament.[44]
 
 Dentition
 
-Wolf_cranium_labelled.jpg Lupocranio.jpg skull]]
+skull]]
 
 Dentition relates to the arrangement of teeth in the mouth, with the dental notation for the upper-jaw teeth using the upper-case letters I to denote incisors, C for canines, P for premolars, and M for molars, and the lower-case letters i, c, p and m to denote the mandible teeth. Teeth are numbered using one side of the mouth and from the front of the mouth to the back. In carnivores, the upper premolar P4 and the lower molar m1 form the carnassials that are used together in a scissor-like action to shear the muscle and tendon of prey.[45]
 
@@ -79,7 +79,7 @@ Life history
 
 Social behavior
 
-2012-bandipur-dhole-sambar.jpgs attacking a sambar, Bandipur National Park]] Almost all canids are social animals and live together in groups. In general, they are territorial or have a home range and sleep in the open, using their dens only for breeding and sometimes in bad weather.[52] In most foxes, and in many of the true dogs, a male and female pair work together to hunt and to raise their young. Gray wolves and some of the other larger canids live in larger groups called packs. African wild dogs have packs which may consist of 20 to 40 animals and packs of fewer than about seven individuals may be incapable of successful reproduction.[53] Hunting in packs has the advantage that larger prey items can be tackled. Some species form packs or live in small family groups depending on the circumstances, including the type of available food. In most species, some individuals live on their own. Within a canid pack, there is a system of dominance so that the strongest, most experienced animals lead the pack. In most cases, the dominant male and female are the only pack members to breed.[54]
+s attacking a sambar, Bandipur National Park]] Almost all canids are social animals and live together in groups. In general, they are territorial or have a home range and sleep in the open, using their dens only for breeding and sometimes in bad weather.[52] In most foxes, and in many of the true dogs, a male and female pair work together to hunt and to raise their young. Gray wolves and some of the other larger canids live in larger groups called packs. African wild dogs have packs which may consist of 20 to 40 animals and packs of fewer than about seven individuals may be incapable of successful reproduction.[53] Hunting in packs has the advantage that larger prey items can be tackled. Some species form packs or live in small family groups depending on the circumstances, including the type of available food. In most species, some individuals live on their own. Within a canid pack, there is a system of dominance so that the strongest, most experienced animals lead the pack. In most cases, the dominant male and female are the only pack members to breed.[54]
 
 left
 
@@ -87,7 +87,7 @@ Canids communicate with each other by scent signals, by visual clues and gesture
 
 Reproduction
 
-Wilde_huendin_am_stillen.jpg Canids as a group exhibit several reproductive traits that are uncommon among mammals as a whole. They are typically monogamous, provide paternal care to their offspring, have reproductive cycles with lengthy proestral and dioestral phases and have a copulatory tie during mating. They also retain adult offspring in the social group, suppressing the ability of these to breed while making use of the alloparental care they can provide to help raise the next generation of offspring.[57]
+Canids as a group exhibit several reproductive traits that are uncommon among mammals as a whole. They are typically monogamous, provide paternal care to their offspring, have reproductive cycles with lengthy proestral and dioestral phases and have a copulatory tie during mating. They also retain adult offspring in the social group, suppressing the ability of these to breed while making use of the alloparental care they can provide to help raise the next generation of offspring.[57]
 
 During the proestral period, increased levels of oestradiol make the female attractive to the male. There is a rise in progesterone during the oestral phase and the female is now receptive. Following this, the level of oestradiol fluctuates and there is a lengthy dioestrous phase during which the female is pregnant. Pseudo-pregnancy frequently occurs in canids that have ovulated but failed to conceive. A period of anoestrus follows pregnancy or pseudo-pregnancy, there being only one oestral period during each breeding season. Small and medium-sized canids mostly have a gestation period of 50 to 60 days, while larger species average 60 to 65 days. The time of year in which the breeding season occurs is related to the length of day, as has been demonstrated in the case of several species that have been translocated across the equator to the other hemisphere and experiences a six-month shift of phase. Domestic dogs and certain small canids in captivity may come into oestrus more frequently, perhaps because the photoperiod stimulus breaks down under conditions of artificial lighting.[58]
 
@@ -96,7 +96,7 @@ The size of a litter varies, with from one to 16 or more pups being born. The yo
 
 Canids and humans
 
-BedaleHunt2005.jpg]]
+]]
 
 One canid, the domestic dog, entered into a partnership with humans a long time ago. The archaeological record shows the first undisputed dog remains buried beside humans 14,700 years ago,[63] with disputed remains occurring 36,000 years ago.[64] These dates imply that the earliest dogs arose in the time of human hunter-gatherers and not agriculturists.[65][66] The dog was the first domesticated species.[67][68][69][70] The fact that wolves are pack animals with cooperative social structures may have been the reason that the relationship developed. Humans benefited from the canid's loyalty, cooperation, teamwork, alertness and tracking abilities, while the wolf may have benefited from the use of weapons to tackle larger prey and the sharing of food. Humans and dogs may have evolved together.[71]
 
@@ -105,9 +105,9 @@ Among canids, only the gray wolf has widely been known to prey on humans.[72] No
 
 Extant and recently extinct species
 
-Canis.jpg_: gray wolf, coyote, African golden wolf, Ethiopian wolf, golden jackal, black-backed jackal and side-striped jackal]] Genus_pseudalopex.jpg_: culpeo, pampas fox, chilla and Darwin's fox]] Genus_vulpes.jpg'': red fox, Rüppell's fox, corsac fox, Bengal fox, Arctic fox, Blanford's fox, Cape fox and fennec fox]]
+_: gray wolf, coyote, African golden wolf, Ethiopian wolf, golden jackal, black-backed jackal and side-striped jackal]] _: culpeo, pampas fox, chilla and Darwin's fox]] '': red fox, Rüppell's fox, corsac fox, Bengal fox, Arctic fox, Blanford's fox, Cape fox and fennec fox]]
 
-Dhole_at_Tadoba.jpg]] African_wild_dog,_Lycaon_pictus_at_Savuti,_Chobe_National_Park,_Botswana.jpg]] Short-eared_Dog.jpg]] ZooManedWolf.jpg]] Bush_dog.JPG]] Urocyon_cinereoargenteus.jpg]] Otocyon_megalotis_(Namibia).jpg]] Tanuki01_960.jpg]]
+]] ]] ]] ]] ]] ]] ]] ]]
 
 All extant species of family Canidae are in subfamily Caninae.
 
@@ -178,16 +178,12 @@ Subfamily Caninae
         -   Island fox, _Urocyon littoralis_
         -   Cozumel fox, _Urocyon_ sp.
 
-Canidae_Species_Divesity.png
-
 
 Prehistoric Canidae
 
 Except where otherwise stated, the following classification is based on a 1994 paper by Xiaoming Wang, curator of terrestrial mammals at the Natural History Museum of Los Angeles County on the systematics of the subfamily Hesperocyoninae,[77] a 1999 paper by Wang, together with the zoologists Richard H. Tedford and Beryl E. Taylor on the subfamily Borophaginae,[78] and a 2009 paper by Tedford, Wang and Taylor on the North American fossil Caninae.[79]
 
 Subfamily Caninae
-
-Canis_arnensis_restoration.jpg Canis_etruscus_restoration.jpg Canis_othmani_restoration.jpg
 
 -   Genus _Cynodictis_†
 -   Genus _Gobicyon_†

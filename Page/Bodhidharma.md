@@ -15,8 +15,6 @@ Biography
 
 Principal sources
 
-Western_Regions_1st_century_BC(en).png
-
 There are two known extant accounts written by contemporaries of Bodhidharma. According to these sources, Bodhidharma came from the Western Regions, and was either a "Persian Central Asian" or a "South Indian [...] the third son of a great Indian king." Later sources draw on these two sources, adding additional details, including a change to being descendent from a _Brahmin_ king, which accords with the reign of the Pallavas, who "claim[ed] to belong to a brahmin lineage."Emmanuel Francis (2011), _The Genealogy of the Pallavas: From Brahmins to Kings_,
 
 RELIGIONS OF SOUTH ASIA, VOL 5, NO 1/5.2 (2011)
@@ -25,11 +23,11 @@ The _Western Regions_ was a historical name specified in the Chinese chronicles 
 
 _The Record of the Buddhist Monasteries of Luoyang_
 
-Central_Asian_Buddhist_Monks.jpeg teaching an East Asian monk. A fresco from the Bezeklik, dated to the 9th or 10th century; although Albert von Le Coq (1913) assumed the red-haired monk was a Tocharian,[3] modern scholarship has identified similar Caucasian figures of the same cave temple (No. 9) as ethnic Sogdians,[4] an Eastern Iranian people who inhabited Turfan as an ethnic minority community during the phases of Tang Chinese (7th-8th century) and Uyghur rule (9th-13th century).[5]]] The earliest text mentioning Bodhidharma is _The Record of the Buddhist Monasteries of Luoyang_ ( _Luòyáng Qiélánjì_) which was compiled in 547 by Yáng Xuànzhī (楊衒之), a writer and translator of Mahayana sutras into Chinese. Yang gave the following account:
+teaching an East Asian monk. A fresco from the Bezeklik, dated to the 9th or 10th century; although Albert von Le Coq (1913) assumed the red-haired monk was a Tocharian,[3] modern scholarship has identified similar Caucasian figures of the same cave temple (No. 9) as ethnic Sogdians,[4] an Eastern Iranian people who inhabited Turfan as an ethnic minority community during the phases of Tang Chinese (7th-8th century) and Uyghur rule (9th-13th century).[5]]] The earliest text mentioning Bodhidharma is _The Record of the Buddhist Monasteries of Luoyang_ ( _Luòyáng Qiélánjì_) which was compiled in 547 by Yáng Xuànzhī (楊衒之), a writer and translator of Mahayana sutras into Chinese. Yang gave the following account:
 
 Tánlín – preface to the Two Entrances and Four Acts
 
-Bodhidharma,_Porcelain,_Ming_Dynasty.JPG porcelain statuette of Bodhidharma from the late Ming dynasty, 17th century]] The second account was written by Tánlín (曇林; 506–574). Tánlín's brief biography of the "Dharma Master" is found in his preface to the _Long Scroll of the Treatise on the Two Entrances and Four Practices_, a text traditionally attributed to Bodhidharma and the first text to identify him as South Indian:
+porcelain statuette of Bodhidharma from the late Ming dynasty, 17th century]] The second account was written by Tánlín (曇林; 506–574). Tánlín's brief biography of the "Dharma Master" is found in his preface to the _Long Scroll of the Treatise on the Two Entrances and Four Practices_, a text traditionally attributed to Bodhidharma and the first text to identify him as South Indian:
 
 Tánlín's account was the first to mention that Bodhidharma attracted disciples, specifically mentioning Dàoyù (道育) and Dazu Huike (慧可), the latter of whom would later figure very prominently in the Bodhidharma literature. Although Tánlín has traditionally been considered a disciple of Bodhidharma, it is more likely that he was a student of Huìkě.
 
@@ -39,7 +37,7 @@ Tanlin's preface has also been preserved in Jingjue's (683-750) _Lengjie Shizi j
 
 "Further Biographies of Eminent Monks"
 
-Bodhidarma.jpg points directly to the human heart, see into your nature and become Buddha." It was created by Hakuin Ekaku (1685–1768)]]
+points directly to the human heart, see into your nature and become Buddha." It was created by Hakuin Ekaku (1685–1768)]]
 
 In the 7th-century historical work "Further Biographies of Eminent Monks" (續高僧傳 _Xù gāosēng zhuàn_), Daoxuan (道宣; 596-667) possibly drew on Tanlin's preface as a basic source, but made several significant additions:
 
@@ -53,7 +51,7 @@ Finally, Daoxuan provides information concerning Bodhidharma's death. Bodhidharm
 
 Later accounts
 
-Bodhidharma_Shaolinsi.JPG.]]
+.]]
 
 _Anthology of the Patriarchal Hall_
 
@@ -84,7 +82,7 @@ This encounter was included as the first kōan of the _Blue Cliff Record_.
 
 Nine years of wall-gazing
 
-Bodhidharma.and.Huike-Sesshu.Toyo.jpg]] Failing to make a favorable impression in South China, Bodhidharma is said to have travelled to the Shaolin Monastery. After either being refused entry or being ejected after a short time, he lived in a nearby cave, where he "faced a wall for nine years, not speaking for the entire time".
+]] Failing to make a favorable impression in South China, Bodhidharma is said to have travelled to the Shaolin Monastery. After either being refused entry or being ejected after a short time, he lived in a nearby cave, where he "faced a wall for nine years, not speaking for the entire time".
 
 The biographical tradition is littered with apocryphal tales about Bodhidharma's life and circumstances. In one version of the story, he is said to have fallen asleep seven years into his nine years of wall-gazing. Becoming angry with himself, he cut off his eyelids to prevent it from happening again. According to the legend, as his eyelids hit the floor the first tea plants sprang up, and thereafter tea would provide a stimulant to help keep students of Chan awake during zazen.
 
@@ -102,7 +100,7 @@ _Jǐngdé Records of the Transmission of the Lamp_ (Jǐngdé chuándēng lù 景
 
 Bodhidharma at Shaolin
 
-Himeji-jo-112113.jpg.]] Some Chinese myths and legends describe Bodhidharma as being disturbed by the poor physical shape of the Shaolin monks, after which he instructed them in techniques to maintain their physical condition as well as teaching meditation. He is said to have taught a series of external exercises called the Eighteen Arhat Hands and an internal practice called the Sinew Metamorphosis Classic. In addition, after his departure from the temple, two manuscripts by Bodhidharma were said to be discovered inside the temple: the _Yijin Jing_ and the _Xisui Jing_. Copies and translations of the _Yijin Jing_ survive to the modern day. The _Xisui Jing_ has been lost.
+.]] Some Chinese myths and legends describe Bodhidharma as being disturbed by the poor physical shape of the Shaolin monks, after which he instructed them in techniques to maintain their physical condition as well as teaching meditation. He is said to have taught a series of external exercises called the Eighteen Arhat Hands and an internal practice called the Sinew Metamorphosis Classic. In addition, after his departure from the temple, two manuscripts by Bodhidharma were said to be discovered inside the temple: the _Yijin Jing_ and the _Xisui Jing_. Copies and translations of the _Yijin Jing_ survive to the modern day. The _Xisui Jing_ has been lost.
 
 Travels in Southeast Asia
 

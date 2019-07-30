@@ -17,14 +17,14 @@ In May 1991, Sega launched its Game Gear portable gaming handheld. Also a color 
 
 Lynx II
 
-Atari-Lynx-II-Handheld-Angled.jpg During 1990, the Lynx had moderate sales. In July 1991, Atari Corporation introduced the Lynx II with a new marketing campaign, new packaging, slightly improved hardware, better battery life and a new sleeker look. The new system (referred to within Atari as the "Lynx II") featured rubber hand grips and a clearer backlit color screen with a power save option (which turned off the LCD panel's backlighting). It also replaced the monaural headphone jack of the original Lynx with one wired for stereo. The new packaging made the Lynx available without any accessories, dropping the price to $99. Although sales improved, Nintendo still dominated the handheld market.
+During 1990, the Lynx had moderate sales. In July 1991, Atari Corporation introduced the Lynx II with a new marketing campaign, new packaging, slightly improved hardware, better battery life and a new sleeker look. The new system (referred to within Atari as the "Lynx II") featured rubber hand grips and a clearer backlit color screen with a power save option (which turned off the LCD panel's backlighting). It also replaced the monaural headphone jack of the original Lynx with one wired for stereo. The new packaging made the Lynx available without any accessories, dropping the price to $99. Although sales improved, Nintendo still dominated the handheld market.
 
 In 1995, Atari started shifting its focus away from the Lynx and put more focus on the Atari Jaguar. A handful of games were released during this time, including _Battlezone 2000_. In 1996, Atari shut down its internal game development.
 
 
 Features
 
-Todd's_Adventures_in_Slime_World_cover_art_(Atari_Lynx).jpg The Atari Lynx's innovative features include being the first color handheld, with a backlit display, a switchable right-handed/left-handed (upside down) configuration, and the ability to network with up to 15 other units via its Comlynx system (though most games would network eight or fewer players). Comlynx was originally developed to run over infrared links (and was codenamed RedEye).[18] This was changed to a cable-based networking system before the final release. According to Peter Engelbrite, when players walked through the beam, the link would be interrupted. The maximum stable connection allowed was eight players.[19] Engelbrite also developed the first recordable eight-player co-op game, and the only eight-player game for the Atari Lynx, _Todd's Adventures in Slime World_, using the Comlynx system. Each Lynx needed a copy of the game, and one cable could connect two machines. The cables could be connected into a chain.
+The Atari Lynx's innovative features include being the first color handheld, with a backlit display, a switchable right-handed/left-handed (upside down) configuration, and the ability to network with up to 15 other units via its Comlynx system (though most games would network eight or fewer players). Comlynx was originally developed to run over infrared links (and was codenamed RedEye).[18] This was changed to a cable-based networking system before the final release. According to Peter Engelbrite, when players walked through the beam, the link would be interrupted. The maximum stable connection allowed was eight players.[19] Engelbrite also developed the first recordable eight-player co-op game, and the only eight-player game for the Atari Lynx, _Todd's Adventures in Slime World_, using the Comlynx system. Each Lynx needed a copy of the game, and one cable could connect two machines. The cables could be connected into a chain.
 
 The Lynx was cited as the "first gaming console with hardware support for zooming and distortion of sprites". Featuring a 4096 color palette and integrated math and graphics co-processors (including a blitter unit), its pseudo-3D color graphics display was said to be the key defining feature in the system's competition against Nintendo's monochromatic Game Boy. The fast pseudo-3D graphics features were made possible on a minimal hardware system by co-designer Dave Needle having "invented the technique for planar expansion/shrinking capability" and using stretched, textured, triangles instead of full polygons.[20]
 
@@ -47,7 +47,7 @@ A number of independent developers have released new titles for the Lynx includi
 
 Technical specifications
 
-Atari-Lynx-II-Motherboard.jpg Atari-Lynx-II-Backlight.jpg tube used is power hungry, giving the system a short battery life.]]
+tube used is power hungry, giving the system a short battery life.]]
 
 -   Mikey (16-bit custom CMOS chip running at 16 MHz)[29]
     -   WDC 8-bit 65SC02 processor (based on the MOS 6502) running at up to 4 MHz (≈3.6 MHz average)[30]

@@ -1,4 +1,4 @@
-Solar_eclipse_1999_4_NR.jpgs can be seen along the limb (in red) as well as extensive coronal filaments.]]
+s can be seen along the limb (in red) as well as extensive coronal filaments.]]
 
 An ECLIPSE is an astronomical event that occurs when an astronomical object is temporarily obscured, either by passing into the shadow of another body or by having another body pass between it and the viewer. This alignment of three celestial objects is known as a syzygy.[1] Apart from syzygy, the term eclipse is also used when a spacecraft reaches a position where it can observe two celestial bodies so aligned. An eclipse is the result of either an occultation (completely hidden) or a transit (partially hidden).
 
@@ -14,7 +14,7 @@ The term is derived from the ancient Greek noun (__), which means "the abandonme
 
 Umbra, penumbra and antumbra
 
-Umbra01.svg For any two objects in space, a line can be extended from the first through the second. The latter object will block some amount of light being emitted by the former, creating a region of shadow around the axis of the line. Typically these objects are moving with respect to each other and their surroundings, so the resulting shadow will sweep through a region of space, only passing through any particular location in the region for a fixed interval of time. As viewed from such a location, this shadowing event is known as an eclipse.[5]
+For any two objects in space, a line can be extended from the first through the second. The latter object will block some amount of light being emitted by the former, creating a region of shadow around the axis of the line. Typically these objects are moving with respect to each other and their surroundings, so the resulting shadow will sweep through a region of space, only passing through any particular location in the region for a fixed interval of time. As viewed from such a location, this shadowing event is known as an eclipse.[5]
 
 Typically the cross-section of the objects involved in an astronomical eclipse are roughly disk shaped.[6] The region of an object's shadow during an eclipse is divided into three parts:[7]
 
@@ -22,7 +22,7 @@ Typically the cross-section of the objects involved in an astronomical eclipse a
 -   The _antumbra_, extending beyond the tip of the umbra, within which the object is completely in front of the light source but too small to completely cover it.
 -   The _penumbra_, within which the object is only partially in front of the light source.
 
-Solar_eclipse_types.svg A TOTAL ECLIPSE occurs when the observer is within the umbra, an ANNULAR ECLIPSE when the observer is within the antumbra, and a PARTIAL ECLIPSE when the observer is within the penumbra. During a lunar eclipse only the umbra and penumbra are applicable. This is because Earth's apparent diameter from the viewpoint of the Moon is nearly four times that of the Sun. The same terms may be used analogously in describing other eclipses, e.g., the antumbra of Deimos crossing Mars, or Phobos entering Mars's penumbra.
+A TOTAL ECLIPSE occurs when the observer is within the umbra, an ANNULAR ECLIPSE when the observer is within the antumbra, and a PARTIAL ECLIPSE when the observer is within the penumbra. During a lunar eclipse only the umbra and penumbra are applicable. This is because Earth's apparent diameter from the viewpoint of the Moon is nearly four times that of the Sun. The same terms may be used analogously in describing other eclipses, e.g., the antumbra of Deimos crossing Mars, or Phobos entering Mars's penumbra.
 
 The _first contact_ occurs when the eclipsing object's disc first starts to impinge on the light source; _second contact_ is when the disc moves completely within the light source; _third contact_ when it starts to move out of the light; and _fourth_ or _last contact_ when it finally leaves the light source's disc entirely.
 
@@ -42,7 +42,7 @@ An eclipse cycle takes place when eclipses in a series are separated by a certai
 
 Earth–Moon system
 
-Lunar_eclipse_diagram-en.svg, showing the Moon's two nodes where eclipses can occur.]] An eclipse involving the Sun, Earth, and Moon can occur only when they are nearly in a straight line, allowing one to be hidden behind another, viewed from the third. Because the orbital plane of the Moon is tilted with respect to the orbital plane of the Earth (the ecliptic), eclipses can occur only when the Moon is close to the intersection of these two planes (the nodes). The Sun, Earth and nodes are aligned twice a year (during an eclipse season), and eclipses can occur during a period of about two months around these times. There can be from four to seven eclipses in a calendar year, which repeat according to various eclipse cycles, such as a saros.
+, showing the Moon's two nodes where eclipses can occur.]] An eclipse involving the Sun, Earth, and Moon can occur only when they are nearly in a straight line, allowing one to be hidden behind another, viewed from the third. Because the orbital plane of the Moon is tilted with respect to the orbital plane of the Earth (the ecliptic), eclipses can occur only when the Moon is close to the intersection of these two planes (the nodes). The Sun, Earth and nodes are aligned twice a year (during an eclipse season), and eclipses can occur during a period of about two months around these times. There can be from four to seven eclipses in a calendar year, which repeat according to various eclipse cycles, such as a saros.
 
 Between 1901 and 2100 there are the maximum of seven eclipses in:[11]
 
@@ -56,11 +56,9 @@ Excluding penumbral lunar eclipses, there are a maximum of seven eclipses in:[12
 
 Solar eclipse
 
-2008-08-01_Solar_eclipse_progression_with_timestamps.jpg on August 1, 2008, viewed from Novosibirsk, Russia. The time between shots is three minutes.]] As observed from the Earth, a solar eclipse occurs when the Moon passes in front of the Sun. The type of solar eclipse event depends on the distance of the Moon from the Earth during the event. A total solar eclipse occurs when the Earth intersects the umbra portion of the Moon's shadow. When the umbra does not reach the surface of the Earth, the Sun is only partially occulted, resulting in an annular eclipse. Partial solar eclipses occur when the viewer is inside the penumbra.[13] Solar_eclipse_visualisation.svg The eclipse magnitude is the fraction of the Sun's diameter that is covered by the Moon. For a total eclipse, this value is always greater than or equal to one. In both annular and total eclipses, the eclipse magnitude is the ratio of the angular sizes of the Moon to the Sun.[14]
+on August 1, 2008, viewed from Novosibirsk, Russia. The time between shots is three minutes.]] As observed from the Earth, a solar eclipse occurs when the Moon passes in front of the Sun. The type of solar eclipse event depends on the distance of the Moon from the Earth during the event. A total solar eclipse occurs when the Earth intersects the umbra portion of the Moon's shadow. When the umbra does not reach the surface of the Earth, the Sun is only partially occulted, resulting in an annular eclipse. Partial solar eclipses occur when the viewer is inside the penumbra.[13] The eclipse magnitude is the fraction of the Sun's diameter that is covered by the Moon. For a total eclipse, this value is always greater than or equal to one. In both annular and total eclipses, the eclipse magnitude is the ratio of the angular sizes of the Moon to the Sun.[14]
 
 Solar eclipses are relatively brief events that can only be viewed in totality along a relatively narrow track. Under the most favorable circumstances, a total solar eclipse can last for 7 minutes, 31 seconds, and can be viewed along a track that is up to 250 km wide. However, the region where a partial eclipse can be observed is much larger. The Moon's umbra will advance eastward at a rate of 1,700 km/h, until it no longer intersects the Earth's surface.
-
-Geometry_of_a_Total_Solar_Eclipse.svg
 
 During a solar eclipse, the Moon can sometimes perfectly cover the Sun because its apparent size is nearly the same as the Sun's when viewed from the Earth. A total solar eclipse is in fact an occultation while an annular solar eclipse is a transit.
 
@@ -68,7 +66,7 @@ When observed at points in space other than from the Earth's surface, the Sun ca
 
 Lunar eclipse
 
-Eclipse_lune.jpg from right to left. Totality is shown with the first two images. These required a longer exposure time to make the details visible.]]
+from right to left. Totality is shown with the first two images. These required a longer exposure time to make the details visible.]]
 
 Lunar eclipses occur when the Moon passes through the Earth's shadow. This happens only during a full moon, when the Moon is on the far side of the Earth from the Sun. Unlike a solar eclipse, an eclipse of the Moon can be observed from nearly an entire hemisphere. For this reason it is much more common to observe a lunar eclipse from a given location. A lunar eclipse lasts longer, taking several hours to complete, with totality itself usually averaging anywhere from about 30 minutes to over an hour.[15]
 
@@ -85,7 +83,7 @@ Other planets and dwarf planets
 
 Gas giants
 
-JupiterandIo.jpg and its moon Io taken by Hubble. The black spot is Io's shadow.]] Saturn_eclipse.jpg occults the Sun as seen from the _Cassini–Huygens_ space probe]] The gas giant planets (Jupiter,[25] Saturn,[26] Uranus,[27] and Neptune)[28] have many moons and thus frequently display eclipses. The most striking involve Jupiter, which has four large moons and a low axial tilt, making eclipses more frequent as these bodies pass through the shadow of the larger planet. Transits occur with equal frequency. It is common to see the larger moons casting circular shadows upon Jupiter's cloudtops.
+and its moon Io taken by Hubble. The black spot is Io's shadow.]] occults the Sun as seen from the _Cassini–Huygens_ space probe]] The gas giant planets (Jupiter,[25] Saturn,[26] Uranus,[27] and Neptune)[28] have many moons and thus frequently display eclipses. The most striking involve Jupiter, which has four large moons and a low axial tilt, making eclipses more frequent as these bodies pass through the shadow of the larger planet. Transits occur with equal frequency. It is common to see the larger moons casting circular shadows upon Jupiter's cloudtops.
 
 The eclipses of the Galilean moons by Jupiter became accurately predictable once their orbital elements were known. During the 1670s, it was discovered that these events were occurring about 17 minutes later than expected when Jupiter was on the far side of the Sun. Ole Rømer deduced that the delay was caused by the time needed for light to travel from Jupiter to the Earth. This was used to produce the first estimate of the speed of light.[29]
 
@@ -95,7 +93,7 @@ The timing of the Jovian satellite eclipses was also used to calculate an observ
 
 Mars
 
-PIA05553.gif, as seen by the Mars _Opportunity rover_ (10 March 2004).]] On Mars, only partial solar eclipses (transits) are possible, because neither of its moons is large enough, at their respective orbital radii, to cover the Sun's disc as seen from the surface of the planet. Eclipses of the moons by Mars are not only possible, but commonplace, with hundreds occurring each Earth year. There are also rare occasions when Deimos is eclipsed by Phobos.[31] Martian eclipses have been photographed from both the surface of Mars and from orbit.
+, as seen by the Mars _Opportunity rover_ (10 March 2004).]] On Mars, only partial solar eclipses (transits) are possible, because neither of its moons is large enough, at their respective orbital radii, to cover the Sun's disc as seen from the surface of the planet. Eclipses of the moons by Mars are not only possible, but commonplace, with hundreds occurring each Earth year. There are also rare occasions when Deimos is eclipsed by Phobos.[31] Martian eclipses have been photographed from both the surface of Mars and from orbit.
 
 Pluto
 

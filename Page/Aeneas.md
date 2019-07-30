@@ -1,11 +1,11 @@
-Aeneas'_Flight_from_Troy_by_Federico_Barocci.jpg, 1598 (Galleria Borghese, Rome, Italy)]]
+, 1598 (Galleria Borghese, Rome, Italy)]]
 
 In Greco-Roman mythology, AENEAS (;[1] Greek: Αἰνείας, _Aineías_, possibly derived from Greek meaning "praised") was a Trojan hero, the son of the prince Anchises and the goddess Aphrodite (Venus). His father was a first cousin of King Priam of Troy (both being grandsons of Ilus, founder of Troy), making Aeneas a second cousin to Priam's children (such as Hector and Paris). He is a character in Greek mythology and is mentioned in Homer's _Iliad_. Aeneas receives full treatment in Roman mythology, most extensively in Virgil's _Aeneid,_ where he is cast as an ancestor of Romulus and Remus. He became the first true hero of Rome. Snorri Sturluson identifies him with the Norse Æsir Vidarr.[2]
 
 
 Name
 
-MACEDON,_Aineia._Circa_510-480_BC.jpg, with portrait of Aeneas. c. 510–480 BCE.]] Aeneas is the Latin spelling of Greek Αἰνείας (_Aineías_). In the Homeric Hymn to Aphrodite, Aeneas is first introduced with Aphrodite naming him Αἰνείας (_Aineías_) for the αὶνóν ἄχος ("terrible grief") he caused her, where _Aineías_ derives from the adjective αὶνóν (_ainon_, meaning "terrible").[3] It is a popular etymology for the name, apparently exploited by Homer in the Iliad.[4] Later in the Medieval period there were writers who held that, because the Aeneid was written by a philosopher it is meant to be read philosophically.[5] As such, in the "natural order", the meaning of Aeneas' name combines Greek _ennos_ ("dweller") and _demas_ ("body"), which becomes _ennaios_, meaning "in-dweller" (i.e. as a god inhabiting a mortal body).[6] However, there is no certainty regarding the origin of his name.
+, with portrait of Aeneas. c. 510–480 BCE.]] Aeneas is the Latin spelling of Greek Αἰνείας (_Aineías_). In the Homeric Hymn to Aphrodite, Aeneas is first introduced with Aphrodite naming him Αἰνείας (_Aineías_) for the αὶνóν ἄχος ("terrible grief") he caused her, where _Aineías_ derives from the adjective αὶνóν (_ainon_, meaning "terrible").[3] It is a popular etymology for the name, apparently exploited by Homer in the Iliad.[4] Later in the Medieval period there were writers who held that, because the Aeneid was written by a philosopher it is meant to be read philosophically.[5] As such, in the "natural order", the meaning of Aeneas' name combines Greek _ennos_ ("dweller") and _demas_ ("body"), which becomes _ennaios_, meaning "in-dweller" (i.e. as a god inhabiting a mortal body).[6] However, there is no certainty regarding the origin of his name.
 
 Epithets
 
@@ -16,13 +16,11 @@ Greek myth and epos
 
 Homeric _Hymn to Aphrodite_
 
-Painting _Venus and Anchises_ by William Blake Richmond (1889 or 90)|thumb|400px
-
 The story of the birth of Aeneas is told in the "Hymn to Aphrodite", one of the major Homeric Hymns. Aphrodite has caused Zeus to fall in love with mortal women. In retaliation, Zeus puts desire in her heart for Anchises, who is tending his cattle among the hills near Mount Ida. When Aphrodite sees him she is smitten. She adorns herself as if for a wedding among the gods and appears before him. He is overcome by her beauty, believing that she is a goddess, but Aphrodite identifies herself as a Phrygian princess. After they make love, Aphrodite reveals her true identity to him and Anchises fears what might happen to him as a result of their liaison. Aphrodite assures him that he will be protected, and tells him that she will bear him a son to be called Aeneas. However, she warns him that he must never tell anyone that he has lain with a goddess. When Aeneas is born, Aphrodite takes him to the nymphs of Mount Ida. She directs them to raise the child to age five, then take him to Anchises.[8] According to other sources, Anchises later brags about his encounter with Aphrodite, and as a result is struck in the foot with a thunderbolt by Zeus. Thereafter he is lame in that foot, so that Aeneas has to carry him from the flames of Troy.[9]
 
 Homer's _Iliad_
 
-Aineias_Ankhises_Louvre_F118.jpg, black-figured oinochoe, c. 520–510 BCE, Louvre (F 118)]] Aeneas is a minor character in the _Iliad_, where he is twice saved from death by the gods as if for an as-yet-unknown destiny, but is an honorable warrior in his own right. Having held back from the fighting, aggrieved with Priam because in spite of his brave deeds he was not given his due share of honour, he leads an attack against Idomeneus to recover the body of his brother-in-law Alcathous at the urging of Deiphobus.[10] He is the leader of the Trojans' Dardanian allies, as well as a second cousin and principal lieutenant of Hector, son of the Trojan king Priam. Aeneas's mother Aphrodite frequently comes to his aid on the battlefield, and he is a favorite of Apollo. Aphrodite and Apollo rescue Aeneas from combat with Diomedes of Argos, who nearly kills him, and carry him away to Pergamos for healing. Even Poseidon, who normally favors the Greeks, comes to Aeneas's rescue after he falls under the assault of Achilles, noting that Aeneas, though from a junior branch of the royal family, is destined to become king of the Trojan people. Bruce Louden presents Aeneas as a "type" in the tradition of Utnapishtim, Baucis and Philemon, and Lot; the just man spared the general destruction.[11] Apollodorus explains that "...the Greeks let him alone on account of his piety".[12]
+, black-figured oinochoe, c. 520–510 BCE, Louvre (F 118)]] Aeneas is a minor character in the _Iliad_, where he is twice saved from death by the gods as if for an as-yet-unknown destiny, but is an honorable warrior in his own right. Having held back from the fighting, aggrieved with Priam because in spite of his brave deeds he was not given his due share of honour, he leads an attack against Idomeneus to recover the body of his brother-in-law Alcathous at the urging of Deiphobus.[10] He is the leader of the Trojans' Dardanian allies, as well as a second cousin and principal lieutenant of Hector, son of the Trojan king Priam. Aeneas's mother Aphrodite frequently comes to his aid on the battlefield, and he is a favorite of Apollo. Aphrodite and Apollo rescue Aeneas from combat with Diomedes of Argos, who nearly kills him, and carry him away to Pergamos for healing. Even Poseidon, who normally favors the Greeks, comes to Aeneas's rescue after he falls under the assault of Achilles, noting that Aeneas, though from a junior branch of the royal family, is destined to become king of the Trojan people. Bruce Louden presents Aeneas as a "type" in the tradition of Utnapishtim, Baucis and Philemon, and Lot; the just man spared the general destruction.[11] Apollodorus explains that "...the Greeks let him alone on account of his piety".[12]
 
 Other sources
 
@@ -31,25 +29,23 @@ The Roman mythographer Gaius Julius Hyginus (c. 64 BCE – CE 17) in his _Fabula
 
 Roman myth and literature
 
-Denier_frappé_sous_César_célébrant_le_mythe_d'Enée_et_d'Anchise.jpg
-
 The history of Aeneas was continued by Roman authors. One influential source was the account of Rome's founding in Cato the Elder's _Origines_.[14] The Aeneas legend was well known in Virgil's day and appeared in various historical works, including the _Roman Antiquities_ of the Greek historian Dionysius of Halicarnassus (relying on Marcus Terentius Varro), _Ab Urbe Condita_ by Livy (probably dependent on Quintus Fabius Pictor, fl. 200 BCE), and Gnaeus Pompeius Trogus (now extant only in an epitome by Justin).
 
 Virgil's _Aeneid_
 
-Venus_as_Huntress_Appears_to_Aeneas.jpg]]
+]]
 
 The _Aeneid_ explains that Aeneas is one of the few Trojans who were not killed or enslaved when Troy fell. Aeneas, after being commanded by the gods to flee, gathered a group, collectively known as the Aeneads, who then traveled to Italy and became progenitors of Romans. The Aeneads included Aeneas's trumpeter Misenus, his father Anchises, his friends Achates, Sergestus, and Acmon, the healer Iapyx, the helmsman Palinurus, and his son Ascanius (also known as Iulus, Julus, or Ascanius Julius). He carried with him the Lares and Penates, the statues of the household gods of Troy, and transplanted them to Italy.
 
 Several attempts to find a new home failed; one such stop was on Sicily, where in Drepanum, on the island's western coast, his father, Anchises, died peacefully.
 
-Guérin_Énée_racontant_à_Didon_les_malheurs_de_la_ville_de_Troie_Louvre_5184.jpg]]
+]]
 
 After a brief but fierce storm sent up against the group at Juno's request, Aeneas and his fleet made landfall at Carthage after six years of wanderings. Aeneas had a year-long affair with the Carthaginian queen Dido (also known as Elissa), who proposed that the Trojans settle in her land and that she and Aeneas reign jointly over their peoples. A marriage of sorts was arranged between Dido and Aeneas at the instigation of Juno, who was told that her favorite city would eventually be defeated by the Trojans' descendants. Aeneas's mother Venus (the Roman adaptation of Aphrodite) realized that her son and his company needed a temporary respite to reinforce themselves for the journey to come. However, the messenger god Mercury was sent by Jupiter and Venus to remind Aeneas of his journey and his purpose, compelling him to leave secretly. When Dido learned of this, she uttered a curse that would forever pit Carthage against Rome, an enmity that would culminate in the Punic Wars. She then committed suicide by stabbing herself with the same sword she gave Aeneas when they first met.
 
 After the sojourn in Carthage, the Trojans returned to Sicily where Aeneas organized funeral games to honor his father, who had died a year before. The company traveled on and landed on the western coast of Italy. Aeneas descended into the underworld where he met Dido (who turned away from him to return to her husband) and his father, who showed him the future of his descendants and thus the history of Rome.
 
-Aeneas_and_Turnus.jpg, by Luca Giordano, 1634–1705. The _genius_ of Aeneas is shown ascendant, looking into the light of the future, while that of Turnus is setting, shrouded in darkness]]
+, by Luca Giordano, 1634–1705. The _genius_ of Aeneas is shown ascendant, looking into the light of the future, while that of Turnus is setting, shrouded in darkness]]
 
 Latinus, king of the Latins, welcomed Aeneas's army of exiled Trojans and let them reorganize their lives in Latium. His daughter Lavinia had been promised to Turnus, king of the Rutuli, but Latinus received a prophecy that Lavinia would be betrothed to one from another land – namely, Aeneas. Latinus heeded the prophecy, and Turnus consequently declared war on Aeneas at the urging of Juno, who was aligned with King Mezentius of the Etruscans and Queen Amata of the Latins. Aeneas's forces prevailed. Turnus was killed, and Virgil's account ends abruptly.
 
@@ -67,14 +63,14 @@ Medieval interpretations of Aeneas were greatly influenced by both Virgil and ot
 
 Family and legendary descendants
 
-B._PINELLI,_Enea_e_il_Tevere.jpg, by Bartolomeo Pinelli]]
+, by Bartolomeo Pinelli]]
 
 Aeneas had an extensive family tree. His wet-nurse was Caieta,[24] and he is the father of Ascanius with Creusa, and of Silvius with Lavinia. Ascanius, also known as Iulus (or Julius),[25] founded Alba Longa and was the first in a long series of kings. According to the mythology outlined by Virgil in the _Aeneid,_ Romulus and Remus were both descendants of Aeneas through their mother Rhea Silvia, making Aeneas the progenitor of the Roman people.[26] Some early sources call him their father or grandfather,[27] but considering the commonly accepted dates of the fall of Troy (1184 BCE) and the founding of Rome (753 BCE), this seems unlikely. The Julian family of Rome, most notably Julius Cæsar and Augustus, traced their lineage to Ascanius and Aeneas,[28] thus to the goddess Venus. Through the Julians, the Palemonids make this claim. The legendary kings of Britain – including King Arthur – trace their family through a grandson of Aeneas, Brutus.[29]
 
 
 Character and appearance
 
-Affresco_romano_-_Enea_e_di.jpg and Aeneas, from a Roman fresco, Pompeian Third Style (10 BCE – 45 CE), Pompeii, Italy]] Aeneas's consistent epithet in Virgil and other Latin authors is _pius_, a term that connotes reverence toward the gods and familial dutifulness.
+and Aeneas, from a Roman fresco, Pompeian Third Style (10 BCE – 45 CE), Pompeii, Italy]] Aeneas's consistent epithet in Virgil and other Latin authors is _pius_, a term that connotes reverence toward the gods and familial dutifulness.
 
 In the _Aeneid_, Aeneas is described as strong and handsome, but neither his hair colour nor complexion are described.[30] In late antiquity however sources add further physical descriptions. The _De excidio Troiae_ of Dares Phrygius describes Aeneas as "auburn-haired, stocky, eloquent, courteous, prudent, pious, and charming".[31] There is also a brief physical description found in 6th century AD John Malalas' _Chronographia_: "Aeneas: short, fat, with a good chest, powerful, with a ruddy complexion, a broad face, a good nose, fair skin, bald on the forehead, a good beard, grey eyes."[32]
 
@@ -116,21 +112,21 @@ Villa Valmarana
 
 The artist Giovanni Battista Tiepolo was commissioned by Gaetano Valmarana in 1757 to fresco several rooms in the Villa Valmarana, the family villa situated outside Vicenza. Tiepolo decorated the _palazzina_ with scenes from epics such as Homer's _Iliad_ and Virgil's _Aeneid_.[37]
 
-  --------------------------------------- ----------------------------------- ------------------------------------------------------------------------ -------------------------------------------------------------
-  Giovanni_Battista_Tiepolo_038.jpg).]]   Giovanni_Battista_Tiepolo_054.jpg   Giovanni_Battista_Tiepolo_-_Mercury_Appearing_to_Aeneas_-_WGA22338.jpg   Giovanni_Battista_Tiepolo_-_Venus_and_Vulcan_-_WGA22370.jpg
-  --------------------------------------- ----------------------------------- ------------------------------------------------------------------------ -------------------------------------------------------------
+  ------ -- -- --
+  ).]]
+  ------ -- -- --
 
 Aeneas flees Troy
 
-  ---------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------- --------------------------------------------------------------- -------------------------------------------------------------------
-  'Flight_of_Aeneas_from_Troy',_fresco_painting_by_Girolamo_Genga,_1507-1510,_Pinacoteca_Nazionale,_Siena.jpg (between 1507 and 1510).]]   Aeneas_and_his_Father_Fleeing_Troy_by_Simon_Vouet,_San_Diego_Museum_of_Art.JPG (c. 1635).]]   Enée_&_Anchise_Lepautre_Louvre_M.R.2028_noir.jpg (c. 1697).]]   Batoni,_Pompeo_—_Aeneas_fleeing_from_Troy_—_1750.jpg (c. 1750).]]
-  ---------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------- --------------------------------------------------------------- -------------------------------------------------------------------
+  ---------------------------- -------------- -------------- --------------
+  (between 1507 and 1510).]]   (c. 1635).]]   (c. 1697).]]   (c. 1750).]]
+  ---------------------------- -------------- -------------- --------------
 
 Aeneas with Dido
 
-  ------------------------------------------------ ----------------------------------------------------------------------------------------- ----------------------------------------------------------------------- -------------------------------------------------------
-  Dido_and_Aeneas_LACMA_M.81.199.jpg (c. 1630)]]   Sir_Nathaniel_Dance-Holland_-_The_Meeting_of_Dido_and_Aeneas_-_Google_Art_Project.jpg]]   Thomas_Jones_-_Landscape_with_Dido_and_Aeneas_-_WGA11966.jpg (1769)]]   The-Meeting-Of-Dido-And-Aeneas.jpg (3 January 1780)]]
-  ------------------------------------------------ ----------------------------------------------------------------------------------------- ----------------------------------------------------------------------- -------------------------------------------------------
+  ------------- ---- ---------- --------------------
+  (c. 1630)]]   ]]   (1769)]]   (3 January 1780)]]
+  ------------- ---- ---------- --------------------
 
 
 Family tree

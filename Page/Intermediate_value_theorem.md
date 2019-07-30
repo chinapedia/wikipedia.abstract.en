@@ -1,4 +1,4 @@
-Illustration_for_the_intermediate_value_theorem.svg In mathematical analysis, the INTERMEDIATE VALUE THEOREM states that if a continuous function, _f_, with an interval, [_a_, _b_], as its domain, takes values _f_(_a_) and _f_(_b_) at each end of the interval, then it also takes any value between _f_(_a_) and _f_(_b_) at some point within the interval.
+In mathematical analysis, the INTERMEDIATE VALUE THEOREM states that if a continuous function, _f_, with an interval, [_a_, _b_], as its domain, takes values _f_(_a_) and _f_(_b_) at each end of the interval, then it also takes any value between _f_(_a_) and _f_(_b_) at some point within the interval.
 
 This has two important corollaries:
 
@@ -7,8 +7,6 @@ This has two important corollaries:
 
 
 Motivation
-
-Intermediatevaluetheorem.svg
 
 This captures an intuitive property of continuous functions: given _f_ continuous on [1, 2] with the known values _f_(1) = 3 and _f_(2) = 5. Then the graph of _y_ = _f_(_x_) must pass through the horizontal line _y_ = 4 while _x_ moves from 1 to 2. It represents the idea that the graph of a continuous function on a closed interval can be drawn without lifting a pencil from the paper.
 

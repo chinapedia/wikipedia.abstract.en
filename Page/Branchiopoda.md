@@ -17,7 +17,7 @@ In early taxonomic treatments, the current members of the Branchiopoda were all 
 
 Anostraca
 
-Artemia_salina_3.jpg'' (Anostraca: Artemiidae)]] The fairy shrimp of the order Anostraca are usually long (exceptionally up to ).[10] Most species have 20 body segments, bearing 11 pairs of leaf-like _phyllopodia_ (swimming legs), and the body lacks a carapace.[11] They live in vernal pools and hypersaline lakes across the world, including pools in deserts, in ice-covered mountain lakes and in Antarctica. They swim "upside-down" and feed by filtering organic particles from the water or by scraping algae from surfaces.[12] They are an important food for many birds and fish, and are cultured and harvested for use as fish food.[13] There are 300 species spread across 8 families.[14]
+'' (Anostraca: Artemiidae)]] The fairy shrimp of the order Anostraca are usually long (exceptionally up to ).[10] Most species have 20 body segments, bearing 11 pairs of leaf-like _phyllopodia_ (swimming legs), and the body lacks a carapace.[11] They live in vernal pools and hypersaline lakes across the world, including pools in deserts, in ice-covered mountain lakes and in Antarctica. They swim "upside-down" and feed by filtering organic particles from the water or by scraping algae from surfaces.[12] They are an important food for many birds and fish, and are cultured and harvested for use as fish food.[13] There are 300 species spread across 8 families.[14]
 
 Lipostraca
 
@@ -33,7 +33,7 @@ Clam shrimp are bivalved animals which have lived since at least the Devonian. T
 
 Cladocera
 
-Daphnia_pulex.png'' (Cladocera: Daphniidae)]] Cladocera is an order of small crustaceans commonly called water fleas. Around 620 species have been recognised so far, with many more undescribed.[27] They are ubiquitous in inland aquatic habitats, but rare in the oceans.[28] Most are long, with a down-turned head, and a carapace covering the apparently unsegmented thorax and abdomen.[29] There is a single median compound eye.[30] Most species show cyclical parthenogenesis, where asexual reproduction is occasionally supplemented by sexual reproduction, which produces resting eggs that allow the species to survive harsh conditions and disperse to distant habitats.[31]
+'' (Cladocera: Daphniidae)]] Cladocera is an order of small crustaceans commonly called water fleas. Around 620 species have been recognised so far, with many more undescribed.[27] They are ubiquitous in inland aquatic habitats, but rare in the oceans.[28] Most are long, with a down-turned head, and a carapace covering the apparently unsegmented thorax and abdomen.[29] There is a single median compound eye.[30] Most species show cyclical parthenogenesis, where asexual reproduction is occasionally supplemented by sexual reproduction, which produces resting eggs that allow the species to survive harsh conditions and disperse to distant habitats.[31]
 
 
 Evolution

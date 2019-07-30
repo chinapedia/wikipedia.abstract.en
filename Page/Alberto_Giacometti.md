@@ -9,7 +9,7 @@ In Giacometti's whole body of work, his painting constitutes only a small part. 
 
 Early life
 
-Paolo_Monti_-_Servizio_fotografico_(Venezia,_1962)_-_BEIC_6328562.jpg in 1962, photographed by Paolo Monti (Fondo Paolo Monti, BEIC)]]
+in 1962, photographed by Paolo Monti (Fondo Paolo Monti, BEIC)]]
 
 Giacometti was born in Borgonovo, Switzerland, in the canton Graubünden's southerly alpine valley Val Bregaglia near the Italian border, as the eldest of four children of Giovanni Giacometti, a well-known post-Impressionist painter, and Annetta Giacometti-Stampa. He was a descendant of Protestant refugees escaping the inquisition. Coming from an artistic background, he was interested in art from an early age. Alberto attended the Geneva School of Fine Arts. His brothers Diego (1902–1985) and Bruno (1907–2012) would go on to become artists and architects as well. Additionally, Zaccaria Giacometti, later professor of constitutional law and chancellor of the University of Zurich, grew up together with them, having been orphaned at the age of 12 in 1905.[7]
 
@@ -29,7 +29,7 @@ Subjects were frequently revisited: one of his favorite models was his younger b
 
 Later years
 
-'Cat'_by_Giacometti,_1954,_Metropolitan_Museum_of_Art.jpg|234x234px]]In 1958 Giacometti was asked to create a monumental sculpture for the Chase Manhattan Bank building in New York, which was beginning construction. Although he had for many years "harbored an ambition to create work for a public square",[12] he "had never set foot in New York, and knew nothing about life in a rapidly evolving metropolis. Nor had he ever laid eyes on an actual skyscraper", according to his biographer James Lord.[13] Giacometti's work on the project resulted in the four figures of standing women—his largest sculptures—entitled _Grande femme debout_ I through IV (1960). The commission was never completed, however, because Giacometti was unsatisfied by the relationship between the sculpture and the site, and abandoned the project.
+|234x234px]]In 1958 Giacometti was asked to create a monumental sculpture for the Chase Manhattan Bank building in New York, which was beginning construction. Although he had for many years "harbored an ambition to create work for a public square",[12] he "had never set foot in New York, and knew nothing about life in a rapidly evolving metropolis. Nor had he ever laid eyes on an actual skyscraper", according to his biographer James Lord.[13] Giacometti's work on the project resulted in the four figures of standing women—his largest sculptures—entitled _Grande femme debout_ I through IV (1960). The commission was never completed, however, because Giacometti was unsatisfied by the relationship between the sculpture and the site, and abandoned the project.
 
 In 1962, Giacometti was awarded the grand prize for sculpture at the Venice Biennale, and the award brought with it worldwide fame. Even when he had achieved popularity and his work was in demand, he still reworked models, often destroying them or setting them aside to be returned to years later. The prints produced by Giacometti are often overlooked but the catalogue raisonné, _Giacometti – The Complete Graphics and 15 Drawings by Herbert Lust_ (Tudor 1970), comments on their impact and gives details of the number of copies of each print. Some of his most important images were in editions of only 30 and many were described as rare in 1970.
 
@@ -47,7 +47,7 @@ In May 2007 the executor of his widow's estate, former French foreign minister R
 
 Artistic analysis
 
-Photograph_of_Alberto_Giacometti_by_Cartier_Bresson.jpg|380x380px]] Regarding Giacometti's sculptural technique and according to the Metropolitan Museum of Art: "The rough, eroded, heavily worked surfaces of Three Men Walking (II), 1949, typify his technique. Reduced, as they are, to their very core, these figures evoke lone trees in winter that have lost their foliage. Within this style, Giacometti would rarely deviate from the three themes that preoccupied him—the walking man; the standing, nude woman; and the bust—or all three, combined in various groupings_._"[16]
+|380x380px]] Regarding Giacometti's sculptural technique and according to the Metropolitan Museum of Art: "The rough, eroded, heavily worked surfaces of Three Men Walking (II), 1949, typify his technique. Reduced, as they are, to their very core, these figures evoke lone trees in winter that have lost their foliage. Within this style, Giacometti would rarely deviate from the three themes that preoccupied him—the walking man; the standing, nude woman; and the bust—or all three, combined in various groupings_._"[16]
 
 In a letter to Pierre Matisse, Giacometti wrote: "Figures were never a compact mass but like a transparent construction".[17] In the letter, Giacometti writes about how he looked back at the realist, classical busts of his youth with nostalgia, and tells the story of the existential crisis which precipitated the style he became known for.
 

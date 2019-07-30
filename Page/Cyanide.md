@@ -7,13 +7,6 @@ Organic cyanides are usually called nitriles. In nitriles, the CN group is linke
 
 Nomenclature and etymology
 
-The CYANIDE ion, CN^(−).
-From the top:
-1. Valence-bond structure
-2. Space-filling model
-3. Electrostatic potential surface
-4. "Carbon lone pair"
-
 In IUPAC nomenclature, organic compounds that have a –C≡N functional group are called nitriles. Thus, nitriles are organic compounds.[3][4] An example of a nitrile is CH₃CN, acetonitrile, also known as methyl cyanide. Nitriles usually do not release cyanide ions. A functional group with a hydroxyl and cyanide bonded to the same carbon is called cyanohydrin. Unlike nitriles, cyanohydridins do release hydrogen cyanide. In inorganic chemistry, salts containing the C≡N^(−) ion are referred to as CYANIDES.
 
 The word is derived from the Greek _kyanos_, meaning dark blue, as a result of its being first obtained by the heating of the pigment known as Prussian blue.
@@ -28,7 +21,7 @@ Occurrence and reactions
 
 In nature
 
-Removal_of_cyanide_poison_from_cassava.jpg in Nigeria.]] Cyanides are produced by certain bacteria, fungi, and algae and are found in a number of plants. Cyanides are found in substantial amounts in certain seeds and fruit stones, e.g., those of bitter almonds, apricots, apples, and peaches.[7] Chemical compounds that can release cyanide are known as cyanogenic compounds. In plants, cyanides are usually bound to sugar molecules in the form of cyanogenic glycosides and defend the plant against herbivores. Cassava roots (also called manioc), an important potato-like food grown in tropical countries (and the base from which tapioca is made), also contain cyanogenic glycosides.[8][9]
+in Nigeria.]] Cyanides are produced by certain bacteria, fungi, and algae and are found in a number of plants. Cyanides are found in substantial amounts in certain seeds and fruit stones, e.g., those of bitter almonds, apricots, apples, and peaches.[7] Chemical compounds that can release cyanide are known as cyanogenic compounds. In plants, cyanides are usually bound to sugar molecules in the form of cyanogenic glycosides and defend the plant against herbivores. Cassava roots (also called manioc), an important potato-like food grown in tropical countries (and the base from which tapioca is made), also contain cyanogenic glycosides.[8][9]
 
 The Madagascar bamboo _Cathariostachys madagascariensis_ produces cyanide as a deterrent to grazing. In response, the golden bamboo lemur, which eats the bamboo, has developed a high tolerance to cyanide.
 

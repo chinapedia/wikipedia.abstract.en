@@ -14,7 +14,7 @@ The first major tenant to sign a lease was the Provisional Airport Authority, wh
 
 Design
 
-HK_Central_Plaza_60407_1st.jpg Central Plaza is made up of two principal components: a free standing office tower and a podium block attached to it. The tower is made up of three sections: a tower base forming the main entrance and public circulation spaces; a tower body containing 57 office floors, a sky lobby and five mechanical plant floors; and the tower top consist of six mechanical plant floors and a tower mast.
+Central Plaza is made up of two principal components: a free standing office tower and a podium block attached to it. The tower is made up of three sections: a tower base forming the main entrance and public circulation spaces; a tower body containing 57 office floors, a sky lobby and five mechanical plant floors; and the tower top consist of six mechanical plant floors and a tower mast.
 
 The ground level public area along with the public sitting out area form an landscaped garden with fountain, trees and artificial stone paving. No commercial element is included in the podium. The first level is a public thoroughfare for three pedestrian bridges linking the Mass Transit Railway, the Convention and Exhibition Centre and the China Resource Building. By turning these space to public use, the building got 20% plot ratio more as bonus. The shape of the tower is not truly triangular but with its three corners cut off to provide better internal office spaces.
 
@@ -37,8 +37,6 @@ As a general practice, for achieving a clear height of , a floor-to-floor height
 
 Structural constraints
 
-Sky_City_Church_Lounge.jpg
-
 -   The site is a newly reclaimed area with a maximum water table rises to about below ground level. In the original brief, a 6-storey basement is required, therefore a diaphragm wall design came out.
 -   The keyword to this project is time. With a briefing in a limited detail, the structural engineer needed to start work The diaphragm wall design allowed for the basement to be constructed by the top-down method. It allows the superstructure to be constructed at the same time as the basement, thereby removing time consuming basement construction period from the critical path.
 -   Wind loading is another major design criterion in Hong Kong as it is situated in an area influenced by typhoons. Not only must the structure be able to resist the loads generally and the cladding system and its fixings resist higher local loads, but the building must also perform dynamically in an acceptable manner such that predicted movements lie within acceptable standards of occupant comfort criteria. To ensure that all aspects of the building's performance in strong winds will be acceptable, a detailed wind tunnel study was carried out by Professor Alan Davenport at the Boundary Layer Wind Tunnel Laboratory at the University of Western Ontario.
@@ -56,7 +54,7 @@ Another advantage of using reinforced concrete structure is that it is more flex
 
 Trivia
 
-Central_Plaza_Sky_Lobby.JPG''.]] This skyscraper was visited in the seventh leg of the reality TV show _The Amazing Race 2_, which described Central Plaza as "the tallest building in Hong Kong". Although contestants were told to reach the top floor,[8] the actual task was performed on the 46th floor.
+''.]] This skyscraper was visited in the seventh leg of the reality TV show _The Amazing Race 2_, which described Central Plaza as "the tallest building in Hong Kong". Although contestants were told to reach the top floor,[8] the actual task was performed on the 46th floor.
 
 
 See also

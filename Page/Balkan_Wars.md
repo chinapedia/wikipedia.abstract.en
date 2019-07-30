@@ -15,11 +15,9 @@ The First Balkan War began when the League member states attacked the Ottoman Em
 
 Background
 
-Map-of-Ottoman-Empire-1900.png.]]
+.]]
 
-Balkan_troubles1.jpg
-
-Meurtre_de_Nazim_Pacha_illustration,_9_February_1913.jpg, the chief of staff of the Ottoman army, was assassinated by Young Turks due to his failure.]] The background to the wars lies in the incomplete emergence of nation-states on the European territory of the Ottoman Empire during the second half of the 19th century. Serbia had gained substantial territory during the Russo-Turkish War, 1877–1878, while Greece acquired Thessaly in 1881 (although it lost a small area back to the Ottoman Empire in 1897) and Bulgaria (an autonomous principality since 1878) incorporated the formerly distinct province of Eastern Rumelia (1885). All three countries, as well as Montenegro, sought additional territories within the large Ottoman-ruled region known as Rumelia, comprising Eastern Rumelia, Albania, Macedonia, and Thrace.
+, the chief of staff of the Ottoman army, was assassinated by Young Turks due to his failure.]] The background to the wars lies in the incomplete emergence of nation-states on the European territory of the Ottoman Empire during the second half of the 19th century. Serbia had gained substantial territory during the Russo-Turkish War, 1877–1878, while Greece acquired Thessaly in 1881 (although it lost a small area back to the Ottoman Empire in 1897) and Bulgaria (an autonomous principality since 1878) incorporated the formerly distinct province of Eastern Rumelia (1885). All three countries, as well as Montenegro, sought additional territories within the large Ottoman-ruled region known as Rumelia, comprising Eastern Rumelia, Albania, Macedonia, and Thrace.
 
 Policies of the Great Powers
 
@@ -45,7 +43,7 @@ Bulgaria, which had secured Ottoman recognition of her independence in April 190
 
 Balkan League
 
-Bulgarian_army_adrinople.jpg]]
+]]
 
 Following Italy's victory in the Italo-Turkish War of 1911–1912, the Young Turks fell from power after a coup. The Balkan countries saw this as an opportunity to attack the Ottoman Empire and fulfill their desires of expansion.
 
@@ -58,7 +56,7 @@ This alliance between Greece, Serbia, Bulgaria, and Montenegro became known as t
 
 First Balkan War
 
-Balkan_belligerants_1914.jpg and Bulgaria]] King_George_I_of_Greece_and_Tsar_Ferdinand_of_Bulgaria_at_Thessaloniki.jpg and Tsar Ferdinand of Bulgaria at Thessaloniki, December 1912. Despite their alliance, Greco-Bulgarian antagonism over the city and Macedonia in general did not abate.]]
+and Bulgaria]] and Tsar Ferdinand of Bulgaria at Thessaloniki, December 1912. Despite their alliance, Greco-Bulgarian antagonism over the city and Macedonia in general did not abate.]]
 
 The three Slavic allies (Bulgaria, Serbia and Montenegro) had laid out extensive plans to coordinate their war efforts, in continuation of their secret prewar settlements and under close Russian supervision (Greece was not included). Serbia and Montenegro would attack in the theater of Sandjak, Bulgaria and Serbia in Macedonia and Thrace.
 
@@ -75,7 +73,7 @@ In January, after a successful coup by young army officers, the Ottoman Empire d
 
 Second Balkan War
 
-With_the_conquered_Turk_(1913)_cholera_patients_arriving.png was common among the soldiers of the combatant nations]] Balkan_Wars_Boundaries.jpg
+was common among the soldiers of the combatant nations]]
 
 Though the Balkan allies had fought together against the common enemy, that was not enough to overcome their mutual rivalries. In the original document for the Balkans league, Serbia promised Bulgaria most of Macedonia. But before the first war come to an end, Serbia (in violation of the previous agreement) and Greece revealed their plan to keep possession of the territories that their forces had occupied. This act prompted the tsar of Bulgaria to invade his allies. The Second Balkan War broke out on 29(16) June 1913 when Bulgaria attacked its erstwhile allies in the First Balkan War, Serbia and Greece, while Montenegro and the Ottoman Empire intervened later against Bulgaria, with Romania attacking Bulgaria from the north in violation of a peace treaty.
 
@@ -91,7 +89,7 @@ On 29(16) June 1913, General Savov, under direct orders of Tsar Ferdinand I, iss
 
 The Greek army was also successful. It retreated according to plan for two days while Thessaloniki was cleared of the remaining Bulgarian regiment. Then, the Greek army counter-attacked and defeated the Bulgarians at Kilkis (Kukush), after which the mostly Bulgarian town was destroyed and part of its mostly Bulgarian population massacred by the Greek army.[7] Following the capture of Kilkis, the Greek army's pace was not quick enough to prevent the retaliatory destruction of Nigrita, Serres, and Doxato and massacres of non-combatant Greek inhabitants at Sidirokastro and Doxato by the Bulgarian army.[8] The Greek army then divided its forces and advanced in two directions. Part proceeded east and occupied Western Thrace. The rest of the Greek army advanced up to the Struma River valley, defeating the Bulgarian army in the battles of Doiran and Mt. Beles, and continued its advance to the north towards Sofia. In the Kresna straits, the Greeks were ambushed by the Bulgarian 2nd and 1st Army newly arrived from the Serbian front that had already taken defensive positions there following the Bulgarian victory at Kalimanci.
 
-Battle_of_Kilkis1913.jpg]] By 30 July, the Greek army was outnumbered by the counter-attacking Bulgarian army, which attempted to encircle the Greeks in a Cannae-type battle, by applying pressure on their flanks. The Greek army was exhausted and faced logistical difficulties. The battle was continued for 11 days, between 29 July and 9 August over 20 km of a maze of forests and mountains with no conclusion. The Greek King, seeing that the units he fought were from the Serbian front, tried to convince the Serbs to renew their attack, as the front ahead of them was now thinner, but the Serbs declined. By then, news came of the Romanian advance toward Sofia and its imminent fall. Facing the danger of encirclement, Constantine realized that his army could no longer continue hostilities, agreed to Eleftherios Venizelos' proposal and accepted the Bulgarian request for armistice as this had been communicated through Romania.
+]] By 30 July, the Greek army was outnumbered by the counter-attacking Bulgarian army, which attempted to encircle the Greeks in a Cannae-type battle, by applying pressure on their flanks. The Greek army was exhausted and faced logistical difficulties. The battle was continued for 11 days, between 29 July and 9 August over 20 km of a maze of forests and mountains with no conclusion. The Greek King, seeing that the units he fought were from the Serbian front, tried to convince the Serbs to renew their attack, as the front ahead of them was now thinner, but the Serbs declined. By then, news came of the Romanian advance toward Sofia and its imminent fall. Facing the danger of encirclement, Constantine realized that his army could no longer continue hostilities, agreed to Eleftherios Venizelos' proposal and accepted the Bulgarian request for armistice as this had been communicated through Romania.
 
 Romania had raised an army and declared war on Bulgaria on 10 July(27 June) as it had from 28(15) June officially warned Bulgaria that it would not remain neutral in a new Balkan war, due to Bulgaria's refusal to cede the fortress of Silistra as promised before the First Balkan war in exchange for Romanian neutrality. Its forces encountered little resistance and by the time the Greeks accepted the Bulgarian request for armistice they had reached Vrazhdebna, 7 miles from the center of Sofia.
 
@@ -100,7 +98,7 @@ Seeing the military position of the Bulgarian army the Ottomans decided to inter
 
 Reactions among the Great Powers during the wars
 
-Bazar_Tirana_(ca._1900)2.jpg Bazaar at the turn of the 20th century.]] Serbian_poster_celebrating_victory_over_Bulgarina_in_the_second_Balkan_war.jpg
+Bazaar at the turn of the 20th century.]]
 
 The developments that led to the FIRST BALKAN WAR did not go unnoticed by the Great Powers, but although there was an official consensus between the European Powers over the territorial integrity of the Ottoman Empire, which led to a stern warning to the Balkan states, unofficially each of them took a different diplomatic approach due to their conflicting interests in the area. As a result, any possible preventive effect of the common official warning was cancelled by the mixed unofficial signals, and failed to prevent or to stop the war:
 
@@ -119,7 +117,7 @@ Finally, when a Serbian backed organization assassinated the heir of the Austro-
 
 Aftermath
 
-Soviet demographer Boris Urlanis estimated in _Voini I Narodo-Nacelenie Europi_ (1960) that in the first and second Balkan wars there were 122,000 killed in action, 20,000 dead of wounds, and 82,000 dead of disease. Zapleneti_turski_topovi_od_strana_na_srpskata_vojska_pred_crkata_vo_Kumanovo,_Balkanska_vojna,_1912.tif, 1912]]
+Soviet demographer Boris Urlanis estimated in _Voini I Narodo-Nacelenie Europi_ (1960) that in the first and second Balkan wars there were 122,000 killed in action, 20,000 dead of wounds, and 82,000 dead of disease. , 1912]]
 
 
 All Balkan War conflicts

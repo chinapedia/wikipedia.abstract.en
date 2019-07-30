@@ -32,7 +32,7 @@ Political involvement of government institutions
 
 Executive branch
 
-Luis_Guillermo_Solís_01.jpg.]] Executive responsibilities are vested in a president, who is elected directly by the voters, not by the National Assembly as it would be in a parliamentary system. There also are two vice presidents and the president's cabinet composed of his ministers.[10] A constitutional amendment approved in 1969 limits presidents and deputies to one term, although a deputy may run again for an Assembly seat after sitting out a term. The prohibition was officially recognized as unconstitutional in April 2004, allowing Óscar Arias to run for President a second time in the 2006 Costa Rican presidential elections, which he won with approximately a 1% margin.
+.]] Executive responsibilities are vested in a president, who is elected directly by the voters, not by the National Assembly as it would be in a parliamentary system. There also are two vice presidents and the president's cabinet composed of his ministers.[10] A constitutional amendment approved in 1969 limits presidents and deputies to one term, although a deputy may run again for an Assembly seat after sitting out a term. The prohibition was officially recognized as unconstitutional in April 2004, allowing Óscar Arias to run for President a second time in the 2006 Costa Rican presidential elections, which he won with approximately a 1% margin.
 
 The President of Costa Rica has limited powers, particularly in comparison to other Latin American Presidents. For example, he cannot veto the legislative budget, and thus Congress is sovereign over the year's single most important piece of legislation. On the other hand, he can appoint anyone to his cabinet without approval from Congress. This provides the single most important power versus Congress that any Costa Rican President has.
 
@@ -46,7 +46,7 @@ Legislative powers are held by the Legislative Assembly. Legislators, called dep
 
 Judicial branch
 
-Plaza_justicia_vista_ES.JPG.]] The main arm of the judiciary is the Supreme Court of Justice. Twenty-two magistrates are selected for the CSJ for 8-year terms by the Legislative Assembly, and lower courts. Sala IV, also known as the Constitutional Chamber of the Supreme Court, reviews legislation, executive actions, and certain writs for constitutionality. Courts below the Sala IV deal with issues involving legal and criminal disputes. Additionally, the Supreme Electoral Tribunal (TSE for its Spanish initials) is an independent branch of the CSJ, responsible for democratic elections. While the judiciary is independent of the politically-elected executive and legislative branches, it is often responsible for resolving political and legal conflicts.[12]
+.]] The main arm of the judiciary is the Supreme Court of Justice. Twenty-two magistrates are selected for the CSJ for 8-year terms by the Legislative Assembly, and lower courts. Sala IV, also known as the Constitutional Chamber of the Supreme Court, reviews legislation, executive actions, and certain writs for constitutionality. Courts below the Sala IV deal with issues involving legal and criminal disputes. Additionally, the Supreme Electoral Tribunal (TSE for its Spanish initials) is an independent branch of the CSJ, responsible for democratic elections. While the judiciary is independent of the politically-elected executive and legislative branches, it is often responsible for resolving political and legal conflicts.[12]
 
 Institutional oversight
 

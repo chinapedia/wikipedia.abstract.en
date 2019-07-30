@@ -1,4 +1,4 @@
-Milk.jpg is an emulsified colloid of liquid butterfat globules dispersed within a water-based solution.]] In chemistry, a COLLOID is a mixture in which one substance of microscopically dispersed insoluble particles is suspended throughout another substance. Sometimes the dispersed substance alone is called the colloid;[1] the term COLLOIDAL SUSPENSION refers unambiguously to the overall mixture (although a narrower sense of the word _suspension_ is distinguished from colloids by larger particle size). Unlike a solution, whose solute and solvent constitute only one phase, a colloid has a dispersed phase (the suspended particles) and a continuous phase (the medium of suspension) that arise by phase separation. To qualify as a colloid, the mixture must be one that does not settle or would take a very long time to settle appreciably.
+is an emulsified colloid of liquid butterfat globules dispersed within a water-based solution.]] In chemistry, a COLLOID is a mixture in which one substance of microscopically dispersed insoluble particles is suspended throughout another substance. Sometimes the dispersed substance alone is called the colloid;[1] the term COLLOIDAL SUSPENSION refers unambiguously to the overall mixture (although a narrower sense of the word _suspension_ is distinguished from colloids by larger particle size). Unlike a solution, whose solute and solvent constitute only one phase, a colloid has a dispersed phase (the suspended particles) and a continuous phase (the medium of suspension) that arise by phase separation. To qualify as a colloid, the mixture must be one that does not settle or would take a very long time to settle appreciably.
 
 The dispersed-phase particles have a diameter between approximately 1 and 1000 nanometers.[2] Such particles are normally easily visible in an optical microscope, although at the smaller size range (), an ultramicroscope or an electron microscope may be required. Homogeneous mixtures with a dispersed phase in this size range may be called _colloidal aerosols_, _colloidal emulsions_, _colloidal foams_, _colloidal dispersions_, or _hydrosols_. The dispersed-phase particles or droplets are affected largely by the surface chemistry present in the colloid.
 
@@ -54,7 +54,7 @@ Stabilization (peptization)
 
 The stability of a colloidal system is defined by particles remaining suspended in solution at equilibrium.
 
-Stability is hindered by aggregation and sedimentation phenomena, which are driven by the colloid's tendency to reduce surface energy. Reducing the interfacial tension will stabilize the colloidal system by reducing this driving force. ColloidalStability.png
+Stability is hindered by aggregation and sedimentation phenomena, which are driven by the colloid's tendency to reduce surface energy. Reducing the interfacial tension will stabilize the colloidal system by reducing this driving force.
 
 Aggregation is due to the sum of the interaction forces between particles.[9][10] If attractive forces (such as van der Waals forces) prevail over the repulsive ones (such as the electrostatic ones) particles aggregate in clusters.
 
@@ -73,8 +73,6 @@ Particle sedimentation (and also floating, although this phenomenon is less comm
 
 The method consists in adding to the colloidal suspension a polymer able to form a gel network and characterized by shear thinning properties. Examples of such substances are xanthan and guar gum.
 
-ComparisonStericStab-ShearThinningFluids2.png
-
 Particle settling is hindered by the stiffness of the polymeric matrix where particles are trapped.[13] In addition, the long polymeric chains can provide a steric or electrosteric stabilization to dispersed particles.
 
 The rheological shear thinning properties find beneficial in the preparation of the suspensions and in their use, as the reduced viscosity at high shear rates facilitates deagglomeration, mixing and in general the flow of the suspensions.
@@ -92,8 +90,6 @@ Unstable colloidal dispersions can form flocs as the particles aggregate due to 
 Unstable colloidal suspensions of low-volume fraction form clustered liquid suspensions, wherein individual clusters of particles fall to the bottom of the suspension (or float to the top if the particles are less dense than the suspending medium) once the clusters are of sufficient size for the Brownian forces that work to keep the particles in suspension to be overcome by gravitational forces. However, colloidal suspensions of higher-volume fraction form colloidal gels with viscoelastic properties. Viscoelastic colloidal gels, such as bentonite and toothpaste, flow like liquids under shear, but maintain their shape when shear is removed. It is for this reason that toothpaste can be squeezed from a toothpaste tube, but stays on the toothbrush after it is applied.
 
 Monitoring stability
-
-MLS_scan.gif
 
 Multiple light scattering coupled with vertical scanning is the most widely used technique to monitor the dispersion state of a product, hence identifying and quantifying destabilisation phenomena.[14][15][16][17] It works on concentrated dispersions without dilution. When light is sent through the sample, it is backscattered by the particles / droplets. The backscattering intensity is directly proportional to the size and volume fraction of the dispersed phase. Therefore, local changes in concentration (_e.g._Creaming and Sedimentation) and global changes in size (_e.g._ flocculation, coalescence) are detected and monitored.
 

@@ -9,13 +9,11 @@ History
 
 Small hounds are mentioned in the Forest Laws of Canute which exempted them from the ordinance which commanded that all dogs capable of running down a stag should have one foot mutilated.[2] If genuine, these laws would confirm that beagle-type dogs were present in England before 1016, but it is likely the laws were written in the Middle Ages to give a sense of antiquity and tradition to Forest Law.[3]
 
-Southern_Hound.jpg is thought to be an ancestor of the beagle]]
+is thought to be an ancestor of the beagle]]
 
 In the 11th century, William the Conqueror brought the Talbot hound to Britain. The Talbot was a predominantly white, slow, deep-throated, scent hound derived from the St. Hubert Hound which had been developed in the 8th century. At some point the English Talbots were crossed with Greyhounds to give them an extra turn of speed.[4] Beagles are similar to the Harrier and the extinct Southern Hound, though smaller and slower.[5]
 
 From medieval times, _beagle_ was used as a generic description for the smaller hounds, though these dogs differed considerably from the modern breed. Miniature breeds of beagle-type dogs were known from the times of Edward II and Henry VII, who both had packs of Glove Beagles, so named since they were small enough to fit on a glove, and Queen Elizabeth I kept a breed known as a Pocket Beagle, which stood at the shoulder. Small enough to fit in a "pocket" or saddlebag, they rode along on the hunt. The larger hounds would run the prey to ground, then the hunters would release the small dogs to continue the chase through underbrush. Elizabeth I referred to the dogs as her _singing beagles_ and often entertained guests at her royal table by letting her Pocket Beagles cavort amid their plates and cups.[6] 19th-century sources refer to these breeds interchangeably and it is possible that the two names refer to the same small variety. In George Jesse's _Researches into the History of the British Dog_ from 1866, the early 17th-century poet and writer Gervase Markham is quoted referring to the beagle as small enough to sit on a man's hand and to the: Standards for the Pocket Beagle were drawn up as late as 1901; these genetic lines are now extinct, although modern breeders have attempted to recreate the variety.[7]
-
-Beagle_ancient.jpg
 
 By the 18th century two breeds had been developed for hunting hare and rabbit: the Southern Hound and the North Country Beagle (or Northern Hound). The Southern Hound, a tall, heavy dog with a square head, and long, soft ears, was common from south of the River Trent and probably closely related to the Talbot Hound. Though slow, it had stamina and an excellent scenting ability. The North Country Beagle, possibly a cross between an offshoot of the Talbot stock and a Greyhound, was bred chiefly in Yorkshire and was common in the northern counties. It was smaller than the Southern Hound, less heavy-set and with a more pointed muzzle. It was faster than its southern counterpart but its scenting abilities were less well developed.[8] As fox hunting became increasingly popular, numbers of both types of hound diminished. The beagle-type dogs were crossed with larger breeds such as Stag Hounds to produce the modern Foxhound. The beagle-size varieties came close to extinction but some farmers in the South ensured the survival of the prototype breeds by maintaining small rabbit-hunting packs.
 
@@ -23,7 +21,7 @@ Development of the modern breed
 
 Reverend Phillip Honeywood established a beagle pack in Essex in the 1830s and it is believed that this pack formed the basis for the modern breed. Although details of the pack's lineage are not recorded it is thought that North Country Beagles and Southern Hounds were strongly represented; William Youatt suspected that Harriers formed a good majority of the beagle's bloodline, but the origin of the Harrier is itself obscure.[9] Honeywood's Beagles were small, standing at about at the shoulder, and pure white according to John Mills (writing in _The Sportsman's Library_ in 1845). Prince Albert and Lord Winterton also had Beagle packs around this time, and royal favour no doubt led to some revival of interest in the breed, but Honeywood's pack was regarded as the finest of the three.[10]
 
-4-beagles.jpg's Medium (1859, reusing Youatt's 1852 "Beagle" image) and Dwarf Beagle (1859).]]
+'s Medium (1859, reusing Youatt's 1852 "Beagle" image) and Dwarf Beagle (1859).]]
 
 Although credited with the development of the modern breed, Honeywood concentrated on producing dogs for hunting and it was left to Thomas Johnson to refine the breeding to produce dogs that were both attractive and capable hunters. Two strains were developed: the rough- and smooth-coated varieties. The rough-coated beagle survived until the beginning of the 20th century, and there were even records of one making an appearance at a dog show as late as 1969, but this variety is now extinct, having probably been absorbed into the standard beagle bloodline.[11]
 
@@ -42,8 +40,6 @@ The average size of a beagle litter is six puppies. When mother beagles give bir
 
 Popularity
 
-Beagle_Upsy.jpg
-
 On its formation, the Association of Masters of Harriers and Beagles took over the running of a regular show at Peterborough that had started in 1889, and the Beagle Club in the UK held its first show in 1896.[21] The regular showing of the breed led to the development of a uniform type, and the beagle continued to prove a success up until the outbreak of World War I when all shows were suspended. After the war, the breed was again struggling for survival in the UK: the last of the Pocket Beagles was probably lost during this time, and registrations fell to an all-time low. A few breeders (notably Reynalton Kennels) managed to revive interest in the dog and by World War II, the breed was once again doing well. Registrations dropped again after the end of the war but almost immediately recovered.[22]
 
 As purebred dogs, beagles have always been more popular in the United States and Canada than in their native country England. The National Beagle Club of America was formed in 1888 and by 1901 a beagle had won a Best in Show title. As in the UK, activity during World War I was minimal, but the breed showed a much stronger revival in the U.S. when hostilities ceased. In 1928 it won a number of prizes at the Westminster Kennel Club's show and by 1939 a beagle – Champion Meadowlark Draughtsman – had captured the title of top-winning American-bred dog for the year.[23] On 12 February 2008, a beagle, K-Run's Park Me In First (Uno), won the Best In Show category at the Westminster Kennel Club show for the first time in the competition's history.[24] In North America they have been consistently in the top-ten most-popular breeds for over 30 years. From 1953 to 1959 the beagle was ranked No. 1 on the list of the American Kennel Club's registered breeds;[25] in 2005 and 2006 it ranked 5th out of the 155 breeds registered.[26] In the UK they are not quite so popular, placing 28th and 30th in the rankings of registrations with the Kennel Club in 2005 and 2006 respectively.[27] In the United States the beagle ranked 4th most popular breed in 2012 and 2013, behind the Labrador Retriever (#1), German Shepherd (#2) and Golden Retriever (#3) breeds.[28]
@@ -58,13 +54,11 @@ It is not known why the black and tan Kerry Beagle, present in Ireland since Cel
 
 Appearance
 
-Beagle_portrait_Camry.jpg
-
 The general appearance of the beagle resembles a miniature Foxhound, but the head is broader and the muzzle shorter, the expression completely different and the legs shorter in proportion to the body.[31] They are generally between high at the withers and weigh between , with females being slightly smaller than males on average.[32]
 
 They have a smooth, somewhat domed skull with a medium-length, square-cut muzzle and a black (or occasionally liver) gumdrop nose. The jaw is strong and the teeth scissor together with the upper teeth fitting perfectly over the lower teeth and both sets aligned square to the jaw. The eyes are large, hazel or brown, with a mild hound-like pleading look. The large ears are long, soft and low-set, turning towards the cheeks slightly and rounded at the tips. Beagles have a strong, medium-length neck (which is long enough for them to easily bend to the ground to pick up a scent), with little folding in the skin but some evidence of a dewlap; a broad chest narrowing to a tapered abdomen and waist and a long, slightly curved tail (known as the "stern") tipped with white. The white tip, known as the flag has been selectively bred for, as it allows the dog to be easily seen when its head is down following a scent.[33] The tail does not curl over the back, but is held upright when the dog is active. The beagle has a muscular body and a medium-length, smooth, hard coat. The front legs are straight and carried under the body while the rear legs are muscular and well bent at the stifles.[34]
 
-The tricolored beaglewhite with large black areas and light brown shadingis the most common. Tricolored beagles occur in a number of shades, from the "Classic Tri" with a jet black saddle (also known as "Blackback"), to the "Dark Tri" (where faint brown markings are intermingled with more prominent black markings), to the "Faded Tri" (where faint black markings are intermingled with more prominent brown markings). Some tricolored dogs have a broken pattern, sometimes referred to as _pied_. These dogs have mostly white coats with patches of black and brown hair. Tricolor beagles are almost always born black and white. The white areas are typically set by eight weeks, but the black areas may fade to brown as the puppy matures. (The brown may take between one and two years to fully develop.) Some beagles gradually change color during their lives, and may lose their black markings entirely. Beagle-Farben.jpg Two-color varieties always have a white base color with areas of the second color. Tan and white is the most common two-color variety, but there is a wide range of other colors including lemon, a very light tan; red, a reddish, almost orange, brown; and liver, a darker brown, and black. Liver is not common and is not permitted in some standards; it tends to occur with yellow eyes. Ticked or mottled varieties may be either white or black with different colored flecks (_ticking_), such as the blue-mottled or bluetick beagle, which has spots that appear to be a midnight-blue color, similar to the coloring of the Bluetick Coonhound. Some tricolor beagles also have ticking of various colors in their white areas.[35][36]
+The tricolored beaglewhite with large black areas and light brown shadingis the most common. Tricolored beagles occur in a number of shades, from the "Classic Tri" with a jet black saddle (also known as "Blackback"), to the "Dark Tri" (where faint brown markings are intermingled with more prominent black markings), to the "Faded Tri" (where faint black markings are intermingled with more prominent brown markings). Some tricolored dogs have a broken pattern, sometimes referred to as _pied_. These dogs have mostly white coats with patches of black and brown hair. Tricolor beagles are almost always born black and white. The white areas are typically set by eight weeks, but the black areas may fade to brown as the puppy matures. (The brown may take between one and two years to fully develop.) Some beagles gradually change color during their lives, and may lose their black markings entirely. Two-color varieties always have a white base color with areas of the second color. Tan and white is the most common two-color variety, but there is a wide range of other colors including lemon, a very light tan; red, a reddish, almost orange, brown; and liver, a darker brown, and black. Liver is not common and is not permitted in some standards; it tends to occur with yellow eyes. Ticked or mottled varieties may be either white or black with different colored flecks (_ticking_), such as the blue-mottled or bluetick beagle, which has spots that appear to be a midnight-blue color, similar to the coloring of the Bluetick Coonhound. Some tricolor beagles also have ticking of various colors in their white areas.[35][36]
 
 
 Sense of smell
@@ -78,7 +72,7 @@ Breed varieties
 
 The American Kennel Club recognizes two separate varieties of beagle: the 13-inch for hounds less than , and the 15-inch for those between . The Canadian Kennel Club recognizes a single type, with a height not exceeding . The Kennel Club (UK) and FCI affiliated clubs recognize a single type, with a height of between .
 
-BraxtonPuggle-edit1.jpg, a beagle/pug cross, shows traits from both breeds.]]
+, a beagle/pug cross, shows traits from both breeds.]]
 
 English and American varieties are sometimes mentioned. However, there is no official recognition from any Kennel Club for this distinction. Beagles fitting the American Kennel Club standard – which disallows animals over – are smaller on average than those fitting the Kennel Club standard which allows heights up to .
 
@@ -95,22 +89,16 @@ More recently the trend has been for "designer dogs" and one of the most popular
 
 Temperament
 
-BeagleNiniJule.jpg
-
 The beagle has an even temper and gentle disposition. Described in several breed standards as "merry", they are amiable and typically neither aggressive nor timid, although this depends on the individual. They enjoy company, and although they may initially be standoffish with strangers, they are easily won over. They make poor guard dogs for this reason, although their tendency to bark or howl when confronted with the unfamiliar makes them good watch dogs. In a 1985 study conducted by Ben and Lynette Hart, the beagle was given the highest excitability rating, along with the Yorkshire Terrier, Cairn Terrier, Miniature Schnauzer, West Highland White Terrier, and Fox Terrier.[44]
 
-Beagles are intelligent but, as a result of being bred for the long chase, are single-minded and determined, which can make them hard to train. They can be difficult to recall once they have picked up a scent, and are easily distracted by smells around them. They do not generally feature in obedience trials; while they are alert, respond well to food-reward training, and are eager to please, they are easily bored or distracted. They are ranked 72nd in Stanley Coren's _The Intelligence of Dogs_, as Coren places them among the group with the lowest degree of working/obedience intelligence. Coren's scale, however, does not assess understanding, independence, or creativity.[45][46] Young_beagle_at_rest.jpg Beagles are excellent with children and this is one of the reasons they have became popular family pets. But as beagles are pack animals, they are prone to separation anxiety,[47] a condition which causes them to destroy things when left unattended. Not all beagles will howl, but most will bark when confronted with strange situations, and some will bay (also referred to as "speaking", "giving tongue", or "opening") when they catch the scent of potential quarry.[48] They also generally get along well with cats and other dogs. They are not too demanding with regard to exercise; their inbred stamina means they do not easily tire when exercised, but they also do not need to be worked to exhaustion before they will rest. Regular exercise helps ward off the weight gain to which the breed is prone.[49]
+Beagles are intelligent but, as a result of being bred for the long chase, are single-minded and determined, which can make them hard to train. They can be difficult to recall once they have picked up a scent, and are easily distracted by smells around them. They do not generally feature in obedience trials; while they are alert, respond well to food-reward training, and are eager to please, they are easily bored or distracted. They are ranked 72nd in Stanley Coren's _The Intelligence of Dogs_, as Coren places them among the group with the lowest degree of working/obedience intelligence. Coren's scale, however, does not assess understanding, independence, or creativity.[45][46] Beagles are excellent with children and this is one of the reasons they have became popular family pets. But as beagles are pack animals, they are prone to separation anxiety,[47] a condition which causes them to destroy things when left unattended. Not all beagles will howl, but most will bark when confronted with strange situations, and some will bay (also referred to as "speaking", "giving tongue", or "opening") when they catch the scent of potential quarry.[48] They also generally get along well with cats and other dogs. They are not too demanding with regard to exercise; their inbred stamina means they do not easily tire when exercised, but they also do not need to be worked to exhaustion before they will rest. Regular exercise helps ward off the weight gain to which the breed is prone.[49]
 
 
 Health
 
-Beagles_Puppies.png
-
 The typical longevity of beagles is 12–15 years,[50] which is a common lifespan for dogs of their size.[51]
 
 Beagles may be prone to epilepsy, but this can often be controlled with medication. Hypothyroidism and a number of types of dwarfism occur in beagles. Two conditions in particular are unique to the breed: "Funny Puppy", in which the puppy is slow to develop and eventually develops weak legs, a crooked back and although normally healthy, is prone to a range of illnesses;[52] and Musladin-Lueke Syndrome (MLS) in which the eyes are slanted and the outer toes are underdeveloped but otherwise development is as normal.[53] Hip dysplasia, common in Harriers and in some larger breeds, is rarely considered a problem in beagles.[54] Beagles are considered a chondrodystrophic breed, meaning that they are prone to types of disk diseases.[55]
-
-Beagle_745.jpg
 
 In rare cases, beagles may develop immune mediated polygenic arthritis (where the immune system attacks the joints) even at a young age. The symptoms can sometimes be relieved by steroid treatments.[56] Another rare disease in the breed is neonatal cerebellar cortical degeneration. Affected puppies are slow, have lower co-ordination, fall more often and don't have a normal gait. It has an estimated carrier rate of 5% and affected rate of 0.1%. A genetic test is available.[57][58]
 
@@ -123,13 +111,9 @@ Beagles may exhibit a behaviour known as reverse sneezing, in which they sound a
 
 Hunting
 
-Caynsham-beagles.jpg
-
 Beagles were developed primarily for hunting hare, an activity known as beagling. They were seen as ideal hunting companions for the elderly who could follow on horseback without exerting themselves, for young hunters who could keep up with them on ponies, and for the poorer hunters who could not afford to maintain a stable of good hunting horses.[65] Before the advent of the fashion for foxhunting in the 19th century, hunting was an all day event where the enjoyment was derived from the chase rather than the kill. In this setting the tiny beagle was well matched to the hare, as unlike Harriers they would not quickly finish the hunt, but because of their excellent scent-tracking skills and stamina they were almost guaranteed to eventually catch the hare. The beagle packs would run closely together ("so close that they might be covered with a sheet"[66]) which was useful in a long hunt, as it prevented stray dogs from obscuring the trail. In thick undergrowth they were also preferred to spaniels when hunting pheasant.[67]
 
 With the fashion for faster hunts, the beagle fell out of favour for chasing hare, but was still employed for rabbit hunting. In _Anecdotes of Dogs_ (1846), Edward Jesse says:
-
-Moritz_v_d_Tomburg.jpg
 
 In the United States they appear to have been employed chiefly for hunting rabbits from the earliest imports. Hunting hare with beagles became popular again in Britain in the mid-19th century and continued until it was made illegal in Scotland by the Protection of Wild Mammals (Scotland) Act 2002 and in England and Wales by the Hunting Act 2004. Under this legislation beagles may still pursue rabbits with the landowner's permission. Drag hunting is popular where hunting is no longer permitted or for those owners who do not wish to participate in hunting a live animal, but still wish to exercise their dog's innate skills.
 
@@ -141,8 +125,6 @@ In addition to organized beagling, beagles have been used for hunting or flushin
 
 
 Detection
-
-CBP_Airport.jpg
 
 Beagles are used as detection dogs in the Beagle Brigade of the United States Department of Agriculture. These dogs are used to detect food items in luggage being taken into the United States. After trialling several breeds, beagles were chosen because they are relatively small and unintimidating for people who are uncomfortable around dogs, easy to care for, intelligent and work well for rewards.[74] They are also used for this purpose in a number of other countries including by the Ministry of Agriculture and Forestry in New Zealand, the Australian Quarantine and Inspection Service, and in Canada, Japan and the People's Republic of China.[75] Larger breeds are generally used for detection of explosives as this often involves climbing over luggage and on large conveyor belts, work for which the smaller Beagle is not suited.[76]
 
@@ -166,8 +148,6 @@ Beagles are used as sniffer dogs for termite detection in Australia,[93] and hav
 
 
 In popular culture
-
-Bronco_the_Beagle.JPG
 
 -   Beagles appeared in funny animal comic strips and animated cartoons from the 1950s with Courage the Cowardly Dog and the _Peanuts_ character Snoopy was billed as "the world's most famous Beagle".[101][102]
 

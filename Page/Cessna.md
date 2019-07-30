@@ -3,7 +3,7 @@ The CESSNA AIRCRAFT COMPANY ([1]) was an American general aviation aircraft manu
 
 History
 
-Clyde Cessna, a farmer in Rago, Kansas, built his own aircraft and flew it in June 1911, the first person to do so between the Mississippi River and the Rocky Mountains. Cessna started his wood-and-fabric aircraft ventures in Enid, Oklahoma, testing many of his early planes on the salt flats. When bankers in Enid refused to lend him more money to build his planes, he moved to Wichita.[3] Cessna_DC-6B.jpg]]
+Clyde Cessna, a farmer in Rago, Kansas, built his own aircraft and flew it in June 1911, the first person to do so between the Mississippi River and the Rocky Mountains. Cessna started his wood-and-fabric aircraft ventures in Enid, Oklahoma, testing many of his early planes on the salt flats. When bankers in Enid refused to lend him more money to build his planes, he moved to Wichita.[3] ]]
 
 Cessna Aircraft was formed when Clyde Cessna and Victor Roos became partners in the Cessna-Roos Aircraft Company in 1927. Roos resigned just one month into the partnership selling back his interest to Cessna.[4] In the same year, the Kansas Secretary of State approved dropping Roos's name from the company name.[5]
 
@@ -15,7 +15,7 @@ However the Cessna CR-3 custom racer took its first flight in 1933. The plane wo
 
 Cessna's nephews, Dwane Wallace and his brother Dwight, bought the company from Cessna in 1934. They reopened it and began the process of building it into what would become a global success.[8]
 
-Cessna_C-34_G-AEAI_Squires_Gate_08.01.50_edited-4.jpg at Blackpool (Squires Gate) Airport in 1950]] The Cessna C-37 was introduced in 1937 as Cessna's first seaplane when equipped with Edo floats.[9] In 1940, Cessna received their largest order to date, when they signed a contract with the U.S. Army for 33 specially equipped Cessna T-50s. Later in 1940, the Royal Canadian Air Force placed an order for 180 T-50s.[10]
+at Blackpool (Squires Gate) Airport in 1950]] The Cessna C-37 was introduced in 1937 as Cessna's first seaplane when equipped with Edo floats.[9] In 1940, Cessna received their largest order to date, when they signed a contract with the U.S. Army for 33 specially equipped Cessna T-50s. Later in 1940, the Royal Canadian Air Force placed an order for 180 T-50s.[10]
 
 Cessna returned to commercial production in 1946, after the revocation of wartime production restrictions (L-48) with the release of the Model 120 and Model 140. The approach was to introduce a new line of all-metal aircraft that used production tools, dies and jigs rather than the hand-built process tube-and-fabric construction used before the war.[11][12]
 
@@ -23,7 +23,7 @@ The Model 140 was named by the US Flight Instructors Association as the "Outstan
 
 Cessna's first helicopter, the Cessna CH-1, received FAA type certification, in 1955.[14]
 
-Cessna172-CatalinaTakeOff.JPG]] Cessna introduced the Cessna 172 in 1956. It became the most produced airplane in history.[15]
+]] Cessna introduced the Cessna 172 in 1956. It became the most produced airplane in history.[15]
 
 In 1960 Cessna affiliated itself with Reims Aviation of Reims, France.[16] In 1963 Cessna produced its 50,000th airplane, a Cessna 172.[17]
 
@@ -33,17 +33,17 @@ Cessna produced its 100,000th single-engine airplane in 1975.[19]
 
 In 1985 Cessna ceased to be an independent company. It was purchased by General Dynamics Corporation and became a wholly owned subsidiary. Production of the Cessna Caravan began.[20] General Dynamics in turn, sold Cessna to Textron, in 1992.[21]
 
-Cessna350N2546W01.jpg-designed Cessna 350]] Late in 2007, Cessna purchased the bankrupt Columbia Aircraft company for US$26.4M and would continue production of the Columbia 350 and 400 as the Cessna 350 and Cessna 400 at the Columbia factory in Bend, Oregon.[22][23] However, production of both aircraft had ended by 2018.
+-designed Cessna 350]] Late in 2007, Cessna purchased the bankrupt Columbia Aircraft company for US$26.4M and would continue production of the Columbia 350 and 400 as the Cessna 350 and Cessna 400 at the Columbia factory in Bend, Oregon.[22][23] However, production of both aircraft had ended by 2018.
 
 Chinese production controversy
 
-Cessna_162_Skycatcher_N5201K_1010.JPG]] On November 27, 2007, Cessna announced the then-new Cessna 162 would be built in the People's Republic of China by Shenyang Aircraft Corporation, which is a subsidiary of the China Aviation Industry Corporation I (AVIC I), a Chinese government-owned consortium of aircraft manufacturers. Cessna reported that the decision was made to save money and also that the company had no more plant capacity in the United States at the time. Cessna received much negative feedback for this decision, with complaints centering on the recent quality problems with Chinese production of other consumer products, China's human rights record, exporting of jobs, and China's less than friendly political relationship with the United States. The customer backlash surprised Cessna and resulted in a company public relations campaign. In early 2009, the company attracted further criticism for continuing plans to build the 162 in China while laying off large numbers of workers in the United States. In the end the Cessna 162 was not a commercial success and only a small number were delivered before production was cancelled.[24][25][26][27][28][29][30][31][32]
+]] On November 27, 2007, Cessna announced the then-new Cessna 162 would be built in the People's Republic of China by Shenyang Aircraft Corporation, which is a subsidiary of the China Aviation Industry Corporation I (AVIC I), a Chinese government-owned consortium of aircraft manufacturers. Cessna reported that the decision was made to save money and also that the company had no more plant capacity in the United States at the time. Cessna received much negative feedback for this decision, with complaints centering on the recent quality problems with Chinese production of other consumer products, China's human rights record, exporting of jobs, and China's less than friendly political relationship with the United States. The customer backlash surprised Cessna and resulted in a company public relations campaign. In early 2009, the company attracted further criticism for continuing plans to build the 162 in China while laying off large numbers of workers in the United States. In the end the Cessna 162 was not a commercial success and only a small number were delivered before production was cancelled.[24][25][26][27][28][29][30][31][32]
 
 2008–2010 economic crisis
 
 The company's business suffered notably during the late-2000s recession, laying off more than half its workforce between January 2009 and September 2010.
 
-cessna_525_citationjet_g-sfcj_arp.jpg]] On November 4, 2008, Cessna's parent company, Textron, indicated that Citation production would be reduced from the original 2009 target of 535 "due to continued softening in the global economic environment" and that this would result in an undetermined number of lay-offs at Cessna.[33]
+]] On November 4, 2008, Cessna's parent company, Textron, indicated that Citation production would be reduced from the original 2009 target of 535 "due to continued softening in the global economic environment" and that this would result in an undetermined number of lay-offs at Cessna.[33]
 
 On November 8, 2008, at the Aircraft Owners and Pilots Association (AOPA) Expo, CEO Jack Pelton indicated that sales of Cessna aircraft to individual buyers had fallen but piston and turboprop sales to businesses had not. "While the economic slowdown has created a difficult business environment, we are encouraged by brisk activity from new and existing propeller fleet operators placing almost 200 orders for 2009 production aircraft," Pelton stated.[34][35]
 
@@ -84,7 +84,7 @@ Generally, the names of Cessna models do not follow a theme, but there is logic 
 
 Company terminology
 
-Cessna marketing terminology includes: Cessna_150E_(C-GFAU).jpg with "omni-vision" rear windows]]
+Cessna marketing terminology includes: with "omni-vision" rear windows]]
 
 -   PARA-LIFT FLAPS – Large Fowler flaps Cessna introduced on the 170B in 1952, replacing the narrow chord plain flaps then in use.[53]
 -   LAND-O-MATIC – In 1956, Cessna introduced sprung-steel tricycle landing gear on the 172. The marketing department chose “Land-O-Matic” to imply that these aircraft were much easier to land and take off than the preceding conventional landing gear equipped Cessna 170. They even went as far as to say pilots could do “drive-up take-offs and drive-in landings”, implying that flying these aircraft was as easy as driving a car. In later years some Cessna models had their steel sprung landing gear replaced with steel tube gear legs. The 206 retains the original spring steel landing gear today.[54]
@@ -100,7 +100,7 @@ Cessna marketing terminology includes: Cessna_150E_(C-GFAU).jpg with "omni-visio
 
 Aircraft models
 
-cessna.560xl.citation.excel.arp.jpg of the Swiss Air Force]] 252aa_-_Aerotucán_Cessna_208B_Grand_Caravan;_XA-TDS@PXM;28.7.2003_(6160875320).jpg]]
+of the Swiss Air Force]] ]]
 
 As of July 2018, Textron Aviation is producing the following Cessna models:[57]
 

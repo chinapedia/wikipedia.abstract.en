@@ -1,4 +1,4 @@
-Diamond_and_graphite.jpg and graphite are two allotropes of carbon: pure forms of the same element that differ in crystalline structure.]]
+and graphite are two allotropes of carbon: pure forms of the same element that differ in crystalline structure.]]
 
 ALLOTROPY or ALLOTROPISM () is the property of some chemical elements to exist in two or more different forms, in the same physical state, known as _allotropes_ of the elements. Allotropes are different structural modifications of an element;[1] the atoms of the element are bonded together in a different manner. For example, the allotropes of carbon include diamond (the carbon atoms are bonded together in a tetrahedral lattice arrangement), graphite (the carbon atoms are bonded together in sheets of a hexagonal lattice), graphene (single sheets of graphite), and fullerenes (the carbon atoms are bonded together in spherical, tubular, or ellipsoidal formations). The term _allotropy_ is used for elements only, not for compounds. The more general term, used for any crystalline material, is polymorphism. Allotropy refers only to different forms of an element within the same phase (i.e.: solid, liquid or gas states); differences in these states alone would not constitute examples of allotropy.
 
@@ -119,8 +119,6 @@ Among the metallic elements that occur in nature in significant quantities (56 u
 +----------+------------------------------------------------------------------------------------------------------------+
 
 Lanthanides and actinides
-
-Actinide_phases.svg
 
 -   Cerium, samarium, dysprosium and ytterbium have three allotropes.
 -   Praseodymium, neodymium, gadolinium and terbium have two allotropes.

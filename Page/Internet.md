@@ -1,4 +1,4 @@
-Internet_users_per_100_and_GDP_per_capita.jpg per capita for selected countries.]] The INTERNET (portmanteau of INTERCONNECTED NETWORK) is the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide. It is a _network of networks_ that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.
+per capita for selected countries.]] The INTERNET (portmanteau of INTERCONNECTED NETWORK) is the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide. It is a _network of networks_ that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.
 
 The origins of the Internet date back to research commissioned by the federal government of the United States in the 1960s to build robust, fault-tolerant communication with computer networks.[1] The primary precursor network, the ARPANET, initially served as a backbone for interconnection of regional academic and military networks in the 1980s. The funding of the National Science Foundation Network as a new backbone in the 1980s, as well as private funding for other commercial extensions, led to worldwide participation in the development of new networking technologies, and the merger of many networks.[2] The linking of commercial networks and enterprises by the early 1990s marked the beginning of the transition to the modern Internet,[3] and generated a sustained exponential growth as generations of institutional, personal, and mobile computers were connected to the network. Although the Internet was widely used by academia since the 1980s, commercialization incorporated its services and technologies into virtually every aspect of modern life.
 
@@ -9,7 +9,7 @@ The Internet has no single centralized governance in either technological implem
 
 Terminology
 
-PikiWiki_Israel_32304_The_Internet_Messenger_by_Buky_Schwartz.JPG, located in Holon, Israel]]
+, located in Holon, Israel]]
 
 When the term _Internet_ is used to refer to the specific global system of interconnected Internet Protocol (IP) networks, the word is a proper noun[7] that should be written with an initial capital letter. In common use and the media, it is often not capitalized, viz. _the internet._ Some guides specify that the word should be capitalized when used as a noun, but not capitalized when used as an adjective.[8] The Internet is also often referred to as _the Net_, as a short form of _network_. Historically, as early as 1849, the word _internetted_ was used uncapitalized as an adjective, meaning _interconnected_ or _interwoven_.[9] The designers of early computer networks used _internet_ both as a noun and as a verb in shorthand form of internetwork or internetworking, meaning interconnecting computer networks.[10]
 
@@ -22,14 +22,14 @@ Research into packet switching, one of the fundamental Internet technologies, st
 
 Early international collaborations for the ARPANET were rare. European developers were concerned with developing the X.25 networks.[19] Notable exceptions were the Norwegian Seismic Array (NORSAR) in June 1973, followed in 1973 by Sweden with satellite links to the Tanum Earth Station and Peter T. Kirstein's research group in the United Kingdom, initially at the Institute of Computer Science, University of London and later at University College London.[20][21][22] In December 1974, (_Specification of Internet Transmission Control Program_), by Vinton Cerf, Yogen Dalal, and Carl Sunshine, used the term _internet_ as a shorthand for _internetworking_ and later RFCs repeated this use.[23] Access to the ARPANET was expanded in 1981 when the National Science Foundation (NSF) funded the Computer Science Network (CSNET). In 1982, the Internet Protocol Suite (TCP/IP) was standardized, which permitted worldwide proliferation of interconnected networks. TCP/IP network access expanded again in 1986 when the National Science Foundation Network (NSFNet) provided access to supercomputer sites in the United States for researchers, first at speeds of 56 kbit/s and later at 1.5 Mbit/s and 45 Mbit/s.[24] Commercial Internet service providers (ISPs) emerged in the late 1980s and early 1990s. The ARPANET was decommissioned in 1990.
 
-NSFNET-backbone-T3.png Backbone, c. 1992.]] The Internet rapidly expanded in Europe and Australia in the mid to late 1980s[25][26] and to Asia in the late 1980s and early 1990s.[27] The beginning of dedicated transatlantic communication between the NSFNET and networks in Europe was established with a low-speed satellite relay between Princeton University and Stockholm, Sweden in December 1988.[28] Although other network protocols such as UUCP had global reach well before this time, this marked the beginning of the Internet as an intercontinental network.
+Backbone, c. 1992.]] The Internet rapidly expanded in Europe and Australia in the mid to late 1980s[25][26] and to Asia in the late 1980s and early 1990s.[27] The beginning of dedicated transatlantic communication between the NSFNET and networks in Europe was established with a low-speed satellite relay between Princeton University and Stockholm, Sweden in December 1988.[28] Although other network protocols such as UUCP had global reach well before this time, this marked the beginning of the Internet as an intercontinental network.
 
 Public commercial use of the Internet began in mid-1989 with the connection of MCI Mail and Compuserve's email capabilities to the 500,000 users of the Internet.[29] Just months later on 1 January 1990, PSInet launched an alternate Internet backbone for commercial use; one of the networks that would grow into the commercial Internet we know today. In March 1990, the first high-speed T1 (1.5 Mbit/s) link between the NSFNET and Europe was installed between Cornell University and CERN, allowing much more robust communications than were capable with satellites.[30] Six months later Tim Berners-Lee would begin writing WorldWideWeb, the first web browser after two years of lobbying CERN management. By Christmas 1990, Berners-Lee had built all the tools necessary for a working Web: the HyperText Transfer Protocol (HTTP) 0.9,[31] the HyperText Markup Language (HTML), the first Web browser (which was also a HTML editor and could access Usenet newsgroups and FTP files), the first HTTP server software (later known as CERN httpd), the first web server,[32] and the first Web pages that described the project itself. In 1991 the Commercial Internet eXchange was founded, allowing PSInet to communicate with the other commercial networks CERFnet and Alternet. Stanford Federal Credit Union was the first financial institution to offer online Internet banking services to all of its members in October 1994.[33] In 1996 OP Financial Group, also a cooperative bank, became the second online bank in the world and the first in Europe.[34] By 1995, the Internet was fully commercialized in the U.S. when the NSFNet was decommissioned, removing the last restrictions on use of the Internet to carry commercial traffic.[35] Since 1995, the Internet has tremendously impacted culture and commerce, including the rise of near instant communication by email, instant messaging, telephony (Voice over Internet Protocol or VoIP), two-way interactive video calls, and the World Wide Web[36] with its discussion forums, blogs, social networking, and online shopping sites. Increasing amounts of data are transmitted at higher and higher speeds over fiber optic networks operating at 1-Gbit/s, 10-Gbit/s, or more. The Internet continues to grow, driven by ever greater amounts of online information and knowledge, commerce, entertainment and social networking.[37] During the late 1990s, it was estimated that traffic on the public Internet grew by 100 percent per year, while the mean annual growth in the number of Internet users was thought to be between 20% and 50%.[38] This growth is often attributed to the lack of central administration, which allows organic growth of the network, as well as the non-proprietary nature of the Internet protocols, which encourages vendor interoperability and prevents any one company from exerting too much control over the network.[39] , the estimated total number of Internet users was 2.095 billion (30.2% of world population).[40] It is estimated that in 1993 the Internet carried only 1% of the information flowing through two-way telecommunication, by 2000 this figure had grown to 51%, and by 2007 more than 97% of all telecommunicated information was carried over the Internet.[41]
 
 
 Governance
 
-Icannheadquartersplayavista.jpg neighborhood of Los Angeles, California, United States.]]
+neighborhood of Los Angeles, California, United States.]]
 
 The Internet is a global network that comprises many voluntarily interconnected autonomous networks. It operates without a central governing body. The technical underpinning and standardization of the core protocols (IPv4 and IPv6) is an activity of the Internet Engineering Task Force (IETF), a non-profit organization of loosely affiliated international participants that anyone may associate with by contributing technical expertise. To maintain interoperability, the principal name spaces of the Internet are administered by the Internet Corporation for Assigned Names and Numbers (ICANN). ICANN is governed by an international board of directors drawn from across the Internet technical, business, academic, and other non-commercial communities. ICANN coordinates the assignment of unique identifiers for use on the Internet, including domain names, Internet Protocol (IP) addresses, application port numbers in the transport protocols, and many other parameters. Globally unified name spaces are essential for maintaining the global reach of the Internet. This role of ICANN distinguishes it as perhaps the only central coordinating body for the global Internet.[42]
 
@@ -46,11 +46,9 @@ The National Telecommunications and Information Administration, an agency of the
 
 Infrastructure
 
-World_map_of_submarine_cables.png The communications infrastructure of the Internet consists of its hardware components and a system of software layers that control various aspects of the architecture.
+The communications infrastructure of the Internet consists of its hardware components and a system of software layers that control various aspects of the architecture.
 
 Routing and service tiers
-
-Internet_Connectivity_Distribution_&_Core.svg
 
 Internet service providers (ISPs) establish the worldwide connectivity between individual networks at various levels of scope. End-users who only access the Internet when needed to perform a function or obtain information, represent the bottom of the routing hierarchy. At the top of the routing hierarchy are the tier 1 networks, large telecommunication companies that exchange traffic directly with each other via very high speed fibre optic cables and governed by peering agreements. Tier 2 and lower level networks buy Internet transit from other providers to reach at least some parties on the global Internet, though they may also engage in peering. An ISP may use a single upstream provider for connectivity, or implement multihoming to achieve redundancy and load balancing. Internet exchange points are major traffic exchanges with physical connections to multiple ISPs. Large organizations, such as academic institutions, large enterprises, and governments, may perform the same function as ISPs, engaging in peering and purchasing transit on behalf of their internal networks. Research networks tend to interconnect with large subnetworks such as GEANT, GLORIAD, Internet2, and the UK's national research and education network, JANET. Both the Internet IP routing structure and hypertext links of the World Wide Web are examples of scale-free networks.[48] Computers and routers use routing tables in their operating system to direct IP packets to the next-hop router or destination. Routing tables are maintained by manual configuration or automatically by routing protocols. End-nodes typically use a default route that points toward an ISP providing transit, while ISP routers use the Border Gateway Protocol to establish the most efficient routing across the complex connections of the global Internet.
 
@@ -64,7 +62,7 @@ Grassroots efforts have led to wireless community networks. Commercial Wi-Fi ser
 
 Mobile communication
 
-Number_of_mobile_cellular_subscriptions_2012-2016.svg] The International Telecommunication Union (ITU) estimated that, by the end of 2017, 48% of individual users regularly connect to the Internet, up from 34% in 2012.[55] Mobile Internet connectivity has played an important role in expanding access in recent years especially in Asia and the Pacific and in Africa.[56] The number of unique mobile cellular subscriptions increased from 3.89 billion in 2012 to 4.83 billion in 2016, two-thirds of the world's population, with more than half of subscriptions located in Asia and the Pacific. The number of subscriptions is predicted to rise to 5.69 billion users in 2020.[57] , almost 60% of the world's population had access to a 4G broadband cellular network, up from almost 50% in 2015 and 11% in 2012.[58] The limits that users face on accessing information via mobile applications coincide with a broader process of fragmentation of the Internet. Fragmentation restricts access to media content and tends to affect poorest users the most.[59]
+] The International Telecommunication Union (ITU) estimated that, by the end of 2017, 48% of individual users regularly connect to the Internet, up from 34% in 2012.[55] Mobile Internet connectivity has played an important role in expanding access in recent years especially in Asia and the Pacific and in Africa.[56] The number of unique mobile cellular subscriptions increased from 3.89 billion in 2012 to 4.83 billion in 2016, two-thirds of the world's population, with more than half of subscriptions located in Asia and the Pacific. The number of subscriptions is predicted to rise to 5.69 billion users in 2020.[57] , almost 60% of the world's population had access to a 4G broadband cellular network, up from almost 50% in 2015 and 11% in 2012.[58] The limits that users face on accessing information via mobile applications coincide with a broader process of fragmentation of the Internet. Fragmentation restricts access to media content and tends to affect poorest users the most.[59]
 
 Zero-rating, the practice of Internet service providers allowing users free connectivity to access specific content or applications without cost, has offered opportunities to surmount economic hurdles, but has also been accused by its critics as creating a two-tiered Internet. To address the issues with zero-rating, an alternative model has emerged in the concept of 'equal rating' and is being tested in experiments by Mozilla and Orange in Africa. Equal rating prevents prioritization of one type of content and zero-rates all content up to a specified data cap. A study published by Chatham House, 15 out of 19 countries researched in Latin America had some kind of hybrid or zero-rated product offered. Some countries in the region had a handful of plans to choose from (across all mobile network operators) while others, such as Colombia, offered as many as 30 pre-paid and 34 post-paid plans.[60]
 
@@ -79,8 +77,6 @@ The Internet standards describe a framework known as the Internet protocol suite
 
 Underlying these layers are the networking technologies that interconnect networks at their borders and exchange traffic across them. The Internet layer enables computers to identify and locate each other by Internet Protocol (IP) addresses, and routes their traffic via intermediate (transit) networks.[64] At the bottom of the architecture is the link layer, which provides logical connectivity between hosts on the same network link, such as a local area network (LAN) or a dial-up connection. The model is designed to be independent of the underlying hardware used for the physical connections, which the model does not concern itself with in any detail. Other models have been developed, such as the OSI model, that attempt to be comprehensive in every aspect of communications. While many similarities exist between the models, they are not compatible in the details of description or implementation. Yet, TCP/IP protocols are usually included in the discussion of OSI networking.
 
-UDP_encapsulation.svg
-
 The most prominent component of the Internet model is the Internet Protocol (IP), which provides addressing systems, including IP addresses, for computers on the network. IP enables internetworking and, in essence, establishes the Internet itself. Internet Protocol Version 4 (IPv4) is the initial version used on the first generation of the Internet and is still in dominant use. It was designed to address up to ≈4.3 billion (10⁹) hosts. However, the explosive growth of the Internet has led to IPv4 address exhaustion, which entered its final stage in 2011,[65] when the global address allocation pool was exhausted. A new protocol version, IPv6, was developed in the mid-1990s, which provides vastly larger addressing capabilities and more efficient routing of Internet traffic. IPv6 is currently in growing deployment around the world, since Internet address registries (RIRs) began to urge all resource managers to plan rapid adoption and conversion.[66]
 
 IPv6 is not directly interoperable by design with IPv4. In essence, it establishes a parallel version of the Internet not directly accessible with IPv4 software. Thus, translation facilities must exist for internetworking or nodes must have duplicate networking software for both networks. Essentially all modern computer operating systems support both versions of the Internet Protocol. Network infrastructure, however, has been lagging in this development. Aside from the complex array of physical connections that make up its infrastructure, the Internet is facilitated by bi- or multi-lateral commercial contracts, e.g., peering agreements, and by technical specifications or protocols that describe the exchange of data over the network. Indeed, the Internet is defined by its interconnections and routing policies.
@@ -94,7 +90,7 @@ The terms _Internet_ and _World Wide Web_, or just the _Web_, are often used int
 
 World Wide Web
 
-First_Web_Server.jpg was used by Tim Berners-Lee at CERN and became the world's first Web server.]]
+was used by Tim Berners-Lee at CERN and became the world's first Web server.]]
 
 The World Wide Web is a global collection of documents, images, multimedia, applications, and other resources, logically interrelated by hyperlinks and referenced with Uniform Resource Identifiers (URIs), which provide a global system of named references. URIs symbolically identify services, web servers, databases, and the documents and resources that they can provide. Hypertext Transfer Protocol (HTTP) is the main access protocol of the World Wide Web. Web services also use HTTP for communication between software systems for sharing and exchanging business data and logistics.
 
@@ -131,9 +127,9 @@ The Internet has enabled new forms of social interaction, activities, and social
 
 Users
 
-Internet_users_per_100_inhabitants_ITU.svg.[75][76]]] InternetUsersByLanguagePieChart.svg'''[77]
+.[75][76]]] '''[77]
 
-]] WebsitesByLanguagePieChart.svg'''[78]
+]] '''[78]
 
 ]]
 
@@ -151,16 +147,14 @@ Several neologisms exist that refer to Internet users: Netizen (as in "citizen o
 
 Usage
 
-InternetPenetrationWorldMap.svg'''
+'''
 
 Source: International Telecommunications Union.[98]]]
 
-FixedBroadbandInternetPenetrationWorldMap.svg
 as a percentage of a country's population'''
 
 Source: International Telecommunications Union.[99]]]
 
-MobileBroadbandInternetPenetrationWorldMap.svg
 as a percentage of a country's population'''
 
 Source: International Telecommunications Union.[100]]] The Internet allows greater flexibility in working hours and location, especially with the spread of unmetered high-speed connections. The Internet can be accessed almost anywhere by numerous means, including through mobile Internet devices. Mobile phones, datacards, handheld game consoles and cellular routers allow users to connect to the Internet wirelessly. Within the limitations imposed by small screens and other limited facilities of such pocket-sized devices, the services of the Internet, including email and the web, may be available. Service providers may restrict the services offered and mobile data charges may be significantly higher than other access methods.
@@ -213,7 +207,7 @@ Wikis have also been used in the academic community for sharing and disseminatio
 
 Politics and political revolutions
 
-Thai-coup-detat-2014-social-media-banner.jpg during the 2014 Thai coup d'état, informing the Thai public that 'like' or 'share' activities on social media could result in imprisonment (observed June 30, 2014).]] The Internet has achieved new relevance as a political tool. The presidential campaign of Howard Dean in 2004 in the United States was notable for its success in soliciting donation via the Internet. Many political groups use the Internet to achieve a new method of organizing for carrying out their mission, having given rise to Internet activism, most notably practiced by rebels in the Arab Spring.[124][125] _The New York Times_ suggested that social media websites, such as Facebook and Twitter, helped people organize the political revolutions in Egypt, by helping activists organize protests, communicate grievances, and disseminate information.[126]
+during the 2014 Thai coup d'état, informing the Thai public that 'like' or 'share' activities on social media could result in imprisonment (observed June 30, 2014).]] The Internet has achieved new relevance as a political tool. The presidential campaign of Howard Dean in 2004 in the United States was notable for its success in soliciting donation via the Internet. Many political groups use the Internet to achieve a new method of organizing for carrying out their mission, having given rise to Internet activism, most notably practiced by rebels in the Arab Spring.[124][125] _The New York Times_ suggested that social media websites, such as Facebook and Twitter, helped people organize the political revolutions in Egypt, by helping activists organize protests, communicate grievances, and disseminate information.[126]
 
 Many have understood the Internet as an extension of the Habermasian notion of the _public sphere_, observing how network communication technologies provide something like a global civic forum. However, incidents of politically motivated Internet censorship have now been recorded in many countries, including western democracies.
 
@@ -240,7 +234,7 @@ The large amount of data gathered from packet capturing requires surveillance so
 
 Censorship
 
-Internet_Censorship_and_Surveillance_World_Map.svg (2018)'''[138][139][140][141][142]
+(2018)'''[138][139][140][141][142]
 
 ]]
 

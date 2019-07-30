@@ -128,8 +128,6 @@ _Δ__(_r_)_G_^(⊖) =  − _R__T_ln _K__(_e__q_)
 
 Obtaining the value of the standard Gibbs energy change, allows the calculation of the equilibrium constant.
 
-Diag_eq.svg
-
 Addition of reactants or products
 
 For a reactional system at equilibrium: _Q__(r) = _K__(eq); _ξ_ = _ξ__(eq).
@@ -338,7 +336,7 @@ It is easy to see how this can be extended to three or more reagents.
 
 Polybasic acids
 
-Al_hydrolysis.svg of the aluminium.]] The composition of solutions containing reactants A and H is easy to calculate as a function of p[H]. When [H] is known, the free concentration [A] is calculated from the mass-balance equation in A.
+of the aluminium.]] The composition of solutions containing reactants A and H is easy to calculate as a function of p[H]. When [H] is known, the free concentration [A] is calculated from the mass-balance equation in A.
 
 The diagram alongside, shows an example of the hydrolysis of the aluminium Lewis acid Al³⁺_((aq))[23] shows the species concentrations for a 5 × 10^(−6) M solution of an aluminium salt as a function of pH. Each concentration is shown as a percentage of the total aluminium.
 

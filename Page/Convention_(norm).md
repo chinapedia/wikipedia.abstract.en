@@ -1,5 +1,3 @@
-Eating_rice,_China_-_collected_by_Berthold_Laufer.jpg
-
 A CONVENTION is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria, often taking the form of a custom.
 
 Certain types of rules or customs may become law and regulatory legislation may be introduced to formalize or enforce the convention (for example, laws that define on which side of the road vehicles must be driven). In a social context, a convention may retain the character of an "unwritten law" of custom (for example, the manner in which people greet each other, such as by shaking each other's hands).

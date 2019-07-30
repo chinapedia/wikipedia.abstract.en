@@ -1,4 +1,4 @@
-5838-Linxia-City-Tuanjie-Lu-halal-bakery.jpg CUISINE OF CHINESE MUSLIMS (, Dungan: Чыңжән цаы or , Dungan: Ҳуэйзў цаы) is the cuisine of the Hui (ethnic Chinese Muslims) and other Muslims living in China such as Dongxiang, Salar, Uyghurs, and Bonan as well as Dungans of Central Asia.
+CUISINE OF CHINESE MUSLIMS (, Dungan: Чыңжән цаы or , Dungan: Ҳуэйзў цаы) is the cuisine of the Hui (ethnic Chinese Muslims) and other Muslims living in China such as Dongxiang, Salar, Uyghurs, and Bonan as well as Dungans of Central Asia.
 
 
 History
@@ -10,8 +10,6 @@ During the Yuan dynasty, halal methods of slaughtering animals and preparing foo
   Among all the [subject] alien peoples only the Hui-hui say “we do not eat Mongol food”. [Cinggis Qa’an replied:] “By the aid of heaven we have pacified you; you are our slaves. Yet you do not eat our food or drink. How can this be right?” He thereupon made them eat. “If you slaughter sheep, you will be considered guilty of a crime.” He issued a regulation to that effect ... [In 1279/1280 under Qubilai] all the Muslims say: “if someone else slaughters [the animal] we do not eat”. Because the poor people are upset by this, from now on, Musuluman [Muslim] Huihui and Zhuhu [Jewish] Huihui, no matter who kills [the animal] will eat [it] and must cease slaughtering sheep themselves, and cease the rite of circumcision.[3]
 
 Traditionally, there is a distinction between northern and southern Chinese Islamic cuisine despite both using mutton and lamb. Northern Chinese Islamic cuisine relies heavily on beef, but rarely ducks, geese, shrimp or seafood, while southern Islamic cuisine is the reverse. The reason for this difference is due to availability of the ingredients. Oxen have been long used for farming and Chinese governments have frequently strictly prohibited the slaughter of oxen for food. However, due to the geographic proximity of the northern part of China to minority-dominated regions that were not subjected to such restrictions, beef could be easily purchased and transported to northern China. At the same time, ducks, geese, and shrimp are rare in comparison to southern China due to the arid climate of northern China.
-
-Muslim_meat_shop_halal_sign,_Hankow_China,_1935.jpg Hongchangxing_Islamic_Fastfood_in_Expo2010.jpg
 
 A Chinese Islamic restaurant () can be similar to a Mandarin restaurant with the exception that there is no pork on the menu and is primarily noodle/soup based.
 
@@ -27,7 +25,7 @@ Several Hui restaurants serving Chinese Islamic cuisine exist in Los Angeles.[4]
 
 Many Chinese Hui Muslims who moved from Yunnan to Burma (Myanmar) are known as Panthays operate restaurants and stalls serving Chinese Islamic cuisine such as noodles. Chinese Hui Muslims from Yunnan who moved to Thailand are known as Chin Haw, and they also own restaurants and stalls serving Chinese Islamic food.
 
-E7869-Dordoy-Bazaar.jpg advertising _Dungan cuisine_]] In Central Asia, Dungan people, descendants of Hui, operate restaurants serving Chinese Islamic cuisine which is respectively referred to as _Dungan cuisine_ there. They cater to Chinese businessmen.[6] Chopsticks are used by Dungans.[7] The cuisine of the Dungan resembles northwestern Chinese cuisine.[8][9]
+advertising _Dungan cuisine_]] In Central Asia, Dungan people, descendants of Hui, operate restaurants serving Chinese Islamic cuisine which is respectively referred to as _Dungan cuisine_ there. They cater to Chinese businessmen.[6] Chopsticks are used by Dungans.[7] The cuisine of the Dungan resembles northwestern Chinese cuisine.[8][9]
 
 Most Chinese regard Hui halal food as cleaner than food made by non Muslims so their restaurants are popular in China.[10] Hui who migrated to Northeast China (Manchuria) after the Chuang Guandong opened many new inns and restaurants to cater to travelers, which were regarded as clean.
 
@@ -46,7 +44,7 @@ Halal food manufacture has been sanctioned by the government of the Ningxia Auto
 
 Famous dishes
 
-清真中國牛肉館.JPG, Taiwan.]] Keluarga_Ali.JPG, Malaysia.]]
+, Taiwan.]] , Malaysia.]]
 
 Lamian
 

@@ -41,7 +41,7 @@ He created a television series for FX, in which he also stars in the lead role, 
 
 Personal life
 
-Denis_Leary_Shankbone_2010_NYC.jpg Leary has been married to author Ann Lembeck Leary since 1989.[32] They met when he was her instructor in an English class at Emerson College. They have two children, son John Joseph "Jack" (born 1990) and daughter Devin (born 1992).[33] Ann Leary published a memoir, _An Innocent, a Broad_, about the premature birth of their son on an overseas visit to London. She has also written a novel, _Outtakes From a Marriage_, which was published in 2008. Her second novel, _The Good House_, was published in 2013.[34]
+Leary has been married to author Ann Lembeck Leary since 1989.[32] They met when he was her instructor in an English class at Emerson College. They have two children, son John Joseph "Jack" (born 1990) and daughter Devin (born 1992).[33] Ann Leary published a memoir, _An Innocent, a Broad_, about the premature birth of their son on an overseas visit to London. She has also written a novel, _Outtakes From a Marriage_, which was published in 2008. Her second novel, _The Good House_, was published in 2013.[34]
 
 Leary is an ice hockey fan, and has his own backyard hockey rink at his home in Roxbury, Connecticut, with piping installed under the ice surface to help the ice stay frozen.[35] He is a fan of the Boston Bruins and the Boston Red Sox,[36] as well as the Green Bay Packers.[37][38]
 

@@ -3,8 +3,6 @@ EQUULEUS is a constellation. Its name is Latin for "little horse", a foal. It wa
 
 Notable features
 
-EquuleusCC.jpg
-
 Stars
 
 The brightest star in Equuleus is Alpha Equulei, traditionally called Kitalpha, a yellow star magnitude 3.9, 186 light-years from Earth. Its traditional name means "the section of the horse".
@@ -20,7 +18,7 @@ Due to its small size and its distance from the plane of the Milky Way, Equuleus
 
 Mythology
 
-Sidney_Hall_-_Urania's_Mirror_-_Pegasus_and_Equuleus_(best_currently_available_version_-_2014).jpg'' (1825)]] In Greek mythology, one myth associates Equuleus with the foal Celeris (meaning "swiftness" or "speed"), who was the offspring or brother of the winged horse Pegasus. Celeris was given to Castor by Mercury. Other myths say that Equuleus is the horse struck from Poseidon's trident, during the contest between him and Athena when deciding which would be the superior. Because this section of stars rises before Pegasus, it is often called Equus Primus, or the First Horse. Equuleus is also linked to the story of Philyra and Saturn.
+'' (1825)]] In Greek mythology, one myth associates Equuleus with the foal Celeris (meaning "swiftness" or "speed"), who was the offspring or brother of the winged horse Pegasus. Celeris was given to Castor by Mercury. Other myths say that Equuleus is the horse struck from Poseidon's trident, during the contest between him and Athena when deciding which would be the superior. Because this section of stars rises before Pegasus, it is often called Equus Primus, or the First Horse. Equuleus is also linked to the story of Philyra and Saturn.
 
 Created by Hipparchus and included by Ptolemy, it abuts Pegasus; unlike the larger horse it is depicted as a horse's head alone. [1]
 

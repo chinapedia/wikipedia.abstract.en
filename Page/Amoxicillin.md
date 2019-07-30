@@ -7,7 +7,7 @@ Amoxicillin was discovered in 1958 and came into medical use in 1972.[11][12] It
 
 Medical uses
 
-Amoxicillin.JPG]] Amoxicillin is used in the treatment of a number of infections, including acute otitis media, streptococcal pharyngitis, pneumonia, skin infections, urinary tract infections, _Salmonella_ infections, Lyme disease, and chlamydia infections.[19][20]
+]] Amoxicillin is used in the treatment of a number of infections, including acute otitis media, streptococcal pharyngitis, pneumonia, skin infections, urinary tract infections, _Salmonella_ infections, Lyme disease, and chlamydia infections.[19][20]
 
 Acute otitis media
 

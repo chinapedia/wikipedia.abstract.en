@@ -1,4 +1,4 @@
-Galliard.jpg, Italy, 15th century]]
+, Italy, 15th century]]
 
 The GALLIARD (; ; ) was a form of Renaissance dance and music popular all over Europe in the 16th century. It is mentioned in dance manuals from England, France, Spain, Germany, and Italy.
 
@@ -6,8 +6,6 @@ The GALLIARD (; ; ) was a form of Renaissance dance and music popular all over E
 Dance form
 
 The galliard is not an improvised dance; but rather, it consists of choreographed patterns of steps, which occupy one or more measures of music. In 1 measure, a galliard typically has five steps; in French such a basic step is called a _cinq pas_ and in Italy, _cinque passi_. This is sometimes written in English sources as _sinkapace_. These steps are: right, left, right, left, cadence.
-
-Galliard_dance_pattern.png
 
 The galliard is an athletic dance, characterised by leaps, jumps, hops and other similar figures. The main feature that defines a galliard step is a large jump, after which the dancer lands with one leg ahead of the other. This jump is called a _cadence,_ and the final landing is called the _posture._ The cadence is typically preceded by three quick hops with alternating feet.[1] The sources generally describe movement patterns starting on the left foot, then repeating it starting with the right foot. A galliard pattern may also last twice as long, or more, which would involve 11 steps, or 17 steps.
 

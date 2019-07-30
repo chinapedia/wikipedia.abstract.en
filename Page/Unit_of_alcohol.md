@@ -1,5 +1,3 @@
-Red_Wine_Glass.jpg
-
 UNITS OF ALCOHOL are used in the United Kingdom (UK) as a measure to quantify the actual alcoholic content within a given volume of an alcoholic beverage, in order to provide guidance on total alcohol consumption.
 
 A number of other countries (including Australia, Canada, New Zealand, and the US) use the concept of a _standard drink_, the definition of which varies from country to country, for the same purpose. _Standard drinks_ were referred to in the first UK guidelines (1984) that published "safe limits" for drinking, but these were replaced by references to "alcohol units" in the 1987 guidelines and the latter term has been used in all subsequent UK guidance.[1]
@@ -40,8 +38,6 @@ Both pieces of input data are usually mentioned in this form on the bottle, so i
 
 Labelling
 
-Example_UK_Wine_Label.jpg
-
 UK alcohol companies pledged in March 2011 to implement an innovative health labelling scheme to provide more information about responsible drinking on alcohol labels and containers. This voluntary scheme is the first of its kind in Europe and has been developed in conjunction with the UK Department of Health. The pledge stated:[7]
 
     _"We will ensure that over 80% of products on shelf (by December 2013) will have labels with clear unit content, NHS guidelines and a warning about drinking when pregnant."_
@@ -63,7 +59,7 @@ Drinks companies had pledged to display the three mandatory items on 80% of drin
 
 Quantities
 
-Units_of_alcohol_chart.svg It is sometimes misleadingly stated that there is one unit per half-pint of beer, or small glass of wine, or single measure of spirits. However, such statements do not take into account the various strengths and volumes supplied in practice.[12][13][14][15]
+It is sometimes misleadingly stated that there is one unit per half-pint of beer, or small glass of wine, or single measure of spirits. However, such statements do not take into account the various strengths and volumes supplied in practice.[12][13][14][15]
 
 For example, the ABV of beer typically varies from 3.5% to 5.5%. A typical "medium" glass of wine with 175 ml at 12% ABV has 2.1 units. And spirits, although typically 35–40% ABV, have single measures of 25 ml or 35 ml (so 1 or 1.4 units) depending on location.[16][17][18][19]
 

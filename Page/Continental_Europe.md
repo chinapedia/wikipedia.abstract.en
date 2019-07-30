@@ -1,4 +1,4 @@
-Mainland_Europe_(orthographic_projection).svg Europe_As_A_Queen_Sebastian_Munster_1570.jpg'' map (Sebastian Munster, 1570), excluding Fennoscandia, Great Britain and Ireland, but including _Bulgaria, Scythia, Moscovia_ and _Tartaria_; Sicily is clasped by Europe in the form of a _Globus cruciger_.]]
+'' map (Sebastian Munster, 1570), excluding Fennoscandia, Great Britain and Ireland, but including _Bulgaria, Scythia, Moscovia_ and _Tartaria_; Sicily is clasped by Europe in the form of a _Globus cruciger_.]]
 
 CONTINENTAL or MAINLAND EUROPE is the continuous continent of Europe, excluding its surrounding islands.[1] It can also be referred to ambiguously as the EUROPEAN CONTINENT – which can conversely mean the whole of Europe – and by Europeans, simply THE CONTINENT.
 
@@ -8,11 +8,9 @@ The Scandinavian Peninsula is sometimes also excluded, as even though it is tech
 
 The old notion of Europe as a cultural and European unification term was centred on CORE EUROPE (_Kerneuropa_), the continental territory of the historical Carolingian Empire, corresponding to modern France, Italy, Germany (or German-speaking Europe) and the Benelux states (historical Austrasia).
 
-Francia_814.svg
-
 This historical core of "Carolingian Europe" was consciously invoked in the 1950s as the historical ethno-cultural basis for the prospective European integration (see also Multi-speed Europe).[2][3]
 
-Inner_Six_and_Outer_Seven.svg signatories of the Treaty of Paris (1951) (shown in blue; the French Fourth Republic shown with Algeria).]]
+signatories of the Treaty of Paris (1951) (shown in blue; the French Fourth Republic shown with Algeria).]]
 
 
 Use
@@ -27,7 +25,7 @@ Britain is physically connected to continental Europe through the undersea Chann
 
 Scandinavia
 
-Ptolemaios_1467_Scandinavia.jpg for a 1467 publication of _Cosmographia Claudii Ptolomaei Alexandrini_.]] Especially in Germanic studies, _continental_ refers to the European continent excluding the Scandinavian peninsula, Britain, Ireland, and Iceland. The reason for this is that although the Scandinavian peninsula is attached to continental Europe, and accessible via a land route along the 66th parallel north, it is usually reached by sea.
+for a 1467 publication of _Cosmographia Claudii Ptolomaei Alexandrini_.]] Especially in Germanic studies, _continental_ refers to the European continent excluding the Scandinavian peninsula, Britain, Ireland, and Iceland. The reason for this is that although the Scandinavian peninsula is attached to continental Europe, and accessible via a land route along the 66th parallel north, it is usually reached by sea.
 
 ("the Continent") is a vernacular Swedish expression that refers to the area excluding Sweden, Norway, and Finland but including Denmark (even the Danish archipelago) and the rest of continental Europe. In Norway, similarly, one speaks about as a separate entity.
 

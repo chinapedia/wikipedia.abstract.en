@@ -1,4 +1,4 @@
-Chromatin_Structures.png, the nucleosome, the 10 nm "beads-on-a-string" fibre, the 30 nm chromatin fibre and the metaphase chromosome.]]
+, the nucleosome, the 10 nm "beads-on-a-string" fibre, the 30 nm chromatin fibre and the metaphase chromosome.]]
 
 CHROMATIN is a complex of DNA and protein found in eukaryotic cells.[1] Its primary function is packaging very long DNA molecules into a more compact, denser shape, which prevents the strands from becoming tangled and plays important roles in reinforcing the DNA during cell division, preventing DNA damage, and regulating gene expression and DNA replication. During mitosis and meiosis, chromatin facilitates proper segregation of the chromosomes in anaphase; the characteristic shapes of chromosomes visible during this stage are the result of DNA being coiled into highly condensed networks of chromatin.
 
@@ -23,7 +23,7 @@ For additional information, see Histone modifications in chromatin regulation an
 
 DNA structure
 
-A-DNA,_B-DNA_and_Z-DNA.png In nature, DNA can form three structures, A-, B-, and Z-DNA. A- and B-DNA are very similar, forming right-handed helices, whereas Z-DNA is a left-handed helix with a zig-zag phosphate backbone. Z-DNA is thought to play a specific role in chromatin structure and transcription because of the properties of the junction between B- and Z-DNA.
+In nature, DNA can form three structures, A-, B-, and Z-DNA. A- and B-DNA are very similar, forming right-handed helices, whereas Z-DNA is a left-handed helix with a zig-zag phosphate backbone. Z-DNA is thought to play a specific role in chromatin structure and transcription because of the properties of the junction between B- and Z-DNA.
 
 At the junction of B- and Z-DNA, one pair of bases is flipped out from normal bonding. These play a dual role of a site of recognition by many proteins and as a sink for torsional stress from RNA polymerase or nucleosome binding.
 
@@ -31,7 +31,7 @@ Nucleosomes and beads-on-a-string
 
     _Main articles: Nucleosome, Chromatosome and Histone_
 
-Nucleosome_1KX5_2.png The basic repeat element of chromatin is the nucleosome, interconnected by sections of linker DNA, a far shorter arrangement than pure DNA in solution.
+The basic repeat element of chromatin is the nucleosome, interconnected by sections of linker DNA, a far shorter arrangement than pure DNA in solution.
 
 In addition to the core histones, there is the linker histone, H1, which contacts the exit/entry of the DNA strand on the nucleosome. The nucleosome core particle, together with histone H1, is known as a chromatosome. Nucleosomes, with about 20 to 60 base pairs of linker DNA, can form, under non-physiological conditions, an approximately 10 nm "beads-on-a-string" fibre. (Fig. 1-2). .
 
@@ -39,12 +39,11 @@ The nucleosomes bind DNA non-specifically, as required by their function in gene
 
 30-nanometer chromatin fibre
 
-30nm_Chromatin_Structures.png With addition of H1, the beads-on-a-string structure in turn coils into a 30 nm diameter helical structure known as the 30 nm fibre or filament. The precise structure of the chromatin fibre in the cell is not known in detail, and there is still some debate over this.[6]
+With addition of H1, the beads-on-a-string structure in turn coils into a 30 nm diameter helical structure known as the 30 nm fibre or filament. The precise structure of the chromatin fibre in the cell is not known in detail, and there is still some debate over this.[6]
 
 This level of chromatin structure is thought to be the form of heterochromatin, which contains mostly transcriptionally silent genes. EM studies have demonstrated that the 30 nm fibre is highly dynamic such that it unfolds into a 10 nm fiber ("beads-on-a-string") structure when transversed by an RNA polymerase engaged in transcription.
 
-Four proposed structures of the 30 nm chromatin filament for DNA repeat length per nucleosomes ranging from 177 to 207 bp.
-Linker DNA in yellow and nucleosomal DNA in pink. The existing models commonly accept that the nucleosomes lie perpendicular to the axis of the fibre, with linker histones arranged internally. A stable 30 nm fibre relies on the regular positioning of nucleosomes along DNA. Linker DNA is relatively resistant to bending and rotation. This makes the length of linker DNA critical to the stability of the fibre, requiring nucleosomes to be separated by lengths that permit rotation and folding into the required orientation without excessive stress to the DNA. In this view, different lengths of the linker DNA should produce different folding topologies of the chromatin fiber. Recent theoretical work, based on electron-microscopy images[7] of reconstituted fibers supports this view.[8]
+The existing models commonly accept that the nucleosomes lie perpendicular to the axis of the fibre, with linker histones arranged internally. A stable 30 nm fibre relies on the regular positioning of nucleosomes along DNA. Linker DNA is relatively resistant to bending and rotation. This makes the length of linker DNA critical to the stability of the fibre, requiring nucleosomes to be separated by lengths that permit rotation and folding into the required orientation without excessive stress to the DNA. In this view, different lengths of the linker DNA should produce different folding topologies of the chromatin fiber. Recent theoretical work, based on electron-microscopy images[7] of reconstituted fibers supports this view.[8]
 
 Spatial organization of chromatin in the cell nucleus
 
@@ -52,7 +51,7 @@ The spatial arrangement of the chromatin within the nucleus is not random - spec
 
 Cell-cycle dependent structural organization
 
-1.  INTERPHASE: The structure of chromatin during interphase of mitosis is optimized to allow simple access of transcription and DNA repair factors to the DNA while compacting the DNA into the nucleus. The structure varies depending on the access required to the DNA. Genes that require regular access by RNA polymerase require the looser structure provided by euchromatin.NHGRI_human_male_karyotype.png staining, showing the classic metaphase chromatin structure.]]
+1.  INTERPHASE: The structure of chromatin during interphase of mitosis is optimized to allow simple access of transcription and DNA repair factors to the DNA while compacting the DNA into the nucleus. The structure varies depending on the access required to the DNA. Genes that require regular access by RNA polymerase require the looser structure provided by euchromatin. staining, showing the classic metaphase chromatin structure.]]
 2.  METAPHASE: The metaphase structure of chromatin differs vastly to that of interphase. It is optimised for physical strength and manageability, forming the classic chromosome structure seen in karyotypes. The structure of the condensed chromatin is thought to be loops of 30 nm fibre to a central scaffold of proteins. It is, however, not well-characterised.The physical strength of chromatin is vital for this stage of division to prevent shear damage to the DNA as the daughter chromosomes are separated. To maximise strength the composition of the chromatin changes as it approaches the centromere, primarily through alternative histone H1 analogues.It should also be noted that, during mitosis, while most of the chromatin is tightly compacted, there are small regions that are not as tightly compacted. These regions often correspond to promoter regions of genes that were active in that cell type prior to entry into chromatosis. The lack of compaction of these regions is called bookmarking, which is an epigenetic mechanism believed to be important for transmitting to daughter cells the "memory" of which genes were active prior to entry into mitosis.[12] This bookmarking mechanism is needed to help transmit this memory because transcription ceases during mitosis.
 
 

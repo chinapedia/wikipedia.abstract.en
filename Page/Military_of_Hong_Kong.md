@@ -1,4 +1,4 @@
-HK_Central_IFC_Tim_Mei_Road.JPG, within the Central Barracks, is the headquarters of the People's Liberation Army Hong Kong Garrison.]]
+, within the Central Barracks, is the headquarters of the People's Liberation Army Hong Kong Garrison.]]
 
 Hong Kong is a special administrative region of China, and formerly a British crown colony. As such, it has never had any military force of its own, and defence have always been the responsibilities of the sovereign power. Currently, defence of the territory is the duty of the People's Liberation Army Hong Kong Garrison. Before 1997, it was the duty of the British Forces Overseas Hong Kong. Commonwealth forces were also deployed to station in the territory shortly before the Second World War.
 

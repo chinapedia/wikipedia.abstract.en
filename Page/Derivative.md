@@ -1,4 +1,4 @@
-Tangent_to_a_curve.svg, drawn in black, and a tangent line to that function, drawn in red. The slope of the tangent line is equal to the derivative of the function at the marked point.]]
+, drawn in black, and a tangent line to that function, drawn in red. The slope of the tangent line is equal to the derivative of the function at the marked point.]]
 
 The DERIVATIVE of a function of a real variable measures the sensitivity to change of the function value (output value) with respect to a change in its argument (input value). Derivatives are a fundamental tool of calculus. For example, the derivative of the position of a moving object with respect to time is the object's velocity: this measures how quickly the position of the object changes when time advances.
 
@@ -13,7 +13,7 @@ Differentiation
 
 _Differentiation_ is the action of computing a derivative. The derivative of a function of a variable is a measure of the rate at which the value of the function changes with respect to the change of the variable . It is called the _derivative_ of with respect to . If and are real numbers, and if the graph of is plotted against , the derivative is the slope of this graph at each point.
 
-Wiki_slope_in_2d.svg The simplest case, apart from the trivial case of a constant function, is when is a linear function of , meaning that the graph of is a line. In this case, _f_(_x_) {{=}} _mx_ + _b_}}, for real numbers and , and the slope is given by
+The simplest case, apart from the trivial case of a constant function, is when is a linear function of , meaning that the graph of is a line. In this case, _f_(_x_) {{=}} _mx_ + _b_}}, for real numbers and , and the slope is given by
 
 $$m=\frac{\text{change in } y}{\text{change in } x} = \frac{\Delta y}{\Delta x},$$
 where the symbol (Delta) is an abbreviation for "change in", and the combinations Δx and Δy refer to corresponding changes, i.e.: Δy = f(x + Δx) − f(x). The above formula holds because
@@ -47,7 +47,7 @@ In Lagrange's notation, the derivative with respect to of a function is denoted 
 
 Rigorous definition
 
-Tangent_animation.gif The most common approach to turn this intuitive idea into a precise definition is to define the derivative as a limit of difference quotients of real numbers.[1] This is the approach described below.
+The most common approach to turn this intuitive idea into a precise definition is to define the derivative as a limit of difference quotients of real numbers.[1] This is the approach described below.
 
 Let be a real valued function defined in an open neighborhood of a real number . In classical geometry, the tangent line to the graph of the function at was the unique line through the point that did _not_ meet the graph of transversally, meaning that the line did not pass straight through the graph. The derivative of with respect to at is, geometrically, the slope of the tangent line to the graph of at . The slope of the tangent line is very close to the slope of the line through and a nearby point on the graph, for example . These lines are called secant lines. A value of close to zero gives a good approximation to the slope of the tangent line, and smaller values (in absolute value) of will, in general, give better approximations. The slope of the secant line is the difference between the values of these points divided by the difference between the values, that is,
 
@@ -81,7 +81,7 @@ Relative to a hyperreal extension of the real numbers, the derivative of a real 
 
 Example
 
-Parabola2.svg The square function given by _x_²}} is differentiable at 3}}, and its derivative there is 6. This result is established by calculating the limit as approaches zero of the difference quotient of :
+The square function given by _x_²}} is differentiable at 3}}, and its derivative there is 6. This result is established by calculating the limit as approaches zero of the difference quotient of :
 
 $$\begin{align}
 f'(3) & = \lim_{h\to 0}\frac{f(3+h)-f(3)}{h} = \lim_{h\to 0}\frac{(3+h)^2 - 3^2}{h} \\[10pt]
@@ -104,11 +104,9 @@ f'(a) & = \lim_{h\to 0}\frac{f(a+h)-f(a)}{h} = \lim_{h\to 0}\frac{(a+h)^2 - a^2}
 
 Continuity and differentiability
 
-Right-continuous.svg).]]
+).]]
 
 If is differentiable at , then must also be continuous at . As an example, choose a point and let be the step function that returns the value 1 for all less than , and returns a different value 10 for all greater than or equal to . cannot have a derivative at . If is negative, then is on the low part of the step, so the secant line from to is very steep, and as tends to zero the slope tends to infinity. If is positive, then is on the high part of the step, so the secant line from to has slope zero. Consequently, the secant lines do not approach any single slope, so the limit of the difference quotient does not exist.{{#tag:ref|Despite this, it is still possible to take the derivative in the sense of distributions. The result is nine times the Dirac measure centered at .|group=Note}}
-
-Absolute_value.svg
 
 However, even if a function is continuous at a point, it may not be differentiable there. For example, the absolute value function given by }} is continuous at 0}}, but it is not differentiable there. If is positive, then the slope of the secant line from 0 to is one, whereas if is negative, then the slope of the secant line from 0 to is negative one. This can be seen graphically as a "kink" or a "cusp" in the graph at 0}}. Even a function with a smooth graph is not differentiable at a point where its tangent is vertical: For instance, the function given by _x_^(1/3)}} is not differentiable at 0}}.
 
@@ -118,7 +116,7 @@ Most functions that occur in practice have derivatives at all points or at almos
 
 The derivative as a function
 
-Tangent_function_animation.gif Let be a function that has a derivative at every point in its domain. We can then define a function that maps every point x to the value of the derivative of f at x. This function is written }} and is called the _derivative function_ or the _derivative of_ .
+Let be a function that has a derivative at every point in its domain. We can then define a function that maps every point x to the value of the derivative of f at x. This function is written }} and is called the _derivative function_ or the _derivative of_ .
 
 Sometimes has a derivative at most, but not all, points of its domain. The function whose value at equals (_a_)}} whenever (_a_)}} is defined and elsewhere is undefined is also called the derivative of . It is still a function, but its domain is strictly smaller than the domain of .
 

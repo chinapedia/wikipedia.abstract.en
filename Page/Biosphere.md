@@ -1,4 +1,4 @@
-Seawifs_global_biosphere.jpg composite of global oceanic and terrestrial photoautotroph abundance, from September 2001 to August 2017. Provided by the SeaWiFS
+composite of global oceanic and terrestrial photoautotroph abundance, from September 2001 to August 2017. Provided by the SeaWiFS
 
 Project, NASA/Goddard Space Flight Center and ORBIMAGE.]]
 
@@ -9,7 +9,7 @@ In a general sense, biospheres are any closed, self-regulating systems containin
 
 Origin and use of the term
 
-90_mile_beach.jpg scene on Earth, simultaneously showing the lithosphere (ground), hydrosphere (ocean) and atmosphere (air)]] The term "biosphere" was coined by geologist Eduard Suess in 1875, which he defined as the place on Earth's surface where life dwells.[5]
+scene on Earth, simultaneously showing the lithosphere (ground), hydrosphere (ocean) and atmosphere (air)]] The term "biosphere" was coined by geologist Eduard Suess in 1875, which he defined as the place on Earth's surface where life dwells.[5]
 
 While the concept has a geological origin, it is an indication of the effect of both Charles Darwin and Matthew F. Maury on the Earth sciences. The biosphere's ecological context comes from the 1920s (see Vladimir I. Vernadsky), preceding the 1935 introduction of the term "ecosystem" by Sir Arthur Tansley (see ecology history). Vernadsky defined ecology as the science of the biosphere. It is an interdisciplinary concept for integrating astronomy, geophysics, meteorology, biogeography, evolution, geology, geochemistry, hydrology and, generally speaking, all life and Earth sciences.
 
@@ -24,11 +24,11 @@ Earth's biosphere
 
 Age
 
-Stromatolithe_Paléoarchéen_-_MNHT.PAL.2009.10.1.jpg The earliest evidence for life on Earth includes biogenic graphite found in 3.7 billion-year-old metasedimentary rocks from Western Greenland[8] and microbial mat fossils found in 3.48 billion-year-old sandstone from Western Australia.[9][10] More recently, in 2015, "remains of biotic life" were found in 4.1 billion-year-old rocks in Western Australia.[11][12] In 2017, putative fossilized microorganisms (or microfossils) were announced to have been discovered in hydrothermal vent precipitates in the Nuvvuagittuq Belt of Quebec, Canada that were as old as 4.28 billion years, the oldest record of life on earth, suggesting "an almost instantaneous emergence of life" after ocean formation 4.4 billion years ago, and not long after the formation of the Earth 4.54 billion years ago.[13][14][15][16] According to biologist Stephen Blair Hedges, "If life arose relatively quickly on Earth ... then it could be common in the universe."[17]
+The earliest evidence for life on Earth includes biogenic graphite found in 3.7 billion-year-old metasedimentary rocks from Western Greenland[8] and microbial mat fossils found in 3.48 billion-year-old sandstone from Western Australia.[9][10] More recently, in 2015, "remains of biotic life" were found in 4.1 billion-year-old rocks in Western Australia.[11][12] In 2017, putative fossilized microorganisms (or microfossils) were announced to have been discovered in hydrothermal vent precipitates in the Nuvvuagittuq Belt of Quebec, Canada that were as old as 4.28 billion years, the oldest record of life on earth, suggesting "an almost instantaneous emergence of life" after ocean formation 4.4 billion years ago, and not long after the formation of the Earth 4.54 billion years ago.[13][14][15][16] According to biologist Stephen Blair Hedges, "If life arose relatively quickly on Earth ... then it could be common in the universe."[17]
 
 Extent
 
-Ruppelsvulture.jpg XenophyophoreNOAA.jpg, a barophilic organism, from the Galapagos Rift.]] Every part of the planet, from the polar ice caps to the equator, features life of some kind. Recent advances in microbiology have demonstrated that microbes live deep beneath the Earth's terrestrial surface, and that the total mass of microbial life in so-called "uninhabitable zones" may, in biomass, exceed all animal and plant life on the surface. The actual thickness of the biosphere on earth is difficult to measure. Birds typically fly at altitudes as high as and fish live as much as underwater in the Puerto Rico Trench.[18]
+, a barophilic organism, from the Galapagos Rift.]] Every part of the planet, from the polar ice caps to the equator, features life of some kind. Recent advances in microbiology have demonstrated that microbes live deep beneath the Earth's terrestrial surface, and that the total mass of microbial life in so-called "uninhabitable zones" may, in biomass, exceed all animal and plant life on the surface. The actual thickness of the biosphere on earth is difficult to measure. Birds typically fly at altitudes as high as and fish live as much as underwater in the Puerto Rico Trench.[18]
 
 There are more extreme examples for life on the planet: Rüppell's vulture has been found at altitudes of ; bar-headed geese migrate at altitudes of at least ; yaks live at elevations as high as above sea level; mountain goats live up to . Herbivorous animals at these elevations depend on lichens, grasses, and herbs.
 
@@ -41,7 +41,7 @@ Annual variation
 
 Artificial biospheres
 
-Biosphere_2_4888964549.jpg Experimental biospheres, also called closed ecological systems, have been created to study ecosystems and the potential for supporting life outside the earth. These include spacecraft and the following terrestrial laboratories:
+Experimental biospheres, also called closed ecological systems, have been created to study ecosystems and the potential for supporting life outside the earth. These include spacecraft and the following terrestrial laboratories:
 
 -   Biosphere 2 in Arizona, United States, 3.15 acres (13,000 m²).
 -   BIOS-1, BIOS-2 and BIOS-3 at the Institute of Biophysics in Krasnoyarsk, Siberia, in what was then the Soviet Union.[37]

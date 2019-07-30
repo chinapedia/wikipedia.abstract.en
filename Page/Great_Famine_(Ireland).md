@@ -45,7 +45,7 @@ The 1841 census showed a population of just over eight million. Two-thirds of th
 
 Potato dependency
 
-An_Irish_Peasant_Family_Discovering_the_Blight_of_their_Store_by_Daniel_MacDonald.jpg The potato was introduced to Ireland as a garden crop of the gentry. The potato was not popular at first; however, after an unusual promotion campaign that was supported by landowners and members of royalty, who wanted their tenants to plant and eat the crop, it rose in popularity.[19] By the late 17th century, it had become widespread as a supplementary rather than a principal food; the main diet was still based on butter, milk, and grain products. By 1800 to 1820, the potato became a staple of the poor, especially in winter. Furthermore, a disproportionate share of the potatoes grown in Ireland were of a single variety, the Irish Lumper.[20]
+The potato was introduced to Ireland as a garden crop of the gentry. The potato was not popular at first; however, after an unusual promotion campaign that was supported by landowners and members of royalty, who wanted their tenants to plant and eat the crop, it rose in popularity.[19] By the late 17th century, it had become widespread as a supplementary rather than a principal food; the main diet was still based on butter, milk, and grain products. By 1800 to 1820, the potato became a staple of the poor, especially in winter. Furthermore, a disproportionate share of the potatoes grown in Ireland were of a single variety, the Irish Lumper.[20]
 
 With the expansion of the economy between 1760 and 1815, the potato was increasingly adopted by the people and became a staple food year round for farmers. The widespread dependency on this single crop, and the lack of genetic variability among the potato plants in Ireland and Europe (a monoculture), were two of the reasons why the emergence of _Phytophthora infestans_ had such devastating effects in Ireland and in similar areas of Europe.[21]
 
@@ -57,15 +57,11 @@ The potato was also used extensively as a fodder crop for livestock immediately 
 
 Blight in Ireland
 
-Suggested_paths_of_migration_and_diversification_of_P._infestans_lineages_HERB-1_and_US-1.jpg
-
 Prior to the arrival in Ireland of the disease _Phytophthora infestans_, commonly known as "blight", only two main potato plant diseases had been identified. One was called "dry rot" or "taint", and the other was a virus known popularly as "curl". _Phytophthora infestans_ is an oomycete (a variety of parasitic, non-photosynthetic algae, and not a fungus).
 
 In 1851, the Census of Ireland Commissioners recorded 24 failures of the potato crop going back to 1728, of varying severity. General crop failures, through disease or frost, were recorded in 1739, 1740, 1770, 1800, and 1807. In 1821 and 1822, the potato crop failed in Munster and Connaught. In 1830 and 1831, Mayo, Donegal, and Galway suffered likewise. In 1832, 1833, 1834, and 1836, dry rot and curl caused serious losses, and in 1835 the potato failed in Ulster. Widespread failures throughout Ireland occurred in 1836, 1837, 1839, 1841, and 1844. According to Woodham-Smith, "the unreliability of the potato was an accepted fact in Ireland".
 
 How and when the blight _Phytophthora infestans_ arrived in Europe is still uncertain; however, it almost certainly was not present prior to 1842, and probably arrived in 1844.[23] The origin of the pathogen has been traced to the Toluca Valley in Mexico,[24] whence it spread first within North America and then to Europe.[25] The 1845–46 blight was caused by the HERB-1 strain of the blight.[26][27]
-
-Potatoes_Production_Great_Famine_en.svg
 
 In 1844, Irish newspapers carried reports concerning a disease which for two years had attacked the potato crops in America. In 1843 and 1844, blight largely destroyed the potato crops in the Eastern United States. Ships from Baltimore, Philadelphia, or New York City could have carried diseased potatoes from these areas to European ports. American plant pathologist William C. PaddockWilliam Carson Paddock (1921 (Minneapolis, Minnesota) – 2008 (Antigua, Guatemala)), American plant pathologist:
 
@@ -83,7 +79,7 @@ In 1846, three-quarters of the harvest was lost to blight. By December, a third 
 
 Reaction in Ireland
 
-John_Mitchel_(Young_Ireland).JPG]] The Corporation of Dublin sent a memorial to the Queen, "praying her" to call Parliament together early (Parliament was at this time prorogued), and to recommend the requisition of some public money for public works, especially railways in Ireland. The Town Council of Belfast met and made similar suggestions, but neither body asked for charity, according to John Mitchel, one of the leading Repealers.
+]] The Corporation of Dublin sent a memorial to the Queen, "praying her" to call Parliament together early (Parliament was at this time prorogued), and to recommend the requisition of some public money for public works, especially railways in Ireland. The Town Council of Belfast met and made similar suggestions, but neither body asked for charity, according to John Mitchel, one of the leading Repealers.
 
   "They demanded that, if Ireland was indeed an Integral part of the realm, the common exchequer of both islands should be used—not to give alms, but to provide employment on public works of general utility ... if Yorkshire and Lancashire had sustained a like calamity in England, there is no doubt such measures as these would have been taken, promptly and liberally", Mitchel declared.
 
@@ -93,8 +89,6 @@ On 8 December 1845, Daniel O'Connell, head of the Repeal Association, proposed s
 
 John Mitchel raised the issue of the "Potato Disease" in Ireland as early as 1844 in _The Nation Newspaper_, noting how powerful an agent hunger had been in certain revolutions.[29] On 14 February 1846, he wrote about "the wretched way in which the famine was being trifled with", and asked whether the Government still did not have any conception that there might be soon "millions of human beings in Ireland having nothing to eat".
 
-Irish_potato_famine_Bridget_O'Donnel.jpg
-
 Mitchel later wrote one of the first widely circulated tracts on the famine, _The Last Conquest of Ireland (Perhaps)_, published in 1861. It established the widespread view that British actions during the famine and their treatment of the Irish was a deliberate effort to murder the Irish. It contained a sentence that has since become famous: "The Almighty, indeed, sent the potato blight, but the English created the Famine." Mitchel was charged with sedition because of his writings, but this charge was dropped. He was convicted by a packed jury under the newly enacted Treason Felony Act and sentenced to 14 years transportation to Bermuda.
 
 According to Charles Gavan Duffy, _The Nation_ insisted that the one remedy was that which the rest of Europe had adopted, which even the parliaments of the Pale had adopted in periods of distress. That was to retain in the country the food raised by her people until the people were fed.
@@ -103,7 +97,7 @@ Contemporaneously, as found in letters from the period and in particular later o
 
 The period of the potato blight in Ireland from 1845 to 1851 was full of political confrontation. A more radical Young Ireland group seceded from the Repeal movement in July 1846, and attempted an armed rebellion in 1848. It was unsuccessful.
 
-William_Smith_O'Brien.jpg]] In 1847, William Smith O'Brien, leader of the Young Ireland party, became one of the founding members of the Irish Confederation to campaign for a Repeal of the Act of Union, and called for the export of grain to be stopped and the ports closed. The following year, he organised the resistance of landless farmers in County Tipperary against the landowners and their agents.[37]
+]] In 1847, William Smith O'Brien, leader of the Young Ireland party, became one of the founding members of the Irish Confederation to campaign for a Repeal of the Act of Union, and called for the export of grain to be stopped and the ports closed. The following year, he organised the resistance of landless farmers in County Tipperary against the landowners and their agents.[37]
 
 
 Government response
@@ -114,7 +108,7 @@ In October 1845, Peel moved to repeal the Corn Laws—tariffs on grain which kep
 
 The measures undertaken by Peel's successor, Russell, proved comparatively inadequate as the crisis deepened. The new Whig administration, influenced by the doctrine of laissez-faire, believed that the market would provide the food needed, and they refused to intervene against food exports to England, then halted the previous government's food and relief works, leaving many hundreds of thousands of people without any work, money, or food. Russell's ministry introduced a new programme of public works that by the end of December 1846 employed some half million Irish and proved impossible to administer.
 
-Doolough.jpg (30 March 1849). To continue receiving relief, hundreds were instructed to travel many miles in bad weather. A large number died on the journey.]]
+(30 March 1849). To continue receiving relief, hundreds were instructed to travel many miles in bad weather. A large number died on the journey.]]
 
 Charles Trevelyan, who was in charge of the administration of government relief, limited the Government's food aid programme because of a firm belief in laissez-faire.
 
@@ -128,7 +122,7 @@ In 1849 the Encumbered Estates Act allowed landlord estates to be auctioned off 
 
 Irish food exports during Famine
 
-A_food_riot_in_Dungarvan,_Co._Waterford,_Ireland,_during_the_famine_-_The_Pictorial_Times_(1846)_-_BL.jpg attempt to break into a bakery; the poor could not afford to buy what food was available. (_The Pictorial Times_, 1846).]]
+attempt to break into a bakery; the poor could not afford to buy what food was available. (_The Pictorial Times_, 1846).]]
 
 Records show that Irish lands exported food even during the worst years of the Famine. When Ireland had experienced a famine in 1782–83, ports were closed to keep Irish-grown food in Ireland to feed the Irish. Local food prices promptly dropped. Merchants lobbied against the export ban, but government in the 1780s overrode their protests. No such export ban happened in the 1840s.
 
@@ -143,7 +137,7 @@ The historian Cecil Woodham-Smith wrote in _The Great Hunger: Ireland 1845–184
 
 Charity
 
-Ridpath's_history_of_the_world_-_being_an_account_of_the_principal_events_in_the_career_of_the_human_race_from_the_beginnings_of_civilization_to_the_present_time,_comprising_the_development_of_social_(14749361956).jpg, c. 1846]] William Smith O'Brien—speaking on the subject of charity in a speech to the Repeal Association in February 1845—applauded the fact that the universal sentiment on the subject of charity was that they would accept no English charity. He expressed the view that the resources of Ireland were still abundantly adequate to maintain the population, and that, until those resources had been utterly exhausted, he hoped that there was no one in "Ireland who will so degrade himself as to ask the aid of a subscription from England".
+, c. 1846]] William Smith O'Brien—speaking on the subject of charity in a speech to the Repeal Association in February 1845—applauded the fact that the universal sentiment on the subject of charity was that they would accept no English charity. He expressed the view that the resources of Ireland were still abundantly adequate to maintain the population, and that, until those resources had been utterly exhausted, he hoped that there was no one in "Ireland who will so degrade himself as to ask the aid of a subscription from England".
 
 Mitchel wrote in his _The Last Conquest of Ireland (Perhaps)_, on the same subject, that no one from Ireland ever asked for charity during this period, and that it was England who sought charity on Ireland's behalf, and, having received it, was also responsible for administering it. He suggested that it has been carefully inculcated by the British Press "that the moment Ireland fell into distress, she became an abject beggar at England's gate, and that she even craved alms from all mankind". He affirmed that in Ireland no one ever asked alms or favours of any kind from England or any other nation, but that it was England herself that begged for Ireland. He suggested that it was England that "sent 'round the hat over all the globe, asking a penny for the love of God to relieve the poor Irish", and, constituting herself the agent of all that charity, took all the profit of it.
 
@@ -158,7 +152,7 @@ Contributions by the United States during the famine were highlighted by Senator
 
 Eviction
 
-Parliament_Square,_London_(2014)_-_3.JPG, then British Foreign Secretary, evicted some 2,000 of his tenants.]] Landlords were responsible for paying the rates of every tenant whose yearly rent was £4 or less. Landlords whose land was crowded with poorer tenants were now faced with large bills. Many began clearing the poor tenants from their small plots, and letting the land in larger plots for over £4 which then reduced their debts. In 1846, there had been some clearances, but the great mass of evictions came in 1847. According to James S. Donnelly, Jr., it is impossible to be sure how many people were evicted during the years of the famine and its immediate aftermath. It was only in 1849 that the police began to keep a count, and they recorded a total of almost 250,000 persons as officially evicted between 1849 and 1854.
+, then British Foreign Secretary, evicted some 2,000 of his tenants.]] Landlords were responsible for paying the rates of every tenant whose yearly rent was £4 or less. Landlords whose land was crowded with poorer tenants were now faced with large bills. Many began clearing the poor tenants from their small plots, and letting the land in larger plots for over £4 which then reduced their debts. In 1846, there had been some clearances, but the great mass of evictions came in 1847. According to James S. Donnelly, Jr., it is impossible to be sure how many people were evicted during the years of the famine and its immediate aftermath. It was only in 1849 that the police began to keep a count, and they recorded a total of almost 250,000 persons as officially evicted between 1849 and 1854.
 
 Donnelly considered this to be an underestimate, and if the figures were to include the number pressured into "voluntary" surrenders during the whole period (1846–1854), the figure would almost certainly exceed half a million persons. While Helen Litton says there were also thousands of "voluntary" surrenders, she notes also that there was "precious little voluntary about them". In some cases, tenants were persuaded to accept a small sum of money to leave their homes, "cheated into believing the workhouse would take them in".
 
@@ -179,7 +173,7 @@ The "Gregory clause", described by Donnelly as a "vicious amendment to the Irish
 
 Emigration
 
-Emigrants_Leave_Ireland_by_Henry_Doyle_1868.jpg (1827–1893), from Mary Frances Cusack's _Illustrated History of Ireland_, 1868]]
+(1827–1893), from Mary Frances Cusack's _Illustrated History of Ireland_, 1868]]
 
 While the famine was responsible for a significant increase in emigration from Ireland, of anywhere from 45% to nearly 85% depending on the year and the county, it was not the sole cause. The beginning of mass emigration from Ireland can be traced to the mid-18th century, when some 250,000 people left Ireland over a period of 50 years to settle in the New World. Irish economist Cormac Ó Gráda estimates that between 1 million and 1.5 million people emigrated during the 30 years between 1815 (when Napoleon was defeated in Waterloo) and 1845 (when the Great Famine began). However, during the worst of the famine, emigration reached somewhere around 250,000 in one year alone, with western Ireland seeing the most emigrants.
 
@@ -187,7 +181,7 @@ Families did not migrate _en masse_, but younger members of families did, so muc
 
 Emigration during the famine years of 1845–1850 was to England, Scotland, South Wales, North America, and Australia. By 1851, about a quarter of Liverpool's population was Irish-born. Many of those fleeing to the Americas used the well-established McCorkell Line.
 
-Population_of_Ireland_and_Europe_1750_to_2005.svg and Wales between the 1841 and 1851 censuses the population of England, grew at a similar rate as the decades previous, from 14.8 to 16.7 million.[55]]]
+and Wales between the 1841 and 1851 censuses the population of England, grew at a similar rate as the decades previous, from 14.8 to 16.7 million.[55]]]
 
 Of the more than 100,000 Irish that sailed to Canada in 1847, an estimated one out of five died from disease and malnutrition, including over 5,000 at Grosse Isle, Quebec, an island in the Saint Lawrence River used to quarantine ships near Quebec City. Overcrowded, poorly maintained, and badly provisioned vessels known as coffin ships sailed from small, unregulated harbours in the West of Ireland in contravention of British safety requirements, and mortality rates were high. The 1851 census reported that more than half the inhabitants of Toronto were Irish, and, in 1847 alone, 38,000 Irish flooded a city with fewer than 20,000 citizens. Other Canadian cities such as Quebec City, Montreal, Ottawa, Kingston, Hamilton, and Saint John also received large numbers. By 1871, 55% of Saint John residents were Irish natives or children of Irish-born parents.[56] Unlike the United States, Canada could not close its ports to Irish ships because it was part of the British Empire, so emigrants could obtain cheap passage (evicted tenants received free passage) in returning empty lumber holds. However, fearing nationalist insurgencies, the British government placed harsh restrictions on Irish immigration to Canada after 1847, resulting in larger influxes to the United States.
 
@@ -198,7 +192,7 @@ The famine marked the beginning of the depopulation of Ireland in the 19th centu
 
 Death toll
 
-Ireland_population_change_1841_1851.png It is not known exactly how many people died during the period of the famine, although it is believed that more died from disease than from starvation. State registration of births, marriages, or deaths had not yet begun, and records kept by the Roman Catholic Church are incomplete. One possible estimate has been reached by comparing the expected population with the eventual numbers in the 1850s. A census taken in 1841 recorded a population of 8,175,124. A census immediately after the famine in 1851 counted 6,552,385, a drop of over 1.5 million in 10 years. The census commissioners estimated that, at the normal rate of population increase, the population in 1851 should have grown to just over 9 million if the famine had not occurred.
+It is not known exactly how many people died during the period of the famine, although it is believed that more died from disease than from starvation. State registration of births, marriages, or deaths had not yet begun, and records kept by the Roman Catholic Church are incomplete. One possible estimate has been reached by comparing the expected population with the eventual numbers in the 1850s. A census taken in 1841 recorded a population of 8,175,124. A census immediately after the famine in 1851 counted 6,552,385, a drop of over 1.5 million in 10 years. The census commissioners estimated that, at the normal rate of population increase, the population in 1851 should have grown to just over 9 million if the famine had not occurred.
 
 On the in-development _Great Irish Famine Online_ resource, produced by the Geography department of University College Cork, the population of Ireland section states, that together with the census figures being called low, before the famine it reads that "it is now generally believed" that over 8.75 million people populated the island of Ireland prior to it striking.[57]
 
@@ -224,7 +218,7 @@ Detailed statistics of the population of Ireland since 1841 are available at Iri
 
 At least a million people are thought to have emigrated as a result of the famine. There were about 1 million long-distance emigrants between 1846 and 1851, mainly to North America. The total given in the 1851 census is 967,908.[58] Short-distance emigrants, mainly to Britain, may have numbered 200,000 or more.
 
-A_terrible_record_John_Johnson_political_&_satirical_cropped.jpg Another area of uncertainty lies in the descriptions of disease given by tenants as to the cause of their relatives' deaths. Though the 1851 census has been rightly criticised as underestimating the true extent of mortality, it does provide a framework for the medical history of the Great Famine. The diseases that badly affected the population fell into two categories: famine-induced diseases and diseases of nutritional deficiency. Of the nutritional deficiency diseases, the most commonly experienced were starvation and marasmus, as well as a condition at the time called dropsy. Dropsy (oedema) was a popular name given for the symptoms of several diseases, one of which, kwashiorkor, is associated with starvation.
+Another area of uncertainty lies in the descriptions of disease given by tenants as to the cause of their relatives' deaths. Though the 1851 census has been rightly criticised as underestimating the true extent of mortality, it does provide a framework for the medical history of the Great Famine. The diseases that badly affected the population fell into two categories: famine-induced diseases and diseases of nutritional deficiency. Of the nutritional deficiency diseases, the most commonly experienced were starvation and marasmus, as well as a condition at the time called dropsy. Dropsy (oedema) was a popular name given for the symptoms of several diseases, one of which, kwashiorkor, is associated with starvation.
 
 However, the greatest mortality was not from nutritional deficiency diseases, but from famine-induced ailments. The malnourished are very vulnerable to infections; therefore, these were more severe when they occurred. Measles, diphteria, diarrhoea, tuberculosis, most respiratory infections, whooping cough, many intestinal parasites, and cholera were all strongly conditioned by nutritional status. Potentially lethal diseases, such as smallpox and influenza, were so virulent that their spread was independent of nutrition. The best example of this phenomenon was fever, which exacted the greatest death toll. In the popular mind, as well as medical opinion, fever and famine were closely related. Social dislocation—the congregation of the hungry at soup kitchens, food depots, and overcrowded work houses—created conditions that were ideal for spreading infectious diseases such as typhus, typhoid, and relapsing fever.
 
@@ -264,7 +258,7 @@ Some also pointed to the structure of the British Empire as a contributing facto
 
 Genocide question
 
-An_gorta_Mor.jpg. "An Gorta Mór, Britain's genocide by starvation, Ireland's holocaust 1845–1849, over 1,500,000 deaths".]] The famine remains a controversial event in Irish history. Debate and discussion on the British government's response to the failure of the potato crop in Ireland, the exportation of food crops and livestock, the subsequent large-scale starvation, and whether or not this constituted genocide, remains a historically and politically charged issue.
+. "An Gorta Mór, Britain's genocide by starvation, Ireland's holocaust 1845–1849, over 1,500,000 deaths".]] The famine remains a controversial event in Irish history. Debate and discussion on the British government's response to the failure of the potato crop in Ireland, the exportation of food crops and livestock, the subsequent large-scale starvation, and whether or not this constituted genocide, remains a historically and politically charged issue.
 
 In 1996, Francis A. Boyle, a law professor at the University of Illinois at Urbana–Champaign, wrote a report commissioned by the New York-based Irish Famine/Genocide Committee, which concluded that the British government deliberately pursued a race- and ethnicity-based policy aimed at destroying the group commonly known as the Irish people and that the policy of mass starvation amounted to genocide per the Hague Convention of 1948.
 

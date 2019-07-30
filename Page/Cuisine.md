@@ -1,4 +1,4 @@
-La_Boqueria.JPG, a public market in the Ciutat Vella district of Barcelona, Spain]] Food_from_Turkey_(cropped).jpg]]
+, a public market in the Ciutat Vella district of Barcelona, Spain]] ]]
 
 A CUISINE is a style of cooking characterized by distinctive ingredients, techniques and dishes, and usually associated with a specific culture or geographic region. A cuisine is primarily influenced by the ingredients that are available locally or through trade. Religious food laws, such as Hindu, Sikh, Buddhist, Islamic and Jewish dietary laws, can also exercise a strong influence on cuisine. Regional food preparation traditions, customs and ingredients often combine to create dishes unique to a particular region.[1]
 
@@ -23,7 +23,7 @@ Cuisine dates back to the Antiquity. As food began to require more planning, the
 
 New cuisines
 
-Jacques_Lameloise,_escabèche_d'écrevisses_sur_gaspacho_d'asperge_et_cresson.jpg'' presentation. This dish consists of marinated crayfish on gazpacho asparagus and watercress.]] Cuisines evolve continually, and new cuisines are created by innovation and cultural interaction. One recent example is fusion cuisine, which combines elements of various culinary traditions while not being categorized per any one cuisine style, and generally refers to the innovations in many contemporary restaurant cuisines since the 1970s.[5] _Nouvelle cuisine_ (New cuisine) is an approach to cooking and food presentation in French cuisine that was popularized in the 1960s by the food critics Henri Gault, who invented the phrase, and his colleagues André Gayot and Christian Millau in a new restaurant guide, the Gault-Millau, or _Le Nouveau Guide_. Molecular cuisine, is a modern style of cooking which takes advantage of many technical innovations from the scientific disciplines (molecular cooking). The term was coined in 1999 by the French INRA chemist Hervé This because he wanted to distinguish it from the name Molecular cuisine that was previously introduced by him and the late Oxford physicist Nicholas Kurti.[6] It is also named as multi sensory cooking, modernist cuisine, culinary physics, and experimental cuisine by some chefs.[7] Besides, international trade brings new foodstuffs including ingredients to existing cuisines and leads to changes. The introduction of hot pepper to China from South America around the end of the 17th century, greatly influencing Sichuan cuisine, which combines the original taste with the taste of introduced hot pepper and creates a unique flavor of both spicy and pungent.[8]
+'' presentation. This dish consists of marinated crayfish on gazpacho asparagus and watercress.]] Cuisines evolve continually, and new cuisines are created by innovation and cultural interaction. One recent example is fusion cuisine, which combines elements of various culinary traditions while not being categorized per any one cuisine style, and generally refers to the innovations in many contemporary restaurant cuisines since the 1970s.[5] _Nouvelle cuisine_ (New cuisine) is an approach to cooking and food presentation in French cuisine that was popularized in the 1960s by the food critics Henri Gault, who invented the phrase, and his colleagues André Gayot and Christian Millau in a new restaurant guide, the Gault-Millau, or _Le Nouveau Guide_. Molecular cuisine, is a modern style of cooking which takes advantage of many technical innovations from the scientific disciplines (molecular cooking). The term was coined in 1999 by the French INRA chemist Hervé This because he wanted to distinguish it from the name Molecular cuisine that was previously introduced by him and the late Oxford physicist Nicholas Kurti.[6] It is also named as multi sensory cooking, modernist cuisine, culinary physics, and experimental cuisine by some chefs.[7] Besides, international trade brings new foodstuffs including ingredients to existing cuisines and leads to changes. The introduction of hot pepper to China from South America around the end of the 17th century, greatly influencing Sichuan cuisine, which combines the original taste with the taste of introduced hot pepper and creates a unique flavor of both spicy and pungent.[8]
 
 
 Global cuisine
@@ -37,15 +37,11 @@ Regional cuisines can vary based on availability and usage of specific ingredien
 
 African cuisine
 
-LocationAfrica.png
-
 African cuisines use a combination of locally available fruits, cereal grains and vegetables, as well as milk and meat products. In some parts of the continent, the traditional diet features a preponderance of milk, curd and whey products. In much of tropical Africa, however, cow's milk is rare and cannot be produced locally (owing to various diseases that affect livestock). The continent's diverse demographic makeup is reflected in the many different eating and drinking habits, dishes, and preparation techniques of its manifold populations.[10]
 
 File:Alicha 1.jpg|Typical Ethiopian and Eritrean cuisine: _Injera_ (pancake-like bread) and several kinds of _wat_ (stew) File:Iftar.jpg%7CA Ramadan dinner in Tanzania File:Yassapoulet.JPG|Yassa is a popular dish throughout West Africa prepared with chicken or fish. Chicken yassa is pictured. File:Spices1.jpg%7CSpices at central market in Agadir, Morocco
 
 Asian cuisine
-
-LocationAsia.svg
 
 Asian cuisines are many and varied. Ingredients common to many cultures in the east and Southeast regions of the continent include rice, ginger, garlic, sesame seeds, chilies, dried onions, soy, and tofu. Stir frying, steaming, and deep frying are common cooking methods. While rice is common to most Asian cuisines, different varieties are popular in the various regions; Basmati rice is popular in the South Asia, Jasmine is often found across the southeast, while long-grain rice is popular in China and short-grain in Japan and Korea.[11] Curry is also a common dish found in southern and eastern Asia, however, they are not as popular in western Asian cuisines. Those curry dishes with origins in India and other South Asian countries usually have a yogurt base while Southeastern and Eastern curries generally use coconut milk as their foundation.[12]
 
@@ -53,23 +49,17 @@ File:CantoneseRestaurantSeafood.jpg%7CDue to Guangdong's location on the souther
 
 European cuisine
 
-locationEurope.png
-
 European cuisine (alternatively, "Western cuisine") include the cuisines of Europe and other Western countries. European cuisine includes that of Europe and to some extent Russia, as well as non-indigenous cuisines of North America, Australasia, Oceania, and Latin America. The term is used by East Asians to contrast with Asian styles of cooking.[13] This is analogous to Westerners referring collectively to the cuisines of Asian countries as Asian cuisine. When used by Westerners, the term may refer more specifically to cuisine _in_ Europe; in this context, a synonym is CONTINENTAL CUISINE, especially in British English.
 
 File:Sunday roast - roast beef 1.jpg|An English Sunday roast with roast beef, roast potatoes, vegetables and Yorkshire pudding File:Flickr - cyclonebill - Tapas.jpg|A variety of tapas: appetizers or snacks in Spanish cuisine File:German sausages and cheese.jpg|German sausages and cheese
 
 Oceanian cuisine
 
-locationOceania.png
-
 Oceanian cuisines include Australian cuisine, New Zealand cuisine, Tasmanian cuisine, and the cuisines from many other islands or island groups throughout Oceania. Australian cuisine consists of immigrant European cuisine, and Bushfood prepared and eaten by native Aboriginal Australian peoples, and various newer Asian influences. New Zealand cuisine also consists of European inspired dishes, such as Pavlova, and native Maori cuisine. Across Oceania, staples include the Kumura (Sweet potato) and Taro, which was/is a staple from Papua New Guinea to the South Pacific. On most islands in the south pacific, fish are widely consumed because of the proximity to the ocean.
 
 File:Australian bush tucker, Alice Springs.jpg|_Bush Tucker_ (bush foods) harvested at Alice Springs Desert Park in Australia File:Hangi prepare.jpg|A Hāngi being prepared, a New Zealand Māori method of cooking food for special occasions using hot rocks buried in a pit oven. File:Pig on the Samoan Umu.jpg|Samoan _umu_, an oven of hot rocks above ground
 
 Cuisines of the Americas
-
-Americas_(orthographic_projection).svg
 
 The cuisines of the Americas are found across North and South America, and are based on the cuisines of the countries from which the immigrant people came, primarily Europe. However, the traditional European cuisine has been adapted by the addition of many local and native ingredients, and many techniques have been added to traditional foods as well. Native American cuisine is prepared by indigenous populations across the continent, and its influences can be seen on multi-ethnic Latin American cuisine. Many staple foods eaten across the continent, such as Corn, Beans, and Potatoes have native origins. The regional cuisines are North American cuisine, Mexican cuisine, Central American cuisine, South American cuisine, and Caribbean cuisine.
 

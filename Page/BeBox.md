@@ -14,8 +14,6 @@ Production models use two PowerPC 603 processors running at 66 or 133 MHz to po
 
 I/O board
 
-BeBox.Le_dos.jpg
-
 -   Four serial ports (9-pin D-shell)
 -   One mouse port, PS/2-type
 -   Two joystick ports (15-pin D-shell)

@@ -7,7 +7,7 @@ In spite of differences among Christians about various aspects of the Eucharist,
 
 Terminology
 
-Última_Cena_-_Juan_de_Juanes.jpg,[10] as in this 16th-century Juan de Juanes painting.]]
+,[10] as in this 16th-century Juan de Juanes painting.]]
 
 Eucharist
 
@@ -25,7 +25,7 @@ The Lord's Supper, in Greek (), was in use in the early 50s of the 1st century,[
 
 Those who use the term "Eucharist" rarely use the expression "the Lord's Supper", but it is the predominant term among Evangelical, Baptist, and Pentecostal churches, who generally avoid using the term "Communion". They also refer to the observance as an "ordinance". Those Protestant churches generally avoid the term "sacrament".[30][31][32]
 
-Last-supper-from-Kremikovtsi.jpg fresco (15th century) depicting the Last Supper celebrated by Jesus and his disciples. The early Christians too would have celebrated this meal to commemorate Jesus' death and subsequent resurrection.]]
+fresco (15th century) depicting the Last Supper celebrated by Jesus and his disciples. The early Christians too would have celebrated this meal to commemorate Jesus' death and subsequent resurrection.]]
 
 Holy Communion
 
@@ -60,7 +60,7 @@ Some Eastern rites have yet more names for Eucharist. Holy Qurbana is common in 
 
 History
 
-Juan_de_Juanes_002.jpg, 16th century.]]
+, 16th century.]]
 
 Biblical basis
 
@@ -80,7 +80,7 @@ In the gospel of John, however, the account of the Last Supper does not mention 
 
 Agape feast
 
-Agape_feast_07.jpg The expression _The Lord's Supper_, derived from St. Paul's usage in , may have originally referred to the Agape feast (or love feast), the shared communal meal with which the Eucharist was originally associated.[58] The Agape feast is mentioned in but _The Lord's Supper_ is now commonly used in reference to a celebration involving no food other than the sacramental bread and wine.
+The expression _The Lord's Supper_, derived from St. Paul's usage in , may have originally referred to the Agape feast (or love feast), the shared communal meal with which the Eucharist was originally associated.[58] The Agape feast is mentioned in but _The Lord's Supper_ is now commonly used in reference to a celebration involving no food other than the sacramental bread and wine.
 
 Early Christian sources
 
@@ -104,7 +104,7 @@ Many Christian denominations classify the Eucharist as a sacrament.[70] Some Pro
 
 Roman Catholic Church
 
-Ecce_Agnus_Dei.jpg, the host is displayed to the people before communion.]]
+, the host is displayed to the people before communion.]]
 
 In the Catholic Church the Eucharist is considered as a sacrament, according to the Church the Eucharist is "the source and summit of the Christian life."[71] "The other sacraments, and indeed all ecclesiastical ministries and works of the apostolate, are bound up with the Eucharist and are oriented toward it. For in the blessed Eucharist is contained the whole spiritual good of the Church, namely Christ himself, our Pasch."[72]
 
@@ -118,7 +118,7 @@ As a real presence
 
 The Catholic Church teaches that Jesus is present in a true, real and substantial way, with his Body and his Blood, with his Soul and his Divinity under the Eucharistic species of bread and wine, Christ whole and entire, God and Man. During the consecration of bread and wine, both bread and wine become the body and blood of Jesus Christ. The change of the whole substance of bread into the substance of the Body of Christ and of the whole substance of wine into the substance of his Blood is called transubstantiation. This change is brought about in the eucharistic prayer through the efficacy of the word of Christ and by the action of the Holy Spirit. However, the outward characteristics of bread and wine, that is the "eucharistic species", remain unaltered.[81][82][83] The presence of Christ continues in the Eucharist as long as the eucharistic species subsist.[84][85] that is, until the Eucharist is digested, physically destroyed, or decays by some natural process[86] (at which point Aquinas argued that the substance of the bread and wine cannot return).[87] The empirical appearance and physical properties (called the _species_ or _accidents_) are not changed, but in the view of Catholics, the reality (called the _substance_) indeed is; hence the term _transubstantiation_ to describe the phenomenon. The Council of Trent declares that by the consecration of the bread (known as the Host) and wine "there takes place a change of the whole substance of the bread into the substance of the body of Christ our Lord and of the whole substance of the wine into the substance of his blood. This change the holy Catholic Church has fittingly and properly called transubstantiation."[88] The Church holds that the body and blood of Jesus can no longer be truly separated. Where one is, the other must be. Therefore, although the priest (or extraordinary minister of Holy Communion) says "The Body of Christ" when administering the Host and "The Blood of Christ" when presenting the chalice, the communicant who receives either one receives Christ, whole and entire. "The Eucharistic presence of Christ begins at the moment of the consecration and endures as long as the Eucharistic species subsist. Christ is present whole and entire in each of the species and whole and entire in each of their parts, in such a way that the breaking of the bread does not divide Christ."[89]
 
-BentoXVI-51-11052007_(frag).jpg celebrates a Mass.]] The Roman Catholic Church sees as the main basis for this belief the words of Jesus himself at his Last Supper: the Synoptic Gospels (; ; ) and Saint Paul's recount that in that context Jesus said of what to all appearances were bread and wine: "This is my body … this is my blood." The Catholic understanding of these words, from the Patristic authors onward, has emphasized their roots in the covenantal history of the Old Testament. The interpretation of Christ's words against this Old Testament background coheres with and supports belief in the Real presence of Christ in the Eucharist.[90]
+celebrates a Mass.]] The Roman Catholic Church sees as the main basis for this belief the words of Jesus himself at his Last Supper: the Synoptic Gospels (; ; ) and Saint Paul's recount that in that context Jesus said of what to all appearances were bread and wine: "This is my body … this is my blood." The Catholic understanding of these words, from the Patristic authors onward, has emphasized their roots in the covenantal history of the Old Testament. The interpretation of Christ's words against this Old Testament background coheres with and supports belief in the Real presence of Christ in the Eucharist.[90]
 
 In 1551, the Council of Trent definitively declared, "Because Christ our Redeemer said that it was truly his body that he was offering under the species of bread, it has always been the conviction of the Church of God, and this holy Council now declares again that by the consecration of the bread and wine there takes place a change of the whole substance of the bread into the substance of the body of Christ our Lord and of the whole substance of the wine into the substance of his blood. This change the holy Catholic Church has fittingly and properly called transubstantiation."[91][92] The Fourth Council of the Lateran in 1215 had spoken of "Jesus Christ, whose body and blood are truly contained in the sacrament of the altar under the forms of bread and wine, the bread being changed (_transsubstantiatis_) by divine power into the body and the wine into the blood." The attempt by some twentieth-century Catholic theologians to present the Eucharistic change as an alteration of significance (transignification rather than transubstantiation) was rejected by Pope Paul VI in his 1965 encyclical letter _Mysterium fidei_. In his 1968 _Credo of the People of God_, he reiterated that any theological explanation of the doctrine must hold to the twofold claim that, after the consecration, 1) Christ's body and blood are really present; and 2) bread and wine are really absent; and this presence and absence is _real_ and not merely something in the mind of the believer.
 
@@ -128,7 +128,7 @@ In the Catholic Church "A person who is conscious of grave sin (mortal sin) is n
 
 Eastern Orthodoxy
 
-Liturgy_St_James_1.jpg Within Eastern Christianity, the Eucharistic service is called the _Divine Liturgy_ (Byzantine Rite) or similar names in other rites. It comprises two main divisions: the first is the _Liturgy of the Catechumens_ which consists of introductory litanies, antiphons and scripture readings, culminating in a reading from one of the Gospels and, often, a homily; the second is the _Liturgy of the Faithful_ in which the Eucharist is offered, consecrated, and received as Holy Communion. Within the latter, the actual Eucharistic prayer is called the ''anaphora, '' literally: "offering" or "carrying up" (). In the Rite of Constantinople, two different anaphoras are currently used: one is attributed to Saint John Chrysostom, the other to Saint Basil the Great. In the Oriental Orthodox Church, a variety of anaphoras are used, but all are similar in structure to those of the Constantinopolitan Rite, in which the Anaphora of Saint John Chrysostom is used most days of the year; Saint Basil's is offered on the Sundays of Great Lent, the eves of Christmas and Theophany, Holy Thursday, Holy Saturday, and upon his feast day (1 January). At the conclusion of the Anaphora the bread and wine are held to be the Body and Blood of Christ. Unlike the Latin Church, the Byzantine Rite uses leavened bread, with the leaven symbolizing the presence of the Holy Spirit.[94] The Armenian Apostolic Church, like the Latin Church, uses unleavened bread, whereas the Greek Orthodox Church utilizes leavened bread in their celebration.[95]
+Within Eastern Christianity, the Eucharistic service is called the _Divine Liturgy_ (Byzantine Rite) or similar names in other rites. It comprises two main divisions: the first is the _Liturgy of the Catechumens_ which consists of introductory litanies, antiphons and scripture readings, culminating in a reading from one of the Gospels and, often, a homily; the second is the _Liturgy of the Faithful_ in which the Eucharist is offered, consecrated, and received as Holy Communion. Within the latter, the actual Eucharistic prayer is called the ''anaphora, '' literally: "offering" or "carrying up" (). In the Rite of Constantinople, two different anaphoras are currently used: one is attributed to Saint John Chrysostom, the other to Saint Basil the Great. In the Oriental Orthodox Church, a variety of anaphoras are used, but all are similar in structure to those of the Constantinopolitan Rite, in which the Anaphora of Saint John Chrysostom is used most days of the year; Saint Basil's is offered on the Sundays of Great Lent, the eves of Christmas and Theophany, Holy Thursday, Holy Saturday, and upon his feast day (1 January). At the conclusion of the Anaphora the bread and wine are held to be the Body and Blood of Christ. Unlike the Latin Church, the Byzantine Rite uses leavened bread, with the leaven symbolizing the presence of the Holy Spirit.[94] The Armenian Apostolic Church, like the Latin Church, uses unleavened bread, whereas the Greek Orthodox Church utilizes leavened bread in their celebration.[95]
 
 Conventionally this change in the elements is understood to be accomplished at the _Epiclesis_ ("invocation") by which the Holy Spirit is invoked and the consecration of the bread and wine as the true and genuine Body and Blood of Christ is specifically requested, but since the anaphora as a whole is considered a unitary (albeit lengthy) prayer, no one moment within it can be readily singled out.
 
@@ -144,7 +144,7 @@ In most parishes of the Anglican Communion the Eucharist is celebrated every Sun
 
 Baptist groups
 
-Communion_Baptist.jpg The bread and "fruit of the vine" indicated in Matthew, Mark and Luke as the elements of the _Lord's Supper_[96] are interpreted by many Baptists as unleavened bread (although leavened bread is often used) and, in line with the historical stance of some Baptist groups (since the mid-19th century) against partaking of alcoholic beverages, grape juice, which they commonly refer to simply as "the Cup".[97] The unleavened bread also underscores the symbolic belief attributed to Christ's breaking the bread and saying that it was his body. A soda cracker is often used.
+The bread and "fruit of the vine" indicated in Matthew, Mark and Luke as the elements of the _Lord's Supper_[96] are interpreted by many Baptists as unleavened bread (although leavened bread is often used) and, in line with the historical stance of some Baptist groups (since the mid-19th century) against partaking of alcoholic beverages, grape juice, which they commonly refer to simply as "the Cup".[97] The unleavened bread also underscores the symbolic belief attributed to Christ's breaking the bread and saying that it was his body. A soda cracker is often used.
 
 Most Baptists consider the Communion to be primarily an act of remembrance of Christ's atonement, and a time of renewal of personal commitment.
 
@@ -156,7 +156,7 @@ Some Baptist churches are closed-Communionists (even requiring full membership i
 
 Lutheran
 
-EucharistELCA.JPG Lutherans believe that the body and blood of Christ are "truly and substantially present in, with, and under the forms" of the consecrated bread and wine (the elements), so that communicants eat and drink the body and blood of Christ himself as well as the bread and wine in this sacrament.[98] The Lutheran doctrine of the Real Presence is more accurately and formally known as the "sacramental union". It has been called "consubstantiation" by non-Lutherans.[99] This term is specifically rejected by Lutheran churches and theologians since it creates confusion about the actual doctrine and subjects the doctrine to the control of a non-biblical philosophical concept in the same manner as, in their view, does the term "transubstantiation".[100]
+Lutherans believe that the body and blood of Christ are "truly and substantially present in, with, and under the forms" of the consecrated bread and wine (the elements), so that communicants eat and drink the body and blood of Christ himself as well as the bread and wine in this sacrament.[98] The Lutheran doctrine of the Real Presence is more accurately and formally known as the "sacramental union". It has been called "consubstantiation" by non-Lutherans.[99] This term is specifically rejected by Lutheran churches and theologians since it creates confusion about the actual doctrine and subjects the doctrine to the control of a non-biblical philosophical concept in the same manner as, in their view, does the term "transubstantiation".[100]
 
 While an official movement exists in Lutheran congregations to celebrate Eucharist weekly, using formal rites very similar to the Catholic and "high" Anglican services, it was historically common for congregations to celebrate monthly or even quarterly.[101][102] Even in congregations where Eucharist is offered weekly, there is not a requirement that every church service be a Eucharistic service, nor that all members of a congregation must receive it weekly.[103]
 
@@ -174,7 +174,7 @@ Reformed/Presbyterian
 
 In the Reformed Churches the Eucharist is variously administered. The Calvinist view of the Sacrament sees a real presence of Christ in the supper which differs both from the objective ontological presence of the Catholic view, and from the real absence of Christ and the mental recollection of the memorialism of the Zwinglians[110] and their successors.
 
-South_Leith_communion_token_reverse.jpgs to provide entrance to the Lord's Supper.]] The bread and wine become the means by which the believer has real communion with Christ in his death and Christ's body and blood are present to the faith of the believer as really as the bread and wine are present to their senses but this presence is "spiritual", that is the work of the Holy Spirit.[111] There is no standard frequency; John Calvin desired weekly communion, but the city council only approved monthly, and monthly celebration has become the most common practice in Reformed churches today.
+s to provide entrance to the Lord's Supper.]] The bread and wine become the means by which the believer has real communion with Christ in his death and Christ's body and blood are present to the faith of the believer as really as the bread and wine are present to their senses but this presence is "spiritual", that is the work of the Holy Spirit.[111] There is no standard frequency; John Calvin desired weekly communion, but the city council only approved monthly, and monthly celebration has become the most common practice in Reformed churches today.
 
 Many, on the other hand, follow John Knox in celebration of the Lord's supper on a quarterly basis, to give proper time for reflection and inward consideration of one's own state and sin. Recently, Presbyterian and Reformed Churches have been considering whether to restore more frequent communion, including weekly communion in more churches, considering that infrequent communion was derived from a memorialist view of the Lord's Supper, rather than Calvin's view of the sacrament as a means of grace.[112] Some churches use bread without any raising agent (whether leaven or yeast), in view of the use of unleavened bread at Jewish Passover meals, while others use any bread available.
 
@@ -199,7 +199,7 @@ John Wesley, a founder of Methodism, said that it was the duty of Christians to 
 
 Nondenominational and other Christians
 
-Lord's_cup_and_Bread.JPG is sometimes used for bread, emphasising the "re-creation" of the Last Supper.]] Many non-denominational Christians, including the Churches of Christ, receive communion every Sunday. Others, including Evangelical churches such as the Church of God, Calvary Chapel, and many forms of Baptist, typically receive communion on a monthly or periodic basis. Many non-denominational Christians hold to the Biblical autonomy of local churches and have no universal requirement among congregations.
+is sometimes used for bread, emphasising the "re-creation" of the Last Supper.]] Many non-denominational Christians, including the Churches of Christ, receive communion every Sunday. Others, including Evangelical churches such as the Church of God, Calvary Chapel, and many forms of Baptist, typically receive communion on a monthly or periodic basis. Many non-denominational Christians hold to the Biblical autonomy of local churches and have no universal requirement among congregations.
 
 Some Churches of Christ, among others, use grape juice and unleavened wafers or unleavened bread and practice open communion.
 
@@ -239,7 +239,7 @@ Practice and customs
 
 Open and closed communion
 
-Eucharist001.jpg Catholic Church, the administration of the Eucharist to children requires that they have sufficient knowledge and careful preparation to receive the body of Christ with faith and devotion.]]
+Catholic Church, the administration of the Eucharist to children requires that they have sufficient knowledge and careful preparation to receive the body of Christ with faith and devotion.]]
 
 Christian denominations differ in their understanding of whether they may receive the Eucharist with those with whom they are not in full communion. The famed apologist St. Justin Martyr (c. 150) wrote: "No one else is permitted to partake of it, except one who believes our teaching to be true...." For the first several hundred years, non-members were forbidden even to be present at the sacramental ritual; visitors and catechumens (those still undergoing instruction) were dismissed halfway through the Liturgy, after the Bible readings and sermon but before the Eucharistic rite. This ancient custom is still evident in the extraordinary form of the Roman Rite, where the Mass is divided into two parts: the Mass of the Catechumens, and the Mass of the Faithful; and likewise in the ordinary form of the Roman Rite, where the Mass is divided into the Liturgy of the Word and the Liturgy of the Eucharist. The Divine Liturgy of St. John Chrysostom, used in the Byzantine Rite, still has a formula of dismissal of catechumens (not usually followed by any action) at this point. Likewise, the ordinary form of the Roman Rite permits the dismissal of catechumens at the usual opportunity, but makes this wholly optional; it is no longer essential to the rite.
 
@@ -273,7 +273,7 @@ Seventh-day Adventists, Mennonites, and some other groups participate in "foot w
 
 Adoration
 
-Eucharistic_Adoration.jpg, flanked by candles]] Eucharistic adoration is a practice in the Roman Catholic, Anglo-Catholic and some Lutheran traditions, in which the Blessed Sacrament is exposed to and adored by the faithful. When this exposure and adoration is constant (twenty-four hours a day), it is called _Perpetual Adoration_. In a parish, this is usually done by volunteer parishioners; in a monastery or convent, it is done by the resident monks or nuns. In the _Exposition of the Blessed Sacrament_, the Eucharist is displayed in a monstrance, typically placed on an altar, at times with a light focused on it, or with candles flanking it.
+, flanked by candles]] Eucharistic adoration is a practice in the Roman Catholic, Anglo-Catholic and some Lutheran traditions, in which the Blessed Sacrament is exposed to and adored by the faithful. When this exposure and adoration is constant (twenty-four hours a day), it is called _Perpetual Adoration_. In a parish, this is usually done by volunteer parishioners; in a monastery or convent, it is done by the resident monks or nuns. In the _Exposition of the Blessed Sacrament_, the Eucharist is displayed in a monstrance, typically placed on an altar, at times with a light focused on it, or with candles flanking it.
 
 Health issues
 

@@ -1,6 +1,6 @@
 This article is about the demographic features of the population of Angola, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
-Angola_demography.png, Data of FAO, year 2005 ; Number of inhabitants in thousands.]] According to 2014 census data, Angola had a population of 25,789,024 inhabitants in 2014.[1] Ethnically, there are three main groups, each speaking a Bantu language: the Ovimbundu who represent 37% of the population, the Ambundu with 25%, and the Bakongo 13%. Other numerically important groups include the closely interrelated Chokwe and Lunda, the Ganguela and Nyaneka-Khumbi (in both cases classification terms that stand for a variety of small groups), the Ovambo, the Herero, the Xindonga and scattered residual groups of San. In addition, mixed race (European and African) people amount to about 2%, with a small (1%) population of whites, mainly ethnically Portuguese.
+, Data of FAO, year 2005 ; Number of inhabitants in thousands.]] According to 2014 census data, Angola had a population of 25,789,024 inhabitants in 2014.[1] Ethnically, there are three main groups, each speaking a Bantu language: the Ovimbundu who represent 37% of the population, the Ambundu with 25%, and the Bakongo 13%. Other numerically important groups include the closely interrelated Chokwe and Lunda, the Ganguela and Nyaneka-Khumbi (in both cases classification terms that stand for a variety of small groups), the Ovambo, the Herero, the Xindonga and scattered residual groups of San. In addition, mixed race (European and African) people amount to about 2%, with a small (1%) population of whites, mainly ethnically Portuguese.
 
 As a former overseas territory of Portugal until 1975, Angola possesses a Portuguese population of over 200,000, a number that has been growing from 2000 onwards, because of Angola's growing demand for qualified human resources.[2][3][4][5] Besides the Portuguese, significant numbers of people from other European and from diverse Latin American countries (especially Brazil) can be found. From the 2000s, many Chinese have settled and started up small businesses, while at least as many have come as workers for large enterprises (construction or other). Observers claim that the Chinese community in Angola might include as many as 300,000 persons at the end of 2010, but reliable statistics are not at this stage available.[6] In 1974/75, over 25,000 Cuban soldiers arrived in Angola to help the MPLA forces at the beginning of the Angolan Civil War. Once this was over, a massive development cooperation in the field of health and education brought in numerous civil personnel from Cuba. However, only a very small percentage of all these people has remained in Angola, either for personal reasons (intermarriage) or as professionals (e.g., medical doctors).
 
@@ -9,7 +9,7 @@ The largest religious denomination is Catholicism, to which adheres about half t
 
 Population
 
-According to the total population was in , compared to only 4 148 000 in 1950. The proportion of children below the age of 15 in 2010 was 46.6%, 50.9% was between 15 and 65 years of age, while 2.5% was 65 years or older .[7] Angola_Population_Pyramid_2012.png for Angola]]
+According to the total population was in , compared to only 4 148 000 in 1950. The proportion of children below the age of 15 in 2010 was 46.6%, 50.9% was between 15 and 65 years of age, while 2.5% was 65 years or older .[7] for Angola]]
 
          Total population[8]   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
   ------ --------------------- -------------------------- --------------------------- -------------------------
@@ -214,7 +214,7 @@ According to the CIA World Factbook, 2% of adults (aged 15–49) are living with
 
 Ethnic groups
 
-Angola_Ethnic_map_1970.svg Roughly 37% of Angolans are Ovimbundu, 25% are Ambundu, 13% are Bakongo, 2% are mestiço, 1-2% are white Africans, and people from other African ethnicities make up 22% of Angola's population.
+Roughly 37% of Angolans are Ovimbundu, 25% are Ambundu, 13% are Bakongo, 2% are mestiço, 1-2% are white Africans, and people from other African ethnicities make up 22% of Angola's population.
 
 Religions
 

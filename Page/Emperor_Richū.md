@@ -13,8 +13,6 @@ Richū's contemporary title would not have been _tennō_, as most historians bel
 
 Some scholars identify him with King San in the _Book of Song_. King San sent messengers to the Liu Song dynasty at least twice in 421 and 425.[8]
 
-Kamiishizu_Misanzai_Kofun_air.jpg
-
 Richū escaped from Naniwa Place to Isonokami Shrine because of arson.[9] Richū succumbed to disease in his sixth year of reign. His tomb is in Kawachi province, in the middle of present-day Osaka Prefecture. He was succeeded by his younger brother Emperor Hanzei. None of his sons succeeded to the throne, although two grandsons would eventually ascend as Emperor Kenzō and as Emperor Ninken.
 
 The site of Richū's grave is not known.[10] The Emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) in Sakai, Osaka. The Imperial Household Agency designates this location as Richū's mausoleum. It is formally named _Mozu no mimihara no minami no misasagi._[11] It is also identified as the kofun.
@@ -46,7 +44,7 @@ See also
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

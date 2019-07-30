@@ -70,7 +70,7 @@ Brundtland was operated on for uterine cancer in 2002 at Oslo University Hospita
 
 Honours
 
-Gro_Brundtland_no_Fronteiras_do_Pensamento_2014_(15229793418).jpg in 2014]] Brundtland has received many awards and honours, including
+in 2014]] Brundtland has received many awards and honours, including
 
 -   Indira Gandhi Prize (1988)
 -   Charlemagne Prize (1994)

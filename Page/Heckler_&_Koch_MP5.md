@@ -24,7 +24,7 @@ The fixed, free floating, cold hammer-forged barrel has 6 right-hand grooves wit
 
 Features
 
-Visierlinie.jpg The first MP5 models used a double-column straight box magazine, but since 1977, slightly curved, steel magazines are used with a 15-round capacity (weighing 0.12 kg) or a 30-round capacity (0.17 kg empty).
+The first MP5 models used a double-column straight box magazine, but since 1977, slightly curved, steel magazines are used with a 15-round capacity (weighing 0.12 kg) or a 30-round capacity (0.17 kg empty).
 
 The adjustable iron sights (closed type) consist of a rotating rear diopter drum and a front post installed in a hooded ring. The rear sight is mechanically adjustable for both windage and elevation with the use of a special tool, being adjusted at the factory for firing at with standard FMJ 9×19mm NATO ammunition. The rear sight drum provides four apertures of varying diameters used to adjust the diopter system, according to the user's preference and tactical situation. Changing between apertures does not change the point of impact down range. For accurate shooting the user should select the smallest aperture that still allows an equal circle of light between the rear sight aperture and the outside of the front sight hood ring.
 
@@ -34,7 +34,7 @@ The non-reciprocating cocking handle is located above the handguard and protrude
 
 Operating mechanism
 
-US_Patent_3283435_8-Nov-1966_BREECH_CLOSURE_Theodor_Koch.png assault rifle prototypes developed in Nazi Germany at the end of World War II.]] The bolt rigidly engages the barrel extension—a cylindrical component welded to the receiver into which the barrel is pinned. The delay mechanism is of the same design as that used in the G3 rifle. The two-part bolt consists of a bolt head with rollers and a bolt carrier. The heavier bolt carrier lies up against the bolt head when the weapon is ready to fire and inclined planes on the front locking piece lie between the rollers and force them out into recesses in the barrel extension.
+assault rifle prototypes developed in Nazi Germany at the end of World War II.]] The bolt rigidly engages the barrel extension—a cylindrical component welded to the receiver into which the barrel is pinned. The delay mechanism is of the same design as that used in the G3 rifle. The two-part bolt consists of a bolt head with rollers and a bolt carrier. The heavier bolt carrier lies up against the bolt head when the weapon is ready to fire and inclined planes on the front locking piece lie between the rollers and force them out into recesses in the barrel extension.
 
 When fired, expanding propellant gases produced from the burning powder in the cartridge exert rearward pressure on the bolt head transferred through the base of the cartridge case as it is propelled out of the chamber. A portion of this force is transmitted through the rollers projecting from the bolt head, which are cammed inward against the inclined flanks of the locking recesses in the barrel extension and to the angled shoulders of the locking piece. The selected angles of the recesses and the incline on the locking piece produce a velocity ratio of about 4:1 between the bolt carrier and the bolt head. This results in a calculated delay, allowing the projectile to exit the barrel and gas pressure to drop to a safe level before the case is extracted from the chamber.
 
@@ -48,7 +48,7 @@ In the early 1970s, HK introduced a conversion kit for the MP5 that enables it t
 
 Barrel accessories
 
-Patent_DE1553874_07-Oct-1971_Handfeuerwaffe_mit_Schalldaempfer_Heckler_und_Koch.png Threading is provided at the muzzle to work with certain muzzle devices made by Heckler & Koch, including: a slotted flash suppressor, blank firing attachment (marked with a red-painted band denoting use with blank ammunition only), an adapter for launching rifle grenades (for use with rifle-style grenades with an inside diameter of 22 mm using a special grenade launching cartridge) and a cup-type attachment used to launch tear gas grenades. An optional three-lugged barrel is also available for mounting a quick-detachable suppressor.
+Threading is provided at the muzzle to work with certain muzzle devices made by Heckler & Koch, including: a slotted flash suppressor, blank firing attachment (marked with a red-painted band denoting use with blank ammunition only), an adapter for launching rifle grenades (for use with rifle-style grenades with an inside diameter of 22 mm using a special grenade launching cartridge) and a cup-type attachment used to launch tear gas grenades. An optional three-lugged barrel is also available for mounting a quick-detachable suppressor.
 
 Receiver
 
@@ -94,7 +94,7 @@ H&K offers dedicated training variants of these weapons, designated _MP5A4PT_ an
 
 Semi-auto only variants
 
-Police.gun.1.london.arp.jpg and is carrying a semi-auto MP5SFA3.]] The _MP5SFA2_ (SF – single-fire) was developed in 1986 in response to the American FBI solicitation for a "9 mm Single-fire Carbine". It is the same as the MP5A2 but is fitted with an ambidextrous semi-automatic only trigger group. The _MP5SFA3_ is similar except it has a retractable metal stock like the MP5A3. Versions delivered after December 1991 are assembled with select-fire bolt carriers allowing fully automatic operation when used with the appropriate trigger module.
+and is carrying a semi-auto MP5SFA3.]] The _MP5SFA2_ (SF – single-fire) was developed in 1986 in response to the American FBI solicitation for a "9 mm Single-fire Carbine". It is the same as the MP5A2 but is fitted with an ambidextrous semi-automatic only trigger group. The _MP5SFA3_ is similar except it has a retractable metal stock like the MP5A3. Versions delivered after December 1991 are assembled with select-fire bolt carriers allowing fully automatic operation when used with the appropriate trigger module.
 
 The semi-automatic "MP5SF" models are widely used by British police forces including London's Metropolitan Police Service Specialist Firearms Command, Diplomatic Protection Group, Authorised firearms officers, and the Police Service of Northern Ireland to name a few.
 
@@ -123,8 +123,6 @@ In 1992, Heckler & Koch introduced the _MP5/10_ (chambered in 10mm Auto) and _MP
 Problems with the MP5/10 and MP5/40 led to their discontinuation in 2000, although Heckler & Koch continues to provide support and spare parts.
 
 Variants list
-
-Hkmp5k.jpg MP5K_Submachine_Gun_(7414624602).jpg Heckler_Koch_MP5.jpg
 
 -   HK54: The original model that was produced in 1964. The _54_ designation is from the Hecker & Koch company's old system that indicates that it is a submachine gun/assault carbine (5-) chambered for the 9×19mm cartridge (-4). It had a charcoal-gray phosphated finish rather than the matte-black lacquered finish used on later models and had narrow slotted metal handguards. Its major differences were that it had a longer and heavier bolt carrier than the MP5 and a flip up "ladder"-style rear sight (like the early G3 rifle) rather than the MP5's aperture sight. Its original 15- or 30-round steel magazines were straight rather than curved, had a plastic follower, and were reinforced with ribs (thus their nickname of "waffle"-type magazines).
 -   MP5: A slightly modified version of the HK54 first created in 1966. A matte-black lacquered finish instead of the grayish phosphated finish was introduced for export models in 1977. It originally had the narrow checkered metal "Slimline" handguards in the place of the HK54's narrow slotted metal ones. These were later replaced by the thicker "Tropical" handguards in 1978. The proprietary Heckler & Koch "claw mount" rails for mounting optical and electronic scopes were added around 1973. The improved 15- and 30-round magazines were adopted in 1977; they were curved, had unribbed sides, and had chromed-steel followers.

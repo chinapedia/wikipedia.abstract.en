@@ -25,7 +25,7 @@ The following is a typical modern method of preparing gazpacho:
 5.  The remaining contents of the container are added to the liquid, then briefly blended, but not to purée, leaving some texture. (optional)
 6.  Garnishes may be made with fresh bell pepper slices, diced tomatoes and cucumber, or other fresh ingredients.
 
-Traditionally, gazpacho was made by pounding the vegetables in a mortar with a pestle; this more laborious method is still sometimes used as it helps keep the gazpacho cool and avoids the foam and the completely smooth consistency created by blenders and food processors.[6] A traditional way of preparation is to pound garlic cloves in a mortar, add a little soaked stale bread, then olive oil and salt, to make a paste. Then very ripe tomatoes and vinegar are added. In the days before refrigeration the gazpacho was left in an unglazed earthenware pot to cool by evaporation, and some water added.[7] Dicey_gazpacho.jpg Gazpacho may be served with garnishes, served separately, such as hard boiled eggs and chopped ham (in the salmorejo variety from Córdoba), chopped almonds, cumin crushed with mint, orange segments, finely chopped green pepper, onion, tomato or cucumber.[8] In Extremadura, gazpacho with local ham, added to the gazpacho rather than as a garnish, is called _gazpacho extremeño_. Andalusian sources say that gazpacho should be slightly chilled, but not iced.[9]
+Traditionally, gazpacho was made by pounding the vegetables in a mortar with a pestle; this more laborious method is still sometimes used as it helps keep the gazpacho cool and avoids the foam and the completely smooth consistency created by blenders and food processors.[6] A traditional way of preparation is to pound garlic cloves in a mortar, add a little soaked stale bread, then olive oil and salt, to make a paste. Then very ripe tomatoes and vinegar are added. In the days before refrigeration the gazpacho was left in an unglazed earthenware pot to cool by evaporation, and some water added.[7] Gazpacho may be served with garnishes, served separately, such as hard boiled eggs and chopped ham (in the salmorejo variety from Córdoba), chopped almonds, cumin crushed with mint, orange segments, finely chopped green pepper, onion, tomato or cucumber.[8] In Extremadura, gazpacho with local ham, added to the gazpacho rather than as a garnish, is called _gazpacho extremeño_. Andalusian sources say that gazpacho should be slightly chilled, but not iced.[9]
 
 
 Variations
@@ -46,7 +46,7 @@ A popular variation comes from the town of Rota in the province of Cadiz. During
 
 Extremaduran variations
 
-Gazpacho_extremeño.jpg In Extremadura, gazpachos are a kind of purée or thick gazpacho known as _cojondongo_, or _cojondongo del gañán_,[10] made of breadcrumbs, garlic, oil, and vinegar, then topped with chopped onions, tomato and peppers.[11]
+In Extremadura, gazpachos are a kind of purée or thick gazpacho known as _cojondongo_, or _cojondongo del gañán_,[10] made of breadcrumbs, garlic, oil, and vinegar, then topped with chopped onions, tomato and peppers.[11]
 
 La Mancha variations
 

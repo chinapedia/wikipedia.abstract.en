@@ -1,4 +1,4 @@
-PhageExterior.svg bacteriophage]] 11_Hegasy_Phage_T4_Wiki_E_CCBYSA.png
+bacteriophage]]
 
 A BACTERIOPHAGE (), also known informally as a _PHAGE_ (), is a virus that infects and replicates within bacteria and archaea. The term was derived from "bacteria" and the Greek φαγεῖν (__), "to devour". Bacteriophages are composed of proteins that encapsulate a DNA or RNA genome, and may have structures that are either simple or elaborate. Their genomes may encode as few as four genes and as many as hundreds of genes. Phages replicate within the bacterium following the injection of their genome into its cytoplasm.
 
@@ -13,7 +13,7 @@ Bacteriophages occur abundantly in the biosphere, with different genomes, and li
 
 Nineteen families are currently recognized by the ICTV that infect bacteria and archaea. Of these, only two families have RNA genomes, and only five families are surrounded by an envelope. Of the viral families with DNA genomes, only two have single-stranded genomes. Eight of the viral families with DNA genomes have circular genomes, while nine have linear genomes. Nine families infect bacteria only, nine infect archaea only, and one (_Tectiviridae_) infects both bacteria and archaea.
 
-Bacteriophage_P22_Casjens_Lenk.png'' by morphology due to its short, non-contractile tail]]
+'' by morphology due to its short, non-contractile tail]]
 
   Order                  Family                                      Morphology                                        Nucleic acid                               Examples
   ---------------------- ------------------------------------------- ------------------------------------------------- ------------------------------------------ -------------------------------
@@ -58,7 +58,7 @@ In 1896, Ernest Hanbury Hankin reported that something in the waters of the Gang
 
 Twort's research was interrupted by the onset of World War I and a shortage of funding.
 
-Félix_d'Hérelle.jpg]] Independently, French-Canadian microbiologist Félix d'Hérelle, working at the Pasteur Institute in Paris, announced on 3 September 1917, that he had discovered "an invisible, antagonistic microbe of the dysentery bacillus". For d’Hérelle, there was no question as to the nature of his discovery: "In a flash I had understood: what caused my clear spots was in fact an invisible microbe … a virus parasitic on bacteria."[12] D'Hérelle called the virus a bacteriophage, a bacteria-eater (from the Greek __ meaning "to devour"). He also recorded a dramatic account of a man suffering from dysentery who was restored to good health by the bacteriophages.[13] It was D'Herelle who conducted much research into bacteriophages and introduced the concept of phage therapy.[14]
+]] Independently, French-Canadian microbiologist Félix d'Hérelle, working at the Pasteur Institute in Paris, announced on 3 September 1917, that he had discovered "an invisible, antagonistic microbe of the dysentery bacillus". For d’Hérelle, there was no question as to the nature of his discovery: "In a flash I had understood: what caused my clear spots was in fact an invisible microbe … a virus parasitic on bacteria."[12] D'Hérelle called the virus a bacteriophage, a bacteria-eater (from the Greek __ meaning "to devour"). He also recorded a dramatic account of a man suffering from dysentery who was restored to good health by the bacteriophages.[13] It was D'Herelle who conducted much research into bacteriophages and introduced the concept of phage therapy.[14]
 
 More than a half a century later, in 1969, Max Delbrück, Alfred Hershey, and Salvador Luria were awarded the Nobel Prize in Physiology or Medicine for their discoveries of the replication of viruses and their genetic structure.[15]
 
@@ -102,7 +102,7 @@ BASIC RESEARCH - Bacteriophages are important model organisms for studying princ
 
 Replication
 
-Phage_injection.png Bacteriophages may have a lytic cycle or a lysogenic cycle, and a few viruses are capable of carrying out both. With _lytic phages_ such as the T4 phage, bacterial cells are broken open (lysed) and destroyed after immediate replication of the virion. As soon as the cell is destroyed, the phage progeny can find new hosts to infect. Lytic phages are more suitable for phage therapy. Some lytic phages undergo a phenomenon known as lysis inhibition, where completed phage progeny will not immediately lyse out of the cell if extracellular phage concentrations are high. This mechanism is not identical to that of temperate phage going dormant and usually, is temporary.
+Bacteriophages may have a lytic cycle or a lysogenic cycle, and a few viruses are capable of carrying out both. With _lytic phages_ such as the T4 phage, bacterial cells are broken open (lysed) and destroyed after immediate replication of the virion. As soon as the cell is destroyed, the phage progeny can find new hosts to infect. Lytic phages are more suitable for phage therapy. Some lytic phages undergo a phenomenon known as lysis inhibition, where completed phage progeny will not immediately lyse out of the cell if extracellular phage concentrations are high. This mechanism is not identical to that of temperate phage going dormant and usually, is temporary.
 
 In contrast, the _lysogenic cycle_ does not result in immediate lysing of the host cell. Those phages able to undergo lysogeny are known as temperate phages. Their viral genome will integrate with host DNA and replicate along with it, relatively harmlessly, or may even become established as a plasmid. The virus remains dormant until host conditions deteriorate, perhaps due to depletion of nutrients, then, the endogenous phages (known as prophages) become active. At this point they initiate the reproductive cycle, resulting in lysis of the host cell. As the lysogenic cycle allows the host cell to continue to survive and reproduce, the virus is replicated in all offspring of the cell. An example of a bacteriophage known to follow the lysogenic cycle and the lytic cycle is the phage lambda of _E. coli._[42]
 
@@ -110,7 +110,7 @@ Sometimes prophages may provide benefits to the host bacterium while they are do
 
 Attachment and penetration
 
-Phage.jpg of bacteriophages attached to a bacterial cell, the viruses are the size and shape of coliphage T1 ]] To enter a host cell, bacteriophages attach to specific receptors on the surface of bacteria, including lipopolysaccharides, teichoic acids, proteins, or even flagella. This specificity means a bacteriophage can infect only certain bacteria bearing receptors to which they can bind, which in turn, determines the phage's host range. Host growth conditions also influence the ability of the phage to attach and invade them.[46] As phage virions do not move independently, they must rely on random encounters with the correct receptors when in solution, such as blood, lymphatic circulation, irrigation, soil water, etc.
+of bacteriophages attached to a bacterial cell, the viruses are the size and shape of coliphage T1 ]] To enter a host cell, bacteriophages attach to specific receptors on the surface of bacteria, including lipopolysaccharides, teichoic acids, proteins, or even flagella. This specificity means a bacteriophage can infect only certain bacteria bearing receptors to which they can bind, which in turn, determines the phage's host range. Host growth conditions also influence the ability of the phage to attach and invade them.[46] As phage virions do not move independently, they must rely on random encounters with the correct receptors when in solution, such as blood, lymphatic circulation, irrigation, soil water, etc.
 
 Myovirus bacteriophages use a hypodermic syringe-like motion to inject their genetic material into the cell. After making contact with the appropriate receptor, the tail fibers flex to bring the base plate closer to the surface of the cell. This is known as reversible binding. Once attached completely, irreversible binding is initiated and the tail contracts, possibly with the help of ATP, present in the tail,[47] injecting genetic material through the bacterial membrane. The injection is acomplished through a sort of bending motion in the shaft by going to the side, contracting closer to the cell and pushing back up. Podoviruses lack an elongated tail sheath similar to that of a myovirus, so instead, they use their small, tooth-like tail fibers enzymatically to degrade a portion of the cell membrane before inserting their genetic material.
 
@@ -120,7 +120,7 @@ Within minutes, bacterial ribosomes start translating viral mRNA into protein. F
 
 Virion assembly
 
-In the case of the T4 phage, the construction of new virus particles involves the assistance of helper proteins. The base plates are assembled first, with the tails being built upon them afterward. The head capsids, constructed separately, will spontaneously assemble with the tails. The DNA is packed efficiently within the heads. The whole process takes about 15 minutes. Tevenphage.svg
+In the case of the T4 phage, the construction of new virus particles involves the assistance of helper proteins. The base plates are assembled first, with the tails being built upon them afterward. The head capsids, constructed separately, will spontaneously assemble with the tails. The DNA is packed efficiently within the heads. The whole process takes about 15 minutes.
 
 Release of virions
 

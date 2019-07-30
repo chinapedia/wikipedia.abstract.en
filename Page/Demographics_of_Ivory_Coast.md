@@ -3,7 +3,7 @@ This article is about the demographic features of the population of Ivory Coast,
 
 Population
 
-Cote_d_Ivoire_demography.png, year 2005 ; Number of inhabitants in thousands.]] According to the total population was in , compared to only 2 630 000 in 1950. The proportion of children below the age of 15 in 2010 was 40.9%, 55.3% was between 15 and 65 years of age, while 3.8% was 65 years or older .[1]
+, year 2005 ; Number of inhabitants in thousands.]] According to the total population was in , compared to only 2 630 000 in 1950. The proportion of children below the age of 15 in 2010 was 40.9%, 55.3% was between 15 and 65 years of age, while 3.8% was 65 years or older .[1]
 
          Total population   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
   ------ ------------------ -------------------------- --------------------------- -------------------------
@@ -138,8 +138,6 @@ Life expectancy
 
 Ethnic groups
 
-Coted'Ivoire_Ethnie.png
-
 Ivory Coast has more than 60 ethnic groups, usually classified into five principal divisions: Akan (east and center, including Lagoon peoples of the southeast), Krou (southwest), Southern Mandé (west), Northern Mandé (northwest), Sénoufo/Lobi (north center and northeast). The Baoulés, in the Akan division, probably comprise the largest single subgroup with 15%-20% of the population. They are based in the central region around Bouaké and Yamoussoukro. The Bétés in the Krou division, the Sénoufos in the north, and the Malinkés in the northwest and the cities are the next largest groups, with 10%-15% of the national population. Most of the principal divisions have a significant presence in neighboring countries.
 
 Of the more than 5 million non-Ivorian Africans living in Ivory Coast, one-third to one-half are from Burkina Faso; the rest are from Ghana, Guinea, Mali, Nigeria, Benin, Senegal, Liberia, and Mauritania. The non-African expatriate community includes roughly 50,000 French (this number may be inaccurate due to the evacuation of roughly 8,000 Frenchmen in November 2004) and possibly 40,000 Lebanese. The number of elementary school-aged children attending classes increased from 22% in 1960 to 67% in 1995.
@@ -195,8 +193,6 @@ Population
     21,058,798 (2010 est.)
 
 Age structure
-
-Population_pyramid_of_Côte_d'Ivoire_2016.png
 
     _0-14 years:_ 39.59% (male 5,213,630 /female 5,182,872)
     _15-24 years:_ 19.91% (male 2,613,772 /female 2,615,680)

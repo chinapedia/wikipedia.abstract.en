@@ -16,7 +16,7 @@ In February 1704, following a stormy passage around Cape Horn, the privateers fo
 
 Castaway
 
-Rob-cru.png, where Selkirk lived as a castaway]] In September 1704, after parting ways with Dampier, Captain Stradling brought _Cinque Ports_ to an island known to the Spanish as Más a Tierra located in the uninhabited Juan Fernández archipelago off the coast of Chile for a mid-expedition restocking of fresh water and supplies.
+, where Selkirk lived as a castaway]] In September 1704, after parting ways with Dampier, Captain Stradling brought _Cinque Ports_ to an island known to the Spanish as Más a Tierra located in the uninhabited Juan Fernández archipelago off the coast of Chile for a mid-expedition restocking of fresh water and supplies.
 
 Selkirk had grave concerns about the seaworthiness of their vessel, and wanted to make the necessary repairs before going any farther. He declared that he would rather stay on Juan Fernández than continue in a dangerously leaky ship. Stradling took him up on the offer and landed Selkirk on the island with a musket, a hatchet, a knife, a cooking pot, a Bible, bedding and some clothes. Selkirk immediately regretted his rashness, but Stradling refused to let him back on board.
 
@@ -26,7 +26,7 @@ Life on the island
 
 At first, Selkirk remained along the shoreline of Juan Fernández. During this time he ate spiny lobsters and scanned the ocean daily for rescue, suffering all the while from loneliness, misery and remorse. Hordes of raucous sea lions, gathered on the beach for the mating season, eventually drove him to the island's interior. Once inland, his way of life took a turn for the better. More foods were available there: feral goats—introduced by earlier sailors—provided him with meat and milk, while wild turnips, cabbage leaves and dried pepper berries offered him variety and spice. Rats would attack him at night, but he was able to sleep soundly and in safety by domesticating and living near feral cats.
 
-Selkirk_reading_his_Bible.png Selkirk proved resourceful in using materials that he found on the island: he forged a new knife out of barrel hoops left on the beach, he built two huts out of pepper trees, one of which he used for cooking and the other for sleeping, and he employed his musket to hunt goats and his knife to clean their carcasses. As his gunpowder dwindled, he had to chase prey on foot. During one such chase he was badly injured when he tumbled from a cliff, lying helpless and unable to move for about a day. His prey had cushioned his fall, probably sparing him a broken back.
+Selkirk proved resourceful in using materials that he found on the island: he forged a new knife out of barrel hoops left on the beach, he built two huts out of pepper trees, one of which he used for cooking and the other for sleeping, and he employed his musket to hunt goats and his knife to clean their carcasses. As his gunpowder dwindled, he had to chase prey on foot. During one such chase he was badly injured when he tumbled from a cliff, lying helpless and unable to move for about a day. His prey had cushioned his fall, probably sparing him a broken back.
 
 Childhood lessons learned from his father, a tanner, now served him well. For example, when his clothes wore out, he made new ones from hair-covered goatskins using a nail for sewing. As his shoes became unusable, he had no need to replace them, since his toughened, calloused feet made protection unnecessary. He sang psalms and read from the Bible, finding it a comfort in his situation and a prop for his English.
 
@@ -34,7 +34,7 @@ During his sojourn on the island, two vessels came to anchor. Unfortunately for 
 
 Rescue
 
-Serkirk_being_taken_aboard_the_Duke.jpg Selkirk's long-awaited deliverance came on 2 February 1709 by way of _Duke_, a privateering ship piloted by William Dampier, and its sailing companion _Duchess_. Thomas Dover led the landing party that met Selkirk. After four years and four months without human company, Selkirk was almost incoherent with joy. The _Duke_{{'s}} captain and leader of the expedition was Woodes Rogers, who mischievously referred to Selkirk as the governor of the island. The agile castaway caught two or three goats a day and helped restore the health of Rogers' men, who were suffering from scurvy.
+Selkirk's long-awaited deliverance came on 2 February 1709 by way of _Duke_, a privateering ship piloted by William Dampier, and its sailing companion _Duchess_. Thomas Dover led the landing party that met Selkirk. After four years and four months without human company, Selkirk was almost incoherent with joy. The _Duke_{{'s}} captain and leader of the expedition was Woodes Rogers, who mischievously referred to Selkirk as the governor of the island. The agile castaway caught two or three goats a day and helped restore the health of Rogers' men, who were suffering from scurvy.
 
 Captain Rogers was impressed by Selkirk's physical vigour, but also by the peace of mind that he had attained while living on the island, observing: "One may see that solitude and retirement from the world is not such an insufferable state of life as most men imagine, especially when people are fairly called or thrown into it unavoidably, as this man was." He made Selkirk _Duke_{{'}}s second mate, later giving him command of one of their prize ships, _Increase_, before it was ransomed by the Spanish.
 
@@ -43,7 +43,7 @@ Selkirk returned to privateering with a vengeance. At Guayaquil in present-day E
 
 Later life and influence
 
-Robinson_svensk1732.jpg in goatskin clothing shows the influence of Selkirk]] Selkirk's experience as a castaway aroused a great deal of attention in England. Fellow crewmember Edward Cooke mentioned Selkirk's ordeal in a book chronicling their privateering expedition, _A Voyage to the South Sea and Round the World_ (1712). A more detailed recounting was published by the expedition's leader, Rogers, within months. The following year, prominent essayist Richard Steele wrote an article about him for _The Englishman_ newspaper. Selkirk appeared set to enjoy a life of ease and celebrity, claiming his share of _Duke_'s plundered wealth—about £800 (equivalent to £ today).[2] However, legal disputes made the amount of any payment uncertain.
+in goatskin clothing shows the influence of Selkirk]] Selkirk's experience as a castaway aroused a great deal of attention in England. Fellow crewmember Edward Cooke mentioned Selkirk's ordeal in a book chronicling their privateering expedition, _A Voyage to the South Sea and Round the World_ (1712). A more detailed recounting was published by the expedition's leader, Rogers, within months. The following year, prominent essayist Richard Steele wrote an article about him for _The Englishman_ newspaper. Selkirk appeared set to enjoy a life of ease and celebrity, claiming his share of _Duke_'s plundered wealth—about £800 (equivalent to £ today).[2] However, legal disputes made the amount of any payment uncertain.
 
 After a few months in London, he began to seem more like his former self again. In September 1713 he was charged with assaulting a shipwright in Bristol and may have been kept in confinement for two years. He returned to Lower Largo, where he met Sophia Bruce, a young dairymaid. They eloped to London early in 1717 but apparently did not marry. He was soon off to sea again, having enlisted in the Royal Navy. While on a visit to Plymouth in 1720, he married a widowed innkeeper named Frances Candis. He was serving as master's mate on board , engaged in an anti-piracy patrol off the west coast of Africa, when he died on 13 December 1721, succumbing to the yellow fever that plagued the voyage. He was buried at sea.
 
@@ -51,8 +51,6 @@ When Daniel Defoe published _The Life and Surprising Adventures of Robinson Crus
 
 
 In other literary works
-
-Alexander_Selkirk_Title_Page.jpg
 
 -   William Cowper's "The Solitude Of Alexander Selkirk" is about Selkirk's feelings as the castaway lived all alone on the island. This poem gave rise to the common phrase "monarch of all I survey" via the verse:
 
@@ -96,7 +94,7 @@ _Selkirk, the Real Robinson Crusoe_ is a stop motion film by Walter Tournier bas
 
 Commemoration
 
-Alexander_Selkirk_Plaque.jpg, Scotland, which reads: ]] Selkirk has been memorialised in his Scottish birthplace. Lord Aberdeen delivered a speech on 11 December 1885, after which his wife, Lady Aberdeen, unveiled a bronze statue and plaque in memory of Selkirk outside a house on the site of his original home on the Main Street of Lower Largo. David Gillies of Cardy House, Lower Largo, a descendant of the Selkirks, donated the statue created by Thomas Stuart Burnett.[6]
+, Scotland, which reads: ]] Selkirk has been memorialised in his Scottish birthplace. Lord Aberdeen delivered a speech on 11 December 1885, after which his wife, Lady Aberdeen, unveiled a bronze statue and plaque in memory of Selkirk outside a house on the site of his original home on the Main Street of Lower Largo. David Gillies of Cardy House, Lower Largo, a descendant of the Selkirks, donated the statue created by Thomas Stuart Burnett.[6]
 
 The Scotsman is also remembered in his former island home. In 1869 the crew of placed a bronze tablet at a spot called Selkirk's Lookout on a mountain of Más a Tierra, Juan Fernández Islands, to mark his stay. On 1 January 1966 Chilean president Eduardo Frei Montalva renamed Más a Tierra Robinson Crusoe Island after Defoe's fictional character to attract tourists. The largest of the Juan Fernández Islands, known as Más Afuera, became Alejandro Selkirk Island, although Selkirk probably never saw that island since it is located to the west.
 

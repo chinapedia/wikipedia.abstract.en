@@ -1,4 +1,4 @@
-Each_arrow_overshot_his_head_by_Elmer_Boyd_Smith.jpg BALDR (also BALDER, BALDUR) is a god in Norse mythology, and a son of the god Odin and the goddess Frigg. He has numerous brothers, such as Thor and Váli.
+BALDR (also BALDER, BALDUR) is a god in Norse mythology, and a son of the god Odin and the goddess Frigg. He has numerous brothers, such as Thor and Váli.
 
 During the 12th century, Danish accounts by Saxo Grammaticus and other Danish Latin chroniclers recorded a euhemerized account of his story. Compiled in Iceland during the 13th century, but based on much older Old Norse poetry, the _Poetic Edda_ and the _Prose Edda_ contain numerous references to the death of Baldr as both a great tragedy to the Æsir and a harbinger of Ragnarök.
 
@@ -24,13 +24,13 @@ One of the two Merseburg Incantations names _Baldere_, but also mentions a figur
 
 _Poetic Edda_
 
-Mímer_and_Balder_Consulting_the_Norns_(1821-1822)_by_H._E._Freund.jpg.]]
+.]]
 
 In the Poetic Edda the tale of Baldr's death is referred to rather than recounted at length. Among the visions which the Völva sees and describes in the prophecy known as the _Völuspá_ is one of the fatal mistletoe, the birth of Váli and the weeping of Frigg (stanzas 31–33). Yet looking far into the future the Völva sees a brighter vision of a new world, when both Höðr and Baldr will come back (stanza 62). The Eddic poem _Baldr's Dreams_ mentions that Baldr has bad dreams which the gods then discuss. Odin rides to Hel and awakens a seeress, who tells him Höðr will kill Baldr but Vali will avenge him (stanzas 9, 11).
 
 _Prose Edda_
 
-SÁM_66,_75v,_death_of_Baldr.jpgic manuscript.]]
+ic manuscript.]]
 
 In _Gylfaginning_, Baldur is described as follows:
 
@@ -42,7 +42,7 @@ Apart from this description, Baldr is known primarily for the story of his death
 
 He had a dream of his own death and his mother had the same dreams. Since dreams were usually prophetic, this depressed him, so his mother Frigg made every object on earth vow never to hurt Baldr. All objects made this vow except mistletoe[7]—a detail which has traditionally been explained with the idea that it was too unimportant and nonthreatening to bother asking it to make the vow, but which Merrill Kaplan has instead argued echoes the fact that young people were not eligible to swear legal oaths, which could make them a threat later in life.[8]
 
-Odin's_last_words_to_Baldr.jpg.]] When Loki, the mischief-maker, heard of this, he made a magical spear from this plant (in some later versions, an arrow). He hurried to the place where the gods were indulging in their new pastime of hurling objects at Baldr, which would bounce off without harming him. Loki gave the spear to Baldr's brother, the blind god Höðr, who then inadvertently killed his brother with it (other versions suggest that Loki guided the arrow himself). For this act, Odin and the giantess Rindr gave birth to Váli who grew to adulthood within a day and slew Höðr.[9]
+.]] When Loki, the mischief-maker, heard of this, he made a magical spear from this plant (in some later versions, an arrow). He hurried to the place where the gods were indulging in their new pastime of hurling objects at Baldr, which would bounce off without harming him. Loki gave the spear to Baldr's brother, the blind god Höðr, who then inadvertently killed his brother with it (other versions suggest that Loki guided the arrow himself). For this act, Odin and the giantess Rindr gave birth to Váli who grew to adulthood within a day and slew Höðr.[9]
 
 Baldr was ceremonially burnt upon his ship, Hringhorni, the largest of all ships. As he was carried to the ship, Odin whispered in his ear. This was to be a key riddle asked by Odin (in disguise) of the giant Vafthrudnir (and which was unanswerable) in the poem _Vafthrudnismal_. The riddle also appears in the riddles of Gestumblindi in _Hervarar saga_.[10]
 
@@ -52,7 +52,7 @@ Upon Frigg's entreaties, delivered through the messenger Hermod, Hel promised to
 
 _Gesta Danorum_
 
-Baldur_by_Johannes_Gehrts.jpg.]]
+.]]
 
 Writing during the end of the 12th century, the Danish historian Saxo Grammaticus tells the story of Baldr (recorded as _Balderus_) in a form that professes to be historical. According to him, Balderus and Høtherus were rival suitors for the hand of Nanna, daughter of Gewar, King of Norway. Balderus was a demigod and common steel could not wound his sacred body. The two rivals encountered each other in a terrific battle. Though Odin and Thor and the other gods fought for Balderus, he was defeated and fled away, and Høtherus married the princess.
 
@@ -77,7 +77,7 @@ Eponyms
 
 Plants
 
-Tripleurospermum_perforatum.JPG (Matricaria perforata'')]] As referenced in _Gylfaginning_, in Sweden and Norway, the scentless mayweed (_Matricaria perforata_) and the similar sea mayweed (_Matricaria maritima_) are both called _baldursbrá_ "Balder's brow" and regionally in northern England (_baldeyebrow_).[17] In Iceland only the former is found.[18] In Germany lily-of-the-valley is known as _weisser Baldrian_; variations using or influenced by reflexes of _Phol_ include _Faltrian_ (upper Austria), Villum_fallum_ (Salzburg), and _Fildron_ or _Faldron_ (Tyrol).
+(Matricaria perforata'')]] As referenced in _Gylfaginning_, in Sweden and Norway, the scentless mayweed (_Matricaria perforata_) and the similar sea mayweed (_Matricaria maritima_) are both called _baldursbrá_ "Balder's brow" and regionally in northern England (_baldeyebrow_).[17] In Iceland only the former is found.[18] In Germany lily-of-the-valley is known as _weisser Baldrian_; variations using or influenced by reflexes of _Phol_ include _Faltrian_ (upper Austria), Villum_fallum_ (Salzburg), and _Fildron_ or _Faldron_ (Tyrol).
 
 Toponyms
 

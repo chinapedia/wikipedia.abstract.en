@@ -13,13 +13,13 @@ Biography
 
 Early life
 
-18-year_old_Francis_Bacon.jpg for "If one could but paint his mind". National Portrait Gallery, London]] Francis Bacon was born on 22 January 1561 at York House near the Strand in London, the son of Sir Nicholas Bacon (Lord Keeper of the Great Seal) by his second wife, Anne (Cooke) Bacon, the daughter of the noted humanist Anthony Cooke. His mother's sister was married to William Cecil, 1st Baron Burghley, making Burghley Bacon's uncle.[5]
+for "If one could but paint his mind". National Portrait Gallery, London]] Francis Bacon was born on 22 January 1561 at York House near the Strand in London, the son of Sir Nicholas Bacon (Lord Keeper of the Great Seal) by his second wife, Anne (Cooke) Bacon, the daughter of the noted humanist Anthony Cooke. His mother's sister was married to William Cecil, 1st Baron Burghley, making Burghley Bacon's uncle.[5]
 
 Biographers believe that Bacon was educated at home in his early years owing to poor health, which would plague him throughout his life. He received tuition from John Walsall, a graduate of Oxford with a strong leaning toward Puritanism. He went up to Trinity College at the University of Cambridge on 5 April 1573 at the age of 12,[6] living for three years there, together with his older brother Anthony Bacon under the personal tutelage of Dr John Whitgift, future Archbishop of Canterbury. Bacon's education was conducted largely in Latin and followed the medieval curriculum. He was also educated at the University of Poitiers. It was also at Cambridge that Bacon first met Queen Elizabeth, who was impressed by his precocious intellect, and was accustomed to calling him "The young lord keeper".[7]
 
 His studies brought him to the belief that the methods and results of science as then practised were erroneous. His reverence for Aristotle conflicted with his rejection of Aristotelian philosophy, which seemed to him barren, disputatious and wrong in its objectives.
 
-york_Water_Gate.jpg York Water Gate – the entry to York House, built about 1626, the year of Bacon's death]]
+York Water Gate – the entry to York House, built about 1626, the year of Bacon's death]]
 
 On 27 June 1576, he and Anthony entered _de societate magistrorum_ at Gray's Inn. A few months later, Francis went abroad with Sir Amias Paulet, the English ambassador at Paris, while Anthony continued his studies at home. The state of government and society in France under Henry III afforded him valuable political instruction. For the next three years he visited Blois, Poitiers, Tours, Italy, and Spain.[8] During his travels, Bacon studied language, statecraft, and civil law while performing routine diplomatic tasks. On at least one occasion he delivered diplomatic letters to England for Walsingham, Burghley, and Leicester, as well as for the queen.[9]
 
@@ -27,7 +27,7 @@ The sudden death of his father in February 1579 prompted Bacon to return to Engl
 
 Parliamentarian
 
-Francis_Bacon_statue,_Gray's_Inn.jpg, South Square, London]]
+, South Square, London]]
 
 Bacon stated that he had three goals: to uncover truth, to serve his country, and to serve his church. He sought to further these ends by seeking a prestigious post. In 1580, through his uncle, Lord Burghley, he applied for a post at court that might enable him to pursue a life of learning, but his application failed. For two years he worked quietly at Gray's Inn, until he was admitted as an outer barrister in 1582.[11]
 
@@ -47,7 +47,7 @@ In 1592 he was commissioned to write a tract in response to the Jesuit Robert Pa
 
 Bacon took his third parliamentary seat for Middlesex when in February 1593 Elizabeth summoned Parliament to investigate a Roman Catholic plot against her. Bacon's opposition to a bill that would levy triple subsidies in half the usual time offended the Queen: opponents accused him of seeking popularity, and for a time the Court excluded him from favour.[18]
 
-StatueOfFrancisBacon.jpg]]
+]]
 
 When the office of Attorney General fell vacant in 1594, Lord Essex's influence was not enough to secure the position for Bacon and it was given to Sir Edward Coke. Likewise, Bacon failed to secure the lesser office of Solicitor General in 1595, the Queen pointedly snubbing him by appointing Sir Thomas Fleming instead. To console him for these disappointments, Essex presented him with a property at Twickenham, which Bacon subsequently sold for £1,800.[19]
 
@@ -63,8 +63,6 @@ The succession of James I brought Bacon into greater favour. He was knighted in 
 
 The following year, during the course of the uneventful first parliament session, Bacon married Alice Barnham. In June 1607 he was at last rewarded with the office of solicitor general. The following year, he began working as the Clerkship of the Star Chamber. Despite a generous income, old debts still could not be paid. He sought further promotion and wealth by supporting King James and his arbitrary policies.
 
-Francis_Bacon,_Viscount_St_Alban_from_NPG_(2).jpg
-
 In 1610 the fourth session of James's first parliament met. Despite Bacon's advice to him, James and the Commons found themselves at odds over royal prerogatives and the king's embarrassing extravagance. The House was finally dissolved in February 1611. Throughout this period Bacon managed to stay in the favour of the king while retaining the confidence of the Commons.
 
 In 1613 Bacon was finally appointed attorney general, after advising the king to shuffle judicial appointments. As attorney general, Bacon, by his zealous efforts—which included torture—to obtain the conviction of Edmund Peacham for treason, raised legal controversies of high constitutional importance;[29] and successfully prosecuted Robert Carr, 1st Earl of Somerset, and his wife, Frances Howard, Countess of Somerset, for murder in 1616. The so-called Prince's Parliament of April 1614 objected to Bacon's presence in the seat for Cambridge and to the various royal plans that Bacon had supported. Although he was allowed to stay, parliament passed a law that forbade the attorney general to sit in parliament. His influence over the king had evidently inspired resentment or apprehension in many of his peers. Bacon, however, continued to receive the King's favour, which led to his appointment in March 1617 as temporary Regent of England (for a period of a month), and in 1618 as Lord Chancellor. On 12 July 1618 the king created Bacon BARON VERULAM, of Verulam, in the Peerage of England; he then became known as Francis, Lord Verulam.
@@ -72,8 +70,6 @@ In 1613 Bacon was finally appointed attorney general, after advising the king to
 Bacon continued to use his influence with the king to mediate between the throne and Parliament, and in this capacity he was further elevated in the same peerage, as VISCOUNT ST ALBAN, on 27 January 1621.
 
 Lord Chancellor and public disgrace
-
-Bacon_vs_Parliament.jpg
 
 Bacon's public career ended in disgrace in 1621. After he fell into debt, a parliamentary committee on the administration of the law charged him with 23 separate counts of corruption. His lifelong enemy, Sir Edward Coke, who had instigated these accusations,[30] was one of those appointed to prepare the charges against the chancellor.[31] To the lords, who sent a committee to enquire whether a confession was really his, he replied, "My lords, it is my act, my hand, and my heart; I beseech your lordships to be merciful to a broken reed." He was sentenced to a fine of £40,000 and committed to the Tower of London at the king's pleasure; the imprisonment lasted only a few days and the fine was remitted by the king.[32] More seriously, parliament declared Bacon incapable of holding future office or sitting in parliament. He narrowly escaped undergoing degradation, which would have stripped him of his titles of nobility. Subsequently, the disgraced viscount devoted himself to study and writing.
 
@@ -99,7 +95,7 @@ When he was 36, Bacon courted Elizabeth Hatton, a young widow of 20. Reportedly,
 
 At the age of 45, Bacon married Alice Barnham, the 14-year-old daughter of a well-connected London alderman and MP. Bacon wrote two sonnets proclaiming his love for Alice. The first was written during his courtship and the second on his wedding day, 10 May 1606. When Bacon was appointed lord chancellor, "by special Warrant of the King", Lady Bacon was given precedence over all other Court ladies. Bacon's personal secretary and chaplain, William Rawley, wrote in his biography of Bacon that his marriage was one of "much conjugal love and respect", mentioning a robe of honour that he gave to Alice and which "she wore unto her dying day, being twenty years and more after his death".[39]
 
-Alice_Barnham.gif]]
+]]
 
 However, an increasing number of reports circulated about friction in the marriage, with speculation that this may have been due to Alice's making do with less money than she had once been accustomed to. It was said that she was strongly interested in fame and fortune, and when household finances dwindled, she complained bitterly. Bunten wrote in her _Life of Alice Barnham_[40] that, upon their descent into debt, she went on trips to ask for financial favours and assistance from their circle of friends. Bacon disinherited her upon discovering her secret romantic relationship with Sir John Underhill. He subsequently rewrote his will, which had previously been very generousleaving her lands, goods, and incomeand instead revoked it all.
 
@@ -117,7 +113,7 @@ This conclusion has been disputed by others, who point to lack of consistent evi
 
 Death
 
-20040912-001-francis-bacon.jpg in St Albans]]
+in St Albans]]
 
 On 9 April 1626, Francis Bacon died of pneumonia while at Arundel mansion at Highgate outside London.[54] An influential account of the circumstances of his death was given by John Aubrey's _Brief Lives_.[55] Aubrey's vivid account, which portrays Bacon as a martyr to experimental scientific method, had him journeying to Highgate through the snow with the King's physician when he is suddenly inspired by the possibility of using the snow to preserve meat:
 
@@ -142,7 +138,7 @@ He was buried in St Michael's church in St Albans. At the news of his death, ove
 
 Philosophy and works
 
-Bacon_-_Sylva_sylvarum,_1658_-_3887855_301161_00006.tif Francis Bacon's philosophy is displayed in the vast and varied writings he left, which might be divided into three great branches:
+Francis Bacon's philosophy is displayed in the vast and varied writings he left, which might be divided into three great branches:
 
 -   _Scientific works_ – in which his ideas for a universal reform of knowledge into scientific methodology and the improvement of mankind's state using the Scientific method are presented.
 -   _Religious and literary works_ – in which he presents his moral philosophy and theological meditations.
@@ -151,7 +147,7 @@ Bacon_-_Sylva_sylvarum,_1658_-_3887855_301161_00006.tif Francis Bacon's philosop
 
 Influence
 
-Frontispiece_to_'The_History_of_the_Royal-Society_of_London'.jpg of London', picturing Bacon (in the right) among the founding influences of the Society. National Portrait Gallery, London]]
+of London', picturing Bacon (in the right) among the founding influences of the Society. National Portrait Gallery, London]]
 
 Science
 
@@ -164,8 +160,6 @@ One of his biographers, the historian William Hepworth Dixon, states: "Bacon's i
 In 1902 Hugo von Hofmannsthal published a fictional letter, known as _The Lord Chandos Letter_, addressed to Bacon and dated 1603, about a writer who is experiencing a crisis of language.
 
 North America
-
-Lord_Bacon_-_the_guiding_spirit_of_colonization_scheme.jpg
 
 Bacon played a leading role in establishing the British colonies in North America, especially in Virginia, the Carolinas and Newfoundland in northeastern Canada. His government report on "The Virginia Colony" was submitted in 1609. In 1610 Bacon and his associates received a charter from the king to form _the Tresurer and the Companye of Adventurers and planter of the Cittye of London and Bristoll for the Collonye or plantacon in Newfoundland_, and sent John Guy to found a colony there.[69] Thomas Jefferson, the third President of the United States, wrote: "Bacon, Locke and Newton. I consider them as the three greatest men that have ever lived, without any exception, and as having laid the foundation of those superstructures which have been raised in the Physical and Moral sciences".[70]
 
@@ -181,7 +175,7 @@ Harvey Wheeler attributed to Bacon, in _Francis Bacon's Verulamiumthe Common Law
 -   determining the relevance of precedents by exclusionary principles of evidence and logic;
 -   treating opposing legal briefs as adversarial hypotheses about the application of the "unwritten law" to a new set of facts.
 
-Francis_Bacon_in_the_Library_of_Congress.Jpeg, Washington, DC.]]
+, Washington, DC.]]
 
 As late as the 18th century some juries still declared the law rather than the facts, but already before the end of the 17th century Sir Matthew Hale explained modern common law adjudication procedure and acknowledged Bacon as the inventor of the process of discovering unwritten laws from the evidences of their applications. The method combined empiricism and inductivism in a new way that was to imprint its signature on many of the distinctive features of modern English society.[76] Paul H. Kocher writes that Bacon is considered by some jurists to be the father of modern Jurisprudence.[77]
 
@@ -204,7 +198,7 @@ Occult theories
 
 Francis Bacon often gathered with the men at Gray's Inn to discuss politics and philosophy, and to try out various theatrical scenes that he admitted writing.[82] Bacon's alleged connection to the Rosicrucians and the Freemasons has been widely discussed by authors and scholars in many books.[83] However, others, including Daphne du Maurier in her biography of Bacon, have argued that there is no substantive evidence to support claims of involvement with the Rosicrucians.[84] Frances Yates[85] does not make the claim that Bacon was a Rosicrucian, but presents evidence that he was nevertheless involved in some of the more closed intellectual movements of his day. She argues that Bacon's movement for the advancement of learning was closely connected with the German Rosicrucian movement, while Bacon's _New Atlantis_ portrays a land ruled by Rosicrucians. He apparently saw his own movement for the advancement of learning to be in conformity with Rosicrucian ideals.[86]
 
-Bacon-Rose.jpg The link between Bacon's work and the Rosicrucians' ideals which Yates allegedly found was the conformity of the purposes expressed by the Rosicrucian Manifestos and Bacon's plan of a "Great Instauration",[87] for the two were calling for a reformation of both "divine and human understanding",[88][89] as well as both had in view the purpose of mankind's return to the "state before the Fall".[90][91]
+The link between Bacon's work and the Rosicrucians' ideals which Yates allegedly found was the conformity of the purposes expressed by the Rosicrucian Manifestos and Bacon's plan of a "Great Instauration",[87] for the two were calling for a reformation of both "divine and human understanding",[88][89] as well as both had in view the purpose of mankind's return to the "state before the Fall".[90][91]
 
 Another major link is said to be the resemblance between Bacon's _New Atlantis_ and the German Rosicrucian Johann Valentin Andreae's _Description of the Republic of Christianopolis_ (1619). Andreae describes a utopic island in which Christian theosophy and applied science ruled, and in which the spiritual fulfilment and intellectual activity constituted the primary goals of each individual, the scientific pursuits being the highest intellectual callinglinked to the achievement of spiritual perfection. Andreae's island also depicts a great advancement in technology, with many industries separated in different zones which supplied the population's needswhich shows great resemblance to Bacon's scientific methods and purposes.[92][93]
 

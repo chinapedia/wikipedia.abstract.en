@@ -1,11 +1,11 @@
-Keltfest_2010_(4610513447).jpg CELTIC MUSIC is a broad grouping of music genres that evolved out of the folk music traditions of the Celtic people of Western Europe.[1][2] It refers to both orally-transmitted traditional music and recorded music and the styles vary considerably to include everything from "trad" (traditional) music to a wide range of hybrids.
+CELTIC MUSIC is a broad grouping of music genres that evolved out of the folk music traditions of the Celtic people of Western Europe.[1][2] It refers to both orally-transmitted traditional music and recorded music and the styles vary considerably to include everything from "trad" (traditional) music to a wide range of hybrids.
 
 
 Description and definition
 
-Welsh_Druid_playing_the_harp_02400.jpg _Celtic music_ means two things mainly. First, it is the music of the people that identify themselves as Celts. Secondly, it refers to whatever qualities may be unique to the music of the Celtic nations. Many notable Celtic musicians such as Alan Stivell and Paddy Moloney[3] claim that the different Celtic music genres have a lot in common.[4][5][6]
+_Celtic music_ means two things mainly. First, it is the music of the people that identify themselves as Celts. Secondly, it refers to whatever qualities may be unique to the music of the Celtic nations. Many notable Celtic musicians such as Alan Stivell and Paddy Moloney[3] claim that the different Celtic music genres have a lot in common.[4][5][6]
 
-These following melodic practices may be used[7] widely across the different variants of Celtic Music: Keltfest_2010_(4611116196).jpg performed at a Celtic festival in 2010]]
+These following melodic practices may be used[7] widely across the different variants of Celtic Music: performed at a Celtic festival in 2010]]
 
 -   It is common for the melodic line to move up and down the primary chords in many Celtic songs. There are a number of possible reasons for this:
     -   _Melodic variation_ can be easily introduced. Melodic variation is widely used in Celtic music, especially by the pipes and harp.
@@ -23,7 +23,7 @@ These styles are known because of the importance of Irish and Scottish people in
 
 Divisions
 
-A_Stivell_072707_Nuremberg_02.JPG In _Celtic Music: A Complete Guide_, June Skinner Sawyers acknowledges six Celtic nationalities divided into two groups according to their linguistic heritage.[12] The Q-Celtic nationalities are the Irish, Scottish and Manx peoples, while the P-Celtic groups are the Cornish, Bretons and Welsh peoples. Musician Alan Stivell uses a similar dichotomy, between the Gaelic (Irish/Scottish/Manx) and the Brythonic (Breton/Welsh/Cornish) branches, which differentiate "mostly by the extended range (sometimes more than two octaves) of Irish and Scottish melodies and the closed range of Breton and Welsh melodies (often reduced to a half-octave), and by the frequent use of the pure pentatonic scale in Gaelic music."[13]
+In _Celtic Music: A Complete Guide_, June Skinner Sawyers acknowledges six Celtic nationalities divided into two groups according to their linguistic heritage.[12] The Q-Celtic nationalities are the Irish, Scottish and Manx peoples, while the P-Celtic groups are the Cornish, Bretons and Welsh peoples. Musician Alan Stivell uses a similar dichotomy, between the Gaelic (Irish/Scottish/Manx) and the Brythonic (Breton/Welsh/Cornish) branches, which differentiate "mostly by the extended range (sometimes more than two octaves) of Irish and Scottish melodies and the closed range of Breton and Welsh melodies (often reduced to a half-octave), and by the frequent use of the pure pentatonic scale in Gaelic music."[13]
 
 There is also tremendous variation between _Celtic_ regions. Ireland, Scotland, Brittany and Wales have living traditions of language and music, and there has been a recent major revival of interest in Celtic heritage in Cornwall and the Isle of Man. Galicia has a Celtic language revival movement to revive the Q-Celtic _Gallaic language_ used into Roman times.[14][15][16][17] Most of the Iberian Peninsula had a similar Celtic language in pre-Roman times. A Brythonic language was used in parts of Galicia and Asturias into early Medieval times brought by Britons fleeing the Anglo-Saxon invasions via Brittany.[18][19] The Romance language currently spoken in Galicia, Galician (Galego) is closely related to the Portuguese language used mainly in Brazil and Portugal. Galician music is claimed to be _Celtic_.[20] The same is true of the music of Asturias,[21] Cantabria, and that of Northern Portugal (some say even traditional music from Central Portugal can be labeled Celtic).
 
@@ -68,8 +68,6 @@ The modern Celtic music scene involves a large number of music festivals, as it 
 -   Yn Chruinnaght (Isle of Man)
 -   Celtic Connections (Glasgow, Scotland)[27]
 -   Hebridean Celtic Festival (Stornoway, Scotland)[28]
-
-Anoriant3.jpg
 
 -   Fleadh ceol na hÉireann (Tullamore, Ireland)
 -   Festival Intercéltico de Sendim (Sendim, Portugal)[29][30]

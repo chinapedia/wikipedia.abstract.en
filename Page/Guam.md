@@ -15,7 +15,7 @@ An unofficial but frequently used territorial motto is "Where America's Day Begi
 
 History
 
-Hernando_de_Magallanes_del_museo_Madrid_Fix.jpg, Portuguese navigator who was the first European to visit Guam (March 6, 1521) while commanding the fleet that circumnavigated the globe.]] The original inhabitants of Guam and the Northern Mariana Islands were the Chamorro people, who are believed to be descendants of Austronesian people originating from Southeast Asia as early as 2000 BC.[11]
+, Portuguese navigator who was the first European to visit Guam (March 6, 1521) while commanding the fleet that circumnavigated the globe.]] The original inhabitants of Guam and the Northern Mariana Islands were the Chamorro people, who are believed to be descendants of Austronesian people originating from Southeast Asia as early as 2000 BC.[11]
 
 The ancient Chamorro society had four classes: _chamorri_ (chiefs), _matua_ (upper class), _achaot_ (middle class), and _mana'chang_ (lower class).[12] The _matua_ were located in the coastal villages, which meant they had the best access to fishing grounds, whereas the _mana'chang_ were located in the interior of the island. _Matua_ and _mana'chang_ rarely communicated with each other, and _matua_ often used _achaot_ as intermediaries. There were also "_makåhna_" or "_kakahna_", shamans with magical powers and "_Suruhånu_" or "_Suruhåna"_ healers who use different kinds of plants and natural materials to make medicine. Belief in spirits of ancient Chamorros called "_Taotao mo'na_" still persists as a remnant of pre-European culture. It is believed that "_Suruhånu_" or "_Suruhåna_" are the only ones who can safely harvest plants and other natural materials from their homes or "_hålomtåno_" without incurring the wrath of the "_Taotao mo'na_". Their society was organized along matrilineal clans.[13]
 
@@ -27,7 +27,7 @@ The first European to travel to Guam was Portuguese navigator Ferdinand Magellan
 
 Spanish colonization and the Manila galleons
 
-The_Island_of_Guajan_(Guam),_detail_from_Carta_Hydrographica_y_Chorographica_de_las_Islas_Filipinas_(1734).jpg'' (1734)]] Despite Magellan's visit, Guam was not officially claimed by Spain until January 26, 1565, by General Miguel López de Legazpi.[20] From 1565 to 1815, Guam and the Northern Mariana Islands, the only Spanish outposts in the Pacific Ocean east of the Philippines, were an important resting stop for the Manila galleons, a fleet that covered the Pacific trade route between Acapulco and Manila.[21] To protect these Pacific fleets, Spain built several defensive structures that still stand today, such as Fort Nuestra Señora de la Soledad in Umatac. Guam is the biggest single segment of Micronesia, the largest islands between the island of Kyushu (Japan), New Guinea, the Philippines, and the Hawaiian Islands.
+'' (1734)]] Despite Magellan's visit, Guam was not officially claimed by Spain until January 26, 1565, by General Miguel López de Legazpi.[20] From 1565 to 1815, Guam and the Northern Mariana Islands, the only Spanish outposts in the Pacific Ocean east of the Philippines, were an important resting stop for the Manila galleons, a fleet that covered the Pacific trade route between Acapulco and Manila.[21] To protect these Pacific fleets, Spain built several defensive structures that still stand today, such as Fort Nuestra Señora de la Soledad in Umatac. Guam is the biggest single segment of Micronesia, the largest islands between the island of Kyushu (Japan), New Guinea, the Philippines, and the Hawaiian Islands.
 
 Spanish colonization commenced on June 15, 1668, with the arrival of Diego Luis de San Vitores and Pedro Calungsod, who established the first Catholic church.[22] The islands were part of the Spanish East Indies, and in turn part of the Viceroyalty of New Spain, based in Mexico City. Other reminders of colonial times include the old Governor's Palace in Plaza de España and the Spanish Bridge, both in Hagatña. Guam's Cathedral Dulce Nombre de Maria was formally opened on February 2, 1669, as was the Royal College of San Juan de Letran.[23] Guam, along with the rest of the Mariana and Caroline Islands, were treated as part of Spain's colony in the Philippines. While the island's Chamorro culture has indigenous roots, the cultures of both Guam and the Northern Marianas have many similarities with Spanish culture due to three centuries of Spanish rule.[24]
 
@@ -65,7 +65,7 @@ A marine seaplane unit was stationed in Guam from 1921 to 1930, the first in the
 
 World War II
 
-Three_Marines_and_their_machine_gun_on_Guam.jpg During World War II, Guam was attacked and invaded by Japan on Monday, December 8, 1941, shortly after the attack on Pearl Harbor. In addition, Japan made major military moves into Southeast Asia and the East Indies islands of the South Pacific Ocean against the British and Dutch colonies, opening a new wider Pacific phase in the Second World War. The Japanese renamed Guam (Great Shrine Island).
+During World War II, Guam was attacked and invaded by Japan on Monday, December 8, 1941, shortly after the attack on Pearl Harbor. In addition, Japan made major military moves into Southeast Asia and the East Indies islands of the South Pacific Ocean against the British and Dutch colonies, opening a new wider Pacific phase in the Second World War. The Japanese renamed Guam (Great Shrine Island).
 
 The Northern Mariana Islands had become a League of Nations mandate assigned to Japan in 1919, pursuant to the Treaty of Versailles of 1919. Chamorros indigenous island people from the Northern Marianas were brought to Guam to serve as interpreters and in other capacities for the occupying Japanese force. The Guamanian Chamorros were treated as an occupied enemy by the Japanese military. After the war, this would cause resentment between the Guamanian Chamorros and the Chamorros of the Northern Marianas. Guam's Chamorros believed their northern brethren should have been compassionate towards them, whereas having been administered by Japan for over 30 years, the Northern Mariana Chamorros were loyal to the Japanese government.
 
@@ -77,7 +77,7 @@ North Field was established in 1944, and was renamed for Brigadier General James
 
 Post-war
 
-B-52_Guam_Linebacker_II_-_Copia.jpg at Andersen Air Force Base, during Operation Linebacker II in Vietnam War, 1972]] After World War II, the Guam Organic Act of 1950 established Guam as an unincorporated organized territory of the United States, provided for the structure of the island's civilian government, and granted the people U.S. citizenship. The Governor of Guam was federally appointed until 1968, when the Guam Elective Governor Act provided for the office's popular election.[53] Since Guam is not a U.S. state, U.S. citizens residing on Guam are not allowed to vote for president and their congressional representative is a non-voting member.[54] They do, however, get to vote for party delegates in presidential primaries.[55]
+at Andersen Air Force Base, during Operation Linebacker II in Vietnam War, 1972]] After World War II, the Guam Organic Act of 1950 established Guam as an unincorporated organized territory of the United States, provided for the structure of the island's civilian government, and granted the people U.S. citizenship. The Governor of Guam was federally appointed until 1968, when the Guam Elective Governor Act provided for the office's popular election.[53] Since Guam is not a U.S. state, U.S. citizens residing on Guam are not allowed to vote for president and their congressional representative is a non-voting member.[54] They do, however, get to vote for party delegates in presidential primaries.[55]
 
 Vietnam War and later
 
@@ -92,7 +92,7 @@ In August 2017, North Korea warned that it might launch mid-range ballistic miss
 
 Geography
 
-Guam_ali_2011364_lrg.jpg Guam lies between 13.2° and 13.7°N and 144.6° and 145.0°E. It is long and wide, giving it an area of (three-fourths the size of Singapore) and making it the 32nd largest island of the United States. It is the southernmost and largest island in the Marianas as well as the largest in Micronesia. Guam's highest point is Mount Lamlam at .[60] Challenger Deep, at the deepest surveyed point in the Oceans, lies southwest of Guam.
+Guam lies between 13.2° and 13.7°N and 144.6° and 145.0°E. It is long and wide, giving it an area of (three-fourths the size of Singapore) and making it the 32nd largest island of the United States. It is the southernmost and largest island in the Marianas as well as the largest in Micronesia. Guam's highest point is Mount Lamlam at .[60] Challenger Deep, at the deepest surveyed point in the Oceans, lies southwest of Guam.
 
 The Mariana chain of which Guam is a part was created by collision of the Pacific and Philippine Sea tectonic plates. Guam is the closest land mass to the Mariana Trench, the deep subduction zone that runs east of the Marianas. Due to its location on the Mariana Plate just westward of where the Pacific Plate subducts the Mariana and the Philippine Sea Plates, Guam occasionally experiences earthquakes.[61] In recent years, most with epicenters near Guam have had magnitudes ranging from 5.0 to 8.7. Unlike Anatahan in the Northern Mariana Islands, Guam is not volcanically active, though vog (volcanic smog) from Anatahan affects it due to proximity.[62]
 
@@ -101,7 +101,7 @@ A coral table reef surrounds most of Guam, and the limestone plateau provides th
 
 Climate
 
-US_Navy_030225-N-0000X-002_An_aerial_view_of_Apra_Harbor_on_U.S._Naval_Base_Guam_is_seen_during_a_fly-by,_Feb._25,_2003.jpg]] Guam experiences a tropical rainforest climate, though its driest month of March almost averages dry enough to qualify as a tropical monsoon climate, moderated by seasonal northeasterly trade winds. However, due to its proximity to the equator, high sea surface temperature and warm ocean current that transports heat and moisture, the weather is generally hot and humid throughout the year with little seasonal temperature variation. Hence, Guam is known to have equable temperatures year round.
+]] Guam experiences a tropical rainforest climate, though its driest month of March almost averages dry enough to qualify as a tropical monsoon climate, moderated by seasonal northeasterly trade winds. However, due to its proximity to the equator, high sea surface temperature and warm ocean current that transports heat and moisture, the weather is generally hot and humid throughout the year with little seasonal temperature variation. Hence, Guam is known to have equable temperatures year round.
 
 The mean high temperature is and mean low is . Temperatures rarely exceed or fall below . The relative humidity commonly exceeds 84 percent at night throughout the year, but the average monthly humidity hovers near 66 percent. The dry season runs from December to June. The remaining months (July to November) constitute the wet season with an average annual rainfall between 1981 and 2010 of around .
 
@@ -142,7 +142,7 @@ The most common religion is the Catholic Church of Guam. According to the Pew Re
 
 Culture
 
-Dulce_Nombre_de_Maria_Cathedral_Basilica.JPG]] Post-European-contact Chamorro Guamanian culture is a combination of American, Spanish, Filipino, other Micronesian Islander and Mexican traditions. Few indigenous pre-Hispanic customs remained following Spanish contact. Hispanic influences are manifested in the local language, music, dance, sea navigation, cuisine, fishing, games (such as batu, chonka, estuleks, and bayogu), songs and fashion.
+]] Post-European-contact Chamorro Guamanian culture is a combination of American, Spanish, Filipino, other Micronesian Islander and Mexican traditions. Few indigenous pre-Hispanic customs remained following Spanish contact. Hispanic influences are manifested in the local language, music, dance, sea navigation, cuisine, fishing, games (such as batu, chonka, estuleks, and bayogu), songs and fashion.
 
 During Spanish colonial rule (1668–1898) the majority of the population was converted to Roman Catholicism and religious festivities such as Easter and Christmas became widespread. Post-contact Chamorro cuisine is largely based on corn, and includes tortillas, tamales, atole and chilaquiles, which are a clear influence from Mesoamerica, principally Mexico, from Spanish trade with Asia.
 
@@ -154,7 +154,7 @@ Due to foreign cultural influence from Spain, most aspects of the early indigeno
 
 Two aspects of indigenous pre-Hispanic culture that withstood time are chenchule' and inafa'maolek. Chenchule' is the intricate system of reciprocity at the heart of Chamorro society. It is rooted in the core value of inafa'maolek. Historian Lawrence Cunningham in 1992 wrote, "In a Chamorro sense, the land and its produce belong to everyone. , or interdependence, is the key, or central value, in Chamorro culture ... depends on a spirit of cooperation and sharing. This is the armature, or core, that everything in Chamorro culture revolves around. It is a powerful concern for mutuality rather than individualism and private property rights."
 
-Chamorro_performers.jpg]] The core culture or Pengngan Chamorro is based on complex social protocol centered upon respect: from sniffing over the hands of the elders (called mangnginge in Chamorro), the passing down of legends, chants, and courtship rituals, to a person asking for permission from spiritual ancestors before entering a jungle or ancient battle grounds. Other practices predating Spanish conquest include galaide' canoe-making, making of the belembaotuyan (a string musical instrument made from a gourd), fashioning of slings and slingstones, tool manufacture, burial rituals, and preparation of herbal medicines by Suruhanu.
+]] The core culture or Pengngan Chamorro is based on complex social protocol centered upon respect: from sniffing over the hands of the elders (called mangnginge in Chamorro), the passing down of legends, chants, and courtship rituals, to a person asking for permission from spiritual ancestors before entering a jungle or ancient battle grounds. Other practices predating Spanish conquest include galaide' canoe-making, making of the belembaotuyan (a string musical instrument made from a gourd), fashioning of slings and slingstones, tool manufacture, burial rituals, and preparation of herbal medicines by Suruhanu.
 
 Master craftsmen and women specialize in weavings, including plaited work (niyok- and åkgak-leaf baskets, mats, bags, hats, and food containments), loom-woven material (kalachucha-hibiscus and banana fiber skirts, belts and burial shrouds), and body ornamentation (bead and shell necklaces, bracelets, earrings, belts and combs made from tortoise shells and Spondylus).
 
@@ -177,11 +177,11 @@ Guam hosted the Pacific Games in 1975 and 1999. At the 2007 Games, Guam finished
 
 Economy
 
-2009_GU_Proof.png]] Guam's economy depends primarily on tourism, Department of Defense installations and locally owned businesses. Despite paying no income or excise tax, it receives large transfer payments from the general revenues of the U.S. federal treasury. Under the provisions of a special law by Congress, it is Guam's treasury rather than the U.S. treasury that receives the federal income taxes paid by local taxpayers (including military and civilian federal employees assigned to Guam).
+]] Guam's economy depends primarily on tourism, Department of Defense installations and locally owned businesses. Despite paying no income or excise tax, it receives large transfer payments from the general revenues of the U.S. federal treasury. Under the provisions of a special law by Congress, it is Guam's treasury rather than the U.S. treasury that receives the federal income taxes paid by local taxpayers (including military and civilian federal employees assigned to Guam).
 
 Lying in the western Pacific, Guam is a popular destination for Japanese tourists. Its tourist hub, Tumon, features over 20 large hotels, a Duty Free Shoppers Galleria, Pleasure Island district, indoor aquarium, Sandcastle Las Vegas–styled shows and other shopping and entertainment venues. It is a relatively short flight from Asia or Australia compared to Hawaii, with hotels and seven public golf courses accommodating over a million tourists per year. Although 75% of the tourists are Japanese, Guam receives a sizable number of tourists from South Korea, the U.S., the Philippines, and Taiwan.[72] Significant sources of revenue include duty-free designer shopping outlets, and the American-style malls: Micronesia Mall, Guam Premier Outlets, the Agana Shopping Center, and the world's largest Kmart.[73]
 
-GuamAntonioWonPatAirport.jpg. The airport hosts a hub of United Airlines, Guam's largest private-sector employer.]] The economy had been stable since 2000 due to increased tourism. It is expected to stabilize with the transfer of U.S. Marine Corps' 3rd Marine Expeditionary Force, currently in Okinawa, Japan, (approximately 8,000 Marines, along with their 10,000 dependents), to Guam between 2010 and 2015. In 2003, Guam had a 14% unemployment rate, and the government suffered a $314 million shortfall.[74]
+. The airport hosts a hub of United Airlines, Guam's largest private-sector employer.]] The economy had been stable since 2000 due to increased tourism. It is expected to stabilize with the transfer of U.S. Marine Corps' 3rd Marine Expeditionary Force, currently in Okinawa, Japan, (approximately 8,000 Marines, along with their 10,000 dependents), to Guam between 2010 and 2015. In 2003, Guam had a 14% unemployment rate, and the government suffered a $314 million shortfall.[74]
 
 The Compacts of Free Association between the United States, the Federated States of Micronesia, the Republic of the Marshall Islands and the Republic of Palau accorded the former entities of the Trust Territory of the Pacific Islands a political status of "free association" with the United States. The Compacts give citizens of these island nations generally no restrictions to reside in the United States (also its territories), and many were attracted to Guam due to its proximity, environmental, and cultural familiarity. Over the years, it was claimed by some in Guam that the territory has had to bear the brunt of this agreement in the form of public assistance programs and public education for those from the regions involved, and the federal government should compensate the states and territories affected by this type of migration. Over the years, Congress had appropriated "Compact Impact" aids to Guam, the Northern Mariana Islands and Hawaii, and eventually this appropriation was written into each renewed Compact. Some, however, continue to claim the compensation is not enough or that the distribution of actual compensation received is significantly disproportionate.
 
@@ -190,7 +190,7 @@ Guam's largest single private sector employer, with about 1,400 jobs, was Contin
 
 Government and politics
 
-War_in_the_Pacific_National_Historical_Park.jpg at Asan]]
+at Asan]]
 
 Guam is governed by a popularly elected governor and a unicameral 15-member legislature, whose members are known as senators. Its judiciary is overseen by the Supreme Court of Guam.
 
@@ -202,7 +202,7 @@ In the 1980s and early 1990s, there was a significant movement in favor of this 
 
 In a 1982 plebiscite, voters indicated interest in seeking commonwealth status.[80] The island has been considering another non-binding plebiscite on decolonization since 1998.
 
-Lou_Leon_Guerrero_in_2018.jpeg]] A Commission on Decolonization was established in 1997 to educate the people of Guam about the various political status options in its relationship with the U.S.: statehood, free association and independence. The group was dormant for some years. In 2013, the Commission began seeking funding to start a public education campaign. There were few subsequent developments until late 2016. In early December 2016, the Commission scheduled a series of education sessions in various villages about the current status of Guam's relationship with the U.S. and the self-determination options that might be considered.[81] The Commission's current Executive Director is Edward Alvarez and there are ten members. The group is also expected to release position papers on independence and statehood but the contents have not yet been completed.[82]
+]] A Commission on Decolonization was established in 1997 to educate the people of Guam about the various political status options in its relationship with the U.S.: statehood, free association and independence. The group was dormant for some years. In 2013, the Commission began seeking funding to start a public education campaign. There were few subsequent developments until late 2016. In early December 2016, the Commission scheduled a series of education sessions in various villages about the current status of Guam's relationship with the U.S. and the self-determination options that might be considered.[81] The Commission's current Executive Director is Edward Alvarez and there are ten members. The group is also expected to release position papers on independence and statehood but the contents have not yet been completed.[82]
 
 The United Nations is in favor of greater self-determination for Guam and other such territories. The UN's Special Committee on Decolonization has agreed to endorse the Governor's education plan. The commission's May 2016 report states: "With academics from the University of Guam, [the Commission] was working to create and approve educational materials. The Office of the Governor was collaborating closely with the Commission" in developing educational materials for the public.[83]
 
@@ -211,7 +211,7 @@ The United States Department of the Interior had approved a $300,000 grant for d
 
 Villages
 
-Hagatna_from_Fort_Santa_Agueda.JPG from Fort Santa Agueda]] Guam is divided into 19 municipal villages:
+from Fort Santa Agueda]] Guam is divided into 19 municipal villages:
 
 -   Agana Heights
 -   Agat
@@ -236,7 +236,7 @@ Hagatna_from_Fort_Santa_Agueda.JPG from Fort Santa Agueda]] Guam is divided into
 
 Military bases
 
-US_Navy_110821-N-AZ907-015_The_aircraft_carrier_USS_Ronald_Reagan_(CVN_76)_enters_Apra_Harbor_for_a_scheduled_port_visit.jpg for a scheduled port visit.]] The U.S. military maintains jurisdiction over its bases, which cover approximately , or 29% of the island's total land area:
+for a scheduled port visit.]] The U.S. military maintains jurisdiction over its bases, which cover approximately , or 29% of the island's total land area:
 
 -   U.S. Naval Base Guam, U.S. Navy – Sumay
 -   U.S. Coast Guard Sector Guam, – Sumay
@@ -259,13 +259,11 @@ Villagers and the military community are interconnected in many ways. Many villa
 
 Transportation and communications
 
-Guam_route_marker_8.svg
-
 Most of the island has state-of-the-art mobile phone services and high-speed internet widely available through either cable or DSL. Guam was added to the North American Numbering Plan (NANP) in 1997 (country code 671 became NANP area code 671),[87] removing the barrier of high-cost international long-distance calls to the U.S. mainland.
 
 Guam is also a major hub for submarine cables between the Western U.S., Hawaii, Australia and Asia. Guam currently serves twelve submarine cables, with most continuing to China.
 
-US_to_Guam_First_Flight_Cover_1935.jpg In 1899, the local postage stamps were overprinted "Guam" as was done for the other former Spanish colonies, but this was discontinued shortly thereafter and regular U.S. postage stamps have been used ever since. Because Guam is also part of the U.S. Postal System (postal abbreviation: GU, ZIP code range: 96910–96932), mail to Guam from the U.S. mainland is considered domestic and no additional charges are required. Private shipping companies, such as FedEx, UPS, and DHL, however, have no obligation to do so, and do not regard Guam as domestic.
+In 1899, the local postage stamps were overprinted "Guam" as was done for the other former Spanish colonies, but this was discontinued shortly thereafter and regular U.S. postage stamps have been used ever since. Because Guam is also part of the U.S. Postal System (postal abbreviation: GU, ZIP code range: 96910–96932), mail to Guam from the U.S. mainland is considered domestic and no additional charges are required. Private shipping companies, such as FedEx, UPS, and DHL, however, have no obligation to do so, and do not regard Guam as domestic.
 
 The speed of mail traveling between Guam and the states varies depending on size and time of year. Light, first-class items generally take less than a week to or from the mainland, but larger first-class or Priority items can take a week or two. Fourth-class mail, such as magazines, are transported by sea after reaching Hawaii. Most residents use post office boxes or private mail boxes, although residential delivery is becoming increasingly available. Incoming mail not from the Americas should be addressed to "Guam" instead of "USA" to avoid being routed the long way through the U.S. mainland and possibly charged a higher rate (especially from Asia).
 
@@ -294,11 +292,11 @@ Guam is said to have many more insects and 40 times more spiders than neighborin
 
 Coconut rhinoceros beetle
 
-Oryctes_nasicornis_Thailand.jpg]] An infestation of the coconut rhinoceros beetle (CRB), _Oryctes rhinoceros_, was detected on Guam on September 12, 2007. CRB is not known to occur in the United States except in American Samoa. Delimiting surveys performed September 13–25, 2007, indicated that the infestation was limited to Tumon Bay and Faifai Beach, an area of approximately . Guam Department of Agriculture (GDA) placed quarantine on all properties within the Tumon area on October 5 and later expanded the quarantine to about on October 25; approximately radius in all directions from all known locations of CRB infestation. CRB is native to Southern Asia and distributed throughout Asia and the Western Pacific including Sri Lanka, Upolu, Samoa, American Samoa, Palau, New Britain, West Irian, New Ireland, Pak Island and Manus Island (New Guinea), Fiji, Cocos (Keeling) Islands, Mauritius, and Reunion.
+]] An infestation of the coconut rhinoceros beetle (CRB), _Oryctes rhinoceros_, was detected on Guam on September 12, 2007. CRB is not known to occur in the United States except in American Samoa. Delimiting surveys performed September 13–25, 2007, indicated that the infestation was limited to Tumon Bay and Faifai Beach, an area of approximately . Guam Department of Agriculture (GDA) placed quarantine on all properties within the Tumon area on October 5 and later expanded the quarantine to about on October 25; approximately radius in all directions from all known locations of CRB infestation. CRB is native to Southern Asia and distributed throughout Asia and the Western Pacific including Sri Lanka, Upolu, Samoa, American Samoa, Palau, New Britain, West Irian, New Ireland, Pak Island and Manus Island (New Guinea), Fiji, Cocos (Keeling) Islands, Mauritius, and Reunion.
 
 Other invasive animal species
 
-2011_Feb,_Puerto_Princesa_to_Nasiduan,_10.jpg and calf]] From the seventeenth through nineteenth centuries, the Spanish introduced pigs, dogs, chickens, the Philippine deer (_Rusa mariannus_), black francolins, and carabao (a subspecies of water buffalo), which have cultural significance. Herds of carabao obstruct military base operations and harm native ecosystems. After birth control and adoption efforts were ineffective, the U.S. military began culling the herds in 2002 leading to organized protests from island residents.[99]
+and calf]] From the seventeenth through nineteenth centuries, the Spanish introduced pigs, dogs, chickens, the Philippine deer (_Rusa mariannus_), black francolins, and carabao (a subspecies of water buffalo), which have cultural significance. Herds of carabao obstruct military base operations and harm native ecosystems. After birth control and adoption efforts were ineffective, the U.S. military began culling the herds in 2002 leading to organized protests from island residents.[99]
 
 Other introduced species include cane toads introduced in 1937, the giant African snail (an agricultural pest introduced during World War II by Japanese occupation troops) and more recently frog species which could threaten crops in addition to providing additional food for the brown tree snake population. Reports of loud chirping frogs native to Puerto Rico and known as coquí, that may have arrived from Hawaii, have led to fears that the noise could threaten Guam's tourism.[100]
 
@@ -322,11 +320,11 @@ A secondary solution could be introducing metal hyperaccumulation into the palm 
 
 Wildfires
 
-Guam_Grassland.jpg Wildfires plague the forested areas of Guam every dry season despite the island's humid climate. Most fires are caused by humans with 80% resulting from arson.[107] Poachers often start fires to attract deer to the new growth. Invasive grass species that rely on fire as part of their natural life cycle grow in many regularly burned areas. Grasslands and "barrens" have replaced previously forested areas leading to greater soil erosion. During the rainy season, sediment is carried by the heavy rains into the Fena Lake Reservoir and Ugum River, leading to water quality problems for southern Guam. Eroded silt also destroys the marine life in reefs around the island. Soil stabilization efforts by volunteers and forestry workers (planting trees) have had little success in preserving natural habitats.[108]
+Wildfires plague the forested areas of Guam every dry season despite the island's humid climate. Most fires are caused by humans with 80% resulting from arson.[107] Poachers often start fires to attract deer to the new growth. Invasive grass species that rely on fire as part of their natural life cycle grow in many regularly burned areas. Grasslands and "barrens" have replaced previously forested areas leading to greater soil erosion. During the rainy season, sediment is carried by the heavy rains into the Fena Lake Reservoir and Ugum River, leading to water quality problems for southern Guam. Eroded silt also destroys the marine life in reefs around the island. Soil stabilization efforts by volunteers and forestry workers (planting trees) have had little success in preserving natural habitats.[108]
 
 Aquatic preserves
 
-Tumon_Beach.JPG, Tumon Bay is now a marine wildlife preserve.]] Whitespotted_boxfish_Ostracion_meleagris_photo_Randall_J_E.jpg (_Ostracion meleagris_)]] Efforts have been made to protect Guam's coral reef habitats from pollution, eroded silt and overfishing, problems that have led to decreased fish populations. This has both ecological and economic value, as Guam is a significant vacation spot for scuba divers. In recent years, the Department of Agriculture, Division of Aquatic and Wildlife Resources has established several new marine preserves where fish populations are monitored by biologists.[109] Before adopting U.S. Environmental Protection Agency standards, portions of Tumon Bay were dredged by the hotel chains to provide a better experience for hotel guests.[110][111] Tumon Bay has since been made into a preserve. A federal Guam National Wildlife Refuge in northern Guam protects the decimated sea turtle population in addition to a small colony of Mariana fruit bats.[112]
+, Tumon Bay is now a marine wildlife preserve.]] (_Ostracion meleagris_)]] Efforts have been made to protect Guam's coral reef habitats from pollution, eroded silt and overfishing, problems that have led to decreased fish populations. This has both ecological and economic value, as Guam is a significant vacation spot for scuba divers. In recent years, the Department of Agriculture, Division of Aquatic and Wildlife Resources has established several new marine preserves where fish populations are monitored by biologists.[109] Before adopting U.S. Environmental Protection Agency standards, portions of Tumon Bay were dredged by the hotel chains to provide a better experience for hotel guests.[110][111] Tumon Bay has since been made into a preserve. A federal Guam National Wildlife Refuge in northern Guam protects the decimated sea turtle population in addition to a small colony of Mariana fruit bats.[112]
 
 Harvest of sea turtle eggs was a common occurrence on Guam before World War II. The green sea turtle (_Chelonia mydas_) was harvested legally on Guam before August 1978, when it was listed as threatened under the Endangered Species Act. The hawksbill sea turtle (_Eretmochelys imbricata_) has been on the endangered list since 1970. In an effort to ensure protection of sea turtles on Guam, routine sightings are counted during aerial surveys and nest sites are recorded and monitored for hatchlings.
 
@@ -335,7 +333,7 @@ Education
 
 Colleges and universities
 
-University_of_Guam_Campus.JPG]] The University of Guam (UOG) and Guam Community College, both fully accredited by the Western Association of Schools and Colleges, offer courses in higher education.[113] UOG is a member of the exclusive group of only 76 land-grant institutions in the entire United States. Pacific Islands University is a small Christian liberal arts institution nationally accredited by the Transnational Association of Christian Colleges and Schools. They offer courses at both the undergraduate and graduate levels.
+]] The University of Guam (UOG) and Guam Community College, both fully accredited by the Western Association of Schools and Colleges, offer courses in higher education.[113] UOG is a member of the exclusive group of only 76 land-grant institutions in the entire United States. Pacific Islands University is a small Christian liberal arts institution nationally accredited by the Transnational Association of Christian Colleges and Schools. They offer courses at both the undergraduate and graduate levels.
 
 Primary and secondary schools
 
@@ -345,7 +343,7 @@ Before September 1997, the U.S. Department of Defense partnered with Guam Board 
 
 Public libraries
 
-Nieves_M._Flores_Memorial_Library.JPG Nieves M. Flores Memorial Library, Hagåtña]] Guam Public Library System operates the Nieves M. Flores Memorial Library in Hagåtña and five branch libraries.[121]
+Nieves M. Flores Memorial Library, Hagåtña]] Guam Public Library System operates the Nieves M. Flores Memorial Library in Hagåtña and five branch libraries.[121]
 
 
 Health care

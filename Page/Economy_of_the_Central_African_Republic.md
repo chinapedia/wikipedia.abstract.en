@@ -7,14 +7,12 @@ Principal food crops include cassava, peanuts, sorghum, millet, maize, sesame, a
 
 Infrastructure
 
-Ubangi_river_near_Bangui.jpgMuch of the country's limited electrical supply is provided by hydroelectric plants located in Boali. Fuel supplies must be barged in via the Oubangui River or trucked overland through Cameroon, resulting in frequent shortages of gasoline, diesel, and jet fuel. The C.A.R.'s transportation and communication network is limited. The country has only 429 kilometers of paved road, limited international, and no domestic air service, and does not possess a railroad.
+Much of the country's limited electrical supply is provided by hydroelectric plants located in Boali. Fuel supplies must be barged in via the Oubangui River or trucked overland through Cameroon, resulting in frequent shortages of gasoline, diesel, and jet fuel. The C.A.R.'s transportation and communication network is limited. The country has only 429 kilometers of paved road, limited international, and no domestic air service, and does not possess a railroad.
 
 River traffic on the Oubangui River is impossible from April to July, and conflict in the region has sometimes prevented shipments from moving between Kinshasa and Bangui. The telephone system functions, albeit imperfectly. Four radio stations currently operate in the C.A.R., as well as one television station. Numerous newspapers and pamphlets are published on a regular basis, and one company has begun providing Internet service.[2]
 
 
 Forestry
-
-Central_African_Republic_-_Log_transport.jpg
 
 There are 22.2 million hectares (56.5 million acres) of forest (36 percent of the total land area), but only 3.4 million hectares (8.4 million acres) of dense forest, all in the south in the regions bordering the DRC, Republic of Congo and Cameroon. The CAR’s exploitable forests cover 27 million hectares (68 million acres), or 43% of the total land area. Transportation bottlenecks on rivers and lack of rail connections are serious hindrances to commercial exploitation. Most timber is shipped down the Ubangi and Zaire rivers and then on the Congo railway to the Atlantic. About 34 species of trees are felled, but 85 percent of the total is ayous, Aniegré, iroko, sapele, and sipo.[3]
 
@@ -51,7 +49,7 @@ Fishing is carried on extensively along the rivers, but most of the catch is sol
 
 Economic aid and development
 
-Bricklayer.jpg, Central African Republic.]]
+, Central African Republic.]]
 
 The CAR is heavily dependent upon multilateral foreign aid and the presence of numerous NGO's which provide numerous services which the government fails to provide. As one UNDP official put it, the CAR is a country "sous serum," or a country hooked up to an IV. (Mehler 2005:150) The very presence of numerous foreign personnel and organizations in the country, including peacekeepers and even refugee camps, provides an important source of revenue for many Central Africans.
 

@@ -9,8 +9,6 @@ Ohio's premier cultural center, Cleveland is home to Playhouse Square, the secon
 
 History
 
-Gen._Moses_Cleaveland_by_James_G._C._Hamilton_-_DSC07989.JPG
-
 Establishment
 
 Cleveland was established on July 22, 1796 by surveyors of the Connecticut Land Company when they laid out Connecticut's Western Reserve into townships and a capital city. They named the new settlement "Cleaveland" after their leader, General Moses Cleaveland. Cleaveland oversaw the New England-style design of the plan for what would become the modern downtown area, centered on Public Square, before returning home, never again to visit Ohio. The first permanent settler in Cleaveland was Lorenzo Carter, who built a cabin on the banks of the Cuyahoga River. The Village of Cleaveland was incorporated on December 23, 1814.[14]
@@ -21,17 +19,17 @@ In 1831, the spelling of the town's name was altered by _The Cleveland Advertise
 
 Growth and expansion
 
-Cleveland_1877.jpg of Cleveland in 1877.]] Cleveland witnessed rapid growth after the American Civil War. The city's prime geographic location as a transportation hub between the East Coast and the Midwest played an important role in its development as a commercial center. Cleveland served as a destination for iron ore shipped from Minnesota, along with coal transported by rail. In 1870, John D. Rockefeller founded Standard Oil in Cleveland. In 1885, he moved its headquarters to New York City, which had become a center of finance and business.[20]
+of Cleveland in 1877.]] Cleveland witnessed rapid growth after the American Civil War. The city's prime geographic location as a transportation hub between the East Coast and the Midwest played an important role in its development as a commercial center. Cleveland served as a destination for iron ore shipped from Minnesota, along with coal transported by rail. In 1870, John D. Rockefeller founded Standard Oil in Cleveland. In 1885, he moved its headquarters to New York City, which had become a center of finance and business.[20]
 
 By the early 20th century, Cleveland had emerged as a major American manufacturing center. Its businesses included automotive companies such as Peerless, People's, Jordan, Chandler, and Winton, maker of the first car driven across the U.S. Other manufacturers in Cleveland produced steam-powered cars, which included White and Gaeth, as well as the electric car company Baker.[21]
 
-Johnson_photo_P&P.jpg.]] Known as the "Sixth City" due to its position as the sixth largest U.S. city at the time, Cleveland counted major Progressive Era politicians among its leaders, most prominently the populist Mayor Tom L. Johnson, who was responsible for the development of the Cleveland Mall Plan.[22][23][24] The era of the City Beautiful movement in Cleveland architecture, this period also saw wealthy patrons support the establishment of the city's major cultural institutions. The most prominent among them were the Cleveland Museum of Art, which opened in 1916, and the Cleveland Orchestra, established in 1918.[25][26]
+.]] Known as the "Sixth City" due to its position as the sixth largest U.S. city at the time, Cleveland counted major Progressive Era politicians among its leaders, most prominently the populist Mayor Tom L. Johnson, who was responsible for the development of the Cleveland Mall Plan.[22][23][24] The era of the City Beautiful movement in Cleveland architecture, this period also saw wealthy patrons support the establishment of the city's major cultural institutions. The most prominent among them were the Cleveland Museum of Art, which opened in 1916, and the Cleveland Orchestra, established in 1918.[25][26]
 
 Cleveland's economic growth and industrial jobs attracted large waves of immigrants from Southern and Eastern Europe as well as Ireland.[27] African American migrants from the rural South also arrived in Cleveland (among other Northeastern and Midwestern cities) as part of the Great Migration for jobs, constitutional rights, and relief from racial discrimination.[28] By 1920, the year in which the Cleveland Indians won their first World Series championship, Cleveland's population reached 796,841 with a foreign-born population of 30%, making it the fifth largest city in the nation.[29][30] At this time, Cleveland saw the rise of radical labor movements in response to the conditions of the largely immigrant and migrant workers. In 1919, the city attracted national attention during the First Red Scare for the Cleveland May Day Riots, in which socialist demonstrators clashed with anti-socialists.[31]
 
 Despite the immigration restrictions of 1921 and 1924, the city's population continued to grow throughout the 1920s. Prohibition first took effect in Ohio in May 1919 (although it was not well-enforced in Cleveland), became law with the Volstead Act in 1920, and was eventually repealed nationally by Congress in 1933.[32] The ban on alcohol led to the rise of speakeasies throughout the city and organized crime gangs, such as the Mayfield Road Mob, who smuggled bootleg liquor across Lake Erie from Canada into Cleveland.[33][34] The 1920s also saw the establishment of Cleveland's Playhouse Square and the rise of the scandalous Short Vincent entertainment district.[35][36][37] Jazz came to prominence in the city during this period.[38]
 
-terminal-tower-construction.jpg under construction in 1927.]] In 1929, Cleveland hosted the first of many National Air Races.[39] Construction of the Terminal Tower skyscraper commenced in 1926 and, by the time it was dedicated in 1930, Cleveland had a population of over 900,000.[40][41] This period also marked the beginning of the golden age in Downtown Cleveland retail, centered on major department stores Higbee's, Halle's, the May Company, and Sterling-Lindner Co., which collectively represented one of the largest shopping districts in the country, often compared to New York's Fifth Avenue.[42]
+under construction in 1927.]] In 1929, Cleveland hosted the first of many National Air Races.[39] Construction of the Terminal Tower skyscraper commenced in 1926 and, by the time it was dedicated in 1930, Cleveland had a population of over 900,000.[40][41] This period also marked the beginning of the golden age in Downtown Cleveland retail, centered on major department stores Higbee's, Halle's, the May Company, and Sterling-Lindner Co., which collectively represented one of the largest shopping districts in the country, often compared to New York's Fifth Avenue.[42]
 
 In commemoration of the centennial of Cleveland's incorporation as a city, the Great Lakes Exposition debuted in June 1936 along the Lake Erie shore north of downtown. Conceived as a way to energize the city after the Great Depression, it drew four million visitors in its first season, and seven million by the end of its second and final season in September 1937.[43] The exposition was housed on grounds now used by the Great Lakes Science Center, the Rock and Roll Hall of Fame, and Burke Lakefront Airport, among others.[44] During World War II, Cleveland contributed massively the U.S. war effort as a major center for manufacturing.[45]
 
@@ -39,7 +37,7 @@ Late 20th and early 21st centuries
 
 After the war, Cleveland continued to enjoy a prosperous economy. Businesses proclaimed Cleveland as the "best location in the nation".[46][47] In 1949, the city was named an All-America City for the first time and in 1950, its population reached 914,808.[48][49] In sports, the Indians won the 1948 World Series, the hockey team, the Barons, became champions of the American Hockey League, and the Browns dominated professional football in the 1950s. As a result, along with track and boxing champions produced, Cleveland was declared the "City of Champions" in sports at this time. The 1950s also witnessed the rising popularity of a new genre of music that local WJW (AM) disc jockey Alan Freed dubbed "rock and roll."[50]
 
-Downtown_Cleveland,_Ohio,_in_winter,_from_the_air,_12-1937_-_NARA_-_512842.jpg winds through the Flats in a December 1937 aerial view of downtown Cleveland.]] However, by the 1960s, Cleveland's economy began to slow down, and residents sought new housing in the suburbs, reflecting the national trends of suburban growth following federally subsidized highways.[51] Industrial restructuring, particularly in the railroad and steel industries, resulted in the loss of numerous jobs in Cleveland and the region, and the city suffered economically. The burning of the Cuyahoga River in June 1969 brought national attention to the issue of industrial pollution in Cleveland and served as a catalyst for the American environmental movement.[52]
+winds through the Flats in a December 1937 aerial view of downtown Cleveland.]] However, by the 1960s, Cleveland's economy began to slow down, and residents sought new housing in the suburbs, reflecting the national trends of suburban growth following federally subsidized highways.[51] Industrial restructuring, particularly in the railroad and steel industries, resulted in the loss of numerous jobs in Cleveland and the region, and the city suffered economically. The burning of the Cuyahoga River in June 1969 brought national attention to the issue of industrial pollution in Cleveland and served as a catalyst for the American environmental movement.[52]
 
 Housing discrimination and redlining against African Americans led to racial unrest in Cleveland and numerous other Northern U.S. cities.[53][54] In Cleveland, the Hough riots erupted from July 18 to 23, 1966 and the Glenville Shootout took place from July 23 to 25, 1968.[55] In November 1967, Cleveland became the first major American city to elect an African American mayor, Carl B. Stokes, who served from 1968 to 1971.[56]
 
@@ -62,8 +60,6 @@ Cityscapes
 
 Architecture
 
-Saint_Theodosius_Russian_Orthodox_Cathedral_(Cleveland,_Ohio)_-_exterior_photographed_from_A_Christmas_Story_House_property.jpg
-
 Cleveland's downtown architecture is diverse. Many of the city's government and civic buildings, including City Hall, the Cuyahoga County Courthouse, the Cleveland Public Library, and Public Auditorium, are clustered around the open Cleveland Mall and share a common neoclassical architecture. Built in the early 20th century, they are the result of the 1903 Group Plan. They constitute one of the most complete examples of City Beautiful design in the United States.[72]
 
 The Terminal Tower, dedicated in 1930, was the tallest building in North America outside New York City until 1964 and the tallest in the city until 1991.[73] It is a prototypical Beaux-Arts skyscraper. The two newer skyscrapers on Public Square, Key Tower (currently the tallest building in Ohio) and the 200 Public Square, combine elements of Art Deco architecture with postmodern designs. Another of Cleveland's architectural treasures is The Arcade (sometimes called the Old Arcade), a five-story arcade built in 1890 and renovated in 2001 as a Hyatt Regency Hotel.[74]
@@ -72,17 +68,15 @@ Cleveland's landmark ecclesiastical architecture includes the historic Old Stone
 
 Running east from Public Square through University Circle is Euclid Avenue, which was known for its prestige and elegance as a residential street. In the late 1880s, writer Bayard Taylor described it as "the most beautiful street in the world".[76] Known as "Millionaire's Row", Euclid Avenue was world-renowned as the home of such major figures as John D. Rockefeller, Mark Hanna, and John Hay.[77]
 
-Bridge_in_Cleveland,_Ohio.jpg and the Cuyahoga River in downtown Cleveland.]]
+and the Cuyahoga River in downtown Cleveland.]]
 
 Neighborhoods
 
 Downtown Cleveland is centered on Public Square and includes a wide range of districts. It contains the traditional Financial District and Civic Center, as well as the Cleveland Theater District, which is home to Playhouse Square Center. Mixed-use neighborhoods, such as the Flats and the Warehouse District, are occupied by industrial and office buildings as well as restaurants and bars. The number of downtown housing units, in the form of condominiums, lofts, and apartments, has been on the increase since 2000. Recent developments include the revival of the Flats, the Euclid Corridor Project, and the developments along East 4th Street.[78][79] Cleveland residents geographically define themselves in terms of whether they live on the east or west side of the Cuyahoga River.[80] The east side includes the neighborhoods of Buckeye-Shaker, Central, Collinwood, Corlett, Euclid-Green, Fairfax, Forest Hills, Glenville, Payne/Goodrich-Kirtland Park, Hough, Kinsman, Lee Harvard/Seville-Miles, Mount Pleasant, Nottingham, St. Clair-Superior, Union-Miles Park, University, Little Italy, and Woodland Hills. The west side includes the neighborhoods of Brooklyn Centre, Clark-Fulton, Detroit-Shoreway, Cudell, Edgewater, Ohio City, Tremont, Old Brooklyn, Stockyards, West Boulevard, and the four neighborhoods colloquially known as West Park: Kamm's Corners, Jefferson, Puritas-Longmead, and Riverside. Three neighborhoods in the Cuyahoga Valley are sometimes referred to as the south side: Industrial Valley/Duck Island, Slavic Village (North and South Broadway), and Tremont.
 
-Cleveland_Annexation_Map_4-Color_Final.png
-
 Several neighborhoods have begun to attract the return of the middle class that left the city for the suburbs in the 1960s and 1970s. These neighborhoods are on both the west side (Ohio City, Tremont, Detroit-Shoreway, and Edgewater) and the east side (Collinwood, Hough, Fairfax, and Little Italy). Much of the growth has been spurred on by attracting creative class members, which in turn is spurring new residential development.[81] Furthermore, a live-work zoning overlay for the city's near east side has facilitated the transformation of old industrial buildings into loft spaces for artists.[82]
 
-ISS-34_Night_view_of_Cleveland,_Ohio.jpg satellite photograph of Cleveland and its surrounding suburbs at night.]]
+satellite photograph of Cleveland and its surrounding suburbs at night.]]
 
 Suburbs
 
@@ -116,13 +110,13 @@ Demographics
 
 As of the census[96] of 2010, there were 396,698 people, 167,490 households, and 89,821 families residing in the city. The population density was . There were 207,536 housing units at an average density of . The racial makeup of the city was 53.3% African American, 37.3% White, 0.3% Native American, 1.8% Asian, 4.4% from other races, and 2.8% from two or more races. Hispanic or Latino of any race were 10.0% of the population.[97]
 
-Shiloh_Baptist_Church_Cleveland_Ohio.jpg There were 167,490 households of which 29.7% had children under the age of 18 living with them, 22.4% were married couples living together, 25.3% had a female householder with no husband present, 6.0% had a male householder with no wife present, and 46.4% were non-families. 39.5% of all households were made up of individuals and 10.7% had someone living alone who was 65 years of age or older. The average household size was 2.29 and the average family size was 3.11.
+There were 167,490 households of which 29.7% had children under the age of 18 living with them, 22.4% were married couples living together, 25.3% had a female householder with no husband present, 6.0% had a male householder with no wife present, and 46.4% were non-families. 39.5% of all households were made up of individuals and 10.7% had someone living alone who was 65 years of age or older. The average household size was 2.29 and the average family size was 3.11.
 
 The median age in the city was 35.7 years. 24.6% of residents were under the age of 18; 11% were between the ages of 18 and 24; 26.1% were from 25 to 44; 26.3% were from 45 to 64; and 12% were 65 years of age or older. The gender makeup of the city was 48.0% male and 52.0% female.
 
 2000 census
 
-Race_and_ethnicity_2010-_Cleveland_(5560462500).png As of the census of 2000, there were 478,403 people, 190,638 households, and 111,904 families residing in the city. The population density was . There were 215,856 housing units at an average density of . The racial makeup of the city was 51.0% African American, 41.5% White, 0.3% Native American, 1.3% Asian, 0.0% Pacific Islander, 3.6% from other races, and 2.2% from two or more races. Hispanic or Latinos of any race were 7.3% of the population.[98] Ethnic groups include Germans (15.2%), Irish (10.9%), English (8.7%), Italian (5.6%), Poles (3.2%), and French (3.0%). Out of the total population, 4.5% were foreign born; of which 41.2% were born in Europe, 29.1% Asia, 22.4% Latin American, 5.0% Africa, and 1.9% Northern America.[99]
+As of the census of 2000, there were 478,403 people, 190,638 households, and 111,904 families residing in the city. The population density was . There were 215,856 housing units at an average density of . The racial makeup of the city was 51.0% African American, 41.5% White, 0.3% Native American, 1.3% Asian, 0.0% Pacific Islander, 3.6% from other races, and 2.2% from two or more races. Hispanic or Latinos of any race were 7.3% of the population.[98] Ethnic groups include Germans (15.2%), Irish (10.9%), English (8.7%), Italian (5.6%), Poles (3.2%), and French (3.0%). Out of the total population, 4.5% were foreign born; of which 41.2% were born in Europe, 29.1% Asia, 22.4% Latin American, 5.0% Africa, and 1.9% Northern America.[99]
 
 Out of 190,638 households, 29.9% have children under the age of 18 living with them, 28.5% were married couples living together, 24.8% had a female householder with no husband present, and 41.3% were nonfamilies. 35.2% of all households were made up of individuals and 11.1% had someone living alone who is 65 years of age or older. The average household size was 2.44 and the average family size was 3.19. The age distribution of the population shows 28.5% under the age of 18, 9.5% from 18 to 24, 30.4% from 25 to 44, 19.0% from 45 to 64, and 12.5% who are 65 years of age or older. The median age was 33 years. For every 100 females, there were 90.0 males. For every 100 females age 18 and over, there were 85.2 males.
 
@@ -132,18 +126,18 @@ Language and Ethnicity
 
 , 88.4% (337,658) of Cleveland residents age 5 and older spoke English at home as a primary language, while 7.1% (27,262) spoke Spanish, 0.6% (2,200) Arabic, and 0.5% (1,960) Chinese. In addition 0.9% (3,364) spoke a Slavic language (1,279 – Polish, 679 Serbo-Croatian, and 485 Russian). In total, 11.6% (44,148) of Cleveland's population age 5 and older spoke a language other than English.[101]
 
-Feast_of_the_Assumption_in_Little_Italy_Cleveland_(36388057482).jpg in Cleveland's Little Italy.]] In the late 19th and early 20th centuries, Cleveland saw a massive influx of immigrants from Ireland, Italy, and the Austro-Hungarian, German, Russian, and Ottoman Empires, most of whom were attracted by manufacturing jobs.[102] As a result, Cleveland and Cuyahoga County today have substantial communities of Irish (especially in West Park), Italians (especially in Little Italy and around Mayfield Road), Germans, and several Central-Eastern European ethnicities, including Czechs, Hungarians, Lithuanians, Poles, Romanians, Russians, Rusyns, Slovaks, Ukrainians, and ex-Yugoslav groups, such as Slovenes, Croats, and Serbs.[103][104] The presence of Hungarians within Cleveland proper was, at one time, so great that the city boasted the highest concentration of Hungarians in the world outside of Budapest.[105] Cleveland also has a long-established Jewish community, historically centered on the East Side neighborhoods of Glenville and Kinsman, but now mostly concentrated in East Side suburbs such as Beachwood, home to the Maltz Museum of Jewish Heritage.[106] The availability of jobs attracted African Americans from the South. Between 1920 and 1970, the black population of Cleveland, largely concentrated on the city's East Side, increased significantly as a result of the First and Second Great Migrations.[107] Cleveland's Latino community consists primarily of Puerto Ricans, while the city's Asian community, centered on historical Asiatown, consists of Chinese, Koreans, Vietnamese, and other groups.[108][109] Additionally, the city and the county have significant communities of Arabs, Armenians, French, Greeks, Scots, Turks, and West Indians.[110]
+in Cleveland's Little Italy.]] In the late 19th and early 20th centuries, Cleveland saw a massive influx of immigrants from Ireland, Italy, and the Austro-Hungarian, German, Russian, and Ottoman Empires, most of whom were attracted by manufacturing jobs.[102] As a result, Cleveland and Cuyahoga County today have substantial communities of Irish (especially in West Park), Italians (especially in Little Italy and around Mayfield Road), Germans, and several Central-Eastern European ethnicities, including Czechs, Hungarians, Lithuanians, Poles, Romanians, Russians, Rusyns, Slovaks, Ukrainians, and ex-Yugoslav groups, such as Slovenes, Croats, and Serbs.[103][104] The presence of Hungarians within Cleveland proper was, at one time, so great that the city boasted the highest concentration of Hungarians in the world outside of Budapest.[105] Cleveland also has a long-established Jewish community, historically centered on the East Side neighborhoods of Glenville and Kinsman, but now mostly concentrated in East Side suburbs such as Beachwood, home to the Maltz Museum of Jewish Heritage.[106] The availability of jobs attracted African Americans from the South. Between 1920 and 1970, the black population of Cleveland, largely concentrated on the city's East Side, increased significantly as a result of the First and Second Great Migrations.[107] Cleveland's Latino community consists primarily of Puerto Ricans, while the city's Asian community, centered on historical Asiatown, consists of Chinese, Koreans, Vietnamese, and other groups.[108][109] Additionally, the city and the county have significant communities of Arabs, Armenians, French, Greeks, Scots, Turks, and West Indians.[110]
 
 In 1920, Cleveland proper boasted a foreign-born population of 30% and, in 1870, that percentage was 42%.[111] Although the foreign-born population of Cleveland today is not as big as it once was, the sense of identity remains strong among the city's various ethnic communities, as reflected in the Cleveland Cultural Gardens in Rockefeller Park. There are many ethnic festivals held in Cleveland throughout the year, such as the annual Feast of the Assumption in Little Italy, the Harvest Festival in Slavic Village, and the Cleveland Asian Festival in Asiatown. Vendors at the West Side Market in Ohio City offer many ethnic foods for sale. Cleveland hosts an annual parade on Saint Patrick's Day that brings hundreds of thousands to the streets of downtown.[112] Recent waves of immigration to Cleveland have brought new groups to the city, including additional numbers of Russians and other nationalities from the former Soviet Union, as well as Albanians, Ethiopians, and South Asians.[113][114][115][116] In the 2010s, the immigrant population of Cleveland and Cuyahoga County began to see significant growth, becoming one of the fastest growing centers for immigration in the Great Lakes region.[117] A 2019 study found Cleveland to be the city with the shortest average processing time in the nation for immigrants to become US citizens.[118]
 
 
 Economy
 
-Flats_-_1_(13966708395).jpg from the Superior Viaduct at night.]] Cleveland's location on the Cuyahoga River and Lake Erie has been key to its growth. The Ohio and Erie Canal coupled with rail links helped the city become an important business center. Steel and many other manufactured goods emerged as leading industries.[119]
+from the Superior Viaduct at night.]] Cleveland's location on the Cuyahoga River and Lake Erie has been key to its growth. The Ohio and Erie Canal coupled with rail links helped the city become an important business center. Steel and many other manufactured goods emerged as leading industries.[119]
 
 The city diversified its economy in addition to its manufacturing sector. Cleveland is home to the corporate headquarters of many large companies such as Applied Industrial Technologies, Cliffs Natural Resources, Forest City Enterprises, NACCO Industries, Sherwin-Williams Company, and KeyCorp. NASA maintains a facility in Cleveland, the Glenn Research Center. Jones Day, one of the largest law firms in the U.S., was founded in Cleveland.[120] In 2007, Cleveland's commercial real estate market experienced rebound with a record pace of purchases,[121][122] with a housing vacancy of 10%.[123][124]
 
-Cleveland_(36654492264).jpg The Cleveland Clinic is the largest private employer in the city of Cleveland and the state of Ohio, with a workforce of over 50,000 .[125] It carries the distinction as being among America's best hospitals with top ratings published in _U.S. News & World Report_.[126] Cleveland's healthcare sector also includes University Hospitals of Cleveland, a renowned center for cancer treatment,[127] MetroHealth medical center, and the insurance company Medical Mutual of Ohio. Cleveland is also noted in the fields of biotechnology and fuel cell research, led by Case Western Reserve University, the Cleveland Clinic, and University Hospitals of Cleveland. The city is among the top recipients of investment for biotech start-ups and research.[128] Case Western Reserve, the Clinic, and University Hospitals have recently announced plans to build a large biotechnology research center and incubator on the site of the former Mount Sinai Hospital, creating a research campus to stimulate biotech startup companies that can be spun off from research conducted in the city.[129]
+The Cleveland Clinic is the largest private employer in the city of Cleveland and the state of Ohio, with a workforce of over 50,000 .[125] It carries the distinction as being among America's best hospitals with top ratings published in _U.S. News & World Report_.[126] Cleveland's healthcare sector also includes University Hospitals of Cleveland, a renowned center for cancer treatment,[127] MetroHealth medical center, and the insurance company Medical Mutual of Ohio. Cleveland is also noted in the fields of biotechnology and fuel cell research, led by Case Western Reserve University, the Cleveland Clinic, and University Hospitals of Cleveland. The city is among the top recipients of investment for biotech start-ups and research.[128] Case Western Reserve, the Clinic, and University Hospitals have recently announced plans to build a large biotechnology research center and incubator on the site of the former Mount Sinai Hospital, creating a research campus to stimulate biotech startup companies that can be spun off from research conducted in the city.[129]
 
 City leaders have recently promoted the growth of the technology sector. Former mayor Jane L. Campbell appointed a "tech czar" to recruit technology companies to the downtown office market, offering connections to the high-speed fiber networks that run underneath downtown streets in several "high-tech offices" focused on Euclid Avenue. Cleveland State University hired a technology transfer officer to cultivate technology transfers from CSU research to marketable ideas and companies in the Cleveland area.
 
@@ -152,7 +146,7 @@ Culture
 
 Performing arts
 
-Cleveland_Museum_of_Art_(8687300870).jpg lies at the edge of Wade Lagoon in University Circle.]] Cleveland is home to Playhouse Square, the second largest performing arts center in the United States behind New York City's Lincoln Center.[130] Playhouse Square includes the State, Palace, Allen, Hanna, and Ohio theaters within what is known as the Cleveland Theater District.[131] Playhouse Square's resident performing arts companies include Cleveland Play House, Cleveland State University Department of Theatre and Dance, the Great Lakes Theater Festival, and the Cleveland Ballet. The center hosts Broadway musicals, special concerts, speaking engagements, and other events throughout the year.[132]
+lies at the edge of Wade Lagoon in University Circle.]] Cleveland is home to Playhouse Square, the second largest performing arts center in the United States behind New York City's Lincoln Center.[130] Playhouse Square includes the State, Palace, Allen, Hanna, and Ohio theaters within what is known as the Cleveland Theater District.[131] Playhouse Square's resident performing arts companies include Cleveland Play House, Cleveland State University Department of Theatre and Dance, the Great Lakes Theater Festival, and the Cleveland Ballet. The center hosts Broadway musicals, special concerts, speaking engagements, and other events throughout the year.[132]
 
 One Playhouse Square, now the headquarters for Cleveland's public broadcasters, was initially used as the broadcast studios of WJW (AM), where disc jockey Alan Freed first popularized the term "rock and roll".[133] Cleveland gained a strong reputation in rock music in the 1960s and 70s as a key breakout market for nationally promoted acts and performers. The city hosted the "World Series of Rock" at Cleveland Municipal Stadium, which was notable high-attendance events. Located between Playhouse Square and University Circle is Karamu House, the oldest African-American theater in the United States, founded in the 1920s.[134]
 
@@ -166,7 +160,7 @@ There are two main art museums in Cleveland. The Cleveland Museum of Art is a ma
 
 The Gordon Square Arts District on Detroit Avenue, in the Detroit-Shoreway neighborhood, is the location of the Capitol Theatre and an Off-Off-Broadway Playhouse, the Cleveland Public Theatre. Each spring, the campus of Cleveland State University hosts the Cleveland Thyagaraja Festival, the largest South Indian classical music festival next to Chennai's December Season.[143]
 
-Cleveland_Playhouse_Square_(13917560487).jpg is the second largest performing arts center in the U.S. after New York City's Lincoln Center. It was also the city's main movie theater district during the Golden Age of Hollywood.]]
+is the second largest performing arts center in the U.S. after New York City's Lincoln Center. It was also the city's main movie theater district during the Golden Age of Hollywood.]]
 
 Film and television
 
@@ -192,7 +186,7 @@ The Cleveland State University Poetry Center serves as an academic center for po
 
 Cleveland is the site of the Anisfield-Wolf Book Award, established by poet and philanthropist Edith Anisfield Wolf in 1935, which recognizes books that have made important contributions to understanding of racism and human diversity.[167] Presented by the Cleveland Foundation, it remains the only American book prize focusing on works that address racism and diversity.[168] In an early Gay and lesbian studies anthology titled Lavender Culture,[169] a short piece by John Kelsey "The Cleveland Bar Scene in the Forties" discusses the gay and lesbian culture in Cleveland and the unique experiences of amateur female impersonators that existed alongside the New York and San Francisco LGBT subcultures.[170]
 
-West_Side_Market_1st_Saturday_Open_after_the_Fire_(8503339399).jpg in Cleveland's Ohio City neighborhood.]]
+in Cleveland's Ohio City neighborhood.]]
 
 Cuisine
 
@@ -204,13 +198,13 @@ Cleveland is noted in the world of celebrity food culture. Famous local figures 
 
 The national food press—including publications _Gourmet_, _Food & Wine_, _Esquire_ and _Playboy_—has heaped praise on several Cleveland spots for awards including 'best new restaurant', 'best steakhouse', 'best farm-to-table programs' and 'great new neighborhood eateries'. In early 2008, the _Chicago Tribune_ ran a feature article in its 'Travel' section proclaiming Cleveland, America's "hot new dining city".[178]
 
-Rock_and_Roll_Hall_of_Fame.jpg on the shores of Lake Erie.]]
+on the shores of Lake Erie.]]
 
 Tourism
 
 east of downtown Cleveland is University Circle, a concentration of cultural, educational, and medical institutions, including the Cleveland Botanical Garden, Case Western Reserve University, University Hospitals, Severance Hall, the Cleveland Museum of Art, the Cleveland Museum of Natural History, and the Western Reserve Historical Society. A 2011 study by Walk Score ranked Cleveland 17th most walkable of fifty largest U.S. cities.[179] Cleveland is home to the I. M. Pei-designed Rock and Roll Hall of Fame on the Lake Erie waterfront at North Coast Harbor downtown. Neighboring attractions include Cleveland Browns Stadium, the Great Lakes Science Center, the Steamship Mather Museum, and the , a World War II submarine.[180] Cleveland has an attraction for visitors and fans of _A Christmas Story_: A Christmas Story House and Museum to see props, costumes, rooms, photos and other materials related to the Jean Shepherd film.
 
-Cleveland_Botanical_Garden_-_interior_2.jpg recreates a Costa Rican rain forest.]] Fashion Week Cleveland, the city's annual fashion event, is the third-largest fashion show of its kind in the United States.[181] Cleveland also hosted the CMJ Rock Hall Music Fest, which featured national and local acts, including both established artists and up-and-coming acts, but the festival was discontinued in 2007 due to financial and manpower costs to the Rock Hall.[182] The annual Ingenuity Fest, Notacon and TEDxCLE conference focus on the combination of art and technology.[183][184] The Cleveland International Film Festival has been held annually since 1977, and it drew a record 106,000 people in 2017. Cleveland also hosts an annual holiday display lighting and celebration, dubbed Winterfest, which is held downtown at the city's historic hub, Public Square.[185]
+recreates a Costa Rican rain forest.]] Fashion Week Cleveland, the city's annual fashion event, is the third-largest fashion show of its kind in the United States.[181] Cleveland also hosted the CMJ Rock Hall Music Fest, which featured national and local acts, including both established artists and up-and-coming acts, but the festival was discontinued in 2007 due to financial and manpower costs to the Rock Hall.[182] The annual Ingenuity Fest, Notacon and TEDxCLE conference focus on the combination of art and technology.[183][184] The Cleveland International Film Festival has been held annually since 1977, and it drew a record 106,000 people in 2017. Cleveland also hosts an annual holiday display lighting and celebration, dubbed Winterfest, which is held downtown at the city's historic hub, Public Square.[185]
 
 Cleveland also has the Jack Cleveland Casino. Phase I opened on May 14, 2012, on Public Square, in the historic former Higbee's Building at Tower City Center. There are currently no plans to expand the casino.
 
@@ -219,11 +213,11 @@ The new Greater Cleveland Aquarium is on the west bank of the Cuyahoga River nea
 
 Sports
 
-Cavs_Opener_6512.jpg pregame festivities at Quicken Loans Arena.]]
+pregame festivities at Quicken Loans Arena.]]
 
 Cleveland's current major professional sports teams include the Cleveland Indians (Major League Baseball), Cleveland Browns (National Football League), and Cleveland Cavaliers (National Basketball Association). Local sporting facilities include Progressive Field, FirstEnergy Stadium, Quicken Loans Arena and the Wolstein Center.
 
-The Cleveland Indians won the World Series in 1920 and 1948. They also won the American League pennant, making the World Series in the 1954, 1995, 1997, and 2016 seasons. Between 1995 and 2001, Progressive Field (then known as Jacobs Field) sold out 455 consecutive games, a Major League Baseball record until it was broken in 2008.[187] Browns_Stadium-2.jpg games attract large crowds to FirstEnergy Stadium.]]
+The Cleveland Indians won the World Series in 1920 and 1948. They also won the American League pennant, making the World Series in the 1954, 1995, 1997, and 2016 seasons. Between 1995 and 2001, Progressive Field (then known as Jacobs Field) sold out 455 consecutive games, a Major League Baseball record until it was broken in 2008.[187] games attract large crowds to FirstEnergy Stadium.]]
 
 Historically, the Browns have been among the most successful franchises in American football history, winning eight titles during a short period of time—1946, 1947, 1948, 1949, 1950, 1954, 1955, and 1964. The Browns have never played in a Super Bowl, getting close five times by making it to the NFL/AFC Championship Game in 1968, 1969, 1986, 1987, and 1989. Former owner Art Modell's relocation of the Browns after the 1995 season (to Baltimore creating the Ravens), caused tremendous heartbreak and resentment among local fans.[188] Cleveland mayor, Michael R. White, worked with the NFL and Commissioner Paul Tagliabue to bring back the Browns beginning in 1999 season, retaining all team history.[189] In earlier NFL history, the Cleveland Bulldogs won the NFL Championship in 1924, and the Cleveland Rams won the NFL Championship in 1945 before relocating to Los Angeles.
 
@@ -250,8 +244,6 @@ Cleveland is home to four of the parks in the countywide Cleveland Metroparks sy
 
 
 Government, law, safety
-
-Cleveland_City_Hall.jpg
 
 Politics
 
@@ -325,13 +317,11 @@ Private and Parochial Schools
 -   Saint Martin de Porres
 -   The Bridge Avenue School[223]
 
-Adelbert_Hall.jpg on the campus of Case Western Reserve University.]]
+on the campus of Case Western Reserve University.]]
 
 Colleges and universities
 
 Cleveland is home to a number of colleges and universities. Most prominent among these is Case Western Reserve University, a world-renowned research and teaching institution in University Circle. A private university with several prominent graduate programs, CWRU was ranked 42nd in the nation in 2019 by _U.S. News & World Report_.[224] University Circle also contains Cleveland Institute of Art and the Cleveland Institute of Music. Cleveland State University (CSU), based in Downtown Cleveland, is the city's public four-year university. In addition to CSU, downtown hosts the metropolitan campus of Cuyahoga Community College, the county's two-year higher education institution. Ohio Technical College is also based in Cleveland.[225]
-
-West_bank_of_the_flats_in_Cleveland,_Ohio,_(view_from_lower_deck_of_Detroit-Superior_Bridge).jpg
 
 
 Media
@@ -375,7 +365,7 @@ Walkability
 
 In 2011, Walk Score ranked Cleveland the seventeenth most walkable of the fifty largest cities in the United States.[236] , Walk Score increased Cleveland's rank to being the sixteenth most walkable US city, with a Walk Score of 57, a Transit Score of 47, and a Bike Score of 51. Cleveland's most walkable and transient areas can be found in the Downtown, Ohio City, Detroit-Shoreway, University Circle, and Buckeye-Shaker Square neighborhoods.[237]
 
-Tcleverta.jpg train arrives at the Shaker Square station.]] Streets_of_Cleveland_(16474883675).jpg Guardians_of_Traffic_(30137077771).jpg.]]
+train arrives at the Shaker Square station.]] .]]
 
 Urban transit systems
 
@@ -398,8 +388,6 @@ Two other limited-access highways serve Cleveland. The Cleveland Memorial Shorew
 Airports
 
 Cleveland Hopkins International Airport is the city's major airport and an international airport that once served as a main hub for United Airlines and Continental Airlines. It holds the distinction of having the first airport-to-downtown rapid transit connection in North America, established in 1968. In 1930, the airport was the site of the first airfield lighting system and the first air traffic control tower. Originally known as Cleveland Municipal Airport, it was the first municipally owned airport in the country. Cleveland Hopkins is a significant regional air freight hub hosting FedEx Express, UPS Airlines, United States Postal Service, and major commercial freight carriers. In addition to Hopkins, Cleveland is served by Burke Lakefront Airport, on the north shore of downtown between Lake Erie and the Shoreway. Burke is primarily a commuter and business airport.[244]
-
-Cleveland_Ohio_aerial_view.jpg Cleveland_Skyline_(34826840941).jpg
 
 Seaport
 

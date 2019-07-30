@@ -1,4 +1,4 @@
-Carte_de_la_Guyane_françoise_et_l'isle_de_Cayenne_(Bellin,_1763).jpg (1703–1772) un cartographe affecté au ministère de la Marine française.]]
+(1703–1772) un cartographe affecté au ministère de la Marine française.]]
 
 The HISTORY OF FRENCH GUIANA spans many centuries. Before the first Europeans arrived, there was no written history in the territory. It was originally inhabited by a number of Native American peoples, among them the Kalina (Caribs), Arawak, Emerillon, Galibi, Palikur, Wayampi (also known as Oyampi), and Wayana. The first Europeans arrived in the expeditions of Christopher Columbus, shortly before 1500.
 
@@ -29,13 +29,11 @@ In 1848 France abolished slavery and the ex-slaves fled into the rainforest, set
 
 In 1850 several shiploads of Indians, Malays and Chinese were brought out to work the plantations but, instead, they set up shops in Cayenne and other settlements.
 
-Quartier_-_Disciplinaire,_St._Laurent.jpg, 1954]]
+, 1954]]
 
 In 1852 the first shiploads of chained convicts arrived from France. In 1885, to get rid of habitual criminals and to increase the number of colonists, the French Parliament passed a law that anyone, male or female, who had more than three sentences for theft of more than three months each, would be sent to French Guiana as a _relégué_. These _relégués_ were to be kept in prison there for six months but then freed to become settlers in the colony. However, this experiment failed dismally. The ex-prisoners, unable to make a living off the land found themselves forced to revert to crime or to eke out a hand-to-mouth existence until they died. In fact, transportation to French Guiana as a _relégué_ amounted to a life sentence, and usually a short life sentence, as most of the _relégués_ died very quickly from disease and malnutrition.
 
 The prisoners would arrive at St Laurent du Maroni before being transported to various camps throughout the country. The Iles du Salut were used to house political prisoners and for solitary confinement. The islands became notorious for the brutality of life there, centering on the notorious Devil's Island. Famous figures sent to the islands included Alfred Dreyfus (in 1895) and Henri Charrière (in the 1930s). Charrière managed to escape and later wrote a best-selling book about his experiences called _Papillon_.
-
-Condemned_men's_block,_St._Laurent.jpg
 
 In 1853, gold was discovered in the interior, precipitating border disputes with Brazil and Suriname (these were later settled in 1891, 1899 and 1915, although a small region of the border with Suriname remains in dispute). The Republic of Independent Guyana, in French _La République de la Guyane indépendante_ and commonly referred to by the name of the capital "Counani", was created in the area which was disputed by France (as part of French Guiana) and Brazil in the late nineteenth century.[2]
 

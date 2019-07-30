@@ -1,4 +1,4 @@
-Barter-Chickens_for_Subscription.jpg'', showing a man engaging in barter: offering chickens in exchange for his yearly newspaper subscription.]]
+'', showing a man engaging in barter: offering chickens in exchange for his yearly newspaper subscription.]]
 
 In trade, BARTER (derived from _baretor_[1]) is a system of exchange where participants in a transaction directly exchange goods or services for other goods or services without using a medium of exchange, such as money.[2] Economists distinguish barter from gift economies in many ways; barter, for example, features immediate reciprocal exchange, not delayed in time. Barter usually takes place on a bilateral basis, but may be multilateral (i.e., mediated through a trade exchange). In most developed countries, barter usually only exists parallel to monetary systems to a very limited extent. Market actors use barter as a replacement for money as the method of exchange in times of monetary crisis, such as when currency becomes unstable (e.g., hyperinflation or a deflationary spiral) or simply unavailable for conducting commerce.
 
@@ -47,7 +47,7 @@ History
 
 Silent trade
 
-Olaus_Magnus_-_On_Trade_Without_Using_Money.jpg, 1555]] Other anthropologists have questioned whether barter is typically between "total" strangers, a form of barter known as "silent trade". Silent trade, also called silent barter, dumb barter ("dumb" here used in its old meaning of "mute"), or depot trade, is a method by which traders who cannot speak each other's language can trade without talking. However, Benjamin Orlove has shown that while barter occurs through "silent trade" (between strangers), it also occurs in commercial markets as well. "Because barter is a difficult way of conducting trade, it will occur only where there are strong institutional constraints on the use of money or where the barter symbolically denotes a special social relationship and is used in well-defined conditions. To sum up, multipurpose money in markets is like lubrication for machines - necessary for the most efficient function, but not necessary for the existence of the market itself."[14]
+, 1555]] Other anthropologists have questioned whether barter is typically between "total" strangers, a form of barter known as "silent trade". Silent trade, also called silent barter, dumb barter ("dumb" here used in its old meaning of "mute"), or depot trade, is a method by which traders who cannot speak each other's language can trade without talking. However, Benjamin Orlove has shown that while barter occurs through "silent trade" (between strangers), it also occurs in commercial markets as well. "Because barter is a difficult way of conducting trade, it will occur only where there are strong institutional constraints on the use of money or where the barter symbolically denotes a special social relationship and is used in well-defined conditions. To sum up, multipurpose money in markets is like lubrication for machines - necessary for the most efficient function, but not necessary for the existence of the market itself."[14]
 
 In his analysis of barter between coastal and inland villages in the Trobriand Islands, Keith Hart highlighted the difference between highly ceremonial gift exchange between community leaders, and the barter that occurs between individual households. The haggling that takes place between strangers is possible because of the larger temporary political order established by the gift exchanges of leaders. From this he concludes that barter is "an atomized interaction predicated upon the presence of society" (i.e. that social order established by gift exchange), and not typical between complete strangers.[15]
 
@@ -59,7 +59,7 @@ An example of this would be during the Crisis in Bolivarian Venezuela, when Vene
 
 Exchanges
 
-Trade_with_indians_1820.jpg Economic historian Karl Polanyi has argued that where barter is widespread, and cash supplies limited, barter is aided by the use of credit, brokerage, and money as a unit of account (i.e. used to price items). All of these strategies are found in ancient economies including Ptolemaic Egypt. They are also the basis for more recent barter exchange systems.[18]
+Economic historian Karl Polanyi has argued that where barter is widespread, and cash supplies limited, barter is aided by the use of credit, brokerage, and money as a unit of account (i.e. used to price items). All of these strategies are found in ancient economies including Ptolemaic Egypt. They are also the basis for more recent barter exchange systems.[18]
 
 While one-to-one bartering is practiced between individuals and businesses on an informal basis, organized barter exchanges have developed to conduct third party bartering which helps overcome some of the limitations of barter. A barter exchange operates as a broker and bank in which each participating member has an account that is debited when purchases are made, and credited when sales are made.
 
@@ -69,7 +69,7 @@ Throughout the 18th century, retailers began to abandon the prevailing system of
 
 Utopian socialism
 
-LaborNote.JPG. Scanned from _Equitable Commerce_ by Josiah Warren (1846)]]
+. Scanned from _Equitable Commerce_ by Josiah Warren (1846)]]
 
 The Owenite socialists in Britain and the United States in the 1830s were the first to attempt to organize barter exchanges. Owenism developed a "theory of equitable exchange" as a critique of the exploitative wage relationship between capitalist and labourer, by which all profit accrued to the capitalist. To counteract the uneven playing field between employers and employed, they proposed "schemes of labour notes based on labour time, thus institutionalizing Owen's demand that human labour, not money, be made the standard of value."[20] This alternate currency eliminated price variability between markets, as well as the role of merchants who bought low and sold high. The system arose in a period where paper currency was an innovation. Paper currency was an IOU circulated by a bank (a promise to pay, not a payment in itself). Both merchants and an unstable paper currency created difficulties for direct producers.
 

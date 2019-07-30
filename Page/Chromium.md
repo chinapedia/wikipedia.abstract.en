@@ -17,7 +17,7 @@ Chromium is the first element in the 3d series where the 3d electrons start to s
 
 Bulk
 
-Chromium.jpg Chromium is extremely hard, and is the third hardest element behind carbon (diamond) and boron. Its Mohs hardness is 8.5, which means that it can scratch samples of quartz and topaz, but can be scratched by corundum. Chromium is highly resistant to tarnishing, which makes it useful as a metal that preserves its outermost layer from corroding, unlike other metals such as copper, magnesium, and aluminium.
+Chromium is extremely hard, and is the third hardest element behind carbon (diamond) and boron. Its Mohs hardness is 8.5, which means that it can scratch samples of quartz and topaz, but can be scratched by corundum. Chromium is highly resistant to tarnishing, which makes it useful as a metal that preserves its outermost layer from corroding, unlike other metals such as copper, magnesium, and aluminium.
 
 Chromium has a melting point of 1907 °C (3465 °F), which is relatively low compared to the majority of transition metals. However, it still has the second highest melting point out of all the Period 4 elements, being topped by vanadium by 3 °C (5 °F) at 1910 °C (3470 °F). The boiling point of 2671 °C (4840 °F), however, is comparatively lower, having the third lowest boiling point out of the Period 4 transition metals alone behind manganese and zinc[9]. The electrical resistivity of chromium at 20 °C is 125 nanoohm-meters.
 
@@ -42,7 +42,7 @@ Chemistry and compounds
 
 Chemical properties
 
-Chromium_in_water_pourbiax_diagram.png for chromium in pure water, perchloric acid, or sodium hydroxide[24][25] ]] Chromium is a member of group 6, of the transition metals. Chromium(0) has an electron configuration of [Ar]3d⁵4s¹, owing to the lower energy of the high spin configuration. Chromium exhibits a wide range of oxidation states, but chromium being ionized into a cation with a positive 3 charge serves as chromium's most stable ionic state.[26] The +3 and +6 states occur the most commonly within chromium compounds; charges of +1, +4 and +5 for chromium are rare, but do nevertheless occasionally exist.[27]
+for chromium in pure water, perchloric acid, or sodium hydroxide[24][25] ]] Chromium is a member of group 6, of the transition metals. Chromium(0) has an electron configuration of [Ar]3d⁵4s¹, owing to the lower energy of the high spin configuration. Chromium exhibits a wide range of oxidation states, but chromium being ionized into a cation with a positive 3 charge serves as chromium's most stable ionic state.[26] The +3 and +6 states occur the most commonly within chromium compounds; charges of +1, +4 and +5 for chromium are rare, but do nevertheless occasionally exist.[27]
 
 Common oxidation states
 
@@ -71,7 +71,7 @@ Common oxidation states
 
 Chromium(III)
 
-Chromium(III)-chloride-purple-anhydrous-sunlight.jpg A large number of chromium(III) compounds are known, such as chromium(III) nitrate, chromium(III) acetate, and chromium(III) oxide.[30] Chromium(III) can be obtained by dissolving elemental chromium in acids like hydrochloric acid or sulfuric acid, but it can also be formed through the reduction of chromium(VI) by cytochrome c7.[31] The ion has a similar radius (63 pm) to (radius 50 pm), and they can replace each other in some compounds, such as in chrome alum and alum.
+A large number of chromium(III) compounds are known, such as chromium(III) nitrate, chromium(III) acetate, and chromium(III) oxide.[30] Chromium(III) can be obtained by dissolving elemental chromium in acids like hydrochloric acid or sulfuric acid, but it can also be formed through the reduction of chromium(VI) by cytochrome c7.[31] The ion has a similar radius (63 pm) to (radius 50 pm), and they can replace each other in some compounds, such as in chrome alum and alum.
 
 Chromium(III) tends to form octahedral complexes. Commercially available chromium(III) chloride hydrate is the dark green complex [CrCl₂(H₂O)₄]Cl. Closely related compounds are the pale green [CrCl(H₂O)₅]Cl₂ and violet [Cr(H₂O)₆]Cl₃. If water-free green chromium(III) chloride is dissolved in water, the green solution turns violet after some time as the chloride in the inner coordination sphere is replaced by water. This kind of reaction is also observed with solutions of chrome alum and other water-soluble chromium(III) salts.
 
@@ -85,7 +85,7 @@ Chromium(VI) compounds are oxidants at low or neutral pH. Chromate anions () and
 
 Chromium(VI) halides are known also and include the hexafluoride CrF₆ and chromyl chloride ().[33]
 
-Chrom(VI)-oxid.jpg Sodium chromate is produced industrially by the oxidative roasting of chromite ore with calcium or sodium carbonate. The change in equilibrium is visible by a change from yellow (chromate) to orange (dichromate), such as when an acid is added to a neutral solution of potassium chromate. At yet lower pH values, further condensation to more complex oxyanions of chromium is possible.
+Sodium chromate is produced industrially by the oxidative roasting of chromite ore with calcium or sodium carbonate. The change in equilibrium is visible by a change from yellow (chromate) to orange (dichromate), such as when an acid is added to a neutral solution of potassium chromate. At yet lower pH values, further condensation to more complex oxyanions of chromium is possible.
 
 Both the chromate and dichromate anions are strong oxidizing reagents at low pH:[34]
 
@@ -95,7 +95,7 @@ They are, however, only moderately oxidizing at high pH:[35]
 
     + 4  + 3 e^(−) →  + 5 (ε₀ = −0.13 V)
 
-Chroman_sodný.JPG (Na₂CrO₄)]] Chromium(VI) compounds in solution can be detected by adding an acidic hydrogen peroxide solution. The unstable dark blue chromium(VI) peroxide (CrO₅) is formed, which can be stabilized as an ether adduct .[36]
+(Na₂CrO₄)]] Chromium(VI) compounds in solution can be detected by adding an acidic hydrogen peroxide solution. The unstable dark blue chromium(VI) peroxide (CrO₅) is formed, which can be stabilized as an ether adduct .[36]
 
 Chromic acid has the hypothetical formula . It is a vaguely described chemical, despite many well-defined chromates and dichromates being known. The dark red chromium(VI) oxide , the acid anhydride of chromic acid, is sold industrially as "chromic acid".[37] It can be produced by mixing sulfuric acid with dichromate, and is a strong oxidizing agent.
 
@@ -107,12 +107,12 @@ Compounds of chromium(IV) are slightly more common than those of chromium(V). Th
 
 Many chromium(II) compounds are known, such as the water-stable chromium(II) chloride that can be made by reducing chromium(III) chloride with zinc. The resulting bright blue solution created from dissolving chromium(II) chloride is only stable at neutral pH.[39] Some other notable chromium(II) compounds include chromium(II) oxide , and chromium(II) sulfate . Many chromous carboxylates are known as well, the most famous of these being the red chromium(II) acetate (Cr₂(O₂CCH₃)₄) that features a quadruple bond.[40]
 
-Most chromium(I) compounds are obtained solely by oxidation of electron-rich, octahedral chromium(0) complexes. Other chromium(I) complexes contain cyclopentadienyl ligands. As verified by X-ray diffraction, a Cr-Cr quintuple bond (length 183.51(4)  pm) has also been described.[41] Extremely bulky monodentate ligands stabilize this compound by shielding the quintuple bond from further reactions. 5-fold_chromium.pngMost chromium(0) compounds are derivatives of the compounds chromium hexacarbonyl or bis(benzene)chromium.[42]
+Most chromium(I) compounds are obtained solely by oxidation of electron-rich, octahedral chromium(0) complexes. Other chromium(I) complexes contain cyclopentadienyl ligands. As verified by X-ray diffraction, a Cr-Cr quintuple bond (length 183.51(4)  pm) has also been described.[41] Extremely bulky monodentate ligands stabilize this compound by shielding the quintuple bond from further reactions. Most chromium(0) compounds are derivatives of the compounds chromium hexacarbonyl or bis(benzene)chromium.[42]
 
 
 Occurrence
 
-Crocoite_from_Tasmania.jpg (PbCrO₄)]] Chromit_1.jpg ore]] Chromium is the 13th most abundant element in Earth's crust with an average concentration of 100 ppm.[43] Chromium compounds are found in the environment from the erosion of chromium-containing rocks, and can be redistributed by volcanic eruptions. Typical background concentrations of chromium in environmental media are: atmosphere <10 ng m^(−3); soil <500 mg kg^(−1); vegetation <0.5 mg kg^(−1); freshwater <10 μg L^(−1); seawater <1 μg L^(−1); sediment <80 mg kg^(−1).[44] Chromium is mined as chromite (FeCr₂O₄) ore.[45]
+(PbCrO₄)]] ore]] Chromium is the 13th most abundant element in Earth's crust with an average concentration of 100 ppm.[43] Chromium compounds are found in the environment from the erosion of chromium-containing rocks, and can be redistributed by volcanic eruptions. Typical background concentrations of chromium in environmental media are: atmosphere <10 ng m^(−3); soil <500 mg kg^(−1); vegetation <0.5 mg kg^(−1); freshwater <10 μg L^(−1); seawater <1 μg L^(−1); sediment <80 mg kg^(−1).[44] Chromium is mined as chromite (FeCr₂O₄) ore.[45]
 
 About two-fifths of the chromite ores and concentrates in the world are produced in South Africa, about a third in Kazakhstan,[46] while India, Russia, and Turkey are also substantial producers. Untapped chromite deposits are plentiful, but geographically concentrated in Kazakhstan and southern Africa.[47] Although rare, deposits of native chromium exist.[48][49] The Udachnaya Pipe in Russia produces samples of the native metal. This mine is a kimberlite pipe, rich in diamonds, and the reducing environment helped produce both elemental chromium and diamonds.[50]
 
@@ -129,7 +129,7 @@ Early applications
 
 Chromium minerals as pigments came to the attention of the west in the 18th century. On 26 July 1761, Johann Gottlob Lehmann found an orange-red mineral in the Beryozovskoye mines in the Ural Mountains which he named _Siberian red lead_.[56][57] Though misidentified as a lead compound with selenium and iron components, the mineral was in fact crocoite with a formula of PbCrO₄.[58] In 1770, Peter Simon Pallas visited the same site as Lehmann and found a red lead mineral that was discovered to possess useful properties as a pigment in paints. After Pallas, the use of Siberian red lead as a paint pigment began to develop rapidly throughout the region.[59] Crocoite would be the principal source of chromium in pigments until the discovery of chromite many years later.[60]
 
-Cut_Ruby.jpg.]]
+.]]
 
 In 1794, Louis Nicolas Vauquelin received samples of crocoite ore. He produced chromium trioxide (CrO₃) by mixing crocoite with hydrochloric acid.[61] In 1797, Vauquelin discovered that he could isolate metallic chromium by heating the oxide in a charcoal oven, for which he is credited as the one who truly discovered the element.[62][63] Vauquelin was also able to detect traces of chromium in precious gemstones, such as ruby and emerald.[64][65]
 
@@ -140,13 +140,13 @@ Chromium is also famous for its reflective, metallic luster when polished. It is
 
 Production
 
-Chrom_1.jpg]] upright=1.4 Chromium_zone_refined_and_1cm3_cube.jpg Approximately 28.8 million metric tons (Mt) of marketable chromite ore was produced in 2013, and converted into 7.5 Mt of ferrochromium.[69] According to John F. Papp, writing for the USGS, "Ferrochromium is the leading end use of chromite ore, [and] stainless steel is the leading end use of ferrochromium."[70]
+]] upright=1.4 Approximately 28.8 million metric tons (Mt) of marketable chromite ore was produced in 2013, and converted into 7.5 Mt of ferrochromium.[69] According to John F. Papp, writing for the USGS, "Ferrochromium is the leading end use of chromite ore, [and] stainless steel is the leading end use of ferrochromium."[70]
 
 The largest producers of chromium ore in 2013 have been South Africa (48%), Kazakhstan (13%), Turkey (11%), India (10%) with several other countries producing the rest of about 18% of the world production.[71]
 
 The two main products of chromium ore refining are ferrochromium and metallic chromium. For those products the ore smelter process differs considerably. For the production of ferrochromium, the chromite ore (FeCr₂O₄) is reduced in large scale in electric arc furnace or in smaller smelters with either aluminium or silicon in an aluminothermic reaction.[72]
 
-World_Chromium_Production_2002.svg For the production of pure chromium, the iron must be separated from the chromium in a two step roasting and leaching process. The chromite ore is heated with a mixture of calcium carbonate and sodium carbonate in the presence of air. The chromium is oxidized to the hexavalent form, while the iron forms the stable Fe₂O₃. The subsequent leaching at higher elevated temperatures dissolves the chromates and leaves the insoluble iron oxide. The chromate is converted by sulfuric acid into the dichromate.[73]
+For the production of pure chromium, the iron must be separated from the chromium in a two step roasting and leaching process. The chromite ore is heated with a mixture of calcium carbonate and sodium carbonate in the presence of air. The chromium is oxidized to the hexavalent form, while the iron forms the stable Fe₂O₃. The subsequent leaching at higher elevated temperatures dissolves the chromates and leaves the insoluble iron oxide. The chromate is converted by sulfuric acid into the dichromate.[73]
 
     4 FeCr₂O₄ + 8 Na₂CO₃ + 7 O₂ → 8 Na₂CrO₄ + 2 Fe₂O₃ + 8 CO₂
 
@@ -164,11 +164,7 @@ The creation of metal alloys account for 85% of the available chromium's usage. 
 
 Metallurgy
 
-Besteck_WMF_Stockholm_ca_1960er.jpg
-
 The strengthening effect of forming stable metal carbides at the grain boundaries and the strong increase in corrosion resistance made chromium an important alloying material for steel. The high-speed tool steels contain between 3 and 5% chromium. Stainless steel, the primary corrosion-resistant metal alloy, is formed when chromium is introduced to iron in sufficient concentrations, usually where the chromium concentration is above 11%.[76] For stainless steel's formation, ferrochromium is added to the molten iron. Also, nickel-based alloys increase in strength due to the formation of discrete, stable metal carbide particles at the grain boundaries. For example, Inconel 718 contains 18.6% chromium. Because of the excellent high-temperature properties of these nickel superalloys, they are used in jet engines and gas turbines in lieu of common structural materials.[77]
-
-Motorcycle_Reflections_bw_edit.jpg
 
 The relative high hardness and corrosion resistance of unalloyed chromium makes chrome a reliable metal for surface coating; it is still the most popular metal for sheet coating with its above average durability compared to other coating metals.[78] A layer of chromium is deposited on pretreated metallic surfaces by electroplating techniques. There are two deposition methods: thin and thick. Thin deposition involves a layer of chromium below 1 µm thickness deposited by chrome plating, and is used for decorative surfaces. Thicker chromium layers are deposited if wear-resistant surfaces are needed. Both methods use acidic chromate or dichromate solutions. To prevent the energy-consuming change in oxidation state, the use of chromium(III) sulfate is under development; for most applications of chromium, the previously established process is used.[79]
 
@@ -178,13 +174,13 @@ Chromic acid anodizing (or Type I anodizing) of aluminium is another electrochem
 
 Pigment
 
-Laidlaw_school_bus.jpg[84]]] The mineral crocoite (which is also lead chromate PbCrO₄) was used as a yellow pigment shortly after its discovery. After a synthesis method became available starting from the more abundant chromite, chrome yellow was, together with cadmium yellow, one of the most used yellow pigments. The pigment does not photodegrade, but it tends to darken due to the formation of chromium(III) oxide. It has a strong color, and was used for school buses in the United States and for the Postal Service (for example, the Deutsche Post) in Europe. The use of chrome yellow has since declined due to environmental and safety concerns and was replaced by organic pigments or other alternatives that are free from lead and chromium. Other pigments that are based around chromium are, for example, the deep shade of red pigment chrome red, which is simply lead chromate with lead(II) hydroxide (PbCrO₄·Pb(OH)₂). A very important chromate pigment, which was used widely in metal primer formulations, was zinc chromate, now replaced by zinc phosphate. A wash primer was formulated to replace the dangerous practice of pre-treating aluminium aircraft bodies with a phosphoric acid solution. This used zinc tetroxychromate dispersed in a solution of polyvinyl butyral. An 8% solution of phosphoric acid in solvent was added just before application. It was found that an easily oxidized alcohol was an essential ingredient. A thin layer of about 10–15 µm was applied, which turned from yellow to dark green when it was cured. There is still a question as to the correct mechanism. Chrome green is a mixture of Prussian blue and chrome yellow, while the chrome oxide green is chromium(III) oxide.[85]
+[84]]] The mineral crocoite (which is also lead chromate PbCrO₄) was used as a yellow pigment shortly after its discovery. After a synthesis method became available starting from the more abundant chromite, chrome yellow was, together with cadmium yellow, one of the most used yellow pigments. The pigment does not photodegrade, but it tends to darken due to the formation of chromium(III) oxide. It has a strong color, and was used for school buses in the United States and for the Postal Service (for example, the Deutsche Post) in Europe. The use of chrome yellow has since declined due to environmental and safety concerns and was replaced by organic pigments or other alternatives that are free from lead and chromium. Other pigments that are based around chromium are, for example, the deep shade of red pigment chrome red, which is simply lead chromate with lead(II) hydroxide (PbCrO₄·Pb(OH)₂). A very important chromate pigment, which was used widely in metal primer formulations, was zinc chromate, now replaced by zinc phosphate. A wash primer was formulated to replace the dangerous practice of pre-treating aluminium aircraft bodies with a phosphoric acid solution. This used zinc tetroxychromate dispersed in a solution of polyvinyl butyral. An 8% solution of phosphoric acid in solvent was added just before application. It was found that an easily oxidized alcohol was an essential ingredient. A thin layer of about 10–15 µm was applied, which turned from yellow to dark green when it was cured. There is still a question as to the correct mechanism. Chrome green is a mixture of Prussian blue and chrome yellow, while the chrome oxide green is chromium(III) oxide.[85]
 
 Chromium oxides are also used as a green pigment in the field of glassmaking and also as a glaze for ceramics.[86] Green chromium oxide is extremely lightfast and as such is used in cladding coatings. It is also the main ingredient in infrared reflecting paints, used by the armed forces to paint vehicles and to give them the same infrared reflectance as green leaves.[87]
 
 Other uses
 
-5_Maiman_Laser_Components.jpg Chromium(III) ions present in corundum crystals (aluminium oxide) cause them to be colored red; when corundum appears as such, it is known as a ruby. If the corundum is lacking in chromium(III) ions, it is known as a sapphire[88]. A red-colored artificial ruby may also be achieved by doping chromium(III) into artificial corundum crystals, thus making chromium a requirement for making synthetic rubies.[89][90] Such a synthetic ruby crystal was the basis for the first laser, produced in 1960, which relied on stimulated emission of light from the chromium atoms in such a crystal. A ruby laser is lasing at 694.3 nanometers, in a deep red color.[91]
+Chromium(III) ions present in corundum crystals (aluminium oxide) cause them to be colored red; when corundum appears as such, it is known as a ruby. If the corundum is lacking in chromium(III) ions, it is known as a sapphire[88]. A red-colored artificial ruby may also be achieved by doping chromium(III) into artificial corundum crystals, thus making chromium a requirement for making synthetic rubies.[89][90] Such a synthetic ruby crystal was the basis for the first laser, produced in 1960, which relied on stimulated emission of light from the chromium atoms in such a crystal. A ruby laser is lasing at 694.3 nanometers, in a deep red color.[91]
 
 Because of their toxicity, chromium(VI) salts are used for the preservation of wood. For example, chromated copper arsenate (CCA) is used in timber treatment to protect wood from decay fungi, wood-attacking insects, including termites, and marine borers.[92] The formulations contain chromium based on the oxide CrO₃ between 35.3% and 65.5%. In the United States, 65,300 metric tons of CCA solution were used in 1996.[93]
 

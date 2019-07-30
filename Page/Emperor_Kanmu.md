@@ -1,4 +1,4 @@
-Kammu was the 50th emperor of Japan,[1] according to the traditional order of succession.[2] Kammu reigned from 781 to 806, and it was during his reign that Japanese imperial power reached its peak.[3]
+was the 50th emperor of Japan,[1] according to the traditional order of succession.[2] Kammu reigned from 781 to 806, and it was during his reign that Japanese imperial power reached its peak.[3]
 
 
 Traditional narrative
@@ -204,7 +204,7 @@ See also
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

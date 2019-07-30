@@ -77,7 +77,7 @@ From 7th Mix onward, the BPM of Extra Stage songs was displayed as a random, cha
 
 Hardware
 
-A standard _Dance Dance Revolution_ arcade machine consists of two parts, the cabinet and the dance platform. The cabinet has a wide bottom section, which houses large floor speakers and glowing neon lamps (led on X cabinets and hide lights on white cabinets). Above this sits a narrower section that contains the monitor, and on top is a lighted marquee graphic, with two small speakers and flashing lights on either side. Below the monitor are two sets of buttons (one for each player), each consisting of two triangular selection buttons (four on X and white cabinets) and a center rectangular button, used mainly to confirm a selection or start the game. Dance_Dance_Revolution_Extreme_arcade_machine_left_side_stage.png The dance stage is a raised metal platform divided into two sides. Each side houses a set of four acrylic glass pads[7] arranged and pointing in the orthogonal directions (left, up, down and right), separated by metal squares. Each pad sits atop four pressure activated switches, one at each edge of each pad, and a software-controlled cold cathode lamp illuminating the translucent pad, not available on the white cabinet. A metal safety bar in the shape of an upside-down "U" is mounted to the dance stage behind each player. Some players make use of this safety bar to help maintain proper balance, and to relieve weight from the legs so that arrows can be pressed with greater speed and accuracy.
+A standard _Dance Dance Revolution_ arcade machine consists of two parts, the cabinet and the dance platform. The cabinet has a wide bottom section, which houses large floor speakers and glowing neon lamps (led on X cabinets and hide lights on white cabinets). Above this sits a narrower section that contains the monitor, and on top is a lighted marquee graphic, with two small speakers and flashing lights on either side. Below the monitor are two sets of buttons (one for each player), each consisting of two triangular selection buttons (four on X and white cabinets) and a center rectangular button, used mainly to confirm a selection or start the game. The dance stage is a raised metal platform divided into two sides. Each side houses a set of four acrylic glass pads[7] arranged and pointing in the orthogonal directions (left, up, down and right), separated by metal squares. Each pad sits atop four pressure activated switches, one at each edge of each pad, and a software-controlled cold cathode lamp illuminating the translucent pad, not available on the white cabinet. A metal safety bar in the shape of an upside-down "U" is mounted to the dance stage behind each player. Some players make use of this safety bar to help maintain proper balance, and to relieve weight from the legs so that arrows can be pressed with greater speed and accuracy.
 
 Some DDR cabinets are equipped with Sony PlayStation memory card slots, allowing the player to insert a compatible memory card before starting a game and save their high scores to the card. Additionally, the equivalent home versions of DDR allow players to create and save custom step patterns (edits) to their memory card — the player can then play those steps on the arcade machine if the same song exists on that machine. This feature is supported in 2ndMix through Extreme. On the DDR X announce, these slots are replaced by USB slots and the players required create edits from japanese PlayStation 2's DDR X and transferred onto the DDR X arcades onwards. SuperNova series and white cabinets didn't support memory card slots. However, it introduced Konami's internet based link system _e-Amusement_ to the series, which can save stats and unlocks for individual players (but cannot store edits). This functionality however, could only be used in Japan. During the North American release of Dance Dance Revolution SuperNOVA 2, an e-Amuse capable machine was made available at a Brunswick Zone Arcade in Naperville, Illinois. This machine was hosted on a different network than the Japanese version, and the only other machine on the network was located in Konami's American branch in El Segundo, California. e-Amusement functionality would later be made available in North America with the release of Dance Dance Revolution A.
 
@@ -90,7 +90,7 @@ On January 14, 2019, Konami revealed a new "20th Anniversary Model" cabinet rede
 +===========================+=====================================+
 | First                     | Solo                                |
 +---------------------------+-------------------------------------+
-| Photo                     | DDR_Extreme.png                     |
+| Photo                     |                                     |
 +---------------------------+-------------------------------------+
 | Year released             | 1998                                |
 +---------------------------+-------------------------------------+
@@ -132,7 +132,7 @@ On January 14, 2019, Konami revealed a new "20th Anniversary Model" cabinet rede
 +===========================+=============================================+
 | Second                    | Third                                       |
 +---------------------------+---------------------------------------------+
-| Photo                     | DDR_X2.png                                  |
+| Photo                     |                                             |
 +---------------------------+---------------------------------------------+
 | Year released             | 2008                                        |
 +---------------------------+---------------------------------------------+
@@ -188,7 +188,7 @@ _Dance Dance Revolution_ has been released in many different countries on many d
 
 Home releases
 
-DDR_HandController.jpg is only possible on home console versions.]]
+is only possible on home console versions.]]
 
 DDR games have been released on various video game consoles, including the PlayStation, Dreamcast, Nintendo 64, PlayStation 2, PlayStation 3, GameCube, Wii, Xbox and Xbox 360, and even PCs. Home versions often contain new songs, songs from the arcade version, and additional features that take advantage of the capabilities of the console (e.g.; Xbox 360 versions such as the Dance Dance Revolution Universe series include support for online multiplayer and downloadable songs over Xbox Live, and high definition graphics). DDR has even reached Nintendo's Game Boy Color, with five versions of _Dance Dance Revolution GB_ released in Japan; these included a series of three mainstream DDR games, a Disney Mix, and an Oha Star. The games come with a small thumb pad that fits over the Game Boy Color's controls to simulate the dance pad.
 
@@ -200,8 +200,6 @@ DDR has also seen a number of mobile game releases on Apple iOS and Android plat
 
 
 Similar games
-
-Stemania4_Alpha4.png
 
 Due to the success of the _Dance Dance Revolution_ franchise, many other games with similar or identical gameplay have been created.
 

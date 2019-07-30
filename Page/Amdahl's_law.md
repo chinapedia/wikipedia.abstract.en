@@ -1,4 +1,4 @@
-  AmdahlsLaw.svg
+  
 
 In computer architecture, AMDAHL'S LAW (or AMDAHL'S ARGUMENT[1]) is a formula which gives the theoretical speedup in latency of the execution of a task at fixed workload that can be expected of a system whose resources are improved. It is named after computer scientist Gene Amdahl, and was presented at the AFIPS Spring Joint Computer Conference in 1967.
 
@@ -66,8 +66,6 @@ For example, assume that we are given a serial task which is split into four con
 Notice how the 5 times and 20 times speedup on the 2nd and 3rd parts respectively don't have much effect on the overall speedup when the 4th part (48% of the execution time) is accelerated by only 1.6 times.
 
 Serial programs
-
-Optimizing-different-parts.svg
 
 For example, with a serial program in two parts _A_ and _B_ for which and ,
 

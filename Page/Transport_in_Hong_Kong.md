@@ -1,4 +1,4 @@
-Hong_Kong_Transportation.JPG Hong Kong has a highly developed and sophisticated transport network, encompassing both public and private transport. Based on Hong Kong Government's Travel Characteristics Survey, over 90% of the daily journeys are on public transport, the highest rate in the world.[1] However, in 2014 the Transport Advisory Committee, which advises the Government on transportation issues, issued a report on the much worsened congestion problem in Hong Kong and pointed at the excessive growth of private cars during the past 10–15 years.[2]
+Hong Kong has a highly developed and sophisticated transport network, encompassing both public and private transport. Based on Hong Kong Government's Travel Characteristics Survey, over 90% of the daily journeys are on public transport, the highest rate in the world.[1] However, in 2014 the Transport Advisory Committee, which advises the Government on transportation issues, issued a report on the much worsened congestion problem in Hong Kong and pointed at the excessive growth of private cars during the past 10–15 years.[2]
 
 The Octopus card, a smart electronic money payment system, was introduced in September 1997 to provide an alternative to the traditional banknotes and coins. Available for purchase in every stop of the Mass Transit Railway system, the Octopus card is a non-touch payment system which allows payment not only for public transport (such as trains, buses, trams, ferries and minibuses), but also at parking meters, convenience stores, supermarkets, fast-food restaurants and most vending machines.
 
@@ -7,7 +7,7 @@ Automated pedestrian transport
 
 Escalators and moving pavements
 
-HK_Central_Cochrane_Street_Central-Mid-Levels_escalators_Upsidedown.JPG ]]
+]]
 
 Hong Kong Island is dominated by steep, hilly terrain, which required the development of unusual methods of transport up and down the slopes. In Central and Western district, there is an extensive system of zero-fare escalators and moving pavements. The Mid-levels Escalator is the longest outdoor covered escalator system in the world,[3] operating downhill until 10am for commuters going to work, and then operating uphill until midnight.[4]
 
@@ -18,7 +18,7 @@ A second Mid-Levels escalator set is planned in Sai Ying Pun: the Centre Street 
 
 Rail transport
 
-Rush_hour,_Hong_Kong_MTR.jpg train compartment during peak hours ]] SP1900_E227.jpg of the MTR East Rail Line]] Hong Kong has an extensive railway network, and the Hong Kong Government has long established that the public transit system has "railway as its backbone". Public transport trains are operated by the MTR Corporation. The MTR operates the metro network within inner urban Hong Kong, Kowloon Peninsula and the northern part of Hong Kong Island with newly developed areas, Tsuen Wan, Tseung Kwan O, Tung Chung, Hong Kong Disneyland, the Hong Kong International Airport, the northeastern and northwestern parts of the New Territories. The Hong Kong Tramways operates a tram service exclusively on northern Hong Kong Island. The Peak Tram connects Central, Hong Kong's central business district, with Victoria Peak.
+train compartment during peak hours ]] of the MTR East Rail Line]] Hong Kong has an extensive railway network, and the Hong Kong Government has long established that the public transit system has "railway as its backbone". Public transport trains are operated by the MTR Corporation. The MTR operates the metro network within inner urban Hong Kong, Kowloon Peninsula and the northern part of Hong Kong Island with newly developed areas, Tsuen Wan, Tseung Kwan O, Tung Chung, Hong Kong Disneyland, the Hong Kong International Airport, the northeastern and northwestern parts of the New Territories. The Hong Kong Tramways operates a tram service exclusively on northern Hong Kong Island. The Peak Tram connects Central, Hong Kong's central business district, with Victoria Peak.
 
 Mass Transit Railway
 
@@ -30,13 +30,13 @@ All trains and most MTR stations are air-conditioned.
 
 Tramways
 
-HK_Central-Tram_Nos._15,_13,_40_and_48.jpg]] The Hong Kong Tramways is the tram system run exclusively with double deckers.[8] The electric tram system was proposed in 1881;[9] however nobody was willing to invest in a system at the time. In August 1901, the Second Tramway Bill was introduced and passed into law as the 1902 Tramway Ordinance. Hong Kong Tramway Electric Company Limited, a British company, was authorised to take the responsibilities in construction and daily operation. In 1904, the tram system first got into service. It was soon taken over by another company, Electric Tranction Company of Hong Kong Limited and then the name was changed to Hong Kong Tramways Company Limited in 1910.
+]] The Hong Kong Tramways is the tram system run exclusively with double deckers.[8] The electric tram system was proposed in 1881;[9] however nobody was willing to invest in a system at the time. In August 1901, the Second Tramway Bill was introduced and passed into law as the 1902 Tramway Ordinance. Hong Kong Tramway Electric Company Limited, a British company, was authorised to take the responsibilities in construction and daily operation. In 1904, the tram system first got into service. It was soon taken over by another company, Electric Tranction Company of Hong Kong Limited and then the name was changed to Hong Kong Tramways Company Limited in 1910.
 
 The rail system is long,[10] with a total track length of ,[11] and it runs together with other vehicles on the street. Its operation relies on the 550V direct current (d.c.) from the overhead cables, on 3'6" gauge (1067 mm) tracks. The trams provide service to only parts of Hong Kong Island: they run on a double track along the northern coast of Hong Kong Island from Kennedy Town to Shau Kei Wan, with a single clockwise-running track of about around Happy Valley Racecourse.
 
 Funicular railways
 
-Hongkong_peak_tram.jpg ]] There are four funicular railway services in Hong Kong:
+]] There are four funicular railway services in Hong Kong:
 
 -   The Peak Tram carries both tourists and residents to the upper levels of Hong Kong Island. It provides the most direct route to Victoria Peak and offers scenic views over Victoria Harbour and the skyscrapers of Hong Kong. It was inaugurated in 1888.
 -   The Ocean Express operates within the paid area of the Ocean Park theme park. It links two parts of the park, operating entirely in a tunnel. The ride is themed, and uses multimedia effects to simulate the feeling of travelling into the depths of the sea. It was opened in 2009.
@@ -45,7 +45,7 @@ Hongkong_peak_tram.jpg ]] There are four funicular railway services in Hong Kong
 
 Airport people-mover system
 
-Image-Hkaiport_subway02.JPG ]]
+]]
 
 The Hong Kong International Airport Automated People Mover is a driverless people-mover system located within the Hong Kong International Airport in Chek Lap Kok. It operates in two "segments". For departures, the train runs from Terminal 2 to the East Hall to the West Hall. For arrivals, the train runs only from the West Hall to the East Hall, where all passengers must disembark for immigration, customs, and baggage claim. Operation of the first segment commenced in 1998, and the operation of the second segment commenced in early-2007.
 
@@ -65,7 +65,7 @@ Road transport
 
 Buses
 
-K310UD.jpg double-decker bus with wheelchair accessibility]] Bus services have a long history in Hong Kong. As of 2015, five companies operate franchised public bus services, each granted ten-year exclusive operating rights to the set of routes that they operate.[12] Franchise buses altogether carry about one-third of the total daily public transport market of around 12,000,000 passengers, with KMB having 67% of the franchised bus market share, CityBus with 16% and New World First Bus with 13%.[13] There are also a variety of non-franchised public buses services, including feeder bus services to railway stations operated by the railway companies, and residents' services for residential estates (particularly those in the New Territories).
+double-decker bus with wheelchair accessibility]] Bus services have a long history in Hong Kong. As of 2015, five companies operate franchised public bus services, each granted ten-year exclusive operating rights to the set of routes that they operate.[12] Franchise buses altogether carry about one-third of the total daily public transport market of around 12,000,000 passengers, with KMB having 67% of the franchised bus market share, CityBus with 16% and New World First Bus with 13%.[13] There are also a variety of non-franchised public buses services, including feeder bus services to railway stations operated by the railway companies, and residents' services for residential estates (particularly those in the New Territories).
 
 The five franchised bus companies are:
 
@@ -79,7 +79,7 @@ Founded in 1933, the Kowloon Motor Bus Company (1933) Limited (KMB) is one of th
 
 Public light buses
 
-Hkgmb-lm8613.jpg minibus on its route]] Public light buses (小巴) (widely referred to as minibuses, or sometimes _maxicabs_, a _de facto_ share taxi) run the length and breadth of Hong Kong, through areas which the standard bus lines can not or do not reach as frequently, quickly or directly. Minibuses carry a maximum of 16 (19 for some routes since 2017) passengers; standing is not permitted.
+minibus on its route]] Public light buses (小巴) (widely referred to as minibuses, or sometimes _maxicabs_, a _de facto_ share taxi) run the length and breadth of Hong Kong, through areas which the standard bus lines can not or do not reach as frequently, quickly or directly. Minibuses carry a maximum of 16 (19 for some routes since 2017) passengers; standing is not permitted.
 
 The Hong Kong Transport Department (HKTD) allows and licenses the operation of two types of public light buses:
 
@@ -91,8 +91,6 @@ Red minibuses often provide more convenient transport for passengers not served 
 The Transport Department has also regulated, after a series of minibus accidents, that all new minibuses brought into service after August 2005 must have seat belts installed, and passengers must use seat belts when they are provided.
 
 Taxis
-
-HK_Toyota_Comfort_Red_Taxi.jpg
 
 , there were 18,138 taxis in Hong Kong, operating in three distinct (but slightly overlapping) geographical areas, and distinguished by their colour. Of these, 15,250 are red urban taxis, 2,838 green New Territories taxis, and 50 blue Lantau taxis.[16] Every day, they serve 1,100,000, 207,900, and 1,400 passengers respectively. Taxis carry an average of 1,000,000 passengers each day, occupying about 12% of the daily patronage carried by all modes of public transport in Hong Kong.
 
@@ -114,7 +112,7 @@ There is a waiting list for local driving tests, while a full (private car) driv
 
 Bicycles
 
-Kam_Sheung_Road_Outside_View1_201107.jpg Cycling is a popular means of transport in many parts of the New Territories, where new towns such as Shatin, Tai Po and Sheung Shui have significant cycle track networks. In the auto congested urban areas of Hong Kong and Kowloon, cycling is less common, despite the relatively flat topography of populated areas, in part because it is government policy[24] not to support cycling as part of the transportation system. In 2011, MTR Corporation announced that bicycles were permitted to be taken on all MTR rail lines.[25]
+Cycling is a popular means of transport in many parts of the New Territories, where new towns such as Shatin, Tai Po and Sheung Shui have significant cycle track networks. In the auto congested urban areas of Hong Kong and Kowloon, cycling is less common, despite the relatively flat topography of populated areas, in part because it is government policy[24] not to support cycling as part of the transportation system. In 2011, MTR Corporation announced that bicycles were permitted to be taken on all MTR rail lines.[25]
 
 Motorcycles
 
@@ -131,7 +129,7 @@ Ferries
 
 Internal routes
 
-Starferryrat.jpg carries passengers across Victoria Harbour. This particular one is painted with an advertisement that promotes Hong Kong as Asia's World City. ]] Tsim_Sha_Tsui_Ferry_Pier.jpg, a pier for Star Ferry services]] Central_Pier_Hong_Kong.jpg in Central ]]
+carries passengers across Victoria Harbour. This particular one is painted with an advertisement that promotes Hong Kong as Asia's World City. ]] , a pier for Star Ferry services]] in Central ]]
 
 Most ferry services are provided by licensed ferry operators. , there were 27 regular licensed passenger ferry services operated by 11 licensees, serving outlying islands, new towns and inner-Victoria Harbour. Two of the routes operated by the Star Ferry are franchised. Additionally, 78 "kai-to" ferries are licensed to serve remote coastal settlements.
 
@@ -188,7 +186,7 @@ TSUI WAH FERRY:
 
 External routes
 
-Hong_Kong-Macau_Ferry_Pier.jpg in Sheung Wan]]
+in Sheung Wan]]
 
 In Hong Kong, there are three piers that provides ferry services to Macau and cities in southern China:
 
@@ -224,8 +222,6 @@ Air transport
 
 Aeroplanes
 
-A_bird's_eye_view_of_Hong_Kong_International_Airport.JPG Boeing_747-467,_Cathay_Pacific_Airways_JP10362.jpg
-
 Hong Kong International Airport (HKG) is the primary airport for the territory and has been at Chep Lap Kok for 20 years. Over 100 airlines operate flights to international and Mainland China destinations from the airport; it is the main hub of flag carrier Cathay Pacific as well as Cathay Dragon, Air Hong Kong, and Hong Kong Airlines.[27] HKG is an important regional transhipment centre, passenger hub, and gateway for destinations in mainland China and the rest of Asia. It also handles the most air cargo traffic in the world.[28] With over 70 million passengers annually, it is the eighth busiest airport worldwide by passenger traffic.[29] HKG is constructed on an artificial island north of Lantau Island and was built to replace the overcrowded Kai Tak Airport in Kowloon Bay.[30] A third runway is also being constructed for the airport.
 
 Ferry services link Hong Kong and Macau International Airport; there is an express service at the Hong Kong–Macau Ferry Terminal in which passengers can check in to flights at Macau Airport. Macau Airport has an "Express Link" service operating from the Hong Kong-Macau terminal, China Ferry Terminal, and Tuen Mun Ferry Terminal in which transiting passengers to Macau Airport are not processed through Macau customs.[31] In addition there is a bus service between Hong Kong and Shenzhen Bao'an International Airport in Shenzhen,[32] and people going to Shenzhen Airport may also board a ferry that goes to Fuyong Ferry Terminal at Shenzhen Airport.[33]
@@ -241,7 +237,7 @@ Aerial lift transport
 
 Cable cars
 
-Cable_Car_Ocean_Park.jpg system in Ocean Park]] There are two cable car systems in Hong Kong:
+system in Ocean Park]] There are two cable car systems in Hong Kong:
 
 -   The Ngong Ping Cable Car is a public cableway on Lantau Island. It links Tung Chung MTR station and Ngong Ping Terminal near Po Lin Monastery. It was opened on 18 September 2006.
 -   The Ocean Park theme park also possesses a cable car system between Nam Long Shan Headland and Wong Chuk Hang. This was opened in 1977 and is inside the paid area of the Park.
@@ -251,7 +247,7 @@ Infrastructure
 
 Ports and harbours
 
-Container_Port_Road_South.jpg ]]
+]]
 
 The port of Hong Kong has always been a key factor in the development and prosperity of the territory, which is strategically located on the Far East trade routes and is in the geographical centre of the fast-developing Asia-Pacific Basin. The sheltered harbour provides good access and a safe haven for vessels calling at the port from around the world.
 
@@ -259,7 +255,7 @@ The Victoria Harbour is one of the busiest ports in the world.[38] An average of
 
 Airports
 
-Hong_Kong_Kai_Tak_Airport_1971.jpg Hong_Kong_International_Airport.jpg]]
+]]
 
 Hong Kong has a fully active international airport. The famous former Kai Tak International Airport retired in favour of the recently constructed Hong Kong International Airport, also known as Chek Lap Kok International Airport. The airport now serves as a transport hub for East Asia, and as the hub for Cathay Pacific, Dragonair, Hong Kong Express, Hong Kong Airlines (former CR Airways), and Air Hong Kong. Ferry services link the airport with several piers in Pearl River Delta, where immigrations and customs are exempted. Kai Tak airport was closed because of privacy reasons and also because of safety reasons; the aircraft came very close to the skyscrapers. Besides, the runway was surrounded by water.
 
@@ -273,7 +269,7 @@ Shek Kong Airfield, located near Yuen Long, is a military airfield for the Peopl
 
 Heliports
 
-HK_Sheung_Wan_Shun_Tak_Centre_HK-Macau_Ferry_Terminal_Heliport.JPG]] Hong Kong has three heliports. Shun Tak Heliport (ICAO: VHST) is located in the Hong Kong-Macau Ferry Terminal, by the Shun Tak Centre, in Sheung Wan, on Hong Kong Island. Another is located in southwest Kowloon, near Kowloon Station. The other is located inside Hong Kong International Airport.
+]] Hong Kong has three heliports. Shun Tak Heliport (ICAO: VHST) is located in the Hong Kong-Macau Ferry Terminal, by the Shun Tak Centre, in Sheung Wan, on Hong Kong Island. Another is located in southwest Kowloon, near Kowloon Station. The other is located inside Hong Kong International Airport.
 
 Heli Express operates regular helicopter service between Macao Heliport (ICAO:VMMH) on the Macau Ferry Terminal in Macau and the Shun Tak Heliport. There are around 16 flights daily. Flights take approximately 20 minutes in the eight-seater aircraft.
 
@@ -281,7 +277,7 @@ There are also a number of helipads across the territory, including the roof of 
 
 Highways
 
-HK_Cross_Harbour_Tunnel.jpg, which is part of Route 1, in Hung Hom, Kowloon ]] Eastern_Harbour_Tunnel.jpg is the second under-water tunnel across Victoria Harbour, and is part of Route 2.]] Tsing_Ma_Bridge_(1).jpg, part of Route 8, is the world's longest rail and road suspension bridges.]] Kap_Shui_Mun_Bridge_1.jpg is a cable-stayed bridge connecting Ma Wan and Lantau Island, and is also part of Route 8.]]
+, which is part of Route 1, in Hung Hom, Kowloon ]] is the second under-water tunnel across Victoria Harbour, and is part of Route 2.]] , part of Route 8, is the world's longest rail and road suspension bridges.]] is a cable-stayed bridge connecting Ma Wan and Lantau Island, and is also part of Route 8.]]
 
 There are a total of 1,831 km of paved highways in Hong Kong. These roads are built to British standards with a maximum of four lanes with hard shoulders.
 
@@ -363,7 +359,7 @@ Other road tunnels and bridges which are proposed or under construction are:
 
 Bus lanes
 
-HK_Wan_Chai_North_Walkway_Gloucester_Road_Fortis_Bank_Tower_Beijing_2008_a.jpg on Gloucester Road in Wan Chai, with the words "bus lane" painted in English and "巴士綫" in Chinese]] There are approximately 22 km of bus priority lanes in Hong Kong.
+on Gloucester Road in Wan Chai, with the words "bus lane" painted in English and "巴士綫" in Chinese]] There are approximately 22 km of bus priority lanes in Hong Kong.
 
 Bus termini
 
@@ -388,7 +384,7 @@ Pedestrian infrastructure in Hong Kong includes:
 
 Ports of entry
 
-This is a list of ports of entry (i.e. immigration control points) in Hong Kong. Entrance_to_Shenzhen_Bay_Port_Passenger_Terminal.jpg ]] Ocean_Terminal_with_cruise_2008.jpg pier at Ocean Terminal is also a port of entry to Hong Kong. ]]
+This is a list of ports of entry (i.e. immigration control points) in Hong Kong. ]] pier at Ocean Terminal is also a port of entry to Hong Kong. ]]
 
 -   Air
     -   Hong Kong International Airport
@@ -489,7 +485,7 @@ Transport_in_Hong_Kong
 
 [25] MTR Announce Bicycles permitted on all lines
 
-[26]  CC-BY_icon.svg Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
+[26]  Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
 
 [27]
 

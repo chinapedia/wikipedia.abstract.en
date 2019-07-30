@@ -29,7 +29,7 @@ The Falcons had their first Monday Night Football game in Atlanta during the 197
 
 1978–1989
 
-1987_Atlanta_Falcons_Pocket_Schedule.jpg quarterback John Elway during a 1985 game.]] In the 1978 season, the Falcons qualified for the playoffs for the first time and won the Wild Card game against the Eagles 14–13. The following week, they lost to the Dallas Cowboys 27–20 in the Divisional Playoffs.
+quarterback John Elway during a 1985 game.]] In the 1978 season, the Falcons qualified for the playoffs for the first time and won the Wild Card game against the Eagles 14–13. The following week, they lost to the Dallas Cowboys 27–20 in the Divisional Playoffs.
 
 In the 1980 season, after a nine-game winning streak, the Falcons posted a franchise then-best record of 12–4 and captured their first NFC West division title. The next week, their dream season ended at home with a loss to the Cowboys 30–27 in the divisional playoffs. In the strike-shortened 1982 season, the Falcons made the playoffs but lost to the Minnesota Vikings, 30–24. Falcons coach Leeman Bennett was fired after the loss. The team then had losing seasons for the next eight years.
 
@@ -37,7 +37,7 @@ In the 1980 season, after a nine-game winning streak, the Falcons posted a franc
 
 In the 1989 NFL Draft, the Falcons selected cornerback Deion Sanders in the first round, who helped them for the next four years, setting many records for the franchise. "Neon Deion" (a.k.a. "Prime Time") had a flashy appeal and helped bring media attention to one of the league's most anonymous franchises. Sanders was also famous for playing on major league baseball teams (New York Yankees and the Atlanta Braves) while simultaneously playing in the NFL.
 
-Atlanta_Falcons_at_Los_Angeles_Rams_1991-12-08_-_01_(Atlanta_Falcons_crop).jpg during a 1991 away game.]]
+during a 1991 away game.]]
 
 After defeating the New Orleans Saints in the NFC Wild Card game, the Falcons' 1991 season ended in a divisional playoff loss to the Washington Redskins. In the 1991 NFL Draft, the Falcons selected quarterback Brett Favre as the thirty-third overall pick. During his rookie season, he played in two games where he amassed a record of four passing attempts with no receptions and two interceptions. The following February, Favre was traded to the Green Bay Packers.
 
@@ -67,7 +67,7 @@ For the 2007 season, the Falcons were forced to start Joey Harrington at quarter
 
 2008–2014: The Mike Smith era
 
-Mike_Smith_(American_football_coach)_2013.jpg]] After the tumultuous and disappointing 2007 season, the Falcons made a number of moves, hiring a new General Manager and head coach, drafting a new starting quarterback, and signing a starting running back.
+]] After the tumultuous and disappointing 2007 season, the Falcons made a number of moves, hiring a new General Manager and head coach, drafting a new starting quarterback, and signing a starting running back.
 
 On January 13, 2008, the Falcons named former Patriots director of college football scouting Thomas Dimitroff General Manager.[16] On January 23, Jacksonville Jaguars defensive coach and former linebackers coach for the 2000 Super Bowl champion Baltimore Ravens Mike Smith was named the Falcons' new head coach.[17] Chargers back-up RB Michael Turner agreed to a 6-year deal, $30 million deal on March 2.[18] On April 26, Matt Ryan (quarterback from Boston College) was drafted third overall in the 2008 NFL draft by the Falcons.[19]
 
@@ -111,7 +111,7 @@ Despite having another rough season, the Falcons still had an opportunity to qua
 
 2015
 
-Dan_Quinn_2015_intro_press_conference.jpg]] In February 2015, the team was investigated by the NFL for alleged use of artificial crowd noise in the Georgia Dome.[32] The Falcons lost a 2016 NFL Draft selection as a result of the league's investigation.[33]
+]] In February 2015, the team was investigated by the NFL for alleged use of artificial crowd noise in the Georgia Dome.[32] The Falcons lost a 2016 NFL Draft selection as a result of the league's investigation.[33]
 
 Dan Quinn's first season saw a 5–0 start, the team's best start in four years. They would then struggle throughout the rest of the season by losing 8 of their last 11 games, resulting in an 8–8 record. They did, however, give the Panthers their only regular season loss. The Falcons used their first-round pick in the 2016 NFL Draft on safety Keanu Neal from the University of Florida.
 
@@ -136,8 +136,6 @@ In an effort to replace the aging Georgia Dome and potentially host a future Sup
 
 
 Logo and uniforms
-
-NFC-Throwback2-Uniform-ATL.PNG NFC-Throwback-Uniform-ATL.PNG
 
 The Atlanta Falcons' colors are red, black, silver and white.[41] When the team began play in 1966, the Falcons wore red helmets with a black falcon crest logo. In the center of the helmet was a center black stripe surrounded by two gold stripes and two white stripes. These colors represented the two college rival schools in the state of Georgia; rival schools Georgia Tech Yellow Jackets (white and gold) and the Georgia Bulldogs (red and black). Although the gold was removed after several seasons, the white remains to this day. They wore white pants and either black or white jerseys. At first, the falcon crest logo was also put on the jersey sleeves, but it was replaced by a red and white stripe pattern four years later. They switched from black to red jerseys in 1971, and the club began to wear silver pants in 1978.
 
@@ -354,7 +352,7 @@ In the regular season, the team's games are seen on Fox's O&O affiliate WAGA. Wh
 
 Radio affiliates
 
-Atlanta_Falcons_radio_affiliates.png Source:[54]
+Source:[54]
 
 Georgia
 

@@ -1,4 +1,4 @@
-Enigma_keylist_3_rotor.jpg.]] DIFFIE–HELLMAN KEY EXCHANGE (DH)Synonyms of Diffie–Hellman key exchange include:
+.]] DIFFIE–HELLMAN KEY EXCHANGE (DH)Synonyms of Diffie–Hellman key exchange include:
 
 -   Diffie–Hellman–Merkle key exchange
 -   Diffie–Hellman key agreement
@@ -32,7 +32,7 @@ Description
 
 General overview
 
-Diffie-Hellman_Key_Exchange.svg Diffie–Hellman key exchange establishes a shared secret between two parties that can be used for secret communication for exchanging data over a public network. The conceptual diagram to the right illustrates the general idea of the key exchange by using colors instead of very large numbers.
+Diffie–Hellman key exchange establishes a shared secret between two parties that can be used for secret communication for exchanging data over a public network. The conceptual diagram to the right illustrates the general idea of the key exchange by using colors instead of very large numbers.
 
 The process begins by having the two parties, Alice and Bob, agree on an arbitrary starting color that does not need to be kept secret (but should be different every time[9]); in this example, the color is yellow. Each of them also selects a secret color that they keep to themselves – in this case, red and blue-green. The crucial part of the process is that Alice and Bob each mix their own secret color together with their mutually shared color, resulting in orange-tan and light-blue mixtures respectively, and then publicly exchange the two mixed colors. Finally, each of the two mixes the color they received from the partner with their own private color. The result is a final color mixture (yellow-brown in this case) that is identical to the partner's final color mixture.
 

@@ -9,7 +9,7 @@ Geography
 
 Area 51
 
-Area_51_-_diagram.jpg (CIA) diagram of Area 51, found in an untitled, declassified paper, showing the runway overrun for OXCART (Lockheed A-12) and the turnaround areas. _(CIA / CREST RDP90b00184r000100040001-4)_]]
+(CIA) diagram of Area 51, found in an untitled, declassified paper, showing the runway overrun for OXCART (Lockheed A-12) and the turnaround areas. _(CIA / CREST RDP90b00184r000100040001-4)_]]
 
 The original rectangular base of is now part of the so-called "Groom box", a rectangular area measuring , of restricted airspace. The area is connected to the internal Nevada Test Site (NTS) road network, with paved roads leading south to Mercury and west to Yucca Flat. Leading northeast from the lake, the wide and well-maintained Groom Lake Road runs through a pass in the Jumbled Hills. The road formerly led to mines in the Groom basin, but has been improved since their closure. Its winding course runs past a security checkpoint, but the restricted area around the base extends farther east. After leaving the restricted area, Groom Lake Road descends eastward to the floor of the Tikaboo Valley, passing the dirt-road entrances to several small ranches, before converging with State Route 375, the "Extraterrestrial Highway",[9] south of Rachel.
 
@@ -17,7 +17,7 @@ Area 51 shares a border with the Yucca Flat region of the Nevada Test Site, the 
 
 Groom Lake
 
-NevadaTestRange_4808A.png Groom Lake is a salt flat[13] in Nevada used for runways of the Nellis Bombing Range Test Site airport (KXTA) on the north of the Area 51 USAF military installation. The lake at
+Groom Lake is a salt flat[13] in Nevada used for runways of the Nellis Bombing Range Test Site airport (KXTA) on the north of the Area 51 USAF military installation. The lake at
 
 -
 
@@ -34,13 +34,13 @@ The airfield on the Groom Lake site began service in 1942 as Indian Springs Air 
 
 U-2 program
 
-Area51WatertownNE.jpg The Central Intelligence Agency (CIA) established the Groom Lake test facility in April 1955 for Project AQUATONE, the development of the Lockheed U-2 strategic reconnaissance aircraft. Project director Richard M. Bissell Jr. understood that the flight test and pilot training programs could not be conducted at Edwards Air Force Base or Lockheed's Palmdale facility, given the extreme secrecy surrounding the project. He conducted a search for a suitable testing site for the U-2 under the same extreme security as the rest of the project.[27] He notified Lockheed, who sent an inspection team out to Groom Lake. According to Lockheed's U-2 designer Kelly Johnson:[28]
+The Central Intelligence Agency (CIA) established the Groom Lake test facility in April 1955 for Project AQUATONE, the development of the Lockheed U-2 strategic reconnaissance aircraft. Project director Richard M. Bissell Jr. understood that the flight test and pilot training programs could not be conducted at Edwards Air Force Base or Lockheed's Palmdale facility, given the extreme secrecy surrounding the project. He conducted a search for a suitable testing site for the U-2 under the same extreme security as the rest of the project.[27] He notified Lockheed, who sent an inspection team out to Groom Lake. According to Lockheed's U-2 designer Kelly Johnson:[28]
 
 The lake bed made an ideal strip for testing aircraft, and the Emigrant Valley's mountain ranges and the NTS perimeter protected the site from visitors, about north of Las Vegas.[29] The CIA asked the AEC to acquire the land, designated "Area 51" on the map, and to add it to the Nevada Test Site.[30]
 
 Johnson named the area "Paradise Ranch" to encourage workers to move to "the new facility in the middle of nowhere", as the CIA later described it, and the name became shortened to "the Ranch".[31][32] On 4 May 1955, a survey team arrived at Groom Lake and laid out a north-south runway on the southwest corner of the lakebed and designated a site for a base support facility. The Ranch initially consisted of little more than a few shelters, workshops, and trailer homes in which to house its small team.[33] In a little over three months, the base consisted of a single paved runway, three hangars, a control tower, and rudimentary accommodations for test personnel. The base's few amenities included a movie theater and volleyball court. There was also a mess hall, several wells, and fuel storage tanks. CIA, Air Force, and Lockheed personnel began arriving by July 1955. The Ranch received its first U-2 delivery on 24 July 1955 from Burbank on a C-124 Globemaster II cargo plane, accompanied by Lockheed technicians on a Douglas DC-3.[34] Regular Military Air Transport Service flights were set up between Area 51 and Lockheed's offices in Burbank, California. To preserve secrecy, personnel flew to Nevada on Monday mornings and returned to California on Friday evenings.[35]
 
-A12radartesting.jpg testing at Groom Lake in November 1959[36]]] First_YF-12_Prototype.jpg A-12_Schalk_Flight,_1962.jpg
+testing at Groom Lake in November 1959[36]]]
 
 OXCART program
 
@@ -56,8 +56,6 @@ The first A-12 test aircraft was covertly trucked from Burbank on 26 February 19
 
 D-21 Tagboard
 
-M21Ship2-cropped.jpg
-
 Following the loss of Gary Powers' U-2 over the Soviet Union, there were several discussions about using the A-12 OXCART as an unpiloted drone aircraft. Although Kelly Johnson had come to support the idea of drone reconnaissance, he opposed the development of an A-12 drone, contending that the aircraft was too large and complex for such a conversion. However, the Air Force agreed to fund the study of a high-speed, high-altitude drone aircraft in October 1962. The Air Force interest seems to have moved the CIA to take action, the project designated "Q-12". By October 1963, the drone's design had been finalized. At the same time, the Q-12 underwent a name change. To separate it from the other A-12-based projects, it was renamed the "D-21". (The "12" was reversed to "21"). "Tagboard" was the project's code name.[50]
 
 The first D-21 was completed in the spring of 1964 by Lockheed. After four more months of checkouts and static tests, the aircraft was shipped to Groom Lake and reassembled. It was to be carried by a two-seat derivative of the A-12, designated the "M-21". When the D-21/M-21 reached the launch point, the first step would be to blow off the D-21's inlet and exhaust covers. With the D-21/M-21 at the correct speed and altitude, the LCO would start the ramjet and the other systems of the D-21. "With the D-21's systems activated and running, and the launch aircraft at the correct point, the M-21 would begin a slight pushover, the LCO would push a final button, and the D-21 would come off the pylon".[51]
@@ -72,7 +70,7 @@ Davis-Monthan is an open base, with public tours of the storage area at the time
 
 Foreign technology evaluation
 
-4477th_Test_and_Evaluation_Squadron_MiG-17F_in_flight.jpg "Fresco"s loaned to the United States by Israel in 1969.]] 4477th_Test_and_Evaluation_Squadron_MiG-21_in_flight.jpg a MiG-21F-13 flown by United States Navy and Air Force Systems Command during its 1968 exploitation.]]
+"Fresco"s loaned to the United States by Israel in 1969.]] a MiG-21F-13 flown by United States Navy and Air Force Systems Command during its 1968 exploitation.]]
 
 During the Cold War, one of the missions carried out by the United States was the test and evaluation of captured Soviet fighter aircraft. Beginning in the late 1960s, and for several decades, Area 51 played host to an assortment of Soviet-built aircraft. Under the HAVE DOUGHNUT, HAVE DRILL and HAVE FERRY programs, the first MiGs flown in the United States were used to evaluate the aircraft in performance, technical, and operational capabilities, pitting the types against U.S. fighters.[56]
 
@@ -98,7 +96,7 @@ The Air Force began funding improvements to Area 51 in 1977 under project SCORE 
 
 Have Blue/F-117 program
 
-Have_Blue_bottom_view.jpg F-117_Nighthawk_Front.jpg The Lockheed Have Blue prototype stealth fighter (a smaller proof-of-concept model of the F-117 Nighthawk) first flew at Groom in December 1977.[66]
+The Lockheed Have Blue prototype stealth fighter (a smaller proof-of-concept model of the F-117 Nighthawk) first flew at Groom in December 1977.[66]
 
 In 1978, the Air Force awarded a full-scale development contract for the F-117 to Lockheed Corporation's Advanced Development Projects. On 17 January 1981 the Lockheed test team at Area 51 accepted delivery of the first full Scale Development (FSD) prototype _79–780_, designated YF-117A. At 6:05 am on 18 June 1981 Lockheed Skunk Works test pilot Hal Farley lifted the nose of YF-117A _79–780_ off the runway of Area 51.[67]
 
@@ -120,14 +118,12 @@ The R-Unit was inactivated on 30 May 1989. Upon inactivation, the unit was refor
 
 Later operations
 
-F22_Area51.jpg with Groom Lake in the background (March 2013)]] Since the F-117 became operational in 1983, operations at Groom Lake have continued. The base and its associated runway system were expanded, including expansion of housing and support facilities.[76][77] In 1995, the federal government expanded the exclusionary area around the base to include nearby mountains that had hitherto afforded the only decent overlook of the base, prohibiting access to of land formerly administered by the Bureau of Land Management.[78] On 22 October 2015 a federal judge signed an order giving land that belonged to a Nevada family since the 1870s to the United States Air Force for expanding Area 51. According to the judge, the land that overlooked the base was taken to address security and safety concerns connected with their training and testing.[79]
+with Groom Lake in the background (March 2013)]] Since the F-117 became operational in 1983, operations at Groom Lake have continued. The base and its associated runway system were expanded, including expansion of housing and support facilities.[76][77] In 1995, the federal government expanded the exclusionary area around the base to include nearby mountains that had hitherto afforded the only decent overlook of the base, prohibiting access to of land formerly administered by the Bureau of Land Management.[78] On 22 October 2015 a federal judge signed an order giving land that belonged to a Nevada family since the 1870s to the United States Air Force for expanding Area 51. According to the judge, the land that overlooked the base was taken to address security and safety concerns connected with their training and testing.[79]
 
 
 Legal status
 
 U.S. government's positions on Area 51
-
-Usaf_on_area51.png CIA_BYE2369-67_page17.gif
 
 The United States government has provided minimal information regarding Area 51. The area surrounding the lake is permanently off-limits to both civilian and normal military air traffic. Security clearances are checked regularly; cameras and weaponry are not allowed.[80] Even military pilots training in the NAFR risk disciplinary action if they stray into the exclusionary "box" surrounding Groom's airspace.[81] Surveillance is supplemented using buried motion sensors.[82] Area 51 is a common destination for Janet airline, a small fleet of passenger aircraft operated on behalf of the Air Force to transport military personnel, primarily from McCarran International Airport.
 
@@ -137,7 +133,7 @@ On 25 June 2013, the CIA released an official history of the U-2 and OXCART proj
 
 Environmental lawsuit
 
-Area51_Tikaboo_Peak_07.2008.jpg]] TV_camera_area_51.JPG
+]]
 
 In 1994, five unnamed civilian contractors and the widows of contractors Walter Kasza and Robert Frost sued the Air Force and the United States Environmental Protection Agency. They alleged that they had been present when large quantities of unknown chemicals had been burned in open pits and trenches at Groom. Rutgers University biochemists analyzed biopsies from the complainants and found high levels of dioxin, dibenzofuran, and trichloroethylene in their body fat. The complainants alleged that they had sustained skin, liver, and respiratory injuries due to their work at Groom, and that this had contributed to the deaths of Frost and Kasza. The suit sought compensation for the injuries, claiming that the Air Force had illegally handled toxic materials and that the EPA had failed in its duty to enforce the Resource Conservation and Recovery Act which governs handling of dangerous materials. They also sought detailed information about the chemicals, hoping that this would facilitate the medical treatment of survivors. Congressman Lee H. Hamilton, former chairman of the House Intelligence Committee, told _60 Minutes_ reporter Lesley Stahl, "The Air Force is classifying all information about Area 51 in order to protect themselves from a lawsuit."
 
@@ -153,8 +149,6 @@ In December 2007, airline pilots noticed that the base had appeared in their air
 
 Security
 
-Wfm_x51_area51_warningsign.jpg
-
 The perimeter of the base is marked out by orange posts and patrolled by guards in white pickup trucks and camouflage fatigues. The guards are popularly referred to as “camo dudes” by enthusiasts. The guards will not answer questions about their employers; however, according to the New York _Daily News_, there are indications they are employed through a contractor such as AECOM.[99][100] Signage around the base perimeter advises that deadly force is authorized against trespassers.[101]
 
 Technology is also heavily used to maintain the border of the base; this includes surveillance cameras and motion detectors. Some of these motion detectors are placed some distance away from the base on public land to notify guards of people approaching.[102]
@@ -162,7 +156,7 @@ Technology is also heavily used to maintain the border of the base; this include
 
 1974 Skylab photography
 
-Groom_Lake_and_Papoose_Lake.jpg (upper left) and Papoose Lake (lower right), 2010]]
+(upper left) and Papoose Lake (lower right), 2010]]
 
 Dwayne A. Day published "Astronauts and Area 51: the Skylab Incident" in _The Space Review_ in January 2006. It was based on a memo written in 1974 to CIA director William Colby by an unknown CIA official. The memo reported that astronauts on board Skylab 4 had inadvertently photographed a certain location.
 

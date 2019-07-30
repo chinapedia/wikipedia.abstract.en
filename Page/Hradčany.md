@@ -1,5 +1,3 @@
-Hradcany2.jpg
-
 HRADČANY (; ), the CASTLE DISTRICT, is the district of the city of Prague, Czech Republic surrounding Prague Castle.
 
 The castle is one of the biggest in the world[1] at about in length and an average of about wide. Its history stretches back to the 9th century. St Vitus Cathedral is located in the castle area.

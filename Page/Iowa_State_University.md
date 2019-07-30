@@ -13,7 +13,7 @@ Beginnings
 
 In 1856, the Iowa General Assembly enacted legislation to establish the Iowa Agricultural College and Model Farm. This institution (now Iowa State University) was officially established on March 22, 1858, by the General Assembly. Story County was chosen as the location on June 21, 1859, beating proposals from Johnson, Kossuth, Marshall and Polk counties. The original farm of was purchased for a cost of $5,379.[6]
 
-AdonijahWelch.jpg, ISU's first president]] Iowa was the first state in the nation to accept the provisions of the Morrill Act of 1862.[7][8] Iowa subsequently designated Iowa State as the land-grant college on March 29, 1864.[9][10] From the start, Iowa Agricultural College focused on the ideals that higher education should be accessible to all and that the university should teach liberal and practical subjects. These ideals are integral to the land-grant university.[11][12]
+, ISU's first president]] Iowa was the first state in the nation to accept the provisions of the Morrill Act of 1862.[7][8] Iowa subsequently designated Iowa State as the land-grant college on March 29, 1864.[9][10] From the start, Iowa Agricultural College focused on the ideals that higher education should be accessible to all and that the university should teach liberal and practical subjects. These ideals are integral to the land-grant university.[11][12]
 
 The institution was coeducational from the first preparatory class admitted in 1868. The formal admitting of students began the following year, and the first graduating class of 1872 consisted of 24 men and two women.[13]
 
@@ -27,11 +27,11 @@ In 1872, the first courses were given in domestic economy (home economics, famil
 
 In 1879, the "School" of Veterinary Science was organized, the first state veterinary college in the United States (although veterinary courses has been taught since the beginning of the College). This was originally a two-year course leading to a diploma. The veterinary course of study contained classes in zoology, botany, anatomy of domestic animals, veterinary obstetrics, and sanitary science.[16]
 
-Iowa_state_beardshear_hall.jpg William M. Beardshear was appointed President of Iowa State in 1891. During his tenure, Iowa Agricultural College truly came of age. Beardshear developed new agricultural programs and was instrumental in hiring premier faculty members such as Anson Marston, Louis B. Spinney, J.B. Weems, Perry G. Holden, and Maria Roberts. He also expanded the university administration, and the following buildings were added to the campus: Morrill Hall (1891); the Campanile (1899); Old Botany (now Carrie Chapman Catt Hall) (1892); and Margaret Hall (1895) which continue to stand today. In his honor, Iowa State named its central administrative building (Central Building) after Beardshear in 1925.[17] In 1898, reflecting the school's growth during his tenure, it was renamed Iowa State College of Agricultural and Mechanic Arts, or Iowa State for short.
+William M. Beardshear was appointed President of Iowa State in 1891. During his tenure, Iowa Agricultural College truly came of age. Beardshear developed new agricultural programs and was instrumental in hiring premier faculty members such as Anson Marston, Louis B. Spinney, J.B. Weems, Perry G. Holden, and Maria Roberts. He also expanded the university administration, and the following buildings were added to the campus: Morrill Hall (1891); the Campanile (1899); Old Botany (now Carrie Chapman Catt Hall) (1892); and Margaret Hall (1895) which continue to stand today. In his honor, Iowa State named its central administrative building (Central Building) after Beardshear in 1925.[17] In 1898, reflecting the school's growth during his tenure, it was renamed Iowa State College of Agricultural and Mechanic Arts, or Iowa State for short.
 
 Today, Beardshear Hall holds the following offices: President, Vice-President, Treasurer, Secretary, Registrar, Provost, and student financial aid. Catt Hall is named after famed alumna Carrie Chapman Catt and is the home of the College of Liberal Arts and Sciences.
 
-isubeardshear2008.jpg In 1912 Iowa State had its first Homecoming celebration. The idea was first proposed by Professor Samuel Beyer, the college's “patron saint of athletics,” who suggested that Iowa State inaugurate a celebration for alumni during the annual football game against rival University of Iowa. Iowa State's new president, Raymond A. Pearson, liked the idea and issued a special invitation to alumni two weeks prior to the event: “We need you, we must have you. Come and see what a school you have made in Iowa State College. Find a way.” In October 2012 Iowa State marked its 100th Homecoming with a "CYtennial" Celebration.[18]
+In 1912 Iowa State had its first Homecoming celebration. The idea was first proposed by Professor Samuel Beyer, the college's “patron saint of athletics,” who suggested that Iowa State inaugurate a celebration for alumni during the annual football game against rival University of Iowa. Iowa State's new president, Raymond A. Pearson, liked the idea and issued a special invitation to alumni two weeks prior to the event: “We need you, we must have you. Come and see what a school you have made in Iowa State College. Find a way.” In October 2012 Iowa State marked its 100th Homecoming with a "CYtennial" Celebration.[18]
 
 Iowa State celebrated its first VEISHEA on May 11–13, 1922. Wallace McKee (class of 1922) served as the first chairman of the Central Committee and Frank D. Paine (professor of electrical engineering) chose the name, based on the first letters of Iowa State's colleges: Veterinary Medicine, Engineering, Industrial Science, Home Economics, and Agriculture. VEISHEA grew to become the largest student-run festival in the nation.[19]
 
@@ -43,7 +43,7 @@ During World War II, Iowa State was one of 131 colleges and universities nationa
 
 Maturity as a university
 
-Catt_Hall,_previously_known_as_Agriculture_Hall,_at_Iowa_State_University.JPG]] On July 4, 1959, the college was officially renamed Iowa State University of Science and Technology. However, the short-form name "Iowa State University" is used even in official documents such as diplomas.
+]] On July 4, 1959, the college was officially renamed Iowa State University of Science and Technology. However, the short-form name "Iowa State University" is used even in official documents such as diplomas.
 
 Official names given to the university's divisions were the College of Agriculture, College of Engineering, College of Home Economics, College of Sciences and Humanities, and College of Veterinary Medicine.[23]
 
@@ -105,7 +105,7 @@ In 2016, ISU's landscape architecture program was ranked as the 10th best underg
 
 Parks Library
 
-Parks_Library.jpg The W. Robert and Ellen Sorge Parks Library contains over 2.6 million books and subscribes to more than 98,600 journal titles. Named for W. Robert Parks (1915–2003), the 11th president of Iowa State University, and his wife, Ellen Sorge Parks, the original library was built in 1925 with three subsequent additions made in 1961, 1969, and 1983. The library was dedicated and named after W. Robert and Ellen Sorge Parks in 1984.[34]
+The W. Robert and Ellen Sorge Parks Library contains over 2.6 million books and subscribes to more than 98,600 journal titles. Named for W. Robert Parks (1915–2003), the 11th president of Iowa State University, and his wife, Ellen Sorge Parks, the original library was built in 1925 with three subsequent additions made in 1961, 1969, and 1983. The library was dedicated and named after W. Robert and Ellen Sorge Parks in 1984.[34]
 
 Parks Library provides extensive research collections, services and information literacy instruction/information for all students. Facilities consist of the main Parks Library, the e-Library, the Veterinary Medical Library, two subject-oriented reading rooms (design and mathematics), and a remote library storage building.
 
@@ -128,7 +128,7 @@ Distinctions
 
 Birthplace of first electronic digital computer
 
-Atanasoff-Berry_Computer_at_Durhum_Center.jpg replica on 1st floor of Durham Center, Iowa State University.]] Iowa State is the birthplace of the first electronic digital computer, starting the world's computer technology revolution. Invented by mathematics and physics professor John Atanasoff and engineering graduate student Clifford Berry during 1937-42, the Atanasoff-Berry Computer, or ABC, pioneered important elements of modern computing, including binary arithmetic, regenerative memory, parallel processing, electronic switching elements, and separation of memory and computer functions.[37]
+replica on 1st floor of Durham Center, Iowa State University.]] Iowa State is the birthplace of the first electronic digital computer, starting the world's computer technology revolution. Invented by mathematics and physics professor John Atanasoff and engineering graduate student Clifford Berry during 1937-42, the Atanasoff-Berry Computer, or ABC, pioneered important elements of modern computing, including binary arithmetic, regenerative memory, parallel processing, electronic switching elements, and separation of memory and computer functions.[37]
 
 On October 19, 1973, U.S. Federal Judge Earl R. Larson signed his decision following a lengthy court trial which declared the ENIAC patent of Mauchly and Eckert invalid and named Atanasoff the inventor of the electronic digital computer—the Atanasoff-Berry Computer or the ABC.[38]
 
@@ -148,7 +148,7 @@ Today, the Ames Laboratory focuses on more peaceful applications of materials re
 
 VEISHEA celebration
 
-VEISHEA2006.jpg 2006 Battle of the Bands]] Iowa State is widely known for VEISHEA, an annual education and entertainment festival that was held on campus each spring. The name VEISHEA was derived from the initials of ISU's five original colleges, forming an acronym as the university existed when the festival was founded in 1922:
+2006 Battle of the Bands]] Iowa State is widely known for VEISHEA, an annual education and entertainment festival that was held on campus each spring. The name VEISHEA was derived from the initials of ISU's five original colleges, forming an acronym as the university existed when the festival was founded in 1922:
 
 -   Veterinary Medicine
 -   Engineering
@@ -169,7 +169,7 @@ Research
 
 Ames Laboratory
 
-Ames_Lab_logo.jpg Iowa State is the only university in the United States that has a U.S. Department of Energy research laboratory physically located on its campus. Operated by Iowa State, the Ames Laboratory is one of ten national DOE Office of Science research laboratories.[47]
+Iowa State is the only university in the United States that has a U.S. Department of Energy research laboratory physically located on its campus. Operated by Iowa State, the Ames Laboratory is one of ten national DOE Office of Science research laboratories.[47]
 
 ISU research for the government provided Ames Laboratory its start in the 1940s with the development of a highly efficient process for producing high-purity uranium for atomic energy. Today, Ames Laboratory continues its leading status in current materials research and focuses diverse fundamental and applied research strengths upon issues of national concern, cultivates research talent, and develops and transfers technologies to improve industrial competitiveness and enhance U.S. economic security. Ames Laboratory employs more than 430 full- and part-time employees, including more than 250 scientists and engineers. Students make up more than 20 percent of the paid workforce.[48]
 
@@ -194,13 +194,13 @@ Campus
 
 Recognition
 
-ISU_Central_Campus_ASLA_plaque.jpg Iowa State's campus contains over 160 buildings. Several buildings, as well as the Marston Water Tower, are listed on the National Register of Historic Places.[56] The central campus includes of trees, plants, and classically designed buildings. The landscape's most dominant feature is the central lawn, which was listed as a "medallion site" by the American Society of Landscape Architects in 1999, one of only three central campuses designated as such. The other two were Harvard University and the University of Virginia.[57]
+Iowa State's campus contains over 160 buildings. Several buildings, as well as the Marston Water Tower, are listed on the National Register of Historic Places.[56] The central campus includes of trees, plants, and classically designed buildings. The landscape's most dominant feature is the central lawn, which was listed as a "medallion site" by the American Society of Landscape Architects in 1999, one of only three central campuses designated as such. The other two were Harvard University and the University of Virginia.[57]
 
 Thomas Gaines, in _The Campus As a Work of Art_, proclaimed the Iowa State campus to be one of the twenty-five most beautiful campuses in the country. Gaines noted Iowa State's park-like expanse of central campus, and the use of trees and shrubbery to draw together ISU's varied building architecture. Over decades, campus buildings, including the Campanile, Beardshear Hall, and Curtiss Hall, circled and preserved the central lawn, creating a space where students study, relax, and socialize.[58]
 
 Campanile
 
-Ames_iowastate.jpg The campanile was constructed during 1897-1898 as a memorial to Margaret MacDonald Stanton, Iowa State's first dean of women, who died on July 25, 1895. The tower is located on ISU's central campus, just north of the Memorial Union. The site was selected by Margaret's husband, Edgar W. Stanton, with the help of then-university president William M. Beardshear. The campanile stands tall on a 16 by 16 foot (5 by 5 m) base, and cost $6,510.20 to construct.[59]
+The campanile was constructed during 1897-1898 as a memorial to Margaret MacDonald Stanton, Iowa State's first dean of women, who died on July 25, 1895. The tower is located on ISU's central campus, just north of the Memorial Union. The site was selected by Margaret's husband, Edgar W. Stanton, with the help of then-university president William M. Beardshear. The campanile stands tall on a 16 by 16 foot (5 by 5 m) base, and cost $6,510.20 to construct.[59]
 
 The campanile is widely seen as one of the major symbols of Iowa State University. It is featured prominently on the university's official ring[60] and the university's mace,[61] and is also the subject of the university's alma mater, _The Bells of Iowa State_.[62]
 
@@ -214,7 +214,7 @@ In early spring 2003, Lake LaVerne welcomed its newest and most current mute swa
 
 Reiman Gardens
 
-RG_Conservatory_Inside.jpg]] Iowa State has maintained a horticulture garden since 1914. Reiman Gardens is the third location for these gardens. Today's gardens began in 1993 with a gift from Bobbi and Roy Reiman. Construction began in 1994 and the Gardens' initial were officially dedicated on September 16, 1995.
+]] Iowa State has maintained a horticulture garden since 1914. Reiman Gardens is the third location for these gardens. Today's gardens began in 1993 with a gift from Bobbi and Roy Reiman. Construction began in 1994 and the Gardens' initial were officially dedicated on September 16, 1995.
 
 Reiman Gardens has since grown to become a site consisting of a dozen distinct garden areas, an indoor conservatory and an indoor butterfly "wing", butterfly emergence cases, a gift shop, and several supporting greenhouses. Located immediately south of Jack Trice Stadium on the ISU campus, Reiman Gardens is a year-round facility that has become one of the most visited attractions in central Iowa.
 
@@ -232,7 +232,7 @@ Other fine and decorative art objects from the University Art Collection include
 
 Farm House Museum
 
-Farm_House_Museum_south_sign.jpg Located near the center of the Iowa State campus, the Farm House Museum sits as a monument to early Iowa State history and culture as well as a National Historic Landmark. As the first building on campus, the Farm House was built in 1860 before campus was occupied by students or even classrooms. The college's first farm tenants primed the land for agricultural experimentation. This early practice lead to Iowa State Agricultural College and Model Farm opening its doors to Iowa students for free in 1869 under the Morrill Act (or Land-grant Act) of 1862.[68]
+Located near the center of the Iowa State campus, the Farm House Museum sits as a monument to early Iowa State history and culture as well as a National Historic Landmark. As the first building on campus, the Farm House was built in 1860 before campus was occupied by students or even classrooms. The college's first farm tenants primed the land for agricultural experimentation. This early practice lead to Iowa State Agricultural College and Model Farm opening its doors to Iowa students for free in 1869 under the Morrill Act (or Land-grant Act) of 1862.[68]
 
 Many prominent figures have made the Farm House their home throughout its 150 years of use. The first president of the College, Adonijah Welch, briefly stayed at the Farm House and even wrote his inaugural speech in a bedroom on the second floor. James “Tama Jim” Wilson resided for much of the 1890s with his family at the Farm House until he joined President William McKinley's cabinet as U.S. Secretary of Agriculture. Agriculture Dean Charles Curtiss and his young family replaced Wilson and became the longest resident of Farm House.
 
@@ -252,7 +252,7 @@ The Art on Campus Collection is a campus-wide resource of over 2000 public works
 
 Christian Petersen Art Museum
 
-Justin_Smith_Morrill_-_Brady-Handy.jpg, namesake of Morrill Hall]] The Christian Petersen Art Museum in Morrill Hall is named for the nation's first permanent campus artist-in-residence, Christian Petersen, who sculpted and taught at Iowa State from 1934 through 1955, and is considered the founding artist of the Art on Campus Collection.
+, namesake of Morrill Hall]] The Christian Petersen Art Museum in Morrill Hall is named for the nation's first permanent campus artist-in-residence, Christian Petersen, who sculpted and taught at Iowa State from 1934 through 1955, and is considered the founding artist of the Art on Campus Collection.
 
 Named for Justin Smith Morrill who created the Morrill Land-Grant Colleges Act, Morrill Hall was completed in 1891. Originally constructed to fill the capacity of a library, museum, and chapel, its original uses are engraved in the exterior stonework on the east side. The building was vacated in 1996 when it was determined unsafe and was also listed in the National Register of Historic Places the same year. In 2005, $9 million was raised to renovate the building and convert it into a museum. Completed and reopened in March 2007, Morrill Hall is home to the Christian Petersen Art Museum.
 
@@ -274,8 +274,6 @@ Iowa State's composting facility "can handle more than 10,000 tons of organic wa
 Student life
 
 Residence halls
-
-Roberts_Residence_Hall_Iowa_State_University.jpg
 
 Iowa State operates 20 on-campus residence halls. The residence halls are divided into geographical areas.
 
@@ -306,7 +304,7 @@ The governing body for ISU students is ISU Student Government. The ISU Student G
 
 Student organizations
 
-Memorial_Union_east.jpg ISU has over 800 student organizations on campus that represent a variety of interests. Organizations are supported by Iowa State's Student Activities Center. Many student organization offices are housed in the Memorial Union.
+ISU has over 800 student organizations on campus that represent a variety of interests. Organizations are supported by Iowa State's Student Activities Center. Many student organization offices are housed in the Memorial Union.
 
 The Memorial Union at Iowa State University opened in September 1928 and is currently home to a number of University departments and student organizations, a bowling alley, the University Book Store, and the Hotel Memorial Union.
 
@@ -368,7 +366,7 @@ ISUtv is the university's student-run television station. It is housed in the fo
 
 Athletics
 
-Big_12_logo_in_Iowa_State_colors.svg logo]] The "Cyclones" name dates back to 1895. That year, Iowa suffered an unusually high number of devastating cyclones (as tornadoes were called at the time). In September, Iowa Agricultural College's football team traveled to Northwestern University and defeated that team by a score of 36-0. The next day, the _Chicago Tribune_'s headline read "Struck by a Cyclone: It Comes from Iowa and Devastates Evanston Town."[86] The article began, "Northwestern might as well have tried to play football with an Iowa cyclone as with the Iowa team it met yesterday." The nickname stuck.
+logo]] The "Cyclones" name dates back to 1895. That year, Iowa suffered an unusually high number of devastating cyclones (as tornadoes were called at the time). In September, Iowa Agricultural College's football team traveled to Northwestern University and defeated that team by a score of 36-0. The next day, the _Chicago Tribune_'s headline read "Struck by a Cyclone: It Comes from Iowa and Devastates Evanston Town."[86] The article began, "Northwestern might as well have tried to play football with an Iowa cyclone as with the Iowa team it met yesterday." The nickname stuck.
 
 The school colors are cardinal and gold. The mascot is Cy the Cardinal, introduced in 1954. Since a cyclone was determined to be difficult to depict in costume, the cardinal was chosen in reference to the school colors. A contest was held to select a name for the mascot, with the name Cy being chosen as the winner.
 
@@ -378,13 +376,13 @@ Iowa State's intrastate archrival is the University of Iowa with whom it compete
 
 Football
 
-Jack_trice_stadium_south_endzone.jpg]] Football first made its way onto the Iowa State campus in 1878 as a recreational sport, but it was not until 1892 that Iowa State organized its first team to represent the school in football. In 1894, college president William M. Beardshear spearheaded the foundation of an athletic association to officially sanction Iowa State football teams. The 1894 team finished with a 6-1 mark.[87] The Cyclones compete each year for traveling trophies. Since 1977, Iowa State and Iowa compete annually for the Cy-Hawk Trophy. Iowa State competes in an annual rivalry game against Kansas State known as Farmageddon and against former conference foe Missouri for the Telephone Trophy. The main rival is the Iowa Hawkeyes. Unfortunately for Iowa State, this competition has not gone well in recent years. The Hawkeyes have won the last four games. Nevertheless, this rivalry has provided excitement for fans from Ames and Iowa City alike.
+]] Football first made its way onto the Iowa State campus in 1878 as a recreational sport, but it was not until 1892 that Iowa State organized its first team to represent the school in football. In 1894, college president William M. Beardshear spearheaded the foundation of an athletic association to officially sanction Iowa State football teams. The 1894 team finished with a 6-1 mark.[87] The Cyclones compete each year for traveling trophies. Since 1977, Iowa State and Iowa compete annually for the Cy-Hawk Trophy. Iowa State competes in an annual rivalry game against Kansas State known as Farmageddon and against former conference foe Missouri for the Telephone Trophy. The main rival is the Iowa Hawkeyes. Unfortunately for Iowa State, this competition has not gone well in recent years. The Hawkeyes have won the last four games. Nevertheless, this rivalry has provided excitement for fans from Ames and Iowa City alike.
 
-MattCampbellISU2016.jpeg]] The Cyclones play their home games at Jack Trice Stadium, named after Jack Trice, ISU's first African-American athlete and also the first and only Iowa State athlete to die from injuries sustained during athletic competition. Trice died three days after his first game playing for Iowa State against Minnesota in Minneapolis on October 6, 1923. Suffering from a broken collarbone early in the game, he continued to play until he was trampled by a group of Minnesota players. It is disputed whether he was trampled purposely or if it was by accident. The stadium was named in his honor in 1997 and is the only NCAA Division I-A stadium named after an African-American.[88] Jack Trice Stadium, formerly known as Cyclone Stadium, opened on September 20, 1975, with a win against the United States Air Force Academy.
+]] The Cyclones play their home games at Jack Trice Stadium, named after Jack Trice, ISU's first African-American athlete and also the first and only Iowa State athlete to die from injuries sustained during athletic competition. Trice died three days after his first game playing for Iowa State against Minnesota in Minneapolis on October 6, 1923. Suffering from a broken collarbone early in the game, he continued to play until he was trampled by a group of Minnesota players. It is disputed whether he was trampled purposely or if it was by accident. The stadium was named in his honor in 1997 and is the only NCAA Division I-A stadium named after an African-American.[88] Jack Trice Stadium, formerly known as Cyclone Stadium, opened on September 20, 1975, with a win against the United States Air Force Academy.
 
 Men's basketball
 
-Hilton_Coliseum_Inside_View.jpg]] Hopes of "Hilton Magic" returning took a boost with the hiring of ISU alum, Ames native, and fan favorite Fred Hoiberg as coach of the men's basketball team in April 2010. Hoiberg ("The Mayor") played three seasons under legendary coach Johnny Orr and one season under future Chicago Bulls coach Tim Floyd during his standout collegiate career as a Cyclone (1991–95). Orr laid the foundation of success in men's basketball upon his arrival from Michigan in 1980 and is credited with building Hilton Magic. Besides Hoiberg, other Cyclone greats played for Orr and brought winning seasons, including Jeff Grayer, Barry Stevens, and walk-on Jeff Hornacek. The 1985-86 Cyclones were one of the most memorable. Orr coached the team to second place in the Big Eight and produced one of his greatest career wins, a victory over his former team and No. 2 seed Michigan in the second round of the NCAA tournament.
+]] Hopes of "Hilton Magic" returning took a boost with the hiring of ISU alum, Ames native, and fan favorite Fred Hoiberg as coach of the men's basketball team in April 2010. Hoiberg ("The Mayor") played three seasons under legendary coach Johnny Orr and one season under future Chicago Bulls coach Tim Floyd during his standout collegiate career as a Cyclone (1991–95). Orr laid the foundation of success in men's basketball upon his arrival from Michigan in 1980 and is credited with building Hilton Magic. Besides Hoiberg, other Cyclone greats played for Orr and brought winning seasons, including Jeff Grayer, Barry Stevens, and walk-on Jeff Hornacek. The 1985-86 Cyclones were one of the most memorable. Orr coached the team to second place in the Big Eight and produced one of his greatest career wins, a victory over his former team and No. 2 seed Michigan in the second round of the NCAA tournament.
 
 Under coaches Floyd (1995–98) and Larry Eustachy (1998–2003), Iowa State achieved even greater success. Floyd took the Cyclones to the Sweet Sixteen in 1997 and Eustachy led ISU to two consecutive Big 12 regular season conference titles in 1999-2000 and 2000–01, plus the conference tournament title in 2000. Seeded No. 2 in the 2000 NCAA tournament, Eustachy and the Cyclones defeated UCLA in the Sweet Sixteen before falling to Michigan State, the eventual NCAA Champion, in the regional finals by a score of 75-64 (the differential representing the Spartans' narrowest margin of victory in the tournament). Standout Marcus Fizer and Jamaal Tinsley were scoring leaders for the Cyclones who finished the season 32-5. Tinsley returned to lead the Cyclones the following year with another conference title and No. 2 seed, but ISU finished the season with a 25-6 overall record after a stunning loss to No. 15 seed Hampton in the first round.
 

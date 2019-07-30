@@ -25,21 +25,21 @@ Humvees were sent into Afghanistan following the 9/11 terrorist attacks, where t
 
 The HMMWV has become the vehicular backbone of U.S. forces around the world. Over 10,000 HMMWVs were employed by coalition forces during the Iraq War.[13] The Humvee has been described as "the right capability for its era" to provide payload mobility in protected areas, but that conflicts exposing it to full-spectrum threat environments that it was never designed to operate or be survivable in led to adding protection at the cost of mobility and payload.[14]
 
-Marine_humvee_with_bolt-on_armor_x2.jpg M1123 HMMWV in 2004, equipped with a bolt-on MAK armor kit.]] Humvee_equipped_with_four_snow_treads.jpg Mountain Warfare Training Center in March 1997, a test HMMWV drives through the snow, equipped with Mattracks treads.]]
+M1123 HMMWV in 2004, equipped with a bolt-on MAK armor kit.]] Mountain Warfare Training Center in March 1997, a test HMMWV drives through the snow, equipped with Mattracks treads.]]
 
 Modifications
 
-Humvee_maintenance.jpg in Afghanistan]] Humvee_wnetrze.jpg
+in Afghanistan]]
 
 In December 2004, Secretary of Defense Donald Rumsfeld came under criticism from U.S. troops and their families for not providing better-equipped HMMWVs.[15] Rumsfeld pointed out that, prior to the war, armor kits were produced only in small numbers per year. As the role of American forces in Iraq changed from fighting the Iraqi Army to suppressing the guerrilla insurgency, more armor kits were being manufactured, though perhaps not as fast as production facilities were capable. Even more advanced kits were also being developed. While these kits are much more effective against all types of attacks, they weigh from and have some of the same drawbacks as the improvised armor.[16] Unlike similar-size civilian cargo and tow trucks, which typically have dual rear wheels to reduce sway, the HMMWV has single rear wheels due to its independent rear suspension coupled with the body design.
 
-SAM-HMMWV.jpg surface-to-air missiles, on display at the Paris Air Show in June 2007.]] Most up-armored HMMWVs hold up well against lateral attacks, when the blast is distributed in all different directions, but offer little protection from a mine blast below the truck, such as buried improvised explosive devices (IEDs) and land mines. Explosively formed penetrators (EFPs) can also defeat the armor kits, causing casualties.
+surface-to-air missiles, on display at the Paris Air Show in June 2007.]] Most up-armored HMMWVs hold up well against lateral attacks, when the blast is distributed in all different directions, but offer little protection from a mine blast below the truck, such as buried improvised explosive devices (IEDs) and land mines. Explosively formed penetrators (EFPs) can also defeat the armor kits, causing casualties.
 
 The armor kits fielded include the Armor Survivability Kit (ASK), FRAG 5, FRAG 6, as well as upgrade kits to the M1151.[17][18] The ASK was the first fielded, in October 2003, adding about to the weight of the vehicle.[19] Armor Holdings fielded an even lighter kit, adding only to the vehicle's weight.[20] The Marine Armor Kit (MAK), fielded in January 2005, offers more protection than the M1114, but also increases weight.[21] The FRAG 5 offered even more protection but was still inadequate to stop EFP attacks.[22] The FRAG 6 kit is designed to do just that, however its increased protection adds over the vehicle over the FRAG 5 kit, and the width is increased by . The doors may also require a mechanical assist device to open and close.[23]
 
 Another drawback of the up-armored HMMWVs occurs during an accident or attack, when the heavily armored doors tend to jam shut, trapping the troops inside.[24] As a result, the U.S. Army Aviation and Missile Research, Development, and Engineering Center (AMRDEC) developed the Humvee Crew Extraction D-ring in 2006. The D-ring hooks on the door of the HMMWV so that another vehicle can rip the door off with a tow strap, chain, or cable to free the troops inside.[25][26] The D-ring was later recognized as one of the top 10 greatest Army inventions of 2006.[27] In addition, Vehicle Emergency Escape (VEE) windows, developed by BAE Systems, were fielded for use on the M1114 up-armored HMMWV, with 1,000 kits ordered.[28]
 
-USMCAmbulance.jpg.]] Crows-M153CommonRemotelyOperatedWeaponStationOnHumvee.jpg The soldier manning the exposed crew-served weapon on top of the vehicle is extremely vulnerable. In response, many HMMWVs have been fitted with basic gun shields or turrets, as was the case with M113 APCs after they were first deployed in Vietnam. The U.S. military is currently evaluating a new form of protection, developed by BAE Systems as well as systems designed by the Army, which are already in theater.[29] The new gunner's seat is protected by high steel plates with bullet-proof glass windows. Additionally, some HMMWVs have been fitted with a remotely operated CROWS weapon station, which slaves the machine gun to controls in the back seat so it can be fired without exposing the crew. The Boomerang anti-sniper system was also fielded by some HMMWVs in Iraq to immediately give troops the location of insurgents firing on them.
+.]] The soldier manning the exposed crew-served weapon on top of the vehicle is extremely vulnerable. In response, many HMMWVs have been fitted with basic gun shields or turrets, as was the case with M113 APCs after they were first deployed in Vietnam. The U.S. military is currently evaluating a new form of protection, developed by BAE Systems as well as systems designed by the Army, which are already in theater.[29] The new gunner's seat is protected by high steel plates with bullet-proof glass windows. Additionally, some HMMWVs have been fitted with a remotely operated CROWS weapon station, which slaves the machine gun to controls in the back seat so it can be fired without exposing the crew. The Boomerang anti-sniper system was also fielded by some HMMWVs in Iraq to immediately give troops the location of insurgents firing on them.
 
 Another weakness for the HMMWV has proven to be its size, which limited its deployment in Afghanistan because it is too wide for the smallest roads and too large for many forms of air transport compared to jeep or Land Rover-sized vehicles (which are nearly two feet narrower). This size also limits the ability for the vehicle to be manhandled out of situations.
 
@@ -62,15 +62,15 @@ Although the Army plans to buy 49,100 JLTVs and the Marine Corps 5,500, they are
 
 Design features
 
-USAFHMMWV.jpg airman in Southwest Asia stands in the ringmount of a FRAG 6-reinforced HMMWV, 2010]]
+airman in Southwest Asia stands in the ringmount of a FRAG 6-reinforced HMMWV, 2010]]
 
 The Humvee seats 4 with an available fully enclosed metal cabin with vertical windshield. The body is constructed from lightweight and rust-resistant aluminum, instead of conventional steel. It has all-wheel drive with an independent suspension and helical gear-reduction hubs similar to portal axles which attach towards the top rather than center of each wheel to allow the drivetrain shafts to be raised for a full of ground clearance. The body is mounted on a narrow steel frame with boxed rails and five cross members for rigidity. The rails act as sliders to protect the drivetrain which is nestled between and above the rails.[48] Raising the drivetrain into the cabin area and lowering the seats into the frame creates a massive chest-high transmission hump which separates passengers on each side and lowers the overall center of gravity compared to most trucks where the body and passengers are above the frame.[49] The vehicle also has double-wishbone suspension with portal gear hubs on all 4 wheels; and all-around inboard disc brakes. The brake discs are not mounted at the wheels, as on conventional cars, but are inboard of the half-shafts, attached right outside of the differentials. The front and rear differentials are Torsen type, and the center differential is a regular, lockable type. Torque-biasing differentials allows forward movement as long as at least one wheel has traction. It runs on specialized 37 × 12.5 radial tires with low-profile runflat devices. Newer HMMWV versions can be equipped with an optional central tire inflation system (CTIS) kit in the field. While it is optimized for off-road mobility, it can drive at highway speeds of at maximum weight with a top speed of .[50][51]
 
 HMMWVs are well suited for air mobile operations as they are transportable by C-130 or larger combat transports, droppable by parachute, and can be sling-loaded from helicopters, though there are smaller vehicles such as the Growler which were designed to fit into smaller craft such as the V-22. In combat conditions, the HMMWV can be delivered by the Low Altitude Parachute Extraction System which pulls the vehicle out of the open rear ramp just above the ground without the aircraft having to land.
 
-US_Navy_111114-N-KA046-134_A_Humvee_launches_from_a_landing_craft_utility_(LCU)_assigned_to_the_amphibious_dock_landing_ship_USS_Whidbey_Island_(LS.jpg There are at least 17 variants of the HMMWV in service with the U.S. military. HMMWVs serve as cargo/troop carriers, automatic weapons platforms, ambulances (four litter patients or eight ambulatory patients), M220 TOW missile carriers, M119 howitzer prime movers, M1097 Avenger Pedestal Mounted Stinger platforms, MRQ-12 direct air support vehicles, S250 shelter carriers, and other roles. The HMMWV is capable of fording 2.5 ft (76 cm) normally, or 5 ft (1.5 m) with the deep-water fording kits installed.
+There are at least 17 variants of the HMMWV in service with the U.S. military. HMMWVs serve as cargo/troop carriers, automatic weapons platforms, ambulances (four litter patients or eight ambulatory patients), M220 TOW missile carriers, M119 howitzer prime movers, M1097 Avenger Pedestal Mounted Stinger platforms, MRQ-12 direct air support vehicles, S250 shelter carriers, and other roles. The HMMWV is capable of fording 2.5 ft (76 cm) normally, or 5 ft (1.5 m) with the deep-water fording kits installed.
 
-Hmmwv-036.jpg missile.]] Optional equipment includes a winch (maximum load capacity and supplemental armor. The M1025/M1026 and M1043/M1044 armament carriers provide mounting and firing capabilities for the M134 Minigun, the Mk 19 grenade launcher, the M2 heavy machine gun, the M240G/B machine gun and M249 LMG.
+missile.]] Optional equipment includes a winch (maximum load capacity and supplemental armor. The M1025/M1026 and M1043/M1044 armament carriers provide mounting and firing capabilities for the M134 Minigun, the Mk 19 grenade launcher, the M2 heavy machine gun, the M240G/B machine gun and M249 LMG.
 
 The M1114 "up-armored" HMMWV, introduced in 1996, also features a similar weapons mount.[52] In addition, some M1114 and M1116 up-armored and M1117 Armored Security Vehicle models feature a Common Remotely Operated Weapon Station (CROWS), which allows the gunner to operate from inside the vehicle, and/or the Boomerang anti-sniper detection system. Recent improvements have also led to the development of the M1151 model, which quickly rendered the previous models obsolete. By replacing the M1114, M1116, and earlier armored HMMWV types with a single model, the U.S. Army hopes to lower maintenance costs.
 
@@ -78,8 +78,6 @@ The latest iteration of the Humvee series can be seen in the M1151A1 and later u
 
 
 Variants
-
-Img_star-t.jpg
 
 Major HMMWV A0/A1/A2 versions
 
@@ -108,7 +106,7 @@ _With the introduction of the A1 series the number of models was reduced, with f
 -   M1045A2 TOW Missile Carrier, supplemental armor
 -   M1046/M1046A1 TOW Missile Carrier, supplemental armor, with winch
 -   M1069 Tractor for M119 105-mm Gun
--   M1097/M1097A1 Heavy Hummer Variant (HHV) US_Navy_110716-N-VY959-122_U.S._Navy_SEALs_ride_in_a_Navy_Special_Warfare_humvee_to_provide_security_for_a_simulated_prisoner.jpg
+-   M1097/M1097A1 Heavy Hummer Variant (HHV)
 -   M1097A2 base platform
 -   M1097A2 Cargo/Troop Carrier/Prime Mover (replacing the M998A1)
 -   M1097A2 Shelter Carrier
@@ -116,8 +114,6 @@ _With the introduction of the A1 series the number of models was reduced, with f
 -   Packhorse – Attachment to convert an M1097 to tractor version for semi-trailers
 -   XM1109 Up-Armored Heavy Hummer Variant (UA-HHV) (replaced by M1114)
 -   M1123 Troop/cargo (U.S. Marines specific M1097A2)
-
-US_Navy_100717-N-0683T-389_U.S._Navy_SEALs_lay_down_covering_fire_as_part_of_an_extraction_exercise_during_a_capabilities_demonstration_at_Joint_Expeditionary_Base_Little_Creek,_Va.jpg
 
 -   Active Denial System (mounted on a HMMWV)
 -   Ground Mobility Vehicle (GMV) — USSOCOM Special Ops variants — initially based on the M1025; later GMV models based on the M1113 chassis. Another model, based on the M1165 HMMWV can be fitted with armor kits to create an 'up-armored' GMV with additional armor plating and an optional ballistic shield around the top gunner's turret.
@@ -132,9 +128,9 @@ M1113 Expanded Capacity Vehicle (ECV)
 
 Under contract to the US Army, AM General developed the M1113 Expanded Capacity Vehicle (ECV). The M1097A2 is the basis for the Expanded Capacity Vehicle (ECV).[57] The ECV provided the payload capacity allowing for larger and heavier communications shelters, improved armor protection level for scouts, military police, security police, and explosive ordnance disposal platforms.[58]
 
-M1114_cruising_by_mrkoww.jpg In late 1995, production of the M1114 based on the improved ECV chassis began. The M1114 meets Army requirements for a scout, military police, and explosive ordnance disposal vehicle with improved ballistic protection levels. The M1114 provides protection against 7.62 mm armor-piercing projectiles, 155 mm artillery air bursts and anti-tank mine blasts.
+In late 1995, production of the M1114 based on the improved ECV chassis began. The M1114 meets Army requirements for a scout, military police, and explosive ordnance disposal vehicle with improved ballistic protection levels. The M1114 provides protection against 7.62 mm armor-piercing projectiles, 155 mm artillery air bursts and anti-tank mine blasts.
 
-In June 1996, the U.S. Army purchased an initial 390 M1114s for operations in Bosnia. The U.S. Air Force has a number of M1114 vehicles that differ in detail from the U.S. Army model. Under the designation M1116, the type was specifically designed and tailored to the needs of the U.S. Air Force.[59] The M1116 features an expanded cargo area, armored housing for the turret gunner, and increased interior heating and air conditioning system. The M1114 and M1116 received armor at O'Gara-Hess & Eisenhardt Armoring Company of Fairfield, Ohio. The M1145 offers the protection of the M1114 and M1116 for Air Force Air Support Operations Squadrons (ASOS). Designed to protect Forward Air Controllers, modifications include perimeter ballistic protection, overhead burst protection, IED protection, mine blast protection, and 'white glass' transparent armor.[60] Prior to the introduction of the latest armored HMMWV variants, and between 1993 and June 2006, Armor Holdings produced more than 17,500 armored HMMWVs (more than 14,000 between 2003-2007), all but about 160 of the earliest models were M1114, with smaller numbers of M1116 and M1045.[61] These extended capacity HMMWVs can drive over an vertical wall and carry a payload.[62] M1165a1_(22057048871).jpg
+In June 1996, the U.S. Army purchased an initial 390 M1114s for operations in Bosnia. The U.S. Air Force has a number of M1114 vehicles that differ in detail from the U.S. Army model. Under the designation M1116, the type was specifically designed and tailored to the needs of the U.S. Air Force.[59] The M1116 features an expanded cargo area, armored housing for the turret gunner, and increased interior heating and air conditioning system. The M1114 and M1116 received armor at O'Gara-Hess & Eisenhardt Armoring Company of Fairfield, Ohio. The M1145 offers the protection of the M1114 and M1116 for Air Force Air Support Operations Squadrons (ASOS). Designed to protect Forward Air Controllers, modifications include perimeter ballistic protection, overhead burst protection, IED protection, mine blast protection, and 'white glass' transparent armor.[60] Prior to the introduction of the latest armored HMMWV variants, and between 1993 and June 2006, Armor Holdings produced more than 17,500 armored HMMWVs (more than 14,000 between 2003-2007), all but about 160 of the earliest models were M1114, with smaller numbers of M1116 and M1045.[61] These extended capacity HMMWVs can drive over an vertical wall and carry a payload.[62]
 
 -   M1113 Shelter Carrier - base for special operations vehicles and communications shelter carriers[63]
 -   M1114 Up-Armored Armament Carrier
@@ -147,15 +143,13 @@ In June 1996, the U.S. Army purchased an initial 390 M1114s for operations in Bo
 -   M1165 Up-Armored HMMWV
 -   M1167 Up-Armored TOW Carrier[64]
 
-Hybrid_Humvee.jpg
-
 -   Composite HMMWV – A prototype developed by TPI Composites of Rhode Island and AM General.[65] The purpose of the concept vehicle is to reduce the vehicle's weight so that it may more easily carry an up armor kit.[66] TPI's all-composite HMMWV saves approximately when compared to a current steel and aluminum HMMWV.[67][68]
 -   A prototype XM1124 Hybrid-Electric Humvee on an M1113 Humvee chassis powered by a diesel-series hybrid featuring an all-electric drive train has been developed by RDECOM/TARDEC. The vehicle has a full-electric range for silent operations.[69] It may have less emissions, save fuel in the battlefield, and can increase the survival rate in emergencies such as if one of the engines is destroyed or fails.
 -   NXT 360 Humvee - This variant is available as an independent vehicle or upgrade for M1100 Humvee series since June 2018.
 
 International versions
 
-Eastwind_EQ2050_-_4.jpg (lit. "Eastwind") EQ2050 at the People's Revolution Military Museum of China in August 2007, during the 'Our Troops towards the Sky' exhibition.]] Greek-hummer.jpg on top, April 2007.]]
+(lit. "Eastwind") EQ2050 at the People's Revolution Military Museum of China in August 2007, during the 'Our Troops towards the Sky' exhibition.]] on top, April 2007.]]
 
 -   Bulgaria – Bulgarian HMMWVs have been fitted with PKS general purpose machine guns. Bulgaria usually replaces Western machine guns on its vehicles to simplify maintenance, since the country is an active producer of Russian weapons.
 -   EQ2050/SQF2040 – Product of the Humvee manufacturing in China. There are at least two Chinese automobile manufacturers building HMMWV copies. Both HMMWV copies rely heavily on imported U.S.-made parts, including the chassis, gear box, and diesel engine. Both manufacturers claimed that they will be able to gradually increase the percentage of indigenous-made content on the vehicles in the future, since the PLA is unlikely to accept any equipment that relies largely on foreign made parts.
@@ -170,8 +164,6 @@ Eastwind_EQ2050_-_4.jpg (lit. "Eastwind") EQ2050 at the People's Revolution Mili
 
 Survivable Combat Tactical Vehicle
 
-USMC-09503.jpg
-
 Textron's Survivable Combat Tactical Vehicle (SCTV) is a protective capsule that can increase Humvee survivability to MRAP levels while significantly improving mobility; the modifications come in five kits, but all five need to be installed before the vehicle can be properly called an SCTV. The vehicle features a monocoque V-shaped hull and angled sides to help deflect rocket-propelled grenades (RPGs) with scalable levels of protection. It has greater engine power, replacing the 6.5 liter diesel engine with a Cummins 6.7 liter diesel and Allison 6-speed transmission, as well as a stronger suspension, improved brakes, higher ground clearance, and new onboard instrumentation. Fuel capacity is increased from 27 gallons to 40 and the battery and fuel cells are moved from under the rear seat to the rear of the vehicle. Also included are a powerful air conditioner and heating system, run-flat tires, a thermal guard liner under the roof, sharp edges removed from inside the cabin, blast attenuating seats, and a folding gunner's turret allowing rapid deployment from a cargo aircraft or shipboard below deck. Although heavier than the Humvee, the SCTV is half the weight and costs $150,000 less than a comparably survivable MRAP. The basic version is a four-passenger armament carrier, but it can be configured as a nine-passenger troop carrier, air-defense vehicle, flatbed cargo truck, or field ambulance depending on the type of Humvee it is converted from.[78][79][80]
 
 Work began on the SCTV in 2008 in anticipation of U.S. military upgrades, but it was shelved once they made the JLTV a priority. Textron then focused on selling the SCTV upgrade package to up to 25 countries operating the global fleet, a potential market of up to 10,000 vehicles. The upgrade can enhance survivability of previously soft-skinned versions, sometimes sold by the U.S. as Excess Defense Articles, while costing and weighing less than a comparable MRAP. By 2015, Colombia had installed the SCTV into three Humvees for testing, and Ukraine had shown interest in upgrading their old-model Humvees recently supplied by the U.S.[81][82][83] Ukraine ordered three SCTVs in February 2016.[84]
@@ -179,7 +171,7 @@ Work began on the SCTV in 2008 in anticipation of U.S. military upgrades, but it
 
 Operators
 
-HMMWV_Operator_Map.png US_Navy_091004-M-9443M-134_Members_of_the_U.S._Armed_Forces_and_the_Armed_Forces_of_the_Philippines_deliver_family_food_packs.jpg, 2009.]] AGM-114HellfireHMMWV.jpg missile.]] M1114CLB5HMMWVPUSHOIF.JPG Hummer_TOW_español.JPG anti-tank missile.]] Mars_Institute_Humvee.JPG's Moon-1 HMMWV Rover waits for C-130 airlift at Cambridge Bay, Canada in 2009.]]
+, 2009.]] missile.]] anti-tank missile.]] 's Moon-1 HMMWV Rover waits for C-130 airlift at Cambridge Bay, Canada in 2009.]]
 
 -   – Afghanistan has ordered 3,334 more in 2010 and 2011 for its National Police, National Guard and other military.[85] 950 M1114 vehicles delivered to the army by November 2012.[86]
 

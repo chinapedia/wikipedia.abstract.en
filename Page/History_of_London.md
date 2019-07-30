@@ -18,7 +18,7 @@ Early history
 
 Roman London (AD 47 - AD 410)
 
-Antoninianus_Carausius_leg4-RIC_0069v.jpg coin from Londinium mint.]] Constantius_I_capturing_London_after_defeating_Allectus_Beaurains_hoard.jpg capturing London (inscribed as ) in 296 after defeating Allectus. Beaurains hoard.]] _Londinium_ was established as a civilian town by the Romans about four years[9] after the invasion of AD 43. London, like Rome, was founded on the point of the river where it was narrow enough to bridge and the strategic location of the city provided easy access to much of Europe. Early Roman London occupied a relatively small area, roughly equivalent to the size of Hyde Park. In around AD 60, it was destroyed by the Iceni led by their queen Boudica. The city was quickly rebuilt as a planned Roman town and recovered after perhaps 10 years, the city growing rapidly over the following decades.
+coin from Londinium mint.]] capturing London (inscribed as ) in 296 after defeating Allectus. Beaurains hoard.]] _Londinium_ was established as a civilian town by the Romans about four years[9] after the invasion of AD 43. London, like Rome, was founded on the point of the river where it was narrow enough to bridge and the strategic location of the city provided easy access to much of Europe. Early Roman London occupied a relatively small area, roughly equivalent to the size of Hyde Park. In around AD 60, it was destroyed by the Iceni led by their queen Boudica. The city was quickly rebuilt as a planned Roman town and recovered after perhaps 10 years, the city growing rapidly over the following decades.
 
 During the 2nd century _Londinium_ was at its height and replaced Colchester as the capital of Roman Britain (Britannia). Its population was around 60,000 inhabitants. It boasted major public buildings, including the largest basilica north of the Alps, temples, bath houses, an amphitheatre and a large fort for the city garrison. Political instability and recession from the 3rd century onwards led to a slow decline.
 
@@ -40,11 +40,11 @@ At this time Essex was under the overlordship of King Æthelberht of Kent, and i
 
 The permanent establishment of Christianity in the East Saxon kingdom took place in the reign of King Sigeberht II in the 650s. During the 8th century, the kingdom of Mercia extended its dominance over south-eastern England, initially through overlordship which at times developed into outright annexation. London seems to have come under direct Mercian control in the 730s.
 
-Alfred_the_Great_silver_coin.jpg Statue_d'Alfred_le_Grand_à_Winchester.jpg at Winchester, erected 1899]]
+at Winchester, erected 1899]]
 
 Viking attacks dominated most of the 9th century, becoming increasingly common from around 830 onwards. London was sacked in 842 and again in 851. The Danish "Great Heathen Army", which had rampaged across England since 865, wintered in London in 871. The city remained in Danish hands until 886, when it was captured by the forces of King Alfred the Great of Wessex and reincorporated into Mercia, then governed under Alfred's sovereignty by his son-in-law Ealdorman Æthelred.
 
-Southwark_Bridge_City_Plaque.JPG noting the re-establishment of the Roman walled city]]
+noting the re-establishment of the Roman walled city]]
 
 Around this time the focus of settlement moved within the old Roman walls for the sake of defence, and the city became known as _Lundenburh_. The Roman walls were repaired and the defensive ditch re-cut, while the bridge was probably rebuilt at this time. A second fortified Borough was established on the south bank at Southwark, the _Suthringa Geworc_ (defensive work of the men of Surrey). The old settlement of _Lundenwic_ became known as the _ealdwic_ or "old settlement", a name which survives today as Aldwich.
 
@@ -62,7 +62,7 @@ The Normans advanced to the south bank of the Thames opposite London, where they
 
 Norman and Medieval London (1066 – late 15th century)
 
-towrlndn.JPG, in the Tower of London from a 15th-century manuscript.]]
+, in the Tower of London from a 15th-century manuscript.]]
 
 The new Norman regime established new fortresses within the city to dominate the native population. By far the most important of these was the Tower of London at the eastern end of the city, where the initial timber fortification was rapidly replaced by the construction of the first stone castle in England. The smaller forts of Baynard's Castle and Montfichet's Castle were also established along the waterfront. King William also granted a charter in 1067 confirming the city's existing rights, privileges and laws. London was a centre of England's nascent Jewish population, the first of whom arrived in about 1070.[12] Its growing self-government was consolidated by the election rights granted by King John in 1199 and 1215.
 
@@ -78,7 +78,7 @@ In 1224, after an accusation of ritual murder, the Jewish community was subjecte
 
 London's Jewish community was forced to leave England by the expulsion by Edward I in 1290. They left for France, Holland and further afield; their property was seized, and many suffered robbery and murder as they departed.[16]
 
-Over the following centuries, London would shake off the heavy French cultural and linguistic influence which had been there since the times of the Norman conquest. The city would figure heavily in the development of Early Modern English. Map_of_London,_1300.svg
+Over the following centuries, London would shake off the heavy French cultural and linguistic influence which had been there since the times of the Norman conquest. The city would figure heavily in the development of Early Modern English.
 
 During the Peasants' Revolt of 1381, London was invaded by rebels led by Wat Tyler. A group of peasants stormed the Tower of London and executed the Lord Chancellor, Archbishop Simon Sudbury, and the Lord Treasurer. The peasants looted the city and set fire to numerous buildings. Tyler was stabbed to death by the Lord Mayor William Walworth in a confrontation at Smithfield and the revolt collapsed.
 
@@ -92,10 +92,9 @@ Modern history
 Tudor London (1485–1603)
 
   Wyngaerde's "Panorama of London in 1543"
-  ----------------------------------------------------
-  Panorama_of_London_in_1543_Wyngaerde_Section_1.jpg
+  ------------------------------------------
 
-London_-_John_Norden's_map_of_1593.jpg's map of London in 1593. There is only one bridge across the Thames, but parts of Southwark on the south bank of the river have been developed.]]
+'s map of London in 1593. There is only one bridge across the Thames, but parts of Southwark on the south bank of the river have been developed.]]
 
 In 1475, the Hanseatic League set up its main English trading base (_kontor_) in London, called _Stalhof_ or _Steelyard_. It existed until 1853, when the Hanseatic cities of Lübeck, Bremen and Hamburg sold the property to South Eastern Railway.[17] Woollen cloth was shipped undyed and undressed from 14th/15th century London to the nearby shores of the Low Countries, where it was considered indispensable.[18]
 
@@ -107,7 +106,7 @@ The period saw London rapidly rising in importance among Europe's commercial cen
 
 The late 16th and early 17th century saw the great flourishing of drama in London whose preeminent figure was William Shakespeare. During the mostly calm later years of Elizabeth's reign, some of her courtiers and some of the wealthier citizens of London built themselves country residences in Middlesex, Essex and Surrey. This was an early stirring of the villa movement, the taste for residences which were neither of the city nor on an agricultural estate, but at the time of Elizabeth's death in 1603, London was still very compact.
 
-Civitas_Londinium_or_The_Agas_Map_of_London.jpg, formally titled _Civitas Londinum_ ()]]
+, formally titled _Civitas Londinum_ ()]]
 
 Xenophobia was rampant in London, and increased after the 1580s. Many immigrants became disillusioned by routine threats of violence and molestation, attempts at expulsion of foreigners, and the great difficulty in acquiring English citizenship. Dutch cities proved more hospitable, and many left London permanently.[22] Foreigners are estimated to have made up 4,000 of the 100,000 residents of London by 1600, many being Dutch and German workers and traders.[23]
 
@@ -121,7 +120,7 @@ The general meeting-place of Londoners in the day-time was the nave of Old St. P
 
 Charles I acceded to the throne in 1625. During his reign, aristocrats began to inhabit the West End in large numbers. In addition to those who had specific business at court, increasing numbers of country landowners and their families lived in London for part of the year simply for the social life. This was the beginning of the "London season". Lincoln's Inn Fields was built about 1629.[26] The piazza of Covent Garden, designed by England's first classically trained architect Inigo Jones followed in about 1632. The neighbouring streets were built shortly afterwards, and the names of Henrietta, Charles, James, King and York Streets were given after members of the royal family.[27]
 
-Samuel_Pepys.jpg, chronicler of Stuart London]] In January 1642 five members of parliament whom the King wished to arrest were granted refuge in the City. In August of the same year the King raised his banner at Nottingham, and during the English Civil War London took the side of the parliament. Initially the king had the upper hand in military terms and in November he won the Battle of Brentford a few miles to the west of London. The City organised a new makeshift army and Charles hesitated and retreated. Subsequently, an extensive system of fortifications was built to protect London from a renewed attack by the Royalists. This comprised a strong earthen rampart, enhanced with bastions and redoubts. It was well beyond the City walls and encompassed the whole urban area, including Westminster and Southwark. London was not seriously threatened by the royalists again, and the financial resources of the City made an important contribution to the parliamentarians' victory in the war.
+, chronicler of Stuart London]] In January 1642 five members of parliament whom the King wished to arrest were granted refuge in the City. In August of the same year the King raised his banner at Nottingham, and during the English Civil War London took the side of the parliament. Initially the king had the upper hand in military terms and in November he won the Battle of Brentford a few miles to the west of London. The City organised a new makeshift army and Charles hesitated and retreated. Subsequently, an extensive system of fortifications was built to protect London from a renewed attack by the Royalists. This comprised a strong earthen rampart, enhanced with bastions and redoubts. It was well beyond the City walls and encompassed the whole urban area, including Westminster and Southwark. London was not seriously threatened by the royalists again, and the financial resources of the City made an important contribution to the parliamentarians' victory in the war.
 
 The unsanitary and overcrowded City of London has suffered from the numerous outbreaks of the plague many times over the centuries, but in Britain it is the last major outbreak which is remembered as the "Great Plague" It occurred in 1665 and 1666 and killed around 60,000 people, which was one fifth of the population. Samuel Pepys chronicled the epidemic in his diary. On 4 September 1665 he wrote "I have stayed in the city till above 7400 died in one week, and of them about 6000 of the plague, and little noise heard day or night but tolling of bells."[28][29]
 
@@ -129,11 +128,11 @@ Great Fire of London (1666)
 
 The Great Plague was immediately followed by another catastrophe, albeit one which helped to put an end to the plague. On the Sunday, 2 September 1666 the Great Fire of London broke out at one o'clock in the morning at a bakery in Pudding Lane in the southern part of the City. Fanned by an eastern wind the fire spread, and efforts to arrest it by pulling down houses to make firebreaks were disorganised to begin with. On Tuesday night the wind fell somewhat, and on Wednesday the fire slackened. On Thursday it was extinguished, but on the evening of that day the flames again burst forth at the Temple. Some houses were at once blown up by gunpowder, and thus the fire was finally mastered. The Monument was built to commemorate the fire: for over a century and a half it bore an inscription attributing the conflagration to a _"popish frenzy"_.[30]
 
-John_Evelyn's_plan_for_the_rebuilding_of_London_after_the_Great_Fire.JPG's plan for the rebuilding of London after the Great Fire]] The fire destroyed about 60% of the City, including Old St Paul's Cathedral, 87 parish churches, 44 livery company halls and the Royal Exchange. However, the number of lives lost was surprisingly small; it is believed to have been 16 at most. Within a few days of the fire, three plans were presented to the king for the rebuilding of the city, by Christopher Wren, John Evelyn and Robert Hooke.[31]
+'s plan for the rebuilding of London after the Great Fire]] The fire destroyed about 60% of the City, including Old St Paul's Cathedral, 87 parish churches, 44 livery company halls and the Royal Exchange. However, the number of lives lost was surprisingly small; it is believed to have been 16 at most. Within a few days of the fire, three plans were presented to the king for the rebuilding of the city, by Christopher Wren, John Evelyn and Robert Hooke.[31]
 
 Wren proposed to build main thoroughfares north and south, and east and west, to insulate all the churches in conspicuous positions, to form the most public places into large piazzas, to unite the halls of the 12 chief livery companies into one regular square annexed to the Guildhall, and to make a fine quay on the bank of the river from Blackfriars to the Tower of London. Wren wished to build the new streets straight and in three standard widths of thirty, sixty and ninety feet. Evelyn's plan differed from Wren's chiefly in proposing a street from the church of St Dunstan's in the East to the St Paul's, and in having no quay or terrace along the river. These plans were not implemented, and the rebuilt city generally followed the streetplan of the old one, and most of it has survived into the 21st century.
 
-London_-_Richard_Blome's_map_of_1673.JPG's map of London (1673). The development of the West End had recently begun to accelerate.]]
+'s map of London (1673). The development of the West End had recently begun to accelerate.]]
 
 Nonetheless, the new City was different from the old one. Many aristocratic residents never returned, preferring to take new houses in the West End, where fashionable new districts such as St. James's were built close to the main royal residence, which was Whitehall Palace until it was destroyed by fire in the 1690s, and thereafter St. James's Palace. The rural lane of Piccadilly sprouted courtiers mansions such as Burlington House. Thus the separation between the middle class mercantile City of London, and the aristocratic world of the court in Westminster became complete.[32]
 
@@ -147,21 +146,21 @@ At this time the Bank of England was founded, and the British East India Company
 
 William III, a Dutchman, cared little for London, the smoke of which gave him asthma, and after the first fire at Whitehall Palace (1691) he purchased Nottingham House and transformed it into Kensington Palace. Kensington was then an insignificant village, but the arrival of the court soon caused it to grow in importance. The palace was rarely favoured by future monarchs, but its construction was another step in the expansion of the bounds of London. During the same reign Greenwich Hospital, then well outside the boundary of London, but now comfortably inside it, was begun; it was the naval complement to the Chelsea Hospital for former soldiers, which had been founded in 1681. During the reign of Queen Anne an act was passed authorising the building of 50 new churches to serve the greatly increased population living outside the boundaries of the City of London.[37]
 
-City_of_London_Ogilby_and_Morgan's_Map_of_1677.jpg, His Majesties Cosmographer.".]]
+, His Majesties Cosmographer.".]]
 
 18th century
 
-Panoramic_view_of_London_in_1751_by_T._Bowles.JPG The 18th century was a period of rapid growth for London, reflecting an increasing national population, the early stirrings of the Industrial Revolution, and London's role at the centre of the evolving British Empire.
+The 18th century was a period of rapid growth for London, reflecting an increasing national population, the early stirrings of the Industrial Revolution, and London's role at the centre of the evolving British Empire.
 
 In 1707, an Act of Union was passed merging the Scottish and the English Parliaments, thus establishing the Kingdom of Great Britain. A year later, in 1708 Christopher Wren's masterpiece, St Paul's Cathedral was completed on his birthday. However, the first service had been held on 2 December 1697; more than 10 years earlier. This Cathedral replaced the original St. Paul's which had been completely destroyed in the Great Fire of London. This building is considered one of the finest in Britain and a fine example of Baroque architecture.
 
-StPaulsClockTower.jpg]]
+]]
 
 Many tradesmen from different countries came to London to trade goods and merchandise. Also, more immigrants moved to London making the population greater. More people also moved to London for work and for business making London an altogether bigger and busier city. Britain's victory in the Seven Years' War increased the country's international standing and opened large new markets to British trade, further boosting London's prosperity.
 
 During the Georgian period London spread beyond its traditional limits at an accelerating pace. This is shown in a series of detailed maps, particularly John Rocque's 1741–45 map _(see below)_ and his 1746 Map of London. New districts such as Mayfair were built for the rich in the West End, new bridges over the Thames encouraged an acceleration of development in South London and in the East End, the Port of London expanded downstream from the City. During this period was also the uprising of the American colonies. In 1780, the Tower of London held its only American prisoner, former President of the Continental Congress, Henry Laurens. In 1779, he was the Congress's representative of Holland, and got the country's support for the Revolution. On his return voyage back to America, the Royal Navy captured him and charged him with treason after finding evidence of a reason of war between Great Britain and the Netherlands. He was released from the Tower on 21 December 1781 in exchange for General Lord Cornwallis.
 
-In 1762, George III acquired Buckingham Palace (then called Buckingham House) from the Duke of Buckingham. It was enlarged over the next 75 years by architects such as John Nash. Buckingham_House_1710.jpeg as it appeared in the 17th century]] Buckingham_Palace_engraved_by_J.Woods_after_Hablot_Browne_&_R.Garland_publ_1837_edited.jpg]] A phenomenon of the era was the coffeehouse, which became a popular place to debate ideas. Growing literacy and the development of the printing press meant that news became widely available. Fleet Street became the centre of the embryonic national press during the century.
+In 1762, George III acquired Buckingham Palace (then called Buckingham House) from the Duke of Buckingham. It was enlarged over the next 75 years by architects such as John Nash. as it appeared in the 17th century]] ]] A phenomenon of the era was the coffeehouse, which became a popular place to debate ideas. Growing literacy and the development of the printing press meant that news became widely available. Fleet Street became the centre of the embryonic national press during the century.
 
 18th-century London was dogged by crime. The Bow Street Runners were established in 1750 as a professional police force. Penalties for crime were harsh, with the death penalty being applied for fairly minor crimes. Public hangings were common in London, and were popular public events.
 
@@ -173,11 +172,11 @@ Up until 1750, London Bridge was the only crossing over the Thames, but in that 
 
 The 18th century saw the breakaway of the American colonies and many other unfortunate events in London, but also great change and Enlightenment. This all led into the beginning of modern times, the 19th century.
 
-Rocque's_Map_of_London_1741-5.jpg's Map of London, 1741-5.]]
+'s Map of London, 1741-5.]]
 
 19th century
 
-London_engraved_by_J._&_C._Walker_in_1845_from_a_map_by_R_Creighton.JPG.]] During the 19th century, London was transformed into the world's largest city and capital of the British Empire. Its population expanded from 1 million in 1800 to 6.7 million a century later. During this period, London became a global political, financial, and trading capital. In this position, it was largely unrivalled until the latter part of the century, when Paris and New York began to threaten its dominance.
+.]] During the 19th century, London was transformed into the world's largest city and capital of the British Empire. Its population expanded from 1 million in 1800 to 6.7 million a century later. During this period, London became a global political, financial, and trading capital. In this position, it was largely unrivalled until the latter part of the century, when Paris and New York began to threaten its dominance.
 
 While the city grew wealthy as Britain's holdings expanded, 19th-century London was also a city of poverty, where millions lived in overcrowded and unsanitary slums. Life for the poor was immortalised by Charles Dickens in such novels as Oliver Twist In 1810, after the death of Sir Francis Baring and Abraham Goldsmid, Rothschild emerges as the major banker in London.
 
@@ -189,7 +188,7 @@ The first railway to be built in London was a line from London Bridge to Greenwi
 
 The urbanised area continued to grow rapidly, spreading into Islington, Paddington, Belgravia, Holborn, Finsbury, Shoreditch, Southwark and Lambeth. Towards the middle of the century, London's antiquated local government system, consisting of ancient parishes and vestries, struggled to cope with the rapid growth in population. In 1855, the Metropolitan Board of Works (MBW) was created to provide London with adequate infrastructure to cope with its growth. One of its first tasks was addressing London's sanitation problems. At the time, raw sewage was pumped straight into the River Thames. This culminated in The Great Stink of 1858.[39] Parliament finally gave consent for the MBW to construct a large system of sewers. The engineer put in charge of building the new system was Joseph Bazalgette. In what was one of the largest civil engineering projects of the 19th century, he oversaw construction of over 2100 km of tunnels and pipes under London to take away sewage and provide clean drinking water. When the London sewerage system was completed, the death toll in London dropped dramatically, and epidemics of cholera and other diseases were curtailed. Bazalgette's system is still in use today.[40]
 
-One of the most famous events of 19th-century London was the Great Exhibition of 1851. Held at The Crystal Palace, the fair attracted 6 million visitors from across the world and displayed Britain at the height of its Imperial dominance.[41] Westminster.JPG As the capital of a massive empire, London became a magnet for immigrants from the colonies and poorer parts of Europe. A large Irish population settled in the city during the Victorian period, with many of the newcomers refugees from the Great Famine (1845–1849). At one point, Catholic Irish made up about 20% of London's population; they typically lived in overcrowded slums.[42] London also became home to a sizable Jewish community, which was notable for its entrepreneurship in the clothing trade and merchandising.[43]
+One of the most famous events of 19th-century London was the Great Exhibition of 1851. Held at The Crystal Palace, the fair attracted 6 million visitors from across the world and displayed Britain at the height of its Imperial dominance.[41] As the capital of a massive empire, London became a magnet for immigrants from the colonies and poorer parts of Europe. A large Irish population settled in the city during the Victorian period, with many of the newcomers refugees from the Great Famine (1845–1849). At one point, Catholic Irish made up about 20% of London's population; they typically lived in overcrowded slums.[42] London also became home to a sizable Jewish community, which was notable for its entrepreneurship in the clothing trade and merchandising.[43]
 
 In 1888, the new County of London was established, administered by the London County Council. This was the first elected London-wide administrative body, replacing the earlier Metropolitan Board of Works, which had been made up of appointees. The County of London covered broadly what was then the full extent of the London conurbation, although the conurbation later outgrew the boundaries of the county. In 1900, the county was sub-divided into 28 metropolitan boroughs, which formed a more local tier of administration than the county council.
 
@@ -205,7 +204,7 @@ Many famous buildings and landmarks of London were constructed during the 19th c
 
 1900 to 1939
 
-Cheapside_1909.jpg pictured in 1909, with the church of St Mary-le-Bow in the background.]] London entered the 20th century at the height of its influence as the capital of one of the largest empires in history, but the new century was to bring many challenges.
+pictured in 1909, with the church of St Mary-le-Bow in the background.]] London entered the 20th century at the height of its influence as the capital of one of the largest empires in history, but the new century was to bring many challenges.
 
 London's population continued to grow rapidly in the early decades of the century, and public transport was greatly expanded. A large tram network was constructed by the London County Council, through the LCC Tramways; the first motorbus service began in the 1900s. Improvements to London's overground and underground rail network, including large scale electrification were progressively carried out.
 
@@ -221,7 +220,7 @@ Labour Party politician Herbert Morrison was a dominant figure in local governme
 
 In World War II
 
-Blitzaftermath.jpg, 1941.]]
+, 1941.]]
 
 During World War II, London, as many other British cities, suffered severe damage, being bombed extensively by the _Luftwaffe_ as a part of The Blitz. Prior to the bombing, hundreds of thousands of children in London were evacuated to the countryside to avoid the bombing. Civilians took shelter from the air raids in underground stations.
 
@@ -233,13 +232,13 @@ London suffered severe damage and heavy casualties, the worst hit part being the
 
 1945–2000
 
-London_,_Piccadilly_Circus_looking_up_Shaftsbury_Ave_,_circa_1949_,Kodachrome_by_Chalmers_Butterfield.jpg, ]] Three years after the war, the 1948 Summer Olympics were held at the original Wembley Stadium, at a time when the city had barely recovered from the war. London's rebuilding was slow to begin. However, in 1951 the Festival of Britain was held, which marked an increasing mood of optimism and forward looking.
+, ]] Three years after the war, the 1948 Summer Olympics were held at the original Wembley Stadium, at a time when the city had barely recovered from the war. London's rebuilding was slow to begin. However, in 1951 the Festival of Britain was held, which marked an increasing mood of optimism and forward looking.
 
 In the immediate postwar years housing was a major issue in London, due to the large amount of housing which had been destroyed in the war. The authorities decided upon high-rise blocks of flats as the answer to housing shortages. During the 1950s and 1960s the skyline of London altered dramatically as tower blocks were erected, although these later proved unpopular. In a bid to reduce the number of people living in overcrowded housing, a policy was introduced of encouraging people to move into newly built new towns surrounding London.[48]
 
 Through the 19th and in the early half of the 20th century, Londoners used coal for heating their homes, which produced large amounts of smoke. In combination with climatic conditions this often caused a characteristic smog, and London became known for its typical "London Fog", also known as "Pea Soupers". London was sometimes referred to as "The Smoke" because of this. In 1952, this culminated in the disastrous Great Smog of 1952 which lasted for five days and killed over 4,000 people. In response to this, the Clean Air Act 1956 was passed, mandating the creating of "smokeless zones" where the use of "smokeless" fuels was required (this was at a time when most households still used open fires); the Act was effective.[49]
 
-Londons_Carnaby_Street,_1966.jpg in the 1960s]] Starting in the mid-1960s, and partly as a result of the success of such UK musicians as the Beatles and The Rolling Stones, London became a centre for the worldwide youth culture, exemplified by the Swinging London subculture which made Carnaby Street a household name of youth fashion around the world. London's role as a trendsetter for youth fashion was revived strongly in the 1980s during the new wave and punk eras. In the mid-1990s this was revived to some extent with the emergence of the Britpop era.
+in the 1960s]] Starting in the mid-1960s, and partly as a result of the success of such UK musicians as the Beatles and The Rolling Stones, London became a centre for the worldwide youth culture, exemplified by the Swinging London subculture which made Carnaby Street a household name of youth fashion around the world. London's role as a trendsetter for youth fashion was revived strongly in the 1980s during the new wave and punk eras. In the mid-1990s this was revived to some extent with the emergence of the Britpop era.
 
 From the 1950s onwards London became home to a large number of immigrants, largely from Commonwealth countries such as Jamaica, India, Bangladesh, Pakistan, which dramatically changed the face of London, turning it into one of the most diverse cities in Europe. However, the integration of the new immigrants was not always easy. Racial tensions emerged in events such as the Brixton Riots in the early 1980s.[50]
 
@@ -257,7 +256,7 @@ In 2000, London-wide government was restored, with the creation of the Greater L
 
 21st century
 
-Skyscrapper_Shard_London.jpg, an icon of 21st century London]]
+, an icon of 21st century London]]
 
 Around the start of the 21st century, London hosted the much derided Millennium Dome at Greenwich, to mark the new century. Other Millennium projects were more successful. One was the largest observation wheel in the world, the "Millennium Wheel", or the London Eye, which was erected as a temporary structure, but soon became a fixture, and draws four million visitors a year. The National Lottery also released a flood of funds for major enhancements to existing attractions, for example the roofing of the Great Court at the British Museum.
 

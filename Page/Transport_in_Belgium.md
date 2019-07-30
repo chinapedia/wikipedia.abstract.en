@@ -1,9 +1,9 @@
-Eurostars_373_210_and_373_205_Brussels-South,_June_2014.JPG trains in Brussel Zuid-Bruxelles Midi station.]] TRANSPORT IN BELGIUM is facilitated with well-developed road, air, rail and water networks. The rail network has of electrified tracks.[1] There are of roads, among which there are of motorways, of main roads and of other paved roads.[2] There is also a well-developed urban rail network in Brussels, Antwerp and Charleroi. The ports of Antwerp and Bruges-Zeebrugge are two of the biggest seaports in Europe. Brussels Airport is Belgium's biggest airport.
+trains in Brussel Zuid-Bruxelles Midi station.]] TRANSPORT IN BELGIUM is facilitated with well-developed road, air, rail and water networks. The rail network has of electrified tracks.[1] There are of roads, among which there are of motorways, of main roads and of other paved roads.[2] There is also a well-developed urban rail network in Brussels, Antwerp and Charleroi. The ports of Antwerp and Bruges-Zeebrugge are two of the biggest seaports in Europe. Brussels Airport is Belgium's biggest airport.
 
 
 Railways
 
-Noorderkempen_shuttle.JPG Bruxelles-Midi_0005.jpg.]] Rail transport in Belgium was historically managed by the National Railway Company of Belgium, known as SNCB in French and NMBS in Dutch. In 2005, the public company was split into 2 companies: Infrabel, which manages the rail network and SNCB/NMBS itself, which manages the freight and passenger services. Both companies are held by a third company, named SNCB/NMBS Holding. There is a total of , ( double track (as of 1998)), of which are electrified, mainly at 3,000 volts DC but with at 25 kV 50 Hz AC (2004) and all on standard gauge of . In 2004 the National Railway Company of Belgium, carried 178.4 million passengers a total of 8,676 million passenger-kilometres. Due to the high population density, operations are relatively profitable, so tickets are cheap and the frequency of services is high. The SNCB/NMBS is continually updating its rolling stock.
+.]] Rail transport in Belgium was historically managed by the National Railway Company of Belgium, known as SNCB in French and NMBS in Dutch. In 2005, the public company was split into 2 companies: Infrabel, which manages the rail network and SNCB/NMBS itself, which manages the freight and passenger services. Both companies are held by a third company, named SNCB/NMBS Holding. There is a total of , ( double track (as of 1998)), of which are electrified, mainly at 3,000 volts DC but with at 25 kV 50 Hz AC (2004) and all on standard gauge of . In 2004 the National Railway Company of Belgium, carried 178.4 million passengers a total of 8,676 million passenger-kilometres. Due to the high population density, operations are relatively profitable, so tickets are cheap and the frequency of services is high. The SNCB/NMBS is continually updating its rolling stock.
 
 The network currently includes four high speed lines, three operating up to , and one up to . HSL 1 runs from just south of Brussels to the French border, where it continues to Lille, and from there to Paris or London. HSL 2 runs from Leuven to Liège. HSL 3 continues this route from Liège to the German border near Aachen. HSL 4 runs from Antwerp to Rotterdam by meeting HSL-Zuid at the border with Netherlands.
 
@@ -35,7 +35,7 @@ Road transport
 
 Road network
 
-Lijn11_a12.jpg with a railway in the centre.]] The road network in Belgium is managed by regional authorities, meaning that a road section in Flanders is managed by the Flemish Government, a road section in Brussels by the Brussels government and a road section in Wallonia by the Walloon Government. This explains that road signs in Flanders are written in Dutch, even when referring to a Walloon region, and conversely, which can be confusing for foreigners who do not know the different translations of Flemish or Walloon cities in the other language. The road network in Belgium is made of highways, national (or regional) roads (the secondary network) and communal roads (or streets). Communal roads are managed at the municipal level. There are also a number of orbital roads in Belgium around major cities.
+with a railway in the centre.]] The road network in Belgium is managed by regional authorities, meaning that a road section in Flanders is managed by the Flemish Government, a road section in Brussels by the Brussels government and a road section in Wallonia by the Walloon Government. This explains that road signs in Flanders are written in Dutch, even when referring to a Walloon region, and conversely, which can be confusing for foreigners who do not know the different translations of Flemish or Walloon cities in the other language. The road network in Belgium is made of highways, national (or regional) roads (the secondary network) and communal roads (or streets). Communal roads are managed at the municipal level. There are also a number of orbital roads in Belgium around major cities.
 
 -   _total:_ 152,256 km (2006)
 -   _country comparison to the world:_ 35
@@ -117,8 +117,6 @@ Water
 
 Ports and harbours
 
-Zicht_op_het_Delwaidedok.jpg
-
 Sea ports
 
 -   Antwerp - Port of Antwerp 2 (one of the world's busiest ports)
@@ -147,7 +145,7 @@ The Belgian waterway network has 2,043 km, 1,532 km of which in regular commer
 
 Air transport
 
-Zaventem_Brussels_airport.jpg According to the 2009 CIA World Factbook, there are a total of 43 airports in Belgium, 27 of which have paved runways. Airplane passengers in Belgium can use 5 airports, the largest of which being the Brussels Airport. The other airports are the Ostend-Bruges International Airport, the Brussels-South Charleroi Airport, the Liège Airport and the Antwerp International Airport.[9] Other airports are military airports or small civil airports with no scheduled flights. Well-known military airports include the Melsbroek Air Base and the Beauvechain Air Base. Belgium has also 1 heliport.
+According to the 2009 CIA World Factbook, there are a total of 43 airports in Belgium, 27 of which have paved runways. Airplane passengers in Belgium can use 5 airports, the largest of which being the Brussels Airport. The other airports are the Ostend-Bruges International Airport, the Brussels-South Charleroi Airport, the Liège Airport and the Antwerp International Airport.[9] Other airports are military airports or small civil airports with no scheduled flights. Well-known military airports include the Melsbroek Air Base and the Beauvechain Air Base. Belgium has also 1 heliport.
 
 The Belgian national airline used to be Sabena from 1923 to 2001, until it went into bankruptcy. A new Belgian airline named SN Brussels Airlines was subsequently founded by business man Étienne Davignon. The company was then renamed as Brussels Airlines in 2006. In 2009, Brussels Airlines was taken over by German airline Lufthansa.
 

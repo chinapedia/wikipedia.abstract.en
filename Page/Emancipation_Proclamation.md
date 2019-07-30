@@ -11,8 +11,6 @@ The Emancipation Proclamation broadened the goals of the Civil War. While slaver
 
 Authority
 
-Brooklyn_Museum_-_Abraham_Lincoln_-_overall.jpg
-
 The United States Constitution of 1787 did not use the word "slavery" but included several provisions about unfree persons. The Three-Fifths Compromise (in Article I, Section 2) allocated Congressional representation based "on the whole Number of free Persons" and "three fifths of all other Persons".[10] Under the Fugitive Slave Clause (Article IV, Section 2), "[n]o person held to service or labour in one state" would be freed by escaping to another. Article I, Section 9 allowed Congress to pass legislation to outlaw the "Importation of Persons", but not until 1808.[11] However, for purposes of the Fifth Amendment—which states that, "No person shall ... be deprived of life, liberty, or property, without due process of law"—slaves were understood as property.[12] Although abolitionists used the Fifth Amendment to argue against slavery, it became part of the legal basis for treating slaves as property with _Dred Scott v. Sandford_ (1857).[13] Socially, slavery was also supported in law and in practice by a pervasive culture of white supremacy.[14] Nonetheless, between 1777 and 1804, every Northern state provided for the immediate or gradual abolition of slavery, except the border states of Maryland and Delaware. Maryland did not abolish slavery until 1864,[15] and Delaware was one of the last states to hold onto slavery; it was still legal in Delaware when the thirteenth amendment was issued.[16] No Southern state did so, and the slave population of the South continued to grow, peaking at almost four million people at the beginning of the American Civil War, when most slave states sought to break away from the United States.[17]
 
 Lincoln understood that the Federal government's power to end slavery in peacetime was limited by the Constitution which before 1865, committed the issue to individual states.[18] Against the background of the American Civil War, however, Lincoln issued the Proclamation under his authority as "Commander-in-Chief of the Army and Navy" under Article II, section 2 of the United States Constitution.[19] As such, he claimed to have the martial power to free persons held as slaves in those states that were in rebellion "as a fit and necessary war measure for suppressing said rebellion".[20] He did not have Commander-in-Chief authority over the four slave-holding states that were not in rebellion: Missouri, Kentucky, Maryland and Delaware, and so those states were not named in the Proclamation. The fifth border jurisdiction, West Virginia, where slavery remained legal but was in the process of being abolished, was, in January 1863, still part of the legally recognized, "reorganized" state of Virginia, based in Alexandria, which was in the Union (as opposed to the Confederate state of Virginia, based in Richmond).
@@ -24,7 +22,7 @@ The Proclamation applied in the ten states that were still in rebellion in 1863,
 
 The state of Tennessee had already mostly returned to Union control, under a recognized Union government, so it was not named and was exempted. Virginia was named, but exemptions were specified for the 48 counties then in the process of forming the new state of West Virginia, and seven additional counties and two cities in the Union-controlled Tidewater region of Virginia.[21] Also specifically exempted were New Orleans and 13 named parishes of Louisiana, which were mostly under federal control at the time of the Proclamation. These exemptions left unemancipated an additional 300,000 slaves.[22]
 
-Am_Arch_Sculpt_4.jpg in Lincoln, Nebraska]]
+in Lincoln, Nebraska]]
 
 The Emancipation Proclamation has been ridiculed, notably in an influential passage by Richard Hofstadter for "freeing" only the slaves over which the Union had no power.[23] These slaves were freed due to Lincoln's "war powers". This act cleared up the issue of contraband slaves.[24] It automatically clarified the status of over 100,000 now-former slaves. Some 20,000 to 50,000 slaves were freed the day it went into effect[25] in parts of nine of the ten states to which it applied (Texas being the exception).[26] In every Confederate state (except Tennessee and Texas), the Proclamation went into immediate effect in Union-occupied areas and at least 20,000 slaves[27][28] were freed at once on January 1, 1863.
 
@@ -49,7 +47,7 @@ In July, Congress passed and Lincoln signed the Confiscation Act of 1862, contai
 
 Public opinion of emancipation
 
-Gordon,_scourged_back,_NPG,_1863.jpg, widely distributed by Abolitionists to expose the brutality of slavery]] Lincoln_Speaks_to_Freedmen_on_the_Steps_of_the_Capital_at_Richmond.jpg
+, widely distributed by Abolitionists to expose the brutality of slavery]]
 
 Abolitionists had long been urging Lincoln to free all slaves. In the summer of 1862, Republican editor Horace Greeley of the highly influential New York Tribune wrote a famous editorial entitled "The Prayer of Twenty Millions" demanding a more aggressive attack on the Confederacy and faster emancipation of the slaves: "On the face of this wide earth, Mr. President, there is not one ... intelligent champion of the Union cause who does not feel ... that the rebellion, if crushed tomorrow, would be renewed if slavery were left in full vigor and that every hour of deference to slavery is an hour of added and deepened peril to the Union."[49] Lincoln responded in his Letter To Horace Greeley from August 22, 1862, in terms of the limits imposed by his duty as president to save the Union:
 
@@ -60,11 +58,11 @@ Conflicting advice, to free all slaves, or not free them at all, was presented t
 
 Drafting and issuance of the proclamation
 
-Eastman_Johnson_-_A_Ride_for_Liberty_--_The_Fugitive_Slaves_-_Google_Art_Project.jpg (American, 1824–1906). _A Ride for Liberty – The Fugitive Slaves (recto)_, ca. 1862.]] Lincoln first discussed the proclamation with his cabinet in July 1862. He drafted his "preliminary proclamation" and read it to Secretary of State William Seward, and Secretary of Navy Gideon Welles, on July 13. Seward and Welles were at first speechless, then Seward referred to possible anarchy throughout the South and resulting foreign intervention; Welles apparently said nothing. On July 22, Lincoln presented it to his entire cabinet as something he had determined to do and he asked their opinion on wording.[58] Although Secretary of War Edwin Stanton supported it, Seward advised Lincoln to issue the proclamation after a major Union victory, or else it would appear as if the Union was giving "its last shriek of retreat".[59]
+(American, 1824–1906). _A Ride for Liberty – The Fugitive Slaves (recto)_, ca. 1862.]] Lincoln first discussed the proclamation with his cabinet in July 1862. He drafted his "preliminary proclamation" and read it to Secretary of State William Seward, and Secretary of Navy Gideon Welles, on July 13. Seward and Welles were at first speechless, then Seward referred to possible anarchy throughout the South and resulting foreign intervention; Welles apparently said nothing. On July 22, Lincoln presented it to his entire cabinet as something he had determined to do and he asked their opinion on wording.[58] Although Secretary of War Edwin Stanton supported it, Seward advised Lincoln to issue the proclamation after a major Union victory, or else it would appear as if the Union was giving "its last shriek of retreat".[59]
 
 In September 1862, the Battle of Antietam gave Lincoln the victory he needed to issue the Emancipation. In the battle, though the Union suffered heavier losses than the Confederates and General McClellan allowed the escape of Robert E. Lee's retreating troops, Union forces turned back a Confederate invasion of Maryland. On September 22, 1862, five days after Antietam occurred, and while living at the Soldier's Home, Lincoln called his cabinet into session and issued the Preliminary Emancipation Proclamation.[60] According to Civil War historian James M. McPherson, Lincoln told Cabinet members that he had made a covenant with God, that if the Union drove the Confederacy out of Maryland, he would issue the Emancipation Proclamation.[61][62] Lincoln had first shown an early draft of the proclamation to Vice President Hannibal Hamlin,[63] an ardent abolitionist, who was more often kept in the dark on presidential decisions. The final proclamation was issued January 1, 1863. Although implicitly granted authority by Congress, Lincoln used his powers as Commander-in-Chief of the Army and Navy, "as a necessary war measure" as the basis of the proclamation, rather than the equivalent of a statute enacted by Congress or a constitutional amendment. Some days after issuing the final Proclamation, Lincoln wrote to Major General John McClernand: "After the commencement of hostilities I struggled nearly a year and a half to get along without touching the "institution"; and when finally I conditionally determined to touch it, I gave a hundred days fair notice of my purpose, to all the States and people, within which time they could have turned it wholly aside, by simply again becoming good citizens of the United States. They chose to disregard it, and I made the peremptory proclamation on what appeared to me to be a military necessity. And being made, it must stand."[64]
 
-Emancipation_Proclamation.jpg in Cincinnati, Ohio]]
+in Cincinnati, Ohio]]
 
 Initially, the Emancipation Proclamation effectively freed only a small percentage of the slaves, those who were behind Union lines in areas not exempted. Most slaves were still behind Confederate lines or in exempted Union-occupied areas. Secretary of State William H. Seward commented, "We show our sympathy with slavery by emancipating slaves where we cannot reach them and holding them in bondage where we can set them free." Had any slave state ended its secession attempt before January 1, 1863, it could have kept slavery, at least temporarily. The Proclamation only gave the Lincoln Administration the legal basis to free the slaves in the areas of the South that were still in rebellion on January 1, 1863. It effectively destroyed slavery as the Union armies advanced south and conquered the entire Confederacy.
 
@@ -75,15 +73,11 @@ Though the counties of Virginia that were soon to form West Virginia were specif
 
 Implementation
 
-Emancipation_Proclamation.PNG
-
 The Proclamation was issued in two parts. The first part, issued on September 22, 1862, was a preliminary announcement outlining the intent of the second part, which officially went into effect 100 days later on January 1, 1863, during the second year of the Civil War. It was Abraham Lincoln's declaration that all slaves would be permanently freed in all areas of the Confederacy that had not already returned to federal control by January 1863. The ten affected states were individually named in the second part (South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, Texas, Virginia, Arkansas, North Carolina). Not included were the Union slave states of Maryland, Delaware, Missouri and Kentucky. Also not named was the state of Tennessee, in which a Union-controlled military government had already been set up, based in the capital, Nashville. Specific exemptions were stated for areas also under Union control on January 1, 1863, namely 48 counties that would soon become West Virginia, seven other named counties of Virginia including Berkeley and Hampshire counties, which were soon added to West Virginia, New Orleans and 13 named parishes nearby.
 
 Union-occupied areas of the Confederate states where the proclamation was put into immediate effect by local commanders included Winchester, Virginia,[71] Corinth, Mississippi,[72] the Sea Islands along the coasts of the Carolinas and Georgia,[73] Key West, Florida,[74] and Port Royal, South Carolina.[75]
 
 Immediate impact
-
-SlaveChildrenUnknown.jpg
 
 It has been inaccurately claimed that the Emancipation Proclamation did not free a single slave;[76] historian Lerone Bennett, Jr. alleged that the proclamation was a hoax deliberately designed not to free any slaves.[77] However, as a result of the Proclamation, many slaves were freed during the course of the war, beginning with the day it took effect; eyewitness accounts at places such as Hilton Head Island, South Carolina,[78] and Port Royal, South Carolina[79] record celebrations on January 1 as thousands of blacks were informed of their new legal status of freedom. Estimates of how many thousands of slaves were freed immediately by the Emancipation Proclamation are varied. One contemporary estimate put the 'contraband' population of Union-occupied North Carolina at 10,000, and the Sea Islands of South Carolina also had a substantial population. Those 20,000 slaves were freed immediately by the Emancipation Proclamation."[80] This Union-occupied zone where freedom began at once included parts of eastern North Carolina, the Mississippi Valley, northern Alabama, the Shenandoah Valley of Virginia, a large part of Arkansas, and the Sea Islands of Georgia and South Carolina.[81] Although some counties of Union-occupied Virginia were exempted from the Proclamation, the lower Shenandoah Valley, and the area around Alexandria were covered.[82] Emancipation was immediately enforced as Union soldiers advanced into the Confederacy. Slaves fled their masters and were often assisted by Union soldiers.[83]
 
@@ -91,7 +85,7 @@ Booker T. Washington, as a boy of 9 in Virginia, remembered the day in early 186
 
 The Proclamation represented a shift in the war objectives of the North—reuniting the nation was no longer the only goal. It represented a major step toward the ultimate abolition of slavery in the United States and a "new birth of freedom".
 
-A_Visit_from_the_Old_Mistress.jpg]]
+]]
 
 Runaway slaves who had escaped to Union lines had previously been held by the Union Army as "contraband of war" under the Confiscation Acts; when the proclamation took effect, they were told at midnight that they were free to leave. The Sea Islands off the coast of Georgia had been occupied by the Union Navy earlier in the war. The whites had fled to the mainland while the blacks stayed. An early program of Reconstruction was set up for the former slaves, including schools and training. Naval officers read the proclamation and told them they were free.
 
@@ -101,7 +95,7 @@ Robert E. Lee saw the Emancipation Proclamation as a way for the Union to bolste
 
 Political impact
 
-TRUMP.JPG, after the _London Times_ stated that Lincoln had played his "last card" in issuing the Proclamation.[88][89] Lincoln's hair is in points, suggesting horns. The cartoon was often reprinted in the Copperhead press.[90][91]]]
+, after the _London Times_ stated that Lincoln had played his "last card" in issuing the Proclamation.[88][89] Lincoln's hair is in points, suggesting horns. The cartoon was often reprinted in the Copperhead press.[90][91]]]
 
 The Proclamation was immediately denounced by Copperhead Democrats who opposed the war and advocated restoring the union by allowing slavery. Horatio Seymour, while running for the governorship of New York, cast the Emancipation Proclamation as a call for slaves to commit extreme acts of violence on all white southerners, saying it was "a proposal for the butchery of women and children, for scenes of lust and rapine, and of arson and murder, which would invoke the interference of civilized Europe".[92] The Copperheads also saw the Proclamation as an unconstitutional abuse of presidential power. Editor Henry A. Reeves wrote in Greenport's _Republican Watchman_ that "In the name of freedom of Negroes, [the proclamation] imperils the liberty of white men; to test a utopian theory of equality of races which Nature, History and Experience alike condemn as monstrous, it overturns the Constitution and Civil Laws and sets up Military Usurpation in their Stead."[93]
 
@@ -144,7 +138,7 @@ In December 1863, Lincoln issued his _Proclamation of Amnesty and Reconstruction
 
 Postbellum
 
-EMANCI4.jpg'' 1865]]
+'' 1865]]
 
 Near the end of the war, abolitionists were concerned that the Emancipation Proclamation would be construed solely as a war measure, Lincoln's original intent, and would no longer apply once fighting ended. They were also increasingly anxious to secure the freedom of all slaves, not just those freed by the Emancipation Proclamation. Thus pressed, Lincoln staked a large part of his 1864 presidential campaign on a constitutional amendment to abolish slavery uniformly throughout the United States. Lincoln's campaign was bolstered by separate votes in both Maryland and Missouri to abolish slavery in those states. Maryland's new constitution abolishing slavery took effect in November 1864. Slavery in Missouri was ended by executive proclamation of its governor, Thomas C. Fletcher, on January 11, 1865.
 
@@ -168,7 +162,7 @@ Legacy in the civil rights era
 
 Dr. Martin Luther King Jr.
 
-President_Barack_Obama_views_the_Emancipation_Proclamation_in_the_Oval_Office_2010-01-18.jpg views the Emancipation Proclamation in the Oval Office next to a bust of Martin Luther King, Jr.]]
+views the Emancipation Proclamation in the Oval Office next to a bust of Martin Luther King, Jr.]]
 
 Dr. Martin Luther King Jr. made many references to the Emancipation Proclamation during the civil rights movement. These include a speech made at an observance of the hundredth anniversary of the issuing of the Proclamation made in New York City on September 12, 1962 where he placed it alongside the Declaration of Independence as an "imperishable" contribution to civilization, and "All tyrants, past, present and future, are powerless to bury the truths in these declarations". He lamented that despite a history where the United States "proudly professed the basic principles inherent in both documents", it "sadly practiced the antithesis of these principles". He concluded "There is but one way to commemorate the Emancipation Proclamation. That is to make its declarations of freedom real; to reach back to the origins of our nation when our message of equality electrified an unfree world, and reaffirm democracy by deeds as bold and daring as the issuance of the Emancipation Proclamation."[118]
 
@@ -196,8 +190,6 @@ As president, Johnson again invoked the proclamation in a speech presenting the 
 
 
 In popular culture
-
-Emancipation_Proclamation_1963_U.S._stamp.1.jpg
 
 In episode 86 of _The Andy Griffith Show_, Andy asks Barney to explain the Emancipation Proclamation to Opie who is struggling with history at school.[124] Barney brags about his history expertise, yet it is apparent he cannot answer Andy's question. He finally becomes frustrated and explains it is a proclamation for certain people who wanted emancipation.[125]
 

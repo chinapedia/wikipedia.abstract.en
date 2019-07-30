@@ -1,4 +1,4 @@
-Response_surface_metodology.jpg (left), response surface with second-degree polynomial (right)]]
+(left), response surface with second-degree polynomial (right)]]
 
 The DESIGN OF EXPERIMENTS (DOE, DOX, or EXPERIMENTAL DESIGN) is the design of any task that aims to describe or explain the variation of information under conditions that are hypothesized to reflect the variation. The term is generally associated with experiments in which the design introduces conditions that directly affect the variation, but may also refer to the design of quasi-experiments, in which natural conditions that influence the variation are selected for observation.
 
@@ -63,8 +63,6 @@ Blocking
 
 Orthogonality
 
-Factorial_Design.svg
-
     Orthogonality concerns the forms of comparison (contrasts) that can be legitimately and efficiently carried out. Contrasts can be represented by vectors and sets of orthogonal contrasts are uncorrelated and independently distributed if the data are normal. Because of this independence, each orthogonal treatment provides different information to the others. If there are _T_ treatments and _T_ – 1 orthogonal contrasts, all the information that can be captured from the experiment is obtainable from the set of contrasts.
 
 Factorial experiments
@@ -73,7 +71,7 @@ Factorial experiments
 
 Example
 
-Balance_à_tabac_1850.JPG This example is attributed to Harold Hotelling.[19] It conveys some of the flavor of those aspects of the subject that involve combinatorial designs.
+This example is attributed to Harold Hotelling.[19] It conveys some of the flavor of those aspects of the subject that involve combinatorial designs.
 
 Weights of eight objects are measured using a pan balance and set of standard weights. Each weighing measures the weight difference between objects in the left pan vs. any objects in the right pan by adding calibrated weights to the lighter pan until the balance is in equilibrium. Each measurement has a random error. The average error is zero; the standard deviations of the probability distribution of the errors is the same number σ on different weighings; errors on different weighings are independent. Denote the true weights by
 

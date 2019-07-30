@@ -44,8 +44,6 @@ The features listed above and growing market support from application software d
 
 OS/2
 
-Os2logo.svg
-
 During the mid to late 1980s, Microsoft and IBM had cooperatively been developing OS/2 as a successor to DOS. OS/2 would take full advantage of the aforementioned protected mode of the Intel 80286 processor and up to 16 MB of memory. OS/2 1.0, released in 1987, supported swapping and multitasking and allowed running of DOS executables.
 
 IBM licensed Windows's GUI for OS/2 as Presentation Manager, and the two companies stated that it and Windows 2.0 would be almost identical.[13] Presentation Manager was not available with OS/2 until version 1.1, released in 1988. Its API was incompatible with Windows. Version 1.2, released in 1989, introduced a new file system, HPFS, to replace the FAT file system.
@@ -120,8 +118,6 @@ Windows NT 4.0 came in four versions:
 
 Windows 98
 
-Windows98.png
-
 On June 25, 1998, Microsoft released Windows 98 (codenamed Memphis). It included new hardware drivers and the FAT32 file system which supports disk partitions that are larger than 2 GB (first introduced in Windows 95 OSR2). USB support in Windows 98 is marketed as a vast improvement over Windows 95. The release continued the controversial inclusion of the Internet Explorer browser with the operating system that started with Windows 95 OEM Service Release 1. The action eventually led to the filing of the United States v. Microsoft case, dealing with the question of whether Microsoft was introducing unfair practices into the market in an effort to eliminate competition from other companies such as Netscape.[19]
 
 In 1999, Microsoft released Windows 98 Second Edition, an interim release. One of the more notable new features was the addition of Internet Connection Sharing, a form of network address translation, allowing several machines on a LAN (Local Area Network) to share a single Internet connection. Hardware support through device drivers was increased and this version shipped with Internet Explorer 5. Many minor problems that existed in the first edition were fixed making it, according to many, the most stable release of the Windows 9x family.[20]
@@ -143,16 +139,12 @@ Windows 2000 was available in four editions:
 
 Windows Me
 
-WindowsME.png
-
 In September 2000, Microsoft released a successor to Windows 98 called Windows Me, short for "Millennium Edition". It was the last DOS-based operating system from Microsoft. Windows Me introduced a new multimedia-editing application called Windows Movie Maker, came standard with Internet Explorer 5.5 and Windows Media Player 7, and debuted the first version of System Restore – a recovery utility that enables the operating system to revert system files back to a prior date and time. System Restore was a notable feature that would continue to thrive in all later versions of Windows.
 
 Windows Me was conceived as a quick one-year project that served as a stopgap release between Windows 98 and Windows XP. Many of the new features were available from the Windows Update site as updates for older Windows versions (_System Restore_ and _Windows Movie Maker_ were exceptions). Windows Me was criticized for stability issues, as well as for lacking real mode DOS support, to the point of being referred to as the "Mistake Edition."[22] Windows Me was the last operating system to be based on the Windows 9x (monolithic) kernel and MS-DOS.
 
 
 Windows XP and Server 2003 series
-
-Windows_XP_SP3.png
 
 On October 25, 2001, Microsoft released Windows XP (codenamed "Whistler"). The merging of the Windows NT/2000 and Windows 95/98/Me lines was finally achieved with Windows XP. Windows XP uses the Windows NT 5.1 kernel, marking the entrance of the Windows NT core to the consumer market, to replace the aging Windows 9x branch. The initial release was met with considerable criticism, particularly in the area of security, leading to the release of three major Service Packs. Windows XP SP1 was released in September 2002, SP2 was released in August 2004 and SP3 was released in April 2008. Service Pack 2 provided significant improvements and encouraged widespread adoption of XP among both home and business users. Windows XP lasted longer as Microsoft's flagship operating system than any other version of Windows, from October 25, 2001 to January 30, 2007 when it was succeeded by Windows Vista.
 
@@ -175,7 +167,7 @@ Windows XP is available in a number of versions:
 
 Windows Server 2003
 
-Windows_Server_2003.png On April 25, 2003, Microsoft launched Windows Server 2003, a notable update to Windows 2000 Server encompassing many new security features, a new "Manage Your Server" wizard that simplifies configuring a machine for specific roles, and improved performance. It has the version number NT 5.2. A few services not essential for server environments are disabled by default for stability reasons, most noticeable are the "Windows Audio" and "Themes" services; users have to enable them manually to get sound or the "Luna" look as per Windows XP. The hardware acceleration for display is also turned off by default, users have to turn the acceleration level up themselves if they trust the display card driver.
+On April 25, 2003, Microsoft launched Windows Server 2003, a notable update to Windows 2000 Server encompassing many new security features, a new "Manage Your Server" wizard that simplifies configuring a machine for specific roles, and improved performance. It has the version number NT 5.2. A few services not essential for server environments are disabled by default for stability reasons, most noticeable are the "Windows Audio" and "Themes" services; users have to enable them manually to get sound or the "Luna" look as per Windows XP. The hardware acceleration for display is also turned off by default, users have to turn the acceleration level up themselves if they trust the display card driver.
 
 In December 2005, Microsoft released Windows Server 2003 R2, which is actually Windows Server 2003 with SP1 (Service Pack 1), together with an add-on package. Among the new features are a number of management features for branch offices, file serving, printing and company-wide identity integration.
 
@@ -199,7 +191,7 @@ Windows XP _Professional_ _x64 Edition_ is not to be confused with Windows XP _6
 
 Windows Fundamentals for Legacy PCs
 
-Windows_Fundamentals_for_Legacy_PCs.PNG In July 2005, Microsoft released a thin-client version of Windows XP Service Pack 2, called Windows Fundamentals for Legacy PCs (WinFLP). It is only available to Software Assurance customers. The aim of WinFLP is to give companies a viable upgrade option for older PCs that are running Windows 95, 98, and Me that will be supported with patches and updates for the next several years. Most user applications will typically be run on a remote machine using Terminal Services or Citrix.
+In July 2005, Microsoft released a thin-client version of Windows XP Service Pack 2, called Windows Fundamentals for Legacy PCs (WinFLP). It is only available to Software Assurance customers. The aim of WinFLP is to give companies a viable upgrade option for older PCs that are running Windows 95, 98, and Me that will be supported with patches and updates for the next several years. Most user applications will typically be run on a remote machine using Terminal Services or Citrix.
 
 Windows Home Server
 
@@ -207,8 +199,6 @@ Windows Home Server (codenamed Q, Quattro) is a server product based on Windows 
 
 
 Windows Vista and Server 2008
-
-Windows_Vista.png
 
 Windows Vista was released on November 30, 2006 to business customers - consumer versions followed on January 30, 2007. Windows Vista intended to have enhanced security by introducing a new restricted user mode called User Account Control, replacing the "administrator-by-default" philosophy of Windows XP. Vista was the target of much criticism and negative press, and in general was not well regarded, this was seen as leading to the relatively swift release of Windows 7.
 
@@ -245,7 +235,7 @@ Windows Server 2008 ships in ten editions:
 
 Windows 7 and Server 2008 R2
 
-Windows_7_SP1_screenshot.png Windows 7 was released to manufacturing on July 22, 2009, and reached general retail availability on October 22, 2009.[30][31] It was previously known by the codenames Blackcomb and Vienna. Windows 7 has the version number NT 6.1. Since its release, Windows 7 has had one service pack.
+Windows 7 was released to manufacturing on July 22, 2009, and reached general retail availability on October 22, 2009.[30][31] It was previously known by the codenames Blackcomb and Vienna. Windows 7 has the version number NT 6.1. Since its release, Windows 7 has had one service pack.
 
 Some features of Windows 7 are faster booting, Device Stage, Windows PowerShell, less obtrusive User Account Control, multi-touch, and improved window management.[32] Features included with Windows Vista and not in Windows 7 include the sidebar (although gadgets remain) and several programs that were removed in favor of downloading their Windows Live counterparts.
 
@@ -275,8 +265,6 @@ Microsoft decided to discontinue Windows Home Server 2011 on July 5, 2012 while 
 
 
 Windows 8 and Server 2012
-
-Windows_8.1_Start_screen.jpg
 
 On October 26, 2012, Microsoft released Windows 8 to the public. One edition, Windows RT, runs on some system-on-a-chip devices with mobile 32-bit ARM (ARMv7) processors. Windows 8 features a redesigned user interface, designed to make it easier for touchscreen users to use Windows. The interface introduced an updated Start menu known as the Start screen, and a new full-screen application platform. The desktop interface is also present for running windowed applications, although Windows RT will not run any desktop applications not included in the system. On the Building Windows 8 blog, it was announced that a computer running Windows 8 can boot up much faster than Windows 7.[42] New features also include USB 3.0 support, the Windows Store, the ability to run from USB drives with Windows To Go, and others. Windows 8 was given the kernel number NT 6.2, with its successor 8.1 receiving the kernel number 6.3. So far, neither has had any service packs yet, although many consider Windows 8.1 to be a service pack for Windows 8.
 

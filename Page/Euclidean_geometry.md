@@ -1,4 +1,4 @@
-Sanzio_01_Euclid.jpg's _The School of Athens_ featuring a Greek mathematician – perhaps representing Euclid or Archimedes – using a compass to draw a geometric construction.]] EUCLIDEAN GEOMETRY is a mathematical system attributed to Alexandrian Greek mathematician Euclid, which he described in his textbook on geometry: the _Elements_. Euclid's method consists in assuming a small set of intuitively appealing axioms, and deducing many other propositions (theorems) from these. Although many of Euclid's results had been stated by earlier mathematicians,[1] Euclid was the first to show how these propositions could fit into a comprehensive deductive and logical system.[2] The _Elements_ begins with plane geometry, still taught in secondary school (high school) as the first axiomatic system and the first examples of formal proof. It goes on to the solid geometry of three dimensions. Much of the _Elements_ states results of what are now called algebra and number theory, explained in geometrical language.[3]
+'s _The School of Athens_ featuring a Greek mathematician – perhaps representing Euclid or Archimedes – using a compass to draw a geometric construction.]] EUCLIDEAN GEOMETRY is a mathematical system attributed to Alexandrian Greek mathematician Euclid, which he described in his textbook on geometry: the _Elements_. Euclid's method consists in assuming a small set of intuitively appealing axioms, and deducing many other propositions (theorems) from these. Although many of Euclid's results had been stated by earlier mathematicians,[1] Euclid was the first to show how these propositions could fit into a comprehensive deductive and logical system.[2] The _Elements_ begins with plane geometry, still taught in secondary school (high school) as the first axiomatic system and the first examples of formal proof. It goes on to the solid geometry of three dimensions. Much of the _Elements_ states results of what are now called algebra and number theory, explained in geometrical language.[3]
 
 For more than two thousand years, the adjective "Euclidean" was unnecessary because no other sort of geometry had been conceived. Euclid's axioms seemed so intuitively obvious (with the possible exception of the parallel postulate) that any theorem proved from them was deemed true in an absolute, often metaphysical, sense. Today, however, many other self-consistent non-Euclidean geometries are known, the first ones having been discovered in the early 19th century. An implication of Albert Einstein's theory of general relativity is that physical space itself is not Euclidean, and Euclidean space is a good approximation for it only over short distances (relative to the strength of the gravitational field).[4]
 
@@ -18,8 +18,6 @@ Books V and VII–X deal with number theory, with numbers treated geometrically 
 Books XI–XIII concern solid geometry. A typical result is the 1:3 ratio between the volume of a cone and a cylinder with the same height and base. The platonic solids are constructed.
 
 Axioms
-
-Parallel_postulate_en.svg
 
 Euclidean geometry is an axiomatic system, in which all theorems ("true statements") are derived from a small number of simple axioms. Until the advent of non-Euclidean geometry, these axioms were considered to be obviously true in the physical world, so that all the theorems would be equally true. However, Euclid's reasoning from assumptions to conclusions remains valid independent of their physical reality.[5]
 
@@ -55,8 +53,6 @@ Many alternative axioms can be formulated which are logically equivalent to the 
 
 The "at most" clause is all that is needed since it can be proved from the remaining axioms that at least one parallel line exists.
 
-euclid-proof.svg
-
 
 Methods of proof
 
@@ -71,7 +67,7 @@ Euclidean geometry has two fundamental types of measurements: angle and distance
 
 Measurements of area and volume are derived from distances. For example, a rectangle with a width of 3 and a length of 4 has an area that represents the product, 12. Because this geometrical interpretation of multiplication was limited to three dimensions, there was no direct way of interpreting the product of four or more numbers, and Euclid avoided such products, although they are implied, for example in the proof of book IX, proposition 20.
 
-Congruentie.svg to them. The last figure is neither. Congruences alter some properties, such as location and orientation, but leave others unchanged, like distance and angles. The latter sort of properties are called invariants and studying them is the essence of geometry.]] Euclid refers to a pair of lines, or a pair of planar or solid figures, as "equal" (ἴσος) if their lengths, areas, or volumes are equal respectively, and similarly for angles. The stronger term "congruent" refers to the idea that an entire figure is the same size and shape as another figure. Alternatively, two figures are congruent if one can be moved on top of the other so that it matches up with it exactly. (Flipping it over is allowed.) Thus, for example, a 2x6 rectangle and a 3x4 rectangle are equal but not congruent, and the letter R is congruent to its mirror image. Figures that would be congruent except for their differing sizes are referred to as similar. Corresponding angles in a pair of similar shapes are congruent and corresponding sides are in proportion to each other.
+to them. The last figure is neither. Congruences alter some properties, such as location and orientation, but leave others unchanged, like distance and angles. The latter sort of properties are called invariants and studying them is the essence of geometry.]] Euclid refers to a pair of lines, or a pair of planar or solid figures, as "equal" (ἴσος) if their lengths, areas, or volumes are equal respectively, and similarly for angles. The stronger term "congruent" refers to the idea that an entire figure is the same size and shape as another figure. Alternatively, two figures are congruent if one can be moved on top of the other so that it matches up with it exactly. (Flipping it over is allowed.) Thus, for example, a 2x6 rectangle and a 3x4 rectangle are equal but not congruent, and the letter R is congruent to its mirror image. Figures that would be congruent except for their differing sizes are referred to as similar. Corresponding angles in a pair of similar shapes are congruent and corresponding sides are in proportion to each other.
 
 
 Notation and terminology
@@ -102,8 +98,6 @@ Pons Asinorum
 The Bridge of Asses (_Pons Asinorum_) states that _in isosceles triangles the angles at the base equal one another, and, if the equal straight lines are produced further, then the angles under the base equal one another._[13] Its name may be attributed to its frequent role as the first real test in the _Elements_ of the intelligence of the reader and as a bridge to the harder propositions that followed. It might also be so named because of the geometrical figure's resemblance to a steep bridge that only a sure-footed donkey could cross.[14]
 
 Congruence of triangles
-
-Congruent_triangles.svg
 
 Triangles are congruent if they have all three sides equal (SSS), two sides and the angle between them equal (SAS), or two angles and a side equal (ASA) (Book I, propositions 4, 8, and 26). Triangles with three equal angles (AAA) are similar, but not necessarily congruent. Also, triangles with two equal sides and an adjacent angle are not necessarily equal or congruent.
 
@@ -162,11 +156,11 @@ Later work
 
 Archimedes and Apollonius
 
-Archimedes_sphere_and_cylinder.svg Archimedes (c. 287 BCE – c. 212 BCE), a colorful figure about whom many historical anecdotes are recorded, is remembered along with Euclid as one of the greatest of ancient mathematicians. Although the foundations of his work were put in place by Euclid, his work, unlike Euclid's, is believed to have been entirely original.[28] He proved equations for the volumes and areas of various figures in two and three dimensions, and enunciated the Archimedean property of finite numbers.
+Archimedes (c. 287 BCE – c. 212 BCE), a colorful figure about whom many historical anecdotes are recorded, is remembered along with Euclid as one of the greatest of ancient mathematicians. Although the foundations of his work were put in place by Euclid, his work, unlike Euclid's, is believed to have been entirely original.[28] He proved equations for the volumes and areas of various figures in two and three dimensions, and enunciated the Archimedean property of finite numbers.
 
 Apollonius of Perga (c. 262 BCE – c. 190 BCE) is mainly known for his investigation of conic sections.
 
-Frans_Hals_-_Portret_van_René_Descartes.jpg, 1648.]]
+, 1648.]]
 
 17th century: Descartes
 
@@ -185,7 +179,7 @@ In terms of analytic geometry, the restriction of classical geometry to compass 
 
 Also in the 17th century, Girard Desargues, motivated by the theory of perspective, introduced the concept of idealized points, lines, and planes at infinity. The result can be considered as a type of generalized geometry, projective geometry, but it can also be used to produce proofs in ordinary Euclidean geometry in which the number of special cases is reduced.[30]
 
-Squaring_the_circle.svg.]]
+.]]
 
 18th century
 
@@ -205,7 +199,7 @@ In the 19th century, it was also realized that Euclid's ten axioms and common no
 
 20th century and general relativity
 
-1919_eclipse_negative.jpg. The rays of starlight were bent by the Sun's gravity on their way to the earth. This is interpreted as evidence in favor of Einstein's prediction that gravity would cause deviations from Euclidean geometry.]] Einstein's theory of general relativity shows that the true geometry of spacetime is not Euclidean geometry.[38] For example, if a triangle is constructed out of three rays of light, then in general the interior angles do not add up to 180 degrees due to gravity. A relatively weak gravitational field, such as the Earth's or the sun's, is represented by a metric that is approximately, but not exactly, Euclidean. Until the 20th century, there was no technology capable of detecting the deviations from Euclidean geometry, but Einstein predicted that such deviations would exist. They were later verified by observations such as the slight bending of starlight by the Sun during a solar eclipse in 1919, and such considerations are now an integral part of the software that runs the GPS system.[39] It is possible to object to this interpretation of general relativity on the grounds that light rays might be improper physical models of Euclid's lines, or that relativity could be rephrased so as to avoid the geometrical interpretations. However, one of the consequences of Einstein's theory is that there is no possible physical test that can distinguish between a beam of light as a model of a geometrical line and any other physical model. Thus, the only logical possibilities are to accept non-Euclidean geometry as physically real, or to reject the entire notion of physical tests of the axioms of geometry, which can then be imagined as a formal system without any intrinsic real-world meaning.
+. The rays of starlight were bent by the Sun's gravity on their way to the earth. This is interpreted as evidence in favor of Einstein's prediction that gravity would cause deviations from Euclidean geometry.]] Einstein's theory of general relativity shows that the true geometry of spacetime is not Euclidean geometry.[38] For example, if a triangle is constructed out of three rays of light, then in general the interior angles do not add up to 180 degrees due to gravity. A relatively weak gravitational field, such as the Earth's or the sun's, is represented by a metric that is approximately, but not exactly, Euclidean. Until the 20th century, there was no technology capable of detecting the deviations from Euclidean geometry, but Einstein predicted that such deviations would exist. They were later verified by observations such as the slight bending of starlight by the Sun during a solar eclipse in 1919, and such considerations are now an integral part of the software that runs the GPS system.[39] It is possible to object to this interpretation of general relativity on the grounds that light rays might be improper physical models of Euclid's lines, or that relativity could be rephrased so as to avoid the geometrical interpretations. However, one of the consequences of Einstein's theory is that there is no possible physical test that can distinguish between a beam of light as a model of a geometrical line and any other physical model. Thus, the only logical possibilities are to accept non-Euclidean geometry as physically real, or to reject the entire notion of physical tests of the axioms of geometry, which can then be imagined as a formal system without any intrinsic real-world meaning.
 
 
 Treatment of infinity

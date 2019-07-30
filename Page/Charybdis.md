@@ -3,14 +3,14 @@ CHARYBDIS (; Ancient Greek: Χάρυβδις, , _Kharubdis_) was a sea monster i
 
 Description
 
-Strait_of_Messina.jpg The sea monster Charybdis was believed to live under a small rock on one side of a narrow channel. Opposite her was Scylla, another sea monster, that lived inside a much larger rock.[1] The sides of the strait were within an arrow-shot of each other, and sailors attempting to avoid one of them would come in reach of the other. To be "between Scylla and Charybdis" therefore means to be presented with two opposite dangers, the task being to find a route that avoids both. Three times a day, Charybdis swallowed a huge amount of water, before belching it back out again, creating large whirlpools capable of dragging a ship underwater. In some variations of the story, Charybdis was simply a large whirlpool instead of a sea monster.
+The sea monster Charybdis was believed to live under a small rock on one side of a narrow channel. Opposite her was Scylla, another sea monster, that lived inside a much larger rock.[1] The sides of the strait were within an arrow-shot of each other, and sailors attempting to avoid one of them would come in reach of the other. To be "between Scylla and Charybdis" therefore means to be presented with two opposite dangers, the task being to find a route that avoids both. Three times a day, Charybdis swallowed a huge amount of water, before belching it back out again, creating large whirlpools capable of dragging a ship underwater. In some variations of the story, Charybdis was simply a large whirlpool instead of a sea monster.
 
 The theoretical size of Charybdis remains unknown, yet in order to consume Greek ships the whirlpool can be estimated to about 23 meters (75 ft) across. Charybdis has been associated with the Strait of Messina, off the coast of Sicily and opposite a rock on the mainland identified with Scylla.[2] Were Charybdis to be located in the Strait of Messina, it would in fact have the size to accommodate the whirlpool. A whirlpool does exist there, caused by currents meeting, but it is dangerous only to small craft in extreme conditions.
 
 
 Genealogy
 
-A later myth makes Charybdis the daughter of Poseidon and Gaia[3] and living as a loyal servant to her father.Strait_of_Messina,_cariddi.JPG as seen from the village of Torre Faro]]
+A later myth makes Charybdis the daughter of Poseidon and Gaia[3] and living as a loyal servant to her father. as seen from the village of Torre Faro]]
 
 
 Mythology
@@ -21,7 +21,7 @@ Charybdis aided her father Poseidon in his feud with her paternal uncle Zeus and
 
 The _Odyssey_
 
-Scylla_and_Charybdis.jpg Odysseus faced both Charybdis and Scylla while rowing through a narrow channel. He ordered his men to avoid Charybdis, thus forcing them to pass near Scylla, which resulted in the deaths of six of his men. Later, stranded on a raft, Odysseus was swept back through the strait and passed near Charybdis. His raft was sucked into her maw, but he survived by clinging to a fig tree growing on a rock over her lair. On the next outflow of water, when his raft was expelled, Odysseus recovered it and paddled away safely.[6]
+Odysseus faced both Charybdis and Scylla while rowing through a narrow channel. He ordered his men to avoid Charybdis, thus forcing them to pass near Scylla, which resulted in the deaths of six of his men. Later, stranded on a raft, Odysseus was swept back through the strait and passed near Charybdis. His raft was sucked into her maw, but he survived by clinging to a fig tree growing on a rock over her lair. On the next outflow of water, when his raft was expelled, Odysseus recovered it and paddled away safely.[6]
 
 Jason and the Argonauts
 

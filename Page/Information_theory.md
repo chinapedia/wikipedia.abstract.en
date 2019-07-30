@@ -123,7 +123,7 @@ Other important information theoretic quantities include Rényi entropy (a gener
 
 Coding theory
 
-CDSCRATCHES.jpg.]]
+.]]
 
 Coding theory is one of the most important and direct applications of information theory. It can be subdivided into source coding theory and channel coding theory. Using a statistical description for data, information theory quantifies the number of bits needed to describe the data, which is the information entropy of the source.
 
@@ -158,8 +158,6 @@ Communications over a channel—such as an ethernet cable—is the primary motiv
 
 Consider the communications process over a discrete channel. A simple model of the process is shown below:
 
-Channel_model.svg
-
 Here _X_ represents the space of messages transmitted, and _Y_ the space of messages received during a unit time over our channel. Let be the conditional probability distribution function of _Y_ given _X_. We will consider to be an inherent fixed property of our communications channel (representing the nature of the _noise_ of our channel). Then the joint distribution of _X_ and _Y_ is completely determined by our channel and by our choice of , the marginal distribution of messages we choose to send over the channel. Under these constraints, we would like to maximize the rate of information, or the _signal_, we can communicate over the channel. The appropriate measure for this is the mutual information, and this maximum mutual information is called the _channel capacity_ and is given by:
 
 _C_ = max_(_f_)_I_(_X_; _Y_).​
@@ -174,13 +172,13 @@ Capacity of particular channel models
 
 
 
-        File:Binary symmetric channel.svg
+
 
 -   A binary erasure channel (BEC) with erasure probability _p_ is a binary input, ternary output channel. The possible channel outputs are 0, 1, and a third symbol 'e' called an erasure. The erasure represents complete loss of information about an input bit. The capacity of the BEC is bits per channel use.
 
 
 
-        File:Binary erasure channel.svg
+
 
 
 Applications to other fields

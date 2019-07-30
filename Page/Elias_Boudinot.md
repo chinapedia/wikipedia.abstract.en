@@ -3,7 +3,7 @@ ELIAS BOUDINOT ( ; May 2, 1740 – October 24, 1821) was a lawyer and statesman 
 
 Early life and education
 
-1811,_Sharples,_James,_Elias_Boudinot_IV.jpg, _Elias Boudinot IV_, Princeton University Art Museum]]
+, _Elias Boudinot IV_, Princeton University Art Museum]]
 
 Elias Boudinot was born in Philadelphia on May 2, 1740. His father, Elias Boudinot III, was a merchant and silversmith; he was a neighbor and friend of Benjamin Franklin. His mother, Mary Catherine Williams, was born in the British West Indies; her father was from Wales. Elias' paternal grandfather, Elie (sometimes called Elias) Boudinot, was the son of Jean Boudinot and Marie Suire of Marans, Aunis, France. They were a Huguenot (French Protestant) family who fled to New York about 1687 to avoid the religious persecutions of King Louis XIV.
 
@@ -19,7 +19,7 @@ In 1760, Boudinot was admitted to the bar, and began his practice in Elizabeth, 
 
 Marriage and family
 
-Mrs_Elias_Boudinot,_attributed_to_Matthew_Pratt_(1734-1805).jpg After getting established, on April 21, 1762, Boudinot married Hannah Stockton (1736–1808), Richard's younger sister. They had two children, Maria Boudinot, who died at age two, and Susan Vergereau Boudinot.
+After getting established, on April 21, 1762, Boudinot married Hannah Stockton (1736–1808), Richard's younger sister. They had two children, Maria Boudinot, who died at age two, and Susan Vergereau Boudinot.
 
 Susan married William Bradford, who became Chief Justice of Pennsylvania and Attorney General under George Washington. After her husband's death in 1795, Susan Boudinot Bradford returned to her parents' home to live. The young widow edited her father's papers. Now held by Princeton University, these provide significant insight into the events of the Revolutionary era.
 

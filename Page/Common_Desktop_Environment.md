@@ -5,7 +5,7 @@ After a long history as proprietary software, CDE was released as free software 
 
 History
 
-CDE_2012_on_Linux.png CDE_Manual_Pages.png man pages in CDE]]
+man pages in CDE]]
 
 Hewlett-Packard, IBM, SunSoft, and USL announced CDE in June 1993 as a joint development within the Common Open Software Environment (COSE) initiative. Each development group contributed its own technology to CDE:[3]
 
@@ -28,7 +28,7 @@ In 2001, Sun Microsystems announced that they would phase out CDE as the standar
 
 Systems that provided proprietary CDE
 
-HP-HP9000-C360-Workstation_01.jpg C360 displaying the CDE login manager, _dtlogin_]] HP-HP9000-735-99-Workstation_02.jpg model 735 running HP-UX with CDE]] HP-HP9000-B180-Workstation_37.jpg model B180L running HP-UX and CDE]]
+C360 displaying the CDE login manager, _dtlogin_]] model 735 running HP-UX with CDE]] model B180L running HP-UX and CDE]]
 
 -   IBM AIX
 -   Digital UNIX

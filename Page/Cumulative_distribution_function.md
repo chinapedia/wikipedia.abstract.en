@@ -1,4 +1,4 @@
-Exponential_distribution_cdf.png]] Normal_Distribution_CDF.svg]]
+]] ]]
 
 In probability theory and statistics, the CUMULATIVE DISTRIBUTION FUNCTION (CDF) of a real-valued random variable X, or just DISTRIBUTION FUNCTION of X, evaluated at x, is the probability that X will take a value less than or equal to x.
 
@@ -27,8 +27,6 @@ If F_(X) is continuous at b, this equals zero and there is no discrete component
 
 
 Properties
-
-Discrete_probability_distribution_illustration.svg
 
 Every cumulative distribution function F_(X) is non-decreasing[4] and right-continuous[5], which makes it a càdlàg function. Furthermore,
 
@@ -104,7 +102,7 @@ Properties
 
 Folded cumulative distribution
 
-Folded-cumulative-distribution-function.svg function with an expected value of 0 and a standard deviation of 1.]] While the plot of a cumulative distribution often has an S-like shape, an alternative illustration is the FOLDED CUMULATIVE DISTRIBUTION or MOUNTAIN PLOT, which folds the top half of the graph over,[7][8] thus using two scales, one for the upslope and another for the downslope. This form of illustration emphasises the median and dispersion (specifically, the mean absolute deviation from the median[9]) of the distribution or of the empirical results.
+function with an expected value of 0 and a standard deviation of 1.]] While the plot of a cumulative distribution often has an S-like shape, an alternative illustration is the FOLDED CUMULATIVE DISTRIBUTION or MOUNTAIN PLOT, which folds the top half of the graph over,[7][8] thus using two scales, one for the upslope and another for the downslope. This form of illustration emphasises the median and dispersion (specifically, the mean absolute deviation from the median[9]) of the distribution or of the empirical results.
 
 Inverse distribution function (quantile function)
 
@@ -178,7 +176,7 @@ The concept of the cumulative distribution function makes an explicit appearance
 
 Kolmogorov–Smirnov and Kuiper's tests
 
-Gamma_distribution_cdf.svg The Kolmogorov–Smirnov test is based on cumulative distribution functions and can be used to test to see whether two empirical distributions are different or whether an empirical distribution is different from an ideal distribution. The closely related Kuiper's test is useful if the domain of the distribution is cyclic as in day of the week. For instance Kuiper's test might be used to see if the number of tornadoes varies during the year or if sales of a product vary by day of the week or day of the month.
+The Kolmogorov–Smirnov test is based on cumulative distribution functions and can be used to test to see whether two empirical distributions are different or whether an empirical distribution is different from an ideal distribution. The closely related Kuiper's test is useful if the domain of the distribution is cyclic as in day of the week. For instance Kuiper's test might be used to see if the number of tornadoes varies during the year or if sales of a product vary by day of the week or day of the month.
 
 
 See also

@@ -9,7 +9,7 @@ The population of Canada, 35,151,728 as of May 10, 2016, is concentrated in the 
 
 Climate
 
-Canada_Köppen.svg Nunavut_tundra_-c.jpg Canada has a diverse climate. The climate varies from temperate on the west coast of British Columbia[4] to a subarctic climate in the north.[5] Extreme northern Canada can have snow for most of the year with a Polar climate.[6] Landlocked areas tend to have a warm summer continental climate zone[7] with the exception of Southwestern Ontario which has a hot summer humid continental climate.[8] Parts of Western Canada have a semi-arid climate, and parts of Vancouver Island can even be classified as a cool summer Mediterranean climate.[9] Temperature extremes in Canada range from 45.0 °C (113 °F) in Midale and Yellow Grass, Saskatchewan on July 5, 1937 to −63.0 °C (−81.4 °F) in Snag, Yukon on Monday, February 3, 1947.[10]
+Canada has a diverse climate. The climate varies from temperate on the west coast of British Columbia[4] to a subarctic climate in the north.[5] Extreme northern Canada can have snow for most of the year with a Polar climate.[6] Landlocked areas tend to have a warm summer continental climate zone[7] with the exception of Southwestern Ontario which has a hot summer humid continental climate.[8] Parts of Western Canada have a semi-arid climate, and parts of Vancouver Island can even be classified as a cool summer Mediterranean climate.[9] Temperature extremes in Canada range from 45.0 °C (113 °F) in Midale and Yellow Grass, Saskatchewan on July 5, 1937 to −63.0 °C (−81.4 °F) in Snag, Yukon on Monday, February 3, 1947.[10]
 
 +-------------------+-----------+-----------+--------------+--------------+
 | City              | July (°C) | July (°F) | January (°C) | January (°F) |
@@ -61,8 +61,6 @@ Extremes
 
 Physical geography
 
-Canada-satellite.jpg
-
 Canada covers and a panoply of various geoclimatic regions. There are 8 main regions.[30] Canada also encompasses vast maritime terrain, with the world's longest coastline of .[31] The physical geography of Canada is widely varied. Boreal forests prevail throughout the country, ice is prominent in northerly Arctic regions and through the Rocky Mountains, and the relatively flat Canadian Prairies in the southwest facilitate productive agriculture.[32] The Great Lakes feed the St. Lawrence River (in the southeast) where lowlands host much of Canada's population.
 
 Appalachian Mountains
@@ -73,11 +71,9 @@ The Appalachian mountains (more specifically the Chic-Choc Mountains, Notre Dame
 
 Great Lakes and St. Lawrence Lowlands
 
-Niagara_Falls_and_Maid_of_the_Mist_2005.JPG in Niagara Falls, Ontario, one of the world's most voluminous waterfalls,[36] a major source of hydroelectric power, and a tourist destination.]]
+in Niagara Falls, Ontario, one of the world's most voluminous waterfalls,[36] a major source of hydroelectric power, and a tourist destination.]]
 
 The southern parts of Quebec and Ontario, in the section of the Great Lakes (bordered entirely by Ontario on the Canadian side) and St. Lawrence basin (often called St. Lawrence Lowlands), is another particularly rich sedimentary plain.[37] Prior to its colonization and heavy urban sprawl of the 20th century, this Eastern Great Lakes lowland forests area was home to large mixed forests covering a mostly flat area of land between the Appalachian Mountains and the Canadian Shield.[38] Most of this forest has been cut down through agriculture and logging operations, but the remaining forests are for the most part heavily protected. In this part of Canada the Gulf of St. Lawrence is one of the world's largest estuary (see Gulf of St. Lawrence lowland forests).[39]
-
-Great_Lakes_from_space.jpg
 
 While the relief of these lowlands is particularly flat and regular, a group of batholites known as the Monteregian Hills are spread along a mostly regular line across the area.[40] The most notable are Montreal's Mount Royal and Mont Saint-Hilaire. These hills are known for a great richness in precious minerals.[41]
 
@@ -107,7 +103,7 @@ The Western Cordillera continues northwards past the Liard River in northernmost
 
 Volcanoes
 
-Mount_Garibaldi.jpg as seen from Squamish ]] Western Canada has many volcanoes and is part of the Pacific Ring of Fire, a system of volcanoes found around the margins of the Pacific Ocean. There are over 200 young volcanic centres that stretch northward from the Cascade Range to Yukon. They are grouped into five volcanic belts with different volcano types and tectonic settings. The Northern Cordilleran Volcanic Province was formed by faulting, cracking, rifting, and the interaction between the Pacific Plate and the North American Plate. The Garibaldi Volcanic Belt was formed by subduction of the Juan de Fuca Plate beneath the North American Plate. The Anahim Volcanic Belt was formed as a result of the North American Plate sliding westward over the Anahim hotspot. The Chilcotin Group is believed to have formed as a result of back-arc extension behind the Cascadia subduction zone. The Wrangell Volcanic Field formed as a result of subduction of the Pacific Plate beneath the North American Plate at the easternmost end of the Aleutian Trench.
+as seen from Squamish ]] Western Canada has many volcanoes and is part of the Pacific Ring of Fire, a system of volcanoes found around the margins of the Pacific Ocean. There are over 200 young volcanic centres that stretch northward from the Cascade Range to Yukon. They are grouped into five volcanic belts with different volcano types and tectonic settings. The Northern Cordilleran Volcanic Province was formed by faulting, cracking, rifting, and the interaction between the Pacific Plate and the North American Plate. The Garibaldi Volcanic Belt was formed by subduction of the Juan de Fuca Plate beneath the North American Plate. The Anahim Volcanic Belt was formed as a result of the North American Plate sliding westward over the Anahim hotspot. The Chilcotin Group is believed to have formed as a result of back-arc extension behind the Cascadia subduction zone. The Wrangell Volcanic Field formed as a result of subduction of the Pacific Plate beneath the North American Plate at the easternmost end of the Aleutian Trench.
 
 Volcanism has also occurred in the Canadian Shield. It contains over 150 volcanic belts (now deformed and eroded down to nearly flat plains) that range from 600 million to 2.8 billion years old. Many of Canada's major ore deposits are associated with Precambrian volcanoes. There are pillow lavas in the Northwest Territories that are about 2.6 billion years old and are preserved in the Cameron River Volcanic Belt. The pillow lavas in rocks over 2 billion years old in the Canadian Shield signify that great oceanic volcanoes existed during the early stages of the formation of the Earth's crust. Ancient volcanoes play an important role in estimating Canada's mineral potential. Many of the volcanic belts bear ore deposits that are related to the volcanism.
 
@@ -141,7 +137,7 @@ The southernmost part of Alberta drains into the Gulf of Mexico through the Milk
 
 Floristic geography
 
-portneuf.jpg landscape in Réserve Faunique de Portneuf, Quebec]]
+landscape in Réserve Faunique de Portneuf, Quebec]]
 
 Canada has produced a Biodiversity Action Plan in response to the 1992 international accord; the plan addresses conservation of endangered species and certain habitats. The main biomes of Canada are:
 
@@ -173,7 +169,7 @@ The fisheries industry has historically been one of Canada's strongest. Unmatche
 
 Forestry has long been a major industry in Canada. Forest products contribute to one fifth of the nation's exports. The provinces with the largest forestry industries are British Columbia, Ontario and Quebec. Fifty-four percent of Canada's land area is covered in forest. The boreal forests account for four-fifths of Canada's forestland.
 
-Grain_Elevator_047.jpgs]] Five per cent of Canada's land area is arable, none of which is for permanent crops. Three per cent of Canada's land area is covered by permanent pastures. Canada has 7,200 square kilometres (2,800 mi²) of irrigated land (1993 estimate). Agricultural regions in Canada include the Canadian Prairies, the Lower Mainland and various regions within the Interior of British Columbia, the St. Lawrence Basin and the Canadian Maritimes. Main crops in Canada include flax, oats, wheat, maize, barley, sugar beets and rye in the prairies; flax and maize in Western Ontario; Oats and potatoes in the Maritimes. Fruit and vegetables are grown primarily in the Annapolis Valley of Nova Scotia, Southwestern Ontario, the Golden Horseshoe region of Ontario, along the south coast of Georgian Bay and in the Okanagan Valley of British Columbia. Cattle and sheep are raised in the valleys and plateaus of British Columbia. Cattle, sheep and hogs are raised on the prairies, cattle and hogs in Western Ontario, sheep and hogs in Quebec, and sheep in the Maritimes. There are significant dairy regions in central Nova Scotia, southern New Brunswick, the St. Lawrence Valley, northeastern Ontario, southwestern Ontario, the Red River valley of Manitoba and the valleys in the British Columbia Interior, on Vancouver Island and in the Lower Mainland.
+s]] Five per cent of Canada's land area is arable, none of which is for permanent crops. Three per cent of Canada's land area is covered by permanent pastures. Canada has 7,200 square kilometres (2,800 mi²) of irrigated land (1993 estimate). Agricultural regions in Canada include the Canadian Prairies, the Lower Mainland and various regions within the Interior of British Columbia, the St. Lawrence Basin and the Canadian Maritimes. Main crops in Canada include flax, oats, wheat, maize, barley, sugar beets and rye in the prairies; flax and maize in Western Ontario; Oats and potatoes in the Maritimes. Fruit and vegetables are grown primarily in the Annapolis Valley of Nova Scotia, Southwestern Ontario, the Golden Horseshoe region of Ontario, along the south coast of Georgian Bay and in the Okanagan Valley of British Columbia. Cattle and sheep are raised in the valleys and plateaus of British Columbia. Cattle, sheep and hogs are raised on the prairies, cattle and hogs in Western Ontario, sheep and hogs in Quebec, and sheep in the Maritimes. There are significant dairy regions in central Nova Scotia, southern New Brunswick, the St. Lawrence Valley, northeastern Ontario, southwestern Ontario, the Red River valley of Manitoba and the valleys in the British Columbia Interior, on Vancouver Island and in the Lower Mainland.
 
 Fossil fuels are a more recently developed resource in Canada, with oil and gas being extracted from deposits in the Western Canadian Sedimentary Basin since the mid 1900s. While Canada's crude oil deposits are fewer, technological developments in recent decades have opened up oil production in Alberta's Oil Sands to the point where Canada now has some of the largest reserves of oil in the world. In other forms, Canadian industry has a long history of extracting large coal and natural gas reserves.
 
@@ -195,8 +191,6 @@ Global climate change and the warming of the polar region will likely cause sign
 
 
 Extreme points
-
-Canada_topo.jpg
 
 The northernmost point within the boundaries of Canada is Cape Columbia, Ellesmere Island, Nunavut .[59] The northernmost point of the Canadian mainland is Zenith Point on Boothia Peninsula, Nunavut .[60]
 

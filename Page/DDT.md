@@ -34,13 +34,13 @@ In insects, DDT opens sodium ion channels in neurons, causing them to fire spont
 
 History
 
-DDT_Powder.jpg DDTDichlordiphényltrichloréthane7.JPG Geigy DDT; "Destroys parasites such as fleas, lice, ants, bedbugs, cockroaches, flies, etc.. Néocide Sprinkle caches of vermin and the places where there are insects and their places of passage. Leave the powder in place as long as possible." "Destroy the parasites of man and his dwelling". "Death is not instantaneous, it follows inevitably sooner or later." "French manufacturing"; "harmless to humans and warm-blooded animals" "sure and lasting effect. Odorless."]]
+Geigy DDT; "Destroys parasites such as fleas, lice, ants, bedbugs, cockroaches, flies, etc.. Néocide Sprinkle caches of vermin and the places where there are insects and their places of passage. Leave the powder in place as long as possible." "Destroy the parasites of man and his dwelling". "Death is not instantaneous, it follows inevitably sooner or later." "French manufacturing"; "harmless to humans and warm-blooded animals" "sure and lasting effect. Odorless."]]
 
 DDT was first synthesized in 1874 by Othmar Zeidler under the supervision of Adolf von Baeyer.[25][26] It was further described in 1929 in a dissertation by W. Bausch and in two subsequent publications in 1930.[27][28] The insecticide properties of "multiple chlorinated aliphatic or fat-aromatic alcohols with at least one trichloromethane group" were described in a patent in 1934 by Wolfgang von Leuthold.[29] DDT's insecticidal properties were not, however, discovered until 1939 by the Swiss scientist Paul Hermann Müller, who was awarded the 1948 Nobel Prize in Physiology and Medicine for his efforts.[30]
 
 Use in the 1940s and 1950s
 
-1955._Fort_tri-motor_spraying_DDT._Western_spruce_budworm_control_project._Powder_River_control_unit,_OR._(32213742634).jpg as part of a spruce budworm control project, 1955]] BosaDDTlog.jpg (Sardinia)]] DDT is the best-known of several chlorine-containing pesticides used in the 1940s and 1950s. With pyrethrum in short supply, DDT was used extensively during World War II by the Allies to control the insect vectors of typhus – nearly eliminating the disease in many parts of Europe. In the South Pacific, it was sprayed aerially for malaria and dengue fever control with spectacular effects. While DDT's chemical and insecticidal properties were important factors in these victories, advances in application equipment coupled with competent organization and sufficient manpower were also crucial to the success of these programs.[31]
+as part of a spruce budworm control project, 1955]] (Sardinia)]] DDT is the best-known of several chlorine-containing pesticides used in the 1940s and 1950s. With pyrethrum in short supply, DDT was used extensively during World War II by the Allies to control the insect vectors of typhus – nearly eliminating the disease in many parts of Europe. In the South Pacific, it was sprayed aerially for malaria and dengue fever control with spectacular effects. While DDT's chemical and insecticidal properties were important factors in these victories, advances in application equipment coupled with competent organization and sufficient manpower were also crucial to the success of these programs.[31]
 
 In 1945, DDT was made available to farmers as an agricultural insecticide[32] and played a role in the final (for a time) elimination of malaria in Europe and North America.[33][34][35]
 
@@ -79,8 +79,6 @@ Despite the worldwide ban, agricultural use continued in India,[76] North Korea,
 
 Environmental impact
 
-DDT_to_DDD_and_DDE.svg
-
 DDT is a persistent organic pollutant that is readily adsorbed to soils and sediments, which can act both as sinks and as long-term sources of exposure affecting organisms.[81] Depending on conditions, its soil half-life can range from 22 days to 30 years. Routes of loss and degradation include runoff, volatilization, photolysis and aerobic and anaerobic biodegradation. Due to hydrophobic properties, in aquatic ecosystems DDT and its metabolites are absorbed by aquatic organisms and adsorbed on suspended particles, leaving little DDT dissolved in the water (however, its half-life in aquatic environments is listed by the National Pesticide Information Center as 150 years[82]). Its breakdown products and metabolites, DDE and DDD, are also persistent and have similar chemical and physical properties.[83] DDT and its breakdown products are transported from warmer areas to the Arctic by the phenomenon of global distillation, where they then accumulate in the region's food web.[84]
 
 Medical researchers in 1974 found a measurable and significant difference in the presence of DDT in human milk between mothers who lived in New Brunswick and mothers who lived in Nova Scotia, "possibly because of the wider use of insecticide sprays in the past".[85]
@@ -98,7 +96,7 @@ The biological thinning mechanism is not entirely understood, but DDE appears to
 
 Human health
 
-DDT_WWII_soldier.jpg-carrying lice.]] ASC_Leiden_-_Coutinho_Collection_-_27_09_-_Ziguinchor_hospital,_Senegal_-_Cleaning_the_hospital_and_the_hospital_beds_-_1973.tif hospital of Ziguinchor, 1973]]
+-carrying lice.]] hospital of Ziguinchor, 1973]]
 
 DDT is an endocrine disruptor.[114][115] It is considered likely to be a human carcinogen although the majority of studies suggest it is not directly genotoxic.[116][117][118] DDE acts as a weak androgen receptor antagonist, but not as an estrogen.[119] p,p'-DDT, DDT's main component, has little or no androgenic or estrogenic activity.[120] The minor component o,p'-DDT has weak estrogenic activity.
 

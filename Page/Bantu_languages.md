@@ -27,7 +27,7 @@ The technical term Bantu, meaning "human beings" or simply "people", was first u
 
 Classification
 
-Bantu_zones.png, including the addition of a zone J around the Great Lakes. The Jarawan languages are spoken in Nigeria.]]
+, including the addition of a zone J around the Great Lakes. The Jarawan languages are spoken in Nigeria.]]
 
 The most widely used classification is an alphanumeric coding system developed by Malcolm Guthrie in his 1948 classification of the Bantu languages. It is mainly geographic. The term 'narrow Bantu' was coined by the _Benue–Congo Working Group_ to distinguish Bantu as recognized by Guthrie, from the Bantoid languages not recognized as Bantu by Guthrie.
 

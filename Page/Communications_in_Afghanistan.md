@@ -1,4 +1,4 @@
-Shamshad_TV_studio_in_2010.jpg studio in 2010, which is one of the Afghan TV stations.]] COMMUNICATIONS IN AFGHANISTAN is under the control of the Ministry of Communications and Information Technology (MCIT). It has rapidly expanded after the Karzai administration took over in late 2001, and has embarked on wireless companies, internet, radio stations and television channels.
+studio in 2010, which is one of the Afghan TV stations.]] COMMUNICATIONS IN AFGHANISTAN is under the control of the Ministry of Communications and Information Technology (MCIT). It has rapidly expanded after the Karzai administration took over in late 2001, and has embarked on wireless companies, internet, radio stations and television channels.
 
 The Afghan government signed a $64.5 billion agreement in 2006 with China's ZTE on the establishment of a countrywide optical fiber cable network. The project began to improve telephone, internet, television and radio broadcast services throughout Afghanistan. About 90% of the country's population had access to communication services in 2014.[1]
 
@@ -31,7 +31,7 @@ MTN has interconnection agreements with all national telecom operators and provi
 
 Internet
 
-Afghan_man_reading_Wikipedia_article_in_Kandahar.jpg]] Afghanistan was given legal control of the ".af" domain in 2003, and the Afghanistan Network Information Center (AFGNIC) was established to administer domain names. As of 2016, there are at least 55 internet service providers (ISPs) in the country.[7] Internet in Afghanistan is also at the peak with over 5 million users as of 2016.[8]
+]] Afghanistan was given legal control of the ".af" domain in 2003, and the Afghanistan Network Information Center (AFGNIC) was established to administer domain names. As of 2016, there are at least 55 internet service providers (ISPs) in the country.[7] Internet in Afghanistan is also at the peak with over 5 million users as of 2016.[8]
 
 According to the Ministry of Communications, the following are some of the different ISPs operating in Afghanistan:[9]
 
@@ -50,7 +50,7 @@ According to the Ministry of Communications, the following are some of the diffe
 
 Television
 
-TOLOnews_Studio_.jpg, which is another Afghan news channel]] There are over 106 television operators in Afghanistan and 320 television transmitters, many of which are based Kabul, while others are broadcast from other provinces. Selected foreign channels are also shown to the public in Afghanistan, but with the use of the internet, over 3,500 international TV channels may be accessed in Afghanistan.[10]
+, which is another Afghan news channel]] There are over 106 television operators in Afghanistan and 320 television transmitters, many of which are based Kabul, while others are broadcast from other provinces. Selected foreign channels are also shown to the public in Afghanistan, but with the use of the internet, over 3,500 international TV channels may be accessed in Afghanistan.[10]
 
 
 Radio

@@ -9,10 +9,9 @@ Most of IKEA's stores and factories were previously owned by INGKA, a holding co
 
 History
 
-Ikea_Kungen_1965a.jpg (right) shakes hands with Hans Ax, IKEA's first store manager]] Ingvar Kamprad founded IKEA in 1943 as a mostly mail-order sales business. It began to sell furniture five years later.[22] The first store was opened in Älmhult, Småland, in 1958, under the name Möbel-IKÉA (Möbel means "furniture" in Swedish). The first stores outside Sweden were opened in Norway (1963) and Denmark (1969). The stores spread to other parts of Europe in the 1970s, with the first store outside Scandinavia opening in Switzerland (1973), followed by West Germany (1974).[23]
+(right) shakes hands with Hans Ax, IKEA's first store manager]] Ingvar Kamprad founded IKEA in 1943 as a mostly mail-order sales business. It began to sell furniture five years later.[22] The first store was opened in Älmhult, Småland, in 1958, under the name Möbel-IKÉA (Möbel means "furniture" in Swedish). The first stores outside Sweden were opened in Norway (1963) and Denmark (1969). The stores spread to other parts of Europe in the 1970s, with the first store outside Scandinavia opening in Switzerland (1973), followed by West Germany (1974).[23]
 
-Map of countries with IKEA stores
-Legend: Amid a high level of success, the company's West German executives accidentally opened a store in Konstanz in 1973 instead of Koblenz.[24] Later that decade, stores opened in other parts of the world, such as Japan (1974), Australia, Canada,[25][26] Hong Kong (1975), and Singapore (1978).[27] IKEA further expanded in the 1980s, opening stores in countries such as France and Spain (1981), Belgium (1984),[28] the United States (1985),[29] the United Kingdom (1987),[30] and Italy (1989).[31] The company later expanded into more countries in the 1990s and 2000s. Germany, with 53 stores, is IKEA's biggest market, followed by the United States, with 50 stores. The first IKEA store in Latin America opened on 17 February 2010 in Santo Domingo, Dominican Republic.[32][33] , there are 424 IKEA stores operating in 52 different countries.[34]
+Amid a high level of success, the company's West German executives accidentally opened a store in Konstanz in 1973 instead of Koblenz.[24] Later that decade, stores opened in other parts of the world, such as Japan (1974), Australia, Canada,[25][26] Hong Kong (1975), and Singapore (1978).[27] IKEA further expanded in the 1980s, opening stores in countries such as France and Spain (1981), Belgium (1984),[28] the United States (1985),[29] the United Kingdom (1987),[30] and Italy (1989).[31] The company later expanded into more countries in the 1990s and 2000s. Germany, with 53 stores, is IKEA's biggest market, followed by the United States, with 50 stores. The first IKEA store in Latin America opened on 17 February 2010 in Santo Domingo, Dominican Republic.[32][33] , there are 424 IKEA stores operating in 52 different countries.[34]
 
 IKEA was awarded the Nordic Language Award of 2017 for introducing Scandinavian language and culture to a global audience.[35]
 
@@ -23,9 +22,9 @@ Store design
 
 Layout
 
-IKEA_furniture_display_in_HK_Homesquare_2018.JPG Older IKEA stores are usually blue buildings with yellow accents (also Sweden's national colours). They are often designed in a one-way layout, leading customers counter-clockwise along what IKEA calls "the long natural way" designed to encourage the customer to see the store in its entirety (as opposed to a traditional retail store, which allows a customer to go directly to the section where the desired goods and services are displayed). There are often shortcuts to other parts of the showroom.
+Older IKEA stores are usually blue buildings with yellow accents (also Sweden's national colours). They are often designed in a one-way layout, leading customers counter-clockwise along what IKEA calls "the long natural way" designed to encourage the customer to see the store in its entirety (as opposed to a traditional retail store, which allows a customer to go directly to the section where the desired goods and services are displayed). There are often shortcuts to other parts of the showroom.
 
-IKEA_Anderlecht_self-serve_warehouse_(DSCF3734).jpg IKEA_Food_market_in_MegaBox_2017.jpg The sequence first involves going through the furniture showrooms making note of selected items. The customer then collects a shopping cart and proceeds to an open-shelf "Market Hall" warehouse for smaller items, then visits the self-service furniture warehouse to collect previously noted showroom products in flat pack form. Sometimes, they are directed to collect products from an external warehouse on the same site or at a site nearby after purchase. Finally, customers pay for their products at a cash register. Not all furniture is stocked at the store level, such as particular sofa colours needing to be shipped from a warehouse to the customer's home or to the store.
+The sequence first involves going through the furniture showrooms making note of selected items. The customer then collects a shopping cart and proceeds to an open-shelf "Market Hall" warehouse for smaller items, then visits the self-service furniture warehouse to collect previously noted showroom products in flat pack form. Sometimes, they are directed to collect products from an external warehouse on the same site or at a site nearby after purchase. Finally, customers pay for their products at a cash register. Not all furniture is stocked at the store level, such as particular sofa colours needing to be shipped from a warehouse to the customer's home or to the store.
 
 Most stores follow the layout of having the showroom upstairs with the marketplace and self-service warehouse downstairs. Some stores are single level, while others have separate warehouses to allow more stock to be kept on-site. Single-level stores are found predominantly in areas where the cost of land would be less than the cost of building a 2-level store. Some stores have dual-level warehouses with machine-controlled silos to allow large quantities of stock to be accessed throughout the selling day.
 
@@ -35,7 +34,7 @@ IKEA uses a sales technique called "bulla bulla" in which a bunch of items are p
 
 Restaurant and food markets
 
-IKEA_Restaurant_in_Coquitlam.jpg Köttbullar_at_IKEA_Xihongmen_(20150423114159).JPG IKEA's own restaurants are all over the world and the taste is cross-cultural. Every store includes a restaurant serving traditional Swedish food, including potatoes with Swedish meatballs.[39][40] In Kuala Lumpur, Malaysia, the usual boiled or mashed potatoes have been replaced with French fries; meanwhile in Indonesia, the usual Swedish Meatballs recipe are changed to accommodate the country's Halal requirements. Besides these Swedish foods, hot dogs and drinks are also sold, along with a few varieties of the local cuisine, and beverages such as lingonberry juice. Also items such as _prinsesstårta_ (princess cake) are sold as desserts. Stores in Israel sell kosher food under rabbinical supervision.[41] The kosher restaurants are separated into dairy and meat areas; falafel and non-dairy ice cream are available at the exit. IKEA stores in Saudi Arabia, Kuwait, Qatar and the United Arab Emirates serve chicken shawarma at the exit café as well as beef hot dogs, while in United Kingdom, a Quorn hot dog is available in the exit café.[42]
+IKEA's own restaurants are all over the world and the taste is cross-cultural. Every store includes a restaurant serving traditional Swedish food, including potatoes with Swedish meatballs.[39][40] In Kuala Lumpur, Malaysia, the usual boiled or mashed potatoes have been replaced with French fries; meanwhile in Indonesia, the usual Swedish Meatballs recipe are changed to accommodate the country's Halal requirements. Besides these Swedish foods, hot dogs and drinks are also sold, along with a few varieties of the local cuisine, and beverages such as lingonberry juice. Also items such as _prinsesstårta_ (princess cake) are sold as desserts. Stores in Israel sell kosher food under rabbinical supervision.[41] The kosher restaurants are separated into dairy and meat areas; falafel and non-dairy ice cream are available at the exit. IKEA stores in Saudi Arabia, Kuwait, Qatar and the United Arab Emirates serve chicken shawarma at the exit café as well as beef hot dogs, while in United Kingdom, a Quorn hot dog is available in the exit café.[42]
 
 In many locations, the IKEA restaurants open daily before the rest of the store and serve an inexpensive breakfast.[43][44][45]
 
@@ -47,7 +46,7 @@ Every store has a kids play area, named Småland (Swedish for _small lands_; it 
 
 Alternative designs
 
-Ikea_Planning_Studio_(48064098962).jpg The vast majority of IKEA stores are located outside of city centers, primarily because of land cost and traffic access. Several smaller store formats have been unsuccessfully tested in the past (the "midi" concept in the early '90s, which was tested in Ottawa and Heerlen with , or a "boutique" shop in Manhattan). A new format for a full-size, city centre store was introduced with the opening of the Manchester (United Kingdom) store, situated in Ashton-under-Lyne in 2006. Another store, in Coventry opened in December 2007. The store has seven floors and a different flow from other IKEA stores. IKEA's Southampton store which opened in February 2009 is also in the city centre and built in an urban style similar to the Coventry store. IKEA built these stores in response to UK government restrictions blocking retail establishment outside city centres.[49]
+The vast majority of IKEA stores are located outside of city centers, primarily because of land cost and traffic access. Several smaller store formats have been unsuccessfully tested in the past (the "midi" concept in the early '90s, which was tested in Ottawa and Heerlen with , or a "boutique" shop in Manhattan). A new format for a full-size, city centre store was introduced with the opening of the Manchester (United Kingdom) store, situated in Ashton-under-Lyne in 2006. Another store, in Coventry opened in December 2007. The store has seven floors and a different flow from other IKEA stores. IKEA's Southampton store which opened in February 2009 is also in the city centre and built in an urban style similar to the Coventry store. IKEA built these stores in response to UK government restrictions blocking retail establishment outside city centres.[49]
 
 In Hong Kong, where shop space is limited and costly, IKEA has opened three outlets in the city, most of which have the one-way layout. They are part of shopping malls, and while being tiny compared to common store design, are huge by Hong Kong standards.
 
@@ -58,13 +57,13 @@ Products and services
 
 Furniture and homeware
 
-IKEA_Billy_bookshelf_(80x106_cm_birch_veneer).jpg bookcase]]
+bookcase]]
 
 Rather than being sold pre-assembled, much of IKEA's furniture is designed to be assembled by the customer. The company claims that this helps reduce costs and use of packaging by not shipping air; the volume of a bookcase, for example, is considerably less if it is shipped unassembled rather than assembled. This is also more practical for customers using public transport, because flat packs can be more easily carried.
 
 IKEA contends that it has been a pioneering force in sustainable approaches to mass consumer culture.[51] Kamprad calls this "democratic design," meaning that the company applies an integrated approach to manufacturing and design (see also environmental design). In response to the explosion of human population and material expectations in the 20th and 21st centuries, the company implements economies of scale, capturing material streams and creating manufacturing processes that hold costs and resource use down, such as the extensive use of Medium-Density Fiberboard ("MDF"), also called "particle board."
 
-Klippansofa.jpg sofa]] Notable items of IKEA furniture include the Poäng armchair, the Billy bookcase and the Klippan sofa, all of which have sold by the tens of millions since the late 1970s.[52][53]
+sofa]] Notable items of IKEA furniture include the Poäng armchair, the Billy bookcase and the Klippan sofa, all of which have sold by the tens of millions since the late 1970s.[52][53]
 
 IKEA products are identified by one-word (rarely two-word) names. Most of the names are Scandinavian in origin. Although there are some exceptions, most product names are based on a special naming system developed by IKEA.[54] Company founder Kamprad was dyslexic and found that naming the furniture with proper names and words, rather than a product code, made the names easier to remember.[55]
 
@@ -90,7 +89,7 @@ In April 2019, the company announced that it would begin test marketing a new co
 
 Other ventures
 
-MEGA3.jpg in Moscow]] IKEA owns and operates the MEGA Family Shopping Centre chain in Russia.[70]
+in Moscow]] IKEA owns and operates the MEGA Family Shopping Centre chain in Russia.[70]
 
 On 8 August 2008, IKEA UK launched a virtual mobile phone network called IKEA Family Mobile, which ran on T-Mobile.[71] At launch it was the cheapest pay-as-you-go network in the UK.[72][73] In June 2015 the network announced that its services would cease to operate from 31 August 2015.[74]
 
@@ -103,7 +102,7 @@ In September 2017, IKEA announced they would be acquiring San Francisco-based Ta
 
 Corporate structure
 
-IKEA_Delft_2.JPG IKEA is owned and operated by a complicated array of not-for-profit and for-profit corporations. The corporate structure is divided into two main parts: operations and franchising.
+IKEA is owned and operated by a complicated array of not-for-profit and for-profit corporations. The corporate structure is divided into two main parts: operations and franchising.
 
 Inter IKEA Systems is owned by Inter IKEA Holding, a company registered in Luxembourg. Inter IKEA Holding, in turn, is owned by the Interogo Foundation, based in Liechtenstein.[81][82] In 2016, the INGKA Holding sold its design, manufacturing and logistics subsidiaries to Inter IKEA Holding.[83]
 
@@ -111,7 +110,7 @@ In June 2013, Ingvar Kamprad resigned from the board of Inter IKEA Holding SA an
 
 Control by Kamprad
 
-Ingvar_Kamprad_Haparanda_June_2010.jpg, founder of IKEA]] Along with helping IKEA make non-taxable profit, IKEA's complicated corporate structure allowed Kamprad to maintain tight control over the operations of INGKA Holding, and thus the operation of most IKEA stores. The INGKA Foundation's five-person executive committee was chaired by Kamprad. It appoints board of INGKA Holding, approves any changes to INGKA Holding's bylaws, and has the right to preempt new share issues. If a member of the executive committee quits or dies, the other four members appoint his or her replacement.
+, founder of IKEA]] Along with helping IKEA make non-taxable profit, IKEA's complicated corporate structure allowed Kamprad to maintain tight control over the operations of INGKA Holding, and thus the operation of most IKEA stores. The INGKA Foundation's five-person executive committee was chaired by Kamprad. It appoints board of INGKA Holding, approves any changes to INGKA Holding's bylaws, and has the right to preempt new share issues. If a member of the executive committee quits or dies, the other four members appoint his or her replacement.
 
 In Kamprad's absence the foundation's bylaws include specific provisions requiring it to continue operating the INGKA Holding group and specifying that shares can be sold only to another foundation with the same objectives as the INGKA Foundation.[87]
 
@@ -161,7 +160,7 @@ After initial environmental issues like the highly publicized formaldehyde scand
 
 In 2000 IKEA introduced its code of conduct for suppliers that covers social, safety and environmental questions. Today IKEA has around 60 auditors who perform hundreds of supplier audits every year. The main purpose of these audits is to make sure that the IKEA suppliers follow the law in each country where they are based. Most IKEA suppliers fulfill the law today with exceptions for some special issues, one being excessive working hours in Asia, in countries such as China and India.
 
-IKEA-Tasche.JPG Since March 2013, IKEA has stopped providing plastic bags to customers, but offers reusable bags for sale. [107] The IKEA restaurants also only offer reusable plates, knives, forks, spoons, etc. Toilets in some IKEA WC-rooms have been outfitted with dual-function flushers. IKEA has recycling bins for compact fluorescent lamps (CFLs), energy saving bulbs and batteries. In 2001 IKEA was one of the first companies to operate its own cross-border goods trains through several countries in Europe.[108]
+Since March 2013, IKEA has stopped providing plastic bags to customers, but offers reusable bags for sale. [107] The IKEA restaurants also only offer reusable plates, knives, forks, spoons, etc. Toilets in some IKEA WC-rooms have been outfitted with dual-function flushers. IKEA has recycling bins for compact fluorescent lamps (CFLs), energy saving bulbs and batteries. In 2001 IKEA was one of the first companies to operate its own cross-border goods trains through several countries in Europe.[108]
 
 In August 2008, IKEA also announced that it had created IKEA GreenTech, a €50 million venture capital fund. Located in Lund (a university town in Sweden), it will invest in 8–10 companies in the coming five years with focus on solar panels, alternative light sources, product materials, energy efficiency and water saving and purification. The aim is to commercialise green technologies for sale in IKEA stores within 3–4 years.[109][110]
 
@@ -171,7 +170,7 @@ IKEA stores recycle waste and many run on renewable energy. All employees are tr
 
 The last stage of the life cycle is the end of life. Most IKEA stores recycle light bulbs and drained batteries, and the company is also exploring the recycling of sofas and other home furnishing products. According to IKEA's 2012 "Sustainability Report", 23% of all wood that the company uses meets the standards of the Forest Stewardship Council, and the report states that IKEA aims to double this percentage by 2017. The report also states that IKEA does not accept illegally logged wood and supports 13 World Wide Fund for Nature (WWF) projects.[113]
 
-HK_CWB_Park_Lane_basement_shop_IKEA_lighting_LED_lamps_notice_Dec-2015_DSC.JPG On 17 February 2011, IKEA announced its plans to develop a wind farm in Dalarna County, Sweden, furthering its goal of using only renewable energy to fuel its operations.[114] , 17 United States IKEA stores are powered by solar panels, with 22 additional installations in progress,[115] and IKEA owns the 165 MW Cameron Wind farm in Cameron County on the South Texas coast[116] and a 42 MW coastal wind farm in Finland.[117]
+On 17 February 2011, IKEA announced its plans to develop a wind farm in Dalarna County, Sweden, furthering its goal of using only renewable energy to fuel its operations.[114] , 17 United States IKEA stores are powered by solar panels, with 22 additional installations in progress,[115] and IKEA owns the 165 MW Cameron Wind farm in Cameron County on the South Texas coast[116] and a 42 MW coastal wind farm in Finland.[117]
 
 In 2011, the company examined its wood consumption and noticed that almost half of its global pine and spruce consumption was for the fabrication of pallets. The company consequently started a transition to the use of paper pallets and the "Optiledge system".[118] The OptiLedge product is totally recyclable, made from 100% virgin high-impact copolymer polypropylene (PP). The system is a "unit load alternative to the use of a pallet. The system consists of the OptiLedge (usually used in pairs), aligned and strapped to the bottom carton to form a base layer upon which to stack more product. Corner boards are used when strapping to minimize the potential for package compression." The conversion began in Germany and Japan, before its introduction into the rest of Europe and North America.[119] The system has been marketed to other companies, and IKEA has formed the OptiLedge company to manage and sell the product.[120]
 
@@ -231,13 +230,13 @@ Advertising
 
 In 1994, IKEA ran a commercial in the United States widely thought to be the first to feature a homosexual couple; it aired for several weeks before being pulled after calls for a boycott and a bomb threat directed at IKEA stores.[152] Other IKEA commercials appeal to the wider LGBTQ community, one featuring a transgender woman.[153]
 
-IKEABerlin.JPG]] In 2002, the inaugural television component of the "Unböring" campaign, titled _Lamp_, went on to win several awards, including a Grand Clio,[154] Golds at the London International Awards[155] and the ANDY Awards,[156] and the Grand Prix at the Cannes Lions International Advertising Festival,[157] the most prestigious awards ceremony in the advertising community.
+]] In 2002, the inaugural television component of the "Unböring" campaign, titled _Lamp_, went on to win several awards, including a Grand Clio,[154] Golds at the London International Awards[155] and the ANDY Awards,[156] and the Grand Prix at the Cannes Lions International Advertising Festival,[157] the most prestigious awards ceremony in the advertising community.
 
 IKEA launched a UK-wide "Home is the Most Important Place in the World" advertising campaign in September 2007 using estate agent signs with the term "Not For Sale" written on them as part of the wider campaign. After the campaign appeared in the Metro newspaper London the business news website www.mad.co.uk remarked that the IKEA campaign had amazing similarities with the marketing activity of UK home refurbishment company Onis living who had launched its own Not For Sale advertising campaign two years prior and was awarded the Interbuild 2006 Construction Marketing Award for best campaign under £25,000.[158][159]
 
 A debate ensued between Fraser Patterson, Chief Executive of Onis and Andrew McGuinness, partner at Beattie McGuinness Bungay (BMB), the advertising and PR agency awarded the £12m IKEA account.[160][161] The essence of the debate was that BMB claimed to be unaware of Onis's campaign as Onis was not an advertising agency. Onis's argument was that its advertising could be seen in prominent landmarks throughout London, having been already accredited, showing concern about the impact IKEA's campaign would have on the originality of its own. BMB and IKEA subsequently agreed to provide Onis with a feature page on the IKEA campaign site linking through to Onis's website for a period of 1 year.
 
-Ikea_subway.png In 2008, IKEA paired up with the makers of video game _The Sims 2_ to make a stuff pack called _IKEA Home Stuff_, featuring many IKEA products. It was released on 24 June 2008 in North America and 26 June 2008 in Europe. It is the second stuff pack with a major brand, the first being _The Sims 2 H&M Fashion Stuff_.
+In 2008, IKEA paired up with the makers of video game _The Sims 2_ to make a stuff pack called _IKEA Home Stuff_, featuring many IKEA products. It was released on 24 June 2008 in North America and 26 June 2008 in Europe. It is the second stuff pack with a major brand, the first being _The Sims 2 H&M Fashion Stuff_.
 
 IKEA took over the title sponsorship of Philadelphia's annual Thanksgiving Day parade in 2008, replacing Boscov's, which filed for bankruptcy in August 2008.
 
@@ -245,7 +244,7 @@ In November 2008, a subway train decorated in IKEA style was introduced in Novos
 
 In 2008–2009, Oyster cards (the ticket-free system for the London Underground) were issued with IKEA-branded wallets. IKEA also sponsored the tube map.[163][164]
 
-Red_Osprey_in_IKEA_livery.JPG.]] In January 2009, just before the new store opened in Southampton, of Red Funnel was re-painted in an entirely yellow and blue livery to celebrate the opening of the new IKEA store in Southampton. This is the first time a Red Funnel ferry has been re-painted out of its own red and white colour scheme. It stayed in these colours for 12 months as part of a deal between Red Funnel and IKEA to provide home delivery services to the Isle of Wight. It was repainted with Red Funnel's red and white livery when the deal ended in January 2010.
+.]] In January 2009, just before the new store opened in Southampton, of Red Funnel was re-painted in an entirely yellow and blue livery to celebrate the opening of the new IKEA store in Southampton. This is the first time a Red Funnel ferry has been re-painted out of its own red and white colour scheme. It stayed in these colours for 12 months as part of a deal between Red Funnel and IKEA to provide home delivery services to the Isle of Wight. It was repainted with Red Funnel's red and white livery when the deal ended in January 2010.
 
 In March 2010, IKEA developed an event in four important Metro stations in Paris, in which furniture collections are displayed in high-traffic spots, giving potential customers a chance to check out the brand's products. The Metro walls were also filled with prints that showcase IKEA interiors.
 
@@ -259,7 +258,7 @@ In September 2017, IKEA launched the "IKEA Human Catalogue" campaign in which me
 
 IKEA Family
 
-IKEA_Family_card_from_Canada.jpg In common with some other retailers, IKEA launched a loyalty card called "IKEA Family". The card is free of charge and can be used to obtain discounts on certain products found in-store. It is available worldwide. In conjunction with the card, IKEA also publishes and sells a printed quarterly magazine titled _IKEA Family Live_ which supplements the card and catalogue. The magazine is already printed in thirteen languages and an English edition for the United Kingdom was launched in February 2007. It is expected to have a subscription of over 500,000.[174]
+In common with some other retailers, IKEA launched a loyalty card called "IKEA Family". The card is free of charge and can be used to obtain discounts on certain products found in-store. It is available worldwide. In conjunction with the card, IKEA also publishes and sells a printed quarterly magazine titled _IKEA Family Live_ which supplements the card and catalogue. The magazine is already printed in thirteen languages and an English edition for the United Kingdom was launched in February 2007. It is expected to have a subscription of over 500,000.[174]
 
 IKEA Place app
 
@@ -274,8 +273,6 @@ IKEA's goals of sustainability and environmental design in its merchandise have 
 
 -   In September 2004, when IKEA offered a limited number of free $150 vouchers at the opening of a new store in Jeddah, Saudi Arabia, three people were crushed to death in a stampede that followed the store's opening.[177]
 -   IKEA has demolished historic buildings to make room for parking lots, including part of Marcel Breuer's landmark Pirelli Tire Building[178] and the Red Hook graving dock.[179] (At the College Park, Maryland, US, store there is an interactive digital display which tells the history of a tavern which used to exist where the store is currently located.)
-
-南京宜家_-_panoramio.jpg
 
 -   In 2007, about ten ancient tombs were destroyed while IKEA built a store in Nanjing, southeastern China. Archaeologists from the Nanjing Museum asked whether the building company could halt work while they collect artifacts, but they did not receive the necessary permission.[180]
 -   In 2004, there was controversy about an Irish law restricting the maximum size of a retail outlet to . IKEA's plan to build a much larger store in Dublin caused the law to be put up for debate. The law was changed to remove the size limit for retail outlets selling durable goods in designated areas.[181] The Minister for the Environment was criticised for allegedly changing the law to suit one company and other agencies protested the law change as damaging to small businesses while the government defended its decision stating that the move was a positive one for Irish consumers. IKEA Dublin has since opened on 27 July 2009.[182]

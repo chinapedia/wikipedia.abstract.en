@@ -1,4 +1,4 @@
-044_Dracunculus_vulgaris_at_Akrotiri_peninsula,_Crete,_Greece.jpg_) of Araceae family in Crete, Greece.]] Ottelia_alismoides_W_IMG_0915.jpg_ from family Hydrocharitaceae in Hyderabad, India.]]
+_) of Araceae family in Crete, Greece.]] _ from family Hydrocharitaceae in Hyderabad, India.]]
 
 The ALISMATALES (ALISMATIDS) are an order of flowering plants including about 4500 species. Plants assigned to this order are mostly tropical or aquatic. Some grow in fresh water, some in marine habitats.
 

@@ -18,7 +18,7 @@ Industrial preparations
 
 Benzoic acid is produced commercially by partial oxidation of toluene with oxygen. The process is catalyzed by cobalt or manganese naphthenates. The process uses abundant materials, and proceeds in high yield.[6]
 
-    Benzoic_acid-chemical-synthesis-1.svg
+
 
 The first industrial process involved the reaction of benzotrichloride (trichloromethyl benzene) with calcium hydroxide in water, using iron or iron salts as catalyst. The resulting calcium benzoate is converted to benzoic acid with hydrochloric acid. The product contains significant amounts of chlorinated benzoic acid derivatives. For this reason, benzoic acid for human consumption was obtained by dry distillation of gum benzoin. Food-grade benzoic acid is now produced synthetically.
 
@@ -89,7 +89,7 @@ Reactions of benzoic acid can occur at either the aromatic ring or at the carbox
 
 Aromatic ring
 
-    Benzoic_acid-chemical-reaction-1.svg
+
 
 Electrophilic aromatic substitution reaction will take place mainly in 3-position due to the electron-withdrawing carboxylic group; i.e. benzoic acid is _meta_ directing.
 
@@ -107,7 +107,7 @@ All the reactions mentioned for carboxylic acids are also possible for benzoic a
 -   Reduction to benzaldehyde and benzyl alcohol is possible using DIBAL-H, LiAlH₄ or sodium borohydride.
 -   The copper catalysed decarboxylation of benzoate to benzene may be effected by heating in quinoline. Also, Hunsdiecker decarboxylation can be achieved by forming the silver salt and heating. Benzoic acid can also be decarboxylated by heating with an alkali hydroxide or calcium hydroxide.
 
-    Benzoic_acid-chemical-reaction-2.svg
+
 
 
 Safety and mammalian metabolism

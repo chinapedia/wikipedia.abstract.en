@@ -1,4 +1,4 @@
-Pascal's_triangle_5.svg, in which each entry is the sum of the two immediately above.]] binomial_theorem_visualisation.svg
+, in which each entry is the sum of the two immediately above.]]
 
 In mathematics, the BINOMIAL COEFFICIENTS are the positive integers that occur as coefficients in the binomial theorem. Commonly, a binomial coefficient is indexed by a pair of integers and is written $\tbinom{n}{k}.$ It is the coefficient of the term in the polynomial expansion of the binomial power , and it is given by the formula
 
@@ -65,7 +65,7 @@ If _α_ is a nonnegative integer _n_, then all terms with _k_ > _n_ are zero, 
 
 Pascal's triangle
 
-Pascal's_triangle_-_1000th_row.png.]]
+.]]
 
 Pascal's rule is the important recurrence relation which can be used to prove by mathematical induction that $\tbinom n k$ is a natural number for all _n_ and _k_, a fact that is not immediately obvious from formula (1).
 

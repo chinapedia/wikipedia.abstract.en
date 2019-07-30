@@ -14,7 +14,7 @@ The scholarly consensus is that Paul wrote the Epistle to the Romans.[2] C. E. B
 
   The denial of Paul's authorship of Romans by such critics ... is now rightly relegated to a place among the curiosities of NT scholarship. Today no responsible criticism disputes its Pauline origin. The evidence of its use in the Apostolic Fathers is clear, and before the end of the second century it is listed and cited as Paul's. Every extant early list of NT books includes it among his letters. The external evidence of authenticity could indeed hardly be stronger; and it is altogether borne out by the internal evidence, linguistic, stylistic, literary, historical and theological.[3]
 
-PaulT.jpg. ]]
+. ]]
 
 The letter was most probably written while Paul was in Corinth, probably while he was staying in the house of Gaius, and transcribed by Tertius, his amanuensis.[4] There are a number of reasons why Corinth is considered most plausible. Paul was about to travel to Jerusalem on writing the letter, which matches Acts where it is reported that Paul stayed for three months in Greece. This probably implies Corinth as it was the location of Paul's greatest missionary success in Greece.[5] Additionally, Phoebe was a deacon of the church in Cenchreae, a port to the east of Corinth, and would have been able to convey the letter to Rome after passing through Corinth and taking a ship from Corinth's west port.[6] Erastus, mentioned in , also lived in Corinth, being the city's commissioner for public works and city treasurer at various times, again indicating that the letter was written in Corinth.[7]
 
@@ -48,14 +48,14 @@ Some manuscripts have a subscript at the end of the Epistle:
 
 Paul's life in relation to his epistle
 
-Paul_arrested.jpg For ten years before writing the letter (approx. 47–57), Paul had traveled around the territories bordering the Aegean Sea evangelizing. Churches had been planted in the Roman provinces of Galatia, Macedonia, Achaia and Asia. Paul, considering his task complete, wanted to preach the gospel in Spain, where he would not "build upon another man’s foundation".[21] This allowed him to visit Rome on the way, a long-time ambition of his. The letter to the Romans, in part, prepares them and gives reasons for his visit.[22]
+For ten years before writing the letter (approx. 47–57), Paul had traveled around the territories bordering the Aegean Sea evangelizing. Churches had been planted in the Roman provinces of Galatia, Macedonia, Achaia and Asia. Paul, considering his task complete, wanted to preach the gospel in Spain, where he would not "build upon another man’s foundation".[21] This allowed him to visit Rome on the way, a long-time ambition of his. The letter to the Romans, in part, prepares them and gives reasons for his visit.[22]
 
 In addition to Paul's geographic location, his religious views are important. First, Paul was a Hellenistic Jew with a Pharisaic background (see Gamaliel), integral to his identity: see Paul the Apostle and Judaism for details. His concern for his people is one part of the dialogue and runs throughout the letter. Second, the other side of the dialogue is Paul's conversion and calling to follow Christ in the early 30s.
 
 
 The churches in Rome
 
-Papyrus_26_-_Papyrus_Oxyrhynchus_1354_-_Bridwell_Papyrus_1_-_Epistle_to_the_Romans_1,1-16_-_verso.jpg, Oxyrhynchus, Egypt: 6th century – Epistle to the Romans 1: 1–16]]
+, Oxyrhynchus, Egypt: 6th century – Epistle to the Romans 1: 1–16]]
 
 The most probable ancient account of the beginning of Christianity in Rome is given by a 4th-century writer known as Ambrosiaster:[23]
 
@@ -98,7 +98,7 @@ To review the current scholarly viewpoints on the purpose of Romans, along with 
 
 Contents
 
-Codex_Alexandrinus_088a_-_Ro_1,1_ff.jpg]]This essay-letter composed by Paul was written to a specific audience at a specific time; to understand it, the situations of both Paul and the recipients must be understood.
+]]This essay-letter composed by Paul was written to a specific audience at a specific time; to understand it, the situations of both Paul and the recipients must be understood.
 
 Prologue (1:1–15)
 

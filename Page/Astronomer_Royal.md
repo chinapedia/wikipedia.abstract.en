@@ -1,4 +1,4 @@
-John_Flamsteed_(Gemälde).jpg ASTRONOMER ROYAL is a senior post in the Royal Households of the United Kingdom. There are two officers, the senior being the Astronomer Royal dating from 22 June 1675; the second is the Astronomer Royal for Scotland dating from 1834.
+ASTRONOMER ROYAL is a senior post in the Royal Households of the United Kingdom. There are two officers, the senior being the Astronomer Royal dating from 22 June 1675; the second is the Astronomer Royal for Scotland dating from 1834.
 
 The post was created by King Charles II in 1675, at the same time as he founded the Royal Observatory Greenwich. He appointed John Flamsteed, instructing him "."[1][2][3]
 

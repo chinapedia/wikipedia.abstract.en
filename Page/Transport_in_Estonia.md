@@ -3,8 +3,6 @@ TRANSPORT IN ESTONIA relies mainly on road and rail networks.
 
 Roads
 
-Main_roads_of_Estonia.svg
-
 -   total: 57,565 km (including 16,465 of national roads)
 -   paved: 12,926 km (including 99 km of limited-access roads)
 

@@ -11,7 +11,7 @@ History
 
 Etymology
 
-Wuxian_Xiadong.jpg-era portrait of the Grotto of the Five Immortals, the Taoist temple around the five stones which gave Guangzhou its nickname "The City of Rams".]] _Guǎngzhōu_ is the pinyin romanisation of the Chinese name , which was simplified in mainland China to in the 1950s. The name of the city is taken from the ancient Guang Province (Guang Zhou), after it had become the prefecture's seat of government, which is how some other Chinese cities, including Hangzhou, Suzhou, and Fuzhou got their names. The character or —which also appears in the names of the provinces Guangdong and Guangxi, together called the Liangguang—means "broad" or "expansive" and refers to the intention to dispense imperial grace broadly in the region with the founding of county of Guangxin in Han Dynasty.
+-era portrait of the Grotto of the Five Immortals, the Taoist temple around the five stones which gave Guangzhou its nickname "The City of Rams".]] _Guǎngzhōu_ is the pinyin romanisation of the Chinese name , which was simplified in mainland China to in the 1950s. The name of the city is taken from the ancient Guang Province (Guang Zhou), after it had become the prefecture's seat of government, which is how some other Chinese cities, including Hangzhou, Suzhou, and Fuzhou got their names. The character or —which also appears in the names of the provinces Guangdong and Guangxi, together called the Liangguang—means "broad" or "expansive" and refers to the intention to dispense imperial grace broadly in the region with the founding of county of Guangxin in Han Dynasty.
 
 Before acquiring its current name, the town was known as PANYU, a name still borne by one of Guangzhou's districts not far from the main city. The origin of the name is still uncertain, with 11 various explanations being offered,[15] including that it may have referred to two local mountains.[16][17] The city has also sometimes been known as Guangzhou Fu or GUANGFU after its status as the capital of a prefecture. From this latter name, Guangzhou was known to medieval Persians such as Al-Masudi and Ibn Khordadbeh[18] as KHANFU ().[19] Under the Southern Han, the city was renamed XINGWANG.[20][21]
 
@@ -23,7 +23,7 @@ Prehistory
 
 A settlement now known as Nanwucheng was present in the area by .[27][28] Some traditional Chinese histories placed Nanwucheng's founding during the reign of Ji Yan,[29][30] king of Zhou from 314–256 . It was said to have consisted of little more than a stockade of bamboo and mud.[31][32]
 
-Si_lü_yu_yi.JPG of Zhao Mo in Guangzhou's Nanyue King Museum]]
+of Zhao Mo in Guangzhou's Nanyue King Museum]]
 
 Nanyue
 
@@ -31,7 +31,7 @@ Panyu was established on the east bank of the Pearl River in 214  to serve as a
 
 Imperial China
 
-Pearl_River_Yujitu_(cropped).png]] Lai_Afong,_Canton_commercial_street_view,_c1880.jpg's photograph of a commercial street in Guangzhou ]] Canton_River,_26_May_1841.jpg ("Hanan"), Pazhou ("Whampoa"), Changzhou ("Dane's Island"), and Xiaoguwei ("French Island") during the First Opium War's Second Battle of Canton. The large East Indiamen of the Canton trade used the anchorage sheltered by these four islands, but the village and island of Huangpu for which it was named make up no part of present-day Guangzhou's Huangpu District.]] Incorporated into the Han Dynasty, Panyu became a provincial capital. In  226, it became the seat of Guang Prefecture, which gave it its modern name. The _Old Book of Tang_ described Guangzhou as an important port in southern China.[37] Direct routes connected the Middle East and China, as shown in records of a Chinese prisoner returning home from Iraq twelve years after his capture at Talas.[38] Relations were not always peaceful: Muslims sacked the city on 30 October 758[39][40][41][42] and were massacred by the Chinese rebel Huang Chao in 878, along with the city's Jews, Christians,[43][44][45] and Parsis.[46][47]
+]] 's photograph of a commercial street in Guangzhou ]] ("Hanan"), Pazhou ("Whampoa"), Changzhou ("Dane's Island"), and Xiaoguwei ("French Island") during the First Opium War's Second Battle of Canton. The large East Indiamen of the Canton trade used the anchorage sheltered by these four islands, but the village and island of Huangpu for which it was named make up no part of present-day Guangzhou's Huangpu District.]] Incorporated into the Han Dynasty, Panyu became a provincial capital. In  226, it became the seat of Guang Prefecture, which gave it its modern name. The _Old Book of Tang_ described Guangzhou as an important port in southern China.[37] Direct routes connected the Middle East and China, as shown in records of a Chinese prisoner returning home from Iraq twelve years after his capture at Talas.[38] Relations were not always peaceful: Muslims sacked the city on 30 October 758[39][40][41][42] and were massacred by the Chinese rebel Huang Chao in 878, along with the city's Jews, Christians,[43][44][45] and Parsis.[46][47]
 
 Amid the Five Dynasties and Ten Kingdoms that followed the collapse of the Tang dynasty, the Later Liang governor Liu Yan used his base at Panyu to establish a "Great Yue" or "Southern Han" empire, which lasted from 917 to 971. The region enjoyed considerable cultural and economic success in this period. From the 10th to 12th century, there are records that the large foreign communities were not exclusively male, but included "Persian women".[48][49] Guangzhou was visited by the Moroccan traveler Ibn Battuta during his 14th-century journey around the world; he detailed the process by which the Chinese constructed their large ships in the port's shipyards.[50]
 
@@ -53,7 +53,7 @@ Modern China
 
 Revolutions
 
-黄花岗h_-_panoramio.jpg]]
+]]
 
 During the late Qing Dynasty, Guangzhou was the site of failed revolts such as the Uprisings of 1895 and 1911 to overthrow the Qing; the 72 rebels whose bodies were found after the latter uprising are remembered and honoured as the city's 72 Martyrs in the Huanghuagang ("Yellow Flower Mound") Mausoleum.
 
@@ -63,7 +63,7 @@ Kuomintang rule
 
 After the assassination of Song Jiaoren and Yuan Shikai's attempts to remove the Nationalist Party of China from power, the leader of Guangdong Hu Hanmin joined the 1913 Second Revolution against him[58] but was forced to flee to Japan with Sun Yat-sen after its failure. The city came under national spotlight again in 1917, when Prime Minister Duan Qirui's abrogation of the constitution triggered the Constitutional Protection Movement. Sun Yat-sen came to head the Guangzhou Military Government supported by the members of the dissolved parliament and the Southwestern warlords. The Guangzhou government fell apart as the warlords withdrew their support. Sun fled to Shanghai in November 1918 until the Guangdong warlord Chen Jiongming restored him in October 1920 during the Yuegui Wars. On 16 June 1922, Sun was ousted in a coup and fled on the warship Yongfeng after Chen sided with the Zhili Clique's Beijing government. In the following months Sun mounted a counterattack into Guangdong by rallying supporters from Yunnan and Guangxi, and in January established a government in the city for the third time.
 
-Naval_Jack_of_the_Republic_of_China.svg]] From 1923 to 1926 Sun and the Kuomintang used the city as a base to prosecute a renewed revolution in China by conquering the warlords in the north. Although Sun was previously dependent on opportunistic warlords who hosted him in the city, with the leadership of Chiang Kai-shek, the KMT developed its own military power to serve its ambition. The Canton years saw the evolution of the KMT into a revolutionary movement with a strong military focus and ideological commitment, setting the tone of the KMT rule of China beyond 1927.
+]] From 1923 to 1926 Sun and the Kuomintang used the city as a base to prosecute a renewed revolution in China by conquering the warlords in the north. Although Sun was previously dependent on opportunistic warlords who hosted him in the city, with the leadership of Chiang Kai-shek, the KMT developed its own military power to serve its ambition. The Canton years saw the evolution of the KMT into a revolutionary movement with a strong military focus and ideological commitment, setting the tone of the KMT rule of China beyond 1927.
 
 In 1924 the KMT made the momentous decision to ally with the Communist Party and the USSR. With Soviet help, KMT reorganized itself along the Leninist line and adopted a pro-labor and pro-peasant stance. The Kuomintang-CCP cooperation was confirmed in the First Congress of the KMT and the communists were instructed to join the KMT. The allied government set up the Peasant Movement Training Institute in the city, of which Mao Zedong was a director for one term. Sun and his military commander Chiang used Soviet funds and weapons to build an armed force staffed by communist commissars, training its cadres in the Whampoa Military Academy. In August, the fledgling army suppressed the Canton Merchants' Corps Uprising. The next year the anti-imperialist May Thirtieth Movement swept the country, and the KMT government called for strikes in Canton and Hong Kong. The tensions of the massive strikes and protests led to the Shakee Massacre.
 
@@ -90,7 +90,7 @@ Common themes included the Thirteen Factories, the Whampoa Anchorage (now Pazhou
 
 Geography
 
-Tiantang_Peak.jpg, highest mountain in Guangzhou]] The old town of Guangzhou was near Baiyun Mountain on the east bank of the Pearl River (Zhujiang) about from its junction with the South China Sea and about below its head of navigation. It commanded the rich alluvial plain of the Pearl River Delta, with its connection to the sea protected at the Humen Strait. The present city spans on both sides of the river from to longitude and to latitude in south-central Guangdong. The Pearl is the 4th-largest river of China.[66] Baiyun Mountain is now locally referred to as the city's "lung" ().[67][68]
+, highest mountain in Guangzhou]] The old town of Guangzhou was near Baiyun Mountain on the east bank of the Pearl River (Zhujiang) about from its junction with the South China Sea and about below its head of navigation. It commanded the rich alluvial plain of the Pearl River Delta, with its connection to the sea protected at the Humen Strait. The present city spans on both sides of the river from to longitude and to latitude in south-central Guangdong. The Pearl is the 4th-largest river of China.[66] Baiyun Mountain is now locally referred to as the city's "lung" ().[67][68]
 
 The elevation of the prefecture generally increases from southwest to northeast, with mountains forming the backbone of the city and the ocean comprising the front. Tiantang Peak (, "Heavenly Peak") is the highest point of elevation at above sea level.
 
@@ -161,7 +161,7 @@ Guangzhou is a sub-provincial city. It has direct jurisdiction over eleven distr
 
 Economy
 
-1957_Canton_Fair.jpg (1957) at the Sino-Soviet Friendship Building]] Guangzhou is the main manufacturing hub of the Pearl River Delta, one of mainland China's leading commercial and manufacturing regions. In 2017, the GDP reached ¥2,150 billion (US$318 billion), per capita was ¥150,678 (US $22,317).[76] Guangzhou is considered one of the most prosperous cities in China. Owing to rapid industrialisation, it is also considered one of the most polluted cities once. But as city development goes greener, it is now one of the most livable cities in China.
+(1957) at the Sino-Soviet Friendship Building]] Guangzhou is the main manufacturing hub of the Pearl River Delta, one of mainland China's leading commercial and manufacturing regions. In 2017, the GDP reached ¥2,150 billion (US$318 billion), per capita was ¥150,678 (US $22,317).[76] Guangzhou is considered one of the most prosperous cities in China. Owing to rapid industrialisation, it is also considered one of the most polluted cities once. But as city development goes greener, it is now one of the most livable cities in China.
 
 The Canton Fair, formally the "China Import and Export Fair", is held every year in April and October by the Ministry of Trade. Inaugurated in the spring of 1957, the fair is a major event for the city. It is the trade fair with the longest history, highest level, largest scale in China.[77] From the 104th session onwards, the fair moved to the new Guangzhou International Convention and Exhibition Center () in Pazhou, from the older complex in Liuhua. The GICEC is served by two stations on Line 8 and three stations on Tram Line THZ1. Since the 104th session, the Canton Fair has been arranged in three phases instead of two phases.
 
@@ -249,7 +249,7 @@ File:GongYuanQian-MTR-Gz.JPG|Gongyuanqian Station of the Guangzhou Metro File:GB
 
 Culture
 
-Guangzhou_Opera_House(Near).JPG Within China, the culture of the Cantonese people is a subset of the larger "Southern" or "Lingnan" cultural areas. Notable aspects of Guangzhou's cultural heritage include:
+Within China, the culture of the Cantonese people is a subset of the larger "Southern" or "Lingnan" cultural areas. Notable aspects of Guangzhou's cultural heritage include:
 
 -   Cantonese language, the local and prestige variant of Yue Chinese
 -   Cantonese cuisine, one of China's eight major culinary traditions[111]
@@ -286,7 +286,7 @@ File:Canton pagoda de las flores.JPG| at the Temple of the Six Banyan Trees (Liu
 
 Sport
 
-Stade_Olympique_Guangdong.JPG]] Tianhe_Stadium.jpg is the home of Guangzhou Evergrande]] The 18,000 seat Guangzhou International Sports Arena will be one of the venues for the 2019 FIBA Basketball World Cup.[129]
+]] is the home of Guangzhou Evergrande]] The 18,000 seat Guangzhou International Sports Arena will be one of the venues for the 2019 FIBA Basketball World Cup.[129]
 
 From 12–27 November 2010, Guangzhou hosted the 16th Asian Games. The same year, it hosted the first Asian Para Games from December 12 to 19. Combined, these were the largest sporting events the city ever hosted.[130]
 
@@ -317,7 +317,7 @@ Destinations
 
 Eight Views
 
-Guangzhou_Tower.jpg[132]]] The Eight Views of Ram City are Guangzhou's eight most famous tourist attractions. They have varied over time since the Song dynasty, with some being named or demoted by emperors. The following modern list was chosen through public appraisal in 2011:
+[132]]] The Eight Views of Ram City are Guangzhou's eight most famous tourist attractions. They have varied over time since the Song dynasty, with some being named or demoted by emperors. The following modern list was chosen through public appraisal in 2011:
 
 -   "Towers Shining through the New Town"
 -   "The Pearl River Flowing and Shining": The Pearl River from Bai'etan to Pazhou
@@ -330,7 +330,7 @@ Guangzhou_Tower.jpg[132]]] The Eight Views of Ram City are Guangzhou's eight mos
 
 File:Pearl River Night Cruise.jpg|The Pearl River at Haiyin Bridge File:Guangzhou BaiyunShan.jpg|Zhujiang New City from Pakwan or Baiyun Mountain File:刘庆伏狼驹3.jpg|A brick carving at the Guangzhou Folk Art Museum, housed in the Chen Clan Ancestral Hall
 
-Semal_(Bombax_ceiba)_flowers_in_Kolkata_W_IMG_4132.jpg'', Guangzhou's official flower]]
+'', Guangzhou's official flower]]
 
 Parks and gardens
 
@@ -369,7 +369,7 @@ Guangzhou attracts more than 100 million visitors each year.[133] There are many
 
 Pedestrian streets
 
-In every district there are many shopping areas where people can walk on the sidewalks; however most of them are not set as pedestrian streets. 1_guangzhou_shopping_2011.JPG Pedestrian Street]] The popular pedestrian streets are:
+In every district there are many shopping areas where people can walk on the sidewalks; however most of them are not set as pedestrian streets. Pedestrian Street]] The popular pedestrian streets are:
 
 -   Beijing Road pedestrian street
 -   Shangxiajiu Pedestrian Street
@@ -425,7 +425,7 @@ Guangzhou has some of the best Chinese-language newspapers and magazines in main
 
 Education
 
-North_Square_of_SYSU.jpg main gate]] Sun_Yat-sen_University.JPG Guangzhou_Library_2013.11.15_18-30-36.jpg The Guangzhou Higher Education Mega Centre, also known as Guangzhou University Town (), is a large tertiary education complex located in the southeast suburbs of Guangzhou. It occupies the entirety of Xiaoguwei Island in Panyu District, covering an area of about . The complex accommodates campuses from ten higher education institutions and can eventually accommodate up to 200,000 students, 20,000 teachers, and 50,000 staff.[134]
+main gate]] The Guangzhou Higher Education Mega Centre, also known as Guangzhou University Town (), is a large tertiary education complex located in the southeast suburbs of Guangzhou. It occupies the entirety of Xiaoguwei Island in Panyu District, covering an area of about . The complex accommodates campuses from ten higher education institutions and can eventually accommodate up to 200,000 students, 20,000 teachers, and 50,000 staff.[134]
 
 The Guangzhou Higher Education Mega Centre higher education campuses:
 

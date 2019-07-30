@@ -5,7 +5,7 @@ The creator of _Bubble Bobble_, Fukio Mitsuji (MTJ), went on to create other gam
 
 Gameplay
 
-Bubblebobble.png In the game's plot, "Baron Von Blubba" has kidnapped the brothers Bubby and Bobby's girlfriends and turned the brothers into Bubble Dragons, Bub and Bob. Bub and Bob have to finish 100 levels in the Cave of Monsters in order to rescue them.[7]
+In the game's plot, "Baron Von Blubba" has kidnapped the brothers Bubby and Bobby's girlfriends and turned the brothers into Bubble Dragons, Bub and Bob. Bub and Bob have to finish 100 levels in the Cave of Monsters in order to rescue them.[7]
 
 In the game, each player controls one of the two dragons. Players can move along platforms, fall to lower ones, and jump to higher ones and over gaps. Each level is limited to a single screen, with no scrolling; however, if a screen has gaps in its bottom edge, players can fall through these and reappear at the top. Each level has a certain number of enemies that must be defeated in order to advance. The players must blow bubbles to trap the enemies, then burst these bubbles by colliding with them. Each enemy defeated in this manner turns into a food item that can be picked up for extra points. Defeating multiple enemies at once awards higher scores and causes more valuable food items to appear. All bubbles will float for a certain length of time before bursting on their own; players can jump on these and ride them to otherwise inaccessible areas.[8] Magic items appear from time to time and grant special abilities and advantages when picked up. Special bubbles occasionally appear that can be burst to attack enemies with fire, water, or lightning. Furthermore, if a player collects letter bubbles to form EXTEND, he/she earns a bonus life and both players immediately advance to the next level.
 
@@ -25,7 +25,7 @@ Legacy
 
 Ports
 
-Bubble_Bobble_Famicom_Disk_System_disk.jpg.]] The popularity of _Bubble Bobble_ led Taito (or its licensees) to port the game to many home systems. Ports of the game were released for the Commodore 64, ZX Spectrum, Amiga, Atari ST, MSX2, Amstrad CPC, X68000, MS-DOS, Apple II, FM Towns Marty, Master System, Game Boy, Game Boy Color, PlayStation, Saturn, NES, Famicom Disk System, Game Gear, mobile phone (Sprint PCS) and UltraCade's Taito Arcade Classics.
+.]] The popularity of _Bubble Bobble_ led Taito (or its licensees) to port the game to many home systems. Ports of the game were released for the Commodore 64, ZX Spectrum, Amiga, Atari ST, MSX2, Amstrad CPC, X68000, MS-DOS, Apple II, FM Towns Marty, Master System, Game Boy, Game Boy Color, PlayStation, Saturn, NES, Famicom Disk System, Game Gear, mobile phone (Sprint PCS) and UltraCade's Taito Arcade Classics.
 
 Of the original 8- and 16-bit ports, the MSX2, NES/Famicom Disk System, Game Boy and Master System ones were made by Taito itself (though the Master System version was published by Sega instead of Taito). The Game Gear port (which emulates the Master System version of _Bubble Bobble_) was done by South Korean developer Open Corporation. The Commodore 64, Spectrum and Amiga versions were developed by Software Creations and published in the UK by Firebird Software. Most of the other computer ports were made by US-based Novalogic with the exception of the X68000 game in Japan that was done by Dempa Shinbunsha. The Game Boy Color version was co-created by the video game developers Dreams and I.T.L.
 

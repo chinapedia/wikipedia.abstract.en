@@ -15,7 +15,7 @@ The word "dessert" is most commonly used for this course in Australia, Canada, I
 
 History
 
-Spread_sugarcane.JPG to the world.]] Chum_chums.jpg from hundreds of varieties. In certain parts of India, these are called _mithai_ or sweets. Sugar and desserts have a long history in India: by about 500 BC, people in India had developed the technology to produce sugar crystals. In the local language, these crystals were called _khanda_ (खण्ड), which is the source of the word _candy_.[7]]] Sweets were fed to the gods in ancient Mesopotamia[8] and ancient India[9] and other ancient civilizations.[10] Dried fruit and honey were probably the first sweeteners used in most of the world, but the spread of sugarcane around the world was essential to the development of dessert.[11]
+to the world.]] from hundreds of varieties. In certain parts of India, these are called _mithai_ or sweets. Sugar and desserts have a long history in India: by about 500 BC, people in India had developed the technology to produce sugar crystals. In the local language, these crystals were called _khanda_ (खण्ड), which is the source of the word _candy_.[7]]] Sweets were fed to the gods in ancient Mesopotamia[8] and ancient India[9] and other ancient civilizations.[10] Dried fruit and honey were probably the first sweeteners used in most of the world, but the spread of sugarcane around the world was essential to the development of dessert.[11]
 
 Sugarcane was grown and refined in India before 500 BC[12] and was crystallized, making it easy to transport, by 500 AD. Sugar and sugarcane were traded, making sugar available to Macedonia by 300 BC and China by 600 AD. In the Indian subcontinent, the Middle East, and China, sugar has been a staple of cooking and desserts for over a thousand years. Sugarcane and sugar were little known and rare in Europe until the twelfth century or later, when the Crusades and then colonization spread its use.
 
@@ -45,11 +45,11 @@ Biscuits, (from the Old French word _bescuit_ originally meaning _twice-baked_ i
 
 Cakes
 
-GermanChocolateCake.jpg, a layered cake filled and topped with a coconut-pecan frosting.]] Cakes are sweet tender breads made with sugar and delicate flour. Cakes can vary from light, airy sponge cakes to dense cakes with less flour. Common flavorings include dried, candied or fresh fruit, nuts, cocoa or extracts. They may be filled with fruit preserves or dessert sauces (like pastry cream), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit. Cake is often served as a celebratory dish on ceremonial occasions, for example weddings, anniversaries, and birthdays. Small-sized cakes have become popular, in the form of cupcakes and petits fours.
+, a layered cake filled and topped with a coconut-pecan frosting.]] Cakes are sweet tender breads made with sugar and delicate flour. Cakes can vary from light, airy sponge cakes to dense cakes with less flour. Common flavorings include dried, candied or fresh fruit, nuts, cocoa or extracts. They may be filled with fruit preserves or dessert sauces (like pastry cream), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit. Cake is often served as a celebratory dish on ceremonial occasions, for example weddings, anniversaries, and birthdays. Small-sized cakes have become popular, in the form of cupcakes and petits fours.
 
 Chocolates and candies
 
-Valentines_Day_Chocolates_from_2005.jpg chocolates]] Chocolate is a typically sweet, usually brown, food preparation of _Theobroma cacao_ seeds, roasted, ground, and often flavored. Pure, unsweetened chocolate contains primarily cocoa solids and cocoa butter in varying proportions. Much of the chocolate currently consumed is in the form of sweet chocolate, combining chocolate with sugar. Milk chocolate is sweet chocolate that additionally contains milk powder or condensed milk. White chocolate contains cocoa butter, sugar, and milk, but no cocoa solids. Dark chocolate is produced by adding fat and sugar to the cacao mixture, with no milk or much less than milk chocolate.
+chocolates]] Chocolate is a typically sweet, usually brown, food preparation of _Theobroma cacao_ seeds, roasted, ground, and often flavored. Pure, unsweetened chocolate contains primarily cocoa solids and cocoa butter in varying proportions. Much of the chocolate currently consumed is in the form of sweet chocolate, combining chocolate with sugar. Milk chocolate is sweet chocolate that additionally contains milk powder or condensed milk. White chocolate contains cocoa butter, sugar, and milk, but no cocoa solids. Dark chocolate is produced by adding fat and sugar to the cacao mixture, with no milk or much less than milk chocolate.
 
 Candy, also called sweets or lollies, is a confection that features sugar as a principal ingredient. Many candies involve the crystallization of sugar which varies the texture of sugar crystals. Candies comprise many forms including caramel, marshmallows, and taffy.
 
@@ -59,11 +59,11 @@ These kinds of desserts usually include a thickened dairy base. Custards are coo
 
 Deep-fried desserts
 
-Gulaab_Jamun_(homemade!)_bright.jpg topped with almond slivers is one of the most popular sweets from the Indian subcontinent.]] Many cuisines include a dessert made of deep-fried starch-based batter or dough. In many countries, a doughnut is a flour-based batter that has been deep-fried. It is sometimes filled with custard or jelly. Fritters are fruit pieces in a thick batter that have been deep fried. Gulab jamun is an Indian dessert made of milk solids kneaded into a dough, deep-fried, and soaked in honey. Churros are a deep-fried and sugared dough that is eaten as dessert or a snack in many countries. Doughnuts are most famous for being a trademark favorite of fictional character Homer Simpson from the animated television series _The Simpsons_.[27]
+topped with almond slivers is one of the most popular sweets from the Indian subcontinent.]] Many cuisines include a dessert made of deep-fried starch-based batter or dough. In many countries, a doughnut is a flour-based batter that has been deep-fried. It is sometimes filled with custard or jelly. Fritters are fruit pieces in a thick batter that have been deep fried. Gulab jamun is an Indian dessert made of milk solids kneaded into a dough, deep-fried, and soaked in honey. Churros are a deep-fried and sugared dough that is eaten as dessert or a snack in many countries. Doughnuts are most famous for being a trademark favorite of fictional character Homer Simpson from the animated television series _The Simpsons_.[27]
 
 Frozen desserts
 
-Matkakulfi.jpg from India.]] Ice cream, gelato, sorbet and shaved-ice desserts fit into this category. Ice cream is a cream base that is churned as it is frozen to create a creamy consistency. Gelato uses a milk base and has less air whipped in than ice cream, making it denser. Sorbet is made from churned fruit and is not dairy based. Shaved-ice desserts are made by shaving a block of ice and adding flavored syrup or juice to the ice shavings.
+from India.]] Ice cream, gelato, sorbet and shaved-ice desserts fit into this category. Ice cream is a cream base that is churned as it is frozen to create a creamy consistency. Gelato uses a milk base and has less air whipped in than ice cream, making it denser. Sorbet is made from churned fruit and is not dairy based. Shaved-ice desserts are made by shaving a block of ice and adding flavored syrup or juice to the ice shavings.
 
 Jellied desserts
 
@@ -71,7 +71,7 @@ Jellied desserts are made with a sweetened liquid thickened with gelatin or anot
 
 Pastries
 
-Croissants_au_beurre_(18953292873).jpg Pastries are sweet baked pastry products. Pastries can either take the form of light and flaky bread with an airy texture, such as a croissant or unleavened dough with a high fat content and crispy texture, such as shortbread. Pastries are often flavored or filled with fruits, chocolate, nuts, and spices. Pastries are sometimes eaten with tea or coffee as a breakfast food.
+Pastries are sweet baked pastry products. Pastries can either take the form of light and flaky bread with an airy texture, such as a croissant or unleavened dough with a high fat content and crispy texture, such as shortbread. Pastries are often flavored or filled with fruits, chocolate, nuts, and spices. Pastries are sometimes eaten with tea or coffee as a breakfast food.
 
 Pies, cobblers, and clafoutis
 
@@ -79,7 +79,7 @@ Pies and cobblers are a crust with a filling. The crust can be either made from 
 
 Sweet soups
 
-Eggtongsui.jpg]] Tong sui, literally translated as "sugar water" and also known as tim tong, is a collective term for any sweet, warm soup or custard served as a dessert at the end of a meal in Cantonese cuisine. _Tong sui_ are a Cantonese specialty and are rarely found in other regional cuisines of China. Outside of Cantonese-speaking communities, soupy desserts generally are not recognized as a distinct category, and the term _tong sui_ is not used.
+]] Tong sui, literally translated as "sugar water" and also known as tim tong, is a collective term for any sweet, warm soup or custard served as a dessert at the end of a meal in Cantonese cuisine. _Tong sui_ are a Cantonese specialty and are rarely found in other regional cuisines of China. Outside of Cantonese-speaking communities, soupy desserts generally are not recognized as a distinct category, and the term _tong sui_ is not used.
 
 Dessert wines
 
@@ -93,7 +93,7 @@ File:Apple pie.jpg|Apple pie File:Baked Alaska (5097717743).jpg|Baked Alaska, ic
 
 By continent
 
-GrassJellyBlocks.jpg is a jelly-like dessert eaten in several Asian countries.]]
+is a jelly-like dessert eaten in several Asian countries.]]
 
 Africa
 
@@ -101,13 +101,13 @@ Throughout much of central and western Africa, there is no tradition of a desser
 
 Asia
 
-Classic_bubble_tea.jpgIn Asia, desserts are often eaten between meals as snacks rather than as a concluding course. There is widespread use of rice flour in East Asian desserts, which often include local ingredients such as coconut milk, palm sugar, and tropical fruit.[32] In India, where sugarcane has been grown and refined since before 500 BCE, desserts have been an important part of the diet for thousands of years; types of desserts include burfis, halvahs, jalebis, and laddus.[33]
+In Asia, desserts are often eaten between meals as snacks rather than as a concluding course. There is widespread use of rice flour in East Asian desserts, which often include local ingredients such as coconut milk, palm sugar, and tropical fruit.[32] In India, where sugarcane has been grown and refined since before 500 BCE, desserts have been an important part of the diet for thousands of years; types of desserts include burfis, halvahs, jalebis, and laddus.[33]
 
 Dessert nowadays are made into drinks as well, such as Bubble Tea. It is originated in Taiwan, which locates in East Asia. Bubble tea is a kind of dessert made with flavor tea or milk with tapioca. It is well-known across the world.[34]
 
 Europe
 
-Postres_turcos.jpg desserts like baklava, şöbiyet, sütlü nuriye, kalburabastı, burma kadayıf, kadayıf dolma, and badem tatlısı.]] In Ukraine and Russia, breakfast foods such as nalysnyky or blintz or oladi (pancake), and syrniki are served with honey and jam as desserts.
+desserts like baklava, şöbiyet, sütlü nuriye, kalburabastı, burma kadayıf, kadayıf dolma, and badem tatlısı.]] In Ukraine and Russia, breakfast foods such as nalysnyky or blintz or oladi (pancake), and syrniki are served with honey and jam as desserts.
 
 North America
 
@@ -115,7 +115,7 @@ European colonization of the Americas yielded the introduction of a number of in
 
 South America
 
-Cocadas_ferrol.jpg are a traditional coconut candy or confectionery found in many parts of Latin America, made with eggs and shredded coconut.]]
+are a traditional coconut candy or confectionery found in many parts of Latin America, made with eggs and shredded coconut.]]
 
 Dulce de leche is a very common confection in Argentina.[35] In Bolivia, sugarcane, honey and coconut are traditionally used in desserts.[36] _Tawa tawa_ is a Bolivian sweet fritter prepared using sugar cane, and _helado de canela_ is a dessert that is similar to sherbet which is prepared with cane sugar and cinnamon.[37] Coconut tarts, puddings cookies and candies are also consumed in Bolivia.[38] Brazil has a variety of candies such as brigadeiros (chocolate fudge balls), cocada (a coconut sweet), beijinhos (coconut truffles and clove) and romeu e julieta (cheese with a guava jam known as goiabada). Peanuts are used to make paçoca, rapadura and pé-de-moleque. Local common fruits are turned in juices and used to make chocolates, ice pops and ice cream.[39] In Chile, _kuchen_ has been described as a "trademark dessert."[40] Several desserts in Chile are prepared with _manjar_, (caramelized milk), including _alfajor_, _flan_, _cuchufli_ and _arroz con leche_.[41] Desserts consumed in Colombia include dulce de leche, waffle cookies,[42] puddings, nougat, coconut with syrup and thickened milk with sugarcane syrup.[43] Desserts in Ecuador tend to be simple, and desserts are a moderate part of the cuisine.[44] Desserts consumed in Ecuador include tres leches cake, flan, candies and various sweets.[45]
 

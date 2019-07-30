@@ -1,4 +1,4 @@
-Griffith_experiment.svg bacteria.]]
+bacteria.]]
 
 GRIFFITH'S EXPERIMENT, reported in 1928 by Frederick Griffith,[1] was the first experiment suggesting that bacteria are capable of transferring genetic information through a process known as transformation.[2][3] Griffith's findings were followed by research in the late 1930s and early 40s that isolated DNA as the material that communicated this genetic information.
 

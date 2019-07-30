@@ -22,7 +22,7 @@ The idea that the number of valences of a given element was invariant was a key 
 
 Benzene
 
-Historic_Benzene_Formulae_Kekulé_(original).png Kekulé's most famous work was on the structure of benzene. In 1865 Kekulé published a paper in French (for he was then still in Belgium) suggesting that the structure contained a six-membered ring of carbon atoms with alternating single and double bonds.[6] The following year he published a much longer paper in German on the same subject.[7]
+Kekulé's most famous work was on the structure of benzene. In 1865 Kekulé published a paper in French (for he was then still in Belgium) suggesting that the structure contained a six-membered ring of carbon atoms with alternating single and double bonds.[6] The following year he published a much longer paper in German on the same subject.[7]
 
 The empirical formula for benzene had been long known, but its highly unsaturated structure was a challenge to determine. Archibald Scott Couper in 1858 and Joseph Loschmidt in 1861 suggested possible structures that contained multiple double bonds or multiple rings, but the study of aromatic compounds was in its earliest years, and too little evidence was then available to help chemists decide on any particular structure.
 
@@ -32,7 +32,7 @@ The counting of possible isomers for diderivatives was however criticized by Alb
 
 Kekulé's dream
 
-Ouroboros-benzene.svg, Kekulė's inspiration for the structure of benzene.]] The new understanding of benzene, and hence of all aromatic compounds, proved to be so important for both pure and applied chemistry after 1865 that in 1890 the German Chemical Society organized an elaborate appreciation in Kekulé's honor, celebrating the twenty-fifth anniversary of his first benzene paper. Here Kekulé spoke of the creation of the theory. He said that he had discovered the ring shape of the benzene molecule after having a reverie or day-dream of a snake seizing its own tail (this is an ancient symbol known as the ouroboros).[13]
+, Kekulė's inspiration for the structure of benzene.]] The new understanding of benzene, and hence of all aromatic compounds, proved to be so important for both pure and applied chemistry after 1865 that in 1890 the German Chemical Society organized an elaborate appreciation in Kekulé's honor, celebrating the twenty-fifth anniversary of his first benzene paper. Here Kekulé spoke of the creation of the theory. He said that he had discovered the ring shape of the benzene molecule after having a reverie or day-dream of a snake seizing its own tail (this is an ancient symbol known as the ouroboros).[13]
 
 A similar humorous depiction of benzene had appeared in 1886 in the _Berichte der Durstigen Chemischen Gesellschaft_ (Journal of the Thirsty Chemical Society), a parody of the _Berichte der Deutschen Chemischen Gesellschaft_, only the parody had monkeys seizing each other in a circle, rather than snakes as in Kekulé's anecdote.[14] Some historians have suggested that the parody was a lampoon of the snake anecdote, possibly already well-known through oral transmission even if it had not yet appeared in print.[15] Others have speculated that Kekulé's story in 1890 was a re-parody of the monkey spoof, and was a mere invention rather than a recollection of an event in his life.
 
@@ -50,7 +50,7 @@ A larger-than-life size monument of Kekulé is situated in front of the former C
 
 See also
 
-Stamps_of_Germany_(BRD)_1964,_MiNr_440.jpg.]]
+.]]
 
 -   Non-Kekulé molecule
 -   Kekulé Program

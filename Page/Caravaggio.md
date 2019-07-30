@@ -11,7 +11,7 @@ Biography
 
 Early life (1571–1592)
 
-Canestra_di_frutta_(Caravaggio).jpg,'' c. 1595–1596, oil on canvas, Pinacoteca Ambrosiana, Milan]]
+,'' c. 1595–1596, oil on canvas, Pinacoteca Ambrosiana, Milan]]
 
 Caravaggio (Michelangelo Merisi or Amerighi) was born in Milan, where his father, Fermo (Fermo Merixio), was a household administrator and architect-decorator to the Marchese of Caravaggio, a town not far from the city of Bergamo.[6] In 1576 the family moved to Caravaggio (Caravaggius) to escape a plague that ravaged Milan, and Caravaggio's father and grandfather both died there on the same day in 1577.[7][8] It is assumed that the artist grew up in Caravaggio, but his family kept up connections with the Sforzas and with the powerful Colonna family, who were allied by marriage with the Sforzas and destined to play a major role later in Caravaggio's life.
 
@@ -23,7 +23,7 @@ Following his initial training under Simone Peterzano, in 1592 Caravaggio left M
 
 In Rome there was demand for paintings to fill the many huge new churches and palazzos being built at the time. It was also a period when the Church was searching for a stylistic alternative to Mannerism in religious art that was tasked to counter the threat of Protestantism.[14] Caravaggio's innovation was a radical naturalism that combined close physical observation with a dramatic, even theatrical, use of chiaroscuro that came to be known as tenebrism (the shift from light to dark with little intermediate value).
 
-Caravaggio_-_I_Musici.jpg'', 1595–1596, Metropolitan Museum of Art, New York]]
+'', 1595–1596, Metropolitan Museum of Art, New York]]
 
 Known works from this period include a small _Boy Peeling a Fruit_ (his earliest known painting), a _Boy with a Basket of Fruit_, and the _Young Sick Bacchus_, supposedly a self-portrait done during convalescence from a serious illness that ended his employment with Cesari. All three demonstrate the physical particularity for which Caravaggio was to become renowned: the fruit-basket-boy's produce has been analysed by a professor of horticulture, who was able to identify individual cultivars right down to "... a large fig leaf with a prominent fungal scorch lesion resembling anthracnose (_Glomerella cingulata_)."[15]
 
@@ -31,7 +31,7 @@ Caravaggio left Cesari, determined to make his own way after a heated argument.[
 
 An early published notice on Caravaggio, dating from 1604 and describing his lifestyle three years previously, recounts that "after a fortnight's work he will swagger about for a month or two with a sword at his side and a servant following him, from one ball-court to the next, ever ready to engage in a fight or an argument, so that it is most awkward to get along with him."[20] In 1606 he killed a young man in a brawl, possibly unintentionally, and fled from Rome with a death sentence hanging over him.
 
-Caravaggio_Judith_Beheading_Holofernes.jpg'' 1599–1602, Galleria Nazionale d'Arte Antica, Rome]] Saint_Francis_of_Assisi_in_Ecstasy-Caravaggio_(c.1595).jpg'' (c. 1595), Wadsworth Atheneum, Hartford]]
+'' 1599–1602, Galleria Nazionale d'Arte Antica, Rome]] '' (c. 1595), Wadsworth Atheneum, Hartford]]
 
 _The Fortune Teller_, his first composition with more than one figure, shows a boy, likely Minniti, having his palm read by a gypsy girl, who is stealthily removing his ring as she strokes his hand. The theme was quite new for Rome, and proved immensely influential over the next century and beyond. This, however, was in the future: at the time, Caravaggio sold it for practically nothing. _The Cardsharps_ – showing another naïve youth of privilege falling the victim of card cheats – is even more psychologically complex, and perhaps Caravaggio's first true masterpiece. Like _The Fortune Teller_, it was immensely popular, and over 50 copies survive. More importantly, it attracted the patronage of Cardinal Francesco Maria del Monte, one of the leading connoisseurs in Rome. For Del Monte and his wealthy art-loving circle, Caravaggio executed a number of intimate chamber-pieces – _The Musicians_, _The Lute Player_, a tipsy _Bacchus_, an allegorical but realistic _Boy Bitten by a Lizard_ – featuring Minniti and other adolescent models.
 
@@ -43,7 +43,7 @@ Already evident was the intense realism or naturalism for which Caravaggio is no
 
 In 1599, presumably through the influence of Del Monte, Caravaggio was contracted to decorate the Contarelli Chapel in the church of San Luigi dei Francesi. The two works making up the commission, the _Martyrdom of Saint Matthew_ and _Calling of Saint Matthew_, delivered in 1600, were an immediate sensation. Thereafter he never lacked commissions or patrons.
 
-The_Calling_of_Saint_Matthew-Caravaggo_(1599-1600).jpg'' (1599–1600), Contarelli Chapel, San Luigi dei Francesi, Rome. Without recourse to flying angels, parting clouds or other artifice, Caravaggio portrays the instant conversion of St Matthew, the moment on which his destiny will turn, by means of a beam of light and the pointing finger of Jesus.]]
+'' (1599–1600), Contarelli Chapel, San Luigi dei Francesi, Rome. Without recourse to flying angels, parting clouds or other artifice, Caravaggio portrays the instant conversion of St Matthew, the moment on which his destiny will turn, by means of a beam of light and the pointing finger of Jesus.]]
 
 Caravaggio's tenebrism (a heightened chiaroscuro) brought high drama to his subjects, while his acutely observed realism brought a new level of emotional intensity. Opinion among his artist peers was polarized. Some denounced him for various perceived failings, notably his insistence on painting from life, without drawings, but for the most part he was hailed as a great artistic visionary: "The painters then in Rome were greatly taken by this novelty, and the young ones particularly gathered around him, praised him as the unique imitator of nature, and looked on his work as miracles."[22]
 
@@ -51,11 +51,11 @@ Caravaggio went on to secure a string of prestigious commissions for religious w
 
 His first version of _Saint Matthew and the Angel_, featuring the saint as a bald peasant with dirty legs attended by a lightly clad over-familiar boy-angel, was rejected and a second version had to be painted as _The Inspiration of Saint Matthew_. Similarly, _The Conversion of Saint Paul_ was rejected, and while another version of the same subject, the _Conversion on the Way to Damascus_, was accepted, it featured the saint's horse's haunches far more prominently than the saint himself, prompting this exchange between the artist and an exasperated official of Santa Maria del Popolo: "Why have you put a horse in the middle, and Saint Paul on the ground?" "Because!" "Is the horse God?" "No, but he stands in God's light!"[25]
 
-Death_of_the_Virgin-Caravaggio_(1606).jpg'', 1601–1606, Louvre, Paris]]
+'', 1601–1606, Louvre, Paris]]
 
 Other works included _Entombment_, the _Madonna di Loreto_ (_Madonna of the Pilgrims_), the _Grooms' Madonna_, and the _Death of the Virgin_. The history of these last two paintings illustrates the reception given to some of Caravaggio's art, and the times in which he lived. The _Grooms' Madonna_, also known as _Madonna dei palafrenieri_, painted for a small altar in Saint Peter's Basilica in Rome, remained there for just two days, and was then taken off. A cardinal's secretary wrote: "In this painting there are but vulgarity, sacrilege, impiousness and disgust...One would say it is a work made by a painter that can paint well, but of a dark spirit, and who has been for a lot of time far from God, from His adoration, and from any good thought..."
 
-Amor_Vincet_Omnia.jpg'', 1601–1602, Gemäldegalerie, Berlin. Caravaggio shows Cupid prevailing over all human endeavors: war, music, science, government.]]
+'', 1601–1602, Gemäldegalerie, Berlin. Caravaggio shows Cupid prevailing over all human endeavors: war, music, science, government.]]
 
 The _Death of the Virgin_, commissioned in 1601 by a wealthy jurist for his private chapel in the new Carmelite church of Santa Maria della Scala, was rejected by the Carmelites in 1606. Caravaggio's contemporary Giulio Mancini records that it was rejected because Caravaggio had used a well-known prostitute as his model for the Virgin.[26] Giovanni Baglione, another contemporary, tells us it was due to Mary's bare legs[27] —a matter of decorum in either case. Caravaggio scholar John Gash suggests that the problem for the Carmelites may have been theological rather than aesthetic, in that Caravaggio's version fails to assert the doctrine of the Assumption of Mary, the idea that the Mother of God did not die in any ordinary sense but was assumed into Heaven.[28] The replacement altarpiece commissioned (from one of Caravaggio's most able followers, Carlo Saraceni), showed the Virgin not dead, as Caravaggio had painted her, but seated and dying; and even this was rejected, and replaced with a work showing the Virgin not dying, but ascending into Heaven with choirs of angels. In any case, the rejection did not mean that Caravaggio or his paintings were out of favour. The _Death of the Virgin_ was no sooner taken out of the church than it was purchased by the Duke of Mantua, on the advice of Rubens, and later acquired by Charles I of England before entering the French royal collection in 1671.
 
@@ -63,7 +63,7 @@ One secular piece from these years is _Amor Victorious_, painted in 1602 for Vin
 
 A crime too many (1606)
 
-Saint_Jerome_Writing-Caravaggio_(1605-6).jpg, Rome.]]
+, Rome.]]
 
 Caravaggio led a tumultuous life. He was notorious for brawling, even in a time and place when such behavior was commonplace, and the transcripts of his police records and trial proceedings fill several pages. On 29 May 1606, he killed, possibly unintentionally, a young man named Ranuccio Tomassoni from Terni (Umbria). The circumstances of the brawl and the death of Ranuccio Tomassoni remain mysterious. Several contemporary _avvisi_ referred to a quarrel over a gambling debt and a tennis game, and this explanation has become established in the popular imagination.[30] But recent scholarship has made it clear that more was involved. Good modern accounts are to be found in Peter Robb's _M_ and Helen Langdon's _Caravaggio: A Life_. A theory relating the death to Renaissance notions of honour and symbolic wounding has been advanced by art historian Andrew Graham-Dixon.[31] Whatever the details, it was a serious matter.[32][33] Previously, his high-placed patrons had protected him from the consequences of his escapades, but this time they could do nothing. Caravaggio, outlawed, fled to Naples.
 
@@ -71,7 +71,7 @@ Exile and death (1606–1610)
 
 Naples
 
-Caravaggio_-_Sette_opere_di_Misericordia.jpg'', 1606–1607, Pio Monte della Misericordia, Naples]]
+'', 1606–1607, Pio Monte della Misericordia, Naples]]
 
 Following the death of Tomassoni, Caravaggio fled first to the estates of the Colonna family south of Rome, then on to Naples, where Costanza Colonna Sforza, widow of Francesco Sforza, in whose husband's household Caravaggio's father had held a position, maintained a palace. In Naples, outside the jurisdiction of the Roman authorities and protected by the Colonna family, the most famous painter in Rome became the most famous in Naples.
 
@@ -79,13 +79,13 @@ His connections with the Colonnas led to a stream of important church commission
 
 Malta
 
-Despite his success in Naples, after only a few months in the city Caravaggio left for Malta, the headquarters of the Knights of Malta. Fabrizio Sforza Colonna, Costanza's son, was a Knight of Malta and general of the Order's galleys. He appears to have facilitated Caravaggio's arrival in the island in 1607 (and his escape the next year). Caravaggio presumably hoped that the patronage of Alof de Wignacourt, Grand Master of the Knights of Saint John, could help him secure a pardon for Tomassoni's death.[37] De Wignacourt was so impressed at having the famous artist as official painter to the Order that he inducted him as a Knight, and the early biographer Bellori records that the artist was well pleased with his success.[38] The_Beheading_of_Saint_John-Caravaggio_(1608).jpg (1608) by Caravaggio (Saint John's Co-Cathedral, Valletta, Malta)]] Major works from his Malta period include the _Beheading of Saint John the Baptist_, his largest ever work, and the only painting to which he put his signature, Saint Jerome Writing (both housed in Saint John's Co-Cathedral, Valletta, Malta) and a _Portrait of Alof de Wignacourt and his Page_, as well as portraits of other leading Knights.[39] According to Andrea Pomella, _The Beheading of Saint John the Baptist_ is widely considered "one of the most important works in Western painting.".[40] Completed in 1608, the painting had been commissioned by the Knights of Malta as an altarpiece[41][42] and was the largest altarpiece Caravaggio painted.[43] It still hangs in St. John's Co-Cathedral, for which it was commissioned and where Caravaggio himself was inducted and briefly served as a knight.[44][45]
+Despite his success in Naples, after only a few months in the city Caravaggio left for Malta, the headquarters of the Knights of Malta. Fabrizio Sforza Colonna, Costanza's son, was a Knight of Malta and general of the Order's galleys. He appears to have facilitated Caravaggio's arrival in the island in 1607 (and his escape the next year). Caravaggio presumably hoped that the patronage of Alof de Wignacourt, Grand Master of the Knights of Saint John, could help him secure a pardon for Tomassoni's death.[37] De Wignacourt was so impressed at having the famous artist as official painter to the Order that he inducted him as a Knight, and the early biographer Bellori records that the artist was well pleased with his success.[38] (1608) by Caravaggio (Saint John's Co-Cathedral, Valletta, Malta)]] Major works from his Malta period include the _Beheading of Saint John the Baptist_, his largest ever work, and the only painting to which he put his signature, Saint Jerome Writing (both housed in Saint John's Co-Cathedral, Valletta, Malta) and a _Portrait of Alof de Wignacourt and his Page_, as well as portraits of other leading Knights.[39] According to Andrea Pomella, _The Beheading of Saint John the Baptist_ is widely considered "one of the most important works in Western painting.".[40] Completed in 1608, the painting had been commissioned by the Knights of Malta as an altarpiece[41][42] and was the largest altarpiece Caravaggio painted.[43] It still hangs in St. John's Co-Cathedral, for which it was commissioned and where Caravaggio himself was inducted and briefly served as a knight.[44][45]
 
 Yet, by late August 1608, he was arrested and imprisoned,[46] likely the result of yet another brawl, this time with an aristocratic knight, during which the door of a house was battered down and the knight seriously wounded.[47][48] Caravaggio was imprisoned by the Knights at Valletta, but he managed to escape. By December, he had been expelled from the Order "as a foul and rotten member", a formal phrase used in all such cases.[49]
 
 Sicily
 
-Room_of_caravaggio,_regional_museum_od_of_messina.JPG and the Adoration of the Shepherds, Regional Museum of Messina]]
+and the Adoration of the Shepherds, Regional Museum of Messina]]
 
 Caravaggio made his way to Sicily where he met his old friend Mario Minniti, who was now married and living in Syracuse. Together they set off on what amounted to a triumphal tour from Syracuse to Messina and, maybe, on to the island capital, Palermo. In Syracuse and Messina Caravaggio continued to win prestigious and well-paid commissions. Among other works from this period are _Burial of St. Lucy_, _The Raising of Lazarus_, and _Adoration of the Shepherds_. His style continued to evolve, showing now friezes of figures isolated against vast empty backgrounds. "His great Sicilian altarpieces isolate their shadowy, pitifully poor figures in vast areas of darkness; they suggest the desperate fears and frailty of man, and at the same time convey, with a new yet desolate tenderness, the beauty of humility and of the meek, who shall inherit the earth."[50] Contemporary reports depict a man whose behaviour was becoming increasingly bizarre, which included sleeping fully armed and in his clothes, ripping up a painting at a slight word of criticism, and mocking local painters.
 
@@ -93,11 +93,11 @@ Caravaggio displayed bizarre behaviour from very early in his career. Mancini de
 
 Return to Naples
 
-CaravaggioSalomeMadrid.jpg, Royal Palace of Madrid]]
+, Royal Palace of Madrid]]
 
 After only nine months in Sicily, Caravaggio returned to Naples in the late summer of 1609. According to his earliest biographer he was being pursued by enemies while in Sicily and felt it safest to place himself under the protection of the Colonnas until he could secure his pardon from the pope (now Paul V) and return to Rome.[51] In Naples he painted _The Denial of Saint Peter_, a final _John the Baptist (Borghese)_, and his last picture, _The Martyrdom of Saint Ursula_. His style continued to evolve — Saint Ursula is caught in a moment of highest action and drama, as the arrow fired by the king of the Huns strikes her in the breast, unlike earlier paintings that had all the immobility of the posed models. The brushwork was also much freer and more impressionistic.
 
-David_with_the_Head_of_Goliath-Caravaggio_(1610).jpg'', 1609–1610, Galleria Borghese, Rome]] In October 1609 he was involved in a violent clash, an attempt on his life, perhaps ambushed by men in the pay of the knight he had wounded in Malta or some other faction of the Order. His face was seriously disfigured and rumours circulated in Rome that he was dead. He painted a _Salome with the Head of John the Baptist (Madrid)_, showing his own head on a platter, and sent it to de Wignacourt as a plea for forgiveness. Perhaps at this time, he painted also a _David with the Head of Goliath_, showing the young David with a strangely sorrowful expression gazing on the severed head of the giant, which is again Caravaggio. This painting he may have sent to his patron, the unscrupulous art-loving Cardinal Scipione Borghese, nephew of the pope, who had the power to grant or withhold pardons.[52] Caravaggio hoped Borghese could mediate a pardon, in exchange for works by the artist.
+'', 1609–1610, Galleria Borghese, Rome]] In October 1609 he was involved in a violent clash, an attempt on his life, perhaps ambushed by men in the pay of the knight he had wounded in Malta or some other faction of the Order. His face was seriously disfigured and rumours circulated in Rome that he was dead. He painted a _Salome with the Head of John the Baptist (Madrid)_, showing his own head on a platter, and sent it to de Wignacourt as a plea for forgiveness. Perhaps at this time, he painted also a _David with the Head of Goliath_, showing the young David with a strangely sorrowful expression gazing on the severed head of the giant, which is again Caravaggio. This painting he may have sent to his patron, the unscrupulous art-loving Cardinal Scipione Borghese, nephew of the pope, who had the power to grant or withhold pardons.[52] Caravaggio hoped Borghese could mediate a pardon, in exchange for works by the artist.
 
 News from Rome encouraged Caravaggio, and in the summer of 1610 he took a boat northwards to receive the pardon, which seemed imminent thanks to his powerful Roman friends. With him were three last paintings, the gifts for Cardinal Scipione.[53] What happened next is the subject of much confusion and conjecture, shrouded in much mystery.
 
@@ -111,17 +111,15 @@ Human remains found in a church in Porto Ercole in 2010 are believed to almost c
 
 Sexuality
 
-Portrait_of_a_Courtesan_by_Caravaggio.jpg]]
+]]
 
 Caravaggio never married and had no known children, and Howard Hibbard notes the absence of erotic female figures from the artist's oeuvre: "In his entire career he did not paint a single female nude."[64] On the other hand, the cabinet-pieces from the Del Monte period are replete with "full-lipped, languorous boys ... who seem to solicit the onlooker with their offers of fruit, wine, flowers – and themselves" suggesting an erotic interest in the male form.[65] At the same time, however, a connection with a certain Lena is mentioned in a 1605 court deposition by Pasqualone, where she is described as "Michelangelo's girl".[66] According to G.B. Passeri, this 'Lena' was Caravaggio's model for the _Madonna di Loreto_; and according to Catherine Puglisi, 'Lena' may have been the same person as the courtesan Maddalena di Paolo Antognetti, who named Caravaggio as an "intimate friend" by her own testimony in 1604.[67][68] Caravaggio also probably enjoyed close relationships with other "whores and courtesans" such as Fillide Melandroni, of whom he painted a portrait.[69]
 
-Boy_with_a_Basket_of_Fruit-Caravaggio_(1593).jpg'', 1593–1594, oil on canvas, , Galleria Borghese, Rome]]
+'', 1593–1594, oil on canvas, , Galleria Borghese, Rome]]
 
 Nevertheless, since the 1970s both art scholars and historians have debated the inferences of homoeroticism in Caravaggio's works as a way to better understand the man.[70] The model of "Amor vincit omnia", for example, is known to have been Cecco di Caravaggio. Cecco stayed with Caravaggio even after he was obliged to leave Rome in 1606, and the two may have been lovers.[71]
 
 Caravaggio's sexuality also received early speculation due to claims about the artist by Honoré Gabriel Riqueti, Comte de Mirabeau. Writing in 1783, Mirabeau contrasted the personal life of Caravaggio directly with the writings of St Paul in the Book of Romans,[72] arguing that "Romans" excessively practice sodomy or homosexuality. The twenty-sixth verse of the first chapter[73] contains the Latin phrase: "_Et fœminæ eorum immutaverunt naturalem usum in eum usum qui est contra naturam._" The phrase, according to Mirabeau, entered Caravaggio's thoughts, and he claimed that such an "abomination" could be witnessed through a particular painting housed at the Museum of the Grand Duke of Tuscany – featuring a rosary of a blasphemous nature, in which a circle of thirty men (_turpiter ligati_) are intertwined in embrace and presented in unbridled composition. Mirabeau notes the affectionate nature of Caravaggio's depiction reflects the voluptuous glow of the artist's sexuality.[74] By the late nineteenth century, Sir Richard Francis Burton identified the painting as Caravaggio's painting of St. Rosario. Burton also identifies both St. Rosario and this painting with the practices of Tiberius mentioned by Seneca the Younger.[75] The survival status and location of Caravaggio's painting is unknown. No such painting appears in his or his school's catalogues.[76]
-
-Baglione.jpg
 
 Aside from the paintings, evidence also comes from the libel trial brought against Caravaggio by Giovanni Baglione in 1603. Baglione accused Caravaggio and his friends of writing and distributing scurrilous doggerel attacking him; the pamphlets, according to Baglione's friend and witness Mao Salini, had been distributed by a certain Giovanni Battista, a _bardassa,_ or boy prostitute, shared by Caravaggio and his friend Onorio Longhi. Caravaggio denied knowing any young boy of that name, and the allegation was not followed up.[77]
 
@@ -136,7 +134,7 @@ As an artist
 
 The birth of Baroque
 
-The_Taking_of_Christ-Caravaggio_(c.1602).jpg_, 1602, National Gallery of Ireland, Dublin. Caravaggio's application of the chiaroscuro technique shows through on the faces and armour notwithstanding the lack of a visible shaft of light. The figure on the extreme right is a self-portrait.]] Caravaggio_-_Cena_in_Emmaus.jpg_, 1601, oil on canvas, , National Gallery, London. Caravaggio included himself as the figure at the top left.]]
+_, 1602, National Gallery of Ireland, Dublin. Caravaggio's application of the chiaroscuro technique shows through on the faces and armour notwithstanding the lack of a visible shaft of light. The figure on the extreme right is a self-portrait.]] _, 1601, oil on canvas, , National Gallery, London. Caravaggio included himself as the figure at the top left.]]
 
 Caravaggio "put the oscuro (shadows) into chiaroscuro."[82] Chiaroscuro was practiced long before he came on the scene, but it was Caravaggio who made the technique a dominant stylistic element, darkening the shadows and transfixing the subject in a blinding shaft of light. With this came the acute observation of physical and psychological reality that formed the ground both for his immense popularity and for his frequent problems with his religious commissions.
 
@@ -146,7 +144,7 @@ Caravaggio had a noteworthy ability to express in one scene of unsurpassed vivid
 
 The _Caravaggisti_
 
-Martirio_di_San_Pietro_September_2015-1a.jpg'', 1601, Cerasi Chapel, Santa Maria del Popolo, Rome]]
+'', 1601, Cerasi Chapel, Santa Maria del Popolo, Rome]]
 
 The installation of the St. Matthew paintings in the Contarelli Chapel had an immediate impact among the younger artists in Rome, and Caravaggism became the cutting edge for every ambitious young painter. The first Caravaggisti included Orazio Gentileschi and Giovanni Baglione. Baglione's Caravaggio phase was short-lived; Caravaggio later accused him of plagiarism and the two were involved in a long feud. Baglione went on to write the first biography of Caravaggio. In the next generation of Caravaggisti there were Carlo Saraceni, Bartolomeo Manfredi and Orazio Borgianni. Gentileschi, despite being considerably older, was the only one of these artists to live much beyond 1620, and ended up as court painter to Charles I of England. His daughter Artemisia Gentileschi was also close to Caravaggio, and one of the most gifted of the movement. Yet in Rome and in Italy it was not Caravaggio, but the influence of his rival Annibale Carracci, blending elements from the High Renaissance and Lombard realism, which ultimately triumphed.
 
@@ -156,7 +154,7 @@ A group of Catholic artists from Utrecht, the "Utrecht Caravaggisti", travelled 
 
 Death and rebirth of a reputation
 
-Caravaggio_-_La_Deposizione_di_Cristo.jpg'', (1602–1603), Pinacoteca Vaticana, Rome]]
+'', (1602–1603), Pinacoteca Vaticana, Rome]]
 
 Caravaggio's innovations inspired the Baroque, but the Baroque took the drama of his chiaroscuro without the psychological realism. While he directly influenced the style of the artists mentioned above, and, at a distance, the Frenchmen Georges de La Tour and Simon Vouet, and the Spaniard Giuseppe Ribera, within a few decades his works were being ascribed to less scandalous artists, or simply overlooked. The Baroque, to which he contributed so much, had evolved, and fashions had changed, but perhaps more pertinently Caravaggio never established a workshop as the Carracci did, and thus had no school to spread his techniques. Nor did he ever set out his underlying philosophical approach to art, the psychological realism that may only be deduced from his surviving work.
 
@@ -166,7 +164,7 @@ In the 1920s, art critic Roberto Longhi brought Caravaggio's name once more to t
 
 Epitaph
 
-The_Denial_of_Saint_Peter-Caravaggio_(1610).jpg'' (1610), Metropolitan Museum of Art]]
+'' (1610), Metropolitan Museum of Art]]
 
 Caravaggio's epitaph was composed by his friend Marzio Milesi.[90] It reads:
 
@@ -175,7 +173,7 @@ He was commemorated on the front of the Banca d'Italia 100,000 lire banknote in 
 
 Oeuvre
 
-Conversion_on_the_Way_to_Damascus-Caravaggio_(c.1600-1).jpg'', 1601, Cerasi Chapel, Santa Maria del Popolo, Rome]]
+'', 1601, Cerasi Chapel, Santa Maria del Popolo, Rome]]
 
 There is disagreement as to the size of Caravaggio's oeuvre, with counts as low as 40 and as high as 80. In his biography, Caravaggio scholar Alfred Moir writes "The forty-eight colorplates in this book include almost all of the surviving works accepted by every Caravaggio expert as autograph, and even the least demanding would add fewer than a dozen more".[91] One, _The Calling of Saints Peter and Andrew_, was recently authenticated and restored; it had been in storage in Hampton Court, mislabeled as a copy. Richard Francis Burton writes of a "picture of St. Rosario (in the museum of the Grand Duke of Tuscany), showing a circle of thirty men _turpiter ligati_" ("lewdly banded"), which is not known to have survived. The rejected version of _The Inspiration of Saint Matthew_, intended for the Contarelli Chapel in San Luigi dei Francesi in Rome, was destroyed during the bombing of Dresden, though black and white photographs of the work exist. In June 2011 it was announced that a previously unknown Caravaggio painting of Saint Augustine dating to about 1600 had been discovered in a private collection in Britain. Called a "significant discovery", the painting had never been published and is thought to have been commissioned by Vincenzo Giustiniani, a patron of the painter in Rome.[92]
 
@@ -184,7 +182,7 @@ A painting believed by some experts to be Caravaggio's second version of _Judith
 
 Art theft
 
-Caravaggio_005.jpg'', 1600]]
+'', 1600]]
 
 In October 1969, two thieves entered the Oratory of Saint Lawrence in Palermo, Sicily and stole Caravaggio's _Nativity with St. Francis and St. Lawrence_ from its frame.[96] Experts estimated its value at $20 million.[97][98]
 

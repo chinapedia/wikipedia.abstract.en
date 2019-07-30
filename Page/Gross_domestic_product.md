@@ -1,4 +1,4 @@
-Countries_by_GDP_(Nominal)_in_2014.svg'', 2014[1]]] _'Gross domestic product (GDP_') is a monetary measure of the market value of all the final goods and services produced in a specific time period, often annually.[2][3] GDP (nominal) per capita does not, however, reflect differences in the cost of living and the inflation rates of the countries; therefore using a basis of GDP per capita at purchasing power parity (PPP) is arguably more useful when comparing differences in living standards between nations.[4]
+'', 2014[1]]] _'Gross domestic product (GDP_') is a monetary measure of the market value of all the final goods and services produced in a specific time period, often annually.[2][3] GDP (nominal) per capita does not, however, reflect differences in the cost of living and the inflation rates of the countries; therefore using a basis of GDP per capita at purchasing power parity (PPP) is arguably more useful when comparing differences in living standards between nations.[4]
 
 
 Definition
@@ -16,8 +16,6 @@ The history of the concept of GDP should be distinguished from the history of ch
 
 
 Determining gross domestic product (GDP)
-
-How_is_GDP_calculated?.png
 
 GDP can be determined in three ways, all of which should, in principle, give the same result. They are the production (or output or value added) approach, the income approach, or the speculated expenditure approach.
 
@@ -92,8 +90,6 @@ Market goods which are produced are purchased by someone. In the case where a go
 
 Components of GDP by expenditure
 
-GDP_Categories_-_United_States.png
-
 GDP (Y) is the sum of CONSUMPTION (C), INVESTMENT (I), GOVERNMENT SPENDING (G) and NET EXPORTS (X – M).
 
     Y = C + I + G + (X − M)
@@ -144,7 +140,7 @@ National measurement
 |  |  |
 +--+--+
 
-]] U.S._GDP_Income_Basis.png Within each country GDP is normally measured by a national government statistical agency, as private sector organizations normally do not have access to the information required (especially information on expenditure and production by governments).
+]] Within each country GDP is normally measured by a national government statistical agency, as private sector organizations normally do not have access to the information required (especially information on expenditure and production by governments).
 
 
 Nominal GDP and adjustments to GDP

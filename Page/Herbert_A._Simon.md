@@ -28,8 +28,6 @@ Seeking to replace the highly simplified classical approach to economic modeling
 
 Decision-making
 
-Simons_3_stages_in_Decision_Making.gif
-
 _Administrative Behavior_,[25] first published in 1947, and updated across the years was based on Simon's doctoral dissertation.[26] It served as the foundation for his life's work. The centerpiece of this book is the behavioral and cognitive processes of humans making rational choices, that is, decisions. By his definition, an operational administrative decision should be correct and efficient, and it must be practical to implement with a set of coordinated means.[27]
 
 Simon recognized that a theory of administration is largely a theory of human decision making, and as such must be based on both economics and on psychology. He states:

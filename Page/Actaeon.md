@@ -5,7 +5,7 @@ He fell to the fatal wrath of Artemis,[3] but the surviving details of his trans
 
 The plot
 
-Actaeon_Caserta.jpg|left]] Among others, John Heath has observed, "The unalterable kernel of the tale was a hunter's transformation into a deer and his death in the jaws of his hunting dogs. But authors were free to suggest different motives for his death."[5] In the version that was offered by the Hellenistic poet Callimachus,[6] which has become the standard setting, Artemis was bathing in the woods[7] when the hunter Actaeon stumbled across her, thus seeing her naked. He stopped and stared, amazed at her ravishing beauty. Once seen, Artemis got revenge on Actaeon: she forbade him speech — if he tried to speak, he would be changed into a stag — for the unlucky profanation of her virginity's mystery. Upon hearing the call of his hunting party, he cried out to them and immediately transformed. At this he fled deep into the woods, and doing so he came upon a pond and, seeing his reflection, groaned. His own hounds then turned upon him and pursued him, not recognizing him. In an endeavour to save himself, he raised his eyes (and would have raised his arms, had he had them) toward Mount Olympus. The gods did not heed his plea, and he was torn to pieces. An element of the earlier myth made Actaeon the familiar hunting companion of Artemis, no stranger. In an embroidered extension of the myth, the hounds were so upset with their master's death, that Chiron made a statue so lifelike that the hounds thought it was Actaeon.[8]
+|left]] Among others, John Heath has observed, "The unalterable kernel of the tale was a hunter's transformation into a deer and his death in the jaws of his hunting dogs. But authors were free to suggest different motives for his death."[5] In the version that was offered by the Hellenistic poet Callimachus,[6] which has become the standard setting, Artemis was bathing in the woods[7] when the hunter Actaeon stumbled across her, thus seeing her naked. He stopped and stared, amazed at her ravishing beauty. Once seen, Artemis got revenge on Actaeon: she forbade him speech — if he tried to speak, he would be changed into a stag — for the unlucky profanation of her virginity's mystery. Upon hearing the call of his hunting party, he cried out to them and immediately transformed. At this he fled deep into the woods, and doing so he came upon a pond and, seeing his reflection, groaned. His own hounds then turned upon him and pursued him, not recognizing him. In an endeavour to save himself, he raised his eyes (and would have raised his arms, had he had them) toward Mount Olympus. The gods did not heed his plea, and he was torn to pieces. An element of the earlier myth made Actaeon the familiar hunting companion of Artemis, no stranger. In an embroidered extension of the myth, the hounds were so upset with their master's death, that Chiron made a statue so lifelike that the hounds thought it was Actaeon.[8]
 
 There are various other versions of his transgression: The Hesiodic _Catalogue of Women_ and pseudo-Apollodoran _Bibliotheke_ state that his offense was that he was a rival of Zeus for Semele, his mother's sister,[9] whereas in Euripides' _Bacchae_ he has boasted that he is a better hunter than Artemis:[10]
 
@@ -16,14 +16,12 @@ There are various other versions of his transgression: The Hesiodic _Catalogue o
 |      |     than Artemis he had boasted to be, in the meadows. |
 +------+--------------------------------------------------------+
 
-François_Clouet_-_The_Bath_of_Diana_-_WGA5069.jpg's _Bath of Diana_ (1558-59) Actaeon's passing on horseback at left and mauling as a stag at right is incidental to the three female nudes.]]Further materials, including fragments that belong with the Hesiodic _Catalogue of Women_ and at least four Attic tragedies, including a _Toxotides_ of Aeschylus, have been lost.[11] Diodorus Siculus (4.81.4), in a variant of Actaeon's _hubris_ that has been largely ignored, has it that Actaeon wanted to marry Artemis. Other authors say the hounds were Artemis' own; some lost elaborations of the myth seem to have given them all names and narrated their wanderings after his loss.
+'s _Bath of Diana_ (1558-59) Actaeon's passing on horseback at left and mauling as a stag at right is incidental to the three female nudes.]]Further materials, including fragments that belong with the Hesiodic _Catalogue of Women_ and at least four Attic tragedies, including a _Toxotides_ of Aeschylus, have been lost.[11] Diodorus Siculus (4.81.4), in a variant of Actaeon's _hubris_ that has been largely ignored, has it that Actaeon wanted to marry Artemis. Other authors say the hounds were Artemis' own; some lost elaborations of the myth seem to have given them all names and narrated their wanderings after his loss.
 
 According to the Latin version of the story told by the Roman Ovid[12] having accidentally seen Diana (Artemis) on Mount Cithaeron while she was bathing, he was changed by her into a stag, and pursued and killed by his fifty hounds. This version also appears in Callimachus' Fifth Hymn, as a mythical parallel to the blinding of Tiresias after he sees Athena bathing. The literary testimony of Actaeon's myth is largely lost, but Lamar Ronald Lacy,[13] deconstructing the myth elements in what survives and supplementing it by iconographic evidence in late vase-painting, made a plausible reconstruction of an ancient Actaeon myth that Greek poets may have inherited and subjected to expansion and dismemberment. His reconstruction opposes a too-pat consensus that has an archaic Actaeon aspiring to Semele,[14] a classical Actaeon boasting of his hunting prowess and a Hellenistic Actaeon glimpsing Artemis' bath.[15] Lacy identifies the site of Actaeon's transgression as a spring sacred to Artemis at Plataea where Actaeon was a '' hero archegetes'' ("hero-founder")[16] The righteous hunter, the companion of Artemis, seeing her bathing naked in the spring, was moved to try to make himself her consort, as Diodorus Siculus noted, and was punished, in part for transgressing the hunter's "ritually enforced deference to Artemis" (Lacy 1990:42).
 
 
 Names of dogs
-
-S03_06_01_021_image_2606.jpg
 
   Dogs                     Source           Bitches       Source
   ------------------------ ---------------- ------------- ----------------
@@ -102,7 +100,7 @@ Notes:
 
 The "bed of Actaeon"
 
-Actaeon.jpg'' by Titian]]In the second century AD, the traveller Pausanias was shown a spring on the road in Attica leading to Plataea from Eleutherae, just beyond Megara "and a little farther on a rock. It is called the bed of Actaeon, for it is said that he slept thereon when weary with hunting and that into this spring he looked while Artemis was bathing in it."[23]
+'' by Titian]]In the second century AD, the traveller Pausanias was shown a spring on the road in Attica leading to Plataea from Eleutherae, just beyond Megara "and a little farther on a rock. It is called the bed of Actaeon, for it is said that he slept thereon when weary with hunting and that into this spring he looked while Artemis was bathing in it."[23]
 
 
 Parallels in Akkadian and Ugarit poems
@@ -131,7 +129,7 @@ The myth is seen by Jungian psychologist Wolfgang Giegerich as a symbol of spiri
 
 In art
 
-Diana_and_Actaeon_Statutes_(1925)_by_Paul_Manship_03.JPG|left]] Vasiliy_Ryabchenko._"The_Death_of_Actaeon",_200_х_300_cm,_oil_on_canvas,_1988.jpg. "The Death of Actaeon", 200 х 300 cm, oil on canvas, 1988]] The two main scenes are Actaeon surprising Artemis/Diana, and his death. In classical art Actaeon is normally shown as fully human, even as his hounds are killing him (sometimes he has small horns), but in Renaissance art he is often given a deer's head with antlers even in the scene with Diana, and by the time he is killed he has at the least this head, and has often completely transformed into the shape of a deer.
+|left]] . "The Death of Actaeon", 200 х 300 cm, oil on canvas, 1988]] The two main scenes are Actaeon surprising Artemis/Diana, and his death. In classical art Actaeon is normally shown as fully human, even as his hounds are killing him (sometimes he has small horns), but in Renaissance art he is often given a deer's head with antlers even in the scene with Diana, and by the time he is killed he has at the least this head, and has often completely transformed into the shape of a deer.
 
 -   Aeschylus and other tragic poets made use of the story, which was a favourite subject in ancient works of art.
 

@@ -1,11 +1,11 @@
 The ISLE OF MAN had become separated from Great Britain and Ireland by 6500 BC. It appears that colonisation took place by sea sometime during the Mesolithic era (about 6500 BC).[1] The island has been visited by various raiders and trading peoples over the years. After being settled by people from Ireland in the first millennium, the Isle of Man was converted to Christianity and then suffered raids by Vikings from Norway. After becoming subject to Norwegian suzerainty as part of the Kingdom of Mann and the Isles, the Isle of Man later became a possession of the Scottish and then the English crowns. In 1707 Durning the merging of the crown's of England and Scotland through James VI and I
 
-Since 1866, the Isle of Man has been a Crown Dependency and has democratic self-government. Old_House_of_Keys.jpg, Castletown]]
+Since 1866, the Isle of Man has been a Crown Dependency and has democratic self-government. , Castletown]]
 
 
 Prehistory
 
-Irish.Sea.at.Man.cross.section.jpg CIIC_504.gif stone from the Isle of Man showing the _droim_ in centre. Text reads BIVAIDONAS MAQI MUCOI CUNAVA[LI]; in English: Of Bivaidonas, son of the tribe Cunava[li].]]
+stone from the Isle of Man showing the _droim_ in centre. Text reads BIVAIDONAS MAQI MUCOI CUNAVA[LI]; in English: Of Bivaidonas, son of the tribe Cunava[li].]]
 
 Mesolithic
 
@@ -40,7 +40,7 @@ Even if the supposed conquest of the Menavian islands – Mann and Anglesey – 
 
 Viking Age and Norse kingdom
 
-The period of Scandinavian domination is divided into two main epochs – before and after the conquest of Mann by Godred Crovan in 1079. Warfare and unsettled rule characterise the earlier epoch; the later saw comparatively more peace. Kingdom_of_Mann_and_the_Isles-en.svg about the year 1100. Sodor and Mann in red.]] Between about AD 800 and 815 the Vikings came to Mann chiefly for plunder; between about 850 and 990, when they settled there, the island fell under the rule of the Scandinavian Kings of Dublin; and between 990 and 1079, it became subject to the powerful Earls of Orkney.
+The period of Scandinavian domination is divided into two main epochs – before and after the conquest of Mann by Godred Crovan in 1079. Warfare and unsettled rule characterise the earlier epoch; the later saw comparatively more peace. about the year 1100. Sodor and Mann in red.]] Between about AD 800 and 815 the Vikings came to Mann chiefly for plunder; between about 850 and 990, when they settled there, the island fell under the rule of the Scandinavian Kings of Dublin; and between 990 and 1079, it became subject to the powerful Earls of Orkney.
 
 There was a mint producing coins on Mann between c. 1025 and c. 1065. These Manx coins were minted from an imported type 2 Hiberno-Norse penny die from Dublin. Hiberno-Norse coins were first minted under Sihtric, King of Dublin. This illustrates that Mann may have been under the thumb of Dublin at this time.
 
@@ -55,8 +55,6 @@ In the 1130s the Catholic Church sent a small mission to establish the first bis
 During the whole of the Scandinavian period, the Isles remained nominally under the suzerainty of the Kings of Norway, but the Norwegians only occasionally asserted it with any vigour. The first such king to assert control over the region was likely Magnus Barelegs, at the turn of the 12th century. It was not until Hakon Hakonarson's 1263 expedition that another king returned to the Isles.
 
 Decline of Norse rule
-
-NW_Britain_11th_cent.jpg
 
 From the middle of the 12th century until 1217 the suzerainty had remained of a very shadowy character; Norway had become a prey to civil dissensions. But after that date it became a reality, and Norway consequently came into collision with the growing power of the kingdom of Scotland.
 
@@ -105,7 +103,7 @@ The agrarian question subsided only in 1704, when James Stanley, 10th Earl of De
 
 Revestment
 
-James died in 1736, and the suzerainty of the isle passed to James Murray, 2nd Duke of Atholl, his first cousin and heir-male. In 1764 he was succeeded by his only surviving child Charlotte, Baroness Strange, and her husband, John Murray, who (in right of his wife) became Lord of Mann. In about 1720 the contraband trade had greatly increased. In 1726 Parliament had checked it somewhat for a time, but during the last ten years of the Atholl regime (1756–1765) it assumed such proportions that, in the interests of the Imperial revenue, it became necessary to suppress it. With a view to so doing, Parliament passed the Isle of Man Purchase Act 1765 (commonly called the _Revestment Act_ by the Manx), under which it purchased the rights of the Atholls as Lords of Mann, including the customs revenues of the island, for the sum of £70,000 sterling, and granted an annuity to the Duke and Duchess. The Atholls still retained their manorial rights, the patronage of the bishopric, and certain other perquisites, until they sold them for the sum of £417,144 in 1828. Iom_mnh_1954_7451_large.jpg between the English and French squadrons, enacted off the Manx coast in 1760]]
+James died in 1736, and the suzerainty of the isle passed to James Murray, 2nd Duke of Atholl, his first cousin and heir-male. In 1764 he was succeeded by his only surviving child Charlotte, Baroness Strange, and her husband, John Murray, who (in right of his wife) became Lord of Mann. In about 1720 the contraband trade had greatly increased. In 1726 Parliament had checked it somewhat for a time, but during the last ten years of the Atholl regime (1756–1765) it assumed such proportions that, in the interests of the Imperial revenue, it became necessary to suppress it. With a view to so doing, Parliament passed the Isle of Man Purchase Act 1765 (commonly called the _Revestment Act_ by the Manx), under which it purchased the rights of the Atholls as Lords of Mann, including the customs revenues of the island, for the sum of £70,000 sterling, and granted an annuity to the Duke and Duchess. The Atholls still retained their manorial rights, the patronage of the bishopric, and certain other perquisites, until they sold them for the sum of £417,144 in 1828. between the English and French squadrons, enacted off the Manx coast in 1760]]
 
 Up to the time of the revestment, Tynwald had passed laws concerning the government of the island in all respects and had control over its finances, subject to the approval of the Lord of Mann. After the revestment, or rather after the passage of the Smuggling Act 1765 (commonly called the Mischief Act by the Manx), the Parliament at Westminster legislated with respect to customs, harbours and merchant shipping, and, in measures of a general character, it occasionally inserted clauses permitting the enforcement in the island of penalties in contravention of the Acts of which they formed part. It also assumed the control of the insular customs duties. Such changes, rather than the transference of the full suzerainty to the King of Great Britain and Ireland, modified the (unwritten) constitution of the Isle of Man. Its ancient laws and tenures remained untouched, but in many ways the revestment affected it adversely. The hereditary Lords of Mann had seldom, if ever, functioned as model rulers, but most of them had taken some personal share in its government, and had interested themselves in the well-being of the inhabitants. But now the whole direction of its affairs became the work of officials who regarded the island as a pestilent nest of smugglers, from which it seemed their duty to extract as much revenue as possible.
 

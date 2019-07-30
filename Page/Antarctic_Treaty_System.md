@@ -1,6 +1,6 @@
 border | image_width = 180px | caption = Flag of the Antarctic Treaty | type = Condominium | date_drafted = | date_signed = December 1, 1959[1] | location_signed = Washington, D.C., United States | date_sealed = | date_effective = June 23, 1961 | condition_effective = Ratification of all 12 signatories | date_expiration = | signatories = 12[2] | parties = 54[3] | depositor = Federal government of the United States[4] | languages = English, French, Russian, and Spanish | wikisource = Antarctic Treaty }}
 
-Antarctica_6400px_from_Blue_Marble.jpg.]]
+.]]
 
 The ANTARCTIC TREATY and related agreements, collectively known as the ANTARCTIC TREATY SYSTEM (ATS), regulate international relations with respect to Antarctica, Earth's only continent without a native human population. For the purposes of the treaty system, Antarctica is defined as all of the land and ice shelves south of 60°S latitude. The treaty entered into force in 1961 and currently has 54 parties.[5] The treaty sets aside Antarctica as a scientific preserve, establishes freedom of scientific investigation, and bans military activity on the continent. The treaty was the first arms control agreement established during the Cold War. Since September 2004, the Antarctic Treaty Secretariat headquarters has been located in Buenos Aires, Argentina.[6]
 
@@ -118,7 +118,7 @@ The main objective of the ATS is to ensure in the interests of all humankind tha
 
 Other agreements
 
-Antarctica,_pollution,_environment,_Russia,_Bellingshausen_1.JPG base on King George Island in 1992 is no longer permitted by the Protocol on Environmental Protection]]
+base on King George Island in 1992 is no longer permitted by the Protocol on Environmental Protection]]
 
 Other agreements — some 200 recommendations adopted at treaty consultative meetings and ratified by governments — include:
 
@@ -143,7 +143,7 @@ The Antarctic Treaty System's yearly _Antarctic Treaty Consultative Meetings (AT
 
 Parties
 
-Antarctica.CIA.svg As of 2019, there are 54 states party to the treaty,[15] 29 of which, including all 12 original signatories to the treaty, have consultative (voting) status.[16] Consultative members include the seven nations that claim portions of Antarctica as national territory. The 46 non-claimant nations either do not recognize the claims of others, or have not stated their positions. 40 parties to the Antarctic Treay have also ratified the "Protocol on Environmental Protection to the Antarctic Treaty".[17]
+As of 2019, there are 54 states party to the treaty,[15] 29 of which, including all 12 original signatories to the treaty, have consultative (voting) status.[16] Consultative members include the seven nations that claim portions of Antarctica as national territory. The 46 non-claimant nations either do not recognize the claims of others, or have not stated their positions. 40 parties to the Antarctic Treay have also ratified the "Protocol on Environmental Protection to the Antarctic Treaty".[17]
 
 +--------------------------+-----------+---------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Country[18][19][20][21]  | Signature | Ratification/ | Consultative   | Notes                                                                                                                                                       |
@@ -282,7 +282,7 @@ Governments that are party to the Antarctic Treaty and its Protocol on Environme
 
 Australia
 
-Cover_AAT_1959.jpg Since the designation of the Australian Antarctic Territory pre-dated the signing of the Antarctic Treaty, Australian laws that relate to Antarctica date from more than two decades before the Antarctic Treaty era. In terms of criminal law, the laws that apply to the Jervis Bay Territory (which follows the laws of the Australian Capital Territory) apply to the Australian Antarctic Territory. Key Australian legislation applying Antarctic Treaty System decisions include the _Antarctic Treaty Act 1960_, the _Antarctic Treaty (Environment Protection) Act 1980_ and the _Antarctic Marine Living Resources Conservation Act 1981_.[36]
+Since the designation of the Australian Antarctic Territory pre-dated the signing of the Antarctic Treaty, Australian laws that relate to Antarctica date from more than two decades before the Antarctic Treaty era. In terms of criminal law, the laws that apply to the Jervis Bay Territory (which follows the laws of the Australian Capital Territory) apply to the Australian Antarctic Territory. Key Australian legislation applying Antarctic Treaty System decisions include the _Antarctic Treaty Act 1960_, the _Antarctic Treaty (Environment Protection) Act 1980_ and the _Antarctic Marine Living Resources Conservation Act 1981_.[36]
 
 United States
 

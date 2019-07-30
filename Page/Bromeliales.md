@@ -1,4 +1,4 @@
-Bromelia_humillis_20080901.jpg'']]
+'']]
 
 The BROMELIALES is the botanical name of an order of flowering plants. Such an order has been recognized by a few systems of plant taxonomy, with a various placement. It appears that it always has had the same circumscription: consisting only of the family Bromeliaceae, the bromeliad or pineapple family. The order is not recognized in the APG II system, of 2003, which places the plants involved in the order Poales. Some examples are:
 

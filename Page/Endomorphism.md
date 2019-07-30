@@ -1,6 +1,6 @@
 Endomorphic}}
 
-Orthogonal_projection.svg onto a line, , is a linear operator on the plane. This is an example of an endomorphism that is not an automorphism.]]
+onto a line, , is a linear operator on the plane. This is an example of an endomorphism that is not an automorphism.]]
 
 In mathematics, an ENDOMORPHISM is a morphism from a mathematical object to itself. An endomorphism that is also an isomorphism is an automorphism. For example, an endomorphism of a vector space is a linear map , and an endomorphism of a group is a group homomorphism . In general, we can talk about endomorphisms in any category. In the category of sets, endomorphisms are functions from a set _S_ to itself.
 

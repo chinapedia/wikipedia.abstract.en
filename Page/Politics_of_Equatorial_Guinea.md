@@ -50,7 +50,7 @@ As for the legal profession, the Equatorial Guinea Bar Association (Colegio de A
 
 Administrative divisions
 
-EquatorialGuineaConsHouston.JPG in Houston, a diplomatic complex in an office building in Houston, Texas, United States]] Equatorial Guinea is divided in seven provinces (_provincias_); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Kie-Ntem, Litoral, Wele-Nzas.
+in Houston, a diplomatic complex in an office building in Houston, Texas, United States]] Equatorial Guinea is divided in seven provinces (_provincias_); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Kie-Ntem, Litoral, Wele-Nzas.
 
 The President appoints the governors of the seven provinces. Each province is divided administratively into districts and municipalities. The internal administrative system falls under the Ministry of Territorial Administration; several other ministries are represented at the provincial and district levels.
 

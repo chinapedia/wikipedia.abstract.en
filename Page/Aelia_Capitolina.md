@@ -10,7 +10,7 @@ The Latin name _Aelia_ is the source of the much later Arabic term Iliyā' (إل
 
 History
 
-| image2 = Dictionary of Roman Coins.1889 P15S0 illus022.gif | width2 = {{#expr: (100 * 155 / 151) round 0}}}} Madaba_map.jpg depiction of 6th-century Jerusalem has the _Cardo Maximus_, the town’s main street, beginning at the northern gate (today's Damascus Gate), and traversing the city in a straight line south to "Nea Church".]] Jerusalem, once heavily rebuilt by Herod, was still in ruins following the decisive siege of the city, as part of the First Jewish–Roman War in 70 AD. Josephus—a contemporary historian and proponent of the Judean cause who was born in Jerusalem and fought the Romans in that war—reports that "Jerusalem ... was so thoroughly razed to the ground by those that demolished it to its foundations, that nothing was left that could ever persuade visitors that it had once been a place of habitation."[5] The Talmud (Makkot) tells of Rabbi Akiva and several other sages visiting the ruins of Jerusalem. His colleagues were aggrieved at seeing a fox scuttling out of what had been the Temple's Holy of Holies as an indication of the desolation, while Akiva laughed, telling them through what many believe to be divine inspiration that one day the Temple will be rebuilt.
+| image2 = Dictionary of Roman Coins.1889 P15S0 illus022.gif | width2 = {{#expr: (100 * 155 / 151) round 0}}}} depiction of 6th-century Jerusalem has the _Cardo Maximus_, the town’s main street, beginning at the northern gate (today's Damascus Gate), and traversing the city in a straight line south to "Nea Church".]] Jerusalem, once heavily rebuilt by Herod, was still in ruins following the decisive siege of the city, as part of the First Jewish–Roman War in 70 AD. Josephus—a contemporary historian and proponent of the Judean cause who was born in Jerusalem and fought the Romans in that war—reports that "Jerusalem ... was so thoroughly razed to the ground by those that demolished it to its foundations, that nothing was left that could ever persuade visitors that it had once been a place of habitation."[5] The Talmud (Makkot) tells of Rabbi Akiva and several other sages visiting the ruins of Jerusalem. His colleagues were aggrieved at seeing a fox scuttling out of what had been the Temple's Holy of Holies as an indication of the desolation, while Akiva laughed, telling them through what many believe to be divine inspiration that one day the Temple will be rebuilt.
 
 According to Eusebius, the Jerusalem church was scattered twice, in 70 and 135, with the difference that from 70–130 the bishops of Jerusalem have evidently Jewish names, whereas after 135 the bishops of Aelia Capitolina appear to be Greeks.[6] Eusebius' evidence for continuation of a church at Aelia Capitolina is confirmed by the Bordeaux Pilgrim.[7]
 
@@ -29,8 +29,6 @@ Byzantine Jerusalem was conquered by the Arab armies of Umar ibn al-Khattab in 6
 
 Plan of the city
 
-Roman_Jerusalem.PNG
-
 The city was without walls, protected by a light garrison of the Tenth Legion, during the Late Roman Period. The detachment at Jerusalem, which apparently encamped all over the city's western hill, was responsible for preventing Jews from returning to the city. Roman enforcement of this prohibition continued through the 4th century.
 
 The urban plan of Aelia Capitolina was that of a typical Roman town wherein main thoroughfares crisscrossed the urban grid lengthwise and widthwise.[26] The urban grid was based on the usual central north-south road (_cardo_) and central east-west route (_decumanus_). However, as the main cardo ran up the western hill, and the Temple Mount blocked the eastward route of the main decumanus, a second pair of main roads was added; the secondary cardo ran down the Tyropoeon Valley, and the secondary decumanus ran just to the north of the Temple Mount. The main Hadrianic cardo terminated not far beyond its junction with the decumanus, where it reached the Roman garrison's encampment, but in the Byzantine era it was extended over the former camp to reach the southern walls of the city.
@@ -46,8 +44,6 @@ _Ecce homo_ arch
 Near the Struthion Pool, Hadrian built a triple-arched gateway as an entrance to the eastern forum of Aelia Capitolina.[30] Traditionally, this was thought to be the gate of Herod's Antonia Fortress, which itself was alleged to be the location of Jesus' trial and Pontius Pilate's _Ecce homo_ speech as described in .[31] This was due in part to the 1864 discovery of a game etched on a flagstone of the pool. According to the nuns of the convent, the game was played by Roman soldiers and ended in the execution of a 'monk king'.[32] It is possible that following its destruction, the Antonia Fortress's pavement tiles were brought to the cistern of Hadrian's plaza.[33]
 
 When later constructions narrowed the _Via Dolorosa_, the two arches on either side of the central arch became incorporated into a succession of more modern buildings. The Basilica of Ecce Homo now preserves the northern arch.[34][35] The southern arch was incorporated into a monastery for Uzbek dervishes belonging to the Order of the Golden Chain in the 16th century,[36] but these were demolished in the 19th century in order to found a mosque.[37]
-
-Jerusalem_Mural_depicting_the_Cardo_in_Byzantine_era_(6035801113).jpg
 
 
 See also

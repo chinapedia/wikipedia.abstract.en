@@ -3,7 +3,7 @@ CRYSTAL CATHERINE EASTMAN (June 25, 1881 – July 8, 1928)[1] was an American la
 
 Early life and education
 
-Crystal_Catherine_Eastman_in_1915.jpg Crystal Eastman was born in Marlborough, Massachusetts, on June 25, 1881, the third of four children. Her oldest brother, Morgan, was born in 1878 and died in 1884 at age seven. The second brother, Anstice Ford Eastman, who became a general surgeon, was born in 1878 and died in 1937. Max was the youngest, born in 1882.
+Crystal Eastman was born in Marlborough, Massachusetts, on June 25, 1881, the third of four children. Her oldest brother, Morgan, was born in 1878 and died in 1884 at age seven. The second brother, Anstice Ford Eastman, who became a general surgeon, was born in 1878 and died in 1937. Max was the youngest, born in 1882.
 
 In 1883 their parents, Samuel Elijah Eastman and Annis Bertha Ford, moved the family to Canandaigua, New York. In 1889, their mother became one of the first women ordained as a Protestant minister in America when she became a minister of the Congregational Church.[2] Her father was also a Congregational minister, and the two served as pastors at the church of Thomas K. Beecher near Elmira. Her parents were friendly with writer Mark Twain. From this association young Crystal also became acquainted with him.
 
@@ -32,7 +32,7 @@ When she returned east in 1913, she joined Alice Paul, Lucy Burns, and others in
 
 Peace efforts
 
-Eastman-Crystal.jpg.]] During World War I, Eastman was one of the founders of the Woman's Peace Party, soon joined by Jane Addams, Lillian D. Wald, and others.[12] She served as president of the New York branch. Renamed the Women's International League for Peace and Freedom in 1921, it remains the oldest extant women's peace organization. Eastman also became executive director of the American Union Against Militarism, which lobbied against America's entrance into the European war and more successfully against war with Mexico in 1916, sought to remove profiteering from arms manufacturing, and campaigned against conscription, imperial adventures and military intervention.[13]
+.]] During World War I, Eastman was one of the founders of the Woman's Peace Party, soon joined by Jane Addams, Lillian D. Wald, and others.[12] She served as president of the New York branch. Renamed the Women's International League for Peace and Freedom in 1921, it remains the oldest extant women's peace organization. Eastman also became executive director of the American Union Against Militarism, which lobbied against America's entrance into the European war and more successfully against war with Mexico in 1916, sought to remove profiteering from arms manufacturing, and campaigned against conscription, imperial adventures and military intervention.[13]
 
 When the United States entered World War I, Eastman organized with Roger Baldwin and Norman Thomas the National Civil Liberties Bureau to protect conscientious objectors, or in her words: "To maintain something over here that will be worth coming back to when the weary war is over." The NCLB grew into the American Civil Liberties Union, with Baldwin at the head and Eastman functioning as attorney-in-charge. Eastman is credited as a founding member of the ACLU, but her role as founder of the NCLB may have been largely ignored by posterity due to her personal differences with Baldwin.[14]
 

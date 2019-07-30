@@ -9,9 +9,9 @@ Evolutionary biologists have continued to study various aspects of evolution by 
 
 History of evolutionary thought
 
-Lucretius_Rome.jpg]] Alfred-Russel-Wallace-c1895.jpg]] Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg]]
+]] ]] ]]
 
-Charles_Darwin_aged_51.jpg penned his first sketch of _On the Origin of Species_.[22]]]
+penned his first sketch of _On the Origin of Species_.[22]]]
 
 Classical times
 
@@ -50,7 +50,7 @@ Since then, the modern synthesis has been further extended to explain biological
 
 Heredity
 
-ADN_static.png structure. Bases are in the centre, surrounded by phosphate–sugar chains in a double helix.]] Evolution in organisms occurs through changes in heritable traits—the inherited characteristics of an organism. In humans, for example, eye colour is an inherited characteristic and an individual might inherit the "brown-eye trait" from one of their parents.[65] Inherited traits are controlled by genes and the complete set of genes within an organism's genome (genetic material) is called its genotype.[66]
+structure. Bases are in the centre, surrounded by phosphate–sugar chains in a double helix.]] Evolution in organisms occurs through changes in heritable traits—the inherited characteristics of an organism. In humans, for example, eye colour is an inherited characteristic and an individual might inherit the "brown-eye trait" from one of their parents.[65] Inherited traits are controlled by genes and the complete set of genes within an organism's genome (genetic material) is called its genotype.[66]
 
 The complete set of observable traits that make up the structure and behaviour of an organism is called its phenotype. These traits come from the interaction of its genotype with the environment.[67] As a result, many aspects of an organism's phenotype are not inherited. For example, suntanned skin comes from the interaction between a person's genotype and sunlight; thus, suntans are not passed on to people's children. However, some people tan more easily than others, due to differences in genotypic variation; a striking example are people with the inherited trait of albinism, who do not tan at all and are very sensitive to sunburn.[68]
 
@@ -71,7 +71,7 @@ Variation comes from mutations in the genome, reshuffling of genes through sexua
 
 Mutation
 
-Gene-duplication.svg]] Mutations are changes in the DNA sequence of a cell's genome. When mutations occur, they may alter the product of a gene, or prevent the gene from functioning, or have no effect. Based on studies in the fly _Drosophila melanogaster_, it has been suggested that if a mutation changes a protein produced by a gene, this will probably be harmful, with about 70% of these mutations having damaging effects, and the remainder being either neutral or weakly beneficial.[84]
+]] Mutations are changes in the DNA sequence of a cell's genome. When mutations occur, they may alter the product of a gene, or prevent the gene from functioning, or have no effect. Based on studies in the fly _Drosophila melanogaster_, it has been suggested that if a mutation changes a protein produced by a gene, this will probably be harmful, with about 70% of these mutations having damaging effects, and the remainder being either neutral or weakly beneficial.[84]
 
 Mutations can involve large sections of a chromosome becoming duplicated (usually by genetic recombination), which can introduce extra copies of a gene into a genome.[85] Extra copies of genes are a major source of the raw material needed for new genes to evolve.[86] This is important because most new genes evolve within gene families from pre-existing genes that share common ancestors.[87] For example, the human eye uses four genes to make structures that sense light: three for colour vision and one for night vision; all four are descended from a single ancestral gene.[88]
 
@@ -83,7 +83,7 @@ Sex and recombination
 
 In asexual organisms, genes are inherited together, or _linked_, as they cannot mix with genes of other organisms during reproduction. In contrast, the offspring of sexual organisms contain random mixtures of their parents' chromosomes that are produced through independent assortment. In a related process called homologous recombination, sexual organisms exchange DNA between two matching chromosomes.[97] Recombination and reassortment do not alter allele frequencies, but instead change which alleles are associated with each other, producing offspring with new combinations of alleles.[98] Sex usually increases genetic variation and may increase the rate of evolution.[99][100]
 
-Evolsex-dia1a.pngual population remains the same size each generation, where the _(b)_ Asexual reproduction population doubles in size each generation.]]
+ual population remains the same size each generation, where the _(b)_ Asexual reproduction population doubles in size each generation.]]
 
 The two-fold cost of sex was first described by John Maynard Smith.[101] The first cost is that in sexually dimorphic species only one of the two sexes can bear young. (This cost does not apply to hermaphroditic species, like most plants and many invertebrates.) The second cost is that any individual who reproduces sexually can only pass on 50% of its genes to any individual offspring, with even less passed on as each new generation passes.[102] Yet sexual reproduction is the more common means of reproduction among eukaryotes and multicellular organisms. The Red Queen hypothesis has been used to explain the significance of sexual reproduction as a means to enable continual evolution and adaptation in response to coevolution with other species in an ever-changing environment.[103][104][105][106]
 
@@ -98,7 +98,7 @@ Large-scale gene transfer has also occurred between the ancestors of eukaryotic 
 
 Mechanisms
 
-Mutation_and_selection_diagram.svg followed by natural selection results in a population with darker colouration.]] From a neo-Darwinian perspective, evolution occurs when there are changes in the frequencies of alleles within a population of interbreeding organisms,[115] for example, the allele for black colour in a population of moths becoming more common. Mechanisms that can lead to changes in allele frequencies include natural selection, genetic drift, genetic hitchhiking, mutation and gene flow.
+followed by natural selection results in a population with darker colouration.]] From a neo-Darwinian perspective, evolution occurs when there are changes in the frequencies of alleles within a population of interbreeding organisms,[115] for example, the allele for black colour in a population of moths becoming more common. Mechanisms that can lead to changes in allele frequencies include natural selection, genetic drift, genetic hitchhiking, mutation and gene flow.
 
 Natural selection
 
@@ -114,7 +114,7 @@ The central concept of natural selection is the evolutionary fitness of an organ
 
 If an allele increases fitness more than the other alleles of that gene, then with each generation this allele will become more common within the population. These traits are said to be "selected _for_." Examples of traits that can increase fitness are enhanced survival and increased fecundity. Conversely, the lower fitness caused by having a less beneficial or deleterious allele results in this allele becoming rarer—they are "selected _against_."[124] Importantly, the fitness of an allele is not a fixed characteristic; if the environment changes, previously neutral or harmful traits may become beneficial and previously beneficial traits become harmful.[125] However, even if the direction of selection does reverse in this way, traits that were lost in the past may not re-evolve in an identical form (see Dollo's law).[126][127] However, a re-activation of dormant genes, as long as they have not been eliminated from the genome and were only suppressed perhaps for hundreds of generations, can lead to the re-occurrence of traits thought to be lost like hindlegs in dolphins, teeth in chickens, wings in wingless stick insects, tails and additional nipples in humans etc.[128] "Throwbacks" such as these are known as atavisms.
 
-Genetic_Distribution.svg and the y-axis variable is the number of organisms. Group A is the original population and Group B is the population after selection.
+and the y-axis variable is the number of organisms. Group A is the original population and Group B is the population after selection.
 · Graph 1 shows directional selection, in which a single extreme phenotype is favoured.
 · Graph 2 depicts stabilizing selection, where the intermediate phenotype is favoured over the extreme traits.
 · Graph 3 shows disruptive selection, in which the extreme phenotypes are favoured over the intermediate.]]
@@ -135,7 +135,7 @@ Mutation bias effects are superimposed on other processes. If selection would fa
 
 Genetic drift
 
-Allele-frequency.png is more rapid in the smaller population.]] Genetic drift is the random fluctuations of allele frequencies within a population from one generation to the next.[158] When selective forces are absent or relatively weak, allele frequencies are equally likely to _drift_ upward or downward at each successive generation because the alleles are subject to sampling error.[159] This drift halts when an allele eventually becomes fixed, either by disappearing from the population or replacing the other alleles entirely. Genetic drift may therefore eliminate some alleles from a population due to chance alone. Even in the absence of selective forces, genetic drift can cause two separate populations that began with the same genetic structure to drift apart into two divergent populations with different sets of alleles.[160]
+is more rapid in the smaller population.]] Genetic drift is the random fluctuations of allele frequencies within a population from one generation to the next.[158] When selective forces are absent or relatively weak, allele frequencies are equally likely to _drift_ upward or downward at each successive generation because the alleles are subject to sampling error.[159] This drift halts when an allele eventually becomes fixed, either by disappearing from the population or replacing the other alleles entirely. Genetic drift may therefore eliminate some alleles from a population due to chance alone. Even in the absence of selective forces, genetic drift can cause two separate populations that began with the same genetic structure to drift apart into two divergent populations with different sets of alleles.[160]
 
 The neutral theory of molecular evolution proposed that most evolutionary changes are the result of the fixation of neutral mutations by genetic drift.[161] Hence, in this model, most genetic changes in a population are the result of constant mutation pressure and genetic drift.[162] This form of the neutral theory is now largely abandoned, since it does not seem to fit the genetic variation seen in nature.[163][164] However, a more recent and better-supported version of this model is the nearly neutral theory, where a mutation that would be effectively neutral in a small population is not necessarily neutral in a large population.[165] Other alternative theories propose that genetic drift is dwarfed by other stochastic forces in evolution, such as genetic hitchhiking, also known as genetic draft.[166][167][168]
 
@@ -160,7 +160,7 @@ During the development of the modern synthesis, Sewall Wright developed his shif
 
 Outcomes
 
-Kishony_lab-The_Evolution_of_Bacteria_on_a_Mega-Plate.webm evolution by _E. coli_ growing across a plate with increasing concentrations of trimethoprim.[180]]]
+evolution by _E. coli_ growing across a plate with increasing concentrations of trimethoprim.[180]]]
 
 Evolution influences every aspect of the form and behaviour of organisms. Most prominent are the specific behavioural and physical adaptations that are the outcome of natural selection. These adaptations increase fitness by aiding activities such as finding food, avoiding predators or attracting mates. Organisms can also respond to selection by cooperating with each other, usually by aiding their relatives or engaging in mutually beneficial symbiosis. In the longer term, evolution produces new species through splitting ancestral populations of organisms into new groups that cannot or will not interbreed.
 
@@ -170,7 +170,7 @@ A common misconception is that evolution has goals, long-term plans, or an innat
 
 Adaptation
 
-Homology_vertebrates-en.svg bones in the limbs of tetrapods. The bones of these animals have the same basic structure, but have been adapted for specific uses.]] Adaptation is the process that makes organisms better suited to their habitat.[195][196] Also, the term adaptation may refer to a trait that is important for an organism's survival. For example, the adaptation of horses' teeth to the grinding of grass. By using the term _adaptation_ for the evolutionary process and _adaptive trait_ for the product (the bodily part or function), the two senses of the word may be distinguished. Adaptations are produced by natural selection.[197] The following definitions are due to Theodosius Dobzhansky:
+bones in the limbs of tetrapods. The bones of these animals have the same basic structure, but have been adapted for specific uses.]] Adaptation is the process that makes organisms better suited to their habitat.[195][196] Also, the term adaptation may refer to a trait that is important for an organism's survival. For example, the adaptation of horses' teeth to the grinding of grass. By using the term _adaptation_ for the evolutionary process and _adaptive trait_ for the product (the bodily part or function), the two senses of the word may be distinguished. Adaptations are produced by natural selection.[197] The following definitions are due to Theodosius Dobzhansky:
 
 1.  _Adaptation_ is the evolutionary process whereby an organism becomes better able to live in its habitat or habitats.[198]
 2.  _Adaptedness_ is the state of being adapted: the degree to which an organism is able to live and reproduce in a given set of habitats.[199]
@@ -192,7 +192,7 @@ An area of current investigation in evolutionary developmental biology is the de
 
 Coevolution
 
-Thamnophis_sirtalis_sirtalis_Wooster.jpg (_Thamnophis sirtalis sirtalis_) has evolved resistance to the defensive substance tetrodotoxin in its amphibian prey.]]
+(_Thamnophis sirtalis sirtalis_) has evolved resistance to the defensive substance tetrodotoxin in its amphibian prey.]]
 
 Interactions between organisms can produce both conflict and cooperation. When the interaction is between pairs of species, such as a pathogen and a host, or a predator and its prey, these species can develop matched sets of adaptations. Here, the evolution of one species causes adaptations in a second species. These changes in the second species then, in turn, cause new adaptations in the first species. This cycle of selection and response is called coevolution.[240] An example is the production of tetrodotoxin in the rough-skinned newt and the evolution of tetrodotoxin resistance in its predator, the common garter snake. In this predator-prey pair, an evolutionary arms race has produced high levels of toxin in the newt and correspondingly high levels of toxin resistance in the snake.
 
@@ -210,7 +210,7 @@ Such cooperation within species may have evolved through the process of kin sele
 
 Speciation
 
-Speciation_modes_edit.svg]]
+]]
 
 Speciation is the process where a species diverges into two or more descendant species.[247]
 
@@ -226,7 +226,7 @@ The second mode of speciation is peripatric speciation, which occurs when small 
 
 The third mode is parapatric speciation. This is similar to peripatric speciation in that a small population enters a new habitat, but differs in that there is no physical separation between these two populations. Instead, speciation results from the evolution of mechanisms that reduce gene flow between the two populations.[263] Generally this occurs when there has been a drastic change in the environment within the parental species' habitat. One example is the grass _Anthoxanthum odoratum_, which can undergo parapatric speciation in response to localised metal pollution from mines.[264] Here, plants evolve that have resistance to high levels of metals in the soil. Selection against interbreeding with the metal-sensitive parental population produced a gradual change in the flowering time of the metal-resistant plants, which eventually produced complete reproductive isolation. Selection against hybrids between the two populations may cause reinforcement, which is the evolution of traits that promote mating within a species, as well as character displacement, which is when two species become more distinct in appearance.[265]
 
-Darwin's_finches.jpeg of finches on the Galápagos Islands produced over a dozen new species.]]
+of finches on the Galápagos Islands produced over a dozen new species.]]
 
 Finally, in sympatric speciation species diverge without geographic isolation or changes in habitat. This form is rare since even a small amount of gene flow may remove genetic differences between parts of a population.
 
@@ -238,7 +238,7 @@ Speciation events are important in the theory of punctuated equilibrium, which a
 
 Extinction
 
-Palais_de_la_Decouverte_Tyrannosaurus_rex_p1050042.jpg''. Non-avian dinosaurs died out in the Cretaceous–Paleogene extinction event at the end of the Cretaceous period.]]
+''. Non-avian dinosaurs died out in the Cretaceous–Paleogene extinction event at the end of the Cretaceous period.]]
 
 Extinction is the disappearance of an entire species. Extinction is not an unusual event, as species regularly appear through speciation and disappear through extinction.[275] Nearly all animal and plant species that have lived on Earth are now extinct,[276] and extinction appears to be the ultimate fate of all species.[277] These extinctions have happened continuously throughout the history of life, although the rate of extinction spikes in occasional mass extinction events.[278] The Cretaceous–Paleogene extinction event, during which the non-avian dinosaurs became extinct, is the most well-known, but the earlier Permian–Triassic extinction event was even more severe, with approximately 96% of all marine species driven to extinction.[279] The Holocene extinction event is an ongoing mass extinction associated with humanity's expansion across the globe over the past few thousand years. Present-day extinction rates are 100–1000 times greater than the background rate and up to 30% of current species may be extinct by the mid 21st century.[280] Human activities are now the primary cause of the ongoing extinction event;
 
@@ -299,7 +299,7 @@ In computer science, simulations of evolution using evolutionary algorithms and 
 
 Social and cultural responses
 
-Editorial_cartoon_depicting_Charles_Darwin_as_an_ape_(1871).jpgs of Charles Darwin with an ape or monkey body symbolised evolution.[360]]]
+s of Charles Darwin with an ape or monkey body symbolised evolution.[360]]]
 
 In the 19th century, particularly after the publication of _On the Origin of Species_ in 1859, the idea that life had evolved was an active source of academic debate centred on the philosophical, social and religious implications of evolution. Today, the modern evolutionary synthesis is accepted by a vast majority of scientists.[361] However, evolution remains a contentious concept for some theists.For an overview of the philosophical, religious and cosmological controversies, see:
 

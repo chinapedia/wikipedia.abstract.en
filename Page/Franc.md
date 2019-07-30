@@ -1,15 +1,10 @@
   Franc
-  ------------------------------------
-  1 Swiss franc 1983 obverse
+  -------------------------
   1 Swiss franc 1983
-  1 French franc 1991 coin obverse
   1 French franc 1991
   5 Belgian francs 1994
-  1 Luxembourgish franc 1990 obverse
   1 Luxembourg franc 1990
-  1 Monaco franc 1978 coin obverse
   1 Monegasque franc 1978
-  100_saar_franken.jpg
   100 Saar francs 1956
 
 The FRANC is the name of several currency units. The French franc was the currency of France until the euro was adopted in 1999 (by law, 2002 de facto). The Swiss franc is a major world currency today due to the prominence of Swiss financial institutions. The name is said to derive from the Latin inscription _francorum rex_ (Style of the French sovereign: _King of the Franks_) used on early French coins and until the 18th century, or from the French _franc_, meaning "frank" (and "free" in certain contexts, such as _coup franc_, "free kick" ).
@@ -21,7 +16,7 @@ One franc is typically divided into 100 centimes. The French franc symbol was F 
 
 Origins
 
-Franc_a_cheval_de_Jean_le_Bon_5_decembre_1360_or_3730mg.jpg's return from captivity from 5 December 1360, and featured combative imagery. Gold, 24 karats, 3.73 g. It conveniently coincided with the account value of one livre tournois.]] The franc was originally a French gold coin of 3.87 g minted in 1360 on the occasion of the release of King John II ("the good"), held by the English since his capture at the Battle of Poitiers four years earlier. It was equivalent to one _livre tournois_ (Tours pound).
+'s return from captivity from 5 December 1360, and featured combative imagery. Gold, 24 karats, 3.73 g. It conveniently coincided with the account value of one livre tournois.]] The franc was originally a French gold coin of 3.87 g minted in 1360 on the occasion of the release of King John II ("the good"), held by the English since his capture at the Battle of Poitiers four years earlier. It was equivalent to one _livre tournois_ (Tours pound).
 
 
 French franc
@@ -56,8 +51,6 @@ Like the French franc, the Belgo-Luxemburgish franc ceased to exist on 1 January
 1 Luxembourgish franc was equal to 1 Belgian franc. Belgian francs were legal tender inside Luxembourg, and Luxembourgish francs were legal tender in the whole of Belgium. (In reality, Luxembourgish francs were only accepted as means of payment by shops and businesses in the Belgian province of Luxembourg adjacent to the independent Grand Duchy of Luxembourg, this for historical reasons.)
 
 The equivalent name of the Belgian franc in Dutch, Belgium's other official language, was _Belgische Frank_. As mentioned before, in Luxembourg the franc was called _Frang_ (plural _Frangen_).
-
-Where_the_Franc_is_used.jpg
 
 
 Swiss franc and Liechtenstein franc

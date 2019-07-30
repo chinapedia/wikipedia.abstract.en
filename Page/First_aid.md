@@ -1,4 +1,4 @@
-The universal first aid symbol US_Navy_030322-M-6270B-010_A_U.S._Navy_Corpsman_assigned_to_the_15th_Marine_Expeditionary_Unit_(Special_Operations_Capable)_gives_first_aid_to_an_injured_Iraqi_citizen.jpg corpsman gives first aid to an injured Iraqi citizen.]] FIRST AID is the first and immediate assistance given to any person suffering from either a minor or serious illness or injury,[1] with care provided to preserve life, prevent the condition from worsening, or to promote recovery. It includes initial intervention in a serious condition prior to professional medical help being available, such as performing cardiopulmonary resuscitation (CPR) while waiting for an ambulance, as well as the complete treatment of minor conditions, such as applying a plaster to a cut. First aid is generally performed by someone with basic medical training. Mental health first aid is an extension of the concept of first aid to cover mental health, while psychological first aid is used as early treatment of people at risk for developing PTSD.
+corpsman gives first aid to an injured Iraqi citizen.]] FIRST AID is the first and immediate assistance given to any person suffering from either a minor or serious illness or injury,[1] with care provided to preserve life, prevent the condition from worsening, or to promote recovery. It includes initial intervention in a serious condition prior to professional medical help being available, such as performing cardiopulmonary resuscitation (CPR) while waiting for an ambulance, as well as the complete treatment of minor conditions, such as applying a plaster to a cut. First aid is generally performed by someone with basic medical training. Mental health first aid is an extension of the concept of first aid to cover mental health, while psychological first aid is used as early treatment of people at risk for developing PTSD.
 
 There are many situations which may require first aid, and many countries have legislation, regulation, or guidance which specifies a minimum level of first aid provision in certain circumstances. This can include specific training or equipment to be available in the workplace (such as an automated external defibrillator), the provision of specialist first aid cover at public gatherings, or mandatory first aid training within schools. First aid, however, does not necessarily require any particular equipment or prior knowledge, and can involve improvisation with materials available at the time, often by untrained people.[2]
 
@@ -18,8 +18,6 @@ During the late 18th century, drowning as a cause of death was a major concern a
 Napoleon's surgeon, Baron Dominique-Jean Larrey, is credited with creating an ambulance corps (the ambulance volantes), which included medical assistants, tasked to administer first aid in battle.
 
 In 1859 Jean-Henri Dunant witnessed the aftermath of the Battle of Solferino, and his work led to the formation of the Red Cross, with a key stated aim of "aid to sick and wounded soldiers in the field".[9] The Red Cross and Red Crescent are still the largest provider of first aid worldwide.[10]
-
-Esmarch bandage showing soldiers how to perform first aid|thumb
 
 In 1870, Prussian military surgeon Friedrich von Esmarch introduced formalized first aid to the military, and first coined the term "erste hilfe" (translating to 'first aid'), including training for soldiers in the Franco-Prussian War on care for wounded comrades using pre-learnt bandaging and splinting skills, and making use of the Esmarch bandage which he designed.[11] The bandage was issued as standard to the Prussian combatants, and also included aide-memoire pictures showing common uses.
 
@@ -55,8 +53,6 @@ Another set of goals for keeping a badly hurt person alive is sometimes called "
 
 Key skills
 
-Tongue_blocking_airway.svg
-
 Certain skills are considered essential to the provision of first aid and are taught ubiquitously. Particularly the "ABC"s of first aid, which focus on critical life-saving intervention, must be rendered before treatment of less serious injuries. ABC stands for _Airway_, _Breathing_, and _Circulation_.[16] The same mnemonic is used by emergency health professionals. Attention must first be brought to the airway to ensure it is clear. Obstruction (choking) is a life-threatening emergency. Following evaluation of the airway, a first aid attendant would determine adequacy of breathing and provide rescue breathing if necessary.
 
 Assessment of circulation is now not usually carried out for patients who are not breathing, with first aiders now trained to go straight to chest compressions (and thus providing artificial circulation) but pulse checks may be done on less serious patients.
@@ -82,8 +78,6 @@ The first aider is also likely to be trained in dealing with injuries such as cu
 
 Training
 
-Suicide-prague.jpg
-
 Basic principles, such as knowing the use of adhesive bandage or applying direct pressure on a bleed, are often acquired passively through life experiences. However, to provide effective, life-saving first aid interventions requires instruction and practical training. This is especially true where it relates to potentially fatal illnesses and injuries, such as those that require CPR; these procedures may be invasive, and carry a risk of further injury to the patient and the provider. As with any training, it is more useful if it occurs _before_ an actual emergency, and in many countries, emergency ambulance dispatchers may give basic first aid instructions over the phone while the ambulance is on the way.
 
 Training is generally provided by attending a course, typically leading to certification. Due to regular changes in procedures and protocols, based on updated clinical knowledge, and to maintain skill, attendance at regular refresher courses or re-certification is often necessary. First aid training is often available through community organizations such as the Red Cross and St. John Ambulance, or through commercial providers, who will train people for a fee. This commercial training is most common for training of employees to perform first aid in their workplace. Many community organizations also provide a commercial service, which complements their community programmes.
@@ -94,15 +88,13 @@ There are several types of first aid (and first aider) which require specific ad
 
 -   AQUATIC/MARINE FIRST AID is usually practiced by professionals such as lifeguards, professional mariners or in diver rescue, and covers the specific problems which may be faced after water-based rescue or delayed MedEvac.
 -   BATTLEFIELD FIRST AID takes into account the specific needs of treating wounded combatants and non-combatants during armed conflict.
--   Resusci_Anne_-_CPR_dummy.jpgHYPERBARIC FIRST AID may be practiced by underwater diving professionals, who need to treat conditions such as decompression sickness.
+-   HYPERBARIC FIRST AID may be practiced by underwater diving professionals, who need to treat conditions such as decompression sickness.
 -   OXYGEN FIRST AID is the providing of oxygen to casualties who suffer from conditions resulting in hypoxia. It is also a standard first aid procedure for underwater diving incidents where gas bubble formation in the tissues is possible.
 -   WILDERNESS FIRST AID is the provision of first aid under conditions where the arrival of emergency responders or the evacuation of an injured person may be delayed due to constraints of terrain, weather, and available persons or equipment. It may be necessary to care for an injured person for several hours or days.
 -   MENTAL HEALTH FIRST AID is taught independently of physical first aid. How to support someone experiencing a mental health problem or in a crisis situation. Also how to identify the first signs of someone developing mental ill health and guide people towards appropriate help.
 
 
 First aid services
-
-First aider of the British Red Cross accompanies parade of morris dancers at the Knutsford Royal May Day 2012|thumb
 
 Some people undertake specific training in order to provide first aid at public or private events, during filming, or other places where people gather. They may be designated as a FIRST AIDER, or use some other title. This role may be undertaken on a voluntary basis, with organisations such as the Red Cross and St John Ambulance, or as paid employment with a medical contractor
 

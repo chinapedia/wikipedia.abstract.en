@@ -3,8 +3,6 @@ TRANSPORTATION IN CUBA is composed of a system of railways, roads, airports, wat
 
 Railways
 
-Ferrocarriles_de_cuba_map.gif
-
 -   _total:_ 8,285 km
 -   _standard gauge:_ 8,125 km gauge (105 km electrified)
 -   _narrow gauge:_ 160 km gauge
@@ -18,7 +16,7 @@ Metro systems are not present in the island, although a suburban rail network ex
 
 Roads
 
-Via_Blanca-Matanzas.JPG]] The total length of Cuba's highways is 60,858 km, including
+]] The total length of Cuba's highways is 60,858 km, including
 
 -   _paved:_ 29,820 km (including 915 km of expressways)[3]
 -   _unpaved:_ 31,038 km (1999 est.)
@@ -39,14 +37,14 @@ Older roads include the Carretera Central, and the Via Blanca from Havana to Mat
 
 Long-distance and inter-municipality buses in Cuba
 
-Cuba_Ford_Camion_2014.jpg There are several national bus companies in Cuba. Viazul operate a fleet of modern and comfortable coaches on longer distance routes designed principally for tourists. Schedules, prices and ticket booking can be done on line, at any of the major international airports or National Terminals across Cuba. There are also other bus lines operated by tourism companies.
+There are several national bus companies in Cuba. Viazul operate a fleet of modern and comfortable coaches on longer distance routes designed principally for tourists. Schedules, prices and ticket booking can be done on line, at any of the major international airports or National Terminals across Cuba. There are also other bus lines operated by tourism companies.
 
 AstroBus, a bus service in Cuban National Pesos, designed to bring comfortable air conditioned coaches to Cuban locals at an affordable price. The AstroBus lines operate with modern Chinese YUTONG buses, and are accessible to Cuban Residents of Cuba with their ID Card, and is payable in Cuba Pesos. Routes that have benefited most so far are those from Havana to each of the 13 provincial capitals of the country.
 
 
 Urban buses
 
-Camel_bus_in_Havana.jpg Ferro_bus.jpg in Holguín Province]] Autobus_de_TUSSAM_en_La_Habana.jpg, now operating in Havana]] In Havana, urban transportation used to be provided by a colourful selection of buses imported from the Soviet Union or Canada. Many of these vehicles were second hand (such as the 1500 decommissioned Dutch buses, which the Netherlands donated to Cuba in the mid-1990s, as well as GM fishbowl buses from Montreal) and despite the United States trade embargo, American-style yellow school buses (imported second-hand from Canada) are increasingly common sights. On seven key lines in and out of the city, service is provided by Chinese Zhengzhou Yutong Buses. They replaced from 2008 the famous _camellos_ ("camels" or "dromedaries", after their "humps"), trailer buses that hauled as many as two hundred passengers in a passenger carrying trailer.
+in Holguín Province]] , now operating in Havana]] In Havana, urban transportation used to be provided by a colourful selection of buses imported from the Soviet Union or Canada. Many of these vehicles were second hand (such as the 1500 decommissioned Dutch buses, which the Netherlands donated to Cuba in the mid-1990s, as well as GM fishbowl buses from Montreal) and despite the United States trade embargo, American-style yellow school buses (imported second-hand from Canada) are increasingly common sights. On seven key lines in and out of the city, service is provided by Chinese Zhengzhou Yutong Buses. They replaced from 2008 the famous _camellos_ ("camels" or "dromedaries", after their "humps"), trailer buses that hauled as many as two hundred passengers in a passenger carrying trailer.
 
 After the upgrading of Seville's public bus fleet to CNG-powered and new vehicles, many of the decommissioned ones were donated to the city of Havana. These bright orange buses still display the name of _Transportes Urbanos de Sevilla, S.A.M._, their former owner, and Seville's coat of arms as a sign of gratitude.[4]
 
@@ -55,7 +53,7 @@ In recent years (2016), urban transport in Havana consists entirely of modern Yu
 
 Automobiles
 
-Cuban_car.JPG car in 2011.]] Since 2009, Cuba has imported sedans from Chinese automaker Geely to serve as police cars, taxis and rental vehicles.[5] Previously, the Soviet Union supplied Volgas, Moskvichs, and Ladas, as well as heavy trucks like the ZIL and the KrAZ.[6] It is estimated that there are some 173,000 cars in Cuba.[7]
+car in 2011.]] Since 2009, Cuba has imported sedans from Chinese automaker Geely to serve as police cars, taxis and rental vehicles.[5] Previously, the Soviet Union supplied Volgas, Moskvichs, and Ladas, as well as heavy trucks like the ZIL and the KrAZ.[6] It is estimated that there are some 173,000 cars in Cuba.[7]
 
 Old American cars in Cuba
 
@@ -65,7 +63,7 @@ However, the old American cars on the road today have "relatively high inefficie
 
 Hitchhiking and carpooling
 
-Cuba,_official_hitchhiking_and_carpooling_point.jpg As a result of the "Special Period" in 1991 (a period of food and energy shortages caused by the loss of the Soviet Union as a trading partner), hitchhiking and carpooling became important parts of Cuba's transportation system and society in general. In 1999, an article in _Time_ magazine claimed "In Cuba[...] hitchhiking is custom. Hitchhiking is essential. Hitchhiking is what makes Cuba move."[15]
+As a result of the "Special Period" in 1991 (a period of food and energy shortages caused by the loss of the Soviet Union as a trading partner), hitchhiking and carpooling became important parts of Cuba's transportation system and society in general. In 1999, an article in _Time_ magazine claimed "In Cuba[...] hitchhiking is custom. Hitchhiking is essential. Hitchhiking is what makes Cuba move."[15]
 
 
 Waterways

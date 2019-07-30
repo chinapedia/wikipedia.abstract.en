@@ -1,6 +1,5 @@
   Telecommunications
-  ----------------------------------------------
-  Sm_kompong_thom_busstop_telecom_building.jpg
+  -----------------------------------------
   _Communications towers in Kampong Thom_
   Telephone land lines
   Mobile lines
@@ -9,7 +8,7 @@
   Internet users
   Internet country code
 
-Sihanoukville_-_communication_towers.jpg TELECOMMUNICATIONS IN CAMBODIA include telephone, radio, television, and Internet services, which are regulated by the Ministry of Posts and Telecommunications. Transport and posts were restored throughout most of the country in the early 1980s during the People's Republic of Kampuchea regime after being disrupted under the Khmer Rouge.
+ TELECOMMUNICATIONS IN CAMBODIA include telephone, radio, television, and Internet services, which are regulated by the Ministry of Posts and Telecommunications. Transport and posts were restored throughout most of the country in the early 1980s during the People's Republic of Kampuchea regime after being disrupted under the Khmer Rouge.
 
 In January 1987, the Soviet-aided Intersputnik space communications station began operation in Phnom Penh and established two-way telecommunication links between the Cambodian capital and the cities of Moscow, Hanoi, Vientiane and Paris. The completion of the earth satellite station restored the telephone and telex links among Phnom Penh, Hanoi, and other countries for the first time since 1975. Although telecommunications services were initially limited to the government, these advances in communications helped break down the country's isolation, both internally and internationally.
 
@@ -180,7 +179,7 @@ List of Internet service providers
 
 Internet censorship and surveillance
 
-Cambodia._Sihanoukville_-_communication_tower.jpg In its _Freedom on the Net 2013_ report, Freedom House gives Cambodia a "Freedom on the Net Status" of "partly free".
+In its _Freedom on the Net 2013_ report, Freedom House gives Cambodia a "Freedom on the Net Status" of "partly free".
 
 Compared to traditional media in Cambodia, new media, including online news, social networks and personal blogs, enjoy more freedom and independence from government censorship and restrictions. However, the government does proactively block blogs and websites, either on moral grounds, or for hosting content deemed critical of the government. The government restricts access to sexually explicit content, but does not systematically censor online political discourse. Since 2011 three blogs hosted overseas have been blocked for perceived antigovernment content. In 2012, government ministries threatened to shutter internet cafes too near schools—citing moral concerns—and instituted surveillance of cafe premises and cell phone subscribers as a security measure.[23]
 

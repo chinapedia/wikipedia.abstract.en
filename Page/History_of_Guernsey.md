@@ -1,11 +1,11 @@
-guernsey_sm02.png.]]
+.]]
 
 The HISTORY OF GUERNSEY stretches back to evidence of prehistoric habitation and settlement and encompasses the development of its modern society.
 
 
 Prehistory
 
-St_Martin's_statue_menhir_Guernsey.jpg at the gate of Saint Martin's church is an important prehistoric monument]] Around 6000 BCE, rising sea created the English Channel and separated the Norman promontories that became the bailiwicks of Guernsey and Jersey from continental Europe.[1] Neolithic farmers then settled on its coast and built the dolmens and menhirs found on the islands today. The island of Guernsey contains two sculpted menhirs of great archaeological interest, while the dolmen known as _L'Autel du Dehus_ contains a dolmen deity known as _Le Gardien du Tombeau_.[2]
+at the gate of Saint Martin's church is an important prehistoric monument]] Around 6000 BCE, rising sea created the English Channel and separated the Norman promontories that became the bailiwicks of Guernsey and Jersey from continental Europe.[1] Neolithic farmers then settled on its coast and built the dolmens and menhirs found on the islands today. The island of Guernsey contains two sculpted menhirs of great archaeological interest, while the dolmen known as _L'Autel du Dehus_ contains a dolmen deity known as _Le Gardien du Tombeau_.[2]
 
 The Roman occupation of western Europe induced people to flee, including to the Channel Islands where a number of hoards have been found, including the Grouville Hoard. It later brought trade and Roman settlements. A 3rd-century Gallo-Roman ship wreck was found in St Peter Port harbour.[3] Trade was by ship down the west coast of Europe, silver from England, Breton pottery, wine amphorae, as discovered in the Kings Road excavation in St Peter Port.[4] The Nunnery in Alderney, was a 5th-century Roman signal station fort.[5]
 
@@ -28,7 +28,7 @@ According to tradition, Robert I, Duke of Normandy (the father of William the Co
 
 The loss of Normandy by King John in 1204 isolated the Channel Islands from mainland Europe. Each time England and France went to war over the coming centuries, trade to and from the Channel Islands was restricted or banned and even when not officially at war, the island was repeatedly attacked by continental pirates and naval forces.[11]
 
-Battle_of_Guernsey.jpg Fortifications were improved in the Channel Islands, manned by professional soldiers and the Guernsey militia who would help to defend the Island for the next 600 years. Service was compulsory in the militia for every man in the Island. Raids on Guernsey in 1336 and 1337 by exiled David Bruce,[12] came at the start of the Hundred Years War, they were followed by Sark being captured and using this as a base, the next year when, starting in 1339, Guernsey was occupied by the Capetians, holding the Island for two years and Castle Cornet for seven.[13] The attacks would recur on several occasions.[14]
+Fortifications were improved in the Channel Islands, manned by professional soldiers and the Guernsey militia who would help to defend the Island for the next 600 years. Service was compulsory in the militia for every man in the Island. Raids on Guernsey in 1336 and 1337 by exiled David Bruce,[12] came at the start of the Hundred Years War, they were followed by Sark being captured and using this as a base, the next year when, starting in 1339, Guernsey was occupied by the Capetians, holding the Island for two years and Castle Cornet for seven.[13] The attacks would recur on several occasions.[14]
 
 It was 1348 when the Black Death reached the Island, ravaging the population. In 1372, the island was invaded by Aragonese mercenaries under the command of Owain Lawgoch (remembered as _Yvon de Galles_), who was in the pay of the French king. Lawgoch and his dark-haired mercenaries were later absorbed into Guernsey legend as an invasion by fairies from across the sea.[15]
 
@@ -38,7 +38,7 @@ Ship building skills improved and trade to and from Guernsey increased with a gr
 
 The Reformation
 
-Condemned_Witches_burning_in_St._Peter's_Port_(582x800).jpg 1556]] In the mid-16th century, the island was influenced by Calvinist reformers from Normandy. During the Marian persecutions, three local women, the Guernsey Martyrs, were burned at the stake in 1556 for their Protestant beliefs.[18] Two years later Elizabeth I came to the throne and Catholicism faded in Guernsey.
+1556]] In the mid-16th century, the island was influenced by Calvinist reformers from Normandy. During the Marian persecutions, three local women, the Guernsey Martyrs, were burned at the stake in 1556 for their Protestant beliefs.[18] Two years later Elizabeth I came to the throne and Catholicism faded in Guernsey.
 
 The French and piracy were problems to trade with Guernsey in the 16th century, requiring English naval ships to keep them at bay. Guernsey and Jersey were given certain privileges as the English crown needed the Islands to be loyal, not least of which was the Islands neutrality, allowing trade to be pursued with France and England, even when these were at war.[19] The trade creating revenue from taxes to pay for the Island garrisons.
 
@@ -47,7 +47,7 @@ Early modern history
 
 Civil War
 
-Castle_Cornet_Floodlit.jpg seen at night over the harbour of St Peter Port.]] During the English Civil War, Guernsey sided with the Parliamentarians, while Jersey remained Royalist.[20] Guernsey's decision was mainly related to the higher proportion of Calvinists and other Reformed churches, as well as Charles I's refusal to take up the case of some Guernsey seamen who had been captured by the Barbary corsairs. The allegiance was not total, however; there were a few Royalist uprisings in the southwest of the island, while Castle Cornet was occupied by the Governor, Sir Peter Osborne, and Royalist troops. Castle Cornet, which had been built to protect Guernsey, was turned on by the town of St. Peter Port, who constantly bombarded it. It was the penultimate Royalist stronghold to capitulate (in 1651)[21]
+seen at night over the harbour of St Peter Port.]] During the English Civil War, Guernsey sided with the Parliamentarians, while Jersey remained Royalist.[20] Guernsey's decision was mainly related to the higher proportion of Calvinists and other Reformed churches, as well as Charles I's refusal to take up the case of some Guernsey seamen who had been captured by the Barbary corsairs. The allegiance was not total, however; there were a few Royalist uprisings in the southwest of the island, while Castle Cornet was occupied by the Governor, Sir Peter Osborne, and Royalist troops. Castle Cornet, which had been built to protect Guernsey, was turned on by the town of St. Peter Port, who constantly bombarded it. It was the penultimate Royalist stronghold to capitulate (in 1651)[21]
 
 17th and 18th trade and emigration
 
@@ -89,7 +89,7 @@ The economic depression in the 1930s also affected Guernsey. Unemployed labourer
 
 World War II
 
-For most of World War II, the Bailiwick was occupied by German troops. Before the occupation, many Guernsey children had been evacuated to England to live with relatives or strangers during the war. Some children were never reunited with their families.[42] Guernsey_July_2010_Plaque_50.jpg The occupying German forces deported some of the Bailiwick's residents to camps in the southwest of Germany, notably to the _Lager Lindele_ (Lindele Camp) near Biberach an der Riß. Among those deported was Ambrose (later Sir Ambrose) Sherwill, who, as the President of the States Controlling Committee, was _de facto_ head of the civilian population. Sir Ambrose, who was Guernsey-born, had served in the British Army during the First World War and later became Bailiff of Guernsey. Three islanders of Jewish descent were deported to France and from there to Auschwitz, never to return.[43] In Alderney, four camps were built to house forced labourers, mostly from Eastern Europe, two were handed for the SS to run. They were the only concentration camps run on British soil and are commemorated on memorials under Alderney's French name _Aurigny_.
+For most of World War II, the Bailiwick was occupied by German troops. Before the occupation, many Guernsey children had been evacuated to England to live with relatives or strangers during the war. Some children were never reunited with their families.[42] The occupying German forces deported some of the Bailiwick's residents to camps in the southwest of Germany, notably to the _Lager Lindele_ (Lindele Camp) near Biberach an der Riß. Among those deported was Ambrose (later Sir Ambrose) Sherwill, who, as the President of the States Controlling Committee, was _de facto_ head of the civilian population. Sir Ambrose, who was Guernsey-born, had served in the British Army during the First World War and later became Bailiff of Guernsey. Three islanders of Jewish descent were deported to France and from there to Auschwitz, never to return.[43] In Alderney, four camps were built to house forced labourers, mostly from Eastern Europe, two were handed for the SS to run. They were the only concentration camps run on British soil and are commemorated on memorials under Alderney's French name _Aurigny_.
 
 Certain laws were passed at the insistence of the occupying forces. A reward, for example, was offered to informants who reported anyone for painting "V-for Victory" signs on walls and buildings, a practice that had become popular among islanders wishing to express their loyalty to Britain.[44]
 

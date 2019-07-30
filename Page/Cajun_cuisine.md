@@ -1,4 +1,4 @@
-Shrimppoboy.jpg sandwiches are associated with the cuisine of New Orleans.]] Skillet_cornbread_(cropped).jpg is a staple Cajun starch.]]
+sandwiches are associated with the cuisine of New Orleans.]] is a staple Cajun starch.]]
 
 CAJUN CUISINE (, ) is a style of cooking named for the French-speaking Acadian people deported by the British from Acadia in Canada to what is now called the Acadiana region of Louisiana. Cajun cuisine is sometimes referred to as a 'rustic cuisine', meaning that it is based on locally available ingredients and preparation is relatively simple.
 
@@ -136,7 +136,7 @@ OTHER GAME MEATS
 -   Virginia opossum, or sarigue
 -   Venison
 
-Old_Cajun_Woman_reaches_for_Garlic_1938.jpg, 1938.]]
+, 1938.]]
 
 Seasonings
 
@@ -197,7 +197,7 @@ Cajun dishes
 
 Primary favorites
 
-Smoked_Boudin_Blanc.jpg]] Gumbo3bg_122499.jpg BOUDIN is a type of sausage made from pork, pork liver, rice, garlic, green onions and other spices. It is widely available by the link or pound from butcher shops. Boudin is typically stuffed in a natural casing and has a softer consistency than other, better-known sausage varieties. It is usually served with side dishes such as rice dressing, maque choux or bread. Boudin balls are commonly served in southern Louisiana restaurants and are made by taking the boudin out of the case and frying it in spherical form.
+]] BOUDIN is a type of sausage made from pork, pork liver, rice, garlic, green onions and other spices. It is widely available by the link or pound from butcher shops. Boudin is typically stuffed in a natural casing and has a softer consistency than other, better-known sausage varieties. It is usually served with side dishes such as rice dressing, maque choux or bread. Boudin balls are commonly served in southern Louisiana restaurants and are made by taking the boudin out of the case and frying it in spherical form.
 
 GUMBO - High on the list of favorites of Cajun cooking are the soups called gumbos. Contrary to non-Cajun or Continental beliefs, gumbo does not mean simply "everything in the pot". Gumbo exemplifies the influence of French, Spanish, African and Native American food cultures on Cajun cuisine. The name originally meant _okra_, a word brought to the region from western Africa. Okra which can be one of the principal ingredients in gumbo recipes is used as a thickening agent and for its distinct vegetable flavor. Many claim that Gumbo is a "Cajun" dish, but Gumbo was established long before the Acadian arrival. Its early existence came via the early French Creole culture In New Orleans, Louisiana, where French, Spanish and Africans frequented and also influenced by later waves of Italian, German and Irish settlers.
 
@@ -211,7 +211,7 @@ Food as an event
 
 Crawfish boil
 
-Louisiana_crawfish.jpg The crawfish boil is a celebratory event where Cajuns boil crawfish, potatoes, onions and corn in large pots over propane cookers. Lemons and small muslin bags containing a mixture of bay leaves, mustard seeds, cayenne pepper, and other spices, commonly known as "crab boil" or "crawfish boil" are added to the water for seasoning. The results are then dumped onto large, newspaper-draped tables and in some areas covered in Creole/Cajun spice blends, such as REX, Zatarain's, Louisiana Fish Fry, or Tony Chachere's. Also, cocktail sauce, mayonnaise, and hot sauce are sometimes used. The seafood is scooped onto large trays or plates and eaten by hand. During times when crawfish are not abundant, shrimp and crabs are prepared and served in the same manner.[18]
+The crawfish boil is a celebratory event where Cajuns boil crawfish, potatoes, onions and corn in large pots over propane cookers. Lemons and small muslin bags containing a mixture of bay leaves, mustard seeds, cayenne pepper, and other spices, commonly known as "crab boil" or "crawfish boil" are added to the water for seasoning. The results are then dumped onto large, newspaper-draped tables and in some areas covered in Creole/Cajun spice blends, such as REX, Zatarain's, Louisiana Fish Fry, or Tony Chachere's. Also, cocktail sauce, mayonnaise, and hot sauce are sometimes used. The seafood is scooped onto large trays or plates and eaten by hand. During times when crawfish are not abundant, shrimp and crabs are prepared and served in the same manner.[18]
 
 Attendees are encouraged to "suck the head" of a crawfish by separating the head from the abdomen of the crustacean and sucking out the fat and juices from the head.[19]
 
@@ -219,7 +219,7 @@ Often, newcomers to the crawfish boil or those unfamiliar with the traditions ar
 
 Family
 
-Lakeview_Boucherie5_Piggy_goes_to_pieces_HRoe_2013.jpg]] The traditional Cajun outdoor food event hosted by a farmer in the rural areas of the Acadiana. Family and friends of the farmer gather to socialize, play games, dance, drink, and have a copious meal consisting of hog and other dishes. Men have the task of slaughtering a hog, cutting it into usable parts, and cooking the main pork dishes while women have the task of making boudin.
+]] The traditional Cajun outdoor food event hosted by a farmer in the rural areas of the Acadiana. Family and friends of the farmer gather to socialize, play games, dance, drink, and have a copious meal consisting of hog and other dishes. Men have the task of slaughtering a hog, cutting it into usable parts, and cooking the main pork dishes while women have the task of making boudin.
 
 Similar to a family , the is a food event that revolves around pork but does not need to be hosted by a farmer. Traditionally, a suckling pig was purchased for the event, but in modern , adult pigs are used. Unlike the family , a hog is not butchered by the hosts and there are generally not as many guests or activities. The host and male guests have the task of roasting the pig (see pig roast) while female guests bring side dishes.
 
@@ -230,8 +230,6 @@ The traditional Cajun Mardi Gras (see: _Courir de Mardi Gras_) is a Mardi Gras c
 The event revolves around male maskers on horseback who ride into the countryside to collect food ingredients for the party later on. They entertain householders with Cajun music, dancing, and festive antics in return for the ingredients. The preferred ingredient is a live chicken in which the householder throws the chicken to allow the maskers to chase it down (symbolizing a hunt), but other ingredients include rice, sausage, vegetables, or frozen chicken. Unlike other Cajun events, men take no part in cooking the main course for the party, and women prepare the chicken and ingredients for the gumbo. Once the festivities begin, the Cajun community members eat and dance to Cajun music until midnight after which is the beginning of Lent.
 
 Other dishes and sides
-
-Boudin_Sausage_Balls.jpg
 
 -   Alligator meat
 -   Andouille sausage

@@ -1,4 +1,4 @@
-Ogo.jpg, the most common red algae used to make agar]]
+, the most common red algae used to make agar]]
 
 AGAR (pronounced , sometimes ) or AGAR-AGAR is a jelly-like substance, obtained from red algae.[1]
 
@@ -10,8 +10,6 @@ The gelling agent in agar is an unbranched polysaccharide obtained from the cell
 
 
 History
-
-Agarose_polymere.svg
 
 Agar may have been discovered in Japan in 1658 by Mino Tarōzaemon (), an innkeeper in current Fushimi-ku, Kyoto who, according to legend, was said to have discarded surplus seaweed soup and noticed that it gelled later after a winter night's freezing.[7] Over the following centuries, agar became a common gelling agent in several Southeast Asian cuisines.[8]
 
@@ -38,7 +36,7 @@ Uses
 
 Culinary
 
-Sago_Gulaman.jpg at gulaman'' in Filipino cuisine is made from agar (_gulaman_), pearl sago, and fruit juice flavored with pandan]] Agar-agar is a natural vegetable gelatin counterpart. White and semi-translucent, it is sold in packages as washed and dried strips or in powdered form. It can be used to make jellies, puddings, and custards. For making jelly, it is boiled in water until the solids dissolve. Sweetener, flavouring, colouring, fruit or vegetables are then added and the liquid is poured into molds to be served as desserts and vegetable aspics, or incorporated with other desserts, such as a jelly layer in a cake.
+at gulaman'' in Filipino cuisine is made from agar (_gulaman_), pearl sago, and fruit juice flavored with pandan]] Agar-agar is a natural vegetable gelatin counterpart. White and semi-translucent, it is sold in packages as washed and dried strips or in powdered form. It can be used to make jellies, puddings, and custards. For making jelly, it is boiled in water until the solids dissolve. Sweetener, flavouring, colouring, fruit or vegetables are then added and the liquid is poured into molds to be served as desserts and vegetable aspics, or incorporated with other desserts, such as a jelly layer in a cake.
 
 Agar-agar is approximately 80% fiber, so it can serve as an intestinal regulator. Its bulking quality has been behind fad diets in Asia, for example the _kanten_ (the Japanese word for agar-agar[27]) diet. Once ingested, _kanten_ triples in size and absorbs water. This results in the consumers feeling fuller. This diet has recently received some press coverage in the United States as well. The diet has shown promise in obesity studies.[28]
 
@@ -56,7 +54,7 @@ Agar-agar is an allowed nonorganic/nonsynthetic additive used as a thickener, ge
 
 Microbiology
 
-Agar_Plate.jpges containing agar gel for bacterial culture]]
+es containing agar gel for bacterial culture]]
 
 An agar plate or Petri dish is used to provide a growth medium using a mix of agar and other nutrients in which microorganisms, including bacteria and fungi, can be cultured and observed under the microscope. Agar is indigestible for many organisms so that microbial growth does not affect the gel used and it remains stable. Agar is typically sold commercially as a powder that can be mixed with water and prepared similarly to gelatin before use as a growth medium. Other ingredients are added to the agar to meet the nutritional needs of the microbes. Many specific formulations are available, because some microbes prefer certain environmental conditions over others. Agar is often dispensed using a sterile media dispenser.
 
@@ -70,7 +68,7 @@ Another setup commonly used for measuring chemotaxis and chemokinesis utilizes t
 
 Plant biology
 
-Physcomitrella_growing_on_agar_plates.jpg'' plants growing axenically in vitro on agar plates (Petri dish, 9 cm diameter).]]
+'' plants growing axenically in vitro on agar plates (Petri dish, 9 cm diameter).]]
 
 Research grade agar is used extensively in plant biology as it is supplemented with a nutrient and vitamin mixture that allows for seedling germination in Petri dishes under sterile conditions (given that the seeds are sterilized as well). Nutrient and vitamin supplementation for _Arabidopsis thaliana_ is standard across most experimental conditions. Murashige & Skoog (MS) nutrient mix and Gamborg's B5 vitamin mix in general are used. A 1.0% agar/0.44% MS+vitamin dH₂O solution is suitable for growth media between normal growth temps.
 

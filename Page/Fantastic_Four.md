@@ -25,7 +25,7 @@ Given the conflicting statements, outside commentators have found it hard to ide
 
 The release of _The Fantastic Four_ #1 (Nov. 1961) was an unexpected success. Lee had felt ready to leave the comics field at the time, but the positive response to _Fantastic Four_ persuaded him to stay on.[18] The title began to receive fan mail[19] and Lee started printing the letters in a letter column with issue #3. Also with the third issue, Lee created the hyperbolic slogan "The Greatest Comic Magazine in the World!!" With the following issue, the slogan was changed to "The World's Greatest Comic Magazine!" and became a fixture on the issue covers into the 1990s,[20] and on numerous covers in the 2000s.
 
-Fantastic_Four_48.jpg". Cover art by Kirby and Joe Sinnott.]]
+". Cover art by Kirby and Joe Sinnott.]]
 
 Issue #4 (May 1962) reintroduced Namor the Sub-Mariner,[21] an aquatic antihero who was a star character of Marvel's earliest iteration, Timely Comics, during the late 1930s and 1940s period that historians and fans call the Golden Age of Comics. Issue #5 (July 1962) introduced the team's most frequent nemesis, Doctor Doom.[22] These earliest issues were published bimonthly. With issue #16 (July 1963), the cover title dropped its _The_ and became simply _Fantastic Four_.
 
@@ -55,7 +55,7 @@ The ongoing series was canceled with issue #416 (Sept. 1996) and relaunched with
 
 2000s
 
-Fantastic_Four_(Marvel_Comics_characters).jpg]] Following the run of Claremont, Lobdell and Larroca, Carlos Pacheco took over as penciller and co-writer, first with Rafael Marín, then with Marín and Jeph Loeb. This series began using dual numbering, as if the original _Fantastic Four_ series had continued unbroken, with issue #42 / #471 (June 2001). At the time, the Marvel Comics series begun in the 1960s, such as _Thor_ and _The Amazing Spider-Man_, were given such dual numbering on the front cover, with the present-day volume's numbering alongside the numbering from the original series. After issue #70 / #499 (Aug. 2003), the title reverted to its original vol. 1 numbering with issue #500 (Sept. 2003).
+]] Following the run of Claremont, Lobdell and Larroca, Carlos Pacheco took over as penciller and co-writer, first with Rafael Marín, then with Marín and Jeph Loeb. This series began using dual numbering, as if the original _Fantastic Four_ series had continued unbroken, with issue #42 / #471 (June 2001). At the time, the Marvel Comics series begun in the 1960s, such as _Thor_ and _The Amazing Spider-Man_, were given such dual numbering on the front cover, with the present-day volume's numbering alongside the numbering from the original series. After issue #70 / #499 (Aug. 2003), the title reverted to its original vol. 1 numbering with issue #500 (Sept. 2003).
 
 Karl Kesel succeeded Loeb as co-writer with issue #51 / #480 (March 2002), and after a few issues with temporary teams, Mark Waid took over as writer with #60 / 489 (October 2002) with artist Mike Wieringo with Marvel releasing a promotional variant edition of their otherwise $2.25 debut issue at the price of nine cents US.[71][72] Pencillers Mark Buckingham, Casey Jones, and Howard Porter variously contributed through issue #524 (May 2005), with a handful of issues by other teams also during this time. Writer J. Michael Straczynski and penciller Mike McKone did issues #527–541 (July 2005 – Nov. 2006), with Dwayne McDuffie taking over as writer the following issue, and Paul Pelletier succeeding McKone beginning with #544 (May 2007).
 

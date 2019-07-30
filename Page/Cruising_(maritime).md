@@ -1,4 +1,4 @@
-Cruiser_at_Green_Island_Panama.jpg, in Panama.]]
+, in Panama.]]
 
 CRUISING by boat is a lifestyle that involves living for extended time on a vessel while traveling from place to place for pleasure. Cruising generally refers to trips of a few days or more, and can extend to round-the-world voyages.
 
@@ -7,20 +7,20 @@ History
 
 Boats were almost exclusively used for working purposes prior to the nineteenth century. In 1857, the philosopher Henry David Thoreau, with his book _Canoeing in Wilderness_ chronicling his canoe voyaging in the wilderness of Maine, was the first to convey the enjoyment of spiritual and lifestyle aspects of cruising.
 
-AnInlandVoyageBarge.jpg's book, _An Inland Voyage_.]] The modern conception of cruising for pleasure was first popularised by the Scottish explorer and sportsman John MacGregor. He was introduced to the canoes and kayaks of the Native Americans on a camping trip in 1858, and on his return to the United Kingdom constructed his own 'double-ended' canoe in Lambeth. The boat, nicknamed 'Rob Roy' after a famous relative of his, was built of lapstrake oak planking, decked in cedar covered with rubberized canvas with an open cockpit in the center. He cruised around the waterways of Britain, Europe and the Middle East and wrote a popular book about his experiences, _A Thousand Miles in the Rob Roy Canoe_.
+'s book, _An Inland Voyage_.]] The modern conception of cruising for pleasure was first popularised by the Scottish explorer and sportsman John MacGregor. He was introduced to the canoes and kayaks of the Native Americans on a camping trip in 1858, and on his return to the United Kingdom constructed his own 'double-ended' canoe in Lambeth. The boat, nicknamed 'Rob Roy' after a famous relative of his, was built of lapstrake oak planking, decked in cedar covered with rubberized canvas with an open cockpit in the center. He cruised around the waterways of Britain, Europe and the Middle East and wrote a popular book about his experiences, _A Thousand Miles in the Rob Roy Canoe_.
 
 In 1866, Macgregor was a moving force behind the establishment of the Royal Canoe Club, the first club in the world to promote pleasure cruising.[1][2] The first recorded regatta was held on April 27, 1867, and it received Royal patronage in 1873. The latter part of the century saw cruising for leisure being enthusiastically taken up by the middle class. The author Robert Louis Stevenson wrote _An Inland Voyage_ in 1877 as a travelogue on his canoeing trip through France and Belgium. Stevenson and his companion, Sir Walter Grindlay Simpson travelled in two 'Rob Roys' along the Oise River and witnessed the Romantic beauty of rural Europe.
 
 The Canadian-American Joshua Slocum was one of the first people to carry out a long-distance sailing voyage for pleasure, circumnavigating the world between 1895 and 1898. Despite opinion that such a voyage was impossible, Slocum rebuilt a derelict sloop _Spray_ and sailed her single-handed around the world. His book _Sailing Alone Around the World_ was a classic adventure, and inspired many others to take to the seas.[3]
 
-Dugout_in_San_Blas_Islands.jpg paddles a dugout canoe in the San Blas Islands.]] Other cruising authors have provided both inspiration and instruction to prospective cruisers. Key among these during the post World War II period are Electa and Irving Johnson, Miles and Beryl Smeeton, Bernard Moitessier, Peter Pye, and Eric and Susan Hiscock. During the 1970s - 1990s Robin Lee Graham, Lin and Larry Pardey, Annie Hill, Herb Payson, Linda and Steve Dashew, Margaret and Hal Roth, and Beth Leonard & Evans Starzinger have provided inspiration for people to set off voyaging.
+paddles a dugout canoe in the San Blas Islands.]] Other cruising authors have provided both inspiration and instruction to prospective cruisers. Key among these during the post World War II period are Electa and Irving Johnson, Miles and Beryl Smeeton, Bernard Moitessier, Peter Pye, and Eric and Susan Hiscock. During the 1970s - 1990s Robin Lee Graham, Lin and Larry Pardey, Annie Hill, Herb Payson, Linda and Steve Dashew, Margaret and Hal Roth, and Beth Leonard & Evans Starzinger have provided inspiration for people to set off voyaging.
 
 The development of ocean crossing rallies, most notably the ARC (Atlantic Rally for Cruisers), have encouraged less experienced sailors to undertake ocean crossings. These rallies provide a group of sailors crossing the same ocean at the same time with safety inspections, weather information and social functions.
 
 
 Types of boats used
 
-Yacht-Samar.jpg in Lorient, Bretagne, France]] Cruising is done on both sail and power boats, monohulls and multihulls although sail predominates over longer distances, as ocean-going power boats are considerably more expensive to purchase and operate. The size of the typical cruising boat has increased over the years and is currently in the range of 10 to 15 metres (33 to 50 feet) although[4] smaller boats have been used in around-the-world trips, but are generally not recommended given the dangers involved.[5][6] Many cruisers are "long term" and travel for many years, the most adventurous among them circle the globe over a period of three to ten years. Many others take a year or two off from work and school for shorter trips and the chance to experience the cruising lifestyle.[7]
+in Lorient, Bretagne, France]] Cruising is done on both sail and power boats, monohulls and multihulls although sail predominates over longer distances, as ocean-going power boats are considerably more expensive to purchase and operate. The size of the typical cruising boat has increased over the years and is currently in the range of 10 to 15 metres (33 to 50 feet) although[4] smaller boats have been used in around-the-world trips, but are generally not recommended given the dangers involved.[5][6] Many cruisers are "long term" and travel for many years, the most adventurous among them circle the globe over a period of three to ten years. Many others take a year or two off from work and school for shorter trips and the chance to experience the cruising lifestyle.[7]
 
 
 Blue-water cruising and coastal cruising
@@ -34,7 +34,7 @@ Equipment
 
 Cruisers use a variety of equipment and techniques to make their voyages possible, or simply more comfortable. The use of wind vane self steering was common on long distance cruising yachts but is increasingly being supplemented or replaced by electrical auto-pilots.
 
-Solar_panels_on_yacht_at_sea.jpgs on this yacht can keep her self-sufficient in electrical power.]]
+s on this yacht can keep her self-sufficient in electrical power.]]
 
 Though in the past many cruisers had no means of generating electricity on board and depended on kerosene and dry-cell batteries, today electrical demands are much higher and nearly all cruisers have electrical devices such as lights, communications equipment and refrigeration. Although most boats can generate power from their inboard engines, an increasing number carry auxiliary generators. Carrying sufficient fuel to power engine and generator over a long voyage can be a problem, so many cruising boats are equipped with other ancillary generating devices such as solar panels, wind turbines and towed turbines. Cruisers choosing to spend extended time in very remote locations with minimal access to marinas can opt to equip their vessels with watermakers (reverse-osmosis seawater desalination units) used to convert sea water to potable fresh water.
 

@@ -3,7 +3,7 @@ CERES BREWERY was a brewery company located in Århus, Denmark. It was part of R
 
 History
 
-Ceres_Grunden.JPG Ceres Brewery was founded by a grocer named Malthe Conrad Lottrup, with help from the chemists A. S. Aagard and Knud Redelien, as the city's seventh brewery. It was named after the Roman goddess Ceres, and its opening was announced in the local newspaper, _Stiftstidende_, in 1856.
+Ceres Brewery was founded by a grocer named Malthe Conrad Lottrup, with help from the chemists A. S. Aagard and Knud Redelien, as the city's seventh brewery. It was named after the Roman goddess Ceres, and its opening was announced in the local newspaper, _Stiftstidende_, in 1856.
 
 The brewery was successful, and Lottrup became one of the most prominent people of Aarhus. After ten years, he expanded the brewery, adding a grand new building as his own private residence, where he entertained other local figures.
 

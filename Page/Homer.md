@@ -1,4 +1,4 @@
-Homer_British_Museum.jpg, based on a Greek original dating to the Hellenistic period[1]]]
+, based on a Greek original dating to the Hellenistic period[1]]]
 
 HOMER (; , _Hómēros_) is the legendary author of the _Iliad_ and the _Odyssey_, two epic poems that are the central works of ancient Greek literature. The _Iliad_ is set during the Trojan War, the ten-year siege of the city of Troy by a coalition of Greek kingdoms. It focuses on a quarrel between King Agamemnon and the warrior Achilles lasting a few weeks during the last year of the war. The _Odyssey_ focuses on the ten-year journey home of Odysseus, king of Ithaca, after the fall of Troy. Many accounts of Homer's life circulated in classical antiquity, the most widespread being that he was a blind bard from Ionia, a region of central coastal Anatolia in present-day Turkey. Modern scholars consider these accounts legendary.[2][3][4]
 
@@ -9,7 +9,7 @@ The poems are in Homeric Greek, also known as Epic Greek, a literary language wh
 
 Works attributed to Homer
 
-William-Adolphe_Bouguereau_(1825-1905)_-_Homer_and_his_Guide_(1874).jpg]]
+]]
 
 Today only the _Iliad_ and _Odyssey_ are associated with the name 'Homer'. In antiquity, a very large number of other works were sometimes attributed to him, including the _Homeric Hymns_, the _Contest of Homer and Hesiod_, the _Little Iliad_, the _Nostoi_, the _Thebaid_, the _Cypria_, the _Epigoni_, the comic mini-epic _Batrachomyomachia_ ("The Frog-Mouse War"), the _Margites_, the _Capture of Oechalia_, and the _Phocais_. These claims are not considered authentic today and were by no means universally accepted in the ancient world. As with the multitude of legends surrounding Homer's life, they indicate little more than the centrality of Homer to ancient Greek culture.[13][14][15]
 
@@ -25,13 +25,13 @@ History of Homeric scholarship
 
 Ancient
 
-Townley_Homer.jpg.]] The study of Homer is one of the oldest topics in scholarship, dating back to antiquity.[20][21][22] Nonetheless, the aims of Homeric studies have changed over the course of the millennia.[23] The earliest preserved comments on Homer concern his treatment of the gods, which hostile critics such as the poet Xenophanes of Colophon denounced as immoral.[24] The allegorist Theagenes of Rhegium is said to have defended Homer by arguing that the Homeric poems are allegories.[25] The _Iliad_ and the _Odyssey_ were widely used as school texts in ancient Greek and Hellenistic cultures.[26][27][28] They were the first literary works taught to all students.[29] The _Iliad_, particularly its first few books, was far more intently studied than the _Odyssey_ during the Hellenistic and Roman periods.[30]
+.]] The study of Homer is one of the oldest topics in scholarship, dating back to antiquity.[20][21][22] Nonetheless, the aims of Homeric studies have changed over the course of the millennia.[23] The earliest preserved comments on Homer concern his treatment of the gods, which hostile critics such as the poet Xenophanes of Colophon denounced as immoral.[24] The allegorist Theagenes of Rhegium is said to have defended Homer by arguing that the Homeric poems are allegories.[25] The _Iliad_ and the _Odyssey_ were widely used as school texts in ancient Greek and Hellenistic cultures.[26][27][28] They were the first literary works taught to all students.[29] The _Iliad_, particularly its first few books, was far more intently studied than the _Odyssey_ during the Hellenistic and Roman periods.[30]
 
 As a result of the poems' prominence in classical Greek education, extensive commentaries on them developed to explain parts of the poems that were culturally or linguistically difficult.[31][32] During the Hellenistic and Roman periods, many interpreters, especially the Stoics, who believed that Homeric poems conveyed Stoic doctrines, regarded them as allegories, containing hidden wisdom.[33] Perhaps partially because of the Homeric poems' extensive use in education, many authors believed that Homer's original purpose had been to educate.[34] Homer's wisdom became so widely praised that he began to acquire the image of almost a prototypical philosopher.[35] Byzantine scholars such as Eustathius of Thessalonica and John Tzetzes produced commentaries, extensions and scholia to Homer, especially in the twelfth century.[36][37] Eustathius's commentary on the _Iliad_ alone is massive, sprawling over nearly 4,000 oversized pages in a twenty-first century printed version and his commentary on the _Odyssey_ an additional nearly 2,000.[38]
 
 Modern
 
-Nuremberg_chronicles_f_043r_1.png'']]
+'']]
 
 In 1488, the Greek scholar Demetrios Chalkokondyles published the _editio princeps_ of the Homeric poems.[39] The earliest modern Homeric scholars started with the same basic approaches towards the Homeric poems as scholars in antiquity.[40][41][42] The allegorical interpretation of the Homeric poems that had been so prevalent in antiquity returned to become the prevailing view of the Renaissance.[43] Renaissance humanists praised Homer as the archetypically wise poet, whose writings contain hidden wisdom, disguised through allegory.[44] In western Europe during the Renaissance, Virgil was more widely read than Homer and Homer was often seen through a Virgilian lens.[45] In 1664, contradicting the widespread praise of Homer as the epitome of wisdom, François Hédelin, abbé d'Aubignac wrote a scathing attack on the Homeric poems, declaring that they were incoherent, immoral, tasteless, and without style, that Homer never existed, and that the poems were hastily cobbled together by incompetent editors from unrelated oral songs.[46] Fifty years later, the English scholar Richard Bentley concluded that Homer did exist, but that he was an obscure, prehistoric oral poet whose compositions bear little relation to the _Iliad_ and the _Odyssey_ as they have been passed down.[47] According to Bentley, Homer "wrote a Sequel of Songs and Rhapsodies, to be sung by himself for small Earnings and good Cheer at Festivals and other Days of Merriment; the _Ilias_ he wrote for men, and the _Odysseis_ for the other Sex. These loose songs were not collected together in the Form of an epic Poem till Pisistratus' time, about 500 Years after."[48]
 
@@ -50,8 +50,6 @@ Some ancient scholars believed Homer to have been an eyewitness to the Trojan Wa
 
 Historicity of the Homeric epics and Homeric society
 
-Homeric_Greece.svg
-
 Scholars continue to debate questions such as whether the Trojan War actually took place – and if so when and where – and to what extent the society depicted by Homer is based on his own or one which was, even at the time of the poems' composition, known only as legend. The Homeric epics are largely set in the east and center of the Mediterranean, with some scattered references to Egypt, Ethiopia and other distant lands, in a warlike society that resembles that of the Greek world slightly before the hypothesized date of the poems' composition.[105][106][107][108]
 
 In ancient Greek chronology, the sack of Troy was dated to 1184 BC. By the nineteenth century, there was widespread scholarly skepticism that the Trojan War had ever happened and that Troy had even existed, but in 1873 Heinrich Schliemann announced to the world that he had discovered the ruins of Homer's Troy at Hissarlik in modern Turkey. Some contemporary scholars think the destruction of Troy VIIa _circa_ 1220 BC was the origin of the myth of the Trojan War, others that the poem was inspired by multiple similar sieges that took place over the centuries.[109]
@@ -63,7 +61,7 @@ In the _Iliad_ 10.260–265, Odysseus is described as wearing a helmet made of b
 
 Homeric language
 
-Cropped_image_of_Homer_from_Raphael's_Parnassus.jpg'' (painted 1509–1510) by Raphael, depicting Homer wearing a crown of laurels atop Mount Parnassus, with Dante Alighieri on his right and Virgil on his left]] The Homeric epics are written in an artificial literary language or 'Kunstsprache' only used in epic hexameter poetry. Homeric Greek shows features of multiple regional Greek dialects and periods, but is fundamentally based on Ionic Greek, in keeping with the tradition that Homer was from Ionia. Linguistic analysis suggests that the _Iliad_ was composed slightly before the _Odyssey_, and that Homeric formulae preserve older features than other parts of the poems.[129][130]
+'' (painted 1509–1510) by Raphael, depicting Homer wearing a crown of laurels atop Mount Parnassus, with Dante Alighieri on his right and Virgil on his left]] The Homeric epics are written in an artificial literary language or 'Kunstsprache' only used in epic hexameter poetry. Homeric Greek shows features of multiple regional Greek dialects and periods, but is fundamentally based on Ionic Greek, in keeping with the tradition that Homer was from Ionia. Linguistic analysis suggests that the _Iliad_ was composed slightly before the _Odyssey_, and that Homeric formulae preserve older features than other parts of the poems.[129][130]
 
 
 Homeric style
@@ -79,7 +77,7 @@ Both of the Homeric poems begin with an invocation to the Muse.[138] In the _Ili
 
 Textual transmission
 
-Sir_Lawrence_Alma-Tadema,_English_(born_Netherlands)_-_A_Reading_from_Homer_-_Google_Art_Project.jpg]]
+]]
 
 The orally transmitted Homeric poems were put into written form at some point between the eighth and sixth centuries BC. Some scholars believe that they were dictated by the poet; Albert Lord noted that, in the process of dictating, the Balkan bards he recorded revised and extended their lays. Some scholars hypothesize that a similar process occurred when the Homeric poems were first written.[142][143]
 

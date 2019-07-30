@@ -24,7 +24,7 @@ The sociologist Alfred W. Jones is credited with coining the phrase "_hedged_ fu
 
 In the 1970s, hedge funds specialized in a single strategy with most fund managers following the long/short equity model. Many hedge funds closed during the recession of 1969–70 and the 1973–1974 stock market crash due to heavy losses. They received renewed attention in the late 1980s.[28]
 
-Cumulative_hedge_fund_and_other_risk_asset_returns,_1997-2012.png During the 1990s, the number of hedge funds increased significantly, with the 1990s stock market rise,[29] the aligned-interest compensation structure (_i.e._, common financial interests) and the promise of above high returns[30] as likely causes. Over the next decade, hedge fund strategies expanded to include: credit arbitrage, distressed debt, fixed income, quantitative, and multi-strategy.[31] US institutional investors such as pension and endowment funds began allocating greater portions of their portfolios to hedge funds.[32][33]
+During the 1990s, the number of hedge funds increased significantly, with the 1990s stock market rise,[29] the aligned-interest compensation structure (_i.e._, common financial interests) and the promise of above high returns[30] as likely causes. Over the next decade, hedge fund strategies expanded to include: credit arbitrage, distressed debt, fixed income, quantitative, and multi-strategy.[31] US institutional investors such as pension and endowment funds began allocating greater portions of their portfolios to hedge funds.[32][33]
 
 During the first decade of the 21st century hedge funds gained popularity worldwide, and by 2008 the worldwide hedge fund industry held US$1.93 trillion in assets under management (AUM).[34][35] However, the 2008 financial crisis caused many hedge funds to restrict investor withdrawals and their popularity and AUM totals declined.[36] AUM totals rebounded and in April 2011 were estimated at almost $2 trillion.[37][38] , 61% of worldwide investment in hedge funds came from institutional sources.[39]
 
@@ -37,7 +37,7 @@ Notable hedge fund managers
 
 In 2015, _Forbes_ listed:
 
-George_Soros_47th_Munich_Security_Conference_2011_crop.jpg, fund manager of Quantum Group of Funds]] Web_Summit_2018_-_Forum_-_Day_2,_November_7_HM1_7481_(44858045925).jpg, fund manager of Bridgewater Associates]]
+, fund manager of Quantum Group of Funds]] , fund manager of Bridgewater Associates]]
 
 -   George Soros of Quantum Group of Funds
 -   Ray Dalio of Bridgewater Associates, the world's largest hedge fund firm with US$160 billion in assets under management as of 2017[47]
@@ -61,7 +61,7 @@ George_Soros_47th_Munich_Security_Conference_2011_crop.jpg, fund manager of Quan
 
 Strategies
 
-AmericanProspectusSample.jpg Hedge fund strategies are generally classified among four major categories: global macro, directional, event-driven, and relative value (arbitrage).[73] Strategies within these categories each entail characteristic risk and return profiles. A fund may employ a single strategy or multiple strategies for flexibility, risk management, or diversification.[74] The hedge fund's prospectus, also known as an offering memorandum, offers potential investors information about key aspects of the fund, including the fund's investment strategy, investment type, and leverage limit.[75]
+Hedge fund strategies are generally classified among four major categories: global macro, directional, event-driven, and relative value (arbitrage).[73] Strategies within these categories each entail characteristic risk and return profiles. A fund may employ a single strategy or multiple strategies for flexibility, risk management, or diversification.[74] The hedge fund's prospectus, also known as an offering memorandum, offers potential investors information about key aspects of the fund, including the fund's investment strategy, investment type, and leverage limit.[75]
 
 The elements contributing to a hedge fund strategy include: the hedge fund's approach to the market; the particular instrument used; the market sector the fund specializes in (_e.g._, healthcare); the method used to select investments; and the amount of diversification within the fund. There are a variety of market approaches to different asset classes, including equity, fixed income, commodity, and currency. Instruments used include: equities, fixed income, futures, options, and swaps. Strategies can be divided into those in which investments can be selected by managers, known as "discretionary/qualitative", or those in which investments are selected using a computerized system, known as "systematic/quantitative".[76] The amount of diversification within the fund can vary; funds may be multi-strategy, multi-fund, multi-market, multi-manager, or a combination.
 
@@ -77,7 +77,7 @@ Within global macro strategies, there are further sub-strategies including "syst
 
 Directional
 
-Short_(finance).png and immediately sells them. The short seller then expects the price to decrease, when the seller can profit by purchasing the shares to return to the lender.]] Directional investment strategies use market movements, trends, or inconsistencies when picking stocks across a variety of markets. Computer models can be used, or fund managers will identify and select investments. These types of strategies have a greater exposure to the fluctuations of the overall market than do market neutral strategies.[87][88] Directional hedge fund strategies include US and international long/short equity hedge funds, where long equity positions are hedged with short sales of equities or equity index options.
+and immediately sells them. The short seller then expects the price to decrease, when the seller can profit by purchasing the shares to return to the lender.]] Directional investment strategies use market movements, trends, or inconsistencies when picking stocks across a variety of markets. Computer models can be used, or fund managers will identify and select investments. These types of strategies have a greater exposure to the fluctuations of the overall market than do market neutral strategies.[87][88] Directional hedge fund strategies include US and international long/short equity hedge funds, where long equity positions are hedged with short sales of equities or equity index options.
 
 Within directional strategies, there are a number of sub-strategies. "Emerging markets" funds focus on emerging markets such as China and India,[89] whereas "sector funds" specialize in specific areas including technology, healthcare, biotechnology, pharmaceuticals, energy, and basic materials. Funds using a "fundamental growth" strategy invest in companies with more earnings growth than the overall stock market or relevant sector, while funds using a "fundamental value" strategy invest in undervalued companies.[90] Funds that use quantitative and financial signal processing techniques for equity trading are described as using a "quantitative directional" strategy.[91] Funds using a "short bias" strategy take advantage of declining equity prices using short positions.[92]
 

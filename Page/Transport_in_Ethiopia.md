@@ -3,7 +3,7 @@ TRANSPORT IN ETHIOPIA is overseen by the Ministry of Transport and Communication
 
 Railways
 
-Ethiopian_Railways.png}}]] Ethiopia is building a standard gauge railway network, the National Railway Network of Ethiopia, planned to consist of up to 5,000 km of railways in a number of years. The railway network serves a strategic goal to allow Ethiopia a sustainable and stable economic development. The railway network's primary purpose is then both to connect landlocked Ethiopia to the world market by ensuring a seamless access to one or several sea ports for trade and for transporting most imports and exports. The rail transport of goods appears favorable – if compared to road transport – in terms of volume, costs, safety and speed of transportation for both imports and exports. The primary port for Ethiopia is the Port of Djibouti in Djibouti. More than 95% of Ethiopia's trade passes through Djibouti.[1][2]
+}}]] Ethiopia is building a standard gauge railway network, the National Railway Network of Ethiopia, planned to consist of up to 5,000 km of railways in a number of years. The railway network serves a strategic goal to allow Ethiopia a sustainable and stable economic development. The railway network's primary purpose is then both to connect landlocked Ethiopia to the world market by ensuring a seamless access to one or several sea ports for trade and for transporting most imports and exports. The rail transport of goods appears favorable – if compared to road transport – in terms of volume, costs, safety and speed of transportation for both imports and exports. The primary port for Ethiopia is the Port of Djibouti in Djibouti. More than 95% of Ethiopia's trade passes through Djibouti.[1][2]
 
 The port of Djibouti is served by one international railway, the electrified standard gauge 756 km long Addis Ababa – Djibouti Railway (of which 656 km run in Ethiopia). This railway has officially been opened in October 2016 but it is in trial service with no regular traffic in 2017. Once operational by the end of 2017 or in 2018, it will allow passenger transport and a travel time from Addis Ababa to Djibouti City in less than twelve hours with a designated speed of 120 km/hour.[3]
 
@@ -12,7 +12,7 @@ Another railway, the Awash – Hara Gebeya Railway will go into trial service ov
 
 Roads
 
-ET_Afar_asv2018-01_img93_way_to_Ertale.jpg Ethiopie-Lac_Basaka_(9).jpg Bus_addis_abeba.jpg bus with DAF chassis at Meskel Square in Addis Ababa]] Highway_to_Hawzen,_Ethiopia_(8108169057).jpg, one of the many new roads built through the governmental Road Sector Development Program (RSDP)]] Road projects now represent around a quarter of the annual infrastructure budget of the Ethiopian federal government. Additionally, through the Road Sector Development Program (RSDP), the government has earmarked $4 billion to construct, repair and upgrade roads over the next decade.[5]
+bus with DAF chassis at Meskel Square in Addis Ababa]] , one of the many new roads built through the governmental Road Sector Development Program (RSDP)]] Road projects now represent around a quarter of the annual infrastructure budget of the Ethiopian federal government. Additionally, through the Road Sector Development Program (RSDP), the government has earmarked $4 billion to construct, repair and upgrade roads over the next decade.[5]
 
 As the first part of a 10-year Road Sector Development Program, between 1997 and 2002 the Ethiopian government began a sustained effort to improve its infrastructure of roads. As a result, as of 2002 Ethiopia has a total (federal and regional) 33,297 km of roads, both paved and gravel. The share of federally managed roads in good quality improved from 14% in 1995 to 31% in 2002 as a result of this program, and to 89% in 2009[6] the road density increased from 21 km per 1000 km² (in 1995) to 889 km; per 1000 km² (in 2009) however, this is much greater than the average of 50 km per 1000 km² for Africa.[7]
 
@@ -39,7 +39,7 @@ NO 10: east from Awash 572 km via Harar and Jijiga to Degehabur
 
 Expressways
 
-Adama_(3).jpg]] The Addis Ababa–Adama Expressway was completed in 2014 as the first expressway in Ethiopia. In December 2015, construction began on a second expressway between Awasa and Mojo, where it will connect to the existing expressway.[12]
+]] The Addis Ababa–Adama Expressway was completed in 2014 as the first expressway in Ethiopia. In December 2015, construction began on a second expressway between Awasa and Mojo, where it will connect to the existing expressway.[12]
 
 In addition, the Ethiopian Roads Authority (ERA) has undertaken a three year project to upgrade over 370 km of roads in the country. Contracts have been signed with the Ethiopian Defense Construction, China Railway Engineering, Eney Construction, China Wuyi, Yotek Construction and FAL General Contractor.[13][14]
 
@@ -50,7 +50,7 @@ It is said that Ethiopia has the highest rates of traffic fatalities per vehicle
 
 Ports and harbours
 
-Adama_(6).jpg Ethiopia is landlocked and was by agreement with Eritrea using the ports of Asseb and Massawa until 1997; since the Eritrean-Ethiopian War, Ethiopia has used the port of Djibouti for nearly all of its imports. Ethiopia increasingly relies on inland dry ports for distributing cargo, after cargo arrived from Djibouti. The main Ethiopian dry port is Modjo dry port.
+Ethiopia is landlocked and was by agreement with Eritrea using the ports of Asseb and Massawa until 1997; since the Eritrean-Ethiopian War, Ethiopia has used the port of Djibouti for nearly all of its imports. Ethiopia increasingly relies on inland dry ports for distributing cargo, after cargo arrived from Djibouti. The main Ethiopian dry port is Modjo dry port.
 
 Merchant marine
 
@@ -62,7 +62,7 @@ _ships by type:_ cargo ship 7; container ship 1; petroleum tanker 1; roll-on/rol
 
 Airports
 
-Boeing_757-23N,_Ethiopian_Airlines_AN1418402.jpg, Addis Ababa (2008)]]There were an estimated 84 airports in 2005, only 14 of which had paved runways as of 2005. The Addis Ababa Airport handles international jet transportation. Before the Ethiopian civil war, the national carrier, Ethiopian Airlines, flew to numerous African, Asian, and European cities, and had sole rights on domestic air traffic. In 2003, about 1.147 million passengers were carried on domestic and international flights.
+, Addis Ababa (2008)]]There were an estimated 84 airports in 2005, only 14 of which had paved runways as of 2005. The Addis Ababa Airport handles international jet transportation. Before the Ethiopian civil war, the national carrier, Ethiopian Airlines, flew to numerous African, Asian, and European cities, and had sole rights on domestic air traffic. In 2003, about 1.147 million passengers were carried on domestic and international flights.
 
 Paved runways
 

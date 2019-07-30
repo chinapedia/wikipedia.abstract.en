@@ -3,11 +3,11 @@ A CENTAUR (; , _kéntauros_, ), or occasionally HIPPOCENTAUR, is a mythological 
 
 Mythology
 
-Centaur_mosaic_-_Google_Art_Project.jpg and estimated to be made between 120-130 A.D. The mosaic now resides in the Staatliche Museen zu Berlin in Germany.|alt=|left]]
+and estimated to be made between 120-130 A.D. The mosaic now resides in the Staatliche Museen zu Berlin in Germany.|alt=|left]]
 
 Creation of centaurs
 
-The centaurs were usually said to have been born of Ixion and Nephele.[3] As the story goes, Nephele was a cloud made into the likeness of Hera in a plot to trick Ixion into revealing his lust for Hera to Zeus. Ixion seduced Nephele and from that relationship centaurs were created.[4] Another version, however, makes them children of Centaurus, a man who mated with the Magnesian mares. Centaurus was either himself the son of Ixion and Nephele (inserting an additional generation) or of Apollo and the nymph Stilbe. In the latter version of the story, Centaurus's twin brother was Lapithes, ancestor of the Lapiths.Centauromachy_Staatliche_Antikensammlungen_2640.jpg kylix, ca. 480 BC|alt=|left]]
+The centaurs were usually said to have been born of Ixion and Nephele.[3] As the story goes, Nephele was a cloud made into the likeness of Hera in a plot to trick Ixion into revealing his lust for Hera to Zeus. Ixion seduced Nephele and from that relationship centaurs were created.[4] Another version, however, makes them children of Centaurus, a man who mated with the Magnesian mares. Centaurus was either himself the son of Ixion and Nephele (inserting an additional generation) or of Apollo and the nymph Stilbe. In the latter version of the story, Centaurus's twin brother was Lapithes, ancestor of the Lapiths. kylix, ca. 480 BC|alt=|left]]
 
 Another tribe of centaurs was said to have lived on Cyprus. According to Nonnus, they were fathered by Zeus, who, in frustration after Aphrodite had eluded him, spilled his seed on the ground of that land. Unlike those of mainland Greece, the Cyprian centaurs were horned.[5][6]
 
@@ -29,7 +29,7 @@ The Greek word _kentauros_ is generally regarded as being of obscure origin.[12]
 
 Origin of the myth
 
-Achilleus_Lyra.jpg teaching Achilles how to play the lyre, a Roman fresco from Herculaneum, 1st century AD.]] The most common theory holds that the idea of centaurs came from the first reaction of a non-riding culture, as in the Minoan Aegean world, to nomads who were mounted on horses. The theory suggests that such riders would appear as half-man, half-animal. Bernal Díaz del Castillo reported that the Aztecs also had this misapprehension about Spanish cavalrymen.[14] The Lapith tribe of Thessaly, who were the kinsmen of the Centaurs in myth, were described as the inventors of horse-back riding by Greek writers. The Thessalian tribes also claimed their horse breeds were descended from the centaurs.
+teaching Achilles how to play the lyre, a Roman fresco from Herculaneum, 1st century AD.]] The most common theory holds that the idea of centaurs came from the first reaction of a non-riding culture, as in the Minoan Aegean world, to nomads who were mounted on horses. The theory suggests that such riders would appear as half-man, half-animal. Bernal Díaz del Castillo reported that the Aztecs also had this misapprehension about Spanish cavalrymen.[14] The Lapith tribe of Thessaly, who were the kinsmen of the Centaurs in myth, were described as the inventors of horse-back riding by Greek writers. The Thessalian tribes also claimed their horse breeds were descended from the centaurs.
 
 Robert Graves (relying on the work of Georges Dumézil,[15] who argued for tracing the centaurs back to the Indian gandharva), speculated that the centaurs were a dimly remembered, pre-Hellenic fraternal earth cult who had the horse as a totem.[16] A similar theory was incorporated into Mary Renault's _The Bull from the Sea._
 
@@ -38,7 +38,7 @@ Variations
 
 Female centaurs
 
-GiorcesBardo55.jpg (Mosaic from Roman Tunisia, 2nd century AD)]] Though female centaurs, called centaurides or centauresses, are not mentioned in early Greek literature and art, they do appear occasionally in later antiquity. A Macedonian mosaic of the 4th century BC is one of the earliest examples of the centauress in art.[17] Ovid also mentions a centauress named Hylonome who committed suicide when her husband Cyllarus was killed in the war with the Lapiths.[18]
+(Mosaic from Roman Tunisia, 2nd century AD)]] Though female centaurs, called centaurides or centauresses, are not mentioned in early Greek literature and art, they do appear occasionally in later antiquity. A Macedonian mosaic of the 4th century BC is one of the earliest examples of the centauress in art.[17] Ovid also mentions a centauress named Hylonome who committed suicide when her husband Cyllarus was killed in the war with the Lapiths.[18]
 
 India
 
@@ -57,7 +57,7 @@ Artistic representations
 
 Classical art
 
-Cantharus_Stathatou_Louvre_CA1987.jpgn _kantharos_, Late Geometric period]] The extensive Mycenaean pottery found at Ugarit included two fragmentary Mycenaean terracotta figures which have been tentatively identified as centaurs. This finding suggests a Bronze Age origin for these creatures of myth.[26] A painted terracotta centaur was found in the "Hero's tomb" at Lefkandi, and by the Geometric period, centaurs figure among the first representational figures painted on Greek pottery. An often-published Geometric period bronze of a warrior face-to-face with a centaur is at the Metropolitan Museum of Art.[27]
+n _kantharos_, Late Geometric period]] The extensive Mycenaean pottery found at Ugarit included two fragmentary Mycenaean terracotta figures which have been tentatively identified as centaurs. This finding suggests a Bronze Age origin for these creatures of myth.[26] A painted terracotta centaur was found in the "Hero's tomb" at Lefkandi, and by the Geometric period, centaurs figure among the first representational figures painted on Greek pottery. An often-published Geometric period bronze of a warrior face-to-face with a centaur is at the Metropolitan Museum of Art.[27]
 
 In Greek art of the Archaic period, centaurs are depicted in three different forms. Some centaurs are depicted with a human torso attached to the body of a horse at the withers, where the horse's neck would be; this form, designated "Class A" by Professor Paul Baur, later became standard. "Class B" centaurs are depicted with a human body and legs joined at the waist to the hindquarters of a horse; in some cases centaurs of both Class A and Class B appear together. A third type, designated "Class C", depicts centaurs with human forelegs terminating in hooves. Baur describes this as an apparent development of Aeolic art, which never became particularly widespread.[28] At a later period, paintings on some amphoras depict winged centaurs.
 
@@ -65,7 +65,7 @@ Centaurs were also frequently depicted in Roman art. One example is the pair of 
 
 Medieval art
 
-Grape_harvest_Abbatiale_Mozac_2007_06_30.jpg in the Auvergne]]
+in the Auvergne]]
 
 Centaurs preserved a Dionysian connection in the 12th-century Romanesque carved capitals of Mozac Abbey in the Auvergne. Other similar capitals depict harvesters, boys riding goats (a further Dionysiac theme), and griffins guarding the chalice that held the wine. Centaurs are also shown on a number of Pictish carved stones from north-east Scotland erected in the 8th–9th centuries AD (e.g., at Meigle, Perthshire). Though outside the limits of the Roman Empire, these depictions appear to be derived from Classical prototypes.
 
@@ -80,7 +80,7 @@ Literature
 
 Classical literature
 
-Centaur_nymph_Marqueste_Tuileries.jpg (1892) by Laurent Marqueste (Tuileries Garden, Paris)]] Jerome's version of the _Life_ of St Anthony the Great, written by Athanasius of Alexandria about the hermit monk of Egypt, was widely disseminated in the Middle Ages; it relates Anthony's encounter with a centaur who challenged the saint, but was forced to admit that the old gods had been overthrown. The episode was often depicted in _The Meeting of St Anthony Abbot and St Paul the Hermit_ by the painter Stefano di Giovanni, who was known as "Sassetta".[32] Of the two episodic depictions of the hermit Anthony's travel to greet the hermit Paul, one is his encounter with the demonic figure of a centaur along the pathway in a wood.
+(1892) by Laurent Marqueste (Tuileries Garden, Paris)]] Jerome's version of the _Life_ of St Anthony the Great, written by Athanasius of Alexandria about the hermit monk of Egypt, was widely disseminated in the Middle Ages; it relates Anthony's encounter with a centaur who challenged the saint, but was forced to admit that the old gods had been overthrown. The episode was often depicted in _The Meeting of St Anthony Abbot and St Paul the Hermit_ by the painter Stefano di Giovanni, who was known as "Sassetta".[32] Of the two episodic depictions of the hermit Anthony's travel to greet the hermit Paul, one is his encounter with the demonic figure of a centaur along the pathway in a wood.
 
 Lucretius, in his first-century BC philosophical poem _On the Nature of Things,_ denied the existence of centaurs based on their differing rate of growth. He states that at the age of three years, horses are in the prime of their life while humans at the same age are still little more than babies, making hybrid animals impossible.[33]
 
@@ -108,7 +108,7 @@ File:Sandro Botticelli 063.jpg|Botticelli, _Pallas and Centaur_ (1482–83) File
 
 See also
 
-Sebastiano_Ricci_045.jpg, of centaurs at the marriage of Pirithous, king of the Lapithae]]
+, of centaurs at the marriage of Pirithous, king of the Lapithae]]
 
 Other hybrid creatures appear in Greek mythology, always with some liminal connection that links Hellenic culture with archaic or non-Hellenic cultures:
 

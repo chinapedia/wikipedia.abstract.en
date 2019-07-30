@@ -358,7 +358,7 @@ The table below shows the succession of the significant historical stages of eac
 
 Contemporary
 
-Germanic_Languages_Map_Europe.png upright=1.35|thumb|right| The present-day distribution of the Germanic languages in Europe:
+upright=1.35|thumb|right| The present-day distribution of the Germanic languages in Europe:
 NORTH GERMANIC LANGUAGES WEST GERMANIC LANGUAGES Dots indicate areas where multilingualism is common. All living Germanic languages belong either to the West Germanic or to the North Germanic branch. The West Germanic group is the larger by far, further subdivided into Anglo-Frisian on one hand and Continental West Germanic on the other. Anglo-Frisian notably includes English and all its variants, while Continental West Germanic includes German (standard register and dialects), as well as Dutch (standard register and dialects).
 
 Modern classification looks like this. For a full classification, see List of Germanic languages.

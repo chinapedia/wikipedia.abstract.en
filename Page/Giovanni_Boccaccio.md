@@ -3,7 +3,7 @@ GIOVANNI BOCCACCIO (, , ; 16 June 1313 – 21 December 1375)[1] was an Italian 
 
 Biography
 
-Nuremberg_Chronicle_f_232r_3.jpg'' ]] The details of Boccaccio's birth are uncertain. He was born in Florence or in a village near Certaldo where his family was from.[2][3] He was the son of Florentine merchant Boccaccino di Chellino and an unknown woman; he was likely born out of wedlock.[4] Boccaccio's stepmother was called Margherita de' Mardoli.[5]
+'' ]] The details of Boccaccio's birth are uncertain. He was born in Florence or in a village near Certaldo where his family was from.[2][3] He was the son of Florentine merchant Boccaccino di Chellino and an unknown woman; he was likely born out of wedlock.[4] Boccaccio's stepmother was called Margherita de' Mardoli.[5]
 
 Early life
 
@@ -15,13 +15,11 @@ It seems that Boccaccio enjoyed law no more than banking, but his studies allowe
 
 Adult years
 
-Boccaccio01.jpg]]
+]]
 
 In Naples, Boccaccio began what he considered his true vocation of poetry. Works produced in this period include _Il Filostrato_ and _Teseida_ (the sources for Chaucer's _Troilus and Criseyde_ and _The Knight's Tale_, respectively), _The Filocolo_ (a prose version of an existing French romance), and _La caccia di Diana_ (a poem in _terza rima_ listing Neapolitan women).[8] The period featured considerable formal innovation, including possibly the introduction of the Sicilian octave, where it influenced Petrarch.
 
 Boccaccio returned to Florence in early 1341, avoiding the plague of 1340 in that city, but also missing the visit of Petrarch to Naples in 1341. He had left Naples due to tensions between the Angevin king and Florence. His father had returned to Florence in 1338, where he had gone bankrupt. His mother died shortly afterward (possibly, as she was unknown — see above). Boccaccio continued to work, although dissatisfied with his return to Florence, producing _Comedia delle ninfe fiorentine_ in 1341 (also known as _Ameto_), a mix of prose and poems, completing the fifty-canto allegorical poem _Amorosa visione_ in 1342, and _Fiammetta_[9] in 1343. The pastoral piece "Ninfale fiesolano" probably dates from this time, also. In 1343, Boccaccio's father remarried to Bice del Bostichi. His children by his first marriage had all died, but he had another son named Iacopo in 1344.
-
-Giovanni_Boccaccio_and_Florentines_who_have_fled_from_the_plague.jpg
 
 In Florence, the overthrow of Walter of Brienne brought about the government of _popolo minuto_ ("small people", workers). It diminished the influence of the nobility and the wealthier merchant classes and assisted in the relative decline of Florence. The city was hurt further in 1348 by the Black Death, which killed some three-quarters of the city's population, later represented in the _Decameron_.
 
@@ -33,7 +31,7 @@ From 1350, Boccaccio became closely involved with Italian humanism (although les
 
 In October 1350, he was delegated to greet Francesco Petrarch as he entered Florence and also to have Petrarch as a guest at Boccaccio's home, during his stay. The meeting between the two was extremely fruitful and they were friends from then on, Boccaccio calling Petrarch his teacher and _magister_. Petrarch at that time encouraged Boccaccio to study classical Greek and Latin literature. They met again in Padua in 1351, Boccaccio on an official mission to invite Petrarch to take a chair at the university in Florence. Although unsuccessful, the discussions between the two were instrumental in Boccaccio writing the _Genealogia deorum gentilium_; the first edition was completed in 1360 and this remained one of the key reference works on classical mythology for over 400 years. It served as an extended defense for the studies of ancient literature and thought. Despite the Pagan beliefs at its core, Boccaccio believed that much could be learned from antiquity. Thus, he challenged the arguments of clerical intellectuals who wanted to limit access to classical sources to prevent any moral harm to Christian readers. The revival of classical antiquity became a foundation of the Renaissance, and his defense of the importance of ancient literature was an essential requirement for its development.[13] The discussions also formalized Boccaccio's poetic ideas. Certain sources also see a conversion of Boccaccio by Petrarch from the open humanist of the _Decameron_ to a more ascetic style, closer to the dominant fourteenth century ethos. For example, he followed Petrarch (and Dante) in the unsuccessful championing of an archaic and deeply allusive form of Latin poetry. In 1359, following a meeting with Pope Innocent VI and further meetings with Petrarch, it is probable that Boccaccio took some kind of religious mantle. There is a persistent (but unsupported) tale that he repudiated his earlier works as profane in 1362, including _The Decameron_.
 
-De_claris_mulieribus.jpgs: illustration of one of the women featured the 1374 biographies of 106 famous women, _De Claris Mulieribus_, by Boccaccio – from a German translation of 1541]] In 1360, Boccaccio began work on _De mulieribus claris_, a book offering biographies of one hundred and six famous women, that he completed in 1374.
+s: illustration of one of the women featured the 1374 biographies of 106 famous women, _De Claris Mulieribus_, by Boccaccio – from a German translation of 1541]] In 1360, Boccaccio began work on _De mulieribus claris_, a book offering biographies of one hundred and six famous women, that he completed in 1374.
 
 A number of Boccaccio's close friends and other acquaintances were executed or exiled in the purge following the failed coup of 1361. It was in this year that Boccaccio left Florence to reside in Certaldo, although not directly linked to the conspiracy, where he became less involved in government affairs. He did not undertake further missions for Florence until 1365, and traveled to Naples and then on to Padua and Venice, where he met up with Petrarch in grand style at Palazzo Molina, Petrarch's residence as well as the place of Petrarch's library. He later returned to Certaldo. He met Petrarch only once again in Padua in 1368. Upon hearing of the death of Petrarch (19 July 1374), Boccaccio wrote a commemorative poem, including it in his collection of lyric poems, the _Rime_.
 
@@ -47,8 +45,6 @@ His final years were troubled by illnesses, some relating to obesity and what of
 
 
 Works
-
-Genealogia_deorum_gentilium.tif
 
 Alphabetical listing of selected works:
 

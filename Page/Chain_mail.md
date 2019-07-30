@@ -1,9 +1,9 @@
-Eastern_riveted_armor.JPG MAIL or MAILLE (also CHAIN MAIL(LE)[1] or CHAINMAIL(LE)) is a type of armour consisting of small metal rings linked together in a pattern to form a mesh. A coat of this armour is often referred to as a hauberk, and sometimes a byrnie.
+MAIL or MAILLE (also CHAIN MAIL(LE)[1] or CHAINMAIL(LE)) is a type of armour consisting of small metal rings linked together in a pattern to form a mesh. A coat of this armour is often referred to as a hauberk, and sometimes a byrnie.
 
 
 History
 
-Gaul_warrior_Vacheres_2.jpg warrior, 1st century BC, a statue depicting a Romanized Gaulish warrior wearing mail and a Celtic torc around his neck, wielding a Celtic-style shield.[2]]] Thueros_affresco.jpg soldier (_thorakitai_) wearing mail armour and bearing a _thureos_ shield]]
+warrior, 1st century BC, a statue depicting a Romanized Gaulish warrior wearing mail and a Celtic torc around his neck, wielding a Celtic-style shield.[2]]] soldier (_thorakitai_) wearing mail armour and bearing a _thureos_ shield]]
 
 The earliest examples of surviving mail were found in the Carpathian Basin at a burial in Horný Jatov, Slovakia dated at 3rd century BC, and in a chieftain's burial located in Ciumești, Romania.[3][4][5] Its invention is commonly credited to the Celts,[6] but there are examples of Etruscan pattern mail dating from at least the 4th century BCE.[7][8][9] Mail may have been inspired by the much earlier scale armour.[10][11] Mail spread to North Africa, West Africa, the Middle East, Central Asia, India, Tibet, South East Asia, and Japan.
 
@@ -18,7 +18,7 @@ The origins of the word _mail_ are not fully known. One theory is that it origin
 
 The first attestations of the word _mail_ are in Old French and Anglo-Norman: _maille_, _maile_, or _male_ or other variants, which became _mailye_, _maille_, _maile_, _male_, or _meile_ in Middle English.[15]
 
-Beowulf_-_byrnu.jpg The modern usage of terms for mail armour is highly contested in popular and, to a lesser degree, academic culture. Medieval sources referred to armour of this type simply as _mail_; however, _chain-mail_ has become a commonly used, if incorrect, neologism first attested in Sir Walter Scott's 1822 novel _The Fortunes of Nigel_.[16] Since then the word _mail_ has been commonly, if incorrectly, applied to other types of armour, such as in _plate-mail_ (first attested in 1835).[17] The more correct term is _plate armour_.
+The modern usage of terms for mail armour is highly contested in popular and, to a lesser degree, academic culture. Medieval sources referred to armour of this type simply as _mail_; however, _chain-mail_ has become a commonly used, if incorrect, neologism first attested in Sir Walter Scott's 1822 novel _The Fortunes of Nigel_.[16] Since then the word _mail_ has been commonly, if incorrectly, applied to other types of armour, such as in _plate-mail_ (first attested in 1835).[17] The more correct term is _plate armour_.
 
 Civilizations that used mail invented specific terms for each garment made from it. The standard terms for European mail armour derive from French: leggings are called chausses, a hood is a mail coif, and mittens, mitons. A mail collar hanging from a helmet is a camail or aventail. A shirt made from mail is a hauberk if knee-length and a haubergeon if mid-thigh length. A layer (or layers) of mail sandwiched between layers of fabric is called a jazerant.
 
@@ -29,9 +29,9 @@ A waist-length coat in medieval Europe was called a byrnie, although the exact c
 
 In Europe
 
-MWP_Pancerni_2_polowa_17_wieku.jpg The use of mail as battlefield armour was common during the Iron Age and the Middle Ages, becoming less common over the course of the 16th and 17th centuries when plate armor and more advanced firearms were developed. It is believed that the Roman Republic first came into contact with mail fighting the Gauls in Cisalpine Gaul, now Northern Italy,[19] but a different pattern of mail was already in use among the Etruscans. The Roman army adopted the technology for their troops in the form of the lorica hamata which was used as a primary form of armour through the Imperial period.
+The use of mail as battlefield armour was common during the Iron Age and the Middle Ages, becoming less common over the course of the 16th and 17th centuries when plate armor and more advanced firearms were developed. It is believed that the Roman Republic first came into contact with mail fighting the Gauls in Cisalpine Gaul, now Northern Italy,[19] but a different pattern of mail was already in use among the Etruscans. The Roman army adopted the technology for their troops in the form of the lorica hamata which was used as a primary form of armour through the Imperial period.
 
-Harold_dead_bayeux_tapestry.png showing Norman and Anglo-Saxon soldiers in mail armour. Note the scene of stripping a mail hauberk from the dead at the bottom.]] After the fall of the Western Empire, much of the infrastructure needed to create plate armour diminished. Eventually the word "mail" came to be synonymous with armour.[20][21][22][23] It was typically an extremely prized commodity, as it was expensive and time-consuming to produce and could mean the difference between life and death in a battle. Mail from dead combatants was frequently looted and was used by the new owner or sold for a lucrative price. As time went on and infrastructure improved, it came to be used by more soldiers. Eventually with the rise of the lanced cavalry charge, impact warfare, and high-powered crossbows, mail came to be used as a secondary armour to plate for the mounted nobility.
+showing Norman and Anglo-Saxon soldiers in mail armour. Note the scene of stripping a mail hauberk from the dead at the bottom.]] After the fall of the Western Empire, much of the infrastructure needed to create plate armour diminished. Eventually the word "mail" came to be synonymous with armour.[20][21][22][23] It was typically an extremely prized commodity, as it was expensive and time-consuming to produce and could mean the difference between life and death in a battle. Mail from dead combatants was frequently looted and was used by the new owner or sold for a lucrative price. As time went on and infrastructure improved, it came to be used by more soldiers. Eventually with the rise of the lanced cavalry charge, impact warfare, and high-powered crossbows, mail came to be used as a secondary armour to plate for the mounted nobility.
 
 By the 14th century, plate armour was commonly used to supplement mail. Eventually mail was supplanted by plate for the most part, as it provided greater protection against windlass crossbows, bludgeoning weapons, and lance charges. However, mail was still widely used by many soldiers as well as brigandines and padded jacks. These three types of armour made up the bulk of the equipment used by soldiers, with mail being the most expensive. It was sometimes more expensive than plate armour.[24] Mail typically persisted longer in less technologically advanced areas such as Eastern Europe but was in use everywhere into the 16th century.
 
@@ -42,7 +42,7 @@ Also during World War I, a mail fringe, designed by Captain Cruise of the Britis
 
 In Asia
 
-Bundesarchiv_Bild_135-S-14-13-33,_Tibetexpedition,_Neujahrsparade,_Rta_pa.jpg]] Mail armour was introduced to the Middle East and Asia through the Romans and was adopted by the Sassanid Persians starting in the 3rd century AD, where it was supplemental to the scale and lamellar armour already used. Mail was commonly also used as horse armour for cataphracts and heavy cavalry as well as armour for the soldiers themselves. Asian mail could be just as heavy as the European variety and sometimes had prayer symbols stamped on the rings as a sign of their craftsmanship as well as for divine protection.[31] Indeed, mail armour is mentioned in the Quran as being a gift revealed by Allah to David:
+]] Mail armour was introduced to the Middle East and Asia through the Romans and was adopted by the Sassanid Persians starting in the 3rd century AD, where it was supplemental to the scale and lamellar armour already used. Mail was commonly also used as horse armour for cataphracts and heavy cavalry as well as armour for the soldiers themselves. Asian mail could be just as heavy as the European variety and sometimes had prayer symbols stamped on the rings as a sign of their craftsmanship as well as for divine protection.[31] Indeed, mail armour is mentioned in the Quran as being a gift revealed by Allah to David:
 
   21:80 It was We Who taught him the making of coats of mail for your benefit, to guard you from each other's violence: will ye then be grateful? (Yusuf Ali's translation)
 
@@ -53,8 +53,6 @@ The Ottoman Empire used mail armour as well as mail and plate armour, and it was
 Mail was introduced to China when its allies in Central Asia paid tribute to the Tang Emperor in 718 by giving him a coat of "link armour" assumed to be mail. China first encountered the armour in 384 when its allies in the nation of Kuchi arrived wearing "armour similar to chains". Once in China, mail was imported but was not produced widely. Due to its flexibility, comfort, and rarity, it was typically the armour of high-ranking guards and those who could afford the exotic import (to show off their social status) rather than the armour of the rank and file, who used more common brigandine, scale, and lamellar types. However, it was one of the only military products that China imported from foreigners. Mail spread to Korea slightly later where it was imported as the armour of imperial guards and generals.
 
 Japanese mail armour
-
-Japanese_kusari_armor.JPG
 
 In Japan mail is called _kusari_ which means chain. When the word _kusari_ is used in conjunction with an armoured item it usually means that mail makes up the majority of the armour composition.[32] An example of this would be _kusari gusoku_ which means chain armour. _Kusari_ _jackets_, _hoods_, _gloves_, _vests_, _shin_, shoulder, _thigh guards_, and other armoured clothing were produced, even _kusari tabi_ socks.
 
@@ -75,8 +73,6 @@ Ian Bottomley in his book _Arms and Armor of the Samurai: The History of Weaponr
 
 Effectiveness
 
-Bayeux_haubert.JPG
-
 Mail armour provided an effective defense against slashing blows by edged weapons and some forms of penetration by many thrusting and piercing weapons; in fact, a study conducted at the Royal Armouries at Leeds concluded that "it is almost impossible to penetrate using any conventional medieval weapon".[42][43] Generally speaking, mail's resistance to weapons is determined by four factors: linkage type (riveted, butted, or welded), material used (iron versus bronze or steel), weave density (a tighter weave needs a thinner weapon to surpass), and ring thickness (generally ranging from 18 to 14 gauge (1.02–1.63 mm diameter) wire in most examples). Mail, if a warrior could afford it, provided a significant advantage when combined with competent fighting techniques.
 
 When the mail was not riveted, a thrust from most sharp weapons could penetrate it. However, when mail was riveted, only a strong well-placed thrust from certain spears, or thin or dedicated mail-piercing swords like the estoc could penetrate, and a pollaxe or halberd blow could break through the armour. Strong projectile weapons such as stronger self bows, recurve bows, and crossbows could also penetrate riveted mail.[44][45] Some evidence indicates that during armoured combat, the intention was to actually get around the armour rather than through it—according to a study of skeletons found in Visby, Sweden, a majority of the skeletons showed wounds on less well protected legs.[46] Although mail was a formidable protection, due to longswords getting more tapered as time progressed, mail worn under plate armor (and stand-alone mail as well) could be penetrated by the conventional weaponry of another knight.
@@ -86,7 +82,7 @@ The flexibility of mail meant that a blow would often injure the wearer,[47] pot
 
 Manufacture
 
-Fotothek_df_tg_0008481_Ständebuch_^_Handwerk_^_Plattner_^_Rüstung_^_Harnisch_^_Kettenhemd.jpg Several patterns of linking the rings together have been known since ancient times, with the most common being the 4-to-1 pattern (where each ring is linked with four others). In Europe, the 4-to-1 pattern was completely dominant. Mail was also common in East Asia, primarily Japan, with several more patterns being utilised and an entire nomenclature developing around them.
+Several patterns of linking the rings together have been known since ancient times, with the most common being the 4-to-1 pattern (where each ring is linked with four others). In Europe, the 4-to-1 pattern was completely dominant. Mail was also common in East Asia, primarily Japan, with several more patterns being utilised and an entire nomenclature developing around them.
 
 Historically, in Europe, from the pre-Roman period on, the rings composing a piece of mail would be riveted closed to reduce the chance of the rings splitting open when subjected to a thrusting attack or a hit by an arrow.
 
@@ -97,7 +93,7 @@ Modern uses
 
 Practical uses
 
-Neptunic_shark_suit_1.jpg Mail is used as protective clothing for butchers against meat-packing equipment. Workers may wear up to of mail under their white coats.[55] Butchers also commonly wear a single mail glove to protect themselves from self-inflicted injury while cutting meat, as do many oyster shuckers.[56]
+Mail is used as protective clothing for butchers against meat-packing equipment. Workers may wear up to of mail under their white coats.[55] Butchers also commonly wear a single mail glove to protect themselves from self-inflicted injury while cutting meat, as do many oyster shuckers.[56]
 
 Woodcarvers sometimes use similar mail gloves to protect their hands from cuts and punctures.
 
@@ -113,7 +109,7 @@ Conventional textile-based ballistic vests are designed to stop soft-nosed bulle
 
 Historical re-enactment
 
-Roman_soldier_175_aC_in_northern_province.jpg Many historical reenactment groups, especially those whose focus is Antiquity or the Middle Ages, commonly use mail both as practical armour and for costuming. Mail is especially popular amongst those groups which use steel weapons. A modern hauberk made from 1.5 mm diameter wire with 10 mm inner diameter rings weighs roughly and contains 15,000–45,000 rings.
+Many historical reenactment groups, especially those whose focus is Antiquity or the Middle Ages, commonly use mail both as practical armour and for costuming. Mail is especially popular amongst those groups which use steel weapons. A modern hauberk made from 1.5 mm diameter wire with 10 mm inner diameter rings weighs roughly and contains 15,000–45,000 rings.
 
 One of the drawbacks of mail is the uneven weight distribution; the stress falls mainly on shoulders. Weight can be better distributed by wearing a belt over the mail, which provides another point of support.
 
@@ -121,7 +117,7 @@ Mail worn today for re-enactment and recreational use can be made in a variety o
 
 Decorative uses
 
-Major's_shoulder_chains.JPG ChainMaille_Dragon's_Back_Bracelet_or_Roundmaille_Weave.jpg Mail remained in use as a decorative and possibly high-status symbol with military overtones long after its practical usefulness had passed. It was frequently used for the epaulettes of military uniforms. It is still used in this form by the British Territorial Army.
+Mail remained in use as a decorative and possibly high-status symbol with military overtones long after its practical usefulness had passed. It was frequently used for the epaulettes of military uniforms. It is still used in this form by the British Territorial Army.
 
 Mail has applications in sculpture and jewellery, especially when made out of precious metals or colourful anodized metals. Mail artwork includes headdresses, decorative wall hangings, ornaments, chess sets, macramé, and jewelry. For these non-traditional applications, hundreds of patterns (commonly referred to as "weaves") have been invented.[62]
 

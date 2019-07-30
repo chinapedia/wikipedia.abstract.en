@@ -26,7 +26,7 @@ Tenji was particularly active in improving the military institutions which had b
 
 Death of the emperor
 
-TenchiTennoRyo.jpg Following his death in 672, there ensued a succession dispute between his fourteen children (many by different mothers). In the end, he was succeeded by his son, Prince Ōtomo, also known as Emperor Kōbun, then by Tenji's brother Prince Ōama, also known as Emperor Tenmu. Almost one hundred years after Tenji's death, the throne passed to his grandson Emperor Kōnin.
+Following his death in 672, there ensued a succession dispute between his fourteen children (many by different mothers). In the end, he was succeeded by his son, Prince Ōtomo, also known as Emperor Kōbun, then by Tenji's brother Prince Ōama, also known as Emperor Tenmu. Almost one hundred years after Tenji's death, the throne passed to his grandson Emperor Kōnin.
 
     POST-MEIJI CHRONOLOGY
     -   _IN THE 10TH YEAR OF TENJI_, in the 11th month (671): Emperor Tenji, in the , designated his son as his heir; and modern scholars construe this as meaning that the son would have received the succession (_senso_) after his father's death. Shortly thereafter, Emperor Kōbun is said to have acceded to the throne (_sokui_).[10] If this understanding were valid, then it would follow:
@@ -173,7 +173,7 @@ See also
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

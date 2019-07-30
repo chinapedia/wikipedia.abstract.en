@@ -14,7 +14,7 @@ He decided not to be a lawyer but to develop a literary career. He experimented 
 
 Futurism
 
-Filippo_Tommaso_Marinetti_-_Zang_tumb_tumb_-_Hoge_Rijndijk_8,_Leiden.JPG]] Marinetti and Constantin Brâncuși were visitors of the Abbaye de Créteil c. 1908 along with young writers like Roger Allard (one of the first to defend Cubism), Pierre Jean Jouve, and Paul Castiaux, who wanted to publish their works through the Abbaye. The Abbaye de Créteil was a _phalanstère_ community founded in the autumn of 1906 by the painter Albert Gleizes, and the poets René Arcos, Henri-Martin Barzun, Alexandre Mercereau and Charles Vildrac.[4] The movement drew its inspiration from the _Abbaye de Thélème,_ a fictional creation by Rabelais in his novel _Gargantua_. It was closed down by its members early in 1908.[5]
+]] Marinetti and Constantin Brâncuși were visitors of the Abbaye de Créteil c. 1908 along with young writers like Roger Allard (one of the first to defend Cubism), Pierre Jean Jouve, and Paul Castiaux, who wanted to publish their works through the Abbaye. The Abbaye de Créteil was a _phalanstère_ community founded in the autumn of 1906 by the painter Albert Gleizes, and the poets René Arcos, Henri-Martin Barzun, Alexandre Mercereau and Charles Vildrac.[4] The movement drew its inspiration from the _Abbaye de Thélème,_ a fictional creation by Rabelais in his novel _Gargantua_. It was closed down by its members early in 1908.[5]
 
 Marinetti is known best as the author of the _Futurist Manifesto_, which he wrote in 1909. It was published in French on the front page of the most prestigious French daily newspaper, _Le Figaro_, on 20 February 1909. In _The Founding and Manifesto of Futurism_, Marinetti declared that "Art, in fact, can be nothing but violence, cruelty, and injustice." Georges Sorel, who influenced the entire political spectrum from anarchism to Fascism, also argued for the importance of violence. Futurism had both anarchist and Fascist elements; Marinetti later became an active supporter of Benito Mussolini.
 
@@ -24,7 +24,7 @@ The Futurist Manifesto was read and debated all across Europe, but Marinetti's f
 
 His drama _La donna è mobile_ (Poupées électriques), first presented in Turin, was not successful either. Nowadays, the play is remembered through a later version, named _Elettricità sessuale_ (Sexual Electricity), and mainly for the appearance onstage of humanoid automatons, ten years before the Czech writer Karel Čapek would invent the term "robot".
 
-FilippoTommasoMarinetti.jpg In 1910 his first novel, _Mafarka il futurista_, was cleared of all charges by an obscenity trial. That year, Marinetti discovered some allies in three young painters (Umberto Boccioni, Carlo Carrà, Luigi Russolo), who adopted the Futurist philosophy. Together with them (and with poets such as Aldo Palazzeschi), Marinetti began a series of Futurist Evenings, theatrical spectacles in which Futurists declaimed their manifestos in front of a crowd that in part attended the performances in order to throw vegetables at them.
+In 1910 his first novel, _Mafarka il futurista_, was cleared of all charges by an obscenity trial. That year, Marinetti discovered some allies in three young painters (Umberto Boccioni, Carlo Carrà, Luigi Russolo), who adopted the Futurist philosophy. Together with them (and with poets such as Aldo Palazzeschi), Marinetti began a series of Futurist Evenings, theatrical spectacles in which Futurists declaimed their manifestos in front of a crowd that in part attended the performances in order to throw vegetables at them.
 
 The most successful "happening" of that period was the publicization of the "Manifesto Against Past-Loving Venice" in Venice. In the flier, Marinetti demands "fill(ing) the small, stinking canals with the rubble from the old, collapsing and leprous palaces" to "prepare for the birth of an industrial and militarized Venice, capable of dominating the great Adriatic, a great Italian lake."
 
@@ -71,7 +71,7 @@ Marinetti volunteered for active service in the Second Italo-Abyssinian War and 
 
 He died of cardiac arrest in Bellagio on 2 December 1944 while working on a collection of poems praising the wartime achievements of the Decima Flottiglia MAS.
 
-Tomba_Filippo_Tommaso_Marinetti.JPG (Italy)]]
+(Italy)]]
 
 
 Writings

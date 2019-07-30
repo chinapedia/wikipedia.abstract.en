@@ -1,9 +1,9 @@
-Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg'' by Eugène Delacroix personifies the French motherland]] A HOMELAND ( _country of origin_ and NATIVE LAND) is the concept of the place where a: cultural, national, or racial identity had formed (usually refers to the ethnic groups involved). The definition can also mean simply one's country of birth.[1] When used as a proper noun, the Homeland, as well as its equivalents in other languages, often have ethnic nationalist connotations. A homeland may also be referred to as a _fatherland_, a _motherland_, or a _mother country_, depending on the culture and language of the nationality in question.
+'' by Eugène Delacroix personifies the French motherland]] A HOMELAND ( _country of origin_ and NATIVE LAND) is the concept of the place where a: cultural, national, or racial identity had formed (usually refers to the ethnic groups involved). The definition can also mean simply one's country of birth.[1] When used as a proper noun, the Homeland, as well as its equivalents in other languages, often have ethnic nationalist connotations. A homeland may also be referred to as a _fatherland_, a _motherland_, or a _mother country_, depending on the culture and language of the nationality in question.
 
 
 Motherland
 
-Bharat_Mata_bronze.jpg statue accompanied by a lion at Yanam, India]]
+ statue accompanied by a lion at Yanam, India]]
 
 Motherland refers to a _mother country_, i.e. the place of one's birth, the place of one's ancestors, the place of origin of an ethnic group or immigrant, or a Metropole in contrast to its colonies. People often refer to Mother Russia as a personification of the Russian nation. Within the British Empire, many natives in the colonies came to think of Britain as the mother country of one, large nation. India is often personified as Bharat Mata (Mother India). The French commonly refer to France as "la mère patrie";[2] Hispanic Americans and 19th century-upper-class Filipinos, commonly referred to Spain as "_la Madre Patria_". Romans and the subjects of Rome saw Italy as the motherland (_patria_ or _terrarum parens_) of the Roman Empire, in contrast to Roman provinces.[3][4]
 

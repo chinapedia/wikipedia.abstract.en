@@ -37,7 +37,7 @@ Two numbers are called relatively prime, or coprime, if their greatest common di
 
 A geometric view
 
-24x60.svg For example, a 24-by-60 rectangular area can be divided into a grid of: 1-by-1 squares, 2-by-2 squares, 3-by-3 squares, 4-by-4 squares, 6-by-6 squares or 12-by-12 squares. Therefore, 12 is the greatest common divisor of 24 and 60. A 24-by-60 rectangular area can be divided into a grid of 12-by-12 squares, with two squares along one edge (24/12 = 2) and five squares along the other (60/12 = 5).
+For example, a 24-by-60 rectangular area can be divided into a grid of: 1-by-1 squares, 2-by-2 squares, 3-by-3 squares, 4-by-4 squares, 6-by-6 squares or 12-by-12 squares. Therefore, 12 is the greatest common divisor of 24 and 60. A 24-by-60 rectangular area can be divided into a grid of 12-by-12 squares, with two squares along one edge (24/12 = 2) and five squares along the other (60/12 = 5).
 
 
 Applications
@@ -68,7 +68,7 @@ Here is another concrete example, illustrated by a Venn diagram. Suppose it is d
 
 What they share in common is two "2"s and a "3":
 
-    least_common_multiple.svgGustavo Delfino, "Understanding the Least Common Multiple and Greatest Common Divisor", Wolfram Demonstrations Project, Published: February 1, 2013.
+    Gustavo Delfino, "Understanding the Least Common Multiple and Greatest Common Divisor", Wolfram Demonstrations Project, Published: February 1, 2013.
 
     Least common multiple = 2 × 2 × ( 2 × 2 × 3 ) × 3 × 5 = 720
     Greatest common divisor = 2 × 2 × 3 = 12.
@@ -95,8 +95,6 @@ if _a_ > _b_
 
 gcd (_a_, _b_) = gcd (_a_, _b_ − _a_) ,
 if _b_ > _a_
-
-The_Great_Common_Divisor_of_62_and_36_is_2.ogv
 
 Lehmer's GCD algorithm
 
@@ -159,8 +157,6 @@ _O_(_n_²)
 .
 
 Other methods
-
-Greatest_common_divisor.png
 
 If _a_ and _b_ are both nonzero, the greatest common divisor of _a_ and _b_ can be computed by using least common multiple (lcm) of _a_ and _b_:
 

@@ -66,7 +66,7 @@ Middle Ages
 
 Muslim conquest
 
-Map_of_expansion_of_Caliphate.svg Dish_from_9th_century_Iraq.jpg dish was made in 9th century Iraq. It is housed in the Smithsonian Institution in Washington, D.C.]]
+dish was made in 9th century Iraq. It is housed in the Smithsonian Institution in Washington, D.C.]]
 
 The first organized conflict between local Arab tribes and Persian forces seems to have been in 634, when the Arabs were defeated at the Battle of the Bridge. There was a force of some 5,000 Muslims under Abū `Ubayd ath-Thaqafī, which was routed by the Persians. This was followed by Khalid ibn al-Walid's successful campaign which saw all of Iraq come under Arab rule within a year, with the exception of the Persian Empire's capital, Ctesiphon. Around 636, a larger Arab Muslim force under Sa`d ibn Abī Waqqās defeated the main Persian army at the Battle of al-Qādisiyyah and moved on to capture the Persian capital of Ctesiphon. By the end of 638, the Muslims had conquered all of the Western Sassanid provinces (including modern Iraq), and the last Sassanid Emperor, Yazdegerd III, had fled to central and then northern Persia, where he was killed in 651.
 
@@ -104,13 +104,13 @@ The Safavid dynasty of Iran briefly asserted their hegemony over Iraq in the per
 
 British mandate
 
-Crowded_marketplace_(Mosul,_1932).jpg, 1932]] Ottoman rule over Iraq lasted until World War I, when the Ottomans sided with Germany and the Central Powers. In the Mesopotamian campaign against the Central Powers, British forces invaded the country and suffered a defeat at the hands of the Turkish army during the Siege of Kut (1915–16). However the British finally won in the Mesopotamian Campaign with the capture of Baghdad in March 1917. During the war the British employed the help of a number of Assyrian, Armenian and Arab tribes against the Ottomans, who in turn employed the Kurds as allies. After the war the Ottoman Empire was divided up, and the British Mandate of Mesopotamia was established by League of Nations mandate. Britain imposed a Hāshimite monarchy on Iraq and defined the territorial limits of Iraq without taking into account the politics of the different ethnic and religious groups in the country, in particular those of the Kurds and the Christian Assyrians to the north. During the British occupation, the Kurds fought for independence, and the British employed Assyrian Levies to help quell these insurrections. Iraq also became an oligarchy government at this time.
+, 1932]] Ottoman rule over Iraq lasted until World War I, when the Ottomans sided with Germany and the Central Powers. In the Mesopotamian campaign against the Central Powers, British forces invaded the country and suffered a defeat at the hands of the Turkish army during the Siege of Kut (1915–16). However the British finally won in the Mesopotamian Campaign with the capture of Baghdad in March 1917. During the war the British employed the help of a number of Assyrian, Armenian and Arab tribes against the Ottomans, who in turn employed the Kurds as allies. After the war the Ottoman Empire was divided up, and the British Mandate of Mesopotamia was established by League of Nations mandate. Britain imposed a Hāshimite monarchy on Iraq and defined the territorial limits of Iraq without taking into account the politics of the different ethnic and religious groups in the country, in particular those of the Kurds and the Christian Assyrians to the north. During the British occupation, the Kurds fought for independence, and the British employed Assyrian Levies to help quell these insurrections. Iraq also became an oligarchy government at this time.
 
 Although the monarch Faisal I of Iraq was legitimized and proclaimed King by a plebiscite in 1921, independence was achieved in 1932, when the British Mandate officially ended.
 
 Independent Kingdom of Iraq
 
-Coat_of_arms_of_the_Kingdom_of_Iraq.svg Establishment of Arab Sunni domination in Iraq was followed by Assyrian, Yazidi and Shi'a unrests, which were all brutally suppressed. In 1936, the first military coup took place in the Kingdom of Iraq, as Bakr Sidqi succeeded in replacing the acting Prime Minister with his associate. Multiple coups followed in a period of political instability, peaking in 1941.
+Establishment of Arab Sunni domination in Iraq was followed by Assyrian, Yazidi and Shi'a unrests, which were all brutally suppressed. In 1936, the first military coup took place in the Kingdom of Iraq, as Bakr Sidqi succeeded in replacing the acting Prime Minister with his associate. Multiple coups followed in a period of political instability, peaking in 1941.
 
 During World War II, Iraqi regime of Regent 'Abd al-Ilah was overthrown in 1941 by the Golden Square officers, headed by Rashid Ali. The short lived pro-Nazi government of Iraq was defeated in May 1941 by the allied forces (with local Assyrian and Kurdish help) in Anglo-Iraqi War. Iraq was later used as a base for allied attacks on Vichy-French held Mandate of Syria and support for the Anglo-Soviet invasion of Iran.[19]
 
@@ -136,13 +136,11 @@ In the aftermath of the First Kurdish Iraqi War, a peace plan was announced in M
 
 Under Saddam Hussein
 
-Saddam1970s.jpg
-
 In July 1979, President Ahmed Hassan al-Bakr was forced to resign by Saddam Hussein, who assumed the offices of both President and Chairman of the Revolutionary Command Council.
 
 IRAQ’S TERRITORIAL CLAIMS TO NEIGHBORING COUNTRIES
 
-Iraq’s territorial claims to neighboring countries were largely due to the plans and promises of the Entente countries in 1919–1920, when the Ottoman Empire was divided, to create a more extensive Arab state in Iraq and Jazeera, which would also include significant territories of eastern Syria, southeastern Turkey, all of Kuwait and Iran’s border areas, which are shown on this English map of 1920.Mideast1920.jpg
+Iraq’s territorial claims to neighboring countries were largely due to the plans and promises of the Entente countries in 1919–1920, when the Ottoman Empire was divided, to create a more extensive Arab state in Iraq and Jazeera, which would also include significant territories of eastern Syria, southeastern Turkey, all of Kuwait and Iran’s border areas, which are shown on this English map of 1920.
 
 Territorial disputes with Iran led to an inconclusive and costly eight-year war, the _Iran–Iraq War_ (1980–1988, termed _Qādisiyyat-Saddām_ – 'Saddam's Qādisiyyah'), which devastated the economy. Iraq declared victory in 1988 but actually achieved a weary return to the _status quo ante bellum_, meaning both sides retained their original borders.
 
@@ -173,7 +171,7 @@ In March 2003, the United States and the United Kingdom, with military aid from 
 
 Occupation (2003–11)
 
-Iraq_2003_occupation.png A_U.S._Soldier_searches_an_Iraqi_boy_before_allowing_him_access_to_the_Basra_Operations_Center_during_a_Medical_Civic_Assistance_Program_in_Basra,_Iraq,_March_7,_2011_110307-A-WO967-008.jpg soldier searches an Iraqi boy, March 2011.]] In 2003, after the American and British invasion, Iraq was occupied by Coalition forces. On May 23, 2003, the UN Security Council unanimously approved a resolution lifting all economic sanctions against Iraq. As the country struggled to rebuild after three wars and a decade of sanctions, it was plagued by violence between a growing Iraqi insurgency and occupation forces. Saddam Hussein, who vanished in April, was captured on December 13, 2003.
+soldier searches an Iraqi boy, March 2011.]] In 2003, after the American and British invasion, Iraq was occupied by Coalition forces. On May 23, 2003, the UN Security Council unanimously approved a resolution lifting all economic sanctions against Iraq. As the country struggled to rebuild after three wars and a decade of sanctions, it was plagued by violence between a growing Iraqi insurgency and occupation forces. Saddam Hussein, who vanished in April, was captured on December 13, 2003.
 
 Jay Garner was appointed Interim Civil Administrator with three deputies, including Tim Cross. Garner was replaced in May 2003 by Paul Bremer, who was himself replaced by John Negroponte on April 19, 2004. Negroponte was the last US interim administrator and left Iraq in 2005. A parliamentary election was held in January 2005, followed by the drafting and ratification of a constitution and a further parliamentary election in December 2005.
 

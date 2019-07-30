@@ -1,4 +1,4 @@
-Vicente_Carducho,_"Ordenación_y_primera_misa_de_san_Juan_de_Mata".jpg]]
+]]
 
 In the Christian churches, HOLY ORDERS are ordained ministries such as bishop, priest, or deacon, and the sacrament or rite by which candidates are ordained to those orders. Churches recognizing these orders include the Catholic Church, the Eastern Orthodox (ιερωσύνη [_hierōsynē_], ιεράτευμα [_hierateuma_], Священство [_Svyashchenstvo_]), Oriental Orthodox, Anglican, Assyrian, Old Catholic, Independent Catholic and some Lutheran churches.[1] Except for Lutherans and some Anglicans, these churches regard ordination as a sacrament (the _sacramentum ordinis_). The Anglo-Catholic tradition within Anglicanism identifies more with the Roman Catholic position about the sacramental nature of ordination.
 
@@ -7,7 +7,7 @@ Denominations have varied conceptions of holy orders. In the Anglican churches a
 
 Eastern Christianity
 
-Cheirotonia_Presbyter_1.jpeg performs the laying on of hands (_Cheirotonia_), conferring the holy order of presbyter (priest) upon an Orthodox deacon.]] Cheirotonia_Presbyter_Pledge_of_Holy_Mysteries.jpeg Kheirotonia.jpg''), conferring the holy order of deacon upon an Orthodox subdeacon.]]
+performs the laying on of hands (_Cheirotonia_), conferring the holy order of presbyter (priest) upon an Orthodox deacon.]] ''), conferring the holy order of deacon upon an Orthodox subdeacon.]]
 
 The Eastern Orthodox Church considers ordination (known as _Cheirotonia_, "laying on of hands") to be a Sacred Mystery (what in the West is called a sacrament). Although all other mysteries may be performed by a presbyter, ordination may only be conferred by a bishop, and ordination of a bishop may only be performed by several bishops together. Cheirotonia always takes place during the Divine Liturgy.
 
@@ -36,7 +36,7 @@ Roman Catholicism
 
     _See: Holy orders (Catholic Church), Priesthood (Catholic Church) and Bishop (Catholic Church)_
 
-Holy_Orders_Picture.jpg to the Catholic priesthood (Latin rite). Devotional card, 1925.]]
+to the Catholic priesthood (Latin rite). Devotional card, 1925.]]
 
 The ministerial orders of the Catholic Church include the orders of bishops, deacons and presbyters, which in Latin is _sacerdos_.[12] The ordained priesthood and common priesthood (or priesthood of the all the baptized) are different in function and essence.[13]
 
@@ -47,7 +47,7 @@ While the consecrated life is neither clerical nor lay by definition,[15] cleric
 
 Process and sequence
 
-Priestly_ordination.jpg imposes hands upon the deacon who is by that matter and the form of the consecratory preface ordained to the priesthood. Pictured is the third imposition of hands as in the pre-1968 Roman Pontifical, in 1999, France.]]
+imposes hands upon the deacon who is by that matter and the form of the consecratory preface ordained to the priesthood. Pictured is the third imposition of hands as in the pre-1968 Roman Pontifical, in 1999, France.]]
 
 The sequence in which holy orders are received are: minor orders, deacon, priest, bishop.
 
@@ -56,8 +56,6 @@ For Catholics, it is typical in the year of seminary training that a man will be
 Orthodox seminarians are typically tonsured as readers before entering seminary, and may later be made subdeacons or deacons; customs vary between seminaries and between Orthodox jurisdictions. Some deacons remain permanently in the diaconate while most subsequently are ordained as priests. Orthodox clergy are typically either married or monastic. Monastic deacons are called hierodeacons, monastic priests are called hieromonks. Orthodox clergy who marry must do so prior to ordination to the subdiaconate (or diaconate, according to local custom) and typically one is either tonsured a monk or married before ordination. A deacon or priest may not marry, or remarry if widowed, without abandoning his clerical office. Often, widowed priests take monastic vows. Orthodox bishops are always monks; a single or widowed man may be elected a bishop but he must be tonsured a monk before consecration as a bishop.
 
 For Anglicans, a person is usually ordained a deacon once he (or she) has completed training at a theological college. The historic practice of a bishop tutoring a candidate himself ("reading for orders") is still to be found. The candidate then typically serves as an assistant curate and may later be ordained as a priest at the discretion of the bishop. Other deacons may choose to remain in this order. Anglican deacons can preach sermons, perform baptisms and conduct funerals, but, unlike priests, cannot celebrate the Eucharist. In most branches of the Anglican church, women can be ordained as priests, and in some of them, can also be ordained bishops.
-
-Ordination_sacerdotale.jpg
 
 Bishops are chosen from among priests in churches that adhere to Catholic usage. In the Roman Catholic Church, bishops, like priests, are celibate and thus unmarried; further, a bishop is said to possess the fullness of the sacrament of holy orders, empowering him to ordain deacons, priests, and – with papal consent – other bishops. If a bishop, especially one acting as an ordinary – a head of a diocese or archdiocese – is to be ordained, three bishops must usually co-consecrate him with one bishop, usually an archbishop or the bishop of the place, being the chief consecrating prelate.
 

@@ -1,6 +1,6 @@
 ALPHA (uppercase , lowercase ; , _álpha_, modern pronunciation _álfa_) is the first letter of the Greek alphabet. In the system of Greek numerals, it has a value of 1.
 
-It was derived from the Phoenician and Hebrew letter aleph phoenician_aleph.svg - an ox or leader.[1]
+It was derived from the Phoenician and Hebrew letter aleph - an ox or leader.[1]
 
 Letters that arose from alpha include the Latin A and the Cyrillic letter А.
 
@@ -58,7 +58,7 @@ According to Plutarch's natural order of attribution of the vowels to the planet
 
 Alpha and Omega
 
-Memorial_Stained_Glass,_Yeo_Hall,_Chapel,_Royal_Military_College_of_Canada_605_Oliver_Tiffany_&_203_Williiam_Bermingham.jpg features Alpha and Omega]] Alpha, both as a symbol and term, is used to refer to or describe a variety of things, including the first or most significant occurrence of something. The New Testament has God declaring himself to be the "Alpha and Omega, the beginning and the end, the first and the last." (Revelation 22:13, KJV, and see also 1:8). Because of this symbolism, the characters ⍺ and ⍵ denote the left and right arguments in the APL programming language.
+features Alpha and Omega]] Alpha, both as a symbol and term, is used to refer to or describe a variety of things, including the first or most significant occurrence of something. The New Testament has God declaring himself to be the "Alpha and Omega, the beginning and the end, the first and the last." (Revelation 22:13, KJV, and see also 1:8). Because of this symbolism, the characters ⍺ and ⍵ denote the left and right arguments in the APL programming language.
 
 Language
 

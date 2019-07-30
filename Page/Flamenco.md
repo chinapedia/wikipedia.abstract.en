@@ -16,7 +16,7 @@ Another theory is that the Spanish word _flamenco_ is a derivative of the Spanis
 
 _Palos_
 
-Palos_flamencos.jpg _Palos_ (formerly known as _cantes_) are flamenco styles, classified by criteria such as rhythmic pattern, mode, chord progression, stanzaic form and geographic origin. There are over 50 _palos_, some are sung unaccompanied while others have guitar or other accompaniment. Some forms are danced while others are not. Some are reserved for men and others for women while some may be performed by either, though these traditional distinctions are breaking down: the _Farruca_, for example, once a male dance, is now commonly performed by women too.
+_Palos_ (formerly known as _cantes_) are flamenco styles, classified by criteria such as rhythmic pattern, mode, chord progression, stanzaic form and geographic origin. There are over 50 _palos_, some are sung unaccompanied while others have guitar or other accompaniment. Some forms are danced while others are not. Some are reserved for men and others for women while some may be performed by either, though these traditional distinctions are breaking down: the _Farruca_, for example, once a male dance, is now commonly performed by women too.
 
 There are many ways to categorize _Palos_ but they traditionally fall into three classes: the most serious is known as _cante jondo_ (or _cante grande_), while lighter, frivolous forms are called _cante chico_. Forms that do not fit either category are classed as _cante intermedio_.[13] These are the best known _palos_:[14][15]
 
@@ -54,7 +54,7 @@ A typical flamenco recital with voice and guitar accompaniment, comprises a seri
 
 Harmony
 
-Flamenco uses the Flamenco mode (which can also be described as the modern Phrygian mode (_modo frigio_), or a harmonic version of that scale with a major 3rd degree), in addition to the major and minor scales commonly used in modern Western music. The Phrygian mode occurs in _palos_ such as soleá, most bulerías, siguiriyas, tangos and tientos. E_Phrygian_Scale.PNG
+Flamenco uses the Flamenco mode (which can also be described as the modern Phrygian mode (_modo frigio_), or a harmonic version of that scale with a major 3rd degree), in addition to the major and minor scales commonly used in modern Western music. The Phrygian mode occurs in _palos_ such as soleá, most bulerías, siguiriyas, tangos and tientos.
 
 A typical chord sequence, usually called the "Andalusian cadence" may be viewed as in a modified Phrygian: in E the sequence is AM–G–F–E.[18] According to Manolo Sanlúcar E is here the tonic, F has the harmonic function of dominant while AM and G assume the functions of subdominant and mediant respectively.[19]
 
@@ -103,20 +103,18 @@ There are three types of 12-beat rhythms, which vary in their layouts, or use of
 
 The Bulerías is the emblematic palo of flamenco: today its 12-beat cycle is most often played with accents on the 3rd, 6th, 8th, 10th and 12th beats. The accompanying _palmas_ are played in groups of 6 beats, giving rise to a multitude of counter-rhythms and percussive voices within the 12 beat compás.
 
-Flamenco_Compas.theora.ogv with emphasis as [12] 1 2 [3] 4 5 [6] 7 [8] 9 [10] 11 – also the rhythm for the song _America_ from the _West Side Story_]]
+with emphasis as [12] 1 2 [3] 4 5 [6] 7 [8] 9 [10] 11 – also the rhythm for the song _America_ from the _West Side Story_]]
 
 
 Forms of flamenco expression
 
 Toque (guitar)
 
-Paco_de_lucia_2007.jpg, one of the most commercially successful exponents of flamenco.[21]]]
+, one of the most commercially successful exponents of flamenco.[21]]]
 
 The origins, history and importance of the flamenco guitar is covered in the main Wikipedia entry for the Flamenco guitar.
 
 Cante (song)
-
-Flamenco_001.jpg
 
 The origins, history and importance of the cante is covered in the main Wikipedia entry for the cante flamenco.
 
@@ -124,7 +122,7 @@ Baile (dance)
 
 _El baile flamenco_[22] is known for its emotional intensity, proud carriage, expressive use of the arms and rhythmic stamping of the feet (not to be confused with tap dance or Irish dance which use different techniques). As with any dance form, many different styles of flamenco have developed.
 
-In the twentieth century, flamenco danced informally at gitano (Roma) celebrations in Spain was considered the most "authentic" form of flamenco. There is less virtuoso technique in gitano flamenco, but the music and steps are fundamentally the same. The arms are noticeably different from classical flamenco, curving around the head and body rather than extending, often with a bent elbow. Tablao_Cordobés_06.jpg "Flamenco puro" is considered the form of performance flamenco closest to its gitano influences. In this style, the dance is always performed solo, and is improvised rather than choreographed. Some purists frown on castanets (even though they can be seen in many early 20th century photos of flamenco dancers).
+In the twentieth century, flamenco danced informally at gitano (Roma) celebrations in Spain was considered the most "authentic" form of flamenco. There is less virtuoso technique in gitano flamenco, but the music and steps are fundamentally the same. The arms are noticeably different from classical flamenco, curving around the head and body rather than extending, often with a bent elbow. "Flamenco puro" is considered the form of performance flamenco closest to its gitano influences. In this style, the dance is always performed solo, and is improvised rather than choreographed. Some purists frown on castanets (even though they can be seen in many early 20th century photos of flamenco dancers).
 
 "Classical flamenco" is the style most frequently performed by Spanish flamenco dance companies. It is danced largely in a proud and upright style. For women, the back is often held in a marked back bend. Unlike the more gitano influenced styles, there is little movement of the hips, the body is tightly held and the arms are long, like a ballet dancer. In fact many of the dancers in these companies have trained in ballet as well as flamenco. Flamenco has both influenced and been influenced by ballet, as evidenced by the fusion of the two created by 'La Argentinita' in the early part of the twentieth century and later, by Joaquín Cortés.
 
@@ -134,7 +132,7 @@ Modern flamenco is a highly technical dance style requiring years of study. The 
 
 "Flamenco nuevo" is a recent style in flamenco, characterized by pared-down costumes (the men often dance bare-chested, and the women in plain jersey dresses). Props such as castanets, fans and shawls are rarely used. Dances are choreographed and include influences from other dance styles.
 
-Deborah_Greenfield.jpg The flamenco most foreigners are familiar with is a style that was developed as a spectacle for tourists. To add variety, group dances are included and even solos are more likely to be choreographed. The frilly, voluminous spotted dresses are derived from a style of dress worn for the Sevillanas at the annual Feria in Seville.
+The flamenco most foreigners are familiar with is a style that was developed as a spectacle for tourists. To add variety, group dances are included and even solos are more likely to be choreographed. The frilly, voluminous spotted dresses are derived from a style of dress worn for the Sevillanas at the annual Feria in Seville.
 
 In traditional flamenco, young people are not considered to have the emotional maturity to adequately convey the _duende_ (soul) of the genre. Therefore, unlike other dance forms, where dancers turn professional early to take advantage of youth and strength, many flamenco dancers do not hit their peak until their thirties and will continue to perform into their fifties and beyond.
 

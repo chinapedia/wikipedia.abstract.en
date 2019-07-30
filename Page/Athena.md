@@ -9,7 +9,7 @@ In the later writings of the Roman poet Ovid, Athena was said to have competed a
 
 Etymology
 
-Akropolis_by_Leo_von_Klenze.jpg. Athena's name probably comes from the name of the city of Athens.]]
+. Athena's name probably comes from the name of the city of Athens.]]
 
 Athena is associated with the city of Athens. The name of the city in ancient Greek is _Ἀθῆναι_ (_Athenai_), a plural toponym, designating the place where—according to myth—she presided over the _Athenai_, a sisterhood devoted to her worship. In ancient times, scholars argued whether Athena was named after Athens or Athens after Athena. Now scholars generally agree that the goddess takes her name from the city; the ending -_ene_ is common in names of locations, but rare for personal names. Testimonies from different cities in ancient Greece attest that similar city goddesses were worshipped in other cities and, like Athena, took their names from the cities where they were worshipped. For example, in Mycenae there was a goddess called Mykene, whose sisterhood was known as _Mykenai_, whereas at Thebes an analogous deity was called Thebe, and the city was known under the plural form _Thebai_ (or Thebes, in English, where the 's' is the plural formation). The name _Athenai_ is likely of Pre-Greek origin because it contains the presumably Pre-Greek morpheme _*-ān-_.
 
@@ -20,7 +20,7 @@ Thus, Plato believed that Athena's name was derived from Greek , _Atheonóa_—w
 
 Origins
 
-Goddess-boars-tusk-griffin.jpg dating the late thirteenth century BC depicting a warrior goddess, possibly Athena, wearing a boar's tusk helmet and clutching a griffin]]
+dating the late thirteenth century BC depicting a warrior goddess, possibly Athena, wearing a boar's tusk helmet and clutching a griffin]]
 
 Athena was originally the Aegean goddess of the palace, who presided over household crafts and protected the king. A single Mycenaean Greek inscription _a-ta-na po-ti-ni-ja_ /Athana potnia/ appears at Knossos in the Linear B tablets from the Late Minoan II-era "Room of the Chariot Tablets"; these comprise the earliest Linear B archive anywhere. Although _Athana potnia_ is often translated _Mistress Athena_, it could also mean "the _Potnia_ of Athana", or _the Lady of Athens_. However, any connection to the city of Athens in the Knossos inscription is uncertain. A sign series _a-ta-no-dju-wa-ja_ appears in the still undeciphered corpus of Linear A tablets, written in the unclassified Minoan language.[2] This could be connected with the Linear B Mycenaean expressions _a-ta-na po-ti-ni-ja_ and _di-u-ja_ or _di-wi-ja_ (_Diwia_, "of Zeus" or, possibly, related to a homonymous goddess), resulting in a translation "Athena of Zeus" or "divine Athena". Similarly, in the Greek mythology and epic tradition, Athena figures as a daughter of Zeus (Διός θυγάτηρ; _cfr._ Dyeus). However, the inscription quoted seems to be very similar to "a-ta-nū-tī wa-ya", quoted as SY Za 1 by Jan Best. Best translates the initial _a-ta-nū-tī_, which is recurrent in line beginnings, as "I have given".
 
@@ -28,7 +28,7 @@ A Mycenean fresco depicts two women extending their hands towards a central figu
 
 Nilsson and others have claimed that, in early times, Athena was either an owl herself or a bird goddess in general. In the third book of the _Odyssey_, she takes the form of a sea-eagle. Proponents of this view argue that she dropped her prophylactic owl-mask before she lost her wings. "Athena, by the time she appears in art," Jane Ellen Harrison remarks, "has completely shed her animal form, has reduced the shapes she once wore of snake and bird to attributes, but occasionally in black-figure vase-paintings she still appears with wings."[3]
 
-Ancient_Akkadian_Cylindrical_Seal_Depicting_Inanna_and_Ninshubur.jpg cylinder seal (dating 2334–2154 BC) depicting Inanna, the goddess of war, armored and carrying weapons, resting her foot on the back of a lion]]
+cylinder seal (dating 2334–2154 BC) depicting Inanna, the goddess of war, armored and carrying weapons, resting her foot on the back of a lion]]
 
 It is generally agreed that the cult of Athena preserves some aspects of the Proto-Indo-European transfunctional goddess. The cult of Athena may have also been influenced by those of Near Eastern warrior goddesses such as the East Semitic Ishtar and the Ugaritic Anat, both of whom were often portrayed bearing arms. Classical scholar Charles Penglase notes that Athena closely resembles Inanna in her role as a "terrifying warrior goddess" and that both goddesses were closely linked with creation. Athena's birth from the head of Zeus may be derived from the earlier Sumerian myth of Inanna's descent into and return from the Underworld.
 
@@ -39,19 +39,19 @@ Cult and patronages
 
 Panhellenic and Athenian cult
 
-Tétradrachme_athénien_représentant_Athéna.jpg representing the goddess Athena]] Peplos_scene_BM_EV.JPG'' was woven for Athena and ceremonially brought to dress her cult image (British Museum).]]
+representing the goddess Athena]] '' was woven for Athena and ceremonially brought to dress her cult image (British Museum).]]
 
 In her aspect of _Athena Polias_, Athena was venerated as the goddess of the city and the protectress of the citadel. In Athens, the Plynteria, or "Feast of the Bath", was observed every year at the end of the month of Thargelion. The festival lasted for five days. During this period, the priestesses of Athena, or _plyntrídes_, performed a cleansing ritual within the Erechtheion, a sanctuary devoted to Athena and Poseidon. Here Athena's statue was undressed, her clothes washed, and body purified. Athena was worshipped at festivals such as Chalceia as _Athena Ergane_, the patroness of various crafts, especially weaving. She was also the patron of metalworkers and was believed to aid in the forging of armor and weapons. During the late fifth century BC, the role of goddess of philosophy became a major aspect of Athena's cult.
 
 As _Athena Promachos_, she was believed to lead soldiers into battle. Athena represented the disciplined, strategic side of war, in contrast to her brother Ares, the patron of violence, bloodlust, and slaughter—"the raw force of war". Athena was believed to only support those fighting for a just cause and was thought to view war primarily as a means to resolve conflict. The Greeks regarded Athena with much higher esteem than Ares. Athena was especially worshipped in this role during the festivals of the Panathenaea and Pamboeotia, both of which prominently featured displays of athletic and military prowess. As the patroness of heroes and warriors, Athena was believed to favor those who used cunning and intelligence rather than brute strength.
 
-The_Parthenon_in_Athens.jpg on the Athenian Acropolis, which is dedicated to Athena Parthenos]]
+on the Athenian Acropolis, which is dedicated to Athena Parthenos]]
 
 In her aspect as a warrior maiden, Athena was known as _Parthenos_ ( "virgin"), because, like her fellow goddesses Artemis and Hestia, she was believed to remain perpetually a virgin. Athena's most famous temple, the Parthenon on the Athenian Acropolis, takes its name from this title. According to Karl Kerényi, a scholar of Greek mythology, the name _Parthenos_ is not merely an observation of Athena's virginity, but also a recognition of her role as enforcer of rules of sexual modesty and ritual mystery. Even beyond recognition, the Athenians allotted the goddess value based on this pureness of virginity, which they upheld as a rudiment of female behavior. Kerényi's study and theory of Athena explains her virginal epithet as a result of her relationship to her father Zeus and a vital, cohesive piece of her character throughout the ages. This role is expressed in a number of stories about Athena. Marinus of Neapolis reports that when Christians removed the statue of the goddess from the Parthenon, a beautiful woman appeared in a dream to Proclus, a devotee of Athena, and announced that the _"Athenian Lady"_ wished to dwell with him.[5]
 
 Regional cults
 
-Athena_shown_on_the_reverse_side_of_a_Pergamene_coin_minted_by_Attalus_I.jpg silver tetradrachm minted by Attalus I, showing Athena seated on a throne ( BC)]]
+silver tetradrachm minted by Attalus I, showing Athena seated on a throne ( BC)]]
 
 Athena was not only the patron goddess of Athens, but also other cities, including Argos, Sparta, Gortyn, Lindos, and Larisa. The various cults of Athena were all branches of her panhellenic cult and often proctored various initiation rites of Grecian youth, such as the passage into citizenship by young men or the passage of young women into marriage. These cults were portals of a uniform socialization, even beyond mainland Greece. Athena was frequently equated with Aphaea, a local goddess of the island of Aegina, originally from Crete and also associated with Artemis and the nymph Britomartis. In Arcadia, she was assimilated with the ancient goddess Alea and worshiped as Athena Alea. Sanctuaries dedicated to Athena Alea were located in the Laconian towns of Mantineia and Tegea. The temple of Athena Alea in Tegea was an important religious center of ancient Greece. The geographer Pausanias was informed that the _temenos_ had been founded by Aleus.[6]
 
@@ -66,7 +66,7 @@ Athena was sometimes given the epithet _Hippia_ (Ἵππια "of the horses", "e
 
 The Greek biographer Plutarch (46–120 AD) refers to an instance during the Parthenon's construction of her being called _Athena Hygieia_ (Ὑγίεια, i. e. personified "Health") after inspiring a physician to a successful course of treatment.[9]
 
-Greek_coin_tetradrachme_panathenaic_games.jpg, surrounded by an olive wreath. Reverse of an Athenian silver tetradrachm, 175 BC]]
+, surrounded by an olive wreath. Reverse of an Athenian silver tetradrachm, 175 BC]]
 
 In Homer's epic works, Athena's most common epithet is _Glaukopis_ (), which usually is translated as, "bright-eyed" or "with gleaming eyes".[10] The word is a combination of _glaukós_ (, meaning "gleaming, silvery", and later, "bluish-green" or "gray")[11] and _ṓps_ (, "eye, face").[12] The word _glaúx_ (,[13] "little owl")[14] is from the same root, presumably according to some, because of the bird's own distinctive eyes. Athena was clearly associated with the owl from very early on; in archaic images, she is frequently depicted with an owl perched on her hand. Through its association with Athena, the owl evolved into the national mascot of the Athenians and eventually became a symbol of wisdom.
 
@@ -81,7 +81,7 @@ Mythology
 
 Birth
 
-Amphora_birth_Athena_Louvre_F32.jpg, as he grasps the clothing of Eileithyia on the right; black-figured amphora, 550–525 BC, Louvre.]]
+, as he grasps the clothing of Eileithyia on the right; black-figured amphora, 550–525 BC, Louvre.]]
 
 In the classical Olympian pantheon, Athena was regarded as the favorite daughter of Zeus, born fully armed from his forehead. The story of her birth comes in several versions. The earliest mention is in Book V of the _Iliad_, when Ares accuses Zeus of being biased in favor of Athena because "_autos egeinao_" (literally "you fathered her", but probably intended as "you gave birth to her").[19] In the version recounted by Hesiod in his _Theogony_, Zeus married the goddess Metis, who is described as the "wisest among gods and mortal men", and engaged in sexual intercourse with her.[20] After learning that Metis was pregnant, however, he became afraid that the unborn offspring would try to overthrow him, because Gaia and Ouranos had prophesied that Metis would bear children wiser than their father.[21] In order to prevent this, Zeus tricked Metis into letting him swallow her, but it was too late because Metis had already conceived.[22] A later account of the story from the _Bibliotheca_ of Pseudo-Apollodorus, written in the second century AD, makes Metis Zeus's unwilling sexual partner, rather than his wife.[23] According to this version of the story, Metis transformed into many different shapes in effort to escape Zeus,[24] but Zeus successfully raped her and swallowed her.[25]
 
@@ -91,7 +91,7 @@ Hesiod states that Hera was so annoyed at Zeus for having given birth to a child
 
 Pallas Athena
 
-Pompeii_-_Casa_del_Menandro_-_Menelaos.jpg showing Ajax the Lesser dragging Cassandra away from the _palladion_ during the fall of Troy, an event which invoked Athena's wrath against the Greek armies]]
+showing Ajax the Lesser dragging Cassandra away from the _palladion_ during the fall of Troy, an event which invoked Athena's wrath against the Greek armies]]
 
 Athena's epithet _Pallas_ is derived either from , meaning "to brandish [as a weapon]", or, more likely, from and related words, meaning "youth, young woman".[29] On this topic, Walter Burkert says "she is the Pallas of Athens, _Pallas Athenaie_, just as Hera of Argos is _Here Argeie_." In later times, after the original meaning of the name had been forgotten, the Greeks invented myths to explain its origin, such as those reported by the Epicurean philosopher Philodemus and the _Bibliotheca_ of Pseudo-Apollodorus, which claim that _Pallas_ was originally a separate entity, whom Athena had slain in combat.[30]
 
@@ -101,11 +101,11 @@ The _palladion_ was a statue of Athena that was said to have stood in her temple
 
 Lady of Athens
 
-René-Antoine_Houasse_-_The_Dispute_of_Minerva_and_Neptune,_1689.jpg and Neptune'' by René-Antoine Houasse ()]]
+and Neptune'' by René-Antoine Houasse ()]]
 
 In a founding myth reported by Pseudo-Apollodorus, Athena competed with Poseidon for the patronage of Athens. They agreed that each would give the Athenians one gift and that Cecrops, the king of Athens, would determine which gift was better. Poseidon struck the ground with his trident and a salt water spring sprang up; this gave the Athenians access to trade and water. Athens at its height was a significant sea power, defeating the Persian fleet at the Battle of Salamis—but the water was salty and undrinkable. In an alternative version of the myth from Vergil's _Georgics_, Poseidon instead gave the Athenians the first horse. Athena offered the first domesticated olive tree. Cecrops accepted this gift and declared Athena the patron goddess of Athens. The olive tree brought wood, oil, and food, and became a symbol of Athenian economic prosperity. Robert Graves was of the opinion that "Poseidon's attempts to take possession of certain cities are political myths", which reflect the conflict between matriarchal and patriarchal religions.
 
-Atena-Giustiniani---Vatican.jpg'', a Roman copy of a Greek statue of Pallas Athena. The guardian serpent of the Athenian Acropolis sits coiled at her feet.]]
+'', a Roman copy of a Greek statue of Pallas Athena. The guardian serpent of the Athenian Acropolis sits coiled at her feet.]]
 
 Pseudo-Apollodorus records an archaic legend, which claims that Hephaestus once attempted to rape Athena, but she pushed him away, causing him to ejaculate on her thigh. Athena wiped the semen off using a tuft of wool, which she tossed into the dust, impregnating Gaia and causing her to give birth to Erichthonius. Athena adopted Erichthonius as her son and raised him. The Roman mythographer Hyginus records a similar story in which Hephaestus demanded Zeus to let him marry Athena since he was the one who had smashed open Zeus's skull, allowing Athena to be born. Zeus agreed to this and Hephaestus and Athena were married, but, when Hephaestus was about to consummate the union, Athena vanished from the bridal bed, causing him to ejaculate on the floor, thus impregnating Gaia with Erichthonius.
 
@@ -117,7 +117,7 @@ Herodotus records that a serpent lived in a crevice on the north side of the sum
 
 Patron of heroes
 
-Douris_cup_Jason_Vatican_16545.jpg dragon disgorges the hero Jason]]
+dragon disgorges the hero Jason]]
 
 According to Pseudo-Apollodorus's _Bibliotheca_, Athena advised Argos, the builder of the _Argo_, the ship on which the hero Jason and his band of Argonauts sailed, and aided in the ship's construction.[32] Pseudo-Apollodorus also records that Athena guided the hero Perseus in his quest to behead Medusa. She and Hermes, the god of travelers, appeared to Perseus after he set off on his quest and gifted him with tools he would need to kill the Gorgon.[33] Athena gave Perseus a polished bronze shield to view Medusa's reflection rather than looking at her directly and thereby avoid being turned to stone.[34] Hermes gave him an adamantine scythe to cut off Medusa's head.[35] When Perseus swung his blade to behead Medusa, Athena guided it, allowing his scythe to cut it clean off.[36] According to Pindar's _Thirteenth Olympian Ode_, Athena helped the hero Bellerophon tame the winged horse Pegasus by giving him a bit.[37]
 
@@ -129,7 +129,7 @@ File:Athena Herakles Staatliche Antikensammlungen 2648.jpg|Athena and Heracles o
 
 Punishment myths
 
-Gorgona_pushkin.jpg from the fourth century BC]]
+from the fourth century BC]]
 
 The Gorgoneion appears to have originated as an apotropaic symbol intended to ward off evil. In a late myth invented to explain the origins of the Gorgon, Medusa is described as having been a young priestess who served in the temple of Athena in Athens. Poseidon lusted after Medusa, and raped her in the temple of Athena, refusing to allow her vow of chastity to stand in his way. Upon discovering the desecration of her temple, Athena transformed Medusa into a hideous monster with serpents for hair whose gaze would turn any mortal to stone.
 
@@ -137,7 +137,7 @@ In his _Twelfth Pythian Ode_, Pindar recounts the story of how Athena invented t
 
 A myth told by the early third-century BC Hellenistic poet Callimachus in his _Hymn_ 5 begins with Athena bathing in a spring on Mount Helicon at midday with one of her favorite companions, the nymph Chariclo. Chariclo's son Tiresias happened to be hunting on the same mountain and came to the spring searching for water. He inadvertently saw Athena naked, so she struck him blind to ensure he would never again see what man was not intended to see. Chariclo intervened on her son's behalf and begged Athena to have mercy. Athena replied that she could not restore Tiresias's eyesight, so, instead, she gave him the ability to understand the language of the birds and thus foretell the future.
 
-René-Antoine_Houasse_-_Minerve_et_Arachne_(Versailles).jpg and Arachne'' by René-Antoine Houasse (1706)]]
+and Arachne'' by René-Antoine Houasse (1706)]]
 
 The fable of Arachne appears in Ovid's _Metamorphoses_ (8 AD) (vi.5–54 and 129–145), which is nearly the only extant source for the legend. The story does not appear to have been well known prior to Ovid's rendition of it and the only earlier reference to it is a brief allusion in Virgil's _Georgics_, (29 BC) (iv, 246) that does not mention Arachne by name. According to Ovid, Arachne (whose name means _spider_ in ancient Greek[39]) was the daughter of a famous dyer in Tyrian purple in Hypaipa of Lydia, and a weaving student of Athena. She became so conceited of her skill as a weaver that she began claiming that her skill was greater than that of Athena herself. Athena gave Arachne a chance to redeem herself by assuming the form of an old woman and warning Arachne not to offend the deities. Arachne scoffed and wished for a weaving contest, so she could prove her skill.
 
@@ -145,7 +145,7 @@ Athena wove the scene of her victory over Poseidon in the contest for the patron
 
 Trojan War
 
-Judgement_Paris_Antioch_Louvre_Ma3443.jpg dating to the second century AD, depicting the Judgement of Paris]]
+dating to the second century AD, depicting the Judgement of Paris]]
 
 The myth of the Judgement of Paris is mentioned briefly in the _Iliad_, but is described in depth in an epitome of the _Cypria_, a lost poem of the Epic Cycle, which records that all the gods and goddesses as well as various mortals were invited to the marriage of Peleus and Thetis (the eventual parents of Achilles). Only Eris, goddess of discord, was not invited. She was annoyed at this, so she arrived with a golden apple inscribed with the word καλλίστῃ (kallistēi, "for the fairest"), which she threw among the goddesses. Aphrodite, Hera, and Athena all claimed to be the fairest, and thus the rightful owner of the apple.
 
@@ -171,7 +171,7 @@ Post-classical culture
 
 Art and symbolism
 
-Austria_Parlament_Athena_bw.jpg. Athena has been used throughout western history as a symbol of freedom and democracy.]]
+. Athena has been used throughout western history as a symbol of freedom and democracy.]]
 
 Early Christian writers, such as Clement of Alexandria and Firmicus, denigrated Athena as representative of all the things that were detestable about paganism; they condemned her as "immodest and immoral". During the Middle Ages, however, many attributes of Athena were given to the Virgin Mary, who, in fourth century portrayals, was often depicted wearing the Gorgoneion. Some even viewed the Virgin Mary as a warrior maiden, much like Athena Parthenos; one anecdote tells that the Virgin Mary once appeared upon the walls of Constantinople when it was under siege by the Avars, clutching a spear and urging the people to fight. During the Middle Ages, Athena became widely used as a Christian symbol and allegory, and she appeared on the family crests of certain noble houses.
 
@@ -185,7 +185,7 @@ Palas y el Centauro.jpg|_Pallas and the Centaur_ ( 1482) by Sandro Botticelli Mi
 
 Modern interpretations
 
-Hellen_altar.png Hellenist altar dedicated to Athena and Apollo]]
+Hellenist altar dedicated to Athena and Apollo]]
 
 One of Sigmund Freud's most treasured possessions was a small, bronze sculpture of Athena, which sat on his desk. Freud once described Athena as "a woman who is unapproachable and repels all sexual desires - since she displays the terrifying genitals of the Mother." Feminist views on Athena are sharply divided; some feminists regard her as a symbol of female empowerment, while others regard her as "the ultimate patriarchal sell out... who uses her powers to promote and advance men rather than others of her sex." In contemporary Wicca, Athena is venerated as an aspect of the Goddess and some Wiccans believe that she may bestow the "Owl Gift" ("the ability to write and communicate clearly") upon her worshippers. Due to her status as one of the twelve Olympians, Athena is a major deity in Hellenismos, a Neopagan religion which seeks to authentically revive and recreate the religion of ancient Greece in the modern world.
 

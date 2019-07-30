@@ -11,7 +11,7 @@ Aurangzeb has often been referred to as Amir al-Mu'minin (Leader of the Faithful
 
 Early life
 
-ShujaAurganzebMurad.jpg, Aurangzeb and Murad Baksh in their younger years.]] Aurangzeb was born on 3 November 1618, in Dahod, Gujarat. He was the third son and sixth child of Shah Jahan and Mumtaz Mahal.[43] In June 1626, after an unsuccessful rebellion by his father, Aurangzeb and his brother Dara Shukoh were kept as hostages under their grandparents' (Nur Jahan and Jahangir) Lahore court. On 26 February 1628, Shah Jahan was officially declared the Mughal Emperor, and Aurangzeb returned to live with his parents at Agra Fort, where Aurangzeb received his formal education in Arabic and Persian. His daily allowance was fixed at Rs. 500, which he spent on religious education and the study of history.
+, Aurangzeb and Murad Baksh in their younger years.]] Aurangzeb was born on 3 November 1618, in Dahod, Gujarat. He was the third son and sixth child of Shah Jahan and Mumtaz Mahal.[43] In June 1626, after an unsuccessful rebellion by his father, Aurangzeb and his brother Dara Shukoh were kept as hostages under their grandparents' (Nur Jahan and Jahangir) Lahore court. On 26 February 1628, Shah Jahan was officially declared the Mughal Emperor, and Aurangzeb returned to live with his parents at Agra Fort, where Aurangzeb received his formal education in Arabic and Persian. His daily allowance was fixed at Rs. 500, which he spent on religious education and the study of history.
 
 On 28 May 1633, Aurangzeb escaped death when a powerful war elephant stampeded through the Mughal Imperial encampment. He rode against the elephant and struck its trunk with a lance,[44] and successfully defended himself from being crushed. Aurangzeb's valour was appreciated by his father who conferred him the title of _Bahadur_ (Brave) and had him weighed in gold and presented gifts worth Rs. 200,000. This event was celebrated in Persian and Urdu verses, and Aurangzeb said:[45]
 
@@ -20,13 +20,13 @@ Early military campaigns and administration
 
 Bundela War
 
-The_capture_of_Orchha_by_imperial_forces_(October_1635).jpg under the command of Aurangzeb recaptures Orchha in October 1635.]]
+under the command of Aurangzeb recaptures Orchha in October 1635.]]
 
 Aurangzeb was nominally in charge of the force sent to Bundelkhand with the intent of subduing the rebellious ruler of Orchha, Jhujhar Singh, who had attacked another territory in defiance of Shah Jahan's policy and was refusing to atone for his actions. By arrangement, Aurangzeb stayed in the rear, away from the fighting, and took the advice of his generals as the Mughal Army gathered and commenced the Siege of Orchha in 1635. The campaign was successful and Singh was removed from power.[46]
 
 Viceroy of the Deccan
 
-Prince_Awrangzeb_(Aurangzeb)_facing_a_maddened_elephant_named_Sudhakar_(7_June_1633).jpg'' depicts Prince Aurangzeb facing a maddened war elephant named _Sudhakar_.[47]]]
+'' depicts Prince Aurangzeb facing a maddened war elephant named _Sudhakar_.[47]]]
 
 Aurangzeb was appointed viceroy of the Deccan in 1636.[48] After Shah Jahan's vassals had been devastated by the alarming expansion of Ahmednagar during the reign of the Nizam Shahi boy-prince Murtaza Shah III, the emperor dispatched Aurangzeb, who in 1636 brought the Nizam Shahi dynasty to an end.[49] In 1637, Aurangzeb married the Safavid princess Dilras Banu Begum, posthumously known as Rabia-ud-Daurani. She was his first wife and chief consort as well as his favourite.[50][51][52] He also had an infatuation with a slave girl, Hira Bai, whose death at a young age greatly affected him. In his old age, he was under the charms of his concubine, Udaipuri Bai. The latter had formerly been a companion to Dara Shukoh.[53] In the same year, 1637, Aurangzeb was placed in charge of annexing the small Rajput kingdom of Baglana, which he did with ease.[54]
 
@@ -44,13 +44,11 @@ Aurangzeb proposed to resolve the situation by attacking the dynastic occupants 
 
 War of Succession
 
-Aurangzebs_palace.jpgs loyal to the Mughal Emperor Aurangzeb maintain their positions around the palace, at Aurangabad, in 1658.]] The four sons of Shah Jahan all held governorships during their father's reign. The emperor favoured the eldest, Dara Shukoh.[64] This had caused resentment among the younger three, who sought at various times to strengthen alliances between themselves and against Dara. There was no Mughal tradition of primogeniture, the systematic passing of rule, upon an emperor's death, to his eldest son.[65] Instead it was customary for sons to overthrow their father and for brothers to war to the death among themselves.[66] Historian Satish Chandra says that "In the ultimate resort, connections among the powerful military leaders, and military strength and capacity [were] the real arbiters".[67] The contest for power was primarily between Dara Shikoh and Aurangzeb because, although all four sons had demonstrated competence in their official roles, it was around these two that the supporting cast of officials and other influential people mostly circulated.[68] There were ideological differences — Dara was an intellectual and a religious liberal in the mould of Akbar, while Aurangzeb was much more conservative — but, as historians Barbara D. Metcalf and Thomas R. Metcalf say, "To focus on divergent philosophies neglects the fact that Dara was a poor general and leader. It also ignores the fact that factional lines in the succession dispute were not, by and large, shaped by ideology."[69] Marc Gaborieau, professor of Indian studies at l'École des Hautes Études en Sciences Sociales,[70] explains that "The loyalties of [officials and their armed contingents] seem to have been motivated more by their own interests, the closeness of the family relation and above all the charisma of the pretenders than by ideological divides."[71] Muslims and Hindus did not divide along religious lines in their support for one pretender or the other nor, according to Chandra, is there much evidence to support the belief that Jahanara and other members of the royal family were split in their support. Jahanara, certainly, interceded at various times on behalf of all of the princes and was well-regarded by Aurangzeb even though she shared the religious outlook of Dara.[72]
+s loyal to the Mughal Emperor Aurangzeb maintain their positions around the palace, at Aurangabad, in 1658.]] The four sons of Shah Jahan all held governorships during their father's reign. The emperor favoured the eldest, Dara Shukoh.[64] This had caused resentment among the younger three, who sought at various times to strengthen alliances between themselves and against Dara. There was no Mughal tradition of primogeniture, the systematic passing of rule, upon an emperor's death, to his eldest son.[65] Instead it was customary for sons to overthrow their father and for brothers to war to the death among themselves.[66] Historian Satish Chandra says that "In the ultimate resort, connections among the powerful military leaders, and military strength and capacity [were] the real arbiters".[67] The contest for power was primarily between Dara Shikoh and Aurangzeb because, although all four sons had demonstrated competence in their official roles, it was around these two that the supporting cast of officials and other influential people mostly circulated.[68] There were ideological differences — Dara was an intellectual and a religious liberal in the mould of Akbar, while Aurangzeb was much more conservative — but, as historians Barbara D. Metcalf and Thomas R. Metcalf say, "To focus on divergent philosophies neglects the fact that Dara was a poor general and leader. It also ignores the fact that factional lines in the succession dispute were not, by and large, shaped by ideology."[69] Marc Gaborieau, professor of Indian studies at l'École des Hautes Études en Sciences Sociales,[70] explains that "The loyalties of [officials and their armed contingents] seem to have been motivated more by their own interests, the closeness of the family relation and above all the charisma of the pretenders than by ideological divides."[71] Muslims and Hindus did not divide along religious lines in their support for one pretender or the other nor, according to Chandra, is there much evidence to support the belief that Jahanara and other members of the royal family were split in their support. Jahanara, certainly, interceded at various times on behalf of all of the princes and was well-regarded by Aurangzeb even though she shared the religious outlook of Dara.[72]
 
 In 1656, a general under Qutb Shahi dynasty named Musa Khan led an army of 12,000 musketeers to attack Aurangzeb, and later on the same campaign Aurangzeb, in turn, rode against an army consisting 8,000 horsemen and 20,000 Karnataka musketeers.[73]
 
 Having made clear that he wanted Dara to succeed him, Shah Jahan became ill with stranguary in 1657 and was closeted under the care of his favourite son in the newly built city of Shahjahanabad (Old Delhi). Rumours of the death of Shah Jahan abounded and the younger sons were concerned that Dara might be hiding it for Machiavellian reasons. Thus, they took action: Shah Shuja In Bengal, where he had been governor since 1637, Prince Muhammad Shuja crowned himself King at RajMahal, and brought his cavalry, artillery and river flotilla upriver towards Agra. Near Varanasi his forces confronted a defending army sent from Delhi under the command of Prince Sulaiman Shukoh, son of Dara Shukoh, and Raja Jai Singh[74] while Murad did the same in his governorship of Gujarat and Aurangzeb did so in the Deccan. It is not known whether these preparations were made in the mistaken belief that the rumours of death were true or whether the challengers were just taking advantage of the situation.[75]
-
-Estampes_par_Nicolas_de_Larmessin.f153.Aurangzeb,_grand_moghol.jpg
 
 After regaining some of his health, Shah Jahan moved to Agra and Dara urged him to send forces to challenge Shah Shuja and Murad, who had declared themselves rulers in their respective territories. While Shah Shuja was defeated at Banares in February 1658, the army sent to deal with Murad discovered to their surprise that he and Aurangzeb had combined their forces,[76] the two brothers having agreed to partition the empire once they had gained control of it.[77] The two armies clashed at Dharmat in April 1658, with Aurangzeb being the victor. Shuja was being chased through Bihar and the victory of Aurangzeb proved this to be a poor decision by Dara Shikoh, who now had a defeated force on one front and a successful force unnecessarily pre-occupied on another. Realising that his recalled Bihar forces would not arrive at Agra in time to resist the emboldened Aurangzeb's advance, Dara scrambled to form alliances in order but found that Aurangzeb had already courted key potential candidates. When Dara's disparate, hastily concocted army clashed with Aurangzeb's well-disciplined, battle-hardened force at the Battle of Samugarh in late May, neither Dara's men nor his generalship were any match for Aurangzeb. Dara had also become over-confident in his own abilities and, by ignoring advice not to lead in battle while his father was alive, he cemented the idea that he had usurped the throne.[78] "After the defeat of Dara, Shah Jahan was imprisoned in the fort of Agra where he spent eight long years under the care of his favourite daughter Jahanara."[79]
 
@@ -65,15 +63,13 @@ Reign
 
 Bureaucracy
 
-Mughals.gif
-
 Aurangzeb's imperial bureaucracy employed significantly more Hindus than that of his predecessors. Between 1679 and 1707, the number of Hindu officials in the Mughal administration rose by half, many of them Marathas and Rajputs. His increasing employment of Hindus and Shia Muslims was deemed controversial at the time, with several of his fellow Sunni Muslim officials petitioning against it, which he rejected, and responded, "What connection have earthly affairs with religion? And what right have administrative works to meddle with bigotry? 'For you is your religion and for me is mine." He insisted on employment based on ability rather than religion.[85]
 
 Under Aurangzeb's reign, Hindus rose to represent 31.6% of Mughal nobility, the highest in the Mughal era. This was largely due to a substantial influx of Marathas, who played a key role in his successful Deccan campaign.[86] During his time, the number of Hindu Mansabdars increased from 22% to over 31% in the Mughal administration, as he needed them to continue his fight in the Deccan.[87] However, one of his Rajput nobles, Jaswant Singh of Jodhpur, Hindu ruler of Jodhpur, "destroyed mosques and built idol-temples in their stead" around 1658–1659, according to Aurangzeb. Despite this, relationships did not turn sour between the two, as they worked together for the next two decades up until Singh's death in the late 1670s.[88]
 
 Establishment of Islamic law
 
-Aurangzeb_27.jpg law by introducing the Fatawa-e-Alamgiri.]]
+law by introducing the Fatawa-e-Alamgiri.]]
 
 Aurangzeb was an orthodox Muslim ruler. Subsequent to the policies of his three predecessors, he endeavored to make Islam a dominant force in his reign. However these efforts brought him into conflict with the forces that were opposed to this revival.[89]
 
@@ -91,7 +87,7 @@ The introduction of Jizya in 1679 was a response to several events shortly befor
 
 Policy on temples and mosques
 
-The_Qoeens_and_ladies_of_the_harem_of_the_emperor_Aurangazeb_travelling_to_Kashmir.jpg During his reign, Aurangzeb ordered the destruction of many temples and some mosques. For example, he ordered the destruction of Vishvanath Temple at Varanasi for being a centre of conspiracy against the state, and he ordered the destruction of the Jama Masjid at Golkunda[109] after finding out that its ruler had built the mosque in order to hide revenues from the state.
+During his reign, Aurangzeb ordered the destruction of many temples and some mosques. For example, he ordered the destruction of Vishvanath Temple at Varanasi for being a centre of conspiracy against the state, and he ordered the destruction of the Jama Masjid at Golkunda[109] after finding out that its ruler had built the mosque in order to hide revenues from the state.
 
 Aurangzeb displayed a particular animus towards Hindus and their temples. In the first volume of his Pulitzer Prize winning book series, historian Will Durant[110] stated the following:
 
@@ -113,11 +109,11 @@ File:Tulapur arch.jpg|In the year 1689, according to Mughal accounts, Sambhaji w
 
 Expansion of the Mughal Empire
 
-Darbarscene.jpg in the Durbar. Standing before him is his son, Azam Shah.]]
+in the Durbar. Standing before him is his son, Azam Shah.]]
 
 In 1663, during his visit to Ladakh, Aurangzeb established direct control over that part of the empire and loyal subjects such as Deldan Namgyal agreed to pledge tribute and loyalty. Deldan Namgyal is also known to have constructed a Grand Mosque in Leh, which he dedicated to Mughal rule.[127]
 
-Aurangzeb_T0000253_104.jpg.]]
+.]]
 
 In 1664, Aurangzeb appointed Shaista Khan subedar (governor) of Bengal. Shaista Khan eliminated Portuguese and Arakanese pirates from the region, and in 1666 recaptured the port of Chittagong from the Arakanese king, Sanda Thudhamma. Chittagong remained a key port throughout Mughal rule.[128]
 
@@ -126,8 +122,6 @@ In 1685, Aurangzeb dispatched his son, Muhammad Azam Shah, with a force of nearl
 Only one remaining ruler, Abul Hasan Qutb Shah (the Qutbshahi ruler of Golconda), refused to surrender. He and his servicemen fortified themselves at Golconda and fiercely protected the Kollur Mine, which was then probably the world's most productive diamond mine, and an important economic asset. In 1687, Aurangzeb led his grand Mughal army against the Deccan Qutbshahi fortress during the Siege of Golconda. The Qutbshahis had constructed massive fortifications throughout successive generations on a granite hill over 400 ft high with an enormous eight-mile long wall enclosing the city. The main gates of Golconda had the ability to repulse any war elephant attack. Although the Qutbshahis maintained the impregnability of their walls, at night Aurangzeb and his infantry erected complex scaffolding that allowed them to scale the high walls. During the eight-month siege the Mughals faced many hardships including the death of their experienced commander Kilich Khan Bahadur. Eventually, Aurangzeb and his forces managed to penetrate the walls by capturing a gate, and their entry into the fort led Abul Hasan Qutb Shah to surrender peacefully.
 
 Military equipment
-
-Dagger_(khanjar)_of_Emperor_Aurangzeb_(reigned_1658-1707)_and_sheath_LACMA_M.76.2.7a-b_(3_of_9).jpg
 
 Mughal cannon making skills advanced during the 17th century.[130] One of the most impressive Mughal cannons is known as the Zafarbaksh, which is a very rare _composite cannon_, that required skills in both wrought-iron forge welding and bronze-casting technologies and the in-depth knowledge of the qualities of both metals.[131]
 
@@ -151,7 +145,7 @@ Aurangzeb had a more austere nature than his predecessors, and greatly reduced i
 
 Calligraphy
 
-Aurangzeb_Handwritten_Quran.jpg'', parts of which are believed to have been written in Aurangzeb's own hand.[139]]]
+'', parts of which are believed to have been written in Aurangzeb's own hand.[139]]]
 
 The Mughal Emperor Aurangzeb is known to have patronised works of Islamic calligraphy during his reign particularly Syed Ali Tabrizi.[140]
 
@@ -174,7 +168,7 @@ File:Caspar David Friedrich - Frau mit Umschlagtuch (1804).jpg|Shawls manufactur
 
 Foreign relations
 
-Hofstaat_zu_Delhi_am_Geburtstag_des_Großmoguls01.jpg.[145]]]
+.[145]]]
 
 Aurangzeb sent diplomatic missions to Mecca in 1659 and 1662, with money and gifts for the Sharif. He also sent alms in 1666 and 1672 to be distributed in Mecca and Medina. Historian Naimur Rahman Farooqi writes that, "By 1694, Aurangzeb's ardour for the Sharifs of Mecca had begun to wane; their greed and rapacity had thoroughly disillusioned the Emperor ... Aurangzeb expressed his disgust at the unethical behavior of the Sharif who appropriated all the money sent to the Hijaz for his own use, thus depriving the needy and the poor."[146]
 
@@ -202,7 +196,7 @@ Like his father, Aurangzeb was not willing to acknowledge the Ottoman claim to t
 
 Relations with the English
 
-The_English_ask_pardon_of_Aurangzeb.jpg requests pardon from Aurangzeb during the Child's War.]]
+requests pardon from Aurangzeb during the Child's War.]]
 
 In 1686, the East India Company, which had unsuccessfully tried to obtain a firman (imperial directive) that would grant England regular trading privileges throughout the Mughal empire, initiated the so-called Child's War. This hostility against the empire ended in disaster for the English, particularly in 1689 when Aurangzeb dispatched a strong fleet of grab ships from Janjira that blockaded Bombay. The ships, commanded by Sidi Yaqub, were manned by Mappila (loyal to Ali Raja Ali II) and Abyssinian sailors.[151] In 1690, the company sent envoys to Aurangzeb's camp to plead for a pardon. The company's envoys had to prostrate themselves before the emperor, pay a large indemnity, and promise better behaviour in the future.
 
@@ -219,7 +213,7 @@ Aurangzeb received tribute from all over the Indian subcontinent using the wealt
 
 Revenue
 
-India_in_1700_Joppen.jpg to Kabul"''.[156]]]
+to Kabul"''.[156]]]
 
 Aurangzeb's exchequer raised a record £100 million in annual revenue through various sources like taxes, customs and land revenue, _et al._ from 24 provinces.[157] He had an annual yearly revenue of $450 million, more than ten times that of his contemporary Louis XIV of France.[158]
 
@@ -232,8 +226,6 @@ Aurangzeb felt that verses from the _Quran_ should not be stamped on coins, as d
 
 Rebellions
 
-Battle_elephant.jpg
-
 Traditional and newly coherent social groups in northern and western India, such as the Marathas, Rajputs, Hindu Jats, Pashtuns, and Sikhs, gained military and governing ambitions during Mughal rule, which, through collaboration or opposition, gave them both recognition and military experience.[160]
 
 -   In 1669, the Hindu Jat peasants of Bharatpur around Mathura rebelled and created Bharatpur state but were defeated.
@@ -245,7 +237,7 @@ Traditional and newly coherent social groups in northern and western India, such
 
 Jat rebellion
 
-Gate_of_the_Tomb_of_Akbar_at_Sikandra,_Agra,_India,_1795.jpg was pillaged by Jat rebels during the reign of Aurangzeb.]]
+was pillaged by Jat rebels during the reign of Aurangzeb.]]
 
 In 1669, Hindu Jats began to organise a rebellion that is believed to have been caused by Aurangzeb's imposition of _jizya_ (a form of organised religious taxation). The Jats were led by Gokula, a rebel landholder from Tilpat. By the year 1670 20,000 Jat rebels were quelled and the Mughal Army took control of Tilpat, Gokula's personal fortune amounted to 93,000 gold coins and hundreds of thousands of silver coins.[165]
 
@@ -255,13 +247,13 @@ However, after Aurangeb's death Jats under Badan Singh later established their i
 
 Mughal–Maratha Wars
 
-Aurangzeb_au_siège_de_Satara.jpg during the Battle of Satara.]]
+during the Battle of Satara.]]
 
 In 1657, while Aurangzeb attacked Golconda and Bijapur in the Deccan, the Hindu Maratha warrior, Shivaji, used guerrilla tactics to take control of three Adil Shahi forts formerly under his father's command. With these victories, Shivaji assumed de facto leadership of many independent Maratha clans. The Marathas harried the flanks of the warring Adil Shahis, gaining weapons, forts, and territory.[176] Shivaji's small and ill-equipped army survived an all out Adil Shahi attack, and Shivaji personally killed the Adil Shahi general, Afzal Khan.[177] With this event, the Marathas transformed into a powerful military force, capturing more and more Adil Shahi territories.[178] Shivaji went on to neutralise Mughal power in the region.[179]
 
 In 1659, Aurangzeb sent his trusted general and maternal uncle Shaista Khan, the Wali in Golconda to recover forts lost to the Maratha rebels. Shaista Khan drove into Maratha territory and took up residence in Pune. But in a daring raid on the governor's palace in Pune during a midnight wedding celebration, led by Shivaji himself, the Marathas killed Shaista Khan's son and Shivaji maimed Shaista Khan by cutting off three fingers of his hand. Shaista Khan, however, survived and was re-appointed the administrator of Bengal going on to become a key commander in the war against the Ahoms.
 
-SIVAJI_OPENLY_DEFIES_THE_GREAT_MOGHUL.gif in 1666.]]
+in 1666.]]
 
 Shivaji captured forts belonging to both Mughals and Bijapur. At last Aurangzeb ordered the armament of the Daulatabad Fort with two bombards (the Daulatabad Fort was later used as a Mughal bastion during the Deccan Wars). Aurangzeb also sent his general Raja Jai Singh of Amber, a Hindu Rajput, to attack the Marathas. Jai Singh won the fort of Purandar after fierce battle in which the Maratha commander Murarbaji fell. Foreseeing defeat, Shivaji agreed for a truce and a meeting with Aurangzeb at Delhi. Jai Singh also promised Shivaji his safety, placing him under the care of his own son, the future Raja Ram Singh I. However, circumstances at the Mughal court were beyond the control of the Raja, and when Shivaji and his son Sambhaji went to Agra to meet Aurangzeb, they were placed under house arrest because of Shivaji's apparent misbehaviour, from which they managed to effect a daring escape.[180]
 
@@ -277,7 +269,7 @@ File:A portrait probably made by a Mughal artist, in the Deccan, during Aurangze
 
 Ahom campaign
 
-Aurangzeb_in_old_age_2.jpg.]] While Aurangzeb and his brother Shah Shuja had been fighting against each other, the Hindu rulers of Kuch Behar and Assam took advantage of the disturbed conditions in the Mughal Empire, had invaded imperial dominions. For three years they were not attacked, but in 1660 Mir Jumla II, the viceroy of Bengal, was ordered to recover the lost territories.[188]
+.]] While Aurangzeb and his brother Shah Shuja had been fighting against each other, the Hindu rulers of Kuch Behar and Assam took advantage of the disturbed conditions in the Mughal Empire, had invaded imperial dominions. For three years they were not attacked, but in 1660 Mir Jumla II, the viceroy of Bengal, was ordered to recover the lost territories.[188]
 
 The Mughals set out in November 1661. Within weeks they occupied the capital of Kuch Behar, which they annexed. Leaving a detachment to garrison it, the Mughal army began to retake their territories in Assam. Mir Jumla II advanced on Garhgaon, the capital of the Ahom kingdom, and reached it on 17 March 1662. The ruler, Raja Sutamla, had fled before his approach. The Mughals captured 82 elephants, 300,000 rupees in cash, 1000 ships, and 173 stores of rice.[189]
 
@@ -289,8 +281,6 @@ The Battle of Saraighat was the last battle in the last major attempt by the Mug
 
 Satnami opposition
 
-Emperor_Aurangzeb_at_a_jharokha_window,_two_noblemen_in_the_foregroundIn_1710_San_Diego_Museum_of_Art.jpg
-
 In May 1672, the Satnami sect obeying the commandments of an "old toothless woman" (according to Mughal accounts) organised a massive revolt in the agricultural heartlands of the Mughal Empire. The Satnamis were known to have shaved off their heads and even eyebrows and had temples in many regions of Northern India. They began a large-scale rebellion 75 miles southwest of Delhi.[192]
 
 The Satnamis believed they were invulnerable to Mughal bullets and believed they could multiply in any region they entered. The Satnamis initiated their march upon Delhi and overran small-scale Mughal infantry units.[193]
@@ -299,7 +289,7 @@ Aurangzeb responded by organising a Mughal army of 10,000 troops and artillery, 
 
 Sikh opposition
 
-Zafarnama.jpg is the name given to the letter sent by the tenth Sikh Guru, Guru Gobind Singh in 1705 to Aurangzeb. The letter is written in Persian script.]]
+is the name given to the letter sent by the tenth Sikh Guru, Guru Gobind Singh in 1705 to Aurangzeb. The letter is written in Persian script.]]
 
 Early in Aurangzeb's reign, various insurgent groups of Sikhs engaged Mughal troops in increasingly bloody battles. The ninth Sikh Guru, Guru Tegh Bahadur, like his predecessors was opposed to conversion of the local population as he considered it wrong. According to Sikh sources, approached by Kashmiri Pandits to help them retain their faith and avoid forced religious conversions, Guru Tegh Bahadur took on Aurangzeb. The emperor perceived the rising popularity of the Guru as a threat to his sovereignty and in 1670 had him executed,[195] which infuriated the Sikhs. In response, Guru Tegh Bahadur's son and successor, Guru Gobind Singh, further militarised his followers, starting with the establishment of Khalsa in 1699, eight years before Aurangzeb's death.[196][197][198] In 1705, Guru Gobind Singh sent a letter entitled _Zafarnamah_, which accused Aurangzeb of cruelty and betraying Islam.[199][200] The letter caused him much distress and remorse.[201] Guru Gobind Singh's formation of Khalsa in 1699 led to the establishment of the Sikh Confederacy and later Sikh Empire.
 
@@ -322,7 +312,7 @@ Battle of Muktsar was the last battle fought between Guru Gobind Singh and the M
 
 Pashtun opposition
 
-Aurangzeb_in_a_pavilion_with_three_courtiers_below_(6124546713).jpg The Pashtun revolt in 1672 under the leadership of the warrior poet Khushal Khan Khattak of Kabul,[202][203] was triggered when soldiers under the orders of the Mughal Governor Amir Khan allegedly molested women of the Pashtun tribes in modern-day Kunar Province of Afghanistan. The Safi tribes retaliated against the soldiers. This attack provoked a reprisal, which triggered a general revolt of most of tribes. Attempting to reassert his authority, Amir Khan led a large Mughal Army to the Khyber Pass, where the army was surrounded by tribesmen and routed, with only four men, including the Governor, managing to escape.
+The Pashtun revolt in 1672 under the leadership of the warrior poet Khushal Khan Khattak of Kabul,[202][203] was triggered when soldiers under the orders of the Mughal Governor Amir Khan allegedly molested women of the Pashtun tribes in modern-day Kunar Province of Afghanistan. The Safi tribes retaliated against the soldiers. This attack provoked a reprisal, which triggered a general revolt of most of tribes. Attempting to reassert his authority, Amir Khan led a large Mughal Army to the Khyber Pass, where the army was surrounded by tribesmen and routed, with only four men, including the Governor, managing to escape.
 
 Aurangzeb's incursions into the Pashtun areas were described by Khushal Khan Khattak as "Black is the Mughal's heart towards all of us Pathans".[204] Aurangzeb employed the scorched earth policy, sending soldiers who massacred, looted and burnt many villages. Aurangzeb also proceeded to use bribery to turn the Pashtun tribes against each other, with the aim that they would distract a unified Pashtun challenge to Mughal authority, and the impact of this was to leave a lasting legacy of mistrust among the tribes.[205]
 
@@ -331,17 +321,15 @@ After that the revolt spread, with the Mughals suffering a near total collapse o
 
 Death
 
-Biwi_ka_Maqbara.JPG, the mausoleum of Aurangzeb's wife Dilras Banu Begum, was commissioned by him]] TOMB_aURANGAZEB.JPG.]]
+, the mausoleum of Aurangzeb's wife Dilras Banu Begum, was commissioned by him]] .]]
 
 By 1689, the conquest of Golconda, Mughal victories in the south expanded the Mughal Empire to 4 million square kilometres,[206] with a population estimated to be over 158 million.[207] But this supremacy was short-lived.[208] Jos Gommans, Professor of Colonial and Global History at the University of Leiden,[209] says that "... the highpoint of imperial centralisation under emperor Aurangzeb coincided with the start of the imperial downfall."[210]
 
 Unlike his predecessors, Aurangzeb considered the royal treasury to be held in trust for the citizens of his empire. He made caps and copied the Quran to earn money for his use.[211][212] Aurangzeb constructed a small marble mosque known as the Moti Masjid (Pearl Mosque) in the Red Fort complex in Delhi.[213] However, his constant warfare, especially with the Marathas, drove his empire to the brink of bankruptcy just as much as the wasteful personal spending and opulence of his predecessors.[214]
 
-Aurangzeb_reading_the_Quran.jpg
-
 The Indologist Stanley Wolpert, emeritus professor at UCLA,[215] says that:
 
-Tomb_of_Aurangzeb_at_Khuldabad,_Aurangabad,_1850s.jpg.]]
+.]]
 
 Even when ill and dying, Aurangzeb made sure that the populace knew he was still alive, for if they had thought otherwise then the turmoil of another war of succession was likely.[216] He died at his military camp in Bhingar near Ahmednagar on 20 February 1707 at the age of 89, having outlived many of his children. He had only 300 rupees with him which were later given to charity as per his instructions and he prior to his death requested not to spend extravagantly on his funeral but to keep it simple. [217][218] His modest open-air grave in Khuldabad expresses his deep devotion to his Islamic beliefs. It is sited in the courtyard of the shrine of the Sufi saint Shaikh Burhan-u'd-din Gharib, who was a disciple of Nizamuddin Auliya of Delhi.
 

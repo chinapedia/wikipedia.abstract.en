@@ -11,7 +11,7 @@ The Hanover fairground, due to numerous extensions, especially for the Expo 2000
 
 History
 
-Merian_Hannover_Ostseite.jpg, 1654]] Hanover was founded in medieval times on the east bank of the River Leine. Its original name _Honovere_ may mean "high (river)bank", though this is debated (cf. _das Hohe Ufer_). Hanover was a small village of ferrymen and fishermen that became a comparatively large town in the 13th century, receiving town privileges in 1241, due to its position at a natural crossroads. As overland travel was relatively difficult, its position on the upper navigable reaches of the river helped it to grow by increasing trade. It was connected to the Hanseatic League city of Bremen by the Leine, and was situated near the southern edge of the wide North German Plain and north-west of the Harz mountains, so that east-west traffic such as mule trains passed through it. Hanover was thus a gateway to the Rhine, Ruhr and Saar river valleys, their industrial areas which grew up to the southwest and the plains regions to the east and north, for overland traffic skirting the Harz between the Low Countries and Saxony or Thuringia.
+, 1654]] Hanover was founded in medieval times on the east bank of the River Leine. Its original name _Honovere_ may mean "high (river)bank", though this is debated (cf. _das Hohe Ufer_). Hanover was a small village of ferrymen and fishermen that became a comparatively large town in the 13th century, receiving town privileges in 1241, due to its position at a natural crossroads. As overland travel was relatively difficult, its position on the upper navigable reaches of the river helped it to grow by increasing trade. It was connected to the Hanseatic League city of Bremen by the Leine, and was situated near the southern edge of the wide North German Plain and north-west of the Harz mountains, so that east-west traffic such as mule trains passed through it. Hanover was thus a gateway to the Rhine, Ruhr and Saar river valleys, their industrial areas which grew up to the southwest and the plains regions to the east and north, for overland traffic skirting the Harz between the Low Countries and Saxony or Thuringia.
 
 In the 14th century the main churches of Hanover were built, as well as a city wall with three city gates. The beginning of industrialization in Germany led to trade in iron and silver from the northern Harz Mountains, which increased the city's importance.
 
@@ -23,7 +23,7 @@ During the Seven Years' War, the Battle of Hastenbeck was fought near the city o
 
 19th century
 
-Hannover_Georgstraße_mit_Theater_(um_1895).jpg, 1895]] Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg, 1895]] After Napoleon imposed the Convention of Artlenburg (Convention of the Elbe) on July 5, 1803, about 35,000 French soldiers occupied Hanover. The Convention also required disbanding the army of Hanover. However, George III did not recognize the Convention of the Elbe. This resulted in a great number of soldiers from Hanover eventually emigrating to Great Britain, where the King's German Legion was formed. It was only troops from Hanover and Brunswick that consistently opposed France throughout the entire Napoleonic wars. The Legion later played an important role in the Battle of Waterloo in 1815. The Congress of Vienna in 1815 elevated the electorate to the Kingdom of Hanover. The capital town Hanover expanded to the western bank of the Leine and since then has grown considerably.
+, 1895]] , 1895]] After Napoleon imposed the Convention of Artlenburg (Convention of the Elbe) on July 5, 1803, about 35,000 French soldiers occupied Hanover. The Convention also required disbanding the army of Hanover. However, George III did not recognize the Convention of the Elbe. This resulted in a great number of soldiers from Hanover eventually emigrating to Great Britain, where the King's German Legion was formed. It was only troops from Hanover and Brunswick that consistently opposed France throughout the entire Napoleonic wars. The Legion later played an important role in the Battle of Waterloo in 1815. The Congress of Vienna in 1815 elevated the electorate to the Kingdom of Hanover. The capital town Hanover expanded to the western bank of the Leine and since then has grown considerably.
 
 In 1837, the personal union of the United Kingdom and Hanover ended because William IV's heir in the United Kingdom was female (Queen Victoria). Hanover could be inherited only by male heirs. Thus, Hanover passed to William IV's brother, Ernest Augustus, and remained a kingdom until 1866, when it was annexed by Prussia during the Austro-Prussian war. Despite Hanover being expected to defeat Prussia at the Battle of Langensalza, Prussia employed Moltke the Elder's Kesselschlacht order of battle to instead destroy the Hanoverian army. The city of Hanover became the capital of the Prussian Province of Hanover. After the annexation, the people of Hanover generally opposed the Prussian government.
 
@@ -31,7 +31,7 @@ To Hanover's industry, however, the new connection with Prussia meant an improve
 
 In 1842 the first horse railway was inaugurated, and from 1893 an electric tram was installed. In 1887 Hanover's Emile Berliner invented the record and the gramophone.
 
-Hannover_Synagogenmahnmal.jpg]]
+]]
 
 Nazi Germany
 
@@ -39,11 +39,11 @@ After 1937 the Lord Mayor and the state commissioners of Hanover were members of
 
 The Nazis took this act as a pretext to stage a nationwide pogrom known as Kristallnacht (9 November 1938).[5] On that day, the synagogue of Hanover, designed in 1870 by Edwin Oppler in neo-romantic style, was burnt by the Nazis.
 
-In September 1941, through the "Action Lauterbacher" plan, a ghettoisation of the remaining Hanoverian Jewish families began. Even before the Wannsee Conference, on 15 December 1941, the first Jews from Hanover were deported to Riga.[6] A total of 2,400 people were deported, and very few survived. During the war seven concentration camps were constructed in Hanover, in which many Jews were confined.[7] Of the approximately 4,800 Jews who had lived in Hannover in 1938, fewer than 100 were still in the city when troops of the United States Army arrived on 10 April 1945 to occupy Hanover at the end of the war. Today, a memorial at the Opera Square is a reminder of the persecution of the Jews in Hanover. After the war a large group of Orthodox Jewish survivors of the nearby Bergen-Belsen concentration camp settled in Hanover.[8] Aegidienkirche_Hannover.jpg
+In September 1941, through the "Action Lauterbacher" plan, a ghettoisation of the remaining Hanoverian Jewish families began. Even before the Wannsee Conference, on 15 December 1941, the first Jews from Hanover were deported to Riga.[6] A total of 2,400 people were deported, and very few survived. During the war seven concentration camps were constructed in Hanover, in which many Jews were confined.[7] Of the approximately 4,800 Jews who had lived in Hannover in 1938, fewer than 100 were still in the city when troops of the United States Army arrived on 10 April 1945 to occupy Hanover at the end of the war. Today, a memorial at the Opera Square is a reminder of the persecution of the Jews in Hanover. After the war a large group of Orthodox Jewish survivors of the nearby Bergen-Belsen concentration camp settled in Hanover.[8]
 
 World War II
 
-1943_WWII_map_of_Hannover,_Germany.jpg As an important railroad and road junction and production centre, Hanover was a major target for strategic bombing during World War II, including the Oil Campaign. Targets included the AFA (Stöcken), the Deurag-Nerag refinery (Misburg), the Continental plants (Vahrenwald and Limmer), the United light metal works (VLW) in Ricklingen and Laatzen (today Hanover fairground), the Hanover/Limmer rubber reclamation plant, the Hanomag factory (Linden) and the tank factory _M.N.H. Maschinenfabrik Niedersachsen_ (Badenstedt). Residential areas were also targeted, and more than 6,000 civilians were killed by the Allied bombing raids. More than 90% of the city centre was destroyed in a total of 88 bombing raids.[9] After the war, the Aegidienkirche was not rebuilt and its ruins were left as a war memorial.
+As an important railroad and road junction and production centre, Hanover was a major target for strategic bombing during World War II, including the Oil Campaign. Targets included the AFA (Stöcken), the Deurag-Nerag refinery (Misburg), the Continental plants (Vahrenwald and Limmer), the United light metal works (VLW) in Ricklingen and Laatzen (today Hanover fairground), the Hanover/Limmer rubber reclamation plant, the Hanomag factory (Linden) and the tank factory _M.N.H. Maschinenfabrik Niedersachsen_ (Badenstedt). Residential areas were also targeted, and more than 6,000 civilians were killed by the Allied bombing raids. More than 90% of the city centre was destroyed in a total of 88 bombing raids.[9] After the war, the Aegidienkirche was not rebuilt and its ruins were left as a war memorial.
 
 The Allied ground advance into Germany reached Hanover in April 1945.[10] The US 84th Infantry Division captured the city on 10 April 1945.[11]
 
@@ -62,14 +62,12 @@ Hannover has an oceanic climate (Köppen: _Cfb_) independent of the isotherm. Al
 
 Subdivisions
 
-  -----------------------------
-  Hanover_from_the_ISS.jpeg]]
-  -----------------------------
+  ----
+  ]]
+  ----
 
-  ---------------------------------------
-  Lage_der_Stadtbezirke_in_Hannover.png
-  Hannover_in_der_Region_Hannover.png
-  ---------------------------------------
+  --
+  --
 
 Districts
 
@@ -149,7 +147,7 @@ Quarters
 
 Main sights
 
-Hannover_-_Hauptbahnhof_Eingangsportal_1.jpg memorial, central railway station]] Hannover_Opernhaus.jpg ("state opera") is housed in its classical 19th century opera house.]] Maschsee_Hannover.jpg Marketchurchhannover.jpg Hannover_old_townhall_Karmarschstrasse_Mitte_Hannover_Germany_01.jpg Leine_at_Hannover_City.JPG River At Hanover City]] Waterloosäule_sst.jpg Anzeiger_Dämmerung.jpg
+memorial, central railway station]] ("state opera") is housed in its classical 19th century opera house.]] River At Hanover City]]
 
 One of Hanover's most famous sights is the _Royal Gardens of Herrenhausen_. Its _Great Garden_ is an important European baroque garden. The palace itself was largely destroyed by Allied bombing but has been reconstructed and reopened in 2013.[15] Among the points of interest is the _Grotto_. Its interior was designed by the French artist Niki de Saint Phalle).[16] The Great Garden consists of several parts and contains Europe's highest garden fountain. The historic _Garden Theatre_ hosted the musicals of the German rock musician Heinz Rudolf Kunze.[17]
 
@@ -186,7 +184,7 @@ In 2015, 31.1% of the population were Protestant and 13.4% were Roman Catholic. 
 
 Museums and galleries
 
-Luftbild_Hannover_Rathaus.JPG The _Historic Museum_ describes the history of Hanover, from the medieval settlement "Honovere" to the world-famous Exhibition City of today. The museum focuses on the period from 1714 to 1834 when Hanover had a strong relationship with the British royal house.
+The _Historic Museum_ describes the history of Hanover, from the medieval settlement "Honovere" to the world-famous Exhibition City of today. The museum focuses on the period from 1714 to 1834 when Hanover had a strong relationship with the British royal house.
 
 With more than 4,000 members, the _Kestnergesellschaft_ is the largest art society in Germany. The museum hosts exhibitions from classical modernist art to contemporary art. One big focus is put on film, video, contemporary music and architecture, room installments and big presentations of contemporary paintings, sculptures and video art.
 
@@ -231,7 +229,7 @@ There are/were two big international competitions for classical music in Hanover
 
 Popular music
 
-Scorpions_(10).JPG]]The rock bands Scorpions and Fury in the Slaughterhouse are originally from Hanover. Acclaimed DJ Mousse T also has his main recording studio in the area. Rick J. Jordan, member of the band Scooter was born here in 1968. Eurovision Song Contest winner of 2010, Lena, is also from Hanover.
+]]The rock bands Scorpions and Fury in the Slaughterhouse are originally from Hanover. Acclaimed DJ Mousse T also has his main recording studio in the area. Rick J. Jordan, member of the band Scooter was born here in 1968. Eurovision Song Contest winner of 2010, Lena, is also from Hanover.
 
 Sport
 
@@ -259,7 +257,7 @@ Some other important sport events are the Lower Saxony Beach Volleyball Tourname
 
 Regular events
 
-CeBit_2008_01.jpg 2008 conference centre in Hanover]] Hanover is one of the leading exhibition cities in the world. It hosts more than 60 international and national exhibitions every year. The most popular ones are the _CeBIT_, the _Hanover Fair_, the _Domotex_, the _Ligna_, the _IAA Nutzfahrzeuge_ and the _Agritechnica_. Hanover also hosts a huge number of congresses and symposiums like the _International Symposium on Society and Resource Management._[28]
+2008 conference centre in Hanover]] Hanover is one of the leading exhibition cities in the world. It hosts more than 60 international and national exhibitions every year. The most popular ones are the _CeBIT_, the _Hanover Fair_, the _Domotex_, the _Ligna_, the _IAA Nutzfahrzeuge_ and the _Agritechnica_. Hanover also hosts a huge number of congresses and symposiums like the _International Symposium on Society and Resource Management._[28]
 
 Hanover is also host to the _Schützenfest Hannover,_ the largest marksmen's fun fair in the world which takes place once a year (late June to early July) (2014 − July 4th to the 13th).[29] Founded in 1529, it consists of more than 260 rides and inns, five large beer tents and a big entertainment programme. The highlight of this fun fair is the long _Parade of the Marksmen_ with more than 12,000 participants from all over the world, including around 5,000 marksmen, 128 bands, and more than 70 wagons, carriages, and other festival vehicles. This makes it the longest procession in Europe. Around 2 million people visit this fun fair every year. The landmark of this fun fair is the biggest transportable Ferris wheel in the world, about ( high).
 
@@ -274,7 +272,7 @@ Hanover also hosts food-oriented festivals including the _Wine Festival_ and the
 
 Transport
 
-Hannover_main_station_Ernst-August-Platz_Mitte_Hannover_Germany_03.jpg]] Mercedes_irvine_citaro_sst.JPG G natural gas bus designed by James Irvine]] 2001-03-31.H-TW2000-Vahrenwalder-Platz.jpg tram designed by Herbert Lindinger and Jasper Morrison]] TUI_KWA4.JPG headquarters in Hanover]]
+]] G natural gas bus designed by James Irvine]] tram designed by Herbert Lindinger and Jasper Morrison]] headquarters in Hanover]]
 
 Rail
 
@@ -361,11 +359,11 @@ The _Schulbiologiezentrum Hannover_ maintains practical biology schools in four 
 
 People and residents of Hanover
 
-  ------------------------------------------------------------- --------------------------
-  Gottfried_Wilhelm_Leibniz,_Bernhard_Christoph_Francke.jpg]]   Wilhelm_Busch_1878.jpg]]
-  Gerhard_Schröder_(cropped).jpg]]
+  ---- ----
+  ]]   ]]
+  ]]
 
-  ------------------------------------------------------------- --------------------------
+  ---- ----
 
 The following is a selection of famous Hanover-natives, personalities connected with the city and honorary citizens:
 

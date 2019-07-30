@@ -7,8 +7,6 @@ Dachshunds also participate in conformation shows, field trials and many other e
 
 Etymology
 
-Smooth_Dachshund_red_and_tan_portrait.jpg Jamnik_długowłosy_standardowy_LM_671.jpg MiniDachshund1_wb.jpg
-
 The name _dachshund_ is of German origin and literally means "badger dog," from _Dachs_ ("European badger") and _Hund_ ("hound, dog"). The pronunciation varies widely in English: variations of the first and second syllables include , and , , . Although "dachshund" is a German word, in modern German they are more commonly known by the short name _Dackel_ or _Teckel_. The German word is pronounced .[5]
 
 Because of their long, narrow build, they are often nicknamed wiener dog[6] or sausage dog. _Dachshund_ may be mispronounced as "dash-hound" by some English speakers.[7]
@@ -23,11 +21,11 @@ Characteristics
 
 Appearance
 
-Dachshund.jpg A typical dachshund is long-bodied and muscular with short stubby legs. Its front paws are disproportionately large, being paddle-shaped and particularly suitable for digging. Its skin is loose enough not to tear while tunneling in tight burrows to chase prey. The dachshund has a deep chest which provides appropriate lung capacity for stamina when hunting. Its snout is long.[11] According to the AKC standards for the breed, "scars from honorable wounds shall not be considered a fault" because the dachshund is a hunting dog.[12]
+A typical dachshund is long-bodied and muscular with short stubby legs. Its front paws are disproportionately large, being paddle-shaped and particularly suitable for digging. Its skin is loose enough not to tear while tunneling in tight burrows to chase prey. The dachshund has a deep chest which provides appropriate lung capacity for stamina when hunting. Its snout is long.[11] According to the AKC standards for the breed, "scars from honorable wounds shall not be considered a fault" because the dachshund is a hunting dog.[12]
 
 Coat and color
 
-Trixie_the_red_haired_dachshund.png There are three dachshund coat varieties: smooth coat (short hair), longhaired, and wirehaired.[13] Longhaired dachshunds have a silky coat and short featherings on legs and ears. Wirehaired dachshunds are the least common coat variety in the United States (although it is the most common in Germany) and the most recent coat to appear in breeding standards.[14] Dachshunds have a wide variety of colors and patterns, the most common one being red. Their base coloration can be single-colored (either red or cream), tan pointed (black and tan, chocolate and tan, blue and tan, or isabella and tan), and in wirehaired dogs, a color referred to as wildboar. Patterns such as dapple (merle), sable, brindle and piebald also can occur on any of the base colors. Dachshunds in the same litter may be born in different coat colors depending on the genetic makeup of the parents. The dominant color in the breed is red, followed by black and tan. Tan pointed dogs have tan (or cream) markings over the eyes, ears, paws, and tail. The reds range from coppers to deep rusts, with or without somewhat common black hairs peppered along the back, face and ear edges, lending much character and an almost burnished appearance; this is referred to among breeders and enthusiasts as an "overlay" or "sabling". Sabling should not be confused with a more unusual coat color referred to as sable. At a distance, a sable dachshund looks somewhat like a black and tan dog. Upon closer examination, however, one can observe that along the top of the dog's body, each hair is actually banded with red at the base near the skin transitioning to mostly black along the length of the strand. An additional striking coat marking is the brindle pattern. "Brindle" refers to dark stripes over a solid background—usually red. If a dachshund is brindled on a dark coat and has tan points, it will have brindling on the tan points only. Even one single, lone stripe of brindle is a brindle. If a dachshund has one single spot of dapple, it is a dapple.
+There are three dachshund coat varieties: smooth coat (short hair), longhaired, and wirehaired.[13] Longhaired dachshunds have a silky coat and short featherings on legs and ears. Wirehaired dachshunds are the least common coat variety in the United States (although it is the most common in Germany) and the most recent coat to appear in breeding standards.[14] Dachshunds have a wide variety of colors and patterns, the most common one being red. Their base coloration can be single-colored (either red or cream), tan pointed (black and tan, chocolate and tan, blue and tan, or isabella and tan), and in wirehaired dogs, a color referred to as wildboar. Patterns such as dapple (merle), sable, brindle and piebald also can occur on any of the base colors. Dachshunds in the same litter may be born in different coat colors depending on the genetic makeup of the parents. The dominant color in the breed is red, followed by black and tan. Tan pointed dogs have tan (or cream) markings over the eyes, ears, paws, and tail. The reds range from coppers to deep rusts, with or without somewhat common black hairs peppered along the back, face and ear edges, lending much character and an almost burnished appearance; this is referred to among breeders and enthusiasts as an "overlay" or "sabling". Sabling should not be confused with a more unusual coat color referred to as sable. At a distance, a sable dachshund looks somewhat like a black and tan dog. Upon closer examination, however, one can observe that along the top of the dog's body, each hair is actually banded with red at the base near the skin transitioning to mostly black along the length of the strand. An additional striking coat marking is the brindle pattern. "Brindle" refers to dark stripes over a solid background—usually red. If a dachshund is brindled on a dark coat and has tan points, it will have brindling on the tan points only. Even one single, lone stripe of brindle is a brindle. If a dachshund has one single spot of dapple, it is a dapple.
 
 The Dachshund Club of America (DCA) and the American Kennel Club (AKC) consider both the piebald pattern and the double dapple (double merle) pattern to be nonstandard. However, both types continue to be shown and sometimes even win in the conformation ring.
 
@@ -36,8 +34,6 @@ Dogs that are double-dappled have the merle pattern of a dapple, but with distin
 File:Wirehaired Dachshund.jpg|A wirehaired dachshund File:Kurzhaardackel.jpg%7CA smooth dachshund Std Dachshund 600.jpg|A longhaired dachshund
 
 File:Dave the dachshund.jpg|Black and Tan Dapple dachshund. File:Silver Dapple Smooth Haired Miniature Dachshund.jpg|Black and tan double dapple smooth-haired miniature dachshund with one blue eye and one brown eye File:Parti-colour Longhaired Dachshund.jpg|A double dapple longhaired dachshund
-
-Black_&_Tan_Brindle_Dachshund.jpg
 
 Size
 
@@ -49,7 +45,7 @@ H. L. Mencken said that "A dachshund is a half-dog high and a dog-and-a-half lon
 
 Eye color
 
-Red_piebald_dox_miniature_long_hair.jpg Light-colored dachshunds can sport amber, light brown, or green eyes; however, kennel club standards state that the darker the eye color, the better. Dapple and double dapple dachshunds can have multi coloured “wall” eyes with fully blue, partially blue or patched irises due to the effect of the dapple gene on eye pigmentation expression.[24] “Wall” eye is permissible according to DCA standards but undesirable by AKC standards. Piebald-patterned dachshunds will never have blue in their eyes, unless the dapple pattern is present.
+Light-colored dachshunds can sport amber, light brown, or green eyes; however, kennel club standards state that the darker the eye color, the better. Dapple and double dapple dachshunds can have multi coloured “wall” eyes with fully blue, partially blue or patched irises due to the effect of the dapple gene on eye pigmentation expression.[24] “Wall” eye is permissible according to DCA standards but undesirable by AKC standards. Piebald-patterned dachshunds will never have blue in their eyes, unless the dapple pattern is present.
 
 Temperament
 
@@ -57,9 +53,9 @@ Dachshunds are playful, but as hunting dogs can be quite stubborn,[25] and are k
 
 Dachshunds can be aggressive to strangers and other dogs.[34] Despite this, they are rated in the intelligence of dogs as an average working dog with a persistent ability to follow trained commands 50% of the time or more.[35] They rank 49th in Stanley Coren's _Intelligence of Dogs_, being of average working and obedience intelligence. They can have a loud bark. Some bark quite a lot and may need training to stop, while others will not bark much at all.[36][37] Dachshunds are known for their devotion and loyalty to their owners,[38][39] though they can be standoffish towards strangers.[40] If left alone too frequently, some dachshunds are prone to separation anxiety and may chew objects in the house to relieve stress.
 
-Dachshunds are burrowers by nature and are likely to burrow in blankets and other items around the house, when bored or tired. Tobyburrower.jpg Dachshunds can be difficult to housebreak, and patience and consistency are often needed in this endeavor.[41][42][43][44]
+Dachshunds are burrowers by nature and are likely to burrow in blankets and other items around the house, when bored or tired. Dachshunds can be difficult to housebreak, and patience and consistency are often needed in this endeavor.[41][42][43][44]
 
-Dachshund_brown_puppy.jpg Arnold_the_red_and_black_haired_dachshund.jpg According to the American Kennel Club's breed standards, "the dachshund is clever, lively and courageous to the point of rashness, persevering in above and below ground work, with all the senses well-developed. Any display of shyness is a serious fault."[45] Their temperament and body language give the impression that they do not know or care about their relatively small size. Like many small hunting dogs, they will challenge a larger dog. Indulged dachshunds may become snappy or extremely obstinate.[46][47][48]
+According to the American Kennel Club's breed standards, "the dachshund is clever, lively and courageous to the point of rashness, persevering in above and below ground work, with all the senses well-developed. Any display of shyness is a serious fault."[45] Their temperament and body language give the impression that they do not know or care about their relatively small size. Like many small hunting dogs, they will challenge a larger dog. Indulged dachshunds may become snappy or extremely obstinate.[46][47][48]
 
 Many dachshunds do not like unfamiliar people, and many will growl or bark at them.[49][50] Although the dachshund is generally an energetic dog, some are sedate. This dog's behavior is such that it is not the dog for everyone. A bored, untrained dachshund will become destructive.[51] If raised improperly and not socialized at a young age, dachshunds can become aggressive or fearful.[52] They require a caring, loving owner who understands their need for entertainment and exercise.
 
@@ -69,8 +65,6 @@ A 2008 University of Pennsylvania study of 6,000 dog owners who were interviewed
 
 
 Health
-
-Jamnik_Dchshund_puppies.JPG
 
 The breed is prone to spinal problems, especially intervertebral disk disease (IVDD), due in part to an extremely long spinal column and short rib cage.[57] The risk of injury may be worsened by obesity, jumping, rough handling, or intense exercise, which place greater strain on the vertebrae. About 20–25% of dachshunds will develop IVDD.[58]
 
@@ -89,7 +83,7 @@ Factors influencing the litter size of puppies and the proportion of stillborn p
 
 History
 
-olddachshund.jpg Deiker_Jagdbare_Tiere_1093210.jpg]]
+]]
 
 In 1891 an author[74] stated that the origin of the dachshund is not known, but theorized that the early roots of the dachshund may go back to ancient Egypt. In its modern incarnation, the dachshund is a creation of German breeders and includes elements of German, French, and English hounds and terriers. Dachshunds have been kept by royal courts all over Europe, including that of Queen Victoria, who was particularly enamored by the breed.[75]
 
@@ -117,7 +111,7 @@ Due to the association of the breed with Germany, as well as its particular popu
 
 Sports
 
-Short_haired_dachshund_in_race.jpg Some people train and enter their dachshund to compete in dachshund races, such as the Wiener Nationals. Several races across the United States routinely draw several thousand attendees, including races in Germantown, Tennessee; Bossier City, Louisiana; Buda, Texas; Davis, California; Phoenix, Arizona; Los Alamitos, California; Findlay, Ohio; Milwaukee, Wisconsin; Oklahoma City, Oklahoma; Kansas City, Kansas; Palo Alto, California; and Shakopee, Minnesota. There is also an annual dachshund run in Kennywood, located in Pittsburgh, Pennsylvania, called the Wiener 100, in Huntington, West Virginia called the Dachshund Dash and in Lovettsville, Virginia as part of the town's annual Oktoberfest celebration.[92]
+Some people train and enter their dachshund to compete in dachshund races, such as the Wiener Nationals. Several races across the United States routinely draw several thousand attendees, including races in Germantown, Tennessee; Bossier City, Louisiana; Buda, Texas; Davis, California; Phoenix, Arizona; Los Alamitos, California; Findlay, Ohio; Milwaukee, Wisconsin; Oklahoma City, Oklahoma; Kansas City, Kansas; Palo Alto, California; and Shakopee, Minnesota. There is also an annual dachshund run in Kennywood, located in Pittsburgh, Pennsylvania, called the Wiener 100, in Huntington, West Virginia called the Dachshund Dash and in Lovettsville, Virginia as part of the town's annual Oktoberfest celebration.[92]
 
 Despite the popularity of these events, the Dachshund Club of America opposes "wiener racing", as many greyhound tracks use the events to draw large crowds to their facilities. The DCA is also worried about potential injuries to dogs, due to their predisposition to back injuries. Another favorite sport is earthdog trials, in which dachshunds enter tunnels with dead ends and obstacles attempting to locate an artificial bait or live but caged and protected rats.[93]
 

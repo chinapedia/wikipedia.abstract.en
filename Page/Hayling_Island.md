@@ -3,7 +3,7 @@ HAYLING ISLAND is an island off the south coast of England, in the borough of Ha
 
 History
 
-SelseyHaylingPortsea.JPG and Portsea Island from the air from the west (north to the left)]] An Iron Age shrine in the north of Hayling Island was later developed into a Roman temple in the 1st century BC and was first recorded in Richard Scott's _Topographical and Historical Account of Hayling Island_, published in 1826. The site was excavated between 1897 and 1907 and again from 1976 to 1978. Remains are no longer visible and are buried beneath cultivated farmland.[1] The first coin credited to Commius that was found in an excavated context was found at the temple.[2] This Commius was probably the son of the Commius mentioned by Julius Caesar in his writings[3] although its possible the coin was issued by the original Commius.[4]
+and Portsea Island from the air from the west (north to the left)]] An Iron Age shrine in the north of Hayling Island was later developed into a Roman temple in the 1st century BC and was first recorded in Richard Scott's _Topographical and Historical Account of Hayling Island_, published in 1826. The site was excavated between 1897 and 1907 and again from 1976 to 1978. Remains are no longer visible and are buried beneath cultivated farmland.[1] The first coin credited to Commius that was found in an excavated context was found at the temple.[2] This Commius was probably the son of the Commius mentioned by Julius Caesar in his writings[3] although its possible the coin was issued by the original Commius.[4]
 
 Salt production was an industry on the island from the 11th century (the Domesday Book records a saltpan on the island for this purpose) until the late 19th century.
 
@@ -59,7 +59,7 @@ The island has several churches of different denominations including 3 Anglican 
 
 Transport
 
-HaylingIsland.jpg Hayling_theatre.jpg Until March 2015, Hayling Ferry linked Portsmouth and Hayling Island. The ferry was busy in summer in good weather, bringing tourists and cyclists to Hayling.[25] In winter, there was a significant reduction of use. The ferry service to and from Portsea Island was subsidised by the local authorities, leaving it under constant threat of closure due to limited resources. The ferry service ceased when the company running the ferry went into administration in March 2015. It was reopened in August 2016 by Baker Trayte Marine Ltd.[26][27]
+Until March 2015, Hayling Ferry linked Portsmouth and Hayling Island. The ferry was busy in summer in good weather, bringing tourists and cyclists to Hayling.[25] In winter, there was a significant reduction of use. The ferry service to and from Portsea Island was subsidised by the local authorities, leaving it under constant threat of closure due to limited resources. The ferry service ceased when the company running the ferry went into administration in March 2015. It was reopened in August 2016 by Baker Trayte Marine Ltd.[26][27]
 
 During the ferry's closure, the only public connection between Hayling Island and the mainland was the single carriageway road linking Northney to Langstone, Havant. In summer, in particular, this road can become very congested rendering the journey between the bridge and South Hayling (the most populated area) anything from 30 minutes to an hour. A proposed Millennium project to create a new shared pedestrian and cycle bridge was unsuccessful.[28]
 
@@ -84,8 +84,6 @@ Notable people
 
 
 Hayling oysterbeds
-
-Oyster_beds_in_Hayling_Island_1.jpg
 
 Oysters have been fished on the Hayling oysterbeds, at the northwest corner of the island, from as long ago as Roman times, documented in town records since 1615.[35] The oysters were actively farmed between as early as 1819 until the 1970s.[36] Oysters became a delicacy that was exported throughout the country under the classification of "Emsworth Oysters". Large complexes consisting of several pens separated by a series of bund walls and sluice gates were built to contain the oysters at varying stages of growth. Although large sections of the walls have since collapsed into the harbour, much of shape and scale of the beds can still be seen today.
 

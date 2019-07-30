@@ -5,7 +5,7 @@ His most famous work is his bawdy picaresque novel, the _Metamorphoses_, otherwi
 
 Life
 
-Apuleius,_Opera_omnia,_1621_-_BEIC_9468424.tiff Apuleius was born in Madauros, a _colonia_ in Numidia on the North African coast bordering Gaetulia, and he described himself as "half-Numidian half-Gaetulian."[4] Madaurus was the same _colonia_ where Augustine of Hippo later received part of his early education, and, though located well away from the Romanized coast, is today the site of some pristine Roman ruins. As to his first name, no _praenomen_ is given in any ancient source;[5] late-medieval manuscripts began the tradition of calling him _Lucius_ from the name of the hero of his novel.[6] Details regarding his life come mostly from his defense speech (_Apology_) and his work _Florida_, which consists of snippets taken from some of his best speeches.
+Apuleius was born in Madauros, a _colonia_ in Numidia on the North African coast bordering Gaetulia, and he described himself as "half-Numidian half-Gaetulian."[4] Madaurus was the same _colonia_ where Augustine of Hippo later received part of his early education, and, though located well away from the Romanized coast, is today the site of some pristine Roman ruins. As to his first name, no _praenomen_ is given in any ancient source;[5] late-medieval manuscripts began the tradition of calling him _Lucius_ from the name of the hero of his novel.[6] Details regarding his life come mostly from his defense speech (_Apology_) and his work _Florida_, which consists of snippets taken from some of his best speeches.
 
 His father was a provincial magistrate (_duumvir_)[7] who bequeathed at his death the sum of nearly two million sesterces to his two sons.[8] Apuleius studied with a master at Carthage (where he later settled) and later at Athens, where he studied Platonist philosophy among other subjects. He subsequently went to Rome[9] to study Latin rhetoric and, most likely, to speak in the law courts for a time before returning to his native North Africa. He also travelled extensively in Asia Minor and Egypt, studying philosophy and religion, burning up his inheritance while doing so.
 
@@ -22,7 +22,7 @@ The date, place and circumstances of Apuleius' death are not known.[21][22] Ther
 
 Works
 
-ApuleiusFrontispiece.jpg'' edition of _The Works of Apuleius_: a portrait of Apuleius flanked by Pamphile changing into an owl and the Golden Ass]]
+'' edition of _The Works of Apuleius_: a portrait of Apuleius flanked by Pamphile changing into an owl and the Golden Ass]]
 
 _The Golden Ass_
 

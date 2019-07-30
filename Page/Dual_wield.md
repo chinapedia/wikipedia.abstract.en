@@ -1,4 +1,4 @@
-Mongolian_Armed_Forces_100711-A-CE583-114.jpg DUAL WIELDING is using two weapons, one in each hand, during combat. It is not a common combat practice. Although historical records of dual wielding in war are limited, there are numerous weapon-based martial arts that involve the use of a pair of weapons. The use of a companion weapon is sometimes employed in European martial arts and fencing, such as a parrying dagger. Miyamoto Musashi, a Japanese swordsman and _ronin_, was said to have conceived of the idea of a particular style of swordsmanship involving the use of two swords.
+DUAL WIELDING is using two weapons, one in each hand, during combat. It is not a common combat practice. Although historical records of dual wielding in war are limited, there are numerous weapon-based martial arts that involve the use of a pair of weapons. The use of a companion weapon is sometimes employed in European martial arts and fencing, such as a parrying dagger. Miyamoto Musashi, a Japanese swordsman and _ronin_, was said to have conceived of the idea of a particular style of swordsmanship involving the use of two swords.
 
 In terms of firearms and handguns, this style has been popularized by television, but is generally denounced by firearm enthusiasts due to its impracticality. Though using two hand guns at a time confers an advantage by allowing more ready ammunition, it is rarely done due to other aspects of weapons handling. Dual wielding is present in many films and video games, which have the freedom of ignoring the impracticality of the style. The term itself is often invoked in the context of games.
 
@@ -14,7 +14,7 @@ All the above-mentioned examples, involve either one long and one short weapon, 
 
 Modern times
 
-Alison_Carroll_20080927_Festival_du_jeu_video_02.jpg dual wielding pistols]] Dual wielding two handguns was said to have been popularized by the passion of gun enthusiasts and television.[5] In modern terms, the use of a gun in each hand is most associated with the American Old West, mainly due to media portrayals. It was common for people in the era to carry two guns, but not to use them at the same time, as shown in movies. The other pistol was used as a back-up weapon.[6]
+dual wielding pistols]] Dual wielding two handguns was said to have been popularized by the passion of gun enthusiasts and television.[5] In modern terms, the use of a gun in each hand is most associated with the American Old West, mainly due to media portrayals. It was common for people in the era to carry two guns, but not to use them at the same time, as shown in movies. The other pistol was used as a back-up weapon.[6]
 
 However, there were several examples of gunmen in the West who actually used two pistols at the same time in their gunfights:
 

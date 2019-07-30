@@ -1,4 +1,4 @@
-Motorboat_at_Kankaria_lake.JPG with an outboard motor]]
+with an outboard motor]]
 
 A BOAT is a watercraft of a large range of type and size. Ships are generally distinguished from boats based on their larger size, shape, and cargo or passenger capacity, and their ability to carry boats.
 
@@ -11,7 +11,7 @@ Boats can be propelled by manpower (e.g. rowboats and paddle boats), wind (e.g. 
 
 History
 
-Dołbanka.jpg (dowbanka) dating from the end of the 19th century at Radomysl Castle, Ukraine[1]]]
+(dowbanka) dating from the end of the 19th century at Radomysl Castle, Ukraine[1]]]
 
 Boats have served as transportation since the earliest times.[2] Circumstantial evidence, such as the early settlement of Australia over 40,000 years ago, findings in Crete dated 130,000 years ago,[3] and in Flores dated to 900,000 years ago,[4] suggest that boats have been used since prehistoric times. The earliest boats are thought to have been dugouts,[5] and the oldest boats found by archaeological excavation date from around 7,000–10,000 years ago. The oldest recovered boat in the world, the Pesse canoe, found in the Netherlands, is a dugout made from the hollowed tree trunk of a _Pinus sylvestris_ that was constructed somewhere between 8200 and 7600 BC. This canoe is exhibited in the Drents Museum in Assen, Netherlands.[6][7] Other very old dugout boats have also been recovered.[8][9][10] Rafts have operated for at least 8,000 years.[11] A 7,000-year-old seagoing reed boat has been found in Kuwait.[12] Boats were used between 4000 and 3000 BC in Sumer,[13] ancient Egypt[14] and in the Indian Ocean.[15]
 
@@ -22,7 +22,7 @@ The historians Herodotus, Pliny the Elder and Strabo record the use of boats for
 
 Types
 
-সারি_সারি_পাল_তোলা_নৌকা.jpg Boats can be categorized into three main types:
+Boats can be categorized into three main types:
 
 1.  Unpowered or human-powered. Unpowered craft include rafts meant for one-way downstream travel. Human-powered boats include canoes, kayaks, gondolas and boats propelled by poles like a punt.
 2.  Sailboats, propelled mainly by means of sails.
@@ -38,7 +38,7 @@ The forward end of a boat is called the bow, the aft end the stern. Facing forwa
 
 Building materials
 
-COLLECTIE_TROPENMUSEUM_Een_Toba_Batak_prauw_met_houtsnijwerk_op_de_voorsteven_TMnr_60011149.jpg boat (circa 1870), photograph by Kristen Feilberg]] Boats_at_Bhimili_beach_in_Visakhapatnam.jpg, India]]
+boat (circa 1870), photograph by Kristen Feilberg]] , India]]
 
 Until the mid-19th century most boats were made of natural materials, primarily wood, although reed, bark and animal skins were also used. Early boats include the bound-reed style of boat seen in Ancient Egypt, the birch bark canoe, the animal hide-covered kayak[21] and coracle and the dugout canoe made from a single log.
 

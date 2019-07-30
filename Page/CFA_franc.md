@@ -1,4 +1,4 @@
-CFA_Franc_map.svg The CFA FRANC (in French: _franc CFA_ , or colloquially _franc_) is the name of two currencies, the West African CFA franc, used in eight West African countries, and the Central African CFA franc, used in six Central African countries. Both currencies are guaranteed by the French treasury. Although separate, the two CFA franc currencies have always been at parity and are effectively interchangeable. The ISO currency codes are XAF for the Central African CFA franc and XOF for the West African CFA franc.
+The CFA FRANC (in French: _franc CFA_ , or colloquially _franc_) is the name of two currencies, the West African CFA franc, used in eight West African countries, and the Central African CFA franc, used in six Central African countries. Both currencies are guaranteed by the French treasury. Although separate, the two CFA franc currencies have always been at parity and are effectively interchangeable. The ISO currency codes are XAF for the Central African CFA franc and XOF for the West African CFA franc.
 
 Both CFA francs have a fixed exchange rate to the euro: 100 CFA francs = 1 former French (nouveau) franc = 0.152449 euro; or 1 € = 6.55957 FRF = 655.957 CFA francs exactly.
 
@@ -74,7 +74,7 @@ There are two different currencies called the CFA franc: the West African CFA fr
 
 West African
 
-BCEAOFranc.png The West African CFA franc (XOF) is known in French as the , where CFA stands for _Communauté financière d'Afrique_ ("Financial Community of Africa") or ("African Financial Community").[9] It is issued by the BCEAO (, i.e., "Central Bank of the West African States"), located in Dakar, Senegal, for the eight countries of the UEMOA (, i.e., "West African Economic and Monetary Union"):
+The West African CFA franc (XOF) is known in French as the , where CFA stands for _Communauté financière d'Afrique_ ("Financial Community of Africa") or ("African Financial Community").[9] It is issued by the BCEAO (, i.e., "Central Bank of the West African States"), located in Dakar, Senegal, for the eight countries of the UEMOA (, i.e., "West African Economic and Monetary Union"):
 
 -   -   -   -   -   -   -   -
 
@@ -82,7 +82,7 @@ These eight countries have a combined population of 102.5 million people (as of
 
 Central African
 
-Africacoins.png CFA.jpg The Central Africa CFA franc (XAF) is known in French as the , where CFA stands for ("Financial Cooperation in Central Africa"). It is issued by the BEAC (, i.e., "Bank of the Central African States"), located in Yaoundé, Cameroon, for the six countries of the CEMAC (, i.e., "Economic and Monetary Community of Central Africa"):
+The Central Africa CFA franc (XAF) is known in French as the , where CFA stands for ("Financial Cooperation in Central Africa"). It is issued by the BEAC (, i.e., "Bank of the Central African States"), located in Yaoundé, Cameroon, for the six countries of the CEMAC (, i.e., "Economic and Monetary Community of Central Africa"):
 
 -   -   -   -   -   -
 

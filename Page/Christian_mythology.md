@@ -1,4 +1,4 @@
-Stgeorge-dragon.jpg'' by Gustave Moreau.]]
+'' by Gustave Moreau.]]
 
 CHRISTIAN MYTHOLOGY is the body of myths associated with Christianity. The term encompasses a broad variety of legends and stories, especially those considered sacred narratives. Mythological themes and elements occur throughout Christian literature, including recurring myths such as ascending to a mountain, the _axis mundi_, myths of combat, descent into the Underworld, accounts of a dying-and-rising god, flood stories, stories about the founding of a tribe or city, and myths about great heroes (or saints) of the past, paradises, and self-sacrifice.
 
@@ -15,7 +15,7 @@ Christian theologian and professor of New Testament, Rudolf Bultmann wrote that:
 
 Myths as traditional or sacred stories
 
-Saint_brendan_german_manuscript.jpg In its broadest academic sense, the word _myth_ simply means a traditional story. However, many scholars restrict the term "myth" to sacred stories.[2] Folklorists often go further, defining myths as "tales believed as true, usually sacred, set in the distant past or other worlds or parts of the world, and with extra-human, inhuman, or heroic characters".[3]
+In its broadest academic sense, the word _myth_ simply means a traditional story. However, many scholars restrict the term "myth" to sacred stories.[2] Folklorists often go further, defining myths as "tales believed as true, usually sacred, set in the distant past or other worlds or parts of the world, and with extra-human, inhuman, or heroic characters".[3]
 
 In classical Greek, _muthos_, from which the English word _myth_ derives, meant "story, narrative." By the time of Christ, _muthos_ had started to take on the connotations of "fable, fiction,"[4] and early Christian writers often avoided calling a story from canonical scripture a "myth".[5] Paul warned Timothy to have nothing to do with "godless and silly myths" (_bebēthous kai graōdeis muthous)_.[6] This negative meaning of "myth" passed into popular usage.[7] Some modern Christian scholars and writers have attempted to rehabilitate the term "myth" outside academia, describing stories in canonical scripture (especially the Christ story) as "true myth"; examples include C. S. Lewis and Andrew Greeley.[8] Several modern Christian writers, such as C.S. Lewis, have described elements of Christianity, particularly the story of Christ, as "myth" which is also "true" ("true myth").[9][10][11] Others object to associating Christianity with "myth" for a variety of reasons: the association of the term "myth" with polytheism,[12][13][14] the use of the term "myth" to indicate falsehood or non-historicity,[15][16][17][18][19] and the lack of an agreed-upon definition of "myth".[20][21][22] As examples of Biblical myths, Every cites the creation account in Genesis 1 and 2 and the story of Eve's temptation.[23] Many Christians believe parts of the Bible to be symbolic or metaphorical (such as the Creation in Genesis).[24]
 
@@ -52,7 +52,7 @@ Eschatology
 
 Other examples
 
-Paradiso_Canto_31.jpg Examples of (1) Christian myths not mentioned in canon and (2) literary and traditional elaborations on canonical Christian mythology:
+Examples of (1) Christian myths not mentioned in canon and (2) literary and traditional elaborations on canonical Christian mythology:
 
 -   Versions of Christian mythology used by Gnostic Christianity
     -   The Valentinian creation myth involving Sophia and the demiurge.[33]
@@ -135,7 +135,7 @@ Although the text of Genesis does not identify the tempting serpent with Satan, 
 
 Ascending the mountain
 
-Bloch-SermonOnTheMount.jpg]]
+]]
 
 According to Lorena Laura Stookey, many myths feature sacred mountains as "the sites of revelations": "In myth, the ascent of the holy mountain is a spiritual journey, promising purification, insight, wisdom, or knowledge of the sacred".[44] As examples of this theme, Stookey includes the revelation of the Ten Commandments on Mount Sinai, Christ's ascent of a mountain to deliver his Sermon on the Mount, and Christ's ascension into Heaven from the Mount of Olives.[45]
 
@@ -153,7 +153,7 @@ Many Near Eastern religions include a story about a battle between a divine bein
 
 Descent to the underworld
 
-Harrowhell.jpg'', 14th-century illuminated manuscript]] According to David Leeming, writing in _The Oxford Companion to World Mythology_, the harrowing of hell is an example of the motif of the hero's descent to the underworld, which is common in many mythologies.[66] According to Christian tradition, Christ descended to hell after his death in order to free the souls there; this event is known as the Harrowing of Hell. This story is narrated in the Gospel of Nicodemus and may be the meaning behind 1 Peter 3:18-22.[67][68]
+'', 14th-century illuminated manuscript]] According to David Leeming, writing in _The Oxford Companion to World Mythology_, the harrowing of hell is an example of the motif of the hero's descent to the underworld, which is common in many mythologies.[66] According to Christian tradition, Christ descended to hell after his death in order to free the souls there; this event is known as the Harrowing of Hell. This story is narrated in the Gospel of Nicodemus and may be the meaning behind 1 Peter 3:18-22.[67][68]
 
 Dying god
 
@@ -185,7 +185,7 @@ In terms of values, Leeming contrasts "the myth of Jesus" with the myths of othe
 
 Paradise
 
-Sirin_Sunduk_1710.jpg, Pomors often depicted sirins as birds sitting in paradise trees. 1710]] Many religious and mythological systems contain myths about a paradise. Many of these myths involve the loss of a paradise that existed at the beginning of the world. Some scholars have seen in the story of the Garden of Eden an instance of this general motif.[99][100]
+, Pomors often depicted sirins as birds sitting in paradise trees. 1710]] Many religious and mythological systems contain myths about a paradise. Many of these myths involve the loss of a paradise that existed at the beginning of the world. Some scholars have seen in the story of the Garden of Eden an instance of this general motif.[99][100]
 
 Sacrifice
 
@@ -217,7 +217,7 @@ In modern literature, atonement continues to be theme. In the first of C. S. Lew
 
 Witches
 
-Albert_Joseph_Pénot_-_Départ_pour_le_Sabbat_(1910).jpg on a broomstick — a motif included in _Errores Gazariorum_ ("Errors of the Gazarii") written in 1437, probably by a Savoyard inquisitor]] In the early modern period, distinguished Christian theologians developed elaborated witch mythologies which contributed to the intensification of witch hunts.[107] Major works in Christian demonology, such as Malleus Maleficarum, were dedicated to the implementation of Exodus 22:18 of the Old Testament: "You shall not permit a sorceress to live."[108] The concept of witches' sabbath was well articulated by the 17th century. Theologian Martin Delrio was one of the first to provide a vivid description in his influential _Disquisitiones magicae_:[109]
+on a broomstick — a motif included in _Errores Gazariorum_ ("Errors of the Gazarii") written in 1437, probably by a Savoyard inquisitor]] In the early modern period, distinguished Christian theologians developed elaborated witch mythologies which contributed to the intensification of witch hunts.[107] Major works in Christian demonology, such as Malleus Maleficarum, were dedicated to the implementation of Exodus 22:18 of the Old Testament: "You shall not permit a sorceress to live."[108] The concept of witches' sabbath was well articulated by the 17th century. Theologian Martin Delrio was one of the first to provide a vivid description in his influential _Disquisitiones magicae_:[109]
 
   There, on most occasions, once a foul, disgusting fire has been lit, an evil spirit sits on a throne as president of the assembly. His appearance is terrifying, almost always that of a male goat or a dog. The witches come forward to worship him in different ways. Sometimes they supplicate him on bended knee; sometimes they stand with their back turned to him. They offer candles made of pitch or a child's umbilical cord, and kiss him on the anal orifice as a sign of homage. Sometimes they imitate the sacrifice of the Mass (the greatest of all their crimes), as well as purifying with water and similar Catholic ceremonies. After the feast, each evil spirit takes by the hand the disciple of whom he has charge, and so that they may do everything with the most absurd kind of ritual, each person bends over backwards, joins hands in a circle, and tosses his head as frenzied fanatics do. Then they begin to dance. They sing very obscene songs in his [Satan's] honour. They behave ridiculously in every way, and in every way contrary to accepted custom. Then their demon-lovers copulate with them in the most repulsive fashion.
 
@@ -228,8 +228,6 @@ Christian eschatological myths include stories of the afterlife: the narratives 
 The major features of Christian eschatological mythology include afterlife beliefs, the Second Coming, the resurrection of the dead, and the final judgment.
 
 Immediate afterlife (heaven and hell)
-
-Good_shepherd_02b_close.jpg
 
 Most Christian denominations hold some belief in an immediate afterlife when people die. Christian scripture gives a few descriptions of an immediate afterlife and a heaven and hell; however, for the most part, both New and Old Testaments focus much more on the myth of a final bodily resurrection than any beliefs about a purely spiritual afterlife away from the body.
 
@@ -249,7 +247,7 @@ As the doctrines of heaven and hell and (Catholic) purgatory developed, non-cano
 
 Second Coming
 
-Wandering_jew.jpg.]] The Second Coming of Christ holds a central place in Christian mythology. The Second Coming is the return of Christ to earth during the period of transformation preceding the end of this world and the establishment of the Kingdom of Heaven on earth. According to Matthew's gospel, when Jesus is on trial before the Roman and Jewish authorities, he claims, "In the future you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven."[112] The legend of the _Wandering Jew_ concerns a Jew who taunted Jesus on the way to the Crucifixion and was then cursed to walk the earth until the Second Coming.
+.]] The Second Coming of Christ holds a central place in Christian mythology. The Second Coming is the return of Christ to earth during the period of transformation preceding the end of this world and the establishment of the Kingdom of Heaven on earth. According to Matthew's gospel, when Jesus is on trial before the Roman and Jewish authorities, he claims, "In the future you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven."[112] The legend of the _Wandering Jew_ concerns a Jew who taunted Jesus on the way to the Crucifixion and was then cursed to walk the earth until the Second Coming.
 
 Resurrection and final judgment
 
@@ -281,7 +279,7 @@ In the Roman Church's condemnation of millennialism, Eliade sees "the first mani
 
 Attitudes toward time
 
-Ezekiel's_vision.jpg and chariot vision, based on the description by Ezekiel.]] According to Mircea Eliade, many traditional societies have a cyclic sense of time, periodically reenacting mythical events.[136] Through this reenactment, these societies achieve an "eternal return" to the mythical age.[137] According to Eliade, Christianity retains a sense of cyclical time, through the ritual commemoration of Christ's life and the imitation of Christ's actions; Eliade calls this sense of cyclical time a "mythical aspect" of Christianity.[138]
+and chariot vision, based on the description by Ezekiel.]] According to Mircea Eliade, many traditional societies have a cyclic sense of time, periodically reenacting mythical events.[136] Through this reenactment, these societies achieve an "eternal return" to the mythical age.[137] According to Eliade, Christianity retains a sense of cyclical time, through the ritual commemoration of Christ's life and the imitation of Christ's actions; Eliade calls this sense of cyclical time a "mythical aspect" of Christianity.[138]
 
 However, Judeo-Christian thought also makes an "innovation of the first importance", Eliade says, because it embraces the notion of linear, historical time; in Christianity, "time is no longer [only] the circular Time of the Eternal Return; it has become linear and irreversible Time".[139] Summarizing Eliade's statements on this subject, Eric Rust writes, "A new religious structure became available. In the Judaeo-Christian religions—Judaism, Christianity, Islam—history is taken seriously, and linear time is accepted. [...] The Christian myth gives such time a beginning in creation, a center in the Christ-event, and an end in the final consummation."[140]
 
@@ -331,7 +329,7 @@ The Bible
 
 Old Testament
 
-Destruction_of_Leviathan.png''. 1865 engraving by Gustave Doré]] Mythic patterns such as the primordial struggle between good and evil appear in passages throughout the Hebrew Bible, including passages that describe historical events.[158] A distinctive characteristic of the Hebrew Bible is the reinterpretation of myth on the basis of history, as in the Book of Daniel, a record of the experience of the Jews of the Second Temple period under foreign rule, presented as a prophecy of future events and expressed in terms of "mythic structures" with "the Hellenistic kingdom figured as a terrifying monster that cannot but recall [the Near Eastern pagan myth of] the dragon of chaos".[159]
+''. 1865 engraving by Gustave Doré]] Mythic patterns such as the primordial struggle between good and evil appear in passages throughout the Hebrew Bible, including passages that describe historical events.[158] A distinctive characteristic of the Hebrew Bible is the reinterpretation of myth on the basis of history, as in the Book of Daniel, a record of the experience of the Jews of the Second Temple period under foreign rule, presented as a prophecy of future events and expressed in terms of "mythic structures" with "the Hellenistic kingdom figured as a terrifying monster that cannot but recall [the Near Eastern pagan myth of] the dragon of chaos".[159]
 
 Mircea Eliade argues that the imagery used in some parts of the Hebrew Bible reflects a "transfiguration of history into myth".[160] For example, Eliade says, the portrayal of Nebuchadnezzar as a dragon in Jeremiah 51:34 is a case in which the Hebrews "interpreted contemporary events by means of the very ancient cosmogonico-heroic myth" of a battle between a hero and a dragon.[161]
 
@@ -354,7 +352,7 @@ The Sibylline oracles contain predictions that the dead Roman Emperor Nero, infa
 
 Historical development
 
-Taby_kyrka_Death_playing_chess.jpg playing chess from Täby Church in Sweden]]
+playing chess from Täby Church in Sweden]]
 
 From Roman Empire to Europe
 
@@ -372,7 +370,7 @@ According to Eliade, "eschatological myths" became prominent during the Middle A
 
 Renaissance and Reformation
 
-During the Renaissance, there arose a critical attitude that sharply distinguished between apostolic tradition and what George Every calls "subsidiary mythology"—popular legends surrounding saints, relics, the cross, etc.—suppressing the latter.[217] San_Giovanni_Evangelista_in_Ravenna,_unicorn.jpg mosaic on a 1213 church floor in Ravenna]] The works of Renaissance writers often included and expanded upon Christian and non-Christian stories such as those of creation and the Fall. Rita Oleyar describes these writers as "on the whole, reverent and faithful to the primal myths, but filled with their own insights into the nature of God, man, and the universe".[218] An example is John Milton's _Paradise Lost_, an "epic elaboration of the Judeo-Christian mythology" and also a "veritable encyclopedia of myths from the Greek and Roman tradition".[219]
+During the Renaissance, there arose a critical attitude that sharply distinguished between apostolic tradition and what George Every calls "subsidiary mythology"—popular legends surrounding saints, relics, the cross, etc.—suppressing the latter.[217] mosaic on a 1213 church floor in Ravenna]] The works of Renaissance writers often included and expanded upon Christian and non-Christian stories such as those of creation and the Fall. Rita Oleyar describes these writers as "on the whole, reverent and faithful to the primal myths, but filled with their own insights into the nature of God, man, and the universe".[218] An example is John Milton's _Paradise Lost_, an "epic elaboration of the Judeo-Christian mythology" and also a "veritable encyclopedia of myths from the Greek and Roman tradition".[219]
 
 According to Cynthia Stewart, during the Reformation, the Protestant reformers used "the founding myths of Christianity" to critique the church of their time.[220]
 

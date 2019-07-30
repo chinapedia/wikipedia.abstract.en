@@ -26,7 +26,7 @@ As a noun, the word _GIF_ is found in the newer editions of many dictionaries. I
 
 Pronunciation of GIF
 
-White_House_Tumblr_launch_image.jpg Tumblr suggests pronouncing GIF with the hard "G" sound.]]
+Tumblr suggests pronouncing GIF with the hard "G" sound.]]
 
 The creators of the format pronounced the word as "jif" with a soft "G" as in "gin". Steve Wilhite says that the intended pronunciation deliberately echoes the American peanut butter brand Jif, and CompuServe employees would often say "Choosy developers choose GIF", spoofing this brand's television commercials.[11] The word is now also widely pronounced with a hard "G" as in "gift".[12] In 2017, an informal poll on programming website Stack Overflow showed some numerical preference for hard-"G" pronunciation,[13] especially among respondents in eastern Europe, though both soft-"G" and enunciating each letter individually were found to be popular in Asia and emerging countries.[14]
 
@@ -44,7 +44,7 @@ Usage
 
 File format
 
-Empty_GIF_hex.png in a hex editor]] Conceptually, a GIF file describes a fixed-sized graphical area (the "logical screen") populated with zero or more "images". Many GIF files have a single image that fills the entire logical screen. Others divide the logical screen into separate sub-images. The images may also function as animation frames in an animated GIF file, but again these need not fill the entire logical screen.
+in a hex editor]] Conceptually, a GIF file describes a fixed-sized graphical area (the "logical screen") populated with zero or more "images". Many GIF files have a single image that fills the entire logical screen. Others divide the logical screen into separate sub-images. The images may also function as animation frames in an animated GIF file, but again these need not fill the entire logical screen.
 
 GIF files start with a fixed-length header ("GIF87a" or "GIF89a") giving the version, followed by a fixed-length Logical Screen Descriptor giving the pixel dimensions and other characteristics of the logical screen. The screen descriptor may also specify the presence and size of a Global Color Table, which follows next if present.
 
@@ -72,7 +72,7 @@ The full detail of the file format is covered in the GIF specification.[30]
 
 Palettes
 
-Sunflower_as_gif_websafe.gif palette and dithered using the Floyd–Steinberg method. Due to the reduced number of colors in the image, there are display issues.]] GIF is palette-based: the colors used in an image (a frame) in the file have their RGB values defined in a palette table that can hold up to 256 entries, and the data for the image refer to the colors by their indices (0–255) in the palette table. The color definitions in the palette can be drawn from a color space of millions of shades (2²⁴ shades, 8 bits for each primary), but the maximum number of colors a frame can use is 256. This limitation seemed reasonable when GIF was developed because few people could afford the hardware to display more colors simultaneously. Simple graphics, line drawings, cartoons, and grey-scale photographs typically need fewer than 256 colors.
+palette and dithered using the Floyd–Steinberg method. Due to the reduced number of colors in the image, there are display issues.]] GIF is palette-based: the colors used in an image (a frame) in the file have their RGB values defined in a palette table that can hold up to 256 entries, and the data for the image refer to the colors by their indices (0–255) in the palette table. The color definitions in the palette can be drawn from a color space of millions of shades (2²⁴ shades, 8 bits for each primary), but the maximum number of colors a frame can use is 256. This limitation seemed reasonable when GIF was developed because few people could afford the hardware to display more colors simultaneously. Simple graphics, line drawings, cartoons, and grey-scale photographs typically need fewer than 256 colors.
 
 Each frame can designate one index as a "transparent background color": any pixel assigned this index takes on the color of the pixel in the same position from the background, which may have been determined by a previous frame of animation.
 
@@ -84,7 +84,7 @@ A small color table may suffice for small images, and keeping the color table sm
 
 True color
 
-SmallFullColourGIF.gif Although GIF is almost never used for true color images, it is possible to do so.[31][32] A GIF image can include multiple image blocks, each of which can have its own 256-color palette, and the blocks can be tiled to create a complete image. Alternatively, the GIF89a specification introduced the idea of a "transparent" color where each image block can include its own palette of 255 visible colors plus one transparent color. A complete image can be created by layering image blocks with the visible portion of each layer showing through the transparent portions of the layers above.
+Although GIF is almost never used for true color images, it is possible to do so.[31][32] A GIF image can include multiple image blocks, each of which can have its own 256-color palette, and the blocks can be tiled to create a complete image. Alternatively, the GIF89a specification introduced the idea of a "transparent" color where each image block can include its own palette of 255 visible colors plus one transparent color. A complete image can be created by layering image blocks with the visible portion of each layer showing through the transparent portions of the layers above.
 
 To render a full-color image as a GIF, the original image must be broken down into smaller regions having no more than 255 or 256 different colors. Each of these regions is then stored as a separate image block with its own local palette and when the image blocks are displayed together (either by tiling or by layering partially transparent image blocks) the complete, full-color image appears. For example, breaking an image into tiles of 16 by 16 pixels (256 pixels in total) ensures that no tile has more than the local palette limit of 256 colors, although larger tiles may be used and similar colors merged resulting in some loss of color information.[33]
 
@@ -93,7 +93,7 @@ Since each image block requires its own local color table, a GIF file having lot
 
 Example GIF file
 
-gifSample.gif GIFPAL.png Microsoft Paint saves a small black-and-white image as the following GIF file. Paint does not make optimal use of GIF; due to the unnecessarily large color table (storing a full 256 colors instead of the used 2) and symbol width, this GIF file is not an efficient representation of the 15-pixel image (illustrated enlarged above).
+Microsoft Paint saves a small black-and-white image as the following GIF file. Paint does not make optimal use of GIF; due to the unnecessarily large color table (storing a full 256 colors instead of the used 2) and symbol width, this GIF file is not an efficient representation of the 15-pixel image (illustrated enlarged above).
 
 Although the Graphics Control Extension block declares color index 16 (hexadecimal 10) to be transparent, that index is not used in the image. The only color indexes appearing in the image data are decimal 40 and 255, which the Global Color Table maps to black and white, respectively.
 
@@ -270,7 +270,7 @@ The code table initially contains codes that are one bit longer than the symbol 
 
 Uncompressed GIF
 
-A 46 x 46 uncompressed GIF with 7-bit symbols (128 colors, 8-bit codes). Click on the image for an explanation of the code. The GIF encoding process can be modified to create a file without LZW compression that is still viewable as a GIF image. This technique was introduced originally as a way to avoid patent infringement. Uncompressed GIF can also be a useful intermediate format for a graphics programmer because individual pixels are accessible for reading or painting. An uncompressed GIF file can be converted to an ordinary GIF file simply by passing it through an image editor.
+The GIF encoding process can be modified to create a file without LZW compression that is still viewable as a GIF image. This technique was introduced originally as a way to avoid patent infringement. Uncompressed GIF can also be a useful intermediate format for a graphics programmer because individual pixels are accessible for reading or painting. An uncompressed GIF file can be converted to an ordinary GIF file simply by passing it through an image editor.
 
 The modified encoding method ignores building the LZW table and emits only the root palette codes and the codes for CLEAR and STOP. This yields a simpler encoding (a 1-to-1 correspondence between code values and palette codes) but sacrifices all of the compression: each pixel in the image generates an output code indicating its color index. When processing an uncompressed GIF, a standard GIF decoder will not be prevented from writing strings to its dictionary table, but the code width must never increase since that triggers a different packing of bits to bytes.
 
@@ -345,7 +345,7 @@ The pixels within each line are not interlaced, but presented consecutively from
 
 Animated GIF
 
-Newtons_cradle_animation_book_2.gif.]] Animated_GIF_cheloVechek.gif
+.]]
 
 Although GIF was not designed as an animation medium, its ability to store multiple images in one file naturally suggested using the format to store the frames of an animation sequence. To facilitate _displaying_ animations, the GIF89a spec added the Graphics Control Extension (GCE), which allows the images (frames) in the file to be painted with time delays, forming a video clip. Each frame in an animation GIF is introduced by its own GCE specifying the time delay to wait after the frame is drawn. Global information at the start of the file applies by default to all frames. The data is stream-oriented, so the file offset of the start of each GCE depends on the length of preceding data. Within each frame the LZW-coded image data is arranged in sub-blocks of up to 255 bytes; the size of each sub-block is declared by the byte that precedes it.
 

@@ -87,7 +87,7 @@ $$\begin{vmatrix}
 
 2 × 2 matrices
 
-Area_parallellogram_as_determinant.svg The Leibniz formula for the determinant of a matrix is
+The Leibniz formula for the determinant of a matrix is
 
 $$\begin{vmatrix} a & b \\c & d \end{vmatrix} = ad - bc.$$
 
@@ -110,7 +110,7 @@ The object known as the _bivector_ is related to these ideas. In 2D, it can be i
 
 3 × 3 matrices
 
-Determinant_parallelepiped.svg is the absolute value of the determinant of the matrix formed by the rows constructed from the vectors r1, r2, and r3.]]
+is the absolute value of the determinant of the matrix formed by the rows constructed from the vectors r1, r2, and r3.]]
 
 The Laplace formula for the determinant of a matrix is
 
@@ -126,8 +126,6 @@ $$\begin{align}
 \end{align}$$
 
 which is the Leibniz formula for the determinant of a matrix.
-
-Sarrus_rule.svg
 
 The rule of Sarrus is a mnemonic for the matrix determinant: the sum of the products of three diagonal north-west to south-east lines of matrix elements, minus the sum of the products of three diagonal south-west to north-east lines of elements, when the copies of the first two columns of the matrix are written beside it as in the illustration. This scheme for calculating the determinant of a matrix does not carry over into higher dimensions.
 
@@ -608,7 +606,7 @@ between the group of invertible matrices with entries in _R_ and the multiplicat
 _f_(det ((_a__(_i_, _j_)))) = det ((_f_(_a__(_i_, _j_))))
 holds. In other words, the following diagram commutes:
 
-    Determinant_as_a_natural_transformation.svg
+
 
 For example, the determinant of the complex conjugate of a complex matrix (which is also the determinant of its conjugate transpose) is the complex conjugate of its determinant, and for integer matrices: the reduction modulo _m_ of the determinant of such a matrix is equal to the determinant of the matrix reduced modulo _m_ (the latter determinant being computed using modular arithmetic). In the language of category theory, the determinant is a natural transformation between the two functors GL_(_n_) and (⋅)^(×) (see also Natural transformation#Determinant).[14] Adding yet another layer of abstraction, this is captured by saying that the determinant is a morphism of algebraic groups, from the general linear group to the multiplicative group,
 

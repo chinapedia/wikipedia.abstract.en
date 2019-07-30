@@ -18,7 +18,7 @@ The area which is today Casablanca was founded and settled by Berbers by at leas
 
 Portuguese conquest and Spanish influence
 
-Braun_Anfa_UBHD.jpg In the early 15th century, the town became an independent state once again, and emerged as a safe harbour for pirates and privateers, leading to it being targeted by the Portuguese, who bombarded the town which led to its destruction in 1468.[7] The Portuguese used the ruins of Anfa to build a military fortress in 1515. The town that grew up around it was called Casa Branca, meaning "white house" in Portuguese.
+In the early 15th century, the town became an independent state once again, and emerged as a safe harbour for pirates and privateers, leading to it being targeted by the Portuguese, who bombarded the town which led to its destruction in 1468.[7] The Portuguese used the ruins of Anfa to build a military fortress in 1515. The town that grew up around it was called Casa Branca, meaning "white house" in Portuguese.
 
 Between 1580 and 1640, the Crown of Portugal was integrated to the Crown of Spain, so Casablanca and all other areas occupied by the Portuguese were under Spanish control, though maintaining an autonomous Portuguese administration. As Portugal broke ties with Spain in 1640, Casablanca came under fully Portuguese control once again.[8] The Europeans eventually abandoned the area completely in 1755 following an earthquake which destroyed most of the town.[9]
 
@@ -30,9 +30,9 @@ In the 19th century, the area's population began to grow as it became a major su
 
 French rule and influence
 
-الدار_البيضاء_1907_01.jpg'' recoiling from firing artillery at the city during the bombardment of Casablanca August 1907.]] Casa_old.jpg Casa_didier55_019.jpg
+'' recoiling from firing artillery at the city during the bombardment of Casablanca August 1907.]]
 
-تخطيط_الدار_البيضاء_من_تصميم_هنري_بروست.jpg's plans to extend 4éme Zouaves Street (now Félix Houphouët-Boigny Street) from the port to the _Place de France_ (now United Nations Square), part of his redesigns of Casablanca's urban landscape.|alt=]]The Treaty of Algeciras of 1906 formalized French preeminence in Morocco and included three measures that directly impacted Casablanca: that French officers would control operations at the customs office and seize revenue as collateral for loans given by France, that the French holding company _La Compagnie Marocaine_ would develop the port of Casablanca, and that a French-and-Spanish-trained police force would be assembled to patrol the port.[13]
+'s plans to extend 4éme Zouaves Street (now Félix Houphouët-Boigny Street) from the port to the _Place de France_ (now United Nations Square), part of his redesigns of Casablanca's urban landscape.|alt=]]The Treaty of Algeciras of 1906 formalized French preeminence in Morocco and included three measures that directly impacted Casablanca: that French officers would control operations at the customs office and seize revenue as collateral for loans given by France, that the French holding company _La Compagnie Marocaine_ would develop the port of Casablanca, and that a French-and-Spanish-trained police force would be assembled to patrol the port.[13]
 
 To build the port's breakwater, narrow-gauge track was laid in June 1907 for a small Decauville locomotive to connect the port to a quarry in Roches Noires, passing through the sacred Sidi Belyout graveyard. In resistance to this and the measures of the 1906 Treaty of Algeciras, tribesmen of the Chaouia attacked the locomotive, killing 9 Compagnie Marocaine laborers—3 French, 3 Italians, and 3 Spanish.[14]
 
@@ -46,7 +46,7 @@ Europeans formed almost half the population of Casablanca.[17]
 
 World War II
 
-Immeuble_Liberté_à_Casablanca.jpg After Philippe Pétain of France signed the armistice with the Nazis, he ordered French troops in France's colonial empire to defend French territory against any aggressors—Allied or otherwise—applying a policy of "asymmetrical neutrality" in favor of the Germans.[18] French colonists in Morocco generally supported Pétain, while politically conscious Moroccans tended to favor de Gaulle and the Allies.[19]
+After Philippe Pétain of France signed the armistice with the Nazis, he ordered French troops in France's colonial empire to defend French territory against any aggressors—Allied or otherwise—applying a policy of "asymmetrical neutrality" in favor of the Germans.[18] French colonists in Morocco generally supported Pétain, while politically conscious Moroccans tended to favor de Gaulle and the Allies.[19]
 
 Operation Torch, which started on 8 November 1942, was the British-American invasion of French North Africa during the North African campaign of World War II. The Western Task Force, composed of American units led by Major General George S. Patton and Rear Admiral Henry Kent Hewitt, carried out the invasions of Mehdia, Fedhala, and Asfi. American forces captured Casablanca from Vichy control when France surrendered November 11, 1942, but the Naval Battle of Casablanca continued until American forces sunk German submarine U-173 on November 16.[20]
 
@@ -105,8 +105,6 @@ Casablanca has a hot-summer Mediterranean climate (Köppen climate classificatio
 
 
 Economy
-
-CasablancaFAR.jpg Port_of_Casablanca.jpg
 
 The Grand Casablanca region is considered the locomotive of the development of the Moroccan economy. It attracts 32% of the country's production units and 56% of industrial labor. The region uses 30% of the national electricity production. With MAD 93 billion, the region contributes to 44% of the industrial production of the kingdom. About 33% of national industrial exportations, MAD 27 billion, comes from the Grand Casablanca; 30% of the Moroccan banking network is concentrated in Casablanca.[48]
 
@@ -292,7 +290,7 @@ Notable winners of the Hassan II Grand-Prix are Thomas Muster in 1990, Hicham Ar
 
 Transport
 
-Casablanca_Tramway.jpg]]
+]]
 
 Rapid Transit
 
@@ -316,13 +314,13 @@ Compagnie de Transports au Maroc (CTM) coaches (intercity buses) and various pri
 
 Taxis
 
-Grand_Taxi_in_Centre_Ville_Casablanca.jpg Registered taxis in Casablanca are coloured red and known as _petit taxis_ (small taxis), or coloured white and known as _grands taxis_ (big taxis). As is standard Moroccan practice, _petits taxis,_ typically small-four door Dacia Logan, Peugeot 207, or similar cars, provide metered cab service in the central metropolitan areas. _Grands taxis,_ generally older Mercedes-Benz sedans, provide shared mini-bus like service within the city on predefined routes, or shared intercity service. _Grands taxis_ may also be hired for private service by the hour or day.
+Registered taxis in Casablanca are coloured red and known as _petit taxis_ (small taxis), or coloured white and known as _grands taxis_ (big taxis). As is standard Moroccan practice, _petits taxis,_ typically small-four door Dacia Logan, Peugeot 207, or similar cars, provide metered cab service in the central metropolitan areas. _Grands taxis,_ generally older Mercedes-Benz sedans, provide shared mini-bus like service within the city on predefined routes, or shared intercity service. _Grands taxis_ may also be hired for private service by the hour or day.
 
 Trains
 
 Casablanca is served by three principal railway stations run by the national rail service, the ONCF.
 
-الطرامواي_أمام_محطة_الدار_البيضاء_المسافري.jpeg.]] is the main intercity station, from which trains run south to Marrakech or El Jadida and north to Mohammedia and Rabat, and then on either to Tangier or Meknes, Fes, Taza and Oujda/Nador. It also serves as the southern terminus of the Al-Boraq high speed line from Tangier. A dedicated airport shuttle service to Mohammed V International Airport also has its primary in-city stop at this station, for connections on to further destinations.
+.]] is the main intercity station, from which trains run south to Marrakech or El Jadida and north to Mohammedia and Rabat, and then on either to Tangier or Meknes, Fes, Taza and Oujda/Nador. It also serves as the southern terminus of the Al-Boraq high speed line from Tangier. A dedicated airport shuttle service to Mohammed V International Airport also has its primary in-city stop at this station, for connections on to further destinations.
 
 serves primarily commuter trains such as the Train Navette Rapide (TNR or Aouita) operating on the Casablanca – Kenitra rail corridor, with some connecting trains running on to Gare de Casa-Voyageurs. The station provides a direct interchange between train and shipping services, and is located near several port-area hotels. It is the nearest station to the old town of Casablanca, and to the modern city centre, around the landmark Casablanca Twin Center. Casa-Port station is being rebuilt in a modern and enlarged configuration. During the construction, the station is still operational. From 2013, it will provide a close connection from the rail network to the city's new tram network.
 
@@ -331,7 +329,7 @@ Casa-Oasis was originally a suburban commuter station which was fully redesigned
 
 Notable people
 
-Merieme_Chadid.jpg led an international scientific program to install a major astronomical observatory in Antarctica.]]
+led an international scientific program to install a major astronomical observatory in Antarctica.]]
 
 -   Amal Ayouch (born 1966) – stage and film actress
 -   Salaheddine Bassir – Moroccan footballer
@@ -370,7 +368,7 @@ Merieme_Chadid.jpg led an international scientific program to install a major as
 
 In popular culture
 
-Casablanca,_title.JPG]]
+]]
 
 -   The 1942 film _Casablanca_ (starring Ingrid Bergman and Humphrey Bogart) is supposed to have been set in Casablanca, although it was filmed entirely in Los Angeles and doesn't feature a single Arab or North African character with a speaking role.[79] The film depicts Casablanca as the scene of a power struggle between competing European powers, which much more to do with the Tangier of the time.[80] The film has achieved worldwide popularity since its release. Nominated for eight Academy Awards, it won three, including Best Picture.
 

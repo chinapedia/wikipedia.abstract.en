@@ -27,7 +27,7 @@ That year, the Occupation returned production facilities to Japanese control, an
 
 Datsun in the American market
 
-Datsun_logo.png and Japan's nickname as the "Land of the Rising Sun". After the Nissan rebrand, the logo remained the same, with "Datsun" replaced by "Nissan".]]
+and Japan's nickname as the "Land of the Rising Sun". After the Nissan rebrand, the logo remained the same, with "Datsun" replaced by "Nissan".]]
 
 The use of the _Datsun_ name in the American market derives from the name Nissan used for its production cars. In fact, the cars produced by Nissan already used the Datsun brand name, a successful brand in Japan since 1932, long before World War II. Before the entry into the American market in 1958, Nissan did not produce cars under the Nissan brand name, but only trucks. Their in-house-designed cars were always branded as _Datsuns_. Hence, for Nissan executives it would be only natural to use such a successful name when exporting models to the United States. Only in the 1960s did Datsun begin to brand some automobile models as _Nissans_, like the Patrol and a small test batch of about 100 Cedric sedans,[23] and then not again until the 1980s. The Japanese market Z-car (sold as the Fairlady Z) also had Nissan badging. In America, the Nissan branch was named "_Nissan Motor Corporation in U.S.A._", and chartered on September 28, 1960, in California, but the small cars the firm exported to America were still named Datsun.
 
@@ -35,11 +35,7 @@ Corporate choice favored Datsun, so as to distance the parent factory Nissan’s
 
 Ayukawa, a well-connected and aggressive risk taker, also made himself a principal partner of the Japanese Colonial Government of Manchukuo.[24] Ultimately, Nissan Heavy Industries emerged near the end of the war as an important player in Japan’s war machinery. After the war ended, Soviet Union seized all of Nissan’s Manchuria assets, while the Occupation Forces made use of over half of the Yokohama plant. General MacArthur had Ayukawa imprisoned for 21 months as a war criminal. After release he was forbidden from returning to any corporate or public office until 1951. He was never allowed back into Nissan, which returned to passenger car manufacture in 1947 and to its original name of Nissan Motor Company Ltd. in 1949.
 
-SPL212.jpg
-
 American service personnel in their teens or early twenties during the Second World War would be in prime car-buying age by 1960, if only to find an economical small second car for their growing family needs. Yutaka Katayama (Mr. "K"), former president of Nissan's American operations, would have had his personal wartime experiences in mind supporting the name Datsun. Katayama's visit to Nissan’s Manchuria truck factory in 1939 made him realise the appalling conditions of the assembly lines, leading him to abandon the firm.[25] In 1945, near the end of the war, Katayama was ordered to return to the Manchurian plant, however he rebuffed these calls and refused to return.
-
-Datsun_240Z.jpg
 
 Katayama desired to build and sell passenger cars to people, not to the military; for him, the name "_Datsun_" had survived the war with its purity intact, not "_Nissan_". This obviously led Katayama to have problems with the corporate management. The discouragement felt by Katayama as regards his prospects at Nissan, led to his going on the verge of resigning, when Datsun’s 1958 Australian Mobilgas victories vaulted him, as leader of the winning Datsun teams, to national prominence in a Japan bent on regaining international status.
 
@@ -57,8 +53,6 @@ Katayama was made Vice President of the Nissan North American subsidiary in 1960
 
 Datsun in Europe
 
-Datsun_Cherry_ca_1973_Schaffen-Diest_2017.jpg
-
 In 1935, the very first Datsun-badged vehicle was shipped to Britain by car magnate Sir Herbert Austin. The vehicle, a Type 14, was never meant for the road or production, but was a part of a patent dispute as Austin saw a number of similarities to the car with the Austin 7 Ruby.[39] Nissan began exporting Datsun-badged cars to the United Kingdom in 1968, at which time foreign cars were a rarity, with only a small percentage of cars being imported – some of the most popular examples at the time including the Renault 16 from France and Volkswagen Beetle from West Germany. The first European market that Nissan had entered was Finland, where sales began in 1962. Within a few years, it was importing cars to most of Western Europe.[40]
 
 Datsun was particularly successful on the British market. It sold just over 6,000 cars there as late as 1971, but its sales surged to more than 30,000 the following year and continued to climb over the next few years, with well-priced products including the Cherry 100A and Sunny 120Y proving particularly popular, at a time when the British motor industry was plagued by strikes and British Leyland in particular was gaining a reputation for building cars which had major issues with build quality and reliability. During the 1970s and early 1980s, Nissan frequently enjoyed the largest market share in Britain of any foreign carmaker.[41]
@@ -67,7 +61,7 @@ By the early 1980s, the Nissan badge was gradually appearing on Datsun-badged ca
 
 Rebranding
 
-Nissan-720.jpg]]
+]]
 
 In Japan, there appears to have been what probably constituted a long-held 'official' company bias against use of the name "Datsun".[44] At the time, Kawamata was a veteran of Nissan, in the last year of his presidency, a powerful figure whose experience in the firm exceeded two decades. His rise to its leadership position occurred in 1957 in part because of his handling of the critical Nissan workers' strike that began May 25, 1953, and ran for 100 days. During his tenure as President, Kawamata stated that he "regretted that his company did not imprint its corporate name on cars, the way Toyota does. 'Looking back, we wish we had started using Nissan on all of our cars,' he says. 'But Datsun was a pet name for the cars when we started exporting.'"[45]
 
@@ -84,7 +78,7 @@ In 2001, Nissan marketed its D22 pick-up model in Japan with the name _Datsun_. 
 
 Re-launch
 
-Carlos_Ghosn_at_Datsun_Go_Launch_New_Delhi_India_July_15_2013_Picture_by_Bertel_Schmitt_3.jpg at Datsun Go Launch, New Delhi, India]] DatsunGO+F.jpg
+at Datsun Go Launch, New Delhi, India]]
 
 On 20 March 2012, it was announced that Nissan would revive the Datsun marque as a low-cost car brand for use in Indonesia, South Africa, India, and Russia,[50] and on 15 July 2013, nearly three decades after it was phased out, the name was formally resurrected. Nissan said the brand's reputation for value and reliability would help it gain market share in emerging markets.[51]
 
@@ -99,8 +93,6 @@ The Redi-Go crossover became available in India mid-2015.[62]
 In April 2014, the first model for the Russian market, the Datsun on-Do based on Lada Granta, was launched.[63]
 
 Current models
-
-Datsun_on-DO.JPG
 
 -   Datsun Go (2013–present)
 -   Datsun Go+ (2013–present)

@@ -7,8 +7,6 @@ For a short period, the Electron was reportedly the best selling micro in the Un
 
 History
 
-Hard_reset_Acorn_Electron.gif
-
 After Acorn Computer released the BBC Micro, executives believed that the company needed a less-expensive computer for the mass market. In June 1982, cofounder Hermann Hauser was asked about the recently announced £175 Sinclair ZX Spectrum's potential to hurt sales of the BBC Micro. Hauser responded that in the third quarter of that year Acorn would release a new £120-150 computer which "will probably be called the Electron", with graphics superior to the Spectrum's and compatibility with BBC Micro software. Acorn's Chris Curry stated that "the Electron is designed to compete with the Spectrum. The idea is to get the starting price very low, but not preclude expansion in the long term." The company reduced the number of chips in the Electron by 90% from the BBC Micro's about 100, with most functionality on a single Uncommitted Logic Array (ULA). Problems with the ULA delayed the Electron, however, and Acorn repeatedly missed deadlines to ship the computer.[2]
 
 Acorn formally announced the Electron at the _Acorn User_ Exhibition in August 1983, one year after Hauser mentioned the computer, by which time its price had risen to £175 while the Spectrum cost £130. The company expected to ship the Electron before Christmas, and sell 100,000 by February 1984. Reviews were generally favorable, noting its excellent graphics compared to the Commodore 64. While its speed was acceptable compared to the Commodore and competing computers the Electron was, however, much slower than the BBC Micro; _Popular Computing Weekly_ reported, for example, that BBC Micro games ran "at less than half the speed, with very significant effects on their appeal".[3]
@@ -26,7 +24,7 @@ Popular upgrades
 
 Acorn Plus 1
 
-Acorn_Electron_and_Plus_1.jpg The Acorn Plus 1 added two ROM cartridge slots, an analogue interface (supporting four channels) and a Centronics parallel port. The analogue interface was normally used for joysticks, the parallel for a printer. Game ROM cartridges would boot automatically. Languages in paged ROM cartridges would take precedence over BASIC. (The slot at the front of the interface took priority if both were populated).
+The Acorn Plus 1 added two ROM cartridge slots, an analogue interface (supporting four channels) and a Centronics parallel port. The analogue interface was normally used for joysticks, the parallel for a printer. Game ROM cartridges would boot automatically. Languages in paged ROM cartridges would take precedence over BASIC. (The slot at the front of the interface took priority if both were populated).
 
 Access to ROM memory occurred at 2 MHz until RAM access was required, so theoretically programs released on ROM could run up to twice as fast as those released on tape or disc. Despite this all of the games released on ROM were packaged as ROM file cartridges, from which the micro would load programs into main memory in exactly the same way as if it were loading from tape. This meant that programs did not need to be modified for their new memory location and could be written in BASIC but gave no execution speed benefits.
 
@@ -51,7 +49,7 @@ Per a News article on Page #9 of the October 1984 issue of Acorn User, the Acorn
 
 Acorn Plus 3
 
-Acorn_ALA13_Electron_Plus_3_(front).jpg The Acorn Plus 3 was a hardware module that connected independently of the Plus 1 and provided a double-density 3½" disc drive connected through a WD1770 drive controller and an ADFS ROM. There were two versions of the Plus 3 produced: A Single-sided and a Double-sided drive version. Because the WD1770 is capable of single density mode and uses the same IBM360 derived floppy disc format as the Intel 8271 found in the BBC Micro, it was also possible to run a DFS filing system with an alternate ROM, such as the P.R.E.S AP4 interface.
+The Acorn Plus 3 was a hardware module that connected independently of the Plus 1 and provided a double-density 3½" disc drive connected through a WD1770 drive controller and an ADFS ROM. There were two versions of the Plus 3 produced: A Single-sided and a Double-sided drive version. Because the WD1770 is capable of single density mode and uses the same IBM360 derived floppy disc format as the Intel 8271 found in the BBC Micro, it was also possible to run a DFS filing system with an alternate ROM, such as the P.R.E.S AP4 interface.
 
 The Plus 3 reset PAGE to &1D00, reducing the amount of free RAM available to user. The ADFS system could be temporarily disabled (and PAGE reset to &E00) via the *NOADFS command. Alternative WD1770-based DFS and ADFS interfaces such as the P.R.E.S AP4 and 'ADFS E00' products left PAGE at &E00, and did not require the presence of the ZYSYSHELP file (see below)
 
@@ -86,7 +84,7 @@ As a games machine the Electron shared the same failing as the Sinclair Spectrum
 
 P.R.E.S. Advanced Plus 3
 
-Advanced_Plus_3.jpg The Advanced Plus 3 was very similar to the Acorn Plus 3 but packaged as an ADFS ROM cartridge for the Plus 1 with a disc drive connector at the head. This made it possible to connect a 5¼" floppy disc drive as used by BBC Micro owners or a more common 3½" drive.
+The Advanced Plus 3 was very similar to the Acorn Plus 3 but packaged as an ADFS ROM cartridge for the Plus 1 with a disc drive connector at the head. This made it possible to connect a 5¼" floppy disc drive as used by BBC Micro owners or a more common 3½" drive.
 
 P.R.E.S. Advanced Plus 5
 
@@ -146,8 +144,6 @@ The ULA controlled memory access and was able to provide 32K × 8 bits of addres
 
 Hardware
 
-Acorn_ALF03_Data_Recorder_(top).jpg
-
 -   CPU: Synertek SY6502A[24]
 -   Clock rate: variable. CPU runs at 2 MHz when accessing ROM and 1 MHz when accessing RAM. The CPU is also periodically halted[25]. The Electron is widely misquoted as operating at 1.79 MHz after measurements derived from speed testing against the 2 MHz BBC Micro for various pieces of 'common software'[26].
 -   Glue logic: Ferranti Semiconductor Custom ULA
@@ -163,7 +159,7 @@ Acorn_ALF03_Data_Recorder_(top).jpg
 
 Quirks
 
-ExileElectron.png'' is an example of a game where the developers left non-graphical data visible in the display buffer to gain additional memory space.]] Like the BBC Micro, the Electron was constrained by limited memory resources. Of the 32 kB RAM, 3½ kB was allocated to the OS at startup and at least 10 kB was taken up by the display buffer in contiguous display modes.
+'' is an example of a game where the developers left non-graphical data visible in the display buffer to gain additional memory space.]] Like the BBC Micro, the Electron was constrained by limited memory resources. Of the 32 kB RAM, 3½ kB was allocated to the OS at startup and at least 10 kB was taken up by the display buffer in contiguous display modes.
 
 Due to the timing of interrupts it was possible to disable either the top 100 or bottom 156 lines of the display with palette changes. Many games took advantage of this, gaining storage by leaving non-graphical data in the disabled area.
 
@@ -196,7 +192,7 @@ Aardvark Software's "Frak!" and "Zalaga" As part of the copy protection, illegal
 
 Popular games
 
-Although not as well supported by the biggest software publishers as rivals like the Commodore 64 and Sinclair ZX Spectrum, a good range of games were available for the Electron. The traditional BBC Micro publishers such as Acornsoft, Superior Software and Micro Power offered the widest support. Notable popular games particularly associated with the Electron include:CrystalCastles_Electron.gif'' is an example of a popular arcade game officially ported to the Electron (US Gold).]]
+Although not as well supported by the biggest software publishers as rivals like the Commodore 64 and Sinclair ZX Spectrum, a good range of games were available for the Electron. The traditional BBC Micro publishers such as Acornsoft, Superior Software and Micro Power offered the widest support. Notable popular games particularly associated with the Electron include:'' is an example of a popular arcade game officially ported to the Electron (US Gold).]]
 
 -   _Starship Command_ (Acornsoft, 1983)
 -   _Chuckie Egg_ (A'n'F, 1984)

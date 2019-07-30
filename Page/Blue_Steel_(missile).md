@@ -5,7 +5,7 @@ Blue Steel entered service in 1963, by which point improved SAMs with longer ran
 
 Development
 
-Avro_blue_steel_front_9m07.JPG[1]]] Avro_blue_steel_side_9m07.JPG BlueSteelMissileRear.JPG aerospace museum, showing the twin-chamber "Stentor" rocket motor]]
+[1]]] aerospace museum, showing the twin-chamber "Stentor" rocket motor]]
 
 Blue Steel was the result of a Ministry of Supply memorandum from 5 November 1954 that predicted that by 1960 Soviet air defences would make it impossible for V bombers to attack with nuclear gravity bombs. The answer was for a rocket-powered, supersonic missile capable of carrying a large nuclear (or projected thermonuclear) warhead with a range of at least . This would keep the bombers out of range of Soviet ground-based defences installed around the target area, allowing the missile to "dash" in at high speed.
 

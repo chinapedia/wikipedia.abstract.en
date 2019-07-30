@@ -3,8 +3,6 @@ GERARD DAVID (c. 1460 – 13 August 1523) was an Early Netherlandish painter and
 
 Life
 
-Gerard_David_-_The_Annunciation_-_WGA6019.jpg
-
 He was born in Oudewater, now located in the province of Utrecht. His year of birth is approximated as c. 1460 on the basis that he looks to be around 50 years in the 1509 self-portrait found in his _Virgin among the Virgins_.[2] He spent his mature career in Bruges, where he was a member of the painters' guild. Upon the death of Hans Memling in 1494, David became Bruges' leading painter. He moved to Bruges in 1483, presumably from Haarlem, where he had formed his early style under Albert van Oudewater, and joined the Guild of Saint Luke at Bruges in 1484.[3] He became dean of the guild in 1501,[4] and in 1496 married Cornelia Cnoop, daughter of the dean of the goldsmiths' guild.[5] David was one of the town's leading citizens.[6]
 
 Ambrosius Benson served his apprenticeship with David, but they came into dispute around 1519 over a number of paintings and drawings Benson had collected from other artists. Because of a large debt owed to him by Benson,[7] David had refused to return the material. Benson pursued the matter legally and won, leading to David serving time in prison.[8][9]
@@ -16,7 +14,7 @@ David had been completely forgotten when in the early 1860s he was rescued from 
 
 Style
 
-Gerard_David_Tryptique_de_la_famille_Sedano_Bruges_1523.jpg'', c.1495, Louvre Museum]] David's surviving work mainly consists of religious scenes. They are characterised by an atmospheric, timeless, and almost dream like serenity, achieved through soft, warm and subtle colourisation, and masterful handling of light and shadow.[12] He is innovative in his recasting of traditional themes and in his approach to landscape, which was then only an emerging genre in northern European painting.[13] His ability with landscape can be seen in the detailed foliage of his _Triptych of the Baptism_ and the forest scene in the New York _Nativity_.[14]
+'', c.1495, Louvre Museum]] David's surviving work mainly consists of religious scenes. They are characterised by an atmospheric, timeless, and almost dream like serenity, achieved through soft, warm and subtle colourisation, and masterful handling of light and shadow.[12] He is innovative in his recasting of traditional themes and in his approach to landscape, which was then only an emerging genre in northern European painting.[13] His ability with landscape can be seen in the detailed foliage of his _Triptych of the Baptism_ and the forest scene in the New York _Nativity_.[14]
 
 Although many of the art historians of the early 20th century, including Erwin Panofsky and Max Jakob Friedländer saw him as a painter who did little but distill the style of others and painted in an archaic and unimaginative style. However today most view him as a master colourist, and a painter who according to the Metropolitan Museum of Art, worked in a "progressive, even enterprising, mode, casting off his late medieval heritage and proceeding with a certain purity of vision in an age of transition."[15]
 
@@ -27,11 +25,11 @@ He visited Antwerp in 1515 and was impressed with the work of Quentin Matsys,[16
 
 Works
 
-Rothschild_Prayerbook_2.jpg'', c. 1500–1520]] The works for which David is best known are the altarpieces painted before his visit to Antwerp: the _Marriage of St Catherine_ at the National Gallery, London; the triptych of the _Madonna Enthroned and Saints_ of the Brignole-Sale collection in Genoa; the _Annunciation_ of the Sigmaringen collection; and above all, the _Madonna with Angels and Saints_ (usually titled _The Virgin among the Virgins_), which he donated to the Carmelite Nuns of Sion at Bruges,[17] and which is now in the Rouen museum.[18]
+'', c. 1500–1520]] The works for which David is best known are the altarpieces painted before his visit to Antwerp: the _Marriage of St Catherine_ at the National Gallery, London; the triptych of the _Madonna Enthroned and Saints_ of the Brignole-Sale collection in Genoa; the _Annunciation_ of the Sigmaringen collection; and above all, the _Madonna with Angels and Saints_ (usually titled _The Virgin among the Virgins_), which he donated to the Carmelite Nuns of Sion at Bruges,[17] and which is now in the Rouen museum.[18]
 
 Only a few of his works have remained in Bruges: _The Judgment of Cambyses_, _The Flaying of Sisamnes_ and the _Baptism of Christ_ in the Groeningemuseum, and the _Transfiguration_ in the Church of Our Lady.
 
-The rest were scattered around the world, and to this may be due the oblivion into which his very name had fallen; this, and the fact that, some believed that for all the beauty and the soulfulness of his work, he had nothing innovative to add to the history of art.[19] Gerard_David_-_The_Marriage_at_Cana_-_WGA6020.jpg'', c. 1500. Musée du Louvre, Paris]]
+The rest were scattered around the world, and to this may be due the oblivion into which his very name had fallen; this, and the fact that, some believed that for all the beauty and the soulfulness of his work, he had nothing innovative to add to the history of art.[19] '', c. 1500. Musée du Louvre, Paris]]
 
 Even in his best work he had only given newer variations of the art of his predecessors and contemporaries. His rank among the masters was renewed, however, when a number of his paintings were assembled at the seminal 1902 Gruuthusemuseum, Bruges exhibition of early Flemish painters.
 

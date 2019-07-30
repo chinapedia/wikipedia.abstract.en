@@ -5,7 +5,7 @@ At the 2001 census Hawick had a resident population of 14,801. By 2011, this had
 
 Monuments
 
-(Horn's_Hole,_Hawick,_Scotland)_(LOC)_(3450338616).jpg The west end of the town contains "the Mote", the remains of a Norman motte-and-bailey. In the centre of the High Street is the Scots baronial style town hall, built in 1886, and the east end has an equestrian statue, known as "the Horse", erected in 1914. Drumlanrig's Tower, now a museum, dates largely from the mid-16th century. In 2009 another monument the "Turning of the Bull" (artist, Angela Hunter, Innerleithen, Scotland) was unveiled in Hawick. This monument depicts William Rule turning the wild bull as it was charging King Robert the Bruce, thus saving the king's life and beginning the Scottish Clan of Turnbull. A poem written by John Leyden commemorates this historical event. "His arms robust the hardy hunter flung around his bending horns, and upward wrung, with writhing force his neck retorted round, and rolled the panting monster to the ground, crushed, with enormous strength, his bony skull; and courtiers hailed the man who turned the bull."
+The west end of the town contains "the Mote", the remains of a Norman motte-and-bailey. In the centre of the High Street is the Scots baronial style town hall, built in 1886, and the east end has an equestrian statue, known as "the Horse", erected in 1914. Drumlanrig's Tower, now a museum, dates largely from the mid-16th century. In 2009 another monument the "Turning of the Bull" (artist, Angela Hunter, Innerleithen, Scotland) was unveiled in Hawick. This monument depicts William Rule turning the wild bull as it was charging King Robert the Bruce, thus saving the king's life and beginning the Scottish Clan of Turnbull. A poem written by John Leyden commemorates this historical event. "His arms robust the hardy hunter flung around his bending horns, and upward wrung, with writhing force his neck retorted round, and rolled the panting monster to the ground, crushed, with enormous strength, his bony skull; and courtiers hailed the man who turned the bull."
 
 
 Economy
@@ -23,7 +23,7 @@ The town lost its rail service in 1969, when as part of the Beeching Axe the 'Wa
 
 The nearest major airports are at Edinburgh, away, and Newcastle, away.
 
-Hawick_06.jpg.]] A_track_to_the_west_of_Shankend_Farm_-_geograph.org.uk_-_508017.jpg.]]
+.]] .]]
 
 
 Culture and traditions

@@ -7,7 +7,7 @@ The Economist Intelligence Unit has rated Botswana as a "flawed democracy" in 20
 
 Legislative branch
 
-BotswanaParliament.jpg.]] The National Assembly has 57 elected and 4 appointed members;[3] it is expanded following each census (every 10 years). After elections, the party that wins the majority elects the State President. The President then appoints the Vice President, but the appointment is subject to endorsement by the National Assembly.
+.]] The National Assembly has 57 elected and 4 appointed members;[3] it is expanded following each census (every 10 years). After elections, the party that wins the majority elects the State President. The President then appoints the Vice President, but the appointment is subject to endorsement by the National Assembly.
 
 There are 57 parliamentary constituencies in Botswana.[4]
 

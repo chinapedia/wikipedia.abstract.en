@@ -16,7 +16,7 @@ Timur himself had divided his territories among Pir Muhammad, Miran Shah, Khalil
 
 Early reign
 
-1508-Babur_celebrates_the_birth_of_Humayun_in_the_Chahar_Bagh_of_Kabul.jpg celebrates the birth of Humayun in the Charbagh of Kabul.]]
+celebrates the birth of Humayun in the Charbagh of Kabul.]]
 
 When Humayun came to the throne of the Mughal Empire, several of his brothers revolted against him. Another brother Khalil Mirza (1509–1530) supported Humayun but was assassinated. The Emperor commenced construction of a tomb for his brother in 1538, but this was not yet finished when Humayun was forced to flee to Persia. Sher Shah destroyed the structure and no further work was done on it after Humayun's restoration.
 
@@ -29,7 +29,7 @@ In 1535 Humayun was made aware that the Sultan of Gujarat was planning an assaul
 
 Sher Shah Suri
 
-Flight_of_Sultan_Bahadur_During_Humayun's_Campaign_in_Gujarat_1535.jpg Humayun, fights Bahadur Shah of Gujarat, in the year 1535.]]
+Humayun, fights Bahadur Shah of Gujarat, in the year 1535.]]
 
 Shortly after Humayun had marched on Gujarat, Sher Shah Suri saw an opportunity to wrest control of Agra from the Mughals. He began to gather his army together hoping for a rapid and decisive siege of the Mughal capital. Upon hearing this alarming news, Humayun quickly marched his troops back to Agra allowing Bahadur to easily regain control of the territories Humayun had recently taken. In February 1537, however, Bahadur was killed when a botched plan to kidnap the Portuguese viceroy ended in a fire-fight that the Sultan lost.
 
@@ -37,7 +37,7 @@ Whilst Humayun succeeded in protecting Agra from Sher Shah, the second city of t
 
 Sher Shah withdrew to the east, but Humayun did not follow: instead he "shut himself up for a considerable time in his Harem, and indulged himself in every kind of luxury".[10] Hindal, Humayun's 19-year-old brother, had agreed to aid him in this battle and protect the rear from attack, but he abandoned his position and withdrew to Agra, where he decreed himself acting emperor. When Humayun sent the grand _Mufti_, Sheikh Buhlul, to reason with him; the Sheikh was killed. Further provoking the rebellion, Hindal ordered that the _Khutba_, or sermon, in the main mosque surrounded.[11]
 
-Rohtas_Fort_Magnificent_Kabuli_Gate.jpg, an ally of Sher Shah Suri, constructed the Rohtas Fort to check Humayun from Persia, and also halt the local Muslim tribes from joining the claimant emperor.[12][13]|202x202px]]
+, an ally of Sher Shah Suri, constructed the Rohtas Fort to check Humayun from Persia, and also halt the local Muslim tribes from joining the claimant emperor.[12][13]|202x202px]]
 
 Humayun's other brother, Kamran Mirza, marched from his territories in the Punjab, ostensibly to aid Humayun. However, his return home had treacherous motives as he intended to stake a claim for Humayun's apparently collapsing empire. He brokered a deal with Hindal providing that his brother would cease all acts of disloyalty[14] in return for a share in the new empire, which Kamran would create once Humayun was deposed.
 
@@ -46,8 +46,6 @@ In June 1539 Sher Shah met Humayun in the Battle of Chausa on the banks of the G
 Once the Army of Humayun had made its charge and Sher Shah's troops made their agreed-upon retreat, the Mughal troops relaxed their defensive preparations and returned to their entrenchments without posting a proper guard. Observing the Mughals' vulnerability, Sher Shah reneged on his earlier agreement. That very night, his army approached the Mughal camp and finding the Mughal troops unprepared with a majority asleep, they advanced and killed most of them. The Emperor survived by swimming across the Ganges using an air-filled "water skin", and quietly returned to Agra.[16][17] Humayun was assisted across the Ganges by Shams al-Din Muhammad.[18]
 
 In Agra
-
-Хумаюн._Деталь_миниатюры_из_Бабурнаме._1590е_гг._Москва,_ГМВ.jpg
 
 When Humayun returned to Agra, he found that all three of his brothers were present. Humayun once again not only pardoned his brothers for plotting against him, but even forgave Hindal for his outright betrayal. With his armies travelling at a leisurely pace, Sher Shah was gradually drawing closer and closer to Agra. This was a serious threat to the entire family, but Humayun and Kamran squabbled over how to proceed. Kamran withdrew after Humayun refused to make a quick attack on the approaching enemy, instead opting to build a larger army under his own name.
 
@@ -59,7 +57,7 @@ The four brothers were united in Lahore, but every day they were informed that S
 
 Withdrawing further
 
-Humayun's_Genealogical_Order_up_to_Timure.jpg Humayun decided it would be wise to withdraw still further. He and his army rode out through and across the Thar Desert, when the Hindu ruler Rao Maldeo Rathore allied with Sher Shah Suri against the Mughal Empire. In many accounts Humayun mentions how he and his pregnant wife had to trace their steps through the desert at the hottest time of year. Their rations were low, and they had little to eat; even drinking water was a major problem in the desert. When Hamida Bano's horse died, no one would lend the Queen (who was now eight months pregnant) a horse, so Humayun did so himself, resulting in him riding a camel for six kilometres (four miles), although Khaled Beg then offered him his mount. Humayun was later to describe this incident as the lowest point in his life. Humayun asked that his brothers join him as he fell back into Sindh. While the previously rebellious Hindal Mirza remained loyal and was ordered to join his brothers in Kandahar. Kamran Mirza and Askari Mirza instead decided to head to the relative peace of Kabul. This was to be a definitive schism in the family. Humayun headed for Sindh because he expected aid from the Emir of Sindh, Hussein Umrani, whom he had appointed and who owed him his allegiance. Also, his wife Hamida hailed from Sindh; she was the daughter of a prestigious _pir_ family (a _pir_ is a Shia or Sufi religious mystic) of Persian heritage long settled in Sindh. En route to the Emir's court, Humayun had to break journey because his pregnant wife Hamida was unable to travel further. Humayun sought refuge with the Hindu ruler of the oasis town of Amarkot (now part of Sindh province).[21]
+Humayun decided it would be wise to withdraw still further. He and his army rode out through and across the Thar Desert, when the Hindu ruler Rao Maldeo Rathore allied with Sher Shah Suri against the Mughal Empire. In many accounts Humayun mentions how he and his pregnant wife had to trace their steps through the desert at the hottest time of year. Their rations were low, and they had little to eat; even drinking water was a major problem in the desert. When Hamida Bano's horse died, no one would lend the Queen (who was now eight months pregnant) a horse, so Humayun did so himself, resulting in him riding a camel for six kilometres (four miles), although Khaled Beg then offered him his mount. Humayun was later to describe this incident as the lowest point in his life. Humayun asked that his brothers join him as he fell back into Sindh. While the previously rebellious Hindal Mirza remained loyal and was ordered to join his brothers in Kandahar. Kamran Mirza and Askari Mirza instead decided to head to the relative peace of Kabul. This was to be a definitive schism in the family. Humayun headed for Sindh because he expected aid from the Emir of Sindh, Hussein Umrani, whom he had appointed and who owed him his allegiance. Also, his wife Hamida hailed from Sindh; she was the daughter of a prestigious _pir_ family (a _pir_ is a Shia or Sufi religious mystic) of Persian heritage long settled in Sindh. En route to the Emir's court, Humayun had to break journey because his pregnant wife Hamida was unable to travel further. Humayun sought refuge with the Hindu ruler of the oasis town of Amarkot (now part of Sindh province).[21]
 
 Rana Prasad Rao of Amarkot duly welcomed Humayun into his home and sheltered the refugees for several months. Here, in the household of a Hindu Rajput nobleman, Humayun's wife Hamida Bano, daughter of a Sindhi family, gave birth to the future Emperor Akbar on 15 October 1542. The date of birth is well established because Humayun consulted his astronomer to utilise the astrolabe and check the location of the planets. The infant was the long-awaited heir-apparent to the 34-year-old Humayun and the answer of many prayers. Shortly after the birth, Humayun and his party left Amarkot for Sindh, leaving Akbar behind, who was not ready for the grueling journey ahead in his infancy. He was later adopted by Askari Mirza.
 
@@ -68,7 +66,7 @@ For a change, Humayun was not deceived in the character of the man on whom he ha
 
 Retreat to Kabul
 
-Humayun_finally_defeated_his_rebellious_brother_Kamran_in_Kabul_in_1553.jpg defeats Kamran Mirza in 1553.]]
+defeats Kamran Mirza in 1553.]]
 
 After Humayun set out from his expedition in Sindh, along with 300 camels (mostly wild) and 2000 loads of grain, he set off to join his brothers in Kandahar after crossing the Indus River on 11 July 1543 along with the ambition to regain the Mughal Empire and overthrow the Suri dynasty. Among the tribes that had sworn allegiance to Humayun were the Magsi, Rind and many others.
 
@@ -79,7 +77,7 @@ Once again Humayun turned toward Kandahar where his brother Kamran Mirza was in 
 
 Refuge in Persia
 
-Shah_Tahmasp_and_Humayun.jpeg provided Humayun with 12,000 cavalry and 300 veterans of his personal guard along with provisions, so that his guests may recover their domains in India.[23]]] Tahmasp,_Humayun_Meeting.jpg and the Mughal Emperor Humayun in Isfahan.]]
+provided Humayun with 12,000 cavalry and 300 veterans of his personal guard along with provisions, so that his guests may recover their domains in India.[23]]] and the Mughal Emperor Humayun in Isfahan.]]
 
 Humayun fled to the refuge of the Safavid Empire in Persia, marching with 40 men, his wife Bega Begum,[24] and her companion through mountains and valleys. Among other trials the Imperial party were forced to live on horse meat boiled in the soldiers' helmets. These indignities continued during the month it took them to reach Herat, however after their arrival they were reintroduced to the finer things in life. Upon entering the city his army was greeted with an armed escort, and they were treated to lavish food and clothing. They were given fine accommodations and the roads were cleared and cleaned before them. Shah Tahmasp, unlike Humayun's own family, actually welcomed the Mughal, and treated him as a royal visitor. Here Humayun went sightseeing and was amazed at the Persian artwork and architecture he saw: much of this was the work of the Timurid Sultan Husayn Bayqarah and his ancestor, princess Gauhar Shad, thus he was able to admire the work of his relatives and ancestors at first hand.
 
@@ -90,13 +88,13 @@ The Shah urged that Humayun convert from Sunni to Shia Islam, and Humayun eventu
 
 Kandahar and onward
 
-‘Abd_al-Samad._Akbar_Presents_a_Painting_to_His_Father_Humayun._Mughal,_probably_Kabul,_c._1550–1556._Golestan_Palace_Library,_Tehran.jpg presents a painting to his father Humayun.]]
+presents a painting to his father Humayun.]]
 
 With this Persian Safavid aid Humayun took Kandahar from Askari Mirza after a two-week siege. He noted how the nobles who had served Askari Mirza quickly flocked to serve him, "in very truth the greater part of the inhabitants of the world are like a flock of sheep, wherever one goes the others immediately follow". Kandahar was, as agreed, given to the Shah of Persia who sent his infant son, Murad, as the Viceroy. However, the baby soon died and Humayun thought himself strong enough to assume power.
 
 Humayun now prepared to take Kabul, ruled by his brother Kamran Mirza. In the end, there was no actual siege. Kamran Mirza was detested as a leader and as Humayun's Persian army approached the city hundreds of Kamran Mirza's troops changed sides, flocking to join Humayun and swelling his ranks. Kamran Mirza absconded and began building an army outside the city. In November 1545, Hamida and Humayun were reunited with their son Akbar, and held a huge feast. They also held another, larger, feast in the child's honour when he was circumcised.
 
-The_Emperor_Humayun_Returning_from_a_Journey_Greets_his_Son.jpg.]]
+.]]
 
 However, while Humayun had a larger army than his brother and had the upper hand, on two occasions his poor military judgement allowed Kamran Mirza to retake Kabul and Kandahar, forcing Humayun to mount further campaigns for their recapture. He may have been aided in this by his reputation for leniency towards the troops who had defended the cities against him, as opposed to Kamran Mirza, whose brief periods of possession were marked by atrocities against the inhabitants who, he supposed, had helped his brother.
 
@@ -107,7 +105,7 @@ Humayun's other brother, Kamran Mirza, had repeatedly sought to have Humayun kil
 
 Restoration of the Mughal Empire
 
-Humayun_Receives_the_Head_of_Qaracha_Khan.jpg Humayun_sitting.jpg shows Humayun sitting beneath a tree in his garden in India.]]
+shows Humayun sitting beneath a tree in his garden in India.]]
 
 Sher Shah Suri had died in 1545; his son and successor Islam Shah died in 1554. These two deaths left the dynasty reeling and disintegrating. Three rivals for the throne all marched on Delhi, while in many cities leaders tried to stake a claim for independence. This was a perfect opportunity for the Mughals to march back to India.
 
@@ -125,8 +123,6 @@ After Sirhind, most towns and villages chose to welcome the invading army as it 
 
 Ruling Kashmir
 
-Copper_coin_of_Humayun,_944_A._H.,_Delhi.JPG
-
 With all of Humayun's brothers now dead, there was no fear of another usurping his throne during his military campaigns. He was also now an established leader and could trust his generals. With this new-found strength Humayun embarked on a series of military campaigns aimed at extending his reign over areas in eastern and western India. His sojourn in exile seems to have reduced his reliance on astrology, and his military leadership came to imitate the more effective methods that he had observed in Persia.
 
 
@@ -139,7 +135,7 @@ Humayun ordered the crushing by elephant of an imam he mistakenly believed to be
 
 Death and legacy
 
-Humayun_Tomb,_Delhi,_from_the_entrance_portal.jpg Humayun's_Tomb,_Delhi,_India_2019.jpg in Delhi, India, was commissioned by his chief wife, Bega Begum]]
+in Delhi, India, was commissioned by his chief wife, Bega Begum]]
 
 On 24 January 1556, Humayun, with his arms full of books, was descending the staircase from his library when the muezzin announced the Azaan (the call to prayer). It was his habit, wherever and whenever he heard the summons, to bow his knee in holy reverence. Trying to kneel, he caught his foot in his robe, tumbled down several steps and hit his temple on a rugged stone edge. He died three days later. His body was laid to rest in Purana Quila initially, but, because of an attack by Hemu on Delhi and the capture of Purana Qila, Humayun's body was exhumed by the fleeing army and transferred to Kalanaur in Punjab where Akbar was crowned. His tomb, which was commissioned by his favourite and devoted chief wife, Bega Begum,[29][30][31][32][33][34][35] stands in Delhi, where he was later buried in a grand way.
 

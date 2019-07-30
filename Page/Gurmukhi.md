@@ -7,7 +7,7 @@ Modern Gurmukhī has thirty-five original letters plus six additional consonants
 
 History and development
 
-Proposed_Gurmukhi_evolution_1.png In current scholarship, the Gurmukhī script is generally believed to have roots in the Proto-Sinaitic alphabet[8] by way of the Brahmi script,[9] which developed further into the Northwestern group (Sharada, or Śāradā, and its descendants, including Landa and Takri), the Central group (Nagari and its descendants, including Devanagari, Gujarati and Modi) and the Eastern group (evolved from Siddhaṃ, including Bangla, Tibetan, and some Nepali scripts),[10] as well as several prominent writing systems of Southeast Asia and Sinhala in Sri Lanka, in addition to scripts used historically in Central Asia for extinct languages like Saka and Tocharian.[11] Gurmukhi is derived from Sharada in the Northwestern group, of which is the only major surviving member,[12] with full modern currency.[13] Notable features:
+In current scholarship, the Gurmukhī script is generally believed to have roots in the Proto-Sinaitic alphabet[8] by way of the Brahmi script,[9] which developed further into the Northwestern group (Sharada, or Śāradā, and its descendants, including Landa and Takri), the Central group (Nagari and its descendants, including Devanagari, Gujarati and Modi) and the Eastern group (evolved from Siddhaṃ, including Bangla, Tibetan, and some Nepali scripts),[10] as well as several prominent writing systems of Southeast Asia and Sinhala in Sri Lanka, in addition to scripts used historically in Central Asia for extinct languages like Saka and Tocharian.[11] Gurmukhi is derived from Sharada in the Northwestern group, of which is the only major surviving member,[12] with full modern currency.[13] Notable features:
 
 -   It is an abugida in which all consonants have an inherent vowel, /ə/. Diacritics, which can appear above, below, before or after the consonant they are applied to, are used to change the inherent vowel.
 -   When they appear at the beginning of a syllable, vowels are written as independent letters.
@@ -23,13 +23,13 @@ Gurmukhi evolved in cultural and historical circumstances notably different to o
 -   the development of distinct new letters for sounds better reflecting the vernacular language spoken during the time of its development (e.g. like for /ɽ/, and the sound shift that merged Sanskrit /ʂ/ and /kʰ/ to Punjabi /kʰ/);
 -   a gemination diacritic, a unique feature among native subcontinental scripts,[24] which help to illustrate the preserved Middle Indo-Aryan geminates distinctive of Punjabi;[25]
 
-and other features. Historical_geographical_distribution_of_Sharada.png[26]]]
+and other features. [26]]]
 
 Tarlochan Singh Bedi (1999) writes that the Gurmukhī script developed in the 10-14th centuries from the _Devasesha_ stage of the Śāradā script, the intermediate phase being Siddha Matrika, before the final evolution into Gurmukhī. His argument is that from the 10th century, regional differences started to appear between the Śāradā script used in Punjab, the Hill States (partly Himachal Pradesh) and Kashmir. The regional Śāradā script evolved from this stage until the 14th century, when it starts to appear in the form of Gurmukhī. Indian epigraphists call this stage _Devasesha_, while Bedi prefers the name _Pritham Gurmukhī_ or Proto-Gurmukhī.
 
 The Sikh gurus adopted proto-Gurmukhī to write the Guru Granth Sahib, the religious scriptures of the Sikhs. Other contemporary scripts used in the Punjab were Takri and the Laṇḍā scripts. The Takri alphabet developed through the _Devasesha_ stage of the Śāradā script and is found mainly in the Hill States such as Chamba, Himachal Pradesh, where it is called _Chambyali_, and in Jammu Division, where it is known as _Dogri_. The local Takri variants got the status of official scripts in some of the Punjab Hill States, and were used for both administrative and literary purposes until the 19th century. After 1948, when Himachal Pradesh was established as an administrative unit, the local _Takri_ variants were replaced by Devanagari.
 
-Example_of_a_Multani_variant_of_Landa_script,_a_mercantile_shorthand_script_of_Punjab,_from_1880.png variant of Landa script, a mercantile shorthand script of Punjab, from 1880[27]]] Meanwhile, the mercantile scripts of Punjab known as the Laṇḍā scripts were normally not used for literary purposes. _Landa_ means alphabet "without tail",[28] implying that the script did not have vowel symbols. In Punjab, there were at least ten different scripts classified as Laṇḍā, Mahajani being the most popular. The Laṇḍā scripts were used for household and trade purposes. Compared to the Laṇḍā, Sikh Gurus favored the use of _Proto-Gurmukhī_, because of the difficulties involved in pronouncing words without vowel signs.
+variant of Landa script, a mercantile shorthand script of Punjab, from 1880[27]]] Meanwhile, the mercantile scripts of Punjab known as the Laṇḍā scripts were normally not used for literary purposes. _Landa_ means alphabet "without tail",[28] implying that the script did not have vowel symbols. In Punjab, there were at least ten different scripts classified as Laṇḍā, Mahajani being the most popular. The Laṇḍā scripts were used for household and trade purposes. Compared to the Laṇḍā, Sikh Gurus favored the use of _Proto-Gurmukhī_, because of the difficulties involved in pronouncing words without vowel signs.
 
 The usage of Gurmukhī letters in the Guru Granth Sahib meant that the script developed its own orthographical rules. In the following epochs, Gurmukhī became the prime script applied for the literary writings of the Sikhs. The Singh Sabha Movement of the late 1800s, a movement to revitalize Sikh institutions which had declined during colonial rule after the fall of the Sikh Empire, also advocated for the usage of the Gurmukhi script for mass media, with print media publications and Punjabi-language newspapers established in the 1880s.[29] Later in the 20th century, after the struggle of the Punjabi Suba movement, from the founding of modern India in the 1940s to the 1960s, the script was given the authority as the official script of the Punjab, India.[30][31]
 
@@ -44,7 +44,7 @@ Alphabet
 
 Consonants
 
-Gurmukhi_phonetic_chart.png The Gurmukhī alphabet contains thirty-five letters (_akkhar_, plural _akkharā̃_). The first three are distinct because they form the basis for vowels and are not consonants (_vianjan_) like the remaining letters are, and except for the second letter _ɛṛa_ are never used on their own. See the section on vowels for further details.
+The Gurmukhī alphabet contains thirty-five letters (_akkhar_, plural _akkharā̃_). The first three are distinct because they form the basis for vowels and are not consonants (_vianjan_) like the remaining letters are, and except for the second letter _ɛṛa_ are never used on their own. See the section on vowels for further details.
 
 [TABLE]
 
@@ -168,7 +168,7 @@ The use of _addhak_ ( ੱ ) () indicates that the following consonant is geminat
 
 _Halant_
 
-Southall_station_sign.jpg and Gurmukhī scripts in , UK]]
+and Gurmukhī scripts in , UK]]
 
 The _halant_ ( ੍ ) character is not used when writing Punjabi in Gurmukhī. However, it may occasionally be used in Sanskritised text or in dictionaries for extra phonetic information. When it is used, it represents the suppression of the inherent vowel.
 
@@ -220,7 +220,7 @@ The Unicode block for Gurmukhī is U+0A00–U+0A7F:
 
 Digitization of Gurmukhī manuscripts
 
-Рукопись_гурмукхи.PNG Panjab Digital Library[42] has taken up digitization of all available manuscripts of Gurmukhī Script. The script has been in formal use since the 1500s, and a lot of literature written within this time period is still traceable. Panjab Digital Library has digitized over 5 million pages from different manuscripts and most of them are available online.
+Panjab Digital Library[42] has taken up digitization of all available manuscripts of Gurmukhī Script. The script has been in formal use since the 1500s, and a lot of literature written within this time period is still traceable. Panjab Digital Library has digitized over 5 million pages from different manuscripts and most of them are available online.
 
 
 Bibliography

@@ -1,6 +1,6 @@
 Eurogames}}
 
-Carcassonne_Miples.jpg''.]]
+''.]]
 
 A EUROGAME, also called a GERMAN-STYLE BOARD GAME, GERMAN GAME, or EURO-STYLE GAME, is a class of tabletop games that generally have indirect player interaction and abstract physical components.
 
@@ -42,7 +42,7 @@ Example themes are:
 
 Games made for everyone
 
-Playing_Settlers_of_Catan.jpg While many titles (especially the strategically heavier ones) are enthusiastically played by gamers as a hobby, Eurogames are, for the most part, well suited to social play. In keeping with this social function, various characteristics of the games tend to support that aspect well, and these have become quite common across the genre. For example, generally Eurogames do not have a fixed number of players like chess or bridge; though there is a sizable body of German-style games that are designed for exactly two players, most games can accommodate anywhere from two to six players (with varying degrees of suitability). Six-player games are somewhat rare, or require expansions, as with The Settlers of Catan or Carcassonne. Usually each player plays for him- or herself, rather than in a partnership or team.
+While many titles (especially the strategically heavier ones) are enthusiastically played by gamers as a hobby, Eurogames are, for the most part, well suited to social play. In keeping with this social function, various characteristics of the games tend to support that aspect well, and these have become quite common across the genre. For example, generally Eurogames do not have a fixed number of players like chess or bridge; though there is a sizable body of German-style games that are designed for exactly two players, most games can accommodate anywhere from two to six players (with varying degrees of suitability). Six-player games are somewhat rare, or require expansions, as with The Settlers of Catan or Carcassonne. Usually each player plays for him- or herself, rather than in a partnership or team.
 
 Playing time varies from a half-hour to a few hours, with one to two hours being typical. In contrast to games such as Risk or Monopoly, in which a close game can extend indefinitely, Eurogames usually have a mechanism to stop the game within its stated playing time. Common mechanisms include a pre-determined winning score, a set number of game turns, or depletion of limited game resources. For example, Ra and Carcassonne have limited tiles to exhaust.
 
@@ -68,7 +68,7 @@ English editions are often available, either published in the US or co-published
 
 Game mechanics
 
-Samurai_board_game.jpg'' is a game of tile placement, set collection and area control]] A wide variety of often innovative mechanisms or mechanics are used, and familiar mechanics like rolling dice and moving, capture, or trick taking are avoided. If a game has a board, the board is usually irregular rather than uniform or symmetric (like Risk rather than chess or Scrabble); the board is often random (like The Settlers of Catan) or has random elements (like Tikal). Some boards are merely mnemonic or organizational and contribute only to ease of play, like a cribbage board; examples of this include Puerto Rico and Princes of Florence. Random elements are often present, but do not usually dominate the game. While rules are light to moderate, they allow depth of play, usually requiring thought, planning, and a shift of tactics through the game and often with a chess- or backgammon-like opening game, middle game, and end game.
+'' is a game of tile placement, set collection and area control]] A wide variety of often innovative mechanisms or mechanics are used, and familiar mechanics like rolling dice and moving, capture, or trick taking are avoided. If a game has a board, the board is usually irregular rather than uniform or symmetric (like Risk rather than chess or Scrabble); the board is often random (like The Settlers of Catan) or has random elements (like Tikal). Some boards are merely mnemonic or organizational and contribute only to ease of play, like a cribbage board; examples of this include Puerto Rico and Princes of Florence. Random elements are often present, but do not usually dominate the game. While rules are light to moderate, they allow depth of play, usually requiring thought, planning, and a shift of tactics through the game and often with a chess- or backgammon-like opening game, middle game, and end game.
 
 Stuart Woods' _Eurogames_ cites six examples of mechanics common to eurogames:[12]
 

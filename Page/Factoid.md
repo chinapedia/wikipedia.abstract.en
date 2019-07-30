@@ -1,4 +1,4 @@
-Mur_chiński_2010_1.JPG is often incorrectly said to be visible from the Moon with the naked eye.]] A FACTOID is either a false statement presented as a fact,[1][2] _or_ a true but brief or trivial item of news or information.
+is often incorrectly said to be visible from the Moon with the naked eye.]] A FACTOID is either a false statement presented as a fact,[1][2] _or_ a true but brief or trivial item of news or information.
 
 The term was coined in 1973 by American writer Norman Mailer to mean a piece of information that becomes accepted as a fact even though it is not actually true, or an invented fact believed to be true because it appears in print.[3] Since its creation in 1973, the term has evolved, now often being used to describe a brief or trivial item of news or information.
 

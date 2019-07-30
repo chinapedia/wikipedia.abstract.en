@@ -1,11 +1,9 @@
-Maes_Howe_Cross_Sections.gif]] A CHAMBERED CAIRN is a burial monument, usually constructed during the Neolithic, consisting of a sizeable (usually stone) chamber around and over which a cairn of stones was constructed. Some chambered cairns are also passage-graves. They are found throughout Britain and Ireland, with the largest number in Scotland.
+]] A CHAMBERED CAIRN is a burial monument, usually constructed during the Neolithic, consisting of a sizeable (usually stone) chamber around and over which a cairn of stones was constructed. Some chambered cairns are also passage-graves. They are found throughout Britain and Ireland, with the largest number in Scotland.
 
 Typically, the chamber is larger than a cist, and will contain a larger number of interments, which are either excarnated bones or inhumations (cremations). Most were situated near a settlement, and served as that community's "graveyard".
 
 
 Scotland
-
-Cairn_Holy,_Galloway.JPG
 
 Background
 
@@ -15,13 +13,13 @@ In the early phases bones of numerous bodies are often found together and it has
 
 Clyde-Carlingford court cairns
 
-Cairnholy2.JPG – a chambered cairn near Newton Stewart.]] The Clyde or Clyde-Carlingford type are principally found in northern and western Ireland and southwestern Scotland. They first were identified as a separate group in the Firth of Clyde region, hence the name. Over 100 have been identified in Scotland alone. Lacking a significant passage, they are a form of gallery grave. The burial chamber is normally located at one end of a rectangular or trapezoidal cairn, while a roofless, semi-circular forecourt at the entrance provided access from the outside (although the entrance itself was often blocked), and gives this type of chambered cairn its alternate name of court tomb or court cairn. These forecourts are typically fronted by large stones and it is thought the area in front of the cairn was used for public rituals of some kind. The chambers were created from large stones set on end, roofed with large flat stones and often sub-divided by slabs into small compartments. They are generally considered to be the earliest in Scotland.[8]
+– a chambered cairn near Newton Stewart.]] The Clyde or Clyde-Carlingford type are principally found in northern and western Ireland and southwestern Scotland. They first were identified as a separate group in the Firth of Clyde region, hence the name. Over 100 have been identified in Scotland alone. Lacking a significant passage, they are a form of gallery grave. The burial chamber is normally located at one end of a rectangular or trapezoidal cairn, while a roofless, semi-circular forecourt at the entrance provided access from the outside (although the entrance itself was often blocked), and gives this type of chambered cairn its alternate name of court tomb or court cairn. These forecourts are typically fronted by large stones and it is thought the area in front of the cairn was used for public rituals of some kind. The chambers were created from large stones set on end, roofed with large flat stones and often sub-divided by slabs into small compartments. They are generally considered to be the earliest in Scotland.[8]
 
 Examples include Cairn Holy I and Cairn Holy II near Newton Stewart,[9] a cairn at Port Charlotte, Islay, which dates to 3900–4000 BC,[10][11] and Monamore, or Meallach's Grave, Arran, which may date from the early fifth millennium BC.[12][13]
 
 Orkney-Cromarty
 
-Unstan_chambered_cairn_entrance_by_Bruce_McAdam.jpg, Orkney]] The Orkney-Cromarty group is by far the largest and most diverse. It has been subdivided into Yarrows, Camster and Cromarty subtypes but the differences are extremely subtle. The design is of dividing slabs at either side of a rectangular chamber, separating it into compartments or stalls.[14] The number of these compartments ranges from 4 in the earliest examples to over 24 in an extreme example on Orkney. The actual shape of the cairn varies from simple circular designs to elaborate 'forecourts' protruding from each end, creating what look like small amphitheatres. It is likely that these are the result of cultural influences from mainland Europe, as they are similar to designs found in France and Spain.
+, Orkney]] The Orkney-Cromarty group is by far the largest and most diverse. It has been subdivided into Yarrows, Camster and Cromarty subtypes but the differences are extremely subtle. The design is of dividing slabs at either side of a rectangular chamber, separating it into compartments or stalls.[14] The number of these compartments ranges from 4 in the earliest examples to over 24 in an extreme example on Orkney. The actual shape of the cairn varies from simple circular designs to elaborate 'forecourts' protruding from each end, creating what look like small amphitheatres. It is likely that these are the result of cultural influences from mainland Europe, as they are similar to designs found in France and Spain.
 
 Examples include Midhowe on Rousay and Unstan Chambered Cairn from the Orkney Mainland, both of which date from the mid 4th millennium BC and were probably in use over long periods of time. When the latter was excavated in 1884, grave goods were found that gave their name to Unstan ware pottery.[15][16][17][18][19] Blackhammer cairn on Rousay is another example dating from the 3rd millennium BC.[20]
 
@@ -29,38 +27,38 @@ The Grey Cairns of Camster in Caithness are examples of this type from mainland 
 
 Maeshowe
 
-PicMaesEntrance.jpg]] The Maeshowe group, named after the famous Orkney monument, is among the most elaborate. They appear relatively late and only in Orkney[25] and it is not clear why the use of cairns continued in the north when their construction had largely ceased elsewhere in Scotland. They consist of a central chamber from which lead small compartments, into which burials would be placed. The central chambers are tall and steep-sided and have corbelled roofing faced with high quality stone.[26] Vinquoy_chambered_tomb_-_geograph.org.uk_-_190143.jpg]] In addition to Maeshowe itself, which was constructed c. 2700 BC, there are various other examples from the Orkney Mainland. These include Quanterness chambered cairn (3250 BC) in which the remains of 157 individuals were found when excavated in the 1970s,[27][28][29] Cuween Hill near Finstown which was found to contain the bones of men, dogs and oxen[30][31][32] and Wideford Hill cairn, which dates from 2000 BC.[33][34][35]
+]] The Maeshowe group, named after the famous Orkney monument, is among the most elaborate. They appear relatively late and only in Orkney[25] and it is not clear why the use of cairns continued in the north when their construction had largely ceased elsewhere in Scotland. They consist of a central chamber from which lead small compartments, into which burials would be placed. The central chambers are tall and steep-sided and have corbelled roofing faced with high quality stone.[26] ]] In addition to Maeshowe itself, which was constructed c. 2700 BC, there are various other examples from the Orkney Mainland. These include Quanterness chambered cairn (3250 BC) in which the remains of 157 individuals were found when excavated in the 1970s,[27][28][29] Cuween Hill near Finstown which was found to contain the bones of men, dogs and oxen[30][31][32] and Wideford Hill cairn, which dates from 2000 BC.[33][34][35]
 
 Examples from elsewhere in Orkney are the Vinquoy cairn, found at an elevated location on the north end of the island of Eday[36] and Quoyness on Sanday constructed about 2900 BC and which is surrounded by an arc of Bronze Age mounds.[37] The central chamber of Holm of Papa Westray South cairn is over 20 metres long.[38]
 
 Bookan
 
-Huntersquoy_chambered_cairn,_Eday_-_geograph.org.uk_-_224640.jpg]] The Bookan type is named after a cairn found to the north-west of the Ring of Brodgar in Orkney, which is now a dilapidated oval mound, about 16 metres in diameter. Excavations in 1861 indicated a rectangular central chamber surrounded by five smaller chambers. Because of the structure's unusual design, it was originally presumed to be an early form. However, later interpretations and further excavation work in 2002 suggested that they have more in common with the later Maeshowe type rather than the stalled Orkney-Cromarty cairns.[39]
+]] The Bookan type is named after a cairn found to the north-west of the Ring of Brodgar in Orkney, which is now a dilapidated oval mound, about 16 metres in diameter. Excavations in 1861 indicated a rectangular central chamber surrounded by five smaller chambers. Because of the structure's unusual design, it was originally presumed to be an early form. However, later interpretations and further excavation work in 2002 suggested that they have more in common with the later Maeshowe type rather than the stalled Orkney-Cromarty cairns.[39]
 
 Huntersquoy cairn on Eday is a Bookan type cairn with an upper and lower storey.[40]
 
 Shetland
 
-Chambered_Cairn,_Muckle_Ward,_Vementry_Isle_-_geograph.org.uk_-_886701.jpg cairn]] The Shetland or Zetland group are relatively small passage graves, that are round or heel-shaped in outline. The whole chamber is cross or trefoil-shaped and there are no smaller individual compartments. An example is to be found on the uninhabited island of Vementry on the north side of the West Mainland, where it appears that the cairn may have originally been circular and its distinctive heel shape added as a secondary development, a process repeated elsewhere in Shetland. This probably served to make the cairn more distinctive and the forecourt area more defined.[41]
+cairn]] The Shetland or Zetland group are relatively small passage graves, that are round or heel-shaped in outline. The whole chamber is cross or trefoil-shaped and there are no smaller individual compartments. An example is to be found on the uninhabited island of Vementry on the north side of the West Mainland, where it appears that the cairn may have originally been circular and its distinctive heel shape added as a secondary development, a process repeated elsewhere in Shetland. This probably served to make the cairn more distinctive and the forecourt area more defined.[41]
 
 Hebridean
 
-Chambered_Cairn_at_Rubh'_an_Dunain_-_geograph.org.uk_-_180698.jpg]] Like the Shetland cairn the Hebridean group appear relatively late in the Neolithic. They are largely found in the Outer Hebrides, although a mixture of cairn types are found here.[42] These passage graves are usually larger than the Shetland type and are round or have funnel-shaped forecourts, although a few are long cairns – perhaps originally circular but with later tails added.[43] They often have a polygonal chamber and a short passage to one end of the cairn.
+]] Like the Shetland cairn the Hebridean group appear relatively late in the Neolithic. They are largely found in the Outer Hebrides, although a mixture of cairn types are found here.[42] These passage graves are usually larger than the Shetland type and are round or have funnel-shaped forecourts, although a few are long cairns – perhaps originally circular but with later tails added.[43] They often have a polygonal chamber and a short passage to one end of the cairn.
 
 The Rubha an Dùnain peninsula on the island of Skye provides an example from the 2nd or 3rd millennium BC.[44][45] Barpa Langass on North Uist is the best preserved chambered cairn in the Hebrides.[46][47]
 
 Bronze Age
 
-Corrimony_Chambered_Cairn_-_3_-_29042008.JPG In addition to the increasing prominence of individual burials,[48] during the Bronze Age regional differences in architecture in Scotland became more pronounced.[49] The Clava cairns date from this period, with about 50 cairns of this type in the Inverness area.[50] Corrimony chambered cairn near Drumnadrochit is an example dated to 2000 BC or older. The only surviving evidence of burial was a stain indicating the presence of a single body. The cairn is surrounded by a circle of 11 standing stones.[51][52][53] The cairns at Balnuaran of Clava are of a similar date. The largest of three is the north-east cairn, which was partially reconstructed in the 19th century and the central cairn may have been used as a funeral pyre.[54][55][56]
+In addition to the increasing prominence of individual burials,[48] during the Bronze Age regional differences in architecture in Scotland became more pronounced.[49] The Clava cairns date from this period, with about 50 cairns of this type in the Inverness area.[50] Corrimony chambered cairn near Drumnadrochit is an example dated to 2000 BC or older. The only surviving evidence of burial was a stain indicating the presence of a single body. The cairn is surrounded by a circle of 11 standing stones.[51][52][53] The cairns at Balnuaran of Clava are of a similar date. The largest of three is the north-east cairn, which was partially reconstructed in the 19th century and the central cairn may have been used as a funeral pyre.[54][55][56]
 
 Glebe cairn in Kilmartin Glen in Argyll dates from 1700 BC and has two stone cists inside one of which a jet necklace was found during 19th century excavations.[57][58] There are numerous prehistoric sites in the vicinity including Nether Largie North cairn, which was entirely removed and rebuilt during excavations in 1930.[59]
 
 
 Wales
 
-Parc_le_Breos,_Gwyr_y_cwrt.JPG forecourt – from the south east
+forecourt – from the south east
 
-|alt=A short dry-stone wall retains boulders to form a cairn. The wall is missing at the front, right section, where the rubble has tumbled out, leaving a (previously covered) orthostat exposed. The wall forms a courtyard at the cromlech's entrance. Flat ground of short grass surrounds the cairn. The background is of shaded trees, mainly in leaf.]] MaenyBardd.jpg
+|alt=A short dry-stone wall retains boulders to form a cairn. The wall is missing at the front, right section, where the rubble has tumbled out, leaving a (previously covered) orthostat exposed. The wall forms a courtyard at the cromlech's entrance. Flat ground of short grass surrounds the cairn. The background is of shaded trees, mainly in leaf.]]
 
 Chambered long cairns
 

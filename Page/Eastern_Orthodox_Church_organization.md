@@ -22,8 +22,6 @@ The patriarch of Rome was "first in place of honor" among the five patriarchs. D
 
 Jurisdictions
 
-Canonical_territories_of_autocephalous_and_autonomous_Orthodox_jurisdictions.png
-
 Autocephalous Orthodox churches
 
 Ranked in order of seniority, with the year of independence (autocephaly) given in parentheses, where applicable.[4][5]
@@ -66,7 +64,7 @@ The four ancient patriarchates are the most senior, followed by the five junior 
 
 Autonomous Orthodox churches
 
-Organization_of_Autocephalus_Eastern_Orthodox_Churches.svg]]
+]]
 
 under the Ecumenical Patriarchate of Constantinople
 

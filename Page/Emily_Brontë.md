@@ -3,7 +3,7 @@ EMILY JANE BRONTË (, commonly ;[1] 30 July 1818 – 19 December 1848)[2] was an
 
 Early life and loss
 
-Painting_of_Brontë_sisters.png. From left to right: Anne, Emily and Charlotte. (Branwell used to be between Emily and Charlotte, but subsequently painted himself out.)]]
+. From left to right: Anne, Emily and Charlotte. (Branwell used to be between Emily and Charlotte, but subsequently painted himself out.)]]
 
 Emily Brontë was born on 30 July 1818 to Maria Branwell and an Irish father, Patrick Brontë. The family was living on Market Street in the village of Thornton on the outskirts of Bradford, in the West Riding of Yorkshire, Northern England. Emily's older siblings included, eldest to youngest, Maria, Elizabeth, Charlotte and Branwell, making Emily the Brontë's fifth child. In 1820, Emily's younger sister Anne, the last Brontë child, was born. Shortly thereafter, the family moved eight miles away to Haworth, where Patrick was employed as perpetual curate[3] In Haworth, the children would have opportunities to develop their literary talents.[4]
 
@@ -17,7 +17,7 @@ Charlotte maintained that the school's poor conditions permanently affected her 
 
 The three remaining sisters and their brother Branwell were thereafter educated at home by their father and aunt Elizabeth Branwell. A shy girl, Emily was very close to her siblings and was known as a great animal lover, especially for befriending stray dogs she found wandering around the countryside.[8] Despite the lack of formal education, Emily and her siblings had access to a wide range of published material; favourites included Sir Walter Scott, Byron, Shelley, and _Blackwood's Magazine_.[9]
 
-Gondal_Poems.jpg poems]]
+poems]]
 
 Inspired by a box of toy soldiers Branwell had received as a gift, [10] the children began to write stories which they set in a number of invented imaginary worlds peopled by their soldiers as well as their heroes the Duke of Wellington and his sons, Charles and Arthur Wellesley. Little of Emily's work from this period survives, except for poems spoken by characters.[11][12] Initially, all four children shared in creating stories about a world called Angria.
 
@@ -28,7 +28,7 @@ At seventeen, Emily began to attend the Roe Head Girls' School, where Charlotte 
 
 Adulthood
 
-Constantinheger1.jpg, teacher of Charlotte and Emily during their stay in Brussels, on a daguerreotype dated  1865]]
+, teacher of Charlotte and Emily during their stay in Brussels, on a daguerreotype dated  1865]]
 
 Emily became a teacher at Law Hill School in Halifax beginning in September 1838, when she was twenty.[17] Her always fragile health soon broke under the stress of the 17-hour work day and she returned home in April 1839.[18] Thereafter she remained at home, doing most of the cooking, ironing, and cleaning at Haworth. She taught herself German out of books and also practised the piano.[19]
 
@@ -45,7 +45,7 @@ In 1846, the sisters' poems were published in one volume as _Poems by Currer, El
 
 Personality and character
 
-Emily_Brontë_cropped.jpg about 1833; sources are in disagreement over whether this image is of Emily or Anne.[36]]] Emily Brontë remains a mysterious figure and a challenge to biographers because information about her is sparse[37] due to her solitary and reclusive nature.[38] Except for Ellen Nussey and Louise de Bassompierre, Emily's fellow student in Brussels, she does not seem to have made any friends outside her family. Her closest friend was her sister Anne. Together they shared their own fantasy world, Gondal, and, according to Ellen Nussey, in childhood they were "like twins", "inseparable companions" and "in the very closest sympathy which never had any interruption".[39][40] In 1845 Anne took Emily to visit some of the places she had come to know and love in the five years she spent as governess. A plan to visit Scarborough fell through and instead the sisters went to York where Anne showed Emily York Minster. During the trip the sisters acted out some of their Gondal characters.[41]
+about 1833; sources are in disagreement over whether this image is of Emily or Anne.[36]]] Emily Brontë remains a mysterious figure and a challenge to biographers because information about her is sparse[37] due to her solitary and reclusive nature.[38] Except for Ellen Nussey and Louise de Bassompierre, Emily's fellow student in Brussels, she does not seem to have made any friends outside her family. Her closest friend was her sister Anne. Together they shared their own fantasy world, Gondal, and, according to Ellen Nussey, in childhood they were "like twins", "inseparable companions" and "in the very closest sympathy which never had any interruption".[39][40] In 1845 Anne took Emily to visit some of the places she had come to know and love in the five years she spent as governess. A plan to visit Scarborough fell through and instead the sisters went to York where Anne showed Emily York Minster. During the trip the sisters acted out some of their Gondal characters.[41]
 
 Charlotte Brontë remains the primary source of information about Emily, although as an elder sister, writing publicly about her shortly after her death, she is not a neutral witness. Stevie Davies believes that there is what might be called Charlotte's smoke-screen and argues that Emily evidently shocked her, to the point where she may even have doubted her sister's sanity. After Emily's death, Charlotte rewrote her character, history and even poems on a more acceptable (to her and the bourgeois reading public) model.[42] Charlotte presented Emily as someone whose "natural" love of the beauties of nature had become somewhat exaggerated owing to her shy nature, portraying her as too fond of the Yorkshire moors, and homesick whenever she was away. According to Lucasta Miller, in her analysis of Brontë biographies, "Charlotte took on the role of Emily's first mythographer."[43] In the _Preface_ to the Second Edition of _Wuthering Heights_, in 1850, Charlotte wrote:
 
@@ -59,7 +59,7 @@ In _Queens of Literature of the Victorian Era_ (1886), Eva Hope summarises Emily
 
 Emily Brontë has often been characterised as a devout if somewhat unorthodox Christian, a heretic and a visionary "mystic of the moors".[54]
 
-Wuthering.jpg'' (1847)]]
+'' (1847)]]
 
 
 _Wuthering Heights_

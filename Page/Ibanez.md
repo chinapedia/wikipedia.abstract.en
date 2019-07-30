@@ -19,7 +19,7 @@ Guitar brands such as Antoria and Mann shared some Ibanez guitar designs. The An
 
 The "lawsuit" guitars
 
-Mann-Ibanez_"lawsuit_era"_(mid-1970's)_solid_body,_set_neck_electric_guitar.JPG Harry Rosenbloom, founder of the (now-closed) Medley Music of Bryn Mawr, Pennsylvania, was manufacturing handmade guitars under the name "Elger." By 1965, Rosenbloom had decided to stop manufacturing guitars and chose to become the exclusive North American distributor for Ibanez guitars. In September 1972, Hoshino began a partnership with Elger Guitars to import guitars from Japan. In September 1981, Elger was renamed "Hoshino U.S.A.", retaining the company headquarters in Bensalem, Pennsylvania as a distribution and quality-control center.
+Harry Rosenbloom, founder of the (now-closed) Medley Music of Bryn Mawr, Pennsylvania, was manufacturing handmade guitars under the name "Elger." By 1965, Rosenbloom had decided to stop manufacturing guitars and chose to become the exclusive North American distributor for Ibanez guitars. In September 1972, Hoshino began a partnership with Elger Guitars to import guitars from Japan. In September 1981, Elger was renamed "Hoshino U.S.A.", retaining the company headquarters in Bensalem, Pennsylvania as a distribution and quality-control center.
 
 On June 28, 1977, in the Philadelphia Federal District Court, a lawsuit was filed by the Norlin Corporation, the parent company of Gibson Guitars, against Elger/Hoshino U.S.A.'s use of the Gibson headstock design and logo. Hoshino settled out of court in early 1978 and the case was officially closed on February 2, 1978.[14][15]
 
@@ -48,7 +48,7 @@ U.S.A. custom
 Solid body electric guitars
 
 Ibanez RG
-    A_2012_Ibanez_RG3250MZ.jpg The main characteristics that are common among all Ibanez RG guitars (RG stands for Roadstar Guitar[17]) are that they feature 24 frets and use thin necks, known as "Wizard", which allows for faster playing.
+    The main characteristics that are common among all Ibanez RG guitars (RG stands for Roadstar Guitar[17]) are that they feature 24 frets and use thin necks, known as "Wizard", which allows for faster playing.
 
 The RG features a line up of guitars with both floating tremolo systems and fixed bridge systems.
 
@@ -61,7 +61,7 @@ Ibanez RGD
 The RGD features a 26.5" scale which allows for lower than standard guitar tuning while retaining standard string tension without use of thicker gauge strings. It also features an extra deep scoop cut on the lower horn for easy high fret access. Ibanez currently makes two Ibanez RGD Prestige models.
 
 Ibanez S
-    05IbanezS470.JPG The Ibanez S (Saber
+    The Ibanez S (Saber
 
 ) guitar has an extremely thin body made out of mahogany, and is available in 6, 7 and 8-string models. They may come with either 22 or 24 frets, depending on year of manufacture. The standard line currently have Wizard III necks that are slightly wider and thicker than the original Wizard. All S models have bodies that are thicker in the middle where the pickups are, and taper off towards the outer edges. The guitars use ZR (Zero Resistance), Lo-TRS, and variants of the Edge bridge system as well as fixed bridges.[18] Ibanez currently makes 8 Prestige S-Series guitars.
 
@@ -90,7 +90,7 @@ Ibanez Artcore series
     The first Ibanez Artcore models were released in mid-2002 whose goal was to offer an affordable range of full-hollow and semi-hollow body guitars that appealed to entry level guitarists who were unable or unwilling to pay big money on high-priced guitars.
 
 Ibanez Artcore Custom
-    Ibanez_Artcore_headstock.jpg The Artcore Custom is Ibanez's flagship model for the Artcore series. The bodies of the guitars are made of maple, the neck has a set-in construction type, and features wood control knobs and hand rolled frets.
+    The Artcore Custom is Ibanez's flagship model for the Artcore series. The bodies of the guitars are made of maple, the neck has a set-in construction type, and features wood control knobs and hand rolled frets.
 
 Ibanez AK
     The Ibanez AK is a guitar designed for jazz and blues type playing. It features a slim set-in neck with a body designed to easily access the higher frets.
@@ -98,8 +98,6 @@ Ibanez AK
 The AK is easily distinguishable by its sharper lower body horn (Florentine cutaway ?) that other Artcore guitars do not have.
 
 Production signature guitars
-
-Ibanez_PGM_Paul_Gilbert_Model,_Expomusic_2010.jpg IbanezChromeBoy.jpg
 
 -   JS – Joe Satriani Signature
 -   JEM and Universe – Steve Vai Signature
@@ -288,10 +286,6 @@ Acoustic Amplifiers
 
 
 Effect pedals
-
-Ts9-stompbox-2-2.jpg
-
-Ibanez_de7.jpg
 
 In the 1970s, the NISSHIN ONPA company who owned the Maxon brand name, developed and began selling a series of effect pedals in Japan. Hoshino Gakki licensed these for sale using the name Ibanez outside Japan. These two companies eventually began doing less and less business together until Nisshin Onpa ceased manufacturing the TS-9 reissue for Hoshino Gakki in 2002.
 

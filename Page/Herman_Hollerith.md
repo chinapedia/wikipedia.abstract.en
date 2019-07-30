@@ -8,12 +8,12 @@ Herman Hollerith was born the son of German immigrant Prof. Georg Hollerith from
 
 Electromechanical tabulation of data
 
-At the urging of John Shaw Billings, Hollerith developed a mechanism using electrical connections to increment a counter, recording information.[8] A key idea was that a datum could be recorded by the presence or absence of a hole at a specific location on a card. For example, if a specific hole location indicates _marital status_, then a hole there can indicate _married_ while not having a hole indicates _single_. Hollerith determined that data in specified locations on a card, the now-familiar rows and columns, could be counted or sorted electromechanically. A description of this system, _An Electric Tabulating System (1889)_, was submitted by Hollerith to Columbia University as his doctoral thesis, and is reprinted in Randell's book.[9] On January 8, 1889, Hollerith was issued U.S. Patent 395,782,[10] claim 2 of which reads: Card_puncher_-_NARA_-_513295.jpg HollerithMachine.CHM.jpg
+At the urging of John Shaw Billings, Hollerith developed a mechanism using electrical connections to increment a counter, recording information.[8] A key idea was that a datum could be recorded by the presence or absence of a hole at a specific location on a card. For example, if a specific hole location indicates _marital status_, then a hole there can indicate _married_ while not having a hole indicates _single_. Hollerith determined that data in specified locations on a card, the now-familiar rows and columns, could be counted or sorted electromechanically. A description of this system, _An Electric Tabulating System (1889)_, was submitted by Hollerith to Columbia University as his doctoral thesis, and is reprinted in Randell's book.[9] On January 8, 1889, Hollerith was issued U.S. Patent 395,782,[10] claim 2 of which reads:
 
 
 Inventions and businesses
 
-Hollerith_Punched_Card.jpg Hollerith_Herman_grave.jpg in Georgetown in Washington, D.C.[11]]]
+in Georgetown in Washington, D.C.[11]]]
 
 Hollerith had left teaching and begun working for the United States Census Bureau in the year he filed his first patent application. Titled "Art of Compiling Statistics", it was filed on September 23, 1884; U.S. Patent 395,782 was granted on January 8, 1889.[12]
 

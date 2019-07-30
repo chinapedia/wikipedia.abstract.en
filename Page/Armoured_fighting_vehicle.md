@@ -1,4 +1,4 @@
-British_Mark_V-star_Tank.jpg]]
+]]
 
 An ARMOURED FIGHTING VEHICLE (AFV) or ARMORED FIGHTING VEHICLE is an armed combat vehicle protected by armour, generally combining operational mobility with offensive and defensive capabilities. AFVs can be wheeled or tracked. Main battle tanks, armoured cars, armoured self-propelled guns, and armoured personnel carriers are all examples of AFVs.
 
@@ -9,7 +9,7 @@ Successful designs are often adapted to a wide variety of applications. For exam
 
 Evolution of AFVs
 
-Schlacht_bei_Zama_Gemälde_H_P_Motte.jpg by Henri-Paul Motte, 1890]]
+by Henri-Paul Motte, 1890]]
 
 The concept of a highly mobile and protected fighting unit has been around for centuries; from Hannibal's war elephants to Leonardo's contraptions, military strategists endeavoured to maximize the mobility and survivability of their soldiers.
 
@@ -17,11 +17,11 @@ Armoured fighting vehicles were not possible until internal combustion engines o
 
 History
 
-Helepolis.png-like Siege Engine showing ballistae, stairs and movement capstan]] Modern armoured fighting vehicles represent the realization of an ancient concept - that of providing troops with mobile protection and firepower. Armies have deployed war machines and cavalries with rudimentary armour in battle for millennia. Use of these animals and engineering designs sought to achieve a balance between the conflicting paradoxical needs of mobility, firepower and protection.
+-like Siege Engine showing ballistae, stairs and movement capstan]] Modern armoured fighting vehicles represent the realization of an ancient concept - that of providing troops with mobile protection and firepower. Armies have deployed war machines and cavalries with rudimentary armour in battle for millennia. Use of these animals and engineering designs sought to achieve a balance between the conflicting paradoxical needs of mobility, firepower and protection.
 
 Siege machine
 
-DaVinciTankAtAmboise.jpeg]] Siege engines, such as battering rams and siege towers, would often be armoured in order to protect their crews from enemy action. Polyidus of Thessaly developed a very large movable siege tower, the _helepolis_, as early as 340 BC, and Greek forces used such structures in the Siege of Rhodes (305 BC).
+]] Siege engines, such as battering rams and siege towers, would often be armoured in order to protect their crews from enemy action. Polyidus of Thessaly developed a very large movable siege tower, the _helepolis_, as early as 340 BC, and Greek forces used such structures in the Siege of Rhodes (305 BC).
 
 The idea of a protected fighting vehicle has been known since antiquity. Frequently cited is Leonardo da Vinci's 15th-century sketch of a mobile, protected gun-platform; the drawings show a conical, wooden shelter with apertures for cannons around the circumference. The machine was to be mounted on four wheels which would be turned by the crew through a system of hand cranks and cage (or "lantern") gears. Leonardo claimed: "I will build armored wagons which will be safe and invulnerable to enemy attacks. There will be no obstacle which it cannot overcome." [1] Modern replicas have demonstrated that the human crew would have been able to move it over only short distances.
 
@@ -31,13 +31,13 @@ Hussite forces in Bohemia developed war wagons - medieval weapon-platforms - aro
 
 Armed and armoured car
 
-Simms_Motor_Scout_from_Autocar.jpg' Motor Scout, built in 1898 as an armed car]]
+' Motor Scout, built in 1898 as an armed car]]
 
 The first modern AFVs were armed cars, dating back virtually to the invention of the motor car. The British inventor F.R. Simms designed and built the Motor Scout in 1898. It was the first armed, petrol-engine powered vehicle ever built. It consisted of a De Dion-Bouton quadricycle with a Maxim machine gun mounted on the front bar. An iron shield offered some protection for the driver from the front, but it lacked all-around protective armour.[3]
 
 The armoured car was the first modern fully armoured fighting vehicle. The first of these was the Simms' Motor War Car, designed by Simms and built by Vickers, Sons & Maxim in 1899.[4] The vehicle had Vickers armour 6 mm thick and was powered by a four-cylinder 3.3-litre[5] 16 hp Cannstatt Daimler engine giving it a maximum speed of around . The armament, consisting of two Maxim guns, was carried in two turrets with 360° traverse.[6][7]
 
-Simms_Motor_War_Car_1902.jpg' 1902 Motor War Car, the first armoured car to be built]] Another early armoured car of the period was the French Charron, Girardot et Voigt 1902, presented at the _Salon de l'Automobile et du cycle_ in Brussels, on 8 March 1902.[8] The vehicle was equipped with a Hotchkiss machine gun, and with 7 mm armour for the gunner.[9][10] Armoured cars were first used in large numbers on both sides during World War I as scouting vehicles.
+' 1902 Motor War Car, the first armoured car to be built]] Another early armoured car of the period was the French Charron, Girardot et Voigt 1902, presented at the _Salon de l'Automobile et du cycle_ in Brussels, on 8 March 1902.[8] The vehicle was equipped with a Hotchkiss machine gun, and with 7 mm armour for the gunner.[9][10] Armoured cars were first used in large numbers on both sides during World War I as scouting vehicles.
 
 Tank
 
@@ -47,7 +47,7 @@ Wells' literary vision was realized in 1916, when, amidst the pyrrhic standstill
 
 Troop transport
 
-British_Mark_IX_Armoured_Personnel_Carrier.jpg, the first armoured personnel carrier]] The tank eventually proved highly successful and, as technology improved. it became a weapon that could cross large distances at much higher speeds than supporting infantry and artillery. The need to provide the units that would fight alongside the tank led to the development of a wide range of specialised AFVs, especially during the Second World War (1939-1945).
+, the first armoured personnel carrier]] The tank eventually proved highly successful and, as technology improved. it became a weapon that could cross large distances at much higher speeds than supporting infantry and artillery. The need to provide the units that would fight alongside the tank led to the development of a wide range of specialised AFVs, especially during the Second World War (1939-1945).
 
 The Armoured personnel carrier, designed to transport infantry troops to the frontline, emerged towards the end of World War I. During the first actions with tanks, it had become clear that close contact with infantry was essential in order to secure ground won by the tanks. Troops on foot were vulnerable to enemy fire, but they could not be transported in the tank because of the intense heat and noxious atmosphere. In 1917, Lieutenant G.J. Rackham was ordered to design an armoured vehicle that could fight and carry troops or supplies. The Mark IX tank was built by Armstrong, Whitworth & Co., although just three vehicles had been finished at the time of the Armistice in November 1918, and only 34 were built in total.
 
@@ -57,7 +57,7 @@ Different tank classifications emerged in the interwar period. The tankette was 
 
 Self-propelled artillery
 
-British_Gun_Carrier_Mark_I_-_60_pdr.jpg The British Gun Carrier Mark I, the first Self-propelled artillery, was fielded in 1917. It was based on the first tank, the British Mark I, and carried a heavy field-gun. The next major advance was the Birch gun (1925), developed for the motorised warfare experimental brigade (the Experimental Mechanized Force). This mounted a field gun, capable of the usual artillery trajectories, on a tank-style chassis.
+The British Gun Carrier Mark I, the first Self-propelled artillery, was fielded in 1917. It was based on the first tank, the British Mark I, and carried a heavy field-gun. The next major advance was the Birch gun (1925), developed for the motorised warfare experimental brigade (the Experimental Mechanized Force). This mounted a field gun, capable of the usual artillery trajectories, on a tank-style chassis.
 
 During World War II, most major military powers developed self-propelled artillery vehicles. These had guns mounted on a tracked chassis (often that of an obsolete or superseded tank) and provided an armoured superstructure to protect the gun and its crew. The first British design, "Bishop", carried the 25 pdr gun-howitzer, but in a mounting that severely limited the gun's performance. It was replaced by the more effective Sexton. The Germans built many lightly armored self-propelled anti-tank guns using captured French equipment (for example Marder I), their own obsolete light tank chassis (Marder II), or ex-Czech chassis (Marder III). These led to better-protected tank destroyers, built on a medium-tank chassis such as the Jagdpanzer IV or the Jagdpanther.
 
@@ -112,7 +112,7 @@ Philosophically, the tank is, by its very nature, an offensive weapon. Being a p
 
 Tank classifications
 
-Flickr_-_The_U.S._Army_-_Robotics_rodeo.jpg light tank designed and built by Howe & Howe Technologies.]] Tanks were classified either by size or by role.
+light tank designed and built by Howe & Howe Technologies.]] Tanks were classified either by size or by role.
 
 Classification by relative size was common, as this also tended to influence the tanks' role.
 
@@ -128,11 +128,11 @@ In modern use, the heavy tank has fallen out of favour, being supplanted by more
 
 Main battle tank
 
-T-90_Bhisma_cropped.jpg _Bhisma_ with appliqué reactive armor and standard main gun]] Modern main battle tanks or "universal tanks" incorporate recent advances in automotive, artillery, armour, and electronic technology to combine the best characteristics of the historic medium and heavy tanks into a single, all around type. They are also the most expensive to mass-produce. A main battle tank is distinguished by its high level of firepower, mobility and armour protection relative to other vehicles of its era. It can cross comparatively rough terrain at high speeds, but its heavy-dependency on fuel, maintenance, and ammunition makes it logistically demanding. It has the heaviest armour of any AFVs on the battlefield, and carries a powerful precision-guided munition weapon systems that may be able to engage a wide variety of both ground targets and air targets. Despite significant advances in anti-tank warfare, it still remains the most versatile and fearsome land-based weapon-systems of the 21st-century, valued for its shock action and high survivability.
+_Bhisma_ with appliqué reactive armor and standard main gun]] Modern main battle tanks or "universal tanks" incorporate recent advances in automotive, artillery, armour, and electronic technology to combine the best characteristics of the historic medium and heavy tanks into a single, all around type. They are also the most expensive to mass-produce. A main battle tank is distinguished by its high level of firepower, mobility and armour protection relative to other vehicles of its era. It can cross comparatively rough terrain at high speeds, but its heavy-dependency on fuel, maintenance, and ammunition makes it logistically demanding. It has the heaviest armour of any AFVs on the battlefield, and carries a powerful precision-guided munition weapon systems that may be able to engage a wide variety of both ground targets and air targets. Despite significant advances in anti-tank warfare, it still remains the most versatile and fearsome land-based weapon-systems of the 21st-century, valued for its shock action and high survivability.
 
 Tankette
 
-Wiesel120mm2.jpg with autocannon]] A tankette is a tracked armed and armoured vehicle[17] resembling a small "ultra-light tank" or "super-light tank" roughly the size of a car, mainly intended for light infantry support or scouting.[18] They were one or two-man vehicles armed with a machine gun. Colloquially it may also simply mean a "small tank".[19]
+with autocannon]] A tankette is a tracked armed and armoured vehicle[17] resembling a small "ultra-light tank" or "super-light tank" roughly the size of a car, mainly intended for light infantry support or scouting.[18] They were one or two-man vehicles armed with a machine gun. Colloquially it may also simply mean a "small tank".[19]
 
 Tankettes were designed and built by several nations between the 1920s and 1940s. They were very popular with smaller countries. Some saw some combat (with limited success) in World War II. However, the vulnerability of their light armour eventually caused the concept to be abandoned.
 
@@ -142,19 +142,19 @@ The term "super-heavy tank" has been used to describe armoured fighting vehicles
 
 Flame tank
 
-Churchill_Crocodile_01.jpg flame tank]] A _' flame tank_' is an otherwise-standard tank equipped with a flamethrower, most commonly used to supplement combined arms attacks against fortifications, confined spaces, or other obstacles. The type only reached significant use in the Second World War, during which the United States, Soviet Union, Germany, Italy, Japan and the United Kingdom (including members of the British Commonwealth) all produced flamethrower-equipped tanks. Usually, the flame projector replaced one of the tank's machineguns, however, some flame projectors replaced the tank's main gun. Fuel for the flame weapon was generally carried inside the tank, although a few designs mounted the fuel externally, such as the armoured trailer used on the Churchill Crocodile.
+flame tank]] A _' flame tank_' is an otherwise-standard tank equipped with a flamethrower, most commonly used to supplement combined arms attacks against fortifications, confined spaces, or other obstacles. The type only reached significant use in the Second World War, during which the United States, Soviet Union, Germany, Italy, Japan and the United Kingdom (including members of the British Commonwealth) all produced flamethrower-equipped tanks. Usually, the flame projector replaced one of the tank's machineguns, however, some flame projectors replaced the tank's main gun. Fuel for the flame weapon was generally carried inside the tank, although a few designs mounted the fuel externally, such as the armoured trailer used on the Churchill Crocodile.
 
 Flame tanks have been superseded by thermobaric weapons such as the Russian TOS-1.
 
 Infantry tank
 
-MatildaII.jpg displaying a captured Italian flag]] The idea for this tank was developed during World War I by British and French. The infantry tank was designed to work in concert with infantry in the assault, moving mostly at a walking pace, and carrying heavy armour to survive defensive fire. Its main purpose was to suppress enemy fire, crush obstacles such as barbed-wire entanglements, and protect the infantry on their advance into and through enemy lines by giving mobile overwatch and cover. The French Renault FT was the first iteration of this concept.
+displaying a captured Italian flag]] The idea for this tank was developed during World War I by British and French. The infantry tank was designed to work in concert with infantry in the assault, moving mostly at a walking pace, and carrying heavy armour to survive defensive fire. Its main purpose was to suppress enemy fire, crush obstacles such as barbed-wire entanglements, and protect the infantry on their advance into and through enemy lines by giving mobile overwatch and cover. The French Renault FT was the first iteration of this concept.
 
 The British and French retained the concept between the wars and into the Second World War era. Because infantry tanks did not need to be fast, they could carry heavy armour. One of the best-known infantry tanks was the Matilda II of World War II. Other examples include the French R-35, the British Valentine, and the British Churchill.
 
 Cruiser tank
 
-IWM-E-17616-Crusader-19421002.jpg A cruiser tank, or cavalry tank, was designed to move fast and exploit penetrations of the enemy front. The idea originated in "Plan 1919", a British plan to break the trench deadlock of World War I in part via the use of high-speed tanks. The first cruiser tank was the British Whippet.
+A cruiser tank, or cavalry tank, was designed to move fast and exploit penetrations of the enemy front. The idea originated in "Plan 1919", a British plan to break the trench deadlock of World War I in part via the use of high-speed tanks. The first cruiser tank was the British Whippet.
 
 Between the wars, this concept was implemented in the "fast tanks" pioneered by J. Walter Christie. These led to the Soviet BT tank series and the British cruiser tank series.
 
@@ -164,7 +164,7 @@ The Soviet fast tank (_bistrokhodniy tank_, or BT tank) classification also came
 
 Armoured car
 
-Elandy.png armoured car]] The armoured car is a wheeled, often lightly armoured, vehicle adapted as a fighting machine. Its earliest form consisted of a motorised ironside chassis fitted with firing ports. By World War I, this had evolved into a mobile fortress[20] equipped with command equipment, searchlights, and machine guns for self-defence. It was soon proposed that the requirements for the armament and layout of armoured cars be somewhat similar to those on naval craft, resulting in turreted vehicles. The first example carried a single revolving cupola with a Vickers gun; modern armoured cars may boast heavier armament – ranging from twin machine guns to large calibre cannon.
+armoured car]] The armoured car is a wheeled, often lightly armoured, vehicle adapted as a fighting machine. Its earliest form consisted of a motorised ironside chassis fitted with firing ports. By World War I, this had evolved into a mobile fortress[20] equipped with command equipment, searchlights, and machine guns for self-defence. It was soon proposed that the requirements for the armament and layout of armoured cars be somewhat similar to those on naval craft, resulting in turreted vehicles. The first example carried a single revolving cupola with a Vickers gun; modern armoured cars may boast heavier armament – ranging from twin machine guns to large calibre cannon.
 
 Some multi-axled wheeled fighting vehicles can be quite heavy, and superior to older or smaller tanks in terms of armour and armament. Others are often used in military marches and processions, or for the escorting of important figures. Under peacetime conditions, they form an essential part of most standing armies. Armoured car units can move without the assistance of transporters and cover great distances with fewer logistical problems than tracked vehicles.
 
@@ -182,7 +182,7 @@ A SCOUT CAR is a military armored reconnaissance vehicle, capable of off-road mo
 
 Reconnaissance vehicle
 
-Stryker_RV_front_q.jpg M1127 Reconnaissance Vehicle]]
+M1127 Reconnaissance Vehicle]]
 
 A RECONNAISSANCE VEHICLE, also known as a SCOUT VEHICLE, is a military vehicle used for forward reconnaissance. Both tracked and wheeled reconnaissance vehicles are in service. In some nations, light tanks such as the M551 Sheridan and AMX-13 are also used by scout platoons. Reconnaissance vehicles are usually designed with a low profile or small size and are lightly armoured, relying on speed and cover to escape detection. Their armament ranges from a medium machine gun to a large cannon. Modern examples are often fitted with ATGMs and a wide range of sensors.
 
@@ -210,11 +210,11 @@ Troop-carrying AFVs are divided into three main types – armoured personnel car
 
 Armoured personnel carrier
 
-Slovakia_army_868.jpg]] ARMOURED PERSONNEL CARRIERS (APCS) are intended to carry infantry quickly and relatively safely to the point where they are deployed. In the Battle of Amiens, 8 August 1918, the British Mk V* (Mark Five Star) tank carried a small number of machine gunners as an experiment, but the men were debilitated by the conditions inside the vehicle.[27] Later that year the first purpose-built APC, the British Mk IX (Mark Nine), appeared. In 1944, the Canadian general Guy Simonds ordered the conversion of redundant armoured vehicles to carry troops (generically named "Kangaroos"). This proved highly successful, even without training, and the concept was widely used in the 21st Army Group. Post-war, specialised designs were built, such as the Soviet BTR-60 and US M113.
+]] ARMOURED PERSONNEL CARRIERS (APCS) are intended to carry infantry quickly and relatively safely to the point where they are deployed. In the Battle of Amiens, 8 August 1918, the British Mk V* (Mark Five Star) tank carried a small number of machine gunners as an experiment, but the men were debilitated by the conditions inside the vehicle.[27] Later that year the first purpose-built APC, the British Mk IX (Mark Nine), appeared. In 1944, the Canadian general Guy Simonds ordered the conversion of redundant armoured vehicles to carry troops (generically named "Kangaroos"). This proved highly successful, even without training, and the concept was widely used in the 21st Army Group. Post-war, specialised designs were built, such as the Soviet BTR-60 and US M113.
 
 Infantry fighting vehicle
 
-An INFANTRY FIGHTING VEHICLE (IFV), also known as a MECHANIZED INFANTRY COMBAT VEHICLE (MICV), is a type of armoured fighting vehicle used to carry infantry into battle and provide direct fire support.[28] The first example of an IFV was the West German Schützenpanzer Lang HS.30 which served in the Bundeswehr from 1958 until the early 1980s. Puma,_first_series.jpg infantry fighting vehicles]]
+An INFANTRY FIGHTING VEHICLE (IFV), also known as a MECHANIZED INFANTRY COMBAT VEHICLE (MICV), is a type of armoured fighting vehicle used to carry infantry into battle and provide direct fire support.[28] The first example of an IFV was the West German Schützenpanzer Lang HS.30 which served in the Bundeswehr from 1958 until the early 1980s. infantry fighting vehicles]]
 
 IFVs are similar to armoured personnel carriers (APCs) and infantry carrier vehicles (ICVs), designed to transport a section or squad of infantry (generally between five and ten men) and their equipment. They are differentiated from APCs—which are purely "troop-transport" vehicles armed only for self-defense—because they are designed to give direct fire support to the dismounted infantry and so usually have significantly enhanced armament. IFVs also often have improved armour and some have firing ports (allowing the infantry to fire personal weapons while mounted).
 
@@ -222,7 +222,7 @@ They are typically armed with an autocannon of 20 to 40 mm calibre, 7.62mm mach
 
 Infantry mobility vehicle
 
-AMZ_Tur_PICT0096.jpg]] An INFANTRY MOBILITY VEHICLE (IMV) or PROTECTED PATROL VEHICLE (PPV) is a wheeled armored personnel carrier (APC) serving as a military patrol, reconnaissance or security vehicle. Examples include the ATF Dingo, AMZ Dzik, AMZ Tur, Mungo ESK, and Bushmaster IMV. This term also applies to the vehicles currently being fielded as part of the MRAP program.
+]] An INFANTRY MOBILITY VEHICLE (IMV) or PROTECTED PATROL VEHICLE (PPV) is a wheeled armored personnel carrier (APC) serving as a military patrol, reconnaissance or security vehicle. Examples include the ATF Dingo, AMZ Dzik, AMZ Tur, Mungo ESK, and Bushmaster IMV. This term also applies to the vehicles currently being fielded as part of the MRAP program.
 
 IMVs were developed in response to the threats of modern counter insurgency warfare, with an emphasis on Ambush Protection and Mine-Resistance. Similar vehicles existed long before the term IMV was coined, such as the French VAB and South African Buffel. The term is coming more into use to differentiate light 4x4 wheeled APCs from the traditional 8x8 wheeled APCs. It is a neologism for what might have been classified in the past as an armoured scout car, such as the BRDM, but the IMV is distinguished by having a requirement to carry dismountable infantry. The up-armoured M1114 Humvee variant can be seen as an adaptation of the unarmoured Humvee to serve in the IMV role.
 
@@ -230,7 +230,7 @@ File:CV9035 assessment (cropped).jpg|A CV-9035 Swedish infantry fighting vehicle
 
 Amphibious vehicles
 
-BTR-80_coming_ashore.jpg AAV-australia.jpgs emerge from the surf onto the sand of Freshwater Beach, Australia]] Many modern military vehicles, ranging from light wheeled command and reconnaissance, through armoured personnel carriers and tanks, are manufactured with amphibious capabilities. Contemporary wheeled armoured amphibians include the French Véhicule de l'Avant Blindé and Véhicule Blindé Léger. The latter is a small, lightly armoured 4×4 all-terrain vehicle that is fully amphibious and can swim at 5.4 km/h. The VAB (_Véhicule de l'Avant Blindé_ – "Armoured Vanguard Vehicle") is a fully amphibious armoured personnel carrier powered in the water by two water jets, that entered service in 1976 and produced in numerous configurations, ranging from basic personnel carrier, anti-tank missile platform.
+s emerge from the surf onto the sand of Freshwater Beach, Australia]] Many modern military vehicles, ranging from light wheeled command and reconnaissance, through armoured personnel carriers and tanks, are manufactured with amphibious capabilities. Contemporary wheeled armoured amphibians include the French Véhicule de l'Avant Blindé and Véhicule Blindé Léger. The latter is a small, lightly armoured 4×4 all-terrain vehicle that is fully amphibious and can swim at 5.4 km/h. The VAB (_Véhicule de l'Avant Blindé_ – "Armoured Vanguard Vehicle") is a fully amphibious armoured personnel carrier powered in the water by two water jets, that entered service in 1976 and produced in numerous configurations, ranging from basic personnel carrier, anti-tank missile platform.
 
 During the Cold War the Soviet bloc states developed a number of amphibious APCs, fighting vehicles and tanks, both wheeled and tracked. Most of the vehicles the Soviets designed were amphibious, or could ford deep water. Wheeled examples are the BRDM-1 and BRDM-2 4x4 armoured scout cars, as well as the BTR-60, BTR-70, BTR-80 and BTR-94 8x8 armoured personnel carriers and the BTR-90 infantry fighting vehicle.
 
@@ -242,9 +242,9 @@ Some heavy tanks can operate amphibiously with a fabric skirt to add buoyancy. T
 
 Armoured engineering vehicle
 
-IDF_Puma_CEV_(5).jpg combat engineering vehicle]] Modern engineering AFV's utilize chassis based on main battle tank platforms: these vehicles are as well armoured and protected as tanks, designed to keep up tanks, conduct obstacle breaching operations to help tanks get to wherever it needs to be, perform utility functions necessary to expedite mission objectives of tanks, and to conduct other earth-moving and engineering work on the battlefield. These vehicles go by different names depending upon the country of use or manufacture. In the United States the term "combat engineer vehicle (CEV)" is used, in the United Kingdom the term "Armoured Vehicle Royal Engineers (AVRE)" is used, while in Canada and other commonwealth nations the term "armoured engineer vehicle (AEV)" is used. There is no set template for what such a vehicle will look like, yet likely features include a large dozer blade or mine ploughs, a large calibre demolition cannon, augers, winches, excavator arms and cranes, or lifting booms.
+combat engineering vehicle]] Modern engineering AFV's utilize chassis based on main battle tank platforms: these vehicles are as well armoured and protected as tanks, designed to keep up tanks, conduct obstacle breaching operations to help tanks get to wherever it needs to be, perform utility functions necessary to expedite mission objectives of tanks, and to conduct other earth-moving and engineering work on the battlefield. These vehicles go by different names depending upon the country of use or manufacture. In the United States the term "combat engineer vehicle (CEV)" is used, in the United Kingdom the term "Armoured Vehicle Royal Engineers (AVRE)" is used, while in Canada and other commonwealth nations the term "armoured engineer vehicle (AEV)" is used. There is no set template for what such a vehicle will look like, yet likely features include a large dozer blade or mine ploughs, a large calibre demolition cannon, augers, winches, excavator arms and cranes, or lifting booms.
 
-Although the term "armoured engineer vehicle" is used specifically to describe these multi-purpose tank-based engineering vehicles, that term is also used more generically in British and Commonwealth militaries to describe all heavy tank-based engineering vehicles used in the support of mechanized forces. Thus, "armoured engineer vehicle" used generically would refer to AEV, AVLB, Assault Breachers, and so on. Good examples of this type of vehicle include the UK Trojan AVRE, the Russian IMR, and the US M728 Combat Engineer Vehicle. ILÜ_2012_-_Panzer_Keiler.jpg Rheinmetall Keiler. It uses a heavy-duty rotor-powered mine flail, which causes mines it comes in contact with to safely detonate.]]
+Although the term "armoured engineer vehicle" is used specifically to describe these multi-purpose tank-based engineering vehicles, that term is also used more generically in British and Commonwealth militaries to describe all heavy tank-based engineering vehicles used in the support of mechanized forces. Thus, "armoured engineer vehicle" used generically would refer to AEV, AVLB, Assault Breachers, and so on. Good examples of this type of vehicle include the UK Trojan AVRE, the Russian IMR, and the US M728 Combat Engineer Vehicle. Rheinmetall Keiler. It uses a heavy-duty rotor-powered mine flail, which causes mines it comes in contact with to safely detonate.]]
 
 Breaching vehicle
 
@@ -252,7 +252,7 @@ A BREACHING VEHICLE is especially designed to clear pathways for troops and othe
 
 Armoured bulldozer
 
-IDF-D9-Zachi-Evenor-001.jpg armored bulldozer]] The ARMORED BULLDOZER is a basic tool of combat engineering. These combat engineering vehicles combine the earth moving capabilities of the bulldozer with armor which protects the vehicle and its operator in or near combat. Most are civilian bulldozers modified by addition of vehicle armor/military equipment, but some are tanks stripped of armament and fitted with a dozer blade. Some tanks have bulldozer blades while retaining their armament, but this does not make them armored bulldozers as such, because combat remains the primary role – earth moving is a secondary task.
+armored bulldozer]] The ARMORED BULLDOZER is a basic tool of combat engineering. These combat engineering vehicles combine the earth moving capabilities of the bulldozer with armor which protects the vehicle and its operator in or near combat. Most are civilian bulldozers modified by addition of vehicle armor/military equipment, but some are tanks stripped of armament and fitted with a dozer blade. Some tanks have bulldozer blades while retaining their armament, but this does not make them armored bulldozers as such, because combat remains the primary role – earth moving is a secondary task.
 
 Armoured recovery vehicle
 
@@ -274,7 +274,7 @@ File:IDF Puma CEV (5).jpg|IDF Puma - combat engineering vehicle and section carr
 
 Air defense vehicles
 
-Gepard_1a2_overview.jpg, Germany]] JLTV_1.jpg An anti-aircraft vehicle, also known as a self-propelled anti-aircraft weapon (SPAA) or self-propelled air defense system (SPAD), is a mobile vehicle with a dedicated anti-aircraft capability. The Russian equivalent of SPAAG is ZSU (from _zenitnaya samokhodnaya ustanovka_ – "anti-aircraft self-propelled mount"). Specific weapon systems used include machine guns, autocannons, larger guns, or missiles, and some mount both guns and longer-ranged missiles. Platforms used include both trucks and heavier combat vehicles, such as APCs and tanks, which add protection from aircraft, artillery, and small arms fire for front line deployment. Anti-aircraft guns are usually mounted in a quickly traversing turret with a high rate of elevation, for tracking fast-moving aircraft. They are often in dual or quadruple mounts, allowing a high rate of fire. Today, missiles (generally mounted on similar turrets) have largely supplanted anti-aircraft guns.
+, Germany]] An anti-aircraft vehicle, also known as a self-propelled anti-aircraft weapon (SPAA) or self-propelled air defense system (SPAD), is a mobile vehicle with a dedicated anti-aircraft capability. The Russian equivalent of SPAAG is ZSU (from _zenitnaya samokhodnaya ustanovka_ – "anti-aircraft self-propelled mount"). Specific weapon systems used include machine guns, autocannons, larger guns, or missiles, and some mount both guns and longer-ranged missiles. Platforms used include both trucks and heavier combat vehicles, such as APCs and tanks, which add protection from aircraft, artillery, and small arms fire for front line deployment. Anti-aircraft guns are usually mounted in a quickly traversing turret with a high rate of elevation, for tracking fast-moving aircraft. They are often in dual or quadruple mounts, allowing a high rate of fire. Today, missiles (generally mounted on similar turrets) have largely supplanted anti-aircraft guns.
 
 Self-propelled artillery
 
@@ -290,19 +290,19 @@ Conversely, towed artillery was and remains cheaper to build and maintain. It is
 
 Assault gun
 
-Su76_nn.jpg was easily constructed in small factories incapable of producing proper tanks]] An assault gun is a gun or howitzer mounted on a motor vehicle or armoured chassis, designed for use in the direct fire role in support of infantry when attacking other infantry or fortified positions.
+was easily constructed in small factories incapable of producing proper tanks]] An assault gun is a gun or howitzer mounted on a motor vehicle or armoured chassis, designed for use in the direct fire role in support of infantry when attacking other infantry or fortified positions.
 
 Historically, the custom-built fully armored assault guns usually mounted the gun or howitzer in a fully enclosed casemate on a tank chassis. The use of a casemate instead of a gun turret limited these weapons' field of fire, but allowed a larger gun to be fitted relative to the chassis, more armour to be fitted for the same weight, and provided a cheaper construction. In most cases, these turretless vehicles also presented a lower profile as a target for the enemy.
 
 Mortar carrier
 
-Stryker_MCV-B.jpg]] A mortar carrier is a self-propelled artillery vehicle carrying a mortar as its primary weapon. Mortar carriers cannot be fired while on the move and some must be dismounted to fire. In U.S. Army doctrine, mortar carriers provide close and immediate indirect fire support for maneuver units while allowing for rapid displacement and quick reaction to the tactical situation. The ability to relocate not only allows fire support to be provided where it is needed faster, but also allows these units to avoid counter-battery fire. Mortar carriers have traditionally avoided direct contact with the enemy. Many units report never using secondary weapons in combat.
+]] A mortar carrier is a self-propelled artillery vehicle carrying a mortar as its primary weapon. Mortar carriers cannot be fired while on the move and some must be dismounted to fire. In U.S. Army doctrine, mortar carriers provide close and immediate indirect fire support for maneuver units while allowing for rapid displacement and quick reaction to the tactical situation. The ability to relocate not only allows fire support to be provided where it is needed faster, but also allows these units to avoid counter-battery fire. Mortar carriers have traditionally avoided direct contact with the enemy. Many units report never using secondary weapons in combat.
 
 Prior to the Iraq War, American 120 mm mortar platoons reorganized from six M1064 mortar carriers and two M577 fire direction centers (FDC) to four M1064 and one FDC.[29] The urban environment of Iraq made it difficult to utilize mortars. New technologies such as mortar ballistic computers and communication equipment and are being integrated. Modern era combat is becoming more reliant on direct fire support from mortar carrier machine guns.
 
 Multiple rocket launcher
 
-9a52_smerch.jpg 300 mm rocket launcher in raised position]] A multiple rocket launcher is a type of unguided rocket artillery system. Like other rocket artillery, multiple rocket launchers are less accurate and have a much lower (sustained) rate of fire than batteries of traditional artillery guns. However, they have the capability of simultaneously dropping many hundreds of kilograms of explosive, with devastating effect.
+300 mm rocket launcher in raised position]] A multiple rocket launcher is a type of unguided rocket artillery system. Like other rocket artillery, multiple rocket launchers are less accurate and have a much lower (sustained) rate of fire than batteries of traditional artillery guns. However, they have the capability of simultaneously dropping many hundreds of kilograms of explosive, with devastating effect.
 
 The Korean Hwacha is an example of an early weapon system with a resemblance to the modern-day multiple rocket launcher. The first modern multiple rocket launcher was the German _Nebelwerfer_ of the 1930s, a small towed artillery piece. Only later in World War II did the Allies deploy similar weapons in the form of the Land Mattress.
 
@@ -310,7 +310,7 @@ The first self-propelled multiple rocket launchers – and arguably the most fam
 
 Tank destroyer
 
-NM142_x_3.jpg TOW missile launchers]] Tank destroyers and tank hunters are armed with an anti-tank gun or missile launcher, and are designed specifically to engage enemy armoured vehicles. Many have been based on a tracked tank chassis, while others are wheeled. Since World War II, main battle tanks have largely replaced gun-armed tank destroyers; although lightly armoured anti tank guided missile (ATGM) carriers are commonly used for supplementary long-range anti-tank engagements.
+TOW missile launchers]] Tank destroyers and tank hunters are armed with an anti-tank gun or missile launcher, and are designed specifically to engage enemy armoured vehicles. Many have been based on a tracked tank chassis, while others are wheeled. Since World War II, main battle tanks have largely replaced gun-armed tank destroyers; although lightly armoured anti tank guided missile (ATGM) carriers are commonly used for supplementary long-range anti-tank engagements.
 
 In post-Cold War conflict, the resurgence of expeditionary warfare has seen the emergence of gun-armed wheeled vehicles, sometimes called "protected gun systems", which may bear a superficial resemblance to tank destroyers, but are employed as direct fire support units typically providing support in low intensity operations such as Iraq and Afghanistan. These have the advantage of easier deployment, as only the largest air transports can carry a main battle tank, and their smaller size makes them more effective in urban combat.
 
@@ -320,7 +320,7 @@ File:AS-90 self-propelled artillery.JPG|British AS-90s firing in Basra, Iraq, 20
 
 Armoured train
 
-Pancierovy_vlak-Zvolen.jpg located in Zvolen, Slovakia]] An ARMOURED TRAIN is a railway train protected with armour. They are usually equipped with railroad cars armed with artillery and machine guns. They were mostly used during the late 19th and early 20th century, when they offered an innovative way to quickly move large amounts of firepower. Their use was discontinued in most countries when road vehicles became much more powerful and offered more flexibility, and because armoured trains were too vulnerable to track sabotage as well as attacks from the air. However, the Russian Federation used improvised armoured trains in the Second Chechen War in the late 1990s and 2000s.
+located in Zvolen, Slovakia]] An ARMOURED TRAIN is a railway train protected with armour. They are usually equipped with railroad cars armed with artillery and machine guns. They were mostly used during the late 19th and early 20th century, when they offered an innovative way to quickly move large amounts of firepower. Their use was discontinued in most countries when road vehicles became much more powerful and offered more flexibility, and because armoured trains were too vulnerable to track sabotage as well as attacks from the air. However, the Russian Federation used improvised armoured trains in the Second Chechen War in the late 1990s and 2000s.
 
 The railroad cars on an armoured train were designed for many tasks, such as carrying guns and machine guns, infantry units, anti-aircraft guns. During World War II, the Germans would sometimes put a _Fremdgerät_ (such as a captured French Somua S-35 or Czech PzKpfw 38(t) light tank, or Panzer II light tank) on a flatbed car, which could be quickly offloaded by means of a ramp and used away from the range of the main railway line to chase down enemy partisans.
 

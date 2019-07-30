@@ -1,4 +1,4 @@
-Claw-hammer.jpg]] A HAMMER is a tool consisting of a weighted "head" fixed to a long handle that is swung to deliver an impact to a small area of an object. This can be, for example, to drive nails into wood, to shape metal (as with a forge), or to crush rock.[1][2] Hammers are used for a wide range of driving, shaping, and breaking applications.
+]] A HAMMER is a tool consisting of a weighted "head" fixed to a long handle that is swung to deliver an impact to a small area of an object. This can be, for example, to drive nails into wood, to shape metal (as with a forge), or to crush rock.[1][2] Hammers are used for a wide range of driving, shaping, and breaking applications.
 
 The modern hammer head is typically made of steel which has been heat treated for hardness, and the handle (also called a haft or helve) is typically made of wood or plastic.
 
@@ -27,7 +27,7 @@ The hammer head may be surfaced with a variety of materials including brass, bro
 
 Designs and variations
 
-Peen_hammers.png Prying_up_a_long_nail.jpg A large hammer-like tool is a _maul_ (sometimes called a "beetle"), a wood- or rubber-headed hammer is a _mallet_, and a hammer-like tool with a cutting blade is usually called a _hatchet_. The essential part of a hammer is the head, a compact solid mass that is able to deliver a blow to the intended target without itself deforming. The impacting surface of the tool is usually flat or slightly rounded; the opposite end of the impacting mass may have a ball shape, as in the ball-peen hammer. Some upholstery hammers have a magnetized face, to pick up tacks. In the hatchet, the flat hammer head may be secondary to the cutting edge of the tool.
+A large hammer-like tool is a _maul_ (sometimes called a "beetle"), a wood- or rubber-headed hammer is a _mallet_, and a hammer-like tool with a cutting blade is usually called a _hatchet_. The essential part of a hammer is the head, a compact solid mass that is able to deliver a blow to the intended target without itself deforming. The impacting surface of the tool is usually flat or slightly rounded; the opposite end of the impacting mass may have a ball shape, as in the ball-peen hammer. Some upholstery hammers have a magnetized face, to pick up tacks. In the hatchet, the flat hammer head may be secondary to the cutting edge of the tool.
 
 The impact between steel hammer heads and the objects being hit can create sparks, which may ignite flammable or explosive gases. These are a hazard in some industries such as underground coal mining (due to the presence of methane gas), or in other hazardous environments such as petroleum refineries and chemical plants. In these environments, a variety of non-sparking metal tools are used, primarily made of aluminium or beryllium copper. In recent years, the handles have been made of durable plastic or rubber, though wood is still widely used because of its shock-absorbing qualities and repair-ability.
 
@@ -69,7 +69,7 @@ Hand-powered hammers
 
 Mechanically-powered hammers
 
-Boxholms_bruksmuseum,_den_18_oktober_2008,_bild_38.JPG Mechanically-powered hammers often look quite different from the hand tools, but nevertheless, most of them work on the same principle. They include:
+Mechanically-powered hammers often look quite different from the hand tools, but nevertheless, most of them work on the same principle. They include:
 
 -   Hammer drill, that combines a jackhammer-like mechanism with a drill
 -   High Frequency Impact Treatment hammer — for after-treatment of weld transitions

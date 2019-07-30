@@ -18,7 +18,7 @@ Ankara has a hot-summer Mediterranean climate (Köppen _Csa_) which closely bord
 
 Demographics
 
-Ankara_road_map.png]]
+]]
 
 Ankara had a population of 75,000 in 1927. In 2013, Ankara Province had a population of 5,045,083.[15]
 
@@ -29,7 +29,7 @@ Nevertheless, many of these gecekondus have been replaced by huge public housing
 
 History
 
-MuseumOfAnatolianCivilizationsHittiteArtifacts.jpg on display at the Museum of Anatolian Civilizations, Ankara.]]
+on display at the Museum of Anatolian Civilizations, Ankara.]]
 
 The region's history can be traced back to the Bronze Age Hattic civilization, which was succeeded in the 2nd millennium BC by the Hittites, in the 10th century BC by the Phrygians, and later by the Lydians, Persians, Greeks, Galatians, Romans, Byzantines, and Turks (the Seljuk Sultanate of Rûm, the Ottoman Empire and finally republican Turkey).
 
@@ -43,17 +43,17 @@ Another important expansion took place under the Greeks of Pontos who came there
 
 Celtic history
 
-Dying_gaul.jpg'' was a famous statue commissioned some time between 230–220 BC by King Attalos I of Pergamon to honor his victory over the Celtic Galatians in Anatolia. Roman marble copy of a Hellenistic work of the late 3rd century BC, at the Capitoline Museums, Rome.]]
+'' was a famous statue commissioned some time between 230–220 BC by King Attalos I of Pergamon to honor his victory over the Celtic Galatians in Anatolia. Roman marble copy of a Hellenistic work of the late 3rd century BC, at the Capitoline Museums, Rome.]]
 
 In 278 BC, the city, along with the rest of central Anatolia, was occupied by a Celtic group, the Galatians, who were the first to make Ankara one of their main tribal centers, the headquarters of the Tectosages tribe.[17] Other centers were Pessinos, today's _Balhisar_, for the Trocmi tribe, and Tavium, to the east of Ankara, for the _Tolstibogii_ tribe. The city was then known as _Ancyra_. The Celtic element was probably relatively small in numbers; a warrior aristocracy which ruled over Phrygian-speaking peasants. However, the Celtic language continued to be spoken in Galatia for many centuries. At the end of the 4th century, St. Jerome, a native of Dalmatia, observed that the language spoken around Ankara was very similar to that being spoken in the northwest of the Roman world near Trier.
 
 Roman history
 
-Galatia_Map.pngic kingdom of Galatia, and later of the Roman province with the same name, after its conquest by Augustus in 25 BC.]]
+ic kingdom of Galatia, and later of the Roman province with the same name, after its conquest by Augustus in 25 BC.]]
 
 The city was subsequently passed under the control of the Roman Empire. In 25 BC, Emperor Augustus raised it to the status of a _polis_ and made it the capital city of the Roman province of Galatia.[18] Ankara is famous for the _Monumentum Ancyranum_ (_Temple of Augustus and Rome_) which contains the official record of the _Acts of Augustus_, known as the _Res Gestae Divi Augusti_, an inscription cut in marble on the walls of this temple. The ruins of Ancyra still furnish today valuable bas-reliefs, inscriptions and other architectural fragments. Two other Galatian tribal centers, Tavium near Yozgat, and Pessinus (Balhisar) to the west, near Sivrihisar, continued to be reasonably important settlements in the Roman period, but it was Ancyra that grew into a grand metropolis.
 
-Res_Gestae.jpg'' is the self-laudatory autobiography completed in 13 AD, just before his death, by the first Roman emperor Augustus. Most of the text is preserved on the walls of the Monumentum Ancyranum.]] AnkaraRomanBaths1.jpg were constructed by the Roman emperor Caracalla (212–217) in honor of Asclepios, the God of Medicine, and built around three principal rooms: the _caldarium_ (hot bath), the _tepidarium_ (warm bath) and the _frigidarium_ (cold bath) in a typically laid-out classical complex.]]
+'' is the self-laudatory autobiography completed in 13 AD, just before his death, by the first Roman emperor Augustus. Most of the text is preserved on the walls of the Monumentum Ancyranum.]] were constructed by the Roman emperor Caracalla (212–217) in honor of Asclepios, the God of Medicine, and built around three principal rooms: the _caldarium_ (hot bath), the _tepidarium_ (warm bath) and the _frigidarium_ (cold bath) in a typically laid-out classical complex.]]
 
 An estimated 200,000 people lived in Ancyra in good times during the Roman Empire, a far greater number than was to be the case from after the fall of the Roman Empire until the early 20th century. A small river, the Ankara Çayı, ran through the center of the Roman town. It has now been covered and diverted, but it formed the northern boundary of the old town during the Roman, Byzantine and Ottoman periods. Çankaya, the rim of the majestic hill to the south of the present city center, stood well outside the Roman city, but may have been a summer resort. In the 19th century, the remains of at least one Roman villa or large house were still standing not far from where the Çankaya Presidential Residence stands today. To the west, the Roman city extended until the area of the Gençlik Park and Railway Station, while on the southern side of the hill, it may have extended downwards as far as the site presently occupied by Hacettepe University. It was thus a sizeable city by any standards and much larger than the Roman towns of Gaul or Britannia.
 
@@ -73,7 +73,7 @@ In 654, the city was captured for the first time by the Arabs of the Rashidun Ca
 
 Turkic rulers
 
-Atatürk_TBMM'den_çıkarken.jpg (center) and Prime Minister İsmet İnönü (left) leaving the Grand National Assembly of Turkey during the 7th anniversary celebrations of the Turkish Republic in 1930.]] Banks_Street_(Atatürk_Boulevard)_the_Building_of_Ziraat_Bankası_(Agricultural_Bank),_1930s_(16851406391).jpg. It was designed by Istanbul-born Italian Levantine architect Giulio Mongeri and built between 1926 and 1929.]]
+(center) and Prime Minister İsmet İnönü (left) leaving the Grand National Assembly of Turkey during the 7th anniversary celebrations of the Turkish Republic in 1930.]] . It was designed by Istanbul-born Italian Levantine architect Giulio Mongeri and built between 1926 and 1929.]]
 
 After the Battle of Manzikert in 1071, the Seljuk Turks overran much of Anatolia. By 1073, the Turkish settlers had reached the vicinity of Ancyra, and the city was captured shortly after, at the latest by the time of the rebellion of Nikephoros Melissenos in 1081.[35] In 1101, when the Crusade under Raymond IV of Toulouse arrived, the city had been under Danishmend control for some time. The Crusaders captured the city, and handed it over to the Byzantine emperor Alexios I Komnenos (r. 1081–1118).[36] Byzantine rule did not last long, and the city was captured by the Seljuk Sultanate of Rum at some unknown point; in 1127, it returned to Danishmend control until 1143, when the Seljuks of Rum retook it.[37]
 
@@ -83,7 +83,7 @@ The Levant Company maintained a factory in the town from 1639 to 1768. In the 19
 
 Turkish republican capital
 
-Protect_Your_Republic_Protest_-_6_(2007-04-14)_edit.jpg, the mausoleum of Mustafa Kemal Atatürk in Ankara, is visited by large crowds every year during national holidays such as Republic Day on October 29.]] Su_perileri_ankara.jpg during the early years of the Turkish Republic, with the later relocated _Su Perileri_ (Water Fairies) fountain, c. 1930.[38][39]]]
+, the mausoleum of Mustafa Kemal Atatürk in Ankara, is visited by large crowds every year during national holidays such as Republic Day on October 29.]] during the early years of the Turkish Republic, with the later relocated _Su Perileri_ (Water Fairies) fountain, c. 1930.[38][39]]]
 
 Following the Ottoman defeat at World War I, the Ottoman capital Constantinople (modern Istanbul) and much of Anatolia were occupied by the Allies, who planned to share these lands between Armenia, France, Greece, Italy and the United Kingdom, leaving for the Turks the core piece of land in central Anatolia. In response, the leader of the Turkish nationalist movement, Mustafa Kemal Atatürk, established the headquarters of his resistance movement in Angora in 1920. After the Turkish War of Independence was won and the Treaty of Sèvres was superseded by the Treaty of Lausanne (1923), the Turkish nationalists replaced the Ottoman Empire with the Republic of Turkey on 29 October 1923. A few days earlier, Angora had officially replaced Constantinople as the new Turkish capital city, on 13 October 1923, and Republican officials declared that the city's name is Ankara.[40]
 
@@ -95,9 +95,9 @@ Ecclesiastical history
 
 Early Christian martyrs of Ancyra, about whom little is known, included Proklos and Hilarios who were natives of the otherwise unknown nearby village of Kallippi, and suffered repression under the emperor Trajan (98–117). In the 280s we hear of Philumenos, a Christian corn merchant from southern Anatolia, being captured and martyred in Ankara, and Eustathius.
 
-Teodot_Ankirski.jpg]] As in other Roman towns, the reign of Diocletian marked the culmination of the persecution of the Christians. In 303, Ancyra was one of the towns where the co-Emperors Diocletian and his deputy Galerius launched their anti-Christian persecution. In Ancyra, their first target was the 38-year-old Bishop of the town, whose name was Clement. Clement's life describes how he was taken to Rome, then sent back, and forced to undergo many interrogations and hardship before he, and his brother, and various companions were put to death. The remains of the church of St. Clement can be found today in a building just off Işıklar Caddesi in the Ulus district. Quite possibly this marks the site where Clement was originally buried. Four years later, a doctor of the town named Plato and his brother Antiochus also became celebrated martyrs under Galerius. Theodotus of Ancyra is also venerated as a saint.
+]] As in other Roman towns, the reign of Diocletian marked the culmination of the persecution of the Christians. In 303, Ancyra was one of the towns where the co-Emperors Diocletian and his deputy Galerius launched their anti-Christian persecution. In Ancyra, their first target was the 38-year-old Bishop of the town, whose name was Clement. Clement's life describes how he was taken to Rome, then sent back, and forced to undergo many interrogations and hardship before he, and his brother, and various companions were put to death. The remains of the church of St. Clement can be found today in a building just off Işıklar Caddesi in the Ulus district. Quite possibly this marks the site where Clement was originally buried. Four years later, a doctor of the town named Plato and his brother Antiochus also became celebrated martyrs under Galerius. Theodotus of Ancyra is also venerated as a saint.
 
-However, the persecution proved unsuccessful and in 314 Ancyra was the center of an important council of the early church; its 25 disciplinary canons constitute one of the most important documents in the early history of the administration of the Sacrament of Penance. The synod also considered ecclesiastical policy for the reconstruction of the Christian Church after the persecutions, and in particular the treatment of _lapsi_—Christians who had given in to forced paganism (sacrifices) to avoid martyrdom during these persecutions. AnkaraColumnFar_c.JPG's visit to Ancyra.|281x281px]]
+However, the persecution proved unsuccessful and in 314 Ancyra was the center of an important council of the early church; its 25 disciplinary canons constitute one of the most important documents in the early history of the administration of the Sacrament of Penance. The synod also considered ecclesiastical policy for the reconstruction of the Christian Church after the persecutions, and in particular the treatment of _lapsi_—Christians who had given in to forced paganism (sacrifices) to avoid martyrdom during these persecutions. 's visit to Ancyra.|281x281px]]
 
 Though paganism was probably tottering in Ancyra in Clement's day, it may still have been the majority religion. Twenty years later, Christianity and monotheism had taken its place. Ancyra quickly turned into a Christian city, with a life dominated by monks and priests and theological disputes. The town council or senate gave way to the bishop as the main local figurehead. During the middle of the 4th century, Ancyra was involved in the complex theological disputes over the nature of Christ, and a form of Arianism seems to have originated there.
 
@@ -128,7 +128,7 @@ The Saint Clement Church is the only structure survived from the Byzantine era i
 
 Economy and infrastructure
 
-A_view_of_the_BDDK_building,_Atatürk_Avenue_in_Ankara.jpg Kızılay_Square_in_Ankara,_Turkey.JPG from the northwest, with the Kahramanlar Business Center (1959–1965).]] Sogutozu_Ankara_Turkey.jpg business district in Ankara, as seen from the Atatürk Forest Farm and Zoo, with the Armada Tower & Mall (2002) rising behind the Turkish flag.]]
+from the northwest, with the Kahramanlar Business Center (1959–1965).]] business district in Ankara, as seen from the Atatürk Forest Farm and Zoo, with the Armada Tower & Mall (2002) rising behind the Turkish flag.]]
 
 The city has exported mohair (from the Angora goat) and Angora wool (from the Angora rabbit) internationally for centuries. In the 19th century, the city also exported substantial amounts of goat and cat skins, gum, wax, honey, berries, and madder root. It was connected to Istanbul by railway before the First World War, continuing to export mohair, wool, berries, and grain.
 
@@ -140,7 +140,7 @@ A large percentage of the complicated employment in Ankara is provided by the st
 
 Transportation
 
-Çayyolu_Metro_19.JPG station of the Ankara Metro]] Ankara_Central_Station_2012_03.JPG high-speed train at the Ankara railway station (1937)]]
+station of the Ankara Metro]] high-speed train at the Ankara railway station (1937)]]
 
 The _Electricity, Gas, Bus General Directorate_ (EGO)[54] operates the Ankara Metro and other forms of public transportation. Ankara is currently served by a suburban rail named Ankaray (A1) and three subway lines (M1, M2, M3) of the Ankara Metro with about 300,000 total daily commuters, while an additional subway line (M4) is currently under construction. A long gondola lift with four stations connects the district of Şentepe to the Yenimahalle metro station.[55]
 
@@ -166,7 +166,7 @@ Main sights
 
 Ancient/archeological sites
 
-Ankara_Castle.jpg]] MonumentumAncyranum28Nov2004.jpg (_Temple of Augustus and Rome_) in Ulus, the primary intact copy of Res Gestae written by the first Roman emperor Augustus survives.]] Ankara_Roma_Hamamı_Apoditerium.jpg]]
+]] (_Temple of Augustus and Rome_) in Ulus, the primary intact copy of Res Gestae written by the first Roman emperor Augustus survives.]] ]]
 
 Ankara Citadel
 
@@ -206,7 +206,7 @@ Mosques
 
 Kocatepe Mosque
 
-ANKARA_KOCATEPE_CAMİİ.jpg is the largest mosque in Ankara]] Kocatepe Mosque is the largest mosque in the city. Located in the Kocatepe quarter, it was constructed between 1967 and 1987 in classical Ottoman style with four minarets. Its size and prominent location have made it a landmark for the city.
+is the largest mosque in Ankara]] Kocatepe Mosque is the largest mosque in the city. Located in the Kocatepe quarter, it was constructed between 1967 and 1987 in classical Ottoman style with four minarets. Its size and prominent location have made it a landmark for the city.
 
 Ahmet Hamdi Akseki Mosque
 
@@ -218,7 +218,7 @@ It is the largest Ottoman mosque in Ankara and was built by the famous architect
 
 Hacı Bayram Mosque
 
-Haci_Bayram_Mosque_01.jpg This mosque, in the Ulus quarter next to the Temple of Augustus, was built in the early 15th century in Seljuk style by an unknown architect. It was subsequently restored by architect Mimar Sinan in the 16th century, with Kütahya tiles being added in the 18th century. The mosque was built in honor of Hacı Bayram-ı Veli, whose tomb is next to the mosque, two years before his death (1427–28).[69] The usable space inside this mosque is on the first floor and on the second floor.
+This mosque, in the Ulus quarter next to the Temple of Augustus, was built in the early 15th century in Seljuk style by an unknown architect. It was subsequently restored by architect Mimar Sinan in the 16th century, with Kütahya tiles being added in the 18th century. The mosque was built in honor of Hacı Bayram-ı Veli, whose tomb is next to the mosque, two years before his death (1427–28).[69] The usable space inside this mosque is on the first floor and on the second floor.
 
 Ahi Elvan Mosque
 
@@ -226,7 +226,7 @@ It was founded in the Ulus quarter near the Ankara Citadel and was constructed b
 
 Alâeddin Mosque
 
-Ankara_08092012_3394.jpg The Alâeddin Mosque is the oldest mosque in Ankara. It has a carved walnut mimber, the inscription on which records that the mosque was completed in early AH 574 (which corresponds to the summer of 1178 AD) and was built by the Seljuk prince Muhiddin Mesud Şah (d. 1204), the Bey of Ankara, who was the son of the Anatolian Seljuk sultan Kılıç Arslan II (reigned 1156–1192.)
+The Alâeddin Mosque is the oldest mosque in Ankara. It has a carved walnut mimber, the inscription on which records that the mosque was completed in early AH 574 (which corresponds to the summer of 1178 AD) and was built by the Seljuk prince Muhiddin Mesud Şah (d. 1204), the Bey of Ankara, who was the son of the Anatolian Seljuk sultan Kılıç Arslan II (reigned 1156–1192.)
 
 Modern monuments
 
@@ -252,7 +252,7 @@ Inns
 
 Suluhan
 
-Suluhan,_Ankara,_Turkey.JPG (1511)]] Suluhan is a historical Inn in Ankara. It is also called the _Hasanpaşa Han_. It is about southeast of Ulus Square and situated in the Hacıdoğan neighbourhood. According to the _vakfiye_ (inscription) of the building, the Ottoman era _han_ was commissioned by Hasan Pasha, a regional beylerbey, and was constructed between 1508 and 1511, during the final years of the reign of Sultan Bayezid II.[74] There are 102 rooms (now shops) which face the two yards.[75] In each room there is a window, a niche and a chimney.[76]
+(1511)]] Suluhan is a historical Inn in Ankara. It is also called the _Hasanpaşa Han_. It is about southeast of Ulus Square and situated in the Hacıdoğan neighbourhood. According to the _vakfiye_ (inscription) of the building, the Ottoman era _han_ was commissioned by Hasan Pasha, a regional beylerbey, and was constructed between 1508 and 1511, during the final years of the reign of Sultan Bayezid II.[74] There are 102 rooms (now shops) which face the two yards.[75] In each room there is a window, a niche and a chimney.[76]
 
 Çengelhan Rahmi Koç Museum
 
@@ -274,7 +274,7 @@ Culture
 
 The arts
 
-TurkishStateTheatresHeadOfficeInAnkara.JPG. The building also houses the Küçük Tiyatro and Oda Tiyatrosu.]] AnkaraStateOpera2.JPG of the Turkish State Opera and Ballet (1933)]] Bilkent_concert_hall.jpg]]
+. The building also houses the Küçük Tiyatro and Oda Tiyatrosu.]] of the Turkish State Opera and Ballet (1933)]] ]]
 
 Turkish State Opera and Ballet, the national directorate of opera and ballet companies of Turkey, has its headquarters in Ankara, and serves the city with three venues:
 
@@ -325,7 +325,7 @@ There are about 50 museums in the city.
 
 Museum of Anatolian Civilizations
 
-FasillarAnkara2.jpg]] The Museum of Anatolian Civilizations (_Anadolu Medeniyetleri Müzesi_) is situated at the entrance of the Ankara Castle. It is an old 15th century bedesten (covered bazaar)[78] that has been restored and now houses a collection of Paleolithic, Neolithic, Hatti, Hittite, Phrygian, Urartian and Roman works as well as a major section dedicated to Lydian treasures.
+]] The Museum of Anatolian Civilizations (_Anadolu Medeniyetleri Müzesi_) is situated at the entrance of the Ankara Castle. It is an old 15th century bedesten (covered bazaar)[78] that has been restored and now houses a collection of Paleolithic, Neolithic, Hatti, Hittite, Phrygian, Urartian and Roman works as well as a major section dedicated to Lydian treasures.
 
 Anıtkabir
 
@@ -335,7 +335,7 @@ Ankara Ethnography Museum
 
 Ankara Ethnography Museum (_Etnoğrafya Müzesi_) is located opposite to the Ankara Opera House on Talat Paşa Boulevard, in the Ulus district. There is a fine collection of folkloric items, as well as artifacts from the Seljuk and Ottoman periods. In front of the museum building, there is a marble and bronze equestrian statue of Mustafa Kemal Atatürk (who wears a Republic era modern military uniform, with the rank Field Marshal) which was crafted in 1927[79] by the renowned Italian sculptor Pietro Canonica.
 
-Balerinler_metin_yurdanur.jpg were crafted by sculptor Metin Yurdanur]]
+were crafted by sculptor Metin Yurdanur]]
 
 State Art and Sculpture Museum
 
@@ -367,7 +367,7 @@ The METU Science and Technology Museum (_ODTÜ Bilim ve Teknoloji Müzesi_) is l
 
 Sports
 
-Ankara_Arena.JPG (2010)]] As with all other cities of Turkey, football is the most popular sport in Ankara. The city has two football clubs currently competing in the Turkish Super League: Ankaragücü, founded in 1910, is the oldest club in Ankara and is associated with Ankara's military arsenal manufacturing company MKE. They were the Turkish Cup winners in 1972 and 1981. Gençlerbirliği, founded in 1923, are known as the _Ankara Gale_ or the _Poppies_ because of their colors: red and black. They were the Turkish Cup winners in 1987 and 2001. Gençlerbirliği's B team, Hacettepe S.K. (formerly known as Gençlerbirliği OFTAŞ) played in the Turkish Super League but currently plays in the TFF Second League. A fourth team, Büyükşehir Belediye Ankaraspor, played in the Turkish Super League until 2010, when they were expelled. The club was reconstituted in 2014 as Osmanlıspor and currently play in the TFF First League at the Osmanlı Stadium in the Sincan district of Yenikent, outside the city center. Keçiörengücü were promoted to the TFF First League for the 2019-20 season.
+(2010)]] As with all other cities of Turkey, football is the most popular sport in Ankara. The city has two football clubs currently competing in the Turkish Super League: Ankaragücü, founded in 1910, is the oldest club in Ankara and is associated with Ankara's military arsenal manufacturing company MKE. They were the Turkish Cup winners in 1972 and 1981. Gençlerbirliği, founded in 1923, are known as the _Ankara Gale_ or the _Poppies_ because of their colors: red and black. They were the Turkish Cup winners in 1987 and 2001. Gençlerbirliği's B team, Hacettepe S.K. (formerly known as Gençlerbirliği OFTAŞ) played in the Turkish Super League but currently plays in the TFF Second League. A fourth team, Büyükşehir Belediye Ankaraspor, played in the Turkish Super League until 2010, when they were expelled. The club was reconstituted in 2014 as Osmanlıspor and currently play in the TFF First League at the Osmanlı Stadium in the Sincan district of Yenikent, outside the city center. Keçiörengücü were promoted to the TFF First League for the 2019-20 season.
 
 Ankara has a large number of minor teams, playing at regional levels. In the TFF Second League: BAKspor in Sincan, Ankara Demirspor in Çankaya, Etimesgut Belediyespor in Etimesgut; in the TFF Third League: Çankaya FK in Keçiören; Altındağ Belediyespor[82] in Altındağ; in the Amateur League: Turanspor in Etimesgut, Türk Telekomspor owned by the phone company in Yenimahalle, Çubukspor in Çubuk, and Bağlumspor in Keçiören.
 
@@ -424,7 +424,7 @@ Fauna
 
 Angora cat
 
-Odd-eyed_Turkish_Angora_cat_-_20080830.jpg]]
+]]
 
 Ankara is home to a world-famous domestic cat breed – the Turkish Angora, called _Ankara kedisi_ (Ankara cat) in Turkish. Turkish Angoras are one of the ancient, naturally occurring cat breeds, having originated in Ankara and its surrounding region in central Anatolia.
 
@@ -436,7 +436,7 @@ Ears are pointed and large, eyes are almond shaped and the head is massive with 
 
 Angora rabbit
 
-Joey_Giant_Angora_Buck.jpg]]
+]]
 
 The Angora rabbit () is a variety of domestic rabbit bred for its long, soft hair. The Angora is one of the oldest types of domestic rabbit, originating in Ankara and its surrounding region in central Anatolia, along with the Angora cat and Angora goat. The rabbits were popular pets with French royalty in the mid-18th century, and spread to other parts of Europe by the end of the century. They first appeared in the United States in the early 20th century. They are bred largely for their long Angora wool, which may be removed by shearing, combing, or plucking (gently pulling loose wool.)
 
@@ -444,7 +444,7 @@ Angoras are bred mainly for their wool because it is silky and soft. They have a
 
 Angora goat
 
-Quebec_angora_goat.jpg]]
+]]
 
 The Angora goat () is a breed of domestic goat that originated in Ankara and its surrounding region in central Anatolia.[86]
 
@@ -747,7 +747,7 @@ Ankara Category:Capitals in Asia Category:Populated places in Ankara Province
 
 [56]
 
-[57]  CC-BY_icon.svg Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
+[57]  Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
 
 [58]
 

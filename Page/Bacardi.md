@@ -5,7 +5,7 @@ Bacardi Limited is headquartered in Hamilton, Bermuda, and has a 16-member board
 
 History
 
-Bacardi_Building.jpg]]
+]]
 
 Early history
 
@@ -17,11 +17,11 @@ The 1880s and 90s were turbulent times for Cuba and the company. Emilio Bacardi,
 
 Emilio's brothers, Facundo and José, and their brother-in-law Henri (Don Enrique) Schueg, remained in Cuba with the difficult task of sustaining the company during a period of war. The women in the family were exiled in Kingston, Jamaica. After the Cuban War of Independence and the US occupation of Cuba, "The Original Cuba Libre" and the Daiquiri were both created, using Bacardi rum.[8] In 1899 US General Leonard Wood appointed Emilio Bacardi Mayor of Santiago de Cuba.
 
-Bacardi_Superior.jpg In 1912, Emilio Bacardi travelled to Egypt, where he purchased a mummy (still on display) for the future Emilio Bacardi Moreau Municipal Museum in Santiago de Cuba.[9] In Santiago, his brother Facundo M. Bacardí continued to manage the company along with Schueg, who began the company's international expansion by opening bottling plants in Barcelona (1910) and New York City (1915).[10] The New York plant was soon shut down due to Prohibition, yet during this time Cuba became a hotspot for US tourists.
+In 1912, Emilio Bacardi travelled to Egypt, where he purchased a mummy (still on display) for the future Emilio Bacardi Moreau Municipal Museum in Santiago de Cuba.[9] In Santiago, his brother Facundo M. Bacardí continued to manage the company along with Schueg, who began the company's international expansion by opening bottling plants in Barcelona (1910) and New York City (1915).[10] The New York plant was soon shut down due to Prohibition, yet during this time Cuba became a hotspot for US tourists.
 
 In 1922 Emilio opened a new distillery in Santiago. In 1930 Schueg opened the Art Deco Bacardi building in Havana and the third generation of the Bacardí family entered the business. Facundito Bacardí was known to have invited Americans (still subject to Prohibition) to "Come to Cuba and bathe in Bacardi rum."[11] A new product was introduced: Hatuey beer.
 
-PR_BacardiCathedralOfRum.jpg, Puerto Rico, near San Juan]] Bacardi's transition into an international brand was due mostly to Schueg, who branded "Cuba as the home of rum, and Bacardi as the king of rums" and expanded overseas, first to Mexico in 1931, and then to Puerto Rico in 1936, under the brand name Ron Bacardi. ("Ron" is the Spanish word for rum). Post-Prohibition production in Puerto Rico enabled rum to be sold tariff-free in the United States.[12] He then expanded to the United States in 1944.[13]
+, Puerto Rico, near San Juan]] Bacardi's transition into an international brand was due mostly to Schueg, who branded "Cuba as the home of rum, and Bacardi as the king of rums" and expanded overseas, first to Mexico in 1931, and then to Puerto Rico in 1936, under the brand name Ron Bacardi. ("Ron" is the Spanish word for rum). Post-Prohibition production in Puerto Rico enabled rum to be sold tariff-free in the United States.[12] He then expanded to the United States in 1944.[13]
 
 During World War II, the company was led by Schueg's son-in-law, José "Pepin" Bosch. Pepin founded Bacardi Imports in New York City, and became Cuba's Minister of the Treasury in 1949.
 
@@ -31,7 +31,7 @@ Portuondo and other Bacardí family members initially supported the Cuban revolu
 
 The Bacardí family (and hence the company) maintained a fierce opposition to Fidel Castro's revolution in Cuba in the 1960s. In his book _Bacardi, The Hidden War_, Hernando Calvo Ospina outlines the political element to the family's money. Ospina describes how the Bacardi family and the company left Cuba after the Castro regime confiscated the company's Cuban assets on 15 October 1960, particularly nationalizing and banning all private property on the island as well as all bank accounts. However, due to concerns over the previous Cuban leader, Fulgencio Batista, the company had started foreign branches a few years before the revolution; the company moved the ownership of its trademarks, assets and proprietary formulas out of the country to the Bahamas prior to the revolution and also built plants in Puerto Rico and Mexico after Prohibition to save import taxes on rum being imported to the United States. This helped the company survive after the communist government confiscated all Bacardí assets in the country without any compensation.[17]
 
-Bacardi ultimately re-established its global headquarters in Hamilton, Bermuda, in 1965. In February 2019, Bacardi's CEO, Mahesh Madhavan, stated that Bacardi's global headquarters would remain in Bermuda for the next "500 years" and that "Bermuda is our home now."[18] Bacardi_Headquarters.jpg
+Bacardi ultimately re-established its global headquarters in Hamilton, Bermuda, in 1965. In February 2019, Bacardi's CEO, Mahesh Madhavan, stated that Bacardi's global headquarters would remain in Bermuda for the next "500 years" and that "Bermuda is our home now."[18]
 
 Ospina also explains the close ties Bacardí family members had to the US political elite as well as to organizations of state such as the CIA. The family funded various Cuban exile organizations, such as CANF.
 
@@ -92,8 +92,6 @@ In his article "The Old Man and the Daiquiri", Wayne Curtis writes about how Hem
 
 
 United States headquarters
-
-Bacardi_building_Miami.jpg
 
 In 1964 Bacardi opened its new US headquarters in Miami, Florida. Exiled Cuban architect Enrique Gutierrez created a building that was hurricane-proof, using a system of steel cables and pulleys which allow the building to move slightly in the event of a strong shock. The steel cables are anchored into the bedrock and extend through marble-covered shafts up to the top floor, where they are led over large pulleys. Outside, on both sides of the eight-story building, more than 28,000 tiles painted and fired by Brazilian artist Francisco Brennand, depicting abstract blue flowers, were placed on the walls according to the artist's exact specifications.
 

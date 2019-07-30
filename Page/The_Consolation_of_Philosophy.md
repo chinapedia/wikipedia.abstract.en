@@ -20,13 +20,11 @@ Influence
 
 From the Carolingian epoch to the end of the Middle Ages and beyond it was one of the most popular and influential philosophical works, read by statesmen, poets, and historians, as well as of philosophers and theologians. It is through Boethius that much of the thought of the Classical period was made available to the Western Medieval world. It has often been said Boethius was the “last of the Romans and the first of the Scholastics”.[7]
 
-Consolation_of_philosophy_1385_boethius_images.jpg
-
 The philosophical message of the book fits well with the religious piety of the Middle Ages. Readers were encouraged not to seek worldly goods such as money and power, but to seek internalized virtues. Evil had a purpose, to provide a lesson to help change for good; while suffering from evil was seen as virtuous. Because God ruled the universe through Love, prayer to God and the application of Love would lead to true happiness.[8] The Middle Ages, with their vivid sense of an overruling fate, found in Boethius an interpretation of life closely akin to the spirit of Christianity. _The Consolation of Philosophy_ stands, by its note of fatalism and its affinities with the Christian doctrine of humility, midway between the pagan philosophy of Seneca the Younger and the later Christian philosophy of consolation represented by Thomas à Kempis.[9]
 
 The book is heavily influenced by Plato and his dialogues (as was Boethius himself).[10] Its popularity can in part be explained by its Neoplatonic and Christian ethical messages, although current scholarly research is still far from clear exactly why and how the work became so vastly popular in the Middle Ages.
 
-ForutuneWheel.jpg with the Wheel of Fortune in a medieval manuscript of a work by Boccaccio; _The Consolation of Philosophy_ was responsible for the popularity of the goddess of Fortune and the wheel of fortune in the Middle Ages]]
+with the Wheel of Fortune in a medieval manuscript of a work by Boccaccio; _The Consolation of Philosophy_ was responsible for the popularity of the goddess of Fortune and the wheel of fortune in the Middle Ages]]
 
 Translations into the vernacular were done by famous notables, including King Alfred (Old English), Jean de Meun (Old French), Geoffrey Chaucer (Middle English), Queen Elizabeth I (Early Modern English), and Notker Labeo (Old High German).[11][12][13][14]
 

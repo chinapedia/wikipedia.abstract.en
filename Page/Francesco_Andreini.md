@@ -1,5 +1,3 @@
-Francesco_Andreini,_engraved_portrait_from_Le_Bravure_del_Capitano_Spavento_1624_-_Google_Books_2013.jpg
-
 FRANCESCO ANDREINI (c. 1548 – 1624) was an Italian actor mainly of commedia dell'arte plays. He began his career playing the role of the unsophisticated love-stricken young man. Later he played the role of Capitan Spavento ("Captain Fright"), a Pickwickian character of excessive fatigue[1]
 
 

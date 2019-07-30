@@ -1,4 +1,4 @@
-Carnivore-lion.jpg carnivores consuming only animal flesh for their nutritional requirements]]
+carnivores consuming only animal flesh for their nutritional requirements]]
 
 A CARNIVORE , meaning "meat eater" (Latin, _caro_, genitive _carnis_, meaning "meat" or "flesh" and _vorare_ meaning "to devour"), is an organism that derives its energy and nutrient requirements from a diet consisting mainly or exclusively of animal tissue, whether through predation or scavenging.[1][2] Animals that depend solely on animal flesh for their nutrient requirements are called obligate carnivores while those that also consume non-animal food are called facultative carnivores.[3] Omnivores also consume both animal and non-animal food, and, apart from the more general definition, there is no clearly defined ratio of plant to animal material that would distinguish a facultative carnivore from an omnivore.[4] A carnivore at the top of the food chain, not preyed upon by other animals, is termed an apex predator.
 
@@ -6,7 +6,7 @@ A CARNIVORE , meaning "meat eater" (Latin, _caro_, genitive _carnis_, meaning "m
 
 Outside the animal kingdom, there are several genera containing carnivorous plants (predominantly insectivores) and several phyla containing carnivorous fungi (preying mostly on microscopic invertebrates such as nematodes, amoebae and springtails).
 
-Venus_Flytrap_showing_trigger_hairs.jpg, a carnivorous plant]]
+, a carnivorous plant]]
 
 Carnivores are sometimes characterized by their type of prey. For example, animals that eat mainly insects and similar invertebrates are called insectivores, while those that eat mainly fish are called piscivores. The first tetrapods, or land-dwelling vertebrates, were piscivorous amphibians known as labyrinthodonts. They gave rise to insectivorous vertebrates and, later, to predators of other tetrapods.[5]
 
@@ -15,7 +15,7 @@ Carnivores may alternatively be classified according to the percentage of meat i
 
 Obligate carnivores
 
-Tigre_d'Asie_à_robe_blanche.jpg's large canines and strong jaws reveal its place as an apex predator]] Male_Lion_and_Cub_Chitwa_South_Africa_Luca_Galuzzi_2004.JPGs are voracious carnivores; they require more than 7 kilograms of meat daily. A major component of their diet is the meat of large mammals, such as this buffalo.]]
+'s large canines and strong jaws reveal its place as an apex predator]] s are voracious carnivores; they require more than 7 kilograms of meat daily. A major component of their diet is the meat of large mammals, such as this buffalo.]]
 
 Obligate or "true" carnivores are those whose diet requires nutrients found only in animal flesh. While obligate carnivores might be able to ingest small amounts of plant matter, they lack the necessary physiology required to digest it. In fact, some obligate carnivorous mammals will only ingest vegetation for the sole purpose of its use as an emetic, to self-induce vomiting of the vegetation along with the other food it had ingested that upset its stomach.
 

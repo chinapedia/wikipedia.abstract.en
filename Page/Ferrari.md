@@ -9,11 +9,11 @@ Throughout its history, the company has been noted for its continued participati
 
 History
 
-Ferrari-enzo-cavallo-rampante.jpeg in a rare interview, with the Ferrari's symbol _Cavallino Rampante_ ("prancing horse") behind him.]] Enzo Ferrari was not initially interested in the idea of producing road cars when he formed Scuderia Ferrari in 1929, with headquarters in Modena. Scuderia Ferrari (pronounced ) literally means "Ferrari Stable" and is usually used to mean "Team Ferrari." Ferrari bought, prepared, and fielded Alfa Romeo racing cars for gentleman drivers, functioning as the racing division of Alfa Romeo. In 1933, Alfa Romeo withdrew its in-house racing team and Scuderia Ferrari took over as its works team:[13] the _Scuderia_ received Alfa's Grand Prix cars of the latest specifications and fielded many famous drivers such as Tazio Nuvolari and Achille Varzi. In 1938, Alfa Romeo brought its racing operation again in-house, forming _Alfa Corse_ in Milan and hired Enzo Ferrari as manager of the new racing department; therefore the Scuderia Ferrari was disbanded.[14]
+in a rare interview, with the Ferrari's symbol _Cavallino Rampante_ ("prancing horse") behind him.]] Enzo Ferrari was not initially interested in the idea of producing road cars when he formed Scuderia Ferrari in 1929, with headquarters in Modena. Scuderia Ferrari (pronounced ) literally means "Ferrari Stable" and is usually used to mean "Team Ferrari." Ferrari bought, prepared, and fielded Alfa Romeo racing cars for gentleman drivers, functioning as the racing division of Alfa Romeo. In 1933, Alfa Romeo withdrew its in-house racing team and Scuderia Ferrari took over as its works team:[13] the _Scuderia_ received Alfa's Grand Prix cars of the latest specifications and fielded many famous drivers such as Tazio Nuvolari and Achille Varzi. In 1938, Alfa Romeo brought its racing operation again in-house, forming _Alfa Corse_ in Milan and hired Enzo Ferrari as manager of the new racing department; therefore the Scuderia Ferrari was disbanded.[14]
 
 In September 1939, Ferrari left Alfa Romeo under the provision he would not use the Ferrari name in association with races or racing cars for at least four years.[15] A few days later he founded _Auto Avio Costruzioni_, headquartered in the facilities of the old _Scuderia Ferrari_.[16] The new company ostensibly produced machine tools and aircraft accessories. In 1940, Ferrari produced a race car – the Tipo 815, based on a Fiat platform. It was the first Ferrari car and debuted at the 1940 Mille Miglia, but due to World War II it saw little competition. In 1943, the Ferrari factory moved to Maranello, where it has remained ever since. The factory was bombed by the Allies and subsequently rebuilt including works for road car production.
 
-Ferrari_125_S_fl.jpg replica]] Ferrari_166MM_Barchetta.JPG replica]]
+replica]] replica]]
 
 The first Ferrari-badged car was the 1947 125 S, powered by a 1.5 L V12 engine;[17] Enzo Ferrari reluctantly built and sold his automobiles to fund Scuderia Ferrari.[18]
 
@@ -34,7 +34,7 @@ On 29 October 2014, the FCA group, resulting from the merger between manufacture
 
 Motorsport
 
-LaudaNiki19760731Ferrari312T2.jpg]]
+]]
 
 Since the company's beginnings, Ferrari has been involved in motorsport, competing in a range of categories including Formula One and sports car racing through its Scuderia Ferrari sporting division as well as supplying cars and engines to other teams and for one make race series.
 
@@ -44,15 +44,13 @@ Scuderia Ferrari
 
 _Scuderia_ Ferrari has participated in several classes of motorsport, though it is currently only officially involved in Formula One. It is the only team to have competed in the Formula One World Championship continuously since its inception in 1950. José Froilán González gave the team its first F1 victory at the 1951 British Grand Prix.
 
-Sebastian_Vettel-Ferrari_2015.JPG
-
 Alberto Ascari gave Ferrari its first Drivers Championship a year later. Ferrari is the oldest team in the championship, and the most successful: the team holds nearly every Formula One record. , the team's records include 15 World Drivers Championship titles, 16 World Constructors Championship titles, 221 Grand Prix victories, 6736.27 points, 679 podium finishes, 207 pole positions, and 230 fastest laps in 890 Grands Prix contested. Of the 19 tracks used in 2014, 8 have lap records set by the F2004, with a further 3 set by the F2003-GA, F2008 and F10.
 
 Ferrari drivers include: Tazio Nuvolari, José Froilán González, Juan Manuel Fangio, Alberto Ascari, Luigi Chinetti, Maurice Trintignant, Wolfgang von Trips, Phil Hill, Olivier Gendebien, Mike Hawthorn, Peter Collins, Giancarlo Baghetti, Ricardo Rodríguez, Chris Amon, John Surtees, Lorenzo Bandini, Ludovico Scarfiotti, Jacky Ickx, Mario Andretti, Clay Regazzoni, Niki Lauda, Carlos Reutemann, Jody Scheckter, Gilles Villeneuve, Didier Pironi, Patrick Tambay, René Arnoux, Michele Alboreto, Gerhard Berger, Nigel Mansell, Alain Prost, Jean Alesi, Michael Schumacher, Eddie Irvine, Rubens Barrichello, Felipe Massa, Kimi Räikkönen, Fernando Alonso, Sebastian Vettel, and Charles Leclerc.
 
 At the end of the 2006 season, the team courted controversy by continuing to allow Marlboro to sponsor them after they, along with the other F1 teams, made a promise to end sponsorship deals with tobacco manufacturers. A five-year deal was agreed and although this was not due to end until 2011, in April 2008 Marlboro dropped their on-car branding on Ferrari.
 
-1973-05-27_Jacky_Ickx,_Ferrari_312P.jpg (driven by Jacky Ickx) during the team's final year in the World Sportscar Championship]]
+(driven by Jacky Ickx) during the team's final year in the World Sportscar Championship]]
 
 In addition to Formula One, Ferrari also entered cars in sportscar racing, the two programs existing in parallel for many years.
 
@@ -77,7 +75,7 @@ Ferrari currently runs a customer GT program for a racing version of its 458 and
 
 Road cars
 
-1947_Ferrari_166_Inter_Touring_Berlinetta_0043S_-_fvl.jpg Touring Berlinetta]]
+Touring Berlinetta]]
 
 The first vehicle made with the Ferrari name was the 125 S. This was primarily a sports/racing model. In 1949, the 166 Inter was introduced marking the company's significant move into the grand touring road car market. Road cars continue to make up the bulk of Ferrari sales to the present day.
 
@@ -93,17 +91,17 @@ Ferrari entered the mid-engined 12-cylinder fray with the Berlinetta Boxer in 19
 
 Current models
 
-+--------------------------------------------------------+-------------------------------------------+--------------------------------+---------------------------+-------------------------------+
-| GTC4Lusso / GTC4Lusso T                                | F8 Tributo                                | Portofino                      | 812 Superfast             | SF90 Stradale                 |
-+========================================================+===========================================+================================+===========================+===============================+
-| -   4-seat grand tourer                                | -   Sports car                            | -   2+2 grand tourer           | -   Sports car            | -   Sports car                |
-| -   V12 engine, Twin-turbo V8 engine                   | -   Twin-turbo V8 engine                  | -   Twin-turbo V8 engine       | -   V12 engine            | -   PHEV Twin-turbo V8 engine |
-| -   Shooting brake coupé                               | -   Sports coupé                          | -   Hard-top convertible       | -   Sports coupé          | -   Sports coupé              |
-+--------------------------------------------------------+-------------------------------------------+--------------------------------+---------------------------+-------------------------------+
-| Ferrari_GTC4Lusso,_Paris_Motor_Show_2018,_IMG_0651.jpg | Ferrari_F8_Tributo_Genf_2019_1Y7A5665.jpg | Ferrari_Portofino_IMG_0532.jpg | Ferrari_820_Superfast.jpg | Image_manquante_2.svg         |
-+--------------------------------------------------------+-------------------------------------------+--------------------------------+---------------------------+-------------------------------+
-|                                                        |                                           |                                |                           |                               |
-+--------------------------------------------------------+-------------------------------------------+--------------------------------+---------------------------+-------------------------------+
++--------------------------------------+--------------------------+--------------------------+------------------+-------------------------------+
+| GTC4Lusso / GTC4Lusso T              | F8 Tributo               | Portofino                | 812 Superfast    | SF90 Stradale                 |
++======================================+==========================+==========================+==================+===============================+
+| -   4-seat grand tourer              | -   Sports car           | -   2+2 grand tourer     | -   Sports car   | -   Sports car                |
+| -   V12 engine, Twin-turbo V8 engine | -   Twin-turbo V8 engine | -   Twin-turbo V8 engine | -   V12 engine   | -   PHEV Twin-turbo V8 engine |
+| -   Shooting brake coupé             | -   Sports coupé         | -   Hard-top convertible | -   Sports coupé | -   Sports coupé              |
++--------------------------------------+--------------------------+--------------------------+------------------+-------------------------------+
+|                                      |                          |                          |                  |                               |
++--------------------------------------+--------------------------+--------------------------+------------------+-------------------------------+
+|                                      |                          |                          |                  |                               |
++--------------------------------------+--------------------------+--------------------------+------------------+-------------------------------+
 
 Customization
 
@@ -111,11 +109,11 @@ In the 1950s and 1960s, clients often personalized their vehicles as they came s
 
 Ferrari formalized this concept with its earlier Carrozzeria Scaglietti programme. The options offered here were more typical such as racing seats, rearview cameras, and other special trim. In late 2011, Ferrari announced a significant update of this philosophy. The TAILOR MADE PROGRAMME allows clients to work with designers in Maranello to make decisions at every step of the process. Through this program almost any trim, any exterior color or any interior material are possible. The program carries on the original tradition and emphasizes the idea of each car being unique.[29]
 
-Ferrari_Enzo_-_Flickr_-_Alexandre_Prévot_(1)_(cropped).jpg]]
+]]
 
 Supercars
 
-Ferrari_Mythos_Side.jpg ]] The 1984 288 GTO may be considered the first in the line of Ferrari supercars. This pedigree extends through the Enzo Ferrari to the LaFerrari. In March 2018, at the 88th Geneva International Motor Show, Ferrari revealed its latest supercar, the 488 Pista.[30]
+]] The 1984 288 GTO may be considered the first in the line of Ferrari supercars. This pedigree extends through the Enzo Ferrari to the LaFerrari. In March 2018, at the 88th Geneva International Motor Show, Ferrari revealed its latest supercar, the 488 Pista.[30]
 
 Ferrari SF90 Stradale is the first ever Ferrari to feature PHEV (Plug-in Hybrid Electric Vehicle) architecture which sees the internal combustion engine integrated with three electric motors, two of which are independent and located on the front axle, with the third at the rear between the engine and the gearbox.[31]
 
@@ -133,22 +131,22 @@ The Special Projects programme was launched in the late 2000s as Ferrari's ultim
 
 The first car to be completed under this programme was the 2008 SP1, commissioned by a Japanese business executive, the second was the P540 Superfast Aperta, commissioned by an American collector.[35] The following is a list of Special Projects cars that have been made public:
 
-  Name                      Picture                                                                        Year       Based on            Commissioned by           Notes
-  ------------------------- ------------------------------------------------------------------------------ ---------- ------------------- ------------------------- ----------------------------------------------------------------------------------------------------------------------------------
-  SP1                       No_image_3x4.svg                                                               2008       F430[36]            Junichiro Hiramatsu[37]   Design by Leonardo Fioravanti.[38]
-  P540 Superfast Apert      Ferrari_P540_Superfast_Aperta.jpg                                              2009       599 GTB[39]         Edward Walson[40]         Inspired by a similarly gold-painted and open-topped one-off built by Carrozzeria Fantuzzi on a Ferrari 330 LMB chassis.[41][42]
-  Superamerica 45           Ferrari_Superamerica_45_in_Villa_Erba.jpg                                      2011       599 GTB[43]         Peter Kalikow[44]         Rotating targa top;[45] design by Pininfarina
-  SP12 EC                   FerrariSP12EC.jpg                                                              2012       458 Italia[46]      Eric Clapton[47]          Designed by Ferrari Styling Centre and Pininfarina, in hommage to the 512 BB.[48]
-  SP30                      No_image_3x4.svg                                                               2013[49]   599 GTO[50]         Cheerag Arya[51]
-  SP FFX                    No_image_3x4.svg                                                               —          FF[52]              Shin Okamoto[53]          Design by Pininfarina[54]
-  Ferrari F12 TRS           Festival_automobile_international_2015_-_Ferrari_F12_TRS_-_007_(cropped).jpg   2014       F12berlinetta[55]   —                         Barchetta body, inspired by the Ferrari 250 Testa Rossa. Design by Ferrari Styling Centre.[56]
-  Ferrari SP America        No_image_3x4.svg                                                               2014       F12berlinetta       Danny Wegman[57]
-  Ferrari SP3JC             No_image_3x4.svg                                                               2014       F12tdf              John Collins[58]          Designed by the Ferrari Styling Centre. Took 3.5 years to complete. Presented in 2018.
-  Ferrari 458 MM Speciale   FoS20162016_0624_132509AA_(27809762691).jpg                                    2016       458 Speciale[59]    —                         Design by Ferrari Styling Centre.[60]
-  SP275 RW Competizione     Ferrari_SP275_RW_Competizione.jpg                                              2016       F12tdf              Rick Workman[61]          Inspired by the 1964 275 GTB/C Speciale. Design by Pininfarina in collaboration with Ferrari Styling Centre.[62]
-  Ferrari J50               No_image_3x4.svg                                                               2017       488 Spider          —
-  SP38                      No_image_3x4.svg                                                               2018       488 GTB             —                         Inspired by the F40 and 308.[63]
-  P80/C                     No_image_3x4.svg                                                               2019       488 GT3             —                         One-off track-only car inspired by the 330 P3, 330 P4 and the Dino 206 S.
+  Name                      Picture   Year       Based on            Commissioned by           Notes
+  ------------------------- --------- ---------- ------------------- ------------------------- ----------------------------------------------------------------------------------------------------------------------------------
+  SP1                                 2008       F430[36]            Junichiro Hiramatsu[37]   Design by Leonardo Fioravanti.[38]
+  P540 Superfast Apert                2009       599 GTB[39]         Edward Walson[40]         Inspired by a similarly gold-painted and open-topped one-off built by Carrozzeria Fantuzzi on a Ferrari 330 LMB chassis.[41][42]
+  Superamerica 45                     2011       599 GTB[43]         Peter Kalikow[44]         Rotating targa top;[45] design by Pininfarina
+  SP12 EC                             2012       458 Italia[46]      Eric Clapton[47]          Designed by Ferrari Styling Centre and Pininfarina, in hommage to the 512 BB.[48]
+  SP30                                2013[49]   599 GTO[50]         Cheerag Arya[51]
+  SP FFX                              —          FF[52]              Shin Okamoto[53]          Design by Pininfarina[54]
+  Ferrari F12 TRS                     2014       F12berlinetta[55]   —                         Barchetta body, inspired by the Ferrari 250 Testa Rossa. Design by Ferrari Styling Centre.[56]
+  Ferrari SP America                  2014       F12berlinetta       Danny Wegman[57]
+  Ferrari SP3JC                       2014       F12tdf              John Collins[58]          Designed by the Ferrari Styling Centre. Took 3.5 years to complete. Presented in 2018.
+  Ferrari 458 MM Speciale             2016       458 Speciale[59]    —                         Design by Ferrari Styling Centre.[60]
+  SP275 RW Competizione               2016       F12tdf              Rick Workman[61]          Inspired by the 1964 275 GTB/C Speciale. Design by Pininfarina in collaboration with Ferrari Styling Centre.[62]
+  Ferrari J50                         2017       488 Spider          —
+  SP38                                2018       488 GTB             —                         Inspired by the F40 and 308.[63]
+  P80/C                               2019       488 GT3             —                         One-off track-only car inspired by the 330 P3, 330 P4 and the Dino 206 S.
 
 Bio-fuel and hybrid cars
 
@@ -164,7 +162,7 @@ Until the early 1990s, Ferrari followed a three-number naming scheme based on en
 -   Flagship models (aka "halo cars") use the letter F followed by the anniversary in years, such as the F40 and F50. The Enzo skipped this rule, although the F60 name was applied to a Ferrari Formula One car and is sometimes attached to the Enzo.
 -   Some models, such as the 1980 Mondial and the 1984 Testarossa did not follow a three-number naming scheme.
 
-Ferrari612SessentaEdition.jpg Sessanta Edition]]
+Sessanta Edition]]
 
 Most Ferraris were also given designations referring to their body style. In general, the following conventions were used:
 
@@ -182,8 +180,6 @@ In the mid-1990s, Ferrari added the letter "F" to the beginning of all models (a
 
 Identity
 
-Usine_Ferrari_Maranello_0002.JPG FBaracca_1.jpg Coa_fam_ITA_baracca.jpg
-
 The famous symbol of the Ferrari race team is the _Cavallino Rampante_ ("prancing horse") black prancing stallion on a yellow shield, usually with the letters _S F_ (for _Scuderia Ferrari_), with three stripes of green, white and red (the Italian national colors) at the top. The road cars have a rectangular badge on the hood (see picture at top of page), and, optionally, the shield-shaped race logo on the sides of both front wings, close to the door.
 
 On 17 June 1923, Enzo Ferrari won a race at the Savio track in Ravenna where he met the Countess Paolina, mother of Count Francesco Baracca, an ace of the Italian air force and national hero of World War I, who used to paint a horse on the side of his planes. The Countess asked Enzo to use this horse on his cars, suggesting that it would bring him good luck. The original "prancing horse" on Baracca's airplane was painted in red on a white cloud-like shape, but Ferrari chose to have the horse in black (as it had been painted as a sign of grief on Baracca's squadron planes after the pilot was killed in action) and he added a canary yellow background as this is the color of the city of Modena, his birthplace. The Ferrari horse was, from the very beginning, markedly different from the Baracca horse in most details, the most noticeable being the tail that in the original Baracca version was pointing downward.
@@ -193,8 +189,6 @@ Ferrari has used the _cavallino rampante_ on official company stationery since 1
 The motif of a prancing horse is old, it can be found on ancient coins. A similar black horse on a yellow shield is the Coat of Arms of the German city of Stuttgart, home of Mercedes-Benz and the design bureau of Porsche, both being main competitors of Alfa and Ferrari in the 1930s. The city's name derives from _Stutengarten_, an ancient form of the German word _Gestüt_, which translates into English as _stud farm_ and into Italian as _scuderia_. Porsche also includes the Stuttgart sign in its corporate logo, centred in the emblem of the state of Württemberg. Stuttgart's _Rössle_ has both rear legs firmly planted on the soil, like Baracca's horse, but unlike Ferrari's _cavallino_.
 
 Fabio Taglioni used the _cavallino rampante_ on his Ducati motorbikes, as Taglioni was born at Lugo di Romagna like Baracca, and his father too was a military pilot during WWI (although not part of Baracca's squadron, as is sometimes mistakenly reported). As Ferrari's fame grew, Ducati abandoned the horse- perhaps the result of a private agreement between the two companies.
-
-Logo_avanti.png
 
 The _cavallino rampante_ is the visual symbol of Ferrari. Cavallino Magazine uses the name, but not the logo. Other companies use similar logos: Avanti, an Austrian company operating over 100 filling stations, uses a prancing horse logo which is nearly identical to Ferrari's, as does Iron Horse Bicycles and Norfolk Southern Railway.
 

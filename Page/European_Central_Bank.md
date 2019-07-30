@@ -1,4 +1,4 @@
-Frankfurt am Main, the European Central Bank from Alte Mainbrücke upright=1.2]]
+upright=1.2]]
 
 The EUROPEAN CENTRAL BANK (ECB) is the central bank for the euro and administers monetary policy within the Eurozone, which comprises 19 member states of the European Union and is one of the largest monetary areas in the world. Established by the Treaty of Amsterdam, the ECB is one of the world's most important central banks and serves as one of seven institutions of the European Union, being enshrined in the Treaty on European Union (TEU). The bank's capital stock is owned by all 28 central banks of each EU member state.[1] The current President of the ECB is Mario Draghi. Headquartered in Frankfurt, Germany, the bank formerly occupied the Eurotower prior to the construction of its new seat.
 
@@ -9,7 +9,7 @@ The ECB is governed by European law directly, but its set-up resembles that of a
 
 History
 
-Wim_Duisenberg.jpg, first President of the ECB]] The European Central Bank is the _de facto_ successor of the European Monetary Institute (EMI).[7] The EMI was established at the start of the second stage of the EU's Economic and Monetary Union (EMU) to handle the transitional issues of states adopting the euro and prepare for the creation of the ECB and European System of Central Banks (ESCB).[8] The EMI itself took over from the earlier European Monetary Co-operation Fund (EMCF).[9]
+, first President of the ECB]] The European Central Bank is the _de facto_ successor of the European Monetary Institute (EMI).[7] The EMI was established at the start of the second stage of the EU's Economic and Monetary Union (EMU) to handle the transitional issues of states adopting the euro and prepare for the creation of the ECB and European System of Central Banks (ESCB).[8] The EMI itself took over from the earlier European Monetary Co-operation Fund (EMCF).[9]
 
 The ECB formally replaced the EMI on 1 June 1998 by virtue of the Treaty on European Union (TEU, Treaty of Maastricht), however it did not exercise its full powers until the introduction of the euro on 1 January 1999, signalling the third stage of EMU.[10] The bank was the final institution needed for EMU, as outlined by the EMU reports of Pierre Werner and President Jacques Delors. It was established on 1 June 1998.[11]
 
@@ -17,7 +17,7 @@ The first President of the Bank was Wim Duisenberg, the former president of the 
 
 Trichet replaced Duisenberg as President in November 2003.
 
-Mario_Draghi_World_Economic_Forum_2013_crop.jpg, the current President of the ECB]] There had also been tension over the ECB's Executive Board, with the United Kingdom demanding a seat even though it had not joined the Single Currency.[17] Under pressure from France, three seats were assigned to the largest members, France, Germany, and Italy; Spain also demanded and obtained a seat. Despite such a system of appointment the board asserted its independence early on in resisting calls for interest rates and future candidates to it.[18]
+, the current President of the ECB]] There had also been tension over the ECB's Executive Board, with the United Kingdom demanding a seat even though it had not joined the Single Currency.[17] Under pressure from France, three seats were assigned to the largest members, France, Germany, and Italy; Spain also demanded and obtained a seat. Despite such a system of appointment the board asserted its independence early on in resisting calls for interest rates and future candidates to it.[18]
 
 When the ECB was created, it covered a Eurozone of eleven members. Since then, Greece joined in January 2001, Slovenia in January 2007, Cyprus and Malta in January 2008, Slovakia in January 2009, Estonia in January 2011, Latvia in January 2014 and Lithuania in January 2015, enlarging the bank's scope and the membership of its Governing Council.[19]
 
@@ -36,7 +36,7 @@ Mandate and tasks
 
 Mandate and inflation target
 
-Zahlungsmittel.JPG]] The primary objective of the European Central Bank, set out in Article 127(1) of the Treaty on the Functioning of the European Union, is to maintain price stability within the Eurozone.[26] The Governing Council in October 1998[27] defined price stability as inflation of under 2%, “a year-on-year increase in the Harmonised Index of Consumer Prices (HICP) for the euro area of below 2%” and added that price stability ”was to be maintained over the medium term”. (Harmonised Index of Consumer Prices)[28] Unlike for example the United States Federal Reserve System, the ECB has only one primary objective but this objective has never been defined in statutory law, and the HICP target can be termed ad-hoc.
+]] The primary objective of the European Central Bank, set out in Article 127(1) of the Treaty on the Functioning of the European Union, is to maintain price stability within the Eurozone.[26] The Governing Council in October 1998[27] defined price stability as inflation of under 2%, “a year-on-year increase in the Harmonised Index of Consumer Prices (HICP) for the euro area of below 2%” and added that price stability ”was to be maintained over the medium term”. (Harmonised Index of Consumer Prices)[28] Unlike for example the United States Federal Reserve System, the ECB has only one primary objective but this objective has never been defined in statutory law, and the HICP target can be termed ad-hoc.
 
 The Governing Council confirmed this definition in May 2003 following a thorough evaluation of the ECB's monetary policy strategy. On that occasion, the Governing Council clarified that “in the pursuit of price stability, it aims to maintain inflation rates below, but close to, 2% over the medium term”.[29] All lending to credit institutions must be collateralised as required by Article 18 of the Statute of the ESCB.[30] The Governing Council clarification has little force in law.
 
@@ -70,7 +70,7 @@ Decision-making bodies of the ECB
 
 The Executive Board
 
-Jean-Claude_Trichet_-_World_Economic_Forum_Annual_Meeting_Davos_2010.jpg, the second President of the European Central Bank]] The Executive Board is responsible for the implementation of monetary policy (defined by the Governing Council) and the day-to-day running of the bank.[34] It can issue decisions to national central banks and may also exercise powers delegated to it by the Governing Council.[35] Executive Board members are assigned a portfolio of responsibilities by the President of the ECB.[36] The Executive Board normally meets every Tuesday.
+, the second President of the European Central Bank]] The Executive Board is responsible for the implementation of monetary policy (defined by the Governing Council) and the day-to-day running of the bank.[34] It can issue decisions to national central banks and may also exercise powers delegated to it by the Governing Council.[35] Executive Board members are assigned a portfolio of responsibilities by the President of the ECB.[36] The Executive Board normally meets every Tuesday.
 
 It is composed of the President of the Bank (currently Mario Draghi), the Vice-President (currently Luis de Guindos) and four other members.[37] They are all appointed for non-renewable terms of eight years.[38] Member of the Executive Board of the ECB are appointed "from among persons of recognised standing and professional experience in monetary or banking matters by common accord of the governments of the Member States at the level of Heads of State or Government, on a recommendation from the Council, after it has consulted the European Parliament and the Governing Council of the ECB".[39]
 
@@ -282,7 +282,7 @@ Faced with those regulatory constraints, the ECB led by Jean-Claude Trichet in 2
 
 Securities Market Programme
 
-ECB_SMP_Bond_Purchases.png On 10 May 2010, the ECB announced[108] the launch of a "Securities Market Programme" (SMP) which involved the discretionary purchase of sovereign bonds in secondary markets. Extraordinarily, the decision was taken by the Governing Council during a teleconference call only three days after the ECB's usual meeting of May 6 (when Trichet still denied the possibility of purchasing sovereign bonds). The ECB justified this decision by the necessity to "address severe tensions in financial markets." The decision also coincided with the EU leaders decision of May 10 to establish the European Financial Stabilisation mechanism, which would serve as a crisis fighting fund to safeguard the euro area from future sovereign debt crisis.[109]
+On 10 May 2010, the ECB announced[108] the launch of a "Securities Market Programme" (SMP) which involved the discretionary purchase of sovereign bonds in secondary markets. Extraordinarily, the decision was taken by the Governing Council during a teleconference call only three days after the ECB's usual meeting of May 6 (when Trichet still denied the possibility of purchasing sovereign bonds). The ECB justified this decision by the necessity to "address severe tensions in financial markets." The decision also coincided with the EU leaders decision of May 10 to establish the European Financial Stabilisation mechanism, which would serve as a crisis fighting fund to safeguard the euro area from future sovereign debt crisis.[109]
 
 The's ECB bond buying focused primarily on Spanish and Italian debt.[110] They were intended to dampen international speculation against those countries, and thus avoid a contagion of the Greek crisis towards other Eurozone countries. The assumption is that speculative activity will decrease over time and the value of the assets increase.
 
@@ -301,8 +301,6 @@ It became clear later that the ECB played a key role in making sure the Irish Go
 In short, fearing a new financial panic, the ECB took extraordinary measures to avoid at all cost debt restructuring in Ireland, which resulted in higher public debt in Ireland.[119]
 
 Long-term refinancing operation
-
-ECB_balance_sheet.png ECB_deposit_facility.svg Current_accounts_at_the_ECB.png
 
 Soon after Mario Draghi took over the presidency of the ECB, the bank announced on 8 December 2011 a new round of 1% interest loans with a term of three years (36 months) – the LONG-TERM REFINANCING OPERATIONS (LTRO).
 
@@ -326,8 +324,6 @@ On 22 January 2015, the ECB announced an extension of those programmes within a 
 
 
 Location
-
-Frankfurt_EZB.Nordwest-2.20141228.jpg
 
 The bank is based in Ostend (East End), Frankfurt am Main. The city is the largest financial centre in the Eurozone and the bank's location in it is fixed by the Amsterdam Treaty.[136] The bank moved to new purpose-built headquarters in 2014 that were designed by a Vienna-based architectural office, Coop Himmelbau.[137] The building is approximately tall and will be accompanied with other secondary buildings on a landscaped site on the site of the former wholesale market in the eastern part of Frankfurt am Main. The main construction began in October 2008,[138][139] and it was expected that the building will become an architectural symbol for Europe. While it was designed to accommodate double the number of staff who operate in the former Eurotower,[140] that building has been retained since the ECB took responsibility for banking supervision and more space was hence required.[141]
 

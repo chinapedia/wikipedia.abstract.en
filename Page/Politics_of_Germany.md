@@ -19,7 +19,7 @@ The political system of the Federal Republic remained more or less unchanged. Sp
 
 1998–2005
 
-Schroeder2002.jpg in the 2002 elections]] Joschka_Fischer_2005.jpg in the 2005 elections]]
+in the 2002 elections]] in the 2005 elections]]
 
 After 16 years of the Christian–Liberal coalition, led by Helmut Kohl, the Social Democratic Party of Germany (SPD) together with the Greens won the Bundestag elections of 1998. SPD vice chairman Gerhard Schröder positioned himself as a centrist candidate, in contradiction to the leftist SPD chairman Oskar Lafontaine. The Kohl government was hurt at the polls by slower economic growth in the East in the previous two years, and constantly high unemployment. The final margin of victory was sufficiently high to permit a "red-green" coalition of the SPD with Alliance 90/The Greens (_Bündnis '90/Die Grünen_), bringing the Greens into a national government for the first time.
 
@@ -31,7 +31,7 @@ In its second term, the red–green coalition lost several very important state 
 
 2005–2009
 
-Angela_Merkel_(2008).jpg of the Christian Democrats]]
+of the Christian Democrats]]
 
 On 22 May 2005 the SPD received a devastating defeat in its former heartland, North Rhine-Westphalia. Half an hour after the election results, the SPD chairman Franz Müntefering announced that the chancellor would clear the way for new federal elections.
 
@@ -41,7 +41,7 @@ New for the 2005 election was the alliance between the newly formed Electoral Al
 
 Whereas in May and June 2005 victory of the Christian Democrats seemed highly likely, with some polls giving them an absolute majority, this picture changed shortly before the election on 18 September 2005.
 
-Frank-Walter_Steinmeier_04.jpg was the Social Democrat candidate for chancellor in 2009 and President of Germany since 2017]]
+was the Social Democrat candidate for chancellor in 2009 and President of Germany since 2017]]
 
 The election results of 18 September were surprising because they differed widely from the polls of the previous weeks. The Christian Democrats even lost votes compared to 2002, narrowly reaching the first place with only 35.2%, and failed to get a majority for a "black–yellow" government of CDU/CSU and liberal FDP. But the red–green coalition also failed to get a majority, with the SPD losing votes, but polling 34.2% and the greens staying at 8.1%. The Left reached 8.7% and entered the _Bundestag_, whereas the far-right NPD only got 1.6%.[3]
 
@@ -53,7 +53,7 @@ As a result of that federal election, the grand coalition brought losses for bot
 
 2009–2013
 
-Sitze_Bundestagswahl_2009.svg Sigmar_Gabriel-2009_ArM.jpg: SPD chairman from 2009–2017, 2013–2017 Deputy to the Chancellor]]
+: SPD chairman from 2009–2017, 2013–2017 Deputy to the Chancellor]]
 
 The CDU/CSU and FDP together held 332 seats (of 622 total seats) and had been in coalition since 27 October 2009. Angela Merkel was re-elected as chancellor, and Guido Westerwelle served as the foreign minister and vice chancellor of Germany. After being elected into the federal government, the FDP suffered heavy losses in the following state elections. The FDP had promised to lower taxes in the electoral campaign, but after being part of the coalition they had to concede that this was not possible due to the economic crisis of 2008. Because of the losses, Guido Westerwelle had to resign as chair of the FDP in favor of Philipp Rösler, Federal minister of health, who was consequently appointed as vice chancellor. Shortly after, Philipp Rösler changed office and became federal minister of economics and technology.
 
@@ -61,13 +61,13 @@ After their electoral defeat, the Social Democrats were led by Sigmar Gabriel, a
 
 2013–2017
 
-SeatsGermanBundestag2013.JPG The 18th federal elections in Germany resulted in the re-election of Angela Merkel and her Christian democratic parliamentary group of the parties CDU and CSU, receiving 41.5% of all votes. Following Merkel's first two historically low results, her third campaign marked the CDU/CSU's best result since 1994 and only for the second time in German history the possibility of gaining an absolute majority. Their former coalition partner, the FDP, narrowly failed to reach the 5% threshold and did not gain seats in the Bundestag.[6]
+The 18th federal elections in Germany resulted in the re-election of Angela Merkel and her Christian democratic parliamentary group of the parties CDU and CSU, receiving 41.5% of all votes. Following Merkel's first two historically low results, her third campaign marked the CDU/CSU's best result since 1994 and only for the second time in German history the possibility of gaining an absolute majority. Their former coalition partner, the FDP, narrowly failed to reach the 5% threshold and did not gain seats in the Bundestag.[6]
 
 Not having reached an absolute majority, the CDU/CSU formed a grand coalition with the social-democratic SPD after the longest coalition talks in history, making the head of the party Sigmar Gabriel vice-chancellor and federal Minister for Economic Affairs and Energy. Together they held 504 of a total 631 seats (CDU/CSU 311 and SPD 193). The only two opposition parties were The Left (64 seats) and Alliance '90/The Greens (63 seats), which was acknowledged as creating a critical situation in which the opposition parties did not even have enough seats to use the special controlling powers of the opposition.[7]
 
 Since 2017
 
-Current composition of the Bundestag: The 19th federal elections in Germany took place on 24 September 2017. The two big parties, the conservative parliamentary group CDU/CSU and the social democrat SPD were in a similar situation as in 2009, after the last grand coalition had ended, and both had suffered severe losses; reaching their second worst and worst result respectively in 2017.
+The 19th federal elections in Germany took place on 24 September 2017. The two big parties, the conservative parliamentary group CDU/CSU and the social democrat SPD were in a similar situation as in 2009, after the last grand coalition had ended, and both had suffered severe losses; reaching their second worst and worst result respectively in 2017.
 
 Many votes in the 2017 elections went to smaller parties, leading the right-wing populist party AfD (Alternative for Germany) into the Bundestag which marked a big shift in German politics since it was the first far-right party to win seats in parliament since the 1950s.
 
@@ -82,14 +82,12 @@ Constitution
 
 The "Basic Law for the Federal Republic of Germany" (Grundgesetz der Bundesrepublik Deutschland) is the Constitution of Germany.[11] It was formally approved on 8 May 1949, and, with the signature of the Allies of World War II on 12 May, came into effect on 23 May, as the constitution of those states of West Germany that were initially included within the Federal Republic. The 1949 Basic Law is a response to the perceived flaws of the 1919 Weimar Constitution, which failed to prevent the rise of the Nazi party in 1933. Since 1990, in the course of the reunification process after the fall of the Berlin Wall, the Basic Law also applies to the eastern states of the former German Democratic Republic.
 
-PoliticalSystemGermany.png
-
 
 Executive
 
 Head of state
 
-Berlin_-_panoramio_(165).jpg]]
+]]
 
 The German head of state is the Federal President. As in Germany's parliamentary system of government, the Federal Chancellor runs the government and day-to-day politics, the role of the Federal President is mostly ceremonial. The Federal President, by their actions and public appearances, represents the state itself, its existence, its legitimacy, and unity. Their office involves an integrative role.[12] Nearly all actions of the Federal President become valid only after a countersignature of a government member.
 
@@ -103,7 +101,7 @@ The Federal President does have a role in the political system, especially at th
 
 Head of government
 
-150515_Bundeskanzleramt_(Berlin)_Ostseite.jpg]]
+]]
 
 The _Bundeskanzler_ (federal chancellor) heads the _Bundesregierung_ (federal government) and thus the executive branch of the federal government. They are elected by and responsible to the _Bundestag_, Germany's parliament. The other members of the government are the Federal Ministers; they are chosen by the Chancellor. Germany, like the United Kingdom, can thus be classified as a parliamentary system. The office is currently held by Angela Merkel (since 2005).
 
@@ -136,7 +134,7 @@ The _Bundestag_ is more powerful than the _Bundesrat_ and only needs the latter'
 
 Bundestag
 
-Reichstag0170.JPG]]
+]]
 
 The _Bundestag_ (Federal Diet) is elected for a four-year term and consists of 598 or more members elected by a means of mixed-member proportional representation, which Germans call "personalised proportional representation". 299 members represent single-seat constituencies and are elected by a first past the post electoral system. Parties that obtain fewer constituency seats than their national share of the vote are allotted seats from party lists to make up the difference. In contrast, parties that obtain more constituency seats than their national share of the vote are allowed to keep these so-called overhang seats. In the parliament that was elected in 2009, there were 24 overhang seats, giving the _Bundestag_ a total of 622 members. After Bundestag elections since 2013, other parties obtain extra seats ("balance seats") that offset advantages from their rival's overhang seats. The current _Bundestag_ is the largest in German history with 709 members.
 
@@ -145,7 +143,7 @@ A party must receive either five percent of the national vote or win at least th
 
 Judiciary
 
-Karlsruhe_bundesverfassungsgericht.jpg]] Germany follows the civil law tradition. The judicial system comprises three types of courts.
+]] Germany follows the civil law tradition. The judicial system comprises three types of courts.
 
 -   Ordinary courts, dealing with criminal and most civil cases, are the most numerous by far. The Federal Court of Justice of Germany (_Bundesgerichtshof_) is the highest ordinary court and also the highest court of appeals.
 -   Specialized courts hear cases related to administrative, labour, social, fiscal and patent law.
@@ -157,15 +155,15 @@ The main difference between the Federal Constitutional Court and the Federal Cou
 
 Foreign relations
 
-European_union_emu_map_en.png]] Germany maintains a network of 229 diplomatic missions abroad and holds relations with more than 190 countries.[16] It is the largest contributor to the budget of the European Union (providing 27%) and third largest contributor to the United Nations (providing 8%). Germany is a member of the NATO defence alliance, the Organisation of Economic Co-operation and Development (OECD), the G8, the G20, the World Bank and the International Monetary Fund (IMF).
+]] Germany maintains a network of 229 diplomatic missions abroad and holds relations with more than 190 countries.[16] It is the largest contributor to the budget of the European Union (providing 27%) and third largest contributor to the United Nations (providing 8%). Germany is a member of the NATO defence alliance, the Organisation of Economic Co-operation and Development (OECD), the G8, the G20, the World Bank and the International Monetary Fund (IMF).
 
 Germany has played a leading role in the European Union since its inception and has maintained a strong alliance with France since the end of World War II. The alliance was especially close in the late 1980s and early 1990s under the leadership of Christian Democrat Helmut Kohl and Socialist François Mitterrand. Germany is at the forefront of European states seeking to advance the creation of a more unified European political, defence, and security apparatus.[17] For a number of decades after WWII, the Federal Republic of Germany kept a notably low profile in international relations, because of both its recent history and its occupation by foreign powers.[18]
 
-Defense_ministers_of_NATO_2000.jpg member states in 2000, an organisation West Germany joined in 1955]]
+member states in 2000, an organisation West Germany joined in 1955]]
 
 During the Cold War, Germany's partition by the Iron Curtain made it a symbol of East–West tensions and a political battleground in Europe. However, Willy Brandt's _Ostpolitik_ was a key factor in the _détente_ of the 1970s.[19] In 1999, Chancellor Gerhard Schröder's government defined a new basis for German foreign policy by taking a full part in the decisions surrounding the NATO war against Yugoslavia and by sending German troops into combat for the first time since World War II.[20]
 
-33rdG8Leaders.jpg, the head of government, hosting the G8 summit in Heiligendamm (2007)]]
+, the head of government, hosting the G8 summit in Heiligendamm (2007)]]
 
 The governments of Germany and the United States are close political allies.[21] The 1948 Marshall Plan and strong cultural ties have crafted a strong bond between the two countries, although Schröder's very vocal opposition to the Iraq War had suggested the end of Atlanticism and a relative cooling of German–American relations.[22] The two countries are also economically interdependent: 5.0% of German exports in goods are US-bound and 3.5% of German imported goods originate from the US with a trade deficit of -63,678.5 million dollars for the United States (2017).[23] Other signs of the close ties include the continuing position of German–Americans as the largest reported ethnic group in the US,[24] and the status of Ramstein Air Base (near Kaiserslautern) as the largest US military community outside the US.[25]
 

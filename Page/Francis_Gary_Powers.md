@@ -18,8 +18,6 @@ He married Barbara Gay Moore in Newnan, Georgia, on April 2, 1955.[5]
 
 In January 1956 he was recruited by the CIA. In May 1956 he began U-2 training at Watertown Strip, Nevada. His training was complete by August 1956 and his unit, the Second Weather Observational Squadron (Provisional) or Detachment 10-10, was deployed to Incirlik Air Base, Turkey. By 1960, Powers was already a veteran of many covert aerial reconnaissance missions.[6]
 
-RIAN_archive_35174_American_Spy_Pilot_Francis_Gary_Powers.jpg U2_Powers_Senate_model.jpg
-
 
 The U-2 incident
 
@@ -66,7 +64,7 @@ Powers initially received a cold reception on his return home. He was criticized
 
 He was debriefed extensively by the CIA,[32] Lockheed Corporation, and the Air Force, after which a statement was issued by CIA director John McCone that "Mr. Powers lived up to the terms of his employment and instructions in connection with his mission and in his obligations as an American."[33] On March 6, 1962, he appeared before a Senate Armed Services Select Committee hearing chaired by Senator Richard Russell, Jr. which included Senators Prescott Bush, Leverett Saltonstall, Robert Byrd, Margaret Chase Smith, John Stennis, Strom Thurmond, and Barry Goldwater. During the hearing, Senator Saltonstall stated, "I commend you as a courageous, fine young American citizen who lived up to your instructions and who did the best you could under very difficult circumstances." Senator Bush declared, "I am satisfied he has conducted himself in exemplary fashion and in accordance with the highest traditions of service to one's country, and I congratulate him upon his conduct in captivity." Senator Goldwater sent him a handwritten note: "You did a good job for your country."[34]
 
-KellyJohnsonandGaryPowers.jpg and Francis Gary Powers in front of a U-2 (Photo Gary Powers, Jr. / Cold War Museum via AP)]]
+and Francis Gary Powers in front of a U-2 (Photo Gary Powers, Jr. / Cold War Museum via AP)]]
 
 Divorce and remarriage
 

@@ -18,7 +18,7 @@ By the 1980s, some authors suggested replacing the term "cell wall", particularl
 
 Properties
 
-Eukaryota_cell_strucutre.PNG Cell walls serve similar purposes in those organisms that possess them. They may give cells rigidity and strength, offering protection against mechanical stress. In multicellular organisms, they permit the organism to build and hold a definite shape (morphogenesis). Cell walls also limit the entry of large molecules that may be toxic to the cell. They further permit the creation of stable osmotic environments by preventing osmotic lysis and helping to retain water. Their composition, properties, and form may change during the cell cycle and depend on growth conditions.
+Cell walls serve similar purposes in those organisms that possess them. They may give cells rigidity and strength, offering protection against mechanical stress. In multicellular organisms, they permit the organism to build and hold a definite shape (morphogenesis). Cell walls also limit the entry of large molecules that may be toxic to the cell. They further permit the creation of stable osmotic environments by preventing osmotic lysis and helping to retain water. Their composition, properties, and form may change during the cell cycle and depend on growth conditions.
 
 Rigidity of cell walls
 
@@ -44,9 +44,7 @@ The walls of plant cells must have sufficient tensile strength to withstand inte
 
 Layers
 
-Plant_Cell_Wall.png
-
-Plant_cell_wall_diagram-en.svg Up to three strata or layers may be found in plant cell walls:[17]
+Up to three strata or layers may be found in plant cell walls:[17]
 
 -   The PRIMARY CELL WALL, generally a thin, flexible and extensible layer formed while the cell is growing.
 -   The SECONDARY CELL WALL, a thick layer formed inside the primary cell wall after the cell is fully grown. It is not found in all cell types. Some cells, such as the conducting cells in xylem, possess a secondary wall containing lignin, which strengthens and waterproofs the wall.
@@ -62,7 +60,7 @@ Secondary cell walls contain a wide range of additional compounds that modify th
 -   xylan, 20-35%, a type of hemicellulose
 -   lignin, 10-25%, a complex phenolic polymer that penetrates the spaces in the cell wall between cellulose, hemicellulose and pectin components, driving out water and strengthening the wall.
 
-Allium-Mitose10-DM100x_BL28.jpg Additionally, structural proteins (1-5%) are found in most plant cell walls; they are classified as hydroxyproline-rich glycoproteins (HRGP), arabinogalactan proteins (AGP), glycine-rich proteins (GRPs), and proline-rich proteins (PRPs). Each class of glycoprotein is defined by a characteristic, highly repetitive protein sequence. Most are glycosylated, contain hydroxyproline (Hyp) and become cross-linked in the cell wall. These proteins are often concentrated in specialized cells and in cell corners. Cell walls of the epidermis may contain cutin. The Casparian strip in the endodermis roots and cork cells of plant bark contain suberin. Both cutin and suberin are polyesters that function as permeability barriers to the movement of water.[20] The relative composition of carbohydrates, secondary compounds and proteins varies between plants and between the cell type and age. Plant cells walls also contain numerous enzymes, such as hydrolases, esterases, peroxidases, and transglycosylases, that cut, trim and cross-link wall polymers.
+Additionally, structural proteins (1-5%) are found in most plant cell walls; they are classified as hydroxyproline-rich glycoproteins (HRGP), arabinogalactan proteins (AGP), glycine-rich proteins (GRPs), and proline-rich proteins (PRPs). Each class of glycoprotein is defined by a characteristic, highly repetitive protein sequence. Most are glycosylated, contain hydroxyproline (Hyp) and become cross-linked in the cell wall. These proteins are often concentrated in specialized cells and in cell corners. Cell walls of the epidermis may contain cutin. The Casparian strip in the endodermis roots and cork cells of plant bark contain suberin. Both cutin and suberin are polyesters that function as permeability barriers to the movement of water.[20] The relative composition of carbohydrates, secondary compounds and proteins varies between plants and between the cell type and age. Plant cells walls also contain numerous enzymes, such as hydrolases, esterases, peroxidases, and transglycosylases, that cut, trim and cross-link wall polymers.
 
 Secondary walls - especially in grasses - may also contain microscopic silica crystals, which may strengthen the wall and protect it from herbivores.
 
@@ -77,7 +75,7 @@ In some plants and cell types, after a maximum size or point in development has 
 
 Fungal cell walls
 
-Chitin.svg polymer chain.]] There are several groups of organisms that have been called "fungi". Some of these groups (Oomycete and Myxogastria) have been transferred out of the Kingdom Fungi, in part because of fundamental biochemical differences in the composition of the cell wall. Most true fungi have a cell wall consisting largely of chitin and other polysaccharides.[25] True fungi do not have cellulose in their cell walls.[26]
+polymer chain.]] There are several groups of organisms that have been called "fungi". Some of these groups (Oomycete and Myxogastria) have been transferred out of the Kingdom Fungi, in part because of fundamental biochemical differences in the composition of the cell wall. Most true fungi have a cell wall consisting largely of chitin and other polysaccharides.[25] True fungi do not have cellulose in their cell walls.[26]
 
 True fungi
 
@@ -92,7 +90,7 @@ Other eukaryotic cell walls
 
 Algae
 
-Diatoms.png micrographs of diatoms showing the external appearance of the cell wall]] Like plants, algae have cell walls.[31] Algal cell walls contain either polysaccharides (such as cellulose (a glucan)) or a variety of glycoproteins (Volvocales) or both. The inclusion of additional polysaccharides in algal cells walls is used as a feature for algal taxonomy.
+micrographs of diatoms showing the external appearance of the cell wall]] Like plants, algae have cell walls.[31] Algal cell walls contain either polysaccharides (such as cellulose (a glucan)) or a variety of glycoproteins (Volvocales) or both. The inclusion of additional polysaccharides in algal cells walls is used as a feature for algal taxonomy.
 
 -   Mannans: They form microfibrils in the cell walls of a number of marine green algae including those from the genera, _Codium_, _Dasycladus_, and _Acetabularia_ as well as in the walls of some red algae, like _Porphyra_ and _Bangia_.
 -   Xylans:
@@ -118,7 +116,7 @@ Prokaryotic cell walls
 
 Bacterial cell walls
 
-Prokaryote_cell.svg. The cell envelope comprises a plasma membrane, seen here in light brown, and a thick peptidoglycan-containing cell wall (the purple layer). No outer lipid membrane is present, as would be the case in gram-negative bacteria. The red layer, known as the capsule, is distinct from the cell envelope.]]
+. The cell envelope comprises a plasma membrane, seen here in light brown, and a thick peptidoglycan-containing cell wall (the purple layer). No outer lipid membrane is present, as would be the case in gram-negative bacteria. The red layer, known as the capsule, is distinct from the cell envelope.]]
 
 Around the outside of the cell membrane is the bacterial cell wall. Bacterial cell walls are made of peptidoglycan (also called murein), which is made from polysaccharide chains cross-linked by unusual peptides containing D-amino acids.[40] Bacterial cell walls are different from the cell walls of plants and fungi which are made of cellulose and chitin, respectively.[41] The cell wall of bacteria is also distinct from that of Archaea, which do not contain peptidoglycan. The cell wall is essential to the survival of many bacteria, although L-form bacteria can be produced in the laboratory that lack a cell wall.[42] The antibiotic penicillin is able to kill bacteria by preventing the cross-linking of peptidoglycan and this causes the cell wall to weaken and lyse.[43] The lysozyme enzyme can also damage bacterial cell walls.
 

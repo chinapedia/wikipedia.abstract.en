@@ -24,7 +24,7 @@ In his book _Last Train to Memphis_, American popular music historian Peter Gura
 
 In a December 1994 interview on the _Charlie Rose Show_, Hopper credited John Wayne with saving his career, as Hopper acknowledged that because of his insolent behavior, he could not find work in Hollywood for seven years. Hopper stated that because he was the son-in-law of actress Margaret Sullavan, a friend of John Wayne, Wayne hired Hopper for a role in _The Sons of Katie Elder_ (1965), also directed by Hathaway, which enabled Hopper to restart his film career.[17] Hopper acted in another John Wayne film, _True Grit_ (1969), and during its production he became well acquainted with Wayne. In both of the films with Wayne, Hopper's character is killed in the presence of Wayne's character, to whom he utters his dying words.
 
-Hopper_Rider.jpg Hopper had a supporting role as the bet-taker, "Babalugats", in _Cool Hand Luke_ (1967). In 1968, Hopper teamed with Peter Fonda, Terry Southern and Jack Nicholson to make _Easy Rider_, which premiered in July 1969. With the release of _True Grit_ a month earlier, Hopper had starring roles in two major box office films that summer. Hopper won wide acclaim as the director for his improvisational methods and innovative editing for _Easy Rider_.[18] The production was plagued by creative differences and personal acrimony between Fonda and Hopper, the dissolution of Hopper's marriage to Hayward, his unwillingness to leave the editor's desk and his accelerating abuse of drugs and alcohol.[19] Hopper said of _Easy Rider_: "The cocaine problem in the United States is really because of me. There was no cocaine before Easy Rider on the street. After Easy Rider, it was everywhere".[20]
+Hopper had a supporting role as the bet-taker, "Babalugats", in _Cool Hand Luke_ (1967). In 1968, Hopper teamed with Peter Fonda, Terry Southern and Jack Nicholson to make _Easy Rider_, which premiered in July 1969. With the release of _True Grit_ a month earlier, Hopper had starring roles in two major box office films that summer. Hopper won wide acclaim as the director for his improvisational methods and innovative editing for _Easy Rider_.[18] The production was plagued by creative differences and personal acrimony between Fonda and Hopper, the dissolution of Hopper's marriage to Hayward, his unwillingness to leave the editor's desk and his accelerating abuse of drugs and alcohol.[19] Hopper said of _Easy Rider_: "The cocaine problem in the United States is really because of me. There was no cocaine before Easy Rider on the street. After Easy Rider, it was everywhere".[20]
 
 Besides showing drug use on film, it was the first film to portray the new hippie lifestyle. Hopper became a stereotype for some male youths who rejected traditional jobs and traditional American culture, partly exemplified by Fonda's long sideburns and Hopper wearing shoulder-length hair and a long mustache. They were denied rooms in motels and proper service in restaurants as a result of their radical looks.[21] Their long hair became a point of contention in various scenes during the film.[22]
 
@@ -59,7 +59,7 @@ Hopper starred as a U.S. Army colonel in the 2005 television series _E-Ring_, a 
 
 Photography and art
 
-Dennis_Hopper_hat.jpg Hopper had several artistic pursuits beyond film. He was a prolific photographer, painter, and sculptor.[32]
+Hopper had several artistic pursuits beyond film. He was a prolific photographer, painter, and sculptor.[32]
 
 Hopper's fascination with art began with painting lessons at the Nelson-Atkins Museum while still a child in Kansas City, Missouri.[33] Early in his career, he painted and wrote poetry, though many of his works were destroyed in a 1961 fire that burned scores of homes, including his, on Stone Canyon Road[34] in Bel Air.[35] His painting style ranges from abstract impressionism to photorealism and often includes references to his cinematic work and to other artists.[36][37]
 
@@ -78,7 +78,7 @@ In the late 1980s, Hopper purchased a trio of nearly identical two-story, loft-s
 
 Personal life
 
-DennisHopperJackNicholson.jpg at the 62nd Academy Awards in 1990]] According to _Rolling Stone_ magazine, Hopper was "one of Hollywood's most notorious drug addicts" for 20 years. He spent much of the 1970s and early 1980s living as an "outcast" in Taos, New Mexico after the success of _Easy Rider_. Hopper was also "notorious for his troubled relationships with women", including Michelle Phillips, who divorced him after eight days of marriage.[54] Hopper was married five times:
+at the 62nd Academy Awards in 1990]] According to _Rolling Stone_ magazine, Hopper was "one of Hollywood's most notorious drug addicts" for 20 years. He spent much of the 1970s and early 1980s living as an "outcast" in Taos, New Mexico after the success of _Easy Rider_. Hopper was also "notorious for his troubled relationships with women", including Michelle Phillips, who divorced him after eight days of marriage.[54] Hopper was married five times:
 
 -   Brooke Hayward, married 1961 – divorced 1969, 1 child, daughter Marin Hopper (b. 1962)
 -   Michelle Phillips; married October 31, 1970 – divorced November 8, 1970
@@ -111,7 +111,7 @@ On November 14, 2010, it was revealed that, despite Duffy's earlier assertion in
 
 Illness and death
 
-DennisHopperSideMar10.jpg on March 26, 2010, two months before his death.]] On September 28, 2009, Hopper, then 73, was reportedly brought by ambulance to an unidentified Manhattan hospital wearing an oxygen mask and "with numerous tubes visible".[72] On October 2, he was discharged, after receiving treatment for dehydration.[73]
+on March 26, 2010, two months before his death.]] On September 28, 2009, Hopper, then 73, was reportedly brought by ambulance to an unidentified Manhattan hospital wearing an oxygen mask and "with numerous tubes visible".[72] On October 2, he was discharged, after receiving treatment for dehydration.[73]
 
 On October 29, Hopper's manager Sam Maydew reported that he had been diagnosed with advanced prostate cancer.[74] In January 2010, it was reported that Hopper's cancer had metastasized to his bones.[75]
 

@@ -36,7 +36,7 @@ In the 1930s a standard national language _Guóyǔ_ (/ "national language") was 
 
 Influence
 
-Tripitaka_Koreana.jpg'', a Korean collection of the Chinese Buddhist canon]]
+'', a Korean collection of the Chinese Buddhist canon]]
 
 The Chinese language has spread to neighbouring countries through a variety of means. Northern Vietnam was incorporated into the Han empire in 111 BCE, marking the beginning of a period of Chinese control that ran almost continuously for a millennium. The Four Commanderies were established in northern Korea in the first century BCE, but disintegrated in the following centuries. Chinese Buddhism spread over East Asia between the 2nd and 5th centuries CE, and with it the study of scriptures and literature in Literary Chinese. Later Korea, Japan, and Vietnam developed strong central governments modeled on Chinese institutions, with Literary Chinese as the language of administration and scholarship, a position it would retain until the late 19th century in Korea and (to a lesser extent) Japan, and the early 20th century in Vietnam. Scholars from different lands could communicate, albeit only in writing, using Literary Chinese.
 
@@ -94,7 +94,7 @@ Most Chinese people consider the spoken varieties as one single language because
 
 Phonology
 
-Edmund_Yeo_-_voice_-_ch_150127_1828.wav]]
+]]
 
 The phonological structure of each syllable consists of a nucleus that has a vowel (which can be a monophthong, diphthong, or even a triphthong in certain varieties), preceded by an onset (a single consonant, or consonant+glide; zero onset is also possible), and followed (optionally) by a coda consonant; a syllable also carries a tone. There are some instances where a vowel is not used as a nucleus. An example of this is in Cantonese, where the nasal sonorant consonants and can stand alone as their own syllable.
 
@@ -225,7 +225,7 @@ In Hunan, women in certain areas write their local language in Nü Shu, a syllab
 
 Chinese characters
 
-XingshuLantingxv.jpg" by Wang Xizhi, written in semi-cursive style]] Each Chinese character represents a monosyllabic Chinese word or morpheme. In 100 CE, the famed Han dynasty scholar Xu Shen classified characters into six categories, namely pictographs, simple ideographs, compound ideographs, phonetic loans, phonetic compounds and derivative characters. Of these, only 4% were categorized as pictographs, including many of the simplest characters, such as _rén_ (human), _rì_ (sun), _shān_ (mountain; hill), _shuǐ_ (water). Between 80% and 90% were classified as phonetic compounds such as _chōng_ (pour), combining a phonetic component _zhōng_ (middle) with a semantic radical (water). Almost all characters created since have been made using this format. The 18th-century Kangxi Dictionary recognized 214 radicals.
+" by Wang Xizhi, written in semi-cursive style]] Each Chinese character represents a monosyllabic Chinese word or morpheme. In 100 CE, the famed Han dynasty scholar Xu Shen classified characters into six categories, namely pictographs, simple ideographs, compound ideographs, phonetic loans, phonetic compounds and derivative characters. Of these, only 4% were categorized as pictographs, including many of the simplest characters, such as _rén_ (human), _rì_ (sun), _shān_ (mountain; hill), _shuǐ_ (water). Between 80% and 90% were classified as phonetic compounds such as _chōng_ (pour), combining a phonetic component _zhōng_ (middle) with a semantic radical (water). Almost all characters created since have been made using this format. The 18th-century Kangxi Dictionary recognized 214 radicals.
 
 Modern characters are styled after the regular script. Various other written styles are also used in Chinese calligraphy, including seal script, cursive script and clerical script. Calligraphy artists can write in traditional and simplified characters, but they tend to use traditional characters for traditional art.
 
@@ -236,8 +236,6 @@ Singapore, which has a large Chinese community, was the second nation to officia
 A well-educated Chinese reader today recognizes approximately 4,000 to 6,000 characters; approximately 3,000 characters are required to read a Mainland newspaper. The PRC government defines literacy amongst workers as a knowledge of 2,000 characters, though this would be only functional literacy. School-children typically learn around 2,000 characters whereas scholars may memorize up to 10,000.[6] A large unabridged dictionary, like the Kangxi Dictionary, contains over 40,000 characters, including obscure, variant, rare, and archaic characters; fewer than a quarter of these characters are now commonly used.
 
 Romanization
-
-Gwoyu.svg
 
 Romanization is the process of transcribing a language into the Latin script. There are many systems of romanization for the Chinese varieties, due to the lack of a native phonetic transcription until modern times. Chinese is first known to have been written in Latin characters by Western Christian missionaries in the 16th century.
 
@@ -285,7 +283,7 @@ There are also at least two systems of cyrillization for Chinese. The most wides
 
 As a foreign language
 
-Chinese_Language_Training_at_CASA.PNG, giving Chinese language instruction at the Civil Affairs Staging Area in 1945.]]
+, giving Chinese language instruction at the Civil Affairs Staging Area in 1945.]]
 
 With the growing importance and influence of China's economy globally, Mandarin instruction is gaining popularity in schools in the United States, and has become an increasingly popular subject of study amongst the young in the Western world, as in the UK.[7]
 

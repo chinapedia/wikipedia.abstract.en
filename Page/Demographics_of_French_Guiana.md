@@ -1,7 +1,7 @@
 
 Population
 
-French_Guiana_demography.png According to INSEE the population of French Guiana was 239,450 of January 1, 2012.[1] The population is very young: 44% are below the age of 20, while only 1.7% are 75 years or older. The age distribution is a reflection of the high fertility rates of French Guiana.
+According to INSEE the population of French Guiana was 239,450 of January 1, 2012.[1] The population is very young: 44% are below the age of 20, while only 1.7% are 75 years or older. The age distribution is a reflection of the high fertility rates of French Guiana.
 
 Nationality
 

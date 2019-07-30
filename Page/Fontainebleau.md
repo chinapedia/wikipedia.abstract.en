@@ -17,7 +17,7 @@ Philip the Fair was born there in 1268 and died there in 1314. In all, thirty-fo
 
 The connection between the town of Fontainebleau and the French monarchy was reinforced with the transformation of the royal country house into a true royal palace, the Palace of Fontainebleau. This was accomplished by the great builder-king, Francis I (1494–1547), who, in the largest of his many construction projects, reconstructed, expanded, and transformed the royal château at Fontainebleau into a residence that became his favourite, as well as the residence of his mistress, Anne, duchess of Étampes.
 
-From the sixteenth to the eighteenth century, every monarch, from Francis I to Louis XV, made important renovations at the Palace of Fontainebleau, including demolitions, reconstructions, additions, and embellishments of various descriptions, all of which endowed it with a character that is a bit heterogeneous, but harmonious nonetheless. Le_bassin_des_cascades_(Château_de_Fontainebleau)_(2935087125).jpg On 18 October 1685, Louis XIV signed the _Edict of Fontainebleau_ there. Also known as the _Revocation of the Edict of Nantes_, this royal fiat reversed the permission granted to the Huguenots in 1598 to worship publicly in specified locations and hold certain other privileges. The result was that a large number of Protestants were forced to convert to the Catholic faith, killed, or forced into exile, mainly in the Low Countries, Prussia and in England.[3]
+From the sixteenth to the eighteenth century, every monarch, from Francis I to Louis XV, made important renovations at the Palace of Fontainebleau, including demolitions, reconstructions, additions, and embellishments of various descriptions, all of which endowed it with a character that is a bit heterogeneous, but harmonious nonetheless. On 18 October 1685, Louis XIV signed the _Edict of Fontainebleau_ there. Also known as the _Revocation of the Edict of Nantes_, this royal fiat reversed the permission granted to the Huguenots in 1598 to worship publicly in specified locations and hold certain other privileges. The result was that a large number of Protestants were forced to convert to the Catholic faith, killed, or forced into exile, mainly in the Low Countries, Prussia and in England.[3]
 
 The 1762 Treaty of Fontainebleau, a secret agreement between France and Spain concerning the Louisiana territory in North America, was concluded here. Also, preliminary negotiations, held before the 1763 Treaty of Paris was signed, ending the Seven Years' War, were at Fontainebleau.
 
@@ -30,8 +30,6 @@ On 20 June 1812, Pope Pius VII arrived at the château of Fontainebleau, after a
 On 20 April 1814, Napoleon Bonaparte, shortly before his first abdication, bid farewell to the Old Guard, the renowned _grognards_ (gripers) who had served with him since his very first campaigns, in the "White Horse Courtyard" (la cour du Cheval Blanc) at the Palace of Fontainebleau. (The courtyard has since been renamed the "Courtyard of Goodbyes".) According to contemporary sources, the occasion was very moving. The 1814 Treaty of Fontainebleau stripped Napoleon of his powers (but not his title as Emperor of the French) and sent him into exile on Elba.
 
 Until the 19th century, Fontainebleau was a village and a suburb of Avon. Later, it developed as an independent residential city.
-
-Bicentenaire_des_Adieux_de_Napoleon_a_Fontainebleau.JPG
 
 For the 1924 Summer Olympics, the town played host to the riding portion of the modern pentathlon event. This event took place near a golf course.[4]
 
@@ -52,7 +50,7 @@ The forest of Fontainebleau surrounds the town and dozens of nearby villages. It
 
 Royal Château de Fontainebleau
 
-The Royal Château de Fontainebleau is a large palace where the kings of France took their ease. It is also the site where the French royal court, from 1528 onwards, entertained the body of new ideas that became known as the Renaissance. Square_in_Fontainebleau_Town_Centre.JPG
+The Royal Château de Fontainebleau is a large palace where the kings of France took their ease. It is also the site where the French royal court, from 1528 onwards, entertained the body of new ideas that became known as the Renaissance.
 
 INSEAD
 

@@ -45,8 +45,6 @@ Otto's army contained some 1,300–1,500 knights: 600–650 Flemish, 425–500 H
 
 Battle
 
-Bataille_de_Bouvines.jpg
-
 Allied left
 
 The battle opened with an attack by 150 light cavalrymen from the Abbey of Saint-Médard de Soissons against the Flemish knights on the allied left, aiming to throw it into confusion. The Flemish knights easily drove off the unarmoured horsemen. Some Flemish knights left their formations and chased the retreating light cavalry. 180 French knights from Champagne in turn attacked and killed or captured the over-aggressive Flemish knights. The Count of Flanders counter-attacked with his entire force of 600 knights and threw the French back.
@@ -57,7 +55,7 @@ The Flemings fought on for three hours despite their increasingly desperate situ
 
 Centre
 
-Philippe_II's_victory_at_Bouvines.jpg's victory at Bouvines, 1410 illustration by Vincent of Beauvais]] The French urban militia infantry, 2,150 strong, were gathered under the Oriflamme in the centre, in front of Philip's knights and the _fleur-de-lis_ standard.Soon after deploying, they were attacked by Allied knights and infantry under Otto and thrown back. Otto and his knights had nearly reached the French king when they were halted by French knights. The allied infantrymen broke through to Philip and his handful of knightly companions, unhorsing him with their hooked pikes. The French king's armour deflected an enemy lance and saved his life. Gales de Montigny used the royal standard to signal for help and another knight gave Philip a fresh horse.
+'s victory at Bouvines, 1410 illustration by Vincent of Beauvais]] The French urban militia infantry, 2,150 strong, were gathered under the Oriflamme in the centre, in front of Philip's knights and the _fleur-de-lis_ standard.Soon after deploying, they were attacked by Allied knights and infantry under Otto and thrown back. Otto and his knights had nearly reached the French king when they were halted by French knights. The allied infantrymen broke through to Philip and his handful of knightly companions, unhorsing him with their hooked pikes. The French king's armour deflected an enemy lance and saved his life. Gales de Montigny used the royal standard to signal for help and another knight gave Philip a fresh horse.
 
 The allied infantry used daggers to stab unhorsed French knights through the eye-slits in their enclosed helmets or great helms and other weak spots in their armour. The Norman knight Etienne de Longchamp was killed in this way and the French suffered heavy losses. After repeated French counterattacks and a prolonged fight the Allies were thrown back.
 
@@ -69,7 +67,7 @@ Meanwhile, on the French left Robert de Dreux's troops were at first pressed by 
 
 Last stand
 
-Prisonniers_Bouvines.jpg The day was already decided in favour of the French when their wings began to close inwards to cut off the retreat of the imperial centre. The battle closed with the celebrated stand of Reginald of Boulogne (Renaud de Dammartin), a former vassal of King Philip, who formed a ring of 400–700 Brabant pikemen. They defied every attack by the French cavalry, while Reginald made repeated sorties with his small force of knights. Eventually, long after the Imperial army had retreated, the Brabant schiltrom was overrun by a charge of 50 knights and 1,000–2,000 infantry under Thomas de St Valery. Reginald was taken prisoner in the melee. A pursuit was not conducted owing to the approaching nightfall and a fear that the prisoners might escape. The French formations were recalled using trumpets.
+The day was already decided in favour of the French when their wings began to close inwards to cut off the retreat of the imperial centre. The battle closed with the celebrated stand of Reginald of Boulogne (Renaud de Dammartin), a former vassal of King Philip, who formed a ring of 400–700 Brabant pikemen. They defied every attack by the French cavalry, while Reginald made repeated sorties with his small force of knights. Eventually, long after the Imperial army had retreated, the Brabant schiltrom was overrun by a charge of 50 knights and 1,000–2,000 infantry under Thomas de St Valery. Reginald was taken prisoner in the melee. A pursuit was not conducted owing to the approaching nightfall and a fear that the prisoners might escape. The French formations were recalled using trumpets.
 
 
 Aftermath
@@ -80,7 +78,7 @@ The battle ended the threat from both Otto and John. According to Jean Favier, B
 
 Philip returned to Paris triumphant, marching his captive prisoners behind him in a long procession, as his subjects lined the streets to greet the victorious king. In the aftermath of the battle, Otto retreated to his castle of Harzburg and was soon overthrown as Holy Roman Emperor by Frederick II, who had already been recognised as emperor in the south a year and a half earlier. Count Ferdinand remained imprisoned following his defeat, while King John obtained a five-year truce, on very lenient terms given the circumstances.
 
-St_Pol.png Philip's decisive victory was crucial to the political situation in England. The battle ended all hope of a restoration of the Angevin Empire. So weakened was the defeated King John that he soon needed to submit to his barons' demands and agree to the Magna Carta, limiting the power of the crown and establishing the basis for common law.
+Philip's decisive victory was crucial to the political situation in England. The battle ended all hope of a restoration of the Angevin Empire. So weakened was the defeated King John that he soon needed to submit to his barons' demands and agree to the Magna Carta, limiting the power of the crown and establishing the basis for common law.
 
 
 Commemoration

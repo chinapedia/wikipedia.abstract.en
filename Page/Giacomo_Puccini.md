@@ -1,4 +1,4 @@
-GiacomoPuccini.jpg]]
+]]
 
 GIACOMO ANTONIO DOMENICO MICHELE SECONDO MARIA PUCCINI (; 22 December 1858 29 November 1924) was an Italian opera composer who has been called "the greatest composer of Italian opera after Verdi".
 
@@ -8,8 +8,6 @@ Puccini's most renowned works are _La bohème_ (1896), _Tosca_ (1900), _Madama B
 
 
 Family and education
-
-PucciniBirthplace.jpg
 
 Puccini was born Giacomo Antonio Domenico Michele Secondo Maria Puccini in Lucca, Italy in 1858. He was one of nine children of Michele Puccini and Albina Magi. The Puccini family was established in Lucca as a local musical dynasty by Puccini's great-great-grandfather – also named Giacomo (1712–1781).[1][2] This first Giacomo Puccini was _maestro di cappella_ of the Cattedrale di San Martino in Lucca.[3] He was succeeded in this position by his son, Antonio Puccini,[4] and then by Antonio's son Domenico, and Domenico's son Michele (father of the subject of this article).[5] Each of these men studied music at Bologna, and some took additional musical studies elsewhere.[6][7] Domenico Puccini studied for a time under Giovanni Paisiello.[8] Each composed music for the church. In addition, Domenico composed several operas, and Michele composed one opera.[9] Puccini's father Michele enjoyed a reputation throughout northern Italy, and his funeral was an occasion of public mourning, at which the then-famed composer Giovanni Pacini conducted a Requiem.[10]
 
@@ -41,7 +39,7 @@ _Manon Lescaut_ was a great success and established Puccini's reputation as the 
 
 Middle career
 
-PucciniTosca.jpg'']]
+'']]
 
 _La bohème_
 
@@ -53,7 +51,7 @@ Puccini's composition of _La bohème_ was the subject of a public dispute betwee
 
 _Tosca_
 
-Puccini's next work after _La bohème_ was _Tosca_ (1900), arguably Puccini's first foray into _verismo_, the realistic depiction of many facets of real life including violence. Puccini had been considering an opera on this theme since he saw the play _Tosca_ by Victorien Sardou in 1889, when he wrote to his publisher, Giulio Ricordi, begging him to get Sardou's permission for the work to be made into an opera: "I see in this _Tosca_ the opera I need, with no overblown proportions, no elaborate spectacle, nor will it call for the usual excessive amount of music."[50] Puccini7.jpg
+Puccini's next work after _La bohème_ was _Tosca_ (1900), arguably Puccini's first foray into _verismo_, the realistic depiction of many facets of real life including violence. Puccini had been considering an opera on this theme since he saw the play _Tosca_ by Victorien Sardou in 1889, when he wrote to his publisher, Giulio Ricordi, begging him to get Sardou's permission for the work to be made into an opera: "I see in this _Tosca_ the opera I need, with no overblown proportions, no elaborate spectacle, nor will it call for the usual excessive amount of music."[50]
 
 The music of _Tosca_ employs musical signatures for particular characters and emotions, which have been compared to Wagnerian leitmotivs, and some contemporaries saw Puccini as thereby adopting a new musical style influenced by Wagner. Others viewed the work differently. Rejecting the allegation that _Tosca_ displayed Wagnerian influences, a critic reporting on the 20 February 1900 Torino premiere wrote: "I don't think you could find a more Puccinian score than this."[51]
 
@@ -68,7 +66,7 @@ The original version of _Madama Butterfly_, premiered at La Scala on 17 February
 
 Later works
 
-Arturo_Toscanini_and_Giacomo_Puccini_1910.jpg]] After 1904, Puccini's compositions were less frequent. In 1906 Giacosa died and, in 1909, there was scandal after Puccini's wife, Elvira, falsely accused their maid Doria Manfredi of having an affair with Puccini. Finally, in 1912, the death of Giulio Ricordi, Puccini's editor and publisher, ended a productive period of his career.
+]] After 1904, Puccini's compositions were less frequent. In 1906 Giacosa died and, in 1909, there was scandal after Puccini's wife, Elvira, falsely accused their maid Doria Manfredi of having an affair with Puccini. Finally, in 1912, the death of Giulio Ricordi, Puccini's editor and publisher, ended a productive period of his career.
 
 _La fanciulla del West_
 
@@ -98,13 +96,11 @@ Puccini explored many possible subjects that he ultimately rejected only after a
 
 Puccini at Torre del Lago
 
-III_Torre_del_Lago,_Italy_3_(2).jpgFrom 1891 onwards, Puccini spent most of his time, when not traveling on business, at Torre del Lago, a small community about fifteen miles from Lucca situated between the Ligurian Sea and Lake Massaciuccoli, just south of Viareggio. Torre del Lago was the primary place for Puccini to indulge his love of hunting. "I love hunting, I love cars: and for these things, in the isolation of Torre del Lago, I keep the faith." ("Amo la caccia, adoro l’automobile: e a questo e a quella nelle solitudini di Torre del Lago serbo intera la mia fede.")[77]
+From 1891 onwards, Puccini spent most of his time, when not traveling on business, at Torre del Lago, a small community about fifteen miles from Lucca situated between the Ligurian Sea and Lake Massaciuccoli, just south of Viareggio. Torre del Lago was the primary place for Puccini to indulge his love of hunting. "I love hunting, I love cars: and for these things, in the isolation of Torre del Lago, I keep the faith." ("Amo la caccia, adoro l’automobile: e a questo e a quella nelle solitudini di Torre del Lago serbo intera la mia fede.")[77]
 
 By 1900, he had acquired land and built a villa on the lake, now known as the "Villa Museo Puccini". He lived there until 1921, when pollution produced by peat works on the lake forced him to move to Viareggio, a few kilometres north. After his death, a mausoleum was created in the Villa Puccini and the composer is buried there in the chapel, along with his wife and son who died later.
 
 The Villa Museo was owned by his granddaughter, Simonetta Puccini, until her death, and is open to the public. An annual Festival Puccini is held at Torre del Lago.
-
-A.Villa_(Ravello,_12_febbraio_1865_–_Milano,_31_dicembre_1906),_Giacomo_Puccini_a_Cavallo_al_lago_di_Massaciuccoli.jpg
 
 
 Marriage and affairs

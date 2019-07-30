@@ -18,7 +18,7 @@ The success of the series has led to the adaptation of its books into 13 films: 
 
 History
 
-Evariste-Vital_Luminais_-_Goths_traversant_une_rivière.jpg (1821 – 1896) paintings of Goths had been rather popular in France and are a possible role model for the _Asterix_ series.
+(1821 – 1896) paintings of Goths had been rather popular in France and are a possible role model for the _Asterix_ series.
 
   ]] Prior to creating the _Asterix_ series, Goscinny and Uderzo had previously had success with their series _Oumpah-pah_, which was published in _Tintin_ magazine.[7] _Astérix_ was originally serialised in _Pilote_ magazine, debuting in the first issue on 29 October 1959.[8] In 1961 the first book was put together, titled _Asterix the Gaul_. From then on, books were released generally on a yearly basis. Their success was exponential; the first book sold 6,000 copies in its year of publication; a year later, the second sold 20,000. In 1963, the third sold 40,000; the fourth, released in 1964, sold 150,000. A year later, the fifth sold 300,000; 1966's _Asterix and the Big Fight_ sold 400,000 upon initial publication. The ninth _Asterix_ volume, when first released in 1967, sold 1.2 million copies in two days.
 
@@ -110,7 +110,7 @@ The humour encountered in the _Asterix_ comics often centers around puns, carica
 
 Character names
 
-Exposition_Astérix_à_la_BnF_(10307420605).jpg All the fictional characters in _Asterix_ have names which are puns on their roles or personalities, and which follow certain patterns specific to nationality. Certain rules are followed (most of the time) such as Gauls (and their neighbours) having an "-ix" suffix for the men and ending in "-a" for the women; for example, Chief Vitalstatistix (so called due to his portly stature) and his wife Impedimenta (often at odds with the chief). The male Roman names end in "-us", echoing Latin nominitive male singular form, as in Gluteus Maximus, a muscle-bound athlete whose name is literally the butt of the joke. Gothic names (present-day Germany) end in "-ic", after Gothic chiefs such as Alaric and Theoderic; for example Rhetoric the interpreter. Greek names end in "-os" or "-es"; for example, Thermos the restaurateur. British names end in "-ax" and are often puns on the taxation associated with the later United Kingdom; examples include Valuaddedtax the druid, and Selectivemploymentax the mercenary. Other nationalities are treated to Pidgin translations from their language, like Huevos y Bacon, a Spanish chieftain (whose name, meaning eggs and bacon, is often guidebook Spanish for tourists), or literary and other popular media references, like Dubbelosix (a sly reference to James Bond's codename "007").
+All the fictional characters in _Asterix_ have names which are puns on their roles or personalities, and which follow certain patterns specific to nationality. Certain rules are followed (most of the time) such as Gauls (and their neighbours) having an "-ix" suffix for the men and ending in "-a" for the women; for example, Chief Vitalstatistix (so called due to his portly stature) and his wife Impedimenta (often at odds with the chief). The male Roman names end in "-us", echoing Latin nominitive male singular form, as in Gluteus Maximus, a muscle-bound athlete whose name is literally the butt of the joke. Gothic names (present-day Germany) end in "-ic", after Gothic chiefs such as Alaric and Theoderic; for example Rhetoric the interpreter. Greek names end in "-os" or "-es"; for example, Thermos the restaurateur. British names end in "-ax" and are often puns on the taxation associated with the later United Kingdom; examples include Valuaddedtax the druid, and Selectivemploymentax the mercenary. Other nationalities are treated to Pidgin translations from their language, like Huevos y Bacon, a Spanish chieftain (whose name, meaning eggs and bacon, is often guidebook Spanish for tourists), or literary and other popular media references, like Dubbelosix (a sly reference to James Bond's codename "007").
 
 Most of these jokes, and hence the names of the characters, are specific to the translation; for example, the druid named Getafix in English translation is _Panoramix_ in the original French and _Miraculix_ in German.[54] Even so, occasionally the wordplay has been preserved: Obelix's dog, known in the original French as _Idéfix_ (from _idée fixe_, a "fixed idea" or obsession), is called _Dogmatix_ in English, which not only renders the original meaning strikingly closely ("dogmatic") but in fact adds another layer of wordplay with the syllable "Dog-" at the beginning of the name.
 
@@ -207,7 +207,7 @@ Parc Astérix, a theme park 22 miles north of Paris, based upon the series, was 
 
 Influence in popular culture
 
-Asterixchips.JPGs]]
+s]]
 
 -   The first French satellite, which was launched in 1965, was named _Astérix-1_ in honour of Asterix. Asteroids 29401 Asterix and 29402 Obelix were also named in honour of the characters. Coincidentally, the word Asterix/Asterisk originates from the Greek for _Little Star_.
 -   During the campaign for Paris to host the 1992 Summer Olympics, Asterix appeared in many posters over the Eiffel Tower.

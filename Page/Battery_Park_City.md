@@ -19,8 +19,6 @@ Battery Park City is part of Manhattan Community District 1 and its primary ZIP 
 
 Geography
 
-Battery_Park_City_007.JPG
-
 Battery Park City is bounded on the east by West Street, which separates the area from the Financial District of Lower Manhattan. To the west, north, and south, the area is surrounded by the Hudson River.
 
 The development consists of roughly five major sections. Traveling north to south, the first neighborhood has high-rise residential buildings, the Stuyvesant High School, a Regal Entertainment Group movie theater, and the Battery Park City branch of the New York Public Library. It is also the site of the 463-suite Conrad New York luxury hotel, which contains restaurants and bars such as the Loopy Doopy Rooftop Bar, ATRIO Wine Bar Restaurant, Mexican-themed El Vez, and three Danny Meyer-branded restaurants (North End Grill, Blue Smoke, Shake Shack); the hotel has a ballroom and a conference center.[7] Other restaurants located in that hotel, as well as a DSW store and a New York Sports Club branch, were closed in 2009 after the takeover of the property by Goldman Sachs. Former undeveloped lots in the area have been developed into high-rise buildings; for example, Goldman Sachs built a new headquarters at 200 West Street.
@@ -34,7 +32,7 @@ History
 
 Site and formation
 
-CONSTRUCTION_BEGINS_ON_THE_BATTERY_PARK_DEVELOPMENT_ACROSS_FROM_THE_WORLD_TRADE_BUILDINGS_ON_THE_HUDSON_RIVER_-_NARA_-_549309.jpg Throughout the 19th century and early 20th century, the area adjoining today's Battery Park City was known as Little Syria with Lebanese, Greeks, Armenians, and other ethnic groups. In 1929, the land was the proposed site of a $50,000,000 residential development that would have served workers in the Wall Street area.[9] The Battery Tower project was left unfinished after workers digging the foundation ran into forty feet of old bulkheads, sunken docks, and ships.[10] Construction was halted and never restarted.
+Throughout the 19th century and early 20th century, the area adjoining today's Battery Park City was known as Little Syria with Lebanese, Greeks, Armenians, and other ethnic groups. In 1929, the land was the proposed site of a $50,000,000 residential development that would have served workers in the Wall Street area.[9] The Battery Tower project was left unfinished after workers digging the foundation ran into forty feet of old bulkheads, sunken docks, and ships.[10] Construction was halted and never restarted.
 
 By the late 1950s, the once-prosperous port area of downtown Manhattan was occupied by a number of dilapidated shipping piers, casualties of the rise of container shipping which drove sea traffic to Port Elizabeth, New Jersey. The initial proposal to reclaim this area through landfill was offered in the early 1960s by private firms and supported by the mayor. That plan became complicated when Governor Nelson Rockefeller announced his desire to redevelop a part of the area as a separate project. The various groups reached a compromise, and in 1966 the governor unveiled the proposal for what would become Battery Park City. The creation of architect Wallace K. Harrison, the proposal called for a 'comprehensive community' consisting of housing, social infrastructure and light industry. The landscaping of the park space and later the Winter Garden was designed by M. Paul Friedberg.
 
@@ -44,15 +42,13 @@ Landfill material from construction of the World Trade Center was used to add fi
 
 The design of BPC to some degree reflects the values of vibrant city neighborhoods championed by Jane Jacobs. The Urban Land Institute (ULI) awarded the Battery Park City Master Plan its 2010 Heritage Award, for having "facilitated the private development of 9.3 million square feet of commercial space, 7.2 million square feet of residential space, and nearly 36 acres of open space in lower Manhattan, becoming a model for successful large-scale planning efforts and marking a positive shift away from the urban renewal mindset of the time."[25]
 
-Battery_Park_City_003.JPG
-
 Construction and early development
 
 During the late 1970s and early 1980s, the site hosted Creative Time's landmark Art on the Beach sculpture exhibitions. On September 23, 1979, the landfill was the site of an anti-nuclear rally attended by 200,000 people.[26]
 
 Construction began on the first residential building in June 1980.[27] In April 1981, the New York State Urban Development Corporation (now the Empire State Development Corporation) issued a request for proposal, ultimately selecting six real-estate companies to develop over 1,800 residential units.[28] The same year, the World Financial Center started construction; Olympia and York of Toronto was named as the developer for the World Financial Center, who then hired Cesar Pelli as the lead architect. By 1985, construction was completed and the World Financial Center (later renamed Brookfield Place New York) saw its first tenants.[29] The newly completed development was lauded by _The New York Times_ as "a triumph of urban design,"[30] with the World Financial Center being deemed "a symbol of change."[31]
 
-Battery_Park_City_North_Cove.jpg]] During early construction, two acres of land in the southern section of the Battery Park landfill was used by artist Agnes Denes to plant wheat in an exhibition titled _Wheatfield - A Confrontation_.[32] The project was a visual contradiction: a golden field of wheat set among the steel skyscrapers of downtown Manhattan.[33] It was created during a six-month period in the spring, summer, and fall of 1982 when Denes, with the support of the Public Art Fund, planted the field of wheat on rubble-strewn land near Wall Street and the World Trade Center site. Denes stated that her "decision to plant a wheatfield in Manhattan, instead of designing just another public sculpture, grew out of a long-standing concern and need to call attention to our misplaced priorities and deteriorating human values."[34]
+]] During early construction, two acres of land in the southern section of the Battery Park landfill was used by artist Agnes Denes to plant wheat in an exhibition titled _Wheatfield - A Confrontation_.[32] The project was a visual contradiction: a golden field of wheat set among the steel skyscrapers of downtown Manhattan.[33] It was created during a six-month period in the spring, summer, and fall of 1982 when Denes, with the support of the Public Art Fund, planted the field of wheat on rubble-strewn land near Wall Street and the World Trade Center site. Denes stated that her "decision to plant a wheatfield in Manhattan, instead of designing just another public sculpture, grew out of a long-standing concern and need to call attention to our misplaced priorities and deteriorating human values."[34]
 
 Throughout the 1980s, the BPCA oversaw a great deal of construction, including the entire Rector Place neighborhood and the river esplanade. It was during that period that Amanda Burden, later City Planning Department Director in the Bloomberg administration, worked on Battery Park City. During the 1980s, a total of 13 buildings were constructed. The Vietnam Veterans Plaza was established by Edward I. Koch in 1985.[35] In the early 1990s, Battery Park City became the new home of the Stuyvesant High School. During the 1990s, an additional six buildings were added to the neighborhood. By the turn of the 21st century, Battery Park City was mostly completed, with the exception of some ongoing construction on West Street.
 
@@ -109,8 +105,6 @@ Residential
 
 The first residential building in Battery Park City, Gateway Plaza, was completed in 1983.[72] , the population of the area was 13,386. Some of the more prominent residential buildings include:
 
-NY_battery_park_city.jpg
-
 -   MILLENNIUM POINT, a , 38-story skyscraper built from 1999 to 2001.[73] It occupies the street addresses 25–39 Battery Place.[74] However, due to the September 11 attacks which hit the nearby World Trade Center, opening of Millennium Point was delayed until January 2002.[75] The building won the 2001 Silver Emporis Skyscraper Award.[76] The tower section contains 113 luxury condominiums.[77] The wider, lower 12 floors are occupied by a 5-star hotel, The Ritz-Carlton Battery Park. The hotel has 298 rooms, including 44 suites, with the largest suite spanning in area.[78] The Skyscraper Museum occupies a small space on the first floor of the building. A restaurant is located on the 14th floor.
 -   THE SOLAIRE, the first green residential building in the United States, as well as the first residential high-rise building in New York City to be certified by the U.S. Green Building Council.[79] Designed by Pelli Clarke Pelli and completed in 2003, it has been described as an "environmentally-progressive residential tower".[80] The Solaire is located at 20 River Terrace. The developer received funding from the State of New York, which was somewhat controversial as the developer was only required to agree to set aside 10% of the units as "affordable housing" or "moderate income", rather than the usual 80:20 agreement. When the building opened, rents ranged from roughly $2,500 to $9,001 depending on the size of the unit. The building has been rated LEED Platinum. The energy conserving building design is 35% more energy-efficient than code requires, resulting in a 67% lower electricity demand during peak hours, resulting in, among other benefits, lower electric bills for residents. Photovoltaic panels convert sunlight to electricity, supplemented by a computerized building management system and environmentally responsible operating and maintenance practices to further reduce the building's environmental impact.
 
@@ -152,7 +146,7 @@ Other residential apartments include:[82]
 
 Office
 
-World_Financial_Center_2006.jpg Battery Park City, which is mainly residential, also has a few office buildings. The seven buildings in the Brookfield Place complex, as well as 200 West Street, are the neighborhood's only office buildings.
+Battery Park City, which is mainly residential, also has a few office buildings. The seven buildings in the Brookfield Place complex, as well as 200 West Street, are the neighborhood's only office buildings.
 
  Brookfield Place complex
 
@@ -164,7 +158,7 @@ The building's original developer was Olympia and York of Toronto, Ontario. It u
 
 200 West Street
 
-Goldman_Sachs_Tower_200_West_Street_Battery_Park_City.jpg 200 West Street is the location of the global headquarters of Goldman Sachs, an investment banking firm. A , 44-story building located on the west side of West Street between Vesey and Murray Streets, it is north of Brookfield Place and the Conrad Hotels, across the street from the Verizon Building, and diagonally opposite the World Trade Center. It is distinctive for being the only office building in the northern section of Battery Park City.[85] It started construction in 2005 and opened in 2009.[86]
+200 West Street is the location of the global headquarters of Goldman Sachs, an investment banking firm. A , 44-story building located on the west side of West Street between Vesey and Murray Streets, it is north of Brookfield Place and the Conrad Hotels, across the street from the Verizon Building, and diagonally opposite the World Trade Center. It is distinctive for being the only office building in the northern section of Battery Park City.[85] It started construction in 2005 and opened in 2009.[86]
 
 
 Police and crime
@@ -203,7 +197,7 @@ Battery Park City and Lower Manhattan's rate of elementary school student absent
 
 Schools
 
-Stuy_HS_sunny_jeh.JPG The New York City Department of Education operates the following public schools in Battery Park City:[110]
+The New York City Department of Education operates the following public schools in Battery Park City:[110]
 
 -   P.S. 89[111]
 -   I.S. 289[112]
@@ -214,7 +208,7 @@ Library
 
 Battery Park City has a New York Public Library branch at 175 North End Avenue, designed by 1100 Architect and completed in 2010.[115] A , two-story library on the street level of a high-rise residential building,[116] it utilizes several sustainable design features, earning it LEED Gold certification.[117]
 
-NYPL_Murray_St_BPC_evacuation_drill_jeh.jpg branch]]
+branch]]
 
 Sustainability was a driving factor in the design of the library including use of an energy-efficient lighting system, maximization of natural lighting, and use of recycled materials.[118] 1100 Architect, in collaboration with Atelier Ten, an international team of environmental design consultants and building services engineers, designed the library’s energy-efficient lighting system.[119] The open plan layout and large use of glass allow for ample natural daylight year-round and low-energy LED light illuminates communal spaces.[120] Recycled materials are incorporated into the design including carpet made from re-purposed truck tires, floors made from reclaimed window frame wood, and furniture made from FSC-certified plywood and recycled steel.[121] Design features include a seemingly "floating" origami-style ceiling made up of triangular panels hung at varying angles and a padded reading nook fitted into the library's terrazzo-finished steel and concrete staircase.[122] The interior uses an easy-to-navigate layout with its three distinct spatial areas of entry area, first floor space, and mezzanine visually unified through the ceiling.[123]
 
@@ -232,7 +226,7 @@ The Battery Park City Ferry Terminal is at the foot of Vesey Street opposite the
 
 Parks and open spaces
 
-Battery_Park_Panorama2.jpg HungerMemorialNumber6.JPG]] Museum_of_Jewish_Heritage_004.JPG from the Hudson River]] More than one-third of the neighborhood is parkland.[131]
+]] from the Hudson River]] More than one-third of the neighborhood is parkland.[131]
 
 Some large open spaces and parks include:
 

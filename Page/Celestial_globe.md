@@ -1,4 +1,4 @@
-Celestial_globe_with_clockwork_MET_DP237685.jpg; Metropolitan Museum of Art (New York City)]] Celestial_globe_MET_DP-12901-001.jpg; Metropolitan Museum of Art]]
+; Metropolitan Museum of Art (New York City)]] ; Metropolitan Museum of Art]]
 
 CELESTIAL GLOBES show the apparent positions of the stars in the sky. They omit the Sun, Moon, and planets because the positions of these bodies vary relative to those of the stars, but the ecliptic, along which the Sun moves, is indicated.
 

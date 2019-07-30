@@ -64,11 +64,9 @@ In 2015, according to _The New York Times_ and others, oil companies knew that b
 
 Scientific consensus
 
-Climate_science_opinion_graph_3Path.svg to see a more detailed summary of the sources.]] Cook_et_al._(2016)_Studies_consensus.jpg,[59] Peter Doran,[60] William Anderegg,[61] Bart Verheggen,[62] Neil Stenhouse,[63] J. Stuart Carlton,[64] and John Cook.[65][66]]] Anthropogenic_global_warming_rejection_2013–14.svg
+to see a more detailed summary of the sources.]] ,[59] Peter Doran,[60] William Anderegg,[61] Bart Verheggen,[62] Neil Stenhouse,[63] J. Stuart Carlton,[64] and John Cook.[65][66]]]
 
 The finding that the climate has warmed in recent decades and that human activities are producing global climate change has been endorsed by every national science academy that has issued a statement on climate change, including the science academies of all of the major industrialized countries.[67]
-
-Climate_Change_Attribution.png
 
 Attribution of recent climate change discusses how global warming is attributed to anthropogenic greenhouse gases (GHGs).
 
@@ -126,7 +124,7 @@ As noted above, climate models are only able to simulate the temperature record 
 
 The "standard" set of scenarios for future atmospheric greenhouse gases are the IPCC SRES scenarios. The purpose of the range of scenarios is not to predict what exact course the future of emissions will take, but what it may take under a range of possible population, economic and societal trends.[110] Climate models can be run using any of the scenarios as inputs to illustrate the different outcomes for climate change. No one scenario is officially preferred, but in practice the "A1b" scenario roughly corresponding to 1%/year growth in atmospheric is often used for modelling studies.
 
-There is debate about the various scenarios for fossil fuel consumption. Global warming skeptic Fred Singer stated "some good experts believe" that atmospheric concentration will not double since economies are becoming less reliant on carbon.[111] M15-162b-EarthAtmosphere-CarbonDioxide-FutureRoleInGlobalWarming-Simulation-20151109.jpg in Earth's atmosphere if _half_ of global-warming emissions are _not_ absorbed.[112][113][114][115]
+There is debate about the various scenarios for fossil fuel consumption. Global warming skeptic Fred Singer stated "some good experts believe" that atmospheric concentration will not double since economies are becoming less reliant on carbon.[111] in Earth's atmosphere if _half_ of global-warming emissions are _not_ absorbed.[112][113][114][115]
 (NASA computer simulation).]] However, the Stern report,[116] like many other reports, notes the past correlation between emissions and economic growth and then extrapolates using a "business as usual" scenario to predict GDP growth and hence levels, concluding that:
 
   Increasing scarcity of fossil fuels alone will not stop emissions growth in time. The stocks of hydrocarbons that are profitable to extract are more than enough to take the world to levels of well beyond 750 ppm with very dangerous consequences for climate change impacts.
@@ -157,7 +155,7 @@ Analysis of temperature records
 
 Instrumental record of surface temperature
 
-Holocene_Temperature_Variations.png Enso-global-temp-anomalies.png graph of Global Annual Temperature Anomalies 1950–2012]] There have been attempts to raise public controversy over the accuracy of the instrumental temperature record on the basis of the urban heat island effect, the quality of the surface station network, and assertions that there have been unwarranted adjustments to the temperature record.[132][133][134]
+graph of Global Annual Temperature Anomalies 1950–2012]] There have been attempts to raise public controversy over the accuracy of the instrumental temperature record on the basis of the urban heat island effect, the quality of the surface station network, and assertions that there have been unwarranted adjustments to the temperature record.[132][133][134]
 
 Weather stations that are used to compute global temperature records are not evenly distributed over the planet, and their distribution has changed over time. There were a small number of weather stations in the 1850s, and the number didn't reach the current 3000+ until the 1951 to 1990 period[135]
 
@@ -175,7 +173,7 @@ General circulation models and basic physical considerations predict that in the
 
 Antarctica cooling
 
-Antarctic_Temperature_Trend_1981-2007.jpg There has been a public dispute regarding the apparent contradiction in the observed behavior of Antarctica, as opposed to the global rise in temperatures measured elsewhere in the world. This became part of the public debate in the global warming controversy, particularly between advocacy groups of both sides in the public arena, as well as the popular media.[151][152][153][154][155][156][157][158]
+There has been a public dispute regarding the apparent contradiction in the observed behavior of Antarctica, as opposed to the global rise in temperatures measured elsewhere in the world. This became part of the public debate in the global warming controversy, particularly between advocacy groups of both sides in the public arena, as well as the popular media.[151][152][153][154][155][156][157][158]
 
 In contrast to the popular press, there is no evidence of a corresponding controversy in the scientific community. Observations unambiguously show the Antarctic Peninsula to be warming. The trends elsewhere show both warming and cooling but are smaller and dependent on season and the timespan over which the trend is computed.[159] A study released in 2009, combined historical weather station data with satellite measurements to deduce past temperatures over large regions of the continent, and these temperatures indicate an overall warming trend. One of the paper's authors stated "We now see warming is taking place on all seven of the earth's continents in accord with what models predict as a response to greenhouse gases."[160] According to 2011 paper by Ding, et al., "The Pacific sector of Antarctica, including both the Antarctic Peninsula and continental West Antarctica, has experienced substantial warming in the past 30 years."[161][162]
 
@@ -199,11 +197,11 @@ Other analyses have found that the iris effect is a _positive_ feedback rather t
 
 Temperature projections
 
-GISTEMPvsHansen1988.png's 1988 climate model projections compared with the GISS measured temperature record[186]]] GISTEMPvsIPCC1990.png James Hansen's 1984 climate model projections versus observed temperatures are updated each year by Dr Mikako Sato of Columbia University.[187] The RealClimate website provides an annual update comparing both Hansen's 1988 model projections and the IPCC Fourth Assessment Report (AR4) climate model projections with observed temperatures recorded by GISS and HadCRUT. The measured temperatures show continuing global warming.[188]
+'s 1988 climate model projections compared with the GISS measured temperature record[186]]] James Hansen's 1984 climate model projections versus observed temperatures are updated each year by Dr Mikako Sato of Columbia University.[187] The RealClimate website provides an annual update comparing both Hansen's 1988 model projections and the IPCC Fourth Assessment Report (AR4) climate model projections with observed temperatures recorded by GISS and HadCRUT. The measured temperatures show continuing global warming.[188]
 
 Conventional projections of future temperature rises depend on estimates of future anthropogenic GHG emissions (see SRES), those positive and negative climate change feedbacks that have so far been incorporated into the models, and the climate sensitivity. Models referenced by the Intergovernmental Panel on Climate Change (IPCC) predict that global temperatures are likely to increase by 1.1 to 6.4 °C (2.0 to 11.5 °F) between 1990 and 2100. Others have proposed that temperature increases may be higher than IPCC estimates. One theory is that the climate may reach a "tipping point" where positive feedback effects lead to runaway global warming; such feedbacks include decreased reflection of solar radiation as sea ice melts, exposing darker seawater, and the potential release of large volumes of methane from thawing permafrost.[189] In 1959, Dr. Bert Bolin, in a speech to the National Academy of Sciences, predicted that by the year 2000, there would be a 25% increase in carbon dioxide in the atmosphere compared to the levels in 1859. The actual increase by 2000 was about 29%.[190]
 
-David Orrell or Henk Tennekes[191] say that climate change cannot be accurately predicted. Orrell says that the range of future increase in temperature suggested by the IPCC rather represents a social consensus in the climate community, but adds "we are having a dangerous effect on the climate".[192] Global_Temperature_Anomaly.svg A 2007 study by David Douglass and coworkers, concluded that the 22 most commonly used global climate models used by the IPCC were unable to accurately predict accelerated warming in the troposphere although they did match actual surface warming, concluding "projections of future climate based on these models should be viewed with much caution". This result went against a similar study of 19 models which found that discrepancies between model predictions and actual temperature were likely due to measurement errors.[193]
+David Orrell or Henk Tennekes[191] say that climate change cannot be accurately predicted. Orrell says that the range of future increase in temperature suggested by the IPCC rather represents a social consensus in the climate community, but adds "we are having a dangerous effect on the climate".[192] A 2007 study by David Douglass and coworkers, concluded that the 22 most commonly used global climate models used by the IPCC were unable to accurately predict accelerated warming in the troposphere although they did match actual surface warming, concluding "projections of future climate based on these models should be viewed with much caution". This result went against a similar study of 19 models which found that discrepancies between model predictions and actual temperature were likely due to measurement errors.[193]
 
 In a NASA report published in January 2013, Hansen and Sato noted "the 5-year mean global temperature has been flat for a decade, which we interpret as a combination of natural variability and a slowdown in the growth rate of the net climate forcing."[194][195] Ed Hawkins, of the University of Reading,[196] stated that the "surface temperatures since 2005 are already at the low end of the range of projections derived from 20 climate models. If they remain flat, they will fall outside the models' range within a few years."[197][198] Using the long-term temperature trends for the earth scientists and statisticians conclude that it continues to warm through time.[199]
 
@@ -238,7 +236,7 @@ Barton was given support by global warming sceptic Myron Ebell of the Competitiv
 
 Political questions
 
-H&WWonWashMon.png illuminated with a message from Greenpeace criticizing American environmental policy]]
+illuminated with a message from Greenpeace criticizing American environmental policy]]
 
 In the U.S. global warming is often a partisan political issue.[225] Republicans tend to oppose action against a threat that they regard as unproven, while Democrats tend to support actions that they believe will reduce global warming and its effects through the control of greenhouse gas emissions.[226] Climatologist Kevin E. Trenberth stated:
 

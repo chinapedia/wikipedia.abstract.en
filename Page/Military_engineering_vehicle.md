@@ -1,4 +1,4 @@
-20060714_defile_blindes_p1040887.jpg tank, is used by the engineers of the French Army for a variety of missions.]] Counter_Obstacle_Vehicle_BAT-M_on_permanent_display_in_the_courtyard_of_Military-historical_Museum_of_Artillery,_Engineer_and_Signal_Corps_in_Saint-Petersburg,_Russia.jpg and the former Soviet Union]]
+tank, is used by the engineers of the French Army for a variety of missions.]] and the former Soviet Union]]
 
 A MILITARY ENGINEERING VEHICLE is a vehicle built for the construction work or for the transportation of combat engineers on the battlefield. These vehicles may be modified civilian equipment (such as the armoured bulldozers that many nations field) or purpose-built military vehicles (such as the AVRE). The first appearance of such vehicles coinsided with the appearance of the first tanks, these vehicles were modified Mark V tanks for bridging and mine clearance. Modern _military engineering vehicles_ are expected to fulfil numerous roles, as such they undertake numerous forms, examples of roles include; Bulldozers, cranes, graders, excavators, dump trucks, Breaching vehicles, Bridging vehicles, Military ferries, amphibious crossing vehicles, and Combat Engineer Section Carriers.
 
@@ -14,8 +14,6 @@ A Heavy RE tank was developed shortly after World War I by Major Giffard LeQuesn
 Between the wars various experimental bridging tanks were used to test a series of methods for bridging obstacles and developed by the Experimental Bridging Establishment (EBE). Captain SG Galpin RE conceived a prototype Light Tank Mk V to test the Scissors Assault Bridge. This concept was realised by Captain SA Stewart RE with significant input from a Mr DM Delany, a scientific civil servant in the employ of the EBE. MB Wild & Co, Birmingham, also developed a bridge that could span gaps of 26 feet using a complex system of steel wire ropes and a travelling jib, where the front section was projected and then attached to the rear section prior to launching the bridge. This system had to be abandoned due to lack of success in getting it to work, however the idea was later used successfully on the Beaver Bridge Laying Tank.[2][3]
 
 Early World War Two
-
-The_British_Army_in_Italy_1945_NA23553.jpg
 
 Once World War Two had begun, the development of armoured vehicles for use by engineers in the field was accelerated under Delaney's direction. The EBE rapidly developed an assault bridge carried on a modified Covenanter tank capable of deploying a 24-ton tracked load capacity bridge (Class 24) that could span gaps of 30 feet. However, it did not see service in the British armed forces, and all vehicles were passed onto Allied forces such as Australia and Czechoslovakia.[4][5]
 
@@ -44,7 +42,7 @@ Types
 
 Civilian and militarized heavy equipment
 
-Flickr_-_Israel_Defense_Forces_-_D9s_Hold_Drill_Near_Gaza_Border_(1).jpgR armored bulldozers carry out earthworks. Their heavy armor is developed and manufactured in Israel jointly by the Israel Defense Forces and Israeli defense industries.]] Military engineering can employ a wide variety of heavy equipment in the same or similar ways to how this equipment is used outside the military. Bulldozers, cranes, graders, excavators, dump trucks, loaders, and backhoes all see extensive use by military engineers.
+R armored bulldozers carry out earthworks. Their heavy armor is developed and manufactured in Israel jointly by the Israel Defense Forces and Israeli defense industries.]] Military engineering can employ a wide variety of heavy equipment in the same or similar ways to how this equipment is used outside the military. Bulldozers, cranes, graders, excavators, dump trucks, loaders, and backhoes all see extensive use by military engineers.
 
 Military engineers may also use civilian heavy equipment which was modified for military applications. Typically, this involves adding armour for protection from battlefield hazards such as artillery, unexploded ordnance, mines, and small arms fire. Often this protection is provided by armour plates and steel jackets. Some examples of armoured civilian heavy equipment are the IDF Caterpillar D9, American D7 TPK, Canadian D6 armoured bulldozer, cranes, graders, excavators, and M35 2-1/2 ton cargo truck.
 
@@ -54,7 +52,7 @@ _The main article for civilian heavy equipment is:_ Heavy equipment (constructio
 
 Armoured engineering vehicle
 
-Pionierpanzer_Dachs_(2008).jpg (2008)]] ILÜ_2012_-_Panzer_Keiler.jpg Rheinmetall Keiler. It uses a heavy-duty rotor-powered mine flail, which causes mines it comes in contact with to safely detonate.]] Typically based on the platform of a main battle tank, these vehicles go by different names depending upon the country of use or manufacture. In the US the term "combat engineer vehicle (CEV)" is used, in the UK the term "Armoured Vehicle Royal Engineers (AVRE)" is used, while in Canada and other commonwealth nations the term "armoured engineer vehicle (AEV)" is used. There is no set template for what such a vehicle will look like, yet likely features include a large dozer blade or mine ploughs, a large calibre demolition cannon, augers, winches, excavator arms and cranes or lifting booms.
+(2008)]] Rheinmetall Keiler. It uses a heavy-duty rotor-powered mine flail, which causes mines it comes in contact with to safely detonate.]] Typically based on the platform of a main battle tank, these vehicles go by different names depending upon the country of use or manufacture. In the US the term "combat engineer vehicle (CEV)" is used, in the UK the term "Armoured Vehicle Royal Engineers (AVRE)" is used, while in Canada and other commonwealth nations the term "armoured engineer vehicle (AEV)" is used. There is no set template for what such a vehicle will look like, yet likely features include a large dozer blade or mine ploughs, a large calibre demolition cannon, augers, winches, excavator arms and cranes or lifting booms.
 
 These vehicles are designed to directly conduct obstacle breaching operations and to conduct other earth-moving and engineering work on the battlefield. Good examples of this type of vehicle include the UK Trojan AVRE, the Russian IMR, and the US M728 Combat Engineer Vehicle. Although the term "armoured engineer vehicle" is used specifically to describe these multi-purpose tank based engineering vehicles, that term is also used more generically in British and Commonwealth militaries to describe all heavy tank based engineering vehicles used in the support of mechanized forces. Thus, "armoured engineer vehicle" used generically would refer to AEV, AVLB, Assault Breachers, and so on.
 
@@ -64,13 +62,13 @@ Lighter and less multi-functional than the CEVs or AEVs described above, these v
 
 Breaching vehicle
 
-M1_Assault_Breacher_Vehicle.jpg from an Assault Breacher Vehicle.]] These vehicles are equipped with mechanical or other means for the breaching of man made obstacles. Common types of breaching vehicles include mechanical flails, mine plough vehicles, and mine roller vehicles. In some cases, these vehicles will also mount Mine-clearing line charges. Breaching vehicles may be either converted armoured fighting vehicles or purpose built vehicles. In larger militaries, converted AFV are likely to be used as _assault breachers_ while the breached obstacle is still covered by enemy observation and fire, and then purpose built breaching vehicles will create additional lanes for following forces.
+from an Assault Breacher Vehicle.]] These vehicles are equipped with mechanical or other means for the breaching of man made obstacles. Common types of breaching vehicles include mechanical flails, mine plough vehicles, and mine roller vehicles. In some cases, these vehicles will also mount Mine-clearing line charges. Breaching vehicles may be either converted armoured fighting vehicles or purpose built vehicles. In larger militaries, converted AFV are likely to be used as _assault breachers_ while the breached obstacle is still covered by enemy observation and fire, and then purpose built breaching vehicles will create additional lanes for following forces.
 
 Good examples of breaching vehicles include the USMC M1 Assault Breacher Vehicle, the UK Aardvark JSFU, and the Singaporean Trailblazer.
 
 Bridging vehicles
 
-M104_HAB.jpg Heavy Assault Bridge]] Several types of military bridging vehicles have been developed. An armoured vehicle-launched bridge (AVLB) is typically a modified tank hull converted to carry a bridge into battle in order to support crossing ditches, small waterways, or other gap obstacles.
+Heavy Assault Bridge]] Several types of military bridging vehicles have been developed. An armoured vehicle-launched bridge (AVLB) is typically a modified tank hull converted to carry a bridge into battle in order to support crossing ditches, small waterways, or other gap obstacles.
 
 Another type of bridging vehicle is the truck launched bridge. The Soviet TMM bridging truck could carry and launch a 10-meter bridge that could be daisy-chained with other TMM bridges to cross larger obstacles. More recent developments have seen the conversion of AVLB and truck launched bridge with launching systems that can be mounted on either tank or truck for bridges that are capable of supporting heavy main battle tanks.[9]
 
@@ -78,26 +76,24 @@ Earlier examples of bridging vehicles include a type in which a converted tank h
 
 Combat engineer section carriers
 
-Nammer-Handasa_--_Our-IDF-2018-IZE-073_(44815210772).jpg Namer CEV is used both to carry section of sappers and to operate combat engineering devices.]] Stryker_ESV_front_q.jpg (ESV) issued to combat engineer squads in the US Army Stryker Brigade Combat Teams.]] Another type of CEVs are armoured fighting vehicles which are used to transport sappers (combat engineers) and can be fitted with a bulldozer's blade and other mine-breaching devices. They are often used as APCs because of their carrying ability and heavy protection. They are usually armed with machine guns and grenade launchers and usually tracked to provide enough tractive force to push blades and rakes. Some examples are the U.S. M113 APC, IDF Puma, Nagmachon, Husky, and U.S. M1132 ESV (a Stryker variant).
+Namer CEV is used both to carry section of sappers and to operate combat engineering devices.]] (ESV) issued to combat engineer squads in the US Army Stryker Brigade Combat Teams.]] Another type of CEVs are armoured fighting vehicles which are used to transport sappers (combat engineers) and can be fitted with a bulldozer's blade and other mine-breaching devices. They are often used as APCs because of their carrying ability and heavy protection. They are usually armed with machine guns and grenade launchers and usually tracked to provide enough tractive force to push blades and rakes. Some examples are the U.S. M113 APC, IDF Puma, Nagmachon, Husky, and U.S. M1132 ESV (a Stryker variant).
 
 Military ferries and amphibious crossing vehicles
 
-French_army_EFA_DSC00859.jpg, used by the engineers of the French Army, may either be used as a bridge (deployed in a series), or as a ferry ]] One of the major tasks of military engineering is crossing major rivers. Several military engineering vehicles have been developed in various nations to achieve this task. One of the more common types is the amphibious ferry such as the M3 Amphibious Rig. These vehicles are self-propelled on land, they can transform into raft type ferries when in the water, and often multiple vehicles can connect to form larger rafts or floating bridges. Other types of military ferries, such as the Soviet _Plavayushij Transportyor - Srednyj_, are able to load while still on land and transport other vehicles cross country and over water.
+, used by the engineers of the French Army, may either be used as a bridge (deployed in a series), or as a ferry ]] One of the major tasks of military engineering is crossing major rivers. Several military engineering vehicles have been developed in various nations to achieve this task. One of the more common types is the amphibious ferry such as the M3 Amphibious Rig. These vehicles are self-propelled on land, they can transform into raft type ferries when in the water, and often multiple vehicles can connect to form larger rafts or floating bridges. Other types of military ferries, such as the Soviet _Plavayushij Transportyor - Srednyj_, are able to load while still on land and transport other vehicles cross country and over water.
 
 In addition to amphibious crossing vehicles, military engineers may also employ several types of boats. Military assault boats are small boats propelled by oars or an outboard motor and used to ferry dismounted infantry across water.
 
 
 Tank-based combat engineering vehicles
 
-AVRE-Bobbin.jpg Most CEVs are armoured fighting vehicles that may be based on a tank chassis and have special attachments in order to breach obstacles. Such attachments may include dozer blades, mine rollers, cranes etc. An example of an engineering vehicle of this kind is a bridgelaying tank, which replaces the turret with a segmented hydraulic bridge. The Hobart's Funnies of the Second World War were a wide variety of armoured vehicles for combat engineering tasks. They were allocated to the initial beachhead assaults by the British and Commonwealth forces in the D-Day landings
+Most CEVs are armoured fighting vehicles that may be based on a tank chassis and have special attachments in order to breach obstacles. Such attachments may include dozer blades, mine rollers, cranes etc. An example of an engineering vehicle of this kind is a bridgelaying tank, which replaces the turret with a segmented hydraulic bridge. The Hobart's Funnies of the Second World War were a wide variety of armoured vehicles for combat engineering tasks. They were allocated to the initial beachhead assaults by the British and Commonwealth forces in the D-Day landings
 
 Churchill tank
 
 The British Churchill tank because of its good cross-country performance and capacious interior with side hatches became the most adapted with modifications, the base unit being the AVRE carrying a large demolition gun.
 
 M4 Sherman
-
-M4A3-Sherman-105mm-Dozer-latrun-1.jpg
 
 -   DOZER: The bulldozer blade was a valuable battlefield tool on the WWII M4 Sherman tank. A 1943 field modification added the hydraulic dozer blade from a Caterpillar D8 to a Sherman. The later M1 dozer blade was standardized to fit any Sherman with VVSS suspension and the M1A1 would fit the wider HVSS. Some M4s made for the Engineer Corps had the blades fitted permanently and the turrets removed. In the early stages of the 1944 Battle of Normandy before the Culin Cutter, breaking through the Bocage hedgerows relied heavily on Sherman dozers.
 -   M4 DOOZIT: Engineer Corps' Sherman dozer with demolition charge on wooden platform and T40 _Whizbang_ rocket launcher (the _Doozit_ did not see combat but the _Whizbang_ did).
@@ -131,7 +127,7 @@ M4A3-Sherman-105mm-Dozer-latrun-1.jpg
 
 M60
 
-M60-panther-mcgovern-base.jpg, May 16, 1996.]]
+, May 16, 1996.]]
 
 -   M60A1 AVLB - Armored Vehicle Launched Bridge, scissors bridge on M60A1 chassis.
 -   M60 AVLM - Armored Vehicle Launched MICLIC (Mine-Clearing Line Charge), modified M60 AVLB with up to 2 MICLIC mounted over the rear of the vehicle.
@@ -140,8 +136,6 @@ M60-panther-mcgovern-base.jpg, May 16, 1996.]]
     -   M728A1 - Upgraded version of the M728 CEV.
 
 M1
-
-M1_Grizzly_2.jpg
 
 -   M1 Grizzly Combat Mobility Vehicle (CMV)2
 -   M1 Panther II Remote Controlled Mine Clearing Vehicle 3
@@ -160,8 +154,6 @@ Leopard 2
 -   Pionierpanzer 3 Kodiak
 
 T-55/54
-
-An_MTU_tracked_bridge_layer_with_bridge_element_in_Military-historical_Museum_of_Artillery,_Engineer_and_Signal_Corps_in_Saint-Petersburg,_Russia.jpg MTU-20-latrun-2.jpg IMR_combat_engineering_vehicle_in_Odesa.jpg
 
 -   T-54 DOZER - T-54 fitted with bulldozer blades for clearing soil, obstacles and snow.[10]
 -   ALT-55 - Bulldozer version of the T-55 with large flat-plate superstructure, angular concave dozer blade on front and prominent hydraulic rams for dozer blade.[11]
@@ -189,7 +181,7 @@ T-64
 
 T-72
 
-Army2016demo-100.jpgM combat engineering vehicle with the dozer blade stowed in the transport position.]]
+M combat engineering vehicle with the dozer blade stowed in the transport position.]]
 
 -   IMR-2 (_Inzhenernaya Mashina Razgrashdeniya_) - Combat engineering vehicle (CEV). It has a telescoping crane arm which can lift between 5 and 11 metric tons and utilizes a pincers for uprooting trees. Pivoted at the front of the vehicle is a dozer blade that can be used in a V-configuration or as a straight dozer blade. When not required it is raised clear of the ground.[32] On the vehicle's rear, a mine-clearing system is mounted.
     -   IMR-2M1 - Simplified model without the mine-clearing system. Entered service in 1987.

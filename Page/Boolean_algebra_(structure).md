@@ -1,6 +1,6 @@
 In abstract algebra, a BOOLEAN ALGEBRA or BOOLEAN LATTICE is a complemented distributive lattice. This type of algebraic structure captures essential properties of both set operations and logic operations. A Boolean algebra can be seen as a generalization of a power set algebra or a field of sets, or its elements can be viewed as generalized truth values. It is also a special case of a De Morgan algebra and a Kleene algebra (with involution).
 
-Every Boolean algebra gives rise to a Boolean ring, and vice versa, with ring multiplication corresponding to conjunction or meet ∧, and ring addition to exclusive disjunction or symmetric difference (not disjunction ∨). However, the theory of Boolean rings has an inherent asymmetry between the two operators, while the axioms and theorems of Boolean algebra express the symmetry of the theory described by the duality principle.[1] Hasse_diagram_of_powerset_of_3.svg __TOC__
+Every Boolean algebra gives rise to a Boolean ring, and vice versa, with ring multiplication corresponding to conjunction or meet ∧, and ring addition to exclusive disjunction or symmetric difference (not disjunction ∨). However, the theory of Boolean rings has an inherent asymmetry between the two operators, while the axioms and theorems of Boolean algebra express the symmetry of the theory described by the duality principle.[1] __TOC__
 
 
 History
@@ -73,7 +73,7 @@ Examples
 -   Starting with the propositional calculus with κ sentence symbols, form the Lindenbaum algebra (that is, the set of sentences in the propositional calculus modulo logical equivalence). This construction yields a Boolean algebra. It is in fact the free Boolean algebra on κ generators. A truth assignment in propositional calculus is then a Boolean algebra homomorphism from this algebra to the two-element Boolean algebra.
 -   Given any linearly ordered set _L_ with a least element, the interval algebra is the smallest algebra of subsets of _L_ containing all of the half-open intervals [_a_, _b_) such that _a_ is in _L_ and _b_ is either in _L_ or equal to ∞. Interval algebras are useful in the study of Lindenbaum–Tarski algebras; every countable Boolean algebra is isomorphic to an interval algebra.
 
-Lattice_T_30.svg of the Boolean algebra of divisors of 30.]]
+of the Boolean algebra of divisors of 30.]]
 
 -   For any natural number _n_, the set of all positive divisors of _n_, defining _a_≤_b_ if _a_ divides _b_, forms a distributive lattice. This lattice is a Boolean algebra if and only if _n_ is square-free. The bottom and the top element of this Boolean algebra is the natural number 1 and _n_, respectively. The complement of _a_ is given by _n_/_a_. The meet and the join of _a_ and _b_ is given by the greatest common divisor (gcd) and the least common multiple (lcm) of _a_ and _b_, respectively. The ring addition _a_+_b_ is given by lcm(_a_,_b_)/gcd(_a_,_b_). The picture shows an example for _n_ = 30. As a counter-example, considering the non-square-free _n_=60, the greatest common divisor of 30 and its complement 2 would be 2, while it should be the bottom element 1.
 -   Other examples of Boolean algebras arise from topological spaces: if _X_ is a topological space, then the collection of all subsets of _X_ which are both open and closed forms a Boolean algebra with the operations ∨ := ∪ (union) and ∧ := ∩ (intersection).

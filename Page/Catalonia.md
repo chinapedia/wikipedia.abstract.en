@@ -31,7 +31,7 @@ History
 
 Prehistory
 
-Cogul_HBreuil.jpg contain paintings protected as part of the Rock art of the Iberian Mediterranean Basin, a World Heritage Site]] The first known human settlements in what is now Catalonia were at the beginning of the Middle Paleolithic. The oldest known trace of human occupation is a mandible found in Banyoles, described by some sources as pre-Neanderthal some 200,000 years old; other sources suggest it to be only about one third that old.[16] From the next prehistoric era, the Epipalaeolithic or Mesolithic, important remains survive, the greater part dated between 8000 and 5000 BCE, such as those of Sant Gregori (Falset) and el Filador (Margalef de Montsant). The most important sites from these eras, all excavated in the region of Moianès, are the Balma del Gai (Epipaleolithic) and the Balma de l'Espluga (late Epipaleolithic and Early Neolithic).[17]
+contain paintings protected as part of the Rock art of the Iberian Mediterranean Basin, a World Heritage Site]] The first known human settlements in what is now Catalonia were at the beginning of the Middle Paleolithic. The oldest known trace of human occupation is a mandible found in Banyoles, described by some sources as pre-Neanderthal some 200,000 years old; other sources suggest it to be only about one third that old.[16] From the next prehistoric era, the Epipalaeolithic or Mesolithic, important remains survive, the greater part dated between 8000 and 5000 BCE, such as those of Sant Gregori (Falset) and el Filador (Margalef de Montsant). The most important sites from these eras, all excavated in the region of Moianès, are the Balma del Gai (Epipaleolithic) and the Balma de l'Espluga (late Epipaleolithic and Early Neolithic).[17]
 
 The Neolithic era began in Catalonia around 5000 BCE, although the population was slower to develop fixed settlements than in other places, thanks to the abundance of woods, which allowed the continuation of a fundamentally hunter-gatherer culture. An example of such settlements would be La Draga, an "early Neolithic village which dates from the end of the 6th millennium BC."[18]
 
@@ -39,7 +39,7 @@ The Chalcolithic period developed in Catalonia between 2500 and 1800 BCE, with t
 
 Pre-Roman and Roman period
 
-Els_Vilars_—_vista_sud-oest_01.jpg in Arbeca]] Tarragona.Pont_del_diable_aqüeducte.jpg in Tarragona ]] In pre-Roman times, the area that is now called Catalonia in the north-east of Iberian Peninsula – like the rest of the Mediterranean side of the peninsula – was populated by the Iberians. The Iberians of this area – the Ilergetes, Indigetes and Lacetani (Cerretains) – also maintained relations with the peoples of the Mediterranean. Some urban agglomerations became relevant, including Ilerda (Lleida) inland, Hibera (perhaps Amposta or Tortosa) or Indika (Ullastret). Coastal trading colonies were established by the ancient Greeks, who settled around the Gulf of Roses, in Emporion (Empúries) and Roses in the 8th century BC. The Carthaginians briefly ruled the territory in the course of the Second Punic War and traded with the surrounding Iberian population.
+in Arbeca]] in Tarragona ]] In pre-Roman times, the area that is now called Catalonia in the north-east of Iberian Peninsula – like the rest of the Mediterranean side of the peninsula – was populated by the Iberians. The Iberians of this area – the Ilergetes, Indigetes and Lacetani (Cerretains) – also maintained relations with the peoples of the Mediterranean. Some urban agglomerations became relevant, including Ilerda (Lleida) inland, Hibera (perhaps Amposta or Tortosa) or Indika (Ullastret). Coastal trading colonies were established by the ancient Greeks, who settled around the Gulf of Roses, in Emporion (Empúries) and Roses in the 8th century BC. The Carthaginians briefly ruled the territory in the course of the Second Punic War and traded with the surrounding Iberian population.
 
 After the Carthaginian defeat by the Roman Republic, the north-east of Iberia became the first to come under Roman rule and became part of Hispania, the westernmost part of the Roman Empire. Tarraco (modern Tarragona) was one of the most important Roman cities in Hispania and the capital of the province of Tarraconensis. Other important cities of the Roman period are Ilerda (Lleida), Dertosa (Tortosa), Gerunda (Girona) as well as the ports of Empuriæ (former Emporion) and Barcino (Barcelona). As for the rest of Hispania, Latin law was granted to all cities under the reign of Vespasian (69-79 AD), while Roman citizenship was granted to all free men of the empire by the Edict of Caracalla in 212 AD (Tarraco, the capital, was already a colony of Roman law since 45 BC). It was a rich agricultural province (olive oil, vine, wheat), and the first centuries of the Empire saw the construction of roads (the most important being the Via Augusta, parallel to Mediterranean coastline) and infrastructure like aqueducts.
 
@@ -47,9 +47,9 @@ Conversion to Christianity, attested in the 3rd century, was completed in urban 
 
 Middle Ages
 
-Origen_de_l'escut_del_comtat_de_Barcelona_de_Lorenzale.jpg ]] After the fall of the Western Roman Empire, the area was conquered by the Visigoths and was ruled as part of the Visigothic Kingdom for almost two and a half centuries. In 718, it came under Muslim control and became part of Al-Andalus, a province of the Umayyad Caliphate. From the conquest of Roussillon in 760, to the conquest of Barcelona in 801, the Frankish empire took control of the area between Septimania and the Llobregat river from the Muslims and created heavily militarised, self-governing counties. These counties formed part of the Gothic and Hispanic marches, a buffer zone in the south of the Frankish empire in the former province of Septimania and in the northeast of the Iberian Peninsula, to act as a defensive barrier for the Frankish empire against further Muslim invasions from Al-Andalus. Petronila_Ramon_Berenguer.jpg and Ramon Berenguer IV, Count of Barcelona, dynastic union of the Crown of Aragon]] These counties came under the rule of the counts of Barcelona, who were Frankish vassals nominated by the emperor of the Franks, to whom they were feudatories (801–987). The earliest known use of the name "Catalonia" for these counties dates to 1117. During the 9th century, the Count Wifred the Hairy made its title hereditary and founded the dynasty of the House of Barcelona, which ruled Catalonia until 1410.
+]] After the fall of the Western Roman Empire, the area was conquered by the Visigoths and was ruled as part of the Visigothic Kingdom for almost two and a half centuries. In 718, it came under Muslim control and became part of Al-Andalus, a province of the Umayyad Caliphate. From the conquest of Roussillon in 760, to the conquest of Barcelona in 801, the Frankish empire took control of the area between Septimania and the Llobregat river from the Muslims and created heavily militarised, self-governing counties. These counties formed part of the Gothic and Hispanic marches, a buffer zone in the south of the Frankish empire in the former province of Septimania and in the northeast of the Iberian Peninsula, to act as a defensive barrier for the Frankish empire against further Muslim invasions from Al-Andalus. and Ramon Berenguer IV, Count of Barcelona, dynastic union of the Crown of Aragon]] These counties came under the rule of the counts of Barcelona, who were Frankish vassals nominated by the emperor of the Franks, to whom they were feudatories (801–987). The earliest known use of the name "Catalonia" for these counties dates to 1117. During the 9th century, the Count Wifred the Hairy made its title hereditary and founded the dynasty of the House of Barcelona, which ruled Catalonia until 1410.
 
-Hug_IV_Empuries_Pero_Maça_Croada_Mayurqa_1229.jpg Cortes_Catalanas.jpg In 987 Borrell II, Count of Barcelona, did not recognise Hugh Capet as his king, making his successors (from Ramon Borrell I to Ramon Berenguer IV) de facto independent of the Capetian crown whom they regarded as usurpers of the Carolingian Frankish realm.[20] At the start of eleventh century the Catalan Counties suffer an important process of feudalisation, partially controlled by the Peace and Truce Assemblies and by the power and negotiation skills of the Counts of Barcelona like Ramon Berenguer I. In 1137, Ramon Berenguer IV, Count of Barcelona decided to accept King Ramiro II of Aragon's proposal to marry Queen Petronila, establishing the dynastic union of the County of Barcelona with the Kingdom of Aragon, joining the Crown of Aragon and making the Catalan counties that were united under the county of Barcelona into a principality of the Aragonese Crown.
+In 987 Borrell II, Count of Barcelona, did not recognise Hugh Capet as his king, making his successors (from Ramon Borrell I to Ramon Berenguer IV) de facto independent of the Capetian crown whom they regarded as usurpers of the Carolingian Frankish realm.[20] At the start of eleventh century the Catalan Counties suffer an important process of feudalisation, partially controlled by the Peace and Truce Assemblies and by the power and negotiation skills of the Counts of Barcelona like Ramon Berenguer I. In 1137, Ramon Berenguer IV, Count of Barcelona decided to accept King Ramiro II of Aragon's proposal to marry Queen Petronila, establishing the dynastic union of the County of Barcelona with the Kingdom of Aragon, joining the Crown of Aragon and making the Catalan counties that were united under the county of Barcelona into a principality of the Aragonese Crown.
 
 In 1258, by means of the Treaty of Corbeil, the Count of Barcelona and King of Aragon, of Mallorca and of Valencia, James I of Aragon renounced his family rights and dominions in Occitania and recognised the king of France as heir of the Carolingian Dynasty. The king of France formally relinquished his nominal feudal lordship over all the Catalan counties, except the County of Foix, despite the opposition of the king of Aragon and count of Barcelona. This treaty transformed the principality's _de facto_ union with Aragon into a _de jure_ one and was the origin of the definitive separation between the geographical areas of Catalonia and Languedoc.
 
@@ -61,13 +61,13 @@ The domains of the Aragonese Crown were severely affected by the Black Death pan
 
 Modern era
 
-Cataloniae_principatus_1608.jpg (1608)]]
+(1608)]]
 
 Ferdinand II of Aragon, the grandson of Ferdinand I, and Queen Isabella I of Castile were married in 1469, later taking the title the Catholic Monarchs; subsequently, this event was seen by historiographers as the dawn of a unified Spain. At this time, though united by marriage, the Crowns of Castile and Aragon maintained distinct territories, each keeping its own traditional institutions, parliaments, laws and currency.[25] Castile commissioned expeditions to the Americas and benefited from the riches acquired in the Spanish colonisation of the Americas, but, in time, also carried the main burden of military expenses of the united Spanish kingdoms. After Isabella's death, Ferdinand II personally ruled both kingdoms.
 
 By virtue of descent from his maternal grandparents, Ferdinand II of Aragon and Isabella I of Castile, in 1516 Charles I of Spain became the first king to rule the Crowns of Castile and Aragon simultaneously by his own right. Following the death of his paternal (House of Habsburg) grandfather, Maximilian I, Holy Roman Emperor, he was also elected Charles V, Holy Roman Emperor, in 1519.[26]
 
-Els_segadors.jpg'' (7 June 1640), one of the main events of the Reaper's War. Painted in 1910]] Over the next few centuries, the Principality of Catalonia was generally on the losing side of a series of wars that led steadily to more centralization of power in Spain. Despite this fact, between the 16th and 18th centuries, the participation of the political community in the local and the general Catalan government was increased, while the kings remained absent and its constitutional system continued to consolidate. The Reapers' War (1640–1652) saw Catalonia rebel (briefly as a republic led by Pau Claris) with French help against the Spanish Crown for overstepping Catalonia's rights during the Thirty Years' War.[27] Most of Catalonia was reconquered by the Spanish monarchy but Catalan rights were recognised. Roussillon was lost to France by the Peace of the Pyrenees (1659).[28]
+'' (7 June 1640), one of the main events of the Reaper's War. Painted in 1910]] Over the next few centuries, the Principality of Catalonia was generally on the losing side of a series of wars that led steadily to more centralization of power in Spain. Despite this fact, between the 16th and 18th centuries, the participation of the political community in the local and the general Catalan government was increased, while the kings remained absent and its constitutional system continued to consolidate. The Reapers' War (1640–1652) saw Catalonia rebel (briefly as a republic led by Pau Claris) with French help against the Spanish Crown for overstepping Catalonia's rights during the Thirty Years' War.[27] Most of Catalonia was reconquered by the Spanish monarchy but Catalan rights were recognised. Roussillon was lost to France by the Peace of the Pyrenees (1659).[28]
 
 The most significant conflict concerning the governing monarchy was the War of the Spanish Succession, which began when the childless Charles II of Spain, the last Spanish Habsburg, died without an heir in 1700. Charles II had chosen Philip V of Spain from the French House of Bourbon. Catalonia, like other territories that formed the Crown of Aragon, rose up in support of the Austrian Habsburg pretender Charles VI, Holy Roman Emperor, in his claim for the Spanish throne as Charles III of Spain. The fight between the houses of Bourbon and Habsburg for the Spanish Crown split Spain and Europe.
 
@@ -75,13 +75,13 @@ The fall of Barcelona on 11 September 1714 to the Bourbon king Philip V militari
 
 Industrialisation, Republic and autonomy
 
-Cesar_Alvarez_Dumont_-_El_Gran_dia_de_Girona.jpg (1809), Peninsular War against Napoleon]]
+(1809), Peninsular War against Napoleon]]
 
 At the beginning of the nineteenth century Catalonia was severely affected by the Napoleonic Wars. In 1808 it was occupied by the French troops, the resistance against the occupation eventually developed into the Peninsular War. The rejection to French dominion was institutionalized with the creation of "juntas" (councils) who, remaining loyal to the Bourbons, exercised the sovereignty and representation of the territory due to the disappearance of the old institutions. Napoleon took direct control of Catalonia to establish order, creating the Government of Catalonia under the rule of Marshall Augereau, and making Catalan briefly an official language again. Between 1812 and 1814 Catalonia was annexed to France and organized as four départements.[30] The French troops evacuated Catalan territory at the end of 1814. After the Bourbon restoration in Spain and the death of the abolutist king Ferdinand VII, Carlist Wars erupted against the new born liberal state of Isabella II. Catalonia was divided, the coast and most industrialized areas support liberalism, while many inland areas were in the hands of Carlists.
 
-Semana_tragica.jpg, 1909]] In the second third of the 19th century, it became an industrial center. This process was boosted by, amongst other things, national protectionist laws (although the policy of the Spanish government during those times changed many times between free trade and protectionism) and the conditions of proto-industrialization of the prior two centuries of the Catalan urban areas and its countryside. To this day it remains one of the most industrialised areas of Spain. In 1832 it was inaugurated in Barcelona the factory Bonaplata, the first of the country which worked with steam engine. During those years, Barcelona was the focus of important revolutionary uprisings, called "bullangues", causing a difficult relation between many sectors of Catalan society and the central government and, in Catalonia, a republican current began to develop; also, inevitably, many Catalans favored a more federal Spain. Meanwhile, the Catalan language saw a cultural renaissance (the _Renaixença_) at popular and bourgeois level. After the fall of the First Spanish Republic and the restoration of the Bourbon dynasty (1874), Catalan nationalism grew in importance.
+, 1909]] In the second third of the 19th century, it became an industrial center. This process was boosted by, amongst other things, national protectionist laws (although the policy of the Spanish government during those times changed many times between free trade and protectionism) and the conditions of proto-industrialization of the prior two centuries of the Catalan urban areas and its countryside. To this day it remains one of the most industrialised areas of Spain. In 1832 it was inaugurated in Barcelona the factory Bonaplata, the first of the country which worked with steam engine. During those years, Barcelona was the focus of important revolutionary uprisings, called "bullangues", causing a difficult relation between many sectors of Catalan society and the central government and, in Catalonia, a republican current began to develop; also, inevitably, many Catalans favored a more federal Spain. Meanwhile, the Catalan language saw a cultural renaissance (the _Renaixença_) at popular and bourgeois level. After the fall of the First Spanish Republic and the restoration of the Bourbon dynasty (1874), Catalan nationalism grew in importance.
 
-Bundesarchiv_Bild_102-11543,_Madrid,_Ausrufung_der_Zweiten_Spanischen_Republik.jpg on 14 April 1931 in Barcelona]] The Anarchists had been active throughout the early 20th century, founding the CNT trade union and achieving one of the first eight-hour workday in Europe in 1919.[31] Growing resentment of conscription and of the military culminated in the Tragic Week in Barcelona in 1909. In the first third of the 20th century, Catalonia gained and lost varying degrees of autonomy several times. In 1914, the four Catalan provinces were authorized to create a Commonwealth (_Mancomunitat_), without any legislative power or specific autonomy which carried out an ambitious program of modernization, but that was disbanded in 1925 by the dictatorship of Primo de Rivera (1923-1930). During the last steps of the Dictatorship, Barcelona celebrated the 1929 International Exposition,[32] while Spain started to suffer an economical crisis.
+on 14 April 1931 in Barcelona]] The Anarchists had been active throughout the early 20th century, founding the CNT trade union and achieving one of the first eight-hour workday in Europe in 1919.[31] Growing resentment of conscription and of the military culminated in the Tragic Week in Barcelona in 1909. In the first third of the 20th century, Catalonia gained and lost varying degrees of autonomy several times. In 1914, the four Catalan provinces were authorized to create a Commonwealth (_Mancomunitat_), without any legislative power or specific autonomy which carried out an ambitious program of modernization, but that was disbanded in 1925 by the dictatorship of Primo de Rivera (1923-1930). During the last steps of the Dictatorship, Barcelona celebrated the 1929 International Exposition,[32] while Spain started to suffer an economical crisis.
 
 After the fall of the dictator and a brief proclamation of the Catalan Republic,[33] it received its first Statute of Autonomy during the Second Spanish Republic (1931–1939), establishing an autonomous body, the Generalitat of Catalonia, which included a parliament, a government and a court of appeal, and the left-wing independentist leader Francesc Macià was elected its first president. The governments of the Republican Generalitat, led by the Republican Left of Catalonia (ERC) members Francesc Macià (1931-1933) and Lluís Companys (1933-1940) tried to implement an advanced social program, despite the internal difficulties. This period was marked by political unrest, the effects of the economic crisis and their social repercussions. The Statute was suspended in 1934, due to the Events of 6 October in Barcelona, as a response to the accession of right-wing Spanish nationalist party CEDA to the government of the Republic, considered close to fascism.[34] After the electoral victory of the Popular Front in February 1936, the Government of Catalonia was pardoned and the self-government restored.
 
@@ -89,7 +89,7 @@ Spanish Civil War (1936–1939) and Franco's rule (1939–1975)
 
 The defeat of the military rebellion against the Republican government in Barcelona placed Catalonia firmly in the Republican side of the Spanish Civil War. During the war, there were two rival powers in Catalonia: the de jure power of the Generalitat and the de facto power of the armed popular militias.[35] Violent confrontations between the workers' parties (CNT-FAI and POUM against the PSUC) culminated in the defeat of the first ones in 1937. The situation resolved itself progressively in favor of the Generalitat, but at the same time the Generalitat was partially losing its autonomous power within Republican Spain. In 1938 Franco's troops broke the Republican territory in two, isolating Catalonia from the rest of the Republic. The defeat of the Republican army in the Battle of the Ebro led in 1938 and 1939 to the occupation of Catalonia by Franco's forces.
 
-The defeat of the Spanish Republic in the Spanish Civil War brought to power the dictatorship of Francisco Franco, whose first ten-year rule was particularly violent, autocratic, and repressive both in a political, cultural, social, and economical sense.[36] In Catalonia, any kind of public activities associated with Catalan nationalism, republicanism, anarchism, socialism, liberalism, democracy or communism, including the publication of books on those subjects or simply discussion of them in open meetings, was banned. FrancoenReus.jpg in Reus, 1940]] Franco's regime banned the use of Catalan in government-run institutions and during public events, and also the Catalan institutions of self-government were abolished. The pro-Republic of Spain president of Catalonia, Lluís Companys, was taken to Spain from his exile in the German-occupied France, and was tortured and executed in the Montjuïc Castle of Barcelona for the crime of 'military rebellion'.[37]
+The defeat of the Spanish Republic in the Spanish Civil War brought to power the dictatorship of Francisco Franco, whose first ten-year rule was particularly violent, autocratic, and repressive both in a political, cultural, social, and economical sense.[36] In Catalonia, any kind of public activities associated with Catalan nationalism, republicanism, anarchism, socialism, liberalism, democracy or communism, including the publication of books on those subjects or simply discussion of them in open meetings, was banned. in Reus, 1940]] Franco's regime banned the use of Catalan in government-run institutions and during public events, and also the Catalan institutions of self-government were abolished. The pro-Republic of Spain president of Catalonia, Lluís Companys, was taken to Spain from his exile in the German-occupied France, and was tortured and executed in the Montjuïc Castle of Barcelona for the crime of 'military rebellion'.[37]
 
 During later stages of Francoist Spain, certain folkloric and religious celebrations in Catalan resumed and were tolerated. Use of Catalan in the mass media had been forbidden, but was permitted from the early 1950s[38] in the theatre. Despite the ban during the first years and the difficulties of the next period, publishing in Catalan continued throughout his rule.[39]
 
@@ -97,7 +97,7 @@ The years after the war were extremely hard. Catalonia, like many other parts of
 
 Transition and democratic period (1975–present)
 
-Barcelona_AUGUST_1992_the_Olympic_Games_(Juegos_Olímpicos_de_Barcelona_1992)_-_panoramio.jpg of Barcelona during the 1992 Summer Olympics]] After Franco's death in 1975, Catalonia voted for the adoption of a democratic Spanish Constitution in 1978, in which Catalonia recovered political and cultural autonomy, restoring the Generalitat (exiled since the end of the Civil War in 1939) in 1977 and adopting a new Statute of Autonomy in 1979. First election to the Parliament of Catalonia under this Statute gave the Catalan presidency to Jordi Pujol, a position he would hold until 2003. During this time, he also led Convergència i Unió (CiU), a center-right Catalan nationalist electoral coalition. Throughout the 1980s and 1990s, the institutions of Catalan autonomy continued to develop, among them an autonomous police force (_Mossos d'Esquadra_, in 1983),[40] and the broadcasting network Televisió de Catalunya and its first channel TV3, created in 1983.[41] Today, Catalonia is one of the most economically dynamic communities of Spain. The Catalan capital and largest city, Barcelona, is a major international cultural centre and a major tourist destination. In 1992, Barcelona hosted the Summer Olympic Games.
+of Barcelona during the 1992 Summer Olympics]] After Franco's death in 1975, Catalonia voted for the adoption of a democratic Spanish Constitution in 1978, in which Catalonia recovered political and cultural autonomy, restoring the Generalitat (exiled since the end of the Civil War in 1939) in 1977 and adopting a new Statute of Autonomy in 1979. First election to the Parliament of Catalonia under this Statute gave the Catalan presidency to Jordi Pujol, a position he would hold until 2003. During this time, he also led Convergència i Unió (CiU), a center-right Catalan nationalist electoral coalition. Throughout the 1980s and 1990s, the institutions of Catalan autonomy continued to develop, among them an autonomous police force (_Mossos d'Esquadra_, in 1983),[40] and the broadcasting network Televisió de Catalunya and its first channel TV3, created in 1983.[41] Today, Catalonia is one of the most economically dynamic communities of Spain. The Catalan capital and largest city, Barcelona, is a major international cultural centre and a major tourist destination. In 1992, Barcelona hosted the Summer Olympic Games.
 
 In November 2003, elections to the Parliament of Catalonia gave the government to a left-wing catalanist coalition formed by the Socialists' Party of Catalonia (PSC-PSOE), Republican Left of Catalonia (ERC) and Initiative for Catalonia Greens (ICV), and the socialist Pasqual Maragall was appointed President. The new government redacted a new version of the Statute of Autonomy, which consolidated and extended certain aspects of self-government.
 
@@ -114,7 +114,7 @@ Geography
 
 Climate
 
-Climates of Catalonia: The climate of Catalonia is diverse. The populated areas lying by the coast in Tarragona, Barcelona and Girona provinces feature a Hot-summer Mediterranean climate (Köppen _Csa_). The inland part (including the Lleida province and the inner part of Barcelona province) show a mostly Mediterranean climate (Köppen _Csa_). The Pyrenean peaks have a continental (Köppen _D_) or even Alpine climate (Köppen _ET_) at the highest summits, while the valleys have a maritime or oceanic climate sub-type (Köppen _Cfb_).
+The climate of Catalonia is diverse. The populated areas lying by the coast in Tarragona, Barcelona and Girona provinces feature a Hot-summer Mediterranean climate (Köppen _Csa_). The inland part (including the Lleida province and the inner part of Barcelona province) show a mostly Mediterranean climate (Köppen _Csa_). The Pyrenean peaks have a continental (Köppen _D_) or even Alpine climate (Köppen _ET_) at the highest summits, while the valleys have a maritime or oceanic climate sub-type (Köppen _Cfb_).
 
 In the Mediterranean area, summers are dry and hot with sea breezes, and the maximum temperature is around . Winter is cool or slightly cold depending on the location. It snows frequently in the Pyrenees, and it occasionally snows at lower altitudes, even by the coastline. Spring and autumn are typically the rainiest seasons, except for the Pyrenean valleys, where summer is typically stormy.
 
@@ -122,13 +122,13 @@ The inland part of Catalonia is hotter and drier in summer. Temperature may reac
 
 Topography
 
-Catmorfo.png map of Catalonia: ]] Beciberri.JPG in Catalan Pyrenees ]] Catalonia has a marked geographical diversity, considering the relatively small size of its territory. The geography is conditioned by the Mediterranean coast, with of coastline, and large relief units of the Pyrenees to the north. The Catalan territory is divided into three main geomorphological units:[59]
+map of Catalonia: ]] in Catalan Pyrenees ]] Catalonia has a marked geographical diversity, considering the relatively small size of its territory. The geography is conditioned by the Mediterranean coast, with of coastline, and large relief units of the Pyrenees to the north. The Catalan territory is divided into three main geomorphological units:[59]
 
 -   The Pyrenees: mountainous formation that connects the Iberian Peninsula with the European continental territory, and located in the north of Catalonia;
 -   The Catalan Coastal mountain ranges or the Catalan Mediterranean System: an alternating delevacions and planes parallel to the Mediterranean coast;
 -   The Catalan Central Depression: structural unit which forms the eastern sector of the Valley of the Ebro.
 
-2012_Montserrat.jpg and the monastery]] The Catalan Pyrenees represent almost half in length of the Pyrenees, as it extends more than . Traditionally differentiated the Axial Pyrenees (the main part) and the Pre-Pyrenees (southern from the Axial) which are mountainous formations parallel to the main mountain ranges but with lower altitudes, less steep and a different geological formation. The highest mountain of Catalonia, located north of the comarca of Pallars Sobirà is the Pica d'Estats (3,143 m), followed by the Puigpedrós (2,914 m). On the Pre-Pyrenees is located the Serra del Cadí, that separates the valley of Cerdanya from the Central Depression.
+and the monastery]] The Catalan Pyrenees represent almost half in length of the Pyrenees, as it extends more than . Traditionally differentiated the Axial Pyrenees (the main part) and the Pre-Pyrenees (southern from the Axial) which are mountainous formations parallel to the main mountain ranges but with lower altitudes, less steep and a different geological formation. The highest mountain of Catalonia, located north of the comarca of Pallars Sobirà is the Pica d'Estats (3,143 m), followed by the Puigpedrós (2,914 m). On the Pre-Pyrenees is located the Serra del Cadí, that separates the valley of Cerdanya from the Central Depression.
 
 Central Catalan Depression is a plain located between the Pyrenees and Pre-Coastal Mountains. The Depression lands are located between . The plains and the water that descend from the Pyrenees have made it fertile territory for agriculture and there are built numerous irrigation canals. Other important plain is the Empordà, located on the northeast.
 
@@ -136,7 +136,7 @@ The Catalan Mediterranean system is based on two (more or less) parallel ranges 
 
 Flora and fauna
 
-BennyTrapp_Montseny-Gebirgsmolch_Calotriton_arnoldi_Montseny-Gebirge_Spanien.jpg''), endemic to the Montseny Massif]] Catalonia is a showcase of European landscapes on a small scale. Just over hosting a variety of substrates, soils, climates, directions, altitudes and distances to the sea. The area is of great ecological diversity and a remarkable wealth of landscapes, habitats and species.
+''), endemic to the Montseny Massif]] Catalonia is a showcase of European landscapes on a small scale. Just over hosting a variety of substrates, soils, climates, directions, altitudes and distances to the sea. The area is of great ecological diversity and a remarkable wealth of landscapes, habitats and species.
 
 The fauna of Catalonia comprises a minority of animals endemic to the region and a majority of non-native animals. Much of Catalonia enjoys a Mediterranean climate (except mountain areas), which makes many of the animals that live there adapted to Mediterranean ecosystems. Of mammals, there are plentiful wild boar, red foxes, as well as roe deer and in the Pyrenees, the Pyrenean chamois. Other large species such as the bear have been recently reintroduced.
 
@@ -144,7 +144,7 @@ Waters of Balearic Sea are rich in biodiversity, and even the megafaunas of ocea
 
 Hydrography
 
-Aerea_estany_de_banyoles.png ]] Tossa_de_Mar_Buchten_1.JPG, Costa Brava]] Most of Catalonia belongs to the Mediterranean Basin. The Catalan hydrographic network consists of two important basins, the one of the Ebro and the one that comprises the internal basins of Catalonia (respectively covering 46.84% and 51.43% of the territory), all of them flow to the Mediterranean. Furthermore, there is the Garona river basin that flows to the Atlantic Ocean, but it only covers 1.73% of the Catalan territory.
+]] , Costa Brava]] Most of Catalonia belongs to the Mediterranean Basin. The Catalan hydrographic network consists of two important basins, the one of the Ebro and the one that comprises the internal basins of Catalonia (respectively covering 46.84% and 51.43% of the territory), all of them flow to the Mediterranean. Furthermore, there is the Garona river basin that flows to the Atlantic Ocean, but it only covers 1.73% of the Catalan territory.
 
 The hydrographic network can be divided in two sectors, an occidental slope or Ebro river slope and one oriental slope constituted by minor rivers that flow to the Mediterranean along the Catalan coast. The first slope provides an average of per year, while the second only provides an average of /year. The difference is due to the big contribution of the Ebro river, from which the Segre is an important tributary. Moreover, in Catalonia there is a relative wealth of groundwaters, although there is inequality between _comarques_, given the complex geological structure of the territory.[62] In the Pyrenees there are many small lakes, remnants of the ice age. The biggest are the lake of Banyoles and the recently recovered lake of Ivars.
 
@@ -185,7 +185,7 @@ Artur Mas, then the president of Catalonia, organised early elections that took 
 
 Statute of Autonomy
 
-Estatuto_de_Nuria.jpg, 1932]] The Statute of Autonomy of Catalonia is the fundamental organic law, second only to the Spanish Constitution from which the Statute originates.
+, 1932]] The Statute of Autonomy of Catalonia is the fundamental organic law, second only to the Spanish Constitution from which the Statute originates.
 
 In the Spanish Constitution of 1978 Catalonia, along with the Basque Country and Galicia, was defined as a "nationality". The same constitution gave Catalonia the automatic right to autonomy, which resulted in the Statute of Autonomy of Catalonia of 1979.
 
@@ -197,7 +197,7 @@ Spain's Constitutional Court assessed the disputed articles and on 28 June 2010,
 
 Government and law
 
-Parliament_of_Catalunya.JPG, located in Ciutadella park, Barcelona]] The Catalan Statute of Autonomy establishes that Catalonia is organised politically through the Generalitat of Catalonia (in Catalan: ), conformed by the Parliament, the Presidency of the Generalitat, the Government or Executive Council and the other institutions created by the Parliament, among them the Ombudsman (), the Office of Auditors () or the Council for Statutory Guarantees () Casa_generalitat_web.jpg}}, Barcelona, seat of the Government and the Presidency of Catalonia]] Govern_de_Catalunya_primera_reunió_2018.jpg. Quim Torra, President of the Generalitat, is in the background, at the center; Pere Aragonès, the Vice-president, on his right from his point of view]]
+, located in Ciutadella park, Barcelona]] The Catalan Statute of Autonomy establishes that Catalonia is organised politically through the Generalitat of Catalonia (in Catalan: ), conformed by the Parliament, the Presidency of the Generalitat, the Government or Executive Council and the other institutions created by the Parliament, among them the Ombudsman (), the Office of Auditors () or the Council for Statutory Guarantees () }}, Barcelona, seat of the Government and the Presidency of Catalonia]] . Quim Torra, President of the Generalitat, is in the background, at the center; Pere Aragonès, the Vice-president, on his right from his point of view]]
 
 Legislature
 
@@ -220,8 +220,6 @@ Most of the justice system is administered by national judicial institutions, th
 Navarre, the Basque Country and Catalonia are the Spanish communities with the highest degree of autonomy in terms of law enforcement.
 
 Administrative divisions
-
-CatMCVPtoponims.svg
 
 Catalonia is organised territorially into provinces, further subdivided into comarques and municipalities. The 2006 Statute of Autonomy of Catalonia establishes the administrative organisation of three local authorities: vegueries, comarques, and municipalities.
 
@@ -264,13 +262,13 @@ The territorial plan of Catalonia () provided six general functional areas,[100]
 
 Economy
 
-Camps_de_Presseguers_a_Aitona,_Segrià.jpg]] Strand_Santa_Cristina.JPG beach. Tourism plays an important role in the Catalan economy.]] A highly industrialized land, the nominal GDP of Catalonia in 2014 was €200 billion (usually the highest in Spain) and the per capita GDP was €27,000 ($30,000), behind Madrid (€31,000), the Basque Country (€30,000), and Navarre (€28,000).[103] In that year, the GDP growth was 1.4%.[104] In recent years there has been a negative net relocation rate of companies based in Catalonia moving to other autonomous communities of Spain. In 2014, for example, Catalonia lost 987 companies to other parts of Spain (mainly Madrid), gaining 602 new ones from the rest of the country.[105]
+]] beach. Tourism plays an important role in the Catalan economy.]] A highly industrialized land, the nominal GDP of Catalonia in 2014 was €200 billion (usually the highest in Spain) and the per capita GDP was €27,000 ($30,000), behind Madrid (€31,000), the Basque Country (€30,000), and Navarre (€28,000).[103] In that year, the GDP growth was 1.4%.[104] In recent years there has been a negative net relocation rate of companies based in Catalonia moving to other autonomous communities of Spain. In 2014, for example, Catalonia lost 987 companies to other parts of Spain (mainly Madrid), gaining 602 new ones from the rest of the country.[105]
 
 Catalonia's long-term credit rating is BB (Non-Investment Grade) according to Standard & Poor's, Ba2 (Non-Investment Grade) according to Moody's, and BBB- (Low Investment Grade) according to Fitch Ratings.[106][107][108] Catalonia's rating is tied for worst with between 1 and 5 other autonomous communities of Spain, depending on the rating agency.[109]
 
 In the context of the 2008 financial crisis, Catalonia was expected to suffer a recession amounting to almost a 2% contraction of its regional GDP in 2009.[110] Catalonia's debt in 2012 was the highest of all Spain's autonomous communities,[111] reaching €13,476 million, i.e. 38% of the total debt of the 17 autonomous communities,[112] but in recent years its economy recovered a positive evolution and the GDP grew a 3.3% in 2015.[113]
 
-Polígon_Industrial_Aquiberia_-_panoramio.jpg]] Tarragona_Poligon_Nord.png, Tarragona]] Catalonia is amongst country subdivisions with a GDP over US$100 billion and is a member of the Four Motors for Europe organisation.
+]] , Tarragona]] Catalonia is amongst country subdivisions with a GDP over US$100 billion and is a member of the Four Motors for Europe organisation.
 
 The distribution of sectors is as follows:[114]
 
@@ -280,7 +278,7 @@ The distribution of sectors is as follows:[114]
 
 The main tourist destinations in Catalonia are the city of Barcelona, the beaches of the Costa Brava in Girona, the beaches of the Costa del Maresme and Costa del Garraf from Malgrat de Mar to Vilanova i la Geltrú and the Costa Daurada in Tarragona. In the High Pyrenees there are several ski resorts, near Lleida. On 1 November 2012, Catalonia started charging a tourist tax.[115] The revenue is used to promote tourism, and to maintain and upgrade tourism-related infrastructure.
 
-Sabadell_-_Eix_Macià.jpg]] Many savings banks are based in Catalonia, with 10 of the 46 Spanish savings banks having headquarters in the region. This list includes Europe's premier savings bank, La Caixa.[116] The first private bank in Catalonia is Banc Sabadell, ranked fourth among all Spanish private banks.[117]
+]] Many savings banks are based in Catalonia, with 10 of the 46 Spanish savings banks having headquarters in the region. This list includes Europe's premier savings bank, La Caixa.[116] The first private bank in Catalonia is Banc Sabadell, ranked fourth among all Spanish private banks.[117]
 
 The stock market of Barcelona, which in 2016 had a volume of around €152 billion, is the second largest of Spain after Madrid, and Fira de Barcelona organizes international exhibitions and congresses to do with different sectors of the economy.[118]
 
@@ -300,7 +298,7 @@ Transport
 
 Airports
 
-TorreControElPrat.jpg tower]] Airports in Catalonia are owned and operated by Aena (a Spanish Government entity) except two airports in Lleida which are operated by Aeroports de Catalunya (an entity belonging to the Government of Catalonia).
+tower]] Airports in Catalonia are owned and operated by Aena (a Spanish Government entity) except two airports in Lleida which are operated by Aeroports de Catalunya (an entity belonging to the Government of Catalonia).
 
 -   Barcelona El Prat Airport (Aena)
 -   Girona-Costa Brava Airport (Aena)
@@ -317,39 +315,39 @@ The development of these infrastructures, resulting from the topography and hist
 
 Roads
 
-Autopista_C-16.jpg ()]]
+()]]
 
 There are of roads throughout Catalonia.
 
-The principal highways are Spain_traffic_signal_r200.svg () and (). They follow the coast from the French border to Valencia, Murcia and Andalusia. The main roads generally radiate from Barcelona. The Spain_traffic_signal_r200.svg () and () connect inland and onward to Madrid.
+The principal highways are () and (). They follow the coast from the French border to Valencia, Murcia and Andalusia. The main roads generally radiate from Barcelona. The () and () connect inland and onward to Madrid.
 
 Other major roads are:
 
-+-------------------------------+------------------------------+
-| ID                            | Itinerary                    |
-+===============================+==============================+
-|                               | Lleida-La Jonquera           |
-+-------------------------------+------------------------------+
-|                               | Amposta-Àger                 |
-+-------------------------------+------------------------------+
-|                               | Barcelona-Puigcerdà          |
-+-------------------------------+------------------------------+
-| Spain_traffic_signal_r200.svg | Barcelona-Ripoll             |
-+-------------------------------+------------------------------+
-|                               | Cervera-Girona               |
-+-------------------------------+------------------------------+
-|                               | Llançà-Olot                  |
-+-------------------------------+------------------------------+
-| Spain_traffic_signal_r200.svg | El Vendrell-Tordera          |
-+-------------------------------+------------------------------+
-| Spain_traffic_signal_r200.svg | Argentona-La Roca del Vallès |
-+-------------------------------+------------------------------+
++----+------------------------------+
+| ID | Itinerary                    |
++====+==============================+
+|    | Lleida-La Jonquera           |
++----+------------------------------+
+|    | Amposta-Àger                 |
++----+------------------------------+
+|    | Barcelona-Puigcerdà          |
++----+------------------------------+
+|    | Barcelona-Ripoll             |
++----+------------------------------+
+|    | Cervera-Girona               |
++----+------------------------------+
+|    | Llançà-Olot                  |
++----+------------------------------+
+|    | El Vendrell-Tordera          |
++----+------------------------------+
+|    | Argentona-La Roca del Vallès |
++----+------------------------------+
 
 Public-own roads in Catalonia are either managed by the autonomous government of Catalonia (e.g., roads) or the Spanish government (e.g., , , roads).
 
 Railways
 
-RN103007TarJPVL.JPG at Camp de Tarragona ]] Catalonia saw the first railway construction in the Iberian Peninsula in 1848, linking Barcelona with Mataró. Given the topography most lines radiate from Barcelona. The city has both suburban and inter-city services. The main east coast line runs through the province connecting with the SNCF (French Railways) at Portbou on the coast.
+at Camp de Tarragona ]] Catalonia saw the first railway construction in the Iberian Peninsula in 1848, linking Barcelona with Mataró. Given the topography most lines radiate from Barcelona. The city has both suburban and inter-city services. The main east coast line runs through the province connecting with the SNCF (French Railways) at Portbou on the coast.
 
 There are two publicly owned railway companies operating in Catalonia: the Catalan FGC that operates commuter and regional services, and the Spanish national RENFE that operates long-distance and high-speed rail services (AVE and Avant) and the main commuter and regional service , administered by the Catalan government since 2010.
 
@@ -432,7 +430,7 @@ Historically, all the Catalan population was Christian, specifically Catholic, b
 
 Languages
 
-Paisos_catalans.svg-speaking regions of Europe]]
+-speaking regions of Europe]]
 
 According to the linguistic census held by the Government of Catalonia in 2013, Spanish is the most spoken language in Catalonia (46.53% claim Spanish as "their own language"), followed by Catalan (37.26% claim Catalan as "their own language"). In everyday use, 11.95% of the population claim to use both languages equally, whereas 45.92% mainly use Spanish and 35.54% mainly use Catalan. There is a significant difference between the Barcelona metropolitan area (and, to a lesser extent, the Tarragona area), where Spanish is more spoken than Catalan, and the more rural and small town areas, where Catalan clearly prevails over Spanish.[136]
 
@@ -457,7 +455,7 @@ Rural–urban migration originating in other parts of Spain also reduced the soc
 
 After the end of Francoist Spain, the newly established self-governing democratic institutions in Catalonia embarked on a long-term language policy to recover the use of Catalan[147] and has, since 1983, enforced laws which attempt to protect and extend the use of Catalan. This policy, known as the "linguistic normalisation" ( in Catalan, in Spanish) has been supported by the vast majority of Catalan political parties through the last thirty years. Some groups consider these efforts a way to discourage the use of Spanish,[148][149][150][151] whereas some others, including the Catalan government[152] and the European Union[153] consider the policies respectful,[154] or even as an example which "should be disseminated throughout the Union".[155]
 
-Greuges_de_Guitard_Isarn.jpg}} by a century]]Today, Catalan is the main language of the Catalan autonomous government and the other public institutions that fall under its jurisdiction. Basic public education is given basically in Catalan, but also there are some hours per week of Spanish medium instruction. Businesses are required to display all information (e.g. menus, posters) at least in Catalan, under penalty of fines. There is no obligation to display this information in either Occitan or Spanish, although there is no restriction on doing so in these or other languages. The use of fines was introduced in a 1997 linguistic law[156] that aims to increase the public use of Catalan and defend the rights of Catalan speakers. In the other hand, the constitution of Spain obligates every citizen to know Spanish.
+}} by a century]]Today, Catalan is the main language of the Catalan autonomous government and the other public institutions that fall under its jurisdiction. Basic public education is given basically in Catalan, but also there are some hours per week of Spanish medium instruction. Businesses are required to display all information (e.g. menus, posters) at least in Catalan, under penalty of fines. There is no obligation to display this information in either Occitan or Spanish, although there is no restriction on doing so in these or other languages. The use of fines was introduced in a 1997 linguistic law[156] that aims to increase the public use of Catalan and defend the rights of Catalan speakers. In the other hand, the constitution of Spain obligates every citizen to know Spanish.
 
 The law ensures that both Catalan and Spanish – being official languages – can be used by the citizens without prejudice in all public and private activities,.[157] The Generalitat uses Catalan in its communications and notifications addressed to the general population, but citizens can also receive information from the Generalitat in Spanish if they so desire.[158] Debates in the Catalan Parliament take place almost exclusively in Catalan and the Catalan public television broadcasts programs basically in Catalan.
 
@@ -482,7 +480,7 @@ There are some examples of Renaissance (such as the Palau de la Generalitat), Ba
 
 Monuments and World Heritage Sites
 
-Sant-climent-exterior-boi04.jpg, located at the foothills of the Pyrenees, in the province of Lleida]] Σαγράδα_Φαμίλια_2941.jpg, Barcelona]]
+, located at the foothills of the Pyrenees, in the province of Lleida]] , Barcelona]]
 
 There are several UNESCO World Heritage Sites in Catalonia:
 
@@ -515,11 +513,9 @@ Ana María Matute, Jaime Gil de Biedma, Manuel Vázquez Montalbán and Juan Goyt
 
 Festivals and public holidays
 
-4_de_9_amb_folre_i_pilar.jpg
-
 Castells are one of the main manifestations of Catalan popular culture. The activity consists in constructing human towers by competing (teams). This practice originated in Valls, on the region of the Camp de Tarragona, during the 18th century, and later it was extended along the next two centuries to the rest of the territory. The tradition of els Castells i els Castellers was declared Masterpiece of the Oral and Intangible Heritage of Humanity by UNESCO in 2010.
 
-In the greater celebrations other elements of the Catalan popular culture are usually present: the parades of (giants) and of devils and firecrackers. Another traditional celebration in Catalonia is , declared Masterpiece of the Oral and Intangible Heritage of Humanity by UNESCO on 25 November 2005.[174] Festa_major_de_la_Seu_d'Urgell.JPG}} during the festa major of La Seu d'Urgell ]]
+In the greater celebrations other elements of the Catalan popular culture are usually present: the parades of (giants) and of devils and firecrackers. Another traditional celebration in Catalonia is , declared Masterpiece of the Oral and Intangible Heritage of Humanity by UNESCO on 25 November 2005.[174] }} during the festa major of La Seu d'Urgell ]]
 
 There are some local Christmas traditions; one of them is the popular figure of the , consisting in a hollow log which after few days taking care of it, during Christmas Day or on Christmas Eve one orders it to defecate presents and, in order to make this, children beats the tió with sticks, while they singing various traditional songs. Another custom is to make a (Nativity scene), and usually includes the , a figurine depicted in the act of defecation.[175]
 
@@ -529,7 +525,7 @@ On 28 July 2010, second only after the Canary Islands, Catalonia became another 
 
 Music and dance
 
-Sardanes.jpg]]
+]]
 
 The sardana is considered to be the most characteristic Catalan folk dance, interpreted to the rhythm of tamborí, tible and tenora (from the oboe family), trumpet, trombó (trombone), fiscorn (family of bugles) and contrabaix with three strings played by a cobla, and are danced in a circle dance. Other tunes and dances of the traditional music are the contrapàs (obsolete today), ball de bastons (the "dance of sticks"), the moixiganga, the goigs (popular songs), the galops or the jota in the southern part. The havaneres are characteristic in some marine localities of the Costa Brava, especially during the summer months when these songs are sung outdoors accompanied by a of burned rum.
 
@@ -543,7 +539,7 @@ Cellist Pau Casals is admired as an outstanding player. Other popular musical st
 
 Media and cinema
 
-TVC.svg Catalonia is the autonomous community, along with Madrid, that has the most media (TV, Magazines, Newspapers etc.). In Catalonia there is a wide variety of local and comarcal media. With the restoration of democracy, many newspapers and magazines, until then in the hands of the Franco government, were recovered in order to convert them into free and democratic media, while local radios and televisions were implemented.
+Catalonia is the autonomous community, along with Madrid, that has the most media (TV, Magazines, Newspapers etc.). In Catalonia there is a wide variety of local and comarcal media. With the restoration of democracy, many newspapers and magazines, until then in the hands of the Franco government, were recovered in order to convert them into free and democratic media, while local radios and televisions were implemented.
 
 Televisió de Catalunya, which broadcasts entirely in the Catalan language, is the main Catalan public TV. It has five channels: TV3, El 33/Super3, 3/24, Esport3 and TV3CAT. In 2018, TV3 became the first television channel to be the most viewed one for nine consecutive years in Catalonia.[177][178] State televisions that broadcast in Catalonia in Spanish language include Televisión Española (with few emissions in Catalan), Antena 3, Cuatro, Telecinco, and La Sexta. Other smaller Catalan television channels include; 8TV (owned by Grup Godó), , Barça TV and the local televisions, the greatest exponent of which is , the TV channel of Barcelona, which also broadcasts in Catalan.
 
@@ -551,7 +547,7 @@ The two main Catalan newspapers of general information are _El Periódico de Cat
 
 Catalonia has a long tradition of use of radio, the first regular regular radio broadcast in the country was from Ràdio Barcelona in 1924.[179] Today, the public Catalunya Ràdio (owned by Catalan Media Corporation) and the private RAC 1 (belonging to Grup Godó) are the two main radios of Catalonia, both in Catalan.
 
-Festival_Internacional_de_Cinema_de_Catalunya_2009.JPG of 2009]] Regarding the cinema, after the democratic transition, three styles have dominated since then. First, auteur cinema, in the continuity of the Barcelona School, emphasizes experimentation and form, while focusing on developing social and political themes. Worn first by Josep Maria Forn or Bigas Luna, then by Marc Recha, Jaime Rosales and Albert Serra, this genre has achieved some international recognition. Then, the documentary became another genre particularly representative of contemporary Catalan cinema, boosted by Joaquim Jordà i Català and José Luis Guerín. Later, horror films and thrillers have also emerged as a specialty of the Catalan film industry, thanks in particular to the vitality of the Sitges Film Festival, created in 1968. Several directors have gained worldwide renown thanks to this genre, starting with Jaume Balagueró and his series _REC_ (co-directed with Valencian Paco Plaza), Juan Antonio Bayona and _El Orfanato_ or Jaume Collet-Serra with _Orphan_, _Unknown_ and _Non-Stop_.
+of 2009]] Regarding the cinema, after the democratic transition, three styles have dominated since then. First, auteur cinema, in the continuity of the Barcelona School, emphasizes experimentation and form, while focusing on developing social and political themes. Worn first by Josep Maria Forn or Bigas Luna, then by Marc Recha, Jaime Rosales and Albert Serra, this genre has achieved some international recognition. Then, the documentary became another genre particularly representative of contemporary Catalan cinema, boosted by Joaquim Jordà i Català and José Luis Guerín. Later, horror films and thrillers have also emerged as a specialty of the Catalan film industry, thanks in particular to the vitality of the Sitges Film Festival, created in 1968. Several directors have gained worldwide renown thanks to this genre, starting with Jaume Balagueró and his series _REC_ (co-directed with Valencian Paco Plaza), Juan Antonio Bayona and _El Orfanato_ or Jaume Collet-Serra with _Orphan_, _Unknown_ and _Non-Stop_.
 
 Catalan actors have shot for Spanish and international productions, such as Sergi López.
 
@@ -579,7 +575,7 @@ File:BCN-EstadiOlimpic-4860.jpg|Olympic Park of Montjuïc, Barcelona. At the cen
 
 Symbols
 
-Senyera_(Pl._Octavià,_S._Cugat_del_Vallès)_01.jpg]]
+]]
 
 Catalonia has its own representative and distinctive national symbols such as:[183]
 
@@ -590,7 +586,7 @@ Catalonia has its own representative and distinctive national symbols such as:[1
 
 Cuisine
 
-Pa_amb_tomàquet_-_001.jpg}} (bread with tomato)]]
+}} (bread with tomato)]]
 
 Catalan gastronomy has a long culinary tradition. Various local food recipes have been described in documents dating from the fifteenth century. As with all the cuisines of the Mediterranean, Catatonian dishes make abundant use of fish, seafood, olive oil, bread and vegetables. Regional specialties include the (bread with tomato), which consists of bread (sometimes toasted), and tomato seasoned with olive oil and salt. Often the dish is accompanied with any number of sausages (cured botifarres, fuet, iberic ham, etc.), ham or cheeses. Others dishes include the , , (fish stew), and a dessert, Catalan cream.
 

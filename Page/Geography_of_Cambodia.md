@@ -1,5 +1,3 @@
-Cambodia_Topography.png
-
 Cambodia is a country in mainland Southeast Asia, bordering Thailand, Laos, Vietnam, the Gulf of Thailand and covers a total area of . The country is situated in its entirety inside the tropical Indomalayan ecozone[1] and the Indochina Time zone (ICT).[2][3]
 
 Cambodia's main geographical features are the low lying Central Plain that includes the Tonlé Sap basin, the lower Mekong River flood-plains and the Bassac River plain surrounded by mountain ranges to the north, east, in the south-west and south. The central lowlands extend into Vietnam to the south-east. The south and south-west of the country constitute a long coast at the Gulf of Thailand, characterized by sizable mangrove marshes, peninsulas, sandy beaches and headlands and bays. Cambodia's territorial waters account for over 50 islands. The highest peak is Phnom Aural, sitting above sea level.[4][5][6]
@@ -13,8 +11,6 @@ The majority of the country lies within the Tropical savanna climate zone, as th
 
 Geological development
 
-Cambodia_geology2.jpg
-
 Southeast Asia consists of allochthonous continental blocks from Gondwanaland. These include the South China, Indochina, Sibumasu, and West Burma blocks, which amalgamated to form the Southeast Asian continent during the Paleozoic and Mesozoic periods.[15]
 
 The current geological structure of South China and South-East Asia is determined to be the response to the "Indo-sinian" collision in South-East Asia during the Carboniferous.[16] The Indo-Sinian orogeny was followed by extension of the Indo-Chinese block, the formation of rift basins and thermal subsidence during the early Triassic.[17][18][19]
@@ -26,7 +22,7 @@ The central plains consist mainly of Quaternary sands, loam and clay, as most of
 
 General topography
 
-Takeo_farmland_2010.jpg at the end of the dry season, May 2010]] Borassus_flabellifer.jpg - sugar palm]]
+at the end of the dry season, May 2010]] - sugar palm]]
 
 Bowl- or saucer-shaped,[23][24] Cambodia covers in the south-western part of the Indochinese peninsula as its landmass and marine territory is situated entirely within the tropics.
 
@@ -38,7 +34,7 @@ A heavily indented coastline at the Gulf of Thailand of length and 60 offshore i
 
 Soils
 
-Acrisolprof.JPG]] "Sandy materials cover a large proportion of the landscape of Cambodia, on account of the siliceous sedimentary formations that underlie much of the Kingdom. Mesozoic sandstone dominates most of the basement geology in Cambodia and hence has a dominating influence on the properties of upland soils. Arenosols (sandy soils featuring very weak or no soil development) are mapped on only 1.6% of the land area."
+]] "Sandy materials cover a large proportion of the landscape of Cambodia, on account of the siliceous sedimentary formations that underlie much of the Kingdom. Mesozoic sandstone dominates most of the basement geology in Cambodia and hence has a dominating influence on the properties of upland soils. Arenosols (sandy soils featuring very weak or no soil development) are mapped on only 1.6% of the land area."
 
 "Sandy surface textures are more prevalent than the deep sandy soils that fit the definition for Arenosols. Sandy textured profiles are common amongst the most prevalent soil groups, including Acrisols and Leptosols. The Acrisols are the most prevalent soil group occupying the lowlands - nearly half of the land area of Cambodia. Low fertility and toxic amounts of aluminium pose limitations to its agricultural use, crops that can be successfully cultivated include rubber tree, oil palm, coffee and sugar cane.[32] The main subgroups are: Gleyic Acrisols (20.5%, Haplic Acrisols (13.3%), Plinthic Acrisol (8.7%) and Ferric Acrisol (6.3%)."[33]
 
@@ -54,15 +50,13 @@ Regions
 
 Central plain
 
-Cambo_152.jpg
-
 The vast alluvial and lacustrine interconnected Cambodian flood-plain is a geologically relatively recent depression where the sediments of the Mekong and its tributaries accumulate as waters are subject to frequent course changes.[34] The area covers . The Tonlé Sap lake and - river system occupies the lowest area. The Tonle Sap river is a waterway that branches off the Mekong near Phnom Penh in the north-westerly direction and meets the Tonle Sap lake after around . Its waters' flow reverses direction every year, caused by greatly varying amounts of water carried by the Mekong over the course of a year and the impact of monsoonal rains, that coincides with the river's maximum.[35]
 
 The plains of the Mekong and Tonle Sap basin are confined in the North by the Dangrek and Central Annamite Mountains, and to the South by the Cardamom Mountains and Elephant Mountains. The plains completely surround the Tonle Sap Lake in the western half of the country and wind their way through the middle of the country following the course of the Mekong River. The two basins actually form a single body of water, the whole of which effects about 75% of Cambodia’s land cover.[36]
 
 Flow reversal
 
-Tonle_Sap_Lake_phases.gif The Mekong river and its tributaries increase water volumes in spring (May) on the northern hemisphere, mainly caused by melting snows. As the Mekong enters Cambodia (over 95% of its waters have already joined the river) it widens and inundates large areas.
+The Mekong river and its tributaries increase water volumes in spring (May) on the northern hemisphere, mainly caused by melting snows. As the Mekong enters Cambodia (over 95% of its waters have already joined the river) it widens and inundates large areas.
 
 The plain's deepest point - the Tonle Sap - flooded area varies from a low of around with a depth of around 1 meter at the end of the dry season (April) to and a depth of up to 9 meters in October/November. This figure rose to during 2000 when some of the worst flood conditions recorded caused over 800 deaths in Cambodia and Vietnam.
 
@@ -70,7 +64,7 @@ Inflow starts in May/June with maximum rates of flow of around 10,000 m³/s by l
 
 Southern Mountains
 
-Tatai_River,_Cambodia.jpg]] Kampot_Cambodia.jpg, countryside with remote Elephant Mountains]] This region represents the eastern parts of the original extent of the wet evergreen forests that cover the Cardamom - and Elephant Mountains in South-West Cambodia and along the mountains east of Bangkok in Thailand.[39]
+]] , countryside with remote Elephant Mountains]] This region represents the eastern parts of the original extent of the wet evergreen forests that cover the Cardamom - and Elephant Mountains in South-West Cambodia and along the mountains east of Bangkok in Thailand.[39]
 
 The densely wooded hills receive rainfall of annually on their western slopes (which are subject to the South-West monsoons) but only on their eastern - rain shadow - slopes.[40]
 
@@ -90,7 +84,7 @@ THE DANGREK MOUNTAINS
 
 A forested range of hills averaging , dividing Thailand from Cambodia, mainly formed of massive sandstone with slate and silt. A few characteristic basalt hills are located on the northern side of the mountain chain. This east–west-trending range extends from the Mekong River westward for approximately , merging with the highland area near San Kamphaeng, Thailand. Essentially the southern escarpment of the sandstone Khorat Plateau of northeastern Thailand, the Dângrêk range slopes gradually northward to the Mun River in Thailand but falls more abruptly in the south to the Cambodian plain. Its highest point is . The watershed along the escarpment in general terms marks the boundary between Thailand and Cambodia, however there are exceptions. The region is covered in dry evergreen forest, mixed dipterocarp forest, and deciduous dipterocarp forests. Tree species like Pterocarpus macrocarpus, Shorea siamensis and Xylia xylocarpa var. kerrii dominate. Illegal logging are issues on both, the Thai as well as on the Cambodian side, leaving large hill stretches denuded, vulnerable tree species such as Dalbergia cochinchinensis have been affected.[49] Forest fires are common during the dry season.[50]
 
-Chrey_Thom_Waterfall_Mondulkiri.jpg]] ANNAMITE RANGE
+]] ANNAMITE RANGE
 
 Lying to the east of the Mekong River, the long chain of mountains called the Annamite Mountains of Indochina and the lowlands that surround them make up the Greater Annamites ecoregion. Levels of rainfall vary from annually. Mean annual temperatures are about . This eco-region contains some of the last relatively intact moist forests in Indochina. Moisture-laden monsoon winds, that blow in from the Gulf of Tonkin ensure permanent high air humidity. Plants and animals adapted to moist conditions, to seek refuge here and evolve into highly specialized types that are found nowhere else on Earth.[51][52][53]
 
@@ -98,7 +92,7 @@ ETHNICALLY DIVERSE More than 30 ethnic groups of indigenous people live in the A
 
 Eastern Highlands
 
-Mondulkiri_province_Northeastern_Cambodia.jpg, north-eastern Cambodia, November 2012]] Tall grasses and deciduous forests cover the ground east of the Mekong River in Mondulkiri, where the transitional plains merge with the eastern highlands at altitudes from . The landscape has suffered from rubber farming, logging and particularly mining, although sizable areas of pristine jungle survive, which are home to rare and endemic wildlife.[55]
+, north-eastern Cambodia, November 2012]] Tall grasses and deciduous forests cover the ground east of the Mekong River in Mondulkiri, where the transitional plains merge with the eastern highlands at altitudes from . The landscape has suffered from rubber farming, logging and particularly mining, although sizable areas of pristine jungle survive, which are home to rare and endemic wildlife.[55]
 
 Coast
 
@@ -113,7 +107,7 @@ Cambodia’s islands fall under administration of the 4 coastal provinces.[60] "
 
 Climate
 
-Cambodia_map_of_Köppen_climate_classification.svg Map_rainfall_Cambodia.jpg]] Koppen_World_Map_Aw.png Koppen_World_Map_Am.png Cambodia's climate, like that of much of the rest of mainland Southeast Asia is dominated by monsoons, which are known as tropical wet and dry because of the distinctly marked seasonal differences. The monsoonal air-flows are caused by annual alternating high pressure and low pressure over the Central Asian landmass. In summer, moisture-laden air—the southwest monsoon—is drawn landward from the Indian Ocean. The flow is reversed during the winter, and the northeast monsoon sends back dry air. The southwest monsoon brings the rainy season from mid-May to mid-September or to early October, and the northeast monsoon flow of drier and cooler air lasts from early November to March. Temperatures are fairly uniform throughout the Tonlé Sap Basin area, with only small variations from the average annual mean of around .
+]] Cambodia's climate, like that of much of the rest of mainland Southeast Asia is dominated by monsoons, which are known as tropical wet and dry because of the distinctly marked seasonal differences. The monsoonal air-flows are caused by annual alternating high pressure and low pressure over the Central Asian landmass. In summer, moisture-laden air—the southwest monsoon—is drawn landward from the Indian Ocean. The flow is reversed during the winter, and the northeast monsoon sends back dry air. The southwest monsoon brings the rainy season from mid-May to mid-September or to early October, and the northeast monsoon flow of drier and cooler air lasts from early November to March. Temperatures are fairly uniform throughout the Tonlé Sap Basin area, with only small variations from the average annual mean of around .
 
 The maximum mean is about ; the minimum mean, about . Maximum temperatures of higher than , however, are common and, just before the start of the rainy season, they may rise to more than . Minimum night temperatures sporadically fall below .[65] in January, the coldest month. May is the warmest month - although strongly influenced by the beginning of the wet season, as the area constitutes the easternmost fringe of the south-west monsoon. Tropical cyclones only rarely cause damage in Cambodia.[66][67]
 
@@ -122,7 +116,7 @@ The total annual rainfall average is between , and the heaviest amounts fall in 
 
 Hydrology
 
-Mekong_floating_homes.jpg Drainage_Cambodia.jpgs]] Mekong_tributary_Cambodia.jpg]] The Mekong River and its tributaries comprise one of the largest river systems in the world.[70] The central Tonle Sap, the _Great Lake_ has several input rivers, the most important being the Tonle Sap River, which contributes 62% of the total water supply during the rainy season. Direct rainfall on the lake and the other rivers in the sub-basin contribute the remaining 38%. Major rivers are the Sen river, Sreng River, Stung Pouthisat River, Sisophon River, Mongkol Borei River, and Sangkae River.[71][72]
+s]] ]] The Mekong River and its tributaries comprise one of the largest river systems in the world.[70] The central Tonle Sap, the _Great Lake_ has several input rivers, the most important being the Tonle Sap River, which contributes 62% of the total water supply during the rainy season. Direct rainfall on the lake and the other rivers in the sub-basin contribute the remaining 38%. Major rivers are the Sen river, Sreng River, Stung Pouthisat River, Sisophon River, Mongkol Borei River, and Sangkae River.[71][72]
 
 Smaller rivers in the southeast, the Cardamom Mountains and Elephant Range form separate drainage divides. To the east the rivers flow into the Tonle Sap, as in the south-west rivers flow into the Gulf of Thailand. Toward the southern slopes of the Elephant Mountains, small rivers flow south-eastward on the eastern side of the divide.
 
@@ -135,7 +129,7 @@ As the level of the Tonle Sap retreats, it deposits a new layer of sediment. The
 
 Vegetation & ecoregions
 
-Forest_and_land_cover_Cambodia.jpg in Cambodia]] Cambodia has one of the highest levels of forest cover in the region as the interdependence of Cambodia’s geography and hydrology makes it rich in natural resources and biological diversity - among the bio-richest countries in Southeast Asia. The Royal Government of Cambodia estimates Cambodia contains approximately 10.36 million hectares of forest cover, representing approximately 57.07% of Cambodia’s land area (2011).[75] On the contrary, international observers and independent sources provide rather different numbers. Consensus permeates, as most sources agree, that deforestation, loss of seasonal wetlands and habitat destruction - among countless minor factors - correlates with the absence of strict administrative control and indifference in law enforcement - not only in Cambodia but the entire region.[76][77][78]
+in Cambodia]] Cambodia has one of the highest levels of forest cover in the region as the interdependence of Cambodia’s geography and hydrology makes it rich in natural resources and biological diversity - among the bio-richest countries in Southeast Asia. The Royal Government of Cambodia estimates Cambodia contains approximately 10.36 million hectares of forest cover, representing approximately 57.07% of Cambodia’s land area (2011).[75] On the contrary, international observers and independent sources provide rather different numbers. Consensus permeates, as most sources agree, that deforestation, loss of seasonal wetlands and habitat destruction - among countless minor factors - correlates with the absence of strict administrative control and indifference in law enforcement - not only in Cambodia but the entire region.[76][77][78]
 
 Figures and assessments are numerous as are available sources. as seen in numbers below, which provide a wide range for interpretation. About (1%) of forest cover is planted forest. Overall Cambodia’s forests contain an estimated 464 million metric tonnes of carbon stock in living forest biomass.[79] Approximately 40% of Cambodia’s Forests have some level of protection, while one of the Cambodia Millennium Development Goals targets is to achieve a 60% forest cover by 2015.[80][81]
 
@@ -169,7 +163,7 @@ The Southern Annamites Montane Rain Forests ecoregion of the montane forests of 
 
 The Great Lake ecosystem
 
-Engkabang_(Shorea_sp.)_(15607560356).jpg]] The Tonle Sap, also known as the Great Lake in central Cambodia is the largest freshwater lake in Southeast Asia and one of the richest inland fishing grounds in the world. The Lake functions as a natural flood water reservoir for the Mekong system as a whole and therefore is an important source of water for the Mekong Delta during the dry season.[89] The ecosystem has developed as a result of the Mekong’s seasonal flow fluctuations. A belt of freshwater mangroves known as the "flooded forest" surrounds the lake. The floodplains in turn are surrounded by low hills, covered with evergreen seasonal tropical forest with substantial dipterocarp vegetation or deciduous dry forest. The eco-region consists of a mosaic of habitats for a great number of species.[90] The forest gradually yields to bushes and finally grassland with increasing distance from the lake.
+]] The Tonle Sap, also known as the Great Lake in central Cambodia is the largest freshwater lake in Southeast Asia and one of the richest inland fishing grounds in the world. The Lake functions as a natural flood water reservoir for the Mekong system as a whole and therefore is an important source of water for the Mekong Delta during the dry season.[89] The ecosystem has developed as a result of the Mekong’s seasonal flow fluctuations. A belt of freshwater mangroves known as the "flooded forest" surrounds the lake. The floodplains in turn are surrounded by low hills, covered with evergreen seasonal tropical forest with substantial dipterocarp vegetation or deciduous dry forest. The eco-region consists of a mosaic of habitats for a great number of species.[90] The forest gradually yields to bushes and finally grassland with increasing distance from the lake.
 
 Henri Mouhot: "Travels in the Central Parts of Indo-China" 1864
 
@@ -179,11 +173,11 @@ The lake’s flooded forest and the surrounding floodplains are of utmost import
 
 Wetlands
 
-Coastal_plains_near_Sihanoukville.jpg]] Wetlands cover more than 30% of Cambodia. In addition to the Mekong River and the Tonle Sap floodplain there are the Stung Sen River and the coastal Stung Koh Pao - and Stung Kep estuaries of Koh Kong Province and Kep Province. The freshwater wetlands of Cambodia represent one of the most diverse ecosystems worldwide.[97] The area’s extensive wetland habitats are the product of the annual Mekong maximum, the simultaneous wet season and the drainage paths of a number of minor rivers. See also:Geography of Cambodia#Hydrology The numerous and varied wetlands are Cambodia's central and traditional settlement area, the productive environments for rice cultivation, freshwater fisheries, other forms of agriculture and aquaculture and the constantly growing tourism sector.[98] Considering the eco-region's importance, a variety of plans for local wetland management consolidation exist[99][100] with varying degrees of completion.[101]
+]] Wetlands cover more than 30% of Cambodia. In addition to the Mekong River and the Tonle Sap floodplain there are the Stung Sen River and the coastal Stung Koh Pao - and Stung Kep estuaries of Koh Kong Province and Kep Province. The freshwater wetlands of Cambodia represent one of the most diverse ecosystems worldwide.[97] The area’s extensive wetland habitats are the product of the annual Mekong maximum, the simultaneous wet season and the drainage paths of a number of minor rivers. See also:Geography of Cambodia#Hydrology The numerous and varied wetlands are Cambodia's central and traditional settlement area, the productive environments for rice cultivation, freshwater fisheries, other forms of agriculture and aquaculture and the constantly growing tourism sector.[98] Considering the eco-region's importance, a variety of plans for local wetland management consolidation exist[99][100] with varying degrees of completion.[101]
 
 Coastal habitats
 
-Koh_Kong_mangrove_forest.jpg Cambodia, September 2013]]
+Cambodia, September 2013]]
 
 The Cambodian coastline consists of of over 30 species of mangroves - among the most biologically diverse wetlands on earth.[102] The most pristine mangrove forests are found in Koh Kong Province. In addition to mangroves, sea-grass beds extend throughout the coastal areas, especially in Kampot Province, the Sihanoukville Bay Delta and the Kep municipal waters. The meadows are highly productive, but few animals feed directly on the grasses. Those that do tend to be vertebrates such as sea turtles, dabbling ducks and geese.[103][104][105]
 
@@ -194,7 +188,7 @@ The Cambodian coastline consists of of over 30 species of mangroves - among the 
 
 Fauna
 
-Agilegibbon.jpg]]
+]]
 
 Cambodia is home to a wide array of wildlife. There are 212 mammal species, 536 bird species, 176 reptile species (including 89 subspecies), 850 freshwater fish species (Tonlé Sap Lake area), and 435 marine fish species. Many of the country's species are recognized by the IUCN or World Conservation Union as threatened, endangered, or critically endangered due to deforestation and habitat destruction, poaching, illegal wildlife trade, farming, fishing, and unauthorized forestry concessions. Intensive poaching may have already driven Cambodia's national animal, the Kouprey, to extinction. Wild tigers, Eld's deer, wild water buffaloes and hog deer are at critically low numbers.[108][109][110][111]
 
@@ -271,7 +265,7 @@ poly 355 962 361 973 371 973 375 962 381 964 376 955 378 931 390 921 397 905 398
 
 Area and boundaries
 
-Provincial_Boundaries_in_Cambodia.svg AREA:
+AREA:
 _total:_
 _land:_
 _water:_
@@ -333,7 +327,7 @@ FRESHWATER WITHDRAWAL (DOMESTIC/INDUSTRIAL/AGRICULTURAL):
 
 Environmental issues
 
-Sandmining_tatai_river_2012.jpg at the Tatai River in the Koh Kong Conservation Corridor, Cambodia 2012]] Pollution_coastal_Cambodia_2014.jpg
+at the Tatai River in the Koh Kong Conservation Corridor, Cambodia 2012]]
 
 Natural hazards
 

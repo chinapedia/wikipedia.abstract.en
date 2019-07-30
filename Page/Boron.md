@@ -46,8 +46,6 @@ The rate of oxidation of boron depends on the crystallinity, particle size, puri
 
     4 B + 3 O₂ → 2 B₂O₃
 
-Tetraborate-xtal-3D-balls.png
-
 Boron undergoes halogenation to give trihalides; for example,
 
     2 B + 3 Br₂ → 2 BBr₃
@@ -78,7 +76,7 @@ Organoboron chemicals have been employed in uses as diverse as boron carbide (se
 
 Compounds of B(I) and B(II)
 
-Although these are not found on Earth naturally, boron forms a variety of stable compounds with formal oxidation state less than three. As for many covalent compounds, formal oxidation states are often of little meaning in boron hydrides and metal borides. The halides also form derivatives of B(I) and B(II). BF, isoelectronic with N₂, cannot be isolated in condensed form, but B₂F₄ and B₄Cl₄ are well characterized.[43] Magnesium-diboride-3D-balls.png Binary metal-boron compounds, the metal borides, contain boron in negative oxidation states. Illustrative is magnesium diboride (MgB₂). Each boron atom has a formal −1 charge and magnesium is assigned a formal charge of +2. In this material, the boron centers are trigonal planar with an extra double bond for each boron, forming sheets akin to the carbon in graphite. However, unlike hexagonal boron nitride, which lacks electrons in the plane of the covalent atoms, the delocalized electrons in magnesium diboride allow it to conduct electricity similar to isoelectronic graphite. In 2001, this material was found to be a high-temperature superconductor.[44][45]
+Although these are not found on Earth naturally, boron forms a variety of stable compounds with formal oxidation state less than three. As for many covalent compounds, formal oxidation states are often of little meaning in boron hydrides and metal borides. The halides also form derivatives of B(I) and B(II). BF, isoelectronic with N₂, cannot be isolated in condensed form, but B₂F₄ and B₄Cl₄ are well characterized.[43] Binary metal-boron compounds, the metal borides, contain boron in negative oxidation states. Illustrative is magnesium diboride (MgB₂). Each boron atom has a formal −1 charge and magnesium is assigned a formal charge of +2. In this material, the boron centers are trigonal planar with an extra double bond for each boron, forming sheets akin to the carbon in graphite. However, unlike hexagonal boron nitride, which lacks electrons in the plane of the covalent atoms, the delocalized electrons in magnesium diboride allow it to conduct electricity similar to isoelectronic graphite. In 2001, this material was found to be a high-temperature superconductor.[44][45]
 
 Certain other metal borides find specialized applications as hard materials for cutting tools.[46] Often the boron in borides has fractional oxidation states, such as −1/3 in calcium hexaboride (CaB₆).
 
@@ -97,8 +95,6 @@ Commercial isotope enrichment
 Because of its high neutron cross-section, boron-10 is often used to control fission in nuclear reactors as a neutron-capturing substance.[50] Several industrial-scale enrichment processes have been developed; however, only the fractionated vacuum distillation of the dimethyl ether adduct of boron trifluoride (DME-BF₃) and column chromatography of borates are being used.[51][52]
 
 Enriched boron (boron-10)
-
-Neutroncrosssectionboron.png
 
 Enriched boron or ¹⁰B is used in both radiation shielding and is the primary nuclide used in neutron capture therapy of cancer. In the latter ("boron neutron capture therapy" or BNCT), a compound containing ¹⁰B is incorporated into a pharmaceutical which is selectively taken up by a malignant tumor and tissues near it. The patient is then treated with a beam of low energy neutrons at a relatively low neutron radiation dose. The neutrons, however, trigger energetic and short-range secondary alpha particle and lithium-7 heavy ion radiation that are products of the boron + neutron nuclear reaction, and this ion radiation additionally bombards the tumor, especially from inside the tumor cells.[53][54][55][56]
 
@@ -122,7 +118,7 @@ Both ¹⁰B and ¹¹B possess nuclear spin. The nuclear spin of ¹⁰B is 3 and 
 
 Occurrence
 
-ulexita_br.jpg Borax_crystals.jpg Boron is rare in the Universe and solar system due to trace formation in the Big Bang and in stars. It is formed in minor amounts in cosmic ray spallation nucleosynthesis and may be found uncombined in cosmic dust and meteoroid materials.
+Boron is rare in the Universe and solar system due to trace formation in the Big Bang and in stars. It is formed in minor amounts in cosmic ray spallation nucleosynthesis and may be found uncombined in cosmic dust and meteoroid materials.
 
 In the high oxygen environment of Earth, boron is always found fully oxidized to borate. Boron does not appear on Earth in elemental form. Extremely small traces of elemental boron were detected in Lunar regolith.[62][63]
 
@@ -172,11 +168,11 @@ Not all fiberglasses contain boron, but on a global scale, most of the fiberglas
 
 Borosilicate glass
 
-Schott_Duran_glassware.jpg Borosilicate glass, which is typically 12–15% B₂O₃, 80% SiO₂, and 2% Al₂O₃, has a low coefficient of thermal expansion giving it a good resistance to thermal shock. Schott AG's "Duran" and Owens-Corning's trademarked Pyrex are two major brand names for this glass, used both in laboratory glassware and in consumer cookware and bakeware, chiefly for this resistance.[89]
+Borosilicate glass, which is typically 12–15% B₂O₃, 80% SiO₂, and 2% Al₂O₃, has a low coefficient of thermal expansion giving it a good resistance to thermal shock. Schott AG's "Duran" and Owens-Corning's trademarked Pyrex are two major brand names for this glass, used both in laboratory glassware and in consumer cookware and bakeware, chiefly for this resistance.[89]
 
 Boron carbide ceramic
 
-Borfig11a.png consist of boron atoms, and black spheres are carbon atoms.[90]]] Several boron compounds are known for their extreme hardness and toughness. Boron carbide is a ceramic material which is obtained by decomposing B₂O₃ with carbon in an electric furnace:
+consist of boron atoms, and black spheres are carbon atoms.[90]]] Several boron compounds are known for their extreme hardness and toughness. Boron carbide is a ceramic material which is obtained by decomposing B₂O₃ with carbon in an electric furnace:
 
     2 B₂O₃ + 7 C → B₄C + 6 CO
 
@@ -228,8 +224,6 @@ Boron shielding is used as a control for nuclear reactors, taking advantage of i
 In pressurized water reactors a variable concentration of boronic acid in the cooling water is used as a neutron poison to compensate the variable reactivity of the fuel. When new rods are inserted the concentration of boronic acid is maximal, and is reduced during the lifetime.[108]
 
 Other nonmedical uses
-
-Apollo_15_launch.ogv
 
 -   Because of its distinctive green flame, amorphous boron is used in pyrotechnic flares.[109]
 -   Starch and casein-based adhesives contain sodium tetraborate decahydrate (Na₂B₄O₇·10 H₂O)
@@ -292,7 +286,7 @@ Boric acid is more toxic to insects than to mammals, and is routinely used as an
 
 The boranes (boron hydrogen compounds) and similar gaseous compounds are quite poisonous. As usual, it is not an element that is intrinsically poisonous, but their toxicity depends on structure.[147][148] The boranes are also highly flammable and require special care when handling. Sodium borohydride presents a fire hazard owing to its reducing nature and the liberation of hydrogen on contact with acid. Boron halides are corrosive.[149]
 
-Boron_toxicity_(2313046082).jpg Boron is necessary for plant growth, but an excess of boron is toxic to plants, and occurs particularly in acidic soil.[150][151] It presents as a yellowing from the tip inwards of the oldest leaves and black spots in barley leaves, but it can be confused with other stresses such as magnesium deficiency in other plants.[152]
+Boron is necessary for plant growth, but an excess of boron is toxic to plants, and occurs particularly in acidic soil.[150][151] It presents as a yellowing from the tip inwards of the oldest leaves and black spots in barley leaves, but it can be confused with other stresses such as magnesium deficiency in other plants.[152]
 
 
 See also

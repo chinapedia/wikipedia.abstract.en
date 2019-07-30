@@ -24,7 +24,7 @@ The modern English name Bengal is an exonym derived from the Bengal Sultanate pe
 
 Geography
 
-Gangesdelta_klein.jpg]] Most of the Bengal region lies in the Ganges-Brahmaputra delta, but there are highlands in its north, northeast and southeast. The Ganges Delta arises from the confluence of the rivers Ganges, Brahmaputra, and Meghna rivers and their respective tributaries. The total area of Bengal is 232,752  km²—West Bengal is and Bangladesh .
+]] Most of the Bengal region lies in the Ganges-Brahmaputra delta, but there are highlands in its north, northeast and southeast. The Ganges Delta arises from the confluence of the rivers Ganges, Brahmaputra, and Meghna rivers and their respective tributaries. The total area of Bengal is 232,752  km²—West Bengal is and Bangladesh .
 
 The flat and fertile Bangladesh Plain dominates the geography of Bangladesh. The Chittagong Hill Tracts and Sylhet regions are home to most of the mountains in Bangladesh. Most parts of Bangladesh are within above the sea level, and it is believed that about 10% of the land would be flooded if the sea level were to rise by .[39] Because of this low elevation, much of this region is exceptionally vulnerable to seasonal flooding due to monsoons. The highest point in Bangladesh is in Mowdok range at .[40] A major part of the coastline comprises a marshy jungle, the Sundarbans, the largest mangrove forest in the world and home to diverse flora and fauna, including the royal Bengal tiger. In 1997, this region was declared endangered.[41]
 
@@ -36,15 +36,13 @@ File:Burishwar River in Barguna, Bangladesh (2).jpg|A river in Bangladesh File:A
 
 Geographic distinctions
 
-Bengal,_Asia.jpg
-
 North Bengal
 
-Kalimpong_28.jpg and Darjeeling district of West Bengal | alt=]] North Bengal is a term used for the north-western part of Bangladesh and northern part of West Bengal. The Bangladeshi part comprises Rajshahi Division and Rangpur Division. Generally, it is the area lying west of Jamuna River and north of Padma River, and includes the Barind Tract. Politically, West Bengal's part comprises Jalpaiguri Division (Alipurduar, Cooch Behar, Darjeeling, Jalpaiguri, North Dinajpur, South Dinajpur and Malda) together and Bihar's parts include Kishanganj district. Darjeeling Hills are also part of North Bengal. Although only people of Jaipaiguri, Alipurduar and Cooch Behar identifies themselves as North Bengali. North Bengal is divided into Terai and Dooars regions. North Bengal is also noted for its rich cultural heritage, including two UNESCO World Heritage Sites. Aside from the Bengali majority, North Bengal is home to many other communities including Nepalis, Santhal people, Lepchas and Rajbongshis.
+and Darjeeling district of West Bengal | alt=]] North Bengal is a term used for the north-western part of Bangladesh and northern part of West Bengal. The Bangladeshi part comprises Rajshahi Division and Rangpur Division. Generally, it is the area lying west of Jamuna River and north of Padma River, and includes the Barind Tract. Politically, West Bengal's part comprises Jalpaiguri Division (Alipurduar, Cooch Behar, Darjeeling, Jalpaiguri, North Dinajpur, South Dinajpur and Malda) together and Bihar's parts include Kishanganj district. Darjeeling Hills are also part of North Bengal. Although only people of Jaipaiguri, Alipurduar and Cooch Behar identifies themselves as North Bengali. North Bengal is divided into Terai and Dooars regions. North Bengal is also noted for its rich cultural heritage, including two UNESCO World Heritage Sites. Aside from the Bengali majority, North Bengal is home to many other communities including Nepalis, Santhal people, Lepchas and Rajbongshis.
 
 Northeast Bengal
 
-Madhabkunda_waterfall_(1).JPG|alt=]] Northeast Bengal[45] refers to the Sylhet region, comprising Sylhet Division of Bangladesh and the Barak Valley in the Indian state of Assam. The region is noted for its distinctive fertile highland terrain, extensive tea plantations, rainforests and wetlands. The Surma and Barak rivers are the geographic markers of the area. The city of Sylhet is its largest urban center, and the region is known for its unique dialect. The ancient name of the region is Srihatta.[46] The region was ruled by the Kamarupa and Harikela kingdoms as well as the Bengal Sultanate. It later became a district of the Mughal Empire. Alongside the predominant Bengali population resides a small Bishnupriya Manipuri, Khasia and other tribal minorities.[47]
+|alt=]] Northeast Bengal[45] refers to the Sylhet region, comprising Sylhet Division of Bangladesh and the Barak Valley in the Indian state of Assam. The region is noted for its distinctive fertile highland terrain, extensive tea plantations, rainforests and wetlands. The Surma and Barak rivers are the geographic markers of the area. The city of Sylhet is its largest urban center, and the region is known for its unique dialect. The ancient name of the region is Srihatta.[46] The region was ruled by the Kamarupa and Harikela kingdoms as well as the Bengal Sultanate. It later became a district of the Mughal Empire. Alongside the predominant Bengali population resides a small Bishnupriya Manipuri, Khasia and other tribal minorities.[47]
 
 The region is the crossroads of Bengal and northeast India.
 
@@ -60,7 +58,7 @@ The Sundarbans, a major biodiversity hotspot, is located in South Bengal. Bangla
 
 Southeast Bengal
 
-Cox's_Bazar_beach_15.jpg has the longest uninterrupted sea beach in the world|alt=]] Southeast Bengal[53][54][55] refers to the hilly and coastal Bengali-speaking areas of Chittagong Division in southeastern Bangladesh and the Indian state of Tripura. Southeast Bengal is noted for its thalassocratic and seafaring heritage. The area was dominated by the Bengali Harikela and Samatata kingdoms in antiquity. It was known to Arab traders as _Harkand_ in the 9th century.[56] During the medieval period, the region was ruled by the Sultanate of Bengal, the Kingdom of Tripura, the Kingdom of Mrauk U, the Portuguese Empire and the Mughal Empire, prior to the advent of British rule. The Chittagonian dialect of Bengali is prevalent in coastal areas of southeast Bengal. Along with its Bengali population, it is also home to Tibeto-Burman ethnic groups, including the Chakma, Marma, Tanchangya, Tripuri and Bawm peoples.
+has the longest uninterrupted sea beach in the world|alt=]] Southeast Bengal[53][54][55] refers to the hilly and coastal Bengali-speaking areas of Chittagong Division in southeastern Bangladesh and the Indian state of Tripura. Southeast Bengal is noted for its thalassocratic and seafaring heritage. The area was dominated by the Bengali Harikela and Samatata kingdoms in antiquity. It was known to Arab traders as _Harkand_ in the 9th century.[56] During the medieval period, the region was ruled by the Sultanate of Bengal, the Kingdom of Tripura, the Kingdom of Mrauk U, the Portuguese Empire and the Mughal Empire, prior to the advent of British rule. The Chittagonian dialect of Bengali is prevalent in coastal areas of southeast Bengal. Along with its Bengali population, it is also home to Tibeto-Burman ethnic groups, including the Chakma, Marma, Tanchangya, Tripuri and Bawm peoples.
 
 Southeast Bengal is considered a bridge to Southeast Asia and the northern parts of Arakan are also historically considered to be a part of it.[57]
 
@@ -73,7 +71,7 @@ Cox's Bazar in southeastern Bangladesh is home to the longest natural sea beach 
 
 Flora and fauna
 
-Bengal_tiger_jumping_in_Sundarban.jpgs found 106 in Bangladesh and 76 in West Bengal.[59]]] The flat Bengal Plain, which covers most of Bangladesh and West Bengal, is one of the most fertile areas on Earth, with lush vegetation and farmland dominating its landscape. Bengali villages are buried among groves of mango, jack fruit, betel nut and date palm. Rice, jute, mustard and sugarcane plantations are a common sight. Water bodies and wetlands provide a habitat for many aquatic plants in the Ganges-Brahmaputra delta. The northern part of the region features Himalayan foothills (_Dooars_) with densely wooded Sal and other tropical evergreen trees. Above an elevation of 1,000 metres (3,300 ft), the forest becomes predominantly subtropical, with a predominance of temperate-forest trees such as oaks, conifers and rhododendrons. Sal woodland is also found across central Bangladesh, particularly in the Bhawal National Park. The Lawachara National Park is a rainforest in northeastern Bangladesh. The Chittagong Hill Tracts in southeastern Bangladesh is noted for its high degree of biodiversity.
+s found 106 in Bangladesh and 76 in West Bengal.[59]]] The flat Bengal Plain, which covers most of Bangladesh and West Bengal, is one of the most fertile areas on Earth, with lush vegetation and farmland dominating its landscape. Bengali villages are buried among groves of mango, jack fruit, betel nut and date palm. Rice, jute, mustard and sugarcane plantations are a common sight. Water bodies and wetlands provide a habitat for many aquatic plants in the Ganges-Brahmaputra delta. The northern part of the region features Himalayan foothills (_Dooars_) with densely wooded Sal and other tropical evergreen trees. Above an elevation of 1,000 metres (3,300 ft), the forest becomes predominantly subtropical, with a predominance of temperate-forest trees such as oaks, conifers and rhododendrons. Sal woodland is also found across central Bangladesh, particularly in the Bhawal National Park. The Lawachara National Park is a rainforest in northeastern Bangladesh. The Chittagong Hill Tracts in southeastern Bangladesh is noted for its high degree of biodiversity.
 
 The littoral Sundarbans in the southwestern part of Bengal is the largest mangrove forest in the world and a UNESCO World Heritage Site. The region has over 89 species of mammals, 628 species of birds and numerous species of fish. For Bangladesh, the water lily, the oriental magpie-robin, the hilsa and mango tree are national symbols. For West Bengal, the white-throated kingfisher, the chatim tree and the night-flowering jasmine are state symbols. The Bengal tiger is the national animal of Bangladesh and India. The fishing cat is the state animal of West Bengal.
 
@@ -86,13 +84,13 @@ Human settlement in Bengal can be traced back 20,000 years. Remnants of Copper A
 
 Antiquity
 
-WLA_lacma_Bangladesh_Dinajpur_District_Dancing_Ganesha.jpg Ancient Bengal was divided between the regions of Varendra, Suhma, Anga, Vanga, Samatata and Harikela. Early Indian literature described the region as a thalassocracy, with colonies in Southeast Asia and the Indian Ocean.[65] For example, the first recorded king of Sri Lanka was a Bengali prince called Vijaya. The region was known to the ancient Greeks and Romans as Gangaridai.[66] The Greek ambassador Megasthenes chronicled its military strength and dominance of the Ganges delta. The invasion army of Alexander the Great was deterred by the accounts of Gangaridai's power in 325 BCE. Later Roman accounts noted maritime trade routes with Bengal and a Roman amphora has been found in Purba Medinipur district, made in Aelana (present day Aqaba in Jordan) between the 4th and 7th centuries AD.[67] Another prominent kingdom in Ancient Bengal was Pundravardhana which was located in Northern Bengal with its capital being located in modern-day Bogra, the kingdom was prominently buddhist leaving behind historic Viharas such as Mahasthangarh.[68][69][70] In vedic mythology the royal families of Magadha, Anga, Vanga, Suhma and Kalinga were all related and descended from one King.[71]
+Ancient Bengal was divided between the regions of Varendra, Suhma, Anga, Vanga, Samatata and Harikela. Early Indian literature described the region as a thalassocracy, with colonies in Southeast Asia and the Indian Ocean.[65] For example, the first recorded king of Sri Lanka was a Bengali prince called Vijaya. The region was known to the ancient Greeks and Romans as Gangaridai.[66] The Greek ambassador Megasthenes chronicled its military strength and dominance of the Ganges delta. The invasion army of Alexander the Great was deterred by the accounts of Gangaridai's power in 325 BCE. Later Roman accounts noted maritime trade routes with Bengal and a Roman amphora has been found in Purba Medinipur district, made in Aelana (present day Aqaba in Jordan) between the 4th and 7th centuries AD.[67] Another prominent kingdom in Ancient Bengal was Pundravardhana which was located in Northern Bengal with its capital being located in modern-day Bogra, the kingdom was prominently buddhist leaving behind historic Viharas such as Mahasthangarh.[68][69][70] In vedic mythology the royal families of Magadha, Anga, Vanga, Suhma and Kalinga were all related and descended from one King.[71]
 
 Ancient Bengal was considered a part of Magadha region, which was the cradle of Indian arts and sciences. Currently the Maghada region is divided into several states that are Bihar, Jharkhand and Bengal (West Bengal and East Bengal)[72] The legacy of Magadha includes the concept of zero, the invention of Chess[73] and the theory of solar and lunar eclipses and the Earth orbiting the Sun. Secular Sanskrit, or standard Old Indo-Aryan, was spoken across Bengal.[74] The Bengali language evolved from Old Indo-Aryan Sanskrit dialects. The region was ruled by Hindu, Buddhist and Jain dynasties, including the Mauryans, Guptas, Varmans, Khadgas, Palas, Chandras and Senas among others. In the 9th century, Arab Muslim traders frequented Bengali seaports and found the region to be a thriving seafaring kingdom with well-developed coinage and banking.[75]
 
 Medieval era
 
-Malda_~_Adina_Mosque_5.JPG proclaim the builder Sikandar Shah as "the wisest, the most just, the most perfect and most liberal of the Sultans of Arabia, Persia and India."]]
+proclaim the builder Sikandar Shah as "the wisest, the most just, the most perfect and most liberal of the Sultans of Arabia, Persia and India."]]
 
 The Pala Empire was an imperial power in the Indian subcontinent, which originated in the region of Bengal. They were followers of the Mahayana and Tantric schools of Buddhism. The empire was founded with the election of Gopala as the emperor of Gauda in 750.[76] At its height in the early 9th century, the Pala Empire was the dominant power in the northern subcontinent, with its territory stretching across parts of modern-day eastern Pakistan, northern and northeastern India, Nepal and Bangladesh.[77][78] The empire enjoyed relations with the Srivijaya Empire, the Tibetan Empire, and the Arab Abbasid Caliphate. Islam first appeared in Bengal during Pala rule, as a result of increased trade between Bengal and the Middle East.[79] The resurgent Hindu Sena dynasty dethroned the Pala Empire in the 12th century, ending the reign of the last major Buddhist imperial power in the subcontinent.[80][81]
 
@@ -100,7 +98,7 @@ Muslim conquests of the Indian subcontinent absorbed Bengal in 1204.[82][83] The
 
 Mughal era (1576–1757)
 
-Renaldis_muslin_woman.jpg clad in fine Bengali muslin, 18th century.]]
+clad in fine Bengali muslin, 18th century.]]
 
 The Mughal Empire conquered Bengal in the 16th century. The Bengal Subah province in the Mughal Empire was the wealthiest state in the subcontinent. Bengal's trade and wealth impressed the Mughals so much that it was described as the _Paradise of the Nations_ by the Mughal Emperors.[84] The region was also notable for its powerful semi-independent aristocracy, including the Twelve Bhuiyans and the Nawabs of Bengal.[85] It was visited by several world explorers, including Ibn Battuta, Niccolo De Conti and Admiral Zheng He.
 
@@ -110,7 +108,7 @@ Since the 16th century, European traders traversed the sea routes to Bengal, fol
 
 Colonial era (1757–1947)
 
-Clive.jpg in 1757 ushered British rule]] In Bengal effective political and military power was transferred from the old regime to the British East India Company around 1757–65.[92] Company rule in India began under the Bengal Presidency. Calcutta was named the capital of British India in 1772. The presidency was run by a military-civil administration, including the Bengal Army, and had the world's sixth earliest railway network. Great Bengal famines struck several times during colonial rule (notably the Great Bengal famine of 1770 and Bengal famine of 1943). The Indian Rebellion of 1857 was initiated on the outskirts of Calcutta, and spread to Dhaka, Chittagong, Jalpaiguri, Sylhet and Agartala, in solidarity with revolts in North India. The failure of the rebellion led to the abolishment of the Mughal Court and direct rule by the British Raj. The late 19th and early 20th century Bengal Renaissance had a great impact on the cultural and economic life of Bengal and started a great advance in the literature and science of Bengal. Between 1905 and 1912, an abortive attempt was made to divide the province of Bengal into two zones, that included the short-lived province of Eastern Bengal and Assam based in Dacca and Shillong.[93] Under British rule, Bengal experienced deindustrialization.[94] m
+in 1757 ushered British rule]] In Bengal effective political and military power was transferred from the old regime to the British East India Company around 1757–65.[92] Company rule in India began under the Bengal Presidency. Calcutta was named the capital of British India in 1772. The presidency was run by a military-civil administration, including the Bengal Army, and had the world's sixth earliest railway network. Great Bengal famines struck several times during colonial rule (notably the Great Bengal famine of 1770 and Bengal famine of 1943). The Indian Rebellion of 1857 was initiated on the outskirts of Calcutta, and spread to Dhaka, Chittagong, Jalpaiguri, Sylhet and Agartala, in solidarity with revolts in North India. The failure of the rebellion led to the abolishment of the Mughal Court and direct rule by the British Raj. The late 19th and early 20th century Bengal Renaissance had a great impact on the cultural and economic life of Bengal and started a great advance in the literature and science of Bengal. Between 1905 and 1912, an abortive attempt was made to divide the province of Bengal into two zones, that included the short-lived province of Eastern Bengal and Assam based in Dacca and Shillong.[93] Under British rule, Bengal experienced deindustrialization.[94] m
 
 In 1876, 200,000 people were killed in Bengal by the Great Bangladesh cyclone.[95]
 
@@ -128,7 +126,7 @@ West Bengal became one of India's most populous states. Calcutta, the former cap
 
 Tripura
 
-Land_mark_agartala.jpeg in Agartala]] The princely state of Hill Tippera, that was under the suzerainty of British India, was ruled by a Bengali-speaking monarchy. Following the death of Maharaja Bir Bikram Kishore Debbarman, the princely state acceded to the Union of India on 15 October 1949 under the Tripura Merger Agreement signed by Maharani Regent Kanchan Prava Devi. By the 1950s, the region had a Bengali majority population due to the influx of Hindus from East Pakistan after partition. It became a Union Territory of India in November 1953. It was granted full statehood with an elected legislature in July 1963. An insurgency by indigenous people affected the state for several years. The Left Front ruled the state between 1978 and 1988, followed by a stint of Indian National Congress rule until 1993, and then a return to the Communists.[101]
+in Agartala]] The princely state of Hill Tippera, that was under the suzerainty of British India, was ruled by a Bengali-speaking monarchy. Following the death of Maharaja Bir Bikram Kishore Debbarman, the princely state acceded to the Union of India on 15 October 1949 under the Tripura Merger Agreement signed by Maharani Regent Kanchan Prava Devi. By the 1950s, the region had a Bengali majority population due to the influx of Hindus from East Pakistan after partition. It became a Union Territory of India in November 1953. It was granted full statehood with an elected legislature in July 1963. An insurgency by indigenous people affected the state for several years. The Left Front ruled the state between 1978 and 1988, followed by a stint of Indian National Congress rule until 1993, and then a return to the Communists.[101]
 
 Barak Valley
 
@@ -136,13 +134,13 @@ The Barak Valley joined the union of India after its partition from Sylhet in 19
 
 Bangladesh
 
-Shaheed_minar_Roehl.jpg in Dhaka commemorates the 1952 Language Movement]]
+in Dhaka commemorates the 1952 Language Movement]]
 
 East Pakistan (1947–1971)
 
 In 1948, the Government of the Dominion of Pakistan ordained Urdu as the sole national language, sparking extensive protests among the Bengali-speaking majority of East Bengal. Facing rising sectarian tensions and mass discontent with the new law, the government outlawed public meetings and rallies. The students of the University of Dhaka and other political activists defied the law and organised a protest on 21 February 1952. The movement reached its climax when several student demonstrators were shot dead by police firing. As a result of the movement, Pakistan government in 1956 included Bengali as national lanuage along with Urdu. UNESCO in 1999 declared 21 February as International Mother Language Day honoring the 1952 incident.
 
-East Bengal, which was later renamed to East Pakistan in 1955, was home to Pakistan's demographic majority and played an instrumental role in the founding of the new state. Strategically, Pakistan joined the Southeast Asia Treaty Organization under the Bengali prime minister Mohammad Ali of Bogra as a bulwark against communism.[102] However, tensions between East and West Pakistan grew rapidly over political exclusion, economic neglect and ethnic and linguistic discrimination. The State of Pakistan was subjected to years of military rule due to fears of Bengali political supremacy under democracy. Elected Bengali-led governments at the federal and provincial levels, which were led by statesmen such as A. K. Fazlul Huq and H. S. Suhrawardy, were deposed.[103][104] Sheikh_Mujibur_Rahman_in_1950.jpg led Bengali's decade long independence struggle including the Bangladesh Liberation War of 1971]] East Pakistan witnessed the rise of Bengali self determination calls led by Sheikh Mujibur Rahman and Maulana Bhashani in the 1960s.[105] Rahman launched the Six point movement for autonomy in 1966. After the 1970 national election, Rahman's party, the Awami League, had emerged as the largest party in Pakistan's parliament. The erstwhile Pakistani military junta refused to accept election results which triggered civil disobedience across East Pakistan. The Pakistani military responded by launching a genocide that caused the Bangladesh Liberation War in 1971. The first Government of Bangladesh and the Mukti Bahini waged a guerrilla campaign with support from neighboring India, which hosted millions of war refugees. Global support for the independence of East Pakistan increased due to the conflict's humanitarian crisis, with the Indian Armed Forces intervening in support of the Bangladesh Forces in the final two weeks of the war and ensuring Pakistan's surrender.[106]
+East Bengal, which was later renamed to East Pakistan in 1955, was home to Pakistan's demographic majority and played an instrumental role in the founding of the new state. Strategically, Pakistan joined the Southeast Asia Treaty Organization under the Bengali prime minister Mohammad Ali of Bogra as a bulwark against communism.[102] However, tensions between East and West Pakistan grew rapidly over political exclusion, economic neglect and ethnic and linguistic discrimination. The State of Pakistan was subjected to years of military rule due to fears of Bengali political supremacy under democracy. Elected Bengali-led governments at the federal and provincial levels, which were led by statesmen such as A. K. Fazlul Huq and H. S. Suhrawardy, were deposed.[103][104] led Bengali's decade long independence struggle including the Bangladesh Liberation War of 1971]] East Pakistan witnessed the rise of Bengali self determination calls led by Sheikh Mujibur Rahman and Maulana Bhashani in the 1960s.[105] Rahman launched the Six point movement for autonomy in 1966. After the 1970 national election, Rahman's party, the Awami League, had emerged as the largest party in Pakistan's parliament. The erstwhile Pakistani military junta refused to accept election results which triggered civil disobedience across East Pakistan. The Pakistani military responded by launching a genocide that caused the Bangladesh Liberation War in 1971. The first Government of Bangladesh and the Mukti Bahini waged a guerrilla campaign with support from neighboring India, which hosted millions of war refugees. Global support for the independence of East Pakistan increased due to the conflict's humanitarian crisis, with the Indian Armed Forces intervening in support of the Bangladesh Forces in the final two weeks of the war and ensuring Pakistan's surrender.[106]
 
 Bangladesh (1971–present)
 
@@ -170,7 +168,7 @@ Politically, the region is divided between the People's Republic of Bangladesh, 
 
 Bangladeshi Republic
 
-রাতের_বেলায়_বঙ্গভবনের_সৌন্দর্য্য!_02.jpg (the _House of Bengal_) is the official residence of the president of Bangladesh]] The state of Bangladesh is a parliamentary republic based on the Westminster system, with a written constitution and a President elected by parliament for mostly ceremonial purposes. The government is headed by a Prime Minister, who is appointed by the President from among the popularly elected 300 Members of Parliament in the Jatiyo Sangshad, the national parliament. The Prime Minister is traditionally the leader of the single largest party in the Jatiyo Sangshad. Under the constitution, while recognising Islam as the country's established religion, the constitution grants freedom of religion to non-Muslims.
+(the _House of Bengal_) is the official residence of the president of Bangladesh]] The state of Bangladesh is a parliamentary republic based on the Westminster system, with a written constitution and a President elected by parliament for mostly ceremonial purposes. The government is headed by a Prime Minister, who is appointed by the President from among the popularly elected 300 Members of Parliament in the Jatiyo Sangshad, the national parliament. The Prime Minister is traditionally the leader of the single largest party in the Jatiyo Sangshad. Under the constitution, while recognising Islam as the country's established religion, the constitution grants freedom of religion to non-Muslims.
 
 Between 1975 and 1990, Bangladesh had a presidential system of government. Since the 1990s, it was administered by non-political technocratic caretaker governments on four occasions, the last being under military-backed emergency rule in 2007 and 2008. The Awami League and the Bangladesh Nationalist Party (BNP) are the two largest political parties in Bangladesh.
 
@@ -178,7 +176,7 @@ Bangladesh is a member of the UN, WTO, IMF, the World Bank, ADB, OIC, IDB, SAARC
 
 Indian Bengal
 
-Garden_with_Writers_Building_at_Rear_-_Central_Kolkata.jpg, the former official seat of the Government of West Bengal]] West Bengal, Tripura and Assam (home to the Barak Valley) are provincial states of the Republic of India, with local executives and assemblies- features shared with other states in the Indian federal system. The president of India appoints a governor as the ceremonial representative of the union government. The governor appoints the chief minister on the nomination of the legislative assembly. The chief minister is the traditionally the leader of the party or coalition with most seats in the assembly. President's rule is often imposed in Indian states as a direct intervention of the union government led by the prime minister of India.
+, the former official seat of the Government of West Bengal]] West Bengal, Tripura and Assam (home to the Barak Valley) are provincial states of the Republic of India, with local executives and assemblies- features shared with other states in the Indian federal system. The president of India appoints a governor as the ceremonial representative of the union government. The governor appoints the chief minister on the nomination of the legislative assembly. The chief minister is the traditionally the leader of the party or coalition with most seats in the assembly. President's rule is often imposed in Indian states as a direct intervention of the union government led by the prime minister of India.
 
 Each state has popularly elected members in the Indian lower house of parliament, the Lok Sabha. Each state nominates members to the Indian upper house of parliament, the Rajya Sabha.
 
@@ -212,7 +210,7 @@ About 20,000 people live on _chars_. Chars are temporary islands formed by the d
 
 Economy
 
-Biman_Bangladesh_Airlines,_S2-AJS,_Boeing_787-8_Dreamliner_-_EGLF_(41646443610).jpg is the largest airline based in the Bengal region]] Historically, Bengal has been the industrial leader of the subcontinent.
+is the largest airline based in the Bengal region]] Historically, Bengal has been the industrial leader of the subcontinent.
 
 The region is one of the largest rice producing areas in the world, with West Bengal being India's largest rice producer and Bangladesh being the world's fourth largest rice producer.[130][131] Other key crops include jute, tea, sugarcane and wheat. There are significant reserves of limestone, natural gas and coal. Major industries include textiles, leather goods, pharmaceuticals, shipbuilding, banking and information and communication technology.
 
@@ -237,41 +235,41 @@ Major cities
 
 Metropolises
 
-The following are the largest cities in Bengal (in terms of population): National_Martyrs'_Memorial_2.jpg in Dhaka, built on memories of the martyrs of Bangladesh Liberation War.
+The following are the largest cities in Bengal (in terms of population): in Dhaka, built on memories of the martyrs of Bangladesh Liberation War.
 
-]] Victoria.jpg in Kolkata, India]]
+]] in Kolkata, India]]
 
-+------+------------+---------+----------------------------------------------+---------------------------------------------------+
-| Rank | City       | Country | data-sort-type="numeric" | Population (2011) | Image                                             |
-+======+============+=========+==============================================+===================================================+
-| 1    | DHAKA      |         | data-sort-value="1" | 8,906,039[137]         | GulshanDhaka.jpg]]                                |
-+------+------------+---------+----------------------------------------------+---------------------------------------------------+
-| 2    | KOLKATA    |         | data-sort-value="2" | 4,496,694[138]         | Calcutta_skyline.jpg]]                            |
-+------+------------+---------+----------------------------------------------+---------------------------------------------------+
-| 3    | CHITTAGONG |         | data-sort-value="3" | 2,592,439[139]         | Chittagong_city_skyline.jpg]]                     |
-+------+------------+---------+----------------------------------------------+---------------------------------------------------+
-| 4    | KHULNA     |         | data-sort-value="6" | 664,728[140]           | Khulna_Sky_View.jpg]]                             |
-+------+------------+---------+----------------------------------------------+---------------------------------------------------+
-| 5    | DURGAPUR   |         | data-sort-value="9" | 566,517[141]           | Durgapur_Xpressway.jpg                            |
-+------+------------+---------+----------------------------------------------+---------------------------------------------------+
-| 6    | ASANSOL    |         | data-sort-value="10" | 563,917[142]          | Modernisation_of_ISP.JPG                          |
-+------+------------+---------+----------------------------------------------+---------------------------------------------------+
-| 7    | BOGRA      |         | data-sort-value="13" | 540,000[143]          | Bogra_Sathmatha.jpg]]                             |
-+------+------------+---------+----------------------------------------------+---------------------------------------------------+
-| 8    | SYLHET     |         | data-sort-value="11" | 526,412[144]          | Night_View_Sylhet_Keane_Bridge.jpg]]              |
-+------+------------+---------+----------------------------------------------+---------------------------------------------------+
-| 9    | SILIGURI   |         | data-sort-value="12" | 513,264[145][146]     | Siliguri_view.jpg]]                               |
-+------+------------+---------+----------------------------------------------+---------------------------------------------------+
-| 10   | RAJSHAHI   |         | data-sort-value="7" | 449,756[147]           | Rajshahi_skyline.jpg]]                            |
-+------+------------+---------+----------------------------------------------+---------------------------------------------------+
-| 11   | AGARTALA   |         | data-sort-value="15" | 400,004[148]          | Tripura_State_Museum_Agartala_Tripura_India.jpg]] |
-+------+------------+---------+----------------------------------------------+---------------------------------------------------+
++------+------------+---------+----------------------------------------------+-------+
+| Rank | City       | Country | data-sort-type="numeric" | Population (2011) | Image |
++======+============+=========+==============================================+=======+
+| 1    | DHAKA      |         | data-sort-value="1" | 8,906,039[137]         | ]]    |
++------+------------+---------+----------------------------------------------+-------+
+| 2    | KOLKATA    |         | data-sort-value="2" | 4,496,694[138]         | ]]    |
++------+------------+---------+----------------------------------------------+-------+
+| 3    | CHITTAGONG |         | data-sort-value="3" | 2,592,439[139]         | ]]    |
++------+------------+---------+----------------------------------------------+-------+
+| 4    | KHULNA     |         | data-sort-value="6" | 664,728[140]           | ]]    |
++------+------------+---------+----------------------------------------------+-------+
+| 5    | DURGAPUR   |         | data-sort-value="9" | 566,517[141]           |       |
++------+------------+---------+----------------------------------------------+-------+
+| 6    | ASANSOL    |         | data-sort-value="10" | 563,917[142]          |       |
++------+------------+---------+----------------------------------------------+-------+
+| 7    | BOGRA      |         | data-sort-value="13" | 540,000[143]          | ]]    |
++------+------------+---------+----------------------------------------------+-------+
+| 8    | SYLHET     |         | data-sort-value="11" | 526,412[144]          | ]]    |
++------+------------+---------+----------------------------------------------+-------+
+| 9    | SILIGURI   |         | data-sort-value="12" | 513,264[145][146]     | ]]    |
++------+------------+---------+----------------------------------------------+-------+
+| 10   | RAJSHAHI   |         | data-sort-value="7" | 449,756[147]           | ]]    |
++------+------------+---------+----------------------------------------------+-------+
+| 11   | AGARTALA   |         | data-sort-value="15" | 400,004[148]          | ]]    |
++------+------------+---------+----------------------------------------------+-------+
 
 : List of major cities in Bengal
 
 Major ports
 
-Straddle_carrier_from_Port_of_Chittagong_(05).JPG]]
+]]
 
 +----------------------------+------------+--------+---------------------------------------------+-------------------+
 | Port Name                  | Type       | Status | Location                                    | Country           |
@@ -296,34 +294,34 @@ Straddle_carrier_from_Port_of_Chittagong_(05).JPG]]
 
 Tourist attractions
 
-+-------------------------+------------------------------------------------------+-----------------------------------------------+------------------------------------------------------------------+
-| Name                    | Type                                                 | City/Area                                     | Sample Image                                                     |
-+=========================+======================================================+===============================================+==================================================================+
-| Sundarbans              | World's largest natural mangrove forest              | Khulna, Satkhira, Bagerhat, South 24 Parganas | Sundarban_Tiger.jpg (_Panthera tigris tigris_) from Sundarbans]] |
-+-------------------------+------------------------------------------------------+-----------------------------------------------+------------------------------------------------------------------+
-| Cox's Bazar             | World's longest uninterrupted sea beach              | Cox's Bazar                                   | Himchari_1.jpg sea beach]]                                       |
-+-------------------------+------------------------------------------------------+-----------------------------------------------+------------------------------------------------------------------+
-| Kuakata                 | Sea beach                                            | Patuakhali                                    | Kuakata_Sea_Beach.JPG sea beach]]                                |
-+-------------------------+------------------------------------------------------+-----------------------------------------------+------------------------------------------------------------------+
-| Digha                   | Sea beach                                            | East Midnapur                                 | Sunrise_@_Digha.jpg sea beach]]                                  |
-+-------------------------+------------------------------------------------------+-----------------------------------------------+------------------------------------------------------------------+
-| Chittagong Hill Tracts  | Hilly areas inhabited by different indigenous tribes | Rangamati, Khagrachhari, Bandarban            | Road_through_Sajek.jpg                                           |
-+-------------------------+------------------------------------------------------+-----------------------------------------------+------------------------------------------------------------------+
-| Ratargul                | Only swamp forest in the Bengal region               | Sylhet District                               | Ratargul_Swamp_Forest,_Sylhet..jpg                               |
-+-------------------------+------------------------------------------------------+-----------------------------------------------+------------------------------------------------------------------+
-| Lawachara National Park | Major national park and nature reserve               | Moulvibazar, Sylhet                           | Life_around_jungle.jpg                                           |
-+-------------------------+------------------------------------------------------+-----------------------------------------------+------------------------------------------------------------------+
-| Satchhari               | Reserve forest                                       | Habiganj, Sylhet                              | Satchari_National_Park,_Habiganj,_Sylhet.jpg                     |
-+-------------------------+------------------------------------------------------+-----------------------------------------------+------------------------------------------------------------------+
-| Siliguri                | Hilly area of foothills of Himalayas                 | Darjeeling, Jalpaiguri                        | Siliguri_view.jpg                                                |
-+-------------------------+------------------------------------------------------+-----------------------------------------------+------------------------------------------------------------------+
++-------------------------+------------------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Name                    | Type                                                 | City/Area                                     | Sample Image                                 |
++=========================+======================================================+===============================================+==============================================+
+| Sundarbans              | World's largest natural mangrove forest              | Khulna, Satkhira, Bagerhat, South 24 Parganas | (_Panthera tigris tigris_) from Sundarbans]] |
++-------------------------+------------------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Cox's Bazar             | World's longest uninterrupted sea beach              | Cox's Bazar                                   | sea beach]]                                  |
++-------------------------+------------------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Kuakata                 | Sea beach                                            | Patuakhali                                    | sea beach]]                                  |
++-------------------------+------------------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Digha                   | Sea beach                                            | East Midnapur                                 | sea beach]]                                  |
++-------------------------+------------------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Chittagong Hill Tracts  | Hilly areas inhabited by different indigenous tribes | Rangamati, Khagrachhari, Bandarban            |                                              |
++-------------------------+------------------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Ratargul                | Only swamp forest in the Bengal region               | Sylhet District                               |                                              |
++-------------------------+------------------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Lawachara National Park | Major national park and nature reserve               | Moulvibazar, Sylhet                           |                                              |
++-------------------------+------------------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Satchhari               | Reserve forest                                       | Habiganj, Sylhet                              |                                              |
++-------------------------+------------------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Siliguri                | Hilly area of foothills of Himalayas                 | Darjeeling, Jalpaiguri                        |                                              |
++-------------------------+------------------------------------------------------+-----------------------------------------------+----------------------------------------------+
 
 : List of The Tourist Attraction of Bengal
 
 
 Strategic importance
 
-Stacking_Intermodal_container_in_Port_of_Chittagong_(11).jpg is home to the busiest port on the Bay of Bengal]] The Bengal region is located at the crossroads of two huge economic blocs, the SAARC and ASEAN. It gives access to the sea for the landlocked countries of Bhutan and Nepal, as well as the Seven Sister States of North East India. It is also located near China's southern landlocked region, including Yunnan and Tibet.
+is home to the busiest port on the Bay of Bengal]] The Bengal region is located at the crossroads of two huge economic blocs, the SAARC and ASEAN. It gives access to the sea for the landlocked countries of Bhutan and Nepal, as well as the Seven Sister States of North East India. It is also located near China's southern landlocked region, including Yunnan and Tibet.
 
 Both India and Bangladesh plan to expand onshore and offshore oil and gas operations. Bangladesh is Asia's seventh-largest natural gas producer. Its maritime exclusive economic zone potentially holds many of the largest gas reserves in the Asia-Pacific.[149]
 
@@ -336,17 +334,17 @@ Culture
 
 Language
 
-Bengali_letters.svg]] The Bengali language developed between the 7th and 10th centuries from Apabhraṃśa and Magadhi Prakrit.[150] It is written using the indigenous Bengali alphabet, a descendant of the ancient Brahmi script. Bengali is the 10th most spoken language in the world. It is an eastern Indo-Aryan language and one of the easternmost branches of the Indo-European language family. It is part of the Bengali-Assamese languages. Bengali has greatly influenced other languages in the region, including Odia, Assamese, Chakma, Nepali and Rohingya. It is the sole state language of Bangladesh and the third most spoken language in India.
+]] The Bengali language developed between the 7th and 10th centuries from Apabhraṃśa and Magadhi Prakrit.[150] It is written using the indigenous Bengali alphabet, a descendant of the ancient Brahmi script. Bengali is the 10th most spoken language in the world. It is an eastern Indo-Aryan language and one of the easternmost branches of the Indo-European language family. It is part of the Bengali-Assamese languages. Bengali has greatly influenced other languages in the region, including Odia, Assamese, Chakma, Nepali and Rohingya. It is the sole state language of Bangladesh and the third most spoken language in India.
 
 Bengali binds together a culturally diverse region and is an important contributor to regional identity. The 1952 Bengali Language Movement in East Pakistan is commemorated by UNESCO as International Mother Language Day, as part of global efforts to preserve linguistic identity.
 
 Currency
 
-Coin_-_Silver_-_Circa_9-10th_Century_13th_Century_CE_-_Harikela_Kingdom_-_ACCN_90-C2752_-_Indian_Museum_-_Kolkata_2014-04-04_4303.JPG In both Bangladesh and West Bengal, currency is commonly denominated as taka. The Bangladesh taka is an official standard bearer of this tradition, while the Indian rupee is also written as taka in Bengali script on all of its banknotes. The history of the taka dates back centuries. Bengal was home one of the world's earliest coin currencies in the first millennium BCE. Under the Delhi Sultanate, the taka was introduced by Muhammad bin Tughluq in 1329. Bengal became the stronghold of the taka. The silver currency was the most important symbol of sovereignty of the Sultanate of Bengal. It was traded on the Silk Road and replicated in Nepal and China's Tibetan protectorate. The Pakistani rupee was scripted in Bengali as taka on its banknotes until Bangladesh's creation in 1971.
+In both Bangladesh and West Bengal, currency is commonly denominated as taka. The Bangladesh taka is an official standard bearer of this tradition, while the Indian rupee is also written as taka in Bengali script on all of its banknotes. The history of the taka dates back centuries. Bengal was home one of the world's earliest coin currencies in the first millennium BCE. Under the Delhi Sultanate, the taka was introduced by Muhammad bin Tughluq in 1329. Bengal became the stronghold of the taka. The silver currency was the most important symbol of sovereignty of the Sultanate of Bengal. It was traded on the Silk Road and replicated in Nepal and China's Tibetan protectorate. The Pakistani rupee was scripted in Bengali as taka on its banknotes until Bangladesh's creation in 1971.
 
 Literature
 
-Tagore_Iran.jpg, known as the Bengali Shakespeare, being hosted at the Parliament of Iran in the 1930s]] Bengali literature has a rich heritage. It has a history stretching back to the 3rd century BCE, when the main language was Sanskrit written in the brahmi script. The Bengali language and script evolved circa 1000 CE from Magadhi Prakrit. Bengal has a long tradition in folk literature, evidenced by the _Chôrjapôdô_, _Mangalkavya_, _Shreekrishna Kirtana_, _Maimansingha Gitika_ or _Thakurmar Jhuli_. Bengali literature in the medieval age was often either religious (e.g. Chandidas), or adaptations from other languages (e.g. Alaol). During the Bengal Renaissance of the nineteenth and twentieth centuries, Bengali literature was modernised through the works of authors such as Michael Madhusudan Dutta, Ishwar Chandra Vidyasagar, Bankim Chandra Chattopadhyay, Rabindranath Tagore, Sarat Chandra Chattopadhyay, Kazi Nazrul Islam, Satyendranath Dutta and Jibanananda Das. In the 20th century, prominent modern Bengali writers included Syed Mujtaba Ali, Jasimuddin, Manik Bandopadhyay, Tarasankar Bandyopadhyay, Bibhutibhushan Bandyopadhyay, Buddhadeb Bose, Sunil Gangopadhyay and Humayun Ahmed.
+, known as the Bengali Shakespeare, being hosted at the Parliament of Iran in the 1930s]] Bengali literature has a rich heritage. It has a history stretching back to the 3rd century BCE, when the main language was Sanskrit written in the brahmi script. The Bengali language and script evolved circa 1000 CE from Magadhi Prakrit. Bengal has a long tradition in folk literature, evidenced by the _Chôrjapôdô_, _Mangalkavya_, _Shreekrishna Kirtana_, _Maimansingha Gitika_ or _Thakurmar Jhuli_. Bengali literature in the medieval age was often either religious (e.g. Chandidas), or adaptations from other languages (e.g. Alaol). During the Bengal Renaissance of the nineteenth and twentieth centuries, Bengali literature was modernised through the works of authors such as Michael Madhusudan Dutta, Ishwar Chandra Vidyasagar, Bankim Chandra Chattopadhyay, Rabindranath Tagore, Sarat Chandra Chattopadhyay, Kazi Nazrul Islam, Satyendranath Dutta and Jibanananda Das. In the 20th century, prominent modern Bengali writers included Syed Mujtaba Ali, Jasimuddin, Manik Bandopadhyay, Tarasankar Bandyopadhyay, Bibhutibhushan Bandyopadhyay, Buddhadeb Bose, Sunil Gangopadhyay and Humayun Ahmed.
 
 Prominent contemporary Bengali writers in English include Amitav Ghosh, Tahmima Anam, Jhumpa Lahiri and Zia Haider Rahman among others.
 
@@ -356,13 +354,13 @@ The Mother Bengal is a female personification of Bengal which was created during
 
 Art
 
-CezanneGalleryofSaifulIslam2012.JPG The Pala-Sena School of Art developed in Bengal between the 8th and 12th centuries and is considered a high point of classical Asian art.[152][153] It included sculptures and paintings.[154]
+The Pala-Sena School of Art developed in Bengal between the 8th and 12th centuries and is considered a high point of classical Asian art.[152][153] It included sculptures and paintings.[154]
 
 Islamic Bengal was noted for its production of the finest cotton fabrics and saris, notably the Jamdani, which received warrants from the Mughal court.[155] The Bengal School of painting flourished in Kolkata and Shantiniketan in the British Raj during the early 20th century. Its practitioners were among the harbingers of modern painting in India.[156] Zainul Abedin was the pioneer of modern Bangladeshi art. The country has a thriving and internationally acclaimed contemporary art scene.[157]
 
 Architecture
 
-Momin_Mosque_after_restoration.jpgs originated from Bengali architecture]] Classical Bengali architecture features terracotta buildings. Ancient Bengali kingdoms laid the foundations of the region's architectural heritage through the construction of monasteries and temples (for example, the Somapura Mahavihara). During the sultanate period, a distinct and glorious Islamic style of architecture developed the region.[158] Most Islamic buildings were small and highly artistic terracotta mosques with multiple domes and no minarets. Bengal was also home to the largest mosque in South Asia at Adina. Bengali vernacular architecture is credited for inspiring the popularity of the bungalow.[159]
+s originated from Bengali architecture]] Classical Bengali architecture features terracotta buildings. Ancient Bengali kingdoms laid the foundations of the region's architectural heritage through the construction of monasteries and temples (for example, the Somapura Mahavihara). During the sultanate period, a distinct and glorious Islamic style of architecture developed the region.[158] Most Islamic buildings were small and highly artistic terracotta mosques with multiple domes and no minarets. Bengal was also home to the largest mosque in South Asia at Adina. Bengali vernacular architecture is credited for inspiring the popularity of the bungalow.[159]
 
 The Bengal region also has a rich heritage of Indo-Saracenic architecture, including numerous zamindar palaces and mansions. The most prominent example of this style is the Victoria Memorial, Kolkata.
 
@@ -370,11 +368,11 @@ In the 1950s, Muzharul Islam pioneered the modernist terracotta style of archite
 
 Sciences
 
-FR_khan_sculputure_at_Sears_tower.jpg at the Sears Tower in the United States]] The Gupta dynasty, which is believed to have originated in North Bengal, pioneered the invention of chess, the concept of zero, the theory of Earth orbiting the Sun, the study of solar and lunar eclipses and the flourishing of Sanskrit literature and drama.[162][163] Bengal was the leader of scientific endeavors in the subcontinent during the British Raj. The educational reforms during this period gave birth to many distinguished scientists in the region. Sir Jagadish Chandra Bose pioneered the investigation of radio and microwave optics, made very significant contributions to plant science, and laid the foundations of experimental science in the Indian subcontinent.[164] IEEE named him one of the fathers of radio science.[165] He was the first person from the Indian subcontinent to receive a US patent, in 1904. In 1924–25, while researching at the University of Dhaka, Prof Satyendra Nath Bose well known for his works in quantum mechanics, provided the foundation for Bose–Einstein statistics and the theory of the Bose–Einstein condensate.[166][167] Meghnad Saha was the first scientist to relate a star's spectrum to its temperature, developing thermal ionization equations (notably the Saha ionization equation) that have been foundational in the fields of astrophysics and astrochemistry.[168] Amal Kumar Raychaudhuri was a physicist, known for his research in general relativity and cosmology. His most significant contribution is the eponymous Raychaudhuri equation, which demonstrates that singularities arise inevitably in general relativity and is a key ingredient in the proofs of the Penrose–Hawking singularity theorems.[169] In the United States, the Bangladeshi-American engineer Fazlur Rahman Khan emerged as the "father of tubular designs" in skyscraper construction. Ashoke Sen is an Indian theoretical physicist whose main area of work is string theory. He was among the first recipients of the Fundamental Physics Prize “for opening the path to the realisation that all string theories are different limits of the same underlying theory”.[170]
+at the Sears Tower in the United States]] The Gupta dynasty, which is believed to have originated in North Bengal, pioneered the invention of chess, the concept of zero, the theory of Earth orbiting the Sun, the study of solar and lunar eclipses and the flourishing of Sanskrit literature and drama.[162][163] Bengal was the leader of scientific endeavors in the subcontinent during the British Raj. The educational reforms during this period gave birth to many distinguished scientists in the region. Sir Jagadish Chandra Bose pioneered the investigation of radio and microwave optics, made very significant contributions to plant science, and laid the foundations of experimental science in the Indian subcontinent.[164] IEEE named him one of the fathers of radio science.[165] He was the first person from the Indian subcontinent to receive a US patent, in 1904. In 1924–25, while researching at the University of Dhaka, Prof Satyendra Nath Bose well known for his works in quantum mechanics, provided the foundation for Bose–Einstein statistics and the theory of the Bose–Einstein condensate.[166][167] Meghnad Saha was the first scientist to relate a star's spectrum to its temperature, developing thermal ionization equations (notably the Saha ionization equation) that have been foundational in the fields of astrophysics and astrochemistry.[168] Amal Kumar Raychaudhuri was a physicist, known for his research in general relativity and cosmology. His most significant contribution is the eponymous Raychaudhuri equation, which demonstrates that singularities arise inevitably in general relativity and is a key ingredient in the proofs of the Penrose–Hawking singularity theorems.[169] In the United States, the Bangladeshi-American engineer Fazlur Rahman Khan emerged as the "father of tubular designs" in skyscraper construction. Ashoke Sen is an Indian theoretical physicist whose main area of work is string theory. He was among the first recipients of the Fundamental Physics Prize “for opening the path to the realisation that all string theories are different limits of the same underlying theory”.[170]
 
 Music
 
-Tharundas_baul.jpg musician. The Baul ballads of Bengal are classified by UNESCO as humanity's intangible cultural heritage]] The Baul tradition is a unique heritage of Bengali folk music.[171] The 19th century mystic poet Lalon Shah is the most celebrated practitioner of the tradition.[172] Other folk music forms include Gombhira, Bhatiali and Bhawaiya. Hason Raja is a renowned folk poet of the Sylhet region. Folk music in Bengal is often accompanied by the ektara, a one-stringed instrument. Other instruments include the dotara, dhol, flute, and tabla. The region also has a rich heritage in North Indian classical music.
+musician. The Baul ballads of Bengal are classified by UNESCO as humanity's intangible cultural heritage]] The Baul tradition is a unique heritage of Bengali folk music.[171] The 19th century mystic poet Lalon Shah is the most celebrated practitioner of the tradition.[172] Other folk music forms include Gombhira, Bhatiali and Bhawaiya. Hason Raja is a renowned folk poet of the Sylhet region. Folk music in Bengal is often accompanied by the ektara, a one-stringed instrument. Other instruments include the dotara, dhol, flute, and tabla. The region also has a rich heritage in North Indian classical music.
 
 Cuisine
 
@@ -382,7 +380,7 @@ Bengali cuisine is the only traditionally developed multi-course tradition from 
 
 Boats
 
-Frans_Balthasar_Solvyns_-_Budgerow.jpg]] There are 150 types of Bengali country boats plying the 700 rivers of the Bengal delta, the vast floodplain and many oxbow lakes. They vary in design and size. The boats include the dinghy and sampan among others. Country boats are a central element of Bengali culture and have inspired generations of artists and poets, including the ivory artisans of the Mughal era. The country has a long shipbuilding tradition, dating back many centuries. Wooden boats are made of timber such as _Jarul_ (dipterocarpus turbinatus),'' sal'' (shorea robusta), _sundari_ (heritiera fomes), and _Burma teak_ (tectons grandis). Medieval Bengal was shipbuilding hub for the Mughal and Ottoman navies.[174][175] The British Royal Navy later utilized Bengali shipyards in the 19th-century, including for the Battle of Trafalgar.
+]] There are 150 types of Bengali country boats plying the 700 rivers of the Bengal delta, the vast floodplain and many oxbow lakes. They vary in design and size. The boats include the dinghy and sampan among others. Country boats are a central element of Bengali culture and have inspired generations of artists and poets, including the ivory artisans of the Mughal era. The country has a long shipbuilding tradition, dating back many centuries. Wooden boats are made of timber such as _Jarul_ (dipterocarpus turbinatus),'' sal'' (shorea robusta), _sundari_ (heritiera fomes), and _Burma teak_ (tectons grandis). Medieval Bengal was shipbuilding hub for the Mughal and Ottoman navies.[174][175] The British Royal Navy later utilized Bengali shipyards in the 19th-century, including for the Battle of Trafalgar.
 
 Attire
 

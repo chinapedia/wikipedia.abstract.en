@@ -27,8 +27,6 @@ Cast
 
 Production
 
-GvKG_-_behind_scenes.jpg
-
 Conception
 
 Although the previously filmed _Godzilla vs. Biollante_ had been the most expensive _Godzilla_ film produced at the time, its low audience attendance and loss of revenue convinced executive producer and _Godzilla_ series creator Tomoyuki Tanaka to revitalize the series by bringing back iconic monsters from pre-1984 _Godzilla_ movies, specifically Godzilla's archenemy King Ghidorah.[3]
@@ -39,7 +37,7 @@ Akira Ifukube agreed to compose the film's score on the insistence of his daught
 
 Special effects
 
-KIDS_prop_model_right_front_view_at_Akashi_City_Museum_of_Culture_July_29,_2018.jpg The Godzilla suits used in _Godzilla vs. Biollante_ were reused in _Godzilla vs. King Ghidorah_, though with slight modifications. The original suit used for land-based and full body shots had its head replaced with a wider and flatter one, and the body cut in half. The upper half was used in scenes where Godzilla emerges from the sea and during close-ups during the character's first fight with King Ghidorah. The suit used previously for scenes set at sea was modified with rounder shoulders, a more prominent chest, and an enhanced face, and was used throughout the majority of the film's Godzilla scenes.[6]
+The Godzilla suits used in _Godzilla vs. Biollante_ were reused in _Godzilla vs. King Ghidorah_, though with slight modifications. The original suit used for land-based and full body shots had its head replaced with a wider and flatter one, and the body cut in half. The upper half was used in scenes where Godzilla emerges from the sea and during close-ups during the character's first fight with King Ghidorah. The suit used previously for scenes set at sea was modified with rounder shoulders, a more prominent chest, and an enhanced face, and was used throughout the majority of the film's Godzilla scenes.[6]
 
 The redesigned King Ghidorah featured much more advanced wirework puppetry than its predecessors, and effects team leader Koichi Kawakita designed the "Godzillasaurus" as a more paleontologically accurate-looking dinosaur than Godzilla itself as a nod to American filmmakers aspiring to direct their own _Godzilla_ films with the intention of making the monster more realistic.[7] Ōmori's original draft specified that the dinosaur that would become Godzilla was a _Tyrannosaurus_, though this was rejected by creature designer Shinji Nishikawa, who stated that he "couldn't accept that a tyrannosaur could become Godzilla". The final suit combined features of _Tyrannosaurus_ with Godzilla, and real octopus blood was used during the bombardment scene. Because the Godzillasaurus' arms were much smaller than Godzilla's, suit performer Wataru Fukuda had to operate them with levers within the costume. The creature's distress calls were recycled Gamera cries.[8]
 

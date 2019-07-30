@@ -13,7 +13,7 @@ Development
 
 Sparrow I
 
-XF3D-1_AAM-N-2_NAN7-54.jpg in the early 1950s]]
+in the early 1950s]]
 
 from a late-1940s United States Navy program to develop a guided rocket weapon for air-to-air use. In 1947 the Navy contracted Sperry to build a beam riding version of a standard HVAR, the standard unguided aerial rocket, under PROJECT HOTSHOT. The weapon was initially dubbed KAS-1, then AAM-2, and, from 1948 on, AAM-N-2. The airframe was developed by Douglas Aircraft Company. The diameter of the HVAR proved to be inadequate for the electronics, leading Douglas to expand the missile's airframe to diameter. The prototype weapon began unpowered flight-tests in 1947, and made its first aerial interception in 1952.[2]
 
@@ -23,7 +23,7 @@ Sparrow I was a limited and rather primitive weapon. The limitations of beam-rid
 
 Sparrow II
 
-Sparrow_2_Missile.jpg As early as 1950 Douglas examined equipping the Sparrow with an active radar seeker, initially known as XAAM-N-2A _SPARROW II_, the original retroactively becoming _SPARROW I_. In 1952 it was given the new code AAM-N-3. The active radar made the Sparrow II a "fire and forget" weapon, allowing several to be fired at separate targets at the same time.
+As early as 1950 Douglas examined equipping the Sparrow with an active radar seeker, initially known as XAAM-N-2A _SPARROW II_, the original retroactively becoming _SPARROW I_. In 1952 it was given the new code AAM-N-3. The active radar made the Sparrow II a "fire and forget" weapon, allowing several to be fired at separate targets at the same time.
 
 By 1955 Douglas proposed going ahead with development, intending it to be the primary weapon for the F5D Skylancer interceptor. It was later selected, with some controversy, to be the primary weapon for the Canadian Avro Arrow supersonic interceptor, along with the new Astra fire-control system. For Canadian use and as a second source for US missiles, Canadair was selected to build the missiles in Quebec.
 
@@ -35,7 +35,7 @@ A subvariant of the Sparrow I armed with the same nuclear warhead as the MB-1 Ge
 
 Sparrow III
 
-Sparrow_III_launch_F3H-2M_NAN2-59.jpg launching a Sparrow III in 1958]]
+launching a Sparrow III in 1958]]
 
 Concurrently with the development of the Sparrow I, in 1951, Raytheon began work on the semi-active radar homing version of Sparrow family of missiles, the AAM-N-6 _SPARROW III_. The first of these weapons entered United States Navy service in 1958.
 
@@ -119,8 +119,6 @@ Foreign versions
 
 Canada
 
-Canadair_Sparrow_missile.jpg
-
 As part of the Avro Canada CF-105 Arrow program, Canadair (now Bombardier) partnered with Douglas Aircraft Company in the development of the Sparrow II (AAM-N-3/AIM-7B). After Douglas dropped out of this program, Canadair continued on with it until the termination of the Arrow project.
 
 The AAM-N-3 Sparrow II was unique in that it had a fully active radar guidance system.[11] This combined both a radar transmitter and receiver in the missile, making it unnecessary for the pilot to keep the aircraft aimed at the target after firing the missile,[12] unlike Semi-active radar homing (SARH) missiles which require continuous radar-assisted guidance throughout flight. This allowed the aircraft that fired the AAM-N-3 to turn away, prosecute other targets, and/or escape from potential retaliatory missiles fired by the enemy aircraft during the time it takes for the Sparrow to reach its target. Despite the significant advantages of this design over SARH guidance, all subsequent models of the Sparrow use semi-active radar homing.
@@ -147,8 +145,6 @@ The Soviet Union acquired an AIM-7 in 1968 and a Vympel team started copying it 
 
 UK
 
-EAP_Leaving_Loughborough_7.jpg
-
 British Aerospace (BAe) licensed the AIM-7E2 technology in the 1970s, producing the SKYFLASH missile. Skyflash used a Marconi XJ521 monopulse Semi-Active seeker together with improvements to the electronics. It was powered by the Aerojet Mk52 mod 2 rocket engine (later by the Rocketdyne Mk38 mod 4). Skyflash entered service with the Royal Air Force (RAF) on their Phantom FG.1/FGR.2 in 1978, and later on the Tornado F3. Skyflash was also exported to Sweden for use on their Viggen fighters.
 
 An upgraded version with active radar seeker, called ACTIVE SKY FLASH was proposed by BAe and Thomson-CSF, but did not receive funding because the RAF opted for other missiles.[18]
@@ -167,8 +163,6 @@ The launching aircraft will illuminate the target with its radar. In radars of t
 
 
 Operators
-
-AIM-7_operators.png
 
 -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
 

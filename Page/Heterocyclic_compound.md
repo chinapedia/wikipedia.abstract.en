@@ -1,4 +1,4 @@
-Ring structure}} Heterocycle_compounds.jpg Pyridine.svg, a heterocyclic compound]] Cyclooctasulfur_structural_formula_3D.svg, a homocyclic compound]] A HETEROCYCLIC COMPOUND or RING STRUCTURE is a cyclic compound that has atoms of at least two different elements as members of its ring(s).[1] HETEROCYCLIC CHEMISTRY is the branch of organic chemistry dealing with the synthesis, properties, and applications of these HETEROCYCLES.[2]
+Ring structure}} , a heterocyclic compound]] , a homocyclic compound]] A HETEROCYCLIC COMPOUND or RING STRUCTURE is a cyclic compound that has atoms of at least two different elements as members of its ring(s).[1] HETEROCYCLIC CHEMISTRY is the branch of organic chemistry dealing with the synthesis, properties, and applications of these HETEROCYCLES.[2]
 
 Examples of heterocyclic compounds include all of the nucleic acids, the majority of drugs, most biomass (cellulose and related materials), and many natural and synthetic dyes. 59% of US FDA-approved drugs contain nitrogen heterocycles.[3]
 
@@ -226,23 +226,23 @@ Images
 
     _Names in italics are retained by IUPAC and they do not follow the Hantzsch-Widman nomenclature_
 
-                                           Saturated                        Unsaturated
-  ---------------------------------------- -------------------------------- ------------------------
-  Heteroatom                               Nitrogen                         Oxygen
-  3-Atom Ring                              Aziridine                        Oxirane
-  Aziridin.svg                             Ethylene-oxide-2D-skeletal.svg   Thiiran.svg
-  4-Atom Ring                              Azetidine                        Oxetane
-  Azetidine_structure.svg                  Oxetan.png                       Thietan.png
-  5-Atom Ring                              _Pyrrolidine_                    Oxolane
-  Pyrrolidine-Structural_Formula_V.1.svg   Tetrahydrofuran_acsv.svg         Tetrahydrothiophen.png
-  6-Atom Ring                              _Piperidine_                     Oxane
-  Piperidin.svg                            Tetrahydropyran_(vzorec).svg     Thiane3.svg
-  7-Atom Ring                              Azepane                          Oxepane
-  Azepan.png                               Oxepan.png                       Thiepan.png
-  8-Atom Ring                              Azocane                          Oxocane
-  Azocane.png                              Oxocano.png                      Tiocano.png
-  9-Atom Ring                              Azonane                          Oxonane
-  Azonano.png                              Oxonano.png                      Tionano.png
+                Saturated       Unsaturated
+  ------------- --------------- -------------
+  Heteroatom    Nitrogen        Oxygen
+  3-Atom Ring   Aziridine       Oxirane
+
+  4-Atom Ring   Azetidine       Oxetane
+
+  5-Atom Ring   _Pyrrolidine_   Oxolane
+
+  6-Atom Ring   _Piperidine_    Oxane
+
+  7-Atom Ring   Azepane         Oxepane
+
+  8-Atom Ring   Azocane         Oxocane
+
+  9-Atom Ring   Azonane         Oxonane
+
 
 
 Fused rings

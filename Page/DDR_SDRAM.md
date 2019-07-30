@@ -9,7 +9,7 @@ With data being transferred 64 bits at a time, DDR SDRAM gives a transfer rate (
 
 Specification standards
 
-Generic_DDR_Memory_(Xytram).jpg 4_slots_DDR.JPG Corsair_CMX512-3200C2PT_20080602.jpg DDR_layout_sketch.png Laptop_SODIMM_DDR_Memory_Comparison_V2.svg).]]
+).]]
 
 Chips and modules
 

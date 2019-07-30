@@ -19,11 +19,11 @@ The figurine of 300 BC – 500 AD) La Chimba is the site of the earliest ceramic
 
 La Tolita culture
 
-Tolita_mythological_figure_in_feathered_costume_IMJ_B77.0161.jpg mythological figure in feathered costume. Between 100 BC and 100 AD. Found in Esmeraldas.]] The La Tolita developed in the coastal region of Southern Colombia and Northern Ecuador between 600 bc and 200 AD. A Number of archaeological sites have been discovered and show the highly artistic nature of this culture. Artifacts are characterized by gold jewelry, beautiful anthropomorphous masks and figurines that reflect a hierarchical society with complex ceremonies.[5][6]
+mythological figure in feathered costume. Between 100 BC and 100 AD. Found in Esmeraldas.]] The La Tolita developed in the coastal region of Southern Colombia and Northern Ecuador between 600 bc and 200 AD. A Number of archaeological sites have been discovered and show the highly artistic nature of this culture. Artifacts are characterized by gold jewelry, beautiful anthropomorphous masks and figurines that reflect a hierarchical society with complex ceremonies.[5][6]
 
 Period of Integration and the arrival of the Inca
 
-Ecuador_ingapirca_inca_ruins.jpg Tribes throughout Ecuador integrated during this period. They created better housing that allowed them to improve their living conditions and no longer be subject to the climate. In the mountains Cosangua-Píllaro, the Capulí and Piartal-Tuza cultures arose, in the eastern region was the Yasuní Phase while the Milagro, Manteña and Huancavilca cultures developed on the coast.
+Tribes throughout Ecuador integrated during this period. They created better housing that allowed them to improve their living conditions and no longer be subject to the climate. In the mountains Cosangua-Píllaro, the Capulí and Piartal-Tuza cultures arose, in the eastern region was the Yasuní Phase while the Milagro, Manteña and Huancavilca cultures developed on the coast.
 
 The Manteños
 
@@ -65,7 +65,7 @@ Benalcázar had also founded the city of Guayaquil in 1533, but it had subsequen
 
 Spanish colonial era
 
-Real_Audiencia_de_Quito.jpg. Most of its Amazonian territory was never under its effective control.]] Between 1544 and 1563, Ecuador was an integral Spain's colonies in the New World under the Viceroyalty of Peru, having no administrative status independent of Lima. It remained a part of the Viceroyalty of Peru until 1720, when it joined the newly created Viceroyalty of New Granada; within the viceroyalty, however, Ecuador was awarded its own audiencia in 1563, allowing it to deal directly with Madrid on certain matters. The Quito Audiencia, which was both a court of justice and an advisory body to the viceroy, consisted of a president and several judges (oidores).
+. Most of its Amazonian territory was never under its effective control.]] Between 1544 and 1563, Ecuador was an integral Spain's colonies in the New World under the Viceroyalty of Peru, having no administrative status independent of Lima. It remained a part of the Viceroyalty of Peru until 1720, when it joined the newly created Viceroyalty of New Granada; within the viceroyalty, however, Ecuador was awarded its own audiencia in 1563, allowing it to deal directly with Madrid on certain matters. The Quito Audiencia, which was both a court of justice and an advisory body to the viceroy, consisted of a president and several judges (oidores).
 
 The most common form in which the Spanish occupied the land was the encomienda. By the early 17th century, there were some 500 encomiendas in Ecuador. Although many consisted of quite sizable haciendas, they were generally much smaller than the estates commonly found elsewhere in South America. A multitude of reforms and regulations did not prevent the encomienda from becoming a system of virtual slavery of the Native Ecuadorians, estimated at about one-half the total Ecuadorian population, who lived on them. In 1589 the president of the audiencia recognized that many Spaniards were accepting grants only to sell them and undertake urban occupations, and he stopped distributing new lands to Spaniards; however, the institution of the encomienda persisted until nearly the end of the colonial period.
 
@@ -78,7 +78,7 @@ The Ecuadorian economy, like that in the mother country, suffered a severe depre
 
 Jesuits of Quito during the Colonial era
 
-Plaza_principal_de_Quito,_anónimo_-_siglo_XVIII_(Museo_de_la_Moneda,_Bogotá).jpg.]] Father Rafael Ferrer was the first Jesuita de Quito (Jesuit of Quito) to explore and found missions in the upper Amazon regions of South America from 1602 to 1610, which at that period belonged to the Audiencia of Quito, that was a part of the Viceroyalty of Peru until the Audiencia of Quito was transferred to the newly created Viceroyalty of New Granada in 1717. In 1602, Father Rafael Ferrer began to explore the Aguarico, Napo, and Marañon rivers ( Sucumbios region in what is today Ecuador and Peru), and set up, between 1604 and 1605, missions among the Cofane natives. Father Rafael Ferrer was martyred when an apostate native killed him in 1610.
+.]] Father Rafael Ferrer was the first Jesuita de Quito (Jesuit of Quito) to explore and found missions in the upper Amazon regions of South America from 1602 to 1610, which at that period belonged to the Audiencia of Quito, that was a part of the Viceroyalty of Peru until the Audiencia of Quito was transferred to the newly created Viceroyalty of New Granada in 1717. In 1602, Father Rafael Ferrer began to explore the Aguarico, Napo, and Marañon rivers ( Sucumbios region in what is today Ecuador and Peru), and set up, between 1604 and 1605, missions among the Cofane natives. Father Rafael Ferrer was martyred when an apostate native killed him in 1610.
 
 In 1637, the Jesuits of Quito, Gaspar Cugia and Lucas de la Cueva began establishing some Jesuit missions in Mainas or Maynas. These missions were called the Mainas Missions after the Mainas natives that were found on the banks of the Marañon river, around the Pongo de Manseriche region, in close proximity to the close to the Spanish settlement of Borja.
 
@@ -103,13 +103,13 @@ In spite of strong opposition from the Quito Audiencia, the Junta called for a c
 
 Gran Colombia
 
-Jose_Antonio_de_Sucre.JPG The second chapter in Ecuador's struggle for emancipation from Spanish colonial rule began in Guayaquil, where independence was proclaimed in October 1820 by a local patriotic junta under the leadership of the poet José Joaquín de Olmedo. By this time, the forces of independence had grown continental in scope and were organized into two principal armies, one under the Venezuelan Simón Bolívar in the north and the other under the Argentine José de San Martín in the south. Unlike the hapless Quito junta of a decade earlier, the Guayaquil patriots were able to appeal to foreign allies, Argentina and Gran Colombia, each of whom soon responded by sending sizable contingents to Ecuador. Antonio José de Sucre, the brilliant young lieutenant of Bolívar who arrived in Guayaquil in May 1821, was to become the key figure in the ensuing military struggle against the royalist forces.
+The second chapter in Ecuador's struggle for emancipation from Spanish colonial rule began in Guayaquil, where independence was proclaimed in October 1820 by a local patriotic junta under the leadership of the poet José Joaquín de Olmedo. By this time, the forces of independence had grown continental in scope and were organized into two principal armies, one under the Venezuelan Simón Bolívar in the north and the other under the Argentine José de San Martín in the south. Unlike the hapless Quito junta of a decade earlier, the Guayaquil patriots were able to appeal to foreign allies, Argentina and Gran Colombia, each of whom soon responded by sending sizable contingents to Ecuador. Antonio José de Sucre, the brilliant young lieutenant of Bolívar who arrived in Guayaquil in May 1821, was to become the key figure in the ensuing military struggle against the royalist forces.
 
 After a number of initial successes, Sucre's army was defeated at Ambato in the central Sierra and he appealed for assistance from San Martín, whose army was by now in Peru. With the arrival from the south of 1,400 fresh soldiers under the command of Andrés de Santa Cruz Calahumana, the fortunes of the patriotic army were again reversed. A string of victories culminated in the decisive Battle of Pichincha.
 
 Two months later Bolívar, the liberator of northern South America, entered Quito to a hero's welcome. Later that July, he met San Martín at the Guayaquil conference and convinced the Argentine general, who wanted the port to return to Peruvian jurisdiction, and the local Criollo elite in both major cities of the advantage of having the former Quito Audiencia join with the liberated lands to the north. As a result, Ecuador became the District of the South within the Republic of Gran Colombia, which also included present-day Venezuela and Colombia and had Bogotá as its capital. This status was maintained for eight tumultuous years.
 
-AGHRC_(1890)_-_Carta_XI_-_División_política_de_Colombia,_1824.jpg in 1824 (named in its time as Colombia), the Gran Colombia covered all the colored region.]] These were years in which warfare dominated the affairs of Ecuador. First, the country found itself on the front lines of Gran Colombia's efforts to liberate Peru from Spanish rule between 1822 and 1825; afterward, in 1828 and 1829, Ecuador was in the middle of an armed struggle between Peru and Gran Colombia over the location of their common border. After a campaign that included the near destruction of Guayaquil, the forces of Gran Colombia, under the leadership of Sucre and Venezuelan General Juan José Flores, proved victorious. The Treaty of 1829 fixed the border on the line that had divided the Quito audiencia and the Viceroyalty of Peru before independence.
+in 1824 (named in its time as Colombia), the Gran Colombia covered all the colored region.]] These were years in which warfare dominated the affairs of Ecuador. First, the country found itself on the front lines of Gran Colombia's efforts to liberate Peru from Spanish rule between 1822 and 1825; afterward, in 1828 and 1829, Ecuador was in the middle of an armed struggle between Peru and Gran Colombia over the location of their common border. After a campaign that included the near destruction of Guayaquil, the forces of Gran Colombia, under the leadership of Sucre and Venezuelan General Juan José Flores, proved victorious. The Treaty of 1829 fixed the border on the line that had divided the Quito audiencia and the Viceroyalty of Peru before independence.
 
 The population of Ecuador was divided during these years among three segments: those favoring the status quo, those supporting union with Peru, and those advocating independence for the former audiencia. The latter group was to prevail following Venezuela's withdrawal from Gran Colombia at the very moment that an 1830 constitutional congress had been called in an ultimately futile effort to stem the growing separatist tendencies throughout country. In May of that year, a group of Quito notables met to dissolve the union with Gran Colombia, and in August, a constituent assembly drew up a constitution for the State of Ecuador, so named for its geographic proximity to the equator, and placed General Flores in charge of political and military affairs. He remained the dominant political figure during Ecuador's first 15 years of independence.
 
@@ -117,8 +117,6 @@ The population of Ecuador was divided during these years among three segments: t
 The Republic of Ecuador
 
 The early republic
-
-Ecuador1830.png
 
 Before the year 1830 drew to a close, both Marshal Sucre and Simón Bolívar would be dead, the former murdered (on orders from a jealous General Flores, according to some historians) and the latter from tuberculosis.
 
@@ -132,23 +130,17 @@ By 1859 — known by Ecuadorian historians as "the Terrible Year" — the nation
 
 The era of conservatism (1860–1895)
 
-Ecuador1860.png Gabrielgarciamoreno.jpg
-
 Gabriel García Moreno was a leading figure of Ecuadorian conservatism. Shortly after the onset of his third presidential term in 1875, García Moreno was attacked with a machete on the steps of the presidential palace by Faustino Lemos Rayo, a Colombian. As he was dying, García Moreno took out his gun and shot Faustino Lemos, while he said "_Dios no muere_" ("God doesn't die"). The dictator's most outstanding critic was the liberal journalist, Juan Montalvo, who exclaimed, "My pen killed him!"
 
 Between 1852 and 1890, Ecuador's exports grew in value from slightly more than US$1 million to nearly US$10 million. Production of cacao, the most important export product in the late 19th century, grew from 6.5 million kilograms (14 million pounds) to 18 million kilograms (40 million pounds) during the same period. The agricultural export interests, centered in the coastal region near Guayaquil, became closely associated with the Liberals, whose political power also grew steadily during the interval. After the death of García Moreno, it took the Liberals twenty years to consolidate their strength sufficiently to assume control of the government in Quito.
 
-Ecuador1893.png
-
 The liberal era (1895–1925)
 
-Eloy_Alfaro.JPG Historic_Center_of_Quito_-_World_Heritage_Site_by_UNESCO_-_Photo_437.jpg in the courtyard of the Old Military Hospital in the Historic Center of Quito.]] The new era brought in liberalism. Eloy Alfaro, under whose direction the government headed out to aid those in the rural sectors of the coast, is credited for finishing the construction of the railroad connecting Guayaquil and Quito, the separation of church and state, establishment of many public schools, implementing civil rights (such as freedom of speech), and the legalization of civil marriages and divorce.
+in the courtyard of the Old Military Hospital in the Historic Center of Quito.]] The new era brought in liberalism. Eloy Alfaro, under whose direction the government headed out to aid those in the rural sectors of the coast, is credited for finishing the construction of the railroad connecting Guayaquil and Quito, the separation of church and state, establishment of many public schools, implementing civil rights (such as freedom of speech), and the legalization of civil marriages and divorce.
 
 Alfaro was also confronted by a dissident tendency inside his own party, directed by its General Leonidas Plaza and constituted by the upper middle class of Guayaquil. His death was followed by economic liberalism (1912–25), when banks were allowed to acquire almost complete control of the country.
 
 Popular unrest, together with the ongoing economic crisis and a sickly president, laid the background for a bloodless coup d'état in July 1925. Unlike all previous forays by the military into Ecuadorian politics, the coup of 1925 was made in the name of a collective grouping rather than a particular caudillo. The members of the League of Young Officers came to power with an agenda, which included a wide variety of social reforms, deal with the failing economy, establish the Central Bank as the unique authorized bank to distribute currency, create a new system of budget and customs.
-
-Ecuador1920.png
 
 Early 20th century
 

@@ -50,7 +50,7 @@ As an AVM lacks the dampening effect of capillaries on the blood flow, the AVM c
 
 Diagnosis
 
-PleftkidneyAVM1.png PleftkidneyAVM2.png AVMs are diagnosed primarily by the following methods:
+AVMs are diagnosed primarily by the following methods:
 
 -   Computerized tomography (CT) scan is a noninvasive X-ray to view the anatomical structures within the brain to detect blood in or around the brain. A newer technology called CT angiography involves the injection of contrast into the blood stream to view the arteries of the brain. This type of test provides the best pictures of blood vessels through angiography and soft tissues through CT.
 -   Magnetic resonance imaging (MRI) scan is a noninvasive test, which uses a magnetic field and radio-frequency waves to give a detailed view of the soft tissues of the brain.

@@ -1,4 +1,4 @@
-New_smyril_11.56.jpg, with the new vessel Smyril on the left]] The Faroe Islands is served by an internal transport system based on roads, ferries, and helicopters. As of the 1970s, the majority of the population centres of the Faroe Islands have been joined to a single road network, connected by bridges and tunnels.
+, with the new vessel Smyril on the left]] The Faroe Islands is served by an internal transport system based on roads, ferries, and helicopters. As of the 1970s, the majority of the population centres of the Faroe Islands have been joined to a single road network, connected by bridges and tunnels.
 
 International transport, both for passengers and freight, remains difficult due to high costs, long distances, and bad weather, especially during the winter. Exporting domestically produced goods is thus expensive; this limits the development of a commodity-based economy.
 
@@ -21,7 +21,7 @@ The third period was characterized by modernization. The introduction of the car
 
 1970s onwards
 
-Norðoyatunnilin_Leirvík_-_Klaksvík.jpg at Leirvík on Eysturoy]] The fourth period saw the emergence of a "mainland" thanks to tunnels and bridges. In 1973 the first bridge between two islands was established between Norðskáli on Eysturoy and Nesvík on Streymoy; in 1976 the new tunnel between Norðskáli and Eysturoy was completed. The Faroes' two largest islands were connected into what is now referred to as "Meginlandið", the Mainland. In 1975 the causeway between Viðoy and Borðoy was constructed, in 1986 a similar one between Borðoy and Kunoy was established, and in 1992 the capital Tórshavn was granted a first-class connection to the northern parts of the islands, creating the infrastructural prerequisites for a mobile society on the mainland.
+at Leirvík on Eysturoy]] The fourth period saw the emergence of a "mainland" thanks to tunnels and bridges. In 1973 the first bridge between two islands was established between Norðskáli on Eysturoy and Nesvík on Streymoy; in 1976 the new tunnel between Norðskáli and Eysturoy was completed. The Faroes' two largest islands were connected into what is now referred to as "Meginlandið", the Mainland. In 1975 the causeway between Viðoy and Borðoy was constructed, in 1986 a similar one between Borðoy and Kunoy was established, and in 1992 the capital Tórshavn was granted a first-class connection to the northern parts of the islands, creating the infrastructural prerequisites for a mobile society on the mainland.
 
 The newest developments of the Faroese transportation network are the sub-sea tunnels. In 2002 the tunnel between Streymoy and Vágar—the latter is the airport island—was finished, and in 2006 the Norðoyatunnilin between Eysturoy and Borðoy was finished.[3] A toll, payable at petrol stations, of 170 DKK (130 DKK in June 2013) is charged to drive through these two tunnels; the others are free. Now more than 85% of the Faroese population is accessible by automobile.[4]
 
@@ -41,7 +41,7 @@ Two railways have operated on the islands. A tunnel and rail system supplied a N
 
 Roads
 
-Inside_Norðoyatunnilin_1.jpg Roads have become the main method of transportation on the islands. Google Street View became available for some roads in November 2017, supplied by residents and sheep rather than Google cars.[7]
+Roads have become the main method of transportation on the islands. Google Street View became available for some roads in November 2017, supplied by residents and sheep rather than Google cars.[7]
 
 Highways
 
@@ -60,8 +60,6 @@ Bussleiðin is the name of the urban bus services, active in and around Tórshav
 
 
 Sea
-
-Norroena_in_torshavn.jpg
 
 Ports and harbours
 
@@ -95,7 +93,7 @@ Since the early 1980s, Smyril Line has operated a regular international passenge
 
 Air
 
-Avro_at_Vagar_Airport.JPG Avro RJ at Vágar Airport]] Scandinavian Airlines and Atlantic Airways both provide regular scheduled flights to Vágar Airport. Atlantic Airways being the national airline of the Faroe Islands, operating airplanes, helicopters as well as performing search and rescue responsibilities from its base at Vágar Airport. Helicopters provide domestic scheduled transportation and search and rescue activities.[13] Atlantic Airways' airplanes have regular flights to Iceland, Denmark, Norway and Scotland while there are also seasonal flights connecting the Faroe Islands with destinations such as Barcelona, Mallorca and Lisbon.[14][15] Apart from Atlantic Airways, Scandinavian Airlines has flights connecting the islands with Copenhagen.[16]
+Avro RJ at Vágar Airport]] Scandinavian Airlines and Atlantic Airways both provide regular scheduled flights to Vágar Airport. Atlantic Airways being the national airline of the Faroe Islands, operating airplanes, helicopters as well as performing search and rescue responsibilities from its base at Vágar Airport. Helicopters provide domestic scheduled transportation and search and rescue activities.[13] Atlantic Airways' airplanes have regular flights to Iceland, Denmark, Norway and Scotland while there are also seasonal flights connecting the Faroe Islands with destinations such as Barcelona, Mallorca and Lisbon.[14][15] Apart from Atlantic Airways, Scandinavian Airlines has flights connecting the islands with Copenhagen.[16]
 
 Airports
 

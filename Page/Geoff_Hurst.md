@@ -99,7 +99,7 @@ After being sacked from Chelsea on 23 April 1981 Hurst worked as an insurance sa
 
 Legacy
 
-Champions_statue.jpg – Hurst second from left]] Hurst_model_shirt.jpg]]
+– Hurst second from left]] ]]
 
 In 2003 Hurst was included in _The Champions_, a statue of 1966 World Cup winning footballers, by sculptor Philip Jackson. It sits at the junctions of Barking Road and Central Park Road, Newham, London, near to the site of West Ham United's former home stadium, the Boleyn Ground and features Martin Peters, Hurst, Bobby Moore and Ray Wilson.[82]
 

@@ -5,7 +5,7 @@ Her story is the traditional basis for Purim, which is celebrated on the date gi
 
 Etymology
 
-Tomb_of_Esther_and_Mordechai_interior.jpg According to most scholars, the name _Esther_ is derived from the Mesopotamian goddess Ishtar and/or the Persian word stara, "star".[2][3][4][5]
+According to most scholars, the name _Esther_ is derived from the Mesopotamian goddess Ishtar and/or the Persian word stara, "star".[2][3][4][5]
 
 The Book of Daniel provides accounts of Jews in exile being assigned names relating to Babylonian gods and "Mordecai" is understood to mean servant of Marduk, a Babylonian god. "Esther" may have been a different Hebrew interpretation from the Proto-Semitic root "star/'morning/evening star'",[6] which descended with the /th/ into the Ugaritic _Athtiratu_[7] and Arabian _Athtar_.[8] The derivation must then have been secondary for the initial ayin to be confused with an aleph (both represented by vowels in Akkadian), and the second consonant descended as a /s/ (like in the Aramaic "bright star"), rather than a /sh/ as in Hebrew and most commonly in Akkadian.
 
@@ -16,11 +16,9 @@ A. S. Yahuda conjectured that the name Esther is derived from a reconstructed Me
 
 In the Bible
 
-The_Feast_of_Esther_by_Johannes_Spilberg_the_Younger.jpg In the narrative, King Ahasuerus is drunk at a festival and orders his queen, Vashti, to appear before him and his guests to display her beauty. When she refuses to come, he deposes her and seeks a new queen through a sort of beauty pageant. Esther, an orphan daughter of a Benjamite named Abihail and under the protection of her cousin Mordecai, who are members of the Jewish exile community in Persia, is chosen.
+In the narrative, King Ahasuerus is drunk at a festival and orders his queen, Vashti, to appear before him and his guests to display her beauty. When she refuses to come, he deposes her and seeks a new queen through a sort of beauty pageant. Esther, an orphan daughter of a Benjamite named Abihail and under the protection of her cousin Mordecai, who are members of the Jewish exile community in Persia, is chosen.
 
 Later, Mordecai refuses to bow to Haman the Agagite, who was recently made Ahasuerus' highest advisor, and Haman requests and is given permission to order all the Jews in Persia to be killed. When Esther learns of this, Mordecai tells her to reveal to the king that she is Jewish and to ask him to repeal the order. Esther hesitates, saying that she could be put to death if she goes to the king without being summoned and the king does not want to see her; Mordecai urges her to try. She goes to the king, and the king welcomes her, and says he will give her anything she wants. Instead of asking directly about the order, she invites the king and Haman to a banquet the next day. During the banquet, the king again asked Esther if there is anything she wants, and this time she asks the king to spare her life and that of all of the Jews. The king asks who was threatening them, and she names Haman. Haman throws himself at her feet; the king thinks that Haman is attacking her and orders him to be put to death, and gives all Haman's possessions to Esther. Esther tells the king about Mordecai's role in her life, and the king makes Mordecai his highest advisor. Esther then asks the king to revoke the order, and king allows Esther and Mordecai to do so, however they wish. They send out an order in the king's name that Jews can assemble and defend themselves, and can kill anyone who threatens them, and their families, and take their goods. On the thirteenth day of Adar, the same day that Haman had set for them to be killed, the Jews do so in one city, killing 500 people but not taking plunder, and they kill around 75,000 the next day again not taking plunder, and then they feast.[19]
-
-Ester_y_Mardoqueo_escribiendo_la_primera_carta_del_Purim_(Ester,_9-20-21)_-_Aert_de_GELDER_-_Google_Cultural_Institute.jpg
 
 
 Purim
@@ -32,7 +30,7 @@ Interpretations
 
 Dianne Tidball argues that while Vashti is a "feminist icon", Esther is a post-feminist icon.[21]
 
-Abraham Kuyper notes some "disagreeable aspects" to her character: that she should not have agreed to take Vashti's place, that she refrained from saving her nation until her own life was threatened, and that she carries out bloodthirsty vengeance.[22] Esther_Denouncing_Haman.jpg]] The tale opens with Esther as beautiful and obedient, but also a relatively passive figure. During the course of the story, she evolves into someone who takes a decisive role in her own future and that of her people.[23] According to Sidnie White Crawford, "Esther's position in a male court mirrors that of the Jews in a Gentile world, with the threat of danger ever present below the seemingly calm surface."[24] Esther is related to Daniel in that both represent a "type" for Jews living in Diaspora, and hoping to live a successful life in an alien environment.
+Abraham Kuyper notes some "disagreeable aspects" to her character: that she should not have agreed to take Vashti's place, that she refrained from saving her nation until her own life was threatened, and that she carries out bloodthirsty vengeance.[22] ]] The tale opens with Esther as beautiful and obedient, but also a relatively passive figure. During the course of the story, she evolves into someone who takes a decisive role in her own future and that of her people.[23] According to Sidnie White Crawford, "Esther's position in a male court mirrors that of the Jews in a Gentile world, with the threat of danger ever present below the seemingly calm surface."[24] Esther is related to Daniel in that both represent a "type" for Jews living in Diaspora, and hoping to live a successful life in an alien environment.
 
 Esther as rhetorical model
 
@@ -41,7 +39,7 @@ According to Susan Zaeske, by virtue of the fact that Esther used only rhetoric 
 
 Persian culture
 
-Tomb_of_Esther_and_Mordechai_exterior.jpg in Hamadan, Iran]] Given the great historical link between Persian and Jewish history, modern day Persian Jews are called "Esther's Children". A building venerated as being the Tomb of Esther and Mordechai is located in Hamadan, Iran,[26] although the village of Kfar Bar'am in northern Israel also claims to be the burial place of Queen Esther.[27]
+in Hamadan, Iran]] Given the great historical link between Persian and Jewish history, modern day Persian Jews are called "Esther's Children". A building venerated as being the Tomb of Esther and Mordechai is located in Hamadan, Iran,[26] although the village of Kfar Bar'am in northern Israel also claims to be the burial place of Queen Esther.[27]
 
 
 Depictions of Esther

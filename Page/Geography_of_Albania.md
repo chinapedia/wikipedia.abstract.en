@@ -1,27 +1,27 @@
-+--------------------+
-| Albania_map-en.svg |
-+--------------------+
-| CONTINENT          |
-+--------------------+
-| SUBREGION          |
-+--------------------+
-| AREA               |
-|  - Total           |
-|  - Land (%)        |
-|  - Water (%)       |
-+--------------------+
-| COASTLINE          |
-+--------------------+
-| LAND BORDERS       |
-+--------------------+
-| HIGHEST POINT      |
-+--------------------+
-| LOWEST POINT       |
-+--------------------+
-| LONGEST RIVER      |
-+--------------------+
-| LARGEST LAKE       |
-+--------------------+
++---------------+
+|               |
++---------------+
+| CONTINENT     |
++---------------+
+| SUBREGION     |
++---------------+
+| AREA          |
+|  - Total      |
+|  - Land (%)   |
+|  - Water (%)  |
++---------------+
+| COASTLINE     |
++---------------+
+| LAND BORDERS  |
++---------------+
+| HIGHEST POINT |
++---------------+
+| LOWEST POINT  |
++---------------+
+| LONGEST RIVER |
++---------------+
+| LARGEST LAKE  |
++---------------+
 
 : Geography of Albania'''
 
@@ -80,7 +80,7 @@ The mediterranean monk seal, short-beaked common dolphin and common bottlenose d
 
 Protected areas
 
-Галичица,_поглед_на_две_езера,_2011.jpg in southeastern Albania and southwestern North Macedonia.]]
+in southeastern Albania and southwestern North Macedonia.]]
 
 Numerous parts of Albania are protected in accordance with a number of national and international designations due to their natural, historical or cultural value.[47] Protected areas belong to the most important instruments of conservation which in turn contributes effectively to the maintenance of species, habitats and ecosystems.
 
@@ -89,7 +89,7 @@ The country has currently fifteen designated national parks, whereby one is spec
 
 Climate
 
-Valbona_nga_Kukaj.jpg within the Albanian Alps during autumn.]]
+within the Albanian Alps during autumn.]]
 
 Albania has a combination of a mediterranean climate and a continental climate, with four distinct seasons.[48] The climatic conditions are highly variable and modified locally by altitude and latitude.[49] Its climate is strongly influenced by the Mediterranean Sea in the west, and the mountains that raise in every corner around the country.
 
@@ -104,13 +104,13 @@ The country is divided into four physiographic regions, the Northern Mountain Ra
 
 Western Lowlands
 
-Myzeqe.jpg seen from the ancient city of Apollonia.]]
+seen from the ancient city of Apollonia.]]
 
 Except for its sea coast in the west, the western lowlands are ringed by an great arc-shaped line of mountains spreading in the north, east and south. The predominantly flat and regular landscape is morphologically characterized by the sea and rivers, in terms of topography and soil, and also in its climate and biodiversity. The region experiences mild and short winters, with low rainfalls, and long hot and dry summers.[52] It is mostly dominated by the extensive Plain of Myzeqe, a large alluvial plain traversed by three main rivers, the Shkumbin, Seman and Vjosë.[53][54]
 
 The Albanian Adriatic Sea Coast stretches from the mouth of the River of Buna nearby the Lake of Shkodër in the north, across the Gulf of Drin, to the Bay of Vlorë in the south.[55] The two largest coastal cities Durrës and Vlorë are located in the northern and the southern part of the region, respectively. The total length of the coastline is approximately , mostly of which are taken up by sandy beaches, wetlands and alluvial deposits, occurred by quaternary sediments of the main rivers of the country.
 
-Ksamill-1.jpg in the extreme south of the Albanian Ionian Sea Coast.]]
+in the extreme south of the Albanian Ionian Sea Coast.]]
 
 The coastline is lined with different habitats and ecosystems, providing optimal conditions for a rich biodiversity. Of particular importance is the presence of numerous lagoons and ponds, representing one of the wealthiest scenery of the country, in terms of biology. Likely, the lagoons of Karavasta and Narta, in the immediate proximity to the sea, are among the most important ones in the Mediterranean Sea.
 
@@ -120,7 +120,7 @@ The most characteristic features of the coastline are the Ceraunian Mountains, w
 
 Northern Mountain Range
 
-Theth_and_Theth_National_Park,_Albania_2017.jpg seen from the village of Theth.]]
+seen from the village of Theth.]]
 
 The northern mountain range is the most mountainous region in the country and its physical geography and shape is distinguished by the convergence of two distinct geological regions, the Albanian Alps and Mirdita Highlands.[60][61] A dominant feature of the region's landscape is the presence of several u-shaped valleys, such as the Valley of Valbonë, formed by the process of glaciation.
 
@@ -130,7 +130,7 @@ The Albanian Alps are home to many important rivers of Western Balkans. The main
 
 Central Mountain Range
 
-Mali_Bardhe.jpg.]]
+.]]
 
 The terrain of the central mountain range is predominantly mountainous and extremely fragmented carved into its present shape by the glaciers of the last ice age. The region is dominated by three mountain ranges, each running from north-northeast to south-southwest, roughly parallel to the eastern border of Albania.
 
@@ -140,13 +140,13 @@ The vast majority of the region's natural lakes are located in the southern half
 
 Southern Mountain Range
 
-Albanian_Riviera_from_Llogara_Pass_2015-09-22.jpg, from the Llogara National Park.]]
+, from the Llogara National Park.]]
 
 The Ceraunian Mountains, a coastal mountain range in southwestern Albania, stretches about one the Ionian Sea from Sarandë in south-east-northwest direction along the Albanian Riviera Orikum. The relief is varied, with many mountain passes, canyons, gorges, hills and other landforms. The mountains are characterized by housing Black pines, Bulgarian firs, Bosnian pines and Ash trees. The mountain chain is home to many large mammals, including brown bears, grey wolves, lynx, golden eagles and others. The highest point on the chain is Maja e Çikës, that rises to an elevation of above the Adriatic. From the peak, there is a view of the Albanian Riviera, the northern Ionian Islands as well as the Italian coast of Apulia and Otranto. The section has wide and long beaches, with a number of bays and headlands.
 
 Stretching until the Llogara Pass at , the mountain chain gets separated into the Ceraunians in the west and the Akroceraunians (or _Reza e Kanalit_) in the east within the Karaburun Peninsula.[68] The villages of Palasë, Dhërmi, Vuno, Himarë, Qeparo, Borsh, Pilur, Kudhës and Ilias are located on the Ceraunian range. The Llogara National Park covers an area of and
 
-Grama_Bay._Albania_2017-08_14.jpg.]]
+.]]
 
 The Karaburun Peninsula is situated at the eastern side of Strait of Otranto, where the Adriatic Sea meets the Ionian Sea. Its area is , having a length of , and a width of only .[69] The Mesokanali is the narrow channel, that separates the peninsula from the Sazan Island. Geologically, it is made up of carbonic limestone, dating back to the Mesozoic period, while in the northwestern it is composed of terrigenous sediment.[70] Furthermore, these formations have been continuously under the effect of Karst and are exploited as marble. The relief of the peninsula comprises a number of hills with an average altitude of about above the Adriatic. The highest summits are Maja e Ilqës , Maja e Flamurit and Maja Çadëri .[71]
 

@@ -6,7 +6,7 @@ The Andes Mountains are the world's highest mountain range outside Asia. The hig
 
 The Andes are also part of the American Cordillera, a chain of mountain ranges (cordillera) that consists of an almost continuous sequence of mountain ranges that form the western "backbone" of North America, Central America, South America and Antarctica.
 
-Cono_de_Arita,_Salta._(Argentina).jpg" in the Puna de Atacama, Salta (Argentina)]] Aconcagua_13.JPG
+" in the Puna de Atacama, Salta (Argentina)]]
 
 
 Etymology
@@ -16,7 +16,7 @@ The etymology of the word _Andes_ has been debated. The majority consensus is th
 
 Geography
 
-ARG-2016-Aerial-Tierra_del_Fuego_(Ushuaia)–Valle_Carbajal_01.jpg in the Fuegian Andes]]The Andes can be divided into three sections:
+in the Fuegian Andes]]The Andes can be divided into three sections:
 
 1.  The Southern Andes (south of Llullaillaco) in Argentina and Chile;
 2.  The Central Andes in Peru, and Bolivia; and
@@ -43,7 +43,7 @@ The regions immediately east of the Andes experience a series of changes resulti
 
 Volcanism
 
-Browncanyonquilotoa.jpg near Quilotoa, Ecuador]] Central_Andes_Mountains,_Salar_de_Arizaro,_Argentina.jpg shows the high plains of the Andes Mountains in the foreground, with a line of young volcanoes facing the much lower Atacama Desert]]
+near Quilotoa, Ecuador]] shows the high plains of the Andes Mountains in the foreground, with a line of young volcanoes facing the much lower Atacama Desert]]
 
 The Andes range has many active volcanoes distributed in four volcanic zones separated by areas of inactivity. The Andean volcanism is a result of subduction of the Nazca Plate and Antarctic Plate underneath the South American Plate. The belt is subdivided into four main volcanic zones that are separated from each other by volcanic gaps. The volcanoes of the belt are diverse in terms of activity style, products and morphology. While some differences can be explained by which volcanic zone a volcano belongs to, there are significant differences inside volcanic zones and even between neighbouring volcanoes. Despite being a type location for calc-alkalic and subduction volcanism, the Andean Volcanic Belt has a large range of volcano-tectonic settings, such as rift systems and extensional zones, transpressional faults, subduction of mid-ocean ridges and seamount chains apart from a large range of crustal thicknesses and magma ascent paths, and different amount of crustal assimilations.
 
@@ -53,8 +53,6 @@ The Andes Mountains host large ore and salt deposits and some of their eastern f
 
 
 Climate and hydrology
-
-Andes1a.JPG Andes_bolivianos.jpg
 
 The climate in the Andes varies greatly depending on latitude, altitude, and proximity to the sea. Temperature, atmospheric pressure and humidity decrease in higher elevations. The southern section is rainy and cool, the central section is dry. The northern Andes are typically rainy and warm, with an average temperature of in Colombia. The climate is known to change drastically in rather short distances. Rainforests exist just miles away from the snow-covered peak Cotopaxi. The mountains have a large effect on the temperatures of nearby areas. The snow line depends on the location. It is at between in the tropical Ecuadorian, Colombian, Venezuelan, and northern Peruvian Andes, rising to in the drier mountains of southern Peru south to northern Chile south to about 30°S, then descending to on Aconcagua at 32°S, at 40°S, at 50°S, and only in Tierra del Fuego at 55°S; from 50°S, several of the larger glaciers descend to sea level.[19]
 
@@ -67,14 +65,14 @@ Though precipitation increases with the height, there are semiarid conditions in
 
 Flora
 
-20100116_Sonso_002.JPG tropical dry forest in Northern Andes]] The Andean region cuts across several natural and floristic regions due to its extension from Caribbean Venezuela to cold, windy and wet Cape Horn passing through the hyperarid Atacama Desert. Rainforests and tropical dry forests[32] used to encircle much of the northern Andes but are now greatly diminished, especially in the Chocó and inter-Andean valleys of Colombia. Opposite of the humid Andean slopes are the relatively dry Andean slopes in most of western Peru, Chile and Argentina. Along with several Interandean Valles, they are typically dominated by deciduous woodland, shrub and xeric vegetation, reaching the extreme in the slopes near the virtually lifeless Atacama Desert.
+tropical dry forest in Northern Andes]] The Andean region cuts across several natural and floristic regions due to its extension from Caribbean Venezuela to cold, windy and wet Cape Horn passing through the hyperarid Atacama Desert. Rainforests and tropical dry forests[32] used to encircle much of the northern Andes but are now greatly diminished, especially in the Chocó and inter-Andean valleys of Colombia. Opposite of the humid Andean slopes are the relatively dry Andean slopes in most of western Peru, Chile and Argentina. Along with several Interandean Valles, they are typically dominated by deciduous woodland, shrub and xeric vegetation, reaching the extreme in the slopes near the virtually lifeless Atacama Desert.
 
 About 30,000 species of vascular plants live in the Andes, with roughly half being endemic to the region, surpassing the diversity of any other hotspot.[33] The small tree _Cinchona pubescens_, a source of quinine which is used to treat malaria, is found widely in the Andes as far south as Bolivia. Other important crops that originated from the Andes are tobacco and potatoes. The high-altitude _Polylepis_ forests and woodlands are found in the Andean areas of Colombia, Ecuador, Peru, Bolivia and Chile. These trees, by locals referred to as Queñua, Yagual and other names, can be found at altitudes of above sea level. It remains unclear if the patchy distribution of these forests and woodlands is natural, or the result of clearing which began during the Incan period. Regardless, in modern times the clearance has accelerated, and the trees are now considered to be highly endangered, with some believing that as little as 10% of the original woodland remains.[34]
 
 
 Fauna
 
-Tunki_Tanpupata.jpg, a species found in humid Andean forests and the national bird of Peru]] Ausangate-hillside-MT.jpgs near Ausangate mountain]] The Andes are rich in fauna: With almost 1,000 species, of which roughly 2/3 are endemic to the region, the Andes are the most important region in the world for amphibians.[35] The diversity of animals in the Andes is high, with almost 600 species of mammals (13% endemic), more than 1,700 species of birds (about 1/3 endemic), more than 600 species of reptile (about 45% endemic), and almost 400 species of fish (about 1/3 endemic).[36]
+, a species found in humid Andean forests and the national bird of Peru]] s near Ausangate mountain]] The Andes are rich in fauna: With almost 1,000 species, of which roughly 2/3 are endemic to the region, the Andes are the most important region in the world for amphibians.[35] The diversity of animals in the Andes is high, with almost 600 species of mammals (13% endemic), more than 1,700 species of birds (about 1/3 endemic), more than 600 species of reptile (about 45% endemic), and almost 400 species of fish (about 1/3 endemic).[36]
 
 The vicuña and guanaco can be found living in the Altiplano, while the closely related domesticated llama and alpaca are widely kept by locals as pack animals and for their meat and wool. The crepuscular (active during dawn and dusk) chinchillas, two threatened members of the rodent order, inhabit the Andes' alpine regions.[37][38] The Andean condor, the largest bird of its kind in the Western Hemisphere, occurs throughout much of the Andes but generally in very low densities.[39] Other animals found in the relatively open habitats of the high Andes include the huemul, cougar, foxes in the genus _Pseudalopex_,[40][41] and, for birds, certain species of tinamous (notably members of the genus _Nothoprocta_), Andean goose, giant coot, flamingos (mainly associated with hypersaline lakes), lesser rhea, Andean flicker, diademed sandpiper-plover, miners, sierra-finches and diuca-finches.[42]
 
@@ -93,7 +91,7 @@ Devastated by European diseases to which they had no immunity and civil wars, in
 
 Cities
 
-La_Paz_Skyline.jpg Santiago_depois_da_chuva_(11).JPG]] Cerros_orientales_Bogota.jpg]] In modern times, the largest cities in the Andes are Bogotá, Colombia, with a population of about eight million, Santiago, Chile, and Medellin, Colombia and Cali. Lima is a coastal city adjacent to the Andes and is the largest city of all Andean countries. It is the seat of the Andean Community of Nations.
+]] ]] In modern times, the largest cities in the Andes are Bogotá, Colombia, with a population of about eight million, Santiago, Chile, and Medellin, Colombia and Cali. Lima is a coastal city adjacent to the Andes and is the largest city of all Andean countries. It is the seat of the Andean Community of Nations.
 
 La Paz, Bolivia's seat of government, is the highest capital city in the world, at an elevation of approximately . Parts of the La Paz conurbation, including the city of El Alto, extend up to .
 
@@ -103,7 +101,7 @@ Transportation
 
 Cities and large towns are connected with asphalt-paved roads, while smaller towns are often connected by dirt roads, which may require a four-wheel-drive vehicle.[50]
 
-Pico_Humboldt_y_su_glaciar.jpg]]
+]]
 
 The rough terrain has historically put the costs of building highways and railroads that cross the Andes out of reach of most neighboring countries, even with modern civil engineering practices. For example, the main crossover of the Andes between Argentina and Chile is still accomplished through the Paso Internacional Los Libertadores. Only recently the ends of some highways that came rather close to one another from the east and the west have been connected.[51] Much of the transportation of passengers is done via aircraft.
 
@@ -117,13 +115,9 @@ Because of the tortuous terrain in places, villages and towns in the mountains�
 
 Agriculture
 
-Peruvianterracefarmers.jpg
-
 The ancient peoples of the Andes such as the Incas have practiced irrigation techniques for over 6,000 years. Because of the mountain slopes, terracing has been a common practice. Terracing, however, was only extensively employed after Incan imperial expansions to fuel their expanding realm. The potato holds a very important role as an internally consumed staple crop. Maize was also an important crop for these people, and was used for the production of chicha, important to Andean native people. Currently, tobacco, cotton and coffee are the main export crops. Coca, despite eradication programmes in some countries, remains an important crop for legal local use in a mildly stimulating herbal tea, and, both controversially and illegally, for the production of cocaine.
 
 Irrigation
-
-Women_irrigators_in_the_Andes.jpg
 
 In unirrigated land, pasture is the most common type of land use. In the rainy season (summer), part of the rangeland is used for cropping (mainly potatoes, barley, broad beans and wheat).
 
@@ -131,7 +125,7 @@ Irrigation is helpful in advancing the sowing data of the summer crops which gua
 
 Mining
 
-Huasos_Maulinos_-_Rugendas.jpgs, 19th century]] The Andes rose to fame for their mineral wealth during the Spanish conquest of South America. Although Andean Amerindian peoples crafted ceremonial jewelry of gold and other metals, the mineralizations of the Andes were first mined in large scale after the Spanish arrival. Potosí in present-day Bolivia and Cerro de Pasco in Peru were one of the principal mines of the Spanish Empire in the New World. Río de la Plata and Argentina[53] derive their names from the silver of Potosí.
+s, 19th century]] The Andes rose to fame for their mineral wealth during the Spanish conquest of South America. Although Andean Amerindian peoples crafted ceremonial jewelry of gold and other metals, the mineralizations of the Andes were first mined in large scale after the Spanish arrival. Potosí in present-day Bolivia and Cerro de Pasco in Peru were one of the principal mines of the Spanish Empire in the New World. Río de la Plata and Argentina[53] derive their names from the silver of Potosí.
 
 Currently, mining in the Andes of Chile and Peru places these countries as the first and third major producers of copper in the world. Peru also contains the 4th largest goldmine in the world: the Yanacocha. The Bolivian Andes produce principally tin although historically silver mining had a huge impact on the economy of 17th century Europe.
 
@@ -144,7 +138,7 @@ This list contains some of the major peaks in the Andes mountain range. The high
 
 Argentina
 
-Aconcagua_13.JPG, Argentina, the highest mountain in the Americas]]
+, Argentina, the highest mountain in the Americas]]
 
 -   Aconcagua,
 -   Cerro Bonete,
@@ -175,7 +169,7 @@ Border between Argentina and Chile
 
 Bolivia
 
-Nevado_Sajama.jpg, Bolivia]]
+, Bolivia]]
 
 -   Janq'u Uma,
 -   Cabaraya,
@@ -192,7 +186,7 @@ Nevado_Sajama.jpg, Bolivia]]
 
 Border between Bolivia and Chile
 
-Parinacota.jpg, Bolivia/Chile]]
+, Bolivia/Chile]]
 
 -   Acotango,
 -   Michincha,
@@ -205,7 +199,7 @@ Parinacota.jpg, Bolivia/Chile]]
 
 Chile
 
-Massif_Reflected.jpg]]
+]]
 
 -   Monte San Valentin,
 -   Cerro Paine Grande,
@@ -219,7 +213,7 @@ Massif_Reflected.jpg]]
 
 Colombia
 
-Pico_Cristobal_Colon.jpg, Colombia]]
+, Colombia]]
 
 -   Pico Cristóbal Colón,
 -   Nevado del Huila,
@@ -239,7 +233,7 @@ Pico_Cristobal_Colon.jpg, Colombia]]
 
 Ecuador
 
-Volcán_Chimborazo,_"El_Taita_Chimborazo".jpg near Riobamba, Ecuador]]
+near Riobamba, Ecuador]]
 
 -   Antisana,
 -   Cayambe,
@@ -256,7 +250,7 @@ Volcán_Chimborazo,_"El_Taita_Chimborazo".jpg near Riobamba, Ecuador]]
 
 Peru
 
-Yerupaja_Grande.jpg, Peru]]
+, Peru]]
 
 -   Alpamayo,
 -   Artesonraju,
@@ -281,7 +275,7 @@ Yerupaja_Grande.jpg, Peru]]
 
 Venezuela
 
-PicoBolivar2.jpg, Venezuela]]
+, Venezuela]]
 
 -   Pico Bolívar,
 -   Pico Humboldt,

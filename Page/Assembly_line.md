@@ -1,4 +1,4 @@
-A321_final_assembly_(9351765668).jpg on final assembly line 3 in the Airbus plant at Hamburg Finkenwerder Airport]] Hyundai_car_assembly_line.jpg's car assembly line]]
+on final assembly line 3 in the Airbus plant at Hamburg Finkenwerder Airport]] 's car assembly line]]
 
 An ASSEMBLY LINE is a manufacturing process (often called a _progressive assembly_) in which parts (usually interchangeable parts) are added as the semi-finished assembly moves from workstation to workstation where the parts are added in sequence until the final assembly is produced. By mechanically moving the parts to the assembly work and moving the semi-finished assembly from work station to work station, a finished product can be assembled faster and with less labor than by having workers carry parts to a stationary piece for assembly.
 
@@ -7,7 +7,7 @@ Assembly lines are common methods of assembling complex items such as automobile
 
 Concepts
 
-Final_assembly_3.jpg assembly line as of 2008]] Assembly lines are designed for the sequential organization of workers, tools or machines, and parts. The motion of workers is minimized to the extent possible. All parts or assemblies are handled either by conveyors or motorized vehicles such as fork lifts, or gravity, with no manual trucking. Heavy lifting is done by machines such as overhead cranes or fork lifts. Each worker typically performs one simple operation.
+assembly line as of 2008]] Assembly lines are designed for the sequential organization of workers, tools or machines, and parts. The motion of workers is minimized to the extent possible. All parts or assemblies are handled either by conveyors or motorized vehicles such as fork lifts, or gravity, with no manual trucking. Heavy lifting is done by machines such as overhead cranes or fork lifts. Each worker typically performs one simple operation.
 
 According to Henry Ford:
 
@@ -35,7 +35,7 @@ Industrial revolution
 
 The Industrial Revolution led to a proliferation of manufacturing and invention. Many industries, notably textiles, firearms, clocks and watches,[2] horse-drawn vehicles, railway locomotives, sewing machines, and bicycles, saw expeditious improvement in materials handling, machining, and assembly during the 19th century, although modern concepts such as industrial engineering and logistics had not yet been named.
 
-PulleyShip.JPG was the first manufacture to become fully automated at the Portsmouth Block Mills in the early 19th century.]]
+was the first manufacture to become fully automated at the Portsmouth Block Mills in the early 19th century.]]
 
 The automatic flour mill built by Oliver Evans in 1785 was called the beginning of modern bulk material handling by Roe (1916). Evans's mill used a leather belt bucket elevator, screw conveyors, canvas belt conveyors, and other mechanical devices to completely automate the process of making flour. The innovation spread to other mills and breweries.[3][4]
 
@@ -43,7 +43,7 @@ Probably the earliest industrial example of a linear and continuous assembly pro
 
 One of the earliest examples of an almost modern factory layout, designed for easy material handling, was the Bridgewater Foundry. The factory grounds were bordered by the Bridgewater Canal and the Liverpool and Manchester Railway. The buildings were arranged in a line with a railway for carrying the work going through the buildings. Cranes were used for lifting the heavy work, which sometimes weighed in the tens of tons. The work passed sequentially through to erection of framework and final assembly.[5]
 
-Bridgewater_foundary.gif, pictured in 1839, one of the earliest factories to use an almost modern layout, workflow, and material-handling system]]
+, pictured in 1839, one of the earliest factories to use an almost modern layout, workflow, and material-handling system]]
 
 The first flow assembly line was initiated at the factory of Richard Garrett & Sons, Leiston Works in Leiston in the English county of Suffolk for the manufacture of portable steam engines. The assembly line area was called 'The Long Shop' on account of its length and was fully operational by early 1853. The boiler was brought up from the foundry and put at the start of the line, and as it progressed through the building it would stop at various stages where new parts would be added. From the upper level, where other parts were made, the lighter parts would be lowered over a balcony and then fixed onto the machine on the ground level. When the machine reached the end of the shop, it would be completed. [6]
 
@@ -59,7 +59,7 @@ The meatpacking industry of Chicago is believed to be one of the first industria
 
 20th century
 
-Ford_assembly_line_-_1913.jpg assembly line was the first.[8][9]]] A-line1913.jpg. Ford tested various assembly methods to optimize the procedures before permanently installing the equipment. The actual assembly line used an overhead crane to mount the body.]] Ford_Model_T_Assembly_Line(1919).webm Model_T_assembling_circa_1924.webm Ford_assembly_line(1930).webm Ford_assembly_line_(1947).webm According to Domm, the implementation of mass production of an automobile via an assembly line may be credited to Ransom Olds, who used it to build the first mass-produced automobile, the Oldsmobile Curved Dash.[10] Olds patented the assembly line concept, which he put to work in his Olds Motor Vehicle Company factory in 1901.[11]
+assembly line was the first.[8][9]]] . Ford tested various assembly methods to optimize the procedures before permanently installing the equipment. The actual assembly line used an overhead crane to mount the body.]] According to Domm, the implementation of mass production of an automobile via an assembly line may be credited to Ransom Olds, who used it to build the first mass-produced automobile, the Oldsmobile Curved Dash.[10] Olds patented the assembly line concept, which he put to work in his Olds Motor Vehicle Company factory in 1901.[11]
 
 At Ford Motor Company, the assembly line was introduced by William "Pa" Klann upon his return from visiting Swift & Company's slaughterhouse in Chicago and viewing what was referred to as the "disassembly line", where carcasses were butchered as they moved along a conveyor. The efficiency of one person removing the same piece over and over without himself moving caught his attention. He reported the idea to Peter E. Martin, soon to be head of Ford production, who was doubtful at the time but encouraged him to proceed. Others at Ford have claimed to have put the idea forth to Henry Ford, but Pa Klann's slaughterhouse revelation is well documented in the archives at the Henry Ford Museum[12] and elsewhere, making him an important contributor to the modern automated assembly line concept. Ford was appreciative, having visited the highly automated 40-acre Sears mail order handling facility around 1906. At Ford, the process was an evolution by trial and error[13] of a team consisting primarily of Peter E. Martin, the factory superintendent; Charles E. Sorensen, Martin's assistant; Clarence W. Avery; C. Harold Wills, draftsman and toolmaker; Charles Ebender; and József Galamb. Some of the groundwork for such development had recently been laid by the intelligent layout of machine tool placement that Walter Flanders had been doing at Ford up to 1908.
 

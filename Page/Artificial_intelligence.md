@@ -15,7 +15,7 @@ In the twenty-first century, AI techniques have experienced a resurgence followi
 
 History
 
-Medeia_and_Talus.png, an ancient mythical automaton with artificial intelligence]]
+, an ancient mythical automaton with artificial intelligence]]
 
 Thought-capable artificial beings appeared as storytelling devices in antiquity,[26] and have been common in fiction, as in Mary Shelley's _Frankenstein_ or Karel Čapek's _R.U.R. (Rossum's Universal Robots)_. [27] These characters and their fates raised many of the same issues now discussed in the ethics of artificial intelligence.[28]
 
@@ -58,9 +58,9 @@ The earliest (and easiest to understand) approach to AI was symbolism (such as f
 
 Learning algorithms work on the basis that strategies, algorithms, and inferences that worked well in the past are likely to continue working well in the future. These inferences can be obvious, such as "since the sun rose every morning for the last 10,000 days, it will probably rise tomorrow morning as well". They can be nuanced, such as "X% of families have geographically separate species with color variants, so there is an Y% chance that undiscovered black swans exist". Learners also work on the basis of "Occam's razor": The simplest theory that explains the data is the likeliest. Therefore, according to Occam's razor principle, a learner must be designed such that it prefers simpler theories to complex theories, except in cases where the complex theory is proven substantially better.
 
-Overfitted_Data.png a linear function due to random noise.]] Settling on a bad, overly complex theory gerrymandered to fit all the past training data is known as overfitting. Many systems attempt to reduce overfitting by rewarding a theory in accordance with how well it fits the data, but penalizing the theory in accordance with how complex the theory is. Besides classic overfitting, learners can also disappoint by "learning the wrong lesson". A toy example is that an image classifier trained only on pictures of brown horses and black cats might conclude that all brown patches are likely to be horses. A real-world example is that, unlike humans, current image classifiers don't determine the spatial relationship between components of the picture; instead, they learn abstract patterns of pixels that humans are oblivious to, but that linearly correlate with images of certain types of real objects. Faintly superimposing such a pattern on a legitimate image results in an "adversarial" image that the system misclassifies.[71][72][73]
+a linear function due to random noise.]] Settling on a bad, overly complex theory gerrymandered to fit all the past training data is known as overfitting. Many systems attempt to reduce overfitting by rewarding a theory in accordance with how well it fits the data, but penalizing the theory in accordance with how complex the theory is. Besides classic overfitting, learners can also disappoint by "learning the wrong lesson". A toy example is that an image classifier trained only on pictures of brown horses and black cats might conclude that all brown patches are likely to be horses. A real-world example is that, unlike humans, current image classifiers don't determine the spatial relationship between components of the picture; instead, they learn abstract patterns of pixels that humans are oblivious to, but that linearly correlate with images of certain types of real objects. Faintly superimposing such a pattern on a legitimate image results in an "adversarial" image that the system misclassifies.[71][72][73]
 
-Détection_de_personne_-_exemple_3.jpg Compared with humans, existing AI lacks several features of human "commonsense reasoning"; most notably, humans have powerful mechanisms for reasoning about "naïve physics" such as space, time, and physical interactions. This enables even young children to easily make inferences like "If I roll this pen off a table, it will fall on the floor". Humans also have a powerful mechanism of "folk psychology" that helps them to interpret natural-language sentences such as "The city councilmen refused the demonstrators a permit because they advocated violence". (A generic AI has difficulty discerning whether the ones alleged to be advocating violence are the councilmen or the demonstrators.)[74][75][76] This lack of "common knowledge" means that AI often makes different mistakes than humans make, in ways that can seem incomprehensible. For example, existing self-driving cars cannot reason about the location nor the intentions of pedestrians in the exact way that humans do, and instead must use non-human modes of reasoning to avoid accidents.[77][78][79]
+Compared with humans, existing AI lacks several features of human "commonsense reasoning"; most notably, humans have powerful mechanisms for reasoning about "naïve physics" such as space, time, and physical interactions. This enables even young children to easily make inferences like "If I roll this pen off a table, it will fall on the floor". Humans also have a powerful mechanism of "folk psychology" that helps them to interpret natural-language sentences such as "The city councilmen refused the demonstrators a permit because they advocated violence". (A generic AI has difficulty discerning whether the ones alleged to be advocating violence are the councilmen or the demonstrators.)[74][75][76] This lack of "common knowledge" means that AI often makes different mistakes than humans make, in ways that can seem incomprehensible. For example, existing self-driving cars cannot reason about the location nor the intentions of pedestrians in the exact way that humans do, and instead must use non-human modes of reasoning to avoid accidents.[77][78][79]
 
 
 Problems
@@ -75,8 +75,6 @@ These algorithms proved to be insufficient for solving large reasoning problems,
 
 Knowledge representation
 
-GFO_taxonomy_tree.png
-
 Knowledge representation[85] and knowledge engineering[86] are central to classical AI research. Some "expert systems" attempt to gather together explicit knowledge possessed by experts in some narrow domain. In addition, some projects attempt to gather the "commonsense knowledge" known to the average person into a database containing extensive knowledge about the world. Among the things a comprehensive commonsense knowledge base would contain are: objects, properties, categories and relations between objects;[87] situations, events, states and time;[88] causes and effects;[89] knowledge about knowledge (what we know about what other people know);[90] and many other, less well researched domains. A representation of "what exists" is an ontology: the set of objects, relations, concepts, and properties formally described so that software agents can interpret them. The semantics of these are captured as description logic concepts, roles, and individuals, and typically implemented as classes, properties, and individuals in the Web Ontology Language.[91] The most general ontologies are called upper ontologies, which attempt to provide a foundation for all other knowledge[92] by acting as mediators between domain ontologies that cover specific knowledge about a particular knowledge domain (field of interest or area of concern). Such formal knowledge representations can be used in content-based indexing and retrieval,[93] scene interpretation,[94] clinical decision support,[95] knowledge discovery (mining "interesting" and actionable inferences from large databases),[96] and other areas.[97]
 
 Among the most difficult problems in knowledge representation are:
@@ -87,7 +85,7 @@ The subsymbolic form of some commonsense knowledge: Much of what people know is 
 
 Planning
 
-Hierarchical-control-system.svg is a form of control system in which a set of devices and governing software is arranged in a hierarchy.]]
+is a form of control system in which a set of devices and governing software is arranged in a hierarchy.]]
 
 Intelligent agents must be able to set goals and achieve them.[103] They need a way to visualize the future—a representation of the state of the world and be able to make predictions about how their actions will change it—and be able to make choices that maximize the utility (or "value") of available choices.[104]
 
@@ -103,13 +101,13 @@ Unsupervised learning is the ability to find patterns in a stream of input, with
 
 Natural language processing
 
-ParseTree.svg represents the syntactic structure of a sentence according to some formal grammar.]]
+represents the syntactic structure of a sentence according to some formal grammar.]]
 
 Natural language processing[114] (NLP) gives machines the ability to read and understand human language. A sufficiently powerful natural language processing system would enable natural-language user interfaces and the acquisition of knowledge directly from human-written sources, such as newswire texts. Some straightforward applications of natural language processing include information retrieval, text mining, question answering[115] and machine translation.[116] Many current approaches use word co-occurrence frequencies to construct syntactic representations of text. "Keyword spotting" strategies for search are popular and scalable but dumb; a search query for "dog" might only match documents with the literal word "dog" and miss a document with the word "poodle". "Lexical affinity" strategies use the occurrence of words such as "accident" to assess the sentiment of a document. Modern statistical NLP approaches can combine all these strategies as well as others, and often achieve acceptable accuracy at the page or paragraph level, but continue to lack the semantic understanding required to classify isolated sentences well. Besides the usual difficulties with encoding semantic commonsense knowledge, existing semantic NLP sometimes scales too poorly to be viable in business applications. Beyond semantic NLP, the ultimate goal of "narrative" NLP is to embody a full understanding of commonsense reasoning.[117]
 
 Perception
 
-Ääretuvastuse_näide.png (pictured: edge detection) helps AI compose informative abstract structures out of raw data.]]
+(pictured: edge detection) helps AI compose informative abstract structures out of raw data.]]
 
 Machine perception[118] is the ability to use input from sensors (such as cameras (visible spectrum or infrared), microphones, wireless signals, and active lidar, sonar, radar, and tactile sensors) to deduce aspects of the world. Applications include speech recognition,[119] facial recognition, and object recognition.[120] Computer vision is the ability to analyze visual input. Such input is usually ambiguous; a giant, fifty-meter-tall pedestrian far away may produce exactly the same pixels as a nearby normal-sized pedestrian, requiring the AI to judge the relative likelihood and reasonableness of different interpretations, for example by using its "object model" to assess that fifty-meter pedestrians do not exist.[121]
 
@@ -119,7 +117,7 @@ AI is heavily used in robotics.[122] Advanced robotic arms and other industrial 
 
 Social intelligence
 
-Kismet_robot_at_MIT_Museum.jpg, a robot with rudimentary social skills]]
+, a robot with rudimentary social skills]]
 
 Moravec's paradox can be extended to many forms of social intelligence.[129][130] Distributed multi-agent coordination of autonomous vehicles remains a difficult problem.[131] Affective computing is an interdisciplinary umbrella that comprises systems which recognize, interpret, process, or simulate human affects. Moderate successes related to affective computing include textual sentiment analysis and, more recently, multimodal affect analysis (see multimodal sentiment analysis), wherein AI classifies the affects displayed by a videotaped subject.[132]
 
@@ -197,7 +195,7 @@ Simple exhaustive searches[177] are rarely sufficient for most real-world proble
 
 A very different kind of search came to prominence in the 1990s, based on the mathematical theory of optimization. For many problems, it is possible to begin the search with some form of a guess and then refine the guess incrementally until no more refinements can be made. These algorithms can be visualized as blind hill climbing: we begin the search at a random point on the landscape, and then, by jumps or steps, we keep moving our guess uphill, until we reach the top. Other optimization algorithms are simulated annealing, beam search and random optimization.[179]
 
-ParticleSwarmArrowsAnimation.gif seeking the global minimum]] Evolutionary computation uses a form of optimization search. For example, they may begin with a population of organisms (the guesses) and then allow them to mutate and recombine, selecting only the fittest to survive each generation (refining the guesses). Classic evolutionary algorithms include genetic algorithms, gene expression programming, and genetic programming.[180] Alternatively, distributed search processes can coordinate via swarm intelligence algorithms. Two popular swarm algorithms used in search are particle swarm optimization (inspired by bird flocking) and ant colony optimization (inspired by ant trails).[181][182]
+seeking the global minimum]] Evolutionary computation uses a form of optimization search. For example, they may begin with a population of organisms (the guesses) and then allow them to mutate and recombine, selecting only the fittest to survive each generation (refining the guesses). Classic evolutionary algorithms include genetic algorithms, gene expression programming, and genetic programming.[180] Alternatively, distributed search processes can coordinate via swarm intelligence algorithms. Two popular swarm algorithms used in search are particle swarm optimization (inspired by bird flocking) and ant colony optimization (inspired by ant trails).[181][182]
 
 Logic
 
@@ -211,7 +209,7 @@ Overall, qualitative symbolic logic is brittle and scales poorly in the presence
 
 Probabilistic methods for uncertain reasoning
 
-EM_Clustering_of_Old_Faithful_data.gif clustering of Old Faithful eruption data starts from a random guess but then successfully converges on an accurate clustering of the two physically distinct modes of eruption.]]
+clustering of Old Faithful eruption data starts from a random guess but then successfully converges on an accurate clustering of the two physically distinct modes of eruption.]]
 
 Many problems in AI (in reasoning, planning, learning, perception, and robotics) require the agent to operate with incomplete or uncertain information. AI researchers have devised a number of powerful tools to solve these problems using methods from probability theory and economics.[197]
 
@@ -227,7 +225,7 @@ A classifier can be trained in various ways; there are many statistical and mach
 
 Artificial neural networks
 
-Artificial_neural_network.svgs in the human brain.]]
+s in the human brain.]]
 
 Neural networks were inspired by the architecture of neurons in the human brain. A simple "neuron" _N_ accepts input from multiple other neurons, each of which, when activated (or "fired"), cast a weighted "vote" for or against whether neuron _N_ should itself activate. Learning requires an algorithm to adjust these weights based on the training data; one simple algorithm (dubbed "fire together, wire together") is to increase the weight between two connected neurons when the activation of one triggers the successful activation of another. The neural network forms "concepts" that are distributed among a subnetwork of shared neurons that tend to fire together; a concept meaning "leg" might be coupled with a subnetwork meaning "foot" that includes the sound for "foot". Neurons have a continuous spectrum of activation; in addition, neurons can process inputs in a nonlinear way rather than weighing straightforward votes. Modern neural networks can learn both continuous functions and, surprisingly, digital logical operations. Neural networks' early successes included predicting the stock market and (in 1995) a mostly self-driving car. In the 2010s, advances in neural networks using deep learning thrust AI into widespread public consciousness and contributed to an enormous upshift in corporate AI spending; for example, AI-related M&A in 2017 was over 25 times as large as in 2015.[217][218]
 
@@ -270,7 +268,7 @@ Proposed "universal intelligence" tests aim to compare how well machines, humans
 
 Applications
 
-Automated_online_assistant.png providing customer service on a web page – one of many very primitive applications of artificial intelligence]]
+providing customer service on a web page – one of many very primitive applications of artificial intelligence]]
 
 AI is relevant to any intellectual task. Modern artificial intelligence techniques are pervasive and are too numerous to list here. Frequently, when a technique reaches mainstream use, it is no longer considered artificial intelligence; this phenomenon is described as the AI effect.
 
@@ -280,7 +278,7 @@ With social media sites overtaking TV as a source for news for young people and 
 
 Healthcare
 
-Laproscopic_Surgery_Robot.jpg]]AI is being applied to the high cost problem of dosage issues—where findings suggested that AI could save $16 billion. In 2016, a ground breaking study in California found that a mathematical formula developed with the help of AI correctly determined the accurate dose of immunosuppressant drugs to give to organ patients.[281] X-ray_of_a_hand_with_automatic_bone_age_calculation.jpg of a hand, with automatic calculation of bone age by computer software]] Artificial intelligence is breaking into the healthcare industry by assisting doctors. According to Bloomberg Technology, Microsoft has developed AI to help doctors find the right treatments for cancer.[282] There is a great amount of research and drugs developed relating to cancer. In detail, there are more than 800 medicines and vaccines to treat cancer. This negatively affects the doctors, because there are too many options to choose from, making it more difficult to choose the right drugs for the patients. Microsoft is working on a project to develop a machine called "Hanover". Its goal is to memorize all the papers necessary to cancer and help predict which combinations of drugs will be most effective for each patient. One project that is being worked on at the moment is fighting myeloid leukemia, a fatal cancer where the treatment has not improved in decades. Another study was reported to have found that artificial intelligence was as good as trained doctors in identifying skin cancers.[283] Another study is using artificial intelligence to try and monitor multiple high-risk patients, and this is done by asking each patient numerous questions based on data acquired from live doctor to patient interactions.[284] One study was done with transfer learning, the machine performed a diagnosis similarly to a well-trained ophthalmologist, and could generate a decision within 30 seconds on whether or not the patient should be referred for treatment, with more than 95% accuracy.[285]
+]]AI is being applied to the high cost problem of dosage issues—where findings suggested that AI could save $16 billion. In 2016, a ground breaking study in California found that a mathematical formula developed with the help of AI correctly determined the accurate dose of immunosuppressant drugs to give to organ patients.[281] of a hand, with automatic calculation of bone age by computer software]] Artificial intelligence is breaking into the healthcare industry by assisting doctors. According to Bloomberg Technology, Microsoft has developed AI to help doctors find the right treatments for cancer.[282] There is a great amount of research and drugs developed relating to cancer. In detail, there are more than 800 medicines and vaccines to treat cancer. This negatively affects the doctors, because there are too many options to choose from, making it more difficult to choose the right drugs for the patients. Microsoft is working on a project to develop a machine called "Hanover". Its goal is to memorize all the papers necessary to cancer and help predict which combinations of drugs will be most effective for each patient. One project that is being worked on at the moment is fighting myeloid leukemia, a fatal cancer where the treatment has not improved in decades. Another study was reported to have found that artificial intelligence was as good as trained doctors in identifying skin cancers.[283] Another study is using artificial intelligence to try and monitor multiple high-risk patients, and this is done by asking each patient numerous questions based on data acquired from live doctor to patient interactions.[284] One study was done with transfer learning, the machine performed a diagnosis similarly to a well-trained ophthalmologist, and could generate a decision within 30 seconds on whether or not the patient should be referred for treatment, with more than 95% accuracy.[285]
 
 According to CNN, a recent study by surgeons at the Children's National Medical Center in Washington successfully demonstrated surgery with an autonomous robot. The team supervised the robot while it performed soft-tissue surgery, stitching together a pig's bowel during open surgery, and doing so better than a human surgeon, the team claimed.[286] IBM has created its own artificial intelligence computer, the IBM Watson, which has beaten human intelligence (at some levels). Watson not only won at the game show _Jeopardy!_ against former champions,[287] but was declared a hero after successfully diagnosing a woman who was suffering from leukemia.[288]
 
@@ -461,7 +459,7 @@ The long-term economic effects of AI are uncertain. A survey of economists showe
 
 In fiction
 
-Capek_play.jpg in his 1921 play _R.U.R._, the title standing for "Rossum's Universal Robots"]]
+in his 1921 play _R.U.R._, the title standing for "Rossum's Universal Robots"]]
 
 Thought-capable artificial beings appeared as storytelling devices since antiquity,[384] and have been a persistent theme in science fiction.
 

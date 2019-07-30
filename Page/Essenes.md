@@ -28,7 +28,7 @@ Flavius Josephus in Chapter 8 of “The Jewish War” states:
 
 Location
 
-QumranLivingQuarters.jpg According to Josephus, the Essenes had settled “not in one city” but “in large numbers in every town”.[31] Philo speaks of "more than four thousand" _Essaioi_ living in “Palestine and Syria”,[32] more precisely, “in many cities of Judaea and in many villages and grouped in great societies of many members”.[33]
+According to Josephus, the Essenes had settled “not in one city” but “in large numbers in every town”.[31] Philo speaks of "more than four thousand" _Essaioi_ living in “Palestine and Syria”,[32] more precisely, “in many cities of Judaea and in many villages and grouped in great societies of many members”.[33]
 
 Pliny locates them “on the west side of the Dead Sea, away from the coast... [above] the town of Engeda”.[34]
 

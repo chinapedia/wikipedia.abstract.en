@@ -6,12 +6,12 @@ Europe covers about , or 2% of the Earth's surface (6.8% of land area). Politica
 
 Europe, in particular ancient Greece and ancient Rome, was the birthplace of Western civilization.[2][3][4] The fall of the Western Roman Empire in 476 AD and the subsequent Migration Period marked the end of ancient history and the beginning of the Middle Ages. Renaissance humanism, exploration, art and science led to the modern era. Since the Age of Discovery started by Portugal and Spain, Europe played a predominant role in global affairs. Between the 16th and 20th centuries, European powers controlled at various times the Americas, almost all of Africa and Oceania and the majority of Asia.
 
-The Age of Enlightenment, the subsequent French Revolution and the Napoleonic Wars shaped the continent culturally, politically and economically from the end of the 17th century until the first half of the 19th century. The Industrial Revolution, which began in Great Britain at the end of the 18th century, gave rise to radical economic, cultural and social change in Western Europe and eventually the wider world. Both world wars took place for the most part in Europe, contributing to a decline in Western European dominance in world affairs by the mid-20th century as the Soviet Union and the United States took prominence.[5] During the Cold War, Europe was divided along the Iron Curtain between NATO in the West and the Warsaw Pact in the East, until the revolutions of 1989 and fall of the Berlin Wall. Europe_subregion_map_world_factbook.svg}}]] In 1949 the Council of Europe was founded, following a speech by Sir Winston Churchill, with the idea of unifying Europe to achieve common goals. It includes all European states except for Belarus, Kazakhstan and Vatican City. Further European integration by some states led to the formation of the European Union (EU), a separate political entity that lies between a confederation and a federation.[6] The EU originated in Western Europe but has been expanding eastward since the fall of the Soviet Union in 1991. The currency of most countries of the European Union, the euro, is the most commonly used among Europeans; and the EU's Schengen Area abolishes border and immigration controls among most of its member states.
+The Age of Enlightenment, the subsequent French Revolution and the Napoleonic Wars shaped the continent culturally, politically and economically from the end of the 17th century until the first half of the 19th century. The Industrial Revolution, which began in Great Britain at the end of the 18th century, gave rise to radical economic, cultural and social change in Western Europe and eventually the wider world. Both world wars took place for the most part in Europe, contributing to a decline in Western European dominance in world affairs by the mid-20th century as the Soviet Union and the United States took prominence.[5] During the Cold War, Europe was divided along the Iron Curtain between NATO in the West and the Warsaw Pact in the East, until the revolutions of 1989 and fall of the Berlin Wall. }}]] In 1949 the Council of Europe was founded, following a speech by Sir Winston Churchill, with the idea of unifying Europe to achieve common goals. It includes all European states except for Belarus, Kazakhstan and Vatican City. Further European integration by some states led to the formation of the European Union (EU), a separate political entity that lies between a confederation and a federation.[6] The EU originated in Western Europe but has been expanding eastward since the fall of the Soviet Union in 1991. The currency of most countries of the European Union, the euro, is the most commonly used among Europeans; and the EU's Schengen Area abolishes border and immigration controls among most of its member states.
 
 
 Name
 
-Palazzo_Ferreria_statue_3.jpeg, in Valletta, Malta]] Herodotus_World_Map.jpg' world map (450 BC)]]
+, in Valletta, Malta]] ' world map (450 BC)]]
 
 In classical Greek mythology, Europa (, _Eurṓpē_) was a Phoenician princess. The word Europe is derived from her name. The name contains the elements εὐρύς (_eurús_), "wide, broad"[7] and ὤψ (_ōps_, gen. ὠπός, _ōpós_) "eye, face, countenance",[8] hence their composite _Eurṓpē_ would mean "wide-gazing" or "broad of aspect". _Broad_ has been an epithet of Earth herself in the reconstructed Proto-Indo-European religion and the poetry devoted to it.[9]
 
@@ -37,7 +37,7 @@ History of the concept
 
 Early history
 
-T_and_O_map_Guntherus_Ziner_1472.jpg printed by Günther Zainer in 1472, showing the three continents as domains of the sons of Noah — Asia to Sem (Shem), Europe to Iafeth (Japheth), and Africa to Cham (Ham)]] The first recorded usage of _Eurṓpē_ as a geographic term is in the Homeric Hymn to Delian Apollo, in reference to the western shore of the Aegean Sea. As a name for a part of the known world, it is first used in the 6th century BC by Anaximander and Hecataeus. Anaximander placed the boundary between Asia and Europe along the Phasis River (the modern Rioni River) in the Caucasus, a convention still followed by Herodotus in the 5th century BC.[18] Herodotus mentioned that the world had been divided by unknown persons into three parts, Europe, Asia, and Libya (Africa), with the Nile and the Phasis forming their boundaries—though he also states that some considered the River Don, rather than the Phasis, as the boundary between Europe and Asia.[19] Europe's eastern frontier was defined in the 1st century by geographer Strabo at the River Don.[20] The _Book of Jubilees_ described the continents as the lands given by Noah to his three sons; Europe was defined as stretching from the Pillars of Hercules at the Strait of Gibraltar, separating it from Northwest Africa, to the Don, separating it from Asia.[21]
+printed by Günther Zainer in 1472, showing the three continents as domains of the sons of Noah — Asia to Sem (Shem), Europe to Iafeth (Japheth), and Africa to Cham (Ham)]] The first recorded usage of _Eurṓpē_ as a geographic term is in the Homeric Hymn to Delian Apollo, in reference to the western shore of the Aegean Sea. As a name for a part of the known world, it is first used in the 6th century BC by Anaximander and Hecataeus. Anaximander placed the boundary between Asia and Europe along the Phasis River (the modern Rioni River) in the Caucasus, a convention still followed by Herodotus in the 5th century BC.[18] Herodotus mentioned that the world had been divided by unknown persons into three parts, Europe, Asia, and Libya (Africa), with the Nile and the Phasis forming their boundaries—though he also states that some considered the River Don, rather than the Phasis, as the boundary between Europe and Asia.[19] Europe's eastern frontier was defined in the 1st century by geographer Strabo at the River Don.[20] The _Book of Jubilees_ described the continents as the lands given by Noah to his three sons; Europe was defined as stretching from the Pillars of Hercules at the Strait of Gibraltar, separating it from Northwest Africa, to the Don, separating it from Asia.[21]
 
 The convention received by the Middle Ages and surviving into modern usage is that of the Roman era used by Roman era authors such as Posidonius,[22] Strabo[23] and Ptolemy,[24] who took the Tanais (the modern Don River) as the boundary.
 
@@ -51,7 +51,7 @@ The question of defining a precise eastern boundary of Europe arises in the Earl
 
 Throughout the Middle Ages and into the 18th century, the traditional division of the landmass of Eurasia into two continents, Europe and Asia, followed Ptolemy, with the boundary following the Turkish Straits, the Black Sea, the Kerch Strait, the Sea of Azov and the Don (ancient Tanais). But maps produced during the 16th to 18th centuries tended to differ in how to continue the boundary beyond the Don bend at Kalach-na-Donu (where it is closest to the Volga, now joined with it by the Volga–Don Canal), into territory not described in any detail by the ancient geographers.
 
-Europa_Prima_Pars_Terrae_in_Forma_Virginis.jpg'' ('Queen Europe') in 1582.|alt=|270x270px]]
+'' ('Queen Europe') in 1582.|alt=|270x270px]]
 
 Philip Johan von Strahlenberg in 1725 was the first to depart from the classical Don boundary by proposing that mountain ranges could be included as boundaries between continents whenever there were no suitable waterways. He drew a new line along the Volga, following the Volga north until the Samara Bend, along Obshchy Syrt (the drainage divide between Volga and Ural) and then north along Ural Mountains.[27] This was adopted by the Russian Empire, and introduced the convention that would eventually become commonly accepted, but not without criticism by many modern analytical geographers.[28]
 
@@ -66,11 +66,11 @@ History
 
 Prehistory
 
-Lascaux_painting.jpg in France (c 15,000 BC)]]
+in France (c 15,000 BC)]]
 
 _Homo erectus georgicus_, which lived roughly 1.8 million years ago in Georgia, is the earliest hominid to have been discovered in Europe.[36] Other hominid remains, dating back roughly 1 million years, have been discovered in Atapuerca, Spain.[37] Neanderthal man (named after the Neandertal valley in Germany) appeared in Europe 150,000 years ago (115,000 years ago it is found already in Poland[38]) and disappeared from the fossil record about 28,000 years ago, with their final refuge being present-day Portugal. The Neanderthals were supplanted by modern humans (Cro-Magnons), who appeared in Europe around 43,000 to 40,000 years ago.[39] The earliest sites in Europe dated 48,000 years ago are Riparo Mochi (Italy), Geissenklösterle (Germany), and Isturitz (France)[40][41]
 
-Stonehenge,_Condado_de_Wiltshire,_Inglaterra,_2014-08-12,_DD_09.JPG in the United Kingdom (Late Neolithic from 3000–2000 BC).]]
+in the United Kingdom (Late Neolithic from 3000–2000 BC).]]
 
 The European Neolithic period—marked by the cultivation of crops and the raising of livestock, increased numbers of settlements and the widespread use of pottery—began around 7000 BC in Greece and the Balkans, probably influenced by earlier farming practices in Anatolia and the Near East.[42] It spread from the Balkans along the valleys of the Danube and the Rhine (Linear Pottery culture) and along the Mediterranean coast (Cardial culture). Between 4500 and 3000 BC, these central European neolithic cultures developed further to the west and the north, transmitting newly acquired skills in producing copper artifacts. In Western Europe the Neolithic period was characterised not by large agricultural settlements but by field monuments, such as causewayed enclosures, burial mounds and megalithic tombs.[43] The Corded Ware cultural horizon flourished at the transition from the Neolithic to the Chalcolithic. During this period giant megalithic monuments, such as the Megalithic Temples of Malta and Stonehenge, were constructed throughout Western and Southern Europe.[44][45]
 
@@ -78,11 +78,11 @@ The European Bronze Age began c. 3200 BC in Greece with the Minoan civilization 
 
 Classical antiquity
 
-The_Parthenon_in_Athens.jpg in Athens (432 BC)]]
+in Athens (432 BC)]]
 
 Ancient Greece was the founding culture of Western civilisation. Western democratic and rationalist culture are often attributed to Ancient Greece.[49] The Greeks city-state, the polis, was the fundamental political unit of classical Greece.[50] In 508 BC, Cleisthenes instituted the world's first democratic system of government in Athens.[51] The Greek political ideals were rediscovered in the late 18th century by European philosophers and idealists. Greece also generated many cultural contributions: in philosophy, humanism and rationalism under Aristotle, Socrates and Plato; in history with Herodotus and Thucydides; in dramatic and narrative verse, starting with the epic poems of Homer;[52] in drama with Sophocles and Euripides, in medicine with Hippocrates and Galen; and in science with Pythagoras, Euclid and Archimedes.[53][54][55] In the course of the 5th century BC, several of the Greek city states would ultimately check the Achaemenid Persian advance in Europe through the Greco-Persian Wars, considered a pivotal moment in world history,[56] as the 50 years of peace that followed are known as Golden Age of Athens, the seminal period of ancient Greece that laid many of the foundations of Western civilization.
 
-Roman_Republic_Empire_map.gif was a small city-state on the Italian peninsula. By 200 BC, Rome had conquered Italy, and over the following two centuries it conquered Greece and Hispania (Spain and Portugal), the North African coast, much of the Middle East, Gaul (France), and Britannia (England and Wales).]]
+was a small city-state on the Italian peninsula. By 200 BC, Rome had conquered Italy, and over the following two centuries it conquered Greece and Hispania (Spain and Portugal), the North African coast, much of the Middle East, Gaul (France), and Britannia (England and Wales).]]
 
 Greece was followed by Rome, which left its mark on law, politics, language, engineering, architecture, government and many more key aspects in western civilisation.[57] Expanding from their base in Italy beginning in the 3rd century BC, the Romans gradually expanded to eventually rule the entire Mediterranean basin and western Europe by the turn of the millennium. The Roman Republic ended in 27 BC, when Augustus proclaimed the Roman Empire. The two centuries that followed are known as the _pax romana_, a period of unprecedented peace, prosperity, and political stability in most of Europe.[58]
 
@@ -106,7 +106,7 @@ High and Late Middle Ages
 
 The period between the year 1000 and 1300 is known as the High Middle Ages, during which the population of Europe experienced significant growth, culminating in the Renaissance of the 12th century. Economic growth, together with the lack of safety on the mainland trading routes, made possible the development of major commercial routes along the coast of the Mediterranean and Baltic Seas. The growing wealth and independence acquired by some coastal cities gave the Maritime Republics a leading role in the European scene.
 
-Philip_II_and_Tancred_meeting_in_Messina_-_British_Library_Royal_MS_16_G_vi_f350r_(detail).jpg and Philip II of France, during the Third Crusade (1189–1192)]]
+and Philip II of France, during the Third Crusade (1189–1192)]]
 
 The Middle Ages on the mainland were dominated by the two upper echelons of the social structure: the nobility and the clergy. Feudalism developed in France in the Early Middle Ages and soon spread throughout Europe.[73] A struggle for influence between the nobility and the monarchy in England led to the writing of the Magna Carta and the establishment of a parliament.[74] The primary source of culture in this period came from the Roman Catholic Church. Through monasteries and cathedral schools, the Church was responsible for education in much of Europe.[75]
 
@@ -114,7 +114,7 @@ The Papacy reached the height of its power during the High Middle Ages. An East-
 
 In the east a resurgent Byzantine Empire recaptured Crete and Cyprus from the Muslims and reconquered the Balkans. Constantinople was the largest and wealthiest city in Europe from the 9th to the 12th centuries, with a population of approximately 400,000.[78] The Empire was weakened following the defeat at Manzikert and was weakened considerably by the sack of Constantinople in 1204, during the Fourth Crusade.[79][80][81][82][83][84][85][86][87] Although it would recover Constantinople in 1261, Byzantium fell in 1453 when Constantinople was taken by the Ottoman Empire.[88][89][90]
 
-Mongols_suzdal.jpg by Batu Khan in 1238, during the Mongol invasion of Europe.]]
+by Batu Khan in 1238, during the Mongol invasion of Europe.]]
 
 In the 11th and 12th centuries, constant incursions by nomadic Turkic tribes, such as the Pechenegs and the Cuman-Kipchaks, caused a massive migration of Slavic populations to the safer, heavily forested regions of the north and temporarily halted the expansion of the Rus' state to the south and east.[91] Like many other parts of Eurasia, these territories were overrun by the Mongols.[92] The invaders, who became known as Tatars, were mostly Turkic-speaking peoples under Mongol suzerainty. They established the state of the Golden Horde with headquarters in Crimea, which later adopted Islam as a religion and ruled over modern-day southern and central Russia for more than three centuries.[93][94] After the collapse of Mongol dominions, the first Romanian states (principalities) emerged in the 14th century: Moldova and Walachia. Previously, these territories were under the successive control of Pechenegs and Cumans.[95] From the 12th to the 15th centuries, the Grand Duchy of Moscow grew from a small principality under Mongol rule to the largest state in Europe, overthrowing the Mongols in 1480 and eventually becoming the Tsardom of Russia. The state was consolidated under Ivan III the Great and Ivan the Terrible, steadily expanding to the east and south over the next centuries.
 
@@ -124,7 +124,7 @@ The plague had a devastating effect on Europe's social structure; it induced peo
 
 Early modern period
 
-La_scuola_di_Atene.jpg by Raphael (1511): Contemporaries such as Michelangelo and Leonardo da Vinci (centre) are portrayed as classical scholars of the Renaissance.]]
+by Raphael (1511): Contemporaries such as Michelangelo and Leonardo da Vinci (centre) are portrayed as classical scholars of the Renaissance.]]
 
 The Renaissance was a period of cultural change originating in Florence and later spreading to the rest of Europe. The rise of a new humanism was accompanied by the recovery of forgotten classical Greek and Arabic knowledge from monastic libraries, often translated from Arabic into Latin.[105][106][107] The Renaissance spread across Europe between the 14th and 16th centuries: it saw the flowering of art, philosophy, music, and the sciences, under the joint patronage of royalty, the nobility, the Roman Catholic Church, and an emerging merchant class.[108][109][110] Patrons in Italy, including the Medici family of Florentine bankers and the Popes in Rome, funded prolific quattrocento and cinquecento artists such as Raphael, Michelangelo, and Leonardo da Vinci.[111][112]
 
@@ -132,7 +132,7 @@ Political intrigue within the Church in the mid-14th century caused the Western 
 
 The plunder of the empires of the Americas by Spanish conquistadors (conquerors) allowed Spain to finance religious persecution in Europe for over a century. Spanish wars of conquest included laying waste much of the Netherlands[117] and a disastrous attempt to invade England. In 1590/91, the Spanish monarchy was at the height of its strength but during the 17th century Spanish power declined for a number of reasons. Famine, disease and almost continuous warfare, largely in the Spanish Netherlands, drained money, energy and men and weakened the economy; it is estimated that the population of Spain fell nearly 25% between 1600–1700.
 
-Lucas_Cranach_d.Ä._-_Martin_Luther,_1528_(Veste_Coburg).jpg (1483–1546), Protestant Reformer.]]
+(1483–1546), Protestant Reformer.]]
 
 The Church's power was further weakened by the Protestant Reformation in 1517 when German theologian Martin Luther nailed his _Ninety-five Theses_ criticizing the selling of indulgences to the church door. He was subsequently excommunicated in the papal bull _Exsurge Domine_ in 1520, and his followers were condemned in the 1521 Diet of Worms, which divided German princes between Protestant and Roman Catholic faiths.[118] This weakened the influence of the Holy Roman Empire and eventually led to the Thirty Years War (1618–1648), which crippled the Holy Roman Empire and devastated much of Germany, killing between 25 and 40 percent of its population.[119] In the aftermath of the Peace of Westphalia, France rose to predominance within Europe.[120]
 
@@ -142,54 +142,52 @@ The Renaissance and the New Monarchs marked the start of an Age of Discovery, a 
 
 18th and 19th centuries
 
-Napoleons_retreat_from_moscow.jpg's retreat from Russia in 1812]]
+'s retreat from Russia in 1812]]
 
 The Age of Enlightenment was a powerful intellectual movement during the 18th century promoting scientific and reason-based thoughts.[127][128][129] Discontent with the aristocracy and clergy's monopoly on political power in France resulted in the French Revolution and the establishment of the First Republic as a result of which the monarchy and many of the nobility perished during the initial reign of terror.[130] Napoleon Bonaparte rose to power in the aftermath of the French Revolution and established the First French Empire that, during the Napoleonic Wars, grew to encompass large parts of Europe before collapsing in 1815 with the Battle of Waterloo.[131][132] Napoleonic rule resulted in the further dissemination of the ideals of the French Revolution, including that of the nation-state, as well as the widespread adoption of the French models of administration, law, and education.[133][134][135] The Congress of Vienna, convened after Napoleon's downfall, established a new balance of power in Europe centred on the five "Great Powers": the UK, France, Prussia, Austria, and Russia.[136] This balance would remain in place until the Revolutions of 1848, during which liberal uprisings affected all of Europe except for Russia and the UK. These revolutions were eventually put down by conservative elements and few reforms resulted.[137] The year 1859 saw the unification of Romania, as a nation-state, from smaller principalities. In 1867, the Austro-Hungarian empire was formed; and 1871 saw the unifications of both Italy and Germany as nation-states from smaller principalities.[138]
 
 In parallel, the Eastern Question grew more complex ever since the Ottoman defeat in the Russo-Turkish War (1768–1774). As the dissolution of the Ottoman Empire seemed imminent, the Great Powers struggled to safeguard their strategic and commercial interests in the Ottoman domains. The Russian Empire stood to benefit from the decline, whereas the Habsburg Empire and Britain perceived the preservation of the Ottoman Empire to be in their best interests. Meanwhile, the Serbian revolution (1804) and Greek War of Independence (1821) marked the beginning of the end of Ottoman rule in the Balkans, which ended with the Balkan Wars in 1912–1913.[139] Formal recognition of the _de facto_ independent principalities of Montenegro, Serbia and Romania ensued at the Congress of Berlin in 1878.
 
-Marshall's_flax-mill,_Holbeck,_Leeds_-_interior_-_c.1800.jpg (1840), the Industrial Revolution started in Great Britain]]
+(1840), the Industrial Revolution started in Great Britain]]
 
 The Industrial Revolution started in Great Britain in the last part of the 18th century and spread throughout Europe. The invention and implementation of new technologies resulted in rapid urban growth, mass employment, and the rise of a new working class.[140] Reforms in social and economic spheres followed, including the first laws on child labour, the legalisation of trade unions,[141] and the abolition of slavery.[142] In Britain, the Public Health Act of 1875 was passed, which significantly improved living conditions in many British cities.[143] Europe's population increased from about 100 million in 1700 to 400 million by 1900.[144] The last major famine recorded in Western Europe, the Irish Potato Famine, caused death and mass emigration of millions of Irish people.[145] In the 19th century, 70 million people left Europe in migrations to various European colonies abroad and to the United States.[146] Demographic growth meant that, by 1900, Europe's share of the world's population was 25%.[147]
 
 20th century to the present
 
-Vierbund05h.jpg of Germany, Kaiser Franz Joseph of Austria-Hungary, Sultan Mehmed V of the Ottoman Empire, and Tsar Ferdinand of Bulgaria.]]
+of Germany, Kaiser Franz Joseph of Austria-Hungary, Sultan Mehmed V of the Ottoman Empire, and Tsar Ferdinand of Bulgaria.]]
 
 Two world wars and an economic depression dominated the first half of the 20th century. World War I was fought between 1914 and 1918. It started when Archduke Franz Ferdinand of Austria was assassinated by the Yugoslav nationalist[148] Gavrilo Princip.[149] Most European nations were drawn into the war, which was fought between the Entente Powers (France, Belgium, Serbia, Portugal, Russia, the United Kingdom, and later Italy, Greece, Romania, and the United States) and the Central Powers (Austria-Hungary, Germany, Bulgaria, and the Ottoman Empire). The war left more than 16 million civilians and military dead.[150] Over 60 million European soldiers were mobilised from 1914 to 1918.[151]
 
-Map_Europe_WW1_Frontlines_as_of_1916.png in 1916]]
+in 1916]]
 
 Russia was plunged into the Russian Revolution, which threw down the Tsarist monarchy and replaced it with the communist Soviet Union.[152] Austria-Hungary and the Ottoman Empire collapsed and broke up into separate nations, and many other nations had their borders redrawn. The Treaty of Versailles, which officially ended World War I in 1919, was harsh towards Germany, upon whom it placed full responsibility for the war and imposed heavy sanctions.[153]
 
 Excess deaths in Russia over the course of World War I and the Russian Civil War (including the postwar famine) amounted to a combined total of 18 million.[154] In 1932–1933, under Stalin's leadership, confiscations of grain by the Soviet authorities contributed to the second Soviet famine which caused millions of deaths;[155] surviving kulaks were persecuted and many sent to Gulags to do forced labour. Stalin was also responsible for the Great Purge of 1937–38 in which the NKVD executed 681,692 people;[156] millions of people were deported and exiled to remote areas of the Soviet Union.[157]
 
-Serbian_retreat_WWI.jpg (1914–1918) cost the country one quarter of its population.[158][159][160][161][162]]]
+(1914–1918) cost the country one quarter of its population.[158][159][160][161][162]]]
 
 The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism. Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s. This and the Wall Street Crash of 1929 brought about the worldwide Great Depression. Helped by the economic crisis, social instability and the threat of communism, fascist movements developed throughout Europe placing Adolf Hitler in power of what became Nazi Germany.[163][164]
 
 In 1933, Hitler became the leader of Germany and began to work towards his goal of building Greater Germany. Germany re-expanded and took back the Saarland and Rhineland in 1935 and 1936. In 1938, Austria became a part of Germany following the Anschluss. Later that year, following the Munich Agreement signed by Germany, France, the United Kingdom and Italy, Germany annexed the Sudetenland, which was a part of Czechoslovakia inhabited by ethnic Germans, and in early 1939, the remainder of Czechoslovakia was split into the Protectorate of Bohemia and Moravia, controlled by Germany, and the Slovak Republic. At the time, Britain and France preferred a policy of appeasement.
 
-Royal_Air_Force_Bomber_Command,_1942-1945._CL3400.jpg, 1944/45]]
+, 1944/45]]
 
 With tensions mounting between Germany and Poland over the future of Danzig, the Germans turned to the Soviets, and signed the Molotov–Ribbentrop Pact, which allowed the Soviets to invade the Baltic states and parts of Poland and Romania. Germany invaded Poland on 1 September 1939, prompting France and the United Kingdom to declare war on Germany on 3 September, opening the European Theatre of World War II.[165][166] The Soviet invasion of Poland started on 17 September and Poland fell soon thereafter. On 24 September, the Soviet Union attacked the Baltic countries and later, Finland. The British hoped to land at Narvik and send troops to aid Finland, but their primary objective in the landing was to encircle Germany and cut the Germans off from Scandinavian resources. Around the same time, Germany moved troops into Denmark. The Phoney War continued.
 
-In May 1940, Germany attacked France through the Low Countries. France capitulated in June 1940. By August Germany began a bombing offensive on Britain, but failed to convince the Britons to give up.[167] In 1941, Germany invaded the Soviet Union in Operation Barbarossa.[168] On 7 December 1941 Japan's attack on Pearl Harbor drew the United States into the conflict as allies of the British Empire and other allied forces.[169][170] Yalta_Conference_(Churchill,_Roosevelt,_Stalin)_(B&W).jpg" at the Yalta Conference in 1945; seated (from the left): Winston Churchill, Franklin D. Roosevelt, and Joseph Stalin]] After the staggering Battle of Stalingrad in 1943, the German offensive in the Soviet Union turned into a continual fallback. The Battle of Kursk, which involved the largest tank battle in history, was the last major German offensive on the Eastern Front. In June 1944, British and American forces invaded France in the D-Day landings, opening a new front against Germany. Berlin finally fell in 1945, ending World War II in Europe. The war was the largest and most destructive in human history, with 60 million dead across the world.[171] More than 40 million people in Europe had died as a result of World War II,[172] including between 11 and 17 million people who perished during the Holocaust.[173] The Soviet Union lost around 27 million people (mostly civilians) during the war, about half of all World War II casualties.[174] By the end of World War II, Europe had more than 40 million refugees.[175] Several post-war expulsions in Central and Eastern Europe displaced a total of about 20 million people.[176]
+In May 1940, Germany attacked France through the Low Countries. France capitulated in June 1940. By August Germany began a bombing offensive on Britain, but failed to convince the Britons to give up.[167] In 1941, Germany invaded the Soviet Union in Operation Barbarossa.[168] On 7 December 1941 Japan's attack on Pearl Harbor drew the United States into the conflict as allies of the British Empire and other allied forces.[169][170] " at the Yalta Conference in 1945; seated (from the left): Winston Churchill, Franklin D. Roosevelt, and Joseph Stalin]] After the staggering Battle of Stalingrad in 1943, the German offensive in the Soviet Union turned into a continual fallback. The Battle of Kursk, which involved the largest tank battle in history, was the last major German offensive on the Eastern Front. In June 1944, British and American forces invaded France in the D-Day landings, opening a new front against Germany. Berlin finally fell in 1945, ending World War II in Europe. The war was the largest and most destructive in human history, with 60 million dead across the world.[171] More than 40 million people in Europe had died as a result of World War II,[172] including between 11 and 17 million people who perished during the Holocaust.[173] The Soviet Union lost around 27 million people (mostly civilians) during the war, about half of all World War II casualties.[174] By the end of World War II, Europe had more than 40 million refugees.[175] Several post-war expulsions in Central and Eastern Europe displaced a total of about 20 million people.[176]
 
-Schuman_Declaration.jpg led to the creation of the European Coal and Steel Community. It began the integration process of the European Union (9 May 1950, at the French Foreign Ministry).]]
+led to the creation of the European Coal and Steel Community. It began the integration process of the European Union (9 May 1950, at the French Foreign Ministry).]]
 
 World War I and especially World War II diminished the eminence of Western Europe in world affairs. After World War II the map of Europe was redrawn at the Yalta Conference and divided into two blocs, the Western countries and the communist Eastern bloc, separated by what was later called by Winston Churchill an "Iron Curtain". The United States and Western Europe established the NATO alliance and later the Soviet Union and Central Europe established the Warsaw Pact.[177]
 
 The two new superpowers, the United States and the Soviet Union, became locked in a fifty-year-long Cold War, centred on nuclear proliferation. At the same time decolonisation, which had already started after World War I, gradually resulted in the independence of most of the European colonies in Asia and Africa.[178] In the 1980s the reforms of Mikhail Gorbachev and the Solidarity movement in Poland accelerated the collapse of the Eastern bloc and the end of the Cold War. Germany was reunited, after the symbolic fall of the Berlin Wall in 1989, and the maps of Central and Eastern Europe were redrawn once more.[179]
 
-Flag_of_Europe.svg, adopted by the Council of Europe in 1955 as the flag for the whole of Europe.[180]]]
+, adopted by the Council of Europe in 1955 as the flag for the whole of Europe.[180]]]
 
 European integration also grew after World War II. The Treaty of Rome in 1957 established the European Economic Community between six Western European states with the goal of a unified economic policy and common market.[181] In 1967 the EEC, European Coal and Steel Community and Euratom formed the European Community, which in 1993 became the European Union. The EU established a parliament, court and central bank and introduced the euro as a unified currency.[182] Between 2004 and 2013, more Central and Eastern European countries began joining, expanding the EU to its current size of 28 European countries, and once more making Europe a major economical and political centre of power.[183] However, in June 2016 the people of the United Kingdom, in a non-binding referendum on EU membership voted to leave the European Union.
 
 
 Geography
-
-Europe_topography_map_en.png
 
 Europe makes up the western fifth of the Eurasian landmass.[184] It has a higher ratio of coast to landmass than any other continent or subcontinent.[185] Its maritime borders consist of the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean, Black, and Caspian Seas to the south.[186] Land relief in Europe shows great variation within relatively small areas. The southern regions are more mountainous, while moving north the terrain descends from the high Alps, Pyrenees, and Carpathians, through hilly uplands, into broad, low northern plains, which are vast in the east. This extended lowland is known as the Great European Plain, and at its heart lies the North German Plain. An arc of uplands also exists along the north-western seaboard, which begins in the western parts of the islands of Britain and Ireland, and then continues along the mountainous, fjord-cut spine of Norway.
 
@@ -197,7 +195,7 @@ This description is simplified. Sub-regions such as the Iberian Peninsula and th
 
 Climate
 
-Koppen-Geiger_Map_Europe_present.svg map for Europe.[187]]] Vegetation_Europe.pngs of Europe and surrounding regions:
+map for Europe.[187]]] s of Europe and surrounding regions:
 ]]
 
 Europe lies mainly in the temperate climate zones, being subjected to prevailing westerlies. The climate is milder in comparison to other areas of the same latitude around the globe due to the influence of the Gulf Stream.[188] The Gulf Stream is nicknamed "Europe's central heating", because it makes Europe's climate warmer and wetter than it would otherwise be. The Gulf Stream not only carries warm water to Europe's coast but also warms up the prevailing westerly winds that blow across the continent from the Atlantic Ocean.
@@ -238,11 +236,11 @@ In general, Europe isn't just colder towards the north compared to the south, bu
 
 Geology
 
-Mount_Elbrus_May_2008.jpg in Russia is the highest mountain in Europe.]]
+in Russia is the highest mountain in Europe.]]
 
 The geological history of Europe traces back to the formation of the Baltic Shield (Fennoscandia) and the Sarmatian craton, both around 2.25 billion years ago, followed by the Volgo–Uralia shield, the three together leading to the East European craton (≈ Baltica) which became a part of the supercontinent Columbia. Around 1.1 billion years ago, Baltica and Arctica (as part of the Laurentia block) became joined to Rodinia, later resplitting around 550 million years ago to reform as Baltica. Around 440 million years ago Euramerica was formed from Baltica and Laurentia; a further joining with Gondwana then leading to the formation of Pangea. Around 190 million years ago, Gondwana and Laurasia split apart due to the widening of the Atlantic Ocean. Finally, and very soon afterwards, Laurasia itself split up again, into Laurentia (North America) and the Eurasian continent. The land connection between the two persisted for a considerable time, via Greenland, leading to interchange of animal species. From around 50 million years ago, rising and falling sea levels have determined the actual shape of Europe, and its connections with continents such as Asia. Europe's present shape dates to the late Tertiary period about five million years ago.[191]
 
-Gibraltar-Europa-Point-LH-from-the-sea.jpg.]] The geology of Europe is hugely varied and complex, and gives rise to the wide variety of landscapes found across the continent, from the Scottish Highlands to the rolling plains of Hungary.[192] Europe's most significant feature is the dichotomy between highland and mountainous Southern Europe and a vast, partially underwater, northern plain ranging from Ireland in the west to the Ural Mountains in the east. These two halves are separated by the mountain chains of the Pyrenees and Alps/Carpathians. The northern plains are delimited in the west by the Scandinavian Mountains and the mountainous parts of the British Isles. Major shallow water bodies submerging parts of the northern plains are the Celtic Sea, the North Sea, the Baltic Sea complex and Barents Sea.
+.]] The geology of Europe is hugely varied and complex, and gives rise to the wide variety of landscapes found across the continent, from the Scottish Highlands to the rolling plains of Hungary.[192] Europe's most significant feature is the dichotomy between highland and mountainous Southern Europe and a vast, partially underwater, northern plain ranging from Ireland in the west to the Ural Mountains in the east. These two halves are separated by the mountain chains of the Pyrenees and Alps/Carpathians. The northern plains are delimited in the west by the Scandinavian Mountains and the mountainous parts of the British Isles. Major shallow water bodies submerging parts of the northern plains are the Celtic Sea, the North Sea, the Baltic Sea complex and Barents Sea.
 
 The northern plain contains the old geological continent of Baltica, and so may be regarded geologically as the "main continent", while peripheral highlands and mountainous regions in the south and west constitute fragments from various other geological continents. Most of the older geology of western Europe existed as part of the ancient microcontinent Avalonia.
 
@@ -250,11 +248,7 @@ Flora
 
 Having lived side-by-side with agricultural peoples for millennia, Europe's animals and plants have been profoundly affected by the presence and activities of man. With the exception of Fennoscandia and northern Russia, few areas of untouched wilderness are currently found in Europe, except for various national parks.
 
-Europe_land_use_map.png
-
 The main natural vegetation cover in Europe is mixed forest. The conditions for growth are very favourable. In the north, the Gulf Stream and North Atlantic Drift warm the continent. Southern Europe could be described as having a warm, but mild climate. There are frequent summer droughts in this region. Mountain ridges also affect the conditions. Some of these (Alps, Pyrenees) are oriented east-west and allow the wind to carry large masses of water from the ocean in the interior. Others are oriented south-north (Scandinavian Mountains, Dinarides, Carpathians, Apennines) and because the rain falls primarily on the side of mountains that is oriented towards the sea, forests grow well on this side, while on the other side, the conditions are much less favourable. Few corners of mainland Europe have not been grazed by livestock at some point in time, and the cutting down of the pre-agricultural forest habitat caused disruption to the original plant and animal ecosystems.
-
-Floristic_regions_in_Europe_(english).png
 
 Probably 80 to 90 percent of Europe was once covered by forest.[193] It stretched from the Mediterranean Sea to the Arctic Ocean. Although over half of Europe's original forests disappeared through the centuries of deforestation, Europe still has over one quarter of its land area as forest, such as the broadleaf and mixed forests, taiga of Scandinavia and Russia, mixed rainforests of the Caucasus and the Cork oak forests in the western Mediterranean. During recent times, deforestation has been slowed and many trees have been planted. However, in many cases monoculture plantations of conifers have replaced the original mixed natural forest, because these grow quicker. The plantations now cover vast areas of land, but offer poorer habitats for many European forest dwelling species which require a mixture of tree species and diverse forest structure. The amount of natural forest in Western Europe is just 2–3% or less, in European Russia 5–10%. The country with the smallest percentage of forested area is Iceland (1%), while the most forested country is Finland (77%).[194]
 
@@ -262,11 +256,11 @@ In temperate Europe, mixed forest with both broadleaf and coniferous trees domin
 
 Fauna
 
-Europe_biogeography_countries.svg of Europe and bordering regions]]
+of Europe and bordering regions]]
 
 Glaciation during the most recent ice age and the presence of man affected the distribution of European fauna. As for the animals, in many parts of Europe most large animals and top predator species have been hunted to extinction. The woolly mammoth was extinct before the end of the Neolithic period. Today wolves (carnivores) and bears (omnivores) are endangered. Once they were found in most parts of Europe. However, deforestation and hunting caused these animals to withdraw further and further. By the Middle Ages the bears' habitats were limited to more or less inaccessible mountains with sufficient forest cover. Today, the brown bear lives primarily in the Balkan peninsula, Scandinavia, and Russia; a small number also persist in other countries across Europe (Austria, Pyrenees etc.), but in these areas brown bear populations are fragmented and marginalised because of the destruction of their habitat. In addition, polar bears may be found on Svalbard, a Norwegian archipelago far north of Scandinavia. The wolf, the second largest predator in Europe after the brown bear, can be found primarily in Central and Eastern Europe and in the Balkans, with a handful of packs in pockets of Western Europe (Scandinavia, Spain, etc.).
 
-Neandertal_-_Wisent.jpg now live in nature preserves in Białowieża Forest, on the border between Poland and Belarus.[195][196]]]
+now live in nature preserves in Białowieża Forest, on the border between Poland and Belarus.[195][196]]]
 
 European wild cat, foxes (especially the red fox), jackal and different species of martens, hedgehogs, different species of reptiles (like snakes such as vipers and grass snakes) and amphibians, different birds (owls, hawks and other birds of prey).
 
@@ -292,110 +286,110 @@ List of states and territories
 
 The list below includes all entities falling even partially under any of the various common definitions of Europe, geographic or political.
 
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-| Flag  | Arms              | Name                   | Area        | Population  | Population density | Capital      | Name(s) in official language(s)     |
-|       |                   |                        | (km²)       |             | (per km²)          |              |                                     |
-+=======+===================+========================+=============+=============+====================+==============+=====================================+
-|       |                   | Albania                | 28,748      | 2,876,591   | 98.5               | Tirana       | Shqipëria |-|                       |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Armenia                | 29,743      | 2,924,816   | 101.5              | Yerevan      | Հայաստան (Hayastan)                 |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Austria                | 83,858      | 8,823,054   | 104                | Vienna       | Österreich                          |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Azerbaijan             | 86,600      | 9,911,646   | 113                | Baku         | Azǝrbaycan                          |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Belarus                | 207,560     | 9,504,700   | 45.8               | Minsk        | ()                                  |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Belgium                | 30,528      | 11,358,357  | 372.06             | Brussels     | België/Belgique/Belgien             |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Bosnia and Herzegovina | 51,129      | 3,531,159   | 68.97              | Sarajevo     | /                                   |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Bulgaria               | 110,910     | 7,101,859   | 64.9               | Sofia        | ()                                  |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Croatia                | 56,542      | 4,284,889   | 75.8               | Zagreb       | Hrvatska                            |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Cyprus                 | 9,251       | 1,170,125   | 123.4              | Nicosia      | Kýpros/Kıbrıs                       |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Czech Republic         | 78,866      | 10,610,947  | 134                | Prague       | Česko                               |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Denmark                | 43,094      | 5,748,796   | 133.9              | Copenhagen   | Danmark                             |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Estonia                | 45,226      | 1,319,133   | 28                 | Tallinn      | Eesti                               |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Finland                | 336,593     | 5,509,717   | 16                 | Helsinki     | Suomi/Finland                       |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | France                 | 547,030     | 67,348,000  | 116                | Paris        | France                              |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Georgia                | 69,700      | 3,718,200   | 53.5               | Tbilisi      | საქართველო (Sakartvelo)             |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Germany                | 357,168     | 82,800,000  | 232                | Berlin       | Deutschland                         |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Greece                 | 131,957     | 10,768,477  | 82                 | Athens       | Ελλάδα (Elláda)                     |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Hungary                | 93,030      | 9,797,561   | 105.3              | Budapest     | Magyarország                        |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Iceland                | 103,000     | 350,710     | 3.2                | Reykjavík    | Ísland                              |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Ireland                | 70,280      | 4,761,865   | 67.7               | Dublin       | Éire/Ireland                        |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Italy                  | 301,338     | 60,589,445  | 201.3              | Rome         | Italia                              |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Kazakhstan             | 2,724,900   | 17,987,736  | 6.49               | Nur-Sultan   | ()                                  |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Latvia                 | 64,589      | 1,925,800   | 34.3               | Riga         | Latvija                             |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Liechtenstein          | 160         | 38,111      | 227                | Vaduz        | Liechtenstein                       |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Lithuania              | 65,300      | 2,800,667   | 45.8               | Vilnius      | Lietuva                             |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Luxembourg             | 2,586       | 602,005     | 233.7              | Luxembourg   | Lëtzebuerg/Luxemburg/Luxembourg     |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Malta                  | 316         | 445,426     | 1,410              | Valletta     | Malta                               |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Moldova                | 33,846      | 4,434,547   | 131.0              | Chișinău     | Moldova                             |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Monaco                 | 2.020       | 38,400      | 18,713             | Monaco       | Monaco                              |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Montenegro             | 13,812      | 642,550     | 45.0               | Podgorica    | /                                   |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Netherlands            | 41,543      | 17,271,990  | 414.9              | Amsterdam    | Nederland                           |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | North Macedonia        | 25,713      | 2,103,721   | 80.1               | Skopje       | ()                                  |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Norway                 | 385,203     | 5,295,619   | 15.8               | Oslo         | Norge/Noreg/Norga                   |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Poland                 | 312,685     | 38,422,346  | 123.5              | Warsaw       | Polska                              |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Portugal               | 92,212      | 10,379,537  | 115                | Lisbon       | Portugal                            |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Romania                | 238,397     | 19,638,000  | 84.4               | Bucharest    | România                             |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Russia                 | 17,098,246  | 144,526,636 | 8.4                | Moscow       | ()                                  |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | San Marino             | 61.2        | 33,285      | 520                | San Marino   | San Marino                          |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Serbia                 | 88,361      | 7,040,272   | 91.1               | Belgrade     | /                                   |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Slovakia               | 49,035      | 5,435,343   | 111.0              | Bratislava   | Slovensko                           |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Slovenia               | 20,273      | 2,066,880   | 101.8              | Ljubljana    | Slovenija                           |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Spain                  | 505,990     | 46,698,151  | 92                 | Madrid       | España                              |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Sweden                 | 450,295     | 10,151,588  | 22.5               | Stockholm    | Sverige                             |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Switzerland            | 41,285      | 8,401,120   | 202                | Bern         | Schweiz/Suisse/Svizzera/Svizra      |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       | TurkishEmblem.svg | Turkey                 | 783,356     | 80,810,525  | 105                | Ankara       | Türkiye                             |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Ukraine                | 603,628     | 42,418,235  | 73.8               | Kiev         | ()                                  |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | United Kingdom         | 244,820     | 66,040,229  | 270.7              | London       | United Kingdom                      |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-|       |                   | Vatican City           | 0.44        | 1000        | 2,272              | Vatican City | Città del Vaticano/Civitas Vaticana |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
-| Total | 50                | 10,180,000             | 743,000,000 | 73          |                    |              |                                     |
-+-------+-------------------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+| Flag  | Arms | Name                   | Area        | Population  | Population density | Capital      | Name(s) in official language(s)     |
+|       |      |                        | (km²)       |             | (per km²)          |              |                                     |
++=======+======+========================+=============+=============+====================+==============+=====================================+
+|       |      | Albania                | 28,748      | 2,876,591   | 98.5               | Tirana       | Shqipëria |-|                       |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Armenia                | 29,743      | 2,924,816   | 101.5              | Yerevan      | Հայաստան (Hayastan)                 |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Austria                | 83,858      | 8,823,054   | 104                | Vienna       | Österreich                          |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Azerbaijan             | 86,600      | 9,911,646   | 113                | Baku         | Azǝrbaycan                          |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Belarus                | 207,560     | 9,504,700   | 45.8               | Minsk        | ()                                  |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Belgium                | 30,528      | 11,358,357  | 372.06             | Brussels     | België/Belgique/Belgien             |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Bosnia and Herzegovina | 51,129      | 3,531,159   | 68.97              | Sarajevo     | /                                   |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Bulgaria               | 110,910     | 7,101,859   | 64.9               | Sofia        | ()                                  |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Croatia                | 56,542      | 4,284,889   | 75.8               | Zagreb       | Hrvatska                            |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Cyprus                 | 9,251       | 1,170,125   | 123.4              | Nicosia      | Kýpros/Kıbrıs                       |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Czech Republic         | 78,866      | 10,610,947  | 134                | Prague       | Česko                               |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Denmark                | 43,094      | 5,748,796   | 133.9              | Copenhagen   | Danmark                             |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Estonia                | 45,226      | 1,319,133   | 28                 | Tallinn      | Eesti                               |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Finland                | 336,593     | 5,509,717   | 16                 | Helsinki     | Suomi/Finland                       |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | France                 | 547,030     | 67,348,000  | 116                | Paris        | France                              |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Georgia                | 69,700      | 3,718,200   | 53.5               | Tbilisi      | საქართველო (Sakartvelo)             |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Germany                | 357,168     | 82,800,000  | 232                | Berlin       | Deutschland                         |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Greece                 | 131,957     | 10,768,477  | 82                 | Athens       | Ελλάδα (Elláda)                     |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Hungary                | 93,030      | 9,797,561   | 105.3              | Budapest     | Magyarország                        |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Iceland                | 103,000     | 350,710     | 3.2                | Reykjavík    | Ísland                              |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Ireland                | 70,280      | 4,761,865   | 67.7               | Dublin       | Éire/Ireland                        |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Italy                  | 301,338     | 60,589,445  | 201.3              | Rome         | Italia                              |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Kazakhstan             | 2,724,900   | 17,987,736  | 6.49               | Nur-Sultan   | ()                                  |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Latvia                 | 64,589      | 1,925,800   | 34.3               | Riga         | Latvija                             |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Liechtenstein          | 160         | 38,111      | 227                | Vaduz        | Liechtenstein                       |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Lithuania              | 65,300      | 2,800,667   | 45.8               | Vilnius      | Lietuva                             |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Luxembourg             | 2,586       | 602,005     | 233.7              | Luxembourg   | Lëtzebuerg/Luxemburg/Luxembourg     |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Malta                  | 316         | 445,426     | 1,410              | Valletta     | Malta                               |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Moldova                | 33,846      | 4,434,547   | 131.0              | Chișinău     | Moldova                             |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Monaco                 | 2.020       | 38,400      | 18,713             | Monaco       | Monaco                              |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Montenegro             | 13,812      | 642,550     | 45.0               | Podgorica    | /                                   |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Netherlands            | 41,543      | 17,271,990  | 414.9              | Amsterdam    | Nederland                           |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | North Macedonia        | 25,713      | 2,103,721   | 80.1               | Skopje       | ()                                  |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Norway                 | 385,203     | 5,295,619   | 15.8               | Oslo         | Norge/Noreg/Norga                   |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Poland                 | 312,685     | 38,422,346  | 123.5              | Warsaw       | Polska                              |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Portugal               | 92,212      | 10,379,537  | 115                | Lisbon       | Portugal                            |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Romania                | 238,397     | 19,638,000  | 84.4               | Bucharest    | România                             |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Russia                 | 17,098,246  | 144,526,636 | 8.4                | Moscow       | ()                                  |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | San Marino             | 61.2        | 33,285      | 520                | San Marino   | San Marino                          |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Serbia                 | 88,361      | 7,040,272   | 91.1               | Belgrade     | /                                   |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Slovakia               | 49,035      | 5,435,343   | 111.0              | Bratislava   | Slovensko                           |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Slovenia               | 20,273      | 2,066,880   | 101.8              | Ljubljana    | Slovenija                           |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Spain                  | 505,990     | 46,698,151  | 92                 | Madrid       | España                              |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Sweden                 | 450,295     | 10,151,588  | 22.5               | Stockholm    | Sverige                             |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Switzerland            | 41,285      | 8,401,120   | 202                | Bern         | Schweiz/Suisse/Svizzera/Svizra      |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Turkey                 | 783,356     | 80,810,525  | 105                | Ankara       | Türkiye                             |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Ukraine                | 603,628     | 42,418,235  | 73.8               | Kiev         | ()                                  |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | United Kingdom         | 244,820     | 66,040,229  | 270.7              | London       | United Kingdom                      |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+|       |      | Vatican City           | 0.44        | 1000        | 2,272              | Vatican City | Città del Vaticano/Civitas Vaticana |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
+| Total | 50   | 10,180,000             | 743,000,000 | 73          |                    |              |                                     |
++-------+------+------------------------+-------------+-------------+--------------------+--------------+-------------------------------------+
 
 Within the above-mentioned states are several de facto independent countries with limited to no international recognition. None of them are members of the UN:
 
@@ -444,7 +438,7 @@ Several dependencies and similar territories with broad autonomy are also found 
 
 Economy
 
-GDP_(PPP)_Europe_2017-2018.jpg (PPP) per capita in 2017]]
+(PPP) per capita in 2017]]
 
 As a continent, the economy of Europe is currently the largest on Earth and it is the richest region as measured by assets under management with over $32.7 trillion compared to North America's $27.1 trillion in 2008.[200] In 2009 Europe remained the wealthiest region. Its $37.1 trillion in assets under management represented one-third of the world's wealth. It was one of several regions where wealth surpassed its precrisis year-end peak.[201] As with other continents, Europe has a large variation of wealth among its countries. The richer states tend to be in the West; some of the Central and Eastern European economies are still emerging from the collapse of the Soviet Union and the breakup of Yugoslavia.
 
@@ -516,13 +510,13 @@ Capitalism has been dominant in the Western world since the end of feudalism.[20
 
 Cold War (1945–1991)
 
-Thefalloftheberlinwall1989.JPG in 1989.]] After World War II the economy of the UK was in a state of ruin,[208] and continued to suffer relative economic decline in the following decades.[209] Italy was also in a poor economic condition but regained a high level of growth by the 1950s. West Germany recovered quickly and had doubled production from pre-war levels by the 1950s.[210] France also staged a remarkable comeback enjoying rapid growth and modernisation; later on Spain, under the leadership of Franco, also recovered, and the nation recorded huge unprecedented economic growth beginning in the 1960s in what is called the Spanish miracle.[211] The majority of Central and Eastern European states came under the control of the Soviet Union and thus were members of the Council for Mutual Economic Assistance (COMECON).[212]
+in 1989.]] After World War II the economy of the UK was in a state of ruin,[208] and continued to suffer relative economic decline in the following decades.[209] Italy was also in a poor economic condition but regained a high level of growth by the 1950s. West Germany recovered quickly and had doubled production from pre-war levels by the 1950s.[210] France also staged a remarkable comeback enjoying rapid growth and modernisation; later on Spain, under the leadership of Franco, also recovered, and the nation recorded huge unprecedented economic growth beginning in the 1960s in what is called the Spanish miracle.[211] The majority of Central and Eastern European states came under the control of the Soviet Union and thus were members of the Council for Mutual Economic Assistance (COMECON).[212]
 
 The states which retained a free-market system were given a large amount of aid by the United States under the Marshall Plan.[213] The western states moved to link their economies together, providing the basis for the EU and increasing cross border trade. This helped them to enjoy rapidly improving economies, while those states in COMECON were struggling in a large part due to the cost of the Cold War. Until 1990, the European Community was expanded from 6 founding members to 12. The emphasis placed on resurrecting the West German economy led to it overtaking the UK as Europe's largest economy.
 
 Reunification (1991–present)
 
-Carte_zone_euro.svg (blue colour)]] With the fall of communism in Central and Eastern Europe in 1991, the post-socialist states began free market reforms.
+(blue colour)]] With the fall of communism in Central and Eastern Europe in 1991, the post-socialist states began free market reforms.
 
 After East and West Germany were reunited in 1990, the economy of West Germany struggled as it had to support and largely rebuild the infrastructure of East Germany.
 
@@ -533,7 +527,7 @@ Figures released by Eurostat in 2009 confirmed that the Eurozone had gone into r
 
 Demographics
 
-Demographics_of_Europe.svg in and around Europe in 2010[222]]]
+in and around Europe in 2010[222]]]
 
 In 2017, the population of Europe was estimated to be 742 million according to , which is slightly more than one-ninth of the world's population. This number includes Asian Russia (Siberia, about 36 million people) but excludes the European part of Turkey, Cyprus and the Transcaucasian countries. A century ago, Europe had nearly a quarter of the world's population.[223] The population of Europe has grown in the past century, but in other areas of the world (in particular Africa and Asia) the population has grown far more quickly.[224] Among the continents, Europe has a relatively high population density, second only to Asia. Most of Europe is in a mode of Sub-replacement fertility, which means that each new(-born) generation is being less populous than the older. The most densely populated country in Europe (and in the world) is the microstate of Monaco.
 
@@ -566,14 +560,14 @@ When considering the commuter belts or metropolitan areas, within the EU (for wh
 
 Culture
 
-Pierre-Auguste_Renoir,_Le_Moulin_de_la_Galette.jpg'', 1876, by Pierre-Auguste Renoir]] "Europe" as a cultural concept is substantially derived from the shared heritage of the Roman Empire and its culture. The boundaries of Europe were historically understood as those of Christendom (or more specifically Latin Christendom), as established or defended throughout the medieval and early modern history of Europe, especially against Islam, as in the Reconquista and the Ottoman wars in Europe.[246]
+'', 1876, by Pierre-Auguste Renoir]] "Europe" as a cultural concept is substantially derived from the shared heritage of the Roman Empire and its culture. The boundaries of Europe were historically understood as those of Christendom (or more specifically Latin Christendom), as established or defended throughout the medieval and early modern history of Europe, especially against Islam, as in the Reconquista and the Ottoman wars in Europe.[246]
 
 This shared cultural heritage is combined by overlapping indigenous national cultures and folklores, roughly divided into Slavic, Latin (Romance) and Germanic, but with several components not part of either of these group (notably Greek and Celtic). Cultural contact and mixtures characterise much of European regional cultures; Kaplan (2014) describes Europe as "embracing maximum cultural diversity at minimal geographical distances".[247]
 
 Religion
 
 +------------------------------+
-| Europe_belief_in_god.svg     |
+|                              |
 +------------------------------+
 | Percentage of popular belief |
 | in God per European country  |
@@ -583,7 +577,7 @@ Religion
 
 Historically, religion in Europe has been a major influence on European art, culture, philosophy and law.
 
-The largest religion in Europe is Christianity, with 76.2% of Europeans considering themselves Christians,[248] including Catholic, Eastern Orthodox and various Protestant denominations. Among Protestants, the most popular are historically state-supported European denominations such as Lutheranism, Anglicanism and the Reformed faith. Other Protestant denominations such as historically significant ones like Anabaptists were never supported by any state and thus are not so widespread, as well as these newly arriving from the United States such as Pentecostalism, Adventism, Methodism, Baptists and various Evangelical Protestants; although Methodism and Baptists both have European origins. The notion of "Europe" and the "Western World" has been intimately connected with the concept of "Christianity and Christendom"; many even attribute Christianity for being the link that created a unified European identity.[249] Saint_Peter's_Basilica_facade,_Rome,_Italy.jpg in Vatican City, the largest church in the world]] Christianity, including the Roman Catholic Church,[250][251] has played a prominent role in the shaping of Western civilization since at least the 4th century,[252][253][254][255] and for at least a millennium and a half, Europe has been nearly equivalent to Christian culture, even though the religion was inherited from the Middle East. Christian culture was the predominant force in western civilization, guiding the course of philosophy, art, and science.[256][257]
+The largest religion in Europe is Christianity, with 76.2% of Europeans considering themselves Christians,[248] including Catholic, Eastern Orthodox and various Protestant denominations. Among Protestants, the most popular are historically state-supported European denominations such as Lutheranism, Anglicanism and the Reformed faith. Other Protestant denominations such as historically significant ones like Anabaptists were never supported by any state and thus are not so widespread, as well as these newly arriving from the United States such as Pentecostalism, Adventism, Methodism, Baptists and various Evangelical Protestants; although Methodism and Baptists both have European origins. The notion of "Europe" and the "Western World" has been intimately connected with the concept of "Christianity and Christendom"; many even attribute Christianity for being the link that created a unified European identity.[249] in Vatican City, the largest church in the world]] Christianity, including the Roman Catholic Church,[250][251] has played a prominent role in the shaping of Western civilization since at least the 4th century,[252][253][254][255] and for at least a millennium and a half, Europe has been nearly equivalent to Christian culture, even though the religion was inherited from the Middle East. Christian culture was the predominant force in western civilization, guiding the course of philosophy, art, and science.[256][257]
 
 The second most popular religion is Islam (6%)[258] concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region). Other religions, including Judaism, Hinduism, and Buddhism are minority religions (though Tibetan Buddhism is the majority religion of Russia's Republic of Kalmykia). The 20th century saw the revival of Neopaganism through movements such as Wicca and Druidry.
 

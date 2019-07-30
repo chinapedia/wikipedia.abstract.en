@@ -1,4 +1,4 @@
-Patepou.jpg (c. 1837)]]
+(c. 1837)]]
 
 The COOK ISLANDS are named after Captain James Cook, who visited the islands in 1773 and 1777.[1] The Cook Islands became a British protectorate in 1888.
 

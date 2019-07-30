@@ -7,7 +7,7 @@ It seems likely that Albert was born sometime before 1200, given well-attested e
 
 Albert was probably educated principally at the University of Padua, where he received instruction in Aristotle's writings. A late account by Rudolph de Novamagia refers to Albertus' encounter with the Blessed Virgin Mary, who convinced him to enter Holy Orders. In 1223 (or 1229) he became a member of the Dominican Order, and studied theology at Bologna and elsewhere. Selected to fill the position of lecturer at Cologne, Germany, where the Dominicans had a house, he taught for several years there, as well as in Regensburg, Freiburg, Strasbourg, and Hildesheim. During his first tenure as lecturer at Cologne, Albert wrote his _Summa de bono_ after discussion with Philip the Chancellor concerning the transcendental properties of being.[6] In 1245, Albert became master of theology under Gueric of Saint-Quentin, the first German Dominican to achieve this distinction. Following this turn of events, Albert was able to teach theology at the University of Paris as a full-time professor, holding the seat of the Chair of Theology at the College of St. James.[7][8] During this time Thomas Aquinas began to study under Albertus.[9]
 
-Vincenzo_onofri,_sant'alberto_magno,_1493.JPG, c. 1493]]
+, c. 1493]]
 
 Albert was the first to comment on virtually all of the writings of Aristotle, thus making them accessible to wider academic debate. The study of Aristotle brought him to study and comment on the teachings of Muslim academics, notably Avicenna and Averroes, and this would bring him into the heart of academic debate.
 
@@ -15,7 +15,7 @@ In 1254 Albert was made provincial of the Dominican Order,[10] and fulfilled the
 
 In 1259 Albert took part in the General Chapter of the Dominicans at Valenciennes together with Thomas Aquinas, masters Bonushomo Britto,[11] Florentius,[12] and Peter (later Pope Innocent V) establishing a _ratio studiorum_ or program of studies for the Dominicans[13] that featured the study of philosophy as an innovation for those not sufficiently trained to study theology. This innovation initiated the tradition of Dominican scholastic philosophy put into practice, for example, in 1265 at the Order's _studium provinciale_ at the convent of Santa Sabina in Rome, out of which would develop the Pontifical University of Saint Thomas Aquinas, the "Angelicum".[14]
 
-2004_Köln_Sarkophag_Albertus_Magnus.JPG containing the relics of Albertus Magnus in the crypt of St. Andrew's Church, Cologne, Germany]]
+containing the relics of Albertus Magnus in the crypt of St. Andrew's Church, Cologne, Germany]]
 
 In 1260 Pope Alexander IV made him bishop of Regensburg, an office from which he resigned after three years. During the exercise of his duties he enhanced his reputation for humility by refusing to ride a horse, in accord with the dictates of the Order, instead traversing his huge diocese on foot. This earned him the affectionate sobriquet "boots the bishop" from his parishioners. In 1263 Pope Urban IV relieved him of the duties of bishop and asked him to preach the eighth Crusade in German-speaking countries.[15] After this, he was especially known for acting as a mediator between conflicting parties. In Cologne he is not only known for being the founder of Germany's oldest university there, but also for "the big verdict" (der Große Schied) of 1258, which brought an end to the conflict between the citizens of Cologne and the archbishop. Among the last of his labors was the defense of the orthodoxy of his former pupil, Thomas Aquinas, whose death in 1274 grieved Albert (the story that he travelled to Paris in person to defend the teachings of Aquinas can not be confirmed).
 
@@ -28,7 +28,7 @@ Albert was beatified in 1622. He was canonized and proclaimed a Doctor of the Ch
 
 Writings
 
-Albertus_Magnus-Denkmal.jpg]]
+]]
 
 Albert's writings collected in 1899 went to thirty-eight volumes. These displayed his prolific habits and encyclopedic knowledge of topics such as logic, theology, botany, geography, astronomy, astrology, mineralogy, alchemy, zoology, physiology, phrenology, justice, law, friendship, and love. He digested, interpreted, and systematized the whole of Aristotle's works, gleaned from the Latin translations and notes of the Arabian commentators, in accordance with Church doctrine. Most modern knowledge of Aristotle was preserved and presented by Albert.[19]
 
@@ -36,7 +36,7 @@ His principal theological works are a commentary in three volumes on the Books o
 
 Albert's activity, however, was more philosophical than theological (see Scholasticism). The philosophical works, occupying the first six and the last of the 21 volumes, are generally divided according to the Aristotelian scheme of the sciences, and consist of interpretations and condensations of Aristotle's relative works, with supplementary discussions upon contemporary topics, and occasional divergences from the opinions of the master. Albert believed that Aristotle's approach to natural philosophy did not pose any obstacle to the development of a Christian philosophical view of the natural order.[20]
 
-Firenze,_alberto_magno,_de_animalibus,_1450-1500_ca._cod_fiesolano_67,_01.JPG)]]
+)]]
 
 Albert's knowledge of natural science was considerable and for the age remarkably accurate. His industry in every department was great: not only did he produce commentaries and paraphrases of the entire Aristotelian corpus, including his scientific works, but Albert also added to and improved upon them. His books on topics like botany, zoology, and minerals included information from ancient sources, but also results of his own empirical investigations. These investigations pushed several of the special sciences forward, beyond the reliance on classical texts. In the case of embryology, for example, it has been claimed that little of value was written between Aristotle and Albert, who managed to identify organs within eggs.[21] Furthermore, Albert also effectively invented entire special sciences, where Aristotle has not covered a topic. For example, prior to Albert, there was no systematic study of minerals.[22] For the breadth of these achievements, he was bestowed the name _Doctor Universalis._
 
@@ -44,7 +44,7 @@ Much of Albert's empirical contributions to the natural sciences have been super
 
 Alchemy
 
-Liebig_Company_Trading_Card_Ad_01.12.003_front.tif Trading Card, 1929]]
+Trading Card, 1929]]
 
 In the centuries since his death, many stories arose about Albert as an alchemist and magician. "Much of the modern confusion results from the fact that later works, particularly the alchemical work known as the _Secreta Alberti_ or the _Experimenta Alberti_, were falsely attributed to Albertus by their authors to increase the prestige of the text through association."[24] On the subject of alchemy and chemistry, many treatises relating to alchemy have been attributed to him, though in his authentic writings he had little to say on the subject, and then mostly through commentary on Aristotle. For example, in his commentary, _De mineralibus_, he refers to the power of stones, but does not elaborate on what these powers might be.[25] A wide range of Pseudo-Albertine works dealing with alchemy exist, though, showing the belief developed in the generations following Albert's death that he had mastered alchemy, one of the fundamental sciences of the Middle Ages. These include _Metals and Materials_; the _Secrets of Chemistry_; the _Origin of Metals_; the _Origins of Compounds_, and a ''Concordance ''which is a collection of _Observations on the philosopher's stone_; and other alchemy-chemistry topics, collected under the name of _Theatrum Chemicum_.[26] He is credited with the discovery of the element arsenic[27] and experimented with photosensitive chemicals, including silver nitrate.[28][29] He did believe that stones had occult properties, as he related in his work _De mineralibus_. However, there is scant evidence that he personally performed alchemical experiments.
 
@@ -77,7 +77,7 @@ Albert mentions friendship in his work, _De bono_, as well as presenting his ide
 
 Cultural references
 
-France_Strasbourg_Cathedral_Tympanum.jpg and archivolts of Strasbourg Cathedral, with iconography inspired by Albertus Magnus]]
+and archivolts of Strasbourg Cathedral, with iconography inspired by Albertus Magnus]]
 
 The iconography of the tympanum and archivolts of the late 13th-century portal of Strasbourg Cathedral was inspired by Albert's writings.[40] Albert is frequently mentioned by Dante, who made his doctrine of free will the basis of his ethical system. In his _Divine Comedy_, Dante places Albertus with his pupil Thomas Aquinas among the great lovers of wisdom (_Spiriti Sapienti_) in the Heaven of the Sun. Albert is also mentioned, along with Agrippa and Paracelsus, in Mary Shelley's _Frankenstein_, in which his writings influence a young Victor Frankenstein.
 
@@ -88,7 +88,7 @@ Johann Eduard Erdmann considers Albert greater and more original than his pupil 
 
 Influence and tribute
 
-Albertus_Magnus_Painting_by_Joos_van_Gent.jpeg, Urbino, c. 1475]]
+, Urbino, c. 1475]]
 
 A number of schools have been named after Albert, including Albertus Magnus High School in Bardonia, New York;[43] Albertus Magnus Lyceum in River Forest, Illinois; and Albertus Magnus College in New Haven, Connecticut.[44]
 
@@ -103,8 +103,6 @@ As a tribute to the scholar's contributions to the law, the University of Housto
 The Albertus-Magnus-Gymnasien is found in Rottweil, Germany.
 
 In Managua, Nicaragua, the Albertus Magnus International Institute, a business and economic development research center, was founded in 2004.
-
-University_of_Santo_Tomas.jpg
 
 In The Philippines, the Albertus Magnus Building at the University of Santo Tomas that houses the Conservatory of Music, College of Tourism and Hospitality Management, College of Education, and UST Education High School is named in his honor. The Saint Albert the Great Science Academy in San Carlos City, Pangasinan, which offers preschool, elementary and high school education, takes pride in having St. Albert as their patron saint. Its main building was named Albertus Magnus Hall in 2008. San Alberto Magno Academy in Tubao, La Union is also dedicated in his honor. This century-old Catholic high school continues to live on its vision-mission up to this day, offering Senior High school courses. Due to his contributions to natural philosophy, the plant species _Alberta magna_ and the asteroid 20006 Albertus Magnus were named after him.
 

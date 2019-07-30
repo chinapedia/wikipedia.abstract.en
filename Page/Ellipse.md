@@ -1,4 +1,4 @@
-Ellipse-conic.svg with an inclined plane]] Ellipse-def0.svg Ellipse-var.svg In mathematics, an ELLIPSE is a plane curve surrounding two focal points, such that for all points on the curve, the sum of the two distances to the focal points is a constant. As such, it generalizes a circle, which is the special type of ellipse in which the two focal points are the same. The elongation of an ellipse is measured by its eccentricity _e_, a number ranging from _e =_ 0 (the limiting case of a circle) to _e_ = 1 (the limiting case of infinite elongation, no longer an ellipse but a parabola).
+with an inclined plane]] In mathematics, an ELLIPSE is a plane curve surrounding two focal points, such that for all points on the curve, the sum of the two distances to the focal points is a constant. As such, it generalizes a circle, which is the special type of ellipse in which the two focal points are the same. The elongation of an ellipse is measured by its eccentricity _e_, a number ranging from _e =_ 0 (the limiting case of a circle) to _e_ = 1 (the limiting case of infinite elongation, no longer an ellipse but a parabola).
 
 Analytically, the equation of a standard ellipse centered at the origin with width 2_a_ and height 2_b_ is:
 
@@ -19,7 +19,7 @@ The name, (, "omission"), was given by Apollonius of Perga in his _Conics_.
 
 Definition as locus of points
 
-Ellipse-def-e.svg Ellipse-def-dc.svg An ellipse can be defined geometrically as a set or locus of points in the Euclidean plane:
+An ellipse can be defined geometrically as a set or locus of points in the Euclidean plane:
 
 -   Given two fixed points F₁, F₂ called the foci and a distance 2a which is greater than the distance between the foci, the ellipse is the set of points P such that the sum of the distances |PF₁|, |PF₂| is equal to 2a
     _E_ = {_P_ ∈ ℝ² ∣ |_P__F_₂| + |_P__F_₁| = 2_a_} .
@@ -38,12 +38,6 @@ Using Dandelin spheres, one can prove that any plane section of a cone with a pl
 
 
 In Cartesian coordinates
-
-shape parameters:
-_a_: semi-major axis,
-_b_: semi-minor axis
-_c_: linear eccentricity,
-_p_: semi-latus rectum (usually ℓ).
 
 Standard equation
 
@@ -123,8 +117,6 @@ If the standard ellipse is shifted to have center (x_(∘), y_(∘)), its equa
 
 The axes are still parallel to the x- and y-axes.
 
-Elliko-sk.svg
-
 General ellipse
 
 In analytic geometry, the ellipse is defined as a quadric: the set of points (X, Y) of the Cartesian plane that, in non-degenerate cases, satisfy the implicit equation[3][4]
@@ -171,8 +163,6 @@ y_\circ    &= \frac{2 A E - B D}{B^2 - 4 A C} \\
 
 Parametric representation
 
-Ellipse-ratpar.svg
-
 Standard parametric representation
 
 Using trigonometric functions, a parametric representation of the standard ellipse $\tfrac{x^2}{a^2}+\tfrac{y^2}{b^2}= 1$ is:
@@ -217,7 +207,7 @@ This description of the tangents of an ellipse is an essential tool for the dete
 
 General Ellipse
 
-ellipse-aff.svg Another definition of an ellipse uses affine transformations:
+Another definition of an ellipse uses affine transformations:
 
 -   Any _ellipse_ is an affine image of the unit circle with equation x² + y² = 1.
 
@@ -246,13 +236,13 @@ Polar forms
 
 Polar form relative to center
 
-Ellipse_Polar_center.svg In polar coordinates, with the origin at the center of the ellipse and with the angular coordinate θ measured from the major axis, the ellipse's equation is[7]
+In polar coordinates, with the origin at the center of the ellipse and with the angular coordinate θ measured from the major axis, the ellipse's equation is[7]
 
 $$r(\theta)=\frac{ab}{\sqrt{(b \cos \theta)^2 + (a\sin \theta)^2}}=\frac{b}{\sqrt{1 - (e\cos\theta)^2}}$$
 
 Polar form relative to focus
 
-Ellipse_Polar.svg If instead we use polar coordinates with the origin at one focus, with the angular coordinate θ = 0 still measured from the major axis, the ellipse's equation is
+If instead we use polar coordinates with the origin at one focus, with the angular coordinate θ = 0 still measured from the major axis, the ellipse's equation is
 
 $$r(\theta)=\frac{a (1-e^2)}{1 \pm e\cos\theta}$$
 
@@ -267,7 +257,7 @@ The angle θ in these formulas is called the true anomaly of the point. The nume
 
 Eccentricity and the directrix property
 
-Ellipse-ll-e.svg Each of the two lines parallel to the minor axis, and at a distance of $d = \frac{a^2}c=\frac{a}e$ from it, is called a _directrix_ of the ellipse (see diagram).
+Each of the two lines parallel to the minor axis, and at a distance of $d = \frac{a^2}c=\frac{a}e$ from it, is called a _directrix_ of the ellipse (see diagram).
 
 -   For an arbitrary point P of the ellipse, the quotient of the distance to one focus and to the corresponding directrix (see diagram) is equal to the eccentricity:
 
@@ -285,7 +275,7 @@ $$E = \left\{P \ \left|\ \tfrac{|PF|}{|Pl|} = e\right.\right\}.$$
 
 The choice e = 0, which is the eccentricity of a circle, is not allowed in this context. One may consider the directrix of a circle to be the line at infinity.
 
-(The choice e = 1 yields a parabola, and if e > 1, a hyperbola.) Kegelschnitt-schar-ev.svg
+(The choice e = 1 yields a parabola, and if e > 1, a hyperbola.)
 
 Proof
 
@@ -314,7 +304,7 @@ $$\left(x-f_1\right)^2+\left(y-f_2\right)^2= e^2\cdot\frac{\left(ux+vy+w\right)^
 
 Focus-to-focus reflection property
 
-Ellipse-reflex.svg Elli-norm-tang-n.svg An ellipse possesses the following property:
+An ellipse possesses the following property:
 
 -   The normal at a point P bisects the angle between the lines $\overline{PF_1}, \overline{PF_2}$.
 
@@ -331,8 +321,6 @@ The rays from one focus are reflected by the ellipse to the second focus. This p
 
 
 Conjugate diameters
-
-Parallelproj-kreis-ellipse.svg
 
 A circle has the following property:
 
@@ -358,7 +346,7 @@ any pair of points p⃗(t), p⃗(t + π) belong to a diameter, and the pair
 
 Theorem of Apollonios on conjugate diameters
 
-Elli-apoll-cd.svg For an ellipse with semi-axes a, b the following is true:
+For an ellipse with semi-axes a, b the following is true:
 
 -   Let c₁ and c₂ be halves of two conjugate diameters (see diagram) then
 
@@ -388,14 +376,14 @@ Area₁₂ = 4_a__b_ .
 
 Orthogonal tangents
 
-Orthoptic-ellipse-s.svg For the ellipse $\tfrac{x^2}{a^2}+\tfrac{y^2}{b^2}=1$ the intersection points of _orthogonal_ tangents lie on the circle x² + y² = a² + b².
+For the ellipse $\tfrac{x^2}{a^2}+\tfrac{y^2}{b^2}=1$ the intersection points of _orthogonal_ tangents lie on the circle x² + y² = a² + b².
 
 This circle is called _orthoptic_ or director circle of the ellipse (not to be confused with the circular directrix defined above).
 
 
 Drawing ellipses
 
-Zp-turm-tor.svg Ellipses appear in descriptive geometry as images (parallel or central projection) of circles. There exist various tools to draw an ellipse. Computers provide the fastest and most accurate method for drawing an ellipse. However, technical tools (_ellipsographs_) to draw an ellipse without a computer exist. The principle of ellipsographs were known to Greek mathematicians such as Archimedes and Proklos.
+Ellipses appear in descriptive geometry as images (parallel or central projection) of circles. There exist various tools to draw an ellipse. Computers provide the fastest and most accurate method for drawing an ellipse. However, technical tools (_ellipsographs_) to draw an ellipse without a computer exist. The principle of ellipsographs were known to Greek mathematicians such as Archimedes and Proklos.
 
 If there is no ellipsograph available, one can draw an ellipse using an approximation by the four osculating circles at the vertices.
 
@@ -415,8 +403,6 @@ The following construction of single points of an ellipse is due to de La Hire.[
     (4) Repeat steps (2) and (3) with different lines through the center.
 
 Elliko-sk.svg|de La Hire's method Parametric ellipse.gif|Animation of the method
-
-Elliko-g.svg
 
 Pins-and-string method
 
@@ -447,8 +433,6 @@ A variation of the paper strip method 1 uses the observation that the midpoint N
 
 Ellipse-papsm-1a.svg|Variation of the paper strip method 1 Ellipses with SliderCrank inner Ellipses.gif|Animation of the variation of the paper strip method 1
 
-Elliko-pap2.svg
-
 Method 2:
 
 The second method starts with
@@ -463,7 +447,7 @@ Similar to the variation of the paper strip method 1 a _variation of the paper s
 
 File:Archimedes Trammel.gif|Trammel of Archimedes (principle) File:L-Ellipsenzirkel.png%7CEllipsograph due to Benjamin Bramer File:Ellipses with SliderCrank Ellipses at Slider Side.gif|Variation of the paper strip method 2
 
-Most ellipsograph drafting instruments are based on the second paperstrip method.Elliko-skm.svg
+Most ellipsograph drafting instruments are based on the second paperstrip method.
 
 Approximation by osculating circles
 
@@ -486,7 +470,7 @@ With help of a French curve one draws a curve, which has smooth contact to the o
 
 Steiner generation
 
-Ellipse-steiner-e.svg Ellipse_construction_-_parallelogram_method.gif The following method to construct single points of an ellipse relies on the Steiner generation of a conic section:
+The following method to construct single points of an ellipse relies on the Steiner generation of a conic section:
 
 -   Given two pencils B(U), B(V) of lines at two points U, V (all lines containing U and V, respectively) and a projective but not perspective mapping π of B(U) onto B(V), then the intersection points of corresponding lines form a non-degenerate projective conic section.
 
@@ -496,14 +480,14 @@ Steiner generation can also be defined for hyperbolas and parabolas. It is somet
 
 As hypotrochoid
 
-Ellipse_as_hypotrochoid.gif with _R_ = 2_r_]] The ellipse is a special case of the hypotrochoid when _R_ = 2_r_, as shown in the adjacent image. The special case of a moving circle with radius r inside a circle with radius R = 2r is called a Tusi couple.
+with _R_ = 2_r_]] The ellipse is a special case of the hypotrochoid when _R_ = 2_r_, as shown in the adjacent image. The special case of a moving circle with radius r inside a circle with radius R = 2r is called a Tusi couple.
 
 
 Inscribed angles and three-point form
 
 Circles
 
-Inscribe-a-c.svg A circle with equation (x − x_(∘))² + (y − y_(∘))² = r² is uniquely determined by three points (x₁, y₁), (x₂, y₂), (x₃, y₃) not on a line. A simple way to determine the parameters x_(∘), y_(∘), r uses the _inscribed angle theorem_ for circles:
+A circle with equation (x − x_(∘))² + (y − y_(∘))² = r² is uniquely determined by three points (x₁, y₁), (x₂, y₂), (x₃, y₃) not on a line. A simple way to determine the parameters x_(∘), y_(∘), r uses the _inscribed angle theorem_ for circles:
 
     For four points P_(i) = (x_(i), y_(i)), i = 1, 2, 3, 4, (see diagram) the following statement is true:
     The four points are on a circle if and only if the angles at P₃ and P₄ are equal.
@@ -572,7 +556,7 @@ and to write the ellipse equation as:
 
   $(x{-}x_\circ)^2+{\color{blue}q}\, (y{-}y_\circ)^2=a^2,$
 
-where _q_ is fixed and x_(∘), y_(∘), a vary over the real numbers. (Such ellipses have their axes parallel to the coordinate axes: if q < 1, the major axis is parallel to the _x_-axis; if q > 1, it is parallel to the _y_-axis.) Inscribe-a-e.svg Like a circle, such an ellipse is determined by three points not on a line.
+where _q_ is fixed and x_(∘), y_(∘), a vary over the real numbers. (Such ellipses have their axes parallel to the coordinate axes: if q < 1, the major axis is parallel to the _x_-axis; if q > 1, it is parallel to the _y_-axis.) Like a circle, such an ellipse is determined by three points not on a line.
 
 For this family of ellipses, one introduces the following q-analog angle measure, which is _not_ a function of the usual angle measure _θ_:[10][11]
 
@@ -618,7 +602,7 @@ where * is the modified dot product $\; \vec u*\vec v=u_xv_x+{\color{blue}q}\,u_
 
 Pole-polar relation
 
-Ellipse-pol.svg Any ellipse can be described in a suitable coordinate system by an equation $\tfrac{x^2}{a^2}+\tfrac{y^2}{b^2}= 1$. The equation of the tangent at a point P₁ = (x₁, y₁) of the ellipse is $\tfrac{x_1x}{a^2}+\tfrac{y_1y}{b^2}=1.$ If one allows point P₁ = (x₁, y₁) to be an arbitrary point different from the origin, then
+Any ellipse can be described in a suitable coordinate system by an equation $\tfrac{x^2}{a^2}+\tfrac{y^2}{b^2}= 1$. The equation of the tangent at a point P₁ = (x₁, y₁) of the ellipse is $\tfrac{x_1x}{a^2}+\tfrac{y_1y}{b^2}=1.$ If one allows point P₁ = (x₁, y₁) to be an arbitrary point different from the origin, then
 
 -   point P₁ = (x₁, y₁) ≠ (0, 0) is mapped onto the line $\tfrac{x_1x}{a^2}+\tfrac{y_1y}{b^2}=1$, not through the center of the ellipse.
 

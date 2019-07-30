@@ -9,11 +9,9 @@ The war effectively ended April 9, 1865 when General Robert E. Lee surrendered t
 
 Overview
 
-Flag_of_the_United_States_(1863-1865).svg In the 1860 presidential election, Republicans, led by Abraham Lincoln, supported banning slavery in all the U.S. territories. The Southern states viewed this as a violation of their constitutional rights, and as the first step in a grander Republican plan to eventually abolish slavery. The three pro-Union candidates together received an overwhelming 82% majority of the votes cast nationally: Republican Lincoln's votes centered in the north, Democrat Stephen A. Douglas' votes were distributed nationally and Constitutional Unionist John Bell's votes centered in Tennessee, Kentucky, and Virginia. The Republican Party, dominant in the North, secured a plurality of the popular votes and a majority of the electoral votes nationally; thus Lincoln was constitutionally elected president. He was the first Republican Party candidate to win the presidency. However, before his inauguration, seven slave states with cotton-based economies declared secession and formed the Confederacy. The first six to declare secession had the highest proportions of slaves in their populations, with an average of 49 percent.[2] Of those states whose legislatures resolved for secession, the first seven voted with split majorities for unionist candidates Douglas and Bell (Georgia with 51% and Louisiana with 55%), or with sizable minorities for those unionists (Alabama with 46%, Mississippi with 40%, Florida with 38%, Texas with 25%, and South Carolina, which cast Electoral College votes without a popular vote for president).[3] Of these, only Texas held a referendum on secession. Battle_flag_of_the_Confederate_States_of_America.svg Eight remaining slave states continued to reject calls for secession. Outgoing Democratic President James Buchanan and the incoming Republicans rejected secession as illegal. Lincoln's March 4, 1861, inaugural address declared that his administration would not initiate a civil war. Speaking directly to the "Southern States", he attempted to calm their fears of any threats to slavery, reaffirming, "I have no purpose, directly or indirectly to interfere with the institution of slavery in the United States where it exists. I believe I have no lawful right to do so, and I have no inclination to do so."[4] After Confederate forces seized numerous federal forts within territory claimed by the Confederacy, efforts at compromise failed and both sides prepared for war. The Confederates assumed that European countries were so dependent on "King Cotton" that they would intervene,[5] but none did, and none recognized the new Confederate States of America.
+In the 1860 presidential election, Republicans, led by Abraham Lincoln, supported banning slavery in all the U.S. territories. The Southern states viewed this as a violation of their constitutional rights, and as the first step in a grander Republican plan to eventually abolish slavery. The three pro-Union candidates together received an overwhelming 82% majority of the votes cast nationally: Republican Lincoln's votes centered in the north, Democrat Stephen A. Douglas' votes were distributed nationally and Constitutional Unionist John Bell's votes centered in Tennessee, Kentucky, and Virginia. The Republican Party, dominant in the North, secured a plurality of the popular votes and a majority of the electoral votes nationally; thus Lincoln was constitutionally elected president. He was the first Republican Party candidate to win the presidency. However, before his inauguration, seven slave states with cotton-based economies declared secession and formed the Confederacy. The first six to declare secession had the highest proportions of slaves in their populations, with an average of 49 percent.[2] Of those states whose legislatures resolved for secession, the first seven voted with split majorities for unionist candidates Douglas and Bell (Georgia with 51% and Louisiana with 55%), or with sizable minorities for those unionists (Alabama with 46%, Mississippi with 40%, Florida with 38%, Texas with 25%, and South Carolina, which cast Electoral College votes without a popular vote for president).[3] Of these, only Texas held a referendum on secession. Eight remaining slave states continued to reject calls for secession. Outgoing Democratic President James Buchanan and the incoming Republicans rejected secession as illegal. Lincoln's March 4, 1861, inaugural address declared that his administration would not initiate a civil war. Speaking directly to the "Southern States", he attempted to calm their fears of any threats to slavery, reaffirming, "I have no purpose, directly or indirectly to interfere with the institution of slavery in the United States where it exists. I believe I have no lawful right to do so, and I have no inclination to do so."[4] After Confederate forces seized numerous federal forts within territory claimed by the Confederacy, efforts at compromise failed and both sides prepared for war. The Confederates assumed that European countries were so dependent on "King Cotton" that they would intervene,[5] but none did, and none recognized the new Confederate States of America.
 
 Hostilities began on April 12, 1861, when Confederate forces fired upon Fort Sumter. While in the Western Theater the Union made significant permanent gains, in the Eastern Theater, the battle was inconclusive during 1861–1862. Later, in September 1862, Lincoln issued the Emancipation Proclamation, which made ending slavery a war goal.[6] To the west, by summer 1862 the Union destroyed the Confederate river navy, then much of its western armies, and seized New Orleans. The successful 1863 Union siege of Vicksburg split the Confederacy in two at the Mississippi River. In 1863, Robert E. Lee's Confederate incursion north ended at the Battle of Gettysburg. Western successes led to Ulysses S. Grant's command of all Union armies in 1864. Inflicting an ever-tightening naval blockade of Confederate ports, the Union marshaled the resources and manpower to attack the Confederacy from all directions, leading to the fall of Atlanta to William Tecumseh Sherman and his march to the sea. The last significant battles raged around the Siege of Petersburg. Lee's escape attempt ended with his surrender at Appomattox Court House, on April 9, 1865. While the military war was coming to an end, the political reintegration of the nation was to take another 12 years, known as the Reconstruction era.
-
-Flag_of_the_Confederate_States_of_America_(1861–1863).svg
 
 The American Civil War was among the earliest industrial wars. Railroads, the telegraph, steamships, and iron-clad ships, and mass-produced weapons were employed extensively. The mobilization of civilian factories, mines, shipyards, banks, transportation, and food supplies all foreshadowed the impact of industrialization in World War I, World War II, and subsequent conflicts. It remains the deadliest war in American history. From 1861 to 1865, it is estimated that 620,000 to 750,000 soldiers died,[7] along with an undetermined number of civilians. By one estimate, the war claimed the lives of 10 percent of all Northern men 20–45 years old, and 30 percent of all Southern white men aged 18–40.
 
@@ -66,8 +64,6 @@ While the South moved towards a Southern nationalism, leaders in the North were 
 
 Lincoln's election
 
-Abraham_Lincoln_seated,_Feb_9,_1864.jpg
-
 The election of Abraham Lincoln in November 1860 was the final trigger for secession. Efforts at compromise, including the "Corwin Amendment" and the "Crittenden Compromise", failed. Southern leaders feared that Lincoln would stop the expansion of slavery and put it on a course toward extinction. The slave states, which had already become a minority in the House of Representatives, were now facing a future as a perpetual minority in the Senate and Electoral College against an increasingly powerful North. Before Lincoln took office in March 1861, seven slave states had declared their secession and joined to form the Confederacy.
 
 According to Lincoln, the people had shown that they can be successful in _establishing_ and _administering_ a republic, but a third challenge faced the nation, _maintaining_ a republic based on the people's vote against an attempt to overthrow it.[33]
@@ -79,7 +75,7 @@ Secession crisis
 
 The election of Lincoln provoked the legislature of South Carolina to call a state convention to consider secession. Prior to the war, South Carolina did more than any other Southern state to advance the notion that a state had the right to nullify federal laws, and even to secede from the United States. The convention summoned unanimously voted to secede on December 20, 1860, and adopted the "Declaration of the Immediate Causes Which Induce and Justify the Secession of South Carolina from the Federal Union". It argued for states' rights for slave owners in the South, but contained a complaint about states' rights in the North in the form of opposition to the Fugitive Slave Act, claiming that Northern states were not fulfilling their federal obligations under the Constitution. The "cotton states" of Mississippi, Florida, Alabama, Georgia, Louisiana, and Texas followed suit, seceding in January and February 1861.
 
-Charleston_Mercury_Secession_Broadside,_1860.jpg issued by the _Charleston Mercury_, December 20, 1860]]
+issued by the _Charleston Mercury_, December 20, 1860]]
 
 Among the ordinances of secession passed by the individual states, those of three—Texas, Alabama, and Virginia—specifically mentioned the plight of the "slaveholding states" at the hands of northern abolitionists. The rest make no mention of the slavery issue, and are often brief announcements of the dissolution of ties by the legislatures.[34] However, at least four states—South Carolina,[35] Mississippi,[36] Georgia,[37] and Texas[38]—also passed lengthy and detailed explanations of their causes for secession, all of which laid the blame squarely on the movement to abolish slavery and that movement's influence over the politics of the northern states. The southern states believed slaveholding was a constitutional right because of the Fugitive Slave Clause of the Constitution. → These states agreed to form a new federal government, the Confederate States of America, on February 4, 1861. They took control of federal forts and other properties within their boundaries with little resistance from outgoing President James Buchanan, whose term ended on March 4, 1861. Buchanan said that the Dred Scott decision was proof that the South had no reason for secession, and that the Union "was intended to be perpetual", but that "The power by force of arms to compel a State to remain in the Union" was not among the "enumerated powers granted to Congress".[39] One quarter of the U.S. Army—the entire garrison in Texas—was surrendered in February 1861 to state forces by its commanding general, David E. Twiggs, who then joined the Confederacy.
 
@@ -87,7 +83,7 @@ As Southerners resigned their seats in the Senate and the House, Republicans wer
 
 On December 18, 1860, the Crittenden Compromise was proposed to re-establish the Missouri Compromise line by constitutionally banning slavery in territories to the north of the line while guaranteeing it to the south. The adoption of this compromise likely would have prevented the secession of every southern state apart from South Carolina, but Lincoln and the Republicans rejected it.[41] It was then proposed to hold a national referendum on the compromise. The Republicans again rejected the idea, although a majority of both Northerners and Southerners would have voted in favor of it.[42] A pre-war February Peace Conference of 1861 met in Washington, proposing a solution similar to that of the Crittenden compromise, it was rejected by Congress. The Republicans proposed an alternative compromise to not interfere with slavery where it existed but the South regarded it as insufficient. Nonetheless, the remaining eight slave states rejected pleas to join the Confederacy following a two-to-one no-vote in Virginia's First Secessionist Convention on April 4, 1861.
 
-President-Jefferson-Davis.jpg, President of the Confederate States of America (1861–1865)|alt=Middle-aged man in a goatee posed standing in a suit, vest and bowtie]]
+, President of the Confederate States of America (1861–1865)|alt=Middle-aged man in a goatee posed standing in a suit, vest and bowtie]]
 
 On March 4, 1861, Abraham Lincoln was sworn in as President. In his inaugural address, he argued that the Constitution was a _more perfect union_ than the earlier Articles of Confederation and Perpetual Union, that it was a binding contract, and called any secession "legally void".[43] He had no intent to invade Southern states, nor did he intend to end slavery where it existed, but said that he would use force to maintain possession of Federal property. The government would make no move to recover post offices, and if resisted, mail delivery would end at state lines. Where popular conditions did not allow peaceful enforcement of Federal law, U.S. marshals and judges would be withdrawn. No mention was made of bullion lost from U.S. mints in Louisiana, Georgia, and North Carolina. He stated that it would be U.S. policy to only collect import duties at its ports; there could be no serious injury to the South to justify armed revolution during his administration. His speech closed with a plea for restoration of the bonds of union, famously calling on "the mystic chords of memory" binding the two regions.[44]
 
@@ -95,11 +91,9 @@ The South sent delegations to Washington and offered to pay for the federal prop
 
 Battle of Fort Sumter
 
-Fort_sumter_1861.jpg Fort Sumter was located in the middle of the harbor of Charleston, South Carolina. Its garrison recently moved there to avoid incidents with local militias in the streets of the city. Lincoln told Maj. Anderson to hold on until fired upon. Jefferson Davis ordered the surrender of the fort. Anderson gave a conditional reply that the Confederate government rejected, and Davis ordered General P. G. T. Beauregard to attack the fort before a relief expedition could arrive. He bombarded Fort Sumter on April 12–13, forcing its capitulation.
+Fort Sumter was located in the middle of the harbor of Charleston, South Carolina. Its garrison recently moved there to avoid incidents with local militias in the streets of the city. Lincoln told Maj. Anderson to hold on until fired upon. Jefferson Davis ordered the surrender of the fort. Anderson gave a conditional reply that the Confederate government rejected, and Davis ordered General P. G. T. Beauregard to attack the fort before a relief expedition could arrive. He bombarded Fort Sumter on April 12–13, forcing its capitulation.
 
 The attack on Fort Sumter rallied the North to the defense of American nationalism. Historian Allan Nevins underscored the significance of the event:
-
-Great_Meeting_Union_Square.jpg
 
 Union leaders incorrectly assumed that only a minority of Southerners were in favor of secession and that there were large numbers of southern Unionists that could be counted on. Had Northerners realized that most Southerners favored secession, they might have hesitated at attempting the enormous task of conquering a united South.[45]
 
@@ -109,7 +103,7 @@ Four states in the middle and upper South had repeatedly rejected Confederate ov
 
 Attitude of the border states
 
-US_Secession_map_1863_(BlankMap_derived).png vs. the Confederacy. (One of these states, West Virginia was created in 1863) ]]
+vs. the Confederacy. (One of these states, West Virginia was created in 1863) ]]
 
 Maryland, Delaware, Missouri, and Kentucky were slave states that were opposed to both secession and coercing the South. West Virginia then joined them as an additional border state after it separated from Virginia and became a state of the Union in 1863.
 
@@ -136,7 +130,7 @@ In the first year of the war, both sides had far more volunteers than they could
 
 When the Emancipation Proclamation went into effect in January 1863, ex-slaves were energetically recruited by the states, and used to meet the state quotas. States and local communities offered higher and higher cash bonuses for white volunteers. Congress tightened the law in March 1863. Men selected in the draft could provide substitutes or, until mid-1864, pay commutation money. Many eligibles pooled their money to cover the cost of anyone drafted. Families used the substitute provision to select which man should go into the army and which should stay home. There was much evasion and overt resistance to the draft, especially in Catholic areas. The draft riot in New York City in July 1863 involved Irish immigrants who had been signed up as citizens to swell the vote of the city's Democratic political machine, not realizing it made them liable for the draft.[65] Of the 168,649 men procured for the Union through the draft, 117,986 were substitutes, leaving only 50,663 who had their personal services conscripted.[66]
 
-NYRiot.jpg of 1863]]
+of 1863]]
 
 In both the North and South, the draft laws were highly unpopular. In the North, some 120,000 men evaded conscription, many of them fleeing to Canada, and another 280,000 soldiers deserted during the war.[67] At least 100,000 Southerners deserted, or about 10 percent. In the South, many men deserted temporarily to take care of their distressed families, then returned to their units.[68] In the North, "bounty jumpers" enlisted to get the generous bonus, deserted, then went back to a second recruiting station under a different name to sign up again for a second bonus; 141 were caught and executed.[69]
 
@@ -165,9 +159,7 @@ The small U.S. Navy of 1861 was rapidly enlarged to 6,000 officers and 45,000 me
 
 Modern navy evolves
 
-NavalBattleOfFortPillow.jpg, cottonclads, gunboats and rams, complicated by torpedoes and fire rafts.]]The Civil War occurred during the early stages of the industrial revolution. Many naval innovations emerged during this time, most notably the advent of the ironclad warship. It began when the Confederacy, knowing they had to meet or match the Union's naval superiority, responded to the Union blockade by building or converting more than 130 vessels, including twenty-six ironclads and floating batteries. Only half of these saw active service. Many were equipped with ram bows, creating "ram fever" among Union squadrons wherever they threatened. But in the face of overwhelming Union superiority and the Union's ironclad warships, they were unsuccessful.
-
-Battle_of_Hampton_Roads_3g01752u.jpg
+, cottonclads, gunboats and rams, complicated by torpedoes and fire rafts.]]The Civil War occurred during the early stages of the industrial revolution. Many naval innovations emerged during this time, most notably the advent of the ironclad warship. It began when the Confederacy, knowing they had to meet or match the Union's naval superiority, responded to the Union blockade by building or converting more than 130 vessels, including twenty-six ironclads and floating batteries. Only half of these saw active service. Many were equipped with ram bows, creating "ram fever" among Union squadrons wherever they threatened. But in the face of overwhelming Union superiority and the Union's ironclad warships, they were unsuccessful.
 
 In addition to ocean-going warships coming up the Mississippi, the Union Navy used timberclads, tinclads, and armored gunboats. Shipyards at Cairo, Illinois, and St. Louis built new boats or modified steamboats for action.[75]
 
@@ -175,7 +167,7 @@ The Confederacy experimented with the submarine , which didn't work satisfactori
 
 Union blockade
 
-Scott-anaconda.jpg" 1861. Tightening naval blockade, forcing rebels out of Missouri along the Mississippi River, Kentucky Unionists sit on the fence, idled cotton industry illustrated in Georgia.|alt=A cartoon map of the South surrounded by a snake.]]
+" 1861. Tightening naval blockade, forcing rebels out of Missouri along the Mississippi River, Kentucky Unionists sit on the fence, idled cotton industry illustrated in Georgia.|alt=A cartoon map of the South surrounded by a snake.]]
 
 By early 1861, General Winfield Scott had devised the Anaconda Plan to win the war with as little bloodshed as possible. Scott argued that a Union blockade of the main ports would weaken the Confederate economy. Lincoln adopted parts of the plan, but he overruled Scott's caution about 90-day volunteers. Public opinion, however, demanded an immediate attack by the army to capture Richmond.
 
@@ -183,7 +175,7 @@ In April 1861, Lincoln announced the Union blockade of all Southern ports; comme
 
 Blockade runners
 
-First_Charleston_Harbor.jpg off Charleston. Continuous blockade of all major ports was sustained by North's overwhelming war production.]]
+off Charleston. Continuous blockade of all major ports was sustained by North's overwhelming war production.]]
 
 British investors built small, fast, steam-driven blockade runners that traded arms and luxuries brought in from Britain through Bermuda, Cuba, and the Bahamas in return for high-priced cotton. Many of the ships were designed for speed and were so small that only a small amount of cotton went out. When the Union Navy seized a blockade runner, the ship and cargo were condemned as a Prize of war and sold, with the proceeds given to the Navy sailors; the captured crewmen were mostly British, and they were released.[77]
 
@@ -200,7 +192,7 @@ To fight an offensive war, the Confederacy purchased ships from Britain, convert
 
 Diplomacy
 
-Although the Confederacy hoped that Britain and France would join them against the Union, this was never likely, and so they instead tried to bring Britain and France in as mediators. The Union, under Lincoln and Secretary of State William H. Seward worked to block this, and threatened war if any country officially recognized the existence of the Confederate States of America. In 1861, Southerners voluntarily embargoed cotton shipments, hoping to start an economic depression in Europe that would force Britain to enter the war to get cotton, but this did not work. Worse, Europe developed other cotton suppliers, which they found superior, hindering the South's recovery after the war. USS_Wissahickon_Crewmembers.jpg, circa 1863|alt=A group of twenty-six sailors posing around a rifled naval cannon]] Cotton diplomacy proved a failure as Europe had a surplus of cotton, while the 1860–62 crop failures in Europe made the North's grain exports of critical importance. It also helped to turn European opinion further away from the Confederacy. It was said that "King Corn was more powerful than King Cotton", as U.S. grain went from a quarter of the British import trade to almost half. When Britain did face a cotton shortage, it was temporary, being replaced by increased cultivation in Egypt and India. Meanwhile, the war created employment for arms makers, ironworkers, and British ships to transport weapons.[81]
+Although the Confederacy hoped that Britain and France would join them against the Union, this was never likely, and so they instead tried to bring Britain and France in as mediators. The Union, under Lincoln and Secretary of State William H. Seward worked to block this, and threatened war if any country officially recognized the existence of the Confederate States of America. In 1861, Southerners voluntarily embargoed cotton shipments, hoping to start an economic depression in Europe that would force Britain to enter the war to get cotton, but this did not work. Worse, Europe developed other cotton suppliers, which they found superior, hindering the South's recovery after the war. , circa 1863|alt=A group of twenty-six sailors posing around a rifled naval cannon]] Cotton diplomacy proved a failure as Europe had a surplus of cotton, while the 1860–62 crop failures in Europe made the North's grain exports of critical importance. It also helped to turn European opinion further away from the Confederacy. It was said that "King Corn was more powerful than King Cotton", as U.S. grain went from a quarter of the British import trade to almost half. When Britain did face a cotton shortage, it was temporary, being replaced by increased cultivation in Egypt and India. Meanwhile, the war created employment for arms makers, ironworkers, and British ships to transport weapons.[81]
 
 Lincoln's administration failed to appeal to European public opinion. Diplomats explained that the United States was not committed to the ending of slavery, and instead repeated legalistic arguments about the unconstitutionality of secession. Confederate representatives, on the other hand, were much more successful by ignoring slavery and instead focusing on their struggle for liberty, their commitment to free trade, and the essential role of cotton in the European economy. The European aristocracy was "absolutely gleeful in pronouncing the American debacle as proof that the entire experiment in popular government had failed. European government leaders welcomed the fragmentation of the ascendant American Republic."[82]
 
@@ -213,7 +205,7 @@ The Union victory in the Battle of Antietam caused them to delay this decision. 
 
 Eastern theater
 
-American_Civil_War_Battles_by_Theater,_Year.png map of Civil War battles by theater and year]]
+map of Civil War battles by theater and year]]
 
 The Eastern theater refers to the military operations east of the Appalachian Mountains, including the states of Virginia, West Virginia, Maryland, and Pennsylvania, the District of Columbia, and the coastal fortifications and seaports of North Carolina.
 
@@ -228,25 +220,23 @@ Maj. Gen. George B. McClellan took command of the Union Army of the Potomac on J
 3.  The Missouri Department would drive south along the Mississippi River.
 4.  The westernmost attack would originate from Kansas.
 
-Robert_Edward_Lee.jpg
-
 Army of Northern Virginia
 
 The primary Confederate force in the Eastern theater was the Army of Northern Virginia. The Army originated as the (Confederate) Army of the Potomac, which was organized on June 20, 1861, from all operational forces in northern Virginia. On July 20 and 21, the Army of the Shenandoah and forces from the District of Harpers Ferry were added. Units from the Army of the Northwest were merged into the Army of the Potomac between March 14 and May 17, 1862. The Army of the Potomac was renamed _Army of Northern Virginia_ on March 14. The Army of the Peninsula was merged into it on April 12, 1862.
 
 When Virginia declared its secession in April 1861, Robert E. Lee chose to follow his home state, despite his desire for the country to remain intact and an offer of a senior Union command.
 
-Lee's biographer, Douglas S. Freeman, asserts that the army received its final name from Lee when he issued orders assuming command on June 1, 1862.[85] However, Freeman does admit that Lee corresponded with Brigadier General Joseph E. Johnston, his predecessor in army command, prior to that date and referred to Johnston's command as the Army of Northern Virginia. Part of the confusion results from the fact that Johnston commanded the Department of Northern Virginia (as of October 22, 1861) and the name Army of Northern Virginia can be seen as an informal consequence of its parent department's name. Jefferson Davis and Johnston did not adopt the name, but it is clear that the organization of units as of March 14 was the same organization that Lee received on June 1, and thus it is generally referred to today as the Army of Northern Virginia, even if that is correct only in retrospect. Bayonet-charge-1250.jpgOn July 4 at Harper's Ferry, Colonel Thomas J. Jackson assigned Jeb Stuart to command all the cavalry companies of the Army of the Shenandoah. He eventually commanded the Army of Northern Virginia's cavalry.
+Lee's biographer, Douglas S. Freeman, asserts that the army received its final name from Lee when he issued orders assuming command on June 1, 1862.[85] However, Freeman does admit that Lee corresponded with Brigadier General Joseph E. Johnston, his predecessor in army command, prior to that date and referred to Johnston's command as the Army of Northern Virginia. Part of the confusion results from the fact that Johnston commanded the Department of Northern Virginia (as of October 22, 1861) and the name Army of Northern Virginia can be seen as an informal consequence of its parent department's name. Jefferson Davis and Johnston did not adopt the name, but it is clear that the organization of units as of March 14 was the same organization that Lee received on June 1, and thus it is generally referred to today as the Army of Northern Virginia, even if that is correct only in retrospect. On July 4 at Harper's Ferry, Colonel Thomas J. Jackson assigned Jeb Stuart to command all the cavalry companies of the Army of the Shenandoah. He eventually commanded the Army of Northern Virginia's cavalry.
 
 Battles
 
 First Bull Run
 
-In one of the first highly visible battles, in July 1861, a march by Union troops under the command of Maj. Gen. Irvin McDowell on the Confederate forces led by Gen. P. G. T. Beauregard near Washington was repulsed at the First Battle of Bull Run (also known as First Manassas). Stonewall_Jackson_by_Routzahn,_1862.png The Union had the upper hand at first, nearly pushing confederate forces holding a defensive position into a rout, but Confederate reinforcements under. Joseph E. Johnston arrived from the Shenandoah Valley by railroad, and the course of the battle quickly changed. A brigade of Virginians under the relatively unknown brigadier general from the Virginia Military Institute, Thomas J. Jackson, stood its ground, which resulted in Jackson receiving his famous nickname, "Stonewall".
+In one of the first highly visible battles, in July 1861, a march by Union troops under the command of Maj. Gen. Irvin McDowell on the Confederate forces led by Gen. P. G. T. Beauregard near Washington was repulsed at the First Battle of Bull Run (also known as First Manassas). The Union had the upper hand at first, nearly pushing confederate forces holding a defensive position into a rout, but Confederate reinforcements under. Joseph E. Johnston arrived from the Shenandoah Valley by railroad, and the course of the battle quickly changed. A brigade of Virginians under the relatively unknown brigadier general from the Virginia Military Institute, Thomas J. Jackson, stood its ground, which resulted in Jackson receiving his famous nickname, "Stonewall".
 
 McClellan's Peninsula Campaign; Jackson's Valley Campaign
 
-George_B_McClellan_-_retouched.jpg Upon the strong urging of President Lincoln to begin offensive operations, McClellan attacked Virginia in the spring of 1862 by way of the peninsula between the York River and James River, southeast of Richmond. McClellan's army reached the gates of Richmond in the Peninsula Campaign,[86]
+Upon the strong urging of President Lincoln to begin offensive operations, McClellan attacked Virginia in the spring of 1862 by way of the peninsula between the York River and James River, southeast of Richmond. McClellan's army reached the gates of Richmond in the Peninsula Campaign,[86]
 
 Also in the spring of 1862, in the Shenandoah Valley, Stonewall Jackson led his Valley Campaign. Employing audacity and rapid, unpredictable movements on interior lines, Jackson's 17,000 men marched 646 miles (1,040 km) in 48 days and won several minor battles as they successfully engaged three Union armies (52,000 men), including those of Nathaniel P. Banks and John C. Fremont, preventing them from reinforcing the Union offensive against Richmond. The swiftness of Jackson's men earned them the nickname of "foot cavalry".
 
@@ -258,13 +248,13 @@ The Northern Virginia Campaign, which included the Second Battle of Bull Run, en
 
 Antietam
 
-Battle_of_Antietam_by_Thulstrup.jpg, the Civil War's deadliest one-day fight.]]
+, the Civil War's deadliest one-day fight.]]
 
 Emboldened by Second Bull Run, the Confederacy made its first invasion of the North with the Maryland Campaign. General Lee led 45,000 men of the Army of Northern Virginia across the Potomac River into Maryland on September 5. Lincoln then restored Pope's troops to McClellan. McClellan and Lee fought at the Battle of Antietam near Sharpsburg, Maryland, on September 17, 1862, the bloodiest single day in United States military history. Lee's army, checked at last, returned to Virginia before McClellan could destroy it. Antietam is considered a Union victory because it halted Lee's invasion of the North and provided an opportunity for Lincoln to announce his Emancipation Proclamation.
 
 First Fredericksburg
 
-When the cautious McClellan failed to follow up on Antietam, he was replaced by Maj. Gen. Ambrose Burnside. Burnside was soon defeated at the Battle of Fredericksburg on December 13, 1862, when more than 12,000 Union soldiers were killed or wounded during repeated futile frontal assaults against Marye's Heights. After the battle, Burnside was replaced by Maj. Gen. Joseph Hooker. Conf_dead_chancellorsville_edit1.jpg
+When the cautious McClellan failed to follow up on Antietam, he was replaced by Maj. Gen. Ambrose Burnside. Burnside was soon defeated at the Battle of Fredericksburg on December 13, 1862, when more than 12,000 Union soldiers were killed or wounded during repeated futile frontal assaults against Marye's Heights. After the battle, Burnside was replaced by Maj. Gen. Joseph Hooker.
 
 Chancellorsville
 
@@ -274,7 +264,7 @@ The fiercest fighting of the battle—and the second bloodiest day of the Civil 
 
 Gettysburg
 
-Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg Gen. Hooker was replaced by Maj. Gen. George Meade during Lee's second invasion of the North, in June. Meade defeated Lee at the Battle of Gettysburg (July 1 to 3, 1863). This was the bloodiest battle of the war, and has been called the war's turning point. Pickett's Charge on July 3 is often considered the high-water mark of the Confederacy because it signaled the collapse of serious Confederate threats of victory. Lee's army suffered 28,000 casualties (versus Meade's 23,000). However, Lincoln was angry that Meade failed to intercept Lee's retreat.
+Gen. Hooker was replaced by Maj. Gen. George Meade during Lee's second invasion of the North, in June. Meade defeated Lee at the Battle of Gettysburg (July 1 to 3, 1863). This was the bloodiest battle of the war, and has been called the war's turning point. Pickett's Charge on July 3 is often considered the high-water mark of the Confederacy because it signaled the collapse of serious Confederate threats of victory. Lee's army suffered 28,000 casualties (versus Meade's 23,000). However, Lincoln was angry that Meade failed to intercept Lee's retreat.
 
 
 Western theater
@@ -285,7 +275,7 @@ Background
 
 Army of the Tennessee and Army of the Cumberland
 
-Gen._Ulysses_S._Grant_(4228634580).jpg The primary Union forces in the Western theater were the Army of the Tennessee and the Army of the Cumberland, named for the two rivers, the Tennessee River and Cumberland River. After Meade's inconclusive fall campaign, Lincoln turned to the Western Theater for new leadership. At the same time, the Confederate stronghold of Vicksburg surrendered, giving the Union control of the Mississippi River, permanently isolating the western Confederacy, and producing the new leader Lincoln needed, Ulysses S. Grant.
+The primary Union forces in the Western theater were the Army of the Tennessee and the Army of the Cumberland, named for the two rivers, the Tennessee River and Cumberland River. After Meade's inconclusive fall campaign, Lincoln turned to the Western Theater for new leadership. At the same time, the Confederate stronghold of Vicksburg surrendered, giving the Union control of the Mississippi River, permanently isolating the western Confederacy, and producing the new leader Lincoln needed, Ulysses S. Grant.
 
 Army of Tennessee
 
@@ -299,15 +289,13 @@ The Union's key strategist and tactician in the West was Ulysses S. Grant, who w
 
 Leonidas Polk's invasion of Columbus ended Kentucky's policy of neutrality and turned it against the Confederacy. Grant used river transport and Andrew Foote's gunboats of the Western Flotilla to threaten the Confederacy's "Gibraltar of the West" at Columbus, Kentucky. Although rebuffed at Belmont, Grant cut off Columbus. The Confederates, lacking their own gunboats, were forced to retreat and the Union took control of western Kentucky and opened Tennessee in March 1862.
 
-ASJohnston.jpg
-
 Shiloh
 
 At the Battle of Shiloh (Pittsburg Landing), in Tennessee in April 1862, the Confederates made a surprise attack that pushed Union forces against the river as night fell. Overnight, the Navy landed additional reinforcements, and Grant counter-attacked. Grant and the Union won a decisive victory—the first battle with the high casualty rates that would repeat over and over. The Confederates lost Albert Sidney Johnston, considered their finest general before the emergence of Lee.
 
 Union Navy captures Memphis
 
-Cgs05255_(9716190703).jpg One of the early Union objectives in the war was the capture of the Mississippi River, in order to cut the Confederacy in half. The Mississippi River was opened to Union traffic to the southern border of Tennessee with the taking of Island No. 10 and New Madrid, Missouri, and then Memphis, Tennessee.
+One of the early Union objectives in the war was the capture of the Mississippi River, in order to cut the Confederacy in half. The Mississippi River was opened to Union traffic to the southern border of Tennessee with the taking of Island No. 10 and New Madrid, Missouri, and then Memphis, Tennessee.
 
 In April 1862, the Union Navy captured New Orleans. "The key to the river was New Orleans, the South's largest port [and] greatest industrial center."[88] U.S. Naval forces under Farragut ran past Confederate defenses south of New Orleans. Confederate forces abandoned the city, giving the Union a critical anchor in the deep South. which allowed Union forces to begin moving up the Mississippi. Memphis fell to Union forces on June 6, 1862, and became a key base for further advances south along the Mississippi River. Only the fortress city of Vicksburg, Mississippi, prevented Union control of the entire river.
 
@@ -325,7 +313,7 @@ Naval forces assisted Grant in the long, complex Vicksburg Campaign that resulte
 
 Chickamauga
 
-Chickamauga.jpg, the highest two-day losses.]]
+, the highest two-day losses.]]
 
 The one clear Confederate victory in the West was the Battle of Chickamauga. After Rosecrans successful Tullahoma Campaign, Bragg, reinforced by Lt. Gen. James Longstreet's corps (from Lee's army in the east), defeated Rosecrans, despite the heroic defensive stand of Maj. Gen. George Henry Thomas.
 
@@ -344,7 +332,7 @@ Battles
 
 Missouri
 
-Wilson's_Creek_charge_of_1st_Iowa.jpg secured St. Louis docks and arsenal, led Union forces to expel Missouri Confederate forces and government.]] The first battle of the Trans-Mississippi theater was the Battle of Wilson's Creek. The Confederates were driven from Missouri early in the war as a result of the Battle of Pea Ridge.
+secured St. Louis docks and arsenal, led Union forces to expel Missouri Confederate forces and government.]] The first battle of the Trans-Mississippi theater was the Battle of Wilson's Creek. The Confederates were driven from Missouri early in the war as a result of the Battle of Pea Ridge.
 
 Extensive guerrilla warfare characterized the trans-Mississippi region, as the Confederacy lacked the troops and the logistics to support regular armies that could challenge Union control.[90] Roving Confederate bands such as Quantrill's Raiders terrorized the countryside, striking both military installations and civilian settlements.[91] The "Sons of Liberty" and "Order of the American Knights" attacked pro-Union people, elected officeholders, and unarmed uniformed soldiers. These partisans could not be entirely driven out of the state of Missouri until an entire regular Union infantry division was engaged. By 1864, these violent activities harmed the nationwide anti-war movement organizing against the re-election of Lincoln. Missouri not only stayed in the Union, but Lincoln took 70 percent of the vote for re-election.
 
@@ -375,7 +363,7 @@ Fort Pulaski on the Georgia coast was an early target for the Union navy. Follow
 
 Louisiana
 
-New_Orleans_h76369k.jpg In April 1862, a Union naval task force commanded by Commander David D. Porter attacked Forts Jackson and St. Philip, which guarded the river approach to New Orleans from the south. While part of the fleet bombarded the forts, other vessels forced a break in the obstructions in the river and enabled the rest of the fleet to steam upriver to the city. A Union army force commanded by Major General Benjamin Butler landed near the forts and forced their surrender. Butler's controversial command of New Orleans earned him the nickname "Beast".
+In April 1862, a Union naval task force commanded by Commander David D. Porter attacked Forts Jackson and St. Philip, which guarded the river approach to New Orleans from the south. While part of the fleet bombarded the forts, other vessels forced a break in the obstructions in the river and enabled the rest of the fleet to steam upriver to the city. A Union army force commanded by Major General Benjamin Butler landed near the forts and forced their surrender. Butler's controversial command of New Orleans earned him the nickname "Beast".
 
 The following year, the Union Army of the Gulf commanded by Major General Nathaniel P. Banks laid siege to Port Hudson for nearly eight weeks, the longest siege in US military history. The Confederates attempted to defend with the Bayou Teche Campaign, but surrendered after Vicksburg. These two surrenders gave the Union control over the entire Mississippi.
 
@@ -391,13 +379,13 @@ The Pacific Coast theater refers to military operations on the Pacific Ocean and
 
 Conquest of Virginia
 
-William-Tecumseh-Sherman.jpg At the beginning of 1864, Lincoln made Grant commander of all Union armies. Grant made his headquarters with the Army of the Potomac, and put Maj. Gen. William Tecumseh Sherman in command of most of the western armies. Grant understood the concept of total war and believed, along with Lincoln and Sherman, that only the utter defeat of Confederate forces and their economic base would end the war.[94] This was total war not in killing civilians but rather in taking provisions and forage and destroying homes, farms, and railroads, that Grant said "would otherwise have gone to the support of secession and rebellion. This policy I believe exercised a material influence in hastening the end."[95] Grant devised a coordinated strategy that would strike at the entire Confederacy from multiple directions. Generals George Meade and Benjamin Butler were ordered to move against Lee near Richmond, General Franz Sigel (and later Philip Sheridan) were to attack the Shenandoah Valley, General Sherman was to capture Atlanta and march to the sea (the Atlantic Ocean), Generals George Crook and William W. Averell were to operate against railroad supply lines in West Virginia, and Maj. Gen. Nathaniel P. Banks was to capture Mobile, Alabama.[96] EwellsDeadSpotsylvania1864crop01.jpg's May 1864 attack at Spotsylvania—delayed Grant's advance on Richmond in the Overland Campaign.]]
+At the beginning of 1864, Lincoln made Grant commander of all Union armies. Grant made his headquarters with the Army of the Potomac, and put Maj. Gen. William Tecumseh Sherman in command of most of the western armies. Grant understood the concept of total war and believed, along with Lincoln and Sherman, that only the utter defeat of Confederate forces and their economic base would end the war.[94] This was total war not in killing civilians but rather in taking provisions and forage and destroying homes, farms, and railroads, that Grant said "would otherwise have gone to the support of secession and rebellion. This policy I believe exercised a material influence in hastening the end."[95] Grant devised a coordinated strategy that would strike at the entire Confederacy from multiple directions. Generals George Meade and Benjamin Butler were ordered to move against Lee near Richmond, General Franz Sigel (and later Philip Sheridan) were to attack the Shenandoah Valley, General Sherman was to capture Atlanta and march to the sea (the Atlantic Ocean), Generals George Crook and William W. Averell were to operate against railroad supply lines in West Virginia, and Maj. Gen. Nathaniel P. Banks was to capture Mobile, Alabama.[96] 's May 1864 attack at Spotsylvania—delayed Grant's advance on Richmond in the Overland Campaign.]]
 
 Grant's Overland Campaign
 
 Grant's army set out on the Overland Campaign with the goal of drawing Lee into a defense of Richmond, where they would attempt to pin down and destroy the Confederate army. The Union army first attempted to maneuver past Lee and fought several battles, notably at the Wilderness, Spotsylvania, and Cold Harbor. These battles resulted in heavy losses on both sides, and forced Lee's Confederates to fall back repeatedly. At the Battle of Yellow Tavern, the Confederates lost Jeb Stuart.
 
-An attempt to outflank Lee from the south failed under Butler, who was trapped inside the Bermuda Hundred river bend. Each battle resulted in setbacks for the Union that mirrored what they had suffered under prior generals, though unlike those prior generals, Grant fought on rather than retreat. Grant was tenacious and kept pressing Lee's Army of Northern Virginia back to Richmond. While Lee was preparing for an attack on Richmond, Grant unexpectedly turned south to cross the James River and began the protracted Siege of Petersburg, where the two armies engaged in trench warfare for over nine months. Philip_Sheridan_1-restored.jpg
+An attempt to outflank Lee from the south failed under Butler, who was trapped inside the Bermuda Hundred river bend. Each battle resulted in setbacks for the Union that mirrored what they had suffered under prior generals, though unlike those prior generals, Grant fought on rather than retreat. Grant was tenacious and kept pressing Lee's Army of Northern Virginia back to Richmond. While Lee was preparing for an attack on Richmond, Grant unexpectedly turned south to cross the James River and began the protracted Siege of Petersburg, where the two armies engaged in trench warfare for over nine months.
 
 Sheridan's Valley Campaign
 
@@ -405,7 +393,7 @@ Grant finally found a commander, General Philip Sheridan, aggressive enough to p
 
 Sherman's March to the Sea
 
-Meanwhile, Sherman maneuvered from Chattanooga to Atlanta, defeating Confederate Generals Joseph E. Johnston and John Bell Hood along the way. The fall of Atlanta on September 2, 1864, guaranteed the reelection of Lincoln as president. Hood left the Atlanta area to swing around and menace Sherman's supply lines and invade Tennessee in the Franklin–Nashville Campaign. Union Maj. Gen. John Schofield defeated Hood at the Battle of Franklin, and George H. Thomas dealt Hood a massive defeat at the Battle of Nashville, effectively destroying Hood's army.The_Peacemakers_1868.jpg'' by George Peter Alexander Healy portrays Sherman, Grant, Lincoln, and Porter discussing plans for the last weeks of the Civil War aboard the steamer _River Queen_ in March 1865.]]
+Meanwhile, Sherman maneuvered from Chattanooga to Atlanta, defeating Confederate Generals Joseph E. Johnston and John Bell Hood along the way. The fall of Atlanta on September 2, 1864, guaranteed the reelection of Lincoln as president. Hood left the Atlanta area to swing around and menace Sherman's supply lines and invade Tennessee in the Franklin–Nashville Campaign. Union Maj. Gen. John Schofield defeated Hood at the Battle of Franklin, and George H. Thomas dealt Hood a massive defeat at the Battle of Nashville, effectively destroying Hood's army.'' by George Peter Alexander Healy portrays Sherman, Grant, Lincoln, and Porter discussing plans for the last weeks of the Civil War aboard the steamer _River Queen_ in March 1865.]]
 
 Leaving Atlanta, and his base of supplies, Sherman's army marched with an unknown destination, laying waste to about 20 percent of the farms in Georgia in his "March to the Sea". He reached the Atlantic Ocean at Savannah, Georgia in December 1864. Sherman's army was followed by thousands of freed slaves; there were no major battles along the March. Sherman turned north through South Carolina and North Carolina to approach the Confederate Virginia lines from the south, increasing the pressure on Lee's army.
 
@@ -425,7 +413,7 @@ Union victory and aftermath
 
 Results
 
-Civil_war_1861-1865.png The causes of the war, the reasons for its outcome, and even the name of the war itself are subjects of lingering contention today. The North and West grew rich while the once-rich South became poor for a century. The national political power of the slaveowners and rich Southerners ended. Historians are less sure about the results of the postwar Reconstruction, especially regarding the second-class citizenship of the Freedmen and their poverty.
+The causes of the war, the reasons for its outcome, and even the name of the war itself are subjects of lingering contention today. The North and West grew rich while the once-rich South became poor for a century. The national political power of the slaveowners and rich Southerners ended. Historians are less sure about the results of the postwar Reconstruction, especially regarding the second-class citizenship of the Freedmen and their poverty.
 
 Historians have debated whether the Confederacy could have won the war. Most scholars, including James McPherson, argue that Confederate victory was at least possible. McPherson argues that the North's advantage in population and resources made Northern victory likely but not guaranteed. He also argues that if the Confederacy had fought using unconventional tactics, they would have more easily been able to hold out long enough to exhaust the Union.[102]
 
@@ -499,7 +487,7 @@ CONFEDERATE: 914,660
 -   194,026 wounded in action
 -   462,634 captured (including 31,000 who died as POWs)
 
-Burial_of_the_dead_on_the_Antietam_battlefield_army.mil-2008-09-10-145638.jpg battlefield, 1862]]
+battlefield, 1862]]
 
 While the figures of 360,000 army deaths for the Union and 260,000 for the Confederacy remained commonly cited, they are incomplete. In addition to many Confederate records being missing, partly as a result of Confederate widows not reporting deaths due to being ineligible for benefits, both armies only counted troops who died during their service, and not the tens of thousands who died of wounds or diseases after being discharged. This often happened only a few days or weeks later. Francis Amasa Walker, Superintendent of the 1870 Census, used census and Surgeon General data to estimate a minimum of 500,000 Union military deaths and 350,000 Confederate military deaths, for a total death toll of 850,000 soldiers. While Walker's estimates were originally dismissed because of the 1870 Census's undercounting, it was later found that the census was only off by 6.5%, and that the data Walker used would be roughly accurate.[129]
 
@@ -539,7 +527,7 @@ In _Texas v. White_, the United States Supreme Court ruled that Texas had remain
 
 Reconstruction
 
-Freedmen_richmond_sewing_women.jpg Reconstruction began during the war, with the Emancipation Proclamation of January 1, 1863, and it continued until 1877.[146] It comprised multiple complex methods to resolve the outstanding issues of the war's aftermath, the most important of which were the three "Reconstruction Amendments" to the Constitution, which remain in effect to the present time: the 13th (1865), the 14th (1868) and the 15th (1870). From the Union perspective, the goals of Reconstruction were to consolidate the Union victory on the battlefield by reuniting the Union; to guarantee a "republican form of government for the ex-Confederate states; and to permanently end slavery—and prevent semi-slavery status.[147]
+Reconstruction began during the war, with the Emancipation Proclamation of January 1, 1863, and it continued until 1877.[146] It comprised multiple complex methods to resolve the outstanding issues of the war's aftermath, the most important of which were the three "Reconstruction Amendments" to the Constitution, which remain in effect to the present time: the 13th (1865), the 14th (1868) and the 15th (1870). From the Union perspective, the goals of Reconstruction were to consolidate the Union victory on the battlefield by reuniting the Union; to guarantee a "republican form of government for the ex-Confederate states; and to permanently end slavery—and prevent semi-slavery status.[147]
 
 President Johnson took a lenient approach and saw the achievement of the main war goals as realized in 1865, when each ex-rebel state repudiated secession and ratified the Thirteenth Amendment. Radical Republicans demanded proof that Confederate nationalism was dead and that the slaves were truly free. They came to the fore after the 1866 elections and undid much of Johnson's work. In 1872 the "Liberal Republicans" argued that the war goals had been achieved and that Reconstruction should end. They ran a presidential ticket in 1872 but were decisively defeated. In 1874, Democrats, primarily Southern, took control of Congress and opposed any more reconstruction. The Compromise of 1877 closed with a national consensus that the Civil War had finally ended.[148] With the withdrawal of federal troops, however, whites retook control of every Southern legislature; the Jim Crow period of disenfranchisement and legal segregation was about to begin.
 

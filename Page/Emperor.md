@@ -28,11 +28,11 @@ Roman Empire and Byzantine emperors
 
 Classical Antiquity
 
-Rimini083.jpg.]]
+.]]
 
 When Republican Rome turned into a _de facto_ monarchy in the second half of the 1st century BC, at first there was no name for the title of the new type of monarch. Ancient Romans abhorred the name Rex ("king"), and it was critical to the political order to maintain the forms and pretenses of republican rule. Julius Caesar had been Dictator, an acknowledged and traditional office in Republican Rome. Caesar was not the first to hold it, but following his assassination the term was abhorred in Rome.
 
-Statue-Augustus.jpg, the first emperor of the Roman Empire.]] Augustus, considered the first Roman emperor, established his hegemony by collecting on himself offices, titles, and honours of Republican Rome that had traditionally been distributed to different people, concentrating what had been distributed power in one man. One of these offices was _princeps senatus_, ("first man of the Senate") and became changed into Augustus' chief honorific, _princeps civitatis_ ("first citizen") from which the modern English word and title prince is descended. The first period of the Roman Empire, from 27 BC – AD 284, is called the _principate_ for this reason. However, it was the informal descriptive of _Imperator_ ("commander") that became the title increasingly favored by his successors. Previously bestowed on high officials and military commanders who had _imperium_, Augustus reserved it exclusively to himself as the ultimate holder of all _imperium_. (_Imperium_ is Latin for the authority to command, one of a various types of authority delineated in Roman political thought.)
+, the first emperor of the Roman Empire.]] Augustus, considered the first Roman emperor, established his hegemony by collecting on himself offices, titles, and honours of Republican Rome that had traditionally been distributed to different people, concentrating what had been distributed power in one man. One of these offices was _princeps senatus_, ("first man of the Senate") and became changed into Augustus' chief honorific, _princeps civitatis_ ("first citizen") from which the modern English word and title prince is descended. The first period of the Roman Empire, from 27 BC – AD 284, is called the _principate_ for this reason. However, it was the informal descriptive of _Imperator_ ("commander") that became the title increasingly favored by his successors. Previously bestowed on high officials and military commanders who had _imperium_, Augustus reserved it exclusively to himself as the ultimate holder of all _imperium_. (_Imperium_ is Latin for the authority to command, one of a various types of authority delineated in Roman political thought.)
 
 Beginning with Augustus, _Imperator_ appeared in the title of all Roman monarchs through the extinction of the Empire in 1453. After the reign of Augustus' immediate successor Tiberius, being proclaimed _imperator_ was transformed into the act of accession to the head of state. Other honorifics used by the Roman Emperors have also come to be synonyms for Emperor:
 
@@ -51,7 +51,7 @@ Byzantine period
 
 Before the 4th Crusade
 
-Sanvitale03.jpg, reigning in the 6th century, parts of Italy were for a few decades (re)conquered from the Ostrogoths: thus, this famous mosaic, featuring the Byzantine emperor in the center, can be admired at Ravenna.]]
+, reigning in the 6th century, parts of Italy were for a few decades (re)conquered from the Ostrogoths: thus, this famous mosaic, featuring the Byzantine emperor in the center, can be admired at Ravenna.]]
 
 Historians generally refer to the continuing Roman Empire in the east as the Byzantine Empire after Byzantium, the original name of the town that Constantine I would elevate to the Imperial capital as New Rome in AD 330. (The city is more commonly called Constantinople and is today named Istanbul). Although the empire was again subdivided and a co-emperor sent to Italy at the end of the fourth century, the office became unitary again only 95 years later at the request of the Roman Senate and following the death of Julius Nepos, last Western Emperor. This change was a recognition of the reality that little remained of Imperial authority in the areas that had been the Western Empire, with even Rome and Italy itself now ruled by the essentially autonomous Odoacer.
 
@@ -74,7 +74,7 @@ With Constantinople occupied, claimants to the imperial succession styled themse
 
 Ottoman Empire
 
-Suleiman_Agostino.JPG's engraving of Ottoman emperor Suleiman the Magnificent wearing his Venetian Helmet. Note the four tiers on the helmet, symbolizing his imperial power, and excelling the three-tiered papal tiara.[5] This tiara was made for 115,000 ducats and offered to Suleiman by the French ambassador Antonio Rincon in 1532.[6] This was a most atypical piece of headgear for a Turkish sultan, which he probably never normally wore, but which he placed beside him when receiving visitors, especially ambassadors. It was crowned with an enormous feather.[7]]]
+'s engraving of Ottoman emperor Suleiman the Magnificent wearing his Venetian Helmet. Note the four tiers on the helmet, symbolizing his imperial power, and excelling the three-tiered papal tiara.[5] This tiara was made for 115,000 ducats and offered to Suleiman by the French ambassador Antonio Rincon in 1532.[6] This was a most atypical piece of headgear for a Turkish sultan, which he probably never normally wore, but which he placed beside him when receiving visitors, especially ambassadors. It was crowned with an enormous feather.[7]]]
 
 Ottoman rulers held several titles denoting their Imperial status. These included: Sultan, Khan, Sovereign of the Imperial House of Osman, Sultan of Sultans, Khan of Khans, Commander of the Faithful and Successor of the Prophet of the Lord of the Universe, Protector of the Holy Cities of Mecca, Medina and Jerusalem, Emperor of The Three Cities of Constantinople, Adrianopole and Bursa as well as many other cities and countries.[8]
 
@@ -113,7 +113,7 @@ The kings of the _Ancien Régime_ and the July Monarchy used the title _Empereur
 
 First French Empire
 
-Jacques-Louis_David_-_The_Coronation_of_Napoleon_(1805-1807).jpg (who had blessed the regalia), at the Notre Dame Cathedral in Paris.
+(who had blessed the regalia), at the Notre Dame Cathedral in Paris.
 The painting by David commemorating the event is equally famous: the gothic cathedral restyled _style Empire_, supervised by the mother of the Emperor on the balcony (a fictional addition, while she had not been present at the ceremony), the pope positioned near the altar, Napoleon proceeds to crown his then wife, Joséphine de Beauharnais as Empress.]] Napoleon Bonaparte, who was already First Consul of the French Republic (_Premier Consul de la République française_) for life, declared himself EMPEROR OF THE FRENCH (_Empereur des Français_) on 18 May 1804, thus creating the French Empire (_Empire Français_).
 
 Napoleon relinquished the title of Emperor of the French on 6 April and again on 11 April 1814. Napoleon's infant son, Napoleon II, was recognized by the Council of Peers, as Emperor from the moment of his father's abdication, and therefore reigned (as opposed to ruled) as Emperor for fifteen days, 22 June to 7 July 1815.
@@ -142,7 +142,7 @@ After the fall of the Byzantine Empire, the legitimate heir to the throne, Andre
 
 Portugal
 
-Jean-Baptiste_Debret_-_Retrato_de_Dom_João_VI_(MNBA).jpg, King of Portugal and the Algarves, Emperor of Brazil.]] After the independence and proclamation of the Empire of Brazil from the Kingdom of Portugal by Prince Pedro, who became Emperor, in 1822, his father, King John VI of Portugal briefly held the honorific style of Titular Emperor of Brazil and the treatment of _His Imperial and Royal Majesty_ under the 1825 Treaty of Rio de Janeiro, by which Portugal recognized the independence of Brazil. The style of Titular Emperor was a life title, and became extinct upon the holder's demise. John VI held the imperial title for a few months only, from the ratification of the Treaty in November 1825 until his death in March 1826. During those months, however, as John's imperial title was purely honorific while his son, Pedro I, remained the sole monarch of the Brazilian Empire.
+, King of Portugal and the Algarves, Emperor of Brazil.]] After the independence and proclamation of the Empire of Brazil from the Kingdom of Portugal by Prince Pedro, who became Emperor, in 1822, his father, King John VI of Portugal briefly held the honorific style of Titular Emperor of Brazil and the treatment of _His Imperial and Royal Majesty_ under the 1825 Treaty of Rio de Janeiro, by which Portugal recognized the independence of Brazil. The style of Titular Emperor was a life title, and became extinct upon the holder's demise. John VI held the imperial title for a few months only, from the ratification of the Treaty in November 1825 until his death in March 1826. During those months, however, as John's imperial title was purely honorific while his son, Pedro I, remained the sole monarch of the Brazilian Empire.
 
 Great Britain
 
@@ -156,19 +156,19 @@ During the rule of Henry VIII the Statute in Restraint of Appeals declared that 
 
 United Kingdom
 
-George_V_of_the_united_Kingdom.jpg, King of the United Kingdom and the British Dominions, Emperor of India.]] In 1801, George III rejected the title of Emperor when offered. The only period when British monarchs held the title of _Emperor_ in a dynastic succession started when the title Empress of India was created for Queen Victoria. The government led by Prime Minister Benjamin Disraeli, conferred the additional title upon her by an Act of Parliament, reputedly to assuage the monarch's irritation at being, as a mere Queen, notionally inferior to her own daughter (Princess Victoria, who was the wife of the reigning German Emperor); the Indian Imperial designation was also formally justified as the expression of Britain succeeding the former Mughal Emperor as suzerain over hundreds of princely states. The Indian Independence Act 1947 provided for the abolition of the use of the title "Emperor of India" by the British monarch, but this was not executed by King George VI until a royal proclamation on 22 June 1948. Despite this, George VI continued as king of India until 1950 and as king of Pakistan until his death in 1952.
+, King of the United Kingdom and the British Dominions, Emperor of India.]] In 1801, George III rejected the title of Emperor when offered. The only period when British monarchs held the title of _Emperor_ in a dynastic succession started when the title Empress of India was created for Queen Victoria. The government led by Prime Minister Benjamin Disraeli, conferred the additional title upon her by an Act of Parliament, reputedly to assuage the monarch's irritation at being, as a mere Queen, notionally inferior to her own daughter (Princess Victoria, who was the wife of the reigning German Emperor); the Indian Imperial designation was also formally justified as the expression of Britain succeeding the former Mughal Emperor as suzerain over hundreds of princely states. The Indian Independence Act 1947 provided for the abolition of the use of the title "Emperor of India" by the British monarch, but this was not executed by King George VI until a royal proclamation on 22 June 1948. Despite this, George VI continued as king of India until 1950 and as king of Pakistan until his death in 1952.
 
 The last Empress of India was George VI's wife, Queen Elizabeth The Queen Mother.
 
 German Empire
 
-Kohner_-_Kaiser_Wilhelm_II.jpg, German Emperor and the King of Prussia.]] Under the guise of idealism giving way to realism, German nationalism rapidly shifted from its liberal and democratic character in 1848 to Prussian prime minister Otto von Bismarck's authoritarian _Realpolitik_. Bismarck wanted to unify the rival German states to achieve his aim of a conservative, Prussian-dominated Germany. Three wars led to military successes and helped to convince German people to do this: the Second war of Schleswig against Denmark in 1864, the Austro-Prussian War against Austria in 1866, and the Franco-Prussian War against the Second French Empire in 1870–71. During the Siege of Paris in 1871, the North German Confederation, supported by its allies from southern Germany, formed the German Empire with the proclamation of the Prussian king Wilhelm I as German Emperor in the Hall of Mirrors at the Palace of Versailles, to the humiliation of the French, who ceased to resist only days later.
+, German Emperor and the King of Prussia.]] Under the guise of idealism giving way to realism, German nationalism rapidly shifted from its liberal and democratic character in 1848 to Prussian prime minister Otto von Bismarck's authoritarian _Realpolitik_. Bismarck wanted to unify the rival German states to achieve his aim of a conservative, Prussian-dominated Germany. Three wars led to military successes and helped to convince German people to do this: the Second war of Schleswig against Denmark in 1864, the Austro-Prussian War against Austria in 1866, and the Franco-Prussian War against the Second French Empire in 1870–71. During the Siege of Paris in 1871, the North German Confederation, supported by its allies from southern Germany, formed the German Empire with the proclamation of the Prussian king Wilhelm I as German Emperor in the Hall of Mirrors at the Palace of Versailles, to the humiliation of the French, who ceased to resist only days later.
 
 After his death he was succeeded by his son Frederick III who was only emperor for 99 days. In the same year his son Wilhelm II became the third emperor within a year. He was the last German emperor. After the empire's defeat in World War I the empire, called in German _Reich_, had a president as head of state instead of an emperor. The use of the word _Reich_ was abandoned after the Second World War.
 
 Russia
 
-Profile_portrait_of_Catherine_II_by_Fedor_Rokotov_(1763,_Tretyakov_gallery).jpg]] In 1472, the niece of the last Byzantine emperor, Sophia Palaiologina, married Ivan III, grand prince of Moscow, who began championing the idea of Russia being the successor to the Byzantine Empire. This idea was represented more emphatically in the composition the monk Filofej addressed to their son Vasili III. After ending Muscovy's dependence on its Mongol overlords in 1480, Ivan III began the usage of the titles Tsar and Autocrat (_samoderzhets_). His insistence on recognition as such by the emperor of the Holy Roman Empire since 1489 resulted in the granting of this recognition in 1514 by Emperor Maximilian I to Vasili III. His son Ivan IV emphatically crowned himself Tsar of Russia on 16 January 1547. The word "Tsar" derives from Latin Caesar, but this title was used in Russia as equivalent to "King"; the error occurred when medieval Russian clerics referred to the biblical Jewish kings with the same title that was used to designate Roman and Byzantine rulers — "Caesar".
+]] In 1472, the niece of the last Byzantine emperor, Sophia Palaiologina, married Ivan III, grand prince of Moscow, who began championing the idea of Russia being the successor to the Byzantine Empire. This idea was represented more emphatically in the composition the monk Filofej addressed to their son Vasili III. After ending Muscovy's dependence on its Mongol overlords in 1480, Ivan III began the usage of the titles Tsar and Autocrat (_samoderzhets_). His insistence on recognition as such by the emperor of the Holy Roman Empire since 1489 resulted in the granting of this recognition in 1514 by Emperor Maximilian I to Vasili III. His son Ivan IV emphatically crowned himself Tsar of Russia on 16 January 1547. The word "Tsar" derives from Latin Caesar, but this title was used in Russia as equivalent to "King"; the error occurred when medieval Russian clerics referred to the biblical Jewish kings with the same title that was used to designate Roman and Byzantine rulers — "Caesar".
 
 On 31 October 1721, Peter I was proclaimed Emperor by the Senate. The title used was Latin "_Imperator_", which is a westernizing form equivalent to the traditional Slavic title "_Tsar_". He based his claim partially upon a letter discovered in 1717 written in 1514 from Maximilian I to Vasili III, in which the Holy Roman Emperor used the term in referring to Vasili.
 
@@ -201,7 +201,7 @@ Post-Columbian Americas
 
 Brazil
 
-Pedro_Américo_-_D._Pedro_II_na_abertura_da_Assembléia_Geral.jpg, Emperor of Brazil in regalia at the opening of the General Assembly (oil painting by Pedro Américo).]] When Napoleon I ordered the invasion of Portugal in 1807 because it refused to join the Continental System, the Portuguese Braganzas moved their capital to Rio de Janeiro to avoid the fate of the Spanish Bourbons (Napoleon I arrested them and made his brother Joseph king). When the French general Jean-Andoche Junot arrived in Lisbon, the Portuguese fleet had already left with all the local elite.
+, Emperor of Brazil in regalia at the opening of the General Assembly (oil painting by Pedro Américo).]] When Napoleon I ordered the invasion of Portugal in 1807 because it refused to join the Continental System, the Portuguese Braganzas moved their capital to Rio de Janeiro to avoid the fate of the Spanish Bourbons (Napoleon I arrested them and made his brother Joseph king). When the French general Jean-Andoche Junot arrived in Lisbon, the Portuguese fleet had already left with all the local elite.
 
 In 1808, under a British naval escort, the fleet arrived in Brazil. Later, in 1815, the Portuguese Prince Regent (since 1816 King João VI) proclaimed the _United Kingdom of Portugal, Brazil and the Algarves_, as a union of three kingdoms, lifting Brazil from its colonial status.
 
@@ -215,7 +215,7 @@ Haiti was declared an empire by its ruler, Jean-Jacques Dessalines, who made him
 
 Mexico
 
-X-Large_Portrait_of_Maximiliano.jpg, by Franz Xaver Winterhalter]]
+, by Franz Xaver Winterhalter]]
 
 In Mexico, the First Mexican Empire was the first of two empires created. After the declaration of independence on September 15, 1821, it was the intention of the Mexican parliament to establish a commonwealth whereby the King of Spain, Ferdinand VII, would also be Emperor of Mexico, but in which both countries were to be governed by separate laws and with their own legislative offices. Should the king refuse the position, the law provided for a member of the House of Bourbon to accede to the Mexican throne.
 
@@ -248,7 +248,7 @@ Africa
 
 Ethiopia
 
-Haile_Selassie_(1969).jpg, Emperor of Ethiopia from 1930 to 1974.]] From 1270 the Solomonic dynasty of Ethiopia used the title , literally "King of Kings". The use of the _king of kings_ style began a millennium earlier in this region, however, with the title being used by the Kings of Aksum, beginning with Sembrouthes in the 3rd century.
+, Emperor of Ethiopia from 1930 to 1974.]] From 1270 the Solomonic dynasty of Ethiopia used the title , literally "King of Kings". The use of the _king of kings_ style began a millennium earlier in this region, however, with the title being used by the Kings of Aksum, beginning with Sembrouthes in the 3rd century.
 
 Another title used by this dynasty was . translates as Empress, and was used by the only reigning Empress, Zauditu, along with the official title ("Queen of Kings").
 
@@ -265,8 +265,6 @@ The rulers of China and (once Westerners became aware of the role) Japan were al
 
 China
 
-Qin_Shi_Huang_BW.png
-
 The East Asian tradition is different from the Roman tradition, having arisen separately. What links them together is the use of the Chinese logographs 皇 (_huáng_) and 帝 (_dì_) which together or individually are imperial. Because of the cultural influence of China, China's neighbors adopted these titles or had their native titles conform in _hanzi_. Anyone who spoke to the emperor was to address the emperor as bìxià (陛下, lit. the "Bottom of the Steps"), corresponding to "Imperial Majesty"; shèngshàng (聖上, lit. Holy Highness); or wànsuì (萬歲, lit. "You, of Ten Thousand Years").
 
 In 221 BC, Ying Zheng, who was king of Qin at the time, proclaimed himself _Shi Huangdi_ (始皇帝), which translates as "first emperor". _Huangdi_ is composed of _huang_ ("august one", 皇) and _di_ ("sage-king", 帝), and referred to legendary/mythological sage-emperors living several millennia earlier, of which three were _huang_ and five were _di_. Thus Zheng became Qin Shi Huang, abolishing the system where the _huang_/_di_ titles were reserved to dead and/or mythological rulers. Since then, the title "king" became a lower ranked title, and later divided into two grades. Although not as popular, the title 王 _wang_ (king or prince) was still used by many monarchs and dynasties in China up to the Taipings in the 19th century. 王 is pronounced _vương_ in Vietnamese, _ō_ in Japanese, and _wang_ in Korean.
@@ -277,7 +275,7 @@ In general, an emperor would have one empress (_Huanghou_, 皇后) at one time, 
 
 Japan
 
-Emperor_Showa.jpg (裕仁), or the Shōwa Emperor (昭和天皇), the last Japanese Emperor having ruled with prerogative powers, combined with assumption of divinity (photographed 1926).]]
+(裕仁), or the Shōwa Emperor (昭和天皇), the last Japanese Emperor having ruled with prerogative powers, combined with assumption of divinity (photographed 1926).]]
 
 The earliest Emperor recorded in Kojiki and Nihon Shoki is Emperor Jimmu, who is said to be a descendant of Amaterasu's grandson Ninigi who descended from Heaven (Tenson kōrin). If one believes what is written in Nihon Shoki, the Emperors have an unbroken direct male lineage that goes back more than 2,600 years.
 
@@ -293,7 +291,7 @@ Currently, many believe the new prince of Japan will ascend the throne, as the l
 
 Korea
 
-Gojong_of_the_Korean_Empire_01.jpg of the Korean Empire]]
+of the Korean Empire]]
 
 Some rulers of Goguryeo (37 BC–AD 668) used the title of _Taewang_ (), literally translated as "Greatest King". The title of _Taewang_ was also used by some rulers of Silla (57 BC–AD 935), including Beopheung and Jinheung.
 
@@ -309,7 +307,7 @@ The title Khagan (khan of khans or grand khan) was held by Genghis Khan, founder
 
 Vietnam
 
-Bảo_Đại_au_pouvoir.jpg, the last Emperor of Vietnam]] Ngô Quyền, the first ruler of Đại Việt as an independent state, used the title _Vương_ (王, _King_). However, after the death of Ngô Quyền, the country immersed in a civil war known as Chaos of the 12 Lords that lasted for over 20 years. In the end, Đinh Bộ Lĩnh unified the country after defeating all the warlords and became the first ruler of Đại Việt to use the title _Hoàng Đế_ (皇帝, _Emperor_) in 968. Succeeding rulers in Vietnam then continued to use this Emperor title until 1806 when this title was stopped being used for a century.
+, the last Emperor of Vietnam]] Ngô Quyền, the first ruler of Đại Việt as an independent state, used the title _Vương_ (王, _King_). However, after the death of Ngô Quyền, the country immersed in a civil war known as Chaos of the 12 Lords that lasted for over 20 years. In the end, Đinh Bộ Lĩnh unified the country after defeating all the warlords and became the first ruler of Đại Việt to use the title _Hoàng Đế_ (皇帝, _Emperor_) in 968. Succeeding rulers in Vietnam then continued to use this Emperor title until 1806 when this title was stopped being used for a century.
 
 Đinh Bộ Lĩnh wasn't the first to claim the title of _Đế_ (帝, _Emperor_). Before him, Lý Bí and Mai Thúc Loan also claimed this title. However, their rules were very short lived.
 

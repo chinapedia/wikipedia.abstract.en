@@ -1,4 +1,4 @@
-Mineral_Lignito_GDFL028.jpg (brown coal)]] Coal_anthracite.jpg (hard coal)]] COAL is a combustible black or brownish-black sedimentary rock, formed as rock strata called COAL SEAMS. Coal is mostly carbon with variable amounts of other elements; chiefly hydrogen, sulfur, oxygen, and nitrogen.[1] Coal is formed if dead plant matter decays into peat and over millions of years the heat and pressure of deep burial converts the peat into coal.[2] Vast deposits of coal originates in former wetlands—called coal forests—that covered much of the Earth's tropical land areas during the late Carboniferous (Pennsylvanian) and Permian times.[3][4]
+(brown coal)]] (hard coal)]] COAL is a combustible black or brownish-black sedimentary rock, formed as rock strata called COAL SEAMS. Coal is mostly carbon with variable amounts of other elements; chiefly hydrogen, sulfur, oxygen, and nitrogen.[1] Coal is formed if dead plant matter decays into peat and over millions of years the heat and pressure of deep burial converts the peat into coal.[2] Vast deposits of coal originates in former wetlands—called coal forests—that covered much of the Earth's tropical land areas during the late Carboniferous (Pennsylvanian) and Permian times.[3][4]
 
 As a fossil fuel burned for heat, coal supplies about a quarter of the world's primary energy and two-fifths of its electricity.[5] Some iron and steel making and other industrial processes burn coal.
 
@@ -18,8 +18,6 @@ Coal is composed of macerals, minerals and water.[13] Fossils and amber may be f
 
 Formation
 
-Struktura_chemiczna_węgla_kamiennego.svg
-
 At various times in the geologic past, the Earth had dense forests[14] in low-lying wetland areas. Due to natural processes such as flooding, these forests were buried underneath soil. As more and more soil deposited over them, they were compressed. The temperature also rose as they sank deeper and deeper. As the process continued the plant matter was protected from biodegradation and oxidation, usually by mud or acidic water. This trapped the carbon in immense peat bogs that were eventually covered and deeply buried by sediments. Under high pressure and high temperature, dead vegetation was slowly converted to coal. The conversion of dead vegetation into coal is called coalification. Coalification starts with dead plant matter decaying into peat. Then over millions of years the heat and pressure of deep burial causes the loss of water, methane and carbon dioxide and an increase in the proportion of carbon.[15] Thus first lignite (also called "brown coal"), then sub-bituminous coal, bituminous coal, and lastly anthracite (also called "hard coal" or "black coal") may be formed.[16][17]
 
 The wide, shallow seas of the Carboniferous Period provided ideal conditions for coal formation, although coal is known from most geological periods. The exception is the coal gap in the Permian–Triassic extinction event, where coal is rare. Coal is known from Precambrian strata, which predate land plants—this coal is presumed to have originated from residues of algae.[18][19]
@@ -28,7 +26,7 @@ Sometimes coal seams (also known as coal beds) are interbedded with other sedime
 
 Types
 
-Sydney_Mines_Point_Aconi_Seam_038.JPG]] Coal_Rank_USGS.png]]
+]] ]]
 
 As geological processes apply pressure to dead biotic material over time, under suitable conditions, its metamorphic grade or rank increases successively into:
 
@@ -51,13 +49,9 @@ Hilt's law is a geological observation that (within a small area) the deeper the
 
 History
 
-Tiangong_Kaiwu_Coal_Mining.gif
-
 The earliest recognized use is from the Shenyang area of China where by 4000 BC Neolithic inhabitants had begun carving ornaments from black lignite.[22] Coal from the Fushun mine in northeastern China was used to smelt copper as early as 1000 BC.[23] Marco Polo, the Italian who traveled to China in the 13th century, described coal as "black stones ... which burn like logs", and said coal was so plentiful, people could take three hot baths a week.[24] In Europe, the earliest reference to the use of coal as fuel is from the geological treatise _On stones_ (Lap. 16) by the Greek scientist Theophrastus (c. 371–287 BC):[25][26]
 
 Outcrop coal was used in Britain during the Bronze Age (3000–2000 BC), where it formed part of funeral pyres.[27][28] In Roman Britain, with the exception of two modern fields, "the Romans were exploiting coals in all the major coalfields in England and Wales by the end of the second century AD".[29] Evidence of trade in coal, dated to about AD 200, has been found at the Roman settlement at Heronbridge, near Chester; and in the Fenlands of East Anglia, where coal from the Midlands was transported via the Car Dyke for use in drying grain.[30] Coal cinders have been found in the hearths of villas and Roman forts, particularly in Northumberland, dated to around AD 400. In the west of England, contemporary writers described the wonder of a permanent brazier of coal on the altar of Minerva at Aquae Sulis (modern day Bath), although in fact easily accessible surface coal from what became the Somerset coalfield was in common use in quite lowly dwellings locally.[31] Evidence of coal's use for iron-working in the city during the Roman period has been found.[32] In Eschweiler, Rhineland, deposits of bituminous coal were used by the Romans for the smelting of iron ore.[33]
-
-Men_of_the_Mine-_Life_at_the_Coal_Face,_Britain,_1942_D8263.jpg
 
 No evidence exists of the product being of great importance in Britain before about AD 1000, the High Middle Ages.[34] Mineral coal came to be referred to as "seacoal" in the 13th century; the wharf where the material arrived in London was known as Seacoal Lane, so identified in a charter of King Henry III granted in 1253.[35] Initially, the name was given because much coal was found on the shore, having fallen from the exposed coal seams on cliffs above or washed out of underwater coal outcrops,[36] but by the time of Henry VIII, it was understood to derive from the way it was carried to London by sea.[37] In 1257–1259, coal from Newcastle upon Tyne was shipped to London for the smiths and lime-burners building Westminster Abbey.[38] Seacoal Lane and Newcastle Lane, where coal was unloaded at wharves along the River Fleet, still exist.[39]
 
@@ -97,7 +91,7 @@ Content
 
 Coking coal and use of coke to smelt iron
 
-Coke_Ovens_Abercwmboi.jpg plant in Wales, United Kingdom]]
+plant in Wales, United Kingdom]]
 
 Coke is a solid carbonaceous residue derived from coking coal (a low-ash, low-sulfur bituminous coal, also known as metallurgical coal), which is used in manufacturing steel and other iron products.[54] Coke is made from coking coal by baking in an oven without oxygen at temperatures as high as 1,000 °C, driving off the volatile constituents and fusing together the fixed carbon and residual ash. Metallurgical coke is used as a fuel and as a reducing agent in smelting iron ore in a blast furnace.[55] The carbon monoxide produced by its combustion reduces hematite (an iron oxide) to iron.
 
@@ -152,7 +146,7 @@ Refined coal is the product of a coal-upgrading technology that removes moisture
 
 Power plant combustion
 
-Grand_Junction_Trip_92007_098.JPG near Helper, Utah, US]] Ashtabulacoalcars_e2.jpg Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_(winter_2017).jpg pushing coal in Ljubljana Power Station]] Coal burnt as a solid fuel in coal power stations to generate electricity is called thermal coal. Coal is also used to produce very high temperatures through combustion. Efforts around the world to reduce the use of coal have led some regions to switch to natural gas and electricity from lower carbon sources.
+near Helper, Utah, US]] pushing coal in Ljubljana Power Station]] Coal burnt as a solid fuel in coal power stations to generate electricity is called thermal coal. Coal is also used to produce very high temperatures through combustion. Efforts around the world to reduce the use of coal have led some regions to switch to natural gas and electricity from lower carbon sources.
 
 When coal is used for electricity generation, it is usually pulverized and then burned in a furnace with a boiler.[69] The furnace heat converts boiler water to steam, which is then used to spin turbines which turn generators and create electricity.[70] The thermodynamic efficiency of this process varies between about 25% and 50% depending on the pre-combustion treatment, turbine technology (e.g. supercritical steam generator) and the age of the plant.[71][72][73][74]
 
@@ -266,7 +260,7 @@ A 2017 study in the _Economic Journal_ found that for Britain during the period 
 
 Damage to the environment
 
-Aerial_view_of_ash_slide_site_Dec_23_2008_TVA.gov_123002.jpg coal fly ash slurry spill taken the day after the event]]
+coal fly ash slurry spill taken the day after the event]]
 
 Coal mining and coal fueling of power stations and industrial processes can cause major environmental damage.[122]
 
@@ -342,7 +336,7 @@ Allegations of corruption are being investigated in India[176] and China.[177]
 
 Opposition to coal
 
-Coral_not_coal_protest_at_India_Finance_Minister_Arun_Jaitley_Visit_to_Australia_(25563929593).jpg caused by climate change in Australia]] Gemeinsam_stark,Hambacher_Forst,NRW.jpg for the Hambach surface mine in Germany: after which the felling was suspended in 2018]] Opposition to coal pollution was one of the main reasons the modern environmental movement started in the 19th century.
+caused by climate change in Australia]] for the Hambach surface mine in Germany: after which the felling was suspended in 2018]] Opposition to coal pollution was one of the main reasons the modern environmental movement started in the 19th century.
 
 
 Transition away from coal
@@ -351,7 +345,7 @@ In order to meet global climate goals and provide power to those that don't curr
 
 Peak coal
 
-Coal_mine_Wyoming.jpg, United States. The United States has the world's largest coal reserves.]]
+, United States. The United States has the world's largest coal reserves.]]
 
 Although many countries have coal underground not all will be consumed.
 

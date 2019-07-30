@@ -1,4 +1,4 @@
-Hugo_Gernsback_1963.png Radio_News_Nov_1928_Cover.jpg on the cover of his _Radio News_ (Nov 1928)]]
+on the cover of his _Radio News_ (Nov 1928)]]
 
 HUGO GERNSBACK (; born HUGO GERNSBACHER, August 16, 1884 – August 19, 1967) was a Luxembourgish-American inventor, writer, editor, and magazine publisher, best known for publications including the first science fiction magazine. His contributions to the genre as publisher—although not as a writer—were so significant that, along with the novelists H. G. Wells and Jules Verne, he is sometimes called "The Father of Science Fiction".[1] In his honour, annual awards presented at the World Science Fiction Convention are named the "Hugos".[2]
 
@@ -16,7 +16,7 @@ He died at Roosevelt Hospital in New York City on August 19, 1967.[8]
 
 Science fiction
 
-Amazing_stories_192802.jpg Science_fiction_plus_195303_v1_n1.jpg'' in 1953]]
+'' in 1953]]
 
 Gernsback provided a forum for the modern genre of science fiction in 1926 by founding the first magazine dedicated to it, _Amazing Stories_. The inaugural April issue comprised a one-page editorial and reissues of six stories, three less than ten years old and three by Poe, Verne, and Wells.[9] He said he became interested in the concept after reading a translation of the work of Percival Lowell as a child. His idea of a perfect science fiction story was "75 percent literature interwoven with 25 percent science".[10] He also played an important role in starting science fiction fandom, by organizing the Science Fiction League[11] and by publishing the addresses of people who wrote letters to his magazines. Fans began to organize, and became aware of themselves as a movement, a social force; this was probably decisive for the subsequent history of the genre. He also created the term "science fiction", though he preferred the term "scientifiction".[12]
 
@@ -65,8 +65,6 @@ Articles that were published about television were also tested in this manner wh
 
 
 List of magazines edited or published by Gernsback
-
-Science_and_Mechanics_Nov_1931_cover.jpg Wonder_stories_193604.jpg
 
 -   _Air Wonder Stories_ – July 1929 to May 1930, merged with _Science Wonder Stories_ to form _Wonder Stories_
 -   _Amazing Detective Stories_

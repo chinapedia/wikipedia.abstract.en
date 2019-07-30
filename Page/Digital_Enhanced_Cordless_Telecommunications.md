@@ -1,5 +1,3 @@
-IT_6.1T_BLACK_Wooden_Background.jpg
-
 DIGITAL ENHANCED CORDLESS TELECOMMUNICATIONS (DIGITAL EUROPEAN CORDLESS TELECOMMUNICATIONS), usually known by the acronym DECT, is a standard primarily used for creating cordless telephone systems. It originated in Europe, where it is the universal standard, replacing earlier cordless phone standards, such as 900 MHz CT1 and CT2.[1]
 
 Beyond Europe, it has been adopted by Australia, and most countries in Asia and South America. North American adoption was delayed by United States radio frequency regulations. This forced development of a variation of DECT, called DECT 6.0, using a slightly different frequency range which makes these units incompatible with systems intended for use in other areas, even from the same manufacturer. DECT has almost universally replaced other standards in most countries where it is used, with the exception of North America.
@@ -91,7 +89,7 @@ DECT allows interference-free wireless operation to around outdoors, much less i
 
 Technical properties
 
-Pulse_duration_measurement_of_a_DECT_phone.jpg ETSI standards documentation ETSI EN 300 175 parts 1–8 (DECT), ETSI EN 300 444 (GAP) and ETSI TS 102 527 parts 1–5 (NG-DECT) prescribe the following technical properties:
+ETSI standards documentation ETSI EN 300 175 parts 1–8 (DECT), ETSI EN 300 444 (GAP) and ETSI TS 102 527 parts 1–5 (NG-DECT) prescribe the following technical properties:
 
 -   Audio codec:
     -   mandatory:

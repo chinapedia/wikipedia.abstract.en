@@ -3,7 +3,7 @@ CONSTANTIN BRÂNCUȘI (; February 19, 1876 – March 16, 1957) was a Romanian s
 
 Early years
 
-Constantin_Brancusi_c.1905.jpg Constantin_Brancusi,_Portrait_of_Mlle_Pogany,_1912,_Philadelphia_Museum_of_Modern_Art,_Philadelphia.jpg, Philadelphia. Exhibited at the 1913 Armory Show.]] Brâncuși grew up in the village of Hobiţa, Gorj, near Târgu Jiu, close to Romania's Carpathian Mountains, an area known for its rich tradition of folk crafts, particularly woodcarving. Geometric patterns of the region are seen in his later works.
+, Philadelphia. Exhibited at the 1913 Armory Show.]] Brâncuși grew up in the village of Hobiţa, Gorj, near Târgu Jiu, close to Romania's Carpathian Mountains, an area known for its rich tradition of folk crafts, particularly woodcarving. Geometric patterns of the region are seen in his later works.
 
 His parents Nicolae and Maria Brâncuși were poor peasants who earned a meager living through back-breaking labor; from the age of seven, Constantin herded the family's flock of sheep. He showed talent for carving objects out of wood, and often ran away from home to escape the bullying of his father and older brothers.
 
@@ -14,7 +14,7 @@ He then enrolled in the Bucharest School of Fine Arts, where he received academi
 
 Working in Paris
 
-Constantin_Brancusi,_1907-08,_The_Kiss,_Exhibited_at_the_Armory_Show_and_published_in_the_Chicago_Tribune,_25_March_1913..jpg''. Exhibited in 1913 at the Armory Show and published in the _Chicago Tribune_, 25 March 1913]] In 1903, Brâncuși traveled to Munich, and from there to Paris. In Paris, he was welcomed by the community of artists and intellectuals brimming with new ideas.[4] He worked for two years in the workshop of Antonin Mercié of the École des Beaux-Arts, and was invited to enter the workshop of Auguste Rodin. Even though he admired the eminent Rodin he left the Rodin studio after only two months, saying, "Nothing can grow under big trees."[5]
+''. Exhibited in 1913 at the Armory Show and published in the _Chicago Tribune_, 25 March 1913]] In 1903, Brâncuși traveled to Munich, and from there to Paris. In Paris, he was welcomed by the community of artists and intellectuals brimming with new ideas.[4] He worked for two years in the workshop of Antonin Mercié of the École des Beaux-Arts, and was invited to enter the workshop of Auguste Rodin. Even though he admired the eminent Rodin he left the Rodin studio after only two months, saying, "Nothing can grow under big trees."[5]
 
 After leaving Rodin's workshop, Brâncuși began developing the revolutionary style for which he is known. His first commissioned work, _The Prayer_, was part of a gravestone memorial. It depicts a young woman crossing herself as she kneels, and marks the first step toward abstracted, non-literal representation, and shows his drive to depict "not the outer form but the idea, the essence of things." He also began doing more carving, rather than the method popular with his contemporaries, that of modeling in clay or plaster which would be cast in metal, and by 1908 he worked almost exclusively by carving.
 
@@ -22,7 +22,7 @@ In the following few years he made many versions of _Sleeping Muse_ and _The Kis
 
 His works became popular in France, Romania and the United States. Collectors, notably John Quinn, bought his pieces, and reviewers praised his works. In 1913 Brâncuși's work was displayed at both the Salon des Indépendants and the first exhibition in the U.S. of modern art, the Armory Show.
 
-Edward_Steichen_-_Brancusi's_studio,_1920.jpeg]] In 1920, he developed a notorious reputation with the entry of _Princess X_[6] in the Salon. The phallic appearance of this large, gleaming bronze piece scandalized the Salon and, despite Brâncuși's explanation that it was simply meant to represent the essence of womanhood, removed it from the exhibition. _Princess X_ was revealed to be Princess Marie Bonaparte, direct descendant of the younger brother of Napoleon Bonaparte. The sculpture has been interpreted by some as symbolizing her obsession with the penis and her lifelong quest to achieve vaginal orgasm, with the help of Sigmund Freud.[7][8][9][10]
+]] In 1920, he developed a notorious reputation with the entry of _Princess X_[6] in the Salon. The phallic appearance of this large, gleaming bronze piece scandalized the Salon and, despite Brâncuși's explanation that it was simply meant to represent the essence of womanhood, removed it from the exhibition. _Princess X_ was revealed to be Princess Marie Bonaparte, direct descendant of the younger brother of Napoleon Bonaparte. The sculpture has been interpreted by some as symbolizing her obsession with the penis and her lifelong quest to achieve vaginal orgasm, with the help of Sigmund Freud.[7][8][9][10]
 
 Around this time Brâncuși began crafting the bases for his sculptures with much care and originality because he considered them important to the works themselves.
 
@@ -30,7 +30,7 @@ One of his major groups of sculptures involved the _Bird in Space_ — simple ab
 
 One of these versions caused a major controversy in 1926, when photographer Edward Steichen purchased it and shipped it to the United States. Customs officers did not accept the _Bird_ as a work of art and assessed customs duty on its import as an industrial item. After protracted court proceedings, this assessment was overturned, thus confirming the Bird's status as a duty-exempt work of art.[12][13] The ruling also established the important principle that "art" does not have to involve a realistic representation of nature, and that it was legitimate for it to simply represent an abstract concept – in this case "flight".[14][15]
 
-Armory_Show_2.jpg, 1913, North end of the exhibition, showing some of the modernist sculptures. In _Arts Revolutionists of Today_ (1913), the caption for this photo reads: "At the left of the picture is a much-discussed portrait bust of Mlle. Pogany, a dancer, by Brâncuși. This freak sculpture resembles nothing so much as an egg and has excited much derision and laughter..."[16]]]
+, 1913, North end of the exhibition, showing some of the modernist sculptures. In _Arts Revolutionists of Today_ (1913), the caption for this photo reads: "At the left of the picture is a much-discussed portrait bust of Mlle. Pogany, a dancer, by Brâncuși. This freak sculpture resembles nothing so much as an egg and has excited much derision and laughter..."[16]]]
 
 His work became increasingly popular in the U.S, where he visited several times during his life. Worldwide fame in 1933 brought him the commission of building a meditation temple in India for Maharajah of Indore, but when Brâncuși went to India in 1937 to complete the plans and begin construction, the Mahrajah was away and lost interest in the project when he returned.
 
@@ -43,7 +43,7 @@ Brâncuși was cared for in his later years by a Romanian refugee couple. He bec
 
 Personal life
 
-Brancusi,_Roche,_Satie_&_Foster_1923.jpg, Erik Satie and Jeanne Robert Foster playing golf in 1923]]
+, Erik Satie and Jeanne Robert Foster playing golf in 1923]]
 
 Brâncuși always dressed in the simple ways the Romanian peasants did. His studio was reminiscent of the houses of the peasants from his native region: there was a big slab of rock as a table and a primitive fireplace, similar to those found in traditional houses in his native Oltenia, while the rest of the furniture was made by him out of wood. Brâncuși would cook his own food, traditional Romanian dishes, with which he would treat his guests.[17]
 
@@ -58,7 +58,7 @@ A talented handyman, he built his own phonograph and made most of his furniture,
 
 Death and legacy
 
-ROL_500_1991_reverse.jpg Romanian banknote (1991–1992 issue)]] Brâncuși died on March 16, 1957, aged 81. He was buried in the Cimetière du Montparnasse in Paris. This cemetery also displays statues that Brâncuși carved for deceased artists.
+Romanian banknote (1991–1992 issue)]] Brâncuși died on March 16, 1957, aged 81. He was buried in the Cimetière du Montparnasse in Paris. This cemetery also displays statues that Brâncuși carved for deceased artists.
 
 In 1962, Georg Olden used Brâncuși's _Bird in Space_ as the inspiration behind his design of the Clio Award statuette.[27]
 

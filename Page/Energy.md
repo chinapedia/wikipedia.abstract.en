@@ -9,7 +9,7 @@ Living organisms require exergy to stay alive, such as the energy humans get fro
 
 Forms
 
-Lightning_over_Oradea_Romania_zoom.jpg strike, 500 megajoules of electric potential energy is converted into the same amount of energy in other forms, mostly light energy, sound energy and thermal energy.]] Hot_metalwork.jpg is energy of microscopic constituents of matter, which may include both kinetic and potential energy.]]
+strike, 500 megajoules of electric potential energy is converted into the same amount of energy in other forms, mostly light energy, sound energy and thermal energy.]] is energy of microscopic constituents of matter, which may include both kinetic and potential energy.]]
 
 The total energy of a system can be subdivided and classified into potential energy, kinetic energy, or combinations of the two in various ways. Kinetic energy is determined by the movement of an object – or the composite motion of the components of an object – and potential energy reflects the potential of an object to have motion, and generally is a function of the position of an object within a field or may be stored in the field itself.
 
@@ -18,7 +18,7 @@ While these two categories are sufficient to describe all forms of energy, it is
 
 History
 
-Thomas_Young_(scientist).jpg, the first person to use the term "energy" in the modern sense.]] The word _energy_ derives from the ,[2] which possibly appears for the first time in the work of Aristotle in the 4th century BC. In contrast to the modern definition, energeia was a qualitative philosophical concept, broad enough to include ideas such as happiness and pleasure.
+, the first person to use the term "energy" in the modern sense.]] The word _energy_ derives from the ,[2] which possibly appears for the first time in the work of Aristotle in the 4th century BC. In contrast to the modern definition, energeia was a qualitative philosophical concept, broad enough to include ideas such as happiness and pleasure.
 
 In the late 17th century, Gottfried Leibniz proposed the idea of the , or living force, which defined as the product of the mass of an object and its velocity squared; he believed that total _vis viva_ was conserved. To account for slowing due to friction, Leibniz theorized that thermal energy consisted of the random motion of the constituent parts of matter, although it would be more than a century until this was generally accepted. The modern analog of this property, kinetic energy, differs from _vis viva_ only by a factor of two.
 
@@ -28,8 +28,6 @@ These developments led to the theory of conservation of energy, formalized large
 
 
 Units of measure
-
-Joule's_Apparatus_(Harper's_Scan).png
 
 In 1843, Joule independently discovered the mechanical equivalent in a series of experiments. The most famous of them used the "Joule apparatus": a descending weight, attached to a string, caused rotation of a paddle immersed in water, practically insulated from heat transfer. It showed that the gravitational potential energy lost by the weight in descending was equal to the internal energy gained by the water through friction with the paddle.
 
@@ -62,7 +60,7 @@ In the context of chemistry, energy is an attribute of a substance as a conseque
 
 Biology
 
-Energy_and_life.svg.]] In biology, energy is an attribute of all biological systems from the biosphere to the smallest living organism. Within an organism it is responsible for growth and development of a biological cell or an organelle of a biological organism. Energy is thus often said to be stored by cells in the structures of molecules of substances such as carbohydrates (including sugars), lipids, and proteins, which release energy when reacted with oxygen in respiration. In human terms, the human equivalent (H-e) (Human energy conversion) indicates, for a given amount of energy expenditure, the relative quantity of energy needed for human metabolism, assuming an average human energy expenditure of 12,500 kJ per day and a basal metabolic rate of 80 watts. For example, if our bodies run (on average) at 80 watts, then a light bulb running at 100 watts is running at 1.25 human equivalents (100 ÷ 80) i.e. 1.25 H-e. For a difficult task of only a few seconds' duration, a person can put out thousands of watts, many times the 746 watts in one official horsepower. For tasks lasting a few minutes, a fit human can generate perhaps 1,000 watts. For an activity that must be sustained for an hour, output drops to around 300; for an activity kept up all day, 150 watts is about the maximum.[6] The human equivalent assists understanding of energy flows in physical and biological systems by expressing energy units in human terms: it provides a "feel" for the use of a given amount of energy.[7]
+.]] In biology, energy is an attribute of all biological systems from the biosphere to the smallest living organism. Within an organism it is responsible for growth and development of a biological cell or an organelle of a biological organism. Energy is thus often said to be stored by cells in the structures of molecules of substances such as carbohydrates (including sugars), lipids, and proteins, which release energy when reacted with oxygen in respiration. In human terms, the human equivalent (H-e) (Human energy conversion) indicates, for a given amount of energy expenditure, the relative quantity of energy needed for human metabolism, assuming an average human energy expenditure of 12,500 kJ per day and a basal metabolic rate of 80 watts. For example, if our bodies run (on average) at 80 watts, then a light bulb running at 100 watts is running at 1.25 human equivalents (100 ÷ 80) i.e. 1.25 H-e. For a difficult task of only a few seconds' duration, a person can put out thousands of watts, many times the 746 watts in one official horsepower. For tasks lasting a few minutes, a fit human can generate perhaps 1,000 watts. For an activity that must be sustained for an hour, output drops to around 300; for an activity kept up all day, 150 watts is about the maximum.[6] The human equivalent assists understanding of energy flows in physical and biological systems by expressing energy units in human terms: it provides a "feel" for the use of a given amount of energy.[7]
 
 Sunlight's radiant energy is also captured by plants as _chemical potential energy_ in photosynthesis, when carbon dioxide and water (two low-energy compounds) are converted into the high-energy compounds carbohydrates, lipids, and proteins. Plants also release oxygen during photosynthesis, which is utilized by living organisms as an electron acceptor, to release the energy of carbohydrates, lipids, and proteins. Release of the energy stored during photosynthesis as heat or light may be triggered suddenly by a spark, in a forest fire, or it may be made available more slowly for animal or human metabolism, when these molecules are ingested, and catabolism is triggered by enzyme action.
 
@@ -125,7 +123,7 @@ In classical physics, energy is a scalar quantity, the canonical conjugate to ti
 
 Transformation
 
-Turbogenerator01.jpg transforms the energy of pressurised steam into electrical energy]] Energy may be transformed between different forms at various efficiencies. Items that transform between these forms are called transducers. Examples of transducers include a battery, from chemical energy to electric energy; a dam: gravitational potential energy to kinetic energy of moving water (and the blades of a turbine) and ultimately to electric energy through an electric generator; or a heat engine, from heat to work.
+transforms the energy of pressurised steam into electrical energy]] Energy may be transformed between different forms at various efficiencies. Items that transform between these forms are called transducers. Examples of transducers include a battery, from chemical energy to electric energy; a dam: gravitational potential energy to kinetic energy of moving water (and the blades of a turbine) and ultimately to electric energy through an electric generator; or a heat engine, from heat to work.
 
 Examples of energy transformation include generating electric energy from heat energy via a steam turbine, or lifting an object against gravity using electrical energy driving a crane motor. Lifting against gravity performs mechanical work on the object and stores gravitational potential energy in the object. If the object falls to the ground, gravity does mechanical work on the object which transforms the potential energy in the gravitational field to the kinetic energy released as heat on impact with the ground. Our Sun transforms nuclear potential energy to other forms of energy; its total mass does not decrease due to that in itself (since it still contains the same total energy even if in different forms), but its mass does decrease when the energy escapes out to its surroundings, largely as radiant energy.
 

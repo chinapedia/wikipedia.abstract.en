@@ -17,7 +17,7 @@ Erfurt is an old Germanic settlement. The earliest evidence of human settlement 
 
 Middle Ages
 
-Schedel_erfurt.jpg, 1493]] Alte_Synagoge_Erfurt.JPG, the oldest in Europe (1094)]] Collegium_Maius_Erfurt.JPG The town is first mentioned in 742 under the name of "Erphesfurt": in that year, Saint Boniface wrote to Pope Zachary to inform him that he had established three dioceses in central Germany, one of them "in a place called Erphesfurt, which for a long time has been inhabited by pagan natives." All three dioceses (the other two were Würzburg and Büraburg) were confirmed by Zachary the next year, though in 755 Erfurt was brought into the diocese of Mainz.[9] That the place was populous already is borne out by archeological evidence, which includes 23 graves and six horse burials from the sixth and seventh centuries.[10]
+, 1493]] , the oldest in Europe (1094)]] The town is first mentioned in 742 under the name of "Erphesfurt": in that year, Saint Boniface wrote to Pope Zachary to inform him that he had established three dioceses in central Germany, one of them "in a place called Erphesfurt, which for a long time has been inhabited by pagan natives." All three dioceses (the other two were Würzburg and Büraburg) were confirmed by Zachary the next year, though in 755 Erfurt was brought into the diocese of Mainz.[9] That the place was populous already is borne out by archeological evidence, which includes 23 graves and six horse burials from the sixth and seventh centuries.[10]
 
 Throughout the Middle Ages, Erfurt was an important trading town because of its location, near a ford across the Gera river. Together with the other five Thuringian woad towns of Gotha, Tennstedt, Arnstadt and Langensalza it was the centre of the German woad trade, which made those cities very wealthy. Erfurt was the junction of important trade routes: the Via Regia was one of the most used east–west roads between France and Russia (via Frankfurt, Erfurt, Leipzig and Wrocław) and another route in the north–south direction was the connection between the Baltic Sea ports (e. g. Lübeck) and the potent upper Italian city-states like Venice and Milan.
 
@@ -29,7 +29,7 @@ In 1379,[13] the University of Erfurt was founded. Together with the University 
 
 Early modern period
 
-Erfurt-1650-Merian.jpg Luftbild_Statthalterei.jpg}}'', seat of the governors of Erfurt (at front)]] Erfurt_(German_States)_1645_10_Ducat_(Portugaloser).jpg of Queen Christina appears on the 1645 Erfurt 10 Ducat (Portugaloser). There are seven gold coins known to exist bearing the effigy of Queen Christina: a unique 1649 five ducat,[14] and six 1645 10 ducat specimen.[15]}}]] In 1501 Martin Luther (1483 - 1546) moved to Erfurt and began his studies at the university. After 1505, he lived at St. Augustine's Monastery as a friar. In 1507 he was ordained as a priest in Erfurt Cathedral. He moved permanently to Wittenberg in 1511. Erfurt was an early adopter of the Protestant Reformation, in 1521.[16]
+}}'', seat of the governors of Erfurt (at front)]] of Queen Christina appears on the 1645 Erfurt 10 Ducat (Portugaloser). There are seven gold coins known to exist bearing the effigy of Queen Christina: a unique 1649 five ducat,[14] and six 1645 10 ducat specimen.[15]}}]] In 1501 Martin Luther (1483 - 1546) moved to Erfurt and began his studies at the university. After 1505, he lived at St. Augustine's Monastery as a friar. In 1507 he was ordained as a priest in Erfurt Cathedral. He moved permanently to Wittenberg in 1511. Erfurt was an early adopter of the Protestant Reformation, in 1521.[16]
 
 In 1530, the city became one of the first in Europe to be officially bi-confessional with the Hammelburg Treaty. It kept that status through all the following centuries. The later 16th and the 17th century brought a slow economic decline of Erfurt. Trade shrank, the population was falling and the university lost its influence. The city's independence was endangered. In 1664, the city and surrounding area were brought under the dominion of the Electorate of Mainz and the city lost its independence. The Electorate built a huge fortress on Petersberg hill between 1665 and 1726 to control the city and instituted a governor to rule Erfurt.
 
@@ -37,7 +37,7 @@ During the late 18th century, Erfurt saw another cultural peak. Governor Karl Th
 
 Erfurt during the Napoleonic Wars
 
-Die_Napoleonshöhe_im_Steiger_bei_Erfurt_von_NH_Dornheim.jpg's birthday, this Greek-style temple with grotto, flowerbeds and fountain in the __ was burned in November 1813 and completely destroyed by Erfurters and their besiegers in 1814.]] Erfurt became part of the Kingdom of Prussia in 1802, to compensate for territories Prussia lost to France on the Left Bank of the Rhine.[17][18] In the Capitulation of Erfurt the city, its 12,000 Prussian and Saxon defenders under William VI, Prince of Orange-Nassau, 65 artillery pieces, and the Petersberg Citadel and Cyriaksburg Citadel Cyriaksburg were handed over to the French on 16 October 1806;[19] At the time of the capitulation, Joachim Murat, Marshal of France, had about 16,000 troops near Erfurt.[20] With the attachment of the Saxe-Weimar territory of Blankenhain, the city became part of the First French Empire in 1806 as the Principality of Erfurt, directly subordinate to Napoleon as an "imperial state domain" (), separate from the Confederation of the Rhine, which the surrounding Thuringian states had joined.[21] Erfurt was administered by a civilian and military Senate[22] (__)[23] under a French governor, based in the , previously the seat of city's governor under the Electorate.[24] Napoleon first visited the principality on 23 July 1807, inspecting the citadels and fortifications.[25] In 1808, the Congress of Erfurt was held with Napoleon and Alexander I of Russia visiting the city.[26]
+'s birthday, this Greek-style temple with grotto, flowerbeds and fountain in the __ was burned in November 1813 and completely destroyed by Erfurters and their besiegers in 1814.]] Erfurt became part of the Kingdom of Prussia in 1802, to compensate for territories Prussia lost to France on the Left Bank of the Rhine.[17][18] In the Capitulation of Erfurt the city, its 12,000 Prussian and Saxon defenders under William VI, Prince of Orange-Nassau, 65 artillery pieces, and the Petersberg Citadel and Cyriaksburg Citadel Cyriaksburg were handed over to the French on 16 October 1806;[19] At the time of the capitulation, Joachim Murat, Marshal of France, had about 16,000 troops near Erfurt.[20] With the attachment of the Saxe-Weimar territory of Blankenhain, the city became part of the First French Empire in 1806 as the Principality of Erfurt, directly subordinate to Napoleon as an "imperial state domain" (), separate from the Confederation of the Rhine, which the surrounding Thuringian states had joined.[21] Erfurt was administered by a civilian and military Senate[22] (__)[23] under a French governor, based in the , previously the seat of city's governor under the Electorate.[24] Napoleon first visited the principality on 23 July 1807, inspecting the citadels and fortifications.[25] In 1808, the Congress of Erfurt was held with Napoleon and Alexander I of Russia visiting the city.[26]
 
 During their administration, the French introduced street lighting and a tax on foreign horses to pay for maintaining the road surface.[27] The suffered under the French occupation, with its inventory being auctioned off to other local churches – including the organ, bells and even the tower of the chapel (__) – and the former monastery's library being donated to the University of Erfurt (and then to the Boineburg Library when the university closed in 1816).[28] Similarly the Cyriaksburg Citadel was damaged by the French, with the city-side walls being partially dismantled in the hunt for imagined treasures from the convent, workers being paid from the sale of the building materials.[29]
 
@@ -51,7 +51,7 @@ After the Congress of Vienna, Erfurt was restored to Prussia on 21 June 1815, be
 
 Since 1815
 
-Kaffeetrichter2.JPG}} style)]] Kieler_Straße_Erfurt.JPG style from 1930]] Bundesarchiv_Bild_183-J0422-0203-002,_Erfurt,_Hotel_"Erfurter_Hof".jpg and West German heads of government in 1970]] After the 1848 Revolution, many Germans desired to have a united national state. An attempt in this direction was the failed Erfurt Union of German states in 1850.
+}} style)]] style from 1930]] and West German heads of government in 1970]] After the 1848 Revolution, many Germans desired to have a united national state. An attempt in this direction was the failed Erfurt Union of German states in 1850.
 
 The Industrial Revolution reached Erfurt in the 1840s, when the Thuringian Railway connecting Berlin and Frankfurt was built. During the following years, many factories in different sectors were founded. One of the biggest was the "Royal Gun Factory of Prussia" in 1862. After the Unification of Germany in 1871, Erfurt moved from the southern border of Prussia to the centre of Germany, so the fortifications of the city were no longer needed. The demolition of the city fortifications in 1873 led to a construction boom in Erfurt, because it was now possible to build in the area formerly occupied by the city walls and beyond. Many public and private buildings emerged and the infrastructure (such as a tramway, hospitals, and schools) improved rapidly. The number of inhabitants grew from 40,000 around 1870 to 130,000 in 1914 and the city expanded in all directions.
 
@@ -63,12 +63,10 @@ Bombed as a target of the Oil Campaign of World War II, Erfurt suffered only lim
 
 On 19 March 1970, the East and West German heads of government Willi Stoph and Willy Brandt met in Erfurt, the first such meeting since the division of Germany. During the 1970s and 1980s, as the economic situation in GDR worsened, many old buildings in city centre decayed, while the government fought against the housing shortage by building large settlements in the periphery. The Peaceful Revolution of 1989/1990 led to German reunification.
 
-DDR_Street_signs.jpg With the re-formation of the state of Thuringia in 1990, the city became the state capital. After reunification, a deep economic crisis occurred in Eastern Germany. Many factories closed and many people lost their jobs and moved to the former West Germany. At the same time, many buildings were redeveloped and the infrastructure improved massively. In 1994, the new university was opened, as was the Fachhochschule in 1991. Between 2005 and 2008, the economic situation improved as the unemployment rate decreased and new enterprises developed. In addition, the population began to increase once again.
+With the re-formation of the state of Thuringia in 1990, the city became the state capital. After reunification, a deep economic crisis occurred in Eastern Germany. Many factories closed and many people lost their jobs and moved to the former West Germany. At the same time, many buildings were redeveloped and the infrastructure improved massively. In 1994, the new university was opened, as was the Fachhochschule in 1991. Between 2005 and 2008, the economic situation improved as the unemployment rate decreased and new enterprises developed. In addition, the population began to increase once again.
 
 
 Geography and demographics
-
-Erfurt.Gera_Fluss.jpg
 
 Topography
 
@@ -80,7 +78,7 @@ Erfurt has a humid continental climate (Dfb) or an oceanic climate (_Cfb_) accor
 
 Administrative divisions
 
-Erfurt-Ortsteile.png Erfurt abuts the districts of Sömmerda (municipalities Witterda, Elxleben, Walschleben, Riethnordhausen, Nöda, Alperstedt, Großrudestedt, Udestedt, Kleinmölsen and Großmölsen) in the north, Weimarer Land (municipalities Niederzimmern, Nohra, Mönchenholzhausen and Klettbach) in the east, Ilm-Kreis (municipalities Kirchheim, Rockhausen and Amt Wachsenburg) in the south and Gotha (municipalities Nesse-Apfelstädt, Nottleben, Zimmernsupra and Bienstädt) in the west.
+Erfurt abuts the districts of Sömmerda (municipalities Witterda, Elxleben, Walschleben, Riethnordhausen, Nöda, Alperstedt, Großrudestedt, Udestedt, Kleinmölsen and Großmölsen) in the north, Weimarer Land (municipalities Niederzimmern, Nohra, Mönchenholzhausen and Klettbach) in the east, Ilm-Kreis (municipalities Kirchheim, Rockhausen and Amt Wachsenburg) in the south and Gotha (municipalities Nesse-Apfelstädt, Nottleben, Zimmernsupra and Bienstädt) in the west.
 
 The city itself is divided into 53 districts. The centre is formed by the district __ (old town) and the districts __ in the northwest, __ in the northeast, __ in the east, __ in the southeast, __ in the southwest and __ in the west. More former industrial districts are __ (incorporated in 1911), __ and __ in the north. Another group of districts is marked by Plattenbau settlements, constructed during the GDR period: __, __, __, __ and __ in the northern as well as __, __ and __ in the southern city parts.
 
@@ -123,8 +121,6 @@ Finally, there are many villages with an average population of approximately 1,0
 -   Windischholzhausen (1994)
 
 Demographics
-
-Population_development_of_Erfurt_1493-2014_(small).svg
 
   ------------------------------------------------- ------------- -------------------------------
   THE LARGEST GROUPS OF FOREIGN RESIDENTS[60] |-\   Nationality   Population (31 December 2017)
@@ -195,13 +191,13 @@ On 12 April 2008, a version of Verdi's opera __ directed by Johann Kresnik opene
 
 Sport
 
-Luftbild_Gunda_Niemann_Stirnemann_Halle.jpg The Messe Erfurt serves as home court for the Oettinger Rockets, a professional basketball team in Germany's first division, the Basketball Bundesliga.
+The Messe Erfurt serves as home court for the Oettinger Rockets, a professional basketball team in Germany's first division, the Basketball Bundesliga.
 
 Notable types of sport in Erfurt are athletics, ice skating, cycling (with the oldest velodrome in use in the world, opened in 1885), swimming, handball, volleyball, tennis and football. The city's football club is member of and based in with a capacity of 20,000. The __ was the second indoor speed skating arena in Germany.
 
 Cityscape
 
-Brühlervorstadt.JPG}}'' in Brühlervorstadt district]] Erfurt's cityscape features a medieval core of narrow, curved alleys in the centre surrounded by a belt of __ architecture, created between 1873 and 1914. In 1873, the city's fortifications were demolished and it became possible to build houses in the area in front of the former city walls. In the following years, Erfurt saw a construction boom. In the northern area (districts Andreasvorstadt, Johannesvorstadt and Ilversgehofen) tenements for the factory workers were built whilst the eastern area (Krämpfervorstadt and Daberstedt) featured apartments for white-collar workers and clerks and the southwestern part (Löbervorstadt and Brühlervorstadt) with its beautiful valley landscape saw the construction of villas and mansions of rich factory owners and notables.
+}}'' in Brühlervorstadt district]] Erfurt's cityscape features a medieval core of narrow, curved alleys in the centre surrounded by a belt of __ architecture, created between 1873 and 1914. In 1873, the city's fortifications were demolished and it became possible to build houses in the area in front of the former city walls. In the following years, Erfurt saw a construction boom. In the northern area (districts Andreasvorstadt, Johannesvorstadt and Ilversgehofen) tenements for the factory workers were built whilst the eastern area (Krämpfervorstadt and Daberstedt) featured apartments for white-collar workers and clerks and the southwestern part (Löbervorstadt and Brühlervorstadt) with its beautiful valley landscape saw the construction of villas and mansions of rich factory owners and notables.
 
 During the interwar period, some settlements in Bauhaus style were realized, often as housing cooperatives.
 
@@ -215,7 +211,7 @@ Sights and architectural heritage
 
 Churches, monasteries and synagogues
 
-Erfurter_Dom_von_Oben_08.jpg The city centre has about 25 churches and monasteries, most of them in Gothic style, some also in Romanesque style or a mixture of Romanesque and Gothic elements, and a few in later styles. The various steeples characterize the medieval centre and led to one of Erfurt's nicknames as the "Thuringian Rome".[71]
+The city centre has about 25 churches and monasteries, most of them in Gothic style, some also in Romanesque style or a mixture of Romanesque and Gothic elements, and a few in later styles. The various steeples characterize the medieval centre and led to one of Erfurt's nicknames as the "Thuringian Rome".[71]
 
 Catholic churches and monasteries
 
@@ -271,7 +267,7 @@ File:Alte Synagoge Erfurt.JPG|Old Synagogue File:Kleine Synagoge Erfurt2.JPG|Sma
 
 Secular architecture
 
-Besides the religious buildings there is a lot of historic secular architecture in Erfurt, mostly concentrated in the city centre, but some 19th- and 20th-century buildings are located on the outskirts. Michaelisstraße_Erfurt.JPG
+Besides the religious buildings there is a lot of historic secular architecture in Erfurt, mostly concentrated in the city centre, but some 19th- and 20th-century buildings are located on the outskirts.
 
 Street and square ensembles
 
@@ -290,7 +286,7 @@ File:Krämerbrücke Erfurt II, Germany2.jpg| File:P1010412-Montage.jpg%7CChristm
 
 Fortifications
 
-Zitadelle_Erfurt.jpg]] From 1066 until 1873 the old town of Erfurt was encircled by a fortified wall. About 1168 this was extended to run around the western side of Petersberg hill, enclosing it within the city boundaries.[85]
+]] From 1066 until 1873 the old town of Erfurt was encircled by a fortified wall. About 1168 this was extended to run around the western side of Petersberg hill, enclosing it within the city boundaries.[85]
 
 After German Unification in 1871, Erfurt became part of the newly created German Empire. The threat to the city from its Saxon neighbours and from Bavaria was no longer present, so it was decided to dismantle the city walls. Only a few remnants remain today. A piece of inner wall can be found in a small park at the corner Juri-Gagarin-Ring and Johannesstraße and another piece at the flood ditch (_Flutgraben_) near Franckestraße. There is also a small restored part of the wall in the Brühler Garten, behind the Catholic orphanage. Only one of the wall's fortified towers was left standing, on Boyneburgufer, but this was destroyed in an air raid in 1944.[86]
 
@@ -323,8 +319,6 @@ During recent years, the economic situation of the city improved: the unemployme
 
 Agriculture, industry and services
 
-Optima-Werk_Erfurt.JPG Anger_1_Erfurt_Kaufhaus_Römischer_Kaiser_686-vLh.jpg
-
 Farming has a great tradition in Erfurt: the cultivation of woad made the city rich during the Middle Ages. Today, horticulture and the production of flower seeds is still an important business in Erfurt. There is also growing of fruits (like apples, strawberries and sweet cherries), vegetables (e.g. cauliflowers, potatoes, cabbage and sugar beets) and grain on more than 60% of the municipal territory.
 
 Industrialization in Erfurt started around 1850. Until World War I, many factories were founded in different sectors like engine building, shoes, guns, malt and later electro-technics, so that there was no industrial monoculture in the city. After 1945, the companies were nationalized by the GDR government, which led to the decline of some of them. After reunification, nearly all factories were closed, either because they failed to successfully adopt to a free market economy or because the German government sold them to west German businessmen who closed them to avoid competition to their own enterprises. However, in the early 1990s the federal government started to subsidize the foundation of new companies. It still took a long time before the economic situation stabilized around 2006. Since this time, unemployment has decreased and overall, new jobs were created. Today, there are many small and medium-sized companies in Erfurt with electro-technics, semiconductors and photovoltaics in focus. Building engines, the production of food (i.e. a big noodle factory), the Braugold brewery, and Born Feinkost a producer of Thuringian mustard, are still an important industries.
@@ -333,7 +327,7 @@ Erfurt is an __ (which means "supra-centre" according to Central place theory) i
 
 Transport
 
-Erfurt_Hbf_Front.JPG, Erfurt's main railway station.]]
+, Erfurt's main railway station.]]
 
 By rail
 
@@ -349,7 +343,7 @@ The two Autobahnen crossing each other nearby at _Erfurter Kreuz_ are the Bundes
 
 By light rail and bus
 
-Erfurt_Straßenbahn_Schlösserstr.JPG The Erfurt public transport system is marked by the area-wide (light rail) network, established as a tram system in 1883, upgraded to a light rail ( __ ) system in 1997,[90] and continually expanded and upgraded through the 2000s. Today, there are six _Stadtbahn_ lines running every ten minutes on every light rail route.
+The Erfurt public transport system is marked by the area-wide (light rail) network, established as a tram system in 1883, upgraded to a light rail ( __ ) system in 1997,[90] and continually expanded and upgraded through the 2000s. Today, there are six _Stadtbahn_ lines running every ten minutes on every light rail route.
 
 Additionally, Erfurt operates a bus system, which connects the sparsely populated outer districts of the region to the city center. Both systems are organized by _SWE EVAG_, a transit company owned by the city administration. Trolleybuses were in service in Erfurt from 1948 until 1975, but are no longer in service.
 

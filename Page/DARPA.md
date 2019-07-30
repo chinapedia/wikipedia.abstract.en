@@ -1,4 +1,4 @@
-DARPA_headquarters.jpg neighborhood of Arlington. The agency is currently located in a new building at 675 North Randolph St.]]
+neighborhood of Arlington. The agency is currently located in a new building at 675 North Randolph St.]]
 
 The DEFENSE ADVANCED RESEARCH PROJECTS AGENCY (DARPA) is an agency of the United States Department of Defense responsible for the development of emerging technologies for use by the military.
 
@@ -17,8 +17,6 @@ Currently, their mission statement is "to make pivotal investments in breakthrou
 
 
 History
-
-DARPA_through_50_years.ogv
 
 Early history (1959–1969)
 

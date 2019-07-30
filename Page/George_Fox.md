@@ -3,7 +3,7 @@ GEORGE FOX (July 1624[1] – 13 January 1691) was an English Dissenter, who was 
 
 Early life
 
-George-fox-fenny-drayton-memorial-inscription.jpg, England]]
+, England]]
 
 George Fox was born in the strongly Puritan village of Drayton-in-the-Clay, Leicestershire, England (now known as Fenny Drayton), 15 miles (24 km) west-south-west of Leicester. He was the eldest of four children of Christopher Fox, a successful weaver, called "Righteous Christer"[2] by his neighbours, and his wife, Mary Lago. Christopher Fox was a churchwarden and was relatively wealthy; when he died in the late 1650s he left his son a substantial legacy.[3] From childhood Fox was of a serious, religious disposition. There is no record of any formal schooling but he learned to read and write. "When I came to eleven years of age", he said, "I knew pureness and righteousness; for, while I was a child, I was taught how to walk to be kept pure. The Lord taught me to be faithful, in all things, and to act faithfully two ways; viz., inwardly to God, and outwardly to man."[4] Known as an honest person, he also proclaimed, "The Lord taught me to be faithful in all things...and to keep to Yea and Nay in all things."[5]
 
@@ -18,7 +18,7 @@ Driven by his "inner voice", Fox left Drayton-in-the-Clay in September 1643, mov
 
 Over the next few years Fox continued to travel around the country as his particular religious beliefs took shape. At times he actively sought the company of clergy but found no comfort from them as they seemed unable to help with the matters troubling him. One, in Warwickshire, advised him to take tobacco (which Fox disliked) and sing psalms; another, in Coventry, lost his temper when Fox accidentally stood on a flower in his garden; a third suggested bloodletting.[12] He became fascinated by the Bible, which he studied assiduously.[13] He hoped to find among the "English Dissenters" a spiritual understanding absent from the established church but fell out with one group, for example, because he maintained that women had souls:[14]
 
-AssemblyOfQuakers.jpg He thought intensely about the Temptation of Christ, which he compared to his own spiritual condition, but drew strength from his conviction that God would support and preserve him.[15] In prayer and meditation he came to a greater understanding of the nature of his faith and what it required from him; this process he called "opening". He also came to what he deemed a deep inner understanding of standard Christian beliefs. Among his ideas were:
+He thought intensely about the Temptation of Christ, which he compared to his own spiritual condition, but drew strength from his conviction that God would support and preserve him.[15] In prayer and meditation he came to a greater understanding of the nature of his faith and what it required from him; this process he called "opening". He also came to what he deemed a deep inner understanding of standard Christian beliefs. Among his ideas were:
 
 -   Rituals can be safely ignored, as long as one experiences a true spiritual conversion.
 -   The qualification for ministry is given by the Holy Spirit, not by ecclesiastical study. This implies that anyone has the right to minister, assuming the Spirit guides them, including women and children.[16]
@@ -45,8 +45,6 @@ In prison George Fox continued writing and preaching, feeling that imprisonment 
 
 Encounters with Cromwell
 
-Oliver_Cromwell_-_Statue_-_Palace_of_Westminster_-_London_-_240404.jpg
-
 Parliamentarians grew suspicious of monarchist plots and fearful that the group travelling with Fox aimed to overthrow the government: by this time his meetings were regularly attracting crowds of over a thousand. In early 1655 he was arrested at Whetstone, Leicestershire and taken to London under armed guard. In March[42] he was brought before the Lord Protector, Oliver Cromwell. After affirming that he had no intention of taking up arms Fox was able to speak with Cromwell for most of the morning about the Friends and advised him to listen to God's voice and obey it so that, as Fox left, Cromwell "with tears in his eyes said, 'Come again to my house; for if thou and I were but an hour of a day together, we should be nearer one to the other'; adding that he wished [Fox] no more ill than he did to his own soul."[43]
 
 This episode was later recalled as an example of "speaking truth to power", a preaching technique by which subsequent Quakers hoped to influence the powerful.[44] Although not used until the 20th century, the phrase is related to the ideas of plain speech and simplicity which Fox practiced, but motivated by the more worldly goal of eradicating war, injustice and oppression.
@@ -62,7 +60,7 @@ After Nayler's own release later the same year he rode into Bristol triumphantly
 
 Suffering and growth
 
-George_Fox.jpg The persecutions of these years—with about a thousand Friends in prison by 1657—hardened Fox's opinions of traditional religious and social practices. In his preaching, he often emphasized the Quaker rejection of baptism by water; this was a useful way of highlighting how the focus of Friends on inward transformation differed from what he saw as the superstition of outward ritual. It was also deliberately provocative to adherents of those practices, providing opportunities for Fox to argue with them on matters of scripture. This pattern was also found in his court appearances: when a judge challenged him to remove his hat, Fox riposted by asking where in the Bible such an injunction could be found.
+The persecutions of these years—with about a thousand Friends in prison by 1657—hardened Fox's opinions of traditional religious and social practices. In his preaching, he often emphasized the Quaker rejection of baptism by water; this was a useful way of highlighting how the focus of Friends on inward transformation differed from what he saw as the superstition of outward ritual. It was also deliberately provocative to adherents of those practices, providing opportunities for Fox to argue with them on matters of scripture. This pattern was also found in his court appearances: when a judge challenged him to remove his hat, Fox riposted by asking where in the Bible such an injunction could be found.
 
 The Society of Friends became increasingly organized towards the end of the decade. Large meetings were held, including a three-day event in Bedfordshire, the precursor of the present Britain Yearly Meeting system.[52] Fox commissioned two Friends to travel around the country collecting the testimonies of imprisoned Quakers, as evidence of their persecution; this led to the establishment in 1675 of Meeting for Sufferings, which has continued to the present day.[53]
 
@@ -84,7 +82,7 @@ Fox married Margaret Fell of Swarthmoor Hall, a lady of high social position and
 
 Travels in America and Europe
 
-George_Fox_Stone,_Flushing,_NY_IMG_3655.JPG, New York, located across from the John Bowne House commemorates the place where George Fox preached a sermon on 7 June 1672.]]
+, New York, located across from the John Bowne House commemorates the place where George Fox preached a sermon on 7 June 1672.]]
 
 By 1671 Fox had recovered and Margaret had been released by order of the King. Fox resolved to visit the English settlements in America and the West Indies, remaining there for two years, possibly to counter any remnants of Perrot's teaching there.[63] After a voyage of seven weeks, during which dolphins were caught and eaten, the party arrived in Barbados on 3 October 1671.[64] From there, Fox sent an epistle to Friends spelling out the role of women's meetings in the Quaker marriage ceremony, a point of controversy when he returned home. One of his proposals suggested that the prospective couple should be interviewed by an all-female meeting prior to the marriage to determine whether there were any financial or other impediments. Though women's meetings had been held in London for the last ten years, this was an innovation in Bristol and the north-west of England, which many there felt went too far.[65]
 
@@ -92,7 +90,7 @@ Fox wrote a letter to the governor and assembly of the island in which he refute
 
 Elsewhere in the colonies, Fox helped to establish organizational systems for the Friends, along the same lines as he had done in Britain.[68] He also preached to many non-Quakers, some but not all of whom were converted.
 
-AmsterdamDamsquar.jpg for Friends in the Netherlands and German states.]]
+for Friends in the Netherlands and German states.]]
 
 Following extensive travels around the various American colonies, George Fox returned to England in June 1673 confident that his movement was firmly established there. Back in England, however, he found his movement sharply divided among provincial Friends (such as William Rogers, John Wilkinson and John Story) who resisted establishment of women's meetings and the power of those who resided in or near London. With William Penn and Robert Barclay as allies of Fox, the challenge to Fox's leadership was eventually put down.[69] But in the midst of the dispute, Fox was imprisoned again for refusing to swear oaths after being captured at Armscote, Worcestershire.[70] His mother died shortly after hearing of his arrest and Fox's health began to suffer.[71] Margaret Fell petitioned the king for his release,[72] which was granted,[73] but Fox felt too weak to take up his travels immediately. Recuperating at Swarthmoor, he began dictating what would be published after his death as his journal and devoted his time to his written output: letters, both public and private, as well as books and essays.[74] Much of his energy was devoted to the topic of oaths, having become convinced of its importance to Quaker ideas. By refusing to swear, he felt that he could bear witness to the value of truth in everyday life, as well as to God, whom he associated with truth and the inner light.
 
@@ -101,7 +99,7 @@ For three months in 1677 and a month in 1684, Fox visited the Friends in the Net
 
 Last years
 
-George_Fox_marker_Bunhill_Fields.jpg, next to the Meeting House[76]]] In the last years of his life, Fox continued to participate in the London Meetings, and still made representations to Parliament about the sufferings of Friends. The new King, James II, pardoned religious dissenters jailed for failure to attend the established church, leading to the release of about 1,500 Friends. Though the Quakers lost influence after the Glorious Revolution, which deposed James II, the Act of Toleration 1689 put an end to the uniformity laws under which Quakers had been persecuted, permitting them to assemble freely.
+, next to the Meeting House[76]]] In the last years of his life, Fox continued to participate in the London Meetings, and still made representations to Parliament about the sufferings of Friends. The new King, James II, pardoned religious dissenters jailed for failure to attend the established church, leading to the release of about 1,500 Friends. Though the Quakers lost influence after the Glorious Revolution, which deposed James II, the Act of Toleration 1689 put an end to the uniformity laws under which Quakers had been persecuted, permitting them to assemble freely.
 
 Two days after preaching, as usual, at the Gracechurch Street Meeting House in London, George Fox died between 9 and 10 p.m. on 13 January 1691. He was interred in the Quaker Burying Ground, Bunhill Fields, three days later in the presence of thousands of mourners.[77]
 

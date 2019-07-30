@@ -1,4 +1,4 @@
-United_Nations_Flags_-_cropped.jpg members' national flags]] Lenini_mäetipp_(J._Künnap).jpg with the flag of Estonia at the top of Lenin Peak () in 1989.]] A FLAG is a piece of fabric (most often rectangular or quadrilateral) with a distinctive design and colours. It is used as a symbol, a signalling device, or for decoration. The term _flag_ is also used to refer to the graphic design employed, and flags have evolved into a general tool for rudimentary signalling and identification, especially in environments where communication is challenging (such as the maritime environment, where semaphore is used). The study of flags is known as "vexillology" from the Latin _vexillum_, meaning "flag" or "banner".
+members' national flags]] with the flag of Estonia at the top of Lenin Peak () in 1989.]] A FLAG is a piece of fabric (most often rectangular or quadrilateral) with a distinctive design and colours. It is used as a symbol, a signalling device, or for decoration. The term _flag_ is also used to refer to the graphic design employed, and flags have evolved into a general tool for rudimentary signalling and identification, especially in environments where communication is challenging (such as the maritime environment, where semaphore is used). The study of flags is known as "vexillology" from the Latin _vexillum_, meaning "flag" or "banner".
 
 National flags are patriotic symbols with widely varied interpretations that often include strong military associations because of their original and ongoing use for that purpose. Flags are also used in messaging, advertising, or for decorative purposes.
 
@@ -19,14 +19,12 @@ During the peak of the age of sail, beginning in the early 17th century, it was 
 
 Use of flags outside of military or naval context begins only with the rise of nationalist sentiment by the end of the 18th century; the earliest national flags date to that period, and during the 19th century it became common for every sovereign state to introduce a national flag.
 
-Flags_at_half-staff_outside_Central_Plaza.jpg outside Central Plaza, Hong Kong, after the 2008 Sichuan earthquake. The Flag of Saudi Arabia is exempted.]]
+outside Central Plaza, Hong Kong, after the 2008 Sichuan earthquake. The Flag of Saudi Arabia is exempted.]]
 
 
 National flags
 
-Meeting_Place_Monument.JPG
-
-One of the most popular uses of a flag is to symbolise a nation or country. Some national flags have been particularly inspirational to other nations, countries, or subnational entities in the design of their own flags. Some prominent examples include: Dannebrog_isamsø.jpg ]]
+One of the most popular uses of a flag is to symbolise a nation or country. Some national flags have been particularly inspirational to other nations, countries, or subnational entities in the design of their own flags. Some prominent examples include: ]]
 
 -   The flag of Denmark, the _Dannebrog_, is attested in 1478, and is the oldest national flag still in use. It inspired the cross design of the other Nordic countries: Norway, Sweden, Finland, Iceland, and regional Scandinavian flags for the Faroe Islands, Åland, Scania and Bornholm, as well as flags for the non-Scandinavian Shetland and Orkney.[4]
 -   The flag of the Netherlands is the oldest tricolour. Its three colours of red, white and blue go back to Charlemagne's time, the 9th century. The coastal region of what today is the Netherlands was then known for its cloth in these colours. Maps from the early 16th century already put flags in these colours next to this region, like Texeira's map of 1520. A century before that, during the 15th century, the three colours were mentioned as the coastal signals for this area, with the three bands straight or diagonal, single or doubled. As state flag it first appeared around 1572 as the Prince's Flag in orange–white–blue. Soon the more famous red–white–blue began appearing, becoming the prevalent version from around 1630. Orange made a comeback during the civil war of the late 18th century, signifying the orangist or pro-stadtholder party. During World War II the pro-Nazi NSB used it. Any symbolism has been added later to the three colours, although the orange comes from the House of Orange-Nassau. This use of orange comes from Nassau, which today uses orange-blue, not from Orange, which today uses red-blue. However, the usual way to show the link with the House of Orange-Nassau is the orange pennant above the red-white-blue. It is said that the Dutch Tricolour has inspired[5] many flags but most notably those of Russia, New York City, and South Africa (the 1928–94 flag as well the current flag). As the probable inspiration for the Russian flag, it is the source too for the Pan-Slavic colours red, white and blue, adopted by many Slavic states and peoples as their symbols; examples are Slovakia, Serbia, and Slovenia.
@@ -34,7 +32,7 @@ One of the most popular uses of a flag is to symbolise a nation or country. Some
 -   The Union Flag (Union Jack) of the United Kingdom is the most commonly used. British colonies typically flew a flag based on one of the ensigns based on this flag, and many former colonies have retained the design to acknowledge their cultural history. Examples: Australia, Fiji, New Zealand, Tuvalu, and also the Canadian provinces of Manitoba, Ontario and British Columbia, and the American state of Hawaii; _see commons:Flags based on British ensigns_.
 -   The flag of the United States is nicknamed _The Stars and Stripes_ or _Old Glory_.[6] Some nations imitated this flag so as to symbolise their similarity to the United States and/or the American Revolution. Examples: Liberia,[7] Chile, Uruguay, Taiwan (ROC), and the French region of Brittany.
 
-Flag_of_Ethiopia_(1975–1987).svg's colours inspired the colours of many African national flags.]]
+'s colours inspired the colours of many African national flags.]]
 
 -   Ethiopia was seen as a model by emerging African states of the 1950s and 1960s, as it was one of the oldest independent states in Africa. Accordingly, its flag became the source of the Pan-African colours, or 'Rasta colours'. Examples: Benin, Togo, Senegal, Ghana, Mali, Guinea.
 -   The flag of Turkey, which is very similar to the last flag of the old Ottoman Empire, has been an inspiration for the flag designs of many other Muslim nations. During the time of the Ottomans the crescent began to be associated with Islam and this is reflected on the flags of Algeria, Azerbaijan, Comoros, Libya, Mauritania, Pakistan, Tunisia and Maldives
@@ -51,7 +49,7 @@ A _civil_ flag is a version of the national flag that is flown by civilians on n
 
 War flags
 
-Ensign_of_the_Royal_Air_Force.svg's Royal Air Force, the Ensign of the RAF displays the RAF roundel that is also displayed on the fusalage and wings of British warplanes.]]
+'s Royal Air Force, the Ensign of the RAF displays the RAF roundel that is also displayed on the fusalage and wings of British warplanes.]]
 
 Several countries, including the British Army and the Royal Navy (White Ensign) of the United Kingdom (Great Britain) and the Soviet Union have had unique flags flown by their armed forces separately, rather than the national flag.
 
@@ -59,7 +57,7 @@ Other countries' armed forces (such as those of the United States or Switzerland
 
 Large versions of the war flag flown on the warships of countries' navies are known as battle ensigns. In addition besides flying the national standard or a military services' emblem flag at a military fort, base, station or post and at sea at the stern (rear) or main top mast of a warship, a Naval Jack flag and other Maritime flags, pennants and emblems are flown at the bow (front). In times of war waving a white flag is a banner of truce, talks/negotiations or surrender.
 
-Four distinctive African flags currently in the collection of the National Maritime Museum in Britain were flown in action by Itsekiri ships under the control of Nana Olomu during conflict in the late 19th century. One is the flag generally known as the Benin Empire flag and one is referred to as Nana Olomu's flag.[8] Flag_of_the_United_Nations.svg, sky blue field with north polar view looking down on a world map in white with two olive branches wreaths curved around. First version presented April–June 1945 to the United Nations Organization (UNO) at the San Francisco Conference, second version adopted by the U.N., December 1946]]
+Four distinctive African flags currently in the collection of the National Maritime Museum in Britain were flown in action by Itsekiri ships under the control of Nana Olomu during conflict in the late 19th century. One is the flag generally known as the Benin Empire flag and one is referred to as Nana Olomu's flag.[8] , sky blue field with north polar view looking down on a world map in white with two olive branches wreaths curved around. First version presented April–June 1945 to the United Nations Organization (UNO) at the San Francisco Conference, second version adopted by the U.N., December 1946]]
 
 International flags
 
@@ -68,7 +66,7 @@ Among international flags are the Flag of the United Nations, the Olympic flag, 
 
 At sea
 
-ICS_Delta.svg Arndt_Flag_Tallinn_31_July_2014.JPG Flags are particularly important at sea, where they can mean the difference between life and death, and consequently where the rules and regulations for the flying of flags are strictly enforced. A national flag flown at sea is known as an ensign. A courteous, peaceable merchant ship or yacht customarily flies its ensign (in the usual ensign position), together with the flag of whatever nation it is currently visiting at the mast (known as a courtesy flag). To fly one's ensign alone in foreign waters, a foreign port or in the face of a foreign warship traditionally indicates a willingness to fight, with cannon, for the right to do so. As of 2009, this custom is still taken seriously by many naval and port authorities and is readily enforced in many parts of the world by boarding, confiscation and other civil penalties.
+Flags are particularly important at sea, where they can mean the difference between life and death, and consequently where the rules and regulations for the flying of flags are strictly enforced. A national flag flown at sea is known as an ensign. A courteous, peaceable merchant ship or yacht customarily flies its ensign (in the usual ensign position), together with the flag of whatever nation it is currently visiting at the mast (known as a courtesy flag). To fly one's ensign alone in foreign waters, a foreign port or in the face of a foreign warship traditionally indicates a willingness to fight, with cannon, for the right to do so. As of 2009, this custom is still taken seriously by many naval and port authorities and is readily enforced in many parts of the world by boarding, confiscation and other civil penalties.
 
 In some countries yacht ensigns are different from merchant ensigns in order to signal that the yacht is not carrying cargo that requires a customs declaration. Carrying commercial cargo on a boat with a yacht ensign is deemed to be smuggling in many jurisdictions. There is a system of international maritime signal flags for numerals and letters of the alphabet. Each flag or pennant has a specific meaning when flown individually. As well, semaphore flags can be used to communicate on an _ad hoc_ basis from ship to ship over short distances. Traditionally, a vessel flying under the courtesy flag of a specific nation, regardless of the vessel's country of registry, is considered to be operating under the law of her 'host' nation.
 
@@ -77,7 +75,7 @@ Another category of maritime flag flown by some United States Government ships i
 
 Shapes and designs
 
-Flag_of_Ohio.svg Flag_of_Nepal.svg, a national flag that is not rectangular.]] Flag_of_Kiribati.svg, a banner of arms ]] Flags are usually rectangular in shape (often in the ratio 2:3, 1:2, or 3:5), but may be of any shape or size that is practical for flying, including square, triangular, or swallow tailed. A more unusual flag shape is that of the flag of Nepal, which is in the shape of two stacked triangles. Other unusually shaped flags include the civil flags of Ohio (a swallowtail); Tampa, Florida; and Pike County, Ohio.[9]
+, a national flag that is not rectangular.]] , a banner of arms ]] Flags are usually rectangular in shape (often in the ratio 2:3, 1:2, or 3:5), but may be of any shape or size that is practical for flying, including square, triangular, or swallow tailed. A more unusual flag shape is that of the flag of Nepal, which is in the shape of two stacked triangles. Other unusually shaped flags include the civil flags of Ohio (a swallowtail); Tampa, Florida; and Pike County, Ohio.[9]
 
 Many flags are dyed through and through to be inexpensive to manufacture, such that the reverse side is the mirror image of the obverse (front) side, generally the side displayed when, from the observer's point of view, the flag flies from pole-side left to right. This presents two possibilities:
 
@@ -86,8 +84,8 @@ Many flags are dyed through and through to be inexpensive to manufacture, such t
 
 Some complex flag designs are not intended to be shown on both sides, requiring separate obverse and reverse sides if made correctly. In these cases there is a design element (usually text) which is not symmetric and should be read in the same direction, regardless of whether the hoist is to the viewer's left or right. These cases can be divided into two types:
 
-1.  The same (asymmetric) design may be duplicated on both sides. Such flags can be manufactured by creating two identical through and through flags and then sewing them back to back, though this can affect the resulting combination's responsiveness to the wind. Depictions of such flags may be marked with the symbol File:IFIS Equal.svg, indicating the reverse is congruent to (rather than a mirror image of) the obverse.
-2.  Rarely, the reverse design may differ, in whole or in part, from that of the obverse. Examples of flags whose reverse differs from the obverse include the flag of Paraguay, the flag of Oregon, and the historical flag of the Soviet Union. Depictions of such flags may be marked with the symbol File:IFIS Two-sided.svg.
+1.  The same (asymmetric) design may be duplicated on both sides. Such flags can be manufactured by creating two identical through and through flags and then sewing them back to back, though this can affect the resulting combination's responsiveness to the wind. Depictions of such flags may be marked with the symbol , indicating the reverse is congruent to (rather than a mirror image of) the obverse.
+2.  Rarely, the reverse design may differ, in whole or in part, from that of the obverse. Examples of flags whose reverse differs from the obverse include the flag of Paraguay, the flag of Oregon, and the historical flag of the Soviet Union. Depictions of such flags may be marked with the symbol .
 
 Common designs on flags include crosses, stripes, and divisions of the surface, or _field_, into bands or quarters—patterns and principles mainly derived from heraldry. A heraldic coat of arms may also be flown as a banner of arms, as is done on both the state flag of Maryland and the flag of Kiribati.
 
@@ -104,8 +102,6 @@ The general parts of a flag are: canton (the upper inner section of the flag), f
 Vertical flags
 
 Vertical flags are sometimes used in lieu of the standard horizontal flag in central and eastern Europe, particularly in the German-speaking countries. This practice came about because the relatively brisk wind needed to display horizontal flags is not common in these countries.[13]
-
-Flag_Types.svg
 
 The standard HORIZONTAL FLAG (no. 1 in the preceding illustration) is nonetheless the form most often used even in these countries.[14]
 
@@ -157,7 +153,7 @@ In certain cases, flag similarities are not coincidental, but the result of a co
 
 Pan-Arab colours
 
-Flag_of_Hejaz_1917.svg, used in Hejaz[29][30]]] The Pan-Arab colours black, white, green, and red are first known from the flag of the Arab Revolt in 1916.[31] The colours were intended to represent certain Arab dynasties.[32] Countries currently using flags with all four Pan-Arab colours include Jordan, Kuwait, Palestine, Sudan and the UAE; several other Arab states use a subset.
+, used in Hejaz[29][30]]] The Pan-Arab colours black, white, green, and red are first known from the flag of the Arab Revolt in 1916.[31] The colours were intended to represent certain Arab dynasties.[32] Countries currently using flags with all four Pan-Arab colours include Jordan, Kuwait, Palestine, Sudan and the UAE; several other Arab states use a subset.
 
 Pan-Slavic colours
 
@@ -165,7 +161,7 @@ The tricolour flag of Russia, inspired by the flag of the Netherlands,[33] was i
 
 The Nordic cross
 
-Nordiske-flag.jpg The oldest flag of the Nordic countries is the flag of Denmark with a description dating from 1748.[35] The design has a cross symbol in a rectangular field, with the center of the cross shifted towards the hoist. This basic design is called the Nordic cross and has been adopted by the other Nordic countries Finland, Iceland, Norway and Sweden as well as the dependent territories of Faroe Islands and Åland. Similar flags are also used as regional flags, most prominently the semi-official flag of Scania.[36] The design has also been used outside the Nordic countries in order to underline a cultural connection; examples are Shetland and Orkney.
+The oldest flag of the Nordic countries is the flag of Denmark with a description dating from 1748.[35] The design has a cross symbol in a rectangular field, with the center of the cross shifted towards the hoist. This basic design is called the Nordic cross and has been adopted by the other Nordic countries Finland, Iceland, Norway and Sweden as well as the dependent territories of Faroe Islands and Åland. Similar flags are also used as regional flags, most prominently the semi-official flag of Scania.[36] The design has also been used outside the Nordic countries in order to underline a cultural connection; examples are Shetland and Orkney.
 
 Stars and stripes
 
@@ -173,7 +169,7 @@ Various flags have been modelled on the flag of the United States. Liberia was f
 
 Red Cross flag
 
-Flag_of_the_Red_Cross.svg The Red Cross on white background as a protection symbol was declared at the First Geneva Convention in 1864. The emblem was formed by reversing the colours of the Swiss flag out of respect to Switzerland.[41]
+The Red Cross on white background as a protection symbol was declared at the First Geneva Convention in 1864. The emblem was formed by reversing the colours of the Swiss flag out of respect to Switzerland.[41]
 
 
 In sports
@@ -184,7 +180,7 @@ Because of their ease of signalling and identification, flags are often used in 
 -   In American and Canadian football, referees use penalty flags to indicate that a foul has been committed in game play. The phrase used for such an indication is _flag on the play_. The flag itself is a small, weighted handkerchief, tossed on the field at the approximate point of the infraction; the intent is usually to sort out the details after the current play from scrimmage has concluded. In American football, the flag is usually yellow; in Canadian football, it is usually orange. In the National Football League, coaches also use red challenge flags to indicate that they wish to contest a ruling on the field.
 -   In yacht racing, flags are used to communicate information from the race committee boat to the racers. Different flags hoisted from the committee boat may communicate a false start, changes in the course, a cancelled race, or other important information. Racing boats themselves may also use flags to symbolise a protest or distress. The flags are often part of the nautical alphabetic system of International maritime signal flags, in which 26 different flags designate the 26 letters of the Latin alphabet.
 
-Auto_Racing_Chequered.svg ]]
+]]
 
 -   In auto and motorcycle racing, racing flags are used to communicate with drivers. Most famously, a checkered flag of black and white squares indicates the end of the race, and victory for the leader. A yellow flag is used to indicate caution requiring slow speed and a red flag requires racers to stop immediately. A black flag is used to indicate penalties.
 
@@ -224,8 +220,6 @@ Flags are often representative of an individual's affinity or allegiance to a co
 
 
 Swimming flags
-
-Flags_-_swim_between_the.png Flags_crossed_-_do_not_swim.png Red_flag_at_beach.jpg
 
 In Australia, Canada, New Zealand, the Philippines, Republic of Ireland and the United Kingdom, a pair of red-yellow flags is used to mark the limits of the bathing area on a beach, usually guarded by surf lifesavers. If the beach is closed, the poles of the flags are crossed. The flags are coloured with a red triangle and a yellow triangle making a rectangular flag, or a red rectangle over a yellow rectangle. On many Australian beaches there is a slight variation with beach condition signalling. A red flag signifies a closed beach (in the UK also other dangers), yellow signifies strong current or difficult swimming conditions, and green represents a beach safe for general swimming. In Ireland, a red and yellow flag indicates that it is safe to swim; a red flag that it is unsafe; and no flag indicates that there are no lifeguards on duty. Blue flags may also be used away from the yellow-red lifesaver area to designate a zone for surfboarding and other small, non-motorised watercraft.
 
@@ -267,13 +261,13 @@ Additionally, a railroad brakeman will typically carry a red flag to make his or
 
 Flagpoles
 
-SienaFlagpole1.jpg. During the battle of Montaperti (1260), Bocca degli Abati, a Sienese spy, brought the Florence flag down causing panic among the Florentine soldiers and ultimately their defeat.]] A flagpole, flagmast, flagstaff, or staff can be a simple support made of wood or metal. If it is taller than can be easily reached to raise the flag, a cord is used, looping around a pulley at the top of the pole with the ends tied at the bottom. The flag is fixed to one lower end of the cord, and is then raised by pulling on the other end. The cord is then tightened and tied to the pole at the bottom. The pole is usually topped by a flat plate or ball called a "truck" (originally meant to keep a wooden pole from splitting) or a finial in a more complex shape. Very high flagpoles may require more complex support structures than a simple pole, such as a guyed mast.
+. During the battle of Montaperti (1260), Bocca degli Abati, a Sienese spy, brought the Florence flag down causing panic among the Florentine soldiers and ultimately their defeat.]] A flagpole, flagmast, flagstaff, or staff can be a simple support made of wood or metal. If it is taller than can be easily reached to raise the flag, a cord is used, looping around a pulley at the top of the pole with the ends tied at the bottom. The flag is fixed to one lower end of the cord, and is then raised by pulling on the other end. The cord is then tightened and tied to the pole at the bottom. The pole is usually topped by a flat plate or ball called a "truck" (originally meant to keep a wooden pole from splitting) or a finial in a more complex shape. Very high flagpoles may require more complex support structures than a simple pole, such as a guyed mast.
 
 Dwajasthambam are flagpoles commonly found at the entrances of South Indian Hindu temples.[46]
 
 Record heights
 
-Flagpole,_Kew_Gardens_-_geograph.org.uk_-_227188.jpg Since 23 September 2014, the tallest free-standing flagpole in the world is the Jeddah Flagpole in Saudi Arabia at a height of , exceeding the former record holder the Dushanbe Flagpole in Tajikistan[47][48] (height: ), National Flagpole in Azerbaijan (height: )[49] and the North Korean flagpole at Kijŏng-dong (height: ). The flagpole in North Korea actually is a radio tower with a flag on top. Besides two flagpoles mentioned above, the previous six world-record flagpoles were all built by American company Trident Support, and the rest are in: Ashgabat, Turkmenistan: ; Aqaba, Jordan: ; Amman, Jordan: ; and Abu Dhabi, United Arab Emirates: .[50]
+Since 23 September 2014, the tallest free-standing flagpole in the world is the Jeddah Flagpole in Saudi Arabia at a height of , exceeding the former record holder the Dushanbe Flagpole in Tajikistan[47][48] (height: ), National Flagpole in Azerbaijan (height: )[49] and the North Korean flagpole at Kijŏng-dong (height: ). The flagpole in North Korea actually is a radio tower with a flag on top. Besides two flagpoles mentioned above, the previous six world-record flagpoles were all built by American company Trident Support, and the rest are in: Ashgabat, Turkmenistan: ; Aqaba, Jordan: ; Amman, Jordan: ; and Abu Dhabi, United Arab Emirates: .[50]
 
 The current tallest flagpole in India (and the tallest flying the tricolour) is the flagpole in Belgaum, Karnataka which was first hoisted on 12 March 2018.[51][52] The tallest flagpole in the United Kingdom from 1959 until 2013 stood in Kew Gardens. It was made from a Canadian Douglas-fir tree and was in height.[53]
 
@@ -295,7 +289,7 @@ A flag-raising squad is a group of people, usually troops, cadets, or students, 
 
 Flags in communication
 
-Semaphore_Signals_A-Z.jpg Semaphore is a form of communication that utilises flags. The signalling is performed by an individual using two flags (or lighted wands), the positions of the flags indicating a symbol. The person who holds the flags is known as the signalman. This form of communication is primarily used by naval signallers. This technique of signalling was adopted in the early 19th century and is still used in various forms today.[56]
+Semaphore is a form of communication that utilises flags. The signalling is performed by an individual using two flags (or lighted wands), the positions of the flags indicating a symbol. The person who holds the flags is known as the signalman. This form of communication is primarily used by naval signallers. This technique of signalling was adopted in the early 19th century and is still used in various forms today.[56]
 
 The colours of the flags can also be used to communicate. For example; a white flag means, among other things, surrender or peace, a red flag can be used as a warning signal, and a black flag can mean war, or determination to defeat enemies.
 
@@ -304,7 +298,7 @@ Orientation of a flag is also used for communication, though the practice is rar
 
 Flapping
 
-Memphis_Tigers_Flag_video_2011-02-20.theora.ogv When blown by the wind, flags are subject to wave-like motions that grow in amplitude along the length of the flag. This is sometimes ascribed to the flag pole giving vortex shedding; however, flags that are held by lanyards also can be seen to flap.
+When blown by the wind, flags are subject to wave-like motions that grow in amplitude along the length of the flag. This is sometimes ascribed to the flag pole giving vortex shedding; however, flags that are held by lanyards also can be seen to flap.
 
 
 See also

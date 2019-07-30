@@ -15,7 +15,7 @@ The boundary between Asia and Africa is the Red Sea, the Gulf of Suez, and the S
 
 Asia–Europe boundary
 
-Palazzo_Ferreria_statue.jpeg, in Valletta, Malta]] The border between Asia and Europe was historically defined by European academics.[9] The Don River became unsatisfactory to northern Europeans when Peter the Great, king of the Tsardom of Russia, defeating rival claims of Sweden and the Ottoman Empire to the eastern lands, and armed resistance by the tribes of Siberia, synthesized a new Russian Empire extending to the Ural Mountains and beyond, founded in 1721. The major geographical theorist of the empire was actually a former Swedish prisoner-of-war, taken at the Battle of Poltava in 1709 and assigned to Tobolsk, where he associated with Peter's Siberian official, Vasily Tatishchev, and was allowed freedom to conduct geographical and anthropological studies in preparation for a future book.
+, in Valletta, Malta]] The border between Asia and Europe was historically defined by European academics.[9] The Don River became unsatisfactory to northern Europeans when Peter the Great, king of the Tsardom of Russia, defeating rival claims of Sweden and the Ottoman Empire to the eastern lands, and armed resistance by the tribes of Siberia, synthesized a new Russian Empire extending to the Ural Mountains and beyond, founded in 1721. The major geographical theorist of the empire was actually a former Swedish prisoner-of-war, taken at the Battle of Poltava in 1709 and assigned to Tobolsk, where he associated with Peter's Siberian official, Vasily Tatishchev, and was allowed freedom to conduct geographical and anthropological studies in preparation for a future book.
 
 In Sweden, five years after Peter's death, in 1730 Philip Johan von Strahlenberg published a new atlas proposing the Ural Mountains as the border of Asia. Tatishchev announced that he had proposed the idea to von Strahlenberg. The latter had suggested the Emba River as the lower boundary. Over the next century various proposals were made until the Ural River prevailed in the mid-19th century. The border had been moved perforce from the Black Sea to the Caspian Sea into which the Ural River projects.[10] The border between the Black Sea and the Caspian is usually placed along the crest of the Caucasus Mountains, although it is sometimes placed further north.[11]
 
@@ -25,7 +25,7 @@ The border between Asia and the region of Oceania is usually placed somewhere in
 
 Ongoing definition
 
-Afro-Eurasia_(orthographic_projection).svg shown in green]] Geographical Asia is a cultural artifact of European conceptions of the world, beginning with the Ancient Greeks, being imposed onto other cultures, an imprecise concept causing endemic contention about what it means. Asia does not exactly correspond to the cultural borders of its various types of constituents.[13]
+shown in green]] Geographical Asia is a cultural artifact of European conceptions of the world, beginning with the Ancient Greeks, being imposed onto other cultures, an imprecise concept causing endemic contention about what it means. Asia does not exactly correspond to the cultural borders of its various types of constituents.[13]
 
 From the time of Herodotus a minority of geographers have rejected the three-continent system (Europe, Africa, Asia) on the grounds that there is no substantial physical separation between them.[14] For example, Sir Barry Cunliffe, the emeritus professor of European archeology at Oxford, argues that Europe has been geographically and culturally merely "the western excrescence of the continent of Asia".[15]
 
@@ -34,7 +34,7 @@ Geographically, Asia is the major eastern constituent of the continent of Eurasi
 
 Etymology
 
-Gulf5..JPG The idea of a place called "Asia" was originally a concept of Greek civilization,[16] though this might not correspond to the entire continent currently known by that name. The English word comes from Latin literature, where it has the same form, "Asia". Whether "Asia" in other languages comes from Latin of the Roman Empire is much less certain, and the ultimate source of the Latin word is uncertain, though several theories have been published. One of the first classical writers to use Asia as a name of the whole continent was Pliny.[17] This metonymical change in meaning is common and can be observed in some other geographical names, such as Scandinavia (from Scania).
+The idea of a place called "Asia" was originally a concept of Greek civilization,[16] though this might not correspond to the entire continent currently known by that name. The English word comes from Latin literature, where it has the same form, "Asia". Whether "Asia" in other languages comes from Latin of the Roman Empire is much less certain, and the ultimate source of the Latin word is uncertain, though several theories have been published. One of the first classical writers to use Asia as a name of the whole continent was Pliny.[17] This metonymical change in meaning is common and can be observed in some other geographical names, such as Scandinavia (from Scania).
 
 Bronze Age
 
@@ -50,7 +50,7 @@ T.R. Reid supports this alternative etymology, noting that the ancient Greek nam
 
 Classical antiquity
 
-Roman_Empire_-_Asia_(125_AD).svg highlighted (in red) within the Roman Empire.]] Latin Asia and Greek Ἀσία appear to be the same word. Roman authors translated Ἀσία as Asia. The Romans named a province Asia, located in western Anatolia (in modern-day Turkey). There was an Asia Minor and an Asia Major located in modern-day Iraq. As the earliest evidence of the name is Greek, it is likely circumstantially that Asia came from Ἀσία, but ancient transitions, due to the lack of literary contexts, are difficult to catch in the act. The most likely vehicles were the ancient geographers and historians, such as Herodotus, who were all Greek. Ancient Greek certainly evidences early and rich uses of the name.[25]
+highlighted (in red) within the Roman Empire.]] Latin Asia and Greek Ἀσία appear to be the same word. Roman authors translated Ἀσία as Asia. The Romans named a province Asia, located in western Anatolia (in modern-day Turkey). There was an Asia Minor and an Asia Major located in modern-day Iraq. As the earliest evidence of the name is Greek, it is likely circumstantially that Asia came from Ἀσία, but ancient transitions, due to the lack of literary contexts, are difficult to catch in the act. The most likely vehicles were the ancient geographers and historians, such as Herodotus, who were all Greek. Ancient Greek certainly evidences early and rich uses of the name.[25]
 
 The first continental use of Asia is attributed to Herodotus (about 440 BCE), not because he innovated it, but because his _Histories_ are the earliest surviving prose to describe it in any detail. He defines it carefully,[26] mentioning the previous geographers whom he had read, but whose works are now missing. By it he means Anatolia and the Persian Empire, in contrast to Greece and Egypt.
 
@@ -63,7 +63,7 @@ The Iliad (attributed by the ancient Greeks to Homer) mentions two Phrygians (th
 
 History
 
-Silkroutes.jpg connected civilizations across Asia[33]]] Mongol_dominions1.jpg at its greatest extent. The gray area is the later Timurid Empire.]] The history of Asia can be seen as the distinct histories of several peripheral coastal regions: East Asia, South Asia, Southeast Asia and the Middle East, linked by the interior mass of the Central Asian steppes.
+connected civilizations across Asia[33]]] at its greatest extent. The gray area is the later Timurid Empire.]] The history of Asia can be seen as the distinct histories of several peripheral coastal regions: East Asia, South Asia, Southeast Asia and the Middle East, linked by the interior mass of the Central Asian steppes.
 
 The coastal periphery was home to some of the world's earliest known civilizations, each of them developing around fertile river valleys. The civilizations in Mesopotamia, the Indus Valley and the Yellow River shared many similarities. These civilizations may well have exchanged technologies and ideas such as mathematics and the wheel. Other innovations, such as writing, seem to have been developed individually in each area. Cities, states and empires developed in these lowlands.
 
@@ -82,7 +82,7 @@ File:A Map of the Countries between Constantinople and Calcutta- Including Turke
 
 Geography and climate
 
-Himalayas.jpg range is home to some of the planet's highest peaks.]] Asia is the largest continent on Earth. It covers 9% of the Earth's total surface area (or 30% of its land area), and has the largest coastline, at . Asia is generally defined as comprising the eastern four-fifths of Eurasia. It is located to the east of the Suez Canal and the Ural Mountains, and south of the Caucasus Mountains (or the Kuma–Manych Depression) and the Caspian and Black Seas.[38][39] It is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean and on the north by the Arctic Ocean. Asia is subdivided into 48 countries, three of them (Russia, Kazakhstan and Turkey) having part of their land in Europe.
+range is home to some of the planet's highest peaks.]] Asia is the largest continent on Earth. It covers 9% of the Earth's total surface area (or 30% of its land area), and has the largest coastline, at . Asia is generally defined as comprising the eastern four-fifths of Eurasia. It is located to the east of the Suez Canal and the Ural Mountains, and south of the Caucasus Mountains (or the Kuma–Manych Depression) and the Caspian and Black Seas.[38][39] It is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean and on the north by the Arctic Ocean. Asia is subdivided into 48 countries, three of them (Russia, Kazakhstan and Turkey) having part of their land in Europe.
 
 Asia has extremely diverse climates and geographic features. Climates range from arctic and subarctic in Siberia to tropical in southern India and Southeast Asia. It is moist across southeast sections, and dry across much of the interior. Some of the largest daily temperature ranges on Earth occur in western sections of Asia. The monsoon circulation dominates across southern and eastern sections, due to the presence of the Himalayas forcing the formation of a thermal low which draws in moisture during the summer. Southwestern sections of the continent are hot. Siberia is one of the coldest places in the Northern Hemisphere, and can act as a source of arctic air masses for North America. The most active place on Earth for tropical cyclone activity lies northeast of the Philippines and south of Japan. The Gobi Desert is in Mongolia and the Arabian Desert stretches across much of the Middle East. The Yangtze River in China is the longest river in the continent. The Himalayas between Nepal and China is the tallest mountain range in the world. Tropical rainforests stretch across much of southern Asia and coniferous and deciduous forests lie farther north.
 
@@ -104,7 +104,7 @@ A survey carried out in 2010 by global risk analysis farm Maplecroft identified 
 
 Economy
 
-1_singapore_city_skyline_dusk_panorama_2011.jpg and is the world's fourth largest foreign exchange trading center.]]
+and is the world's fourth largest foreign exchange trading center.]]
 
 +------+---------+----------------------+-----------+
 | Rank | Country | GDP (PPP, Peak Year) | Peak Year |
@@ -164,7 +164,7 @@ According to economic historian Angus Maddison in his book _The World Economy: A
 
 In the late 1980s and early 1990s, Japan's GDP was almost as large (current exchange rate method) as that of the rest of Asia combined.[50] In 1995, Japan's economy nearly equaled that of the US as the largest economy in the world for a day, after the Japanese currency reached a record high of 79 yen/US$. Economic growth in Asia since World War II to the 1990s had been concentrated in Japan as well as the four regions of South Korea, Taiwan, Hong Kong and Singapore located in the Pacific Rim, known as the Asian tigers, which have now all received developed country status, having the highest GDP per capita in Asia.[51]
 
-Mumbai_03-2016_10_skyline_of_Lotus_Colony.jpg.]] It is forecasted that India will overtake Japan in terms of nominal GDP by 2020.[52] By 2027, according to Goldman Sachs, China will have the largest economy in the world. Several trade blocs exist, with the most developed being the Association of Southeast Asian Nations.
+.]] It is forecasted that India will overtake Japan in terms of nominal GDP by 2020.[52] By 2027, according to Goldman Sachs, China will have the largest economy in the world. Several trade blocs exist, with the most developed being the Association of Southeast Asian Nations.
 
 Asia is the largest continent in the world by a considerable margin, and it is rich in natural resources, such as petroleum, forests, fish, water, rice, copper and silver. Manufacturing in Asia has traditionally been strongest in East and Southeast Asia, particularly in China, Taiwan, South Korea, Japan, India, the Philippines, and Singapore. Japan and South Korea continue to dominate in the area of multinational corporations, but increasingly the PRC and India are making significant inroads. Many companies from Europe, North America, South Korea and Japan have operations in Asia's developing countries to take advantage of its abundant supply of cheap labour and relatively developed infrastructure.
 
@@ -175,12 +175,12 @@ In 2010, Asia had 3.3 million millionaires (people with net worth over US$1 mill
 
 Tourism
 
-Grand_Palace_Bangkok.jpg in the Grand Palace is among Bangkok's major tourist attractions.]] With growing Regional Tourism with domination of Chinese visitors, MasterCard has released Global Destination Cities Index 2013 with 10 of 20 are dominated by Asia and Pacific Region Cities and also for the first time a city of a country from Asia (Bangkok) set in the top-ranked with 15.98 international visitors.[56]
+in the Grand Palace is among Bangkok's major tourist attractions.]] With growing Regional Tourism with domination of Chinese visitors, MasterCard has released Global Destination Cities Index 2013 with 10 of 20 are dominated by Asia and Pacific Region Cities and also for the first time a city of a country from Asia (Bangkok) set in the top-ranked with 15.98 international visitors.[56]
 
 
 Demographics
 
-WorldPopulation.png (1750–2005)]] East Asia had by far the strongest overall Human Development Index (HDI) improvement of any region in the world, nearly doubling average HDI attainment over the past 40 years, according to the report's analysis of health, education and income data. China, the second highest achiever in the world in terms of HDI improvement since 1970, is the only country on the "Top 10 Movers" list due to income rather than health or education achievements. Its per capita income increased a stunning 21-fold over the last four decades, also lifting hundreds of millions out of income poverty. Yet it was not among the region's top performers in improving school enrollment and life expectancy.[57]
+(1750–2005)]] East Asia had by far the strongest overall Human Development Index (HDI) improvement of any region in the world, nearly doubling average HDI attainment over the past 40 years, according to the report's analysis of health, education and income data. China, the second highest achiever in the world in terms of HDI improvement since 1970, is the only country on the "Top 10 Movers" list due to income rather than health or education achievements. Its per capita income increased a stunning 21-fold over the last four decades, also lifting hundreds of millions out of income poverty. Yet it was not among the region's top performers in improving school enrollment and life expectancy.[57]
 Nepal, a South Asian country, emerges as one of the world's fastest movers since 1970 mainly due to health and education achievements. Its present life expectancy is 25 years longer than in the 1970s. More than four of every five children of school age in Nepal now attend primary school, compared to just one in five 40 years ago.[58]
 Hong Kong ranked highest among the countries grouped on the HDI (number 7 in the world, which is in the "very high human development" category), followed by Singapore (9), Japan (19) and South Korea (22). Afghanistan (155) ranked lowest amongst Asian countries out of the 169 countries assessed.[59]
 
@@ -194,7 +194,7 @@ Many of the world's major religions have their origins in Asia, including the fi
 
 Abrahamic
 
-Westernwall2.jpg and the Dome of the Rock, Jerusalem]] Beyt-i_Haram.jpg at the Kaabah in Mecca.]] The Abrahamic religions including Judaism, Christianity, Islam and Bahá'í Faith originated in West Asia.
+and the Dome of the Rock, Jerusalem]] at the Kaabah in Mecca.]] The Abrahamic religions including Judaism, Christianity, Islam and Bahá'í Faith originated in West Asia.
 
 Judaism, the oldest of the Abrahamic faiths, is practiced primarily in Israel, the indigenous homeland and historical birthplace of the Hebrew nation: which today consists both of those Israelites who remained in Asia/North Africa and those who returned from diaspora in Europe, North America, and other regions;[60] though various diaspora communities persist worldwide. Jews are the predominant ethnic group in Israel (75.6%) numbering at about 6.1 million,[61] although the levels of adherence to Jewish religion vary. Outside of Israel there are small ancient Jewish communities in Turkey (17,400),[62] Azerbaijan (9,100),[63] Iran (8,756),[64] India (5,000) and Uzbekistan (4,000),[65] among many other places. In total, there are 14.4–17.5 million (2016, est.)[66] Jews alive in the world today, making them one of the smallest Asian minorities, at roughly 0.3 to 0.4 percent of the total population of the continent.
 
@@ -206,11 +206,11 @@ The Bahá'í Faith originated in Asia, in Iran (Persia), and spread from there t
 
 Indian and East Asian religions
 
-Akshardham_Lotus.jpg Akshardham Temple in Delhi, according to the Guinness World Records is the _World's Largest Comprehensive Hindu Temple_[71]]] Almost all Asian religions have philosophical character and Asian philosophical traditions cover a large spectrum of philosophical thoughts and writings. Indian philosophy includes Hindu philosophy and Buddhist philosophy. They include elements of nonmaterial pursuits, whereas another school of thought from India, Cārvāka, preached the enjoyment of the material world. The religions of Hinduism, Buddhism, Jainism and Sikhism originated in India, South Asia. In East Asia, particularly in China and Japan, Confucianism, Taoism and Zen Buddhism took shape.
+Akshardham Temple in Delhi, according to the Guinness World Records is the _World's Largest Comprehensive Hindu Temple_[71]]] Almost all Asian religions have philosophical character and Asian philosophical traditions cover a large spectrum of philosophical thoughts and writings. Indian philosophy includes Hindu philosophy and Buddhist philosophy. They include elements of nonmaterial pursuits, whereas another school of thought from India, Cārvāka, preached the enjoyment of the material world. The religions of Hinduism, Buddhism, Jainism and Sikhism originated in India, South Asia. In East Asia, particularly in China and Japan, Confucianism, Taoism and Zen Buddhism took shape.
 
 , Hinduism has around 1.1 billion adherents. The faith represents around 25% of Asia's population and is the largest religion in Asia. However, it is mostly concentrated in South Asia. Over 80% of the populations of both India and Nepal adhere to Hinduism, alongside significant communities in Bangladesh, Pakistan, Bhutan, Sri Lanka and Bali, Indonesia. Many overseas Indians in countries such as Burma, Singapore and Malaysia also adhere to Hinduism.
 
-Statue_of_Unity,_as_dedicated_on_October_31,_2018_(cropped).jpg located in Gujarat, India is the World's tallest statue.]] Buddhism has a great following in mainland Southeast Asia and East Asia. Buddhism is the religion of the majority of the populations of Cambodia (96%),[72] Thailand (95%),[73] Burma (80–89%),[74] Japan (36–96%),[75] Bhutan (75–84%),[76] Sri Lanka (70%),[77] Laos (60–67%)[78] and Mongolia (53–93%).[79] Large Buddhist populations also exist in Singapore (33–51%),[80] Taiwan (35–93%),[81][82][83][84] South Korea (23–50%),[85] Malaysia (19–21%),[86] Nepal (9–11%),[87] Vietnam (10–75%),[88] China (20–50%),[89] North Korea (2–14%),[90][91][92] and small communities in India and Bangladesh. In many Chinese communities, Mahayana Buddhism is easily syncretized with Taoism, thus exact religious statistics is difficult to obtain and may be understated or overstated. The Communist-governed countries of China, Vietnam and North Korea are officially atheist, thus the number of Buddhists and other religious adherents may be under-reported.
+located in Gujarat, India is the World's tallest statue.]] Buddhism has a great following in mainland Southeast Asia and East Asia. Buddhism is the religion of the majority of the populations of Cambodia (96%),[72] Thailand (95%),[73] Burma (80–89%),[74] Japan (36–96%),[75] Bhutan (75–84%),[76] Sri Lanka (70%),[77] Laos (60–67%)[78] and Mongolia (53–93%).[79] Large Buddhist populations also exist in Singapore (33–51%),[80] Taiwan (35–93%),[81][82][83][84] South Korea (23–50%),[85] Malaysia (19–21%),[86] Nepal (9–11%),[87] Vietnam (10–75%),[88] China (20–50%),[89] North Korea (2–14%),[90][91][92] and small communities in India and Bangladesh. In many Chinese communities, Mahayana Buddhism is easily syncretized with Taoism, thus exact religious statistics is difficult to obtain and may be understated or overstated. The Communist-governed countries of China, Vietnam and North Korea are officially atheist, thus the number of Buddhists and other religious adherents may be under-reported.
 
 Jainism is found mainly in India and in oversea Indian communities such as the United States and Malaysia. Sikhism is found in Northern India and amongst overseas Indian communities in other parts of Asia, especially Southeast Asia. Confucianism is found predominantly in Mainland China, South Korea, Taiwan and in overseas Chinese populations. Taoism is found mainly in Mainland China, Taiwan, Malaysia and Singapore. Taoism is easily syncretized with Mahayana Buddhism for many Chinese, thus exact religious statistics is difficult to obtain and may be understated or overstated.
 
@@ -219,7 +219,7 @@ File:Traditional wedding at Meji-jingu 72570539 f30636e2ef o.jpg|Japanese weddin
 
 Modern conflicts
 
-Napalm.jpg on suspected Viet Cong positions in 1965]] Wounded_civilians_arrive_at_hospital_Aleppo.jpg during the Syrian Civil War, October 2012]] Some of the events pivotal in the Asia territory related to the relationship with the outside world in the post-Second World War were:
+on suspected Viet Cong positions in 1965]] during the Syrian Civil War, October 2012]] Some of the events pivotal in the Asia territory related to the relationship with the outside world in the post-Second World War were:
 
 -   The Chinese Civil War
 -   The Kashmir conflict
@@ -263,7 +263,7 @@ Culture
 
 Nobel prizes
 
-Tagore3.jpg was awarded the Nobel Prize for Literature in 1913, and became Asia's first Nobel laureate]]
+was awarded the Nobel Prize for Literature in 1913, and became Asia's first Nobel laureate]]
 
 The polymath Rabindranath Tagore, a Bengali poet, dramatist, and writer from Santiniketan, now in West Bengal, India, became in 1913 the first Asian Nobel laureate. He won his Nobel Prize in Literature for notable impact his prose works and poetic thought had on English, French, and other national literatures of Europe and the Americas. He is also the writer of the national anthems of Bangladesh and India.
 
@@ -286,132 +286,132 @@ The Dalai Lama has received approximately eighty-four awards over his spiritual 
 
 Political geography
 
-20091002_Hong_Kong_6269.jpg was a British colony.]]
+was a British colony.]]
 
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-| Flag | Symbol                                                    | Name                 | Population  | Area       | Capital                 |
-|      |                                                           |                      | ()          | (km²)      |                         |
-+======+===========================================================+======================+=============+============+=========================+
-|      | National_emblem_of_Afghanistan.svg                        | Afghanistan          |             | 647,500    | Kabul                   |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Armenia              |             | 29,743     | Yerevan                 |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Azerbaijan[94]       |             | 86,600     | Baku                    |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Bahrain.svg                                     | Bahrain              |             | 760        | Manama                  |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | National_emblem_of_Bangladesh.svg                         | Bangladesh           |             | 147,570    | Dhaka                   |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Bhutan.svg                                      | Bhutan               |             | 38,394     | Thimphu                 |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Brunei.svg                                      | Brunei               |             | 5,765      | Bandar Seri Begawan     |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Cambodia             |             | 181,035    | Phnom Penh              |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | National_Emblem_of_the_People's_Republic_of_China_(2).svg | China (PRC)          |             | 9,596,961  | Beijing                 |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | East Timor           |             | 14,874     | Dili                    |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Egypt[95]            |             | 1,010,408  | Cairo                   |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Georgia[96]          |             | 69,700     | Tbilisi                 |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Regional_Emblem_of_Hong_Kong.svg                          | Hong Kong            | 7,448,900   | 1,108      | Hong Kong               |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_India.svg                                       | India                |             | 3,287,263  | New Delhi               |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Indonesia[97]        |             | 1,904,569  | Jakarta                 |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Iran.svg                                        | Iran                 |             | 1,648,195  | Tehran                  |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Iraq                 |             | 438,317    | Baghdad                 |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Israel               |             | 20,770     | Jerusalem (disputed)    |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Imperial_Seal_of_Japan.svg                                | Japan                |             | 377,915    | Tokyo                   |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Jordan               |             | 89,342     | Amman                   |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Kazakhstan.svg                                  | Kazakhstan[98]       |             | 2,724,900  | Nur-Sultan              |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Kuwait               |             | 17,818     | Kuwait City             |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | National_emblem_of_Kyrgyzstan.svg                         | Kyrgyzstan           |             | 199,951    | Bishkek                 |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Laos.svg                                        | Laos                 |             | 236,800    | Vientiane               |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Lebanon              |             | 10,400     | Beirut                  |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Malaysia             |             | 329,847    | Kuala Lumpur            |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Maldives.svg                                    | Maldives             |             | 298        | Malé                    |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | State_emblem_of_Mongolia.svg                              | Mongolia             |             | 1,564,116  | Ulaanbaatar             |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Myanmar              |             | 676,578    | Naypyidaw               |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Nepal.svg                                       | Nepal                |             | 147,181    | Kathmandu               |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_North_Korea.svg                                 | North Korea          |             | 120,538    | Pyongyang               |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | National_emblem_of_Oman.svg                               | Oman                 |             | 309,500    | Muscat                  |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Pakistan             | 211,103,000 | 881,913    | Islamabad               |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Coat_of_arms_of_Palestine.svg                             | Palestine            |             | 6,220      | Ramallah                |
-|      |                                                           |                      |             |            | (_Jerusalem_) (claimed) |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | National_Emblem_of_Papua_New_Guinea.svg                   | Papua New Guinea[99] |             | 462,840    | Port Moresby            |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Philippines          |             | 343,448    | Manila                  |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Qatar.svg                                       | Qatar                |             | 11,586     | Doha                    |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Russia[100]          |             | 17,098,242 | Moscow                  |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Saudi_Arabia.svg                                | Saudi Arabia         |             | 2,149,690  | Riyadh                  |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Singapore            |             | 697        | Singapore               |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_South_Korea.svg                                 | South Korea          |             | 100,210    | Seoul                   |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Sri_Lanka.svg                                   | Sri Lanka            |             | 65,610     | Colombo                 |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      |                                                           | Syria                |             | 185,180    | Damascus                |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | National_Emblem_of_the_Republic_of_China.svg              | Taiwan (ROC)         |             | 36,193     | Taipei                  |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Tajikistan.svg                                  | Tajikistan           |             | 143,100    | Dushanbe                |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Thailand.svg                                    | Thailand             |             | 513,120    | Bangkok                 |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Turkey.svg                                      | Turkey[101]          |             | 783,562    | Ankara                  |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Turkmenistan.svg                                | Turkmenistan         |             | 488,100    | Ashgabat                |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_the_United_Arab_Emirates.svg                    | United Arab Emirates |             | 83,600     | Abu Dhabi               |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Uzbekistan.svg                                  | Uzbekistan           |             | 447,400    | Tashkent                |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Vietnam.svg                                     | Vietnam              |             | 331,212    | Hanoi                   |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
-|      | Emblem_of_Yemen.svg                                       | Yemen                |             | 527,968    | Sana'a                  |
-+------+-----------------------------------------------------------+----------------------+-------------+------------+-------------------------+
++------+--------+----------------------+-------------+------------+-------------------------+
+| Flag | Symbol | Name                 | Population  | Area       | Capital                 |
+|      |        |                      | ()          | (km²)      |                         |
++======+========+======================+=============+============+=========================+
+|      |        | Afghanistan          |             | 647,500    | Kabul                   |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Armenia              |             | 29,743     | Yerevan                 |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Azerbaijan[94]       |             | 86,600     | Baku                    |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Bahrain              |             | 760        | Manama                  |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Bangladesh           |             | 147,570    | Dhaka                   |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Bhutan               |             | 38,394     | Thimphu                 |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Brunei               |             | 5,765      | Bandar Seri Begawan     |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Cambodia             |             | 181,035    | Phnom Penh              |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | China (PRC)          |             | 9,596,961  | Beijing                 |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | East Timor           |             | 14,874     | Dili                    |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Egypt[95]            |             | 1,010,408  | Cairo                   |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Georgia[96]          |             | 69,700     | Tbilisi                 |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Hong Kong            | 7,448,900   | 1,108      | Hong Kong               |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | India                |             | 3,287,263  | New Delhi               |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Indonesia[97]        |             | 1,904,569  | Jakarta                 |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Iran                 |             | 1,648,195  | Tehran                  |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Iraq                 |             | 438,317    | Baghdad                 |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Israel               |             | 20,770     | Jerusalem (disputed)    |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Japan                |             | 377,915    | Tokyo                   |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Jordan               |             | 89,342     | Amman                   |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Kazakhstan[98]       |             | 2,724,900  | Nur-Sultan              |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Kuwait               |             | 17,818     | Kuwait City             |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Kyrgyzstan           |             | 199,951    | Bishkek                 |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Laos                 |             | 236,800    | Vientiane               |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Lebanon              |             | 10,400     | Beirut                  |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Malaysia             |             | 329,847    | Kuala Lumpur            |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Maldives             |             | 298        | Malé                    |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Mongolia             |             | 1,564,116  | Ulaanbaatar             |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Myanmar              |             | 676,578    | Naypyidaw               |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Nepal                |             | 147,181    | Kathmandu               |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | North Korea          |             | 120,538    | Pyongyang               |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Oman                 |             | 309,500    | Muscat                  |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Pakistan             | 211,103,000 | 881,913    | Islamabad               |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Palestine            |             | 6,220      | Ramallah                |
+|      |        |                      |             |            | (_Jerusalem_) (claimed) |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Papua New Guinea[99] |             | 462,840    | Port Moresby            |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Philippines          |             | 343,448    | Manila                  |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Qatar                |             | 11,586     | Doha                    |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Russia[100]          |             | 17,098,242 | Moscow                  |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Saudi Arabia         |             | 2,149,690  | Riyadh                  |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Singapore            |             | 697        | Singapore               |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | South Korea          |             | 100,210    | Seoul                   |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Sri Lanka            |             | 65,610     | Colombo                 |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Syria                |             | 185,180    | Damascus                |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Taiwan (ROC)         |             | 36,193     | Taipei                  |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Tajikistan           |             | 143,100    | Dushanbe                |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Thailand             |             | 513,120    | Bangkok                 |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Turkey[101]          |             | 783,562    | Ankara                  |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Turkmenistan         |             | 488,100    | Ashgabat                |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | United Arab Emirates |             | 83,600     | Abu Dhabi               |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Uzbekistan           |             | 447,400    | Tashkent                |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Vietnam              |             | 331,212    | Hanoi                   |
++------+--------+----------------------+-------------+------------+-------------------------+
+|      |        | Yemen                |             | 527,968    | Sana'a                  |
++------+--------+----------------------+-------------+------------+-------------------------+
 
 Within the above-mentioned states are several partially recognized countries with limited to no international recognition. None of them are members of the UN:
 
-+------+------------------------------+---------------+------------+--------+-------------+
-| Flag | Symbol                       | Name          | Population | Area   | Capital     |
-|      |                              |               |            | (km²)  |             |
-+======+==============================+===============+============+========+=============+
-|      |                              |               |            |        |             |
-+------+------------------------------+---------------+------------+--------+-------------+
-|      | Coat_of_arms_of_Abkhazia.svg | Abkhazia      | 242,862    | 8,660  | Sukhumi     |
-+------+------------------------------+---------------+------------+--------+-------------+
-|      | Coat_of_arms_of_Artsakh.svg  | Artsakh       | 146,573    | 11,458 | Stepanakert |
-+------+------------------------------+---------------+------------+--------+-------------+
-|      |                              | South Ossetia | 51,547     | 3,900  | Tskhinvali  |
-+------+------------------------------+---------------+------------+--------+-------------+
++------+--------+---------------+------------+--------+-------------+
+| Flag | Symbol | Name          | Population | Area   | Capital     |
+|      |        |               |            | (km²)  |             |
++======+========+===============+============+========+=============+
+|      |        |               |            |        |             |
++------+--------+---------------+------------+--------+-------------+
+|      |        | Abkhazia      | 242,862    | 8,660  | Sukhumi     |
++------+--------+---------------+------------+--------+-------------+
+|      |        | Artsakh       | 146,573    | 11,458 | Stepanakert |
++------+--------+---------------+------------+--------+-------------+
+|      |        | South Ossetia | 51,547     | 3,900  | Tskhinvali  |
++------+--------+---------------+------------+--------+-------------+
 
 
 See also

@@ -1,4 +1,4 @@
-Aerial_View_of_Frankfurt_Airport_1.jpg, the fourth-busiest Airport in Europe]] Leipzig-Hauptbahnhof-overview.jpg, the world's largest railway station by floor area]] As a densely populated country in a central location in Europe and with a developed economy, Germany has a dense and modern transport infrastructure.
+, the fourth-busiest Airport in Europe]] , the world's largest railway station by floor area]] As a densely populated country in a central location in Europe and with a developed economy, Germany has a dense and modern transport infrastructure.
 
 The first highway system to have been built, the extensive German Autobahn network famously has no general speed limit for light vehicles (although posted speed limits are in force in most sections today, and there is a blanket 80 km/h limit for trucks). The country's most important waterway is the river Rhine. The largest port is that of Hamburg. Frankfurt Airport is a major international airport and European transport hub. Air travel is used for greater distances within Germany but faces competition from the state-owned Deutsche Bahn's rail network. High-speed trains called ICE connect cities for passenger travel with speeds up to 300 km/h. Many German cities have rapid transit systems and public transport is available in most areas. Buses have historically only played a marginal role in long distance passenger service, as all routes directly competing with rail services were technically outlawed by a law dating to 1935. Only in 2012 was this law officially amended and thus; a long distance bus market has also emerged in Germany since then.
 
@@ -11,7 +11,7 @@ Road and automotive transport
 
 Overview
 
-Autobahnen_in_Deutschland.svg The volume of traffic in Germany, especially goods transportation, is at a very high level due to its central location in Europe. In the past few decades, much of the freight traffic shifted from rail to road, which led the Federal Government to introduce a motor toll for trucks in 2005. Individual road usage increased resulting in a relatively high traffic density to other nations. A further increase of traffic is expected in the future.
+The volume of traffic in Germany, especially goods transportation, is at a very high level due to its central location in Europe. In the past few decades, much of the freight traffic shifted from rail to road, which led the Federal Government to introduce a motor toll for trucks in 2005. Individual road usage increased resulting in a relatively high traffic density to other nations. A further increase of traffic is expected in the future.
 
 High-speed vehicular traffic has a long tradition in Germany given that the first freeway (Autobahn) in the world, the AVUS, and the world's first automobile were developed and built in Germany. Germany possesses one of the most dense road systems of the world. German motorways have no blanket speed limit for light vehicles. However, posted limits are in place on many dangerous or congested stretches as well as where traffic noise or pollution poses a problem.
 
@@ -21,7 +21,7 @@ Intercity bus service within Germany fell out of favour as post-war prosperity i
 
 Roads
 
-Münchberger_Senke.jpg]] Leipzig-Halle_Airport_Condor.jpg]]
+]] ]]
 
 Germany has approximately 650,000 km of roads,[3] of which 231,000 km are non-local roads.[4] The road network is extensively used with nearly 2 trillion km travelled by car in 2005, in comparison to just 70 billion km travelled by rail and 35 billion km travelled by plane.[5]
 
@@ -46,7 +46,7 @@ Rail transport
 
 Overview
 
-DeutscheBahn_gobeirne.jpg train at Stuttgart Hauptbahnhof]] Germany features a total of 43,468 km railways, of which at least 19,973 km are electrified (2014).[8]
+train at Stuttgart Hauptbahnhof]] Germany features a total of 43,468 km railways, of which at least 19,973 km are electrified (2014).[8]
 
 Deutsche Bahn (German Rail) is the major German railway infrastructure and service operator. Though Deutsche Bahn is a private company, the government still holds all shares and therefore Deutsche Bahn can still be called a state-owned company. Since its reformation under private law in 1994, Deutsche Bahn AG (DB AG) no longer publishes details of the tracks it owns; in addition to the DBAG system there are about 280 privately or locally owned railway companies which own an approximate 3,000 km to 4,000 km of the total tracks and use DB tracks in _open access_.
 
@@ -68,7 +68,7 @@ Almost all major metro areas of Germany have suburban rail systems called S-Bahn
 
 Rapid transit (U-Bahn)
 
-Munich_subway_C-Zug.jpg]] Relatively few cities have a full-fledged underground U-Bahn system; S-Bahn (suburban commuter railway) systems are far more common. In some cities the distinction between U-Bahn and S-Bahn systems is blurred, for instance some S-Bahn systems run underground, have frequencies similar to U-Bahn, and form part of the same integrated transport network. A larger number of cities has upgraded their tramways to light rail standards. These systems are called Stadtbahn (not to be confused with S-Bahn), on main line rails.
+]] Relatively few cities have a full-fledged underground U-Bahn system; S-Bahn (suburban commuter railway) systems are far more common. In some cities the distinction between U-Bahn and S-Bahn systems is blurred, for instance some S-Bahn systems run underground, have frequencies similar to U-Bahn, and form part of the same integrated transport network. A larger number of cities has upgraded their tramways to light rail standards. These systems are called Stadtbahn (not to be confused with S-Bahn), on main line rails.
 
 Cities with U-Bahn systems are:
 
@@ -77,7 +77,7 @@ Cities with U-Bahn systems are:
 -   Munich (U-Bahn)
 -   Nuremberg/Fürth (U-Bahn)
 
-Street_car_passengers_as_percent_of_total_by_German_lander_gradient_map_(2016)_2.gif]] With the exception of Hamburg, all of those aforementioned cities also have a tram system, often with new lines built to light rail standards.
+]] With the exception of Hamburg, all of those aforementioned cities also have a tram system, often with new lines built to light rail standards.
 
 Cities with _Stadtbahn_ systems can be found in the article Trams in Germany.
 
@@ -94,7 +94,7 @@ Airlines
 
     _see: List of airlines of Germany_
 
-Lufthansa_B737-300_D-ABEK_@_Düsseldorf_International_Airport.jpg and Air Berlin aircraft]] Germany's largest airline is Lufthansa, which was privatised in the 1990s. Lufthansa also operates two regional subsidiaries under the Lufthansa Regional brand and a low-cost subsidiary, Eurowings, which operates independently. Lufthansa flies a dense network of domestic, European and intercontinental routes. Germany's second largest airline was Air Berlin, which also operated a network of domestic and European destinations with a focus on leisure routes as well as some long-haul services. Air Berlin declared bankruptcy in 2017 with the last flight under its own name in October of that year.
+and Air Berlin aircraft]] Germany's largest airline is Lufthansa, which was privatised in the 1990s. Lufthansa also operates two regional subsidiaries under the Lufthansa Regional brand and a low-cost subsidiary, Eurowings, which operates independently. Lufthansa flies a dense network of domestic, European and intercontinental routes. Germany's second largest airline was Air Berlin, which also operated a network of domestic and European destinations with a focus on leisure routes as well as some long-haul services. Air Berlin declared bankruptcy in 2017 with the last flight under its own name in October of that year.
 
 Charter and leisure carriers include Condor, TUIfly, SunExpress Deutschland and Germania. Major German cargo operators are Lufthansa Cargo, European Air Transport Leipzig (which is a subsidiary of DHL) and AeroLogic (which is jointly owned by DHL and Lufthansa Cargo).
 
@@ -102,7 +102,7 @@ Airports
 
     _see: List of airports in Germany_
 
-Flughäfen_in_Deutschland.png Frankfurt Airport is Germany's largest airport, a major transportation hub in Europe and the world's twelfth busiest airport. It is one of the airports with the largest number of international destinations served worldwide. Depending on whether total passengers, flights or cargo traffic are used as a measure, it ranks first, second or third in Europe alongside London Heathrow Airport and Paris-Charles de Gaulle Airport. Germany's second biggest international airport is Munich Airport followed by Düsseldorf Airport.
+Frankfurt Airport is Germany's largest airport, a major transportation hub in Europe and the world's twelfth busiest airport. It is one of the airports with the largest number of international destinations served worldwide. Depending on whether total passengers, flights or cargo traffic are used as a measure, it ranks first, second or third in Europe alongside London Heathrow Airport and Paris-Charles de Gaulle Airport. Germany's second biggest international airport is Munich Airport followed by Düsseldorf Airport.
 
 There are several more scheduled passenger airports throughout Germany, mainly serving European metropolitan and leisure destinations. Intercontinental long-haul routes are operated to and from the airports in Frankfurt, Munich, Düsseldorf, Berlin-Tegel, Cologne/Bonn, Hamburg and Stuttgart.
 
@@ -131,7 +131,7 @@ HELIPORTS: 23 (2013 est.)
 
 Water transport
 
-Two_Ships-Hamburg.jpg]] WATERWAYS: 7,467 km (2013);[18] major rivers include the Rhine and Elbe; Kiel Canal is an important connection between the Baltic Sea and North Sea and one of the busiest waterways in the world, the Rhine-Main-Danube Canal links Rotterdam on the North Sea with the Black Sea. It passes through the highest point reachable by ocean-going vessels from the sea. The Canal has gained importance for leisure cruises in addition to cargo traffic.
+]] WATERWAYS: 7,467 km (2013);[18] major rivers include the Rhine and Elbe; Kiel Canal is an important connection between the Baltic Sea and North Sea and one of the busiest waterways in the world, the Rhine-Main-Danube Canal links Rotterdam on the North Sea with the Black Sea. It passes through the highest point reachable by ocean-going vessels from the sea. The Canal has gained importance for leisure cruises in addition to cargo traffic.
 
 PIPELINES: oil 2,400 km (2013)[19]
 

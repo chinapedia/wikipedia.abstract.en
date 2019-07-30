@@ -1,4 +1,4 @@
-EU-Italy.svg ]] Italy has a well developed transport infrastructure. The Italian rail network is extensive, especially in the north, and it includes a high-speed rail network that joins the major cities of Italy from Naples through northern cities such as Milan and Turin. Italy has 2,507 people and 12.46 km² per kilometer of rail track, giving Italy the world's 13th largest rail network.[1]
+]] Italy has a well developed transport infrastructure. The Italian rail network is extensive, especially in the north, and it includes a high-speed rail network that joins the major cities of Italy from Naples through northern cities such as Milan and Turin. Italy has 2,507 people and 12.46 km² per kilometer of rail track, giving Italy the world's 13th largest rail network.[1]
 
 Italy's road network is also widespread, with a total length of about 487,700 km.[2] It comprises both an extensive motorway network (6,400 km), mostly toll roads, and national and local roads.
 
@@ -7,7 +7,7 @@ Because of its long seacoast, Italy also has a large number of harbors for the t
 
 Railways
 
-Frecciarossa_di_Trenitalia.jpg AGV_.italo_Napoli_side_view.JPG, capable of 360 km/h]]
+, capable of 360 km/h]]
 
 The Italian railway system has a length of , of which standard gauge and electrified. The active lines are 16,723 km.[3] The network is recently growing with the construction of the new high-speed rail network. The narrow gauge tracks are:
 
@@ -21,7 +21,7 @@ Travellers who often make use of the railway during their stay in Italy might us
 
 High speed trains
 
-Pieve_Fissiraga_ferrovia_autostrada_1.JPG]] Major works to increase the commercial speed of the trains already started in 1967: the Rome-Florence "super-direct" line was built for trains up to 230 km/h, and reduced the journey time to less than two hours. This is the first high-speed train line in Europe, as its operations started in 1977.
+]] Major works to increase the commercial speed of the trains already started in 1967: the Rome-Florence "super-direct" line was built for trains up to 230 km/h, and reduced the journey time to less than two hours. This is the first high-speed train line in Europe, as its operations started in 1977.
 
 In 2009 a new high-speed line linking Milan and Turin, operating at 300 km/h, opened to passenger traffic, reducing the journey time from two hours to one hour. In the same year, the Milan-Bologna line was open, reducing the journey time to 55 minutes. Also the Bologna-Florence high-speed line was upgraded to 300 km/h for a journey time of 35 minutes.
 
@@ -62,7 +62,7 @@ In addition to these agencies, there's a great deal of other little operators, s
 
 Rapid transit
 
-MB_115_Poliambulanza_uscita_20130309.JPG Linea_5_lilla_-_metropolitana_di_Milano_-_Stazione_Garibaldi.JPG line of Milan.]] Cities with metro systems:
+line of Milan.]] Cities with metro systems:
 
   City      Name              Lines   Length (km)   Stations   Opening
   --------- ----------------- ------- ------------- ---------- ---------
@@ -87,7 +87,7 @@ Cities with commuter rail systems:
 
 Rail links with adjacent countries
 
-Rail_tracks_east_upper_Menton.jpg, near the French border]] Italy has 11 rail border crossings over the Alpine mountains with her neighbouring countries: six are designated as mainline tracks and two are metre-gauge tracks. The six mainline border crossings are: two with France (one for Nice and Marseille; the other for Lyon and Dijon), two with Switzerland (one for Brig, Bern and Geneva; the other for Chiasso, Lugano, Lucerne and Zürich), and two with Austria (one for Innsbruck; the other for Villach, Graz and Vienna). The two metre-gauge track crossings are located at the border town of Tirano (enters Switzerland's Canton Graubünden/Grisons) and Domodossola (enters Switzerland's Locarno).
+, near the French border]] Italy has 11 rail border crossings over the Alpine mountains with her neighbouring countries: six are designated as mainline tracks and two are metre-gauge tracks. The six mainline border crossings are: two with France (one for Nice and Marseille; the other for Lyon and Dijon), two with Switzerland (one for Brig, Bern and Geneva; the other for Chiasso, Lugano, Lucerne and Zürich), and two with Austria (one for Innsbruck; the other for Villach, Graz and Vienna). The two metre-gauge track crossings are located at the border town of Tirano (enters Switzerland's Canton Graubünden/Grisons) and Domodossola (enters Switzerland's Locarno).
 
 There is a railway line connecting Italy's northeastern port of Trieste to Slovenia, but no passenger or freight services operate on this track. Consequently, there is no direct connections between Trieste and Ljubljana, the capital of Slovenia, despite the proximity of both cities.
 
@@ -107,7 +107,7 @@ The Vatican City is also linked to Italy with a railway line serving a single ra
 
 Stations
 
-Milan_Centrale_Stazione_trainshed.jpg ETR_500_Bologna_Centrale_AV_1.jpg Italy's top ten railway stations by annual passengers are:
+Italy's top ten railway stations by annual passengers are:
 
 +-----------------------------+---------------------+
 | Station                     | passengers per year |
@@ -139,7 +139,7 @@ Stations with darker background are also served by High-speed trains
 
 Roads
 
-Italia_-_mappa_autostrade.svg Italian_traffic_signs_-_autostrada.svg A4-passante_di_mestre_dd.png Italy is one of the countries with the most vehicles per capita, with 690 per 1000 people in 2010.[10][11] Italy has a total of 487,700 km of paved roads, of which 6,758 km are motorways with a general speed limit of , which since 2009 was provisioned for extension up to [12]. The speed limit in towns is usually and less commonly .
+Italy is one of the countries with the most vehicles per capita, with 690 per 1000 people in 2010.[10][11] Italy has a total of 487,700 km of paved roads, of which 6,758 km are motorways with a general speed limit of , which since 2009 was provisioned for extension up to [12]. The speed limit in towns is usually and less commonly .
 
 
 Waterways
@@ -150,8 +150,6 @@ In the northern regions of Lombardy and Venetia, commuter ferry boats operate on
 
 
 Ports and harbours
-
-Genova_porto_panoramica2.jpg Gioiatauro_seaport.jpg Seaport_in_Ravenna,_Italy.jpg
 
 +------------------------+
 | List of ports in Italy |
@@ -211,13 +209,13 @@ Air transport
 
 Airlines
 
-Alitalia Airbus A330#A330-200|thumb|right EI-GFy_Air_Italy_B737_MAX_8_LIMC.jpg]] Italy's largest airline is Alitalia,[16] which was privatised in 2008.[17] Its main hub is Rome Fiumicino Airport. Alitalia also operates a regional subsidiary under the Alitalia CityLiner brand. Italy's second largest airline is Air Italy, which operates a network of domestic, European and long-haul destinations from its main hub at Milan Malpensa Airport.[18]
+]] Italy's largest airline is Alitalia,[16] which was privatised in 2008.[17] Its main hub is Rome Fiumicino Airport. Alitalia also operates a regional subsidiary under the Alitalia CityLiner brand. Italy's second largest airline is Air Italy, which operates a network of domestic, European and long-haul destinations from its main hub at Milan Malpensa Airport.[18]
 
 An important regional airline is Air Dolomiti, owned by the German Lufthansa Group. Low-cost carriers include Ernest Airlines, while Charter and leisure carriers include Neos, Blue Panorama Airlines and Mistral Air. Major Italian cargo operators are Alitalia Cargo and Cargolux Italia.
 
 Airports
 
-Malpensa_International_Airport_labeled.jpg Italy is the fifth in Europe by number of passengers by air transport, with about 148 million passengers or about 10% of the European total in 2011.[19] Most of passengers in Italy are on international flights (57%). A big share of domestic flights connect the major islands (Sardinia and Sicily) to the mainland.[20] Domestic flights between major Italian cities as Rome and Milan still play a relevant role but are declining since the opening of the Italian high-speed rail network in recent years.
+Italy is the fifth in Europe by number of passengers by air transport, with about 148 million passengers or about 10% of the European total in 2011.[19] Most of passengers in Italy are on international flights (57%). A big share of domestic flights connect the major islands (Sardinia and Sicily) to the mainland.[20] Domestic flights between major Italian cities as Rome and Milan still play a relevant role but are declining since the opening of the Italian high-speed rail network in recent years.
 
 Italy has a total as of 130 airports in 2012, of which 99 have paved runways:[21]
 
@@ -236,7 +234,7 @@ Airports - with unpaved runways in 2012:[22]
 
 Busiest airports
 
-Rom_Fiumicino_2011-by-RaBoe-02.jpg This is a list of the top ten busiest airports in Italy in 2017.[23]
+This is a list of the top ten busiest airports in Italy in 2017.[23]
 
   Airport                     Movements          Passengers   Freight (tons)
   --------------------------- ------------------ ------------ ----------------

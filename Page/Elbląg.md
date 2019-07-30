@@ -20,8 +20,6 @@ _Elbląg_ derives from the earlier German-language _Elbing_, which is the name b
 
 Modern city
 
-Elbląg_-_Brama_Targowa.jpg Elbląg,_układ_urbanistyczny_Starego_Miasta.jpg
-
 Elbing was almost completely destroyed at the end of World War II. The city became the Polish Elbląg after the war, when the area was ceded to Poland under border changes promulgated at the Potsdam Conference. Parts of the inner city were gradually rebuilt, and around 2000 rebuilding was begun in a style emulating the previous architecture, in many cases over the same foundations and utilizing old bricks and portions of the same walls. The western suburbs of the old city have not been reconstructed.
 
 The modern city adjoins about half the length of the river between Lake Drużno and Elbląg Bay (_Zatoka Elbląska_, an arm of the Vistula Lagoon), and spreads out on both banks, though mainly on the eastern side. To the east is the Elbląg Upland (_Wysoczyzna Elbląska_), a dome pushed up by glacial compression, 390 km² in diameter and high at its greatest elevation.[9] It gives the appearance of ridges and parkland.
@@ -42,7 +40,7 @@ History
 
 Truso
 
-Wieża_Katedry_w_Elblągu_przed_1945.jpg The settlement was first mentioned as "Ilfing" in _The Voyages of Ohthere and Wulfstan_, an Anglo-Saxon chronicle written in King Alfred's reign using information from a Viking who had visited the area.
+The settlement was first mentioned as "Ilfing" in _The Voyages of Ohthere and Wulfstan_, an Anglo-Saxon chronicle written in King Alfred's reign using information from a Viking who had visited the area.
 
 During the Middle Ages, the Viking settlement of Truso was located on Lake Drużno, near the current site of Elbląg in historical Pogesania; the settlement burned down in the 10th century.[11] Early in the 13th century the Teutonic Knights conquered the region, built a castle, and founded Elbing on the lake, with a population mostly from Lübeck (today the lake, now much smaller, no longer reaches the city). After the uprising against the Teutonic Knights and the destruction of the castle by the inhabitants, the city successively came under the sovereignty of the Polish crown (1454), the Kingdom of Prussia (1772), and Germany (1871). Elbing was heavily damaged in World War II, and its German citizens were expelled upon the war's end. The city became part of Poland in 1945 and was repopulated with Polish citizens.
 
@@ -54,7 +52,7 @@ Archaeological finds in 1897 and diggings in the 1920s placed Truso at Gut Hansd
 
 Prussian Crusade
 
-Elbląskie_kamienice_-_panoramio.jpg tenements and houses in the Old Town]] Gimnazjum_nr_5_w_Elblągu.jpg Elbląg_Warszawska_55_willa_nr_644843_fota_7.JPG style, can be seen in the outer suburbs of Elbląg]]
+tenements and houses in the Old Town]] style, can be seen in the outer suburbs of Elbląg]]
 
 Attempts to conquer Prussian land began in 997, when Bolesław I the Brave, at the urging of the Pope, sent a contingent of soldiers and a missionary (Adalbert of Prague) to the pagan Prussians, a non-Slavic people, on a crusade of conquest and conversion. The crusade encompassed much of the Baltic Sea coast, including Danzig (present day Gdańsk), and other areas of the coast up to Sambia. Starting in 1209 additional crusades were called for by Konrad of Masovia, who mainly sought to conquer Prussian territory, rather than actually convert the indigenous Prussians. Despite heroic efforts, Old Prussian sovereignty would eventually collapse after a succession of wars instigated by Pope Honorius III and his frequent calls for crusade.
 
@@ -83,8 +81,6 @@ Apparently the river was in Pomesania, which the knights had just finished clear
 
     "The master ... came to the region of Pogesania, to that island which is in the middle of the Elbing river, in that place where the Elbing enters the Vistula Lagoon, and built there a fort, which he called by the name of the Elbing River, in the year of the incarnation of the Lord, 1237. Others report that the same fort was attacked by the infidels and then was moved to the place where it is now situated, and the city gathered around it."
 
-Elbląg_Świętego_Ducha_25.JPG
-
 Both landings were amphibious operations conducted from the ships. The _Chronicon_ relates that they were in use for many years and then were sunk in Lake Drusen. In 1238 the Dominican Order was invited to build a monastery on a grant of land. Pomesania was not secured, however, and from 1240-1242 the order began building a brick castle on the south side of the settlement. It may be significant that Elbing's first industry was the same as Truso's had been: manufacture of amber and bone artifacts for export. In 1243 William of Modena created the Diocese of Pomesania and three others. They were at first only ideological constructs, but the tides of time turned them into reality in that same century.
 
 The foundation of Elbing was perhaps not the end of the Old Prussian story in the region. In 1825 a manuscript listing a vocabulary of the Baltic Old Prussian language, named the Elbing-Prussian Dictionary (), or more commonly in English just Elbing Vocabulary, was found among some manuscripts from a merchant's house. It contained 802 words in a dialect now termed Pomesanian with their equivalents in an early form of German.
@@ -93,7 +89,7 @@ The origin of the vocabulary remains unknown. Its format is like that of modern 
 
 Hanseatic Elbing
 
-Siegel_Elbing_1350.jpg In 1246 the town was granted a constitution under Lübeck law, used in maritime circumstances, instead of Magdeburg rights common in other cities in Central Europe. This decision of the Order was in keeping with its general strategy of espousing the trade association that in 1358 would become the Hanseatic League. The Order seized on this association early and used it to establish bases throughout the Baltic. The Order's involvement in the League was somewhat contradictory. In whatever cities they founded the ultimate authority was the commander of the town, who kept office in the citadel, typically used as a prison. Lübeck law, on the other hand, provided for self-government of the town.
+In 1246 the town was granted a constitution under Lübeck law, used in maritime circumstances, instead of Magdeburg rights common in other cities in Central Europe. This decision of the Order was in keeping with its general strategy of espousing the trade association that in 1358 would become the Hanseatic League. The Order seized on this association early and used it to establish bases throughout the Baltic. The Order's involvement in the League was somewhat contradictory. In whatever cities they founded the ultimate authority was the commander of the town, who kept office in the citadel, typically used as a prison. Lübeck law, on the other hand, provided for self-government of the town.
 
 Membership in the Hanseatic League meant having important trading contacts with England, Flanders, France, and the Netherlands. The city received numerous merchant privileges from the rulers of England, Poland, Pomerania, and the Teutonic Order. For instance, the privilege of the Old Town was upgraded in 1343, while in 1393 it was granted an emporium privilege for grains, metals, and forest products.
 
@@ -103,7 +99,7 @@ The German-language _Elbinger Rechtsbuch_,[15] written in Elbing, Prussia docume
 
 Kingdom of Poland
 
-SM_Elbląg_Wigilijna3_(0).jpg and Gdańsk]] In 1440 several western and eastern Prussian towns formed the Prussian Confederation, which led the revolt of Prussia against the rule of the Teutonic Knights in 1454. For assistance against the Order, the Confederation asked for help from King Casimir IV of Poland. The burghers of Elbląg recognized Casimir as rightful ruler. After paying homage to the King, the city was granted great privileges, similar to those of Toruń and Gdańsk. Casimir's incorporation of Prussia led to the Thirteen Years' War.
+and Gdańsk]] In 1440 several western and eastern Prussian towns formed the Prussian Confederation, which led the revolt of Prussia against the rule of the Teutonic Knights in 1454. For assistance against the Order, the Confederation asked for help from King Casimir IV of Poland. The burghers of Elbląg recognized Casimir as rightful ruler. After paying homage to the King, the city was granted great privileges, similar to those of Toruń and Gdańsk. Casimir's incorporation of Prussia led to the Thirteen Years' War.
 
 After the Polish victory over the Teutonic Order, the city became part of the Malbork Voivodeship in the newly established autonomous province of Royal Prussia under the suzerainty of the Polish crown in the Second Peace of Thorn. The city was known to the Polish crown by its Polish name ELBLĄG. With the creation of the Polish–Lithuanian Commonwealth in 1569, the city was brought under direct control of the Polish crown. As one of the largest and most influential cities of Poland, it enjoyed voting rights during the royal election period in Poland.[18]
 
@@ -123,13 +119,13 @@ During the War of the Polish Succession in 1734, Elbląg wasplaced under militar
 
 Kingdom of Prussia
 
-Cerkiew_greko-katolicka_ul._Traugutta.JPG Church of Elbląg]] During the First Partition of Poland in 1772 Elbląg was annexed by King Frederick the Great of the Kingdom of Prussia. Elbing became part of the new Prussian Province of West Prussia in 1773. In the 1815 provincial reorganization following the Napoleonic Wars, Elbing and its hinterland were included within Regierungsbezirk Danzig in West Prussia.
+Church of Elbląg]] During the First Partition of Poland in 1772 Elbląg was annexed by King Frederick the Great of the Kingdom of Prussia. Elbing became part of the new Prussian Province of West Prussia in 1773. In the 1815 provincial reorganization following the Napoleonic Wars, Elbing and its hinterland were included within Regierungsbezirk Danzig in West Prussia.
 
 Elbing industrialized under the sovereignty of the Hohenzollern kings in Berlin. In 1828 the first steamship was built by Ignatz Grunau. In 1837 Ferdinand Schichau started the Schichau-Werke company in Elbing as well as another shipyard in Danzig later on. Schichau constructed the _Borussia_, the first screw-vessel in Germany. Schichau-Werke built hydraulic machinery, ships, steam engines, and torpedoes. After the inauguration of the railway to Königsberg in 1853, Elbing's industry began to grow. Schichau worked together with his son-in-law Carl H. Zise, who continued the industrial complex after Schichau's death. Schichau erected large complexes for his many thousands of workers.
 
 Georg Steenke, an engineer from Königsberg, connected Elbing near the Baltic Sea with the southern part of Prussia by building the Oberländischer Kanal (Elbląg Canal).
 
-Elbląg_Holy_Trinity_church_Kielecka_24-007.JPG Holy Trinity Church]]
+Holy Trinity Church]]
 
 Elbing became part of the Prussian-led German Empire in 1871 during the unification of Germany. As Elbing became an industrial city, the Social Democratic Party of Germany (SPD) frequently received the majority of votes; in the 1912 Reichstag elections the SPD received 51% of the vote. After World War I, most of West Prussia became part of the Second Polish Republic. Elbing was joined to German East Prussia, and was separated from Weimar Germany by the so-called Polish Corridor.
 
@@ -143,7 +139,7 @@ The city was repopulated and given the Polish name _Elbląg_. Elbląg' was part 
 
 Along with Tricity and Szczecin, Elbląg was the scene of rioting in the coastal cities in 1970 (see also Polish 1970 protests). Since 1990 the German minority population has had a modest resurgence, with the Elbinger Deutsche Minderheit Organization counting around 450 members in 2000.
 
-Butelki_piwa_EB.jpg - Polish beer produced by the Elbrewery Company in Elbląg]] Restoration of the Old Town began after 1989. Since the beginning of the restoration, an extensive archaeological programme has been carried out. Most of the city's heritage was destroyed during the construction of basements in the 19th century or during World War II, but the backyards and latrines of the houses remained largely unchanged, and have provided information on the city's history. In some instances, private investors have incorporated parts of preserved stonework into new architecture. By 2006, approximately 75% of the Old Town had been reconstructed. The city museum presents many pieces of art and items of everyday use, including the only 15th century binoculars preserved in Europe.
+- Polish beer produced by the Elbrewery Company in Elbląg]] Restoration of the Old Town began after 1989. Since the beginning of the restoration, an extensive archaeological programme has been carried out. Most of the city's heritage was destroyed during the construction of basements in the 19th century or during World War II, but the backyards and latrines of the houses remained largely unchanged, and have provided information on the city's history. In some instances, private investors have incorporated parts of preserved stonework into new architecture. By 2006, approximately 75% of the Old Town had been reconstructed. The city museum presents many pieces of art and items of everyday use, including the only 15th century binoculars preserved in Europe.
 
 Elbląg is also home to the Elbrewery, Poland's largest brewery, which belongs to the Żywiec Group (Heineken). The history of the Elblag Brewing Tradition dates back to 1309, when Teutonic Master Siegfried von Leuchtwangen granted brewing privileges to the town of Elbing. The present brewery was founded in 1872 as the Elbinger Aktien-Brauerei. In the early 1900s, the brewery was the exclusive supplier of Pilsner beer to the court of German Emperor Wilhelm II.
 

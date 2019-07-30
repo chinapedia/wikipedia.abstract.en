@@ -91,8 +91,6 @@ Takeo Murata and Honda co-wrote the screenplay in three weeks, confining themsel
 
 Creature design
 
-Godzilla_'54_design.jpg
-
 Godzilla was designed by Teizo Toshimitsu and Akira Watanabe under Eiji Tsuburaya's supervision. Early on, Tanaka contemplated on having the monster be gorilla-like or whale-like in design due to the name "Gojira" (a combination of the Japanese words for gorilla, _gorira,_ and whale, _kujira_) but eventually settled on a dinosaur-like design. Kazuyoshi Abe was hired earlier to design Godzilla but his ideas were later rejected due to Godzilla looking too humanoid and mammalian, with a head shaped like a mushroom cloud, however Abe was retained to help draw the film's storyboards.
 
 Toshimitsu and Watanabe decided to base Godzilla's design on dinosaurs and, by using dinosaur books and magazines as a reference, combined elements of a Tyrannosaurus, Iguanodon and the dorsal fins of a Stegosaurus. Despite wanting to have utilized stop motion animation, Tsuburaya reluctantly settled on suitmation. Toshimitsu sculpted three clay models on which the suit would be based. The first two were rejected but the third was approved by Tsuburaya, Tanaka, and Honda.
@@ -123,7 +121,7 @@ The most recent release of the soundtrack was in April 2010, by Classic Media. I
 
 Release
 
-Rialtogodzilla.jpg' poster for the 2004 U.S release of _Godzilla_.]]
+' poster for the 2004 U.S release of _Godzilla_.]]
 
 Theatrical
 
@@ -189,7 +187,7 @@ Accolades
 
 American version
 
-Godzilla,_King_of_the_Monsters!_(1956)_poster.jpg Following the film's success in Japan, Toho sold the American rights to Joseph E. Levine for $25,000. A heavily altered version of the film was released in the United States and worldwide as _Godzilla, King of the Monsters!_ on April 27, 1956.
+Following the film's success in Japan, Toho sold the American rights to Joseph E. Levine for $25,000. A heavily altered version of the film was released in the United States and worldwide as _Godzilla, King of the Monsters!_ on April 27, 1956.
 
 This version trimmed the original down to 80 minutes and featured new footage with Canadian actor Raymond Burr interacting with body doubles mixed with Honda's footage to make it seem like he was part of the original Japanese production. Many of the film's political themes were trimmed or removed completely. It was this version of the original _Godzilla_ film that introduced audiences worldwide to the character and franchise and the only version that critics and scholars had access to until 2004 when the 1954 film was released in select theaters in North America. _Godzilla, King of the Monsters_ grossed $2 million during its theatrical run, more than what the 1954 film grossed in Japan.
 

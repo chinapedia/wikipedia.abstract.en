@@ -1,4 +1,4 @@
-Laser_Interference.JPG beam made on a plate after passing through a small circular aperture in another plate]]
+beam made on a plate after passing through a small circular aperture in another plate]]
 
 DIFFRACTION refers to various phenomena that occur when a wave encounters an obstacle or a slit. It is defined as the bending of waves around the corners of an obstacle or through an aperture into the region of geometrical shadow of the obstacle/aperture. The diffracting object or aperture effectively becomes a secondary source of the propagating wave. Italian scientist Francesco Maria Grimaldi coined the word "diffraction" and was the first to record accurate observations of the phenomenon in 1660.Francesco Maria Grimaldi, _Physico mathesis de lumine, coloribus, et iride, aliisque annexis libri duo_ (Bologna ("Bonomia"), Italy: Vittorio Bonati, 1665), page 2 :
 
@@ -6,7 +6,7 @@ DIFFRACTION refers to various phenomena that occur when a wave encounters an obs
 
   _Translation_ : It has illuminated for us another, fourth way, which we now make known and call "diffraction" [i.e., shattering], because we sometimes observe light break up; that is, that parts of the compound [i.e., the beam of light], separated by division, advance farther through the medium but in different [directions], as we will soon show.
 
-[1] Single_Slit_Diffraction.svg In classical physics, the diffraction phenomenon is described by the Huygens–Fresnel principle that treats each point in a propagating wave-front as a collection of individual spherical wavelets.[2] The characteristic banding pattern is most pronounced when a wave from a coherent source (such as a laser) encounters a slit/aperture that is comparable in size with its wavelength, as shown in the inserted image. This is due to the addition, or interference, of different points on the wave-front (or, equivalently, each wavelet) that travel by paths of different lengths to the registering surface. However, if there are multiple, closely spaced openings, a complex pattern of varying intensity can result.
+[1] In classical physics, the diffraction phenomenon is described by the Huygens–Fresnel principle that treats each point in a propagating wave-front as a collection of individual spherical wavelets.[2] The characteristic banding pattern is most pronounced when a wave from a coherent source (such as a laser) encounters a slit/aperture that is comparable in size with its wavelength, as shown in the inserted image. This is due to the addition, or interference, of different points on the wave-front (or, equivalently, each wavelet) that travel by paths of different lengths to the registering surface. However, if there are multiple, closely spaced openings, a complex pattern of varying intensity can result.
 
 These effects also occur when a light wave travels through a medium with a varying refractive index, or when a sound wave travels through a medium with varying acoustic impedance – all waves diffract, including gravitational waves, water waves, and other electromagnetic waves such as X-rays and radio waves. Furthermore, quantum mechanics also demonstrates that matter possesses wave-like properties, and hence, undergoes diffraction (which is measurable at subatomic to molecular levels).[3]
 
@@ -15,16 +15,12 @@ Diffraction and interference are closely related and are nearly – if not exact
 
 Examples
 
-Wave_diffraction_at_the_Blue_Lagoon,_Abereiddy.jpg Glory (optical phenomenon) at the steam from hot springs. A GLORY is an optical phenomenon produced by light backscattered (a combination of diffraction, reflection and refraction) towards its source by a cloud of uniformly sized water droplets.|thumb
-
 The effects of diffraction are often seen in everyday life. The most striking examples of diffraction are those that involve light; for example, the closely spaced tracks on a CD or DVD act as a diffraction grating to form the familiar rainbow pattern seen when looking at a disc. This principle can be extended to engineer a grating with a structure such that it will produce any diffraction pattern desired; the hologram on a credit card is an example. Diffraction in the atmosphere by small particles can cause a bright ring to be visible around a bright light source like the sun or the moon. A shadow of a solid object, using light from a compact source, shows small fringes near its edges. The speckle pattern which is observed when laser light falls on an optically rough surface is also a diffraction phenomenon. When deli meat appears to be iridescent, that is diffraction off the meat fibers.[5] All these effects are a consequence of the fact that light propagates as a wave.
 
 Diffraction can occur with any kind of wave. Ocean waves diffract around jetties and other obstacles. Sound waves can diffract around objects, which is why one can still hear someone calling even when hiding behind a tree.[6] Diffraction can also be a concern in some technical applications; it sets a fundamental limit to the resolution of a camera, telescope, or microscope.
 
 
 History
-
-Young_Diffraction.png
 
 The effects of diffraction of light were first carefully observed and characterized by Francesco Maria Grimaldi, who also coined the term _diffraction_, from the Latin _diffringere_, 'to break into pieces', referring to light breaking up into different directions. The results of Grimaldi's observations were published posthumously in 1665.[7][8][9] Isaac Newton studied these effects and attributed them to _inflexion_ of light rays. James Gregory (1638–1675) observed the diffraction patterns caused by a bird feather, which was effectively the first diffraction grating to be discovered.[10] Thomas Young performed a celebrated experiment in 1803 demonstrating interference from two closely spaced slits.[11] Explaining his results by interference of the waves emanating from the two different slits, he deduced that light must propagate as waves. Augustin-Jean Fresnel did more definitive studies and calculations of diffraction, made public in 1815[12] and 1818,See:
 
@@ -34,7 +30,7 @@ The effects of diffraction of light were first carefully observed and characteri
 
 Mechanism
 
-Single-slit-diffraction-ripple-tank.jpg]]
+]]
 
 In traditional classical physics diffraction arises because of the way in which waves propagate; this is described by the Huygens–Fresnel principle and the principle of superposition of waves. The propagation of a wave can be visualized by considering every particle of the transmitted medium on a wavefront as a point source for a secondary spherical wave. The wave displacement at any subsequent point is the sum of these secondary waves. When waves are added together, their sum is determined by the relative phases as well as the amplitudes of the individual waves so that the summed amplitude of the waves can have any value between zero and the sum of the individual amplitudes. Hence, diffraction patterns usually have a series of maxima and minima.
 
@@ -52,10 +48,6 @@ Diffraction of light
 Some examples of diffraction of light are considered below.
 
 Single-slit diffraction
-
-One_wave_slit_diffraction_dirichlet_bw.gif Four_waves_slit_diffraction_dirichlet_bw.gif
-
-Wave_Diffraction_4Lambda_Slit.png Single_Slit_Diffraction_(english).svg
 
 A long slit of infinitesimal width which is illuminated by light diffracts the light into a series of circular waves and the wavefront which emerges from the slit is a cylindrical wave of uniform intensity.
 
@@ -88,8 +80,6 @@ where
 
 This analysis applies only to the far field, that is, at a distance much larger than the width of the slit.
 
-Diffraction2vs5.jpg Diffraction-red_laser-diffraction_grating_PNr°0126.jpg Diffraction_150_slits.jpg
-
 Diffraction grating
 
 A diffraction grating is an optical component with a regular pattern. The form of the light diffracted by a grating depends on the structure of the elements and the number of elements present, but all gratings have intensity maxima at angles θ_(m) which are given by the grating equation
@@ -104,10 +94,6 @@ where
 The light diffracted by a grating is found by summing the light diffracted from each of the elements, and is essentially a convolution of diffraction and interference patterns.
 
 The figure shows the light diffracted by 2-element and 5-element gratings where the grating spacings are the same; it can be seen that the maxima are in the same position, but the detailed structures of the intensities are different.
-
-Airy-pattern.svg
-
-Computer generated light diffraction pattern from a circular aperture of diameter 0.5 micrometre at a wavelength of 0.6 micrometre (red-light) at distances of 0.1 cm – 1 cm in steps of 0.1 cm. One can see the image moving from the Fresnel region into the Fraunhofer region where the Airy pattern is seen.
 
 Circular aperture
 
@@ -140,7 +126,7 @@ Therefore, if an electric field, E_(inc)(_x_,_y_) is incident on the aperture, t
 
 $$\Psi(r)\propto \iint\limits_\mathrm{aperture} E_\mathrm{inc}(x',y')~ \frac{e^{ik | \mathbf r - \mathbf r'|}}{4 \pi | \mathbf r - \mathbf r' |} \,dx'\, dy',$$
 
-On the calculation of Fraunhofer region fields where the source point in the aperture is given by the vector
+where the source point in the aperture is given by the vector
 
 R′ = _x_′X̂ + _y_′Ŷ
 
@@ -192,7 +178,7 @@ When the wave front of the emitted beam has perturbations, only the transverse c
 
 Diffraction-limited imaging
 
-zboo_lucky_image_1pc.png'' of the binary star zeta Boötis.]]
+'' of the binary star zeta Boötis.]]
 
 The ability of an imaging system to resolve detail is ultimately limited by diffraction. This is because a plane wave incident on a circular lens or mirror is diffracted as described above. The light is not focused to a point but forms an Airy disk having a central spot in the focal plane with radius to first null of
 
@@ -219,7 +205,7 @@ Babinet's Principle is a useful theorem stating that the diffraction pattern fro
 
 Patterns
 
-Diffraction_on_elliptic_aperture_with_fft.png Several qualitative observations can be made of diffraction in general:
+Several qualitative observations can be made of diffraction in general:
 
 -   The angular spacing of the features in the diffraction pattern is inversely proportional to the dimensions of the object causing the diffraction. In other words: The smaller the diffracting object, the 'wider' the resulting diffraction pattern, and vice versa. (More precisely, this is true of the sines of the angles.)
 -   The diffraction angles are invariant under scaling; that is, they depend only on the ratio of the wavelength to the size of the diffracting object.
@@ -243,7 +229,7 @@ Relatively larger molecules like buckyballs were also shown to diffract.[15]
 
 Bragg diffraction
 
-X-ray_diffraction_pattern_3clpro.jpg, each dot (or _reflection_) in this diffraction pattern forms from the constructive interference of X-rays passing through a crystal. The data can be used to determine the crystal's atomic structure.]] Diffraction from a three-dimensional periodic structure such as atoms in a crystal is called Bragg diffraction. It is similar to what occurs when waves are scattered from a diffraction grating. Bragg diffraction is a consequence of interference between waves reflecting from different crystal planes. The condition of constructive interference is given by _Bragg's law_:
+, each dot (or _reflection_) in this diffraction pattern forms from the constructive interference of X-rays passing through a crystal. The data can be used to determine the crystal's atomic structure.]] Diffraction from a three-dimensional periodic structure such as atoms in a crystal is called Bragg diffraction. It is similar to what occurs when waves are scattered from a diffraction grating. Bragg diffraction is a consequence of interference between waves reflecting from different crystal planes. The condition of constructive interference is given by _Bragg's law_:
 
 _m__λ_ = 2_d_sin _θ_ 
 where

@@ -1,9 +1,7 @@
-This article provides a breakdown of the transportation options available in Cameroon. The options available to citizens and tourists include railways, roadways, waterways, pipelines, and airlines. These avenues of transportation are used by citizens for personal transportation, by businesses for transporting goods, and by tourists for both accessing the country and traveling while there.Bush_taxi_minibus_type.jpg in the East Province]]
+This article provides a breakdown of the transportation options available in Cameroon. The options available to citizens and tourists include railways, roadways, waterways, pipelines, and airlines. These avenues of transportation are used by citizens for personal transportation, by businesses for transporting goods, and by tourists for both accessing the country and traveling while there. in the East Province]]
 
 
 Railways
-
-Passa_du_train.JPG
 
 Railways in Cameroon are operated by Camrail, a subsidiary of French investment group Bolloré. As of May 2014 Camrail operated regular daily services on three routes:[1]
 
@@ -18,7 +16,7 @@ There are no rail links with neighbouring countries.
 
 Roadways
 
-Yaounde_buses.JPG]] _Total highways:_ 50,000 km
+]] _Total highways:_ 50,000 km
 _Paved:_ 5,000 km
 _Unpaved:_ 45,000 km (2004)
 
@@ -53,7 +51,7 @@ Waterways
 
 Seaports and harbors
 
-Port_autonome_de_Douala_01.JPG Of the operating maritime ports in Cameroon, Douala is the busiest and most important. Lesser ports include Kribi, used chiefly for the export of wood, and Limbé, used only for palm-oil exports. Garoua, on the Benoué River, is the main river port, but it is active only from July to September. In 2005, Cameroon's merchant fleet consisted of one petroleum tanker, totalling 169,593 GRT.
+Of the operating maritime ports in Cameroon, Douala is the busiest and most important. Lesser ports include Kribi, used chiefly for the export of wood, and Limbé, used only for palm-oil exports. Garoua, on the Benoué River, is the main river port, but it is active only from July to September. In 2005, Cameroon's merchant fleet consisted of one petroleum tanker, totalling 169,593 GRT.
 
 -   Douala - main port, railhead, and second largest city.
 -   Bonaberi - railhead to northwest

@@ -274,7 +274,7 @@ Although Straczynski is a professed atheist, _Babylon 5_ refers to the Christian
 
 Use of the Internet
 
-Old_School.gif The show employed Internet marketing to create a buzz among online readers far in advance of the airing of the pilot episode,[128] with Straczynski participating in online communities on USENET (in the rec.arts.sf.tv.babylon5.moderated newsgroup), and the GEnie and CompuServe systems before the Web came together as it exists today. The station's location, in "grid epsilon" at coordinates of 470/18/22, was a reference to GEnie ("grid epsilon" = "GE")[129] and the original forum's address on the system's bulletin boards (page 470, category 18, topic 22).[130]
+The show employed Internet marketing to create a buzz among online readers far in advance of the airing of the pilot episode,[128] with Straczynski participating in online communities on USENET (in the rec.arts.sf.tv.babylon5.moderated newsgroup), and the GEnie and CompuServe systems before the Web came together as it exists today. The station's location, in "grid epsilon" at coordinates of 470/18/22, was a reference to GEnie ("grid epsilon" = "GE")[129] and the original forum's address on the system's bulletin boards (page 470, category 18, topic 22).[130]
 
 Also during this time, Warner Bros. executive Jim Moloshok created and distributed electronic trading cards to help advertise the series.[131] In 1995, Warner Bros. started the Official _Babylon 5_ Website on the now defunct Pathfinder portal. In September 1995, they hired series fan Troy Rutter to take over the site and move it to its own domain name, and to oversee the _Keyword B5_ area on America Online.[132]
 

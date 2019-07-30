@@ -1,4 +1,4 @@
-Spicy_pugliese_and_margherita_pizzas_-_NYC_Pizza_Expedition_2009.jpg _(left)_ and Pizza Margherita (DOC) _(right)_]] Spaghetti_vongole_2.jpg]] Tiramisu_with_blueberries_and_raspberries,_July_2011.jpg is an Italian dessert]]
+_(left)_ and Pizza Margherita (DOC) _(right)_]] ]] is an Italian dessert]]
 
 This is a LIST OF ITALIAN DISHES AND FOODS. Italian cuisine has developed through centuries of social and political changes, with roots as far back as the 4th century BC. Italian cuisine has its origins in Etruscan, ancient Greek, and ancient Roman cuisines. Significant changes occurred with the discovery of the New World and the introduction of potatoes, tomatoes, bell peppers and maize, now central to the cuisine but not introduced in quantity until the 18th century.[1][2] The cuisine of Italy is noted for its regional diversity,[3][4][5] abundance of difference in taste, and is known to be one of the most popular in the world,[6] with influences abroad.[7]
 
@@ -41,7 +41,7 @@ Zuppe e salse (soups and sauces)
 
 Pane (bread)
 
-Pane_toscano.jpg]] Piadina-cuisson.JPG, a Romagna flatbread]]
+]] , a Romagna flatbread]]
 
 -   Bari
 -   Bozza pratese
@@ -87,7 +87,7 @@ Pane_toscano.jpg]] Piadina-cuisson.JPG, a Romagna flatbread]]
 
 Common pizzas
 
-Calzone_Tradition_+_poivrons.JPG]] Eq_it-na_pizza-margherita_sep2005_sml.jpg
+]]
 
 -   Ai frutti di mare – an Italian seafood pizza that may be served with scampi, mussels or squid[11]
 -   Calzone – folded over dough usually filled with ricotta and other ingredients
@@ -106,7 +106,7 @@ Calzone_Tradition_+_poivrons.JPG]] Eq_it-na_pizza-margherita_sep2005_sml.jpg
 
 Pasta varieties
 
-Pasta_Venice.jpg, at a pasta specialty store in Venice]]
+, at a pasta specialty store in Venice]]
 
 -   Agnolotti
 -   Bavette, bigoli, bucatini
@@ -135,7 +135,7 @@ Pasta_Venice.jpg, at a pasta specialty store in Venice]]
 
 Pasta dishes
 
-Gnocchi_di_ricotta_burro_e_salvia.jpg di ricotta'', dressed in butter and sage]]
+di ricotta'', dressed in butter and sage]]
 
 -   Bucatini all'Amatriciana, bucatini coi funghi, bucatini alla Sorrentina
 -   Cannelloni al ragù, cannelloni ai carciofi
@@ -160,7 +160,7 @@ Gnocchi_di_ricotta_burro_e_salvia.jpg di ricotta'', dressed in butter and sage]]
 
 Rice dishes
 
-Arancini_002.jpg from Palermo]] Risotto_alla_milanese_con_ossobuco_di_vitello_piemontese_(4520612452).jpg alla milanese con ossobuco di vitello piemontese]] Rice (_riso_) dishes are very common in Northern Italy, especially in the Lombardia and Veneto regions, though rice dishes are found throughout the country.
+from Palermo]] alla milanese con ossobuco di vitello piemontese]] Rice (_riso_) dishes are very common in Northern Italy, especially in the Lombardia and Veneto regions, though rice dishes are found throughout the country.
 
 -   Arancini
 -   Insalata di riso
@@ -195,7 +195,7 @@ Arancini_002.jpg from Palermo]] Risotto_alla_milanese_con_ossobuco_di_vitello_pi
 
 Pesce (fish dishes)
 
-Acqua_pazza.jpg, a fish dish featuring black olives, scallions and mushrooms]] Cacciucco.jpg]] CapponMagroMD.jpg]]
+, a fish dish featuring black olives, scallions and mushrooms]] ]] ]]
 
 -   Acciughe fritte in pastella
 -   Acciughe in carpione
@@ -270,7 +270,7 @@ Acqua_pazza.jpg, a fish dish featuring black olives, scallions and mushrooms]] C
 
 Carne (meat dishes and cured meats)
 
-Braised_Quebec_rabbit_cacciatore_-_Giorgio's_Trattoria.jpg]] Cotoletta_e_patate_al_forno.jpg with potatoes]]
+]] with potatoes]]
 
 -   Abbacchio alla Cacciatora
 -   Abbacchio brodettato
@@ -324,8 +324,6 @@ Braised_Quebec_rabbit_cacciatore_-_Giorgio's_Trattoria.jpg]] Cotoletta_e_patate_
 
 Verdura (vegetable dishes)
 
-Pinzimonio.jpg
-
 -   Asparagi bianchi e verdi (asparagus)
 -   Caponata
 -   Carciofi alla Romana
@@ -344,7 +342,7 @@ Nut dishes
 
 Vino (wines)
 
-A_glass_of_Lambrusco.jpg]] Sangiovese_close_up_crop.jpg grapes]] Vineyards_in_Valpolicella.jpgs in the Valpolicella region]]
+]] grapes]] s in the Valpolicella region]]
 
 -   Abruzzi
     -   Montepulciano d'Abruzzo
@@ -465,7 +463,7 @@ A_glass_of_Lambrusco.jpg]] Sangiovese_close_up_crop.jpg grapes]] Vineyards_in_Va
 
 Formaggi (cheeses)
 
-Asiago_cheese_(1).jpg]] Parmigiano_reggiano_piece.jpg]] Stracchino.jpg]]
+]] ]] ]]
 
 -   Asiago
 -   Asino
@@ -535,7 +533,7 @@ Cheese dishes
 
 Desserts and pastry
 
-Cannoli_siciliani.jpg]] Semifreddo_dessert.jpg dessert]]
+]] dessert]]
 
 -   Aceto dolce – fruit preserves made with vinegar, honey, and grape juice[26]
 -   Anisette (cookie)
@@ -584,7 +582,7 @@ Cannoli_siciliani.jpg]] Semifreddo_dessert.jpg dessert]]
 
 Caffè (coffee)
 
-Linea_doubleespresso.jpg is coffee brewed by forcing a small amount of nearly boiling water under pressure through finely ground coffee beans]]
+is coffee brewed by forcing a small amount of nearly boiling water under pressure through finely ground coffee beans]]
 
 -   Bicerin – coffee, hot chocolate and whipped cream, only in Turin
 -   Caffè americano believed to have originated in World War II when American G.I.s in Italy would dilute espresso with hot water to approximate the coffee to which they were accustomed.
@@ -606,7 +604,7 @@ Linea_doubleespresso.jpg is coffee brewed by forcing a small amount of nearly bo
 
 Famous dishes
 
-Lasagne_-_stonesoup.jpg]]
+]]
 
 -   Baccalà alla Vicentina
 -   Bistecca alla fiorentina (Florentine beefsteak)
@@ -667,8 +665,6 @@ Veneto
 
 Trentino-Alto Adige/Südtirol
 
-Semmelknödel.jpg
-
 -   _Canederli_ or _Knödel_ – dumplings made with leftover bread and cold cuts
 -   _Carnsalada e fasoi_ – aromatized salt beef with beans
 -   _Crauti_ – Sauerkraut
@@ -677,8 +673,6 @@ Semmelknödel.jpg
 -   _Strangolapreti_ – spinach dumplings
 
 Lombardy
-
-Panettone_-_Nicolettone_2017_-_IMG_7085_(31752542285).jpg
 
 -   _Mostarda di Cremona_ – a sweet/spicy sauce made with candied fruits and meant to be served along boiled beef.
 -   _Nocciolini di Canzo_ – small sweet amaretto-style biscuits with hazelnut flour
@@ -696,7 +690,7 @@ Val D'Aosta
 
 Piedmont (_Piemonte_)
 
-Bagna_Cauda_a_la_Champaquí_019.jpg]] Panna_Cotta_with_cream_and_garnish.jpg with cream and garnish]]
+]] with cream and garnish]]
 
 -   _Bagna càuda_ – A hot dip based on anchovies, olive oil and garlic (sometimes blanched in milk), to accompany vegetables (either raw or cooked), meat or fried polenta sticks
 -   _Bollito misto_
@@ -716,7 +710,7 @@ Bagna_Cauda_a_la_Champaquí_019.jpg]] Panna_Cotta_with_cream_and_garnish.jpg wit
 
 Liguria
 
-Buridda_di_seppie_01.jpg]]
+]]
 
 -   _Agliata_ – the direct ancestor of pesto, it is a spread made from garlic cloves, egg yolk and olive oil pestled in a mortar until creamy
 -   _Baccalà fritto_ – morsels of salt cod dipped in flour batter and fried
@@ -750,7 +744,7 @@ Buridda_di_seppie_01.jpg]]
 
 Emilia-Romagna
 
-Cotechino-Servito-Polenta-Lenticchie.jpg _(top)_ served with polenta and lentils]] Piadina.jpg]] Passatelli.jpg]] Dry_tagliatelle_pasta.jpg]]
+_(top)_ served with polenta and lentils]] ]] ]] ]]
 
 -   _Aceto Balsamico Tradizionale di Modena_ (Traditional Balsamic Vinegar) and _Aceto Balsamico Tradizionale di Reggio Emilia_ (Balsamic vinegar) – very precious, expensive and rare sweet, dark, sweet and aromatic vinegar, made in small quantities according to elaborated and time consuming procedures (it takes at least 12 years to brew the youngest Aceto Balsamico) from local grapes must (look for the essential "Tradizionale" denomination on the label to avoid confusing it with the cheaper and completely different "Aceto Balsamico di Modena" vinegar, mass-produced from wine and other ingredients
 -   _Borlengo_ from the hills South of Modena
@@ -793,7 +787,7 @@ Cotechino-Servito-Polenta-Lenticchie.jpg _(top)_ served with polenta and lentils
 
 Toscana
 
-Minestra_di_pane.jpg]]
+]]
 
 -   _Bistecca alla fiorentina_ – grilled Florentine T-bone steak traditionally from the Chianina cattle breed.
 -   _Crema paradiso_ – Tuscan cream
@@ -837,8 +831,6 @@ Specialties of the Norcineria (Umbrian Butcher)
 -   _Mazzafegati_ – sweet or hot pig's liver sausage, the sweet version containing raisins, orange peel and sugar
 -   _Prosciutto di Norcia_ – a pressed, cured ham made from the legs of pigs fed on a strict diet of acorns[27]
 
-Olive_ascolane.jpg
-
 Marche
 
 -   _Brodetto di San Benedetto del Tronto_ – fish stew, San Benedetto del Tronto-style, with green tomatoes and sweet green pepper.[28]
@@ -859,8 +851,6 @@ Unique ham and sausage specialties
 -   _Soppressata di Fabriano_ – finely emulsified pork flavored with bacon, salt and pepper, the sausage is smoked and then aged
 
 Lazio
-
-Gnocchi_with_truffle.jpg
 
 -   _Bucatini all'amatriciana_ – bucatini with guanciale, tomatoes and pecorino
 -   _Carciofi alla giudia_ – artichokes fried in olive oil, typical of Roman Jewish cooking
@@ -887,7 +877,7 @@ Abruzzo and Molise
 
 Campania
 
-Sfogliatelle_on_plate.jpg]] Spaghetti_Vongole_by_ayustety_in_Ginza,_Tokyo.jpg]]
+]] ]]
 
 -   _Babà_ – Neapolitan rum-dippe dessert
 -   _Braciole di maiale_ – Pork loin with tomatoes sauce, garlic, capers and pine nuts
@@ -920,7 +910,7 @@ Sfogliatelle_on_plate.jpg]] Spaghetti_Vongole_by_ayustety_in_Ginza,_Tokyo.jpg]]
 
 Apulia (_Puglia_)
 
-Orecchiette_carbonara.jpg alla carbonara]]
+alla carbonara]]
 
 -   _Burrata_ – a fresh cheese with spun dough, similar to mozzarella, but with a consistency that is softer and more filamentous, particularly produced in the Murgia region, where its place of origin, Andria, is located. The burrata is worked by hand with a filling of cream and pieces of spun dough called _stracciatella_, and it is contained in an envelope also formed of spun dough.
 -   _Caciocavallo podolico_ – a variety of cheese products made exclusively with Podolica cow milk.
@@ -948,7 +938,7 @@ APULIAN BREAD SPECIALTIES
 
 Basilicata
 
-Baccalà_Avigliano.jpg]]
+]]
 
 -   _Agnello alla pastora_ – Lamb with potatoes.
 -   _Baccalà alla lucana_ – Cod with crunchy red peppers.
@@ -1005,7 +995,7 @@ Most important ingredients (see also Italian Herbs and Spices):
 
 File:Oli de l'Empordà.jpg|Extra-virgin olive oil File:Parmesan Series (4341277992).jpg|Parmigiano Reggiano File:Pecorino di Filiano.jpg|Pecorino di Filiano File:Italian Vine Tomatoes (3026014294).jpg|Italian vine tomatoes
 
-Other common ingredients: Balsamic_vinegar_(drops).jpg]] Pasta_machine_2.jpg being prepared in a pasta machine]] RadicchioNL.jpg]]
+Other common ingredients: ]] being prepared in a pasta machine]] ]]
 
 -   Acciughe (anchovies, preserved in olive oil, or in salt)
 -   Aceto balsamico (Balsamic vinegar)

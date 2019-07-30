@@ -80,7 +80,7 @@ Diffloth's widely cited original classification, now abandoned by Diffloth himse
 
 Peiros (2004)
 
-Peiros is a lexicostatistic classification, based on percentages of shared vocabulary. This means that languages can appear to be more distantly related than they actually are due to language contact. Indeed, when Sidwell (2009) replicated Peiros's study with languages known well enough to account for loans, he did not find the internal (branching) structure below. AustroAsiatic_tree_Peiros2004.png
+Peiros is a lexicostatistic classification, based on percentages of shared vocabulary. This means that languages can appear to be more distantly related than they actually are due to language contact. Indeed, when Sidwell (2009) replicated Peiros's study with languages known well enough to account for loans, he did not find the internal (branching) structure below.
 
 -   NICOBARESE
 -   Munda–Khmer
@@ -193,7 +193,7 @@ John Peterson (2017)[27] suggests that "pre-Munda" languages may have once domin
 
 Sidwell (2009, 2011)
 
-Mekong_river_basin.png and Roger Blench propose that the Austroasiatic phylum had dispersed via the Mekong River drainage basin.]] Paul Sidwell (2009), in a lexicostatistical comparison of 36 languages which are well known enough to exclude loan words, finds little evidence for internal branching, though he did find an area of increased contact between the Bahnaric and Katuic languages, such that languages of all branches apart from the geographically distant Munda and Nicobarese show greater similarity to Bahnaric and Katuic the closer they are to those branches, without any noticeable innovations common to Bahnaric and Katuic.
+and Roger Blench propose that the Austroasiatic phylum had dispersed via the Mekong River drainage basin.]] Paul Sidwell (2009), in a lexicostatistical comparison of 36 languages which are well known enough to exclude loan words, finds little evidence for internal branching, though he did find an area of increased contact between the Bahnaric and Katuic languages, such that languages of all branches apart from the geographically distant Munda and Nicobarese show greater similarity to Bahnaric and Katuic the closer they are to those branches, without any noticeable innovations common to Bahnaric and Katuic.
 
 He therefore takes the conservative view that the thirteen branches of Austroasiatic should be treated as equidistant on current evidence. Sidwell & Blench (2011) discuss this proposal in more detail, and note that there is good evidence for a Khasi–Palaungic node, which could also possibly be closely related to Khmuic.[28]
 

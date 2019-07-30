@@ -24,7 +24,7 @@ Mythology
 
 Craft of Hephaestus
 
-Peter_Paul_Rubens_177.jpg Presenting the Arms of Achilles to Thetis'' by Peter Paul Rubens.]] Anthonis_van_Dyck_066.jpg'' by Anthony van Dyck (1630-1632)]]
+Presenting the Arms of Achilles to Thetis'' by Peter Paul Rubens.]] '' by Anthony van Dyck (1630-1632)]]
 
 Hephaestus had his own palace on Olympus, containing his workshop with anvil and twenty bellows that worked at his bidding.[14] Hephaestus crafted much of the magnificent equipment of the gods, and almost any finely wrought metalwork imbued with powers that appears in Greek myth is said to have been forged by Hephaestus. He designed Hermes' winged helmet and sandals, the Aegis breastplate, Aphrodite's famed girdle, Agamemnon's staff of office,[15] Achilles' armor, Diomedes' cuirass, Heracles' bronze clappers, Helios' chariot, the shoulder of Pelops, and Eros's bow and arrows. In later accounts, Hephaestus worked with the help of the chthonic Cyclopes—among them his assistants in the forge, Brontes, Steropes and Pyracmon.[16][17]
 
@@ -58,7 +58,7 @@ Hephaestus was one of the Olympians to have returned to Olympus after being exil
 
 In an archaic story,[26][27] Hephaestus gained revenge against Hera for rejecting him by making her a magical golden throne, which, when she sat on it, did not allow her to stand up.[28] The other gods begged Hephaestus to return to Olympus to let her go, but he refused, saying "I have no mother".
 
-Hephaistos.temple.AC.02.jpg, Agora of Athens.]]
+, Agora of Athens.]]
 
 At last, Dionysus fetched him, intoxicated him with wine, and took the subdued smith back to Olympus on the back of a mule accompanied by revelers – a scene that sometimes appears on painted pottery of Attica and of Corinth.[29][30][31] In the painted scenes, the padded dancers and phallic figures of the Dionysan throng leading the mule show that the procession was a part of the dithyrambic celebrations that were the forerunners of the satyr plays of fifth century Athens.[32][33]
 
@@ -68,7 +68,7 @@ The traveller Pausanias reported seeing a painting in the temple of Dionysus in 
 
 Consorts and children
 
-According to most versions, Hephaestus's consort is Aphrodite, who is unfaithful to Hephaestus with a number of gods and mortals, including Ares. However, in Book XVIII of Homer's _Iliad_, the consort of Hephaestus is a lesser Aphrodite, Charis ("the grace") or Aglaia ("the glorious") – the youngest of the Graces, as Hesiod calls her.[37] Athena_Scorning_the_Advances_of_Hephaestus.jpg Scorning the Advances of Hephaestus'' by Paris Bordone (between c. 1555 and c. 1560)]]
+According to most versions, Hephaestus's consort is Aphrodite, who is unfaithful to Hephaestus with a number of gods and mortals, including Ares. However, in Book XVIII of Homer's _Iliad_, the consort of Hephaestus is a lesser Aphrodite, Charis ("the grace") or Aglaia ("the glorious") – the youngest of the Graces, as Hesiod calls her.[37] Scorning the Advances of Hephaestus'' by Paris Bordone (between c. 1555 and c. 1560)]]
 
 In Athens, there is a Temple of Hephaestus, the _Hephaesteum_ (miscalled the "Theseum") near the agora. An Athenian founding myth tells that the city's patron goddess, Athena, refused a union with Hephaestus. Pseudo-Apollodorus records an archaic legend, which claims that Hephaestus once attempted to rape Athena, but she pushed him away, causing him to ejaculate on her thigh.[38] Athena wiped the semen off using a tuft of wool, which she tossed into the dust, impregnating Gaia and causing her to give birth to Erichthonius,[39] whom Athena adopted as her own child. The Roman mythographer Hyginus records a similar story in which Hephaestus demanded Zeus to let him marry Athena since he was the one who had smashed open Zeus's skull, allowing Athena to be born. Zeus agreed to this and Hephaestus and Athena were married, but, when Hephaestus was about to consummate the union, Athena vanished from the bridal bed, causing him to ejaculate on the floor, thus impregnating Gaia with Erichthonius.[40]
 
@@ -109,7 +109,7 @@ In addition, the Romans claim their equivalent god, Vulcan, to have produced the
 
 Hephaestus and Aphrodite
 
-Guillemot,_Alexandre_Charles_-_Mars_and_Venus_Surprised_by_Vulcan_-_Google_Art_Project.jpg and Venus Surprised by Vulcan'' by Alexandre Charles Guillemot (1827)]] Though married to Hephaestus, Aphrodite had an affair with Ares, the god of war. Eventually, Hephaestus discovered Aphrodite’s affair through Helios, the all-seeing Sun, and planned a trap during one of their trysts. While Aphrodite and Ares lay together in bed, Hephaestus ensnared them in an unbreakable chain-link net so small as to be invisible and dragged them to Mount Olympus to shame them in front of the other gods for retribution.
+and Venus Surprised by Vulcan'' by Alexandre Charles Guillemot (1827)]] Though married to Hephaestus, Aphrodite had an affair with Ares, the god of war. Eventually, Hephaestus discovered Aphrodite’s affair through Helios, the all-seeing Sun, and planned a trap during one of their trysts. While Aphrodite and Ares lay together in bed, Hephaestus ensnared them in an unbreakable chain-link net so small as to be invisible and dragged them to Mount Olympus to shame them in front of the other gods for retribution.
 
 The gods laughed at the sight of these naked lovers, and Poseidon persuaded Hephaestus to free them in return for a guarantee that Ares would pay the adulterer's fine. Hephaestus states in _The Odyssey_ that he would return Aphrodite to her father and demand back his bride price.
 

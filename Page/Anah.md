@@ -1,5 +1,3 @@
-عانة.jpg
-
 ANAH or ANA (, _ʾĀna_), formerly also known as ANNA, is an Iraqi town on the Euphrates river, approximately midway between the Gulf of Alexandretta and the Persian Gulf. Anah lies from west to east on the right bank along a bend of the river just before it turns south towards Hit.
 
 
@@ -18,7 +16,7 @@ Xenophon records that the army of Cyrus resupplied during a campaign in 401  at
 
 Medieval
 
-Manarat_Anah_2.jpg, Abbasid era heritage site, before its destruction.]] In 657, during the Muslim conquest of Iraq, Ali's lieutenants Ziyad and Shureih were refused passage across the Euphrates at Anah.[9] Later, in 1058, Anah was the place of exile of the caliph Qaim when al-Basasiri was in power.[10] In the 14th century, Anah was the seat of the catholicos who served as primate over the Persian Christians. Throughout early Islamic rule, it was a prosperous trade town, well known for its date palms and gardens;[11] in the 14th century, Mustafi wrote of the fame of its palm groves. Medieval Arab poets celebrated Anah's wine;[12][13]
+, Abbasid era heritage site, before its destruction.]] In 657, during the Muslim conquest of Iraq, Ali's lieutenants Ziyad and Shureih were refused passage across the Euphrates at Anah.[9] Later, in 1058, Anah was the place of exile of the caliph Qaim when al-Basasiri was in power.[10] In the 14th century, Anah was the seat of the catholicos who served as primate over the Persian Christians. Throughout early Islamic rule, it was a prosperous trade town, well known for its date palms and gardens;[11] in the 14th century, Mustafi wrote of the fame of its palm groves. Medieval Arab poets celebrated Anah's wine;[12][13]
 
 Between the 14th and 17th centuries, Anah served as a headquarters for a host of regional Arab tribes.[14] In 1574, Leonhart Rauwolff found the town divided into two parts, the Turkish "so surrounded by the river that you cannot go into it but by boats" and the larger Arabian section along one of the banks. In 1610, Texeira said Anah lay on both banks of the river, with which Pietro Della Valle agreed.[15] In that year, Della Valle found the Scot George Strachan resident at Anah, working as the physician to the emir and studying Arabic;[16] he also found some sun worshipers still living there. Della Valle and Texeira called Anah the principal Arab town on the Euphrates, controlling a major route west from Baghdad and territory reaching Palmyra.
 
@@ -29,8 +27,6 @@ About 1750, the Ottomans installed a rudimentary administration to run Anah and 
 At the beginning of the 19th century, G.A. Olivier found only 25 men in service of the local prince, with residents fleeing daily to escape from bedouin attacks against which he offered no protection. He described the city as a single long street of five or six miles along a narrow strip of land between the river and a ridge of rocky hills. W. F. Ainsworth, chronicling the British Euphrates expedition, reported that in 1835 the Arabs inhabited the northwest part of the town, the Christians the center, and the Jews the southeast. The same year, the steamer _Tigris_ went down in a storm just above Anah, near where Julian's force had suffered from a similar storm.
 
 By the mid-19th century, the houses were separated from one another by fruit gardens, which also filled the riverine islands near the town. The most easterly island contained a ruined castle, while the ruins of ancient Anatho extended a further two miles along the left bank. It marked the boundary between the olive (north) and date (south) growing regions in the area. With the positioning of Turkish troops in the town around 1890, the locals no longer had to pay blackmail (_huwwa_) to the bedouins.[19] Through the early 20th century, coarse cotton cloth was the only manufacture. In 1909 Anah had an estimated population of 15,000 and 2,000 houses.[20] Most of the inhabitants were Sunni Muslim Arabs, though a small Jewish community lived on the town's southern edge.[21]
-
-Mosque_in_Anah_Iraq_protected_by_USMC_in_August_2008.jpg
 
 Kingdom of Iraq
 

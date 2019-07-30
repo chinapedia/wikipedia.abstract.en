@@ -5,7 +5,7 @@ _The World Factbook_ is prepared by the CIA for the use of U.S. government offic
 
 Sources
 
-CIA_World_Factbook_Cover.jpg In researching the _Factbook_, the CIA uses the sources listed below. Other public and private sources are also consulted.[6]
+In researching the _Factbook_, the CIA uses the sources listed below. Other public and private sources are also consulted.[6]
 
 -   Antarctic Information Program (National Science Foundation)
 -   Armed Forces Medical Intelligence Center (Department of Defense)
@@ -28,8 +28,6 @@ CIA_World_Factbook_Cover.jpg In researching the _Factbook_, the CIA uses the sou
 
 Copyright
 
-Wfb_webby.png
-
 Because the _Factbook_ is in the public domain, people are free under United States law to redistribute it or parts of it in any way that they like, without permission of the CIA.[7] However, the CIA requests that it be cited when the _Factbook_ is used.[8] Copying the official seal of the CIA without permission is prohibited by U.S. federal law—specifically, the Central Intelligence Agency Act of 1949 ().
 
 
@@ -48,7 +46,7 @@ Many Internet sites use information and images from the CIA _World Factbook_.[25
 
 Entities listed
 
-Map_of_the_world_by_the_US_Gov_as_of_2016.svg As of July 2011, _The World Factbook_ comprises 267 entities,[29] which can be divided into the following categories:[30]
+As of July 2011, _The World Factbook_ comprises 267 entities,[29] which can be divided into the following categories:[30]
 
 Independent countries: The CIA defines these as people "politically organized into a sovereign state with a definite territory."[31] In this category, there are 195 entities.
 Others: Places set apart from the list of independent countries. Currently there are two: Taiwan and the European Union.
@@ -115,7 +113,7 @@ United States Pacific Island Wildlife Refuges and Iles Eparses
 Serbia and Montenegro/Yugoslavia
     The Socialist Federal Republic of Yugoslavia (SFRY) broke apart in 1991. The following year, it was replaced in the _Factbook_ with entries for each of its former constituent republics.[70] In doing this, the CIA listed the Federal Republic of Yugoslavia (FRY), proclaimed in 1992, as _Serbia and Montenegro_, as the U.S. did not recognize the union between the two republics.[71][72] This was done in accordance with a May 21, 1992, decision by the U.S. not to recognize any of the former Yugoslav republics[73][74] as successor states to the recently dissolved SFRY.
 
-FRYugoMap2k.jpg from the 2000 edition of _The World Factbook_.[75] Notice how the disclaimer is printed in the upper right hand corner. One can see how the capital cities of both republics are individually labeled on the map.]]
+from the 2000 edition of _The World Factbook_.[75] Notice how the disclaimer is printed in the upper right hand corner. One can see how the capital cities of both republics are individually labeled on the map.]]
 
     These views were made clear in a disclaimer printed in the _Factbook_: "Serbia and Montenegro have asserted the formation of a joint independent state, but this entity has not been recognized as a state by the United States."[76] Montenegro and Serbia were treated separately in the _Factbook_ data, as can be seen on the map.[77] In October 2000, Slobodan Milošević was forced out of office after a disputed election.[78] This event led to democratic elections and U.S. diplomatic recognition. The 2001 edition of the _Factbook_ thus referred to the state as _Yugoslavia_.[79] On March 14, 2002, an agreement was signed to transform the FRY into a loose state union called Serbia and Montenegro;[80] it took effect on February 4, 2003.[81] The name of the Yugoslavia entity was altered in the _Factbook_ the month after the change.[82]
 

@@ -14,7 +14,7 @@ A large number of colloquial terms for breasts are used in English, ranging from
 
 Anatomy
 
-Breast_anatomy_normal_scheme.png. ]]
+. ]]
 
 In women, the breasts overlie the pectoralis major muscles and usually extend from the level of the second rib to the level of the sixth rib in the front of the human rib cage; thus, the breasts cover much of the chest area and the chest walls. At the front of the chest, the breast tissue can extend from the clavicle (collarbone) to the middle of the sternum (breastbone). At the sides of the chest, the breast tissue can extend into the axilla (armpit), and can reach as far to the back as the latissimus dorsi muscle, extending from the lower back to the humerus bone (the bone of the upper arm). As a mammary gland, the breast is composed of differing layers of tissue, predominantly two types: adipose tissue; and glandular tissue, which affects the lactation functions of the breasts. [7]
 
@@ -47,13 +47,11 @@ The breasts are principally composed of adipose, glandular, and connective tissu
 
 Puberty
 
-Tanner_scale-female.svg
-
 The morphological structure of the human breast is identical in males and females until puberty. For pubescent girls in thelarche (the breast-development stage), the female sex hormones (principally estrogens) in conjunction with growth hormone promote the sprouting, growth, and development of the breasts. During this time, the mammary glands grow in size and volume and begin resting on the chest. These development stages of secondary sex characteristics (breasts, pubic hair, etc.) are illustrated in the five-stage Tanner Scale.[25]
 
 During thelarche, the developing breasts are sometimes of unequal size, and usually the left breast is slightly larger. This condition of asymmetry is transitory and statistically normal in female physical and sexual development.[26] Medical conditions can cause overdevelopment (e.g., virginal breast hypertrophy, macromastia) or underdevelopment (e.g., tuberous breast deformity, micromastia) in girls and women.
 
-Approximately two years after the onset of puberty (a girl's first menstrual cycle), estrogen and growth hormone stimulate the development and growth of the glandular fat and suspensory tissues that compose the breast. This continues for approximately four years until the final shape of the breast (size, volume, density) is established at about the age of 21. Mammoplasia (breast enlargement) in girls begins at puberty, unlike all other primates in which breasts enlarge only during lactation.[27] Stretch_marks_on_female_breast.jpg]]
+Approximately two years after the onset of puberty (a girl's first menstrual cycle), estrogen and growth hormone stimulate the development and growth of the glandular fat and suspensory tissues that compose the breast. This continues for approximately four years until the final shape of the breast (size, volume, density) is established at about the age of 21. Mammoplasia (breast enlargement) in girls begins at puberty, unlike all other primates in which breasts enlarge only during lactation.[27] ]]
 
 Changes during the menstrual cycle
 
@@ -93,7 +91,7 @@ Both females and males develop breasts from the same embryological tissues. Norm
 
 Plastic surgery
 
-Mastectomy_Procedures.jpg myocutaneous flap reconstruction, prior to nipple reconstruction and tattooing _(bottom)_.]]
+myocutaneous flap reconstruction, prior to nipple reconstruction and tattooing _(bottom)_.]]
 
 Plastic surgery can be performed to augment or reduce the size of breasts, or reconstruct the breast in cases of deformative disease, such as breast cancer.[36] Breast augmentation and breast lift (mastopexy) procedures are done only for cosmetic reasons, whereas breast reduction is sometimes medically indicated.[37] In cases where a woman's breasts are severely asymmetrical, surgery can be performed to either enlarge the smaller breast, reduce the size of the larger breast, or both.[38]
 
@@ -106,7 +104,7 @@ General
 
 In Christian iconography, some works of art depict women with their breasts in their hands or on a platter, signifying that they died as a martyr by having their breasts severed; one example of this is Saint Agatha of Sicily.[39]
 
-Bare_breasts_are_our_weapons_crop.jpg member participating in a protest]]
+member participating in a protest]]
 
 Femen is a feminist activist group which uses topless protests as part of their campaigns against sex tourism[40][41] religious institutions,[42] sexism, homophobia[43] and to "defend [women's] right to abortion".[44] Femen activists have been regularly detained by police in response to their protests.[45][46]
 
@@ -130,7 +128,7 @@ Many women regard their breasts as important to their sexual attractiveness, as 
 
 Clothing
 
-Namibie_Himba_0716a.jpg woman of northern Namibia wears a traditional headdress and skirt]]
+woman of northern Namibia wears a traditional headdress and skirt]]
 
 Because breasts are mostly fatty tissue, their shape can -within limits- be molded by clothing, such as foundation garments. Bras are commonly worn by about 90% of Western women,[51][52][53] and are often worn for support.[54] The social norm in most Western cultures is to cover breasts in public, though the extent of coverage varies depending on the social context. Some religions ascribe a special status to the female breast, either in formal teachings or through symbolism. Islam forbids women from exposing their breasts in public.
 

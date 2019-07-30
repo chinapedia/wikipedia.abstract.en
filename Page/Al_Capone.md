@@ -9,8 +9,6 @@ The federal authorities became intent on jailing Capone and prosecuted him in 19
 
 Early life and education
 
-Al_Capone_mother.jpg
-
 Al Capone was born in Brooklyn, New York on January 17, 1899.[2] His parents were Italian immigrants Gabriele Capone (1865–1920) and Teresa Capone (née Raiola; 1867–1952). His father was a barber and his mother was a seamstress, both born in Angri, a town in the Province of Salerno.[3][4]
 
 Gabriele and Teresa had nine children: Alphonse "Al" Capone; Vincenzo Capone, who later changed his name to Richard Hart and became a Prohibition agent in Homer, Nebraska; Raffaele James Capone, AKA Ralph "Bottles" Capone, who took charge of his brother's beverage industry; Salvatore "Frank" Capone, Ermina Capone, who died at the age of one, Ermino "John" Capone, Albert Capone, Matthew Capone, and Mafalda Capone (who married John J. Maritote). Ralph and Frank worked with him in his criminal empire. Frank did so until his death on April 1, 1924. Ralph ran the bottling companies (both legal and illegal) early on, and was also the front man for the Chicago Outfit for some time until he was imprisoned for tax evasion in 1932.
@@ -38,7 +36,7 @@ Al Capone was a frequent visitor to RyeMabee in Monteagle, Tennessee "when he wa
 
 Boss
 
-Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone,_02-1931_-_NARA_-_541927.jpg opened by Al Capone in Chicago during the Depression, February 1931]]
+opened by Al Capone in Chicago during the Depression, February 1931]]
 
 In January 1925, Capone was ambushed, leaving him shaken but unhurt. Twelve days later, Torrio was returning from a shopping trip when he was shot several times. After recovering, he effectively resigned and handed control to Capone, age 26, who became the new boss of an organization that took in illegal breweries and a transportation network that reached to Canada, with political and law-enforcement protection. In turn, he was able to use more violence to increase revenue. An establishment that refused to purchase liquor from him often got blown up, and as many as 100 people were killed in such bombings during the 1920s. Rivals saw Capone as responsible for the proliferation of brothels in the city.[28][29][30][31]
 
@@ -60,8 +58,6 @@ The 1929 Saint Valentine's Day Massacre led to public disquiet about Thompson's 
 
 Saint Valentine's Day Massacre
 
-Florida-Miami-Al_Capones_Mansion-1922-1.jpg
-
 Capone was widely assumed to have been responsible for ordering the 1929 Saint Valentine's Day Massacre in an attempt to eliminate Bugs Moran, head of the North Side Gang. Moran was the last survivor of the North Side gunmen; his succession had come about because his similarly aggressive predecessors Vincent Drucci and Hymie Weiss had been killed in the violence that followed the murder of original leader Dean O'Banion.[55][56][57]
 
 To monitor their targets' habits and movements, Capone's men rented an apartment across from the trucking warehouse and garage at 2122 North Clark Street, which served as Moran's headquarters. On the morning of Thursday, February 14, 1929,[58][59] Capone's lookouts signaled gunmen disguised as police officers to initiate a "police raid". The _faux_ police lined the seven victims along a wall and signaled for accomplices armed with machine guns and shotguns. Photos of the slain victims shocked the public and damaged Capone's reputation. Within days, Capone received a summons to testify before a Chicago grand jury on charges of federal Prohibition violations, but he claimed to be too unwell to attend.[60]
@@ -70,11 +66,11 @@ Capone was primarily known for ordering other men to do his dirty work for him. 
 
 Trials
 
-Al-capone-cell.jpg in Philadelphia, where he spent about nine months starting in May 1929]]
+in Philadelphia, where he spent about nine months starting in May 1929]]
 
 On March 27, 1929, Capone was arrested by FBI agents as he left a Chicago courtroom after testifying to a grand jury that was investigating violations of federal prohibition laws. He was charged with contempt of court for feigning illness to avoid an earlier appearance.[70] On May 16, 1929, Capone was arrested in Philadelphia, PA for carrying a concealed weapon. On May 17, 1929, Capone was indicted by a grand jury and a trial was held before Philadelphia Municipal Court Judge John E Walsh. Following the entering of a guilty plea by his attorney, Capone was sentenced to a prison term of one year.[71] On August 8, 1929, Capone was transferred to Philadelphia's Eastern State Penitentiary. A week after his release in March 1930, Capone was listed as the number one "Public Enemy" on the unofficial Chicago Crime Commission's widely publicized list.[72]
 
-Al_Capone_in_Florida.jpg of Capone in Miami, Florida, 1930]]
+of Capone in Miami, Florida, 1930]]
 
 In April 1930, Capone was arrested on vagrancy charges when visiting Miami Beach; the governor had ordered sheriffs to run him out of the state. Capone claimed that Miami police had refused him food and water and threatened to arrest his family. He was charged with perjury for making these statements, but was acquitted after a three-day trial in July.[73] In September, a Chicago judge issued a warrant for Capone's arrest on charges of vagrancy, and then used the publicity to run against Thompson in the Republican primary.[74][75] In February 1931, Capone was tried on the contempt of court charge. In court, Judge James Herbert Wilkerson intervened to reinforce questioning of Capone's doctor by the prosecutor. Wilkerson sentenced Capone to six months, but he remained free while on appeal of the contempt conviction.[76][77]
 
@@ -84,13 +80,13 @@ Assistant Attorney General Mabel Walker Willebrandt recognized that mob figures 
 
 The IRS special investigation unit chose Frank J. Wilson to investigate Capone, with the focus on his spending. The key to Capone's conviction on tax charges was proving his income, and the most valuable evidence in that regard originated in his offer to pay tax. Ralph, his brother and a gangster in his own right, was tried for tax evasion in 1930. Ralph spent the next three years in prison after being convicted in a two-week trial over which Wilkerson presided.[80] Capone ordered his lawyer to regularize his tax position. Crucially, during the ultimately abortive negotiations that followed, his lawyer stated the income that Capone was willing to pay tax on for various years, admitting income of $100,000 for 1928 and 1929, for instance. Hence, without any investigation, the government had been given a letter from a lawyer acting for Capone conceding his large taxable income for certain years. In 1931, Capone was charged with income tax evasion, as well as with various violations of the Volstead Act (Prohibition) at the Chicago Federal Building in the courtroom of Judge James Herbert Wilkerson.[81] U. S. Attorney George E. Q. Johnson agreed to a deal that he hoped might result in the judge giving Capone a couple of years, but Judge Wilkerson had been aware of the deal all along and refused to allow Capone to plead guilty for a reduced sentence. On the second day of the trial, Judge Wilkerson overruled objections that a lawyer could not confess for his client, saying that anyone making a statement to the government did so at his own risk. Wilkerson deemed that the 1930 letter to federal authorities could be admitted into evidence from a lawyer acting for Capone.[82][83][84]
 
-Capone’s_criminal_record_in_1932.jpg criminal record in 1932, showing most of his criminal charges were discharged/dismissed]]
+criminal record in 1932, showing most of his criminal charges were discharged/dismissed]]
 
 Much was later made of other evidence, such as witnesses and ledgers, but these strongly implied Capone's control rather than stating it. The ledgers were inadmissible on grounds of statute of limitations, but Capone's lawyers incompetently failed to make the necessary timely objection; they ran a basically irrelevant defense of gambling losses.[85] Judge Wilkerson allowed Capone's spending to be presented at very great length. There was no doubt that Capone _spent_ vast sums but, legally speaking, the case against him centered on the size of his _income_. Capone was convicted on October 17,[86][87] and was sentenced a week later to 11 years in federal prison, fined $50,000 plus $7,692 for court costs, and was held liable for $215,000 plus interest due on his back taxes.[88][89][90] The contempt of court sentence was served concurrently.[91][92][93][94] New lawyers hired to represent Capone were Washington-based tax experts. They filed a writ of habeas corpus based on a Supreme Court ruling that tax evasion was not fraud, which apparently meant that Capone had been convicted on charges relating to years that were actually outside the time limit for prosecution. However, a judge interpreted the law so that the time that Capone had spent in Miami was subtracted from the age of the offences, thereby denying the appeal of both Capone's conviction and sentence.[95][96]
 
 Imprisonment
 
-Alcatraz_Federal_Penitentiary_-_Cell_181_-_Al_Capone.jpg where Capone was imprisoned]]
+where Capone was imprisoned]]
 
 Capone was sent to Atlanta U.S. Penitentiary in May 1932, aged 33. Upon his arrival at Atlanta, the Capone was officially diagnosed with syphilis and gonorrhoea. He was also suffering from withdrawal symptoms from cocaine addiction, the use of which had perforated his nasal septum. Capone was competent at his prison job of stitching soles on shoes for eight hours a day, but his letters were barely coherent.[97] He was seen as a weak personality, and so out of his depth dealing with bullying fellow inmates that his cellmate, seasoned convict Red Rudensky, feared that Capone would have a breakdown. Rudensky was formerly a small-time criminal associated with the Capone gang, and found himself becoming a protector for Capone.[98] The conspicuous protection of Rudensky and other prisoners drew accusations from less friendly inmates, and fueled suspicion that Capone was receiving special treatment. No solid evidence ever emerged, but it formed part of the rationale for moving Capone to the recently opened Alcatraz Federal Penitentiary off the coast of San Francisco.[99][100] On June 23, 1936, Capone was stabbed and superficially wounded by James C. Lucas.[101]
 
@@ -218,8 +214,6 @@ Music
 -   The British pop group Paper Lace's 1974 hit song "The Night Chicago Died" mentions that "a man named Al Capone, tried to make that town his own, and he called his gang to war, with the forces of the law".[171]
 -   British rock band Queen referenced Al Capone in the opening of their 1974 song "Stone Cold Crazy", which was covered in 1990 by the American rock band Metallica.[172]
 -   In 1979, The Specials, a UK ska revival group, reworked Prince Buster's track into their first single, "Gangsters",[173] which featured the line "Don't call me Scarface!"
-
-Al_Kapone.JPG
 
 -   Al Capone is referenced heavily in Prodigy's track "Al Capone Zone", produced by The Alchemist and featuring Keak Da Sneak.[174]
 -   "Al Capone" is a song by Michael Jackson. Jackson recorded the song during the _Bad_ era (circa 1987), but it wasn't included on the album. The song was released in September 2012 in celebration of the album's 25th anniversary.

@@ -52,8 +52,6 @@ National parties may be full or associate members.
 
 Membership
 
-GUE_NGL_after_2014_elections.png
-
 9th European Parliament
 
 +------------------------------------------------------+------------------------------------------------+----------------+----------------+

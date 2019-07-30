@@ -11,8 +11,6 @@ The country's foreign relations and diplomatic missions are maintained by its Mi
 
 Diplomatic relations list
 
-Diplomatic_relations_of_Fiji.svg
-
 List of countries which have established diplomatic relations with Fiji:[1]
 
 1.  – Established, date unknown

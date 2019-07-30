@@ -13,7 +13,7 @@ Medical terms related to blood often begin with HEMO- or HEMATO- (also spelled H
 
 Functions
 
-1GZX_Haemoglobin.png Heme.svg Blood performs many important functions within the body, including:
+Blood performs many important functions within the body, including:
 
 -   Supply of oxygen to tissues (bound to hemoglobin, which is carried in red cells)
 -   Supply of nutrients such as glucose, amino acids, and fatty acids (dissolved in the blood or bound to plasma proteins (e.g., blood lipids))
@@ -29,7 +29,7 @@ Constituents
 
 In mammals
 
-Whats_Inside_of_Blood.webm Blood accounts for 7% of the human body weight,[3][4] with an average density around 1060 kg/m³, very close to pure water's density of 1000 kg/m³.[5] The average adult has a blood volume of roughly ,[6] which is composed of plasma and several kinds of cells. These blood cells (which are also called corpuscles or "formed elements") consist of erythrocytes (red blood cells, RBCs), leukocytes (white blood cells), and thrombocytes (platelets). By volume, the red blood cells constitute about 45% of whole blood, the plasma about 54.3%, and white cells about 0.7%.
+Blood accounts for 7% of the human body weight,[3][4] with an average density around 1060 kg/m³, very close to pure water's density of 1000 kg/m³.[5] The average adult has a blood volume of roughly ,[6] which is composed of plasma and several kinds of cells. These blood cells (which are also called corpuscles or "formed elements") consist of erythrocytes (red blood cells, RBCs), leukocytes (white blood cells), and thrombocytes (platelets). By volume, the red blood cells constitute about 45% of whole blood, the plasma about 54.3%, and white cells about 0.7%.
 
 Whole blood (plasma and cells) exhibits non-Newtonian fluid dynamics. If all human hemoglobin were free in the plasma rather than being contained in RBCs, the circulatory fluid would be too viscous for the cardiovascular system to function effectively.
 
@@ -39,7 +39,7 @@ Right tube: Freshly drawn blood
 
 Cells
 
-Red_White_Blood_cells.jpg (SEM) image of a normal red blood cell (left), a platelet (middle), and a white blood cell (right)]] One microliter of blood contains:
+(SEM) image of a normal red blood cell (left), a platelet (middle), and a white blood cell (right)]] One microliter of blood contains:
 
 -   4.7 TO 6.1 MILLION (MALE), 4.2 TO 5.4 MILLION (FEMALE) ERYTHROCYTES:[7] Red blood cells contain the blood's hemoglobin and distribute oxygen. Mature red blood cells lack a nucleus and organelles in mammals. The red blood cells (together with endothelial vessel cells and other cells) are also marked by glycoproteins that define the different blood types. The proportion of blood occupied by red blood cells is referred to as the hematocrit, and is normally about 45%. The combined surface area of all red blood cells of the human body would be roughly 2,000 times as great as the body's exterior surface.[8]
 -   4,000–11,000 LEUKOCYTES:[9] White blood cells are part of the body's immune system; they destroy and remove old or aberrant cells and cellular debris, as well as attack infectious agents (pathogens) and foreign substances. The cancer of leukocytes is called leukemia.
@@ -88,8 +88,6 @@ Blood pH is regulated to stay within the narrow range of 7.35 to 7.45, making it
 
 In non-mammalian vertebrates
 
-Newbloodm.jpg Frogrbc1000x.jpg Turtlerbc1000x.jpg Chickenrbc1000x.jpg Humanrbc1000x.jpg
-
 Human blood is typical of that of mammals, although the precise details concerning cell numbers, size, protein structure, and so on, vary somewhat between species. In non-mammalian vertebrates, however, there are some key differences:[13]
 
 -   Red blood cells of non-mammalian vertebrates are flattened and ovoid in form, and retain their cell nuclei.
@@ -100,8 +98,6 @@ Human blood is typical of that of mammals, although the precise details concerni
 Physiology
 
 Cardiovascular system
-
-Diagram_of_the_human_heart_(cropped).svg
 
 Blood is circulated around the body through blood vessels by the pumping action of the heart. In humans, blood is pumped from the strong left ventricle of the heart through arteries to peripheral tissues and returns to the right atrium of the heart through veins. It then enters the right ventricle and is pumped through the pulmonary artery to the lungs and returns to the left atrium through the pulmonary veins. Blood then enters the left ventricle to be circulated again. Arterial blood carries oxygen from inhaled air to all of the cells of the body, and venous blood carries carbon dioxide, a waste product of metabolism by cells, to the lungs to be exhaled. However, one exception includes pulmonary arteries, which contain the most deoxygenated blood in the body, while the pulmonary veins contain oxygenated blood.
 
@@ -117,7 +113,7 @@ Healthy erythrocytes have a plasma life of about 120 days before they are degrad
 
 Oxygen transport
 
-Oxyhaemoglobin_dissociation_curve.png About 98.5% [16] of the oxygen in a sample of arterial blood in a healthy human breathing air at sea-level pressure is chemically combined with the hemoglobin. About 1.5% is physically dissolved in the other blood liquids and not connected to hemoglobin. The hemoglobin molecule is the primary transporter of oxygen in mammals and many other species (for exceptions, see below). Hemoglobin has an oxygen binding capacity between 1.36 and 1.40 ml O₂ per gram hemoglobin,[17] which increases the total blood oxygen capacity seventyfold,[18] compared to if oxygen solely were carried by its solubility of 0.03 ml O₂ per liter blood per mm Hg partial pressure of oxygen (about 100 mm Hg in arteries).[19]
+About 98.5% [16] of the oxygen in a sample of arterial blood in a healthy human breathing air at sea-level pressure is chemically combined with the hemoglobin. About 1.5% is physically dissolved in the other blood liquids and not connected to hemoglobin. The hemoglobin molecule is the primary transporter of oxygen in mammals and many other species (for exceptions, see below). Hemoglobin has an oxygen binding capacity between 1.36 and 1.40 ml O₂ per gram hemoglobin,[17] which increases the total blood oxygen capacity seventyfold,[18] compared to if oxygen solely were carried by its solubility of 0.03 ml O₂ per liter blood per mm Hg partial pressure of oxygen (about 100 mm Hg in arteries).[19]
 
 With the exception of pulmonary and umbilical arteries and their corresponding veins, arteries carry oxygenated blood away from the heart and deliver it to the body via arterioles and capillaries, where the oxygen is consumed; afterwards, venules and veins carry deoxygenated blood back to the heart.
 
@@ -172,7 +168,7 @@ The coloring matter of blood (HEMOCHROME) is largely due to the protein in the b
 
 Hemoglobin
 
-Bleeding_finger.jpg Hemoglobin is the principal determinant of the color of blood in vertebrates. Each molecule has four heme groups, and their interaction with various molecules alters the exact color. In vertebrates and other hemoglobin-using creatures, arterial blood and capillary blood are bright red, as oxygen imparts a strong red color to the heme group. Deoxygenated blood is a darker shade of red; this is present in veins, and can be seen during blood donation and when venous blood samples are taken. This is because the spectrum of light absorbed by hemoglobin differs between the oxygenated and deoxygenated states.[33]
+Hemoglobin is the principal determinant of the color of blood in vertebrates. Each molecule has four heme groups, and their interaction with various molecules alters the exact color. In vertebrates and other hemoglobin-using creatures, arterial blood and capillary blood are bright red, as oxygen imparts a strong red color to the heme group. Deoxygenated blood is a darker shade of red; this is present in veins, and can be seen during blood donation and when venous blood samples are taken. This is because the spectrum of light absorbed by hemoglobin differs between the oxygenated and deoxygenated states.[33]
 
 Blood in carbon monoxide poisoning is bright red, because carbon monoxide causes the formation of carboxyhemoglobin. In cyanide poisoning, the body cannot utilize oxygen, so the venous blood remains oxygenated, increasing the redness. There are some conditions affecting the heme groups present in hemoglobin that can make the skin appear blue – a symptom called cyanosis. If the heme is oxidized, methemoglobin, which is more brownish and cannot transport oxygen, is formed. In the rare condition sulfhemoglobinemia, arterial hemoglobin is partially oxygenated, and appears dark red with a bluish hue.
 
@@ -236,7 +232,7 @@ Treatments
 
 Blood products
 
-Bloodbags.jpg Blood for transfusion is obtained from human donors by blood donation and stored in a blood bank. There are many different blood types in humans, the ABO blood group system, and the Rhesus blood group system being the most important. Transfusion of blood of an incompatible blood group may cause severe, often fatal, complications, so crossmatching is done to ensure that a compatible blood product is transfused.
+Blood for transfusion is obtained from human donors by blood donation and stored in a blood bank. There are many different blood types in humans, the ABO blood group system, and the Rhesus blood group system being the most important. Transfusion of blood of an incompatible blood group may cause severe, often fatal, complications, so crossmatching is done to ensure that a compatible blood product is transfused.
 
 Other blood products administered intravenously are platelets, blood plasma, cryoprecipitate, and specific coagulation factor concentrates.
 
@@ -253,7 +249,7 @@ In modern evidence-based medicine, bloodletting is used in management of a few r
 
 Etymology
 
-Jan_Janský,_1902.jpg is credited with the first classification of blood into four types (A, B, AB, and O)]] According to the _Oxford English Dictionary_, the word "blood" dates to the oldest English, circa 1000 CE. The word is derived from Middle English, which is derived from the Old English word _blōd_, which is akin to the Old High German word _bluot_, meaning blood. The modern German word is _(das) Blut._
+is credited with the first classification of blood into four types (A, B, AB, and O)]] According to the _Oxford English Dictionary_, the word "blood" dates to the oldest English, circa 1000 CE. The word is derived from Middle English, which is derived from the Old English word _blōd_, which is akin to the Old High German word _bluot_, meaning blood. The modern German word is _(das) Blut._
 
 
 History

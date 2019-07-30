@@ -1,4 +1,4 @@
-Q10_graphs.svg activity. Top - increasing temperature increases the rate of reaction (Q10 coefficient). Middle - the fraction of folded and functional enzyme decreases above its denaturation temperature. Bottom - consequently, an enzyme's optimal rate of reaction is at an intermediate temperature.]]
+activity. Top - increasing temperature increases the rate of reaction (Q10 coefficient). Middle - the fraction of folded and functional enzyme decreases above its denaturation temperature. Bottom - consequently, an enzyme's optimal rate of reaction is at an intermediate temperature.]]
 
 {{ Quote box |width=40em |align=right |title =IUPAC definition
 
@@ -19,7 +19,7 @@ This concept is unrelated to denatured alcohol, which is alcohol that has been m
 
  Common examples
 
-Protein_Denaturation.png'' in the egg white undergoes denaturation and loss of solubility when the egg is cooked. (Bottom) Nitinol paperclips provide a visual analogy to help with the conceptualization of the denaturation process.]]
+'' in the egg white undergoes denaturation and loss of solubility when the egg is cooked. (Bottom) Nitinol paperclips provide a visual analogy to help with the conceptualization of the denaturation process.]]
 
 When food is cooked, some of its proteins become denatured. This is why boiled eggs become hard and cooked meat becomes firm.
 
@@ -29,14 +29,6 @@ A classic example of denaturing in proteins comes from egg whites, which are typ
 Protein denaturation
 
 Denatured proteins can exhibit a wide range of characteristics, from loss of solubility to protein aggregation.
-
-Functional proteins have four levels of structural organization:
-1) Primary Structure : the linear structure of amino acids in the polypeptide chain
-2) Secondary Structure : hydrogen bonds between peptide group chains in an alpha helix or beta sheet
-3) Tertiary Structure : three-dimensional structure of alpha helixes and beta helixes folded
-4) Quaternary Structure : three-dimensional structure of multiple polypeptides and how they fit together
-
-Process_of_Denaturation.svg
 
 Background
 
@@ -81,7 +73,7 @@ Nucleic acids (including RNA and DNA) are nucleotide polymers synthesized by pol
 
 Biologically-induced denaturation
 
-DNA_Denaturation.png The non-covalent interactions between antiparallel strands in DNA can be broken in order to "open" the double helix when biologically important mechanisms such as DNA replication, transcription, DNA repair or protein binding are set to occur.[25] The area of partially separated DNA is known as the denaturation bubble, which can be more specifically defined as the opening of a DNA double helix through the coordinated separation of base pairs.[26]
+The non-covalent interactions between antiparallel strands in DNA can be broken in order to "open" the double helix when biologically important mechanisms such as DNA replication, transcription, DNA repair or protein binding are set to occur.[25] The area of partially separated DNA is known as the denaturation bubble, which can be more specifically defined as the opening of a DNA double helix through the coordinated separation of base pairs.[26]
 
 The first model that attempted to describe the thermodynamics of the denaturation bubble was introduced in 1966 and called the Poland-Scheraga Model. This model describes the denaturation of DNA strands as a function of temperature. As the temperature increases, the hydrogen bonds between the Watson and Crick base pairs are increasingly disturbed and "denatured loops" begin to form.[27] However, the Poland-Scheraga Model is now considered elementary because it fails to account for the confounding implications of DNA sequence, chemical composition, stiffness and torsion.[28]
 
@@ -89,7 +81,7 @@ Recent thermodynamic studies have inferred that the lifetime of a singular denat
 
 Denaturation due to chemical agents
 
-DNA_Denaturation_by_Formamide.png With polymerase chain reaction (PCR) being among the most popular contexts in which DNA denaturation is desired, heating is the most frequent method of denaturation.[32] Other than denaturation by heat, nucleic acids can undergo the denaturation process through various chemical agents such as formamide, guanidine, sodium salicylate, dimethyl sulfoxide (DMSO), propylene glycol, and urea.[33] These chemical denaturing agents lower the melting temperature (T_(m)) by competing for hydrogen bond donors and acceptors with pre-existing nitrogenous base pairs. Some agents are even able to induce denaturation at room temperature. For example, alkaline agents (e.g. NaOH) have been shown to denature DNA by changing pH and removing hydrogen-bond contributing protons.[34] These denaturants have been employed to make Denaturing Gradient Gel Electrophoresis gel (DGGE), which promotes denaturation of nucleic acids in order to eliminate the influence of nucleic acid shape on their electrophoretic mobility.[35]
+With polymerase chain reaction (PCR) being among the most popular contexts in which DNA denaturation is desired, heating is the most frequent method of denaturation.[32] Other than denaturation by heat, nucleic acids can undergo the denaturation process through various chemical agents such as formamide, guanidine, sodium salicylate, dimethyl sulfoxide (DMSO), propylene glycol, and urea.[33] These chemical denaturing agents lower the melting temperature (T_(m)) by competing for hydrogen bond donors and acceptors with pre-existing nitrogenous base pairs. Some agents are even able to induce denaturation at room temperature. For example, alkaline agents (e.g. NaOH) have been shown to denature DNA by changing pH and removing hydrogen-bond contributing protons.[34] These denaturants have been employed to make Denaturing Gradient Gel Electrophoresis gel (DGGE), which promotes denaturation of nucleic acids in order to eliminate the influence of nucleic acid shape on their electrophoretic mobility.[35]
 
 Chemical denaturation as an alternative
 

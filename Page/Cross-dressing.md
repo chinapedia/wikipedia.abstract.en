@@ -1,4 +1,4 @@
-This-Is-The-Army_gals_(Broadway).jpg "This Is the Army, Mr. Jones", performed by cross-dressers (1942)]]
+"This Is the Army, Mr. Jones", performed by cross-dressers (1942)]]
 
 CROSS-DRESSING is the act of wearing items of clothing and other accoutrements commonly associated with the opposite sex within a particular society.[1] Cross-dressing has been used for purposes of disguise, comfort, and self-expression in modern times and throughout history.
 
@@ -14,7 +14,7 @@ The phenomenon of cross-dressing is not new: it was referred to in the Hebrew Bi
 
 History
 
-Crossdressing_circa_1890_Frances_Benjamin_Johnston_(right).jpg (right) poses with two cross-dressing friends; the "lady" is identified by Johnston as the illustrator Mills Thompson.]]
+(right) poses with two cross-dressing friends; the "lady" is identified by Johnston as the illustrator Mills Thompson.]]
 
 Cross-dressing has been practiced throughout much of recorded history, in many societies, and for many reasons. Examples exist in Greek, Norse, and Hindu mythology. There is a rich history of cross-dressing found in folklore, literature, theater, and music, such as Kabuki and Korean shamanism. In the British and European context, theatrical troupes ("playing companies") were all-male, with the female parts undertaken by boy players.
 
@@ -23,7 +23,7 @@ A wide variety of historical figures are known to have cross-dressed to varying 
 
 Varieties
 
-Lady_Bunny_and_Sherry_Vine_by_David_Shankbone.JPGs are a form of cross-dressing as performance art.]] There are many different kinds of cross-dressing and many different reasons why an individual might engage in cross-dressing behavior.[10] Some people cross-dress as a matter of comfort or style, out of personal preference for clothing associated with the opposite sex. In this case, a person's cross-dressing may or may not be apparent to other people. Some people cross-dress to shock others or challenge social norms. Some people attempt to pass as a member of the opposite sex in order to gain access to places or resources they would not otherwise be able to reach.
+s are a form of cross-dressing as performance art.]] There are many different kinds of cross-dressing and many different reasons why an individual might engage in cross-dressing behavior.[10] Some people cross-dress as a matter of comfort or style, out of personal preference for clothing associated with the opposite sex. In this case, a person's cross-dressing may or may not be apparent to other people. Some people cross-dress to shock others or challenge social norms. Some people attempt to pass as a member of the opposite sex in order to gain access to places or resources they would not otherwise be able to reach.
 
 Gender disguise
 
@@ -45,7 +45,7 @@ The modern activity of battle reenactments has raised the question of women pass
 
 Sexual fetishes
 
-Transvestite_in_latex_clothes.JPG A transvestic fetishist is a person who cross-dresses as part of a sexual fetish. According to the fourth edition of _Diagnostic and Statistical Manual of Mental Disorders_, this fetishism was limited to heterosexual men; however, DSM-5 does not have this restriction, and opens it to women and men, regardless of their sexual orientation.[19]
+A transvestic fetishist is a person who cross-dresses as part of a sexual fetish. According to the fourth edition of _Diagnostic and Statistical Manual of Mental Disorders_, this fetishism was limited to heterosexual men; however, DSM-5 does not have this restriction, and opens it to women and men, regardless of their sexual orientation.[19]
 
 The term _underdressing_ is used by male cross-dressers to describe wearing female undergarments such as panties under their male clothes. The famous low-budget film-maker Edward D. Wood, Jr. said he often wore women's underwear under his military uniform as a Marine during World War II.[20] _Female masking_ is a form of cross-dressing in which men wear masks that present them as female.[21]
 
@@ -62,7 +62,7 @@ Clothes
 
 The actual determination of cross-dressing is largely socially constructed. For example, in Western society, trousers have long been adopted for usage by women, and it is no longer regarded as cross-dressing. In cultures where men have traditionally worn skirt-like garments such as the kilt or sarong, these are not seen as female clothing, and wearing them is not seen as cross-dressing for men. As societies are becoming more global in nature, both men's and women's clothing are adopting styles of dress associated with other cultures.
 
-vanessatv.jpg Cosplaying may also involve cross-dressing, for some females may wish to dress as a male, and vice versa (see Crossplay). Breast binding (for females) is not uncommon and is one of the things likely needed to cosplay a male character.
+Cosplaying may also involve cross-dressing, for some females may wish to dress as a male, and vice versa (see Crossplay). Breast binding (for females) is not uncommon and is one of the things likely needed to cosplay a male character.
 
 In most parts of the world it remains socially disapproved for men to wear clothes traditionally associated with women. Attempts are occasionally made, e.g. by fashion designers, to promote the acceptance of skirts as everyday wear for men. Cross-dressers have complained that society permits women to wear pants or jeans and other masculine clothing, while condemning any man who wants to wear clothing sold for women.
 
@@ -73,7 +73,7 @@ While most male cross-dressers utilize clothing associated with modern women, so
 
 Social issues
 
-A_Morning_Frolic,_or_the_Transmutation_of_the_Sexes.jpg Cross-dressers may begin wearing clothing associated with the opposite sex in childhood, using the clothes of a sibling, parent, or friend. Some parents have said they allowed their children to cross-dress and, in many cases, the child stopped when they became older. The same pattern often continues into adulthood, where there may be confrontations with a spouse, partner, family member or friend. Married cross-dressers can experience considerable anxiety and guilt if their spouse objects to their behavior.
+Cross-dressers may begin wearing clothing associated with the opposite sex in childhood, using the clothes of a sibling, parent, or friend. Some parents have said they allowed their children to cross-dress and, in many cases, the child stopped when they became older. The same pattern often continues into adulthood, where there may be confrontations with a spouse, partner, family member or friend. Married cross-dressers can experience considerable anxiety and guilt if their spouse objects to their behavior.
 
 Sometimes because of guilt or other reasons cross-dressers dispose of all their clothing, a practice called "purging", only to start collecting other gender's clothing again.[24]
 
@@ -98,7 +98,7 @@ Psychoanalysts today do not regard cross-dressing by itself as a psychological p
 
 British pantomime, television and comedy
 
-1896_DanLeno-WidowTwankey.jpg as Widow Twankey in the 1896 pantomime _Aladdin_ at Theatre Royal, Drury Lane, London]] Cross-dressing is a traditional popular trope in British comedy.[36] The Pantomime dame in British pantomime dates from the 19th century, which is part of the theatrical tradition of female characters portrayed by male actors in drag. The Monty Python comedy troupe donned frocks and makeup, playing female roles themselves while speaking in falsetto.[37] Character comics such as Benny Hill and Dick Emery drew upon several female identities. In the BBC’s long-running sketch show _The Dick Emery Show_ (broadcast from 1963 to 1981), Emery played Mandy, a busty peroxide blonde whose catchphrase, "Ooh, you are awful ... but I like you!", was given in response to a seemingly innocent remark made by her interviewer, but perceived by her as ribald double entendre.[38] The popular tradition of cross dressing in British comedy extended to the 1984 music video for Queen’s "I Want to Break Free" where the band parody several female characters from the soap opera _Coronation Street_.[39]
+as Widow Twankey in the 1896 pantomime _Aladdin_ at Theatre Royal, Drury Lane, London]] Cross-dressing is a traditional popular trope in British comedy.[36] The Pantomime dame in British pantomime dates from the 19th century, which is part of the theatrical tradition of female characters portrayed by male actors in drag. The Monty Python comedy troupe donned frocks and makeup, playing female roles themselves while speaking in falsetto.[37] Character comics such as Benny Hill and Dick Emery drew upon several female identities. In the BBC’s long-running sketch show _The Dick Emery Show_ (broadcast from 1963 to 1981), Emery played Mandy, a busty peroxide blonde whose catchphrase, "Ooh, you are awful ... but I like you!", was given in response to a seemingly innocent remark made by her interviewer, but perceived by her as ribald double entendre.[38] The popular tradition of cross dressing in British comedy extended to the 1984 music video for Queen’s "I Want to Break Free" where the band parody several female characters from the soap opera _Coronation Street_.[39]
 
 
 Literature

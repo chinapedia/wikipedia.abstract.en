@@ -14,7 +14,7 @@ As a singer, songwriter and lifelong political activist, Guthrie carries on the 
 
 "Alice's Restaurant"
 
-ArloGuthrieMinnesotaZooAmphitheatre2005.jpg On Thanksgiving Day 1965, while in Stockbridge, Massachusetts, during a break from his brief stint in college, 18-year-old Arlo Guthrie was arrested for illegally dumping on private property what he described as "a half-ton of garbage" from the home of his friends, teachers Ray and Alice Brock, after he discovered the local landfill was closed for the holiday. Guthrie and his friend, Richard Robbins, appeared in court, pled guilty to the charges, were levied a nominal fine and picked up the garbage that weekend.[9]
+On Thanksgiving Day 1965, while in Stockbridge, Massachusetts, during a break from his brief stint in college, 18-year-old Arlo Guthrie was arrested for illegally dumping on private property what he described as "a half-ton of garbage" from the home of his friends, teachers Ray and Alice Brock, after he discovered the local landfill was closed for the holiday. Guthrie and his friend, Richard Robbins, appeared in court, pled guilty to the charges, were levied a nominal fine and picked up the garbage that weekend.[9]
 
 This littering charge would soon serve as the basis for Guthrie's most famous work, "Alice's Restaurant Massacree", a talking blues song that lasts 18 minutes and 34 seconds in its original recorded version. Guthrie has pointed out that this was also the exact length of one of the infamous gaps in Richard Nixon's Watergate tapes, and that Nixon owned a copy of the record. The Alice in the song is Alice Brock, who had been a librarian at Arlo's boarding school in the town before opening her restaurant. She later opened an art studio in Provincetown, Massachusetts.[10]
 
@@ -31,7 +31,7 @@ Despite its popularity, the song "Alice's Restaurant Massacree" is not always fe
 
 Musical career and critical reception
 
-Arlo_Guthrie_2007.jpg The "Alice's Restaurant" song was one of a few very long songs to become popular just when albums began replacing hit singles as young people's main music listening. But in 1972 Guthrie had a highly successful single too, Steve Goodman's song "City of New Orleans", a wistful paean to long-distance passenger rail travel. Guthrie's first trip on that train was in December 2005 (when his family joined other musicians on a train trip across the country to raise money for musicians financially devastated by Hurricane Katrina and Hurricane Rita, in the South of the United States). He also had a minor hit with his song "Coming into Los Angeles", which was played at the 1969 Woodstock Festival, but did not get much radio airplay because of its plot (involving the smuggling of drugs from London by airplane),[23] and success with a live version of "The Motorcycle Song" (one of the songs on the B-side of the _Alice's Restaurant_ album). A cover of the folk song "Gypsy Davy" was a hit on the easy listening charts.
+The "Alice's Restaurant" song was one of a few very long songs to become popular just when albums began replacing hit singles as young people's main music listening. But in 1972 Guthrie had a highly successful single too, Steve Goodman's song "City of New Orleans", a wistful paean to long-distance passenger rail travel. Guthrie's first trip on that train was in December 2005 (when his family joined other musicians on a train trip across the country to raise money for musicians financially devastated by Hurricane Katrina and Hurricane Rita, in the South of the United States). He also had a minor hit with his song "Coming into Los Angeles", which was played at the 1969 Woodstock Festival, but did not get much radio airplay because of its plot (involving the smuggling of drugs from London by airplane),[23] and success with a live version of "The Motorcycle Song" (one of the songs on the B-side of the _Alice's Restaurant_ album). A cover of the folk song "Gypsy Davy" was a hit on the easy listening charts.
 
 In the fall of 1975 during a benefit concert in Massachusetts, Arlo Guthrie performed with his band, Shenandoah, in public for the first time. They continued to tour and record throughout the 1970s until the early 1990s.[24] Although the band received good reviews, it never gained the popularity that Guthrie did while playing solo. This band is not to be confused with the popular country music group Shenandoah, an entirely different group that had musical hits from 1986 to 2006. Arlo Guthrie's band Shenandoah consisted (after 1976) of David Grover, Steve Ide, Carol Ide, Terry A La Berry and Dan Velika.[25] The Ides, along with Terry a la Berry, reunited with Guthrie for a 2018 tour.[26]
 
@@ -64,7 +64,7 @@ In 2018, Guthrie contacted publication Urban Milwaukee to clarify his political 
 
 Legacy
 
-Arlo_Guthrie-Bardentreffen_2010.JPG Like his father, Woody Guthrie, Guthrie often sings songs of protest against social injustice. He collaborated with poet Adrian Mitchell to tell the story of Chilean folk singer and activist Víctor Jara in song. He regularly performed with folk musician Pete Seeger, one of his father's longtime partners. Ramblin' Jack Elliott, who had lived for two years in the Guthries' home before Arlo left for boarding school, had absorbed Woody's style perhaps better than anyone; Arlo has been said to have credited Elliott for passing it along to him.
+Like his father, Woody Guthrie, Guthrie often sings songs of protest against social injustice. He collaborated with poet Adrian Mitchell to tell the story of Chilean folk singer and activist Víctor Jara in song. He regularly performed with folk musician Pete Seeger, one of his father's longtime partners. Ramblin' Jack Elliott, who had lived for two years in the Guthries' home before Arlo left for boarding school, had absorbed Woody's style perhaps better than anyone; Arlo has been said to have credited Elliott for passing it along to him.
 
 In 1991, Guthrie bought the church that had served as Alice and Ray Brock's former home in Great Barrington, Massachusetts, and converted it to the Guthrie Center, an interfaith meeting place that serves people of all religions. The center provides weekly free lunches in the community and support for families living with HIV/AIDS, as well as other life-threatening illnesses. It also hosts a summertime concert series and Guthrie does six or seven fund raising shows there every year. There are several annual events such as the Walk-A-Thon to Cure Huntington's Disease and a "Thanksgiving Dinner That Can't Be Beat" for families, friends, doctors and scientists who live and work with Huntington's disease.[38]
 
@@ -80,7 +80,7 @@ Guthrie's son Abe Guthrie and his daughters Annie, Sarah Lee Guthrie, and Cathy 
 
 Works
 
-Arlo_Guthrie_Tuning_Up_in_Kodiak,_Alaska_2013.jpg in 2013.]]
+in 2013.]]
 
 Discography
 

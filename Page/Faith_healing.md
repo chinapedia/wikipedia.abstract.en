@@ -1,4 +1,4 @@
-6257_-_MI_-_Cappella_Portinari_-_Arca_S._Pietro_-_Retro_-_Foto_Giovanni_Dall'Orto_1-Mar-2007.jpg's life: a mute man is miraculously healed. Detail from the relief on the back side of Peter of Verona's grave in the Portinari Chapel in Basilica of Sant'Eustorgio in Milan, Italy.]]
+'s life: a mute man is miraculously healed. Detail from the relief on the back side of Peter of Verona's grave in the Portinari Chapel in Basilica of Sant'Eustorgio in Milan, Italy.]]
 
 FAITH HEALING is the practice of prayer and gestures (such as laying on of hands) that are believed by some to elicit divine intervention in spiritual and physical healing, especially the Christian practice.[1] Believers assert that the healing of disease and disability can be brought about by religious faith through prayer and/or other rituals that, according to adherents, can stimulate a divine presence and power. Religious belief in divine intervention does not depend on empirical evidence that faith healing achieves an evidence-based outcome.[2]
 
@@ -17,7 +17,7 @@ Christianity
 
 Overview
 
-Fallerjfa.JPG FvfFaithhealing6177_15.JPG, Philippines]] Regarded as a Christian belief that God heals people through the power of the Holy Spirit, faith healing often involves the laying on of hands. It is also called supernatural healing, divine healing, and miracle healing, among other things. Healing in the Bible is often associated with the ministry of specific individuals including Elijah, Jesus and Paul.[18]
+, Philippines]] Regarded as a Christian belief that God heals people through the power of the Holy Spirit, faith healing often involves the laying on of hands. It is also called supernatural healing, divine healing, and miracle healing, among other things. Healing in the Bible is often associated with the ministry of specific individuals including Elijah, Jesus and Paul.[18]
 
 Christian physician Reginald B. Cherry views faith healing as a pathway of healing in which God uses both the natural and the supernatural to heal.[19] Being healed has been described as a privilege of accepting Christ's redemption on the cross. Pentecostal writer Wilfred Graves, Jr. views the healing of the body as a physical expression of salvation.[20] , after describing Jesus exorcising at sunset and healing all of the sick who were brought to him, quotes these miracles as a fulfillment of the prophecy in : "He took up our infirmities and carried our diseases".
 
@@ -68,7 +68,7 @@ Among the best-known accounts by Catholics of faith healings are those attribute
 
 Pentecostalism/Charismatic movement
 
-Laying_on_of_hands.jpg in Lejunior, Kentucky pray for a girl in 1946]] At the beginning of the 20th century, the new Pentecostal movement drew participants from the Holiness movement and other movements in America that already believed in divine healing. By the 1930s, several faith healers drew large crowds and established worldwide followings.
+in Lejunior, Kentucky pray for a girl in 1946]] At the beginning of the 20th century, the new Pentecostal movement drew participants from the Holiness movement and other movements in America that already believed in divine healing. By the 1930s, several faith healers drew large crowds and established worldwide followings.
 
 The first Pentecostals in the modern sense appeared in Topeka, Kansas, in a Bible school conducted by Charles Fox Parham, a holiness teacher and former Methodist pastor. Pentecostalism achieved worldwide attention in 1906 through the Azusa Street Revival in Los Angeles led by William Joseph Seymour.[44]
 

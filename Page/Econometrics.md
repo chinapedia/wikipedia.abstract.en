@@ -7,8 +7,6 @@ Basic models: linear regression
 
 A basic tool for econometrics is the multiple linear regression model.[12] In modern econometrics, other statistical tools are frequently used, but linear regression is still the most frequently used starting point for an analysis.[13] Estimating a linear regression on two variables can be visualised as fitting a line through data points representing paired values of the independent and dependent variables.
 
-Okuns_law_differences_1948_to_mid_2011.png
-
 For example, consider Okun's law, which relates GDP growth to the unemployment rate. This relationship is represented in a linear regression where the change in unemployment rate (Δ Unemployment) is a function of an intercept (β₀), a given value of GDP growth multiplied by a slope coefficient β₁ and an error term, ε:
 
 _Δ_ Unemployment = _β_₀ + _β_₁Growth + _ε_.

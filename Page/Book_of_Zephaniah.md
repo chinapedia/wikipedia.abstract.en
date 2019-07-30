@@ -17,8 +17,6 @@ If Zephaniah was largely composed during the monarchic period, then its composit
 
 Themes
 
-Sophonie_s'adressant_au_peuple.jpg
-
 _The HarperCollins Study Bible_ supplies headings for the book as follows:
 
 [TABLE]

@@ -14,7 +14,7 @@ The earliest organization of the Church in Jerusalem was, according to most scho
 
 Often, the word _presbyter_ was not yet distinguished from _overseer_ ( _episkopos_, later used exclusively to mean _bishop_), as in Acts 20:17, Titus 1:5–7 and 1 Peter 5:1. The earliest writings of the Apostolic Fathers, the Didache and the First Epistle of Clement, for example, show the church used two terms for local church offices—presbyters (seen by many as an interchangeable term with _episcopos_ or overseer) and deacon.
 
-Augustine_Lateran.jpg, bishop of Hippo Regius.[5]]]
+, bishop of Hippo Regius.[5]]]
 
 In Timothy and Titus in the New Testament a more clearly defined episcopate can be seen. We are told that Paul had left Timothy in Ephesus and Titus in Crete to oversee the local church.[6][7] Paul commands Titus to ordain presbyters/bishops and to exercise general oversight.
 
@@ -26,7 +26,7 @@ Apostolic Fathers
 
 Around the end of the 1st century, the church's organization became clearer in historical documents. In the works of the Apostolic Fathers, and Ignatius of Antioch in particular, the role of the episkopos, or bishop, became more important or, rather, already was very important and being clearly defined. While Ignatius of Antioch offers the earliest clear description of monarchial bishops (a single bishop over all house churches in a city) he is an advocate of monepiscopal structure rather than describing an accepted reality. To the bishops and house churches to which he writes, he offers strategies on how to pressure house churches who don't recognize the bishop into compliance. Other contemporary Christian writers do not describe monarchial bishops, either continuing to equate them with the presbyters or speaking of episkopoi (bishops, plural) in a city.
 
-Byzantine_-_Saint_Ignatius_of_Antioch_-_Walters_4820867.jpg]]
+]]
 
   "Blessed be God, who has granted unto you, who are yourselves so excellent, to obtain such an excellent bishop." — Epistle of Ignatius to the Ephesians 1:1 [9]
   "and that, being subject to the bishop and the presbytery, ye may in all respects be sanctified." — Epistle of Ignatius to the Ephesians 2:1 [10]
@@ -54,13 +54,13 @@ Bishops and civil government
 
 The efficient organization of the Roman Empire became the template for the organisation of the church in the 4th century, particularly after Constantine's Edict of Milan. As the church moved from the shadows of privacy into the public forum it acquired land for churches, burials and clergy. In 391, Theodosius I decreed that any land that had been confiscated from the church by Roman authorities be returned.
 
-Husaby_Church_2013_people_on_11th_Century_gravestone.jpg.]]
+.]]
 
 The most usual term for the geographic area of a bishop's authority and ministry, the diocese, began as part of the structure of the Roman Empire under Diocletian. As Roman authority began to fail in the western portion of the empire, the church took over much of the civil administration. This can be clearly seen in the ministry of two popes: Pope Leo I in the 5th century, and Pope Gregory I in the 6th century. Both of these men were statesmen and public administrators in addition to their role as Christian pastors, teachers and leaders. In the Eastern churches, latifundia entailed to a bishop's see were much less common, the state power did not collapse the way it did in the West, and thus the tendency of bishops acquiring secular power was much weaker than in the West. However, the role of Western bishops as civil authorities, often called prince bishops, continued throughout much of the Middle Ages.
 
 Bishops holding political office
 
-Johann_Otto_von_Gemmingen.jpg, Prince-Bishop of Augsburg]]
+, Prince-Bishop of Augsburg]]
 
 As well as being archchancellors of the Holy Roman Empire after the 9th century, bishops generally served as chancellors to medieval monarchs, acting as head of the _justiciary_ and chief chaplain. The Lord Chancellor of England was almost always a bishop up until the dismissal of Cardinal Thomas Wolsey by Henry VIII. Similarly, the position of Kanclerz in the Polish kingdom was always held by a bishop until the 16th century. And today, the principality of Andorra is headed by two co-princes, one of whom is a Catholic bishop (and the other, the President of France).
 
@@ -81,7 +81,7 @@ Churches
 
 Catholic, Eastern Orthodox, Oriental Orthodox and Anglican churches
 
-Mitre_(plain).svg is used as a symbol of the bishop's ministry in Western Christianity.]] Template-Bishop.svg of a Catholic bishop]]
+is used as a symbol of the bishop's ministry in Western Christianity.]] of a Catholic bishop]]
 
 Bishops form the leadership in the Catholic Church, the Eastern Orthodox Church, the Oriental Orthodox Churches, the Anglican Communion, the Lutheran Church, the Independent Catholic Churches, the Independent Anglican Churches, and certain other, smaller, denominations.
 
@@ -90,12 +90,12 @@ The traditional role of a bishop is as pastor of a diocese (also called a bishop
 As well as traditional diocesan bishops, many churches have a well-developed structure of church leadership that involves a number of layers of authority and responsibility.
 
 Patriarch:Patriarchs are the bishops who head certain ancient autocephalous or sui iuris churches, which are a collection of metropolitan sees or provinces. After the First Ecumenical Council at Nicea, the church structure was patterned after the administrative divisions of the Roman Empire wherein a metropolitan or bishop of a metropolis came to be the ecclesiastical head of a civil capital of a province or a metropolis. Whereas, the bishop of the larger administrative district, diocese, came to be called an exarch. In a few cases, a bishop came to preside over a number of dioceses, i.e., Rome, Antioch, and Alexandria. At the Fourth Ecumenical Council at Chalcedon in 451, Constantinople was given jurisdiction over three dioceses for the reason that the city was "the residence of the emperor and senate". Additionally, Jerusalem was recognized at the Council of Chalcedon as one of the major sees. In 692, the Quinisext Council formally recognized and ranked the sees of the Pentarchy in order of preeminence, at that time Rome, Constantinople, Alexandria, Antioch, and Jerusalem. In the Catholic Church, Patriarchs sometimes call their leaders _Catholicos_; the Patriarch of the Coptic Orthodox Church of Alexandria, Egypt, is called _Pope_, meaning 'Father'. While most patriarchs in the Eastern Catholic Churches have jurisdiction over a "ritual church" (a group or diocese of a particular Eastern tradition), all Latin Rite patriarchs, except for the Pope, have only honorary titles. In 2006, Pope Benedict XVI gave up the title of Patriarch of the West. The first recorded use of the title by a Roman Pope was by Theodore I in 620. However, early church documents, such as those of the First Council of Nicaea (325) had always listed the Pope of Rome first among the Ancient Patriarchs (first four, and later five: Rome, Constantinople, Alexandria, Antioch and Jerusalem—collectively referred to as the _Pentarchy_). Later, the heads of various national churches became Patriarchs, but they are ranked below the Pentarchy.
-Catholicos: Mitra5.jpgs of Christ, the Theotokos (Mary, Mother of God) and Forerunner (John the Baptist)]] Catholicoi are the heads of some of the Eastern Orthodox, Oriental Orthodox, and Eastern Rite Catholic sui iuris churches (notably the Armenian), roughly similar to a Patriarch (see above).
+Catholicos: s of Christ, the Theotokos (Mary, Mother of God) and Forerunner (John the Baptist)]] Catholicoi are the heads of some of the Eastern Orthodox, Oriental Orthodox, and Eastern Rite Catholic sui iuris churches (notably the Armenian), roughly similar to a Patriarch (see above).
 Primate:A primate is usually the bishop of the oldest church of a nation. Sometimes this carries jurisdiction over metropolitan bishops, but usually it is purely honorific. The primate of the Scottish Episcopal Church is chosen from among the diocesan bishops, and, while retaining diocesan responsibility, is called _Primus_.
 Presiding bishop or president bishop: These titles are often used for the head of a national Anglican church, but the title is not usually associated with a particular episcopal see like the title of a primate.
 Major archbishop:Major archbishops are the heads of some of the Eastern Catholic Churches. Their authority within their _sui juris_ church is equal to that of a patriarch, but they receive fewer ceremonial honors.
 Metropolitan bishop: A metropolitan bishop is an archbishop in charge of an ecclesiastical province, or group of dioceses, and in addition to having immediate jurisdiction over his own archdiocese, also exercises some oversight over the other dioceses within that province. Sometimes a metropolitan may also be the head of an autocephalous, _sui iuris_, or autonomous church when the number of adherents of that tradition are small. In the Latin Rite, metropolitans are always archbishops; in many Eastern churches, the title is "metropolitan," with some of these churches using "archbishop" as a separate office.
-Archbishop:Archbishop_William_Temple.jpg William Temple]] An archbishop is the bishop of an archdiocese. This is usually a prestigious diocese with an important place in local church history. In the Catholic Church, the title is purely honorific and carries no extra jurisdiction, though most archbishops are also metropolitan bishops, as above, and are always awarded a pallium. In most provinces of the Anglican Communion, however, an archbishop has metropolitical and primatial power.
+Archbishop: William Temple]] An archbishop is the bishop of an archdiocese. This is usually a prestigious diocese with an important place in local church history. In the Catholic Church, the title is purely honorific and carries no extra jurisdiction, though most archbishops are also metropolitan bishops, as above, and are always awarded a pallium. In most provinces of the Anglican Communion, however, an archbishop has metropolitical and primatial power.
 Suffragan bishop: A suffragan bishop is a bishop subordinate to a Metropolitan. In the Catholic Church this term is applied to all non-metropolitan bishops (that is, diocesan bishops of dioceses within a metropolitan's province, and auxiliary bishops). In the Anglican Communion, the term applies to a bishop who is a full-time assistant to a diocesan bishop: the Bishop of Warwick is suffragan to the Bishop of Coventry (the diocesan), though both live in Coventry.
 Area bishop: Some Anglican suffragans are given the responsibility for a geographical area within the diocese (for example, the Bishop of Stepney is an _area bishop_ within the Diocese of London).
 Titular bishop: A titular bishop is a bishop without a diocese. Rather, the bishop is head of a titular see, which is usually an ancient city that used to have a bishop, but, for some reason or other, does not have one now. Titular bishops often serve as auxiliary bishops. In the Ecumenical Patriarchate, bishops of modern dioceses are often given a titular see alongside their modern one (for example, the Archbishop of Thyateira _and_ Great Britain).
@@ -109,7 +109,7 @@ Cardinal:In Catholicism, a cardinal, a title dating back to the 8th century, is 
 
 Duties
 
-Confirmation_VanderWeyden.png, _The Seven Sacraments_, 15th century.
+, _The Seven Sacraments_, 15th century.
 In the Latin Rite of the Catholic Church the administration of Confirmation is normally reserved to the local bishop.]]
 
 In Catholicism, Eastern Orthodoxy, Oriental Orthodoxy, and Anglicanism, only a bishop can ordain other bishops, priests, and deacons.
@@ -132,15 +132,13 @@ The Catholic Church does recognise as valid (though illicit) ordinations done by
 
 The Eastern Orthodox Churches would not accept the validity of any ordinations performed by the Independent Catholic groups, as Eastern Orthodoxy considers to be spurious any consecration outside the Church as a whole. Eastern Orthodoxy considers apostolic succession to exist only within the Universal Church, and not through any authority held by individual bishops; thus, if a bishop ordains someone to serve outside the (Eastern Orthodox) Church, the ceremony is ineffectual, and no ordination has taken place regardless of the ritual used or the ordaining prelate's position within the Eastern Orthodox Churches.
 
-Priestly_ordination.jpg
-
 The position of the Catholic Church is slightly different. Whilst it does recognise the validity of the orders of certain groups which separated from communion with Holy See. The Holy See accepts as valid the ordinations of the Old Catholics in communion with Utrecht, as well as the Polish National Catholic Church (which received its orders directly from Utrecht, and was—until recently—part of that communion); but Catholicism does not recognise the orders of any group whose teaching is at variance with what they consider the core tenets of Christianity; this is the case even though the clergy of the Independent Catholic groups may use the proper ordination ritual. There are also other reasons why the Holy See does not recognise the validity of the orders of the Independent clergy:
 
 -   They hold that the continuing practice among many Independent clergy of one person receiving multiple ordinations in order to secure apostolic succession, betrays an incorrect and mechanistic theology of ordination.
 -   They hold that the practice within Independent groups of ordaining women demonstrates an understanding of Priesthood that they vindicate is totally unacceptable to the Catholic and Eastern Orthodox churches as they believe that the Universal Church does not possess such authority; thus, they uphold that any ceremonies performed by these women should be considered being sacramentally invalid.
 -   The theology of male clergy within the Independent movement is also suspect according to the Catholics, as they presumably approve of the ordination of females, and may have even undergone an (invalid) ordination ceremony conducted by a woman.
 
-JeffertsSchori.JPG, The 26th presiding bishop of the Episcopal Church (United States)]]
+, The 26th presiding bishop of the Episcopal Church (United States)]]
 
 Whilst members of the Independent Catholic movement take seriously the issue of valid orders, it is highly significant that the relevant Vatican Congregations tend not to respond to petitions from Independent Catholic bishops and clergy who seek to be received into communion with the Holy See, hoping to continue in some sacramental role. In those instances where the pope does grant reconciliation, those deemed to be clerics within the Independent Old Catholic movement are invariably admitted as laity and not priests or bishops.
 
@@ -150,7 +148,7 @@ Some provinces of the Anglican Communion have begun ordaining women as bishops i
 
 Lutheranism
 
-Henning_Toft_Bro1_(bispevielse).jpg bishops wearing a cope over cassock, surplice, ruff and pectoral cross.]]
+bishops wearing a cope over cassock, surplice, ruff and pectoral cross.]]
 
 In the Evangelical Lutheran Church in America (ELCA) and the Evangelical Lutheran Church in Canada (ELCIC), the largest Lutheran Church bodies in the United States and Canada respectively and roughly based on the Nordic Lutheran state churches (similar to that of the Church of England), bishops are elected by Synod Assemblies, consisting of both lay members and clergy, for a term of 6 years, which can be renewed, depending upon the local synod's "constitution" (which is mirrored on either the ELCA or ELCIC's national constitution). Since the implementation of concordats between the ELCA and the Episcopal Church of the United States and the ELCIC and the Anglican Church of Canada, all bishops, including the presiding bishop (ELCA) or the national bishop (ELCIC), have been consecrated using the historic succession, with at least one Anglican bishop serving as co-consecrator.[22][23]
 
@@ -170,13 +168,11 @@ In the Christian Methodist Episcopal Church in the United States, bishops are ad
 
 United Methodist Church
 
-UMEpiscopalShield.jpg
-
 In the United Methodist Church (the largest branch of Methodism in the world) bishops serve as administrative and pastoral superintendents of the church. They are elected for life from among the ordained elders (presbyters) by vote of the delegates in regional (called jurisdictional) conferences, and are consecrated by the other bishops present at the conference through the laying on of hands. In the United Methodist Church bishops remain members of the "Order of Elders" while being consecrated to the "Office of the Episcopacy". Within the United Methodist Church only bishops are empowered to consecrate bishops and ordain clergy. Among their most critical duties is the ordination and appointment of clergy to serve local churches as pastor, presiding at sessions of the Annual, Jurisdictional, and General Conferences, providing pastoral ministry for the clergy under their charge, and safeguarding the doctrine and discipline of the Church. Furthermore, individual bishops, or the Council of Bishops as a whole, often serve a prophetic role, making statements on important social issues and setting forth a vision for the denomination, though they have no legislative authority of their own. In all of these areas, bishops of the United Methodist Church function very much in the historic meaning of the term. According to the _Book of Discipline of the United Methodist Church_, a bishop's responsibilities are
 
 In each Annual Conference, United Methodist bishops serve for four-year terms, and may serve up to three terms before either retirement or appointment to a new Conference. United Methodist bishops may be male or female, with Marjorie Matthews being the first woman to be consecrated a bishop in 1980.
 
-The_Ordination_of_Bishop_Asbury.jpg's ordination as bishop by Thomas Coke at the 1784 Christmas Conference.]]
+'s ordination as bishop by Thomas Coke at the 1784 Christmas Conference.]]
 
 The collegial expression of episcopal leadership in the United Methodist Church is known as the Council of Bishops. The Council of Bishops speaks to the Church and through the Church into the world and gives leadership in the quest for Christian unity and interreligious relationships. The Conference of Methodist Bishops includes the United Methodist _Council of Bishops_ plus bishops from affiliated autonomous Methodist or United Churches.
 

@@ -1,4 +1,4 @@
-Nuclear_depth_charge_explodes_near_USS_Agerholm_(DD-826),_11_May_1962.jpg" test in 1962]] TV_3516_Asagiri.JPG, UK.]] ASROC_launch_from_USS_Joseph_Strauss_(DDG-16)_1978.jpg
+" test in 1962]] , UK.]]
 
 The RUR-5 ASROC (for "Anti-Submarine ROCket") is an all-weather, all sea-conditions anti-submarine missile system. Developed by the United States Navy in the 1950s, it was deployed in the 1960s, updated in the 1990s, and eventually installed on over 200 USN surface ships, specifically cruisers, destroyers, and frigates. The ASROC has been deployed on scores of warships of many other navies, including Canada, Germany, Italy, Japan, the Republic of China, Greece, Pakistan and others.[1]
 
@@ -35,8 +35,6 @@ Most _Spruance_-class destroyers were later modified to include the Mk 41 VLS, t
 
 
 Operators
-
-RUR-5_operators.png
 
 Former operators
 

@@ -7,7 +7,7 @@ German is an inflected language with four cases for nouns, pronouns and adjectiv
 
 Classification
 
-Modern Standard German is a West Germanic language descended from the Germanic branch of the Indo-European languages. The Germanic languages are traditionally subdivided into three branches: North Germanic, East Germanic, and West Germanic. The first of these branches survives in modern Danish, Swedish, Norwegian, Faroese, and Icelandic, all of which are descended from Old Norse. The East Germanic languages are now extinct, and the only historical member of this branch from which written texts survive is Gothic. The West Germanic languages, however, have undergone extensive dialectal subdivision and are now represented in modern languages such as English, German, Dutch, Yiddish, Afrikaans, and others.[15] Germanic_Languages_Map_Europe.png in Europe]] Within the West Germanic language dialect continuum, the Benrath and Uerdingen lines (running through Düsseldorf-Benrath and Krefeld-Uerdingen, respectively) serve to distinguish the Germanic dialects that were affected by the High German consonant shift (south of Benrath) from those that were not (north of Uerdingen). The various regional dialects spoken south of these lines are grouped as High German dialects _(nos. 29–34 on the map)_, while those spoken to the north comprise the Low German/Low Saxon _(nos. 19–24)_ and Low Franconian _(no. 25)_ dialects. As members of the West Germanic language family, High German, Low German, and Low Franconian can be further distinguished historically as Irminonic, Ingvaeonic, and Istvaeonic, respectively. This classification indicates their historical descent from dialects spoken by the Irminones (also known as the Elbe group), Ingvaeones (or North Sea Germanic group), and Istvaeones (or Weser-Rhine group).[16]
+Modern Standard German is a West Germanic language descended from the Germanic branch of the Indo-European languages. The Germanic languages are traditionally subdivided into three branches: North Germanic, East Germanic, and West Germanic. The first of these branches survives in modern Danish, Swedish, Norwegian, Faroese, and Icelandic, all of which are descended from Old Norse. The East Germanic languages are now extinct, and the only historical member of this branch from which written texts survive is Gothic. The West Germanic languages, however, have undergone extensive dialectal subdivision and are now represented in modern languages such as English, German, Dutch, Yiddish, Afrikaans, and others.[15] in Europe]] Within the West Germanic language dialect continuum, the Benrath and Uerdingen lines (running through Düsseldorf-Benrath and Krefeld-Uerdingen, respectively) serve to distinguish the Germanic dialects that were affected by the High German consonant shift (south of Benrath) from those that were not (north of Uerdingen). The various regional dialects spoken south of these lines are grouped as High German dialects _(nos. 29–34 on the map)_, while those spoken to the north comprise the Low German/Low Saxon _(nos. 19–24)_ and Low Franconian _(no. 25)_ dialects. As members of the West Germanic language family, High German, Low German, and Low Franconian can be further distinguished historically as Irminonic, Ingvaeonic, and Istvaeonic, respectively. This classification indicates their historical descent from dialects spoken by the Irminones (also known as the Elbe group), Ingvaeones (or North Sea Germanic group), and Istvaeones (or Weser-Rhine group).[16]
 
 Standard German is based on a combination of Thuringian-Upper Saxon and Upper Franconian and Bavarian dialects, which are Central German and Upper German dialects, belonging to the Irminonic High German dialect group _(nos. 29–34)_. German is therefore closely related to the other languages based on High German dialects, such as Luxembourgish (based on Central Franconian dialects – _no. 29_), and Yiddish. Also closely related to Standard German are the Upper German dialects spoken in the southern German-speaking countries, such as Swiss German (Alemannic dialects – _no. 34_), and the various Germanic dialects spoken in the French region of Grand Est, such as Alsatian (mainly Alemannic, but also Central- and Upper Franconian _(no. 32)_ dialects) and Lorraine Franconian (Central Franconian – _no. 29_).
 
@@ -43,7 +43,7 @@ The German language through the OHG period was still predominantly a spoken lang
 
 Middle High German
 
-AlthochdeutscheSprachräume962_Box.jpg around AD 962.
+around AD 962.
 
 ------------------------------------------------------------------------
 
@@ -59,9 +59,9 @@ The Middle High German period is generally seen as ending with the decimation of
 
 Early New High German
 
-Deutsch-Niederländischer_Sprachraum_(nach_Werner_König).png from much of eastern and central Europe. Areas in the east where German is no longer spoken are marked by lighter shades.]] Modern German begins with the Early New High German (ENHG) period, which the influential German philologist Wilhelm Scherer dates 1350–1650, terminating with the end of the Thirty Years' War.[28] This period saw the further displacement of Latin by German as the primary language of courtly proceedings and, increasingly, of literature in the German states. While these states were still under the control of the Holy Roman Empire and far from any form of unification, the desire for a cohesive written language that would be understandable across the many German-speaking principalities and kingdoms was stronger than ever. As a spoken language German remained highly fractured through this period with a vast number of often mutually-incomprehensible regional dialects being spoken throughout the German states; the invention of the printing press c.1440 and the publication of Luther's vernacular translation of the Bible in 1534, however, had an immense effect on standardizing German as a supra-dialectal written language.
+from much of eastern and central Europe. Areas in the east where German is no longer spoken are marked by lighter shades.]] Modern German begins with the Early New High German (ENHG) period, which the influential German philologist Wilhelm Scherer dates 1350–1650, terminating with the end of the Thirty Years' War.[28] This period saw the further displacement of Latin by German as the primary language of courtly proceedings and, increasingly, of literature in the German states. While these states were still under the control of the Holy Roman Empire and far from any form of unification, the desire for a cohesive written language that would be understandable across the many German-speaking principalities and kingdoms was stronger than ever. As a spoken language German remained highly fractured through this period with a vast number of often mutually-incomprehensible regional dialects being spoken throughout the German states; the invention of the printing press c.1440 and the publication of Luther's vernacular translation of the Bible in 1534, however, had an immense effect on standardizing German as a supra-dialectal written language.
 
-The ENHG period saw the rise of several important cross-regional forms of chancery German, one being _gemeine tiutsch,_ used in the court of the Holy Roman Emperor Maximilian I, and the other being _Meißner Deutsch_, used in the Electorate of Saxony in the Duchy of Saxe-Wittenberg.[29] Alongside these courtly written standards, the invention of the printing press led to the development of a number of printers' languages (_Druckersprachen_) aimed at making printed material readable and understandable across as many diverse dialects of German as possible.[30] The greater ease of production and increased availability of written texts brought about increased standardization in the written form of the German language.Lutherbibel.jpg translated into German by Martin Luther helped establish modern German]]One of the central events in the development of ENHG was the publication of Luther's translation of the Bible into German (the New Testament in 1522 and the Old Testament, published in parts and completed in 1534). Luther based his translation primarily on the _Meißner Deutsch_ of Saxony,[31] spending much time among the population of Saxony researching the dialect so as to make the work as natural and accessible to German speakers as possible. Copies of Luther's Bible featured a long list of glosses for each region that translated words which were unknown in the region into the regional dialect. Concerning his translation method Luther says the following:
+The ENHG period saw the rise of several important cross-regional forms of chancery German, one being _gemeine tiutsch,_ used in the court of the Holy Roman Emperor Maximilian I, and the other being _Meißner Deutsch_, used in the Electorate of Saxony in the Duchy of Saxe-Wittenberg.[29] Alongside these courtly written standards, the invention of the printing press led to the development of a number of printers' languages (_Druckersprachen_) aimed at making printed material readable and understandable across as many diverse dialects of German as possible.[30] The greater ease of production and increased availability of written texts brought about increased standardization in the written form of the German language. translated into German by Martin Luther helped establish modern German]]One of the central events in the development of ENHG was the publication of Luther's translation of the Bible into German (the New Testament in 1522 and the Old Testament, published in parts and completed in 1534). Luther based his translation primarily on the _Meißner Deutsch_ of Saxony,[31] spending much time among the population of Saxony researching the dialect so as to make the work as natural and accessible to German speakers as possible. Copies of Luther's Bible featured a long list of glosses for each region that translated words which were unknown in the region into the regional dialect. Concerning his translation method Luther says the following:
 
   One who would talk German does not ask the Latin how he shall do it; he must ask the mother in the home, the children on the streets, the common man in the market-place and note carefully how they talk, then translate accordingly. They will then understand what is said to them because it is German. When Christ says 'ex abundantia cordis os loquitur,' I would translate, if I followed the papists, _aus dem Überflusz des Herzens redet der Mund_. But tell me is this talking German? What German understands such stuff? No, the mother in the home and the plain man would say, _Wesz das Herz voll ist, des gehet der Mund über_.[32]
 
@@ -69,7 +69,7 @@ With Luther's rendering of the Bible in the vernacular, German asserted itself a
 
 Austrian Empire
 
-Austria_Hungary_ethnic.svg, 1910, with German-speaking areas shown in red]]
+, 1910, with German-speaking areas shown in red]]
 
 German was the language of commerce and government in the Habsburg Empire, which encompassed a large area of Central and Eastern Europe. Until the mid-19th century, it was essentially the language of townspeople throughout most of the Empire. Its use indicated that the speaker was a merchant or someone from an urban area, regardless of nationality.
 
@@ -79,7 +79,7 @@ In the eastern provinces of Banat and Transylvania (), German was the predominan
 
 Standardization
 
-German_dictionary.jpg'' (1854) by the Brothers Grimm helped to standardize German orthography.]]
+'' (1854) by the Brothers Grimm helped to standardize German orthography.]]
 
 The most comprehensive guide to the vocabulary of the German language is found within the . This dictionary was created by the Brothers Grimm and is composed of 16 parts which were issued between 1852 and 1860.[37] In 1872, grammatical and orthographic rules first appeared in the _Duden Handbook_.[38]
 
@@ -136,7 +136,7 @@ Africa
 
 Namibia
 
-NamibiaDeutscheSprache.jpgn everyday life]] Namibia was a colony of the German Empire from 1884 to 1919. Mostly descending from German settlers who immigrated during this time, 25–30,000 people still speak German as a native tongue today.[73] The period of German colonialism in Namibia also led to the evolution of a Standard German-based pidgin language called "Namibian Black German", which became a second language for parts of the indigenous population. Although it is nearly extinct today, some older Namibians still have some knowledge of it.[74]
+n everyday life]] Namibia was a colony of the German Empire from 1884 to 1919. Mostly descending from German settlers who immigrated during this time, 25–30,000 people still speak German as a native tongue today.[73] The period of German colonialism in Namibia also led to the evolution of a Standard German-based pidgin language called "Namibian Black German", which became a second language for parts of the indigenous population. Although it is nearly extinct today, some older Namibians still have some knowledge of it.[74]
 
 German, along with English and Afrikaans was a co-official language of Namibia from 1984 until its independence from South Africa in 1990. At this point, the Namibian government perceived Afrikaans and German as symbols of apartheid and colonialism, and decided English would be the sole official language, stating that it was a "neutral" language as there were virtually no English native speakers in Namibia at that time.[75] German, Afrikaans and several indigenous languages became "national languages" by law, identifying them as elements of the cultural heritage of the nation and ensuring that the state acknowledged and supported their presence in the country.[76] Today, German is used in a wide variety of spheres, especially business and tourism, as well as the churches (most notably the German-speaking Evangelical Lutheran Church in Namibia (GELK)), schools (e.g. the ), literature (German-Namibian authors include Giselher W. Hoffmann), radio (the Namibian Broadcasting Corporation produces radio programs in German), and music (e.g. artist EES). The is one of the three biggest newspapers in Namibia and the only German-language daily in Africa.[77]
 
@@ -152,7 +152,7 @@ South America
 
 Brazil
 
-Pomeranoespiritosanto.svg where East Pomeranian is co-official in Espírito Santo, Brazil.]] In Brazil, the largest concentrations of German speakers are in the states of Rio Grande do Sul (where Riograndenser Hunsrückisch developed), Santa Catarina, Paraná, São Paulo and Espírito Santo.[83]
+where East Pomeranian is co-official in Espírito Santo, Brazil.]] In Brazil, the largest concentrations of German speakers are in the states of Rio Grande do Sul (where Riograndenser Hunsrückisch developed), Santa Catarina, Paraná, São Paulo and Espírito Santo.[83]
 
 Co-official statuses of German or German varieties in Brazil
 
@@ -186,12 +186,10 @@ There is also an important German creole being studied and recovered, named , sp
 
 German as a foreign language
 
-German_foreign_language_EU.jpg in the EU member states (+Turkey), in per cent of the adult population (+15), 2005.]] Like French and Spanish, German has become a classic second foreign language in the western world, as English (Spanish in the US) is well established as the first foreign language.[102][103] German ranks second (after English) among the best known foreign languages in the EU (on a par with French)[104] as well as in Russia.[105] In terms of student numbers across all levels of education, German ranks third in the EU (after English and French)[106] as well as in the United States (after Spanish and French).[107][108] In 2015, approximately 15.4 million people were in the process of learning German across all levels of education worldwide.[109] As this number remained relatively stable since 2005 (± 1 million), roughly 75–100 million people able to communicate in German as foreign language can be inferred assuming an average course duration of three years and other estimated parameters.[110] According to a 2012 survey, 47 million people within the EU (i.e., up to two thirds of the 75–100 million worldwide) claimed to have sufficient German skills to have a conversation. Within the EU, not counting countries where it is an official language, German as a foreign language is most popular in Eastern and Northern Europe, namely the Czech Republic, Croatia, Denmark, the Netherlands, Slovakia, Hungary, Slovenia, Sweden and Poland.[111][112] German was once, and to some extent still is, a lingua franca in those parts of Europe.[113]
+in the EU member states (+Turkey), in per cent of the adult population (+15), 2005.]] Like French and Spanish, German has become a classic second foreign language in the western world, as English (Spanish in the US) is well established as the first foreign language.[102][103] German ranks second (after English) among the best known foreign languages in the EU (on a par with French)[104] as well as in Russia.[105] In terms of student numbers across all levels of education, German ranks third in the EU (after English and French)[106] as well as in the United States (after Spanish and French).[107][108] In 2015, approximately 15.4 million people were in the process of learning German across all levels of education worldwide.[109] As this number remained relatively stable since 2005 (± 1 million), roughly 75–100 million people able to communicate in German as foreign language can be inferred assuming an average course duration of three years and other estimated parameters.[110] According to a 2012 survey, 47 million people within the EU (i.e., up to two thirds of the 75–100 million worldwide) claimed to have sufficient German skills to have a conversation. Within the EU, not counting countries where it is an official language, German as a foreign language is most popular in Eastern and Northern Europe, namely the Czech Republic, Croatia, Denmark, the Netherlands, Slovakia, Hungary, Slovenia, Sweden and Poland.[111][112] German was once, and to some extent still is, a lingua franca in those parts of Europe.[113]
 
 
 Standard German
-
-Knowledge_of_German_EU_map.svg
 
 Standard German originated not as a traditional dialect of a specific region but as a written language. However, there are places where the traditional regional dialects have been replaced by new vernaculars based on standard German; that is the case in large stretches of Northern Germany but also in major cities in other parts of the country. It is important to note, however, that the colloquial standard German differs greatly from the formal written language, especially in grammar and syntax, in which it has been influenced by dialectal speech.
 
@@ -200,8 +198,6 @@ Standard German differs regionally between German-speaking countries in vocabula
 In most regions, the speakers use a continuum from more dialectal varieties to more standard varieties according to circumstances.
 
 Varieties of Standard German
-
-Standard_varieties_of_German.png
 
 In German linguistics, German dialects are distinguished from varieties of standard German. The _varieties of standard German_ refer to the different local varieties of the pluricentric standard German. They differ only slightly in lexicon and phonology. In certain regions, they have replaced the traditional German dialects, especially in Northern Germany.
 
@@ -216,7 +212,7 @@ A mixture of dialect and standard does not normally occur in Northern Germany ei
 
 Dialects
 
-Continental_West_Germanic_languages.png dialects]]
+dialects]]
 
 German is a member of the West Germanic language of the Germanic family of languages, which in turn is part of the Indo-European language family. The German dialects are the traditional local varieties; many of them are hardly understandable to someone who knows only standard German, and they have great differences in lexicon, phonology and syntax. If a narrow definition of language based on mutual intelligibility is used, many German dialects are considered to be separate languages (for instance in the Ethnologue). However, such a point of view is unusual in German linguistics.[115]
 
@@ -226,17 +222,17 @@ The variation among the German dialects is considerable, with often only neighbo
 
 Low German/Low Saxon
 
-Map_of_the_Low_German_Dialects.svg (yellow) and Low Franconian (orange) dialects]] Middle Low German was the lingua franca of the Hanseatic League. It was the predominant language in Northern Germany until the 16th century. In 1534, the Luther Bible was published. The translation is considered to be an important step towards the evolution of the Early New High German. It aimed to be understandable to a broad audience and was based mainly on Central and Upper German varieties. The Early New High German language gained more prestige than Low German and became the language of science and literature. Around the same time, the Hanseatic League, based around northern ports, lost its importance as new trade routes to Asia and the Americas were established, and the most powerful German states of that period were located in Middle and Southern Germany.
+(yellow) and Low Franconian (orange) dialects]] Middle Low German was the lingua franca of the Hanseatic League. It was the predominant language in Northern Germany until the 16th century. In 1534, the Luther Bible was published. The translation is considered to be an important step towards the evolution of the Early New High German. It aimed to be understandable to a broad audience and was based mainly on Central and Upper German varieties. The Early New High German language gained more prestige than Low German and became the language of science and literature. Around the same time, the Hanseatic League, based around northern ports, lost its importance as new trade routes to Asia and the Americas were established, and the most powerful German states of that period were located in Middle and Southern Germany.
 
 The 18th and 19th centuries were marked by mass education in Standard German in schools. Gradually, Low German came to be politically viewed as a mere dialect spoken by the uneducated. Today, Low Saxon can be divided in two groups: Low Saxon varieties with a reasonable Standard German influx and varieties of Standard German with a Low Saxon influence known as . Sometimes, Low Saxon and Low Franconian varieties are grouped together because both are unaffected by the High German consonant shift. However, the proportion of the population who can understand and speak it has decreased continuously since World War II. The largest cities in the Low German area are Hamburg and Dortmund.
 
 Low Franconian
 
-Niederfränkisch.png]] The Low Franconian dialects are the dialects that are more closely related to Dutch than to Low German. Most of the Low Franconian dialects are spoken in the Netherlands and in Belgium, where they are considered as dialects of Dutch, which is itself a Low Franconian language. In Germany, Low Franconian dialects are spoken in the northwest of North Rhine-Westphalia, along the Lower Rhine. The Low Franconian dialects spoken in Germany are referred to as Meuse-Rhenish or Low Rhenish. In the north of the German Low Franconian language area, North Low Franconian dialects (also referred to as Cleverlands or as dialects of South Guelderish) are spoken. These dialects are more closely related to Dutch (also North Low Franconian) than the South Low Franconian dialects (also referred to as East Limburgish and, east of the Rhine, Bergish), which are spoken in the south of the German Low Franconian language area. The South Low Franconian dialects are more closely related to Limburgish than to Dutch, and are transitional dialects between Low Franconian and Ripuarian (Central Franconian). The East Bergish dialects are the easternmost Low Franconian dialects, and are transitional dialects between North- and South Low Franconian, and Westphalian (Low German), with most of its features however being North Low Franconian. The largest cities in the German Low Franconian area are Düsseldorf and Duisburg.
+]] The Low Franconian dialects are the dialects that are more closely related to Dutch than to Low German. Most of the Low Franconian dialects are spoken in the Netherlands and in Belgium, where they are considered as dialects of Dutch, which is itself a Low Franconian language. In Germany, Low Franconian dialects are spoken in the northwest of North Rhine-Westphalia, along the Lower Rhine. The Low Franconian dialects spoken in Germany are referred to as Meuse-Rhenish or Low Rhenish. In the north of the German Low Franconian language area, North Low Franconian dialects (also referred to as Cleverlands or as dialects of South Guelderish) are spoken. These dialects are more closely related to Dutch (also North Low Franconian) than the South Low Franconian dialects (also referred to as East Limburgish and, east of the Rhine, Bergish), which are spoken in the south of the German Low Franconian language area. The South Low Franconian dialects are more closely related to Limburgish than to Dutch, and are transitional dialects between Low Franconian and Ripuarian (Central Franconian). The East Bergish dialects are the easternmost Low Franconian dialects, and are transitional dialects between North- and South Low Franconian, and Westphalian (Low German), with most of its features however being North Low Franconian. The largest cities in the German Low Franconian area are Düsseldorf and Duisburg.
 
 High German
 
-Mitteldeutsche_Mundarten.png dialects]] Fränkisches_Sprachgebiet.png (Low Franconian, Central- and Rhine Franconian, and High Franconian)]] The High German dialects consist of the Central German, High Franconian, and Upper German dialects. The High Franconian dialects are transitional dialects between Central- and Upper German. The High German varieties spoken by the Ashkenazi Jews have several unique features, and are considered as a separate language, Yiddish, written with the Hebrew alphabet.
+dialects]] (Low Franconian, Central- and Rhine Franconian, and High Franconian)]] The High German dialects consist of the Central German, High Franconian, and Upper German dialects. The High Franconian dialects are transitional dialects between Central- and Upper German. The High German varieties spoken by the Ashkenazi Jews have several unique features, and are considered as a separate language, Yiddish, written with the Hebrew alphabet.
 
 Central German
 
@@ -263,7 +259,7 @@ South Franconian is mainly spoken in northern Baden-Württemberg in Germany, but
 
 Upper German
 
-Oberdeutsche_Mundarten.png and High Franconian (transitional between Central- and Upper German) dialects]] The Upper German dialects are the Alemannic dialects in the west, and the Bavarian dialects in the east.
+and High Franconian (transitional between Central- and Upper German) dialects]] The Upper German dialects are the Alemannic dialects in the west, and the Bavarian dialects in the east.
 
 Alemannic
 
@@ -280,7 +276,7 @@ German is a fusional language with a moderate degree of inflection, with three g
 
 Noun inflection
 
-DE-def-art-declensions-en.svg German nouns inflect by case, gender and number:
+German nouns inflect by case, gender and number:
 
 -   four cases: nominative, accusative, genitive and dative.
 -   three genders: masculine, feminine and neuter. Word endings sometimes reveal grammatical gender: for instance, nouns ending in (-ing), (-ship), or (-hood, -ness) are feminine, and nouns ending in or (diminutive forms) are neuter and nouns ending in (-ism) are masculine. Others are more variable, sometimes depending on the region in which the language is spoken; and some endings are not restricted to one gender, e.g. (-er), e.g. (feminine), celebration, party, (masculine), labourer, and (neuter), thunderstorm.
@@ -450,7 +446,7 @@ The order at the end of such strings is subject to variation, but the latter ver
 
 Vocabulary
 
-Duden_25Auflage.JPG'' dictionary.]] OeWB_42Aufl.jpg}} ("Austrian Dictionary").]]
+'' dictionary.]] }} ("Austrian Dictionary").]]
 
 Most German vocabulary is derived from the Germanic branch of the European language family. However, there is a significant amount of loanwords from other languages, in particular from Latin, Greek, Italian, French[118] and most recently English.[119] In the early 19th century, Joachim Heinrich Campe estimated that one fifth of the total German vocabulary was of French or Latin origin.[120]
 
@@ -505,7 +501,7 @@ This is a selection of cognates in both English and German. Instead of the usual
 
 Orthography
 
-1995_Schulschrift_2._Schraegschrift.jpg, one of Austria's elementary school handwriting programs]] Vereinfachte_Ausgangsschrift.png, elementary school handwriting program in some West German states]]
+, one of Austria's elementary school handwriting programs]] , elementary school handwriting program in some West German states]]
 
 German is written in the Latin alphabet. In addition to the 26 standard letters, German has three vowels with Umlaut, namely _ä_, _ö_ and _ü_, as well as the eszett or (sharp s): _ß_. In Switzerland and Liechtenstein, _ss_ is used instead of _ß_. Since _ß_ can never occur at the beginning of a word, it has no traditional uppercase form.
 
@@ -525,7 +521,7 @@ Written German also typically uses an alternative opening inverted comma (quotat
 
 Past
 
-Fraktur-ru.jpg and Kurrent respectively, with the footnote explaining ligatures used in Fraktur.]] Until the early 20th century, German was mostly printed in blackletter typefaces (mostly in Fraktur, but also in Schwabacher) and written in corresponding handwriting (for example Kurrent and Sütterlin). These variants of the Latin alphabet are very different from the serif or sans-serif Antiqua typefaces used today, and the handwritten forms in particular are difficult for the untrained to read. The printed forms, however, were claimed by some to be more readable when used for Germanic languages.[127] (Often, foreign names in a text were printed in an Antiqua typeface even though the rest of the text was in Fraktur.) The Nazis initially promoted Fraktur and Schwabacher because they were considered Aryan, but they abolished them in 1941, claiming that these letters were Jewish.[128] It is also believed that the Nazi régime had banned this script as they realized that Fraktur would inhibit communication in the territories occupied during World War II.[129]
+and Kurrent respectively, with the footnote explaining ligatures used in Fraktur.]] Until the early 20th century, German was mostly printed in blackletter typefaces (mostly in Fraktur, but also in Schwabacher) and written in corresponding handwriting (for example Kurrent and Sütterlin). These variants of the Latin alphabet are very different from the serif or sans-serif Antiqua typefaces used today, and the handwritten forms in particular are difficult for the untrained to read. The printed forms, however, were claimed by some to be more readable when used for Germanic languages.[127] (Often, foreign names in a text were printed in an Antiqua typeface even though the rest of the text was in Fraktur.) The Nazis initially promoted Fraktur and Schwabacher because they were considered Aryan, but they abolished them in 1941, claiming that these letters were Jewish.[128] It is also believed that the Nazi régime had banned this script as they realized that Fraktur would inhibit communication in the territories occupied during World War II.[129]
 
 The Fraktur script however remains present in everyday life in pub signs, beer brands and other forms of advertisement, where it is used to convey a certain rusticality and antiquity.
 
@@ -548,7 +544,7 @@ Phonology
 
 Vowels
 
-De-Faust_-_Der_Tragödie_erster_Teil-Prolog_und_Auf_dem_Theater-wikisource.ogg]]
+]]
 
 In German, vowels (excluding diphthongs; see below) are either _short_ or _long_, as follows:
 
@@ -644,12 +640,12 @@ The German language is used in German literature and can be traced back to the M
 
 Reformer and theologian Martin Luther, who was the first to translate the Bible into German, is widely credited for having set the basis for the modern "High German" language. Among the most well known poets and authors in German are Lessing, Goethe, Schiller, Kleist, Hoffmann, Brecht, Heine, and Kafka. Thirteen German-speaking people have won the Nobel Prize in literature: Theodor Mommsen, Rudolf Christoph Eucken, Paul von Heyse, Gerhart Hauptmann, Carl Spitteler, Thomas Mann, Nelly Sachs, Hermann Hesse, Heinrich Böll, Elias Canetti, Günter Grass, Elfriede Jelinek and Herta Müller.
 
-+-------------------------------------------------------------------------------------------+------------------------------+----------------+----------------------+-------------------------------------------+
-| Johann Wolfgang von Goethe                                                                | Friedrich Schiller           | Brothers Grimm | Thomas Mann          | Hermann Hesse                             |
-| (1749–1832)                                                                               | (1759–1805)                  | (1785–1863)    | (1875–1955)          | (1877–1962)                               |
-+===========================================================================================+==============================+================+======================+===========================================+
-| Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg | Gerhard_von_Kügelgen_001.jpg | Grimm1.jpg     | Thomas_Mann_1929.jpg | Hermann_Hesse_1927_Photo_Gret_Widmann.jpg |
-+-------------------------------------------------------------------------------------------+------------------------------+----------------+----------------------+-------------------------------------------+
++----------------------------+--------------------+----------------+-------------+---------------+
+| Johann Wolfgang von Goethe | Friedrich Schiller | Brothers Grimm | Thomas Mann | Hermann Hesse |
+| (1749–1832)                | (1759–1805)        | (1785–1863)    | (1875–1955) | (1877–1962)   |
++============================+====================+================+=============+===============+
+|                            |                    |                |             |               |
++----------------------------+--------------------+----------------+-------------+---------------+
 
 
 German loanwords in the English language
@@ -767,7 +763,7 @@ The Dortmund-based , which was founded in 1997, supports the German language and
 
 Deutsche Welle
 
-Deutsche_Welle_Logo.svg The German state broadcaster is the equivalent of the British BBC World Service and provides radio and television broadcasts in German and 30 other languages across the globe.[135] Its German language services are tailored for German language learners by being spoken at slow speed. also provides an website to learn German.
+The German state broadcaster is the equivalent of the British BBC World Service and provides radio and television broadcasts in German and 30 other languages across the globe.[135] Its German language services are tailored for German language learners by being spoken at slow speed. also provides an website to learn German.
 
 
 See also

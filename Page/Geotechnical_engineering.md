@@ -1,4 +1,4 @@
-Boston_CAT_Project-construction_view_from_air.jpeg's Big Dig presented geotechnical challenges in an urban environment.]] GEOTECHNICAL ENGINEERING is the branch of civil engineering concerned with the engineering behavior of earth materials. Geotechnical engineering is important in civil engineering, but also has applications in military, mining, petroleum and other engineering disciplines that are concerned with construction occurring on the surface or within the ground. Geotechnical engineering uses principles of soil mechanics and rock mechanics to investigate subsurface conditions and materials; determine the relevant physical/mechanical and chemical properties of these materials; evaluate stability of natural slopes and man-made soil deposits; assess risks posed by site conditions; design earthworks and structure foundations; and monitor site conditions, earthwork and foundation construction.[1][2]
+'s Big Dig presented geotechnical challenges in an urban environment.]] GEOTECHNICAL ENGINEERING is the branch of civil engineering concerned with the engineering behavior of earth materials. Geotechnical engineering is important in civil engineering, but also has applications in military, mining, petroleum and other engineering disciplines that are concerned with construction occurring on the surface or within the ground. Geotechnical engineering uses principles of soil mechanics and rock mechanics to investigate subsurface conditions and materials; determine the relevant physical/mechanical and chemical properties of these materials; evaluate stability of natural slopes and man-made soil deposits; assess risks posed by site conditions; design earthworks and structure foundations; and monitor site conditions, earthwork and foundation construction.[1][2]
 
 A typical geotechnical engineering project begins with a review of project needs to define the required material properties. Then follows a site investigation of soil, rock, fault distribution and bedrock properties on and below an area of interest to determine their engineering properties including how they will interact with, on or in a proposed construction. Site investigations are needed to gain an understanding of the area in or on which the engineering will take place. Investigations can include the assessment of the risk to humans, property and the environment from natural hazards such as earthquakes, landslides, sinkholes, soil liquefaction, debris flows and rockfalls.
 
@@ -32,8 +32,6 @@ Geotechnical engineers are typically graduates of a four-year civil engineering 
 
 
 Soil mechanics
-
-Soil-phase-diagram.svg
 
 In geotechnical engineering, soils are considered a three-phase material composed of: rock or mineral particles, water and air. The voids of a soil, the spaces in between mineral particles, contain the water and air.
 
@@ -90,7 +88,7 @@ In areas of shallow bedrock, most foundations may bear directly on bedrock; in o
 
 Shallow foundations
 
-Slab_on_grade.JPG Shallow foundations are a type of foundation that transfers building load to the very near the surface, rather than to a subsurface layer. Shallow foundations typically have a depth to width ratio of less than 1.
+Shallow foundations are a type of foundation that transfers building load to the very near the surface, rather than to a subsurface layer. Shallow foundations typically have a depth to width ratio of less than 1.
 
 Footings
 
@@ -104,7 +102,7 @@ Slab foundations can be either slab-on-grade foundations or embedded foundations
 
 Deep foundations
 
-PileDriving.jpg for a bridge in Napa, California.]]
+for a bridge in Napa, California.]]
 
 Deep foundations are used for structures or heavy loads when shallow foundations cannot provide adequate capacity, due to size and structural limitations. They may also be used to transfer building loads past weak or compressible soil layers. While shallow foundations rely solely on the bearing capacity of the soil beneath them, deep foundations can rely on end bearing resistance, frictional resistance along their length, or both in developing the required capacity. Geotechnical engineers use specialized tools, such as the cone penetration test, to estimate the amount of skin and end bearing resistance available in the subsurface.
 
@@ -146,7 +144,7 @@ In some cases, the lateral support which can be provided by the shoring wall alo
 
 Earthworks
 
-Seabees_compactor_roller.jpg/roller operated by U.S. Navy Seabees]]
+/roller operated by U.S. Navy Seabees]]
 
 -   Excavation is the process of training earth according to requirement by removing the soil from the site.
 -   Filling is the process of training earth according to requirement by placing the soil on the site.
@@ -159,8 +157,6 @@ Ground Improvement is a technique that improves the engineering properties of th
 
 
 Slope stabilization
-
-Slopslump2.jpg
 
 Slope stability is the potential of soil covered slopes to withstand and undergo movement. Stability is determined by the balance of shear stress and shear strength. A previously stable slope may be initially affected by preparatory factors, making the slope conditionally unstable. Triggering factors of a slope failure can be climatic events can then make a slope actively unstable, leading to mass movements. Mass movements can be caused by increases in shear stress, such as loading, lateral pressure, and transient forces. Alternatively, shear strength may be decreased by weathering, changes in pore water pressure, and organic material.
 
@@ -177,14 +173,12 @@ A popular stability analysis approach is based on principles pertaining to the l
 
 Offshore geotechnical engineering
 
-Offshore_platforms.jpg _Offshore_ (or _marine_) _geotechnical engineering_ is concerned with foundation design for human-made structures in the sea, away from the coastline (in opposition to _onshore_ or _nearshore_).[22] Oil platforms, artificial islands and submarine pipelines are examples of such structures. There are number of significant differences between onshore and offshore geotechnical engineering.[23][24] Notably, ground improvement (on the seabed) and site investigation are more expensive, the offshore structures are exposed to a wider range of geohazards, and the environmental and financial consequences are higher in case of failure. Offshore structures are exposed to various environmental loads, notably wind, waves and currents. These phenomena may affect the integrity or the serviceability of the structure and its foundation during its operational lifespan – they need to be taken into account in offshore design.
+_Offshore_ (or _marine_) _geotechnical engineering_ is concerned with foundation design for human-made structures in the sea, away from the coastline (in opposition to _onshore_ or _nearshore_).[22] Oil platforms, artificial islands and submarine pipelines are examples of such structures. There are number of significant differences between onshore and offshore geotechnical engineering.[23][24] Notably, ground improvement (on the seabed) and site investigation are more expensive, the offshore structures are exposed to a wider range of geohazards, and the environmental and financial consequences are higher in case of failure. Offshore structures are exposed to various environmental loads, notably wind, waves and currents. These phenomena may affect the integrity or the serviceability of the structure and its foundation during its operational lifespan – they need to be taken into account in offshore design.
 
 In subsea geotechnical engineering, seabed materials are considered a two-phase material composed of 1) rock or mineral particles and 2) water.[25][26] Structures may be fixed in place in the seabed—as is the case for piers, jettys and fixed-bottom wind turbines—or may be a floating structure that remain roughly fixed relative to its geotechnical anchor point. Undersea mooring of human-engineered floating structures include a large number of offshore oil and gas platforms and, since 2008, a few floating wind turbines. Two common types of engineered design for anchoring floating structures include tension-leg and catenary loose mooring systems. "Tension leg mooring systems have vertical tethers under tension providing large restoring moments in pitch and roll. Catenary mooring systems provide station keeping for an offshore structure yet provide little stiffness at low tensions."[27]
 
 
 Geosynthetics
-
-Geocollage.JPG
 
 Geosynthetics are a type of plastic polymer products used in geotechnical engineering that improve engineering performance while reducing costs. This includes geotextiles, geogrids, geomembranes, geocells, and geocomposites. The synthetic nature of the products make them suitable for use in the ground where high levels of durability are required; their main functions include: drainage, filtration, reinforcement, separation and containment. Geosynthetics are available in a wide range of forms and materials, each to suit a slightly different end use, although they are frequently used together. These products have a wide range of applications and are currently used in many civil and geotechnical engineering applications including: roads, airfields, railroads, embankments, piled embankments, retaining structures, reservoirs, canals, dams, landfills, bank protection and coastal engineering.[28]
 

@@ -1,4 +1,4 @@
-Brick.jpg Brick_wall_close-up_view.jpg with bricks of various shades and lengths]] Concrete_wall.jpg laid with alternating courses of _headers_ and _stretchers_]]
+with bricks of various shades and lengths]] laid with alternating courses of _headers_ and _stretchers_]]
 
 A BRICK is building material used to make walls, pavements and other elements in masonry construction. Traditionally, the term brick referred to a unit composed of clay, but it is now used to denote rectangular units made of clay-bearing soil, sand, and lime, or concrete materials. Bricks can be joined together using mortar, adhesives or by interlocking them.[1][2] Bricks are produced in numerous classes, types, materials, and sizes which vary with region and time period, and are produced in bulk quantities. Two basic categories of bricks are _fired_ and _non-fired_ bricks.
 
@@ -11,11 +11,11 @@ Bricks are laid in _courses_ and numerous patterns known as _bonds_, collectivel
 
 History
 
-Historic_brick_street_in_Natchitoches,_LA_IMG_1943.JPG in historic Natchitoches, Louisiana]]
+in historic Natchitoches, Louisiana]]
 
 Middle East and South Asia
 
-Subrahmanya_Temple,_Saluvanakuppam_front_view.jpg, Tamil Nadu, India]] Shebli2.jpg in Iran displays 12th-century craftsmanship]] JetawanaStupa1.JPG stupa in Anuradhapura, Sri Lanka is one of the largest brick structures in the world.]] The earliest bricks were _dried brick_, meaning that they were formed from clay-bearing earth or mud and dried (usually in the sun) until they were strong enough for use. The oldest discovered bricks, originally made from shaped mud and dating before 7500 BC, were found at Tell Aswad, in the upper Tigris region and in southeast Anatolia close to Diyarbakir.[3] The South Asian inhabitants of Mehrgarh also constructed, and lived in, air-dried mudbrick houses between 7000–3300 BC.[4] Other more recent findings, dated between 7,000 and 6,395 BC, come from Jericho, Catal Hüyük, the ancient Egyptian fortress of Buhen, and the ancient Indus Valley cities of Mohenjo-daro, Harappa,[5] and Mehrgarh.[6] Ceramic, or _fired brick_ was used as early as 3000 BC in early Indus Valley cities like Kalibangan.[7]
+, Tamil Nadu, India]] in Iran displays 12th-century craftsmanship]] stupa in Anuradhapura, Sri Lanka is one of the largest brick structures in the world.]] The earliest bricks were _dried brick_, meaning that they were formed from clay-bearing earth or mud and dried (usually in the sun) until they were strong enough for use. The oldest discovered bricks, originally made from shaped mud and dating before 7500 BC, were found at Tell Aswad, in the upper Tigris region and in southeast Anatolia close to Diyarbakir.[3] The South Asian inhabitants of Mehrgarh also constructed, and lived in, air-dried mudbrick houses between 7000–3300 BC.[4] Other more recent findings, dated between 7,000 and 6,395 BC, come from Jericho, Catal Hüyük, the ancient Egyptian fortress of Buhen, and the ancient Indus Valley cities of Mohenjo-daro, Harappa,[5] and Mehrgarh.[6] Ceramic, or _fired brick_ was used as early as 3000 BC in early Indus Valley cities like Kalibangan.[7]
 
 China
 
@@ -25,7 +25,7 @@ Bricks continued to be used during 2nd millennium BC at a site near Xi'an.[10] F
 
 Europe
 
-Trier_Kurfuerstliches_Palais_BW_4.JPG Basilica Aula Palatina in Trier, Germany, built with fired bricks in the 4th century as an audience hall for Constantine I]] LandshutStMartin01.jpg in Landshut, Germany, completed in 1500]] Panorama_of_Malbork_Castle,_part_4.jpg, former Ordensburg of the Teutonic Order – biggest brick castle in the world]] Chilehaus.jpg in Hamburg, Germany]] Early civilisations around the Mediterranean adopted the use of fired bricks, including the Ancient Greeks and Romans. The Roman legions operated mobile kilns,[14] and built large brick structures throughout the Roman Empire, stamping the bricks with the seal of the legion.
+Basilica Aula Palatina in Trier, Germany, built with fired bricks in the 4th century as an audience hall for Constantine I]] in Landshut, Germany, completed in 1500]] , former Ordensburg of the Teutonic Order – biggest brick castle in the world]] in Hamburg, Germany]] Early civilisations around the Mediterranean adopted the use of fired bricks, including the Ancient Greeks and Romans. The Roman legions operated mobile kilns,[14] and built large brick structures throughout the Roman Empire, stamping the bricks with the seal of the legion.
 
 During the Early Middle Ages the use of bricks in construction became popular in Northern Europe, after being introduced there from Northern-Western Italy. An independent style of brick architecture, known as brick Gothic (similar to Gothic architecture) flourished in places that lacked indigenous sources of rocks. Examples of this architectural style can be found in modern-day Denmark, Germany, Poland, and Russia.
 
@@ -46,7 +46,7 @@ Following pioneering work in the 1950s at the Swiss Federal Institute of Technol
 
 Types
 
-2008_BeaconHill_Boston_2302897829.jpg shows different types of brickwork and stone foundations]] There are thousands of types of bricks that are named for their use, size, forming method, origin, quality, texture, and/or materials.
+shows different types of brickwork and stone foundations]] There are thousands of types of bricks that are named for their use, size, forming method, origin, quality, texture, and/or materials.
 
 Categorized by manufacture method:
 
@@ -90,7 +90,7 @@ Bricks named for place of origin:
 
 Methods of manufacture
 
-BrickMakingTurnOfTheCentury.jpg Three basic types of brick are un-fired, fired, and chemically set bricks. Each type is manufactured differently.
+Three basic types of brick are un-fired, fired, and chemically set bricks. Each type is manufactured differently.
 
 Mudbrick
 
@@ -98,7 +98,7 @@ Unfired bricks, also known as mudbricks, are made from a wet, clay-containing so
 
 Fired brick
 
-Brick_making_in_Java.jpg Fired bricks are burned in a kiln which makes them durable. Modern, fired, clay bricks are formed in one of three processes – soft mud, dry press, or extruded. Depending on the country, either the extruded or soft mud method is the most common, since they are the most economical.
+Fired bricks are burned in a kiln which makes them durable. Modern, fired, clay bricks are formed in one of three processes – soft mud, dry press, or extruded. Depending on the country, either the extruded or soft mud method is the most common, since they are the most economical.
 
 Normally, bricks contain the following ingredients:[21]
 
@@ -118,7 +118,7 @@ Three main methods are used for shaping the raw materials into bricks to be fire
 
 Kilns
 
-Raw_Indian_brick.jpg Xhosa_brickmaker_at_kiln_near_Ngcobo.jpg brickmaker at kiln near Ngcobo in 2007]] A_brickmaker_-_Tashrih_al-aqvam_(1825),_f.253v_-_BL_Add._27255.jpg In many modern brickworks, bricks are usually fired in a continuously fired tunnel kiln, in which the bricks are fired as they move slowly through the kiln on conveyors, rails, or kiln cars, which achieves a more consistent brick product. The bricks often have lime, ash, and organic matter added, which accelerates the burning process.
+brickmaker at kiln near Ngcobo in 2007]] In many modern brickworks, bricks are usually fired in a continuously fired tunnel kiln, in which the bricks are fired as they move slowly through the kiln on conveyors, rails, or kiln cars, which achieves a more consistent brick product. The bricks often have lime, ash, and organic matter added, which accelerates the burning process.
 
 The other major kiln type is the Bull's Trench Kiln (BTK), based on a design developed by British engineer W. Bull in the late 19th century.
 
@@ -132,7 +132,7 @@ As with the rail process, the BTK process is continuous. A half-dozen labourers 
 
 Influences on colour
 
-London_stock_brick_(bridge).jpg]] The fired colour of tired clay bricks is influenced by the chemical and mineral content of the raw materials, the firing temperature, and the atmosphere in the kiln. For example, pink bricks are the result of a high iron content, white or yellow bricks have a higher lime content. Most bricks burn to various red hues; as the temperature is increased the colour moves through dark red, purple, and then to brown or grey at around . The names of bricks may reflect their origin and colour, such as London stock brick and Cambridgeshire White. _Brick tinting_ may be performed to change the colour of bricks to blend-in areas of brickwork with the surrounding masonry.
+]] The fired colour of tired clay bricks is influenced by the chemical and mineral content of the raw materials, the firing temperature, and the atmosphere in the kiln. For example, pink bricks are the result of a high iron content, white or yellow bricks have a higher lime content. Most bricks burn to various red hues; as the temperature is increased the colour moves through dark red, purple, and then to brown or grey at around . The names of bricks may reflect their origin and colour, such as London stock brick and Cambridgeshire White. _Brick tinting_ may be performed to change the colour of bricks to blend-in areas of brickwork with the surrounding masonry.
 
 An impervious and ornamental surface may be laid on brick either by salt glazing, in which salt is added during the burning process, or by the use of a slip, which is a glaze material into which the bricks are dipped. Subsequent reheating in the kiln fuses the slip into a glazed surface integral with the brick base.
 
@@ -142,11 +142,11 @@ Chemically set bricks are not fired but may have the curing process accelerated 
 
 Calcium-silicate bricks
 
-Mexitegel.jpg Calcium-silicate bricks are also called sandlime or flintlime bricks, depending on their ingredients. Rather than being made with clay they are made with lime binding the silicate material. The raw materials for calcium-silicate bricks include lime mixed in a proportion of about 1 to 10 with sand, quartz, crushed flint, or crushed siliceous rock together with mineral colourants. The materials are mixed and left until the lime is completely hydrated; the mixture is then pressed into moulds and cured in an autoclave for three to fourteen hours to speed the chemical hardening.[24] The finished bricks are very accurate and uniform, although the sharp arrises need careful handling to avoid damage to brick and bricklayer. The bricks can be made in a variety of colours; white, black, buff, and grey-blues are common, and pastel shades can be achieved. This type of brick is common in Sweden, especially in houses built or renovated in the 1970s. In India these are known as fly ash bricks, manufactured using the FaL-G (fly ash, lime, and gypsum) process. Calcium-silicate bricks are also manufactured in Canada and the United States, and meet the criteria set forth in ASTM C73 – 10 Standard Specification for Calcium Silicate Brick (Sand-Lime Brick).
+Calcium-silicate bricks are also called sandlime or flintlime bricks, depending on their ingredients. Rather than being made with clay they are made with lime binding the silicate material. The raw materials for calcium-silicate bricks include lime mixed in a proportion of about 1 to 10 with sand, quartz, crushed flint, or crushed siliceous rock together with mineral colourants. The materials are mixed and left until the lime is completely hydrated; the mixture is then pressed into moulds and cured in an autoclave for three to fourteen hours to speed the chemical hardening.[24] The finished bricks are very accurate and uniform, although the sharp arrises need careful handling to avoid damage to brick and bricklayer. The bricks can be made in a variety of colours; white, black, buff, and grey-blues are common, and pastel shades can be achieved. This type of brick is common in Sweden, especially in houses built or renovated in the 1970s. In India these are known as fly ash bricks, manufactured using the FaL-G (fly ash, lime, and gypsum) process. Calcium-silicate bricks are also manufactured in Canada and the United States, and meet the criteria set forth in ASTM C73 – 10 Standard Specification for Calcium Silicate Brick (Sand-Lime Brick).
 
 Concrete bricks
 
-Brickworks_in_Hainan_-_cement_vessel,_maker,_stacker_01.jpg Town, Hainan, China. This operation produces a pallet containing 42 bricks, approximately every 30 seconds.]]
+Town, Hainan, China. This operation produces a pallet containing 42 bricks, approximately every 30 seconds.]]
 
 Bricks formed from concrete are usually termed as blocks or concrete masonry unit, and are typically pale grey. They are made from a dry, small aggregate concrete which is formed in steel moulds by vibration and compaction in either an "egglayer" or static machine. The finished blocks are cured, rather than fired, using low-pressure steam. Concrete bricks and blocks are manufactured in a wide range of shapes, sizes and face treatments – a number of which simulate the appearance of clay bricks.
 
@@ -154,12 +154,12 @@ Concrete bricks are available in many colours and as an engineering brick made w
 
 Compressed earth blocks
 
-Brick_kiln,_Belawadi,_Mysore.jpg Compressed earth blocks are made mostly from slightly moistened local soils compressed with a mechanical hydraulic press or manual lever press. A small amount of a cement binder may be added, resulting in a _stabilised compressed earth block_.
+Compressed earth blocks are made mostly from slightly moistened local soils compressed with a mechanical hydraulic press or manual lever press. A small amount of a cement binder may be added, resulting in a _stabilised compressed earth block_.
 
 
 Optimal dimensions, characteristics, and strength
 
-comparison_house_brick_size.svg Brick_pile.jpg For efficient handling and laying, bricks must be small enough and light enough to be picked up by the bricklayer using one hand (leaving the other hand free for the trowel). Bricks are usually laid flat, and as a result, the effective limit on the width of a brick is set by the distance which can conveniently be spanned between the thumb and fingers of one hand, normally about four inches (about 100 mm). In most cases, the length of a brick is twice its width plus the width of a mortar joint, about eight inches (about 200 mm) or slightly more. This allows bricks to be laid _bonded_ in a structure which increases stability and strength (for an example, see the illustration of bricks laid in _English bond_, at the head of this article). The wall is built using alternating courses of _stretchers_, bricks laid longways, and _headers_, bricks laid crossways. The headers tie the wall together over its width. In fact, this wall is built in a variation of _English bond_ called _English cross bond_ where the successive layers of stretchers are displaced horizontally from each other by half a brick length. In true _English bond_, the perpendicular lines of the stretcher courses are in line with each other.
+For efficient handling and laying, bricks must be small enough and light enough to be picked up by the bricklayer using one hand (leaving the other hand free for the trowel). Bricks are usually laid flat, and as a result, the effective limit on the width of a brick is set by the distance which can conveniently be spanned between the thumb and fingers of one hand, normally about four inches (about 100 mm). In most cases, the length of a brick is twice its width plus the width of a mortar joint, about eight inches (about 200 mm) or slightly more. This allows bricks to be laid _bonded_ in a structure which increases stability and strength (for an example, see the illustration of bricks laid in _English bond_, at the head of this article). The wall is built using alternating courses of _stretchers_, bricks laid longways, and _headers_, bricks laid crossways. The headers tie the wall together over its width. In fact, this wall is built in a variation of _English bond_ called _English cross bond_ where the successive layers of stretchers are displaced horizontally from each other by half a brick length. In true _English bond_, the perpendicular lines of the stretcher courses are in line with each other.
 
 A bigger brick makes for a thicker (and thus more insulating) wall. Historically, this meant that bigger bricks were necessary in colder climates (see for instance the slightly larger size of the Russian brick in table below), while a smaller brick was adequate, and more economical, in warmer regions. A notable illustration of this correlation is the Green Gate in Gdansk; built in 1571 of imported Dutch brick, too small for the colder climate of Gdansk, it was notorious for being a chilly and drafty residence. Nowadays this is no longer an issue, as modern walls typically incorporate specialised insulation materials.
 
@@ -207,7 +207,7 @@ Bricks may also be classified as _solid_ (less than 25% perforations by volume, 
 
 The term "frog" can refer to the indentation or the implement used to make it. Modern brickmakers usually use plastic frogs but in the past they were made of wood.
 
-Vault_of_Roman_Bath_in_Bath_-_England.jpg – England]] Dixie_Highway_Maitland.jpg, United States]]
+– England]] , United States]]
 
 The compressive strength of bricks produced in the United States ranges from about 1000 lbf/in² to 15,000 lbf/in² (7 to 105 MPa or N/mm² ), varying according to the use to which the brick are to be put. In England clay bricks can have strengths of up to 100 MPa, although a common house brick is likely to show a range of 20–40 MPa.
 

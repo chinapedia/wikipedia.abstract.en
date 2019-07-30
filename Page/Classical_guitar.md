@@ -44,7 +44,7 @@ Historical perspective
 
 Early guitars
 
-Musee-de-la-musique-6.jpg in Paris (which houses almost 200 classical guitars[3])]] While "classical guitar" is today mainly associated with the modern classical guitar design, there is an increasing interest in early guitars; and understanding the link between historical repertoire and the particular period guitar that was originally used to perform this repertoire. The musicologist and author Graham Wade writes:
+in Paris (which houses almost 200 classical guitars[3])]] While "classical guitar" is today mainly associated with the modern classical guitar design, there is an increasing interest in early guitars; and understanding the link between historical repertoire and the particular period guitar that was originally used to perform this repertoire. The musicologist and author Graham Wade writes:
 
   Nowadays it is customary to play this repertoire on reproductions of instruments authentically modelled on concepts of musicological research with appropriate adjustments to techniques and overall interpretation. Thus over recent decades we have become accustomed to specialist artists with expertise in the art of vihuela (a 16th-century type of guitar popular in Spain), lute, Baroque guitar, 19th-century guitar, etc.[4]
 
@@ -159,7 +159,7 @@ The earliest extant six-string guitar is believed to have been built in 1779 by 
 
 Modern classical guitar
 
-Agustin_Barrios.gif ]] The _modern classical guitar_ (also known as the "Spanish guitar"), the immediate forerunner of today's guitars, was developed in the 19th century by Antonio de Torres Jurado, Ignacio Fleta, Hermann Hauser Sr., and Robert Bouchet.
+]] The _modern classical guitar_ (also known as the "Spanish guitar"), the immediate forerunner of today's guitars, was developed in the 19th century by Antonio de Torres Jurado, Ignacio Fleta, Hermann Hauser Sr., and Robert Bouchet.
 
 Technique
 
@@ -172,7 +172,7 @@ In the 20th century, many non-guitarist composers wrote for the instrument, whic
 
 Performance
 
-Alisa_Gladyseva-Romanza_Española.ogv The modern classical guitar is usually played in a seated position, with the instrument resting on the left lap – and the left foot placed on a footstool. Alternatively – if a footstool is not used – a _guitar support_ can be placed between the guitar and the left lap (the support usually attaches to the instrument's side with suction cups). (There are of course exceptions, with some performers choosing to hold the instrument another way.)
+The modern classical guitar is usually played in a seated position, with the instrument resting on the left lap – and the left foot placed on a footstool. Alternatively – if a footstool is not used – a _guitar support_ can be placed between the guitar and the left lap (the support usually attaches to the instrument's side with suction cups). (There are of course exceptions, with some performers choosing to hold the instrument another way.)
 
 Right-handed players use the fingers of the right hand to pluck the strings, with the thumb plucking from the top of a string downwards (downstroke) and the other fingers plucking from the bottom of string upwards (upstroke). The little finger in classical technique as it evolved in the 20th century is used only to ride along with the ring finger without striking the strings and to thus physiologically facilitate the ring finger's motion.
 
@@ -241,8 +241,6 @@ The classical guitar is distinguished by a number of characteristics:
 -   The overall design of a Classical Guitar is very similar to the slightly lighter and smaller Flamenco guitar.
 
 Parts
-
-Acoustic_guitar-en.svg
 
 Parts of typical classical guitars, numbered[44]
 

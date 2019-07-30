@@ -3,8 +3,6 @@ _AILANTHUS_ (;[1] derived from _ailanto,_ an Ambonese word probably meaning "tre
 
 Selected species
 
-Ailanthus_altissima_002.JPG
-
 The number of living species is disputed, with some authorities accepting up to ten species, while others accept six or fewer. Species include:
 
 -   _Ailanthus altissima_ (tree of heaven, syn. _A. vilmoriniana_ [3]) – northern and central mainland China, Taiwan. Invasive in North America, Europe, Britain, and Australia. Serves as central metaphor in _A Tree Grows in Brooklyn_.[4][5]

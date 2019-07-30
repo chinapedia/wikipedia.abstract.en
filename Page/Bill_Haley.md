@@ -15,7 +15,7 @@ The sleeve notes conclude: "For six years Bill Haley was a musical director of R
 
 Bill Haley and His Comets
 
-Bill_Haley,_1974,_Liége_1.jpg During the Labor Day weekend in 1952, the Saddlemen were renamed BILL HALEY WITH HALEY'S COMETS (inspired by the supposedly official pronunciation of Halley's Comet, a name suggested by WPWA radio station program director, Bob Johnson, where Bill Haley had a live radio program from noon to 1 p.m.), and in 1953, Haley's recording of "Crazy Man, Crazy" (co-written by him and his bass player, Marshall Lytle, although Lytle would not receive credit until 2001) became the first rock and roll song to hit the American charts, peaking at number 15 on _Billboard_ and number 11 on _Cash Box_. Soon after, the band's name was revised to "Bill Haley & His Comets".
+During the Labor Day weekend in 1952, the Saddlemen were renamed BILL HALEY WITH HALEY'S COMETS (inspired by the supposedly official pronunciation of Halley's Comet, a name suggested by WPWA radio station program director, Bob Johnson, where Bill Haley had a live radio program from noon to 1 p.m.), and in 1953, Haley's recording of "Crazy Man, Crazy" (co-written by him and his bass player, Marshall Lytle, although Lytle would not receive credit until 2001) became the first rock and roll song to hit the American charts, peaking at number 15 on _Billboard_ and number 11 on _Cash Box_. Soon after, the band's name was revised to "Bill Haley & His Comets".
 
 In 1954, Haley recorded "Rock Around the Clock".[9] Initially, it was relatively successful, peaking at number 23 on the _Billboard_ pop singles chart and staying on the charts for a few weeks. On re-release, the record reached #1 on July 9, 1955.
 

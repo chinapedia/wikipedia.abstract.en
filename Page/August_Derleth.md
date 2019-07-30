@@ -82,8 +82,6 @@ Youth and children's fiction
 
 Derleth wrote many and varied children's works, including biographies meant to introduce younger readers to explorer Fr. Marquette, as well as Ralph Waldo Emerson and Henry David Thoreau. Arguably most important among his works for younger readers, however, is the Steve and Sim Mystery Series, also known as the Mill Creek Irregulars series.[13] The ten-volume series, published between 1958 and 1970, is set in Sac Prairie of the 1920s and can thus be considered in its own right a part of the _Sac Prairie Saga_, as well as an extension of Derleth's body of mystery fiction. Robert Hood, writing in the _New York Times_ said: "Steve and Sim, the major characters, are twentieth-century cousins of Huck Finn and Tom Sawyer; Derleth's minor characters, little gems of comic drawing." The first novel in the series, _The Moon Tenders_, does, in fact, involve a rafting adventure down the Wisconsin River, which led regional writer Jesse Stuart to suggest the novel was one that "older people might read to recapture the spirit and dream of youth." The connection to the _Sac Prairie Saga_ was noted by the _Chicago Tribune_: "Once again a small midwest community in 1920s is depicted with perception, skill, and dry humor."
 
-Weird_Tales_September_1941.jpg
-
 Arkham House and the "Cthulhu Mythos"
 
 Derleth was a correspondent and friend of H. P. Lovecraft – when Lovecraft wrote about "le Comte d'Erlette" in his fiction, it was in homage to Derleth. Derleth invented the term "Cthulhu Mythos" to describe the fictional universe described in the series of stories shared by Lovecraft and other writers in his circle.
@@ -173,7 +171,7 @@ OTHER
 
 Short fiction
 
-Fantastic_universe_195707.jpg'', illustrated by Virgil Finlay]]
+'', illustrated by Virgil Finlay]]
 
 Journals (Sac Prairie Saga)
 

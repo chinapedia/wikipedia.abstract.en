@@ -60,7 +60,7 @@ An additional area of continuum mechanics comprises elastomeric foams, which exh
 
 Formulation of models
 
-Continuum_body.svg Continuum mechanics models begin by assigning a region in three-dimensional Euclidean space to the material body ℬ being modeled. The points within this region are called particles or material points. Different _configurations_ or states of the body correspond to different regions in Euclidean space. The region corresponding to the body's configuration at time  t is labeled  κ_(t)(ℬ).
+Continuum mechanics models begin by assigning a region in three-dimensional Euclidean space to the material body ℬ being modeled. The points within this region are called particles or material points. Different _configurations_ or states of the body correspond to different regions in Euclidean space. The region corresponding to the body's configuration at time  t is labeled  κ_(t)(ℬ).
 
 A particular particle within the body in a particular configuration is characterized by a position vector
 $$\ \mathbf x =\sum_{i=1}^3 x_i \mathbf e_i,$$
@@ -126,7 +126,7 @@ Thus, the sum of all applied forces and torques (with respect to the origin of t
 
 Kinematics: motion and deformation
 
-Displacement_of_a_continuum.svg A change in the configuration of a continuum body results in a displacement. The displacement of a body has two components: a rigid-body displacement and a deformation. A rigid-body displacement consists of a simultaneous translation and rotation of the body without changing its shape or size. Deformation implies the change in shape and/or size of the body from an initial or undeformed configuration  κ₀(ℬ) to a current or deformed configuration  κ_(t)(ℬ) (Figure 2).
+A change in the configuration of a continuum body results in a displacement. The displacement of a body has two components: a rigid-body displacement and a deformation. A rigid-body displacement consists of a simultaneous translation and rotation of the body without changing its shape or size. Deformation implies the change in shape and/or size of the body from an initial or undeformed configuration  κ₀(ℬ) to a current or deformed configuration  κ_(t)(ℬ) (Figure 2).
 
 The motion of a continuum body is a continuous time sequence of displacements. Thus, the material body will occupy different configurations at different times so that a particle occupies a series of points in space which describe a pathline.
 

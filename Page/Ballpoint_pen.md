@@ -7,7 +7,7 @@ The Bic Cristal is a popular disposable type of ballpoint pen whose design is re
 
 History
 
-Bic_(28332699).jpeg ballpoint pen]]
+ballpoint pen]]
 
 Origins
 
@@ -26,8 +26,6 @@ In 1941, the Bíró brothers and a friend, Juan Jorge Meyne, fled Germany and mo
 Bíró's patent, and other early patents on ballpoint pens often used the term "ball-point fountain pen".[27][28][29][30][31][32]
 
 Postwar proliferation
-
-The_New_Redesigned_Jotter.jpg
 
 Following World War II, many companies vied to commercially produce their own ballpoint pen design. In post-war Argentina, success of the Birome ballpoint was limited, but in mid-1945, the Eversharp Co., a maker of mechanical pencils, teamed up with Eberhard Faber Co. to license the rights from Birome for sales in the United States.[33][34]
 
@@ -49,7 +47,7 @@ The inks are resistant to water after drying but can be defaced by certain solve
 
 Types of ballpoint pens
 
-4_Bic_Cristal_pens_and_caps.jpg ballpoint pens shown in four basic ink colors]] Jinhao_182_twist_action_ballpoint_pen_disassembled.jpg Ball_point_pen_refills_en.png Ballpoint pens are produced in both disposable and refillable models. Refills allow for the entire internal ink reservoir, including a ballpoint and socket, to be replaced. Such characteristics are usually associated with designer-type pens or those constructed of finer materials. The simplest types of ballpoint pens are disposable and have a cap to cover the tip when the pen is not in use, or a mechanism for retracting the tip,[57] which varies between manufacturers but is usually a spring- or screw-mechanism.
+ballpoint pens shown in four basic ink colors]] Ballpoint pens are produced in both disposable and refillable models. Refills allow for the entire internal ink reservoir, including a ballpoint and socket, to be replaced. Such characteristics are usually associated with designer-type pens or those constructed of finer materials. The simplest types of ballpoint pens are disposable and have a cap to cover the tip when the pen is not in use, or a mechanism for retracting the tip,[57] which varies between manufacturers but is usually a spring- or screw-mechanism.
 
 Rollerball pens employ the same ballpoint mechanics, but with the use of water-based inks instead of oil-based inks. Compared to oil-based ballpoints, rollerball pens are said to provide more fluid ink-flow, but the water-based inks will blot if held stationary against the writing surface. Water-based inks also remain wet longer when freshly applied and are thus prone to "smearing" — posing problems to left-handed people (or right handed people writing right-to-left script) — and "running", should the writing surface become wet.
 
@@ -70,7 +68,7 @@ Ballpoint pens are sometimes provided free by businesses, such as hotels, as a f
 
 As art medium
 
-McQueen_ballpoint_biro_drawing_art.jpg by artist James Mylne]] Lennie_Mace_"Uchuu_Neko_Parade"_2005_Tokyo,_ballpoint_"Penting"_130x92cm.jpg, Uchuu Neko Parade (2005) ballpoint pen and hardware on paper]]
+by artist James Mylne]] , Uchuu Neko Parade (2005) ballpoint pen and hardware on paper]]
 
 Ballpoint pens have proven to be a versatile art medium for professional artists as well as amateur doodlers.[73] Low cost, availability, and portability are cited by practitioners as qualities which make this common writing tool a convenient, alternative art supply.[74] Some artists use them within mixed-media works, while others use them solely as their medium-of-choice.[75]
 
@@ -83,7 +81,7 @@ Using ballpoint pens to create artwork is not without limitations. Color availab
 
 Manufacturing
 
-Ink_holder_of_a_ballpen.jpg Although designs and construction vary between brands, basic components of all ballpoint pens are universal.[94] Standard components of a ballpoint tip include the freely rotating "ball" itself (distributing the ink on the writing surface), a "socket" holding the ball in place, small "ink channels" that provide ink to the ball through the socket, and a self-contained "ink reservoir" supplying ink to the ball.[95] In modern disposable pens, narrow plastic tubes contain the ink, which is compelled downward to the ball by gravity.[96] Brass, steel, or tungsten carbide are used to manufacture the ball bearing-like points,[97] then housed in a brass socket.[98]
+Although designs and construction vary between brands, basic components of all ballpoint pens are universal.[94] Standard components of a ballpoint tip include the freely rotating "ball" itself (distributing the ink on the writing surface), a "socket" holding the ball in place, small "ink channels" that provide ink to the ball through the socket, and a self-contained "ink reservoir" supplying ink to the ball.[95] In modern disposable pens, narrow plastic tubes contain the ink, which is compelled downward to the ball by gravity.[96] Brass, steel, or tungsten carbide are used to manufacture the ball bearing-like points,[97] then housed in a brass socket.[98]
 
 The function of these components can be compared with the ball-applicator of roll-on antiperspirant; the same technology at a larger scale. The ballpoint tip delivers the ink to the writing surface while acting as a "buffer" between the ink in the reservoir and the air outside, preventing the quick-drying ink from drying inside the reservoir. Modern ballpoints are said to have a two-year shelf life, on average.[99]
 

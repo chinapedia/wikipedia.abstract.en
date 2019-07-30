@@ -1,4 +1,4 @@
-Rozeta_Paryż_notre-dame_chalger.jpg rose window in Notre Dame de Paris. In Gothic architecture, light was considered the most beautiful revelation of God, which was heralded in its design.]]
+rose window in Notre Dame de Paris. In Gothic architecture, light was considered the most beautiful revelation of God, which was heralded in its design.]]
 
 BEAUTY is the ascription of a property or characteristic to an animal, idea, object, person or place that provides a perceptual experience of pleasure or satisfaction. Beauty is studied as part of aesthetics, culture, social psychology, philosophy and sociology. An "ideal beauty" is an entity which is admired, or possesses features widely attributed to beauty in a particular culture, for perfection. Ugliness is the opposite of beauty.
 
@@ -27,7 +27,7 @@ In the Gothic Architecture of the High and Late Middle Ages, light was considere
 
 The Age of Reason
 
-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg'', by Sandro Botticelli. The goddess Venus is the classical personification of beauty.]]
+'', by Sandro Botticelli. The goddess Venus is the classical personification of beauty.]]
 
 The Age of Reason saw a rise in an interest in beauty as a philosophical subject. For example, Scottish philosopher Francis Hutcheson argued that beauty is "unity in variety and variety in unity".[10] The Romantic poets, too, became highly concerned with the nature of beauty, with John Keats arguing in "Ode on a Grecian Urn" that
 
@@ -51,7 +51,7 @@ Beauty is also studied by psychologists and neuroscientists in the field of expe
 
 Human beauty
 
-Herkulaneischer_Meister_002.jpg, c. 50 AD]] The characterization of a person as “beautiful”, whether on an individual basis or by community consensus, is often based on some combination of _inner beauty_, which includes psychological factors such as personality, intelligence, grace, politeness, charisma, integrity, congruence and elegance, and _outer beauty_ (i.e. physical attractiveness) which includes physical attributes which are valued on an aesthetic basis.
+, c. 50 AD]] The characterization of a person as “beautiful”, whether on an individual basis or by community consensus, is often based on some combination of _inner beauty_, which includes psychological factors such as personality, intelligence, grace, politeness, charisma, integrity, congruence and elegance, and _outer beauty_ (i.e. physical attractiveness) which includes physical attributes which are valued on an aesthetic basis.
 
 Standards of beauty have changed over time, based on changing cultural values. Historically, paintings show a wide range of different standards for beauty. However, humans who are relatively young, with smooth skin, well-proportioned bodies, and regular features, have traditionally been considered the most beautiful throughout history.
 
@@ -80,7 +80,7 @@ These criticisms have led to a constructive dialogue to enhance the presence of 
 
 Effects on society
 
-Jade_ornament_with_grape_design.jpg ornament with flower design, Jin dynasty (1115–1234 AD), Shanghai Museum]] Striking_Night_Sky.jpg. The concept of noctcaelador describes an emotional attachment to, or adoration of, the night sky.[64]]] Beauty presents a standard of comparison, and it can cause resentment and dissatisfaction when not achieved. People who do not fit the "beauty ideal" may be ostracized within their communities. The television sitcom _Ugly Betty_ portrays the life of a girl faced with hardships due to society's unwelcoming attitudes toward those they deem unattractive. However, a person may also be targeted for harassment because of their beauty. In _Malèna_, a strikingly beautiful Italian woman is forced into poverty by the women of the community who refuse to give her work for fear that she may "woo" their husbands. The documentary _Beauty in the Eyes of the Beheld_ explores both the societal blessings and curses of female beauty through interviews of women considered beautiful.
+ornament with flower design, Jin dynasty (1115–1234 AD), Shanghai Museum]] . The concept of noctcaelador describes an emotional attachment to, or adoration of, the night sky.[64]]] Beauty presents a standard of comparison, and it can cause resentment and dissatisfaction when not achieved. People who do not fit the "beauty ideal" may be ostracized within their communities. The television sitcom _Ugly Betty_ portrays the life of a girl faced with hardships due to society's unwelcoming attitudes toward those they deem unattractive. However, a person may also be targeted for harassment because of their beauty. In _Malèna_, a strikingly beautiful Italian woman is forced into poverty by the women of the community who refuse to give her work for fear that she may "woo" their husbands. The documentary _Beauty in the Eyes of the Beheld_ explores both the societal blessings and curses of female beauty through interviews of women considered beautiful.
 
 Researchers have found that good-looking students get higher grades from their teachers than students with an ordinary appearance.[65] Some studies using mock criminal trials have shown that physically attractive "defendants" are less likely to be convicted—and if convicted are likely to receive lighter sentences—than less attractive ones (although the opposite effect was observed when the alleged crime was swindling, perhaps because jurors perceived the defendant's attractiveness as facilitating the crime).[66] Studies among teens and young adults, such as those of psychiatrist and self-help author Eva Ritvo show that skin conditions have a profound effect on social behavior and opportunity.[67]
 

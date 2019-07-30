@@ -36,7 +36,7 @@ Borg skipped the French Open in 1977 because he was under contract with WTT, but
 
 1978 – French and Wimbledon titles
 
-Borg was at the height of his career from 1978 through 1980, completing the French Open-Wimbledon double all three years. In 1978, Borg won the French Open with a win over Vilas in the final. Borg did not drop a set during the tournament, a feat only he, Năstase (in 1973), and Rafael Nadal (in 2008, 2010 and 2017) have accomplished at the French Open during the open era. Borg defeated Connors in straight sets in the 1978 Wimbledon final. At the 1978 US Open, now held on hard courts in Flushing Meadow, New York, he lost the final in straight sets to Connors. Borg was suffering from a bad blister on his thumb that required pre-match injections.[27] That autumn, Borg faced John McEnroe for the first time in a semifinal of the Stockholm Open, and lost. Björn_Borg_in_aktie,_Bestanddeelnr_930-2092.jpg]]
+Borg was at the height of his career from 1978 through 1980, completing the French Open-Wimbledon double all three years. In 1978, Borg won the French Open with a win over Vilas in the final. Borg did not drop a set during the tournament, a feat only he, Năstase (in 1973), and Rafael Nadal (in 2008, 2010 and 2017) have accomplished at the French Open during the open era. Borg defeated Connors in straight sets in the 1978 Wimbledon final. At the 1978 US Open, now held on hard courts in Flushing Meadow, New York, he lost the final in straight sets to Connors. Borg was suffering from a bad blister on his thumb that required pre-match injections.[27] That autumn, Borg faced John McEnroe for the first time in a semifinal of the Stockholm Open, and lost. ]]
 
 1979 – French and Wimbledon titles and year-end No.1 ranking
 
@@ -66,7 +66,7 @@ In 1982, Borg played only one tournament, losing to Yannick Noah in the quarterf
 
 Retirement
 
-Björn_Borg2.jpg Upon retirement, Borg had three residences: a penthouse in Monte Carlo, not far from his pro shop; a mansion on Long Island, New York and a small island off the Swedish coast.
+Upon retirement, Borg had three residences: a penthouse in Monte Carlo, not far from his pro shop; a mansion on Long Island, New York and a small island off the Swedish coast.
 
 Borg later bounced back as the owner of the Björn Borg fashion label. In Sweden his label has become very successful, second only to Calvin Klein.[40][41]
 
@@ -79,7 +79,7 @@ In 1992 Borg, aged 35, using a graphite racket, defeated John Lloyd, 37, at the 
 
 Personal life
 
-Björn_Borg_and_Mariana_Simionescu_1980.jpg, Romania, on 24 July 1980]] Borg married Romanian tennis pro Mariana Simionescu in Bucharest on 24 July 1980.[42] The marriage ended in divorce in 1984. He fathered a child by the Swedish model Jannike Björling, and he was married to the Italian singer Loredana Bertè from 1989 to 1993.[43]
+, Romania, on 24 July 1980]] Borg married Romanian tennis pro Mariana Simionescu in Bucharest on 24 July 1980.[42] The marriage ended in divorce in 1984. He fathered a child by the Swedish model Jannike Björling, and he was married to the Italian singer Loredana Bertè from 1989 to 1993.[43]
 
 On 8 June 2002, Borg married for a third time; his new wife being Patricia Östfeld. Together they have a son, Leo, born in 2003.[44][45]
 

@@ -16,11 +16,11 @@ Carter resigned from the Antiquities Service in 1905 after a formal inquiry into
 
 Tutankhamun's tomb
 
-Egypt.KV62.01.jpg]]
+]]
 
 In 1907, after three hard years for Carter, Lord Carnarvon employed him to supervise excavations of nobles' tombs in Deir el-Bahri, near Thebes.[6] Gaston Maspero had recommended Carter to Carnarvon as he knew he would apply modern archaeological methods and systems of recording.[7][8]
 
-Luxor,_Tal_der_Könige_(1995,_860x605).jpg in the Valley of the Kings]]
+in the Valley of the Kings]]
 
 In 1914, Lord Carnarvon received the concession to dig in the Valley of the Kings,[9] Carter was again employed to lead the work. However excavations and study were soon interrupted by the First World War, Carter spending these war years working for the British Government as a diplomatic courier and translator. He enthusiastically resumed his excavation work towards the end of 1917.[10]
 
@@ -30,7 +30,7 @@ Carter returned to the Valley of Kings, and investigated a line of huts that he 
 
 On 26 November 1922, Carter made a "tiny breach in the top left-hand corner" of the doorway, with Carnarvon, his daughter Lady Evelyn Herbert, and others in attendance, using a chisel that his grandmother had given him for his 17th birthday. He was able to peer in by the light of a candle and see that many of the gold and ebony treasures were still in place. He did not yet know whether it was "a tomb or merely an old cache", but he did see a promising sealed doorway between two sentinel statues. Carnarvon asked, "Can you see anything?" Carter replied with the famous words: "Yes, wonderful things!"[13] Carter had, in fact, discovered Tutankhamun's tomb (subsequently designated KV62).
 
-maison_Carter.jpg, in 2009]]The next several months were spent cataloguing the contents of the antechamber under the "often stressful" supervision of Pierre Lacau, director general of the Department of Antiquities of Egypt.[14] On 16 February 1923, Carter opened the sealed doorway and found that it did indeed lead to a burial chamber, and he got his first glimpse of the sarcophagus of Tutankhamun. The tomb was considered the best preserved and most intact pharaonic tomb ever found in the Valley of the Kings, and the discovery was eagerly covered by the world's press, but most of their representatives were kept in their hotels, much to their annoyance. Only H. V. Morton from _The Times_ newspaper was allowed on the scene, and his vivid descriptions helped to cement Carter's reputation with the British public.
+, in 2009]]The next several months were spent cataloguing the contents of the antechamber under the "often stressful" supervision of Pierre Lacau, director general of the Department of Antiquities of Egypt.[14] On 16 February 1923, Carter opened the sealed doorway and found that it did indeed lead to a burial chamber, and he got his first glimpse of the sarcophagus of Tutankhamun. The tomb was considered the best preserved and most intact pharaonic tomb ever found in the Valley of the Kings, and the discovery was eagerly covered by the world's press, but most of their representatives were kept in their hotels, much to their annoyance. Only H. V. Morton from _The Times_ newspaper was allowed on the scene, and his vivid descriptions helped to cement Carter's reputation with the British public.
 
 Carter's notes and photographic evidence indicate that he, Lord Carnarvon, and Lady Evelyn Herbert entered the burial chamber in November 1922, shortly after the tomb's discovery and before the official opening.[15]
 
@@ -45,7 +45,7 @@ Carter had authored a number of books on Egyptology during his career.[20] Durin
 
 Later work and death
 
-Howard_Carter_grave_Putney_Vale_2015.jpg, London, in 2015]] After the clearance of the tomb had been completed, Carter retired from archaeology and became a part-time agent for collectors and museums, including the Cleveland Museum of Art and the Detroit Institute of Arts. In 1924 he toured Britain, as well as France, Spain and the United States, delivering a series of illustrated lectures.[22] Those in New York City and other US cities were attended by large and enthusiastic audiences, sparking American Egyptomania.
+, London, in 2015]] After the clearance of the tomb had been completed, Carter retired from archaeology and became a part-time agent for collectors and museums, including the Cleveland Museum of Art and the Detroit Institute of Arts. In 1924 he toured Britain, as well as France, Spain and the United States, delivering a series of illustrated lectures.[22] Those in New York City and other US cities were attended by large and enthusiastic audiences, sparking American Egyptomania.
 
 Carter died[23][24] at his London flat at 49 Albert Court, next to the Royal Albert Hall, on 2 March 1939, aged 64 from Hodgkin's Disease.[25] Few people attended his funeral, one of them was his older brother William (b. 1863) who died in the same year. Carter is buried in Putney Vale Cemetery in London.[26]
 
@@ -82,7 +82,7 @@ Carter has been portrayed in many film and television productions:[33]
 
 Literature
 
-Howard_Carter_19_Collingham_Gardens_blue_plaque.jpg, 19 Collingham Gardens, Kensington, London]]
+, 19 Collingham Gardens, Kensington, London]]
 
 -   Carter is a reoccurring figure in Elizabeth Peter's Amelia Peabody mystery series, one of several historical characters that appear in Peter's series set in the archaeological circles of Egypt and England in the late 19th and early 20th centuries.
 -   He is referenced in Sally Beauman's _The Visitors_, a novel re-creation of the hunt for Tutankhamun's tomb in Egypt's Valley of the Kings.[34]

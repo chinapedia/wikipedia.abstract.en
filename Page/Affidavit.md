@@ -1,4 +1,4 @@
-Vasil_Levski's_Affidavit.jpg's affidavit, 16 June 1872, Bucharest, Romania]]
+'s affidavit, 16 June 1872, Bucharest, Romania]]
 
 An AFFIDAVIT ( ; Medieval Latin for _he has declared under oath_) is a written sworn statement of fact voluntarily made by an _affiant_ or _deponent_ under an oath or affirmation administered by a person authorized to do so by law. Such statement is witnessed as to the authenticity of the affiant's signature by a taker of oaths, such as a notary public or commissioner of oaths. An affidavit is a type of verified statement or showing, or in other words, it contains a verification, meaning it is under oath or penalty of perjury, and this serves as evidence to its veracity and is required for court proceedings.
 

@@ -41,8 +41,6 @@ Despite these attacks and those from the extreme left, the ECSC found substantia
 
 Treaties
 
-Oprichtingsverdrag_EGKS_NL-HaNA_2.02.20_10123.jpg
-
 The 100-article Treaty of Paris, which established the ECSC, was signed on 18 April 1951 by "the inner six": France, West Germany, Italy, Belgium, the Netherlands and Luxembourg (Benelux). The ECSC was the first international organisation to be based on supranational principles[19] and was, through the establishment of a common market for coal and steel, intended to expand the economies, increase employment, and raise the standard of living within the Community. The market was also intended to progressively rationalise the distribution of high level production whilst ensuring stability and employment. The common market for coal was opened on 10 February 1953, and for steel on 1 May 1953.[20] Upon taking effect, the ECSC gradually replaced the International Authority for the Ruhr.[21]
 
 On 11 August 1952, the United States was the first non-ECSC member to recognise the Community and stated it would now deal with the ECSC on coal and steel matters, establishing its delegation in Brussels. Monnet responded by choosing Washington, D.C. as the site of the ECSC's first external presence. The headline of the delegation's first bulletin read "Towards a Federal Government of Europe".[22]
@@ -66,7 +64,7 @@ The Treaty stated that the location of the institutions would be decided by comm
 
 High Authority
 
-Luxembourg0080.JPG in Luxembourg]] The High Authority (the predecessor to the European Commission) was a nine-member executive body which governed the Community. The Authority consisted of nine members in office for a term of six years. Eight of these members were appointed by the governments of the six signatories.[31] These eight members then themselves appointed a ninth person to be President of the High Authority.[32]
+in Luxembourg]] The High Authority (the predecessor to the European Commission) was a nine-member executive body which governed the Community. The Authority consisted of nine members in office for a term of six years. Eight of these members were appointed by the governments of the six signatories.[31] These eight members then themselves appointed a ninth person to be President of the High Authority.[32]
 
 Despite being appointed by agreement of national governments acting together, the members were to pledge not to represent their national interest, but rather took an oath to defend the general interests of the Community as a whole. Their independence was aided by members being barred from having any occupation outside the Authority or having any business interests (paid or unpaid) during their tenure and for three years after they left office.[33] To further ensure impartiality, one third of the membership was to be renewed every two years (article 10).
 

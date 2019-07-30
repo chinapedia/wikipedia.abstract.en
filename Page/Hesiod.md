@@ -1,4 +1,4 @@
-1807_Thorvaldsen_Tanz_der_Musen_auf_dem_Helikon_anagoria.JPG (1807). Hesiod cites inspiration from the Muses while on Mount Helicon.]] HESIOD (;[1] _Hēsíodos_) was a Greek poet generally thought by scholars to have been active between 750 and 650 BC, around the same time as Homer.[2][3] He is generally regarded as the first written poet in the Western tradition to regard himself as an individual persona with an active role to play in his subject.[4] Ancient authors credited Hesiod and Homer with establishing Greek religious customs.[5] Modern scholars refer to him as a major source on Greek mythology, farming techniques, early economic thought (he is sometimes considered history's first economist),[6] archaic Greek astronomy and ancient time-keeping.
+(1807). Hesiod cites inspiration from the Muses while on Mount Helicon.]] HESIOD (;[1] _Hēsíodos_) was a Greek poet generally thought by scholars to have been active between 750 and 650 BC, around the same time as Homer.[2][3] He is generally regarded as the first written poet in the Western tradition to regard himself as an individual persona with an active role to play in his subject.[4] Ancient authors credited Hesiod and Homer with establishing Greek religious customs.[5] Modern scholars refer to him as a major source on Greek mythology, farming techniques, early economic thought (he is sometimes considered history's first economist),[6] archaic Greek astronomy and ancient time-keeping.
 
 
 Life
@@ -7,7 +7,7 @@ The dating of Hesiod's life is a contested issue in scholarly circles (_see § D
 
 Unlike his father, Hesiod was averse to sea travel, but he once crossed the narrow strait between the Greek mainland and Euboea to participate in funeral celebrations for one Athamas of Chalcis, and there won a tripod in a singing competition.[7] He also describes a meeting between himself and the Muses on Mount Helicon, where he had been pasturing sheep when the goddesses presented him with a laurel staff, a symbol of poetic authority (_Theogony_ 22–35). Fanciful though the story might seem, the account has led ancient and modern scholars to infer that he was not a professionally trained rhapsode, or he would have been presented with a lyre instead.[8]
 
-Moreau,_Gustave_-_Hésiode_et_la_Muse_-_1891.jpg'' (1891), by Gustave Moreau. The poet is presented with a lyre, in contradiction to the account given by Hesiod himself in which the gift was a laurel staff.]]
+'' (1891), by Gustave Moreau. The poet is presented with a lyre, in contradiction to the account given by Hesiod himself in which the gift was a laurel staff.]]
 
 Some scholars have seen Perses as a literary creation, a foil for the moralizing that Hesiod develops in _Works and Days_, but there are also arguments against that theory.[9] For example, it is quite common for works of moral instruction to have an imaginative setting, as a means of getting the audience's attention,[10] but it could be difficult to see how Hesiod could have travelled around the countryside entertaining people with a narrative about himself if the account was known to be fictitious.[11] Gregory Nagy, on the other hand, sees both _Pérsēs_ ("the destroyer" from , _pérthō_) and _Hēsíodos_ ("he who emits the voice" from , _híēmi_ and , _audḗ_) as fictitious names for poetical personae.[12]
 
@@ -31,7 +31,7 @@ Two different—yet early—traditions record the site of Hesiod's grave. One, a
 
 Dating
 
-Helikonmountainascent.JPG, as "cruel in winter, hard in summer, never pleasant."]]
+, as "cruel in winter, hard in summer, never pleasant."]]
 
 Greeks in the late 5th and early 4th centuries BC considered their oldest poets to be Orpheus, Musaeus, Hesiod and Homer—in that order. Thereafter, Greek writers began to consider Homer earlier than Hesiod. Devotees of Orpheus and Musaeus were probably responsible for precedence being given to their two cult heroes and maybe the Homeridae were responsible in later antiquity for promoting Homer at Hesiod's expense.
 
@@ -46,7 +46,7 @@ Hesiod mentions a poetry contest at Chalcis in Euboea where the sons of one Amph
 
 Works
 
-Hesiodi_Ascraei_quaecumque_exstant.tif for _Hesiodi Ascraei quaecumque exstant_ (1701)]]
+for _Hesiodi Ascraei quaecumque exstant_ (1701)]]
 
 Three works have survived which are attributed to Hesiod by ancient commentators: _Works and Days_, _Theogony_, and _Shield of Heracles_. Only fragments exist of other works attributed to him. The surviving works and fragments were all written in the conventional metre and language of epic. However, the _Shield of Heracles_ is now known to be spurious and probably was written in the sixth century BC. Many ancient critics also rejected _Theogony_ (e.g., Pausanias 9.31.3), even though Hesiod mentions himself by name in that poem. _Theogony_ and _Works and Days_ might be very different in subject matter, but they share a distinctive language, metre, and prosody that subtly distinguish them from Homer's work and from the _Shield of Heracles_[29] (see Hesiod's Greek below). Moreover, they both refer to the same version of the Prometheus myth.[30] Yet even these authentic poems may include interpolations. For example, the first ten verses of the _Works and Days_ may have been borrowed from an Orphic hymn to Zeus (they were recognised as not the work of Hesiod by critics as ancient as Pausanias).[31]
 
@@ -64,7 +64,7 @@ The creation myth in Hesiod has long been held to have Eastern influences, such 
 
 _Works and Days_
 
-Houghton_MS_Gr_20_-_Theogeny,_10.jpg The _Works and Days_ is a poem of over 800 lines which revolves around two general truths: labour is the universal lot of Man, but he who is willing to work will get by. Scholars have interpreted this work against a background of agrarian crisis in mainland Greece, which inspired a wave of documented colonisations in search of new land. This poem is one of the earliest known musings on economic thought.
+The _Works and Days_ is a poem of over 800 lines which revolves around two general truths: labour is the universal lot of Man, but he who is willing to work will get by. Scholars have interpreted this work against a background of agrarian crisis in mainland Greece, which inspired a wave of documented colonisations in search of new land. This poem is one of the earliest known musings on economic thought.
 
 This work lays out the five Ages of Man, as well as containing advice and wisdom, prescribing a life of honest labour and attacking idleness and unjust judges (like those who decided in favour of Perses) as well as the practice of usury. It describes immortals who roam the earth watching over justice and injustice.[39] The poem regards labor as the source of all good, in that both gods and men hate the idle, who resemble drones in a hive.[40] In the horror of the triumph of violence over hard work and honor, verses describing the "Golden Age" present the social character and practice of nonviolent diet through agriculture and fruit-culture as a higher path of living sufficiently.[41]
 
@@ -95,7 +95,7 @@ Reception
 
 -   Sappho's countryman and contemporary, the lyric poet Alcaeus, paraphrased a section of _Works and Days_ (582–88), recasting it in lyric meter and Lesbian dialect. The paraphrase survives only as a fragment.[44]
 
-Seneca.JPG'', now conjectured to be an imaginative portrait of Hesiod.[45]]]
+'', now conjectured to be an imaginative portrait of Hesiod.[45]]]
 
 -   The lyric poet Bacchylides quoted or paraphrased Hesiod in a victory ode addressed to Hieron of Syracuse, commemorating the tyrant's victory in the chariot race at the Pythian Games 470 BC, the attribution made with these words: "A man of Boeotia, Hesiod, minister of the [sweet] Muses, spoke thus: 'He whom the immortals honour is attended also by the good report of men.'" However, the quoted words are not found in Hesiod's extant work.[46]
 -   Hesiod's _Catalogue of Women_ created a vogue for catalogue poems in the Hellenistic period. Thus for example Theocritus presents catalogues of heroines in two of his bucolic poems (3.40–51 and 20.34–41), where both passages are recited in character by lovelorn rustics.[47]
@@ -106,8 +106,6 @@ The Roman bronze bust, the so-called _Pseudo-Seneca,_ of the late first century 
 
 
 Hesiod's Greek
-
-Hesiodus_-_Carmina,_1823_-_3066705_F.jpg
 
 Hesiod employed the conventional dialect of epic verse, which was Ionian. Comparisons with Homer, a native Ionian, can be unflattering. Hesiod's handling of the dactylic hexameter was not as masterful or fluent as Homer's and one modern scholar refers to his "hobnailed hexameters".[49] His use of language and meter in _Works and Days_ and _Theogony_ distinguishes him also from the author of the _Shield of Heracles_. All three poets, for example, employed digamma inconsistently, sometimes allowing it to affect syllable length and meter, sometimes not. The ratio of observance/neglect of digamma varies between them. The extent of variation depends on how the evidence is collected and interpreted but there is a clear trend, revealed for example in the following set of statistics.
 

@@ -9,7 +9,7 @@ History
 
 Origins
 
-Groverwilliams_Monaco_1929.jpg at the 1929 Monaco Grand Prix]] Like many European races, the Monaco Grand Prix predates the current World Championship. The principality's first Grand Prix was organised in 1929 by Antony Noghès, under the auspices of Prince Louis II, through the Automobile Club de Monaco (ACM), of which he was president.[9] The ACM organised the Rallye Automobile Monte Carlo, and in 1928 applied to the _Association Internationale des Automobiles Clubs Reconnus_ (AIACR), the international governing body of motorsport, to be upgraded from a regional French club to full national status. Their application was refused due to the lack of a major motorsport event held wholly within Monaco's boundaries. The rally could not be considered as it mostly used the roads of other European countries.[10]
+at the 1929 Monaco Grand Prix]] Like many European races, the Monaco Grand Prix predates the current World Championship. The principality's first Grand Prix was organised in 1929 by Antony Noghès, under the auspices of Prince Louis II, through the Automobile Club de Monaco (ACM), of which he was president.[9] The ACM organised the Rallye Automobile Monte Carlo, and in 1928 applied to the _Association Internationale des Automobiles Clubs Reconnus_ (AIACR), the international governing body of motorsport, to be upgraded from a regional French club to full national status. Their application was refused due to the lack of a major motorsport event held wholly within Monaco's boundaries. The rally could not be considered as it mostly used the roads of other European countries.[10]
 
 To attain full national status, Noghès proposed the creation of an automobile Grand Prix in the streets of Monte Carlo. He obtained the official sanction of Prince Louis II, and the support of Monégasque _Grand Prix_ driver Louis Chiron. Chiron thought Monaco's topography well-suited to setting up a race track.[11]
 
@@ -39,7 +39,7 @@ Since 1955, the Monaco Grand Prix has continuously been part of the Formula One 
 
 Graham Hill's era
 
-HillGraham1966Aug.jpg won five of his 14 Grands Prix at Monaco.]] Britain's Graham Hill won the race five times in the 1960s and became known as "_King of Monaco_"[32] and "_Mr. Monaco_". He first won in 1963, and then won the next two years.[33] In the 1965 race he took pole position and led from the start, but went up an escape road on lap 25 to avoid hitting a slow backmarker. Re-joining in fifth place, Hill set several new lap records on the way to winning.[34] The race was also notable for Jim Clark's absence (he was doing the Indianapolis 500), and for Paul Hawkins's Lotus ending up in the harbour.[35] Hill's teammate, Briton Jackie Stewart, won in 1966 and New Zealander Denny Hulme won in 1967, but Hill won the next two years, the 1969 event being his final Formula One championship victory, by which time he was a double Formula One world champion.[36]
+won five of his 14 Grands Prix at Monaco.]] Britain's Graham Hill won the race five times in the 1960s and became known as "_King of Monaco_"[32] and "_Mr. Monaco_". He first won in 1963, and then won the next two years.[33] In the 1965 race he took pole position and led from the start, but went up an escape road on lap 25 to avoid hitting a slow backmarker. Re-joining in fifth place, Hill set several new lap records on the way to winning.[34] The race was also notable for Jim Clark's absence (he was doing the Indianapolis 500), and for Paul Hawkins's Lotus ending up in the harbour.[35] Hill's teammate, Briton Jackie Stewart, won in 1966 and New Zealander Denny Hulme won in 1967, but Hill won the next two years, the 1969 event being his final Formula One championship victory, by which time he was a double Formula One world champion.[36]
 
 Track alterations, safety, and increasing business interests
 
@@ -63,7 +63,7 @@ Senna dominated 1989 while Prost was stuck behind backmarker Rene Arnoux and oth
 
 Modern times
 
-Grand_Prix_Monaco96_131954710.jpg]] The 1994 race was an emotional and tragic affair. It came two weeks after the race at Imola in which Austrian Roland Ratzenberger and Ayrton Senna both died from massive head injuries from on-track accidents on successive days. During the Monaco event, Austrian Karl Wendlinger had an accident in his Sauber in the tunnel; he went into a coma and was to miss the rest of the season. The German Michael Schumacher won the 1994 Monaco event.[51] The 1996 race saw Michael Schumacher take pole position before crashing out on the first lap after being overtaken by Damon Hill. Hill led the first 40 laps before his engine expired in the tunnel. Jean Alesi took the lead but suffered suspension failure 20 laps later. Olivier Panis, who started in 14th place, moved into the lead and stayed there until the end of the race, being pushed all the way by David Coulthard. It was Panis's only win, and the last for his Ligier team. Only three cars crossed the finish line, but seven were classified.[52]
+]] The 1994 race was an emotional and tragic affair. It came two weeks after the race at Imola in which Austrian Roland Ratzenberger and Ayrton Senna both died from massive head injuries from on-track accidents on successive days. During the Monaco event, Austrian Karl Wendlinger had an accident in his Sauber in the tunnel; he went into a coma and was to miss the rest of the season. The German Michael Schumacher won the 1994 Monaco event.[51] The 1996 race saw Michael Schumacher take pole position before crashing out on the first lap after being overtaken by Damon Hill. Hill led the first 40 laps before his engine expired in the tunnel. Jean Alesi took the lead but suffered suspension failure 20 laps later. Olivier Panis, who started in 14th place, moved into the lead and stayed there until the end of the race, being pushed all the way by David Coulthard. It was Panis's only win, and the last for his Ligier team. Only three cars crossed the finish line, but seven were classified.[52]
 
 Seven-time world champion Schumacher would eventually win the race five times, matching Graham Hill's record. In his appearance at the 2006 event, he attracted criticism when, while provisionally holding pole position and with the qualifying session drawing to a close, he stopped his car at the Rascasse hairpin, blocking the track and obliging competitors to slow down.[53] Although Schumacher claimed it was the unintentional result of a genuine car failure, the FIA disagreed and he was sent to the back of the grid.[54]
 
@@ -72,7 +72,7 @@ In July 2010, Bernie Ecclestone announced that a 10-year deal had been reached w
 
 Circuit
 
-Monaco_Port_and_Track.jpg]] The Circuit de Monaco consists of the city streets of Monte Carlo and La Condamine, which includes the famous harbour. It is unique in having been held on the same circuit every time it has been run over such a long period – only the Italian Grand Prix, which has been held at Autodromo Nazionale Monza during every Formula One regulated year except 1980, has a similarly lengthy and close relationship with a single circuit.[56]
+]] The Circuit de Monaco consists of the city streets of Monte Carlo and La Condamine, which includes the famous harbour. It is unique in having been held on the same circuit every time it has been run over such a long period – only the Italian Grand Prix, which has been held at Autodromo Nazionale Monza during every Formula One regulated year except 1980, has a similarly lengthy and close relationship with a single circuit.[56]
 
 The race circuit has many elevation changes, tight corners, and a narrow course that makes it one of the most demanding tracks in Formula One racing.[57] , two drivers have crashed and ended up in the harbour, the most famous being Alberto Ascari in 1955.[58][59] Despite the fact that the course has had minor changes several times during its history, it is still considered the ultimate test of driving skills in Formula One, and if it were not already an existing Grand Prix, it would not be permitted to be added to the schedule for safety reasons.[60] Even in 1929, 'La Vie Automobile' magazine offered the opinion that "Any respectable traffic system would have covered the track with <> sign posts left, right and centre".[61]
 
@@ -89,7 +89,7 @@ During the Grand Prix weekend, spectators crowd around the Monaco Circuit. There
 
 Organization
 
-MonacoPoster1929.jpg event poster]] Siegerpodest_Monaco_IMG_1196.jpg The Monaco Grand Prix is organised each year by the _Automobile Club de Monaco_ which also runs the Monte Carlo Rally and the Junior Monaco Kart Cup.[69]
+event poster]] The Monaco Grand Prix is organised each year by the _Automobile Club de Monaco_ which also runs the Monte Carlo Rally and the Junior Monaco Kart Cup.[69]
 
 The Monaco Grand Prix differs in several ways from other Grands Prix. The practice session for the race is held on the Thursday preceding the race instead of Friday.[70] This allows the streets to be opened to the public again on Friday. Until the late 1990s the race started at 3:30 p.m. local time – an hour and a half later than other European Formula One races. In recent years the race has fallen in line with the other Formula One races for the convenience of television viewers. Also, earlier the event was traditionally held on the week of Ascension Day. It is now always held on the last weekend in May. For many years, the numbers of cars admitted to Grands Prix was at the discretion of the race organisers – Monaco had the smallest grids, ostensibly because of its narrow and twisting track.[71] Only 18 cars were permitted to enter the 1975 Monaco Grand Prix, compared to 23 to 26 cars at all other rounds that year.[72]
 
@@ -109,7 +109,7 @@ Winners
 
 Repeat winners (drivers)
 
-_Drivers IN BOLD are competing in the Formula One championship in the current season._ Ayrton_Senna_with_toy_car_cropped_no_wm.jpg won the race a record six times]]
+_Drivers IN BOLD are competing in the Formula One championship in the current season._ won the race a record six times]]
 
 +---------------------+------------------------------+------------------------------------+
 | Wins                | Driver                       | Years won[84]                      |
@@ -233,7 +233,7 @@ _A yellow background indicates an event which was part of the pre-war European C
 By year
 
 _A pink background indicates an event which was not part of the Formula One World Championship._
-_A yellow background indicates an event which was part of the pre-war European Championship._ Nico_Rosberg_obtuvo_el_segundo_lugar.jpg won the Monaco Grand Prix three times in a row from 2013 to 2015, racing for Mercedes.]]
+_A yellow background indicates an event which was part of the pre-war European Championship._ won the Monaco Grand Prix three times in a row from 2013 to 2015, racing for Mercedes.]]
 
 +------+-------------------------+---------------------------+--------+
 | Year | Driver[87]              | Constructor               | Report |

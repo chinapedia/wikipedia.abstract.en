@@ -1,4 +1,4 @@
-Pieter_Lastman_-_Jonah_and_the_Whale_-_Google_Art_Project.jpg]]
+]]
 
 The BOOK OF JONAH is a book of the Nevi'im ("Prophets") in the Hebrew Bible. It tells of a Hebrew prophet named Jonah son of Amittai who is sent by God to prophesy the destruction of Nineveh but tries to escape the divine mission.[1] Set in the reign of Jeroboam II (786–746 BC), it was probably written in the post-exilic period, some time between the late 5th to early 4th century BC.[2] The story has a long interpretive history and has become well known through popular children's stories. In Judaism, it is the Haftarah portion read during the afternoon of Yom Kippur to instill reflection on God's willingness to forgive those who repent;[3] it remains a popular story among Christians. It is also retold in the Quran.
 
@@ -24,11 +24,11 @@ Outline
 
 Summary
 
-Rembrandt_Harmenszoon_van_Rijn_-_The_Prophet_Jonah_before_the_Walls_of_Nineveh,_c._1655_-_Google_Art_Project.jpg]]
+]]
 
 Jonah is the central character in the Book of Jonah, in which God commands him to go to the city of Nineveh to prophesy against it "for their great wickedness is come up before me,"[5] but Jonah instead attempts to flee from "the presence of the Lord" by going to Jaffa and sailing to Tarshish.[6] A huge storm arises and the sailors, realizing that it is no ordinary storm, cast lots and discover that Jonah is to blame.[7] Jonah admits this and states that if he is thrown overboard, the storm will cease.[8] The sailors refuse to do this and continue rowing, but all their efforts fail and they are eventually forced to throw Jonah overboard.[9] As a result, the storm calms and the sailors then offer sacrifices to God.[10] Jonah is miraculously saved by being swallowed by a large fish, in whose belly he spends three days and three nights.[11] While in the great fish, Jonah prays to God in his affliction and commits to thanksgiving and to paying what he has vowed.[12] God then commands the fish to vomit Jonah out.[13]
 
-Dore_jonah.jpg'' (1866) by Gustave Doré]]
+'' (1866) by Gustave Doré]]
 
 God again commands Jonah to travel to Nineveh and prophesy to its inhabitants.[14] This time he goes and enters the city, crying, "In forty days Nineveh shall be overthrown."[15] After Jonah has walked across Nineveh, the people of Nineveh begin to believe his word and proclaim a fast.[16] The king of Nineveh puts on sackcloth and sits in ashes, making a proclamation which decrees fasting, the wearing of sackcloth, prayer, and repentance.[17] God sees their repentant hearts and spares the city at that time.[18] The entire city is humbled and broken with the people (and even the animals)[19] in sackcloth and ashes.[20]
 

@@ -108,7 +108,7 @@ Traditionally, these trees have been built using morphological methods, such as 
 
 Potential objections
 
-Tree_Of_Life_(with_horizontal_gene_transfer).svg shows many horizontal gene transfers, implying multiple possible origins.]]
+shows many horizontal gene transfers, implying multiple possible origins.]]
 
 Gene exchange clouds phylogenetic analysis
 

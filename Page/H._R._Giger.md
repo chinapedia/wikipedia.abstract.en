@@ -8,7 +8,7 @@ Giger was born in 1940 in Chur, the capital city of Graubünden, the largest and
 
 Career
 
-Birth_Machine.jpg Giger's first success was when H. H. Kunz, co-owner of Switzerland's first poster publishing company, printed and distributed Giger's first posters, beginning in 1969.[2]
+Giger's first success was when H. H. Kunz, co-owner of Switzerland's first poster publishing company, printed and distributed Giger's first posters, beginning in 1969.[2]
 
 Giger's style and thematic execution were influential. He was part of the special effects team that won an Academy Award for Best Achievement in Visual Effects for their design work on the film _Alien_.[3][4] His design for the Alien was inspired by his painting _Necronom IV_ and earned him an Oscar in 1980. His books of paintings, particularly _Necronomicon_ and _Necronomicon II_ (1985) and the frequent appearance of his art in _Omni_ magazine continued his rise to international prominence.[5] Giger was admitted to the Science Fiction and Fantasy Hall of Fame in 2013.[6][7] He is also well known for artwork on several music recording albums including _Danzig III: How The Gods Kill_ by Danzig, _Brain Salad Surgery_ by Emerson, Lake & Palmer, _Heartwork_ by _Carcass_, _To Mega Therion_ by _Celtic Frost_, _Eparistera Daimones_ by Triptykon, and Deborah Harry's _KooKoo_.
 
@@ -45,7 +45,7 @@ Giger's most distinctive stylistic innovation was that of a representation of hu
 
 Other works
 
-Gigerbar.jpg Giger_gitarren.jpg Giger directed a number of films, including _Swiss Made_ (1968), _Tagtraum_ (1973), _Giger's Necronomicon_ (1975) and _Giger's Alien_ (1979).
+Giger directed a number of films, including _Swiss Made_ (1968), _Tagtraum_ (1973), _Giger's Necronomicon_ (1975) and _Giger's Alien_ (1979).
 
 Giger created furniture designs, particularly the Harkonnen Capo Chair for a film of the novel _Dune_ that was to be directed by Alejandro Jodorowsky. Many years later, David Lynch directed the film, using only rough concepts by Giger. Giger had wished to work with Lynch,[22] as he stated in one of his books that Lynch's film _Eraserhead_ was closer than even Giger's own films to realizing his vision.[23]
 
@@ -78,8 +78,6 @@ Films
 -   _Alien: Covenant_ (the film includes "The Derelict" spacecraft and the "Space Jockey" designs from the first _Alien_ film)
 
 Work for recording artists
-
-Korn_03322006_Milwaukee.jpg
 
 -   Celtic Frost: _To Mega Therion_
 -   Magma: _Attahk_

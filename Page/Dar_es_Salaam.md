@@ -2,14 +2,12 @@ DAR ES SALAAM (; from ), or simply DAR, formerly known as MZIZIMA, is the former
 
 Until 1974, Dar es Salaam served as Tanzania’s capital city, at which point the capital city commenced transferring to Dodoma, which was officially completed in 1996. However, as of 2018, it remains a focus of central government bureaucracy, although this is in the process of fully moving to Dodoma. It is Tanzania's most prominent city in arts, fashion, media, music, film and television, and is a leading financial centre. The city is the leading arrival and departure point for most tourists who visit Tanzania, including the national parks for safaris and the islands of Unguja and Pemba. Dar es Salaam is also the largest and most populous Swahili-speaking city in the world.
 
-Dar_es_salaam_Skyline_from_the_sea.jpg
-
 It is the capital of the co-extensive Dar es Salaam Region, which is one of Tanzania's 31 administrative regions and consists of five districts: Kinondoni in the north, Ilala in the centre, Ubungo and Temeke in the south and Kigamboni in the east across the Kurasini creek. The region had a population of 4,364,541 as of the official 2012 census.[3]
 
 
 History
 
-Dar_es_Salaam_in_1930s.JPG and St. Joseph's Cathedral prominently in view]] Dar_es_Salaam_Cenotaph.jpg
+and St. Joseph's Cathedral prominently in view]]
 
 In the 19th century, MZIZIMA (Swahili for "healthy town") was a coastal fishing village on the periphery of Indian Ocean trade routes.[4][5] In 1865 or 1866, Sultan Majid bin Said of Zanzibar began building a new city very close to Mzizima[6] and named it DAR ES SALAAM. The name is commonly translated as "abode/home of peace", based on the Arabic _dar_ ("house"), and the Arabic _es salaam_ ("of peace").[7] Dar es Salaam fell into decline after Majid's death in 1870, but was revived in 1887 when the German East Africa Company established a station there. The town's growth was facilitated by its role as the administrative and commercial centre of German East Africa and industrial expansion resulting from the construction of the Central Railway Line in the early 1900s.
 
@@ -24,7 +22,7 @@ Until the late 1990s, Dar es Salaam was not put into the same category as Africa
 
 Geography
 
-The_splendent_sunset_in_the_city_of_Dar_es_Salaam.jpg Dar es Salaam is located at 6°48' South, 39°17' East (−6.8000, 39.2833),[10] on a natural harbour on the eastern coast of East Africa, with sandy beaches in some areas.
+Dar es Salaam is located at 6°48' South, 39°17' East (−6.8000, 39.2833),[10] on a natural harbour on the eastern coast of East Africa, with sandy beaches in some areas.
 
 The region of Dar es Salaam is divided into five districts.
 
@@ -44,7 +42,7 @@ Dar es Salaam Region is divided into five[11] administrative districts. All five
 
 Kinondoni
 
-Msakai,_Dar_es_salaam.jpg Coco_Beach.jpg]] Kinondoni is the most populated amongst the districts, with half of the city's population residing within it. It is also home to high-income suburbs. These include:
+]] Kinondoni is the most populated amongst the districts, with half of the city's population residing within it. It is also home to high-income suburbs. These include:
 
 -   MASAKI, OYSTERBAY AND ADA ESTATE are the high-income suburbs located along the central beach. During the Colonial Era, they were the major European suburbs of the city. Now diplomats and expatriates reside in these areas. Oysterbay Beach, also known as Coco Beach, is the only white sandy beach east of Kinondoni.
 -   MIKOCHENI AND REGENT ESTATE are also suburbs within the district. According to the 2012 census, the Mikocheni ward had a population of 32,947.[12]
@@ -55,7 +53,7 @@ Msakai,_Dar_es_salaam.jpg Coco_Beach.jpg]] Kinondoni is the most populated among
 
 Ilala
 
-Askari_monument_dar_es_salaam.jpg Ilala is the administrative district of Dar es Salaam where almost all government offices and ministries are housed. The Central Business District (locally called "Posta") is located in this district. It is the transportation hub of the city, as the Julius Nyerere International Airport, Central Railway Station and Tazara Railway Station are all within the district boundaries. The residential areas are mainly middle to high-income, and some of these are:
+Ilala is the administrative district of Dar es Salaam where almost all government offices and ministries are housed. The Central Business District (locally called "Posta") is located in this district. It is the transportation hub of the city, as the Julius Nyerere International Airport, Central Railway Station and Tazara Railway Station are all within the district boundaries. The residential areas are mainly middle to high-income, and some of these are:
 
 -   UPANGA AND KISUTU had the highest concentration of Asian communities within Dar es Salaam, with residents of Indian and Arabian descent. These areas contain colonial houses and mansions built in Indian, Arabic and European styles. Upanga contains Upanga East and Upanga West.
 -   KARIAKOO is the shopping district of the city. Shops, bazaars and merchants dot the streets, selling products from foodstuffs to hardware materials. The Kariakoo Market, which is the largest, contains the only underground section of the city. It is the major supply point of the food consumed by all the residents of Dar es Salaam.
@@ -64,7 +62,7 @@ Askari_monument_dar_es_salaam.jpg Ilala is the administrative district of Dar es
 
 Temeke
 
-Ship_dar.JPG]] Kigamboni_bridge_(2).jpg]] Temeke is the industrial district of the city, where the manufacturing centers (heavy and light industry) are located. The Port of Dar es Salaam, which is the largest in the country, is found east of Temeke.
+]] ]] Temeke is the industrial district of the city, where the manufacturing centers (heavy and light industry) are located. The Port of Dar es Salaam, which is the largest in the country, is found east of Temeke.
 
 Temeke is believed to have the largest concentration of low-income residents due to industry. Port officials, military and police officers live there.
 
@@ -79,7 +77,7 @@ The Ubungo terminal serves as a transportation link to most large Dar es Salaam 
 
 Kigamboni
 
--   Bandarini.jpgKIGAMBONI (SOUTH BEACH), a beachfront suburb on a peninsula, is home to an economically diverse population. Access to the suburb is mainly by ferry, although the Kigamboni Bridge provides an alternative.
+-   KIGAMBONI (SOUTH BEACH), a beachfront suburb on a peninsula, is home to an economically diverse population. Access to the suburb is mainly by ferry, although the Kigamboni Bridge provides an alternative.
 
 Climate
 
@@ -88,7 +86,7 @@ Due to close proximity to the equator and the warm Indian Ocean, the city experi
 
 Government
 
-The_front_view_of_Julius_Nyerere_International_Convention_Centre_in_Dar_es_Salaam.jpg Dar es Salaam]] "In 1949 the town became a municipality...[with] four honourable nominated Town Councillors who elected a Mayor."[13] "Until June 1996, Dar es Salaam was managed by the Dar es Salaam City Council...the highest policy-making body in the city."[14] As of 2017 Paul Makonda serves as the commissioner of Dar es Salaam Region.
+Dar es Salaam]] "In 1949 the town became a municipality...[with] four honourable nominated Town Councillors who elected a Mayor."[13] "Until June 1996, Dar es Salaam was managed by the Dar es Salaam City Council...the highest policy-making body in the city."[14] As of 2017 Paul Makonda serves as the commissioner of Dar es Salaam Region.
 
 Globalisation
 
@@ -116,9 +114,9 @@ The sprawling suburbs furthest from the city centre are generally populated by T
 
 Economy and infrastructure
 
-Bank_of_Tanzania_golden_hour.jpg]] Kariakoo_Waking_Up.jpg market]] Dar es Salaam is Tanzania's most important city for both business and government. The city contains high concentrations of trade and other services and manufacturing compared to other parts of Tanzania, which has about 80 percent of its population in rural areas. Downtown includes small businesses, many of which are run by traders and proprietors whose families originated from the Middle East and the Indian sub-continent—areas of the world with which the settlements of the Tanzanian coast have had long-standing trading relations.
+]] market]] Dar es Salaam is Tanzania's most important city for both business and government. The city contains high concentrations of trade and other services and manufacturing compared to other parts of Tanzania, which has about 80 percent of its population in rural areas. Downtown includes small businesses, many of which are run by traders and proprietors whose families originated from the Middle East and the Indian sub-continent—areas of the world with which the settlements of the Tanzanian coast have had long-standing trading relations.
 
-The Dar es Salaam Central Business District is the largest in Tanzania and comprises the Kisutu, Kivukoni, Upanga and Kariakoo areas. The downtown area is located in the Ilala district. Kivukoni is home to the Tanzania central bank, The Bank of Tanzania, the Dar es Salaam Stock Exchange and the city's important Magogoni fish market.[21] Kisutu has businesses and offices and is the location of Dar es Salaam central railway station, the PSPF Towers and the TPA tower. Dar_es_Salaam_at_a_bird's_view.jpg creek]]
+The Dar es Salaam Central Business District is the largest in Tanzania and comprises the Kisutu, Kivukoni, Upanga and Kariakoo areas. The downtown area is located in the Ilala district. Kivukoni is home to the Tanzania central bank, The Bank of Tanzania, the Dar es Salaam Stock Exchange and the city's important Magogoni fish market.[21] Kisutu has businesses and offices and is the location of Dar es Salaam central railway station, the PSPF Towers and the TPA tower. creek]]
 
 Dar es Salaam has a problem with slums. According to a United Nations estimate, 70 percent of the city's population lives in informal settlements.[22] The poorer residents crowd into downtown areas or large slums, many without running water or basic services.[23] The more wealthy live in beachside mansions in the city's northern districts.[24]
 
@@ -135,7 +133,7 @@ Dar es Salaam hosts the Mlimani City shopping mall.
 
 Transportation
 
-The_bird's_view_of_the_harbour_in_Dar_es_Salaam.jpg]] DarBTR.jpg
+]]
 
 Dar es Salaam, on a natural harbour on the Indian Ocean, is one of the hubs of the Tanzanian transportation system as the main railways and several highways originate in or near the city to provide convenient transportation for commuters.
 
@@ -153,7 +151,7 @@ Maritime transport
 
 Port
 
-TPAHQ.jpg The city has the country's busiest port: The port is located on the west of the Indian Ocean, Kurasini creek south east of Dar es Salaam's central business District. The Port of Dar es Salaam handles 90% of the country's cargo.
+The city has the country's busiest port: The port is located on the west of the Indian Ocean, Kurasini creek south east of Dar es Salaam's central business District. The Port of Dar es Salaam handles 90% of the country's cargo.
 
 Future infrastructure government aspirations
 
@@ -161,7 +159,7 @@ Due to huge influx of cargo and the slow pace of expansion a new cargo port nort
 
 Ferry
 
-MV_Kigamboni.JPG to north west Kigamboni in south east Dar es Salaam.]] MV Kigamboni ferries run between south east of Kivukoni and north west of Kigamboni in Dar es Salaam.[30]
+to north west Kigamboni in south east Dar es Salaam.]] MV Kigamboni ferries run between south east of Kivukoni and north west of Kigamboni in Dar es Salaam.[30]
 
 Railway
 
@@ -179,18 +177,18 @@ The city also hosts the head office of Tanzania Zambia Railways Authority (TAZAR
 
 Airport
 
-Dar_es_Salaam_Airport.jpg, Dar es Salaam]] The Julius Nyerere International Airport is the principal airport serving the country with two operating terminals and one under construction; Terminal Three at Kipawa in Ilala Municipality. The airport is located west of Dar es Salaam's central business district.
+, Dar es Salaam]] The Julius Nyerere International Airport is the principal airport serving the country with two operating terminals and one under construction; Terminal Three at Kipawa in Ilala Municipality. The airport is located west of Dar es Salaam's central business district.
 
 
 Culture
 
 Art
 
-Nyumba_ya_sanaa_dar_es_salaam.jpg Dar es Salaam (and specifically the area of Oyster Bay) is home to the brightly coloured and tourist-oriented Tingatinga painting style. The Nyumba ya sanaa ("House of Art") is a cultural centre, workshop and shop dedicated to Tanzanian art, showcasing and promoting Tanzanian craftmanship. Prominent Tanzanian sculptor George Lilanga has donated some of his works to the centre, including decorations of the building's main entrance.
+Dar es Salaam (and specifically the area of Oyster Bay) is home to the brightly coloured and tourist-oriented Tingatinga painting style. The Nyumba ya sanaa ("House of Art") is a cultural centre, workshop and shop dedicated to Tanzanian art, showcasing and promoting Tanzanian craftmanship. Prominent Tanzanian sculptor George Lilanga has donated some of his works to the centre, including decorations of the building's main entrance.
 
 Music
 
-The_African_tranditional_dance_in_Dar_es_Salaam..jpg The music scene in Dar es Salaam is divided between several styles. The longest standing style is live dance music (muziki wa dansi), played by bands such as DDC Mlimani Park Orchestra and Malaika Musical Band. Taarab which was traditionally strong in Zanzibar has also found a niche. However, it remains small compared both to dance music and "Bongo Flava", a broad category that represents the Tanzanian take on hip hop and R&B, which has quickly become the most popular locally produced music. Traditional music, which locally is used to refer to tribal music is still performed but typically only on family oriented occasions such as weddings.
+The music scene in Dar es Salaam is divided between several styles. The longest standing style is live dance music (muziki wa dansi), played by bands such as DDC Mlimani Park Orchestra and Malaika Musical Band. Taarab which was traditionally strong in Zanzibar has also found a niche. However, it remains small compared both to dance music and "Bongo Flava", a broad category that represents the Tanzanian take on hip hop and R&B, which has quickly become the most popular locally produced music. Traditional music, which locally is used to refer to tribal music is still performed but typically only on family oriented occasions such as weddings.
 
 This rap scene is also present.[31]
 
@@ -198,7 +196,7 @@ In the 1970s, the Ministry of National Youth Culture aimed to create a national 
 
 Tourism
 
-Villagemuseum.jpg Dar es Salaam has two of the five museums comprising the National Museum of Tanzania consortium, namely the National Museum proper and the Makumbusho Cultural Centre & Village Museum. The National Museum is dedicated to the history of Tanzania; most notably, it exhibits some of the bones of _Paranthropus boisei_ that were among the findings of Louis Leakey at Olduvai. The Makumbusho Cultural Centre & Village Museum,[33] located in the outskirts of the city on the road to Bagamoyo, showcases traditional huts from 16 different Tanzanian ethnic groups. There are also examples of traditional cultivations, and traditional music and dance shows are held daily. In 2016, there was a breakthrough discovery in Northern Tanzania by a scientist, from the University of Dar es Salaam, of footprints thought to be of a hominid that predates Homo sapiens.
+Dar es Salaam has two of the five museums comprising the National Museum of Tanzania consortium, namely the National Museum proper and the Makumbusho Cultural Centre & Village Museum. The National Museum is dedicated to the history of Tanzania; most notably, it exhibits some of the bones of _Paranthropus boisei_ that were among the findings of Louis Leakey at Olduvai. The Makumbusho Cultural Centre & Village Museum,[33] located in the outskirts of the city on the road to Bagamoyo, showcases traditional huts from 16 different Tanzanian ethnic groups. There are also examples of traditional cultivations, and traditional music and dance shows are held daily. In 2016, there was a breakthrough discovery in Northern Tanzania by a scientist, from the University of Dar es Salaam, of footprints thought to be of a hominid that predates Homo sapiens.
 
 Close to the National Museum are also the botanical gardens, with tropical plants and trees.
 
@@ -214,7 +212,7 @@ Sports
 
 Stadium
 
-Dar es Salaam is the sports center of Tanzania. Dar es Salaam hosts the second largest stadium in East and Central Africa (National Stadium), which can accommodate up to 60,000 people. Tanzania_National_Main_Stadium.jpg
+Dar es Salaam is the sports center of Tanzania. Dar es Salaam hosts the second largest stadium in East and Central Africa (National Stadium), which can accommodate up to 60,000 people.
 
 Football (soccer)
 
@@ -274,7 +272,7 @@ The expressed aim of the SEACOM cable is to enable East Africa to develop econom
 
 Education
 
-Nkrumah.JPG]] Dar es Salaam is the educational centre of Tanzania. The city is home to several institutions of higher learning.
+]] Dar es Salaam is the educational centre of Tanzania. The city is home to several institutions of higher learning.
 
 Universities
 

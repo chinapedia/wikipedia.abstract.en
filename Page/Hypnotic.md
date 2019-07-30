@@ -1,5 +1,3 @@
-Stilnoct2.JPG
-
 HYPNOTIC (from Greek _Hypnos_, sleep) or SOPORIFIC drugs, commonly known as SLEEPING PILLS, are a class of psychoactive drugs whose primary function is to induce sleep[1] and to be used in the treatment of insomnia (sleeplessness), or for surgical anesthesia.[2]
 
 This group is related to SEDATIVES. Whereas the term _sedative_ describes drugs that serve to calm or relieve anxiety, the term _hypnotic_ generally describes drugs whose main purpose is to initiate, sustain, or lengthen sleep. Because these two functions frequently overlap, and because drugs in this class generally produce dose-dependent effects (ranging from anxiolysis to loss of consciousness) they are often referred to collectively as SEDATIVE-HYPNOTIC drugs.[3]
@@ -13,7 +11,7 @@ Falling outside the above-mentioned categories, the neuro-hormone melatonin has 
 
 History
 
-A_corrupt_old_man_tries_to_seduce_a_woman_by_urging_Wellcome_L0034228.jpg'' by .
+'' by .
 (A corrupt old man tries to seduce a woman by urging her to take a hypnotic draught in her drink)]]
 
 HYPNOTICA was a class of somniferous drugs and substances tested in medicine of the 1890s and later, including: Urethan, Acetal, Methylal, Sulfonal, paraldehyde, Amylenhydrate, Hypnon, Chloralurethan and Ohloralamid or Chloralimid.[11]

@@ -1,4 +1,4 @@
-64_365_Color_Macro_(5498808099).jpgs]] Nasir-al_molk_-1.jpg located in Shiraz, Iran)]] Colour_shift.jpg.]] COLOR (American English), or COLOUR (Commonwealth English), is the characteristic of human visual perception described through color _categories_, with names such as red, orange, yellow, green, blue, or purple. This perception of color derives from the stimulation of cone cells in the human eye by electromagnetic radiation in the visible spectrum. Color categories and physical specifications of color are associated with objects through the wavelength of the light that is reflected from them. This reflection is governed by the object's physical properties such as light absorption, emission spectra, etc.
+s]] located in Shiraz, Iran)]] .]] COLOR (American English), or COLOUR (Commonwealth English), is the characteristic of human visual perception described through color _categories_, with names such as red, orange, yellow, green, blue, or purple. This perception of color derives from the stimulation of cone cells in the human eye by electromagnetic radiation in the visible spectrum. Color categories and physical specifications of color are associated with objects through the wavelength of the light that is reflected from them. This reflection is governed by the object's physical properties such as light absorption, emission spectra, etc.
 
 By defining a color space, colors can be identified numerically by coordinates, which in 1931 were also named in global agreement with internationally agreed color names like mentioned above (red, orange, etc.) by the International Commission on Illumination. The RGB color space for instance is a color space corresponding to human trichromacy and to the three cone cell types that respond to three bands of light: long wavelengths, peaking near 564–580 nm (_red_); medium-wavelength, peaking near 534–545 nm (_green_); and short-wavelength light, near 420–440 nm (_blue_).[1][2] There may also be more than three color dimensions in other color spaces, such as in the CMYK color model, wherein one of the dimensions relates to a color's colorfulness).
 
@@ -9,7 +9,7 @@ The science of color is sometimes called CHROMATICS, COLORIMETRY, or simply COLO
 
 Physics of color
 
-Rendered_Spectrum.png color space.]]
+color space.]]
 
 +-------+------------+--------------+
 | Color | Wavelength | Frequency    |
@@ -63,7 +63,7 @@ Color of objects
 
 The color of an object depends on both the physics of the object in its environment and the characteristics of the perceiving eye and brain. Physically, objects can be said to have the color of the light leaving their surfaces, which normally depends on the spectrum of the incident illumination and the reflectance properties of the surface, as well as potentially on the angles of illumination and viewing. Some objects not only reflect light, but also transmit light or emit light themselves, which also contributes to the color. A viewer's perception of the object's color depends not only on the spectrum of the light leaving its surface, but also on a host of contextual cues, so that color differences between objects can be discerned mostly independent of the lighting spectrum, viewing angle, etc. This effect is known as color constancy.
 
-Optical_grey_squares_orange_brown.svg.]]
+.]]
 
 Some generalizations of the physics can be drawn, neglecting perceptual effects for now:
 
@@ -78,7 +78,7 @@ To summarize, the color of an object is a complex result of its surface properti
 
 Perception
 
-16777216colors.png can distinguish about 10 million different colors.[9]]]
+can distinguish about 10 million different colors.[9]]]
 
 Development of theories of color vision
 
@@ -92,7 +92,7 @@ In 1931, an international group of experts known as the _Commission internationa
 
 Color in the eye
 
-Cones_SMJ2_E.svg responses (S, M, and L types) to monochromatic spectral stimuli]]
+responses (S, M, and L types) to monochromatic spectral stimuli]]
 
 The ability of the human eye to distinguish colors is based upon the varying sensitivity of different cells in the retina to light of different wavelengths. Humans are trichromatic—the retina contains three types of color receptor cells, or cones. One type, relatively distinct from the other two, is most responsive to light that is perceived as blue or blue-violet, with wavelengths around 450 nm; cones of this type are sometimes called _short-wavelength cones_, _S cones_, or _blue cones_. The other two types are closely related genetically and chemically: _middle-wavelength cones_, _M cones_, or _green cones_ are most sensitive to light perceived as green, with wavelengths around 540 nm, while the _long-wavelength cones_, _L cones_, or _red cones_, are most sensitive to light is perceived as greenish yellow, with wavelengths around 570  nm.
 
@@ -104,7 +104,7 @@ The other type of light-sensitive cell in the eye, the rod, has a different resp
 
 Color in the brain
 
-Ventral-dorsal_streams.svg (green) and ventral stream (purple) are shown. The ventral stream is responsible for color perception.]]
+(green) and ventral stream (purple) are shown. The ventral stream is responsible for color perception.]]
 
 While the mechanisms of color vision at the level of the retina are well-described in terms of tristimulus values, color processing after that point is organized differently. A dominant theory of color vision proposes that color information is transmitted out of the eye by three opponent processes, or opponent channels, each constructed from the raw output of the cones: a red–green channel, a blue–yellow channel, and a black–white "luminance" channel. This theory has been supported by neurobiology, and accounts for the structure of our subjective color experience. Specifically, it explains why humans cannot perceive a "reddish green" or "yellowish blue", and it predicts the color wheel: it is the collection of colors for which at least one of the two color channels measures a value at one of its extremes.
 
@@ -140,7 +140,7 @@ Both phenomena are readily explained and mathematically modeled with modern theo
 
 Color naming
 
-1Mcolors.png Colors vary in several different ways, including hue (shades of red, orange, yellow, green, blue, and violet), saturation, brightness, and gloss. Some color words are derived from the name of an object of that color, such as "orange" or "salmon", while others are abstract, like "red".
+Colors vary in several different ways, including hue (shades of red, orange, yellow, green, blue, and violet), saturation, brightness, and gloss. Some color words are derived from the name of an object of that color, such as "orange" or "salmon", while others are abstract, like "red".
 
 In the 1969 study _Basic Color Terms: Their Universality and Evolution_, Brent Berlin and Paul Kay describe a pattern in naming "basic" colors (like "red" but not "red-orange" or "dark red" or "blood red", which are "shades" of red). All languages that have two "basic" color names distinguish dark/cool colors from bright/warm colors. The next colors to be distinguished are usually red and then yellow or green. All languages with six "basic" colors include black, white, red, green, blue, and yellow. The pattern holds up to a set of twelve: black, gray, white, pink, red, orange, yellow, green, blue, purple, brown, and azure (distinct from blue in Russian and Italian, but not English).
 
@@ -153,7 +153,7 @@ Different colors have been demonstrated to have effects on cognition. For exampl
 
 Spectral colors and color reproduction
 
-CIExy1931_fixed.svg chromaticity diagram. The outer curved boundary is the spectral (or monochromatic) locus, with wavelengths shown in nanometers. The colors depicted depend on the color space of the device on which you are viewing the image, and therefore may not be a strictly accurate representation of the color at a particular position, and especially not for monochromatic colors.]]
+chromaticity diagram. The outer curved boundary is the spectral (or monochromatic) locus, with wavelengths shown in nanometers. The colors depicted depend on the color space of the device on which you are viewing the image, and therefore may not be a strictly accurate representation of the color at a particular position, and especially not for monochromatic colors.]]
 
 Most light sources are mixtures of various wavelengths of light. Many such sources can still effectively produce a spectral color, as the eye cannot distinguish them from single-wavelength sources. For example, most computer displays reproduce the spectral color orange as a combination of red and green light; it appears orange because the red and green are mixed in the right proportions to allow the eye's cones to respond the way they do to the spectral color orange.
 
@@ -175,13 +175,9 @@ The different color response of different devices can be problematic if not prop
 
 Additive coloring
 
-AdditiveColor.svg
-
 Additive color is light created by mixing together light of two or more different colors. Red, green, and blue are the additive primary colors normally used in additive color systems such as projectors and computer terminals.
 
 Subtractive coloring
-
-SubtractiveColor.svg
 
 Subtractive coloring uses dyes, inks, pigments, or filters to absorb some wavelengths of light and not others. The color that a surface displays comes from the parts of the visible spectrum that are not absorbed and therefore remain visible. Without pigments or dye, fabric fibers, paint base and paper are usually made of particles that scatter white light (all colors) well in all directions. When a pigment or ink is added, wavelengths are absorbed or "subtracted" from white light, so light of another color reaches the eye.
 

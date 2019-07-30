@@ -22,7 +22,7 @@ A 2001 study found that people could detect images of spiders among images of fl
 
 Cultural
 
-Little_Miss_Muffet_2_-_WW_Denslow_-_Project_Gutenberg_etext_18546.jpg," in which the title character is "frightened away" by a spider.]] The alternative view is that the dangers, such as from spiders, are overrated and not sufficient to influence evolution. Instead, inheriting phobias would have restrictive and debilitating effects upon survival, rather than being an aid. For some communities such as in Papua New Guinea and Cambodia spiders are included in traditional foods. This suggests arachnophobia may be a cultural, rather than genetic trait.[8][9]
+," in which the title character is "frightened away" by a spider.]] The alternative view is that the dangers, such as from spiders, are overrated and not sufficient to influence evolution. Instead, inheriting phobias would have restrictive and debilitating effects upon survival, rather than being an aid. For some communities such as in Papua New Guinea and Cambodia spiders are included in traditional foods. This suggests arachnophobia may be a cultural, rather than genetic trait.[8][9]
 
 
 Treatments

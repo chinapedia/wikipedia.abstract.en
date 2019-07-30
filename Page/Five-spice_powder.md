@@ -5,8 +5,6 @@ Five-spice powder can be used in cocktails.
 
 Ingredients
 
-Five_spices_detailed.jpg
-
 While there are many variants, a common mix is:[2]
 
 -   Star anise (_bā jiǎo_ 八角)

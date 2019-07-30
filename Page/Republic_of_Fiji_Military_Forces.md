@@ -1,4 +1,4 @@
-Fiji_Military.png The REPUBLIC OF FIJI MILITARY FORCES (RFMF) is the military force of the Pacific island nation of Fiji. With a total manpower of 3,500 active soldiers and 6,000 reservists, it is one of the smallest militaries in the world, though most of its surrounding island nations have no militaries at all. The Ground Force is organised into six infantry and one engineer battalions, with approximately 6,000 reserves. There was formerly one "Zulu" company of counter-revolutionary specialists, which was deactivated in late 2000 due to a mutiny by some of its members.
+The REPUBLIC OF FIJI MILITARY FORCES (RFMF) is the military force of the Pacific island nation of Fiji. With a total manpower of 3,500 active soldiers and 6,000 reservists, it is one of the smallest militaries in the world, though most of its surrounding island nations have no militaries at all. The Ground Force is organised into six infantry and one engineer battalions, with approximately 6,000 reserves. There was formerly one "Zulu" company of counter-revolutionary specialists, which was deactivated in late 2000 due to a mutiny by some of its members.
 
 The first two regular battalions of the Fiji Infantry Regiment are traditionally stationed overseas on peacekeeping duties; the 1st Battalion has been posted to Lebanon, Iraq, Syria, and East Timor under the command of the UN, while the 2nd Battalion is stationed in Sinai with the MFO. Peacekeepers income represents an important source of income for Fiji. The 3rd Battalion is stationed in the capital, Suva, and the remaining three are spread throughout the islands.
 
@@ -47,7 +47,7 @@ Equipment
 
 Fijian Navy
 
-Naval_Ensign_of_Fiji.svg The 300-man Navy Unit RFMF celebrated, on 25 July 2015, the fortieth anniversary of its founding. It was formed in 1975 (Naval squadron Royal Fiji Military Forces), following the government's ratification of the United Nations Law of the Sea convention. The Navy is responsible for maritime needs in border control, such as watching over Fiji's exclusive economic zone and organising task and rescue missions. It currently operates 9 patrol boats. Military aid is received from Australia, the People's Republic of China, and the United Kingdom (although the latter has suspended aid as a result of the 2006 military coup against the civilian government).
+The 300-man Navy Unit RFMF celebrated, on 25 July 2015, the fortieth anniversary of its founding. It was formed in 1975 (Naval squadron Royal Fiji Military Forces), following the government's ratification of the United Nations Law of the Sea convention. The Navy is responsible for maritime needs in border control, such as watching over Fiji's exclusive economic zone and organising task and rescue missions. It currently operates 9 patrol boats. Military aid is received from Australia, the People's Republic of China, and the United Kingdom (although the latter has suspended aid as a result of the 2006 military coup against the civilian government).
 
 Speaking at 30th anniversary celebrations on 26 July 2006, Commander Bradley Bower said that the greatest challenge facing the navy of a maritime country like Fiji was to maintain sovereignty and the maritime environment, to acquire, restore, and replace equipment, and to train officers to keep pace with changing situations.
 
@@ -55,7 +55,7 @@ In January 2019 five of Fiji's naval vessels were operational.[17] In 2020 Austr
 
 Equipment
 
-Dabur881.JPG RSIPV_Lata.jpg3 x (Australia, displacement 162 t, length , width draught , power 2 x , maximal speed , crew 17-man, armament machine guns 1 x 12.7 mm). These boats replaced discharged s FNS _Kula_, _Kikau_ and _Kiro_, gained 1975 – 1976 from the United States Navy.
+3 x (Australia, displacement 162 t, length , width draught , power 2 x , maximal speed , crew 17-man, armament machine guns 1 x 12.7 mm). These boats replaced discharged s FNS _Kula_, _Kikau_ and _Kiro_, gained 1975 – 1976 from the United States Navy.
 
 -   RFNS 201 _Kula_ (May 1994)
 -   RFNS 202 _Kikau_ (May 1995)

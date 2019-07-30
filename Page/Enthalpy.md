@@ -238,7 +238,7 @@ _d__U_ = _δ__Q_ + _d__U__(in) − _d__U__(out) − _δ__W_,
 
 where _U__(in) is the average internal energy entering the system, and _U__(out) is the average internal energy leaving the system.
 
-First_law_open_system.svg operation, an energy balance applied to an open system equates shaft work performed by the system to heat added plus net enthalpy added]]
+operation, an energy balance applied to an open system equates shaft work performed by the system to heat added plus net enthalpy added]]
 
 The region of space enclosed by the boundaries of the open system is usually called a control volume, and it may or may not correspond to physical walls. If we choose the shape of the control volume such that all flow in or out occurs perpendicular to its surface, then the flow of matter into the system performs work as if it were a piston of fluid pushing mass into the system, and the system performs work on the flow of matter out as if it were driving a piston of fluid. There are then two types of work performed: _flow work_ described above, which is performed on the fluid (this is also often called _pV work_), and _shaft work_, which may be performed on some mechanical device.
 
@@ -275,7 +275,7 @@ where the angle brackets denote time averages. The technical importance of the e
 
 Diagrams
 
-Ts_diagram_of_N2_02.jpg, NIST Standard Reference Database 23. The red curve at the left is the melting curve. The red dome represents the two-phase region with the low-entropy side the saturated liquid and the high-entropy side the saturated gas. The black curves give the _T_–_s_ relation along isobars. The pressures are indicated in bar. The blue curves are isenthalps (curves of constant enthalpy). The values are indicated in blue in kJ/kg. The specific points A, B, etc., are treated in the main text.]]
+, NIST Standard Reference Database 23. The red curve at the left is the melting curve. The red dome represents the two-phase region with the low-entropy side the saturated liquid and the high-entropy side the saturated gas. The black curves give the _T_–_s_ relation along isobars. The pressures are indicated in bar. The blue curves are isenthalps (curves of constant enthalpy). The values are indicated in blue in kJ/kg. The specific points A, B, etc., are treated in the main text.]]
 
 The enthalpy values of important substances can be obtained using commercial software. Practically all relevant material properties can be obtained either in tabular or in graphical form. There are many types of diagrams, such as _h_–_T_ diagrams, which give the specific enthalpy as function of temperature for various pressures, and _h_–_p_ diagrams, which give _h_ as function of _p_ for various _T_. One of the most common diagrams is the temperature–specific entropy diagram (_T_–_s_-diagram). It gives the melting curve and saturated liquid and vapor values together with isobars and isenthalps. These diagrams are powerful tools in the hands of the thermal engineer.
 
@@ -293,8 +293,6 @@ The points A through H in the figure play a role in the discussion in this secti
     H: _T_ = 77.2 K, _p_ = 1 bar, _s_ = 5.41 kJ/(kg K), _h_ = 230 kJ/kg (saturated gas at 1 bar);
 
 Throttling
-
-Schematic_of_throttling.png
 
 One of the simple applications of the concept of enthalpy is the so-called throttling process, also known as Joule-Thomson expansion. It concerns a steady adiabatic flow of a fluid through a flow resistance (valve, porous plug, or any other type of flow resistance) as shown in the figure. This process is very important, since it is at the heart of domestic refrigerators, where it is responsible for the temperature drop between ambient temperature and the interior of the refrigerator. It is also the final stage in many types of liquefiers.
 
@@ -315,8 +313,6 @@ _h__(F) = _x__(F)_h__(G) + (1 − _x__(F))_h__(H).
 With numbers: , so _x__(F) = 0.64. This means that the mass fraction of the liquid in the liquid–gas mixture that leaves the throttling valve is 64%.
 
 Compressors
-
-Schematic_of_compressor.png
 
 A power _P_ is applied e.g. as electrical power. If the compression is adiabatic, the gas temperature goes up. In the reversible case it would be at constant entropy, which corresponds with a vertical line in the _T_–_s_ diagram. For example, compressing nitrogen from 1 bar (point A) to 2 bar (point B) would result in a temperature increase from 300 K to 380 K. In order to let the compressed gas exit at ambient temperature _T__(a), heat exchange, e.g. by cooling water, is necessary. In the ideal case the compression is isothermal. The average heat flow to the surroundings is _Q̇_. Since the system is in the steady state the first law gives
 

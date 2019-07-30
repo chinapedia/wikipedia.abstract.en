@@ -9,18 +9,16 @@ History
 
 The origins of the village lie with its harbour, where the Dour Burn enters the River Forth. The place-name itself is Pictish, implying an origin in the Dark Ages: _aber_ 'confluence'. The -dour element, referring to the Burn, means simply 'water' (archaic _dobur_), and is unconnected to the Scots/English 'dour'. For much of its history Aberdour was two villages, WESTER ABERDOUR and EASTER ABERDOUR, on either side of the Dour Burn; however this distinction was blurred by the 19th century arrival of the railway.
 
-In the 18th century Aberdour's harbour was improved by the addition of a stone pier to help handle the coal traffic from nearby collieries. However, in the 1850s the traffic changed dramatically, and Aberdour Harbour became a popular destination for pleasure steamers from Leith. This in turn led to the building of a deeper water pier a little around the bay at Hawkcraig, and to the development of hotels and many of the other services still on view today in the village.Aberdour_railway_station_garden.jpg|alt=|left]]
+In the 18th century Aberdour's harbour was improved by the addition of a stone pier to help handle the coal traffic from nearby collieries. However, in the 1850s the traffic changed dramatically, and Aberdour Harbour became a popular destination for pleasure steamers from Leith. This in turn led to the building of a deeper water pier a little around the bay at Hawkcraig, and to the development of hotels and many of the other services still on view today in the village.|alt=|left]]
 
 The railway came to Aberdour in 1890, with the building of the line east from the newly opened Forth Bridge. The station has won many "best kept station" awards. The half an hour journey to the centre of Edinburgh helped build on the existing popularity of the village, though it put the steamers out of business. The main result was a growth in the building of large and attractive houses, especially down the hill from Wester Aberdour to the West Sands. Ticket inspectors on the train line through Aberdour were known for their sing song refrain: _"Half an hour, Half an hour, Half an hour to Aberdour — tickets please."_
 
 
 Landmarks
 
-Aberdour_Castle_from_dovecote.jpg]]
+]]
 
 Virtually between the two former settlements, though actually part of Easter Aberdour, lies Aberdour Castle. This started life as a modest hall house on a site overlooking the Dour Burn in the 13th century. The oldest part of the present semi-ruin constitutes one of the earliest surviving stone castles in mainland Scotland. Over the next four hundred years the Castle was successively developed according to contemporary architectural ideas. Notable are the parts, still largely roofed, built by the Earls of Morton, with refined Renaissance detail, in the second half of the 16th century. A fire in the late 17th century was followed by some repairs, but in 1725 the family purchased 17th century Aberdour House, on the west side of the burn and in Wester Aberdour, and the medieval Castle was allowed to fall into relative decay. Aberdour Castle is now in the care of Historic Environment Scotland and open to the public (entrance charge). After a period of dereliction Aberdour House was developed for residential use in the early 1990s.
-
-St_Fillans_Church_-Aberdour_-Scotland2.jpg
 
 Neighbouring St Fillan's Church is one of the best-preserved medieval parish churches in Scotland, dating largely to the 12th century. A south arcade was added to the nave in the early 16th century (open in summer). The A921, the main road along the south coast of Fife, leads down the High Street of Wester Aberdour, before kinking sharply left to cross the railway line, then right again to progress through Easter Aberdour's Main Street.
 
@@ -44,7 +42,7 @@ Aberdour is home to Fife's only senior shinty club. Aberdour Shinty Club field t
 
 Aberdour's beaches
 
-Silversands_Bay_from_the_air_(geograph_5835067).jpg Aberdour has two beaches - the Silver Sands, and the Black Sands.
+Aberdour has two beaches - the Silver Sands, and the Black Sands.
 
 The Silver Sands[6] are located on the East side of the village, and has previously held a "Blue flag" beach award, which denotes an exemplary standard of cleanliness, facilities, safety, environmental education and management. New facilities are currently under construction by Fife Council, which will much improve the beach throughout the year.
 

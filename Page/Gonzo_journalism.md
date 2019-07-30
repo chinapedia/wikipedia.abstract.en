@@ -1,4 +1,4 @@
-Gonzo.svg button, was originally used in Hunter S. Thompson's 1970 campaign for sheriff of Pitkin County, Colorado. It has become a symbol of Thompson and gonzo journalism as a whole.]]
+button, was originally used in Hunter S. Thompson's 1970 campaign for sheriff of Pitkin County, Colorado. It has become a symbol of Thompson and gonzo journalism as a whole.]]
 
 GONZO JOURNALISM is a style of journalism that is written without claims of objectivity, often including the reporter as part of the story via a first-person narrative. The word "gonzo" is believed to have been first used in 1970 to describe an article by Hunter S. Thompson, who later popularized the style. It is an energetic first-person participatory writing style in which the author is a protagonist, and it draws its power from a combination of social critique and self-satire. It has since been applied to other subjective artistic endeavors.
 

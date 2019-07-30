@@ -13,7 +13,7 @@ Electronic paper was first developed in the 1970s by Nick Sheridon at Xerox's Pa
 
 Electrophoretic
 
-E-ink.svg In the simplest implementation of an electrophoretic display, titanium dioxide (titania) particles approximately one micrometer in diameter are dispersed in a hydrocarbon oil. A dark-colored dye is also added to the oil, along with surfactants and charging agents that cause the particles to take on an electric charge. This mixture is placed between two parallel, conductive plates separated by a gap of 10 to 100 micrometres. When a voltage is applied across the two plates, the particles migrate electrophoretically to the plate that bears the opposite charge from that on the particles. When the particles are located at the front (viewing) side of the display, it appears white, because the light is scattered back to the viewer by the high-index titania particles. When the particles are located at the rear side of the display, it appears dark, because the incident light is absorbed by the colored dye. If the rear electrode is divided into a number of small picture elements (pixels), then an image can be formed by applying the appropriate voltage to each region of the display to create a pattern of reflecting and absorbing regions.
+In the simplest implementation of an electrophoretic display, titanium dioxide (titania) particles approximately one micrometer in diameter are dispersed in a hydrocarbon oil. A dark-colored dye is also added to the oil, along with surfactants and charging agents that cause the particles to take on an electric charge. This mixture is placed between two parallel, conductive plates separated by a gap of 10 to 100 micrometres. When a voltage is applied across the two plates, the particles migrate electrophoretically to the plate that bears the opposite charge from that on the particles. When the particles are located at the front (viewing) side of the display, it appears white, because the light is scattered back to the viewer by the high-index titania particles. When the particles are located at the rear side of the display, it appears dark, because the incident light is absorbed by the colored dye. If the rear electrode is divided into a number of small picture elements (pixels), then an image can be formed by applying the appropriate voltage to each region of the display to create a pattern of reflecting and absorbing regions.
 
 Electrophoretic displays are considered prime examples of the electronic paper category, because of their paper-like appearance and low power consumption.
 
@@ -25,7 +25,7 @@ Electrophoretic displays can be manufactured using the Electronics on Plastic by
 
 Microencapsulated electrophoretic display
 
-Electrophoretic_display_001.svg Epd_color.svg An ELECTROPHORETIC DISPLAY forms images by rearranging charged pigment particles with an applied electric field. Kindle_3_texture_(crop).jpg] In the 1990s another type of electronic ink based on a microencapsulated electrophoretic display was conceived and prototyped by a team of undergraduates at MIT[14] as described in their Nature paper.[15] J.D. Albert, Barrett Comiskey, Joseph Jacobson, Jeremy Rubin and Russ Wilcox co-founded E Ink Corporation in 1997 to commercialize the technology. E ink subsequently formed a partnership with Philips Components two years later to develop and market the technology. In 2005, Philips sold the electronic paper business as well as its related patents to Prime View International.
+An ELECTROPHORETIC DISPLAY forms images by rearranging charged pigment particles with an applied electric field. ] In the 1990s another type of electronic ink based on a microencapsulated electrophoretic display was conceived and prototyped by a team of undergraduates at MIT[14] as described in their Nature paper.[15] J.D. Albert, Barrett Comiskey, Joseph Jacobson, Jeremy Rubin and Russ Wilcox co-founded E Ink Corporation in 1997 to commercialize the technology. E ink subsequently formed a partnership with Philips Components two years later to develop and market the technology. In 2005, Philips sold the electronic paper business as well as its related patents to Prime View International.
 
   "It has for many years been an ambition of researchers in display media to create a flexible low-cost system that is the electronic analog of paper. In this context, microparticle-based displays have long intrigued researchers. Switchable contrast in such displays is achieved by the electromigration of highly scattering or absorbing microparticles (in the size range 0.1–5 μm), quite distinct from the molecular-scale properties that govern the behavior of the more familiar liquid-crystal displays. Micro-particle-based displays possess intrinsic bistability, exhibit extremely low power d.c. field addressing and have demonstrated high contrast and reflectivity. These features, combined with a near-lambertian viewing characteristic, result in an 'ink on paper' look. But such displays have to date suffered from short lifetimes and difficulty in manufacture. Here we report the synthesis of an electrophoretic ink based on the microencapsulation of an electrophoretic dispersion. The use of a microencapsulated electrophoretic medium solves the lifetime issues and permits the fabrication of a bistable electronic display solely by means of printing. This system may satisfy the practical requirements of electronic paper."[16]
 
@@ -68,8 +68,6 @@ Disadvantages
 
 Electronic paper technologies have a very low refresh rate compared to other low-power display technologies, such as LCDs. This prevents producers from implementing sophisticated interactive applications (using fast-moving menus, mouse pointers or scrolling) like those common on standard mobile devices. An example of this limit is that a document cannot be smoothly zoomed without either extreme blurring during the transition or a very slow zoom.
 
-e-ink_ghost.jpg
-
 Another limit is that a shadow of an image may be visible after refreshing parts of the screen. Such shadows are termed "ghost images", and the effect is termed "ghosting". This effect is reminiscent of screen burn-in but, unlike screen burn-in, is solved after the screen is refreshed several times. Turning every pixel white, then black, then white, helps normalize the contrast of the pixels. This is why several devices with this technology "flash" the entire screen white and black when loading a new image.
 
 E Ink Corporation of E Ink Holdings Inc. released the first colored e-ink displays to be used in a marketed product. The Ectaco Jetbook Color was released in 2012 as the first colored e-ink e-reader, which used E Ink's Triton display technology.[34][35] E Ink in early 2015 also announced another color e-ink technology called Prism.[36] This new technology is a color changing film that can be used for e-reader, but Prism is also marketed as a film that can be integrated into architectural design such as "wall, ceiling panel, or entire room instantly."[37] The disadvantage of these current color displays is that they are considerably more expensive than standard E Ink displays. The JetBook Color costs roughly nine times more than other popular e-readers such as the Amazon Kindle.[38][39] As of January 2015, Prism had not been announced to be used in the plans for any e-reader devices.[40]
@@ -77,7 +75,7 @@ E Ink Corporation of E Ink Holdings Inc. released the first colored e-ink displa
 
 Applications
 
-EInk_Refresh.gif Several companies are simultaneously developing electronic paper and ink. While the technologies used by each company provide many of the same features, each has its own distinct technological advantages. All electronic paper technologies face the following general challenges:
+Several companies are simultaneously developing electronic paper and ink. While the technologies used by each company provide many of the same features, each has its own distinct technological advantages. All electronic paper technologies face the following general challenges:
 
 -   A method for encapsulation
 -   An ink or active material to fill the encapsulation
@@ -87,7 +85,7 @@ Electronic ink can be applied to flexible or rigid materials. For flexible displ
 
 There are many approaches to electronic paper, with many companies developing technology in this area. Other technologies being applied to electronic paper include modifications of liquid crystal displays, electrochromic displays, and the electronic equivalent of an Etch A Sketch at Kyushu University. Advantages of electronic paper include low power usage (power is only drawn when the display is updated), flexibility and better readability than most displays. Electronic ink can be printed on any surface, including walls, billboards, product labels and T-shirts. The ink's flexibility would also make it possible to develop rollable displays for electronic devices.
 
-Motorola_F3.JPG uses an e-paper display instead of an LCD.]]
+uses an e-paper display instead of an LCD.]]
 
 Wristwatches
 
@@ -95,7 +93,7 @@ In December 2005, Seiko released the first electronic ink based watch called the
 
 E-book readers
 
-Bouquin_électronique_iLiad_en_plein_soleil.jpg e-book reader equipped with an e-paper display visible in the sunlight]] In 2004 Sony released the Librié in Japan, the first e-book reader with an electronic paper E Ink display. In September 2006, Sony released the PRS-500 Sony Reader e-book reader in the USA. On October 2, 2007, Sony announced the PRS-505, an updated version of the Reader. In November 2008, Sony released the PRS-700BC, which incorporated a backlight and a touchscreen.
+e-book reader equipped with an e-paper display visible in the sunlight]] In 2004 Sony released the Librié in Japan, the first e-book reader with an electronic paper E Ink display. In September 2006, Sony released the PRS-500 Sony Reader e-book reader in the USA. On October 2, 2007, Sony announced the PRS-505, an updated version of the Reader. In November 2008, Sony released the PRS-700BC, which incorporated a backlight and a touchscreen.
 
 In late 2007, Amazon began producing and marketing the Amazon Kindle, an e-book reader with an e-paper display. In February 2009, Amazon released the Kindle 2 and in May 2009 the larger Kindle DX was announced. In July 2010 the third-generation Kindle was announced, with notable design changes.[44] The fourth generation of Kindle, called Touch, was announced in September 2011 that was the Kindle's first departure from keyboards and page turn buttons in favor of touchscreens. In September 2012, Amazon announced the fifth generation of the Kindle called the Paperwhite, which incorporates a LED frontlight and a higher contrast display.[45]
 
@@ -115,7 +113,7 @@ Flexible display cards enable financial payment cardholders to generate a one-ti
 
 Status displays
 
-Lexar_Jumpdrive_Secure_II_Plus.jpg Some devices, like USB flash drives, have used electronic paper to display status information, such as available storage space.[47] Once the image on the electronic paper has been set, it requires no power to maintain, so the readout can be seen even when the flash drive is not plugged in.
+Some devices, like USB flash drives, have used electronic paper to display status information, such as available storage space.[47] Once the image on the electronic paper has been set, it requires no power to maintain, so the readout can be seen even when the flash drive is not plugged in.
 
 Mobile phones
 
@@ -130,8 +128,6 @@ Electronic shelf labels
 E-Paper based electronic shelf labels (ESL) are used to digitally display the prices of goods at retail stores. Electronic paper-based labels are updated via two-way infrared or radio technology.
 
 Public transport timetables
-
-Nádraží_Vysočany,_zastávkový_sloupek_s_e-papírem,_jízdní_řády.jpg
 
 E-paper displays at bus or trams stops can be shown using eletronic paper. Information can be remotely updated. Compared to LED or LCD displays, they have less energy consumption and the text or graphics stays visible during a power failure. Compared to LCD displays, it is well visible also under full sunshine.
 

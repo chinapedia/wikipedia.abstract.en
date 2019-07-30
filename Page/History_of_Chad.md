@@ -3,7 +3,7 @@ CHAD (; ), officially the REPUBLIC OF CHAD, is a landlocked country in West Afri
 
 Prehistory
 
-Sahelanthropus_tchadensis_-_TM_266_location.jpgThe territory now known as Chad possesses some of the richest archaeological sites in Africa.[2] A hominid skull was found by Michel Brunet in 2002, in Borkou, that is more than 7 million years old, the oldest discovered anywhere in the world; it has been given the name Sahelanthropus tchadensis. In 1996 Michel Brunet had unearthed a hominid jaw which he named Australopithecus bahrelghazali, and unofficially dubbed Abel. It was dated using Beryllium based Radiometric dating as living circa. 3.6 million years ago.
+The territory now known as Chad possesses some of the richest archaeological sites in Africa.[2] A hominid skull was found by Michel Brunet in 2002, in Borkou, that is more than 7 million years old, the oldest discovered anywhere in the world; it has been given the name Sahelanthropus tchadensis. In 1996 Michel Brunet had unearthed a hominid jaw which he named Australopithecus bahrelghazali, and unofficially dubbed Abel. It was dated using Beryllium based Radiometric dating as living circa. 3.6 million years ago.
 
 During the 7th millennium BC, the northern half of Chad was part of a broad expanse of land, stretching from the Indus River in the east to the Atlantic Ocean in the west, in which ecological conditions favored early human settlement. Rock art of the "Round Head" style, found in the Ennedi region, has been dated to before the 7th millennium BC and, because of the tools with which the rocks were carved and the scenes they depict, may represent the oldest evidence in the Sahara of Neolithic industries. Many of the pottery-making and Neolithic activities in Ennedi date back further than any of those of the Nile Valley to the east.[3]
 
@@ -20,7 +20,7 @@ Most states began as kingdoms, in which the king was considered divine and endow
 
 Kanem-Bornu
 
-The Kanem Empire originated in the 9th century AD to the northeast of Lake Chad. Historians agree that the leaders of the new state were ancestors of the Kanembu people. Toward the end of the 11th century the Sayfawa king (or _mai_, the title of the Sayfawa rulers) Hummay, converted to Islam. In the following century the Sayfawa rulers expanded southward into Kanem, where was to rise their first capital, Njimi. Kanem's expansion peaked during the long and energetic reign of Mai Dunama Dabbalemi (c. 1221–1259).[8] Group_of_Kanem-Bu_warriors.jpg
+The Kanem Empire originated in the 9th century AD to the northeast of Lake Chad. Historians agree that the leaders of the new state were ancestors of the Kanembu people. Toward the end of the 11th century the Sayfawa king (or _mai_, the title of the Sayfawa rulers) Hummay, converted to Islam. In the following century the Sayfawa rulers expanded southward into Kanem, where was to rise their first capital, Njimi. Kanem's expansion peaked during the long and energetic reign of Mai Dunama Dabbalemi (c. 1221–1259).[8]
 
 By the end of the 14th century, internal struggles and external attacks had torn Kanem apart. Finally, around 1396 the Bulala invaders forced _Mai_ Umar Idrismi to abandon Njimi and move the Kanembu people to Bornu on the western edge of Lake Chad. Over time, the intermarriage of the Kanembu and Bornu peoples created a new people and language, the Kanuri, and founded a new capital, Ngazargamu.[9]
 
@@ -37,7 +37,7 @@ In about 1804, under the rule of Sabun, the sultanate began to expand its power.
 
 Colonialism (1900–40)
 
-Mort_du_Commandant_Lamy.jpgThe French first penetrated Chad in 1891, establishing their authority through military expeditions primarily against the Muslim kingdoms. The decisive colonial battle for Chad was fought on April 22, 1900 at Battle of Kousséri between forces of French Major Amédée-François Lamy and forces of the Sudanese warlord Rabih az-Zubayr. Both leaders were killed in the battle.
+The French first penetrated Chad in 1891, establishing their authority through military expeditions primarily against the Muslim kingdoms. The decisive colonial battle for Chad was fought on April 22, 1900 at Battle of Kousséri between forces of French Major Amédée-François Lamy and forces of the Sudanese warlord Rabih az-Zubayr. Both leaders were killed in the battle.
 
 In 1905, administrative responsibility for Chad was placed under a governor-general stationed at Brazzaville, capital of French Equatorial Africa (AEF). Chad did not have a separate colonial status until 1920, when it was placed under a lieutenant-governor stationed in Fort-Lamy (today N'Djamena).[14]
 
@@ -48,7 +48,7 @@ Throughout the colonial period, large areas of Chad were never governed effectiv
 
 Decolonization (1940–60)
 
-Eboue_wwII_prop_03-0118a.jpgDuring World War II, Chad was the first French colony to rejoin the Allies (August 26, 1940), after the defeat of France by Germany. Under the administration of Félix Éboué, France's first black colonial governor, a military column, commanded by Colonel Philippe Leclerc de Hauteclocque, and including two battalions of Sara troops, moved north from N'Djamena (then Fort Lamy) to engage Axis forces in Libya, where, in partnership with the British Army's Long Range Desert Group, they captured Kufra. On 21 January 1942, N'Djamena was bombed by a German aircraft.
+During World War II, Chad was the first French colony to rejoin the Allies (August 26, 1940), after the defeat of France by Germany. Under the administration of Félix Éboué, France's first black colonial governor, a military column, commanded by Colonel Philippe Leclerc de Hauteclocque, and including two battalions of Sara troops, moved north from N'Djamena (then Fort Lamy) to engage Axis forces in Libya, where, in partnership with the British Army's Long Range Desert Group, they captured Kufra. On 21 January 1942, N'Djamena was bombed by a German aircraft.
 
 After the war ended, local parties started to develop in Chad. The first to be born was the radical Chadian Progressive Party (PPT) in February 1947, initially headed by Panamanian born Gabriel Lisette, but from 1959 headed by François Tombalbaye. The more conservative Chadian Democratic Union (UDT) was founded in November 1947 and represented French commercial interests and a bloc of traditional leaders composed primarily of Muslim and Ouaddaïan nobility. The confrontation between the PPT and UDT was more than simply ideological; it represented different regional identities, with the PPT representing the Christian and animist south and the UDT the Islamic north.
 
@@ -84,7 +84,7 @@ The Habré era (1982–90)
 
     _see: Chadian-Libyan conflict_
 
-Libya's partial withdrawal to the Aozou Strip in northern Chad cleared the way for Habré's forces to enter N’Djamena in June. French troops and an OAU peacekeeping force of 3,500 Nigerian, Senegalese, and Zairian troops (partially funded by the United States) remained neutral during the conflict. Tschad_GUNT.jpg (dark green), claimed and occupied by Libya between 1976 and 1987, and territories held by Libyan-backed GUNT-forces (light green)]]
+Libya's partial withdrawal to the Aozou Strip in northern Chad cleared the way for Habré's forces to enter N’Djamena in June. French troops and an OAU peacekeeping force of 3,500 Nigerian, Senegalese, and Zairian troops (partially funded by the United States) remained neutral during the conflict. (dark green), claimed and occupied by Libya between 1976 and 1987, and territories held by Libyan-backed GUNT-forces (light green)]]
 
 Habré continued to face armed opposition on various fronts, and was brutal in his repression of suspected opponents, massacring and torturing many during his rule. In the summer of 1983, GUNT forces launched an offensive against government positions in northern and eastern Chad with heavy Libyan support. In response to Libya's direct intervention, French and Zairian forces intervened to defend Habré, pushing Libyan and rebel forces north of the 16th parallel. In September 1984, the French and the Libyan governments announced an agreement for the mutual withdrawal of their forces from Chad. By the end of the year, all French and Zairian troops were withdrawn. Libya did not honor the withdrawal accord, and its forces continued to occupy the northern third of Chad.
 
@@ -117,7 +117,7 @@ In 2003, Chad began receiving refugees from the Darfur region of western Sudan. 
 
 War in the East
 
-Civil_war_in_Chad.pngThe war started on December 23, 2005, when the government of Chad declared a state of war with Sudan and called for the citizens of Chad to mobilize themselves against the "common enemy,"[20] which the Chadian government sees as the Rally for Democracy and Liberty (RDL) militants, Chadian rebels, backed by the Sudanese government, and Sudanese militiamen. Militants have attacked villages and towns in eastern Chad, stealing cattle, murdering citizens, and burning houses. Over 200,000 refugees from the Darfur region of northwestern Sudan currently claim asylum in eastern Chad. Chadian president Idriss Déby accuses Sudanese President Omar Hasan Ahmad al-Bashir of trying to "destabilize our country, to drive our people into misery, to create disorder and export the war from Darfur to Chad."
+The war started on December 23, 2005, when the government of Chad declared a state of war with Sudan and called for the citizens of Chad to mobilize themselves against the "common enemy,"[20] which the Chadian government sees as the Rally for Democracy and Liberty (RDL) militants, Chadian rebels, backed by the Sudanese government, and Sudanese militiamen. Militants have attacked villages and towns in eastern Chad, stealing cattle, murdering citizens, and burning houses. Over 200,000 refugees from the Darfur region of northwestern Sudan currently claim asylum in eastern Chad. Chadian president Idriss Déby accuses Sudanese President Omar Hasan Ahmad al-Bashir of trying to "destabilize our country, to drive our people into misery, to create disorder and export the war from Darfur to Chad."
 
 An attack on the Chadian town of Adre near the Sudanese border led to the deaths of either one hundred rebels, as every news source other than CNN has reported, or three hundred rebels. The Sudanese government was blamed for the attack, which was the second in the region in three days,[21] but Sudanese foreign ministry spokesman Jamal Mohammed Ibrahim denies any Sudanese involvement, "We are not for any escalation with Chad. We technically deny involvement in Chadian internal affairs." This attack was the final straw that led to the declaration of war by Chad and the alleged deployment of the Chadian airforce into Sudanese airspace, which the Chadian government denies.[22]
 

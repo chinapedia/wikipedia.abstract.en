@@ -1,5 +1,3 @@
-Etymological_Relationships_Tree.png
-
 In linguistics, COGNATES are words that have a common etymological origin.[1] Cognates are often inherited from a shared parent language, but they may also involve borrowings from some other language. For example, the English words _dish_ and _desk_ and the German word _Tisch_ ("table") are cognates because they all come from Latin _discus_, which relates to their flat surfaces. Cognates may have evolved similar, different or even opposite meanings, but in most cases there are some similar sounds or letters in the words, in some cases appearing to be dissimilar. Some words sound similar, but don't come from the same root; these are called false cognates, while some are truly cognate but differ in meaning; these are called false friends.
 
 The word _cognate_ derives from the Latin noun _cognatus_, which means "blood relative".[2]

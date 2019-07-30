@@ -1,4 +1,4 @@
-PCIExpress.jpg bus card slots (from top to 2nd bottom: ×4, ×16, ×1 and ×16), compared to a 32-bit conventional PCI bus card slot (very bottom)]]
+bus card slots (from top to 2nd bottom: ×4, ×16, ×1 and ×16), compared to a 32-bit conventional PCI bus card slot (very bottom)]]
 
 In computer architecture, a BUS[1] (a contraction of the Latin _omnibus_) is a communication system that transfers data between components inside a computer, or between computers. This expression covers all related hardware components (wire, optical fiber, etc.) and software, including communication protocols.[2]
 
@@ -62,7 +62,7 @@ One of the first complications was the use of interrupts. Early computer program
 
 High-end systems introduced the idea of channel controllers, which were essentially small computers dedicated to handling the input and output of a given bus. IBM introduced these on the IBM 709 in 1958, and they became a common feature of their platforms. Other high-performance vendors like Control Data Corporation implemented similar designs. Generally, the channel controllers would do their best to run all of the bus operations internally, moving data when the CPU was known to be busy elsewhere if possible, and only using interrupts when necessary. This greatly reduced CPU load, and provided better overall system performance.
 
-Computer_system_bus.svg ]] To provide modularity, memory and I/O buses can be combined into a unified system bus.[5] In this case, a single mechanical and electrical system can be used to connect together many of the system components, or in some cases, all of them.
+]] To provide modularity, memory and I/O buses can be combined into a unified system bus.[5] In this case, a single mechanical and electrical system can be used to connect together many of the system components, or in some cases, all of them.
 
 Later computer programs began to share memory common to several CPUs. Access to this memory bus had to be prioritized, as well. The simple way to prioritize interrupts or bus access was with a daisy chain. In this case signals will naturally flow through the bus in physical or logical order, eliminating the need for complex scheduling.
 

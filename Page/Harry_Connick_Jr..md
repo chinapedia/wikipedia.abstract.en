@@ -56,7 +56,7 @@ He appeared in another episode of NBC sitcom _Will & Grace_ in November 2005, an
 
 2006–08: _The Pajama Game_, _Bug_ and _P.S. I Love You_
 
-Harry_Connick_2007_Savannah_concert_(picture_2).jpg, February 27, 2007]] _Bug_, a film directed by William Friedkin, is a psychological thriller filmed in 2005, starring Connick, Ashley Judd, and Michael Shannon. The film was released in 2007. He starred in the Broadway revival of _The Pajama Game_, produced by the Roundabout Theater Company, along with Michael McKean and Kelli O'Hara, at the _American Airlines Theatre_ in 2006. It ran from February 23 to June 17, 2006, including five benefit performances running from June 13 to 17. The _Pajama Game_ cast recording was nominated for a Grammy, after being released as part of Connick's double disc album Harry on Broadway, Act I.
+, February 27, 2007]] _Bug_, a film directed by William Friedkin, is a psychological thriller filmed in 2005, starring Connick, Ashley Judd, and Michael Shannon. The film was released in 2007. He starred in the Broadway revival of _The Pajama Game_, produced by the Roundabout Theater Company, along with Michael McKean and Kelli O'Hara, at the _American Airlines Theatre_ in 2006. It ran from February 23 to June 17, 2006, including five benefit performances running from June 13 to 17. The _Pajama Game_ cast recording was nominated for a Grammy, after being released as part of Connick's double disc album Harry on Broadway, Act I.
 
 He hosted The Weather Channel's miniseries _100 Biggest Weather Moments_ which aired in 2007. He was part of the documentary Note by Note: The Making of Steinway L1037, released in November 2007. He sat in on piano on Bob French's 2007 album _Marsalis Music Honors Series: Bob French_. He appeared in the film _P.S. I Love You_, released in December 2007. A third album in the _Connick on Piano_ series, _Chanson du Vieux Carré_ was released in 2007, and Connick received two Grammy nominations for the track "Ash Wednesday", for the Grammy awards in 2008. _Chanson du Vieux Carré_ was released simultaneously with the album _Oh, My NOLA_. Connick toured North America and Europe in 2007, and toured Asia and Australia in 2008, as part of his My New Orleans Tour. Connick did the arrangements for, wrote a couple of songs, and sang a duet on Kelli O'Hara's album that was released in May 2008.[24] He was also the featured singer at the Concert of Hope immediately preceding Pope Benedict XVI's Mass at Yankee Stadium in April 2008. He had the starring role of Dr. Dennis Slamon in the Lifetime television film _Living Proof_ (2008). His third Christmas album, _What a Night!_, was released in November 2008.
 
@@ -64,7 +64,7 @@ Harry has a vast knowledge of musical genres and vocalists, even Gospel music. O
 
 2009–11: _New in Town_, _Your Songs_
 
-Flyscooters_Rachel_Ray_Zellweger_&_Connick_Jr._1-30-09.jpg at the Rachael Ray show, January 30, 2009]] The film _New in Town_ starring Connick and Renée Zellweger, began filming in January 2008, and was released in January 2009. Connick's album _Your Songs_ was released on CD, September 22, 2009. In contrast to Connick's previous albums, this album is a collaboration with a record company producer, the multiple Grammy Award winning music executive Clive Davis.[26]
+at the Rachael Ray show, January 30, 2009]] The film _New in Town_ starring Connick and Renée Zellweger, began filming in January 2008, and was released in January 2009. Connick's album _Your Songs_ was released on CD, September 22, 2009. In contrast to Connick's previous albums, this album is a collaboration with a record company producer, the multiple Grammy Award winning music executive Clive Davis.[26]
 
 Connick starred in the Broadway revival of _On a Clear Day You Can See Forever_, which opened at the St. James Theatre in November 2011 in previews.[27]
 
@@ -126,7 +126,7 @@ In January 2019, it was announced that Connick was hired by piano instruction so
 
 Connick and New Orleans, Hurricane Katrina
 
-Harry_Connick,_Jr..jpg Connick, a New Orleans native, is a founder of the Krewe of Orpheus, a music-based New Orleans krewe, taking its name from Orpheus of classical mythology. The Krewe of Orpheus parades on St. Charles Avenue and Canal Street in New Orleans on Lundi Gras (Fat Monday)the day before Mardi Gras (Fat Tuesday).
+Connick, a New Orleans native, is a founder of the Krewe of Orpheus, a music-based New Orleans krewe, taking its name from Orpheus of classical mythology. The Krewe of Orpheus parades on St. Charles Avenue and Canal Street in New Orleans on Lundi Gras (Fat Monday)the day before Mardi Gras (Fat Tuesday).
 
 On September 2, 2005, Connick helped to organize, and appeared in, the NBC-sponsored live telethon concert, _A Concert for Hurricane Relief_, for relief in the wake of Hurricane Katrina. He spent several days touring the city to draw attention to the plight of citizens stranded at the Ernest N. Morial Convention Center and other places. At the concert he paired with host Matt Lauer, and entertainers including Tim McGraw, Faith Hill, Kanye West, Mike Myers, and John Goodman.
 
@@ -136,7 +136,7 @@ Connick's album _Oh, My NOLA_, and _Chanson du Vieux Carré_ were released in 20
 
 Musicians' Village
 
-MusiciansVillage20Aug07I.jpg in New Orleans, August 20, 2007]] Connick and Branford Marsalis devised an initiative to help restore New Orleans' musical heritage. Habitat for Humanity and New Orleans Area Habitat for Humanity, working with Connick and Marsalis announced December 6, 2005, plans for a Musicians' Village in New Orleans. The Musicians' Village includes Habitat-constructed homes, with an _Ellis Marsalis Center for Music_, as the area's centerpiece. The Habitat-built homes provide musicians, and anyone else who qualifies, the opportunity to buy decent, affordable housing.
+in New Orleans, August 20, 2007]] Connick and Branford Marsalis devised an initiative to help restore New Orleans' musical heritage. Habitat for Humanity and New Orleans Area Habitat for Humanity, working with Connick and Marsalis announced December 6, 2005, plans for a Musicians' Village in New Orleans. The Musicians' Village includes Habitat-constructed homes, with an _Ellis Marsalis Center for Music_, as the area's centerpiece. The Habitat-built homes provide musicians, and anyone else who qualifies, the opportunity to buy decent, affordable housing.
 
 In 2012, Connick and Marsalis received the S. Roger Horchow Award for Greatest Public Service by a Private Citizen, an award given out annually by Jefferson Awards.[33]
 

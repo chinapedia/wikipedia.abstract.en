@@ -15,7 +15,7 @@ The name "hamster" is a loanword from the German, which itself derives from earl
 
 Description
 
-Die_vergleichende_Osteologie_(1821)_Cricetus_cricetus.jpg]] Hamsters are typically stout-bodied, with tails shorter than body length, and have small, furry ears, short, stocky legs, and wide feet. They have thick, silky fur, which can be long or short, colored black, grey, honey, white, brown, yellow, red, or a mix, depending on the species. Two species of hamster belonging to the genus _Phodopus_, Campbell's dwarf hamster (_P. campbelli_) and the Djungarian hamster (_P. sungorus_), and two of the genus _Cricetulus_, the Chinese striped hamster (_C. barabensis_) and the Chinese hamster (_C. griseus_) have a dark stripe down their heads to their tails. The species of genus _Phodopus_ are the smallest, with bodies long; the largest is the European hamster (_Cricetus cricetus_), measuring up to long, not including a short tail of up to .
+]] Hamsters are typically stout-bodied, with tails shorter than body length, and have small, furry ears, short, stocky legs, and wide feet. They have thick, silky fur, which can be long or short, colored black, grey, honey, white, brown, yellow, red, or a mix, depending on the species. Two species of hamster belonging to the genus _Phodopus_, Campbell's dwarf hamster (_P. campbelli_) and the Djungarian hamster (_P. sungorus_), and two of the genus _Cricetulus_, the Chinese striped hamster (_C. barabensis_) and the Chinese hamster (_C. griseus_) have a dark stripe down their heads to their tails. The species of genus _Phodopus_ are the smallest, with bodies long; the largest is the European hamster (_Cricetus cricetus_), measuring up to long, not including a short tail of up to .
 
 The hamster tail can be difficult to see, as it is usually not very long (about 1/6 the length of the body), with the exception of the Chinese hamster, which has a tail the same length as the body. One rodent characteristic that can be highly visible in hamsters is their sharp incisors; they have an upper pair and lower pair which grow continuously throughout life, so must be regularly worn down. Hamsters are very flexible, but their bones are somewhat fragile. They are extremely susceptible to rapid temperature changes and drafts, as well as extreme heat or cold.
 
@@ -30,15 +30,13 @@ Hamsters are omnivores. Although pet hamsters can survive on a diet of exclusive
 
 Behavior
 
-Syrian_hamster_filling_his_cheek_pouches_with_Dandelion_leaves.JPG
-
 Feeding
 
 A behavioral characteristic of hamsters is food hoarding. They carry food in their spacious cheek pouches to their underground storage chambers. When full, the cheeks can make their heads double, or even triple in size.[17]. Hamsters lose weight during the autumn months in anticipation of winter. This occurs even when hamsters are kept as pets and is related to an increase in exercise.[18]
 
 Social behavior
 
-Hamster_fight.jpg Most hamsters are strictly solitary. If housed together, acute and chronic stress may occur,[19] and they may fight fiercely, sometimes fatally. Dwarf hamster species may tolerate siblings or same-gender unrelated hamsters if introduced at an early enough age, but this cannot be guaranteed.
+Most hamsters are strictly solitary. If housed together, acute and chronic stress may occur,[19] and they may fight fiercely, sometimes fatally. Dwarf hamster species may tolerate siblings or same-gender unrelated hamsters if introduced at an early enough age, but this cannot be guaranteed.
 
 Chronobiology
 
@@ -54,8 +52,6 @@ Wild hamsters will also appropriate tunnels made by other mammals; the Djungaria
 
 
 Reproduction
-
-Hamster_with_babies.jpg
 
 Fertility
 
@@ -75,7 +71,7 @@ Female hamsters are also particularly sensitive to disturbances while giving bir
 
 Weaning
 
-Dwarf_hamsters_eating_cooked,_frozen_beans_-_03.ogv Hamsters are born hairless and blind in a nest the mother will have prepared in advance.[33] After one week, they begin to explore outside the nest. They are completely weaned after three weeks, or four for Roborovski hamsters.
+Hamsters are born hairless and blind in a nest the mother will have prepared in advance.[33] After one week, they begin to explore outside the nest. They are completely weaned after three weeks, or four for Roborovski hamsters.
 
 Longevity
 
@@ -99,7 +95,7 @@ The judging of hamsters usually includes a goal of promoting hamsters which conf
 
 Classification
 
-Cashew_sable_syrian_hamster.jpg]] Hamster_Ruso.jpg]] Roborofskiohamster.jpg]] Campbells_dwarf.jpg]] Taxonomists generally disagree about the most appropriate placement of the subfamily Cricetinae within the superfamily Muroidea. Some place it in a family Cricetidae that also includes voles, lemmings, and New World rats and mice; others group all these into a large family called Muridae. Their evolutionary history is recorded by 15 extinct fossil genera and extends back 11.2 million to 16.4 million years to the Middle Miocene Epoch in Europe and North Africa; in Asia it extends 6 million to 11 million years. Four of the seven living genera include extinct species. One extinct hamster of _Cricetus_, for example, lived in North Africa during the Middle Miocene, but the only extant member of that genus is the European or common hamster of Eurasia.
+]] ]] ]] ]] Taxonomists generally disagree about the most appropriate placement of the subfamily Cricetinae within the superfamily Muroidea. Some place it in a family Cricetidae that also includes voles, lemmings, and New World rats and mice; others group all these into a large family called Muridae. Their evolutionary history is recorded by 15 extinct fossil genera and extends back 11.2 million to 16.4 million years to the Middle Miocene Epoch in Europe and North Africa; in Asia it extends 6 million to 11 million years. Four of the seven living genera include extinct species. One extinct hamster of _Cricetus_, for example, lived in North Africa during the Middle Miocene, but the only extant member of that genus is the European or common hamster of Eurasia.
 
 -   Subfamily CRICETINAE
     -   Genus _Allocricetulus_

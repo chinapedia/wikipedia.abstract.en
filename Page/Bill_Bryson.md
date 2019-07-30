@@ -12,7 +12,7 @@ Bryson attended Drake University for two years before dropping out in 1972, deci
 
 Move to the United Kingdom
 
-BillBryson02.JPG Bryson first visited Britain in 1973 during his tour of Europe[8] and decided to stay after landing a job working in a psychiatric hospital[9]—the now-defunct Holloway Sanatorium in Virginia Water, Surrey. He met a nurse there named Cynthia Billen, whom he married in 1975.[10] They moved to Bryson's hometown of Des Moines, Iowa, in 1975 so that Bryson could complete his college degree at Drake University. In 1977 they settled in Britain.[11]
+Bryson first visited Britain in 1973 during his tour of Europe[8] and decided to stay after landing a job working in a psychiatric hospital[9]—the now-defunct Holloway Sanatorium in Virginia Water, Surrey. He met a nurse there named Cynthia Billen, whom he married in 1975.[10] They moved to Bryson's hometown of Des Moines, Iowa, in 1975 so that Bryson could complete his college degree at Drake University. In 1977 they settled in Britain.[11]
 
 He worked as a journalist, firstly for the _Bournemouth Evening Echo_, eventually becoming chief copy editor of the business section of _The Times_ and deputy national news editor of the business section of _The Independent_. He left journalism in 1987, three years after the birth of his third child. Bryson started writing independently and in 1990 their fourth child, Samuel, was born.
 
@@ -41,7 +41,7 @@ In 2012 Bryson sued his agent, Jed Mattes Inc., in New York Country Supreme Cour
 
 Awards, positions and honours
 
-Bill_Bryson_Chancellor_crop.JPG, with Durham Cathedral in the background]]
+, with Durham Cathedral in the background]]
 
 In 2005 Bryson was appointed chancellor of Durham University,[25] succeeding the late Sir Peter Ustinov, and became more active with student activities than is common for holders of that post, even appearing in a Durham student film and promoting litter picks in the city.[26] He had praised Durham as "a perfect little city" in _Notes from a Small Island_. In October 2010, it was announced that Bryson would step down at the end of 2011.[27]
 
@@ -73,8 +73,6 @@ Honorary doctorates
 -   Honorary Doctorate, University of Leicester, 2009.[47]
 -   Doctor of Humane Letters, Drake University, 2009.[48]
 -   Honorary doctorate, King's College London, November 13, 2012. According to King's site, the award was relating to: "Bill Bryson OBE: the UK's highest-selling author of non-fiction, acclaimed as a science communicator, historian and man of letters."[49]
-
-BillBryson03.JPG
 
 -   Honorary Doctorate, University of Westminster, 2015.[50]
 -   Honorary Doctor of Humane Letters, University of Iowa, May 2016.[51]

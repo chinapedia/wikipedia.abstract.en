@@ -66,7 +66,7 @@ Another method for reducing DSN burdens is the Beacon Monitor experiment. During
 
 SDST
 
-MSL-SDST.jpg The Small Deep Space Transponder (SDST) is a compact and lightweight radio-communications system. Aside from using miniaturized components, the SDST is capable of communicating over the K_(a) band. Because this band is higher in frequency than bands currently in use by deep-space missions, the same amount of data can be sent by smaller equipment in space and on the ground. Conversely, existing DSN antennas can split time among more missions. At the time of launch, the DSN had a small number of K_(a) receivers installed on an experimental basis; K_(a) operations and missions are increasing.
+The Small Deep Space Transponder (SDST) is a compact and lightweight radio-communications system. Aside from using miniaturized components, the SDST is capable of communicating over the K_(a) band. Because this band is higher in frequency than bands currently in use by deep-space missions, the same amount of data can be sent by smaller equipment in space and on the ground. Conversely, existing DSN antennas can split time among more missions. At the time of launch, the DSN had a small number of K_(a) receivers installed on an experimental basis; K_(a) operations and missions are increasing.
 
 The SDST was later used on other space missions such as the Mars Science Laboratory (the Mars rover _Curiosity_).[17]
 
@@ -83,7 +83,7 @@ Both PEPE and MICAS were similar in capabilities to larger instruments or suites
 
 Mission overview
 
-Animation_of_Deep_Space_1_trajectory.gif}}{{·}}{{·}}]] 9969_Braille_-_PIA01345.png Comet_Borrelly_Nucleus.jpg
+}}{{·}}{{·}}]]
 
 Prior to launch, _Deep Space 1_ was intended to visit comet 76P/West–Kohoutek–Ikemura and asteroid 3352 McAuliffe.[18] Because of the delayed launch, the targets were changed to asteroid 9969 Braille (at the time called 1992 KD) and comet 107P/Wilson–Harrington.[19] It achieved an impaired flyby of Braille and, due to problems with the star tracker, was re-tasked to fly by comet 19P/Borrelly, which was successful.[20] An August 2002 flyby of asteroid as another extended mission was considered, but ultimately was not advanced due to cost concerns.[21][22] During the mission, high quality infrared spectra of Mars were also taken.[23][24]
 
@@ -119,7 +119,7 @@ During late October and early November 1999, during the spacecraft's post-Braill
 
 Current status
 
-Deep_Space_1_Launch.png _Deep Space 1_ succeeded in its primary and secondary objectives, returning valuable science data and images. DS1's ion engines were shut down on 18 December 2001 at approximately 20:00:00 UTC, signaling the end of the mission. On-board communications were commanded to remain active in case the craft is needed in the future. However, attempts to resume contact in March 2002 were unsuccessful.[32] It remains within the Solar System, orbiting the Sun.[33]
+_Deep Space 1_ succeeded in its primary and secondary objectives, returning valuable science data and images. DS1's ion engines were shut down on 18 December 2001 at approximately 20:00:00 UTC, signaling the end of the mission. On-board communications were commanded to remain active in case the craft is needed in the future. However, attempts to resume contact in March 2002 were unsuccessful.[32] It remains within the Solar System, orbiting the Sun.[33]
 
 
 Statistics

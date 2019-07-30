@@ -23,7 +23,7 @@ Its great distance and surprising activity indicated that comet Hale–Bopp migh
 
 Perihelion
 
-Comet-Hale-Bopp-29-03-1997_hires_adj.jpg Comet_Hale-Bopp_starmap_1997.png Hale–Bopp became visible to the naked eye in May 1996, and although its rate of brightening slowed considerably during the latter half of that year,[16] scientists were still cautiously optimistic that it would become very bright. It was too closely aligned with the Sun to be observable during December 1996, but when it reappeared in January 1997 it was already bright enough to be seen by anyone who looked for it, even from large cities with light-polluted skies.[17]
+Hale–Bopp became visible to the naked eye in May 1996, and although its rate of brightening slowed considerably during the latter half of that year,[16] scientists were still cautiously optimistic that it would become very bright. It was too closely aligned with the Sun to be observable during December 1996, but when it reappeared in January 1997 it was already bright enough to be seen by anyone who looked for it, even from large cities with light-polluted skies.[17]
 
 The Internet was a growing phenomenon at the time, and numerous websites that tracked the comet's progress and provided daily images from around the world became extremely popular. The Internet played a large role in encouraging the unprecedented public interest in comet Hale–Bopp.[18]
 
@@ -41,7 +41,7 @@ The comet continued to fade as it receded, but is still being tracked by astrono
 
 Orbital changes
 
-Hale-Bopp_orbit.svg Animation_of_Hale-Bopp_orbit.gif{{'s}} orbit from 1 January 1996 to 1 January 2002
+{{'s}} orbit from 1 January 1996 to 1 January 2002
 {{·}}{{·}}{{·}} {{·}}{{·}}]] The comet likely made its previous perihelion 4,200 years ago,[31] in July 2215 BCE.[32] The estimated closest approach to Earth was 1.4 AU, and it may have been observed in ancient Egypt during the 6th dynasty reign of the Pharaoh Pepi II (Reign: 2247 - c. 2216 BCE). Pepi's pyramid at Saqqara contains a text referring to an "nhh-star" as a companion of the pharaoh in the heavens, where "" is the hieroglyph for long hair.[33]
 
 Hale–Bopp may have had a near collision with Jupiter in early June 2215 BC, which probably caused a dramatic change in its orbit, and 2215 BC may have been its first passage through the inner Solar System.[34] The comet's current orbit is almost perpendicular to the plane of the ecliptic, so further close approaches to planets will be rare. However, in April 1996 the comet passed within 0.77 AU of Jupiter, close enough for its orbit to be measurably affected by the planet's gravity.[35] The comet's orbit was shortened considerably to a period of roughly 2,533 years,[36] and it will next return to the inner Solar System around the year 4385.[37] Its greatest distance from the Sun (aphelion) will be about 370 AU,[38] reduced from about 525 AU.[39][40]
@@ -59,7 +59,7 @@ Hale–Bopp showed the highest ever linear polarization detected for any comet. 
 
 Sodium tail
 
-Hale-Bopp_sodium_tail.gif One of the most remarkable discoveries was that the comet had a third type of tail. In addition to the well-known gas and dust tails, Hale–Bopp also exhibited a faint sodium tail, only visible with powerful instruments with dedicated filters. Sodium emission had been previously observed in other comets, but had not been shown to come from a tail. Hale–Bopp's sodium tail consisted of neutral atoms (not ions), and extended to some 50 million kilometres in length.[49]
+One of the most remarkable discoveries was that the comet had a third type of tail. In addition to the well-known gas and dust tails, Hale–Bopp also exhibited a faint sodium tail, only visible with powerful instruments with dedicated filters. Sodium emission had been previously observed in other comets, but had not been shown to come from a tail. Hale–Bopp's sodium tail consisted of neutral atoms (not ions), and extended to some 50 million kilometres in length.[49]
 
 The source of the sodium appeared to be the inner coma, although not necessarily the nucleus. There are several possible mechanisms for generating a source of sodium atoms, including collisions between dust grains surrounding the nucleus, and "sputtering" of sodium from dust grains by ultraviolet light. It is not yet established which mechanism is primarily responsible for creating Hale–Bopp's sodium tail, and the narrow[50] and diffuse[51] components of the tail may have different origins.[52]
 
@@ -81,7 +81,7 @@ Hale–Bopp was the first comet where the noble gas argon was detected.[57] Nobl
 
 Rotation
 
-Comet_Hale-Bopp_Death_Valley.jpg, Death Valley, USA]]
+, Death Valley, USA]]
 
 Comet Hale–Bopp's activity and outgassing were not spread uniformly over its nucleus, but instead came from several specific jets. Observations of the material streaming away from these jets[61] allowed astronomers to measure the rotation period of the comet, which was found to be about 11 hours 46 minutes.[62]
 
@@ -105,7 +105,7 @@ Nancy Lieder, a self-proclaimed contactee who claims to receive messages from al
 
 Legacy
 
-STS-83_Comet_Hale_Bopp.png during STS-83.]] ESO-Comet_Hale-Bopp-Phot-07a-01-hires.jpg]]Its lengthy period of visibility and extensive coverage in the media meant that Hale–Bopp was probably the most-observed comet in history, making a far greater impact on the general public than the return of Halley's Comet in 1986, and certainly seen by a greater number of people than witnessed any of Halley's previous appearances. For instance, 69% of Americans had seen Hale–Bopp by April 9, 1997.[77]
+during STS-83.]] ]]Its lengthy period of visibility and extensive coverage in the media meant that Hale–Bopp was probably the most-observed comet in history, making a far greater impact on the general public than the return of Halley's Comet in 1986, and certainly seen by a greater number of people than witnessed any of Halley's previous appearances. For instance, 69% of Americans had seen Hale–Bopp by April 9, 1997.[77]
 
 Hale–Bopp was a record-breaking comet—the farthest comet from the Sun discovered by amateurs,[78] with the largest well-measured cometary nucleus known after 95P/Chiron,[79] and it was visible to the naked eye for twice as long as the previous record-holder.[80] It was also brighter than magnitude 0 for eight weeks, longer than any other recorded comet.[81]
 

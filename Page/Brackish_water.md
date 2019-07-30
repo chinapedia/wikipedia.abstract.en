@@ -7,7 +7,7 @@ Brackish water habitats
 
 Estuaries
 
-Monodactylus_argenteus.JPG'']]
+'']]
 
 Brackish water condition commonly occurs when fresh water meets seawater. In fact, the most extensive brackish water habitats worldwide are estuaries, where a river meets the sea.
 
@@ -49,7 +49,7 @@ BRACKISH SEAS
 -   Baltic Sea
 -   Black Sea (the world's largest pool of brackish water)
 
-BRACKISH WATER LAKES Chilika_lake.png, India's largest lake, classified as a brackish water body]]
+BRACKISH WATER LAKES , India's largest lake, classified as a brackish water body]]
 
 -   Bras d'Or Lake, Cape Breton Island, Canada
 -   Caspian Sea (world's largest lake)

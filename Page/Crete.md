@@ -18,9 +18,9 @@ The original Arabic name of Crete was _Iqrīṭiš_ ( < , but after the Emirate 
 
 Physical geography
 
-Mount_Ida_chain_Messara_plain_from_Phaistos_Crete_Greece.jpg]] Vai_R05.jpg]]
+]] ]]
 
-Lefka_Ori.jpg]] Psiloritis3(js).jpg]]
+]] ]]
 
 Crete is the largest island in Greece and the fifth largest island in the Mediterranean Sea. It is located in the southern part of the Aegean Sea separating the Aegean from the Libyan Sea.
 
@@ -99,7 +99,7 @@ As in many regions of Greece, viticulture and olive groves are significant; oran
 
 Transport infrastructure
 
-Kreta_-_Europastraße75_2.jpg near Heraklion]]
+near Heraklion]]
 
 Airports
 
@@ -126,7 +126,7 @@ There are plans for underwater cables going from mainland Greece to Israel and E
 
 History
 
-AMI_-_Stierrhyton.jpg in the form of a bull, Heraklion Archaeological Museum]] Minoan_fresco_depicting_a_bull_leaping_scene,_found_in_Knossos,_1600-1400_BC,_Heraklion_Archaeological_Museum,_Crete_(30547636456).jpg, Heraklion Archaeological Museum]] Knossos_Westbastion_05.jpg]] In 2002, the paleontologist Gerard Gierlinski discovered fossil footprints left by ancient human relatives 5,600,000 years ago.[30]
+in the form of a bull, Heraklion Archaeological Museum]] , Heraklion Archaeological Museum]] ]] In 2002, the paleontologist Gerard Gierlinski discovered fossil footprints left by ancient human relatives 5,600,000 years ago.[30]
 
 Hominids settled in Crete at least 130,000 years ago. In the later Neolithic and Bronze Age periods, under the Minoans, Crete had a highly developed, literate civilisation. It has been ruled by various ancient Greek entities, the Roman Empire, the Byzantine Empire, the Emirate of Crete, the Republic of Venice and the Ottoman Empire. After a brief period of independence (1897–1913) under a provisional Cretan government, it joined the Kingdom of Greece. It was occupied by Nazi Germany during the Second World War.
 
@@ -160,13 +160,13 @@ Crete was involved in the Mithridatic Wars, initially repelling an attack by Rom
 
 Byzantine Empire – first period
 
-Crete_MoniArkadiou1_tango7174.jpg]]
+]]
 
 Crete was separated from Cyrenaica . It remained a province within the eastern half of the Roman Empire, usually referred to as the Eastern Roman (Byzantine) Empire after the establishment of a second capital in Constantinople by Constantine in 330. Crete was subjected to an attack by Vandals in 467, the great earthquakes of 365 and 415, a raid by Slavs in 623, Arab raids in 654 and the 670s, and again in the 8th century. In , the Emperor Leo III the Isaurian transferred the island from the jurisdiction of the Pope to that of the Patriarchate of Constantinople.[38]
 
 Arab rule
 
-The_Cretan_Saracens_defeat_the_Byzantines_under_Damianos.jpg (see Skylitzes Chronicle).]]
+(see Skylitzes Chronicle).]]
 
 In the 820s, after 900 years as a Roman, and then Eastern Roman (Byzantine) island, Crete was captured by Andalusian Muladis led by Abu Hafs,[39] who established the Emirate of Crete. The Byzantines launched a campaign that took most of the island back in 842 and 843 under Theoktistos. Further Byzantine campaigns in 911 and 949 failed. In 960/1, Nikephoros Phokas' campaign completely restored Crete to the Byzantine Empire, after a century and a half of Arab control.
 
@@ -178,7 +178,7 @@ In 1204, the Fourth Crusade seized and sacked the imperial capital of Constantin
 
 Venetian rule
 
-Frangokastello_R03.jpg was built by the Venetians in 1371–74]]
+was built by the Venetians in 1371–74]]
 
 From 1212, during Venice's rule, which lasted more than four centuries, a Renaissance swept through the island as is evident from the plethora of artistic works dating to that period. Known as The Cretan School or Post-Byzantine Art, it is among the last flowerings of the artistic traditions of the fallen empire. The most notable representatives of this Cretan renaissance were the painter El Greco and the writers Nicholas Kalliakis (1645–1707), Georgios Kalafatis (professor) (–1720), Andreas Musalus (–1721) and Vitsentzos Kornaros.[43][44][45]
 
@@ -186,7 +186,7 @@ Under the rule of the Catholic Venetians, the city of Candia was reputed to be t
 
 Ottoman rule
 
-Vue_du_siege_de_Candie_en_1669.jpg]] Crete_-_ethnic_map,_1861.jpg (blue) and Cretan Muslim/Turkish (red) ethnic makeup of the island in 1861]] Mosquée_Kara_Musa_Pasha.JPG mosque, Rethymno]]
+]] (blue) and Cretan Muslim/Turkish (red) ethnic makeup of the island in 1861]] mosque, Rethymno]]
 
 The Ottomans conquered Crete in 1669, after the siege of Candia. Many Greek Cretans fled to other regions of the Republic of Venice after the Ottoman–Venetian Wars, some even prospering such as the family of Simone Stratigo (c. 1733 – c. 1824) who migrated to Dalmatia from Crete in 1669.[49] Islamic presence on the island, aside from the interlude of the Arab occupation, was cemented by the Ottoman conquest. Most Cretan Muslims were local Greek converts who spoke Cretan Greek, but in the island's 19th-century political context they came to be viewed by the Christian population as Turks.[50] Contemporary estimates vary, but on the eve of the Greek War of Independence (1830), as much as 45% of the population of the island may have been Muslim.[51] A number of Sufi orders were widespread throughout the island, the Bektashi order being the most prevalent, possessing at least five tekkes. Many among them were crypto-Christians who converted back to Christianity in subsequent years, while many Cretan Turks fled Crete because of the unrest, settling in Turkey, Rhodes, Syria, Libya and elsewhere. By 1900, 11% of the population was Muslim. Those remaining were relocated in the 1924 Population exchange between Greece and Turkey.[52]
 
@@ -200,13 +200,11 @@ The Cretan Revolt of 1866–1869 or Great Cretan Revolution () was a three-year 
 
 Cretan State 1898–1908
 
-Revolutionnaires_therissos.jpg]]
+]]
 
 Following the repeated uprisings in 1841, 1858, 1889, 1895 and 1897 by the Cretan people, who wanted to join Greece, the Great Powers decided to restore order and in February 1897 sent in troops. The island was subsequently garrisoned by troops from Great Britain, France, Italy and Russia; Germany and Austro-Hungary withdrawing from the occupation in early 1898. During this period Crete was governed through a committee of admirals from the remaining four Powers. In March 1898 the Powers decreed, with the very reluctant consent of the Sultan, that the island would be granted autonomy under Ottoman suzerainty in the near future.[55]
 
 In September 1898 an outbreak of rioting in Candia, modern Heraklion, left over 500 Cretan Christians, and 14 British servicemen, dead. As a result, the Admirals ordered the expulsion of all Ottoman troops and administrators from the island, a move that was ultimately completed by early November. The decision to grant autonomy to the island was enforced and a High Commissioner, Prince George of Greece, appointed, arriving to take up his post in December 1898.[56] The flag of the Cretan State was chosen by the Powers, with the white star representing the Ottoman suzenraity over the island.
-
-Flag_of_Cretan_State.svg
 
 In 1905, disagreements between Prince George and minister Eleftherios Venizelos over the question of the _enosis_ (union with Greece), such as the Prince's autocratic style of government, resulted in the Theriso revolt, one of leaders of which being Eleftherios Venizelos.
 
@@ -216,7 +214,7 @@ With the break out of the First Balkan War, the Greek government declared that C
 
 Second World War
 
-Bundesarchiv_Bild_141-0864,_Kreta,_Landung_von_Fallschirmjägern.jpg]]
+]]
 
 During World War II, the island was the scene of the famous Battle of Crete in May 1941. The initial 11-day battle was bloody and left more than 11,000 soldiers and civilians killed or wounded. As a result of the fierce resistance from both Allied forces and civilian Cretan locals, the invasion force suffered heavy casualties, and Adolf Hitler forbade further large-scale paratroop operations for the rest of the war. During the initial and subsequent occupation, German firing squads routinely executed male civilians in reprisal for the death of German soldiers; civilians were rounded up randomly in local villages for the mass killings, such as at the Massacre of Kondomari and the Viannos massacres. Two German generals were later tried and executed for their roles in the killing of 3,000 of the island's inhabitants.[58]
 
@@ -225,7 +223,7 @@ There is also a video documentary of Crete in World War II titled The 11th Day: 
 
 Tourism
 
-Kreta-Matala07.jpg beach]]
+beach]]
 
 Crete was one of the most popular holiday destinations in Greece. 15% of all arrivals in Greece come through the city of Heraklion (port and airport), while charter journeys to Heraklion seven years ago made up 20% of all charter flights in Greece. Overall, more than two million tourists visited Crete some years back, when the increase in tourism was reflected in the number of hotel beds, rising by 53% in the period between 1986 and 1991.
 
@@ -315,7 +313,7 @@ There are a number of environmentally protected areas. One such area is located 
 
 Mythology
 
-Zeushoehle.jpg"]]
+"]]
 
 Crete has a rich mythology mostly connected with the ancient Greek Gods but also connected with the Minoan civilisation.
 
@@ -343,7 +341,7 @@ Crete has many football clubs playing in the local leagues. During the 2011–12
 
 Notable people
 
-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg]] Venizelos--lifeofvenizelosw00chesuoft.png]]
+]] ]]
 
 Notable people from Crete include:
 

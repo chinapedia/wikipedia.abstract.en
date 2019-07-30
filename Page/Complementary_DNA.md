@@ -1,4 +1,4 @@
-Cdnaarray.jpg used in testing]]
+used in testing]]
 
 In genetics, COMPLEMENTARY DNA (CDNA) is DNA synthesized from a single-stranded RNA (e.g., messenger RNA (mRNA) or microRNA) template in a reaction catalyzed by the enzyme reverse transcriptase. cDNA is often used to clone eukaryotic genes in prokaryotes. When scientists want to express a specific protein in a cell that does not normally express that protein (i.e., heterologous expression), they will transfer the cDNA that codes for the protein to the recipient cell. cDNA is also produced naturally by retroviruses (such as HIV-1, HIV-2, simian immunodeficiency virus, etc.) and then integrated into the host's genome, where it creates a provirus.[1]
 

@@ -1,4 +1,4 @@
-OTVbelweder-front.jpg ANALOG TELEVISION or ANALOGUE TELEVISION is the original television technology that uses analog signals to transmit video and audio.[1] In an analog television broadcast, the brightness, colors and sound are represented by rapid variations of either the amplitude, frequency or phase of the signal.
+ANALOG TELEVISION or ANALOGUE TELEVISION is the original television technology that uses analog signals to transmit video and audio.[1] In an analog television broadcast, the brightness, colors and sound are represented by rapid variations of either the amplitude, frequency or phase of the signal.
 
 Analog signals vary over a continuous range of possible values which means that electronic noise and interference becomes reproduced by the receiver. Thus with analog, a moderately weak signal becomes snowy and subject to interference. In contrast, a moderately weak digital signal and a very strong digital signal transmit equal picture quality. Analog television may be wireless (terrestrial television and satellite television) or can be distributed over a cable network using cable converters (cable television).
 
@@ -41,13 +41,9 @@ A cathode-ray tube (CRT) television displays an image by scanning a beam of elec
 
 Raster scanning is shown in a slightly simplified form below.
 
-Raster-scan.svg
-
 When analog television was developed, no affordable technology for storing any video signals existed; the luminance signal has to be generated and transmitted at the same time at which it is displayed on the CRT. It is therefore essential to keep the raster scanning in the camera (or other device for producing the signal) in exact synchronization with the scanning in the television.
 
 The physics of the CRT require that a finite time interval be allowed for the spot to move back to the start of the next line (_horizontal retrace_) or the start of the screen (_vertical retrace_). The timing of the luminance signal must allow for this.
-
-TV_screen_close-up.jpg
 
 The human eye has a characteristic called Phi phenomenon. Quickly displaying successive scan images will allow the apparent illusion of smooth motion. Flickering of the image can be partially solved using a long persistence phosphor coating on the CRT, so that successive images fade slowly. However, slow phosphor has the negative side-effect of causing image smearing and blurring when there is a large amount of rapid on-screen motion occurring.
 
@@ -76,11 +72,9 @@ Structure of a video signal
 
 The video carrier is demodulated to give a composite video signal; this contains luminance, chrominance and synchronization signals;[5] this is identical to the video signal format used by analog video devices such as VCRs or CCTV cameras. Note that the RF signal modulation is inverted compared to the conventional AM: the minimum video signal level corresponds to maximum carrier amplitude, and vice versa. To ensure good linearity (fidelity), consistent with affordable manufacturing costs of transmitters and receivers, the video carrier is never shut off altogether. When intercarrier sound was invented later in 1948, not completely shutting off the carrier had the side effect of allowing intercarrier sound to be economically implemented.
 
-Video-line.svg
-
 Each line of the displayed image is transmitted using a signal as shown above. The same basic format (with minor differences mainly related to timing and the encoding of color) is used for PAL, NTSC and SECAM television systems. A monochrome signal is identical to a color one, with the exception that the elements shown in color in the diagram (the color burst, and the chrominance signal) are not present.
 
-Videosignal_porch.jpg, front porch, horizontal sync pulse, back porch with color burst, and beginning of next line]] The _front porch_ is a brief (about 1.5 microsecond) period inserted between the end of each transmitted line of picture and the leading edge of the next line sync pulse. Its purpose was to allow voltage levels to stabilise in older televisions, preventing interference between picture lines. The _front porch_ is the first component of the horizontal blanking interval which also contains the horizontal sync pulse and the _back porch_.[6][7]
+, front porch, horizontal sync pulse, back porch with color burst, and beginning of next line]] The _front porch_ is a brief (about 1.5 microsecond) period inserted between the end of each transmitted line of picture and the leading edge of the next line sync pulse. Its purpose was to allow voltage levels to stabilise in older televisions, preventing interference between picture lines. The _front porch_ is the first component of the horizontal blanking interval which also contains the horizontal sync pulse and the _back porch_.[6][7]
 
 The _back porch_ is the portion of each scan line between the end (rising edge) of the horizontal sync pulse and the start of active video. It is used to restore the black level (300 mV) reference in analog video. In signal processing terms, it compensates for the fall time and settling time following the sync pulse.[8][9]
 
@@ -96,7 +90,7 @@ In a monochrome receiver the luminance signal is amplified to drive the control 
 
 Color video signal extraction
 
-Burnt-in_timecode.jpg A color signal conveys picture information for each of the red, green, and blue components of an image (see the article on color space for more information). However, these are not simply transmitted as three separate signals, because: such a signal would not be compatible with monochrome receivers (an important consideration when color broadcasting was first introduced). It would also occupy three times the bandwidth of existing television, requiring a decrease in the number of television channels available. Furthermore, typical problems with signal transmission (such as differing received signal levels between different colors) would produce unpleasant side effects.
+A color signal conveys picture information for each of the red, green, and blue components of an image (see the article on color space for more information). However, these are not simply transmitted as three separate signals, because: such a signal would not be compatible with monochrome receivers (an important consideration when color broadcasting was first introduced). It would also occupy three times the bandwidth of existing television, requiring a decrease in the number of television channels available. Furthermore, typical problems with signal transmission (such as differing received signal levels between different colors) would produce unpleasant side effects.
 
 Instead, the RGB signals are converted into YUV form, where the Y signal represents the lightness and darkness (luminance) of the colors in the image. Because the rendering of colors in this way is the goal of both black and white (monochrome) film and black and white (monochrome) television systems, the Y signal is ideal for transmission as the luminance signal. This ensures a monochrome receiver will display a correct picture in black and white, where a given color is reproduced by a shade of gray that correctly reflects how light or dark the original color is.
 
@@ -107,8 +101,6 @@ In the receiver, a single demodulator can extract an additive combination of U p
 In the end, further matrixing of the above color-difference signals c through f yielded the three color-difference signals, (R-Y), (B-Y), and (G-Y).
 
 The R,G,B signals in the receiver needed for the display device (CRT, Plasma display or LCD display) are electronically derived by matrixing as follows: R is the additive combination of (R-Y) with Y, G is the additive combination of (G-Y) with Y, and B is the additive combination of (B-Y) with Y. All of this is accomplished electronically. It can be seen that in the combining process, the low resolution portion of the Y signals cancel out, leaving R,G, and B signals able to render a low-resolution image in full color. However, the higher resolution portions of the Y signals do not cancel out, and so are equally present in R, G, and B, producing the higher definition (higher resolution) image detail in monochrome, although it appears to the human eye as a full-color and full resolution picture.
-
-Waveform_monitor.jpg
 
 In the NTSC and PAL color systems, U and V are transmitted by using quadrature amplitude modulation of a subcarrier. This kind of modulation applies two independent signals to one subcarrier, with the idea that both signals will be recovered independently at the receive end. Before transmission, the subcarrier itself, is removed from the active (visible) portion of the video, and moved, in the form of a burst, to the horizontal blanking portion, which is not directly visible on screen. (More about the burst below.)
 
@@ -134,7 +126,7 @@ Gating at any other time than those times mentioned above will yield an additive
 
 The above process uses the subcarrier. But as previously mentioned, it was deleted before transmission, and only the chroma is transmitted. Therefore, the receiver must reconstitute the subcarrier. For this purpose, a short burst of subcarrier, known as the color burst, is transmitted during the back porch (re-trace blanking period) of each scan line. A subcarrier oscillator in the receiver locks onto this signal (see phase-locked loop) to achieve a phase reference, resulting in the oscillator producing the reconstituted subcarrier.
 
-(A second use of the burst in more expensive or newer receiver models is a reference to an AGC system to compensate for chroma gain imperfections in reception.) Hanoverbars_without_PAL_delay.png showing "Hanover bars" (color banding phase effect) in Pal S (simple) signal mode of transmission.]]
+(A second use of the burst in more expensive or newer receiver models is a reference to an AGC system to compensate for chroma gain imperfections in reception.) showing "Hanover bars" (color banding phase effect) in Pal S (simple) signal mode of transmission.]]
 
 NTSC uses this process unmodified. Unfortunately, this often results in poor color reproduction due to phase errors in the received signal, caused sometimes by multipath, but mostly by poor implementation at the studio end. With the advent of solid state receivers, cable TV, and digital studio equipment for conversion to an over-the-air analog signal, these NTSC problems have been largely fixed, leaving operator error at the studio end as the sole color rendition weakness of the NTSC system. In any case, the PAL D (delay) system mostly corrects these kind of errors by reversing the phase of the signal on each successive line, and the averaging the results over pairs of lines. This process is achieved by the use of a 1H (where H = horizontal scan frequency) duration delay line. (A typical circuit used with this device converts the low frequency color signal to ultrasound and back again). Phase shift errors between successive lines are therefore cancelled out and the wanted signal amplitude is increased when the two in-phase (coincident) signals are re-combined.
 
@@ -214,8 +206,6 @@ Components of a television system
 
 A typical analog monochrome television receiver is based around the block diagram shown below:
 
-TV-block-diagram.svg
-
 The tuner is the object which "plucks" the television signals out of the air, with the aid of an antenna. There are two types of tuners in analog television, VHF and UHF tuners. The VHF tuner selects the VHF television frequency. This consists of a 4MHz video bandwidth and a 2MHz audio bandwidth. It then amplifies the signal and converts it to a 45.75MHz Intermediate Frequency (IF) amplitude-modulated picture and a 41.25MHz IF frequency-modulated audio carrier.
 
 The IF amplifiers are centered @ 44MHz for optimal frequency transference of the audio and frequency carriers. What centers this frequency is the IF transformer. They are designed for a certain amount of bandwidth to encompass the audio and video. It depends on the amount of stages (the amplifier between the transformers). Most of the early television sets (1939-45) used 4 stages with specially designed video amplifier tubes (the type 1852/6AC7). In 1946 the RCA presented a new innovation in television; the RCA 630TS. Instead of using the 1852 octal tube, it use the 6AG5 7-pin miniature tube. It still had 4 stages, but it was 1/2 the size. Soon all of the manufactures followed RCA and designed better IF stages. They developed higher amplification tubes, and lower stage counts with more amplification. When the tube era came to an end in the mid-70s, they had shrunk the IF stages down to 1-2 (depending on the set) and with a same amplification as the 4 stage, 1852 tube sets. Like radio, television has Automatic Gain Control (AGC). This controls the gain of the IF amplifier stages and the tuner. More of this will be discussed below.
@@ -232,7 +222,7 @@ The oscillator amplifier is sorted into two categories. The vertical amplifier d
 
 Sync separator
 
-Videosignal_porch.jpg videosignal. From left to right: end of a video line, front porch, horizontal sync pulse, back porch with color burst, and beginning of next line]] Videosignal_vsync.jpg Videosignal_frame.jpg
+videosignal. From left to right: end of a video line, front porch, horizontal sync pulse, back porch with color burst, and beginning of next line]]
 
 Image synchronization is achieved by transmitting negative-going pulses; in a composite video signal of 1 volt amplitude, these are approximately 0.3 V below the "black level". The _horizontal sync_ signal is a single short pulse which indicates the start of every line. Two timing intervals are defined – the _front porch_ between the end of displayed video and the start of the sync pulse, and the _back porch_ after the sync pulse and before displayed video. These and the sync pulse itself are called the _horizontal blanking_ (or _retrace_) _interval_ and represent the time that the electron beam in the CRT is returning to the start of the next display line.
 

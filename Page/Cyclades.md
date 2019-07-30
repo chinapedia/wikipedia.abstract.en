@@ -3,15 +3,13 @@ The CYCLADES (; ) are an island group in the Aegean Sea, southeast of mainland G
 
 History
 
-Harp_player,_Cycladic_civilization_-_Greece.JPG
-
 The significant Late Neolithic and Early Bronze Age Cycladic culture is best known for its schematic, flat idols carved out of the islands' pure white marble centuries before the great Middle Bronze Age Minoan civilization arose in Crete to the south. (These figures have been looted from burials to satisfy a thriving Cycladic antiquities market since the early 20th century.)
 
 A distinctive Neolithic culture amalgamating Anatolian and mainland Greek elements arose in the western Aegean before 4000 BCE, based on emmer and wild-type barley, sheep and goats, pigs, and tuna that were apparently speared from small boats (Rutter). Excavated sites include Saliagos and Kephala (on Kea) with signs of copperworking, Each of the small Cycladic islands could support no more than a few thousand people, though Late Cycladic boat models show that fifty oarsmen could be assembled from the scattered communities (Rutter), and when the highly organized palace-culture of Crete arose, the islands faded into insignificance, with the exception of Delos, which retained its archaic reputation as a sanctuary throughout antiquity and until the emergence of Christianity.
 
 Archaeology
 
-Ancient_Greek_theatre_in_Delos_01.jpg]]
+]]
 
 The first archaeological excavations of the 1880s were followed by systematic work by the British School at Athens and by Christos Tsountas, who investigated burial sites on several islands in 1898–1899 and coined the term "Cycladic civilization". Interest lagged, then picked up in the mid-20th century, as collectors competed for the modern-looking figures that seemed so similar to sculpture by Jean Arp or Constantin Brâncuși. Sites were looted and a brisk trade in forgeries arose. The context for many of these Cycladic figurines has been mostly destroyed and their meaning may never be completely understood.
 
@@ -22,7 +20,7 @@ In recent decades the Cyclades have become popular with European and other touri
 
 Geography
 
-Aegean_Sea_with_island_groups_labeled.gif]] Syros_ermoupolis_140707.jpg, capital of the Cyclades. Syros]] Ia_Santorini-2009-1.JPG]] Mykonos_City.jpg town]] City_of_Naxos.jpg]] Fole_abhang.jpg]] Chora_Milos.jpg]] Vraka_Aegean_Islands_Greek_Costume.JPG) in the dress of the Aegean islands]]
+]] , capital of the Cyclades. Syros]] ]] town]] ]] ]] ]] ) in the dress of the Aegean islands]]
 
 The Cyclades comprise about 220 islands, the major ones being Amorgos, Anafi, Andros, Antiparos, Delos, Ios, Kea, Kimolos, Kythnos, Milos, Mykonos, Naxos, Paros, Folegandros, Serifos, Sifnos, Sikinos, Syros, Tinos, and Thira or Santoríni. There are also many minor islands including Donousa, Eschati, Gyaros, Irakleia, Koufonisia, Makronisos, Rineia, and Schoinousa. The name "Cyclades" refers to the islands forming a circle ("circular islands") around the sacred island of Delos. Most of the smaller islands are uninhabited.
 

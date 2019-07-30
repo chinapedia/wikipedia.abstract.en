@@ -21,7 +21,7 @@ According to the Austin Hockey Association, the word "puck" derives from the Sco
 
 Precursors
 
-Jan_Josefsz._van_Goyen_-_A_Scene_on_the_Ice_-_Google_Art_Project.jpg from the 16th century]] Avercamp-ijsvermaak.png, the 17th-century Dutch painter)|alt=Many people on the ice, doing different things.]] Stick-and-ball games date back to pre-Christian times. In Europe, these games included the Irish game of hurling, the closely related Scottish game of shinty and versions of field hockey (including bandy ball, played in England). IJscolf, a game resembling colf on an ice-covered surface, was popular in the Low Countries between the Middle Ages and the Dutch Golden Age. It was played with a wooden curved bat (called a _colf_ or _kolf_), a wooden or leather ball and two poles (or nearby landmarks), with the objective to hit the chosen point using the least number of strokes. A similar game (_knattleikr_) had been played for a thousand years or more by the Scandinavian peoples, as documented in the Icelandic sagas. Polo has been referred to as "hockey on horseback".[16] In England, field hockey developed in the late 17th century, and there is evidence that some games of field hockey took place on the ice.[17] These games of "hockey on ice" were sometimes played with a bung (a plug of cork or oak used as a stopper on a barrel). William Pierre Le Cocq stated, in a 1799 letter written in Chesham, England:
+from the 16th century]] , the 17th-century Dutch painter)|alt=Many people on the ice, doing different things.]] Stick-and-ball games date back to pre-Christian times. In Europe, these games included the Irish game of hurling, the closely related Scottish game of shinty and versions of field hockey (including bandy ball, played in England). IJscolf, a game resembling colf on an ice-covered surface, was popular in the Low Countries between the Middle Ages and the Dutch Golden Age. It was played with a wooden curved bat (called a _colf_ or _kolf_), a wooden or leather ball and two poles (or nearby landmarks), with the objective to hit the chosen point using the least number of strokes. A similar game (_knattleikr_) had been played for a thousand years or more by the Scandinavian peoples, as documented in the Icelandic sagas. Polo has been referred to as "hockey on horseback".[16] In England, field hockey developed in the late 17th century, and there is evidence that some games of field hockey took place on the ice.[17] These games of "hockey on ice" were sometimes played with a bung (a plug of cork or oak used as a stopper on a barrel). William Pierre Le Cocq stated, in a 1799 letter written in Chesham, England:
 
   I must now describe to you the game of Hockey; we have each a stick turning up at the end. We get a bung. There are two sides one of them knocks one way and the other side the other way. If any one of the sides makes the bung reach that end of the churchyard it is victorious.[18]
 
@@ -31,7 +31,7 @@ British soldiers and immigrants to Canada and the United States brought their st
 
 In the same era, the Mi'kmaq, a First Nations people of the Canadian Maritimes, also had a stick-and-ball game. Canadian oral histories describe a traditional stick-and-ball game played by the Mi'kmaq, and Silas Tertius Rand (in his 1894 _Legends of the Micmacs_) describes a Mi'kmaq ball game known as _tooadijik_. Rand also describes a game played (probably after European contact) with hurleys, known as _wolchamaadijik_.[23] Sticks made by the Mi'kmaq were used by the British for their games.
 
-Good_old_days_of_ice_hockey.png'', 1899|alt=Cartoon drawing of hockey game and people falling through the ice]]
+'', 1899|alt=Cartoon drawing of hockey game and people falling through the ice]]
 
 Early 19th-century paintings depict shinney (or "shinny"), an early form of hockey with no standard rules which was played in Nova Scotia.[24] Many of these early games absorbed the physical aggression of what the Onondaga called _dehuntshigwa'es_ (lacrosse).[25] Shinney was played on the St. Lawrence River at Montreal and Quebec City, and in Kingston[26] and Ottawa. The number of players was often large. To this day, shinney (derived from "shinty") is a popular Canadian[27] term for an informal type of hockey, either ice or street hockey.
 
@@ -39,15 +39,13 @@ Thomas Chandler Haliburton, in _The Attache: Second Series_ (published in 1844) 
 
 Initial development
 
-Early_indoor_ice_rink.jpg McGill_hockey_match.jpg
-
 While the game's origins lie elsewhere, Montreal is at the centre of the development of the sport of contemporary ice hockey, and is recognized as the birthplace of organized ice hockey.[32] On March 3, 1875, the first organized indoor game was played at Montreal's Victoria Skating Rink between two nine-player teams, including James Creighton and several McGill University students. Instead of a ball or bung, the game featured a "flat circular piece of wood"[33] (to keep it in the rink and to protect spectators). The goal posts were apart[34] (today's goals are six feet wide).
 
 In 1876, games played in Montreal were "conducted under the 'Hockey Association' rules";[35] the Hockey Association was England's field hockey organization. In 1877, _The Gazette_ (Montreal) published a list of seven rules, six of which were largely based on six of the Hockey Association's twelve rules, with only minor differences (even the word "ball" was kept); the one added rule explained how disputes should be settled.[36] The McGill University Hockey Club, the first ice hockey club, was founded in 1877[37] (followed by the Quebec Hockey Club in 1878 and the Montreal Victorias in 1881). In 1880, the number of players per side was reduced from nine to seven.[38]
 
 The number of teams grew, enough to hold the first "world championship" of ice hockey at Montreal's annual Winter Carnival in 1883. The McGill team won the tournament and was awarded the Carnival Cup.[39] The game was divided into thirty-minute halves. The positions were now named: left and right wing, centre, rover, point and cover-point, and goaltender. In 1886, the teams competing at the Winter Carnival organized the Amateur Hockey Association of Canada (AHAC), and played a season comprising "challenges" to the existing champion.[40]
 
-Hhof_vault.jpg in the Hockey Hall of Fame|alt=Trophy bowl and base in glass case]] In Europe, it is believed that in 1885 the Oxford University Ice Hockey Club was formed to play the first Ice Hockey Varsity Match against traditional rival Cambridge in St. Moritz, Switzerland; however, this is undocumented. The match was won by the Oxford Dark Blues, 6–0;[41][42] the first photographs and team lists date from 1895.[43] This rivalry continues, claiming to be the oldest hockey rivalry in history; a similar claim is made about the rivalry between Queen's University and Royal Military College of Kingston, Ontario. Since 1986, considered the 100th anniversary of the rivalry, teams of the two colleges play for the Carr-Harris Cup.[44]
+in the Hockey Hall of Fame|alt=Trophy bowl and base in glass case]] In Europe, it is believed that in 1885 the Oxford University Ice Hockey Club was formed to play the first Ice Hockey Varsity Match against traditional rival Cambridge in St. Moritz, Switzerland; however, this is undocumented. The match was won by the Oxford Dark Blues, 6–0;[41][42] the first photographs and team lists date from 1895.[43] This rivalry continues, claiming to be the oldest hockey rivalry in history; a similar claim is made about the rivalry between Queen's University and Royal Military College of Kingston, Ontario. Since 1986, considered the 100th anniversary of the rivalry, teams of the two colleges play for the Carr-Harris Cup.[44]
 
 In 1888, the Governor General of Canada, Lord Stanley of Preston (whose sons and daughter were hockey enthusiasts), first attended the Montreal Winter Carnival tournament and was impressed with the game. In 1892, realizing that there was no recognition for the best team in Canada (although a number of leagues had championship trophies), he purchased a silver bowl for use as a trophy. The Dominion Hockey Challenge Cup (which later became known as the Stanley Cup) was first awarded in 1893 to the Montreal Hockey Club, champions of the AHAC; it continues to be awarded annually to the National Hockey League's championship team.[45] Stanley's son Arthur helped organize the Ontario Hockey Association, and Stanley's daughter Isobel was one of the first women to play ice hockey.
 
@@ -55,15 +53,15 @@ By 1893, there were almost a hundred teams in Montreal alone; in addition, there
 
 In the United States, ice polo, played with a ball rather than a puck, was popular during this period; however, by 1893 Yale University and Johns Hopkins University held their first ice hockey matches.[47] American financier Malcolm Greene Chace is credited with being the father of hockey in the United States.[48] In 1892, as an amateur tennis player, Chace visited Niagara Falls, New York for a tennis match, where he met some Canadian hockey players. Soon afterwards, Chace put together a team of men from Yale, Brown, and Harvard, and toured across Canada as captain of this team.[49] The first collegiate hockey match in the United States was played between Yale University and Johns Hopkins in Baltimore. Yale, led by captain Chace, beat Hopkins, 2–1.[50] In 1896, the first ice hockey league in the US was formed. The US Amateur Hockey League was founded in New York City, shortly after the opening of the artificial-ice St. Nicholas Rink.
 
-Silver7.jpg), 1905 Stanley Cup champions|alt=Team in uniform, wearing horizontally striped sweaters]] Lord Stanley's five sons were instrumental in bringing ice hockey to Europe, defeating a court team (which included the future Edward VII and George V) at Buckingham Palace in 1895.[51] By 1903, a five-team league had been founded. The _Ligue Internationale de Hockey sur Glace_ was founded in 1908 to govern international competition, and the first European championship was won by Great Britain in 1910. The sport grew further in Europe in the 1920s, after ice hockey became an Olympic sport. Many bandy players switched to hockey so as to be able to compete in the Olympics.[52][53] Bandy remained popular in the Soviet Union, which only started its ice hockey program in the 1950s. In the mid-20th century, the _Ligue_ became the International Ice Hockey Federation.[54]
+), 1905 Stanley Cup champions|alt=Team in uniform, wearing horizontally striped sweaters]] Lord Stanley's five sons were instrumental in bringing ice hockey to Europe, defeating a court team (which included the future Edward VII and George V) at Buckingham Palace in 1895.[51] By 1903, a five-team league had been founded. The _Ligue Internationale de Hockey sur Glace_ was founded in 1908 to govern international competition, and the first European championship was won by Great Britain in 1910. The sport grew further in Europe in the 1920s, after ice hockey became an Olympic sport. Many bandy players switched to hockey so as to be able to compete in the Olympics.[52][53] Bandy remained popular in the Soviet Union, which only started its ice hockey program in the 1950s. In the mid-20th century, the _Ligue_ became the International Ice Hockey Federation.[54]
 
-MatthewsArena2.jpg in Boston, in use since 1910]] As the popularity of ice hockey as a spectator sport grew, earlier rinks were replaced by larger rinks. Most of the early indoor ice rinks have been demolished; Montreal's Victoria Rink, built in 1862, was demolished in 1925.[55] Many older rinks succumbed to fire, such as Denman Arena, Dey's Arena, Quebec Skating Rink and Montreal Arena, a hazard of the buildings' wood construction. The Stannus Street Rink in Windsor, Nova Scotia (built in 1897) may be the oldest still in existence; however, it is no longer used for hockey. The Aberdeen Pavilion (built in 1898) in Ottawa was used for hockey in 1904 and is the oldest existing facility that has hosted Stanley Cup games.
+in Boston, in use since 1910]] As the popularity of ice hockey as a spectator sport grew, earlier rinks were replaced by larger rinks. Most of the early indoor ice rinks have been demolished; Montreal's Victoria Rink, built in 1862, was demolished in 1925.[55] Many older rinks succumbed to fire, such as Denman Arena, Dey's Arena, Quebec Skating Rink and Montreal Arena, a hazard of the buildings' wood construction. The Stannus Street Rink in Windsor, Nova Scotia (built in 1897) may be the oldest still in existence; however, it is no longer used for hockey. The Aberdeen Pavilion (built in 1898) in Ottawa was used for hockey in 1904 and is the oldest existing facility that has hosted Stanley Cup games.
 
 The oldest indoor ice hockey arena still in use today for hockey is Boston's Matthews Arena, which was built in 1910. It has been modified extensively several times in its history and is used today by Northeastern University for hockey and other sports. It was the original home rink of the Boston Bruins professional team,[56] itself the oldest United States-based team in the NHL, starting play in the league in today's Matthews Arena on December 1, 1924. Madison Square Garden in New York City, built in 1968, is the oldest continuously-operating arena in the NHL.[57]
 
 Professional era
 
-Ice_hockey_1922.jpg is at right front|alt=A young Lester Pearson waiting for a pass in an outdoor game]] Professional hockey has existed since the early 20th century. By 1902, the Western Pennsylvania Hockey League was the first to employ professionals. The league joined with teams in Michigan and Ontario to form the first fully professional league—the International Professional Hockey League (IPHL)—in 1904. The WPHL and IPHL hired players from Canada; in response, Canadian leagues began to pay players (who played with amateurs). The IPHL, cut off from its largest source of players, disbanded in 1907. By then, several professional hockey leagues were operating in Canada (with leagues in Manitoba, Ontario and Quebec).
+is at right front|alt=A young Lester Pearson waiting for a pass in an outdoor game]] Professional hockey has existed since the early 20th century. By 1902, the Western Pennsylvania Hockey League was the first to employ professionals. The league joined with teams in Michigan and Ontario to form the first fully professional league—the International Professional Hockey League (IPHL)—in 1904. The WPHL and IPHL hired players from Canada; in response, Canadian leagues began to pay players (who played with amateurs). The IPHL, cut off from its largest source of players, disbanded in 1907. By then, several professional hockey leagues were operating in Canada (with leagues in Manitoba, Ontario and Quebec).
 
 In 1910, the National Hockey Association (NHA) was formed in Montreal. The NHA would further refine the rules: dropping the rover position, dividing the game into three 20-minute periods and introducing minor and major penalties. After re-organizing as the National Hockey League in 1917, the league expanded into the United States, starting with the Boston Bruins in 1924.
 
@@ -71,8 +69,6 @@ Professional hockey leagues developed later in Europe, but amateur leagues leadi
 
 
 Game
-
-Staples_Center_panoramic.jpg Icehockeylayout.svg
 
 While the general characteristics of the game stay the same wherever it is played, the exact rules depend on the particular code of play being used. The two most important codes are those of the IIHF[58] and the NHL.[59] Both of the codes, and others, originated from Canadian rules of ice hockey of the early 20th Century.
 
@@ -104,7 +100,7 @@ The overtime mode for the NHL playoffs differ from the regular season. In the pl
 
 Penalties
 
-Hockeyfight.JPG, seen here in a match between Ottawa and Sudbury of the Ontario Hockey League.]]
+, seen here in a match between Ottawa and Sudbury of the Ontario Hockey League.]]
 
 In ice hockey, infractions of the rules lead to play stoppages whereby the play is restarted at a face off. Some infractions result in the imposition of a _penalty_ to a player or team. In the simplest case, the offending player is sent to the _penalty box_ and their team has to play with one less player on the ice for a designated amount of time. _Minor_ penalties last for two minutes, _major_ penalties last for five minutes, and a _double minor_ penalty is two _consecutive_ penalties of two minutes duration. A single minor penalty may be extended by a further two minutes for causing visible injury to the victimized player. This is usually when blood is drawn during high sticking. Players may be also assessed personal extended penalties or game expulsions for misconduct in addition to the penalty or penalties their team must serve. The team that has been given a penalty is said to be playing _short-handed_ while the opposing team is on a _power play_.
 
@@ -114,7 +110,7 @@ Some varieties of penalties do not always require the offending team to play a m
 
 A penalty shot is awarded to a player when the illegal actions of another player stop a clear scoring opportunity, most commonly when the player is on a breakaway. A penalty shot allows the obstructed player to pick up the puck on the centre red-line and attempt to score on the goalie with no other players on the ice, to compensate for the earlier missed scoring opportunity. A penalty shot is also awarded for a defender other than the goaltender covering the puck in the goal crease, a goaltender intentionally displacing his own goal posts during a breakaway to avoid a goal, a defender intentionally displacing his own goal posts when there is less than two minutes to play in regulation time or at any point during overtime, or a player or coach intentionally throwing a stick or other object at the puck or the puck carrier and the throwing action disrupts a shot or pass play.
 
-Referee_hockey_ahl_2004.jpg Officials also stop play for puck movement violations, such as using one's hands to pass the puck in the offensive end, but no players are penalized for these offences. The sole exceptions are deliberately falling on or gathering the puck to the body, carrying the puck in the hand, and shooting the puck out of play in one's defensive zone (all penalized two minutes for delay of game).
+Officials also stop play for puck movement violations, such as using one's hands to pass the puck in the offensive end, but no players are penalized for these offences. The sole exceptions are deliberately falling on or gathering the puck to the body, carrying the puck in the hand, and shooting the puck out of play in one's defensive zone (all penalized two minutes for delay of game).
 
 In the NHL, a unique penalty applies to the goalies. The goalies now are forbidden to play the puck in the "corners" of the rink near their own net. This will result in a two-minute penalty against the goalie's team. Only in the area in-front of the goal line and immediately behind the net (marked by two red lines on either side of the net) the goalie can play the puck.
 
@@ -136,7 +132,7 @@ Officials are selected by the league they work for. Amateur hockey leagues use g
 
 Equipment
 
-Wallinheimo_Sinuhe_JYP.jpg pictured here.]]
+pictured here.]]
 
 Since men's ice hockey is a full contact sport, body checks are allowed so injuries are a common occurrence. Protective equipment is mandatory and is enforced in all competitive situations. This includes a helmet (cage worn if certain age or clear plastic visor can be worn), shoulder pads, elbow pads, mouth guard, protective gloves, heavily padded shorts (also known as hockey pants) or a girdle, athletic cup (also known as a jock, for males; and jill, for females), shin pads, skates, and (optionally) a neck protector.
 
@@ -162,7 +158,7 @@ The most dangerous result of a head injury in hockey can be classified as a conc
 
 Tactics
 
-OHL-Hockey-Plymouth-Whalers-vs-Saginaw-Spirit.jpg can be the key to some strategies. A game between Saginaw and Plymouth's Ontario Hockey League teams.]]
+can be the key to some strategies. A game between Saginaw and Plymouth's Ontario Hockey League teams.]]
 
 Checking
 
@@ -170,7 +166,7 @@ An important defensive tactic is checking—attempting to take the puck from an 
 
 Offensive tactics
 
-Peter_Bondra_scoring.jpg of the Atlanta Thrashers shoots the puck and scores against Roberto Luongo of the Florida Panthers during the 2005–06 NHL season]]
+of the Atlanta Thrashers shoots the puck and scores against Roberto Luongo of the Florida Panthers during the 2005–06 NHL season]]
 
 Offensive tactics include improving a team's position on the ice by advancing the puck out of one's zone towards the opponent's zone, progressively by gaining lines, first your own blue line, then the red line and finally the opponent's blue line. NHL rules instated for the 2006 season redefined the offside rule to make the two-line pass legal; a player may pass the puck from behind his own blue line, past both that blue line and the centre red line, to a player on the near side of the opponents' blue line. Offensive tactics are designed ultimately to score a goal by taking a shot. When a player purposely directs the puck towards the opponent's goal, he or she is said to "shoot" the puck.
 
@@ -191,9 +187,9 @@ Although fighting is officially prohibited in the rules, it is not an uncommon o
 
  Women's ice hockey
 
-A_Dream_of_the_Future_(Women's_Ice_Hockey).png'' (1899)]] Engelberg-1914.jpg Karikatur-1941.jpg Ice hockey is one of the fastest growing women's sports in the world, with the number of participants increasing by 400 percent from 1995 to 2005.[74] In 2011, Canada had 85,827 women players,[75] United States had 65,609,[76] Finland 4,760,[77] Sweden 3,075[78] and Switzerland 1,172.[79] While there are not as many organized leagues for women as there are for men, there exist leagues of all levels, including the Canadian Women's Hockey League (CWHL), Western Women's Hockey League, National Women's Hockey League (NWHL), Mid-Atlantic Women's Hockey League, and various European leagues; as well as university teams, national and Olympic teams, and recreational teams. The IIHF holds IIHF World Women's Championships tournaments in several divisions; championships are held annually, except that the top flight does not play in Olympic years.[80] Girls_ice_hockey_team_1921.jpg
+'' (1899)]] Ice hockey is one of the fastest growing women's sports in the world, with the number of participants increasing by 400 percent from 1995 to 2005.[74] In 2011, Canada had 85,827 women players,[75] United States had 65,609,[76] Finland 4,760,[77] Sweden 3,075[78] and Switzerland 1,172.[79] While there are not as many organized leagues for women as there are for men, there exist leagues of all levels, including the Canadian Women's Hockey League (CWHL), Western Women's Hockey League, National Women's Hockey League (NWHL), Mid-Atlantic Women's Hockey League, and various European leagues; as well as university teams, national and Olympic teams, and recreational teams. The IIHF holds IIHF World Women's Championships tournaments in several divisions; championships are held annually, except that the top flight does not play in Olympic years.[80]
 
-The chief difference between women's and men's ice hockey is that body checking is prohibited in women's hockey. After the 1990 Women's World Championship, body checking was eliminated in women's hockey. In current IIHF women's competition, body checking is either a minor or major penalty, decided at the referee's discretion.[81] In addition, players in women's competition are required to wear protective full-face masks.[82] MeghanDuggan.jpg In Canada, to some extent ringette has served as the female counterpart to ice hockey, in the sense that traditionally, boys have played hockey while girls have played ringette.[83]
+The chief difference between women's and men's ice hockey is that body checking is prohibited in women's hockey. After the 1990 Women's World Championship, body checking was eliminated in women's hockey. In current IIHF women's competition, body checking is either a minor or major penalty, decided at the referee's discretion.[81] In addition, players in women's competition are required to wear protective full-face masks.[82] In Canada, to some extent ringette has served as the female counterpart to ice hockey, in the sense that traditionally, boys have played hockey while girls have played ringette.[83]
 
 History
 
@@ -353,7 +349,7 @@ In the United States, the United States Hockey League (USHL) is the highest juni
 
 Eurasia
 
-HC_LEV_Record_O2.jpg match]]
+match]]
 
 Kontinental Hockey League (KHL)
 
@@ -383,11 +379,11 @@ International club competitions organized by the IIHF include the Continental Cu
 
 National team competitions
 
-Finlande_Russie.jpg.]]
+.]]
 
 Ice hockey has been played at the Winter Olympics since 1924 (and was played at the summer games in 1920). Hockey is Canada's national winter sport, and Canadians are extremely passionate about the game. The nation has traditionally done very well at the Olympic games, winning 6 of the first 7 gold medals. However, by 1956 its amateur club teams and national teams could not compete with the teams of government-supported players from the Soviet Union. The USSR won all but two gold medals from 1956 to 1988. The United States won its first gold medal in 1960. On the way to winning the gold medal at the 1980 Lake Placid Olympics amateur US college players defeated the heavily favoured Soviet squad—an event known as the "Miracle on Ice" in the United States. Restrictions on professional players were fully dropped at the 1988 games in Calgary. NHL agreed to participate ten years later. 1998 Games saw the full participation of players from the NHL, which suspended operations during the Games and has done so in subsequent Games. The 2010 games in Vancouver were the first played in an NHL city since the inclusion of NHL players. The 2010 games were the first played on NHL-sized ice rinks, which are narrower than the IIHF standard.
 
-Eroeffnungsspiel_eishockey_wm_2010.jpg in Germany]] National teams representing the member federations of the IIHF compete annually in the IIHF Ice Hockey World Championships. Teams are selected from the available players by the individual federations, without restriction on amateur or professional status. Since it is held in the spring, the tournament coincides with the annual NHL Stanley Cup playoffs and many of the top players are hence not available to participate in the tournament. Many of the NHL players who do play in the IIHF tournament come from teams eliminated before the playoffs or in the first round, and federations often hold open spots until the tournament to allow for players to join the tournament after their club team is eliminated. For many years, the tournament was an amateur-only tournament, but this restriction was removed, beginning in 1977.
+in Germany]] National teams representing the member federations of the IIHF compete annually in the IIHF Ice Hockey World Championships. Teams are selected from the available players by the individual federations, without restriction on amateur or professional status. Since it is held in the spring, the tournament coincides with the annual NHL Stanley Cup playoffs and many of the top players are hence not available to participate in the tournament. Many of the NHL players who do play in the IIHF tournament come from teams eliminated before the playoffs or in the first round, and federations often hold open spots until the tournament to allow for players to join the tournament after their club team is eliminated. For many years, the tournament was an amateur-only tournament, but this restriction was removed, beginning in 1977.
 
 The 1972 Summit Series and 1974 Summit Series, two series pitting the best Canadian and Soviet players without IIHF restrictions were major successes, and established a rivalry between Canada and the USSR. In the spirit of best-versus-best without restrictions on amateur or professional status, the series were followed by five Canada Cup tournaments, played in North America. Two NHL versus USSR series were also held: the 1979 Challenge Cup and Rendez-vous '87. The Canada Cup tournament later became the World Cup of Hockey, played in 1996, 2004 and 2016. The United States won in 1996 and Canada won in 2004 and 2016.
 

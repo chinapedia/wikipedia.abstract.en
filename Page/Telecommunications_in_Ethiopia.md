@@ -19,7 +19,7 @@ The first telephones were brought by Ras Makonnen from Italy in 1890, and connec
 
 Current status
 
-ET_Mekele_asv2018-01_img01_Selam_Street.jpg in Mekelle]] According to the ETC, the average rural inhabitant of Ethiopia has to walk 30 kilometers to the nearest phone. The ETC announced 7 September 2006 a program to improve national coverage, and reduce the average distance to 5 kilometers.[8]
+in Mekelle]] According to the ETC, the average rural inhabitant of Ethiopia has to walk 30 kilometers to the nearest phone. The ETC announced 7 September 2006 a program to improve national coverage, and reduce the average distance to 5 kilometers.[8]
 
 Since 2008 CDMA2000 and WCDMA is available in certain areas.
 

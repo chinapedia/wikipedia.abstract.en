@@ -4,8 +4,6 @@ Alberti was born in Venice[1] and studied music with Antonio Lotti. He wrote ope
 
 An example of Alberti bass (Mozart's _Piano Sonata, K 545_):[3]
 
-Mozart_k545_opening.svg
-
 In his own lifetime, Alberti was known as a singer. He often used to accompany himself on the harpsichord. In 1736, he served as a page for Pietro Andrea Cappello, the Venetian ambassador to Spain. While at the Spanish court, the famous castrato singer Farinelli heard him sing. Farinelli was said to have been impressed, although Alberti was an amateur.
 
 Alberti's best known pieces are his keyboard sonatas, although even they are very rarely performed. It is thought he wrote around 36 sonatas, of which 14 have survived. They all have two movements, each in binary form.

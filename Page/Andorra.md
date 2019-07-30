@@ -20,7 +20,7 @@ History
 
 Prehistory
 
-Gravats_del_Roc_de_les_Bruixes.JPG (detail)]]
+(detail)]]
 
 _La Balma de la Margineda_, found by archaeologists at Sant Julia de Loria, was first settled in 9,500 BC as a passing place between the two sides of the Pyrenees. The seasonal camp was perfectly located for hunting and fishing by the groups of hunter-gatherers from Ariege and Segre.[16]
 
@@ -32,7 +32,7 @@ The sanctuary of _Roc de les Bruixes_ (Stone of the Witches) is perhaps the most
 
 The Iberian and Roman Andorra
 
-Ann%C3%ADbal,_andosins.png's route (in red) during the Second Punic War. The Iberian tribes (in green) fought against the Carthaginian army in the Pyrenees.]]
+'s route (in red) during the Second Punic War. The Iberian tribes (in green) fought against the Carthaginian army in the Pyrenees.]]
 
 The inhabitants of the valleys were traditionally associated with the Iberians and historically located in Andorra as the Iberian tribe _Andosins_ or _Andosini_ (Ἀνδοσίνους) during the 7th and 2nd centuries BC. Influenced by Aquitanias, Basque and Iberian languages, the locals developed some current toponyms. Early writings and documents relating to this group of people goes back to the second century BC by the Greek writer Polybius in his _Histories_ during the Punic Wars.[17]
 
@@ -40,13 +40,13 @@ Some of the most significant remains of this era are the Castle of the _Roc d'En
 
 The Visigoths and Carolingians: the legend of Charlemagne
 
-Charlemagne_et_Louis_le_Pieux.jpg instructing his son Louis the Pious]]
+instructing his son Louis the Pious]]
 
 After the fall of the Roman Empire, Andorra came under the influence of the Visigoths, not remotely from the Kingdom of Toledo, but locally from the Diocese of Urgell. The Visigoths remained in the valleys for 200 years, during which time Christianity spread. When the Muslim Empire and its conquest of most of the Iberian Peninsula replaced the ruling Visigoths, Andorra was sheltered from these invaders by the Franks.
 
 Tradition holds that _Charles the Great_ (Charlemagne) granted a charter to the Andorran people for a contingent of five thousand soldiers under the command of _Marc Almugaver_, in return for fighting against the Moors near Porté-Puymorens (Cerdanya).[18]
 
-Parr%C3%B2quies_andorra.png as depicted in the _Acta de Consagració i Dotació de la Catedral de la Seu d'Urgell_ (839)]]
+as depicted in the _Acta de Consagració i Dotació de la Catedral de la Seu d'Urgell_ (839)]]
 
 Andorra remained part of the Marca Hispanica of the Frankish Empire being part of the territory ruled by the Count of Urgell and eventually by the bishop of the Diocese of Urgell. Also tradition holds that it was guaranteed by the son of Charlemagne, Louis the Pious, writing the _Carta de Poblament_ or a local municipal charter circa 805.[19]
 
@@ -56,11 +56,11 @@ The first document that mentions _Andorra_ as a territory is the _Acta de Consag
 
 Medieval Age: The Paréages and the founding of the Co-Principality
 
-Esgl%C3%A9sia_de_Sant_Joan_de_Caselles_-_7.jpg church, dating from the 11th century, part of the Andorran Romanesque heritage]] Before 1095, Andorra did not have any type of military protection and the Bishop of Urgell, who knew that the Count of Urgell wanted to reclaim the Andorran valleys,[22] asked the Lord of Caboet for help and protection. In 1095 the Lord of Caboet and the Bishop of Urgell signed under oath a declaration of their co-sovereignty over Andorra. Arnalda, daughter of Arnau of Caboet, married the Viscount of Castellbò and both became Viscounts of Castellbò and Cerdanya. Years later their daughter, Ermessenda,[23] married Roger Bernat II, the French Count of Foix. They became Roger Bernat II and Ermessenda I, Counts of Foix, Viscounts of Castellbò and Cerdanya, and co-sovereigns of Andorra (shared with the Bishop of Urgell).
+church, dating from the 11th century, part of the Andorran Romanesque heritage]] Before 1095, Andorra did not have any type of military protection and the Bishop of Urgell, who knew that the Count of Urgell wanted to reclaim the Andorran valleys,[22] asked the Lord of Caboet for help and protection. In 1095 the Lord of Caboet and the Bishop of Urgell signed under oath a declaration of their co-sovereignty over Andorra. Arnalda, daughter of Arnau of Caboet, married the Viscount of Castellbò and both became Viscounts of Castellbò and Cerdanya. Years later their daughter, Ermessenda,[23] married Roger Bernat II, the French Count of Foix. They became Roger Bernat II and Ermessenda I, Counts of Foix, Viscounts of Castellbò and Cerdanya, and co-sovereigns of Andorra (shared with the Bishop of Urgell).
 
 In the 13th century, a military dispute arose between the Bishop of Urgell and the Count of Foix as aftermath of the Cathar Crusade. The conflict was resolved in 1278 with the mediation of the king of Aragon, Pere II between the Bishop and the Count, by the signing of the first paréage which provided that Andorra's sovereignty be shared between the count of Foix[24] (whose title would ultimately transfer to the French head of state) and the Bishop of Urgell, in Catalonia. This gave the principality its territory and political form.
 
-Casa_de_la_Vall_-_14.jpg in the capital city of Andorra la Vella]] 065_Absis_de_Sant_Miquel_d%27Engolasters.jpg church, painted by _Mestre de Santa Coloma_ during the 12th century[25]]]
+in the capital city of Andorra la Vella]] church, painted by _Mestre de Santa Coloma_ during the 12th century[25]]]
 
 A second paréage was signed in 1288 after a dispute when the Count of Foix ordered the construction of a castle in _Roc d'Enclar_. The document was ratified by the noble notary Jaume Orig of Puigcerdà and the construction of military structures in the country was prohibited.
 
@@ -74,9 +74,9 @@ The local population based its economy during the Middle Ages in livestock and a
 
 16th to 18th centuries
 
-Tribunal_de_Corts_d%27Andorra.JPG (High Court of Justice) inside Casa de la Vall, the central Judiciary Court of Andorra]] In 1601 the Tribunal de Corts (High Court of Justice) was created as a result of Huguenot rebellions from France, Inquisition courts coming from Spain and indigenous witchcraft experienced in the country due to the Reformation and Counter-Reformation. With the passage of time, the co-title to Andorra passed to the kings of Navarre. After Henry of Navarre became King Henry IV of France, he issued an edict in 1607, that established the head of the French state and the Bishop of Urgell as Co-Princes of Andorra. During 1617 communal councils form the _sometent_ (popular militia or army) to deal with the rise of _bandolerisme_ (brigandage) and the Consell de la Terra was defined and structured in terms of its composition, organization and competences current today .
+(High Court of Justice) inside Casa de la Vall, the central Judiciary Court of Andorra]] In 1601 the Tribunal de Corts (High Court of Justice) was created as a result of Huguenot rebellions from France, Inquisition courts coming from Spain and indigenous witchcraft experienced in the country due to the Reformation and Counter-Reformation. With the passage of time, the co-title to Andorra passed to the kings of Navarre. After Henry of Navarre became King Henry IV of France, he issued an edict in 1607, that established the head of the French state and the Bishop of Urgell as Co-Princes of Andorra. During 1617 communal councils form the _sometent_ (popular militia or army) to deal with the rise of _bandolerisme_ (brigandage) and the Consell de la Terra was defined and structured in terms of its composition, organization and competences current today .
 
-Andorra continued with the same economic system that it had during the 12th–14th centuries with a large production of metallurgy (_fargues_, a system similar to _Farga catalana_) and with the introduction of tobacco circa 1692 and import trade. The fair of Andorra la Vella was ratified by the co-princes in 1371 and 1448 being the most important annual national festival commercially ever since. Building_in_Ordino._Andorra_216.jpg of Rossell family in Ordino, _Casa Rossell_, built in 1611. The family owned in 1619 also the largest ironwork forges in Andorra as _Farga Rossell_ and _Farga del Serrat_.[27]]] The country had a unique and experienced guild of weavers, _Confraria de Paraires i Teixidors_, located in Escaldes-Engordany founded in 1604 taking advantage of the thermal waters of the area. By that time the country was characterized by the social system of _prohoms_ (wealthy society) and _casalers_ (rest of the population with smaller economic acquisition), deriving from the tradition of _pubilla_ and _hereu_.
+Andorra continued with the same economic system that it had during the 12th–14th centuries with a large production of metallurgy (_fargues_, a system similar to _Farga catalana_) and with the introduction of tobacco circa 1692 and import trade. The fair of Andorra la Vella was ratified by the co-princes in 1371 and 1448 being the most important annual national festival commercially ever since. of Rossell family in Ordino, _Casa Rossell_, built in 1611. The family owned in 1619 also the largest ironwork forges in Andorra as _Farga Rossell_ and _Farga del Serrat_.[27]]] The country had a unique and experienced guild of weavers, _Confraria de Paraires i Teixidors_, located in Escaldes-Engordany founded in 1604 taking advantage of the thermal waters of the area. By that time the country was characterized by the social system of _prohoms_ (wealthy society) and _casalers_ (rest of the population with smaller economic acquisition), deriving from the tradition of _pubilla_ and _hereu_.
 
 Three centuries after its foundation the Consell de la Terra located its headquarters and the Tribunal de Corts in Casa de la Vall in 1702. The manor house built in 1580 served as a noble fortress of the Busquets family. Inside the parliament was placed the _Closet of the six keys_ (_Armari de les sis claus_) representative of each Andorran parish and where the Andorran constitution and other documents and laws were kept later on.
 
@@ -84,27 +84,27 @@ In both Guerra dels Segadors and Guerra de Sucesión Española conflicts, the An
 
 19th century: the New Reform and the Andorran Question
 
-Guillem_d%27Areny-Plandolit.png, nobleman and politician who promoted the _New Reform_ in 1866]] After the French Revolution in 1809, Napoleon I reestablished the Co-Principate and removed the French medieval tithe. In 1812–13, the First French Empire annexed Catalonia during the Peninsular War (_Guerra del francés_) and divided the region into four départements, with Andorra as a part of the district of Puigcerdà (département of Sègre). In 1814 a royal decree reestablished the independence and economy of Andorra.
+, nobleman and politician who promoted the _New Reform_ in 1866]] After the French Revolution in 1809, Napoleon I reestablished the Co-Principate and removed the French medieval tithe. In 1812–13, the First French Empire annexed Catalonia during the Peninsular War (_Guerra del francés_) and divided the region into four départements, with Andorra as a part of the district of Puigcerdà (département of Sègre). In 1814 a royal decree reestablished the independence and economy of Andorra.
 
 During this period, Andorra's late medieval institutions and rural culture remained largely unchanged. In 1866 the syndic Guillem d'Areny-Plandolit led the _reformist_ group in a Council General of 24 members elected by suffrage limited to heads of families. The Council General replaced the aristocratic oligarchy that previously ruled the state.[28] The New Reform (_Nova Reforma_ or _Pla de Reforma_) began after ratification by both Co-Princes and established the basis of the constitution[29] and symbols (such as the tricolor flag) of Andorra. A new service economy arose as a demand of the valley inhabitants and began to build infrastructure such as hotels, spa resorts, roads and telegraph lines.
 
-Revoluci%C3%B3_de_1881_d%27Andorra.jpg during the _Revolution of 1881_[30]]] The authorities of the Co-Princes (_veguer_) banned casinos and betting houses throughout the country. The ban resulted in an economic conflict for the Andorran people. The conflict led to the so-called _Revolution of 1881_ or _Troubles of Andorra_, when revolutionaries assaulted the house of the syndic on 8 December 1880 and established the _Provisional Revolutionary Council_ led by Joan Pla i Calvo and Pere Baró i Mas. The Provisional Revolutionary Council allowed for the construction of casinos and spas by foreign companies. From 7–9 June 1881, the loyalists of Canillo and Encamp reconquered the parishes of Ordino and Massana by establishing contact with the revolutionary forces in Escaldes-Engordany. After a day of combat the Treaty of the Bridge of Escalls was signed on 10 June. The Council was replaced and new elections were held. The economic situation worsened, as the populace was divided over the _Qüestió d'Andorra_ (the _Andorran Question_ in relation to the Eastern Question). The struggles continued between pro-bishops, pro-French, and nationalists based on the troubles of Canillo in 1882 and 1885.
+during the _Revolution of 1881_[30]]] The authorities of the Co-Princes (_veguer_) banned casinos and betting houses throughout the country. The ban resulted in an economic conflict for the Andorran people. The conflict led to the so-called _Revolution of 1881_ or _Troubles of Andorra_, when revolutionaries assaulted the house of the syndic on 8 December 1880 and established the _Provisional Revolutionary Council_ led by Joan Pla i Calvo and Pere Baró i Mas. The Provisional Revolutionary Council allowed for the construction of casinos and spas by foreign companies. From 7–9 June 1881, the loyalists of Canillo and Encamp reconquered the parishes of Ordino and Massana by establishing contact with the revolutionary forces in Escaldes-Engordany. After a day of combat the Treaty of the Bridge of Escalls was signed on 10 June. The Council was replaced and new elections were held. The economic situation worsened, as the populace was divided over the _Qüestió d'Andorra_ (the _Andorran Question_ in relation to the Eastern Question). The struggles continued between pro-bishops, pro-French, and nationalists based on the troubles of Canillo in 1882 and 1885.
 
 Andorra participated in the cultural movement of the Catalan Renaixença. Between 1882 and 1887 the first academic schools were formed where trilingualism coexisted with the official language, Catalan. Romantic authors from France and Spain reported the awakening of the national consciousness of the country. Jacint Verdaguer lived in Ordino during the 1880s where he wrote and shared works related to the Renaixença with writer and photographer, Joaquim de Riba. In 1848, Fromental Halévy had already premiered the opera _Le Val d'Andorre_ to great success in Europe, where the national consciousness of the valleys was exposed in the romantic work during the Peninsular War.
 
 20th and 21st century: Modernization of the country and the Constitutional Andorra
 
-Borís_Skósyrev.jpg, briefly self-proclaimed "King of Andorra" in 1934]] Andorra declared war on Imperial Germany during World War I, but did not take part directly in the fighting. Some Andorrans volunteered to take part in the conflict as part of the French Legions.[31] It remained in an official state of belligerency until 1958 as it was not included in the Treaty of Versailles.[32]
+, briefly self-proclaimed "King of Andorra" in 1934]] Andorra declared war on Imperial Germany during World War I, but did not take part directly in the fighting. Some Andorrans volunteered to take part in the conflict as part of the French Legions.[31] It remained in an official state of belligerency until 1958 as it was not included in the Treaty of Versailles.[32]
 
 In 1933, France occupied Andorra following social unrest which occurred before elections due to the _Revolution of 1933_ and the _FHASA strikes_ (_Vagues de FHASA_); the revolt led by _Joves Andorrans_ (a labour union group related to the Spanish CNT and FAI) called for political reforms,[33] the universal suffrage vote of all Andorrans and acted in defense of the rights of local and foreign workers during the construction of FHASA's hydroelectric power station in Encamp.[34] The 5 April 1933 _Joves Andorrans_ seized the Andorran Parliament.[35] These actions were preceded by the arrival of Colonel René-Jules Baulard with 50 gendarmes and the mobilization of 200 local militias or _sometent_ led by the Síndic Francesc Cairat.[36]
 
-On 6 July 1934, adventurer and nobleman Boris Skossyreff, with his promise of freedoms and modernization of the country and wealth through the establishment of a tax haven and foreign investments, received the support of the members of the General Council to proclaim himself the sovereign of Andorra. On 8 July 1934 Boris issued a proclamation in Urgell, declaring himself _Boris I, King of Andorra_,[37] simultaneously declaring war on the Bishop of Urgell and approving the King's constitution on 10 July.[38] He was arrested by the Co-Prince and Bishop Justí Guitart i Vilardebó and their authorities on 20 July and ultimately expelled from Spain.[39] From 1936 until 1940, a French military detachment of Garde Mobile led by well-known Colonel René-Jules Baulard was garrisoned in Andorra to secure the principality against disruption from the Spanish Civil War[40] and Francoist Spain[41] and also face the rise of Republicanism in the aftermath of the 1933 Revolution.[42] During the Spanish Civil War the inhabitants of Andorra welcomed refugees from both sides and many of them settled permanently in the country thus contributing to the subsequent economic boom and the entry into the capitalist era of Andorra.[43][44] Francoist troops reached the Andorran border in the later stages of the war.[45] 22B_andorra_2.jpg (center). The local comite was leaded by _Francesc Cairat_ (left), the First General Syndic with the longest regencie, from 1936 to 1960.[46]]]
+On 6 July 1934, adventurer and nobleman Boris Skossyreff, with his promise of freedoms and modernization of the country and wealth through the establishment of a tax haven and foreign investments, received the support of the members of the General Council to proclaim himself the sovereign of Andorra. On 8 July 1934 Boris issued a proclamation in Urgell, declaring himself _Boris I, King of Andorra_,[37] simultaneously declaring war on the Bishop of Urgell and approving the King's constitution on 10 July.[38] He was arrested by the Co-Prince and Bishop Justí Guitart i Vilardebó and their authorities on 20 July and ultimately expelled from Spain.[39] From 1936 until 1940, a French military detachment of Garde Mobile led by well-known Colonel René-Jules Baulard was garrisoned in Andorra to secure the principality against disruption from the Spanish Civil War[40] and Francoist Spain[41] and also face the rise of Republicanism in the aftermath of the 1933 Revolution.[42] During the Spanish Civil War the inhabitants of Andorra welcomed refugees from both sides and many of them settled permanently in the country thus contributing to the subsequent economic boom and the entry into the capitalist era of Andorra.[43][44] Francoist troops reached the Andorran border in the later stages of the war.[45] (center). The local comite was leaded by _Francesc Cairat_ (left), the First General Syndic with the longest regencie, from 1936 to 1960.[46]]]
 
-During World War II, Andorra remained neutral and was an important smuggling route between Vichy France and Francoist Spain.[47] At the course of the war, the population, which lived between two states that had declared to be openly fascist, criticized the passivity of the General Council to the impediment of entry and expulsion of foreigners or refugees, the crimes for economic interests,[48] the reduction of rights of citizens[49] and be too close or sympathetic to Francoism.[50][51] The General Council itself justified its political and diplomatic actions under the survival and protection of Andorra's sovereignty, which finally emerged from the two conflicts unscathed.[52][53] Thus, certain groups organized themselves to help the victims of Nazi oppression coming from Europe, while participating in smuggling to help the country survive. Among the groups that were most prominent there was the _Hostal Palanques Evasion Network Command_, in contact with the British Mi6, which helped almost 400 fugitives,[54] among whom were also Allied military personnel.[55][56] They remained active between 1941 and 1944, with certain struggles with pro-Axis informers and Gestapo agents within the country.[57] 23-24.10.67._De_Gaulle_en_Andorre_(1967)_-_53Fi5569.jpg in the streets of Sant Julià de Lòria in Andorra on October 1967]]
+During World War II, Andorra remained neutral and was an important smuggling route between Vichy France and Francoist Spain.[47] At the course of the war, the population, which lived between two states that had declared to be openly fascist, criticized the passivity of the General Council to the impediment of entry and expulsion of foreigners or refugees, the crimes for economic interests,[48] the reduction of rights of citizens[49] and be too close or sympathetic to Francoism.[50][51] The General Council itself justified its political and diplomatic actions under the survival and protection of Andorra's sovereignty, which finally emerged from the two conflicts unscathed.[52][53] Thus, certain groups organized themselves to help the victims of Nazi oppression coming from Europe, while participating in smuggling to help the country survive. Among the groups that were most prominent there was the _Hostal Palanques Evasion Network Command_, in contact with the British Mi6, which helped almost 400 fugitives,[54] among whom were also Allied military personnel.[55][56] They remained active between 1941 and 1944, with certain struggles with pro-Axis informers and Gestapo agents within the country.[57] in the streets of Sant Julià de Lòria in Andorra on October 1967]]
 
 In the capital city there was a smuggling black market network of propaganda, culture and cinematic art not prone to totalitarian regimes, promulgated in some places as the _Hotel Mirador_ or the _Casino Hotel_,[58] as a meeting place for people of ideologies close to Andorran and Spanish Republicanism, and Free France.[59] The network was maintained after the war, when the film societies were formed, where movies, music and books censored in Franco's Spain were imported, thus becoming an anti-censorship attraction for the Catalan or foreign public even within Andorra.[60] _Andorran Group_ (_Agrupament Andorrà_), an anti-fascist organization linked to the Occitanie's French Resistance, accused the French representative (_veguer_) of collaboration with Nazism.[61]
 
-The Andorran opening to the capitalist economy resulted in two axes: mass tourism and the country's tax exemption. The first steps towards the capitalist boom date from the 1930s, with the construction of FHASA[62] and the creation of professional banking[63] with Banc Agrícol (1930) and Crèdit Andorrà (1949), later with Banca Mora (1952), Banca Cassany (1958) and SOBANCA (1960). Shortly after activities such as skiing and shopping become a tourist attraction, with the inauguration of ski resorts and cultural entities in the late 1930s.[64][65] All in all, a renovated hotel industry has developed. On April 1968 a social health insurance system was created (CASS).[66] Andorra_-_panoramio_(2).jpg.[67][68]]] Gilbert_Saboya_Sebastian_Kurz_(13927283877).jpg in 2014. Foreign Minister of Austria Sebastian Kurz meets the Foreign Minister Gilbert Saboya.]]
+The Andorran opening to the capitalist economy resulted in two axes: mass tourism and the country's tax exemption. The first steps towards the capitalist boom date from the 1930s, with the construction of FHASA[62] and the creation of professional banking[63] with Banc Agrícol (1930) and Crèdit Andorrà (1949), later with Banca Mora (1952), Banca Cassany (1958) and SOBANCA (1960). Shortly after activities such as skiing and shopping become a tourist attraction, with the inauguration of ski resorts and cultural entities in the late 1930s.[64][65] All in all, a renovated hotel industry has developed. On April 1968 a social health insurance system was created (CASS).[66] .[67][68]]] in 2014. Foreign Minister of Austria Sebastian Kurz meets the Foreign Minister Gilbert Saboya.]]
 
 The Andorran Government necessarily involved planning, projection and forecasts for the future: with the official visit of the French co-prince Charles de Gaulle in 1967 and 1969, it was given approval for the economic boom and national demands within the framework of human rights and international openness.[69][70]
 
@@ -125,7 +125,7 @@ The current Head of Government is Antoni Martí of the Democrats for Andorra (DA
 
 The Parliament of Andorra is known as the General Council. The General Council consists of between 28 and 42 Councillors. The Councillors serve for four-year terms, and elections are held between the 30th and 40th days following the dissolution of the previous Council.
 
-Casa_de_la_Vall_-_18.jpg Casa_de_la_Vall,_Andorra_la_Vieja,_Andorra,_2013-12-30,_DD_03.JPG, General Council headquarter since 2011, next to Casa de la Vall]] Els_7_poetes,_Casa_de_la_Vall,_Consell_General.JPG]]
+, General Council headquarter since 2011, next to Casa de la Vall]] ]]
 
 Half are elected in equal numbers by each of the seven administrative parishes, and the other half of the Councillors are elected in a single national constituency. Fifteen days after the election, the Councillors hold their inauguration. During this session, the Syndic General, who is the head of the General Council, and the Subsyndic General, his assistant, are elected. Eight days later, the Council convenes once more. During this session the Head of Government is chosen from among the Councillors.
 
@@ -145,7 +145,7 @@ The Magistrates and Judges are appointed by the High Court, as is the President 
 
 Foreign relations, defence, and security
 
-Bruxelles_rue_de_la_Montagne_10.jpg]] Andorra does not have its own armed forces,[85] although there is a small ceremonial army. Responsibility for defending the nation rests primarily with France and Spain.[86] However, in case of emergencies or natural disasters, the _Sometent_ (an alarm) is called and all able-bodied men between 21 and 60 of Andorran nationality must serve.[87][88] This is why all Andorrans, and especially the head of each house (usually the eldest able-bodied man of a house) should, by law, keep a rifle, even though the law also states that the police will offer a firearm in case of need.[89] Andorra is a full member of the United Nations (UN), the Organization for Security and Co-operation in Europe (OSCE), and has a special agreement with the European Union (EU).
+]] Andorra does not have its own armed forces,[85] although there is a small ceremonial army. Responsibility for defending the nation rests primarily with France and Spain.[86] However, in case of emergencies or natural disasters, the _Sometent_ (an alarm) is called and all able-bodied men between 21 and 60 of Andorran nationality must serve.[87][88] This is why all Andorrans, and especially the head of each house (usually the eldest able-bodied man of a house) should, by law, keep a rifle, even though the law also states that the police will offer a firearm in case of need.[89] Andorra is a full member of the United Nations (UN), the Organization for Security and Co-operation in Europe (OSCE), and has a special agreement with the European Union (EU).
 
 Military
 
@@ -165,7 +165,7 @@ In more recent times there has only been a general emergency call to the popular
 
 Police Corps
 
-Andorra_la_Vella_-_Andorra_(3137259845).jpg patrolling the downtown area of the capital city]] Andorra maintains a small but modern and well-equipped internal police force, with around 240 police officers supported by civilian assistants. The principal services supplied by the corps are uniformed community policing, criminal detection, border control, and traffic policing. There are also small specialist units including police dogs, mountain rescue, and a bomb disposal team.[104]
+patrolling the downtown area of the capital city]] Andorra maintains a small but modern and well-equipped internal police force, with around 240 police officers supported by civilian assistants. The principal services supplied by the corps are uniformed community policing, criminal detection, border control, and traffic policing. There are also small specialist units including police dogs, mountain rescue, and a bomb disposal team.[104]
 
 GIPA
 
@@ -182,19 +182,17 @@ The fire service maintains full-time cover with five fire crews on duty at any t
 
 Geography
 
-Andorramap.png Andorra_topographic_map-en.svg
-
 Parishes
 
 Andorra consists of seven parishes:
 
--   Escut_d'Andorra_la_Vella.svg Andorra la Vella
--   Emblem_of_Canillo.svg Canillo
--   Escut_d'Encamp.svg Encamp
--   Escut_d'Escaldes-Engordany.svg Escaldes-Engordany
--   Coat_of_Arms_of_La_Massana.svg La Massana
--   Emblem_of_Ordino.svg Ordino
--   Coat_of_Arms_of_Sant_Julià_de_Lòria.svg Sant Julià de Lòria
+-   Andorra la Vella
+-   Canillo
+-   Encamp
+-   Escaldes-Engordany
+-   La Massana
+-   Ordino
+-   Sant Julià de Lòria
 
 Physical geography
 
@@ -213,7 +211,7 @@ File:Andorra Mountains.JPG|View of Tristaina File:Pont d'Anyós.jpg|Valira del N
 
 Economy
 
-Tree_map_export_2009_Andorra.jpeg Grandvalira_ski_resort,_Andorra5.jpg]] Caldea_des_de_dins.JPG thermal spa, Escaldes-Engordany, the biggest thermoludic center in Southern Europe]] Tourism, the mainstay of Andorra's tiny, well-to-do economy, accounts for roughly 80% of GDP. An estimated 10.2 million tourists visit annually,[111] attracted by Andorra's duty-free status and by its summer and winter resorts.
+]] thermal spa, Escaldes-Engordany, the biggest thermoludic center in Southern Europe]] Tourism, the mainstay of Andorra's tiny, well-to-do economy, accounts for roughly 80% of GDP. An estimated 10.2 million tourists visit annually,[111] attracted by Andorra's duty-free status and by its summer and winter resorts.
 
 One of the main sources of income in Andorra is tourism from ski resorts which total over of ski ground. The sport brings in over 7 million visitors annually and an estimated 340 million euros per year, sustaining 2,000 direct and 10,000 indirect jobs at present since 2007.[112]
 
@@ -232,7 +230,7 @@ On 31 May 2013, it was announced that Andorra intended to legislate for the intr
 
 Demographics
 
-Els_Cortals_d'Encamp_-_1.jpg, as seen from the _Vall dels Cortals_]]
+, as seen from the _Vall dels Cortals_]]
 
 Population
 
@@ -286,13 +284,13 @@ The geographical complexity of the country as well as the small number of studen
 
 Transport
 
-Pirineus_-_la_Seu_d'Urgell_airport.jpg, located 12 km away from Andorra, in Montferrer i Castellbò (Catalonia, Eastern Spain)]]
+, located 12 km away from Andorra, in Montferrer i Castellbò (Catalonia, Eastern Spain)]]
 
 Until the 20th century, Andorra had very limited transport links to the outside world, and development of the country was affected by its physical isolation. Even now, the nearest major airports at Toulouse and Barcelona are both three hours' drive from Andorra.
 
 Andorra has a road network of , of which is unpaved. The two main roads out of Andorra la Vella are the CG-1 to the Spanish border, and the CG-2 to the French border via the Envalira Tunnel near El Pas de la Casa.[136] Bus services cover all metropolitan areas and many rural communities, with services on most major routes running half-hourly or more frequently during peak travel times. There are frequent long-distance bus services from Andorra to Barcelona and Toulouse, plus a daily tour from the former city. Bus services are mostly run by private companies, but some local ones are operated by the government.
 
-AGC_Z_27500.jpg (_La Tor de Querol_), one of the two stations serving Andorra. Andorra has no railways, although the line connecting Latour-de-Carol and Toulouse, which in turn connects to France's TGVs at Toulouse, runs within of the Andorran border.]]
+(_La Tor de Querol_), one of the two stations serving Andorra. Andorra has no railways, although the line connecting Latour-de-Carol and Toulouse, which in turn connects to France's TGVs at Toulouse, runs within of the Andorran border.]]
 
 There are no airports for fixed-wing aircraft within Andorra's borders but there are, however, heliports in La Massana (Camí Heliport), Arinsal and Escaldes-Engordany with commercial helicopter services[137][138] and an airport located in the neighbouring Spanish comarca of Alt Urgell, south of the Andorran-Spanish border.[139] Since July 2015, Andorra–La Seu d'Urgell Airport has operated commercial flights to Madrid and Palma de Mallorca, and is the main hub for Air Andorra and Andorra Airlines. As of 11 July 2018, there are no regular commercial flights at the airport.
 
@@ -303,7 +301,7 @@ The nearest railway station is L'Hospitalet-près-l'Andorre east of Andorra whic
 
 Media and telecommunications
 
-RTVA_logotip.png, the public service television and radio broadcaster in the Principality of Andorra]] Andorra_Telecom_2019_logo.svg, the national telecom company in the Principality of Andorra]]
+, the public service television and radio broadcaster in the Principality of Andorra]] , the national telecom company in the Principality of Andorra]]
 
 In Andorra, mobile and fixed telephone and internet services are operated exclusively by the Andorran national telecommunications company, SOM, also known as Andorra Telecom (STA). The same company also manages the technical infrastructure for national broadcasting of digital television and radio.[143] In 2010 Andorra became the first country to provide a direct optical fiber link to all homes (FTTH) and businesses.[144]
 

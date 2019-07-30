@@ -44,7 +44,7 @@ Other
 
 Pathophysiology
 
-RCA_atherosclerosis.jpg of a coronary artery with the most common form of coronary artery disease (atherosclerosis) and marked luminal narrowing. Masson's trichrome.]] Blausen_0259_CoronaryArteryDisease_02.png Limitation of blood flow to the heart causes ischemia (cell starvation secondary to a lack of oxygen) of the heart's muscle cells. The heart's muscle cells may die from lack of oxygen and this is called a myocardial infarction (commonly referred to as a heart attack). It leads to damage, death, and eventual scarring of the heart muscle without regrowth of heart muscle cells. Chronic high-grade narrowing of the coronary arteries can induce transient ischemia which leads to the induction of a ventricular arrhythmia, which may terminate into a dangerous heart rhythm known as ventricular fibrillation, which often leads to death.[66]
+of a coronary artery with the most common form of coronary artery disease (atherosclerosis) and marked luminal narrowing. Masson's trichrome.]] Limitation of blood flow to the heart causes ischemia (cell starvation secondary to a lack of oxygen) of the heart's muscle cells. The heart's muscle cells may die from lack of oxygen and this is called a myocardial infarction (commonly referred to as a heart attack). It leads to damage, death, and eventual scarring of the heart muscle without regrowth of heart muscle cells. Chronic high-grade narrowing of the coronary arteries can induce transient ischemia which leads to the induction of a ventricular arrhythmia, which may terminate into a dangerous heart rhythm known as ventricular fibrillation, which often leads to death.[66]
 
 Typically, coronary artery disease occurs when part of the smooth, elastic lining inside a coronary artery (the arteries that supply blood to the heart muscle) develops atherosclerosis. With atherosclerosis, the artery's lining becomes hardened, stiffened, and accumulates deposits of calcium, fatty lipids, and abnormal inflammatory cells – to form a plaque. Calcium phosphate (hydroxyapatite) deposits in the muscular layer of the blood vessels appear to play a significant role in stiffening the arteries and inducing the early phase of coronary arteriosclerosis. This can be seen in a so-called metastatic mechanism of calciphylaxis as it occurs in chronic kidney disease and hemodialysis (Rainer Liedtke 2008). Although these people suffer from a kidney dysfunction, almost fifty percent of them die due to coronary artery disease. Plaques can be thought of as large "pimples" that protrude into the channel of an artery, causing a partial obstruction to blood flow. People with coronary artery disease might have just one or two plaques, or might have dozens distributed throughout their coronary arteries. A more severe form is _chronic total occlusion_ (CTO) when a coronary artery is completely obstructed for more than 3 months.[67]
 
@@ -53,7 +53,7 @@ Cardiac syndrome X is chest pain (angina pectoris) and chest discomfort in peopl
 
 Diagnosis
 
-Coro_Man.jpg Coro_Woman.jpg For symptomatic people, stress echocardiography can be used to make a diagnosis for obstructive coronary artery disease., citing
+For symptomatic people, stress echocardiography can be used to make a diagnosis for obstructive coronary artery disease., citing
 
 -   -   -   The use of echocardiography, stress cardiac imaging, and/or advanced non-invasive imaging is not recommended on individuals who are exhibiting no symptoms and are otherwise at low risk for developing coronary disease.[72][73]
 
@@ -148,7 +148,7 @@ Revascularization for acute coronary syndrome has a mortality benefit.[116] Perc
 
 Epidemiology
 
-Ischaemic_heart_disease_world_map-Deaths_per_million_persons-WHO2012.svg Ischaemic_heart_disease_world_map_-_DALY_-_WHO2004.svg for ischaemic heart disease per 100,000 inhabitants in 2004.[122] ]] As of 2010, CAD was the leading cause of death globally resulting in over 7 million deaths.[123] This increased from 5.2 million deaths from CAD worldwide in 1990.[124] It may affect individuals at any age but becomes dramatically more common at progressively older ages, with approximately a tripling with each decade of life.[125] Males are affected more often than females.[126]
+for ischaemic heart disease per 100,000 inhabitants in 2004.[122] ]] As of 2010, CAD was the leading cause of death globally resulting in over 7 million deaths.[123] This increased from 5.2 million deaths from CAD worldwide in 1990.[124] It may affect individuals at any age but becomes dramatically more common at progressively older ages, with approximately a tripling with each decade of life.[125] Males are affected more often than females.[126]
 
 It is estimated that 60% of the world's cardiovascular disease burden will occur in the South Asian subcontinent despite only accounting for 20% of the world's population. This may be secondary to a combination of genetic predisposition and environmental factors. Organizations such as the Indian Heart Association are working with the World Heart Federation to raise awareness about this issue.[127]
 

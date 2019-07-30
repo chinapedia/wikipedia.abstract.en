@@ -15,7 +15,7 @@ A quarter of the convicts were Irish. Many had been arrested in Ireland, and som
 
 Records from the early 19th century show this distinct dialect in the colonies after the first settlement in 1788.[3] Peter Miller Cunningham's 1827 book _Two Years in New South Wales_, described the distinctive accent and vocabulary of the native-born colonists, that differed from that of their parents and with a strong London influence.[4] Anthony Burgess writes that "Australian English may be thought of as a kind of fossilised Cockney of the Dickensian era."[5]
 
-Doudiet_Swearing_allegiance_to_the_Southern_Cross.jpg saw many external influences on the language.]] The first of the Australian gold rushes, in the 1850s, began a large wave of immigration, during which about two per cent of the population of the United Kingdom emigrated to the colonies of New South Wales and Victoria.[6] According to linguist Bruce Moore, "the major input of the various sounds that went into constructing the Australian accent was from south-east England".[7]
+saw many external influences on the language.]] The first of the Australian gold rushes, in the 1850s, began a large wave of immigration, during which about two per cent of the population of the United Kingdom emigrated to the colonies of New South Wales and Victoria.[6] According to linguist Bruce Moore, "the major input of the various sounds that went into constructing the Australian accent was from south-east England".[7]
 
 Some elements of Aboriginal languages have been adopted by Australian English—mainly as names for places, flora and fauna (for example dingo) and local culture. Many such are localised, and do not form part of general Australian use, while others, such as _kangaroo_, _boomerang_, _budgerigar_, _wallaby_ and so on have become international. Other examples are _cooee_ and _hard yakka_. The former is used as a high-pitched call, for attracting attention, (pronounced ) which travels long distances. _Cooee_ is also a notional distance: _if he's within cooee, we'll spot him_. _Hard yakka_ means _hard work_ and is derived from _yakka_, from the Jagera/Yagara language once spoken in the Brisbane region.
 
@@ -31,8 +31,6 @@ Phonology and pronunciation
 The primary way in which Australian English is distinctive from other varieties of English is through its unique pronunciation. It shares most similarity with other Southern Hemisphere accents, in particular New Zealand English.[11] Like most dialects of English it is distinguished primarily by its vowel phonology.[12]
 
 Vowels
-
-Australian_English_vowel_chart.svg Australian_English_diphthong_chart_-_part_1.svg Australian_English_diphthong_chart_-_part_2.svg
 
 The vowels of Australian English can be divided according to length. The long vowels, which include monophthongs and diphthongs, mostly correspond to the tense vowels used in analyses of Received Pronunciation (RP) as well as its centring diphthongs. The short vowels, consisting only of monophthongs, correspond to the RP lax vowels. There exist pairs of long and short vowels with overlapping vowel quality giving Australian English phonemic length distinction, which is unusual amongst the various dialects of English, though not unknown elsewhere, such as in regional south-eastern dialects of the UK and eastern seaboard dialects in the US.[13] As with New Zealand English, the weak-vowel merger is complete in Australian English: unstressed is merged into (schwa), unless it is followed by a velar consonant.
 

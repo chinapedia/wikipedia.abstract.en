@@ -16,15 +16,13 @@ History
 
 Historically, this area of Lochaber was strongly Clan Cameron country, and there were a number of mainly Cameron settlements in the area (such as Blarmacfoldach). Before the building of the fort, Inverlochy was the main settlement in the area and was also where two battles took place—the first Battle of Inverlochy in 1431 and the second Battle of Inverlochy in 1645.[7][8]
 
-Fortwilliam.jpg.]] (Nevis_Bridge,_Fort_William,_Scotland)_(LOC)_(3450341690).jpg The town grew in size as a settlement when the fort was constructed to control the population after Oliver Cromwell's invasion during the Wars of the Three Kingdoms, and then to suppress the Jacobite uprisings of the 18th century.
+.]] The town grew in size as a settlement when the fort was constructed to control the population after Oliver Cromwell's invasion during the Wars of the Three Kingdoms, and then to suppress the Jacobite uprisings of the 18th century.
 
 In the Jacobite rising of 1745 known as the Forty-Five, Fort William was besieged for two weeks by the Jacobites, from 20 March to 3 April 1746. However, although the Jacobites had captured both of the other forts in the chain of three Great Glen fortifications (Fort Augustus and the original Fort George), they failed to take Fort William.
 
 During the Second World War, Fort William was the home of , which was a training base for Royal Navy Coastal Forces.
 
 More on the history of the town and the region can be found in the West Highland Museum on the High Street.
-
-Ben_Nevis._From_FWVL.jpg
 
 Fort William is the northern end of the West Highland Way, a long distance route which runs through the Scottish Highlands to Milngavie, on the outskirts of Glasgow, and the start/end point of the Great Glen Way, which runs between Fort William and Inverness.
 
@@ -37,11 +35,11 @@ A "Waterfront" development was proposed by the Council, but there was no overwhe
 
 Geography
 
-FortWilliam.jpg FortWilliamParade.jpg Originally based on the still-extant village of Inverlochy, the town lies at the southern end of the Great Glen, Fort William lies near the head of Loch Linnhe, one of Scotland's longest sea lochs, beside the mouth of the rivers Nevis and Lochy. They join in the intertidal zone and briefly become one river before discharging to the sea. The town and its suburbs are surrounded by picturesque mountains. It is also on the shore of Loch Eil. It is close to Ben Nevis, the highest mountain in the British Isles, Glen Nevis and the town of Achnaphubuil, is on the opposite shore of the loch. When the railway opened to Fort William on 7 August 1894, the station was given prime position at the south end of the town. The consequence was that the town was separated from the lochside by railway tracks until the 1970s, when the present by-pass was built, and the station was re-located to the north end.
+Originally based on the still-extant village of Inverlochy, the town lies at the southern end of the Great Glen, Fort William lies near the head of Loch Linnhe, one of Scotland's longest sea lochs, beside the mouth of the rivers Nevis and Lochy. They join in the intertidal zone and briefly become one river before discharging to the sea. The town and its suburbs are surrounded by picturesque mountains. It is also on the shore of Loch Eil. It is close to Ben Nevis, the highest mountain in the British Isles, Glen Nevis and the town of Achnaphubuil, is on the opposite shore of the loch. When the railway opened to Fort William on 7 August 1894, the station was given prime position at the south end of the town. The consequence was that the town was separated from the lochside by railway tracks until the 1970s, when the present by-pass was built, and the station was re-located to the north end.
 
 The town is centred on the High Street, which was pedestrianised in the 1990s. Off this, there are several squares: Monzie Square (named after the Cameron Campbells of Monzie, Perthshire, former landowners in the town); Station Square, where the long-since demolished railway station used to be; Gordon Square (named after the Gordons, who in the late 18th century owned land where the town now stands, when the town was named Gordonsburgh); and Cameron Square — formerly known as Town Hall Square. There is also Fraser Square, which is not so square-like, since it now opens out into Middle Street, but it still houses the Imperial Hotel.
 
-The main residential areas of the town are unseen from the High Street and from the A82 main road. Upper Achintore and the Plantation spread steeply uphill from above the high street. Corpach_and_Inverlochy_crop.jpg Inverlochy, Claggan, An-Aird, Lochyside, Caol, Banavie and Corpach outwith (i.e. outside) the town are the other main residential areas. These areas are built on much flatter land than the town.
+The main residential areas of the town are unseen from the High Street and from the A82 main road. Upper Achintore and the Plantation spread steeply uphill from above the high street. Inverlochy, Claggan, An-Aird, Lochyside, Caol, Banavie and Corpach outwith (i.e. outside) the town are the other main residential areas. These areas are built on much flatter land than the town.
 
 Glenfinnan, away, is home of the Glenfinnan Monument (Jacobite era) and the famous Glenfinnan Viaduct (as seen on a Bank Of Scotland £10 note[12]). The viaduct has become known to millions in recent years as the "Harry Potter Bridge" after it featured in the films of the books by J.K. Rowling, specifically _Harry Potter and the Chamber of Secrets_. Glenfinnan has also been used in _Charlotte Gray_ and _Highlander_.
 
@@ -55,7 +53,7 @@ Fort William has an oceanic climate (_Cfb_) with moderate, but generally cool, t
 
 Transport
 
-Fort_William_sleeper.jpg train from London Euston.]] The West Highland Line passes through Fort William. Owing to the difficult terrain in the area, the line from Glasgow, to the south, enters from the northeast. Trains from Glasgow to Mallaig, the terminus of the line, have to reverse at Fort William railway station.[14]
+train from London Euston.]] The West Highland Line passes through Fort William. Owing to the difficult terrain in the area, the line from Glasgow, to the south, enters from the northeast. Trains from Glasgow to Mallaig, the terminus of the line, have to reverse at Fort William railway station.[14]
 
 An overnight train, the Caledonian sleeper, has its terminus at Fort William. This service is known colloquially as 'The Deerstalker'.[15]
 

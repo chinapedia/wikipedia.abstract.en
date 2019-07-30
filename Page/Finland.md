@@ -34,17 +34,17 @@ History
 
 Prehistory
 
-Kierikki_Stone_Age_Centre_Oulu_Finland_02.jpg dwelling from Kierikki, Oulu]] If the archeological finds from Wolf Cave are the result of Neanderthals' activities, the first people inhabited Finland approximately 120,000–130,000 years ago.[30] The area that is now Finland was settled in, at the latest, around 8,500 BCE during the Stone Age towards the end of the last glacial period. The artifacts the first settlers left behind present characteristics that are shared with those found in Estonia, Russia, and Norway.[31] The earliest people were hunter-gatherers, using stone tools.[32]
+dwelling from Kierikki, Oulu]] If the archeological finds from Wolf Cave are the result of Neanderthals' activities, the first people inhabited Finland approximately 120,000–130,000 years ago.[30] The area that is now Finland was settled in, at the latest, around 8,500 BCE during the Stone Age towards the end of the last glacial period. The artifacts the first settlers left behind present characteristics that are shared with those found in Estonia, Russia, and Norway.[31] The earliest people were hunter-gatherers, using stone tools.[32]
 
 The first pottery appeared in 5200 BCE, when the Comb Ceramic culture was introduced.[33] The arrival of the Corded Ware culture in Southern coastal Finland between 3000 and 2500 BCE may have coincided with the start of agriculture.[34] Even with the introduction of agriculture, hunting and fishing continued to be important parts of the subsistence economy.
 
-In the Bronze Age permanent all-year-round cultivation and animal husbandry spread, but the cold climate phase slowed the change.[35] Cultures in Finland shared common features in pottery and also axes had similarities but local features existed. Seima-Turbino-phenomenon brought first bronze artifacts to the region and possibly also the Finno-Ugric-Languages.[36][37] Commercial contacts that had so far mostly been to Estonia started to extend to Scandinavia. Domestic manufacture of bronze artifacts started 1300 BCE with Maaninka-type bronze axes. Bronze was imported from Volga region and from Southern Scandinavia.[38] Northern_Europe_in_814.jpg in 814 AD]] In the Iron Age population grew especially in Häme and Savo regions. Finland proper was the most densely populated area. Cultural contacts to the Baltics and Scandinavia became more frequent. Commercial contacts in the Baltic Sea region grew and extended during the 8th and 9th Centuries.
+In the Bronze Age permanent all-year-round cultivation and animal husbandry spread, but the cold climate phase slowed the change.[35] Cultures in Finland shared common features in pottery and also axes had similarities but local features existed. Seima-Turbino-phenomenon brought first bronze artifacts to the region and possibly also the Finno-Ugric-Languages.[36][37] Commercial contacts that had so far mostly been to Estonia started to extend to Scandinavia. Domestic manufacture of bronze artifacts started 1300 BCE with Maaninka-type bronze axes. Bronze was imported from Volga region and from Southern Scandinavia.[38] in 814 AD]] In the Iron Age population grew especially in Häme and Savo regions. Finland proper was the most densely populated area. Cultural contacts to the Baltics and Scandinavia became more frequent. Commercial contacts in the Baltic Sea region grew and extended during the 8th and 9th Centuries.
 
 Main exports from Finland were furs, slaves, Castoreum, and falcons to European courts. Imports included silk and other fabrics, jewelry, Ulfberht swords, and, in lesser extent, glass. Production of iron started approximately in 500 BCE.[39]
 
 In the end of the 9th century, indigenous artifact culture, especially women's jewelry and weapons, had more common local features than ever before. This has been interpreted to be expressing common Finnish identity which was born from an image of common origin.[40]
 
-Late_Iron_Age_swords_found_from_Finland.jpg swords found in Finland]]
+swords found in Finland]]
 
 An early form of Finnic languages spread to the Baltic Sea region approximately 1900 BCE with the Seima-Turbino-phenomenon. Common Finnic language was spoken around Gulf of Finland 2000 years ago. The dialects from which the modern-day Finnish language was developed came into existence during the Iron Age.[41] Although distantly related, the Sami retained the hunter-gatherer lifestyle longer than the Finns. The Sami cultural identity and the Sami language have survived in Lapland, the northernmost province, but the Sami have been displaced or assimilated elsewhere.
 
@@ -52,14 +52,14 @@ The 12th and 13th centuries were a violent time in the northern Baltic Sea. The 
 
 Swedish era
 
-Swedish_Empire_(1560-1815)_en2.png following the Treaty of Roskilde of 1658.
+following the Treaty of Roskilde of 1658.
 Dark green: Sweden proper, as represented in the Riksdag of the Estates. Other greens: Swedish dominions and possessions]] As a result of the crusades and the colonisation of some Finnish coastal areas with Christian Swedish population during the Middle Ages,[45] Finland gradually became part of the kingdom of Sweden and the sphere of influence of the Catholic Church. Due to the Swedish conquest, the Finnish upper class lost its position and lands to the new Swedish and German nobility and to the Catholic Church.[46] In Sweden even in the 17th and 18th centuries, it was clear that Finland was a conquered country and its inhabitants could be treated arbitrarily. Swedish kings visited Finland rarely and in Swedish contemporary texts Finns were portrayed to be primitive and their language inferior.[47]
 
 Swedish became the dominant language of the nobility, administration, and education; Finnish was chiefly a language for the peasantry, clergy, and local courts in predominantly Finnish-speaking areas. During the Protestant Reformation, the Finns gradually converted to Lutheranism.[48]
 
 In the 16th century, Mikael Agricola published the first written works in Finnish. The first university in Finland, the Royal Academy of Turku, was established in 1640. Finland suffered a severe famine in 1696–1697, during which about one third of the Finnish population died,[49] and a devastating plague a few years later.
 
-Suomenlinna.jpg is a UNESCO World Heritage Site consisting of an inhabited 18th-century sea fortress built on six islands. It is one of Finland's most popular tourist attractions.]]
+is a UNESCO World Heritage Site consisting of an inhabited 18th-century sea fortress built on six islands. It is one of Finland's most popular tourist attractions.]]
 
 In the 18th century, wars between Sweden and Russia twice led to the occupation of Finland by Russian forces, times known to the Finns as the Greater Wrath (1714–1721) and the Lesser Wrath (1742–1743).[50] It is estimated that almost an entire generation of young men was lost during the Great Wrath, due mainly to the destruction of homes and farms, and to the burning of Helsinki.[51] By this time Finland was the predominant term for the whole area from the Gulf of Bothnia to the Russian border.
 
@@ -71,7 +71,7 @@ Notwithstanding the efforts of Finland's elite and nobility to break ties with S
 
 Russian Empire era
 
-Pekka_Halonen_-_Tienraivaajia_Karjalassa.jpg[55]]]
+[55]]]
 
 On 29 March 1809, having been taken over by the armies of Alexander I of Russia in the Finnish War, Finland became an autonomous Grand Duchy in the Russian Empire until the end of 1917. In 1811, Alexander I incorporated Russian Vyborg province into the Grand Duchy of Finland. During the Russian era, the Finnish language began to gain recognition. From the 1860s onwards, a strong Finnish nationalist movement known as the Fennoman movement grew. Milestones included the publication of what would become Finland's national epic – the _Kalevala_ – in 1835, and the Finnish language's achieving equal legal status with Swedish in 1892.
 
@@ -81,13 +81,13 @@ In 1906, universal suffrage was adopted in the Grand Duchy of Finland. However, 
 
 Civil war and early independence
 
-Firing_squad_in_Lankipohja.jpg (1918)]] After the 1917 February Revolution, the position of Finland as part of the Russian Empire was questioned, mainly by Social Democrats. Since the head of state was the tsar of Russia, it was not clear who the chief executive of Finland was after the revolution. The Parliament, controlled by social democrats, passed the so-called Power Act to give the highest authority to the Parliament. This was rejected by the Russian Provisional Government which decided to dissolve the Parliament.[59]
+(1918)]] After the 1917 February Revolution, the position of Finland as part of the Russian Empire was questioned, mainly by Social Democrats. Since the head of state was the tsar of Russia, it was not clear who the chief executive of Finland was after the revolution. The Parliament, controlled by social democrats, passed the so-called Power Act to give the highest authority to the Parliament. This was rejected by the Russian Provisional Government which decided to dissolve the Parliament.[59]
 
 New elections were conducted, in which right-wing parties won with a slim majority. Some social democrats refused to accept the result and still claimed that the dissolution of the parliament (and thus the ensuing elections) were extralegal. The two nearly equally powerful political blocs, the right-wing parties and the social democratic party, were highly antagonized.
 
 The October Revolution in Russia changed the geopolitical situation anew. Suddenly, the right-wing parties in Finland started to reconsider their decision to block the transfer of highest executive power from the Russian government to Finland, as the Bolsheviks took power in Russia. Rather than acknowledge the authority of the _Power Act_ of a few months earlier, the right-wing government declared independence on 6 December 1917.
 
-The_victory_parade_of_the_White_Army_1918.jpg in 1918]] On 27 January 1918, the official opening shots of the war were fired in two simultaneous events. The government started to disarm the Russian forces in Pohjanmaa, and the Social Democratic Party staged a coup. The latter gained control of southern Finland and Helsinki, but the white government continued in exile from Vaasa. This sparked the brief but bitter civil war. The Whites, who were supported by Imperial Germany, prevailed over the Reds.[60] After the war, tens of thousands of Reds and suspected sympathizers were interned in camps, where thousands died by execution or from malnutrition and disease. Deep social and political enmity was sown between the Reds and Whites and would last until the Winter War and beyond. The civil war and activist expeditions into Soviet Russia strained Eastern relations.
+in 1918]] On 27 January 1918, the official opening shots of the war were fired in two simultaneous events. The government started to disarm the Russian forces in Pohjanmaa, and the Social Democratic Party staged a coup. The latter gained control of southern Finland and Helsinki, but the white government continued in exile from Vaasa. This sparked the brief but bitter civil war. The Whites, who were supported by Imperial Germany, prevailed over the Reds.[60] After the war, tens of thousands of Reds and suspected sympathizers were interned in camps, where thousands died by execution or from malnutrition and disease. Deep social and political enmity was sown between the Reds and Whites and would last until the Winter War and beyond. The civil war and activist expeditions into Soviet Russia strained Eastern relations.
 
 After a brief experimentation with monarchy, Finland became a presidential republic, with Kaarlo Juho Ståhlberg elected as its first president in 1919. The Finnish–Russian border was determined by the Treaty of Tartu in 1920, largely following the historic border but granting Pechenga () and its Barents Sea harbour to Finland. Finnish democracy did not see any Soviet coup attempts and survived the anti-Communist Lapua Movement. The relationship between Finland and the Soviet Union was tense. Army officers were trained in France, and relations with Western Europe and Sweden were strengthened.
 
@@ -95,19 +95,19 @@ In 1917, the population was 3 million. Credit-based land reform was enacted afte
 
 World War II and after
 
-Finnish_areas_ceded_in_1944.png after World War II. The Porkkala land lease was returned to Finland in 1956]] Finland fought the Soviet Union in the Winter War of 1939–1940 after the Soviet Union attacked Finland and in the Continuation War of 1941–1944, following Operation Barbarossa, when Finland aligned with Germany following Germany's invasion of the Soviet Union. For 872 days, the German army, aided indirectly by Finnish forces, besieged Leningrad, the USSR's second-largest city.[63] After resisting a major Soviet offensive in June/July 1944 led to a standstill, Finland reached an armistice with the Soviet Union. This was followed by the Lapland War of 1944–1945, when Finland fought retreating German forces in northern Finland.
+after World War II. The Porkkala land lease was returned to Finland in 1956]] Finland fought the Soviet Union in the Winter War of 1939–1940 after the Soviet Union attacked Finland and in the Continuation War of 1941–1944, following Operation Barbarossa, when Finland aligned with Germany following Germany's invasion of the Soviet Union. For 872 days, the German army, aided indirectly by Finnish forces, besieged Leningrad, the USSR's second-largest city.[63] After resisting a major Soviet offensive in June/July 1944 led to a standstill, Finland reached an armistice with the Soviet Union. This was followed by the Lapland War of 1944–1945, when Finland fought retreating German forces in northern Finland.
 
 The treaties signed in 1947 and 1948 with the Soviet Union included Finnish obligations, restraints, and reparations—as well as further Finnish territorial concessions in addition to those in the Moscow Peace Treaty of 1940. As a result of the two wars, Finland ceded most of Finnish Karelia, Salla, and Petsamo, which amounted to 10% of its land area and 20% of its industrial capacity, including the ports of Vyborg (Viipuri) and the ice-free Liinakhamari (Liinahamari). Almost the whole population, some 400,000 people, fled these areas. The former Finnish territory now constitutes part of Russia's Republic of Karelia. Finland was never occupied by Soviet forces and it retained its independence, but at a loss of about 93,000 soldiers.
 
 Finland rejected Marshall aid, in apparent deference to Soviet desires. However, the United States provided secret development aid and helped the Social Democratic Party, in hopes of preserving Finland's independence.[64] Establishing trade with the Western powers, such as the United Kingdom, and paying reparations to the Soviet Union produced a transformation of Finland from a primarily agrarian economy to an industrialised one. Valmet was founded to create materials for war reparations. After the reparations had been paid off, Finland continued to trade with the Soviet Union in the framework of bilateral trade.
 
-Urho_Kaleva_Kekkonen.jpg, the eighth president of Finland (1956–1982)]] In 1950, 46% of Finnish workers worked in agriculture and a third lived in urban areas.[65] The new jobs in manufacturing, services, and trade quickly attracted people to the towns. The average number of births per woman declined from a baby boom peak of 3.5 in 1947 to 1.5 in 1973.[66] When baby-boomers entered the workforce, the economy did not generate jobs quickly enough, and hundreds of thousands emigrated to the more industrialized Sweden, with emigration peaking in 1969 and 1970.[67] The 1952 Summer Olympics brought international visitors. Finland took part in trade liberalization in the World Bank, the International Monetary Fund and the General Agreement on Tariffs and Trade.
+, the eighth president of Finland (1956–1982)]] In 1950, 46% of Finnish workers worked in agriculture and a third lived in urban areas.[65] The new jobs in manufacturing, services, and trade quickly attracted people to the towns. The average number of births per woman declined from a baby boom peak of 3.5 in 1947 to 1.5 in 1973.[66] When baby-boomers entered the workforce, the economy did not generate jobs quickly enough, and hundreds of thousands emigrated to the more industrialized Sweden, with emigration peaking in 1969 and 1970.[67] The 1952 Summer Olympics brought international visitors. Finland took part in trade liberalization in the World Bank, the International Monetary Fund and the General Agreement on Tariffs and Trade.
 
 Officially claiming to be neutral, Finland lay in the grey zone between the Western countries and the Soviet Union. The YYA Treaty (Finno-Soviet Pact of Friendship, Cooperation and Mutual Assistance) gave the Soviet Union some leverage in Finnish domestic politics. This was extensively exploited by president Urho Kekkonen against his opponents. He maintained an effective monopoly on Soviet relations from 1956 on, which was crucial for his continued popularity. In politics, there was a tendency of avoiding any policies and statements that could be interpreted as anti-Soviet. This phenomenon was given the name "Finlandization" by the West German press.
 
 Despite close relations with the Soviet Union, Finland maintained a market economy. Various industries benefited from trade privileges with the Soviets, which explains the widespread support that pro-Soviet policies enjoyed among business interests in Finland. Economic growth was rapid in the postwar era, and by 1975 Finland's GDP per capita was the 15th-highest in the world. In the 1970s and 80s, Finland built one of the most extensive welfare states in the world. Finland negotiated with the European Economic Community (EEC, a predecessor of the European Union) a treaty that mostly abolished customs duties towards the EEC starting from 1977, although Finland did not fully join. In 1981, President Urho Kekkonen's failing health forced him to retire after holding office for 25 years.
 
-Tratado_de_Lisboa_13_12_2007_(081).jpg in 2007]]
+in 2007]]
 
 Finland reacted cautiously to the collapse of the Soviet Union, but swiftly began increasing integration with the West. On 21 September 1990, Finland unilaterally declared the Paris Peace Treaty obsolete, following the German reunification decision nine days earlier.[68]
 
@@ -116,13 +116,13 @@ Miscalculated macroeconomic decisions, a banking crisis, the collapse of its lar
 
 Geography
 
-Map_of_Finland-en.svg Lying approximately between latitudes 60° and 70° N, and longitudes 20° and 32° E, Finland is one of the world's northernmost countries. Of world capitals, only Reykjavík lies more to the north than Helsinki. The distance from the southernmost point – Hanko in Uusimaa – to the northernmost – Nuorgam in Lapland – is .
+Lying approximately between latitudes 60° and 70° N, and longitudes 20° and 32° E, Finland is one of the world's northernmost countries. Of world capitals, only Reykjavík lies more to the north than Helsinki. The distance from the southernmost point – Hanko in Uusimaa – to the northernmost – Nuorgam in Lapland – is .
 
 Finland has about 168,000 lakes (of area larger than ) and 179,000 islands.[70] Its largest lake, Saimaa, is the fourth largest in Europe. The Finnish Lakeland is the area with the most lakes in the country. The greatest concentration of islands is found in the southwest, in the Archipelago Sea between continental Finland and the main island of Åland.
 
 Much of the geography of Finland is a result of the Ice Age. The glaciers were thicker and lasted longer in Fennoscandia compared with the rest of Europe. Their eroding effects have left the Finnish landscape mostly flat with few hills and fewer mountains. Its highest point, the Halti at , is found in the extreme north of Lapland at the border between Finland and Norway. The highest mountain whose peak is entirely in Finland is Ridnitšohkka at 1,316 m (4,318 ft), directly adjacent to Halti.
 
-Cygnus_cygnus_from_zh.JPG, Finland's national bird]]
+, Finland's national bird]]
 
 The retreating glaciers have left the land with morainic deposits in formations of eskers. These are ridges of stratified gravel and sand, running northwest to southeast, where the ancient edge of the glacier once lay. Among the biggest of these are the three Salpausselkä ridges that run across southern Finland.
 
@@ -134,19 +134,19 @@ Biodiversity
 
 Phytogeographically, Finland is shared between the Arctic, central European, and northern European provinces of the Circumboreal Region within the Boreal Kingdom. According to the WWF, the territory of Finland can be subdivided into three ecoregions: the Scandinavian and Russian taiga, Sarmatic mixed forests, and Scandinavian Montane Birch forest and grasslands. Taiga covers most of Finland from northern regions of southern provinces to the north of Lapland. On the southwestern coast, south of the Helsinki-Rauma line, forests are characterized by mixed forests, that are more typical in the Baltic region. In the extreme north of Finland, near the tree line and Arctic Ocean, Montane Birch forests are common.
 
-Ähtärin_karhut_7.jpg (_Ursus arctos_) is Finland's national animal.]] Similarly, Finland has a diverse and extensive range of fauna. There are at least sixty native mammalian species, 248 breeding bird species, over 70 fish species, and 11 reptile and frog species present today, many migrating from neighboring countries thousands of years ago. Large and widely recognized wildlife mammals found in Finland are the brown bear (the national animal), gray wolf, wolverine, and elk. Three of the more striking birds are the whooper swan, a large European swan and the national bird of Finland; the Western capercaillie, a large, black-plumaged member of the grouse family; and the Eurasian eagle-owl. The latter is considered an indicator of old-growth forest connectivity, and has been declining because of landscape fragmentation.[74] The most common breeding birds are the willow warbler, common chaffinch, and redwing.[75] Of some seventy species of freshwater fish, the northern pike, perch, and others are plentiful. Atlantic salmon remains the favourite of fly rod enthusiasts.
+(_Ursus arctos_) is Finland's national animal.]] Similarly, Finland has a diverse and extensive range of fauna. There are at least sixty native mammalian species, 248 breeding bird species, over 70 fish species, and 11 reptile and frog species present today, many migrating from neighboring countries thousands of years ago. Large and widely recognized wildlife mammals found in Finland are the brown bear (the national animal), gray wolf, wolverine, and elk. Three of the more striking birds are the whooper swan, a large European swan and the national bird of Finland; the Western capercaillie, a large, black-plumaged member of the grouse family; and the Eurasian eagle-owl. The latter is considered an indicator of old-growth forest connectivity, and has been declining because of landscape fragmentation.[74] The most common breeding birds are the willow warbler, common chaffinch, and redwing.[75] Of some seventy species of freshwater fish, the northern pike, perch, and others are plentiful. Atlantic salmon remains the favourite of fly rod enthusiasts.
 
 The endangered Saimaa ringed seal, one of only three lake seal species in the world, exists only in the Saimaa lake system of southeastern Finland, down to only 390 seals today.[76] It has become the emblem of the Finnish Association for Nature Conservation.[77]
 
 Climate
 
-Finland_Köppen.svg types of Finland]] Koli_National_Park_in_Northern_Karelia.jpg in North Karelia]] Repoveden_Kansallispuisto_Kesayonauringossa.jpg in southeastern Finland]]
+types of Finland]] in North Karelia]] in southeastern Finland]]
 
 The main factor influencing Finland's climate is the country's geographical position between the 60th and 70th northern parallels in the Eurasian continent's coastal zone. In the Köppen climate classification, the whole of Finland lies in the boreal zone, characterized by warm summers and freezing winters. Within the country, the temperateness varies considerably between the southern coastal regions and the extreme north, showing characteristics of both a maritime and a continental climate. Finland is near enough to the Atlantic Ocean to be continuously warmed by the Gulf Stream. The Gulf Stream combines with the moderating effects of the Baltic Sea and numerous inland lakes to explain the unusually warm climate compared with other regions that share the same latitude, such as Alaska, Siberia, and southern Greenland.[78]
 
 Winters in southern Finland (when mean daily temperature remains below ) are usually about 100 days long, and in the inland the snow typically covers the land from about late November to April, and on the coastal areas such as Helsinki, snow often covers the land from late December to late March.[79] Even in the south, the harshest winter nights can see the temperatures fall to although on coastal areas like Helsinki, temperatures below are rare. Climatic summers (when mean daily temperature remains above ) in southern Finland last from about late May to mid-September, and in the inland, the warmest days of July can reach over .[80] Although most of Finland lies on the taiga belt, the southernmost coastal regions are sometimes classified as hemiboreal.[81]
 
-Isokuru.JPG, Lapland]]
+, Lapland]]
 
 In northern Finland, particularly in Lapland, the winters are long and cold, while the summers are relatively warm but short. The most severe winter days in Lapland can see the temperature fall down to . The winter of the north lasts for about 200 days with permanent snow cover from about mid-October to early May. Summers in the north are quite short, only two to three months, but can still see maximum daily temperatures above during heat waves.[82] No part of Finland has Arctic tundra, but Alpine tundra can be found at the fells Lapland.[83]
 
@@ -218,44 +218,42 @@ In addition to municipalities, two intermediate levels are defined. Municipaliti
 
 In the following chart, the number of inhabitants includes those living in the entire municipality (_kunta/kommun_), not just in the built-up area. The land area is given in km², and the density in inhabitants per km² (land area). The figures are as of {{#time:d F Y |}}. The capital region – comprising Helsinki, Vantaa, Espoo and Kauniainen – forms a continuous conurbation of over 1.1 million people. However, common administration is limited to voluntary cooperation of all municipalities, e.g. in Helsinki Metropolitan Area Council.
 
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| City                                  | Population | Land area | Density | Regional map                                                                                                        | Population density map                        |
-+=======================================+============+===========+=========+=====================================================================================================================+===============================================+
-| Helsinki.vaakuna.svg HELSINKI         |            |           | }}      | rowspan ="15" | Suomi.kunnat.2009.template.thick.svg (thin borders) and regions (thick borders) of Finland (2009)]] | rowspan ="15" | Population_map_of_Finland.svg |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Espoo.vaakuna.svg ESPOO               |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Tampere.vaakuna.svg TAMPERE           |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Vantaa.vaakuna.svg VANTAA             |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Oulu.vaakuna.svg OULU                 |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Turku.vaakuna.svg TURKU               |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Jyväskylä.vaakuna.svg JYVÄSKYLÄ       |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Lahti.vaakuna.svg LAHTI               |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Kuopio.vaakuna.svg KUOPIO             |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Kouvola.vaakuna.2009.svg KOUVOLA      |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Porin_vaakuna.svg PORI                |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Joensuu.vaakuna.svg JOENSUU           |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Lappeenranta.vaakuna.svg LAPPEENRANTA |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Hämeenlinna.vaakuna.svg HÄMEENLINNA   |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| Vaasa.vaakuna.svg VAASA               |            |           | }}      |                                                                                                                     |                                               |
-+---------------------------------------+------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| City         | Population | Land area | Density | Regional map                                                                   | Population density map |
++==============+============+===========+=========+================================================================================+========================+
+| HELSINKI     |            |           | }}      | rowspan ="15" | (thin borders) and regions (thick borders) of Finland (2009)]] | rowspan ="15" |        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| ESPOO        |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| TAMPERE      |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| VANTAA       |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| OULU         |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| TURKU        |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| JYVÄSKYLÄ    |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| LAHTI        |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| KUOPIO       |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| KOUVOLA      |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| PORI         |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| JOENSUU      |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| LAPPEENRANTA |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| HÄMEENLINNA  |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
+| VAASA        |            |           | }}      |                                                                                |                        |
++--------------+------------+-----------+---------+--------------------------------------------------------------------------------+------------------------+
 
 
 Politics
-
-Finland is a member of:
 
 Constitution
 
@@ -269,7 +267,7 @@ The current president was elected from the ranks of the National Coalition Party
 
 Parliament
 
-Eduskuntatalo_Helsinki.jpg's main building]]
+'s main building]]
 
 The 200-member unicameral Parliament of Finland (, ) exercises supreme legislative authority in the country. It may alter the constitution and ordinary laws, dismiss the cabinet, and override presidential vetoes. Its acts are not subject to judicial review; the constitutionality of new laws is assessed by the parliament's constitutional law committee. The parliament is elected for a term of four years using the proportional D'Hondt method within a number of multi-seat constituencies through the most open list multi-member districts. Various parliament committees listen to experts and prepare legislation. The speaker of the parliament is Paula Risikko (National Coalition).[92]
 
@@ -315,7 +313,7 @@ As no one party ever dominates the parliament, Finnish cabinets are multi-party 
 
 Law
 
-Supreme_Court_of_Finland.jpg The judicial system of Finland is a civil law system divided between courts with regular civil and criminal jurisdiction and administrative courts with jurisdiction over litigation between individuals and the public administration. Finnish law is codified and based on Swedish law and in a wider sense, civil law or Roman law. The court system for civil and criminal jurisdiction consists of local courts (_käräjäoikeus_, _tingsrätt_), regional appellate courts (_hovioikeus_, _hovrätt_), and the Supreme Court (_korkein oikeus_, _högsta domstolen_). The administrative branch of justice consists of administrative courts (_hallinto-oikeus_, _förvaltningsdomstol_) and the Supreme Administrative Court (_korkein hallinto-oikeus_, _högsta förvaltningsdomstolen_). In addition to the regular courts, there are a few special courts in certain branches of administration. There is also a High Court of Impeachment for criminal charges against certain high-ranking officeholders.
+The judicial system of Finland is a civil law system divided between courts with regular civil and criminal jurisdiction and administrative courts with jurisdiction over litigation between individuals and the public administration. Finnish law is codified and based on Swedish law and in a wider sense, civil law or Roman law. The court system for civil and criminal jurisdiction consists of local courts (_käräjäoikeus_, _tingsrätt_), regional appellate courts (_hovioikeus_, _hovrätt_), and the Supreme Court (_korkein oikeus_, _högsta domstolen_). The administrative branch of justice consists of administrative courts (_hallinto-oikeus_, _förvaltningsdomstol_) and the Supreme Administrative Court (_korkein hallinto-oikeus_, _högsta förvaltningsdomstolen_). In addition to the regular courts, there are a few special courts in certain branches of administration. There is also a High Court of Impeachment for criminal charges against certain high-ranking officeholders.
 
 Around 92% of residents have confidence in Finland's security institutions.[96] The overall crime rate of Finland is not high in the EU context. Some crime types are above average, notably the high homicide rate for Western Europe.[97] A day fine system is in effect and also applied to offenses such as speeding.
 
@@ -325,7 +323,7 @@ In 2008, Transparency International criticized the lack of transparency of the s
 
 Foreign relations
 
-Nobel_Peace_Prize_2008_Martti_Ahtisaari.jpg receiving the Nobel Peace Prize in 2008]]
+receiving the Nobel Peace Prize in 2008]]
 
 According to the 2012 constitution, the president (currently Sauli Niinistö) leads foreign policy in cooperation with the government, except that the president has no role in EU affairs.[102]
 
@@ -339,7 +337,7 @@ Military
 
 The Finnish Defence Forces consist of a cadre of professional soldiers (mainly officers and technical personnel), currently serving conscripts, and a large reserve. The standard readiness strength is 34,700 people in uniform, of which 25% are professional soldiers. A universal male conscription is in place, under which all male Finnish nationals above 18 years of age serve for 6 to 12 months of armed service or 12 months of civilian (non-armed) service. Voluntary post-conscription overseas peacekeeping service is popular, and troops serve around the world in UN, NATO, and EU missions. Approximately 500 women choose voluntary military service every year.[107] Women are allowed to serve in all combat arms including front-line infantry and special forces. The army consists of a highly mobile field army backed up by local defence units. The army defends the national territory and its military strategy employs the use of the heavily forested terrain and numerous lakes to wear down an aggressor, instead of attempting to hold the attacking army on the frontier.
 
-Tracked_transport_vehicle_Sisu_NA_110.JPG NA-110 tracked transport vehicle of the Finnish Army. Most conscripts receive training for warfare in winter, and transport vehicles such as this give mobility in heavy snow.]]
+NA-110 tracked transport vehicle of the Finnish Army. Most conscripts receive training for warfare in winter, and transport vehicles such as this give mobility in heavy snow.]]
 
 Finnish defence expenditure per capita is one of the highest in the European Union.[108] The Finnish military doctrine is based on the concept of total defence. The term total means that all sectors of the government and economy are involved in the defence planning. The armed forces are under the command of the Chief of Defence (currently General Jarmo Lindberg), who is directly subordinate to the president in matters related to military command. The branches of the military are the army, the navy, and the air force. The border guard is under the Ministry of the Interior but can be incorporated into the Defence Forces when required for defence readiness.
 
@@ -350,13 +348,11 @@ In May 2015, Finnish Military sent nearly one million letters to all relevant ma
 
 Economy
 
-Angry_Birds_Land_Särkänniemi_11.jpg, a mobile phone game developed in Finland, has become a commercial hit both domestically and internationally.]]
+, a mobile phone game developed in Finland, has become a commercial hit both domestically and internationally.]]
 
 The economy of Finland has a per capita output equal to that of other European economies such as those of France, Germany, Belgium, or the UK. The largest sector of the economy is the service sector at 66% of GDP, followed by manufacturing and refining at 31%. Primary production represents 2.9%.[123] With respect to foreign trade, the key economic sector is manufacturing. The largest industries in 2007[124] were electronics (22%); machinery, vehicles, and other engineered metal products (21.1%); forest industry (13%); and chemicals (11%). The gross domestic product peaked in 2008. , the country's economy is at the 2006 level.[125][126]
 
 Finland has significant timber, mineral (iron, chromium, copper, nickel, and gold), and freshwater resources. Forestry, paper factories, and the agricultural sector (on which taxpayers spend around 3 billion euros annually) are important for rural residents so any policy changes affecting these sectors are politically sensitive for politicians dependent on rural votes. The Greater Helsinki area generates around one third of Finland's GDP. In a 2004 OECD comparison, high-technology manufacturing in Finland ranked second largest after Ireland. Knowledge-intensive services have also resulted in the smallest and slow-growth sectors – especially agriculture and low-technology manufacturing – being ranked the second largest after Ireland.[127] The overall short-term outlook was good and GDP growth has been above that of many EU peers.
-
-Image_illustrates_GDP_growth_of_Finland.png
 
 Finland is highly integrated into the global economy, and international trade produces one third of GDP. Trade with the European Union makes up 60% of Finland's total trade. The largest trade flows are with Germany, Russia, Sweden, the United Kingdom, the United States, the Netherlands, and China. Trade policy is managed by the European Union, where Finland has traditionally been among the free trade supporters, except for agricultural policy. Finland is the only Nordic country to have joined the Eurozone.
 
@@ -378,11 +374,9 @@ Finland has the highest concentration of cooperatives relative to its population
 
 Energy
 
-EPR_OLK3_TVO_fotomont_2_Vogelperspektive.jpg. On the far left is a visualization of a third unit, which, when completed, will become Finland's fifth commercial nuclear reactor.[145]]] The free and largely privately owned financial and physical Nordic energy markets traded in NASDAQ OMX Commodities Europe and Nord Pool Spot exchanges, have provided competitive prices compared with other EU countries. , Finland has roughly the lowest industrial electricity prices in the EU-15 (equal to France).[146]
+. On the far left is a visualization of a third unit, which, when completed, will become Finland's fifth commercial nuclear reactor.[145]]] The free and largely privately owned financial and physical Nordic energy markets traded in NASDAQ OMX Commodities Europe and Nord Pool Spot exchanges, have provided competitive prices compared with other EU countries. , Finland has roughly the lowest industrial electricity prices in the EU-15 (equal to France).[146]
 
 In 2006, the energy market was around 90 terawatt hours and the peak demand around 15 gigawatts in winter. This means that the energy consumption per capita is around 7.2 tons of oil equivalent per year. Industry and construction consumed 51% of total consumption, a relatively high figure reflecting Finland's industries.[147][148] Finland's hydrocarbon resources are limited to peat and wood. About 10–15% of the electricity is produced by hydropower,[149] which is low compared with more mountainous Sweden or Norway. In 2008, renewable energy (mainly hydropower and various forms of wood energy) was high at 31% compared with the EU average of 10.3% in final energy consumption.[150]
-
-Statistics_of_the_energy_supply_in_Finland.jpg
 
 Finland has four privately owned nuclear reactors producing 18% of the country's energy[151] and one research reactor at the Otaniemi campus. The fifth AREVA-Siemens-built reactor – the world's largest at 1600 MWe and a focal point of Europe's nuclear industry – has faced many delays and is currently scheduled to be operational by 2018–2020, a decade after the original planned opening.[152] A varying amount (5–17%) of electricity has been imported from Russia (at around 3 gigawatt power line capacity), Sweden and Norway.
 
@@ -390,7 +384,7 @@ Energy companies are about to increase nuclear power production, as in July 2010
 
 Transport
 
-Kontio_towing.jpgs enable shipping even during severe winters.]] Green_Finnish_Pendolino.JPG operates a railway network serving all major cities.]]
+s enable shipping even during severe winters.]] operates a railway network serving all major cities.]]
 
 The extensive road system is utilized by most internal cargo and passenger traffic. The annual state operated road network expenditure of around 1 billion euro is paid with vehicle and fuel taxes which amount to around 1.5 billion euro and 1 billion euro.
 
@@ -402,7 +396,7 @@ The majority of international cargo utilizes ports. Port logistics prices are lo
 
 Industry
 
-Finnair,_Airbus_A350-900_OH-LWC_NRT_(30222794141).jpg Airbus A350 XWB]] Finland was rapidly industrialized after World War II, achieving GDP per capita levels equal to that of Japan or the UK in the beginning of the 1970s. Initially, most development was based on two broad groups of export-led industries, the "metal industry" (_metalliteollisuus_) and "forest industry" (_metsäteollisuus_). The "metal industry" includes shipbuilding, metalworking, the car industry, engineered products such as motors and electronics, and production of metals (steel, copper and chromium). The world's biggest cruise ships are built in Finnish shipyards. The "forest industry" includes forestry, timber, pulp and paper, and is a logical development based on Finland's extensive forest resources (77% of the area is covered by forest, most of it in renewable use). In the pulp and paper industry, many of the largest companies are based in Finland (Ahlstrom, Metsä Board, and UPM). However, the Finnish economy has diversified, with expansion into fields such as electronics (e.g. Nokia), metrology (Vaisala), transport fuels (Neste), chemicals (Kemira), engineering consulting (Pöyry), and information technology (e.g. Rovio Entertainment, known for Angry Birds), and is no longer dominated by the two sectors of metal and forest industry. Likewise, the structure has changed, with the service sector growing, with manufacturing reducing in importance; agriculture is only a minor part. Despite this, production for export is still more prominent than in Western Europe, thus making Finland more vulnerable to global economic trends.
+Airbus A350 XWB]] Finland was rapidly industrialized after World War II, achieving GDP per capita levels equal to that of Japan or the UK in the beginning of the 1970s. Initially, most development was based on two broad groups of export-led industries, the "metal industry" (_metalliteollisuus_) and "forest industry" (_metsäteollisuus_). The "metal industry" includes shipbuilding, metalworking, the car industry, engineered products such as motors and electronics, and production of metals (steel, copper and chromium). The world's biggest cruise ships are built in Finnish shipyards. The "forest industry" includes forestry, timber, pulp and paper, and is a logical development based on Finland's extensive forest resources (77% of the area is covered by forest, most of it in renewable use). In the pulp and paper industry, many of the largest companies are based in Finland (Ahlstrom, Metsä Board, and UPM). However, the Finnish economy has diversified, with expansion into fields such as electronics (e.g. Nokia), metrology (Vaisala), transport fuels (Neste), chemicals (Kemira), engineering consulting (Pöyry), and information technology (e.g. Rovio Entertainment, known for Angry Birds), and is no longer dominated by the two sectors of metal and forest industry. Likewise, the structure has changed, with the service sector growing, with manufacturing reducing in importance; agriculture is only a minor part. Despite this, production for export is still more prominent than in Western Europe, thus making Finland more vulnerable to global economic trends.
 
 In an Economist Intelligence Unit report released in September 2011, Finland clinched the second place after the United States on Benchmarking IT Industry Competitiveness 2011 which scored on 6 key indicators: overall business environment, technology infrastructure, human capital, legal framework, public support for industry development, and research and development landscape.[156]
 
@@ -416,11 +410,11 @@ The 2007 IMD World Competitiveness Yearbook ranked Finland 17th most competitive
 
 Economists attribute much growth to reforms in the product markets. According to the OECD, only four EU-15 countries have less regulated product markets (UK, Ireland, Denmark and Sweden) and only one has less regulated financial markets (Denmark). Nordic countries were pioneers in liberalizing energy, postal, and other markets in Europe.[163] The legal system is clear and business bureaucracy less than most countries.[164] Property rights are well protected and contractual agreements are strictly honoured.[165] Finland is rated the least corrupt country in the world in the Corruption Perceptions Index[166] and 13th in the Ease of doing business index. This indicates exceptional ease in cross-border trading (5th), contract enforcement (7th), business closure (5th), tax payment (83rd), and low worker hardship (127th).[167]
 
-Finnish law forces all workers to obey the national contracts that are drafted every few years for each profession and seniority level. The agreement becomes universally enforceable provided that more than 50% of the employees support it, in practice by being a member of a relevant trade union. The unionization rate is high (70%), especially in the middle class (AKAVA—80%). A lack of a national agreement in an industry is considered an exception.[168][169] Rovaniemi_pajakyla.jpg village in Rovaniemi]]
+Finnish law forces all workers to obey the national contracts that are drafted every few years for each profession and seniority level. The agreement becomes universally enforceable provided that more than 50% of the employees support it, in practice by being a member of a relevant trade union. The unionization rate is high (70%), especially in the middle class (AKAVA—80%). A lack of a national agreement in an industry is considered an exception.[168][169] village in Rovaniemi]]
 
 Tourism
 
-Finlandia_arriving_Tallinn_28_May_2015.JPG Finlandia, one of the Baltic Sea cruiseferries]] In 2005, Finnish tourism grossed over €6.7 billion with a 5% increase from the previous year. Much of the sudden growth can be attributed to the globalisation and modernisation of the country as well as a rise in positive publicity and awareness. There are many attractions in Finland which attracted over 8 million visitors in 2013.
+Finlandia, one of the Baltic Sea cruiseferries]] In 2005, Finnish tourism grossed over €6.7 billion with a 5% increase from the previous year. Much of the sudden growth can be attributed to the globalisation and modernisation of the country as well as a rise in positive publicity and awareness. There are many attractions in Finland which attracted over 8 million visitors in 2013.
 
 The Finnish landscape is covered with thick pine forests and rolling hills, and complemented with a labyrinth of lakes and inlets. Much of Finland is pristine and virgin as it contains 40 national parks from the Southern shores of the Gulf of Finland to the high fells of Lapland. Finland also has urbanised regions with many cultural events and activities.
 
@@ -438,8 +432,6 @@ The population of Finland is currently about 5.5 million inhabitants and is agin
 The immigrant population is growing quite rapidly. By 2035, the three largest cites in Finland will all have a foreign speaking population percentage of over a quarter each, with Helsinki rising to 26%, Espoo to 30% and Vantaa to 34%. The Helsinki region alone will have 437,000 foreign speakers, up by 236,000.[182]
 
 Language
-
-Languages_of_Finnish_municipalities_(2016).svg
 
 Finnish and Swedish are the official languages of Finland. Finnish predominates nationwide while Swedish is spoken in some coastal areas in the west and south and in the autonomous region of Åland. The native language of 89% of the population is Finnish,[183] which is part of the Finnic subgroup of the Uralic languages. The language is one of only four official EU languages not of Indo-European origin. Finnish is closely related to Karelian and Estonian and more remotely to the Sami languages and Hungarian. Swedish is the native language of 5.3% of the population (Swedish-speaking Finns).[184]
 
@@ -474,7 +466,7 @@ Religion
   2018
   --------------------------
 
-With 3.9 million members,[197] the Evangelical Lutheran Church of Finland is one of the largest Lutheran churches in the world and is also by far Finland's largest religious body; at the end of 2017, 70.9% of Finns were members of the church.[198] The Evangelical Lutheran Church of Finland sees its share of the country's population declining by roughly one percent annually in recent years.[199] The decline has been due to both church membership resignations and falling baptism rates.[200][201] The second largest group, accounting for 26.3% of the population[202] in 2017, has no religious affiliation. The irreligious group rose quickly from just below 13% in the year 2000. A small minority belongs to the Finnish Orthodox Church (1.1%). Other Protestant denominations and the Roman Catholic Church are significantly smaller, as are the Jewish and other non-Christian communities (totalling 1.6%). The Pew Research Center estimated the Muslim population at 2.7% in 2016.[203] The main Lutheran and Orthodox churches are national churches of Finland with special roles such as in state ceremonies and schools.[204] Catedral_Luterana_de_Helsinki,_Finlandia,_2012-08-14,_DD_01.JPG]]
+With 3.9 million members,[197] the Evangelical Lutheran Church of Finland is one of the largest Lutheran churches in the world and is also by far Finland's largest religious body; at the end of 2017, 70.9% of Finns were members of the church.[198] The Evangelical Lutheran Church of Finland sees its share of the country's population declining by roughly one percent annually in recent years.[199] The decline has been due to both church membership resignations and falling baptism rates.[200][201] The second largest group, accounting for 26.3% of the population[202] in 2017, has no religious affiliation. The irreligious group rose quickly from just below 13% in the year 2000. A small minority belongs to the Finnish Orthodox Church (1.1%). Other Protestant denominations and the Roman Catholic Church are significantly smaller, as are the Jewish and other non-Christian communities (totalling 1.6%). The Pew Research Center estimated the Muslim population at 2.7% in 2016.[203] The main Lutheran and Orthodox churches are national churches of Finland with special roles such as in state ceremonies and schools.[204] ]]
 
 In 1869, Finland was the first Nordic country to disestablish its Evangelical Lutheran church by introducing the Church Act, followed by the Church of Sweden in 2000. Although the church still maintains a special relationship with the state, it is not described as a state religion in the Finnish Constitution or other laws passed by the Finnish Parliament.[205] Finland's state church was the Church of Sweden until 1809. As an autonomous Grand Duchy under Russia 1809–1917, Finland retained the Lutheran State Church system, and a state church separate from Sweden, later named the Evangelical Lutheran Church of Finland, was established. It was detached from the state as a separate judicial entity when the new church law came to force in 1869. After Finland had gained independence in 1917, religious freedom was declared in the constitution of 1919 and a separate law on religious freedom in 1922. Through this arrangement, the Evangelical Lutheran Church of Finland lost its position as a state church but gained a constitutional status as a national church alongside the Finnish Orthodox Church, whose position however is not codified in the constitution.
 
@@ -494,7 +486,7 @@ In April 2012, Finland was ranked 2nd in Gross National Happiness in a report pu
 
 Education and science
 
-Helsinki_University_of_Technology_auditorium.jpg's main building, designed by Alvar Aalto]] Torvisen_kansakoulu_1924-26.jpg
+'s main building, designed by Alvar Aalto]]
 
 Most pre-tertiary education is arranged at municipal level. Even though many or most schools were started as private schools, today only around 3 percent of students are enrolled in private schools (mostly specialist language and international schools), much less than in Sweden and most other developed countries.[225] Pre-school education is rare compared with other EU countries and formal education is usually started at the age of 7. Primary school takes normally six years and lower secondary school three years. Most schools are managed by municipal officials.
 
@@ -519,13 +511,13 @@ In December 2017 the OECD reported that Finnish fathers spend an average of eigh
 
 Culture
 
-Mikael_Agricola_by_Albert_Edelfelt.jpg, a Lutheran Protestant reformer and the father of the Finnish written language]]
+, a Lutheran Protestant reformer and the father of the Finnish written language]]
 
 Literature
 
 Written Finnish could be said to have existed since Mikael Agricola translated the New Testament into Finnish during the Protestant Reformation, but few notable works of literature were written until the nineteenth century and the beginning of a Finnish national Romantic Movement. This prompted Elias Lönnrot to collect Finnish and Karelian folk poetry and arrange and publish them as the _Kalevala_, the Finnish national epic. The era saw a rise of poets and novelists who wrote in Finnish, notably Aleksis Kivi and Eino Leino. Many writers of the national awakening wrote in Swedish, such as the national poet Johan Ludvig Runeberg and Zachris Topelius.
 
-After Finland became independent, there was a rise of modernist writers, most famously the Finnish-speaking Mika Waltari and Swedish-speaking Edith Södergran. Frans Eemil Sillanpää was awarded the Nobel Prize in Literature in 1939. World War II prompted a return to more national interests in comparison to a more international line of thought, characterized by Väinö Linna. Besides Kalevala and Waltari, the Swedish-speaking Tove Jansson is the most translated Finnish writer. Popular modern writers include Arto Paasilinna, Ilkka Remes, Kari Hotakainen, Sofi Oksanen, and Jari Tervo, while the best novel is annually awarded the prestigious Finlandia Prize. Sammon_puolustus.jpg, _The Defense of the Sampo_, 1896, Turku Art Museum]]
+After Finland became independent, there was a rise of modernist writers, most famously the Finnish-speaking Mika Waltari and Swedish-speaking Edith Södergran. Frans Eemil Sillanpää was awarded the Nobel Prize in Literature in 1939. World War II prompted a return to more national interests in comparison to a more international line of thought, characterized by Väinö Linna. Besides Kalevala and Waltari, the Swedish-speaking Tove Jansson is the most translated Finnish writer. Popular modern writers include Arto Paasilinna, Ilkka Remes, Kari Hotakainen, Sofi Oksanen, and Jari Tervo, while the best novel is annually awarded the prestigious Finlandia Prize. , _The Defense of the Sampo_, 1896, Turku Art Museum]]
 
 Visual arts, design, and architecture
 
@@ -533,7 +525,7 @@ The visual arts in Finland started to form their individual characteristics in t
 
 Music
 
-Jean_Sibelius,_1913.jpg (1865–1957), a significant figure in the history of classical music]]
+(1865–1957), a significant figure in the history of classical music]]
 
 Classical
 
@@ -547,7 +539,7 @@ Today, Finland has a very lively classical music scene and many of Finland's imp
 
 Modern
 
-Apocalyptica1.jpg of Apocalyptica]] _Iskelmä_ (coined directly from the German word _Schlager_, meaning "hit") is a traditional Finnish word for a light popular song. Finnish popular music also includes various kinds of dance music; tango, a style of Argentine music, is also popular. The light music in Swedish-speaking areas has more influences from Sweden. Modern Finnish popular music includes a number of prominent rock bands, jazz musicians, hip hop performers, dance music acts, etc.
+of Apocalyptica]] _Iskelmä_ (coined directly from the German word _Schlager_, meaning "hit") is a traditional Finnish word for a light popular song. Finnish popular music also includes various kinds of dance music; tango, a style of Argentine music, is also popular. The light music in Swedish-speaking areas has more influences from Sweden. Modern Finnish popular music includes a number of prominent rock bands, jazz musicians, hip hop performers, dance music acts, etc.
 
 During the early 1960s, the first significant wave of Finnish rock groups emerged, playing instrumental rock inspired by groups such as The Shadows. Around 1964, Beatlemania arrived in Finland, resulting in further development of the local rock scene. During the late 1960s and 1970s, Finnish rock musicians increasingly wrote their own music instead of translating international hits into Finnish. During the decade, some progressive rock groups such as Tasavallan Presidentti and Wigwam gained respect abroad but failed to make a commercial breakthrough outside Finland. This was also the fate of the rock and roll group Hurriganes. The Finnish punk scene produced some internationally acknowledged names including Terveet Kädet in the 1980s. Hanoi Rocks was a pioneering 1980s glam rock act that inspired the American hard rock group Guns N' Roses, among others.[245]
 
@@ -563,7 +555,7 @@ Finland's most internationally successful TV shows are the backpacking travel do
 
 Media and communications
 
-Linus_Torvalds.jpeg, the Finnish software engineer best known for creating the popular open-source kernel Linux]] Thanks to its emphasis on transparency and equal rights, Finland's press has been rated the freest in the world.[249]
+, the Finnish software engineer best known for creating the popular open-source kernel Linux]] Thanks to its emphasis on transparency and equal rights, Finland's press has been rated the freest in the world.[249]
 
 Today, there are around 200 newspapers, 320 popular magazines, 2,100 professional magazines, 67 commercial radio stations, three digital radio channels and one nationwide and five national public service radio channels.
 
@@ -577,7 +569,7 @@ In regards to telecommunication infrastructure, Finland is the highest ranked co
 
 Cuisine
 
-Karjalanpiirakka-20060227.jpg (_karjalanpiirakka_) is a traditional Finnish dish made from a thin rye crust with a filling of rice. Butter, often mixed with boiled egg (eggbutter or munavoi), is spread over the hot pastries before eating.]]
+(_karjalanpiirakka_) is a traditional Finnish dish made from a thin rye crust with a filling of rice. Butter, often mixed with boiled egg (eggbutter or munavoi), is spread over the hot pastries before eating.]]
 
 Finnish cuisine is notable for generally combining traditional country fare and _haute cuisine_ with contemporary style cooking. Fish and meat play a prominent role in traditional Finnish dishes from the western part of the country, while the dishes from the eastern part have traditionally included various vegetables and mushrooms. Refugees from Karelia contributed to foods in eastern Finland.
 
@@ -593,7 +585,7 @@ All official holidays in Finland are established by Acts of Parliament. Christia
 
 Sports
 
-Finlandbronzecelebration2010WinterOlympics.jpg is ranked as one of the best in the world. The team has won three world championship titles (in 1995, 2011 and 2019) and six Olympic medals.]] Rally_Finland_2010_-_EK_1_-_Juha_Kankkunen.jpg on the Laajavuori stage of the 2010 Rally Finland]]
+is ranked as one of the best in the world. The team has won three world championship titles (in 1995, 2011 and 2019) and six Olympic medals.]] on the Laajavuori stage of the 2010 Rally Finland]]
 
 Various sporting events are popular in Finland. Pesäpallo, resembling baseball, is the national sport of Finland, although the most popular sports in terms of spectators is ice hockey. Ice Hockey World Championships 2016 final Finland-Canada, 69% of Finnish people watched that game on TV.[260] Other popular sports include athletics, cross-country skiing, ski jumping, football, volleyball and basketball.[261] While ice hockey is the most popular sports when it comes to attendance at games, association football is the most played team sport in terms of the number of players in the country and is also the most appreciated sport in Finland.[262][263]
 

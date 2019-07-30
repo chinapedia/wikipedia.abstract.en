@@ -104,7 +104,7 @@ In January 2008, Brooks embarked on another incredible feat performing five sold
 
 2009–2013: Las Vegas concert residency
 
-Garth_Brooks_at_We_Are_One_(edit).jpg concert in 2009]]
+concert in 2009]]
 
 In January 2009, Brooks made another one of few public appearances since his retirement, performing at the We Are One: The Obama Inaugural Celebration at the Lincoln Memorial concert in Washington, D.C.. In his three-song set, Brooks performed "We Shall Be Free", along with covers of Don McLean's "American Pie" and the Isley Brothers' "Shout".
 
@@ -116,7 +116,7 @@ In 2013, influenced by the set list of the Las Vegas shows, Brooks released _Bla
 
 2014–15: _Man Against Machine_, Ghosttunes, and world tour
 
-Garth_Brooks_in_Chicago.jpg in 2014]]
+in 2014]]
 
 In February 2014, Brooks announced two concerts at Croke Park, Dublin, Ireland to be held on July 25 and 26, 2014. Due to high demand, three additional shows were added, and a total of 400,000 tickets were sold.[80] However, due to licensing conflict, Aiken Promotions and Croke Park management were prompted to cancel two of the five concerts after conflict among nearby residents.[81] Brooks, committed to performing the five original concerts, refused to follow through with the request to only perform three, and all concerts were cancelled.[82]
 
@@ -165,7 +165,7 @@ In September 2014, Brooks established GhostTunes, an online music store featurin
 
 Personal life
 
-Trisha_Yearwood_USO_2010.jpg]] Brooks graduated from Oklahoma State University where he starred on the track and field team in the javelin throw. He later completed his MBA from Oklahoma State and participated in the commencement ceremony on May 6, 2011.[114]
+]] Brooks graduated from Oklahoma State University where he starred on the track and field team in the javelin throw. He later completed his MBA from Oklahoma State and participated in the commencement ceremony on May 6, 2011.[114]
 
 Brooks married his college sweetheart, songwriter Sandy Mahl, on May 24, 1986. The couple later had three daughters: Taylor Mayne Pearl (born 1992), August Anna (born 1994), and Allie Colleen Brooks (born 1996).[115][116] Brooks and Mahl separated in March 1999, announcing their plans to divorce on October 9, 2000, and filing for divorce on November 6, 2000.[117][118] The divorce became final on December 17, 2001.[119][120] Brooks remarried on December 10, 2005, to country singer Trisha Yearwood.[121][122] In July 2013, Brooks became a grandfather when August had daughter Karalynn with Chance Michael Russell.[123][124]
 
@@ -194,7 +194,7 @@ Brooks' half-sister Betsy Smittle, who died in 2013, was a well-known musician -
 
 Awards and records
 
-Garth_Brooks.jpg Brooks has won a record 22 Academy of Country Music Awards and received a total of 47 overall nominations. His 13 Grammy Award nominations have resulted in 2 awards won, along with Billboard Music Awards, Country Music Association Awards, and many others. Brooks' work has earned awards and nominations in television and film as well, including the Primetime Emmy Awards and Golden Globe Awards. He was inducted into the Country Music Hall of Fame in 2012. In 2010, he was inducted into the Cheyenne Frontier Days Hall of Fame.[139]
+Brooks has won a record 22 Academy of Country Music Awards and received a total of 47 overall nominations. His 13 Grammy Award nominations have resulted in 2 awards won, along with Billboard Music Awards, Country Music Association Awards, and many others. Brooks' work has earned awards and nominations in television and film as well, including the Primetime Emmy Awards and Golden Globe Awards. He was inducted into the Country Music Hall of Fame in 2012. In 2010, he was inducted into the Cheyenne Frontier Days Hall of Fame.[139]
 
 Records
 

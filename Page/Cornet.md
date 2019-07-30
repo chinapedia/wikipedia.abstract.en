@@ -20,8 +20,6 @@ Unlike the trumpet, which has a cylindrical bore up to the bell section, the tub
 
 The cornet mouthpiece has a shorter and narrower shank than that of a trumpet so it can fit the cornet's smaller mouthpiece receiver. The cup size is often deeper than that of a trumpet mouthpiece.[14]
 
-Cornet2.png
-
 One variety is the short model traditional cornet, also known as a _"Shepherd's Crook"_ shaped model. These are most often large–bore instruments with a rich mellow sound. There is also a long-model or "American-wrap" cornet, often with a smaller bore and a brighter sound, which is produced in a variety of different tubing wraps and is closer to a trumpet in appearance. The Shepherd's Crook model is preferred by cornet traditionalists. The long-model cornet is generally used in concert bands in the United States, but has found little following in British-style brass and concert bands.[15][16] A third and relatively rare variety—distinct from the long-model or "American-wrap" cornet—is the "long cornet", which was produced in the mid-20th Century by C.G. Conn and F.E. Olds and visually is nearly indistinguishable from a trumpet except that it has a receiver fashioned to accept cornet mouthpieces.[17][18]
 
 Echo cornet
@@ -31,7 +29,7 @@ The echo cornet has been called an obsolete variant. The echo cornet has a mute 
 
 Playing technique
 
-Connie_Jones_Silver_Cornet.jpg playing a long-model cornet]] Like the trumpet and all other modern brass wind instruments, the cornet makes a sound when the player vibrates ("buzzes") the lips in the mouthpiece, creating a vibrating column of air in the tubing. The frequency of the air column's vibration can be modified by changing the lip tension and aperture or "embouchure", and by altering the tongue position to change the shape of the oral cavity, thereby increasing or decreasing the speed of the airstream. In addition, the column of air can be lengthened by engaging one or more valves, thus lowering the pitch. Double and triple tonguing are also possible.
+playing a long-model cornet]] Like the trumpet and all other modern brass wind instruments, the cornet makes a sound when the player vibrates ("buzzes") the lips in the mouthpiece, creating a vibrating column of air in the tubing. The frequency of the air column's vibration can be modified by changing the lip tension and aperture or "embouchure", and by altering the tongue position to change the shape of the oral cavity, thereby increasing or decreasing the speed of the airstream. In addition, the column of air can be lengthened by engaging one or more valves, thus lowering the pitch. Double and triple tonguing are also possible.
 
 Without valves, the player could produce only a harmonic series of notes like those played by the bugle and other "natural" brass instruments. These notes are far apart for most of the instrument's range, making diatonic and chromatic playing impossible except in the extreme high register. The valves change the length of the vibrating column and provide the cornet with the ability to play chromatically.[20]
 

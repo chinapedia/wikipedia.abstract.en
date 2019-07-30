@@ -9,9 +9,9 @@ Guanine, along with adenine and cytosine, is present in both DNA and RNA, wherea
 
 It binds to cytosine through three hydrogen bonds. In cytosine, the amino group acts as the hydrogen bond donor and the C-2 carbonyl and the N-3 amine as the hydrogen-bond acceptors. Guanine has the C-6 carbonyl group that acts as the hydrogen bond acceptor, while a group at N-1 and the amino group at C-2 act as the hydrogen bond donors.
 
-  ------------------------------ ------------------------------
-  width ="325px"| Cytonum2.png   width ="325px"| Guannum2.png
-  ------------------------------ ------------------------------
+  ----------------- -----------------
+  width ="325px"|   width ="325px"|
+  ----------------- -----------------
 
 Guanine can be hydrolyzed with strong acid to glycine, ammonia, carbon dioxide, and carbon monoxide. First, guanine gets deaminated to become xanthine.[1] Guanine oxidizes more readily than adenine, the other purine-derivative base in DNA. Its high melting point of 350 °C reflects the intermolecular hydrogen bonding between the oxo and amino groups in the molecules in the crystal. Because of this intermolecular bonding, guanine is relatively insoluble in water, but it is soluble in dilute acids and bases.
 
@@ -38,7 +38,7 @@ A Fischer-Tropsch synthesis can also be used to form guanine, along with adenine
 
 Another possible abiotic route was explored by quenching a 90% N₂–10%CO–H₂O gas mixture high-temperature plasma.[4]
 
-Traube's synthesis involves heating 2,4,5-triamino-1,6-dihydro-6-oxypyrimidine (as the sulfate) with formic acid for several hours. Traube purine synthesis
+Traube's synthesis involves heating 2,4,5-triamino-1,6-dihydro-6-oxypyrimidine (as the sulfate) with formic acid for several hours.
 
 
 Other occurrences and biological uses

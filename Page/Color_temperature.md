@@ -1,6 +1,6 @@
     _Not to be confused with warm and cool colors_.
 
-PlanckianLocus.png _x,y_ chromaticity space, also showing the chromaticities of black-body light sources of various temperatures (Planckian locus), and lines of constant correlated color temperature.]]
+_x,y_ chromaticity space, also showing the chromaticities of black-body light sources of various temperatures (Planckian locus), and lines of constant correlated color temperature.]]
 
 The COLOR TEMPERATURE of a light source is the temperature of an ideal black-body radiator that radiates light of a color comparable to that of the light source. Color temperature is a characteristic of visible light that has important applications in lighting, photography, videography, publishing, manufacturing, astrophysics, horticulture, and other fields. In practice, color temperature is meaningful only for light sources that do in fact correspond somewhat closely to the radiation of some black body, i.e., light in a range going from red to orange to yellow to white to blueish white; it does not make sense to speak of the color temperature of, e.g., a green or a purple light. Color temperature is conventionally expressed in kelvins , using the symbol K, a unit of measure for absolute temperature.
 
@@ -9,7 +9,7 @@ Color temperatures over 5000 K are called "cool colors" (bluish), while lower c
 
 Categorizing different lighting
 
-Black_body_visible_spectrum.gif radiance (B) vs. wavelength (λ) curves for the visible spectrum. The vertical axes of Planck's law plots building this animation were proportionally transformed to keep equal areas between functions and horizontal axis for wavelengths 380–780 nm. K indicates the color temperature in Kelvins, and M indicates the color temperature in micro reciprocal degrees.]] The color temperature of the electromagnetic radiation emitted from an ideal black body is defined as its surface temperature in kelvins, or alternatively in micro reciprocal degrees (mired).[2] This permits the definition of a standard by which light sources are compared.
+radiance (B) vs. wavelength (λ) curves for the visible spectrum. The vertical axes of Planck's law plots building this animation were proportionally transformed to keep equal areas between functions and horizontal axis for wavelengths 380–780 nm. K indicates the color temperature in Kelvins, and M indicates the color temperature in micro reciprocal degrees.]] The color temperature of the electromagnetic radiation emitted from an ideal black body is defined as its surface temperature in kelvins, or alternatively in micro reciprocal degrees (mired).[2] This permits the definition of a standard by which light sources are compared.
 
 To the extent that a hot surface emits thermal radiation but is not an ideal black-body radiator, the color temperature of the light is not the actual temperature of the surface. An incandescent lamp's light is thermal radiation, and the bulb approximates an ideal black-body radiator, so its color temperature is essentially the temperature of the filament. Thus a relatively low temperature emits a dull red and a high temperature emits the almost white of the traditional incandescent light bulb. Metal workers are able to judge the temperature of hot metals by their color, from dark red to orange-white and then white (see red heat).
 
@@ -25,16 +25,12 @@ Some early morning and evening light (golden hours) has a lower color temperatur
 
 Daylight has a spectrum similar to that of a black body with a correlated color temperature of 6500 K (D65 viewing standard) or 5500 K (daylight-balanced photographic film standard).
 
-Color_temperature_black_body_800-12200K.svg
-
 For colors based on black-body theory, blue occurs at higher temperatures, whereas red occurs at lower temperatures. This is the opposite of the cultural associations attributed to colors, in which "red" is "hot", and "blue" is "cold".[5]
 
 
 Applications
 
 Lighting
-
-Incand-3500-5500-color-temp-comparison.png
 
 For lighting building interiors, it is often important to take into account the color temperature of illumination. A warmer (i.e., a lower color temperature) light is often used in public areas to promote relaxation, while a cooler (higher color temperature) light is used to enhance concentration, for example in schools and offices.[6]
 
@@ -85,8 +81,6 @@ Most video and digital still cameras can adjust for color temperature by zooming
 
 Artistic application via control of color temperature
 
-Example_different_color_temp.jpg
-
 Video camera operators can white-balance objects that are not white, downplaying the color of the object used for white-balancing. For instance, they can bring more warmth into a picture by white-balancing off something that is light blue, such as faded blue denim; in this way white-balancing can replace a filter or lighting gel when those are not available.
 
 Cinematographers do not “white balance” in the same way as video camera operators; they use techniques such as filters, choice of film stock, pre-flashing, and, after shooting, color grading, both by exposure at the labs and also digitally. Cinematographers also work closely with set designers and lighting crews to achieve the desired color effects.
@@ -94,7 +88,6 @@ Cinematographers do not “white balance” in the same way as video camera oper
 For artists, most pigments and papers have a cool or warm cast, as the human eye can detect even a minute amount of saturation. Gray mixed with yellow, orange, or red is a “warm gray”. Green, blue, or purple create “cool grays”. Note that this sense of temperature is the reverse of that of real temperature; bluer is described as “cooler” even though it corresponds to a higher-temperature black body.
 
   -----------------------
-  grays.svg
   "WARM" GRAY
   Mixed with 6% yellow.
   -----------------------
@@ -104,7 +97,7 @@ Lighting designers sometimes select filters by color temperature, commonly to ma
 
 Correlated color temperature
 
-Blackbody_peak_wavelength_exitance_vs_temperature.svg and radiant exitance vs black-body temperature – red arrows show that 5780 K black bodies have 501 nm peak wavelength and 63.3 MW/m² radiant exitance]]
+and radiant exitance vs black-body temperature – red arrows show that 5780 K black bodies have 501 nm peak wavelength and 63.3 MW/m² radiant exitance]]
 
 Motivation
 
@@ -112,13 +105,9 @@ Black-body radiators are the reference by which the whiteness of light sources i
 
 Background
 
-Judd's_(r,g)_diagram.svg.]]
+.]]
 
-Judd's_Maxwell_triangle.svg
-
-Judd's-UCS.png
-
-Planckian-locus-in-mireds.pngs. Note the even spacing of the isotherms when using the reciprocal temperature scale and compare with the similar figure below. The even spacing of the isotherms on the locus implies that the mired scale is a better measure of perceptual color difference than the temperature scale.]]
+s. Note the even spacing of the isotherms when using the reciprocal temperature scale and compare with the similar figure below. The even spacing of the isotherms on the locus implies that the mired scale is a better measure of perceptual color difference than the temperature scale.]]
 
 The notion of using Planckian radiators as a yardstick against which to judge other light sources is not new.[12] In 1923, writing about "grading of illuminants with reference to quality of color ... the temperature of the source as an index of the quality of color", Priest essentially described CCT as we understand it today, going so far as to use the term "apparent color temperature", and astutely recognized three cases:[13]
 
@@ -152,8 +141,6 @@ $$u=\frac{0.4661x+0.1593y}{y-0.15735x+0.2424}, \quad v=\frac{0.6581y}{y-0.15735x
 
 The third depicted the locus of the isothermal chromaticities on the CIE 1931 _x,y_ chromaticity diagram.[23] Since the isothermal points formed normals on his UCS diagram, transformation back into the xy plane revealed them still to be lines, but no longer perpendicular to the locus.
 
-CIE_1960_UCS.png
-
 Calculation
 
 Judd's idea of determining the nearest point to the Planckian locus on a uniform chromaticity space is current. In 1937, MacAdam suggested a "modified uniform chromaticity scale diagram", based on certain simplifying geometrical considerations:[24]
@@ -162,15 +149,13 @@ $$u = \frac{4x}{-2x+12y+3}, \quad v = \frac{6y}{-2x+12y+3}.$$
 
 This (u,v) chromaticity space became the CIE 1960 color space, which is still used to calculate the CCT (even though MacAdam did not devise it with this purpose in mind).[25] Using other chromaticity spaces, such as _u'v_', leads to non-standard results that may nevertheless be perceptually meaningful.[26]
 
-Planckian-locus.png. The isotherms are perpendicular to the Planckian locus, and are drawn to indicate the maximum distance from the locus that the CIE considers the correlated color temperature to be meaningful: Δuv =  ± 0.05]]
+. The isotherms are perpendicular to the Planckian locus, and are drawn to indicate the maximum distance from the locus that the CIE considers the correlated color temperature to be meaningful: Δuv =  ± 0.05]]
 
 The distance from the locus (i.e., degree of departure from a black body) is traditionally indicated in units of Δuv; positive for points above the locus. This concept of distance has evolved to become Delta E, which continues to be used today.
 
 Robertson's method
 
 Before the advent of powerful personal computers, it was common to estimate the correlated color temperature by way of interpolation from look-up tables and charts.[27] The most famous such method is Robertson's,[28] who took advantage of the relatively even spacing of the mired scale (see above) to calculate the CCT T_(c) using linear interpolation of the isotherm's mired values:[29]
-
-Robertson's_CCT_computation_method.svg
 
 $$\frac{1}{T_c}=\frac{1}{T_i}+\frac{\theta_1}{\theta_1+\theta_2} \left( \frac{1}{T_{i+1}} - \frac{1}{T_i} \right),$$
 
@@ -226,7 +211,7 @@ The CIE color rendering index (CRI) is a method to determine how well a light so
 
 Spectral power distribution
 
-Spectral_Power_Distributions.png (left) and a fluorescent lamp (right). The horizontal axes are wavelengths in nanometers, and the vertical axes show relative intensity in arbitrary units.]]
+(left) and a fluorescent lamp (right). The horizontal axes are wavelengths in nanometers, and the vertical axes show relative intensity in arbitrary units.]]
 
 Light sources and illuminants may be characterized by their spectral power distribution (SPD). The relative SPD curves provided by many manufacturers may have been produced using 10 nm increments or more on their spectroradiometer.[35] The result is what would seem to be a smoother ("fuller spectrum") power distribution than the lamp actually has. Owing to their spiky distribution, much finer increments are advisable for taking measurements of fluorescent lights, and this requires more expensive equipment.
 

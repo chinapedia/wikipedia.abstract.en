@@ -62,7 +62,7 @@ English criminal law and the related criminal law of Commonwealth countries can 
 
 Criminalization
 
-Traitors_heads_on_old_london_bridge.jpg.]] One can view criminalization as a procedure deployed by society as a preemptive harm-reduction device, using the threat of punishment as a deterrent to anyone proposing to engage in the behavior causing harm. The State becomes involved because governing entities can become convinced that the costs of not criminalizing (through allowing the harms to continue unabated) outweigh the costs of criminalizing it (restricting individual liberty, for example, to minimize harm to others).
+.]] One can view criminalization as a procedure deployed by society as a preemptive harm-reduction device, using the threat of punishment as a deterrent to anyone proposing to engage in the behavior causing harm. The State becomes involved because governing entities can become convinced that the costs of not criminalizing (through allowing the harms to continue unabated) outweigh the costs of criminalizing it (restricting individual liberty, for example, to minimize harm to others).
 
 States control the process of criminalization because:
 
@@ -187,7 +187,7 @@ Other classifications
 
 U.S. classification
 
-Felony_Sentences_in_State_Courts.pdf.]] In the United States since 1930, the FBI has tabulated Uniform Crime Reports (UCR) annually from crime data submitted by law enforcement agencies across the United States.[51] Officials compile this data at the city, county, and state levels into the UCR. They classify violations of laws based on common law as Part I (index) crimes in UCR data. These are further categorized as violent or property crimes. Part I violent crimes include murder and criminal homicide (voluntary manslaughter), forcible rape, aggravated assault, and robbery; while Part I property crimes include burglary, arson, larceny/theft, and motor-vehicle theft. All other crimes count come under Part II.
+.]] In the United States since 1930, the FBI has tabulated Uniform Crime Reports (UCR) annually from crime data submitted by law enforcement agencies across the United States.[51] Officials compile this data at the city, county, and state levels into the UCR. They classify violations of laws based on common law as Part I (index) crimes in UCR data. These are further categorized as violent or property crimes. Part I violent crimes include murder and criminal homicide (voluntary manslaughter), forcible rape, aggravated assault, and robbery; while Part I property crimes include burglary, arson, larceny/theft, and motor-vehicle theft. All other crimes count come under Part II.
 
 For convenience, such lists usually include infractions although, in the U.S., they may come into the sphere not of the criminal law, but rather of the civil law. Compare tortfeasance.
 
@@ -216,7 +216,7 @@ Emotional state (both chronic and current) have a tremendous impact on individua
 
 Crimes in international law
 
-Kang_Kek_Iew_(Kaing_Guek_Eav_or_Duch)_before_the_Extraordinary_Chambers_in_the_Courts_of_Cambodia_-_20090720.jpg before the Cambodian Genocide Tribunal on July 20, 2009]] Crimes defined by treaty as crimes against international law include:
+before the Cambodian Genocide Tribunal on July 20, 2009]] Crimes defined by treaty as crimes against international law include:
 
 -   Crimes against peace
 -   Crimes of apartheid
@@ -233,7 +233,7 @@ From the point of view of state-centric law, extraordinary procedures (usually i
 
 Religion and crime
 
-Hep-hep_riots.jpg sentiment often becomes a contributory factor of crime. In the 1819 anti-Jewish riots in Frankfurt, rioters attacked Jewish businesses and destroyed property.]]
+sentiment often becomes a contributory factor of crime. In the 1819 anti-Jewish riots in Frankfurt, rioters attacked Jewish businesses and destroyed property.]]
 
 Different religious traditions may promote distinct norms of behaviour, and these in turn may clash or harmonise with the perceived interests of a state. Socially accepted or imposed religious morality has influenced secular jurisdictions on issues that may otherwise concern only an individual's conscience. Activities sometimes criminalized on religious grounds include (for example) alcohol consumption (prohibition), abortion and stem-cell research. In various historical and present-day societies, institutionalized religions have established systems of earthly justice that punish crimes against the divine will and against specific devotional, organizational and other rules under specific codes, such as Roman Catholic canon law.
 

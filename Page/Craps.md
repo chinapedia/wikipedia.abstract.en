@@ -1,4 +1,4 @@
-Marines_and_sailors_attended_5th_annual_Casino_Royale_event_130928-M-WI309-003.jpg Craps_game_at_military_camp_in_1918.jpg CRAPS is a dice game in which the players make wagers on the outcome of the roll, or a series of rolls, of a pair of dice. Players may wager money against each other (playing "street craps") or a bank (playing "casino craps", also known as "table craps", or often just "craps"). Because it requires little equipment, "street craps" can be played in informal settings. While shooting craps, players may use slang terminology to place bets and actions.
+CRAPS is a dice game in which the players make wagers on the outcome of the roll, or a series of rolls, of a pair of dice. Players may wager money against each other (playing "street craps") or a bank (playing "casino craps", also known as "table craps", or often just "craps"). Because it requires little equipment, "street craps" can be played in informal settings. While shooting craps, players may use slang terminology to place bets and actions.
 
 
 History
@@ -9,7 +9,7 @@ The central game, called "pass", from the French word for "pace" or "step", has 
 
 For a century after its invention, craps was abused by casinos using unfair dice. To remedy the problem, in approximately 1907, a Philadelphia dice maker named John H. Winn introduced a layout which featured bets on both Pass and Don't Pass. Most modern casinos use his innovation.
 
-Truants,_"Red_St._Clair,"_and_chum_shooting_craps_in_front_of_Murphy's_Branch_at_11-00_A.M._a_school_day._Red_is_boss..._-_NARA_-_523289.jpg, circa 1912]]
+, circa 1912]]
 
 Craps exploded in popularity during World War II, which brought most young American men of every social class into the military. The street version of craps was popular among soldiers, who often played it using a blanket as a shooting surface. Their military memories led to craps becoming the dominant game in postwar Las Vegas.
 
@@ -20,7 +20,7 @@ Bank craps or casino craps is played by one or more players betting against the 
 
 Craps table
 
-Craps.svg Players use casino chips rather than cash to bet on the Craps "layout," a fabric surface which displays the various bets. The bets vary somewhat among casinos in availability, locations, and payouts. The tables roughly resemble bathtubs and come in various sizes. In some locations, chips may be called checks, tokens, or plaques.
+Players use casino chips rather than cash to bet on the Craps "layout," a fabric surface which displays the various bets. The bets vary somewhat among casinos in availability, locations, and payouts. The tables roughly resemble bathtubs and come in various sizes. In some locations, chips may be called checks, tokens, or plaques.
 
 Against one long side is the casino's table bank: as many as two thousand casino chips in stacks of 20. The opposite long side is usually a long mirror. The U-shaped ends of the table have duplicate layouts and standing room for approximately eight players. In the center of the layout is an additional group of bets which are used by players from both ends. The vertical walls at each end are usually covered with a rubberized target surface covered with small pyramid shapes to randomize the dice which strike them. The top edges of the table walls have one or two horizontal grooves in which players may store their reserve chips.
 
@@ -38,7 +38,7 @@ Each casino may set which bets are offered and different payouts for them, thoug
 
 While acting as the shooter, a player must have a bet on the "Pass" line and/or the "Don't Pass" line. "Pass" and "Don't Pass" are sometimes called "Win" and "Don't Win" or "Right" and "Wrong" bets. The game is played in rounds and these "Pass" and "Don't Pass" bets are betting on the outcome of a round. The shooter is presented with multiple dice (typically five) by the "stickman", and must choose two for the round. The remaining dice are returned to the stickman's bowl and are not used.
 
-Craps.jpg Each round has two phases: "come-out" and "point". Dice are passed to the left. To start a round, the shooter makes one or more "come-out" rolls. The shooter must shoot toward the farther back wall and is generally required to hit the farther back wall with both dice. Casinos may allow a few warnings before enforcing the dice to hit the back wall and are generally lenient if at least one die hits the back wall. Both dice must be tossed in one throw. If only one die is thrown the shot is invalid. A come-out roll of 2, 3 or 12 is called "craps" or "crapping out", and anyone betting the Pass line loses. On the other hand, anyone betting the Don't Pass line on come out wins with a roll of 2 or 3 and ties (pushes) if a 12 is rolled. Shooters may keep rolling after crapping out; the dice are only required to be passed if a shooter sevens out (rolls a seven after a point has been established). A come-out roll of 7 or 11 is a "natural"; the Pass line wins and Don't Pass loses. The other possible numbers are the point numbers: 4, 5, 6, 8, 9, and 10. If the shooter rolls one of these numbers on the come-out roll, this establishes the "point" – to "pass" or "win", the point number must be rolled again before a seven.
+Each round has two phases: "come-out" and "point". Dice are passed to the left. To start a round, the shooter makes one or more "come-out" rolls. The shooter must shoot toward the farther back wall and is generally required to hit the farther back wall with both dice. Casinos may allow a few warnings before enforcing the dice to hit the back wall and are generally lenient if at least one die hits the back wall. Both dice must be tossed in one throw. If only one die is thrown the shot is invalid. A come-out roll of 2, 3 or 12 is called "craps" or "crapping out", and anyone betting the Pass line loses. On the other hand, anyone betting the Don't Pass line on come out wins with a roll of 2 or 3 and ties (pushes) if a 12 is rolled. Shooters may keep rolling after crapping out; the dice are only required to be passed if a shooter sevens out (rolls a seven after a point has been established). A come-out roll of 7 or 11 is a "natural"; the Pass line wins and Don't Pass loses. The other possible numbers are the point numbers: 4, 5, 6, 8, 9, and 10. If the shooter rolls one of these numbers on the come-out roll, this establishes the "point" – to "pass" or "win", the point number must be rolled again before a seven.
 
 The dealer flips a button to the "On" side and moves it to the point number signifying the second phase of the round. If the shooter "hits" the point value again (any value of the dice that sum to the point will do; the shooter doesn't have to exactly repeat the exact combination of the come-out roll) before rolling a seven, the Pass line wins and a new round starts. If the shooter rolls any seven before repeating the point number (a "seven-out"), the Pass line loses, the Don't Pass line wins, and the dice pass clockwise to the next new shooter for the next round. Once a point has been established any multi-roll bet (including Pass and/or Don't Pass line bets and odds) are unaffected by the 2, 3, 11 or 12; the only numbers which affect the round are the established point, any specific bet on a number, or any 7. Any single roll bet is always affected (win or lose) by the outcome of any roll.
 
@@ -85,8 +85,6 @@ Rolls of 4, 6, 8, and 10 are called "hard" or "easy" (e.g. "six the hard way", "
 
 
 Types of wagers
-
-Imperial_Palace,_Las_Vegas_(3192388546).jpg
 
 Line bets
 

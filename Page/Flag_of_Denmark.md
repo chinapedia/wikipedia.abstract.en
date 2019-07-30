@@ -5,7 +5,7 @@ A banner with a white-on-red cross is attested as having been used by the kings 
 
 Description
 
-CyclingTeamPursuitBeijing2008.jpg at the 2008 Summer Olympics in Beijing.]]
+at the 2008 Summer Olympics in Beijing.]]
 
 In 1748, a regulation defined the correct lengths of the two last fields in the flag as .[6] In May 1893 a new regulation to all chiefs of police, stated that the police should not intervene, if the two last fields in the flag were longer than as long as these did not exceed , and provided that this was the only rule violated. This regulation is still in effect today and thus the legal proportions of the National flag is today 3:1:3 in width and anywhere between 3:1:4.5 and 3:1:5.25 in length.
 
@@ -16,7 +16,7 @@ History
 
 1219 origin legend
 
-Danmarks_flag_1219_Lorentzen.jpg, 15 June 1219. Painted by Christian August Lorentzen in 1809. Original located at Statens Museum for Kunst, Denmark.]]
+, 15 June 1219. Painted by Christian August Lorentzen in 1809. Original located at Statens Museum for Kunst, Denmark.]]
 
 A tradition recorded in the 16th century traces the origin of the flag to the campaigns of Valdemar II of Denmark (r. 1202–1241). The oldest of them is in Christiern Pedersen's "_Danske Krønike_", which is a sequel to Saxo's Gesta Danorum, written 1520–23. Here, the flag falls from the sky during a Russian campaign of Valdemar's. Pedersen also states that the very same flag was taken into exile by Eric of Pomerania in 1440.
 
@@ -36,19 +36,19 @@ In Swedish national historiography of the 18th century, there is a tale parallel
 
 Middle Ages
 
-Gelre_Folio_55v.jpg (fol. 55v), the entry for the king of Denmark showing the white-on-red cross banner.]]
+(fol. 55v), the entry for the king of Denmark showing the white-on-red cross banner.]]
 
 The white-on-red cross emblem originates in the age of the Crusades. In the 12th century, it was also used as war flag by the Holy Roman Empire.
 
 In the _Gelre Armorial_, dated 1340–1370, such a banner is shown alongside the coat of arms of the king of Denmark.[10] This is the earliest known undisputed colour rendering of the Dannebrog. At about the same time, Valdemar IV of Denmark displays a cross in his coat of arms on his _Danælog_ seal (_Rettertingsseglet_, dated 1356). The image from the Armorial Gelre is nearly identical to an image found in a 15th-century coats of arms book now located in the National Archives of Sweden (_Riksarkivet_). The seal of Eric of Pomerania (1398) as king of the Kalmar union displays the arms of Denmark chief dexter, three lions. In this version, the lions are holding a Dannebrog banner.
 
-File:Royal Banner of Denmark (14th Century).svg|FIAV_historical.svgThe Royal Banner of the Kings of Denmark based on the royal arms. File:Erikafpommernsdanskeunionssegl.jpg%7CSeal of Eric of Pomerania as king of the Kalmar union, 1398. A small Dannebrog banner is depicted as held by the three Danish lions in the top-left corner.
+File:Royal Banner of Denmark (14th Century).svg|The Royal Banner of the Kings of Denmark based on the royal arms. File:Erikafpommernsdanskeunionssegl.jpg%7CSeal of Eric of Pomerania as king of the Kalmar union, 1398. A small Dannebrog banner is depicted as held by the three Danish lions in the top-left corner.
 
 The reason why the kings of Denmark in the 14th century begin displaying the cross banner in their coats of arms is unknown. Caspar Paludan-Müller (1873) suggested that it may reflect a banner sent by the pope to the Danish king in support of the Baltic countries.[11] Adolf Ditlev Jørgensen (1875) identifies the banner as that of the Knights Hospitaller, which order had a presence in Denmark from the later 12th century.[12]
 
 Several coins, seals and images exist, both foreign and domestic, from the 13th to 15th centuries and even earlier, showing heraldic designs similar to Dannebrog, alongside the royal coat of arms (three blue lions on a golden shield.)
 
-Saxo_Chr_P_front_version_002.png's version of Saxo's Gesta Danorum, 1514 (see here for a larger version).]]
+'s version of Saxo's Gesta Danorum, 1514 (see here for a larger version).]]
 
 There is a record suggesting that the Danish army had a "chief banner" (_hoffuitbanner_) in the early 16th century. Such a banner is mentioned in 1570 by Niels Hemmingsøn in the context of a 1520 battle between Danes and Swedes near Uppsala as nearly captured by the Swedes but saved by the heroic actions of the banner-carrier Mogens Gyldenstierne and Peder Skram. The legend attributing the miraculous origin of the flag to the campaigns of Valdemar II of Denmark (r. 1202–1241) were recorded by Christiern Pedersen and Petrus Olai in the 1520s.
 
@@ -60,7 +60,7 @@ Contemporary records describing the battle of Hemmingstedt make no reference to 
 
 Modern period
 
-Tropper_1849.jpg (1849), a Danish victory against German insurgents in Holstein and Schleswig in the First Schleswig War (1894 painting by Otto Bache).]]
+(1849), a Danish victory against German insurgents in Holstein and Schleswig in the First Schleswig War (1894 painting by Otto Bache).]]
 
 Used as maritime flag since the 16th century, the Dannebrog was introduced as regimental flag in the Danish army in 1785, and for the militia (landeværn) in 1801. From 1842, it was used as the flag of the entire army.[13]
 
@@ -73,9 +73,7 @@ Variants
 
 Maritime flag and corresponding Kingdom flag
 
-DannebrogUpDSR.ogv
-
-Naval_Ensign_of_Denmark.svg Proportions: 7:17[17] ]]
+Proportions: 7:17[17] ]]
 
 The size and shape of the civil ensign ("_Koffardiflaget_") for merchant ships is given in the regulation of 11 June 1748, which says: _A red flag with a white cross with no split end. The white cross must be of the flag's height. The two first fields must be square in form and the two outer fields must be lengths of those_. The proportions are thus: 3:1:3 vertically and 3:1:4.5 horizontally. This definition are the absolute proportions for the Danish national flag to this day, for both the civil version of the flag ("_Stutflaget_"), as well as the merchant flag ("_Handelsflaget_"). Both flags are identical.
 
@@ -105,8 +103,6 @@ Monarch
 
 The current version of the royal standard was introduced on 16 November 1972 when the Queen adopted a new version of her personal coat of arms. The royal standard is the flag of Denmark with a swallow-tail and charged with the monarch's coat of arms set in a white square. The centre square is 32 parts in a flag with the ratio 56:107.
 
-Royal_Standard_of_Denmark.svg
-
 Other members of the royal family
 
 File:Standard of the Crown Prince of Denmark.svg|Standard of Frederik the Crown Prince of Denmark. File:Standard of the Regent of Denmark.svg|Standard of the Regent of Denmark File:Standard of the Royal House of Denmark.svg|Standard of the Royal House- used by other members of the Royal Family File:Standard of Frederik the Crown Prince of Denmark at Amalienborg.jpg|Standard of Frederik the Crown Prince of Denmark flying at Amalienborg.
@@ -120,18 +116,18 @@ File:Flag of the Faroe Islands.svg|8:11 Flag of the Faroe Islands File:Flag of G
 
 Some areas in Denmark have unofficial flags, listed below. The regional flags of Bornholm and Ærø are known to be in active use. The flags of Vendsyssel (Vendelbrog) and the Jutlandic flag ("Den jyske fane") are obscure. None of these flags have legal recognition in Denmark, and are officially considered to be "fantasy flags".[18] Denmark reserves official recognition to official flags and regional flags (_områdeflag_) from other jurisdictions.
 
-+-----------------------------------+-----------------+-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Flag                              | Date introduced | Use                           | Description                                                                                                                                                 |
-+===================================+=================+===============================+=============================================================================================================================================================+
-| Flag_of_Denmark_Bornholm.svg      | 1970s           | Unofficial flag of Bornholm   | Nordic Cross Flag in red and green. Also known in a version with a white fimbriation of the green cross in a style similar to design of the Norwegian flag. |
-+-----------------------------------+-----------------+-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Flag_of_Ærø.svg                   | 1633            | Unofficial flag of Ærø        | Tricolour in yellow, green and red                                                                                                                          |
-|                                   |                 |                               | Very similar to the Flag of Lithuania                                                                                                                       |
-+-----------------------------------+-----------------+-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Unofficial_flag_of_Vendsyssel.svg | 1976            | Unofficial flag of Vendsyssel | Nordic Cross Flag in blue, orange and green.[19] Designed by Mogens Bohøj.[20]                                                                              |
-+-----------------------------------+-----------------+-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Flag_of_Jutland.svg               | 1975            | Unofficial flag of Jutland    | A Nordic Cross Flag in blue, green and red. Designed by Per Kramer in 1975.[21]                                                                             |
-+-----------------------------------+-----------------+-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
++------+-----------------+-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Flag | Date introduced | Use                           | Description                                                                                                                                                 |
++======+=================+===============================+=============================================================================================================================================================+
+|      | 1970s           | Unofficial flag of Bornholm   | Nordic Cross Flag in red and green. Also known in a version with a white fimbriation of the green cross in a style similar to design of the Norwegian flag. |
++------+-----------------+-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|      | 1633            | Unofficial flag of Ærø        | Tricolour in yellow, green and red                                                                                                                          |
+|      |                 |                               | Very similar to the Flag of Lithuania                                                                                                                       |
++------+-----------------+-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|      | 1976            | Unofficial flag of Vendsyssel | Nordic Cross Flag in blue, orange and green.[19] Designed by Mogens Bohøj.[20]                                                                              |
++------+-----------------+-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|      | 1975            | Unofficial flag of Jutland    | A Nordic Cross Flag in blue, green and red. Designed by Per Kramer in 1975.[21]                                                                             |
++------+-----------------+-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 See also

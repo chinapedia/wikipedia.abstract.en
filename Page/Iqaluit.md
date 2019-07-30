@@ -11,7 +11,7 @@ Iqaluit has been a traditional fishing location used by Inuit for thousands of y
 
 World War II resulted in an influx of non-Inuit to the area, as Canada and the United States cooperated in the defence of Europe. In 1942, the United States built an American air base there, on a long-term lease with the Canadian government, in order to provide a stop-over and refuelling site for the short-range aircraft being ferried to Europe to support the war effort. Iqaluit's first permanent resident was Nakasuk, an Inuk guide who helped US Army Air Force planners to choose a site with a large flat area suitable for a landing strip. The wartime airstrip was known as Crystal Two and was part of the Crimson Route.
 
-It had long been used as a campsite and fishing spot by the Inuit, who called it _Iqaluit_ – "place of many fish" in Inuktitut. The US and Canadian authorities named it _Frobisher Bay_, after the name of the body of water it borders. For the history of the air base, see Frobisher Bay Air Base. GebaeudeHudsenBayCompanyApexFotoAndreKaiser.GIF moved its south Baffin operations to Apex in 1949 (pictured in 2005) to take advantage of the nearby airfield.]]
+It had long been used as a campsite and fishing spot by the Inuit, who called it _Iqaluit_ – "place of many fish" in Inuktitut. The US and Canadian authorities named it _Frobisher Bay_, after the name of the body of water it borders. For the history of the air base, see Frobisher Bay Air Base. moved its south Baffin operations to Apex in 1949 (pictured in 2005) to take advantage of the nearby airfield.]]
 
 In 1949, after the war, the Hudson's Bay Company moved its south Baffin operations to the neighbouring valley of _Niaqunngut_, officially called Apex, in order to use the airfield. In the mid-1950s, the population of Frobisher Bay increased rapidly during the construction of the Distant Early Warning Line (DEW line, a system of defensive radar stations—see North American Aerospace Defense Command (NORAD)). Hundreds of mostly non-Inuit construction workers, military personnel, and administrative staff moved into the community, and several hundred Inuit followed, to take advantage of the access to jobs and medical care provided by the base operations. By 1957, 489 of the town's 1,200 residents were reported to be Inuit. After 1959, the Canadian government established permanent services at Frobisher Bay, including full-time doctors, a school, and social services. The Inuit population grew rapidly in response, as the government encouraged Inuit to settle permanently in communities supported by government services.
 
@@ -50,11 +50,11 @@ Timeline
 
 Geography
 
-Aerial_view_of_Iqaluit,_Nunavut_(Quintin_Soloviev).jpg]] Iqaluit is located in the Everett Mountains rising from Koojesse (Kuujussi) Inlet, an inlet of Frobisher Bay, on the southeast part of Baffin Island. It is well to the east of Nunavut's mainland, and northeast of Hudson Bay.
+]] Iqaluit is located in the Everett Mountains rising from Koojesse (Kuujussi) Inlet, an inlet of Frobisher Bay, on the southeast part of Baffin Island. It is well to the east of Nunavut's mainland, and northeast of Hudson Bay.
 
 Climate
 
-October_nights_in_the_Arctic_(2).jpg, featuring long, cold winters, and brief summers that are too cool to permit the growth of large trees.]] Iqaluit has a tundra climate (Köppen: _ET_) typical of the Arctic region, although it is well outside the Arctic Circle. The city features very long, cold winters and brief summers that are too cool to permit the growth of trees. Although it is north of the tree line, there are still shrubs, which are woody plants. These include the Arctic willow (_Salix arctica_), which is hard to recognize as a tree because of its low height. The permafrost does not allow the taproot to get deeper than , disallowing vertical growth. The Arctic willow may be up to around horizontally, but only tall. Average monthly temperatures are below freezing for eight months of the year.[9] Iqaluit averages just over of precipitation annually, much wetter than many other localities in the Arctic Archipelago, with the summer being the wettest season. Temperatures of the winter months are comparable to other northern communities further west on the continent such as Yellowknife and to some extent even Fairbanks, even though Iqaluit is a few degrees colder than the latter. Summer temperatures are, however, much colder due to its easterly maritime position affected by the waters of the cold Baffin Island Current. This means that the tree line is much further south in the eastern part of Canada, being as southbound, in spite of low elevation, as northern Labrador.[10]
+, featuring long, cold winters, and brief summers that are too cool to permit the growth of large trees.]] Iqaluit has a tundra climate (Köppen: _ET_) typical of the Arctic region, although it is well outside the Arctic Circle. The city features very long, cold winters and brief summers that are too cool to permit the growth of trees. Although it is north of the tree line, there are still shrubs, which are woody plants. These include the Arctic willow (_Salix arctica_), which is hard to recognize as a tree because of its low height. The permafrost does not allow the taproot to get deeper than , disallowing vertical growth. The Arctic willow may be up to around horizontally, but only tall. Average monthly temperatures are below freezing for eight months of the year.[9] Iqaluit averages just over of precipitation annually, much wetter than many other localities in the Arctic Archipelago, with the summer being the wettest season. Temperatures of the winter months are comparable to other northern communities further west on the continent such as Yellowknife and to some extent even Fairbanks, even though Iqaluit is a few degrees colder than the latter. Summer temperatures are, however, much colder due to its easterly maritime position affected by the waters of the cold Baffin Island Current. This means that the tree line is much further south in the eastern part of Canada, being as southbound, in spite of low elevation, as northern Labrador.[10]
 
 In comparison, the climate of Iqaluit is severely cold compared to Gulf Stream locations on the same latitude. For example, the Norwegian city of Trondheim has an annual mean temperature that is milder.
 
@@ -63,7 +63,7 @@ The highest temperature ever recorded in Iqaluit was on 21 July 2008.[11] The lo
 
 Cityscape
 
-Iqaluit_skyline.jpg of Iqaluit.]]
+of Iqaluit.]]
 
 Neighbourhoods
 
@@ -79,7 +79,7 @@ Neighbourhoods
 -   Tundra Ridge (west) – home to two of the city's schools and youth centre
 -   West 40 (southwest) – commercial area
 
-Apex_Nunavut.JPG, a suburban neighbourhood of Iqaluit.]]
+, a suburban neighbourhood of Iqaluit.]]
 
 Suburbs
 
@@ -87,13 +87,13 @@ Apex, officially and functionally part of the City of Iqaluit, is a small commun
 
 Architecture and attractions
 
-Leg_Building_Iqaluit_2000-08-27.jpg is a distinctive building in Iqaluit.]] Much of Iqaluit's architecture is functional – designed to minimize material costs, while retaining heat and withstanding the climate. Early architecture runs from the 1950s military barracks of the original DEW line installation, through the 1970s white hyper-modernist fibreglass block of the Nakasuk School and Municipal Offices and Arena, to the lines of the steel-reinforced concrete high-rise complex on the hill above it. A number of older Hudson's Bay Company and early 1950s buildings have been retained and restored in Apex (the former nursing station has been revived as the Rannva Bed and Breakfast, the HBC buildings as an art gallery). The newer buildings are more colourful and diverse, and closer to the norms of southern architecture.
+is a distinctive building in Iqaluit.]] Much of Iqaluit's architecture is functional – designed to minimize material costs, while retaining heat and withstanding the climate. Early architecture runs from the 1950s military barracks of the original DEW line installation, through the 1970s white hyper-modernist fibreglass block of the Nakasuk School and Municipal Offices and Arena, to the lines of the steel-reinforced concrete high-rise complex on the hill above it. A number of older Hudson's Bay Company and early 1950s buildings have been retained and restored in Apex (the former nursing station has been revived as the Rannva Bed and Breakfast, the HBC buildings as an art gallery). The newer buildings are more colourful and diverse, and closer to the norms of southern architecture.
 
-The principal exception is the Nunavut Legislative Assembly Building, which is remarkable for its colourful interior, adorned with some of the very best in Inuit art. A new legislative building is in planning to be developed and built outside the city on the Apex Road. Iqaluit_St._Jude's_Anglican_Cathedral_2012.JPG, St. Jude's Cathedral is the seat of the Anglican Diocese of the Arctic.]] Another distinctive building was St. Jude's Anglican Cathedral, see of the Anglican Diocese of The Arctic, which was a white building shaped like an igloo. The altar was built by the parishioners, under the guidance of Markoosie Peter, a traditional master carpenter. It was shaped like a traditional Inuit sled, and the cross composed of two crossed narwhal tusks. An incident of arson severely affected the Cathedral structure and interior on 5 November 2005,[13] and it was demolished on 1 June 2006. The cathedral is slowly being rebuilt (foundation 2008 superstructure 2010) and fund-raising continues locally and internationally. In December 2010, the exterior of a similarly shaped replacement cathedral was completed, and interior work was planned for 2011 with a potential opening for Christmas 2011. The current building, informally referred to as the Igloo Cathedral, was opened on June 3, 2012. The unique building, in the shape of an igloo, has traditionally been a landmark and tourist attraction in Iqaluit, besides its important spiritual role for Iqalummiut (people of Iqaluit).
+The principal exception is the Nunavut Legislative Assembly Building, which is remarkable for its colourful interior, adorned with some of the very best in Inuit art. A new legislative building is in planning to be developed and built outside the city on the Apex Road. , St. Jude's Cathedral is the seat of the Anglican Diocese of the Arctic.]] Another distinctive building was St. Jude's Anglican Cathedral, see of the Anglican Diocese of The Arctic, which was a white building shaped like an igloo. The altar was built by the parishioners, under the guidance of Markoosie Peter, a traditional master carpenter. It was shaped like a traditional Inuit sled, and the cross composed of two crossed narwhal tusks. An incident of arson severely affected the Cathedral structure and interior on 5 November 2005,[13] and it was demolished on 1 June 2006. The cathedral is slowly being rebuilt (foundation 2008 superstructure 2010) and fund-raising continues locally and internationally. In December 2010, the exterior of a similarly shaped replacement cathedral was completed, and interior work was planned for 2011 with a potential opening for Christmas 2011. The current building, informally referred to as the Igloo Cathedral, was opened on June 3, 2012. The unique building, in the shape of an igloo, has traditionally been a landmark and tourist attraction in Iqaluit, besides its important spiritual role for Iqalummiut (people of Iqaluit).
 
 On a ridge overlooking the city is the distinctive blue and white Inuksuk High School. The school is made up of four square sections joined together that give a cloverleaf shape when viewed from the air.
 
-The city is also the location of the Nunatta Sunakkutaangit Museum, which houses a large collection of Inuit and Arctic objects. The museum is housed in a restored and extended Hudson's Bay Company building, clad in the HBC signature red and white, transported to Iqaluit from its original site on the Apex Beach. River_at_Sylvia_Grinnell_Territorial_Park.JPG. The territorial park is located just outside the city limits.]] Just west of Iqaluit is the Sylvia Grinnell Territorial Park Reserve. This park is dominated by the valley of the Sylvia Grinnell River. A small visitor's centre with viewing platform is located on top of a hill overlooking scenic waterfalls, tidal flats and traditional fishing sites.
+The city is also the location of the Nunatta Sunakkutaangit Museum, which houses a large collection of Inuit and Arctic objects. The museum is housed in a restored and extended Hudson's Bay Company building, clad in the HBC signature red and white, transported to Iqaluit from its original site on the Apex Beach. . The territorial park is located just outside the city limits.]] Just west of Iqaluit is the Sylvia Grinnell Territorial Park Reserve. This park is dominated by the valley of the Sylvia Grinnell River. A small visitor's centre with viewing platform is located on top of a hill overlooking scenic waterfalls, tidal flats and traditional fishing sites.
 
 Nearby on an island near Peterhead Inlet, is the Qaummaarviit Territorial Historic Park. It is a site with a long Inuit history and numerous artifacts have been recovered, including the remains of 11 semi-buried sod houses.
 
@@ -108,7 +108,7 @@ The 2016 census reported that there were 7,740, people living in Iqaluit, a 15.5
 
 Iqaluit has quite a young population, the median age of the population is more than 10 years younger than the national rate, 30.1 years old compared to 40.6 years old.
 
-Iqaluit has the most Inuit people in both numbers (3,900) and percentages (59.1%), of all Canadian cities with populations greater than 5,000. The racial make up is:[15] Iqaluit_stop_sign.jpg in Iqaluit. The sign features the two most-spoken languages in the city, English and Inuktitut.]] There is no "majority mother tongue" in Iqaluit, as 45.4% reported their mother tongue as being English, and 45.4% also reported their mother tongue as Inuktitut. 97.2% of Iqalummiuts can speak English, however, whereas only 53.1% can speak Inuktitut. French was the mother tongue of 4.8% of the population, which is the same figure of the population who can speak the language. As of 2012, "Pirurvik, Iqaluit’s Inuktitut language training centre, has a new goal: to train instructors from Nunavut communities to teach Inuktitut in different ways and in their own dialects when they return home."[16]
+Iqaluit has the most Inuit people in both numbers (3,900) and percentages (59.1%), of all Canadian cities with populations greater than 5,000. The racial make up is:[15] in Iqaluit. The sign features the two most-spoken languages in the city, English and Inuktitut.]] There is no "majority mother tongue" in Iqaluit, as 45.4% reported their mother tongue as being English, and 45.4% also reported their mother tongue as Inuktitut. 97.2% of Iqalummiuts can speak English, however, whereas only 53.1% can speak Inuktitut. French was the mother tongue of 4.8% of the population, which is the same figure of the population who can speak the language. As of 2012, "Pirurvik, Iqaluit’s Inuktitut language training centre, has a new goal: to train instructors from Nunavut communities to teach Inuktitut in different ways and in their own dialects when they return home."[16]
 
 74.9% of the population practise some form of Christianity (Anglican is the most popular at 42.6%), and 22.9% of the population identify as having no religious affiliation. There are other religions practised in the city, just not in large numbers.
 
@@ -121,7 +121,7 @@ For those over the age of 25:
 
 Education
 
-Nakasuk_Elementary_School,_Iqaluit,_Nunavut,_Canada.jpg is one of six publicly funded schools in the city.]] The Qikiqtani School Operations based in Pond Inlet operates five schools in the area. Nanook Elementary School, located in Apex, Nakasuk School and Joamie Ilinniarvik School offer kindergarten to grade 5. Aqsarniit Ilinniarvik School offers grades 6 to 8 and Inuksuk High School offers grades 9 to 12.[17]
+is one of six publicly funded schools in the city.]] The Qikiqtani School Operations based in Pond Inlet operates five schools in the area. Nanook Elementary School, located in Apex, Nakasuk School and Joamie Ilinniarvik School offer kindergarten to grade 5. Aqsarniit Ilinniarvik School offers grades 6 to 8 and Inuksuk High School offers grades 9 to 12.[17]
 
 The Commission scolaire francophone du Nunavut runs École des Trois-Soleils and offers kindergarten to grade 8.[18]
 
@@ -132,7 +132,7 @@ Infrastructure
 
 Emergency services
 
-Mounties_Iqaluit_Canada_Day_19990701.jpg during a Canada Day parade in 1999. Policing is provided by the RCMP's V Division.]] Emergency services (fire and ambulance) are provided by city from a single station on Niaqunngusiariaq.[19]
+during a Canada Day parade in 1999. Policing is provided by the RCMP's V Division.]] Emergency services (fire and ambulance) are provided by city from a single station on Niaqunngusiariaq.[19]
 
 The emergency services fleet consists of:
 
@@ -155,7 +155,7 @@ Qikiqtani General Hospital is the primary care facility in the city. There is al
 
 Transportation
 
-Iqaluit is the smallest Canadian capital in terms of population, and the only capital that is not connected to other settlements by a highway. Located on an island remote from the Canadian highway system, Iqaluit is generally only accessible by aircraft and, subject to ice conditions, by boat. Iqaluit_airport_(6869460992).jpg hosts a number of scheduled flights to Ottawa, Montreal, Rankin Inlet, Kuujjuaq, and smaller communities throughout Nunavut.]] Iqaluit Airport is a modern facility with a runway long enough for most modern jet aircraft. A new, larger passenger terminal building north of the old terminal was completed in 2018.
+Iqaluit is the smallest Canadian capital in terms of population, and the only capital that is not connected to other settlements by a highway. Located on an island remote from the Canadian highway system, Iqaluit is generally only accessible by aircraft and, subject to ice conditions, by boat. hosts a number of scheduled flights to Ottawa, Montreal, Rankin Inlet, Kuujjuaq, and smaller communities throughout Nunavut.]] Iqaluit Airport is a modern facility with a runway long enough for most modern jet aircraft. A new, larger passenger terminal building north of the old terminal was completed in 2018.
 
 Canadian North and First Air serve Iqaluit from Ottawa, Yellowknife and several communities in Nunavut. Locally based airlines Air Nunavut, Canadian Helicopters, Nunasi Helicopters and Unaalik Aviation provide air charters, and Air Nunavut and Kivalliq Air provide MEDIVAC/air ambulance service. Air Canada Jazz provided daily service to Iqaluit from Ottawa in 2010 and 2011, but cancelled service due to rising fuel costs, which prevented the route from being profitable.[22][23]
 
@@ -163,7 +163,7 @@ Iqaluit shared its runway with the Royal Canadian Air Force until the Canadian F
 
 Rumours that Iqaluit was an emergency landing site for the Space Shuttle are false.[24]
 
-In the middle of summer, a few ships—generally no larger than a _Liberty_-class vessel—transport bulk and heavy goods to the city. Cargo is off-loaded onto barges as the harbour is not deep enough. The city is planning a deepwater port.[25] Experienced locals also cross the Hudson Strait from the Canadian mainland when it freezes over, either on foot or by dog sled or snowmobile, a distance of over . Traffic_on_the_Road_to_Nowhere.JPG, dog sled, or foot.]] Iqaluit has a local road system only stretching from the nearby community of Apex to the Sylvia Grinnell Territorial Park, west of town. Iqaluit has no public transportation, although there is citywide taxi service. There used to be bus service in the city, but the service was cancelled due to low ridership. Motor cars are increasing in number, to the extent of causing occasional traffic jams known locally as "the rush minute". However, the cost of shipping automobiles and the wear-and-tear of the harsh Arctic climate combined with its notoriously rough roadways mean that snowmobiles remain the preferred form of personal transportation. All-terrain vehicles are also increasingly common in most of the Canadian Arctic. Snowmobiles are used to travel within the city and in the surrounding area. In winter, dog sleds are still used, but primarily for recreation. In winter, the nearby Qaummaarviit Territorial Historic Park and the more remote Katannilik Territorial Park Reserve are only accessible by snowmobile, dog sled or foot. In the summer, both are accessible by boat. Most major roads within Iqaluit are paved with asphalt, but local and smaller roads are gravel. Roads do not have traffic signals, but use stop signs to control intersections.
+In the middle of summer, a few ships—generally no larger than a _Liberty_-class vessel—transport bulk and heavy goods to the city. Cargo is off-loaded onto barges as the harbour is not deep enough. The city is planning a deepwater port.[25] Experienced locals also cross the Hudson Strait from the Canadian mainland when it freezes over, either on foot or by dog sled or snowmobile, a distance of over . , dog sled, or foot.]] Iqaluit has a local road system only stretching from the nearby community of Apex to the Sylvia Grinnell Territorial Park, west of town. Iqaluit has no public transportation, although there is citywide taxi service. There used to be bus service in the city, but the service was cancelled due to low ridership. Motor cars are increasing in number, to the extent of causing occasional traffic jams known locally as "the rush minute". However, the cost of shipping automobiles and the wear-and-tear of the harsh Arctic climate combined with its notoriously rough roadways mean that snowmobiles remain the preferred form of personal transportation. All-terrain vehicles are also increasingly common in most of the Canadian Arctic. Snowmobiles are used to travel within the city and in the surrounding area. In winter, dog sleds are still used, but primarily for recreation. In winter, the nearby Qaummaarviit Territorial Historic Park and the more remote Katannilik Territorial Park Reserve are only accessible by snowmobile, dog sled or foot. In the summer, both are accessible by boat. Most major roads within Iqaluit are paved with asphalt, but local and smaller roads are gravel. Roads do not have traffic signals, but use stop signs to control intersections.
 
 Residents and businesses identify their locations mostly by building number, and occasionally by the name of a prominent structure. Residents know where in the city certain series of building numbers are located; numbers tend to be aggregated in blocks, so someone might say that they live in the 2600s. Around 2003, street names were developed, although there were delays in finalizing them and posting the signs. Street numbers have not been assigned, and building numbers continue to be used. Iqaluit is the only Canadian capital city not to have traffic signals.[26]
 
@@ -178,7 +178,7 @@ As the dump has reached capacity, the city plans to open a second dump north of 
 
 Media
 
-Nunatsiaq_News_-_Nunavut_Tourism_-_Ayaya_Communications_Offices.jpg. Nunatsiaq News is one of two weekly newspapers that circulate in Iqualuit.]]
+. Nunatsiaq News is one of two weekly newspapers that circulate in Iqualuit.]]
 
 Communications
 
@@ -189,7 +189,7 @@ Press
 -   Nunatsiaq News
 -   News/North
 
-CBC_North_studio_Iqaluit.JPG radio, and the regional network centre for Nunavut for CBC North.]]
+radio, and the regional network centre for Nunavut for CBC North.]]
 
 Radio
 

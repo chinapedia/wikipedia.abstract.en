@@ -1,4 +1,4 @@
-Nicaea_icon.jpg depicting Emperor Constantine (center) and the Fathers of the First Council of Nicaea (325) as holding the Niceno-Constantinopolitan Creed of 381]]
+depicting Emperor Constantine (center) and the Fathers of the First Council of Nicaea (325) as holding the Niceno-Constantinopolitan Creed of 381]]
 
 A CREED (also known as a _confession_, _symbol_, or _statement of faith_) is a statement of the shared beliefs of a religious community in the form of a fixed formula summarizing core tenets.
 

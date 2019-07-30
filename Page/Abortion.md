@@ -44,8 +44,6 @@ Medical abortion regimens using mifepristone in combination with a prostaglandin
 
 Surgical
 
-Vacuum-aspiration_(single).svg
-
 Up to 15 weeks' gestation, suction-aspiration or vacuum aspiration are the most common surgical methods of induced abortion.[83] _Manual vacuum aspiration_ (MVA) consists of removing the fetus or embryo, placenta, and membranes by suction using a manual syringe, while _electric vacuum aspiration_ (EVA) uses an electric pump. These techniques differ in the mechanism used to apply suction, in how early in pregnancy they can be used, and in whether cervical dilation is necessary.
 
 MVA, also known as "mini-suction" and "menstrual extraction", can be used in very early pregnancy, and does not require cervical dilation. Dilation and curettage (D&C), the second most common method of surgical abortion, is a standard gynecological procedure performed for a variety of reasons, including examination of the uterine lining for possible malignancy, investigation of abnormal bleeding, and abortion. Curettage refers to cleaning the walls of the uterus with a curette. The World Health Organization recommends this procedure, also called _sharp curettage,_ only when MVA is unavailable.[84]
@@ -75,8 +73,6 @@ Reported methods of unsafe, self-induced abortion include misuse of misoprostol 
 
 Safety
 
-Abortion_Quick_&_Pain_Free_sign,_Joe_Slovo_Park,_Cape_Town,_South_Africa-3869.jpg
-
 The health risks of abortion depend principally upon whether the procedure is performed safely or unsafely. The World Health Organization defines unsafe abortions as those performed by unskilled individuals, with hazardous equipment, or in unsanitary facilities.[99] Legal abortions performed in the developed world are among the safest procedures in medicine.[100][101] In the United States, abortion is estimated to be about 14 times safer for women than carrying a pregnancy to term.[102] CDC estimated in 2019 that US pregnancy-related mortality was 17.2 maternal deaths per 100,000 live births,[103] while the US abortion mortality rate is 0.7 maternal deaths per 100,000 procedures.[104][105] In the US from 2000 to 2009, abortion had a lower mortality rate than plastic surgery, and a similar or lower mortality rate than running a marathon.[106] The risk of abortion-related mortality increases with gestational age, but remains lower than that of childbirth through at least 21 weeks' gestation.[107][108][109] Outpatient abortion is as safe and effective from 64 to 70 days' gestation as it is from 57 to 63 days.[110] Medical abortion is safe and effective for pregnancies earlier than 6 weeks' gestation.[111]
 
 Vacuum aspiration in the first trimester is the safest method of surgical abortion, and can be performed in a primary care office, abortion clinic, or hospital. Complications, which are rare, can include uterine perforation, pelvic infection, and retained products of conception requiring a second procedure to evacuate.[112] Infections account for one-third of abortion-related deaths in the United States.[113] The rate of complications of vacuum aspiration abortion in the first trimester is similar regardless of whether the procedure is performed in a hospital, surgical center, or office.[114] Preventive antibiotics (such as doxycycline or metronidazole) are typically given before elective abortion,[115] as they are believed to substantially reduce the risk of postoperative uterine infection.[116][117] The rate of failed procedures does not appear to vary significantly depending on whether the abortion is performed by a doctor or a mid-level practitioner.[118] Complications after second-trimester abortion are similar to those after first-trimester abortion, and depend somewhat on the method chosen. Second-trimester abortions are generally well-tolerated.[119]
@@ -100,8 +96,6 @@ Current evidence finds no relationship between most induced abortions and mental
 Although some studies show negative mental-health outcomes in women who choose abortions after the first trimester because of fetal abnormalities,[136] more rigorous research would be needed to show this conclusively.[137] Some proposed negative psychological effects of abortion have been referred to by anti-abortion advocates as a separate condition called "post-abortion syndrome", but this is not recognized by medical or psychological professionals in the United States.[138]
 
 Unsafe abortion
-
-RussianAbortionPoster.jpg
 
 Women seeking an abortion may use unsafe methods, especially when abortion is legally restricted. They may attempt self-induced abortion or seek the help of a person without proper medical training or facilities. This can lead to severe complications, such as incomplete abortion, sepsis, hemorrhage, and damage to internal organs.[139]
 
@@ -148,7 +142,7 @@ Motivation
 
 Personal
 
-AGIAbortionReasonsBarChart.png meta-study on the reasons women stated for having an abortion.]] The reasons why women have abortions are diverse and vary across the world.[208][209] Some of the reasons may include an inability to afford a child, domestic violence, lack of support, feeling they are too young, and the wish to complete education or advance a career.[210] Additional reasons include not being willing to raise a child conceived as a result of rape or incest.[211][212]
+meta-study on the reasons women stated for having an abortion.]] The reasons why women have abortions are diverse and vary across the world.[208][209] Some of the reasons may include an inability to afford a child, domestic violence, lack of support, feeling they are too young, and the wish to complete education or advance a career.[210] Additional reasons include not being willing to raise a child conceived as a result of rape or incest.[211][212]
 
 Societal
 
@@ -173,7 +167,7 @@ The process of birth itself may also put the mother at risk. "Vaginal delivery m
 
 History and religion
 
-AngkorWatAbortionAD1150.JPG at Angkor Wat, Cambodia, c. 1150, depicting a demon inducing an abortion by pounding the abdomen of a pregnant woman with a pestle.[223][224]]] FrenchPeriodicalPills-January61845,BostonDailyTimes.jpg''.]] Since ancient times abortions have been done using herbal medicines, sharp tools, with force, or through other traditional methods.[225] Induced abortion has long history and can be traced back to civilizations as varied as China under Shennong (c. 2700 BCE), Ancient Egypt with its Ebers Papyrus (c. 1550 BCE), and the Roman Empire in the time of Juvenal (c. 200 CE).[226] There is evidence to suggest that pregnancies were terminated through a number of methods, including the administration of abortifacient herbs, the use of sharpened implements, the application of abdominal pressure, and other techniques. One of the earliest known artistic representations of abortion is in a bas relief at Angkor Wat (c. 1150). Found in a series of friezes that represent judgment after death in Hindu and Buddhist culture, it depicts the technique of abdominal abortion.[227]
+at Angkor Wat, Cambodia, c. 1150, depicting a demon inducing an abortion by pounding the abdomen of a pregnant woman with a pestle.[223][224]]] ''.]] Since ancient times abortions have been done using herbal medicines, sharp tools, with force, or through other traditional methods.[225] Induced abortion has long history and can be traced back to civilizations as varied as China under Shennong (c. 2700 BCE), Ancient Egypt with its Ebers Papyrus (c. 1550 BCE), and the Roman Empire in the time of Juvenal (c. 200 CE).[226] There is evidence to suggest that pregnancies were terminated through a number of methods, including the administration of abortifacient herbs, the use of sharpened implements, the application of abdominal pressure, and other techniques. One of the earliest known artistic representations of abortion is in a bas relief at Angkor Wat (c. 1150). Found in a series of friezes that represent judgment after death in Hindu and Buddhist culture, it depicts the technique of abdominal abortion.[227]
 
 Some medical scholars and abortion opponents have suggested that the Hippocratic Oath forbade Ancient Greek physicians from performing abortions;[228] other scholars disagree with this interpretation,[229] and state that the medical texts of Hippocratic Corpus contain descriptions of abortive techniques right alongside the Oath.[230] The physician Scribonius Largus wrote in 43 CE that the Hippocratic Oath prohibits abortion, as did Soranus, although apparently not all doctors adhered to it strictly at the time. According to Soranus' 1st or 2nd century CE work _Gynaecology_, one party of medical practitioners banished all abortives as required by the Hippocratic Oath; the other party—to which he belonged—was willing to prescribe abortions, but only for the sake of the mother's health.[231][232]
 

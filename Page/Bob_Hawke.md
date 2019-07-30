@@ -29,8 +29,6 @@ In 1956, Hawke accepted a scholarship to undertake doctoral studies in the area 
 
 Australian Council of Trade Unions
 
-Bob_Hawke_elected_President_of_the_ACTU,_Paddington_Town_Hall,_Sydney,_10_September_1969_-_Uwe_Kuessner,_Australian_Photographic_Agency_(5757040416).jpg
-
 Not long after Hawke began work at the ACTU, he became responsible for the presentation of its annual case for higher wages to the national wages tribunal, the Conciliation and Arbitration Commission. He was first appointed as an ACTU advocate in 1959. The 1958 case, under previous advocate R.L. Eggleston, had yielded only a five-shilling increase.[25] The 1959 case found for a fifteen-shilling increase, and was regarded as a personal triumph for Hawke.[26] He went on to attain such success and prominence in his role as an ACTU advocate that, in 1969, he was encouraged to run for the position of ACTU President, despite the fact that he had never held elected office in a trade union.[27]
 
 He was elected ACTU President in 1969 on a modernising platform by the narrow margin of 399 to 350, with the support of the left of the union movement, including some associated with the Communist Party.[28] He later credited Ray Gietzelt, General Secretary of the FMWU, as the single most significant union figure in helping him achieve this outcome.[29]
@@ -47,8 +45,6 @@ The strain of this period, serving as both ACTU President and Labor Party Presid
 
 
 Member of Parliament
-
-Bob_Hawke_in_1980.jpg
 
 Hawke's first attempt to enter Parliament came during the 1963 federal election. He stood in the seat of Corio in Geelong and managed to achieve a 3.1% swing against the national trend, although he fell short of ousting longtime Liberal incumbent Hubert Opperman.[39]
 
@@ -67,7 +63,7 @@ Prime Minister of Australia (1983–1991)
 
 Early days
 
-BannonHawke.jpg, Premier of South Australia, in April 1983, in the aftermath of the Ash Wednesday bushfires.]]
+, Premier of South Australia, in April 1983, in the aftermath of the Ash Wednesday bushfires.]]
 
 After Labor's landslide victory, Hawke was sworn in as the 23rd Prime Minister of Australia by the governor-general on 11 March 1983. The inaugural days of the Hawke Government were distinctly different from those of the Whitlam Government. Rather than immediately initiating extensive reform programs as Whitlam had, Hawke announced that Malcolm Fraser's pre-election concealment of the budget deficit meant that many of Labor's election commitments would have to be deferred.[48] As part of his internal reforms package, Hawke divided the government into two tiers, with only the most senior ministers sitting in the cabinet. The Labor caucus was still given the authority to determine who would make up the ministry, but gave Hawke unprecedented powers for a Labor prime minister to select which individual ministers would comprise the 13-strong Cabinet.[49]
 
@@ -77,7 +73,7 @@ Unlike his predecessor, Hawke's authority within the Labor Party was absolute. T
 
 Economic policy
 
-Hawke_Reagan1985.jpg at the White House in November 1984]]
+at the White House in November 1984]]
 
 According to political commentator Paul Kelly, "the most influential economic decisions of the 1980s were the floating of the Australian dollar and the deregulation of the financial system".[52] Although the Fraser Government had played a part in the process of financial deregulation by commissioning the 1981 Campbell Report, opposition from Fraser himself had stalled the deregulation process.[53] When the Hawke Government implemented a comprehensive program of financial deregulation and reform, it "transformed economics and politics in Australia". The Australian economy became significantly more integrated with the global economy as a result, which completely transformed its relationship with Asia, Europe and the United States.[54] Both Hawke and Keating would claim the credit for being the driving force behind the success of the Australian Dollar float.[55] That year the economy was seen to be in crisis with a 40% devaluation of the Australian dollar, a marked increase in the current account deficit and the loss of the Federal Government's triple A rating.[56]
 
@@ -101,7 +97,7 @@ Under his leadership Hawke initiated large changes to the industrial relations s
 
 1984 and 1987 elections
 
-Bob_and_Hazel_Hawke_1987.jpg, on a 1987 trip to Moscow.]]PMs_office_at_Old_Parliament_House_December_2012.jpg, preserved as it appeared during Hawke's prime ministership; he was the last prime minister to work there before the opening of the new building in 1988.]]
+, on a 1987 trip to Moscow.]], preserved as it appeared during Hawke's prime ministership; he was the last prime minister to work there before the opening of the new building in 1988.]]
 
 Hawke benefited greatly from the disarray into which the Liberal Party fell after the resignation of Malcolm Fraser. The Liberals were divided between supporters of the dour, socially conservative John Howard and the more liberal, urbane Andrew Peacock. The arch-conservative Premier of Queensland, Joh Bjelke-Petersen, added to the Liberals' problems with his "Joh for Canberra" campaign, which proved highly damaging. Exploiting these divisions, Hawke led the Labor Party to landslide election victories in a snap 1984 election and the 1987 election.
 
@@ -124,7 +120,7 @@ Hawke wrote that he had very few regrets over his time in office. His bitterness
 
 Retirement and later life
 
-HawkeSorry.jpg for the national apology to the Stolen Generations in 2008]]
+for the national apology to the Stolen Generations in 2008]]
 
 After leaving Parliament, Hawke entered the business world, taking on a number of directorships and consultancy positions which enabled him to achieve considerable financial success. He deliberately had little involvement with the Labor Party during Keating's tenure as prime minister, not wanting to overshadow his successor, although he did occasionally criticise some of Keating's policies publicly.[96]
 
@@ -135,8 +131,6 @@ In the run up to the 2007 election, Hawke made a considerable personal effort to
 Similarly, in the 2010 and 2013 campaigns, Hawke lent considerable support to Julia Gillard and Kevin Rudd respectively. Hawke also maintained an involvement in Labor politics at a state level; in 2011, Hawke publicly supported New South Wales Premier Kristina Keneally, who was facing almost certain defeat, in her campaign against Liberal Barry O'Farrell, describing her campaign as "gutsy".[100]
 
 In February 2008, Hawke joined former prime ministers Gough Whitlam, Malcolm Fraser and Paul Keating in Parliament House to witness the then prime minister, Kevin Rudd, deliver the long anticipated apology to the Stolen Generations.[101]
-
-Bob_Hawke_(8216522868).jpg
 
 In 2009, Hawke helped establish the Centre for Muslim and Non-Muslim Understanding at the University of South Australia. Interfaith dialogue was an important issue for Hawke, who told the _Adelaide Review_ that he is "convinced that one of the great potential dangers confronting the world is the lack of understanding in regard to the Muslim world. Fanatics have misrepresented what Islam is. They give a false impression of the essential nature of Islam."[102]
 
@@ -149,8 +143,6 @@ In May 2019, in the lead-up to the 2019 Australian federal election, Hawke made 
 
 Personal life
 
-BobandBlanche.jpg
-
 Hawke married Hazel Masterson in 1956 at Perth Trinity Church.[109] They had three children; Susan (born 1957), Stephen (born 1959) and Roslyn (born 1960). Their fourth child, Robert Jr, died in his early infancy in 1963. Hawke was named Victorian Father of the Year in 1971, an honour which his wife disputed due to his heavy drinking and womanising.[110][111] The couple divorced in 1995, after he left her for the writer Blanche d'Alpuget, and the two lived together in Northbridge, a suburb of the North Shore of Sydney.[112]
 
 Throughout his marriage to his first wife, Hazel, Hawke was a heavy drinker. Hawke suffered from alcohol poisoning following the death of their infant son. Hawke had an extramarital affair with his biographer d'Alpuget. Hawke left his wife for d'Alpuget, a move which left him estranged from some of his family for a time.[113] Hawke and his family reconciled by the 2010s.[114]
@@ -162,7 +154,7 @@ Hawke died on 16 May 2019, aged 89, two days before the 2019 federal election, a
 
 Titles, styles and honours
 
-Bob_Hawke_bust.jpg in the Ballarat Botanical Gardens]]
+in the Ballarat Botanical Gardens]]
 
 Honours
 

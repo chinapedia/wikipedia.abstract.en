@@ -12,7 +12,7 @@ He attended Fairfax High School in Los Angeles, where he excelled on the basketb
 
 Acting career
 
-David_Janssen_Fugitive_1967.JPG Janssen appeared in many television series before he landed programs of his own. In 1956, he and Peter Breck appeared in John Bromfield's syndicated series _Sheriff of Cochise_ in the episode "The Turkey Farmers". Later, he guest-starred on NBC's medical drama _The Eleventh Hour_ in the role of Hal Kincaid in the 1962 episode "Make Me a Place", with series co-stars Wendell Corey and Jack Ging. He joined friend Martin Milner in a 1962 episode of _Route 66_ as the character Kamo in the episode "One Tiger to a Hill."
+Janssen appeared in many television series before he landed programs of his own. In 1956, he and Peter Breck appeared in John Bromfield's syndicated series _Sheriff of Cochise_ in the episode "The Turkey Farmers". Later, he guest-starred on NBC's medical drama _The Eleventh Hour_ in the role of Hal Kincaid in the 1962 episode "Make Me a Place", with series co-stars Wendell Corey and Jack Ging. He joined friend Martin Milner in a 1962 episode of _Route 66_ as the character Kamo in the episode "One Tiger to a Hill."
 
 Janssen starred in four television series of his own:
 
@@ -36,7 +36,7 @@ In 1996 _TV Guide_ ranked him number 36 on its 50 Greatest TV Stars of All Time 
 
 Personal life
 
-David_Janssen_1974.JPG Janssen was married twice. His first marriage was to model and interior decorator Ellie Graham, whom he married in Las Vegas on August 25, 1958.[4] They divorced in 1968.[5] In 1975, he married actress and model Dani Crayne Greco. They remained married until Janssen's death.[6]
+Janssen was married twice. His first marriage was to model and interior decorator Ellie Graham, whom he married in Las Vegas on August 25, 1958.[4] They divorced in 1968.[5] In 1975, he married actress and model Dani Crayne Greco. They remained married until Janssen's death.[6]
 
 
 Death

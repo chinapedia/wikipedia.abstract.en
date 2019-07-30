@@ -37,7 +37,7 @@ In 2002, Telekom Brunei was incorporated become Telekom Brunei Berhad (TelBru). 
 
 In 2012, Telekom Brunei started deploying its FTTH network capable of 100Mbit/s through a contract awarded to Huawei. It aims to provide FTTH coverage to around 85% of the population by 2017.
 
-In 2016 Telbru drastically reduced the price and increased the speeds of its broadband plans. Due to the fact that a significant number of people were now connected via FTTH and not the old copper cables.[6] Telbru_new_internet_plans.png
+In 2016 Telbru drastically reduced the price and increased the speeds of its broadband plans. Due to the fact that a significant number of people were now connected via FTTH and not the old copper cables.[6]
 
 On 1 March 2018 Telbru rolled out their new 'high speed' broadband plans[7] They also split the plans which have unlimited quota into 'unlimited plans'[8]
 

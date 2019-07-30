@@ -7,7 +7,7 @@ The intangible nature of intellectual property presents difficulties when compar
 
 History
 
-Statute_of_anne.jpg came into force in 1710]]
+came into force in 1710]]
 
 The Statute of Monopolies (1624) and the British Statute of Anne (1710) are seen as the origins of patent law and copyright respectively,[10] firmly establishing the concept of intellectual property.
 
@@ -129,7 +129,7 @@ Trade secret misappropriation is different from violations of other intellectual
 
 Criticisms
 
-Pro_piracy_demonstration.jpg in support of file sharing, 2006.]] GlamCamp_NY_Kippelboy_nina_Paley_(2).JPG in reference to the in popular culture rationale behind the Sonny Bono Copyright Term Extension Act of 1998]]
+in support of file sharing, 2006.]] in reference to the in popular culture rationale behind the Sonny Bono Copyright Term Extension Act of 1998]]
 
 The term "intellectual property"
 
@@ -155,7 +155,7 @@ The argument that an intellectual property right should (in the interests of bet
 
 Objections to overbroad intellectual property laws
 
-Definition_of_Free_Cultural_Works_logo_notext.svg champions the production of content that bears little or no restrictions.]] Some critics of intellectual property, such as those in the free culture movement, point at intellectual monopolies as harming health (in the case of pharmaceutical patents), preventing progress, and benefiting concentrated interests to the detriment of the masses,[91][92][93][94] and argue that the public interest is harmed by ever-expansive monopolies in the form of copyright extensions, software patents, and business method patents. More recently scientists and engineers are expressing concern that patent thickets are undermining technological development even in high-tech fields like nanotechnology.[95][96]
+champions the production of content that bears little or no restrictions.]] Some critics of intellectual property, such as those in the free culture movement, point at intellectual monopolies as harming health (in the case of pharmaceutical patents), preventing progress, and benefiting concentrated interests to the detriment of the masses,[91][92][93][94] and argue that the public interest is harmed by ever-expansive monopolies in the form of copyright extensions, software patents, and business method patents. More recently scientists and engineers are expressing concern that patent thickets are undermining technological development even in high-tech fields like nanotechnology.[95][96]
 
 Petra Moser has asserted that historical analysis suggests that intellectual property laws may harm innovation:
 
@@ -183,15 +183,13 @@ Another aspect of current U.S. Intellectual Property legislation is its focus on
 
 Expansion in nature and scope of intellectual property laws
 
-Tom_Bell's_graph_showing_extension_of_U.S._copyright_term_over_time.svg
-
 Other criticism of intellectual property law concerns the expansion of intellectual property, both in duration and in scope.
 
 In addition, as scientific knowledge has expanded and allowed new industries to arise in fields such as biotechnology and nanotechnology, originators of technology have sought IP protection for the new technologies. Patents have been granted for living organisms,[111] (and in the United States, certain living organisms have been patentable for over a century).[112]
 
 The increase in terms of protection is particularly seen in relation to copyright, which has recently been the subject of serial extensions in the United States and in Europe.[113][114][115][116][117] With no need for registration or copyright notices, this is thought to have led to an increase in orphan works (copyrighted works for which the copyright owner cannot be contacted), a problem that has been noticed and addressed by governmental bodies around the world.[118]
 
-Hilllary_Rosen_testifies_on_Napster.jpg testifies before the Senate Judiciary Committee on the future of digital music (July 11, 2000)]]
+testifies before the Senate Judiciary Committee on the future of digital music (July 11, 2000)]]
 
 Also with respect to copyright, the American film industry helped to change the social construct of intellectual property via its trade organization, the Motion Picture Association of America. In amicus briefs in important cases, in lobbying before Congress, and in its statements to the public, the MPAA has advocated strong protection of intellectual-property rights. In framing its presentations, the association has claimed that people are entitled to the property that is produced by their labor. Additionally Congress's awareness of the position of the United States as the world's largest producer of films has made it convenient to expand the conception of intellectual property.[119] These doctrinal reforms have further strengthened the industry, lending the MPAA even more power and authority.[120]
 

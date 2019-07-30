@@ -1,5 +1,3 @@
-Tikar_family.jpg
-
 The DEMOGRAPHIC PROFILE OF CAMEROON is complex for a country of its population. Cameroon comprises an estimated 250 distinct ethnic groups, which may be formed into five large regional-cultural divisions:
 
 -   WESTERN HIGHLANDERS (SEMI-BANTU or GRASSFIELDERS), including the Bamileke, Bamum (or _Bamoun_), and many smaller Tikar groups in the Northwest (est. 38% of total population);
@@ -118,7 +116,7 @@ Life expectancy
 
 Ethnic groups
 
-Maka-Njem_ethnic_groups.png in Cameroon and neighbouring countries.]] Duala_ethnic_groups.pngs.]]
+in Cameroon and neighbouring countries.]] s.]]
 
 -   Cameroon Highlanders 31%[7]
 -   Equatorial Bantu 19%[8]
@@ -131,8 +129,6 @@ Maka-Njem_ethnic_groups.png in Cameroon and neighbouring countries.]] Duala_ethn
 
 
 Languages
-
-Nigeria_Benin_Cameroon_languages.png
 
 There are 24 major African language groups in Cameroon; additionally, English and French are official languages. Cameroonian Pidgin English is also widely spoken.
 
@@ -151,7 +147,7 @@ Indigenous languages of Cameroon include:
 
 Other demographic statistics
 
-Cameroon-demography.png.]]
+.]]
 
 Demographic statistics according to the World Population Review in 2019.[15]
 
@@ -169,8 +165,6 @@ Population
     _Note_: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2018 est.)
 
 Age structure
-
-Cameroonpop.svg
 
     _0-14 years:_ 42.15% (male 5,445,142 /female 5,362,166)
     _15-24 years:_ 19.6% (male 2,524,031 /female 2,502,072)

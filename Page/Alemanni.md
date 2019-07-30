@@ -1,5 +1,3 @@
-Alemanni_expansion.png
-
 The ALEMANNI (also _Alamanni_;[1] _Suebi_ "Swabians"[2]) were a confederation of Germanic tribes on the Upper Rhine River. First mentioned by Cassius Dio in the context of the campaign of Caracalla of 213, the Alemanni captured the in 260, and later expanded into present-day Alsace, and northern Switzerland, leading to the establishment of the Old High German language in those regions, by the eighth century named _Alamannia_.[3]
 
 In 496, the Alemanni were conquered by Frankish leader Clovis and incorporated into his dominions. Mentioned as still pagan allies of the Christian Franks, the Alemanni were gradually Christianized during the seventh century. The is a record of their customary law during this period. Until the eighth century, Frankish suzerainty over Alemannia was mostly nominal. After an uprising by Theudebald, Duke of Alamannia, though, Carloman executed the Alamannic nobility and installed Frankish dukes. During the later and weaker years of the Carolingian Empire, the Alemannic counts became almost independent, and a struggle for supremacy took place between them and the Bishopric of Constance. The chief family in Alamannia was that of the counts of , who were sometimes called margraves, and one of whom, Burchard II, established the Duchy of Swabia, which was recognized by Henry the Fowler in 919 and became a stem duchy of the Holy Roman Empire.
@@ -20,7 +18,7 @@ History
 
 First appearance in historical record
 
-Part_of_Tabula_Peutingeriana_centered_around_present_day_Black_Forest.jpg) in the Tabula Peutingeriana. _Suevia_ is indicated separately, further downstream of the Rhine, beyond _Silva Vosagus_.]] Alamannischi_Girtelbschleg.jpg at Weingarten]] The Alemanni were first mentioned by Cassius Dio describing the campaign of Caracalla in 213. At that time, they apparently dwelt in the basin of the Main, to the south of the Chatti.[12]
+) in the Tabula Peutingeriana. _Suevia_ is indicated separately, further downstream of the Rhine, beyond _Silva Vosagus_.]] at Weingarten]] The Alemanni were first mentioned by Cassius Dio describing the campaign of Caracalla in 213. At that time, they apparently dwelt in the basin of the Main, to the south of the Chatti.[12]
 
 Cassius Dio portrays the Alemanni as victims of this treacherous emperor.[13] They had asked for his help, according to Dio, but instead he colonized their country, changed their place names, and executed their warriors under a pretext of coming to their aid. When he became ill, the Alemanni claimed to have put a hex on him. Caracalla, it was claimed, tried to counter this influence by invoking his ancestral spirits.
 
@@ -68,7 +66,7 @@ The Gauls were ambivalent in their policies toward the Romans. In 53 BC the Trev
 
 Conflicts with the Roman Empire
 
-Karte_limes.jpg 83 to 260 CE.]] The Alemanni were continually engaged in conflicts with the Roman Empire in the 3rd and 4th centuries. They launched a major invasion of Gaul and northern Italy in 268, when the Romans were forced to denude much of their German frontier of troops in response to a massive invasion of the Goths from the east. Their raids throughout the three parts of Gaul were traumatic: Gregory of Tours (died ca 594) mentions their destructive force at the time of Valerian and Gallienus (253–260), when the Alemanni assembled under their "king", whom he calls Chrocus, who "by the advice, it is said, of his wicked mother, and overran the whole of the Gauls, and destroyed from their foundations all the temples which had been built in ancient times. And coming to Clermont he set on fire, overthrew and destroyed that shrine which they call _Vasso Galatae_ in the Gallic tongue," martyring many Christians (_Historia Francorum_ Book I.32–34). Thus 6th-century Gallo-Romans of Gregory's class, surrounded by the ruins of Roman temples and public buildings, attributed the destruction they saw to the plundering raids of the Alemanni.
+83 to 260 CE.]] The Alemanni were continually engaged in conflicts with the Roman Empire in the 3rd and 4th centuries. They launched a major invasion of Gaul and northern Italy in 268, when the Romans were forced to denude much of their German frontier of troops in response to a massive invasion of the Goths from the east. Their raids throughout the three parts of Gaul were traumatic: Gregory of Tours (died ca 594) mentions their destructive force at the time of Valerian and Gallienus (253–260), when the Alemanni assembled under their "king", whom he calls Chrocus, who "by the advice, it is said, of his wicked mother, and overran the whole of the Gauls, and destroyed from their foundations all the temples which had been built in ancient times. And coming to Clermont he set on fire, overthrew and destroyed that shrine which they call _Vasso Galatae_ in the Gallic tongue," martyring many Christians (_Historia Francorum_ Book I.32–34). Thus 6th-century Gallo-Romans of Gregory's class, surrounded by the ruins of Roman temples and public buildings, attributed the destruction they saw to the plundering raids of the Alemanni.
 
 In the early summer of 268, the Emperor Gallienus halted their advance into Italy, but then had to deal with the Goths. When the Gothic campaign ended in Roman victory at the Battle of Naissus in September, Gallienus' successor Claudius Gothicus turned north to deal with the Alemanni, who were swarming over all Italy north of the Po River.
 
@@ -79,8 +77,6 @@ Their most famous battle against Rome took place in Argentoratum (Strasbourg), i
 On January 2, 366, the Alemanni yet again crossed the frozen Rhine in large numbers, to invade the Gallic provinces, this time being defeated by Valentinian (see Battle of Solicinium). In the great mixed invasion of 406, the Alemanni appear to have crossed the Rhine river a final time, conquering and then settling what is today Alsace and a large part of the Swiss Plateau.[18] The crossing is described in Wallace Breem's historical novel _Eagle in the Snow_. The Chronicle of Fredegar gives the account. At _Alba Augusta_ (Alba-la-Romaine) the devastation was so complete, that the Christian bishop retired to Viviers, but in Gregory's account at Mende in Lozère, also deep in the heart of Gaul, bishop Privatus was forced to sacrifice to idols in the very cave where he was later venerated. It is thought this detail may be a generic literary ploy to epitomize the horrors of barbarian violence.
 
 List of battles between Romans and Alemanni
-
-Europe_and_the_Near_East_at_476_AD.png
 
 -   259, Battle of Mediolanum—Emperor Gallienus defeats the Alemanni to rescue Rome
 -   268, Battle of Lake Benacus—Romans under Emperor Claudius II defeat the Alemanni.
@@ -101,7 +97,7 @@ Europe_and_the_Near_East_at_476_AD.png
 
 Subjugation by the Franks
 
-Alamannien_Hochburgund_ca_1000.png The kingdom of Alamannia between Strasbourg and Augsburg lasted until 496, when the Alemanni were conquered by Clovis I at the Battle of Tolbiac. The war of Clovis with the Alemanni forms the setting for the conversion of Clovis, briefly treated by Gregory of Tours. (Book II.31) Subsequently, the Alemanni formed part of the Frankish dominions and were governed by a Frankish duke.
+The kingdom of Alamannia between Strasbourg and Augsburg lasted until 496, when the Alemanni were conquered by Clovis I at the Battle of Tolbiac. The war of Clovis with the Alemanni forms the setting for the conversion of Clovis, briefly treated by Gregory of Tours. (Book II.31) Subsequently, the Alemanni formed part of the Frankish dominions and were governed by a Frankish duke.
 
 In 746, Carloman ended an uprising by summarily executing all Alemannic nobility at the blood court at Cannstatt, and for the following century, Alemannia was ruled by Frankish dukes. Following the treaty of Verdun of 843, Alemannia became a province of the eastern kingdom of Louis the German, the precursor of the Holy Roman Empire. The duchy persisted until 1268.
 
@@ -109,8 +105,6 @@ In 746, Carloman ended an uprising by summarily executing all Alemannic nobility
 Culture
 
 Language
-
-Alemannic-Dialects-Map-English.png
 
 The German spoken today over the range of the former Alemanni is termed Alemannic German, and is recognised among the subgroups of the High German languages. Alemannic runic inscriptions such as those on the Pforzen buckle are among the earliest testimonies of Old High German. The High German consonant shift is thought to have originated around the 5th century either in Alemannia or among the Lombards; before that the dialect spoken by Alemannic tribes was little different from that of other West Germanic peoples.[19]
 
@@ -124,7 +118,7 @@ _Pagi_, usually pairs of _pagi_ combined, formed kingdoms (_regna_) which, it is
 
 Religion
 
-Reiterscheibe_von_Pliezhausen_v2.jpg (6th or 7th century) shows typical iconography of the pagan period. The bracteate depicts the "horse-stabber underhoof" scene, a supine warrior stabbing a horse while it runs over him. The scene is adapted from Roman era gravestones of the region.[24]]] Gutenstein_warrior.jpg, found near Sigmaringen, Baden-Württemberg, is a late testimony of pagan ritual in Alemannia, showing a warrior in ritual wolf costume, holding a ring-spatha.]] The Christianization of the Alemanni took place during Merovingian times (6th to 8th centuries). We know that in the 6th century, the Alemanni were predominantly pagan, and in the 8th century, they were predominantly Christian. The intervening 7th century was a period of genuine syncretism during which Christian symbolism and doctrine gradually grew in influence.
+(6th or 7th century) shows typical iconography of the pagan period. The bracteate depicts the "horse-stabber underhoof" scene, a supine warrior stabbing a horse while it runs over him. The scene is adapted from Roman era gravestones of the region.[24]]] , found near Sigmaringen, Baden-Württemberg, is a late testimony of pagan ritual in Alemannia, showing a warrior in ritual wolf costume, holding a ring-spatha.]] The Christianization of the Alemanni took place during Merovingian times (6th to 8th centuries). We know that in the 6th century, the Alemanni were predominantly pagan, and in the 8th century, they were predominantly Christian. The intervening 7th century was a period of genuine syncretism during which Christian symbolism and doctrine gradually grew in influence.
 
 Some scholars have speculated that members of the Alemannic elite such as king Gibuld due to Visigothic influence may have been converted to Arianism even in the later 5th century.[25]
 

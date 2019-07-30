@@ -11,7 +11,7 @@ Although the set of three fruits was small enough to write a complete list of co
 
 Number of _k_-combinations
 
-Combinations_without_repetition;_5_choose_3.svg The number of _k_-combinations from a given set _S_ of _n_ elements is often denoted in elementary combinatorics texts by C(n, k), or by a variation such as C_(k)^(n), _(n)C_(k), ^(n)C_(k), C_(n, k) or even C_(n)^(k) (the latter form was standard in French, Romanian, Russian, Chinese[4] and Polish texts). The same number however occurs in many other mathematical contexts, where it is denoted by $\tbinom nk$ (often read as "_n_ choose _k_"); notably it occurs as a coefficient in the binomial formula, hence its name BINOMIAL COEFFICIENT. One can define $\tbinom nk$ for all natural numbers _k_ at once by the relation
+The number of _k_-combinations from a given set _S_ of _n_ elements is often denoted in elementary combinatorics texts by C(n, k), or by a variation such as C_(k)^(n), _(n)C_(k), ^(n)C_(k), C_(n, k) or even C_(n)^(k) (the latter form was standard in French, Romanian, Russian, Chinese[4] and Polish texts). The same number however occurs in many other mathematical contexts, where it is denoted by $\tbinom nk$ (often read as "_n_ choose _k_"); notably it occurs as a coefficient in the binomial formula, hence its name BINOMIAL COEFFICIENT. One can define $\tbinom nk$ for all natural numbers _k_ at once by the relation
 
 $$(1 + X)^n = \sum_{k\geq0}\binom{n}{k} X^k,$$
 
@@ -128,7 +128,7 @@ This relationship can be easily proved using a representation known as stars and
 
 ★★★|★★||★★★★★.[12]
 
-The number of such strings is the number of ways to place 10 stars in 13 positions, $\binom{13}{10} = \binom{13}{3} = 286,$ which is the number of 10-multisubsets of a set with 4 elements. Combinations_with_repetition;_5_multichoose_3.svg between 3-subsets of a 7-set (left) and 3-multisets with elements from a 5-set (right).
+The number of such strings is the number of ways to place 10 stars in 13 positions, $\binom{13}{10} = \binom{13}{3} = 286,$ which is the number of 10-multisubsets of a set with 4 elements. between 3-subsets of a 7-set (left) and 3-multisets with elements from a 5-set (right).
 This illustrates that $\textstyle {7 \choose 3} = \left(\!\!{5 \choose 3}\!\!\right)$.]]
 
 As with binomial coefficients, there are several relationships between these multichoose expressions. For example, for n ≥ 1, k ≥ 0,

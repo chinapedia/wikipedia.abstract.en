@@ -1,4 +1,4 @@
-Center_of_Dihedral_group_of_order_8_subgroup_of_S4.svg of Dih₄, the dihedral group of order 8. The center is {0,7}: The row starting with 7 is the transpose of the column starting with 7. The entries 7 are symmetric to the main diagonal. (Only for the identity element is this true in all groups.)]] In abstract algebra, the CENTER of a group, , is the set of elements that commute with every element of . It is denoted , from German _Zentrum,_ meaning _center_. In set-builder notation,
+of Dih₄, the dihedral group of order 8. The center is {0,7}: The row starting with 7 is the transpose of the column starting with 7. The entries 7 are symmetric to the main diagonal. (Only for the identity element is this true in all groups.)]] In abstract algebra, the CENTER of a group, , is the set of elements that commute with every element of . It is denoted , from German _Zentrum,_ meaning _center_. In set-builder notation,
 
     {_z_ ∈ _G_ ∣ ∀_g_ ∈ _G_, _zg_ {{=}} _gz_} }}.
 

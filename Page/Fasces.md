@@ -1,4 +1,4 @@
-Fasces.svg FASCES (, ; a _plurale tantum_, from the Latin word _fascis_, meaning "bundle";[1] ) is a bound bundle of wooden rods, sometimes including an axe with its blade emerging. The fasces had its origin in the Etruscan civilization and was passed on to ancient Rome, where it symbolized a magistrate's power and jurisdiction. The axe originally associated with the symbol, the Labrys (Greek: , __) the double-bitted axe, originally from Crete, is one of the oldest symbols of Greek civilization. To the Romans, it was known as a _bipennis_.[2]
+FASCES (, ; a _plurale tantum_, from the Latin word _fascis_, meaning "bundle";[1] ) is a bound bundle of wooden rods, sometimes including an axe with its blade emerging. The fasces had its origin in the Etruscan civilization and was passed on to ancient Rome, where it symbolized a magistrate's power and jurisdiction. The axe originally associated with the symbol, the Labrys (Greek: , __) the double-bitted axe, originally from Crete, is one of the oldest symbols of Greek civilization. To the Romans, it was known as a _bipennis_.[2]
 
 The image has survived in the modern world as a representation of magisterial or collective power, law and governance. The fasces frequently occurs as a charge in heraldry: it is present on the reverse of the U.S. Mercury dime coin and behind the podium in the United States House of Representatives; and it was the origin of the name of the National Fascist Party in Italy (from which the term _fascism_ is derived).
 
@@ -11,7 +11,7 @@ The fasces is sometimes confused with the related term _fess_, which in French h
 
 Origin and symbolism
 
-Fasces_in_the_Sheldonian_Theatre.jpg at Oxford University]] A few artifacts found showing a thin bundle of rods surrounding a two-headed axe point to a possible Etruscan origin for fasces, but little is known about the Etruscans themselves.[3] Fasces symbolism might be derived via the Etruscans from the eastern Mediterranean, with the labrys, the Anatolian, and Minoan double-headed axe, later incorporated into the praetorial fasces. There is little archaeological evidence for precise claims.[4]
+at Oxford University]] A few artifacts found showing a thin bundle of rods surrounding a two-headed axe point to a possible Etruscan origin for fasces, but little is known about the Etruscans themselves.[3] Fasces symbolism might be derived via the Etruscans from the eastern Mediterranean, with the labrys, the Anatolian, and Minoan double-headed axe, later incorporated into the praetorial fasces. There is little archaeological evidence for precise claims.[4]
 
 By the time of the Roman Republic, the fasces had developed into a thicker bundle of birch rods, sometimes surrounding a single-headed axe and tied together with a red leather ribbon into a cylinder. On certain special occasions, the fasces might be decorated with a laurel wreath.[5]
 
@@ -51,7 +51,7 @@ Image:Armoiries république française.svg|The unofficial but common National Em
 
 United States
 
-National_Guard_Bureau_(insignia).svg insignia]] Since the original founding of the United States in the 18th century, several offices and institutions in the United States have heavily incorporated representations of the _fasces_ into much of their iconography.
+insignia]] Since the original founding of the United States in the 18th century, several offices and institutions in the United States have heavily incorporated representations of the _fasces_ into much of their iconography.
 
 Federal fasces iconography
 

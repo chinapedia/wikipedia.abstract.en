@@ -38,15 +38,13 @@ History
 
 Before 895
 
-Hungarian_warrior.jpg
-
 The Roman Empire conquered the territory west of the Danube between 35 and 9 BC. From 9 BC to the end of the 4th century, Pannonia was part of the Roman Empire, located within part of later Hungary's territory. Around AD 41–54, a 500-strong cavalry unit created the settlement of Aquincum and a Roman legion of 6,000 men was stationed here by AD 89. A civil city grew gradually in the neighbourhood of the military settlement and in AD 106 Aquincum became the focal point of the commercial life of this area and the capital city of the province of Pannonia Inferior. This area now corresponds to the Óbuda district of Budapest, with the Roman ruins now forming part of the modern Aquincum museum.[42] Later came the Huns, a Central Asian tribe who built a powerful empire. After Hunnish rule, the Germanic Ostrogoths, Lombards, and Gepids, and the Avar Khaganate, had a presence in the Carpathian Basin.[43]
 
 In the 9th century, East Francia, the First Bulgarian Empire and Great Moravia ruled the territory of the Carpathian Basin. The freshly unified Hungarians[44] led by Árpád (by tradition a descendant of Attila), settled in the Carpathian Basin starting in 895.[45][46] According to linguistic evidence, they originated from an ancient Uralic-speaking population that formerly inhabited the forested area between the Volga River and the Ural Mountains.[47]
 
 Medieval Hungary 895–1526
 
-Kalandozasok.jpg]]
+]]
 
 As a federation of united tribes, Hungary was established in 895, some 50 years after the division of the Carolingian Empire at the Treaty of Verdun in 843, before the unification of the Anglo-Saxon kingdoms. Initially, the rising Principality of Hungary ("Western Tourkia" in medieval Greek sources)[48] was a state consisting of a semi-nomadic people. It accomplished an enormous transformation into a Christian realm during the 10th century.[49]
 
@@ -54,11 +52,11 @@ This state was well-functioning and the nation's military power allowed the Hung
 
 Age of Árpádian kings
 
-Istvan-ChroniconPictum.jpg, the first King of Hungary, converted the nation to Christianity]]
+, the first King of Hungary, converted the nation to Christianity]]
 
 The year 972 marked the date when the ruling prince () Géza of the Árpád dynasty officially started to integrate Hungary into the Christian Western Europe.[52] His first-born son, Saint Stephen I, became the first King of Hungary after defeating his pagan uncle Koppány, who also claimed the throne. Under Stephen, Hungary was recognized as a Catholic Apostolic Kingdom.[53] Applying to Pope Sylvester II, Stephen received the insignia of royalty (including probably a part of the Holy Crown of Hungary, currently kept in the Hungarian Parliament) from the papacy.
 
-A_Szent_Korona_elölről_2.jpg (_Szent Korona_), one of the key symbols of Hungary]] King_St._Ladislaus.jpg]]
+(_Szent Korona_), one of the key symbols of Hungary]] ]]
 
 By 1006, Stephen consolidated his power, and started sweeping reforms to convert Hungary into a Western feudal state. The country switched to using the Latin language, and until as late as 1844, Latin remained the official language of Hungary. Around this time, Hungary began to become a powerful kingdom.[54] Ladislaus I extended Hungary's frontier in Transylvania and invaded Croatia in 1091.[55][56][57][58] The Croatian campaign culminated in the Battle of Gvozd Mountain in 1097 and a personal union of Croatia and Hungary in 1102, ruled by Coloman i.e. Könyves Kálmán.[59]
 
@@ -72,11 +70,11 @@ As a consequence, after the Mongols retreated, King Béla ordered the constructi
 
 Age of elected kings
 
-Louis's_kingdoms_and_his_vassal_territories.png]]
+]]
 
 The Kingdom of Hungary reached one of its greatest extents during the Árpádian kings, yet royal power was weakened at the end of their rule in 1301. After a destructive period of interregnum (1301–1308), the first Angevin king, Charles I of Hungary – a bilineal descendant of the Árpád dynasty – successfully restored royal power, and defeated oligarch rivals, the so-called "little kings". The second Angevin Hungarian king, Louis the Great (1342–1382), led many successful military campaigns from Lithuania to Southern Italy (Kingdom of Naples), and was also King of Poland from 1370. After King Louis died without a male heir, the country was stabilized only when Sigismund of Luxembourg (1387–1437) succeeded to the throne, who in 1433 also became Holy Roman Emperor. Sigismund was also (in several ways) a bilineal descendant of the Árpád dynasty.
 
-The_wars_of_Matthias_Corvinus_of_Hungary_(1458-1490).png]]
+]]
 
 The first Hungarian Bible translation was completed in 1439. For half a year in 1437, there was an antifeudal and anticlerical peasant revolt in Transylvania, the Budai Nagy Antal Revolt, which was strongly influenced by Hussite ideas.
 
@@ -94,45 +92,45 @@ The resulting degradation of order paved the way for Ottoman pre-eminence. In 15
 
 Ottoman wars 1526–1699
 
-Székely,_Bertalan_-_The_Women_of_Eger_-_Google_Art_Project.jpg, a major victory against the Ottomans]]
+, a major victory against the Ottomans]]
 
 After some 150 years of wars with the Hungarians and other states, the Ottomans gained a decisive victory over the Hungarian army at the Battle of Mohács in 1526, where King Louis II died while fleeing. Amid political chaos, the divided Hungarian nobility elected two kings simultaneously, John Zápolya and Ferdinand I of the Habsburg dynasty. With the conquest of Buda by the Turks in 1541, Hungary was divided into three parts and remained so until the end of the 17th century. The north-western part, termed as Royal Hungary, was annexed by the Habsburgs who ruled as Kings of Hungary. The eastern part of the kingdom became independent as the Principality of Transylvania, under Ottoman (and later Habsburg) suzerainty. The remaining central area, including the capital Buda, was known as the Pashalik of Buda.
 
-GaziKaszimFotoThalerTamas1.jpg in Pécs]]
+in Pécs]]
 
 The vast majority of the seventeen and nineteen thousand Ottoman soldiers in service in the Ottoman fortresses in the territory of Hungary were Orthodox and Muslim Balkan Slavs rather than ethnic Turkish people.[71] Orthodox Southern Slavs were also acting as akinjis and other light troops intended for pillaging in the territory of present-day Hungary.[72] In 1686, the Holy League's army, containing over 74,000 men from various nations, reconquered Buda from the Turks. After some more crushing defeats of the Ottomans in the next few years, the entire Kingdom of Hungary was removed from Ottoman rule by 1718. The last raid into Hungary by the Ottoman vassals Tatars from Crimea took place in 1717.[73] The constrained Habsburg Counter-Reformation efforts in the 17th century reconverted the majority of the kingdom to Catholicism. The ethnic composition of Hungary was fundamentally changed as a consequence of the prolonged warfare with the Turks. A large part of the country became devastated, population growth was stunted, and many smaller settlements perished.[74] The Austrian-Habsburg government settled large groups of Serbs and other Slavs in the depopulated south, and settled Germans (called Danube Swabians) in various areas, but Hungarians were not allowed to settle or re-settle in the south of the Great Plain.[75]
 
 From the 18th century to World War I
 
-Mányoki,_Ádam_-_Portrait_of_Prince_Ferenc_Rákóczi_II_-_Google_Art_Project.jpg, leader of the uprising against Habsburg rule in 1703–11]]
+, leader of the uprising against Habsburg rule in 1703–11]]
 
 Between 1703 and 1711, there was a large-scale uprising led by Francis II Rákóczi, who after the dethronement of the Habsburgs in 1707 at the Diet of Ónod, took power provisionally as the Ruling Prince of Hungary for the wartime period, but refused the Hungarian Crown and the title "King". The uprisings lasted for years. The Hungarian Kuruc army, although taking over most of the country, lost the main battle at Trencsén (1708). Three years later, because of the growing desertion, defeatism and low morale, the Kuruc forces finally surrendered.[76]
 
-SzechenyiIstvan1.jpg offered one year's income to establish the Hungarian Academy of Sciences]]
+offered one year's income to establish the Hungarian Academy of Sciences]]
 
 During the Napoleonic Wars and afterwards, the Hungarian Diet had not convened for decades.[77] In the 1820s, the Emperor was forced to convene the Diet, which marked the beginning of a Reform Period (1825–1848, ). Count István Széchenyi, one of the most prominent statesmen of the country, recognized the urgent need of modernization and his message got through. The Hungarian Parliament was reconvened in 1825 to handle financial needs. A liberal party emerged and focused on providing for the peasantry. Lajos Kossuth – a famous journalist at that time – emerged as leader of the lower gentry in the Parliament. A remarkable upswing started as the nation concentrated its forces on modernization even though the Habsburg monarchs obstructed all important liberal laws relating to civil and political rights and economic reforms. Many reformers (Lajos Kossuth, Mihály Táncsics) were imprisoned by the authorities.
 
-E._Poulton_Portrait_of_Lajos_Kossuth_1860s.jpg, Regent-President during the Hungarian Revolution of 1848]]
+, Regent-President during the Hungarian Revolution of 1848]]
 
 On 15 March 1848, mass demonstrations in Pest and Buda enabled Hungarian reformists to push through a list of 12 demands. Under governor and president Lajos Kossuth and the first Prime Minister, Lajos Batthyány, the House of Habsburg was dethroned. The Habsburg Ruler and his advisors skillfully manipulated the Croatian, Serbian and Romanian peasantry, led by priests and officers firmly loyal to the Habsburgs, and induced them to rebel against the Hungarian government, though the Hungarians were supported by the vast majority of the Slovak, German and Rusyn nationalities and by all the Jews of the kingdom, as well as by a large number of Polish, Austrian and Italian volunteers.[78] In July 1849 the Hungarian Parliament proclaimed and enacted the first laws of ethnic and minority rights in the world.[79] Many members of the nationalities gained the coveted highest positions within the Hungarian Army, like General János Damjanich, an ethnic Serb who became a Hungarian national hero through his command of the 3rd Hungarian Army Corps or Józef Bem, who was Polish and also became a national hero in Hungary. Initially, the Hungarian forces (_Honvédség_) defeated Austrian armies. To counter the successes of the Hungarian revolutionary army, Habsburg Emperor Franz Joseph I asked for help from the "Gendarme of Europe", Czar Nicholas I, whose Russian armies invaded Hungary. This made Artúr Görgey surrender in August 1849. The leader of the Austrian army, Julius Jacob von Haynau, became governor of Hungary for a few months, and ordered the execution of the 13 Martyrs of Arad, leaders of the Hungarian army, and Prime Minister Batthyány in October 1849. Lajos Kossuth escaped into exile. Following the war of 18481849, the whole country was in "passive resistance".
 
-Cisleithania,_Lands_of_the_Crown_of_Saint_Stephen,_Bosnia_and_Herzegovina.svg]]
+]]
 
 Because of external and internal problems, reforms seemed inevitable and major military defeats of Austria forced the Habsburgs to negotiate the Austro-Hungarian Compromise of 1867, by which the dual Monarchy of Austria–Hungary was formed. This Empire had the second largest area in Europe (after the Russian Empire), and it was the third most populous (after Russia and the German Empire). The two realms were governed separately by two parliaments from two capital cities, with a common monarch and common external and military policies. Economically, the empire was a customs union. The old Hungarian Constitution was restored, and Franz Joseph I was crowned as King of Hungary. The era witnessed impressive economic development. The formerly backward Hungarian economy became relatively modern and industrialized by the turn of the 20th century, although agriculture remained dominant until 1890. In 1873, the old capital Buda and Óbuda were officially united with Pest,[80] thus creating the new metropolis of Budapest. Many of the state institutions and the modern administrative system of Hungary were established during this period.
 
 After the Assassination of Archduke Franz Ferdinand in Sarajevo, the Hungarian prime minister István Tisza and his cabinet tried to avoid the outbreak and escalating of a war in Europe, but their diplomatic efforts were unsuccessful. Austria–Hungary drafted 9 million (fighting forces: 7.8 million) soldiers in World War I (over 4 million from the Kingdom of Hungary) on the side of Germany, Bulgaria and Turkey. The troops raised in the Kingdom of Hungary spent little time defending the actual territory of Hungary, with the exceptions of the Brusilov Offensive in June 1916, and a few months later, when the Romanian army made an attack into Transylvania,[81] both of which were repelled. In comparison, of the total army, Hungary's loss ratio was more than any other nations of Austria-Hungary. The Central Powers conquered Serbia. Romania declared war. The Central Powers conquered Southern Romania and the Romanian capital Bucharest. In 1916 Emperor Franz Joseph died, and the new monarch Charles IV sympathized with the pacifists. With great difficulty, the Central powers stopped and repelled the attacks of the Russian Empire.
 
-Szent_Istvan.jpg battleship SMS _Szent István_ in World War I]]
+battleship SMS _Szent István_ in World War I]]
 
 The Eastern front of the Allied (Entente) Powers completely collapsed. The Austro-Hungarian Empire then withdrew from all defeated countries. On the Italian front, the Austro-Hungarian army made no progress against Italy after January 1918. Despite great Eastern successes, Germany suffered complete defeat on the more important Western front. By 1918, the economic situation had deteriorated (strikes in factories were organized by leftist and pacifist movements) and uprisings in the army had become commonplace. In the capital cities, the Austrian and Hungarian leftist liberal movements (the maverick parties) and their leaders supported the separatism of ethnic minorities. Austria-Hungary signed a general armistice in Padua on 3 November 1918.[82] In October 1918, Hungary's union with Austria was dissolved.
 
 Between the World Wars 1918–1941
 
-Trianon_consequences.png, Hungary lost 72% of its territory, its sea ports and 3,425,000 ethnic Hungarians[83][84]]]
+, Hungary lost 72% of its territory, its sea ports and 3,425,000 ethnic Hungarians[83][84]]]
 
 Following the First World War, Hungary underwent a period of profound political upheaval, beginning with the Aster Revolution in 1918, which brought the social-democratic Mihály Károlyi to power as Prime Minister. Károlyi dissolved the union with Austria and disarmed the Hungarian Army, leaving the country without any national defense. The Little Entente, sensing an opportunity, invaded the country from three sides—Romania invaded Transylvania, Czechoslovakia annexed Upper Hungary (today's Slovakia), and a joint Serb-French coalition annexed Vojvodina and other southern regions. In March 1919, communists led by Béla Kun ousted the Károlyi government and proclaimed the Hungarian Soviet Republic (_Tanácsköztársaság_), followed by a thorough Red Terror campaign. Despite some successes on the Czechoslovak front, Kun's forces were ultimately unable to resist the Romanian invasion; by August 1919, Romanian troops occupied Budapest and ousted Kun.
 
-Portraits_de_Miklós_Horthy.jpg, Regent of the Kingdom of Hungary (1920–1944)]]
+, Regent of the Kingdom of Hungary (1920–1944)]]
 
 In November 1919, rightist forces led by former Austro-Hungarian admiral Miklós Horthy entered Budapest; exhausted by the war and its aftermath, the populace accepted Horthy's leadership. In January 1920, parliamentary elections were held and Horthy was proclaimed Regent of the reestablished Kingdom of Hungary, inaugurating the so-called "Horthy era" (_Horthy-kor_). The new government worked quickly to normalize foreign relations while turning a blind eye to a White Terror that swept through the countryside; extrajudicial killings of suspected communists and Jews lasted well into 1920. On June 4 of that year, the Treaty of Trianon established new borders for Hungary. The country lost 71% of its territory and 66% of its antebellum population, as well as many sources of raw materials and its sole port, Fiume. Though the revision of the Treaty quickly rose to the top of the national political agenda, the Horthy government was not willing to resort to military intervention to do so.
 
@@ -142,13 +140,13 @@ Horthy's nationalist agenda reached its apogee in 1938 and 1940, when the Nazis 
 
 World War II 1941–1945
 
-Hungary_1941-44_Administrative_Map.png Hungary formally entered World War II as an Axis Power on 26 June 1941, declaring war on the Soviet Union after unidentified planes bombed Kassa, Munkács, and Rahó. Hungarian troops fought on the Eastern Front for two years. Despite some early successes,[85] the Hungarian government began seeking a secret peace pact with the Allies after the Second Army suffered catastrophic losses at the River Don in January 1943. Learning of the planned defection, German troops occupied Hungary on 19 March 1944 to guarantee Horthy's compliance. In October, as the Soviet front approached and the Hungarian government made further efforts to disengage from the war, German troops ousted Horthy and installed a puppet government under Szálasi's fascist Arrow Cross Party.[86] Szálasi pledged all the country's capabilities in service of the German war machine. By October 1944, the Soviets had reached the river Tisza, and despite some losses, succeeded in encircling and besieging Budapest in December.
+Hungary formally entered World War II as an Axis Power on 26 June 1941, declaring war on the Soviet Union after unidentified planes bombed Kassa, Munkács, and Rahó. Hungarian troops fought on the Eastern Front for two years. Despite some early successes,[85] the Hungarian government began seeking a secret peace pact with the Allies after the Second Army suffered catastrophic losses at the River Don in January 1943. Learning of the planned defection, German troops occupied Hungary on 19 March 1944 to guarantee Horthy's compliance. In October, as the Soviet front approached and the Hungarian government made further efforts to disengage from the war, German troops ousted Horthy and installed a puppet government under Szálasi's fascist Arrow Cross Party.[86] Szálasi pledged all the country's capabilities in service of the German war machine. By October 1944, the Soviets had reached the river Tisza, and despite some losses, succeeded in encircling and besieging Budapest in December.
 
-Bundesarchiv_Bild_101I-680-8285A-08,_Budapest,_Festnahme_von_Juden.jpg women being arrested on Wesselényi Street in Budapest during The Holocaust, ca. 20–22 October 1944]]
+women being arrested on Wesselényi Street in Budapest during The Holocaust, ca. 20–22 October 1944]]
 
 After German occupation, Hungary participated in the Holocaust.[87][88] During the German occupation in May–June 1944, the Arrow Cross and Hungarian police deported nearly 440,000 Jews, mainly to Auschwitz. Nearly all of them were murdered.[89] The Swedish Diplomat Raoul Wallenberg managed to save a considerable number of Hungarian Jews by giving them Swedish passports.[90] Rezső Kasztner, one of the leaders of the Hungarian Aid and Rescue Committee, bribed senior SS officers such as Adolf Eichmann to allow some Jews to escape.[91][92][93] The Horthy government's complicity in the Holocaust remains a point of controversy and contention.
 
-Lanc_hid_-_Budapest_3_Febr_1946_Foto_Takkk_Hungary.jpg and the Buda Castle in ruins after World War II (1946)]]
+and the Buda Castle in ruins after World War II (1946)]]
 
 The war left Hungary devastated, destroying over 60% of the economy and causing significant loss of life. In addition to the over 600,000 Hungarian Jews killed,[94] as many as 280,000[95][96] other Hungarians were raped, murdered and executed or deported for slave labor by Czechoslovaks,[97][98][99][100][101][102] Soviet Red Army troops,[103][104][105] and Yugoslavs.[106]
 
@@ -158,7 +156,7 @@ Communism 1945–1989
 
 Following the defeat of Nazi Germany, Hungary became a satellite state of the Soviet Union. The Soviet leadership selected Mátyás Rákosi to front the Stalinization of the country, and Rákosi _de facto_ ruled Hungary from 1949 to 1956. His government's policies of militarization, industrialization, collectivization, and war compensation led to a severe decline in living standards. In imitation of Stalin's KGB, the Rákosi government established a secret political police, the ÁVH, to enforce the new regime. In the ensuing purges approximately 350,000 officials and intellectuals were imprisoned or executed from 1948 to 1956.[108] Many freethinkers, democrats, and Horthy-era dignitaries were secretly arrested and extrajudicially interned in domestic and foreign Gulags. Some 600,000 Hungarians were deported to Soviet labor camps, where at least 200,000 died.[109]
 
-Szétlőtt_harckocsi_a_Móricz_Zsigmond_körtéren.jpg; Time's Man of the Year for 1956 was the Hungarian Freedom Fighter[110]]]
+; Time's Man of the Year for 1956 was the Hungarian Freedom Fighter[110]]]
 
 After Stalin's death in 1953, the Soviet Union pursued a program of destalinization that was inimical to Rákosi, leading to his deposition. The following political cooling saw the ascent of Imre Nagy to the premiership, and the growing interest of students and intellectuals in political life. Nagy promised market liberalization and political openness, while Rákosi opposed both vigorously. Rákosi eventually managed to discredit Nagy and replace him with the more hard-line Ernő Gerő. Hungary joined the Warsaw Pact in May 1955, as societal dissatisfaction with the regime swelled. Following the firing on peaceful demonstrations by Soviet soldiers and secret police, and rallies throughout the country on 23 October 1956, protesters took to the streets in Budapest, initiating the 1956 Revolution. In an effort to quell the chaos, Nagy returned as premier, promised free elections, and took Hungary out of the Warsaw Pact.
 
@@ -166,7 +164,7 @@ The violence nonetheless continued as revolutionary militias sprung up against t
 
 Kádár era 1956–1988
 
-János_Kádár_1962.jpg, General Secretary of MSZMP, the Hungarian Socialist Workers' Party (1956–1988)]]
+, General Secretary of MSZMP, the Hungarian Socialist Workers' Party (1956–1988)]]
 
 After a second, briefer period of Soviet military occupation, János Kádár, Nagy's former Minister of State, was chosen by the Soviet leadership to head the new government and chair the new ruling Socialist Workers' Party (MSzMP). Kádár quickly normalized the situation. In 1963, the government granted a general amnesty and released the majority of those imprisoned for their active participation in the uprising. Kádár proclaimed a new policy line, according to which the people were no longer compelled to profess loyalty to the party if they tacitly accepted the Socialist regime as a fact of life. In many speeches, he described this as, "Those who are not against us are with us." Kádár introduced new planning priorities in the economy, such as allowing farmers significant plots of private land within the collective farm system (_háztáji gazdálkodás_). The living standard rose as consumer good and food production took precedence over military production, which was reduced to one tenth of pre-revolutionary levels.
 
@@ -174,7 +172,7 @@ In 1968, the New Economic Mechanism (NEM) introduced free-market elements into s
 
 Third Republic 1989–present
 
-Foundation_of_the_Visegrád_Group.tiff signing ceremony in February 1991]]
+signing ceremony in February 1991]]
 
 Hungary's transition from communism to democracy and capitalism (_rendszerváltás_, "regime change") was peaceful and prompted by economic stagnation, domestic political pressure, and changing relations with other Warsaw Pact countries. Although the MSzMP began Round Table Talks with various opposition groups in March 1989, the reburial of Imre Nagy as a revolutionary martyr that June is widely considered the symbolic end of communism in Hungary. Over 100,000 people attended the Budapest ceremony without any significant government interference, and many speakers openly called for Soviet troops to leave the country. Free elections were held in May 1990, and the Hungarian Democratic Forum, a major conservative opposition group, was elected to the head of a coalition government. József Antall became the first democratically elected Prime Minister since World War II.
 
@@ -189,7 +187,7 @@ At the European elections in May 2019, Viktor Orbán’s Fidesz Party secured (y
 
 Geography
 
-Magyar_racka_juh.jpg sheep in the Fertő-Hanság National Park]]
+sheep in the Fertő-Hanság National Park]]
 
 Hungary's geography has traditionally been defined by its two main waterways, the Danube and Tisza rivers. The common tripartite division of the country into three sections—_Dunántúl_ ("beyond the Danube", Transdanubia), _Tiszántúl_ ("beyond the Tisza"), and _Duna-Tisza köze_ ("between the Danube and Tisza")—is a reflection of this. The Danube flows north-south right through the center of contemporary Hungary, and the entire country lies within its drainage basin.
 
@@ -212,7 +210,7 @@ Government and politics
 
 Hungary is a unitary, parliamentary, representative democratic republic. The Hungarian political system operates under a framework reformed in 2012; this constitutional document is the Fundamental Law of Hungary. Amendments generally require a two-thirds majority of parliament; the fundamental principles of the constitution (as expressed in the articles guaranteeing human dignity, the separation of powers, the state structure, and the rule of law) are valid in perpetuity. 199 Members of Parliament (_országgyűlési képviselő_) are elected to the highest organ of state authority, the unicameral _Országgyűlés_ (National Assembly), every four years in a single-round first-past-the-post election with an election threshold of 5%.
 
-Sándor-palota_napsütésben.jpg is the official residence of the President of Hungary]] Parliament_Building,_Budapest,_outside.jpg in the bank of the Danube in Budapest]] The President of the Republic (_köztársasági elnök_) serves as the head of state and is elected by the National Assembly every five years. The president is invested primarily with representative responsibilities and powers: receiving foreign heads of state, formally nominating the Prime Minister at the recommendation of the National Assembly, and serving as Commander-in-chief of the armed forces. Importantly, the president is also invested with veto power, and may send legislation to the 15-member Constitutional Court for review. The third most-significant governmental position in Hungary is the Speaker of the National Assembly, who is elected by the National Assembly and responsible for overseeing the daily sessions of the body.
+is the official residence of the President of Hungary]] in the bank of the Danube in Budapest]] The President of the Republic (_köztársasági elnök_) serves as the head of state and is elected by the National Assembly every five years. The president is invested primarily with representative responsibilities and powers: receiving foreign heads of state, formally nominating the Prime Minister at the recommendation of the National Assembly, and serving as Commander-in-chief of the armed forces. Importantly, the president is also invested with veto power, and may send legislation to the 15-member Constitutional Court for review. The third most-significant governmental position in Hungary is the Speaker of the National Assembly, who is elected by the National Assembly and responsible for overseeing the daily sessions of the body.
 
 The Prime Minister (_miniszterelnök_) is elected by the National Assembly, serving as the head of government and exercising executive power. Traditionally, the Prime Minister is the leader of the largest party in parliament. The Prime Minister selects Cabinet ministers and has the exclusive right to dismiss them, although cabinet nominees must appear before consultative open hearings before one or more parliamentary committees, survive a vote in the National Assembly, and be formally approved by the president. The cabinet reports to parliament.
 
@@ -226,7 +224,7 @@ The democratic character of the Hungarian parliament was reestablished with the 
 
 Law and judicial system
 
-Budapest_2015-június_13-_(15).JPG in Hungary]]
+in Hungary]]
 
 The judicial system of Hungary is a civil law system divided between courts with regular civil and criminal jurisdiction and administrative courts with jurisdiction over litigation between individuals and the public administration. Hungarian law is codified and based on German law and in a wider sense, civil law or Roman law. The court system for civil and criminal jurisdiction consists of local courts (_járásbíróság_), regional appellate courts (_ítélőtábla_), and the supreme court (_Kúria_). Hungary's highest courts are located in Budapest.[133]
 
@@ -236,56 +234,56 @@ Administrative divisions
 
 Hungary is a unitary state nation divided into 19 counties (_megye_). In addition, the capital (_főváros_), Budapest, is an independent entity. The counties and the capital are the 20 NUTS third-level units of Hungary. The states are further subdivided into 174 districts (_járás_) .[135] The districts are further divided into towns and villages, of which 23 are designated towns with county rights (_megyei jogú város_), sometimes known as "urban counties" in English. The local authorities of these towns have extended powers, but these towns belong to the territory of the respective district instead of being independent territorial units. County and district councils and municipalities have different roles and separate responsibilities relating to local government. The role of the counties are basically administrative and focus on strategic development, while preschools, public water utilities, garbage disposal, elderly care and rescue services are administered by the municipalities.
 
-Since 1996, the counties and City of Budapest have been grouped into seven regions for statistical and development purposes. These seven regions constitute NUTS' second-level units of Hungary. They are Central Hungary, Central Transdanubia, Northern Great Plain, Northern Hungary, Southern Transdanubia, Southern Great Plain, and Western Transdanubia. Townships_(districts)_of_Hungary.png (_járás_) of Hungary]]
+Since 1996, the counties and City of Budapest have been grouped into seven regions for statistical and development purposes. These seven regions constitute NUTS' second-level units of Hungary. They are Central Hungary, Central Transdanubia, Northern Great Plain, Northern Hungary, Southern Transdanubia, Southern Great Plain, and Western Transdanubia. (_járás_) of Hungary]]
 
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| County                                                             | Administrative | Population | Region                |
-| _(megye)_                                                          | centre         |            |                       |
-+====================================================================+================+============+=======================+
-| Bacs-kiskun-megye.svg Bács-Kiskun                                  | Kecskemét      | 524,841    | Southern Great Plain  |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| HUN_Baranya_megye_COA.png Baranya                                  | Pécs           | 391,455    | Southern Transdanubia |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| Békés_departemento_blazono.svg Békés                               | Békéscsaba     | 361,802    | Southern Great Plain  |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| Borsod-Abaúj-Zemplén_departemento_blazono.svg Borsod-Abaúj-Zemplén | Miskolc        | 684,793    | Northern Hungary      |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| Coa_Hungary_Town_Budapest_big.svg Capital City of Budapest         | Budapest       | 1,744,665  | Central Hungary       |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| HU_Csongrád_megye_COA.svg Csongrád                                 | Szeged         | 421,827    | Southern Great Plain  |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| HUN_Fejér_megye_COA.png Fejér                                      | Székesfehérvár | 426,120    | Central Transdanubia  |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| HUN_Győr-Moson-Sopron_megye_COA.png Győr-Moson-Sopron              | Győr           | 449,967    | Western Transdanubia  |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| HUN_Hajdú-Bihar_COA.svg Hajdú-Bihar                                | Debrecen       | 565,674    | Northern Great Plain  |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| Coa_Hungary_County_Heves.svg Heves                                 | Eger           | 307,985    | Northern Hungary      |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| HUN_Jász-Nagykun-Szolnok_megye_COA.png Jász-Nagykun-Szolnok        | Szolnok        | 386,752    | Northern Great Plain  |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| HUN_Komárom-Esztergom_megye_COA.png Komárom-Esztergom              | Tatabánya      | 311,411    | Central Transdanubia  |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| Coa_Hungary_County_Nógrád.svg Nógrád                               | Salgótarján    | 201,919    | Northern Hungary      |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| HUN_Pest_megye_COA.png Pest                                        | Érd            | 1,237,561  | Central Hungary       |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| HUN_Somogy_megye_COA.svg Somogy                                    | Kaposvár       | 317,947    | Southern Transdanubia |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| HUN_Szabolcs-Szatmár-Bereg_megye_COA.svg Szabolcs-Szatmár-Bereg    | Nyíregyháza    | 552,000    | Northern Great Plain  |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| HUN_Tolna_megye_COA.png Tolna                                      | Szekszárd      | 231,183    | Southern Transdanubia |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| HUN_Vas_megye_COA.png Vas                                          | Szombathely    | 257,688    | Western Transdanubia  |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| Coa_Hungary_County_Veszprém.svg Veszprém                           | Veszprém       | 353,068    | Central Transdanubia  |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
-| Coa_Hungary_County_Zala_(2010-).svg Zala                           | Zalaegerszeg   | 287,043    | Western Transdanubia  |
-+--------------------------------------------------------------------+----------------+------------+-----------------------+
++--------------------------+----------------+------------+-----------------------+
+| County                   | Administrative | Population | Region                |
+| _(megye)_                | centre         |            |                       |
++==========================+================+============+=======================+
+| Bács-Kiskun              | Kecskemét      | 524,841    | Southern Great Plain  |
++--------------------------+----------------+------------+-----------------------+
+| Baranya                  | Pécs           | 391,455    | Southern Transdanubia |
++--------------------------+----------------+------------+-----------------------+
+| Békés                    | Békéscsaba     | 361,802    | Southern Great Plain  |
++--------------------------+----------------+------------+-----------------------+
+| Borsod-Abaúj-Zemplén     | Miskolc        | 684,793    | Northern Hungary      |
++--------------------------+----------------+------------+-----------------------+
+| Capital City of Budapest | Budapest       | 1,744,665  | Central Hungary       |
++--------------------------+----------------+------------+-----------------------+
+| Csongrád                 | Szeged         | 421,827    | Southern Great Plain  |
++--------------------------+----------------+------------+-----------------------+
+| Fejér                    | Székesfehérvár | 426,120    | Central Transdanubia  |
++--------------------------+----------------+------------+-----------------------+
+| Győr-Moson-Sopron        | Győr           | 449,967    | Western Transdanubia  |
++--------------------------+----------------+------------+-----------------------+
+| Hajdú-Bihar              | Debrecen       | 565,674    | Northern Great Plain  |
++--------------------------+----------------+------------+-----------------------+
+| Heves                    | Eger           | 307,985    | Northern Hungary      |
++--------------------------+----------------+------------+-----------------------+
+| Jász-Nagykun-Szolnok     | Szolnok        | 386,752    | Northern Great Plain  |
++--------------------------+----------------+------------+-----------------------+
+| Komárom-Esztergom        | Tatabánya      | 311,411    | Central Transdanubia  |
++--------------------------+----------------+------------+-----------------------+
+| Nógrád                   | Salgótarján    | 201,919    | Northern Hungary      |
++--------------------------+----------------+------------+-----------------------+
+| Pest                     | Érd            | 1,237,561  | Central Hungary       |
++--------------------------+----------------+------------+-----------------------+
+| Somogy                   | Kaposvár       | 317,947    | Southern Transdanubia |
++--------------------------+----------------+------------+-----------------------+
+| Szabolcs-Szatmár-Bereg   | Nyíregyháza    | 552,000    | Northern Great Plain  |
++--------------------------+----------------+------------+-----------------------+
+| Tolna                    | Szekszárd      | 231,183    | Southern Transdanubia |
++--------------------------+----------------+------------+-----------------------+
+| Vas                      | Szombathely    | 257,688    | Western Transdanubia  |
++--------------------------+----------------+------------+-----------------------+
+| Veszprém                 | Veszprém       | 353,068    | Central Transdanubia  |
++--------------------------+----------------+------------+-----------------------+
+| Zala                     | Zalaegerszeg   | 287,043    | Western Transdanubia  |
++--------------------------+----------------+------------+-----------------------+
 
 Foreign relations
 
-Necasmeeting.jpg leaders, plus Germany and France in 2013]] BIMUN_2012_opening_1.jpg conference in the assembly hall of House of Magnates in the Hungarian Parliament]]
+leaders, plus Germany and France in 2013]] conference in the assembly hall of House of Magnates in the Hungarian Parliament]]
 
 Hungary wields considerable influence in Central and Eastern Europe and is a middle power in international affairs.[136][137] The foreign policy of Hungary is based on four basic commitments: to Atlantic co-operation, to European integration, to international development and to international law. The Hungarian economy is fairly open and relies strongly on international trade.
 
@@ -302,7 +300,6 @@ Military
 The 2016 Global Peace Index ranked Hungary 19th out of 163 countries. The President holds the title of commander-in-chief of the nation's armed forces. The Ministry of Defence jointly with Chief of staff administers the armed forces, including the Hungarian Ground Force and the Hungarian Air Force. Since 2007, the Hungarian Armed Forces is under a unified command structure. The Ministry of Defence maintains the political and civil control over the army. A subordinate Joint Forces Command is coordinating and commanding the HDF corps. In 2016, the armed forces had 31,080 personnel on active duty, the operative reserve brought the total number of troops to fifty thousand. In 2017, military spending will be $1.21 billion, about 0.94% of the country's GDP, well below the NATO target of 2%. In 2012, the government adopted a resolution in which it pledged to increase defence spending to 1.4% of GDP by 2022.[142]
 
 +-----------------------------------+-----------------------------------------+
-| Hunspec.jpg                       | JAS_39_pair_HuAF_Kecskemét_2007.JPG     |
 | Hungarian Ground Force            | Hungarian Air Force                     |
 | HDF 34th Special Forces Battalion | JAS 39 Gripen multirole combat aircraft |
 +-----------------------------------+-----------------------------------------+
@@ -318,11 +315,11 @@ During the 18th and 19th century, Hungarian Hussars rose to international fame a
 
 Economy
 
-EU_Single_Market.svg's internal market with 508 million consumers and part of Schengen Area]] Hungary_Export_Treemap.jpg
+'s internal market with 508 million consumers and part of Schengen Area]]
 
 Hungary is an OECD high-income mixed economy with very high human development index and skilled labour force with the 16th lowest income inequality in the world, furthermore it is the 15th most complex economy according to the Economic Complexity Index.[146] The Hungarian is the 57th-largest economy in the world (out of 188 countries measured by IMF) with $265.037 billion output,[147] and ranks 49th in the world in terms of GDP per capita measured by purchasing power parity. Hungary is an export-oriented market economy with a heavy emphasis on foreign trade, thus the country is the 36th largest export economy in the world. The country has more than $100 billion export in 2015 with high, $9.003 billion trade surplus, of which 79% went to the EU and 21% was extra-EU trade.[148] Hungary has a more than 80% privately owned economy with 39,1% overall taxation, which provides the basis for the country's welfare economy. On the expenditure side, household consumption is the main component of GDP and accounts for 50 percent of its total use, followed by gross fixed capital formation with 22 percent and government expenditure with 20 percent.[149] Hungary continues to be one of the leading nations for attracting foreign direct investment in Central and Eastern Europe, the inward FDI in the country was $119.8 billion in 2015, while Hungary invests more than $50 billion abroad.[150] , the key trading partners of Hungary were Germany, Austria, Romania, Slovakia, France, Italy, Poland and Czech Republic.[151] Major industries include food processing, pharmaceuticals, motor vehicles, information technology, chemicals, metallurgy, machinery, electrical goods, and tourism (in 2014 Hungary welcomed 12.1 million international tourists).[152] Hungary is the largest electronics producer in Central and Eastern Europe. Electronics manufacturing and research are among the main drivers of innovation and economic growth in the country. In the past 20 years Hungary has also grown into a major center for mobile technology, information security, and related hardware research.[153] The employment rate in the economy was 68.3% in 2017,[154] the employment structure shows the characteristics of post-industrial economies, 63.2% of employed workforce work in service sector, the industry contributed by 29.7%, while agriculture with 7.1%. Unemployment rate was 4.1% in 2017 September,[155] down from 11% during the financial crisis of 2007–08. Hungary is part of the European single market which represents more than 508 million consumers. Several domestic commercial policies are determined by agreements among European Union members and by EU legislation.
 
-Széchenyi_Chain_Bridge_in_Budapest_at_night.jpg is a leading R&D and financial center in Central and Eastern Europe]]
+is a leading R&D and financial center in Central and Eastern Europe]]
 
 Large Hungarian companies are included in the BUX, the Hungarian stock market index listed on Budapest Stock Exchange. Well-known companies include the Fortune Global 500 firm MOL Group, the OTP Bank, Gedeon Richter Plc., Magyar Telekom, CIG Pannonia, FHB Bank, Zwack Unicum and more.[156] Besides this Hungary has a large portion of specialised small and medium enterprise, for example a significant number of automotive suppliers and technology start ups among others.[157]
 
@@ -332,7 +329,7 @@ Hungary maintains its own currency, the Hungarian forint (HUF), although the eco
 
 Science and technology
 
-Szentgyorgyi_Albert_es_a_c_vitamin_keplete_1937_okt_31_Pesti_Naplo.jpg a Nobel Laureate in Medicine for discovery of Vitamin C. Nobel Prize has been awarded to 13 Hungarian laureates.]] Laszlo_Lovasz_mg_1858.jpg, he was awarded the Wolf Prize and the Knuth Prize in 1999, the Kyoto Prize in 2010, he is the current president of the Hungarian Academy of Sciences. He previously served as the president of International Mathematical Union.]]
+a Nobel Laureate in Medicine for discovery of Vitamin C. Nobel Prize has been awarded to 13 Hungarian laureates.]] , he was awarded the Wolf Prize and the Knuth Prize in 1999, the Kyoto Prize in 2010, he is the current president of the Hungarian Academy of Sciences. He previously served as the president of International Mathematical Union.]]
 
 Hungary's achievements in science and technology have been significant, and research and development efforts form an integral part of the country's economy. Hungary spent 1.4% of its gross domestic product (GDP) on civil research and development in 2015, which is the 25th highest ratio in the world.[166] Hungary ranks 32nd among the most innovative countries in the Bloomberg Innovation Index, standing before Hong Kong, Iceland or Malta.[167] The Global Innovation Index places Hungary 33rd among the countries of the world in 2016.[168] In 2014, Hungary counted 2,651 full-time equivalent researchers per million inhabitants, steadily increasing from 2,131 in 2010 and compares with 3,984 in the US or 4,380 in Germany.[169] Hungary's high technology industry has benefited from both the country's skilled workforce and the strong presence of foreign high-tech firms and research centres. Hungary also has one of the highest rates of filed patents, the sixth highest ratio of high-tech and medium high-tech output in the total industrial output, the 12th highest research FDI inflow, placed 14th in research talent in business enterprise and has the 17th best overall innovation efficiency ratio in the world.[170]
 
@@ -342,7 +339,7 @@ Scientific research in the country is supported partly by industry and partly by
 
 Transport
 
-Esztergom.desiro.JPG on Hungarian State Railways network, which is one of the densest in the world]] Hungary has a highly developed road, railway, air and water transport system. Budapest, the capital, serves as an important hub for the Hungarian railway system (_MÁV_). The capital is served by three large train stations called _Keleti_ (Eastern), _Nyugati_ (Western), and _Déli_ (Southern) _pályaudvar_s. Szolnok is the most important railway hub outside Budapest, while Tiszai Railway Station in Miskolc and the main stations of Szombathely, Győr, Szeged, and Székesfehérvár are also key to the network.
+on Hungarian State Railways network, which is one of the densest in the world]] Hungary has a highly developed road, railway, air and water transport system. Budapest, the capital, serves as an important hub for the Hungarian railway system (_MÁV_). The capital is served by three large train stations called _Keleti_ (Eastern), _Nyugati_ (Western), and _Déli_ (Southern) _pályaudvar_s. Szolnok is the most important railway hub outside Budapest, while Tiszai Railway Station in Miskolc and the main stations of Szombathely, Győr, Szeged, and Székesfehérvár are also key to the network.
 
 Budapest, Debrecen, Miskolc, and Szeged have tram networks. The Budapest Metro is the second-oldest underground metro system in the world; its Line 1 dates from 1896. The system consists of four lines. A commuter rail system, _HÉV_, operates in the Budapest metropolitan area. Hungary has a total length of approximately motorways (). Motorway sections are being added to the existing network, which already connects many major economically important cities to the capital. The most important port is Budapest. Other important ones include Dunaújváros and Baja.
 
@@ -353,44 +350,42 @@ Demographics
 
 Hungary's population was 9,937,628 according to the 2011 census, making it the fifth most populous country in Central and Eastern Europe and medium-sized member state of the European Union. Population density stands at 107 inhabitants per square kilometre, which is about two times higher than the world average. More than one quarter of the population lived in the Budapest metropolitan area, 6,903,858 people (69.5%) in cities and towns overall.[175]
 
-Hungarypop.svg of Hungary in 2017]] Like most other European countries, Hungary is experiencing sub-replacement fertility; its estimated total fertility rate of 1.43 children per woman is well below the replacement rate of 2.1,[176] albeit higher than its nadir of 1.28 in 1999,[177] and remains considerably below the high of 5.59 children born per woman in 1884.[178] As a result, its population has gradually declining and rapidly aging. In 2011, the conservative government began a program to increase the birth rate with a focus on ethnic Magyars by reinstating 3 year maternity leave as well as boosting part-time jobs. The fertility rate has gradually increased from 1.27 children born/woman in 2011.[179] The natural decrease in the first 10 months of 2016 was only 25,828 which was 8,162 less than the corresponding period in 2015.[180] In 2015, 47.9% of births were to unmarried women.[181] Hungary has one of the oldest populations in the world, with the average age of 42.7 years.[182] Life expectancy was 71.96 years for men and 79.62 years for women in 2015,[183] growing continuously since the fall of Communism.[184]
+of Hungary in 2017]] Like most other European countries, Hungary is experiencing sub-replacement fertility; its estimated total fertility rate of 1.43 children per woman is well below the replacement rate of 2.1,[176] albeit higher than its nadir of 1.28 in 1999,[177] and remains considerably below the high of 5.59 children born per woman in 1884.[178] As a result, its population has gradually declining and rapidly aging. In 2011, the conservative government began a program to increase the birth rate with a focus on ethnic Magyars by reinstating 3 year maternity leave as well as boosting part-time jobs. The fertility rate has gradually increased from 1.27 children born/woman in 2011.[179] The natural decrease in the first 10 months of 2016 was only 25,828 which was 8,162 less than the corresponding period in 2015.[180] In 2015, 47.9% of births were to unmarried women.[181] Hungary has one of the oldest populations in the world, with the average age of 42.7 years.[182] Life expectancy was 71.96 years for men and 79.62 years for women in 2015,[183] growing continuously since the fall of Communism.[184]
 
 Hungary recognizes two sizable minority groups, designated as "national minorities" because their ancestors have lived in their respective regions for centuries in Hungary: German community of about 130,000 that lives throughout the country, and a Romani minority numerous around 300,000 that mainly resides in the northern part of the country. Some studies indicate a considerably larger number of Romani in Hungary (876,000 people – ca. 9% of the population.).[185][186] According to the 2011 census, there were 8,314,029 (83.7%) ethnic Hungarians, 308,957 (3.1%) Romani, 131,951 (1.3%) Germans, 29,647 (0.3%) Slovaks, 26,345 (0.3%) Romanians, and 23,561 (0.2%) Croats in Hungary; 1,455,883 people (14.7% of the total population) did not declare their ethnicity. Thus, Hungarians made up more than 90% of people who declared their ethnicity.[187] In Hungary, people can declare more than one ethnicity, so the sum of ethnicities is higher than the total population.[188]
 
 Today approximately 5 million Hungarians live outside Hungary.
 
-+----------------------------------------------------------------------------+
-|                                                                            |
-+============================================================================+
-| rowspan=23 width:150 style="text-align:center;"|Budapest_Chain_Bridge1.jpg |
-| Budapest                                                                   |
-+----------------------------------------------------------------------------+
-| 1                                                                          |
-+----------------------------------------------------------------------------+
-| 2                                                                          |
-+----------------------------------------------------------------------------+
-| 3                                                                          |
-+----------------------------------------------------------------------------+
-| 4                                                                          |
-+----------------------------------------------------------------------------+
-| 5                                                                          |
-+----------------------------------------------------------------------------+
-| 6                                                                          |
-+----------------------------------------------------------------------------+
-| 7                                                                          |
-+----------------------------------------------------------------------------+
-| 8                                                                          |
-+----------------------------------------------------------------------------+
-| 9                                                                          |
-+----------------------------------------------------------------------------+
-| 10                                                                         |
-+----------------------------------------------------------------------------+
-|                                                                            |
-+----------------------------------------------------------------------------+
++--------------------------------------------------+
+|                                                  |
++==================================================+
+| rowspan=23 width:150 style="text-align:center;"| |
+| Budapest                                         |
++--------------------------------------------------+
+| 1                                                |
++--------------------------------------------------+
+| 2                                                |
++--------------------------------------------------+
+| 3                                                |
++--------------------------------------------------+
+| 4                                                |
++--------------------------------------------------+
+| 5                                                |
++--------------------------------------------------+
+| 6                                                |
++--------------------------------------------------+
+| 7                                                |
++--------------------------------------------------+
+| 8                                                |
++--------------------------------------------------+
+| 9                                                |
++--------------------------------------------------+
+| 10                                               |
++--------------------------------------------------+
+|                                                  |
++--------------------------------------------------+
 
 Languages
-
-Dist_of_hu_lang_europe.svg
 
 Hungarian is the official and predominant spoken language in Hungary. Hungarian is the 13th most widely spoken first language in Europe with around 13 million native speakers and it is one of 24 official and working languages of the European Union.[189] Outside Hungary it is also spoken by communities of Hungarian people in neighbouring countries and by Hungarian diaspora communities worldwide. According to the 2011 census, 9,896,333 people (99.6%) speak Hungarian in Hungary, of whom 9,827,875 people (99%) speak it as a first language, while 68,458 people (0.7%) speak it as a second language.[190] English (1,589,180 speakers, 16.0%), and German (1,111,997 speakers, 11.2%) are the most widely spoken foreign languages, while there are several recognized minority languages in Hungary (Armenian, Bulgarian, Croatian, German, Greek, Romanian, Romani, Rusyn, Serbian, Slovak, Slovenian, and Ukrainian).[191]
 
@@ -398,7 +393,7 @@ Hungarian (Magyar) is a member of the Uralic language family, unrelated to any n
 
 Religion
 
-Esztergom.bazilika.lights.jpg, the largest Catholic Church in Hungary]] Debreceni_református_nagytemplom.jpg, a symbol of the Hungarian Reformed Church]]
+, the largest Catholic Church in Hungary]] , a symbol of the Hungarian Reformed Church]]
 
 Hungary is a historically Christian country. Hungarian historiography identifies the foundation of the Hungarian state with Stephen I's baptism and coronation with the Holy Crown in A.D. 1000. Stephen promulgated Roman Catholicism as the state religion, and his successors were traditionally known as the Apostolic Kings. The Catholic Church in Hungary remained strong through the centuries, and the Archbishop of Esztergom was granted extraordinary temporal privileges as prince-primate (_hercegprímás_) of Hungary. Contemporary Hungary, however, has no official religion. While the constitution "recognizes Christianity's nation-building role",[192] freedom of religion is a fundamental right.
 
@@ -414,7 +409,7 @@ Education
 
 Education in Hungary is predominantly public, run by the Ministry of Education. Preschool-kindergarten education is compulsory and provided for all children between three and six years old, after which school attendance is also compulsory until the age of sixteen.[196] Primary education usually lasts for eight years. Secondary education includes three traditional types of schools focused on different academic levels: the Gymnasium enrolls the most gifted children and prepares students for university studies; the secondary vocational schools for intermediate students lasts four years and the technical school prepares pupils for vocational education and the world of work. The system is partly flexible and bridges exist, graduates from a vocational school can achieve a two years program to have access to vocational higher education for instance.[197] The Trends in International Mathematics and Science Study (TIMSS) rated 13–14-year-old pupils in Hungary among the bests in the world for maths and science.
 
-Budapesti_Műszaki_Egyetem_K_épület.jpg, it is the oldest Institute of technology in the world, founded in 1782]] Iskola-Lotz3.JPG, the first public business school in the world, founded in 1857]]
+, it is the oldest Institute of technology in the world, founded in 1782]] , the first public business school in the world, founded in 1857]]
 
 Most of the Hungarian universities are public institutions, and students traditionally study without fee payment. The general requirement for university is the Matura. The Hungarian public higher education system includes universities and other higher education institutes, that provide both education curricula and related degrees up to doctoral degree and also contribute to research activities. Health insurance for students is free until the end of their studies. English and German language is important in Hungarian higher education, there are a number of degree programs that are taught in these languages, which attracts thousands of exchange students every year. Hungary's higher education and training has been ranked 44 out of 148 countries in the Global Competitiveness Report 2014.[198]
 
@@ -439,17 +434,17 @@ Culture
 
 Architecture
 
-Esterházy-kastély_(4051._számú_műemlék)_2.jpg, the "Hungarian Versailles" in Fertőd, Győr-Moson-Sopron County]]
+, the "Hungarian Versailles" in Fertőd, Győr-Moson-Sopron County]]
 
 Hungary is home to the largest synagogue in Europe (Great Synagogue), built in 1859 in Moorish Revival style with a capacity of 3,000 people, the largest medicinal bath in Europe (Széchenyi Medicinal Bath), completed in 1913 in Modern Renaissance Style and located in the Budapest city park, the biggest building in Hungary with its length (the Parliament building), one of the largest basilicas in Europe (Esztergom Basilica), the second largest territorial abbey in the world (Pannonhalma Archabbey), and the largest early Christian necropolis outside Italy (Pécs).
 
-Apátsági_templom_(8941._számú_műemlék)_7.jpg-style St. George's Abbey in Ják, Vas County]]
+-style St. George's Abbey in Ják, Vas County]]
 
 Notable architectural styles in Hungary include Historicism and Art Nouveau, or rather several variants of Art Nouveau. In contrast to Historicism, Hungarian Art Nouveau is based on the national architectural characteristics. Taking the eastern origins of the Hungarians into account, Ödön Lechner (1845–1914), the most important figure in Hungarian Art Nouveau, was initially inspired by Indian and Syrian architecture, and later by traditional Hungarian decorative designs. In this way, he created an original synthesis of architectural styles. By applying them to three-dimensional architectural elements, he produced a version of Art Nouveau that was specific to Hungary.
 
 Turning away from the style of Lechner, yet taking inspiration from his approach, the group of "Young People" (_Fiatalok_), which included Károly Kós and Dezsö Zrumeczky, were to use the characteristic structures and forms of traditional Hungarian architecture to achieve the same end.
 
-Museum_of_Applied_Arts_(Budapest).jpg, an Art Nouveau building designed by Ödön Lechner]]
+, an Art Nouveau building designed by Ödön Lechner]]
 
 Besides the two principal styles, Budapest also displays local versions of trends originating from other European countries. The Sezession from Vienna, the German Jugendstil, Art Nouveau from Belgium and France, and the influence of English and Finnish architecture are all reflected in the buildings constructed at the turn of the 20th century. Béla Lajta initially adopted Lechner's style, subsequently drawing his inspiration from English and Finnish trends; after developing an interest in the Egyptian style, he finally arrived at modern architecture. Aladár Árkay took almost the same route. István Medgyaszay developed his own style, which differed from Lechner's, using stylised traditional motifs to create decorative designs in concrete. In the sphere of applied arts, those chiefly responsible for promoting the spread of Art Nouveau were the School and Museum of Decorative Arts, which opened in 1896.
 
@@ -457,9 +452,9 @@ Foreigners have unexpectedly "discovered" that a significantly large portion of 
 
 Music
 
-Hungarian_State_Opera_House(PDXdj).jpg on Andrássy út (UNESCO World Heritage Site)]] Hungarian music consists mainly of traditional Hungarian folk music and music by prominent composers such as Liszt and Bartók, considered to be among the greatest Hungarian composers. Other renowned composers are Dohnányi, Franz Schmidt, Zoltán Kodály, Gabriel von Wayditch, Rudolf Wagner-Régeny, László Lajtha, Franz Lehár, Imre Kálmán, Sándor Veress and Rózsa. Hungarian traditional music tends to have a strong dactylic rhythm, as the language is invariably stressed on the first syllable of each word.
+on Andrássy út (UNESCO World Heritage Site)]] Hungarian music consists mainly of traditional Hungarian folk music and music by prominent composers such as Liszt and Bartók, considered to be among the greatest Hungarian composers. Other renowned composers are Dohnányi, Franz Schmidt, Zoltán Kodály, Gabriel von Wayditch, Rudolf Wagner-Régeny, László Lajtha, Franz Lehár, Imre Kálmán, Sándor Veress and Rózsa. Hungarian traditional music tends to have a strong dactylic rhythm, as the language is invariably stressed on the first syllable of each word.
 
-Hungary has renowned composers of contemporary classical music, György Ligeti, György Kurtág, Péter Eötvös, Zoltán Kodály and Zoltán Jeney among them. One of the greatest Hungarian composers, Béla Bartók, was also among the most significant musicians of the 20th century. His music was invigorated by the themes, modes, and rhythmic patterns of the Hungarian and neighboring folk music traditions he studied, which he synthesized with influences from his contemporaries into his own distinctive style.[220] Liszt_1858.jpg, one of the greatest pianists of all time; well-known composer and conductor]] Hungary has made many contributions to the fields of folk, popular and classical music. Hungarian folk music is a prominent part of the national identity and continues to play a major part in Hungarian music. Hungarian folk music has been significant in former country parts that belong – since the 1920 Treaty of Trianon – to neighbouring countries such as Romania, Slovakia, Poland and especially in southern Slovakia and Transylvania; both regions have significant numbers of Hungarians. After the establishment of a music academy led by Ferenc Erkel and Franz Liszt Hungary produced an important number of art musicians:
+Hungary has renowned composers of contemporary classical music, György Ligeti, György Kurtág, Péter Eötvös, Zoltán Kodály and Zoltán Jeney among them. One of the greatest Hungarian composers, Béla Bartók, was also among the most significant musicians of the 20th century. His music was invigorated by the themes, modes, and rhythmic patterns of the Hungarian and neighboring folk music traditions he studied, which he synthesized with influences from his contemporaries into his own distinctive style.[220] , one of the greatest pianists of all time; well-known composer and conductor]] Hungary has made many contributions to the fields of folk, popular and classical music. Hungarian folk music is a prominent part of the national identity and continues to play a major part in Hungarian music. Hungarian folk music has been significant in former country parts that belong – since the 1920 Treaty of Trianon – to neighbouring countries such as Romania, Slovakia, Poland and especially in southern Slovakia and Transylvania; both regions have significant numbers of Hungarians. After the establishment of a music academy led by Ferenc Erkel and Franz Liszt Hungary produced an important number of art musicians:
 
 -   Pianists: Ernő von Dohnányi, Ervin Nyiregyházi, Andor Földes, Tamás Vásáry, György Sándor, Géza Anda, Annie Fischer, György Cziffra, Edward Kilényi, Bálint Vázsonyi, András Schiff, Zoltán Kocsis, Dezső Ránki, Jenő Jandó and others.
 -   Violists: Joseph Joachim, Leopold Auer, Jenő Hubay, Jelly d'Arányi, Joseph Szigeti, Sándor Végh, Emil Telmanyi, Ede Zathurecky, Zsigmondy, Franz von Vecsey, Zoltán Székely, Tibor Varga and newcomers Antal Szalai, Vilmos Szabadi, Kristóf Baráti (b. 79) and others.
@@ -467,7 +462,7 @@ Hungary has renowned composers of contemporary classical music, György Ligeti, 
 -   Conductors: Eugene Ormandy, George Szell, Antal Doráti, János Ferencsik, Fritz Reiner, sir Georg Solti, István Kertész, Ferenc Fricsay, Zoltán Rozsnyai, Sándor Végh, Árpád Joó, Ádám Fischer, Iván Fischer, Péter Eötvös, Zoltán Kocsis, Tamás Vásáry, Gilbert Varga and others
 -   String Quartets: Budapest Quartet, Hungarian Quartet, Végh Quartet, Takács Quartet, Kodály Quartet, Éder Quartet, Festetics Quartet,
 
-Bartók_Béla_1927.jpg, an influential composer from the early 20th century; one of the founders of ethnomusicology]] Broughton claims that Hungary's "infectious sound has been surprisingly influential on neighboring countries (thanks perhaps to the common Austro-Hungarian history) and it's not uncommon to hear Hungarian-sounding tunes in Romania, Slovakia and Poland".[221] It is also strong in the Szabolcs-Szatmár area and in the southwest part of Transdanubia, near the border with Croatia. The Busójárás carnival in Mohács is a major Hungarian folk music event, formerly featuring the long-established and well-regarded Bogyiszló orchestra.[222]
+, an influential composer from the early 20th century; one of the founders of ethnomusicology]] Broughton claims that Hungary's "infectious sound has been surprisingly influential on neighboring countries (thanks perhaps to the common Austro-Hungarian history) and it's not uncommon to hear Hungarian-sounding tunes in Romania, Slovakia and Poland".[221] It is also strong in the Szabolcs-Szatmár area and in the southwest part of Transdanubia, near the border with Croatia. The Busójárás carnival in Mohács is a major Hungarian folk music event, formerly featuring the long-established and well-regarded Bogyiszló orchestra.[222]
 
 Hungarian classical music has long been an "experiment, made from Hungarian antecedents and on Hungarian soil, to create a conscious musical culture [using the] musical world of the folk song".[223] Although the Hungarian upper class has long had cultural and political connections with the rest of Europe, leading to an influx of European musical ideas, the rural peasants maintained their own traditions such that by the end of the 19th century Hungarian composers could draw on rural peasant music to (re)create a Hungarian classical style.[224] For example, Bartók collected folk songs from across Central and Eastern Europe, including Romania and Slovakia, while Kodály was more interested in creating a distinctively Hungarian musical style.
 
@@ -475,13 +470,13 @@ During the era of communist rule in Hungary (1944–1989), a Song Committee scou
 
 Literature
 
-Szekely_Hungarian_Rovas_alphabet_Szekely_magyar_rovas_ABC.svg; the country switched to using the Latin alphabet under king Saint Stephen (reign: 1000–1038)]] In the earliest times, Hungarian language was written in a runic-like script (although it was not used for literature purposes in the modern interpretation). The country switched to the Latin alphabet after being Christianized under the reign of Stephen I of Hungary (1000–1038).
+; the country switched to using the Latin alphabet under king Saint Stephen (reign: 1000–1038)]] In the earliest times, Hungarian language was written in a runic-like script (although it was not used for literature purposes in the modern interpretation). The country switched to the Latin alphabet after being Christianized under the reign of Stephen I of Hungary (1000–1038).
 The oldest remained written record in Hungarian language is a fragment in the Establishing charter of the abbey of Tihany (1055) which contains several Hungarian terms, among them the words _feheruuaru rea meneh hodu utu rea_, "up the military road to Fehérvár" The rest of the document was written in Latin.
-Ohlm_original.jpg (1190s)]] The oldest remaining complete text in Hungarian language is the Funeral Sermon and Prayer _(Halotti beszéd és könyörgés)_ (1192–1195), a translation of a Latin sermon.
+(1190s)]] The oldest remaining complete text in Hungarian language is the Funeral Sermon and Prayer _(Halotti beszéd és könyörgés)_ (1192–1195), a translation of a Latin sermon.
 The oldest remaining poem in Hungarian is the Old Hungarian Laments of Mary _(Ómagyar Mária-siralom)_, also a (not very strict) translation from Latin, from the 13th century. It is also the oldest surviving Uralic poem.
-Among the first chronicles about Hungarian history were Gesta Hungarorum ("Deeds of the Hungarians") by the unknown author usually called _Anonymus_, and Gesta Hunnorum et Hungarorum ("Deeds of the Huns and the Hungarians") by Simon Kézai. Both are in Latin. These chronicles mix history with legends, so historically they are not always authentic. Another chronicle is the _Képes krónika_ (Illustrated Chronicle), which was written for Louis the Great. Képes_Krónika_1360.jpg, a medieval illustrated chronicle from the 14th century]] Renaissance literature flourished under the reign of King Matthias (1458–1490). Janus Pannonius, although he wrote in Latin, counts as one of the most important persons in Hungarian literature, being the only significant Hungarian Humanist poet of the period. The first printing house was also founded during Matthias' reign, by András Hess, in Buda. The first book printed in Hungary was the Chronica Hungarorum. The most important poets of the period was Bálint Balassi (1554–1594) and Miklós Zrínyi (1620–1664).
+Among the first chronicles about Hungarian history were Gesta Hungarorum ("Deeds of the Hungarians") by the unknown author usually called _Anonymus_, and Gesta Hunnorum et Hungarorum ("Deeds of the Huns and the Hungarians") by Simon Kézai. Both are in Latin. These chronicles mix history with legends, so historically they are not always authentic. Another chronicle is the _Képes krónika_ (Illustrated Chronicle), which was written for Louis the Great. , a medieval illustrated chronicle from the 14th century]] Renaissance literature flourished under the reign of King Matthias (1458–1490). Janus Pannonius, although he wrote in Latin, counts as one of the most important persons in Hungarian literature, being the only significant Hungarian Humanist poet of the period. The first printing house was also founded during Matthias' reign, by András Hess, in Buda. The first book printed in Hungary was the Chronica Hungarorum. The most important poets of the period was Bálint Balassi (1554–1594) and Miklós Zrínyi (1620–1664).
 
-Balassi's poetry shows Mediaeval influences, his poems can be divided into three sections: love poems, war poems and religious poems. Zrínyi's most significant work, the epic _Szigeti veszedelem_ ("Peril of Sziget", written in 1648/49) is written in a fashion similar to the _Iliad_, and recounts the heroic Battle of Szigetvár, where his great-grandfather died while defending the castle of Szigetvár. Among the religious literary works the most important is the Bible translation by Gáspár Károli (The second Hungarian Bible translation in the history), the Protestant pastor of Gönc, in 1590. The translation is called the _Bible of Vizsoly_, after the town where it was first published. (See Bible translations into Hungarian for more details.) Marai2.jpg, Hungarian writer and journalist]]
+Balassi's poetry shows Mediaeval influences, his poems can be divided into three sections: love poems, war poems and religious poems. Zrínyi's most significant work, the epic _Szigeti veszedelem_ ("Peril of Sziget", written in 1648/49) is written in a fashion similar to the _Iliad_, and recounts the heroic Battle of Szigetvár, where his great-grandfather died while defending the castle of Szigetvár. Among the religious literary works the most important is the Bible translation by Gáspár Károli (The second Hungarian Bible translation in the history), the Protestant pastor of Gönc, in 1590. The translation is called the _Bible of Vizsoly_, after the town where it was first published. (See Bible translations into Hungarian for more details.) , Hungarian writer and journalist]]
 
 The Hungarian enlightenment took place about fifty years after the French Enlightenment. The first enlightened writers were Maria Theresia's bodyguards (György Bessenyei, János Batsányi and others). The greatest poets of the time were Mihály Csokonai Vitéz and Dániel Berzsenyi. The greatest figure of the language reform was Ferenc Kazinczy. The Hungarian language became feasible for all type of scientific explanations from this time, and furthermore many new words were coined for describing new inventions.
 
@@ -489,9 +484,9 @@ Hungarian literature has recently gained some renown outside the borders of Hung
 
 Cuisine
 
-Hortobagy_palacsinta.JPG in Sopron]]
+in Sopron]]
 
-Dobos_cake_(Gerbeaud_Confectionery_Budapest_Hungary).jpg]]
+]]
 
 Traditional dishes such as the world-famous Goulash (_gulyás_ stew or _gulyás_ soup) feature prominently in Hungarian cuisine. Dishes are often flavoured with paprika (ground red peppers), a Hungarian innovation.[225] The paprika powder, obtained from a special type of pepper, is one of the most common spices used in typical Hungarian cuisine. Thick, heavy Hungarian sour cream called _tejföl_ is often used to soften the dishes' flavour. The famous Hungarian hot river fish soup called Fisherman's soup or _halászlé_ is usually a rich mixture of several kinds of poached fish.
 
@@ -499,7 +494,7 @@ Other dishes are chicken paprikash, foie gras made of goose liver, _pörkölt_ s
 
 The _csárda_ is the most distinctive type of Hungarian inn, an old-style tavern offering traditional cuisine and beverages. _Borozó_ usually denotes a cozy old-fashioned wine tavern, _pince_ is a beer or wine cellar and a _söröző_ is a pub offering draught beer and sometimes meals. The _bisztró_ is an inexpensive restaurant often with self-service. The _büfé_ is the cheapest place, although one may have to eat standing at a counter. Pastries, cakes and coffee are served at the confectionery called _cukrászda_, while an _eszpresszó_ is a café.
 
-Tokaji_6p_1989.jpg wine. It was called "Vinum Regum, Rex Vinorum" ("Wine of Kings, King of Wines") by Louis XIV of France]]
+wine. It was called "Vinum Regum, Rex Vinorum" ("Wine of Kings, King of Wines") by Louis XIV of France]]
 
 Pálinka is a fruit brandy, distilled from fruit grown in the orchards situated on the Great Hungarian Plain. It is a spirit native to Hungary and comes in a variety of flavours including apricot (_barack_) and cherry (_cseresznye_). However, plum (_szilva_) is the most popular flavour. Beer goes well with many traditional Hungarian dishes. The five main Hungarian beer brands are: Borsodi, Soproni, Arany Ászok, Kõbányai, and Dreher.
 
@@ -511,7 +506,7 @@ For over 150 years, a blend of forty Hungarian herbs has been used to create the
 
 Recreation
 
-Hévíz.jpg, the largest thermal lake in Europe]] Hungary is a land of thermal water. A passion for spa culture and Hungarian history have been connected from the very beginning. Hungarian spas feature Roman, Greek, Turkish, and northern country architectural elements.[232]
+, the largest thermal lake in Europe]] Hungary is a land of thermal water. A passion for spa culture and Hungarian history have been connected from the very beginning. Hungarian spas feature Roman, Greek, Turkish, and northern country architectural elements.[232]
 
 Because of an advantageous geographical location, good quality thermal water can be found in great quantities on over 80% of Hungary's territory. Approximately 1,500 thermal springs can be found in Hungary (more than 100 just in the Capital area). There are approximately 450 public baths in Hungary.[233]
 
@@ -521,7 +516,7 @@ In the 19th century, the advancement in deep drilling and medical science provid
 
 Folk art
 
-Voivodina_Hungarians_national_costume_and_dance_6.jpg in traditional garments / folk costumes]]
+in traditional garments / folk costumes]]
 
 Ugrós (Jumping dances) are old style dances dating back to the Middle Ages. Solo or couple dances accompanied by old style music, shepherd and other solo man's dances from Transylvania, and marching dances along with remnants of medieval weapon dances belong in this group.
 
@@ -551,7 +546,7 @@ Zsolnay Porcelain Manufacture is a Hungarian manufacturer of porcelain, pottery,
 
 Sport
 
-Vaterpolo_Hungary_vs_Italy_semifinal_game2.jpg is considered among the best in the world, holding the world record for Olympic golds and overall medals]] Groupama_Arena_Budapest_(17267881892).jpg, Ferencvárosi TC's UEFA category four stadium]]
+is considered among the best in the world, holding the world record for Olympic golds and overall medals]] , Ferencvárosi TC's UEFA category four stadium]]
 
 Hungarian athletes have been successful contenders in the Olympic Games, only ten countries have won more Olympic medals than Hungary, with a total of 498 medals ranking eighth in an all-time Olympic Games medal count. Hungary has the third-highest number of Olympic medals per capita and second-highest number of gold medals per capita in the world.[237] Hungary has historically excelled in Olympic water sports. In water polo the Hungarian team is the leading medal winner by a significant margin and in swimming Hungarian men are fourth most successful overall, while the women are eighth most successful overall. They have also seen success in canoeing and kayaking they are the third most successful overall.
 
@@ -567,7 +562,7 @@ Chess is also a popular and successful sport in Hungary, the Hungarian players a
 
 Football
 
-Ferenc_Puskás.jpg, the best goalscorer of the 20th century, FIFA Puskás Award named after him]]
+, the best goalscorer of the 20th century, FIFA Puskás Award named after him]]
 
 Hungary has won three Olympic football titles, finished runners-up in the 1938 and 1954 FIFA World Cups, and third in the 1964 UEFA European Football Championship. Hungary revolutionized the sport in the 1950s, laying the tactical fundamentals of total football and dominating international football with the _Aranycsapat_ ("Golden Team"), which included Ferenc Puskás, top goalscorer of the 20th century,[247][248][249] to whom FIFA dedicated[250] its newest award, the Puskás Award. The side of that era has the second all-time highest Football Elo Ranking in the world, with 2166, and one of the longest undefeated runs in football history, remaining unbeaten in 31 games spanning more than four years.[251]
 

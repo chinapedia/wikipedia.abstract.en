@@ -11,7 +11,7 @@ Differences between barristers and other lawyers
 
 Differences
 
-Scottish_Court_wigs_(2013).JPG A barrister, who can be considered as a jurist, is a lawyer who represents a litigant as advocate before a court of appropriate jurisdiction. A barrister speaks in court and presents the case before a judge or jury. In some jurisdictions, a barrister receives additional training in evidence law, ethics, and court practice and procedure. In contrast, a solicitor generally meets with clients, does preparatory and administrative work and provides legal advice. In this role, he or she may draft and review legal documents, interact with the client as necessary, prepare evidence, and generally manage the day-to-day administration of a lawsuit. A solicitor can provide a crucial support role to a barrister when in court, such as managing large volumes of documents in the case or even negotiating a settlement outside the courtroom while the trial continues inside.
+A barrister, who can be considered as a jurist, is a lawyer who represents a litigant as advocate before a court of appropriate jurisdiction. A barrister speaks in court and presents the case before a judge or jury. In some jurisdictions, a barrister receives additional training in evidence law, ethics, and court practice and procedure. In contrast, a solicitor generally meets with clients, does preparatory and administrative work and provides legal advice. In this role, he or she may draft and review legal documents, interact with the client as necessary, prepare evidence, and generally manage the day-to-day administration of a lawsuit. A solicitor can provide a crucial support role to a barrister when in court, such as managing large volumes of documents in the case or even negotiating a settlement outside the courtroom while the trial continues inside.
 
 There are other essential differences. A barrister will usually have rights of audience in the higher courts, whereas other legal professionals will often have more limited access, or will need to acquire additional qualifications to have such access. As in common law countries in which there is a split between the roles of barrister and solicitor, the barrister in civil law jurisdictions is responsible for appearing in trials or pleading cases before the courts.
 
@@ -48,7 +48,7 @@ A detailed examination of the justifications for a split legal profession and of
 
 Regulation
 
-Gray's_inn_zzz.JPG, London]] Barristers are regulated by the Bar for the jurisdiction where they practise, and in some countries, by the Inn of Court to which they belong. In some countries, there is external regulation.
+, London]] Barristers are regulated by the Bar for the jurisdiction where they practise, and in some countries, by the Inn of Court to which they belong. In some countries, there is external regulation.
 
 Inns of Court, where they exist, regulate admission to the profession. Inns of Court are independent societies that are titularly responsible for the training, admission (calling), and discipline of barristers. Where they exist, a person may only be called to the Bar by an Inn, of which they must first be a member. In fact, historically, call to and success at the Bar, to a large degree, depended upon social connections made early in life.[8]
 
@@ -61,7 +61,7 @@ In the common law tradition, the respective roles of a lawyer – that is as leg
 
 Australia
 
-Margaret Battye, 1930s Australian court dress|thumb In the Australian states of New South Wales, Victoria and Queensland, there is a split profession. Nevertheless, subject to conditions, barristers can accept direct access work from clients. Each state Bar Association regulates the profession and essentially has the functions of the English Inns of Court. In the states of South Australia and Western Australia, as well as the Australian Capital Territory, the professions of barrister and solicitor are fused, but an independent bar nonetheless exists, regulated by the Legal Practice Board of the state or territory. In Tasmania and the Northern Territory, the profession is fused, although a very small number of practitioners operate as an independent bar.
+In the Australian states of New South Wales, Victoria and Queensland, there is a split profession. Nevertheless, subject to conditions, barristers can accept direct access work from clients. Each state Bar Association regulates the profession and essentially has the functions of the English Inns of Court. In the states of South Australia and Western Australia, as well as the Australian Capital Territory, the professions of barrister and solicitor are fused, but an independent bar nonetheless exists, regulated by the Legal Practice Board of the state or territory. In Tasmania and the Northern Territory, the profession is fused, although a very small number of practitioners operate as an independent bar.
 
 Generally counsel dress in the traditional English manner (wig, gown, bar jacket and jabot) before superior courts, although this is not usually done for interlocutory applications. Wigs and robes are still worn in the Supreme Court and the District Court in civil matters and is dependent on the judicial officer's attire. Robes and wigs are worn in all criminal cases.[9] In Western Australia, wigs are no longer worn in any court.
 
@@ -159,7 +159,7 @@ United Kingdom
 
 England and Wales
 
-Photograph_of_Helena_Normanton_c._1930_(22770439042).jpg, first female British barrister.]] Although with somewhat different laws, England and Wales are considered within the United Kingdom a single united and unified legal jurisdiction for the purposes of both civil and criminal law, alongside Scotland and Northern Ireland, the other two legal jurisdictions within the United Kingdom. England and Wales are covered by a common bar (an organisation of barristers) and a single law society (an organisation of solicitors).
+, first female British barrister.]] Although with somewhat different laws, England and Wales are considered within the United Kingdom a single united and unified legal jurisdiction for the purposes of both civil and criminal law, alongside Scotland and Northern Ireland, the other two legal jurisdictions within the United Kingdom. England and Wales are covered by a common bar (an organisation of barristers) and a single law society (an organisation of solicitors).
 
 The profession of barrister in England and Wales is a separate profession from that of solicitor. It is, however, possible to hold the qualification of both barrister and solicitor at the same time. It is not necessary to leave the bar to qualify as a solicitor.
 

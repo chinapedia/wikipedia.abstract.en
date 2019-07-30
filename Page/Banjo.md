@@ -3,13 +3,11 @@ The BANJO is a four-, five-, or six-stringed instrument with a thin membrane str
 
 History
 
-SlaveDanceand_Music.jpg'', ca. 1785 - 1795, the earliest known American painting to picture a banjo-like instrument; thought to depict a plantation in Beaufort County, South Carolina]]
+'', ca. 1785 - 1795, the earliest known American painting to picture a banjo-like instrument; thought to depict a plantation in Beaufort County, South Carolina]]
 
 The modern banjo derives from instruments that had been used in the Caribbean since the 17th century by enslaved people taken from West Africa. Written references to the banjo in North America appear in the 18th century, and the instrument became increasingly available commercially from around the second quarter of the 19th century.[7]
 
 Several claims as to the etymology of the name "banjo" have been made. It may derive from the Kimbundu word _mbanza_,[8] which is an African string instrument modeled after the Portuguese _banza_: a _vihuela_ with five two-string courses and a further two short strings. The Oxford English Dictionary states that it comes from a dialectal pronunciation of Portuguese _bandore_ or from an early anglicisation of Spanish _bandurria_.[9] The name may also derive from a traditional Afro-Caribbean folk dance called "banya", which incorporates several cultural elements found throughout the African diaspora.[10]
-
-Manuel+Moreira.jpg
 
 Various instruments in Africa, chief among them the _kora_, feature a skin head and gourd (or similar shell) body.[11][12] The African instruments differ from early African American banjos in that the necks do not possess a Western-style fingerboard and tuning pegs, instead having stick necks, with strings attached to the neck with loops for tuning.[13] Banjos with fingerboards and tuning pegs are known from the Caribbean as early as the 17th century.[14] Some 18th- and early 19th-century writers transcribed the name of these instruments variously as _bangie_, _banza_, _bonjaw_,[15] _banjer_[16] and _banjar_. Instruments similar to the banjo (e.g., the Japanese _shamisen_, Persian _tar_, and Moroccan _sintir_) have been played in many countries. Another likely relative of the banjo is the _akonting_, a spike folk lute played by the Jola tribe of Senegambia, and the _ubaw-akwala_ of the Igbo.[17] Similar instruments include the _xalam_ of Senegal[18] and the _ngoni_ of the Wassoulou region including parts of Mali, Guinea, and Ivory Coast, as well as a larger variation of the _ngoni_ developed in Morocco by sub-Saharan Africans known as the _gimbri_.
 
@@ -22,7 +20,7 @@ In the antebellum South, many black slaves played the banjo and taught their mas
 
 Technique
 
-Banjo_forward_roll_on_G_major_chord.png Banjo_drone_in_Yankee_Doodle.png'', on the banjo, without and with drone notes[25] and .]]
+'', on the banjo, without and with drone notes[25] and .]]
 
 Two techniques closely associated with the five-string banjo are rolls and drones. Rolls are right hand accompanimental fingering pattern[s] that consist of eight (eighth) notes that subdivide each measure.[26] Drone notes are quick little notes [typically eighth notes], usually played on the 5th (short) string to fill in around the melody notes [typically eighth notes].[27] These techniques are both idiomatic to the banjo in all styles, and their sound is characteristic of bluegrass.
 
@@ -58,8 +56,6 @@ Five-string banjo players use many tunings. (Tunings are given in left-to-right 
 
 The size of the five-string banjo is largely standardized, but smaller and larger sizes exist, including the long-neck or "Seeger neck" variation designed by Pete Seeger. Petite variations on the five-string banjo have been available since the 1890s. S.S. Stewart introduced the banjeaurine, tuned one fourth above a standard five-string. Piccolo banjos are smaller, and tuned one octave above a standard banjo. Between these sizes and standard lies the A-scale banjo, which is two frets shorter and usually tuned one full step above standard tunings. Many makers have produced banjos of other scale lengths, and with various innovations.
 
-Don_Wayne_Reno_playing_the_banjo_with_fingerpicks.jpg
-
 American old-time music typically uses the five-string, open-back banjo. It is played in a number of different styles, the most common being clawhammer or frailing, characterized by the use of a downward rather than upward stroke when striking the strings with a fingernail. Frailing techniques use the thumb to catch the fifth string for a drone after most strums or after each stroke ("double thumbing"), or to pick out additional melody notes in what is known as drop-thumb. Pete Seeger popularized a folk style by combining clawhammer with up picking, usually without the use of fingerpicks. Another common style of old-time banjo playing is fingerpicking banjo or classic banjo. This style is based upon parlor-style guitar.[31]
 
 Bluegrass music, which uses the five-string resonator banjo almost exclusively, is played in several common styles. These include Scruggs style, named after Earl Scruggs; melodic, or Keith style, named for Bill Keith; and three-finger style with single-string work, also called Reno style after Don Reno. In these styles, the emphasis is on arpeggiated figures played in a continuous eighth-note rhythm, known as rolls. All of these styles are typically played with fingerpicks.
@@ -81,8 +77,6 @@ Viktor Ullmann included a tenor banjo part in his _Piano Concerto_ (op. 25).
 
 Four-string banjos
 
-Item-ps-250-(plectrum-special)-1458_lg.jpg
-
 Four-string banjos, both plectrum and tenor, can be used for chordal accompaniment (as in early jazz), for single-string melody playing (as in Irish traditional music), in "chord melody" style (a succession of chords in which the highest notes carry the melody), in tremolo style (both on chords and single strings), and a mixed technique called duo style that combines single-string tremolo and rhythm chords.
 
 Plectrum banjo
@@ -93,7 +87,7 @@ The four-string banjo is used from time to time in musical theater. Examples inc
 
 Tenor banjo
 
-Riverside_Stompers_-_Peter_Schwanzer_solo_-_Dieter_Bietak_2007.jpg Item-it-250f-(irish-tenor)-1419_lg.jpg The shorter-necked, tenor banjo, with 17 ("short scale") or 19 frets, is also typically played with a plectrum. It became a popular instrument after about 1910. Early models used for melodic picking typically had 17 frets on the neck and a scale length of 19 to 21 inches. By the mid-1920s, when the instrument was used primarily for strummed chordal accompaniment, 19-fret necks with a scale length of 21 to 23 inches became standard. The usual tuning is the all-fifths tuning C3 G3 D4 A4, in which exactly seven semitones (a perfect fifth) occur between the open notes of consecutive strings. Other players (particularly in Irish traditional music) tune the banjo G2 D3 A3 E4 like an octave mandolin, which lets the banjoist duplicate fiddle and mandolin fingering.[32] The popularization of this tuning is usually attributed to the late Barney McKenna, banjoist with The Dubliners.[33] Fingerstyle on tenor banjo retuned to open G tuning dgd'g' or lower open D tuning Adad' (three finger picking, frailing) have been explored by Mirek Patek.[34]
+The shorter-necked, tenor banjo, with 17 ("short scale") or 19 frets, is also typically played with a plectrum. It became a popular instrument after about 1910. Early models used for melodic picking typically had 17 frets on the neck and a scale length of 19 to 21 inches. By the mid-1920s, when the instrument was used primarily for strummed chordal accompaniment, 19-fret necks with a scale length of 21 to 23 inches became standard. The usual tuning is the all-fifths tuning C3 G3 D4 A4, in which exactly seven semitones (a perfect fifth) occur between the open notes of consecutive strings. Other players (particularly in Irish traditional music) tune the banjo G2 D3 A3 E4 like an octave mandolin, which lets the banjoist duplicate fiddle and mandolin fingering.[32] The popularization of this tuning is usually attributed to the late Barney McKenna, banjoist with The Dubliners.[33] Fingerstyle on tenor banjo retuned to open G tuning dgd'g' or lower open D tuning Adad' (three finger picking, frailing) have been explored by Mirek Patek.[34]
 
 The tenor banjo was a common rhythm-instrument in early 20th-century dance bands. Its volume and timbre suited early jazz (and jazz-influenced popular music styles) and could both compete with other instruments (such as brass instruments and saxophones) and be heard clearly on acoustic recordings. George Gershwin's _Rhapsody in Blue_, in Ferde Grofe's original jazz-orchestra arrangement, includes tenor banjo, with widely spaced chords not easily playable on plectrum banjo in its conventional tuning(s). With development of the archtop and electric guitar, the tenor banjo largely disappeared from jazz and popular music, though keeping its place in traditional "Dixieland" jazz.
 
@@ -101,7 +95,7 @@ Some 1920s Irish banjo players picked out the melodies of jigs, reels, and hornp
 
 Low banjos
 
-Cello_banjo_from_Gold_Tone.jpg In the late 19th and early 20th centuries, in vogue in plucked-string instrument ensembles—guitar orchestras, mandolin orchestras, banjo orchestras—was when the instrumentation was made to parallel that of the string section in symphony orchestras. Thus, "violin, viola, 'cello, bass" became "mandolin, mandola, mandocello, mandobass", or in the case of banjos, "banjolin, banjola, banjo cello, bass banjo". Because the range of pluck-stringed instrument generally is not as great as that of comparably sized bowed-string instruments, other instruments were often added to these plucked orchestras to extend the range of the ensemble upwards and downwards.[36][37]
+In the late 19th and early 20th centuries, in vogue in plucked-string instrument ensembles—guitar orchestras, mandolin orchestras, banjo orchestras—was when the instrumentation was made to parallel that of the string section in symphony orchestras. Thus, "violin, viola, 'cello, bass" became "mandolin, mandola, mandocello, mandobass", or in the case of banjos, "banjolin, banjola, banjo cello, bass banjo". Because the range of pluck-stringed instrument generally is not as great as that of comparably sized bowed-string instruments, other instruments were often added to these plucked orchestras to extend the range of the ensemble upwards and downwards.[36][37]
 
 Cello banjo
 
@@ -109,12 +103,10 @@ Rarer than either the tenor or plectrum banjo is the cello banjo (also "banjo ce
 
 Bass and contrabass banjo
 
-1930's_Gibson_bass_banjo_ad.jpg Bass banjos have been produced in both upright bass formats and with standard, horizontally carried banjo bodies. Contrabass banjos with either three or four strings have also been made; some of these had headstocks similar to those of bass violins. Tuning varies on these large instruments, with four-string models sometimes being tuned in 4ths like a bass violin—E1-A1-D2-G2, and sometimes in 5ths, like a four-string cello banjo, one octave lower—C1-G1-D2-A2. Other variants are also used.[39]
+Bass banjos have been produced in both upright bass formats and with standard, horizontally carried banjo bodies. Contrabass banjos with either three or four strings have also been made; some of these had headstocks similar to those of bass violins. Tuning varies on these large instruments, with four-string models sometimes being tuned in 4ths like a bass violin—E1-A1-D2-G2, and sometimes in 5ths, like a four-string cello banjo, one octave lower—C1-G1-D2-A2. Other variants are also used.[39]
 
 
 Six-string banjos
-
-Banjo.png
 
 The six-string banjo began as a British innovation by William Temlet, one of England's earliest banjo makers. He opened a shop in London in 1846, and sold banjos with closed backs and up to seven strings. He marketed these as "zither" banjos from his 1869 patent. American Alfred Davis Cammeyer (1862–1949), a young violinist-turned banjo concert player, devised the five- or six-string zither banjo around 1880. It had a wood resonator and metal "wire" strings (the first and second melody strings and fifth "thumb" string. The third melody string was gut, and the fourth was silk covered), as well as frets and guitar-style tuning machines.
 

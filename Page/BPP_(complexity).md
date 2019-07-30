@@ -72,8 +72,6 @@ A Monte Carlo algorithm is a randomized algorithm which is likely to be correct.
 
 Complexity-theoretic properties
 
-Randomized_Complexity_Classes.svg
-
 It is known that BPP is closed under complement; that is, BPP = CO-BPP. BPP is low for itself, meaning that a BPP machine with the power to solve BPP problems instantly (a BPP oracle machine) is not any more powerful than the machine without this extra power. In symbols, BPP^(BPP) = BPP.
 
 The relationship between BPP and NP is unknown: it is not known whether BPP is a subset of NP, NP is a subset of BPP or neither. If NP is contained in BPP, which is considered unlikely since it would imply practical solutions for NP-complete problems, then NP = RP and PH ⊆ BPP.[4]

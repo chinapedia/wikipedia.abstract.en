@@ -18,8 +18,6 @@ Examples:
 
 Meaning in measure theory
 
-CantorEscalier.svg
-
 When speaking about the reals, sometimes "almost all" means "all reals but a null set". Similarly, if S is some set of reals, "almost all numbers in S" can mean "all numbers in S but those in a null set". The real line can be thought of as a one-dimensional Euclidean space. In the more general case of an n-dimensional space (where n is a positive integer), these definitions can be generalised to "all points but those in a null set" or "all points in S but those in a null set" (this time, S is a set of points in the space). Even more generally, "almost all" is sometimes used in the sense of "almost everywhere" in measure theory, or in the closely related sense of "almost surely" in probability theory.
 
 Examples:

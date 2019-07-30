@@ -7,7 +7,7 @@ The ancient city of Harappa was heavily damaged under British rule, when bricks 
 
 History
 
-IVC-major-sites-2.jpg. Harappa was the center of one of the core regions of the Indus Valley Civilization, located in central Punjab. The Harappan architecture and Harappan Civilization was one of the most developed in the old Bronze Age.]] The Harappan Civilization has its earliest roots in cultures such as that of Mehrgarh, approximately 6000 BC. The two greatest cities, Mohenjo-daro and Harappa, emerged circa 2600 BC along the Indus River valley in Punjab and Sindh.[5] The civilization, with a possible writing system, urban centers, and diversified social and economic system, was rediscovered in the 1920s also after excavations at Mohenjo-daro in Sindh near Larkana, and Harappa, in west Punjab south of Lahore. A number of other sites stretching from the Himalayan foothills in east Punjab, India in the north, to Gujarat in the south and east, and to Pakistani Balochistan in the west have also been discovered and studied. Although the archaeological site at Harappa was damaged in 1857[6] when engineers constructing the Lahore-Multan railroad used brick from the Harappa ruins for track ballast, an abundance of artifacts have nevertheless been found.[7] The bricks discovered were made of red sand, clay, stones and were baked at very high temperature. As early as 1826 Harappa, located in west Punjab, attracted the attention of a British officer in India, who gets credit for preliminary excavations in Harappa.
+. Harappa was the center of one of the core regions of the Indus Valley Civilization, located in central Punjab. The Harappan architecture and Harappan Civilization was one of the most developed in the old Bronze Age.]] The Harappan Civilization has its earliest roots in cultures such as that of Mehrgarh, approximately 6000 BC. The two greatest cities, Mohenjo-daro and Harappa, emerged circa 2600 BC along the Indus River valley in Punjab and Sindh.[5] The civilization, with a possible writing system, urban centers, and diversified social and economic system, was rediscovered in the 1920s also after excavations at Mohenjo-daro in Sindh near Larkana, and Harappa, in west Punjab south of Lahore. A number of other sites stretching from the Himalayan foothills in east Punjab, India in the north, to Gujarat in the south and east, and to Pakistani Balochistan in the west have also been discovered and studied. Although the archaeological site at Harappa was damaged in 1857[6] when engineers constructing the Lahore-Multan railroad used brick from the Harappa ruins for track ballast, an abundance of artifacts have nevertheless been found.[7] The bricks discovered were made of red sand, clay, stones and were baked at very high temperature. As early as 1826 Harappa, located in west Punjab, attracted the attention of a British officer in India, who gets credit for preliminary excavations in Harappa.
 
 
 Culture and economy
@@ -21,7 +21,7 @@ What is clear is that Harappan society was not entirely peaceful, with the human
 
 Archaeology
 
-Archaeological_Map_of_Harappa.png Harappan_small_figures.jpg The excavators of the site have proposed the following chronology of Harappa's occupation:[15]
+The excavators of the site have proposed the following chronology of Harappa's occupation:[15]
 
 1.  Ravi Aspect of the Hakra phase, c. 3300 – 2800 BC.
 2.  Kot Dijian (Early Harappan) phase, c. 2800 – 2600 BC.
@@ -41,7 +41,7 @@ Clay and stone tablets unearthed at Harappa, which were carbon dated 3300–3200
 
 Notes
 
-Red_pottery,_IVC.jpg Harappa_male_torso.jpg. The discoverer, Madho Sarup Vats, claimed a Harappan date, but Marshall considered this statuette to be probably historical, dating to the Gupta period.[22]]]
+. The discoverer, Madho Sarup Vats, claimed a Harappan date, but Marshall considered this statuette to be probably historical, dating to the Gupta period.[22]]]
 
 -   The earliest radiocarbon dating mentioned on the web is 2725±185 BC (uncalibrated) or 3338, 3213, 3203 BC calibrated, giving a midpoint of 3251 BC. Kenoyer, Jonathan Mark (1991) Urban process in the Indus Tradition: A preliminary report. In Harappa Excavations, 1986–1990: A multidisciplinary approach to Second Millennium urbanism, edited by Richard H. Meadow: 29–59. Monographs in World Archaeology No.3. Prehistory Press, Madison Wisconsin.
 -   Periods 4 and 5 are not dated at Harappa. The termination of the Harappan tradition at Harappa falls between 1900 and 1500 BC.

@@ -17,7 +17,7 @@ The term "wild type" allele is sometimes used to describe an allele that is thou
 
 Multiple alleles
 
-ABO_blood_type.svg, a person with Type A blood displays A-antigens and may have a genotype I^(A)I^(A) or I^(A)i. A person with Type B blood displays B-antigens and may have the genotype I^(B)I^(B) or I^(B)i. A person with Type AB blood displays both A- and B-antigens and has the genotype I^(A)I^(B) and a person with Type O blood, displaying neither antigen, has the genotype ii.]]
+, a person with Type A blood displays A-antigens and may have a genotype I^(A)I^(A) or I^(A)i. A person with Type B blood displays B-antigens and may have the genotype I^(B)I^(B) or I^(B)i. A person with Type AB blood displays both A- and B-antigens and has the genotype I^(A)I^(B) and a person with Type O blood, displaying neither antigen, has the genotype ii.]]
 
 A population or species of organisms typically includes multiple alleles at each locus among various individuals. Allelic variation at a locus is measurable as the number of alleles (polymorphism) present, or the proportion of heterozygotes in the population. A null allele is a gene variant that lacks the gene's normal function because it either is not expressed, or the expressed protein is inactive.
 

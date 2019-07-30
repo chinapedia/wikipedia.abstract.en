@@ -7,7 +7,7 @@ As of July 2017, Dr. Peter J. Ricketts is Acadia’s current president.
 
 History
 
-Uhall31.JPG Acadia began as an extension of Horton Academy (1828), which was founded in Horton, Nova Scotia, by Baptists from Nova Scotia and Queen's College (1838).[8] The College was later named Acadia College.[9] Acadia University, established at Wolfville, Nova Scotia in 1838 has a strong Baptist religious affiliation.[10] It was designed to prepare men for the ministry and to supply education for lay members.[11]
+Acadia began as an extension of Horton Academy (1828), which was founded in Horton, Nova Scotia, by Baptists from Nova Scotia and Queen's College (1838).[8] The College was later named Acadia College.[9] Acadia University, established at Wolfville, Nova Scotia in 1838 has a strong Baptist religious affiliation.[10] It was designed to prepare men for the ministry and to supply education for lay members.[11]
 
 The two major Universities of the day in Nova Scotia were heavily controlled by denominational structures. King's College (University of King's College) was an Anglican school and Dalhousie University, which was originally non-denominational, had placed itself under the control and direction of the Church of Scotland. It was the failure of Dalhousie to appoint a prominent Baptist pastor and scholar, Edmund Crawley, to the Chair of Classics, as had been expected, that really thrust into the forefront of Baptist thinking the need for a college established and run by the Baptists.
 
@@ -27,7 +27,7 @@ Clara Belle Marshall, from Mount Hanley, Nova Scotia, became the first woman to 
 
 In 1891, there were changes in the Act of Incorporation.[17]
 
-Andrew R. Cobb designed several campus buildings including: Raynor Hall Residence, 1916; Horton House, designed by Cobb in the Georgian style, and built by James Reid of Yarmouth, Nova Scotia was opened in 1915 as Horton Academy. Today, Horton Hall is the home of the Department of Psychology and Research and Graduate Studies. Emmerson Hall, built in 1913, is particularly interesting for the variety of building stones used. In 1967 Emmerson Hall was converted to classrooms and offices for the School of Education. It is a registered Heritage Property.[18] EmmersonHall.jpg.]]
+Andrew R. Cobb designed several campus buildings including: Raynor Hall Residence, 1916; Horton House, designed by Cobb in the Georgian style, and built by James Reid of Yarmouth, Nova Scotia was opened in 1915 as Horton Academy. Today, Horton Hall is the home of the Department of Psychology and Research and Graduate Studies. Emmerson Hall, built in 1913, is particularly interesting for the variety of building stones used. In 1967 Emmerson Hall was converted to classrooms and offices for the School of Education. It is a registered Heritage Property.[18] .]]
 
 Unveiled on 16 August 1963, a wooden and metal organ in Manning Chapel, Acadia University, is dedicated to Acadia University's war dead of the First and Second World Wars and the Korean War.[19] A book of remembrance in Manning Chapel, Acadia University was unveiled on 1 March 1998 through the efforts of the Wolfville Historical Society [20]
 

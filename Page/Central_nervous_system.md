@@ -7,13 +7,11 @@ The CNS consists of the two major structures: the brain and spinal cord. The bra
 
 White and gray matter
 
-1202_White_and_Gray_Matter.jpg Microscopically, there are differences between the neurons and tissue of the CNS and the peripheral nervous system (PNS). The CNS is composed of white and gray matter.[17] This can also be seen macroscopically on brain tissue. The white matter consists of axons and oligodendrocytes, while the gray matter consists of neurons and unmyelinated fibers. Both tissues include a number of glial cells (although the white matter contains more), which are often referred to as supporting cells of the CNS. Different forms of glial cells have different functions, some acting almost as scaffolding for neuroblasts to climb during neurogenesis such as bergmann glia, while others such as microglia are a specialized form of macrophage, involved in the immune system of the brain as well as the clearance of various metabolites from the brain tissue.[18] Astrocytes may be involved with both clearance of metabolites as well as transport of fuel and various beneficial substances to neurons from the capillaries of the brain. Upon CNS injury astrocytes will proliferate, causing gliosis, a form of neuronal scar tissue, lacking in functional neurons.[19]
+Microscopically, there are differences between the neurons and tissue of the CNS and the peripheral nervous system (PNS). The CNS is composed of white and gray matter.[17] This can also be seen macroscopically on brain tissue. The white matter consists of axons and oligodendrocytes, while the gray matter consists of neurons and unmyelinated fibers. Both tissues include a number of glial cells (although the white matter contains more), which are often referred to as supporting cells of the CNS. Different forms of glial cells have different functions, some acting almost as scaffolding for neuroblasts to climb during neurogenesis such as bergmann glia, while others such as microglia are a specialized form of macrophage, involved in the immune system of the brain as well as the clearance of various metabolites from the brain tissue.[18] Astrocytes may be involved with both clearance of metabolites as well as transport of fuel and various beneficial substances to neurons from the capillaries of the brain. Upon CNS injury astrocytes will proliferate, causing gliosis, a form of neuronal scar tissue, lacking in functional neurons.[19]
 
 The brain (cerebrum as well as midbrain and hindbrain) consists of a cortex, composed of neuron-bodies constituting gray matter, while internally there is more white matter that form tracts and commissures. Apart from cortical gray matter there is also subcortical gray matter making up a large number of different nuclei.[20]
 
 Spinal cord
-
-Sobo_1909_615.png 1508_Autonomic_Control_of_Pupil_Size.jpg
 
 From and to the spinal cord are projections of the peripheral nervous system in the form of spinal nerves (sometimes segmental nerves[21]). The nerves connect the spinal cord to skin, joints, muscles etc. and allow for the transmission of efferent motor as well as afferent sensory signals and stimuli.[22] This allows for voluntary and involuntary motions of muscles, as well as the perception of senses. All in all 31 spinal nerves project from the brain stem,[23] some forming plexa as they branch out, such as the brachial plexa, sacral plexa etc.[24] Each spinal nerve will carry both sensory and motor signals, but the nerves synapse at different regions of the spinal cord, either from the periphery to sensory relay neurons that relay the information to the CNS or from the CNS to motor neurons, which relay the information out.[25]
 
@@ -69,7 +67,7 @@ The hippocampus is involved in storage of memories, the amygdala plays a role in
 
 Difference from the peripheral nervous system
 
-1205_Somatic_Autonomic_Enteric_StructuresN.jpg, autonomic nervous system, and enteric nervous system.]]
+, autonomic nervous system, and enteric nervous system.]]
 
 This differentiates the CNS from the PNS, which consists of neurons, axons, and Schwann cells. Oligodendrocytes and Schwann cells have similar functions in the CNS and PNS, respectively. Both act to add myelin sheaths to the axons, which acts as a form of insulation allowing for better and faster proliferation of electrical signals along the nerves. Axons in the CNS are often very short, barely a few millimeters, and do not need the same degree of isolation as peripheral nerves. Some peripheral nerves can be over 1 meter in length, such as the nerves to the big toe. To ensure signals move at sufficient speed, myelination is needed.
 

@@ -33,8 +33,6 @@ From 1950 to 1953, he was attached to the U.S. Embassy in London as a scientific
 
 1951: Design of early satellites
 
-MOUSE_(Fred_Singer).jpg
-
 Singer was one of the first scientists to urge the launching of earth satellites for scientific observation during the 1950s.[20] In 1951 or 1952 he proposed the MOUSE ("Minimal Orbital Unmanned Satellite, Earth"), a satellite that would contain Geiger counters for measuring cosmic rays, photo cells for scanning the Earth, telemetry electronics for sending data back to Earth, a magnetic data storage device, and rudimentary solar energy cells. Although MOUSE never flew, the _Baltimore News Post_ reported in 1957 that had Singer's arguments about the need for satellites been heeded, the U.S. could have beaten Russia by launching the first earth satellite.[21] He also proposed (along with R. C. Wentworth) that satellite measurement of ultraviolet backscatter could be used as a method to measure atmospheric ozone profiles.[22] This technique was later used on early weather satellites.[23]
 
 1953: University of Maryland

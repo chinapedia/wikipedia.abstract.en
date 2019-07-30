@@ -1,4 +1,4 @@
-Dominoes_tiles.jpg DOMINOES is a family of tile-based games played with rectangular "domino" tiles. Each domino is a rectangular tile with a line dividing its face into two square _ends_. Each end is marked with a number of spots (also called _pips_, _nips_, or _dobs_) or is blank. The backs of the dominoes in a set are indistinguishable, either blank or having some common design. The domino gaming pieces make up a domino set, sometimes called a _deck_ or _pack_. The traditional Sino-European domino set consists of 28 dominoes, featuring all combinations of spot counts between zero and six. A domino set is a generic gaming device, similar to playing cards or dice, in that a variety of games can be played with a set.
+DOMINOES is a family of tile-based games played with rectangular "domino" tiles. Each domino is a rectangular tile with a line dividing its face into two square _ends_. Each end is marked with a number of spots (also called _pips_, _nips_, or _dobs_) or is blank. The backs of the dominoes in a set are indistinguishable, either blank or having some common design. The domino gaming pieces make up a domino set, sometimes called a _deck_ or _pack_. The traditional Sino-European domino set consists of 28 dominoes, featuring all combinations of spot counts between zero and six. A domino set is a generic gaming device, similar to playing cards or dice, in that a variety of games can be played with a set.
 
 The earliest mention of dominoes is from Song dynasty China found in the text _Former Events in Wulin_ by Zhou Mi (1232–1298).[1] Modern dominoes first appeared in Italy during the 18th century, but how Chinese dominoes developed into the modern game is unknown. Italian missionaries in China may have brought the game to Europe.[2]
 
@@ -7,7 +7,7 @@ The name "domino" is most likely from the resemblance to a kind of carnival cost
 
 Construction and composition of domino sets
 
-European-style dominoes are traditionally made of bone or ivory, or a dark hardwood such as ebony, with contrasting black or white pips (inlaid or painted). Alternatively, domino sets have been made from many different natural materials: stone (e.g., marble, granite or soapstone); other woods (e.g., ash, oak, redwood, and cedar); metals (e.g., brass or pewter); ceramic clay, or even frosted glass or crystal. These sets have a more novel look, and the often heavier weight makes them feel more substantial; also, such materials and the resulting products are usually much more expensive than polymer materials. Dominoes.jpg Modern commercial domino sets are usually made of synthetic materials, such as ABS or polystyrene plastics, or Bakelite and other phenolic resins; many sets approximate the look and feel of ivory while others use colored or even translucent plastics to achieve a more contemporary look. Modern sets also commonly use a different color for the dots of each different end value (one-spots might have black pips while two-spots might be green, three red, etc.) to facilitate finding matching ends. Occasionally, one may find a domino set made of card stock like that for playing cards. Such sets are lightweight, compact, and inexpensive, and like cards are more susceptible to minor disturbances such as a sudden breeze. Sometimes, dominoes have a metal pin (called a spinner or pivot) in the middle.[5]
+European-style dominoes are traditionally made of bone or ivory, or a dark hardwood such as ebony, with contrasting black or white pips (inlaid or painted). Alternatively, domino sets have been made from many different natural materials: stone (e.g., marble, granite or soapstone); other woods (e.g., ash, oak, redwood, and cedar); metals (e.g., brass or pewter); ceramic clay, or even frosted glass or crystal. These sets have a more novel look, and the often heavier weight makes them feel more substantial; also, such materials and the resulting products are usually much more expensive than polymer materials. Modern commercial domino sets are usually made of synthetic materials, such as ABS or polystyrene plastics, or Bakelite and other phenolic resins; many sets approximate the look and feel of ivory while others use colored or even translucent plastics to achieve a more contemporary look. Modern sets also commonly use a different color for the dots of each different end value (one-spots might have black pips while two-spots might be green, three red, etc.) to facilitate finding matching ends. Occasionally, one may find a domino set made of card stock like that for playing cards. Such sets are lightweight, compact, and inexpensive, and like cards are more susceptible to minor disturbances such as a sudden breeze. Sometimes, dominoes have a metal pin (called a spinner or pivot) in the middle.[5]
 
 The traditional set of dominoes contains one unique piece for each possible combination of two ends with zero to six spots, and is known as a double-six set because the highest-value piece has six pips on each end (the "double six"). The spots from one to six are generally arranged as they are on six-sided dice, but because blank ends having no spots are used, seven faces are possible, allowing 28 unique pieces in a double-six set.
 
@@ -16,7 +16,7 @@ However, this is a relatively small number especially when playing with more tha
 
 History
 
-COLLECTIE_TROPENMUSEUM_Bemanning_tijdens_een_spel_domino_aan_boord_van_een_schip_TMnr_60008507.jpg The oldest confirmed written mention of dominoes in China comes from the _Former Events in Wulin_ (i.e., the capital Hangzhou) written by the Yuan Dynasty (1271–1368) author Zhou Mi (1232–1298), who listed _pupai_ (gambling plaques or dominoes), as well as dice as items sold by peddlers during the reign of Emperor Xiaozong of Song (r. 1162–1189).[6] Andrew Lo asserts that Zhou Mi meant dominoes when referring to _pupai_, since the Ming author Lu Rong (1436–1494) explicitly defined _pupai_ as dominoes (in regard to a story of a suitor who won a maiden's hand by drawing out four winning _pupai_ from a set).[7]
+The oldest confirmed written mention of dominoes in China comes from the _Former Events in Wulin_ (i.e., the capital Hangzhou) written by the Yuan Dynasty (1271–1368) author Zhou Mi (1232–1298), who listed _pupai_ (gambling plaques or dominoes), as well as dice as items sold by peddlers during the reign of Emperor Xiaozong of Song (r. 1162–1189).[6] Andrew Lo asserts that Zhou Mi meant dominoes when referring to _pupai_, since the Ming author Lu Rong (1436–1494) explicitly defined _pupai_ as dominoes (in regard to a story of a suitor who won a maiden's hand by drawing out four winning _pupai_ from a set).[7]
 
 The earliest known manual written about dominoes is the _(Manual of the Xuanhe Period)_ written by Qu You (1341–1437),[8] but some Chinese scholars believe this manual is a forgery from a later time.[9]
 
@@ -28,8 +28,6 @@ The early 18th century had dominoes making their way to Europe, making their fir
 
 
 Tiles and suits
-
-Dominomatrix.svg
 
 Domino tiles (also known as "bones"), are normally twice as long as they are wide (which can eliminate some opportunities for awkardness in re-packing pieces after use) and usually feature a line in the middle to divide them visually into two squares. The value of either side is the number of spots or pips. In the most common variant (double-six), the values range from six pips down to none or blank).[14] The sum of the two values, i.e. the total number of pips, may be referred to as the rank or weight of a tile, and a tile may be described as "heavier" than a "lighter" one that has fewer (or no) pips.
 
@@ -111,7 +109,7 @@ Play continues until one of the players has played all the dominoes in his or he
 
 In games where points accrue, the winning player scores a point for each pip on each bone still held by each opponent or the opposing team. If no player went out, the win is determined by the lightest hand, sometimes only the excess points held by opponents.
 
-A game is generally played to 100 points, the tally being kept on paper. In more common games, mainly urban rules, games are played to 150, 200, or 250 points. Scoring_Houses.jpeg In some games, the tally is kept by creating houses, where the beginning of the house (the first 10 points) is a large +, the next 10 points are O, and scoring with a five is a Dominoes//, and are placed in the four corners of the house. One house is equal to 50 points.
+A game is generally played to 100 points, the tally being kept on paper. In more common games, mainly urban rules, games are played to 150, 200, or 250 points. In some games, the tally is kept by creating houses, where the beginning of the house (the first 10 points) is a large +, the next 10 points are O, and scoring with a five is a Dominoes//, and are placed in the four corners of the house. One house is equal to 50 points.
 
 In some versions, if a lock down occurs, the first person to call a lock-down gains the other players bones and adds the amount of the pips to his or her house. If a person who calls rocks after a call of lock-down or domino finds the number of pips a player called is incorrect, those points become his.
 
@@ -128,12 +126,10 @@ A popular domino game in Texas is 42. The game is similar to the card game spade
 
 Competitive play
 
-Abkhazia_10_apsar_Ag_2011_Domino_b.jpg Dominoes is played at a professional level, similar to poker. Numerous organisations and clubs of amateur domino players exist around the world. Some organizations organize international competitions.
+Dominoes is played at a professional level, similar to poker. Numerous organisations and clubs of amateur domino players exist around the world. Some organizations organize international competitions.
 
 
 Other uses of dominoes
-
-Domino_Cascade.JPG Toppledominos.jpg
 
 Besides playing games, another use of dominoes is the domino show, which involves standing them on end in long lines so that when the first tile is toppled, it topples the second, which topples the third, etc., resulting in all of the tiles falling. By analogy, the phenomenon of small events causing similar events leading to eventual catastrophe is called the domino effect.
 
@@ -174,8 +170,6 @@ Historic domino competitions
 
 
 See also
-
-Friedrich_Sturm_-_Domino_Players.jpg
 
 -   Chinese dominoes
 -   Domino theory

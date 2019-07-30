@@ -22,7 +22,7 @@ By about 6000 BC, a Neolithic culture rooted in the Nile Valley.[5] During the N
 
 Ancient Egypt (3100–332 BC)
 
-Egypt.Giza.Sphinx.02.jpg and the Pyramids of Giza, built during the Old Kingdom.]]
+and the Pyramids of Giza, built during the Old Kingdom.]]
 
 A unified kingdom was founded 3150 BC by King Menes, leading to a series of dynasties that ruled Egypt for the next three millennia. Egyptian culture flourished during this long period and remained distinctively Egyptian in its religion, arts, language and customs. The first two ruling dynasties of a unified Egypt set the stage for the Old Kingdom period (_c_. 2700–2200 BC), which constructed many pyramids, most notably the Third Dynasty pyramid of Djoser and the Fourth Dynasty Giza Pyramids.
 
@@ -37,7 +37,7 @@ Non-native rule over Egypt
 
 Achaemenid rule
 
-Xerxes_I_tomb_Egyptian_soldier_circa_470_BCE.jpg tomb relief.]] In the sixth century BC, the Achaemenid Empire conquered Egypt.[10] The entire Twenty-seventh Dynasty of Egypt, from 525 BC to 402 BC, save for Petubastis III, was an entirely Persian-ruled period, with the Achaemenid kings being granted the title of pharaoh.[11] The Thirtieth Dynasty was the last native ruling dynasty during the Pharaonic epoch.[12] It fell to the Persians again in 343 BC after the last native Pharaoh, King Nectanebo II, was defeated in battle.[13]
+tomb relief.]] In the sixth century BC, the Achaemenid Empire conquered Egypt.[10] The entire Twenty-seventh Dynasty of Egypt, from 525 BC to 402 BC, save for Petubastis III, was an entirely Persian-ruled period, with the Achaemenid kings being granted the title of pharaoh.[11] The Thirtieth Dynasty was the last native ruling dynasty during the Pharaonic epoch.[12] It fell to the Persians again in 343 BC after the last native Pharaoh, King Nectanebo II, was defeated in battle.[13]
 
 Second Achaemenid conquest
 
@@ -45,7 +45,7 @@ The Thirty-first Dynasty of Egypt, also known as the Second Egyptian Satrapy, wa
 
 Ptolemaic and Roman Egypt (332 BC–641 AD)
 
-Denderah3_Cleopatra_Cesarion.jpg Ptolemaic queen Cleopatra and her son by Julius Caesar, Caesarion, at the Dendera Temple complex.]] The Ptolemaic Kingdom was a powerful Hellenistic state extending from southern Syria in the east, to Cyrene to the west, and south to the frontier with Nubia. Alexandria became the capital city and a center of Greek culture and trade. To gain recognition by the native Egyptian populace, they named themselves as the successors to the Pharaohs. The later Ptolemies took on Egyptian traditions, had themselves portrayed on public monuments in Egyptian style and dress, and participated in Egyptian religious life.[16][17]
+Ptolemaic queen Cleopatra and her son by Julius Caesar, Caesarion, at the Dendera Temple complex.]] The Ptolemaic Kingdom was a powerful Hellenistic state extending from southern Syria in the east, to Cyrene to the west, and south to the frontier with Nubia. Alexandria became the capital city and a center of Greek culture and trade. To gain recognition by the native Egyptian populace, they named themselves as the successors to the Pharaohs. The later Ptolemies took on Egyptian traditions, had themselves portrayed on public monuments in Egyptian style and dress, and participated in Egyptian religious life.[16][17]
 
 The last ruler from the Ptolemaic dynasty was Cleopatra, who committed suicide following the burial of her lover Mark Antony, who had died in her arms (from a self-inflicted stab wound) after Augustus had captured Alexandria and her mercenary forces had fled.
 
@@ -61,7 +61,7 @@ Sasanian Egypt (known in Middle Persian sources as _Agiptus_) refers to the brie
 
 Arab and Ottoman Egypt (641–1882)
 
-Yavuz_Sultan_I._Selim_Han.jpg (1470–1520), conquered Egypt]] Cairo,_Old_Cairo,_Hanging_Church,_Egypt,_Oct_2004.jpg of Cairo, first built in the 3rd or 4th century, is one of the most famous Coptic Orthodox churches in Egypt.]] The Byzantines were able to regain control of the country after a brief Persian invasion early in the 7th century, until 639–42, when Egypt was invaded and conquered by the Arab Islamic Empire. The final loss of Egypt was of incalculable significance to the Byzantine Empire, which had relied on Egypt for many agricultural and manufactured goods.
+(1470–1520), conquered Egypt]] of Cairo, first built in the 3rd or 4th century, is one of the most famous Coptic Orthodox churches in Egypt.]] The Byzantines were able to regain control of the country after a brief Persian invasion early in the 7th century, until 639–42, when Egypt was invaded and conquered by the Arab Islamic Empire. The final loss of Egypt was of incalculable significance to the Byzantine Empire, which had relied on Egypt for many agricultural and manufactured goods.
 
 When they defeated the Byzantine Armies in Egypt, the Arabs brought Sunni Islam to the country. Early in this period, Egyptians began to blend their new faith with their Christian traditions as well as other indigenous beliefs and practices, leading to various Sufi orders that have flourished to this day.[25] These earlier rites had survived the period of Coptic Christianity.[26]
 
@@ -77,7 +77,7 @@ The introduction in 1820 of long-staple cotton, the Egyptian variety of which be
 
 British Protectorate (1882–1953)
 
-Cairo-Demonstrations1919.jpg, 1919]] British indirect rule lasted from 1882, when the British succeeded in defeating the Egyptian Army at Tel el-Kebir in September and took control of the country, to the 1952 Egyptian revolution which made Egypt a republic and when British advisers were expelled.
+, 1919]] British indirect rule lasted from 1882, when the British succeeded in defeating the Egyptian Army at Tel el-Kebir in September and took control of the country, to the 1952 Egyptian revolution which made Egypt a republic and when British advisers were expelled.
 
 Muhammad Ali was succeeded briefly by his son Ibrahim (in September 1848), then by a grandson Abbas I (in November 1848), then by Said (in 1854), and Isma'il (in 1863). Abbas I was cautious. Said and Ismail were ambitious developers, but they spent beyond their means. The Suez Canal, built in partnership with the French, was completed in 1869. The cost of this and other projects had two effects: it led to enormous debt to European banks, and caused popular discontent because of the onerous taxation it required. In 1875 Ismail was forced to sell Egypt's share in the canal to the British Government. Within three years this led to the imposition of British and French controllers who sat in the Egyptian cabinet, and, "with the financial power of the bondholders behind them, were the real power in the Government."[36]
 
@@ -94,7 +94,7 @@ British military presence in Egypt lasted until 1954.[41]
 
 Republican Egypt (since 1953)
 
-Begin,_Carter_and_Sadat_at_Camp_David_1978.jpg, Jimmy Carter, Anwar Al Sadat.]]
+, Jimmy Carter, Anwar Al Sadat.]]
 
 On 18 June 1953, the Egyptian Republic was declared, with General Muhammad Naguib as the first President of the Republic. Naguib was forced to resign in 1954 by Gamal Abdel Nasserthe real architect of the 1952 movementand was later put under house arrest.
 
@@ -128,7 +128,7 @@ Revolution
 
 In 2003, the _Kefaya_ ("Egyptian Movement for Change"), was launched to oppose the Mubarak regime and to establish democratic reforms and greater civil liberties.
 
-Tahrir_Square_on_February11.png after Omar Suleiman's statement announcing Hosni Mubarak's resignation]] On 25 January 2011, widespread protests began against Mubarak's government. The objective of the protest was the removal of Mubarak from power. These took the form of an intensive campaign of civil resistance supported by a very large number of people and mainly consisting of continuous mass demonstrations. By 29 January, it was becoming clear that Mubarak's government had lost control when a curfew order was ignored, and the army took a semi-neutral stance on enforcing the curfew decree.
+after Omar Suleiman's statement announcing Hosni Mubarak's resignation]] On 25 January 2011, widespread protests began against Mubarak's government. The objective of the protest was the removal of Mubarak from power. These took the form of an intensive campaign of civil resistance supported by a very large number of people and mainly consisting of continuous mass demonstrations. By 29 January, it was becoming clear that Mubarak's government had lost control when a curfew order was ignored, and the army took a semi-neutral stance on enforcing the curfew decree.
 
 On 11 February 2011, Mubarak resigned and fled Cairo. Vice President Omar Suleiman announced that Mubarak had stepped down and that the Egyptian military would assume control of the nation's affairs in the short term.[54][55] Jubilant celebrations broke out in Tahrir Square at the news.[56] Mubarak may have left Cairo for Sharm el-Sheikh the previous night, before or shortly after the airing of a taped speech in which Mubarak vowed he would not step down or leave.[57]
 

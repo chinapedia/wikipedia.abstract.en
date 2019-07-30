@@ -1,4 +1,4 @@
-3D_model_hydrogen_bonds_in_water.svg]] NTCDI_AFM2a.jpg image of napthalenetetracarboxylic diimide molecules on silver-terminated silicon, interacting via hydrogen bonding, taken at 77  K.[1] ("Hydrogen bonds" in the top image are exaggerated by artifacts of the imaging technique.[2][3])]]
+]] image of napthalenetetracarboxylic diimide molecules on silver-terminated silicon, interacting via hydrogen bonding, taken at 77  K.[1] ("Hydrogen bonds" in the top image are exaggerated by artifacts of the imaging technique.[2][3])]]
 
 A HYDROGEN BOND (often informally abbreviated H-BOND) is a primarily electrostatic force of attraction between a hydrogen (H) atom which is covalently bound to a more electronegative atom or group, particularly the second-row elements nitrogen (N), oxygen (O), or fluorine (F)—the hydrogen bond donor (Dn)—and another electronegative atom bearing a lone pair of electrons—the hydrogen bond acceptor (Ac). Such an interacting system is generally denoted Dn–H···Ac, where the solid line denotes a fully covalent bond, and the dotted or dashed line indicates the hydrogen bond. The use of three centered dots for the hydrogen bond is specifically recommended by the IUPAC.[4] There is general agreement that there is actually a minor covalent component to hydrogen bonding, especially for moderate to strong hydrogen bonds (> 5 kcal/mol), although the importance of covalency in hydrogen bonding is debated. At the opposite end of the scale, there is no clear boundary between a weak hydrogen bond and a van der Waals (e.g., dipole-dipole) interaction.
 
@@ -13,13 +13,11 @@ Nevertheless, most introductory textbooks still restrict the definition of hydro
 
 Bonding
 
-Hydrogen_Bond_Quadruple_AngewChemIntEd_1998_v37_p75.jpg hydrogen bonding in a self-assembled dimer complex.[15] The hydrogen bonds are represented by dotted lines.]] Acetylacetone_tautomerism.svg hydrogen bonding in acetylacetone helps stabilize the enol tautomer.]]
+hydrogen bonding in a self-assembled dimer complex.[15] The hydrogen bonds are represented by dotted lines.]] hydrogen bonding in acetylacetone helps stabilize the enol tautomer.]]
 
 Definitions and general characteristics
 
 A hydrogen atom attached to a relatively electronegative atom is the hydrogen bond _donor_.[16] C-H bonds only participate in hydrogen bonding when the carbon atom is bound to electronegative substituents, as is the case in chloroform, CHCl₃.[17] In a hydrogen bond, the electronegative atom not covalently attached to the hydrogen is named proton acceptor, whereas the one covalently bound to the hydrogen is named the proton donor. In the donor molecule, the H center is protic. The donor is a Lewis base. Hydrogen bonds are represented as H···Y system, where the dots represent the hydrogen bond. Liquids that display hydrogen bonding (such as water) are called ASSOCIATED LIQUIDS.
-
-WikipediaHDonorAcceptor.png Acetic_Acid_Hydrogenbridge_V.1.svg
 
 The hydrogen bond is often described as an electrostatic dipole-dipole interaction. However, it also has some features of covalent bonding: it is directional and strong, produces interatomic distances shorter than the sum of the van der Waals radii, and usually involves a limited number of interaction partners, which can be interpreted as a type of valence. These covalent features are more substantial when acceptors bind hydrogens from more electronegative donors.
 
@@ -77,7 +75,7 @@ The concept of hydrogen bonding once was challenging.[30] Linus Pauling credits 
 
 Hydrogen bonds in small molecules
 
-Hex_ice.GIF NIMGLO12.png, which features two linear hydrogen-bonds.]]
+, which features two linear hydrogen-bonds.]]
 
 Water
 
@@ -123,7 +121,7 @@ Hydrogen bonding plays an important role in determining the three-dimensional st
 
 DNA
 
-ADN_animation.gif]] Base_pair_GC.svg and cytosine, one of two types of base pairs in DNA]]
+]] and cytosine, one of two types of base pairs in DNA]]
 
 In these macromolecules, bonding between parts of the same macromolecule cause it to fold into a specific shape, which helps determine the molecule's physiological or biochemical role. For example, the double helical structure of DNA is due largely to hydrogen bonding between its base pairs (as well as pi stacking interactions), which link one complementary strand to the other and enable replication.
 
@@ -144,8 +142,6 @@ Wool, being a protein fibre, is held together by hydrogen bonds, causing wool to
 Cellulose
 
 Hydrogen bonds are important in the structure of cellulose and derived polymers in its many different forms in nature, such as cotton and flax.
-
-Kevlar_chemical_structure.png Cellulose_strand.svg
 
 Synthetic polymers
 

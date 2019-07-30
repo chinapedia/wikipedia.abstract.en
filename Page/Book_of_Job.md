@@ -3,8 +3,6 @@ The BOOK OF JOB (;  – _ʾIyyōḇ_) is a book in the Ketuvim ("Writings") sec
 
 Structure
 
-Job_Scroll.jpg
-
 The Book of Job consists of a prose prologue and epilogue narrative framing poetic dialogues and monologues. It is common to view the narrative frame as the original core of the book, enlarged later by the poetic dialogues and discourses, and sections of the book such as the Elihu speeches and the wisdom poem of chapter 28 as late insertions, but recent trends have tended to concentrate on the book's underlying editorial unity.
 
 1. _Prologue_ in two scenes, the first on Earth, the second in Heaven ()
@@ -47,7 +45,7 @@ The Book of Job consists of a prose prologue and epilogue narrative framing poet
 
 Contents
 
-Blake_1793_Job's_Tormentors.jpg's Illustrations for the Book of Job.]]
+'s Illustrations for the Book of Job.]]
 
 Prologue on Earth and in Heaven
 
@@ -61,7 +59,7 @@ Job's responses represent one of the most radical restatements of Israelite theo
 
 Three monologues: Poem to Wisdom, Job's closing monologue, and Elihu's speeches
 
-Job_and_his_friends.jpg (1869)]]
+(1869)]]
 
 The dialogues of Job and his friends are followed by a poem (the "hymn to wisdom") on the inaccessibility of wisdom: "Where is wisdom to be found?" it asks, and concludes that it has been hidden from man (chapter 28). Job contrasts his previous fortune with his present plight, an outcast, mocked and in pain. He protests his innocence, lists the principles he has lived by, and demands that God answer him. Elihu (a character not previously mentioned) intervenes to state that wisdom comes from God, who reveals it through dreams and visions to those who will then declare their knowledge.
 
@@ -76,7 +74,7 @@ God tells Eliphaz that he and the two other friends "have not spoken of me what 
 
 Composition
 
-fol.165-Job.XXXVIII Christ speaks to Job]]
+Christ speaks to Job]]
 
 Authorship, language, texts
 
@@ -93,7 +91,7 @@ Job, Ecclesiastes and the Book of Proverbs belong to the genre of wisdom literat
 
 Themes
 
-Destruction_of_Leviathan.png (1865)]]
+(1865)]]
 
 Job is an investigation of the problem of divine justice. This problem, known in theology as the problem of evil, can be rephrased as a question: "Why do the righteous suffer?" The conventional answer in ancient Israel was that God rewards virtue and punishes sin (the principle known as "retributive justice"). This assumes a world in which human choices and actions are morally significant, but experience demonstrates that suffering is frequently unmerited.
 
@@ -109,8 +107,6 @@ When God finally speaks he neither explains the reason for Job's suffering (reve
 
 
 Later interpretation and influence
-
-Carved_wooden_figure_of_Job._Probably_from_Germany,_1750-1850_CE._The_Wellcome_Collection,_London.jpg
 
 History of interpretation
 
@@ -128,7 +124,7 @@ The Eastern Orthodox Church reads from Job and Exodus during Holy Week. Exodus p
 
 In music, art, literature, and film
 
-Georges_de_La_Tour_044.jpg,
+,
 _Job Mocked by his Wife_]]
 
 The Book of Job has been deeply influential in Western culture, to such an extent that no list could be more than representative. Musical settings from Job include Orlande de Lassus's 1565 cycle of motets, the _Sacrae Lectiones Novem ex Propheta Job_, and George Frideric Handel's use of Job 19:25 ("I know that my redeemer liveth") as an aria in his 1741 oratorio _Messiah_. Modern works based on the book include Ralph Vaughan Williams's _Job: A Masque for Dancing_, French composer Darius Milhaud's _Cantata From Job_, and Joseph Stein's Broadway interpretation _Fiddler on the Roof_, based on an earlier Yiddish memoir by Sholem Alchem in 1894. Joni Mitchell composed The Sire of Sorrow (Job's Sad Song.) Neil Simon wrote _God's Favorite_ which is a modern retelling of the Book of Job. Breughel and Georges de la Tour depicted Job visited by his wife, and William Blake produced an entire cycle of illustrations for the book. Writers Job has inspired or influenced include John Milton (_Samson Agonistes_), Dostoevsky (_The Brothers Karamazov_), Franz Kafka (_The Trial_), Carl Jung (_Answer to Job_), Joseph Roth (_Job_), and Bernard Malamud. Archibald MacLeish's drama, _JB_, one of the most prominent uses of the Book of Job in modern literature, was awarded the Pulitzer Prize in 1959. Job's influence can also be seen in the Coen brothers' 2009 film, _A Serious Man_, which was nominated for two Academy Awards. Terrence Malick's 2011 film _The Tree of Life_, which won the Palme d'Or, is heavily influenced by the themes of the Book of Job, as the film starts with a quote from the beginning of God's speech to Job. A 2014 Malayalam film called "Iyobinte Pusthakam" tells the story of a man who is losing everything in his life and also has parallels with Dostoevsky's (_The Brothers Karamazov_). The Russian film _Leviathan_ also draws themes from the Book of Job. In 2015 two Ukrainian composers Roman Grygoriv and Illia Razumeiko created opera-requiem IYOV. The premiere of the opera was held on 21 September 2015 on the main stage of the international multidisciplinary festival Gogolfest[8]

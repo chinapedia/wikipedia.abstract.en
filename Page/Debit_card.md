@@ -9,8 +9,6 @@ Debit cards usually also allow instant withdrawal of cash, acting as an ATM card
 
 Types of debit card systems
 
-An example of the front of a typical debit card: An example of the reverse side of a typical debit card:
-
 There are currently three ways that debit card transactions are EFTPOS (also known as _online debit_ or _PIN debit_), OFFLINE DEBIT (also known as _signature debit_), and the ELECTRONIC PURSE CARD SYSTEM.[1] One physical card can include the functions of all three types, so that it can be used in a number of different circumstances.
 
 Although the four largest bank card issuers (American Express, Discover Card, MasterCard, and Visa) all offer debit cards, there are many other types of debit card, each accepted only within a particular country or region, for example Switch (now: Maestro) and Solo in the United Kingdom, Interac in Canada, Carte Bleue in France, EC electronic cash (formerly Eurocheque) in Germany, UnionPay in China, RuPay in India and EFTPOS cards in Australia and New Zealand. The need for cross-border compatibility and the advent of the euro recently led to many of these card networks (such as Switzerland's "EC direkt", Austria's "Bankomatkasse", and Switch in the United Kingdom) being re-branded with the internationally recognized Maestro logo, which is part of the MasterCard brand. Some debit cards are dual branded with the logo of the (former) national card as well as Maestro (for example, EC cards in Germany, Switch and Solo in the UK, Pinpas cards in the Netherlands, Bancontact cards in Belgium, etc.). The use of a debit card system allows operators to package their product more effectively while monitoring customer spending.

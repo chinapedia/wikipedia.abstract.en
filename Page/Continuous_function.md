@@ -14,8 +14,6 @@ Real functions
 
 Definition
 
-Function-1_x.svg
-
 A real function, that is a function from real numbers to real numbers can be represented by a graph in the Cartesian plane; such a function is continuous if, roughly speaking, the graph is a single unbroken curve whose domain is the entire real line. A more mathematically rigorous definition is given below.[7]
 
 A rigorous definition of continuity of real functions is usually given in a first course in calculus in terms of the idea of a limit. First, a function with variable is said to be continuous _at the point_ on the real line, if the limit of , as approaches that point , is equal to the value ; and second, the _function (as a whole)_ is said to be _continuous_, if it is continuous at every point. A function is said to be _discontinuous_ (or to have a _discontinuity_) at some point when it is not continuous there. These points themselves are also addressed as _discontinuities_.
@@ -59,11 +57,11 @@ This definition only requires that the domain and the codomain are topological s
 
 Definition in terms of limits of sequences
 
-Continuity_of_the_Exponential_at_0.svg One can instead require that for any sequence (x_(n))_(n ∈ ℕ) of points in the domain which converges to _c_, the corresponding sequence (f(x_(n)))_(n ∈ ℕ) converges to _f_(_c_). In mathematical notation, ∀(x_(n))_(n ∈ ℕ) ⊂ D : lim_(n → ∞)x_(n) = c ⇒ lim_(n → ∞)f(x_(n)) = f(c) .
+One can instead require that for any sequence (x_(n))_(n ∈ ℕ) of points in the domain which converges to _c_, the corresponding sequence (f(x_(n)))_(n ∈ ℕ) converges to _f_(_c_). In mathematical notation, ∀(x_(n))_(n ∈ ℕ) ⊂ D : lim_(n → ∞)x_(n) = c ⇒ lim_(n → ∞)f(x_(n)) = f(c) .
 
 Weierstrass and Jordan definitions (epsilon–delta) of continuous functions
 
-Example_of_continuous_function.svg Explicitly including the definition of the limit of a function, we obtain a self-contained definition: Given a function _f_ : _D_ → _R_ as above and an element _x_₀ of the domain _D_, _f_ is said to be continuous at the point _x_₀ when the following holds: For any number _ε_ > 0, however small, there exists some number _δ_ > 0 such that for all _x_ in the domain of _f_ with _x_₀ − _δ_ < _x_ < _x_₀ + _δ_, the value of _f_(_x_) satisfies
+Explicitly including the definition of the limit of a function, we obtain a self-contained definition: Given a function _f_ : _D_ → _R_ as above and an element _x_₀ of the domain _D_, _f_ is said to be continuous at the point _x_₀ when the following holds: For any number _ε_ > 0, however small, there exists some number _δ_ > 0 such that for all _x_ in the domain of _f_ with _x_₀ − _δ_ < _x_ < _x_₀ + _δ_, the value of _f_(_x_) satisfies
 
 _f_(_x_₀) − _ε_ < _f_(_x_) < _f_(_x_₀) + _ε_.
 
@@ -102,7 +100,7 @@ respectively
 
 Definition using oscillation
 
-Rapid_Oscillation.svg.]] Continuity can also be defined in terms of oscillation: a function _f_ is continuous at a point _x_₀ if and only if its oscillation at that point is zero;[9] in symbols, ω_(f)(x₀) = 0. A benefit of this definition is that it _quantifies_ discontinuity: the oscillation gives how _much_ the function is discontinuous at a point.
+.]] Continuity can also be defined in terms of oscillation: a function _f_ is continuous at a point _x_₀ if and only if its oscillation at that point is zero;[9] in symbols, ω_(f)(x₀) = 0. A benefit of this definition is that it _quantifies_ discontinuity: the oscillation gives how _much_ the function is discontinuous at a point.
 
 This definition is useful in descriptive set theory to study the set of discontinuities and continuous points – the continuous points are the intersection of the sets where the oscillation is less than _ε_ (hence a G_(δ) set) – and gives a very quick proof of one direction of the Lebesgue integrability condition.[10]
 
@@ -118,7 +116,7 @@ Cauchy defined continuity of a function in the following intuitive terms: an inf
 
 Construction of continuous functions
 
-Brent_method_example.svg has no jumps or holes. The function is continuous.]]
+has no jumps or holes. The function is continuous.]]
 
 Checking the continuity of a given function can be simplified by checking one of the above defining properties for the building blocks of the given function. It is straightforward to show that the sum of two functions, continuous on some domain, is also continuous on this domain. Given
 
@@ -141,7 +139,7 @@ Combining the above preservations of continuity and the continuity of constant f
 
 (pictured on the right).
 
-Homografia.svg. The function is not defined for _x_=−2. The vertical and horizontal lines are asymptotes.]]
+. The function is not defined for _x_=−2. The vertical and horizontal lines are asymptotes.]]
 
 In the same way it can be shown that the _reciprocal of a continuous function_
 
@@ -158,8 +156,6 @@ For example, the function (pictured)
 $$y(x) = \frac {2x-1} {x+2}$$
 
 is defined for all real numbers and is continuous at every such point. Thus it is a continuous function. The question of continuity at −2}} does not arise, since −2}} is not in the domain of _y_. There is no continuous function _F_: R → R that agrees with _y_(_x_) for all .
-
-Si_cos.svg
 
 Since the function sine is continuous on all reals, the sinc function _G_(_x_) = sin _x_/_x_, is defined and continuous for all real _x_ ≠ 0. However, unlike the previous example, _G_ _can_ be extended to a continuous function on _all_ real numbers, by _defining_ the value _G_(0) to be 1, which is the limit of _G_(_x_), when _x_ approaches 0, i.e.,
 
@@ -186,7 +182,7 @@ This construction allows stating, for example, that
 
 Examples of discontinuous functions
 
-Discontinuity_of_the_sign_function_at_0.svg).]] An example of a discontinuous function is the Heaviside step function H, defined by
+).]] An example of a discontinuous function is the Heaviside step function H, defined by
 
 $$H(x) = \begin{cases}
 1 & \text{ if } x \ge 0\\
@@ -210,7 +206,7 @@ $$f(x)=\begin{cases}
 \end{cases}$$
 is continuous everywhere apart from x = 0.
 
-Thomae_function_(0,1).svg Besides plausible continuities and discontinuities like above, there are also functions with a behavior, often coined pathological, for example, Thomae's function,
+Besides plausible continuities and discontinuities like above, there are also functions with a behavior, often coined pathological, for example, Thomae's function,
 
 $$f(x)=\begin{cases}
 1   &\text{ if }x=0\\
@@ -266,7 +262,7 @@ is integrable (for example in the sense of the Riemann integral). The converse d
 
 Pointwise and uniform limits
 
-A sequence of continuous functions _f__(_n_)(_x_) whose (pointwise) limit function _f_(_x_) is discontinuous. The convergence is not uniform. Given a sequence
+Given a sequence
 
 $$f_1, f_2, \dotsc \colon I \rightarrow \mathbf R$$
 of functions such that the limit
@@ -312,7 +308,7 @@ for all _x_ in _V_.
 
 Uniform, Hölder and Lipschitz continuity
 
-Lipschitz_continuity.png The concept of continuity for functions between metric spaces can be strengthened in various ways by limiting the way δ depends on ε and _c_ in the definition above. Intuitively, a function _f_ as above is uniformly continuous if the δ does not depend on the point _c_. More precisely, it is required that for every real number _ε_ > 0 there exists _δ_ > 0 such that for every _c_, _b_ ∈ _X_ with _d__(_X_)(_b_, _c_) < _δ_, we have that _d__(_Y_)(_f_(_b_), _f_(_c_)) < _ε_. Thus, any uniformly continuous function is continuous. The converse does not hold in general, but holds when the domain space _X_ is compact. Uniformly continuous maps can be defined in the more general situation of uniform spaces.[12]
+The concept of continuity for functions between metric spaces can be strengthened in various ways by limiting the way δ depends on ε and _c_ in the definition above. Intuitively, a function _f_ as above is uniformly continuous if the δ does not depend on the point _c_. More precisely, it is required that for every real number _ε_ > 0 there exists _δ_ > 0 such that for every _c_, _b_ ∈ _X_ with _d__(_X_)(_b_, _c_) < _δ_, we have that _d__(_Y_)(_f_(_b_), _f_(_c_)) < _ε_. Thus, any uniformly continuous function is continuous. The converse does not hold in general, but holds when the domain space _X_ is compact. Uniformly continuous maps can be defined in the more general situation of uniform spaces.[12]
 
 A function is Hölder continuous with exponent α (a real number) if there is a constant _K_ such that for all _b_ and _c_ in _X_, the inequality
 
@@ -344,7 +340,7 @@ to any topological space _T_ are continuous. On the other hand, if _X_ is equipp
 
 Continuity at a point
 
-continuity_topology.svg The translation in the language of neighborhoods of the (ε, δ)-definition of continuity leads to the following definition of the continuity at a point:
+The translation in the language of neighborhoods of the (ε, δ)-definition of continuity leads to the following definition of the continuity at a point:
 
 This definition is equivalent to the same statement with neighborhoods restricted to open neighborhoods and can be restated in several ways by using preimages rather than images.
 

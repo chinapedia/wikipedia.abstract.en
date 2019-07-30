@@ -34,7 +34,7 @@ Keen to have a greater influence on U.S. foreign policy, Kissinger became foreig
 
 Foreign policy
 
-Sec_of_State_Kissinger.jpg, September 22, 1973. Kissinger's mother, Paula, holds the Bible as President Nixon looks on.]]
+, September 22, 1973. Kissinger's mother, Paula, holds the Bible as President Nixon looks on.]]
 
 Kissinger served as National Security Advisor and Secretary of State under President Richard Nixon, and continued as Secretary of State under Nixon's successor Gerald Ford.[28] On Nixon's last full day in office, in the meeting where he informed Ford of his intention to resign the next day, he advised Ford that he felt it was very important that he keep Kissinger in his new administration, to which Ford agreed.[29]
 
@@ -48,7 +48,7 @@ Kissinger and Nixon shared a penchant for secrecy and conducted numerous "backch
 
 _Détente_ and the opening to China
 
-As National Security Advisor under Nixon, Kissinger pioneered the policy of _détente_ with the Soviet Union, seeking a relaxation in tensions between the two superpowers. As a part of this strategy, he negotiated the Strategic Arms Limitation Talks (culminating in the SALT I treaty) and the Anti-Ballistic Missile Treaty with Leonid Brezhnev, General Secretary of the Soviet Communist Party. Negotiations about strategic disarmament were originally supposed to start under the Johnson Administration but were postponed in protest upon the invasion by Warsaw Pact troops of Czechoslovakia in August 1968. Kissinger_Mao.jpg and Mao Zedong, negotiated rapprochement with the People's Republic of China.]] Kissinger sought to place diplomatic pressure on the Soviet Union. He made two trips to the People's Republic of China in July and October 1971 (the first of which was made in secret) to confer with Premier Zhou Enlai, then in charge of Chinese foreign policy.[36] According to Kissinger's book, "The White House Years" and "On China", the first secret China trip was arranged through Pakistani and Romanian[37] diplomatic and Presidential involvement, as there were no direct communication channels between the states. His trips paved the way for the groundbreaking 1972 summit between Nixon, Zhou, and Communist Party of China Chairman Mao Zedong, as well as the formalization of relations between the two countries, ending 23 years of diplomatic isolation and mutual hostility. The result was the formation of a tacit strategic anti-Soviet alliance between China and the United States.
+As National Security Advisor under Nixon, Kissinger pioneered the policy of _détente_ with the Soviet Union, seeking a relaxation in tensions between the two superpowers. As a part of this strategy, he negotiated the Strategic Arms Limitation Talks (culminating in the SALT I treaty) and the Anti-Ballistic Missile Treaty with Leonid Brezhnev, General Secretary of the Soviet Communist Party. Negotiations about strategic disarmament were originally supposed to start under the Johnson Administration but were postponed in protest upon the invasion by Warsaw Pact troops of Czechoslovakia in August 1968. and Mao Zedong, negotiated rapprochement with the People's Republic of China.]] Kissinger sought to place diplomatic pressure on the Soviet Union. He made two trips to the People's Republic of China in July and October 1971 (the first of which was made in secret) to confer with Premier Zhou Enlai, then in charge of Chinese foreign policy.[36] According to Kissinger's book, "The White House Years" and "On China", the first secret China trip was arranged through Pakistani and Romanian[37] diplomatic and Presidential involvement, as there were no direct communication channels between the states. His trips paved the way for the groundbreaking 1972 summit between Nixon, Zhou, and Communist Party of China Chairman Mao Zedong, as well as the formalization of relations between the two countries, ending 23 years of diplomatic isolation and mutual hostility. The result was the formation of a tacit strategic anti-Soviet alliance between China and the United States.
 
 While Kissinger's diplomacy led to economic and cultural exchanges between the two sides and the establishment of Liaison Offices in the Chinese and American capitals, with serious implications for Indochinese matters, full normalization of relations with the People's Republic of China would not occur until 1979, because the Watergate scandal overshadowed the latter years of the Nixon presidency and because the United States continued to recognize the Republic of China on Taiwan.
 
@@ -56,15 +56,13 @@ In September 1989, the Wall Street Journal's John Fialka disclosed that Kissinge
 
 Vietnam War
 
-Meeting_at_Camp_David_to_discuss_the_Vietnam_situation_-_NARA_-_194466.tif discussing the Vietnam situation in Camp David, 1972.]] Kissinger's involvement in Indochina started prior to his appointment as National Security Adviser to Nixon. While still at Harvard, he had worked as a consultant on foreign policy to both the White House and State Department. Kissinger says that "In August 1965 ... [Henry Cabot Lodge, Jr.], an old friend serving as Ambassador to Saigon, had asked me to visit Vietnam as his consultant. I toured Vietnam first for two weeks in October and November 1965, again for about ten days in July 1966, and a third time for a few days in October 1966 ... Lodge gave me a free hand to look into any subject of my choice". He became convinced of the meaninglessness of military victories in Vietnam, "... unless they brought about a political reality that could survive our ultimate withdrawal".[39] In a 1967 peace initiative, he would mediate between Washington and Hanoi.
+discussing the Vietnam situation in Camp David, 1972.]] Kissinger's involvement in Indochina started prior to his appointment as National Security Adviser to Nixon. While still at Harvard, he had worked as a consultant on foreign policy to both the White House and State Department. Kissinger says that "In August 1965 ... [Henry Cabot Lodge, Jr.], an old friend serving as Ambassador to Saigon, had asked me to visit Vietnam as his consultant. I toured Vietnam first for two weeks in October and November 1965, again for about ten days in July 1966, and a third time for a few days in October 1966 ... Lodge gave me a free hand to look into any subject of my choice". He became convinced of the meaninglessness of military victories in Vietnam, "... unless they brought about a political reality that could survive our ultimate withdrawal".[39] In a 1967 peace initiative, he would mediate between Washington and Hanoi.
 
 Nixon had been elected in 1968 on the promise of achieving "peace with honor" and ending the Vietnam War. In office, and assisted by Kissinger, Nixon implemented a policy of Vietnamization that aimed to gradually withdraw U.S. troops while expanding the combat role of the South Vietnamese Army so that it would be capable of independently defending its government against the National Front for the Liberation of South Vietnam, a Communist guerrilla organization, and the North Vietnamese army (Vietnam People's Army or PAVN). Kissinger played a key role in bombing Cambodia to disrupt PAVN and Viet Cong units launching raids into South Vietnam from within Cambodia's borders and resupplying their forces by using the Ho Chi Minh trail and other routes, as well as the 1970 Cambodian Incursion and subsequent widespread bombing of Khmer Rouge targets in Cambodia. The bombing campaign contributed to the chaos of the Cambodian Civil War, which saw the forces of leader Lon Nol unable to retain foreign support to combat the growing Khmer Rouge insurgency that would overthrow him in 1975.[40][41] Documents uncovered from the Soviet archives after 1991 reveal that the North Vietnamese invasion of Cambodia in 1970 was launched at the explicit request of the Khmer Rouge and negotiated by Pol Pot's then second in command, Nuon Chea.[42] The American bombing of Cambodia resulted in 40,000[43]–150,000[44] deaths from 1969 to 1973, including at least 5,000 civilians.[45] Pol Pot biographer David P. Chandler argues that the bombing "had the effect the Americans wanted—it broke the Communist encirclement of Phnom Penh."[46] However, Ben Kiernan and Taylor Owen suggest that "the bombs drove ordinary Cambodians into the arms of the Khmer Rouge, a group that seemed initially to have slim prospects of revolutionary success."[47] Kissinger himself defers to others on the subject of casualty estimates. "...since I am in no position to make an accurate estimate of my own, I consulted the OSD Historian, who gave me an estimate of 50,000 based on the tonnage of bombs delivered over the period of four and a half years."[48][49]
 
 Along with North Vietnamese Politburo Member Le Duc Tho, Kissinger was awarded the Nobel Peace Prize on December 10, 1973, for their work in negotiating the ceasefires contained in the Paris Peace Accords on "Ending the War and Restoring Peace in Vietnam", signed the previous January.[50] According to Irwin Abrams, this prize was the most controversial to date. For the first time in the history of the Peace Prize, two members left the Nobel Committee in protest.[51][52] Tho rejected the award, telling Kissinger that peace had not been restored in South Vietnam.[53] Kissinger wrote to the Nobel Committee that he accepted the award "with humility,"[54][55] and "donated the entire proceeds to the children of American servicemembers killed or missing in action in Indochina."[56] After the Fall of Saigon in 1975, Kissinger attempted to return the award.[57][58]
 
 Bangladesh War
-
-Henry_Kissinger.png
 
 Under Kissinger's guidance, the United States government supported Pakistan in the Bangladesh Liberation War in 1971. Kissinger was particularly concerned about the expansion of Soviet influence in the Indian Subcontinent as a result of a treaty of friendship recently signed by India and the USSR, and sought to demonstrate to the People's Republic of China (Pakistan's ally and an enemy of both India and the USSR) the value of a tacit alliance with the United States.[59][60][61]
 
@@ -74,8 +72,6 @@ Henry Kissinger had also come under fire for private comments he made to Nixon d
 
 Israeli policy and Soviet Jewry
 
-President_Nixon,_Henry_Kissinger_and_Israeli_Prime_Minister_Golda_Meir,_meeting_in_the_Oval_Office_1973.gif
-
 According to notes taken by H.R. Haldeman, Nixon "ordered his aides to exclude all Jewish-Americans from policy-making on Israel", including Kissinger.[68] One note quotes Nixon as saying "get K. [Kissinger] out of the play—Haig handle it".[69]
 
 In 1973, Kissinger did not feel that pressing the Soviet Union concerning the plight of Jews being persecuted there was in the interest of U.S. foreign policy. In conversation with Nixon shortly after a meeting with Israeli Prime Minister Golda Meir on March 1, 1973, Kissinger stated, "The emigration of Jews from the Soviet Union is not an objective of American foreign policy, and if they put Jews into gas chambers in the Soviet Union, it is not an American concern. Maybe a humanitarian concern."[70] Kissinger argued, however:
@@ -84,7 +80,7 @@ In 1973, Kissinger did not feel that pressing the Soviet Union concerning the pl
 
 Documents show that Kissinger delayed telling President Richard Nixon about the start of the Yom Kippur War in 1973 to keep him from interfering. On October 6, 1973, the Israelis informed Kissinger about the attack at 6 am; Kissinger waited nearly 3 and a half hours before he informed Nixon.[71]
 
-Nixon_and_Kissinger.png (left) meets with Richard Nixon (middle) and Henry Kissinger (right), about a week after the end of fighting in the Yom Kippur War.]] According to Kissinger, in an interview in November 2013, he was notified at 6:30 a.m. (12:30 pm. Israel time) that war was imminent, and his urgent calls to the Soviets and Egyptians were ineffective. He says Golda Meir's decision not to preempt was wise and reasonable, balancing the risk of Israel looking like the aggressor and Israel's actual ability to strike within such a brief span of time.[72]
+(left) meets with Richard Nixon (middle) and Henry Kissinger (right), about a week after the end of fighting in the Yom Kippur War.]] According to Kissinger, in an interview in November 2013, he was notified at 6:30 a.m. (12:30 pm. Israel time) that war was imminent, and his urgent calls to the Soviets and Egyptians were ineffective. He says Golda Meir's decision not to preempt was wise and reasonable, balancing the risk of Israel looking like the aggressor and Israel's actual ability to strike within such a brief span of time.[72]
 
 The war began on October 6, 1973, when Egypt and Syria attacked Israel. Kissinger published lengthy telephone transcripts from this period in the 2002 book _Crisis_. On October 12, under Nixon's direction, and against Kissinger's initial advice,[73] while Kissinger was on his way to Moscow to discuss conditions for a cease-fire, Nixon sent a message to Brezhnev giving Kissinger full negotiating authority.[74]
 
@@ -104,7 +100,7 @@ Some years later, Kissinger expressed the opinion that the Cyprus issue was reso
 
 Latin American policy
 
-Ford_and_Kissinger_conversing,_on_grounds_of_White_House,_16_Aug_1974.jpg grounds, August 1974]] The United States continued to recognize and maintain relationships with non-left-wing governments, democratic and authoritarian alike. John F. Kennedy's Alliance for Progress was ended in 1973. In 1974, negotiations over a new settlement for the Panama Canal began, and they eventually led to the Torrijos-Carter Treaties and the handing over of the Canal to Panamanian control.
+grounds, August 1974]] The United States continued to recognize and maintain relationships with non-left-wing governments, democratic and authoritarian alike. John F. Kennedy's Alliance for Progress was ended in 1973. In 1974, negotiations over a new settlement for the Panama Canal began, and they eventually led to the Torrijos-Carter Treaties and the handing over of the Canal to Panamanian control.
 
 Kissinger initially supported the normalization of United States-Cuba relations, broken since 1961 (all U.S.–Cuban trade was blocked in February 1962, a few weeks after the exclusion of Cuba from the Organization of American States because of U.S. pressure). However, he quickly changed his mind and followed Kennedy's policy. After the involvement of the Cuban Revolutionary Armed Forces in the independence struggles in Angola and Mozambique, Kissinger said that unless Cuba withdrew its forces relations would not be normalized. Cuba refused.
 
@@ -114,7 +110,7 @@ Chilean Socialist Party presidential candidate Salvador Allende was elected by a
 
 United States-Chile relations remained frosty during Salvador Allende's tenure, following the complete nationalization of the partially U.S.-owned copper mines and the Chilean subsidiary of the U.S.-based ITT Corporation, as well as other Chilean businesses. The U.S. claimed that the Chilean government had greatly undervalued fair compensation for the nationalization by subtracting what it deemed "excess profits". Therefore, the U.S. implemented economic sanctions against Chile. The CIA also provided funding for the mass anti-government strikes in 1972 and 1973, and extensive black propaganda in the newspaper _El Mercurio_.[86]
 
-Reunión_Pinochet_-_Kissinger.jpg, January 1976]]
+, January 1976]]
 
 The most expeditious way to prevent Allende from assuming office was somehow to convince the Chilean congress to confirm Jorge Alessandri as the winner of the election. Once elected by the congress, Alessandri—a party to the plot through intermediaries—was prepared to resign his presidency within a matter of days so that new elections could be held. This first, nonmilitary, approach to stopping Allende was called the Track I approach.[87] The CIA's second approach, the Track II approach, was designed to encourage a military overthrow.[88]
 
@@ -142,7 +138,7 @@ In September 1976 Kissinger was actively involved in negotiations regarding the 
 
 East Timor
 
-Kissinger,_Ford,_Suharto_and_Malik_(cropped).jpg with Gerald Ford and Kissinger in Jakarta on 6 December 1975, one day before the Indonesian invasion of East Timor.]] The Portuguese decolonization process brought U.S. attention to the former Portuguese colony of East Timor, which lies within the Indonesian archipelago and declared its independence in 1975. Indonesian president Suharto was a strong U.S. ally in Southeast Asia and began to mobilize the Indonesian army, preparing to annex the nascent state, which had become increasingly dominated by the popular leftist Fretilin party. In December 1975, Suharto discussed the invasion plans during a meeting with Kissinger and President Ford in the Indonesian capital of Jakarta. Both Ford and Kissinger made clear that U.S. relations with Indonesia would remain strong and that it would not object to the proposed annexation.[115] They only wanted it done "fast" and proposed that it be delayed until after they had returned to Washington.[116] Accordingly, Suharto delayed the operation for one day. Finally on December 7 Indonesian forces invaded the former Portuguese colony. U.S. arms sales to Indonesia continued, and Suharto went ahead with the annexation plan. According to Ben Kiernan, the invasion and occupation resulted in the deaths of nearly a quarter of the Timorese population from 1975 to 1981.[117]
+with Gerald Ford and Kissinger in Jakarta on 6 December 1975, one day before the Indonesian invasion of East Timor.]] The Portuguese decolonization process brought U.S. attention to the former Portuguese colony of East Timor, which lies within the Indonesian archipelago and declared its independence in 1975. Indonesian president Suharto was a strong U.S. ally in Southeast Asia and began to mobilize the Indonesian army, preparing to annex the nascent state, which had become increasingly dominated by the popular leftist Fretilin party. In December 1975, Suharto discussed the invasion plans during a meeting with Kissinger and President Ford in the Indonesian capital of Jakarta. Both Ford and Kissinger made clear that U.S. relations with Indonesia would remain strong and that it would not object to the proposed annexation.[115] They only wanted it done "fast" and proposed that it be delayed until after they had returned to Washington.[116] Accordingly, Suharto delayed the operation for one day. Finally on December 7 Indonesian forces invaded the former Portuguese colony. U.S. arms sales to Indonesia continued, and Suharto went ahead with the annexation plan. According to Ben Kiernan, the invasion and occupation resulted in the deaths of nearly a quarter of the Timorese population from 1975 to 1981.[117]
 
 Cuba
 
@@ -151,7 +147,7 @@ In February 1976 Kissinger considered launching air strikes against ports and mi
 
 Later roles
 
-Reagan_with_Henry_Kissinger.jpg in the White House family quarters, 1981]]
+in the White House family quarters, 1981]]
 
 Kissinger left office when Democrat Jimmy Carter defeated Republican Gerald Ford in the 1976 presidential elections. Kissinger continued to participate in policy groups, such as the Trilateral Commission, and to maintain political consulting, speaking, and writing engagements.
 
@@ -167,7 +163,7 @@ In November 2002, he was appointed by President George W. Bush to chair the newl
 
 In the Rio Tinto espionage case of 2009–2010, Kissinger was paid $5 million to advise the multinational mining company how to distance itself from an employee who had been arrested in China for bribery.[130]
 
-President_Trump_Meets_with_Henry_Kissinger_(33787724293).jpg meeting with Kissinger on May 10, 2017]]
+meeting with Kissinger on May 10, 2017]]
 
 Kissinger—along with William Perry, Sam Nunn, and George Shultz—has called upon governments to embrace the vision of a world free of nuclear weapons, and in three _Wall Street Journal_ op-eds proposed an ambitious program of urgent steps to that end. The four have created the Nuclear Threat Initiative to advance this agenda. In 2010, the four were featured in a documentary film entitled "Nuclear Tipping Point". The film is a visual and historical depiction of the ideas laid forth in the _Wall Street Journal_ op-eds and reinforces their commitment to a world without nuclear weapons and the steps that can be taken to reach that goal.
 
@@ -181,7 +177,7 @@ Views on U.S. foreign policy
 
 Yugoslav wars
 
-White_House_meeting_about_New_START_Treaty.jpg discussing the New START Treaty between the U.S. and Russia, 2010]]
+discussing the New START Treaty between the U.S. and Russia, 2010]]
 
 In several articles of his and interviews that he gave during the Yugoslav wars, he criticized the United States' policies in Southeast Europe, among other things for the recognition of Bosnia and Herzegovina as a sovereign state, which he described as a foolish act.[137] Most importantly he dismissed the notion of Serbs and Croats being aggressors or separatist, saying that "they can't be separating from something that has never existed".[138] In addition, he repeatedly warned the West against inserting itself into a conflict that has its roots at least hundreds of years back in time, and said that the West would do better if it allowed the Serbs and Croats to join their respective countries.[139] Kissinger shared similarly critical views on Western involvement in Kosovo. In particular, he held a disparaging view of the Rambouillet Agreement:
 
@@ -189,7 +185,7 @@ However, as the Serbs did not accept the Rambouillet text and NATO bombings star
 
 Iraq
 
-Kissinger_speaking_during_Ford's_funeral.jpg's funeral in January 2007]]
+'s funeral in January 2007]]
 
 In 2006, it was reported in the book _State of Denial_ by Bob Woodward that Kissinger met regularly with President George W. Bush and Vice President Dick Cheney to offer advice on the Iraq War.[141] Kissinger confirmed in recorded interviews with Woodward[142] that the advice was the same as he had given in a column in _The Washington Post_ on August 12, 2005: "Victory over the insurgency is the only meaningful exit strategy."[143]
 
@@ -203,7 +199,7 @@ Kissinger said in April 2008 that "India has parallel objectives to the United S
 
 China
 
-WDK_6198_07.JPG and Kissinger were at the state funeral for former German Chancellor Helmut Schmidt, November 23, 2015]]
+and Kissinger were at the state funeral for former German Chancellor Helmut Schmidt, November 23, 2015]]
 
 Kissinger was present at the opening ceremony of the 2008 Beijing Summer Olympics.[148]
 
@@ -216,8 +212,6 @@ Iran
 Kissinger's position on this issue of U.S.–Iran talks was reported by the _Tehran Times_ to be that "Any direct talks between the U.S. and Iran on issues such as the nuclear dispute would be most likely to succeed if they first involved only diplomatic staff and progressed to the level of secretary of state before the heads of state meet."[153] In 2016, Kissinger said that the biggest challenge facing the Middle East is the "potential domination of the region by an Iran that is both imperial and jihadist." He further wrote in August 2017 that if the Islamic Revolutionary Guard Corps of Iran and its Shiite allies were allowed to fill the territorial vacuum left by a militarily defeated Islamic State of Iraq and the Levant, the region would be left with a land corridor extending from Iran to the Levant "which could mark the emergence of an Iranian radical empire."[154] Commenting on the Joint Comprehensive Plan of Action, Kissinger said that he wouldn't have agreed to it, but that Trump's plan to end the agreement after it was signed would "enable the Iranians to do more than us."[155]
 
 2014 Ukrainian crisis
-
-DIG13877_jjg-318.jpg
 
 On March 5, 2014, _The Washington Post_ published an op-ed piece by Kissinger, 11 days before the Crimean referendum on whether Autonomous Republic of Crimea should officially rejoin Ukraine or join neighboring Russia.[156] In it, he attempted to balance the Ukrainian, Russian and Western desires for a functional state. He made four main points:
 
@@ -237,7 +231,7 @@ When asked if he explicitly considered Russia's sovereignty over Crimea legitima
 
 Public perception
 
-At the height of Kissinger's prominence, many commented on his wit. In February 1972, at the Washington Press Club annual congressional dinner, "Kissinger mocked his reputation as a secret swinger."[162] The insight, "Power is the ultimate aphrodisiac", is widely attributed to him, although Kissinger was paraphrasing Napoleon Bonaparte.[163] Some scholars have ranked Kissinger as the most effective U.S. Secretary of State in the 50 years to 2015.[164] A number of activists and human rights lawyers, however, have sought his prosecution for alleged war crimes.[165][166] According to historian and Kissinger biographer Niall Ferguson, however, accusing Kissinger alone of war crimes "requires a double standard" because "nearly all the secretaries of state ... and nearly all the presidents" have taken similar actions.[167] Former_Secretary_Powell,_Canadian_Prime_Minister_Trudeau,_Secretary_Kerry,_and_Former_Secretary_Kissinger_Chat_at_the_State_Luncheon_in_Honor_of_the_Prime_Minister_(25050276164).jpg, Canadian Prime Minister Justin Trudeau, Secretary of State John Kerry, and Kissinger in March 2016]]
+At the height of Kissinger's prominence, many commented on his wit. In February 1972, at the Washington Press Club annual congressional dinner, "Kissinger mocked his reputation as a secret swinger."[162] The insight, "Power is the ultimate aphrodisiac", is widely attributed to him, although Kissinger was paraphrasing Napoleon Bonaparte.[163] Some scholars have ranked Kissinger as the most effective U.S. Secretary of State in the 50 years to 2015.[164] A number of activists and human rights lawyers, however, have sought his prosecution for alleged war crimes.[165][166] According to historian and Kissinger biographer Niall Ferguson, however, accusing Kissinger alone of war crimes "requires a double standard" because "nearly all the secretaries of state ... and nearly all the presidents" have taken similar actions.[167] , Canadian Prime Minister Justin Trudeau, Secretary of State John Kerry, and Kissinger in March 2016]]
 
 Kissinger was interviewed in _Back Door Channels: The Price of Peace_, a documentary examining the underpinnings of the 1979 peace treaty between Israel and Egypt.[168]
 
@@ -250,7 +244,7 @@ Kissinger's record was brought up during the 2016 Democratic Party presidential 
 
 Family and personal life
 
-Henry_and_Nancy_Kissinger.jpg at the Metropolitan Opera opening in 2008]]
+at the Metropolitan Opera opening in 2008]]
 
 Kissinger married Ann Fleischer on February 6, 1949. They had two children, Elizabeth and David, and divorced in 1964. On March 30, 1974, he married Nancy Maginnes.[182][183] They now live in Kent, Connecticut, and in New York City. Kissinger's son David Kissinger served as an executive with NBCUniversal before becoming head of Conaco, Conan O'Brien's production company.[184] In February 1982, Kissinger underwent coronary bypass surgery at the age of 58.
 
@@ -269,9 +263,9 @@ Awards, honors, and associations
 -   In 1973, Kissinger received the U.S. Senator John Heinz Award for Greatest Public Service by an Elected or Appointed Official, an award given out annually by Jefferson Awards.[191]
 -   In 1976, Kissinger became the first honorary member of the Harlem Globetrotters.[192][193]
 
-Henry_Kissinger_at_the_LBJ_Library_(2016).jpg in 2016]]
+in 2016]]
 
--   On January 13, 1977, Kissinger received the Presidential Medal of Freedom from President Gerald Ford.President_Ford_informally_concludes_the_Vladivostok_Summit_-_NARA_-_7062568.jpg, and Kissinger speaking informally at the Vladivostok Summit in 1974]]
+-   On January 13, 1977, Kissinger received the Presidential Medal of Freedom from President Gerald Ford., and Kissinger speaking informally at the Vladivostok Summit in 1974]]
 -   In 1980, Kissinger won the National Book Award in History[194] for the first volume of his memoirs, _The White House Years_.[195]
 -   In 1986, Kissinger was one of twelve recipients of the Medal of Liberty.
 -   In 1995, he was made an honorary Knight Commander of the Most Distinguished Order of St Michael and St George.[196]

@@ -7,7 +7,7 @@ The historian of religion Olav Hammer has termed anthroposophy "the most importa
 
 History
 
-Steiner_um_1905.jpg]]
+]]
 
 The early work of the founder of anthroposophy, Rudolf Steiner, culminated in his _Philosophy of Freedom_ (also translated as _The Philosophy of Spiritual Activity_ and _Intuitive Thinking as a Spiritual Path_). Here, Steiner developed a concept of free will based on inner experiences, especially those that occur in the creative activity of independent thought.[23]
 
@@ -17,7 +17,7 @@ By 1907, a split between Steiner and the Theosophical Society became apparent. W
 
 By this time, Steiner, had reached considerable stature as a spiritual teacher and expert in the occult.[28] He spoke about what he considered to be his direct experience of the Akashic Records (sometimes called the "Akasha Chronicle"), thought to be a spiritual chronicle of the history, pre-history, and future of the world and mankind. In a number of works,[29] Steiner described a path of inner development he felt would let anyone attain comparable spiritual experiences. In Steiner's view, sound vision could be developed, in part, by practicing rigorous forms of ethical and cognitive self-discipline, concentration, and meditation. In particular, Steiner believed a person's spiritual development could only occur after a period of moral development.[30]
 
-Goetheanum_Dornach.jpg, seat of the Anthroposophical Society]] In 1912, the Anthroposophical Society was founded. After World War I, the Anthroposophical movement took on new directions. Followers of Steiner's ideas soon began applying them to create counter-cultural movements in traditional and special education, farming, and medicine.[31][32]
+, seat of the Anthroposophical Society]] In 1912, the Anthroposophical Society was founded. After World War I, the Anthroposophical movement took on new directions. Followers of Steiner's ideas soon began applying them to create counter-cultural movements in traditional and special education, farming, and medicine.[31][32]
 
 By 1923, a schism had formed between older members focused on inner development and younger members eager to become active in contemporary social transformations. In response, Steiner attempted to bridge the gap by establishing an overall School for _Spiritual Science_. As a spiritual basis for the reborn movement, Steiner wrote a "Foundation Stone Meditation" which remains a central touchstone of anthroposophical ideas.
 
@@ -29,7 +29,7 @@ Etymology and earlier uses of the word
 
 _Anthroposophy_ is an amalgam of the Greek terms (_anthropos_ = "human") and (_sophia_ = "wisdom"). An early English usage is recorded by Nathan Bailey (1742) as meaning "the knowledge of the nature of man."[40]
 
-Troxler_Portrait_1830.jpg The first known use of the term _anthroposophy_ occurs within _Arbatel de magia veterum, summum sapientiae studium_, a book published anonymously in 1575 and attributed to Heinrich Cornelius Agrippa. The work describes anthroposophy (as well as theosophy) variously as an understanding of goodness, nature, or human affairs. In 1648, the Welsh philosopher Thomas Vaughan published his _Anthroposophia Theomagica, or a discourse of the nature of man and his state after death._ [41]
+The first known use of the term _anthroposophy_ occurs within _Arbatel de magia veterum, summum sapientiae studium_, a book published anonymously in 1575 and attributed to Heinrich Cornelius Agrippa. The work describes anthroposophy (as well as theosophy) variously as an understanding of goodness, nature, or human affairs. In 1648, the Welsh philosopher Thomas Vaughan published his _Anthroposophia Theomagica, or a discourse of the nature of man and his state after death._ [41]
 
 The term began to appear with some frequency in philosophical works of the mid- and late-nineteenth century.[42] In the early part of that century, Ignaz Troxler used the term "anthroposophy" to refer to philosophy deepened to self-knowledge, which he suggested allows deeper knowledge of nature as well. He spoke of human nature as a mystical unity of God and world. Immanuel Hermann Fichte used the term _anthroposophy_ to refer to "rigorous human self-knowledge," achievable through thorough comprehension of the human spirit and of the working of God in this spirit, in his 1856 work _Anthropology: The Study of the Human Soul_. In 1872, the philosopher of religion Gideon Spicker used the term _anthroposophy_ to refer to self-knowledge that would unite God and world: "the true study of the human being is the human being, and philosophy's highest aim is self-knowledge, or Anthroposophy." [43]
 
@@ -50,7 +50,7 @@ Steiner contrasted the anthroposophical approach with both conventional mysticis
 
 Nature of the human being
 
-Representative_of_humanity.gif.[51]]]
+.[51]]]
 
 In _Theosophy_, Steiner suggested that human beings unite a physical body of substances gathered from (and that ultimately return to) the inorganic world; a life body (also called the etheric body), in common with all living creatures (including plants); a bearer of sentience or consciousness (also called the astral body), in common with all animals; and the ego, which anchors the faculty of self-awareness unique to human beings.
 
@@ -75,7 +75,7 @@ Each human being has the task to find a balance between these opposing influence
 
 Applications
 
-Flowform_Vortex_Garten_Darmstadt.jpg, Germany]] The applications of anthroposophy to practical fields include:
+, Germany]] The applications of anthroposophy to practical fields include:
 
 Steiner/Waldorf education
 
@@ -99,7 +99,7 @@ In 1922, Ita Wegman founded an anthroposophical center for special needs educati
 
 Architecture
 
-First_Goetheanum.jpg, designed by Steiner in 1920, Dornach, Switzerland.]] Steiner designed around thirteen buildings in an organic—expressionist architectural style.[82][83] Foremost among these are his designs for the two Goetheanum buildings in Dornach, Switzerland. Thousands of further buildings have been built by later generations of anthroposophic architects.[84][85]
+, designed by Steiner in 1920, Dornach, Switzerland.]] Steiner designed around thirteen buildings in an organic—expressionist architectural style.[82][83] Foremost among these are his designs for the two Goetheanum buildings in Dornach, Switzerland. Thousands of further buildings have been built by later generations of anthroposophic architects.[84][85]
 
 Architects who have been strongly influenced by the anthroposophic style include Imre Makovecz in Hungary,[86] Hans Scharoun and Joachim Eble in Germany, Erik Asmussen in Sweden, Kenji Imai in Japan, Thomas Rau, Anton Alberts and Max van Huut in the Netherlands, Christopher Day and Camphill Architects in the UK, Thompson and Rose in America, Denis Bowman in Canada, and Walter Burley Griffin[87] and Gregory Burgess in Australia.[88][89][90] ING House in Amsterdam is a contemporary building by an anthroposophical architect which has received awards for its ecological design and approach to a self-sustaining ecology as an autonomous building and example of sustainable architecture.[91]
 

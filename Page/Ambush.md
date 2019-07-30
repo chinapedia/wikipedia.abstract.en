@@ -1,4 +1,4 @@
-Bac_Le_Ambush.jpeg: French marine infantry deploy beneath the Nui Đồng Nai cliffs in 1884]] Destruction_de_l'armée_de_Braddock_en_1755.jpg's troops ambushed and decimated by the French and Indians in 1755]] Charles_Bell_-_Zoeloe-aanval_op_'n_Boerelaer_-_1838.jpg on a Boer camp in February 1838]] THE_RETREAT_FROM_AFGHANISTAN,_1842..gif during the First Anglo-Afghan War in 1842]] Polish_ambush_during_the_January_Uprising.png during the January Uprising]] An AMBUSH is a long-established military tactic in which combatants take advantage of concealment and the element of surprise to attack unsuspecting enemy combatants from concealed positions, such as among dense underbrush or behind hilltops. Ambushes have been used consistently throughout history, from ancient to modern warfare. In the 20th century, an ambush might involve thousands of soldiers on a large scale, such as over a choke point such as a mountain pass, or a small irregular band or insurgent group attacking a regular armed force patrol. Theoretically, a single well-armed and concealed soldier could ambush other troops in a surprise attack.
+: French marine infantry deploy beneath the Nui Đồng Nai cliffs in 1884]] 's troops ambushed and decimated by the French and Indians in 1755]] on a Boer camp in February 1838]] during the First Anglo-Afghan War in 1842]] during the January Uprising]] An AMBUSH is a long-established military tactic in which combatants take advantage of concealment and the element of surprise to attack unsuspecting enemy combatants from concealed positions, such as among dense underbrush or behind hilltops. Ambushes have been used consistently throughout history, from ancient to modern warfare. In the 20th century, an ambush might involve thousands of soldiers on a large scale, such as over a choke point such as a mountain pass, or a small irregular band or insurgent group attacking a regular armed force patrol. Theoretically, a single well-armed and concealed soldier could ambush other troops in a surprise attack.
 
 
 History
@@ -24,7 +24,7 @@ In modern warfare, an ambush is most often employed by ground troops up to plato
 
 Planning
 
-Ambush.gif Ambush_L_shaped.png Ambushes are complex multi-phase operations and are therefore usually planned in some detail. First, a suitable killing zone is identified. This is the place where the ambush will be laid. It is generally a place where enemy units are expected to pass, and which gives reasonable cover for the deployment, execution and extraction phases of the ambush patrol. A path along a wooded valley floor would be a typical example.
+Ambushes are complex multi-phase operations and are therefore usually planned in some detail. First, a suitable killing zone is identified. This is the place where the ambush will be laid. It is generally a place where enemy units are expected to pass, and which gives reasonable cover for the deployment, execution and extraction phases of the ambush patrol. A path along a wooded valley floor would be a typical example.
 
 Ambush can be described geometrically as:
 
@@ -33,8 +33,6 @@ Ambush can be described geometrically as:
 -   V-SHAPED, when the firing units are distant from the kill zone at the end where the enemy enters, so the firing units lay down bands of intersecting and interlocking fire. This ambush is normally triggered only when the enemy is well into the kill zone. The intersecting bands of fire prevent any attempt of moving out of the kill zone.[5]
 
 Viet Cong ambush techniques
-
-vchelicopterfight2.jpg
 
 AMBUSH CRITERIA: The terrain for the ambush had to meet strict criteria:
 

@@ -1,5 +1,3 @@
-West_Memphis_Three_Mugshot.jpg
-
 The WEST MEMPHIS THREE are three men known for being convicted as teenagers in 1994, of the 1993 murders of three boys in West Memphis, Arkansas. DAMIEN ECHOLS was sentenced to death, JESSIE MISSKELLEY, JR. to life imprisonment plus two 20-year sentences, and JASON BALDWIN to life imprisonment. During the trial, the prosecution asserted that the juveniles killed the children as part of a Satanic ritual.[1][2][3]
 
 The case generated widespread controversy and was the subject of a number of documentaries that explored its elements. Celebrities and musicians have held fundraisers to support efforts to free the men, who they believe are innocent of the charges.[4]
@@ -26,7 +24,7 @@ Byers was the only victim with drugs in his system; he was prescribed Ritalin (m
 
 Victims
 
-Grave_of_Steve_Edward_Branch_Mount_Zion_Cemetery_Steele_MO_2013-05-11_001.jpg Grave_of_Christopher_Mark_Byers_Forest_HIll_East_Cemetery_Memphis_TN_2013-05-06_001.jpg Grave_of_James_Michael_Moore_Crittenden_Memorial_Park_Cemetery_Marion_AR_2013-05-06_006.JPG West_Memphis_3_Memorial_at_Weaver_Elementary_School_West_Memphis_AR_2013-04-28_005.jpg Stevie Edward Branch, Christopher Byers, and Michael Moore, were all second graders at Weaver Elementary School. Each had achieved the rank of "Wolf" in the local Cub Scout pack, and they were best friends.[19]
+Stevie Edward Branch, Christopher Byers, and Michael Moore, were all second graders at Weaver Elementary School. Each had achieved the rank of "Wolf" in the local Cub Scout pack, and they were best friends.[19]
 
 Steve Edward Branch
 
@@ -122,7 +120,7 @@ Aftermath
 
 Criticism of the investigation
 
-Free_the_West_Memphis_Three.jpg There has been widespread criticism of how the police handled the crime scene.[69] Misskelley's former attorney Dan Stidham cites multiple substantial police errors at the crime scene, characterizing it as "literally trampled, especially the creek bed." The bodies, he said, had been removed from the water before the coroner arrived to examine the scene and determine the state of rigor mortis, allowing the bodies to decay on the creek bank and to be exposed to sunlight and insects. The police did not telephone the coroner until almost two hours after the discovery of the floating shoe, resulting in a late appearance by the coroner. Officials failed to drain the creek in a timely manner and secure possible evidence in the water (the creek was sandbagged after the bodies were pulled from the water).
+There has been widespread criticism of how the police handled the crime scene.[69] Misskelley's former attorney Dan Stidham cites multiple substantial police errors at the crime scene, characterizing it as "literally trampled, especially the creek bed." The bodies, he said, had been removed from the water before the coroner arrived to examine the scene and determine the state of rigor mortis, allowing the bodies to decay on the creek bank and to be exposed to sunlight and insects. The police did not telephone the coroner until almost two hours after the discovery of the floating shoe, resulting in a late appearance by the coroner. Officials failed to drain the creek in a timely manner and secure possible evidence in the water (the creek was sandbagged after the bodies were pulled from the water).
 
 Moreover, Stidham calls the coroner's investigation "extremely substandard." There was a small amount of blood found at the scene that was never tested. According to HBO's documentaries _Paradise Lost: The Child Murders at Robin Hood Hills_ (1996) and _Paradise Lost 2: Revelations_ (2000), no blood was found at the crime scene, indicating that the location where the bodies were found was not necessarily the location where the murders actually happened. After the initial investigation, the police failed to control disclosure of information and speculation about the crime scene.[70]
 
@@ -256,7 +254,7 @@ On August 19, 2011, Echols, along with Baldwin and Misskelley, entered an Alford
 
 Aftermath
 
-Damien_echols_2012.jpg]] Echols relocated to Salem, Massachusetts with his wife and has no intentions of returning to Arkansas. In an interview with Piers Morgan, he said that he would like to have a career in writing and visual arts.[154]
+]] Echols relocated to Salem, Massachusetts with his wife and has no intentions of returning to Arkansas. In an interview with Piers Morgan, he said that he would like to have a career in writing and visual arts.[154]
 
 Media projects
 

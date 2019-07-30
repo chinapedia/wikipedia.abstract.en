@@ -1,5 +1,3 @@
-Grímnir_and_Agnar_by_George_Wright.jpg
-
 _GRÍMNISMÁL'' (_SAYINGS OF GRÍMNIR'') is one of the mythological poems of the Poetic Edda. It is preserved in the Codex Regius manuscript and the AM 748 I 4to fragment. It is spoken through the voice of _Grímnir_, one of the many guises of the god Odin. The very name suggests guise, or mask or hood. Through an error, King Geirröth tortured Odin-as-Grímnir, a fatal mistake, since Odin caused him to fall upon his own sword. The poem is written mostly in the ljóðaháttr metre,[1] typical for wisdom verse.
 
 

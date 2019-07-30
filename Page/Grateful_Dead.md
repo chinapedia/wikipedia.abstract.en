@@ -7,7 +7,7 @@ After the death of Garcia in 1995, former members of the band, along with other 
 
 Formation (1965–1966)
 
-Grateful_Dead_at_the_Warfield-01.jpg The Grateful Dead began their career as the Warlocks, a group formed in early 1965 from the remnants of a Palo Alto, California jug band called Mother McCree's Uptown Jug Champions.[19] The band's first show was at Magoo's Pizza Parlor located at 639 Santa Cruz Avenue in suburban Menlo Park, on May 5, 1965. They continued playing bar shows[20] as the Warlocks,[21] but quickly changed its name after finding out that the Velvet Underground had put out a record under the same name.[22] The first show under the name Grateful Dead was in San Jose on December 4, 1965, at one of Ken Kesey's Acid Tests.[23][24][25] Earlier demo tapes have survived, but the first of over 2,000 concerts known to have been recorded by the band's fans was a show at the Fillmore Auditorium in San Francisco on January 8, 1966.[26] Later that month, the Grateful Dead played at the Trips Festival, an early psychedelic rock concert.[27]
+The Grateful Dead began their career as the Warlocks, a group formed in early 1965 from the remnants of a Palo Alto, California jug band called Mother McCree's Uptown Jug Champions.[19] The band's first show was at Magoo's Pizza Parlor located at 639 Santa Cruz Avenue in suburban Menlo Park, on May 5, 1965. They continued playing bar shows[20] as the Warlocks,[21] but quickly changed its name after finding out that the Velvet Underground had put out a record under the same name.[22] The first show under the name Grateful Dead was in San Jose on December 4, 1965, at one of Ken Kesey's Acid Tests.[23][24][25] Earlier demo tapes have survived, but the first of over 2,000 concerts known to have been recorded by the band's fans was a show at the Fillmore Auditorium in San Francisco on January 8, 1966.[26] Later that month, the Grateful Dead played at the Trips Festival, an early psychedelic rock concert.[27]
 
 The name "Grateful Dead" was chosen from a dictionary. According to Phil Lesh, in his autobiography (p. 62), "... [Jerry Garcia] picked up an old _Britannica World Language Dictionary_ ... [and] ... In that silvery elf-voice he said to me, 'Hey, man, how about the Grateful Dead?'" The definition there was "the soul of a dead person, or his angel, showing gratitude to someone who, as an act of charity, arranged their burial". According to Alan Trist, director of the Grateful Dead's music publisher company Ice Nine, Garcia found the name in the Funk & Wagnalls _Folklore Dictionary_, when his finger landed on that phrase while playing a game of Fictionary.[28] In the Garcia biography, _Captain Trips_, author Sandy Troy states that the band was smoking the psychedelic DMT at the time.[29] The term "grateful dead" appears in folktales of a variety of cultures.
 
@@ -16,7 +16,7 @@ Other supporting personnel who signed on early included Rock Scully, who heard o
 
 Main career (1967–1995)
 
-1967_Mantra-Rock_Dance_Avalon_poster.jpg promotional poster featuring the Grateful Dead]] One of the group's earliest major performances in 1967 was the Mantra-Rock Dance—a musical event held on January 29, 1967, at the Avalon Ballroom by the San Francisco Hare Krishna temple. The Grateful Dead performed at the event along with the Hare Krishna founder Bhaktivedanta Swami, poet Allen Ginsberg, bands Moby Grape and Big Brother and the Holding Company with Janis Joplin, donating proceeds to the Krishna temple.[31][32] The band's first LP, _The Grateful Dead_, was released on Warner Brothers in 1967.
+promotional poster featuring the Grateful Dead]] One of the group's earliest major performances in 1967 was the Mantra-Rock Dance—a musical event held on January 29, 1967, at the Avalon Ballroom by the San Francisco Hare Krishna temple. The Grateful Dead performed at the event along with the Hare Krishna founder Bhaktivedanta Swami, poet Allen Ginsberg, bands Moby Grape and Big Brother and the Holding Company with Janis Joplin, donating proceeds to the Krishna temple.[31][32] The band's first LP, _The Grateful Dead_, was released on Warner Brothers in 1967.
 
 Classically trained trumpeter Phil Lesh performed on bass guitar. Bob Weir, the youngest original member of the group, played rhythm guitar. Ron "Pigpen" McKernan played keyboards and harmonica until shortly before his death in 1973 at the age of 27. Garcia, Weir, and McKernan shared the lead vocal duties more or less equally; Lesh only sang a few leads, but his tenor was a key part of the band's three-part vocal harmonies. Bill Kreutzmann played drums, and in September 1967 was joined by a second drummer, New York native Mickey Hart, who also played a wide variety of other percussion instruments.
 
@@ -34,7 +34,7 @@ In September 1975, the Dead released their eighth studio album, _Blues for Allah
 
 Keith and Donna Jean Godchaux left the band in February 1979.
 
-Jerry-Mickey_at_Red_Rocks_taken_08-11-87.jpg in 1987: Jerry Garcia (custom Tiger guitar), Mickey Hart (drums).]]Following the departure of the Godchauxs, Brent Mydland joined as keyboardist and vocalist and was considered "the perfect fit". The Godchauxs then formed the Heart of Gold Band before Keith died in a car accident in 1980. Mydland was the keyboardist for the Grateful Dead for 11 years until his death by narcotics overdose in July 1990,[46] becoming the third keyboardist to die.
+in 1987: Jerry Garcia (custom Tiger guitar), Mickey Hart (drums).]]Following the departure of the Godchauxs, Brent Mydland joined as keyboardist and vocalist and was considered "the perfect fit". The Godchauxs then formed the Heart of Gold Band before Keith died in a car accident in 1980. Mydland was the keyboardist for the Grateful Dead for 11 years until his death by narcotics overdose in July 1990,[46] becoming the third keyboardist to die.
 
 Shortly after Mydland found his place in the early 1980s, Garcia's health began to decline. His drug habits caused him to lose his liveliness on stage. After beginning to curtail his opiate usage in 1985 gradually, Garcia slipped into a diabetic coma for several days in July 1986. After he recovered, the band released _In the Dark_ in July 1987, which became their best selling studio album and produced their only top-10 single, "Touch of Grey". Also that year, the group toured with Bob Dylan, as heard on the album _Dylan & the Dead_.
 
@@ -43,7 +43,7 @@ Mydland died after the summer tour in 1990 and Vince Welnick, former keyboardist
 
 Aftermath (1995 to present)
 
-Weir,_Bob_(2007)_2.jpg onstage in 2007, playing a Modulus G3FH]] Mickey_Hart_leading_a_drum_circle.jpg leading a drum circle in February 2005]]
+onstage in 2007, playing a Modulus G3FH]] leading a drum circle in February 2005]]
 
 Jerry Garcia died in August 1995 and the remaining band members decided to disband.[47] Since that time, there have been a number of reunions by the surviving members involving various combinations of musicians. Additionally, the former members have also begun or continued their individual projects.
 
@@ -63,7 +63,7 @@ In October 2014, it was announced that Martin Scorsese would produce a documenta
 
 In 2015, Weir, Lesh, Kreutzmann, and Hart reunited for five concerts called "Fare Thee Well: Celebrating 50 Years of the Grateful Dead".[68] The shows were performed on June 27 and 28 at Levi's Stadium in Santa Clara, California, and on July 3, 4 and 5 at Soldier Field in Chicago.[69][70] The band stated that this would be the final time that Weir, Lesh, Hart, and Kreutzmann would perform together.[71] They were joined by Trey Anastasio of Phish on guitar, Jeff Chimenti on keyboards, and Bruce Hornsby on piano.[72][73] Demand for tickets was very high.[74][75] The concerts were simulcast via various media.[76][77] The Chicago shows have been released as a box set of CDs and DVDs.[78]
 
-Grateful_Dead_-_Fare_Thee_Well_-_Soldier_Field_-_Chicago_-_2015.jpg, Chicago
+, Chicago
 
 ]]
 
@@ -74,7 +74,7 @@ In the fall of 2015, Mickey Hart, Bill Kreutzmann and Bob Weir joined with guita
 
 Musical style
 
-Grateful_Dead_at_the_Warfield-02.jpg performance at the Warfield Theatre in San Francisco in 1980. Left to right: Garcia, Lesh, Kreutzmann, Weir, Hart, Mydland.]] The Grateful Dead formed during the era when bands such as the Beatles, the Beach Boys and the Rolling Stones were dominating the airwaves. "The Beatles were why we turned from a jug band into a rock 'n' roll band", said Bob Weir. "What we saw them doing was impossibly attractive. I couldn't think of anything else more worth doing."[82] Former folk-scene star Bob Dylan had recently put out a couple of records featuring electric instrumentation. Grateful Dead members have said that it was after attending a concert by the touring New York City band the Lovin' Spoonful that they decided to "go electric" and look for a dirtier sound. Jerry Garcia and Bob Weir (each of whom had been immersed in the American folk music revival of the late 1950s and early 1960s), were open-minded to electric guitars.
+performance at the Warfield Theatre in San Francisco in 1980. Left to right: Garcia, Lesh, Kreutzmann, Weir, Hart, Mydland.]] The Grateful Dead formed during the era when bands such as the Beatles, the Beach Boys and the Rolling Stones were dominating the airwaves. "The Beatles were why we turned from a jug band into a rock 'n' roll band", said Bob Weir. "What we saw them doing was impossibly attractive. I couldn't think of anything else more worth doing."[82] Former folk-scene star Bob Dylan had recently put out a couple of records featuring electric instrumentation. Grateful Dead members have said that it was after attending a concert by the touring New York City band the Lovin' Spoonful that they decided to "go electric" and look for a dirtier sound. Jerry Garcia and Bob Weir (each of whom had been immersed in the American folk music revival of the late 1950s and early 1960s), were open-minded to electric guitars.
 
 The Grateful Dead's early music (in the mid-1960s) was part of the process of establishing what "psychedelic music" was, but theirs was essentially a "street party" form of it. They developed their "psychedelic" playing as a result of meeting Ken Kesey in Palo Alto, California, and subsequently becoming the house band for the Acid Tests he staged.[83] They did not fit their music to an established category such as pop rock, blues, folk rock, or country & western. Individual tunes within their repertoire could be identified under one of these stylistic labels, but overall their music drew on all of these genres and, more frequently, melded several of them. Bill Graham said of the Grateful Dead, "They're not the best at what they do, they're the only ones that do what they do."[84] Often (both in performance and on recording) the Dead left room for exploratory, spacey soundscapes.
 
@@ -82,7 +82,7 @@ Their live shows, fed by an improvisational approach to music, were different fr
 
 The 1969 live album _Live/Dead_ did capture the band in-form, but commercial success did not come until _Workingman's Dead_ and _American Beauty_, both released in 1970. These records largely featured the band's laid-back acoustic musicianship and more traditional song structures. With their rootsy, eclectic stylings, particularly evident on the latter two albums, the band pioneered the hybrid Americana genre.[87][88][89]
 
-TelStar_featuring_Phil_Lesh,_2008_(1).jpg _(left)_ performing with TelStar in 2008]]
+_(left)_ performing with TelStar in 2008]]
 
 As the band and its sound matured over thirty years of touring, playing, and recording, each member's stylistic contribution became more defined, consistent, and identifiable. Lesh, who was originally a classically trained trumpet player with an extensive background in music theory, did not tend to play traditional blues-based bass forms, but more melodic, symphonic and complex lines, often sounding like a second lead guitar. Weir, too, was not a traditional rhythm guitarist, but tended to play jazz-influenced, unique inversions at the upper end of the Dead's sound. The two drummers, Mickey Hart and Kreutzmann, developed a unique, complex interplay, balancing Kreutzmann's steady beat with Hart's interest in percussion styles outside the rock tradition. Hart incorporated an 11-count measure to his drumming, bringing a dimension to the band's sound that became an important part of its style.[90] Garcia's lead lines were fluid, supple and spare, owing a great deal of their character to his training in fingerpicking and banjo.
 
@@ -101,12 +101,12 @@ A Grateful Dead video game titled _Grateful Dead Game – The Epic Tour_[96] wa
 
 Sponsorship of 1992 Lithuanian Olympic Basketball Team
 
-Greg_Speirs_(image).jpg After Lithuania gained its independence from the USSR, the country announced its withdrawal from the 1992 Olympics due to the lack of any money to sponsor participants.[98] But NBA star Šarūnas Marčiulionis, a native Lithuanian basketball star, wanted to help his native team to compete. His efforts resulted in a call from representatives of the Grateful Dead who set up a meeting with the band members.[99] The band agreed to fund transportation costs for the team (about five thousand dollars) along with Grateful Dead design for the basketball jerseys and shorts for the team to wear in the competition. The Lithuanian basketball team won the bronze medal in the 1992 Olympics and the Lithuanian basketball/Grateful Dead T-shirts became part of pop culture, especially in Lithuania.[100][101] The incident was covered in a documentary entitled _The Other Dream Team_.[102]
+After Lithuania gained its independence from the USSR, the country announced its withdrawal from the 1992 Olympics due to the lack of any money to sponsor participants.[98] But NBA star Šarūnas Marčiulionis, a native Lithuanian basketball star, wanted to help his native team to compete. His efforts resulted in a call from representatives of the Grateful Dead who set up a meeting with the band members.[99] The band agreed to fund transportation costs for the team (about five thousand dollars) along with Grateful Dead design for the basketball jerseys and shorts for the team to wear in the competition. The Lithuanian basketball team won the bronze medal in the 1992 Olympics and the Lithuanian basketball/Grateful Dead T-shirts became part of pop culture, especially in Lithuania.[100][101] The incident was covered in a documentary entitled _The Other Dream Team_.[102]
 
 
 Live performances
 
-Billbongo.jpg Grateful_Dead_tickets_for_Nassau_Coliseum_run,_Spring_1994.jpg Grateful Dead concert tickets for their spring 1994 Nassau Coliseum run of shows]]
+Grateful Dead concert tickets for their spring 1994 Nassau Coliseum run of shows]]
 
 The Grateful Dead toured constantly throughout their career, playing more than 2,300 concerts.[103] They promoted a sense of community among their fans, who became known as "Deadheads", many of whom followed their tours for months or years on end. Around concert venues, an impromptu communal marketplace known as 'Shakedown Street' was created by Deadheads to serve as centers of activity where fans could buy and sell anything from grilled cheese sandwiches to home-made t-shirts and recordings of Grateful Dead concerts. [104]
 
@@ -135,7 +135,7 @@ Of the approximately 2,350 shows the Grateful Dead played, almost 2,200 were tap
 
 Artwork
 
-GDDancingBears.jpg'' are marching, not dancing.[128]]] Over the years, a number of iconic images have come to be associated with the Grateful Dead. Many of these images originated as artwork for concert posters or album covers.
+'' are marching, not dancing.[128]]] Over the years, a number of iconic images have come to be associated with the Grateful Dead. Many of these images originated as artwork for concert posters or album covers.
 
 Skull and Roses
     The skull and roses design was composed by Alton Kelley and Stanley Mouse, who added lettering and color, respectively, to a black and white drawing by Edmund Joseph Sullivan. Sullivan's drawing was an illustration for a 1913 edition of the _Rubaiyat of Omar Khayyam_. Earlier antecedents include the custom of exhibiting the relic skulls of Christian martyrs decorated with roses on their feast days. The rose is an attribute of Saint Valentine, who according to one legend, was martyred by decapitation. Accordingly, in Rome, at the church dedicated to him, the observance of his feast day included the display of his skull surrounded by roses.[129] Kelley and Mouse's design originally appeared on a poster for the September 16 and 17, 1966, Dead shows at the Avalon Ballroom.[130] Later, it was used as the cover for the album _Grateful Dead_ (1971). The album is sometimes referred to as _Skull and Roses_.[131]
@@ -187,7 +187,7 @@ Twelve members of the Grateful Dead (the eleven official performing members plus
 
 Membership
 
-Mickey_Hart_and_band_mate_Bob_Weir_of_the_Grateful_Dead.jpg Lead guitarist Jerry Garcia was often viewed both by the public and the media as the leader or primary spokesperson for the Grateful Dead, but was reluctant to be perceived that way, especially since he and the other group members saw themselves as equal participants and contributors to their collective musical and creative output.[148][149] Garcia, a native of San Francisco, grew up in the Excelsior District. One of his main influences was bluegrass music, and he also performed—on banjo, one of his other great instrumental loves, along with the pedal steel guitar—in bluegrass bands, notably Old & In the Way with mandolinist David Grisman.
+Lead guitarist Jerry Garcia was often viewed both by the public and the media as the leader or primary spokesperson for the Grateful Dead, but was reluctant to be perceived that way, especially since he and the other group members saw themselves as equal participants and contributors to their collective musical and creative output.[148][149] Garcia, a native of San Francisco, grew up in the Excelsior District. One of his main influences was bluegrass music, and he also performed—on banjo, one of his other great instrumental loves, along with the pedal steel guitar—in bluegrass bands, notably Old & In the Way with mandolinist David Grisman.
 
 Bruce Hornsby never officially joined the band full-time, because of his other commitments, but he did play keyboards at most Dead shows between September 1990 and March 1992, and sat in with the band over one hundred times in all between 1988 and 1995. He added several Dead songs to his own live shows[150] and Jerry Garcia referred to him as a "floating member" who could come and go as he pleased.[151][152][153]
 

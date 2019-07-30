@@ -63,7 +63,7 @@ Bill Walsh was viewed as a strong advocate for African-American head coaches in 
 
 Bill Walsh coaching tree
 
-Many former and current NFL head coaches trace their lineage back to Bill Walsh on his coaching tree, shown below.[12] Walsh, in turn, belonged to the coaching tree of American Football League great and Hall of Fame coach Sid Gillman of the AFL's Los Angeles/San Diego Chargers and Hall of Fame coach Paul Brown. Bill_Walsh_Coaching_Tree.svg
+Many former and current NFL head coaches trace their lineage back to Bill Walsh on his coaching tree, shown below.[12] Walsh, in turn, belonged to the coaching tree of American Football League great and Hall of Fame coach Sid Gillman of the AFL's Los Angeles/San Diego Chargers and Hall of Fame coach Paul Brown.
 
 
 Later career

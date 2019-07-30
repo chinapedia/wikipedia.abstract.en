@@ -5,8 +5,6 @@ Ghana's population is 25,009,153 (December 2013 estimate).
 
 Languages
 
-Predominant_tribe_in_the_area_-_(Ghana)_LOC_88692692.jpg
-
 Ghana is a multilingual country in which about eighty languages are spoken.[1] English is the official language and lingua franca.[2][3] Of the languages indigenous to Ghana, Akan is the most widely spoken.[4]
 
 Ghana has more than seventy ethnic groups, each with its own distinct language.[5] Languages that belong to the same ethnic group are usually mutually intelligible.
@@ -128,8 +126,6 @@ Population
     25,009,153 (December 2013 est.[27][28]) Females- 50.5% Male- 49.5%
 
 Age structure
-
-Ghanapop.svg
 
     _0-14 years:_ 37.83% (male 5,344,146 /female 5,286,383)
     _15-24 years:_ 18.61% (male 2,600,390 /female 2,629,660)

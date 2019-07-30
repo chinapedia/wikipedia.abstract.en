@@ -1,11 +1,11 @@
-Allah3.svg]] ALLAH (;[1][2] , ) is the Arabic word for God in Abrahamic religions. In the English language, the word generally refers to God in Islam.[3][4][5] The word is thought to be derived by contraction from _al-ilāh_, which means "the god", and is related to _El_ and _Elah_, the Hebrew and Aramaic words for God.[6][7]
+]] ALLAH (;[1][2] , ) is the Arabic word for God in Abrahamic religions. In the English language, the word generally refers to God in Islam.[3][4][5] The word is thought to be derived by contraction from _al-ilāh_, which means "the god", and is related to _El_ and _Elah_, the Hebrew and Aramaic words for God.[6][7]
 
 The word _Allah_ has been used by Arabic people of different religions since pre-Islamic times.[8] More specifically, it has been used as a term for God by Muslims (both Arab and non-Arab) and Arab Christians.[9] It is also often, albeit not exclusively, used in this way by Bábists, Bahá'ís, Mandaeans, Indonesian and Maltese Christians, and Mizrahi Jews.[10][11][12][13] Similar usage by Christians and Sikhs in West Malaysia has recently led to political and legal controversies.[14][15][16][17]
 
 
 Etymology
 
-Component_letters_in_Allah.svg |hamzat waṣl () |lām |lām |shadda () |dagger alif () |hāʾ}}]]
+|hamzat waṣl () |lām |lām |shadda () |dagger alif () |hāʾ}}]]
 
 The etymology of the word _Allāh_ has been discussed extensively by classical Arab philologists.[18] Grammarians of the Basra school regarded it as either formed "spontaneously" (_murtajal_) or as the definite form of _lāh_ (from the verbal root _lyh_ with the meaning of "lofty" or "hidden").[19] Others held that it was borrowed from Syriac or Hebrew, but most considered it to be derived from a contraction of the Arabic definite article _al-_ "the" and __ "deity, god" to __ meaning _"the deity"_, or _"the God"_.[20] The majority of modern scholars subscribe to the latter theory, and view the loanword hypothesis with skepticism.[21]
 
@@ -42,7 +42,7 @@ Pre-Islamic Arab Christians have been reported to have raised the battle cry "_Y
 
 Islam
 
-Istanbul,_Hagia_Sophia,_Allah.jpg" in the Hagia Sophia, Istanbul, Turkey.]] Dcp7323-Edirne-Eski_Camii_Allah.jpg in Edirne, Turkey.]] In Islam, _Allah_ is the unique, omnipotent and only deity and creator of the universe and is equivalent to God in other Abrahamic religions.[58][59]
+" in the Hagia Sophia, Istanbul, Turkey.]] in Edirne, Turkey.]] In Islam, _Allah_ is the unique, omnipotent and only deity and creator of the universe and is equivalent to God in other Abrahamic religions.[58][59]
 
 According to Islamic belief, Allah is the most common word to represent God,[60] and humble submission to his will, divine ordinances and commandments is the pivot of the Muslim faith.[61] "He is the only God, creator of the universe, and the judge of humankind."[62][63] "He is unique (__) and inherently one (__), all-merciful and omnipotent."[64] The Qur'an declares "the reality of Allah, His inaccessible mystery, His various names, and His actions on behalf of His creatures."[65]
 
@@ -76,7 +76,7 @@ Some Muslims leave the name "Allāh" untranslated in English, rather than using 
 
 Malaysian and Indonesian language
 
-Vocabulariumoft00dancgoog.djvu, Justus Heurnius, and Caspar Wiltens in 1650 recorded "Allah" as the translation of the Dutch word "Godt"]] GKKA_Banjarmasin.jpg. _Allah_ is the word for "God" in the Indonesian language - even in _Alkitab_ (Christian Bible, from الكتاب al-kitāb = the book) translations, while _Tuhan_ is the word for "Lord".]] Seremban-Annunciation-feast-3808.jpg also use the word _Allah_ for "God".]] Christians in Malaysia and Indonesia use _Allah_ to refer to God in the Malaysian and Indonesian languages (both of them standardized forms of the Malay language). Mainstream Bible translations in the language use _Allah_ as the translation of Hebrew _Elohim_ (translated in English Bibles as "God").[86] This goes back to early translation work by Francis Xavier in the 16th century.[87][88] The first dictionary of Dutch-Malay by Albert Cornelius Ruyl, Justus Heurnius, and Caspar Wiltens in 1650 (revised edition from 1623 edition and 1631 Latin edition) recorded "Allah" as the translation of the Dutch word "Godt".[89] Ruyl also translated the Gospel of Matthew in 1612 into the Malay language (an early Bible translation into a non-European language,[90] made a year after the publication of the King James Version[91][92]), which was printed in the Netherlands in 1629. Then he translated the Gospel of Mark, published in 1638.[93][94]
+, Justus Heurnius, and Caspar Wiltens in 1650 recorded "Allah" as the translation of the Dutch word "Godt"]] . _Allah_ is the word for "God" in the Indonesian language - even in _Alkitab_ (Christian Bible, from الكتاب al-kitāb = the book) translations, while _Tuhan_ is the word for "Lord".]] also use the word _Allah_ for "God".]] Christians in Malaysia and Indonesia use _Allah_ to refer to God in the Malaysian and Indonesian languages (both of them standardized forms of the Malay language). Mainstream Bible translations in the language use _Allah_ as the translation of Hebrew _Elohim_ (translated in English Bibles as "God").[86] This goes back to early translation work by Francis Xavier in the 16th century.[87][88] The first dictionary of Dutch-Malay by Albert Cornelius Ruyl, Justus Heurnius, and Caspar Wiltens in 1650 (revised edition from 1623 edition and 1631 Latin edition) recorded "Allah" as the translation of the Dutch word "Godt".[89] Ruyl also translated the Gospel of Matthew in 1612 into the Malay language (an early Bible translation into a non-European language,[90] made a year after the publication of the King James Version[91][92]), which was printed in the Netherlands in 1629. Then he translated the Gospel of Mark, published in 1638.[93][94]
 
 The government of Malaysia in 2007 outlawed usage of the term _Allah_ in any other but Muslim contexts, but the Malayan High Court in 2009 revoked the law, ruling it unconstitutional. While _Allah_ had been used for the Christian God in Malay for more than four centuries, the contemporary controversy was triggered by usage of _Allah_ by the Roman Catholic newspaper _The Herald_. The government appealed the court ruling, and the High Court suspended implementation of its verdict until the hearing of the appeal. In October 2013 the court ruled in favor of the government's ban.[95] In early 2014 the Malaysian government confiscated more than 300 bibles for using the word to refer to the Christian God in Peninsular Malaysia.[96] However, the use of _Allah_ is not prohibited in the two Malaysian states of Sabah and Sarawak.[97][98] The main reason it is not prohibited in these two states is that usage has been long-established and local Alkitab (Bibles) have been widely distributed freely in East Malaysia without restrictions for years.[99] Both states also do not have similar Islamic state laws as those in West Malaysia.[100]
 
@@ -119,7 +119,7 @@ __ in other languages that use Arabic script is spelled in the same way. This in
 
 Typography
 
-Allah_name_in_different_languages.pngs.]] The word __ is always written without an {{transl to spell the __ vowel. This is because the spelling was settled before Arabic spelling started habitually using __ to spell __. However, in vocalized spelling, a small diacritic __ is added on top of the _{{transl_ to indicate the pronunciation.
+s.]] The word __ is always written without an {{transl to spell the __ vowel. This is because the spelling was settled before Arabic spelling started habitually using __ to spell __. However, in vocalized spelling, a small diacritic __ is added on top of the _{{transl_ to indicate the pronunciation.
 
 One exception may be in the pre-Islamic Zabad inscription,[105] where it ends with an ambiguous sign that may be a lone-standing _h_ with a lengthened start, or may be a non-standard conjoined __:-
 

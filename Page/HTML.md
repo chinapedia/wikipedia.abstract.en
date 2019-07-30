@@ -13,7 +13,7 @@ History
 
 Development
 
-Tim_Berners-Lee_April_2009.jpg in April 2009]]
+in April 2009]]
 
 In 1980, physicist Tim Berners-Lee, a contractor at CERN, proposed and prototyped ENQUIRE, a system for CERN researchers to use and share documents. In 1989, Berners-Lee wrote a memo proposing an Internet-based hypertext system.[2] Berners-Lee specified HTML and wrote the browser and server software in late 1990. That year, Berners-Lee and CERN data systems engineer Robert Cailliau collaborated on a joint request for funding, but the project was not formally adopted by CERN. In his personal notes[3] from 1990 he listed[4] "some of the many areas in which hypertext is used" and put an encyclopedia first.
 
@@ -88,8 +88,6 @@ June 1993: Hypertext Markup Language[40] was published by the IETF IIIR Working 
 November 1993: HTML+ was published by the IETF as an Internet Draft and was a competing proposal to the Hypertext Markup Language draft. It expired in May 1994.
 April 1995 (authored March 1995): HTML 3.0[43] was proposed as a standard to the IETF, but the proposal expired five months later (28 September 1995)[44] without further action. It included many of the capabilities that were in Raggett's HTML+ proposal, such as support for tables, text flow around figures and the display of complex mathematical formulas.[45]
     W3C began development of its own Arena browser as a test bed for HTML 3 and Cascading Style Sheets,[46][47][48] but HTML 3.0 did not succeed for several reasons. The draft was considered very large at 150 pages and the pace of browser development, as well as the number of interested parties, had outstripped the resources of the IETF.[49] Browser vendors, including Microsoft and Netscape at the time, chose to implement different subsets of HTML 3's draft features as well as to introduce their own extensions to it.[50] (see Browser wars). These included extensions to control stylistic aspects of documents, contrary to the "belief [of the academic engineering community] that such things as text color, background texture, font size and font face were definitely outside the scope of a language when their only intent was to specify how a document would be organized."[51] Dave Raggett, who has been a W3C Fellow for many years, has commented for example: "To a certain extent, Microsoft built its business on the Web by extending HTML features."[52]
-
-HTML5-logo.svg
 
 January 2008: HTML5 was published as a Working Draft by the W3C.[53]
     Although its syntax closely resembles that of SGML, HTML5 has abandoned any attempt to be an SGML application and has explicitly defined its own "html" serialization, in addition to an alternative XML-based XHTML5 serialization.[54]

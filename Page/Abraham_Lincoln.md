@@ -13,7 +13,7 @@ Early life
 
 Abraham Lincoln was born on February 12, 1809, as the second child of Thomas and Nancy Hanks Lincoln, in a one-room log cabin on Sinking Spring Farm near Hodgenville, Kentucky.[6] He was a descendant of Samuel Lincoln, an Englishman who migrated from Hingham, Norfolk, to its namesake Hingham, Massachusetts, in 1638. Samuel's grandson and great-grandson began the family's westward migration, passing through New Jersey, Pennsylvania, and Virginia.[7][8] Lincoln's paternal grandfather and namesake, Captain Abraham Lincoln, moved the family from Virginia to Jefferson County, Kentucky, in the 1780s.[9] Captain Lincoln was killed in an Indian raid in 1786. His children, including eight-year-old Thomas,{{#tag:ref|Thomas, born January 1778, would have been 8 at the attack, May 1786. Older sources (e.g. _Herndon's Informants_ use six.}}[10] Abraham's father, witnessed the attack.[11][12][13] Thomas then worked at odd jobs in Kentucky and in Tennessee, before settling with members of his family in Hardin County, Kentucky, in the early 1800s.[14][15]
 
-Abraham_Lincoln_Birthplace_National_Historic_Site.jpg]] Lincoln's mother, Nancy, is widely assumed to have been the daughter of Lucy Hanks, although no record documents this.[16] Thomas and Nancy married on June 12, 1806, in Washington County, and moved to Elizabethtown, Kentucky.[17] They produced three children: Sarah, born on February 10, 1807; Abraham, on February 12, 1809; and Thomas, who died in infancy.[18]
+]] Lincoln's mother, Nancy, is widely assumed to have been the daughter of Lucy Hanks, although no record documents this.[16] Thomas and Nancy married on June 12, 1806, in Washington County, and moved to Elizabethtown, Kentucky.[17] They produced three children: Sarah, born on February 10, 1807; Abraham, on February 12, 1809; and Thomas, who died in infancy.[18]
 
 Thomas Lincoln bought or leased farms in Kentucky. Thomas became embroiled in legal disputes, and lost all but of his land in court disputes over property titles.[19] In 1816, the family moved to Indiana, where the survey process was more reliable and land titles were more secure.[20] Indiana was a "free" (non-slaveholding) territory, and they settled in an "unbroken forest"[21] in Hurricane Township, Perry County. (Their land became part of Spencer County, Indiana, when the county was established in 1818.)[22][23] In 1860, Lincoln noted that the family's move to Indiana was "partly on account of slavery", but mainly due to land title difficulties.[24][25]
 
@@ -21,7 +21,7 @@ In Kentucky and Indiana, Thomas worked as a farmer, cabinetmaker, and carpenter.
 
 Overcoming financial challenges, Thomas eventually obtained clear title to of land in what became known as the Little Pigeon Creek Community.[28]
 
-Young_Lincoln_By_Charles_Keck.JPG at Senn Park, Chicago|alt=A statue of young Lincoln sitting on a stump, holding a book open on his lap]]
+at Senn Park, Chicago|alt=A statue of young Lincoln sitting on a stump, holding a book open on his lap]]
 
 Mother's death
 
@@ -69,14 +69,14 @@ Lincoln served as New Salem's postmaster and later as county surveyor, all the w
 
 Illinois state legislature
 
-Abes_House.JPG]] His second state legislature campaign in 1834 was successful. Although he ran as a Whig, many Democrats favored him over a more powerful Whig opponent.[82] Lincoln served four successive terms in the Illinois House of Representatives as a Whig from Sangamon County.[83] He supported the construction of the Illinois and Michigan Canal, later serving as a Canal Commissioner.[84] In the 1835–36 legislative session, he voted to expand suffrage beyond white landowners to all white males.[85] He was known for his "free soil" stance of opposing both slavery and abolitionism. He first articulated this in 1837, saying, "[The] Institution of slavery is founded on both injustice and bad policy, but the promulgation of abolition doctrines tends rather to increase than abate its evils."[86] He followed Henry Clay in supporting the American Colonization Society program of advocating abolition and helping freed slaves to settle in Liberia.[87]
+]] His second state legislature campaign in 1834 was successful. Although he ran as a Whig, many Democrats favored him over a more powerful Whig opponent.[82] Lincoln served four successive terms in the Illinois House of Representatives as a Whig from Sangamon County.[83] He supported the construction of the Illinois and Michigan Canal, later serving as a Canal Commissioner.[84] In the 1835–36 legislative session, he voted to expand suffrage beyond white landowners to all white males.[85] He was known for his "free soil" stance of opposing both slavery and abolitionism. He first articulated this in 1837, saying, "[The] Institution of slavery is founded on both injustice and bad policy, but the promulgation of abolition doctrines tends rather to increase than abate its evils."[86] He followed Henry Clay in supporting the American Colonization Society program of advocating abolition and helping freed slaves to settle in Liberia.[87]
 
 Admitted to the Illinois bar in 1836,[88] he moved to Springfield, Illinois, and began to practice law under John T. Stuart, Mary Todd's cousin.[89] Lincoln developed a reputation as a formidable adversary during cross-examinations and closing arguments. He partnered with Stephen T. Logan from 1841 until 1844. Then Lincoln began his practice with William Herndon, whom Lincoln thought "a studious young man".[90]
 
 
 U.S. House of Representatives, 1847–1849
 
-Abraham_Lincoln_by_Nicholas_Shepherd,_1846-crop.jpg. Photo taken by one of Lincoln's law students around 1846.]] From the early 1830s, Lincoln was a steadfast Whig and professed to friends in 1861 to be "an old line Whig, a disciple of Henry Clay".[91] The party, including Lincoln, favored economic modernization in banking, tariffs to fund internal improvements including railroads, and urbanization.[92]
+. Photo taken by one of Lincoln's law students around 1846.]] From the early 1830s, Lincoln was a steadfast Whig and professed to friends in 1861 to be "an old line Whig, a disciple of Henry Clay".[91] The party, including Lincoln, favored economic modernization in banking, tariffs to fund internal improvements including railroads, and urbanization.[92]
 
 Lincoln ran for the Whig nomination for Illinois's 7th district of the U.S. House of Representatives in 1843, but was defeated by John J. Hardin. However, Lincoln won support for the principle of rotation, whereby Hardin would retire after only one term. Lincoln hoped that this arrangement would lead to his nomination in 1846.[93] Lincoln was indeed elected to the House of Representatives in 1846, where he served one two-year term. He was the only Whig in the Illinois delegation, showing party loyalty by participating in almost all votes and making speeches that echoed the party line.[94] Lincoln, in collaboration with abolitionist Congressman Joshua R. Giddings, wrote a bill to abolish slavery in the District of Columbia with compensation for the owners, enforcement to capture fugitive slaves, and a popular vote on the matter. He abandoned the bill when it failed to garner sufficient Whig supporters.[95][96]
 
@@ -98,7 +98,7 @@ Realizing Clay was unlikely to win the presidency, Lincoln, who had pledged in 1
 
 Prairie lawyer
 
-Abraham_Lincoln_by_Hesler,_1857.jpg Lincoln practiced law in Springfield, handling "every kind of business that could come before a prairie lawyer".[113] Twice a year for 16 years, 10 weeks at a time, he appeared in county seats in the midstate region when the county courts were in session.[114] Lincoln handled transportation cases in the midst of the nation's western expansion, particularly river barge conflicts under the many new railroad bridges. As a riverboat man, Lincoln initially favored those interests, but ultimately represented whoever hired him.[115] He later represented a bridge company against a riverboat company in a landmark case involving a canal boat that sank after hitting a bridge.[116][117] In 1849, he received a patent for a flotation device for the movement of boats in shallow water. The idea was never commercialized, but Lincoln is the only president to hold a patent.[118][119]
+Lincoln practiced law in Springfield, handling "every kind of business that could come before a prairie lawyer".[113] Twice a year for 16 years, 10 weeks at a time, he appeared in county seats in the midstate region when the county courts were in session.[114] Lincoln handled transportation cases in the midst of the nation's western expansion, particularly river barge conflicts under the many new railroad bridges. As a riverboat man, Lincoln initially favored those interests, but ultimately represented whoever hired him.[115] He later represented a bridge company against a riverboat company in a landmark case involving a canal boat that sank after hitting a bridge.[116][117] In 1849, he received a patent for a flotation device for the movement of boats in shallow water. The idea was never commercialized, but Lincoln is the only president to hold a patent.[118][119]
 
 In 1851, he represented the Alton & Sangamon Railroad in a dispute with shareholder James A. Barret, who had refused to pay the balance on his pledge to buy shares on the grounds that the company had changed its original train route.[120][121] Lincoln successfully argued that the railroad company was not bound by its original charter; the charter was amended in the public interest to provide a newer, superior, and less expensive route, and the corporation retained the right to demand Barret's payment. The decision by the Illinois Supreme Court was cited by many other courts.[122] Lincoln appeared before the Illinois Supreme Court in 175 cases, in 51 as sole counsel, of which 31 were decided in his favor.[123] From 1853 to 1860, another of Lincoln's largest clients was the Illinois Central Railroad.[124] Lincoln's legal reputation gave rise to his nickname "Honest Abe".[125]
 
@@ -111,7 +111,7 @@ Republican politics 1854–1860
 
 Emergence as Republican leader
 
-Abraham_Lincoln_by_Byers,_1858_-_crop.jpg with Stephen Douglas over slavery]]
+with Stephen Douglas over slavery]]
 
 The debate over the status of slavery in the territories exacerbated sectional tensions between the slave-holding South and the free North. The Compromise of 1850 failed to defuse the issue.[130] In the early 1850s, Lincoln supported sectional mediation, and his 1852 eulogy for Clay focused on the latter's support for gradual emancipation and opposition to "both extremes" on the slavery issue.[131] As the 1850s progressed, the debate over slavery in the Nebraska Territory and Kansas Territory became particularly acrimonious, and Senator Douglas proposed popular sovereignty as a compromise measure; the proposal would allow the electorate of each territory to decide the status of slavery. The proposal alarmed many Northerners, who hoped to prevent the spread of slavery into the territories. Despite this Northern opposition, Douglas's Kansas–Nebraska Act narrowly passed Congress in May 1854.[132]
 
@@ -127,7 +127,7 @@ In part due to the ongoing violent political confrontations in Kansas, oppositio
 
 Principles
 
-DredScott.jpg. Lincoln denounced the Supreme Court decision in _Dred Scott v. Sandford_ as part of a conspiracy to extend slavery.]]
+. Lincoln denounced the Supreme Court decision in _Dred Scott v. Sandford_ as part of a conspiracy to extend slavery.]]
 
 Eric Foner (2010) contrasts the abolitionists and anti-slavery Radical Republicans of the Northeast, who saw slavery as a sin, with the conservative Republicans, who thought it was bad because it hurt white people and blocked progress. Foner argues that Lincoln was a moderate in the middle, opposing slavery primarily because it violated the republicanism principles of the Founding Fathers, especially the equality of all men and democratic self-government as expressed in the Declaration of Independence.[149]
 
@@ -137,7 +137,7 @@ In March 1857, in _Dred Scott v. Sandford,_ Supreme Court Chief Justice Roger B.
 
 Lincoln–Douglas debates and Cooper Union speech
 
-Douglas was up for re-election in 1858, and Lincoln hoped to defeat him. With the former Democrat Trumbull now serving as a Republican senator, many in the party felt that a former Whig should be nominated in 1858, and Lincoln's 1856 campaigning and willingness to support Trumbull in 1854 had earned him favor.[153] Some eastern Republicans favored Douglas's re-election in 1858, since he had led the opposition to the Lecompton Constitution, which would have admitted Kansas as a slave state.[154] Many Illinois Republicans resented this eastern interference. For the first time, Illinois Republicans held a convention to agree upon a Senate candidate, and Lincoln won the nomination with little opposition.[155] Lincoln_O-17_by_Brady,_1860.png, taken the day of the Cooper Union speech]] Accepting the nomination, Lincoln delivered his House Divided Speech, drawing on , "A house divided against itself cannot stand. I believe this government cannot endure permanently half slave and half free. I do not expect the Union to be dissolved—I do not expect the house to fall—but I do expect it will cease to be divided. It will become all one thing, or all the other."[156] The speech created an evocative image of the danger of disunion.[157] The stage was then set for the campaign for statewide election of the Illinois legislature which would, in turn, select Lincoln or Douglas.[158] When informed of Lincoln's nomination, Douglas stated, "[Lincoln] is the strong man of the party ... and if I beat him, my victory will be hardly won."[159]
+Douglas was up for re-election in 1858, and Lincoln hoped to defeat him. With the former Democrat Trumbull now serving as a Republican senator, many in the party felt that a former Whig should be nominated in 1858, and Lincoln's 1856 campaigning and willingness to support Trumbull in 1854 had earned him favor.[153] Some eastern Republicans favored Douglas's re-election in 1858, since he had led the opposition to the Lecompton Constitution, which would have admitted Kansas as a slave state.[154] Many Illinois Republicans resented this eastern interference. For the first time, Illinois Republicans held a convention to agree upon a Senate candidate, and Lincoln won the nomination with little opposition.[155] , taken the day of the Cooper Union speech]] Accepting the nomination, Lincoln delivered his House Divided Speech, drawing on , "A house divided against itself cannot stand. I believe this government cannot endure permanently half slave and half free. I do not expect the Union to be dissolved—I do not expect the house to fall—but I do expect it will cease to be divided. It will become all one thing, or all the other."[156] The speech created an evocative image of the danger of disunion.[157] The stage was then set for the campaign for statewide election of the Illinois legislature which would, in turn, select Lincoln or Douglas.[158] When informed of Lincoln's nomination, Douglas stated, "[Lincoln] is the strong man of the party ... and if I beat him, my victory will be hardly won."[159]
 
 The Senate campaign featured seven debates, the most famous political debates in American history.[160] The principals stood in stark contrast both physically and politically. Lincoln warned that "The Slave Power" was threatening the values of republicanism, and accused Douglas of distorting the values of the Founding Fathers that all men are created equal, while Douglas emphasized his Freeport Doctrine, that local settlers were free to choose whether to allow slavery, and accused Lincoln of having joined the abolitionists.[161] The debates had an atmosphere of a prize fight and drew crowds in the thousands. Lincoln's argument was rooted in morality. He claimed that Douglas represented a conspiracy to extend slavery to free states. Douglas's argument was legal, claiming that Lincoln was defying the authority of the U.S. Supreme Court and the _Dred Scott_ decision.[162]
 
@@ -149,7 +149,7 @@ Historian David Herbert Donald described the speech as a "superb political move 
 
 1860 presidential election
 
-AbrLincoln1860ColeT.jpg wood engraving taken from a May 20, 1860, ambrotype of Lincoln, two days following his nomination for president]]
+wood engraving taken from a May 20, 1860, ambrotype of Lincoln, two days following his nomination for president]]
 
 On May 9–10, 1860, the Illinois Republican State Convention was held in Decatur.[173] Lincoln's followers organized a campaign team led by David Davis, Norman Judd, Leonard Swett, and Jesse DuBois, and Lincoln received his first endorsement.[174] Exploiting his embellished frontier legend (clearing land and splitting fence rails), Lincoln's supporters adopted the label of "The Rail Candidate".[175] In 1860, Lincoln described himself: "I am in height, six feet, four inches, nearly; lean in flesh, weighing, on an average, one hundred and eighty pounds; dark complexion, with coarse black hair, and gray eyes."[176]
 
@@ -161,11 +161,11 @@ Most Republicans agreed with Lincoln that the North was the aggrieved party, as 
 
 Lincoln's campaign team carefully projected his image as an ideal candidate. Michael Martinez wrote:
 
-The_Rail_Candidate.jpg Prior to the Republican convention, the Lincoln campaign began cultivating a nationwide youth organization, the Wide Awakes, which it used to generate popular support throughout the country to spearhead voter registration drives, thinking that new voters and young voters tended to embrace new parties.[183] Lincoln's ideas of abolishing slavery grew, drawing more supporters. People of the Northern states knew the Southern states would vote against Lincoln and rallied supporters for Lincoln.[184]
+Prior to the Republican convention, the Lincoln campaign began cultivating a nationwide youth organization, the Wide Awakes, which it used to generate popular support throughout the country to spearhead voter registration drives, thinking that new voters and young voters tended to embrace new parties.[183] Lincoln's ideas of abolishing slavery grew, drawing more supporters. People of the Northern states knew the Southern states would vote against Lincoln and rallied supporters for Lincoln.[184]
 
 As Douglas and the other candidates campaigned, Lincoln was the only one to give no speeches. Instead, he relied on the enthusiasm of the Republican Party. The party did the leg work that produced majorities across the North, and produced an abundance of campaign posters, leaflets, and newspaper editorials. Thousands of Republican speakers focused first on the party platform, and second on Lincoln's life story, emphasizing his childhood poverty. The goal was to demonstrate the superior power of "free labor", whereby a common farm boy could work his way to the top by his own efforts.[185] The Republican Party's production of campaign literature dwarfed the combined opposition; a _Chicago Tribune_ writer produced a pamphlet that detailed Lincoln's life, and sold 100,000–200,000 copies.[186]
 
-ElectoralCollege1860.svg votes (shown in red) put Lincoln into the White House.]]
+votes (shown in red) put Lincoln into the White House.]]
 
 On November 6, Lincoln was elected the 16th president of the United States. He was the first Republican president and his victory was entirely due to his support in the North and West; no ballots were cast for him in 10 of the 15 Southern slave states, and he won only two of 996 counties in all the Southern states.[187] Lincoln received 1,866,452 votes, or 39.8% of the total in a four-way race. He won the free Northern states, as well as California and Oregon.[188]
 
@@ -182,13 +182,13 @@ Attempts at compromise followed. Lincoln and the Republicans rejected the propos
 
 Lincoln did tacitly support the proposed Corwin Amendment to the Constitution, which passed Congress before Lincoln came into office and was then awaiting ratification by the states. That proposed amendment would have protected slavery in states where it already existed.[199][200] A few weeks before the war, Lincoln sent a letter to every governor informing them Congress had passed a joint resolution to amend the Constitution.[201] Lincoln was open to the possibility of a constitutional convention to make further amendments to the Constitution.[202]
 
-Abraham_lincoln_inauguration_1861.jpg. The dome above the rotunda was still under construction.]]
+. The dome above the rotunda was still under construction.]]
 
 En route to his inauguration, Lincoln addressed crowds and legislatures across the North.[203] The president-elect evaded possible assassins in Baltimore. On February 23, 1861, he arrived in disguise in Washington, D.C., which was placed under substantial military guard.[204] Lincoln directed his inaugural address to the South, proclaiming once again that he had no intention, or inclination, to abolish slavery in the Southern states: Lincoln cited his plans for banning the expansion of slavery as the key source of conflict between North and South, stating "One section of our country believes slavery is right and ought to be extended, while the other believes it is wrong and ought not to be extended. This is the only substantial dispute." The President ended his address with an appeal to the people of the South: "We are not enemies, but friends. We must not be enemies ... The mystic chords of memory, stretching from every battlefield, and patriot grave, to every living heart and hearthstone, all over this broad land, will yet swell the chorus of the Union, when again touched, as surely they will be, by the better angels of our nature."[205] The failure of the Peace Conference of 1861 signaled that legislative compromise was impossible. By March 1861, no leaders of the insurrection had proposed rejoining the Union on any terms. Meanwhile, Lincoln and the Republican leadership agreed that the dismantling of the Union could not be tolerated.[206] Lincoln said in his second inaugural address:
 
 The Civil War
 
-Maryland,_Antietam,_President_Lincoln_on_the_Battlefield_-_NARA_-_533297.jpg]] Fort Sumter's commander, Major Robert Anderson, sent a request for provisions to Washington, and the execution of Lincoln's order to meet that request was seen by the secessionists as an act of war. On April 12, 1861, Confederate forces fired on Union troops at Fort Sumter and began the fight. Historian Allan Nevins argued that the newly inaugurated Lincoln made three miscalculations: underestimating the gravity of the crisis, exaggerating the strength of Unionist sentiment in the South, and not realizing the Southern Unionists were insisting there be no invasion.[207]
+]] Fort Sumter's commander, Major Robert Anderson, sent a request for provisions to Washington, and the execution of Lincoln's order to meet that request was seen by the secessionists as an act of war. On April 12, 1861, Confederate forces fired on Union troops at Fort Sumter and began the fight. Historian Allan Nevins argued that the newly inaugurated Lincoln made three miscalculations: underestimating the gravity of the crisis, exaggerating the strength of Unionist sentiment in the South, and not realizing the Southern Unionists were insisting there be no invasion.[207]
 
 William Tecumseh Sherman talked to Lincoln during inauguration week and was "sadly disappointed" at his failure to realize that "the country was sleeping on a volcano" and that the South was preparing for war.[208] Donald concludes that, "His repeated efforts to avoid collision in the months between inauguration and the firing on Ft. Sumter showed he adhered to his vow not to be the first to shed fraternal blood. But he also vowed not to surrender the forts. The only resolution of these contradictory positions was for the confederates to fire the first shot; they did just that."[209]
 
@@ -200,7 +200,7 @@ Union military strategy
 
 After the Battle of Fort Sumter, Lincoln took executive control of the war and formed an overall Union military strategy. Lincoln responded to this unprecedented political and military crisis as commander-in-chief, using unprecedented powers. He expanded his war powers, imposed a blockade on Confederate ports, disbursed funds before appropriation by Congress, suspended _habeas corpus_, and arrested and imprisoned thousands of suspected Confederate sympathizers. Lincoln was supported by Congress and the northern public for these actions. In addition, Lincoln had to reinforce Union sympathies in the border slave states and keep the war from becoming an international conflict.[214][215]
 
-RunningtheMachine-LincAdmin.jpg, Edwin Stanton, William Seward, Gideon Welles, Lincoln, and others]]
+, Edwin Stanton, William Seward, Gideon Welles, Lincoln, and others]]
 
 The war dominated Lincoln's time and attention. From the start, it was clear that bipartisan support would be essential to success, and that any compromise would alienate factions on both sides of the aisle, such as the appointment of Republicans and Democrats to command positions. Copperheads criticized Lincoln for refusing to compromise on slavery. The Radical Republicans criticized him for moving too slowly in abolishing slavery.[216] On August 6, 1861, Lincoln signed the Confiscation Act that authorized judicial proceedings to confiscate and free slaves who were used to support the Confederates. In practice, the law had little effect, but it did signal political support for abolishing slavery.[217][218]
 
@@ -216,7 +216,7 @@ General McClellan
 
 After the Union rout at Bull Run and Winfield Scott's retirement, Lincoln appointed Major General George B. McClellan general-in-chief.[231] McClellan then took months to plan his Peninsula Campaign. McClellan's slow progress frustrated Lincoln, as did his position that no troops were needed to defend Washington. McClellan blamed Lincoln's holding troops back for his campaign's subsequent failure.[232] Lincoln went as far as meeting with General McClellan in his home to discuss matters privately. Once McClellan heard Lincoln was in his home, McClellan stay hidden away until Lincoln left.
 
-Lincoln_and_McClellan_1862-10-03.jpg Lincoln removed McClellan in March 1862, after McClellan offered unsolicited political advice.[233] In July Lincoln elevated Henry Halleck.[234] Lincoln appointed John Pope as head of the new Army of Virginia. Pope complied with Lincoln's desire to advance on Richmond from the north, thus protecting Washington from counterattack.[235]
+Lincoln removed McClellan in March 1862, after McClellan offered unsolicited political advice.[233] In July Lincoln elevated Henry Halleck.[234] Lincoln appointed John Pope as head of the new Army of Virginia. Pope complied with Lincoln's desire to advance on Richmond from the north, thus protecting Washington from counterattack.[235]
 
 Pope was then soundly defeated at the Second Battle of Bull Run in the summer of 1862, forcing the Army of the Potomac back to defend Washington.[236]
 
@@ -234,7 +234,7 @@ Hooker was routed by Lee at the Battle of Chancellorsville in May.[245] He then 
 
 Emancipation Proclamation
 
-Emancipation_proclamation.jpg'' by Francis Bicknell Carpenter (1864)|alt=A dark-haired, bearded, middle-aged man holding documents is seated among seven other men.]]
+'' by Francis Bicknell Carpenter (1864)|alt=A dark-haired, bearded, middle-aged man holding documents is seated among seven other men.]]
 
 The Federal government's power to end slavery was limited by the Constitution, which before 1865, committed the issue to individual states. Lincoln argued that slavery would end by preventing its expansion into new territories. He sought to persuade the states to accept compensated emancipation in return for their prohibition of slavery. Lincoln believed that curtailing slavery would make it obsolete.[247] Lincoln rejected Fremont's two emancipation attempts in August 1861 and one by Major General David Hunter in May 1862, on the grounds that it was not within their power, and would upset loyal border states.[248]
 
@@ -250,13 +250,13 @@ Enlisting former slaves became official policy. By the spring of 1863, Lincoln w
 
 Gettysburg Address (1863)
 
-Lincoln's_Gettysburg_Address,_Gettysburg.jpg. Lincoln is slightly left of center, just behind the mass of blurry people.]] Lincoln spoke at the Gettysburg battlefield cemetery on November 19, 1863.[258] Defying his prediction that "the world will little note, nor long remember what we say here", the Address became the most quoted speech in American history.[259]
+. Lincoln is slightly left of center, just behind the mass of blurry people.]] Lincoln spoke at the Gettysburg battlefield cemetery on November 19, 1863.[258] Defying his prediction that "the world will little note, nor long remember what we say here", the Address became the most quoted speech in American history.[259]
 
 In 272 words, and three minutes, Lincoln asserted that the nation was born not in 1789, but in 1776, "conceived in Liberty, and dedicated to the proposition that all men are created equal". He defined the war as dedicated to the principles of liberty and equality for all. He declared that the deaths of so many brave soldiers would not be in vain, that slavery would end, and the future of democracy would be assured, that "government of the people, by the people, for the people, shall not perish from the earth".[260][261]
 
 General Grant
 
-The_Peacemakers_1868.jpg and Grant and Admiral Porter in _The Peacemakers_, an 1868 painting of events aboard the _River Queen_ in March 1865]]
+and Grant and Admiral Porter in _The Peacemakers_, an 1868 painting of events aboard the _River Queen_ in March 1865]]
 
 Grant's victories at the Battle of Shiloh and in the Vicksburg campaign impressed Lincoln. Responding to criticism of Grant after Shiloh, Lincoln had said, "I can't spare this man. He fights."[262] With Grant in command, Lincoln felt the Union Army could advance in multiple theaters, and incorporate black troops. Meade's failure to capture Lee's army after Gettysburg and the continued passivity of the Army of the Potomac persuaded Lincoln to promote Grant to supreme commander. Grant stayed with Meade's army and told Meade what to do.[263]
 
@@ -274,7 +274,7 @@ As Grant continued to attrit Lee's forces, efforts to discuss peace began. Confe
 
 Re-election
 
-ElectoralCollege1864.svg landslide for Lincoln (in red) in the 1864 election; southern states (brown) and territories (gray) not in play]]
+landslide for Lincoln (in red) in the 1864 election; southern states (brown) and territories (gray) not in play]]
 
 Lincoln ran again in 1864. He united the main Republican factions, along with War Democrats such as Edwin M. Stanton and Andrew Johnson. Lincoln used conversation and his patronage powers—greatly expanded from peacetime—to build support and fend off the Radicals' efforts to replace him.[273][274] At its convention, the Republicans selected Johnson as his running mate. To broaden his coalition to include War Democrats as well as Republicans, Lincoln ran under the label of the new Union Party.[275]
 
@@ -282,13 +282,11 @@ Grant's bloody stalemates damaged Lincoln's re-election prospects, and many Repu
 
 While the Democratic platform followed the "Peace wing" of the party and called the war a "failure", their candidate, McClellan, supported the war and repudiated the platform. Lincoln provided Grant with more troops and led his party to renew its support for Grant. Sherman's capture of Atlanta in September and David Farragut's capture of Mobile ended defeatism.[277] The Democratic Party was deeply split, with some leaders and most soldiers openly for Lincoln. The National Union Party was united by Lincoln's support for emancipation. State Republican parties stressed the perfidy of the Copperheads.[278] On November 8, Lincoln carried all but three states, including 78 percent of Union soldiers.[279][280]
 
-Abraham_Lincoln_second_inaugural_address.jpg On March 4, 1865, Lincoln delivered his second inaugural address. In it, he deemed the endless casualties to be God's will. Historian Mark Noll claims this speech to rank "among the small handful of semi-sacred texts by which Americans conceive their place in the world".[281] Lincoln said:
+On March 4, 1865, Lincoln delivered his second inaugural address. In it, he deemed the endless casualties to be God's will. Historian Mark Noll claims this speech to rank "among the small handful of semi-sacred texts by which Americans conceive their place in the world".[281] Lincoln said:
 
 Reconstruction
 
 Reconstruction began during the war, as Lincoln and his associates considered how to reintegrate the nation, and the fates of Confederate leaders and freed slaves. Shortly after Lee's surrender, a general asked Lincoln how to treat defeated Confederates. Lincoln replied, "Let 'em up easy."[282] Lincoln was determined to find meaning in the war even when it had passed, and did not want to continue to outcast the southern states. His main goal was to keep the union together. He planned to go forward not by focusing on who to blame, but on how to rebuild the nation as one.[283] Lincoln led the moderates regarding Reconstruction policy, and was opposed by the Radicals, under Rep. Thaddeus Stevens, Sen. Charles Sumner and Sen. Benjamin Wade, who otherwise remained Lincoln's allies. Determined to reunite the nation and not alienate the South, Lincoln urged that speedy elections under generous terms be held. His Amnesty Proclamation of December 8, 1863, offered pardons to those who had not held a Confederate civil office, had not mistreated Union prisoners, and would sign an oath of allegiance.[284]
-
-Lincoln_and_Johnsond.jpg
 
 As Southern states fell, they needed leaders while their administrations re-formed. In Tennessee and Arkansas, Lincoln appointed Johnson and Frederick Steele as military governors, respectively. In Louisiana, Lincoln ordered General Nathaniel P. Banks to promote a plan that would restore statehood when 10 percent of the voters agreed. Democratic opponents accused Lincoln of using the military to ensure his and the Republicans' political aspirations. The Radicals denounced his policy as too lenient, and passed their own plan, the Wade-Davis Bill, in 1864, which Lincoln vetoed. The Radicals retaliated by refusing to seat elected representatives from Louisiana, Arkansas, and Tennessee.[285]
 
@@ -322,7 +320,7 @@ Judicial appointments
 
 Supreme Court appointments
 
-Mathew_Brady,_Portrait_of_Secretary_of_the_Treasury_Salmon_P._Chase,_officer_of_the_United_States_government_(1860–1865,_full_version).jpg.]]
+.]]
 
   Justice                                 Nominated          Appointed
   --------------------------------------- ------------------ ------------------
@@ -346,7 +344,7 @@ West Virginia was admitted to the Union on June 20, 1863. Nevada, which became t
 
 Assassination
 
-Lincoln_assassination_slide_c1900_-_Restoration.jpg, Abraham Lincoln, Mary Todd Lincoln, Clara Harris, and Henry Rathbone]] Abraham Lincoln was assassinated by John Wilkes Booth on Good Friday, April 14, 1865, while attending a play at Ford's Theatre, five days after Lee's surrender. Booth was a well-known actor and a Confederate spy from Maryland; though he never joined the Confederate army, he had contacts with the Confederate secret service.[311] After attending an April 11, 1865, speech in which Lincoln promoted voting rights for blacks, Booth decided to assassinate the President.[312] Learning of Lincoln's intent to attend the play with Grant, Booth and his co-conspirators planned to assassinate Lincoln and Grant at the theater and to kill Vice President Johnson and Secretary of State Seward at their respective homes. Lincoln left to attend the play _Our American Cousin_ on April 14. At the last minute, Grant decided to go to New Jersey to visit his children instead of attending the play.[313]
+, Abraham Lincoln, Mary Todd Lincoln, Clara Harris, and Henry Rathbone]] Abraham Lincoln was assassinated by John Wilkes Booth on Good Friday, April 14, 1865, while attending a play at Ford's Theatre, five days after Lee's surrender. Booth was a well-known actor and a Confederate spy from Maryland; though he never joined the Confederate army, he had contacts with the Confederate secret service.[311] After attending an April 11, 1865, speech in which Lincoln promoted voting rights for blacks, Booth decided to assassinate the President.[312] Learning of Lincoln's intent to attend the play with Grant, Booth and his co-conspirators planned to assassinate Lincoln and Grant at the theater and to kill Vice President Johnson and Secretary of State Seward at their respective homes. Lincoln left to attend the play _Our American Cousin_ on April 14. At the last minute, Grant decided to go to New Jersey to visit his children instead of attending the play.[313]
 
 Booth crept up from behind and at about 10:13 pm, fired at the back of Lincoln's head, mortally wounding him. Lincoln's guest Major Henry Rathbone momentarily grappled with Booth, but Booth stabbed him and escaped.[314][315]
 
@@ -363,7 +361,7 @@ The late President lay in state, first in the East Room, and then in the Capitol
 
 Religious and philosophical beliefs
 
-AbrahamLincolnOilPainting1869Restored.jpg'', painting by George Peter Alexander Healy in 1869]]
+'', painting by George Peter Alexander Healy in 1869]]
 
 As a young man, Lincoln was a religious skeptic.[330][331] Later in life, Lincoln's frequent use of religious imagery and language might have reflected his own personal beliefs or might have been a device to reach his audiences, who were mostly evangelical Protestants.[332] He never joined a church, although he frequently attended with his wife.[333] He was deeply familiar with the Bible, and he both quoted and praised it.[334] He was private about his beliefs and respected the beliefs of others. Lincoln never made a clear profession of Christian beliefs. However, he did believe in an all-powerful God that shaped events and by 1865 was expressing those beliefs in major speeches.[335]
 
@@ -377,8 +375,6 @@ Several claims have been made that Lincoln's health was declining before the ass
 
 Legacy
 
-Abraham_Lincoln_O-116_by_Gardner,_1865-crop.png
-
 The successful reunification of the states had consequences for the name of the country. The term "the United States" has historically been used, sometimes in the plural ("these United States"), and other times in the singular, without any particular grammatical consistency. The Civil War was a significant force in the eventual dominance of the singular usage by the end of the 19th century.[344]
 
 Historians such as Harry Jaffa, Herman Belz, John Diggins, Vernon Burton, and Eric Foner stress Lincoln's redefinition of _republican values_. As early as the 1850s, a time when most political rhetoric focused on the Constitution, Lincoln redirected emphasis to the Declaration of Independence as the foundation of American political values—what he called the "sheet anchor" of republicanism.[345] The Declaration's emphasis on equality and freedom for all, in contrast to the Constitution's tolerance of slavery, shifted the debate. Regarding the 1860 Cooper Union speech, Diggins notes, "Lincoln presented Americans a theory of history that offers a profound contribution to the theory and destiny of republicanism itself."[346] He highlights the moral basis of republicanism, rather than its legalisms.[347] Nevertheless, Lincoln justified the war via legalisms (the Constitution was a contract, and for one party to get out of a contract all the other parties had to agree), and then in terms of the national duty to guarantee a republican form of government in every state.[348] Burton argues that Lincoln's republicanism was taken up by the emancipated Freedmen.[349]
@@ -387,7 +383,7 @@ In Lincoln's first inaugural address, he explored the nature of democracy. He de
 
 Historical reputation
 
-Head_of_Abraham_Lincoln_at_Mount_Rushmore.jpg]] In surveys of U.S. scholars ranking presidents conducted since the 1940s, Lincoln is consistently ranked in the top three, often as number one.[351][352] A 2004 study found that scholars in the fields of history and politics ranked Lincoln number one, while legal scholars placed him second after George Washington.[353] In presidential ranking polls conducted in the United States since 1948, Lincoln has been rated at the top in the majority of polls. Generally, the top three presidents are rated as 1. Lincoln; 2. Washington; and 3. Franklin Delano Roosevelt, although the order varies.[354][355]
+]] In surveys of U.S. scholars ranking presidents conducted since the 1940s, Lincoln is consistently ranked in the top three, often as number one.[351][352] A 2004 study found that scholars in the fields of history and politics ranked Lincoln number one, while legal scholars placed him second after George Washington.[353] In presidential ranking polls conducted in the United States since 1948, Lincoln has been rated at the top in the majority of polls. Generally, the top three presidents are rated as 1. Lincoln; 2. Washington; and 3. Franklin Delano Roosevelt, although the order varies.[354][355]
 
 President Lincoln's assassination left him a national martyr. He was viewed by abolitionists as a champion for human liberty. Republicans linked Lincoln's name to their party. Many, though not all, in the South considered Lincoln as a man of outstanding ability.[356] Historians have said he was "a classical liberal" in the 19th century sense. Allen C. Guelzo states that Lincoln was a[357][358]
 

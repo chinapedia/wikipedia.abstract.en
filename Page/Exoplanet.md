@@ -11,7 +11,7 @@ Besides exoplanets, there are also rogue planets, which do not orbit any star. T
 
 Nomenclature
 
-The_unusual_exoplanet_HIP_65426b_—_SPHERE's_firs.jpg is the first discovered planet around star HIP 65426.[22]]]
+is the first discovered planet around star HIP 65426.[22]]]
 
 The convention for designating exoplanets is an extension of the system used for designating multiple-star systems as adopted by the International Astronomical Union (IAU). For exoplanets orbiting a single star, the designation is normally formed by taking the name or, more commonly, designation of its parent star and adding a lower case letter.[23] The first planet discovered in a system is given the designation "b" (the parent star is considered to be "a") and later planets are given subsequent letters. If several planets in the same system are discovered at the same time, the closest one to the star gets the next letter, followed by the other planets in order of orbital size. A provisional IAU-sanctioned standard exists to accommodate the designation of circumbinary planets. A limited number of exoplanets have IAU-sanctioned proper names. Other naming systems exist.
 
@@ -38,7 +38,7 @@ Confirmed discoveries
 
 As of , a total of confirmed exoplanets are listed in the Extrasolar Planets Encyclopedia, including a few that were confirmations of controversial claims from the late 1980s. The first published discovery to receive subsequent confirmation was made in 1988 by the Canadian astronomers Bruce Campbell, G. A. H. Walker, and Stephenson Yang of the University of Victoria and the University of British Columbia.[37] Although they were cautious about claiming a planetary detection, their radial-velocity observations suggested that a planet orbits the star Gamma Cephei. Partly because the observations were at the very limits of instrumental capabilities at the time, astronomers remained skeptical for several years about this and other similar observations. It was thought some of the apparent planets might instead have been brown dwarfs, objects intermediate in mass between planets and stars. In 1990 additional observations were published that supported the existence of the planet orbiting Gamma Cephei,[38] but subsequent work in 1992 again raised serious doubts.[39] Finally, in 2003, improved techniques allowed the planet's existence to be confirmed.[40]
 
-The_Star_AB_Pictoris_and_its_Companion_-_Phot-14d-05-normal.jpgic image of AB Pictoris showing a companion (bottom left), which is either a brown dwarf or a massive planet. The data was obtained on 16 March 2003 with NACO on the VLT, using a 1.4 arcsec occulting mask on top of AB Pictoris.]]
+ic image of AB Pictoris showing a companion (bottom left), which is either a brown dwarf or a massive planet. The data was obtained on 16 March 2003 with NACO on the VLT, using a 1.4 arcsec occulting mask on top of AB Pictoris.]]
 
 On 9 January 1992, radio astronomers Aleksander Wolszczan and Dale Frail announced the discovery of two planets orbiting the pulsar PSR 1257+12.[41] This discovery was confirmed, and is generally considered to be the first definitive detection of exoplanets. Follow-up observations solidified these results, and confirmation of a third planet in 1994 revived the topic in the popular press.[42] These pulsar planets are thought to have formed from the unusual remnants of the supernova that produced the pulsar, in a second round of planet formation, or else to be the remaining rocky cores of gas giants that somehow survived the supernova and then decayed into their current orbits.
 
@@ -61,8 +61,6 @@ As of June 2017, NASA's _Kepler_ mission had identified more than 5,000 planetar
 
 Methodology
 
-ALMA_Discovers_Trio_of_Infant_Planets_ALMA_Discovers_Trio_of_Infant_Planets.jpg
-
 About 97% of all the confirmed exoplanets have been discovered by indirect techniques of detection, mainly by radial velocity measurements and transit monitoring techniques.[60]
 
 
@@ -77,7 +75,7 @@ Of the many exoplanets discovered, most have a higher orbital eccentricity than 
 
 Planet-hosting stars
 
-Morgan-Keenan_spectral_classification.png Artist’s_impression_of_exoplanet_orbiting_two_stars.jpg There is at least one planet on average per star.[80] About 1 in 5 Sun-like stars[81] have an "Earth-sized"[82] planet in the habitable zone.[83]
+There is at least one planet on average per star.[80] About 1 in 5 Sun-like stars[81] have an "Earth-sized"[82] planet in the habitable zone.[83]
 
 Most known exoplanets orbit stars roughly similar to the Sun, i.e. main-sequence stars of spectral categories F, G, or K. Lower-mass stars (red dwarfs, of spectral category M) are less likely to have planets massive enough to be detected by the radial-velocity method.[84][85] Despite this, several tens of planets around red dwarfs have been discovered by the _Kepler_ spacecraft, which uses the transit method to detect smaller planets.
 
@@ -90,7 +88,7 @@ General features
 
 Color and brightness
 
-Color_HD_189733b_vs_solar_system.jpg compares the colors of planets in the Solar System to exoplanet HD 189733b. The exoplanet's deep blue color is produced by silicate droplets, which scatter blue light in its atmosphere.]] In 2013 the color of an exoplanet was determined for the first time. The best-fit albedo measurements of HD 189733b suggest that it is deep dark blue.[89][90] Later that same year, the colors of several other exoplanets were determined, including GJ 504 b which visually has a magenta color,[91] and Kappa Andromedae b, which if seen up close would appear reddish in color.[92]
+compares the colors of planets in the Solar System to exoplanet HD 189733b. The exoplanet's deep blue color is produced by silicate droplets, which scatter blue light in its atmosphere.]] In 2013 the color of an exoplanet was determined for the first time. The best-fit albedo measurements of HD 189733b suggest that it is deep dark blue.[89][90] Later that same year, the colors of several other exoplanets were determined, including GJ 504 b which visually has a magenta color,[91] and Kappa Andromedae b, which if seen up close would appear reddish in color.[92]
 
 The apparent brightness (apparent magnitude) of a planet depends on how far away the observer is, how reflective the planet is (albedo), and how much light the planet receives from its star, which depends on how far the planet is from the star and how bright the star is. So, a planet with a low albedo that is close to its star can appear brighter than a planet with high albedo that is far from the star.[93]
 
@@ -139,8 +137,6 @@ Moons
 In December 2013 a candidate exomoon of a rogue planet was announced.[123] On 3 October 2018, evidence suggesting a large exomoon orbiting Kepler-1625b was reported.[124]
 
 Atmospheres
-
-Cloudy_versus_clear_atmospheres_on_two_exoplanets.jpg
 
 Atmospheres have been detected around several exoplanets. The first to be observed was HD 209458 b in 2001.[125]
 

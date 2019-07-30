@@ -1,4 +1,4 @@
-This article is about the DEMOGRAPHIC features of the population of AMERICAN SAMOA, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population. Samoa_American_Demo.png, year 2005.]]
+This article is about the DEMOGRAPHIC features of the population of AMERICAN SAMOA, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population. , year 2005.]]
 
 
 Population statistics
@@ -51,7 +51,7 @@ Sex ratio
 -   65 years and over: 0.85 male(s)/female
 -   Total population: 1 male(s)/female (2015 est.)
 
-American-Samoa_population_pyramid.png.]]
+.]]
 
 Infant mortality rate
 

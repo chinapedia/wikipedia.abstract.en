@@ -1,4 +1,4 @@
-Stab-in-the-back_postcard.jpgd Jew stabbing the German Army in the back with a dagger. The capitulation was blamed upon the unpatriotic populace, the Socialists, Bolsheviks, the Weimar Republic, and especially the Jews.]] Stab-in-the-back_cartoon_1924.jpg German political cartoon showing Philipp Scheidemann, the German Social Democratic politician who proclaimed the Weimar Republic and was its second chancellor, and Matthias Erzberger, an anti-war politician from the Centre Party, who ended World War I by signing the armistice with the Allies, as stabbing the German Army in the back]]
+d Jew stabbing the German Army in the back with a dagger. The capitulation was blamed upon the unpatriotic populace, the Socialists, Bolsheviks, the Weimar Republic, and especially the Jews.]] German political cartoon showing Philipp Scheidemann, the German Social Democratic politician who proclaimed the Weimar Republic and was its second chancellor, and Matthias Erzberger, an anti-war politician from the Centre Party, who ended World War I by signing the armistice with the Allies, as stabbing the German Army in the back]]
 
 The STAB-IN-THE-BACK MYTH (, , literally "dagger stab myth") was the notion, widely believed and promulgated in right-wing circles in Germany after 1918, that the German Army did not lose World War I on the battlefield but was instead betrayed by the civilians on the home front, especially the republicans who overthrew the Hohenzollern monarchy in the German Revolution of 1918–19. Advocates denounced the German government leaders who signed the Armistice on November 11, 1918, as the "November Criminals" ().
 
@@ -9,7 +9,7 @@ Scholars inside and outside Germany unanimously reject the notion, pointing out 
 
 Origins
 
-Bundesarchiv_Bild_146-1973-076-58,_Reichskanzler_Cuno_und_Reichspräsident_Ebert_crop_Ebert_only.jpg: (1923), as Provisional President of the Weimar Republic in 1919, he contributed to the myth, in telling home-coming veterans that "no enemy has vanquished you".]]
+: (1923), as Provisional President of the Weimar Republic in 1919, he contributed to the myth, in telling home-coming veterans that "no enemy has vanquished you".]]
 
 The antisemitic instincts of the German Army were revealed well before the stab-in-the-back myth became the military's excuse for losing the war. In October 1916, in the middle of World War I, the army ordered a "Jewish census" of the troops, with the intent to show that Jews were under-represented in the _Reichswehr_ (army), and that they were over-represented in non-fighting positions. Instead, the census showed just the opposite, that Jews were over-represented both in the army as a whole and in fighting positions at the front. The _Reichswehr_ then suppressed the results of the census.[5]
 
@@ -39,7 +39,7 @@ Richard Steigmann-Gall says that the stab-in-the-back legend traces back to a se
 
 Barth also shows that the term was primarily popularized by the patriotic German newspaper _Deutsche Tageszeitung_ that repeatedly quoted the _Neue Zürcher_ article after Hindenburg had referred to it in front of the parliamentary inquiry commission.
 
-Siegfrieds_Tod.jpg from the epic poem _Nibelungenlied_ (_Song of the Nibelungs_). Hagen takes aim at Siegfried's back with a spear.]]
+from the epic poem _Nibelungenlied_ (_Song of the Nibelungs_). Hagen takes aim at Siegfried's back with a spear.]]
 
 Charges of a Jewish conspiratorial element in Germany's defeat drew heavily upon figures like Kurt Eisner, a Berlin-born German Jew who lived in Munich. He had written about the illegal nature of the war from 1916 onward, and he also had a large hand in the Munich revolution until he was assassinated in February 1919. The Weimar Republic under Friedrich Ebert violently suppressed workers' uprisings with the help of Gustav Noske and Reichswehr General Groener, and tolerated the paramilitary Freikorps forming all across Germany. In spite of such tolerance, the Republic's legitimacy was constantly attacked with claims such as the stab-in-the-back. Many of its representatives such as Matthias Erzberger and Walther Rathenau were assassinated, and the leaders were branded as "criminals" and Jews by the right-wing press dominated by Alfred Hugenberg.
 
@@ -57,8 +57,6 @@ Aftermath
 The theme of stab-in-the-back was articulated in 1919 most prominently by General Erich Ludendorff, one of the two top German commanders. He blamed the Berlin government and the civilian population for the armistice/surrender of November 1918, saying they had failed to support him, had let him down, and had proved themselves unworthy of the traditions of a fighting nation. He popularized the _Dolchstoß_ terminology, and became a prominent right-wing leader in the 1920s.[16]
 
 Post-war reactions and reflections
-
-1920_poster_12000_Jewish_soldiers_KIA_for_the_fatherland.jpg
 
 Conservatives, nationalists and ex-military leaders began to speak critically about the peace and Weimar politicians, socialists, communists, Jews, and sometimes even Catholics were viewed with suspicion due to presumed extra-national loyalties. It was claimed that they had not supported the war and had played a role in selling out Germany to its enemies. These _November Criminals_, or those who seemed to benefit from the newly formed Weimar Republic, were seen to have "stabbed them in the back" on the home front, by either criticizing German nationalism, instigating unrest and strikes in the critical military industries or profiteering. In essence, the accusation was that the accused committed treason against the "benevolent and righteous" common cause. These theories were given credence by the fact that when Germany surrendered in November 1918, its armies were still occupying French and Belgian territory, Berlin remained 450 miles from the nearest front, and the German armies retired from the field of battle in good order.
 

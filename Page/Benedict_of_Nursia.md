@@ -24,7 +24,7 @@ He was the son of a Roman noble of Nursia,[10] the modern Norcia, in Umbria. A t
 
 Benedict was sent to Rome to study, but was disappointed by the life he found there. He does not seem to have left Rome for the purpose of becoming a hermit, but only to find some place away from the life of the great city. He took his old nurse with him as a servant and they settled down to live in Enfide.[11] Enfide, which the tradition of Subiaco identifies with the modern Affile, is in the Simbruini mountains, about forty miles from Rome and two from Subiaco.
 
-Benedetto,_Mauro_e_Placido.jpg to the rescue of Saint Placidus'', by Fra Filippo Lippi, 1445 A.D.]]
+to the rescue of Saint Placidus'', by Fra Filippo Lippi, 1445 A.D.]]
 
 A short distance from Enfide is the entrance to a narrow, gloomy valley, penetrating the mountains and leading directly to Subiaco. The path continues to ascend, and the side of the ravine, on which it runs, becomes steeper, until a cave is reached above which the mountain now rises almost perpendicularly; while on the right, it strikes in a rapid descent down to where, in Saint Benedict's day, below, lay the blue waters of the lake. The cave has a large triangular-shaped opening and is about ten feet deep. On his way from Enfide, Benedict met a monk, Romanus of Subiaco, whose monastery was on the mountain above the cliff overhanging the cave. Romanus had discussed with Benedict the purpose which had brought him to Subiaco, and had given him the monk's habit. By his advice Benedict became a hermit and for three years, unknown to men, lived in this cave above the lake.[12]
 
@@ -40,7 +40,7 @@ During the invasion of Italy, Totila, King of the Goths, ordered a general to we
 
 Veneration
 
-Totila_e_San_Benedetto.jpg and Saint Benedict, painted by Spinello Aretino.]] He is believed to have died of a fever at Monte Cassino not long after his twin sister, Saint Scholastica, and was buried in the same place as his sister. According to tradition, this occurred on 21 March 547. He was named patron protector of Europe by Pope Paul VI in 1964.[18] In 1980, Pope John Paul II declared him co-patron of Europe, together with Saints Cyril and Methodius.[19]
+and Saint Benedict, painted by Spinello Aretino.]] He is believed to have died of a fever at Monte Cassino not long after his twin sister, Saint Scholastica, and was buried in the same place as his sister. According to tradition, this occurred on 21 March 547. He was named patron protector of Europe by Pope Paul VI in 1964.[18] In 1980, Pope John Paul II declared him co-patron of Europe, together with Saints Cyril and Methodius.[19]
 
 In the pre-1970 General Roman Calendar, his feast is kept on 21 March, the day of his death according to some manuscripts of the _Martyrologium Hieronymianum_ and that of Bede. Because on that date his liturgical memorial would always be impeded by the observance of Lent, the 1969 revision of the General Roman Calendar moved his memorial to 11 July, the date that appears in some Gallic liturgical books of the end of the 8th century as the feast commemorating his birth (_Natalis S. Benedicti_). There is some uncertainty about the origin of this feast.[20] Accordingly, on 21 March the Roman Martyrology mentions in a line and a half that it is Benedict's day of death and that his memorial is celebrated on 11 July, while on 11 July it devotes seven lines to speaking of him, and mentions the tradition that he died on 21 March.[21]
 
@@ -58,11 +58,11 @@ Following the golden rule of _Ora et Labora - pray and work_, the monks each day
 
 Saint Benedict Medal
 
-StBenedictVadeRetroSatana.jpg'' which is abbreviated on the Saint Benedict Medal]]
+'' which is abbreviated on the Saint Benedict Medal]]
 
 This devotional medal originally came from a cross in honour of Saint Benedict. On one side, the medal has an image of Saint Benedict, holding the Holy Rule in his left hand and a cross in his right. There is a raven on one side of him, with a cup on the other side of him. Around the medal's outer margin are the words _"Eius in obitu nostro praesentia muniamur"_ ("May we, at our death, be fortified by His presence"). The other side of the medal has a cross with the initials CSSML on the vertical bar which signify _"Crux Sacra Sit Mihi Lux"_ ("May the Holy Cross be my light") and on the horizontal bar are the initials NDSMD which stand for _"Non Draco Sit Mihi Dux"_ ("Let not the dragon be my overlord"). The initials CSPB stand for _"Crux Sancti Patris Benedicti"_ ("The Cross of the Holy Father Benedict") and are located on the interior angles of the cross. Either the inscription _"PAX"_ (Peace) or the Christogram _"IHS"_ may be found at the top of the cross in most cases. Around the medal's margin on this side are the _Vade Retro Satana_ initials VRSNSMV which stand for _"Vade Retro Satana, Nonquam Suade Mihi Vana"_ ("Begone Satan, do not suggest to me thy vanities") then a space followed by the initials SMQLIVB which signify _"Sunt Mala Quae Libas, Ipse Venena Bibas"_ ("Evil are the things thou profferest, drink thou thy own poison").[25]
 
-Benediktusmedaille.jpg for the 1400th anniversary of his birth in 1880]]
+for the 1400th anniversary of his birth in 1880]]
 
 This medal was first struck in 1880 to commemorate the fourteenth centenary of Saint Benedict's birth and is also called the Jubilee Medal; its exact origin, however, is unknown. In 1647, during a witchcraft trial at Natternberg near Metten Abbey in Bavaria, the accused women testified they had no power over Metten, which was under the protection of the cross. An investigation found a number of painted crosses on the walls of the abbey with the letters now found on St Benedict medals, but their meaning had been forgotten. A manuscript written in 1415 was eventually found that had a picture of Saint Benedict holding a scroll in one hand and a staff which ended in a cross in the other. On the scroll and staff were written the full words of the initials contained on the crosses. Medals then began to be struck in Germany, which then spread throughout Europe. This medal was first approved by Pope Benedict XIV in his briefs of 23 December 1741, and 12 March 1742.[26]
 
@@ -71,7 +71,7 @@ Saint Benedict has been also the motive of many collector's coins around the wor
 
 Influence
 
-2002_Austria_50_Euro_Christian_Religious_Orders_front.jpg]]
+]]
 
 The early Middle Ages have been called "the Benedictine centuries."[27] In April 2008, Pope Benedict XVI discussed the influence St Benedict had on Western Europe. The pope said that "with his life and work St Benedict exercised a fundamental influence on the development of European civilization and culture" and helped Europe to emerge from the "dark night of history" that followed the fall of the Roman empire.[28]
 

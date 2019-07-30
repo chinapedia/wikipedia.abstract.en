@@ -15,23 +15,21 @@ Boston (1871–1952)
 
 1871–1913
 
-1873Bostonteampicture.jpg
-
 The Cincinnati Red Stockings, established in 1869 as the first openly all-professional baseball team, voted to dissolve after the 1870 season. Player-manager Harry Wright, with brother George and two other Cincinnati players, then went to Boston, Massachusetts at the invitation of Boston Red Stockings founder Ivers Whitney Adams to form the nucleus of the _Boston Red Stockings_, a charter member of the National Association of Professional Base Ball Players (NAPBBP). The original Boston Red Stockings team and its successors can lay claim to being the oldest continuously playing team in American professional sports.[7] (The only other team that has been organized as long, the Chicago Cubs, did not play for the two years following the Great Chicago Fire of 1871.) Two young players hired away from the Forest City club of Rockford, Illinois, turned out to be the biggest stars during the NAPBBP years: pitcher Al Spalding (founder of Spalding sporting goods) and second baseman Ross Barnes.
 
 Led by the Wright brothers, Barnes, and Spalding, the Red Stockings dominated the National Association, winning four of that league's five championships. The team became one of the National League's charter franchises in 1876, sometimes called the "_Red Caps_" (as a new Cincinnati Red Stockings club was another charter member).
 
 The Boston Red Caps played in the first game in the history of the National League, on Saturday, April 22, 1876, defeating the Philadelphia Athletics, 6–5.[8][9][10]
 
-1888_Boston_Beaneaters.jpg Although somewhat stripped of talent in the National League's inaugural year, Boston bounced back to win the 1877 and 1878 pennants. The Red Caps/Beaneaters were one of the league's dominant teams during the 19th century, winning a total of eight pennants. For most of that time, their manager was Frank Selee. Boston came to be called the _Beaneaters_ in 1883, while retaining red as the team color. The 1898 team finished 102–47, a club record for wins that would stand for almost a century. Stars of those 1890s Beaneater teams included the "Heavenly Twins", Hugh Duffy and Tommy McCarthy, as well as "Slidin'" Billy Hamilton.
+Although somewhat stripped of talent in the National League's inaugural year, Boston bounced back to win the 1877 and 1878 pennants. The Red Caps/Beaneaters were one of the league's dominant teams during the 19th century, winning a total of eight pennants. For most of that time, their manager was Frank Selee. Boston came to be called the _Beaneaters_ in 1883, while retaining red as the team color. The 1898 team finished 102–47, a club record for wins that would stand for almost a century. Stars of those 1890s Beaneater teams included the "Heavenly Twins", Hugh Duffy and Tommy McCarthy, as well as "Slidin'" Billy Hamilton.
 
-Hugh_Duffy_Baseball.jpg played with the franchise from 1892 to 1900 and won the third Triple Crown in MLB history]] The team was decimated when the American League's new Boston entry set up shop in 1901. Many of the Beaneaters' stars jumped to the new team, which offered contracts that the Beaneaters' owners did not even bother to match. They only managed one winning season from 1900 to 1913, and lost 100 games five times. In 1907, the Beaneaters (temporarily) eliminated the last bit of red from their stockings because their manager thought the red dye could cause wounds to become infected (as noted in _The Sporting News Baseball Guide_ during the 1940s when each team's entry had a history of its nickname(s). The American League club's owner, Charles Taylor, wasted little time in adopting Red Sox as his team's first official nickname (up to that point they had been called by the generic "Americans"). Media-driven nickname changes to the _Doves_ in 1907 and the _Rustlers_ in 1911 did nothing to change the National League club's luck. The team became the _Braves_ for the first time in 1912. Their owner, James Gaffney, was a member of New York City's political machine, Tammany Hall, which used an Indian chief as their symbol.[11]
+played with the franchise from 1892 to 1900 and won the third Triple Crown in MLB history]] The team was decimated when the American League's new Boston entry set up shop in 1901. Many of the Beaneaters' stars jumped to the new team, which offered contracts that the Beaneaters' owners did not even bother to match. They only managed one winning season from 1900 to 1913, and lost 100 games five times. In 1907, the Beaneaters (temporarily) eliminated the last bit of red from their stockings because their manager thought the red dye could cause wounds to become infected (as noted in _The Sporting News Baseball Guide_ during the 1940s when each team's entry had a history of its nickname(s). The American League club's owner, Charles Taylor, wasted little time in adopting Red Sox as his team's first official nickname (up to that point they had been called by the generic "Americans"). Media-driven nickname changes to the _Doves_ in 1907 and the _Rustlers_ in 1911 did nothing to change the National League club's luck. The team became the _Braves_ for the first time in 1912. Their owner, James Gaffney, was a member of New York City's political machine, Tammany Hall, which used an Indian chief as their symbol.[11]
 
 1914: Miracle
 
 Two years later, the Braves put together one of the most memorable seasons in baseball history. After a dismal 4–18 start, the Braves seemed to be on pace for a last place finish. On July 4, 1914, the Braves lost both games of a doubleheader to the Brooklyn Dodgers. The consecutive losses put their record at 26–40 and the Braves were in last place, _15 games_ behind the league-leading New York Giants, who had won the previous three league pennants. After a day off, the Braves started to put together a hot streak, and from July 6 through September 5, the Braves went 41–12.[12] On September 7 and 8, the Braves took two of three games from the New York Giants and moved into first place. The Braves tore through September and early October, closing with 25 wins against six losses, while the Giants went 16–16.[13] They were the only team, under the old eight-team league format, to win a pennant after being in last place on the Fourth of July. They were in last place as late as July 18, but were close to the pack, moving into fourth on July 21 and second place on August 12.[14]
 
-Seattle_Bill_James.jpg was 2–0 in the 1914 World Series, and the Braves recorded the first sweep in World Series history]] Despite their amazing comeback, the Braves entered the World Series as a heavy underdog to Connie Mack's Philadelphia A's. Nevertheless, the Braves swept the Athletics—the first unqualified sweep in the young history of the modern World Series (the 1907 Series had one tied game) to win the world championship. Meanwhile, Johnny Evers won the Chalmers Award.
+was 2–0 in the 1914 World Series, and the Braves recorded the first sweep in World Series history]] Despite their amazing comeback, the Braves entered the World Series as a heavy underdog to Connie Mack's Philadelphia A's. Nevertheless, the Braves swept the Athletics—the first unqualified sweep in the young history of the modern World Series (the 1907 Series had one tied game) to win the world championship. Meanwhile, Johnny Evers won the Chalmers Award.
 
 The Braves played the World Series (as well as the last few games of the 1914 season) at Fenway Park, since their normal home, the South End Grounds, was too small. However, the Braves' success inspired owner Gaffney to build a modern park, Braves Field, which opened in August 1915. It was the largest park in the majors at the time, with 40,000 seats and a very spacious outfield. The park was novel for its time; public transportation brought fans right to the park.
 
@@ -49,7 +47,7 @@ Seeing a franchise in complete disarray, Ruth retired on June 1—only six days 
 
 Fuchs lost control of the team in August 1935,[18] and the new owners tried to change the team's image by renaming it the _Boston Bees_. This did little to change the team's fortunes. After five uneven years, a new owner, construction magnate Lou Perini, changed the nickname back to the Braves. He immediately set about rebuilding the team. World War II slowed things down a little, but the team rode the pitching of Warren Spahn to impressive seasons in 1946 and 1947.
 
-Johnny_Sain_and_Warren_Spahn.png]] In 1948, the team won the pennant, behind the pitching of Spahn and Johnny Sain, who won 39 games between them. The remainder of the rotation was so thin that in September, _Boston Post_ writer Gerald Hern wrote this poem about the pair:
+]] In 1948, the team won the pennant, behind the pitching of Spahn and Johnny Sain, who won 39 games between them. The remainder of the rotation was so thin that in September, _Boston Post_ writer Gerald Hern wrote this poem about the pair:
 
     _First we'll use Spahn_
     _then we'll use Sain_
@@ -69,7 +67,7 @@ Milwaukee (1953–1965)
 
 Milwaukee went wild over the Braves, drawing a then-NL record 1.8 million fans. The Braves finished 92–62 in their first season in Milwaukee. The success of the relocated team showed that baseball could succeed in new markets, and the Philadelphia Athletics, St. Louis Browns, Brooklyn Dodgers, and New York Giants would leave their hometowns within the next five years.
 
-MilwaukeeBaseballM.svg As the 1950s progressed, the reinvigorated Braves became increasingly competitive. Sluggers Eddie Mathews and Hank Aaron drove the offense (they would hit a combined 1,226 home runs as Braves, with 850 of those coming while the franchise was in Milwaukee), often aided by another power hitter, Joe Adcock, while Warren Spahn, Lew Burdette, and Bob Buhl anchored the rotation. The 1956 Braves finished second, only one game behind the Brooklyn Dodgers.
+As the 1950s progressed, the reinvigorated Braves became increasingly competitive. Sluggers Eddie Mathews and Hank Aaron drove the offense (they would hit a combined 1,226 home runs as Braves, with 850 of those coming while the franchise was in Milwaukee), often aided by another power hitter, Joe Adcock, while Warren Spahn, Lew Burdette, and Bob Buhl anchored the rotation. The 1956 Braves finished second, only one game behind the Brooklyn Dodgers.
 
 In 1957, the Braves celebrated their first pennant in nine years spearheaded by Aaron's MVP season, as he led the National League in home runs and RBI. Perhaps the most memorable of his 44 round-trippers that season came on September 23, a two-run walk-off home run that gave the Braves a 4–2 victory over the St. Louis Cardinals and clinched the League championship. The team then went on to its first World Series win in over 40 years, defeating the powerful New York Yankees of Berra, Mantle, and Ford in seven games. One-time Yankee Burdette, the Series MVP, threw three complete game victories against his former team, giving up only two earned runs.
 
@@ -77,7 +75,7 @@ In 1958, the Braves again won the National League pennant and jumped out to a th
 
 The 1959 season saw the Braves finish the season in a tie with the Los Angeles Dodgers, both with 86–68 records. Many residents of Chicago and Milwaukee were hoping for a Sox-Braves Series, as the cities are only about apart, but it was not to be because Milwaukee fell in a best-of-3 playoff with two straight losses to the Dodgers. The Dodgers would go on to defeat the Chicago White Sox in the World Series.
 
-MilwaukeeBraves5461.png The next six years were up-and-down for the Braves. The 1960 season featured two no-hitters by Burdette and Spahn, and Milwaukee finished seven games behind the Pittsburgh Pirates, who ultimately were to win the World Series that year, in second place, one year after the Braves were on the winning end of the 13-inning near-perfect game of Pirates pitcher Harvey Haddix. The 1961 season saw a drop in the standings for the Braves down to fourth, despite Spahn recording his 300th victory and pitching another no-hitter that year.
+The next six years were up-and-down for the Braves. The 1960 season featured two no-hitters by Burdette and Spahn, and Milwaukee finished seven games behind the Pittsburgh Pirates, who ultimately were to win the World Series that year, in second place, one year after the Braves were on the winning end of the 13-inning near-perfect game of Pirates pitcher Harvey Haddix. The 1961 season saw a drop in the standings for the Braves down to fourth, despite Spahn recording his 300th victory and pitching another no-hitter that year.
 
 Aaron hit 45 home runs in 1962, a Milwaukee career high for him, but this did not translate into wins for the Braves, as they finished fifth. The next season, Aaron again hit 44 home runs and notched 130 RBI, and Spahn was once again the ace of the staff, going 23–7. However, none of the other Braves produced at that level, and the team finished in the "second division", for the first time in its short history in Milwaukee.
 
@@ -93,13 +91,13 @@ Atlanta (1966–present)
 
 The Braves were a .500 team in their first few years in Atlanta; 85–77 in 1966, 77–85 in 1967, and 81–81 in 1968. The 1967 season was the Braves' first losing season since 1952, their last year in Boston. In 1969, with the onset of divisional play, the Braves won the first-ever National League West Division title, before being swept by the "Miracle Mets" in the National League Championship Series. They would not be a factor during the next decade, posting only two winning seasons between 1970 and 1981 – in some cases, fielding teams as bad as the worst Boston teams.
 
-Aaron_715.jpg.]] In the meantime, fans had to be satisfied with the achievements of Hank Aaron. In the relatively hitter-friendly confines and higher-than-average altitude of Atlanta Stadium ("The Launching Pad"), he actually increased his offensive production. Atlanta also produced batting champions in Rico Carty (in 1970) and Ralph Garr (in 1974). In the shadow of Aaron's historical home run pursuit, was the fact that three Atlanta sluggers hit 40 or more home runs in 1973 – Darrell Evans and Davey Johnson along with Aaron.
+.]] In the meantime, fans had to be satisfied with the achievements of Hank Aaron. In the relatively hitter-friendly confines and higher-than-average altitude of Atlanta Stadium ("The Launching Pad"), he actually increased his offensive production. Atlanta also produced batting champions in Rico Carty (in 1970) and Ralph Garr (in 1974). In the shadow of Aaron's historical home run pursuit, was the fact that three Atlanta sluggers hit 40 or more home runs in 1973 – Darrell Evans and Davey Johnson along with Aaron.
 
 By the end of the 1973 season, Aaron had hit 713 home runs, one short of Ruth's record. Throughout the winter he received racially motivated death threats, but stood up well under the pressure. The next season, it was only a matter of time before he set a new record. On April 4, opening day, he hit No.714 in Cincinnati, and on April 8, in front of his home fans and a national television audience he finally beat Ruth's mark with a home run to left-center field off left-hander Al Downing of the Los Angeles Dodgers. Aaron spent most of his career as a Milwaukee and Atlanta Brave before asking to be traded to the Milwaukee Brewers, while Ruth finished his career as a Boston Brave. In fact, until Barry Bonds eclipsed the 714 home runs hit by Babe Ruth in 2006, the top two home run hitters in Major League history had at one time been Braves.
 
 1976–1977: Ted Turner buys the team
 
-Международная_Леонардо-премия_10.1.jpg purchased the team in 1976, and played a large role in the team's operation.]]
+purchased the team in 1976, and played a large role in the team's operation.]]
 
 In 1976, the team was purchased by media magnate Ted Turner, owner of superstation WTBS, as a means to keep the team (and one of his main programming staples) in Atlanta. The financially strapped Turner used money already paid to the team for their broadcast rights as a down-payment. It was then that Atlanta Stadium was renamed Atlanta–Fulton County Stadium. Turner quickly gained a reputation as a quirky, hands-on baseball owner. On May 11, 1977, Turner appointed himself manager, but because MLB passed a rule in the 1950s barring managers from holding a financial stake in their teams, Turner was ordered to relinquish that position after one game (the Braves lost 2–1 to the Pittsburgh Pirates to bring their losing streak to 17 games).
 
@@ -107,7 +105,7 @@ Turner used the Braves as a major programming draw for his fledgling cable netwo
 
 1978–1990
 
-PhilNierko1982.jpg played with the Braves from 1964 to 1983 and in 1987; he holds the MLB record for most wins by a knuckleball pitcher]]
+played with the Braves from 1964 to 1983 and in 1987; he holds the MLB record for most wins by a knuckleball pitcher]]
 
 After three straight losing seasons, Bobby Cox was hired for his first stint as manager for the 1978 season. He promoted 22-year-old slugger Dale Murphy into the starting lineup. Murphy hit 77 home runs over the next three seasons, but he struggled on defense, unable to adeptly play either catcher or first base. In 1980, Murphy was moved to center field and demonstrated excellent range and throwing ability, while the Braves earned their first winning season since 1974. Cox was fired after the 1981 season and replaced with Joe Torre, under whose leadership the Braves attained their first divisional title since 1969. Strong performances from Bob Horner, Chris Chambliss, pitcher Phil Niekro, and short relief pitcher Gene Garber helped the Braves, but no Brave was more acclaimed than Murphy, who won both a Most Valuable Player and a Gold Glove award. Murphy also won an MVP award the following season, but the Braves began a period of decline that defined the team throughout the 1980s. Murphy, excelling in defense, hitting, and running, was consistently recognized as one of the league's best players, but the Braves averaged only 65 wins per season between 1985 and 1990. Their lowest point came in 1988, when they lost 106 games. The 1986 season saw the return of Bobby Cox as general manager. Also in 1986, the team stopped using their Indian-themed mascot, Chief Noc-A-Homa.
 
@@ -131,7 +129,7 @@ The Braves returned strong the following strike-shortened (144 games instead of 
 
 In October 1996, Time Warner acquired Ted Turner's Turner Broadcasting System and all of its assets, including its cable channels and the Atlanta Braves. Over the next few years, Ted Turner's presence as owner of the team would diminish.
 
-1995_World_Series_trophy.JPG Commissioner's Trophy on display in the Ivan Allen Jr. Braves Museum and Hall of Fame at Turner Field]] A 95–67 record in produced a ninth consecutive division title. However, a sweep by the St. Louis Cardinals in the National League Division Series prevented the Braves from reaching the NL Championship Series.[24]
+Commissioner's Trophy on display in the Ivan Allen Jr. Braves Museum and Hall of Fame at Turner Field]] A 95–67 record in produced a ninth consecutive division title. However, a sweep by the St. Louis Cardinals in the National League Division Series prevented the Braves from reaching the NL Championship Series.[24]
 
 In 2001, Atlanta won the National League East division yet again, swept the Houston Astros in the NLDS, then lost to the Arizona Diamondbacks in the National League Championship Series four games to one. One memorable game the Braves played that year came on September 21, when they played rival New York Mets in the first major professional sporting event held in New York City since 9/11.
 
@@ -156,7 +154,7 @@ After the 2005 season, the Braves lost their long-time pitching coach Leo Mazzon
 
 2006: Struggles
 
-Andruw_Jones.jpg at bat for the Braves in 2006]]
+at bat for the Braves in 2006]]
 
 In 2006, the Braves did not perform at the level they had grown accustomed to. Due to an offensive slump, injuries to their starting rotation, and subpar bullpen performances, the Braves compiled a 6–21 record during June, the worst month ever in Atlanta with a winning percentage of .222; this was only better than the woeful Boston Braves in May 1935 (4–20) with a .166 winning percentage.
 
@@ -174,7 +172,7 @@ On May 16, 2007, Major League Baseball's owners approved the sale of the Braves 
 
 2007: More struggles
 
-BrianMcCann.JPG bats for Atlanta in July 2007]]
+bats for Atlanta in July 2007]]
 
 On July 5, Chipper Jones surpassed Dale Murphy for the Atlanta club record of 372 home runs by belting two against the Los Angeles Dodgers.
 
@@ -182,7 +180,7 @@ After struggling during the second half of the 2007 season, Atlanta finished ove
 
 2009: The return of solid pitching
 
-Kenshin_Kawakami_on_August_3,_2009.jpg pitching for the Braves in 2009]]
+pitching for the Braves in 2009]]
 
 On December 4, 2008, the Atlanta Braves received Javier Vázquez and Boone Logan, while the Chicago White Sox received prospects catcher Tyler Flowers, shortstop Brent Lillibridge, third baseman Jon Gilmore and pitcher Santos Rodriguez.[32] On January 13, 2009, the Braves signed Japanese pitcher Kenshin Kawakami to a three-year deal, and two days later signed free agent pitcher Derek Lowe to a four-year contract. During the course of the offseason, the Braves signed veteran pitcher and former Brave Tom Glavine, while losing long-time Brave John Smoltz to the Boston Red Sox.
 
@@ -194,13 +192,13 @@ The Braves made a late-season surge, coming within 2 games of the wild card lead
 
 2010: Cox's final season
 
-Bobby_Cox_signs_autograph_CROPPED.jpg retired in 2010 after 25 years of management]]
+retired in 2010 after 25 years of management]]
 
 The 2010 Atlanta Braves Season features the Braves' attempt to reclaim a postseason berth for the first time since 2005. The Braves were once again skippered by Bobby Cox, now in his 25th and final season managing the team. The Braves started the 2010 season slowly and had a nine-game losing streak in April. Then they had a nine-game winning streak from May 26 through June 3, the Braves longest since 2000 when they won 16 in a row. On May 31, the Atlanta Braves defeated the then-first place Philadelphia Phillies at Turner Field to take sole possession of first place in the National League East standings, a position they had maintained through the middle of August.[34] The last time the Atlanta Braves led the NL East on August 1 was in 2005. On July 13, 2010 at the 2010 MLB All-Star Game in Anaheim, Braves catcher Brian McCann was awarded the All-Star Game MVP Award for his clutch two-out, three-run double in the seventh inning to give the National League its first win in the All-Star Game since 1996.[35] He became the first Brave to win the All-Star Game MVP Award since Fred McGriff did so in 1994. The Braves made two deals before the trade deadline to acquire Álex González, Rick Ankiel and Kyle Farnsworth from the Toronto Blue Jays and Kansas City Royals, giving up shortstop Yunel Escobar, pitchers Jo-Jo Reyes and Jesse Chavez, outfielder Gregor Blanco and three minor leaguers.[36][37] On August 18, 2010 they traded three pitching prospects for first baseman Derrek Lee from the Chicago Cubs.[38] On August 22, 2010 against the Chicago Cubs, Mike Minor struck out 12 batters across 6 innings; an Atlanta Braves single game rookie strikeout record.[39] The Braves dropped to second in the NL East in early September, but won the NL Wild Card. They lost to the San Francisco Giants in the National League Division Series in four games. Every game of the series was determined by one run. After the series-clinching victory for the Giants in Game 4, Bobby Cox was given a standing ovation by the fans, also by players and coaches of both the Braves and Giants.
 
 2011: Fredi González takes over
 
-Craig_Kimbrel_9-12-11.jpg Craig Kimbrel pitching in 2011]]
+Craig Kimbrel pitching in 2011]]
 
 On October 13, 2010, the Atlanta Braves announced that Fredi González would replace long-time Braves manager Bobby Cox as manager of the team in 2011.[40] The announcement came just two days after the 2010 Braves were eliminated from the postseason. It was also announced that pitching coach Roger McDowell, third-base coach Brian Snitker, and bullpen coach Eddie Pérez would retain their current positions, while former hitting coach Terry Pendleton would replace Glenn Hubbard as the first-base coach and newcomer Carlos Tosca would become the new bench coach. Hubbard and former bench coach Chino Cadahia were not offered positions on the new coaching staff. Larry Parrish was hired as hitting coach on October 29, 2010.
 
@@ -216,7 +214,7 @@ With 27 games to play, the Braves went 9–18 in September to finish the season 
 
 2012: Chipper's last season
 
-Chipper_Jones_last_reg_season_game.jpg prior to his final regular season game on September 30, 2012. Jones announced he would retire after 19 seasons with the Braves]]
+prior to his final regular season game on September 30, 2012. Jones announced he would retire after 19 seasons with the Braves]]
 
 In 2012, the Braves began their 138th season after an upsetting end to the 2011 season. On March 22, the Braves announced that third baseman Chipper Jones would retire following the 2012 season after 19 Major League seasons with the team. The Braves also lost many key players through trades or free agency, including pitcher Derek Lowe, shortstop Alex González, and outfielder Nate McLouth. To compensate for this, the team went on to receive many key players such as outfielder Michael Bourn, along with shortstops Tyler Pastornicky and Andrelton Simmons. To fill the void of a quality starting pitcher left by Lowe (as well as a mid-season injury to Brandon Beachy), manager Fredi González elected relief pitcher Kris Medlen to the starting pitching rotation. The Braves went on to win every game Medlen started, setting the MLB record for most consecutive wins when a single pitcher starts (total of 23). Atlanta stayed close to the Washington Nationals in the race to win the National League East title. They also stayed on top of the National League Wild Card race. Washington ended up winning their first division title in franchise history, but the Braves remained in first place of the NL wild card race. Keeping with a new MLB rule for the 2012 season, the top two wild card teams in each league must play each other in a playoff game before entering into the Division Series.
 
@@ -224,7 +222,7 @@ The Braves played the St. Louis Cardinals in the first ever Wild Card Game. The 
 
 2013: Braves win the East
 
-Evan_Gattis_on_April_7,_2013.jpg catching for the Braves in 2013]]
+catching for the Braves in 2013]]
 
 During the offseason following a gut wrenching exit against the St. Louis Cardinals in the Wild Card Game, the Braves spent the 2012–2013 offseason revamping and retooling their offense. The Braves turned heads across baseball by acquiring B.J. Upton from the Tampa Bay Rays, signing him to a 5-year $75.25 million contract and making him their starting center fielder,[54] and uniting him with his younger brother Justin Upton from the Arizona Diamondbacks in a seven player trade that sent fan favorite utility man Martín Prado to the Diamondbacks,[55] they also filled a need for a new Third Baseman in Chris Johnson after the retirement of Chipper Jones the previous year. The Braves began the 2013 season with a hot start in April by going 17–9 for the month, which saw the emergence of rookie sensation Evan Gattis, while taking hold of first place in the National League East division, a lead they would never relinquish for the rest of the season. The Braves suffered many injuries to key players throughout the season, including injuries to Jason Heyward, Brian McCann, Freddie Freeman, Eric O'Flaherty, Jonny Venters, Ramiro Pena and others, but found a way to win despite these blows to the team. Leading up to the All Star break, First Baseman Freddie Freeman was voted in to play for the 2013 National League All-Star Team, in the 2013 All Star Game, which he did not play. The Braves also witnessed the emergence of rookie pitcher Julio Teherán after much hype during Spring training. From July 26 to August 10, the Braves won 14 games in a row.[56] The winning streak was the longest of its kind since April–May 2000.
 
@@ -236,7 +234,7 @@ After clinching the division title, they lost to the Dodgers 3–1 in the Divisi
 
 2014: Losing season
 
-Heywardb2014.jpg runs the bases in 2014]]
+runs the bases in 2014]]
 
 On November 11, 2013, the Braves announced that they would vacate Turner Field for a new stadium in Cobb County, in the northwest suburbs outside of Atlanta in 2017. The move is to follow the expiration of the Braves' 20-year lease on Turner Field in 2016. The new stadium is to be constructed in a public/private partnership.[59][60][61][62][63][64][65] During the offseason the Braves signed few of their young talents to multi year contracts; Craig Kimbrel (4 years/$42M), Freddie Freeman (8 years/$135M), Kris Medlen (1 year/$5.8M), Jason Heyward (2 years/$13.3M), Julio Teherán (6 years/$32.4M) and Andrelton Simmons (7 years/$58M).
 
@@ -258,7 +256,7 @@ During the 2016 off-season, the Braves signed pitchers R.A. Dickey[71] and Barto
 
 2017: SunTrust Park and front office changes
 
-SunTrust_Park_Opening_Day_2017.jpg prior to its first regular-season game]]
+prior to its first regular-season game]]
 
 The Braves opened their new stadium, SunTrust Park, on April 14, 2017, with a four-game sweep of the San Diego Padres. The park received positive reviews. Woody Studenmund of the Hardball Times called the park a "gem" and he was impressed with "the compact beauty of the stadium and its exciting approach to combining baseball, business and social activities."[73] J.J. Cooper of Baseball America praised the "excellent sight lines for pretty much every seat."[74] Cooper also noted that "the Wi-Fi works and it's very fast, even with a park full of smartphone users."[75] The Braves also introduced "The Freeze" as between-innings entertainment—a former college sprinter, dressed in aqua spandex, has a footrace with a fan; The Freeze wins the majority of the races, despite the fan being given a significant head start.[76]
 
@@ -298,8 +296,8 @@ While their rivalry with the Philadelphia Phillies lacks the history and hatred 
 
 Uniforms
 
-  MPrado01.jpg wearing the home uniform]]   MG_9800_Ben_Sheets.jpg wearing the away uniform]]   Freddie_Freeman_on_September_30,_2012.jpg wearing the first alternate home uniform]]   Gregor_Blanco.jpg wearing the second alternate home uniform]]   Michael_Bourn_on_April_5,_2012.jpg wearing the alternate away uniform]]
-  ----------------------------------------- --------------------------------------------------- -------------------------------------------------------------------------------------- --------------------------------------------------------------- -------------------------------------------------------------------------
+  wearing the home uniform]]   wearing the away uniform]]   wearing the first alternate home uniform]]   wearing the second alternate home uniform]]   wearing the alternate away uniform]]
+  ---------------------------- ---------------------------- -------------------------------------------- --------------------------------------------- --------------------------------------
 
 The Braves currently have five different game baseball uniform combinations.
 

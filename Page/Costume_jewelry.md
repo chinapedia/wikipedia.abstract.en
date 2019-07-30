@@ -1,4 +1,4 @@
-Swatch_Bijoux_Jewelry.JPG Bijoux Jewelry]]
+Bijoux Jewelry]]
 
 COSTUME JEWELRY, IMITATED JEWELRY; TRINKETS, FASHION JEWELRY, JUNK JEWELRY, FAKE JEWELRY, or FALLALERY is jewelry manufactured as ornamentation to complement a particular fashionable costume or garment[1] as opposed to "real" (fine) jewelry, which may be regarded primarily as collectibles, keepsakes, or investments.
 
@@ -10,7 +10,7 @@ The term costume jewelry dates back to the early 20th century. It reflects the u
 
 Components
 
-A002.jpg Originally, costume or fashion jewelry was made of inexpensive simulated gemstones, such as rhinestones or lucite, set in pewter, silver, nickel, or brass. During the depression years, rhinestones were even down-graded by some manufacturers to meet the cost of production.[2]
+Originally, costume or fashion jewelry was made of inexpensive simulated gemstones, such as rhinestones or lucite, set in pewter, silver, nickel, or brass. During the depression years, rhinestones were even down-graded by some manufacturers to meet the cost of production.[2]
 
 During the World War II era, sterling silver was often incorporated into costume jewelry designs primarily because:
 
@@ -48,7 +48,7 @@ According to Schiffer, some of the characteristics of the costume jewelry in the
 
 Art Modern period (1945 to 1960)
 
-SCsultana1959.jpg In the Art Modern period following World War II, jewelry designs became more traditional and understated. The big, bold styles of the Retro period went out of style and were replaced by the more tailored styles of the 1950s and 1960s.[6]
+In the Art Modern period following World War II, jewelry designs became more traditional and understated. The big, bold styles of the Retro period went out of style and were replaced by the more tailored styles of the 1950s and 1960s.[6]
 
 According to Schiffer, some of the characteristics of the costume jewelry in the Art Modern period were:[7]
 

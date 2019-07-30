@@ -1,4 +1,4 @@
-BauxiteUSGOV.jpg for comparison]] Qemscan_pisoliths.png mineral maps of bauxite ore-forming pisoliths]]
+for comparison]] mineral maps of bauxite ore-forming pisoliths]]
 
 BAUXITE is a sedimentary rock with a relatively high aluminium content. It is the world's main source of aluminium. Bauxite consists mostly of the aluminium minerals gibbsite (Al(OH)₃), boehmite (γ-AlO(OH)) and diaspore (α-AlO(OH)), mixed with the two iron oxides goethite (FeO(OH)) and haematite (Fe₂O₃), the aluminium clay mineral kaolinite (Al₂Si₂O₅(OH)) and small amounts of anatase (TiO₂) and ilmenite (FeTiO₃ or FeO.TiO₂).[1]
 
@@ -10,7 +10,7 @@ In 1821 the French geologist Pierre Berthier discovered bauxite near the village
 
 Formation
 
-Bauxite_with_unweathered_rock_core._C_021.jpg Numerous classification schemes have been proposed for bauxite but, , there was no consensus.[2]
+Numerous classification schemes have been proposed for bauxite but, , there was no consensus.[2]
 
 Vadász (1951) distinguished lateritic bauxites (silicate bauxites) from karst bauxite ores (carbonate bauxites):[3]
 
@@ -22,7 +22,7 @@ In the case of Jamaica, recent analysis of the soils showed elevated levels of c
 
 Production trends
 
-2005bauxite.png Weipa-bauxite-mine.jpg, Australia]] Australia is the largest producer of bauxite, followed by China.[4] In 2017, China was the top producer of aluminium with almost half of the world's production, followed by Russia, Canada, and India.[5] Although aluminium demand is rapidly increasing, known reserves of its bauxite ore are sufficient to meet the worldwide demands for aluminium for many centuries.[6] Increased aluminium recycling, which has the advantage of lowering the cost in electric power in producing aluminium, will considerably extend the world's bauxite reserves.
+, Australia]] Australia is the largest producer of bauxite, followed by China.[4] In 2017, China was the top producer of aluminium with almost half of the world's production, followed by Russia, Canada, and India.[5] Although aluminium demand is rapidly increasing, known reserves of its bauxite ore are sufficient to meet the worldwide demands for aluminium for many centuries.[6] Increased aluminium recycling, which has the advantage of lowering the cost in electric power in producing aluminium, will considerably extend the world's bauxite reserves.
 
   Country                 Mine production   Reserves
   ----------------------- ----------------- ------------
@@ -51,7 +51,7 @@ In November 2010, Nguyen Tan Dung, the prime minister of Vietnam, announced that
 
 Processing
 
-CaboRojoDRBauxite.jpg, to be shipped elsewhere for processing; 2007]] Bauxite_being_digested_by_washing_with_hot_Sodium_Hydroxide.webm Bauxite is usually strip mined because it is almost always found near the surface of the terrain, with little or no overburden. , approximately 70% to 80% of the world's dry bauxite production is processed first into alumina and then into aluminium by electrolysis.[9] Bauxite rocks are typically classified according to their intended commercial application: metallurgical, abrasive, cement, chemical, and refractory.
+, to be shipped elsewhere for processing; 2007]] Bauxite is usually strip mined because it is almost always found near the surface of the terrain, with little or no overburden. , approximately 70% to 80% of the world's dry bauxite production is processed first into alumina and then into aluminium by electrolysis.[9] Bauxite rocks are typically classified according to their intended commercial application: metallurgical, abrasive, cement, chemical, and refractory.
 
 Usually, bauxite ore is heated in a pressure vessel along with a sodium hydroxide solution at a temperature of . At these temperatures, the aluminium is dissolved as sodium aluminate (the Bayer process). The aluminium compounds in the bauxite may be present as gibbsite(Al(OH)₃), boehmite(AlOOH) or diaspore(AlOOH); the different forms of the aluminium component will dictate the extraction conditions. The undissolved waste, bauxite tailings, after the aluminium compounds are extracted contains iron oxides, silica, calcia, titania and some un-reacted alumina. After separation of the residue by filtering, pure gibbsite is precipitated when the liquid is cooled, and then seeded with fine-grained aluminium hydroxide. The gibbsite is usually converted into aluminium oxide, Al₂O₃, by heating in rotary kilns or fluid flash calciners to a temperature in excess of . This aluminium oxide is dissolved at a temperature of about in molten cryolite. Next, this molten substance can yield metallic aluminium by passing an electric current through it in the process of electrolysis, which is called the Hall–Héroult process, named after its American and French discoverers.
 

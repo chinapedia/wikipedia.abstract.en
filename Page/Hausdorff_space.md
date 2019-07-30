@@ -5,8 +5,6 @@ Hausdorff spaces are named after Felix Hausdorff, one of the founders of topolog
 
 Definitions
 
-Hausdorff_space.svg
-
 Points _x_ and _y_ in a topological space _X_ can be _separated by neighbourhoods_ if there exists a neighbourhood _U_ of _x_ and a neighbourhood _V_ of _y_ such that _U_ and _V_ are disjoint ( ∅}}). _X_ is a HAUSDORFF SPACE if all distinct points in _X_ are pairwise neighbourhood-separable. This condition is the third separation axiom (after T₀ and T₁), which is why Hausdorff spaces are also called _T₂ spaces_. The name _separated space_ is also used.
 
 A related, but weaker, notion is that of a PREREGULAR SPACE. _X_ is a preregular space if any two topologically distinguishable points can be separated by disjoint neighbourhoods. Preregular spaces are also called _R₁ spaces_.

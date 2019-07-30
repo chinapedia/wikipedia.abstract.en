@@ -1,4 +1,4 @@
-Naval_Chapel_GI_Mel-Syd.JPG]] Five ships of the Royal Australian Navy (RAN) have been named HMAS _SYDNEY_, after Sydney, the capital city of New South Wales.
+]] Five ships of the Royal Australian Navy (RAN) have been named HMAS _SYDNEY_, after Sydney, the capital city of New South Wales.
 
 -   , a Town-class light cruiser launched in 1912, decommissioned in 1928, and broken up for scrap
 

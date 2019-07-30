@@ -24,7 +24,7 @@ Some indication of the popularity of the Infancy Gospel of James may be drawn fr
 
 Content
 
-GaudFerrariAnnuncJoachAnna.jpg, 1544–45: Extra-canonical legends surrounding Mary's birth became an integral element of Christian lore, in both East and West.]] Byzantine_ivory_802.jpg panel with the Adoration of the Magi (6th century AD). At bottom centre, a kneeling woman — Salome — holds out her withered hand towards the infant Christ; this story only features in the Gospel of James.]] The Gospel of James is in three equal parts, of eight chapters each:
+, 1544–45: Extra-canonical legends surrounding Mary's birth became an integral element of Christian lore, in both East and West.]] panel with the Adoration of the Magi (6th century AD). At bottom centre, a kneeling woman — Salome — holds out her withered hand towards the infant Christ; this story only features in the Gospel of James.]] The Gospel of James is in three equal parts, of eight chapters each:
 
 -   The first contains the story of the miraculous birth of Mary to Anna, who is infertile, and Mary's childhood and dedication to the temple.
 -   The second starts when she is 12 years old, and through the direction of an angel, Joseph is selected to become her husband.

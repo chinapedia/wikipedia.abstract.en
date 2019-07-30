@@ -9,8 +9,6 @@ Originally the name FASA was an acronym for "Freedonian Aeronautics and Space Ad
 
 History
 
-Original_FASA_Logo.png
-
 FASA Corporation was founded by Jordan Weisman and L. Ross Babcock III in 1980 with a starting capital of $350. The two were fellow gamers at the United States Merchant Marine Academy. Mort Weisman, Jordan's father, joined the company in 1985 to lead the company's operational management having sold his book publishing business, Swallow Press.[1]
 
 Under the new commercial direction and with Mort's capital injection, the company diversified into books and miniature figures. After consulting their UK distributor, Chart Hobby Distributors, FASA licensed the manufacture of its _BattleTech_ figurines to Miniature Figurines (also known as Minifigs). FASA would later acquire the U.S. figures manufacturer Ral Partha, which was the US manufacturer of Minifigs. While Mort ran the paper and metal based sides of the business, the company's founders focused on the development of computer-based games. They were particularly interested in virtual reality (particularly the BattleTech Centers / Virtual World) but also developed desktop computer games.

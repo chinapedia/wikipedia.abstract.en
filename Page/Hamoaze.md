@@ -1,4 +1,4 @@
-Devonport_Dockyard.jpg and the Hamoaze from the Rame Peninsula, Cornwall]] The HAMOAZE (; ) is an estuarine stretch of the tidal River Tamar, between its confluence with the River Lynher and Plymouth Sound, England.
+and the Hamoaze from the Rame Peninsula, Cornwall]] The HAMOAZE (; ) is an estuarine stretch of the tidal River Tamar, between its confluence with the River Lynher and Plymouth Sound, England.
 
 The name first appears as _ryver of Hamose_ in 1588 and it originally most likely applied just to a creek of the estuary that led up to the manor of Ham, north of the present-day Devonport Dockyard. The name evidently later came to be used for the estuary's main channel. The _ose_ element possibly derives from Old English _wāse_ meaning 'mud' (as in 'ooze') – the creek consisting of mud-banks at low tide[1].
 

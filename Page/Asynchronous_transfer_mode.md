@@ -4,7 +4,7 @@ ATM provides functionality that is similar to both circuit switching and packet 
 
 Use of ATM technology was eventually largely superseded by Internet Protocol (IP)-only technology. Wireless and mobile ATM never established a significant foothold.
 
-IBM_Turboways_ATM_155.jpg Turboways ATM 155 PCI network interface card]] ForeRunnerLE_25_ATM_Network_Interface_(1).jpg ForeRunnerLE 25 ATM PCI network interface card]]
+Turboways ATM 155 PCI network interface card]] ForeRunnerLE 25 ATM PCI network interface card]]
 
 
 Layer 2 – datagrams

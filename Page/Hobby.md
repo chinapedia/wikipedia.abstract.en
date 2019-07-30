@@ -1,4 +1,4 @@
-Seashells_North_Wales_1985.jpg George_Cruikshank_-_Tristram_Shandy,_Plate_V._My_Uncle_Toby_on_his_Hobby-horse.jpg, a characters' "hobby-horses", or particular obsessions ]]
+, a characters' "hobby-horses", or particular obsessions ]]
 
 A HOBBY is a regular activity done for enjoyment, typically during one's leisure time, not professionally and not for pay. Hobbies include collecting themed items and objects, engaging in creative and artistic pursuits, playing sports, or pursuing other amusements. Participation in hobbies encourages acquiring substantial skills and knowledge in that area. A list of hobbies changes with renewed interests and developing fashions, making it diverse and lengthy. Hobbies tend to follow trends in society, for example stamp collecting was popular during the nineteenth and twentieth centuries as postal systems were the main means of communication, while video games are more popular nowadays following technological advances. The advancing production and technology of the nineteenth century provided workers with more availability in leisure time to engage in hobbies. Because of this, the efforts of people investing in hobbies has increased with time.
 
@@ -7,7 +7,7 @@ Hobbyists may be identified under three sub-categories: _casual leisure_, _serio
 
 Etymology
 
-Wikipedian_at_otium.jpg is a hobby for some people.|243x243px]] In the 16th century, the term "hobyn" had the meaning of "small horse and pony". The term "hobby horse" was documented in a 1557 payment confirmation for a "Hobbyhorse" from Reading, England.[1] The item, originally called a "Tourney Horse", was made of a wooden or basketwork frame with an artificial tail and head. It was designed for a child to mimic riding a real horse. By 1816 the derivative, "hobby", was introduced into the vocabulary of a number of English people.[2] Over the course of subsequent centuries, the term came to be associated with recreation and leisure. In the 17th century, the term was used in a pejorative sense by suggesting that a hobby was a childish pursuit, however, in the 18th century with a more industrial society and more leisure time, hobbies took on greater respectability[3] A hobby is also called a PASTIME, derived from the use of hobbies to pass the time. A hobby became an activity that is practised regularly and usually with some worthwhile purpose.[4] Hobbies are usually, but not always, practised primarily for interest and enjoyment, rather than financial reward.
+is a hobby for some people.|243x243px]] In the 16th century, the term "hobyn" had the meaning of "small horse and pony". The term "hobby horse" was documented in a 1557 payment confirmation for a "Hobbyhorse" from Reading, England.[1] The item, originally called a "Tourney Horse", was made of a wooden or basketwork frame with an artificial tail and head. It was designed for a child to mimic riding a real horse. By 1816 the derivative, "hobby", was introduced into the vocabulary of a number of English people.[2] Over the course of subsequent centuries, the term came to be associated with recreation and leisure. In the 17th century, the term was used in a pejorative sense by suggesting that a hobby was a childish pursuit, however, in the 18th century with a more industrial society and more leisure time, hobbies took on greater respectability[3] A hobby is also called a PASTIME, derived from the use of hobbies to pass the time. A hobby became an activity that is practised regularly and usually with some worthwhile purpose.[4] Hobbies are usually, but not always, practised primarily for interest and enjoyment, rather than financial reward.
 
 
 History
@@ -38,7 +38,7 @@ Hobbies are a diverse set of activities and it is difficult to categorize them i
 
 Collecting
 
-Collecting includes seeking, locating, acquiring, organizing, cataloging, displaying and storing.[17] Collecting is appealing to many people due to their interest in a particular subject and a desire to categorise and make order out of complexity. Some collectors are generalists, accumulating items from countries of the world. Others focus on a subtopic within their area of interest, perhaps 19th century postage stamps, milk bottle labels from Sussex, or Mongolian harnesses and tack, Firearms (both modern and vintage). Stamp_album_sleeve.jpg used in stamp collecting.]]
+Collecting includes seeking, locating, acquiring, organizing, cataloging, displaying and storing.[17] Collecting is appealing to many people due to their interest in a particular subject and a desire to categorise and make order out of complexity. Some collectors are generalists, accumulating items from countries of the world. Others focus on a subtopic within their area of interest, perhaps 19th century postage stamps, milk bottle labels from Sussex, or Mongolian harnesses and tack, Firearms (both modern and vintage). used in stamp collecting.]]
 
 Collecting is an ancient hobby, with the list of coin collectors showing Caesar Augustus as one. Sometimes collectors have turned their hobby into a business, becoming commercial dealers that trade in the items being collected.
 
@@ -58,7 +58,7 @@ With the advent of modern plastics, the amount of skill required to get the basi
 
 MODEL ENGINEERING refers to building functioning machinery in metal, such as internal combustion motors and live steam models or locomotives. This is a demanding hobby that requires a multitude of large and expensive tools, such as lathes and mills. This hobby originated in the United Kingdom in the late 19th century, later spreading and flourishing in the mid-20th century. Due to the expense and space required, it is becoming rare.
 
-Z_scale_miniature_railroad.jpg]]
+]]
 
 3D PRINTING is a relatively new technology and already a major hobby as the cost of printers has fallen sharply. It is a good example of how hobbyists quickly engage with new technologies, communicate with one another and become producers related to their former hobby. 3D modeling is the process of making mathematical representations of three dimensional items and is an aspect of 3D printing.
 
@@ -78,9 +78,9 @@ As interest increases, so has the desire for commercial outdoor pursuits. Outdoo
 
 The increased accessibility of outdoor pursuit resources has been the source of some negative publicity over the years, with complaints of the destruction of landscape. An example is the destruction of hillsides as footpaths are eroded due to an excessive number of visitors.
 
-gardening.jpg One large subset of these activities is gardening. Residential gardening most often takes place in or about one's own residence, in a space referred to as the GARDEN. Although a garden typically is located on the land near a residence, it may also be located on a roof, in an atrium, on a balcony, in a windowbox, or on a patio or vivarium.
+One large subset of these activities is gardening. Residential gardening most often takes place in or about one's own residence, in a space referred to as the GARDEN. Although a garden typically is located on the land near a residence, it may also be located on a roof, in an atrium, on a balcony, in a windowbox, or on a patio or vivarium.
 
-Gardening also takes place in non-residential green areas, such as parks, public or semi-public gardens (botanical gardens or zoological gardens), amusement and theme parks, along transportation corridors, and around tourist attractions and hotels. In these situations, a staff of gardeners or groundskeepers maintains the gardens.Indoor_garden.jpg
+Gardening also takes place in non-residential green areas, such as parks, public or semi-public gardens (botanical gardens or zoological gardens), amusement and theme parks, along transportation corridors, and around tourist attractions and hotels. In these situations, a staff of gardeners or groundskeepers maintains the gardens.
 
 Indoor gardening is growing houseplants within a residence or building, in a conservatory, or in a greenhouse. Indoor gardens are sometimes incorporated into air conditioning or heating systems.
 
@@ -90,7 +90,7 @@ Container gardening is concerned with growing plants in containers that are plac
 
 Liberal arts pursuits
 
-Magicianatparty.jpg Many hobbies involve performances by the hobbyist, such as singing, acting, juggling, magic, dancing, playing a musical instrument, martial arts and other performing arts.
+Many hobbies involve performances by the hobbyist, such as singing, acting, juggling, magic, dancing, playing a musical instrument, martial arts and other performing arts.
 
 Some hobbies may result in an end product. Examples of this would be woodworking, photography, moviemaking, jewelry making, software projects such as Photoshopping and home music or video production, making bracelets, artistic projects such as drawing, painting, writing..., Cosplay (design, creation, and wearing a costume based on an already existing creative property), creating models out of card stock or paper – called papercraft. Many of these fall under the category visual arts.
 

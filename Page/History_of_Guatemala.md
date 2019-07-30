@@ -11,19 +11,19 @@ The progressive policies of Arévalo and Árbenz led to the United Fruit Company
 
 Pre-Columbian era
 
-Nakbe_str.JPG The earliest human settlements in Guatemala date back to the Paleo-Indian period and were made up of hunters and gatherers.[1]Sites dating back to 6500 BC have been found in Quiché in the Highlands and Sipacate, Escuintla on the central Pacific coast.
+The earliest human settlements in Guatemala date back to the Paleo-Indian period and were made up of hunters and gatherers.[1]Sites dating back to 6500 BC have been found in Quiché in the Highlands and Sipacate, Escuintla on the central Pacific coast.
 
 Although it is unclear when these groups of hunters and gatherers turned to cultivation, pollen samples from Petén and the Pacific coast indicate maize cultivation as early as 3500 BC.[2] By 2500 BC, small settlements were developing in Guatemala's Pacific lowlands in such places as Tilapa, La Blanca, Ocós, El Mesak, and Ujuxte, where the oldest pieces of ceramic pottery from Guatemala have been found.[3] Excavations in the Antigua Guatemala Urías and Rucal, have yielded stratified materials from the Early and Middle Preclassic periods (2000 BC to 400 BC). Paste analyses of these early pieces of pottery in the Antigua Valley indicate they were made of clays from different environmental zones, suggesting people from the Pacific coast expanded into the Antigua Valley.[4]
 
 Guatemala's Pre-Columbian era can be divided into the Preclassic period (from 2000 BC to 250 AD), the Classic period (250 to 900 AD) and the Postclassic period (900 to 1500 AD).[5] Until recently, the Preclassic was regarded as a formative period, consisting of small villages of farmers who lived in huts and few permanent buildings, but this notion has been challenged by recent discoveries of monumental architecture from that period, such as an altar in La Blanca, San Marcos, from 1000 BC; ceremonial sites at Miraflores and El Naranjo from 801 BC; the earliest monumental masks; and the Mirador Basin cities of Nakbé, Xulnal, El Tintal, Wakná and El Mirador.
 
-Barrigones_of_La_Democracia_Escuintla_Guatemala.jpg In Monte Alto near La Democracia, Escuintla, giant stone heads and potbellies (or _barrigones_) have been found, dating back to around 1800 BC.[6] The stone heads have been ascribed to the Pre-Olmec Monte Alto Culture and some scholars suggest the Olmec Culture originated in the Monte Alto area.[7] It has also been argued the only connection between the statues and the later Olmec heads is their size.[8] The Monte Alto Culture may have been the first complex culture of Mesoamerica, and predecessor of all other cultures of the region. In Guatemala, some sites have unmistakable Olmec style, such as Chocolá in Suchitepéquez, La Corona in Peten, and Tak'alik A´baj, in Retalhuleu, the last of which is the only ancient city in the Americas with Olmec and Mayan features.[9]
+In Monte Alto near La Democracia, Escuintla, giant stone heads and potbellies (or _barrigones_) have been found, dating back to around 1800 BC.[6] The stone heads have been ascribed to the Pre-Olmec Monte Alto Culture and some scholars suggest the Olmec Culture originated in the Monte Alto area.[7] It has also been argued the only connection between the statues and the later Olmec heads is their size.[8] The Monte Alto Culture may have been the first complex culture of Mesoamerica, and predecessor of all other cultures of the region. In Guatemala, some sites have unmistakable Olmec style, such as Chocolá in Suchitepéquez, La Corona in Peten, and Tak'alik A´baj, in Retalhuleu, the last of which is the only ancient city in the Americas with Olmec and Mayan features.[9]
 
 El Mirador was by far the most populated city in pre-Columbian America. Both the El Tigre and Monos pyramids encompass a volume greater than 250,000 cubic meters.[10] Richard Hansen, the director of the archaeological project of the Mirador Basin, believes the Maya at Mirador Basin developed the first politically organized state in America around 1500 BC, named the Kan Kingdom in ancient texts.[11] There were 26 cities, all connected by _sacbeob_ (highways), which were several kilometers long, up to 40 meters wide, and two to four meters above the ground, paved with stucco. These are clearly distinguishable from the air in the most extensive virgin tropical rain forest in Mesoamerica.
 
 Hansen believes the Olmec were not the mother culture in Mesoamerica.[12] Due to findings at Mirador Basin in Northern Petén, Hansen suggests the Olmec and Maya cultures developed separately, and merged in some places, such as Tak'alik Abaj in the Pacific lowlands.
 
-Tikal_mayan_ruins_2009.jpg]] Northern Guatemala has particularly high densities of Late Pre-classic sites, including Naachtun, _Xulnal_, El Mirador, Porvenir, Pacaya, La Muralla, Nakbé, El Tintal, _Wakná_ (formerly _Güiro_), Uaxactún, and Tikal. Of these, El Mirador, Tikal, Nakbé, Tintal, Xulnal and Wakná are the largest in the Maya world, Such size was manifested not only in the extent of the site, but also in the volume or monumentality, especially in the construction of immense platforms to support large temples. Many sites of this era display monumental masks for the first time (Uaxactún, El Mirador, Cival, Tikal and Nakbé). Hansen's dating has been called into question by many other Maya archaeologists, and developments leading to probably extra-regional power by the Late Preclassic of Kaminaljuyu, in the southern Maya area, suggest that Maya civilization developed in different ways in the Lowlands and the SMA to produce what we know as the Classic Maya.
+]] Northern Guatemala has particularly high densities of Late Pre-classic sites, including Naachtun, _Xulnal_, El Mirador, Porvenir, Pacaya, La Muralla, Nakbé, El Tintal, _Wakná_ (formerly _Güiro_), Uaxactún, and Tikal. Of these, El Mirador, Tikal, Nakbé, Tintal, Xulnal and Wakná are the largest in the Maya world, Such size was manifested not only in the extent of the site, but also in the volume or monumentality, especially in the construction of immense platforms to support large temples. Many sites of this era display monumental masks for the first time (Uaxactún, El Mirador, Cival, Tikal and Nakbé). Hansen's dating has been called into question by many other Maya archaeologists, and developments leading to probably extra-regional power by the Late Preclassic of Kaminaljuyu, in the southern Maya area, suggest that Maya civilization developed in different ways in the Lowlands and the SMA to produce what we know as the Classic Maya.
 
 The Classic period of Mesoamerican civilization corresponds to the height of the Maya civilization, and is represented by countless sites throughout Guatemala. The largest concentration is found in Petén. This period is characterized by expanded city-building, the development of independent city-states, and contact with other Mesoamerican cultures.
 
@@ -32,7 +32,7 @@ This lasted until around 900 AD, when the Classic Maya civilization collapsed. 
 
 Spanish conquest
 
-Centroamerica_prehispanica_siglo_XVI.svg Second-in-command to Hernán Cortés, Pedro de Alvarado was sent to the Guatemala highlands with 300 Spanish foot soldiers, 120 Spanish horsemen and several hundred Cholula and Tlascala auxiliaries.[15]
+Second-in-command to Hernán Cortés, Pedro de Alvarado was sent to the Guatemala highlands with 300 Spanish foot soldiers, 120 Spanish horsemen and several hundred Cholula and Tlascala auxiliaries.[15]
 
 Alvarado entered Guatemala from Soconusco on the Pacific lowlands, headed for Xetulul Humbatz, Zapotitlán. He initially allied himself with the Cakchiquel nation to fight against their traditional rivals the K'iche'. The conquistador started his conquest in Xepau Olintepeque, defeating the K'iché's 72,000 men, led by Tecún Umán (now Guatemala's national hero). Alvarado went to Q'umarkaj, (Utatlan), the K'iche' capital, and burned it on 7 March 1524. He proceeded to Iximche, and made a base near there in Tecpan on 25 July 1524. From there he made several campaigns to other cities, including Chuitinamit, the capital of the Tzutuhils, (1524); Mixco Viejo, capital of the Poqomam; and Zaculeu, capital of the Mam (1525). He was named captain general in 1527.
 
@@ -47,7 +47,7 @@ After more than a century of colonization, during which mutually independent Spa
 
 Independence and Central America civil war
 
-Independenciacentroamerica2.jpg rejoice upon learning about the declaration of independence on 15 September 1821. Painting by Rafael Beltranena.]]
+rejoice upon learning about the declaration of independence on 15 September 1821. Painting by Rafael Beltranena.]]
 
 In 1821, Fernando VII's power in Spain was weakened by French invasions and other conflicts, and Mexico declared the Plan de Iguala; this led Mariano Aycinena y Piñol and other criollos to demand the weak Captain General Gabino Gaínza to declare Guatemala and the rest of Central America as an independent entity. Aycinena y Piñol was one of the signatories of the Declaration of Independence of Central America from the Spanish Empire, and then lobbied strongly for the Central America annexation to the Mexican Empire of Agustín de Iturbide, due to its conservative and ecclesiastical nature. Aycinena remained in the legislature and was advisor of the Governors of Guatemala in the next few years.
 
@@ -59,7 +59,7 @@ Morazán and his liberal forces were fighting around San Miguel, in El Salvador 
 
 Upon learning this, Aycinena y Piñol tried to negotiate with Morazán to no avail: Morazán was willing to take down the aristocrats at all costs.
 
-Map_of_Journey.jpg Plate_33-_ANTIGUA_GUATIMALA.jpg in 1829. The old "Palacio de la Capitanía General" was still destroyed after the 1773 earthquake.]]
+in 1829. The old "Palacio de la Capitanía General" was still destroyed after the 1773 earthquake.]]
 
 After his victory in San Miguelito, Morazán's army increased in size given that a lot of voluntaries from Guatemala joined him. On 15 March, when Morazán and his army were on their way to occupy their previous positions, they were intercepted by federal troops in Las Charcas. However, Morazán had a better position and smashed the federal army. The battle field was left full of corpses, while the allies took a lot of prisoners and weaponry. the allies continued to recapture their old positions in San José Pinula and Aceituno, and place Guatemala City under siege once again. General Verveer, Ambassador from the King of Netherlands and Belgium before the Central American government and who was in Guatemala to negotiate the construction of a transoceanic Canal in Nicaragua, tried to mediate between the State of Guatemala and Morazán, but did not succeed. Military operations continued, with great success for the allies.
 
@@ -89,7 +89,7 @@ Meanwhile, despite insistent advice to definitely crush Carrera and his forces, 
 
 Invasion and Absorption of Los Altos
 
-Carrerayturcios_2014-06-22_09-46.jpg after being appointed President for Life of the Republic of Guatemala in 1854.]] Escudoaltos_2014-06-16_06-59.jpg
+after being appointed President for Life of the Republic of Guatemala in 1854.]]
 
 On 2 April 1838, in the city of Quetzaltenango, a secessionist group founded the independent State of Los Altos which sought independence from Guatemala. The most important members of the Liberal Party of Guatemala and liberal enemies of the conservative regime moved to Los Altos, leaving their exile in El Salvador. The liberals in Los Altos began severely criticizing the Conservative government of Rivera Paz; they had their own newspaper – _El Popular_, which contributed to the harsh criticism.
 
@@ -97,7 +97,6 @@ Los Altos was the region with the main production and economic activity of the f
 
 Carrera defeated General Agustin Guzman when the former Mexican officer tried to ambush him and then went on to Quetzaltenango, where he imposed a harsh and hostile conservative regime instead of the liberals. Calling all council members, he told them flatly that he was behaving leniently towards them as it was the first time they had challenged him, but sternly warned them that there would be no mercy if there was a second time. Finally, Guzmán, and the head of state of Los Altos, Marcelo Molina, were sent to the capital of Guatemala, where they were displayed as trophies of war during a triumphant parade on 17 February 1840; in the case of Guzman, shackled, still with bleeding wounds, and riding a mule.
 
-General_Francisco_Morazán.JPG
 tried to invade Guatemala for the second time in 1840 after having invaded in 1829 and expelled members of the Aycinena clan and regular orders. In 1840 he was defeated overwhelmingly by Carrera, marking the end of his career in Central America]]
 
 On 18 March 1840, liberal caudillo Morazán invaded Guatemala with 1500 soldiers to avenge the insult done in Los Altos. Fearing that such action would end with liberal efforts to hold together the Central American Federation, Guatemala had a cordon of guards from the border with El Salvador; without a telegraph service, men ran carrying last-minute messages. With the information from these messengers, Carrera hatched a plan of defense leaving his brother Sotero in charge of troops who presented only slight resistance in the city. Carrera pretended to flee and led his ragtag army to the heights of Aceituno, with few men, few rifles and two old cannons. The city was at the mercy of the army of Morazán, with bells of the twenty churches ringing for divine assistance.
@@ -115,8 +114,6 @@ The liberal criollos' defeat and execution in Quetzaltenango enhanced Carrera's 
 In 1840, Belgium began to act as an external source of support for Carrera's independence movement, in an effort to exert influence in Central America. The _Compagnie belge de colonisation_ (Belgian Colonization Company), commissioned by Belgian King Leopold I, became the administrator of Santo Tomas de Castilla replacing the failed British Eastern Coast of Central America Commercial and Agricultural Company. Even though the colony eventually crumbled, Belgium continued to support Carrera in the mid-19th century, although Britain continued to be the main business and political partner to Carrera's regime.
 
 Rafael Carrera was elected Guatemalan Governor in 1844. On 21 March 1847, Guatemala declared itself an independent republic and Carrera became its first president.
-
-Carrerafundador.jpg Guatemala_Real_1847_Silver_Coin_Fonrobert_7236.jpg
 
 During the first term as president, Carrera had brought the country back from extreme conservatism to a traditional moderation; in 1848, the liberals were able to drive him from office, after the country had been in turmoil for several months. Carrera resigned of his own free will and left for México. The new liberal regime allied itself with the Aycinena family and swiftly passed a law ordering Carrera's execution if he dared to return to Guatemalan soil. The liberal criollos from Quetzaltenango were led by general Agustín Guzmán who occupied the city after Corregidor general Mariano Paredes was called to Guatemala City to take over the Presidential office. They declared on 26 August 1848 that Los Altos was an independent state once again. The new state had the support of Vasconcelos' regime in El Salvador and the rebel guerrilla army of Vicente and Serapio Cruz who were sworn enemies of Carrera. The interim government was led by Guzmán himself and had Florencio Molina and the priest Fernando Davila as his Cabinet members. On 5 September 1848, the criollos altenses chose a formal government led by Fernando Antonio Martínez.
 
@@ -172,10 +169,6 @@ At Coatepeque the Guatemalans suffered a severe defeat, which was followed by a 
 
 Wyke-Aycinena treaty: Limits convention about Belize
 
-Segundoescudoguate_2014-06-22_09-16.jpg
-
-Wyke–Aycinena_Treaty_Map.png
-
 The Belize region in the Yucatán Peninsula was never occupied by either Spain or Guatemala, even though Spain made some exploratory expeditions in the 16th century that serve as her basis to claim the area as hers; Guatemala simply inherited that argument to claim the territory, even though it never sent any expedition to the area after Independence from Spain in 1821, due to the Central American civil war that ensued and lasted until 1860.
 
 The British had a small settlement there since the middle of the 17th century, mainly as buccaneers quarters and then for fine wood production. The settlements were never recognized as British colonies despite being somewhat under the jurisdiction of the Jamaican British government. In the 18th century, Belize became the main smuggling center for Central America, even though the British accepted Spain's sovereignty over the region by means of the 1783 and 1786 treaties, in exchange for a cease fire and the authorization for British subjects to work with the precious woods from Belize.
@@ -197,8 +190,6 @@ Guatemala's "Liberal Revolution" came in 1871 under the leadership of Justo Rufi
 
 Justo Rufino Barrios government
 
-Penitenciaria1892.jpg
-
 The Conservative government in Honduras gave military backing to a group of Guatemalan Conservatives wishing to take back the government, so Barrios declared war on the Honduran government. At the same time, Barrios, together with President Luis Bogran of Honduras, declared an intention to reunify the old United Provinces of Central America.
 
 During his time in office, Barrios continued with the liberal reforms initiated by García Granados, but he was more aggressive implementing them. A summary of his reforms is:
@@ -209,30 +200,30 @@ During his time in office, Barrios continued with the liberal reforms initiated 
 
         {|class="wikitable sortable" style="font-size:90%; width:550px;"
 
-|- style="color:white;" !style="background:#659ec7;"|Regular order !style="background:#659ec7;"|Coat of arms !style="background:#659ec7;"|Clergy type !style="background:#659ec7;"|Confiscated properties |- |Order of Preachers||Orderofpreachears.png||Regular||
+|- style="color:white;" !style="background:#659ec7;"|Regular order !style="background:#659ec7;"|Coat of arms !style="background:#659ec7;"|Clergy type !style="background:#659ec7;"|Confiscated properties |- |Order of Preachers||||Regular||
 
 -   Monasteries
 -   Large extensions of farmland
 -   Sugar mills
 -   Indian doctrines[22]
 
-|- |Mercedarians||Coat_of_Arms_of_the_Mercedarians.svg||Regular||
+|- |Mercedarians||||Regular||
 
 -   Monasteries
 -   Large extensions of farmland
 -   Sugar mills
 -   Indian doctrines
 
-|- |Society of Jesus||Ihs-logo.svg||Regular||The Jesuits had been expelled from the Spanish colonies back in 1765 and did not return to Guatemala until 1852. By 1871, they did not have major possessions. |- |Recoletos||Dictionarium_Annamiticum_Lusitanum_et_Latinum,_Propaganda_Fide_seal.png||Regular||
+|- |Society of Jesus||||Regular||The Jesuits had been expelled from the Spanish colonies back in 1765 and did not return to Guatemala until 1852. By 1871, they did not have major possessions. |- |Recoletos||||Regular||
 
 -   Monasterires
 
-|- |Conceptionists||OrdoIC.jpg||Regular||
+|- |Conceptionists||||Regular||
 
 -   Monasteries
 -   Large extensions of farmland
 
-|- |Archdiocese of Guatemala|| ||Secular||School and Trentin Seminar of Nuestra Señora de la Asunción |- |Congregation of the Oratory||S._F._Nerist.JPG||Secular||
+|- |Archdiocese of Guatemala|| ||Secular||School and Trentin Seminar of Nuestra Señora de la Asunción |- |Congregation of the Oratory||||Secular||
 
 -   Church building and housing in Guatemala City were completely obliterated by presidential order.
 
@@ -276,7 +267,7 @@ Appleton's guide for México and Guatemala from 1884, shows the twenty departmen
   Santa Rosa      1,100                 38,500       Cuajiniquilapa          5,000
   Total           50,600                1,198,500
 
-Pagojornaleros1890.jpg Estadoguatemala1832_2014-06-22_10-02.jpg and Vicente Cerna conservative regimes. Soconusco territories were given to México in exchange for their support to the Liberal revolution in 1871 by Herrera-Mariscal treaty of 1882.]] AlcaldesGuatemala1891.jpgs of Highland Guatemala in traditional dress, 1891]]
+ and Vicente Cerna conservative regimes. Soconusco territories were given to México in exchange for their support to the Liberal revolution in 1871 by Herrera-Mariscal treaty of 1882.]] s of Highland Guatemala in traditional dress, 1891]]
 
 During Barrios tenure, the "indian land" that the conservative regime of Rafael Carrera had so strongly defended was confiscated and distributed among those officers who had helped him during the Liberal Revolution in 1871. Decree # 170 (a.k.a. Census redemption decree) made it easy to confiscate those lands in favor of the army officers and the German settlers in Verapaz as it allowed to publicly sell those common Indian lots. Therefore, the fundamental characteristic of the productive system during Barrios regime was the accumulation of large extension of land among few owners and a sort of "farmland servitude", based on the exploitation of the native day laborers.
 
@@ -301,7 +292,7 @@ In 1892, Barillas called for elections as he wanted to take care of his personal
 
   Name                       Party          Supported by         Other information
   -------------------------- -------------- -------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Lorenzo Montúfar           Liberal        Liberal Club         Montufarliberal.jpgHe was the only one of all candidates who made an engraving of his portrait to publish it in the newspapers and was accused of wasting resources for doing this.
+  Lorenzo Montúfar           Liberal        Liberal Club         He was the only one of all candidates who made an engraving of his portrait to publish it in the newspapers and was accused of wasting resources for doing this.
   Francisco Lainfiesta       Liberal        None                 Published his government proposal in the _Diario de Centro América_, taking advantage of the freedom of the Press that existed during Barillas' government.
   José María Reyna Barrios   Liberal        Liberal Club         Eventual winner.
   Miguel Enríquez            Conservative   Conservative Party   Enríquez had been a liberal, but became a conservative after the persecution that he suffered from the Barillas administration. As a matter of fact, after the elections he had to run away from his farm in Salama after being accused of sedition; he was captured and executed near Zacapa.
@@ -316,7 +307,7 @@ In the 1890s, the United States began to implement the Monroe Doctrine, pushing 
 
 Manuel Estrada Cabrera regime (1898–1920)
 
-Manuel_Estrada_Cabrera.jpg ruled Guatemala between 1898 and 1920.]]
+ruled Guatemala between 1898 and 1920.]]
 
 After the assassination of general José María Reina Barrios on 8 February 1898, the Guatemalan cabinet called an emergency meeting to appoint a new successor, but declined to invite Estrada Cabrera to the meeting, even though he was the First Designated to the Presidency. There are two versions on how he was able to get the Presidency: (a) Estrada Cabrera entered "with pistol drawn" to assert his entitlement to the presidency and (b) Estrada Cabrera showed up unarmed to the meeting and demanded to be given the presidency as he was the First Designated".
 
@@ -390,7 +381,7 @@ The election of Árbenz alarmed U.S. State Department officials, who stated that
 
 Presidency of Jacobo Árbenz Guzman (1951–1954)
 
-Posesionarbenz.jpg as president of Guatemala in 1951.]]
+as president of Guatemala in 1951.]]
 
 In his inaugural address, Árbenz promised to convert Guatemala from "a backward country with a predominantly feudal economy into a modern capitalist state." He declared that he intended to reduce dependency on foreign markets and dampen the influence of foreign corporations over Guatemalan politics. He also stated that he would modernize Guatemala's infrastructure and do so without the aid of foreign capital.
 
@@ -405,7 +396,7 @@ Based on his plan of government, he did the following:
 
 Land Reform
 
-Central_America,_the_West_Indies_South_America_and_Portions_of_the_United_States_and_Mexico_WDL62.png, which had the monopoly of freight and passenger maritime transportante to and from Puerto Barrios in Guatemala since 1903.]]
+, which had the monopoly of freight and passenger maritime transportante to and from Puerto Barrios in Guatemala since 1903.]]
 
 Prior to Árbenz's election in 1950, a handful of U.S. corporations controlled Guatemala's primary electrical utilities, the nation's only railroad, and the banana industry, which was Guatemala's chief agricultural export industry. By the mid-1940s, Guatemalan banana plantations accounted for more than one quarter of all of United Fruit Company's production in Latin America.[29] Land reform was the centerpiece of Árbenz's election campaign.[30] The revolutionary organizations that had helped put Árbenz in power put constant pressure on him to live up to his campaign promises regarding land reform.[31] Árbenz continued Arévalo's reform agenda and in June 1952, his government enacted an agrarian reform program. Árbenz set land reform as his central goal, as only 2% of the population owned 70% of the land.
 
@@ -417,13 +408,9 @@ Decree 900, for the Agrarian Reform in Guatemala created the possibility of gain
 
 Construction of transport infrastructure
 
-Guatemala_railways.svg
-
 In order to establish the necessary physical infrastructure to make possible the "independent" and national capitalist development that could get rid of extreme dependence on the United States and break the American monopolies operating in the country, basically the economy of the banana enclave, Arbenz and his government began the planning and construction of the Atlantic Highway, which was intended to compete in the market with the monopoly on land transport exerted by the United Fruit Company, through one of its subsidiaries: the International Railways of Central America (IRCA), which had the concession since 1904, when it was granted by then President Manuel Estrada Cabrera. Construction of the highway began by the Roads Department of the Ministry of Communications, with the help of the military engineering battalion. It was planned to be built parallel along the railway line, as much as possible. The construction of the new port was also aimed to break another UFCO monopoly: Puerto Barrios was owned and operated solely by The Great White Fleet, another UFCO's subsidiary.
 
 National power plant Jurun Marinalá
-
-Jurun_Marinalá.jpg Jurun_marinala.jpg
 
 The Jurun Marinalá electric power generation plant was planned as the first national hydroelectric power plant in Guatemala. The goal was to disrupt the monopoly of the Electric Company, a subsidiary of American Electric Bond and Share (Ebasco), which did not make use of indigenous water resources, but ran fossil fuel-powered plants, thus creating a drain on foreign currency reserves. Owing to its massive economic importance, construction continued beyond the Árbenz presidency. The plant was finally completed under President Julio Cesar Mendez Montenegro in 1968. It is located in the village of Agua Blanca, inside El Salto, Escuintla.
 
@@ -468,8 +455,6 @@ After the CIA coup, hundreds of Guatemalans were rounded up and killed. Document
 
 Earthquake of 1976
 
-GuateQuake1976HotelTerminalA.jpg
-
 
 Civil war (1960–1996)
 
@@ -483,7 +468,7 @@ The guerrillas concentrated their attacks in Guatemala City, where they assassin
 
 Franja Transversal del Norte
 
-Guatemala_franja_transversal_del_norte.png -Northern Transversal Strip- in Guatemala.]]
+-Northern Transversal Strip- in Guatemala.]]
 
 The first settler project in the FTN was in Sebol-Chinajá in Alta Verapaz. Sebol, then regarded as a strategic point and route through Cancuén river, which communicated with Petén through the Usumacinta River on the border with Mexico and the only road that existed was a dirt one built by President Lázaro Chacón in 1928. In 1958, during the government of General Miguel Ydígoras Fuentes the Inter-American Development Bank (IDB) financed infrastructure projects in Sebol, which finally adopted the name "Fray Bartolomé de las Casas', municipality created in 1983 in Alta Verapaz. In 1960, then Army captain Fernando Romeo Lucas Garcia inherited Saquixquib and Punta de Boloncó farms in northeastern Sebol. In 1963 he bought the farm "San Fernando" El Palmar de Sejux and finally bought the "Sepur" farm near San Fernando. During those years, Lucas was in the Guatemalan legislature and lobbied in Congress to boost investment in that area of the country.
 
@@ -621,8 +606,6 @@ In a publication of the Army of Guatemala, sixty massacres perpetrated by the EG
 Civil war in the city
 
 On 31 January 1980, Guatemala got worldwide attention when the Spanish Embassy in Guatemala City was burnt down, resulting in 37 deaths, including embassy personnel and high ranked Guatemalan former government officials. A group of native people from El Quiché occupied the embassy in a desperate attempt to bring attention to the issues they were having with the Army in that region of the country, which was rich in oil and had been recently populated as part of the "Franja Transversal del Norte" agricultural program. In the end, thirty seven people died after a fire started within the embassy after the police force tried to occupy the building; after that, Spain broke its diplomatic relationships with Guatemala.
-
-Panoramica_001.JPG
 
 On 5 September 1980 a terrorist attack by Ejército Guerrillero de los Pobres (EGP) took place in front of the Guatemalan National Palace, then the headquarters of the Guatemalan government. The intention was to prevent the Guatemalan people to support a huge demonstration that the government of general Lucas Garcia had prepared for Sunday 7 September 1980. In the attack, six adults and a boy died after two bombs inside a vehicle went off.
 

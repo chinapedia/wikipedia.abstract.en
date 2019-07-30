@@ -1,4 +1,4 @@
-T_17_Staghound_Armored_Car_(1).jpg armored car of World War II]] Bundeswehr_LAPV_Enok.png a modern armored car of the German Army]]
+armored car of World War II]] a modern armored car of the German Army]]
 
 A military ARMORED (or ARMOURED) CAR is a lightweight wheeled armored fighting vehicle, historically employed for reconnaissance, internal security, armed escort, and other subordinate battlefield tasks.[1] With the gradual decline of mounted cavalry, armored cars were developed for carrying out duties formerly assigned to horsemen.[2] Following the invention of the tank, the armored car remained popular due to its comparatively simplified maintenance and low production cost. It also found favor with several colonial armies as a cheaper weapon for use in underdeveloped regions.[3] During World War II, most armored cars were engineered for reconnaissance and passive observation, while others were devoted to communications tasks. Some equipped with heavier armament could even substitute for tracked combat vehicles in favorable conditions—such as pursuit or flanking maneuvers during the North African Campaign.[4]
 
@@ -6,8 +6,6 @@ Since World War II the traditional functions of the armored car have been occasi
 
 
 History
-
-Wagenburg.jpg
 
 Precursors
 
@@ -17,7 +15,7 @@ With the invention of the steam engine, Victorian inventors designed prototype s
 
 Armed car
 
-Simms_Motor_Scout_from_Autocar.jpg' Motor Scout, built in 1898 as an armed car.]] The Motor Scout was designed and built by British inventor F.R. Simms in 1898. It was the first armed petrol engine-powered vehicle ever built. The vehicle was a De Dion-Bouton quadricycle with a mounted Maxim machine gun on the front bar. An iron shield in front of the car protected the driver.[9]
+' Motor Scout, built in 1898 as an armed car.]] The Motor Scout was designed and built by British inventor F.R. Simms in 1898. It was the first armed petrol engine-powered vehicle ever built. The vehicle was a De Dion-Bouton quadricycle with a mounted Maxim machine gun on the front bar. An iron shield in front of the car protected the driver.[9]
 
 Another early armed car was invented by Royal Page Davidson at Northwestern Military and Naval Academy in 1898 with the Davidson-Duryea gun carriage and the later Davidson Automobile Battery armored car.
 
@@ -27,21 +25,21 @@ First armored cars
 
 At the beginning of the 20th century, the first military armored vehicles were manufactured, by adding armor and weapons to existing vehicles.
 
-Simms_Motor_War_Car_1902.jpg' 1902 Motor War Car, the first armored car to be built.]] The first armored car was the Simms' Motor War Car, designed by F.R. Simms and built by Vickers, Sons & Maxim of Barrow on a special Coventry-built Daimler chassis[10] with a German-built Daimler motor in 1899.[11] and a single prototype was ordered in April 1899[12] The prototype was finished in 1902,[13] too late to be used during the Boer War.
+' 1902 Motor War Car, the first armored car to be built.]] The first armored car was the Simms' Motor War Car, designed by F.R. Simms and built by Vickers, Sons & Maxim of Barrow on a special Coventry-built Daimler chassis[10] with a German-built Daimler motor in 1899.[11] and a single prototype was ordered in April 1899[12] The prototype was finished in 1902,[13] too late to be used during the Boer War.
 
 The vehicle had Vickers armour 6 mm thick and was powered by a four-cylinder 3.3-litre[14] 16-hp Cannstatt Daimler engine, giving it a maximum speed around . The armament, consisting of two Maxim guns, was carried in two turrets with 360° traverse.[15][16] It had a crew of four. Simms' Motor War Car was presented at the Crystal Palace, London, in April 1902.[17]
 
-Charron_Girardot_Voigt_1902.jpg.]] Another early armored car of the period was the French Charron, Girardot et Voigt 1902, presented at the _Salon de l'Automobile et du cycle_ in Brussels, on 8 March 1902.[18] The vehicle was equipped with a Hotchkiss machine gun, and with 7 mm armour for the gunner.[19][20]
+.]] Another early armored car of the period was the French Charron, Girardot et Voigt 1902, presented at the _Salon de l'Automobile et du cycle_ in Brussels, on 8 March 1902.[18] The vehicle was equipped with a Hotchkiss machine gun, and with 7 mm armour for the gunner.[19][20]
 
-One of the first operational armoured cars with four wheel (4x4) drive and partly enclosed rotating turret, was the Austro-Daimler Panzerwagen built by Austro-Daimler in 1904. It was armoured with 3-3.5 mm thick curved plates over the body (drive space and engine) and had a 4mm thick dome-shaped rotating turret that housed one or two machine-guns. It had a 4-cylinder 35 hp 4.4 litre engine giving it average cross country performance. Of note, both the driver and co-driver had adjustable seats enabling them to raise them to see out of the roof of the drive compartment as needed.[21] Austro-daimler-AFV.jpg
+One of the first operational armoured cars with four wheel (4x4) drive and partly enclosed rotating turret, was the Austro-Daimler Panzerwagen built by Austro-Daimler in 1904. It was armoured with 3-3.5 mm thick curved plates over the body (drive space and engine) and had a 4mm thick dome-shaped rotating turret that housed one or two machine-guns. It had a 4-cylinder 35 hp 4.4 litre engine giving it average cross country performance. Of note, both the driver and co-driver had adjustable seats enabling them to raise them to see out of the roof of the drive compartment as needed.[21]
 
 The Italians used armored cars during the Italo-Turkish War.[22] A great variety of armored cars appeared on both sides during World War I and these were used in various ways.
 
 World War I
 
-Generally, armored cars were used by more or less independent car commanders. However, sometimes they were used in larger units up to squadron size. The cars were primarily armed with light machine guns, but larger units usually employed a few cars with heavier guns. As air power became a factor, armored cars offered a mobile platform for antiaircraft guns.[23] Minerva_armored_car,_model_1914_near_Antwerp_WW1..jpg
+Generally, armored cars were used by more or less independent car commanders. However, sometimes they were used in larger units up to squadron size. The cars were primarily armed with light machine guns, but larger units usually employed a few cars with heavier guns. As air power became a factor, armored cars offered a mobile platform for antiaircraft guns.[23]
 
-Rolls_Royce_1920_Mk1_1_Bovington.jpg 1920 pattern]] The first effective use of an armored vehicle in combat was achieved by the Belgian Army in August–September 1914. They had placed Cockerill armour plating and a Hotchkiss machine gun on Minerva touring cars. Their successes in the early days of the war convinced the Belgian GHQ to create a Corps of Armoured Cars, who would be sent to fight on the Eastern front once the western front immobilized after the Battle of the Yser.[24][25][26]
+1920 pattern]] The first effective use of an armored vehicle in combat was achieved by the Belgian Army in August–September 1914. They had placed Cockerill armour plating and a Hotchkiss machine gun on Minerva touring cars. Their successes in the early days of the war convinced the Belgian GHQ to create a Corps of Armoured Cars, who would be sent to fight on the Eastern front once the western front immobilized after the Battle of the Yser.[24][25][26]
 
 The British Royal Naval Air Service dispatched aircraft to Dunkirk to defend the UK from Zeppelins. The officers' cars followed them and these began to be used to rescue downed reconnaissance pilots in the battle areas. They mounted machine guns on them[27] and as these excursions became increasingly dangerous, they improvised boiler plate armoring on the vehicles provided by a local shipbuilder. In London Murray Sueter ordered "fighting cars" based on Rolls-Royce, Talbot and Wolseley chassis. By the time Rolls-Royce Armoured Cars arrived in December 1914, the mobile period on the Western Front was already over.[28] As described below, they had a fascinating birth and long and interesting service.
 
@@ -55,7 +53,7 @@ World War II
 
 The British Royal Air Force (RAF) in the Middle East was equipped with Rolls-Royce Armoured Cars and Morris tenders. Some of these vehicles were among the last of a consignment of ex-Royal Navy armored cars that had been serving in the Middle East since 1915.[33] In September 1940 a section of the No. 2 Squadron RAF Regiment Company was detached to General Wavell's ground forces during the first offensive against the Italians in Egypt. It is said that these armored cars became ‘the eyes and ears of Wavell’. During the actions in the October of that year the Company was employed on convoy escort tasks, airfield defense, fighting reconnaissance patrols and screening operations.
 
-Fordson_Armoured_Car_Iraq.jpg waits outside Baghdad while negotiations for an armistice take place between British officials and representatives of the Iraqi rebel government.]] UStankParis-edit1.jpg passing the Arc de Triomphe after the liberation of Paris.]]
+waits outside Baghdad while negotiations for an armistice take place between British officials and representatives of the Iraqi rebel government.]] passing the Arc de Triomphe after the liberation of Paris.]]
 
 During the Anglo-Iraqi War, some of the units located in the British Mandate of Palestine[34] were sent to Iraq and drove Fordson armored cars.[35] "Fordson" armored cars were Rolls-Royce armored cars which received new chassis from a Fordson truck in Egypt.
 
@@ -68,11 +66,11 @@ In the second half of the war, the American M8 Greyhound and the British Daimler
 
 Military use
 
-White_M3A1.jpeg]] RMMV_Survivor_R.jpg fitted with a battle management system, roof-mounted Kongsberg remote weapon station, a .50 machine gun, CBRN defence, and banks of Rheinmetall ROSY grenade launchers.]] A military armored car is a type of armored fighting vehicle having wheels (from four to ten large, off-road wheels) instead of tracks, and usually light armor. Armored cars are typically less expensive and on roads have better speed and range than tracked military vehicles. They do however have less mobility as they have less off-road capabilities because of the higher ground pressure. They also have less obstacle climbing capabilities than tracked vehicles. Wheels are more vulnerable to enemy fire than tracks, they have a higher signature and in most cases less armor than comparable tracked vehicles. As a result, they are not intended for heavy fighting; their normal use is for reconnaissance, command, control, and communications, or for use against lightly armed insurgents or rioters. Only some are intended to enter close combat, often accompanying convoys to protect soft-skinned vehicles.
+]] fitted with a battle management system, roof-mounted Kongsberg remote weapon station, a .50 machine gun, CBRN defence, and banks of Rheinmetall ROSY grenade launchers.]] A military armored car is a type of armored fighting vehicle having wheels (from four to ten large, off-road wheels) instead of tracks, and usually light armor. Armored cars are typically less expensive and on roads have better speed and range than tracked military vehicles. They do however have less mobility as they have less off-road capabilities because of the higher ground pressure. They also have less obstacle climbing capabilities than tracked vehicles. Wheels are more vulnerable to enemy fire than tracks, they have a higher signature and in most cases less armor than comparable tracked vehicles. As a result, they are not intended for heavy fighting; their normal use is for reconnaissance, command, control, and communications, or for use against lightly armed insurgents or rioters. Only some are intended to enter close combat, often accompanying convoys to protect soft-skinned vehicles.
 
 Light armored cars, such as the British Ferret are armed with just a machine gun. Heavier vehicles are armed with autocannon or a large caliber gun. The heaviest armored cars, such as the German, World War II era Sd.Kfz. 234 or the modern, US M1128 Mobile Gun System, mount the same guns that arm medium tanks.
 
-DanishResistanceAC2795.jpg, near the end of World War 2]] Armored cars are popular for peacekeeping or internal security duties. Their appearance is less confrontational and threatening than tanks, and their size and maneuverability is said to be more compatible with tight urban spaces designed for wheeled vehicles. However, they do have a larger turning radius compared to tracked vehicles which can turn on the spot and their tires are vulnerable and are less capable in climbing and crushing obstacles. Further, when there is true combat they are easily outgunned and lightly armored. The threatening appearance of a tank is often enough to keep an opponent from attacking, whereas a less threatening vehicle such as an armored car is more likely to be attacked.
+, near the end of World War 2]] Armored cars are popular for peacekeeping or internal security duties. Their appearance is less confrontational and threatening than tanks, and their size and maneuverability is said to be more compatible with tight urban spaces designed for wheeled vehicles. However, they do have a larger turning radius compared to tracked vehicles which can turn on the spot and their tires are vulnerable and are less capable in climbing and crushing obstacles. Further, when there is true combat they are easily outgunned and lightly armored. The threatening appearance of a tank is often enough to keep an opponent from attacking, whereas a less threatening vehicle such as an armored car is more likely to be attacked.
 
 Many modern forces now have their dedicated armored car designs, to exploit the advantages noted above. Examples would be the M1117 Armored Security Vehicle of the USA or Alvis Saladin of the post-World War II era in the United Kingdom.
 
@@ -87,7 +85,7 @@ Examples of armored cars also classified as scout cars include the Soviet BRDM s
 
 See also
 
-Munster_SdKfz234_4_side_(dark1).jpg heavy armored car (German Tank Museum, 2006)]]
+heavy armored car (German Tank Museum, 2006)]]
 
 -   Armored bus
 -   Armored personnel carrier

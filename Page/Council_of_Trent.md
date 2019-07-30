@@ -1,4 +1,4 @@
-Council_of_Trent.JPG church, Trent.
+church, Trent.
 ]]
 
 The COUNCIL OF TRENT (), held between 1545 and 1563 in Trent (or Trento, in northern Italy), was the 19th ecumenical council of the Catholic Church.[1] Prompted by the Protestant Reformation, it has been described as the embodiment of the Counter-Reformation.[2][3]
@@ -14,7 +14,7 @@ Background information
 
 Obstacles and events before the Council's problem area
 
-Tizian_083b.jpg On 15 March 1517, the Fifth Council of the Lateran closed its activities with a number of reform proposals (on the selection of bishops, taxation, censorship and preaching) but not on the major problems that confronted the Church in Germany and other parts of Europe. A few months later, on 31 October 1517, Martin Luther issued his 95 Theses in Wittenberg.
+On 15 March 1517, the Fifth Council of the Lateran closed its activities with a number of reform proposals (on the selection of bishops, taxation, censorship and preaching) but not on the major problems that confronted the Church in Germany and other parts of Europe. A few months later, on 31 October 1517, Martin Luther issued his 95 Theses in Wittenberg.
 
 A general, free council in Germany
 
@@ -27,7 +27,7 @@ Charles V strongly favoured a council, but needed the support of King Francis I 
 
 Occasion, sessions, and attendance
 
-Council_of_Trent_by_Pasquale_Cati.jpg (Cati da Iesi)]] In reply to the Papal bull _Exsurge Domine_ of Pope Leo X (1520), Martin Luther burned the document and appealed for a general council. In 1522 German diets joined in the appeal, with Charles V seconding and pressing for a council as a means of reunifying the Church and settling the Reformation controversies. Pope Clement VII (1523–1534) was vehemently against the idea of a council, agreeing with Francis I of France, after Pope Pius II, in his bull _Execrabilis_ (1460) and his reply to the University of Cologne (1463), set aside the theory of the supremacy of general councils laid down by the Council of Constance.[13]
+(Cati da Iesi)]] In reply to the Papal bull _Exsurge Domine_ of Pope Leo X (1520), Martin Luther burned the document and appealed for a general council. In 1522 German diets joined in the appeal, with Charles V seconding and pressing for a council as a means of reunifying the Church and settling the Reformation controversies. Pope Clement VII (1523–1534) was vehemently against the idea of a council, agreeing with Francis I of France, after Pope Pius II, in his bull _Execrabilis_ (1460) and his reply to the University of Cologne (1463), set aside the theory of the supremacy of general councils laid down by the Council of Constance.[13]
 
 Pope Paul III (1534–1549), seeing that the Protestant Reformation was no longer confined to a few preachers, but had won over various princes, particularly in Germany, to its ideas, desired a council. Yet when he proposed the idea to his cardinals, it was almost unanimously opposed. Nonetheless, he sent nuncios throughout Europe to propose the idea. Paul III issued a decree for a general council to be held in Mantua, Italy, to begin on 23 May 1537.[14] Martin Luther wrote the Smalcald Articles in preparation for the general council. The Smalcald Articles were designed to sharply define where the Lutherans could and could not compromise. The council was ordered by the Emperor and Pope Paul III to convene in Mantua on 23 May 1537. It failed to convene after another war broke out between France and Charles V, resulting in a non-attendance of French prelates. Protestants refused to attend as well. Financial difficulties in Mantua led the Pope in the autumn of 1537 to move the council to Vicenza, where participation was poor. The Council was postponed indefinitely on 21 May 1539. Pope Paul III then initiated several internal Church reforms while Emperor Charles V convened with Protestants at an imperial diet in Regensburg, to reconcile differences. Unity failed between Catholic and Protestant representatives "because of different concepts of _Church_ and _justification_".[15]
 
@@ -100,7 +100,7 @@ List of doctrinal decrees
 
 Protestant response
 
-Vera_effigies_D._Didaci_Payua_d'Andrade_(1603)_-_Pieter_Perret_(cropped).png Chemnitz,_Martin_(1522-1586).jpg The 1565–73 _Examen decretorum Concilii Tridentini_[52] (_Examination of the Council of Trent_) by Martin Chemnitz was the main Lutheran response to the Council of Trent.[53] Making extensive use of scripture and patristic sources, it was presented in response to a polemical writing which Diogo de Payva de Andrada had directed against Chemnitz.[54] The _Examen_ had four parts: Volume I examined sacred scripture,[55] free will, original sin, justification, and good works. Volume II examined the sacraments,[56] including baptism, confirmation, the sacrament of the eucharist,[57] communion under both kinds, the mass, penance, extreme unction, holy orders, and matrimony. Volume III examined virginity, celibacy, purgatory, and the invocation of saints.[58] Volume IV examined the relics of the saints, images, indulgences, fasting, the distinction of foods, and festivals.[59]
+The 1565–73 _Examen decretorum Concilii Tridentini_[52] (_Examination of the Council of Trent_) by Martin Chemnitz was the main Lutheran response to the Council of Trent.[53] Making extensive use of scripture and patristic sources, it was presented in response to a polemical writing which Diogo de Payva de Andrada had directed against Chemnitz.[54] The _Examen_ had four parts: Volume I examined sacred scripture,[55] free will, original sin, justification, and good works. Volume II examined the sacraments,[56] including baptism, confirmation, the sacrament of the eucharist,[57] communion under both kinds, the mass, penance, extreme unction, holy orders, and matrimony. Volume III examined virginity, celibacy, purgatory, and the invocation of saints.[58] Volume IV examined the relics of the saints, images, indulgences, fasting, the distinction of foods, and festivals.[59]
 
 In response, Andrada wrote the five-part _Defensio Tridentinæ fidei_,[60] which was published posthumously in 1578. However, the _Defensio_ did not circulate as extensively as the _Examen_, nor were any full translations ever published. A French translation of the _Examen_ by Eduard Preuss was published in 1861. German translations were published in 1861, 1884, and 1972. In English, a complete translation by Fred Kramer drawing from the original Latin and the 1861 German was published beginning in 1971.
 

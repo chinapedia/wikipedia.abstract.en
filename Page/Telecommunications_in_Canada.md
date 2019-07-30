@@ -3,7 +3,7 @@ Present-day TELECOMMUNICATIONS IN CANADA include telephone, radio, television, a
 
 History
 
-All_Red_Line.jpg cable for the British Empire. Canada as an interconnection-point. c.a. 1903]] The history of telegraphy in Canada dates back to the Province of Canada. While the first telegraph company was the Toronto, Hamilton and Niagara Electro-Magnetic Telegraph Company, founded in 1846, it was the Montreal Telegraph Company, controlled by Hugh Allan and founded a year later, that dominated in Canada during the technology's early years.[1]
+cable for the British Empire. Canada as an interconnection-point. c.a. 1903]] The history of telegraphy in Canada dates back to the Province of Canada. While the first telegraph company was the Toronto, Hamilton and Niagara Electro-Magnetic Telegraph Company, founded in 1846, it was the Montreal Telegraph Company, controlled by Hugh Allan and founded a year later, that dominated in Canada during the technology's early years.[1]
 
 Following the 1852 Telegraph Act, Canada's first permanent transatlantic telegraph link was a submarine cable built in 1866 between Ireland and Newfoundland.[2] Telegrams were sent through networks built by Canadian Pacific and Canadian National.
 
@@ -16,7 +16,7 @@ As of 1951, approximately 7000 messages were sent daily from the United States t
 
 Fixed-line telephony
 
-Bell_logo.svg, the nation's largest telephone company.]] Telephones - fixed lines: total subscriptions: 14,987,520 (July 2016 est.)
+, the nation's largest telephone company.]] Telephones - fixed lines: total subscriptions: 14,987,520 (July 2016 est.)
 
 ::* Subscriptions per 100 inhabitants: 42
 

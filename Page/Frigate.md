@@ -13,8 +13,6 @@ Age of sail
 
 Origins
 
-Frc3a9gate-c3a0-la-voile1.jpg
-
 The term "frigate" (Italian: _fregata_; Spanish/Catalan/Portuguese/Sicilian: _fragata_; Dutch: _fregat_; French: _frégate_) originated in the Mediterranean in the late 15th century, referring to a lighter galley-type warship with oars, sails and a light armament, built for speed and maneuverability.[1] The etymology of the word remains uncertain, although it may have originated as a corruption of _aphractus_, a Latin word for an open vessel with no lower deck. _Aphractus_, in turn, derived from the Ancient Greek phrase ἄφρακτος ναῦς (_aphraktos naus_) - "undefended ship".
 
 In 1583, during the Eighty Years' War of 1568-1648, Habsburg Spain recovered the southern Netherlands from the Protestant rebels. This soon resulted in the use of the occupied ports as bases for privateers, the "Dunkirkers", to attack the shipping of the Dutch and their allies. To achieve this the Dunkirkers developed small, maneuverable, sailing vessels that came to be referred to as frigates. The success of these Dunkirker vessels influenced the ship design of other navies contending with them, but because most regular navies required ships of greater endurance than the Dunkirker frigates could provide, the term soon came to apply less exclusively to any relatively fast and elegant sail-only warship. In French, the term "frigate" gave rise to a verb - _frégater_, meaning 'to build long and low', and to an adjective, adding more confusion. Even the huge English could be described as "a delicate frigate" by a contemporary after her upper decks were reduced in 1651.[2]
@@ -25,7 +23,7 @@ The effectiveness of the Dutch frigates became most evident in the Battle of the
 
 The fleets built by the Commonwealth of England in the 1650s generally consisted of ships described as "frigates", the largest of which were two-decker "great frigates" of the third rate. Carrying 60 guns, these vessels were as big and capable as "great ships" of the time; however, most other frigates at the time were used as "cruisers": independent fast ships. The term "frigate" implied a long hull-design, which relates directly to speed (see hull speed) and which also, in turn, helped the development of the broadside tactic in naval warfare.
 
-La_Boudeuse.jpg]]
+]]
 
 At this time, a further design evolved, reintroducing oars and resulting in galley frigates such as of 1676, which was rated as a 32-gun fifth-rate but also had a bank of 40 oars set below the upper deck which could propel the ship in the absence of a favourable wind.
 
@@ -35,7 +33,7 @@ Under the rating system of the Royal Navy, by the middle of the 18th century, th
 
 Classic design
 
-Lutine1.jpg]] Main_batteries_of_Méduse-Garneray-IMG_4787-cropped.JPG
+]]
 
 The classic sailing frigate, well-known today for its role in the Napoleonic wars, can be traced back to French developments in the second quarter of the 18th century. The French-built _Médée_ of 1740 is often regarded as the first example of this type. These ships were square-rigged and carried all their main guns on a single continuous upper deck. The lower deck, known as the "gun deck", now carried no armament, and functioned as a "berth deck" where the crew lived, and was in fact placed below the waterline of the new frigates. The typical earlier cruiser had a partially armed lower deck, from which it was known as a 'half-battery' or _demi-batterie_ ship. Removing the guns from this deck allowed the height of the hull upperworks to be lowered, giving the resulting 'true-frigate' much improved sailing qualities. The unarmed deck meant that the frigate's guns were carried comparatively high above the waterline; as a result, when seas were too rough for two-deckers to open their lower deck gun-ports, frigates were still able to fight with all their guns (see the Action of 13 January 1797, for an example when this was decisive).[5][6]
 
@@ -45,13 +43,13 @@ The Royal Navy captured a number of the new French frigates, including the _Méd
 
 Heavy frigate
 
-HMS_Trincomalee.jpg'' (1817) a restored British 18-pounder, 38 gun heavy frigate]] In 1778, the British Admiralty introduced a larger "heavy" frigate, with a main battery of twenty-six or twenty-eight 18-pounder guns (with smaller guns carried on the quarter deck and forecastle). This move may reflect the naval conditions at the time, with both France and Spain as enemies the usual British preponderance in ship numbers was no longer the case and there was pressure on the British to produce cruisers of individually greater force. In reply, the first French 18-pounder frigates were laid down in 1781. The 18-pounder frigate eventually became the standard frigate of the French Revolutionary and Napoleonic Wars. The British produced larger, 38-gun, and a slightly smaller, 36-gun, versions and also a 32-gun design that can be considered an 'economy version'. The 32-gun frigates also had the advantage that they could be built by the many smaller, less-specialised shipbuilders.[9][10]
+'' (1817) a restored British 18-pounder, 38 gun heavy frigate]] In 1778, the British Admiralty introduced a larger "heavy" frigate, with a main battery of twenty-six or twenty-eight 18-pounder guns (with smaller guns carried on the quarter deck and forecastle). This move may reflect the naval conditions at the time, with both France and Spain as enemies the usual British preponderance in ship numbers was no longer the case and there was pressure on the British to produce cruisers of individually greater force. In reply, the first French 18-pounder frigates were laid down in 1781. The 18-pounder frigate eventually became the standard frigate of the French Revolutionary and Napoleonic Wars. The British produced larger, 38-gun, and a slightly smaller, 36-gun, versions and also a 32-gun design that can be considered an 'economy version'. The 32-gun frigates also had the advantage that they could be built by the many smaller, less-specialised shipbuilders.[9][10]
 
 Frigates could (and usually did) additionally carry smaller carriage-mounted guns on their quarter decks and forecastles (the superstructures above the upper deck). Technically, rated ships with fewer than 28 guns could not be classed as frigates but as "post ships"; however, in common parlance most post ships were often described as "frigates", the same casual misuse of the term being extended to smaller two-decked ships that were too small to stand in the line of battle. In 1778 the Carron Iron Company of Scotland produced a naval gun which would revolutionise the armament of smaller naval vessels, including the frigate. The carronade was a large calibre, short-barrelled naval cannon which was light, quick to reload and needed a smaller crew than a conventional long-gun. Due to its lightness it could be mounted on the forecastle and quarter deck of frigates. It greatly increased the firepower, measured in weight of metal (the combined weight of all projectiles fired in one broadside), of these vessels. The disadvantages of the carronade were that it had a much shorter range and was less accurate than a long-gun. The British quickly saw the advantages of the new weapon and soon employed it on a wide scale, the US Navy also copied the design soon after its appearance. The French and other nations eventually adopted variations of the weapon in succeeding decades. The typical heavy frigate had a main armament of 18-pounder long-guns, plus 32-pounder carronades mounted on its upper decks.[11]
 
 Super-heavy frigates
 
-USS_Constitution_underway,_August_19,_2012_by_Castle_Island_cropped.jpg The first 'super-heavy frigates', armed with 24-pounder long guns, were built by the naval architect F H Chapman for the Swedish navy in 1782. Because of a shortage of ships-of-the-line, the Swedes wanted these frigates, the _Bellona_ class, to be able to be able to stand in the battle line in an emergency. In the 1790s the French built a small number of large 24-pounder frigates, such as the _Forte_ and _Egyptienne_, they also cut-down (reduced the height of the hull to give only one continuous gun deck) a number of older ships-of-the-line (including _Diadème_) to produce super-heavy frigates, the resulting ship was known as a _rasée_. It is not known whether the French were seeking to produce very potent cruisers or merely to address stability problems in old ships. The British, alarmed by the prospect of these powerful heavy frigates, responded by rasée-ing three of the smaller 64-gun battleships, including the _Indefatigable_, which went on to have a very successful career as a frigate. At this time the British also built a few 24-pounder-armed large frigates, the most successful of which was HMS _Endymion_[12][13]
+The first 'super-heavy frigates', armed with 24-pounder long guns, were built by the naval architect F H Chapman for the Swedish navy in 1782. Because of a shortage of ships-of-the-line, the Swedes wanted these frigates, the _Bellona_ class, to be able to be able to stand in the battle line in an emergency. In the 1790s the French built a small number of large 24-pounder frigates, such as the _Forte_ and _Egyptienne_, they also cut-down (reduced the height of the hull to give only one continuous gun deck) a number of older ships-of-the-line (including _Diadème_) to produce super-heavy frigates, the resulting ship was known as a _rasée_. It is not known whether the French were seeking to produce very potent cruisers or merely to address stability problems in old ships. The British, alarmed by the prospect of these powerful heavy frigates, responded by rasée-ing three of the smaller 64-gun battleships, including the _Indefatigable_, which went on to have a very successful career as a frigate. At this time the British also built a few 24-pounder-armed large frigates, the most successful of which was HMS _Endymion_[12][13]
 
 In 1797, three of the United States Navy's first six major ships were rated as 44-gun frigates, which operationally carried fifty-six to sixty 24-pounder long guns and 32-pounder or 42-pounder carronades on two decks; they were exceptionally powerful. These ships were so well-armed that they were often regarded as equal to ships of the line, and after a series of losses at the outbreak of the War of 1812, Royal Navy fighting instructions ordered British frigates (usually of 38 guns or less) to never engage the large American frigates at any less than a 2:1 advantage. , preserved as a museum ship by the US Navy, is the oldest commissioned warship afloat, and is a surviving example of a frigate from the Age of Sail. _Constitution_ and her sister ships and were created in a response to deal with the Barbary Coast pirates and in conjunction with the Naval Act of 1794. The three big frigates, when built, had a distinctive building pattern which minimised "hogging" (in which the centre of the keel rises while both ends drop) and improves hydrodynamic efficiency.[14]
 
@@ -61,7 +59,7 @@ The British, wounded by repeated defeats in single-ship actions, responded to th
 
 Role
 
-HMS_warriorjune20092.jpg, the first iron-hulled armoured steam frigate - the hull survived as an oil terminal dock and was restored to its original appearance in the late 20th century]]
+, the first iron-hulled armoured steam frigate - the hull survived as an oil terminal dock and was restored to its original appearance in the late 20th century]]
 
 Frigates were perhaps the hardest-worked of warship types during the Age of Sail. While smaller than a ship-of-the-line, they were formidable opponents for the large numbers of sloops and gunboats, not to mention privateers or merchantmen. Able to carry six months' stores, they had very long range; and vessels larger than frigates were considered too valuable to operate independently.
 
@@ -78,7 +76,7 @@ Frigates are often the vessel of choice in historical naval novels due to their 
 
 Age of steam
 
-Lebreton_engraving-26.jpg frigate ]]
+frigate ]]
 
 Vessels classed as frigates continued to play a great role in navies with the adoption of steam power in the 19th century. In the 1830s, navies experimented with large paddle steamers equipped with large guns mounted on one deck, which were termed "paddle frigates".
 
@@ -93,7 +91,7 @@ After 1875, the term "frigate" fell out of use. Vessels with armoured sides were
 
 World War II
 
-Lochmorlich.jpg ]] USS_Gallup_(PF-47).jpg, California, on 30 May 1944]]
+]] , California, on 30 May 1944]]
 
 Modern frigates are related to earlier frigates only by name. The term "frigate" was readopted during the Second World War by the British Royal Navy to describe an anti-submarine escort vessel that was larger than a corvette, while smaller than a destroyer. Equal in size and capability to the American destroyer escort, frigates are usually less expensive to build and maintain.[21] Anti-submarine escorts had previously been classified as sloops by the Royal Navy, and the s of 1939–1945 were as large as the new types of frigate, and more heavily armed. Twenty-two of these were reclassified as frigates after the war, as were the remaining 24 smaller s.
 
@@ -110,7 +108,7 @@ Contemporary
 
 Guided-missile role
 
-HMCS_Regina_(FFH_334)_Frigate.jpg escorting the American aircraft carrier across the Pacific Ocean in 2008]] Chilean_frigate_Almirante_Lynch.jpg BAE _Morán Valverde_, formerly the Chilean Navy's ]] USS_Leahy_(CG-16)_at_sea_off_San_Diego,_in_May_1978.jpg, California, in May 1978. She was classified as a guided-missile frigate (DLG-16) until 1975, when she was reclassified as a guided-missile cruiser (CG-16).]]
+escorting the American aircraft carrier across the Pacific Ocean in 2008]] BAE _Morán Valverde_, formerly the Chilean Navy's ]] , California, in May 1978. She was classified as a guided-missile frigate (DLG-16) until 1975, when she was reclassified as a guided-missile cruiser (CG-16).]]
 
 The introduction of the surface-to-air missile after World War II made relatively small ships effective for anti-aircraft warfare: the "guided missile frigate". In the USN, these vessels were called "ocean escorts" and designated "DE" or "DEG" until 1975 – a holdover from the World War II destroyer escort or "DE". The Royal Canadian Navy and British Royal Navy maintained the use of the term "frigate"; likewise, the French Navy refers to missile-equipped ship, up to cruiser-sized ships (, , and es), by the name of "frégate", while smaller units are named _aviso_. The Soviet Navy used the term "guard-ship" (_сторожевой корабль_).
 
@@ -128,7 +126,7 @@ Multi-role frigates like the MEKO 200, and es are designed for navies needing wa
 
 Anti-submarine role
 
-HMS_Somerset_(F82).jpg. Type 23 frigates were built for anti-submarine warfare but are capable multi-purpose ships.[27]]]
+. Type 23 frigates were built for anti-submarine warfare but are capable multi-purpose ships.[27]]]
 
 At the opposite end of the spectrum, some frigates are specialised for anti-submarine warfare. Increasing submarine speeds towards the end of World War II (see German Type XXI submarine) greatly reduced the margin of speed superiority of frigate over submarine. The frigate could no longer be slow and powered by mercantile machinery and consequently postwar frigates, such as the _Whitby_ class, were faster.
 
@@ -140,21 +138,17 @@ With their onboard radar helicopters can also be used to reconnoitre over-the-ho
 
 Airdefense role
 
-HNLMS_De_Zeven_Provinciën_(F_802).jpg]] Some frigates are specialised in airdefense, because of the major developments in fighter jets and ballistic missiles. An example is the De Zeven Provinciën-class Airdefense- and commandfrigate of the Royal Dutch Navy. These ships are armed with VL Standard Missile 2 Block IIIA, one or two Goalkeeper CIWS systems, (_HNLMS Evertsen_ has two Goalkeepers, the rest of the ships have the capacity for another one.) VL Evolved Sea Sparrow Missiles, a special SMART-L Radar and a Thales APAR, all of whom are for airdefense. Another example is the Iver Huitfeldtclass of the Danish Navy.[28]
+]] Some frigates are specialised in airdefense, because of the major developments in fighter jets and ballistic missiles. An example is the De Zeven Provinciën-class Airdefense- and commandfrigate of the Royal Dutch Navy. These ships are armed with VL Standard Missile 2 Block IIIA, one or two Goalkeeper CIWS systems, (_HNLMS Evertsen_ has two Goalkeepers, the rest of the ships have the capacity for another one.) VL Evolved Sea Sparrow Missiles, a special SMART-L Radar and a Thales APAR, all of whom are for airdefense. Another example is the Iver Huitfeldtclass of the Danish Navy.[28]
 
 Further developments
-
-Shivalik_Maiden_Sortie.jpg FS_Surcouf.jpg
 
 Stealth technology has been introduced in modern frigate design by the French design.[29] Frigate shapes are designed to offer a minimal radar cross section, which also lends them good air penetration; the maneuverability of these frigates has been compared to that of sailing ships. Examples are the Italy and French with the Aster 15 and Aster 30 missile for anti-missile capabilities, the German and s, the Turkish type frigates with the MK-41 VLS, and the Indian and es with the Brahmos missile system.
 
 The modern French Navy applies the term first-class frigate and second-class frigate to both destroyers and frigates in service. Pennant numbers remain divided between F-series numbers for those ships internationally recognised as frigates and D-series pennant numbers for those more traditionally recognised as destroyers. This can result in some confusion as certain classes are referred to as frigates in French service while similar ships in other navies are referred to as destroyers. This also results in some recent classes of French ships such as the being among the largest in the world to carry the rating of frigate.
 
-BADEN-WURTTEMBERG_00257_(cropped).jpg of the German Navy; currently the biggest frigates worldwide.]] In the German Navy, frigates were used to replace aging destroyers; however in size and role the new German frigates exceed the former class of destroyers. The future German F125-class frigate will be the largest class of frigates worldwide with a displacement of more than 7,200 tons. The same was done in the Spanish Navy, which went ahead with the deployment of the first Aegis frigates, the s.
+of the German Navy; currently the biggest frigates worldwide.]] In the German Navy, frigates were used to replace aging destroyers; however in size and role the new German frigates exceed the former class of destroyers. The future German F125-class frigate will be the largest class of frigates worldwide with a displacement of more than 7,200 tons. The same was done in the Spanish Navy, which went ahead with the deployment of the first Aegis frigates, the s.
 
 Littoral combat ship (LCS)
-
-USS_Independence_LCS-2_at_pierce_(cropped).jpg
 
 Some new classes of ships similar to corvettes are optimized for high-speed deployment and combat with small craft rather than combat between equal opponents; an example is the U.S. littoral combat ship (LCS). As of 2015, all s in the United States Navy have been decommissioned, and their role partially being assumed by the new LCS. While the LCS class ships are smaller than the frigate class they will replace, they offer a similar degree of weaponry while requiring less than half the crew complement and offering a top speed of over . A major advantage for the LCS ships is that they are designed around specific mission modules allowing them to fulfill a variety of roles. The modular system also allows for most upgrades to be performed ashore and installed later into the ship, keeping the ships available for deployment for the maximum time.
 

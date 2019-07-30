@@ -1,5 +1,3 @@
-Black_Swans.jpg
-
 A statement, hypothesis, or theory has FALSIFIABILITY (or is FALSIFIABLE) if it is contradicted by a basic statement, which, in an eventual successful or failed falsification, must respectively correspond to a true or hypothetical observation.[1][2] For example, the claim "all swans are white and have always been white" is falsifiable since it is contradicted by this basic statement: "In 1697, during the Dutch explorer Willem de Vlamingh expedition, there were black swans on the shore of the Swan River in Australia", which in this case is a true observation.[3][4] The concept is also known by the terms REFUTABLE and REFUTABILITY.
 
 The concept was introduced by the philosopher of science Karl Popper. He saw falsifiability as the logical part and the cornerstone of his scientific epistemology, which sets the limits of scientific inquiry. He proposed that statements and theories that are not falsifiable are unscientific. Declaring an unfalsifiable theory to be scientific would then be pseudoscience.

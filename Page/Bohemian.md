@@ -5,7 +5,7 @@ In a separate meaning, "Bohemian" may also denote "a socially unconventional per
 
 Etymology
 
-Ottův_slovník_naučný_-_17_České_kroje_-_2.jpg The name "Bohemia" derives from the name of the Boii, a Celtic tribe who inhabited that area towards the latter La Tène period. The toponym _Boiohaemum,_ first attested by Tacitus,[3] is commonly taken to mean "home of the Boii" (from the Germanic root *_haima-_ meaning "world, home").
+The name "Bohemia" derives from the name of the Boii, a Celtic tribe who inhabited that area towards the latter La Tène period. The toponym _Boiohaemum,_ first attested by Tacitus,[3] is commonly taken to mean "home of the Boii" (from the Germanic root *_haima-_ meaning "world, home").
 
 The word "Bohemian" has never been widely used by the local Czech population. In Czech, the region since the early Middle Ages has been called _Čechy_ but also, especially during the period of restoration/emancipation of the Czech language and nation, as _Čechie._ Another term, stressing the importance of the state/nation, is _Království české_ ("Czech Kingdom") in Czech, or _Böhmen_ (Königreich) in German. Its mainly Czech-speaking inhabitants were called _Čechové_ (in modern Czech _Češi_).
 

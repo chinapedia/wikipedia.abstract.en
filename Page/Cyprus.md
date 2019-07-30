@@ -11,7 +11,7 @@ Cyprus is a major tourist destination in the Mediterranean.[20][21][22] With an 
 
 Etymology
 
-Geology_of_Cyprus-SkiriotissaMine.jpg The earliest attested reference to _Cyprus_ is the 15th century BC Mycenaean Greek , _ku-pi-ri-jo_,[27] meaning "Cypriot" (Greek: ), written in Linear B syllabic script.[28] The classical Greek form of the name is (_Kýpros_).
+The earliest attested reference to _Cyprus_ is the 15th century BC Mycenaean Greek , _ku-pi-ri-jo_,[27] meaning "Cypriot" (Greek: ), written in Linear B syllabic script.[28] The classical Greek form of the name is (_Kýpros_).
 
 The etymology of the name is unknown. Suggestions include:
 
@@ -28,15 +28,13 @@ The state's official name in Greek and Turkish literally translates as "Cypriot 
 
 History
 
-Choirokoitia.jpg Early_Greek_colonization_of_Cyprus.jpg
-
 Prehistoric and Ancient Cyprus
 
 The earliest confirmed site of human activity on Cyprus is Aetokremnos, situated on the south coast, indicating that hunter-gatherers were active on the island from around 10,000 BC,[32] with settled village communities dating from 8200 BC. The arrival of the first humans correlates with the extinction of the dwarf hippos and dwarf elephants.[33] Water wells discovered by archaeologists in western Cyprus are believed to be among the oldest in the world, dated at 9,000 to 10,500 years old.[34]
 
 Remains of an 8-month-old cat were discovered buried with a human body at a separate Neolithic site in Cyprus.[35] The grave is estimated to be 9,500 years old (7500 BC), predating ancient Egyptian civilisation and pushing back the earliest known feline-human association significantly.[36] The remarkably well-preserved Neolithic village of Khirokitia is a UNESCO World Heritage Site dating to approximately 6800 BC.[37]
 
-Sanctuary_of_Apollo_Hylates_temple_2010_2.jpg]]
+]]
 
 During the late Bronze Age the island experienced two waves of Greek settlement.[38] The first wave consisted of Mycenaean Greek traders who started visiting Cyprus around 1400 BC.[39][40] A major wave of Greek settlement is believed to have taken place following the Bronze Age collapse of Mycenaean Greece from 1100 to 1050 BC, with the island's predominantly Greek character dating from this period.[41][42] Cyprus occupies an important role in Greek mythology being the birthplace of Aphrodite and Adonis, and home to King Cinyras, Teucer and Pygmalion.[43] Beginning in the 8th century BC Phoenician colonies were founded on the south coast of Cyprus, near present-day Larnaca and Salamis.[44]
 
@@ -46,7 +44,7 @@ The island was conquered by Alexander the Great in 333 BC. Following his death 
 
 Middle Ages
 
-Nicosia_by_Giacomo_Franco.jpg were built by the Venetians to defend the city in case of an Ottoman attack]] Kyrenia_01-2017_img11_Castle_exterior.jpg was originally built by the Byzantines and enlarged by the Venetians]] When the Roman Empire was divided into Eastern and Western parts in 395, Cyprus became part of the East Roman, or Byzantine Empire, and would remain so until the Crusades some 800 years later. Under Byzantine rule, the Greek orientation that had been prominent since antiquity developed the strong Hellenistic-Christian character that continues to be a hallmark of the Greek Cypriot community.[51]
+were built by the Venetians to defend the city in case of an Ottoman attack]] was originally built by the Byzantines and enlarged by the Venetians]] When the Roman Empire was divided into Eastern and Western parts in 395, Cyprus became part of the East Roman, or Byzantine Empire, and would remain so until the Crusades some 800 years later. Under Byzantine rule, the Greek orientation that had been prominent since antiquity developed the strong Hellenistic-Christian character that continues to be a hallmark of the Greek Cypriot community.[51]
 
 Beginning in 649, Cyprus endured several attacks launched by raiders from the Levant, which continued for the next 300 years. Many were quick piratical raids, but others were large-scale attacks in which many Cypriots were slaughtered and great wealth carried off or destroyed.[52]
 
@@ -60,7 +58,7 @@ Although the Lusignan French aristocracy remained the dominant social class in C
 
 Cyprus under the Ottoman Empire
 
-In 1570, a full-scale Ottoman assault with 60,000 troops brought the island under Ottoman control, despite stiff resistance by the inhabitants of Nicosia and Famagusta. Ottoman forces capturing Cyprus massacred many Greek and Armenian Christian inhabitants.[62] The previous Latin elite were destroyed and the first significant demographic change since antiquity took place with the formation of a Muslim community.[63] Soldiers who fought in the conquest settled on the island and Turkish peasants and craftsmen were brought to the island from Anatolia.[64] This new community also included banished Anatolian tribes, "undesirable" persons and members of various "troublesome" Muslim sects, as well as a number of new converts on the island.[65] Cyprus_by_Piri_Reis.jpg]] The Ottomans abolished the feudal system previously in place and applied the millet system to Cyprus, under which non-Muslim peoples were governed by their own religious authorities. In a reversal from the days of Latin rule, the head of the Church of Cyprus was invested as leader of the Greek Cypriot population and acted as mediator between Christian Greek Cypriots and the Ottoman authorities. This status ensured that the Church of Cyprus was in a position to end the constant encroachments of the Roman Catholic Church.[66] Ottoman rule of Cyprus was at times indifferent, at times oppressive, depending on the temperaments of the sultans and local officials, and the island began over 250 years of economic decline.[67]
+In 1570, a full-scale Ottoman assault with 60,000 troops brought the island under Ottoman control, despite stiff resistance by the inhabitants of Nicosia and Famagusta. Ottoman forces capturing Cyprus massacred many Greek and Armenian Christian inhabitants.[62] The previous Latin elite were destroyed and the first significant demographic change since antiquity took place with the formation of a Muslim community.[63] Soldiers who fought in the conquest settled on the island and Turkish peasants and craftsmen were brought to the island from Anatolia.[64] This new community also included banished Anatolian tribes, "undesirable" persons and members of various "troublesome" Muslim sects, as well as a number of new converts on the island.[65] ]] The Ottomans abolished the feudal system previously in place and applied the millet system to Cyprus, under which non-Muslim peoples were governed by their own religious authorities. In a reversal from the days of Latin rule, the head of the Church of Cyprus was invested as leader of the Greek Cypriot population and acted as mediator between Christian Greek Cypriots and the Ottoman authorities. This status ensured that the Church of Cyprus was in a position to end the constant encroachments of the Roman Catholic Church.[66] Ottoman rule of Cyprus was at times indifferent, at times oppressive, depending on the temperaments of the sultans and local officials, and the island began over 250 years of economic decline.[67]
 
 The ratio of Muslims to Christians fluctuated throughout the period of Ottoman domination. In 1777–78, 47,000 Muslims constituted a majority over the island's 37,000 Christians.[68] By 1872, the population of the island had risen to 144,000, comprising 44,000 Muslims and 100,000 Christians.[69] The Muslim population included numerous crypto-Christians,[70] including the Linobambaki, a crypto-Catholic community that arose due to religious persecution of the Catholic community by the Ottoman authorities;[71][72] this community would assimilate into the Turkish Cypriot community during British rule.[73]
 
@@ -70,17 +68,13 @@ Under the Ottoman rule, numeracy, school enrollment and literacy rates were all 
 
 Cyprus under the British Empire
 
-Hosting_the_British_flag_at_Nicosia.jpg
-
 In the aftermath of the Russo-Turkish War (1877–1878) and the Congress of Berlin, Cyprus was leased to the British Empire which de facto took over its administration in 1878 (though, in terms of sovereignty, Cyprus remained a _de jure_ Ottoman territory until 5 November 1914, together with Egypt and Sudan)[78] in exchange for guarantees that Britain would use the island as a base to protect the Ottoman Empire against possible Russian aggression.[79]
 
-Cypriot_demonstration_1930.jpg demonstrations for Enosis (union with Greece) in 1930]] The island would serve Britain as a key military base for its colonial routes. By 1906, when the Famagusta harbour was completed, Cyprus was a strategic naval outpost overlooking the Suez Canal, the crucial main route to India which was then Britain's most important overseas possession. Following the outbreak of the First World War and the decision of the Ottoman Empire to join the war on the side of the Central Powers, on 5 November 1914 the British Empire formally annexed Cyprus and declared the Ottoman _Khedivate_ of Egypt and Sudan a _Sultanate_ and British protectorate.[80][81]
+demonstrations for Enosis (union with Greece) in 1930]] The island would serve Britain as a key military base for its colonial routes. By 1906, when the Famagusta harbour was completed, Cyprus was a strategic naval outpost overlooking the Suez Canal, the crucial main route to India which was then Britain's most important overseas possession. Following the outbreak of the First World War and the decision of the Ottoman Empire to join the war on the side of the Central Powers, on 5 November 1914 the British Empire formally annexed Cyprus and declared the Ottoman _Khedivate_ of Egypt and Sudan a _Sultanate_ and British protectorate.[80][81]
 
 In 1915, Britain offered Cyprus to Greece, ruled by King Constantine I of Greece, on condition that Greece join the war on the side of the British. The offer was declined. In 1923, under the Treaty of Lausanne, the nascent Turkish republic relinquished any claim to Cyprus,[82] and in 1925 it was declared a British crown colony.[83] Many Greek and Turkish Cypriots fought in the British Army during both world wars.[84] During the Second World War, many enlisted in the Cyprus Regiment.
 
 The Greek Cypriot population, meanwhile, had become hopeful that the British administration would lead to _enosis_. The idea of _enosis_ was historically part of the _Megali Idea_, a greater political ambition of a Greek state encompassing the territories with Greek inhabitants in the former Ottoman Empire, including Cyprus and Asia Minor with a capital in Constantinople, and was actively pursued by the Cypriot Orthodox Church, which had its members educated in Greece. These religious officials, together with Greek military officers and professionals, some of whom still pursued the _Megali Idea_, would later found the guerrilla organisation _Ethniki Organosis Kyprion Agoniston or_ National Organisation of Cypriot Fighters (EOKA).[85][86] The Greek Cypriots viewed the island as historically Greek and believed that union with Greece was a natural right.[87] In the 1950s, the pursuit of _enosis_ became a part of the Greek national policy.[88]
-
-Street_riot_in_Nicosia_1956.jpg
 
 Initially, the Turkish Cypriots favoured the continuation of the British rule.[89] However, they were alarmed by the Greek Cypriot calls for _enosis_ as they saw the union of Crete with Greece, which led to the exodus of Cretan Turks, as a precedent to be avoided,[90][91] and they took a pro-partition stance in response to the militant activity of EOKA.[92] The Turkish Cypriots also viewed themselves as a distinct ethnic group of the island and believed in their having a separate right to self-determination from Greek Cypriots.[93] Meanwhile, in the 1950s, Turkish leader Menderes considered Cyprus an "extension of Anatolia", rejected the partition of Cyprus along ethnic lines and favoured the annexation of the whole island to Turkey. Nationalistic slogans centred on the idea that "Cyprus is Turkish" and the ruling party declared Cyprus to be a part of the Turkish homeland that was vital to its security. Upon realising the fact that the Turkish Cypriot population was only 20% of the islanders made annexation unfeasible, the national policy was changed to favour partition. The slogan "Partition or Death" was frequently used in Turkish Cypriot and Turkish protests starting in the late 1950s and continuing throughout the 1960s. Although after the Zürich and London conferences Turkey seemed to accept the existence of the Cypriot state and to distance itself from its policy of favouring the partition of the island, the goal of the Turkish and Turkish Cypriot leaders remained that of creating an independent Turkish state in the northern part of the island.[94][95]
 
@@ -88,7 +82,7 @@ In January 1950, the Church of Cyprus organised a referendum under the supervisi
 
 Independence and inter-communal violence
 
-Bundesarchiv_B_145_Bild-F012976-0007,_Bonn,_Staatsbesuch_Präsident_von_Zypern.jpg]] Ethnographic_distribution_in_Cyprus_1960.jpg On 16 August 1960, Cyprus attained independence after the Zürich and London Agreement between the United Kingdom, Greece and Turkey. Cyprus had a total population of 573,566; of whom 442,138 (77.1%) were Greeks, 104,320 (18.2%) Turks, and 27,108 (4.7%) others.[102] The UK retained the two Sovereign Base Areas of Akrotiri and Dhekelia, while government posts and public offices were allocated by ethnic quotas, giving the minority Turkish Cypriots a permanent veto, 30% in parliament and administration, and granting the three mother-states guarantor rights.
+]] On 16 August 1960, Cyprus attained independence after the Zürich and London Agreement between the United Kingdom, Greece and Turkey. Cyprus had a total population of 573,566; of whom 442,138 (77.1%) were Greeks, 104,320 (18.2%) Turks, and 27,108 (4.7%) others.[102] The UK retained the two Sovereign Base Areas of Akrotiri and Dhekelia, while government posts and public offices were allocated by ethnic quotas, giving the minority Turkish Cypriots a permanent veto, 30% in parliament and administration, and granting the three mother-states guarantor rights.
 
 However, the division of power as foreseen by the constitution soon resulted in legal impasses and discontent on both sides, and nationalist militants started training again, with the military support of Greece and Turkey respectively. The Greek Cypriot leadership believed that the rights given to Turkish Cypriots under the 1960 constitution were too extensive and designed the Akritas plan, which was aimed at reforming the constitution in favour of Greek Cypriots, persuading the international community about the correctness of the changes and violently subjugating Turkish Cypriots in a few days should they not accept the plan.[103] Tensions were heightened when Cypriot President Archbishop Makarios III called for constitutional changes, which were rejected by Turkey[104] and opposed by Turkish Cypriots.[105]
 
@@ -98,7 +92,7 @@ In 1964, Turkey threatened to invade Cyprus[110] in response to the continuing C
 
 1974 coup, Turkish invasion, and division
 
-Famagusta-Varosha_2007.JPG, a suburb of Famagusta, was abandoned when its inhabitants fled in 1974 and remains under Turkish military control]] On 15 July 1974, the Greek military junta under Dimitrios Ioannides carried out a coup d'état in Cyprus, to unite the island with Greece.[113][114][115] The coup ousted president Makarios III and replaced him with pro-enosis nationalist Nikos Sampson.[116] In response to the coup, five days later, on 20 July 1974, the Turkish army invaded the island, citing a right to intervene to restore the constitutional order from the 1960 Treaty of Guarantee. This justification has been rejected by the United Nations and the international community.[117]
+, a suburb of Famagusta, was abandoned when its inhabitants fled in 1974 and remains under Turkish military control]] On 15 July 1974, the Greek military junta under Dimitrios Ioannides carried out a coup d'état in Cyprus, to unite the island with Greece.[113][114][115] The coup ousted president Makarios III and replaced him with pro-enosis nationalist Nikos Sampson.[116] In response to the coup, five days later, on 20 July 1974, the Turkish army invaded the island, citing a right to intervene to restore the constitutional order from the 1960 Treaty of Guarantee. This justification has been rejected by the United Nations and the international community.[117]
 
 The Turkish air force began bombing Greek positions in Cyprus, and hundreds of paratroopers were dropped in the area between Nicosia and Kyrenia, where well-armed Turkish Cypriot enclaves had been long-established; while off the Kyrenia coast, Turkish troop ships landed 6,000 men as well as tanks, trucks and armoured vehicles.[118][119]
 
@@ -108,11 +102,9 @@ International pressure led to a ceasefire, and by then 36% of the island had bee
 
 Post-division
 
-Cy-map.png
-
 After the restoration of constitutional order and the return of Archbishop Makarios III to Cyprus in December 1974, Turkish troops remained, occupying the northeastern portion of the island. In 1983, the Turkish Cypriot leader proclaimed the Turkish Republic of Northern Cyprus (TRNC), which is recognised only by Turkey.[128]
 
-The events of the summer of 1974 dominate the politics on the island, as well as Greco-Turkish relations. Around 150,000 settlers from Turkey are believed to be living in the north—many of whom were forced from Turkey by the Turkish government—in violation of the Geneva Convention and various UN resolutions.[129][130] EU_Foreign_Ministers_Gymnich_Meeting_in_Cyprus._7.-8._September_2012_(7954502290).jpg The Turkish invasion, the ensuing occupation and the declaration of independence by the TRNC have been condemned by United Nations resolutions, which are reaffirmed by the Security Council every year.[131] The last major effort to settle the Cyprus dispute was the Annan Plan in 2004, drafted by the then Secretary General, Kofi Annan. The plan was put to a referendum in both Northern Cyprus and the Cypriot Republic. 65% of Turkish Cypriots voted in support of the plan and 74% Greek Cypriots voted against the plan, claiming that it disproportionately favoured the Turkish side.[132] In total, 66.7% of the voters rejected the Annan Plan V. On 1 May 2004 Cyprus joined the European Union, together with nine other countries.[133] Cyprus was accepted into the EU as a whole, although the EU legislation is suspended in Northern Cyprus until a final settlement of the Cyprus problem. In July 2006, the island served as a haven for people fleeing Lebanon, due to the conflict between Israel and Hezbollah (also called "The July War").[134]
+The events of the summer of 1974 dominate the politics on the island, as well as Greco-Turkish relations. Around 150,000 settlers from Turkey are believed to be living in the north—many of whom were forced from Turkey by the Turkish government—in violation of the Geneva Convention and various UN resolutions.[129][130] The Turkish invasion, the ensuing occupation and the declaration of independence by the TRNC have been condemned by United Nations resolutions, which are reaffirmed by the Security Council every year.[131] The last major effort to settle the Cyprus dispute was the Annan Plan in 2004, drafted by the then Secretary General, Kofi Annan. The plan was put to a referendum in both Northern Cyprus and the Cypriot Republic. 65% of Turkish Cypriots voted in support of the plan and 74% Greek Cypriots voted against the plan, claiming that it disproportionately favoured the Turkish side.[132] In total, 66.7% of the voters rejected the Annan Plan V. On 1 May 2004 Cyprus joined the European Union, together with nine other countries.[133] Cyprus was accepted into the EU as a whole, although the EU legislation is suspended in Northern Cyprus until a final settlement of the Cyprus problem. In July 2006, the island served as a haven for people fleeing Lebanon, due to the conflict between Israel and Hezbollah (also called "The July War").[134]
 
 Efforts have been made to enhance freedom of movement between the two sides. In April 2003, Northern Cyprus unilaterally eased border restrictions, permitting Cypriots to cross between the two sides for the first time in 30 years.[135] In March 2008, a wall that had stood for decades at the boundary between the Republic of Cyprus and the UN buffer zone was demolished.[136] The wall had cut across Ledra Street in the heart of Nicosia and was seen as a strong symbol of the island's 32-year division. On 3 April 2008, Ledra Street was reopened in the presence of Greek and Turkish Cypriot officials.[137] North and South relaunched reunification talks on 15 May 2015.[138]
 
@@ -121,19 +113,17 @@ The European Union issued a warning in February 2019 that Cyprus, an EU member, 
 
 Geography
 
-Avakas_Gorge_(Cyprus).jpg
-
 Cyprus is the third largest island in the Mediterranean Sea, after the Italian islands of Sicily and Sardinia[140] (both in terms of area and population). It is also the world's 80th largest by area and world's 51st largest by population. It measures long from end to end and wide at its widest point, with Turkey to the north. It lies between latitudes 34° and 36° N, and longitudes 32° and 35° E.
 
 Other neighbouring territories include Syria and Lebanon to the east (, respectively), Israel to the southeast, Egypt to the south, and Greece to the northwest: to the small Dodecanesian island of Kastellorizo (Megisti), to Rhodes and to the Greek mainland. Sources alternatively place Cyprus in Europe,[141][142][143] or Western Asia and the Middle East.[144][145]
 
 The physical relief of the island is dominated by two mountain ranges, the Troodos Mountains and the smaller Kyrenia Range, and the central plain they encompass, the Mesaoria. The Mesaoria plain is drained by the Pedieos River, the longest on the island. The Troodos Mountains cover most of the southern and western portions of the island and account for roughly half its area. The highest point on Cyprus is Mount Olympus at , located in the centre of the Troodos range. The narrow Kyrenia Range, extending along the northern coastline, occupies substantially less area, and elevations are lower, reaching a maximum of . The island lies within the Anatolian Plate.[146]
 
-Petra_tou_romiou_beach.jpg ("Rock of the Greek").]] Geopolitically, the island is subdivided into four main segments. The Republic of Cyprus occupies the southern two-thirds of the island (59.74%). The Turkish Republic of Northern Cyprus occupies the northern third (34.85%), and the United Nations-controlled Green Line provides a buffer zone that separates the two and covers 2.67% of the island. Lastly, two bases under British sovereignty are located on the island: Akrotiri and Dhekelia, covering the remaining 2.74%.
+("Rock of the Greek").]] Geopolitically, the island is subdivided into four main segments. The Republic of Cyprus occupies the southern two-thirds of the island (59.74%). The Turkish Republic of Northern Cyprus occupies the northern third (34.85%), and the United Nations-controlled Green Line provides a buffer zone that separates the two and covers 2.67% of the island. Lastly, two bases under British sovereignty are located on the island: Akrotiri and Dhekelia, covering the remaining 2.74%.
 
 Climate
 
-Chionistra_winter_1.JPG experience heavy snowfall in winter]] Cyprus has a subtropical climate – Mediterranean and semi-arid type (in the north-eastern part of the island) – Köppen climate classifications _Csa_ and _BSh_,[147][148] with very mild winters (on the coast) and warm to hot summers. Snow is possible only in the Troodos Mountains in the central part of island. Rain occurs mainly in winter, with summer being generally dry.
+experience heavy snowfall in winter]] Cyprus has a subtropical climate – Mediterranean and semi-arid type (in the north-eastern part of the island) – Köppen climate classifications _Csa_ and _BSh_,[147][148] with very mild winters (on the coast) and warm to hot summers. Snow is possible only in the Troodos Mountains in the central part of island. Rain occurs mainly in winter, with summer being generally dry.
 
 Cyprus has one of the warmest climates in the Mediterranean part of the European Union. The average annual temperature on the coast is around during the day and at night. Generally, summers last about eight months, beginning in April with average temperatures of during the day and at night, and ending in November with average temperatures of during the day and at night, although in the remaining four months temperatures sometimes exceed .[149]
 
@@ -147,7 +137,7 @@ Sunshine hours on the coast are around 3,200 per year, from an average of 5–6 
 
 Water supply
 
-Kalidonia_water_fall.jpg]] Kouris_Dam_-_overflow_day_8_April_2012.jpg overflow in April 2012]]
+]] overflow in April 2012]]
 
 Cyprus suffers from a chronic shortage of water. The country relies heavily on rain to provide household water, but in the past 30 years average yearly precipitation has decreased.[156] Between 2001 and 2004, exceptionally heavy annual rainfall pushed water reserves up, with supply exceeding demand, allowing total storage in the island's reservoirs to rise to an all-time high by the start of 2005. However, since then demand has increased annually – a result of local population growth, foreigners moving to Cyprus and the number of visiting tourists – while supply has fallen as a result of more frequent droughts.[157]
 
@@ -158,7 +148,7 @@ Turkey has built a water pipeline under the Mediterranean Sea from Anamur on its
 
 Politics
 
-Parlanet_cyprus.jpg]] Nicos_Anastasiades_at_EPP_HQ.jpg, President of Cyprus since 2013.]] Cyprus is a presidential republic. The head of state and of the government is elected by a process of universal suffrage for a five-year term. Executive power is exercised by the government with legislative power vested in the House of Representatives whilst the Judiciary is independent of both the executive and the legislature.
+]] , President of Cyprus since 2013.]] Cyprus is a presidential republic. The head of state and of the government is elected by a process of universal suffrage for a five-year term. Executive power is exercised by the government with legislative power vested in the House of Representatives whilst the Judiciary is independent of both the executive and the legislature.
 
 The 1960 Constitution provided for a presidential system of government with independent executive, legislative and judicial branches as well as a complex system of checks and balances including a weighted power-sharing ratio designed to protect the interests of the Turkish Cypriots. The executive was led by a Greek Cypriot president and a Turkish Cypriot vice-president elected by their respective communities for five-year terms and each possessing a right of veto over certain types of legislation and executive decisions. Legislative power rested on the House of Representatives who were also elected on the basis of separate voters' rolls.
 
@@ -172,7 +162,7 @@ The Republic of Cyprus is divided into six districts: Nicosia, Famagusta, Kyreni
 
 Exclaves and enclaves
 
-Dhekelia_Power_Station.jpg]]
+]]
 
 Cyprus has four exclaves, all in territory that belongs to the British Sovereign Base Area of Dhekelia. The first two are the villages of Ormidhia and Xylotymvou. The third is the Dhekelia Power Station, which is divided by a British road into two parts. The northern part is the EAC refugee settlement. The southern part, even though located by the sea, is also an exclave because it has no territorial waters of its own, those being U.K. waters.[162]
 
@@ -184,7 +174,7 @@ The Republic of Cyprus is a member of the following international groups: Austra
 
 Law, justice and human rights
 
-Supreme_Court_of_Justice_old_square_Nicosia_Republic_of_Cyprus_Cyprus_2.jpg Antiphonitis_(7).JPG church in Northern Cyprus, where frescoes have been looted.]] The Cyprus Police (Greek: , ) is the only National Police Service of the Republic of Cyprus and is under the Ministry of Justice and Public Order since 1993.[165]
+church in Northern Cyprus, where frescoes have been looted.]] The Cyprus Police (Greek: , ) is the only National Police Service of the Republic of Cyprus and is under the Ministry of Justice and Public Order since 1993.[165]
 
 In "Freedom in the World 2011", Freedom House rated Cyprus as "free".[166] In January 2011, the Report of the Office of the United Nations High Commissioner for Human Rights on the question of Human Rights in Cyprus noted that the ongoing division of Cyprus continues to affect human rights throughout the island "... including freedom of movement, human rights pertaining to the question of missing persons, discrimination, the right to life, freedom of religion, and economic, social and cultural rights."[167] The constant focus on the division of the island can sometimes mask other human rights issues.
 
@@ -192,7 +182,7 @@ In 2014, Turkey was ordered by the European Court of Human Rights to pay well ov
 
 Armed forces
 
-Dmitry_Medvedev_in_Cyprus_7_October_2010-2.jpeg]]
+]]
 
 The Cypriot National Guard is the main military institution of the Republic of Cyprus. It is a combined arms force, with land, air and naval elements. Historically all men were required to spend 24 months serving in the National Guard after their 17th birthday, but in 2016 this period of compulsory service was reduced to 14 months.[173]
 
@@ -203,15 +193,13 @@ While until 2016 the armed forces were mainly conscript based, since then a larg
 
 Economy
 
-Cyprus_central_bank_Nicosia_Republic_of_Cyprus.jpg]]
+]]
 
 In the early 21st century the Cypriot economy has diversified and become prosperous.[174] However, in 2012 it became affected by the Eurozone financial and banking crisis. In June 2012, the Cypriot government announced it would need € in foreign aid to support the Cyprus Popular Bank, and this was followed by Fitch downgrading Cyprus's credit rating to junk status.[175] Fitch said Cyprus would need an additional € to support its banks and the downgrade was mainly due to the exposure of Bank of Cyprus, Cyprus Popular Bank and Hellenic Bank, Cyprus's three largest banks, to the Greek financial crisis.[176]
 
-BlueEurozone.svg (dark blue) and of the EU single market.]]
+(dark blue) and of the EU single market.]]
 
 The 2012–2013 Cypriot financial crisis led to an agreement with the Eurogroup in March 2013 to split the country's second largest bank, the Cyprus Popular Bank (also known as Laiki Bank), into a "bad" bank which would be wound down over time and a "good" bank which would be absorbed by the Bank of Cyprus. In return for a €10 billion bailout from the European Commission, the European Central Bank and the International Monetary Fund, often referred to as the "troika", the Cypriot government was required to impose a significant haircut on uninsured deposits, a large proportion of which were held by wealthy Russians who used Cyprus as a tax haven. Insured deposits of €100,000 or less were not affected.[177][178][179]
-
-Limassol_New_General_Hospital_03.JPG
 
 According to the 2017 International Monetary Fund estimates, its per capita GDP (adjusted for purchasing power) at $36,442 is below the average of the European Union.[180][181] Cyprus has been sought as a base for several offshore businesses for its low tax rates. Tourism, financial services and shipping are significant parts of the economy. Economic policy of the Cyprus government has focused on meeting the criteria for admission to the European Union. The Cypriot government adopted the euro as the national currency on 1 January 2008.[182]
 
@@ -225,7 +213,7 @@ Because of the heavy influx of tourists and foreign investors, the property rent
 
 Transport
 
-A1_Motorway_Cyprus.JPG]]
+]]
 
 Available modes of transport are by road, sea and air. Of the of roads in the Republic of Cyprus in 1998, were paved, and were unpaved. In 1996 the Turkish-occupied area had a similar ratio of paved to unpaved, with approximately of paved road and unpaved. Cyprus is one of only four EU nations in which vehicles drive on the left-hand side of the road, a remnant of British colonisation (the others being Ireland, Malta and the United Kingdom). A series of motorways runs along the coast from Paphos east to Ayia Napa, with two motorways running inland to Nicosia, one from Limassol and one from Larnaca.
 
@@ -241,8 +229,6 @@ Cyta, the state-owned telecommunications company, manages most telecommunication
 
 
 Demographics
-
-Cyprus-demography.png Cypruspop-2010.svg
 
 According to the CIA World Factbook, in 2001 Greek Cypriots comprised 77%, Turkish Cypriots 18%, and others 5% of the Cypriot population.[201] At the time of the 2011 government census, there were 10,520 people of Russian origin living in Cyprus.[202][203][204][205]
 
@@ -306,13 +292,13 @@ According to the 2001 census carried out in the Government-controlled area,[225]
 
 Languages
 
-Armenian_Alphabet.jpg. Armenian is recognised as a minority language in Cyprus.]] Cyprus_road_sign_roundabound_destinations.svg Cyprus has two official languages, Greek and Turkish.[226] Armenian and Cypriot Maronite Arabic are recognised as minority languages.[227][228] Although without official status, English is widely spoken and it features widely on road signs, public notices, and in advertisements, etc.[229] English was the sole official language during British colonial rule and the lingua franca until 1960, and continued to be used (_de facto_) in courts of law until 1989 and in legislation until 1996.[230] 80.4% of Cypriots are proficient in the English language as a second language.[231] Russian is widely spoken among the country's minorities, residents and citizens of post-Soviet countries, and Pontic Greeks. Russian, after English and Greek, is the third language used on many signs of shops and restaurants, particularly in Limassol and Paphos. In addition to these languages, 12% speak French and 5% speak German.[232]
+. Armenian is recognised as a minority language in Cyprus.]] Cyprus has two official languages, Greek and Turkish.[226] Armenian and Cypriot Maronite Arabic are recognised as minority languages.[227][228] Although without official status, English is widely spoken and it features widely on road signs, public notices, and in advertisements, etc.[229] English was the sole official language during British colonial rule and the lingua franca until 1960, and continued to be used (_de facto_) in courts of law until 1989 and in legislation until 1996.[230] 80.4% of Cypriots are proficient in the English language as a second language.[231] Russian is widely spoken among the country's minorities, residents and citizens of post-Soviet countries, and Pontic Greeks. Russian, after English and Greek, is the third language used on many signs of shops and restaurants, particularly in Limassol and Paphos. In addition to these languages, 12% speak French and 5% speak German.[232]
 
 The everyday spoken language of Greek Cypriots is Cypriot Greek and that of Turkish Cypriots is Cypriot Turkish.[233] These vernaculars both differ from their standard registers significantly.[234]
 
 Education
 
-Izgled-Faneromeni_shool_and_the_Mausoleum_of_the_Martyrs_of_9_July_1821,_Nicosia-2.jpg is the oldest all-girl primary school in Cyprus.]]
+is the oldest all-girl primary school in Cyprus.]]
 
 Cyprus has a highly developed system of primary and secondary education offering both public and private education. The high quality of instruction can be attributed in part to the fact that nearly 7% of the GDP is spent on education which makes Cyprus one of the top three spenders of education in the EU along with Denmark and Sweden.[235]
 
@@ -323,7 +309,7 @@ The majority of Cypriots receive their higher education at Greek, British, Turki
 
 Culture
 
-Pagkiprio_High_school_entrance_Nicosia_Republic_of_Cyprus.jpg]]
+]]
 
 Greek Cypriots and Turkish Cypriots share a lot in common in their culture due to cultural exchanges but also have differences. Several traditional food (such as souvla and halloumi) and beverages are similar, as well as expressions and ways of life. Hospitality and buying or offering food and drinks for guests or others are common among both. In both communities, music, dance and art are integral parts of social life and many artistic, verbal and nonverbal expressions, traditional dances such as tsifteteli, similarities in dance costumes and importance placed on social activities are shared between the communities.[236] However, the two communities have distinct religions and religious cultures, with the Greek Cypriots traditionally being Greek Orthodox and Turkish Cypriots traditionally being Sunni Muslims, which has partly hindered cultural exchange.[237] Greek Cypriots have influences from Greece and Christianity, while Turkish Cypriots have influences from Turkey and Islam.
 
@@ -331,7 +317,7 @@ The Limassol Carnival Festival is an annual carnival which is held at Limassol, 
 
 Arts
 
-Classic_aristocratic_houses_in_Nicosia_Republic_of_Cyprus.jpg, Cyprus]]
+, Cyprus]]
 
 The art history of Cyprus can be said to stretch back up to 10,000 years, following the discovery of a series of Chalcolithic period carved figures in the villages of Khoirokoitia and Lempa.[238] The island is the home to numerous examples of high quality religious icon painting from the Middle Ages as well as many painted churches. Cypriot architecture was heavily influenced by French Gothic and Italian renaissance introduced in the island during the era of Latin domination (1191–1571).
 
@@ -345,7 +331,7 @@ Other notable Greek Cypriot artists include Helene Black, Kalopedis family, Pana
 
 Music
 
-Mihalis_Hatzigiannis.JPG]] Laghouto.jpg, dominant instrument of the Cypriot traditional music.]]
+]] , dominant instrument of the Cypriot traditional music.]]
 
 The traditional folk music of Cyprus has several common elements with Greek, Turkish, and Arabic Music, all of which have descended from Byzantine music, including Greek Cypriot and Turkish Cypriot dances such as the _sousta_, _syrtos_, _zeibekikos_, _tatsia_, and _karsilamas_ as well as the Middle Eastern-inspired _tsifteteli_ and _arapies_. There is also a form of musical poetry known as _chattista_ which is often performed at traditional feasts and celebrations. The instruments commonly associated with Cyprus folk music are the violin ("fkiolin"), lute ("laouto"), accordion, Cyprus flute (_pithkiavlin_), oud ("outi"), kanonaki and percussions (including the "toumperleki"). Composers associated with traditional Cypriot music include Solon Michaelides, Marios Tokas, Evagoras Karageorgis and Savvas Salides. Among musicians is also the acclaimed pianist Cyprien Katsaris and composer and artistic director of the European Capital of Culture initiative Marios Joannou Elia.
 
@@ -353,11 +339,11 @@ Popular music in Cyprus is generally influenced by the Greek _Laïka_ scene; art
 
 Literature
 
-Paolo_Monti_-_Servizio_fotografico_(Napoli,_1969)_-_BEIC_6353768.jpg, founder of the Stoic school of philosophy.]]
+, founder of the Stoic school of philosophy.]]
 
 Literary production of the antiquity includes the _Cypria_, an epic poem, probably composed in the late 7th century BC and attributed to Stasinus. The _Cypria_ is one of the very first specimens of Greek and European poetry.[248] The Cypriot Zeno of Citium was the founder of the Stoic school of philosophy.
 
-Ioannis_Kigalas_(1622-1687)_Cyprus.jpg (c. 1622–1687) was a Nicosia born Greek Cypriot scholar and professor of Philosophy who was largely active in the 17th century.[249]]]
+(c. 1622–1687) was a Nicosia born Greek Cypriot scholar and professor of Philosophy who was largely active in the 17th century.[249]]]
 
 Epic poetry, notably the "acritic songs", flourished during Middle Ages. Two chronicles, one written by Leontios Machairas and the other by Georgios Voustronios, cover the entire Middle Ages until the end of Frankish rule (4th century–1489). Poèmes d'amour written in medieval Greek Cypriot date back from the 16th century. Some of them are actual translations of poems written by Petrarch, Bembo, Ariosto and G. Sannazzaro.[250] Many Cypriot scholars fled Cyprus at troubled times such as Ioannis Kigalas (c. 1622–1687) who migrated from Cyprus to Italy in the 17th century, several of his works have survived in books of other scholars.[251]
 
@@ -389,8 +375,6 @@ Only a small number of foreign films have been made in Cyprus. This includes _In
 
 Cuisine
 
-Vin_et_gastronomie_chypriotes.jpg
-
 During the medieval period, under the French Lusignan monarchs of Cyprus an elaborate form of courtly cuisine developed, fusing French, Byzantine and Middle Eastern forms. The Lusignan kings were known for importing Syrian cooks to Cyprus, and it has been suggested that one of the key routes for the importation of Middle Eastern recipes into France and other Western European countries, such as blancmange, was via the Lusignan Kingdom of Cyprus. These recipes became known in the West as _Vyands de Chypre,_ or Foods of Cyprus, and the food historian William Woys Weaver has identified over one hundred of them in English, French, Italian and German recipe books of the Middle Ages. One that became particularly popular across Europe in the medieval and early modern periods was a stew made with chicken or fish called _malmonia,_ which in English became mawmeny.[263]
 
 Another example of a Cypriot food ingredient entering the Western European canon is the cauliflower, still popular and used in a variety of ways on the island today, which was associated with Cyprus from the early Middle Ages. Writing in the 12th and 13th centuries the Arab botanists Ibn al-'Awwam and Ibn al-Baitar claimed the vegetable had its origins were Cyprus,[264][265] and this association with the island was echoed in Western Europe, where cauliflowers were originally known as Cyprus cabbage or _Cyprus colewart._ There was also a long and extensive trade in cauliflower seeds from Cyprus, until well into the sixteenth century.[266]
@@ -399,7 +383,7 @@ Although much of the Lusignan food culture was lost after the fall of Cyprus to 
 
 Also familiar to the Lusignans would have been Halloumi cheese, which some food writers today claim originated in Cyprus during the Byzantine period[268][269][270] although the name of the cheese itself is thought by academics to be of Arabic origin.[271] There is no surviving written documentary evidence of the cheese being associated with Cyprus before the year 1554, when the Italian historian Florio Bustron wrote of a sheep-milk cheese from Cyprus he called _calumi._[272] Halloumi (Hellim) is commonly served sliced, grilled, fried and sometimes fresh, as an appetiser or meze dish.
 
-Halloumislice_zoom.jpg]] Cafes_in_a_stoa_small_path_in_Nicosia_Republic_of_Cyprus.JPG]]
+]] ]]
 
 Seafood and fish dishes include squid, octopus, red mullet, and sea bass. Cucumber and tomato are used widely in salads. Common vegetable preparations include potatoes in olive oil and parsley, pickled cauliflower and beets, asparagus and taro. Other traditional delicacies are meat marinated in dried coriander seeds and wine, and eventually dried and smoked, such as _lountza_ (smoked pork loin), charcoal-grilled lamb, souvlaki (pork and chicken cooked over charcoal), and sheftalia (minced meat wrapped in mesentery). _Pourgouri_ (bulgur, cracked wheat) is the traditional source of carbohydrate other than bread, and is used to make the delicacy koubes.
 
@@ -409,7 +393,7 @@ Cyprus is also well known for its desserts, including _lokum_ (also known as Tur
 
 Sports
 
-Spyros_Kyprianou_Athletic_Center_11.JPG in Limassol]] Sport governing bodies include the Cyprus Football Association, Cyprus Basketball Federation, Cyprus Volleyball Federation, Cyprus Automobile Association, Cyprus Badminton Federation,[276] Cyprus Cricket Association, Cyprus Rugby Federation and the Cyprus Pool Association.
+in Limassol]] Sport governing bodies include the Cyprus Football Association, Cyprus Basketball Federation, Cyprus Volleyball Federation, Cyprus Automobile Association, Cyprus Badminton Federation,[276] Cyprus Cricket Association, Cyprus Rugby Federation and the Cyprus Pool Association.
 
 Notable sports teams in the Cyprus leagues include APOEL FC, Anorthosis Famagusta FC, AC Omonia, AEL Lemesos, Apollon FC, Nea Salamis Famagusta FC, AEK Larnaca FC, AEL Limassol B.C., Keravnos B.C. and Apollon Limassol B.C.. Stadiums or sports venues include the GSP Stadium (the largest in the Republic of Cyprus-controlled areas), Tsirion Stadium (second largest), Neo GSZ Stadium, Antonis Papadopoulos Stadium, Ammochostos Stadium and Makario Stadium.
 

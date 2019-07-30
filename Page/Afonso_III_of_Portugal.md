@@ -10,7 +10,7 @@ He lived mostly in France, where he married Matilda, the heiress of Boulogne, in
 
 Reign
 
-Afonso_III.jpg]] Marabotin_à_l'effigie_d'Alphonse_III_dit_le_Boulonnais.jpg In 1246, conflicts between his brother, the king, and the church became unbearable. In 1247, Pope Innocent IV ordered Sancho II to be removed from the throne and to be replaced by the Count of Boulogne. Afonso, of course, did not refuse the papal order and consequently marched to Portugal. Since Sancho was not a popular king the order was not hard to enforce, and he fled in exile to Toledo, Castile, where he died on 4 January 1248. Until his brother's death and his own eventual coronation, Afonso retained and used the title of _Visitador, Curador e Defensor do Reino_ (Overseer, Curator and Defender of the Kingdom).[4]
+]] In 1246, conflicts between his brother, the king, and the church became unbearable. In 1247, Pope Innocent IV ordered Sancho II to be removed from the throne and to be replaced by the Count of Boulogne. Afonso, of course, did not refuse the papal order and consequently marched to Portugal. Since Sancho was not a popular king the order was not hard to enforce, and he fled in exile to Toledo, Castile, where he died on 4 January 1248. Until his brother's death and his own eventual coronation, Afonso retained and used the title of _Visitador, Curador e Defensor do Reino_ (Overseer, Curator and Defender of the Kingdom).[4]
 
 In order to ascend the throne Afonso abdicated his rights to the county of Boulogne in 1248. In 1253, he divorced Matilde in order to marry Beatrice of Castile, illegitimate daughter of Alfonso X, King of Castile, and Mayor Guillén de Guzmán.[5]
 

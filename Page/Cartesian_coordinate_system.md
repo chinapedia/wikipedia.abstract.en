@@ -1,8 +1,6 @@
-Cartesian-coordinate-system.svg A CARTESIAN COORDINATE SYSTEM (, ) is a coordinate system that specifies each point uniquely in a plane by a set of numerical COORDINATES, which are the signed distances to the point from two fixed perpendicular oriented lines, measured in the same unit of length. Each reference line is called a _coordinate axis_ or just _axis_ (plural _axes_) of the system, and the point where they meet is its _origin_, at ordered pair . The coordinates can also be defined as the positions of the perpendicular projections of the point onto the two axes, expressed as signed distances from the origin.
+A CARTESIAN COORDINATE SYSTEM (, ) is a coordinate system that specifies each point uniquely in a plane by a set of numerical COORDINATES, which are the signed distances to the point from two fixed perpendicular oriented lines, measured in the same unit of length. Each reference line is called a _coordinate axis_ or just _axis_ (plural _axes_) of the system, and the point where they meet is its _origin_, at ordered pair . The coordinates can also be defined as the positions of the perpendicular projections of the point onto the two axes, expressed as signed distances from the origin.
 
 One can use the same principle to specify the position of any point in three-dimensional space by three Cartesian coordinates, its signed distances to three mutually perpendicular planes (or, equivalently, by its perpendicular projection onto three mutually perpendicular lines). In general, _n_ Cartesian coordinates (an element of real _n_-space) specify the point in an _n_-dimensional Euclidean space for any dimension _n_. These coordinates are equal, up to sign, to distances from the point to _n_ mutually perpendicular hyperplanes.
-
-Cartesian-coordinate-system-with-circle.svg
 
 The invention of Cartesian coordinates in the 17th century by René Descartes (Latinized name: _Cartesius_) revolutionized mathematics by providing the first systematic link between Euclidean geometry and algebra. Using the Cartesian coordinate system, geometric shapes (such as curves) can be described by CARTESIAN EQUATIONS: algebraic equations involving the coordinates of the points lying on the shape. For example, a circle of radius 2, centered at the origin of the plane, may be described as the set of all points whose coordinates _x_ and _y_ satisfy the equation .
 
@@ -44,8 +42,6 @@ If the coordinates of a point are , then its distances from the _X_-axis and fro
 
 Three dimensions
 
-Coord_system_CA_0.svg
-
 A Cartesian coordinate system for a three-dimensional space consists of an ordered triplet of lines (the _axes_) that go through a common point (the _origin_), and are pair-wise perpendicular; an orientation for each axis; and a single unit of length for all three axes. As in the two-dimensional case, each axis becomes a number line. For any point _P_ of space, one considers a plane through _P_ perpendicular to each coordinate axis, and interprets the point where that plane cuts the axis as a number. The Cartesian coordinates of _P_ are those three numbers, in the chosen order. The reverse construction determines the point _P_ given its three coordinates.
 
 Alternatively, each coordinate of a point _P_ can be taken as the distance from _P_ to the plane defined by the other two axes, with the sign determined by the orientation of the corresponding axis.
@@ -58,7 +54,7 @@ There are no standard names for the coordinates in the three axes (however, the 
 
 In mathematics, physics, and engineering contexts, the first two axes are often defined or depicted as horizontal, with the third axis pointing up. In that case the third coordinate may be called _height_ or _altitude_. The orientation is usually chosen so that the 90 degree angle from the first axis to the second axis looks counter-clockwise when seen from the point ; a convention that is commonly called _the right hand rule_.
 
-Cartesian_coordinate_surfaces.png of the Cartesian coordinates . The _z_-axis is vertical and the _x_-axis is highlighted in green. Thus, the red plane shows the points with , the blue plane shows the points with , and the yellow plane shows the points with . The three surfaces intersect at the point _P_ (shown as a black sphere) with the Cartesian coordinates ).]]
+of the Cartesian coordinates . The _z_-axis is vertical and the _x_-axis is highlighted in green. Thus, the red plane shows the points with , the blue plane shows the points with , and the yellow plane shows the points with . The three surfaces intersect at the point _P_ (shown as a black sphere) with the Cartesian coordinates ).]]
 
 Higher dimensions
 
@@ -87,7 +83,7 @@ For 3D diagrams, the names "abscissa" and "ordinate" are rarely used for _x_ and
 
 Quadrants and octants
 
-Cartesian_coordinates_2D.svg The axes of a two-dimensional Cartesian system divide the plane into four infinite regions, called QUADRANTS,[9] each bounded by two half-axes. These are often numbered from 1st to 4th and denoted by Roman numerals: I (where the signs of the two coordinates are I (+,+), II (−,+), III (−,−), and IV (+,−). When the axes are drawn according to the mathematical custom, the numbering goes counter-clockwise starting from the upper right ("north-east") quadrant.
+The axes of a two-dimensional Cartesian system divide the plane into four infinite regions, called QUADRANTS,[9] each bounded by two half-axes. These are often numbered from 1st to 4th and denoted by Roman numerals: I (where the signs of the two coordinates are I (+,+), II (−,+), III (−,−), and IV (+,−). When the axes are drawn according to the mathematical custom, the numbering goes counter-clockwise starting from the upper right ("north-east") quadrant.
 
 Similarly, a three-dimensional Cartesian system defines a division of space into eight regions or OCTANTS,[10] according to the signs of the coordinates of the points. The convention used for naming a specific octant is to list its signs, e.g. or . The generalization of the quadrant and octant to an arbitrary number of dimensions is the ORTHANT, and a similar naming system applies.
 
@@ -209,7 +205,7 @@ Orientation and handedness
 
 In two dimensions
 
-Rechte-hand-regel.jpg ]] Fixing or choosing the _x_-axis determines the _y_-axis up to direction. Namely, the _y_-axis is necessarily the perpendicular to the _x_-axis through the point marked 0 on the _x_-axis. But there is a choice of which of the two half lines on the perpendicular to designate as positive and which as negative. Each of these two choices determines a different orientation (also called _handedness_) of the Cartesian plane.
+]] Fixing or choosing the _x_-axis determines the _y_-axis up to direction. Namely, the _y_-axis is necessarily the perpendicular to the _x_-axis through the point marked 0 on the _x_-axis. But there is a choice of which of the two half lines on the perpendicular to designate as positive and which as negative. Each of these two choices determines a different orientation (also called _handedness_) of the Cartesian plane.
 
 The usual way of orienting the plane, with the positive _x_-axis pointing right and the positive _y_-axis pointing up (and the _x_-axis being the "first" and the _y_-axis the "second" axis), is considered the _positive_ or _standard_ orientation, also called the _right-handed_ orientation.
 
@@ -223,11 +219,7 @@ Regardless of the rule used to orient the plane, rotating the coordinate system 
 
 In three dimensions
 
-Cartesian_coordinate_system_handedness.svg Right_hand_cartesian.svg
-
 Once the _x_- and _y_-axes are specified, they determine the line along which the _z_-axis should lie, but there are two possible orientation for this line. The two possible coordinate systems which result are called 'right-handed' and 'left-handed'. The standard orientation, where the _xy_-plane is horizontal and the _z_-axis points up (and the _x_- and the _y_-axis form a positively oriented two-dimensional coordinate system in the _xy_-plane if observed from _above_ the _xy_-plane) is called RIGHT-HANDED or POSITIVE.
-
-3D_Cartesian_Coodinate_Handedness.jpg
 
 The name derives from the right-hand rule. If the index finger of the right hand is pointed forward, the middle finger bent inward at a right angle to it, and the thumb placed at a right angle to both, the three fingers indicate the relative orientation of the _x_-, _y_-, and _z_-axes in a _right-handed_ system. The thumb indicates the _x_-axis, the index finger the _y_-axis and the middle finger the _z_-axis. Conversely, if the same is done with the left hand, a left-handed system results.
 

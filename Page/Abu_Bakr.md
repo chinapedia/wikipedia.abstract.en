@@ -11,8 +11,6 @@ In 634 CE, Abu Bakr fell ill from a sickness and died shortly thereafter. He was
 
 Lineage and title
 
-Abubakr'sreign.png
-
 Abu Bakr's full name was Abdullah ibn Uthman ibn Aamir ibn Amr ibn Ka'ab ibn Sa'ad ibn Taym ibn Murrah ibn Ka'ab ibn Lu'ai ibn Ghalib ibn Fihr al-Quraishi.[20]
 
 In Arabic, the name _Abd Allah_ means "servant of Allah". One of his early titles, preceding his conversion to Islam, was _Ateeq_, meaning "saved one". Muhammad later restated this title when he said that Abu Bakr is the "Ateeq".[21] He was called _Al-Siddiq_ (the truthful)[22] by Muhammad after he believed him in the event of Isra and Mi'raj when other people didn't, and Ali confirmed that title several times.[23]
@@ -102,7 +100,7 @@ In 620, Muhammad's uncle and protector, Abu Talib ibn Abd al-Muttalib, and Muham
 
 Migration to Medina
 
-The_outline_of_history_-_being_a_plain_history_of_life_and_mankind_(1920)_(14580517757).jpg and Abu Bakr flee Mecca, as depicted in _The Outline of History_ ]]
+and Abu Bakr flee Mecca, as depicted in _The Outline of History_ ]]
 
 In 622, on the invitation of the Muslims of Medina, Muhammad ordered Muslims to migrate to Medina. The migration began in batches. Ali was the last to remain in Mecca, entrusted with responsibility for settling any loans the Muslims had taken out, and famously slept in the bed of Muhammad when the Quraysh, led by Ikrima, attempted to murder Muhammad as he slept. Meanwhile, Abu Bakr accompanied Muhammad to Medina. Due to the danger posed by the Quraysh, they did not take the road, but moved in the opposite direction, taking refuge in a cave in Jabal Thawr, some five miles south of Mecca. `Abdullah ibn Abi Bakr, the son of Abu Bakr, would listen to the plans and discussions of the Quraysh, and at night he would carry the news to the fugitives in the cave. Asma bint Abi Bakr, the daughter of Abu Bakr, brought them meals every day.[45] Aamir, a servant of Abu Bakr, would bring a flock of goats to the mouth of the cave every night, where they were milked. The Quraysh sent search parties in all directions. One party came close to the entrance to the cave, but was unable to see them. Due to this, Qur'an verse was revealed. Aisha, Abu Sa‘id al-Khudri and Abdullah ibn Abbas in interpreting this verse said that Abu Bakr was the companion who stayed with Muhammad in the cave.
 
@@ -183,7 +181,7 @@ In response to these worries, the Prophet said: "O Arabs! You are miserable beca
 
 Saqifa
 
-Caliph_Abu_Bakr's_empire_at_its_peak_634-mohammad_adil_rais.PNG During Muhammad's lifetime, the Muslims in Medina were divided into two groups: the Ansar, who were originally from Medina, and the Muhajirun, who had converted to Islam in Mecca and migrated to Medina with Muhammad. During Muhammad's rule in Medina, they were satisfied, and they were glad when Muhammad announced that Ali would be his successor at the event of Ghadir Khumm,[87] as they knew that Ali would continue Muhammad's fair policies towards them.
+During Muhammad's lifetime, the Muslims in Medina were divided into two groups: the Ansar, who were originally from Medina, and the Muhajirun, who had converted to Islam in Mecca and migrated to Medina with Muhammad. During Muhammad's rule in Medina, they were satisfied, and they were glad when Muhammad announced that Ali would be his successor at the event of Ghadir Khumm,[87] as they knew that Ali would continue Muhammad's fair policies towards them.
 
 However, when some of the Muhajirun refused to obey Muhammad's orders to follow Usama bin Zayd to Syria or to give him pen and paper to make a will, the Ansar knew that some of the Muhajirun were trying to take power upon Muhammad's death.[88] They were worried that the rule of a Muhajirun (a foreigner, in their eyes), other than Muhammad or Ali, ruling over them would lead to their eventual oppression. Thus, when they saw some of the Muhajirun planning to take power upon Muhammad's death, they thought they would be just as good candidates for power as the Muhajirun. Thus, when Muhammad died, some of the Ansar went to a place known as Saqifa, where they nominated Sa'd ibn Ubadah to be the leader.
 

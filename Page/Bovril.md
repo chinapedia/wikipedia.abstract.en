@@ -10,7 +10,7 @@ The first part of the product's name comes from Latin _bovīnus_, meaning "ox".[
 
 History
 
-Bovril_poster_c1900.jpg no. E.163-1973]] The_Pope_and_Bovril.jpg: The Pope & Bovril"; poster for Bovril, circa 1900]] In 1870, in the Franco-Prussian War, Napoleon III ordered one million cans of beef to feed his troops. The task of providing all this beef went to John Lawson Johnston, a Scotsman living in Canada. Large quantities of beef were available across the British Dominions and South America, but its transport and storage were problematic. Therefore, Johnston created a product known as 'Johnston's Fluid Beef', later called Bovril, to meet the needs of Napoleon III.[5] By 1888, over 3,000 UK public houses, grocers and dispensing chemists were selling Bovril. In 1889, Bovril Ltd was formed to develop Johnston's business further.[6]
+no. E.163-1973]] : The Pope & Bovril"; poster for Bovril, circa 1900]] In 1870, in the Franco-Prussian War, Napoleon III ordered one million cans of beef to feed his troops. The task of providing all this beef went to John Lawson Johnston, a Scotsman living in Canada. Large quantities of beef were available across the British Dominions and South America, but its transport and storage were problematic. Therefore, Johnston created a product known as 'Johnston's Fluid Beef', later called Bovril, to meet the needs of Napoleon III.[5] By 1888, over 3,000 UK public houses, grocers and dispensing chemists were selling Bovril. In 1889, Bovril Ltd was formed to develop Johnston's business further.[6]
 
 Bovril continued to function as a "war food" in World War I and was frequently mentioned in the 1930 account _Not So Quiet... Stepdaughters of War_ by Helen Zenna Smith. One account from the book describes it being prepared for the casualties at Mons where "the orderlies were just beginning to make Bovril for the wounded, when the bearers and ambulance wagons were shelled as they were bringing the wounded into the hospital".[7]
 
@@ -37,7 +37,7 @@ In 2004, Unilever removed beef ingredients from the Bovril formula, rendering it
 
 Cultural significance
 
-Clarence_Pier,_Southsea,_ca._1914.png, c. 1914]] Bovril_1897_token_with_'VR'.JPG Since its invention, Bovril has become an icon of British culture. It is commonly associated with football culture, since during the winter British football fans in stadium terraces often drink it from Thermos flasks or disposable cups in Scotland, where thermoses are banned from football stadiums.[17][18]
+, c. 1914]] Since its invention, Bovril has become an icon of British culture. It is commonly associated with football culture, since during the winter British football fans in stadium terraces often drink it from Thermos flasks or disposable cups in Scotland, where thermoses are banned from football stadiums.[17][18]
 
 In the film _In Which We Serve_, the officers on the bridge are served "Bovril rather heavily laced with sherry" to warm them up, after being rescued during the Dunkirk evacuation of the British Expeditionary Force.
 

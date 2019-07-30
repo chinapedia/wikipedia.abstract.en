@@ -15,7 +15,7 @@ Taxation disputes
 
 Parliament passed the Stamp Act in 1765 to pay for British military troops stationed in the American colonies after the French and Indian War. Parliament had previously passed legislation to regulate trade, but the Stamp Act introduced a new principle of a direct internal tax. Americans began to question the extent of the British Parliament's power in America, and the colonial legislatures argued that they had exclusive right to impose taxes within their jurisdictions.[5] Colonists condemned the tax because their rights as Englishmen protected them from being taxed by a Parliament in which they had no elected representatives.[6] Parliament argued that the colonies were "represented virtually", an idea that was criticized throughout the Empire.[7] Parliament did repeal the act in 1766, but it also affirmed its right to pass laws that were binding on the colonies.[8] From 1767, Parliament began passing legislation to raise revenue for the salaries of civil officials, ensuring their loyalty while inadvertently increasing resentment among the colonists, and opposition soon became widespread.[9][10]
 
-Boston_Tea_Party_Currier_colored.jpg was entitled "The Destruction of Tea at Boston Harbor"; the phrase "Boston Tea Party" had not yet become standard. Contrary to Currier's depiction, few of the men dumping the tea were actually disguised as Indians.[11]]]
+was entitled "The Destruction of Tea at Boston Harbor"; the phrase "Boston Tea Party" had not yet become standard. Contrary to Currier's depiction, few of the men dumping the tea were actually disguised as Indians.[11]]]
 
 Enforcing the acts proved difficult. The seizure of the sloop _Liberty_ in 1768 on suspicions of smuggling triggered a riot. In response, British troops occupied Boston, and Parliament threatened to extradite colonists to face trial in England.[12] Tensions rose after the murder of Christopher Seider by a customs official in 1770 and escalated into outrage after British troops fired on civilians in the Boston Massacre.[13] In 1772, colonists in Rhode Island boarded and burned a customs schooner. Parliament then repealed all taxes except the one on tea, passing the Tea Act in 1773, attempting to force colonists to buy East India Company tea on which the Townshend duties were paid, thus implicitly agreeing to Parliamentary supremacy. The landing of the tea was resisted in all colonies, but the governor of Massachusetts permitted British tea ships to remain in Boston Harbor, so the Sons of Liberty destroyed the tea chests in what became known as the "Boston Tea Party".[14]
 
@@ -32,17 +32,13 @@ Course of the war
 
 War breaks out (1775–1776)
 
-USMA01_Major_Campaigns_of_the_American_Revolutionary_War.jpg
-
 On April 18, 1775, 700 British troops were sent to confiscate militia ordnance stored at Concord.[31][32] Fighting broke out, forcing the troops to conduct a fighting withdrawal to Boston. Overnight, the local militia converged on and laid siege to Boston.[33] On May 25, 4,500 British reinforcements arrived with generals William Howe, John Burgoyne, and Henry Clinton.[34] The British seized the Charlestown peninsula on June 17 after a costly frontal assault,[35][36] leading Howe to replace Gage.[37] Many senior officers were dismayed at the attack, which had gained them little,[38] while Gage wrote to London stressing the need for a large army to suppress the revolt.[39] On July 3, George Washington took command of the Continental Army besieging Boston. Howe made no effort to attack, much to Washington's surprise.[40] A plan was rejected to assault the city,[41] and the Americans instead fortified Dorchester Heights in early March 1776 with heavy artillery captured from a raid on Fort Ticonderoga.[42] The British were permitted to withdraw unmolested on March 17, and they sailed to Halifax, Nova Scotia. Washington then moved his army to New York.[43]
 
 Starting in August 1775, American Privateers began to raid villages in Nova Scotia, first at Saint John, then Charlottetown and Yarmouth. They continued in 1776 at Canso and then a land assault on Fort Cumberland.
 
-British_Army_in_Concord_Detail.jpg
-
 Meanwhile, British officials in Quebec began lobbying Indian tribes to support them,[44] while the Americans urged them to maintain their neutrality.[45][46] In April 1775, Congress feared an Anglo-Indian attack from Canada and authorized an invasion of Quebec. Quebec had a largely Francophone population and had been under British rule for only 12 years, and the Americans expected that they would welcome being liberated from the British.[47][48][49] The Americans attacked Quebec City on December 31 after an arduous march[50] but were defeated.[51][52] After a loose siege, the Americans withdrew on May 6. 1776.[53][54] A failed counter-attack on June 8 ended American operations in Quebec.[55] However, the British could not conduct an aggressive pursuit because of American ships on Lake Champlain. On October 11, the British defeated the American squadron, forcing them to withdraw to Ticonderoga and ending the campaign. The invasion cost the Patriots their support in British public opinion,[56] while aggressive anti-Loyalist policies diluted Canadian support.[57] The Patriots continued to view Quebec as a strategic aim, though no further attempts to invade were ever made.[58]
 
-Canadian_militiamen_and_British_soldiers_repulse_the_American_assault_at_Sault-au-Matelot.jpg, Canada, December 1775]]
+, Canada, December 1775]]
 
 In Virginia, Royal governor Lord Dunmore had attempted to disarm the militia as tensions increased, although no fighting broke out.[59] He issued a proclamation on November 7, 1775 promising freedom for slaves who fled their Patriot masters to fight for the Crown.[60][61] Dunmore's troops were overwhelmed by Patriots at Great Bridge, and Dunmore fled to naval ships anchored off Norfolk. Subsequent negotiations broke down, so Dunmore ordered the ships to destroy the town.[62]
 
@@ -62,19 +58,17 @@ Patriots followed independence with the Test Laws, requiring residents to swear 
 
 British counter-offensive (1776–1777)
 
-BattleofLongisland.jpg, 1776]]
+, 1776]]
 
 After regrouping at Halifax, William Howe determined to take the fight to the Americans.[101] He set sail in June 1776 and began landing troops on Staten Island near the entrance to New York Harbor on July 2. Due to poor military intelligence, Washington split his army to positions on Manhattan Island and across the East River in western Long Island,[102] and an informal attempt to negotiate peace was rejected by the Americans.[103] On August 27, Howe outflanked Washington and forced him back to Brooklyn Heights. Howe restrained his subordinates from pursuit, opting to besiege Washington instead.[104]
 
 Washington withdrew to Manhattan without any losses in men or ordnance.[105] Following the withdrawal, the Staten Island Peace Conference failed to negotiate peace, as the British delegates did not possess the authority to recognize independence.[106][107] Howe then seized control of New York City on September 15, and unsuccessfully engaged the Americans the following day.[108] He attempted to encircle Washington, but the Americans successfully withdrew. On October 28, the British fought an indecisive action against Washington, in which Howe declined to attack Washington's army, instead concentrating his efforts upon a hill that was of no strategic value.[109][110]
 
-Forcing_a_Passage_of_the_Hudson.jpg
-
 Washington's retreat left his forces isolated, and the British captured an American fortification on November 16, taking 3,000 prisoners and amounting to what one historian terms "the most disastrous defeat of the entire war".[111] Washington's army fell back four days later.[112] Henry Clinton then captured Newport, Rhode Island, an operation which he opposed, feeling that the 6,000 troops assigned to him could have been better employed in the pursuit of Washington.[113][114][115] The American prisoners were then sent to the infamous prison ships in which more American soldiers and sailors died of disease and neglect than died in every battle of the war combined.[116] Charles Cornwallis pursued Washington, but Howe ordered him to halt, and Washington marched away unmolested.[117][118]
 
 The outlook of the American cause was bleak; the army had dwindled to fewer than 5,000 men and would be reduced further when the enlistments expired at the end of the year.[119] Popular support wavered, morale ebbed away, and Congress abandoned Philadelphia.[120] Loyalist activity surged in the wake of the American defeat, especially in New York.[121]
 
-Washington_Crossing_the_Delaware_by_Emanuel_Leutze,_MMA-NYC,_1851.jpg's famous 1851 depiction of _Washington Crossing the Delaware_]]
+'s famous 1851 depiction of _Washington Crossing the Delaware_]]
 
 News of the campaign was well received in Britain. Festivities took place in London, public support reached a peak,[122][123] and the King awarded the Order of the Bath to William Howe. The successes led to predictions that the British could win within a year.[124] The American defeat revealed what one writer views as Washington's strategic deficiencies, such as dividing a numerically weaker army in the face of a stronger one, his inexperienced staff misreading the situation, and his troops fleeing in disorder when fighting began.[125] In the meantime, the British entered winter quarters and were in a good place to resume campaigning.[126]
 
@@ -84,13 +78,13 @@ British northern strategy fails (1777–1778)
 
 In December 1776, John Burgoyne returned to London to set strategy with Lord George Germain. Burgoyne's plan was to establish control of the Champlain-George-Hudson route from New York to Quebec, isolating New England. Efforts could then be concentrated on the southern colonies, where it was believed Loyalist support was in abundance.[138]
 
-Surrender_of_General_Burgoyne.jpg" shows General Daniel Morgan in front of a French de Vallière 4-pounder.]]
+" shows General Daniel Morgan in front of a French de Vallière 4-pounder.]]
 
 Burgoyne's plan was to lead an army along Lake Champlain, while a strategic diversion advanced along the Mohawk River, and both would rendezvous at Albany.[139] Burgoyne set out on June 14, 1777, quickly capturing Ticonderoga on July 5. Leaving 1,300 men behind as a garrison, Burgoyne continued the advance. Progress was slow; the Americans blocked roads, destroyed bridges, dammed streams and denuded the area of food.[140] Meanwhile, Barry St. Ledger's diversionary column laid siege to Fort Stanwix. St. Ledger withdrew to Quebec on August 22 after his Indian support abandoned him. On August 16, a Hessian foraging expedition was soundly defeated at Bennington, and more than 700 troops were captured.[141] Meanwhile, the vast majority of Burgoyne's Indian support abandoned him and Howe informed Burgoyne he would launch his campaign on Philadelphia as planned, and would be unable to render aid.[142]
 
 Burgoyne decided to continue the advance. On September 19, he attempted to flank the American position, and clashed at Freeman's Farm. The British won, but at the cost of 600 casualties. Burgoyne then dug in, but suffered a constant haemorrhage of deserters, and critical supplies were running low.[143] On October 7, a British reconnaissance in force against the American lines was repulsed with heavy losses. Burgoyne then withdrew with the Americans in pursuit, and by October 13, he was surrounded. With no hope of relief and supplies exhausted, Burgoyne surrendered on October 17, and 6,222 soldiers became prisoners of the Americans.[144] The decisive success spurred France to enter the war as an ally of the United States, securing the final elements needed for victory over Britain, that of foreign assistance.[145][146]
 
-Washington_and_Lafayette_at_Valley_Forge.jpg and Lafayette inspect the troops at Valley Forge.]]
+and Lafayette inspect the troops at Valley Forge.]]
 
 Meanwhile, Howe launched his campaign against Washington, though his initial efforts to bring him to battle in June 1777 failed.[147] Howe declined to attack Philadelphia overland via New Jersey, or by sea via the Delaware Bay, even though both options would have enabled him to assist Burgoyne if necessary. Instead, he took his army on a time-consuming route through the Chesapeake Bay, leaving him completely unable to assist Burgoyne. This decision was so difficult to understand, Howe's critics accused him of treason.[148]
 
@@ -102,7 +96,7 @@ Foreign intervention
 
 The defeat at Saratoga caused considerable anxiety in Britain over foreign intervention. The North ministry sought reconciliation with the colonies by consenting to their original demands,[164] although Lord North refused to grant independence.[165] No positive reply was received from the Americans.[166]
 
-Redoubt-9.jpg]]
+]]
 
 French foreign minister the Comte de Vergennes was strongly anti-British,[167] and he sought a pretext for going to war with Britain following the conquest of Canada in 1763.[168] The French had covertly supplied the Americans through neutral Dutch ports since the onset of the war,[169] proving invaluable throughout the Saratoga campaign.[170][171][172] The French public favored war, though Vergennes and King Louis XVI were hesitant, owing to the military and financial risk.[173] The American victory at Saratoga convinced the French that supporting the Patriots was worthwhile,[174] but doing so also brought major concerns. The King was concerned that Britain's concessions would be accepted, and that Britain would then reconcile with the Colonies to strike at French and Spanish possessions in the Caribbean.[175][176] To prevent this, France formally recognized the United States on February 6, 1778 and followed with a military alliance. France aimed to expel Britain from the Newfoundland fishery, end restrictions on Dunkirk sovereignty, regain free trade in India, recover Senegal and Dominica, and restore the Treaty of Utrecht provisions pertaining to Anglo-French trade.[177][178]
 
@@ -116,7 +110,7 @@ International war breaks out (1778–1780)
 
 Europe
 
-Holman,_Cape_St_Vincent.jpg, 16 January 1780 by Francis Holman, painted 1780]]
+, 16 January 1780 by Francis Holman, painted 1780]]
 
 Soon after France declared war, French and British fleets fought an indecisive action off Ushant on 27 July 1778.[202] Spain entered the war on 12 April 1779, with a primary goal of capturing Gibraltar,[203] Spanish troops under the Duc de Crillon laid siege to the Rock on 24 June.[204] The naval blockade, however, was relatively weak, and the British were able to resupply the garrison.[205] Meanwhile, a plan was formulated for a combined Franco-Spanish invasion of the British mainland, but the expedition failed due to a combination of poor planning, disease, logistical issues, and high financial expenditures.[206][207] However, a diversionary Franco-American squadron did meet with some success on 23 September under John Paul Jones.[208] On 16 January 1780, the Royal Navy under George Rodney scored a major victory over the Spanish, weakening the naval blockade of Gibraltar.[209]
 
@@ -132,7 +126,7 @@ In Central America, the defense of Guatemala was a priority for Spain. The Briti
 
 India
 
-Rocket_warfare.jpg against closely massed British infantry]]
+against closely massed British infantry]]
 
 The British East India Company moved quickly to capture French possessions in India when they learned about the hostilities with France, and they took Pondicherry on 19 October 1778 after a two-week siege.[241] The Company resolved to drive the French completely out of India,[242] and they captured the Malabar port of Mahé in 1779[243] where French ordnance passed through.
 
@@ -142,11 +136,11 @@ Ali then renewed the siege at Arcot instead of pressing on for a decisive victor
 
 Stalemate in the North (1778–1780)
 
-Battle_of_Springfield_NJ_1780.jpg repulse Wilhelm von Knyphausen's attack at Springfield]]
+repulse Wilhelm von Knyphausen's attack at Springfield]]
 
 Henry Clinton withdrew from Philadelphia, consolidating his forces in New York following the British defeat at Saratoga and the entry of France into the war.[249] French admiral the Comte d'Estaing had been dispatched to North America in April 1778 to assist Washington, and he arrived shortly after Clinton withdrew into New York.[250] The Franco-American forces felt that New York's defenses were too formidable for the French fleet,[251] and they opted to attack Newport.[252] This effort was launched on August 29, but it failed when the French opted to withdraw, and this displeased the Americans.[253] The war then ground down to a stalemate, with the majority of actions fought as large skirmishes, such as those at Chestnut Neck and Little Egg Harbor. In the summer of 1779, the Americans captured British posts at Stony Point and Paulus Hook.[254][255]
 
-In July, Clinton unsuccessfully attempted to coax Washington into a decisive engagement by making a major raid into Connecticut.[256] That month, a large American naval operation attempted to retake Maine, but it resulted in the worst American naval defeat until Pearl Harbor in 1941.[257] The high frequency of Iroquois raids on the locals compelled Washington to mount a punitive expedition which destroyed a large number of Iroquois settlements, but the effort ultimately failed to stop the raids.[258][259] During the winter of 1779–80, the Continental Army suffered greater hardships than at Valley Forge.[260] Morale was poor; public support was being eroded by the long war; the national currency was virtually worthless; the army was plagued with supply problems; desertion was common; and whole regiments mutinied over the conditions in early 1780.[261] Vincennes_1779.jpg
+In July, Clinton unsuccessfully attempted to coax Washington into a decisive engagement by making a major raid into Connecticut.[256] That month, a large American naval operation attempted to retake Maine, but it resulted in the worst American naval defeat until Pearl Harbor in 1941.[257] The high frequency of Iroquois raids on the locals compelled Washington to mount a punitive expedition which destroyed a large number of Iroquois settlements, but the effort ultimately failed to stop the raids.[258][259] During the winter of 1779–80, the Continental Army suffered greater hardships than at Valley Forge.[260] Morale was poor; public support was being eroded by the long war; the national currency was virtually worthless; the army was plagued with supply problems; desertion was common; and whole regiments mutinied over the conditions in early 1780.[261]
 
 In 1780, Clinton launched an attempt to retake New Jersey. On June 7, 6,000 men invaded under Hessian general Wilhelm von Knyphausen, but they met stiff resistance from the local militia. The British held the field, but Knyphausen feared a general engagement with Washington's main army and withdrew.[262] Knyphausen and Clinton decided upon a second attempt two weeks later which was soundly defeated at Springfield, effectively ending British ambitions in New Jersey.[263] Meanwhile, American general Benedict Arnold had defected to the British, and he conspired to betray the key American fortress of West Point by surrendering it to the enemy.[264] The plot was foiled when British spy master John André was captured, so Arnold fled to British lines in New York. He attempted to justify his betrayal by appealing to Loyalist public opinion, but the Patriots strongly condemned him as a coward and turncoat.[265]
 
@@ -156,11 +150,11 @@ On May 25, 1780, the British launched an expedition into Kentucky as part of a w
 
 War in the South (1778–1781)
 
-Sullivans-island-1050x777.jpg]]
+]]
 
 The British turned their attention to conquering the South in 1778, after Loyalists in London assured them of a strong Loyalist base there. A southern campaign also had the advantage of keeping the Royal Navy closer to the Caribbean, where it would be needed to defend lucrative colonies against the Franco-Spanish fleets.[273] On December 29, 1778, an expeditionary corps from New York captured Savannah, and British troops then moved inland to recruit Loyalist support.[274] There was a promising initial turnout in early 1779, but then a large Loyalist militia was defeated at Kettle Creek on February 14 and they had to recognize their dependence upon the British. The British, however, defeated Patriot militia at Brier Creek on March 3,[275] and then launched an abortive assault on Charleston, South Carolina. The operation became notorious for its high degree of looting by British troops, enraging both Loyalists and Patriots.[276]
 
-In October, a combined Franco-American effort failed to recapture Savannah. In May 1780, Henry Clinton captured Charleston, taking over 5,000 prisoners and effectively destroying the Continental Army in the south. Organized American resistance in the region collapsed when Banastre Tarleton defeated the withdrawing Americans at Waxhaws on May 29.[277] Cowpens.jpg
+In October, a combined Franco-American effort failed to recapture Savannah. In May 1780, Henry Clinton captured Charleston, taking over 5,000 prisoners and effectively destroying the Continental Army in the south. Organized American resistance in the region collapsed when Banastre Tarleton defeated the withdrawing Americans at Waxhaws on May 29.[277]
 
 Clinton returned to New York, leaving Charles Cornwallis in command in Charleston to oversee the southern war effort. Far fewer Loyalists joined him than expected. In the interim, the war was carried on by Patriot militias who effectively suppressed Loyalists by winning victories in Fairfield County, Lincolnton, Huck's Defeat, Stanly County, and Lancaster County.
 
@@ -176,13 +170,13 @@ Greene then proceeded to reclaim the South. The American troops suffered a rever
 
 British defeat in America (1781)
 
-BattleOfVirginiaCapes.jpg]]
+]]
 
 Cornwallis had discovered that the majority of American supplies in the Carolinas were passing through Virginia, and he had written to both Lord Germain and Clinton detailing his intentions to invade. Cornwallis believed that a successful campaign there would cut supplies to Greene's army and precipitate a collapse of American resistance in the South. Clinton strongly opposed the plan, favoring a campaign farther north in the Chesapeake Bay region.[296] Lord Germain wrote to Cornwallis to approve his plan and neglected to include Clinton in the decision-making, even though Clinton was Cornwallis' superior officer,[297] and Cornwallis then decided to move into Virginia without informing Clinton.[298] Clinton, however, had failed to construct a coherent strategy for British operations in 1781,[299] owing to his difficult relationship with his naval counterpart Marriot Arbuthnot.[300]
 
 Following the calamitous operations at Newport and Savannah, French planners realized that closer cooperation with the Americans was required to achieve success.[301] The French fleet led by the Comte de Grasse had received discretionary orders from Paris to assist joint efforts in the north if naval support was needed.[302][303] Washington and the Comte de Rochambeau discussed their options. Washington pushed for an attack on New York, while Rochambeau preferred a strike in Virginia where the British were less well-established and thus easier to defeat.[304] Franco-American movements around New York caused Clinton a great deal of anxiety, fearing an attack on the city. His instructions were vague to Cornwallis during this time, rarely forming explicit orders. However, Clinton did instruct Cornwallis to establish a fortified naval base and to transfer troops to the north to defend New York.[305] Cornwallis dug in at Yorktown and awaited the Royal Navy.[306]
 
-Surrender_of_Lord_Cornwallis.jpg, 1797]] Couder_Yorktown_Versailles.JPG at Yorktown, 1781]]
+, 1797]] at Yorktown, 1781]]
 
 Washington still favored an assault on New York, but he acquiesced to the French when they opted to send their fleet to their preferred target of Yorktown. In August, the combined Franco-American army moved south to coordinate with de Grasse in defeating Cornwallis.[307] The British lacked sufficient naval resources to effectively counter the French, but they dispatched a fleet under Thomas Graves to assist Cornwallis and attempt to gain naval dominance.[308] On September 5, the French fleet decisively defeated Graves, giving the French control of the seas around Yorktown and cutting off Cornwallis from reinforcements and relief.[309] Despite the continued urging of his subordinates,[310] Cornwallis made no attempt to break out and engage the Franco-American army before it had established siege works, expecting that reinforcements would arrive from New York, and the Franco-American army laid siege to Yorktown on September 28.[311] Cornwallis continued to think that relief was imminent from Clinton, and he abandoned his outer defenses which were immediately occupied by American troops—serving to hasten his subsequent defeat.[312] The British then failed in an attempt to break out of the siege across the river at Gloucester Point when a storm hit.[313] Cornwallis and his subordinates were under increasing bombardment and facing dwindling supplies; they agreed that their situation was untenable and negotiated a surrender on October 17, 1781,[314] and 7,685 soldiers became prisoners of the Americans.[315] The same day as the surrender, 6,000 troops under Clinton had departed New York, sailing to relieve Yorktown.[316][317]
 
@@ -194,7 +188,7 @@ Lord Germain was dismissed and a vote of no confidence was passed against North.
 
 Final years of the war (1781–1783)
 
-The_Siege_and_Relief_of_Gibraltar_(2).jpg'', September 13, 1782, by John Singleton Copley]]
+'', September 13, 1782, by John Singleton Copley]]
 
 Europe
 
@@ -204,11 +198,11 @@ On 6 January 1781, a French attempt to capture Jersey to neutralize British priv
 
 Americas
 
-Cuadro_por_españa_y_por_el_rey,_Galvez_en_America.jpg in combat at Pensacola. Oil on canvas, Augusto Ferrer-Dalmau, 2015.]]
+in combat at Pensacola. Oil on canvas, Augusto Ferrer-Dalmau, 2015.]]
 
 Sint Eustatius, a key supply port for the Patriots, was sacked by British forces under George Rodney on 3 February 1781, who plundered the island's wealth.[335] Few operations were conducted against the Dutch, although several Dutch colonies were captured by the British in 1781.[336]
 
-The_battle_of_the_Saints_12_avril_1782.jpg, 12 April 1782 – Admiral George Rodney defeats the Comte De Grasse in the West Indies. Oil on canvas by Thomas Whitcombe]]
+, 12 April 1782 – Admiral George Rodney defeats the Comte De Grasse in the West Indies. Oil on canvas by Thomas Whitcombe]]
 
 After the fall of Mobile to Spanish troops under Bernardo de Gálvez, an attempt to capture Pensacola was thwarted due to a hurricane. Emboldened by the disaster, John Campbell, British commander at Pensacola, decided to recapture Mobile.[337] Campbell's expeditionary force of around 700 men was defeated on 7 January 1781.[338] After re-grouping at Havana, Gálvez set out for Pensacola on 13 February.[339] Arriving on 9 March, siege operations did not begin until 24 March, owing to difficulties in bringing the ships into the bay.[340] After a 45-day siege, Gálvez decisively defeated the garrison, securing the conquest of West Florida.[341] In May, Spanish troops captured the Bahamas,[342] although the British bloodlessly recaptured the islands the following year on 18 April.[343]
 
@@ -220,7 +214,7 @@ In Guatemala, Matías de Gálvez led Spanish troops in an effort to dislocate Br
 
 India
 
-Combat_naval_en_rade_de_Gondelour,_20_juin_1783.jpg _Cléopâtre_ on the far left, exchange fire at Cuddalore, by Auguste Jugelet, 1836.]]
+_Cléopâtre_ on the far left, exchange fire at Cuddalore, by Auguste Jugelet, 1836.]]
 
 Following Dutch entry into the conflict, East India Company troops under Hector Munro captured the Dutch port of Negapatam after a three-week siege on 11 October 1781.[364] Soon after, British Admiral Edward Hughes captured Trincomalee after a brief engagement on 11 January 1782.[365]
 
@@ -233,11 +227,11 @@ Sultan advanced along the west coast, laying siege to Mangalore on 20 May 1783.[
 
 Peace of Paris
 
-Treaty_of_Paris_by_Benjamin_West_1783.jpg's painting of the American delegations at the Treaty of Paris. The British delegation refused to pose, and the painting was never completed.]]
+'s painting of the American delegations at the Treaty of Paris. The British delegation refused to pose, and the painting was never completed.]]
 
 Following the surrender at Yorktown, the Whig party came to power in Britain and began opening negotiations for a cessation of hostilities. While peace negotiations were being undertaken, British troops in America were restricted from launching further offensives.[388] Prime Minister the Earl of Shelburne was reluctant to accept American independence as a prerequisite for peace, as the British were aware that the French economy was nearly bankrupt, and reinforcements sent to the West Indies could potentially reverse the situation there. He preferred that the colonies accept Dominion status within the Empire, though a similar offer had been rejected by the Americans in 1778.[389] Negotiations soon began in Paris.
 
-Evacuation_Day_and_Washington's_Triumphal_Entry.jpg.]]
+.]]
 
 The Americans initially demanded that Quebec be ceded to them as spoils of war, a proposal that was dropped when Shelburne accepted American demands for recognition of independence. On April 19, 1782, the Dutch formally recognized the United States as a sovereign power, enhancing American leverage at the negotiations. Spain initially impeded the negotiations, refusing to enter into peace talks until Gibraltar had been captured. The Comte de Vergennes proposed that American territory be confined to the east of the Appalachians; Britain would have sovereignty over the area north of the Ohio River, below which an Indian barrier state would be established under Spanish control. The United States fiercely opposed the proposal.[390]
 
@@ -291,7 +285,7 @@ Analysis of combatants
 
 Great Britain
 
-Battle_of_bunker_hill_by_percy_moran.jpg at the Battle of Bunker Hill in 1775]]
+at the Battle of Bunker Hill in 1775]]
 
 The population of Great Britain and Ireland in 1780 was approximately 12.6 million,[444] while the Thirteen Colonies held a population of some 2.8 million, including some 500,000 slaves.[445] Theoretically, Britain had the advantage, however, many factors inhibited the procurement of a large army.
 
@@ -300,8 +294,6 @@ Armed forces
 Recruitment
 
 In 1775, the standing British Army, exclusive of militia, comprised 45,123 men worldwide, made up of 38,254 infantry and 6,869 cavalry. The Army had approximately eighteen regiments of foot, some 8,500 men, stationed in North America.[446] Standing armies had played a key role in the purge of the Long Parliament in 1648,[447] the maintenance of a military dictatorship under Oliver Cromwell,[448] and the overthrow of James II,[449] and, as such, the Army had been deliberately kept small in peacetime to prevent abuses of power by the King.[450][451] Despite this, eighteenth century armies were not easy guests, and were regarded with scorn and contempt by the press and public of the New and Old World alike, derided as enemies of liberty. An expression ran in the Navy; "A messmate before a shipmate, a shipmate before a stranger, a stranger before a dog, a dog before a soldier".[452]
-
-Caricature-1780-press_gang.jpg
 
 Parliament suffered chronic difficulties in obtaining sufficient manpower,[453] and found it impossible to fill the quotas they had set.[454] The Army was a deeply unpopular profession, one contentious issue being pay. A Private infantryman was paid a wage of just 8d. per day,[455] the same pay as for a New Model Army infantryman, 130 years earlier.[456] The rate of pay in the army was insufficient to meet the rising costs of living, turning off potential recruits,[457] as service was nominally for life.[458]
 
@@ -313,7 +305,7 @@ By 1781, the Army numbered approximately 121,000 men globally,[469] 48,000 of wh
 
 Loyalists and Hessians
 
-Hessian_jager.jpg soldiers of the Leibregiment]]
+soldiers of the Leibregiment]]
 
 In 1775, Britain unsuccessfully attempted to secure 20,000 mercenaries from Russia,[476] and the use of the Scots Brigade from the Dutch Republic,[477] such was the shortage of manpower. Parliament managed to negotiate treaties with the princes of German states for large sums of money, in exchange for mercenary troops.[478] In total, 29,875 troops were hired for British service from six German states; Brunswick (5,723), Hesse-Kassel (16,992), Hesse-Hannau (2,422), Ansbach-Bayreuth (2,353), Waldeck-Pyrmont (1,225) and Anhalt-Zerbst (1,160).[479] King George III, who also ruled Hanover as a Prince-elector of the Holy Roman Empire, was approached by Parliament to lend the government Hanoverian soldiers for service in the war. Hanover supplied 2,365 men in five battalions, however, the lease agreement permitted them to only be used in Europe.[480]
 
@@ -327,13 +319,13 @@ As was the case in many European armies, except the Prussian Army, officers in B
 
 Logistics
 
-Grenadier,_40th_Foot,_1767.jpg in 1767, armed with a Brown Bess musket]]
+in 1767, armed with a Brown Bess musket]]
 
 Logistical organization of eighteenth century armies was chaotic at best, and the British Army was no exception. No logistical corps existed in the modern sense; while on campaign in foreign territories such as America, horses, wagons, and drivers were frequently requisitioned from the locals, often by impressment or by hire.[500] No centrally organized medical corps existed. It was common for surgeons to have no formal medical education, and no diploma or entry examination was required. Nurses sometimes were apprentices to surgeons, but many were drafted from the women who followed the army.[501] Army surgeons and doctors were poorly paid and were regarded as social inferiors to other officers.[502]
 
 The heavy personal equipment and wool uniform of the regular infantrymen were wholly unsuitable for combat in America, and the outfit was especially ill-suited to comfort and agile movement.[503] During the Battle of Monmouth in late June 1778, the temperature exceeded 100°F (37.8°C) and is said to have claimed more lives through heat stroke than through actual combat.[504] The standard-issue firearm of the British Army was the Land Pattern Musket. Some officers preferred their troops to fire careful, measured shots (around two per minute), rather than rapid firing. A bayonet made firing difficult, as its cumbersome shape hampered ramming down the charge into the barrel.[505] British troops had a tendency to fire impetuously, resulting in inaccurate fire, a trait for which John Burgoyne criticized them during the Saratoga campaign. Burgoyne instead encouraged bayonet charges to break up enemy formations, which was a preferred tactic in most European armies at the time.[506]
 
-Officer_and_Serjeant_of_a_Highland_Regiment.jpg armed with Brown Bess muskets, c. 1790]]
+armed with Brown Bess muskets, c. 1790]]
 
 Every battalion in America had organized its own rifle company by the end of the war, although rifles were not formally issued to the army until the Baker Rifle in 1801.[507] Flintlocks were heavily dependent on the weather; high winds could blow the gunpowder from the flash pan,[508] while heavy rain could soak the paper cartridge, ruining the powder and rendering the musket unable to fire. Furthermore, flints used in British muskets were of notoriously poor quality; they could only be fired around six times before requiring resharpening, while American flints could fire sixty. This led to a common expression among the British: "Yankee flint was as good as a glass of grog".[509]
 
@@ -359,7 +351,7 @@ Debate persists over whether a British defeat was a guaranteed outcome. Ferling 
 
 William Howe
 
-WilliamHowe1777ColorMezzotint.jpeg from 1775–1778]]
+from 1775–1778]]
 
 Historians such as Ellis and Stewart have observed that, under William Howe's command, the British squandered several opportunities to achieve a decisive victory over the Americans.[541][542] Throughout the New York and Philadelphia campaigns, Howe made several strategic errors, errors which cost the British opportunities for a complete victory. At Long Island, Howe failed to even attempt an encirclement of Washington,[543] and actively restrained his subordinates from mounting an aggressive pursuit of the defeated American army.[544] At White Plains, he refused to engage Washington's vulnerable army, and instead concentrated his efforts upon a hill which offered the British no strategic advantage.[545][546] After securing control of New York, Howe dispatched Henry Clinton to capture Newport, a measure which Clinton was opposed to, on the grounds the troops assigned to his command could have been put to better use in pursuing Washington's retreating army.[547][548][549] Despite the bleak outlook for the revolutionary cause[550] and the surge of Loyalist activity in the wake of Washington's defeats,[551] Howe made no attempt to mount an attack upon Washington while the Americans settled down into winter quarters, much to their surprise.[552]
 
@@ -373,7 +365,7 @@ During the winter of 1776–1777, Howe split his army into scattered cantonments
 
 Clinton and Cornwallis
 
-First_Marquis_of_Cornwallis.jpg led British forces in the southern campaign.]]
+led British forces in the southern campaign.]]
 
 In 1780, the primary British strategy hinged upon a Loyalist uprising in the south, for which Charles Cornwallis was chiefly responsible. After an encouraging success at Camden, Cornwallis was poised to invade North Carolina. However, any significant Loyalist support had been effectively destroyed at the Battle of Kings Mountain, and the British Legion, the cream of his army, had been decisively defeated at the Battle of Cowpens. Following both defeats, Cornwallis was fiercely criticized for detaching a significant portion of his army without adequate mutual support.[571] Despite the defeats, Cornwallis chose to proceed into North Carolina, gambling his success upon a large Loyalist uprising which never materialized.[572] As a result, subsequent engagements cost Cornwallis valuable troops he could not replace, as at the Battle of Guilford Courthouse,[573] and the Americans steadily wore his army down in an exhaustive war of attrition. Cornwallis had thus left the Carolinas ripe for reconquest. The Americans had largely achieved this aim by the end of 1781, effectively confining the British to the coast, and undoing all the progress they had made in the previous year.[574][575]
 
@@ -387,7 +379,7 @@ Campaign issues
 
 Suppressing a rebellion in America presented the British with major problems. The key issue was distance; it could take up to three months to cross the Atlantic, and orders from London were often outdated by the time that they arrived.[588] The colonies had never been formally united prior to the conflict and there was no centralized area of ultimate strategic importance. Traditionally, the fall of a capital city often signalled the end of a conflict,[589] yet the war continued unabated even after the fall of major settlements such as New York, Philadelphia (which was the Patriot capital), and Charleston.[590] Britain's ability to project its power overseas lay chiefly in the power of the Royal Navy, allowing her to control major coastal settlements with relative ease and enforce a strong blockade of colonial ports. However, the overwhelming majority of the American population was agrarian, not urban. As a result, the American economy proved resilient enough to withstand the blockade's effects.[591]
 
-John_Singleton_Copley_001.jpg soldiers fought alongside British regulars in the 1781 Battle of Jersey, from _The Death of Major Peirson_.]]
+soldiers fought alongside British regulars in the 1781 Battle of Jersey, from _The Death of Major Peirson_.]]
 
 The need to maintain Loyalist support prevented the British from using the harsh methods of suppressing revolts that they had used in Scotland and Ireland.[592] For example, British troops looted and pillaged the locals during an aborted attack on Charleston in 1779, enraging both Patriots and Loyalists.[593] Neutral colonists were often driven into the ranks of the Patriots when brutal combat broke out between Tories and Whigs across the Carolinas in the later stages of the war.[594] Conversely, Loyalists were often emboldened when Patriots resorted to intimidating suspected Tories, such as destroying property or tarring and feathering.[595][596] The vastness of the American countryside and the limited manpower available meant that the British could never simultaneously defeat the Americans and occupy captured territory. One British statesman described the attempt as "like trying to conquer a map".[597]
 
@@ -399,7 +391,7 @@ Following the end of the war, Britain had lost some of her most populous colonie
 
 United States
 
-Battle_of_Guiliford_Courthouse_15_March_1781.jpg]] The Americans began the war with significant disadvantages compared to the British. They had no national government, no national army or navy, no financial system, no banks, no established credit, and no functioning government departments, such as a treasury. The Congress tried to handle administrative affairs through legislative committees, which proved inefficient. The state governments were themselves brand new and officials had no administrative experience. In peacetime the colonies relied heavily on ocean travel and shipping, but that was now shut down by the British blockade and the Americans had to rely on slow overland travel.
+]] The Americans began the war with significant disadvantages compared to the British. They had no national government, no national army or navy, no financial system, no banks, no established credit, and no functioning government departments, such as a treasury. The Congress tried to handle administrative affairs through legislative committees, which proved inefficient. The state governments were themselves brand new and officials had no administrative experience. In peacetime the colonies relied heavily on ocean travel and shipping, but that was now shut down by the British blockade and the Americans had to rely on slow overland travel.
 
 However, the Americans had multiple advantages that in the long run outweighed the initial disadvantages they faced. The Americans had a large prosperous population that depended not on imports but on local production for food and most supplies, while the British were mostly shipped in from across the ocean. The British faced a vast territory far larger than Britain or France, located at a far distance from home ports. Most of the Americans lived on farms distant from the seaports—the British could capture any port but that did not give them control over the hinterland. They were on their home ground, had a smoothly functioning, well organized system of local and state governments, newspapers and printers, and internal lines of communications. They had a long-established system of local militia, previously used to combat the French and Native Americans, with companies and an officer corps that could form the basis of local militias, and provide a training ground for the national army created by Congress.[612]
 
@@ -409,7 +401,7 @@ At the onset of the war, the Americans had no major international allies. Battle
 
 The new Continental Army suffered significantly from a lack of an effective training regime, and largely inexperienced officers and sergeants. The inexperience of its officers was compensated for in part by a few senior officers. The Americans solved their training dilemma during their stint in Winter Quarters at Valley Forge, where they were relentlessly drilled and trained by General Friedrich Wilhelm von Steuben, a veteran of the famed Prussian General Staff. He taught the Continental Army the essentials of military discipline, drills, tactics and strategy, and wrote the Revolutionary War Drill Manual.[617] When the Army emerged from Valley Forge, it proved its ability to equally match the British troops in battle when they fought a successful strategic action at the Battle of Monmouth.[618]
 
-Population_Density_in_the_American_Colonies_1775.gif in 1775]]
+in 1775]]
 
 When the war began, the 13 colonies lacked a professional army or navy. Each colony sponsored local militia. Militiamen were lightly armed, had little training, and usually did not have uniforms. Their units served for only a few weeks or months at a time, were reluctant to travel far from home and thus were unavailable for extended operations, and lacked the training and discipline of soldiers with more experience. If properly used, however, their numbers could help the Continental armies overwhelm smaller British forces, as at the battles of Concord, Bennington and Saratoga, and the siege of Boston. Both sides used partisan warfare but the Americans effectively suppressed Loyalist activity when British regulars were not in the area.[619]
 
@@ -443,15 +435,13 @@ Washington's fifth and most important role in the war effort was the embodiment 
 
 African Americans
 
-Soldiers_at_the_siege_of_Yorktown_(1781),_by_Jean-Baptiste-Antoine_DeVerger.png shows a black infantryman from the 1st Rhode Island Regiment.]]
+shows a black infantryman from the 1st Rhode Island Regiment.]]
 
 African Americans—slave and free—served on both sides during the war. The British recruited slaves belonging to Patriot masters and promised freedom to those who served by act of Lord Dunmore's Proclamation. Because of manpower shortages, George Washington lifted the ban on black enlistment in the Continental Army in January 1776. Small all-black units were formed in Rhode Island and Massachusetts; many slaves were promised freedom for serving. Some of the men promised freedom were sent back to their masters, after the war was over, out of political convenience. Another all-black unit came from Saint-Domingue with French colonial forces. At least 5,000 black soldiers fought for the Revolutionary cause.[638][639]
 
 Tens of thousands of slaves escaped during the war and joined British lines; others simply moved off in the chaos. For instance, in South Carolina, nearly 25,000 slaves (30% of the enslaved population) fled, migrated or died during the disruption of the war.[640] This greatly disrupted plantation production during and after the war. When they withdrew their forces from Savannah and Charleston, the British also evacuated 10,000 slaves belonging to Loyalists.[641] Altogether, the British evacuated nearly 20,000 blacks at the end of the war. More than 3,000 of them were freedmen and most of these were resettled in Nova Scotia; other blacks were sold in the West Indies.[642][643]
 
 American Indians
-
-ContinentalArmy_LeffertsWatercolor.jpg
 
 Most American Indians east of the Mississippi River were affected by the war, and many tribes were divided over the question of how to respond to the conflict. A few tribes were on friendly terms with the other Americans, but most Indians opposed the union of the Colonies as a potential threat to their territory. Approximately 13,000 Indians fought on the British side, with the largest group coming from the Iroquois tribes, who fielded around 1,500 men.[644] The powerful Iroquois Confederacy was shattered as a result of the conflict, whatever side they took; the Seneca, Onondaga, and Cayuga nations sided with the British. Members of the Mohawk nation fought on both sides. Many Tuscarora and Oneida sided with the colonists. The Continental Army sent the Sullivan Expedition on raids throughout New York to cripple the Iroquois tribes that had sided with the British. Mohawk leaders Joseph Louis Cook and Joseph Brant sided with the Americans and the British respectively, and this further exacerbated the split.
 

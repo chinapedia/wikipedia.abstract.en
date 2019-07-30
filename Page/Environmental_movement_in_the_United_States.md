@@ -1,4 +1,4 @@
-Usstamp-save-our.jpg DC-Climate-March-2017-1510718_(33551761583).jpg.]]
+.]]
 
 In the United States today, the organized environmental movement is represented by a wide range of organizations sometimes called non-governmental organizations or NGOs. These organizations exist on local, national, and international scales. Environmental NGOs vary widely in political views and in the amount they seek to influence the environmental policy of the United States and other governments. The environmental movement today consists of both large national groups and also many smaller local groups with local concerns. Some resemble the old U.S. conservation movement - whose modern expression is The Nature Conservancy, Audubon Society and National Geographic Society - American organizations with a worldwide influence.
 
@@ -46,7 +46,7 @@ Conservation first became a national issue during the progressive era's conserva
 
 Progressive era
 
-TR-Enviro.JPG.]] Theodore Roosevelt and his close ally George Bird Grinnell, were motivated by the wanton waste that was taking place at the hand of market hunting. This practice resulted in placing a large number of North American game species on the edge of extinction. Roosevelt recognized that the laissez-faire approach of the U.S. Government was too wasteful and inefficient. In any case, they noted, most of the natural resources in the western states were already owned by the federal government. The best course of action, they argued, was a long-term plan devised by national experts to maximize the long-term economic benefits of natural resources. To accomplish the mission, Roosevelt and Grinnell formed the Boone and Crockett Club in 1887. The Club was made up of the best minds and influential men of the day. The Boone and Crockett Club's contingency of conservationists, scientists, politicians, and intellectuals became Roosevelt's closest advisers during his march to preserve wildlife and habitat across North America.[5] As president, Theodore Roosevelt became a prominent conservationist, putting the issue high on the national agenda.[6] He worked with all the major figures of the movement, especially his chief advisor on the matter, Gifford Pinchot. Roosevelt was deeply committed to conserving natural resources, and is considered to be the nation's first conservation President. He encouraged the Newlands Reclamation Act of 1902 to promote federal construction of dams to irrigate small farms and placed 230 million acres (360,000 mi² or 930,000 km²) under federal protection. Roosevelt set aside more Federal land for national parks and nature preserves than all of his predecessors combined.[7]
+.]] Theodore Roosevelt and his close ally George Bird Grinnell, were motivated by the wanton waste that was taking place at the hand of market hunting. This practice resulted in placing a large number of North American game species on the edge of extinction. Roosevelt recognized that the laissez-faire approach of the U.S. Government was too wasteful and inefficient. In any case, they noted, most of the natural resources in the western states were already owned by the federal government. The best course of action, they argued, was a long-term plan devised by national experts to maximize the long-term economic benefits of natural resources. To accomplish the mission, Roosevelt and Grinnell formed the Boone and Crockett Club in 1887. The Club was made up of the best minds and influential men of the day. The Boone and Crockett Club's contingency of conservationists, scientists, politicians, and intellectuals became Roosevelt's closest advisers during his march to preserve wildlife and habitat across North America.[5] As president, Theodore Roosevelt became a prominent conservationist, putting the issue high on the national agenda.[6] He worked with all the major figures of the movement, especially his chief advisor on the matter, Gifford Pinchot. Roosevelt was deeply committed to conserving natural resources, and is considered to be the nation's first conservation President. He encouraged the Newlands Reclamation Act of 1902 to promote federal construction of dams to irrigate small farms and placed 230 million acres (360,000 mi² or 930,000 km²) under federal protection. Roosevelt set aside more Federal land for national parks and nature preserves than all of his predecessors combined.[7]
 
 Roosevelt established the United States Forest Service, signed into law the creation of five National Parks, and signed the 1906 Antiquities Act, under which he proclaimed 18 new U.S. National Monuments. He also established the first 51 Bird Reserves, four Game Preserves, and 150 National Forests, including Shoshone National Forest, the nation's first. The area of the United States that he placed under public protection totals approximately .
 
@@ -72,7 +72,7 @@ The Inter-American Conference on the Conservation of Renewable Natural Resources
 
 Beginning of the modern movement
 
-Earth_Day_Flag.png flag.]]
+flag.]]
 
 During the 1950s, 1960s and 1970s, several events occurred which raised the public awareness of harm to the environment caused by man. In 1954, the 23 man crew of the Japanese fishing vessel _Lucky Dragon_ was exposed to radioactive fallout from a hydrogen bomb test at Bikini Atoll, in 1969, an ecologically catastrophic oil spill from an offshore well in California's Santa Barbara Channel, Barry Commoner's protest against nuclear testing, Rachel Carson's book Silent Spring, Paul R. Ehrlich's The Population Bomb all added anxiety about the environment. Pictures of Earth from space emphasized that the earth was small and fragile.
 
@@ -93,8 +93,6 @@ Anti-nuclear protests reached a peak in the 1970s and 1980s and grew out of the 
 More recent campaigning by anti-nuclear groups has related to several nuclear power plants including the Enrico Fermi Nuclear Power Plant,[26][27] Indian Point Energy Center, Oyster Creek Nuclear Generating Station,[28] Pilgrim Nuclear Generating Station,[29] Salem Nuclear Power Plant,[30] and Vermont Yankee Nuclear Power Plant.[31] There have also been campaigns relating to the Y-12 Nuclear Weapons Plant,[32] the Idaho National Laboratory,[33] proposed Yucca Mountain nuclear waste repository,[34] the Hanford Site, the Nevada Test Site,[35] Lawrence Livermore National Laboratory,[36] and transportation of nuclear waste from the Los Alamos National Laboratory.[37]
 
 Some scientists and engineers have expressed reservations about nuclear power, including: Barry Commoner, S. David Freeman, John Gofman, Arnold Gundersen, Mark Z. Jacobson, Amory Lovins, Arjun Makhijani, Gregory Minor, Joseph Romm and Benjamin K. Sovacool. Scientists who have opposed nuclear weapons include Linus Pauling and Eugene Rabinowitch.
-
-Love_Canal_protest.jpg
 
 Antitoxics groups
 
@@ -175,8 +173,6 @@ Several books after the middle of the 20th century contributed to the rise of Am
 
 
 Environmentalism and politics
-
-Citizen_with_placard_"Vote_the_environment"_(cropped).jpg
 
 Environmentalists became much more influential in American politics after the creation or strengthening of numerous US environmental laws, including the Clean Air Act and Clean Water Act and the formation of the United States Environmental Protection Agency (EPA) in 1970. These successes were followed by the enactment of a whole series of laws regulating waste (Resource Conservation and Recovery Act), toxic substances (Toxic Substances Control Act), pesticides (FIFRA: Federal Insecticide, Fungicide, and Rodenticide Act), clean-up of polluted sites (Superfund), protection of endangered species (Endangered Species Act), and more.
 

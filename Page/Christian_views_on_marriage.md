@@ -1,5 +1,3 @@
-Amalfi_-_7332.jpg
-
 Marriage is the legally or formally recognized intimate and complementing union of two people as spousal partners in a personal relationship (historically and in most jurisdictions specifically a union between a man and a woman).
 
 The basic elements of a marriage are: (1) the parties' legal ability to marry each other, (2) mutual consent of the parties, and (3) a marriage contract as required by law.
@@ -32,7 +30,7 @@ Some Christian authorities used to permit polygamy (specifically polygyny) in th
 
 Family authority and responsibilities
 
-Pukirev_ner_brak.jpg, 1862.]]
+, 1862.]]
 
 Much of the dispute hinges on how one interprets the New Testament Household Code _(Haustafel)_ which has as its main focus hierarchical relationships between three pairs of social classes that were controlled by Roman law: husbands/wives, parents/children, and masters/slaves. The Code, with variations, occurs in four epistles (letters) by the Apostle Paul and in 1  Peter. The Roman law of _Manus_ gave the husband nearly absolute autocratic power over his wife, including life and death. The law of _Patria Potestas_ (Latin for "Rule of the Fathers") gave a husband equally severe power over his children and slaves. Theologian Frank Stagg[10] finds the basic tenets of the Code in Aristotle's discussion of the household in Book 1 of _Politics_ and in Philo's _Hypothetica 7.14_.[11] Serious study of the New Testament Household Code _(Haustafel)_ began with Martin Dilbelius in 1913, with a wide range of studies since then. In a Tübingen dissertation,[12] by James E. Crouch concludes that the early Christians found in Hellenistic Judaism a code which they adapted and Christianized.
 
@@ -125,7 +123,7 @@ It is also considered in its actual occurrence, sometimes involving failure. The
 
 Old Testament
 
-Rembrandt_Harmensz._van_Rijn_146.jpg Polygyny, or men having multiple wives at once, is one of the most common marital arrangements represented in the Old Testament,[60] yet scholars doubt that it was common among average Israelites because of the wealth needed to practice it.[61] Both the biblical patriarchs and kings of Israel are described as engaged in polygamous relationships.[62]
+Polygyny, or men having multiple wives at once, is one of the most common marital arrangements represented in the Old Testament,[60] yet scholars doubt that it was common among average Israelites because of the wealth needed to practice it.[61] Both the biblical patriarchs and kings of Israel are described as engaged in polygamous relationships.[62]
 
 Betrothal (_erusin_), which is merely a binding promise to get married, is distinct from marriage itself (_nissu'in_), with the time between these events varying substantially.[63][64] Since a wife was regarded as property in biblical times, the betrothal (_erusin_) was effected simply by purchasing her from her father (or guardian);[65][66] the girl’s consent is not explicitly required by any biblical law.[67]
 
@@ -137,7 +135,7 @@ Since a wife was regarded as property, her husband was originally free to divorc
 
 Jesus on marriage, divorce, and remarriage
 
-Christian-Marriage-Symbol.svg for Christian marriage: Two gold wedding rings interlinked with the Greek letters _chi_ (X) and _rho_ (P)—the first two letters in the Greek word for "Christ" (see Labarum)]]
+for Christian marriage: Two gold wedding rings interlinked with the Greek letters _chi_ (X) and _rho_ (P)—the first two letters in the Greek word for "Christ" (see Labarum)]]
 
 The Bible clearly addresses marriage and divorce. Those in troubled marriages are encouraged to seek counseling and restoration because most divorces are neither necessary nor unavoidable.[77]
 
@@ -158,8 +156,6 @@ In Jesus is asked about the continuing state of marriage after death and he affi
 New Testament beyond the Gospels
 
 The Apostle Paul quoted passages from Genesis almost verbatim in two of his New Testament books. He used marriage not only to describe the kingdom of God, as Jesus had done, but to define also the nature of the 1st-century Christian church. His theological view was a Christian development of the Old Testament parallel between marriage and the relationship between God and Israel. He analogized the church as a bride and Christ as the bridegroom─drawing parallels between Christian marriage and the relationship between Christ and the Church.
-
-PaulT.jpg
 
 There is no hint in the New Testament that Jesus was ever married, and no clear evidence that Paul was ever married. However, both Jesus and Paul seem to view marriage as a legitimate calling from God for Christians. Paul elevates singleness to that of the preferable position, but does offer a caveat suggesting this is "because of the impending crisis"—which could itself extend to present times (see also Pauline privilege).[89] Paul's primary issue was that marriage adds concerns to one's life that detract from their ability to serve God without distraction.[90][91]
 
@@ -198,13 +194,11 @@ At first, the old Roman pagan rite was used by Christians, although modified sup
 
 Denominational beliefs and practice
 
-Венчание-@-026.jpg
-
 Marriage and Christianity
 
 Roman Catholicism
 
-Crowning_in_Syro-Malabar_Nasrani_Wedding_by_Mar_Gregory_Karotemprel.jpg which is an Eastern Catholic Church and a part of the Saint Thomas Christian community in India.]] Pietro_Longhi_007.jpg, during the celebration the priest imposes his liturgical stole upon the couple's hands, as a sign to confirm the marriage bond.]]
+which is an Eastern Catholic Church and a part of the Saint Thomas Christian community in India.]] , during the celebration the priest imposes his liturgical stole upon the couple's hands, as a sign to confirm the marriage bond.]]
 
 Today all Christian denominations regard marriage as a sacred institution, a covenant. Roman Catholics consider it to be a sacrament,.[105] Marriage was officially recognized as a sacrament at the 1184 Council of Verona.[106][107] Before then, no specific ritual was prescribed for celebrating a marriage: "Marriage vows did not have to be exchanged in a church, nor was a priest's presence required. A couple could exchange consent anywhere, anytime."[108][109]
 
@@ -218,17 +212,17 @@ The valid marriage of baptized Christians is one of the seven Roman Catholic sac
 
 The Roman Catholic Church views that Christ himself established the sacrament of marriage at the wedding feast of Cana; therefore, since it is a divine institution, neither the Church nor state can alter the basic meaning and structure of marriage. Husband and wife give themselves totally to each other in a union that lasts until death.[116]
 
-Arberesh_Byzantine_Catholic_wedding.jpg Albanian couple during marriage in an Italo-Greek Catholic Church rite.]]
+Albanian couple during marriage in an Italo-Greek Catholic Church rite.]]
 
 Priests are instructed that marriage is part of God's natural law and to support the couple if they do choose to marry. Today it is common for Roman Catholics to enter into a "mixed marriage" between a Catholic and a baptized non-Catholic. Couples entering into a mixed marriage are usually allowed to marry in a Catholic church provided their decision is of their own accord and they intend to remain together for life, to be faithful to each other, and to have children which are brought up in the Catholic faith.[117]
 
-Lokajski_-_Ślub_powstańczej_pary_(1944).jpg (1944), a Polish couple, members of an Armia Krajowa resistance group, are married in a secret Catholic chapel in a street in Warsaw.]]
+(1944), a Polish couple, members of an Armia Krajowa resistance group, are married in a secret Catholic chapel in a street in Warsaw.]]
 
 In Roman Catholic teaching, marriage has two objectives: •the good of the spouses themselves •and the procreation and education of children (1983 code of canon law, c.1055; 1994 catechism, par.2363). Hence "entering marriage with the intention of never having children is a grave wrong and more than likely grounds for an annulment."[118] It is normal procedure for a priest to ask the prospective bride and groom about their plans to have children before officiating at their wedding. The Roman Catholic Church may refuse to marry anyone unwilling to have children, since procreation by "the marriage act" is a fundamental part of marriage.[119] Thus usage of any form of contraception, in vitro fertilization, or birth control besides Natural Family Planning is a grave offense against the sanctity of marriage and ultimately against God.[120]
 
 Protestantism
 
-Wedding_of_Stephen_Beckingham_and_Mary_Cox,_1729_by_William_Hogarth.jpg, c. 1729 (Metropolitan Museum of Art, N.Y.).]]
+, c. 1729 (Metropolitan Museum of Art, N.Y.).]]
 
 Purposes
 
@@ -255,11 +249,11 @@ There is no debate that presents a historically benevolent husband-headship/wife
 
 Eastern Orthodoxy
 
-Wedding_of_Nicholas_II_and_Alexandra_Feodorovna_by_Ilja_Repin_(1894,_Russian_museum).jpg and Grand Duchess Alexandra Feodorovna'', by Ilya Yefimovich Repin, 1894 (Russian State Museum, St. Petersburg).]]
+and Grand Duchess Alexandra Feodorovna'', by Ilya Yefimovich Repin, 1894 (Russian State Museum, St. Petersburg).]]
 
 In the Eastern Orthodox Church, marriage is treated as a Sacred Mystery (sacrament), and as an ordination. It serves to unite a woman and a man in eternal union before God.[131][132][133] It refers to the 1st centuries of the church, where spiritual union of spouses in the first sacramental marriage was eternal.[134][135] Therefore, it is considered a martyrdom as each spouse learns to die to self for the sake of the other. Like all Mysteries, Orthodox marriage is more than just a celebration of something which already exists: it is the creation of something new, the imparting to the couple of the grace which transforms them from a 'couple' into husband and wife within the Body of Christ.[136]
 
-Wedding_ring_Louvre_AC924.jpg, depicting Christ uniting the bride and groom, 7th century, nielloed gold (Musée du Louvre).]]
+, depicting Christ uniting the bride and groom, 7th century, nielloed gold (Musée du Louvre).]]
 
 Marriage is an icon (image) of the relationship between Jesus and the Church. This is somewhat akin to the Old Testament prophets' use of marriage as an analogy to describe the relationship between God and Israel. Marriage is the simplest, most basic unity of the church: a congregation where "two or three are gathered together in Jesus' name."[137] The home is considered a consecrated space (the ritual for the Blessing of a House is based upon that of the Consecration of a Church), and the husband and wife are considered the ministers of that congregation. However, they do not "perform" the Sacraments in the house church; they "live" the Sacrament of Marriage. Because marriage is considered to be a pilgrimage wherein the couple walk side by side toward the Kingdom of Heaven, marriage to a non-Orthodox partner is discouraged, though it may be permitted.
 
@@ -271,7 +265,7 @@ The sharing of the Common Cup symbolizes the transformation of their union from 
 
 Divorce is discouraged. Sometimes out of _economia_ (mercy) a marriage may be dissolved if there is no hope whatever for a marriage to fulfill even a semblance of its intended sacramental character.[138] The standard formula for remarriage is that the Orthodox Church joyfully blesses the first marriage, merely performs the second, barely tolerates the third, and invariably forbids the fourth.[139]
 
-07Thessaloniki_Agia_Sophia09.jpg, Thessaloniki.)]]
+, Thessaloniki.)]]
 
 Early church texts forbid marriage between an Orthodox Christian and a heretic or schismatic (which would include all non-Orthodox Christians). Traditional Orthodox Christians forbid mixed marriages with other denominations. More liberal ones perform them, provided that the couple formally commit themselves to rearing their children in the Orthodox faith.
 
@@ -287,7 +281,7 @@ The Non-Chalcedonian Churches of Oriental Orthodoxy hold views almost identical 
 
 Non-Trinitarian denominations
 
-Phil_and_Marlene.jpg must be performed in an LDS temple.]]
+must be performed in an LDS temple.]]
 
 The Church of Jesus Christ of Latter-day Saints
 

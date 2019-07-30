@@ -1,5 +1,3 @@
-Amazonas_und_Reliefkarte.png
-
 The AMAZON RIVER (, ; Spanish and ) in South America is the largest river by discharge volume of water in the world, and by some definitions it is the longest.[1][2]
 
 The headwaters of the Apurímac River on Nevado Mismi had been considered for nearly a century as the Amazon's most distant source, until a 2014 study found it to be the headwaters of the Mantaro River on the Cordillera Rumi Cruz in Peru.[3] The Mantaro and Apurímac join, and with other tributaries form the Ucayali River, which in turn meets the Marañón River upstream of Iquitos, Peru, to form what countries other than Brazil consider to be the main stem of the Amazon. Brazilians call this section the Solimões River above its confluence with the Rio Negro[4] to form what Brazilians call the Amazon at the Meeting of Waters () at Manaus, the river's largest city.
@@ -20,7 +18,7 @@ History
 
 Pre-Columbian era
 
-Pwanchir_Pitu,_Shaman_et_chef_spirituel_du_peuple_Achuar.jpg During what many archaeologists call the _formative stage_, Amazonian societies were deeply involved in the emergence of South America's highland agrarian systems. The trade with Andean civilisations in the terrains of the headwaters in the Andes, formed an essential contribution to the social and religious development of the higher altitude civilisations of among others the Muisca and Incas. Early human settlements were typically based on low-lying hills or mounds.
+During what many archaeologists call the _formative stage_, Amazonian societies were deeply involved in the emergence of South America's highland agrarian systems. The trade with Andean civilisations in the terrains of the headwaters in the Andes, formed an essential contribution to the social and religious development of the higher altitude civilisations of among others the Muisca and Incas. Early human settlements were typically based on low-lying hills or mounds.
 
 Shell mounds were the earliest evidence of habitation; they represent piles of human refuse and are mainly dated between 7500 and 4000 years BP. They are associated with ceramic age cultures; no preceramic shell mounds have been documented so far by archaeologists. Artificial earth platforms for entire villages are the second type of mounds. They are best represented by the Marajoara culture. Figurative mounds are the most recent types of occupation.
 
@@ -30,11 +28,11 @@ Many indigenous tribes engaged in constant warfare. James Stuart Olson wrote: "T
 
 Arrival of Europeans
 
-Amazon_CIAT_(2).jpg In March 1500, Spanish conquistador Vicente Yáñez Pinzón was the first documented European to sail up the Amazon River.[16] Pinzón called the stream _Río Santa María del Mar Dulce_, later shortened to _Mar Dulce_, literally, _sweet sea_, because of its fresh water pushing out into the ocean. Another Spanish explorer, Francisco de Orellana, was the first European to travel from the origins of the upstream river basins, situated in the Andes, to the mouth of the river. In this journey, Orellana baptised some of the affluents of the Amazonas like Rio Negro, Napo and Jurua. The Amazon warriors from the ancient Hellenic culture in Greece.
+In March 1500, Spanish conquistador Vicente Yáñez Pinzón was the first documented European to sail up the Amazon River.[16] Pinzón called the stream _Río Santa María del Mar Dulce_, later shortened to _Mar Dulce_, literally, _sweet sea_, because of its fresh water pushing out into the ocean. Another Spanish explorer, Francisco de Orellana, was the first European to travel from the origins of the upstream river basins, situated in the Andes, to the mouth of the river. In this journey, Orellana baptised some of the affluents of the Amazonas like Rio Negro, Napo and Jurua. The Amazon warriors from the ancient Hellenic culture in Greece.
 
 Exploration
 
-The_Marañon_or_Amazon_River_with_the_Mission_of_the_Society_of_Jesus_WDL1137.png's 1707 map showing the Amazon and the Orinoco]] Indios_munduruku.jpg]] Gonzalo Pizarro set off in 1541 to explore east of Quito into the South American interior in search of _El Dorado_, the "city of gold" and La Canela, the "valley of cinnamon".[17] He was accompanied by his second-in-command Francisco de Orellana. After , the Coca River joined the Napo River (at a point now known as Puerto Francisco de Orellana); the party stopped for a few weeks to build a boat just upriver from this confluence. They continued downriver through an uninhabited area, where they could not find food. Orellana offered and was ordered to follow the Napo River, then known as _Río de la Canela_ ("Cinnamon River") and return with food for the party. Based on intelligence received from a captive native chief named Delicola, they expected to find food within a few days downriver by ascending another river to the north.
+'s 1707 map showing the Amazon and the Orinoco]] ]] Gonzalo Pizarro set off in 1541 to explore east of Quito into the South American interior in search of _El Dorado_, the "city of gold" and La Canela, the "valley of cinnamon".[17] He was accompanied by his second-in-command Francisco de Orellana. After , the Coca River joined the Napo River (at a point now known as Puerto Francisco de Orellana); the party stopped for a few weeks to build a boat just upriver from this confluence. They continued downriver through an uninhabited area, where they could not find food. Orellana offered and was ordered to follow the Napo River, then known as _Río de la Canela_ ("Cinnamon River") and return with food for the party. Based on intelligence received from a captive native chief named Delicola, they expected to find food within a few days downriver by ascending another river to the north.
 
 De Orellana took about 57 men, the boat, and some canoes and left Pizarro's troops on 26 December 1541. However, De Orellana apparently missed the confluence (probably with the Aguarico) where he was searching supplies for his men. By the time he and his men reached another village, many of them were sick from hunger and eating "noxious plants", and near death. Seven men died at that village. His men threatened to mutiny if he followed his orders and the expedition turned back to join Pizarro's larger party. He accepted to change the purpose of the expedition to discover new lands in the name of the king of Spain, and the men built a larger boat in which to navigate downstream. After a journey of 600 km down the Napo River they reached a further major confluence, at a point near modern Iquitos, and then followed the upper Amazon, now known as the Solimões, for a further to its confluence with the Rio Negro (near modern Manaus), which they reached on 3 June 1542. On the Nhamunda River, a tributary of the Amazon downstream from Manaus, Orellana's party had a fierce battle with warriors who, they reported, were led by fierce female warriors who beat the men to death with clubs if they tried to retreat. Orellana's men began referring to the women as Amazons, a reference to the tribe of women warriors from Greek mythology.
 
@@ -50,7 +48,7 @@ In what is currently Brazil, Ecuador, Bolivia, Colombia, Peru, and Venezuela, a 
 
 Scientific exploration
 
-Naturalist_on_the_River_Amazons_figure_32.png was most famous for his expedition to the Amazon (1848–1859).]] Early scientific, zoological and botanical exploration of the Amazon River and basin took place from the 18th century through the first half of the 19th century.
+was most famous for his expedition to the Amazon (1848–1859).]] Early scientific, zoological and botanical exploration of the Amazon River and basin took place from the 18th century through the first half of the 19th century.
 
 -   Charles Marie de La Condamine explored the river in 1743.[20]
 -   Alexander von Humboldt, 1799–1804
@@ -59,7 +57,7 @@ Naturalist_on_the_River_Amazons_figure_32.png was most famous for his expedition
 
 Post-colonial exploitation and settlement
 
-Casaamazonica.jpg state]] Centro_de_Manaus.jpg opera house in Manaus built in 1896 during the rubber boom]]
+state]] opera house in Manaus built in 1896 during the rubber boom]]
 
 The Cabanagem revolt (1835–1840) was directed against the white ruling class. It is estimated that from 30 to 40% of the population of Grão-Pará, estimated at 100,000 people, died.[21]
 
@@ -81,7 +79,7 @@ By the turn of the 20th century, the exports of the Amazon basin were India-rubb
 
 20th-century development
 
-Manaus-Amazon-NASA.jpg, the largest city in Amazonas, as seen from a NASA satellite image, surrounded by the dark Rio Negro and the muddy Amazon River]] Sitio_de_la_Victoria_regia,_Leticia.JPG, Colombia]]
+, the largest city in Amazonas, as seen from a NASA satellite image, surrounded by the dark Rio Negro and the muddy Amazon River]] , Colombia]]
 
 Since colonial times, the Portuguese portion of the Amazon basin has remained a land largely undeveloped by agriculture and occupied by indigenous people who survived the arrival of European diseases.
 
@@ -106,7 +104,7 @@ Course
 
 Origins
 
-Amazon_origin_at_Mismi.jpg at the Nevado Mismi, marked only by a wooden cross.]] The_Source_of_the_Amazon_River.jpg Río_Marañón_03245.JPG in Peru]]
+at the Nevado Mismi, marked only by a wooden cross.]] in Peru]]
 
 The most distant source of the Amazon was thought to be in the Apurímac river drainage for nearly a century. Such studies continued to be published even recently, such as in 1996,[35] 2001,[36] 2007,[37] and 2008,[38] where various authors identified the snowcapped Nevado Mismi peak, located roughly west of Lake Titicaca and southeast of Lima, as the most distant source of the river. From that point, Quebrada Carhuasanta emerges from Nevado Mismi, joins Quebrada Apacheta and soon forms Río Lloqueta which becomes Río Hornillos and eventually joins the Río Apurímac.
 
@@ -116,7 +114,7 @@ After about , the Apurímac then joins Río Mantaro to form the Ene, which joins
 
 The Upper Amazon or Solimões
 
-Amazonas,_Iquitos_-_Leticia,_Kolumbien_(11472506936).jpg, Peru]] Although the Ucayali–Marañón confluence is the point at which most geographers place the beginning of the Amazon River proper, in Brazil the river is known at this point as the _Solimões das Águas_. The river systems and flood plains in Brazil, Peru, Ecuador, Colombia and Venezuela, whose waters drain into the _Solimões_ and its tributaries, are called the "Upper Amazon".
+, Peru]] Although the Ucayali–Marañón confluence is the point at which most geographers place the beginning of the Amazon River proper, in Brazil the river is known at this point as the _Solimões das Águas_. The river systems and flood plains in Brazil, Peru, Ecuador, Colombia and Venezuela, whose waters drain into the _Solimões_ and its tributaries, are called the "Upper Amazon".
 
 The Amazon proper runs mostly through Brazil and Peru, and is part of the border between Colombia and Perú. It has a series of major tributaries in Colombia, Ecuador and Peru, some of which flow into the Marañón and Ucayali, and others directly into the Amazon proper. These include rivers Putumayo, Caquetá, Vaupés, Guainía, Morona, Pastaza, Nucuray, Urituyacu, Chambira, Tigre, Nanay, Napo, and Huallaga.
 
@@ -126,7 +124,7 @@ From the town of Canaria at the great bend of the Amazon to the Negro, vast area
 
 The Lower Amazon
 
-Manaus_Encontro_das_aguas_10_2006_103_8x6.jpg; the confluence of Rio Negro (black) and Amazon (sandy) near Manaus, Brazil]] Rio_Solimoes_and_Rio_Negro.JPG (left) and Rio Negro (right)]]
+; the confluence of Rio Negro (black) and Amazon (sandy) near Manaus, Brazil]] (left) and Rio Negro (right)]]
 
 The Lower Amazon begins where the darkly coloured waters of the Rio Negro meet the sandy coloured Rio Solimões, and for over these waters run side by side without mixing. At Óbidos, a bluff above the river is backed by low hills. The lower Amazon seems to have once been a gulf of the Atlantic Ocean, the waters of which washed the cliffs near Óbidos.
 
@@ -138,7 +136,7 @@ On the south bank, above the Xingu, a line of low bluffs bordering the floodplai
 
 Mouth
 
-Amazon-river-delta-NASA.jpg Belém is the major city and port at the mouth of the river at the Atlantic Ocean. The definition of where exactly the mouth of the Amazon is located, and how wide it is, is a matter of dispute, because of the area's peculiar geography. The Pará and the Amazon are connected by a series of river channels called _furos_ near the town of Breves; between them lies Marajó, the world's largest combined river/sea island.
+Belém is the major city and port at the mouth of the river at the Atlantic Ocean. The definition of where exactly the mouth of the Amazon is located, and how wide it is, is a matter of dispute, because of the area's peculiar geography. The Pará and the Amazon are connected by a series of river channels called _furos_ near the town of Breves; between them lies Marajó, the world's largest combined river/sea island.
 
 If the Pará river and the Marajó island ocean frontage are included, the Amazon estuary is some wide.[41] In this case, the width of the mouth of the river is usually measured from Cabo Norte, the cape located straight east of Pracuúba in the Brazilian state of Amapá, to Ponta da Tijoca near the town of Curuçá, in the state of Pará.
 
@@ -152,7 +150,7 @@ There are no bridges across the entire width of the river.[43] This is not becau
 
 Dispute regarding length
 
-Amazon_River_Taxi.jpg While debate as to whether the Amazon or the Nile is the world's longest river has gone on for many years, the historic consensus of geographic authorities has been to regard the Amazon as the second longest river in the world, with the Nile being the longest. However, the Amazon has been reported as being anywhere between long.[44] It is often said to be "at least" long.[45] The Nile is reported to be anywhere from .[46] Often it is said to be "about" long.[47] There are many factors that can affect these measurements, such as the position of the geographical source and the mouth, the scale of measurement, and the length measuring techniques (for details see also List of rivers by length).[48][49]
+While debate as to whether the Amazon or the Nile is the world's longest river has gone on for many years, the historic consensus of geographic authorities has been to regard the Amazon as the second longest river in the world, with the Nile being the longest. However, the Amazon has been reported as being anywhere between long.[44] It is often said to be "at least" long.[45] The Nile is reported to be anywhere from .[46] Often it is said to be "about" long.[47] There are many factors that can affect these measurements, such as the position of the geographical source and the mouth, the scale of measurement, and the length measuring techniques (for details see also List of rivers by length).[48][49]
 
 A study by Brazilian scientists concluded that the Amazon is actually longer than the Nile. Using Nevado Mismi, which in 2001 was labelled by the National Geographic Society as the Amazon's source, these scientists made new calculations of the Amazon's length. They calculated the Amazon's length as . Using the same techniques, they calculated the length of the Nile as , which is longer than previous estimates but still shorter than the Amazon. They made it possible by measuring the Amazon downstream to the beginning of the tidal estuary of _Canal do Sul_ and then, after a sharp turn back, following tidal canals surrounding the isle of Marajó and finally including the marine waters of the _Río Pará_ bay in its entire length.[50][51][52] Guido Gelli, director of science at the Brazilian Institute of Geography and Statistics (IBGE), told the Brazilian TV network Globo in June 2007 that it could be considered as a fact that the Amazon was the longest river in the world. However, other geographers have had access to the same data since 2001, and a consensus has yet to emerge to support the claims of these Brazilian scientists. A peer-reviewed article, published in 2009, concluded that the Nile is longer than the Amazon by stating a length of for the Nile and for the Amazon, measured by using a combination of satellite image analysis and field investigations to the source regions.[53] Therefore, as of 2018 the length of both Amazon and Nile remains open to interpretation and continued debate.[54][55]
 
@@ -171,7 +169,7 @@ There is a natural water union between the Amazon and the Orinoco basins, the so
 
 Flooding
 
-Amazon-river-NASA.jpg satellite image of a flooded portion of the river]] Not all of the Amazon's tributaries flood at the same time of the year. Many branches begin flooding in November and might continue to rise until June. The rise of the Rio Negro starts in February or March and begins to recede in June. The Madeira River rises and falls two months earlier than most of the rest of the Amazon river.
+satellite image of a flooded portion of the river]] Not all of the Amazon's tributaries flood at the same time of the year. Many branches begin flooding in November and might continue to rise until June. The rise of the Rio Negro starts in February or March and begins to recede in June. The Madeira River rises and falls two months earlier than most of the rest of the Amazon river.
 
 The depth of the Amazon between Manacapuru and Óbidos has been calculated as between . At Manacapuru, the Amazon's water level is only about above mean sea level. More than half of the water in the Amazon downstream of Manacapuru is below sea level.[62] In its lowermost section, the Amazon's depth averages , in some places as much as .[63]
 
@@ -193,19 +191,19 @@ Paralleling the Amazon River is a large aquifer, dubbed the Hamza River, the dis
 
 Protected areas
 
-+-------------------------------------+----------+-------------+-----------------------------------+-------+
-| Name                                | Country  | Coordinates | Image                             | Notes |
-+=====================================+==========+=============+===================================+=======+
-| Allpahuayo-Mishana National Reserve | Peru     |             | Crypturellus_duidae.JPG           |       |
-+-------------------------------------+----------+-------------+-----------------------------------+-------+
-| Amacayacu National Park             | Colombia |             | Riverguama1.jpg                   |       |
-+-------------------------------------+----------+-------------+-----------------------------------+-------+
-| Amazônia National Park              | Brazil   |             | Amazonia_por_Flaviz_Guerra_02.jpg |       |
-+-------------------------------------+----------+-------------+-----------------------------------+-------+
-| Anavilhanas National Park           | Brazil   |             | Anavilhanas2.jpg                  |       |
-+-------------------------------------+----------+-------------+-----------------------------------+-------+
-|                                     |          |             |                                   |       |
-+-------------------------------------+----------+-------------+-----------------------------------+-------+
++-------------------------------------+----------+-------------+-------+-------+
+| Name                                | Country  | Coordinates | Image | Notes |
++=====================================+==========+=============+=======+=======+
+| Allpahuayo-Mishana National Reserve | Peru     |             |       |       |
++-------------------------------------+----------+-------------+-------+-------+
+| Amacayacu National Park             | Colombia |             |       |       |
++-------------------------------------+----------+-------------+-------+-------+
+| Amazônia National Park              | Brazil   |             |       |       |
++-------------------------------------+----------+-------------+-------+-------+
+| Anavilhanas National Park           | Brazil   |             |       |       |
++-------------------------------------+----------+-------------+-------+-------+
+|                                     |          |             |       |       |
++-------------------------------------+----------+-------------+-------+-------+
 
 
 Flora and fauna
@@ -214,11 +212,11 @@ Flora
 
 Fauna
 
-Schwarzer_Pacu_Colossoma_macropomum_Tierpark_Hellabrunn-1.jpg, an important species in Amazonian fisheries, breeds in the Amazon River]] More than one-third of all known species in the world live in the Amazon rainforest,[68] a giant tropical forest and river basin with an area that stretches more than . It is the richest tropical forest in the world in terms of biodiversity. There are over 3,000 species of fish currently recognised in the Amazon basin, with more being discovered every year.[69] In addition to the thousands of species of fish, the river supports crabs, algae, and turtles.
+, an important species in Amazonian fisheries, breeds in the Amazon River]] More than one-third of all known species in the world live in the Amazon rainforest,[68] a giant tropical forest and river basin with an area that stretches more than . It is the richest tropical forest in the world in terms of biodiversity. There are over 3,000 species of fish currently recognised in the Amazon basin, with more being discovered every year.[69] In addition to the thousands of species of fish, the river supports crabs, algae, and turtles.
 
 Mammals
 
-NOVO_AIRÃO.JPG]] Along with the Orinoco, the Amazon is one of the main habitats of the _boto_, also known as the Amazon river dolphin (_Inia geoffrensis_). It is the largest species of river dolphin, and it can grow to lengths of up to . The colour of its skin changes with age; young animals are gray, but become pink and then white as they mature. The dolphins use echolocation to navigate and hunt in the river's tricky depths.[70] The _boto_ is the subject of a legend in Brazil about a dolphin that turns into a man and seduces maidens by the riverside.[71]
+]] Along with the Orinoco, the Amazon is one of the main habitats of the _boto_, also known as the Amazon river dolphin (_Inia geoffrensis_). It is the largest species of river dolphin, and it can grow to lengths of up to . The colour of its skin changes with age; young animals are gray, but become pink and then white as they mature. The dolphins use echolocation to navigate and hunt in the river's tricky depths.[70] The _boto_ is the subject of a legend in Brazil about a dolphin that turns into a man and seduces maidens by the riverside.[71]
 
 The tucuxi (_Sotalia fluviatilis_), also a dolphin species, is found both in the rivers of the Amazon basin and in the coastal waters of South America. The Amazonian manatee (_Trichechus inunguis_), also known as "seacow", is found in the northern Amazon River basin and its tributaries. It is a mammal and a herbivore. Its population is limited to freshwater habitats, and, unlike other manatees, it does not venture into salt water. It is classified as vulnerable by the International Union for Conservation of Nature.[72]
 
@@ -232,7 +230,7 @@ The anaconda is found in shallow waters in the Amazon basin. One of the world's 
 
 Fish
 
-Piranha1.jpgs, such as the piranha species, are prey for the giant otter, but these aggressive fish may also pose a danger to humans.]] The Amazonian fish fauna is the centre of diversity for neotropical fishes. 5,600 species are currently known, and approximately fifty new species are discovered each year.[76][77] The arapaima, known in Brazil as the _pirarucu_, is a South American tropical freshwater fish, one of the largest freshwater fish in the world, with a length of up to .[78] Another Amazonian freshwater fish is the arowana (or _aruanã_ in Portuguese), such as the silver arowana (_Osteoglossum bicirrhosum_), which is a predator and very similar to the arapaima, but only reaches a length of . Also present in large numbers is the notorious piranha, an omnivorous fish that congregates in large schools and may attack livestock and even humans. There are approximately 30 to 60 species of piranha. However, only a few of its species are known to attack humans, most notably _Pygocentrus nattereri_, the red-bellied piranha. The candirú, native to the Amazon River, is a species of parasitic fresh water catfish in the family Trichomycteridae,[79] just one of more than 1200 species of catfish in the Amazon basin. Other catfish 'walk' overland on their ventral fins,[80] while the kumakuma (_Brachyplatystoma filamentosum_), aka _piraiba_ or "goliath catfish", can reach in length and in weight.[81]
+s, such as the piranha species, are prey for the giant otter, but these aggressive fish may also pose a danger to humans.]] The Amazonian fish fauna is the centre of diversity for neotropical fishes. 5,600 species are currently known, and approximately fifty new species are discovered each year.[76][77] The arapaima, known in Brazil as the _pirarucu_, is a South American tropical freshwater fish, one of the largest freshwater fish in the world, with a length of up to .[78] Another Amazonian freshwater fish is the arowana (or _aruanã_ in Portuguese), such as the silver arowana (_Osteoglossum bicirrhosum_), which is a predator and very similar to the arapaima, but only reaches a length of . Also present in large numbers is the notorious piranha, an omnivorous fish that congregates in large schools and may attack livestock and even humans. There are approximately 30 to 60 species of piranha. However, only a few of its species are known to attack humans, most notably _Pygocentrus nattereri_, the red-bellied piranha. The candirú, native to the Amazon River, is a species of parasitic fresh water catfish in the family Trichomycteridae,[79] just one of more than 1200 species of catfish in the Amazon basin. Other catfish 'walk' overland on their ventral fins,[80] while the kumakuma (_Brachyplatystoma filamentosum_), aka _piraiba_ or "goliath catfish", can reach in length and in weight.[81]
 
 The electric eel (_Electrophorus electricus_) and more than 100 species of electric fishes (Gymnotiformes) inhabit the Amazon basin. River stingrays (Potamotrygonidae) are also known. The bull shark (_Carcharhinus leucas_) has been reported up the Amazon River at Iquitos in Peru.
 
@@ -245,7 +243,7 @@ Freshwater microbes are generally not very well known, even less so for a pristi
 
 Major tributaries
 
-Aerial_view_of_the_Amazon_Rainforest.jpg, the section of the upper Amazon River]] Amazonie_jt01.png The Amazon has over 1,100 tributaries, 12 of which are over long.[83] Some of the more notable ones are:
+, the section of the upper Amazon River]] The Amazon has over 1,100 tributaries, 12 of which are over long.[83] Some of the more notable ones are:
 
 -   Branco
 -   Casiquiare canal

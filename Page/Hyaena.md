@@ -5,10 +5,10 @@ The brown hyena's skull is larger than that of the striped hyena. The male brown
 
 Extant Species
 
-  Image                      Scientific name    Common Name     Distribution
-  -------------------------- ------------------ --------------- ----------------------------------
-  Полосатая_гиена_4.jpg      _Hyaena hyaena_    Striped hyena   Northern Africa and western Asia
-  Parahyaena_brunnea_3.jpg   _Hyaena brunnea_   Brown hyena     Southern Africa
+  Image   Scientific name    Common Name     Distribution
+  ------- ------------------ --------------- ----------------------------------
+          _Hyaena hyaena_    Striped hyena   Northern Africa and western Asia
+          _Hyaena brunnea_   Brown hyena     Southern Africa
 
 
 Category:Hyenas Category:Mammal genera Category:Taxa named by Mathurin Jacques Brisson

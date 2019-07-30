@@ -1,4 +1,4 @@
-SIX HIGH BRASS INSTRUMENTS Left, from top: A reproduction baroque trumpet in D, a modern trumpet in B, a modern trumpet in D, a piccolo trumpet in B (octave higher), and a flugelhorn in B. Right: a cornet in B. Althorn,_Baryton_och_Euphonium.jpg (alto horn) in E, baritone horn in B, and euphonium in B.]] A BRASS INSTRUMENT is a musical instrument that produces sound by sympathetic vibration of air in a tubular resonator in sympathy with the vibration of the player's lips. Brass instruments are also called _labrosones_, literally meaning "lip-vibrated instruments".[1]
+(alto horn) in E, baritone horn in B, and euphonium in B.]] A BRASS INSTRUMENT is a musical instrument that produces sound by sympathetic vibration of air in a tubular resonator in sympathy with the vibration of the player's lips. Brass instruments are also called _labrosones_, literally meaning "lip-vibrated instruments".[1]
 
 There are several factors involved in producing different pitches on a brass instrument. Slides, valves, crooks (though they are rarely used today), or keys are used to change vibratory length of tubing, thus changing the available harmonic series, while the player's embouchure, lip tension and air flow serve to select the specific harmonic produced from the available series.
 
@@ -61,7 +61,7 @@ The instruments in this list fall for various reasons outside the scope of much 
 
  Valves
 
-Brass-instrument-keys-2759.jpg Dugattyus_szelep.png Forgoszelep.png Brass_instrument_slides.svg Valves are used to change the length of tubing of a brass instrument allowing the player to reach the notes of various harmonic series. Each valve pressed diverts the air stream through additional tubing, individually or in conjunction with other valves. This lengthens the vibrating air column thus lowering the fundamental tone and associated harmonic series produced by the instrument. Designs exist, although rare, in which this behaviour is reversed, i.e., pressing a valve removes a length of tubing rather than adding one. One modern example of such an ascending valve is the Yamaha YSL-350C trombone,[4] in which the extra valve tubing is normally engaged to pitch the instrument in B, and pressing the thumb lever removes a whole step to pitch the instrument in C. Valves require regular lubrication.
+Valves are used to change the length of tubing of a brass instrument allowing the player to reach the notes of various harmonic series. Each valve pressed diverts the air stream through additional tubing, individually or in conjunction with other valves. This lengthens the vibrating air column thus lowering the fundamental tone and associated harmonic series produced by the instrument. Designs exist, although rare, in which this behaviour is reversed, i.e., pressing a valve removes a length of tubing rather than adding one. One modern example of such an ascending valve is the Yamaha YSL-350C trombone,[4] in which the extra valve tubing is normally engaged to pitch the instrument in B, and pressing the thumb lever removes a whole step to pitch the instrument in C. Valves require regular lubrication.
 
 A core standard valve layout based on the action of three valves had become almost universal by (at latest) 1864 as witnessed by Arban's Method published in that year. The effect of a particular combination of valves may be seen in the table below. This table is correct for the core 3-valve layout on almost any modern valved brass instrument. The most common four-valve layout is a superset of the well-established 3-valve layout and is noted in the table, despite the exposition of four-valve and also five-valve systems (the latter used on the tuba) being incomplete in this article.
 
@@ -171,7 +171,7 @@ Combining the valves and the harmonics of the instrument leads to the following 
 
 Tuning compensation
 
-The additional tubing for each valve usually features a short tuning slide of its own for fine adjustment of the valve's tuning, except when it is too short to make this practicable. For the first and third valves this is often designed to be adjusted as the instrument is played, to account for the deficiencies in the valve system. Trumpet_valve_bypass.svg
+The additional tubing for each valve usually features a short tuning slide of its own for fine adjustment of the valve's tuning, except when it is too short to make this practicable. For the first and third valves this is often designed to be adjusted as the instrument is played, to account for the deficiencies in the valve system.
 
 In most trumpets and cornets, the compensation must be provided by extending the third valve slide with the third or fourth finger, and the first valve slide with the left hand thumb (see Trigger or throw below). This is used to lower the pitch of the 1–3 and 1–2–3 valve combinations. On the trumpet and cornet, these valve combinations correspond to low D, low C, low G, and low F, so chromatically, to stay in tune, one must use this method.
 
@@ -198,8 +198,6 @@ Additional sets of slides on each valve
 Another approach was the addition of two sets of slides for different parts of the range. Some euphoniums and tubas were built like this, but today, this approach has become highly exotic for all instruments except horns, where it is the norm, usually in a double, sometimes even triple configuration.
 
 Trigger or throw
-
-Yamaha_Flugelhorn_YFH-8310Z.jpg
 
 Some valved brass instruments provide TRIGGERS or THROWS that manually lengthen (or, less commonly, shorten) the main tuning slide, a valve slide, or the main tubing. These mechanisms alter the pitch of notes that are naturally sharp in a specific register of the instrument, or shift the instrument to another playing range. Triggers and throws permit speedy adjustment while playing.
 
@@ -254,7 +252,7 @@ The process of making the large open end (bell) of a brass instrument is called 
 
 Other materials
 
-The_Trombone_Show_(color).JPG A few specialty instruments are made from wood.
+A few specialty instruments are made from wood.
 
 Instruments made mostly from plastic emerged in the 2010s as a cheaper and more robust alternative to brass.[12][13] Plastic instruments could come in almost any colour. The sound plastic instruments produce is different from the one of brass, lacquer, gold or silver. While originally seen as a gimmick, these plastic models have found increasing popularity of the last decade and are now viewed as practice tools that make for more convenient travel as well as a cheaper option for beginning players.
 

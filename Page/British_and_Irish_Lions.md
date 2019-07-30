@@ -25,7 +25,7 @@ In 1888, the promoter of the first expedition to Australia and New Zealand, Arth
 
 Blue jerseys, the Lions named and the crest adopted
 
-Logo_Lions_Rugby.svg The Scots were once again involved in Dr Tom Smyth's 1910 team to South Africa. Thus, dark blue jerseys, were introduced with white shorts and the red socks of 1908.[13] The jerseys also had a single lion-rampant crest. The 1924 tour returned to South Africa, retaining the blue jerseys but now with shorts to match. It is the 1924 tour that is credited as being the first in which the team were referred to as "the Lions", the irony being that it was on this tour that the single lion-rampant crest was replaced with the forerunner of the four-quartered badge with the symbols of the four represented unions, that is still worn today. Although the lion had been dropped from the jersey, the players had worn the lion motif on their ties as they arrived in South Africa, which led the press and public referring to them as "the Lions".[14]
+The Scots were once again involved in Dr Tom Smyth's 1910 team to South Africa. Thus, dark blue jerseys, were introduced with white shorts and the red socks of 1908.[13] The jerseys also had a single lion-rampant crest. The 1924 tour returned to South Africa, retaining the blue jerseys but now with shorts to match. It is the 1924 tour that is credited as being the first in which the team were referred to as "the Lions", the irony being that it was on this tour that the single lion-rampant crest was replaced with the forerunner of the four-quartered badge with the symbols of the four represented unions, that is still worn today. Although the lion had been dropped from the jersey, the players had worn the lion motif on their ties as they arrived in South Africa, which led the press and public referring to them as "the Lions".[14]
 
 The unofficial 1927 Argentina tour used the same kit and badge.[15] So powerful was the attribution of "the Lions" nickname that three heraldic versions of the animal returned as the jersey badge in 1930.[16] This was the tour to New Zealand where the tourists' now standard blue jerseys caused some controversy. The convention in rugby is for the home side to accommodate its guests when there is a clash of kit. The New Zealand side, by then already synonymous with the appellation "All Blacks", had an all black kit that clashed with the Lions' blue. After much reluctance and debate New Zealand agreed to change for the Tests and the All Blacks became the All Whites for the first time. On the 1930 tour a delegation led by the Irish lock George Beamish expressed their displeasure at the fact that while the blue of Scotland, white of England and red of Wales were represented in the strip there was no green for Ireland. A green flash was added to the socks, which from 1938 became a green turnover (although on blue socks thus eliminating red from the kit), and that has remained a feature of the strip ever since.[17] In 1936, the four-quartered badge returned for the tour to Argentina and has remained on the kits ever since,[18] but other than that the strip remained the same.
 
@@ -46,7 +46,7 @@ History
 
 1888–1909
 
-British_lions_1888.jpg Image-England-Team,-SA-1891.jpg England-v-Cape-Colony-1891.jpg The earliest tours date back to 1888, when a 21-man squad visited Australia and New Zealand. The squad drew players from England, Scotland and Wales, though English players predominated. The 35-match tour of two host nations included no tests, but the side played provincial, city and academic sides, winning 27 matches. They played 19 games of Australian rules football, against prominent clubs in Victoria and South Australia, winning six and drawing one of these (see Australian rules football in England).
+The earliest tours date back to 1888, when a 21-man squad visited Australia and New Zealand. The squad drew players from England, Scotland and Wales, though English players predominated. The 35-match tour of two host nations included no tests, but the side played provincial, city and academic sides, winning 27 matches. They played 19 games of Australian rules football, against prominent clubs in Victoria and South Australia, winning six and drawing one of these (see Australian rules football in England).
 
 The first tour, although unsanctioned by rugby bodies, established the concept of Northern Hemisphere sporting sides touring to the Southern Hemisphere. Three years after the first tour, the Western Province union invited rugby bodies in Britain to tour South Africa. Some saw the 1891 team – the first sanctioned by the Rugby Football Union – as the English national team, though others referred to it as "the British Isles". The tourists played a total of twenty matches, three of them tests. The team also played the regional side of South Africa (South Africa did not exist as a political unit in 1891), winning all three matches. In a notable event of the tour, the touring side presented the Currie Cup to Griqualand West, the province they thought produced the best performance on the tour.
 
@@ -66,7 +66,7 @@ Visits that took place before the 1910 South Africa tour (the first selected by 
 
 The next British Isles team tour did not take place until 1924, again in South Africa. The team, led by Ronald Cove-Smith, struggled with injuries and lost three of the four test matches, drawing the other 3–3. In total, 21 games were played, with the touring side winning 9, drawing 3 and losing 9.
 
-British_lions_fourth_test_arg_1927.jpg during their second tour to the country in 1927]] In 1927 a short, nine-game series took place in Argentina, with the British isles winning all nine encounters; the tour did however become a financial success for Argentine rugby. After a seemingly long absence from New Zealand, the Lions returned in 1930 to some success. The Lions won all of their games that did not have test status except for the matches against Auckland, Wellington and Canterbury; they did however lose three of their four test matches against New Zealand, winning the first test 6–3. The side also visited Australia, losing a test but winning five out of the six non-test games.
+during their second tour to the country in 1927]] In 1927 a short, nine-game series took place in Argentina, with the British isles winning all nine encounters; the tour did however become a financial success for Argentine rugby. After a seemingly long absence from New Zealand, the Lions returned in 1930 to some success. The Lions won all of their games that did not have test status except for the matches against Auckland, Wellington and Canterbury; they did however lose three of their four test matches against New Zealand, winning the first test 6–3. The side also visited Australia, losing a test but winning five out of the six non-test games.
 
 In 1936 the British Isles visited Argentina for the third time, winning all ten of their matches and only conceding nine points in the whole tour. Two years later in 1938 the British Isles toured in South Africa, winning more than half of their normal matches. Despite having lost the test series to South Africa by game three, they won the final test. This is when they were named THE LIONS by their then Captain Sam Walker.
 
@@ -91,8 +91,6 @@ The 1977 tour to New Zealand saw the Lions drop only one non-test out of 21 game
 In August 1977 the British Lions made a stopover in Fiji on the way home from their tour of New Zealand. Fiji beat them 25–21 at Buckhurst Park, Suva.
 
 1980–2005
-
-British_and_Irish_Lions_scrum.jpg
 
 The Lions toured South Africa in 1980, and completed a flawless non-test record, winning 14 out of 14 matches. The Lions however lost the first three tests to South Africa, only winning the last one once the Springboks were guaranteed to win the series.
 
@@ -192,158 +190,158 @@ Results
 
 Tour Test matches
 
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| Year | To            | Captain                           | Head coach                   | Top scorer in Tests              | Result | Tests record               |
-+======+===============+===================================+==============================+==================================+========+============================+
-| 1888 | New Zealand   | Robert Seddon                     | Alfred Shaw                  | _No Test matches played_         |        |                            |
-|      | & Australia   | Andrew Stoddart                   | Arthur Shrewsbury            |                                  |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1891 | South Africa  | Bill Maclagan                     | Edwin Ash                    | Arthur Rotherham, 4              | Won    |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1896 | South Africa  | Johnny Hammond                    | Roger Walker                 | J. F. Byrne, 12                  | Won    |                            |
-|      |               | Thomas Crean                      |                              |                                  |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1899 | Australia     | Matthew Mullineux                 | Matthew Mullineux            | Charlie Adamson, 17              | Won    |                            |
-|      |               | Frank Stout                       |                              |                                  |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1903 | South Africa  | Mark Morrison                     | Johnny Hammond               | John Gillespie, 4                | Lost   |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1904 | Australia     | David Bedell-Sivright             | Arthur O'Brien               | Percy Bush, 20                   | Won    | (Australia)                |
-|      | & New Zealand | Teddy Morgan                      |                              |                                  | Lost   | (New Zealand)              |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1908 | New Zealand   | Arthur 'Boxer' Harding            | George Harnett               | Reggie Gibbs, 3                  | Lost   | (NZ)                       |
-|      | & Australia   |                                   |                              | Jack Jones, 3                    |        | No tests against Australia |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1910 | South Africa  | Tommy Smyth                       | William Cail                 | Jack Spoors, 9                   | Lost   |                            |
-|      |               | Jack Jones                        | Walter E. Rees               |                                  |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1910 | Argentina     | John Raphael                      | R.V. Stanley                 | Harold Monks, 10                 | Won    |                            |
-|      |               |                                   |                              | _(no test caps awarded)_         |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1924 | South Africa  | Ronald Cove-Smith                 | Harry Packer                 | Tom Voyce, 6                     | Lost   |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1927 | Argentina     | David MacMyn                      | James Baxter                 | Ernest Hammett, 40               | Won    |                            |
-|      |               |                                   |                              | _(no test caps awarded)_         |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1930 | New Zealand   | Doug Prentice                     | James Baxter                 | Carl Aarvold, 9                  | Lost   | (New Zealand)              |
-|      | & Australia   | Carl Aarvold                      |                              |                                  | Lost   | (Australia)                |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1936 | Argentina     | Bernard Gadney                    | Doug Prentice                | John Brett, 7                    | Won    |                            |
-|      |               |                                   |                              | _(no test caps awarded)_         |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1938 | South Africa  | Sam Walker                        | Major B.C. Hartley           | Vivian Jenkins, 9                | Lost   |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1950 | New Zealand   | IRFU_flag.svg Karl Mullen         | Leslie B. Osborne            | Lewis Jones, 26                  | Lost   | (NZ)                       |
-|      | & Australia   | Bleddyn Williams                  |                              |                                  | Won    | (Australia)                |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1955 | South Africa  | IRFU_flag.svg Robin Thompson      | IRFU_flag.svg Jack Siggins   | Jeff Butterfield, 12             | Tied   |                            |
-|      |               | Cliff Morgan                      |                              |                                  |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1959 | Australia     | IRFU_flag.svg Ronnie Dawson       | IRFU_flag.svg O. B. Glasgow  | IRFU_flag.svg David Hewitt, 16   | Won    | (Australia)                |
-|      | & New Zealand |                                   |                              |                                  | Lost   | (New Zealand)              |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1962 | South Africa  | Arthur Smith                      | IRFU_flag.svg Harry McKibbin | John Willcox, 5                  | Lost   |                            |
-|      |               | Dickie Jeeps                      |                              |                                  |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1966 | Australia,    | David Watkins                     | John Robins                  | Stewart Wilson, 30               | Won    | (Australia)                |
-|      | & New Zealand | Mike Campbell-Lamerton            |                              |                                  | Lost   | (New Zealand)              |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1968 | South Africa  | IRFU_flag.svg Tom Kiernan         | IRFU_flag.svg Ronnie Dawson  | IRFU_flag.svg Tom Kiernan, 35    | Lost   |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1971 | New Zealand   | John Dawes                        | Carwyn James                 | Barry John, 30                   | Won    |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1974 | South Africa  | IRFU_flag.svg Willie John McBride | IRFU_flag.svg Syd Millar     | Phil Bennett, 26                 | Won    |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1977 | New Zealand   | Phil Bennett                      | John Dawes                   | Phil Bennett, 18                 | Lost   |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1980 | South Africa  | Bill Beaumont                     | IRFU_flag.svg Noel Murphy    | IRFU_flag.svg Tony Ward, 18      | Lost   |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1983 | New Zealand   | IRFU_flag.svg Ciaran Fitzgerald   | Jim Telfer                   | IRFU_flag.svg Ollie Campbell, 15 | Lost   |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1989 | Australia     | Finlay Calder                     | Ian McGeechan                | Gavin Hastings, 28               | Won    |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1993 | New Zealand   | Gavin Hastings                    | Ian McGeechan                | Gavin Hastings, 38               | Lost   |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 1997 | South Africa  | Martin Johnson                    | Ian McGeechan                | Neil Jenkins, 41                 | Won    |                            |
-|      |               |                                   | Jim Telfer                   |                                  |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 2001 | Australia     | Martin Johnson                    | Graham Henry                 | Jonny Wilkinson, 36              | Lost   |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 2005 | New Zealand   | IRFU_flag.svg Brian O'Driscoll    | Sir Clive Woodward           | Stephen Jones, 14                | Lost   |                            |
-|      |               | Martin Corry                      |                              |                                  |        |                            |
-|      |               | Gareth Thomas                     |                              |                                  |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 2009 | South Africa  | IRFU_flag.svg Paul O'Connell      | Ian McGeechan                | Stephen Jones, 39                | Lost   |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 2013 | Australia     | Sam Warburton                     | Warren Gatland               | Leigh Halfpenny, 49              | Won    |                            |
-|      |               | Alun Wyn Jones                    |                              |                                  |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 2017 | New Zealand   | Sam Warburton                     | Warren Gatland               | Owen Farrell, 31                 | Tied   |                            |
-|      |               | Peter O'Mahony                    |                              |                                  |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
-| 2021 | South Africa  |                                   | Warren Gatland               |                                  |        |                            |
-+------+---------------+-----------------------------------+------------------------------+----------------------------------+--------+----------------------------+
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| Year | To            | Captain                | Head coach         | Top scorer in Tests      | Result | Tests record               |
++======+===============+========================+====================+==========================+========+============================+
+| 1888 | New Zealand   | Robert Seddon          | Alfred Shaw        | _No Test matches played_ |        |                            |
+|      | & Australia   | Andrew Stoddart        | Arthur Shrewsbury  |                          |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1891 | South Africa  | Bill Maclagan          | Edwin Ash          | Arthur Rotherham, 4      | Won    |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1896 | South Africa  | Johnny Hammond         | Roger Walker       | J. F. Byrne, 12          | Won    |                            |
+|      |               | Thomas Crean           |                    |                          |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1899 | Australia     | Matthew Mullineux      | Matthew Mullineux  | Charlie Adamson, 17      | Won    |                            |
+|      |               | Frank Stout            |                    |                          |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1903 | South Africa  | Mark Morrison          | Johnny Hammond     | John Gillespie, 4        | Lost   |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1904 | Australia     | David Bedell-Sivright  | Arthur O'Brien     | Percy Bush, 20           | Won    | (Australia)                |
+|      | & New Zealand | Teddy Morgan           |                    |                          | Lost   | (New Zealand)              |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1908 | New Zealand   | Arthur 'Boxer' Harding | George Harnett     | Reggie Gibbs, 3          | Lost   | (NZ)                       |
+|      | & Australia   |                        |                    | Jack Jones, 3            |        | No tests against Australia |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1910 | South Africa  | Tommy Smyth            | William Cail       | Jack Spoors, 9           | Lost   |                            |
+|      |               | Jack Jones             | Walter E. Rees     |                          |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1910 | Argentina     | John Raphael           | R.V. Stanley       | Harold Monks, 10         | Won    |                            |
+|      |               |                        |                    | _(no test caps awarded)_ |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1924 | South Africa  | Ronald Cove-Smith      | Harry Packer       | Tom Voyce, 6             | Lost   |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1927 | Argentina     | David MacMyn           | James Baxter       | Ernest Hammett, 40       | Won    |                            |
+|      |               |                        |                    | _(no test caps awarded)_ |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1930 | New Zealand   | Doug Prentice          | James Baxter       | Carl Aarvold, 9          | Lost   | (New Zealand)              |
+|      | & Australia   | Carl Aarvold           |                    |                          | Lost   | (Australia)                |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1936 | Argentina     | Bernard Gadney         | Doug Prentice      | John Brett, 7            | Won    |                            |
+|      |               |                        |                    | _(no test caps awarded)_ |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1938 | South Africa  | Sam Walker             | Major B.C. Hartley | Vivian Jenkins, 9        | Lost   |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1950 | New Zealand   | Karl Mullen            | Leslie B. Osborne  | Lewis Jones, 26          | Lost   | (NZ)                       |
+|      | & Australia   | Bleddyn Williams       |                    |                          | Won    | (Australia)                |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1955 | South Africa  | Robin Thompson         | Jack Siggins       | Jeff Butterfield, 12     | Tied   |                            |
+|      |               | Cliff Morgan           |                    |                          |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1959 | Australia     | Ronnie Dawson          | O. B. Glasgow      | David Hewitt, 16         | Won    | (Australia)                |
+|      | & New Zealand |                        |                    |                          | Lost   | (New Zealand)              |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1962 | South Africa  | Arthur Smith           | Harry McKibbin     | John Willcox, 5          | Lost   |                            |
+|      |               | Dickie Jeeps           |                    |                          |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1966 | Australia,    | David Watkins          | John Robins        | Stewart Wilson, 30       | Won    | (Australia)                |
+|      | & New Zealand | Mike Campbell-Lamerton |                    |                          | Lost   | (New Zealand)              |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1968 | South Africa  | Tom Kiernan            | Ronnie Dawson      | Tom Kiernan, 35          | Lost   |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1971 | New Zealand   | John Dawes             | Carwyn James       | Barry John, 30           | Won    |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1974 | South Africa  | Willie John McBride    | Syd Millar         | Phil Bennett, 26         | Won    |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1977 | New Zealand   | Phil Bennett           | John Dawes         | Phil Bennett, 18         | Lost   |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1980 | South Africa  | Bill Beaumont          | Noel Murphy        | Tony Ward, 18            | Lost   |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1983 | New Zealand   | Ciaran Fitzgerald      | Jim Telfer         | Ollie Campbell, 15       | Lost   |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1989 | Australia     | Finlay Calder          | Ian McGeechan      | Gavin Hastings, 28       | Won    |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1993 | New Zealand   | Gavin Hastings         | Ian McGeechan      | Gavin Hastings, 38       | Lost   |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 1997 | South Africa  | Martin Johnson         | Ian McGeechan      | Neil Jenkins, 41         | Won    |                            |
+|      |               |                        | Jim Telfer         |                          |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 2001 | Australia     | Martin Johnson         | Graham Henry       | Jonny Wilkinson, 36      | Lost   |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 2005 | New Zealand   | Brian O'Driscoll       | Sir Clive Woodward | Stephen Jones, 14        | Lost   |                            |
+|      |               | Martin Corry           |                    |                          |        |                            |
+|      |               | Gareth Thomas          |                    |                          |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 2009 | South Africa  | Paul O'Connell         | Ian McGeechan      | Stephen Jones, 39        | Lost   |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 2013 | Australia     | Sam Warburton          | Warren Gatland     | Leigh Halfpenny, 49      | Won    |                            |
+|      |               | Alun Wyn Jones         |                    |                          |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 2017 | New Zealand   | Sam Warburton          | Warren Gatland     | Owen Farrell, 31         | Tied   |                            |
+|      |               | Peter O'Mahony         |                    |                          |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
+| 2021 | South Africa  |                        | Warren Gatland     |                          |        |                            |
++------+---------------+------------------------+--------------------+--------------------------+--------+----------------------------+
 
 Other international matches
 
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| Year | Rival                                                  | Captain                | Head coach              | Top scorer        | Result | Related tour                                                                                            |
-+======+========================================================+========================+=========================+===================+========+=========================================================================================================+
-| 1910 |                                                        | Jack Jones             | William Cail            | Reg Plummer, 6    | Won    | South Africa 1910                                                                                       |
-|      |                                                        |                        | Walter E. Rees          |                   |        |                                                                                                         |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1924 |                                                        | Neil MacPherson        | Harry Packer            | Ian Smith, 6      | Won    | South Africa 1924                                                                                       |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1930 |                                                        | James Leo Farrell      | James Baxter            |                   | Won    | New Zealand & Australia 1930                                                                            |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1938 |                                                        | Sam Walker             | Bernard Charles Hartley | Viv Jenkins, 7    | Won    | South Africa 1938                                                                                       |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1938 |                                                        | Sam Walker             |                         | Elvet Jones, 9    | Won    | South Africa 1938                                                                                       |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1950 |                                                        |                        | Leslie B. Osborne       |                   | Won    | New Zealand & Australia 1950                                                                            |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1955 | Flag_of_South_Africa_(1928-1994).svg South-West Africa | Angus Cameron          | Jack Siggins            | Tony O'Reilly, 3  | Won    | South Africa 1955                                                                                       |
-|      |                                                        |                        |                         | Frank Sykes, 3    |        |                                                                                                         |
-|      |                                                        |                        |                         | Haydn Morris, 3   |        |                                                                                                         |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1955 |                                                        | Cliff Morgan           | Jack Siggins            | Frank Sykes, 9    | Won    | South Africa 1955                                                                                       |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1955 |                                                        | Cliff Morgan           | Jack Siggins            | Doug Baker, 6     | Won    | South Africa 1955                                                                                       |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1955 |                                                        | Robin Thompson         | Jack Siggins            | Arthur Smith, 15  | Won    | South Africa 1955                                                                                       |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1962 |                                                        | Arthur Smith           | Harry McKibbin          | Mike Weston, 12   | Won    | South Africa 1962                                                                                       |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1962 | Flag_of_South_Africa_(1928-1994).svg South-West Africa | Dickie Jeeps           | Harry McKibbin          | Mike Weston, 3    | Won    | South Africa 1962                                                                                       |
-|      |                                                        |                        |                         | Keith Rowlands, 3 |        |                                                                                                         |
-|      |                                                        |                        |                         | Raymond Hunter, 3 |        |                                                                                                         |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1962 |                                                        |                        | Harry McKibbin          | Richard Sharp, 14 | Won    | South Africa 1962                                                                                       |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1966 |                                                        | Mike Campbell-Lamerton | John Robins             | Noel Murphy, 6    | Won    | Australia & New Zealand 1966                                                                            |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1968 |                                                        | Tom Kiernan            | Ronnie Dawson           | Keith Jarrett, 10 | Won    | South Africa 1968                                                                                       |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1968 | Flag_of_South_Africa_(1928-1994).svg South-West Africa | Jim Telfer             | Ronnie Dawson           | Bob Hiller, 11    | Won    | South Africa 1968                                                                                       |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1974 | Flag_of_South_Africa_(1928-1994).svg South-West Africa | Gareth Edwards         | Syd Millar              | Andy Irvine, 8    | Won    | South Africa 1974                                                                                       |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1974 |                                                        | Gareth Edwards         | Syd Millar              | Andy Irvine, 22   | Won    | South Africa 1974                                                                                       |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1977 |                                                        | Phil Bennett           | John Dawes              | Phil Bennett, 13  | Lost   | New Zealand 1977                                                                                        |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1977 | Barbarian F.C.                                         | Phil Bennett           | John Dawes              | Phil Bennett, 8   | Won    | Home match as part of Queen Elizabeth II's Silver Jubilee celebrations after returning from New Zealand |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1986 | The Rest                                               | Colin Deans            | Mick Doyle              | John Beattie, 4   | Lost   | Home match as part of IRB centenary celebrations                                                        |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1989 |                                                        | Rob Andrew             | Ian McGeechan           |                   | Won    | One-off match as part of French bi-centennial celebrations                                              |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 1990 | Rest of Europe                                         | David Sole             | Roger Uttley            |                   | Won    | Charity match in aid of Romania. Not billed as Lions, but as Four Home Unions                           |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 2005 |                                                        | Michael Owen           |                         |                   | Draw   | 2005 New Zealand tour warm-up – Home match                                                              |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
-| 2013 | Barbarians F.C.                                        | Paul O'Connell         | Warren Gatland          | Owen Farrell, 15  | Won    | 2013 Australia tour warm-up – Away match                                                                |
-+------+--------------------------------------------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| Year | Rival             | Captain                | Head coach              | Top scorer        | Result | Related tour                                                                                            |
++======+===================+========================+=========================+===================+========+=========================================================================================================+
+| 1910 |                   | Jack Jones             | William Cail            | Reg Plummer, 6    | Won    | South Africa 1910                                                                                       |
+|      |                   |                        | Walter E. Rees          |                   |        |                                                                                                         |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1924 |                   | Neil MacPherson        | Harry Packer            | Ian Smith, 6      | Won    | South Africa 1924                                                                                       |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1930 |                   | James Leo Farrell      | James Baxter            |                   | Won    | New Zealand & Australia 1930                                                                            |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1938 |                   | Sam Walker             | Bernard Charles Hartley | Viv Jenkins, 7    | Won    | South Africa 1938                                                                                       |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1938 |                   | Sam Walker             |                         | Elvet Jones, 9    | Won    | South Africa 1938                                                                                       |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1950 |                   |                        | Leslie B. Osborne       |                   | Won    | New Zealand & Australia 1950                                                                            |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1955 | South-West Africa | Angus Cameron          | Jack Siggins            | Tony O'Reilly, 3  | Won    | South Africa 1955                                                                                       |
+|      |                   |                        |                         | Frank Sykes, 3    |        |                                                                                                         |
+|      |                   |                        |                         | Haydn Morris, 3   |        |                                                                                                         |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1955 |                   | Cliff Morgan           | Jack Siggins            | Frank Sykes, 9    | Won    | South Africa 1955                                                                                       |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1955 |                   | Cliff Morgan           | Jack Siggins            | Doug Baker, 6     | Won    | South Africa 1955                                                                                       |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1955 |                   | Robin Thompson         | Jack Siggins            | Arthur Smith, 15  | Won    | South Africa 1955                                                                                       |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1962 |                   | Arthur Smith           | Harry McKibbin          | Mike Weston, 12   | Won    | South Africa 1962                                                                                       |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1962 | South-West Africa | Dickie Jeeps           | Harry McKibbin          | Mike Weston, 3    | Won    | South Africa 1962                                                                                       |
+|      |                   |                        |                         | Keith Rowlands, 3 |        |                                                                                                         |
+|      |                   |                        |                         | Raymond Hunter, 3 |        |                                                                                                         |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1962 |                   |                        | Harry McKibbin          | Richard Sharp, 14 | Won    | South Africa 1962                                                                                       |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1966 |                   | Mike Campbell-Lamerton | John Robins             | Noel Murphy, 6    | Won    | Australia & New Zealand 1966                                                                            |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1968 |                   | Tom Kiernan            | Ronnie Dawson           | Keith Jarrett, 10 | Won    | South Africa 1968                                                                                       |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1968 | South-West Africa | Jim Telfer             | Ronnie Dawson           | Bob Hiller, 11    | Won    | South Africa 1968                                                                                       |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1974 | South-West Africa | Gareth Edwards         | Syd Millar              | Andy Irvine, 8    | Won    | South Africa 1974                                                                                       |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1974 |                   | Gareth Edwards         | Syd Millar              | Andy Irvine, 22   | Won    | South Africa 1974                                                                                       |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1977 |                   | Phil Bennett           | John Dawes              | Phil Bennett, 13  | Lost   | New Zealand 1977                                                                                        |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1977 | Barbarian F.C.    | Phil Bennett           | John Dawes              | Phil Bennett, 8   | Won    | Home match as part of Queen Elizabeth II's Silver Jubilee celebrations after returning from New Zealand |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1986 | The Rest          | Colin Deans            | Mick Doyle              | John Beattie, 4   | Lost   | Home match as part of IRB centenary celebrations                                                        |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1989 |                   | Rob Andrew             | Ian McGeechan           |                   | Won    | One-off match as part of French bi-centennial celebrations                                              |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 1990 | Rest of Europe    | David Sole             | Roger Uttley            |                   | Won    | Charity match in aid of Romania. Not billed as Lions, but as Four Home Unions                           |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 2005 |                   | Michael Owen           |                         |                   | Draw   | 2005 New Zealand tour warm-up – Home match                                                              |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
+| 2013 | Barbarians F.C.   | Paul O'Connell         | Warren Gatland          | Owen Farrell, 15  | Won    | 2013 Australia tour warm-up – Away match                                                                |
++------+-------------------+------------------------+-------------------------+-------------------+--------+---------------------------------------------------------------------------------------------------------+
 
 Notes
 

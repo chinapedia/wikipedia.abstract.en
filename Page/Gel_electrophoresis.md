@@ -1,15 +1,3 @@
-DNAgel4wiki.png
-
-Gel_Electrophoresis.svg
-
-Gel Electrophoresis is a process where an electric current is applied to DNA samples creating fragments that can be used for comparison between DNA samples.
-1) DNA is extracted.
-2) Isolation and amplification of DNA.
-3) DNA added to the gel wells.
-4) Electric current applied to the gel.
-5) DNA bands are separated by size.
-6) DNA bands are stained.
-
 GEL ELECTROPHORESIS is a method for separation and analysis of macromolecules (DNA, RNA and proteins) and their fragments, based on their size and charge. It is used in clinical chemistry to separate proteins by charge or size (IEF agarose, essentially size independent) and in biochemistry and molecular biology to separate a mixed population of DNA and RNA fragments by length, to estimate the size of DNA and RNA fragments or to separate proteins by charge.[1]
 
 Nucleic acid molecules are separated by applying an electric field to move the negatively charged molecules through a matrix of agarose or other substances. Shorter molecules move faster and migrate farther than longer ones because shorter molecules migrate more easily through the pores of the gel. This phenomenon is called sieving.[2] Proteins are separated by charge in agarose because the pores of the gel are too large to sieve proteins. Gel electrophoresis can also be used for separation of nanoparticles.
@@ -19,7 +7,7 @@ Gel electrophoresis uses a gel as an anticonvective medium or sieving medium dur
 
 Physical basis
 
-SDS-PAGE_Electrophoresis.png In simple terms, electrophoresis is a process which enables the sorting of molecules based on size. Using an electric field, molecules (such as DNA) can be made to move through a gel made of agarose or polyacrylamide. The electric field consists of a negative charge at one end which pushes the molecules through the gel, and a positive charge at the other end that pulls the molecules through the gel. The molecules being sorted are dispensed into a well in the gel material. The gel is placed in an electrophoresis chamber, which is then connected to a power source. When the electric current is applied, the larger molecules move more slowly through the gel while the smaller molecules move faster. The different sized molecules form distinct bands on the gel.
+In simple terms, electrophoresis is a process which enables the sorting of molecules based on size. Using an electric field, molecules (such as DNA) can be made to move through a gel made of agarose or polyacrylamide. The electric field consists of a negative charge at one end which pushes the molecules through the gel, and a positive charge at the other end that pulls the molecules through the gel. The molecules being sorted are dispensed into a well in the gel material. The gel is placed in an electrophoresis chamber, which is then connected to a power source. When the electric current is applied, the larger molecules move more slowly through the gel while the smaller molecules move faster. The different sized molecules form distinct bands on the gel.
 
 The term "gel" in this instance refers to the matrix used to contain, then separate the target molecules. In most cases, the gel is a crosslinked polymer whose composition and porosity is chosen based on the specific weight and composition of the target to be analyzed. When separating proteins or small nucleic acids (DNA, RNA, or oligonucleotides) the gel is usually composed of different concentrations of acrylamide and a cross-linker, producing different sized mesh networks of polyacrylamide. When separating larger nucleic acids (greater than a few hundred bases), the preferred matrix is purified agarose. In both cases, the gel forms a solid, yet porous matrix. Acrylamide, in contrast to polyacrylamide, is a neurotoxin and must be handled using appropriate safety precautions to avoid poisoning. Agarose is composed of long unbranched chains of uncharged carbohydrate without cross links resulting in a gel with large pores allowing for the separation of macromolecules and macromolecular complexes.
 
@@ -59,8 +47,6 @@ Gel conditions
 
 Denaturing
 
-TTGE_profiles_representing_the_bifidobacterial_diversity_of_fecal_samples_journal_pone_0050257_g004.png
-
 Denaturing gels are run under conditions that disrupt the natural structure of the analyte, causing it to unfold into a linear chain. Thus, the mobility of each macromolecule depends only on its linear length and its mass-to-charge ratio. Thus, the secondary, tertiary, and quaternary levels of biomolecular structure are disrupted, leaving only the primary structure to be analyzed.
 
 Nucleic acids are often denatured by including urea in the buffer, while proteins are denatured using sodium dodecyl sulfate, usually as part of the SDS-PAGE process. For full denaturation of proteins, it is also necessary to reduce the covalent disulfide bonds that stabilize their tertiary and quaternary structure, a method called reducing PAGE. Reducing conditions are usually maintained by the addition of beta-mercaptoethanol or dithiothreitol. For general analysis of protein samples, reducing PAGE is the most common form of protein electrophoresis.
@@ -71,7 +57,7 @@ Denaturing gel electrophoresis is used in the DNA and RNA banding pattern-based 
 
 Native
 
-Glucose-6-Phosphate_Dehydrogenase_activity_stain.jpg isoenzymes in _Plasmodium falciparum_ infected Red blood cells[17]]]
+isoenzymes in _Plasmodium falciparum_ infected Red blood cells[17]]]
 
 Native gels are run in non-denaturing conditions, so that the analyte's natural structure is maintained. This allows the physical size of the folded or assembled complex to affect the mobility, allowing for analysis of all four levels of the biomolecular structure. For biological samples, detergents are used only to the extent that they are necessary to lyse lipid membranes in the cell. Complexes remain—for the most part—associated and folded as they would be in the cell. One downside, however, is that complexes may not separate cleanly or predictably, as it is difficult to predict how the molecule's shape and size will affect its mobility. Addressing and solving this problem is a major aim of quantitative native PAGE.
 
@@ -111,7 +97,7 @@ Depending on the type of analysis being performed, other techniques are often im
 
 Nucleic acids
 
-Pcr_gel.png product compared to a DNA ladder.]]
+product compared to a DNA ladder.]]
 
 In the case of nucleic acids, the direction of migration, from negative to positive electrodes, is due to the naturally occurring negative charge carried by their sugar-phosphate backbone.[21]
 
@@ -123,7 +109,7 @@ Electrophoresis of RNA samples can be used to check for genomic DNA contaminatio
 
 Proteins
 
-SDSPAGE.png''' – The indicated proteins are present in different concentrations in the two samples.]] Proteins, unlike nucleic acids, can have varying charges and complex shapes, therefore they may not migrate into the polyacrylamide gel at similar rates, or at all, when placing a negative to positive EMF on the sample. Proteins therefore, are usually denatured in the presence of a detergent such as sodium dodecyl sulfate (SDS) that coats the proteins with a negative charge.[23] Generally, the amount of SDS bound is relative to the size of the protein (usually 1.4g SDS per gram of protein), so that the resulting denatured proteins have an overall negative charge, and all the proteins have a similar charge-to-mass ratio. Since denatured proteins act like long rods instead of having a complex tertiary shape, the rate at which the resulting SDS coated proteins migrate in the gel is relative only to its size and not its charge or shape.[24]
+''' – The indicated proteins are present in different concentrations in the two samples.]] Proteins, unlike nucleic acids, can have varying charges and complex shapes, therefore they may not migrate into the polyacrylamide gel at similar rates, or at all, when placing a negative to positive EMF on the sample. Proteins therefore, are usually denatured in the presence of a detergent such as sodium dodecyl sulfate (SDS) that coats the proteins with a negative charge.[23] Generally, the amount of SDS bound is relative to the size of the protein (usually 1.4g SDS per gram of protein), so that the resulting denatured proteins have an overall negative charge, and all the proteins have a similar charge-to-mass ratio. Since denatured proteins act like long rods instead of having a complex tertiary shape, the rate at which the resulting SDS coated proteins migrate in the gel is relative only to its size and not its charge or shape.[24]
 
 Proteins are usually analyzed by sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE), by native gel electrophoresis, by preparative gel electrophoresis (QPNC-PAGE), or by 2-D electrophoresis.
 

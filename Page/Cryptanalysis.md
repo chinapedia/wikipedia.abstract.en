@@ -1,4 +1,4 @@
-FIALKA-rotors-in-machine.jpg cipher machine]]
+cipher machine]]
 
 CRYPTANALYSIS (from the Greek _kryptós_, "hidden", and _analýein_, "to loosen" or "to untie") is the study of analyzing information systems in order to study the hidden aspects of the systems.[1] Cryptanalysis is used to breach cryptographic security systems and gain access to the contents of encrypted messages, even if the cryptographic key is unknown.
 
@@ -50,7 +50,7 @@ In academic cryptography, a _weakness_ or a _break_ in a scheme is usually defin
 
 History
 
-Zimmermann-telegramm-offen.jpg.]] Cryptanalysis has coevolved together with cryptography, and the contest can be traced through the history of cryptography—new ciphers being designed to replace old broken designs, and new cryptanalytic techniques invented to crack the improved schemes. In practice, they are viewed as two sides of the same coin: secure cryptography requires design against possible cryptanalysis.
+.]] Cryptanalysis has coevolved together with cryptography, and the contest can be traced through the history of cryptography—new ciphers being designed to replace old broken designs, and new cryptanalytic techniques invented to crack the improved schemes. In practice, they are viewed as two sides of the same coin: secure cryptography requires design against possible cryptanalysis.
 
 Successful cryptanalysis has undoubtedly influenced history; the ability to read the presumed-secret thoughts and plans of others can be a decisive advantage. For example, in England in 1587, Mary, Queen of Scots was tried and executed for treason as a result of her involvement in three plots to assassinate Elizabeth I of England. The plans came to light after her coded correspondence with fellow conspirators was deciphered by Thomas Phelippes.
 
@@ -60,7 +60,7 @@ Governments have long recognized the potential benefits of cryptanalysis for int
 
 Classical ciphers
 
-Al-kindi-cryptanalysis.png's 9th century _Manuscript on Deciphering Cryptographic Messages_]]
+'s 9th century _Manuscript on Deciphering Cryptographic Messages_]]
 
 Although the actual word "_cryptanalysis_" is relatively recent (it was coined by William Friedman in 1920), methods for breaking codes and ciphers are much older. The first known recorded explanation of cryptanalysis was given by 9th-century Arab[12][13] polymath, Al-Kindi (also known as "Alkindus" in Europe), in _A Manuscript on Deciphering Cryptographic Messages_. This treatise includes a description of the method of frequency analysis (Ibrahim Al-Kadi, 1992- ref-3). Italian scholar Giambattista della Porta was author of a seminal work on cryptanalysis _"De Furtivis Literarum Notis"._[14]
 
@@ -118,7 +118,7 @@ Knowledge of a key of course allows the analyst to read other messages encrypted
 
 Development of modern cryptography
 
-TuringBombeBletchleyPark.jpg replicated the action of several Enigma machines wired together. Each of the rapidly rotating drums, pictured above in a Bletchley Park museum mockup, simulated the action of an Enigma rotor.]]
+replicated the action of several Enigma machines wired together. Each of the rapidly rotating drums, pictured above in a Bletchley Park museum mockup, simulated the action of an Enigma rotor.]]
 
 Even though computation was used to great effect in Cryptanalysis of the Lorenz cipher and other systems during World War II, it also made possible new methods of cryptography orders of magnitude more complex than ever before. Taken as a whole, modern cryptography has become much more impervious to cryptanalysis than the pen-and-paper systems of the past, and now seems to have the upper hand against pure cryptanalysis. The historian David Kahn notes:
 

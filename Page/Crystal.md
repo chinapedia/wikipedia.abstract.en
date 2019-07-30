@@ -1,4 +1,4 @@
-Amethystemadagascar2.jpg quartz]] Crystalline_polycrystalline_amorphous2.svg has atoms in a near-perfect periodic arrangement; a polycrystal is composed of many microscopic crystals (called "crystallites" or "grains"); and an amorphous solid (such as glass) has no periodic arrangement even microscopically.]]
+quartz]] has atoms in a near-perfect periodic arrangement; a polycrystal is composed of many microscopic crystals (called "crystallites" or "grains"); and an amorphous solid (such as glass) has no periodic arrangement even microscopically.]]
 
 A CRYSTAL or CRYSTALLINE SOLID is a solid material whose constituents (such as atoms, molecules, or ions) are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions.[1][2] In addition, macroscopic single crystals are usually identifiable by their geometrical shape, consisting of flat faces with specific, characteristic orientations. The scientific study of crystals and crystal formation is known as crystallography. The process of crystal formation via mechanisms of crystal growth is called crystallization or solidification.
 
@@ -24,7 +24,7 @@ The symmetry of a crystal is constrained by the requirement that the unit cells 
 
 Crystal faces and shapes
 
-Crystal_facet_formation.svg crystal is growing, new atoms can very easily attach to the parts of the surface with rough atomic-scale structure and many dangling bonds. Therefore, these parts of the crystal grow out very quickly (yellow arrows). Eventually, the whole surface consists of smooth, stable faces, where new atoms cannot as easily attach themselves.]] Crystals are commonly recognized by their shape, consisting of flat faces with sharp angles. These shape characteristics are not _necessary_ for a crystal—a crystal is scientifically defined by its microscopic atomic arrangement, not its macroscopic shape—but the characteristic macroscopic shape is often present and easy to see.
+crystal is growing, new atoms can very easily attach to the parts of the surface with rough atomic-scale structure and many dangling bonds. Therefore, these parts of the crystal grow out very quickly (yellow arrows). Eventually, the whole surface consists of smooth, stable faces, where new atoms cannot as easily attach themselves.]] Crystals are commonly recognized by their shape, consisting of flat faces with sharp angles. These shape characteristics are not _necessary_ for a crystal—a crystal is scientifically defined by its microscopic atomic arrangement, not its macroscopic shape—but the characteristic macroscopic shape is often present and easy to see.
 
 Euhedral crystals are those with obvious, well-formed flat faces. Anhedral crystals do not, usually because the crystal is one grain in a polycrystalline solid.
 
@@ -37,7 +37,7 @@ A crystal's habit is its visible external shape. This is determined by the cryst
 
 Occurrence in nature
 
-Ice_crystals.jpg crystals]] CalciteEchinosphaerites.jpg shell with calcite crystals]]
+crystals]] shell with calcite crystals]]
 
 Rocks
 
@@ -69,7 +69,7 @@ Polyamorphism is a similar phenomenon where the same atoms can exist in more tha
 
 Crystallization
 
-1-cooling-crystallizer-schladen.JPG in a beet sugar factory.]] Crystallization is the process of forming a crystalline structure from a fluid or from materials dissolved in a fluid. (More rarely, crystals may be deposited directly from gas; see thin-film deposition and epitaxy.)
+in a beet sugar factory.]] Crystallization is the process of forming a crystalline structure from a fluid or from materials dissolved in a fluid. (More rarely, crystals may be deposited directly from gas; see thin-film deposition and epitaxy.)
 
 Crystallization is a complex and extensively-studied field, because depending on the conditions, a single fluid can solidify into many different possible forms. It can form a single crystal, perhaps with various possible phases, stoichiometries, impurities, defects, and habits. Or, it can form a polycrystal, with various possibilities for the size, arrangement, orientation, and phase of its grains. The final form of the solid is determined by the conditions under which the fluid is being solidified, such as the chemistry of the fluid, the ambient pressure, the temperature, and the speed with which all these parameters are changing.
 
@@ -82,13 +82,13 @@ Crystals can also be formed by biological processes, see above. Conversely, some
 
 Defects, impurities, and twinning
 
-Vector_de_Burgers.PNG. Bottom right: screw dislocation.]] An _ideal_ crystal has every atom in a perfect, exactly repeating pattern.[15] However, in reality, most crystalline materials have a variety of crystallographic defects, places where the crystal's pattern is interrupted. The types and structures of these defects may have a profound effect on the properties of the materials.
+. Bottom right: screw dislocation.]] An _ideal_ crystal has every atom in a perfect, exactly repeating pattern.[15] However, in reality, most crystalline materials have a variety of crystallographic defects, places where the crystal's pattern is interrupted. The types and structures of these defects may have a profound effect on the properties of the materials.
 
 A few examples of crystallographic defects include vacancy defects (an empty space where an atom should fit), interstitial defects (an extra atom squeezed in where it does not fit), and dislocations (see figure at right). Dislocations are especially important in materials science, because they help determine the mechanical strength of materials.
 
 Another common type of crystallographic defect is an impurity, meaning that the "wrong" type of atom is present in a crystal. For example, a perfect crystal of diamond would only contain carbon atoms, but a real crystal might perhaps contain a few boron atoms as well. These boron impurities change the diamond's color to slightly blue. Likewise, the only difference between ruby and sapphire is the type of impurities present in a corundum crystal.
 
-Pyrite_60608.jpg pyrite crystal group.]] In semiconductors, a special type of impurity, called a dopant, drastically changes the crystal's electrical properties. Semiconductor devices, such as transistors, are made possible largely by putting different semiconductor dopants into different places, in specific patterns.
+pyrite crystal group.]] In semiconductors, a special type of impurity, called a dopant, drastically changes the crystal's electrical properties. Semiconductor devices, such as transistors, are made possible largely by putting different semiconductor dopants into different places, in specific patterns.
 
 Twinning is a phenomenon somewhere between a crystallographic defect and a grain boundary. Like a grain boundary, a twin boundary has different crystal orientations on its two sides. But unlike a grain boundary, the orientations are not random, but related in a specific, mirror-image way.
 
@@ -104,7 +104,7 @@ Metals are almost always polycrystalline, though there are exceptions like amorp
 
 Quasicrystals
 
-Ho-Mg-ZnQuasicrystal.jpg (Ho–Mg–Zn) forms quasicrystals, which can take on the macroscopic shape of a dodecahedron. (Only a quasicrystal, not a normal crystal, can take this shape.) The edges are 2 mm long.]] A quasicrystal consists of arrays of atoms that are ordered but not strictly periodic. They have many attributes in common with ordinary crystals, such as displaying a discrete pattern in x-ray diffraction, and the ability to form shapes with smooth, flat faces.
+(Ho–Mg–Zn) forms quasicrystals, which can take on the macroscopic shape of a dodecahedron. (Only a quasicrystal, not a normal crystal, can take this shape.) The edges are 2 mm long.]] A quasicrystal consists of arrays of atoms that are ordered but not strictly periodic. They have many attributes in common with ordinary crystals, such as displaying a discrete pattern in x-ray diffraction, and the ability to form shapes with smooth, flat faces.
 
 Quasicrystals are most famous for their ability to show five-fold symmetry, which is impossible for an ordinary periodic crystal (see crystallographic restriction theorem).
 

@@ -40,7 +40,7 @@ Consort: , Kasuga no Wani no omi Fukame's daughter
 
 King Bu
 
-Inariyama_sword.JPG]]
+]]
 
 According to the Book of Song, a King Bu (武) from Japan dispatched envoys to the Emperor of Liu Song, a minor Chinese dynasty, in both 477 and 478. Communications included a notice that the previous ruler, an older brother, had died, and that Bu had ascended to the throne.[11] The King 'Bu' in this document is believed to refer to Emperor Yūryaku, due to the fact that the character used to write the name (武) is found in the name by which Emperor Yūryaku was called during his lifetime: .
 

@@ -5,9 +5,9 @@ Hammered dulcimers and other similar instruments are traditionally played in Ira
 
 Strings and tuning
 
-HDulcimerScale.png Dulcimer.png Hackbrett_(photozou_168404790).jpg Psalterion_001.jpg pelike from Anzi, Apulia, circa 320–310 BCE.]]
+pelike from Anzi, Apulia, circa 320–310 BCE.]]
 
-Painting_santur.jpg, an instrument similar to the hammered dulcimer (fragment of painting "Musical gathering" by Ibrahim Jabbar-Beik (1923-2002)).]]
+, an instrument similar to the hammered dulcimer (fragment of painting "Musical gathering" by Ibrahim Jabbar-Beik (1923-2002)).]]
 
 A dulcimer usually has two bridges, a bass bridge near the right and a treble bridge on the left side. The bass bridge holds up bass strings, which are played to the left of the bridge. The treble strings can be played on either side of the treble bridge. In the usual construction, playing them on the left side gives a note a fifth higher than playing them on the right of the bridge.
 
@@ -39,12 +39,12 @@ Several traditional players have used hammers that differ substantially from tho
 
 Variants and adaptations
 
-Th._Steinweg_Nachf._Braunschweig.jpg The hammered dulcimer was extensively used during the Middle Ages in England, France, Italy, Germany, the Netherlands, and Spain. Although it had a distinctive name in each country, it was everywhere regarded as a kind of psalterium. The importance of the method of setting the strings in vibration by means of hammers, and its bearing on the acoustics of the instrument, were recognized only when the invention of the pianoforte had become a matter of history. It was then perceived that the psalterium (in which the strings were plucked) and the dulcimer (in which they were struck), when provided with keyboards would give rise to two distinct families of instruments, differing essentially in tone quality, in technique and in capabilities. The evolution of the psalterium resulted in the harpsichord; that of the dulcimer produced the pianoforte.[7]
+The hammered dulcimer was extensively used during the Middle Ages in England, France, Italy, Germany, the Netherlands, and Spain. Although it had a distinctive name in each country, it was everywhere regarded as a kind of psalterium. The importance of the method of setting the strings in vibration by means of hammers, and its bearing on the acoustics of the instrument, were recognized only when the invention of the pianoforte had become a matter of history. It was then perceived that the psalterium (in which the strings were plucked) and the dulcimer (in which they were struck), when provided with keyboards would give rise to two distinct families of instruments, differing essentially in tone quality, in technique and in capabilities. The evolution of the psalterium resulted in the harpsichord; that of the dulcimer produced the pianoforte.[7]
 
 
 Around the world
 
-Oprekelj_-_uglaševanje.jpg Versions of the hammered dulcimer are used throughout the world. In Eastern Europe, a larger descendant of the hammered dulcimer called the cimbalom is played and has been used by a number of classical composers, including Zoltán Kodály, Igor Stravinsky, and Pierre Boulez. The khim is the name used by both the Thai and the Khmer for the hammered dulcimer.
+Versions of the hammered dulcimer are used throughout the world. In Eastern Europe, a larger descendant of the hammered dulcimer called the cimbalom is played and has been used by a number of classical composers, including Zoltán Kodály, Igor Stravinsky, and Pierre Boulez. The khim is the name used by both the Thai and the Khmer for the hammered dulcimer.
 
 The santur or santoor is a type of hammered dulcimer that originated in Mesopotamia and is found in Iran, Iraq, and India.
 

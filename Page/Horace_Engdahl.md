@@ -18,7 +18,7 @@ In October 2008, Engdahl told the _Associated Press_ that the United States is "
 
 In April 2018, the New York Times reported that Engdahl had railed against former Academy members who left following allegations of sexual abuse by Jean-Claude Arnault.[8]
 
-Nobel2008Literature_news_conference1-1.jpg winning the Nobel Prize for Literature on October 9, 2008.]]
+winning the Nobel Prize for Literature on October 9, 2008.]]
 
 
 Bibliography

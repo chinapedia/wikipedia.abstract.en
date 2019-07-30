@@ -1,4 +1,4 @@
-Sea_nettles.jpg, _Chrysaora fuscescens_]]
+, _Chrysaora fuscescens_]]
 
 CNIDARIA () is a phylum under Kingdom Animalia containing over 11,000 species[1] of animals found exclusively in aquatic (freshwater and marine) environments: they are predominantly marine.
 
@@ -37,7 +37,7 @@ Description
 
 Basic body forms
 
-Actinodiscus_macro.JPG polyp, with close-up of the mouth]] Most adult cnidarians appear as either free-swimming medusae or sessile polyps, and many hydrozoans species are known to alternate between the two forms.
+polyp, with close-up of the mouth]] Most adult cnidarians appear as either free-swimming medusae or sessile polyps, and many hydrozoans species are known to alternate between the two forms.
 
 Both are radially symmetrical, like a wheel and a tube respectively. Since these animals have no heads, their ends are described as "oral" (nearest the mouth) and "aboral" (furthest from the mouth).
 
@@ -70,13 +70,11 @@ Cnidocytes
 
 These "nettle cells" function as harpoons, since their payloads remain connected to the bodies of the cells by threads. Three types of cnidocytes are known:[36][37]
 
-Hydra_nematocyst_firing_01.png
-
 -   Nematocysts inject venom into prey, and usually have barbs to keep them embedded in the victims. Most species have nematocysts.[38]
 -   Spirocysts do not penetrate the victim or inject venom, but entangle it by means of small sticky hairs on the thread.
 -   Ptychocysts are not used for prey capture — instead the threads of discharged ptychocysts are used for building protective tubes in which their owners live. Ptychocysts are found only in the order Ceriantharia, tube anemones.[39]
 
-The main components of a cnidocyte are:[40][41] Hydra_nematocyst_01.png's nematocyst, before firing.
+The main components of a cnidocyte are:[40][41] 's nematocyst, before firing.
 "trigger" cilium[42]]]
 
 -   A cilium (fine hair) which projects above the surface and acts as a trigger. Spirocysts do not have cilia.
@@ -97,7 +95,7 @@ Cnidocytes can only fire once, and about 25% of a hydra's nematocysts are lost f
 
 Locomotion
 
-Chrysaora_quinquecirrha-Sea_nettle_(jellyfish).ogg'')]] Medusae swim by a form of jet propulsion: muscles, especially inside the rim of the bell, squeeze water out of the cavity inside the bell, and the springiness of the mesoglea powers the recovery stroke. Since the tissue layers are very thin, they provide too little power to swim against currents and just enough to control movement within currents.[48]
+'')]] Medusae swim by a form of jet propulsion: muscles, especially inside the rim of the bell, squeeze water out of the cavity inside the bell, and the springiness of the mesoglea powers the recovery stroke. Since the tissue layers are very thin, they provide too little power to swim against currents and just enough to control movement within currents.[48]
 
 Hydras and some sea anemones can move slowly over rocks and sea or stream beds by various means: creeping like snails, crawling like inchworms, or by somersaulting. A few can swim clumsily by waggling their bases.[49]
 
@@ -197,7 +195,7 @@ Coral reefs form some of the world's most productive ecosystems. Common coral re
 
 Evolutionary history
 
-Cladocora.jpg'' from Pliocene rocks in Cyprus]]
+'' from Pliocene rocks in Cyprus]]
 
 Fossil record
 
@@ -208,8 +206,6 @@ A few mineralized fossils that resemble corals have been found in rocks from the
 Family tree
 
 It is difficult to reconstruct the early stages in the evolutionary "family tree" of animals using only morphology (their shapes and structures), because the large differences between Porifera (sponges), Cnidaria plus Ctenophora (comb jellies), Placozoa and Bilateria (all the more complex animals) make comparisons difficult. Hence reconstructions now rely largely or entirely on molecular phylogenetics, which groups organisms according to similarities and differences in their biochemistry, usually in their DNA or RNA.[120]
-
-Radiata_diversity.jpg
 
 It is now generally thought that the Calcarea (sponges with calcium carbonate spicules) are more closely related to Cnidaria, Ctenophora (comb jellies) and Bilateria (all the more complex animals) than they are to the other groups of sponges.[121][122][123] In 1866 it was proposed that Cnidaria and Ctenophora were more closely related to each other than to Bilateria and formed a group called Coelenterata ("hollow guts"), because Cnidaria and Ctenophora both rely on the flow of water in and out of a single cavity for feeding, excretion and respiration. In 1881, it was proposed that Ctenophora and Bilateria were more closely related to each other, since they shared features that Cnidaria lack, for example muscles in the middle layer (mesoglea in Ctenophora, mesoderm in Bilateria). However more recent analyses indicate that these similarities are rather vague, and the current view, based on molecular phylogenetics, is that Cnidaria and Bilateria are more closely related to each other than either is to Ctenophora. This grouping of Cnidaria and Bilateria has been labelled "Planulozoa" because it suggests that the earliest Bilateria were similar to the planula larvae of Cnidaria.[124][125]
 
@@ -224,7 +220,7 @@ The mitochondrial genome in the medusozoan cnidarians, unlike those in other ani
 
 Interaction with humans
 
-Cubozoas.JPG'', one of the known species of box jellyfish which can cause Irukandji syndrome.]]
+'', one of the known species of box jellyfish which can cause Irukandji syndrome.]]
 
 Jellyfish stings killed about 1,500 people in the 20th century,[132] and cubozoans are particularly dangerous. On the other hand, some large jellyfish are considered a delicacy in East and Southeast Asia. Coral reefs have long been economically important as providers of fishing grounds, protectors of shore buildings against currents and tides, and more recently as centers of tourism. However, they are vulnerable to over-fishing, mining for construction materials, pollution, and damage caused by tourism.
 

@@ -1,4 +1,4 @@
-Pacific_Ocean.png HISTORY OF THE PACIFIC ISLANDS covers the history of the islands in the Pacific Ocean.
+HISTORY OF THE PACIFIC ISLANDS covers the history of the islands in the Pacific Ocean.
 
 
 Histories
@@ -93,7 +93,7 @@ The history of Tonga stretches back to around roughly 1000 AD,[21] when the Pol
 
 Tuvalu
 
-Tuvalu_costume.jpg in 1841 during the United States Exploring Expedition.]]
+in 1841 during the United States Exploring Expedition.]]
 
 The history of Tuvalu dates back to at least 1,000 years to when it was discovered and settled by Polynesians. the origins of the people of Tuvalu is addressed in the theories regarding the spread of humans out of Southeast Asia, from Taiwan, via Melanesia and across the Pacific islands to create Polynesia.[22]
 

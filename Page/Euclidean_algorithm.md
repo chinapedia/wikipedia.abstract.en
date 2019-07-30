@@ -1,4 +1,4 @@
-Euclid's_algorithm_Book_VII_Proposition_2_3.png' example with numbers 49 and 21 resulting in their GCD of 7 (derived from Heath 1908:300).]]
+' example with numbers 49 and 21 resulting in their GCD of 7 (derived from Heath 1908:300).]]
 
 In mathematics, the EUCLIDEAN ALGORITHM,[1] or EUCLID'S ALGORITHM, is an efficient method for computing the greatest common divisor (GCD) of two numbers, the largest number that divides both of them without leaving a remainder. It is named after the ancient Greek mathematician Euclid, who first described it in his _Elements_ (c. 300 BC). It is an example of an _algorithm_, a step-by-step procedure for performing a calculation according to well-defined rules, and is one of the oldest algorithms in common use. It can be used to reduce fractions to their simplest form, and is a part of many other number-theoretic and cryptographic calculations.
 
@@ -14,8 +14,6 @@ Background: greatest common divisor
 The Euclidean algorithm calculates the greatest common divisor (GCD) of two natural numbers _a_ and _b_. The greatest common divisor _g_ is the largest natural number that divides both _a_ and _b_ without leaving a remainder. Synonyms for the GCD include the _greatest common factor_ (GCF), the _highest common factor_ (HCF), the _highest common divisor_ (HCD), and the _greatest common measure_ (GCM). The greatest common divisor is often written as gcd(_a_, _b_) or, more simply, as (_a_, _b_),[2] although the latter notation is ambiguous, also used for concepts such as an ideal in the ring of integers, which is closely related to GCD.
 
 If gcd(_a_, _b_) = 1, then _a_ and _b_ are said to be coprime (or relatively prime).[3] This property does not imply that _a_ or _b_ are themselves prime numbers.[4] For example, neither 6 nor 35 is a prime number, since they both have two prime factors: 6 = 2 × 3 and 35 = 5 × 7. Nevertheless, 6 and 35 are coprime. No natural number other than 1 divides both 6 and 35, since they have no prime factors in common.
-
-24x60.svg
 
 Let _g_ = gcd(_a_, _b_). Since _a_ and _b_ are both multiples of _g_, they can be written _a_ = _mg_ and _b_ = _ng_, and there is no larger number _G_ > _g_ for which this is true. The natural numbers _m_ and _n_ must be coprime, since any common factor could be factored out of _m_ and _n_ to make _g_ greater. Thus, any other number _c_ that divides both _a_ and _b_ must also divide _g_. The greatest common divisor _g_ of _a_ and _b_ is the unique (positive) common divisor of _a_ and _b_ that is divisible by any other common divisor _c_.[5]
 
@@ -77,8 +75,6 @@ In the second step, any natural number _c_ that divides both _a_ and _b_ (in oth
 
 
 Worked example
-
-Euclidean_algorithm_1071_462.gif
 
 For illustration, the Euclidean algorithm can be used to find the greatest common divisor of _a_ = 1071 and _b_ = 462. To begin, multiples of 462 are subtracted from 1071 until the remainder is less than 462. Two such multiples can be subtracted (_q_₀ = 2), leaving a remainder of 147:
 
@@ -182,7 +178,7 @@ Leopold Kronecker has shown that this version requires the least number of steps
 
 Historical development
 
-Euklid.jpg, depicted here holding a compass in a painting of about 1474.]]
+, depicted here holding a compass in a painting of about 1474.]]
 
 The Euclidean algorithm is one of the oldest algorithms in common use.[28] It appears in Euclid's _Elements_ (c. 300 BC), specifically in Book 7 (Propositions 1–2) and Book 10 (Propositions 2–3). In Book 7, the algorithm is formulated for integers, whereas in Book 10, it is formulated for lengths of line segments. (In modern usage, one would say it was formulated there for real numbers. But lengths, areas, and volumes, represented as real numbers in modern usage, are not measured in the same units and there is no natural unit of length, area, or volume; the concept of real numbers was unknown at that time.) The latter algorithm is geometrical. The GCD of two lengths _a_ and _b_ corresponds to the greatest length _g_ that measures _a_ and _b_ evenly; in other words, the lengths _a_ and _b_ are both integer multiples of the length _g_.
 
@@ -328,7 +324,7 @@ Since each prime _p_ divides _L_ by assumption, it must also divide one of the _
 
 Linear Diophantine equations
 
-Diophante_Bezout.svg, 9_x_ + 12_y_ = 483. The solutions are shown as blue circles.]]
+, 9_x_ + 12_y_ = 483. The solutions are shown as blue circles.]]
 
 Diophantine equations are equations in which the solutions are restricted to integers; they are named after the 3rd-century Alexandrian mathematician Diophantus.[73] A typical _linear_ Diophantine equation seeks integers _x_ and _y_ such that[74]
 
@@ -397,8 +393,6 @@ The Euclidean algorithm can be used to arrange the set of all positive rational 
 
 For example, 3/4 can be found by starting at the root, going to the left once, then to the right twice:
 
-SternBrocotTree.svg
-
 $$\begin{align}
  & \gcd(3,4) & \leftarrow \\
 = {} & \gcd(3,1) & \rightarrow \\
@@ -447,7 +441,7 @@ Calculating a greatest common divisor is an essential step in several integer fa
 
 Algorithmic efficiency
 
-Euclidean_Algorithm_Running_Time.svg.]]
+.]]
 
 The computational efficiency of Euclid's algorithm has been studied thoroughly.[92] This efficiency can be described by the number of division steps the algorithm requires, multiplied by the computational expense of each step. The first known analysis of Euclid's algorithm is due to A. A. L. Reynaud in 1811,[93] who showed that the number of division steps on input (_u_, _v_) is bounded by _v_; later he improved this to _v_/2  + 2. Later, in 1841, P. J. E. Finck showed[94] that the number of division steps is at most 2 log₂ _v_ + 1, and hence Euclid's algorithm runs in time polynomial in the size of the input.[95] Émile Léger, in 1837, studied the worst case, which is when the inputs are consecutive Fibonacci numbers.[96] Finck's analysis was refined by Gabriel Lamé in 1844,[97] who showed that the number of steps required for completion is never more than five times the number _h_ of base-10 digits of the smaller number _b_.[98][99]
 
@@ -591,8 +585,6 @@ The polynomial Euclidean algorithm has other applications, such as Sturm chains,
 Finally, the coefficients of the polynomials need not be drawn from integers, real numbers or even the complex numbers. For example, the coefficients may be drawn from a general field, such as the finite fields described above. The corresponding conclusions about the Euclidean algorithm and its applications hold even for such polynomials.[161]
 
 Gaussian integers
-
-Gaussian_primes.png
 
 The Gaussian integers are complex numbers of the form , where and are ordinary integers[162] and is the square root of negative one.[163] By defining an analog of the Euclidean algorithm, Gaussian integers can be shown to be uniquely factorizable, by the argument above.[164] This unique factorization is helpful in many applications, such as deriving all Pythagorean triples or proving Fermat's theorem on sums of two squares.[165] In general, the Euclidean algorithm is convenient in such applications, but not essential; for example, the theorems can often be proven by other arguments.
 

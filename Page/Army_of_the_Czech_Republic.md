@@ -17,7 +17,7 @@ The Czechoslovak Armed Forces were originally formed on 30 June 1918 when 6,000 
 
 In 1938, servicemen of the Czechoslovak Army and the State Defense Guard fought in an undeclared border war against the German-backed Sudetendeutsches Freikorps as well as Polish and Hungarian paramilitary forces. As a result of the Munich Agreement, areas heavily populated by ethnic German speaking people were incorporated into the Third Reich and military aged men living there were subject to being drafted into the Wehrmacht. Following the Czechoslovakia's complete annexation in 1939 and creation of the Protectorate of Bohemia and Moravia, the Protectorate's government possessed its own armed force, the Government Army (6,500 men), tasked with public security and rearguard duties. On the other side of the conflict, a number of Czechoslovak units and formations served with the Polish Army (Czechoslovak Legion), the French Army, the Royal Air Force, the British Army (the 1st Czechoslovak Armoured Brigade), and the Red Army (I Corps). Four Czech and Slovak-manned RAF squadrons were transferred to Czechoslovak control in late 1945.
 
-Czech_army_Sgt._Van_Kmecik_and_Croatian_army_Master_Sgt._Bravko_Horvat_discuss_patrol_routes.jpg soldier discusses patrol routes with a Czech Army soldier (left)]]
+soldier discusses patrol routes with a Czech Army soldier (left)]]
 
 From 1954[8] until 1990, the Army was known as the Czechoslovak People's Army (ČSLA).[9] Although the ČSLA, as formed in 1945, included both Soviet- and British-equipped/trained expatriate troops, the "Western" soldiers had been purged from the ČSLA after 1948 when the communists took power. The ČSLA offered no resistance to the invasion mounted by the Soviets in 1968 in reaction to the "Prague Spring", and was extensively reorganized by the Soviets following the re-imposition of communist rule in Prague.
 
@@ -27,7 +27,7 @@ During the Cold War, the ČSLA was equipped primarily with Soviet arms, although
 
 After 1992 (dissolution of Czechoslovakia)
 
-Afghanistan_-_Czech_BVP2_tanks_are_firing.JPG firing in Afghanistan]] Czech_soldiers_participate_in_exercise_Combined_Resolve_at_the_Joint_Multinational_Readiness_Center_in_Hohenfels,_Germany,_Nov._15,_2013_131115-A-HE359-010.jpg]] The Army of the Czech Republic was formed after the Czechoslovak Armed Forces split after the 1 January 1993 dissolution of Czechoslovakia. Czech forces stood at 90,000 in 1993. They were reduced to around 65,000 in 11 combat brigades and the Air Force in 1997, to 63,601 in 1999,[12] and to 35,000 in 2005. At the same time, the forces were modernized and reoriented towards a defensive posture. In 2004, the army transformed itself into a fully professional organization and compulsory military service was abolished. The Army maintains an active reserve.
+firing in Afghanistan]] ]] The Army of the Czech Republic was formed after the Czechoslovak Armed Forces split after the 1 January 1993 dissolution of Czechoslovakia. Czech forces stood at 90,000 in 1993. They were reduced to around 65,000 in 11 combat brigades and the Air Force in 1997, to 63,601 in 1999,[12] and to 35,000 in 2005. At the same time, the forces were modernized and reoriented towards a defensive posture. In 2004, the army transformed itself into a fully professional organization and compulsory military service was abolished. The Army maintains an active reserve.
 
 The Czech Republic is a member of the United Nations and the Organization for Security and Co-operation in Europe. At the 1999 Washington summit, the Czech Republic joined NATO. Since 1990, the ACR and the Czech Armed Forces have contributed to numerous peacekeeping and humanitarian operations, including IFOR, SFOR, and EUFOR Althea in Bosnia, Desert Shield/Desert Storm, Afghanistan, Kosovo, Albania, Turkey, Pakistan and with the Coalition forces in Iraq.
 
@@ -56,11 +56,11 @@ Structure
 
 Many of the duties of the President of the Czech Republic can be said to be ceremonial to one degree or another, especially since the President has relatively few powers independent of the will of the Prime Minister. One of those is the status as commander in chief of the military; no part of these duties can take place but through the assent of the Prime Minister. In matters of war, he is in every sense merely a figurehead, since the Constitution gives all substantive constitutional authority over the use of the armed forces to the Parliament.[13][14] In fact, the only specific thing the constitution allows the President to do with respect to the military is to appoint its generalsbut even this must be done with the signature of the Prime Minister.[15]
 
-Czech_Forces.png Structure of the Czech Armed Forces consists of two parts:[16]
+Structure of the Czech Armed Forces consists of two parts:[16]
 
 -   General Staff of Czech Armed Forces (Praha)
-    -   Znak_PS_AČR.jpg Czech Land Forces (Praha)
-    -   Emblem_of_Czech_Air_Force.svg Czech Air Force (Praha)
+    -   Czech Land Forces (Praha)
+    -   Czech Air Force (Praha)
 
 The 153rd Engineer Battalion based in Olomouc was created on 15 October 2008 and is subordinated to the 15th Engineer Regiment. The unit is stationed in the outskirts of the city of Olomouc, in place of the canceled 156th Rescue Battalion.[17]
 

@@ -1,4 +1,4 @@
-Sugar-Hogsheads_-_Ten_Views_in_the_Island_of_Antigua_(1823),_plate_X_-_BL.jpg US-Stamp-Beer-1867-2_dollars_(1_hogshead).jpg (proof) for the $2 tax on one hogshead of beer in 1867.]] A HOGSHEAD (abbreviated "Hhd", plural "Hhds") is a large cask of liquid (or, less often, of a food commodity). More specifically, it refers to a specified volume, measured in either imperial or US customary measures, primarily applied to alcoholic beverages, such as wine, ale, or cider.
+(proof) for the $2 tax on one hogshead of beer in 1867.]] A HOGSHEAD (abbreviated "Hhd", plural "Hhds") is a large cask of liquid (or, less often, of a food commodity). More specifically, it refers to a specified volume, measured in either imperial or US customary measures, primarily applied to alcoholic beverages, such as wine, ale, or cider.
 
 
 Varieties and standardisation

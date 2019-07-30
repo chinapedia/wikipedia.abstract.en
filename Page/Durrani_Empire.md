@@ -13,7 +13,7 @@ The year 1747 marks the definitive appearance of an Afghan political entity inde
 
 Early victories
 
-Kandahar_City_during_1839-42.jpg, its principal bazaar and citadel, taken from the Nakkara Khauna]]
+, its principal bazaar and citadel, taken from the Nakkara Khauna]]
 
 One of Ahmad Shah's first military actions was to capture Ghazni from the Ghiljis, and then wrest Kabul from the local ruler. In 1749, the Mughal ruler was induced to cede Sindh, the Punjab region and the important trans Indus River to Ahmad Shah in order to save his capital from Afghan attack.[6] Having thus gained substantial territories to the east without a fight, Ahmad Shah turned westward to take possession of Herat, which was ruled by Nader Shah Afshar's grandson, Shahrukh Afshar. Ahmad Shah next sent an army to subdue the areas north of the Hindu Kush mountains. In short order, the powerful army brought under its control the Tajik, Hazara, Uzbek, Turkmen, and other tribes of northern Afghanistan. Ahmad Shah invaded the remnants of the Mughal Empire a third time, and then a fourth, consolidating control over the Kashmir and Punjab regions, with Lahore being governed by Afghans. He sacked Delhi in 1757 but permitted the Mughal dynasty to remain in nominal control of the city as long as the ruler acknowledged Ahmad Shah's suzerainty over Punjab, Sindh, and Kashmir. Leaving his second son Timur Shah to safeguard his interests, Ahmad Shah left India to return to Afghanistan.
 
@@ -23,7 +23,7 @@ Alarmed by the expansion of China's Qing Dynasty up to the eastern border of Kaz
 
 Third Battle of Panipat
 
-The_Third_battle_of_Panipat_13_January_1761.jpg and his coalition decisively defeat the Maratha Confederacy, during the Third Battle of Panipat and restored the Mughal Empire to Shah Alam II.[9]]]
+and his coalition decisively defeat the Maratha Confederacy, during the Third Battle of Panipat and restored the Mughal Empire to Shah Alam II.[9]]]
 
 The Mughal power in northern India had been declining since the reign of Aurangzeb, who died in 1707. In 1751-52, _Ahamdiya_ treaty was signed between the Marathas and Mughals, when Balaji Bajirao was the Peshwa.[10] Through this treaty, the Marathas controlled virtually the whole of India from their capital at Pune and the Mughal rule was restricted only to Delhi (the Mughals remained the nominal heads of Delhi). Marathas were now straining to expand their area of control towards the Northwest of India. Ahmad Shah sacked the Mughal capital and withdrew with the booty he coveted. To counter the Afghans, Peshwa Balaji Bajirao sent Raghunathrao. He defeated the Rohillas and Afghan garrisons in Punjab and succeeded in ousting Timur Shah and his court from India and brought Lahore, Multan, Kashmir and other subahs on the Indian side of Attock under Maratha rule.[11] Thus, upon his return to Kandahar in 1757, Ahmad was forced to return to India and face the formidable attacks of the Maratha Confederacy.
 
@@ -31,7 +31,7 @@ Ahmad Shah declared a jihad (or Islamic holy war) against the Marathas, and warr
 
 Decline
 
-Bala_Hisar_Fort.jpg fort in Peshawar was one of the royal residences of the Durrani kings.]]
+fort in Peshawar was one of the royal residences of the Durrani kings.]]
 
 The victory at Panipat was the high point of Ahmad Shah's—and Afghan—power. However, even prior to his death, the empire began to unravel. In 1762, Ahmad Shah crossed the passes from Afghanistan for the sixth time to subdue the Sikhs. From this time and on, the domination and control of the Empire began to loosen, and by the time of Durrani's death he had completely lost Punjab to the Sikhs, as well as earlier losses of northern territories to the Uzbeks, necessitating a compromise with them.[12]
 
@@ -48,7 +48,7 @@ Ahmad Shah was succeeded by his son, Timur Shah, who had been deputed to adminis
 
 Zaman Shah (1793–1801)
 
-The_main_street_in_the_bazaar_at_Caubul.jpg]]
+]]
 
 After the death of Timur Shah, three of his sons, the governors of Kandahar, Herat and Kabul, contended for the succession. Zaman Shah, governor of Kabul, held the field by virtue of being in control of the capital, and became shah at the age of twenty-three. Many of his half-brothers were imprisoned on their arrival in the capital for the purpose, ironically, of electing a new shah. The quarrels among Timur's descendants that through Afghanistan into turmoil also provided the pretext for the interventions of outside forces.
 

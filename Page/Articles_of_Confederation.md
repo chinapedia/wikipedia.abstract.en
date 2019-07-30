@@ -18,7 +18,7 @@ Beyond improving their existing association, the records of the Second Continent
 
 Drafting
 
-Articles_of_Confederation_13c_1977_issue.JPG commemorating the Articles of Confederation bicentennial; the draft was completed on November 15, 1777]] On June 12, 1776, a day after appointing a committee to prepare a draft of the Declaration of Independence, the Second Continental Congress resolved to appoint a committee of 13 to prepare a draft of a constitution for a union of the states. The committee met frequently, and chairman John Dickinson presented their results to the Congress on July 12, 1776. Afterward, there were long debates on such issues as state sovereignty, the exact powers to be given to Congress, whether to have a judiciary, western land claims and voting procedures.[9] To further complicate work on the constitution, Congress was forced to leave Philadelphia twice, for Baltimore, Maryland in the winter of 1776, and later for Lancaster then York, Pennsylvania in the fall of 1777, to evade advancing British troops. Even so, the committee continued with its work.
+commemorating the Articles of Confederation bicentennial; the draft was completed on November 15, 1777]] On June 12, 1776, a day after appointing a committee to prepare a draft of the Declaration of Independence, the Second Continental Congress resolved to appoint a committee of 13 to prepare a draft of a constitution for a union of the states. The committee met frequently, and chairman John Dickinson presented their results to the Congress on July 12, 1776. Afterward, there were long debates on such issues as state sovereignty, the exact powers to be given to Congress, whether to have a judiciary, western land claims and voting procedures.[9] To further complicate work on the constitution, Congress was forced to leave Philadelphia twice, for Baltimore, Maryland in the winter of 1776, and later for Lancaster then York, Pennsylvania in the fall of 1777, to evade advancing British troops. Even so, the committee continued with its work.
 
 The final draft of the _Articles of Confederation and Perpetual Union_ was completed on November 15, 1777.[10] Consensus was achieved by: including language guaranteeing that each state retained its sovereignty, leaving the matter of western land claims in the hands of the individual states, including language stating that votes in Congress would be _en bloc_ by state, and establishing a unicameral legislature with limited and clearly delineated powers.[11]
 
@@ -29,35 +29,35 @@ The Articles of Confederation was submitted to the states for ratification in la
 
 The several states ratified the Articles of Confederation on the following dates:[17]
 
-+-------+-------------------------------------------+
-| State | Date                                      |
-+=======+===========================================+
-|       | Seal_of_Virginia.svg Virginia             |
-+-------+-------------------------------------------+
-|       | Seal_of_South_Carolina.svg South Carolina |
-+-------+-------------------------------------------+
-|       | Seal_of_New_York.svg New York             |
-+-------+-------------------------------------------+
-|       | Seal_of_Rhode_Island.svg Rhode Island     |
-+-------+-------------------------------------------+
-|       | Seal_of_Connecticut.svg Connecticut       |
-+-------+-------------------------------------------+
-|       | Seal_of_Georgia.svg Georgia               |
-+-------+-------------------------------------------+
-|       | Seal_of_New_Hampshire.svg New Hampshire   |
-+-------+-------------------------------------------+
-|       | Seal_of_Pennsylvania.svg Pennsylvania     |
-+-------+-------------------------------------------+
-|       | Seal_of_Massachusetts.svg Massachusetts   |
-+-------+-------------------------------------------+
-|       | Seal_of_North_Carolina.svg North Carolina |
-+-------+-------------------------------------------+
-|       | Seal_of_New_Jersey.svg New Jersey         |
-+-------+-------------------------------------------+
-|       | Seal_of_Delaware.svg Delaware             |
-+-------+-------------------------------------------+
-|       | Seal_of_Maryland_(reverse).svg Maryland   |
-+-------+-------------------------------------------+
++-------+----------------+
+| State | Date           |
++=======+================+
+|       | Virginia       |
++-------+----------------+
+|       | South Carolina |
++-------+----------------+
+|       | New York       |
++-------+----------------+
+|       | Rhode Island   |
++-------+----------------+
+|       | Connecticut    |
++-------+----------------+
+|       | Georgia        |
++-------+----------------+
+|       | New Hampshire  |
++-------+----------------+
+|       | Pennsylvania   |
++-------+----------------+
+|       | Massachusetts  |
++-------+----------------+
+|       | North Carolina |
++-------+----------------+
+|       | New Jersey     |
++-------+----------------+
+|       | Delaware       |
++-------+----------------+
+|       | Maryland       |
++-------+----------------+
 
 
 Article summaries
@@ -187,7 +187,7 @@ After the first signing, some delegates signed at the next meeting they attended
 
 The other states had to wait until they ratified the Articles and notified their Congressional delegation. Georgia signed on July 24, New Jersey on November 26, and Delaware on February 12, 1779. Maryland refused to ratify the Articles until every state had ceded its western land claims. Chevalier de La Luzerne, French Minister to the United States, felt that the Articles would help strengthen the American government. In 1780 when Maryland requested France provide naval forces in the Chesapeake Bay for protection from the British (who were conducting raids in the lower part of the bay), he indicated that French Admiral Destouches would do what he could but La Luzerne also “sharply pressed” Maryland to ratify the Articles, thus suggesting the two issues were related.[40]
 
-Act_of_Maryland_to_ratify_Articles.jpg On February 2, 1781, the much-awaited decision was taken by the Maryland General Assembly in Annapolis.[41] As the last piece of business during the afternoon Session, "among engrossed Bills" was "signed and sealed by Governor Thomas Sim Lee in the Senate Chamber, in the presence of the members of both Houses... an Act to empower the delegates of this state in Congress to subscribe and ratify the articles of confederation" and perpetual union among the states. The Senate then adjourned "to the first Monday in August next." The decision of Maryland to ratify the Articles was reported to the Continental Congress on February 12. The confirmation signing of the Articles by the two Maryland delegates took place in Philadelphia at noon time on March 1, 1781, and was celebrated in the afternoon. With these events, the Articles were entered into force and the United States of America came into being as a sovereign federal state.
+On February 2, 1781, the much-awaited decision was taken by the Maryland General Assembly in Annapolis.[41] As the last piece of business during the afternoon Session, "among engrossed Bills" was "signed and sealed by Governor Thomas Sim Lee in the Senate Chamber, in the presence of the members of both Houses... an Act to empower the delegates of this state in Congress to subscribe and ratify the articles of confederation" and perpetual union among the states. The Senate then adjourned "to the first Monday in August next." The decision of Maryland to ratify the Articles was reported to the Continental Congress on February 12. The confirmation signing of the Articles by the two Maryland delegates took place in Philadelphia at noon time on March 1, 1781, and was celebrated in the afternoon. With these events, the Articles were entered into force and the United States of America came into being as a sovereign federal state.
 
 Congress had debated the Articles for over a year and a half, and the ratification process had taken nearly three and a half years. Many participants in the original debates were no longer delegates, and some of the signers had only recently arrived. The Articles of Confederation and Perpetual Union were signed by a group of men who were never present in the Congress at the same time.
 

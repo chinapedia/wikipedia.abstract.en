@@ -1,4 +1,4 @@
-Locator_map_Byzantion.PNG BYZANTIUM ( or BYZANTION; Ancient Greek: Βυζάντιον, _Byzántion_) was an ancient Greek colony in early antiquity that later became Constantinople, and then Istanbul. The Greek term Byzantium (or Byzantion) continued to be used as a name of Constantinople during the Byzantine Empire, even though it only referred to the empire's capital.[1][2] Byzantium was colonized by the Greeks from Megara in 657 BC, and remained primarily Greek-speaking until its fall in 1453 AD.[3]
+BYZANTIUM ( or BYZANTION; Ancient Greek: Βυζάντιον, _Byzántion_) was an ancient Greek colony in early antiquity that later became Constantinople, and then Istanbul. The Greek term Byzantium (or Byzantion) continued to be used as a name of Constantinople during the Byzantine Empire, even though it only referred to the empire's capital.[1][2] Byzantium was colonized by the Greeks from Megara in 657 BC, and remained primarily Greek-speaking until its fall in 1453 AD.[3]
 
 
 Name

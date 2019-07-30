@@ -5,7 +5,7 @@ In the periodic table of the elements, it is a d-block transactinide element. It
 
 History
 
-Niels_Bohr.jpg, a Danish nuclear physicist, with the name _nielsbohrium_ (Ns). This name was later changed by IUPAC to _bohrium_ (Bh).]]
+, a Danish nuclear physicist, with the name _nielsbohrium_ (Ns). This name was later changed by IUPAC to _bohrium_ (Bh).]]
 
 Discovery
 
@@ -19,7 +19,7 @@ This discovery was further substantiated by their detailed measurements of the a
 
 Proposed names
 
-Bohrium_hassium_meitnerium_ceremony.jpg In September 1992, the German group suggested the name _nielsbohrium_ with symbol _Ns_ to honor the Danish physicist Niels Bohr. The Soviet scientists at the Joint Institute for Nuclear Research in Dubna, Russia had suggested this name be given to element 105 (which was finally called dubnium) and the German team wished to recognise both Bohr and the fact that the Dubna team had been the first to propose the cold fusion reaction to solve the controversial problem of the naming of element 105. The Dubna team agreed with the German group's naming proposal for element 107.[5]
+In September 1992, the German group suggested the name _nielsbohrium_ with symbol _Ns_ to honor the Danish physicist Niels Bohr. The Soviet scientists at the Joint Institute for Nuclear Research in Dubna, Russia had suggested this name be given to element 105 (which was finally called dubnium) and the German team wished to recognise both Bohr and the fact that the Dubna team had been the first to propose the cold fusion reaction to solve the controversial problem of the naming of element 105. The Dubna team agreed with the German group's naming proposal for element 107.[5]
 
 There was an element naming controversy as to what the elements from 104 to 106 were to be called; the IUPAC adopted _unnilseptium_ (symbol _Uns_) as a temporary, systematic element name for this element.[6] In 1994 a committee of IUPAC recommended that element 107 be named _bohrium_, not _nielsbohrium_, since there was no precedence for using a scientist's complete name in the naming of an element.[7][8] This was opposed by the discoverers as there was some concern that the name might be confused with boron and in particular the distinguishing of the names of their respective oxyanions, _bohrate_ and _borate_. The matter was handed to the Danish branch of IUPAC which, despite this, voted in favour of the name _bohrium_, and thus the name _bohrium_ for element 107 was recognized internationally in 1997;[9] the names of the respective oxyanions of boron and bohrium remain unchanged despite their homophony.[10]
 

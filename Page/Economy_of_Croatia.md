@@ -13,7 +13,7 @@ History
 
 Pre–1990
 
-Viktor_Kovačić-_Palača_Burze,_Trg_Burze,_Zagreb,_1922-_1927.jpg Stock Exchange Palace in 1927]] Rijeka_oil_refinery_around_1930.jpg in Rijeka in the 1930s]] During the 19th century the Kingdom of Croatia had a high ratio of population working in agriculture. Many industrial branches developed in that time, like forestry and wood industry (stave fabrication, the production of potash, lumber mills, shipbuilding). The most profitable one was stave fabrication, the boom of which started in the 1820s with the clearing of the oak forests around Karlovac and Sisak and again in the 1850s with the marshy oak masses along the Sava and Drava rivers. Shipbuilding in Croatia played a huge role in the 1850s Austrian Empire, especially the longe-range sailing boats. Sisak and Vukovar were the centres of river-shipbuilding.[4] Slavonia was also mostly an agricultural land and it was known for its silk production. Agriculture and the breeding of cattle were the most profitable occupations of the inhabitants. It produced corn of all kinds, hemp, flax, tobacco, and great quantities of liquorice.[5][6]
+Stock Exchange Palace in 1927]] in Rijeka in the 1930s]] During the 19th century the Kingdom of Croatia had a high ratio of population working in agriculture. Many industrial branches developed in that time, like forestry and wood industry (stave fabrication, the production of potash, lumber mills, shipbuilding). The most profitable one was stave fabrication, the boom of which started in the 1820s with the clearing of the oak forests around Karlovac and Sisak and again in the 1850s with the marshy oak masses along the Sava and Drava rivers. Shipbuilding in Croatia played a huge role in the 1850s Austrian Empire, especially the longe-range sailing boats. Sisak and Vukovar were the centres of river-shipbuilding.[4] Slavonia was also mostly an agricultural land and it was known for its silk production. Agriculture and the breeding of cattle were the most profitable occupations of the inhabitants. It produced corn of all kinds, hemp, flax, tobacco, and great quantities of liquorice.[5][6]
 
 The first steps towards industrialization began in the 1830s and in the following decades the construction of big industrial enterprises took place.[7] During the 2nd half of the 19th and early 20th century there was an upsurge of industry in Croatia, strengthened by the construction of railways and the electric-power production. However, the industrial production was still lower than agricultural production.[8] Regional differences were high. Industrialization was faster in inner Croatia than in other regions, while Dalmatia remained one of the poorest provinces of Austria-Hungary.[9] The slow rate of modernization and rural overpopulation caused extensive emigration, particularly from Dalmatia. According to estimates, roughly 400,000 Croats emigrated from Austria-Hungary between 1880 and 1914. In 1910 8,5% of the population of Croatia-Slavonia lived in urban settlements.[10]
 
@@ -27,7 +27,7 @@ Throughout the 1950s Croatia experienced rapid urbanization. Decentralization ca
 
 Transition and war years
 
-Brodosplit_-_juice_carrier.JPG]] GDP_of_Croatia_at_constant_prices.png General_government_debt_of_Croatia.png Real_GDP_growth_in_Croatia.png Unemployment_in_Croatia_1996._-_2018.png]]
+]] ]]
 
 In the late 1980s and early 1990s, with the collapse of socialism and the beginning of economic transition, Croatia faced considerable economic problems stemming from:[21]
 
@@ -86,7 +86,7 @@ The Croatian National Bank had to take steps to curb further growth of indebtedn
 
 Economic growth has been hurt by the global financial crisis.[43] Immediately after the crisis it seemed that Croatia did not suffer serious consequences like some other countries. However, in 2009, the crisis gained momentum and the decline in GDP growth, at a slower pace, continued during 2010. In 2011 the GDP stagnated as the growth rate was zero.[44] Since the global crisis hit the country, the unemployment rate has been steadily increasing, resulting in the loss of more than 100,000 jobs.[45] While unemployment was 9.6% in late 2007,[46] in January 2014 it peaked at 22.4%.[47] In 2010 Gini coefficient was 0,32.[48] In September 2012, Fitch ratings agency unexpectedly improved Croatia's economic outlook from negative to stable, reaffirming Croatia's current BBB rating.[49] The slow pace of privatization of state-owned businesses and an overreliance on tourism have also been a drag on the economy.[50]
 
-Croatia joined the European Union on 1 July 2013 as the 28th member state. The Croatian economy is heavily interdependent on other principal economies of Europe, and any negative trends in these larger EU economies also have a negative impact on Croatia. Italy, Germany and Slovenia are Croatia's most important trade partners.[51] In spite of the rather slow post-recession recovery, in terms of income per capita it is still ahead of some European Union member states such as Bulgaria, and Romania.[52] In terms of average monthly wage, Croatia is ahead of 9 EU members (Czech Republic, Estonia, Slovakia, Latvia, Poland, Hungary, Lithuania, Romania, and Bulgaria).[53] Croatia_Export_Treemap.jpg
+Croatia joined the European Union on 1 July 2013 as the 28th member state. The Croatian economy is heavily interdependent on other principal economies of Europe, and any negative trends in these larger EU economies also have a negative impact on Croatia. Italy, Germany and Slovenia are Croatia's most important trade partners.[51] In spite of the rather slow post-recession recovery, in terms of income per capita it is still ahead of some European Union member states such as Bulgaria, and Romania.[52] In terms of average monthly wage, Croatia is ahead of 9 EU members (Czech Republic, Estonia, Slovakia, Latvia, Poland, Hungary, Lithuania, Romania, and Bulgaria).[53]
 
 Annual average unemployment rate in 2014 was 17.3% and Croatia has the third highest unemployment rate in the European Union, after Greece (26.5%), and Spain (24.%).[54] Of particular concern is the heavily backlogged judiciary system, combined with inefficient public administration, especially regarding the issues of land ownership and corruption in the public sector. Unemployment is regionally uneven: it is very high in eastern and southern parts of the country, nearing 20% in some areas, while relatively low in the north-west and in larger cities, where it is between 3 and 7%. In 2015 external debt rose by 2.7 billion euros since the end of 2014 and is now around €49.3 billion.
 
@@ -122,7 +122,7 @@ Infrastructure
 
 Transport
 
-Autocesta_Zagreb-Split_kod_Jezerana_(Croatia).JPG]]
+]]
 
 The highlight of Croatia's recent infrastructure developments is its rapidly developed motorway network, largely built in the late 1990s and especially in the 2000s. By September 2011, Croatia had completed more than of motorways, connecting Zagreb to most other regions and following various European routes and four Pan-European corridors.[68][69][70] The busiest motorways are the A1, connecting Zagreb to Split and the A3, passing east–west through northwest Croatia and Slavonia.[71] A widespread network of state roads in Croatia acts as motorway feeder roads while connecting all major settlements in the country. The high quality and safety levels of the Croatian motorway network were tested and confirmed by several EuroTAP and EuroTest programs.[72][73]
 
@@ -134,7 +134,7 @@ The busiest cargo seaport in Croatia is the Port of Rijeka and the busiest passe
 
 Energy
 
-Urinj_251208.jpg]] Hidrocentrala_Dubrava_-_zgrada.jpg]] There are of crude oil pipelines in Croatia, connecting the Port of Rijeka oil terminal with refineries in Rijeka and Sisak, as well as several transhipment terminals. The system has a capacity of 20 million tonnes per year.[83] The natural gas transportation system comprises of trunk and regional natural gas pipelines, and more than 300 associated structures, connecting production rigs, the Okoli natural gas storage facility, 27 end-users and 37 distribution systems.[84]
+]] ]] There are of crude oil pipelines in Croatia, connecting the Port of Rijeka oil terminal with refineries in Rijeka and Sisak, as well as several transhipment terminals. The system has a capacity of 20 million tonnes per year.[83] The natural gas transportation system comprises of trunk and regional natural gas pipelines, and more than 300 associated structures, connecting production rigs, the Okoli natural gas storage facility, 27 end-users and 37 distribution systems.[84]
 
 Croatian production of energy sources covers 85% of nationwide natural gas demand and 19% of oil demand. In 2008, 47.6% of Croatia's primary energy production structure comprised use of natural gas (47.7%), crude oil (18.0%), fuel wood (8.4%), hydro power (25.4%) and other renewable energy sources (0.5%). In 2009, net total electrical power production in Croatia reached 12,725 GWh and Croatia imported 28.5% of its electric power energy needs.[85] The bulk of Croatian imports are supplied by the Krško Nuclear Power Plant in Slovenia, 50% owned by Hrvatska elektroprivreda, providing 15% of Croatia's electricity.[86]
 
@@ -170,14 +170,14 @@ NATURAL GAS:
 
 Stock exchanges
 
-Panorama-Eurotower,_Cibona,_HOTO.JPG]]
+]]
 
 -   Zagreb Stock Exchange
 
 
 Banking
 
-Banco_Nacional,_Zagreb,_Croacia,_2014-04-20,_DD_01.JPG]]
+]]
 
 Central bank:
 
@@ -302,53 +302,53 @@ Gross Domestic Product
   Counties of Croatia by GDP, in million Euro
   -----------------------------------------------------------------------
   data-sort-type="text" | County
-  Zastava_bjelovarsko_bilogorske_zupanije.gif Bjelovar-Bilogora
-  Flag_of_Brod-Posavina_County.svg Brod-Posavina
-  Flag_of_Dubrovnik-Neretva_County.png Dubrovnik-Neretva
-  Zastava_Istarske_županije.svg Istria
-  Flag_of_Karlovac_county.svg Karlovac
-  Flag_of_Koprivnica-Križevci_County.png Koprivnica-Križevci
-  Flag_of_Krapina-Zagorje-County.svg Krapina-Zagorje
-  Flag_of_Lika-Senj_County.png Lika-Senj
-  Medjimurje-flag.gif Međimurje
-  Zastava_Osječko-baranjske_županije.png Osijek-Baranja
-  Flag_of_Požega-Slavonia_County.png Požega-Slavonia
-  Flag_of_Primorje-Gorski_Kotar_County.png Primorje-Gorski Kotar
-  Flag_of_Sisak-Moslavina_County.png Sisak-Moslavina
-  Flag_of_Split-Dalmatia_County.svg Split-Dalmatia
-  Flag_of_Šibenik-Knin_County.png Šibenik-Knin
-  Flag_of_Varaždin_County.png Varaždin
-  Flag_of_Virovitica-Podravina_County.png Virovitica-Podravina
-  Flag_of_Vukovar-Syrmia_County.svg Vukovar-Syrmia
-  Flag_of_Zadar_County.png Zadar
-  Zagreb_County.png Zagreb County
-  Flag_of_Zagreb.svg City of Zagreb
+  Bjelovar-Bilogora
+  Brod-Posavina
+  Dubrovnik-Neretva
+  Istria
+  Karlovac
+  Koprivnica-Križevci
+  Krapina-Zagorje
+  Lika-Senj
+  Međimurje
+  Osijek-Baranja
+  Požega-Slavonia
+  Primorje-Gorski Kotar
+  Sisak-Moslavina
+  Split-Dalmatia
+  Šibenik-Knin
+  Varaždin
+  Virovitica-Podravina
+  Vukovar-Syrmia
+  Zadar
+  Zagreb County
+  City of Zagreb
   Source: Croatian Bureau of Statistics[89][90][91][92][93][94][95][96]
 
   Counties of Croatia by GDP per capita, in Euro
   ----------------------------------------------------------------------------
   data-sort-type="text" | County
-  Zastava_bjelovarsko_bilogorske_zupanije.gif Bjelovar-Bilogora
-  Flag_of_Brod-Posavina_County.svg Brod-Posavina
-  Flag_of_Dubrovnik-Neretva_County.png Dubrovnik-Neretva
-  Zastava_Istarske_županije.svg Istria
-  Flag_of_Karlovac_county.svg Karlovac
-  Flag_of_Koprivnica-Križevci_County.png Koprivnica-Križevci
-  Flag_of_Krapina-Zagorje-County.svg Krapina-Zagorje
-  Flag_of_Lika-Senj_County.png Lika-Senj
-  Medjimurje-flag.gif Međimurje
-  Zastava_Osječko-baranjske_županije.png Osijek-Baranja
-  Flag_of_Požega-Slavonia_County.png Požega-Slavonia
-  Flag_of_Primorje-Gorski_Kotar_County.png Primorje-Gorski Kotar
-  Flag_of_Sisak-Moslavina_County.png Sisak-Moslavina
-  Flag_of_Split-Dalmatia_County.svg Split-Dalmatia
-  Flag_of_Šibenik-Knin_County.png Šibenik-Knin
-  Flag_of_Varaždin_County.png Varaždin
-  Flag_of_Virovitica-Podravina_County.png Virovitica-Podravina
-  Flag_of_Vukovar-Syrmia_County.svg Vukovar-Srijem
-  Flag_of_Zadar_County.png Zadar
-  Zagreb_County.png Zagreb County
-  Flag_of_Zagreb.svg City of Zagreb
+  Bjelovar-Bilogora
+  Brod-Posavina
+  Dubrovnik-Neretva
+  Istria
+  Karlovac
+  Koprivnica-Križevci
+  Krapina-Zagorje
+  Lika-Senj
+  Međimurje
+  Osijek-Baranja
+  Požega-Slavonia
+  Primorje-Gorski Kotar
+  Sisak-Moslavina
+  Split-Dalmatia
+  Šibenik-Knin
+  Varaždin
+  Virovitica-Podravina
+  Vukovar-Srijem
+  Zadar
+  Zagreb County
+  City of Zagreb
   Source: Croatian Bureau of Statistics[97][98][99][100][101][102][103][104]
 
 

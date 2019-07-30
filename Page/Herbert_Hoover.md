@@ -9,9 +9,7 @@ In the midst of an ongoing economic crisis, Hoover was decisively defeated by De
 
 Early life
 
-Herbert_Hoover_in_1877.jpg
-
-Herbert Hoover was born on August 10, 1874 in West Branch, Iowa. His father, Jesse Hoover, was a blacksmith and farm implement store owner of German, Swiss, and English ancestry. Hoover's mother, Hulda Randall Minthorn, was raised in Norwich, Ontario, Canada, before moving to Iowa in 1859. Like most other citizens of West Branch, Jesse and Hulda were Quakers. As a child, Hoover consistently attended schools, but he did little reading on his own aside from the Bible. Hoover's father, noted by the local paper for his "pleasant, sunshiny disposition", died in 1880 at the age of 34. Hoover's mother died in 1884, leaving Hoover, his older brother, Theodore, and his younger sister, May, as orphans. Herbert_Hoover_birthplace.jpg
+Herbert Hoover was born on August 10, 1874 in West Branch, Iowa. His father, Jesse Hoover, was a blacksmith and farm implement store owner of German, Swiss, and English ancestry. Hoover's mother, Hulda Randall Minthorn, was raised in Norwich, Ontario, Canada, before moving to Iowa in 1859. Like most other citizens of West Branch, Jesse and Hulda were Quakers. As a child, Hoover consistently attended schools, but he did little reading on his own aside from the Bible. Hoover's father, noted by the local paper for his "pleasant, sunshiny disposition", died in 1880 at the age of 34. Hoover's mother died in 1884, leaving Hoover, his older brother, Theodore, and his younger sister, May, as orphans.
 
 In 1882, Hoover spent a year living at the Osage Agency in Pawhuska, Oklahoma with his aunt Agnes (Minthorn) Miles and uncle Laban J. Miles who was an U.S. Indian Agent.[1] And in 1885, Hoover was sent to Newberg, Oregon to live with his uncle John Minthorn, a Quaker physician and businessman whose own son had died the year before. The Minthorn household was considered cultured and educational, and imparted a strong work ethic. Much like West Branch, Newberg was a frontier town settled largely by Midwestern Quakers. Minthorn ensured that Hoover received an education, but Hoover disliked the many chores assigned to him and often resented Minthorn. One observer described Hoover as "an orphan [who] seemed to be neglected in many ways." Hoover attended Friends Pacific Academy (now George Fox University), but dropped out at the age of thirteen to become an office assistant for his uncle's real estate office in Salem, Oregon. Though he did not attend high school, Hoover learned bookkeeping, typing, and mathematics at a night school.
 
@@ -22,21 +20,19 @@ Mining engineer
 
 Bewick, Moreing
 
-Herbert_Hoover_in_1898.jpg, Western Australia, in 1898]]
+, Western Australia, in 1898]]
 
 When Hoover graduated from Stanford in 1895, the country was in the midst of the Panic of 1893, and he initially struggled to find a job. He worked in various low-level mining jobs in the Sierra Nevada mountain range until he convinced prominent mining engineer Louis Janin to hire him. After working as a mine scout for a year, Hoover was hired by Bewick, Moreing & Co., a London-based company that operated gold mines in Western Australia. Hoover first went to Coolgardie, then the center of the Eastern Goldfields. Though Hoover received a $5,000 salary (), conditions were harsh in the goldfields.[3] Hoover described the Coolgardie and Murchison rangelands on the edge of the Great Victoria Desert as a land of "black flies, red dust and white heat."[4]
 
 Hoover traveled constantly across the Outback to evaluate and manage the company's mines. He convinced Bewick, Moreing to purchase the Sons of Gwalia gold mine, which proved to be one of the most successful mines in the region. Partly due to Hoover's efforts, the company eventually controlled approximately 50 percent of gold production in Western Australia. Hoover brought in many Italian immigrants to cut costs and counter the labour movement of the Australian miners.[5][6] During his time with the mining company, Hoover became opposed to measures such as a minimum wage and workers' compensation, feeling that they were unfair to owners. Hoover's work impressed his employers, and in 1898 he was promoted to junior partner. An open feud developed between Hoover and his boss, Ernest Williams, but company leaders defused the situation by offering Hoover a compelling position in China.
 
-Lou.henry.on.a.burro.at.acton.CA.1891.08.22.jpg on August 22, 1891]]
+on August 22, 1891]]
 
 Upon arriving in China, Hoover developed gold mines near Tianjin on behalf of Bewick, Moreing and the Chinese-owned Chinese Engineering and Mining Company. He became deeply interested in Chinese history, but quickly gave up on learning the language and viewed the Chinese people as racially inferior. He made recommendations to improve the lot of the Chinese worker, seeking to end the practice of imposing long-term servitude contracts and to institute reforms for workers based on merit. The Boxer Rebellion broke out shortly after Hoover arrived in China, trapping the Hoovers and numerous other foreign nationals until a multi-national force defeated Boxer forces in the Battle of Tientsin. Fearing the imminent collapse of the Chinese government, the director of the Chinese Engineering and Mining Company agreed to establish a new Sino-British venture with Bewick, Moreing. After Hoover and Bewick, Moreing established effective control over the new Chinese mining company, Hoover became the operating partner of Bewick, Moreing in late 1901.
 
 As operating partner, Hoover continually traveled the world on behalf of Bewick, Moreing, visiting mines operated by the company on different continents. Beginning in December 1902, the company faced mounting legal and financial issues after one of the partners admitted to having fraudulently sold stock in a mine. More issues arose in 1904, after the British government formed two separate royal commission to investigate Bewick, Moreing's labor practices and financial dealings in Western Australia. After the company lost a suit filed by the former director of the Chinese Engineering and Mining Company, Hoover began looking for a way to get out of the partnership, and he sold his shares in mid-1908.
 
 Sole proprietor
-
-HHoover_(retouched).jpg
 
 After leaving Bewick, Moreing, Hoover worked as a London-based independent mining consultant and financier. Though he had risen to prominence as a geologist and mine operator, Hoover focused much of his attention on raising money, restructuring corporate organizations, and financing new ventures. He specialized in rejuvenating troubled mining operations, taking a share of the profits in exchange for his technical and financial expertise. Hoover thought of himself and his associates as "engineering doctors to sick concerns", and he earned a reputation as a "doctor of sick mines". He made investments on every continent and had offices in San Francisco, London, New York City, Paris, St. Petersburg (Florida), Florida, and Mandalay, Myanmar.[7] By 1914, Hoover was a very wealthy man, with an estimated personal fortune of $4 million (equivalent to $ million in ).
 
@@ -47,7 +43,7 @@ In his spare time, Hoover wrote. His lectures at Columbia and Stanford universit
 
 Marriage and family
 
-Louhenryhoover.jpg, circa 1930]] Hoover_men_Allan_Herbert_Sr_Andrew_1950.jpg _(left)_ and his grandson Andrew _(above)_, 1950]]
+, circa 1930]] _(left)_ and his grandson Andrew _(above)_, 1950]]
 
 During his senior year at Stanford, Hoover became smitten with a classmate named Lou Henry, though his financial situation precluded marriage at that time. The daughter of a banker from Monterey, California, Lou Henry decided to study geology at Stanford after attending a lecture delivered by John Branner. Immediately after earning a promotion in 1898, Hoover cabled Lou Henry, asking her to marry him. After she cabled back her acceptance of the proposal, Hoover briefly returned to the United States for their wedding. They would remain married until Lou Henry's death in 1944. Though his Quaker upbringing strongly influenced his career, Hoover rarely attended Quaker meetings during his adult life.[12] Hoover and his wife had two children: Herbert Hoover Jr. (born in 1903) and Allan Henry Hoover (born in 1907). The Hoover family began living in London in 1902, though they frequently traveled as part of Hoover's career. After 1916, the Hoovers began living in the United States, maintaining homes in Palo Alto, California and Washington, D.C.
 
@@ -64,7 +60,7 @@ Hoover worked 14-hour days from London, administering the distribution of over t
 
 U.S. Food Administration
 
-"Wanted_Immediately._2,000,000_Garments_for_destitute_Men,_Women,_and_children_in_occupied_Northern_France_and..._-_NARA_-_512616.jpg poster]]
+poster]]
 
 The United States declared war upon Germany in April 1917 after Germany engaged in unrestricted submarine warfare against American vessels in British waters. With the U.S. mobilizing for war, President Woodrow Wilson appointed Hoover to head the U.S. Food Administration, which was charged with ensuring the nation's food needs during the war. Hoover had hoped to join the administration in some capacity since at least 1916, and he obtained the position after lobbying several members of Congress and Wilson's confidant, Edward M. House. Earning the appellation of "food czar", Hoover recruited a volunteer force of hundreds of thousands of women and deployed propaganda in movie theaters, schools, and churches. He carefully selected men to assist in the agency leadership—Alonzo Taylor (technical abilities), Robert Taft (political associations), Gifford Pinchot (agricultural influence), and Julius Barnes (business acumen).
 
@@ -85,8 +81,6 @@ Hoover had been little known among the American public before 1914, but his serv
 
 Secretary of Commerce
 
-HooverCommerce1926.jpg
-
 After his election as president in 1920, Harding rewarded Hoover for his support, offering to appoint him as either Secretary of the Interior or Secretary of Commerce. Secretary of Commerce was considered a minor Cabinet post, with limited and vaguely defined responsibilities, but Hoover decided to accept the position. Hoover's progressive stances, continuing support for the League of Nations, and recent conversion to the Republican Party aroused opposition to his appointment from many Senate Republicans. To overcome this opposition, Harding paired Hoover's nomination with that of conservative favorite Andrew Mellon as Secretary of the Treasury, and the nominations of both Hoover and Mellon were confirmed by the Senate. Hoover would serve as Secretary of Commerce from 1921 to 1929, serving under Harding and, after Harding's death in 1923, President Calvin Coolidge. While some of the most prominent members of the Harding administration, including Attorney General Harry M. Daugherty and Secretary of Interior Albert B. Fall, were implicated in major scandals, Hoover emerged largely unscathed from investigations into the Harding administration.
 
 Hoover envisioned the Commerce Department as the hub of the nation's growth and stability. His experience mobilizing the war-time economy convinced him that the federal government could promote efficiency by eliminating waste, increasing production, encouraging the adoption of data-based practices, investing in infrastructure, and conserving natural resources. Contemporaries described Hoover's approach as a "third alternative" between "unrestrained capitalism" and socialism, which was becoming increasingly popular in Europe. Hoover sought to foster a balance among labor, capital, and the government, and for this he has been variously labeled a corporatist or an associationalist.
@@ -95,7 +89,7 @@ Hoover demanded, and received, authority to coordinate economic affairs througho
 
 Radio and travel
 
-HerbertClarkHoover.jpg]]
+]]
 
 Between 1923 and 1929, the number of families with radios grew from 300,000 to 10 million, and Hoover's tenure as Secretary of Commerce heavily influenced radio use in the United States. In the early and mid-1920s, Hoover's radio conferences played a key role in the organization, development, and regulation of radio broadcasting. Hoover also helped pass the Radio Act of 1927, which allowed the government to intervene and abolish radio stations that were deemed "non-useful" to the public. Hoover's attempts at regulating radio were not supported by all congressmen, and he received much opposition from the Senate and from radio station owners.[22]
 
@@ -104,8 +98,6 @@ Hoover was also influential in the early development of air travel, and he sough
 As Commerce Secretary, Hoover hosted national conferences on street traffic collectively known as the National Conference on Street and Highway Safety. Hoover's chief objective was to address the growing casualty toll of traffic accidents, but the scope of the conferences grew and soon embraced motor vehicle standards, rules of the road, and urban traffic control. He left the invited interest groups to negotiate agreements among themselves, which were then presented for adoption by states and localities. Because automotive trade associations were the best organized, many of the positions taken by the conferences reflected their interests. The conferences issued a model Uniform Vehicle Code for adoption by the states, and a Model Municipal Traffic Ordinance for adoption by cities. Both were widely influential, promoting greater uniformity between jurisdictions and tending to promote the automobile's priority in city streets.[23]
 
 Other initiatives
-
-Hoover_and_Harding_at_baseball_game.jpg
 
 With the goal of encouraging wise business investments, Hoover made the Commerce Department a clearinghouse of information. He recruited numerous academics from various fields and tasked them with publishing reports on different aspects of the economy, including steel production and films. To eliminate waste, he encouraged standardization of products like automobile tires and baby bottle nipples. Other efforts at eliminating waste included reducing labor losses from trade disputes and seasonal fluctuations, reducing industrial losses from accident and injury, and reducing the amount of crude oil spilled during extraction and shipping. He promoted international trade by opening overseas offices to advise businessmen. Hoover was especially eager to promote Hollywood films overseas. His "Own Your Own Home" campaign was a collaboration to promote ownership of single-family dwellings, with groups such as the Better Houses in America movement, the Architects' Small House Service Bureau, and the Home Modernizing Bureau. He worked with bankers and the savings and loan industry to promote the new long-term home mortgage, which dramatically stimulated home construction.[24] Other accomplishments included winning the agreement of U.S. Steel to adopt an eight-hour workday, and the fostering of the Colorado River Compact, a water rights compact among Southwestern states.
 
@@ -119,8 +111,6 @@ Hoover quietly built up support for a future presidential bid throughout the 192
 
 Many wary Republican leaders cast about for an alternative candidate, such as Treasury Secretary Andrew Mellon or former Secretary of State Charles Evans Hughes.[26] However, Hughes and Mellon declined to run, and other potential contenders like Frank Orren Lowden and Vice President Charles G. Dawes failed to garner widespread support. Hoover won the presidential nomination on the first ballot of the 1928 Republican National Convention. Convention delegates considered re-nominating Vice President Charles Dawes to be Hoover's running mate, but Coolidge, who hated Dawes, remarked that this would be "a personal affront" to him. The convention instead selected Senator Charles Curtis of Kansas.[27] Hoover accepted the nomination at Stanford Stadium, telling a huge crowd that he would continue the policies of the Harding and Coolidge administrations. The Democrats nominated New York governor Al Smith, who became the first Catholic major party nominee for president.
 
-ElectoralCollege1928.svg
-
 Hoover centered his campaign around the Republican record of peace and prosperity, as well as his own reputation as a successful engineer and public official. Averse to giving political speeches, Hoover largely stayed out of the fray and left the campaigning to Curtis and other Republicans. Smith was more charismatic and gregarious than Hoover, but his campaign was damaged by anti-Catholicism and his overt opposition to Prohibition. Hoover had never been a strong proponent of Prohibition, but he accepted the Republican Party's plank in favor of it and issued an ambivalent statement calling Prohibition "a great social and economic experiment, noble in motive and far-reaching in purpose." In the South, Hoover and the national party pursued a "lily-white" strategy, removing black Republicans from leadership positions in an attempt to curry favor with white Southerners.
 
 Hoover maintained polling leads throughout the 1928 campaign, and he decisively defeated Smith on election day, taking 58 percent of the popular vote and 444 of the 531 electoral votes. Historians agree that Hoover's national reputation and the booming economy, combined with deep splits in the Democratic Party over religion and Prohibition, guaranteed his landslide victory.[28] Hoover's appeal to Southern white voters succeeded in cracking the "Solid South", and he won five Southern states. Hoover's victory was positively received by newspapers; one wrote that Hoover would "drive so forcefully at the tasks now before the nation that the end of his eight years as president will find us looking back on an era of prodigious achievement."
@@ -129,8 +119,6 @@ Hoover's detractors wondered why he did not do anything to reapportion congress 
 
 
 Presidency
-
-Taft_Hebert_Hoover_Oath.jpgTicket_of_Inauguration_of_Herbert_Hoover_March_4,_1929.jpg
 
 Hoover saw the presidency as a vehicle for improving the conditions of all Americans by encouraging public-private cooperation—what he termed "volunteerism". He tended to oppose governmental coercion or intervention, as he thought they infringed on American ideals of individualism and self-reliance.[31] The first major bill that he signed, the Agricultural Marketing Act of 1929, established the Federal Farm Board in order to stabilize farm prices. Hoover made extensive use of commissions to study issues and propose solutions, and many of those commissions were sponsored by private donors rather than by the government. One of the commissions started by Hoover, the Research Committee on Social Trends, was tasked with surveying the entirety of American society. He appointed a Cabinet consisting largely of wealthy, business-oriented conservatives, including Secretary of the Treasury Andrew Mellon. Lou Henry Hoover was an activist First Lady. She typified the new woman of the post-World War I era: intelligent, robust, and aware of multiple female possibilities.[32]
 
@@ -142,7 +130,7 @@ In late October 1929, the Stock Market Crash of 1929 occurred, and the worldwide
 
 Early policies
 
-Herbert_Hoover_letter_to_Cleveland_Chamber_of_Commerce.jpg, June 14, 1930.]]
+, June 14, 1930.]]
 
 Though he attempted to put a positive spin on Black Tuesday, Hoover moved quickly to address the stock market collapse. In the days following Black Tuesday, Hoover gathered business and labor leaders, asking them to avoid wage cuts and work stoppages while the country faced what he believed would be a short recession similar to the Depression of 1920–21. Hoover also convinced railroads and public utilities to increase spending on construction and maintenance, and the Federal Reserve announced that it would cut interest rates. In early 1930, Hoover acquired from Congress an additional $100 million to continue the Federal Farm Board lending and purchasing policies.[34] These actions were collectively designed to prevent a cycle of deflation and provide a fiscal stimulus. At the same time, Hoover opposed congressional proposals to provide federal relief to the unemployed, as he believed that such programs were the responsibility of state and local governments and philanthropic organizations.
 
@@ -150,7 +138,7 @@ Hoover had taken office hoping to raise agricultural tariffs in order to help fa
 
 Later policies
 
-Herbert_Hoover_and_Ted_Joslin.jpg, 1932]]
+, 1932]]
 
 By the end of 1930, the national unemployment rate had reached 11.9 percent, but it was not yet clear to most Americans that the economic downturn would be worse than the Depression of 1920–21. A series of bank failures in late 1930 heralded a larger collapse of the economy in 1931. While other countries left the gold standard, Hoover refused to abandon it; he derided any other monetary system as "collectivism." Hoover viewed the weak European economy as a major cause of economic troubles in the United States. In response to the collapse of the German economy, Hoover marshaled congressional support behind a one-year moratorium on European war debts. The Hoover Moratorium was warmly received in Europe and the United States, but Germany remained on the brink of defaulting on its loans. As the worldwide economy worsened, democratic governments fell; in Germany, Nazi Party leader Adolf Hitler assumed power.
 
@@ -160,13 +148,9 @@ The economy continued to worsen, with unemployment rates nearing 23 percent in e
 
 Budget policy
 
-Debt1929-50.jpg
-
 After a decade of budget surpluses, the federal government experienced a budget deficit in 1931. Though some economists, like William Trufant Foster, favored deficit spending to address the Great Depression, most politicians and economists believed in the necessity of keeping a balanced budget. In late 1931, Hoover proposed a tax plan to increase tax revenue by 30 percent, resulting in the passage of the Revenue Act of 1932. The act increased taxes across the board, rolling back much of the tax cut reduction program Mellon had presided over during the 1920s. Top earners were taxed at 63 percent on their net income, the highest rate since the early 1920s. The act also doubled the top estate tax rate, cut personal income tax exemptions, eliminated the corporate income tax exemption, and raised corporate tax rates.[37] Despite the passage of the Revenue Act, the federal government continued to run a budget deficit.
 
 Civil rights and Mexican Repatriation
-
-President_&_Mrs_Hoover_in_Belvidere_IL_cph.3b12319.jpg
 
 Hoover seldom mentioned civil rights while he was president. He believed that African Americans and other races could improve themselves with education and individual initiative.[38] Hoover appointed more African Americans to federal positions than Harding and Coolidge had combined, but many African-American leaders condemned various aspects of the Hoover administration, including Hoover's unwillingness to push for a federal anti-lynching law. Hoover also continued to pursue the lily-white strategy, removing African Americans from positions of leadership in the Republican Party in an attempt to end the Democratic Party's dominance in the South. Though Robert Moton and some other black leaders accepted the lily-white strategy as a temporary measure, most African-American leaders were outraged. Hoover further alienated black leaders by nominating conservative Southern judge John J. Parker to the Supreme Court; Parker's nomination ultimately failed in the Senate due to opposition from the NAACP and organized labor. Many black voters switched to the Democratic Party in the 1932 election, and African Americans would later become an important part of Franklin Roosevelt's New Deal coalition.
 
@@ -190,13 +174,9 @@ Thousands of World War I veterans and their families demonstrated and camped out
 
 1932 re-election campaign
 
-Hoover_Campaign.jpg
-
 By mid-1931 few observers thought that Hoover had much hope of winning a second term in the midst of the ongoing economic crisis. Nonetheless, Hoover faced little opposition for re-nomination at the 1932 Republican National Convention, as Coolidge and other prominent Republicans all passed on the opportunity to challenge Hoover. Franklin D. Roosevelt won the presidential nomination on the fourth ballot of the 1932 Democratic National Convention, defeating the 1928 Democratic nominee, Al Smith. The Democrats attacked Hoover as the cause of the Great Depression, and for being indifferent to the suffering of millions. Historian Martin Fausold rejects the notion that the two nominees were similar ideologically, pointing to differences between the two on federal spending on public works, agricultural issues, Prohibition, and the tariff. As Governor of New York, Roosevelt had called on the New York legislature to provide aid for the needy, establishing Roosevelt's reputation for being more favorable toward government interventionism during the economic crisis. The Democratic Party, including Al Smith and other national leaders, coalesced behind Roosevelt, while progressive Republicans like George Norris and Robert La Follette Jr. deserted Hoover.
 
 Hoover's detractors wondered why he did not do anything to reapportion congress after the 1920 United States Census which saw an increase in urban and immigrant populations. The 1920 Census was the first and only Decennial Census where the results were not used to reapportion Congress; which ultimately influenced the 1928 Electoral College and impacted the Presidential Election.[43][44]
-
-ElectoralCollege1932.svg
 
 Hoover originally planned to make only one or two major speeches, and to leave the rest of the campaigning to proxies, as sitting presidents had traditionally done. However, encouraged by Republican pleas and outraged by Democratic claims, Hoover entered the public fray. In his nine major radio addresses Hoover primarily defended his administration and his philosophy of government, urging voters to hold to the "foundations of experience" and reject the notion that government interventionism could save the country from the Depression. In his campaign trips around the country, Hoover was faced with perhaps the most hostile crowds ever seen by a sitting president. Besides having his train and motorcades pelted with eggs and rotten fruit, he was often heckled while speaking, and on several occasions, the Secret Service halted attempts to kill Hoover by disgruntled citizens, including capturing one man nearing Hoover carrying sticks of dynamite, and another already having removed several spikes from the rails in front of the president's train.[45]
 
@@ -208,8 +188,6 @@ Post-presidency
 Roosevelt administration
 
 Opposition to New Deal
-
-FDR_Inauguration_1933.jpg
 
 Hoover departed from Washington in March 1933, bitter at his election loss and continuing unpopularity. As Coolidge, Harding, Wilson, and Taft had all died during the 1920s or early 1930s, Hoover was the sole living ex-president from 1933 to 1953. Hoover and his wife lived in Palo Alto until her death in 1944, at which point Hoover began to live permanently at the Waldorf Astoria hotel in New York City. During the 1930s, Hoover increasingly self-identified as a conservative. He closely followed national events after leaving public office, becoming a constant critic of Franklin Roosevelt. In response to continued attacks on his character and presidency, Hoover wrote more than two dozen books, including _The Challenge to Liberty_ (1934), which harshly criticized Roosevelt's New Deal. Hoover described the New Deal's National Recovery Administration and Agricultural Adjustment Administration as "fascistic", and he called the 1933 Banking Act a "move to gigantic socialism."
 
@@ -223,7 +201,7 @@ During a radio broadcast on June 29, 1941, one week after the Nazi invasion of t
 
 Post–World War II
 
-Hhoover.jpeg portrait painted by Elmer Wesley Greene]]
+portrait painted by Elmer Wesley Greene]]
 
 Following World War II, Hoover befriended President Harry S. Truman despite their ideological differences. Because of Hoover's experience with Germany at the end of World War I, in 1946 Truman selected the former president to tour Germany to ascertain the food needs of the occupied nation. After touring Germany, Hoover produced a number of reports critical of U.S. occupation policy.[49] He stated in one report that "there is the illusion that the New Germany left after the annexations can be reduced to a 'pastoral state.' It cannot be done unless we exterminate or move 25,000,000 people out of it."[50] On Hoover's initiative, a school meals program in the American and British occupation zones of Germany was begun on April 14, 1947; the program served 3,500,000 children.[51]
 
@@ -242,7 +220,7 @@ Hoover was honored with a state funeral in which he lay in state in the United S
 
 Legacy
 
-Herbert_Hoover_Presidential_Library_003.jpg Hoover_Plaque_Poznan.JPG honoring Herbert Hoover]] Dupont_KBS-FRB(2).jpg
+honoring Herbert Hoover]]
 
 Historical reputation
 

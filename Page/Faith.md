@@ -1,4 +1,4 @@
-National_gallery_in_washington_d.c.,_mino_da_fiesole,_fede,_1475-1480.JPG.]]
+.]]
 
 FAITH, derived from Latin _fides_ and Old French _feid_,[1] is confidence or trust in a person, thing, or In the context of religion, one can define faith as confidence or trust in a particular system of religious belief.[2] Religious people often think of faith as confidence based on a perceived degree of warrant,[3][4] while others who are more skeptical of religion tend to think of faith as simply belief without evidence.[5]
 
@@ -44,7 +44,7 @@ Thus, the role of faith increased throughout Buddhist history. However, from the
 
 Christianity
 
-Triumph_of_Faith_over_Idolatry_Theodon.jpg'' by Jean-Baptiste Théodon (1646–1713)]] The word translated as "faith" in the New Testament is the Greek word _πίστις_ (_pístis_) which can also be translated "belief", "faithfulness", and "trust".[31] There are various views in Christianity regarding the nature of faith. Some see faith as being persuaded or convinced that something is true.[32] In this view, a person believes something when they are presented with adequate evidence that it is true. Theologian Thomas Aquinas did not hold that faith is mere opinion: on the contrary, he held that it is a mean (understood in the Platonic sense) between excessive reliance on science (i.e. demonstration) and excessive reliance on opinion.[33]
+'' by Jean-Baptiste Théodon (1646–1713)]] The word translated as "faith" in the New Testament is the Greek word _πίστις_ (_pístis_) which can also be translated "belief", "faithfulness", and "trust".[31] There are various views in Christianity regarding the nature of faith. Some see faith as being persuaded or convinced that something is true.[32] In this view, a person believes something when they are presented with adequate evidence that it is true. Theologian Thomas Aquinas did not hold that faith is mere opinion: on the contrary, he held that it is a mean (understood in the Platonic sense) between excessive reliance on science (i.e. demonstration) and excessive reliance on opinion.[33]
 
 Then there are numerous views regarding the results of faith. Some believe that true faith results in good works, while others believe that while faith in Jesus brings eternal life, it does not necessarily result in good works.[34]
 
@@ -153,7 +153,7 @@ Philosophy professor Peter Boghossian argues that reason and evidence are the on
 
 See also
 
-Shintō_prayer.jpg faith.]]
+faith.]]
 
 
 References

@@ -28,7 +28,7 @@ In Helsinki slang, the city is called _Stadi_ (from the Swedish word _stad_, mea
 
 History
 
-Helsinki_1820.jpg.]] Suomenlinna_Susisaari.jpg began in the 18th century.]]
+.]] began in the 18th century.]]
 
 Early history
 
@@ -49,7 +49,7 @@ Despite the tumultuous nature of Finnish history during the first half of the 20
 
 Geography
 
-Helsinki_SPOT_1021.jpg seen from the SPOT satellite]]
+seen from the SPOT satellite]]
 
 Called the "Daughter of the Baltic", Helsinki is on the tip of a peninsula and on 315 islands. The inner city is located on a southern peninsula, _Helsinginniemi_ (”Helsinki’s peninsula”), which is rarely referred to by its actual name, Vironniemi (”Estonia’s peninsula”). Population density in certain parts of Helsinki's inner city area is comparatively higher, reaching in the district of Kallio, but as a whole Helsinki's population density of ranks the city as rather sparsely populated in comparison to other European capital cities.[26][27] Outside of the inner city, much of Helsinki consists of postwar suburbs separated by patches of forest. A narrow, long Helsinki Central Park, stretching from the inner city to Helsinki's northern border, is an important recreational area for residents. The City of Helsinki has about 11,000 boat berths and possesses over 14,000 hectares (34,595 acres; 54.1 sq mi) of marine fishing waters adjacent to the Capital Region. Some 60 fish species are found in this area and recreational fishing is popular.
 
@@ -57,7 +57,7 @@ Major islands in Helsinki include Seurasaari, Vallisaari, Lauttasaari, and Korke
 
 Metropolitan area
 
-Greater_Helsinki_Urban_Area.svg, an officially recognized urban area]] The Helsinki metropolitan area, also known as the Capital Region (Finnish: _Pääkaupunkiseutu_, Swedish: _Huvudstadsregionen_) comprises four municipalities: Helsinki, Espoo, Vantaa, and Kauniainen.[28] The Helsinki urban area is considered to be the only metropolis in Finland.[29] It has a population of over 1,1 million, and is the most densely populated area of Finland. The Capital Region spreads over a land area of and has a population density of . With over 20 percent of the country's population in just 0.2 percent of its surface area, the area's housing density is high by Finnish standards.
+, an officially recognized urban area]] The Helsinki metropolitan area, also known as the Capital Region (Finnish: _Pääkaupunkiseutu_, Swedish: _Huvudstadsregionen_) comprises four municipalities: Helsinki, Espoo, Vantaa, and Kauniainen.[28] The Helsinki urban area is considered to be the only metropolis in Finland.[29] It has a population of over 1,1 million, and is the most densely populated area of Finland. The Capital Region spreads over a land area of and has a population density of . With over 20 percent of the country's population in just 0.2 percent of its surface area, the area's housing density is high by Finnish standards.
 
 The Helsinki Metropolitan Area (Greater Helsinki) consists of the cities of Helsinki Capital Region and ten surrounding municipalities. The Metropolitan Area covers and has a population of over 1.4 million, or about a fourth of the total population of Finland. The metropolitan area has a high concentration of employment: approximately 750,000 jobs.[30] Despite the intensity of land use, the region also has large recreational areas and green spaces. The Greater Helsinki area is the world's northernmost urban area with a population of over one million people, and the northernmost EU capital city.
 
@@ -77,7 +77,7 @@ Neighbourhoods and other subdivisions
 
 Cityscape
 
-HelsinkiToolonlahti.jpgnlahti]] Lutheran_Cathedral_Helsinki.jpg is among the most prominent buildings in the city.]] Carl Ludvig Engel, appointed to plan a new city centre on his own, designed several neoclassical buildings in Helsinki. The focal point of Engel's city plan was the Senate Square. It is surrounded by the Government Palace (to the east), the main building of Helsinki University (to the west), and (to the north) the large Helsinki Cathedral, which was finished in 1852, twelve years after Engel's death. Helsinki's epithet, "The White City of the North", derives from this construction era.
+nlahti]] is among the most prominent buildings in the city.]] Carl Ludvig Engel, appointed to plan a new city centre on his own, designed several neoclassical buildings in Helsinki. The focal point of Engel's city plan was the Senate Square. It is surrounded by the Government Palace (to the east), the main building of Helsinki University (to the west), and (to the north) the large Helsinki Cathedral, which was finished in 1852, twelve years after Engel's death. Helsinki's epithet, "The White City of the North", derives from this construction era.
 
 Helsinki is also home to numerous Art Nouveau-influenced (Jugend in Finnish) buildings belonging to the romantic nationalism trend, designed in the early 20th century and strongly influenced by _Kalevala_, which was a common theme of the era. Helsinki's Art Nouveau style is also featured in central residential districts, such as Katajanokka and Ullanlinna. An important architect of the Finnish Art Nouveau style was Eliel Saarinen, whose architectural masterpiece was the Helsinki Central Station.
 
@@ -94,7 +94,7 @@ In the 21st century Helsinki has decided to allow the construction of skyscraper
 
 Government
 
-Helsinki_City_Hall_-_DSC03930.JPG houses the City Council of Helsinki]] As is the case with all Finnish municipalities, Helsinki's city council is the main decision-making organ in local politics, dealing with issues such as urban planning, schools, health care, and public transport. The council is chosen in the nationally-held municipal elections, which are held every four years.
+houses the City Council of Helsinki]] As is the case with all Finnish municipalities, Helsinki's city council is the main decision-making organ in local politics, dealing with issues such as urban planning, schools, health care, and public transport. The council is chosen in the nationally-held municipal elections, which are held every four years.
 
 Helsinki's city council consists of eighty-five members. Following the most recent municipal elections in 2017, the three largest parties are the National Coalition Party (25), the Green League (21), and the Social Democratic Party (12).[42]
 
@@ -144,11 +144,7 @@ Language
 
   ------------------------------------- ---------- ------------------- ------------
 
-The population broken down by language group, 1870–2013. During the period, the population increased significantly, and the city changed its linguistic majority from Swedish to Finnish.
-Finnish speakers
-Swedish speakers
-Russian speakers
-Speakers of other languages Finnish and Swedish are the official languages of Helsinki. 79.1%[51] of the citizens speak Finnish as their native language. 5.7% speak Swedish. The remaining 15.3% of the population speaks a native language other than Finnish or Swedish.
+ Finnish and Swedish are the official languages of Helsinki. 79.1%[51] of the citizens speak Finnish as their native language. 5.7% speak Swedish. The remaining 15.3% of the population speaks a native language other than Finnish or Swedish.
 
 Helsinki slang is a regional dialect of the city. It combines influences mainly from Finnish and English, and has traditionally had strong Russian and Swedish influences. Finnish today is the common language of communication between Finnish speakers, Swedish speakers, and speakers of other languages (New Finns) in day-to-day affairs in the public sphere between unknown persons. Swedish is commonly spoken in city or national agencies specifically aimed at Finland-Swedish speakers, such as the Social Services Department on Hämeentie or the Luckan Cultural centre in Kamppi. Knowledge of Finnish is also essential in business and is usually a basic requirement in the employment market.[52]
 
@@ -219,7 +215,7 @@ The number of people with a foreign mother tongue is expected to be 196,500 in 2
 
 Economy
 
-Kamppi_Center_II.jpg, a shopping and transportation complex in Kamppi]]
+, a shopping and transportation complex in Kamppi]]
 
 Greater Helsinki generates approximately one third of Finland's GDP. GDP per capita is roughly 1.3 times the national average.[62] Helsinki profits on serviced-related IT and public sectors. Having moved from heavy industrial works, shipping companies also employ a substantial number of people.[63]
 
@@ -237,7 +233,7 @@ The Temppeliaukio Church is a Lutheran church in the Töölö neighborhood of th
 
 Education
 
-Helsingin_yliopiston_päärakennus.jpg]] Haaga-Helia_University_Of_Applied_Sciences.png is the largest business polytechnic in Finland.]]
+]] is the largest business polytechnic in Finland.]]
 
 Helsinki has 190 comprehensive schools, 41 upper secondary schools, and 15 vocational institutes. Half of the 41 upper secondary schools are private or state-owned, the other half municipal. Higher level education is given in eight universities (see the section "Universities" below) and four polytechnics.
 
@@ -277,7 +273,7 @@ File:Helsinki July 2013-26a.jpg|Classical art museum Ateneum (1887) File:Helsink
 
 Theatres
 
-Finnish_National_Theatre.jpg (1902), designed by architect Onni Tarjanne]] Helsinki has three major theatres: The Finnish National Theatre, the Helsinki City Theatre, and the Swedish Theatre (_Svenska Teatern_). Other notable theatres in the city include the Alexander Theatre, _Q-teatteri_, Savoy Theatre, KOM-theatre, and _Teatteri Jurkka_.
+(1902), designed by architect Onni Tarjanne]] Helsinki has three major theatres: The Finnish National Theatre, the Helsinki City Theatre, and the Swedish Theatre (_Svenska Teatern_). Other notable theatres in the city include the Alexander Theatre, _Q-teatteri_, Savoy Theatre, KOM-theatre, and _Teatteri Jurkka_.
 
 Music
 
@@ -291,7 +287,7 @@ Helsinki Arena hosted the Eurovision Song Contest 2007, the first Eurovision Son
 
 Art
 
-Strange_Fruit_Helsinki_Night_of_the_Arts.jpg in Helsinki]] The Helsinki Festival is an annual arts and culture festival, which takes place every August (including the Night of the Arts).[71]
+in Helsinki]] The Helsinki Festival is an annual arts and culture festival, which takes place every August (including the Night of the Arts).[71]
 
 Vappu is an annual carnival for students and workers.
 
@@ -303,7 +299,7 @@ Helsinki hosts many film festivals. Most of them are small venues, while some ha
 
 Media
 
-Yleisradion_Iso_Paja.jpg headquarters in Pasila, Helsinki]] Today, there are around 200 newspapers, 320 popular magazines, 2,100 professional magazines, 67 commercial radio stations, three digital radio channels, and one nationwide and five national public service radio channels.
+headquarters in Pasila, Helsinki]] Today, there are around 200 newspapers, 320 popular magazines, 2,100 professional magazines, 67 commercial radio stations, three digital radio channels, and one nationwide and five national public service radio channels.
 
 Sanoma publishes Finland's journal of record, _Helsingin Sanomat_, the tabloid _Ilta-Sanomat_, the commerce-oriented _Taloussanomat_, and the television channel Nelonen. Another Helsinki-based media house, Alma Media, publishes over thirty magazines, including the newspaper _Aamulehti_, the tabloid _Iltalehti_, and the commerce-oriented _Kauppalehti_.
 
@@ -313,7 +309,7 @@ The commercial television channel MTV3 and commercial radio channel Radio Nova a
 
 Sports
 
-2005_World_Championships_in_Athletics_2.jpg was the centre of activities during the 1952 Summer Olympics.]]
+was the centre of activities during the 1952 Summer Olympics.]]
 
 Helsinki has a long tradition of sports: the city gained much of its initial international recognition during the 1952 Summer Olympics, and the city has arranged sporting events such as the first World Championships in Athletics 1983 and 2005, and the European Championships in Athletics 1971, 1994, and 2012. Helsinki hosts successful local teams in both of the most popular team sports in Finland: football and ice hockey. Helsinki houses HJK Helsinki, Finland's largest and most successful football club, and IFK Helsingfors, their local rivals with 7 championship titles. The fixtures between the two are commonly known as Stadin derby. Helsinki's track and field club Helsingin Kisa-Veikot is also dominant within Finland. Ice hockey is popular among many Helsinki residents, who usually support either of the local clubs IFK Helsingfors (HIFK) or Jokerit. HIFK, with 14 Finnish championships titles, also plays in the highest bandy division,[77] along with Botnia-69. The Olympic stadium hosted the first ever Bandy World Championship in 1957.[78]
 
@@ -324,7 +320,7 @@ Transport
 
 Roads
 
-Helsinki_region_roads.jpg The backbone of Helsinki's motorway network consists of three semicircular beltways, Ring I, Ring II, and Ring III, which connect expressways heading to other parts of Finland, and the western and eastern arteries of _Länsiväylä_ and _Itäväylä_ respectively. While variants of a _Keskustatunneli_ tunnel under the city centre have been repeatedly proposed, the plan remains on the drawing board.
+The backbone of Helsinki's motorway network consists of three semicircular beltways, Ring I, Ring II, and Ring III, which connect expressways heading to other parts of Finland, and the western and eastern arteries of _Länsiväylä_ and _Itäväylä_ respectively. While variants of a _Keskustatunneli_ tunnel under the city centre have been repeatedly proposed, the plan remains on the drawing board.
 
 Helsinki has some 390 cars per 1000 inhabitants.[80] This is less than in cities of similar population and construction density, such as Brussels' 483 per 1000, Stockholm's 401, and Oslo's 413.[81][82]
 
@@ -342,11 +338,11 @@ Air traffic is handled primarily from Helsinki Airport, located approximately no
 
 Sea transport
 
-Helsinki_(23883925315).jpg]] Like many other cities, Helsinki was deliberately founded at a location on the sea in order to take advantage of shipping. The freezing of the sea imposed limitations on sea traffic up to the end of the 19th century. But for the last hundred years, the routes leading to Helsinki have been kept open even in winter with the aid of icebreakers, many of them built in the Helsinki Hietalahti shipyard. The arrival and departure of ships has also been a part of everyday life in Helsinki. Regular route traffic from Helsinki to Stockholm, Tallinn, and Saint Petersburg began as far back as 1837. Over 300 cruise ships and 360,000 cruise passengers visit Helsinki annually. There are international cruise ship docks in South Harbour, Katajanokka, West Harbour, and Hernesaari. Helsinki is the second busiest passenger port in Europe with approximately 11 million passengers in 2013.[85] Ferry connections to Tallinn, Mariehamn, and Stockholm are serviced by various companies. Finnlines passenger-freight ferries to Gdynia, Poland; Travemünde, Germany; and Rostock, Germany are also available. St. Peter Line offers passenger ferry service to Saint Petersburg several times a week.
+]] Like many other cities, Helsinki was deliberately founded at a location on the sea in order to take advantage of shipping. The freezing of the sea imposed limitations on sea traffic up to the end of the 19th century. But for the last hundred years, the routes leading to Helsinki have been kept open even in winter with the aid of icebreakers, many of them built in the Helsinki Hietalahti shipyard. The arrival and departure of ships has also been a part of everyday life in Helsinki. Regular route traffic from Helsinki to Stockholm, Tallinn, and Saint Petersburg began as far back as 1837. Over 300 cruise ships and 360,000 cruise passengers visit Helsinki annually. There are international cruise ship docks in South Harbour, Katajanokka, West Harbour, and Hernesaari. Helsinki is the second busiest passenger port in Europe with approximately 11 million passengers in 2013.[85] Ferry connections to Tallinn, Mariehamn, and Stockholm are serviced by various companies. Finnlines passenger-freight ferries to Gdynia, Poland; Travemünde, Germany; and Rostock, Germany are also available. St. Peter Line offers passenger ferry service to Saint Petersburg several times a week.
 
 Urban transport
 
-Lauttasaari_metro_station_interior.jpg with its characteristic bright orange trains is the world's northernmost subway]] Helsinki_Railway_Station_20050604.jpg, inaugurated 1919]] In the Helsinki metropolitan area, public transportation is managed by the Helsinki Regional Transport Authority, the metropolitan area transportation authority. The diverse public transport system consists of trams, commuter rail, the metro, bus lines, two ferry lines and a public bike system.
+with its characteristic bright orange trains is the world's northernmost subway]] , inaugurated 1919]] In the Helsinki metropolitan area, public transportation is managed by the Helsinki Regional Transport Authority, the metropolitan area transportation authority. The diverse public transport system consists of trams, commuter rail, the metro, bus lines, two ferry lines and a public bike system.
 
 Helsinki's tram system has been in operation with electric drive continuously since 1900. 13 routes that cover the inner part of the city are operated. As of 2017, the city is expanding the tram network, with several major tram line construction projects under way. These include the 550 trunk line (Raide-Jokeri), roughly along Ring I around the city center, and a new tramway to the island of Laajasalo.
 
@@ -376,7 +372,7 @@ Notable people
 
 Born before 1900
 
-Karl-fazer-historia-460x560.jpg, the chocolatier and Olympic sport shooter best known for founding the Fazer company]] Erkki_Karu.jpg, film director and producer]]
+, the chocolatier and Olympic sport shooter best known for founding the Fazer company]] , film director and producer]]
 
 -   Peter Forsskål (1732–1763), Swedish-Finnish naturalist and orientalist
 -   Axel Hampus Dalström (1829–1882), architect
@@ -402,7 +398,7 @@ Karl-fazer-historia-460x560.jpg, the chocolatier and Olympic sport shooter best 
 
 Born after 1900
 
-Tarja_Halonen_1c389_8827-2.jpg, President of Finland]] Hirschovits_Kim_Blues_2013_1.jpg, ice hockey player]] Linus_Torvalds.jpeg, the software engineer best known for creating the popular open-source kernel Linux]]
+, President of Finland]] , ice hockey player]] , the software engineer best known for creating the popular open-source kernel Linux]]
 
 -   Lars Ahlfors (1907–1996), mathematician, Fields medalist
 -   Paavo Berglund (1929–2012), conductor

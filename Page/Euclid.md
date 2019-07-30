@@ -1,4 +1,4 @@
-Scuola_di_atene_23.jpg as Euclid or Archimedes in the School of Athens.]]
+as Euclid or Archimedes in the School of Athens.]]
 
 EUCLID (; – _Eukleídēs_, ; fl. 300 BC), sometimes called EUCLID OF ALEXANDRIA[1] to distinguish him from Euclid of Megara, was a Greek mathematician, often referred to as the "founder of geometry"[2] or the "father of geometry". He was active in Alexandria during the reign of Ptolemy I (323–283 BC). His _Elements_ is one of the most influential works in the history of mathematics, serving as the main textbook for teaching mathematics (especially geometry) from the time of its publication until the late 19th or early 20th century.[3][4][5] In the _Elements_, Euclid deduced the theorems of what is now called Euclidean geometry from a small set of axioms. Euclid also wrote works on perspective, conic sections, spherical geometry, number theory, and mathematical rigour.
 
@@ -11,7 +11,7 @@ Very few original references to Euclid survive, so little is known about his lif
 
 A detailed biography of Euclid is given by Arabian authors, mentioning, for example, a birth town of Tyre. This biography is generally believed to be fictitious.[9] If he came from Alexandria, he would have known the Serapeum of Alexandria, and the Library of Alexandria, and may have worked there during his time. Euclid's arrival in Alexandria came about ten years after its founding by Alexander the Great, which means he arrived c. 322 BC.[10]
 
-Proclus introduces Euclid only briefly in his _Commentary on the Elements_. According to Proclus, Euclid supposedly belonged to Plato's "persuasion" and brought together the _Elements_, drawing on prior work of Eudoxus of Cnidus and of several pupils of Plato (particularly Theaetetus and Philip of Opus.) Proclus believes that Euclid is not much younger than these, and that he must have lived during the time of Ptolemy I (c. 367 BC – 282 BC) because he was mentioned by Archimedes. Although the apparent citation of Euclid by Archimedes has been judged to be an interpolation by later editors of his works, it is still believed that Euclid wrote his works before Archimedes wrote his.[11] Proclus later retells a story that, when Ptolemy I asked if there was a shorter path to learning geometry than Euclid's _Elements_, "Euclid replied there is no royal road to geometry."[12] This anecdote is questionable since it is similar to a story told about Menaechmus and Alexander the Great.[13] Euclidis_quae_supersunt_omnia.tif
+Proclus introduces Euclid only briefly in his _Commentary on the Elements_. According to Proclus, Euclid supposedly belonged to Plato's "persuasion" and brought together the _Elements_, drawing on prior work of Eudoxus of Cnidus and of several pupils of Plato (particularly Theaetetus and Philip of Opus.) Proclus believes that Euclid is not much younger than these, and that he must have lived during the time of Ptolemy I (c. 367 BC – 282 BC) because he was mentioned by Archimedes. Although the apparent citation of Euclid by Archimedes has been judged to be an interpolation by later editors of his works, it is still believed that Euclid wrote his works before Archimedes wrote his.[11] Proclus later retells a story that, when Ptolemy I asked if there was a shorter path to learning geometry than Euclid's _Elements_, "Euclid replied there is no royal road to geometry."[12] This anecdote is questionable since it is similar to a story told about Menaechmus and Alexander the Great.[13]
 
 Euclid died c. 270 BC, presumably in Alexandria.[14] In the only other key reference to Euclid, Pappus of Alexandria (c. 320 AD) briefly mentioned that Apollonius "spent a very long time with the pupils of Euclid at Alexandria, and it was thus that he acquired such a scientific habit of thought" c. 247–222 BC.[15][16]
 
@@ -20,7 +20,7 @@ Because the lack of biographical information is unusual for the period (extensiv
 
 _Elements_
 
-Oxyrhynchus_papyrus_with_Euclid's_Elements.jpg and dated to circa AD 100 (P. Oxy. 29). The diagram accompanies Book II, Proposition 5.[18]]]
+and dated to circa AD 100 (P. Oxy. 29). The diagram accompanies Book II, Proposition 5.[18]]]
 
 Although many of the results in _Elements_ originated with earlier mathematicians, one of Euclid's accomplishments was to present them in a single, logically coherent framework, making it easy to use and easy to reference, including a system of rigorous mathematical proofs that remains the basis of mathematics 23 centuries later.[19]
 
@@ -39,7 +39,7 @@ The classic translation of T. L. Heath, reads:[22]
 
 Other works
 
-Euclid_Dodecahedron_1.svg.]] Cube_to_dodecahedron_240px.gif
+.]]
 
 In addition to the _Elements_, at least five works of Euclid have survived to the present day. They follow the same logical structure as _Elements_, with definitions and proved propositions.
 
@@ -48,7 +48,7 @@ In addition to the _Elements_, at least five works of Euclid have survived to th
 -   _Catoptrics_, which concerns the mathematical theory of mirrors, particularly the images formed in plane and spherical concave mirrors. The attribution is held to be anachronistic however by J J O'Connor and E F Robertson who name Theon of Alexandria as a more likely author.[23]
 -   _Phaenomena_, a treatise on spherical astronomy, survives in Greek; it is quite similar to _On the Moving Sphere_ by Autolycus of Pitane, who flourished around 310 BC.
 
-EuclidStatueOxford.jpg in the Oxford University Museum of Natural History]]
+in the Oxford University Museum of Natural History]]
 
 -   _Optics_ is the earliest surviving Greek treatise on perspective. In its definitions Euclid follows the Platonic tradition that vision is caused by discrete rays which emanate from the eye. One important definition is the fourth: "Things seen under a greater angle appear greater, and those under a lesser angle less, while those under equal angles appear equal." In the 36 propositions that follow, Euclid relates the apparent size of an object to its distance from the eye and investigates the apparent shapes of cylinders and cones when viewed from different angles. Proposition 45 is interesting, proving that for any two unequal magnitudes, there is a point from which the two appear equal. Pappus believed these results to be important in astronomy and included Euclid's _Optics_, along with his _Phaenomena_, in the _Little Astronomy_, a compendium of smaller works to be studied before the _Syntaxis_ (_Almagest_) of Claudius Ptolemy.
 

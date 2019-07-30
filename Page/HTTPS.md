@@ -7,7 +7,7 @@ Historically, HTTPS connections were primarily used for payment transactions on 
 
 Overview
 
-Internet2.jpg beginning with the HTTPS scheme and the WWW domain name label]]
+beginning with the HTTPS scheme and the WWW domain name label]]
 
 The Uniform Resource Identifier (URI) scheme _HTTPS_ has identical usage syntax to the HTTP scheme. However, HTTPS signals the browser to use an added encryption layer of SSL/TLS to protect the traffic. SSL/TLS is especially suited for HTTP, since it can provide some protection even if only one side of the communication is authenticated. This is the case with HTTP transactions over the Internet, where typically only the server is authenticated (by the client examining the server's certificate).
 

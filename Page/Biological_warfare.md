@@ -30,7 +30,7 @@ With the onset of World War II, the Ministry of Supply in the United Kingdom est
 
 When the United States entered the war, Allied resources were pooled at the request of the British and the U.S. established a large research program and industrial complex at Fort Detrick, Maryland in 1942 under the direction of George W. Merck.[27] The biological and chemical weapons developed during that period were tested at the Dugway Proving Grounds in Utah. Soon there were facilities for the mass production of anthrax spores, brucellosis, and botulism toxins, although the war was over before these weapons could be of much operational use.[28]
 
-Shiro-ishii.jpg, commander of Unit 731, which performed live human vivisections and other biological experimentation.]] The most notorious program of the period was run by the secret Imperial Japanese Army Unit 731 during the war, based at Pingfan in Manchuria and commanded by Lieutenant General Shirō Ishii. This unit did research on BW, conducted often fatal human experiments on prisoners, and produced biological weapons for combat use.[29] Although the Japanese effort lacked the technological sophistication of the American or British programs, it far outstripped them in its widespread application and indiscriminate brutality. Biological weapons were used against both Chinese soldiers and civilians in several military campaigns.[30] In 1940, the Japanese Army Air Force bombed Ningbo with ceramic bombs full of fleas carrying the bubonic plague.[31] Many of these operations were ineffective due to inefficient delivery systems,[32] although up to 400,000 people may have died.[33] During the Zhejiang-Jiangxi Campaign in 1942, around 1,700 Japanese troops died out of a total 10,000 Japanese soldiers who fell ill with disease when their own biological weapons attack rebounded on their own forces.[34][35]
+, commander of Unit 731, which performed live human vivisections and other biological experimentation.]] The most notorious program of the period was run by the secret Imperial Japanese Army Unit 731 during the war, based at Pingfan in Manchuria and commanded by Lieutenant General Shirō Ishii. This unit did research on BW, conducted often fatal human experiments on prisoners, and produced biological weapons for combat use.[29] Although the Japanese effort lacked the technological sophistication of the American or British programs, it far outstripped them in its widespread application and indiscriminate brutality. Biological weapons were used against both Chinese soldiers and civilians in several military campaigns.[30] In 1940, the Japanese Army Air Force bombed Ningbo with ceramic bombs full of fleas carrying the bubonic plague.[31] Many of these operations were ineffective due to inefficient delivery systems,[32] although up to 400,000 people may have died.[33] During the Zhejiang-Jiangxi Campaign in 1942, around 1,700 Japanese troops died out of a total 10,000 Japanese soldiers who fell ill with disease when their own biological weapons attack rebounded on their own forces.[34][35]
 
 During the final months of World War II, Japan planned to use plague as a biological weapon against U.S. civilians in San Diego, California, during Operation Cherry Blossoms at Night. The plan was set to launch on 22 September 1945, but it was not executed because of Japan's surrender on 15 August 1945.[36][37][38][39]
 
@@ -58,7 +58,7 @@ It has been argued that rational state actors would never use biological weapons
 
 Anti-personnel
 
-Biohazard_symbol.svg symbol]]
+symbol]]
 
 Ideal characteristics of a biological agent to be used as a weapon against humans are high infectivity, high virulence, non-availability of vaccines, and availability of an effective and efficient delivery system. Stability of the weaponized agent (ability of the agent to retain its infectivity and virulence after a prolonged period of storage) may also be desirable, particularly for military applications, and the ease of creating one is often considered. Control of the spread of the agent may be another desired characteristic.
 
@@ -158,7 +158,7 @@ List of BW institutions, programs, projects and sites by country
 
 United States
 
--   Fort Detrick, MarylandB-w-scientists.jpgs at the U.S. Army Biological Warfare Laboratories, Camp Detrick, Maryland (1940s).]]
+-   Fort Detrick, Marylands at the U.S. Army Biological Warfare Laboratories, Camp Detrick, Maryland (1940s).]]
     -   U.S. Army Biological Warfare Laboratories (1943–69)
         -   Building 470
         -   One-Million-Liter Test Sphere
@@ -210,7 +210,7 @@ Soviet Union and Russia
 
 Japan
 
-Unit_731_victim.jpg officials immunity from prosecution in return for access to their research.]]
+officials immunity from prosecution in return for access to their research.]]
 
 -   Unit 731
 -   Zhongma Fortress

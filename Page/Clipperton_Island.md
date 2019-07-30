@@ -3,8 +3,6 @@ CLIPPERTON ISLAND ( or ; ) is an uninhabited coral atoll in the eastern Pacific 
 
 Geography
 
-Localisation_de_l'ile_de_Clipperton.png
-
 +-------------------+------+
 | Clipperton Island | Area |
 +===================+======+
@@ -38,11 +36,11 @@ It has a tropical oceanic climate, with average temperatures of . The rainy seas
 
 Flora and fauna
 
-Clippertonisland.jpg palms on Clipperton. The lagoon is visible beyond the trees.]] When Snodgrass and Heller visited in 1898, they reported that "no land plant is native to the island". Historical accounts from 1711, 1825 and 1839 show a low grassy or suffrutescent (partially woody) flora. During Sachet's visit in 1958, the vegetation was found to consist of a sparse cover of spiny grass and low thickets, a creeping plant (_Ipomoea_ sp.), and stands of coconut palm. This low-lying herbaceous flora seems to be a pioneer in nature, and most of it is believed to be composed of recently introduced species. Sachet suspected that _Heliotropium curassavicum_ and possibly _Portulaca oleracea_ were native. Coconut palms and pigs were introduced in the 1890s by guano miners. The pigs reduced the crab population, which in turn allowed grassland to gradually cover about 80 percent of the land surface. The elimination of these pigs in 1958—the result of a personal project by Kenneth E. Stager[11]—has caused most of this vegetation to disappear as millions of land crabs (_Johngarthia planata_) have returned.[12] The result is virtually a sandy desert, with only 674 palms counted by Christian Jost during the "Passion 2001" French mission, and five islets in the lagoon with grass that the terrestrial crabs cannot reach.
+palms on Clipperton. The lagoon is visible beyond the trees.]] When Snodgrass and Heller visited in 1898, they reported that "no land plant is native to the island". Historical accounts from 1711, 1825 and 1839 show a low grassy or suffrutescent (partially woody) flora. During Sachet's visit in 1958, the vegetation was found to consist of a sparse cover of spiny grass and low thickets, a creeping plant (_Ipomoea_ sp.), and stands of coconut palm. This low-lying herbaceous flora seems to be a pioneer in nature, and most of it is believed to be composed of recently introduced species. Sachet suspected that _Heliotropium curassavicum_ and possibly _Portulaca oleracea_ were native. Coconut palms and pigs were introduced in the 1890s by guano miners. The pigs reduced the crab population, which in turn allowed grassland to gradually cover about 80 percent of the land surface. The elimination of these pigs in 1958—the result of a personal project by Kenneth E. Stager[11]—has caused most of this vegetation to disappear as millions of land crabs (_Johngarthia planata_) have returned.[12] The result is virtually a sandy desert, with only 674 palms counted by Christian Jost during the "Passion 2001" French mission, and five islets in the lagoon with grass that the terrestrial crabs cannot reach.
 
-Jielbeaumadier_crabe_de_clipperton_mjp_paris_2014.jpeg'')]] On the north-west side the most abundant plant species are _Cenchrus echinatus_, _Sida rhombifolia_, and _Corchorus aestuans_. These plants compose a shrub cover up to 30 cm in height and are intermixed with _Eclipta_, _Phyllanthus_, and _Solanum_, as well as a taller plant, _Brassica juncea_. A unique feature is that the vegetation is arranged in parallel rows of species, with dense rows of taller species alternating with lower, more open vegetation. This was assumed to be a result of the phosphate mining method of trench-digging.[13]
+'')]] On the north-west side the most abundant plant species are _Cenchrus echinatus_, _Sida rhombifolia_, and _Corchorus aestuans_. These plants compose a shrub cover up to 30 cm in height and are intermixed with _Eclipta_, _Phyllanthus_, and _Solanum_, as well as a taller plant, _Brassica juncea_. A unique feature is that the vegetation is arranged in parallel rows of species, with dense rows of taller species alternating with lower, more open vegetation. This was assumed to be a result of the phosphate mining method of trench-digging.[13]
 
-Brown_booby.jpg]] The only land animals known to exist are two species of reptiles (_Gehyra insulensis_, a gecko, and _Emoia cyanura,_ a skink),[14] bright-orange land crabs (_Johngarthia planata_, sometimes known as the 'Clipperton Crab', although it is also found on other islands in the eastern Pacific), birds, and rats. The rats probably arrived on large fishing boats that were wrecked on the island in 1999 and 2000.[15] Bird species include white terns, masked boobies, sooty terns, brown boobies, brown noddies, black noddies, great frigatebirds, coots, martins (swallows), cuckoos and yellow warblers. Ducks have been reported in the lagoon.[16] The island has been identified as an Important Bird Area by BirdLife International because of the large breeding colony of masked boobies, with 110,000 individual birds recorded.[17] The lagoon harbours millions of isopods, which swimmers say can deliver a painful sting.[18]
+]] The only land animals known to exist are two species of reptiles (_Gehyra insulensis_, a gecko, and _Emoia cyanura,_ a skink),[14] bright-orange land crabs (_Johngarthia planata_, sometimes known as the 'Clipperton Crab', although it is also found on other islands in the eastern Pacific), birds, and rats. The rats probably arrived on large fishing boats that were wrecked on the island in 1999 and 2000.[15] Bird species include white terns, masked boobies, sooty terns, brown boobies, brown noddies, black noddies, great frigatebirds, coots, martins (swallows), cuckoos and yellow warblers. Ducks have been reported in the lagoon.[16] The island has been identified as an Important Bird Area by BirdLife International because of the large breeding colony of masked boobies, with 110,000 individual birds recorded.[17] The lagoon harbours millions of isopods, which swimmers say can deliver a painful sting.[18]
 
 A 2005 report by the NOAA's Southwest Fisheries Science Center indicated that the increased rat presence had led to a decline in both crab and bird populations, causing a corresponding increase in both vegetation and coconut palms. This report urgently recommended eradication of rats so that vegetation might be reduced and the island might return to its "pre-human" state.[19]
 
@@ -51,7 +49,7 @@ History
 
 Discovery and early claims
 
-$1_stamp_of_Clipperton_Island.jpg The island was discovered on Good Friday, 3 April 1711 by Frenchmen Martin de Chassiron and Michel Du Bocage, commanding the French ships _La Princesse_ and _La Découverte_. It was given the name _Île de la Passion_ (). They drew up the first map and claimed the island for France. The first scientific expedition took place in 1725 under Frenchman M Bocage, who lived on the island for several months. In 1858, France formally laid claim.[20]
+The island was discovered on Good Friday, 3 April 1711 by Frenchmen Martin de Chassiron and Michel Du Bocage, commanding the French ships _La Princesse_ and _La Découverte_. It was given the name _Île de la Passion_ (). They drew up the first map and claimed the island for France. The first scientific expedition took place in 1725 under Frenchman M Bocage, who lived on the island for several months. In 1858, France formally laid claim.[20]
 
 The current name comes from John Clipperton, an English pirate and privateer who fought the Spanish during the early 18th century, and who is said to have passed by the island. Some sources claim that he used it as a base for his raids on shipping.[21]
 
@@ -60,8 +58,6 @@ Other claimants included the United States, whose American Guano Mining Company 
 Mexico reasserted its claim late in the 19th century, and on 13 December 1897 sent the gunboat _La Demócrata_ to occupy and annex it. A colony was established, and a series of military governors was posted, the last one being Ramón Arnaud (1906–1916). France insisted on its ownership, and a lengthy diplomatic correspondence between the two nations led to the conclusion of a treaty on March 2, 1909, to seek the arbitration of King Victor Emmanuel III of Italy, with each nation promising to abide by his determination.[23] His decision was not rendered until 1931.[24]
 
 Guano mining, Mexican colony, and evacuation of 1917
-
-SobrevivientesClipperton.jpg
 
 The British Pacific Island Company acquired the rights to guano deposits in 1906 and built a mining settlement in conjunction with the Mexican government. That same year, a lighthouse was erected under the orders of President Porfirio Díaz. By 1914 around 100 people—men, women, and children—were living there, resupplied every two months by a ship from Acapulco. With the escalation of fighting in the Mexican Revolution, the regular resupply visits ceased and the inhabitants were left to their own devices.[25]
 
@@ -90,8 +86,6 @@ In early 1962 the island provided a home to nine crewmen of the sunken tuna clip
 In 1988, five Mexican fishermen became lost at sea after a storm during their trip along the coast of Costa Rica. They drifted within sight of the island but were unable to reach it.[38] Steven Longbaugh and David Heritage, two American deckhands from a fishing boat based in California, were stranded for three weeks in 1998. They were rescued after rebuilding a survival radio and using distress flares to signal for help.[39]
 
 21st century
-
-Clipperton_Waves.jpg
 
 The Mexican and French oceanographic expedition SURPACLIP (UNAM Mexico and UNC Nouméa) made extensive studies in 1997. In 2001, French geographer Christian Jost extended the 1997 studies through his French "Passion 2001" expedition, explaining the evolution of the ecosystem, and releasing several papers, a video film, and a website.[40] In 2003 Lance Milbrand[41] stayed for 41 days on a National Geographic Society expedition, recording his adventure in video, photos, and a written diary (see links below).
 

@@ -30,7 +30,7 @@ Total: 6 ships (1,000 GT or over) totaling 11,870 GT/ Ships by type: chemical ta
 
 Airports
 
-E9220-Nadi-Boarding-Boeing-747.jpg]]
+]]
 
 Fiji has two airports that cater to international air traffic, the main one being Nadi International Airport and a secondary one Nausori Airport which receives a small number of international flights. There are 13 other smaller domestic airports spread out through the country's outer islands and these mainly cater for small prop aircraft.[1] Airports Fiji Limited (AFL), a state-owned enterprise owns and operates Nadi International Airport and manages the other 14 airports for the Government.
 

@@ -1,4 +1,4 @@
-ANC1914.jpg, Rev Walter Rubusana, Rev John Dube, Saul Msane, and Sol Plaatje]]
+, Rev Walter Rubusana, Rev John Dube, Saul Msane, and Sol Plaatje]]
 
 The AFRICAN NATIONAL CONGRESS (ANC) is the Republic of South Africa's governing political party. It has been the ruling party of post-apartheid South Africa since the election of Nelson Mandela in the 1994 election, winning every election since then. Cyril Ramaphosa, the incumbent President of South Africa, has served as leader of the ANC since 18 December 2017.[1]
 
@@ -57,7 +57,7 @@ On 20 December 2013, a special congress of the National Union of Metalworkers of
 
 ANC flag
 
-Flag_of_the_African_National_Congress.svg The ANC flag comprises three equal horizontal stripes – black, green and gold. Black symbolises the native people of South Africa, green represents the land and gold represents the mineral and other natural wealth of South Africa.[27]
+The ANC flag comprises three equal horizontal stripes – black, green and gold. Black symbolises the native people of South Africa, green represents the land and gold represents the mineral and other natural wealth of South Africa.[27]
 
 This flag was also the battle flag of uMkhonto we Sizwe.[28]
 
@@ -82,8 +82,6 @@ In 2001, the ANC launched an online weekly web-based newsletter, _ANC Today – 
 
 Election results
 
-Proportion of votes cast for the ANC in the 2014 election, by ward.
-
 National elections
 
 National Assembly
@@ -106,7 +104,7 @@ Municipal elections
 
 Role of the ANC in resolving the conflict
 
-Old_ANC_logo_1990.svg The ANC represented the main opposition to the government during apartheid and therefore they played a major role in resolving the conflict through participating in the peacemaking and peace-building processes. Initially intelligence agents of the National Party met in secret with ANC leaders, including Nelson Mandela, to judge whether conflict resolution was possible.[34] Discussions and negotiations took place leading to the eventual unbanning of the ANC and other opposing political parties by then President de Klerk on 2 February 1990.
+The ANC represented the main opposition to the government during apartheid and therefore they played a major role in resolving the conflict through participating in the peacemaking and peace-building processes. Initially intelligence agents of the National Party met in secret with ANC leaders, including Nelson Mandela, to judge whether conflict resolution was possible.[34] Discussions and negotiations took place leading to the eventual unbanning of the ANC and other opposing political parties by then President de Klerk on 2 February 1990.
 
 The next official step towards rebuilding South Africa was the Groote Schuur Minute where the government and the ANC agreed on a common commitment towards the resolution of the existing climate of violence and intimidation, as well as a commitment to stability and to a peaceful process of negotiations. The ANC negotiated the release of political prisoners and the indemnity from prosecution for returning exiles and moreover channels of communication were established between the Government and the ANC.
 

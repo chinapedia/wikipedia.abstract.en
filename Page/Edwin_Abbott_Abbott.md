@@ -16,7 +16,7 @@ Abbott also wrote educational text books, one being "Via Latina: First Latin Boo
 
 _Flatland_
 
-Houghton_EC85_Ab264_884f_-_Flatland,_title.jpg Abbott's best-known work is his 1884 novella _Flatland: A Romance of Many Dimensions_ which describes a two-dimensional world and explores the nature of dimensions. It has often been categorized as science fiction although it could more precisely be called "mathematical fiction".
+Abbott's best-known work is his 1884 novella _Flatland: A Romance of Many Dimensions_ which describes a two-dimensional world and explores the nature of dimensions. It has often been categorized as science fiction although it could more precisely be called "mathematical fiction".
 
 With the advent of modern science fiction from the 1950s to the present day, _Flatland_ has seen a revival in popularity,[6] especially among science fiction and cyberpunk fans.[7] Many works have been inspired by the novella, including novel sequels and short films.[8]
 

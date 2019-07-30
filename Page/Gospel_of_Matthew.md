@@ -7,7 +7,7 @@ The gospel reflects the struggles and conflicts between the evangelist's communi
 
 Composition and setting
 
-Papyrus_BnF_Suppl._gr._1120_ii_3_(Gregory-Aland_papyrus_P4)_-_Gospel_of_Matthew's_title,_euangelion_kata_Maththaion.jpg Papyrus_37_-_recto.jpg]]
+]]
 
 Manuscripts
 
@@ -15,7 +15,7 @@ The oldest relatively complete manuscripts of the Bible are the _Codex Vaticanus
 
 Authorship and sources
 
-Relationship_between_synoptic_gospels-en.svg, the "shared tradition" called Q, and material unique to Matthew, called M.]] The gospel itself does not specify an author, but he was probably a male Jew, standing on the margin between traditional and non-traditional Jewish values, and familiar with technical legal aspects of scripture being debated in his time. The majority of modern scholars believe that Mark was the first gospel to be composed and that Matthew (who includes some 600 of Mark's 661 verses) and Luke both drew upon it as a major source for their works. The author of Matthew did not, however, simply copy Mark, but used it as a base, emphasising Jesus' place in the Jewish tradition and including other details not covered in Mark. He likely took an additional 220 (approximately) verses, shared by Matthew and Luke but not found in Mark, from a second source, a hypothetical collection of sayings to which scholars give the name "Quelle" ("source" in the German language), or the Q source. This view, known as the two-source hypothesis (Mark and Q), allows for a further body of tradition known as "Special Matthew", or the M source, meaning material unique to Matthew; this may represent a separate source, or it may come from the author's church, or he may have composed these verses himself. The author also had the Greek scriptures at his disposal, both as book-scrolls (Greek translations of Isaiah, the Psalms etc.) and in the form of "testimony collections" (collections of excerpts), and, if Papias is correct, probably oral stories of his community. These sources were predominantly in Greek, but mostly not from any known version of the Septuagint; a few scholars hold that some of them may have been Greek translations of older Hebrew or Aramaic sources.
+, the "shared tradition" called Q, and material unique to Matthew, called M.]] The gospel itself does not specify an author, but he was probably a male Jew, standing on the margin between traditional and non-traditional Jewish values, and familiar with technical legal aspects of scripture being debated in his time. The majority of modern scholars believe that Mark was the first gospel to be composed and that Matthew (who includes some 600 of Mark's 661 verses) and Luke both drew upon it as a major source for their works. The author of Matthew did not, however, simply copy Mark, but used it as a base, emphasising Jesus' place in the Jewish tradition and including other details not covered in Mark. He likely took an additional 220 (approximately) verses, shared by Matthew and Luke but not found in Mark, from a second source, a hypothetical collection of sayings to which scholars give the name "Quelle" ("source" in the German language), or the Q source. This view, known as the two-source hypothesis (Mark and Q), allows for a further body of tradition known as "Special Matthew", or the M source, meaning material unique to Matthew; this may represent a separate source, or it may come from the author's church, or he may have composed these verses himself. The author also had the Greek scriptures at his disposal, both as book-scrolls (Greek translations of Isaiah, the Psalms etc.) and in the form of "testimony collections" (collections of excerpts), and, if Papias is correct, probably oral stories of his community. These sources were predominantly in Greek, but mostly not from any known version of the Septuagint; a few scholars hold that some of them may have been Greek translations of older Hebrew or Aramaic sources.
 
 Setting and date
 
@@ -26,7 +26,7 @@ The author of Matthew wrote for a community of Greek-speaking Jewish Christians 
 
 Structure and content
 
-Minuscule_447.jpg]] KellsFol034rChiRhoMonogram.jpg from the Book of Kells is the most lavish such monogram]] Matthew, alone among the gospels, alternates five blocks of narrative with five of discourse, marking each off with the phrase "When Jesus had finished..." (see Five Discourses of Matthew). Some scholars see in this a deliberate plan to create a parallel to the first five books of the Old Testament; others see a three-part structure based around the idea of Jesus as Messiah; or a set of weekly readings spread out over the year; or no plan at all. Davies and Allison, in their widely used commentary, draw attention to the use of "triads" (the gospel groups things in threes), and R. T. France, in another influential commentary, notes the geographic movement from Galilee to Jerusalem and back, with the post-resurrection appearances in Galilee as the culmination of the whole story.
+]] from the Book of Kells is the most lavish such monogram]] Matthew, alone among the gospels, alternates five blocks of narrative with five of discourse, marking each off with the phrase "When Jesus had finished..." (see Five Discourses of Matthew). Some scholars see in this a deliberate plan to create a parallel to the first five books of the Old Testament; others see a three-part structure based around the idea of Jesus as Messiah; or a set of weekly readings spread out over the year; or no plan at all. Davies and Allison, in their widely used commentary, draw attention to the use of "triads" (the gospel groups things in threes), and R. T. France, in another influential commentary, notes the geographic movement from Galilee to Jerusalem and back, with the post-resurrection appearances in Galilee as the culmination of the whole story.
 
 Prologue: genealogy, Nativity and infancy
 
@@ -63,7 +63,7 @@ After the resurrection the remaining disciples return to Galilee, "to the mounta
 
 Theology
 
-Matthew_Evangelist_Incunabula_Koberger_Bible_wiki.jpg's Bible (Nuremberg, 1483): The angelically inspired Saint Matthew musters the Old Testament figures, led by Abraham and David]]
+'s Bible (Nuremberg, 1483): The angelically inspired Saint Matthew musters the Old Testament figures, led by Abraham and David]]
 
 Christology
 

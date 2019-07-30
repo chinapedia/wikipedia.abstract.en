@@ -35,7 +35,7 @@ In France, women obtained the right to vote only with the Provisional Government
 
 Mid-20th century
 
-By the mid-20th century, women still lacked significant rights. In Switzerland, women gained the right to vote in federal elections in 1971;[56] but in the canton of Appenzell Innerrhoden women obtained the right to vote on local issues only in 1991, when the canton was forced to do so by the Federal Supreme Court of Switzerland.[57] In Liechtenstein, women were given the right to vote by the women's suffrage referendum of 1984. Three prior referendums held in 1968, 1971 and 1973 had failed to secure women's right to vote. Photograph_of_American_Women_Replacing_Men_Fighting_in_Europe_-_NARA_-_535769.tif
+By the mid-20th century, women still lacked significant rights. In Switzerland, women gained the right to vote in federal elections in 1971;[56] but in the canton of Appenzell Innerrhoden women obtained the right to vote on local issues only in 1991, when the canton was forced to do so by the Federal Supreme Court of Switzerland.[57] In Liechtenstein, women were given the right to vote by the women's suffrage referendum of 1984. Three prior referendums held in 1968, 1971 and 1973 had failed to secure women's right to vote.
 
 Feminists continued to campaign for the reform of family laws which gave husbands control over their wives. Although by the 20th century coverture had been abolished in the UK and US, in many continental European countries married women still had very few rights. For instance, in France married women did not receive the right to work without their husband's permission until 1965.[58][59] Feminists have also worked to abolish the "marital exemption" in rape laws which precluded the prosecution of husbands for the rape of their wives.[60] Earlier efforts by first-wave feminists such as Voltairine de Cleyre, Victoria Woodhull and Elizabeth Clarke Wolstenholme Elmy to criminalize marital rape in the late 19th century had failed;[61][62] this was only achieved a century later in most Western countries, but is still not achieved in many other parts of the world.[63]
 
@@ -55,7 +55,7 @@ Late 20th and early-21st centuries
 
 Third-wave feminism
 
-Lozu_mont_oct8_bellhooooooooks.png (b. 1952).]] Third-wave feminism is traced to the emergence of the Riot grrrl feminist punk subculture in Olympia, Washington, in the early 1990s,[76][77] and to Anita Hill's televised testimony in 1991—to an all-male, all-white Senate Judiciary Committee—that Clarence Thomas, nominated for the Supreme Court of the United States, had sexually harassed her. The term _third wave_ is credited to Rebecca Walker, who responded to Thomas's appointment to the Supreme Court with an article in _Ms._ magazine, "Becoming the Third Wave" (1992).[78][79] She wrote:
+(b. 1952).]] Third-wave feminism is traced to the emergence of the Riot grrrl feminist punk subculture in Olympia, Washington, in the early 1990s,[76][77] and to Anita Hill's televised testimony in 1991—to an all-male, all-white Senate Judiciary Committee—that Clarence Thomas, nominated for the Supreme Court of the United States, had sexually harassed her. The term _third wave_ is credited to Rebecca Walker, who responded to Thomas's appointment to the Supreme Court with an article in _Ms._ magazine, "Becoming the Third Wave" (1992).[78][79] She wrote:
 
 Third-wave feminism also sought to challenge or avoid what it deemed the second wave's essentialist definitions of femininity, which, third-wave feminists argued, over-emphasized the experiences of upper middle-class white women. Third-wave feminists often focused on "micro-politics" and challenged the second wave's paradigm as to what was, or was not, good for women, and tended to use a post-structuralist interpretation of gender and sexuality.[80][81][82][83] Feminist leaders rooted in the second wave, such as Gloria Anzaldúa, bell hooks, Chela Sandoval, Cherríe Moraga, Audre Lorde, Maxine Hong Kingston, and many other non-white feminists, sought to negotiate a space within feminist thought for consideration of race-related subjectivities.[84][85][86] Third-wave feminism also contained internal debates between difference feminists, who believe that there are important psychological differences between the sexes, and those who believe that there are no inherent psychological differences between the sexes and contend that gender roles are due to social conditioning.[87]
 
@@ -65,7 +65,7 @@ Standpoint theory is a feminist theoretical point of view stating that a person'
 
 Fourth-wave feminism
 
-Iruñeko_bortxaketaren_auzia_5.jpg sentence in Pamplona, 2018]] Women's_March_on_Washington_(32593123745).jpg, Washington, D.C.]] Fourth-wave feminism refers to a resurgence of interest in feminism that began around 2012 and is associated with the use of social media.[91] According to feminist scholar Prudence Chamberlain, the focus of the fourth wave is justice for women and opposition to sexual harassment and violence against women. Its essence, she writes, is "incredulity that certain attitudes can still exist".[92]
+sentence in Pamplona, 2018]] , Washington, D.C.]] Fourth-wave feminism refers to a resurgence of interest in feminism that began around 2012 and is associated with the use of social media.[91] According to feminist scholar Prudence Chamberlain, the focus of the fourth wave is justice for women and opposition to sexual harassment and violence against women. Its essence, she writes, is "incredulity that certain attitudes can still exist".[92]
 
 Fourth-wave feminism is "defined by technology", according to Kira Cochrane, and is characterized particularly by the use of Facebook, Twitter, Instagram, YouTube, Tumblr, and blogs such as Feministing to challenge misogyny and further gender equality.[93][94][95][96]
 
@@ -185,7 +185,7 @@ Corresponding with general developments within feminism, and often including suc
 
 Literature
 
-Butler_signing.jpg, award-winning feminist science fiction author]]
+, award-winning feminist science fiction author]]
 
 The feminist movement produced feminist fiction, feminist non-fiction, and feminist poetry, which created new interest in women's writing. It also prompted a general reevaluation of women's historical and academic contributions in response to the belief that women's lives and contributions have been underrepresented as areas of scholarly interest.[208] There has also been a close link between feminist literature and activism, with feminist writing typically voicing key concerns or ideas of feminism in a particular era.
 
@@ -205,7 +205,7 @@ In addition, many feminist movements have embraced poetry as a vehicle through w
 
 Music
 
-Billie_Holiday,_Downbeat,_New_York,_N.Y.,_ca._Feb._1947_(William_P._Gottlieb_04251).jpg in New York City in 1947]] Women's music (or womyn's music or wimmin's music) is the music by women, for women, and about women.[218] The genre emerged as a musical expression of the second-wave feminist movement[219] as well as the labour, civil rights, and peace movements.[220] The movement was started by lesbians such as Cris Williamson, Meg Christian, and Margie Adam, African-American women activists such as Bernice Johnson Reagon and her group Sweet Honey in the Rock, and peace activist Holly Near.[221] Women's music also refers to the wider industry of women's music that goes beyond the performing artists to include studio musicians, producers, sound engineers, technicians, cover artists, distributors, promoters, and festival organizers who are also women.[222] Riot grrrl is an underground feminist hardcore punk movement described in the cultural movements section of this article.
+in New York City in 1947]] Women's music (or womyn's music or wimmin's music) is the music by women, for women, and about women.[218] The genre emerged as a musical expression of the second-wave feminist movement[219] as well as the labour, civil rights, and peace movements.[220] The movement was started by lesbians such as Cris Williamson, Meg Christian, and Margie Adam, African-American women activists such as Bernice Johnson Reagon and her group Sweet Honey in the Rock, and peace activist Holly Near.[221] Women's music also refers to the wider industry of women's music that goes beyond the performing artists to include studio musicians, producers, sound engineers, technicians, cover artists, distributors, promoters, and festival organizers who are also women.[222] Riot grrrl is an underground feminist hardcore punk movement described in the cultural movements section of this article.
 
 Feminism became a principal concern of musicologists in the 1980s[223] as part of the New Musicology. Prior to this, in the 1970s, musicologists were beginning to discover women composers and performers, and had begun to review concepts of canon, genius, genre and periodization from a feminist perspective. In other words, the question of how women musicians fit into traditional music history was now being asked.[224] Through the 1980s and 1990s, this trend continued as musicologists like Susan McClary, Marcia Citron and Ruth Solie began to consider the cultural reasons for the marginalizing of women from the received body of work. Concepts such as music as gendered discourse; professionalism; reception of women's music; examination of the sites of music production; relative wealth and education of women; popular music studies in relation to women's identity; patriarchal ideas in music analysis; and notions of gender and difference are among the themes examined during this time.[225]
 
@@ -222,7 +222,7 @@ During the 1930s–1950s heyday of the big Hollywood studios, the status of wome
 
 Politics
 
-Rose_Cohen_IMG_0437_1024.jpg became a victim of Stalin's great terror, executed in November 1937, two months after the execution of her Soviet husband.]] Feminism had complex interactions with the major political movements of the twentieth century.
+became a victim of Stalin's great terror, executed in November 1937, two months after the execution of her Soviet husband.]] Feminism had complex interactions with the major political movements of the twentieth century.
 
 Socialism
 
@@ -234,7 +234,7 @@ Feminists in Ireland in the early 20th century included the revolutionary Irish 
 
 Fascism
 
-Feministas_en_lucha_anti_Pinochet_(de_Kena_Lorenzini).jpg]] Fascism has been prescribed dubious stances on feminism by its practitioners and by women's groups. Amongst other demands concerning social reform presented in the Fascist manifesto in 1919 was expanding the suffrage to all Italian citizens of age 18 and above, including women (accomplished only in 1946, after the defeat of fascism) and eligibility for all to stand for office from age 25. This demand was particularly championed by special Fascist women's auxiliary groups such as the _fasci femminilli_ and only partly realized in 1925, under pressure from dictator Benito Mussolini's more conservative coalition partners.[242][243]
+]] Fascism has been prescribed dubious stances on feminism by its practitioners and by women's groups. Amongst other demands concerning social reform presented in the Fascist manifesto in 1919 was expanding the suffrage to all Italian citizens of age 18 and above, including women (accomplished only in 1946, after the defeat of fascism) and eligibility for all to stand for office from age 25. This demand was particularly championed by special Fascist women's auxiliary groups such as the _fasci femminilli_ and only partly realized in 1925, under pressure from dictator Benito Mussolini's more conservative coalition partners.[242][243]
 
 Cyprian Blamires states that although feminists were among those who opposed the rise of Adolf Hitler, feminism has a complicated relationship with the Nazi movement as well. While Nazis glorified traditional notions of patriarchal society and its role for women, they claimed to recognize women's equality in employment.[244] However, Hitler and Mussolini declared themselves as opposed to feminism,[245] and after the rise of Nazism in Germany in 1933, there was a rapid dissolution of the political rights and economic opportunities that feminists had fought for during the pre-war period and to some extent during the 1920s.[246] Georges Duby et al. note that in practice fascist society was hierarchical and emphasized male virility, with women maintaining a largely subordinate position.[247] Blamires also notes that Neofascism has since the 1960s been hostile towards feminism and advocates that women accept "their traditional roles".[248]
 
@@ -255,7 +255,7 @@ The feminist movement has effected change in Western society, including women's 
 
 Civil rights
 
-CEDAW_Participation.svg From the 1960s on, the campaign for women's rights[262] was met with mixed results[263] in the U.S. and the U.K. Other countries of the EEC agreed to ensure that discriminatory laws would be phased out across the European Community.
+From the 1960s on, the campaign for women's rights[262] was met with mixed results[263] in the U.S. and the U.K. Other countries of the EEC agreed to ensure that discriminatory laws would be phased out across the European Community.
 
 Some feminist campaigning also helped reform attitudes to child sexual abuse. The view that young girls cause men to have sexual intercourse with them was replaced by that of men's responsibility for their own conduct, the men being adults.[264]
 
@@ -279,7 +279,7 @@ Merriam-Webster chose "feminism" as its 2017 Word of the Year, noting that "Word
 
 Theology
 
-US_Navy_080123-N-3385W-028_Cmdr._Adrienne_Simmons,_medical_provider_for_Provincial_Reconstruction_Team_Khost_and_only_woman_on_the_team,_speaks_at_the_groundbreaking_ceremony_for_a_women's_mosque_and_park_in_downtown_Khost_City.jpg, a symbol of progress for growing women's rights in the Pashtun belt.]] Feminist theology is a movement that reconsiders the traditions, practices, scriptures, and theologies of religions from a feminist perspective. Some of the goals of feminist theology include increasing the role of women among the clergy and religious authorities, reinterpreting male-dominated imagery and language about God, determining women's place in relation to career and motherhood, and studying images of women in the religion's sacred texts.[277]
+, a symbol of progress for growing women's rights in the Pashtun belt.]] Feminist theology is a movement that reconsiders the traditions, practices, scriptures, and theologies of religions from a feminist perspective. Some of the goals of feminist theology include increasing the role of women among the clergy and religious authorities, reinterpreting male-dominated imagery and language about God, determining women's place in relation to career and motherhood, and studying images of women in the religion's sacred texts.[277]
 
 Christian feminism is a branch of feminist theology which seeks to interpret and understand Christianity in light of the equality of women and men, and that this interpretation is necessary for a complete understanding of Christianity. While there is no standard set of beliefs among Christian feminists, most agree that God does not discriminate on the basis of sex, and are involved in issues such as the ordination of women, male dominance and the balance of parenting in Christian marriage, claims of moral deficiency and inferiority of women compared to men, and the overall treatment of women in the church.[278][279]
 
@@ -295,7 +295,7 @@ Secular or atheist feminists have engaged in feminist criticism of religion, arg
 
 Patriarchy
 
-"Female_Muslims-_The_tsar,_beys_and_khans_took_your_rights_away"_–_Azeri,_Baku,_1921_(Mardjani).jpg, 1921]] Patriarchy is a social system in which society is organized around male authority figures. In this system fathers have authority over women, children, and property. It implies the institutions of male rule and privilege, and is dependent on female subordination.[289] Most forms of feminism characterize patriarchy as an unjust social system that is oppressive to women. Carole Pateman argues that the patriarchal distinction "between masculinity and femininity is the political difference between freedom and subjection."[290] In feminist theory the concept of patriarchy often includes all the social mechanisms that reproduce and exert male dominance over women. Feminist theory typically characterizes patriarchy as a social construction, which can be overcome by revealing and critically analyzing its manifestations.[291] Some radical feminists have proposed that because patriarchy is too deeply rooted in society, separatism is the only viable solution.[292] Other feminists have criticized these views as being anti-men.[293][294][295]
+, 1921]] Patriarchy is a social system in which society is organized around male authority figures. In this system fathers have authority over women, children, and property. It implies the institutions of male rule and privilege, and is dependent on female subordination.[289] Most forms of feminism characterize patriarchy as an unjust social system that is oppressive to women. Carole Pateman argues that the patriarchal distinction "between masculinity and femininity is the political difference between freedom and subjection."[290] In feminist theory the concept of patriarchy often includes all the social mechanisms that reproduce and exert male dominance over women. Feminist theory typically characterizes patriarchy as a social construction, which can be overcome by revealing and critically analyzing its manifestations.[291] Some radical feminists have proposed that because patriarchy is too deeply rooted in society, separatism is the only viable solution.[292] Other feminists have criticized these views as being anti-men.[293][294][295]
 
 Men and masculinity
 

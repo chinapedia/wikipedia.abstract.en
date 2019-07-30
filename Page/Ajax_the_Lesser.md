@@ -1,4 +1,4 @@
-Aias_Kassandra_Louvre_G458.jpg AJAX ( _Aias_) was a Greek mythological hero, son of Oileus, the king of Locris. He was called the "lesser" or "Locrian" Ajax,[1] to distinguish him from Ajax the Great, son of Telamon. He was the leader of the Locrian contingent during the Trojan War. He is a significant figure in Homer's _Iliad_ and is also mentioned in the _Odyssey_,[2] in Virgil's _Aeneid_ and in Euripides' _The Trojan Women_. In Etruscan legend, he was known as _Aivas Vilates_.
+AJAX ( _Aias_) was a Greek mythological hero, son of Oileus, the king of Locris. He was called the "lesser" or "Locrian" Ajax,[1] to distinguish him from Ajax the Great, son of Telamon. He was the leader of the Locrian contingent during the Trojan War. He is a significant figure in Homer's _Iliad_ and is also mentioned in the _Odyssey_,[2] in Virgil's _Aeneid_ and in Euripides' _The Trojan Women_. In Etruscan legend, he was known as _Aivas Vilates_.
 
 
 Life
@@ -12,11 +12,9 @@ In later traditions, this Ajax is called a son of Oileus and the nymph Rhene and
 
 Death
 
-Ajax_drags_Cassandra_from_Palladium.jpg from Palladium before eyes of Priam, Roman mural from the Casa del Menandro, Pompeii]]
+from Palladium before eyes of Priam, Roman mural from the Casa del Menandro, Pompeii]]
 
 Since Ajax dragged a supplicant from her temple, Athena had cause to be indignant. According to the _Bibliotheca_, no one was aware that Ajax had raped Cassandra until Calchas, the Greek seer, warned the Greeks that Athena was furious at the treatment of her priestess and she would destroy the Greek ships if they didn't kill him immediately. Despite this, Ajax managed to hide in the altar of a deity where the Greeks, fearing divine retribution should they kill him and destroy the altar, allowed him to live. When the Greeks left without killing Ajax, despite their sacrifices, Athena became so angry that she persuaded Zeus to send a storm that sank many of their ships.
-
-Poseidon_and_Ajax.png
 
 As he was returning from Troy, Athena hit his ship with a thunderbolt and the vessel was wrecked on the Whirling Rocks (). But he escaped with some of his men, managing to cling onto a rock through the assistance of Poseidon. He would have been saved in spite of Athena, but he then audaciously declared that he would escape the dangers of the sea in defiance of the immortals. Offended by this presumption, Poseidon split the rock with his trident and Ajax was swallowed up by the sea.[19] Thetis buried him when the corpse washed up on Myconos.[20] Other versions depict a different death for Ajax, showing him dying when on his voyage home. In these versions, when Ajax came to the Capharean Rocks on the coast of Euboea, his ship was wrecked in a fierce storm, he himself was lifted up in a whirlwind and impaled with a flash of rapid fire from Athena in his chest, and his body thrust upon sharp rocks, which afterwards were called the rocks of Ajax.[21][22]
 
@@ -27,7 +25,7 @@ Other accounts of Ajax's death are offered by Philostratus and the scholiast on 
 
 Art
 
-Solomon_Ajax_and_Cassandra.jpg and Cassandra'' by Solomon J. Solomon (1886). In the collection of the Art Gallery of Ballarat in Victoria, Australia[29]]]
+and Cassandra'' by Solomon J. Solomon (1886). In the collection of the Art Gallery of Ballarat in Victoria, Australia[29]]]
 
 The abduction of Cassandra by Ajax was frequently represented in Greek works of art, such as the chest of Cypselus described by Pausanias and in extant works.[30]
 

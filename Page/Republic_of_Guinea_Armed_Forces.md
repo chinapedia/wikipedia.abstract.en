@@ -54,7 +54,7 @@ Source: Mamadou Kaly Bah, Regard Rétrospectif sur l'Armée Guinéenne, 1 Novemb
 
 The 1980s and Conté
 
-David_Haba_Guinean_army_2005-199.jpg On 3 April 1984, following Touré's death, Lansana Conté, assistant chief of staff of the army, led a military coup which toppled the interim head of government. A military junta, the Comité Militaire de Redressement Nationale, was installed, which started to feud within itself, and quickly, as had occurred under the Touré regime, the paramount national security concern became the preservation of the president's power.[13] Conté had to suppress his first revolt in July 1985, by his immediate deputy, Colonel Diarra Traoré.[14]
+On 3 April 1984, following Touré's death, Lansana Conté, assistant chief of staff of the army, led a military coup which toppled the interim head of government. A military junta, the Comité Militaire de Redressement Nationale, was installed, which started to feud within itself, and quickly, as had occurred under the Touré regime, the paramount national security concern became the preservation of the president's power.[13] Conté had to suppress his first revolt in July 1985, by his immediate deputy, Colonel Diarra Traoré.[14]
 
 Regional conflicts in the 1990s and 2000-2001 attacks along the southern border by rebels acting as proxies for Liberia's Charles Taylor had important effects on the security forces.[15] The Conté government was deeply involved in the First Liberian Civil War as it supported ULIMO, the major grouping opposing Taylor in Liberia. Yet on the other side of the border the Guinean government also contributed troops to the ill-fated ECOWAS peacekeeping force ECOMOG in Liberia. After ECOMOG departed in 1997-98, the Guinean government began supporting the new Liberian rebel movement LURD. Attacks by Taylor-backed rebels in 2000-01 were partially an attempt to stop this support.
 
@@ -79,8 +79,6 @@ After achieving independence from France in 1958, the Force Aerienne de Guinea w
 
 Inventory
 
-Roundel_of_Guinea.svg
-
   Aircraft               Origin         Type          Variant   In service   Notes
   ---------------------- -------------- ------------- --------- ------------ -------
   Combat Aircraft
@@ -97,7 +95,7 @@ There are four military régions - the 1st RM: Kindia; 2nd RM: Labé; 3rd RM: Ka
 
 Weapons
 
-T-55_4.jpg Panhard_AML-90_img_2308.jpg]]
+]]
 
   Name                       Origin         Type                       Obtained   Notes
   -------------------------- -------------- -------------------------- ---------- ------------------------------

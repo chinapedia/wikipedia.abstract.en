@@ -1,4 +1,4 @@
-EdinburghNYE.jpg]] HOGMANAY (;[1] [2]) is the Scots word for the last day of the year and is synonymous with the celebration of the New Year (Gregorian calendar) in the Scottish manner. It is normally followed by further celebration on the morning of New Year's Day (1 January) or, in some cases, 2 January—a Scottish bank holiday.
+]] HOGMANAY (;[1] [2]) is the Scots word for the last day of the year and is synonymous with the celebration of the New Year (Gregorian calendar) in the Scottish manner. It is normally followed by further celebration on the morning of New Year's Day (1 January) or, in some cases, 2 January—a Scottish bank holiday.
 
 The origins of Hogmanay are unclear, but it may be derived from Norse and Gaelic observances. Customs vary throughout Scotland, and usually include gift-giving and visiting the homes of friends and neighbours, with special attention given to the first-foot, the first guest of the new year.
 
@@ -64,7 +64,7 @@ There are many customs, both national and local, associated with Hogmanay. The m
 
 Local customs
 
-Stonehave_fireballs_2003.jpg Fireballs Ceremony 2003]]Catalonian_Sun_Goddess.jpg 2005]] An example of a local Hogmanay custom is the fireball swinging that takes place in Stonehaven, Aberdeenshire, in northeast Scotland. This involves local people making up "balls" of chicken wire filled with old newspaper, sticks, rags, and other dry flammable material up to a diameter of , each attached to about of wire, chain or nonflammable rope. As the Old Town House bell sounds to mark the new year, the balls are set alight and the swingers set off up the High Street from the Mercat Cross to the Cannon and back, swinging the burning balls around their heads as they go.
+Fireballs Ceremony 2003]] 2005]] An example of a local Hogmanay custom is the fireball swinging that takes place in Stonehaven, Aberdeenshire, in northeast Scotland. This involves local people making up "balls" of chicken wire filled with old newspaper, sticks, rags, and other dry flammable material up to a diameter of , each attached to about of wire, chain or nonflammable rope. As the Old Town House bell sounds to mark the new year, the balls are set alight and the swingers set off up the High Street from the Mercat Cross to the Cannon and back, swinging the burning balls around their heads as they go.
 
 At the end of the ceremony, any fireballs that are still burning are cast into the harbour. Many people enjoy this display, and large crowds flock to see it,[53] with 12,000 attending the 2007/2008 event.[54] In recent years, additional attractions have been added to entertain the crowds as they wait for midnight, such as fire poi, a pipe band, street drumming and a firework display after the last fireball is cast into the sea. The festivities are now streamed live over the Internet.[55] Another example of a pagan fire festival is the burning the clavie in the town of Burghead in Moray.
 
@@ -76,7 +76,7 @@ An old custom in the Highlands – which has survived to a small extent and seen
 
 "Auld Lang Syne"
 
-John_Masey_Wright_-_John_Rogers_-_Robert_Burns_-_Auld_Lang_Syne.jpg and John Rogers' c. 1841 illustration of _Auld Lang Syne_.]] The Hogmanay custom of singing "Auld Lang Syne" has become common in many countries. "Auld Lang Syne" is a Scots poem by Robert Burns, based on traditional and other earlier sources. It is now common to sing this in a circle of linked arms that are crossed over one another as the clock strikes midnight for New Year's Day, though it is only intended that participants link arms at the beginning of the final verse, before rushing in to the centre as a group.[58]
+and John Rogers' c. 1841 illustration of _Auld Lang Syne_.]] The Hogmanay custom of singing "Auld Lang Syne" has become common in many countries. "Auld Lang Syne" is a Scots poem by Robert Burns, based on traditional and other earlier sources. It is now common to sing this in a circle of linked arms that are crossed over one another as the clock strikes midnight for New Year's Day, though it is only intended that participants link arms at the beginning of the final verse, before rushing in to the centre as a group.[58]
 
 
 In the media
@@ -98,7 +98,7 @@ The 1693 _Scotch Presbyterian Eloquence_ contained one of the first mentions of 
 
 Although Christmas Day held its normal religious nature in Scotland amongst its Catholic and Episcopalian communities, the Presbyterian national church, the Church of Scotland, discouraged the celebration of Christmas for nearly 400 years; it only became a public holiday in Scotland in 1958. Conversely, 1 and 2 January are public holidays and Hogmanay still is associated with as much celebration as Christmas in Scotland.
 
-Edinburgh_Hogmanay_Longship.jpg is burnt during Edinburgh's annual Hogmanay celebrations (though Edinburgh has no historical connection with those Norse who invaded Scotland).]]
+is burnt during Edinburgh's annual Hogmanay celebrations (though Edinburgh has no historical connection with those Norse who invaded Scotland).]]
 
 
 Major celebrations

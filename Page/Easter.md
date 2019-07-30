@@ -16,7 +16,7 @@ In Latin and Greek, the Christian celebration was, and still is, called _Pascha_
 
 Theological significance
 
-RabulaGospelsCrucifixion.jpg and resurrection of Jesus (Rabbula Gospel illuminated manuscript, 6th century)]]
+and resurrection of Jesus (Rabbula Gospel illuminated manuscript, 6th century)]]
 
 The New Testament states that the resurrection of Jesus, which Easter celebrates, is one of the chief tenets of the Christian faith.[31] The resurrection established Jesus as the powerful Son of God[32] and is cited as proof that God will righteously judge the world.[33][34] For those who trust in Jesus' death and resurrection, "death is swallowed up in victory."[35] Any person who chooses to follow Jesus receives "a new birth into a living hope through the resurrection of Jesus Christ from the dead".[36] Through faith in the working of God those who follow Jesus are spiritually resurrected with him so that they may walk in a new way of life and receive eternal salvation, being physically resurrected to dwell in the Kingdom of Heaven.[37][38][39]
 
@@ -25,7 +25,7 @@ Easter is linked to Passover and the Exodus from Egypt recorded in the Old Testa
 
 Early Christianity
 
-Last-supper-from-Kremikovtsi.jpg celebrated by Jesus and his disciples. The early Christians, too, would have celebrated this meal to commemorate Jesus' death and subsequent resurrection.]] The first Christians, Jewish and Gentile, were certainly aware of the Hebrew calendar.[44] Jewish Christians, the first to celebrate the resurrection of Jesus, timed the observance in relation to Passover.
+celebrated by Jesus and his disciples. The early Christians, too, would have celebrated this meal to commemorate Jesus' death and subsequent resurrection.]] The first Christians, Jewish and Gentile, were certainly aware of the Hebrew calendar.[44] Jewish Christians, the first to celebrate the resurrection of Jesus, timed the observance in relation to Passover.
 
 Direct evidence for a more fully formed Christian festival of Pascha (Easter) begins to appear in the mid-2nd century. Perhaps the earliest extant primary source referring to Easter is a mid-2nd-century Paschal homily attributed to Melito of Sardis, which characterizes the celebration as a well-established one.[45] Evidence for another kind of annually recurring Christian festival, those commemorating the martyrs, began to appear at about the same time as the above homily.[46]
 
@@ -36,7 +36,7 @@ The ecclesiastical historian Socrates Scholasticus attributes the observance of 
 
 Date
 
-Pötting_Kirchenfenster_7_Osterlamm.jpg, a concept integral to the foundation of Easter[50][51]]] Easter and the holidays that are related to it are _moveable feasts_, in that they do not fall on a fixed date in the Gregorian or Julian calendars (both of which follow the cycle of the sun and the seasons). Instead, the date for Easter is determined on a lunisolar calendar similar to the Hebrew calendar. The First Council of Nicaea (325) established two rules, independence of the Jewish calendar and worldwide uniformity, which were the only rules for Easter explicitly laid down by the Council. No details for the computation were specified; these were worked out in practice, a process that took centuries and generated a number of controversies. (See also Computus and Reform of the date of Easter.) In particular, the Council did not decree that Easter must fall on Sunday. This was already the practice almost everywhere.[52]
+, a concept integral to the foundation of Easter[50][51]]] Easter and the holidays that are related to it are _moveable feasts_, in that they do not fall on a fixed date in the Gregorian or Julian calendars (both of which follow the cycle of the sun and the seasons). Instead, the date for Easter is determined on a lunisolar calendar similar to the Hebrew calendar. The First Council of Nicaea (325) established two rules, independence of the Jewish calendar and worldwide uniformity, which were the only rules for Easter explicitly laid down by the Council. No details for the computation were specified; these were worked out in practice, a process that took centuries and generated a number of controversies. (See also Computus and Reform of the date of Easter.) In particular, the Council did not decree that Easter must fall on Sunday. This was already the practice almost everywhere.[52]
 
 In Western Christianity, using the Gregorian calendar, Easter always falls on a Sunday between 22 March and 25 April[53] inclusive, within about seven days after the astronomical full moon.[54] The following day, Easter Monday, is a legal holiday in many countries with predominantly Christian traditions.
 
@@ -60,7 +60,7 @@ The Gregorian calculation of Easter was based on a method devised by the Calabri
 
 Controversies over the date
 
-5part-icon.jpeg icon depicting the Easter story.
+icon depicting the Easter story.
 Eastern Orthodox Christians use a different computation for the date of Easter than the Western churches.]] The precise date of Easter has at times been a matter of contention. By the later 2nd century, it was widely accepted that the celebration of the holiday was a practice of the disciples and an undisputed tradition. The Quartodeciman controversy, the first of several Easter controversies, arose concerning the date on which the holiday should be celebrated.
 
 The term "Quartodeciman" refers to the practice of celebrating Easter on Nisan 14 of the Hebrew calendar, "the 's passover" (). According to the church historian Eusebius, the Quartodeciman Polycarp (bishop of Smyrna, by tradition a disciple of John the Apostle) debated the question with Anicetus (bishop of Rome). The Roman province of Asia was Quartodeciman, while the Roman and Alexandrian churches continued the fast until the Sunday following (the Sunday of Unleavened Bread), wishing to associate Easter with Sunday. Neither Polycarp nor Anicetus persuaded the other, but they did not consider the matter schismatic either, parting in peace and leaving the question unsettled.
@@ -91,7 +91,7 @@ The Greek island of Syros, whose population is divided almost equally between Ca
 
 Reform of the date
 
-Receiving_the_Holy_Light_at_Easter.jpg; all electric lighting is off, and only the oil lamps in front of the Iconostasis remain lit. (St. George Greek Orthodox Church, Adelaide).]]
+; all electric lighting is off, and only the oil lamps in front of the Iconostasis remain lit. (St. George Greek Orthodox Church, Adelaide).]]
 
 In the 20th century, some individuals and institutions have propounded a fixed date for Easter, the most prominent proposal being the Sunday after the second Saturday in April. Despite having some support, proposals to reform the date have not been implemented.[80] An Orthodox congress of Eastern Orthodox bishops, which included representatives mostly from the Patriarch of Constantinople and the Serbian Patriarch, met in Constantinople in 1923, where the bishops agreed to the Revised Julian calendar.[81]
 
@@ -132,7 +132,7 @@ The week beginning with Easter Sunday is called Easter Week or the Octave of Eas
 
 Religious observance
 
-Resurrection.JPG by Piero della Francesca, 1463]]
+by Piero della Francesca, 1463]]
 
 Western Christianity
 
@@ -142,11 +142,11 @@ Services continue on Easter Sunday and in a number of countries on Easter Monday
 
 Eastern Christianity
 
-17th-century_unknown_painters_-_The_Resurrection_of_Christ_-_WGA23478.jpg Eastern Catholics and Byzantine Rite Lutherans have a similar emphasis on Easter in their calendars, and many of their liturgical customs are very similar.[95]
+Eastern Catholics and Byzantine Rite Lutherans have a similar emphasis on Easter in their calendars, and many of their liturgical customs are very similar.[95]
 
 Preparation for Easter begins with the season of Great Lent, which begins on Clean Monday.[96] While the end of Lent is Lazarus Saturday, fasting does not end until Easter Sunday.[97] The Orthodox service begins late Saturday evening, observing the Jewish tradition that evening is the start of liturgical holy days.[98]
 
-Paskhakustodiev.jpg's _Pascha Greetings_ (1912) shows traditional Russian _khristosovanie_ (exchanging a triple kiss), with such foods as red eggs, kulich and paskha in the background.]] The church is darkened, then the priest lights a candle at midnight, representing the resurrection of Jesus Christ. Altar servers light additional candles, with a procession which moves three times around the church to represent the three days in the tomb.[99] The service continues early into Sunday morning, with a feast to end the fasting. An additional service is held later that day on Easter Sunday.[100]
+'s _Pascha Greetings_ (1912) shows traditional Russian _khristosovanie_ (exchanging a triple kiss), with such foods as red eggs, kulich and paskha in the background.]] The church is darkened, then the priest lights a candle at midnight, representing the resurrection of Jesus Christ. Altar servers light additional candles, with a procession which moves three times around the church to represent the three days in the tomb.[99] The service continues early into Sunday morning, with a feast to end the fasting. An additional service is held later that day on Easter Sunday.[100]
 
 Non-observing Christian groups
 

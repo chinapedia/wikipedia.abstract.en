@@ -1,4 +1,4 @@
-AQUARIUS is a constellation of the zodiac, situated between Capricornus and Pisces. Its name is Latin for "water-carrier" or "cup-carrier", and its symbol is Aquarius.svg , a representation of water. Aquarius is one of the oldest of the recognized constellations along the zodiac (the Sun's apparent path). It was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and it remains one of the 88 modern constellations. It is found in a region often called the Sea due to its profusion of constellations with watery associations such as Cetus the whale, Pisces the fish, and Eridanus the river.
+AQUARIUS is a constellation of the zodiac, situated between Capricornus and Pisces. Its name is Latin for "water-carrier" or "cup-carrier", and its symbol is , a representation of water. Aquarius is one of the oldest of the recognized constellations along the zodiac (the Sun's apparent path). It was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and it remains one of the 88 modern constellations. It is found in a region often called the Sea due to its profusion of constellations with watery associations such as Cetus the whale, Pisces the fish, and Eridanus the river.
 
 At apparent magnitude 2.9, Beta Aquarii is the brightest star in the constellation.
 
@@ -13,7 +13,7 @@ In Greek mythology, Aquarius is sometimes associated with Deucalion, the son of 
 
 Depictions
 
-Sidney_Hall_-_Urania's_Mirror_-_Aquarius,_Piscis_Australis_&_Ballon_Aerostatique.jpg'' (including a now-obsolete constellation, Ballon Aerostatique south of it)]] In the first century, Ptolemy's _Almagest_ established the common Western depiction of Aquarius. His water jar, an asterism itself, consists of Gamma, Pi, Eta, and Zeta Aquarii; it pours water in a stream of more than 20 stars terminating with Fomalhaut, now assigned solely to Piscis Austrinus. The water bearer's head is represented by 5th magnitude 25 Aquarii while his left shoulder is Beta Aquarii; his right shoulder and forearm are represented by Alpha and Gamma Aquarii respectively.
+'' (including a now-obsolete constellation, Ballon Aerostatique south of it)]] In the first century, Ptolemy's _Almagest_ established the common Western depiction of Aquarius. His water jar, an asterism itself, consists of Gamma, Pi, Eta, and Zeta Aquarii; it pours water in a stream of more than 20 stars terminating with Fomalhaut, now assigned solely to Piscis Austrinus. The water bearer's head is represented by 5th magnitude 25 Aquarii while his left shoulder is Beta Aquarii; his right shoulder and forearm are represented by Alpha and Gamma Aquarii respectively.
 
 In Eastern astronomy
 
@@ -25,8 +25,6 @@ Three of the Chinese lunar mansions shared their name with constellations. _Nu_,
 
 
 Features
-
-AquariusCC.jpg
 
 Stars
 
@@ -64,7 +62,7 @@ On 23 February 2017, NASA announced that ultracool dwarf star TRAPPIST-1 in Aqua
 
 Deep sky objects
 
-The_green_bean_galaxy_J2240.jpg J2240 lies in the constellation of Aquarius]]
+J2240 lies in the constellation of Aquarius]]
 
 Because of its position away from the galactic plane, the majority of deep-sky objects in Aquarius are galaxies, globular clusters, and planetary nebulae. Aquarius contains three deep sky objects that are in the Messier catalog: the globular clusters Messier 2, Messier 72, and the open cluster Messier 73. Two well-known planetary nebulae are also located in Aquarius: the Saturn Nebula (NGC 7009), to the southeast of μ Aquarii; and the famous Helix Nebula (NGC 7293), southwest of δ Aquarii.
 

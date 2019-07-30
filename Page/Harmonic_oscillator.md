@@ -42,7 +42,7 @@ The potential energy stored in a simple harmonic oscillator at position _x_ is
 
 Damped harmonic oscillator
 
-Damping_1.svg Oscillatory_motion_acceleration.ogv. ]]
+. ]]
 
 In real oscillators, friction, or damping, slows the motion of the system. Due to frictional force, the velocity decreases in proportion to the acting frictional force. While in a simple undriven harmonic oscillator the only force acting on the mass is the restoring force, in a damped harmonic oscillator there is in addition a frictional force which is always in a direction to oppose the motion. In many vibrating systems the frictional force _F__(f) can be modeled as being proportional to the velocity _v_ of the object: , where _c_ is called the _viscous damping coefficient_.
 
@@ -60,7 +60,7 @@ where
     $\omega_0 = \sqrt{\frac k m}$ is called the "undamped angular frequency of the oscillator",
     $\zeta = \frac{c}{2\sqrt{mk}}$ is called the "damping ratio".
 
-Step_response_for_two-pole_feedback_amplifier.PNG of a damped harmonic oscillator; curves are plotted for three values of . Time is in units of the decay time .]]
+of a damped harmonic oscillator; curves are plotted for three values of . Time is in units of the decay time .]]
 
 The value of the damping ratio _ζ_ critically determines the behavior of the system. A damped harmonic oscillator can be:
 
@@ -117,7 +117,7 @@ In electrical engineering, a multiple of _τ_ is called the _settling time_, i.e
 
 Sinusoidal driving force
 
-Mplwp_resonance_zeta_envelope.svg ζ of a driven simple harmonic oscillator]]
+ζ of a driven simple harmonic oscillator]]
 
 In the case of a sinusoidal driving force:
 
@@ -215,7 +215,7 @@ _A_(1 − _ω_²) = cos _φ_, 2_ζ__ω__A_ =  − sin _φ_
 
 Amplitude part
 
-Harmonic_oscillator_gain.svg of the frequency response of an ideal harmonic oscillator]] Squaring both equations and adding them together gives
+of the frequency response of an ideal harmonic oscillator]] Squaring both equations and adding them together gives
 
 $$\left. \begin{aligned}
  A^2 (1-\omega^2)^2 &= \cos^2\varphi \\
@@ -297,7 +297,7 @@ Examples
 
 Simple pendulum
 
-Simple_pendulum_height.svg exhibits approximately simple harmonic motion under the conditions of no damping and small amplitude.]]
+exhibits approximately simple harmonic motion under the conditions of no damping and small amplitude.]]
 
 Assuming no damping, the differential equation governing a simple pendulum of length l, where g is the local acceleration of gravity, is
 
@@ -322,8 +322,6 @@ $$\tau = 2\pi \sqrt\frac{l}{g} = \frac{2\pi}{\omega},$$
 which is a good approximation of the actual period when θ₀ is small. Notice that in this approximation the period τ is independent of the amplitude θ₀. In the above equation, ω represents the angular frequency.
 
 Spring/mass system
-
-Harmonic_oscillator.svg
 
 When a spring is stretched or compressed by a mass, the spring develops a restoring force. Hooke's law gives the relationship of the force exerted by the spring when the spring is compressed or stretched a certain length:
 

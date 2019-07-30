@@ -37,7 +37,7 @@ Ptolemy described Arcturus as _subrufa_ ("slightly red"): it has a B-V color ind
 
 Physical characteristics
 
-Arcturus_(optical).png Based upon an annual parallax shift of 88.83 milliarcseconds as measured by the Hipparcos satellite, Arcturus is from the Sun. The parallax margin of error is 0.54 milliarcseconds, translating to a distance margin of error of ±.[19] Because of its proximity, Arcturus has a high proper motion, two arcseconds a year, greater than any first magnitude star other than α Centauri.
+Based upon an annual parallax shift of 88.83 milliarcseconds as measured by the Hipparcos satellite, Arcturus is from the Sun. The parallax margin of error is 0.54 milliarcseconds, translating to a distance margin of error of ±.[19] Because of its proximity, Arcturus has a high proper motion, two arcseconds a year, greater than any first magnitude star other than α Centauri.
 
 Arcturus is moving rapidly () relative to the Sun, and is now almost at its closest point to the Sun. Closest approach will happen in about 4,000 years, when the star will be a few hundredths of a light-year closer to Earth than it is today. (In antiquity, Arcturus was closer to the centre of the constellation.[20]) Arcturus is thought to be an old-disk star, and appears to be moving with a group of 52 other such stars, known as the Arcturus stream.[21]
 
@@ -107,7 +107,7 @@ In Ancient Rome, the star's celestial activity was supposed to portend tempestuo
 
 In the Hebrew scriptures Arcturus is referred to in Job 38:32.[56]
 
-In the Middle Ages, Arcturus was considered a Behenian fixed star[57] and attributed to the stone Jasper and the plantain herb. Cornelius Agrippa listed its kabbalistic sign Image:Agrippa1531 Alchameth.png under the alternate name _Alchameth_.
+In the Middle Ages, Arcturus was considered a Behenian fixed star[57] and attributed to the stone Jasper and the plantain herb. Cornelius Agrippa listed its kabbalistic sign under the alternate name _Alchameth_.
 
 The Karandavyuha sutra, compiled at the end of the 4th century or beginning of the 5th century, names one of Avalokiteshvara's meditative absorptions as "The face of Arcturus".[58]
 

@@ -1,4 +1,4 @@
-L._Ron_Hubbard_conducting_Dianetics_seminar_in_Los_Angeles_in_1950.jpg DIANETICS (from Greek _dia_, meaning "through", and _nous_, meaning "mind") is a set of ideas and practices regarding the metaphysical relationship between the mind and body created by science fiction writer L. Ron Hubbard. Dianetics is practiced by followers of Scientology,[1][2] the Nation of Islam (as of 2010),[3] and independent Dianeticist groups.
+DIANETICS (from Greek _dia_, meaning "through", and _nous_, meaning "mind") is a set of ideas and practices regarding the metaphysical relationship between the mind and body created by science fiction writer L. Ron Hubbard. Dianetics is practiced by followers of Scientology,[1][2] the Nation of Islam (as of 2010),[3] and independent Dianeticist groups.
 
 Dianetics divides the mind into three parts: the conscious "analytical mind", the subconscious "reactive mind", and the somatic mind.[4] The goal of Dianetics is to erase the content of the "reactive mind", which Scientologists believe interferes with a person's ethics, awareness, happiness, and sanity. The Dianetics procedure to achieve this erasure is called "auditing".[5] In auditing, the Dianetic auditor asks a series of questions (or commands) and elicits answers to help a person locate and deal with painful experiences of the past,[6] which Scientologists believe to be the content of the "reactive mind".[7][8]
 
@@ -95,7 +95,7 @@ When Hubbard presented Dianetics, he did so in terms of _terra incognita,_ or to
 
 Procedure in practice
 
-Dianetics_demo_at_Union_Station.jpgs promoting Dianetics at Union Station in Washington, D.C.]] The procedure of Dianetics therapy (known as _auditing_) is a two-person activity. One person, the "auditor", guides the other person, the "pre-clear". The pre-Clear's job is to look at the mind and talk to the auditor. The auditor acknowledges what the pre-Clear says and controls the process so the pre-Clear may put his full attention on his work.
+s promoting Dianetics at Union Station in Washington, D.C.]] The procedure of Dianetics therapy (known as _auditing_) is a two-person activity. One person, the "auditor", guides the other person, the "pre-clear". The pre-Clear's job is to look at the mind and talk to the auditor. The auditor acknowledges what the pre-Clear says and controls the process so the pre-Clear may put his full attention on his work.
 
 The auditor and pre-Clear sit down in chairs facing each other. The process then follows in eleven distinct steps:[86]
 

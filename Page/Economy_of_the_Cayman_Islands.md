@@ -18,7 +18,7 @@ The Cayman Islands' tax-free status has attracted numerous banks and other compa
 
 Financial services industry
 
-Butterfield_Bank_in_Georgetown,_Grand_Cayman.jpg in George Town]]
+in George Town]]
 
 The Cayman Islands is a major international financial centre. The largest sectors are "banking, hedge fund formation and investment, structured finance and securitisation, captive insurance, and general corporate activities".[9] Regulation and supervision of the financial services industry is the responsibility of the Cayman Islands Monetary Authority (CIMA). Sir Vassel Johnson was a pioneer of Cayman’s financial services industry.
 

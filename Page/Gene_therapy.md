@@ -1,4 +1,4 @@
-Gene_therapy.jpg vector. In some cases, the adenovirus will insert the new gene into a cell. If the treatment is successful, the new gene will make a functional protein to treat a disease.]]
+vector. In some cases, the adenovirus will insert the new gene into a cell. If the treatment is successful, the new gene will make a functional protein to treat a disease.]]
 
 In the medicine field GENE THERAPY (also called HUMAN GENE TRANSFER) is the therapeutic delivery of nucleic acid into a patient's cells as a drug to treat disease.[1][2] The first attempt at modifying human DNA was performed in 1980 by Martin Cline, but the first successful nuclear gene transfer in humans, approved by the National Institutes of Health, was performed in May 1989.[3] The first therapeutic use of gene transfer as well as the first direct insertion of human DNA into the nuclear genome was performed by French Anderson in a trial starting in September 1990.
 
@@ -33,7 +33,7 @@ Generally, efforts focused on administering a gene that causes a needed protein 
 
 Gene editing is a potential approach to alter the human genome to treat genetic diseases[38], viral diseases,[39] and cancer.[40] these approaches were still years from being medicine.[41][42]
 
-CRISPR-Cas9_mode_of_action.png acts as guide RNA to introduce a specifically located gene modification based on the RNA 5’ upstream of the crRNA. Cas9 binds the tracrRNA and needs a DNA binding sequence (5’NGG3’), which is called protospacer adjacent motif (PAM). After binding, Cas9 introduces a DNA double strand break, which is then followed by gene modification via homologous recombination (HDR) or non-homologous end joining (NHEJ).]]
+acts as guide RNA to introduce a specifically located gene modification based on the RNA 5’ upstream of the crRNA. Cas9 binds the tracrRNA and needs a DNA binding sequence (5’NGG3’), which is called protospacer adjacent motif (PAM). After binding, Cas9 introduces a DNA double strand break, which is then followed by gene modification via homologous recombination (HDR) or non-homologous end joining (NHEJ).]]
 
 
 Cell types

@@ -1,4 +1,4 @@
-Artsy_density_column.png containing various coloured liquids with different densities]]
+containing various coloured liquids with different densities]]
 
 The DENSITY, or more precisely, the VOLUMETRIC MASS DENSITY, of a substance is its mass per unit volume. The symbol most often used for density is _ρ_ (the lower case Greek letter rho), although the Latin letter _D_ can also be used. Mathematically, density is defined as mass divided by volume:[1]
 
@@ -283,8 +283,6 @@ Water
 
 Air
 
-Air_density_vs_temperature.svg
-
   _T_ (°C)   _ρ_ (kg/m³)
   ---------- -------------
   −25        1.423
@@ -304,8 +302,6 @@ Air_density_vs_temperature.svg
   : Density of air at 1 atm pressure
 
 Molar volumes of liquid and solid phase of elements
-
-Molar_volumes_of_liquid_and_solid_phase_of_elements.jpg
 
 
 Common units

@@ -29,13 +29,13 @@ The home distribution of anime releases were popularized in the 1980s with the V
 
 History
 
-Anime_cell_1917.jpg'', the earliest surviving Japanese animated short made for cinemas, produced in 1917]]
+'', the earliest surviving Japanese animated short made for cinemas, produced in 1917]]
 
 Japanese animation began in the early 20th century, when Japanese filmmakers experimented with the animation techniques also pioneered in France, Germany, the United States and Russia. A claim for the earliest Japanese animation is _Katsudō Shashin_, an undated and private work by an unknown creator. In 1917, the first professional and publicly displayed works began to appear. Animators such as Ōten Shimokawa and Seitarou Kitayama produced numerous works, with the oldest surviving film being Kouchi's _Namakura Gatana_, a two-minute clip of a samurai trying to test a new sword on his target only to suffer defeat.[25][26][27] The 1923 Great Kantō earthquake resulted in widespread destruction to Japan's infrastructure and the destruction of Shimokawa's warehouse, destroying most of these early works.
 
 By the 1930s animation was well established in Japan as an alternative format to the live-action industry. It suffered competition from foreign producers and many animators--like Noburō Ōfuji and Yasuji Murata--still worked in cheaper cutout animation rather than cel animation.[28] Other creators, Kenzō Masaoka and Mitsuyo Seo, nonetheless made great strides in animation technique; they benefited from the patronage of the government, which employed animators to produce educational shorts and propaganda.[29] The first talkie anime was _Chikara to Onna no Yo no Naka_, produced by Masaoka in 1933.[30] By 1940, numerous anime artists' organizations had risen, including the Shin Mangaha Shudan and Shin Nippon Mangaka.[31] The first feature-length animated film was _Momotaro's Divine Sea Warriors_ directed by Seo in 1944 with sponsorship by the Imperial Japanese Navy.[32]
 
-Momotaro's_Divine_Sea_Warriors-screeny.JPG'' (1944), the first feature-length anime film]]
+'' (1944), the first feature-length anime film]]
 
 The success of The Walt Disney Company's 1937 feature film _Snow White and the Seven Dwarfs_ profoundly influenced many Japanese animators.[33] In the 1960s, manga artist and animator Osamu Tezuka adapted and simplified many Disney animation techniques to reduce costs and to limit the number of frames in productions. He intended this as a temporary measure to allow him to produce material on a tight schedule with inexperienced animation staff.[34] _Three Tales_, aired in 1960, was the first anime shown on television. The first anime television series was _Otogi Manga Calendar_, aired from 1961 to 1964.
 
@@ -43,8 +43,6 @@ The 1970s saw a surge of growth in the popularity of _manga_, Japanese comic boo
 
 
 Attributes
-
-Modernanime.jpg
 
 Anime differs greatly from other forms of animation by its diverse art styles, methods of animation, its production, and its process. Visually, anime is a diverse art form that contains a wide variety of art styles, differing from one creator, artist, and studio. While no one art style predominates anime as a whole, they do share some similar attributes in terms of animation technique and character design.
 
@@ -63,8 +61,6 @@ Characters
 Body proportions of human anime characters tend to accurately reflect the proportions of the human body in reality. The height of the head is considered by the artist as the base unit of proportion. Head heights can vary, but most anime characters are about seven to eight heads tall.[50] Anime artists occasionally make deliberate modifications to body proportions to produce super deformed characters that feature a disproportionately small body compared to the head; many super deformed characters are two to four heads tall. Some anime works like _Crayon Shin-chan_ completely disregard these proportions, in such a way that they resemble caricatured Western cartoons.
 
 A common anime character design convention is exaggerated eye size. The animation of characters with large eyes in anime can be traced back to Osamu Tezuka, who was deeply influenced by such early animation characters as Betty Boop, who was drawn with disproportionately large eyes. Tezuka is a central figure in anime and manga history, whose iconic art style and character designs allowed for the entire range of human emotions to be depicted solely through the eyes. The artist adds variable color shading to the eyes and particularly to the cornea to give them greater depth. Generally, a mixture of a light shade, the tone color, and a dark shade is used.[51][52] Cultural anthropologist Matt Thorn argues that Japanese animators and audiences do not perceive such stylized eyes as inherently more or less foreign.[53] However, not all anime have large eyes. For example, the works of Hayao Miyazaki are known for having realistically proportioned eyes, as well as realistic hair colors on their characters.
-
-Manga_emotions-EN.jpg
 
 Hair in anime is often unnaturally lively and colorful or uniquely styled. The movement of hair in anime is exaggerated and "hair action" is used to emphasize the action and emotions of characters for added visual effect. Poitras traces hairstyle color to cover illustrations on manga, where eye-catching artwork and colorful tones are attractive for children's manga. Despite being produced for a domestic market, anime features characters whose race or nationality is not always defined, and this is often a deliberate decision, such as in the _Pokémon_ animated series.
 

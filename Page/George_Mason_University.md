@@ -31,7 +31,7 @@ Timeline from center to college then university
 
 University of Virginia (1949–1972)
 
-George_Mason_College,_Fairfax_campus,_1967,_aerial_photograph_looking_north.jpg George_Mason_College,_decal,_ca._1970.jpg The University of Virginia in Charlottesville created an extension center to serve Northern Virginia.[29] "… the University Center opened, on October 1, 1949..."[30] The extension center offered both for credit and non-credit informal classes in the evenings in the Vocational Building of the Washington-Lee High School in Arlington, Virginia, at schools in Alexandria, Fairfax, and Prince William, at federal buildings, at churches, at the Virginia Theological Seminary, and at Marine Corps Base Quantico, and even in a few private homes.[31] The first for credit classes offered were: "Government in the Far East, Introduction to International Politics, English Composition, Principles of Economics, Mathematical Analysis, Introduction to Mathematical Statistics, and Principles of Lip Reading."[32] By the end of 1952, enrollment increased to 1,192 students from 665 students the previous year.[33]
+The University of Virginia in Charlottesville created an extension center to serve Northern Virginia.[29] "… the University Center opened, on October 1, 1949..."[30] The extension center offered both for credit and non-credit informal classes in the evenings in the Vocational Building of the Washington-Lee High School in Arlington, Virginia, at schools in Alexandria, Fairfax, and Prince William, at federal buildings, at churches, at the Virginia Theological Seminary, and at Marine Corps Base Quantico, and even in a few private homes.[31] The first for credit classes offered were: "Government in the Far East, Introduction to International Politics, English Composition, Principles of Economics, Mathematical Analysis, Introduction to Mathematical Statistics, and Principles of Lip Reading."[32] By the end of 1952, enrollment increased to 1,192 students from 665 students the previous year.[33]
 
 A resolution of the Virginia General Assembly in January 1956 changed the extension center into University College, the Northern Virginia branch of the University of Virginia.[34] John Norville Gibson Finley served as director.[35] Seventeen freshmen students attended classes at University College in a small renovated elementary school building in Bailey's Crossroads starting in September 1957.[36] In 1958 University College became George Mason College.[37]
 
@@ -41,7 +41,7 @@ During the 1966 Session of the Virginia General Assembly, Alexandria delegate Ja
 
 George Mason University (1972–present)
 
-On Friday, April 7, 1972, a contingent from George Mason College, led by Chancellor Lorin A. Thompson, met with Virginia Governor A. Linwood Holton at Richmond. They were there to participate in the governor's signing into law Virginia General Assembly Bill H 210 separating George Mason College from the University of Virginia at Charlottesville and renaming it George Mason University.[40] In 1978, George W. Johnson was appointed to serve as the fourth president.[41] Under his eighteen-year tenure, the university expanded both its physical size and program offerings at a tremendous rate.[42][43] Shortly before Johnson's inauguration in April 1979, Mason acquired the School of Law and the new Arlington Campus. The university also became a doctoral institution.[44] Toward the end of Johnson's term, Mason would be deep in planning for a third campus in Prince William County at Manassas. Major campus facilities, such as Student Union Building II, EagleBank Arena, Center for the Arts, and the Johnson Learning Center, were all constructed over the course of Johnson's eighteen years as University President. Enrollment once again more than doubled from 10,767 during the fall of 1978 to 24,368 in the spring of 1996.[45] Governor_A._Linwood_Holton_signs_H-210_separating_George_Mason_College_from_the_University_of_Virginia,_April_7,_1972.jpg Dr. Alan G. Merten was appointed president in 1996. He believed that the university's location made it responsible for both contributing to and drawing from its surrounding communities—local, national, and global. George Mason was becoming recognized and acclaimed in all of these spheres. During Merten's tenure, the university hosted the World Congress of Information Technology in 1998,[46] celebrated a second Nobel Memorial Prize-winning faculty member in 2002, and cheered the Men's Basketball team in their NCAA Final Four appearance in 2006. Enrollment increased from just over 24,000 students in 1996 to approximately 33,000 during the spring semester of 2012, making Mason Virginia's largest public university and gained prominence at the national level.[47]
+On Friday, April 7, 1972, a contingent from George Mason College, led by Chancellor Lorin A. Thompson, met with Virginia Governor A. Linwood Holton at Richmond. They were there to participate in the governor's signing into law Virginia General Assembly Bill H 210 separating George Mason College from the University of Virginia at Charlottesville and renaming it George Mason University.[40] In 1978, George W. Johnson was appointed to serve as the fourth president.[41] Under his eighteen-year tenure, the university expanded both its physical size and program offerings at a tremendous rate.[42][43] Shortly before Johnson's inauguration in April 1979, Mason acquired the School of Law and the new Arlington Campus. The university also became a doctoral institution.[44] Toward the end of Johnson's term, Mason would be deep in planning for a third campus in Prince William County at Manassas. Major campus facilities, such as Student Union Building II, EagleBank Arena, Center for the Arts, and the Johnson Learning Center, were all constructed over the course of Johnson's eighteen years as University President. Enrollment once again more than doubled from 10,767 during the fall of 1978 to 24,368 in the spring of 1996.[45] Dr. Alan G. Merten was appointed president in 1996. He believed that the university's location made it responsible for both contributing to and drawing from its surrounding communities—local, national, and global. George Mason was becoming recognized and acclaimed in all of these spheres. During Merten's tenure, the university hosted the World Congress of Information Technology in 1998,[46] celebrated a second Nobel Memorial Prize-winning faculty member in 2002, and cheered the Men's Basketball team in their NCAA Final Four appearance in 2006. Enrollment increased from just over 24,000 students in 1996 to approximately 33,000 during the spring semester of 2012, making Mason Virginia's largest public university and gained prominence at the national level.[47]
 
 Dr. Ángel Cabrera officially took office on July 1, 2012. Both Cabrera and the board were well aware that Mason was part of a rapidly changing academia, full of challenges to the viability of higher education. In a resolution on August 17, 2012, the board asked Dr. Cabrera to create a new strategic vision that would help Mason remain relevant and competitive in the future. The drafting of the Vision for Mason, from conception to official outline, created a new mission statement that defines the university.[48]
 
@@ -57,40 +57,32 @@ George Mason University has four campuses in the United States, all within the C
 Fairfax
 
   Fairfax Campus
-  ---------------------------------------------------
-  An_aerial_view_of_the_Johnson_Center_at_dawn..jpg
+  -------------------------------
   {{Location map+ | GMU Fairfax
 
 The university's Fairfax Campus is situated on of landscaped land with a large pond in a suburban environment in George Mason, Virginia, just south of the City of Fairfax in central Fairfax County. Off-campus amenities are within walking distance and Washington, D.C. is approximately from campus. Notable buildings include the student union building, the Johnson Center; the Center for the Arts, a 2,000-seat concert hall; the Long and Kimmy Nguyen Engineering Building; Exploratory Hall for science, new in 2013; an astronomy observatory and telescope; the Art and Design Building; the newly expanded Fenwick Library, and will soon reconstruct the academic buildings Robinson A and B;[61] the Krasnow Institute; and three fully appointed gyms and an aquatic center for student use.[62] The stadiums for indoor and outdoor track and field, baseball, softball, tennis, soccer and lacrosse are also on the Fairfax campus,[63] as is Masonvale, a housing community for faculty, staff and graduate students.[64] The smallest building on the campus is the information booth.[65]
 
 Transportation
 
-City-University-Energysaver.jpg
-
 This campus is served by the Washington Metro Orange Line at the Vienna, Fairfax, GMU station as well as Metrobus routes.[66] The CUE Bus Green One, Green Two, Gold One, and Gold Two lines all provide service to this campus at .[67] This campus is served by the Virginia Railway Express Manassas Line at the Burke Center station.[68] Fairfax Connector Route 306: GMU–Pentagon provides service to this campus.[69] Mason provides shuttle service between this campus and Vienna, Fairfax, GMU Metro station, the Burke Center VRE station, the Science and Technology Campus, West Campus, and downtown City of Fairfax.[70]
 
 George Mason statue
 
-Mason_Statue.JPG in Washington, D.C.}} adorned with balloons]]The bronze statue of George Mason on campus was created by Wendy M. Ross and dedicated on April 12, 1996.[71] The 7 foot statue shows George Mason presenting his first draft of the Virginia Declaration of Rights which was later the basis for the U.S. Constitution's Bill of Rights. Beside Mason is a model of a writing table that is still in the study of Gunston Hall, Mason's Virginia estate. The books on the table—volumes of Hume, Locke and Rousseau—represent influences in his thought.
+in Washington, D.C.}} adorned with balloons]]The bronze statue of George Mason on campus was created by Wendy M. Ross and dedicated on April 12, 1996.[71] The 7 foot statue shows George Mason presenting his first draft of the Virginia Declaration of Rights which was later the basis for the U.S. Constitution's Bill of Rights. Beside Mason is a model of a writing table that is still in the study of Gunston Hall, Mason's Virginia estate. The books on the table—volumes of Hume, Locke and Rousseau—represent influences in his thought.
 
 Arlington
 
   Arlington Campus
-  ----------------------------------------------
-  George.Mason.University.Arlington.Campus.jpg
+  ---------------------------------
   {{Location map+ | GMU Arlington
 
 The Arlington Campus is situated on in a bustling urban environment on the edge of Arlington, Virginia's Clarendon business district and from downtown Washington, D.C. The campus was founded in 1979 with the acquisition of a law school;[72] in 1998 Hazel Hall opened to house the Mason School of Law; subsequent development created Founders Hall, home of the Schar School of Policy and Government,[73] the Center for Regional Analysis,[74] and the graduate-level administrative offices for the School of Business.[75] Vernon Smith Hall houses the School for Conflict Analysis and Resolution, the Mercatus Center, and the Institute for Humane Studies. The campus also houses the 300-seat Founders Hall Auditorium.
 
 Transportation
 
-Virginia_Sq-GMU_station_entrance_pylon_at_night.jpg
-
 This campus is served by the Washington Metro Orange Line at the Virginia Square-GMU station as well as Metrobus route 38B. The rail station is located one block west of the campus.[76] Arlington Rapid Transit or ART Bus routes 41, 42, and 75 also provide service at this location.[77] The campus offers one electric vehicle charging station, five disabled permit automotive parking locations, three bicycle parking locations, and one Capitol Bikeshare location.[78]
 
 Science and Technology
-
-Aerial_Photo_of_the_Prince_William_Campus..jpg
 
 The Science and Technology campus opened on August 25, 1997 as the Prince William campus in Manassas, Virginia, on of land, some still currently undeveloped.[79] More than 4,000 students are enrolled in classes in bioinformatics, biotechnology, information technology, and forensic biosciences educational and research programs.[80] There are undergraduate programs in health, fitness and recreation. There are graduate programs in exercise, fitness, health, geographic information systems, and facility management. Much of the research takes place in the high-security Biomedical Research Laboratory.[81] The 1,123-seat Merchant Hall and the 300-seat Verizon Auditorium in the Hylton Performing Arts Center opened in 2010.[82][83]
 
@@ -98,11 +90,9 @@ The 110,000-square-foot Freedom Aquatic and Fitness Center is operated by the Ma
 
 Smithsonian-Mason School of Conservation
 
-Smithsonian-Mason_School_of_Conservation.jpg The campus in Front Royal, Virginia is a collaboration between the Smithsonian Institution and the university.[88] Open to students in August 2012 after breaking ground on the project on June 29, 2011, the primary focus of the campus is global conservation training.[89] The Volgenau Academic Center includes three teaching laboratories, four classrooms, and 18 offices.[90] Shenandoah National Park is visible from the dining facility's indoor and outdoor seating.[91] Living quarters include 60 double occupancy rooms, an exercise facility, and study space.[92]
+The campus in Front Royal, Virginia is a collaboration between the Smithsonian Institution and the university.[88] Open to students in August 2012 after breaking ground on the project on June 29, 2011, the primary focus of the campus is global conservation training.[89] The Volgenau Academic Center includes three teaching laboratories, four classrooms, and 18 offices.[90] Shenandoah National Park is visible from the dining facility's indoor and outdoor seating.[91] Living quarters include 60 double occupancy rooms, an exercise facility, and study space.[92]
 
 Songdo, South Korea
-
-Songdo_Campus,_Mason_Korea..jpg
 
 Opened in March 2014, the Songdo campus is in South Korea's Incheon Free Economic Zone, a site designed for 850,000 people. It's from Seoul and a two-hour flight from China and Japan.
 
@@ -150,7 +140,7 @@ George Mason University is accredited by the Commission on Colleges of the South
 
 Research
 
-MRI_2006_photo2.JPG machine used at the Krasnow Institute for Advanced Study[105]]] George Mason University, an institution dedicated to research of consequence, hosts more than $100 million in sponsored research projects annually.[106] In 2016, Mason was classified by the Carnegie Classification of Institutions of Higher Education among the U.S. universities that receive the most research funding and award research/scholarship doctorates.[107] Mason moved into this classification based on a review of its 2013–2014 data that was performed by the Center for Postsecondary Research at Indiana University.[108]
+machine used at the Krasnow Institute for Advanced Study[105]]] George Mason University, an institution dedicated to research of consequence, hosts more than $100 million in sponsored research projects annually.[106] In 2016, Mason was classified by the Carnegie Classification of Institutions of Higher Education among the U.S. universities that receive the most research funding and award research/scholarship doctorates.[107] Mason moved into this classification based on a review of its 2013–2014 data that was performed by the Center for Postsecondary Research at Indiana University.[108]
 
 The research is focused on health, sustainability and security. In health, researchers focus is on wellness, disease prevention, advanced diagnostics and biomedical analytics. Sustainability research examines climate change, natural disaster forecasting, and risk assessment. Mason's security experts study domestic and international security as well as cyber security.[109]
 
@@ -189,7 +179,7 @@ Student life
 
 Traditions
 
-Bench_painting.jpg Students will decorate the George Mason statue on the Fairfax campus for events, some rub the statue toe to bring good luck, and many pose with the statue for graduation photographs.[136] Between 1988 and 1990 Anthony Maiello wrote the original _George Mason Fight Song_, which was edited by Michael Nickens in 2009.[137]
+Students will decorate the George Mason statue on the Fairfax campus for events, some rub the statue toe to bring good luck, and many pose with the statue for graduation photographs.[136] Between 1988 and 1990 Anthony Maiello wrote the original _George Mason Fight Song_, which was edited by Michael Nickens in 2009.[137]
 
 Each spring, student organizations at Mason compete to paint one of the 38 benches located on the Quad in front of Fenwick Library. For years, student organizations have painted those benches that line the walkway to gain recognition for their group. With more than 300 student organizations, there is much competition to paint one of the benches. Painting takes place in the spring.[138]
 
@@ -199,14 +189,13 @@ Housing
 
   Fairfax Housing
   -------------------------------
-  LibertySquare2008.JPG
   {{Location map+ | GMU Fairfax
 
 On the Fairfax campus the northernmost housing is technically on campus, but about a mile from the center of campus, about a half mile from the edge of the majority of the Fairfax campus in the housing area known as the Townhouses.[139] On the Western edge of the Fairfax campus lies Masonvale, houses intended for graduate students and visiting faculty.[140] On the southern edge of the Fairfax campus you will find President's Park, Liberty Square, and Potomac Heights. The easternmost housing on the Fairfax campus, that follow along Ox Road, are the Global Center, Student Apartments, Whitetop, and Rogers.[141] Closer to the center of the Fairfax campus are the housing buildings along Chesapeake Lane, named: Northern Neck, Commonwealth, Blue Ridge, Sandbridge, Piedmont, and Tidewater, as well as Hampton Roads, Dominion, Eastern Shore, and the Commons. west of Fairfax, Beacon Hall is on the Science and Technology campus and was designed for graduate student housing. west of Fairfax, the G.T. Halpin Family Living & Learning Community is on the Smithsonian-Mason School of Conservation campus. west of Fairfax, Student's Hall and Guest House are on the Songdo campus.[142][143]
 
 Student organizations
 
-Students_participate_in_Lantern_Day.jpg Student organizations can have an academic, social, athletic, religious/irreligious, career, or just about any other focus. The university recognizes 500 such groups.[144]
+Student organizations can have an academic, social, athletic, religious/irreligious, career, or just about any other focus. The university recognizes 500 such groups.[144]
 
 Student media
 
@@ -281,7 +270,7 @@ Athletics
 
 Division I teams
 
-GMU-BBallGame-Spring05.jpg}} on January 26, 2005]] The George Mason Patriots are the athletic teams of George Mason University located in Fairfax, Virginia.[159] The Patriots compete in Division I of the National Collegiate Athletic Association as members of the Atlantic 10 Conference for most sports. About 485 student-athletes compete in 22 men's and women's Division I sports – baseball, basketball, cross-country, golf, lacrosse, rowing, soccer, softball, swimming and diving, tennis, indoor and outdoor track and field, volleyball, and wrestling. Intercollegiate men's and women's teams are members of the National Athletic Association (NCAA) Division I, the Atlantic 10, the Eastern College Athletic Conference (ECAC), the Eastern Intercollegiate Volleyball Association (EIVA), the Eastern Wrestling League (EWL), and the Intercollegiate Association of Amateur Athletes of America (IC4A).[160]
+}} on January 26, 2005]] The George Mason Patriots are the athletic teams of George Mason University located in Fairfax, Virginia.[159] The Patriots compete in Division I of the National Collegiate Athletic Association as members of the Atlantic 10 Conference for most sports. About 485 student-athletes compete in 22 men's and women's Division I sports – baseball, basketball, cross-country, golf, lacrosse, rowing, soccer, softball, swimming and diving, tennis, indoor and outdoor track and field, volleyball, and wrestling. Intercollegiate men's and women's teams are members of the National Athletic Association (NCAA) Division I, the Atlantic 10, the Eastern College Athletic Conference (ECAC), the Eastern Intercollegiate Volleyball Association (EIVA), the Eastern Wrestling League (EWL), and the Intercollegiate Association of Amateur Athletes of America (IC4A).[160]
 
 Club sports
 
@@ -296,7 +285,7 @@ The Mason Players is a faculty lead student organization that produces six produ
 
 Notable faculty and alumni
 
-James_Buchanan_by_Atlas_network.jpg, Nobel Memorial Prize-winning economist and namesake of James Buchanan Hall]] VernonSmith2.jpg, Nobel Memorial Prize-winning economist and namesake of Vernon Smith Hall]] Gordon_tullock.jpg, co-founder of public choice economics]]
+, Nobel Memorial Prize-winning economist and namesake of James Buchanan Hall]] , Nobel Memorial Prize-winning economist and namesake of Vernon Smith Hall]] , co-founder of public choice economics]]
 
 Faculty
 

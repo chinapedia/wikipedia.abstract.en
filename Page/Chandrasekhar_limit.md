@@ -7,7 +7,7 @@ The limit was named after Subrahmanyan Chandrasekhar, an Indian astrophysicist w
 
 Physics
 
-WhiteDwarf_mass-radius_en.svg, while the blue curve is for a non-relativistic ideal Fermi gas. The black line marks the ultrarelativistic limit.]]
+, while the blue curve is for a non-relativistic ideal Fermi gas. The black line marks the ultrarelativistic limit.]]
 
 Electron degeneracy pressure is a quantum-mechanical effect arising from the Pauli exclusion principle. Since electrons are fermions, no two electrons can be in the same state, so not all electrons can be in the minimum-energy level. Rather, electrons must occupy a band of energy levels. Compression of the electron gas increases the number of electrons in a given volume and raises the maximum energy level in the occupied band. Therefore, the energy of the electrons increases on compression, so pressure must be exerted on the electron gas to compress it, producing electron degeneracy pressure. With sufficient compression, electrons are forced into nuclei in the process of electron capture, relieving the pressure.
 

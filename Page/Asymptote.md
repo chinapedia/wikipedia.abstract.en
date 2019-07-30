@@ -1,5 +1,3 @@
-Asymptotic_curve_hvo1.svg Asymptote02_vectorial.svg
-
 In analytic geometry, an ASYMPTOTE () of a curve is a line such that the distance between the curve and the line approaches zero as one or both of the _x_ or _y_ coordinates tends to infinity. Some sources include the requirement that the curve may not cross the line infinitely often, but this is unusual for modern authors.[1] In projective geometry and related contexts, an asymptote of a curve is a line which is tangent to the curve at a point at infinity.[2][3]
 
 The word asymptote is derived from the Greek ἀσύμπτωτος (_asumptōtos_) which means "not falling together", from ἀ priv. + σύν "together" + πτωτ-ός "fallen".[4] The term was introduced by Apollonius of Perga in his work on conic sections, but in contrast to its modern meaning, he used it to mean any line that does not intersect the given curve.[5]
@@ -13,7 +11,7 @@ Asymptotes convey information about the behavior of curves _in the large_, and d
 
 Introduction
 
-Hyperbola_one_over_x.svg. The _x_ and _y_-axes are the asymptotes.]] The idea that a curve may come arbitrarily close to a line without actually becoming the same may seem to counter everyday experience. The representations of a line and a curve as marks on a piece of paper or as pixels on a computer screen have a positive width. So if they were to be extended far enough they would seem to merge, at least as far as the eye could discern. But these are physical representations of the corresponding mathematical entities; the line and the curve are idealized concepts whose width is 0 (see Line). Therefore, the understanding of the idea of an asymptote requires an effort of reason rather than experience.
+. The _x_ and _y_-axes are the asymptotes.]] The idea that a curve may come arbitrarily close to a line without actually becoming the same may seem to counter everyday experience. The representations of a line and a curve as marks on a piece of paper or as pixels on a computer screen have a positive width. So if they were to be extended far enough they would seem to merge, at least as far as the eye could discern. But these are physical representations of the corresponding mathematical entities; the line and the curve are idealized concepts whose width is 0 (see Line). Therefore, the understanding of the idea of an asymptote requires an effort of reason rather than experience.
 
 Consider the graph of the function $f(x) = \frac{1}{x}$ shown to the right. The coordinates of the points on the curve are of the form $\left(x, \frac{1}{x}\right)$ where x is a number other than 0. For example, the graph contains the points (1, 1), (2, 0.5), (5, 0.2), (10, 0.1), … As the values of x become larger and larger, say 100, 1,000, 10,000 …, putting them far to the right of the illustration, the corresponding values of y, .01, .001, .0001, …, become infinitesimal relative to the scale shown. But no matter how large x becomes, its reciprocal $\frac{1}{x}$ is never 0, so the curve never actually touches the _x_-axis. Similarly, as the values of x become smaller and smaller, say .01, .001, .0001, …, making them infinitesimal relative to the scale shown, the corresponding values of y, 100, 1,000, 10,000 …, become larger and larger. So the curve extends farther and farther upward as it comes closer and closer to the _y_-axis. Thus, both the _x_ and _y_-axes are asymptotes of the curve. These ideas are part of the basis of concept of a limit in mathematics, and this connection is explained more fully below.[7]
 
@@ -74,8 +72,6 @@ that approaches x = 0 both from the left and from the right, the values f′
 
 Horizontal asymptotes
 
-Asymptote03.png
-
 _Horizontal asymptotes_ are horizontal lines that the graph of the function approaches as . The horizontal line _y_ = _c_ is a horizontal asymptote of the function _y_ = _ƒ_(_x_) if
 
 lim_(_x_ →  − ∞)_f_(_x_) = _c_
@@ -94,7 +90,7 @@ $$\lim_{x\to -\infty}\frac{1}{x^2+1}=\lim_{x\to +\infty}\frac{1}{x^2+1}=0.$$
 
 Oblique asymptotes
 
-1-over-x-plus-x.svg When a linear asymptote is not parallel to the _x_- or _y_-axis, it is called an _oblique asymptote_ or _slant asymptote_. A function _f_(_x_) is asymptotic to the straight line (_m_ ≠ 0) if
+When a linear asymptote is not parallel to the _x_- or _y_-axis, it is called an _oblique asymptote_ or _slant asymptote_. A function _f_(_x_) is asymptotic to the straight line (_m_ ≠ 0) if
 
 lim_(_x_ →  + ∞)[_f_(_x_)−(_m__x_+_n_)] = 0  or lim_(_x_ →  − ∞)[_f_(_x_)−(_m__x_+_n_)] = 0.
 
@@ -167,8 +163,6 @@ $$f(x)=\frac{x^2-5x+6}{x^3-3x^2+2x}=\frac{(x-2)(x-3)}{x(x-1)(x-2)}$$
 
 Oblique asymptotes of rational functions
 
-SlantAsymptoteError.svg
-
 When the numerator of a rational function has degree exactly one greater than the denominator, the function has an oblique (slant) asymptote. The asymptote is the polynomial term after dividing the numerator and denominator. This phenomenon occurs because when dividing the fraction, there will be a linear term, and a remainder. For example, consider the function
 
 $$f(x)=\frac{x^2+x+1}{x+1}=x+\frac{1}{x+1}$$
@@ -191,8 +185,6 @@ For example, _f_(_x_)=_e_^(_x_-1)+2 has horizontal asymptote _y_=0+2=2, and no v
 
 
 General definition
-
-Graph_of_sect_csct.svg
 
 Let be a parametric plane curve, in coordinates _A_(_t_) = (_x_(_t_),_y_(_t_)). Suppose that the curve tends to infinity, that is:
 
@@ -219,7 +211,7 @@ An asymptote can be either vertical or non-vertical (oblique or horizontal). In 
 
 Curvilinear asymptotes
 
-nonlinear_asymptote.svg Let be a parametric plane curve, in coordinates _A_(_t_) = (_x_(_t_),_y_(_t_)), and _B_ be another (unparameterized) curve. Suppose, as before, that the curve _A_ tends to infinity. The curve _B_ is a curvilinear asymptote of _A_ if the shortest distance from the point _A_(_t_) to a point on _B_ tends to zero as _t_ → _b_. Sometimes _B_ is simply referred to as an asymptote of _A_, when there is no risk of confusion with linear asymptotes.[9]
+Let be a parametric plane curve, in coordinates _A_(_t_) = (_x_(_t_),_y_(_t_)), and _B_ be another (unparameterized) curve. Suppose, as before, that the curve _A_ tends to infinity. The curve _B_ is a curvilinear asymptote of _A_ if the shortest distance from the point _A_(_t_) to a point on _B_ tends to zero as _t_ → _b_. Sometimes _B_ is simply referred to as an asymptote of _A_, when there is no risk of confusion with linear asymptotes.[9]
 
 For example, the function
 
@@ -234,7 +226,7 @@ Asymptotes are used in procedures of curve sketching. An asymptote serves as a g
 
 Algebraic curves
 
-Folium_Of_Descartes.svg, the folium of Descartes (solid) with a single real asymptote (dashed).]] The asymptotes of an algebraic curve in the affine plane are the lines that are tangent to the projectivized curve through a point at infinity.[14] For example, one may identify the asymptotes to the unit hyperbola in this manner. Asymptotes are often considered only for real curves,[15] although they also make sense when defined in this way for curves over an arbitrary field.[16]
+, the folium of Descartes (solid) with a single real asymptote (dashed).]] The asymptotes of an algebraic curve in the affine plane are the lines that are tangent to the projectivized curve through a point at infinity.[14] For example, one may identify the asymptotes to the unit hyperbola in this manner. Asymptotes are often considered only for real curves,[15] although they also make sense when defined in this way for curves over an arbitrary field.[16]
 
 A plane curve of degree _n_ intersects its asymptote at most at _n_−2 other points, by Bézout's theorem, as the intersection at infinity is of multiplicity at least two. For a conic, there are a pair of lines that do not intersect the conic at any complex point: these are the two asymptotes of the conic.
 
@@ -251,7 +243,7 @@ Over the complex numbers, _P__(_n_) splits into linear factors, each of which de
 
 Asymptotic cone
 
-Conic_section_hyperbola.gif The hyperbola
+The hyperbola
 
 $$\frac{x^2}{a^2}-\frac{y^2}{b^2}= 1$$
 has the two asymptotes

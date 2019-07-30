@@ -3,8 +3,6 @@ The GULF OF FINLAND (; ; ; ) is the easternmost arm of the Baltic Sea. It extend
 
 Geography
 
-la2-demis-gulf-of-finland.png Record_sea_ice_in_Gulf_of_Finland_2003.jpg
-
 The gulf has an area of .[1] The length (from the Hanko Peninsula to Saint Petersburg) is and the width varies from near the entrance to on the meridian of Moshchny Island; in the Neva Bay, it decreases to . The gulf is relatively shallow, with the depth decreasing from the entrance to the gulf to the continent. The sharpest change occurs near Narva-Jõesuu, which is why this place is called the Narva wall. The average depth is with the maximum of . The depth of the Neva Bay is less than ; therefore, a channel was dug at the bottom for safe navigation. Because of the large influx of fresh water from rivers, especially from the Neva River (two-thirds of the total runoff), the gulf water has very low salinity – between 0.2 and 5.8 ‰ at the surface and 0.3–8.5 ‰ near the bottom. The average water temperature is close to 0 °C in winter; in summer, it is at the surface and at the bottom. Parts of the gulf can freeze from late November to late April; the freezing starts in the east and gradually proceeds to the west. Complete freezing usually occurs by late January, and it may not occur in mild winters.[2] Frequent strong western winds cause waves, surges of water and floods.[3][4]
 
 The northern coast of the gulf is high and winding, with abundant small bays and skerries, but only a few large bays (Vyborg) and peninsulas (Hanko and Porkkalanniemi). The coast is mostly sloping; there are abundant sandy dunes, with occasional pine trees.[5] The southern shores are smooth and shallow, but along the entire coast runs a limestone escarpment, the Baltic Klint, with a height up to .[6][7] In the east, the gulf ends with Neva Bay; in the west it merges with the Baltic Sea.
@@ -24,20 +22,20 @@ Geological history
 
 The modern depression can be traced to the incision of large rivers during the Cenozoic prior to the Quaternary glaciation.[12] These rivers eroded the sedimentary strata above the Fennoscandian Shield.[13] In particular the eroded material was made up of Ediacaran (Vendian) and Cambrian-aged claystone and sandtone.[14] As erosion processes the rivers encountered harder layers of Ordovician-aged limestone leading to the formation of the cliffs of Baltic Klint in northern Estonia and Ingria.[15] Subsequently the depression was somewhat reshaped by glacier's activities. Its retreat formed the Littorina Sea, whose water level was some 7–9 metres higher than the present level of the Baltic Sea. Some 4,000 years ago the sea receded and shoals in the gulf have become its islands.[16][17] Later uplifting of the Baltic Shield skewed the surface of the gulf; for this reason, its ancient northern shores are significantly higher than the southern ones.[18]
 
-  -------------------------- --------------------------------------------- ----------------------------------------------------- ---------------------------------- -----------------------------------
-  Komarovo_bereg.jpg         Ryssänsaari_Island_in_front_of_Helsinki.jpg   Finnish_gulf_near_Tallinn.JPG                         Finland_gulf.jpg                   Sunset_in_the_Gulf_of_Finland.png
-  Gulf Coast near Komarovo   Islands near Helsinki                         View on the bay from the St. Olaf's Church, Tallinn   Fishermen on the Gulf of Finland   Sunset in the Gulf of Finland
-  -------------------------- --------------------------------------------- ----------------------------------------------------- ---------------------------------- -----------------------------------
+  -------------------------- ----------------------- ----------------------------------------------------- ---------------------------------- -------------------------------
 
-  -------------------------------- ---------------------------------------------- ----------------------------------------
-  Haven_Kronstadt_20080403_3.JPG   San_Petersburgo,_panorámica_del_Rio_Neva.JPG   Suursaari.jpg
-  Kronstadt in winter              Panorama of Neva River from the Gulf           View on the island of Hogland by Kotka
-  -------------------------------- ---------------------------------------------- ----------------------------------------
+  Gulf Coast near Komarovo   Islands near Helsinki   View on the bay from the St. Olaf's Church, Tallinn   Fishermen on the Gulf of Finland   Sunset in the Gulf of Finland
+  -------------------------- ----------------------- ----------------------------------------------------- ---------------------------------- -------------------------------
+
+  --------------------- -------------------------------------- ----------------------------------------
+
+  Kronstadt in winter   Panorama of Neva River from the Gulf   View on the island of Hogland by Kotka
+  --------------------- -------------------------------------- ----------------------------------------
 
 
 Flora and fauna
 
-Malusi_hülged_02.jpg in Estonia are one of the main habitats of grey seals in the Gulf of Finland.]] The climate in the area is humid continental climate, characterized by temperate to hot summers and cold, occasionally severe winters with regular precipitation. The vegetation is dominated by a mixture of coniferous and deciduous forests and treeless coastal meadows and cliffs. The major forest trees are pine, spruce, birch, willows, rowan, aspen, common and gray alder. In the far eastern part of the gulf vegetation of the marshy areas consists mainly of bulrush and reeds, as well as fully aquatic plants, such as white and yellow waterlilies and acute sedge. Aquatic plants in the shallow waters of the gulf include _Ruppia_ and spiny naiad.[19]
+in Estonia are one of the main habitats of grey seals in the Gulf of Finland.]] The climate in the area is humid continental climate, characterized by temperate to hot summers and cold, occasionally severe winters with regular precipitation. The vegetation is dominated by a mixture of coniferous and deciduous forests and treeless coastal meadows and cliffs. The major forest trees are pine, spruce, birch, willows, rowan, aspen, common and gray alder. In the far eastern part of the gulf vegetation of the marshy areas consists mainly of bulrush and reeds, as well as fully aquatic plants, such as white and yellow waterlilies and acute sedge. Aquatic plants in the shallow waters of the gulf include _Ruppia_ and spiny naiad.[19]
 
 Fish species of the gulf include Atlantic salmon, viviparous eelpout, gobies, belica, loach, European chub, common minnow, silver bream, common dace, ruffe, Crucian carp, stickleback, European smelt, common rudd, brown trout, tench, pipefish, burbot, perch, gudgeon, lumpsucker, roach, lamprey, vendace, garfish, common whitefish, common bream, zander, orfe, northern pike, spined loach, sprat, Baltic herring, sabre carp, common bleak, European eel and Atlantic cod.[20] Commercial fishing is carried out in spring and autumn. Grey seal and ringed seal are met in the gulf, but the latter is very rare.[21]
 
@@ -48,7 +46,7 @@ Before 1700
 
 Many ancient sites were discovered on the shores of the gulf dated to up to nine thousand years old. Humans began to inhabit these places soon after the ice age glaciers have retreated and the water level of the Littorina Sea lowered to reveal the land. Remains of about 11 Neolithic settlements were found since 1905 in the mouth of the river Sestra River (Leningrad Oblast). They contain arrow tips and scrapers made of quartz, numerous food utensils and traces of fire camps – all indicative of hunting rather than agricultural or animal husbandry activities.[22]
 
-Nicholas_Roerich,_Guests_from_Overseas.jpg, 1899]] The gulf coast was later populated by Finno-Ugric peoples. Eesti (or Chud) inhabited the region of the modern Estonia, Votes were living on the south of the gulf and Izhorians to the south of Neva River. Korela tribes settled to the west of Lake Ladoga.[23] In the 8th and 9th centuries, the banks of Neva and of the Gulf of Finland was populated by East Slavs, in particular by Ilmen Slavs and Krivichs. They were engaged in slash-and-burn agriculture, animal husbandry, hunting and fishing. From the 8th to the 13th century, the Gulf of Finland and Neva were parts of the waterway from Scandinavia, through Eastern Europe to the Byzantine Empire.
+, 1899]] The gulf coast was later populated by Finno-Ugric peoples. Eesti (or Chud) inhabited the region of the modern Estonia, Votes were living on the south of the gulf and Izhorians to the south of Neva River. Korela tribes settled to the west of Lake Ladoga.[23] In the 8th and 9th centuries, the banks of Neva and of the Gulf of Finland was populated by East Slavs, in particular by Ilmen Slavs and Krivichs. They were engaged in slash-and-burn agriculture, animal husbandry, hunting and fishing. From the 8th to the 13th century, the Gulf of Finland and Neva were parts of the waterway from Scandinavia, through Eastern Europe to the Byzantine Empire.
 
 From the 9th century, the eastern coast of the gulf belonged to Veliky Novgorod and were called Vodskaya Pyatina. As a result of the 1219 crusade and the Battle of Lindanise, the Northern Estonia became part of Denmark (Danish Estonia).[24] In the 12th century, the city Reval (, ) was established on the territory of modern Tallinn.[25] As a result of the Estonian uprising in 1343, the Northern Estonia was taken over by the Teutonic Order and sold by Denmark in 1346. In 1559, during the Livonian War, the Bishop of Ösel-Wiek in Old Livonia sold his lands to King Frederick II of Denmark for 30,000 thalers. The Danish king gave the territory to his younger brother Magnus who landed on Saaremaa with an army in 1560.[26] The whole of Saaremaa became a Danish possession in 1573, and remained so until it was transferred to Sweden in 1645.[27][28]
 
@@ -66,12 +64,12 @@ The next Russo-Swedish war was fought in (1808–1809). It ended with the Treaty
 
 Estonia declared independence on 24 February 1918 and fought a war of independence. The republic existed until 1940 and then was annexed by the Soviet Union.[38] Estonia regained its independence after the dissolution of the Soviet Union in 1991.
 
-+------------------+---------------------------------+------------------------------+
-| Gangut.jpg       | Desprez_-_Battle_of_Hogland.jpg | Russian_victory_vyborg.jpg   |
-+------------------+---------------------------------+------------------------------+
-| Battle of Gangut | Battle of Hogland               | _Sea battle at Vyborg(1790)_ |
-|                  |                                 | Ivan Aivazovsky, 1846        |
-+------------------+---------------------------------+------------------------------+
++------------------+-------------------+------------------------------+
+|                  |                   |                              |
++------------------+-------------------+------------------------------+
+| Battle of Gangut | Battle of Hogland | _Sea battle at Vyborg(1790)_ |
+|                  |                   | Ivan Aivazovsky, 1846        |
++------------------+-------------------+------------------------------+
 
 In March 1921, the Kronstadt rebellion by sailors was put down by the Red Army. The Gulf of Finland had several major naval operations during World War II. In August 1941, during the evacuation of the Baltic Fleet from Tallinn to Kronstadt, German forces sank 15 Russian military vessels, (5 destroyers, 2 submarines, 3 guard ships, 2 minesweepers, 2 gunboats and 1 Motor Torpedo Boat) as well as 43 transport and support ships. Several ships still remain on the gulf bottom near Cape Juminda, and a monument was raised there in memory of those lost in the events.[39][40]
 
@@ -88,22 +86,22 @@ Another major and historical activity in the gulf is fishing, especially on the 
 
 In September 2005 the agreement was signed on the construction of the Nord Stream offshore gas pipeline on the Baltic Sea, from Vyborg to the German city of Greifswald. The first line was expected become operational in 2011.[52] Afterwards, the first line of Nord Stream was laid by May 2011 and was inaugurated on 8 November 2011;[53][54] the second line was inaugurated on 8 October 2012.[55]
 
-  ------------------------------- ---------------------------- --------------------------------- ----------------------
-  St_Petersburg_port_scene.jpg    Tallinn_port.jpg             Central_Helsinki_from_plane.jpg   Stroy-b-3.JPG
-  Main port of Saint Petersburg   Near the harbor of Tallinn   Aerial view of Helsinki           Saint Petersburg Dam
-  ------------------------------- ---------------------------- --------------------------------- ----------------------
+  ------------------------------- ---------------------------- ------------------------- ----------------------
+
+  Main port of Saint Petersburg   Near the harbor of Tallinn   Aerial view of Helsinki   Saint Petersburg Dam
+  ------------------------------- ---------------------------- ------------------------- ----------------------
 
 
 Archaeology
 
-Laevavrakk_"Kazanets".JPG'' near Osmussaar in Estonia.]] The bottom of the gulf is one of the world's largest ship cemeteries. Because of the low salinity and cold waters, and no shipworms, the ships are relatively well preserved. Since the 6th century, major waterways were running through the gulf, and from the 8th to the 10th century, about 3,000 tonnes of silver was transported there. Later, the gulf was actively used by Sweden and Russia for transport of goods. Every year saw dozens of lost ships. In the fall of 1743, 17 Russian warships returning from Finland sank in just 7 hours, and in the summer of 1747, 26 merchant vessels sank within 4 hours near Narva. A record was set in 1721 when during the evacuation of Russian troops from Finland, more than 100 vessels were lost within 3 months, including 64 in a single night.[56]
+'' near Osmussaar in Estonia.]] The bottom of the gulf is one of the world's largest ship cemeteries. Because of the low salinity and cold waters, and no shipworms, the ships are relatively well preserved. Since the 6th century, major waterways were running through the gulf, and from the 8th to the 10th century, about 3,000 tonnes of silver was transported there. Later, the gulf was actively used by Sweden and Russia for transport of goods. Every year saw dozens of lost ships. In the fall of 1743, 17 Russian warships returning from Finland sank in just 7 hours, and in the summer of 1747, 26 merchant vessels sank within 4 hours near Narva. A record was set in 1721 when during the evacuation of Russian troops from Finland, more than 100 vessels were lost within 3 months, including 64 in a single night.[56]
 
 By the end of 1996, about 5,000 submerged objects were identified in the Russian part of the gulf, including 2,500 ships, 1,500 airplanes, and small items such as boats, anchors, tanks, tractors, cars, cannons, and even naval mines, aerial bombs, torpedoes, and other ammunition. The ships belonged to Russia (25%), Germany (19%), United Kingdom (17%), Sweden (15%), Netherlands (8%), and Finland (7%). The remaining 9% are from Norway, Denmark, France, United States, Italy, Estonia, and Latvia.[57] These objects present potential hazards to navigation, fishery, coastal construction, laying of submarine pipelines and cables, and the environment. Mines were laid in the gulf during World War I (38,932 units), the Russian Civil War, and the Soviet-Finnish War (1939–1940), with an estimated total number of 60,000; 85,000 more mines were set during World War II, and only a fraction of all those were eliminated after the wars.[58][59]
 
 
 Pollution
 
-Location_of_Ust-Luga_Multimodal_Complex.gif on the Soikinsky Peninsula in the Kingiseppsky District of northwestern Russia]] The ecological condition of the Gulf of Finland, Neva Bay and Neva River is unsatisfactory. There is significant contamination by ions of mercury and copper, organochlorine pesticides, phenols, petroleum products and polycyclic aromatic hydrocarbons. Cleaning of waste water in Saint Petersburg was started in 1979 and by 1997 about 74% of wastewater was purified. This number rose to 85% in 2005, to 91.7% by 2008, and as of 2009 was expected to reach 100% by 2011 with the completion of the expansion of the main sewerage plant.[60] Nevertheless, in 2008, the Federal Service of Saint Petersburg announced that no beach of Saint Petersburg is fit for swimming.[61]
+on the Soikinsky Peninsula in the Kingiseppsky District of northwestern Russia]] The ecological condition of the Gulf of Finland, Neva Bay and Neva River is unsatisfactory. There is significant contamination by ions of mercury and copper, organochlorine pesticides, phenols, petroleum products and polycyclic aromatic hydrocarbons. Cleaning of waste water in Saint Petersburg was started in 1979 and by 1997 about 74% of wastewater was purified. This number rose to 85% in 2005, to 91.7% by 2008, and as of 2009 was expected to reach 100% by 2011 with the completion of the expansion of the main sewerage plant.[60] Nevertheless, in 2008, the Federal Service of Saint Petersburg announced that no beach of Saint Petersburg is fit for swimming.[61]
 
 Fish catchment decreased 10 times between 1989 and 2005. Apart from pollution, another reason for that is hydraulic and engineering works. For example, construction of new ports in Ust-Luga and Vysotsk and on Vasilyevsky Island adversely affected the spawning of fish. Extraction of sand and gravel in the Neva Bay for the land reclamation destroy spawning sites of European smelt.[62]
 

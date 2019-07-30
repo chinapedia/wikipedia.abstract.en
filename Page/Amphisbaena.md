@@ -1,16 +1,16 @@
-Uroboros.png The AMPHISBAENA (, plural: AMPHISBAENAE; ) is a mythological, ant-eating serpent with a head at each end. The creature is alternatively called the AMPHISBAINA, AMPHISBENE, AMPHISBOENA, AMPHISBONA, AMPHISTA, AMFIVENA, AMPHIVENA, or ANPHIVENA (the last two being feminine), and is also known as the "Mother of Ants". Its name comes from the Greek words _amphis_, meaning "both ways", and _bainein_, meaning "to go". According to Greek mythology, the amphisbaena was spawned from the blood that dripped from the Gorgon Medusa's head as Perseus flew over the Libyan Desert with her in his hand, after which Cato's army then encountered it along with other serpents on the march.[1] Amphisbaena fed off of the corpses left behind. The amphisbaena has been referred to by various poets such as Nicander, John Milton, Alexander Pope, Percy Bysshe Shelley, Alfred, Lord Tennyson, Aimé Césaire, A. E. Housman and Allen Mandelbaum; as a mythological and legendary creature, it has been referenced by Lucan, Pliny the Elder, Isidore of Seville, and Thomas Browne, the last of whom debunked its existence.
+The AMPHISBAENA (, plural: AMPHISBAENAE; ) is a mythological, ant-eating serpent with a head at each end. The creature is alternatively called the AMPHISBAINA, AMPHISBENE, AMPHISBOENA, AMPHISBONA, AMPHISTA, AMFIVENA, AMPHIVENA, or ANPHIVENA (the last two being feminine), and is also known as the "Mother of Ants". Its name comes from the Greek words _amphis_, meaning "both ways", and _bainein_, meaning "to go". According to Greek mythology, the amphisbaena was spawned from the blood that dripped from the Gorgon Medusa's head as Perseus flew over the Libyan Desert with her in his hand, after which Cato's army then encountered it along with other serpents on the march.[1] Amphisbaena fed off of the corpses left behind. The amphisbaena has been referred to by various poets such as Nicander, John Milton, Alexander Pope, Percy Bysshe Shelley, Alfred, Lord Tennyson, Aimé Césaire, A. E. Housman and Allen Mandelbaum; as a mythological and legendary creature, it has been referenced by Lucan, Pliny the Elder, Isidore of Seville, and Thomas Browne, the last of whom debunked its existence.
 
 
 Appearance
 
-EdlesboroughS02.jpg in Buckinghamshire]]
+in Buckinghamshire]]
 
 This early description of the amphisbaena depicts a venomous, dual-headed snakelike creature. However, Medieval and later drawings often show it with two or more scaled feet, particularly chicken feet, and feathered wings. Some even depict it as a horned, dragon-like creature with a serpent-headed tail and small, round ears, while others have both "necks" of equal size so that it cannot be determined which is the rear head. Many descriptions of the amphisbaena say its eyes glow like candles or lightning, but the poet Nicander seems to contradict this by describing it as "always dull of eye". He also says: "From either end protrudes a blunt chin; each is far from each other." Nicander's account seems to be referring to what is indeed called the Amphisbaenia.
 
 
 Habitat
 
-POL_gmina_Zapolice_COA.svg of Gmina Zapolice]] The amphisbaena is said to make its home in the desert.
+of Gmina Zapolice]] The amphisbaena is said to make its home in the desert.
 
 
 Folk medicine

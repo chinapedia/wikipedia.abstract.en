@@ -3,7 +3,7 @@ The telecommunications and postal services market in Greece is regulated by the 
 
 Landline telephone
 
-Athens-Kiffisia-aerial.jpg headquarters in Athens.]]
+headquarters in Athens.]]
 
 COSMOTE, the former state monopoly, is the main player in fixed-line telephony. Since the liberalization of the telecommunications market, COSMOTE (OTE) has been slowly losing market share to "alternative", competing telecom operators, such as Vodafone, WIND, Nova. As of 2005, COSMOTE's share on the market hovered around 76%.
 

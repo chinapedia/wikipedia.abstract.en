@@ -1,4 +1,4 @@
-Fernande_(vintage_nude_photo).jpg by Jean Agélou.]]
+by Jean Agélou.]]
 
 EROTICA is any artistic work that deals substantively with subject matter that is erotically stimulating or sexually arousing but is not pornographic. Erotic art may use any artistic form to depict erotic content, including painting, sculpture, drama, film or music. Erotic literature and erotic photography have become genres in their own right.
 

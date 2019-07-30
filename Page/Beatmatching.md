@@ -1,5 +1,3 @@
-Beat-matching.svg
-
 BEATMATCHING or PITCH CUE is a disc jockey technique of pitch shifting or timestretching an upcoming track to match its tempo to that of the currently playing track, and to adjust them such that the beats (and, usually, the bars) are synchronised — e.g. the kicks and snares in two house records hit at the same time when both records are played simultaneously. Beatmatching is a component of BEATMIXING which employs beatmatching combined with equalization, attention to phrasing and track selection in an attempt to make a single mix that flows together and has a good structure.
 
 The technique was developed to keep the people from leaving the dancefloor at the end of the song. These days it is considered basic among disc jockeys (DJs) in electronic dance music genres, and it is standard practice in clubs to keep the constant beat through the night, even if DJs change in the middle.

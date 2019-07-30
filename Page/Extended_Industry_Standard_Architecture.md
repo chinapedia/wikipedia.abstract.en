@@ -1,4 +1,4 @@
-KL_Adaptec_AHA-1740_SCSI.jpg DPT_PM2022.jpg PM2022).]] KL_ELSA_Winner_1000_ISA_EISA.jpg
+PM2022).]]
 
 The EXTENDED INDUSTRY STANDARD ARCHITECTURE (in practice almost always shortened to EISA and frequently pronounced "eee-suh") is a bus standard for IBM PC compatible computers. It was announced in September 1988 by a consortium of PC clone vendors (the "Gang of Nine") as a counter to IBM's use of its proprietary Micro Channel architecture (MCA) in its PS/2 series.[1]
 
@@ -46,8 +46,6 @@ The _Gang of Nine_ was the informal name given to the consortium of personal com
 
 
 Technical data
-
-EISA_Bus_pins.png
 
   -------------------------------- ------------------------------------
   bus width                        32 bit

@@ -64,7 +64,7 @@ Palaeogeography
 
 A global drop in sea level at the end of the Devonian reversed early in the Carboniferous; this created the widespread inland seas and the carbonate deposition of the Mississippian. There was also a drop in south polar temperatures; southern Gondwanaland was glaciated throughout the period, though it is uncertain if the ice sheets were a holdover from the Devonian or not. These conditions apparently had little effect in the deep tropics, where lush swamps, later to become coal, flourished to within 30 degrees of the northernmost glaciers.
 
-US_pennsylvanian_general_USGS.jpg in Middle Pennsylvanian time.]]
+in Middle Pennsylvanian time.]]
 
 Mid-Carboniferous, a drop in sea level precipitated a major marine extinction, one that hit crinoids and ammonites especially hard. This sea level drop and the associated unconformity in North America separate the Mississippian subperiod from the Pennsylvanian subperiod. This happened about 323 million years ago, at the onset of the Permo-Carboniferous Glaciation.
 
@@ -82,7 +82,7 @@ The cooling and drying of the climate led to the Carboniferous Rainforest Collap
 
 Rocks and coal
 
-MississippianMarbleUT.JPG, Utah.]] Carboniferous rocks in Europe and eastern North America largely consist of a repeated sequence of limestone, sandstone, shale and coal beds. In North America, the early Carboniferous is largely marine limestone, which accounts for the division of the Carboniferous into two periods in North American schemes. The Carboniferous coal beds provided much of the fuel for power generation during the Industrial Revolution and are still of great economic importance.
+, Utah.]] Carboniferous rocks in Europe and eastern North America largely consist of a repeated sequence of limestone, sandstone, shale and coal beds. In North America, the early Carboniferous is largely marine limestone, which accounts for the division of the Carboniferous into two periods in North American schemes. The Carboniferous coal beds provided much of the fuel for power generation during the Industrial Revolution and are still of great economic importance.
 
 The large coal deposits of the Carboniferous may owe their existence primarily to two factors. The first of these is the appearance of wood tissue and bark-bearing trees. The evolution of the wood fiber lignin and the bark-sealing, waxy substance suberin variously opposed decay organisms so effectively that dead materials accumulated long enough to fossilise on a large scale. The second factor was the lower sea levels that occurred during the Carboniferous as compared to the preceding Devonian period. This promoted the development of extensive lowland swamps and forests in North America and Europe. Based on a genetic analysis of mushroom fungi, it was proposed that large quantities of wood were buried during this period because animals and decomposing bacteria had not yet evolved enzymes that could effectively digest the resistant phenolic lignin polymers and waxy suberin polymers. They suggest that fungi that could break those substances down effectively only became dominant towards the end of the period, making subsequent coal formation much rarer.[5]
 
@@ -95,7 +95,7 @@ Life
 
 Plants
 
-Meyers_b15_s0272b.jpg Early Carboniferous land plants, some of which were preserved in coal balls, were very similar to those of the preceding Late Devonian, but new groups also appeared at this time. Lycopsid_joggins_mcr1.JPG, probably _Sigillaria_, with attached stigmarian roots.]] Lycopsid_mcr2.jpg showing connection with bifurcating stigmarian roots.]] The main Early Carboniferous plants were the Equisetales (horse-tails), Sphenophyllales (scrambling plants), Lycopodiales (club mosses), Lepidodendrales (scale trees), Filicales (ferns), Medullosales (informally included in the "seed ferns", an artificial assemblage of a number of early gymnosperm groups) and the Cordaitales. These continued to dominate throughout the period, but during late Carboniferous, several other groups, Cycadophyta (cycads), the Callistophytales (another group of "seed ferns"), and the Voltziales (related to and sometimes included under the conifers), appeared.
+Early Carboniferous land plants, some of which were preserved in coal balls, were very similar to those of the preceding Late Devonian, but new groups also appeared at this time. , probably _Sigillaria_, with attached stigmarian roots.]] showing connection with bifurcating stigmarian roots.]] The main Early Carboniferous plants were the Equisetales (horse-tails), Sphenophyllales (scrambling plants), Lycopodiales (club mosses), Lepidodendrales (scale trees), Filicales (ferns), Medullosales (informally included in the "seed ferns", an artificial assemblage of a number of early gymnosperm groups) and the Cordaitales. These continued to dominate throughout the period, but during late Carboniferous, several other groups, Cycadophyta (cycads), the Callistophytales (another group of "seed ferns"), and the Voltziales (related to and sometimes included under the conifers), appeared.
 
 The Carboniferous lycophytes of the order Lepidodendrales, which are cousins (but not ancestors) of the tiny club-moss of today, were huge trees with trunks 30 meters high and up to 1.5 meters in diameter. These included _Lepidodendron_ (with its cone called Lepidostrobus), _Anabathra_, _Lepidophloios_ and _Sigillaria_. The roots of several of these forms are known as Stigmaria. Unlike present-day trees, their secondary growth took place in the cortex, which also provided stability, instead of the xylem.[7] The Cladoxylopsids were large trees, that were ancestors of ferns, first arising in the Carboniferous.[8]
 
@@ -127,7 +127,7 @@ Freshwater and lagoonal invertebrates
 
 Freshwater Carboniferous invertebrates include various bivalve molluscs that lived in brackish or fresh water, such as _Anthraconaia_, _Naiadites_, and _Carbonicola_; diverse crustaceans such as _Candona_, _Carbonita_, _Darwinula_, _Estheria_, _Acanthocaris_, _Dithyrocaris_, and _Anthrapalaemon_.
 
-Megarachne_BW.jpg'' grew to legspans of .]] The eurypterids were also diverse, and are represented by such genera as _Adelophthalmus_, _Megarachne_ (originally misinterpreted as a giant spider, hence its name) and the specialised very large _Hibbertopterus_. Many of these were amphibious.
+'' grew to legspans of .]] The eurypterids were also diverse, and are represented by such genera as _Adelophthalmus_, _Megarachne_ (originally misinterpreted as a giant spider, hence its name) and the specialised very large _Hibbertopterus_. Many of these were amphibious.
 
 Frequently a temporary return of marine conditions resulted in marine or brackish water genera such as _Lingula_, Orbiculoidea, and _Productus_ being found in the thin beds known as marine bands.
 

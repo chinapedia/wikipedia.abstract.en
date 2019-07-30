@@ -26,7 +26,7 @@ History
 
 Origins
 
-Pre-nodelist_"fido_list"_June_1984.jpg There are two major accounts of the development of the FidoNet, differing only in small details.
+There are two major accounts of the development of the FidoNet, differing only in small details.
 
 Tom Jennings' account
 
@@ -93,8 +93,6 @@ Other extensions
 Although FidoNet supported file attachments from even the earliest standards, this feature tended to be rarely used and was often turned off. File attachments followed the normal mail routing through multiple systems, and could back up transfers all along the line as the files were copied. A solution was offered in the form of _file requests_, which made file transfers driven by the _calling_ system and used one-time point-to-point connections instead of the traditional routing. Two such standards became common, "WaZOO" and "Bark", which saw varying support among different mailers. Both worked in a similar fashion, with the mailer calling the remote system and sending a new handshake packet to request the files.[37][38]
 
 Although FidoNet was, by far, the best known BBS-based network, it was by no means the only one. From 1988 on, PCBoard systems were able to host similar functionality known as RelayNet, while other popular networks included RBBSNet from the Commodore 64 world, and AlterNet. Late in the evolution of the FidoNet system, there was a proposal to allow mail (but not forum messages) from these systems to switch into the FidoNet structure.[39] This was not adopted, and the rapid rise of the internet made this superfluous as these networks rapidly added internet exchange, which acted as a lingua franca.
-
-Fidonodes.PNG
 
 Peak
 
@@ -232,7 +230,7 @@ The original _Fido BBS_ software, and some other FidoNet-supporting software fro
 
 Several DOS based legacy FidoNet Mailers such as FrontDoor, Intermail, MainDoor and D'Bridge from the early 1990s can still be run today under Windows without a modem, by using the freeware NetFoss Telnet FOSSIL driver, and by using a Virtual Modem such as NetSerial. This allows the mailer to _dial_ an IP address or hostname via Telnet, rather than dialing a real POTS phone number. There are similar solutions for Linux such as MODEMU (modem emulator) which has limited success when combined with DOSEMU (DOS emulator). Mail Tossers such as FastEcho and FMail are still used today under both Windows and Linux/DOSEMU.
 
-Qcc-0.57.1xe_master_queue.png There are several modern Windows based FidoNet Mailers available today with source code, including Argus, Radius, and Taurus . MainDoor is another Windows based Fidonet mailer, which also can be run using either a modem or directly over TCP/IP. Two popular free and open source software FidoNet mailers for Unix-like systems are the binkd (cross-platform, IP-only, uses the binkp protocol) and qico (supports modem communication as well as the IP protocol of ifcico and binkp).
+There are several modern Windows based FidoNet Mailers available today with source code, including Argus, Radius, and Taurus . MainDoor is another Windows based Fidonet mailer, which also can be run using either a modem or directly over TCP/IP. Two popular free and open source software FidoNet mailers for Unix-like systems are the binkd (cross-platform, IP-only, uses the binkp protocol) and qico (supports modem communication as well as the IP protocol of ifcico and binkp).
 
 On the _hardware_ side, Fido systems were usually well-equipped machines, for their day, with quick CPUs, high-speed modems and 16550 UARTs, which were at the time an upgrade. As a Fidonet system was usually a BBS, it needed to quickly process any new mail events before returning to its 'waiting for call' state. In addition, the BBS itself usually necessitated lots of storage space. Finally, a FidoNet system usually had at least one dedicated phoneline. Consequently, operating a Fidonet system often required significant financial investment, a cost usually met by the owner of the system.
 

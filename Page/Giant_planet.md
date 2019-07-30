@@ -1,4 +1,4 @@
-Gas_Giants_&_The_Sun_in_1,000_km.jpg Masses_of_gas_giants.svg]]
+]]
 
 A GIANT PLANET is any massive planet. They are usually primarily composed of low-boiling-point materials (gases or ices), rather than rock or other solid matter, but massive solid planets can also exist. There are four known giant planets in the Solar System: Jupiter, Saturn, Uranus and Neptune. Many extrasolar giant planets have been identified orbiting other stars.
 
@@ -20,7 +20,7 @@ Objects large enough to start deuterium fusion (above 13 Jupiter masses for sola
 
 Description
 
-Gas_Giant_Interiors.jpg.]] A giant planet is a massive planet and has a thick atmosphere of hydrogen and helium. They may have a dense molten core of rocky elements, or the core may have completely dissolved and dispersed throughout the planet if the planet is hot enough.[8] In "traditional" giant planets such as Jupiter and Saturn (the gas giants) hydrogen and helium constitute most of the mass of the planet, whereas they only make up an outer envelope on Uranus and Neptune, which are instead mostly composed of water, ammonia, and methane and therefore increasingly referred to as "ice giants".
+.]] A giant planet is a massive planet and has a thick atmosphere of hydrogen and helium. They may have a dense molten core of rocky elements, or the core may have completely dissolved and dispersed throughout the planet if the planet is hot enough.[8] In "traditional" giant planets such as Jupiter and Saturn (the gas giants) hydrogen and helium constitute most of the mass of the planet, whereas they only make up an outer envelope on Uranus and Neptune, which are instead mostly composed of water, ammonia, and methane and therefore increasingly referred to as "ice giants".
 
 Extrasolar giant planets that orbit very close to their stars are the exoplanets that are easiest to detect. These are called hot Jupiters and hot Neptunes because they have very high surface temperatures. Hot Jupiters were, until the advent of space-borne telescopes, the most common form of exoplanet known, due to the relative ease of detecting them with ground-based instruments.
 
@@ -31,7 +31,7 @@ Subtypes
 
 Gas giants
 
-Saturn_north_polar_vortex_2012-11-27.jpg Gas giants consist mostly of hydrogen and helium. The Solar System's gas giants, Jupiter and Saturn, have heavier elements making up between 3 and 13 percent of their mass.[9] Gas giants are thought to consist of an outer layer of molecular hydrogen, surrounding a layer of liquid metallic hydrogen, with a probable molten core with a rocky composition.
+Gas giants consist mostly of hydrogen and helium. The Solar System's gas giants, Jupiter and Saturn, have heavier elements making up between 3 and 13 percent of their mass.[9] Gas giants are thought to consist of an outer layer of molecular hydrogen, surrounding a layer of liquid metallic hydrogen, with a probable molten core with a rocky composition.
 
 Jupiter and Saturn's outermost portion of the hydrogen atmosphere has many layers of visible clouds that are mostly composed of water and ammonia. The layer of metallic hydrogen makes up the bulk of each planet, and is referred to as "metallic" because the very high pressure turns hydrogen into an electrical conductor. The core is thought to consist of heavier elements at such high temperatures (20,000 K) and pressures that their properties are poorly understood.[10]
 
@@ -52,7 +52,7 @@ Solid planets up to thousands of Earth masses may be able to form around massive
 
 Extrasolar giant planets
 
-Plan79ceti.jpg, the first extrasolar giant planet found with a minimum mass less than Saturn.]] Planet_sizes.svg Because of the limited techniques currently available to detect exoplanets, many of those found to date have been of a size associated, in the Solar System, with giant planets. Because these large planets are inferred to share more in common with Jupiter than with the other giant planets, some have claimed that "jovian planet" is a more accurate term for them. Many of the exoplanets are much closer to their parent stars and hence much hotter than the giant planets in the Solar System, making it possible that some of those planets are a type not observed in the Solar System. Considering the relative abundances of the elements in the universe (approximately 98% hydrogen and helium) it would be surprising to find a predominantly rocky planet more massive than Jupiter. On the other hand, models of planetary-system formation have suggested that giant planets would be inhibited from forming as close to their stars as many of the extrasolar giant planets have been observed to orbit.
+, the first extrasolar giant planet found with a minimum mass less than Saturn.]] Because of the limited techniques currently available to detect exoplanets, many of those found to date have been of a size associated, in the Solar System, with giant planets. Because these large planets are inferred to share more in common with Jupiter than with the other giant planets, some have claimed that "jovian planet" is a more accurate term for them. Many of the exoplanets are much closer to their parent stars and hence much hotter than the giant planets in the Solar System, making it possible that some of those planets are a type not observed in the Solar System. Considering the relative abundances of the elements in the universe (approximately 98% hydrogen and helium) it would be surprising to find a predominantly rocky planet more massive than Jupiter. On the other hand, models of planetary-system formation have suggested that giant planets would be inhibited from forming as close to their stars as many of the extrasolar giant planets have been observed to orbit.
 
 
 Atmospheres

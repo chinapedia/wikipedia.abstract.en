@@ -24,7 +24,7 @@ The constitution contains a commitment to the "market economy system", which alo
 
 Monarchy
 
-Norodom_king_of_Cambodia.jpg Norodom Sihamoni]] Cambodia is a constitutional monarchy, i.e. the King reigns but does not rule, in similar fashion to Queen Elizabeth II of the United Kingdom. The King is officially the Head of State and is the symbol of unity and "perpetuity" of the nation, as defined by Cambodia's constitution.[25]
+Norodom Sihamoni]] Cambodia is a constitutional monarchy, i.e. the King reigns but does not rule, in similar fashion to Queen Elizabeth II of the United Kingdom. The King is officially the Head of State and is the symbol of unity and "perpetuity" of the nation, as defined by Cambodia's constitution.[25]
 
 From September 24, 1993 through October 7, 2004, Norodom Sihanouk reigned as King, after having previously served in a number of offices (including King) since 1941. Under the Constitution, the King has no political power, but as Norodom Sihanouk was revered in the country, his word often carried much influence in the government. While such views are not prevalent in Cambodia, his word was respected by his subjects. The King, often irritated over the conflicts in his government, several times threatened to abdicate unless the political factions in the government got along. This put pressure on the government to solve their differences. This influence of the King was often used to help mediate differences in government.
 
@@ -47,7 +47,7 @@ It has been suggested that Cambodia's ability to peacefully appoint a new King s
 
 Executive branch
 
-Hun_Sen_(2016)_cropped.jpg – Prime Minister]] Seal_of_the_Cabinet_of_Cambodia.svgThe Prime Minister of Cambodia is a representative from the ruling party of the National Assembly. He or she is appointed by the King on the recommendation of the President and Vice Presidents of the National Assembly. In order for a person to become Prime Minister, he or she must first be given a vote of confidence by the National Assembly.
+– Prime Minister]] The Prime Minister of Cambodia is a representative from the ruling party of the National Assembly. He or she is appointed by the King on the recommendation of the President and Vice Presidents of the National Assembly. In order for a person to become Prime Minister, he or she must first be given a vote of confidence by the National Assembly.
 
 The Prime Minister is officially the Head of Government in Cambodia. Upon entry into office, he or she appoints a Council of Ministers who are responsible to the Prime Minister. Officially, the Prime Minister's duties include chairing meetings of the Council of Ministers (Cambodia's version of a Cabinet) and appointing and leading a government. The Prime Minister and his government make up Cambodia's executive branch of government.
 
@@ -84,7 +84,7 @@ The National Assembly is led by a President and two Vice Presidents who are sele
 
 Political parties and elections
 
-Sam_Rainsy_(cropped).jpg]] Norodom_Ranariddh_(2014).jpg]]
+]] ]]
 
 2018 general election results
 

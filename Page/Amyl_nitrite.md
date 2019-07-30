@@ -37,8 +37,6 @@ Amyl nitrites are also useful as reagents in a modification of the Sandmeyer rea
 
 Physiological effects
 
-An_early_container_of_Amyl_Nitrite,_Hunterian_Museum,_Glasgow.jpg
-
 Amyl nitrite, in common with other alkyl nitrites,[15] is a potent vasodilator; it expands blood vessels, resulting in lowering of the blood pressure. Amyl nitrite may be used during cardiovascular stress testing in patients with suspected hypertrophic cardiomyopathy to cause vasodilation and thereby reduce afterload and worsen an otherwise occult left ventricular outflow tract obstruction. Alkyl nitrites are a source of nitric oxide, which signals for relaxation of the involuntary muscles. Physical effects include decrease in blood pressure, headache, flushing of the face, increased heart rate, dizziness, and relaxation of involuntary muscles, especially the blood vessel walls and the internal and external anal sphincter. There are no withdrawal symptoms. Overdose symptoms include nausea, vomiting, hypotension, hypoventilation, shortness of breath, and fainting. The effects set in very quickly, typically within a few seconds and disappear within a few minutes. Amyl nitrite may also intensify the experience of synesthesia.[16]
 
 

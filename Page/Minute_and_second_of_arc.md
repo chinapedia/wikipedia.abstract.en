@@ -62,8 +62,6 @@ Uses
 
 Astronomy
 
-Comparison_angular_diameter_solar_system.svg
-
 Since antiquity the arcminute and arcsecond have been used in astronomy. In the ecliptic coordinate system, latitude (β) and longitude (λ); in the horizon system, altitude (Alt) and azimuth (Az); and in the equatorial coordinate system, declination (δ), are all measured in degrees, arcminutes and arcseconds. The principal exception is right ascension (RA) in equatorial coordinates, which is measured in time units of hours, minutes, and seconds.
 
 The arcsecond is also often used to describe small astronomical angles such as the angular diameters of planets (e.g. the angular diameter of Venus which varies between 10″ and 60″), the proper motion of stars, the separation of components of binary star systems, and parallax, the small change of position of a star in the course of a year or of a solar system body as the Earth rotates. These small angles may also be written in milliarcseconds (mas), or thousandths of an arcsecond. The unit of distance, the parsec, named from the _par_allax of one arc _sec_ond, was developed for such parallax measurements. It is the distance at which the mean radius of the Earth's orbit would subtend an angle of one arcsecond.
@@ -86,7 +84,7 @@ Related to cartography, property boundary surveying using the metes and bounds s
 
 Firearms
 
-Ballistic_table_for_7.62x51_mm_NATO_(mil_and_moa).png load. Bullet drop and wind drift are shown both in mil and minute of angle.]]
+load. Bullet drop and wind drift are shown both in mil and minute of angle.]]
 
 The arcminute is commonly found in the firearms industry and literature, particularly concerning the accuracy of rifles, though the industry refers to it as MINUTE OF ANGLE (MOA). It is especially popular with shooters familiar with the imperial measurement system because 1 MOA is subtended by a sphere with a diameter of 1.047 inches at 100 yards (2.908 cm at 100 m), a traditional distance on U.S. target ranges. The subtension is linear with the distance, for example, at 500 yards, 1 MOA is subtended by a sphere with a diameter of 5.235 inches, and at 1000 yards 1 MOA is subtended by a sphere with a diameter of 10.47 inches. Since many modern telescopic sights are adjustable in half (), quarter (), or eighth () MOA increments, also known as _clicks_, zeroing and adjustments are made by counting 2, 4 and 8 clicks per MOA respectively.
 
@@ -112,7 +110,7 @@ The Metric System counterpart of the MOA is the milliradian or MIL, being equal 
 
 In the table below conversions from mil to metric values are exact (e.g. 0.1 mil equals exactly 1 cm at 100 meters), while conversions of minutes of arc to both metric and imperial values are approximate.
 
-Mil_and_moa_comparison.png (mil) and minute of arc (moa).]]
+(mil) and minute of arc (moa).]]
 
 -   1′ at 100 yards equals 22619/ 21600 = 1.04717593 in[16] ≈ 1.047 inches
 -   1′ ≈ 0.291 mil (or 2.91 cm at 100 m, approximately 3 cm at 100 m)

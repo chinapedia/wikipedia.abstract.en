@@ -1,4 +1,4 @@
-Encyclopedia_Brown,_Boy_Detective_(1963).jpg _ENCYCLOPEDIA BROWN_ is a series of books featuring the adventures of boy detective Leroy Brown, nicknamed "Encyclopedia" for his intelligence and range of knowledge. The series of 29 children's novels was written (one co-written) by Donald J. Sobol, with the first book published in 1963 and the last novel published posthumously, in 2012. The Encyclopedia Brown series has spawned a comic strip, a TV series, and compilation books of puzzles and games.
+_ENCYCLOPEDIA BROWN_ is a series of books featuring the adventures of boy detective Leroy Brown, nicknamed "Encyclopedia" for his intelligence and range of knowledge. The series of 29 children's novels was written (one co-written) by Donald J. Sobol, with the first book published in 1963 and the last novel published posthumously, in 2012. The Encyclopedia Brown series has spawned a comic strip, a TV series, and compilation books of puzzles and games.
 
 
 Style
@@ -55,8 +55,6 @@ Recurring characters
 
 
 Comic strip
-
-Encyclopedia_Brown_strip.png
 
 From December 3, 1978, to September 20, 1980, Encyclopedia Brown was a daily and Sunday comic strip syndicated by Universal Press Syndicate. The artwork was done by Frank Bolle, and Donald J. Sobol was credited as the writer.[1]
 

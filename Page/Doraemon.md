@@ -17,7 +17,7 @@ Nobita's closest friend is Shizuka Minamoto, who eventually becomes his wife in 
 
 Manga
 
-Doraemon_first_appearance.jpg.]] In December 1969 the _Doraemon_ manga appeared in six different children's monthly magazines published by Shogakukan. The magazines were aimed at children from nursery school to fourth grade. In 1977 _CoroCoro Comic_ was launched as the flagship magazine of _Doraemon._[3]
+.]] In December 1969 the _Doraemon_ manga appeared in six different children's monthly magazines published by Shogakukan. The magazines were aimed at children from nursery school to fourth grade. In 1977 _CoroCoro Comic_ was launched as the flagship magazine of _Doraemon._[3]
 
 Since the debut of _Doraemon_ in 1969, the stories have been selectively collected into forty-five tankōbon volumes, which were published under Shogakukan's _Tentōmushi Comics_ imprint, from 1974 to 1996. Shogakukan published a _master works_ collection consisting of Twenty volumes between July 24, 2009 and September 25, 2012.[4][5]
 
@@ -80,7 +80,7 @@ The _Doraemon_ anime series is India's highest-rated children's television show 
 
 Legacy
 
-Shuttle bus featuring Doraemon to Fujiko F. Fujio Museum in Kawasaki, Kanagawa|thumb A Fujiko F. Fujio museum opened in Kawasaki on September 3, 2011, featuring Doraemon as the star of the museum.[55][56]
+A Fujiko F. Fujio museum opened in Kawasaki on September 3, 2011, featuring Doraemon as the star of the museum.[55][56]
 
 As one of the oldest, continuously running icons, Doraemon is a recognizable character in this contemporary generation. Nobita, the show's protagonist, is a break from other characters typically portrayed as special or extraordinary, and this portrayal has been seen as reasons of its appeal as well as the contrary, especially in the United States.[57] Mexican filmmaker Guillermo del Toro considers _Doraemon_ to be "the greatest kids series ever created".[58]
 

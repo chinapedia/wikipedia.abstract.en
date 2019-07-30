@@ -21,7 +21,7 @@ Heschel married Sylvia Straus, a concert pianist, on December 10, 1946, in Los A
 
 Ideology
 
-SelmaHeschelMarch.jpg with Martin Luther King, Jr. (4th from right). Heschel later wrote, "When I marched in Selma, my feet were praying."]] Heschel explicated many facets of Jewish thought, including studies on medieval Jewish philosophy, Kabbalah, and Hasidic philosophy. According to some scholars, he was more interested in spirituality than in critical text study; the latter was a specialty of many scholars at JTS. He was not given a graduate assistant for many years and was relegated to teach mainly in the education school or Rabbinical school, not in the academic graduate program. Heschel became friendly with his colleague Mordecai Kaplan. Though they differed in their approach to Judaism, they had a very cordial relationship and visited each other's homes from time to time.
+with Martin Luther King, Jr. (4th from right). Heschel later wrote, "When I marched in Selma, my feet were praying."]] Heschel explicated many facets of Jewish thought, including studies on medieval Jewish philosophy, Kabbalah, and Hasidic philosophy. According to some scholars, he was more interested in spirituality than in critical text study; the latter was a specialty of many scholars at JTS. He was not given a graduate assistant for many years and was relegated to teach mainly in the education school or Rabbinical school, not in the academic graduate program. Heschel became friendly with his colleague Mordecai Kaplan. Though they differed in their approach to Judaism, they had a very cordial relationship and visited each other's homes from time to time.
 
 Heschel believed the teachings of the Hebrew prophets were a clarion call for social action in the United States and worked for African Americans' civil rights and against the Vietnam War.[12]
 
@@ -29,7 +29,7 @@ He also specifically criticized what he called "pan-halakhism", or an exclusive 
 
 Influence outside Judaism
 
-Abraham_Heschel_with_MLK.jpg, December 7, 1965]] Heschel is a widely read Jewish theologian whose most influential works include _Man Is Not Alone_, _God in Search of Man_, _The Sabbath,_ and _The Prophets_. At the Vatican Council II, as representative of American Jews, Heschel persuaded the Catholic Church to eliminate or modify passages in its liturgy that demeaned the Jews, or referred to an expected conversion to Christianity. His theological works argued that religious experience is a fundamentally human impulse, not just a Jewish one. He believed that no religious community could claim a monopoly on religious truth.[13]
+, December 7, 1965]] Heschel is a widely read Jewish theologian whose most influential works include _Man Is Not Alone_, _God in Search of Man_, _The Sabbath,_ and _The Prophets_. At the Vatican Council II, as representative of American Jews, Heschel persuaded the Catholic Church to eliminate or modify passages in its liturgy that demeaned the Jews, or referred to an expected conversion to Christianity. His theological works argued that religious experience is a fundamentally human impulse, not just a Jewish one. He believed that no religious community could claim a monopoly on religious truth.[13]
 
 
 Published works
@@ -69,7 +69,7 @@ The publisher of this book states, "The standard Jewish view is that prophecy en
 
 Commemoration
 
-AJ_Heschel_school_270_W89_jeh.jpg in Manhattan]] Four schools have been named for Heschel, in the Upper West Side of New York City, Northridge, California, Agoura Hills, California, and Toronto, Ontario, Canada. In 2009, a highway in Missouri was named "Dr. Abraham Joshua Heschel Highway" after a Springfield, Missouri area Neo-Nazi group cleaned the stretch of highway as part of an "Adopt-A-Highway" plan. Heschel's daughter, Susannah, has objected to the adoption of her father's name in this context.[14]
+in Manhattan]] Four schools have been named for Heschel, in the Upper West Side of New York City, Northridge, California, Agoura Hills, California, and Toronto, Ontario, Canada. In 2009, a highway in Missouri was named "Dr. Abraham Joshua Heschel Highway" after a Springfield, Missouri area Neo-Nazi group cleaned the stretch of highway as part of an "Adopt-A-Highway" plan. Heschel's daughter, Susannah, has objected to the adoption of her father's name in this context.[14]
 
 
 Selected bibliography

@@ -1,4 +1,4 @@
-Eight_bar_boogie-woogie_blues_in_C.png bassline on 8 bar blues progression in C, chord roots in red. ]]
+bassline on 8 bar blues progression in C, chord roots in red. ]]
 
 In music, an EIGHT-BAR BLUES is a typical blues chord progression, "the second most common blues form,"[1] "common to folk, rock, and jazz forms of the blues,"[2] taking eight {{music or bars to the verse.
 

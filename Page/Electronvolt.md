@@ -82,7 +82,7 @@ As an approximation: _k__(B)_T_ is about (≈ ) at a temperature of .
 
 Properties
 
-Colors_in_eV.svg EV_to_nm_vis.png The energy _E_, frequency _v_, and wavelength λ of a photon are related by
+The energy _E_, frequency _v_, and wavelength λ of a photon are related by
 
 $$E=h\nu=\frac{hc}{\lambda}$$
 $=\frac{(4.135\ 667\ 516\times 10^{-15}\,\mbox{eV}\,\mbox{s})(299\ 792\ 458\,\mbox{m/s})}{\lambda}$
@@ -100,7 +100,7 @@ In a low-energy nuclear scattering experiment, it is conventional to refer to th
 
 Energy comparisons
 
-Light_spectrum.svg varies only with the frequency of the photon, related by speed of light constant. This contrasts with a massive particle of which the energy depends on its velocity and rest mass.[6][7][8]
+varies only with the frequency of the photon, related by speed of light constant. This contrasts with a massive particle of which the energy depends on its velocity and rest mass.[6][7][8]
 
 Legend
 

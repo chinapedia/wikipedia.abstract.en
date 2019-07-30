@@ -5,7 +5,7 @@ At the time of his death, Steinmetz held over 200 patents.[3] A genius in both m
 
 Early life
 
-Steinmetz_Cabin.jpg near Schenectady, New York.]] Steinmetz was born KARL AUGUST RUDOLPH STEINMETZ on April 9, 1865 in Breslau, Province of Silesia, Prussia (now Wrocław, Poland) the son of Caroline (Neubert) and Karl Heinrich Steinmetz.[6] He was baptized a Lutheran into the Evangelical Church of Prussia.[7][8] Steinmetz, who only stood four feet tall as an adult,[9] suffered from dwarfism, hunchback, and hip dysplasia, as did his father and grandfather. Steinmetz attended Johannes Gymnasium and astonished his teachers with his proficiency in mathematics and physics.
+near Schenectady, New York.]] Steinmetz was born KARL AUGUST RUDOLPH STEINMETZ on April 9, 1865 in Breslau, Province of Silesia, Prussia (now Wrocław, Poland) the son of Caroline (Neubert) and Karl Heinrich Steinmetz.[6] He was baptized a Lutheran into the Evangelical Church of Prussia.[7][8] Steinmetz, who only stood four feet tall as an adult,[9] suffered from dwarfism, hunchback, and hip dysplasia, as did his father and grandfather. Steinmetz attended Johannes Gymnasium and astonished his teachers with his proficiency in mathematics and physics.
 
 Following the Gymnasium, Steinmetz went on to the University of Breslau to begin work on his undergraduate degree in 1883. He was on the verge of finishing his doctorate in 1888 when he came under investigation by the German police for activities on behalf of a socialist university group and articles he had written for a local socialist newspaper.
 
@@ -23,7 +23,7 @@ A member of the original Technical Alliance, which also included Thorstein Veble
 
 Engineering wizard
 
-Charles_Proteus_Steinmetz.jpg Steinmetz is known for his contribution in three major fields of alternating current (AC) systems theory: hysteresis, steady-state analysis, and transients.[14]
+Steinmetz is known for his contribution in three major fields of alternating current (AC) systems theory: hysteresis, steady-state analysis, and transients.[14]
 
 AC hysteresis theory
 
@@ -70,7 +70,7 @@ Steinmetz was a lifelong agnostic.[36] He died of a heart attack on October 26, 
 
 Legacy
 
-Albert_Einstein_with_other_engineers_and_scientists_at_Marconi_RCA_radio_station_1921.jpg in Somerset, New Jersey in 1921, Steinmetz (center), Albert Einstein (to his right)]]
+in Somerset, New Jersey in 1921, Steinmetz (center), Albert Einstein (to his right)]]
 
 The "Forger of Thunderbolts"[38] and "Wizard of Schenectady"[39] earned wide recognition among the scientific community and numerous awards and honors both during his life and posthumously.
 

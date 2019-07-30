@@ -22,7 +22,7 @@ Scott Key's mother, Ann Pheobe Dagworthy Charlton, was born February 6, 1756 to 
 
 Early life and family
 
-Coat_of_Arms_of_Francis_Scott_Key.svg Francis Scott Key was born to Ann Phoebe Penn Dagworthy (Charlton) and Captain John Ross Key at the family plantation Terra Rubra in what was then part of Frederick County, now Carroll County, Maryland.[9][10]
+Francis Scott Key was born to Ann Phoebe Penn Dagworthy (Charlton) and Captain John Ross Key at the family plantation Terra Rubra in what was then part of Frederick County, now Carroll County, Maryland.[9][10]
 
 Key graduated from St.John's College, Annapolis, Maryland in 1796, and read the law under an uncle, Philip Barton Key who was (along with his wife) loyal to the British Crown during the War of Independence.[11] He married Mary Tayloe Lloyd on January 1, 1802.[12]
 
@@ -31,14 +31,14 @@ Key graduated from St.John's College, Annapolis, Maryland in 1796, and read the 
 
 During the War of 1812, Key, accompanied by the British Prisoner Exchange Agent Colonel John Stuart Skinner, dined aboard the British ship HMS _Tonnant_ as the guests of three British officers: Vice Admiral Alexander Cochrane, Rear Admiral George Cockburn, and Major General Robert Ross. Skinner and Key were there to negotiate the release of prisoners, one of whom was Dr.William Beanes, a resident of Upper Marlboro, Maryland, who had been arrested after jailing marauding British troops who were looting local farms. Skinner, Key, and Beanes were not allowed to return to their own sloop because they had become familiar with the strength and position of the British units and with the British intent to attack Baltimore. Thus, Key was unable to do anything but watch the bombarding of the American forces at Fort McHenry during the Battle of Baltimore on the night of September 1314,1814.[13]
 
-Fort_mc_henry_cannon_Baltimore.jpg looking towards the position of the British ships (with the Francis Scott Key Bridge in the distance on the upper left)]]
+looking towards the position of the British ships (with the Francis Scott Key Bridge in the distance on the upper left)]]
 
 At dawn, Key was able to see an American flag still waving. Back in Baltimore and inspired, Key wrote a poem about his experience, "Defence of Fort M'Henry", which was soon published in William Pechin's[14] _American and Commercial Daily Advertiser_ on September 21, 1814. He took it to Thomas Carr, a music publisher, who adapted it to the rhythms of composer John Stafford Smith's "To Anacreon in Heaven",[15] a popular tune Key had already used as a setting for his 1805-song "When the Warrior Returns", celebrating U.S. heroes of the First Barbary War.[16] (Key used the "star-spangled" flag imagery in the earlier song.)[17] It has become better known as "The Star-Spangled Banner". Though somewhat difficult to sing, it became increasingly popular, competing with "Hail, Columbia" (1796) as the de facto national anthem by the time of the Mexican–American War and American Civil War. More than a century after its first publication, the song was adopted as the American national anthem, first by an Executive Order from President Woodrow Wilson in1916 (which had little effect beyond requiring military bands to play what became known as the "Service Version") and then by a Congressional resolution in1931, signed by President Herbert Hoover.[18]
 
 
 Legal career
 
-Francis_Scott_Key_law_office_Frederick_MD1.jpg Key was a leading attorney in Frederick, Maryland, and Washington, D.C. for many years, with an extensive real estate as well as trial practice. He and his family settled in Georgetown in 1805 or 1806, near the new national capital. There the young Key assisted his uncle, the prominent lawyer Philip Barton Key, such as in the sensational conspiracy trial of Aaron Burr and the expulsion of Senator John Smith of Ohio. He made the first of his many arguments before the United States Supreme Court in 1807. In 1808 he assisted President Thomas Jefferson's attorney general in _United Statesv.Peters._[19]
+Key was a leading attorney in Frederick, Maryland, and Washington, D.C. for many years, with an extensive real estate as well as trial practice. He and his family settled in Georgetown in 1805 or 1806, near the new national capital. There the young Key assisted his uncle, the prominent lawyer Philip Barton Key, such as in the sensational conspiracy trial of Aaron Burr and the expulsion of Senator John Smith of Ohio. He made the first of his many arguments before the United States Supreme Court in 1807. In 1808 he assisted President Thomas Jefferson's attorney general in _United Statesv.Peters._[19]
 
 In 1829, Key, a supporter of Andrew Jackson, assisted in the prosecution of Tobias Watkins, former U.S.Treasury auditor under former President John Quincy Adams for misappropriating public monies. He also handled the Petticoat affair concerning Secretary of War John Eaton, who had married a widowed saloonkeeper.[20] In 1832, he served as the attorney for Sam Houston, then a former U.S. Representative and Governor of Tennessee, during his trial for assaulting Representative William Stanbery of Ohio.[21]
 
@@ -78,8 +78,6 @@ The US national motto "In God We Trust" was adapted from a phrase in Key's "Star
 
 Death and legacy
 
-Howard_vault.jpg
-
 On January 11, 1843, Key died at the home of his daughter Elizabeth Howard in Baltimore from pleurisy[39] at age 63. He was initially interred in Old Saint Paul's Cemetery in the vault of John Eager Howard but in 1866, his body was moved to his family plot in Frederick at Mount Olivet Cemetery.
 
 The Key Monument Association erected a memorial in 1898 and the remains of both Francis Scott Key and his wife, Mary Tayloe Lloyd, were placed in a crypt in the base of the monument.
@@ -95,7 +93,7 @@ Key was a distant cousin and the namesake of F. Scott Fitzgerald, whose full na
 
 Monuments and memorials
 
-Francis_Scott_Key_Monument_San_Francisco_December_2016_panorama.jpg Key_plaque.png in Mount Vernon, Baltimore]] TerraRubra.jpg plaque marking the birthplace of Francis Scott Key]]
+in Mount Vernon, Baltimore]] plaque marking the birthplace of Francis Scott Key]]
 
 -   Francis Scott Key Monument in Baltimore
 -   Two bridges are named in his honor. The first is the Francis Scott Key Bridge between the Rosslyn section of Arlington County, Virginia, and Georgetown in Washington, D.C. Scott's Georgetown home, which was dismantled in 1947 (as part of construction for the Whitehurst Freeway), was located on M Street NW, in the area between the Key Bridge and the intersection of M Street and Whitehurst Freeway. The location is illustrated on a sign in the Francis Scott Key park.[48]

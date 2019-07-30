@@ -28,23 +28,23 @@ The main sources of information regarding Jesus' life and teachings are the four
 
 Early Christianity (c. 31/33–324)
 
-Stele_Licinia_Amias_Terme_67646.jpg of Licinia Amias on marble. One of the earliest Christian inscriptions found, it comes from the early 3rd-century Vatican necropolis area in Rome.]] Early Christianity may be divided into two distinct phases: the apostolic period (1st century), when the first apostles were alive and led the Church, and the Ante-Nicene Period, (c.100–325) when an early episcopal structure developed.
+of Licinia Amias on marble. One of the earliest Christian inscriptions found, it comes from the early 3rd-century Vatican necropolis area in Rome.]] Early Christianity may be divided into two distinct phases: the apostolic period (1st century), when the first apostles were alive and led the Church, and the Ante-Nicene Period, (c.100–325) when an early episcopal structure developed.
 
 Apostolic Age
 
-Broad_overview_of_geography_relevant_to_paul_of_tarsus.png)]] The Apostolic Age is named after the Apostles and their missionary activities. It holds special significance in Christian tradition as the age of the direct apostles of Jesus. A primary source for the Apostolic Age is the Acts of the Apostles, but its historical accuracy is questionable and its coverage is partial, focusing especially from onwards on the ministry of Paul, and ending around 62 AD with Paul preaching in Rome under house arrest.
+)]] The Apostolic Age is named after the Apostles and their missionary activities. It holds special significance in Christian tradition as the age of the direct apostles of Jesus. A primary source for the Apostolic Age is the Acts of the Apostles, but its historical accuracy is questionable and its coverage is partial, focusing especially from onwards on the ministry of Paul, and ending around 62 AD with Paul preaching in Rome under house arrest.
 
 The earliest followers of Jesus were apocalyptic Jewish Christians. Some Early Christian groups were strictly Jewish, such as the Ebionites and the early Christian community in Jerusalem, led by James, the brother of Jesus. According to , they described themselves as 'disciples of the Lord' and [followers] 'of the Way', and according to a settled community of disciples at Antioch were the first to be called 'Christians'.
 
 Some of the early Christian communities also attracted gentile God-fearers. The inclusion of gentiles posed a problem, as they could not fully observe the Halakha. Saul of Tarsus, commonly known as Paul the Apostle, persecuted the early Jewish Christians, then converted and started proselytizing among the gentiles. The main concern of Paul's letters is the inclusion of gentiles into God's New Covenant, deeming faith in Christ sufficient for righteousness. Due to this inclusion of gentiles, Early Christianity gradually grew apart from Judaism during the first two centuries of the Christian Era; it established itself as a predominantly gentile religion in the Roman Empire.
 
-Good_shepherd_02b_close.jpg, _Christian iconography, a study of its origins_, the Good Shepherd, 3rd century.]]
+, _Christian iconography, a study of its origins_, the Good Shepherd, 3rd century.]]
 
 The Gospels and New Testament epistles contain early creeds and hymns, as well as accounts of the Passion, the empty tomb, and Resurrection appearances.[3] Christianity spread to Aramaic-speaking peoples along the Mediterranean coast and also to the inland parts of the Roman Empire and beyond that into the Parthian Empire and the later Sasanian Empire, including Mesopotamia, which was dominated at different times and to varying extents by these empires.[4]
 
 Ante-Nicene Period
 
-Lawrence-before-Valerianus.jpg (martyred 258) before Emperor Valerianus by Fra Angelico]] The Ante-Nicene Period (literally meaning "before Nicaea") of the history of early Christianity was the period following the Apostolic Age down to the First Council of Nicaea in 325. This period of Christian history had a significant impact on the unity of doctrine across all Christendom and the spreading of Christianity to a greater area of the world. By the beginning of the Nicene period, the Christian faith had spread throughout Western Europe and the Mediterranean Basin, and to North Africa and the East. Several trends emerged simultaneously. One unifying trend was an increasingly harsh rejection of Judaism and of Jewish practices.
+(martyred 258) before Emperor Valerianus by Fra Angelico]] The Ante-Nicene Period (literally meaning "before Nicaea") of the history of early Christianity was the period following the Apostolic Age down to the First Council of Nicaea in 325. This period of Christian history had a significant impact on the unity of doctrine across all Christendom and the spreading of Christianity to a greater area of the world. By the beginning of the Nicene period, the Christian faith had spread throughout Western Europe and the Mediterranean Basin, and to North Africa and the East. Several trends emerged simultaneously. One unifying trend was an increasingly harsh rejection of Judaism and of Jewish practices.
 
 Persecutions
 
@@ -74,7 +74,7 @@ The diversity of early Christianity can be documented from the New Testament rec
 
 Development of the Biblical canon
 
-P46.jpg, an early-3rd-century collection of Pauline epistles.]] The Pauline epistles were circulating in collected form by the end of the 1st century AD, while Justin Martyr mentions the gospels as the "memoirs of the apostles" in the early 2nd century.[15]
+, an early-3rd-century collection of Pauline epistles.]] The Pauline epistles were circulating in collected form by the end of the 1st century AD, while Justin Martyr mentions the gospels as the "memoirs of the apostles" in the early 2nd century.[15]
 
 By the early 3rd century, Origen of Alexandria may have been using the same 27 books as in the modern New Testament, though there were still disputes over the canonicity of Hebrews, James, II Peter, II and III John, and Revelation.[16] The Muratorian fragment shows that by 200 there existed a set of Christian writings similar to the current New Testament.[17] By the 4th century, there existed unanimity in the West concerning the New Testament canon,[18] and by the 5th century the East, with a few exceptions, had come to accept the Book of Revelation and thus had come into harmony on the matter of the canon.[19]
 
@@ -84,18 +84,16 @@ As Christianity spread, it acquired certain members from well-educated circles o
 
 Early art
 
-VirgenNino.jpg, Rome, 4th century.]] Christian art only emerged relatively late, and the first known Christian images emerge from about 200 AD,[20] though there is some literary evidence that small domestic images were used earlier. The oldest known Christian paintings are from the Roman Catacombs, dated to about AD 200, and the oldest Christian sculptures are from sarcophagi, dating to the beginning of the 3rd century.[21]
+, Rome, 4th century.]] Christian art only emerged relatively late, and the first known Christian images emerge from about 200 AD,[20] though there is some literary evidence that small domestic images were used earlier. The oldest known Christian paintings are from the Roman Catacombs, dated to about AD 200, and the oldest Christian sculptures are from sarcophagi, dating to the beginning of the 3rd century.[21]
 
 Although many Hellenised Jews seem, as at the Dura-Europos synagogue, to have had images of religious figures, the traditional Mosaic prohibition of "graven images" no doubt retained some effect, although never proclaimed by theologians. This early rejection of images, and the necessity to hide Christian practise from persecution, leaves us with few archaeological records regarding early Christianity and its evolution.[22]
 
 
 Christianity during late antiquity (313–476)
 
-Spread_of_Christianity_to_AD_600_(1).png
-
 Legalization
 
-Nicaea_icon.jpg (centre) and the bishops of the First Council of Nicaea (325) holding the Niceno–Constantinopolitan Creed of 381.]] Galerius, who had previously been one of the leading figures in persecution, in 311 issued an edict which ended the persecution.[23] Galerius reigned for another 2 years and was succeeded by an emperor with distinctively _pro_ Christian leanings, Constantine the Great.
+(centre) and the bishops of the First Council of Nicaea (325) holding the Niceno–Constantinopolitan Creed of 381.]] Galerius, who had previously been one of the leading figures in persecution, in 311 issued an edict which ended the persecution.[23] Galerius reigned for another 2 years and was succeeded by an emperor with distinctively _pro_ Christian leanings, Constantine the Great.
 
 The Emperor Constantine I was exposed to Christianity by his mother, Helena.[24] At the Battle of the Milvian Bridge in 312, Constantine commanded his troops to adorn their shields with the Chi Rho in accordance with a vision that he had had the night before. Victory allowed him to claim the emperorship of the Western Roman Empire.[25] In 313, he and Emperor Licinius issued the Edict of Milan, officially legalizing Christian worship.
 
@@ -111,13 +109,13 @@ Later Church Fathers wrote volumes of theological texts, including Augustine, Gr
 
 Arianism and the first ecumenical councils
 
-Christian_states_495_AD_(en).svg A popular doctrine of the 4th century was Arianism, the denial of the divinity of Christ, as propounded by Arius. Although this doctrine was condemned as heresy and eventually eliminated by the Roman Church it remained popular underground for some time. In the late 4th century Ulfilas, a Roman bishop and an Arian, was appointed as the first bishop to the Goths, the Germanic peoples in much of Europe at the borders of and within the Empire. Ulfilas spread Arian Christianity among the Goths firmly establishing the faith among many of the Germanic tribes, thus helping to keep them culturally distinct.[31]
+A popular doctrine of the 4th century was Arianism, the denial of the divinity of Christ, as propounded by Arius. Although this doctrine was condemned as heresy and eventually eliminated by the Roman Church it remained popular underground for some time. In the late 4th century Ulfilas, a Roman bishop and an Arian, was appointed as the first bishop to the Goths, the Germanic peoples in much of Europe at the borders of and within the Empire. Ulfilas spread Arian Christianity among the Goths firmly establishing the faith among many of the Germanic tribes, thus helping to keep them culturally distinct.[31]
 
 During this age, the first ecumenical councils were convened. They were mostly concerned with Christological disputes. The First Council of Nicaea (325) and the First Council of Constantinople (381) resulted in condemning Arian teachings as heresy and producing the Nicene Creed.
 
 Christianity as Roman state religion (380)
 
-Orient_méditerranéen_de_l'Empire_romain_-_Mosaïque_byzantine_-2.JPG mosaic showing a basilica with towers, mounted with Christian crosses, 5th century AD, Louvre]] On 27 February 380, with the Edict of Thessalonica put forth under Theodosius I, Gratian, and Valentinian II, the Roman Empire officially adopted Trinitarian Christianity as its state religion. Prior to this date, Constantius II (337–361) and Valens (364–378) had personally favoured Arian or Semi-Arian forms of Christianity, but Valens' successor Theodosius I supported the Trinitarian doctrine as expounded in the Nicene Creed.
+mosaic showing a basilica with towers, mounted with Christian crosses, 5th century AD, Louvre]] On 27 February 380, with the Edict of Thessalonica put forth under Theodosius I, Gratian, and Valentinian II, the Roman Empire officially adopted Trinitarian Christianity as its state religion. Prior to this date, Constantius II (337–361) and Valens (364–378) had personally favoured Arian or Semi-Arian forms of Christianity, but Valens' successor Theodosius I supported the Trinitarian doctrine as expounded in the Nicene Creed.
 
 After its establishment, the Church adopted the same organisational boundaries as the Empire: geographical provinces, called dioceses, corresponding to imperial governmental territorial division. The bishops, who were located in major urban centres as per pre-legalisation tradition, thus oversaw each diocese. The bishop's location was his "seat", or "see". Among the sees, five came to hold special eminence: Rome, Constantinople, Jerusalem, Antioch, and Alexandria. The prestige of most of these sees depended in part on their apostolic founders, from whom the bishops were therefore the spiritual successors. Though the bishop of Rome was still held to be the First among equals, Constantinople was second in precedence as the new capital of the empire.
 
@@ -125,7 +123,7 @@ Theodosius I decreed that others not believing in the preserved "faithful tradit
 
 Nestorianism and the Sasanian Empire
 
-Church_of_the_East_in_the_Middle_Ages.svg and its largest extent during the Middle Ages.]] During the early 5th century the School of Edessa had taught a Christological perspective stating that Christ's divine and human nature were distinct persons. A particular consequence of this perspective was that Mary could not be properly called the mother of God, but could only be considered the mother of Christ. The most widely known proponent of this viewpoint was the Patriarch of Constantinople Nestorius. Since referring to Mary as the mother of God had become popular in many parts of the Church this became a divisive issue.
+and its largest extent during the Middle Ages.]] During the early 5th century the School of Edessa had taught a Christological perspective stating that Christ's divine and human nature were distinct persons. A particular consequence of this perspective was that Mary could not be properly called the mother of God, but could only be considered the mother of Christ. The most widely known proponent of this viewpoint was the Patriarch of Constantinople Nestorius. Since referring to Mary as the mother of God had become popular in many parts of the Church this became a divisive issue.
 
 The Roman Emperor Theodosius II called for the Council of Ephesus (431), with the intention of settling the issue. The councils ultimately rejected Nestorius' view. Many churches who followed the Nestorian viewpoint broke away from the Roman Church, causing a major schism. The Nestorian churches were persecuted and many followers fled to the Sasanian Empire where they were accepted.
 
@@ -146,7 +144,7 @@ Central figures in the development of monasticism were Basil the Great in the Ea
 
 Early Middle Ages (476–799)
 
-Meister_von_San_Vitale_in_Ravenna_004.jpg of Justinian I in the church of San Vitale, Ravenna, Italy.]] The transition into the Middle Ages was a gradual and localised process. Rural areas rose as power centres whilst urban areas declined. Although a greater number of Christians remained in the East (Greek areas), important developments were underway in the West (Latin areas) and each took on distinctive shapes.
+of Justinian I in the church of San Vitale, Ravenna, Italy.]] The transition into the Middle Ages was a gradual and localised process. Rural areas rose as power centres whilst urban areas declined. Although a greater number of Christians remained in the East (Greek areas), important developments were underway in the West (Latin areas) and each took on distinctive shapes.
 
 The Bishops of Rome, the Popes, were forced to adapt to drastically changing circumstances. Maintaining only nominal allegiance to the Emperor, they were forced to negotiate balances with the "barbarian rulers" of the former Roman provinces. In the East the Church maintained its structure and character and evolved more slowly.
 
@@ -162,7 +160,7 @@ After the rise of the Frankish Kingdom and the stabilizing political conditions,
 
 Byzantine iconoclasm
 
-Andrej_Rublëv_001.jpg's Trinity.]] Following a series of heavy military reverses against the Muslims, the Iconoclasm emerged in the early 8th century. In the 720s the Byzantine Emperor Leo III the Isaurian banned the pictorial representation of Christ, saints, and biblical scenes. In the West, Pope Gregory III held two synods at Rome and condemned Leo's actions. The Byzantine Iconoclast Council, held at Hieria in 754, ruled that holy portraits were heretical.[42]
+'s Trinity.]] Following a series of heavy military reverses against the Muslims, the Iconoclasm emerged in the early 8th century. In the 720s the Byzantine Emperor Leo III the Isaurian banned the pictorial representation of Christ, saints, and biblical scenes. In the West, Pope Gregory III held two synods at Rome and condemned Leo's actions. The Byzantine Iconoclast Council, held at Hieria in 754, ruled that holy portraits were heretical.[42]
 
 The movement destroyed much of the Christian church's early artistic history. The iconoclastic movement itself was later defined as heretical in 787 under the Second Council of Nicaea (the seventh ecumenical council), but enjoyed a brief resurgence between 815 and 842.
 
@@ -174,8 +172,6 @@ Carolingian Renaissance
 The Carolingian Renaissance was a period of intellectual and cultural revival of literature, arts, and scriptural studies during the late 8th and 9th centuries, mostly during the reigns of Charlemagne and Louis the Pious, Frankish rulers. To address the problems of illiteracy among clergy and court scribes, Charlemagne founded schools and attracted the most learned men from all of Europe to his court.
 
 Monastic reform
-
-Clocher_abbaye_cluny_2.JPG
 
 Cluny
 
@@ -195,7 +191,7 @@ A third level of monastic reform was provided by the establishment of the Mendic
 
 Investiture Controversy
 
-Canossa-gate.jpg at the gate of Canossa, by August von Heyden.]] The Investiture Controversy, or Lay investiture controversy, was the most significant conflict between secular and religious powers in medieval Europe. It began as a dispute in the 11th century between the Holy Roman Emperor Henry IV, and Pope Gregory VII concerning who would appoint bishops (investiture). The end of lay investiture threatened to undercut the power of the Empire and the ambitions of noblemen.
+at the gate of Canossa, by August von Heyden.]] The Investiture Controversy, or Lay investiture controversy, was the most significant conflict between secular and religious powers in medieval Europe. It began as a dispute in the 11th century between the Holy Roman Emperor Henry IV, and Pope Gregory VII concerning who would appoint bishops (investiture). The end of lay investiture threatened to undercut the power of the Empire and the ambitions of noblemen.
 
 Bishoprics being merely lifetime appointments, a king could better control their powers and revenues than those of hereditary noblemen. Even better, he could leave the post vacant and collect the revenues, theoretically in trust for the new bishop, or give a bishopric to pay a helpful noble. The Church wanted to end lay investiture to end this and other abuses, to reform the episcopate and provide better pastoral care.
 
@@ -217,7 +213,7 @@ In 829 Ansgar went to Birka on Lake Mälaren, Sweden, with his aide friar Witmar
 
 Conversion of the Slavs
 
-Sevastopol_Chersonesus_Saint_Vladimir_Cathedral_IMG_0723_1725.jpg) Crimea, a place where the East Slavic Christianity was born.]] Cyril_Metodej.jpg and St. Methodius monument on Mt. Radhošť.]] Although by 800 Western Europe was ruled entirely by Christian kings, East and Central Europe remained an area of missionary activity. For example, in the 9th century Cyril and Methodius had extensive missionary success in the region among the Slavic peoples, translating the Bible and liturgy into Slavonic. The Baptism of Kiev in 988 spread Christianity throughout Kievan Rus', establishing Christianity among Ukraine, Belarus and Russia.
+) Crimea, a place where the East Slavic Christianity was born.]] and St. Methodius monument on Mt. Radhošť.]] Although by 800 Western Europe was ruled entirely by Christian kings, East and Central Europe remained an area of missionary activity. For example, in the 9th century Cyril and Methodius had extensive missionary success in the region among the Slavic peoples, translating the Bible and liturgy into Slavonic. The Baptism of Kiev in 988 spread Christianity throughout Kievan Rus', establishing Christianity among Ukraine, Belarus and Russia.
 
 In the 9th and 10th centuries, Christianity made great inroads into Eastern Europe, including Bulgaria and Kievan Rus'. The evangelisation, or Christianisation, of the Slavs was initiated by one of Byzantium's most learned churchmen—the Patriarch Photios I of Constantinople (Photius). The Byzantine emperor Michael III chose Cyril and Methodius in response to a request from Rastislav, the king of Moravia who wanted missionaries that could minister to the Moravians in their own language.
 
@@ -231,7 +227,7 @@ The missionaries to the East and South Slavs had great success in part because t
 
 Mission to Great Moravia
 
-Kopčany_kostol_-_sever.JPG (Kopčany, Slovakia, 9th–10th century) – the only preserved building from the time of Great Moravia.]] Central_europe_9th_century.png When king Rastislav of Moravia asked Byzantium for teachers who could minister to the Moravians in their own language, Byzantine emperor Michael III chose two brothers, Cyril and Methodius. As their mother was a Slav from the hinterlands of Thessaloniki, the two brothers had been raised speaking the local Slavonic vernacular. Once commissioned, they immediately set about creating an alphabet, the Glagolitic alphabet. They then translated the Scripture and the liturgy into Slavonic.
+(Kopčany, Slovakia, 9th–10th century) – the only preserved building from the time of Great Moravia.]] When king Rastislav of Moravia asked Byzantium for teachers who could minister to the Moravians in their own language, Byzantine emperor Michael III chose two brothers, Cyril and Methodius. As their mother was a Slav from the hinterlands of Thessaloniki, the two brothers had been raised speaking the local Slavonic vernacular. Once commissioned, they immediately set about creating an alphabet, the Glagolitic alphabet. They then translated the Scripture and the liturgy into Slavonic.
 
 This Slavic dialect became the basis of Old Church Slavonic which later evolved into Church Slavonic which is the common liturgical language still used by the Russian Orthodox Church and other Slavic Orthodox Christians.
 
@@ -245,7 +241,7 @@ File:Bulgaria under rule of Boris I.png|Bulgaria under Boris I (who was converte
 
 Conversion of the Rus'
 
-Vasnetsov_Bapt_Vladimir.jpg The success of the conversion of the Bulgarians facilitated the conversion of other East Slavic peoples, most notably the Rus', predecessors of Belarusians, Russians, and Ukrainians, as well as Rusyns. By the beginning of the 11th century most of the pagan Slavic world, including Rus', Bulgaria and Serbia, had been converted to Byzantine Christianity. The traditional event associated with the conversion of Rus' is the baptism of Vladimir of Kiev in 989. However, Christianity is documented to have predated this event in the city of Kiev and in Georgia. Today the Russian Orthodox Church is the largest of the Orthodox Churches.
+The success of the conversion of the Bulgarians facilitated the conversion of other East Slavic peoples, most notably the Rus', predecessors of Belarusians, Russians, and Ukrainians, as well as Rusyns. By the beginning of the 11th century most of the pagan Slavic world, including Rus', Bulgaria and Serbia, had been converted to Byzantine Christianity. The traditional event associated with the conversion of Rus' is the baptism of Vladimir of Kiev in 989. However, Christianity is documented to have predated this event in the city of Kiev and in Georgia. Today the Russian Orthodox Church is the largest of the Orthodox Churches.
 
 
 Controversy and Crusades dividing East and West
@@ -276,7 +272,7 @@ Photios did provide concession on the issue of jurisdictional rights concerning 
 
 East-West Schism (1054)
 
-Great_Schism_1054_with_former_borders.png The East-West Schism, or Great Schism, separated the Church into Western (Latin) and Eastern (Greek) branches, i.e., Western Catholicism and Eastern Orthodoxy. It was the first major division since certain groups in the East rejected the decrees of the Council of Chalcedon (see Oriental Orthodoxy), and was far more significant. Though normally dated to 1054, the East-West Schism was actually the result of an extended period of estrangement between Latin and Greek Christendom over the nature of papal primacy and certain doctrinal matters like the _Filioque_, but intensified by cultural and linguistic differences.
+The East-West Schism, or Great Schism, separated the Church into Western (Latin) and Eastern (Greek) branches, i.e., Western Catholicism and Eastern Orthodoxy. It was the first major division since certain groups in the East rejected the decrees of the Council of Chalcedon (see Oriental Orthodoxy), and was far more significant. Though normally dated to 1054, the East-West Schism was actually the result of an extended period of estrangement between Latin and Greek Christendom over the nature of papal primacy and certain doctrinal matters like the _Filioque_, but intensified by cultural and linguistic differences.
 
 The "official" schism in 1054 was the excommunication of Patriarch Michael Cerularius of Constantinople, followed by his excommunication of papal legates. Attempts at reconciliation were made in 1274 (by the Second Council of Lyon) and in 1439 (by the Council of Basel), but in each case the eastern hierarchs who consented to the unions were repudiated by the Orthodox as a whole, though reconciliation was achieved between the West and what are now called the "Eastern Rite Catholic Churches". More recently, in 1965 the mutual excommunications were rescinded by the Pope and the Patriarch of Constantinople, though schism remains.
 
@@ -290,9 +286,9 @@ Many in the East saw the actions of the West as a prime determining factor in th
 
 Crusades
 
-Map_Crusader_states_1135-en.svg Generally, the Crusades refer to the campaigns in the Holy Land against Muslim forces sponsored by the Papacy. There were other crusades against Islamic forces in southern Spain, southern Italy, and Sicily, as well as the campaigns of Teutonic Knights against pagan strongholds in North-eastern Europe (see Northern Crusades). A few crusades were waged within Christendom against groups that were considered heretical and schismatic (also see the Battle of the Ice and the Albigensian Crusade).
+Generally, the Crusades refer to the campaigns in the Holy Land against Muslim forces sponsored by the Papacy. There were other crusades against Islamic forces in southern Spain, southern Italy, and Sicily, as well as the campaigns of Teutonic Knights against pagan strongholds in North-eastern Europe (see Northern Crusades). A few crusades were waged within Christendom against groups that were considered heretical and schismatic (also see the Battle of the Ice and the Albigensian Crusade).
 
-Crac_des_chevaliers_syria.jpeg was built in the County of Tripoli by the Knights Hospitaller during the Crusades.]]
+was built in the County of Tripoli by the Knights Hospitaller during the Crusades.]]
 
 The Holy Land had been part of the Roman Empire, and thus Byzantine Empire, until the Islamic conquests of the 7th and 8th centuries. Thereafter, Christians had generally been permitted to visit the sacred places in the Holy Land until 1071, when the Seljuk Turks closed Christian pilgrimages and assailed the Byzantines, defeating them at the Battle of Manzikert.
 
@@ -308,7 +304,7 @@ Crusades in southern Spain, southern Italy, and Sicily eventually lead to the de
 
 Hesychast Controversy
 
-Gregor_Palamas.jpg In 1337 Hesychasm—a mystical teaching at Mount Athos came under attack from Barlaam of Calabria, an abbot in Constantinople. Barlaam propounded a more intellectual and propositional approach to the knowledge of God than the Hesychasts taught. Hesychasm is a form of constant purposeful prayer or experiential prayer, explicitly referred to as contemplation focusing on the idea of stillness and the characteristic mystical idea of light as the vehicle for knowing God.
+In 1337 Hesychasm—a mystical teaching at Mount Athos came under attack from Barlaam of Calabria, an abbot in Constantinople. Barlaam propounded a more intellectual and propositional approach to the knowledge of God than the Hesychasts taught. Hesychasm is a form of constant purposeful prayer or experiential prayer, explicitly referred to as contemplation focusing on the idea of stillness and the characteristic mystical idea of light as the vehicle for knowing God.
 
 Gregory Palamas, afterwards Archbishop of Thessalonica, defended Hesychasm. Several synods took one position or the other until in 1351 at a synod under the presidency of the Emperor John VI Cantacuzenus, Hesychast doctrine was established as the doctrine of the Orthodox Church. the theology was especially attractive in the East because it validated the use of icons as a vehicle for contemplation of divine light.[57]
 
@@ -331,7 +327,7 @@ It is, in part, due to this geographical and intellectual confinement that the v
 
 Religious rights under the Ottoman Empire
 
-Gennadios.jpg receives Gennadius II Scholarius (Ecumenical Patriarch of Constantinople from 1454 to 1464)]] The new Ottoman government that conquered the Byzantine Empire followed Islamic law when dealing with the conquered Christian population. Christians were officially tolerated as People of the Book. As such, the Church's canonical and hierarchical organisation were not significantly disrupted and its administration continued to function. One of the first things that Mehmet the Conqueror did was to allow the Church to elect a new patriarch, Gennadius Scholarius.
+receives Gennadius II Scholarius (Ecumenical Patriarch of Constantinople from 1454 to 1464)]] The new Ottoman government that conquered the Byzantine Empire followed Islamic law when dealing with the conquered Christian population. Christians were officially tolerated as People of the Book. As such, the Church's canonical and hierarchical organisation were not significantly disrupted and its administration continued to function. One of the first things that Mehmet the Conqueror did was to allow the Church to elect a new patriarch, Gennadius Scholarius.
 
 Because Islamic law makes no distinction between nationality and religion, all Christians, regardless of their language or nationality, were considered a single millet, or nation. The patriarch, as the highest-ranking hierarch, was thus invested with civil and religious authority and made ethnarch, head of the entire Christian Orthodox population. This meant that all Orthodox Churches within Ottoman territory were under the control of Constantinople. However, these rights and privileges, including freedom of worship and religious organisation, were often established in principle but seldom corresponded to reality. Christians were viewed as second-class citizens, and the legal protections they depended upon were subject to the whims of the Sultan and the Sublime Porte.[58][59]
 
@@ -354,7 +350,7 @@ Troubles reached their peak in 1378 when, Gregory XI died while visiting Rome. A
 
 Western Schism (1378–1416)
 
-Western_schism_1378-1417.svg (1409), which created a third line of claimants.]] The Western Schism, or Papal Schism, was a prolonged crisis with two or more claimants to the See of Rome. The conflict was political rather than doctrinal.
+(1409), which created a third line of claimants.]] The Western Schism, or Papal Schism, was a prolonged crisis with two or more claimants to the See of Rome. The conflict was political rather than doctrinal.
 
 In 1309, Pope Clement V moved to Avignon in southern France. For sixty-nine years popes resided in Avignon rather than Rome. Confusion and of political animosity waxed, as the prestige and influence of Rome waned without a resident pontiff. Though Pope Gregory XI, a Frenchman, returned to Rome in 1378, the strife between Italian and French factions intensified.
 
@@ -366,13 +362,13 @@ In March 1415 the Pisan pope John XXIII fled from Constance. He was brought back
 
 John Wycliff and Jan Hus
 
-Brožík,_Václav_-_Hus_před_koncilem_6._července_1415.jpg in Council of Constance by Václav Brožík.]] Hussites.gif John Wycliffe (or Wyclif) (1330–1384) was an English scholar and heretic best known for denouncing the corruptions of the Church, and his sponsoring the first translation of the Bible from Latin into English. He was a precursor of the Protestant Reformation. He emphasized the supremacy of the Bible, and called for a direct relationship between man and God, without interference by priests and bishops. His followers, called Lollards, faced persecution by the Church of England. They went underground for over a century and played a role in the English Reformation.[61][62]
+in Council of Constance by Václav Brožík.]] John Wycliffe (or Wyclif) (1330–1384) was an English scholar and heretic best known for denouncing the corruptions of the Church, and his sponsoring the first translation of the Bible from Latin into English. He was a precursor of the Protestant Reformation. He emphasized the supremacy of the Bible, and called for a direct relationship between man and God, without interference by priests and bishops. His followers, called Lollards, faced persecution by the Church of England. They went underground for over a century and played a role in the English Reformation.[61][62]
 
 Jan Hus (or Huss) (1369?–1415) a Czech theologian in Prague, was influenced by Wycliffe and spoke out against the corruptions he saw in the Church; his continued defiance led to his excommunication and condemnation by the Council of Constance, which also condemned John Wycliff. Hus was executed in 1415, but his followers organized a peasants' war, 1419–1436, that was put down by the Empire with great brutality. Hus was a forerunner of the Protestant Reformation and his memory has become a powerful symbol of Czech culture in Bohemia.[63]
 
 Italian Renaissance (c. 1375 – 1520)
 
-Michelangelo's_Pieta_5450_cut_out_black.jpg The Renaissance was a period of great cultural change and achievement, marked in Italy by a classical orientation and an increase of wealth through mercantile trade. The City of Rome, the Papacy, and the Papal States were all affected by the Renaissance. On the one hand, it was a time of great artistic patronage and architectural magnificence, where the Church patroned such artists as Michelangelo, Brunelleschi, Bramante, Raphael, Fra Angelico, Donatello, and da Vinci. On the other hand, wealthy Italian families often secured episcopal offices, including the papacy, for their own members, some of whom were known for immorality, such as Alexander VI and Sixtus IV.
+The Renaissance was a period of great cultural change and achievement, marked in Italy by a classical orientation and an increase of wealth through mercantile trade. The City of Rome, the Papacy, and the Papal States were all affected by the Renaissance. On the one hand, it was a time of great artistic patronage and architectural magnificence, where the Church patroned such artists as Michelangelo, Brunelleschi, Bramante, Raphael, Fra Angelico, Donatello, and da Vinci. On the other hand, wealthy Italian families often secured episcopal offices, including the papacy, for their own members, some of whom were known for immorality, such as Alexander VI and Sixtus IV.
 
 In addition to being the head of the Church, the Pope became one of Italy's most important secular rulers, and pontiffs such as Julius II often waged campaigns to protect and expand their temporal domains. Furthermore, the popes, in a spirit of refined competition with other Italian lords, spent lavishly both on private luxuries but also on public works, repairing or building churches, bridges, and a magnificent system of aqueducts in Rome that still function today.
 
@@ -383,7 +379,7 @@ Reformation and Counter-Reformation
 
 Protestant Reformation (1521–1610)
 
-Reformation.gif the Reformation is usually considered to have started with the publication of the _Ninety-five Theses_ by Martin Luther in 1517, there was no schism until the 1521 Edict of Worms. The edicts of the Diet condemned Luther and officially banned citizens of the Holy Roman Empire from defending or propagating his ideas.[64]
+the Reformation is usually considered to have started with the publication of the _Ninety-five Theses_ by Martin Luther in 1517, there was no schism until the 1521 Edict of Worms. The edicts of the Diet condemned Luther and officially banned citizens of the Holy Roman Empire from defending or propagating his ideas.[64]
 
 In the early 16th century, attempts were made by the theologians Martin Luther and Huldrych Zwingli along with many others who aimed to reform the Church. Along with some of the previous ones, they considered the root of corruptions to be doctrinal (rather than simply a matter of moral weakness or lack of ecclesiastical discipline) and thus advocated for monergism against voluntaristic notions that salvation could be earned by people. The word _Protestant_ is derived from the Latin _protestatio_ meaning _declaration_ which refers to the letter of protestation by Lutheran princes against the decision of the Diet of Speyer in 1529, which reaffirmed the edict of the Diet of Worms ordering the seizure of all property owned by persons guilty of advocating Lutheranism.[65] Since that time, the term has been used in many different senses, but most often as a general term refers to Western Christianity that is not subject to papal authority.[66] The term "Protestant" was not originally used by Reformation era leaders; instead, they called themselves "evangelical", emphasising the "return to the true gospel (Greek: _euangelion_)."[67]
 
@@ -397,7 +393,7 @@ Churches with Reformation confessions of faith spread almost entirely within the
 
 Martin Luther
 
-Lucas_Cranach_d.Ä._-_Martin_Luther,_1528_(Veste_Coburg).jpg Martin Luther was an Augustinian monk and later priest who was professor at the University of Wittenberg. In 1517, he nailed a list of _Ninety-five Theses_, or points to be debated on the door of the church in Wittenberg and also mailed a copy to his archbishop. These points concerned the illicitness of selling indulgences. They were translated from Latin into German and distributed.
+Martin Luther was an Augustinian monk and later priest who was professor at the University of Wittenberg. In 1517, he nailed a list of _Ninety-five Theses_, or points to be debated on the door of the church in Wittenberg and also mailed a copy to his archbishop. These points concerned the illicitness of selling indulgences. They were translated from Latin into German and distributed.
 
 In 1520, he was asked to issue a blanked recantation of his works for heresy and lesser offenses by the papal bull _Exsurge Domine_. Although the bull demanded Luther burn his own works, instead he burned the papal bull Wittenberg during an incident when others had gathered together books of canon law and were burning them.[70] In particular, _Exsurge Domine_ drew out forty-one specific statements from Luther's _Ninety-five Theses_, his 1519 Leipzig Debate with John Eck, and other sources for censure.
 
@@ -407,7 +403,7 @@ For most of his career, Luther tactically avoided complete identification with e
 
 Ulrich Zwingli
 
-Ulrich_Zwingli.jpg Ulrich Zwingli was a Swiss scholar and parish priest who was likewise influential in the beginnings of the Protestant Reformation. Zwingli claimed that his theology owed nothing to Luther, and that he had developed it in 1516, before Luther's famous protest, though his doctrine of justification was remarkably similar to that of the German priest.[73] In 1518, Zwingli was given a post at the wealthy collegiate church of the Grossmünster in Zürich, where he would remain until his death at a relatively young age. Soon he had risen to prominence in the city, and when political tension developed between most of Switzerland and the Catholic Habsburg Emperor Charles V. In this environment, Zwingli began preaching his version of reform, with certain points as the aforementioned doctrine of justification, but others (with which Luther vehemently disagreed) such as the position that veneration of icons was actually idolatry and thus a violation of the first commandment, and the denial of the real presence in the Eucharist.[74] Soon the city council had accepted Zwingli's doctrines and Zurich became a focal point of more radical reforming movements, and certain admirers and followers of Zwingli pushed his message and reforms far further than even he had intended, such as rejecting infant baptism.[75] This split between Luther and Zwingli formed the essence of the Protestant division between Lutheran and Reformed theology. Meanwhile, political tensions increased; Zwingli and the Zurich leadership imposed an economic blockade on the inner Catholic states of Switzerland, which led to a battle in which Zwingli, in full armor, was slain along with his troops.
+Ulrich Zwingli was a Swiss scholar and parish priest who was likewise influential in the beginnings of the Protestant Reformation. Zwingli claimed that his theology owed nothing to Luther, and that he had developed it in 1516, before Luther's famous protest, though his doctrine of justification was remarkably similar to that of the German priest.[73] In 1518, Zwingli was given a post at the wealthy collegiate church of the Grossmünster in Zürich, where he would remain until his death at a relatively young age. Soon he had risen to prominence in the city, and when political tension developed between most of Switzerland and the Catholic Habsburg Emperor Charles V. In this environment, Zwingli began preaching his version of reform, with certain points as the aforementioned doctrine of justification, but others (with which Luther vehemently disagreed) such as the position that veneration of icons was actually idolatry and thus a violation of the first commandment, and the denial of the real presence in the Eucharist.[74] Soon the city council had accepted Zwingli's doctrines and Zurich became a focal point of more radical reforming movements, and certain admirers and followers of Zwingli pushed his message and reforms far further than even he had intended, such as rejecting infant baptism.[75] This split between Luther and Zwingli formed the essence of the Protestant division between Lutheran and Reformed theology. Meanwhile, political tensions increased; Zwingli and the Zurich leadership imposed an economic blockade on the inner Catholic states of Switzerland, which led to a battle in which Zwingli, in full armor, was slain along with his troops.
 
 John Calvin
 
@@ -415,7 +411,7 @@ John Calvin was a French cleric and doctor of law turned Protestant reformer. He
 
 English Reformation
 
-Hooker-Statue.jpeg, whose emphases on reason, tolerance and inclusiveness influenced Anglicanism.]] Unlike other reform movements, the English Reformation began by royal influence. Henry VIII considered himself a thoroughly Catholic King, and in 1521 he defended the papacy against Luther in a book he commissioned entitled, _The Defence of the Seven Sacraments_, for which Pope Leo X awarded him the title _Fidei Defensor_ (Defender of the Faith). However, the king came into conflict with the papacy when he wished to annul his marriage with Catherine of Aragon, for which he needed papal sanction. Catherine, among many other noble relations, was the aunt of Emperor Charles V, the papacy's most significant secular supporter. The ensuing dispute eventually lead to a break from Rome and the declaration of the King of England as head of the English Church. England would later experience periods of reform and also Counter-Reformation. Monarchs such as Edward VI, Lady Jane Grey, Mary I, Elizabeth I, and Archbishops of Canterbury such as Thomas Cranmer and William Laud pushed the Church of England in different directions over the course of only a few generations. What emerged was the Elizabethan Religious Settlement and a state church that considered itself both "Reformed" and "Catholic" but not "Roman" (and hesitated from the title "Protestant"), and other "unofficial" more radical movements such as the Puritans. In terms of politics, the English Reformation included heresy trials, the exiling of Catholic populations to Spain and other Catholic lands, censorship and prohibition of books, etc.[78]
+, whose emphases on reason, tolerance and inclusiveness influenced Anglicanism.]] Unlike other reform movements, the English Reformation began by royal influence. Henry VIII considered himself a thoroughly Catholic King, and in 1521 he defended the papacy against Luther in a book he commissioned entitled, _The Defence of the Seven Sacraments_, for which Pope Leo X awarded him the title _Fidei Defensor_ (Defender of the Faith). However, the king came into conflict with the papacy when he wished to annul his marriage with Catherine of Aragon, for which he needed papal sanction. Catherine, among many other noble relations, was the aunt of Emperor Charles V, the papacy's most significant secular supporter. The ensuing dispute eventually lead to a break from Rome and the declaration of the King of England as head of the English Church. England would later experience periods of reform and also Counter-Reformation. Monarchs such as Edward VI, Lady Jane Grey, Mary I, Elizabeth I, and Archbishops of Canterbury such as Thomas Cranmer and William Laud pushed the Church of England in different directions over the course of only a few generations. What emerged was the Elizabethan Religious Settlement and a state church that considered itself both "Reformed" and "Catholic" but not "Roman" (and hesitated from the title "Protestant"), and other "unofficial" more radical movements such as the Puritans. In terms of politics, the English Reformation included heresy trials, the exiling of Catholic populations to Spain and other Catholic lands, censorship and prohibition of books, etc.[78]
 
 Counter-Reformation (1545–1837)
 
@@ -425,7 +421,7 @@ The Counter-Reformation also included the Catholic Reformation, which aimed at i
 
 The Council of Trent
 
-Council_of_Trent.JPG church; Museo Diocesiano Tridentino, Trento]] The Council of Trent (1545–1563), initiated by Pope Paul III (1534–1549) addressed issues of certain ecclesiastical corruptions such as simony, absenteeism, nepotism, the holding of multiple church offices by one person, and other abuses, as well as the reassertion of traditional practices and the dogmatic articulation of the traditional doctrines of the Church, such as the episcopal structure, clerical celibacy, the seven Sacraments, transubstantiation (the belief that during mass the consecrated bread and wine truly become the body and blood of Christ), the veneration of relics, icons, and saints (especially the Blessed Virgin Mary), the necessity of both faith and good works for salvation, the existence of purgatory and the issuance (but not the sale) of indulgences, etc. In other words, all Protestant doctrinal objections and changes were uncompromisingly rejected. The Council also fostered an interest in education for parish priests to increase pastoral care. Milan's Archbishop Saint Charles Borromeo (1538–1584) set an example by visiting the remotest parishes and instilling high standards.
+church; Museo Diocesiano Tridentino, Trento]] The Council of Trent (1545–1563), initiated by Pope Paul III (1534–1549) addressed issues of certain ecclesiastical corruptions such as simony, absenteeism, nepotism, the holding of multiple church offices by one person, and other abuses, as well as the reassertion of traditional practices and the dogmatic articulation of the traditional doctrines of the Church, such as the episcopal structure, clerical celibacy, the seven Sacraments, transubstantiation (the belief that during mass the consecrated bread and wine truly become the body and blood of Christ), the veneration of relics, icons, and saints (especially the Blessed Virgin Mary), the necessity of both faith and good works for salvation, the existence of purgatory and the issuance (but not the sale) of indulgences, etc. In other words, all Protestant doctrinal objections and changes were uncompromisingly rejected. The Council also fostered an interest in education for parish priests to increase pastoral care. Milan's Archbishop Saint Charles Borromeo (1538–1584) set an example by visiting the remotest parishes and instilling high standards.
 
 Catholic Reformation
 
@@ -440,7 +436,7 @@ Church and the Enlightenment (1610–1800)
 
 Trial of Galileo
 
-Galileo_before_the_Holy_Office.jpg]] The Galileo affair, in which Galileo Galilei came into conflict with the Roman Catholic Church over his support of Copernican astronomy, is often considered a defining moment in the history of the relationship between religion and science.
+]] The Galileo affair, in which Galileo Galilei came into conflict with the Roman Catholic Church over his support of Copernican astronomy, is often considered a defining moment in the history of the relationship between religion and science.
 
 In 1610, Galileo published his _Sidereus Nuncius (Starry Messenger)_, describing the surprising observations that he had made with the new telescope. These and other discoveries exposed major difficulties with the understanding of the Heavens that had been held since antiquity, and raised new interest in radical teachings such as the heliocentric theory of Copernicus.
 
@@ -461,7 +457,7 @@ Revivalism refers to the Calvinist and Wesleyan revival, called the Great Awaken
 
 Great Awakenings
 
-Philipp_Jakob_Spener.jpg the founder of Pietism ]] The First Great Awakening was a wave of religious enthusiasm among Protestants in the American colonies c. 1730–1740, emphasising the traditional Reformed virtues of Godly preaching, rudimentary liturgy, and a deep sense of personal guilt and redemption by Christ Jesus. Historian Sydney E. Ahlstrom saw it as part of a "great international Protestant upheaval" that also created Pietism in Germany, the Evangelical Revival, and Methodism in England.[81] It centred on reviving the spirituality of established congregations, and mostly affected Congregational, Presbyterian, Dutch Reformed, German Reformed, Baptist, and Methodist churches, while also spreading within the slave population. The Second Great Awakening (1800–1830s), unlike the first, focused on the unchurched and sought to instil in them a deep sense of personal salvation as experienced in revival meetings. It also sparked the beginnings of groups such as the Mormons, the Restoration Movement and the Holiness movement. The Third Great Awakening began from 1857 and was most notable for taking the movement throughout the world, especially in English speaking countries. The final group to emerge from the "great awakenings" in North America was Pentecostalism, which had its roots in the Methodist, Wesleyan, and Holiness movements, and began in 1906 on Azusa Street, in Los Angeles. Pentecostalism would later lead to the Charismatic movement.
+the founder of Pietism ]] The First Great Awakening was a wave of religious enthusiasm among Protestants in the American colonies c. 1730–1740, emphasising the traditional Reformed virtues of Godly preaching, rudimentary liturgy, and a deep sense of personal guilt and redemption by Christ Jesus. Historian Sydney E. Ahlstrom saw it as part of a "great international Protestant upheaval" that also created Pietism in Germany, the Evangelical Revival, and Methodism in England.[81] It centred on reviving the spirituality of established congregations, and mostly affected Congregational, Presbyterian, Dutch Reformed, German Reformed, Baptist, and Methodist churches, while also spreading within the slave population. The Second Great Awakening (1800–1830s), unlike the first, focused on the unchurched and sought to instil in them a deep sense of personal salvation as experienced in revival meetings. It also sparked the beginnings of groups such as the Mormons, the Restoration Movement and the Holiness movement. The Third Great Awakening began from 1857 and was most notable for taking the movement throughout the world, especially in English speaking countries. The final group to emerge from the "great awakenings" in North America was Pentecostalism, which had its roots in the Methodist, Wesleyan, and Holiness movements, and began in 1906 on Azusa Street, in Los Angeles. Pentecostalism would later lead to the Charismatic movement.
 
 Restorationism
 
@@ -484,7 +480,7 @@ Modern Eastern Orthodoxy
 
 Russian Orthodox Church in the Russian Empire
 
-2003-04-18_Moscow_Kremlin.jpg, as seen from the Balchug ]]
+, as seen from the Balchug ]]
 
 The Russian Orthodox Church held a privileged position in the Russian Empire, expressed in the motto of the late Empire from 1833: Orthodoxy, Autocracy, and Populism. Nevertheless, the Church reform of Peter I in the early 18th century had placed the Orthodox authorities under the control of the Tsar. An Ober-Procurator appointed by the Tsar himself ran the committee which governed the Church between 1721 and 1918: the Most Holy Synod.
 
@@ -500,7 +496,7 @@ After the October Revolution of 7 November 1917 (25 October Old Calendar) there 
 
 The Soviet Union was the first state to have as an ideological objective the elimination of religion. Toward that end, the Communist regime confiscated church property, ridiculed religion, harassed believers, and propagated anti-religious atheistic propaganda in the schools. Actions toward particular religions, however, were determined by State interests, and most organised religions were never outlawed. Some actions against Orthodox priests and believers along with execution included torture being sent to prison camps, labour camps or mental hospitals.[92][93] The result of state atheism was to transform the Church into a persecuted and martyred Church. In the first five years after the Bolshevik revolution, 28 bishops and 1,200 priests were executed.[94] This included people like the Grand Duchess Elizabeth Fyodorovna who was at this point a monastic. Along with her murder was Grand Duke Sergei Mikhailovich Romanov; the Princes Ioann Konstantinovich, Konstantin Konstantinovich, Igor Konstantinovich and Vladimir Pavlovich Paley; Grand Duke Sergei's secretary, Fyodor Remez; and Varvara Yakovleva, a sister from the Grand Duchess Elizabeth's convent. They were herded into the forest, pushed into an abandoned mineshaft and grenades were then hurled into the mineshaft. Her remains were buried in Jerusalem, in the Church of Maria Magdalene.
 
-Russia-Moscow-Cathedral_of_Christ_the_Saviour-3.jpg after reconstruction]] The main target of the anti-religious campaign in the 1920s and 1930s was the Russian Orthodox Church, which had the largest number of faithful. Nearly its entire clergy, and many of its believers, were shot or sent to labor camps. Theological schools were closed, and church publications were prohibited. In the period between 1927 and 1940, the number of Orthodox Churches in the Russian Republic fell from 29,584 to fewer than 500. Between 1917 and 1940, 130,000 Orthodox priests were arrested. Father Pavel Florensky was one of the New-martyrs of this particular period.
+after reconstruction]] The main target of the anti-religious campaign in the 1920s and 1930s was the Russian Orthodox Church, which had the largest number of faithful. Nearly its entire clergy, and many of its believers, were shot or sent to labor camps. Theological schools were closed, and church publications were prohibited. In the period between 1927 and 1940, the number of Orthodox Churches in the Russian Republic fell from 29,584 to fewer than 500. Between 1917 and 1940, 130,000 Orthodox priests were arrested. Father Pavel Florensky was one of the New-martyrs of this particular period.
 
 After Nazi Germany's attack on the Soviet Union in 1941, Joseph Stalin revived the Russian Orthodox Church to intensify patriotic support for the war effort. By 1957 about 22,000 Russian Orthodox churches had become active. But in 1959 Nikita Khrushchev initiated his own campaign against the Russian Orthodox Church and forced the closure of about 12,000 churches. By 1985 fewer than 7,000 churches remained active.[95]
 
@@ -522,7 +518,7 @@ Fundamentalist Christianity, is a movement that arose mainly within British and 
 
 Under/During Nazism
 
-Papst_Pius_XI._1JS.jpg The position of Christians affected by Nazism is highly complex. Regarding the matter, historian Derek Holmes wrote, "There is no doubt that the Catholic districts, resisted the lure of National Socialism [Nazism] far better than the Protestant ones."[97] Pope Pius XI declared – _Mit brennender Sorge_ – that Fascist governments had hidden "pagan intentions" and expressed the irreconcilability of the Catholic position and Totalitarian Fascist State Worship, which placed the nation above God, fundamental human rights and dignity. His declaration that "Spiritually, [Christians] are all Semites" prompted the Nazis to give him the title "Chief Rabbi of the Christian World."[98]
+The position of Christians affected by Nazism is highly complex. Regarding the matter, historian Derek Holmes wrote, "There is no doubt that the Catholic districts, resisted the lure of National Socialism [Nazism] far better than the Protestant ones."[97] Pope Pius XI declared – _Mit brennender Sorge_ – that Fascist governments had hidden "pagan intentions" and expressed the irreconcilability of the Catholic position and Totalitarian Fascist State Worship, which placed the nation above God, fundamental human rights and dignity. His declaration that "Spiritually, [Christians] are all Semites" prompted the Nazis to give him the title "Chief Rabbi of the Christian World."[98]
 
 Catholic priests were executed in concentration camps alongside Jews; for example, 2,600 Catholic Priests were imprisoned in Dachau, and 2,000 of them were executed. A further 2,700 Polish priests were executed (a quarter of all Polish priests), and 5,350 Polish nuns were either displaced, imprisoned, or executed.[99] Many Catholic laymen and clergy played notable roles in sheltering Jews during the Holocaust, including Pope Pius XII (1876–1958). The head rabbi of Rome became a Catholic in 1945 and, in honour of the actions the Pope undertook to save Jewish lives, he took the name Eugenio (the pope's first name).[100] A former Israeli consul in Italy claimed: "The Catholic Church saved more Jewish lives during the war than all the other churches, religious institutions, and rescue organisations put together."[101]
 

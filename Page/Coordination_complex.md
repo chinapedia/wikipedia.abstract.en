@@ -1,4 +1,4 @@
-Cisplatin-3D-balls.png, PtCl₂(NH₃)₂, is a coordination complex of platinum(II) with two chloride and two ammonia ligands. It is one of the most successful anticancer drugs.]]
+, PtCl₂(NH₃)₂, is a coordination complex of platinum(II) with two chloride and two ammonia ligands. It is one of the most successful anticancer drugs.]]
 
 In chemistry, a COORDINATION COMPLEX consists of a central atom or ion, which is usually metallic and is called the _coordination centre_, and a surrounding array of bound molecules or ions, that are in turn known as _ligands_ or complexing agents.[1][2][3] Many metal-containing compounds, especially those of transition metals, are coordination complexes.[4] A coordination complex whose centre is a metal atom is called a METAL COMPLEX.
 
@@ -20,7 +20,7 @@ Any donor atom will give a pair of electrons. There are some donor atoms or grou
 
 History
 
-Alfred_Werner_ETH-Bib_Portr_09965.jpg]] Coordination complexes have been known since the beginning of modern chemistry. Early well-known coordination complexes include dyes such as Prussian blue. Their properties were first well understood in the late 1800s, following the 1869 work of Christian Wilhelm Blomstrand. Blomstrand developed what has come to be known as the complex ion chain theory. The theory claimed that the reason coordination complexes form is because in solution, ions would be bound via ammonia chains. He compared this effect to the way that various carbohydrate chains form.
+]] Coordination complexes have been known since the beginning of modern chemistry. Early well-known coordination complexes include dyes such as Prussian blue. Their properties were first well understood in the late 1800s, following the 1869 work of Christian Wilhelm Blomstrand. Blomstrand developed what has come to be known as the complex ion chain theory. The theory claimed that the reason coordination complexes form is because in solution, ions would be bound via ammonia chains. He compared this effect to the way that various carbohydrate chains form.
 
 Following this theory, Danish scientist Sophus Mads Jørgensen made improvements to it. In his version of the theory, Jørgensen claimed that when a molecule dissociates in a solution there were two possible outcomes: the ions would bind via the ammonia chains Blomstrand had described or the ions would bind directly to the metal.
 
@@ -31,7 +31,7 @@ In 1914, Werner first resolved the coordination complex, called hexol, into opti
 
 Structures
 
-Hexol-2D-wedged.png The ions or molecules surrounding the central atom are called ligands. Ligands are generally bound to the central atom by a coordinate covalent bond (donating electrons from a lone electron pair into an empty metal orbital), and are said to be COORDINATED to the atom. There are also organic ligands such as alkenes whose pi bonds can coordinate to empty metal orbitals. An example is ethene in the complex known as Zeise's salt, K⁺[PtCl₃(C₂H₄)]^(−).
+The ions or molecules surrounding the central atom are called ligands. Ligands are generally bound to the central atom by a coordinate covalent bond (donating electrons from a lone electron pair into an empty metal orbital), and are said to be COORDINATED to the atom. There are also organic ligands such as alkenes whose pi bonds can coordinate to empty metal orbitals. An example is ethene in the complex known as Zeise's salt, K⁺[PtCl₃(C₂H₄)]^(−).
 
 Geometry
 
@@ -107,7 +107,7 @@ The electronic configuration of the complexes gives them some important properti
 
 Color of transition metal complexes
 
-Copper_complex.jpg and copper(II) acetate monohydrate.]] Transition metal complexes often have spectacular colors caused by electronic transitions by the absorption of light. For this reason they are often applied as pigments. Most transitions that are related to colored metal complexes are either d–d transitions or charge transfer bands. In a d–d transition, an electron in a d orbital on the metal is excited by a photon to another d orbital of higher energy, therefore d–d transitions occur only for partially-filled d-orbital complexes (d^(1–9)). For complexes having d⁰ or d¹⁰ configuration, charge transfer is still possible even though d–d transitions are not. A charge transfer band entails promotion of an electron from a metal-based orbital into an empty ligand-based orbital (metal-to-ligand charge transfer or MLCT). The converse also occurs: excitation of an electron in a ligand-based orbital into an empty metal-based orbital (ligand-to-metal charge transfer or LMCT). These phenomena can be observed with the aid of electronic spectroscopy; also known as UV-Vis.[21] For simple compounds with high symmetry, the d–d transitions can be assigned using Tanabe–Sugano diagrams. These assignments are gaining increased support with computational chemistry.
+and copper(II) acetate monohydrate.]] Transition metal complexes often have spectacular colors caused by electronic transitions by the absorption of light. For this reason they are often applied as pigments. Most transitions that are related to colored metal complexes are either d–d transitions or charge transfer bands. In a d–d transition, an electron in a d orbital on the metal is excited by a photon to another d orbital of higher energy, therefore d–d transitions occur only for partially-filled d-orbital complexes (d^(1–9)). For complexes having d⁰ or d¹⁰ configuration, charge transfer is still possible even though d–d transitions are not. A charge transfer band entails promotion of an electron from a metal-based orbital into an empty ligand-based orbital (metal-to-ligand charge transfer or MLCT). The converse also occurs: excitation of an electron in a ligand-based orbital into an empty metal-based orbital (ligand-to-metal charge transfer or LMCT). These phenomena can be observed with the aid of electronic spectroscopy; also known as UV-Vis.[21] For simple compounds with high symmetry, the d–d transitions can be assigned using Tanabe–Sugano diagrams. These assignments are gaining increased support with computational chemistry.
 
 +----------------------+------------+--------------+----------------+------------+------------+--------+
 |                      | Fe²⁺       | Fe³⁺         | Co²⁺           | Cu²⁺       | Al³⁺       | Cr³⁺   |

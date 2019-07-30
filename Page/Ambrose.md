@@ -27,8 +27,6 @@ As bishop, he immediately adopted an ascetic lifestyle, apportioned his money to
 
 Arianism
 
-Museo_del_Duomo_-_Milan_-_St_Ambrose_of_Milan_-_Unknown_Lombard_author_(early_17_century).jpg
-
 Ambrose studied theology with Simplician, a presbyter of Rome. Using to his advantage his excellent knowledge of Greek, which was then rare in the West, he studied the Old Testament and Greek authors like Philo, Origen, Athanasius, and Basil of Caesarea, with whom he was also exchanging letters.[10] He applied this knowledge as preacher, concentrating especially on exegesis of the Old Testament, and his rhetorical abilities impressed Augustine of Hippo, who hitherto had thought poorly of Christian preachers.
 
 In the confrontation with Arians, Ambrose sought to theologically refute their propositions, which were contrary to the Nicene creed and thus to the officially defined orthodoxy. The Arians appealed to many high level leaders and clergy in both the Western and Eastern empires. Although the western Emperor Gratian supported orthodoxy, the younger Valentinian II, who became his colleague in the Empire, adhered to the Arian creed. Ambrose did not sway the young prince's position. In the East, Emperor Theodosius I likewise professed the Nicene creed; but there were many adherents of Arianism throughout his dominions, especially among the higher clergy.
@@ -43,7 +41,7 @@ In 386 Justina and Valentinian received the Arian bishop Auxentius the younger, 
 
 Imperial relations
 
-Anthonis_van_Dyck_005.jpg'' by Anthony van Dyck. National Gallery, London.]] The imperial court was displeased with the religious principles of Ambrose, however his aid was soon solicited by the Emperor. When Magnus Maximus usurped the supreme power in Gaul, and was meditating a descent upon Italy, Valentinian sent Ambrose to dissuade him from the undertaking, and the embassy was successful.
+'' by Anthony van Dyck. National Gallery, London.]] The imperial court was displeased with the religious principles of Ambrose, however his aid was soon solicited by the Emperor. When Magnus Maximus usurped the supreme power in Gaul, and was meditating a descent upon Italy, Valentinian sent Ambrose to dissuade him from the undertaking, and the embassy was successful.
 
 A second later embassy was unsuccessful. The enemy entered Italy and Milan was taken. Justina and her son fled but Ambrose remained at his post and did good service to many of the sufferers by causing the plate of the church to be melted for their relief.
 
@@ -51,7 +49,7 @@ Theodosius I, the emperor of the East, espoused the cause of Justina, and regain
 
 In 392, after the death of Valentinian II and the fall of Eugenius, Ambrose supplicated the emperor for the pardon of those who had supported Eugenius after Theodosius was eventually victorious.
 
-AmbroseGiuLungara.jpg and book, a painting in the church of San Giuseppe alla Lungara, Rome]]
+and book, a painting in the church of San Giuseppe alla Lungara, Rome]]
 
 Attitude towards Jews
 
@@ -65,13 +63,13 @@ Under his influence, emperors Gratian, Valentinian II and Theodosius I carried o
 
 Later years and death
 
-Sant'Ambrogio_Cript_in_Basilica_of_Sant'Ambrogio,_Milan.jpg In April 393 Arbogast, _magister militum_ of the West and his puppet Emperor Eugenius, marched into Italy to consolidate their position in regard to Theodosius I and his son, Honorius, whom Theodosius had appointed Augustus to govern the western portion of the empire. Arbogast and Eugenius courted Ambrose's support by very obliging letters; but before they arrived at Milan, he had retired to Bologna, where he assisted at the translation of the relics of Saints Vitalis and Agricola. From there he went to Florence, where he remained until Eugenius withdrew from Milan to meet Theodosius in the Battle of the Frigidus in early September 394.[26]
+In April 393 Arbogast, _magister militum_ of the West and his puppet Emperor Eugenius, marched into Italy to consolidate their position in regard to Theodosius I and his son, Honorius, whom Theodosius had appointed Augustus to govern the western portion of the empire. Arbogast and Eugenius courted Ambrose's support by very obliging letters; but before they arrived at Milan, he had retired to Bologna, where he assisted at the translation of the relics of Saints Vitalis and Agricola. From there he went to Florence, where he remained until Eugenius withdrew from Milan to meet Theodosius in the Battle of the Frigidus in early September 394.[26]
 
 Soon after acquiring the undisputed possession of the Roman Empire, Theodosius died at Milan in 395, and two years later (4 April 397) Ambrose also died. He was succeeded as bishop of Milan by Simplician. Ambrose's body may still be viewed in the church of Saint Ambrogio in Milan, where it has been continuously venerated  – along with the bodies identified in his time as being those of Saints Gervase and Protase.
 
 Character
 
-AmbroseStatue.png Many circumstances in the history of Ambrose are characteristic of the general spirit of the times. The chief causes of his victory over his opponents were his great popularity and the reverence paid to the episcopal character at that period. But it must also be noted that he used several indirect means to obtain and support his authority with the people.
+Many circumstances in the history of Ambrose are characteristic of the general spirit of the times. The chief causes of his victory over his opponents were his great popularity and the reverence paid to the episcopal character at that period. But it must also be noted that he used several indirect means to obtain and support his authority with the people.
 
 It was his custom to comment severely in his preaching on the public characters of his times; and he introduced popular reforms in the order and manner of public worship. It is alleged, too, that at a time when the influence of Ambrose required vigorous support, he was admonished in a dream to search for, and found under the pavement of the church, the remains of two martyrs, Gervasius and Protasius. The saints, although they would have had to have been hundreds of years old, looked as if they had just died. The applause of the people was mingled with the derision of the court party.
 
@@ -106,7 +104,7 @@ Ambrose viewed celibacy as superior to marriage and saw Mary as the model of vir
 
 Writings
 
-Divi_Ambrosii_Episcopi_Mediolanensis_Omnia_Opera.tif In matters of exegesis he is, like Hilary, an Alexandrian. In dogma he follows Basil of Caesarea and other Greek authors, but nevertheless gives a distinctly Western cast to the speculations of which he treats. This is particularly manifest in the weightier emphasis which he lays upon human sin and divine grace, and in the place which he assigns to faith in the individual Christian life.
+In matters of exegesis he is, like Hilary, an Alexandrian. In dogma he follows Basil of Caesarea and other Greek authors, but nevertheless gives a distinctly Western cast to the speculations of which he treats. This is particularly manifest in the weightier emphasis which he lays upon human sin and divine grace, and in the place which he assigns to faith in the individual Christian life.
 
 -   _De fide ad Gratianum Augustum_ (On Faith, to Gratian Augustus)
 -   _De Officiis Ministrorum_ (On the Offices of Ministers, an ecclesiastical handbook modeled on Cicero's _De Officiis_.[40])
@@ -127,7 +125,7 @@ File:Sergio de Castro, Verrière de la Création du Monde, 1956-59.jpg| Stained-
 
 Church music
 
-Saint_Ambrose_in_His_Study_1.jpg, New York City.]]
+, New York City.]]
 
 Ambrose is traditionally credited but not actually known to have composed any of the repertory of Ambrosian chant also known simply as "antiphonal chant", a method of chanting where one side of the choir alternately responds to the other. (The later pope Gregory I the Great is not known to have composed any Gregorian chant, the plainsong or "Romish chant".) However, Ambrosian chant was named in his honor due to his contributions to the music of the Church; he is credited with introducing hymnody from the Eastern Church into the West.
 

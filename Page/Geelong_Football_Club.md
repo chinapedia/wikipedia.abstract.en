@@ -14,7 +14,7 @@ Club identity and culture
 
 Guernseys
 
-Jim_McShane.jpg pictured)]] Geelong's traditional navy blue and white hooped guernsey has been worn since the club's inception in the mid-1800s. The design is said to represent the white seagulls and blue water of Corio Bay.[8]
+pictured)]] Geelong's traditional navy blue and white hooped guernsey has been worn since the club's inception in the mid-1800s. The design is said to represent the white seagulls and blue water of Corio Bay.[8]
 
 The team have worn various away guernseys since 1998, all featuring the club's logo and traditional colours.[9]
 
@@ -63,7 +63,7 @@ Sponsorship
 
 Supporter base
 
-Geelong_Cats_supporters.jpg against St Kilda]] Geelong_FC's_one-man_cheer_squad.jpg Geelong_Cats_Banner_2013.jpg
+against St Kilda]]
 
 +--------+---------+----------------+------+
 | Season | Members | Average home   | Ref  |
@@ -144,8 +144,6 @@ Geelong_Cats_supporters.jpg against St Kilda]] Geelong_FC's_one-man_cheer_squad.
 
 
 Players and staff
-
-Geelong_Cats_coach_Chris_Scott.jpg
 
 Current playing list and coaches
 

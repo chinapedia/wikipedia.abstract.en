@@ -35,7 +35,7 @@ The governor appoints the members of the governing boards of 10 of the state's 1
 
 History of the office
 
-Stevens_T_Mason.png, the first governor of the State of Michigan]] Forty-nine people have been governor of the state. Prior to statehood, there were five governors of the Michigan Territory. Stevens T. Mason, Michigan's first governor, also served as a territorial governor. He was elected governor at age 23 as a member of the Democratic Party in 1835 and served until 1840. Mason was the youngest state governor in United States history.
+, the first governor of the State of Michigan]] Forty-nine people have been governor of the state. Prior to statehood, there were five governors of the Michigan Territory. Stevens T. Mason, Michigan's first governor, also served as a territorial governor. He was elected governor at age 23 as a member of the Democratic Party in 1835 and served until 1840. Mason was the youngest state governor in United States history.
 
 Jennifer Granholm became the first female governor of Michigan on January 1, 2003, when she succeeded John Engler; she served for 8 years, until January 1, 2011. Granholm was born in Canada. Former governor George Romney was born in Mexico.
 

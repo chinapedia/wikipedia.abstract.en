@@ -18,13 +18,11 @@ Hezekiah was the son of King Ahaz and Abijah. His mother, Abijah (also called Ab
 
 Reign over Judah
 
-Biblical_Jerusalem_Wall_Remnants.jpg of biblical Jerusalem, built during Hezekiah's days against Sennacherib's siege]] According to the Bible, Hezekiah assumed the throne of Judah at the age of 25 and reigned for 29 years (). Some writers have proposed that Hezekiah served as coregent with his father Ahaz for about 14 years. His sole reign is dated by William F. Albright as 715–687 BCE, and by Edwin R. Thiele as 716–687 BCE (the last ten years being a co-regency with his son Manasseh).[11]
+of biblical Jerusalem, built during Hezekiah's days against Sennacherib's siege]] According to the Bible, Hezekiah assumed the throne of Judah at the age of 25 and reigned for 29 years (). Some writers have proposed that Hezekiah served as coregent with his father Ahaz for about 14 years. His sole reign is dated by William F. Albright as 715–687 BCE, and by Edwin R. Thiele as 716–687 BCE (the last ten years being a co-regency with his son Manasseh).[11]
 
 Hezekiah purified and repaired the Temple, purged its idols, and reformed the priesthood.[12] In an effort to abolish idolatry from his kingdom, he destroyed the high places (or _bamot_) and the "bronze serpent" (or _Nehushtan_), recorded as being made by Moses, which became objects of idolatrous worship. In place of this, he centralized the worship of God at the Jerusalem Temple. Hezekiah also defeated the Philistines, "as far as Gaza and its territory", () and resumed the Passover pilgrimage and the tradition of inviting the scattered tribes of Israel to take part in a Passover festival. He sent messengers to Ephraim and Manasseh inviting them to Jerusalem for the celebration of the Passover. The messengers, however, were not only not listened to, but were even laughed at; only a few men of Asher, Manasseh, and Zebulun came to the city. Nevertheless, the Passover was celebrated with great solemnity and such rejoicing as had not been in Jerusalem since the days of Solomon.[13] Hezekiah is portrayed by the Bible as a great and good king.
 
 Political moves and Assyrian invasion
-
-Assyrian_Archers.jpg
 
 After the death of Assyrian king Sargon II in 705 BCE, Sargon's son Sennacherib became king of Assyria. In 703 BCE, Sennacherib began a series of major campaigns to quash opposition to Assyrian rule, starting with cities in the eastern part of the realm. In 701 BCE, Sennacherib turned toward cities in the west. Hezekiah then had to face the invasion of Judah. According to the Bible, Hezekiah did not rely on Egypt for support, but relied on God and prayed to Him for deliverance of his capital city Jerusalem. (; ; ; ; )
 
@@ -32,7 +30,7 @@ The Assyrians recorded that Sennacherib lifted his siege of Jerusalem after Heze
 
 Hezekiah's construction
 
-Hezekiahs_Tunnel.jpg]] Knowing that Jerusalem would eventually be subject to siege, Hezekiah had been preparing for some time by fortifying the walls of the capital, building towers, and constructing a tunnel to bring fresh water to the city from a spring outside its walls.[15] He made at least two major preparations that would help Jerusalem to resist conquest: the construction of the Siloam Tunnel, and construction of the Broad Wall.
+]] Knowing that Jerusalem would eventually be subject to siege, Hezekiah had been preparing for some time by fortifying the walls of the capital, building towers, and constructing a tunnel to bring fresh water to the city from a spring outside its walls.[15] He made at least two major preparations that would help Jerusalem to resist conquest: the construction of the Siloam Tunnel, and construction of the Broad Wall.
 
   "When Sennacherib had come, intent on making war against Jerusalem, Hezekiah consulted with his officers about stopping the flow of the springs outside the city … for otherwise, they thought, the King of Assyria would come and find water in abundance" ().
 
@@ -40,13 +38,13 @@ The narratives of the Bible state that Sennacherib's army besieged Jerusalem. (;
 
 Defeat of Sennacherib's army
 
-Peter_Paul_Rubens_082.jpg'', oil on panel by Peter Paul Rubens, seventeenth century]] According to the biblical record, Sennacherib sent threatening letters warning Hezekiah that he had not desisted from his determination to take the Judean capital. () Although they besieged Jerusalem, the biblical accounts state that the Assyrians did not so much as "shoot an arrow there, ... nor cast up a siege rampart against it", and that God sent out an angel who, in one night, struck down "a hundred and eighty-five thousand in the camp of the Assyrians," sending Sennacherib back "with shame of face to his own land".[16]
+'', oil on panel by Peter Paul Rubens, seventeenth century]] According to the biblical record, Sennacherib sent threatening letters warning Hezekiah that he had not desisted from his determination to take the Judean capital. () Although they besieged Jerusalem, the biblical accounts state that the Assyrians did not so much as "shoot an arrow there, ... nor cast up a siege rampart against it", and that God sent out an angel who, in one night, struck down "a hundred and eighty-five thousand in the camp of the Assyrians," sending Sennacherib back "with shame of face to his own land".[16]
 
 Sennacherib's inscriptions make no mention of the disaster suffered by his forces. But, as Professor Jack Finegan comments: "In view of the general note of boasting which pervades the inscriptions of the Assyrian kings, ... it is hardly to be expected that Sennacherib would record such a defeat." [17] The Cambridge Bible for Schools and Colleges refers to an "Egyptian tradition, according to which Sennacherib had already reached Pelusium in Egypt, when in a single night his army was rendered helpless by a plague of field-mice which gnawed the bows of the soldiers and the thongs of their shields".[18] The version of the matter that Sennacherib presents, as found inscribed on what is known as the Sennacherib Prism preserved in the University of Chicago Oriental Institute, in part says: "As to Hezekiah, the Jew, he did not submit to my yoke ... Hezekiah himself ... did send me, later, to Nineveh, my lordly city, together with 30 talents of gold, 800 talents of silver, ..." [19] This version inflates the number of silver talents sent from 300 to 800; but in other regards it confirms the biblical record and shows that Sennacherib made no claim that he captured Jerusalem. However, Sennacherib presents the matter of Hezekiah's paying tribute as having come after the Assyrian threat of a siege against Jerusalem, whereas the Bible states it was paid before.
 
 Death of Sennacherib
 
-The_Flight_of_Adrammelech_Murch.jpg Of Sennacherib's death says
+Of Sennacherib's death says
 
   "It came about as he was worshiping in the house of Nisroch his god, that Adrammelech and Sharezer killed him [Sennacherib] with the sword; and they escaped into the land of Ararat. And Esarhaddon his son became king in his place."
 
@@ -54,7 +52,7 @@ According to Assyrian records, Sennacherib was assassinated in 681 BCE, twenty y
 
 Hezekiah's illness and recovery
 
-El_Rey_Ezequías_haciendo_ostentación_de_sus_riquezas_ante_los_legados_del_rey_de_Babilonia._(Museo_de_Bellas_Artes_de_Valencia).jpg, 1789]] Later in his life, Hezekiah was ill with a boil [24] or an inflammation [25] which Isaiah initially thought would be fatal. The narrative of his sickness and miraculous recovery is found in , and . Various ambassadors came to congratulate him on his recovery,[26] among them from Merodach-baladan, son of the king of Babylon, "for he had heard that Hezekiah had been sick".[27] Hezekiah, his vanity flattered by the visit,[28] showed the Babylonian embassy all the wealth, arms and stores of Jerusalem, revealing too much information to Baladan, king of Babylon (or perhaps boasting about his wealth): he was then confronted by Isaiah, who foretold that a future generation of the people of Judah would be taken as captives to Babylon. Hezekiah was reassured that his own lifetime would see peace and security.[29]
+, 1789]] Later in his life, Hezekiah was ill with a boil [24] or an inflammation [25] which Isaiah initially thought would be fatal. The narrative of his sickness and miraculous recovery is found in , and . Various ambassadors came to congratulate him on his recovery,[26] among them from Merodach-baladan, son of the king of Babylon, "for he had heard that Hezekiah had been sick".[27] Hezekiah, his vanity flattered by the visit,[28] showed the Babylonian embassy all the wealth, arms and stores of Jerusalem, revealing too much information to Baladan, king of Babylon (or perhaps boasting about his wealth): he was then confronted by Isaiah, who foretold that a future generation of the people of Judah would be taken as captives to Babylon. Hezekiah was reassured that his own lifetime would see peace and security.[29]
 
 According to , Hezekiah lived another 15 years after praying to God. His son and successor, Manasseh, was born during this time: he was 12 years of age when he succeeded Hezekiah.[30]
 
@@ -63,7 +61,7 @@ According to the Talmud, the disease came about because of a dispute between him
 
 Extra-Biblical records
 
-Stamped-bulla_seal-side.jpg collection of antiquities]]
+collection of antiquities]]
 
 Extra-biblical sources do much more for us than give us a pan-Mid Eastern picture into which we contextualize Hezekiah: there are extra-biblical sources that specify Hezekiah by name, along with his reign and influence. "Historiographically, his reign is noteworthy for the convergence of a variety of biblical sources and diverse extrabiblical evidence often bearing on the same events. Significant data concerning Hezekiah appear in the Deuteronomistic History, the Chronicler, Isaiah, Assyrian annals and reliefs, Israelite epigraphy, and, increasingly, stratigraphy".[32] Archaeologist Amihai Mazar calls the tensions between Assyria and Judah "one of the best-documented events of the Iron Age" (172). Hezekiah's story is one of the best to cross-reference with the rest of the Mid Eastern world's historical documents.
 
@@ -81,7 +79,7 @@ According to the work of archaeologists and philologists, the reign of Hezekiah 
 
 Siloam inscription
 
-Siloe5.jpg]] The Siloam Tunnel was chiseled through 533 meters (1,750 feet) of solid rock[49] in order to provide Jerusalem underground access to the waters of the Gihon Spring or Siloam Pool, which lay outside the city.
+]] The Siloam Tunnel was chiseled through 533 meters (1,750 feet) of solid rock[49] in order to provide Jerusalem underground access to the waters of the Gihon Spring or Siloam Pool, which lay outside the city.
 
 The Siloam Inscription from the Siloam Tunnel is now in the Istanbul Archaeology Museum. It "commemorates the dramatic moment when the two original teams of tunnelers, digging with picks from opposite ends of the tunnel, met each other" (564).[50] It is "[o]ne of the most important ancient Hebrew inscriptions ever discovered."[51] Finkelstein and Mazar cite this tunnel as an example of Jerusalem's impressive state-level power at the time.
 
@@ -89,15 +87,13 @@ Archaeologists like William G. Dever have pointed at archaeological evidence for
 
 Lachish relief
 
-Lachish_Relief,_British_Museum_17.jpg
-
 Under Rehoboam, Lachish became the second most important city of the kingdom of Judah. During the revolt of king Hezekiah against Assyria, it was captured by Sennacherib despite determined resistance (see Siege of Lachish).
 
 As the Lachish relief attests, Sennacherib began his siege of the city of Lachish in 701 BCE.[53] The Lachish Relief graphically depicts the battle, and the defeat of the city, including Assyrian archers marching up a ramp and Judahites pierced through on mounted stakes. "The reliefs on these slabs" discovered in the Assyrian palace at Nineveh "originally formed a single, continuous work, measuring 8 feet ... tall by 80 feet ... long, which wrapped around the room" (559).[54] Visitors "would have been impressed not only by the magnitude of the artwork itself but also by the magnificent strength of the Assyrian war machine."[55]
 
 Sennacherib's Prism of Nineveh
 
-Six-sided_clay_prism,_side_1,_written_on_behalf_of_Sennacherib,_king_of_Assyria,_and_containing_narratives_of_his_military_campaigns,_704-681_BC_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07599.JPG Sennacherib's Prism was found buried in the foundations of the Nineveh palace. It was written in cuneiform, the Mesopotamian form of writing of the day. The prism records the conquest of 46 strong towns [56] and "uncountable smaller places," along with the siege of Jerusalem where Sennacherib says he just "shut him up...like a bird in a cage,"[57] subsequently enforcing a larger tribute upon him.
+Sennacherib's Prism was found buried in the foundations of the Nineveh palace. It was written in cuneiform, the Mesopotamian form of writing of the day. The prism records the conquest of 46 strong towns [56] and "uncountable smaller places," along with the siege of Jerusalem where Sennacherib says he just "shut him up...like a bird in a cage,"[57] subsequently enforcing a larger tribute upon him.
 
 The Hebrew Bible states that during the night, the angel of Jehovah (YHWH Hebrew) brought death to 185,000 Assyrians troops (), forcing the army to abandon the siege, yet it also records a tribute paid to Sennacherib of 300 silver talents following the siege. There is no account of the supernatural event in the prism. Sennacherib's account records his levying of a tribute from Hezekiah, the king of Judea, who was within Jerusalem, leaving the city as the only one intact following the exile of the northern ten-tribe kingdom of Israel due to idolatry. (2 Kings 17:22,23; 2 Kings 18:1-8) Sennacherib recorded a payment of 800 silver talents, which suggests a capitulation to end the siege. However, Inscriptions have been discovered describing Sennacherib’s defeat of the Ethiopian forces. These say: “As to Hezekiah, the Jew, he did not submit to my yoke, I laid siege to 46 of his strong cities . . . and conquered (them) . . . Himself I made a prisoner in Jerusalem, his royal residence, like a bird in a cage.” (Ancient Near Eastern Texts, p. 288) He does not claim to have captured the city. This is consistent with the Bible account of Hezekiah’s revolt against Assyria in the sense that neither account seems to indicate that Sennacherib ever entered or formally captured the city. Sennacherib in this inscription claims that Hezekiah paid for tribute 800 talents of silver, in contrast with the Bible’s 300, however this could be due to boastful exaggeration which was not uncommon amongst kings of the period. Furthermore, the annals record a list of booty sent from Jerusalem to Nineveh. In the inscription, Sennacherib claims that Hezekiah accepted servitude, and some theorize that Hezekiah remained on his throne as a vassal ruler. The campaign is recorded with differences in the Assyrian records and in the biblical Books of Kings; there is agreement that the Assyrian have a propensity for exaggeration.[58]
 
@@ -147,7 +143,7 @@ As an example of the reasoning that finds inconsistencies in calculations when c
 
 Following the approach of Wellhausen, another set of calculations shows it is probable that Hezekiah did not ascend the throne before 722 BCE. By Albright's calculations, Jehu's initial year is 842 BCE; and between it and Samaria's destruction the _Books of Kings_ give the total number of the years the kings of Israel ruled as 143 7/12, while for the kings of Judah the number is 165. This discrepancy, amounting in the case of Judah to 45 years (165–120), has been accounted for in various ways; but every one of those theories must allow that Hezekiah's first six years fell before 722 BCE. (That Hezekiah began to reign before 722 BCE, however, is entirely consistent with the principle that the Ahaz/Hezekiah coregency began in 729 BCE.) Nor is it clearly known how old Hezekiah was when called to the throne, although states he was twenty-five years of age. His father died at the age of thirty-six (); it is not likely that Ahaz at the age of eleven should have had a son. Hezekiah's own son Manasseh ascended the throne twenty-nine years later, at the age of twelve. This places his birth in the seventeenth year of his father's reign, or gives Hezekiah's age as forty-two, if he was twenty-five at his ascension. It is more probable that Ahaz was twenty-one or twenty-five when Hezekiah was born (and suggesting an error in the text), and that the latter was thirty-two at the birth of his son and successor, Manasseh.
 
-Chludov_proclamation.jpg]] Since Albright and Friedman, several scholars have explained these dating problems on the basis of a coregency between Hezekiah and his father Ahaz between 729 and 716/715 BCE. Assyriologists and Egyptologists recognize that coregency was a practice both in Assyria and Egypt.[74][75] After noting that coregencies were only used sporadically in the northern kingdom (Israel), Nadav Na'aman writes,
+]] Since Albright and Friedman, several scholars have explained these dating problems on the basis of a coregency between Hezekiah and his father Ahaz between 729 and 716/715 BCE. Assyriologists and Egyptologists recognize that coregency was a practice both in Assyria and Egypt.[74][75] After noting that coregencies were only used sporadically in the northern kingdom (Israel), Nadav Na'aman writes,
 
   In the kingdom of Judah, on the other hand, the nomination of a co-regent was the common procedure, beginning from David who, before his death, elevated his son Solomon to the throne. When taking into account the permanent nature of the co-regency in Judah from the time of Joash, one may dare to conclude that dating the co-regencies accurately is indeed the key for solving the problems of biblical chronology in the eighth century BC."[76]
 

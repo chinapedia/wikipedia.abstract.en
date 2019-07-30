@@ -48,15 +48,13 @@ From 1996 to 2009, the IFF used a World Floorball Championship format where the 
 
 Gameplay
 
-Floorball_rink1.svg
-
 Measurements
 
 Floorball is played indoors on a rink whose size can officially vary from wide to long,[24] and which is surrounded by high enclosed boards with rounded corners. The goals are wide and high. Their depth is and they are from the end of the nearest boards. Face-off dots are marked on the center line. Dots are also marked from both sides of the rink on the goal lines imaginary extensions. The dots don't exceed in diameter. They do not have to be dots, they can also be crosses.[25]
 
 Equipment
 
-Floorball_stick_blade.jpg Typical equipment for a floorball player consists of a stick, a pair of shorts, a shirt, socks, and indoor sport shoes. Players may wear shin guards, eye protectors and protective padding for vital areas although most do not. Protective eyewear is, in some countries, compulsory for junior players.
+Typical equipment for a floorball player consists of a stick, a pair of shorts, a shirt, socks, and indoor sport shoes. Players may wear shin guards, eye protectors and protective padding for vital areas although most do not. Protective eyewear is, in some countries, compulsory for junior players.
 
 A floorball stick is short compared with one for ice hockey; the maximum size for a stick is 114 cm. As a stick cannot weigh any more than 350 grams, floorball sticks are often made of carbon and composite materials. The blade of the stick can either be "right" or "left" which indicates which way stick is supposed to be held from the players point of view. A player who is right-handed will often use a "left" blade since this he/she will be holding the stick to left and the other way around for left-handed people.[26]
 
@@ -66,7 +64,7 @@ Goalkeepers wear limited protection provided by padded pants, a padded chest pro
 
 Ball
 
-Innebandy_boll.jpg A floor ball weighs and its diameter is . It has 26 holes in it, each of which are in diameter. Many of these balls now are made with aerodynamic technology, where the ball has over a thousand small dimples in it that reduce air resistance. There have been several times where a ball has been recorded to have traveled at a speed of approximately .[27]
+A floor ball weighs and its diameter is . It has 26 holes in it, each of which are in diameter. Many of these balls now are made with aerodynamic technology, where the ball has over a thousand small dimples in it that reduce air resistance. There have been several times where a ball has been recorded to have traveled at a speed of approximately .[27]
 
 Rules
 

@@ -20,7 +20,7 @@ Scholarly consensus
 
 The traditional view holds that the Hungarian language diverged from its Ugric relatives in the first half of the 1st millennium BC, in western Siberia east of the southern Urals.[7] The Hungarians gradually changed their lifestyle from being settled hunters to being nomadic pastoralists, probably as a result of early contacts with Iranian (Scythians and Sarmatians) or Turkic nomads. In Hungarian, Iranian loanwords date back to the time immediately following the breakup of Ugric and probably span well over a millennium.[8] Among these include _tehén_ ‘cow’ (cf. Avestan _dhaénu_); _tíz_ ‘ten’ (cf. Avestan _dasa_); _tej_ ‘milk’ (cf. Persian _dáje_ ‘wet nurse’); and _nád_ ‘reed’ (from late Middle Iranian; cf. Middle Persian _nāy_).
 
-Archaeological evidence from present day southern Bashkortostan confirms the existence of Hungarian settlements between the Volga River and the Ural Mountains.[9] The Onogurs (and Bulgars) later had a great influence on the language, especially between the 5th and 9th centuries. This layer of Turkic loans is large and varied (e.g. _szó_ "word", from Turkic; and _daru_ "crane", from the related Permic languages), and includes words borrowed from Oghur Turkic; e.g. _borjú_ "calf" (cf. Chuvash _păru_, _părăv_ vs. Turkish _buzağı_);[10] _dél_ ‘noon; south’ (cf. Chuvash _tĕl_ vs. Turkish dial. _düš_).[11] Many words related to agriculture,[12] state administration and even family relationships show evidence of such backgrounds. Hungarian syntax and grammar were not influenced in a similarly dramatic way over these three centuries. Hu-funeral_sermon_and_prayer_OSZK.jpg, 12th century]] Komjati_sztpal.jpg
+Archaeological evidence from present day southern Bashkortostan confirms the existence of Hungarian settlements between the Volga River and the Ural Mountains.[9] The Onogurs (and Bulgars) later had a great influence on the language, especially between the 5th and 9th centuries. This layer of Turkic loans is large and varied (e.g. _szó_ "word", from Turkic; and _daru_ "crane", from the related Permic languages), and includes words borrowed from Oghur Turkic; e.g. _borjú_ "calf" (cf. Chuvash _păru_, _părăv_ vs. Turkish _buzağı_);[10] _dél_ ‘noon; south’ (cf. Chuvash _tĕl_ vs. Turkish dial. _düš_).[11] Many words related to agriculture,[12] state administration and even family relationships show evidence of such backgrounds. Hungarian syntax and grammar were not influenced in a similarly dramatic way over these three centuries. , 12th century]]
 
 After the arrival of the Hungarians in the Carpathian Basin, the language came into contact with a variety of speech communities, among them Slavic, Turkic, and German. Turkic loans from this period come mainly from the Pechenegs and Cumanians, who settled in Hungary during the 12th and 13th centuries: e.g. _koboz_ "cobza" (cf. Turkish _kopuz_ ‘lute’); _komondor_ "mop dog" (< *_kumandur_ < _Cuman_). Hungarian borrowed many words from neighbouring Slavic languages: e.g. _tégla_ ‘brick’; _mák_ ‘poppy’; _karácsony_ ‘Christmas’[13]). These languages in turn borrowed words from Hungarian: e.g. Serbo-Croatian _ašov_ from Hungarian _ásó_ ‘spade’. About 1.6 percent of the Romanian lexicon is of Hungarian origin.[14][15]
 
@@ -52,7 +52,7 @@ The standard language lost its diphthongs, and several postpositions transformed
 
 Modern Hungarian
 
-Esztergom_Jordánszky-kódex.JPG in Hungarian]]
+in Hungarian]]
 
 In 1533, Kraków printer Benedek Komjáti published the first Hungarian-language book set in movable type, a translation of the letters of Saint Paul entitled _Az zenth Paal leueley magyar nyeluen_ (modern orthography: _Az Szent Pál levelei magyar nyelven_).
 
@@ -69,7 +69,7 @@ Today the language holds official status nationally in Hungary and regionally in
 
 Geographic distribution
 
-Hungarian_language_in_Transylvania.svg where Hungarian has co-official status (areas in which at least 20% of the population is Hungarian)]]
+where Hungarian has co-official status (areas in which at least 20% of the population is Hungarian)]]
 
   Country                         Speakers        Notes
   ------------------------------- --------------- ----------
@@ -93,7 +93,7 @@ Hungarian has about 13 million[34][35][36] native speakers, of whom more than 9.
 
 Official status
 
-Vojvodina_hungarian_map.png Hungarian is the official language of Hungary, and thus an official language of the European Union. Hungarian is also one of the official languages of Vojvodina and an official language of three municipalities in Slovenia: Hodoš, Dobrovnik and Lendava, along with Slovene. Hungarian is officially recognized as a minority or regional language in Austria, Croatia, Romania, Zakarpattia in Ukraine, and Slovakia. In Romania it is a recognized minority language used at local level in communes, towns and municipalities with an ethnic Hungarian population of over 20%.[39]
+Hungarian is the official language of Hungary, and thus an official language of the European Union. Hungarian is also one of the official languages of Vojvodina and an official language of three municipalities in Slovenia: Hodoš, Dobrovnik and Lendava, along with Slovene. Hungarian is officially recognized as a minority or regional language in Austria, Croatia, Romania, Zakarpattia in Ukraine, and Slovakia. In Romania it is a recognized minority language used at local level in communes, towns and municipalities with an ethnic Hungarian population of over 20%.[39]
 
 Dialects
 
@@ -101,8 +101,6 @@ The dialects of Hungarian identified by Ethnologue are: Alföld, West Danube, Da
 
 
 Phonology
-
-Hungarian_vowel_chart_with_rounded_short_a.svg
 
 Hungarian has 14 vowel phonemes and 25 consonant phonemes. The vowel phonemes can be grouped as pairs of short and long vowels such as _o_ and _ó_. Most of the pairs have a similar pronunciation and vary significantly only in their duration. However, pairs _a_/_á_ and _e_/_é_ differ both in closedness and length.
 
@@ -405,9 +403,9 @@ The English word best known as being of Hungarian origin is probably _paprika_, 
 
 Writing system
 
-Tihany_1055.PNG, 1055. It reads "_feheruuaru rea meneh hodu utu rea_" (in modern Hungarian "_Fehérvárra menő hadi útra_", meaning "_to the military road going to Fehérvár_")]] A_4-es_táblája.jpg
+, 1055. It reads "_feheruuaru rea meneh hodu utu rea_" (in modern Hungarian "_Fehérvárra menő hadi útra_", meaning "_to the military road going to Fehérvár_")]]
 
-Codex_of_munchen_-_bible_in_hungarian.jpg), 1466]]
+), 1466]]
 
 The Hungarian language was originally written in right-to-left Old Hungarian runes, superficially similar in appearance to the better-known futhark runes but unrelated. When Stephen I of Hungary established the Kingdom of Hungary in the year 1000, the old system was gradually discarded in favour of the Latin alphabet and left-to-right order. Although now not used at all in everyday life, the old script is still known and practised by some enthusiasts.
 

@@ -1,4 +1,4 @@
-PICMG-Backplane-Details.jpg PDP-8I-backplane.jpg minicomputer]] A BACKPLANE (or "backplane system") is a group of electrical connectors in parallel with each other, so that each pin of each connector is linked to the same relative pin of all the other connectors, forming a computer bus. It is used as a backbone to connect several printed circuit boards together to make up a complete computer system. Backplanes commonly use a printed circuit board, but wire-wrapped backplanes have also been used in minicomputers and high-reliability applications.
+minicomputer]] A BACKPLANE (or "backplane system") is a group of electrical connectors in parallel with each other, so that each pin of each connector is linked to the same relative pin of all the other connectors, forming a computer bus. It is used as a backbone to connect several printed circuit boards together to make up a complete computer system. Backplanes commonly use a printed circuit board, but wire-wrapped backplanes have also been used in minicomputers and high-reliability applications.
 
 A backplane is generally differentiated from a motherboard by the lack of on-board processing and storage elements. A backplane uses plug-in cards for storage and processing.
 
@@ -14,7 +14,7 @@ In addition, there are bus expansion cables which will extend a computer bus to 
 
 Active versus passive backplanes
 
-ISA-Backplane.jpg Backplanes have grown in complexity from the simple Industry Standard Architecture (ISA) (used in the original IBM PC) or S-100 style where all the connectors were connected to a common bus. Due to limitations inherent in the Peripheral Component Interconnect (PCI) specification for driving slots, backplanes are now offered as PASSIVE and ACTIVE.
+Backplanes have grown in complexity from the simple Industry Standard Architecture (ISA) (used in the original IBM PC) or S-100 style where all the connectors were connected to a common bus. Due to limitations inherent in the Peripheral Component Interconnect (PCI) specification for driving slots, backplanes are now offered as PASSIVE and ACTIVE.
 
 True passive backplanes offer no active bus driving circuitry. Any desired arbitration logic is placed on the daughter cards. Active backplanes include chips which buffer the various signals to the slots.
 
@@ -52,7 +52,7 @@ Platforms
 
 PICMG
 
-SBC-Backplane.jpg installed into a passive backplane]]
+installed into a passive backplane]]
 
 A single-board computer meeting the PICMG 1.3 specification and compatible with a PICMG 1.3 backplane is referred to as a System Host Board.
 

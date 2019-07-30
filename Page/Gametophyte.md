@@ -1,6 +1,6 @@
-Gametophyte2.png.]]
+.]]
 
-Pinus_embryo_in_female_gametophyte.jpg A GAMETOPHYTE () is one of the two alternating phases in the life cycle of plants and algae. It is a haploid multicellular organism that develops from a haploid spore that has one set of chromosomes. The gametophyte is the sexual phase in the life cycle of plants and algae. It develops sex organs that produce gametes, haploid sex cells that participate in fertilization to form a diploid zygote which has a double set of chromosomes. Cell division of the zygote results in a new diploid multicellular organism, the second stage in the life cycle known as the sporophyte. The sporophyte can produce haploid spores by meiosis.
+A GAMETOPHYTE () is one of the two alternating phases in the life cycle of plants and algae. It is a haploid multicellular organism that develops from a haploid spore that has one set of chromosomes. The gametophyte is the sexual phase in the life cycle of plants and algae. It develops sex organs that produce gametes, haploid sex cells that participate in fertilization to form a diploid zygote which has a double set of chromosomes. Cell division of the zygote results in a new diploid multicellular organism, the second stage in the life cycle known as the sporophyte. The sporophyte can produce haploid spores by meiosis.
 
 
 Algae

@@ -15,7 +15,7 @@ The consequences of the 1938 Munich Agreement and subsequent occupation were dis
 
 In accordance with Stalin's development policy of planned interdependence, all the economies of the socialist countries were tightly linked to that of the Soviet Union. Czechoslovakia was the most prosperous country in the Eastern Bloc, however it continued to lag further behind the rest of the developed world. With the disintegration of the communist economic alliance in 1991, Czech manufacturers lost their traditional markets among former communist countries in the east.
 
-Today, this heritage is both an asset and a liability. The Czech Republic has a well-educated population and a densely developed infrastructure.[16] VysokePece1.jpg such as steelmaking is a traditional part of the Czech economy.]] 380_005_9_Praha.jpg
+Today, this heritage is both an asset and a liability. The Czech Republic has a well-educated population and a densely developed infrastructure.[16] such as steelmaking is a traditional part of the Czech economy.]]
 
 1989–1995
 
@@ -31,7 +31,7 @@ The country boasts a flourishing consumer production sector and has privatized m
 
 1995–2000
 
-Škoda_Auto_Mladá_Boleslav.jpg is the largest automobile manufacturer in the Czech Republic.]] The country's economic transformation was far from complete. Political and financial crises in 1997, shattered the Czech Republic's image as one of the most stable and prosperous of post-Communist states. Delays in enterprise restructuring and failure to develop a well-functioning capital market played major roles in Czech economic troubles, which culminated in a currency crisis in May. The formerly pegged currency was forced into a floating system as investors sold their Korunas faster than the government could buy them. This followed a worldwide trend to divest from developing countries that year. Investors also worried the republic's economic transformation was far from complete. Another complicating factor was the current account deficit, which reached nearly 8% of GDP.
+is the largest automobile manufacturer in the Czech Republic.]] The country's economic transformation was far from complete. Political and financial crises in 1997, shattered the Czech Republic's image as one of the most stable and prosperous of post-Communist states. Delays in enterprise restructuring and failure to develop a well-functioning capital market played major roles in Czech economic troubles, which culminated in a currency crisis in May. The formerly pegged currency was forced into a floating system as investors sold their Korunas faster than the government could buy them. This followed a worldwide trend to divest from developing countries that year. Investors also worried the republic's economic transformation was far from complete. Another complicating factor was the current account deficit, which reached nearly 8% of GDP.
 
 In response to the crisis, two austerity packages were introduced later in the spring (called vernacularly "The Packages"), which cut government spending by 2.5% of GDP. Growth dropped to 0.3% in 1997, −2.3% in 1998, and −0.5% in 1999. The government established a restructuring agency in 1999 and launched a revitalization program – to spur the sale of firms to foreign companies. Key priorities included accelerating legislative convergence with EU norms, restructuring enterprises, and privatising banks and utilities. The economy, fueled by increased export growth and investment, was expected to recover by 2000.
 
@@ -41,13 +41,13 @@ Growth in 2000–05 was supported by exports to the EU, primarily to Germany, an
 
 2005–2010
 
-Nové_Město,_Na_příkopě_28,_Česká_národní_banka.jpg headquarters in Prague]] Growth continued in the first years of the EU membership. The credit portion of the Financial crisis of 2007–2010 did not affect the Czech Republic much, mostly due to its stable banking sector which has learned its lessons during a smaller crisis in the late 1990s and became much more cautious. As a fraction of the GDP, the Czech public debt is among the smallest ones in Central and Eastern Europe. Moreover, unlike many other post-communist countries, an overwhelming majority of the household debt – over 99% – is denominated in the local Czech currency. That's why the country wasn't affected by the shrunken money supply in the U.S. dollars.
+headquarters in Prague]] Growth continued in the first years of the EU membership. The credit portion of the Financial crisis of 2007–2010 did not affect the Czech Republic much, mostly due to its stable banking sector which has learned its lessons during a smaller crisis in the late 1990s and became much more cautious. As a fraction of the GDP, the Czech public debt is among the smallest ones in Central and Eastern Europe. Moreover, unlike many other post-communist countries, an overwhelming majority of the household debt – over 99% – is denominated in the local Czech currency. That's why the country wasn't affected by the shrunken money supply in the U.S. dollars.
 
 However, as a large exporter, the economy was sensitive to the decrease of the demand in Germany and other trading partners. In the middle of 2009, the annual drop of the GDP for 2009 was estimated around 3% or 4.3%,[17] a relatively modest decrease. The impact of the economic crisis may have been limited by the existence of the national currency that temporarily weakened in H1 of 2009, simplifying the life of the exporters.
 
 2010–2015
 
-Smartwings_Hungary_Boeing_737-800_HA-LKG.jpg is the major Czech airline holding company with subsidies including the Czech Airlines.]] From the financial crisis of 2007–2010, Czech Republic is in stagnation or decreasing of GDP. Some commenters and economists criticising fiscally conservative policy of Petr Nečas' right-wing government, especially criticising ex-minister of finance, Miroslav Kalousek. Miroslav Kalousek in a 2008 interview, as minister of finance in the center-right government of Mirek Topolánek, said "Czech Republic will not suffer by financial crisis".[18] In September 2008, Miroslav Kalousek formed state budget with projection of 5% GDP increase in 2009. In 2009 and 2010, Czech Republic suffered strong economical crisis and GDP decreased by 4,5%. From 2009 to 2012, Czech Republic suffered highest state budget deficits in history of independent Czech Republic. From 2008 to 2012, the public debt of Czech Republic increased by 18,9%. Most decrease of industrial output was in construction industry (-25% in 2009, -15,5% in 2013). From 4Q 2009 to 1Q 2013, GDP decreased by 7,8%.
+is the major Czech airline holding company with subsidies including the Czech Airlines.]] From the financial crisis of 2007–2010, Czech Republic is in stagnation or decreasing of GDP. Some commenters and economists criticising fiscally conservative policy of Petr Nečas' right-wing government, especially criticising ex-minister of finance, Miroslav Kalousek. Miroslav Kalousek in a 2008 interview, as minister of finance in the center-right government of Mirek Topolánek, said "Czech Republic will not suffer by financial crisis".[18] In September 2008, Miroslav Kalousek formed state budget with projection of 5% GDP increase in 2009. In 2009 and 2010, Czech Republic suffered strong economical crisis and GDP decreased by 4,5%. From 2009 to 2012, Czech Republic suffered highest state budget deficits in history of independent Czech Republic. From 2008 to 2012, the public debt of Czech Republic increased by 18,9%. Most decrease of industrial output was in construction industry (-25% in 2009, -15,5% in 2013). From 4Q 2009 to 1Q 2013, GDP decreased by 7,8%.
 
 In 2012, Czech government increased VAT. Basic VAT was increased from 20% in 2012 to 21% in 2013 and reduced VAT increased from 14% to 15% in 2013. Small enterprises sales decreased by 21% from 2012 to 2013 as result of increasing VAT.[19] Patria.cz predicting sales stagnation and mild increase in 2013. Another problem is foreign trade. The Czech Republic is considered an export economy (the Czech Republic has strong machinery and automobile industries), however in 2013, foreign trade rapidly decreased which led to many other problems and increase of state budget deficit. In 2013, Czech National Bank, central bank, implemented controversial monetary step. To increase export and employment, CNB wilfully deflated Czech Crown (CZK), which inflation increased from 0.2% in November 2013, to 1.3% in 1Q 2014.
 
@@ -55,7 +55,7 @@ In 2014, GDP in the Czech Republic increased by 2% and is predicted to increase 
 
 2015–present
 
-Praha_Nusle_Pikrtova_1a.jpg company Avast had its IPO on the Prague Stock Exchange and the London Stock Exchange in 2018. The information and communications technology (ICT) and software development is a major sector of the Czech economy.[22]]] In August 2015, Czech GDP growth was 4.4%, making the Czech economy the highest growing in Europe.[23] On 9 November 2015, unemployment in the Czech Republic was at 5.9%, the lowest number since February 2009.[24] Dividends worth CZK 289 billion were paid to the foreign owners of Czech companies in 2016.[25]
+company Avast had its IPO on the Prague Stock Exchange and the London Stock Exchange in 2018. The information and communications technology (ICT) and software development is a major sector of the Czech economy.[22]]] In August 2015, Czech GDP growth was 4.4%, making the Czech economy the highest growing in Europe.[23] On 9 November 2015, unemployment in the Czech Republic was at 5.9%, the lowest number since February 2009.[24] Dividends worth CZK 289 billion were paid to the foreign owners of Czech companies in 2016.[25]
 
 
 European Union
@@ -67,7 +67,7 @@ The Czech Republic also receives €24.2bn between 2014–20 from the European S
 
 Public policy
 
-Ministerstvo_průmyslu_a_obchodu_ČR.jpg]] As of 2016, the Czech Republic has the second lowest poverty rate of OECD members only behind Denmark.[29] The Czech healthcare system ranks 13th in the 2016 Euro health consumer index.[30]
+]] As of 2016, the Czech Republic has the second lowest poverty rate of OECD members only behind Denmark.[29] The Czech healthcare system ranks 13th in the 2016 Euro health consumer index.[30]
 
 
 Energy
@@ -76,7 +76,7 @@ The Czech Republic is a long-term net-exporter of electricity.[31] 97% -98% of o
 
 The government's 2015 energy policy designates nuclear power as main source of energy and its share is projected to rise to between 46% and 58% by 2040. Coal-powered energy is planned to fall to 21%, while renewables would rise to 25% and gas range from 5 to 15%.[33]
 
-The updated energy strategy of 2019 envisions a gradual phase out of coal power share in total electricity generation from 2015's 46.2% down to 15.5% by 2040. The strategy sees nuclear energy as a non-carbon source of energy to be used during a slow transition to renewables in order to minimize the use of carbon-emitting fossil fuels that cause climate change. The increase in the share of nuclear, renewables and natural gas is to fill in the energy demand created by the impending gradual shutdowns of coal power stations.[34] This 2015-approved energy strategy expects construction of an additional nuclear reactor in the Temelín Nuclear Power Station and another one in the Dukovany Nuclear Power Station with the possibility of further expansion to two reactors in each power station. The older station of the two, Dukovany, is to be expanded before Temelín.[35] As of 2019, the financing models and contractor selection for the planned reactors are being negotiated by the government.[36] Temelín_od_Kočína_01.jpg and its cooling towers]]
+The updated energy strategy of 2019 envisions a gradual phase out of coal power share in total electricity generation from 2015's 46.2% down to 15.5% by 2040. The strategy sees nuclear energy as a non-carbon source of energy to be used during a slow transition to renewables in order to minimize the use of carbon-emitting fossil fuels that cause climate change. The increase in the share of nuclear, renewables and natural gas is to fill in the energy demand created by the impending gradual shutdowns of coal power stations.[34] This 2015-approved energy strategy expects construction of an additional nuclear reactor in the Temelín Nuclear Power Station and another one in the Dukovany Nuclear Power Station with the possibility of further expansion to two reactors in each power station. The older station of the two, Dukovany, is to be expanded before Temelín.[35] As of 2019, the financing models and contractor selection for the planned reactors are being negotiated by the government.[36] and its cooling towers]]
 
   Energy source   2015    2040
   --------------- ------- -------
@@ -90,7 +90,7 @@ The updated energy strategy of 2019 envisions a gradual phase out of coal power 
 
 Statistical indicators
 
-Rust_ceskeho_HDP_97-19.jpg Notation_financière_des_Etats_européens_par_Standard_&_Poor's.svgs by Standard & Poor's]] Měsíční_průměrná_mzda_v_ČR_(1990-2015).jpg Europe-GDP-PPP-per-capita-map.png EU_by_GNI_per_capita_PPP_current_international.jpg (current international $). World Bank 2016]]
+s by Standard & Poor's]] (current international $). World Bank 2016]]
 
 Development of main indicators
 
@@ -201,7 +201,7 @@ International rankings
 
 Society and quality of life
 
-Index_of_Economic_Freedom_2018.png 2018]]
+2018]]
 
 -   27th in Human Development Index (2018)
 -   15th in inequality-adjusted Human Development Index (2018)

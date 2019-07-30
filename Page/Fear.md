@@ -1,4 +1,4 @@
-Scared_Child_at_Nighttime.jpg in an uncertain environment]] FEAR is a feeling induced by perceived danger or threat that occurs in certain types of organisms, which causes a change in metabolic and organ functions and ultimately a change in behavior, such as fleeing, hiding, or freezing from perceived traumatic events. Fear in human beings may occur in response to a certain stimulus occurring in the present, or in anticipation or expectation of a future threat perceived as a risk to body or life. The fear response arises from the perception of danger leading to confrontation with or escape from/avoiding the threat (also known as the fight-or-flight response), which in extreme cases of fear (horror and terror) can be a freeze response or paralysis.
+in an uncertain environment]] FEAR is a feeling induced by perceived danger or threat that occurs in certain types of organisms, which causes a change in metabolic and organ functions and ultimately a change in behavior, such as fleeing, hiding, or freezing from perceived traumatic events. Fear in human beings may occur in response to a certain stimulus occurring in the present, or in anticipation or expectation of a future threat perceived as a risk to body or life. The fear response arises from the perception of danger leading to confrontation with or escape from/avoiding the threat (also known as the fight-or-flight response), which in extreme cases of fear (horror and terror) can be a freeze response or paralysis.
 
 In humans and animals, fear is modulated by the process of cognition and learning. Thus fear is judged as rational or appropriate and irrational or inappropriate. An IRRATIONAL FEAR is called a phobia.
 
@@ -151,7 +151,7 @@ Finding solace in religion is another method to cope with one's fear. Having som
 
 Society and culture
 
-Guido_Reni_-_Massacre_of_the_Innocents_detail3_-_Pinacoteca_Nazionale_Bologna.jpg c. 1611]]
+c. 1611]]
 
 Death
 

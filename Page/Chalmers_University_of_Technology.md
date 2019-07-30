@@ -63,7 +63,7 @@ Chalmers is an aktiebolag with 100 shares à 1,000 SEK,[3] all of which are owne
 
 Campuses
 
-Chalmers_entrance.jpg In 1937, the school moved from the city center to the new Gibraltar Campus, named after the mansion which owned the grounds, where it is now located. The Lindholmen College Campus was created in the early 1990s and is located on the island Hisingen. Campus Johanneberg and Campus Lindholmen, as they are now called, are connected by bus lines.
+In 1937, the school moved from the city center to the new Gibraltar Campus, named after the mansion which owned the grounds, where it is now located. The Lindholmen College Campus was created in the early 1990s and is located on the island Hisingen. Campus Johanneberg and Campus Lindholmen, as they are now called, are connected by bus lines.
 
 
 Student societies and traditions

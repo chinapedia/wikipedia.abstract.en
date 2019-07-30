@@ -1,4 +1,4 @@
-Ängsälvor_-_Nils_Blommér_1850.jpg, 1850]]
+, 1850]]
 
 ALFHEIM (, "Land Of The Elves" or "Elfland"), also called LJOSALFHEIM (_Ljósálf[a]heimr_, "home of the light-elves"), is one of the Nine Worlds and home of the Light Elves in Norse mythology.
 

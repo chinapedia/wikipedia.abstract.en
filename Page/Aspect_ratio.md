@@ -50,7 +50,7 @@ Examples:
 
 Ellipses
 
-For an ellipse, the aspect ratio denotes the ratio of the major axis to the minor axis. An ellipse with an aspect ratio of 1:1 is a circle. Elps-slr.svg
+For an ellipse, the aspect ratio denotes the ratio of the major axis to the minor axis. An ellipse with an aspect ratio of 1:1 is a circle.
 
 
 Aspect ratios of general shapes

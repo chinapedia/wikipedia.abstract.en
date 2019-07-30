@@ -3,7 +3,7 @@ TRANSPORTATION IN ECUADOR uses six transportation methods to transport passenger
 
 Aviation
 
-29._Aeropuerto_de_Guayaquil_(8).JPG (GUAYAQUIL)]]
+(GUAYAQUIL)]]
 
 National airlines
 
@@ -93,7 +93,7 @@ _Registered in other countries_ 1
 
 Railways
 
-Railways_in_Ecuador.svg)}}
+)}}
 ━━━ Routes with passenger traffic
 ━━━ Routes in usable state
 ·········· Unusable or dismantled routes]] _total:_ 812 km (single track)

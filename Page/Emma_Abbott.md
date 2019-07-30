@@ -10,7 +10,7 @@ The family moved to Peoria, Illinois in 1854 but Professor Abbott was unable to 
 
 Career
 
-EmmaAbbott.jpg In 1866, she joined an itinerant concert troup and toured the country. While performing on the road she met and was befriended by Clara Louise Kellogg. Upon hearing Abbott in a concert in Toledo, Kellogg made it a point to meet her and encourage her to pursue an opera career and gave her a letter of introduction.[3] Consequently, Abbott studied in New York City under Achille Errani, and made her concert début there in December 1871.[4]
+In 1866, she joined an itinerant concert troup and toured the country. While performing on the road she met and was befriended by Clara Louise Kellogg. Upon hearing Abbott in a concert in Toledo, Kellogg made it a point to meet her and encourage her to pursue an opera career and gave her a letter of introduction.[3] Consequently, Abbott studied in New York City under Achille Errani, and made her concert début there in December 1871.[4]
 
 In 1872, Abbott went abroad to study with Antonio Sangiovanni in Milan. This was followed by further studies with Mathilde Marchesi, Pierre François Wartel and Enrico Delle Sedie in Paris. She appeared in several productions in Paris, earning rave reviews for her fine soprano voice. She was awarded a contract with the Royal Opera in London and made her début at Covent Garden as Marie in _La Fille du régiment_ in 1876. However, her contract was cancelled shortly thereafter when she refused to sing Violetta from Verdi's _La Traviata_ on moral grounds.[5] That same year she secretly married Eugene Wetherell (d. 1889) and they returned to the United States, where she remained for the rest of her life.[6]
 

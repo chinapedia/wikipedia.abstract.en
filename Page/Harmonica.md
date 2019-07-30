@@ -7,7 +7,7 @@ An important technique in performance is bending: causing a drop in pitch by mak
 
 Parts
 
-Gaita_partes1.jpg Gaita_palhetas.jpg Gaita_Palhetas2.jpg The basic parts of the harmonica are the comb, reed plates and cover plates.
+The basic parts of the harmonica are the comb, reed plates and cover plates.
 
 Comb
 
@@ -39,7 +39,7 @@ The mouthpiece is placed between the air chambers of the instrument and the play
 
 Accessories
 
-Mark_Wenner_on_amplified_harmonica.jpg cups his hands around a "bullet mic" as he plays amplified harmonica.]]
+cups his hands around a "bullet mic" as he plays amplified harmonica.]]
 
 Amplification devices
 
@@ -49,7 +49,7 @@ As technology in amplification has progressed, harmonica players have introduced
 
 Rack or holder
 
-Joan_Baez_and_Bob_Dylan.jpg and Bob Dylan, 1963. Dylan is wearing a harmonica holder.]]
+and Bob Dylan, 1963. Dylan is wearing a harmonica holder.]]
 
 Harmonica players who play the instrument while performing on another instrument with their hands (e.g., an acoustic guitar) often use an accessory called a _neck rack_ or _harmonica holder_ to position the instrument in front of their mouth. A harmonica holder clamps the harmonica between two metal brackets, which are attached to a curved loop of metal that rests on the shoulders. The original harmonica racks were made from wire or coat hangers. Models of harmonica racks vary widely by quality and ease of use, and it quite often takes experimenting with more than one model of harmonica rack to find one that feels suitable for each individual player. This device is used by folk musicians, one-man bands and singer-songwriters such as Bob Dylan, Tom Harmon, Neil Young, Eddie Vedder, Billy Joel, Bruce Springsteen and blues singers Jimmy Reed and John Hammond Jr.
 
@@ -58,7 +58,7 @@ Harmonica types
 
 Chromatic harmonica
 
-Chromonica.jpg The chromatic harmonica uses a button-activated sliding bar to redirect air from the hole in the mouthpiece to the selected reed-plate, though one design—the "Machino-Tone"—controlled airflow by means of a lever-operated flap on the rear of the instrument. Also, a "hands-free" modification to the Hohner 270 (12-hole) lets the player shift the tones by moving the mouthpiece up and down with the lips, leaving the hands free to play another instrument. While the Richter-tuned 10-hole chromatic is intended to play in only one key, the 12-, 14-, and 16-hole models (which are tuned to equal temperament) allow the musician to play in any key desired with only one harmonica. This harp can be used for any style, including Celtic, classical, jazz, or blues (commonly in third position).
+The chromatic harmonica uses a button-activated sliding bar to redirect air from the hole in the mouthpiece to the selected reed-plate, though one design—the "Machino-Tone"—controlled airflow by means of a lever-operated flap on the rear of the instrument. Also, a "hands-free" modification to the Hohner 270 (12-hole) lets the player shift the tones by moving the mouthpiece up and down with the lips, leaving the hands free to play another instrument. While the Richter-tuned 10-hole chromatic is intended to play in only one key, the 12-, 14-, and 16-hole models (which are tuned to equal temperament) allow the musician to play in any key desired with only one harmonica. This harp can be used for any style, including Celtic, classical, jazz, or blues (commonly in third position).
 
 Diatonic harmonicas
 
@@ -74,7 +74,7 @@ Each hole is the same interval (here, a perfect fifth) from its key of C counter
 
 Tremolo-tuned harmonica
 
-Suzuki_Humming.png The distinguishing feature of the tremolo-tuned harmonica is that it has two reeds per note, with one slightly sharp and the other slightly flat. This provides a unique wavering or warbling sound created by the two reeds being slightly out of tune with each other and the difference in their subsequent waveforms interacting with each other (its beat). The Asian version, which can produce all 12 semitones, is used often in East Asian rock and pop music.
+The distinguishing feature of the tremolo-tuned harmonica is that it has two reeds per note, with one slightly sharp and the other slightly flat. This provides a unique wavering or warbling sound created by the two reeds being slightly out of tune with each other and the difference in their subsequent waveforms interacting with each other (its beat). The Asian version, which can produce all 12 semitones, is used often in East Asian rock and pop music.
 
 Orchestral harmonicas
 

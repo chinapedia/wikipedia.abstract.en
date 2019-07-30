@@ -20,8 +20,6 @@ In 2013 President Obama offered the AGM-88 to Israel for the first time.[4]
 
 AGM-88E AARGM
 
-AGM-88E_HARM_p1230047.jpg
-
 The newest upgrade, the _AGM-88E Advanced Antiradiation Guided Missile (AARGM),_ features the latest software, enhanced capabilities intended to counter enemy radar shutdown, and passive radar using an additional active millimeter-wave seeker. It was released in November 2010, and it is a joint venture by the US Department of Defense and the Italian Ministry of Defense, produced by Orbital ATK.
 
 In November 2005, the Italian Ministry of Defense and the U.S. Department of Defense signed a Memorandum of Agreement on the joint development of the AGM-88E AARGM missile. Italy was providing $20 million of developmental funding as well as several million dollars worth of material, equipment, and related services. The Italian Air Force was expected to buy up to 250 missiles for its Tornado ECR aircraft. A flight test program was set to integrate the AARGM onto Tornado ECR's weapon system.
@@ -49,7 +47,7 @@ The AARGM-ER would serve as the basis for the land-attack Stand In Attack Weapon
 
 Operators
 
-AGM-88_operators.png AIM-9_AIM-120_and_AGM-88_on_F-16C.jpg carrying an AIM-120 AMRAAM (top), AIM-9 Sidewinder (middle) and AGM-88 HARM ]]
+carrying an AIM-120 AMRAAM (top), AIM-9 Sidewinder (middle) and AGM-88 HARM ]]
 
 Current operators
 

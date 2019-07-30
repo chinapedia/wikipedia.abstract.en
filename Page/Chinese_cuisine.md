@@ -9,7 +9,7 @@ Color, smell and taste are the three traditional aspects used to describe Chines
 
 History
 
-Braised_Shredded_Chicken_with_Ham_and_Dried_Tofu_2011-04.JPG'' is a typical soup dish of Huaiyang cuisine. It is made of finely sliced dried tofu, chicken, ham and bamboo shoot, and ingredients need to be braised with shrimp in chicken soup. It was highly praised by the Qianlong emperor.[5] ]] La_Zi_Ji_(Chicken_with_Chiles)_(2269517013).jpg'', stir-fried chicken with chili and Sichuan pepper in Sichuan style.]] Chinese_Steamed_Perch.jpg with roe inside. Sliced ginger and spring onion is usually spread on top.]]
+'' is a typical soup dish of Huaiyang cuisine. It is made of finely sliced dried tofu, chicken, ham and bamboo shoot, and ingredients need to be braised with shrimp in chicken soup. It was highly praised by the Qianlong emperor.[5] ]] '', stir-fried chicken with chili and Sichuan pepper in Sichuan style.]] with roe inside. Sliced ginger and spring onion is usually spread on top.]]
 
 Chinese society greatly valued gastronomy, and developed an extensive study of the subject based on its traditional medical beliefs. Chinese culture initially centered around the North China Plain. The first domesticated crops seem to have been the foxtail and broomcorn varieties of millet, while rice was cultivated in the south. By 2000 BC, wheat had arrived from western Asia. These grains were typically served as warm noodle soups instead of baked into bread as in Europe. Nobles hunted various wild game and consumed mutton, pork and dog as these animals were domesticated. Grain was stored against famine and flood and meat was preserved with salt, vinegar, curing, and fermenting. The flavor of the meat was enhanced by cooking it in animal fats though this practice was mostly restricted to the wealthy.[6]
 
@@ -36,8 +36,6 @@ As the pace of life increases in modern China, fast food like fried noodles, fri
 
 Regional cuisines
 
-Cuisines_of_China.png
-
 A number of different styles contribute to Chinese cuisine but perhaps the best known and most influential are Cantonese cuisine, Shandong cuisine, Jiangsu cuisine (specifically Huaiyang cuisine) and Sichuan cuisine.[21][22] These styles are distinctive from one another due to factors such as availability of resources, climate, geography, history, cooking techniques and lifestyle.[23] One style may favour the use of garlic and shallots over chili and spices, while another may favour preparing seafood over other meats and fowl. Jiangsu cuisine favours cooking techniques such as braising and stewing, while Sichuan cuisine employs baking.
 
 Based on the raw materials and ingredients used, the method of preparation and cultural differences, a variety of foods with different flavors and textures are prepared in different regions of the country. Many traditional regional cuisines rely on basic methods of preservation such as drying, salting, pickling and fermentation.[24]
@@ -60,7 +58,7 @@ Chinese noodles come dry or fresh in a variety of sizes, shapes and textures and
 
 Soybean products
 
-Tofu_-_assorted_products_01.jpg, China.]] Stired-fried_Razor_Clams_with_Black_Beans_and_Pepper.jpg with _douchi_ (fermented black soybeans) in Jiaodong style.]] Tofu is made of soybeans and is another popular food product that supplies protein. The production process of tofu varies from region to region, resulting in different kinds of tofu with a wide range of texture and taste.[28] Other products such as soy milk, soy paste, soy oil, and fermented soy sauce are also important in Chinese cooking.
+, China.]] with _douchi_ (fermented black soybeans) in Jiaodong style.]] Tofu is made of soybeans and is another popular food product that supplies protein. The production process of tofu varies from region to region, resulting in different kinds of tofu with a wide range of texture and taste.[28] Other products such as soy milk, soy paste, soy oil, and fermented soy sauce are also important in Chinese cooking.
 
 There are many kinds of soybean products, including tofu skin, smoked tofu, dried tofu, fried tofu and so on.
 
@@ -80,7 +78,7 @@ A variety of dried or pickled vegetables are also processed, especially in drier
 
 Herbs and seasonings
 
-Five_spices_detailed.jpg'' (Five spice powder) are Sichuan peppercorn, cloves, cinnamon, fennel seeds, and star anise.]] Seasonings such as fresh ginger root, garlic, scallion, cilantro and sesame are widely used in many regional cuisines. Sichuan peppercorns, star anise, cinnamon, fennel, cloves and white peppers are also used in different regions.[29][30]
+'' (Five spice powder) are Sichuan peppercorn, cloves, cinnamon, fennel seeds, and star anise.]] Seasonings such as fresh ginger root, garlic, scallion, cilantro and sesame are widely used in many regional cuisines. Sichuan peppercorns, star anise, cinnamon, fennel, cloves and white peppers are also used in different regions.[29][30]
 
 To add extra flavors to dishes, many Chinese cuisines also contain dried Chinese mushrooms, dried baby shrimp, dried tangerine peel,[31] and dried Sichuan chillies.
 
@@ -103,7 +101,7 @@ Another cold dessert is called _baobing_, which is shaved ice with sweet syrup.[
 
 Chinese dessert soups are typically sweet and served hot.[40]
 
-There are also western pastries in China, like mille-feuille, crème brûlée and cheesecake, but they are generally not as popular because the Chinese preference of dessert is mildly sweet and less oily. Baozi_Chengdu.JPG'' are steamed buns containing savory or sweet combinations of meat, vegetables, mushrooms, traditionally associated with breakfast.]] Many types of street foods, which vary from region to region, can be eaten as snacks or light dinner. Prawn crackers are an often-consumed snack in Southeast China.
+There are also western pastries in China, like mille-feuille, crème brûlée and cheesecake, but they are generally not as popular because the Chinese preference of dessert is mildly sweet and less oily. '' are steamed buns containing savory or sweet combinations of meat, vegetables, mushrooms, traditionally associated with breakfast.]] Many types of street foods, which vary from region to region, can be eaten as snacks or light dinner. Prawn crackers are an often-consumed snack in Southeast China.
 
 Dairy products
 
@@ -121,7 +119,7 @@ Chinese sausages vary from region to region. The most common sausage is made of 
 
 Soups
 
-Tougan_shrimp_soup.jpg In some part of South China, soups are served between the cold dishes and main dishes. In other parts of China, soups are served between the main dish and staple foods, before desserts or fruit salad.
+In some part of South China, soups are served between the cold dishes and main dishes. In other parts of China, soups are served between the main dish and staple foods, before desserts or fruit salad.
 
 
 Drinks
@@ -130,7 +128,7 @@ Tea plays an important role in Chinese dining culture. Baijiu and huangjiu as st
 
 Tea
 
-Longjing_tea_3.jpg, also known as Dragon Well tea, is a variety of roasted green tea from Hangzhou, Zhejiang Province, China, where it is produced mostly by hand and has been renowned for its high quality, earning the China Famous Tea title.]]
+, also known as Dragon Well tea, is a variety of roasted green tea from Hangzhou, Zhejiang Province, China, where it is produced mostly by hand and has been renowned for its high quality, earning the China Famous Tea title.]]
 
 As well as with dim sum, many Chinese drink their tea with snacks such as nuts, plums, dried fruit (in particular jujube), small sweets, melon seeds, and waxberry.[44] China was the earliest country to cultivate and drink tea, which is enjoyed by people from all social classes.[45] Tea processing began after the Qin and Han Dynasties.[46]
 
@@ -155,7 +153,7 @@ Soy milk, almond milk, walnut milk and coconut milk are also drunk during the me
 
 Chinese cuisines outside China
 
-Billyzhajiang1.jpg'' (noodles with bean paste) is a traditional northern Chinese dish. It has been spread to South Korea and known as Jajangmyeon.]] Where there are historical immigrant Chinese populations, the style of food has evolved and been adapted to local tastes and ingredients, and modified by the local cuisine, to greater or lesser extents. This has resulted in a deep Chinese influence on other national cuisines such as Cambodian cuisine, Filipino cuisine, Thai cuisine and Vietnamese cuisine. There are also a large number of forms of fusion cuisine, often popular in the country in question. Some, such as ramen (Japanese Chinese cuisine) have become popular internationally.
+'' (noodles with bean paste) is a traditional northern Chinese dish. It has been spread to South Korea and known as Jajangmyeon.]] Where there are historical immigrant Chinese populations, the style of food has evolved and been adapted to local tastes and ingredients, and modified by the local cuisine, to greater or lesser extents. This has resulted in a deep Chinese influence on other national cuisines such as Cambodian cuisine, Filipino cuisine, Thai cuisine and Vietnamese cuisine. There are also a large number of forms of fusion cuisine, often popular in the country in question. Some, such as ramen (Japanese Chinese cuisine) have become popular internationally.
 
 Deep fried meat combined with sweet and sour sauce as a cooking style receives an enormous preference outside of China. Therefore, many similar international Chinese cuisines are invented based on sweet and sour sauce, including Sweet and sour chicken (Europe and North America), Manchurian chicken (India) or _tangsuyuk_ (South Korea). The Hawaiian pizza was inspired by Chinese sweet and sour flavors.
 
@@ -164,7 +162,7 @@ Apart from the host country, the dishes developed in overseas Chinese cuisines a
 
 Dining etiquette
 
-Song_Dynasty_silver_chopsticks,_cup,_and_spoon.JPG The Chinese dining etiquette has that youths should not sit at the table before the elders. In addition to this, youths should not start eating before the elders start eating. When eating with a bowl, one should not hold it with its bottom part, because it resembles the act of begging. Also, when taking a break from eating at the table, one should not put the chopstick into the rice vertically, because it resembles the Chinese traditional funeral tribute, which involves putting chopstick inside a bowl of rice vertically. It is considered inappropriate to use knives on the dining table.[58] Chopsticks are the main eating utensils for Chinese food, which can be used to cut and pick up food.[59]
+The Chinese dining etiquette has that youths should not sit at the table before the elders. In addition to this, youths should not start eating before the elders start eating. When eating with a bowl, one should not hold it with its bottom part, because it resembles the act of begging. Also, when taking a break from eating at the table, one should not put the chopstick into the rice vertically, because it resembles the Chinese traditional funeral tribute, which involves putting chopstick inside a bowl of rice vertically. It is considered inappropriate to use knives on the dining table.[58] Chopsticks are the main eating utensils for Chinese food, which can be used to cut and pick up food.[59]
 
 
 Relation to Chinese art

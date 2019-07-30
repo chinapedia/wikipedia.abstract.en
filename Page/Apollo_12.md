@@ -61,14 +61,14 @@ EVA 2 end: November 20, 07:44:00 UTC
 
 Mission highlights
 
-  ------------------------------------------------------------------------------
-  Pete_Conrad_on_LM_ladder,_Apollo_12.jpg descends from the lunar module.]]
-  Apollo12Visor.jpg photographed by Pete Conrad (reflected in Bean's helmet)]]
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------
+  descends from the lunar module.]]
+  photographed by Pete Conrad (reflected in Bean's helmet)]]
+  ------------------------------------------------------------
 
 Launch and transfer
 
-Apollo_12_launches_from_Kennedy_Space_Center.jpg Apollo 12 launched on schedule from Kennedy Space Center, under completely overcast rainy skies, encountering wind speeds of during ascent, the highest of any Apollo mission.[6]
+Apollo 12 launched on schedule from Kennedy Space Center, under completely overcast rainy skies, encountering wind speeds of during ascent, the highest of any Apollo mission.[6]
 
 Lightning struck the Saturn V 36.5 seconds after lift-off, triggered by the vehicle itself, discharging down to the Earth through the ionized exhaust plume. Protective circuits on the fuel cells in the service module (SM) detected overloads and took all three fuel cells offline, along with much of the command and service module (CSM) instrumentation. A second strike at 52 seconds knocked out the "8-ball" attitude indicator. The telemetry stream at Mission Control was garbled. However, the vehicle continued to fly correctly; the strikes had not affected the Saturn V instrument unit.
 
@@ -84,7 +84,7 @@ After LM separation, the S-IVB was intended to fly into solar orbit. The S-IVB a
 
 Moon landing
 
-Lunar_module_AS12-51-7507.jpg Apollo_12_landing_site_3154_h2.jpg image of the Apollo 12 landing site at center, used in mission planning. The area shown is approximately 1.75 x 1.75 km.]] Apollo_12_landing_site_imaged_by_LRO,_2011.jpg in 2011]] The Apollo 12 mission landed on November 19, 1969, on an area of the Ocean of Storms (Latin _Oceanus Procellarum_) that had been visited earlier by several robotic missions (_Luna 5_, _Surveyor 3_, and _Ranger 7_). The International Astronomical Union, recognizing this, christened this region _Mare Cognitum (Known Sea)_. The Lunar coordinates of the landing site were 3.01239° S latitude, 23.42157° W longitude.[12] The landing site would thereafter be listed as _Statio Cognitum_ on lunar maps. Conrad and Bean did not formally name their landing site, though Conrad nicknamed the intended touchdown area "Pete's Parking Lot".
+image of the Apollo 12 landing site at center, used in mission planning. The area shown is approximately 1.75 x 1.75 km.]] in 2011]] The Apollo 12 mission landed on November 19, 1969, on an area of the Ocean of Storms (Latin _Oceanus Procellarum_) that had been visited earlier by several robotic missions (_Luna 5_, _Surveyor 3_, and _Ranger 7_). The International Astronomical Union, recognizing this, christened this region _Mare Cognitum (Known Sea)_. The Lunar coordinates of the landing site were 3.01239° S latitude, 23.42157° W longitude.[12] The landing site would thereafter be listed as _Statio Cognitum_ on lunar maps. Conrad and Bean did not formally name their landing site, though Conrad nicknamed the intended touchdown area "Pete's Parking Lot".
 
 The second lunar landing was an exercise in precision targeting, which would be needed for future Apollo missions. Most of the descent was automatic, with manual control assumed by Conrad during the final few hundred feet of descent. Unlike Apollo 11, where Neil Armstrong had to use the manual control to direct his lander downrange of the computer's target which was strewn with boulders, Apollo 12 succeeded in landing at its intended target – within walking distance of the _Surveyor 3_ probe, which had landed on the Moon in April 1967.[13] This was the first – and, to date, only – occasion in which humans have "caught up" to a probe sent to land on another world.
 
@@ -100,13 +100,9 @@ Apollo 12 successfully landed within walking distance of the Surveyor 3 probe. C
 
 Astronauts Conrad and Bean also collected rocks and set up equipment that took measurements of the Moon's seismicity, solar wind flux and magnetic field, and relayed the measurements to Earth.[22] The instruments were part of the first complete nuclear-powered ALSEP station set up by astronauts on the Moon to relay long-term data from the lunar surface. The instruments on Apollo 11 were not as extensive or designed to operate long term. The astronauts also took photographs, although by accident Bean left several rolls of exposed film on the lunar surface. Meanwhile, Gordon, on board the _Yankee Clipper_ in lunar orbit, took multi-spectral photographs of the surface.
 
-a12-plaque.jpg
-
 The lunar plaque attached to the descent stage of _Intrepid_ is unique in that unlike the other plaques, it (a) did not have a depiction of the Earth, and (b) it was textured differently: The other plaques had black lettering on polished stainless steel while the Apollo 12 plaque had the lettering in polished stainless steel while the background was brushed flat.
 
 Return
-
-Apollo_12_view_of_Solar_Eclipse_(5052129615).jpg SH-3D_of_HS-4_flies_over_Apollo_12_command_module_near_USS_Hornet_(CVS-12)_on_24_November_1969.jpg
 
 _Intrepid's_ ascent stage was dropped (per normal procedures) after Conrad and Bean rejoined Gordon in orbit. It impacted the Moon on November 20, 1969, at . The seismometers the astronauts had left on the lunar surface registered the vibrations for more than an hour.
 
@@ -129,16 +125,16 @@ Stunts and mementos
 
 Mission insignia
 
-Apollo_12_Flown_Silver_Robbins_Medallion_(SN-1).jpg]] The Apollo 12 mission patch shows the crew's navy background; all three astronauts at the time of the mission were U.S. Navy commanders. It features a clipper ship arriving at the Moon, representing the CM _Yankee Clipper_. The ship trails fire, and flies the flag of the United States. The mission name APOLLO XII and the crew names are on a wide gold border, with a small blue trim. Blue and gold are traditional U.S. Navy colors. The patch has four stars on it – one each for the three astronauts who flew the mission and one for Clifton Williams, a U.S. Marine Corps aviator and astronaut who was killed on October 5, 1967, after a mechanical failure caused the controls of his T-38 trainer to stop responding, resulting in a crash. He trained with Conrad and Gordon as part of the backup crew for what would be the Apollo 9 mission, and would have been assigned as Lunar Module Pilot for Apollo 12.[35]
+]] The Apollo 12 mission patch shows the crew's navy background; all three astronauts at the time of the mission were U.S. Navy commanders. It features a clipper ship arriving at the Moon, representing the CM _Yankee Clipper_. The ship trails fire, and flies the flag of the United States. The mission name APOLLO XII and the crew names are on a wide gold border, with a small blue trim. Blue and gold are traditional U.S. Navy colors. The patch has four stars on it – one each for the three astronauts who flew the mission and one for Clifton Williams, a U.S. Marine Corps aviator and astronaut who was killed on October 5, 1967, after a mechanical failure caused the controls of his T-38 trainer to stop responding, resulting in a crash. He trained with Conrad and Gordon as part of the backup crew for what would be the Apollo 9 mission, and would have been assigned as Lunar Module Pilot for Apollo 12.[35]
 
 
 Spacecraft location
 
-Apollo12_CommandModule_Hampton.JPG in Hampton, Virginia]]
+in Hampton, Virginia]]
 
 The Apollo 12 command module _Yankee Clipper_ is on display at the Virginia Air and Space Center in Hampton, Virginia.
 
-In 2002, astronomers thought they might have discovered another moon orbiting Earth, which they designated J002E3, that turned out to be the S-IVB third stage of the Apollo 12 Saturn V rocket.[36] Apollo_Moon_Flags_Still_Standing_NASA_Lunar_Science_Institute.theora.ogv images showing a day at the Apollo 12 landing site, with the flag still standing]] The lunar module _Intrepid_ impacted the Moon November 20, 1969 at 22:17:17.7 UT (5:17 PM EST) . In 2009, the Lunar Reconnaissance Orbiter (LRO) photographed the Apollo 12 landing site. The _Intrepid_ lunar module descent stage, experiment package (ALSEP), _Surveyor 3_ spacecraft, and astronaut footpaths are all visible.[37] In 2011, the LRO returned to the landing site at a lower altitude to take higher resolution photographs.[38]
+In 2002, astronomers thought they might have discovered another moon orbiting Earth, which they designated J002E3, that turned out to be the S-IVB third stage of the Apollo 12 Saturn V rocket.[36] images showing a day at the Apollo 12 landing site, with the flag still standing]] The lunar module _Intrepid_ impacted the Moon November 20, 1969 at 22:17:17.7 UT (5:17 PM EST) . In 2009, the Lunar Reconnaissance Orbiter (LRO) photographed the Apollo 12 landing site. The _Intrepid_ lunar module descent stage, experiment package (ALSEP), _Surveyor 3_ spacecraft, and astronaut footpaths are all visible.[37] In 2011, the LRO returned to the landing site at a lower altitude to take higher resolution photographs.[38]
 
 
 Depiction in media

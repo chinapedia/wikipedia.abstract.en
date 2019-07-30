@@ -3,7 +3,7 @@ GIOSUÈ ALESSANDRO GIUSEPPE CARDUCCI ( ,[1][2] ; also GIOSUE CARDUCCI in later y
 
 Biography
 
-Giosuè_Carducci1.jpg He was born in Valdicastello (part of Pietrasanta), a small town in the Province of Lucca in the northwest corner of the region of Tuscany. His father, a doctor, was an advocate of the unification of Italy and was involved with the Carbonari. Because of his politics, the family was forced to move several times during Carducci's childhood, eventually settling for a few years in Florence.[8]
+He was born in Valdicastello (part of Pietrasanta), a small town in the Province of Lucca in the northwest corner of the region of Tuscany. His father, a doctor, was an advocate of the unification of Italy and was involved with the Carbonari. Because of his politics, the family was forced to move several times during Carducci's childhood, eventually settling for a few years in Florence.[8]
 
 From the time he was in school, he was fascinated with the restrained style of Greek and Roman Antiquity, and his mature work reflects a restrained classical style, often using the classical meters of such Latin poets as Horace and Virgil. He translated Book 9 of Homer's _Iliad_ into Italian.
 

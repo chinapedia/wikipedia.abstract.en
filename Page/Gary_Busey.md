@@ -12,13 +12,13 @@ Career
 
 Early career
 
-Texas_Wheelers_cast.JPG and Jack Elam from _The Texas Wheelers_, 1974]] Busey began his show business career as a drummer in The Rubber Band.[6] He appears on several Leon Russell recordings, credited as playing drums under the names "Teddy Jack Eddy"[7] and "Sprunk", a character he created when he was a cast member of a local television comedy show in Tulsa, Oklahoma, called _The Uncanny Film Festival and Camp Meeting_[8] on station KTUL (which starred fellow Tulsan Gailard Sartain as "Dr. Mazeppa Pompazoidi"). For his skits on Uncanny Film Festival, Busey drew on his American Hero, belligerent, know-it-all character. When he told Gailard Sartain his character needed a name, Sartain replied, "Take three: Teddy, Jack and Eddy."[9]
+and Jack Elam from _The Texas Wheelers_, 1974]] Busey began his show business career as a drummer in The Rubber Band.[6] He appears on several Leon Russell recordings, credited as playing drums under the names "Teddy Jack Eddy"[7] and "Sprunk", a character he created when he was a cast member of a local television comedy show in Tulsa, Oklahoma, called _The Uncanny Film Festival and Camp Meeting_[8] on station KTUL (which starred fellow Tulsan Gailard Sartain as "Dr. Mazeppa Pompazoidi"). For his skits on Uncanny Film Festival, Busey drew on his American Hero, belligerent, know-it-all character. When he told Gailard Sartain his character needed a name, Sartain replied, "Take three: Teddy, Jack and Eddy."[9]
 
 He played in a band called Carp, which released one album on Epic Records in 1969.[10] Busey continued to play several small roles in both film and television during the 1970s. In 1975, as the character "Harvey Daley," he was the last person killed on the series _Gunsmoke_ (in the third-to-last episode, No. 633 – "The Busters").[11]
 
 Rise to prominence
 
-Gary_Busey_(1976).jpg'' in 1976]] In 1974, Busey made his major film debut with a supporting role in Michael Cimino's buddy action caper _Thunderbolt and Lightfoot_, starring Clint Eastwood and Jeff Bridges.
+'' in 1976]] In 1974, Busey made his major film debut with a supporting role in Michael Cimino's buddy action caper _Thunderbolt and Lightfoot_, starring Clint Eastwood and Jeff Bridges.
 
 In 1976, he was hired by Barbra Streisand and her producer-boyfriend Jon Peters to play Bobby Ritchie, road manager to Kris Kristofferson's character in the remake film _A Star is Born_. On the DVD commentary of the film, Streisand says Busey was great and that she had seen him on a TV series and thought he had the right qualities to play the role.
 
@@ -47,7 +47,7 @@ On September 1, 2015, it was announced that he would be competing on the 21st se
 
 Personal life
 
-Gary_Busey_2007.jpg In 1971, Busey's wife Judy Helkenberg gave birth to their son, William Jacob "Jake" Busey. Busey and Helkenberg divorced when Jake was 19 years old. Busey has a daughter named Alectra from a previous relationship.[22]
+In 1971, Busey's wife Judy Helkenberg gave birth to their son, William Jacob "Jake" Busey. Busey and Helkenberg divorced when Jake was 19 years old. Busey has a daughter named Alectra from a previous relationship.[22]
 
 On December 4, 1988, Busey was severely injured in a motorcycle accident in which he was not wearing a helmet. His skull was fractured, and doctors feared he suffered permanent brain damage.[23]
 

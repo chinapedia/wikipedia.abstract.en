@@ -24,13 +24,13 @@ The Dahomey Kingdom was known for its culture and traditions. Young boys were of
 
 Portuguese Empire
 
-Kingdom_of_Dahomy-1793.jpg The kings of Dahomey sold their war captives into transatlantic slavery.[15] They also had a practice of killing war captives in a ceremony known as the Annual Customs. By about 1750, the King of Dahomey was earning an estimated £250,000 per year by selling African captives to European slave-traders.[16]
+The kings of Dahomey sold their war captives into transatlantic slavery.[15] They also had a practice of killing war captives in a ceremony known as the Annual Customs. By about 1750, the King of Dahomey was earning an estimated £250,000 per year by selling African captives to European slave-traders.[16]
 
-Though the leaders of Dahomey appear to have initially resisted the slave trade, it flourished in the region of Dahomey for almost three hundred years, beginning in 1472 with a trade agreement with Portuguese merchants. The area was named the "Slave Coast" because of this flourishing trade. Court protocols, which demanded that a portion of war captives from the kingdom's many battles be decapitated, decreased the number of enslaved people exported from the area. The number went from 102,000 people per decade in the 1780s to 24,000 per decade by the 1860s.[17] Armed_women_with_the_King_at_their_head,_going_to_war-1793.jpg with the King at their head, going to war, 1793.]] The decline was partly due to the Slave Trade Act 1807 banning the trans-Atlantic slave trade by Britain and the United States following in 1808, followed by other countries.[18] This decline continued until 1885, when the last slave ship departed from the coast of the modern Benin Republic bound for Brazil in South America, which had yet to abolish slavery. The capital's name Porto-Novo is of Portuguese origin, meaning "New Port". It was originally developed as a port for the slave trade.
+Though the leaders of Dahomey appear to have initially resisted the slave trade, it flourished in the region of Dahomey for almost three hundred years, beginning in 1472 with a trade agreement with Portuguese merchants. The area was named the "Slave Coast" because of this flourishing trade. Court protocols, which demanded that a portion of war captives from the kingdom's many battles be decapitated, decreased the number of enslaved people exported from the area. The number went from 102,000 people per decade in the 1780s to 24,000 per decade by the 1860s.[17] with the King at their head, going to war, 1793.]] The decline was partly due to the Slave Trade Act 1807 banning the trans-Atlantic slave trade by Britain and the United States following in 1808, followed by other countries.[18] This decline continued until 1885, when the last slave ship departed from the coast of the modern Benin Republic bound for Brazil in South America, which had yet to abolish slavery. The capital's name Porto-Novo is of Portuguese origin, meaning "New Port". It was originally developed as a port for the slave trade.
 
 Colonial period (1900 until 1958)
 
-Bénin-_1893.jpg By the middle of the nineteenth century, Dahomey had begun to weaken and lose its status as the regional power. This enabled the French to take over the area in 1892. In 1899, the French included the land called French Dahomey within the larger French West Africa colonial region.
+By the middle of the nineteenth century, Dahomey had begun to weaken and lose its status as the regional power. This enabled the French to take over the area in 1892. In 1899, the French included the land called French Dahomey within the larger French West Africa colonial region.
 
 In 1958, France granted autonomy to the Republic of Dahomey, and full independence on 1 August 1960, which is celebrated each year as Independence Day, a national holiday.[19] The president who led the country to independence was Hubert Maga.[20][21]
 
@@ -38,7 +38,7 @@ Post-colonial period
 
 For the next twelve years after 1960, ethnic strife contributed to a period of turbulence. There were several coups and regime changes, with the figures of Hubert Maga, Sourou Apithy, Justin Ahomadégbé, and Émile Derlin Zinsou dominating; the first three each represented a different area and ethnicity of the country. These three agreed to form a Presidential Council after violence marred the 1970 elections.
 
-Flag_of_Benin_(1975-1990).svg ]]
+]]
 
 On 7 May 1972, Maga ceded power to Ahomadégbé. On 26 October 1972, Lt. Col. Mathieu Kérékou overthrew the ruling triumvirate, becoming president and stating that the country would not "burden itself by copying foreign ideology, and wants neither Capitalism, Communism, nor Socialism". On 30 November 1974 however, he announced that the country was officially Marxist, under control of the Military Council of the Revolution (CMR), which nationalized the petroleum industry and banks. On 30 November 1975, he renamed the country to the PEOPLE'S REPUBLIC OF BENIN.[22][23]
 
@@ -48,7 +48,7 @@ In 1980, Kérékou converted to Islam and changed his first name to Ahmed. He ch
 
 The country's name was officially changed to the'' Republic of Benin'' on 1 March 1990, after the newly formed government's constitution was completed.[29]
 
-BoniYayi_inauguration2006.jpg's 2006 presidential inauguration]] In a 1991 election, Kérékou lost to Nicéphore Soglo. Kérékou returned to power after winning the 1996 vote. In 2001, a closely fought election resulted in Kérékou winning another term, after which his opponents claimed election irregularities.
+'s 2006 presidential inauguration]] In a 1991 election, Kérékou lost to Nicéphore Soglo. Kérékou returned to power after winning the 1996 vote. In 2001, a closely fought election resulted in Kérékou winning another term, after which his opponents claimed election irregularities.
 
 In 1999, Kérékou issued a national apology for the substantial role that Africans had played in the Atlantic slave trade.[30]
 
@@ -81,8 +81,6 @@ Benin is divided into twelve departments (French: _départements_) which, in tur
 
 Demographics
 
-K640_b_160.jpg
-
 +------------+
 | Population |
 +============+
@@ -104,7 +102,7 @@ Largest cities
 
 Religion
 
-Benin_-_batism_ceremony_in_Cotonou.jpg baptism in Cotonou. Five percent of Benin's population belongs to this denomination, an African Initiated Church.]] In the 2002 census, 42.8% of the population of Benin were Christian (27.1% Roman Catholic, 5% Celestial Church of Christ, 3.2% Methodist, 7.5% other Christian denominations), 24.4% were Muslim, 17.3% practiced Vodun, 6% practiced other local traditional religions, 1.9% practiced other religions, and 6.5% claimed no religious affiliation.[38] A more recent government survey conducted by the Demographic and Health Surveys Program in 2011-2012 indicated that Christianity had increased to 57.5% of the population (with Catholics making up 33.9%, Methodists 3.0%, Celestials 6.2% and other Christians 14.5%), while Muslims had declined to 22.8%.[39]
+baptism in Cotonou. Five percent of Benin's population belongs to this denomination, an African Initiated Church.]] In the 2002 census, 42.8% of the population of Benin were Christian (27.1% Roman Catholic, 5% Celestial Church of Christ, 3.2% Methodist, 7.5% other Christian denominations), 24.4% were Muslim, 17.3% practiced Vodun, 6% practiced other local traditional religions, 1.9% practiced other religions, and 6.5% claimed no religious affiliation.[38] A more recent government survey conducted by the Demographic and Health Surveys Program in 2011-2012 indicated that Christianity had increased to 57.5% of the population (with Catholics making up 33.9%, Methodists 3.0%, Celestials 6.2% and other Christians 14.5%), while Muslims had declined to 22.8%.[39]
 
 Traditional religions include local animistic religions in the Atakora (Atakora and Donga provinces), and Vodun and Orisha veneration among the Yoruba and Tado peoples in the center and south of the nation. The town of Ouidah on the central coast is the spiritual center of Beninese Vodun.
 
@@ -113,11 +111,9 @@ Today the two largest religions are Christianity, followed throughout the south 
 
 Geography
 
-Benin_map_of_Köppen_climate_classification.svg
-
 Benin, a narrow, north-south strip of land in West Africa, lies between latitudes 6° and 13°N, and longitudes 0° and 4°E. Benin is bounded by Togo to the west, Burkina Faso and Niger to the north, Nigeria to the east, and the Bight of Benin to the south. The distance from the Niger River in the north to the Atlantic Ocean in the south is about . Although the coastline measures , the country measures about at its widest point.
 
-Atakora_Benin_Batia.jpg, one of Benin's two northernmost departments.]] West_African_male_lion.jpg and other large animals of West Africa.]] Benin shows little variation in elevation and can be divided into four areas from the south to the north, starting with the low-lying, sandy, coastal plain (highest elevation ) which is, at most, wide. It is marshy and dotted with lakes and lagoons communicating with the ocean. Behind the coast lies the Guinean forest-savanna mosaic-covered plateaus of southern Benin (altitude between ), which are split by valleys running north to south along the Couffo, Zou, and Ouémé Rivers.
+, one of Benin's two northernmost departments.]] and other large animals of West Africa.]] Benin shows little variation in elevation and can be divided into four areas from the south to the north, starting with the low-lying, sandy, coastal plain (highest elevation ) which is, at most, wide. It is marshy and dotted with lakes and lagoons communicating with the ocean. Behind the coast lies the Guinean forest-savanna mosaic-covered plateaus of southern Benin (altitude between ), which are split by valleys running north to south along the Couffo, Zou, and Ouémé Rivers.
 
 An area of flat land dotted with rocky hills whose altitude seldom reaches extends around Nikki and Save.
 
@@ -130,11 +126,11 @@ Variations in temperature increase when moving north through savanna and plateau
 
 Economy
 
-2014_Benin_Products_Export_Treemap.png Extensive_Landwirtschaft_im_Norden_Benins_bei_Djougou.jpg The economy of Benin is dependent on subsistence agriculture, cotton production, and regional trade. Cotton accounts for 40% of the GDP and roughly 80% of official export receipts.[45] Growth in real output has averaged around 5% in the past seven years, but rapid population growth has offset much of this increase. Inflation has subsided over the past several years. Benin uses the CFA franc, which is pegged to the euro.
+The economy of Benin is dependent on subsistence agriculture, cotton production, and regional trade. Cotton accounts for 40% of the GDP and roughly 80% of official export receipts.[45] Growth in real output has averaged around 5% in the past seven years, but rapid population growth has offset much of this increase. Inflation has subsided over the past several years. Benin uses the CFA franc, which is pegged to the euro.
 
 Benin's economy has continued to strengthen over the past years, with real GDP growth estimated at 5.1 and 5.7% in 2008 and 2009, respectively. The main driver of growth is the agricultural sector, with cotton being the country's main export, while services continue to contribute the largest part of GDP largely because of Benin's geographical location, enabling trade, transportation, transit and tourism activities with its neighboring states.[46]
 
-Gossypium_sp_MS4007.JPG In order to raise growth still further, Benin plans to attract more foreign investment, place more emphasis on tourism, facilitate the development of new food processing systems and agricultural products, and encourage new information and communication technology. Projects to improve the business climate by reforms to the land tenure system, the commercial justice system, and the financial sector were included in Benin's US$307 million Millennium Challenge Account grant signed in February 2006.[47]
+In order to raise growth still further, Benin plans to attract more foreign investment, place more emphasis on tourism, facilitate the development of new food processing systems and agricultural products, and encourage new information and communication technology. Projects to improve the business climate by reforms to the land tenure system, the commercial justice system, and the financial sector were included in Benin's US$307 million Millennium Challenge Account grant signed in February 2006.[47]
 
 The Paris Club and bilateral creditors have eased the external debt situation, with Benin benefiting from a G8 debt reduction announced in July 2005, while pressing for more rapid structural reforms. An insufficient electrical supply continues to adversely affect Benin's economic growth though the government recently has taken steps to increase domestic power production.[48]
 
@@ -149,7 +145,7 @@ Despite the GDP growth rate of 4-5% remaining consistent over the past two decad
 
 Education
 
-BEN_2001-007-S20.jpg The literacy rate in Benin is among the lowest in the world: in 2015 it was estimated to be 38.4% (49.9% for males and 27.3% for females).[53] Benin has achieved universal primary education and half of the children (54%) were enrolled in secondary education in 2013, according to the UNESCO Institute for Statistics.
+The literacy rate in Benin is among the lowest in the world: in 2015 it was estimated to be 38.4% (49.9% for males and 27.3% for females).[53] Benin has achieved universal primary education and half of the children (54%) were enrolled in secondary education in 2013, according to the UNESCO Institute for Statistics.
 
 Although at one time the education system was not free,[54] Benin has abolished school fees and is carrying out the recommendations of its 2007 Educational Forum.[55]
 
@@ -221,11 +217,11 @@ During the 1980s, less than 30% of the country's population had access to primar
 
 Culture
 
-Palais_Des_Congres_De_Cotonou.jpg.]]
+.]]
 
 Arts
 
-Who's_coming_?.jpg Beninese literature had a strong oral tradition long before French became the dominant language.[75] Félix Couchoro wrote the first Beninese novel, _L'Esclave_ (The Slave), in 1929.
+Beninese literature had a strong oral tradition long before French became the dominant language.[75] Félix Couchoro wrote the first Beninese novel, _L'Esclave_ (The Slave), in 1929.
 
 Post-independence, the country was home to a vibrant and innovative music scene, where native folk music combined with Ghanaian highlife, French cabaret, American rock, funk and soul, and Congolese rumba.
 
@@ -245,7 +241,7 @@ Local languages are used as the languages of instruction in elementary schools, 
 
 Cuisine
 
-Bahia_acaraje.jpg is peeled black-eyed peas formed into a ball and then deep-fried.]] Beninese cuisine is known in Africa for its exotic ingredients and flavorful dishes. Beninese cuisine involves fresh meals served with a variety of key sauces. In southern Benin cuisine, the most common ingredient is corn, often used to prepare dough which is mainly served with peanut- or tomato-based sauces. Fish and chicken are the most common meats used in southern Beninese cuisine, but beef, goat, and bush rat are also consumed. The main staple in northern Benin is yams, often served with sauces mentioned above. The population in the northern provinces use beef and pork meat which is fried in palm or peanut oil or cooked in sauces. Cheese is used in some dishes. Couscous, rice, and beans are commonly eaten, along with fruits such as mangoes, oranges, avocados, bananas, kiwi fruit, and pineapples.
+is peeled black-eyed peas formed into a ball and then deep-fried.]] Beninese cuisine is known in Africa for its exotic ingredients and flavorful dishes. Beninese cuisine involves fresh meals served with a variety of key sauces. In southern Benin cuisine, the most common ingredient is corn, often used to prepare dough which is mainly served with peanut- or tomato-based sauces. Fish and chicken are the most common meats used in southern Beninese cuisine, but beef, goat, and bush rat are also consumed. The main staple in northern Benin is yams, often served with sauces mentioned above. The population in the northern provinces use beef and pork meat which is fried in palm or peanut oil or cooked in sauces. Cheese is used in some dishes. Couscous, rice, and beans are commonly eaten, along with fruits such as mangoes, oranges, avocados, bananas, kiwi fruit, and pineapples.
 
 Meat is usually quite expensive, and meals are generally light on meat and generous on vegetable fat. Frying in palm or peanut oil is the most common meat preparation, and smoked fish is commonly prepared in Benin. Grinders are used to prepare corn flour, which is made into a dough and served with sauces. "Chicken on the spit" is a traditional recipe in which chicken is roasted over a fire on wooden sticks. Palm roots are sometimes soaked in a jar with salt water and sliced garlic to tenderize them, then used in dishes. Many people have outdoor mud stoves for cooking.
 

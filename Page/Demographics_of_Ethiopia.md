@@ -151,8 +151,6 @@ As per 2007 Population and Housing Census of Ethiopia [8]
   Dira Dawa City Administration     2,155       5,455       2,985
   Region 17                         3,210       2,585       2,845
 
-File:Ethiopia regions english.png
-
 Fertility and Births (Demographic and Health Surveys)
 
 Total Fertility Rate (TFR) (Wanted Fertility Rate) and Crude Birth Rate (CBR):[9]
@@ -197,8 +195,6 @@ Population
     108,386,391 (July 2018 est.)
 
 Age structure
-
-Ethiopiapop.svg
 
     _0-14 years:_ 43.21% (male 23,494,593 /female 23,336,508)
     _15-24 years:_ 20.18% (male 10,857,968 /female 11,011,100)

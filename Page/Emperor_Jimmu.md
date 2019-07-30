@@ -35,13 +35,13 @@ The story of Jimmu seems to rework legends associated with the Ōtomo clan (大�
 
 Migration
 
-Emperor_Jimmu.jpg. This 19th-century artwork is by Tsukioka Yoshitoshi.]]
+. This 19th-century artwork is by Tsukioka Yoshitoshi.]]
 
 According to the chronicles _Kojiki_ and _Nihon Shoki_, Jimmu's brothers were born in Takachiho, the southern part of Kyūshū in modern-day Miyazaki Prefecture. They moved eastward to find a location more appropriate for administering the entire country. Jimmu's older brother, Itsuse no Mikoto, originally led the migration, and led the clan eastward through the Seto Inland Sea with the assistance of local chieftain _Sao Netsuhiko_. As they reached Naniwa (modern-day Osaka), they encountered another local chieftain, _Nagasunehiko_ ("the long-legged man"), and Itsuse was killed in the ensuing battle. Jimmu realized that they had been defeated because they battled eastward against the sun, so he decided to land on the east side of Kii Peninsula and to battle westward. They reached Kumano, and, with the guidance of a three-legged crow, _Yatagarasu_ ("eight-span crow"), they moved to Yamato. There, they once again battled Nagasunehiko and were victorious.
 
 In Yamato, Nigihayahi no Mikoto, who also claim descent from the Takamagahara gods, was protected by Nagasunehiko. However, when Nigihayahi met Jimmu, he accepted Jimmu's legitimacy. At this point, Jimmu is said to have ascended to the throne of Japan. Upon scaling a Nara mountain to survey the Seto Inland Sea he now controlled, Jimmu remarked that it was shaped like the "heart" rings made by mating dragonflies, archaically _akitsu_ 秋津.[12] A mosquito then tried to steal Jimmu's royal blood but since Jimmu was a god incarnate Emperor, , a dragonfly killed the mosquito. Japan thus received its classical name the Dragonfly Islands, .
 
-Tomb_of_Emperor_Jimmu,_haisho.JPG, Nara Prefecture]]
+, Nara Prefecture]]
 
 According to the _Kojiki_, Jimmu died when he was 126 years old. The Emperor's posthumous name literally means "divine might" or "god-warrior". It is generally thought that Jimmu's name and character evolved into their present shape just before[13] the time in which legends about the origins of the Yamato dynasty were chronicled in the _Kojiki_.[14] There are accounts written earlier than either _Kojiki_ and _Nihon Shoki_ that present an alternative version of the story. According to these accounts, Jimmu's dynasty was supplanted by that of Ōjin, whose dynasty was supplanted by that of Keitai.[15] The _Kojiki_ and the _Nihon Shoki_ then combined these three mythical dynasties into one long and continuous genealogy.
 
@@ -50,7 +50,7 @@ The traditional site of Jimmu's grave is near Unebiyama in Kashihara, Nara Prefe
 
 Modern veneration
 
-Kashihara_M6522.jpg in Kashihara, Nara, the principal shrine devoted to Jimmu]]
+in Kashihara, Nara, the principal shrine devoted to Jimmu]]
 
 Veneration of Jimmu was a central component of the imperial cult that formed following the Meiji Restoration.[17] In 1873, a holiday called _Kigensetsu_ was established on February 11.[18] The holiday commemorated the anniversary of Jimmu's ascension to the throne 2,532 years earlier.[19] After World War II, the holiday was criticized as too closely associated with the "emperor system."[20] It was suspended from 1948 to 1966, but later reinstated as National Foundation Day.[21][22]
 

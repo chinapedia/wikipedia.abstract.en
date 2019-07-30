@@ -21,7 +21,7 @@ He deserted the navy to visit Mary "Polly" Catlett, a family friend with whom he
 
 He began a career in slave trading.
 
-Newton_j.jpg in his later years]]
+in his later years]]
 
 Newton often openly mocked the captain by creating obscene poems and songs about him, which became so popular that the crew began to join in.[8] His disagreements with several colleagues resulted in his being starved almost to death, imprisoned while at sea, and chained like the slaves they carried. He was himself enslaved and forced to work on a plantation in the British colony Sierra Leone near the Sherbro River. After several months he came to think of Sierra Leone as his home, but his father intervened after Newton sent him a letter describing his circumstances, and crew from another ship happened to find him. Newton claimed the only reason he left the colony was because of Polly.[9]
 
@@ -32,8 +32,6 @@ About two weeks later, the battered ship and starving crew landed in Lough Swill
 Newton's conversion was not immediate, but he contacted Polly's family and announced his intentions to marry her. Her parents were hesitant as he was known to be unreliable and impetuous. They knew he was profane, but they allowed him to write to Polly, and he set to begin to submit to authority for her sake.[16] He sought a place on a slave ship bound for Africa, and Newton and his crewmates participated in most of the same activities he had written about before; the only immorality from which he was able to free himself was profanity. After a severe illness his resolve was renewed, yet he retained the same attitude towards slavery as was held by his contemporaries. Newton continued in the slave trade through several voyages where he sailed up rivers in Africa, now as a captain, procured slaves being offered for sale in larger ports, and subsequently transported them to North America.
 
 In between voyages, he married Polly in 1750, and he found it more difficult to leave her at the beginning of each trip. After three shipping voyages in the slave trade, Newton was promised a position as ship's captain with cargo unrelated to slavery. But at the age of thirty, he collapsed and never sailed again.[17]
-
-Olney_vicarage.jpg
 
 
 Olney curate
@@ -62,7 +60,7 @@ The New Testament served as the basis for many of the lyrics of "Amazing Grace".
 
 The sermon preached by Newton was his last of those that William Cowper heard in Olney, since Cowper's mental instability returned shortly thereafter. Steve Turner, author of _Amazing Grace: The Story of America's Most Beloved Song_, suggests Newton may have had his friend in mind, employing the themes of assurance and deliverance from despair for Cowper's benefit.[44]
 
-New_Britain_Southern_Harmony_Amazing_Grace.jpg'', showing the title "New Britain" and shape note music.]]
+'', showing the title "New Britain" and shape note music.]]
 
 
 Dissemination
@@ -73,7 +71,7 @@ The greatest influences in the 19th century that propelled "Amazing Grace" to sp
 
 Simultaneously, an unrelated movement of communal singing was established throughout the South and Western states. A format of teaching music to illiterate people appeared in 1800. It used four sounds to symbolise the basic scale: fa-sol-la-fa-sol-la-mi-fa. Each sound was accompanied by a specifically shaped note and thus became known as shape note singing. The method was simple to learn and teach, so schools were established throughout the South and West. Communities would come together for an entire day of singing in a large building where they sat in four distinct areas surrounding an open space, one member directing the group as a whole. Other groups would sing outside, on benches set up in a square. Preachers used shape-not hymns to teach people on the frontier and to raise the emotion of camp meetings. Most of the music was Christian, but the purpose of communal singing was not primarily spiritual. Communities either could not afford music accompaniment or rejected it out of a Calvinistic sense of simplicity, so the songs were sung a cappella.[51]
 
-William_Walker,_American_composer.jpg, the American composer who first set John Newton's verses to the "New Britain" tune, creating version of the song known as "Amazing Grace"]]
+, the American composer who first set John Newton's verses to the "New Britain" tune, creating version of the song known as "Amazing Grace"]]
 
 "New Britain" tune
 
@@ -116,7 +114,7 @@ Modern interpretations
 
 In recent years, the words of the hymn have been changed in some religious publications to downplay a sense of imposed self-loathing by its singers. The second line, "That saved a wretch like me!" has been rewritten as "That saved and strengthened me", "save a soul like me", or "that saved and set me free".[103] Kathleen Norris in her book _Amazing Grace: A Vocabulary of Faith_ characterises this transformation of the original words as "wretched English" making the line that replaces the original "laughably bland".[104] Part of the reason for this change has been the altered interpretations of what wretchedness and grace means. Newton's Calvinistic view of redemption and divine grace formed his perspective that he considered himself a sinner so vile that he was unable to change his life or be redeemed without God's help. Yet his lyrical subtlety, in Steve Turner's opinion, leaves the hymn's meaning open to a variety of Christian and non-Christian interpretations.[105] "Wretch" also represents a period in Newton's life when he saw himself outcast and miserable, as he was when he was enslaved in Sierra Leone; his own arrogance was matched by how far he had fallen in his life.[106]
 
-Afghanistan_bagpiper.jpg playing "Amazing Grace" during a memorial service, 29 October 2009, at Forward Operating Base Wilson, Afghanistan]]
+playing "Amazing Grace" during a memorial service, 29 October 2009, at Forward Operating Base Wilson, Afghanistan]]
 
 Due to its immense popularity and iconic nature, the meaning behind the words of "Amazing Grace" has become as individual as the singer or listener.[107] Bruce Hindmarsh suggests that the secular popularity of "Amazing Grace" is due to the absence of any mention of God in the lyrics until the fourth verse (by Excell's version, the fourth verse begins "When we've been there ten thousand years"), and that the song represents the ability of humanity to transform itself instead of a transformation taking place at the hands of God. "Grace", however, had a clearer meaning to John Newton, as he used the word to represent God or the power of God.[108]
 

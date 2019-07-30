@@ -1,4 +1,4 @@
-Acetylene-3D-vdW.png), the simplest alkyne]] In organic chemistry, an ALKYNE is an unsaturated hydrocarbon containing at least one carbon—carbon triple bond.[1] The simplest acyclic alkynes with only one triple bond and no other functional groups form a homologous series with the general chemical formula _(_n_)_(2_n_−2). Alkynes are traditionally known as acetylenes, although the name _acetylene_ also refers specifically to C₂H₂, known formally as ethyne using IUPAC nomenclature. Like other hydrocarbons, alkynes are generally hydrophobic but tend to be more reactive.
+), the simplest alkyne]] In organic chemistry, an ALKYNE is an unsaturated hydrocarbon containing at least one carbon—carbon triple bond.[1] The simplest acyclic alkynes with only one triple bond and no other functional groups form a homologous series with the general chemical formula _(_n_)_(2_n_−2). Alkynes are traditionally known as acetylenes, although the name _acetylene_ also refers specifically to C₂H₂, known formally as ethyne using IUPAC nomenclature. Like other hydrocarbons, alkynes are generally hydrophobic but tend to be more reactive.
 
 
 Chemical properties
@@ -10,7 +10,7 @@ Structure and bonding
 
 In acetylene, the H–C≡C bond angles are 180°. By virtue of this bond angle, alkynes are rod-like. Correspondingly, cyclic alkynes are rare. Benzyne is highly unstable. The C≡C bond distance of 121 picometers is much shorter than the C=C distance in alkenes (134 pm) or the C–C bond in alkanes (153 pm).
 
-    Alkyne_General_Formulae_V.2.png
+
 
 The triple bond is very strong with a bond strength of 839 kJ/mol. The sigma bond contributes 369 kJ/mol, the first pi bond contributes 268 kJ/mol and the second pi-bond of 202 kJ/mol bond strength. Bonding usually discussed in the context of molecular orbital theory, which recognizes the triple bond as arising from overlap of s and p orbitals. In the language of valence bond theory, the carbon atoms in an alkyne bond are sp hybridized: they each have two unhybridized p orbitals and two sp hybrid orbitals. Overlap of an sp orbital from each atom forms one sp–sp sigma bond. Each p orbital on one atom overlaps one on the other atom, forming two pi bonds, giving a total of three bonds. The remaining sp orbital on each atom can form a sigma bond to another atom, for example to hydrogen atoms in the parent acetylene. The two sp orbitals project on opposite sides of the carbon atom.
 
@@ -53,7 +53,7 @@ Alkynes characteristically undergo reactions that show that they are "doubly uns
 
 The largest scale application of this technology is the conversion of acetylene to ethylene in refineries. The steam cracking of alkanes yields a few percent acetylene, which is selectively hydrogenated in the presence of a palladium/silver catalyst. For more complex alkynes, the Lindlar catalyst is widely recommended to avoid formation of the alkane, for example in the conversion of phenylacetylene to styrene.[9]
 
-    ApplicationLindlarCatalyst.svg
+
 
 Similarly, halogenation of alkynes gives the vinyl dihalides or alkyl tetrahalides:
 

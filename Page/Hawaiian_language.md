@@ -90,7 +90,7 @@ In 1820, Protestant missionaries from New England arrived in Hawaii.
 
 Adelbert von Chamisso might have consulted with a native speaker of Hawaiian in Berlin, Germany, before publishing his grammar of Hawaiian (__) in 1837.[33] When Hawaiian King David Kalākaua took a trip around the world, he brought his native language with him. When his wife, Queen Kapiolani, and his sister, Princess (later Queen) Liliuokalani, took a trip across North America and on to the British Islands, in 1887, Liliuokalani's composition _Aloha Oe_ was already a famous song in the U.S.[34]
 
-Ka_Lama_Hawaii.gif and students at Lahainaluna School]] In 1834, the first Hawaiian-language newspapers were published by missionaries working with locals. The missionaries also played a significant role in publishing a vocabulary (1836)[35] grammar (1854)[36] and dictionary (1865)[37] of Hawaiian. Literacy in Hawaiian was widespread among the local population, especially ethnic Hawaiians. Use of the language among the general population might have peaked around 1881. Even so, some people worried, as early as 1854, that the language was "soon destined to extinction."[38]
+and students at Lahainaluna School]] In 1834, the first Hawaiian-language newspapers were published by missionaries working with locals. The missionaries also played a significant role in publishing a vocabulary (1836)[35] grammar (1854)[36] and dictionary (1865)[37] of Hawaiian. Literacy in Hawaiian was widespread among the local population, especially ethnic Hawaiians. Use of the language among the general population might have peaked around 1881. Even so, some people worried, as early as 1854, that the language was "soon destined to extinction."[38]
 
 Suppression of Hawaiian
 
@@ -146,7 +146,7 @@ As early as 1823, the missionaries made some limited use of the apostrophe to re
 
 Electronic encoding
 
-Okina-using-Linux-Libertine.svg, font: Linux Libertine. The glyph of the two ʻokinas is clearly different from the one of the opening quote.]] The okina is written in various ways for electronic uses:
+, font: Linux Libertine. The glyph of the two ʻokinas is clearly different from the one of the opening quote.]] The okina is written in various ways for electronic uses:
 
 -   turned comma: , Unicode hex value 02BB (decimal 699). This does not always have the correct appearance because it is not supported in some fonts.
 -   opening single quote, a.k.a. left single quotation mark: ‘ Unicode hex value 2018 (decimal 8216). In many fonts this character looks like either a left-leaning single quotation mark or a quotation mark thicker at the bottom than at the top. In more traditional serif fonts such as Times New Roman it can look like a very small "6" with the circle filled in black: ‘.

@@ -1,5 +1,3 @@
-Bob_Frankston.jpg
-
 ROBERT M. FRANKSTON (born June 14, 1949 in Brooklyn, New York) is the co-creator[1] with Dan Bricklin of the VisiCalc spreadsheet program and the co-founder of Software Arts, the company that developed it.
 
 

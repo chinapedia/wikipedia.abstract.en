@@ -12,7 +12,7 @@ The president and vice president are directly elected through universal suffrage
 
 Legislative branch
 
-El_Congreso_de_la_República.JPG.]] The Congress of the Republic _(Congreso de la República)_ has 158 members, elected for a four-year term, partially in departmental constituencies and partially by nationwide proportional representation.
+.]] The Congress of the Republic _(Congreso de la República)_ has 158 members, elected for a four-year term, partially in departmental constituencies and partially by nationwide proportional representation.
 
 
 Political parties and elections

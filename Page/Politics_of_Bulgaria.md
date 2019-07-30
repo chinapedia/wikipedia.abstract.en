@@ -45,12 +45,10 @@ The Council of Ministers is the principal organ of the executive branch. It is u
 
 Legislative branch
 
-National_Assembly_of_Bulgaria_Sofia_TB.jpg The Bulgarian unicameral parliament, the National Assembly or Narodno Sabranie, consists of 240 deputies who are elected for 4-year-terms by popular vote. The votes are for party or coalition lists of candidates for each of the 28 administrative divisions. A party or coalition must garner a minimum of 4% of the vote in order to enter parliament. Parliament is responsible for enactment of laws, approval of the budget, scheduling of presidential elections, selection and dismissal of the prime minister and other ministers, declaration of war, deployment of troops outside of Bulgaria, and ratification of international treaties and agreements.
+The Bulgarian unicameral parliament, the National Assembly or Narodno Sabranie, consists of 240 deputies who are elected for 4-year-terms by popular vote. The votes are for party or coalition lists of candidates for each of the 28 administrative divisions. A party or coalition must garner a minimum of 4% of the vote in order to enter parliament. Parliament is responsible for enactment of laws, approval of the budget, scheduling of presidential elections, selection and dismissal of the prime minister and other ministers, declaration of war, deployment of troops outside of Bulgaria, and ratification of international treaties and agreements.
 
 
 Elections
-
-BG_Parliamentary_2013_pie_EN.png
 
 
 Judicial branch

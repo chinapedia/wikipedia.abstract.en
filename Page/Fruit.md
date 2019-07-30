@@ -1,4 +1,4 @@
-Culinary_fruits_front_view.jpg]]
+]]
 
 In botany, a FRUIT is the seed-bearing structure in flowering plants (also known as angiosperms) formed from the ovary after flowering.
 
@@ -9,7 +9,7 @@ In common language usage, "fruit" normally means the fleshy seed-associated stru
 
 Botanic fruit and culinary fruit
 
-Botanical_Fruit_and_Culinary_Vegetables.png representing the relationship between (culinary) vegetables and botanical fruits]] Many common terms for seeds and fruit do not correspond to the botanical classifications. In culinary terminology, a _fruit_ is usually any sweet-tasting plant part, especially a botanical fruit; a _nut_ is any hard, oily, and shelled plant product; and a _vegetable_ is any savory or less sweet plant product.[5] However, in botany, a _fruit_ is the ripened ovary or carpel that contains seeds, a _nut_ is a type of fruit and not a seed, and a _seed_ is a ripened ovule.[6]
+representing the relationship between (culinary) vegetables and botanical fruits]] Many common terms for seeds and fruit do not correspond to the botanical classifications. In culinary terminology, a _fruit_ is usually any sweet-tasting plant part, especially a botanical fruit; a _nut_ is any hard, oily, and shelled plant product; and a _vegetable_ is any savory or less sweet plant product.[5] However, in botany, a _fruit_ is the ripened ovary or carpel that contains seeds, a _nut_ is a type of fruit and not a seed, and a _seed_ is a ripened ovule.[6]
 
 Examples of culinary "vegetables" and nuts that are botanically fruit include corn, cucurbits (e.g., cucumber, pumpkin, and squash), eggplant, legumes (beans, peanuts, and peas), sweet pepper, and tomato. In addition, some spices, such as allspice and chili pepper, are fruits, botanically speaking.[7] In contrast, rhubarb is often referred to as a fruit, because it is used to make sweet desserts such as pies, though only the petiole (leaf stalk) of the rhubarb plant is edible,[8] and edible gymnosperm seeds are often given fruit names, e.g., ginkgo nuts and pine nuts.
 
@@ -25,7 +25,7 @@ Fruit that bears a prominent pointed terminal projection is said to be _beaked_.
 
 Development
 
-Nectarine_Fruit_Development.jpg, the nectarine (_Prunus persica_) over a 7.5 month period, from bud formation in early winter to fruit ripening in midsummer (see image page for further information)]]
+, the nectarine (_Prunus persica_) over a 7.5 month period, from bud formation in early winter to fruit ripening in midsummer (see image page for further information)]]
 
 A fruit results from maturation of one or more flowers, and the gynoecium of the flower(s) forms all or part of the fruit.[11]
 
@@ -43,7 +43,7 @@ Plant scientists have grouped fruits into three main groups, simple fruits, aggr
 
 Simple fruit
 
-DewberriesWeb.jpg flowers. Note the multiple pistils, each of which will produce a drupelet. Each flower will become a blackberry-like aggregate fruit.]]
+flowers. Note the multiple pistils, each of which will produce a drupelet. Each flower will become a blackberry-like aggregate fruit.]]
 
 Simple fruits can be either dry or fleshy, and result from the ripening of a simple or compound ovary in a flower with only one pistil. Dry fruits may be either dehiscent (they open to discharge seeds), or indehiscent (they do not open to discharge seeds).[18] Types of dry, simple fruits, and examples of each, include:
 
@@ -77,11 +77,11 @@ An aggregate fruit, or _etaerio_, develops from a single flower with numerous si
 
 The pome fruits of the family Rosaceae, (including apples, pears, rosehips, and saskatoon berry) are a syncarpous fleshy fruit, a simple fruit, developing from a half-inferior ovary.[20]
 
-Schizocarp fruits form from a syncarpous ovary and do not really dehisce, but rather split into segments with one or more seeds; they include a number of different forms from a wide range of families.[21] Carrot seed is an example. Lilyfruit.jpg'' unripe capsule fruit]]
+Schizocarp fruits form from a syncarpous ovary and do not really dehisce, but rather split into segments with one or more seeds; they include a number of different forms from a wide range of families.[21] Carrot seed is an example. '' unripe capsule fruit]]
 
 Aggregate fruit
 
-Longitudinal_section_of_raspberry_flower.gif]] Aggregate fruits form from single flowers that have multiple carpels which are not joined together, i.e. each pistil contains one carpel. Each pistil forms a fruitlet, and collectively the fruitlets are called an etaerio. Four types of aggregate fruits include etaerios of achenes, follicles, drupelets, and berries. Ranunculaceae species, including _Clematis_ and _Ranunculus_ have an etaerio of achenes, _Calotropis_ has an etaerio of follicles, and _Rubus_ species like raspberry, have an etaerio of drupelets. _Annona_ have an etaerio of berries.[22][23]
+]] Aggregate fruits form from single flowers that have multiple carpels which are not joined together, i.e. each pistil contains one carpel. Each pistil forms a fruitlet, and collectively the fruitlets are called an etaerio. Four types of aggregate fruits include etaerios of achenes, follicles, drupelets, and berries. Ranunculaceae species, including _Clematis_ and _Ranunculus_ have an etaerio of achenes, _Calotropis_ has an etaerio of follicles, and _Rubus_ species like raspberry, have an etaerio of drupelets. _Annona_ have an etaerio of berries.[22][23]
 
 The raspberry, whose pistils are termed _drupelets_ because each is like a small drupe attached to the receptacle. In some bramble fruits (such as blackberry) the receptacle is elongated and part of the ripe fruit, making the blackberry an _aggregate-accessory_ fruit.[24] The strawberry is also an aggregate-accessory fruit, only one in which the seeds are contained in achenes.[25] In all these examples, the fruit develops from a single flower with numerous pistils.
 
@@ -89,7 +89,7 @@ Multiple fruits
 
 A multiple fruit is one formed from a cluster of flowers (called an _inflorescence_). Each flower produces a fruit, but these mature into a single mass.[26] Examples are the pineapple, fig, mulberry, osage-orange, and breadfruit.
 
-Noni_fruit_dev.jpg, flowers are produced regularly along the stem and it is possible to see together examples of flowering, fruit development, and fruit ripening.]] In the photograph on the right, stages of flowering and fruit development in the noni or Indian mulberry (_Morinda citrifolia_) can be observed on a single branch. First an inflorescence of white flowers called a head is produced. After fertilization, each flower develops into a drupe, and as the drupes expand, they become _connate_ (merge) into a _multiple fleshy fruit_ called a _syncarp_.
+, flowers are produced regularly along the stem and it is possible to see together examples of flowering, fruit development, and fruit ripening.]] In the photograph on the right, stages of flowering and fruit development in the noni or Indian mulberry (_Morinda citrifolia_) can be observed on a single branch. First an inflorescence of white flowers called a head is produced. After fertilization, each flower develops into a drupe, and as the drupes expand, they become _connate_ (merge) into a _multiple fleshy fruit_ called a _syncarp_.
 
 Berries
 
@@ -100,7 +100,7 @@ Berries are another type of fleshy fruit; they are simple fruit created from a s
 
 Accessory fruit
 
-Pineapple_and_cross_section.jpgs as well as the pistils of many flowers. It is an accessory fruit and a multiple fruit.]] Some or all of the edible part of accessory fruit is not generated by the ovary. Accessory fruit can be simple, aggregate, or multiple, i.e., they can include one or more pistils and other parts from the same flower, or the pistils and other parts of many flowers.
+s as well as the pistils of many flowers. It is an accessory fruit and a multiple fruit.]] Some or all of the edible part of accessory fruit is not generated by the ovary. Accessory fruit can be simple, aggregate, or multiple, i.e., they can include one or more pistils and other parts from the same flower, or the pistils and other parts of many flowers.
 
 Table of fruit examples
 
@@ -113,7 +113,7 @@ Table of fruit examples
 
 Seedless fruits
 
-Dish_with_fruits.jpg FruitArrangement.jpges and various squash]] Seedlessness is an important feature of some fruits of commerce. Commercial cultivars of bananas and pineapples are examples of seedless fruits. Some cultivars of citrus fruits (especially grapefruit, mandarin oranges, navel oranges), satsumas, table grapes, and watermelons are valued for their seedlessness. In some species, seedlessness is the result of _parthenocarpy_, where fruits set without fertilization. Parthenocarpic fruit set may or may not require pollination, but most seedless citrus fruits require a stimulus from pollination to produce fruit.
+es and various squash]] Seedlessness is an important feature of some fruits of commerce. Commercial cultivars of bananas and pineapples are examples of seedless fruits. Some cultivars of citrus fruits (especially grapefruit, mandarin oranges, navel oranges), satsumas, table grapes, and watermelons are valued for their seedlessness. In some species, seedlessness is the result of _parthenocarpy_, where fruits set without fertilization. Parthenocarpic fruit set may or may not require pollination, but most seedless citrus fruits require a stimulus from pollination to produce fruit.
 
 Seedless bananas and grapes are triploids, and seedlessness results from the abortion of the embryonic plant that is produced by fertilization, a phenomenon known as _stenospermocarpy_, which requires normal pollination and fertilization.[28]
 
@@ -141,7 +141,7 @@ Many "vegetables" in culinary _parlance_ are botanical fruits, including bell pe
 
 Nutritional value
 
-Fruit_Nutrition.png Fresh fruits are generally high in fiber, vitamin C, and water.[39]
+Fresh fruits are generally high in fiber, vitamin C, and water.[39]
 
 Regular consumption of fruit is generally associated with reduced risks of several diseases and functional declines associated with aging.[40][41]
 

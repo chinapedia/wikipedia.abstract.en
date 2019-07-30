@@ -14,7 +14,7 @@ Beginning in 1829, Aleut was written in the Cyrillic script. From 1870, the lang
 
 Tribes
 
-aleut.jpg The Aleut (Unangan) dialects and tribes:[6]
+The Aleut (Unangan) dialects and tribes:[6]
 
 -   ATTUAN DIALECT and speaking tribes:
     -   _Sasignan_ (in Attuan dialect) / _Sasxinan_ (in Eastern dialect) / _Sasxinas_ (in Western dialect) or _Near Islanders_ : in the Near Islands (Attu, Agattu, Semichi).
@@ -34,7 +34,7 @@ aleut.jpg The Aleut (Unangan) dialects and tribes:[6]
 
 Population and distribution
 
-Aleut_map.svg The Aleut people historically lived throughout the Aleutian Islands, the Shumagin Islands, and the far western part of the Alaska Peninsula, with an estimated population of around 25,000 prior to European contact.[7] In the 1820s, the Russian-American Company administered a large portion of the North Pacific during a Russian-led expansion of the fur trade. They resettled many Aleut families to the Commander Islands (within the Aleutsky District of the Kamchatka Krai in Russia)[8] and to the Pribilof Islands (in Alaska). These continue to have majority-Aleut communities.[9][10]
+The Aleut people historically lived throughout the Aleutian Islands, the Shumagin Islands, and the far western part of the Alaska Peninsula, with an estimated population of around 25,000 prior to European contact.[7] In the 1820s, the Russian-American Company administered a large portion of the North Pacific during a Russian-led expansion of the fur trade. They resettled many Aleut families to the Commander Islands (within the Aleutsky District of the Kamchatka Krai in Russia)[8] and to the Pribilof Islands (in Alaska). These continue to have majority-Aleut communities.[9][10]
 
 According to the 2000 Census, 11,941 people identified as being Aleut, while 17,000 identified as having partial Aleut ancestry. Prior to sustained European contact, approximately 25,000 Aleut lived in the archipelago.[11] The Encyclopædia Britannica Online says more than 15,000 people have Aleut ancestry in the early 21st century.[12] The Aleut suffered high fatalities in the 19th and early 20th centuries from Eurasian infectious diseases to which they had no immunity. In addition, the population suffered as their customary lifestyles were disrupted. Russian traders and later Europeans married Aleut women and had families with them.[13]
 
@@ -43,7 +43,7 @@ History
 
 After Russian contact
 
-Кожаный_панцирь.jpg of hardened leather enforced by wood and bones worn by the Chukchi, Aleut, and Chugach (Alutiiq)[14]]] Koryak_armor.jpeg worn by indigenous peoples of Siberia]] Tikhanov_-_Aleut_in_Festival_Dress_in_Alaska_(1818).png, 1818]] After the arrival of Russian Orthodox missionaries in the late 18th century, many Aleuts became Christian. Of the numerous Russian Orthodox congregations in Alaska, most are majority Alaska Native in ethnicity. One of the earliest Christian martyrs in North America was Saint Peter the Aleut.
+of hardened leather enforced by wood and bones worn by the Chukchi, Aleut, and Chugach (Alutiiq)[14]]] worn by indigenous peoples of Siberia]] , 1818]] After the arrival of Russian Orthodox missionaries in the late 18th century, many Aleuts became Christian. Of the numerous Russian Orthodox congregations in Alaska, most are majority Alaska Native in ethnicity. One of the earliest Christian martyrs in North America was Saint Peter the Aleut.
 
 Recorded Uprising against the Russians
 
@@ -86,7 +86,7 @@ A full list of their ethnobotany can be found at http://naeb.brit.org/uses/tribe
 
 Visual arts
 
-Hunting_hat,_Aleut_-_Etholén_collection,_Museum_of_Cultures_(Helsinki)_-_DSC04917.JPG Basket_and_Lid,_early_20th_century,_36.498a-b.jpg basket and lid embellished with wool embroidery, early 20th century, Brooklyn Museum ]] Customary arts of the Aleut include weapon-making, building of _baidarkas_ (special hunting boats), weaving, figurines, clothing, carving, and mask making. Men as well as women often carved ivory and wood. 19th-century craftsmen were famed for their ornate wooden hunting hats, which feature elaborate and colorful designs and may be trimmed with sea lion whiskers, feathers, and walrus ivory. Andrew Gronholdt of the Shumagin Islands has played a vital role in reviving the ancient art of building the _chagudax_ or bentwood hunting visors.[21]
+basket and lid embellished with wool embroidery, early 20th century, Brooklyn Museum ]] Customary arts of the Aleut include weapon-making, building of _baidarkas_ (special hunting boats), weaving, figurines, clothing, carving, and mask making. Men as well as women often carved ivory and wood. 19th-century craftsmen were famed for their ornate wooden hunting hats, which feature elaborate and colorful designs and may be trimmed with sea lion whiskers, feathers, and walrus ivory. Andrew Gronholdt of the Shumagin Islands has played a vital role in reviving the ancient art of building the _chagudax_ or bentwood hunting visors.[21]
 
 Aleut women sewed finely stitched, waterproof parkas from seal gut and wove fine baskets from sea-lyme grass (_Elymus mollis_). Some Aleut women continue to weave ryegrass baskets. Aleut arts are practiced and taught throughout the state of Alaska. As many Aleut have moved out of the islands to other parts of the state, they have taken with them the knowledge of their arts. They have also adopted new materials and methods for their art, including serigraphy, video art, and installation art.
 
@@ -112,7 +112,7 @@ The Russians arrived in the Aleutian Islands in 1786 and were maintained modest 
 
 Aleut clothing
 
-Aleut_sax.jpg Parka_(Kamleika)_Aleutian_Islands.JPG, or sea mammal intestine coat. [27]]]
+, or sea mammal intestine coat. [27]]]
 
 The Aleut people developed in one of the harshest climates in the world, and learned to create and protect warmth. Both men and women wore parkas that extended below the knees. The women wore the skin of seal or sea-otter, and the men wore bird skin parkas, the feathers turned in or out depending on the weather. When the men were hunting on the water, they wore waterproof parkas made from seal or sea-lion guts, or the entrails of bear, walrus, or whales. Parkas had a hood that could be cinched, as could the wrist openings, so water could not get in. Men wore breeches made from the esophageal skin of seals. Children wore parkas made of downy eagle skin with tanned bird skin caps.[28] They called these parkas _kameikas,_ meaning raingear in the English language.(Aleut Corp. Web.).
 
@@ -130,9 +130,9 @@ Hunting technologies
 
 Boats
 
-Choris,_Saint_Paul.jpg, by Louis Choris, 1817]] The interior regions of the rough, mountainous Aleutian Islands provided little in terms of natural resources for the Aleutian people. They collected stones for weapons, tools, stoves or lamps. They collected and dried grasses for their woven baskets. For everything else, the Aleuts had learned to use the fish and mammals they caught and processed to satisfy their needs.[34]
+, by Louis Choris, 1817]] The interior regions of the rough, mountainous Aleutian Islands provided little in terms of natural resources for the Aleutian people. They collected stones for weapons, tools, stoves or lamps. They collected and dried grasses for their woven baskets. For everything else, the Aleuts had learned to use the fish and mammals they caught and processed to satisfy their needs.[34]
 
-In order to hunt sea mammals and to travel between islands, the Aleuts became experts of sailing and navigation. While hunting, they used small watercraft called _baidarkas._ For regular travel, they used their large baidaras.[35] Rowing_Baidara_St_George_Is_line1700.jpg
+In order to hunt sea mammals and to travel between islands, the Aleuts became experts of sailing and navigation. While hunting, they used small watercraft called _baidarkas._ For regular travel, they used their large baidaras.[35]
 
 The baidara was a large, open, walrus-skin-covered boat. Aleut families used it when traveling among the islands. It was also used to transport goods for trade, and warriors took them to battle.[36]
 

@@ -1,4 +1,4 @@
-Yatsushiro_Sea.png.]] Yushima,_Kami-Amakusa,_Kumamoto,_Japan.jpg OeCatholicChurch.jpg
+.]]
 
 , which means "Heaven's Grass," is a series of islands off the west coast of Kyushu, the southernmost of the four main islands of Japan.
 
@@ -33,8 +33,6 @@ At present, the islands are organized as Amakusa District, Amakusa City, and Kam
 
 
 Transport
-
-Amakusa_Airport_Runway.JPG Shimatetsu_Ferry-Amakusa.JPG
 
 The islands are served by Amakusa Airfield, located on the north end of Shimoshima. The islands are connected to the mainland by the Five Bridges of Amakusa and by ferry from Hondo and Matsushima.
 

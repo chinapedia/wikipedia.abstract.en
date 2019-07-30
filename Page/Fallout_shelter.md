@@ -1,5 +1,3 @@
-United_States_of_America_Fallout_shelter_sign.jpg
-
 A FALLOUT SHELTER is an enclosed space specially designed to protect occupants from radioactive debris or fallout resulting from a nuclear explosion. Many such shelters were constructed as civil defense measures during the Cold War.
 
 During a nuclear explosion, matter vaporized in the resulting fireball is exposed to neutrons from the explosion, absorbs them, and becomes radioactive. When this material condenses in the rain, it forms dust and light sandy materials that resemble ground pumice. The fallout emits alpha and beta particles, as well as gamma rays.
@@ -8,8 +6,6 @@ Much of this highly radioactive material falls to earth, subjecting anything wit
 
 
 History
-
-Fallout_shelter_photo.png
 
 North America
 
@@ -31,7 +27,7 @@ Germany has protected shelters for 3% of its population, Austria for 30%, Finlan
 
 Switzerland
 
-Sonnenbergtunnel.jpg, in Switzerland, was the world's largest civilian nuclear fallout shelter, designed to protect 20,000 civilians in the eventuality of war or disaster (civil defense function abandoned in 2006).[11][12]]]
+, in Switzerland, was the world's largest civilian nuclear fallout shelter, designed to protect 20,000 civilians in the eventuality of war or disaster (civil defense function abandoned in 2006).[11][12]]]
 
 Switzerland built an extensive network of fallout shelters, not only through extra hardening of government buildings such as schools, but also through a building regulation requiring nuclear shelters in residential buildings since the 1960s (the first legal basis in this sense dates from 4 October 1963).[13] Later, the law ensured that all residential buildings built after 1978 contained a nuclear shelter able to withstand a blast from a 12 megaton explosion at a distance of 700 metres.[14] The _Federal Law on the Protection of the Population and Civil Protection_ still requires that every inhabitant should have a place in a shelter close to where they live.[15]
 
@@ -41,8 +37,6 @@ In Switzerland, most residential shelters are no longer stocked with the food an
 
 
 Details of shelter construction
-
-Swiss_Civil_Defense_Bunker_(15710856390).jpg Big_german_fire_door_1.png
 
 Shielding
 
@@ -83,13 +77,9 @@ Inhabitants should plan to remain sheltered for at least two weeks (with an hour
 
 If available, inhabitants may take potassium iodide at the rate of 130 mg/day per adult (65 mg/day per child) as an additional measure to protect the thyroid gland from the uptake of dangerous radioactive iodine, a component of most fallout and reactor waste.[34]
 
-  ------------------------------------------------------------------------
-  Alfa_beta_gamma_radiation_penetration.svg to penetrate solid matter.]]
-  Protectionfactorchernobyl10cm.png
-  Protectionfactorchernobyl20cm.png
-  Protectionfactorchernobyl30cm.png
-  Relativedoseratesnormalisedforday1.png
-  ------------------------------------------------------------------------
+  ------------------------------
+  to penetrate solid matter.]]
+  ------------------------------
 
 
 Different types of radiation emitted by fallout
@@ -139,7 +129,7 @@ The gamma dose rate due to the contamination brought into the shelter on the clo
 
 Fallout shelters in popular culture
 
-United_States_Fallout_Shelter_Sign.svg CivilDefence.svg personnel and infrastructures.]]
+personnel and infrastructures.]]
 
 Fallout shelters feature prominently in the Robert A. Heinlein novel _Farnham's Freehold_ (Heinlein built a fairly extensive shelter near his home in Colorado Springs in 1963),[42] _Pulling Through_ by Dean Ing, _A Canticle for Leibowitz_ by Walter M. Miller and _Earth_ by David Brin.
 

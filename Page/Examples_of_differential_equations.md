@@ -139,7 +139,7 @@ although the solution looks rather ugly,
 
 This is a model of a damped oscillator. The plot of displacement against time would look like this:
 
-    Damped_Oscillation2.svg
+
 
 which resembles how one would expect a vibrating spring to behave as friction removes energy from the system.
 

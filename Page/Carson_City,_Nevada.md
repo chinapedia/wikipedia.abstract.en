@@ -5,7 +5,7 @@ The town began as a stopover for California-bound emigrants, but developed into 
 
 History
 
-Abraham_Curry.png Carson_City,_1877.jpg The Washoe people have inhabited the valley and surrounding areas for about 6,000 years.[3]
+The Washoe people have inhabited the valley and surrounding areas for about 6,000 years.[3]
 
 The first European Americans to arrive in what is now known as Eagle Valley were John C. Frémont and his exploration party in January 1843.[4] Fremont named the river flowing through the valley Carson River in honor of Kit Carson, the mountain man and scout he had hired for his expedition. Later, settlers named the area Washoe in reference to the indigenous people.[5]
 
@@ -50,8 +50,6 @@ Museums
 -   Stewart Indian School – museum collection includes items from former faculty, students and school[18]
 -   Foreman-Roberts House Museum[19] – Gothic Revival architecture, tours available.
 -   Sears–Ferris House[20] (not open to public) – home of George Washington Gale Ferris Jr., inventor of the Ferris wheel
-
-Secret_Beach_-_Lake_Tahoe_East_Shore.jpg
 
 -   Yesterday's Flyers, an aviation museum in Carson City.[21]
 -   Children's Museum of Northern Nevada - Carson City
@@ -212,7 +210,7 @@ The following is a list of the top employers in Carson City from the fourth quar
 
 Transportation
 
-US395SouthofCarsonCity.jpg, just south of US 50 in Douglas County near Carson City]] There are four highways in the city: Nevada State Route 28, U.S. Route 395, U.S. Route 50, and Interstate 580, its only freeway. Phase 1 of the Carson City Freeway Project from US 395, just north of the city, to US 50 was completed in February 2006 and Phase 2A, extending from Rt. 50 to Fairview Drive, was officially opened on September 24, 2009. Phase 2B, Fairview Drive to Rt. 50, was completed in August 2017. Prior to 2012, Carson City was one of only five state capitals not directly served by an Interstate highway; the city lost this distinction when I-580 was extended into the city limits.
+, just south of US 50 in Douglas County near Carson City]] There are four highways in the city: Nevada State Route 28, U.S. Route 395, U.S. Route 50, and Interstate 580, its only freeway. Phase 1 of the Carson City Freeway Project from US 395, just north of the city, to US 50 was completed in February 2006 and Phase 2A, extending from Rt. 50 to Fairview Drive, was officially opened on September 24, 2009. Phase 2B, Fairview Drive to Rt. 50, was completed in August 2017. Prior to 2012, Carson City was one of only five state capitals not directly served by an Interstate highway; the city lost this distinction when I-580 was extended into the city limits.
 
 Carson City's first modern bus system, Jump Around Carson, or JAC, opened to the public in October 2005.[64] JAC uses a smaller urban bus ideal for Carson City.[65] However, there is virtually no ground public transportation to other destinations. Passenger trains haven't served Carson City since 1950, when the Virginia and Truckee Railroad was shut down. Greyhound Lines stopped their bus services to the town in 2006 and Amtrak discontinued their connecting thruway bus to Sacramento, California in 2008. There is now only a limited Monday – Friday RTC bus service[66] to Reno which is still served by both Greyhound and Amtrak.
 

@@ -1,6 +1,6 @@
 (Kyūjitai: 合氣道) is a modern Japanese martial art developed by Morihei Ueshiba as a synthesis of his martial studies, philosophy and religious beliefs. Ueshiba's goal was to create an art that practitioners could use to defend themselves while also protecting their attacker from injury.[1][2] Aikido is often translated as the art of peace. [3] or as the power of love. [4]
 
-Ueshiba_Mitsuteru_(Nippon_Budokan,_2017).webm at the 55th All Japan Aikido Demonstration held at the Nippon Budokan (May 2017)]]
+at the 55th All Japan Aikido Demonstration held at the Nippon Budokan (May 2017)]]
 
 Aikido's techniques include: irimi (entering), and tenkan (turning) movements (that redirect the opponent's attack momentum), various types of throws and joint locks.[5]
 
@@ -11,7 +11,7 @@ Ueshiba's senior students have different approaches to aikido, depending partly 
 
 Etymology and basic philosophy
 
-合氣道.svg" in its old character form ]]
+" in its old character form ]]
 
 The word "aikido" is formed of three kanji:
 
@@ -32,11 +32,11 @@ Therefore, from a purely literal interpretation, aikido is the "Way of combining
 
 History
 
-Morihei_Ueshiba_1939.jpg Aikido was created by Morihei Ueshiba ( , 14 December 1883 – 26 April 1969), referred to by some aikido practitioners as (_Great Teacher_).[8] The term _aikido_ was coined in the twentieth century.[9] Ueshiba envisioned aikido not only as the synthesis of his martial training, but as an expression of his personal philosophy of universal peace and reconciliation. During Ueshiba's lifetime and continuing today, aikido has evolved from the _aiki_ that Ueshiba studied into a variety of expressions by martial artists throughout the world.[10]
+Aikido was created by Morihei Ueshiba ( , 14 December 1883 – 26 April 1969), referred to by some aikido practitioners as (_Great Teacher_).[8] The term _aikido_ was coined in the twentieth century.[9] Ueshiba envisioned aikido not only as the synthesis of his martial training, but as an expression of his personal philosophy of universal peace and reconciliation. During Ueshiba's lifetime and continuing today, aikido has evolved from the _aiki_ that Ueshiba studied into a variety of expressions by martial artists throughout the world.[10]
 
 Initial development
 
-Takeda_Sokaku.jpg Ueshiba developed aikido primarily during the late 1920s through the 1930s through the synthesis of the older martial arts that he had studied.[11] The core martial art from which aikido derives is Daitō-ryū aiki-jūjutsu, which Ueshiba studied directly with Takeda Sōkaku, the reviver of that art. Additionally, Ueshiba is known to have studied Tenjin Shin'yō-ryū with Tozawa Tokusaburō in Tokyo in 1901, Gotōha Yagyū Shingan-ryū under Nakai Masakatsu in Sakai from 1903 to 1908, and judo with Kiyoichi Takagi ( , 1894–1972) in Tanabe in 1911.[12]
+Ueshiba developed aikido primarily during the late 1920s through the 1930s through the synthesis of the older martial arts that he had studied.[11] The core martial art from which aikido derives is Daitō-ryū aiki-jūjutsu, which Ueshiba studied directly with Takeda Sōkaku, the reviver of that art. Additionally, Ueshiba is known to have studied Tenjin Shin'yō-ryū with Tozawa Tokusaburō in Tokyo in 1901, Gotōha Yagyū Shingan-ryū under Nakai Masakatsu in Sakai from 1903 to 1908, and judo with Kiyoichi Takagi ( , 1894–1972) in Tanabe in 1911.[12]
 
 The art of Daitō-ryū is the primary technical influence on aikido. Along with empty-handed throwing and joint-locking techniques, Ueshiba incorporated training movements with weapons, such as those for the spear (), short staff (), and perhaps the . However, aikido derives much of its technical structure from the art of swordsmanship ().[13][14]
 
@@ -44,7 +44,7 @@ Ueshiba moved to Hokkaidō in 1912, and began studying under Takeda Sokaku in 19
 
 Religious influences
 
-Onisaburo_Deguchi_2.jpg After Ueshiba left Hokkaidō in 1919, he met and was profoundly influenced by Onisaburo Deguchi, the spiritual leader of the Ōmoto-kyō religion (a neo-Shinto movement) in Ayabe.[17] One of the primary features of Ōmoto-kyō is its emphasis on the attainment of utopia during one's life. This was a great influence on Ueshiba's martial arts philosophy of extending love and compassion especially to those who seek to harm others. Aikido demonstrates this philosophy in its emphasis on mastering martial arts so that one may receive an attack and harmlessly redirect it. In an ideal resolution, not only is the receiver unharmed, but so is the attacker.[18]
+After Ueshiba left Hokkaidō in 1919, he met and was profoundly influenced by Onisaburo Deguchi, the spiritual leader of the Ōmoto-kyō religion (a neo-Shinto movement) in Ayabe.[17] One of the primary features of Ōmoto-kyō is its emphasis on the attainment of utopia during one's life. This was a great influence on Ueshiba's martial arts philosophy of extending love and compassion especially to those who seek to harm others. Aikido demonstrates this philosophy in its emphasis on mastering martial arts so that one may receive an attack and harmlessly redirect it. In an ideal resolution, not only is the receiver unharmed, but so is the attacker.[18]
 
 In addition to the effect on his spiritual growth, the connection with Deguchi gave Ueshiba entry to elite political and military circles as a martial artist. As a result of this exposure, he was able to attract not only financial backing but also gifted students. Several of these students would found their own styles of aikido.[19]
 
@@ -67,7 +67,7 @@ Today, the major styles of aikido are each run by a separate governing organizat
 
 Ki
 
-ki_obsolete.svg for _ki_ until 1946, when it was changed to .]]
+for _ki_ until 1946, when it was changed to .]]
 
 The study of _ki_ is an important component of aikido, and its study defies categorization as either "physical" or "mental" training, as it encompasses both. The _kanji_ for _ki_ normally is written as . It was written as until the writing reforms after World War II, and this older form still is seen on occasion.
 
@@ -80,7 +80,7 @@ In aikido, as in virtually all Japanese martial arts, there are both physical an
 
 Fitness
 
-Aïkido-shihoo_nage.jpg () is very important for safe practice]] Physical training goals pursued in conjunction with aikido include controlled relaxation, correct movement of joints such as hips and shoulders, flexibility, and endurance, with less emphasis on strength training. In aikido, pushing or extending movements are much more common than pulling or contracting movements. This distinction can be applied to general fitness goals for the aikido practitioner.[34]
+() is very important for safe practice]] Physical training goals pursued in conjunction with aikido include controlled relaxation, correct movement of joints such as hips and shoulders, flexibility, and endurance, with less emphasis on strength training. In aikido, pushing or extending movements are much more common than pulling or contracting movements. This distinction can be applied to general fitness goals for the aikido practitioner.[34]
 
 In aikido, specific muscles or muscle groups are not isolated and worked to improve tone, mass, or power. Aikido-related training emphasizes the use of coordinated whole-body movement and balance similar to yoga or pilates. For example, many dojos begin each class with , which may include stretching and ukemi (break falls).[35]
 
@@ -120,7 +120,7 @@ Beginners in particular often practice techniques from grabs, both because they 
 
 Basic techniques
 
-Aikido_ikkyo.svg The following are a sample of the basic or widely practiced throws and pins. Many of these techniques derive from Daitō-ryū Aiki-jūjutsu, but some others were invented by Morihei Ueshiba. The precise terminology for some may vary between organisations and styles, so what follows are the terms used by the Aikikai Foundation. Note that despite the names of the first five techniques listed, they are not universally taught in numeric order.[42]
+The following are a sample of the basic or widely practiced throws and pins. Many of these techniques derive from Daitō-ryū Aiki-jūjutsu, but some others were invented by Morihei Ueshiba. The precise terminology for some may vary between organisations and styles, so what follows are the terms used by the Aikikai Foundation. Note that despite the names of the first five techniques listed, they are not universally taught in numeric order.[42]
 
 -   a control using one hand on the elbow and one hand near the wrist which leverages _uke_ to the ground.[43] This grip applies pressure into the ulnar nerve at the wrist.
 
@@ -150,8 +150,6 @@ Aikido_ikkyo.svg The following are a sample of the basic or widely practiced thr
 
 Implementations
 
-Aikido_ikkyo_omote_ura.png
-
 Aikido makes use of body movement (_tai sabaki_) to blend with _uke_. For example, an "entering" (_irimi_) technique consists of movements inward towards _uke_, while a technique uses a pivoting motion.[48] Additionally, an technique takes place in front of _uke_, whereas an technique takes place to their side; a technique is applied with motion to the front of _uke_, and a version is applied with motion towards the rear of _uke_, usually by incorporating a turning or pivoting motion. Finally, most techniques can be performed while in a seated posture (_seiza_). Techniques where both _uke_ and _tori_ are standing are called _tachi-waza_, techniques where both start off in _seiza_ are called _suwari-waza_, and techniques performed with _uke_ standing and _tori_ sitting are called _hanmi handachi_ ().[49]
 
 Thus, from fewer than twenty basic techniques, there are thousands of possible implementations. For instance, _ikkyō_ can be applied to an opponent moving forward with a strike (perhaps with an _ura_ type of movement to redirect the incoming force), or to an opponent who has already struck and is now moving back to reestablish distance (perhaps an _omote-waza_ version). Specific aikido _kata_ are typically referred to with the formula "attack-technique(-modifier)". For instance, _katate-dori ikkyō_ refers to any _ikkyō_ technique executed when _uke_ is holding one wrist. This could be further specified as _katate-dori ikkyō omote_, referring to any forward-moving _ikkyō_ technique from that grab.
@@ -160,7 +158,7 @@ _Atemi_ () are strikes (or feints) employed during an aikido technique. Some vie
 
 Weapons
 
-PRehse002-cropped.jpg Weapons training in aikido traditionally includes the short staff (_jō_) although its techniques resemble closely the use of the bayonet or Jūkendō, the wooden sword (_bokken_), and the knife (_tantō_).[53] Some schools incorporate firearm-disarming techniques. Both weapon-taking and weapon-retention are taught. Some schools, such as the Iwama style of Morihiro Saito, usually spend substantial time practicing with both _bokken_ and _jō_, under the names of _aiki-ken_, and _aiki-jō_, respectively.
+Weapons training in aikido traditionally includes the short staff (_jō_) although its techniques resemble closely the use of the bayonet or Jūkendō, the wooden sword (_bokken_), and the knife (_tantō_).[53] Some schools incorporate firearm-disarming techniques. Both weapon-taking and weapon-retention are taught. Some schools, such as the Iwama style of Morihiro Saito, usually spend substantial time practicing with both _bokken_ and _jō_, under the names of _aiki-ken_, and _aiki-jō_, respectively.
 
 The founder developed many of the empty-handed techniques from traditional sword, spear and bayonet movements. Consequently, the practice of the weapons arts gives insight into the origin of techniques and movements, and reinforces the concepts of distance, timing, foot movement, presence and connectedness with one's training partner(s).[54]
 
@@ -177,12 +175,12 @@ Aikido training is mental as well as physical, emphasizing the ability to relax 
 
 Uniforms and ranking
 
-Folding_hakama.jpg are folded after practice to preserve the pleats.]] Aikido practitioners (commonly called _aikidōka_ outside Japan) generally progress by promotion through a series of "grades" (_kyū_), followed by a series of "degrees" (_dan_), pursuant to formal testing procedures. Some aikido organizations use belts to distinguish practitioners' grades, often simply white and black belts to distinguish _kyu_ and _dan_ grades, though some use various belt colors. Testing requirements vary, so a particular rank in one organization is not comparable or interchangeable with the rank of another.[64] Some dojos do not allow students to take the test to obtain a _dan_ rank unless they are 16 or older.
+are folded after practice to preserve the pleats.]] Aikido practitioners (commonly called _aikidōka_ outside Japan) generally progress by promotion through a series of "grades" (_kyū_), followed by a series of "degrees" (_dan_), pursuant to formal testing procedures. Some aikido organizations use belts to distinguish practitioners' grades, often simply white and black belts to distinguish _kyu_ and _dan_ grades, though some use various belt colors. Testing requirements vary, so a particular rank in one organization is not comparable or interchangeable with the rank of another.[64] Some dojos do not allow students to take the test to obtain a _dan_ rank unless they are 16 or older.
 
-  rank    belt                  color   type
-  ------- --------------------- ------- -------------------------
-  _kyū_   Judo_white_belt.svg   white   _mudansha_ / _yūkyūsha_
-  _dan_   Judo_black_belt.svg   black   _yūdansha_
+  rank    belt   color   type
+  ------- ------ ------- -------------------------
+  _kyū_          white   _mudansha_ / _yūkyūsha_
+  _dan_          black   _yūdansha_
 
 The uniform worn for practicing aikido (_aikidōgi_) is similar to the training uniform (_keikogi_) used in most other modern martial arts; simple trousers and a wraparound jacket, usually white. Both thick ("judo-style"), and thin ("karate-style") cotton tops are used.[65] Aikido-specific tops are available with shorter sleeves which reach to just below the elbow.
 

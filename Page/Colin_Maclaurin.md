@@ -21,7 +21,7 @@ In 1725, Maclaurin was appointed deputy to the mathematical professor at Edinbur
 
 Contributions to mathematics
 
-Acta_Eruditorum_-_I_monete_geometria,_1747_–_BEIC_13417751_(cropped).jpg, 1747]] Maclaurin used Taylor series to characterize maxima, minima, and points of inflection for infinitely differentiable functions in his _Treatise of Fluxions_. Maclaurin attributed the series to Taylor, though the series was known before to Newton and Gregory, and in special cases to Madhava of Sangamagrama in fourteenth century India.[6] Nevertheless, Maclaurin received credit for his use of the series, and the Taylor series expanded around 0 is sometimes known as the _Maclaurin series_.[7] Colin_Maclaurin_color.jpg Maclaurin also made significant contributions to the gravitation attraction of ellipsoids, a subject that furthermore attracted the attention of d'Alembert, A.-C. Clairaut, Euler, Laplace, Legendre, Poisson and Gauss. Maclaurin showed that an oblate spheroid was a possible equilibrium in Newton's theory of gravity. The subject continues to be of scientific interest, and Nobel Laureate Subramanyan Chandrasekhar dedicated a chapter of his book _Ellipsoidal Figures of Equilibrium_ to Maclaurin spheroids.[8]
+, 1747]] Maclaurin used Taylor series to characterize maxima, minima, and points of inflection for infinitely differentiable functions in his _Treatise of Fluxions_. Maclaurin attributed the series to Taylor, though the series was known before to Newton and Gregory, and in special cases to Madhava of Sangamagrama in fourteenth century India.[6] Nevertheless, Maclaurin received credit for his use of the series, and the Taylor series expanded around 0 is sometimes known as the _Maclaurin series_.[7] Maclaurin also made significant contributions to the gravitation attraction of ellipsoids, a subject that furthermore attracted the attention of d'Alembert, A.-C. Clairaut, Euler, Laplace, Legendre, Poisson and Gauss. Maclaurin showed that an oblate spheroid was a possible equilibrium in Newton's theory of gravity. The subject continues to be of scientific interest, and Nobel Laureate Subramanyan Chandrasekhar dedicated a chapter of his book _Ellipsoidal Figures of Equilibrium_ to Maclaurin spheroids.[8]
 
 Independently from Euler and using the same methods, Maclaurin discovered the Euler–Maclaurin formula. He used it to sum powers of arithmetic progressions, derive Stirling's formula, and to derive the Newton-Cotes numerical integration formulas which includes Simpson's rule as a special case.[9]
 
@@ -32,11 +32,9 @@ In his _Treatise of Algebra_ (Ch. XII, Sect 86), published in 1748 two years aft
 
 Personal life
 
-The_grave_of_Colin_Maclaurin,_Greyfriars_Kirkyard.jpg Colin_MacLaurin_Road,_Edinburgh.JPG In 1733, Maclaurin married Anne Stewart, the daughter of Walter Stewart, the Solicitor General for Scotland, by whom he had seven children. His eldest son John Maclaurin studied Law, was a Senator of the College of Justice, and became Lord Dreghorn; he was also joint founder of the Royal Society of Edinburgh.[13]
+In 1733, Maclaurin married Anne Stewart, the daughter of Walter Stewart, the Solicitor General for Scotland, by whom he had seven children. His eldest son John Maclaurin studied Law, was a Senator of the College of Justice, and became Lord Dreghorn; he was also joint founder of the Royal Society of Edinburgh.[13]
 
 Maclaurin actively opposed the Jacobite rising of 1745 and superintended the operations necessary for the defence of Edinburgh against the Highland army. Maclaurin compiled a diary of his exertions against the Jacobites, both within and without the city.[14] When the Highland army entered the city, however, he fled to York, where he was invited to stay by the Archbishop of York.
-
-Maclaurin_grave.jpg
 
 On his journey south, Maclaurin fell from his horse, and the fatigue, anxiety, and cold to which he was exposed on that occasion laid the foundations of dropsy. He returned to Edinburgh after the Jacobite army marched south, but died soon after his return.
 

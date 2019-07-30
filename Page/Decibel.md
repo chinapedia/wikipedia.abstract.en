@@ -222,7 +222,7 @@ The human perception of the intensity of sound and light approximates the logari
 
 Acoustics
 
-300x0w(3).jpg The decibel is commonly used in acoustics as a unit of sound pressure level. The reference pressure for sound in air is set at the typical threshold of perception of an average human and there are common comparisons used to illustrate different levels of sound pressure. Sound pressure is a field quantity, therefore the field version of the unit definition is used:
+The decibel is commonly used in acoustics as a unit of sound pressure level. The reference pressure for sound in air is set at the typical threshold of perception of an average human and there are common comparisons used to illustrate different levels of sound pressure. Sound pressure is a field quantity, therefore the field version of the unit definition is used:
 
 $$L_p = 20 \log_{10}\!\left(\frac{p_{\text{rms}}}{p_{\text{ref}}}\right)\,\text{dB},$$
 where _p__(rms) is the root mean square of the measured sound pressure and _p__(ref) is the standard reference sound pressure of 20 micropascals in air or 1 micropascal in water.[34]
@@ -272,7 +272,7 @@ Voltage
 
 Since the decibel is defined with respect to power, not amplitude, conversions of voltage ratios to decibels must square the amplitude, or use the factor of 20 instead of 10, as discussed above.
 
-Relationship_between_dBu_and_dBm.png (the voltage source) and dBm (the power dissipated as heat by the 600 Ω resistor)]]
+(the voltage source) and dBm (the power dissipated as heat by the 600 Ω resistor)]]
 
 dBV:dB(V_(RMS)) – voltage relative to 1 volt, regardless of impedance.[43] This is used to measure microphone sensitivity, and also to specify the consumer line-level of , in order to reduce manufacturing costs relative to equipment using a  line-level signal.[44]
 

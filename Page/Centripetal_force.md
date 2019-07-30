@@ -5,7 +5,7 @@ One common example involving centripetal force is the case in which a body moves
 
 Formula
 
-    Velocity-acceleration.PNG
+
 
 The magnitude of the centripetal force on an object of mass _m_ moving at tangential speed _v_ along a path with radius of curvature _r_ is:[6]
 
@@ -48,7 +48,7 @@ which is the rate of change of relativistic momentum (γmv)
 
 Sources
 
-Centripetal_force_diagram.svg requires a centripetal force, towards the axis as shown, to maintain its circular path.]] In the case of an object that is swinging around on the end of a rope in a horizontal plane, the centripetal force on the object is supplied by the tension of the rope. The rope example is an example involving a 'pull' force. The centripetal force can also be supplied as a 'push' force, such as in the case where the normal reaction of a wall supplies the centripetal force for a wall of death rider.
+requires a centripetal force, towards the axis as shown, to maintain its circular path.]] In the case of an object that is swinging around on the end of a rope in a horizontal plane, the centripetal force on the object is supplied by the tension of the rope. The rope example is an example involving a 'pull' force. The centripetal force can also be supplied as a 'push' force, such as in the case where the normal reaction of a wall supplies the centripetal force for a wall of death rider.
 
 Newton's idea of a centripetal force corresponds to what is nowadays referred to as a central force. When a satellite is in orbit around a planet, gravity is considered to be a centripetal force even though in the case of eccentric orbits, the gravitational force is directed towards the focus, and not towards the instantaneous center of curvature.[9]
 
@@ -102,7 +102,7 @@ negative shows that the acceleration is pointed towards the center of the circle
 
 Derivation using vectors
 
-Circular_motion_vectors.svg and magnitude _dθ_ /_dt_.]] The image at right shows the vector relationships for uniform circular motion. The rotation itself is represented by the angular velocity vector Ω, which is normal to the plane of the orbit (using the right-hand rule) and has magnitude given by:
+and magnitude _dθ_ /_dt_.]] The image at right shows the vector relationships for uniform circular motion. The rotation itself is represented by the angular velocity vector Ω, which is normal to the plane of the orbit (using the right-hand rule) and has magnitude given by:
 
     $|\mathbf{\Omega}| = \frac {\mathrm{d} \theta } {\mathrm{d}t} = \omega \ ,$
 
@@ -148,8 +148,6 @@ A merit of the vector approach is that it is manifestly independent of any coord
 
 Example: The banked turn
 
-Banked_turn.svg
-
 The upper panel in the image at right shows a ball in circular motion on a banked curve. The curve is banked at an angle _θ_ from the horizontal, and the surface of the road is considered to be slippery. The objective is to find what angle the bank must have so the ball does not slide off the road.[11] Intuition tells us that, on a flat curve with no banking at all, the ball will simply slide off the road; while with a very steep banking, the ball will slide to the center unless it travels the curve rapidly.
 
 Apart from any acceleration that might occur in the direction of the path, the lower panel of the image above indicates the forces on the ball. There are _two_ forces; one is the force of gravity vertically downward through the center of mass of the ball _m_G, where _m_ is the mass of the ball and G is the gravitational acceleration; the second is the upward normal force exerted by the road at a right angle to the road surface _m_A_(n). The centripetal force demanded by the curved motion is also shown above. This centripetal force is not a third force applied to the ball, but rather must be provided by the net force on the ball resulting from vector addition of the normal force and the force of gravity. The resultant or net force on the ball found by vector addition of the normal force exerted by the road and vertical force due to gravity must equal the centripetal force dictated by the need to travel a circular path. The curved motion is maintained so long as this net force provides the centripetal force requisite to the motion.
@@ -175,8 +173,6 @@ As the angle of bank _θ_ approaches 90°, the tangent function approaches infin
 These ideas apply to air flight as well. See the FAA pilot's manual.[14]
 
 Nonuniform circular motion
-
-Nonuniform_circular_motion.svg
 
 As a generalization of the uniform circular motion case, suppose the angular rate of rotation is not constant. The acceleration now has a tangential component, as shown the image at right. This case is used to demonstrate a derivation strategy based on a polar coordinate system.
 
@@ -221,8 +217,6 @@ where |V| = _r_ ω is the magnitude of the velocity (the speed).
 These equations express mathematically that, in the case of an object that moves along a circular path with a changing speed, the acceleration of the body may be decomposed into a perpendicular component that changes the direction of motion (the centripetal acceleration), and a parallel, or tangential component, that changes the speed.
 
 General planar motion
-
-Polar_unit_vectors.PNG
 
 Polar coordinates
 
@@ -281,7 +275,7 @@ For trajectories other than circular motion, for example, the more general traje
 
 Local coordinates
 
-Local_unit_vectors.PNG at position _s_. The unit circle on the left shows the rotation of the unit vectors with _s_.]]
+at position _s_. The unit circle on the left shows the rotation of the unit vectors with _s_.]]
 
 Local coordinates mean a set of coordinates that travel with the particle,[22] and have orientation determined by the path of the particle.[23] Unit vectors are formed as shown in the image at right, both tangential and normal to the path. This coordinate system sometimes is referred to as _intrinsic_ or _path coordinates_[24][25] or _nt-coordinates_, for _normal-tangential_, referring to these unit vectors. These coordinates are a very special example of a more general concept of local coordinates from the theory of differential forms.[26]
 

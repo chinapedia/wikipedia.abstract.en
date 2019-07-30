@@ -275,7 +275,7 @@ Awards
 
 Trophy
 
-Premiership_trophy.jpg GoldInvinciblesTrophy.jpg for winning the 2003–04 title without defeat]] The Premier League maintains two trophies – the genuine trophy (held by the reigning champions) and a spare replica. Two trophies are held in the event that two clubs could win the League on the final day of the season.[87] In the rare event that more than two clubs are vying for the title on the final day of the season – then a replica won by a previous club is used.[88]
+for winning the 2003–04 title without defeat]] The Premier League maintains two trophies – the genuine trophy (held by the reigning champions) and a spare replica. Two trophies are held in the event that two clubs could win the League on the final day of the season.[87] In the rare event that more than two clubs are vying for the title on the final day of the season – then a replica won by a previous club is used.[88]
 
 The current Premier League trophy was created by Royal Jewellers Asprey of London. It consists of a trophy with a golden crown and a malachite plinth base. The plinth weighs and the trophy weighs .[89] The trophy and plinth are tall, wide and deep.[90]
 

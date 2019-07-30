@@ -5,8 +5,6 @@ Organization
 
 The office of the Chief of Defence is organised as follows:[5]
 
-File:Italian Defence organisation chart.jpg
-
   Position                            Italian title                                               Rank                        Incumbent
   ----------------------------------- ----------------------------------------------------------- --------------------------- --------------------------------
   Chief of the Defence Staff          Il Capo di Stato Maggiore della Difesa                      Generale                    Enzo Vecciarelli
@@ -35,7 +33,7 @@ The _Arma dei Carabinieri_ is the gendarmerie and military police of Italy. The 
 
 International stance
 
-Alpini_ISAF.jpg of the 4th Alpini Paratroopers Regiment in Afghanistan in 2007.]]
+of the 4th Alpini Paratroopers Regiment in Afghanistan in 2007.]]
 
 Italy has joined in many UN, NATO and EU operations as well as with assistance to Russia and the other CIS nations, Middle East peace process, peacekeeping, and combating the illegal drug trade, human trafficking, piracy and terrorism.
 
@@ -47,7 +45,7 @@ The Italian Army did not take part in combat operations of the 2003 Iraq War, di
 
 Operations
 
-Italian_Armed_Forces_operations.png.]] Since the second post-war the Italian armed force has become more and more engaged in international peace support operations, mainly under the auspices of the United Nations. The Italian armed forces are currently participating in 26 missions.[9]
+.]] Since the second post-war the Italian armed force has become more and more engaged in international peace support operations, mainly under the auspices of the United Nations. The Italian armed forces are currently participating in 26 missions.[9]
 
 -   -   UNMOGIP, since 1951 (India and Pakistan)
     -   UNTSO, since 1958 (Israel, Egypt, Syria and Lebanon)

@@ -51,18 +51,18 @@ Diatomic halogen molecules
 
 The halogens form homonuclear diatomic molecules (not proven for astatine). Due to relatively weak intermolecular forces, chlorine and fluorine form part of the group known as "elemental gases".
 
-+----------+----------+------------------------------+---------------------+---------------+---------------+
-| halogen  | molecule | structure                    | model               | _d_(X−X) / pm | _d_(X−X) / pm |
-|          |          |                              |                     | (gas phase)   | (solid phase) |
-+==========+==========+==============================+=====================+===============+===============+
-| fluorine | F₂       | Difluorine-2D-dimensions.png | Fluorine-3D-vdW.png | 143           | 149           |
-+----------+----------+------------------------------+---------------------+---------------+---------------+
-| chlorine | Cl₂      | Dichlorine-2D-dimensions.png | Chlorine-3D-vdW.png | 199           | 198           |
-+----------+----------+------------------------------+---------------------+---------------+---------------+
-| bromine  | Br₂      | Dibromine-2D-dimensions.png  | Bromine-3D-vdW.png  | 228           | 227           |
-+----------+----------+------------------------------+---------------------+---------------+---------------+
-| iodine   | I₂       | Diiodine-2D-dimensions.png   | Iodine-3D-vdW.png   | 266           | 272           |
-+----------+----------+------------------------------+---------------------+---------------+---------------+
++----------+----------+-----------+-------+---------------+---------------+
+| halogen  | molecule | structure | model | _d_(X−X) / pm | _d_(X−X) / pm |
+|          |          |           |       | (gas phase)   | (solid phase) |
++==========+==========+===========+=======+===============+===============+
+| fluorine | F₂       |           |       | 143           | 149           |
++----------+----------+-----------+-------+---------------+---------------+
+| chlorine | Cl₂      |           |       | 199           | 198           |
++----------+----------+-----------+-------+---------------+---------------+
+| bromine  | Br₂      |           |       | 228           | 227           |
++----------+----------+-----------+-------+---------------+---------------+
+| iodine   | I₂       |           |       | 266           | 272           |
++----------+----------+-----------+-------+---------------+---------------+
 
 The elements become less reactive and have higher melting points as the atomic number increases. The higher melting points are caused by stronger London dispersion forces resulting from more electrons.
 
@@ -159,7 +159,7 @@ Even though astatine is naturally occurring, it is usually produced by bombardin
 
 Tennessine is not on earth's crust, so it's made by fusing berkelium-249 and calcium-48 in laboratories.
 
-Halogens.jpg, bromine, and iodine at room temperature. Chlorine is a gas, bromine is a liquid, and iodine is a solid. Fluorine could not be included in the image due to its high reactivity, and astatine and tennessine due to their radioactivity.]]
+, bromine, and iodine at room temperature. Chlorine is a gas, bromine is a liquid, and iodine is a solid. Fluorine could not be included in the image due to its high reactivity, and astatine and tennessine due to their radioactivity.]]
 
 
 Applications

@@ -1,4 +1,4 @@
-Highlights_Day_1_-_22nd_World_University_Handball_Championship_2014_-_Guimares_-_Fisu.webm HANDBALL (also known as TEAM HANDBALL, EUROPEAN HANDBALL or OLYMPIC HANDBALL)[1] is a team sport in which two teams of seven players each (six outcourt players and a goalkeeper) pass a ball using their hands with the aim of throwing it into the goal of the other team. A standard match consists of two periods of 30 minutes, and the team that scores more goals wins.
+HANDBALL (also known as TEAM HANDBALL, EUROPEAN HANDBALL or OLYMPIC HANDBALL)[1] is a team sport in which two teams of seven players each (six outcourt players and a goalkeeper) pass a ball using their hands with the aim of throwing it into the goal of the other team. A standard match consists of two periods of 30 minutes, and the team that scores more goals wins.
 
 Modern handball is played on a court of , with a goal in the middle of each end. The goals are surrounded by a zone where only the defending goalkeeper is allowed; goals must be scored by throwing the ball from outside the zone or while "diving" into it. The sport is usually played indoors, but outdoor variants exist in the forms of field handball and Czech handball (which were more common in the past) and beach handball. The game is fast and high-scoring: professional teams now typically score between 20 and 35 goals each, though lower scores were not uncommon until a few decades ago. Body contact is permitted, the defenders trying to stop the attackers from approaching the goal. No protective equipment is mandated, but players may wear soft protective bands, pads and mouth guards.[2]
 
@@ -9,7 +9,7 @@ The International Handball Federation was formed in 1946 and, , has 197 member f
 
 Origins and development
 
-Stamps_of_Germany_(DDR)_1972,_MiNr_1757.jpg There is evidence of ancient Roman women playing a version of handball called _expulsim ludere_.[4] There are records of handball-like games in medieval France, and among the Inuit in Greenland, in the Middle Ages. By the 19th century, there existed similar games of _håndbold_ from Denmark, _házená_ in the Czech Republic, _handbol_ in Ukraine, and _torball_ in Germany.[5]
+There is evidence of ancient Roman women playing a version of handball called _expulsim ludere_.[4] There are records of handball-like games in medieval France, and among the Inuit in Greenland, in the Middle Ages. By the 19th century, there existed similar games of _håndbold_ from Denmark, _házená_ in the Czech Republic, _handbol_ in Ukraine, and _torball_ in Germany.[5]
 
 The team handball game of today was codified at the end of the 19th century in northern Europe: primarily in Denmark, Germany, Norway and Sweden. The first written set of team handball rules was published in 1906 by the Danish gym teacher, lieutenant and Olympic medalist Holger Nielsen from Ordrup grammar school, north of Copenhagen. The modern set of rules was published on 29 October 1917 by Max Heiser, Karl Schelenz, and Erich Konigh from Germany. After 1919 these rules were improved by Karl Schelenz. The first international games were played under these rules, between Germany and Belgium by men in 1925 and between Germany and Austria by women in 1930.
 
@@ -37,7 +37,7 @@ Notable scoring opportunities can occur when attacking players jump into the goa
 
 Playing court
 
-Handball_field_en.svg Rukometno_igralište_kod_Macanovog_doma,_Čakovec.2.jpg Handball is played on a court , with a goal in the centre of each end. The goals are surrounded by a near-semicircular area, called the zone or the crease, defined by a line six meters from the goal. A dashed near-semicircular line nine metres from the goal marks the free-throw line. Each line on the court is part of the area it encompasses. This implies that the middle line belongs to both halves at the same time.
+Handball is played on a court , with a goal in the centre of each end. The goals are surrounded by a near-semicircular area, called the zone or the crease, defined by a line six meters from the goal. A dashed near-semicircular line nine metres from the goal marks the free-throw line. Each line on the court is part of the area it encompasses. This implies that the middle line belongs to both halves at the same time.
 
 Goals
 
@@ -59,7 +59,7 @@ Outside of one long edge of the playing field to both sides of the middle line a
 
 Duration
 
-_Team_Time_Out_Handball.jpg A standard match has two 30-minute halves with a 10- to 15-minute halftime break. At half-time, teams switch sides of the court as well as benches. For youths, the length of the halves is reduced—25 minutes at ages 12 to 15, and 20 minutes at ages 8 to 11; though national federations of some countries may differ in their implementation from the official guidelines.[7]
+A standard match has two 30-minute halves with a 10- to 15-minute halftime break. At half-time, teams switch sides of the court as well as benches. For youths, the length of the halves is reduced—25 minutes at ages 12 to 15, and 20 minutes at ages 8 to 11; though national federations of some countries may differ in their implementation from the official guidelines.[7]
 
 If a decision must be reached in a particular match (e.g., in a tournament) and it ends in a draw after regular time, there are at maximum two overtimes, each consisting of two straight 5-minute periods with a one-minute break in between. Should these not decide the game either, the winning team is determined in a penalty shootout (best-of-five rounds; if still tied, extra rounds are added until one team wins).
 
@@ -70,8 +70,6 @@ Since 2012, teams can call 3 _team timeouts_ per game (up to two per half), whic
 Referees
 
 A handball match is adjudicated by two equal referees. Some national bodies allow games with only a single referee in special cases like illness on short notice. Should the referees disagree on any occasion, a decision is made on mutual agreement during a short timeout; or, in case of punishments, the more severe of the two comes into effect. The referees are obliged to make their decisions "on the basis of their observations of facts".[8] Their judgements are final and can be appealed against only if not in compliance with the rules.
-
-Kronau-Oestringen.jpg
 
 The referees position themselves in such a way that the team players are confined between them. They stand diagonally aligned so that each can observe one side line. Depending on their positions, one is called _field referee_ and the other _goal referee_. These positions automatically switch on ball turnover. They physically exchange their positions approximately every 10 minutes (long exchange), and change sides every five minutes (short exchange).
 
@@ -103,7 +101,7 @@ Each team is allowed to have a maximum of four team officials seated on the benc
 
 Ball
 
-Handball_the_ball.jpg The ball is spherical and must be made either of leather or a synthetic material. It is not allowed to have a shiny or slippery surface. As the ball is intended to be operated by a single hand, its official sizes vary depending on age and gender of the participating teams.
+The ball is spherical and must be made either of leather or a synthetic material. It is not allowed to have a shiny or slippery surface. As the ball is intended to be operated by a single hand, its official sizes vary depending on age and gender of the participating teams.
 
 +------+-------------------------------------------+---------------+---------------+--------+--------+
 | Size | Class                                     | Circumference | Circumference | Weight | Weight |
@@ -130,13 +128,11 @@ Goalkeeper-throw: If the ball crosses the outer goal line without interference f
 
 Free-throw: A free-throw restarts the play after an interruption by the referees. It takes places from the spot where the interruption was caused, as long as this spot is outside of the free-throw line of the opposing team. In the latter case, the throw is deferred to the nearest spot on the free-throw line. Free-throws are the equivalent to free-kicks in association football; however, conceding them is typically not seen as poor sportsmanship for the defending side, and in itself, they carry no major disadvantages. (In particular, being awarded a free throw while being on warning for passive play will not reset the warning, whereas a shot on goal will.) The thrower may take a direct attempt for a goal which, however, is rarely feasible if the defending team has organised a defense. However, if a free throw is awarded and the half or game ends, a direct throw at the goal is typically attempted, which occasionally goes in.
 
-Kr-Oe-Siebenmeter.jpg
-
 Seven-meter throw: A seven-meter throw is awarded when a clear chance of scoring is illegally prevented anywhere on the court by an opposing team player, official, or spectator. It is awarded also when the referees have interrupted a legitimate scoring chance for any reason. The thrower steps with one foot behind the  line with only the defending goalkeeper between him and the goal. The goalkeeper must keep a distance of , which is marked by a short tick on the floor. All other players must remain behind the free-throw line until execution and the defending field players must keep a distance of three meters. The thrower must await the whistle blow of the referee. A seven-meter throw is the equivalent to a penalty kick in association football; however, it is far more common and typically occurs several times in a single game.
 
 Penalties
 
-Yellow_card_handball.jpg Penalties are given to players, in progressive format, for fouls that require more punishment than just a free-throw. Actions directed mainly at the opponent and not the ball (such as reaching around, holding, pushing, tripping, and jumping into opponent) as well as contact from the side, from behind a player or impeding the opponent's counterattack are all considered illegal and are subject to penalty. Any infraction that prevents a clear scoring opportunity will result in a seven-meter penalty shot.
+Penalties are given to players, in progressive format, for fouls that require more punishment than just a free-throw. Actions directed mainly at the opponent and not the ball (such as reaching around, holding, pushing, tripping, and jumping into opponent) as well as contact from the side, from behind a player or impeding the opponent's counterattack are all considered illegal and are subject to penalty. Any infraction that prevents a clear scoring opportunity will result in a seven-meter penalty shot.
 
 Typically the referee will give a warning yellow card for an illegal action; but, if the contact was particularly dangerous, like striking the opponent in the head, neck or throat, the referee can forego the warning for an immediate two-minute suspension. Players are warned once before given a yellow card; they risk being red-carded if they draw three yellows.
 
@@ -149,7 +145,7 @@ Gameplay
 
 Formations
 
-5-1-Deckung.svg 6-0-Deckung.svg Players are typically referred to by the positions they are playing. The positions are always denoted from the view of the respective goalkeeper, so that a defender on the right opposes an attacker on the left. However, not all of the following positions may be occupied depending on the formation or potential suspensions.
+Players are typically referred to by the positions they are playing. The positions are always denoted from the view of the respective goalkeeper, so that a defender on the right opposes an attacker on the left. However, not all of the following positions may be occupied depending on the formation or potential suspensions.
 
 Offense
 
@@ -173,7 +169,7 @@ Offensive play
 
 Attacks are played with all field players on the side of the defenders. Depending on the speed of the attack, one distinguishes between three attack _waves_ with a decreasing chance of success:
 
-Mara_Friton_Handball.jpg Kiril_Lazarov_09.jpg, world record-holder for the number of goals scored in one world championship) ]]
+, world record-holder for the number of goals scored in one world championship) ]]
 
 First wave: _First wave_ attacks are characterised by the absence of defending players around their goal perimeter. The chance of success is very high, as the throwing player is unhindered in his scoring attempt. Such attacks typically occur after an intercepted pass or a steal, and if the defending team can switch fast to offence. The far left or far right will usually try to run the attack, as they are not as tightly bound in the defence. On a turnover, they immediately sprint forward and receive the ball halfway to the other goal. Thus, these positions are commonly held by quick players.
 Second wave: If the first wave is not successful and some defending players have gained their positions around the zone, the second wave comes into play: the remaining players advance with quick passes to locally outnumber the retreating defenders. If one player manages to step up to the perimeter or catches the ball at this spot, he becomes unstoppable by legal defensive means. From this position, the chance of success is naturally very high. Second wave attacks became much more important with the "fast throw-off" rule.
@@ -254,9 +250,9 @@ The current worldwide attendance record for seven-a-side handball was set on Sep
 
 Commemorative coins
 
-2004_Greece_10_Euro_OS_Handball_front.jpg]] Handball events have been selected as a main motif in numerous collectors' coins. One of the recent samples is the €10 Greek Handball commemorative coin, minted in 2003 to commemorate the 2004 Summer Olympics. On the coin, the modern athlete directs the ball in his hands towards his target, while in the background the ancient athlete is just about to throw a ball, in a game known as cheirosphaira, in a representation taken from a black-figure pottery vase of the Archaic period.[22]
+]] Handball events have been selected as a main motif in numerous collectors' coins. One of the recent samples is the €10 Greek Handball commemorative coin, minted in 2003 to commemorate the 2004 Summer Olympics. On the coin, the modern athlete directs the ball in his hands towards his target, while in the background the ancient athlete is just about to throw a ball, in a game known as cheirosphaira, in a representation taken from a black-figure pottery vase of the Archaic period.[22]
 
-The most recent commemorative coin featuring handball is the British 50 pence coin, part of the series of coins commemorating the London 2012 Olympic Games.[23] UK_Pound_50_pence_London_2012_Handball_coin.jpg
+The most recent commemorative coin featuring handball is the British 50 pence coin, part of the series of coins commemorating the London 2012 Olympic Games.[23]
 
 
 See also

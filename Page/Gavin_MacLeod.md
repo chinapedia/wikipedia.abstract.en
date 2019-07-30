@@ -20,7 +20,7 @@ Between 1957 and 1961, MacLeod made several television appearances. He was cast 
 
 In December 1961, he landed a guest role on _The Dick Van Dyke Show_ as Mel's cousin Maxwell Cooley, a wholesale jeweler. This was his first time working with Mary Tyler Moore. MacLeod had three guest appearances on _Perry Mason_: in 1961 he played Lawrence Comminger in "The Case of the Grumbling Grandfather", and in 1965 he played Mortimer Hershey in "The Case of the Grinning Gorilla", and Dan Platte in "The Case of the Runaway Racer". He played the role of a drug pusher, "Big Chicken", in two episodes of the first season of _Hawaii Five-O_. Other guest roles include _The Untouchables_, _Dr. Kildare_, _Rawhide_, _Gomer Pyle, U.S.M.C._, _The Man from U.N.C.L.E._, _My Favorite Martian_, _Hogan's Heroes_, _Combat!_, _The Big Valley_, _The Andy Griffith Show_, _It Takes a Thief_, _The Flying Nun_, _The King of Queens_, and _That '70s Show._
 
-Gavin_MacLeod_Betty_White_Mary_Tyler_Moore_Show_1975.JPG on set of _The Mary Tyler Moore Show_ in August 1975]]
+on set of _The Mary Tyler Moore Show_ in August 1975]]
 
 His first regular television role began in 1962 as Joseph "Happy" Haines on _McHale's Navy_; he left this role after two seasons to appear in the motion picture, _The Sand Pebbles_ with Steve McQueen.[7] Between the years of 1965 – 69, MacLeod appeared in many weekly episodes in multiple roles on the TV series _Hogan's Heroes_ including Major Zolle (season 1, episode 19), General Metzger (season 3, episode 27) Major Kiegel (season 4, episode 1) and General von Rauscher (season 4, episode 23). [8] These roles were usually a stern and discerning officer of the Schutzstaffel (SS), Luftwaffe or Geheime Staatspolizei (Gestapo) which are vastly different from the lovable characters he portrayed in his subsequent TV roles.
 
@@ -37,8 +37,6 @@ In April 2010, the entire cast of _The Love Boat_ attended the TV Land Awards wi
 MacLeod served as the honorary Mayor of Pacific Palisades for five years, until Ray Leonard succeeded him in 2011.[16] On February 28, 2011, MacLeod celebrated his 80th birthday aboard The Golden Princess on Princess Cruises in Los Angeles, California. His friends and family, wished him a Happy Birthday, and presented him with a 5 ft. long, 3D replica in cake of the original "Love Boat", representing _The Pacific Princess_.[17]
 
 Gavin appeared on the special for Betty White's 90th birthday on January 17, 2012. He reunited with White to film "Safety Old School Style", an in-flight safety video for Air New Zealand in 2013.[18] By January 2013, the video had been viewed two million times on YouTube. In October 2013, MacLeod appeared on _Today_ to begin the promotional tour for his new book _This Is Your Captain Speaking: My Fantastic Voyage Through Hollywood, Faith & Life_. This appearance included a special set change to honor McLeod's appearance on the show. In addition to television appearances, his book tour continued in New York, Los Angeles, and Central Florida. Loretta Swit and Ted Lange were both present at Gavin’s first Barnes & Noble book signing in New York City. This signing was the largest such event held at that particular location in three years. He continued his book tour throughout 2014.
-
-Gavin_Macleod.jpg
 
 On November 5, 2013, MacLeod joined his _Love Boat_ cast mates live on the CBS daytime show _The Talk_. A full one-hour episode was dedicated to the cast reunion. The _Talk_ co-hosts dressed in costumes to commemorate their special guests' arrivals. Spanish-American actress Charo also appeared on the reunion show. Charo guest starred in eight episodes of _The Love Boat_. Jack Jones performed the _Love Boat_ theme song, which he introduced in 1977.[19]
 
@@ -71,7 +69,7 @@ Filmography
 
 Film
 
-Gavin_McLeod_Mary_Tyler_Moore_Show_1975.jpg and Michael Higa on _The Mary Tyler Moore Show_ in May 1975]]
+and Michael Higa on _The Mary Tyler Moore Show_ in May 1975]]
 
   Year   Title                                 Role
   ------ ------------------------------------- -----------------------------------------------------

@@ -1,4 +1,4 @@
-Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg, the Milky Way's central black hole, flaring]]
+, the Milky Way's central black hole, flaring]]
 
 The EXPLORERS PROGRAM is a United States space exploration program that provides flight opportunities for physics, geophysics, heliophysics, and astrophysics investigations from space. Launched in 1958, Explorer 1 was USA's first spacecraft to achieve orbit. Over 90 space missions have been launched since. Starting with Explorer 6, it has been operated by NASA, with regular collaboration with a variety of other institutions, including many international partners.
 
@@ -9,11 +9,11 @@ Currently, the program is divided into _MIDEX_, _SMEX_, and _UNEX_, with select 
 
 History
 
-Sputnik_1.jpg Ignition_of_Jupiter-C_with_Explorer_1.jpg The Explorers Program was the United States's first successful attempt to launch an artificial satellite. It began as a U.S. Army proposal (Project Orbiter) to place a, "civilian", scientific satellite into orbit during the International Geophysical Year. That proposal was rejected in favor of the U.S. Navy's Project Vanguard, which included the first sub-orbital flight Vanguard TV0 in December 1956.
+The Explorers Program was the United States's first successful attempt to launch an artificial satellite. It began as a U.S. Army proposal (Project Orbiter) to place a, "civilian", scientific satellite into orbit during the International Geophysical Year. That proposal was rejected in favor of the U.S. Navy's Project Vanguard, which included the first sub-orbital flight Vanguard TV0 in December 1956.
 
 The Explorers Program was later reestablished to catch up with the Soviet Union its launch of Sputnik 1 on October 4, 1957 sparked the Sputnik crisis. Explorer 1 was launched on January 31, 1958, becoming the first U.S. satellite, as well as discovering the Van Allen radiation belt.
 
-M101_combined_low.jpg After NASA was established in 1958, the Explorers Program was transferred from the US Army. NASA continued to use the name for an ongoing series of relatively small space missions, typically an artificial satellite with a specific science focus. Explorer 6 in 1959 was the first scientific satellite under the project direction of NASA's Goddard Space Flight Center.[1][2]
+After NASA was established in 1958, the Explorers Program was transferred from the US Army. NASA continued to use the name for an ongoing series of relatively small space missions, typically an artificial satellite with a specific science focus. Explorer 6 in 1959 was the first scientific satellite under the project direction of NASA's Goddard Space Flight Center.[1][2]
 
 Over the following two decades, NASA has launched over 50 explorer missions, some in conjunction to military programs, usually of an exploratory or survey nature or had specific objectives not requiring the capabilities of a major observatory. Explorers satellites have made many important discoveries on: Earth's magnetosphere and the shape of its gravity field; the solar wind; properties of micrometeoroids raining down on the Earth; ultraviolet, cosmic, and X-rays from the Solar System and universe beyond; ionospheric physics; Solar plasma; solar energetic particles; and atmospheric physics. These missions have also investigated air density, radio astronomy, geodesy, and gamma ray astronomy.
 
@@ -405,7 +405,7 @@ Explorers name numbers can be found in the NSSDC master catalog, typically assig
 
 Cancelled missions
 
-WISE_artist_concept_(PIA17254,_crop).jpg Thor-Able_III_Explorer_6.jpg on a Thor-Able III launches in August 1959]] ISEE-C_(ISEE_3)_in_dynamic_test_chamber.jpg Many missions are proposed, but not selected. For example, in 2011, the Explorers Program received 22 full missions solicitations, 20 Missions of Opportunity, and 8 USPI.[175] Sometimes mission are only partially developed but must be stopped for financial, technological, or bureaucratic reasons. Some missions failed upon reaching orbit including WIRE and TERRIERS.
+on a Thor-Able III launches in August 1959]] Many missions are proposed, but not selected. For example, in 2011, the Explorers Program received 22 full missions solicitations, 20 Missions of Opportunity, and 8 USPI.[175] Sometimes mission are only partially developed but must be stopped for financial, technological, or bureaucratic reasons. Some missions failed upon reaching orbit including WIRE and TERRIERS.
 
 Examples of missions that were not developed or cancelled were:[176]
 

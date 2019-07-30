@@ -59,8 +59,6 @@ Elections in the 1930s
 
 Elections in the 1920s
 
-Henry_Williams.jpg Ramsay_MacDonald_ggbain_35734.jpg
-
 Elections in the 1910s
 
 -   Jones withdrew in favour of Edwards on 13 December 1918.

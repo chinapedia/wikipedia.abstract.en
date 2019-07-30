@@ -8,7 +8,7 @@ In contemporary philosophy, there are at least three prevailing ways to understa
 
 Concepts can be organized into a hierarchy, higher levels of which are termed "superordinate" and lower levels termed "subordinate". Additionally, there is the "basic" or "middle" level at which people will most readily categorize a concept.[5] For example, a basic-level concept would be "chair", with its superordinate, "furniture", and its subordinate, "easy chair".
 
-Generalization_process_using_trees_PNG_version.png.]]
+.]]
 
 A concept is instantiated (reified) by all of its actual or potential instances, whether these are things in the real world or other ideas.
 

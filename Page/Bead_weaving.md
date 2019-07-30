@@ -3,8 +3,6 @@ BEAD WEAVING (or BEADWEAVING) using seed beads can be done either on a loom or u
 
 On-loom beadweaving
 
-Apachebeadloom1903.png
-
 When weaving on a loom, the beads are locked in between the warp threads by the weft threads. The most common bead weaving technique requires two passes of the weft thread. First, an entire row of beads is strung on the weft thread. Then the beads are pressed in between the warp threads. The needle is passed back through the beads above the warp threads to lock the beads into place. Heddle looms were popular near the beginning of the 20th century. They allowed weaving of beads by raising every other thread and inserting strung beads in the shed, the space between the lowered and raised threads. There are still a few Heddle Bead Looms being manufactured today. The most difficult part of loomwork is finishing off the warp threads.
 
 Although loomed pieces are typically rectangular, it is possible to increase and decrease to produce angular or curvy shapes. Fringe can also be added during weaving or before the piece is removed from the loom.
@@ -14,7 +12,7 @@ Bead looms vary in size and are typically made of wood or metal. Usually, a comb
 
 Off-loom beadweaving
 
-Bead_Weaving,_Sarawak_(7246866286).jpg Bracelet_in_progress_on_a_bead_weaving_loom_25Jan2011_arp.jpg in progress on a bead weaving loom]]
+in progress on a bead weaving loom]]
 
 Off-loom beadweaving is a family of beadwork techniques in which seed beads are woven together into a flat fabric, a tubular rope, or a three-dimensional object such as a ball, clasp, box, or a piece of jewelry. All off-loom techniques can be accomplished using a single needle and thread (no warp threads), but some have two-needle variations. Different stitches produce pieces with distinct textures, shapes, and patterns. There are many different off-loom bead stitches, including new stitches (distinct thread paths) published only in 2015:
 

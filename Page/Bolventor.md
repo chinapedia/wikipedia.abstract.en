@@ -15,7 +15,7 @@ Daphne du Maurier, a former resident, chose Bolventor as the setting for her nov
 
 Church
 
-Holy_Trinity_Church,_Bolventor_-_geograph.org.uk_-_794080.jpg The former Holy Trinity Church that lies to the east of the hamlet closed some years ago. A mile from Bolventor there was a chapel of St Luke (from the 13th to the early 16th century): the font is now at the church of Tideford.[3] Bolventor parish was established in 1846 (before that date the village was in St Neot parish; the new parish was made up of parts of St Neot, Altarnun and Cardinham parishes[4]) but has now been merged with Altarnun.
+The former Holy Trinity Church that lies to the east of the hamlet closed some years ago. A mile from Bolventor there was a chapel of St Luke (from the 13th to the early 16th century): the font is now at the church of Tideford.[3] Bolventor parish was established in 1846 (before that date the village was in St Neot parish; the new parish was made up of parts of St Neot, Altarnun and Cardinham parishes[4]) but has now been merged with Altarnun.
 
 
 References

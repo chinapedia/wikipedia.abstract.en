@@ -1,4 +1,4 @@
-TalkingDrum.jpg]] Juke_joint_drummer.jpg]] Ceremonial_drum.jpg Congas.JPG drums]]
+]] ]] drums]]
 
 The DRUM is a member of the percussion group of musical instruments. In the Hornbostel-Sachs classification system, it is a membranophone.[1] Drums consist of at least one membrane, called a drumhead or drum skin, that is stretched over a shell and struck, either directly with the player's hands, or with a percussion mallet, to produce sound. There is usually a _resonance head_ on the underside of the drum, typically tuned to a slightly lower pitch than the top drumhead. Other techniques have been used to cause drums to make sound, such as the thumb roll. Drums are the world's oldest and most ubiquitous musical instruments, and the basic design has remained virtually unchanged for thousands of years.[2]
 
@@ -16,8 +16,6 @@ Drums acquired even divine status in places such as Burundi, where the _karyenda
 
 Construction
 
-DrumMozartRegiment.jpg
-
 The shell almost always has a circular opening over which the drumhead is stretched, but the shape of the remainder of the shell varies widely. In the Western musical tradition, the most usual shape is a cylinder, although timpani, for example, use bowl-shaped shells.[4] Other shapes include a frame design (tar, Bodhrán), truncated cones (bongo drums, Ashiko), goblet shaped (djembe), and joined truncated cones (talking drum).
 
 Drums with cylindrical shells can be open at one end (as is the case with timbales), or can have two drum heads, one head on each end. Single-headed drums typically consist of a skin stretched over an enclosed space, or over one of the ends of a hollow vessel. Drums with two heads covering both ends of a cylindrical shell often have a small hole somewhat halfway between the two heads; the shell forms a resonating chamber for the resulting sound. Exceptions include the African slit drum, also known as a log drum as it is made from a hollowed-out tree trunk, and the Caribbean steel drum, made from a metal barrel. Drums with two heads can also have a set of wires, called snares, held across the bottom head, top head, or both heads, hence the name snare drum.[5] On some drums with two heads, a hole or bass reflex port may be cut or installed onto one head, as with some 2010s era bass drums in rock music.
@@ -29,7 +27,7 @@ Prior to the invention of tension rods, drum skins were attached and tuned by ro
 
 Sound
 
-Drums_for_sale_at_the_National_Museum_of_the_American_Indian.jpg-style drums for sale at the National Museum of the American Indian]]
+-style drums for sale at the National Museum of the American Indian]]
 
 Several factors determine the sound a drum produces, including the type, shape and construction of the drum shell, the type of drum heads it has, and the tension of these drumheads. Different drum sounds have different uses in music. For example, the modern Tom-tom drum. A jazz drummer may want drums that are high pitched, resonant and quiet whereas a rock drummer may prefer drums that are loud, dry and low-pitched.
 
@@ -42,7 +40,7 @@ The type of shell also affects the sound of a drum. Because the vibrations reson
 
 History
 
-MocheDrum.jpg ceramic vessel depicting a drummer. Larco Museum Collection. Lima-Peru]]
+ceramic vessel depicting a drummer. Larco Museum Collection. Lima-Peru]]
 
 Drums made with alligator skins have been found in Neolithic cultures located in China, dating to a period of 5500–2350 BC. In literary records, drums manifested shamanistic characteristics and were often used in ritual ceremonies.[9]
 
@@ -71,7 +69,7 @@ The Rig Veda, one of the oldest religious scriptures in the world, contains seve
 
 Types
 
-Gu_Hongzhong's_Night_Revels,_Detail_6.jpg's 10th-century originals, Song dynasty.]]
+'s 10th-century originals, Song dynasty.]]
 
 -   Aburukuwa
 -   Ashiko

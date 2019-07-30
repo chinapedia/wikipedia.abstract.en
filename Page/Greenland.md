@@ -22,7 +22,7 @@ History
 
 Early Paleo-Eskimo cultures
 
-Arctic_cultures_900-1500.png; blue: Thule Culture; red: Norse culture; yellow: Innu; orange: Beothuk.]]
+; blue: Thule Culture; red: Norse culture; yellow: Innu; orange: Beothuk.]]
 
 In prehistoric times, Greenland was home to several successive Paleo-Eskimo cultures known today primarily through archaeological finds. The earliest entry of the Paleo-Eskimo into Greenland is thought to have occurred about 2500 BC. From around 2500 BC to 800 BC, southern and western Greenland were inhabited by the Saqqaq culture. Most finds of Saqqaq-period archaeological remains have been around Disko Bay, including the site of Saqqaq, after which the culture is named.[19][20]
 
@@ -32,7 +32,7 @@ Around 800 BC, the Saqqaq culture disappeared and the Early Dorset culture emer
 
 Norse settlement
 
-From 986, Greenland's west coast was settled by Icelanders and Norwegians, through a contingent of 14 boats led by Erik the Red. They formed three settlements—known as the Eastern Settlement, the Western Settlement and the Middle Settlement—on fjords near the southwestern-most tip of the island.[29][30] They shared the island with the late Dorset culture inhabitants who occupied the northern and western parts, and later with the Thule culture that entered from the north. Norse Greenlanders submitted to Norwegian rule in 1261 under the Kingdom of Norway (872–1397). Later the Kingdom of Norway entered into a personal union with Denmark in 1380, and from 1397 was a part of the Kalmar Union.[31] Gron-rune-kingigtorssuaq.jpg from Kingittorsuaq Island (Middle Ages)]]
+From 986, Greenland's west coast was settled by Icelanders and Norwegians, through a contingent of 14 boats led by Erik the Red. They formed three settlements—known as the Eastern Settlement, the Western Settlement and the Middle Settlement—on fjords near the southwestern-most tip of the island.[29][30] They shared the island with the late Dorset culture inhabitants who occupied the northern and western parts, and later with the Thule culture that entered from the north. Norse Greenlanders submitted to Norwegian rule in 1261 under the Kingdom of Norway (872–1397). Later the Kingdom of Norway entered into a personal union with Denmark in 1380, and from 1397 was a part of the Kalmar Union.[31] from Kingittorsuaq Island (Middle Ages)]]
 
 Erik the Red's recruitment of others to settle in Greenland has been characterized recently as a land scam, the scam (and the name) portraying Greenland as better farm land than in Iceland.[32]
 
@@ -40,7 +40,7 @@ The Norse settlements, such as Brattahlíð, thrived for centuries but disappear
 
 Icelandic saga accounts of life in Greenland were composed in the 13th century and later, and do not constitute primary sources for the history of early Norse Greenland.[34] Modern understanding therefore mostly depends on the physical data from archeological sites. Interpretation of ice core and clam shell data suggests that between 800 and 1300, the regions around the fjords of southern Greenland experienced a relatively mild climate several degrees Celsius higher than usual in the North Atlantic,[35] with trees and herbaceous plants growing, and livestock being farmed. Barley was grown as a crop up to the 70th parallel.[36] What is verifiable is that the ice cores indicate Greenland has had dramatic temperature shifts many times over the past 100,000 years.[37] Similarly the Icelandic Book of Settlements records famines during the winters, in which "the old and helpless were killed and thrown over cliffs".[38]
 
-Hvalsey_Church.jpg Greenlanders records a marriage which took place in 1408 in the church of Hvalsey—today the best-preserved Nordic ruins in Greenland.]] These Icelandic settlements vanished during the 14th and early 15th centuries.[39] The demise of the Western Settlement coincides with a decrease in summer and winter temperatures. A study of North Atlantic seasonal temperature variability during the Little Ice Age showed a significant decrease in maximum summer temperatures beginning in the late 13th century to early 14th century—as much as lower than modern summer temperatures.[40] The study also found that the lowest winter temperatures of the last 2000 years occurred in the late 14th century and early 15th century. The Eastern Settlement was likely abandoned in the early to mid-15th century, during this cold period.
+Greenlanders records a marriage which took place in 1408 in the church of Hvalsey—today the best-preserved Nordic ruins in Greenland.]] These Icelandic settlements vanished during the 14th and early 15th centuries.[39] The demise of the Western Settlement coincides with a decrease in summer and winter temperatures. A study of North Atlantic seasonal temperature variability during the Little Ice Age showed a significant decrease in maximum summer temperatures beginning in the late 13th century to early 14th century—as much as lower than modern summer temperatures.[40] The study also found that the lowest winter temperatures of the last 2000 years occurred in the late 14th century and early 15th century. The Eastern Settlement was likely abandoned in the early to mid-15th century, during this cold period.
 
 Theories drawn from archeological excavations at Herjolfsnes in the 1920s, suggest that the condition of human bones from this period indicates that the Norse population was malnourished, maybe due to soil erosion resulting from the Norsemen's destruction of natural vegetation in the course of farming, turf-cutting, and wood-cutting. Malnutrition may also have resulted from widespread deaths due to pandemic plague;[41] the decline in temperatures during the Little Ice Age; and armed conflicts with the _Skrælings_ (Norse word for Inuit, meaning "wretches"[42]). In 1379, the Inuit attacked the Eastern Settlement, killed 18 men and captured two boys and a woman.[43] Recent archeological studies somewhat challenge the general assumption that the Norse colonisation had a dramatic negative environmental effect on the vegetation. Data support traces of a possible Norse soil amendment strategy.[44] More recent evidence suggests that the Norse, who never numbered more than about 2,500, gradually abandoned the Greenland settlements over the 1400s as walrus ivory,[45] the most valuable export from Greenland, decreased in price due to competition with other sources of higher-quality ivory, and that there was actually little evidence of starvation or difficulties.[46]
 
@@ -53,21 +53,17 @@ Other theories about the disappearance of the Norse settlement have been propose
 
 Thule culture (1300–present)
 
-Billeder_fra_Grønland_11441.tif The Thule people are the ancestors of the current Greenlandic population. No genes from the Paleo-Eskimos have been found in the present population of Greenland.[52] The Thule Culture migrated eastward from what is now known as Alaska around 1000, reaching Greenland around 1300. The Thule culture was the first to introduce to Greenland such technological innovations as dog sleds and toggling harpoons.
+The Thule people are the ancestors of the current Greenlandic population. No genes from the Paleo-Eskimos have been found in the present population of Greenland.[52] The Thule Culture migrated eastward from what is now known as Alaska around 1000, reaching Greenland around 1300. The Thule culture was the first to introduce to Greenland such technological innovations as dog sleds and toggling harpoons.
 
 1500–1814
 
 In 1500, King Manuel I of Portugal sent Gaspar Corte-Real to Greenland in search of a Northwest Passage to Asia which, according to the Treaty of Tordesillas, was part of Portugal's sphere of influence. In 1501, Corte-Real returned with his brother, Miguel Corte-Real. Finding the sea frozen, they headed south and arrived in Labrador and Newfoundland. Upon the brothers' return to Portugal, the cartographic information supplied by Corte-Real was incorporated into a new map of the world which was presented to Ercole I d'Este, Duke of Ferrara, by Alberto Cantino in 1502. The _Cantino_ planisphere, made in Lisbon, accurately depicts the southern coastline of Greenland.[53]
 
-Old_Greenland_1747.jpg
-
 In 1605–1607, King Christian IV of Denmark sent a series of expeditions to Greenland and Arctic waterways to locate the lost eastern Norse settlement and assert Danish sovereignty over Greenland. The expeditions were mostly unsuccessful, partly due to leaders who lacked experience with the difficult arctic ice and weather conditions, and partly because the expedition leaders were given instructions to search for the Eastern Settlement on the east coast of Greenland just north of Cape Farewell, which is almost inaccessible due to southward drifting ice. The pilot on all three trips was English explorer James Hall.
 
-Legende_børn,_ca._1878_(8473597948).jpg in Greenland, c. 1878]] After the Norse settlements died off, Greenland came under the de facto control of various Inuit groups, but the Danish government never forgot or relinquished the claims to Greenland that it had inherited from the Norse. When it re-established contact with Greenland in the early 17th century, Denmark asserted its sovereignty over the island. In 1721, a joint mercantile and clerical expedition led by Danish-Norwegian missionary Hans Egede was sent to Greenland, not knowing whether a Norse civilization remained there. This expedition is part of the Dano-Norwegian colonization of the Americas. After 15 years in Greenland, Hans Egede left his son Paul Egede in charge of the mission there and returned to Denmark, where he established a Greenland Seminary. This new colony was centred at Godthåb ("Good Hope") on the southwest coast. Gradually, Greenland was opened up to Danish merchants, and closed to those from other countries.
+in Greenland, c. 1878]] After the Norse settlements died off, Greenland came under the de facto control of various Inuit groups, but the Danish government never forgot or relinquished the claims to Greenland that it had inherited from the Norse. When it re-established contact with Greenland in the early 17th century, Denmark asserted its sovereignty over the island. In 1721, a joint mercantile and clerical expedition led by Danish-Norwegian missionary Hans Egede was sent to Greenland, not knowing whether a Norse civilization remained there. This expedition is part of the Dano-Norwegian colonization of the Americas. After 15 years in Greenland, Hans Egede left his son Paul Egede in charge of the mission there and returned to Denmark, where he established a Greenland Seminary. This new colony was centred at Godthåb ("Good Hope") on the southwest coast. Gradually, Greenland was opened up to Danish merchants, and closed to those from other countries.
 
 Treaty of Kiel to World War II
-
-EricTheRedsLand.gif
 
 When the union between the crowns of Denmark and Norway was dissolved in 1814, the Treaty of Kiel severed Norway's former colonies and left them under the control of the Danish monarch. Norway occupied then-uninhabited eastern Greenland as Erik the Red's Land in July 1931, claiming that it constituted _terra nullius_. Norway and Denmark agreed to submit the matter in 1933 to the Permanent Court of International Justice, which decided against Norway.[54]
 
@@ -79,7 +75,7 @@ Greenland had been a protected and very isolated society until 1940. The Danish 
 
 Home rule and self-rule
 
-Golfbane_Nuuk.JPG'', the Greenlandic language secretariat, located in the _Ilimmarfik_ University of Greenland, Nuuk.]]
+'', the Greenlandic language secretariat, located in the _Ilimmarfik_ University of Greenland, Nuuk.]]
 
 Following World War II, the United States developed a geopolitical interest in Greenland, and in 1946 the United States offered to buy the island from Denmark for $100,000,000. Denmark refused to sell it.[57][58] In the 21st century, the United States, according to WikiLeaks, remains highly interested in investing in the resource base of Greenland and in tapping hydrocarbons off the Greenlandic coast.[59][60]
 
@@ -94,11 +90,7 @@ On 21 June 2009, Greenland gained self-rule with provisions for assuming respons
 
 Geography and climate
 
-Greenland_map_of_Köppen_climate_classification.png Greenland_ice_sheet_AMSL_thickness_map-en.png Topographic_map_of_Greenland_bedrock.jpg
-
 Greenland is the world's largest non-continental island[73] and the third largest country in North America.[74] It is between latitudes 59° and 83°N, and longitudes 11° and 74°W. Greenland is bordered by the Arctic Ocean to the north, the Greenland Sea to the east, the North Atlantic Ocean to the southeast, the Davis Strait to the southwest, Baffin Bay to the west, and the Nares Strait to the northwest. The nearest countries are Canada, to the west and southwest across Nares Strait and Baffin Bay; and Iceland, southeast of Greenland in the Atlantic Ocean. Greenland also contains the world's largest national park, and it is the largest dependent territory by area in the world, as well as the fourth largest country subdivision in the world, after Sakha Republic in Russia, Australia's state of Western Australia, and Russia's Krasnoyarsk Krai, and the largest in North America.
-
-17-08-islcanus-RalfR-DSC_3282.jpg
 
 The average daily temperature of Nuuk varies over the seasons from . The total area of Greenland is (including other offshore minor islands), of which the Greenland ice sheet covers (81%) and has a volume of approximately .[75] The highest point on Greenland is Gunnbjørn Fjeld at of the Watkins Range (East Greenland mountain range). The majority of Greenland, however, is less than in elevation.
 
@@ -108,11 +100,9 @@ The ice flows generally to the coast from the centre of the island. A survey led
 
 All towns and settlements of Greenland are situated along the ice-free coast, with the population being concentrated along the west coast. The northeastern part of Greenland is not part of any municipality, but it is the site of the world's largest national park, Northeast Greenland National Park.[80]
 
-Greenlandmountains.jpg
-
 At least four scientific expedition stations and camps had been established on the ice sheet in the ice-covered central part of Greenland (indicated as pale blue in the adjacent map): Eismitte, North Ice, North GRIP Camp and The Raven Skiway. There is a year-round station Summit Camp on the ice sheet, established in 1989. The radio station Jørgen Brønlund Fjord was, until 1950, the northernmost permanent outpost in the world.
 
-Vatnahverfi.jpg. Hay is harvested in Igaliku, Kujalleq.]]
+. Hay is harvested in Igaliku, Kujalleq.]]
 
 The extreme north of Greenland, Peary Land, is not covered by an ice sheet, because the air there is too dry to produce snow, which is essential in the production and maintenance of an ice sheet. If the Greenland ice sheet were to melt away completely, the world's sea level would rise by more than .[81]
 
@@ -122,7 +112,7 @@ In 2007 the existence of a new island was announced. Named "Uunartoq Qeqertaq" (
 
 Climate change
 
-Between 1989 and 1993, US and European climate researchers drilled into the summit of Greenland's ice sheet, obtaining a pair of long ice cores. Analysis of the layering and chemical composition of the cores has provided a revolutionary new record of climate change in the Northern Hemisphere going back about 100,000 years and illustrated that the world's weather and temperature have often shifted rapidly from one seemingly stable state to another, with worldwide consequences.[86] The glaciers of Greenland are also contributing to a rise in the global sea level faster than was previously believed.[87] Between 1991 and 2004, monitoring of the weather at one location (Swiss Camp) showed that the average winter temperature had risen almost .[88] Other research has shown that higher snowfalls from the North Atlantic oscillation caused the interior of the ice cap to thicken by an average of /y between 1994 and 2005.[89] However, a recent study suggests a much warmer planet in relatively recent geological times:[90] Scientists who probed through a Greenland glacier to recover the oldest plant DNA on record said that the planet was far warmer hundreds of thousands of years ago than is generally believed. DNA of trees, plants, spiders and insects including butterflies from beneath the southern Greenland glacier was estimated to date to 450,000 to 900,000 years ago, according to the remnants retrieved from this long-vanished boreal forest. That view contrasts sharply with the prevailing one that a lush forest of this kind could not have existed in Greenland any later than 2.4 million years ago. These DNA samples suggest that the temperature probably reached in the summer and in the winter. They also indicate that during the last interglacial period, 130,000–116,000 years ago, when local temperatures were on average higher than now, the glaciers on Greenland did not completely melt away.Scoresby-sund_view_hg.jpg in eastern Greenland, one of the largest sund-fjord systems in the world]]
+Between 1989 and 1993, US and European climate researchers drilled into the summit of Greenland's ice sheet, obtaining a pair of long ice cores. Analysis of the layering and chemical composition of the cores has provided a revolutionary new record of climate change in the Northern Hemisphere going back about 100,000 years and illustrated that the world's weather and temperature have often shifted rapidly from one seemingly stable state to another, with worldwide consequences.[86] The glaciers of Greenland are also contributing to a rise in the global sea level faster than was previously believed.[87] Between 1991 and 2004, monitoring of the weather at one location (Swiss Camp) showed that the average winter temperature had risen almost .[88] Other research has shown that higher snowfalls from the North Atlantic oscillation caused the interior of the ice cap to thicken by an average of /y between 1994 and 2005.[89] However, a recent study suggests a much warmer planet in relatively recent geological times:[90] Scientists who probed through a Greenland glacier to recover the oldest plant DNA on record said that the planet was far warmer hundreds of thousands of years ago than is generally believed. DNA of trees, plants, spiders and insects including butterflies from beneath the southern Greenland glacier was estimated to date to 450,000 to 900,000 years ago, according to the remnants retrieved from this long-vanished boreal forest. That view contrasts sharply with the prevailing one that a lush forest of this kind could not have existed in Greenland any later than 2.4 million years ago. These DNA samples suggest that the temperature probably reached in the summer and in the winter. They also indicate that during the last interglacial period, 130,000–116,000 years ago, when local temperatures were on average higher than now, the glaciers on Greenland did not completely melt away. in eastern Greenland, one of the largest sund-fjord systems in the world]]
 
 Postglacial glacier advances on the peninsula Nuussuaq
 
@@ -131,7 +121,7 @@ The 1310 m-high Qaqugdluit-mountain-land on the south-side of the peninsula Nuus
 
 Biodiversity
 
-Greenland-musk-ox_hg.jpg in Greenland]]
+in Greenland]]
 
 There are approximately 700 known species of insects in Greenland, which is low compared with other countries (over one million species have been described worldwide). The sea is rich in fish and invertebrates, especially in the milder West Greenland Current; a large part of the Greenland fauna is associated with marine-based food chains, including large colonies of seabirds. The few native land mammals in Greenland include the polar bear, reindeer (introduced by Europeans), arctic fox, arctic hare, musk ox, collared lemming, ermine, and arctic wolf. The last four are found naturally only in East Greenland, having immigrated from Ellesmere Island. There are dozens of species of seals and whales along the coast. Land fauna consists predominantly of animals which have spread from North America or, in the case of many birds and insects, from Europe. There are no native or free-living reptiles or amphibians on the island.[96]
 
@@ -148,7 +138,7 @@ Birds, particularly seabirds, are an important part of Greenland's animal life; 
 
 Politics
 
-Nuuk-centrum.jpg EU_OCT_and_OMR_map_en.png]]
+]]
 
 The Kingdom of Denmark is a constitutional monarchy, in which Queen Margrethe II is the head of state. The monarch officially retains executive power and presides over the Council of State (privy council).[100][101] However, following the introduction of a parliamentary system of government, the duties of the monarch have since become strictly representative and ceremonial,[102] such as the formal appointment and dismissal of the Prime Minister and other ministers in the executive government. The monarch is not answerable for his or her actions, and the monarch's person is sacrosanct.[103]
 
@@ -161,8 +151,6 @@ The non-binding 2008 referendum on self-governance favoured increased self-gover
 In 1985, Greenland left the European Economic Community (EEC), unlike Denmark, which remains a member. The EEC later became the European Union (EU, renamed and expanded in scope in 1992). Greenland retains some ties with the EU via Denmark. However, EU law largely does not apply to Greenland except in the area of trade.
 
 Government
-
-Greenland-municipalities-2018.svg
 
 Greenland's head of state is Margrethe II, Queen regnant of Denmark. The Queen's government in Denmark appoints a High Commissioner (_Rigsombudsmand_) to represent it on the island. The commissioner is Mikaela Engell.
 
@@ -177,9 +165,9 @@ Formerly consisting of three counties comprising a total of 18 municipalities, G
 
 Economy
 
-Greenland_Exports_Treemap_2017.svg The Greenlandic economy is highly dependent on fishing. Fishing accounts for more than 90% of Greenland's exports.[105] The shrimp and fish industry is by far the largest income earner.[106]
+The Greenlandic economy is highly dependent on fishing. Fishing accounts for more than 90% of Greenland's exports.[105] The shrimp and fish industry is by far the largest income earner.[106]
 
-Greenland is abundant in minerals.[107] Mining of ruby deposits began in 2007. Other mineral prospects are improving as prices are increasing. These include iron, uranium, aluminium, nickel, platinum, tungsten, titanium, and copper. Despite resumption of several hydrocarbon and mineral exploration activities, it will take several years before hydrocarbon production can materialize. The state oil company Nunaoil was created to help develop the hydrocarbon industry in Greenland. The state company Nunamineral has been launched on the Copenhagen Stock Exchange to raise more capital to increase the production of gold, started in 2007. Tasiilaq.jpg municipality in southeastern Greenland]] Akamalik-royal-greenland-sisimiut-port.jpg fishing vessel "Akamalik", anchored at Sisimiut]]
+Greenland is abundant in minerals.[107] Mining of ruby deposits began in 2007. Other mineral prospects are improving as prices are increasing. These include iron, uranium, aluminium, nickel, platinum, tungsten, titanium, and copper. Despite resumption of several hydrocarbon and mineral exploration activities, it will take several years before hydrocarbon production can materialize. The state oil company Nunaoil was created to help develop the hydrocarbon industry in Greenland. The state company Nunamineral has been launched on the Copenhagen Stock Exchange to raise more capital to increase the production of gold, started in 2007. municipality in southeastern Greenland]] fishing vessel "Akamalik", anchored at Sisimiut]]
 
 Electricity has traditionally been generated by oil or diesel power plants, even if there is a large surplus of potential hydropower. There is a programme to build hydro power plants. The first, and still the largest, is Buksefjord hydroelectric power plant.
 
@@ -193,7 +181,7 @@ Greenland suffered an economic contraction in the early 1990s. But, since 1993, 
 
 Transportation
 
-AirGreenland_Airbus_(11832722805).jpg Airbus A330-200 in-flight]] The_Town_of_Ilulissat,_Greenland,_as_Seen_From_Secretary_Kerry's_Plane_(27795542865).jpg]]
+Airbus A330-200 in-flight]] ]]
 
 Air transportation exists both within Greenland and between the island and other nations. There is also scheduled boat traffic, but the long distances lead to long travel times and low frequency. There are virtually no roads between cities because the coast has many fjords that would require ferry service to connect a road network. The only exception is a gravel road of 3 miles length between Kangilinnguit and the now abandoned former cryolite mining town of Ivittuut.[110] In addition, the lack of agriculture, forestry and similar countryside activities has meant that very few countryside roads have been built.
 
@@ -210,13 +198,11 @@ Population
 
 Demographics
 
-Kulusuk,_Inuit_couple_(6822265499).jpg Inuit couple from Kulusuk]]
+Inuit couple from Kulusuk]]
 
 Greenland has a population of 56,370 (January 2013 estimate),[116] of whom 88% are Greenlandic Inuit (including Danish-Inuit mixed). The remaining 12% of people are of European descent, mainly Greenland Danes. Several thousand Greenlandic Inuit reside in the Danish Peninsula. The majority of the population is Lutheran. Nearly all Greenlanders live along the fjords in the south-west of the main island, which has a relatively mild climate.[117] More than 17,000 people reside in Nuuk, the capital city. Greenland's warmest climates such as the vegetated area around Narsarsuaq are sparsely populated, whereas the majority of the population lives north of 64°N in colder coastal climates.
 
 Languages
-
-Parkverbot_Grönland.jpg
 
 Both Greenlandic (an Eskimo–Aleut language) and Danish have been used in public affairs since the establishment of home rule in 1979; the majority of the population can speak both languages. Greenlandic became the sole official language in June 2009,[118] In practice, Danish is still widely used in the administration and in higher education, as well as remaining the first or only language for some Danish immigrants in Nuuk and other larger towns. Debate about the roles of Greenlandic and Danish in the country's future is ongoing. The orthography of Greenlandic was established in 1851[119] and revised in 1973. The country has a 100% literacy rate.[120]
 
@@ -234,7 +220,7 @@ Education is organised in a similar way to Denmark. There is ten year mandatory 
 
 Religion
 
-Nanortalik_church.jpg, have their own church.]]
+, have their own church.]]
 
 The nomadic Inuit people were traditionally shamanistic, with a well-developed mythology primarily concerned with appeasing a vengeful and fingerless sea goddess who controlled the success of the seal and whale hunts.
 
@@ -255,7 +241,7 @@ The rate of suicide in Greenland is very high. According to a 2010 census, Green
 
 Culture
 
-Nive_Nielsen_Rudolstadt_01.jpg, Greenlandic singer and songwriter]] Inuk_Silis_Høegh,_Tommi_Kainulainen_-_WOMEX_15,_Budapest,_2015.10.22_(1).JPG at the launch of his movie about groundbreaking Greenlandic band Sumé. Journalist and Sumé's record producer Karsten Sommer is speaking.]]
+, Greenlandic singer and songwriter]] at the launch of his movie about groundbreaking Greenlandic band Sumé. Journalist and Sumé's record producer Karsten Sommer is speaking.]]
 
 Today Greenlandic culture is a blending of traditional Inuit (Kalaallit) and Scandinavian culture. Inuit, or Kalaallit, culture has a strong artistic tradition, dating back thousands of years. The Kalaallit are known for an art form of figures called _tupilak_ or a "spirit object." Traditional art-making practices thrive in the _Ammassalik_.[136] Sperm whale ivory remains a valued medium for carving.[137]
 

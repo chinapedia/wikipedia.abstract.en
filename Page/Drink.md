@@ -1,4 +1,4 @@
-Nice_Cup_of_Tea.jpg A DRINK (or BEVERAGE) is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, coffee, tea, hot chocolate, juice and soft drinks. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the drug ethanol, have been part of human culture for more than 8,000 years.
+A DRINK (or BEVERAGE) is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, coffee, tea, hot chocolate, juice and soft drinks. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the drug ethanol, have been part of human culture for more than 8,000 years.
 
 Non-alcoholic drinks often signify drinks that would normally contain alcohol, such as beer and wine, but are made with less than .5 percent alcohol by volume. The category includes drinks that have undergone an alcohol removal process such as non-alcoholic beers and de-alcoholized wines.
 
@@ -12,7 +12,7 @@ As society developed, techniques were discovered to create alcoholic drinks from
 
 History
 
-Baco,_por_Caravaggio.jpg's interpretation of Bacchus]] Drinking has been a large part of socialising throughout the centuries. In Ancient Greece, a social gathering for the purpose of drinking was known as a symposium, where watered down wine would be drunk. The purpose of these gatherings could be anything from serious discussions to direct indulgence. In Ancient Rome, a similar concept of a _convivium_ took place regularly.
+'s interpretation of Bacchus]] Drinking has been a large part of socialising throughout the centuries. In Ancient Greece, a social gathering for the purpose of drinking was known as a symposium, where watered down wine would be drunk. The purpose of these gatherings could be anything from serious discussions to direct indulgence. In Ancient Rome, a similar concept of a _convivium_ took place regularly.
 
 Many early societies considered alcohol a gift from the gods,[14] leading to the creation of gods such as Dionysus. Other religions forbid, discourage, or restrict the drinking of alcoholic drinks for various reasons. In some regions with a dominant religion the production, sale, and consumption of alcoholic drinks is forbidden to everybody, regardless of religion.
 
@@ -35,7 +35,7 @@ Pasteurisation is the process of heating a liquid for a period of time at a spec
 
 Juicing
 
-Pressoir_epi.jpg, basket presses have a long history of use in winemaking.]] The process of extracting juice from fruits and vegetables can take a number of forms. Simple crushing of most fruits will provide a significant amount of liquid, though a more intense pressure can be applied to get the maximum amount of juice from the fruit. Both crushing and pressing are processes used in the production of wine.
+, basket presses have a long history of use in winemaking.]] The process of extracting juice from fruits and vegetables can take a number of forms. Simple crushing of most fruits will provide a significant amount of liquid, though a more intense pressure can be applied to get the maximum amount of juice from the fruit. Both crushing and pressing are processes used in the production of wine.
 
 Infusion
 
@@ -57,7 +57,7 @@ When brewing beer, there are four primary ingredients – water, grain, yeast an
 
 Distillation
 
-Liquor_Still_Frankfort_489226997.jpg still]] Distillation is a method of separating mixtures based on differences in volatility of components in a boiling liquid mixture. It is one of the methods used in the purification of water. It is also a method of producing spirits from milder alcoholic drinks.
+still]] Distillation is a method of separating mixtures based on differences in volatility of components in a boiling liquid mixture. It is one of the methods used in the purification of water. It is also a method of producing spirits from milder alcoholic drinks.
 
 Mixing
 
@@ -68,7 +68,7 @@ Types of drink
 
 Non-alcoholic drinks
 
-Ice_water_with_lemon.jpg A non-alcoholic drink is one that contains little or no alcohol. This category includes low-alcohol beer, non-alcoholic wine, and apple cider if they contain less than 0.5% alcohol by volume. The term "soft drink" specifies the absence of alcohol in contrast to "hard drink" and "drink". The term "drink" is theoretically neutral, but often is used in a way that suggests alcoholic content. Drinks such as soda pop, sparkling water, iced tea, lemonade, root beer, fruit punch, milk, hot chocolate, tea, coffee, milkshakes, and tap water and energy drinks are all soft drinks.
+A non-alcoholic drink is one that contains little or no alcohol. This category includes low-alcohol beer, non-alcoholic wine, and apple cider if they contain less than 0.5% alcohol by volume. The term "soft drink" specifies the absence of alcohol in contrast to "hard drink" and "drink". The term "drink" is theoretically neutral, but often is used in a way that suggests alcoholic content. Drinks such as soda pop, sparkling water, iced tea, lemonade, root beer, fruit punch, milk, hot chocolate, tea, coffee, milkshakes, and tap water and energy drinks are all soft drinks.
 
 Water
 
@@ -88,7 +88,7 @@ The most consumed carbonated soft drinks are produced by three major global bran
 
 Juice and juice drinks
 
-Oranges_and_orange_juice.jpg juice is usually served cold]] Fruit juice is a natural product that contains few or no additives. Citrus products such as orange juice and tangerine juice are familiar breakfast drinks, while grapefruit juice, pineapple, apple, grape, lime, and lemon juice are also common. Coconut water is a highly nutritious and refreshing juice. Many kinds of berries are crushed; their juices are mixed with water and sometimes sweetened. Raspberry, blackberry and currants are popular juices drinks but the percentage of water also determines their nutritive value. Grape juice allowed to ferment produces wine.
+juice is usually served cold]] Fruit juice is a natural product that contains few or no additives. Citrus products such as orange juice and tangerine juice are familiar breakfast drinks, while grapefruit juice, pineapple, apple, grape, lime, and lemon juice are also common. Coconut water is a highly nutritious and refreshing juice. Many kinds of berries are crushed; their juices are mixed with water and sometimes sweetened. Raspberry, blackberry and currants are popular juices drinks but the percentage of water also determines their nutritive value. Grape juice allowed to ferment produces wine.
 
 Fruits are highly perishable so the ability to extract juices and store them was of significant value. Some fruits are highly acidic and mixing them with water and sugars or honey was often necessary to make them palatable. Early storage of fruit juices was labor-intensive, requiring the crushing of the fruits and the mixing of the resulting pure juices with sugars before bottling.
 
@@ -119,7 +119,7 @@ In many countries, imbibing alcoholic drinks in a local bar or pub is a cultural
 
 Beer
 
-Aufseß_Bier.JPG]] Beer is an alcoholic drink produced by the saccharification of starch and fermentation of the resulting sugar. The starch and saccharification enzymes are often derived from malted cereal grains, most commonly malted barley and malted wheat.[70] Most beer is also flavoured with hops, which add bitterness and act as a natural preservative, though other flavourings such as herbs or fruit may occasionally be included. The preparation of beer is called brewing. Beer is the world's most widely consumed alcoholic drink,[71] and is the third-most popular drink overall, after water and tea. It is said to have been discovered by goddess Ninkasi around 5300 BCE, when she accidentally discovered yeast after leaving grain in jars that were later rained upon and left for several days. Women have been the chief creators of beer throughout history due to its association with domesticity and it, throughout much of history, being brewed in the home for family consumption. Only in recent history have men began to dabble in the field. [72] [73] It is thought by some to be the oldest fermented drink.[74][75][76][77]
+]] Beer is an alcoholic drink produced by the saccharification of starch and fermentation of the resulting sugar. The starch and saccharification enzymes are often derived from malted cereal grains, most commonly malted barley and malted wheat.[70] Most beer is also flavoured with hops, which add bitterness and act as a natural preservative, though other flavourings such as herbs or fruit may occasionally be included. The preparation of beer is called brewing. Beer is the world's most widely consumed alcoholic drink,[71] and is the third-most popular drink overall, after water and tea. It is said to have been discovered by goddess Ninkasi around 5300 BCE, when she accidentally discovered yeast after leaving grain in jars that were later rained upon and left for several days. Women have been the chief creators of beer throughout history due to its association with domesticity and it, throughout much of history, being brewed in the home for family consumption. Only in recent history have men began to dabble in the field. [72] [73] It is thought by some to be the oldest fermented drink.[74][75][76][77]
 
 Some of humanity's earliest known writings refer to the production and distribution of beer: the Code of Hammurabi included laws regulating beer and beer parlours,[78] and "The Hymn to Ninkasi", a prayer to the Mesopotamian goddess of beer, served as both a prayer and as a method of remembering the recipe for beer in a culture with few literate people.[79][80] Today, the brewing industry is a global business, consisting of several dominant multinational companies and many thousands of smaller producers ranging from brewpubs to regional breweries.
 
@@ -145,7 +145,7 @@ Hot drinks
 
 Coffee
 
-A_small_cup_of_coffee.JPG]] Coffee is a brewed drink prepared from the roasted seeds of several species of an evergreen shrub of the genus _Coffea_. The two most common sources of coffee beans are the highly regarded _Coffea arabica_, and the "robusta" form of the hardier _Coffea canephora_. Coffee plants are cultivated in more than 70 countries. Once ripe, coffee "berries" are picked, processed, and dried to yield the seeds inside. The seeds are then roasted to varying degrees, depending on the desired flavor, before being ground and brewed to create coffee.
+]] Coffee is a brewed drink prepared from the roasted seeds of several species of an evergreen shrub of the genus _Coffea_. The two most common sources of coffee beans are the highly regarded _Coffea arabica_, and the "robusta" form of the hardier _Coffea canephora_. Coffee plants are cultivated in more than 70 countries. Once ripe, coffee "berries" are picked, processed, and dried to yield the seeds inside. The seeds are then roasted to varying degrees, depending on the desired flavor, before being ground and brewed to create coffee.
 
 Coffee is slightly acidic (pH 5.0–5.1[89]) and can have a stimulating effect on humans because of its caffeine content. It is one of the most popular drinks in the world.[90] It can be prepared and presented in a variety of ways. The effect of coffee on human health has been a subject of many studies; however, results have varied in terms of coffee's relative benefit.[91]
 
@@ -161,7 +161,7 @@ Hot chocolate is consumed throughout the world and comes in multiple variations,
 
 Tea
 
-Tea_leaves_steeping_in_a_zhong_čaj_05.jpg]] Tea, the second most consumed drink in the world, is produced from infusing dried leaves of the _camellia sinensis_ shrub, in boiling water.[97] There are many ways in which tea is prepared for consumption: lemon or milk and sugar are among the most common additives worldwide. Other additions include butter and salt in Bhutan, Nepal, and Tibet; bubble tea in Taiwan; fresh ginger in Indonesia, Malaysia and Singapore; mint in North Africa and Senegal; cardamom in Central Asia; rum to make Jagertee in Central Europe; and coffee to make yuanyang in Hong Kong. Tea is also served differently from country to country: in China and Japan tiny cups are used to serve tea; in Thailand and the United States tea is often served cold (as "iced tea") or with a lot of sweetener; Indians boil tea with milk and a blend of spices as masala chai; tea is brewed with a samovar in Iran, Kashmir, Russia and Turkey; and in the Australian Outback it is traditionally brewed in a billycan.[98] Tea leaves can be processed in different ways resulting in a drink which appears and tastes different. Chinese yellow and green tea are steamed, roasted and dried; Oolong tea is semi-oxidised and appears green-black and black teas are fully oxidised.[99]
+]] Tea, the second most consumed drink in the world, is produced from infusing dried leaves of the _camellia sinensis_ shrub, in boiling water.[97] There are many ways in which tea is prepared for consumption: lemon or milk and sugar are among the most common additives worldwide. Other additions include butter and salt in Bhutan, Nepal, and Tibet; bubble tea in Taiwan; fresh ginger in Indonesia, Malaysia and Singapore; mint in North Africa and Senegal; cardamom in Central Asia; rum to make Jagertee in Central Europe; and coffee to make yuanyang in Hong Kong. Tea is also served differently from country to country: in China and Japan tiny cups are used to serve tea; in Thailand and the United States tea is often served cold (as "iced tea") or with a lot of sweetener; Indians boil tea with milk and a blend of spices as masala chai; tea is brewed with a samovar in Iran, Kashmir, Russia and Turkey; and in the Australian Outback it is traditionally brewed in a billycan.[98] Tea leaves can be processed in different ways resulting in a drink which appears and tastes different. Chinese yellow and green tea are steamed, roasted and dried; Oolong tea is semi-oxidised and appears green-black and black teas are fully oxidised.[99]
 
 Around the world, people refer to other herbal infusions as "teas"; it is also argued that these were popular long before the _Camellia sinensis_ shrub was used for tea making.[100] Leaves, flowers, roots or bark can be used to make a herbal infusion and can be bought fresh, dried or powdered.[101]
 
@@ -170,7 +170,7 @@ In culture
 
 Places to drink
 
-Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_(Yorck).jpg'', September 1888, by Vincent van Gogh.]] Throughout history, people have come together in establishments to socialise whilst drinking. This includes cafés and coffeehouses, focus on providing hot drinks as well as light snacks. Many coffee houses in the Middle East, and in West Asian immigrant districts in the Western world, offer _shisha_ (_nargile_ in Turkish and Greek), flavored tobacco smoked through a hookah. Espresso bars are a type of coffeehouse that specialize in serving espresso and espresso-based drinks.
+'', September 1888, by Vincent van Gogh.]] Throughout history, people have come together in establishments to socialise whilst drinking. This includes cafés and coffeehouses, focus on providing hot drinks as well as light snacks. Many coffee houses in the Middle East, and in West Asian immigrant districts in the Western world, offer _shisha_ (_nargile_ in Turkish and Greek), flavored tobacco smoked through a hookah. Espresso bars are a type of coffeehouse that specialize in serving espresso and espresso-based drinks.
 
 In China and Japan, the establishment would be a tea house, were people would socialise whilst drinking tea. Chinese scholars have used the teahouse for places of sharing ideas.
 
@@ -180,7 +180,7 @@ In contrast, types of bars range from seedy bars or nightclubs, sometimes termed
 
 Matching with food
 
-Champagne_flute_and_bottle.jpg Food and drink are often paired together to enhance the taste experience. This primarily happens with wine and a culture has grown up around the process. Weight, flavors and textures can either be contrasted or complemented.[107] In recent years, food magazines began to suggest particular wines with recipes and restaurants would offer multi-course dinners matched with a specific wine for each course.[108]
+Food and drink are often paired together to enhance the taste experience. This primarily happens with wine and a culture has grown up around the process. Weight, flavors and textures can either be contrasted or complemented.[107] In recent years, food magazines began to suggest particular wines with recipes and restaurants would offer multi-course dinners matched with a specific wine for each course.[108]
 
 Presentation
 

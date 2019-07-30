@@ -1,5 +1,3 @@
-Atomprobe_00_as-prepared_Cu-NiFe-W01.jpg
-
 The ATOM PROBE was introduced at the 14th Field Emission Symposium in 1967 by Erwin Wilhelm Müller and J. A. Panitz. It combined a field ion microscope with a mass spectrometer having a single particle detection capability and, for the first time, an instrument could “... determine the nature of one single atom seen on a metal surface and selected from neighboring atoms at the discretion of the observer”.[1]
 
 Atom probes are unlike conventional optical or electron microscopes, in that the magnification effect comes from the magnification provided by a highly curved electric field, rather than by the manipulation of radiation paths. The method is destructive in nature removing ions from a sample surface in order to image and identify them, generating magnifications sufficient to observe individual atoms as they are removed from the sample surface. Through coupling of this magnification method with time of flight mass spectrometry, ions evaporated by application of electric pulses can have their mass-to-charge ratio computed.[2]

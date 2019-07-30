@@ -17,7 +17,7 @@ _The Vagabond_, a student-run magazine at Indiana University, published three of
 
 Her early work included two significant series in _Weird Tales_, then edited by Farnsworth Wright. One features the rogue and adventurer Northwest Smith wandering through the Solar System; the other features the swordswoman/warrior Jirel of Joiry, one of the first female protagonists in sword-and-sorcery fiction. Both series are sometimes named for their lead characters.[2] One of the Northwest Smith stories, "Nymph of Darkness" (_Fantasy Magazine_ (April 1935); expurgated version, _Weird Tales_ (Dec 1939)), was written in collaboration with Forrest J Ackerman.[3]
 
-The most famous Northwest Smith story is "Shambleau", which was also Moore's first professional sale. It originally appeared in the November 1933 issue of _Weird Tales_,[4] netting her $100, and later becoming a popular anthology reprint.Weird_Tales_October_1934.jpg)]] Her most famous Jirel story is also the first one, "Black God's Kiss", which was the cover story in the October 1934 issue of _Weird Tales_, subtitled "the weirdest story ever told" (see figure).[5] Moore's early stories were notable for their emphasis on the senses and emotions, which was unusual in genre fiction at the time.
+The most famous Northwest Smith story is "Shambleau", which was also Moore's first professional sale. It originally appeared in the November 1933 issue of _Weird Tales_,[4] netting her $100, and later becoming a popular anthology reprint.)]] Her most famous Jirel story is also the first one, "Black God's Kiss", which was the cover story in the October 1934 issue of _Weird Tales_, subtitled "the weirdest story ever told" (see figure).[5] Moore's early stories were notable for their emphasis on the senses and emotions, which was unusual in genre fiction at the time.
 
 Moore's work also appeared in _Astounding Science Fiction_ magazine throughout the 1940s. Several stories written for that magazine were later collected in her first published book, _Judgment Night_ (1952)[6][7] One of them, the novella "No Woman Born" (1944), was to be included in more than 10 different science fiction anthologies including _The Best of C. L. Moore_.[8]
 
@@ -57,7 +57,7 @@ The Science Fiction and Fantasy Hall of Fame inducted Moore in 1998, its third c
 
 Selected works
 
-Fantastic_Novels_cover_July_1950.JPG'' was reprinted in the July 1950 edition of _Fantastic Novels_.]]
+'' was reprinted in the July 1950 edition of _Fantastic Novels_.]]
 
 -   _Earth's Last Citadel_ (with Henry Kuttner; 1943)
 -   "Vintage Season" (novella written with Henry Kuttner, as "Lawrence O'Donnell"; 1946). It was filmed in 1992 as _Timescape_.[14]

@@ -15,7 +15,7 @@ Some information is known about the family origins of Amasis: his mother was a c
 
 His court is relatively well known. The head of the gate guard Ahmose-sa-Neith appears on numerous monuments, including the location of his sarcophagus. He was referenced on monuments of the 30th dynasty and apparently had a special significance in his time. Wahibre was 'Leader of the southern foreigners' and 'Head of the doors of foreigners', so he was the highest official for border security. Under Amasis the career of the doctor Udjahorresnet began, who was of particular importance to the Persians. Several "heads of the fleet" are known. Psamtek Meryneit and Pasherientaihet / Padineith are the only known viziers.
 
-Polykrates_with_Pharao_Amasis_II.jpg, Tyrant of Samos, with Pharaoh Amasis II.]] Herodotus describes how Amasis II would eventually cause a confrontation with the Persian armies. According to Herodotus, Amasis was asked by Cambyses II or Cyrus the Great for an Egyptian ophthalmologist on good terms. Amasis seems to have complied by forcing an Egyptian physician into mandatory labor, causing him to leave his family behind in Egypt and move to Persia in forced exile. In an attempt to exact revenge for this, the physician grew very close to Cambyses and suggested that Cambyses should ask Amasis for a daughter in marriage in order to solidify his bonds with the Egyptians. Cambyses complied and requested a daughter of Amasis for marriage.[8]
+, Tyrant of Samos, with Pharaoh Amasis II.]] Herodotus describes how Amasis II would eventually cause a confrontation with the Persian armies. According to Herodotus, Amasis was asked by Cambyses II or Cyrus the Great for an Egyptian ophthalmologist on good terms. Amasis seems to have complied by forcing an Egyptian physician into mandatory labor, causing him to leave his family behind in Egypt and move to Persia in forced exile. In an attempt to exact revenge for this, the physician grew very close to Cambyses and suggested that Cambyses should ask Amasis for a daughter in marriage in order to solidify his bonds with the Egyptians. Cambyses complied and requested a daughter of Amasis for marriage.[8]
 
 Amasis, worrying that his daughter would be a concubine to the Persian king, refused to give up his offspring; Amasis also was not willing to take on the Persian empire, so he concocted a deception in which he forced the daughter of the ex-pharaoh Apries, whom Herodotus explicitly confirms to have been killed by Amasis, to go to Persia instead of his own offspring.[9][10][11]
 
@@ -28,7 +28,7 @@ Herodotus also describes that just like his predecessor, Amasis relied on Greek 
 
 Egypt's wealth
 
-Statue_of_Tasherenese,_mother_of_king_Amasis_II,_570-526_BCE,_from_Egypt,_currently_housed_in_the_British_Museum.jpg Although Amasis appears first as champion of the disparaged native, he had the good sense to cultivate the friendship of the Greek world, and brought Egypt into closer touch with it than ever before. Herodotus relates that under his prudent administration, Egypt reached a new level of wealth; Amasis adorned the temples of Lower Egypt especially with splendid monolithic shrines and other monuments (his activity here is proved by existing remains).[15] For example, a temple built by him was excavated at Tell Nebesha.
+Although Amasis appears first as champion of the disparaged native, he had the good sense to cultivate the friendship of the Greek world, and brought Egypt into closer touch with it than ever before. Herodotus relates that under his prudent administration, Egypt reached a new level of wealth; Amasis adorned the temples of Lower Egypt especially with splendid monolithic shrines and other monuments (his activity here is proved by existing remains).[15] For example, a temple built by him was excavated at Tell Nebesha.
 
 Amasis assigned the commercial colony of Naucratis on the Canopic branch of the Nile to the Greeks, and when the temple of Delphi was burnt, he contributed 1,000 talents to the rebuilding. He also married a Greek princess named Ladice daughter of King Battus III and made alliances with Polycrates of Samos and Croesus of Lydia.[16]
 
@@ -46,7 +46,7 @@ Herodotus also relates the desecration of Ahmose II/Amasis' mummy when the Persi
 
 Later reputation
 
-Egyptian_-_Head_of_King_Amasis_-_Walters_22415.jpg, Baltimore.]] From the fifth century BCE, there is evidence of stories circulating about Amasis, in Egyptian sources (including a demotic papyrus of the third century BCE), Herodotus, Hellanikos, and Plutarch's _Convivium Septem Sapientium_. 'In those tales Amasis was presented as a non-conventional Pharaoh, behaving in ways unbecoming to a king but gifted with practical wisdom and cunning, a trickster on the throne or a kind of comic Egyptian Solomon'.[22]
+, Baltimore.]] From the fifth century BCE, there is evidence of stories circulating about Amasis, in Egyptian sources (including a demotic papyrus of the third century BCE), Herodotus, Hellanikos, and Plutarch's _Convivium Septem Sapientium_. 'In those tales Amasis was presented as a non-conventional Pharaoh, behaving in ways unbecoming to a king but gifted with practical wisdom and cunning, a trickster on the throne or a kind of comic Egyptian Solomon'.[22]
 
 
 Gallery of images

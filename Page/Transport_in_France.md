@@ -1,4 +1,4 @@
-Travel_times_by_road_in_France_from_Paris_-_en.svg Gare_de_l'Est_Paris_2007_a5.jpg trains at Paris-Gare de l'Est]] TRANSPORTATION IN FRANCE relies on one of the densest networks in the world with 146 km of road and 6.2 km of rail lines per 100 km². It is built as a web with Paris at its center.[1] Rail, road, air and water are all widely developed forms of transportation in France.
+trains at Paris-Gare de l'Est]] TRANSPORTATION IN FRANCE relies on one of the densest networks in the world with 146 km of road and 6.2 km of rail lines per 100 km². It is built as a web with Paris at its center.[1] Rail, road, air and water are all widely developed forms of transportation in France.
 
 
 History
@@ -10,7 +10,7 @@ All through the Middle Ages improvements were few and second rate. Transport bec
 
 Railways
 
-TGV_double_decker_DSC00132.jpg in Toulon]] Carte_TGV.svg Network:
+in Toulon]] Network:
 • red and blue: high-speed lines
 • black: normal lines used by TGVs
 • dotted lines: planned for 2009]]
@@ -63,11 +63,11 @@ The following French towns and cities run light rail or tram systems:
 
 Tram systems are planned or under construction in Tours, and Fort-de-France.
 
-Bordeaux-aps+isolation&joint.jpg with powered and neutral sections]] TramStrasbourg_lineB_Hoenheim_versHommeFer.JPG in Strasbourg]] The revival of tram networks in France has brought about a number of technical developments both in the traction systems and in the styling of the cars:
+with powered and neutral sections]] in Strasbourg]] The revival of tram networks in France has brought about a number of technical developments both in the traction systems and in the styling of the cars:
 
     _APS third rail_: The ground-level power supply system known as APS or Alimentation par le sol uses a third rail placed between the running rails, divided electrically into eight-metre segments with three metre neutral sections between. Each tram has two power collection skates, next to which are antennas that send radio signals to energise the power rail segments as the tram passes over them. At any one time no more than two consecutive segments under the tram should actually be live. Alstrom developed the system primarily to avoid intrusive power supply cables in sensitive area of the old city of Bordeaux.[6]
 
-Nice_tramway_place_Garibaldi.jpg on _Place Garibaldi_ in Nice. See: Nice tramway.]]
+on _Place Garibaldi_ in Nice. See: Nice tramway.]]
 
     _Modern styling_: The Eurotram, used in Strasbourg has a modern design that makes it look almost as much like a train as a tram, and has large windows along its entire length.[7]
 
@@ -75,12 +75,12 @@ Nice_tramway_place_Garibaldi.jpg on _Place Garibaldi_ in Nice. See: Nice tramway
 
 Dualis extends the reach of the Citadis family from Railway Gazette, 2 June 2007. Retrieved 15 February 2009.
 
-Mettis_Metz_tram-like.jpg]] Prominent bi-articulated "tram-like" Van Hool vehicles (Mettis) are used in Metz since 2013. They work as classic trams but without needing rails and catenaries, and can transport up to 155 passengers while being ecological thanks to a diesel-electric hybrid engine. In the starting up, batteries feed the engine of the bus, which can then roll 150 meters before the diesel engine takes over.
+]] Prominent bi-articulated "tram-like" Van Hool vehicles (Mettis) are used in Metz since 2013. They work as classic trams but without needing rails and catenaries, and can transport up to 155 passengers while being ecological thanks to a diesel-electric hybrid engine. In the starting up, batteries feed the engine of the bus, which can then roll 150 meters before the diesel engine takes over.
 
 
 Roads
 
-FR-84-Orange19.JPG near Orange]] Reseau_autoroutier_francais.svg network]]
+near Orange]] network]]
 
 There are ~ of roads in France.[9] The French motorway network or autoroute system consists largely of toll roads, except around large cities and in parts of the north. It is a network totalling of motorways operated by private companies such as Sanef (Société des autoroutes du Nord et de l'Est de la France). It has the 8th largest highway network in the world, trailing only the United States, China, Russia, Japan, Canada, Spain and Germany.[10]
 
@@ -99,7 +99,7 @@ Trains have long had a monopoly on inter-regional buses, but in 2015 the French 
 
 Waterways/Canals
 
-Peniche_(1).jpg]]
+]]
 
 The French natural and man-made waterways network is the largest in Europe[15] extending to over of which (VNF, ), the French navigation authority, manages the navigable sections. Some of the navigable rivers include the Loire, Seine and Rhône. The assets managed by VNF comprise of waterways, made up of of canals and of navigable rivers, 494 dams, 1595 locks, 74 navigable aqueducts, 65 reservoirs, 35 tunnels and a land area of .[16] Two significant waterways not under VNF's control are the navigable sections of the River Somme and the Brittany Canals, which are both under local management.
 
@@ -108,7 +108,7 @@ Approximately 20% of the network is suitable for commercial boats of over 1000 
 
 Marine transport
 
-Port_Havre_2.jpg]]
+]]
 
 France has an extensive merchant marine, including 55 ships of size Gross register tonnage 1,000 and above. The country also maintains a captive register for French-owned ships in Iles Kerguelen (French Southern and Antarctic Lands).
 
@@ -119,7 +119,7 @@ France also boasts a number of seaports and harbours, including Bayonne, Bordeau
 
 Air travel
 
-Terminal_1_of_CDG_Airport.jpg, Paris]] There are approximately 478 airports in France (1999 est.) and by a 2005 estimate, there are three heliports. 288 of the airports have paved runways, with the remaining 199 being unpaved.
+, Paris]] There are approximately 478 airports in France (1999 est.) and by a 2005 estimate, there are three heliports. 288 of the airports have paved runways, with the remaining 199 being unpaved.
 
 Among the airspace governance authorities active in France, one is Aéroports de Paris, which has authority over the Paris region, managing 14 airports including the two busiest in France, Charles de Gaulle Airport and Orly Airport. The former, located in Roissy near Paris, is the fifth busiest airport in the world with 60 million passenger movements in 2008, and France's primary international airport, serving over 100 airlines.
 

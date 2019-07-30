@@ -12,13 +12,11 @@ When the Greenland section is included, the Shield is approximately circular, bo
 
 Geology
 
-Temagami_greenstone_belt_pillow_lava.jpg in the Temagami Greenstone Belt]] The Canadian Shield is among the oldest on earth, with regions dating from 2.5 to 4.2 billion years.[9] The multitude of rivers and lakes in the entire region is caused by the watersheds of the area being so young and in a state of sorting themselves out with the added effect of post-glacial rebound. The Shield was originally an area of very large, very tall mountains (about )[10] with much volcanic activity, but over hundreds of millions of years, the area has been eroded to its current topographic appearance of relatively low relief. It has some of the oldest (extinct) volcanoes on the planet. It has over 150 volcanic belts (now deformed and eroded down to nearly flat plains) whose bedrock ranges from 600 to 1200 million years old.
+in the Temagami Greenstone Belt]] The Canadian Shield is among the oldest on earth, with regions dating from 2.5 to 4.2 billion years.[9] The multitude of rivers and lakes in the entire region is caused by the watersheds of the area being so young and in a state of sorting themselves out with the added effect of post-glacial rebound. The Shield was originally an area of very large, very tall mountains (about )[10] with much volcanic activity, but over hundreds of millions of years, the area has been eroded to its current topographic appearance of relatively low relief. It has some of the oldest (extinct) volcanoes on the planet. It has over 150 volcanic belts (now deformed and eroded down to nearly flat plains) whose bedrock ranges from 600 to 1200 million years old.
 
 Each belt probably grew by the coalescence of accumulations erupted from numerous vents, making the tally of volcanoes reach the hundreds. Many of Canada's major ore deposits are associated with Precambrian volcanoes.
 
 The Sturgeon Lake Caldera in Kenora District, Ontario, is one of the world's best preserved mineralized Neoarchean caldera complexes, which is 2.7 billion years old.[11] The Canadian Shield also contains the Mackenzie dike swarm, which is the largest dike swarm known on Earth.[12]
-
-Canadian_Shield_Ontario.jpg
 
 Mountains have deep roots and float on the denser mantle much like an iceberg at sea. As mountains erode, their roots rise and are eroded in turn. The rocks that now form the surface of the Shield were once far below the Earth's surface.
 
@@ -35,7 +33,7 @@ The current surface expression of the Shield is one of very thin soil lying on t
 
 The lowlands of the Canadian Shield have a very dense soil that is not suitable for forestation; it also contains many marshes and bogs (muskegs). The rest of the region has coarse soil that does not retain moisture well and is frozen with permafrost throughout the year. Forests are not as dense in the north.
 
-BlackRiver1.JPG The Shield is covered in parts by vast boreal forests in the south that support natural ecosystems as well as a major logging industry. The boreal forest area gives way to the Eastern Canadian Shield taiga that covers northern Quebec and most of Labrador. The Midwestern Canadian Shield forests that run westwards from Northwestern Ontario have boreal forests that give way to taiga in the most northerly parts of Manitoba and Saskatchewan. Hydrographical drainage is generally poor, the soil compacting effects of glaciation being one of the many causes. Tundra typically prevails in the northern regions. Many mammals such as caribou, white-tailed deer, moose, wolves, wolverines, weasels, mink, otters, grizzly bear, polar bears and black bears are present.[14] In the case of polar bears (_Ursus maritimus_) the Shield area contains many of the denning locations such as the Wapusk National Park.[15]
+The Shield is covered in parts by vast boreal forests in the south that support natural ecosystems as well as a major logging industry. The boreal forest area gives way to the Eastern Canadian Shield taiga that covers northern Quebec and most of Labrador. The Midwestern Canadian Shield forests that run westwards from Northwestern Ontario have boreal forests that give way to taiga in the most northerly parts of Manitoba and Saskatchewan. Hydrographical drainage is generally poor, the soil compacting effects of glaciation being one of the many causes. Tundra typically prevails in the northern regions. Many mammals such as caribou, white-tailed deer, moose, wolves, wolverines, weasels, mink, otters, grizzly bear, polar bears and black bears are present.[14] In the case of polar bears (_Ursus maritimus_) the Shield area contains many of the denning locations such as the Wapusk National Park.[15]
 
 
 Mining and economics

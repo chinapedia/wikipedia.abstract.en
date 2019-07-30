@@ -11,7 +11,7 @@ While in Rome for Otto's imperial coronation, Bruno met Saint Adalbert of Prague
 
 Missionary life
 
-Pomeraniae_Ducatus_Tabula.jpg along the coast, or the future Margraviate of Brandenburg to its south.]]
+along the coast, or the future Margraviate of Brandenburg to its south.]]
 
 Otto III hoped to establish a monastery between the Elbe and the Oder (somewhere in the pagan lands that became Brandenburg or Western Pomerania) to help convert the local population to Christianity and colonize the area. In 1001, two monks from his monastery traveled to Poland, while Bruno was with Otto in Italy, studying the language and awaiting the Apostolic appointment by Pope Sylvester II.[3]
 

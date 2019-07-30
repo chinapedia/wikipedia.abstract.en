@@ -17,7 +17,7 @@ He graduated from New York University School of Law in 1910, was admitted to the
 
 Marriages and family
 
-La Guardia married twice. His first wife was Thea Almerigotti, an Istrian immigrant, whom he married on March 8, 1919. In June 1920 they had a daughter, Fioretta Thea, who died May 9, 1921, of spinal meningitis. His first wife died of tuberculosis on November 29, 1921, at the age of 26.[8] In 1929 he married Marie Fisher (1895–1984) who had been his secretary while in Congress; they adopted two children, Eric Henry (born 1930) and Jean Marie (1928–1962), the biological daughter of Thea's sister.[9][10] F.H.LaGuardia_in_front_CaproniCa.44_bomber.jpg, c. 1918]]
+La Guardia married twice. His first wife was Thea Almerigotti, an Istrian immigrant, whom he married on March 8, 1919. In June 1920 they had a daughter, Fioretta Thea, who died May 9, 1921, of spinal meningitis. His first wife died of tuberculosis on November 29, 1921, at the age of 26.[8] In 1929 he married Marie Fisher (1895–1984) who had been his secretary while in Congress; they adopted two children, Eric Henry (born 1930) and Jean Marie (1928–1962), the biological daughter of Thea's sister.[9][10] , c. 1918]]
 
 
 Early political career
@@ -28,7 +28,7 @@ La Guardia became Deputy Attorney General of New York in January 1915.[11] In 19
 
 President of the Board of Aldermen
 
-LaGuardia_In.JPG front page November 5, 1919]] LaGuardia_Congress.jpg, c. 1929.]]
+front page November 5, 1919]] , c. 1929.]]
 
 In 1919, La Guardia was chosen to run as the Republican candidate for the office of President of the New York City Board of Aldermen. His Democratic opponent was Robert L. Moran, an alderman from the Bronx who had succeeded to the Board presidency in 1918 when Alfred E. Smith, who had been elected board president in 1917, became governor.[14] Michael "Dynamite Mike" Kelly, commander of New York's Third "Shamrock" Battalion, also joined the race. Tammany Hall looked with alarm upon Kelly's entrance into the campaign and tried to persuade him to withdraw his candidacy and throw his support behind Moran. When he refused, Tammany went to the New York Supreme Court and successfully sued to keep Kelly's name off the ballot.[15] When Election Day arrived, over 3,500 of Kelly's supporters wrote Kelly's name on the ballot.[16] This number was sufficient to defeat Moran, who lost to La Guardia by 1,363 votes.[17]
 
@@ -65,7 +65,7 @@ Walker and his Irish-run Tammany Hall were forced out of office by scandal and L
 
 Agenda
 
-Franklin_D._Roosevelt_and_Fiorello_LaGuardia_in_Hyde_Park_-_NARA_-_196764.tif]] La Guardia came to office in January 1934 with five main goals:[28]
+]] La Guardia came to office in January 1934 with five main goals:[28]
 
 -   Restore the financial health and break free from the bankers' control
 -   Expand the federally funded work-relief program for the unemployed
@@ -121,7 +121,7 @@ Unemployment ended, and the city was a gateway for military supplies and soldier
 
 Later life and death
 
-Fiorello_LaGuardia_Grave_1024.jpg La Guardia was the director general for the United Nations Relief and Rehabilitation Administration (UNRRA) in 1946.
+La Guardia was the director general for the United Nations Relief and Rehabilitation Administration (UNRRA) in 1946.
 
 A man of short stature, La Guardia's height is sometimes given as . According to an article in _The New York Times_, however, his actual height was .[59]
 
@@ -136,7 +136,7 @@ La Guardia was ranked first among the nation's mayors in a 1993 poll of historia
 
 Memorials
 
-Fiorello_La_Guardia_Stamp.jpg Fiorello_LaGuardia_footstone_800.jpg of Fiorello La Guardia]] In 1972 the United States Postal Service honored La Guardia with a 14-cent postage stamp.
+of Fiorello La Guardia]] In 1972 the United States Postal Service honored La Guardia with a 14-cent postage stamp.
 
 New York's LaGuardia Airport, LaGuardia Community College, and other parks and buildings around New York City are named for him.
 

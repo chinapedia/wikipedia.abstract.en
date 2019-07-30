@@ -26,11 +26,9 @@ In October 1753, Dinwiddie appointed Washington as a special envoy to demand tha
 
 French and Indian War
 
-In February 1754, Dinwiddie promoted Washington to lieutenant colonel and second-in-command of the 300-strong Virginia Regiment, with orders to confront French forces at the Forks of the Ohio. Washington set out for the Forks with half of the regiment in April but soon learned that a French force of 1,000 had begun construction of Fort Duquesne there. In May, Washington had set up a defensive position at Great Meadows when he learned that the French had made camp away. Washington decided to take the offensive in pursuit of the French contingent. The_Night_Council_At_Fort_Necessity_from_the_Darlington_Collection_of_Engraving-_detail.jpg The French detachment proved to be only about 50 men, so Washington advanced on May 28 with a small force of Virginians and Indian allies to ambush them. What took place was disputed, but French forces were killed outright with muskets and hatchets. French commander Joseph Coulon de Jumonville, who carried a diplomatic message for the British to evacuate, was mortally wounded in the battle. French forces found Jumonville and some of his men dead and scalped and assumed that Washington was responsible. Washington placed blame on his translator for not communicating the French intentions. Dinwiddie congratulated Washington for his victory over the French. This incident ignited the French and Indian War, which later became part of the larger Seven Years' War.
+In February 1754, Dinwiddie promoted Washington to lieutenant colonel and second-in-command of the 300-strong Virginia Regiment, with orders to confront French forces at the Forks of the Ohio. Washington set out for the Forks with half of the regiment in April but soon learned that a French force of 1,000 had begun construction of Fort Duquesne there. In May, Washington had set up a defensive position at Great Meadows when he learned that the French had made camp away. Washington decided to take the offensive in pursuit of the French contingent. The French detachment proved to be only about 50 men, so Washington advanced on May 28 with a small force of Virginians and Indian allies to ambush them. What took place was disputed, but French forces were killed outright with muskets and hatchets. French commander Joseph Coulon de Jumonville, who carried a diplomatic message for the British to evacuate, was mortally wounded in the battle. French forces found Jumonville and some of his men dead and scalped and assumed that Washington was responsible. Washington placed blame on his translator for not communicating the French intentions. Dinwiddie congratulated Washington for his victory over the French. This incident ignited the French and Indian War, which later became part of the larger Seven Years' War.
 
 The full Virginia Regiment joined Washington at Fort Necessity the following month with news that he had been promoted to command of the regiment and to colonel upon the death of the regimental commander. The regiment was reinforced by an independent company of 100 South Carolinians, led by Captain James Mackay, whose royal commission outranked Washington, and a conflict of command ensued. On July 3, a French force attacked with 900 men, and the ensuing battle ended in Washington's surrender. In the aftermath, Colonel James Innes took command of intercolonial forces, the Virginia Regiment was divided, and Washington was offered a captaincy which he refused, with resignation of his commission.
-
-Washington_the_soldier.jpg
 
 In 1755, Washington served voluntarily as an aide to General Edward Braddock, who led a British expedition to expel the French from Fort Duquesne and the Ohio Country. On Washington's recommendation, Braddock split the army into one main column and a lightly equipped "flying column". Suffering from a severe case of dysentery, Washington was left behind, and when he rejoined Braddock at Monongahela, the French and their Indian allies ambushed the divided army. The British suffered two-thirds casualties, including the mortally wounded Braddock. Under the command of Lieutenant Colonel Thomas Gage, Washington, still very ill, rallied the survivors and formed a rear guard, which allowed the remnants of the force to disengage and retreat. During the engagement he had two horses shot from under him, and his hat and coat were bullet-pierced. His conduct under fire redeemed his reputation among critics of his command in the Battle of Fort Necessity, but he was not included by the succeeding commander Colonel Thomas Dunbar in planning subsequent operations.
 
@@ -43,7 +41,7 @@ Under Washington, the Virginia Regiment had defended of frontier against 20 Indi
 
 Marriage, civilian, and political life (1759–1775)
 
-Washington_1772.jpg, 1772 |alt=Painting of Washington, by Charles Wilson Peale, standing in a formal pose, in a colonel's uniform, a right hand inserted in shirt]]
+, 1772 |alt=Painting of Washington, by Charles Wilson Peale, standing in a formal pose, in a colonel's uniform, a right hand inserted in shirt]]
 
 On January 6, 1759, Washington, at age 26, married Martha Dandridge Custis, the 28 year-old widow of wealthy plantation owner Daniel Parke Custis. The marriage took place at Martha's estate; She was intelligent and gracious, and experienced in managing a planter's estate, and the couple created a happy marriage. They raised John Parke Custis (Jacky) and Martha Parke (Patsy) Custis, children from her previous marriage, and later their grandchildren Eleanor Parke Custis (Nelly) and George Washington Parke Custis (Washy). Washington's 1751 bout with smallpox is thought to have rendered him sterile, though it is equally likely "Martha may have sustained injury during the birth of Patsy, her final child, making additional births impossible."[1] They lamented the fact that they had no children together. They moved to Mount Vernon, near Alexandria, where he took up life as a planter of tobacco and wheat and emerged as a political figure.
 
@@ -53,7 +51,7 @@ At Washington's urging, Governor Lord Botetourt fulfilled Dinwiddie's 1754 promi
 
 As a respected military hero and large landowner, Washington held local offices and was elected to the Virginia provincial legislature, representing Frederick County in the House of Burgesses for seven years beginning in 1758. He plied the voters with beer, brandy, and other beverages, although he was absent while serving on the Forbes Expedition. He won election with roughly 40 percent of the vote, defeating three other candidates with the help of several local supporters. He rarely spoke in his early legislative career, but he became a prominent critic of Britain's taxation and mercantilist policies in the 1760s.
 
-Martha_Dandridge_Custis_crop.jpg |alt=A mezzotint of Martha Washington, standing, wearing a formal gown, based on a 1757 portrait by John Wollaston]]
+|alt=A mezzotint of Martha Washington, standing, wearing a formal gown, based on a 1757 portrait by John Wollaston]]
 
 By occupation Washington was a planter, and he imported luxuries and other goods from England and paid for them by exporting tobacco. His profligate spending combined with low tobacco prices left him £1,800 in debt by 1764, prompting him to diversify. In 1765, because of errosion and other soil problems he changed Mount Vernon's primary cash crop from tobacco to wheat, and expanded operations to include corn flour milling, fishing, and other pursuits. Washington also took time for leisure with fox hunting, fishing, dances, theater, cards, backgammon, and billiards,
 
@@ -74,7 +72,7 @@ The American Revolutionary War began on April 19, 1775 with the Battles of Lexin
 
 Commander in chief (1775–1783)
 
-George_Washington,_1776.jpg Charles Willson Peale (1776)
+Charles Willson Peale (1776)
 
 |alt=Formal painting of General George Washington, standing in uniform, as commander of the Continental Army]] Congress created the Continental Army on June 14, 1775, and Samuel Adams and John Adams nominated Washington to become its commander in chief. Washington was chosen over John Hancock because of his military experience and the belief that a Virginian would better unite the colonies. He was considered an incisive leader who kept his "ambition in check." He was unanimously elected commander in chief by Congress the next day.
 
@@ -86,7 +84,7 @@ On January 16, 1776, during the Revolutionary War, Congress allowed free blacks 
 
 Siege of Boston
 
-Washingtoncommandarmy.jpg Early in 1775, in response to the growing rebellious movement, including the Boston Tea Party, Parliament sent British troops, commanded by General Thomas Gage, to occupy Boston, disband the local provincial government, and quell the growing state of rebellion. The British set up fortifications about the city, making it impervious to attack. In response, various state militias surrounded the city and effectively trapped the British, resulting in a standoff.
+Early in 1775, in response to the growing rebellious movement, including the Boston Tea Party, Parliament sent British troops, commanded by General Thomas Gage, to occupy Boston, disband the local provincial government, and quell the growing state of rebellion. The British set up fortifications about the city, making it impervious to attack. In response, various state militias surrounded the city and effectively trapped the British, resulting in a standoff.
 
 As Washington headed for Boston, word of his march preceded him, and he was greeted by local officials and statesmen, gradually becoming a symbol of the patriot cause. Upon arrival on July 2, 1775, two weeks after the patriot defeat at nearby Bunker Hill, he set up his Cambridge, Massachusetts headquarters and inspected the new army there, only to find an undisciplined and badly outfitted militia. After consultation, he initiated Benjamin Franklin's suggested reforms—drilling the soldiers and imposing strict discipline, floggings, and incarceration. Washington ordered his officers to identify the skills of recruits to ensure military effectiveness, while removing incompetent officers. He petitioned Gage, his former superior, to release captured Patriot officers from prison and treat them humanely. In October 1775, King George III declared that the colonies were in open rebellion, relieved General Gage of command for his incompetence, and replaced him with General William Howe as acting commander.
 
@@ -96,7 +94,7 @@ The Continental Army, further diminished by expiring short-term enlistments, and
 
 Battle of Long Island
 
-Battleoflongisland.jpg (1858) |alt=Painting by Alonzo Chappel, 1858, showing the frantic battle scene of Battle of Long Island, with smoke in the background]] Washington proceeded to New York City, arriving on April 13, 1776 and began constructing fortifications to thwart British attack. He ordered his occupying forces to treat civilians and their property with respect, to avoid the abuse suffered by civilians in Boston at the hands of British troops. A plot to assassinate or capture him was discovered amidst the tensions, but failed, though his bodyguard Thomas Hickey (soldier) was hanged for mutiny and sedition. General Howe took his resupplied army, with the British fleet, from Nova Scotia to the city, considered the key to securing the continent. George Germain, who ran the British war effort in England, believed it could be won with one "decisive blow." The British forces, including more than 100 ships and thousands of troops, began reaching Staten Island on July 2 to lay siege to the city. After the Declaration of Independence was adopted on July 4, Washington informed his troops in his general orders of July 9 that Congress had declared the united colonies to be "free and independent states."
+(1858) |alt=Painting by Alonzo Chappel, 1858, showing the frantic battle scene of Battle of Long Island, with smoke in the background]] Washington proceeded to New York City, arriving on April 13, 1776 and began constructing fortifications to thwart British attack. He ordered his occupying forces to treat civilians and their property with respect, to avoid the abuse suffered by civilians in Boston at the hands of British troops. A plot to assassinate or capture him was discovered amidst the tensions, but failed, though his bodyguard Thomas Hickey (soldier) was hanged for mutiny and sedition. General Howe took his resupplied army, with the British fleet, from Nova Scotia to the city, considered the key to securing the continent. George Germain, who ran the British war effort in England, believed it could be won with one "decisive blow." The British forces, including more than 100 ships and thousands of troops, began reaching Staten Island on July 2 to lay siege to the city. After the Declaration of Independence was adopted on July 4, Washington informed his troops in his general orders of July 9 that Congress had declared the united colonies to be "free and independent states."
 
 Howe's troop strength totaled 32,000 regulars and Hessians, and Washington's consisted of 23,000, mostly raw recruits and militia. In August, Howe landed 20,000 troops at Gravesend, Brooklyn and approached Washington's fortifications, as King George III proclaimed the rebellious American colonists to be traitors. Washington, opposing his generals, chose to fight, based on inaccurate information that Howe's army had only 8,000 plus troops. Howe assaulted Washington's flank and inflicted 1,500 Patriot casualties, with the British suffering 400. Washington retreated, instructing General William Heath to acquisition river craft in the area. On August 30, General William Alexander held off the British and gave cover while the army crossed the East River under darkness to Manhattan Island without loss of life or material, although Alexander was captured.
 
@@ -106,7 +104,7 @@ The British navy bombarded unstable earthworks on lower Manhattan Island. Washin
 
 Crossing the Delaware, Trenton, and Princeton
 
-Emanuel_Leutze_(American,_Schwäbisch_Gmünd_1816–1868_Washington,_D.C.)_-_Washington_Crossing_the_Delaware_-_Google_Art_Project.jpg, December 25, 1776'', Emanuel Leutze (1851) |alt=Famous 1851 painting by Emanuel Leutze, depicting Washington, standing in boat with his troops, crossing the icy Delaware River, with soldiers pushing away chunks of ice]]
+, December 25, 1776'', Emanuel Leutze (1851) |alt=Famous 1851 painting by Emanuel Leutze, depicting Washington, standing in boat with his troops, crossing the icy Delaware River, with soldiers pushing away chunks of ice]]
 
 Washington's army, reduced to 5,400 troops, retreated through New Jersey, and Howe broke off pursuit, delaying his advance on Philadelphia, and set up winter quarters in New York. Washington crossed the Delaware River into Pennsylvania, where Lee's replacement John Sullivan joined him with 2,000 more troops. The future of the Continental Army was in doubt for lack of supplies, a harsh winter, expiring enlistments, and desertions. Washington was disappointed that many New Jersey residents were Loyalists or skeptical about the prospect of independence.
 
@@ -115,8 +113,6 @@ Howe split up his British Army and posted a Hessian garrison at Trenton to hold 
 Washington first ordered a 60-mile search for Durham boats, to transport his army, and he ordered the destruction of vessels that could be used by the British He crossed the Delaware River at sunset Christmas Day and risked capture staking out the Jersey shoreline. His men followed across the ice-obstructed river in sleet and snow at McKonkey's Ferry, with 40 men per vessel. Wind churned up the waters, and they were pelted with hail, but by 3 they made it across with no losses. Henry Knox was delayed, managing frightened horses and about 18 field guns on flat-bottomed ferries. Cadwalader and Ewing failed to cross due to the ice and heavy currents, and a waiting Washington doubted his planned attack on Trenton. Once Knox arrived, Washington proceeded to Trenton, to take only his troops against the Hessians, rather than risk being spotted returning his army to Pennsylvania.
 
 The troops spotted Hessian positions a mile from Trenton, so Washington split his force into two columns, rallying his men: "Soldiers keep by your officers. For God's sake, keep by your officers." The two columns were separated at the Birmingham crossroads, with General Nathanael Greene's taking the upper Ferry Road, led by Washington, and General John Sullivan's advancing on River Road. (See map.) The Americans marched in sleet and snowfall, many were shoeless with bloodied feet, and two died of exposure. At sunrise, Washington led them in a surprise attack on the Hessians, aided by Major General Henry Knox and artillery. The Hessians had 22 killed (including Colonel Johann Rall), 83 wounded, and 850 captured with supplies.
-
-The_Capture_of_the_Hessians_at_Trenton_December_26_1776.jpeg
 
 Washington retreated across the Delaware to Pennsylvania but returned to New Jersey on January 3, launching an attack on British regulars at Princeton, with 40 Americans killed or wounded and 273 British killed or captured. American Generals Hugh Mercer and John Cadwalader were being driven back by the British when Mercer was mortally wounded, then Washington arrived and led the men in a counterattack which advanced to within of the British line.
 
@@ -134,13 +130,13 @@ Washington was concerned with Howe's movements during the Saratoga campaign to t
 
 Valley Forge and Monmouth
 
-Washington_and_Lafayette_at_Valley_Forge.jpg on horseback in a winter setting, at Valley Forge]]
+on horseback in a winter setting, at Valley Forge]]
 
 Washington's army of 11,000 went into winter quarters at Valley Forge north of Philadelphia in December 1777. They suffered between 2,000 and 3,000 deaths in extreme cold over six months, mostly from disease and lack of food, clothing, and shelter. Meanwhile, the British were comfortably quartered in Philadelphia, paying for supplies in pounds sterling, while Washington struggled with a devalued American paper currency. The woodlands were soon exhausted of game, and by February morale and increased desertions ensued.
 
 Washington made repeated but futile petitions to the Continental Congress for provisions. He received a congressional delegation to check the Army's conditions, and expressed the urgency of the situation, proclaiming: "Something must be done. Important alterations must be made." He recommended that Congress expedite supplies, and Congress agreed to strengthen and fund the army's supply lines by reorganizing the commissary department. By late February, supplies began arriving.
 
-BattleofMonmouth.jpg (1851–1854)]]
+(1851–1854)]]
 
 Baron Friedrich Wilhelm von Steuben's incessant drilling soon transformed Washington's recruits into a disciplined fighting force, and the revitalized army emerged from Valley Forge early the following year. Washington promoted Von Steuben to Major General and made him chief of staff.
 
@@ -156,7 +152,7 @@ Militia forces captured André and discovered the plans, but Arnold escaped to N
 
 Southern theater and Yorktown
 
-Antoine-François_Callet_-_Louis_XVI,_roi_de_France_et_de_Navarre_(1754-1793),_revêtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg allied with Washington and Patriot American colonists |alt=Painting showing French King Louis XVI, standing, wearing formal King's robe]]
+allied with Washington and Patriot American colonists |alt=Painting showing French King Louis XVI, standing, wearing formal King's robe]]
 
 In late 1778, General Clinton shipped 3,000 troops from New York to Georgia and launched a Southern invasion against Savannah, reinforced by 2,000 British and Loyalist troops. They repelled an attack by Patriots and French naval forces, which bolstered the British war effort.
 
@@ -170,7 +166,7 @@ Washington's army went into winter quarters at New Windsor, New York in December
 
 General Clinton sent Benedict Arnold to Virginia, now a British Brigadier General with 1,700 troops, to capture Portsmouth and to spread terror from there; Washington responded by sending Lafayette south to counter Arnold's efforts. Washington initially hoped to bring the fight to New York, drawing off British forces from Virginia and ending the war there, but Rochambeau advised Grasse that Cornwallis in Virginia was the better target. Grasse's fleet arrived off the Virginia coast and Washington saw the advantage. He made a feint towards Clinton in New York, then headed south to Virginia.
 
-Couder_Yorktown_Versailles.JPG, Generals Washington and Rochambeau give last orders before the attack |alt=Generals Washington and Rochambeau, standing in front of HQ tent, giving last orders before the attack on Yorktown]]
+, Generals Washington and Rochambeau give last orders before the attack |alt=Generals Washington and Rochambeau, standing in front of HQ tent, giving last orders before the attack on Yorktown]]
 
 The Siege of Yorktown, Virginia was a decisive allied victory by the combined forces of the Continental Army commanded by General Washington, the French Army commanded by the General Comte de Rochambeau, and the French Navy commanded by Admiral de Grasse, in the defeat of Cornwallis' British forces. On August 19, the march to Yorktown led by Washington and Rochambeau began, which is known now as the "celebrated march". Washington was in command of an army of 7,800 Frenchmen, 3,100 militia, and 8,000 Continentals. Lacking in experience in siege warfare, Washington often deferred judgment to Rochambeau, effectively putting him in command, however, Rochambeau never challenged Washington's authority.
 
@@ -178,7 +174,7 @@ By late September, Patriot-French forces completely surrounded Yorktown, trapped
 
 Demobilization and resignation
 
-General_George_Washington_Resigning_his_Commission.jpg''
+''
 John Trumbull, 1824 |alt=Painting by John Trumbull, depicting General Washington, standing in Maryland State House hall, surrounded by statesmen and others, resigning his commission]] As peace negotiations started, the British gradually evacuated troops from Savannah, Charlestown, and New York by 1783, and the French army and navy likewise departed. The American treasury was empty, unpaid and mutinous soldiers forced the adjournment of Congress, and Washington dispelled unrest by suppressing the Newburgh Conspiracy in March 1783; Congress promised officers a five-year bonus. Washington submitted an account of $450,000 in expenses which he had advanced to the army. The account was settled, though it was allegedly vague about large sums and included expenses that his wife incurred through visits to his headquarters, as well as his agreed compensation.
 
 Washington resigned as commander-in-chief once the Treaty of Paris was signed, and he planned to retire to Mount Vernon. The treaty was ratified in April 1783, and Hamilton's Congressional committee adapted the army for peacetime. Washington gave the Army's perspective to the Committee in his _Sentiments on a Peace Establishment_. The Treaty was signed on September 3, 1783, and Great Britain officially recognized the independence of the United States. Washington then disbanded his army, giving an eloquent farewell address to his soldiers on November 2. On November 25, the British evacuated New York City, and Washington and Governor George Clinton took possession.
@@ -198,11 +194,11 @@ Washington reactivated his interests in the Great Dismal Swamp and Potomac canal
 
 Constitutional Convention _1787_
 
-Shays'_Rebellion.jpg confirmed for Washington the need to overhaul the Articles of Confederation.]]
+confirmed for Washington the need to overhaul the Articles of Confederation.]]
 
 Before returning to private life in June 1783, Washington called for a strong union. Though he was concerned that he might be criticized for meddling in civil matters, he sent a circular letter to all the states maintaining that the Articles of Confederation was no more than "a rope of sand" linking the states. He believed that the nation was on the verge of "anarchy and confusion", was vulnerable to foreign intervention and that a national constitution would unify the states under a strong central government. When Shays' Rebellion erupted in Massachusetts on August 29, 1786 over taxation, Washington was further convinced that a national constitution was needed. Some nationalists feared that the new republic had descended into lawlessness, and they met together on September 11, 1786 at Annapolis to ask Congress to revise the Articles of Confederation. One of their biggest efforts, however, was getting Washington to attend. Congress agreed to a Constitutional Convention to be held in Philadelphia in Spring 1787, and each state was to send delegates.
 
-On December 4, 1786, Washington was chosen to lead the Virginia delegation, but he declined on December 21. He had concerns about the legality of the convention and consulted James Madison, Henry Knox, and others. They persuaded him to attend it, however, as his presence might induce reluctant states to send delegates and smooth the way for the ratification process. On March 28, Washington told Governor Edmund Randolph that he would attend the convention, but made it clear that he was urged to attend. Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg'' by Howard Chandler Christy, 1940. Washington is the presiding officer standing at right.|alt=Painting by Howard Chandler Christy, depicting the signing of the Constitution of the United States, with Washington as the presiding officer standing at right]] Washington arrived in Philadelphia on May 9, 1787, though a quorum was not attained until Friday, May 25. Benjamin Franklin nominated Washington to preside over the convention, and he was unanimously elected to serve as president general. The convention's state-mandated purpose was to revise the Articles of Confederation with "all such alterations and further provisions" required to improve them, and the new government would be established when the resulting document was "duly confirmed by the several states". Governor Edmund Randolph of Virginia introduced Madison's Virginia Plan on May 27, the third day of the convention. It called for an entirely new constitution and a sovereign national government, which Washington highly recommended.
+On December 4, 1786, Washington was chosen to lead the Virginia delegation, but he declined on December 21. He had concerns about the legality of the convention and consulted James Madison, Henry Knox, and others. They persuaded him to attend it, however, as his presence might induce reluctant states to send delegates and smooth the way for the ratification process. On March 28, Washington told Governor Edmund Randolph that he would attend the convention, but made it clear that he was urged to attend. '' by Howard Chandler Christy, 1940. Washington is the presiding officer standing at right.|alt=Painting by Howard Chandler Christy, depicting the signing of the Constitution of the United States, with Washington as the presiding officer standing at right]] Washington arrived in Philadelphia on May 9, 1787, though a quorum was not attained until Friday, May 25. Benjamin Franklin nominated Washington to preside over the convention, and he was unanimously elected to serve as president general. The convention's state-mandated purpose was to revise the Articles of Confederation with "all such alterations and further provisions" required to improve them, and the new government would be established when the resulting document was "duly confirmed by the several states". Governor Edmund Randolph of Virginia introduced Madison's Virginia Plan on May 27, the third day of the convention. It called for an entirely new constitution and a sovereign national government, which Washington highly recommended.
 
 Washington wrote Alexander Hamilton on July 10: "I almost despair of seeing a favorable issue to the proceedings of our convention and do therefore repent having had any agency in the business." Nevertheless, he lent his prestige to the goodwill and work of the other delegates. He unsuccessfully lobbied many to support ratification of the Constitution, such as anti-federalist Patrick Henry, to whom he said "the adoption of it under the present circumstances of the Union is in my opinion desirable", declaring that the alternative would be anarchy. Washington and Madison then spent four days at Mount Vernon evaluating the transition of the new government.
 
@@ -212,8 +208,6 @@ The delegates to the Convention anticipated a Washington presidency and left it 
 
 
 Presidency (1789–1797)
-
-George_Washington_1795.jpg
 
 Washington was inaugurated on April 30, 1789, taking the oath of office at Federal Hall in New York City. His coach was led by militia and a marching band and followed by statesmen and foreign dignitaries in an inaugural parade, with a crowd of 10,000. Chancellor Robert R. Livingston administered the oath, using a Bible provided by the Masons, after which the militia fired a 13-gun salute. Washington read a speech in the Senate Chamber, asking "that Almighty Being who rules over the universe, who presides in the councils of nations—and whose providential aids can supply every human defect, consecrate the liberties and happiness of the people of the United States". Though he wished to serve without a salary, Congress insisted adamantly that he accept it, later providing Washington $25,000 per year to defray costs of the presidency.
 
@@ -239,7 +233,7 @@ In response to two antislavery petitions, Georgia and South Carolina objected an
 
 National Bank
 
-Philadelphia_Presidents_house.jpg Washington's first term was largely devoted to economical concerns, in which Hamilton had devised various plans to address matters. The establishment of public credit became a primary challenge for the federal government. Hamilton submitted a report to a deadlocked Congress, and he, Madison, and Jefferson reached the Compromise of 1790 in which Jefferson agreed to Hamilton's debt proposals in exchange for moving the nation's capital temporarily to Philadelphia and then south near Georgetown on the Potomac River. The terms were legislated in the Funding Act of 1790 and the Residence Act, both of which Washington signed into law. Congress authorized the assumption and payment of the nation's debts, with funding provided by customs duties and excise taxes.
+Washington's first term was largely devoted to economical concerns, in which Hamilton had devised various plans to address matters. The establishment of public credit became a primary challenge for the federal government. Hamilton submitted a report to a deadlocked Congress, and he, Madison, and Jefferson reached the Compromise of 1790 in which Jefferson agreed to Hamilton's debt proposals in exchange for moving the nation's capital temporarily to Philadelphia and then south near Georgetown on the Potomac River. The terms were legislated in the Funding Act of 1790 and the Residence Act, both of which Washington signed into law. Congress authorized the assumption and payment of the nation's debts, with funding provided by customs duties and excise taxes.
 
 Hamilton created controversy among Cabinet members by advocating the establishment of the First Bank of the United States. Madison and Jefferson objected, but the bank easily passed Congress. Jefferson and Randolph insisted that the new bank was beyond the authority granted by the constitution, as Hamilton believed. Washington sided with Hamilton and signed the legislation on February 25, and the rift became openly hostile between Hamilton and Jefferson.
 
@@ -263,7 +257,7 @@ Washington's forceful action demonstrated that the new government could protect 
 
 Foreign affairs
 
-John_Jay_(Gilbert_Stuart_portrait).jpg, negotiator of the Jay Treaty |alt=Formal portrait of Chief Justice John Jay, wearing judge's robe]]
+, negotiator of the Jay Treaty |alt=Formal portrait of Chief Justice John Jay, wearing judge's robe]]
 
 In April 1792, the French Revolutionary Wars began between Great Britain and France, and Washington declared America's neutrality. The revolutionary government of France sent diplomat Citizen Genêt to America, and he was welcomed with great enthusiasm. He created a network of new Democratic-Republican Societies promoting France's interests, but Washington denounced them and demanded that the French recall Genêt. The National Assembly of France granted Washington honorary French citizenship on August 26, 1792, during the early stages of the French Revolution. Hamilton formulated the Jay Treaty to normalize trade relations with Great Britain while removing them from western forts, and also to resolve financial debts remaining from the Revolution. Chief Justice John Jay acted as Washington's negotiator and signed the treaty on November 19, 1794; critical Jeffersonians, however, supported France. Washington deliberated, then supported the treaty because it avoided war with Britain, but he was disappointed that its provisions favored Britain. He mobilized public opinion and secured ratification in the Senate, but he faced frequent public criticism.
 
@@ -271,7 +265,7 @@ The British agreed to abandon their forts around the Great Lakes, and the United
 
 Indian affairs
 
-Red_Jacket_2.jpg was Washington's peace emissary with the Western Confederation. |alt=Portrait of Seneca Chief Sagoyewatha, Washington's peace emissary]]
+was Washington's peace emissary with the Western Confederation. |alt=Portrait of Seneca Chief Sagoyewatha, Washington's peace emissary]]
 
 Washington always tried to be evenhanded in dealing with the Indians. He hoped that they would abandon their itinerant hunting life and adapt to fixed agricultural communities in the manner of Anglo-Saxon settlers. He never advocated outright confiscation of their land or the forcible removal of tribes, and he berated American settlers who abused Indians, admitting that he held out no hope for pacific relations with the Indians as long as "frontier settlers entertain the opinion that there is not the same crime (or indeed no crime at all) in killing an Indian as in killing a white man."[2]
 
@@ -281,7 +275,7 @@ Washington decided that "The Government of the United States are determined that
 
 In the Southwest, negotiations failed between federal commissioners and raiding Indian tribes seeking retribution. Washington invited Creek Chief Alexander McGillivray and 24 leading chiefs to New York to negotiate a treaty and treated them like foreign dignitaries. Knox and McGillivray concluded the _Treaty of New York_ on August 7, 1790 in Federal Hall, which provided the tribes with agricultural supplies and McGillivray with a rank of Brigadier General Army and a salary of $1,500.
 
-Fallen_timbers.jpg was ceded to America in its aftermath]]
+was ceded to America in its aftermath]]
 
 In 1790, Washington sent Brigadier General Josiah Harmar to pacify the Northwest tribes, but Little Turtle routed him twice and forced him to withdraw. The Western Confederacy of tribes used guerrilla tactics and were an effective force against the sparsely manned American Army. Washington sent Major General Arthur St. Clair from Fort Washington on an expedition to restore peace in the territory in 1791. On November 4, St. Clair's forces were ambushed and soundly defeated by tribal forces with few survivors, despite Washington's warning of surprise attacks. Washington was outraged over what he viewed to be excessive Native American brutality and execution of captives, including women and children.
 
@@ -293,8 +287,6 @@ Originally Washington had planned to retire after his first term, while many Ame
 
 When the election of 1792 neared, Washington did not publicly announce his presidential candidacy, but silently consented to run, to prevent a further political-personal rift in his cabinet. The Electoral College unanimously elected him president on February 13, 1793, and John Adams as vice president by a vote of 77 to 50. Washington, with nominal fanfare, arrived alone at his inauguration in his carriage. Sworn into office by Associate Justice William Cushing on March 4, 1793, in the Senate Chamber of Congress Hall in Philadelphia, Washington gave a brief address, and then immediately retired to his Philadelphia presidential house, weary of office, and in poor health.
 
-Constitution1803.jpg
-
 Commissioned and named by President Washington in 1794.]]
 
 On April 22, 1793, during the French Revolution, Washington issued his famous Neutrality Proclamation and was resolved to pursue, "a conduct friendly and impartial toward the belligerent Powers" while he warned Americans not to intervene in the international conflict. Although Washington recognized France's revolutionary government, he would eventually ask French minister to America Citizen Genet be recalled over the Citizen Genet Affair. Genet was a diplomatic troublemaker who was openly hostile toward Washington's neutrality policy and had procured four American ships as privateers to strike at Spanish forces, British allies, in Florida, while organizing militias to strike at other British possessions, but his efforts failed to draw America into the foreign campaigns during Washington's presidency. On July 31, 1793 Jefferson submitted his resignation from Washington's cabinet. In March 1794, Washington signed the Naval Act which founded the U.S. Navy, and he commissioned the first six federal frigates to combat Barbary pirates.
@@ -305,7 +297,7 @@ In the final months of his presidency, Washington was assailed by his political 
 
 Farewell Address
 
-Washington's_Farewell_Address.jpg (September 19, 1796) |alt=Newspaper showing Washington's Farewell Address]]
+(September 19, 1796) |alt=Newspaper showing Washington's Farewell Address]]
 
 In 1796, Washington declined to run for a third term of office, believing his death in office would create an image of a lifetime appointment. The precedent of a two-term limit was created by his retirement from office. In May 1792, in anticipation of his retirement, Washington instructed James Madison to prepare a "valedictory address”, an initial draft of which was entitled the “Farewell Address”. In May 1796, Washington sent the manuscript to his Secretary of Treasury Alexander Hamilton who did an extensive rewrite, while Washington provided final edits. On September 19, 1796, David Claypoole's _American Daily Advertiser_ published the final version of the address.
 
@@ -328,7 +320,7 @@ Washington was thought to be rich because of the well-known "glorified façade o
 
 Final days
 
-Life_of_George_Washington,_Deathbed.jpg 1799]]
+1799]]
 
 On Thursday, December 12, 1799, Washington inspected his farms on horseback in snow and sleet. He returned home late for dinner but refused to change out of his wet clothes, not wanting to keep his guests waiting. He had a sore throat the following day but again went out in freezing, snowy weather to mark trees for cutting. That evening, he complained of chest congestion but was still cheerful. On Saturday, he awoke to an inflamed throat and difficulty breathing, so he ordered estate overseer George Rawlins to remove nearly a pint of his blood, a practice of the time. His family summoned Doctors James Craik, Gustavus Richard Brown, and Elisha C. Dick. (Dr. William Thornton arrived some hours after Washington died.)
 
@@ -336,14 +328,12 @@ Dr. Brown thought that Washington had quinsy; Dick thought that the condition wa
 
 Washington's death came more swiftly than expected. At his deathbed, he instructed his private secretary Tobias Lear to wait three days before his burial, out of fear of being entombed alive. According to Lear, he died peacefully between 10 and 11 p.m. on Saturday, December 14, 1799 with Martha seated at the foot of his bed, and his last words were "'Tis well", from his conversation with Lear about his burial. He was 67.
 
-GeorgeWashingtonByRobertField.jpg of George Washington by Robert Field (1800)]] Congress immediately adjourned for the day upon news of Washington's death, and the Speaker's chair was shrouded in black the next morning. The funeral was held four days after his death on December 18, 1799 at Mount Vernon, where his body was interred. Cavalry and foot soldiers led the procession, and six colonels served as the pallbearers. The Mount Vernon funeral service was restricted mostly to family and friends. Reverend Thomas Davis read the funeral service by the vault with a brief address, followed by a ceremony performed by various members of Washington's Masonic lodge in Alexandria, Virginia. Congress chose Light-Horse Harry Lee to deliver the eulogy. Word of his death traveled slowly; church bells rang in the cities, and many places of business closed. People worldwide admired Washington and were saddened by his death, and memorial processions were held in major cities of the United States. Martha wore a black mourning cape for one year, and she burned their correspondence to protect their privacy. Only five letters between the couple are known to have survived, two letters from Martha to George and three from him to her.
+of George Washington by Robert Field (1800)]] Congress immediately adjourned for the day upon news of Washington's death, and the Speaker's chair was shrouded in black the next morning. The funeral was held four days after his death on December 18, 1799 at Mount Vernon, where his body was interred. Cavalry and foot soldiers led the procession, and six colonels served as the pallbearers. The Mount Vernon funeral service was restricted mostly to family and friends. Reverend Thomas Davis read the funeral service by the vault with a brief address, followed by a ceremony performed by various members of Washington's Masonic lodge in Alexandria, Virginia. Congress chose Light-Horse Harry Lee to deliver the eulogy. Word of his death traveled slowly; church bells rang in the cities, and many places of business closed. People worldwide admired Washington and were saddened by his death, and memorial processions were held in major cities of the United States. Martha wore a black mourning cape for one year, and she burned their correspondence to protect their privacy. Only five letters between the couple are known to have survived, two letters from Martha to George and three from him to her.
 
 The diagnosis of Washington's illness and the immediate cause of his death have been subjects of debate since the day that he died. The published account of Drs. Craik and Brown stated that his symptoms had been consistent with _cynanche trachealis_ (tracheal inflammation), a term of that period used to describe severe inflammation of the upper windpipe, including quinsy. Accusations have persisted since Washington's death concerning medical malpractice, with some believing that he had been bled to death. Various modern medical authors have speculated that he died from a severe case of epiglottitis complicated by the given treatments, most notably the massive blood loss which almost certainly caused hypovolemic shock.
 
 
 Burial, net worth, and aftermath
-
-Washington_Tomb.jpg
 
 Washington was buried in the old Washington family vault at Mount Vernon, situated on a grassy slope overspread with willow, juniper, cypress, and chestnut trees. It contained the remains of his brother Lawrence and other family members, but the decrepit brick vault was in need of repair, prompting Washington to leave instructions in his will for the construction of a new vault. Washington's estate at the time of his death was worth an estimated $780,000 in 1799. The value of his estate in 2010 would have been worth $14.3 million.
 
@@ -354,7 +344,7 @@ On October 7, 1837, Washington's remains were placed, still in the original lead
 
 Personal life
 
-Edward_Savage_-_The_Washington_Family_-_Google_Art_ProjectFXD.jpg, c. 1786-91. National Art Gallery ]] Washington was somewhat reserved in personality, but he generally had a strong presence among others. He made speeches and announcements when required, but he was not a noted orator or debater. He was taller than most of his contemporaries; accounts of his height vary from to tall, he weighed between as an adult, and he was known for his great strength. He had grey-blue eyes and reddish-brown hair which he wore powdered in the fashion of the day. He had a rugged and dominating presence, which garnered respect from his male peers.
+, c. 1786-91. National Art Gallery ]] Washington was somewhat reserved in personality, but he generally had a strong presence among others. He made speeches and announcements when required, but he was not a noted orator or debater. He was taller than most of his contemporaries; accounts of his height vary from to tall, he weighed between as an adult, and he was known for his great strength. He had grey-blue eyes and reddish-brown hair which he wore powdered in the fashion of the day. He had a rugged and dominating presence, which garnered respect from his male peers.
 
 Washington suffered frequently from severe tooth decay, and ultimately lost all his teeth but one. He had several sets of false teeth made which he wore during his presidency—none of which were made of wood, contrary to common lore. These dental problems left him in constant pain, for which he took laudanum. As a public figure, he relied upon the strict confidence of his dentist.
 
@@ -363,8 +353,6 @@ Washington was a talented equestrian early in life. He collected thoroughbreds a
 Religion and Freemasonry
 
 Washington was descended from Anglican minister Lawrence Washington (his great-great-grandfather), whose troubles with the Church of England may have prompted his heirs to emigrate to America. Washington was baptized as an infant in April 1732 and became a devoted member of the Church of England (the Anglican Church). He served more than 20 years as a vestryman and churchwarden for Fairfax Parish and Truro Parish, Virginia. He privately prayed and read the Bible daily, and he publicly encouraged people and the nation to pray. He may have taken communion on a regular basis prior to the Revolutionary War, but he did not do so following the war, for which he was admonished by Pastor James Abercrombie.
-
-Washington_Masonic_print.jpg
 
 Washington believed in a "wise, inscrutable, and irresistible" Creator God who was active in the Universe, contrary to deistic thought. He referred to God by the Enlightenment terms _Providence_, the _Creator_, or the _Almighty_, and also as the _Divine Author_ or the _Supreme Being_. He believed in a divine power who watched over battlefields, was involved in the outcome of war, was protecting his life, and was involved in American politics—and specifically in the creation of the United States. Modern historian Ron Chernow has posited that Washington avoided evangelistic Christianity or hellfire-and-brimstone speech along with communion and anything inclined to "flaunt his religiosity". Chernow has also said that Washington "never used his religion as a device for partisan purposes or in official undertakings". No mention of Jesus Christ appears in his private correspondence, and such references are rare in his public writings. He often quoted from the Bible or paraphrased it, and often referred to the Anglican Book of Common Prayer. There is debate on whether he is best classed as a Christian or a theistic rationalist—or both.
 
@@ -375,7 +363,7 @@ Freemasonry was a widely accepted institution in the late 18th century, known fo
 
 Slavery
 
-Junius_Brutus_Stearns_-_George_Washington_as_Farmer_at_Mount_Vernon.jpg, 1851]]
+, 1851]]
 
 Washington was born into a world that largely used slavery and accepted the practice without question. He owned and worked African slaves throughout his adult life. The socio-economic life of colonial Virginia largely depended on slave labor, while Washington initially held no moral opposition towards the institution and viewed slave workers as human property. However, during Washington's day, many patriots recognized the gap between the ideals of liberty and slavery, as expressed by his close friends Lafayette and Hamilton, leading to his apparent and gradual disapproval of the institution beginning in the American Revolution.. Washington inherited Mount Vernon, a "substantial agriculture estate" that consisted of five farms. He also inherited his first 10 to 12 slaves from his father and later obtained them from various family members, and by marriage. Washington, while president, publicly kept silent on slavery, believing that it was a nationaly divisive issue could destroy the union. His views on slavery were private, complex, and gradually evolved.
 
@@ -404,7 +392,7 @@ A year after George Washington's death, on January 1, 1801, Martha Washington si
 
 Historical reputation and legacy
 
-Stuart-george-washington-constable-1797.jpg (1797)
+(1797)
 
 ]]
 
@@ -418,7 +406,7 @@ Parson Weems's wrote a hagiographic biography in 1809 to honor Washington. Histo
 
 Memorials
 
-Washington_Monument_Dusk_Jan_2006.jpg, Washington, D.C.]]
+, Washington, D.C.]]
 
 Jared Sparks began collecting and publishing Washington's documentary record in the 1830s in _Life and Writings of George Washington_ (12 vols., 1834–1837). _The Writings of George Washington from the Original Manuscript Sources, 1745–1799_ (1931–44) is a 39-volume set edited by John Clement Fitzpatrick, who was commissioned by the George Washington Bicentennial Commission. It contains more than 17,000 letters and documents and is available online from the University of Virginia.
 
@@ -430,9 +418,9 @@ Currency and postage
 
 George Washington appears on contemporary U.S. currency, including the one-dollar bill and the quarter-dollar coin (the Washington quarter). Washington and Benjamin Franklin appeared on the nation's first postage stamps in 1847. Since that time, Washington has appeared on many postage issues, more than any other person.
 
-  ------------------------------- ------------------------------------------- -------------------------- -----------------------
-  Washington_1862_Issue-24c.jpg   Washington_WF_1917_Issue-5c_(cropped).jpg   2006_Quarter_Proof.png]]   One_dollar_1928.jpg]]
-  ------------------------------- ------------------------------------------- -------------------------- -----------------------
+  -- -- ---- ----
+        ]]   ]]
+  -- -- ---- ----
 
 
 See also

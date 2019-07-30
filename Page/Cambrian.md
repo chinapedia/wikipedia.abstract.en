@@ -68,7 +68,7 @@ Each of the local series is divided into several stages. The Cambrian is divided
 
 Dating the Cambrian
 
-Archeocyathids.JPGs from the Poleta formation in the Death Valley area]] The International Commission on Stratigraphy list the Cambrian period as beginning at and ending at .
+s from the Poleta formation in the Death Valley area]] The International Commission on Stratigraphy list the Cambrian period as beginning at and ending at .
 
 The lower boundary of the Cambrian was originally held to represent the first appearance of complex life, represented by trilobites. The recognition of small shelly fossils before the first trilobites, and Ediacara biota substantially earlier, led to calls for a more precisely defined base to the Cambrian period.[17]
 
@@ -102,7 +102,7 @@ Most animal life during the Cambrian was aquatic. Trilobites were once assumed t
 
 The period marked a steep change in the diversity and composition of Earth's biosphere. The Ediacaran biota suffered a mass extinction at the start of the Cambrian Period, which corresponded to an increase in the abundance and complexity of burrowing behaviour. This behaviour had a profound and irreversible effect on the substrate which transformed the seabed ecosystems. Before the Cambrian, the sea floor was covered by microbial mats. By the end of the Cambrian, burrowing animals had destroyed the mats in many areas through bioturbation, and gradually turned the seabeds into what they are today. As a consequence, many of those organisms that were dependent on the mats became extinct, while the other species adapted to the changed environment that now offered new ecological niches.[37] Around the same time there was a seemingly rapid appearance of representatives of all the mineralized phyla except the Bryozoa, which appeared in the Lower Ordovician.[38] However, many of those phyla were represented only by stem-group forms; and since mineralized phyla generally have a benthic origin, they may not be a good proxy for (more abundant) non-mineralized phyla.[39]
 
-Margaretia_dorus_Reconstruction.png'' from the Burgess Shale, which were once believed to be green algae, but are now understood to represent hemichordates.[40]]]
+'' from the Burgess Shale, which were once believed to be green algae, but are now understood to represent hemichordates.[40]]]
 
 While the early Cambrian showed such diversification that it has been named the Cambrian Explosion, this changed later in the period, when there occurred a sharp drop in biodiversity. About 515 million years ago, the number of species going extinct exceeded the number of new species appearing. Five million years later, the number of genera had dropped from an earlier peak of about 600 to just 450. Also, the speciation rate in many groups was reduced to between a fifth and a third of previous levels. 500 million years ago, oxygen levels fell dramatically in the oceans, leading to hypoxia, while the level of poisonous hydrogen sulfide simultaneously increased, causing another extinction. The later half of Cambrian was surprisingly barren and showed evidence of several rapid extinction events; the stromatolites which had been replaced by reef building sponges known as Archaeocyatha, returned once more as the archaeocyathids became extinct. This declining trend did not change until the Great Ordovician Biodiversification Event.[41][42]
 

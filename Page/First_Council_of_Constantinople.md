@@ -32,8 +32,6 @@ Damasus' response repudiated Maximus summarily and advised Theodosius to summon 
 
 The proceedings
 
-Gregor-Chora.jpg
-
 Thirty-six Pneumatomachians arrived but were denied admission to the council when they refused to accept the Nicene creed.
 
 Since Peter, the bishop of Alexandria, was not present, the presidency over the Council was given to Meletius as bishop of Antioch.[14] The first order of business before the Council was to declare the clandestine consecration of Maximus invalid, and to confirm Theodosius' installation of Gregory Nazianzus as Bishop of Constantinople. When Meletius died shortly after the opening of the council, Gregory was selected to lead the Council.

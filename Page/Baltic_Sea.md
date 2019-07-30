@@ -9,7 +9,7 @@ The Baltic Sea is connected by artificial waterways to the White Sea via the Whi
 
 Definitions
 
-Belte_inter.png ADMINISTRATION
+ADMINISTRATION
 
 The Helsinki Convention on the Protection of the Marine Environment of the Baltic Sea Area includes the Baltic Sea and the Kattegat, without calling Kattegat a part of the Baltic Sea, "For the purposes of this Convention the 'Baltic Sea Area' shall be the Baltic Sea and the Entrance to the Baltic Sea, bounded by the parallel of the Skaw in the Skagerrak at 57°44.43'N."[1]
 
@@ -55,7 +55,7 @@ At the time of the Roman Empire, the Baltic Sea was known as the _Mare Suebicum_
 
 Middle Ages
 
-Putgarten,_Kap_Arkona_(2011-05-21)_3.JPG on the island of Rügen in Germany, was a sacred site of the Slavs before Christianization.]] In the early Middle Ages, Norse (Scandinavian) merchants built a trade empire all around the Baltic. Later, the Norse fought for control of the Baltic against Wendish tribes dwelling on the southern shore. The Norse also used the rivers of Russia for trade routes, finding their way eventually to the Black Sea and southern Russia. This Norse-dominated period is referred to as the Viking Age.
+on the island of Rügen in Germany, was a sacred site of the Slavs before Christianization.]] In the early Middle Ages, Norse (Scandinavian) merchants built a trade empire all around the Baltic. Later, the Norse fought for control of the Baltic against Wendish tribes dwelling on the southern shore. The Norse also used the rivers of Russia for trade routes, finding their way eventually to the Black Sea and southern Russia. This Norse-dominated period is referred to as the Viking Age.
 
 Since the Viking age, the Scandinavians have referred to the Baltic Sea as _Austmarr_ ("Eastern Lake"). "Eastern Sea", appears in the _Heimskringla_ and _Eystra salt_ appears in _Sörla þáttr_. Saxo Grammaticus recorded in _Gesta Danorum_ an older name, _Gandvik_, _-vik_ being Old Norse for "bay", which implies that the Vikings correctly regarded it as an inlet of the sea. Another form of the name, "Grandvik", attested in at least one English translation of _Gesta Danorum_, is likely to be a misspelling.)
 
@@ -65,11 +65,11 @@ The lands on the Baltic's eastern shore were among the last in Europe to be conv
 
 An arena of conflict
 
-Haupthandelsroute_Hanse.png (_Hanse_).]] Curonians_kursenieki_in_1649.png Kursenieki spanned from Klaipėda to Gdańsk along the coast of the Baltic Sea.]]
+(_Hanse_).]] Kursenieki spanned from Klaipėda to Gdańsk along the coast of the Baltic Sea.]]
 
 In the period between the 8th and 14th centuries, there was much piracy in the Baltic from the coasts of Pomerania and Prussia, and the Victual Brothers even held Gotland.
 
-Starting in the 11th century, the southern and eastern shores of the Baltic were settled by migrants mainly from Germany, a movement called the _Ostsiedlung_ ("east settling"). Other settlers were from the Netherlands, Denmark, and Scotland. The Polabian Slavs were gradually assimilated by the Germans.[13] Denmark gradually gained control over most of the Baltic coast, until she lost much of her possessions after being defeated in the 1227 Battle of Bornhöved. Eerste_fase_van_de_Zeeslag_in_de_Sont_-_First_phase_of_the_Battle_of_the_Sound_-_November_8_1658_(Jan_Abrahamsz_Beerstraten,_1660).jpg took place on 8 November 1658 during the Dano-Swedish War.]] Cap_Arcona_burning.jpg'' shortly after the attacks, 3 May 1945. Only 350 survived of the 4,500 prisoners who had been aboard]]
+Starting in the 11th century, the southern and eastern shores of the Baltic were settled by migrants mainly from Germany, a movement called the _Ostsiedlung_ ("east settling"). Other settlers were from the Netherlands, Denmark, and Scotland. The Polabian Slavs were gradually assimilated by the Germans.[13] Denmark gradually gained control over most of the Baltic coast, until she lost much of her possessions after being defeated in the 1227 Battle of Bornhöved. took place on 8 November 1658 during the Dano-Swedish War.]] '' shortly after the attacks, 3 May 1945. Only 350 survived of the 4,500 prisoners who had been aboard]]
 
 In the 13th to 16th centuries, the strongest economic force in Northern Europe was the Hanseatic League, a federation of merchant cities around the Baltic Sea and the North Sea. In the sixteenth and early seventeenth centuries, Poland, Denmark, and Sweden fought wars for _Dominium maris baltici_ ("Lordship over the Baltic Sea"). Eventually, it was Sweden that virtually encompassed the Baltic Sea. In Sweden the sea was then referred to as _Mare Nostrum Balticum_ ("Our Baltic Sea"). The goal of Swedish warfare during the 17th century was to make the Baltic Sea an all-Swedish sea (_Ett Svenskt innanhav_), something that was accomplished except the part between Riga in Latvia and Stettin in Pomerania. However, the Dutch dominated Baltic trade in the seventeenth century.
 
@@ -100,7 +100,7 @@ Geography
 
 Geophysical data
 
-Baltic_drainage_basins_(catchment_area).svg Curonian_Spit_NP_05-2017_img17_aerial_view_at_Epha_Dune.jpg in Kaliningrad Oblast, Russia]]
+in Kaliningrad Oblast, Russia]]
 
 An arm of the North Atlantic Ocean, the Baltic Sea is enclosed by Sweden and Denmark to the west, Finland to the northeast, the Baltic countries to the southeast, and the North European Plain to the southwest.
 
@@ -132,7 +132,6 @@ The International Hydrographic Organization defines the limits of the Baltic Sea
 
 Subdivisions
 
-Baltic_marine_subdivisions_and_drainage_basins.gif
 2 = Bothnian Sea
 1 + 2 = Gulf of Bothnia, partly also 3 & 4
 3 = Archipelago Sea
@@ -159,8 +158,6 @@ In the south, the Bay of Gdańsk lies east of the Hel Peninsula on the Polish co
 
 Temperature and ice
 
-BalticSea_March2000_NASA-S2000084115409.png Baltic_Sea_1551_(5496745361).jpg
-
 The water temperature of the Baltic Sea varies significantly depending on exact location, season and depth. At the Bornholm Basin, which is located directly east of the island of the same name, the surface temperature typically falls to during the peak of the winter and rises to during the peak of the summer, with an annual average of around .[23] A similar pattern can be seen in the Gotland Basin, which is located between the island of Gotland and Latvia. In the deep of these basins the temperature variations are smaller. At the bottom of the Bornholm Basin, deeper than , the temperature typically is , and at the bottom of the Gotland Basin, at depths greater than , the temperature typically is .[24]
 
 On the long-term average, the Baltic Sea is ice-covered at the annual maximum for about 45% of its surface area. The ice-covered area during such a typical winter includes the Gulf of Bothnia, the Gulf of Finland, the Gulf of Riga, the archipelago west of Estonia, the Stockholm archipelago, and the Archipelago Sea southwest of Finland. The remainder of the Baltic does not freeze during a normal winter, except sheltered bays and shallow lagoons such as the Curonian Lagoon. The ice reaches its maximum extent in February or March; typical ice thickness in the northernmost areas in the Bothnian Bay, the northern basin of the Gulf of Bothnia, is about for landfast sea ice. The thickness decreases farther south.
@@ -173,7 +170,7 @@ Since 1720, the Baltic Sea has frozen over entirely 20 times, most recently in e
 
 In recent years before 2011, the Bothnian Bay and the Bothnian Sea were frozen with solid ice near the Baltic coast and dense floating ice far from it. In 2008, almost no ice formed except for a short period in March.[28]
 
-Jäämäed_Puhtulaiul_1.JPG, Estonia, in late April]] During winter, fast ice, which is attached to the shoreline, develops first, rendering ports unusable without the services of icebreakers. Level ice, ice sludge, pancake ice, and rafter ice form in the more open regions. The gleaming expanse of ice is similar to the Arctic, with wind-driven pack ice and ridges up to . Offshore of the landfast ice, the ice remains very dynamic all year, and it is relatively easily moved around by winds and therefore forms pack ice, made up of large piles and ridges pushed against the landfast ice and shores.
+, Estonia, in late April]] During winter, fast ice, which is attached to the shoreline, develops first, rendering ports unusable without the services of icebreakers. Level ice, ice sludge, pancake ice, and rafter ice form in the more open regions. The gleaming expanse of ice is similar to the Arctic, with wind-driven pack ice and ridges up to . Offshore of the landfast ice, the ice remains very dynamic all year, and it is relatively easily moved around by winds and therefore forms pack ice, made up of large piles and ridges pushed against the landfast ice and shores.
 
 In spring, the Gulf of Finland and the Gulf of Bothnia normally thaw in late April, with some ice ridges persisting until May in the eastern extremities of the Gulf of Finland. In the northernmost reaches of the Bothnian Bay, ice usually stays until late May; by early June it is practically always gone. However, in the famine year of 1867 remnants of ice were observed as late as July 17 near Uddskär.[29] Even as far south as Øresund, remnants of ice have been observed in May on several occasions; near Taarbaek on May 15, 1942 and near Copenhagen on May 11, 1771. Drift ice was also observed on May 11, 1799.[30][31][32]
 
@@ -181,7 +178,7 @@ The ice cover is the main habitat for two large mammals, the grey seal (_Halicho
 
 Hydrography
 
-Ostseetiefen.png The Baltic Sea flows out through the Danish straits; however, the flow is complex. A surface layer of brackish water discharges per year into the North Sea. Due to the difference in salinity, by salinity permeation principle, a sub-surface layer of more saline water moving in the opposite direction brings in per year. It mixes very slowly with the upper waters, resulting in a salinity gradient from top to bottom, with most of the salt water remaining below deep. The general circulation is anti-clockwise: northwards along its eastern boundary, and south along the western one .[33]
+The Baltic Sea flows out through the Danish straits; however, the flow is complex. A surface layer of brackish water discharges per year into the North Sea. Due to the difference in salinity, by salinity permeation principle, a sub-surface layer of more saline water moving in the opposite direction brings in per year. It mixes very slowly with the upper waters, resulting in a salinity gradient from top to bottom, with most of the salt water remaining below deep. The general circulation is anti-clockwise: northwards along its eastern boundary, and south along the western one .[33]
 
 The difference between the outflow and the inflow comes entirely from fresh water. More than 250 streams drain a basin of about , contributing a volume of per year to the Baltic. They include the major rivers of north Europe, such as the Oder, the Vistula, the Neman, the Daugava and the Neva. Additional fresh water comes from the difference of precipitation less evaporation, which is positive.
 
@@ -193,7 +190,7 @@ The significant wave height is generally much lower than that of the North Sea. 
 
 Salinity
 
-Sunny_day_on_the_coast_on_Baltic_sea.jpg (Karklė).]]
+(Karklė).]]
 
 The Baltic Sea is the world's largest inland brackish sea.[35] Only two other brackish waters are larger on some measurements: The Black Sea is larger in both surface area and water volume, but most of it is located outside the continental shelf (only a small percentage is inland). The Caspian Sea is larger in water volume, but—despite its name—it is a lake rather than a sea.[36]
 
@@ -239,7 +236,7 @@ The rating of mean discharges differs from the ranking of hydrological lengths (
 
 Islands and archipelagoes
 
-Archipelago062009.jpg form an integral and typical part of many of the archipelagos of the Baltic Sea, such as these in the archipelago of the Åland Islands, Finland.]] Korsö_Kroksö_Sandön_February_2013.jpg]] Bornholm_luftaufnahme.jpg, Denmark]]
+form an integral and typical part of many of the archipelagos of the Baltic Sea, such as these in the archipelago of the Åland Islands, Finland.]] ]] , Denmark]]
 
 -   Åland Islands (Finland, autonomous)
 -   Archipelago Sea (Finland)
@@ -273,7 +270,7 @@ Archipelago062009.jpg form an integral and typical part of many of the archipela
 
 Coastal countries
 
-Image-Lithuania_Juodkrante_sand_dunes.jpg are characteristic for large parts of the southern shore of the Baltic Sea. Kuršių Nerija National Park in Lithuania _(pictured)_ is a part of the Curonian Spit World Heritage Site.]] Population_density_in_the_Baltic_Sea_catchment_area.svg
+are characteristic for large parts of the southern shore of the Baltic Sea. Kuršių Nerija National Park in Lithuania _(pictured)_ is a part of the Curonian Spit World Heritage Site.]]
 
 Countries that border the sea:
 
@@ -289,7 +286,7 @@ About 20% of the land is used for agriculture and pasture, mainly in Poland and 
 
 The rest of the land is heavily populated. About 85 million people live in the Baltic drainage basin, 15 million within of the coast and 29 million within of the coast. Around 22 million live in population centers of over 250,000. 90% of these are concentrated in the band around the coast. Of the nations containing all or part of the basin, Poland includes 45% of the 85 million, Russia 12%, Sweden 10% and the others less than 6% each.[44]
 
-Таллин._-_panoramio.jpg in Estonia]] Paasitorni_by_the_sea.jpg in Finland]] Stockholm_8721-B_(9870833193).jpg in Sweden]] Spb_06-2017_img01_Spit_of_Vasilievsky_Island.jpg in Saint Petersburg, Russia]]
+in Estonia]] in Finland]] in Sweden]] in Saint Petersburg, Russia]]
 
 Cities
 
@@ -399,7 +396,7 @@ Other notable megafauna include the basking sharks.[76]
 
 Environmental status
 
-Phytoplankton_bloom_in_the_Baltic_Sea_(July_3,_2001).jpg algal bloom in the Baltic Proper, July 2001]] Satellite images taken in July 2010 revealed a massive algal bloom covering in the Baltic Sea. The area of the bloom extended from Germany and Poland to Finland. Researchers of the phenomenon have indicated that algal blooms have occurred every summer for decades. Fertilizer runoff from surrounding agricultural land has exacerbated the problem and led to increased eutrophication.[77]
+algal bloom in the Baltic Proper, July 2001]] Satellite images taken in July 2010 revealed a massive algal bloom covering in the Baltic Sea. The area of the bloom extended from Germany and Poland to Finland. Researchers of the phenomenon have indicated that algal blooms have occurred every summer for decades. Fertilizer runoff from surrounding agricultural land has exacerbated the problem and led to increased eutrophication.[77]
 
 Approximately of the Baltic's seafloor (a quarter of its total area) is a variable dead zone. The more saline (and therefore denser) water remains on the bottom, isolating it from surface waters and the atmosphere. This leads to decreased oxygen concentrations within the zone. It is mainly bacteria that grow in it, digesting organic material and releasing hydrogen sulfide. Because of this large anaerobic zone, the seafloor ecology differs from that of the neighbouring Atlantic.
 
@@ -408,7 +405,7 @@ Plans to artificially oxygenate areas of the Baltic that have experienced eutrop
 
 Economy
 
-Palangos_tiltas1.jpg, the most popular sea resort in Lithuania]] Construction of the Great Belt Bridge in Denmark (completed 1997) and the Øresund Bridge-Tunnel (completed 1999), linking Denmark with Sweden, provided a highway and railroad connection between Sweden and the Danish mainland (the Jutland Peninsula, precisely the Zealand). The undersea tunnel of the Øresund Bridge-Tunnel provides for navigation of large ships into and out of the Baltic Sea. The Baltic Sea is the main trade route for export of Russian petroleum. Many of the countries neighboring the Baltic Sea have been concerned about this, since a major oil leak in a seagoing tanker would be disastrous for the Baltic—given the slow exchange of water. The tourism industry surrounding the Baltic Sea is naturally concerned about oil pollution.
+, the most popular sea resort in Lithuania]] Construction of the Great Belt Bridge in Denmark (completed 1997) and the Øresund Bridge-Tunnel (completed 1999), linking Denmark with Sweden, provided a highway and railroad connection between Sweden and the Danish mainland (the Jutland Peninsula, precisely the Zealand). The undersea tunnel of the Øresund Bridge-Tunnel provides for navigation of large ships into and out of the Baltic Sea. The Baltic Sea is the main trade route for export of Russian petroleum. Many of the countries neighboring the Baltic Sea have been concerned about this, since a major oil leak in a seagoing tanker would be disastrous for the Baltic—given the slow exchange of water. The tourism industry surrounding the Baltic Sea is naturally concerned about oil pollution.
 
 Much shipbuilding is carried out in the shipyards around the Baltic Sea. The largest shipyards are at Gdańsk, Gdynia, and Szczecin, Poland; Kiel, Germany; Karlskrona and Malmö, Sweden; Rauma, Turku, and Helsinki, Finland; Riga, Ventspils, and Liepāja, Latvia; Klaipėda, Lithuania; and Saint Petersburg, Russia.
 
@@ -416,7 +413,7 @@ There are several cargo and passenger ferries that operate on the Baltic Sea, su
 
 Tourism
 
-Пляж_в_Светлогорске_-_panoramio.jpg resort town in Kaliningrad Oblast, Russia]] Mrzezyno_east_beach_2010-07_A.jpg beach in Poland]] PIERS
+resort town in Kaliningrad Oblast, Russia]] beach in Poland]] PIERS
 
 -   Ahlbeck (Usedom), Germany
 -   Heiligendamm, Germany

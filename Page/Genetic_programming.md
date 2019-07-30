@@ -29,7 +29,7 @@ Methods
 
 Program representation
 
-Genetic_Program_Tree.png.]]
+.]]
 
 GP evolves computer programs, traditionally represented in memory as tree structures.[30] Trees can be easily evaluated in a recursive manner. Every tree node has an operator function and every terminal node has an operand, making mathematical expressions easy to evolve and evaluate. Thus traditionally GP favors the use of programming languages that naturally embody tree structures (for example, Lisp; other functional programming languages are also suitable).
 

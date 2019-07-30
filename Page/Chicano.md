@@ -27,7 +27,7 @@ Another hypothesis is that _chicano_ derives from the indigenous population of G
 
 Distinction from _Hispanic_ and _Latino_
 
-LA_teens.jpg, 1974|261x261px]]
+, 1974|261x261px]]
 
 Chicanos, like many Mexicans, are Mestizos who have heritage of both indigenous American cultures and European, mainly Spanish, through colonization and immigration. The term _Latino_ refers to a native or inhabitant of Latin America or a person of Latin American origin living in the U.S.
 
@@ -121,8 +121,6 @@ Militant Chicanos, regardless of their generational status, tend to connect thei
 
 
 Political aspects
-
-César Chávez at a United Farmworkers rally, 1974|thumb|upright
 
 Many currents came together to produce the revived Chicano political movement of the 1960s and 1970s. Early struggles were against school segregation, but the Mexican-American cause, or __ as it was called, soon came under the banner of the United Farm Workers and César Chávez. However, Corky Gonzales and Reies Tijerina stirred up old tensions about New Mexican land claims with roots going back to before the Mexican–American War. Simultaneous movements like the Young Lords, to empower youth, question patriarchy, democratize the Church, end police brutality, and end the Vietnam War, all intersected with other ethnic nationalist, peace, countercultural, and feminist movements.
 

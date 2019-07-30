@@ -1,4 +1,4 @@
-Amethyst_crystals_(Hematite_coated).jpg.]] AMETHYST is a violet variety of quartz.
+.]] AMETHYST is a violet variety of quartz.
 
 The name comes from the Koine Greek ἀμέθυστος _amethystos_ from ἀ- _a-_, "not" and μεθύσκω _methysko_ / μεθύω _methyo_, "intoxicate", a reference to the belief that the stone protected its owner from drunkenness.[1] The ancient Greeks wore amethyst and carved drinking vessels from it in the belief that it would prevent intoxication.
 
@@ -7,14 +7,14 @@ Amethyst is a semiprecious stone often used in jewelry and is the traditional bi
 
 Structure
 
-Améthystre_sceptre2.jpg]] Amethyst is a purple variety of quartz (SiO₂) and owes its violet color to irradiation, impurities of iron and in some cases other transition metals, and the presence of other trace elements, which result in complex crystal lattice substitutions.[2][3][4] The hardness of the mineral is the same as quartz, thus making it suitable for use in jewelry.
+]] Amethyst is a purple variety of quartz (SiO₂) and owes its violet color to irradiation, impurities of iron and in some cases other transition metals, and the presence of other trace elements, which result in complex crystal lattice substitutions.[2][3][4] The hardness of the mineral is the same as quartz, thus making it suitable for use in jewelry.
 
 
 Hue and tone
 
 Amethyst occurs in primary hues from a light pinkish violet to a deep purple. Amethyst may exhibit one or both secondary hues, red and blue.[5] The best varieties of amethyst can be found in Siberia, Sri Lanka, Brazil and the far East. The ideal grade is called "Deep Siberian" and has a primary purple hue of around 75–80%, with 15–20% blue and (depending on the light source) red secondary hues.[6] ‘Rose de France’ is defined by its markedly light shade of the purple, reminiscent of a lavender/lilac shade. These pale colors, were once considered undesirable but have recently become popular due to intensive marketing.
 
-Green quartz is sometimes incorrectly called green amethyst, which is a misnomer and not an appropriate name for the material, the proper terminology being prasiolite. Other names for green quartz are vermarine or lime citrine. Facet_Cut_Amethyst.jpgAmethyst_close_cropped.jpg cut amethyst]] Of very variable intensity, the color of amethyst is often laid out in stripes parallel to the final faces of the crystal. One aspect in the art of lapidary involves correctly cutting the stone to place the color in a way that makes the tone of the finished gem homogeneous. Often, the fact that sometimes only a thin surface layer of violet color is present in the stone or that the color is not homogeneous makes for a difficult cutting.
+Green quartz is sometimes incorrectly called green amethyst, which is a misnomer and not an appropriate name for the material, the proper terminology being prasiolite. Other names for green quartz are vermarine or lime citrine. cut amethyst]] Of very variable intensity, the color of amethyst is often laid out in stripes parallel to the final faces of the crystal. One aspect in the art of lapidary involves correctly cutting the stone to place the color in a way that makes the tone of the finished gem homogeneous. Often, the fact that sometimes only a thin surface layer of violet color is present in the stone or that the color is not homogeneous makes for a difficult cutting.
 
 The color of amethyst has been demonstrated to result from substitution by irradiation of trivalent iron (Fe³⁺) for silicon in the structure,[7][8] in the presence of trace elements of large ionic radius,[9] and, to a certain extent, the amethyst color can naturally result from displacement of transition elements even if the iron concentration is low. Natural amethyst is dichroic in reddish violet and bluish violet,[10] but when heated, turns yellow-orange, yellow-brown, or dark brownish and may resemble citrine,[11] but loses its dichroism, unlike genuine citrine. When partially heated, amethyst can result in ametrine.
 
@@ -23,7 +23,7 @@ Amethyst can fade in tone if overexposed to light sources and can be artificiall
 
 History
 
-Intaglio_Caracalla_Cdm_Paris_Chab2101.jpg engraved gem of Caracalla in amethyst, once in the Treasury of Sainte-Chapelle.]] Uninscribed_amethyst_scarab_at_the_center_of_a_string_of_amethyst_ball_beads._Middle_Kingdom._From_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology,_London.jpg Amethyst was used as a gemstone by the ancient Egyptians and was largely employed in antiquity for intaglio engraved gems.[13]
+engraved gem of Caracalla in amethyst, once in the Treasury of Sainte-Chapelle.]] Amethyst was used as a gemstone by the ancient Egyptians and was largely employed in antiquity for intaglio engraved gems.[13]
 
 The Greeks believed amethyst gems could prevent intoxication,[14] while medieval European soldiers wore amethyst amulets as protection in battle in the belief that amethysts heal people and keep them cool-headed.[15] Beads of amethyst were found in Anglo-Saxon graves in England.[16] Anglican bishops wear an episcopal ring often set with an amethyst, an allusion to the description of the Apostles as "not drunk" at Pentecost in Acts 2:15.[17]
 
@@ -64,11 +64,11 @@ Tibetans consider amethyst sacred to the Buddha and make prayer beads from it.[3
 
 Geographic distribution
 
-Minirals_museum_IMG_20180620_151046.jpg Amethyst is produced in abundance from the state of Minas Gerais in Brazil where it occurs in large geodes within volcanic rocks. Many of the hollow agates of southwestern Brazil and Uruguay contain a crop of amethyst crystals in the interior. Artigas, Uruguay and neighboring Brazilian state Rio Grande do Sul are large world producers exceeding in quantity Minas Gerais, as well as Mato Grosso, Espirito Santo, Bahia, and Ceará states, all amethyst producers of importance in Brazil.
+Amethyst is produced in abundance from the state of Minas Gerais in Brazil where it occurs in large geodes within volcanic rocks. Many of the hollow agates of southwestern Brazil and Uruguay contain a crop of amethyst crystals in the interior. Artigas, Uruguay and neighboring Brazilian state Rio Grande do Sul are large world producers exceeding in quantity Minas Gerais, as well as Mato Grosso, Espirito Santo, Bahia, and Ceará states, all amethyst producers of importance in Brazil.
 
 It is also found and mined in South Korea. The largest opencast amethyst vein in the world is in Maissau, Lower Austria. Much fine amethyst comes from Russia, especially from near Mursinka in the Ekaterinburg district, where it occurs in drusy cavities in granitic rocks. Many localities in south India yield amethyst.[33] One of the largest global amethyst producers is Zambia in southern Africa with an annual production of about 1000 tons.
 
-Amethyst occurs at many localities in the United States. Among these may be mentioned: the Mazatzal Mountain region in Gila and Maricopa Counties, Arizona; Red Feather Lakes, near Ft Collins, Colorado; Amethyst Mountain, Texas; Yellowstone National Park; Delaware County, Pennsylvania; Haywood County, North Carolina; Deer Hill and Stow, Maine and in the Lake Superior region of Minnesota, Wisconsin and Michigan.[34] Amethyst is relatively common in the Canadian provinces of Ontario and Nova Scotia. The largest amethyst mine in North America is located in Thunder Bay, Ontario. Druse.jpg that formed when large crystals grew in open spaces inside the rock.]] Amethyst is the official state gemstone of South Carolina. Several South Carolina amethysts are on display at the Smithsonian Museum of Natural History.[35]
+Amethyst occurs at many localities in the United States. Among these may be mentioned: the Mazatzal Mountain region in Gila and Maricopa Counties, Arizona; Red Feather Lakes, near Ft Collins, Colorado; Amethyst Mountain, Texas; Yellowstone National Park; Delaware County, Pennsylvania; Haywood County, North Carolina; Deer Hill and Stow, Maine and in the Lake Superior region of Minnesota, Wisconsin and Michigan.[34] Amethyst is relatively common in the Canadian provinces of Ontario and Nova Scotia. The largest amethyst mine in North America is located in Thunder Bay, Ontario. that formed when large crystals grew in open spaces inside the rock.]] Amethyst is the official state gemstone of South Carolina. Several South Carolina amethysts are on display at the Smithsonian Museum of Natural History.[35]
 
 
 Value

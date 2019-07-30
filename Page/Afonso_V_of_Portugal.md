@@ -5,7 +5,7 @@ As of 1471, Afonso V was the first king of Portugal to claim dominion over a plu
 
 Early life
 
-Cruzade_d'Alphonse_V_dit_l'africain.jpg Afonso was born in Sintra, the second son of King Edward of Portugal by his wife Eleanor of Aragon. Following the death of his older brother, Infante João (1429-1433), Afonso acceded to the position of heir apparent and was made the first Prince of Portugal by his father, who sought to emulate the English Court's custom of a dynastic title that distinguished the heir apparent from the other children of the monarch. He was only six years old when he succeeded his father in 1438.[2]
+Afonso was born in Sintra, the second son of King Edward of Portugal by his wife Eleanor of Aragon. Following the death of his older brother, Infante João (1429-1433), Afonso acceded to the position of heir apparent and was made the first Prince of Portugal by his father, who sought to emulate the English Court's custom of a dynastic title that distinguished the heir apparent from the other children of the monarch. He was only six years old when he succeeded his father in 1438.[2]
 
 During his minority, Afonso V was placed under the regency of his mother[3] in accordance with a will of his late father. As both a foreigner and a woman, the queen was not a popular choice for regent. Opposition rose and without any important ally among the Portuguese aristocracy other than Afonso, Count of Barcelos, the illegitimate half brother of King Edward, the queen's position was untenable. In 1439, the Portuguese Cortes (assembly of the kingdom) decided to replace the queen with Peter, Duke of Coimbra (Dom Pedro),[4] the young king's oldest uncle.[5]
 
@@ -16,11 +16,11 @@ But on 9 June 1448, when the king came of age, Peter had to surrender his power 
 
 Invasion of Morocco
 
-Landing_at_Asilah.jpg in 1471]] Afonso V then turned his attentions to North Africa. In the reign of his grandfather John I, Ceuta had been conquered from the king of Morocco, and now the new king wanted to expand the conquests. The king's army conquered Alcácer Ceguer in 1458 and Arzila in 1471. Tangiers, on the other hand, was won and lost several times between 1460 and 1464. These achievements granted the king the nickname of _the African_ or _Africano_.[8] The king also supported the exploration of the Atlantic Ocean led by prince Henry the Navigator but after Henry's death in 1460, he did nothing to continue Henry's work. Administratively, Afonso V was a passive king. He chose not to pursue the revision of laws or development of commerce, preferring instead to preserve the legacy of his father Edward and grandfather John I.
+in 1471]] Afonso V then turned his attentions to North Africa. In the reign of his grandfather John I, Ceuta had been conquered from the king of Morocco, and now the new king wanted to expand the conquests. The king's army conquered Alcácer Ceguer in 1458 and Arzila in 1471. Tangiers, on the other hand, was won and lost several times between 1460 and 1464. These achievements granted the king the nickname of _the African_ or _Africano_.[8] The king also supported the exploration of the Atlantic Ocean led by prince Henry the Navigator but after Henry's death in 1460, he did nothing to continue Henry's work. Administratively, Afonso V was a passive king. He chose not to pursue the revision of laws or development of commerce, preferring instead to preserve the legacy of his father Edward and grandfather John I.
 
 In 1452, Pope Nicholas V issued the papal bull _Dum Diversas_, which granted Afonso V the right to reduce "Saracens, pagans and any other unbelievers" to hereditary slavery. This was reaffirmed and extended in the Romanus Pontifex bull of 1455 (also by Nicholas V). These papal bulls came to be seen by some as a justification for the subsequent era of slave trade and European colonialism.
 
-FraMauroDetailedMapInverted.jpg was made under a commission by Afonso V in 1457. Finished on April 24, 1459, it was sent to Portugal with a letter to Prince Henry the Navigator, Afonso's uncle, encouraging further funding of exploration trips. Although the copy has been lost, the Andrea Bianco original is preserved at the Biblioteca Marciana (Venice).]]
+was made under a commission by Afonso V in 1457. Finished on April 24, 1459, it was sent to Portugal with a letter to Prince Henry the Navigator, Afonso's uncle, encouraging further funding of exploration trips. Although the copy has been lost, the Andrea Bianco original is preserved at the Biblioteca Marciana (Venice).]]
 
 
 Castile

@@ -9,7 +9,7 @@ The decimal system has been extended to _infinite decimals_, for representing an
 
 Origin
 
-Two_hand,_ten_fingers.jpg Many numeral systems of ancient civilisations use ten and its powers for representing numbers, possibly because there are ten fingers on two hands and people started counting by using their fingers. Examples are Brahmi numerals, Greek numerals, Hebrew numerals, Roman numerals, and Chinese numerals. Very large numbers were difficult to represent in these old numeral systems, and only the best mathematicians were able to multiply or divide large numbers. These difficulties were completely solved with the introduction of the Hindu–Arabic numeral system for representing integers. This system has been extended to represent some non-integer numbers, called _decimal fractions_ or _decimal numbers_ for forming the _decimal numeral system_.
+Many numeral systems of ancient civilisations use ten and its powers for representing numbers, possibly because there are ten fingers on two hands and people started counting by using their fingers. Examples are Brahmi numerals, Greek numerals, Hebrew numerals, Roman numerals, and Chinese numerals. Very large numbers were difficult to represent in these old numeral systems, and only the best mathematicians were able to multiply or divide large numbers. These difficulties were completely solved with the introduction of the Hindu–Arabic numeral system for representing integers. This system has been extended to represent some non-integer numbers, called _decimal fractions_ or _decimal numbers_ for forming the _decimal numeral system_.
 
 
 Decimal notation
@@ -96,8 +96,6 @@ $$0.0123123123\ldots =\frac{123}{10000} \sum_{k=0}^\infty 0.001^k = \frac{123}{1
 
 Decimal computation
 
-Decimal_multiplication_table.JPG
-
 Most modern computer hardware and software systems commonly use a binary representation internally (although many early computers, such as the ENIAC or the IBM 650, used decimal representation internally).[6] For external use by computer specialists, this binary representation is sometimes presented in the related octal or hexadecimal systems.
 
 For most purposes, however, binary values are converted to or from the equivalent decimal values for presentation to or input from humans; computer programs express literals in decimal by default. (123.1, for example, is written as such in a computer program, even though many computer languages are unable to encode that number precisely.)
@@ -109,28 +107,26 @@ Decimal arithmetic is used in computers so that decimal fractional results of ad
 
 History
 
-Qinghuajian,_Suan_Biao.jpg period in China.]] Many ancient cultures calculated with numerals based on ten, sometimes argued due to human hands typically having ten digits.[12] Standardized weights used in the Indus Valley Civilization (c.3300-1300 BCE) were based on the ratios: 1/20, 1/10, 1/5, 1/2, 1, 2, 5, 10, 20, 50, 100, 200, and 500, while their standardized ruler – the _Mohenjo-daro ruler_ – was divided into ten equal parts.[13][14][15] Egyptian hieroglyphs, in evidence since around 3000 BCE, used a purely decimal system,[16] as did the Cretan hieroglyphs (ca. 1625−1500 BC) of the Minoans whose numerals are closely based on the Egyptian model.[17][18] The decimal system was handed down to the consecutive Bronze Age cultures of Greece, including Linear A (ca. 18th century BC−1450 BC) and Linear B (ca. 1375−1200 BC) — the number system of classical Greece also used powers of ten, including, Roman numerals, an intermediate base of 5.[19] Notably, the polymath Archimedes (ca. 287–212 BC) invented a decimal positional system in his Sand Reckoner which was based on 10⁸[20] and later led the German mathematician Carl Friedrich Gauss to lament what heights science would have already reached in his days if Archimedes had fully realized the potential of his ingenious discovery.[21] Hittite hieroglyphs (since 15th century BCE) were also.strictly decimal.[22]
+period in China.]] Many ancient cultures calculated with numerals based on ten, sometimes argued due to human hands typically having ten digits.[12] Standardized weights used in the Indus Valley Civilization (c.3300-1300 BCE) were based on the ratios: 1/20, 1/10, 1/5, 1/2, 1, 2, 5, 10, 20, 50, 100, 200, and 500, while their standardized ruler – the _Mohenjo-daro ruler_ – was divided into ten equal parts.[13][14][15] Egyptian hieroglyphs, in evidence since around 3000 BCE, used a purely decimal system,[16] as did the Cretan hieroglyphs (ca. 1625−1500 BC) of the Minoans whose numerals are closely based on the Egyptian model.[17][18] The decimal system was handed down to the consecutive Bronze Age cultures of Greece, including Linear A (ca. 18th century BC−1450 BC) and Linear B (ca. 1375−1200 BC) — the number system of classical Greece also used powers of ten, including, Roman numerals, an intermediate base of 5.[19] Notably, the polymath Archimedes (ca. 287–212 BC) invented a decimal positional system in his Sand Reckoner which was based on 10⁸[20] and later led the German mathematician Carl Friedrich Gauss to lament what heights science would have already reached in his days if Archimedes had fully realized the potential of his ingenious discovery.[21] Hittite hieroglyphs (since 15th century BCE) were also.strictly decimal.[22]
 
 Some non-mathematical ancient texts like the Vedas, dating back to 1900–1700 BCE make use of decimals and mathematical decimal fractions.[23]
 
-The Egyptian hieratic numerals, the Greek alphabet numerals, the Hebrew alphabet numerals, the Roman numerals, the Chinese numerals and early Indian Brahmi numerals are all non-positional decimal systems, and required large numbers of symbols. For instance, Egyptian numerals used different symbols for 10, 20, to 90, 100, 200, to 900, 1000, 2000, 3000, 4000, to 10,000.[24] The world's earliest positional decimal system was the Chinese rod calculus.[25] Chounumerals.svg
+The Egyptian hieratic numerals, the Greek alphabet numerals, the Hebrew alphabet numerals, the Roman numerals, the Chinese numerals and early Indian Brahmi numerals are all non-positional decimal systems, and required large numbers of symbols. For instance, Egyptian numerals used different symbols for 10, 20, to 90, 100, 200, to 900, 1000, 2000, 3000, 4000, to 10,000.[24] The world's earliest positional decimal system was the Chinese rod calculus.[25]
 
 History of decimal fractions
 
-Rod_fraction.jpg Decimal fractions were first developed and used by the Chinese in the end of 4th century BC,[26] and then spread to the Middle East and from there to Europe.[27][28] The written Chinese decimal fractions were non-positional.[29] However, counting rod fractions were positional.[30]
+Decimal fractions were first developed and used by the Chinese in the end of 4th century BC,[26] and then spread to the Middle East and from there to Europe.[27][28] The written Chinese decimal fractions were non-positional.[29] However, counting rod fractions were positional.[30]
 
 Qin Jiushao in his book Mathematical Treatise in Nine Sections (1247[31]) denoted 0.96644 by
 
 
 
 
-        File:Counting rod 0.png File:Counting rod h9 num.png File:Counting rod v6.png File:Counting rod h6.png File:Counting rod v4.png File:Counting rod h4.png, meaning
+        , meaning
 
         096644
 
 J. Lennart Berggren notes that positional decimal fractions appear for the first time in a book by the Arab mathematician Abu'l-Hasan al-Uqlidisi written in the 10th century.[32] The Jewish mathematician Immanuel Bonfils used decimal fractions around 1350, anticipating Simon Stevin, but did not develop any notation to represent them.[33] The Persian mathematician Jamshīd al-Kāshī claimed to have discovered decimal fractions himself in the 15th century.[34] Al Khwarizmi introduced fraction to Islamic countries in the early 9th century; a Chinese author has alleged that his fraction presentation was an exact copy of traditional Chinese mathematical fraction from Sunzi Suanjing.[35] This form of fraction with numerator on top and denominator at bottom without a horizontal bar was also used by 10th century Abu'l-Hasan al-Uqlidisi and 15th century Jamshīd al-Kāshī's work "Arithmetic Key".[36][37]
-
-File:Stevin-decimal notation.svg
 
 A forerunner of modern European decimal notation was introduced by Simon Stevin in the 16th century.[38]
 

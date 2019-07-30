@@ -5,8 +5,6 @@ The current governor is Andrew Cuomo, a Democrat, who took office on January 1, 
 
 Powers and duties
 
-John_Jay_Certificate_of_Election_as_Gov._of_NY_1795.jpg
-
 The governor has a duty to enforce state laws, and the power to either approve or veto bills passed by the New York State Legislature, to convene the legislature, and to grant pardons, except in cases of treason and impeachment.[1] Unlike the other government departments that compose the executive branch of government, the governor is the head of the state Executive Department. The officeholder is afforded the courtesy style of _His/Her Excellency_ while in office.[2]
 
 The governor of New York is often considered a potential candidate for President of the United States. Ten governors have been major-party candidates for president, and four, Martin Van Buren, Grover Cleveland, Theodore Roosevelt, and Franklin D. Roosevelt have won. Six New York governors have gone on to serve as vice president.[3] Additionally two Governors of New York, John Jay and Charles Evans Hughes, have served as Chief Justice of the United States.

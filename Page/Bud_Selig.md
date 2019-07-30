@@ -22,7 +22,7 @@ Selig arranged for major league games to be played at Milwaukee County Stadium. 
 
 To satisfy that fan base, Selig decided to purchase the White Sox (with the intention of moving them to Milwaukee) in 1969. He entered into an agreement to buy the club, but the American League vetoed the sale, preferring to keep an American League team in Chicago, which at the time was still America's second largest city. Selig turned his attention to other franchises.
 
-Bud_Selig_statue.jpg'' outside of Miller Park]]
+'' outside of Miller Park]]
 
 In 1970, he purchased the bankrupt Seattle Pilots franchise, moving them to his hometown and officially renaming the team the _Brewers_.
 

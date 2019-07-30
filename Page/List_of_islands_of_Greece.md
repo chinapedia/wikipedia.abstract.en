@@ -1,5 +1,3 @@
-Aegean_Sea_with_island_groups_labeled.gif
-
 Greece has a large number of islands, with estimates ranging from somewhere around 1,200[1] to 6,000,[2] depending on the minimum size to take into account. The number of inhabited islands is variously cited as between 166[3] and 227.[4]
 
 The largest Greek island by area is Crete, located at the southern edge of the Aegean Sea. The second largest island is Euboea, which is separated from the mainland by the 60m-wide Euripus Strait, and is administered as part of the Central Greece region. After the third and fourth largest Greek Islands, Lesbos and Rhodes, the rest of the islands are two-thirds of the area of Rhodes, or smaller.
@@ -165,7 +163,7 @@ Other islands and islets
 
 Ionian Islands
 
-Ionian_sea_islands,_pic6.JPG, Lefkada]]
+, Lefkada]]
 
 Main seven
 
@@ -420,8 +418,6 @@ This is a list of islands, islets, and rocks that surround the island of Crete.
 
 Of the Aegean Sea
 
-Souda_Island.jpg 20090620_Spinalogka_Elounta_panoramic_view_from_the_mountain.jpg Pondikonisi_(cropped)01.jpg
-
 -   Afendis Christos
 -   Agia Varvara (island)
 -   Agioi Apostoloi
@@ -480,8 +476,6 @@ Souda_Island.jpg 20090620_Spinalogka_Elounta_panoramic_view_from_the_mountain.jp
 -   Vryonisi
 
 Of the Libyan Sea
-
-Laseamodern.JPG
 
 -   Agia Eirini
 -   Agriomandra

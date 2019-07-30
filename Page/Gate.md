@@ -1,4 +1,4 @@
-Bucuresti,_Romania,_BCR_(Poarta)_(B-II-m-A-18675).jpg (Romania)]] Castel_Béranger,_February_16,_2013.jpg gate of Castel Béranger (Paris)]]
+(Romania)]] gate of Castel Béranger (Paris)]]
 
 A GATE or GATEWAY is a point of entry to a space which is enclosed by walls. Gates may prevent or control the entry or exit of individuals, or they may be merely decorative. Other terms for gate include _YETT_ and _PORT_. The word is derived from old Norse "gat"[1], meaning road or path, and originally referred to the gap in the wall or fence, rather than the barrier which closed it. The moving part or parts of a gateway may be considered "doors", as they are fixed at one side whilst opening and closing like one[2].
 

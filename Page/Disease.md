@@ -1,4 +1,4 @@
-Mycobacterium_tuberculosis.jpg of _Mycobacterium tuberculosis_, a bacterium that causes tuberculosis]]
+of _Mycobacterium tuberculosis_, a bacterium that causes tuberculosis]]
 
 A DISEASE is a particular abnormal condition that negatively affects the structure or function of part or all of an organism, and that is not due to any external injury.[1][2] Diseases are often construed as MEDICAL CONDITIONS that are associated with specific symptoms and signs.[3] A disease may be caused by external factors such as pathogens or by internal dysfunctions. For example, internal dysfunctions of the immune system can produce a variety of different diseases, including various forms of immunodeficiency, hypersensitivity, allergies and autoimmune disorders.
 
@@ -202,7 +202,7 @@ The quality-adjusted life year (QALY) and disability-adjusted life year (DALY) m
 
 Society and culture
 
-Charles_Mellin_zugeschr_-_Porträt_eines_Herrn_-_Gemäldegalerie_Berlin.jpg was a status symbol in Renaissance culture: "The Tuscan General Alessandro del Borro", attributed to Andrea Sacchi, 1645.[39] It is now generally regarded as a disease.]]
+was a status symbol in Renaissance culture: "The Tuscan General Alessandro del Borro", attributed to Andrea Sacchi, 1645.[39] It is now generally regarded as a disease.]]
 
 How a society responds to diseases is the subject of medical sociology.
 

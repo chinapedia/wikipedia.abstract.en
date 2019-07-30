@@ -13,7 +13,7 @@ Throughout the 1920s, Ajax was a strong regional power, winning the Eerste Klass
 
 In 1956, the first season of the Netherlands' new professional league, the Eredivisie, was played with Ajax participating as a founding member. The Amsterdam club became the first national champions under the new format and made its debut in the European Champion Clubs' Cup the following year, losing to Hungarian champions Vasas SC 6–2 on aggregate at the quarter-final stage. The team were again Eredivisie champions in 1960 and won a third KNVB Cup in 1961.[9]
 
-Cruijff_afscheidswedstrijd_bij_Ajax.jpg played at Ajax from 1959 to 1973, and from 1981 to 1983, winning 3 European Cups; his No. 14 is the only squad number Ajax has ever retired. Cruyff came back to manage the club from 1985 to 1988.]] 1971_Champions_League_Final_Ajax_-_Panathinaikos.jpg]]
+played at Ajax from 1959 to 1973, and from 1981 to 1983, winning 3 European Cups; his No. 14 is the only squad number Ajax has ever retired. Cruyff came back to manage the club from 1985 to 1988.]] ]]
 
 In 1965, Rinus Michels, who had played for the club between 1946 and 1958, was appointed manager of Ajax, implementing his philosophy of Total Football which was to become synonymous with both Ajax and the Netherlands national team.[10][11] A year earlier, Johan Cruyff, who would go on to become the greatest Dutch footballer of all-time, made his debut.[12] Between them, Michels and Cruyff led Ajax through the most successful period in its history, winning seven Eredivisie titles, four KNVB Cups and three European Cups.
 
@@ -85,7 +85,7 @@ In 2016, Ajax launched the ACA (Ajax Coaching Academy) with the intention of sha
 
 Stadiums
 
-Ajax's first stadium was built in 1911 out of wood and was called Het Houten Stadion ("The Wooden Stadium"). Ajax later played in the stadium built for the 1928 Summer Olympics hosted in Amsterdam. This stadium, designed by Jan Wils, is known as the Olympic Stadium. In 1934, Ajax moved to De Meer Stadion in east Amsterdam, designed by architect and Ajax-member Daan Roodenburgh, who had also designed the club's first stadium. It could accommodate 29,500 spectators and Ajax continued to play there until 1996. For big European and national fixtures the club would often play at the Olympic Stadium, which could accommodate about twice the number of spectators. Amsterdam_Arena_Aerial.jpg]] In 1996, Ajax moved to a new home ground in the southeast of the city known as the Amsterdam Arena, since 2018 known as the Johan Cruyff Arena. This stadium was built by the Amsterdam city authority at a cost of $134 million. The stadium is capable of holding approximately 54,990 spectators. The average attendance in 2006–07 was 48,610, rising in the next season to 49,128. The Arena has a retractable roof and set a trend for other modern stadiums built in Europe in the following years. In the Netherlands, the Arena has earned a reputation for a terrible grass pitch caused by the removable roof that, even when open, takes away too much sunlight and fresh air. During the 2008–09 season, ground staff introduced an artificial lighting system that has finally reduced this problem considerably.
+Ajax's first stadium was built in 1911 out of wood and was called Het Houten Stadion ("The Wooden Stadium"). Ajax later played in the stadium built for the 1928 Summer Olympics hosted in Amsterdam. This stadium, designed by Jan Wils, is known as the Olympic Stadium. In 1934, Ajax moved to De Meer Stadion in east Amsterdam, designed by architect and Ajax-member Daan Roodenburgh, who had also designed the club's first stadium. It could accommodate 29,500 spectators and Ajax continued to play there until 1996. For big European and national fixtures the club would often play at the Olympic Stadium, which could accommodate about twice the number of spectators. ]] In 1996, Ajax moved to a new home ground in the southeast of the city known as the Amsterdam Arena, since 2018 known as the Johan Cruyff Arena. This stadium was built by the Amsterdam city authority at a cost of $134 million. The stadium is capable of holding approximately 54,990 spectators. The average attendance in 2006–07 was 48,610, rising in the next season to 49,128. The Arena has a retractable roof and set a trend for other modern stadiums built in Europe in the following years. In the Netherlands, the Arena has earned a reputation for a terrible grass pitch caused by the removable roof that, even when open, takes away too much sunlight and fresh air. During the 2008–09 season, ground staff introduced an artificial lighting system that has finally reduced this problem considerably.
 
 The much-loved De Meer Stadion was torn down and the land was sold to the city council. A residential neighbourhood now occupies the area. The only thing left of the old stadium are the letters "AJAX", which nowadays is in place on the façade of the youth training grounds De Toekomst, near the Johan Cruyff Arena.
 
@@ -96,9 +96,9 @@ Crest
 
 In 1900, when the club was founded, the emblem of Ajax was just a picture of an Ajax player. The crest was slightly altered following the club's promotion to the top division in 1911 to match the club's new outfits. In 1928, the club logo was introduced with the head of the Greek hero Ajax. The logo was once again changed in 1990 into an abstract version of the previous one. The new logo still sports the portrait of Ajax, but drawn with just 11 lines, symbolizing the 11 players of a football team.[33]
 
-  -------------------------------- -- --------------------------------- -- -------------------------------- -- --------------------
-  Ajax_Amsterdam_(1900–1928).gif      Ajax_Amsterdam_(1911–1928).jpeg      Ajax_Amsterdam_(1928–1990).png      Ajax_Amsterdam.svg
-  -------------------------------- -- --------------------------------- -- -------------------------------- -- --------------------
+  -- -- -- -- -- -- --
+
+  -- -- -- -- -- -- --
 
 Colours
 
@@ -115,7 +115,7 @@ In 2008, a Commission under guidance of honorary member Uri Coronel concluded th
 
 Sponsorship
 
-Basis_Elftal_Ajax_14Sep2011.jpg Ajax's shirts have been sponsored by TDK from 1982 to 1991, and by ABN AMRO from 1991 to 2008. AEGON then replaced ABN AMRO as the new head sponsor for a period of seven years.[38] On 1 April 2007, Ajax wore a different sponsor for the match against Heracles Almelo, _Florius_. Florius is a banking programme launched by ABN AMRO who wanted it to be the shirt sponsor for one match.
+Ajax's shirts have been sponsored by TDK from 1982 to 1991, and by ABN AMRO from 1991 to 2008. AEGON then replaced ABN AMRO as the new head sponsor for a period of seven years.[38] On 1 April 2007, Ajax wore a different sponsor for the match against Heracles Almelo, _Florius_. Florius is a banking programme launched by ABN AMRO who wanted it to be the shirt sponsor for one match.
 
 The shirts have been manufactured by Le Coq Sportif (1973–1977), Puma (1977–1980),[39] Le Coq Sportif (1980–1984)[40] Kappa (1985–1989)[41] and Umbro (1989–2000) in the past, and by Adidas since 2000 (until at least 2025).[42][43]
 
@@ -249,13 +249,13 @@ Past rivalries include local Amsterdam derbies between Ajax and clubs such as Bl
 
 Supporters
 
-Amsterdam_ArenA_15-09-2012_02.jpg Ajax are known for having fanatic core supporter-groups, of which F-Side and VAK410 are the most famous. F-Side were founded on 3 October 1976, and are situated right behind the goal in the Johan Cruyff Arena, on the southern end of the stadium in rows 125–129. Their name is derived from the group's former location on the F-side of the old De Meer Stadion.[101] The F-side supporters are responsible for a big part of the atmosphere in the stadium, but are also known for rioting during and after matches. If in any match Ajax should win the coin toss, the second half of the match Ajax always play towards the south-end of the stadium.[102] VAK410 (English: Row 410) were founded in 2001 and are situated in the Zuidhoek (_South corner_) of the stadium on the upper ring in rows 424–425. The group was originally situated on the North-West side of the stadium in row 410, from where it derives its name, until relocating to their current place in the stands in 2008.[103] Members of VAK410 are known to perform various stunts, which include massive banners, to enhance the atmosphere in the stadium. Neither F-Side or VAK410 have seats in their sections of the stadium, and both groups stand for the duration of the match.[104]
+Ajax are known for having fanatic core supporter-groups, of which F-Side and VAK410 are the most famous. F-Side were founded on 3 October 1976, and are situated right behind the goal in the Johan Cruyff Arena, on the southern end of the stadium in rows 125–129. Their name is derived from the group's former location on the F-side of the old De Meer Stadion.[101] The F-side supporters are responsible for a big part of the atmosphere in the stadium, but are also known for rioting during and after matches. If in any match Ajax should win the coin toss, the second half of the match Ajax always play towards the south-end of the stadium.[102] VAK410 (English: Row 410) were founded in 2001 and are situated in the Zuidhoek (_South corner_) of the stadium on the upper ring in rows 424–425. The group was originally situated on the North-West side of the stadium in row 410, from where it derives its name, until relocating to their current place in the stands in 2008.[103] Members of VAK410 are known to perform various stunts, which include massive banners, to enhance the atmosphere in the stadium. Neither F-Side or VAK410 have seats in their sections of the stadium, and both groups stand for the duration of the match.[104]
 
 Through the official _Football Top 20_ of Dutch sports research group _SPORT+MARKT_, it was revealed in 2010 that Ajax had approximately 7.1 million supporters throughout Europe.[105] This is significantly more than rivals Feyenoord and PSV (each 1.6 and 1.3 million, respectively), which puts Ajax as the club with the 15th-most supporters across Europe. The study also revealed that approximately 39% of the Netherlands were Ajax supporters.[106] Not only does Ajax have many supporters, but several fans attend their matches in European competition, with an average attendance of 48,677 spectators for every international match Ajax played, putting the team at 12th place in Europe for highest attendance, ahead of high-profile clubs such as Milan and Chelsea. It is noteworthy that not all stadiums share the capacity of the Johan Cruyff Arena.[107]
 
 Supporters clubs
 
-AFC_Ajax_kampioen_2010-2011.jpg The Supporters Club Ajax () is officially the largest supporters club in the Netherlands with 94,000 members.[108] Founded on 7 May 1992, the supporters club organize big monthly events throughout the Netherlands, and particularly around the official Ajax Open Training Day, which attracts thousands of supporters each year.[109] Furthermore, the supporters group is responsible for the Ajax Life website, as well as the fanzine which is issued 20 times a year.[110] In 2006, the AFCA Supportersclub was introduced as the club's second official supporters' association, through the merger of the Onafhankelijke Fanclub Ajax (OFA) and the Ajax Supporters Delegatie (ASD).[111] The AFCA Supportersclub has a reported 42,000 members, as well as a former member on the Board of Administration of Ajax, in Ronald Pieloor.[112]
+The Supporters Club Ajax () is officially the largest supporters club in the Netherlands with 94,000 members.[108] Founded on 7 May 1992, the supporters club organize big monthly events throughout the Netherlands, and particularly around the official Ajax Open Training Day, which attracts thousands of supporters each year.[109] Furthermore, the supporters group is responsible for the Ajax Life website, as well as the fanzine which is issued 20 times a year.[110] In 2006, the AFCA Supportersclub was introduced as the club's second official supporters' association, through the merger of the Onafhankelijke Fanclub Ajax (OFA) and the Ajax Supporters Delegatie (ASD).[111] The AFCA Supportersclub has a reported 42,000 members, as well as a former member on the Board of Administration of Ajax, in Ronald Pieloor.[112]
 
 The third official supporters club is the Ajax Business Associates (ABA). Founded in 1991 the ABA is the Business club of Ajax. Members occupy the skyboxes in the Stadium and can make use the clubs' amenities and luxury suites including the ABA club and lounge.[113] The ABA is also responsible for hosting the annual Ajax Business Golf Trophy, an amateur golf tournament where several active and former Ajax players, as well as prominent people and members of the ABA, participate.[114]
 
@@ -268,7 +268,7 @@ This graph displays the average attendance for home matches of Ajax from 1988–
 
 Jewish connection
 
-Ajaxingalgenwaard.JPG in 2008]]
+in 2008]]
 
 Historically, Ajax was popularly seen as having "Jewish roots". Although not an official Jewish club like the city's WV-HEDW, Ajax has had a Jewish image since the 1930s when the home stadium was located next to a Jewish neighbourhood of Amsterdam-Oost and opponents saw many supporters walking through the Nieuwmarkt/Waterloopleinbuurt (de Jodenhoek—the "Jews' corner") to get to the stadium.[115] The city of Amsterdam was historically referred to as a Mokum city, Mokum (מקום) being the Yiddish word for "place" or "safe haven",[116] and as anti-Semitic chants and name calling developed and intensified at the old De Meer Stadion from frustrated supporters of opposing clubs, Ajax fans (few of whom are actually Jewish[117]) responded by embracing Ajax's "Jewish" identity: calling themselves "super Jews", chanting "Jews, Jews" ("Joden, Joden") at games, and adopting Jewish symbols such as the Star of David and the Israeli flag.[118][119]
 
@@ -310,7 +310,7 @@ Executive Board
 -   Chairman: Hennie Henrichs
     -   Board members: 6 – ( Tonny Bruins Slot, Jan Buskerolen, Dick Schoenaker, Cees Vervoorn, Ronald Pieloor and Maarten Oldenhof)
 
-FrankBoer.JPG led the club to four consecutive national titles during his tenure as coach from 2010–2016.]]
+led the club to four consecutive national titles during his tenure as coach from 2010–2016.]]
 
 Board of directors
 
@@ -323,8 +323,6 @@ Supervisory Board
 
 -   Chairman: Hans Wijers
     -   Board members: 2 – ( Theo van Duivenbode, Leo van Wijk)[130]
-
-Edwin_van_der_Sar_2015.jpg
 
 Current staff
 
@@ -515,8 +513,6 @@ National
         1993, 1994, 1995, 2002, 2005, 2006, 2007, 2013
 
 International
-
-Ajax_puchar.JPG
 
 -   EUROPEAN CUP / CHAMPIONS LEAGUE: 4
 

@@ -3,8 +3,6 @@ European Classical music has long relied on music competitions to provide a publ
 
 Chamber music
 
-Roman_Kramsztyk_Koncert_1918.jpg
-
 -   Chesapeake Chamber Music Competition (Maryland, US)[1]
 -   Classic Pure Vienna International Music Competitions (Vienna, Austria)[2]
 -   International Michael-Haydn-Competition Salzburg (Salzburg, Austria)[3]
@@ -40,8 +38,6 @@ Choral/voice
 -   Vancouver International Music Competition (Vancouver, Canada)[25]
 -   International Early Music Vocal Competition "Canticum Gaudium", Poznan, Poland[26]
 -   Malta International Voice Competition, Valletta/Mdina, Malta
-
-Candlelight_Master_Young_Boy_Singing.jpg
 
 -   American Protege International Vocal Competition (US)[27]
 -   Australian Concerto and Vocal Competition (Townsville, Australia)[28]
@@ -83,8 +79,6 @@ Candlelight_Master_Young_Boy_Singing.jpg
 
 Composition
 
-Laurent_de_La_Hyre_-_Allegorical_Figure_of_Music_-_WGA12312.jpg
-
 -   Alba Rosa Viëtor Composition Competition (Amsterdam, The Netherlands)[50]
 -   Alexander Zemlinsky Prize for Composition (Cincinnati, US)[51]
 -   ARBORETUM Krzysztof Penderecki International Composers' Competition (Radom, Poland)[52]
@@ -120,8 +114,6 @@ Laurent_de_La_Hyre_-_Allegorical_Figure_of_Music_-_WGA12312.jpg
 
 
 Conducting
-
-Conductor_Tetiana_Kalinichenko.jpg
 
 -   Audite International Conducting Competition (Poland)[75]
 -   Cadaqués Orchestra International Conducting Competition (Spain)[76]
@@ -166,7 +158,7 @@ General/ mixed
 
 Instrumental
 
-Bartholomeo_Bettera_-_Still_Life_with_Musical_Instruments_and_Books_-_Google_Art_Project.jpg _Still Life with Musical Instruments and Books_]]
+_Still Life with Musical Instruments and Books_]]
 
 -   Calabria International Piano Competition (Calabria, Italy)[97]
 -   American Protege International Concerto Competition (New York, US)[98]
@@ -203,21 +195,21 @@ Large Ensembles
 
 -   Malta International Ensemble Competition, Valletta/Mdina, Malta
 
-Bach-applicatio-autograph.jpg ]]
+]]
 
 -   Ictus International Music Competition. (online international competition for bands, orchestras and jazz ensembles)[122]
 
 
 Musicology
 
-Bach-applicatio-autograph.jpg ]]
+]]
 
 -   Annual Musicology Competition (Worldwide)[123]
 
 
 Piano/keyboard
 
-Evangelische_Akademie_Tutzing_-_Schloss_-_Vorraum_004.jpg castle]] Maurizio_2.jpg
+castle]]
 
 -   Vienna Youth International Piano Competition (Vienna, Austria)[124]
 -   Aarhus International Piano Competition (Aarhus, Denmark)[125]
@@ -308,8 +300,6 @@ Evangelische_Akademie_Tutzing_-_Schloss_-_Vorraum_004.jpg castle]] Maurizio_2.jp
 
 String instruments
 
-Lady_Blunt_top.jpg
-
 -   Vancouver International Music Competition (Vancouver, Canada)[205]
 -   Klaipeda International Cello Competition (Klaipeda, Lithuania)[206]
 -   American Protege International Piano and Strings Competition (US)[207]
@@ -357,8 +347,6 @@ Lady_Blunt_top.jpg
 
 
 Woodwind instruments
-
-FoxBassoon.png
 
 -   American Protege International Woodwinds and Brass Competition (US)[230]
 

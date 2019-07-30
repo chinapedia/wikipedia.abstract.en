@@ -7,7 +7,7 @@ The Economist Intelligence Unit rated Italy as a "flawed democracy" in 2017.[1] 
 
 Government
 
-Political_System_of_Italy.svg Article 1 of the Italian Constitution states: _Italy is a democratic Republic founded on labour. Sovereignty belongs to the people and is exercised by the people in the forms and within the limits of the Constitution_.[5]
+Article 1 of the Italian Constitution states: _Italy is a democratic Republic founded on labour. Sovereignty belongs to the people and is exercised by the people in the forms and within the limits of the Constitution_.[5]
 
 By stating that Italy is a democratic republic, the article solemnly declares the results of the constitutional referendum which took place on 2 June 1946. The State is not a hereditary property of the ruling monarch, but it is instead a _Res Publica_, belonging to everyone.
 
@@ -15,7 +15,7 @@ The people who are called to temporarily administer the republic are not owners,
 
 Head of state
 
-Presidente_Sergio_Mattarella.jpg, President of Italy since 3 February 2015]] As the head of state, the president of the Republic represents the unity of the nation and has many of the duties previously given to the King of Italy. The president serves as a point of connection between the three branches as he is elected by the lawmakers, appoints the executive and is the president of the judiciary. The president is also commander-in-chief in the time of war.
+, President of Italy since 3 February 2015]] As the head of state, the president of the Republic represents the unity of the nation and has many of the duties previously given to the King of Italy. The president serves as a point of connection between the three branches as he is elected by the lawmakers, appoints the executive and is the president of the judiciary. The president is also commander-in-chief in the time of war.
 
 The president of the Republic is elected for seven years by Parliament in joint session.
 
@@ -25,7 +25,7 @@ With article 48 of the Constitution, which guarantees the right to vote, the peo
 
 Executive branch
 
-Giuseppe_Conte_Official.jpg, Prime Minister since 1 June 2018]] The Constitution establishes the Government of Italy as composed of the president of the council (prime minister) and ministers. The President of Italy appoints the prime minister and, on his proposal, the ministers that form its cabinet.[7]
+, Prime Minister since 1 June 2018]] The Constitution establishes the Government of Italy as composed of the president of the council (prime minister) and ministers. The President of Italy appoints the prime minister and, on his proposal, the ministers that form its cabinet.[7]
 
 Judicial branch
 
@@ -42,7 +42,7 @@ All Italian citizens older than 18 can vote, but to vote for the Senate the vote
 
 Chamber of Deputies
 
-Italian_Chamber_of_Deputies_2018.svg no coalition has a clear majority to form a government, resulting in a hung parliament]]
+no coalition has a clear majority to form a government, resulting in a hung parliament]]
 
 +-------------+---------------------------------------------+-------+-----------------------+
 | Coalition   | Party                                       | Seats | %                     |
@@ -82,7 +82,7 @@ Italian_Chamber_of_Deputies_2018.svg no coalition has a clear majority to form a
 
 Senate of the Republic
 
-Italian_Senate_2018.svg no coalition has a clear majority to form a government, resulting in a hung parliament]]
+no coalition has a clear majority to form a government, resulting in a hung parliament]]
 
 +-------------+---------------------------------------------+-------+-----------------------+
 | Coalition   | Party                                       | Seats | %                     |
@@ -124,8 +124,6 @@ Italian_Senate_2018.svg no coalition has a clear majority to form a government, 
 
 Political parties
 
-ElezioneBrunate.jpg
-
 Italy's dramatic self-renewal transformed the political landscape between 1992 and 1997. Scandal investigations touched thousands of politicians, administrators and businessmen; the shift from a proportional to an Additional Member System (with the requirement to obtain a minimum of 4% of the national vote to obtain representation) also altered the political landscape. Party changes were sweeping. The Christian Democratic party dissolved; the Italian People's Party and the Christian Democratic Center emerged. Other major parties, such as the Socialists, saw support plummet. A new liberal movement, Forza Italia, gained wide support among moderate voters. The Alleanza Nazionale (National Alliance) broke from the (alleged neo-fascist) Italian Social Movement (MSI). A trend toward two large coalitions (one on the center-left and the other on the center-right) emerged from the April 1995 regional elections. For the 1996 national elections, the center-left parties created the Olive Tree coalition while the center-right united again under the House of Freedoms. These coalitions continued into the 2001 and 2007 national elections.[12]
 
 This emerging bipolarity represents a major break from the fragmented, multi-party political landscape of the postwar era, although it appears to have reached a plateau since efforts via referendums to further curtail the influence of small parties were defeated in 1999, 2000 and 2009.[13]
@@ -137,8 +135,6 @@ Five regions (Aosta Valley, Friuli-Venezia Giulia, Sardinia, Sicily and Trentino
 
 
 History of the post-war political landscape
-
-ElezioneMilano.jpg
 
 First Republic: 1946–1994
 
@@ -181,8 +177,6 @@ From 1992 to 1997, Italy faced significant challenges as voters, disenchanted wi
 In the Italian referendums of 1993, voters approved substantial changes, including moving from a proportional to an Additional Member System, which is largely dominated by a majoritarian electoral system and the abolition of some ministries, some of which have been reintroduced with only partly modified names, such as the Ministry of Agriculture reincarnated as the Ministry of Agricultural Resources.
 
 Major political parties, beset by scandal and loss of voter confidence, underwent far-reaching changes. New political forces and new alignments of power emerged in the March 1994 national elections. This election saw a major turnover in the new parliament, with 452 out of 630 deputies and 213 out of 315 senators elected for the first time.
-
-Italian_Regions_Party.png Italian_Regions_by_coalition.png
 
 The 1994 elections also swept media magnate Silvio Berlusconi (leader of Pole of Freedoms coalition) into office as prime minister. However, Berlusconi was forced to step down in December 1994 when the Lega Nord withdrew support. The Berlusconi government was succeeded by a technical government headed by Prime Minister Lamberto Dini, which left office in early 1996.
 

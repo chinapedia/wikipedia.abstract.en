@@ -1,4 +1,4 @@
-Lower_Galilee_map.svg Lemon_Orchard_in_the_Galilee_by_David_Shankbone.jpg in Upper Galilee]] Rainbow_Cave_Israel.JPG on the ridge north of Nahal Betzet, Galilee]]
+in Upper Galilee]] on the ridge north of Nahal Betzet, Galilee]]
 
 GALILEE (, _HaGalil_; ) is a region in northern Israel. The term _Galilee_ traditionally refers to the mountainous part, divided into Upper Galilee () and Lower Galilee ().
 
@@ -25,21 +25,19 @@ History
 
 Ancient times
 
-Ancient_Galilee.jpg
-
 According to the Bible, Galilee was named by the Israelites and was the tribal region of Naphthali and Dan, at times overlapping the Tribe of Asher's land.[2] However, Dan was dispersed among the whole people rather than isolated to the lands of Dan, as the Tribe of Dan was the hereditary local law enforcement and judiciary for the whole nation.[3] Normally, Galilee is just referred to as Naphthali.
 
 Chapter 9 of 1 Kings states that Solomon rewarded his Phoenician ally, King Hiram I of Sidon, with twenty cities in the land of Galilee, which would then have been either settled by foreigners during and after the reign of Hiram, or by those who had been forcibly deported there by later conquerors such as the Assyrians. Hiram, to reciprocate previous gifts given to David, accepted the upland plain among the mountains of Naphtali and renamed it "the land of Cabul" for a time.[4]
 
 Classical antiquity
 
-Herod_Antipas.jpg, Herod Antipas, the tetrarch of Galilee from 4 BCE–39 CE, was permitted to mint his own coinage (_shown above_).[5]]]
+, Herod Antipas, the tetrarch of Galilee from 4 BCE–39 CE, was permitted to mint his own coinage (_shown above_).[5]]]
 
 Galilee in the first century was dotted with small towns and villages.[6] The Jewish historian Josephus claims that there were 204 small towns in Galilee,[7] but modern scholars believe this estimate to be an exaggeration.[8] Many of these towns were located around the Sea of Galilee, which contained many edible fish and which was surrounded by fertile land.[9] Salted, dried, and pickled fish were an important export good.[10] In 4 BCE, a rebel named Judah plundered Galilee's largest city, Sepphoris. In response, the Syrian governor Publius Quinctilius Varus sacked Sepphoris and sold the population into slavery.[11]
 
 After the death of Herod the Great that same year, the Roman emperor Augustus appointed his son Herod Antipas as tetrarch of Galilee, which remained a Roman client state.[12] Antipas paid tribute to the Roman Empire in exchange for Roman protection.[13] The Romans did not station troops in Galilee, but threatened to retaliate against anyone who attacked it.[14] As long as he continued to pay tribute, Antipas was permitted to govern however he wished[15] and was permitted to mint his own coinage.[16] Antipas was relatively observant of Jewish laws and customs.[17] Although his palace was decorated with animal carvings, which many Jews regarded as a transgression against the law prohibiting idols,[18] his coins bore only agricultural designs, which his subjects deemed acceptable.[19]
 
-Petri_Fischzug_Raffael.jpg, in the Sea of Galilee. Many people in Roman-era Galilee were fishermen.[20]]]
+, in the Sea of Galilee. Many people in Roman-era Galilee were fishermen.[20]]]
 
 In general, Antipas was a capable ruler;[21] Josephus does not record any instance of him using force to put down an uprising and he had a long, prosperous reign.[22] However, many Jews probably resented him as not sufficiently devout.[23] Antipas rebuilt the city of Sepphoris[24] and, in either 18 CE or 19 CE, he founded the new city of Tiberias.[25] These two cities became Galilee's largest cultural centers.[26] They were the main centers of Greco-Roman influence, but were still predominantly Jewish.[27] A massive gap existed between the rich and poor,[28] but lack of uprisings suggest that taxes were not exorbitantly high and that most Galileans did not feel their livelihoods were being threatened.[29]
 
@@ -55,7 +53,7 @@ The Shia Fatimids conquered the region in the 10th century; a breakaway sect, ve
 
 Ottoman era
 
-Safed_view_02.JPG During Early Ottoman era, the Galilee was governed as the Safad Sanjak, initially part of the larger administrative unit of Damascus Eyalet (1549–1660) and later as part of Sidon Eyalet (1660–1864). During the 18th century, the administrative division of Galilee was renamed to Acre Sanjak, and the Eyalet itself became centered in Acre, factually becoming the Acre Eyalet between 1775 and 1841.
+During Early Ottoman era, the Galilee was governed as the Safad Sanjak, initially part of the larger administrative unit of Damascus Eyalet (1549–1660) and later as part of Sidon Eyalet (1660–1864). During the 18th century, the administrative division of Galilee was renamed to Acre Sanjak, and the Eyalet itself became centered in Acre, factually becoming the Acre Eyalet between 1775 and 1841.
 
 The Jewish population of Galilee increased significantly following their expulsion from Spain and welcome from the Ottoman Empire. The community for a time made Safed an international center of cloth weaving and manufacturing, as well as a key site for Jewish learning.[41] Today it remains one of Judaism's four holy cities and a center for kabbalah.
 
@@ -69,7 +67,7 @@ Following the 1864 Tanszimat reforms in the Ottoman Empire, the Galilee remained
 
 In 1866, Galilee's first hospital, the Nazareth Hospital, was founded under the leadership of American-Armenian missionary Dr. Kaloost Vartan, assisted by German missionary John Zeller.
 
-Beirut_Vilayet,_Ottoman_Empire_(1900).svg, encompassing the Galilee]]
+, encompassing the Galilee]]
 
 In the early 20th century, Galilee remained part of Acre Sanjak of Ottoman Syria. It was administered as the southernmost territory of the Beirut Vilayet.
 
@@ -88,7 +86,7 @@ The 2006 Israel-Lebanon conflict was characterized by round-the-clock Katyusha r
 
 Demography
 
-Kinneret-moshava.jpg Kinneret]] GalilSchoolSign.jpg, a joint Arab-Jewish primary school in the Galilee]] The largest cities in the region are Acre, Nahariya, Nazareth, Safed, Karmiel, Shaghur, Shefa-'Amr, Afula, and Tiberias.[42] The port city of Haifa serves as a commercial center for the whole region.
+Kinneret]] , a joint Arab-Jewish primary school in the Galilee]] The largest cities in the region are Acre, Nahariya, Nazareth, Safed, Karmiel, Shaghur, Shefa-'Amr, Afula, and Tiberias.[42] The port city of Haifa serves as a commercial center for the whole region.
 
 Because of its hilly terrain, most of the people in the Galilee live in small villages connected by relatively few roads.[43] A railroad runs south from Nahariya along the Mediterranean coast, and a fork to the east is due to operate in 2015. The main sources of livelihood throughout the area are agriculture and tourism. Industrial parks are being developed, bringing further employment opportunities to the local population which includes many recent immigrants. The Israeli government is contributing funding to the private initiative, the Galilee Finance Facility, organised by the Milken Institute and Koret Economic Development Fund.[44]
 
@@ -107,7 +105,7 @@ Galilee is a popular destination for domestic and foreign tourists who enjoy its
 
 A popular hiking trail known as the _yam leyam_, or sea-to-sea, starts hikers at the Mediterranean. They then hike through the Galilee mountains, Tabor, Neria, and Meron, until their final destination, the Kinneret (Sea of Galilee).
 
-In April 2011, Israel unveiled the "Jesus Trail", a 40-mile (60-km) hiking trail in the Galilee for Christian pilgrims. The trail includes a network of footpaths, roads, and bicycle paths linking sites central to the lives of Jesus and his disciples, including Tabgha, the traditional site of Jesus' miracle of the loaves and fishes, and the Mount of Beatitudes, where he delivered his Sermon on the Mount. It ends at Capernaum on the shores of the Sea of Galilee, where Jesus espoused his teachings.[52] Berg_Tabor_BW_2.JPG on Mount Tabor]]
+In April 2011, Israel unveiled the "Jesus Trail", a 40-mile (60-km) hiking trail in the Galilee for Christian pilgrims. The trail includes a network of footpaths, roads, and bicycle paths linking sites central to the lives of Jesus and his disciples, including Tabgha, the traditional site of Jesus' miracle of the loaves and fishes, and the Mount of Beatitudes, where he delivered his Sermon on the Mount. It ends at Capernaum on the shores of the Sea of Galilee, where Jesus espoused his teachings.[52] on Mount Tabor]]
 
 Many kibbutzim and moshav families operate _Zimmern_ (German: "rooms", the local term for a Bed and breakfasts). Numerous festivals are held throughout the year, especially in the autumn and spring holiday seasons. These include the Acre (Acco) Festival of Alternative Theater,[53] the olive harvest festival, music festivals featuring Anglo-American folk, klezmer, Renaissance, and chamber music, and Karmiel Dance Festival.
 
@@ -138,7 +136,7 @@ The Galilee is often divided into these subregions:
 
 Gallery
 
-Har_Ari_panorama.jpg in the Upper Galilee]] Gilboa_123PAN.jpg, the eastern extension of the Jezreel Valley]]
+in the Upper Galilee]] , the eastern extension of the Jezreel Valley]]
 
 
 See also

@@ -20,8 +20,6 @@ Since 2002 the use of EFTPOS has grown significantly, and it has become the stan
 
 Australia
 
-Eftpos_australia_new_logo.png
-
 In Australia, debit and credit cards are the most common non-cash payment methods at “points of sale” (POS) or via ATMs.[7][8] Not all merchants provide EFTPOS facilities, but those who wish to accept EFTPOS payments must enter an agreement with one of the seven merchant service providers, which rent an EFTPOS terminal to the merchant. The EFTPOS system in Australia is managed by Eftpos Payments Australia Ltd,[9] which also sets the EFTPOS interchange fee.[10] For credit cards to be accepted by a merchant a separate agreement must be entered into with each credit card company, each of which has its own flexible merchant fee rate.
 
 The clearing arrangements for EFTPOS are managed by Australian Payments Clearing Association (APCA). The system for ATM and EFTPOS interchanges is called Issuers and Acquirers Community (formerly Consumer Electronic Clearing System; CECS)[11] also called CS3. CECS required authorisations from the Australian Competition and Consumer Commission (ACCC), which was obtained in 2001 and reaffirmed in 2009.[12] ATM and EFTPOS clearances are the made under individual bilateral arrangements between the institutions involved.[13]
@@ -142,13 +140,11 @@ The network uses the AS 2805 protocol, which is closely related to ISO 8583.
 
 New Zealand
 
-Eftpos-paymark-nz-logo.PNG
-
 EFTPOS is highly popular in New Zealand. The system is operated by two providers, Paymark Limited (formerly Electronic Transaction Services Limited) which processes 75% of all electronic transactions in New Zealand, and EFTPOS New Zealand. Although the term eftpos is popularly used to describe the system, EFTPOS is a trademark of EFTPOS New Zealand the smaller of the two providers. Both providers run an interconnected financial network that allows the processing of not only of debit cards at point of sale terminals but also credit cards and charge cards.
 
 History
 
-Eftpos-nz-logo.gif The Bank of New Zealand introduced EFTPOS to New Zealand in 1985 through a pilot scheme with petrol stations.
+The Bank of New Zealand introduced EFTPOS to New Zealand in 1985 through a pilot scheme with petrol stations.
 
 In 1989 the system was officially launched and two providers owned by the major banks now run the system. The larger of the two providers, Paymark Limited (formerly Electronic Transaction Services Limited) is owned equally by ASB Bank, Westpac, Bank of New Zealand and ANZ Bank New Zealand (formerly ANZ National Bank). The second is operated by EFTPOS New Zealand which is fully owned by VeriFone Systems, following its sale by ANZ New Zealand in December 2012.[38]
 

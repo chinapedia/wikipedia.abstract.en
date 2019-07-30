@@ -22,7 +22,7 @@ In 1920, the economic crisis worsened the standard of living of the middle class
 
 Legislative branch
 
-Congresschile.jpg in Valparaíso]] The bicameral National Congress _(Congreso Nacional)_ consists of the Senate _(Senado)_ and the Chamber of Deputies _(Cámara de Diputados)._
+in Valparaíso]] The bicameral National Congress _(Congreso Nacional)_ consists of the Senate _(Senado)_ and the Chamber of Deputies _(Cámara de Diputados)._
 
 Chile's congressional elections replaces the binominal electoral system applicable to the parliamentary elections, by one of an inclusive proportional nature and strengthens the representativeness of the National Congress (D'Hondt System).
 

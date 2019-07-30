@@ -1,5 +1,3 @@
-Europe_to_South_American_in_3_Days_Poster_(19482266291).jpg
-
 An AIRLINE is a company that provides air transport services for traveling passengers and freight. Airlines utilize aircraft to supply these services, and may form partnerships or alliances with other airlines for codeshare agreements. Generally, airline companies are recognized with an air operating certificate or license issued by a governmental aviation body.
 
 Airlines vary in size, from small domestic airlines to full-service international airlines with double decker airplanes. Airline services can be categorized as being intercontinental, domestic, regional, or international, and may be operated as scheduled services or charters. The largest airline currently is American Airlines Group.
@@ -15,9 +13,9 @@ European airline industry
 
 Beginnings
 
-Klm-poster-1919.jpg, founded on 7 October 1919, the oldest running airline still operating under its original name]]
+, founded on 7 October 1919, the oldest running airline still operating under its original name]]
 
-Tanken_van_een_vliegtuig_Airplane_provided_with_fuel.jpg was used by Handley Page Transport, an early British airline established in 1919.]] The earliest fixed wing airline in Europe was Aircraft Transport and Travel, formed by George Holt Thomas in 1916; via a series of takeovers and mergers, this company is an ancestor of modern-day British Airways. Using a fleet of former military Airco DH.4A biplanes that had been modified to carry two passengers in the fuselage, it operated relief flights between Folkestone and Ghent. On 15 July 1919, the company flew a proving flight across the English Channel, despite a lack of support from the British government. Flown by Lt. H Shaw in an Airco DH.9 between RAF Hendon and Paris – Le Bourget Airport, the flight took 2 hours and 30 minutes at £21 per passenger.
+was used by Handley Page Transport, an early British airline established in 1919.]] The earliest fixed wing airline in Europe was Aircraft Transport and Travel, formed by George Holt Thomas in 1916; via a series of takeovers and mergers, this company is an ancestor of modern-day British Airways. Using a fleet of former military Airco DH.4A biplanes that had been modified to carry two passengers in the fuselage, it operated relief flights between Folkestone and Ghent. On 15 July 1919, the company flew a proving flight across the English Channel, despite a lack of support from the British government. Flown by Lt. H Shaw in an Airco DH.9 between RAF Hendon and Paris – Le Bourget Airport, the flight took 2 hours and 30 minutes at £21 per passenger.
 
 On 25 August 1919, the company used DH.16s to pioneer a regular service from Hounslow Heath Aerodrome to Le Bourget, the first regular international service in the world. The airline soon gained a reputation for reliability, despite problems with bad weather, and began to attract European competition. In November 1919, it won the first British civil airmail contract. Six Royal Air Force Airco DH.9A aircraft were lent to the company, to operate the airmail service between Hawkinge and Cologne. In 1920, they were returned to the Royal Air Force.[7]
 
@@ -25,7 +23,7 @@ Other British competitors were quick to follow – Handley Page Transport was es
 
 The first French airline was Société des lignes Latécoère, later known as Aéropostale, which started its first service in late 1918 to Spain. The Société Générale des Transports Aériens was created in late 1919, by the Farman brothers and the Farman F.60 Goliath plane flew scheduled services from Toussus-le-Noble to Kenley, near Croydon, England. Another early French airline was the Compagnie des Messageries Aériennes, established in 1919 by Louis-Charles Breguet, offering a mail and freight service between Le Bourget Airport, Paris and Lesquin Airport, Lille.[10]
 
-Bundesarchiv_Bild_102-00007,_Berlin,_Start_eines_Junkers-Flugzeuges.jpg _D-190_ of Junkers Luftverkehr]] The first German airline to use heavier than air aircraft was Deutsche Luft-Reederei established in 1917 which started operating in February 1919. In its first year, the D.L.R. operated regularly scheduled flights on routes with a combined length of nearly 1000 miles. By 1921 the D.L.R. network was more than 3000 km (1865 miles) long, and included destinations in the Netherlands, Scandinavia and the Baltic Republics. Another important German airline was Junkers Luftverkehr, which began operations in 1921. It was a division of the aircraft manufacturer Junkers, which became a separate company in 1924. It operated joint-venture airlines in Austria, Denmark, Estonia, Finland, Hungary, Latvia, Norway, Poland, Sweden and Switzerland.
+_D-190_ of Junkers Luftverkehr]] The first German airline to use heavier than air aircraft was Deutsche Luft-Reederei established in 1917 which started operating in February 1919. In its first year, the D.L.R. operated regularly scheduled flights on routes with a combined length of nearly 1000 miles. By 1921 the D.L.R. network was more than 3000 km (1865 miles) long, and included destinations in the Netherlands, Scandinavia and the Baltic Republics. Another important German airline was Junkers Luftverkehr, which began operations in 1921. It was a division of the aircraft manufacturer Junkers, which became a separate company in 1924. It operated joint-venture airlines in Austria, Denmark, Estonia, Finland, Hungary, Latvia, Norway, Poland, Sweden and Switzerland.
 
 The Dutch airline KLM made its first flight in 1920, and is the oldest continuously operating airline in the world. Established by aviator Albert Plesman,[11] it was immediately awarded a "Royal" predicate from Queen Wilhelmina.[12] Its first flight was from Croydon Airport, London to Amsterdam, using a leased Aircraft Transport and Travel DH-16, and carrying two British journalists and a number of newspapers. In 1921, KLM started scheduled services.
 
@@ -49,7 +47,7 @@ Global expansion
 
 In 1926, Alan Cobham surveyed a flight route from the UK to Cape Town, South Africa, following this up with another proving flight to Melbourne, Australia. Other routes to British India and the Far East were also charted and demonstrated at this time. Regular services to Cairo and Basra began in 1927 and were extended to Karachi in 1929. The London-Australia service was inaugurated in 1932 with the Handley Page HP 42 airliners. Further services were opened up to Calcutta, Rangoon, Singapore, Brisbane and Hong Kong passengers departed London on 14 March 1936 following the establishment of a branch from Penang to Hong Kong.
 
-Imperial_routes_April_1935.jpg' routes from the UK to Australia and South Africa]] Imperial's aircraft were small, most seating fewer than twenty passengers, and catered for the rich. Only about 50,000 passengers used Imperial Airways in the 1930s. Most passengers on intercontinental routes or on services within and between British colonies were men doing colonial administration, business or research.[16]
+' routes from the UK to Australia and South Africa]] Imperial's aircraft were small, most seating fewer than twenty passengers, and catered for the rich. Only about 50,000 passengers used Imperial Airways in the 1930s. Most passengers on intercontinental routes or on services within and between British colonies were men doing colonial administration, business or research.[16]
 
 Like Imperial Airways, Air France and KLM's early growth depended heavily on the needs to service links with far-flung colonial possessions (North Africa and Indochina for the French and the East Indies for the Dutch). France began an air mail service to Morocco in 1919 that was bought out in 1927, renamed Aéropostale, and injected with capital to become a major international carrier. In 1933, Aéropostale went bankrupt, was nationalized and merged into Air France.
 
@@ -69,7 +67,7 @@ U.S. airline industry
 
 Early development
 
-TWA_1940.jpg Douglas DC-3 in 1940. The DC-3, often regarded as one of the most influential aircraft in the history of commercial aviation, revolutionized air travel.]]
+Douglas DC-3 in 1940. The DC-3, often regarded as one of the most influential aircraft in the history of commercial aviation, revolutionized air travel.]]
 
 Tony Jannus conducted the United States' first scheduled commercial airline flight on 1 January 1914 for the St. Petersburg-Tampa Airboat Line.[23] The 23-minute flight traveled between St. Petersburg, Florida and Tampa, Florida, passing some above Tampa Bay in Jannus' Benoist XIV wood and muslin biplane flying boat. His passenger was a former mayor of St. Petersburg, who paid $400 for the privilege of sitting on a wooden bench in the open cockpit. The Airboat line operated for about four months, carrying more than 1,200 passengers who paid $5 each.[24] Chalk's International Airlines began service between Miami and Bimini in the Bahamas in February 1919. Based in Ft. Lauderdale, Chalk's claimed to be the oldest continuously operating airline in the United States until its closure in 2008.[25]
 
@@ -83,7 +81,7 @@ With the introduction of the Boeing 247 and Douglas DC-3 in the 1930s, the U.S. 
 
 Development since 1945
 
-Stratocruiser_op_Schiphol,_Bestanddeelnr_903-5913.jpg of American Export Airlines, the first airline to offer landplane flights across the North Atlantic in October 1945.[31]]]
+of American Export Airlines, the first airline to offer landplane flights across the North Atlantic in October 1945.[31]]]
 
 World War II, like World War I, brought new life to the airline industry. Many airlines in the Allied countries were flush from lease contracts to the military, and foresaw a future explosive demand for civil air transport, for both passengers and cargo. They were eager to invest in the newly emerging flagships of air travel such as the Boeing Stratocruiser, Lockheed Constellation, and Douglas DC-6. Most of these new aircraft were based on American bombers such as the B-29, which had spearheaded research into new technologies such as pressurization. Most offered increased efficiency from both added speed and greater payload.[32][33]
 
@@ -95,7 +93,7 @@ The next big boost for the airlines would come in the 1970s, when the Boeing 747
 
 US airline deregulation
 
-Pan_Am_Boeing_747_at_Zurich_Airport_in_May_1985.jpg Boeing 747 _Clipper Neptune's Car_ in 1985. The deregulation of the American airline industry increased the financial troubles of the airline which ultimately filed for bankruptcy in December 1991.[37]]]
+Boeing 747 _Clipper Neptune's Car_ in 1985. The deregulation of the American airline industry increased the financial troubles of the airline which ultimately filed for bankruptcy in December 1991.[37]]]
 
 The 1978 U.S. airline industry deregulation lowered federally controlled barriers for new airlines just as a downturn in the nation's economy occurred. New start-ups entered during the downturn, during which time they found aircraft and funding, contracted hangar and maintenance services, trained new employees, and recruited laid-off staff from other airlines.
 
@@ -125,7 +123,7 @@ The three largest major carriers and Southwest Airlines control 70% of the U.S. 
 
 Asian airline industry
 
-Tata_Sons'_Airline_Timetable_Image,_Summer_1935_(interior).jpg, founded in 1932]]
+, founded in 1932]]
 
 Although Philippine Airlines (PAL) was officially founded on February 26, 1941, its license to operate as an airliner was derived from merged Philippine Aerial Taxi Company (PATCO) established by mining magnate Emmanuel N. Bachrach on December 3, 1930, making it Asia's oldest scheduled carrier still in operation.[52] Commercial air service commenced three weeks later from Manila to Baguio, making it Asia's first airline route. Bachrach's death in 1937 paved the way for its eventual merger with Philippine Airlines in March 1941 and made it Asia's oldest airline. It is also the oldest airline in Asia still operating under its current name.[53] Bachrach's majority share in PATCO was bought by beer magnate Andres R. Soriano in 1939 upon the advice of General Douglas MacArthur and later merged with newly formed Philippine Airlines with PAL as the surviving entity. Soriano has controlling interest in both airlines before the merger. PAL restarted service on March 15, 1941, with a single Beech Model 18 NPC-54 aircraft, which started its daily services between Manila (from Nielson Field) and Baguio, later to expand with larger aircraft such as the DC-3 and Vickers Viscount.
 
@@ -141,7 +139,7 @@ During the era of decolonization, newly born Asian countries started to embrace 
 
 Latin American and Caribbean airline industry
 
-Tam.a330-200.pt-mvl.arp.jpg is the largest airline in Latin America in terms of number of annual passengers flown.[56]]]
+is the largest airline in Latin America in terms of number of annual passengers flown.[56]]]
 
 Among the first countries to have regular airlines in Latin America and the Caribbean were Bolivia with Lloyd Aéreo Boliviano,[57] Cuba with Cubana de Aviación, Colombia with Avianca (the first airline established in the Americas), Argentina with Aerolineas Argentinas, Chile with LAN Chile (today LATAM Airlines), Brazil with Varig, Dominican Republic with Dominicana de Aviación, Mexico with Mexicana de Aviación, Trinidad and Tobago with BWIA West Indies Airways (today Caribbean Airlines), Venezuela with Aeropostal, Puerto Rico with Puertorriquena; and TACA based in El Salvador and representing several airlines of Central America (Costa Rica, Guatemala, Honduras and Nicaragua). All the previous airlines started regular operations well before World War II. Puerto Rican commercial airlines such as Prinair, Oceanair, Fina Air and Vieques Air Link came much after the second world war, as did several others from other countries like Mexico's Interjet and Volaris, Venezuela's Aserca Airlines and others.
 
@@ -156,7 +154,7 @@ Regulatory considerations
 
 National
 
-British_Airways_(27078321943).jpg tails of British Airways, UK's Flag carrier]]
+tails of British Airways, UK's Flag carrier]]
 
 Many countries have national airlines that the government owns and operates. Fully private airlines are subject to a great deal of government regulation for economic, political, and safety concerns. For instance, governments often intervene to halt airline labor actions to protect the free flow of people, communications, and goods between different regions without compromising safety.
 
@@ -168,7 +166,7 @@ In the United States, the airline industry is dominated by four large firms. Bec
 
 International
 
-La_Maison_de_l-OACI_-_11a.jpg headquarters in Montreal]]
+headquarters in Montreal]]
 
 Groups such as the International Civil Aviation Organization establish worldwide standards for safety and other vital concerns. Most international air traffic is regulated by bilateral agreements between countries, which designate specific carriers to operate on specific routes. The model of such an agreement was the Bermuda Agreement between the US and UK following World War II, which designated airports to be used for transatlantic flights and gave each government the authority to nominate carriers to operate routes.
 
@@ -209,7 +207,7 @@ The world's largest airlines can be defined in several ways. American Airlines G
 
 Ticket revenue
 
-Diagram_of_an_airline_Global_Distribution_System.jpg]]
+]]
 
 Airlines assign prices to their services in an attempt to maximize profitability. The pricing of airline tickets has become increasingly complicated over the years and is now largely determined by computerized yield management systems.
 
@@ -237,7 +235,7 @@ The demand for air transport will be less elastic for longer flights than for sh
 
 Operating costs
 
-virgin_atlantic_a340-600_g-vyou_arp.jpg-600 of Virgin Atlantic Airways. In October 2008, Virgin Atlantic offered to combine its operations with BMI in an effort to reduce operating costs.[70]]]
+-600 of Virgin Atlantic Airways. In October 2008, Virgin Atlantic offered to combine its operations with BMI in an effort to reduce operating costs.[70]]]
 
 Airlines have substantial fixed and operating costs to establish and maintain air services: labor, fuel, airplanes, engines, spares and parts, IT services and networks, airport equipment, airport handling services, booking commissions, advertising, catering, training, aviation insurance and other costs. Thus all but a small percentage of the income from ticket sales is paid out to a wide variety of external providers or internal cost centers.
 
@@ -255,7 +253,7 @@ Operating costs for US major airlines are primarily aircraft operating expense i
 
 Assets and financing
 
-Maslounge.jpg at Kuala Lumpur International Airport (KLIA). The airline has ownership of special slots at KLIA, giving it a competitive edge over other airlines operating at the airport.]] Airline financing is quite complex, since airlines are highly leveraged operations. Not only must they purchase (or lease) new airliner bodies and engines regularly, they must make major long-term fleet decisions with the goal of meeting the demands of their markets while producing a fleet that is relatively economical to operate and maintain; comparably Southwest Airlines and their reliance on a single airplane type (the Boeing 737 and derivatives), with the now defunct Eastern Air Lines which operated 17 different aircraft types, each with varying pilot, engine, maintenance, and support needs.
+at Kuala Lumpur International Airport (KLIA). The airline has ownership of special slots at KLIA, giving it a competitive edge over other airlines operating at the airport.]] Airline financing is quite complex, since airlines are highly leveraged operations. Not only must they purchase (or lease) new airliner bodies and engines regularly, they must make major long-term fleet decisions with the goal of meeting the demands of their markets while producing a fleet that is relatively economical to operate and maintain; comparably Southwest Airlines and their reliance on a single airplane type (the Boeing 737 and derivatives), with the now defunct Eastern Air Lines which operated 17 different aircraft types, each with varying pilot, engine, maintenance, and support needs.
 
 A second financial issue is that of hedging oil and fuel purchases, which are usually second only to labor in its relative cost to the company. However, with the current high fuel prices it has become the largest cost to an airline. Legacy airlines, compared with new entrants, have been hit harder by rising fuel prices partly due to the running of older, less fuel efficient aircraft.[73] While hedging instruments can be expensive, they can easily pay for themselves many times over in periods of increasing fuel costs, such as in the 2000–2005 period.
 
@@ -288,7 +286,7 @@ Airlines often have a strong seasonality, with traffic low in Winter and peaking
 
 Environmental impacts
 
-Contrails_southeast_lrg.png tracking of contrails generated by air traffic over the southeastern United States on January 29, 2004.]]
+tracking of contrails generated by air traffic over the southeastern United States on January 29, 2004.]]
 
 Aircraft engines emit noise pollution, gases and particulate emissions, and contribute to global dimming.[77]
 
@@ -318,7 +316,7 @@ Each operator of a scheduled or charter flight uses an airline call sign when co
 
 Airline personnel
 
-787_Dreamliner_cabin_crew_and_pilots_(10167536115).jpg of a Jetstar Airways Boeing 787]]
+of a Jetstar Airways Boeing 787]]
 
 The various types of airline personnel include:
 
@@ -347,8 +345,6 @@ Airlines follow a corporate structure where each broad area of operations (such 
 
 
 Industry trends
-
-World-airline-routemap-2009.png
 
 The pattern of ownership has been privatized in the recent years, that is, the ownership has gradually changed from governments to private and individual sectors or organizations. This occurs as regulators permit greater freedom and non-government ownership, in steps that are usually decades apart. This pattern is not seen for all airlines in all regions.[90]
 

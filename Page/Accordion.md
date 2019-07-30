@@ -1,4 +1,4 @@
-Dominguinhos_de_Morais.jpg accordionist Dominguinhos|alt=|274x274px]] ACCORDIONS (from 19th-century German _Akkordeon_, from _Akkord_—"musical chord, concord of sounds")[1] are a family of box-shaped musical instruments of the bellows-driven free-reed aerophone type, colloquially referred to as a squeezebox. A person who plays the accordion is called an _accordionist_. The concertina and bandoneón are related; the harmonium and American reed organ are in the same family.
+accordionist Dominguinhos|alt=|274x274px]] ACCORDIONS (from 19th-century German _Akkordeon_, from _Akkord_—"musical chord, concord of sounds")[1] are a family of box-shaped musical instruments of the bellows-driven free-reed aerophone type, colloquially referred to as a squeezebox. A person who plays the accordion is called an _accordionist_. The concertina and bandoneón are related; the harmonium and American reed organ are in the same family.
 
 The instrument is played by compressing or expanding the bellows while pressing buttons or keys, causing _pallets_ to open, which allow air to flow across strips of brass or steel, called _reeds_. These vibrate to produce sound inside the body. Valves on opposing reeds of each note are used to make the instrument's reeds sound louder without air leaking from each reed block.[2] The performer normally plays the melody on buttons or keys on the right-hand manual, and the accompaniment, consisting of bass and pre-set chord buttons, on the left-hand manual.
 
@@ -7,7 +7,7 @@ The accordion is widely spread across the world. In some countries (for example 
 
 Construction
 
-Spirk.ogv being played]] Accordions have many configurations and types. What may be technically possible to do with one accordion could be impossible with another:
+being played]] Accordions have many configurations and types. What may be technically possible to do with one accordion could be impossible with another:
 
 -   Some accordions are _bisonoric_, producing different pitches depending on the direction of bellows movement
 -   Others are _unisonoric_ and produce the same pitch in both directions. The pitch also depends on its size.
@@ -21,14 +21,7 @@ Universal components
 
 Bellows
 
-BELLOWS-DRIVEN INSTRUMENTS
-Piano accordions･･･1,2,13
-Diatonic button accordion･･･3
-Chromatic button accordions･･･11,12,14
-Digital accordions(V-Accordions, Roland Corporation)･･･11,12,13,14
-Bandoneon･･･4
-English concertina･･･5
-Anglo-German concertinas(Anglo concertinas)･･･6,7,8,9,10 The bellows is the most recognizable part of the instrument, and the primary means of articulation. Similar to a violin's bow, the production of sound in an accordion is in direct proportion to the motion of the player. The bellows is located between the right- and left-hand manuals, and is made from pleated layers of cloth and cardboard, with added leather and metal.[7] It is used to create pressure and vacuum, driving air across the internal reeds and producing sound by their vibrations, applied pressure increases the volume.
+The bellows is the most recognizable part of the instrument, and the primary means of articulation. Similar to a violin's bow, the production of sound in an accordion is in direct proportion to the motion of the player. The bellows is located between the right- and left-hand manuals, and is made from pleated layers of cloth and cardboard, with added leather and metal.[7] It is used to create pressure and vacuum, driving air across the internal reeds and producing sound by their vibrations, applied pressure increases the volume.
 
 The keyboard touch is not expressive and does not affect dynamics: all expression is effected through the bellows. Bellows effects include:
 
@@ -56,7 +49,7 @@ The term _accordion_ covers a wide range of instruments, with varying components
 
 Right-hand manual systems
 
-MeguRee_the_duo_of_Dino_Baffetti_Chromatic_Button_Accordion_Excelsior_Piano_Accordion.jpg]] Different systems exist for the right-hand manual of an accordion, which is normally used for playing the melody. Some use a button layout arranged in one way or another, while others use a piano-style keyboard. Each system has different claimed benefits[11] by those who prefer it. They are also used to define one accordion or another as a different "type":
+]] Different systems exist for the right-hand manual of an accordion, which is normally used for playing the melody. Some use a button layout arranged in one way or another, while others use a piano-style keyboard. Each system has different claimed benefits[11] by those who prefer it. They are also used to define one accordion or another as a different "type":
 
 -   Chromatic button accordions and the bayan, a Russian variant, use a buttonboard where notes are arranged chromatically. Two major systems exist, referred to as the B-system and the C-system (there are also regional variants).
 -   Diatonic button accordions use a buttonboard designed around the notes of diatonic scales in a small number of keys. The keys are often arranged in one row for each key available. Chromatic scales may be available by combining notes from different rows. The adjective "diatonic" is also commonly used to describe bisonic or bisonoric accordions—that is, instruments whose right-hand-manual (and in some instances even bass) keys each sound two different notes depending on the direction of the bellows (for instance, producing major triad sequences while closing the bellows and dominant seventh or 7-9 while opening). Such is the case, for instance, with the Argentinian bandoneon, the Austro-German steirische Harmonika, the Italian organetto, the Swiss Schwyzerörgeli and the Anglo concertina.
@@ -67,7 +60,7 @@ Italian Button Accordion QM r.jpg|A button key accordion made by the company Mar
 
 Left-hand manual systems
 
-120-button_Stradella_chart.svg Different systems are also in use for the left-hand manual, which is normally used for playing the accompaniment. These almost always use distinct bass buttons and often have buttons with concavities or studs to help the player navigate the layout despite not being able to see the buttons while playing. There are three general categories:
+Different systems are also in use for the left-hand manual, which is normally used for playing the accompaniment. These almost always use distinct bass buttons and often have buttons with concavities or studs to help the player navigate the layout despite not being able to see the buttons while playing. There are three general categories:
 
 -   The Stradella bass system, also called _standard bass_, is arranged in a circle of fifths and uses single buttons for chords.
 -   The Belgian bass system is a variation used in Belgian chromatic accordions. It is also arranged in a circle of fifths but in reverse order. This system has three rows of basses, three rows of chord buttons allowing easier fingering for playing melodies, combined chords, better use of fingers one and five, and more space between the buttons. This system was poorly traded outside of its native Belgium.
@@ -83,7 +76,7 @@ All but the smallest accordions usually have treble switches. The larger and mor
 
 Classification of chromatic and piano type accordions
 
-In describing or pricing an accordion, the first factor is size, expressed in number of keys on either side. For a piano type, this could for one example be 37/96, meaning 37 keys (three octaves plus one note) on the treble side and 96 bass keys. After size, the price and weight of an accordion is largely dependent on the number of reed ranks on either side, either on a cassotto or not, and to a lesser degree on the number of combinations available through register switches. Typically, these could be announced as _Reeds: 5 + 3_, meaning five reeds on the treble side and three on the bass, and _Registers: 13 + M, 7_, meaning 13 register buttons on the treble side plus a special "master" that activates all ranks, like the "tutti" on an organ, and seven register switches on the bass side. Quito_Accordion_player.jpg, Ecuador]]
+In describing or pricing an accordion, the first factor is size, expressed in number of keys on either side. For a piano type, this could for one example be 37/96, meaning 37 keys (three octaves plus one note) on the treble side and 96 bass keys. After size, the price and weight of an accordion is largely dependent on the number of reed ranks on either side, either on a cassotto or not, and to a lesser degree on the number of combinations available through register switches. Typically, these could be announced as _Reeds: 5 + 3_, meaning five reeds on the treble side and three on the bass, and _Registers: 13 + M, 7_, meaning 13 register buttons on the treble side plus a special "master" that activates all ranks, like the "tutti" on an organ, and seven register switches on the bass side. , Ecuador]]
 
 Straps
 
@@ -109,8 +102,6 @@ upright=1.15
 
 The accordion's basic form is believed to have been invented in Berlin, in 1822, by Christian Friedrich Ludwig Buschmann,[13][14] although one instrument has been recently discovered that appears to have been built earlier.[15][16][17]
 
-Dillner-accordion.jpg
-
 The earliest history of the accordion in Russia is poorly documented. Nevertheless, according to Russian researchers, the earliest known simple accordions were made in Tula, Russia, by Timofey Vorontsov from 1820, and Ivan Sizov from 1830.[18] By the late 1840s, the instrument was already very widespread;[19] together the factories of the two masters were producing 10,000 instruments a year. By 1866, over 50,000 instruments were being produced yearly by Tula and neighbouring villages, and by 1874 the yearly production rate was over 700,000.[20] By the 1860s, Novgorod, Vyatka and Saratov governorates also had significant accordion production. By the 1880s, the list included Oryol, Ryazan, Moscow, Tver, Vologda, Kostroma, Nizhny Novgorod and Simbirsk, and many of these places created their own varieties of the instrument.[21]
 
 The accordion is one of several European inventions of the early 19th century that use free reeds driven by a bellows. An instrument called _accordion_ was first patented in 1829 by Cyrill Demian, of Armenian origin, in Vienna.[22] Demian's instrument bore little resemblance to modern instruments. It only had a left hand buttonboard, with the right hand simply operating the bellows. One key feature for which Demian sought the patent was the sounding of an entire chord by depressing one key. His instrument also could sound two different chords with the same key, one for each bellows direction (a _bisonoric_ action). At that time in Vienna, mouth harmonicas with _Kanzellen_ (chambers) had already been available for many years, along with bigger instruments driven by hand bellows. The diatonic key arrangement was also already in use on mouth-blown instruments. Demian's patent thus covered an accompanying instrument: an accordion played with the left hand, opposite to the way that contemporary chromatic hand harmonicas were played, small and light enough for travelers to take with them and used to accompany singing. The patent also described instruments with both bass and treble sections, although Demian preferred the bass-only instrument owing to its cost and weight advantages.[23]
@@ -119,7 +110,7 @@ The accordion was introduced from Germany into Britain in about the year 1828.[2
 
 After Demian's invention, other accordions appeared, some featuring only the right-handed keyboard for playing melodies. It took English inventor Charles Wheatstone to bring both chords and keyboard together in one squeezebox. His 1844 patent for what he called a _concertina_ also featured the ability to easily tune the reeds from the outside with a simple tool.
 
-Accordionschule1.JPG The musician Adolph Müller described a great variety of instruments in his 1833 book _Schule für Accordion_. At the time, Vienna and London had a close musical relationship, with musicians often performing in both cities in the same year, so it is possible that Wheatstone was aware of this type of instrument and may have used them to put his key-arrangement ideas into practice.
+The musician Adolph Müller described a great variety of instruments in his 1833 book _Schule für Accordion_. At the time, Vienna and London had a close musical relationship, with musicians often performing in both cities in the same year, so it is possible that Wheatstone was aware of this type of instrument and may have used them to put his key-arrangement ideas into practice.
 
 Jeune's _flutina_ resembles Wheatstone's concertina in internal construction and tone colour, but it appears to complement Demian's accordion functionally. The flutina is a one-sided bisonoric melody-only instrument whose keys are operated with the right hand while the bellows is operated with the left. When the two instruments are combined, the result is quite similar to diatonic button accordions still manufactured today.
 

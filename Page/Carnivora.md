@@ -7,7 +7,7 @@ Carnivorans are split into two suborders: Feliformia ("catlike") and Caniformia 
 
 Taxonomy
 
-Wolf_mandible_diagram.jpg Carnivorans all share the same arrangement of teeth in which the last upper premolar (named P4) and the first lower molar (named m1) have blade-like enamel crowns that work together as carnassial teeth to shear meat. Carnivorans have had this arrangement for over 60 million years with many adaptions, and these dental adaptions help identify carnivoran species and groupings of species.[1]
+Carnivorans all share the same arrangement of teeth in which the last upper premolar (named P4) and the first lower molar (named m1) have blade-like enamel crowns that work together as carnassial teeth to shear meat. Carnivorans have had this arrangement for over 60 million years with many adaptions, and these dental adaptions help identify carnivoran species and groupings of species.[1]
 
 Evolutionary history
 
@@ -16,7 +16,7 @@ Carnivorans evolved in North America out of members of the family Miacidae (miac
 
 Distinguishing features
 
-Medved_mzoo.jpg, showing the sharp teeth and claws characteristic of carnivorans]]
+, showing the sharp teeth and claws characteristic of carnivorans]]
 
 Most carnivorans are terrestrial; they usually have strong, sharp claws, typically with five, but never fewer than four, toes on each foot, and well-developed, prominent canine teeth, cheek teeth (premolars, and molars) that generally have cutting edges.[4] The last premolar of the upper jaw and first molar of the lower are termed the carnassials or sectorial teeth. These blade-like teeth occlude (close) with a scissor-like action for shearing and shredding meat. Carnassials are most highly developed in the Felidae and the least developed in the Ursidae. Carnivorans have six incisors and two conical canines in each jaw. The only two exceptions to this are the sea otter (_Enhydra lutris_), which has four incisors in the lower jaw, and the sloth bear (_Melursus ursinus_), which has four incisors in the upper jaw. The number of molars and premolars is variable between carnivoran species, but all teeth are deeply rooted and are diphyodont.[5] Incisors are retained by carnivorans and the third incisor is commonly large and sharp (canine-like). Carnivorans have either four or five digits on each foot, with the first digit on the forepaws, also known as the dew claw, being vestigial in most species and absent in some.
 
@@ -28,7 +28,7 @@ The superfamily Pinnipedia (walruses, seals, and sea lions), now considered to b
 
 Skull structure
 
-Hyaena_eximia_head.jpg'']] Wolf_cranium_labelled.jpg
+'']]
 
 Members of Carnivora have a characteristic skull shape with relatively large brains encased in a heavy skull. The skull has a highly developed zygomatic arch just behind the maxilla (common to all mammals and their cynodont forebears), and they have ossified external auditory bullae. Feloidea have a two-chambered auditory bulla. In addition to allowing extra room for the passage of muscles to work the lower jaw, the zygomatic arch also allows for differentiation of separate muscle groups to be involved in biting and chewing. Masseters attach from the dentary (specifically, the masseteric fossa) to the zygomatic arch and onto the maxilla in front of the arch, providing crushing force. The temporalis attaches from the dentary (specifically, the coronoid process) to the side of the braincase, providing torque about the axis of jaw articulation.
 
@@ -48,14 +48,14 @@ Carnivorans include carnivores, omnivores, and even a few primarily herbivorous 
 
 Reproductive system
 
-Laitche-P013.jpg with a litter of four kittens]]
+with a litter of four kittens]]
 
 Most male carnivorans have a baculum, although it is relatively short in felids, and absent in hyenas.[8] Carnivorans tend to produce a single litter annually,[9] but some produce multiple litters a year, and larger carnivorans, like bears, have gaps of 2–3 yr between litters. The average gestation period lies between 50 and 115 days, although the ursids and mustelids have delayed implantation, thus extending the gestation period six to nine months beyond the normal period. Litter sizes are usually small, ranging from one to 13 young, which are born with underdeveloped eyes and ears. In most species, the mother has exclusive or at least primary care of the offspring. Many species of carnivorans are solitary, but a few are gregarious.
 
 
 Phylogeny
 
-Miacis.jpg]]
+]]
 
 Carnivorans evolved from members of the family Miacidae (miacids, now recognized as paraphyletic[10]). The transition from Miacidae to Carnivora was a general trend in the middle and late Eocene, with taxa from both North America and Eurasia involved. The divergence of carnivorans from other miacids, as well as the divergence of the two clades within Carnivora, Caniformia and Feliformia, is now inferred to have happened in the middle Eocene, about 42 million years ago (mya).[11]
 
@@ -65,7 +65,7 @@ The Miacidae are not a monophyletic group, but a paraphyletic array of stem taxa
 
 Carnivora are generally divided into the suborders Feliformia (cat-like) and Caniformia (dog-like), the latter of which includes the pinnipeds. The pinnipeds are part of a clade, known as the Arctoidea, which also includes the Ursidae (bears) and the superfamily Musteloidea. The Musteloidea in turn consists of the Mustelidae (mustelids: weasels), Procyonidae (procyonids: raccoons), Mephitidae (skunks) and _Ailurus_ (red panda). The oldest caniforms are the _Miacis_ species _Miacis cognitus_, the Amphicyonidae (bear-dogs) such as _Daphoenus_, and _Hesperocyon_ (of the family Canidae, subfamily Hesperocyoninae). Hesperocyonine canids first appeared in North America, and the earliest species is currently dated at 39.74 mya, but they were not represented in Europe until well into the Miocene, and not into Asia and Africa until the Pliocene. _Miacis_ and Amphicyonidae were the first of the caniforms to split from the others and are sometimes considered to be sister groups to Ursidae, but the exact closeness of Amphicyonidae and Ursidae, as well as Arctoidae to Ursidae, is still uncertain. The Canidae (wolves, coyotes, jackals, foxes and dogs) are generally considered to be the sister group to Arctoidea.[14][15][16] The Ursidae first occur in North America in the Late Eocene (ca. 38 mya) as the very small and graceful _Parictis_ that had a skull only 7 cm long. Like the canids, this family does not appear in Eurasia and Africa until the Miocene. The other caniform families Amphicyonidae, Mustelidae and Procyonidae occur in both the Old World and the New World by the Late Eocene and Early Oligocene.[17]
 
-Nandinia_binotata,_Manchester_Museum.jpg, possibly an example of a primitive feliform]]
+, possibly an example of a primitive feliform]]
 
 The ancestor of all Feliformia evolved from the Caniformia-Feliformia split. _Nandinia_, the African palm civet, seems to be the most primitive of all the feliforms and the first to split from the others.[18] The Asiatic linsangs of the genus _Prionodon_ (traditionally placed in the Viverridae) form their own family, as some recent[19] studies indicate that _Prionodon_ is actually the closest living relative to the cats. The Nimravidae are sometimes seen as the most basal of all feliforms and the first to split from the others, but there is a possibility that Nimravidae might not even belong within the order,[20] and therefore its position as a clade within Carnivora is currently unstable. Other studies indicate that the barbourofelids form a separate family, which is closely related to the true felids instead of being related to the nimravids. Recognizable nimravid fossils date from the late Eocene (37 mya), from the Chadronian White River Carnivora Formation at Flagstaff Rim, Wyoming. Nimravid diversity appears to have peaked about 28 mya. The hypercarnivorous (strictly meat-eating) nimravid feliforms were extinct in North America after 26 mya and felids did not arrive in North America until the early middle Miocene (16 mya).
 
@@ -76,7 +76,7 @@ A recent study has finally resolved the exact position of _Ailurus_: the red pan
 
 Classification
 
-Mauswiesel.jpg, the smallest carnivoran]] Mirounga_leonina_male.JPG, the largest carnivoran]] Brown_Bear_us_fish.jpg, one of the largest terrestrial carnivorans]] Trillium_Poncho_cat_dog.jpg and a dog, domesticated carnivorans]]
+, the smallest carnivoran]] , the largest carnivoran]] , one of the largest terrestrial carnivorans]] and a dog, domesticated carnivorans]]
 
 When the order Carnivora was first named, there were only five families:
 

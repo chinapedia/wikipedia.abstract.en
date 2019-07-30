@@ -1,11 +1,11 @@
-AthensAcropolisDawnAdj06028.jpg]]
+]]
 
 An ACROPOLIS (Ancient Greek: ἀκρόπολις, _akropolis_; from _akros_ (άκρος) or _akron_ (άκρον), "highest, topmost, outermost" and _polis_ (πόλις), "city"; plural in English: _acropoles_, _acropoleis_ or _acropolises_)[1][2] was in ancient Greece a settlement, especially a citadel, built upon an area of elevated ground—frequently a hill with precipitous sides, chosen for purposes of defense.[3] Acropoleis became the nuclei of large cities of classical antiquity, such as ancient Athens, and for this reason they are sometimes prominent landmarks in modern cities with ancient pasts, such as modern Athens. Perhaps the most famous acropolis is the Acropolis of Athens, located on a rocky outcrop above the city of Athens and containing the Parthenon.
 
 
 Use in antiquity
 
-Via_Tecta_acropolis_Pergamum_487_detail.jpg in the background, as seen from Via Tecta at the entrance to the Asclepeion.]] AssosBurgberg.jpg]]
+in the background, as seen from Via Tecta at the entrance to the Asclepeion.]] ]]
 
 The word _acropolis_ literally means in Greek "upper city," and though associated primarily with the Greek cities Athens, Argos (with Larissa), Thebes (with Cadmea), and Corinth (with its Acrocorinth), may be applied generically to all such citadels, including Rome, Jerusalem, Celtic Bratislava, many in Asia Minor, or even Castle Rock in Edinburgh. An example in Ireland is the Rock of Cashel. Acropolis is also the term used by archaeologists and historians for the urban Castro culture settlements located in Northwestern Iberian hilltops.
 

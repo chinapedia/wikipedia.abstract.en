@@ -1,5 +1,3 @@
-Convention_on_Long-Range_Transboundary_Air_Pollution.png
-
 The CONVENTION ON LONG-RANGE TRANSBOUNDARY AIR POLLUTION, often abbreviated as AIR POLLUTION or CLRTAP, is intended to protect the human environment against air pollution and to gradually reduce and prevent air pollution, including long-range transboundary air pollution. It is implemented by the European Monitoring and Evaluation Programme (EMEP), directed by the United Nations Economic Commission for Europe (UNECE).
 
 The convention opened for signature on entered into force on .

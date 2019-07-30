@@ -1,6 +1,6 @@
-The_Papal_Belvedere.jpg, commissioned by Martin Luther.[1] Title: Kissing the Pope's Feet.[2] German peasants respond to a papal bull of Pope Paul III. Caption reads: "Don't frighten us Pope, with your ban, and don't be such a furious man. Otherwise we shall turn around and show you our rears."[3][4]]]
+, commissioned by Martin Luther.[1] Title: Kissing the Pope's Feet.[2] German peasants respond to a papal bull of Pope Paul III. Caption reads: "Don't frighten us Pope, with your ban, and don't be such a furious man. Otherwise we shall turn around and show you our rears."[3][4]]]
 
-The_Papal_Belvedere.jpg in Martin Luther's 1545 _Depictions of the Papacy_]]
+in Martin Luther's 1545 _Depictions of the Papacy_]]
 
 FART is a word in the English language most commonly used in reference to flatulence that can be used as a noun or a verb.[5] The immediate roots are in the Middle English words _ferten_, _feortan_ and _farten_, kin of the Old High German word _ferzan_. Cognates are found in Old Norse, Slavic and also Greek and Sanskrit. The word _fart_ has been incorporated into the colloquial and technical speech of a number of occupations, including computing. It is often considered unsuitable in formal situations as it may be considered vulgar or offensive.
 
@@ -12,15 +12,13 @@ The English word _fart_ is one of the oldest words in the English lexicon. Its I
 
 Vulgarity and offensiveness
 
-Fart.svg
-
 In certain circles the word is considered merely a common profanity with an often humorous connotation. For example, a person may be referred to as a 'fart', or an 'old fart', not necessarily depending on the person's age. This may convey the sense that a person is boring or unduly fussy and be intended as an insult, mainly when used in the second or third person. For example, '"he's a boring old fart!" However the word may be used as a colloquial term of endearment or in an attempt at humorous self-deprecation (e.g., in such phrases as "I know I'm just an old fart" or "you do like to fart about!"). 'Fart' is often only used as a term of endearment when the subject is personally well known to the user.
 
 In both cases though, it tends to refer to personal habits or traits that the user considers to be a negative feature of the subject, even when it is a self-reference. For example, when concerned that a person is being overly methodical they might say 'I know I'm being an old fart', potentially to forestall negative thoughts and opinions in others. When used in an attempt to be offensive, the word is still considered vulgar, but it remains a mild example of such an insult. This usage dates back to the Medieval period, where the phrase 'not worth a fart' would be applied to an item held to be worthless.[11] Whilst being accused of farting may be offensive, other phrasal descriptions of flatulent discharge, in phrases such as, "Have you dropped your guts?", "Have you blown one off" or "Who shit?" are certainly no less so.
 
 Historical examples
 
-Newton_Bull_farts_G3.jpg emits an explosive bout of flatulence at a poster of George III as an outraged William Pitt the Younger admonishes him. Newton's etching was probably a comment on Pitt's threat (realized the following month) to suspend habeas corpus.]] The word _fart_ in Middle English occurs in "Sumer Is Icumen In", where one sign of summer is "bucke uerteþ" (the buck farts). It appears in several of Geoffrey Chaucer's _Canterbury Tales_. In "The Miller's Tale", Absolon has already been tricked into kissing Alison's buttocks when he is expecting to kiss her face. Her boyfriend Nicholas hangs his buttocks out of a window, hoping to trick Absolon into kissing his buttocks in turn and then farts in the face of his rival. In "The Summoner's Tale", the friars in the story are to receive the smell of a fart through a twelve-spoked wheel.
+emits an explosive bout of flatulence at a poster of George III as an outraged William Pitt the Younger admonishes him. Newton's etching was probably a comment on Pitt's threat (realized the following month) to suspend habeas corpus.]] The word _fart_ in Middle English occurs in "Sumer Is Icumen In", where one sign of summer is "bucke uerteþ" (the buck farts). It appears in several of Geoffrey Chaucer's _Canterbury Tales_. In "The Miller's Tale", Absolon has already been tricked into kissing Alison's buttocks when he is expecting to kiss her face. Her boyfriend Nicholas hangs his buttocks out of a window, hoping to trick Absolon into kissing his buttocks in turn and then farts in the face of his rival. In "The Summoner's Tale", the friars in the story are to receive the smell of a fart through a twelve-spoked wheel.
 
 In the early modern period, the word _fart_ was not considered especially vulgar; it even surfaced in literary works. For example, Samuel Johnson's _A Dictionary of the English Language_, published in 1755, included the word. Johnson defined it with two poems, one by Jonathan Swift, the other by Sir John Suckling.[12][13]
 

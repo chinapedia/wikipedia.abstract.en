@@ -1,5 +1,3 @@
-Italy-demography2006est.png
-
 This article is about the demographic features of the population of Italy, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
 At the beginning of year 2017, Italy had an estimated population of 60.4 million. Its population density, at , is higher than that of most Western European countries. However, the distribution of the population is widely uneven; the most densely populated areas are the Po Valley (that accounts for almost half of the national population) in northern Italy and the metropolitan areas of Rome and Naples in central and southern Italy, while other vast areas are very sparsely populated, like the plateaus of Basilicata, the Alps and Apennines highlands, and the island of Sardinia.
@@ -25,18 +23,14 @@ According to OECD,[6] the largest conurbations are:
 
 Genetics and ethnic groups
 
-Albero_y.jpg
-
 
 Modern Italy & Immigration
 
-Mulberry_Street_NYC_c1900_LOC_3g04637u_edit.jpg in New York, ca.1900.]] Group_at_Piazza_del_Popolo,_Rome.jpg African_men_sitting_on_the_Piazza_duca_d'Aosta,_Milan,_in_evening.jpg Italy used to be a country of mass emigration from the late 19th century until the 1970's. Between 1898 and 1914, the peak years of Italian diaspora, approximately 750,000 Italians emigrated each year.[7] Italian communities once thrived in the former African colonies of Eritrea (nearly 100,000 at the beginning of World War II),[8] Somalia and Libya (150,000 Italians settled in Libya, constituting about 18% of the total population).[9] All of Libya's Italians were expelled from the North African country in 1970.[10] In addition, after the annexation of Istria in 1945, up to 350,000 ethnic Italians left Titoist Yugoslavia.[11] Today, large numbers of people with full or significant Italian ancestry are found in Brazil (25 million),[12] Argentina (20 million),[13] US (17.8 million),[14] France (5 million),[15] Venezuela (2 million),[16][17] Uruguay (1.5 million),[18] Canada (1.4 million),[19] and Australia (800,000).[20]
+in New York, ca.1900.]] Italy used to be a country of mass emigration from the late 19th century until the 1970's. Between 1898 and 1914, the peak years of Italian diaspora, approximately 750,000 Italians emigrated each year.[7] Italian communities once thrived in the former African colonies of Eritrea (nearly 100,000 at the beginning of World War II),[8] Somalia and Libya (150,000 Italians settled in Libya, constituting about 18% of the total population).[9] All of Libya's Italians were expelled from the North African country in 1970.[10] In addition, after the annexation of Istria in 1945, up to 350,000 ethnic Italians left Titoist Yugoslavia.[11] Today, large numbers of people with full or significant Italian ancestry are found in Brazil (25 million),[12] Argentina (20 million),[13] US (17.8 million),[14] France (5 million),[15] Venezuela (2 million),[16][17] Uruguay (1.5 million),[18] Canada (1.4 million),[19] and Australia (800,000).[20]
 
 As a result of the profound economic and social changes induced by postwar industrialization, including low birth rates, an aging population and thus a shrinking workforce, during the 1980's Italy became to attract rising flows of foreign immigrants. The present-day figure of about 5 million foreign residents, that make up some 9% of the total population, include 97,000 children born in Italy to foreign nationals (19% of total births in Italy) in 2014, but exclude foreign nationals who have subsequently acquired Italian nationality; this applied to 106,000 people in 2014.[21][22] The official figures also exclude illegal immigrants, the so-called _clandestini_, whose numbers are very difficult to determine. In May 2008 _The Boston Globe_ quoted an estimate of 670,000 for this group.[23] Since the fall of the Berlin Wall in 1989, and more recently, the 2004 and 2007 enlargements of the European Union, the main waves of migration came from the former socialist countries of Eastern Europe (especially Romania, Albania, Ukraine and Poland). The second most important area of immigration to Italy has always been the neighbouring North Africa (in particular, Morocco, Egypt and Tunisia), with soaring arrivals as a consequence of the Arab Spring. Furthermore, in recent years, growing migration fluxes from the Far East (notably, China[24] and the Philippines) and Latin America (Ecuador, Peru) have been recorded. Currently, circa one million Romanians (around one tenth of them being Roma[25]) are officially registered as living in Italy, representing thus the most important individual country of origin, followed by Albanians and Moroccans with about 500,000 people each. The number of unregistered Romanians is difficult to estimate, but the Balkan Investigative Reporting Network suggested that in 2007 that there might have been half a million or more.[26]{{#tag:ref|According to Mitrica, an October 2005 Romanian report estimates that 1,061,400 Romanians are living in Italy, constituting 37% of 2.8 million immigrants in that country[27] but it is unclear how the estimate was made, and therefore whether it should be taken seriously.|group=note}} Overall, at the end of the 2000s the foreign born population of Italy was from: Europe (54%), Africa (22%), Asia (16%), the Americas (8%) and Oceania (0.06%). The distribution of immigrants is largely uneven in Italy: 84.9% of immigrants live in the northern and central parts of the country (the most economically developed areas), while only 15.1% live in the southern half of the peninsula.
 
 There is significant cultural, linguistic, genetic, historical political diversity within the "Italian" ethnicity, enough to constitute several distinct ethnicities by some standards. When Italy unified in 1861, only 3% of the population spoke Italian,[28] even though an estimated 90% of Italians speak Italian as their L1 nowadays.[29] Groups like Friulians, Ladins, Sardinians, South Tyroleans, and Sicilians are examples of distinct peoples native to Italy.
-
-COB_data_Italy.PNG
 
 +--------------------------+------------+---------+
 | Origin                   | Population | Percent |
@@ -149,8 +143,6 @@ The total fertility rate is the number of children born per woman. It is based o
   Years                           1881   1882   1883   1884   1885   1886   1887   1888   1889   1890[45]
   ------------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ----------
   Total Fertility Rate in Italy   5      5.03   5.06   5.05   5.04   5.04   5.03   5.02   4.98   4.95
-
-Famiglia_Giuseppe_Riggio_2.jpg
 
   Years                           1891   1892   1893   1894   1895   1896   1897   1898   1899[46]
   ------------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ----------
@@ -312,8 +304,6 @@ Population:
 
 Age structure:
 
-Italypop.svg
-
     _0-14 years:_ 13.6% (male 4,326,862 /female 4,136,562)
     _15-24 years:_ 9.61% (male 2,994,651 /female 2,984,172)
     _25-54 years:_ 41.82% (male 12,845,442 /female 13,183,240)
@@ -414,8 +404,6 @@ Christian 80% (overwhelmingly Roman Catholic with very small groups of Jehovah's
 Education expenditure:
     4.7% of total GDP (2008)
 
-Linguistic_map_of_Italy_-_Legend.svg
-
 Literacy:
     _definition:_ age 15 and over can read and write
     total population: 99.2%
@@ -438,8 +426,6 @@ Unemployment, youth ages 15-24:
 Nationality:
     _noun:_ Italian(s)
     _adjective:_ Italian
-
-Minoranze_linguistiche_it.svg
 
 
 Languages
@@ -465,7 +451,7 @@ Most Italians believe in God, or a form of a spiritual life force. According to 
 
 Christianity
 
-Santa_Maria_del_Fiore.jpg cathedral in Florence, which has the biggest brick dome in the world,[66][67] and is considered a masterpiece of Italian architecture.]]
+cathedral in Florence, which has the biggest brick dome in the world,[66][67] and is considered a masterpiece of Italian architecture.]]
 
 The Italian Catholic Church is part of the global Roman Catholic Church, under the leadership of the Pope, curia in Rome, and the Conference of Italian Bishops. In addition to Italy, two other sovereign nations are included in Italian-based dioceses, San Marino and Vatican City. There are 225 dioceses in the Italian Catholic Church, see further in this article and in the article List of the Roman Catholic dioceses in Italy. Even though by law Vatican City is not part of Italy, it is in Rome, and along with Latin, Italian is the most spoken and second language of the Roman Curia.[68]
 

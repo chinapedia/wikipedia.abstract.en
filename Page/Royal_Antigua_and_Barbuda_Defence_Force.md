@@ -5,7 +5,7 @@ The RABDF is one of the world's smallest militaries, consisting of 245 personnel
 
 Organisation
 
-A_Royal_Antigua_and_Barbuda_Defense_Force_Coast_Guard_380X_Defender_All-Weather_Interceptor_high-speed_boat_breeches_the_wake_of_another_vessel_May_24,_2013,_during_the_maritime_operations_phase_of_Tradewinds_130524-N-HP195-034.jpg The RABDF consists of four major units:
+The RABDF consists of four major units:
 
 -   Antigua and Barbuda Regiment — comprises four line companies and is the infantry unit and fighting arm of the defence force.
 -   Service and Support Unit — provides administrative, logistic and engineer support to the rest of the defence force.

@@ -51,8 +51,6 @@ Soviet and East German Commandants of East Berlin
 
 Boroughs of East Berlin
 
-EastBerlinBoroughs.png
-
 At the time of German reunification, East Berlin comprised the boroughs of
 
 -   Friedrichshain

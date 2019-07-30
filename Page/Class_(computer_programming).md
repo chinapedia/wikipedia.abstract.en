@@ -18,7 +18,7 @@ Classes are composed from structural and behavioral constituents. Programming la
 
 Structure
 
-oop-uml-class-example.png notation for classes]]
+notation for classes]]
 
 A class contains data field descriptions (or _properties_, _fields_, _data members_, or _attributes_). These are usually field types and names that will be associated with state variables at program run time; these state variables either belong to the class or specific instances of the class. In most languages, the structure defined by the class determines the layout of the memory used by its instances. Other implementations are possible: for example, objects in Python use associative key-value containers.[1]
 

@@ -1,11 +1,11 @@
-Antonio_Millo_Bacino_del_Mediterraneo.jpg, Rome (cart. naut. 2 – cart. naut 6/1-2).]]
+, Rome (cart. naut. 2 – cart. naut 6/1-2).]]
 
 The Mediterranean Sea was the central superhighway of transport, trade and cultural exchange between diverse peoples encompassing three continents:[1] Western Asia, North Africa, and Southern Europe. The history of the cultures and people of the Mediterranean Basin is important for understanding the origin and development of the Mesopotamian, Egyptian, Canaanite, Phoenician, Hebrew, Carthaginian, Greek, Persian, Thracian, Etruscan, Iberian, Roman, Byzantine, Bulgarian, Arab,Berbers, Ottoman, Christian and Islamic cultures.
 
 
 Early history
 
-Map_of_fertile_crescent.svg in the 2nd millennium BC.]]
+in the 2nd millennium BC.]]
 
 There is evidence of stone tools on Crete, 130,000 years BC,[2][3] which proves that early man was capable of using boats to reach the island.
 
@@ -20,15 +20,13 @@ The Phoenicians and the Assyrians transported elements of the Late Bronze Age cu
 
 Classical antiquity
 
-Greek_Colonization_Archaic_Period.svg during the 8th and 7th centuries BC.]] Two of the most notable Mediterranean civilizations in classical antiquity were the Greek city states and the Phoenicians. The Greeks expanded throughout the Black Sea and south through the Red Sea. The Phoenicians spread through the western Mediterranean reaching North Africa and the Iberian Peninsula. From the 6th century BC up to including the 5th century BC, many of the significant Mediterranean peoples were under Persian rule, making them dominate the Mediterranean during these years. Both the Phoenicians and some of the Greek city states in Asia Minor provided the naval forces of the Achaemenid Persian Empire. Persian dominance ended after the Greco-Persian War in the 5th century BC and Persia was crippled by Macedonia in the 4th century BC.
+during the 8th and 7th centuries BC.]] Two of the most notable Mediterranean civilizations in classical antiquity were the Greek city states and the Phoenicians. The Greeks expanded throughout the Black Sea and south through the Red Sea. The Phoenicians spread through the western Mediterranean reaching North Africa and the Iberian Peninsula. From the 6th century BC up to including the 5th century BC, many of the significant Mediterranean peoples were under Persian rule, making them dominate the Mediterranean during these years. Both the Phoenicians and some of the Greek city states in Asia Minor provided the naval forces of the Achaemenid Persian Empire. Persian dominance ended after the Greco-Persian War in the 5th century BC and Persia was crippled by Macedonia in the 4th century BC.
 
 Persian period
 
 From the 6th century BC up to including the first half of the 4th century BC, many of the significant Mediterranean peoples came under Achaemenid Persian rule, making them dominate the Mediterranean during all these years. The empire, founded by Cyrus the Great, would include Macedonia, Thrace, modern day Bulgaria, Egypt, Anatolia, the Phoenician lands, the Levant, and many other basin regions of the Mediterranean later on.[6][7][8] Darius the Great (Darius I) is to be credited as the first Achaemenid king to invest in a Persian fleet.[9] Even by then no true "imperial navy" had existed either in Greece or Egypt. Persia would become the first empire, under Darius, to inaugurate and deploy the first regular imperial navy.[10] Both the Phoenicians and the Greeks provided the bulk of the naval forces of the Achaemenid Persian Empire, alongside the Cypriots and Egyptians.[11] Full Persian dominance in the Mediterranean ended after the Greco-Persian War in the 5th century BC, and Persia eventually lost all her influence in the Mediterranean in the late 4th century BC following Alexander's conquests.
 
 Hellenistic period
-
-Europe_map_220BC.PNG
 
 In the northernmost part of ancient Greece, in the ancient kingdom of Macedonia, technological and organizational skills were forged with a long history of cavalry warfare. The _hetairoi_ (Companion cavalry) was considered the strongest of their time.[12] Under Alexander the Great, this force turned east, and in a series of decisive battles, it routed the Persian forces and took over as the dominant empire of the Mediterranean. Their Macedonia empire included present-day Greece, Bulgaria, Egypt, the Phoenician lands and many other basin regions of the Mediterranean and Asia Minor.
 
@@ -42,7 +40,7 @@ After the Third Punic War, Rome then became the leading force in the Mediterrane
 
 Roman _Mare Nostrum_
 
-The_Roman_Empire_ca_400_AD.png territory in c. 400 AD.]]
+territory in c. 400 AD.]]
 
 When Augustus founded the Roman Empire, the Mediterranean sea began to be called _Mare Nostrum_ (Latin: "Our Sea") by the Romans. Their empire was centered on this sea and all the area was full of commerce and naval development. For the first time in history, an entire sea (the Mediterranean) was free of piracy. For several centuries, the Mediterranean was a "Roman Lake", surrounded on all sides by the empire.
 
@@ -57,7 +55,7 @@ Middle Ages
 
 Islamic Golden Age
 
-Map_of_expansion_of_Caliphate.svg in the Mediterranean region from 622 to 750 AD. ]]
+in the Mediterranean region from 622 to 750 AD. ]]
 
 Another power was rising in the east, that of Islam, whilst the Byzantine Roman and Sassanid Persian empires were both weakened by centuries of stalemate warfare during the Roman–Persian Wars. In a series of rapid Muslim conquests, the Arab armies, motivated by Islam and led by the Caliphs and skilled military commanders such as Khalid ibn al-Walid, swept through most of the Middle East; reducing Byzantine lands by more than half and completely engulfing the Persian lands.
 
@@ -67,7 +65,7 @@ In Anatolia, the Muslim expansion was blocked by the still capable Byzantines wi
 
 Between 831 and 1071, the Emirate of Sicily was one of the major centres of Islamic culture in the Mediterranean. After its conquest by the Christian Normans, the island developed its own distinct culture with the fusion of Latin and Byzantine influences. Palermo remained a leading artistic and commercial centre of the Mediterranean well into the Middle Ages.
 
-Byzantine-Arab_naval_struggle.svg in the Mediterranean, 7th to 11th centuries]]
+in the Mediterranean, 7th to 11th centuries]]
 
 The Fatimids maintained trade relations with the Italian city-states like Amalfi and Genoa before the Crusades, according to the Cairo Geniza documents. A document dated 996 mentions Amalfian merchants living in Cairo. Another letter states that the Genoese had traded with Alexandria. The caliph al-Mustansir had allowed Amalfian merchants to reside in Jerusalem about 1060 in place of the Latin hospice.[15]
 
@@ -89,7 +87,7 @@ Emperors would take large numbers of prisoners, parade them through the capital,
 
 Late Middle Ages
 
-Republik_Venedig_Handelswege01.png (red) and Venetian (green) maritime trade routes in the Mediterranean.]] The Italian "Repubbliche Marinare" (Maritime Republics) of Venice, Genoa, Amalfi and Pisa developed their own "empires" in the Mediterranean shores. The Islamic states had never been major naval powers, and trade from the east to Europe was soon in the hands of Italian traders, especially the Genoese and the Venetians, who profited immensely from it. The Republic of Pisa and later the Republic of Ragusa used diplomacy to further trade and maintained a libertarian approach in civil matters to further sentiment in its inhabitants.
+(red) and Venetian (green) maritime trade routes in the Mediterranean.]] The Italian "Repubbliche Marinare" (Maritime Republics) of Venice, Genoa, Amalfi and Pisa developed their own "empires" in the Mediterranean shores. The Islamic states had never been major naval powers, and trade from the east to Europe was soon in the hands of Italian traders, especially the Genoese and the Venetians, who profited immensely from it. The Republic of Pisa and later the Republic of Ragusa used diplomacy to further trade and maintained a libertarian approach in civil matters to further sentiment in its inhabitants.
 
 The republic of Venice got to dominate the eastern mediterranean shores after the Fourth Crusade.
 
@@ -106,7 +104,7 @@ During the Middle Ages, rival Christian and Muslim kingdoms forbade the trade of
 
 Modern era
 
-OttomanEmpireIn1683.png territories acquired between 1300 and 1683.]] ItalianMareNostrum.jpg The growing naval prowess of the European powers confronted further rapid Ottoman expansion in the region when the Battle of Lepanto checked the power of the Ottoman navy. However, as Braudel argued forcefully, this only slowed the Ottoman expansion instead of ending it. The prized island of Cyprus became Ottoman in 1571. The last resistance in Tunisia ended in 1574 and almost a generation long siege in Crete pushed Venetians out of this strategic island in 1669.
+territories acquired between 1300 and 1683.]] The growing naval prowess of the European powers confronted further rapid Ottoman expansion in the region when the Battle of Lepanto checked the power of the Ottoman navy. However, as Braudel argued forcefully, this only slowed the Ottoman expansion instead of ending it. The prized island of Cyprus became Ottoman in 1571. The last resistance in Tunisia ended in 1574 and almost a generation long siege in Crete pushed Venetians out of this strategic island in 1669.
 
 A balance of power was then established between Spain and Ottoman Empire until the 18th century, each dominating their respective half of Mediterranean, reducing Italian navies as naval powers increasingly more irrelevant. Furthermore, the Ottoman Empire had succeeded in their objective of extending Muslim rule across the North African coast.
 

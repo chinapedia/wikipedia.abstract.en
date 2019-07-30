@@ -1,4 +1,4 @@
-Napoleon_sainthelene.jpg's Exile on Saint Helena'' by (1820)]] The_First_Night_in_Exile.jpg_. It tells the story of prince Rama, who is wrongly exiled from his father's kingdom, accompanied only by his wife and brother.]] Dante_exile.jpg in Exile_ by ]]
+'s Exile on Saint Helena'' by (1820)]] _. It tells the story of prince Rama, who is wrongly exiled from his father's kingdom, accompanied only by his wife and brother.]] in Exile_ by ]]
 
 To be in EXILE means to be away from one's home (i.e. village, town, city, state, province, territory or even country), while either being explicitly refused permission to return or being threatened with imprisonment or death upon return.
 
@@ -59,13 +59,13 @@ In popular culture
 
 Drama
 
-Jason_and_Medea_-_John_William_Waterhouse.jpg'', by John William Waterhouse, 1907]] Rama_vanavas.jpg
+'', by John William Waterhouse, 1907]]
 
 Exile is an early motif in ancient Greek tragedy. In the ancient Greek world, this was seen as a fate worse than death. The motif reaches its peak on the play _Medea_, written by Euripides in the fifth century BC, and rooted in the very old oral traditions of Greek mythology. Euripides’ Medea has remained the most frequently performed Greek tragedy through the 20th century.[12]
 
 Art
 
-Klaus_Mann.jpg as Staff Sergeant of the 5th US Army, Italy 1944]] Anna_Seghers_Das_siebte_Kreuz_1942.jpg’ _Das siebte Kreuz_]]
+as Staff Sergeant of the 5th US Army, Italy 1944]] ’ _Das siebte Kreuz_]]
 
 After Medea was abandoned by Jason and had become a murderer out of revenge, she fled to Athens and married king Aigeus there, and became the stepmother of the hero Theseus. Due to a conflict with him, she must leave the Polis and go away into exile. John William Waterhouse (1849–1917), the English Pre-Raphaelite painter’s famous picture _Jason and Medea_ shows a key moment before, when Medea tries to poison Theseus.[13]
 

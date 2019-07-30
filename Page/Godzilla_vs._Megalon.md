@@ -5,7 +5,7 @@ _Godzilla vs. Megalon_ was released theatrically in Japan on March 17, 1973. It 
 
 Plot
 
-Jet_Jaguar.jpg In the first part of 1971 (197X in the Japanese version), the most recent underground nuclear test, set off near the Aleutians, sends shockwaves as far across the globe as Monster Island in the South Pacific, disturbing monsters such as Godzilla, Anguirus, and Rodan.
+In the first part of 1971 (197X in the Japanese version), the most recent underground nuclear test, set off near the Aleutians, sends shockwaves as far across the globe as Monster Island in the South Pacific, disturbing monsters such as Godzilla, Anguirus, and Rodan.
 
 For years, Seatopia, an undersea civilization, has been heavily affected by this nuclear testing conducted by the surface nations of the world. Upset by these tests, the Seatopians plan to unleash their civilization's beetle-like cyborg god, Megalon, to destroy the surface world out of vengeance.
 
@@ -48,7 +48,7 @@ Like previous Godzilla films, _Godzilla vs. Megalon_ heavily employs stock foota
 
 English versions
 
-Godzilla-megalon-us.jpg'') incorrectly places the monsters in a World Trade Center-based battle.]]
+'') incorrectly places the monsters in a World Trade Center-based battle.]]
 
 In 1976, Cinema Shares gave _Godzilla vs. Megalon_ a wide theatrical release in the United States and launched a massive marketing campaign for the film, along with the poster, buttons with one of the four monsters' faces on them were released. Given away at theatrical showings was a comic that told a simplified version of the film, which incorrectly named Jet Jaguar as "Robotman" and Gigan as "Borodan". These incorrect names were also featured in the U.S. trailer.[4]
 

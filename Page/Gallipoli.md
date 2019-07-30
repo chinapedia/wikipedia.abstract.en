@@ -1,4 +1,4 @@
-Gallipoli_peninsula_from_space.png Canakkalebogaz.jpg from a ship]]
+from a ship]]
 
 The GALLIPOLI peninsula (; ; , _Chersónisos tis Kallípolis_) is located in the southern part of East Thrace, the European part of Turkey, with the Aegean Sea to the west and the Dardanelles strait to the east.
 
@@ -11,7 +11,7 @@ History
 
 Antiquity and Middle Ages
 
-Thracian_chersonese.png In ancient times, the Gallipoli Peninsula was known as the Thracian Chersonesus (from Greek _χερσόνησος_, "peninsula"[8]) to the Greeks and later the Romans. It was the location of several prominent towns, including Cardia, Pactya, Callipolis (Gallipoli), Alopeconnesus (),[9] Sestos, Madytos, and Elaeus. The peninsula was renowned for its wheat. It also benefited from its strategic importance on the main route between Europe and Asia, as well as from its control of the shipping route from Crimea. The city of Sestos was the main crossing-point on the Hellespont.
+In ancient times, the Gallipoli Peninsula was known as the Thracian Chersonesus (from Greek _χερσόνησος_, "peninsula"[8]) to the Greeks and later the Romans. It was the location of several prominent towns, including Cardia, Pactya, Callipolis (Gallipoli), Alopeconnesus (),[9] Sestos, Madytos, and Elaeus. The peninsula was renowned for its wheat. It also benefited from its strategic importance on the main route between Europe and Asia, as well as from its control of the shipping route from Crimea. The city of Sestos was the main crossing-point on the Hellespont.
 
 According to Herodotus, the Thracian tribe of Dolonci () (or "barbarians" according to Cornelius Nepos) held possession of Chersonesus before the Greek colonization. Then, settlers from Ancient Greece, mainly of Ionian and Aeolian stock, founded about 12 cities on the peninsula in the 7th century BC.[10] The Athenian statesman Miltiades the Elder founded a major Athenian colony there around 560 BC. He took authority over the entire peninsula, building up its defences against incursions from the mainland. It eventually passed to his nephew, the more famous Miltiades the Younger, around 524 BC. The peninsula was abandoned to the Persians in 493 BC after the outbreak of the Greco-Persian Wars (499–478 BC).
 
@@ -41,7 +41,7 @@ The Turkish Government, under pre-text that a village was within the firing line
 
 World War I: Gallipoli Campaign, Persecution of Greeks (1914–1919)
 
-Anzac_Cove3.JPG]] Gallipoli_ANZAC_Cove_Sphinx_2.JPG
+]]
 
 During World War I, British and colonial forces attacked the peninsula in 1915, seeking to secure a route to relieve their eastern ally, Russia. The Ottomans set up defensive fortifications along the peninsula and the attackers were eventually repulsed.
 

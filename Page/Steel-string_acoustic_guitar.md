@@ -1,4 +1,4 @@
-Playing_acoustic_guitar.jpg a steel-string guitar]] C.F._Martin_000-28EC_Eric_Clapton_model_Acoustic_Guitar.jpg Eric Clapton model]] Fender_DG-41SCE_Electro-acoustic_guitar.JPG DG-41SCE]] Epiphone_PR-5E_VS_Cutaway_Acoustic_Electric_Guitar_(Vintage_Sunburst).jpg PR-5E VS]]
+a steel-string guitar]] Eric Clapton model]] DG-41SCE]] PR-5E VS]]
 
 The STEEL-STRING ACOUSTIC GUITAR is a modern form of guitar that descends from the nylon-strung classical guitar, but is strung with steel strings for a brighter, louder sound. Like the classical guitar, it is often referred to simply as an ACOUSTIC GUITAR.
 

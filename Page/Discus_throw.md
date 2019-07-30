@@ -3,9 +3,9 @@ The DISCUS THROW (), also known as disc throw, is a track and field event in whi
 
 History
 
-Diskuskastare_Gbg_-_Alkamenes.jpg]] The sport of throwing the discus traces back to it being an event in the original Olympic Games of Ancient Greece. The discus as a sport was resurrected in Magdeburg, Germany, by Christian Georg Kohlrausch and his students in the 1870s. Organized Men's competition was resumed in the late 19th century, and has been a part of the modern Summer Olympic Games since the first modern competition, the 1896 Summer Olympics. Images of discus throwers figured prominently in advertising for early modern Games, such as fundraising stamps for the 1896 games, the main posters for the 1920 and 1948 Summer Olympics. Today the sport of discus is a routine part of modern track-and-field meets at all levels, and retains a particularly iconic place in the Olympic Games.
+]] The sport of throwing the discus traces back to it being an event in the original Olympic Games of Ancient Greece. The discus as a sport was resurrected in Magdeburg, Germany, by Christian Georg Kohlrausch and his students in the 1870s. Organized Men's competition was resumed in the late 19th century, and has been a part of the modern Summer Olympic Games since the first modern competition, the 1896 Summer Olympics. Images of discus throwers figured prominently in advertising for early modern Games, such as fundraising stamps for the 1896 games, the main posters for the 1920 and 1948 Summer Olympics. Today the sport of discus is a routine part of modern track-and-field meets at all levels, and retains a particularly iconic place in the Olympic Games.
 
-1920_olympics_poster.jpg]]
+]]
 
 The first modern athlete to throw the discus while rotating the whole body was František Janda-Suk from Bohemia (present Czech Republic). He invented this technique when studying the position of the famous statue of Discobolus. After only one year of developing the technique he earned a silver medal in the 1900 Olympics.
 
@@ -14,7 +14,7 @@ Women's competition began in the first decades of the 20th century. Following co
 
 Description
 
-Discobolus_Kleomelos_Louvre_G111.jpg by the Kleomelos Painter, Louvre Museum]] Discus_Thrower_Copenhagen.jpg's _Discobolus_ in University of Copenhagen Botanical Garden, Denmark]] The men's discus is a heavy lenticular disc with a weight of and diameter of , the women's discus has a weight of and diameter of .
+by the Kleomelos Painter, Louvre Museum]] 's _Discobolus_ in University of Copenhagen Botanical Garden, Denmark]] The men's discus is a heavy lenticular disc with a weight of and diameter of , the women's discus has a weight of and diameter of .
 
 Under IAAF (international) rules, Youth boys (16–17 years) throw the discus, the Junior men (18–19 years) throw the unique discus, and the girls/women of those ages throw the discus.
 
@@ -31,7 +31,7 @@ Phases
 
 The discus technique can be broken down into phases. The purpose is to transfer from the back to the front of the throwing circle while turning through one and a half circles. The speed of delivery is high, and speed is built up during the throw (slow to fast). Correct technique involves the buildup of torque so that maximum force can be applied to the discus on delivery.
 
-DiscusRutgerSmith6551.jpg in phases of the discus throw]]
+in phases of the discus throw]]
 
 During the wind-up, weight is evenly distributed between the feet, which are about shoulder distance and not overly active. The wind-up sets the tone for the entire throw; the rhythm of the throw is very important.
 
@@ -48,7 +48,7 @@ Sports scientist Richard Ganslen researched the _Aerodynamics of the Discus_, re
 
 Culture
 
-2003_Greece_10_Euro_OS_Discus_front.jpg]]
+]]
 
 The discus throw has been the subject of a number of well-known ancient Greek statues and Roman copies such as the Discobolus and Discophoros. The discus throw also appears repeatedly in ancient Greek mythology, featured as a means of manslaughter in the cases of Hyacinth, Crocus, Phocus, and Acrisius, and as a named event in the funeral games of Patroclus.
 

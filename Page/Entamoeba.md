@@ -10,8 +10,6 @@ Several species are found in humans and animals. _Entamoeba histolytica_ is the 
 
 Structure
 
-Parasite130116-1-olm_Entamoeba_gingivalis_microscopy.tif
-
 _Entamoeba_ cells are small, with a single nucleus and typically a single lobose pseudopod taking the form of a clear anterior bulge. They have a simple life cycle. The trophozoite (feeding-dividing form) is approximately 10-20 μm in diameter and feeds primarily on bacteria. It divides by simple binary fission to form two smaller daughter cells. Almost all species form cysts, the stage involved in transmission (the exception is _Entamoeba gingivalis_). Depending on the species, these can have one, four or eight nuclei and are variable in size; these characteristics help in species identification.
 
 

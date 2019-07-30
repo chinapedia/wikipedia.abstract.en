@@ -1,4 +1,4 @@
-A.D._800,_Franks_-_027_-_Costumes_of_All_Nations_(1882).JPG COSTUME is the distinctive style of dress of an individual or group that reflects their class, gender, profession, ethnicity, nationality, activity or epoch.
+COSTUME is the distinctive style of dress of an individual or group that reflects their class, gender, profession, ethnicity, nationality, activity or epoch.
 
 The term also was traditionally used to describe typical appropriate clothing for certain activities, such as riding costume, swimming costume, dance costume, and evening costume. Appropriate and acceptable costume is subject to changes in fashion and local cultural norms.[1] This general usage has gradually been replaced by the terms "dress", "attire", "robes" or "wear" and usage of "costume" has become more limited to unusual or out-of-date clothing and to attire intended to evoke a change in identity, such as theatrical, Halloween, and mascot costumes.
 
@@ -19,7 +19,7 @@ In Bhutan there is a traditional national dress prescribed for men and women, in
 
 Theatrical costume
 
-"Costume" often refers to a particular style of clothing worn to portray the wearer as a character or type of character at a social event in a theatrical performance on the stage or in film or television. In combination with other aspects of stagecraft, theatrical costumes can help actors portray characters' and their contexts as well as communicate information about the historical period/era, geographic location and time of day, season or weather of the theatrical performance. Some stylized theatrical costumes, such as Harlequin and Pantaloon in the Commedia dell'arte, exaggerate an aspect of a character.Samurai_actors.jpg costume at the Kyoto Eigamura film set]]
+"Costume" often refers to a particular style of clothing worn to portray the wearer as a character or type of character at a social event in a theatrical performance on the stage or in film or television. In combination with other aspects of stagecraft, theatrical costumes can help actors portray characters' and their contexts as well as communicate information about the historical period/era, geographic location and time of day, season or weather of the theatrical performance. Some stylized theatrical costumes, such as Harlequin and Pantaloon in the Commedia dell'arte, exaggerate an aspect of a character. costume at the Kyoto Eigamura film set]]
 
 
 Costume construction
@@ -64,12 +64,12 @@ Millinery
 
 Millinery also known as hatmaking is the manufacturing of hats and headwear.[16]
 
-yakshagana_vesha.jpg, a theater art from India]] Purpledoublet.jpg]]
+, a theater art from India]] ]]
 
 
 Religious festivals
 
-Oldfashioned.jpg]] The wearing of costumes is an important part of holidays developed from religious festivals such as Mardi Gras (in the lead up to Easter), and Halloween (related to All Hallow's Eve). Mardi Gras costumes usually take the form of jesters and other fantasy characters; Halloween costumes traditionally take the form of supernatural creatures such as ghosts, vampires, pop-culture icons and angels. In modern times. Christmas costumes typically portray characters such as Santa Claus (developed from Saint Nicholas). In Australia, the United Kingdom and the United States the American version of a Santa suit and beard is popular; in the Netherlands, the costume of Zwarte Piet is customary. Easter costumes are associated with the Easter Bunny or other animal costumes.
+]] The wearing of costumes is an important part of holidays developed from religious festivals such as Mardi Gras (in the lead up to Easter), and Halloween (related to All Hallow's Eve). Mardi Gras costumes usually take the form of jesters and other fantasy characters; Halloween costumes traditionally take the form of supernatural creatures such as ghosts, vampires, pop-culture icons and angels. In modern times. Christmas costumes typically portray characters such as Santa Claus (developed from Saint Nicholas). In Australia, the United Kingdom and the United States the American version of a Santa suit and beard is popular; in the Netherlands, the costume of Zwarte Piet is customary. Easter costumes are associated with the Easter Bunny or other animal costumes.
 
 In Judaism, a common practice is to dress up on Purim. During this holiday, Jews celebrate the change of their destiny. They were delivered from being the victims of an evil decree against them and were instead allowed by the King to destroy their enemies. A quote from the Book of Esther, which says: "On the contrary" () is the reason that wearing a costume has become customary for this holiday.
 
@@ -87,7 +87,7 @@ Public sporting events such as fun runs also provide opportunities for wearing c
 
 Mascots
 
-Steinbockzunft_Taisersdorf.jpg costumes]] Costumes are popularly employed at sporting events, during which fans dress as their team's representative mascot to show their support. Businesses use mascot costumes to bring in people to their business either by placing their mascot in the street by their business or sending their mascot out to sporting events, festivals, national celebrations, fairs, and parades. Mascots appear at organizations wanting to raise awareness of their work. Children's Book authors create mascots from the main character to present at their book signings. Animal costumes that are visually very similar to mascot costumes are also popular among the members of the furry fandom, where the costumes are referred to as fursuits and match one's animal persona, or "fursona".
+costumes]] Costumes are popularly employed at sporting events, during which fans dress as their team's representative mascot to show their support. Businesses use mascot costumes to bring in people to their business either by placing their mascot in the street by their business or sending their mascot out to sporting events, festivals, national celebrations, fairs, and parades. Mascots appear at organizations wanting to raise awareness of their work. Children's Book authors create mascots from the main character to present at their book signings. Animal costumes that are visually very similar to mascot costumes are also popular among the members of the furry fandom, where the costumes are referred to as fursuits and match one's animal persona, or "fursona".
 
 Children
 
@@ -100,7 +100,7 @@ Cosplay, a word of Japanese origin that in English is short for "costume play", 
 
 Design
 
-University_of_Memphis_Coed_Cheerleaders.jpg group at a performance, wearing costume as per their gender.]]
+group at a performance, wearing costume as per their gender.]]
 
 Costume design is the envisioning of clothing and the overall appearance of a character or performer. Costume may refer to the style of dress particular to a nation, a class, or a period. In many cases, it may contribute to the fullness of the artistic, visual world that is unique to a particular theatrical or cinematic production. The most basic designs are produced to denote status, provide protection or modesty, or provide visual interest to a character. Costumes may be for, but not limited to, theater, cinema, or musical performances. Costume design should not be confused with costume coordination, which merely involves altering existing clothing, although both processes are used to create stage clothes.
 

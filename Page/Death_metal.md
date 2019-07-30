@@ -11,11 +11,11 @@ Emergence and early history
 
 English heavy metal band Venom, from Newcastle, crystallized the elements of what later became known as thrash metal, death metal and black metal, with their 1981 album _Welcome to Hell_.[12] Their dark, blistering sound, harsh vocals, and macabre, proudly Satanic imagery proved a major inspiration for extreme metal bands.[13] Another highly influential band, Slayer, formed in 1981. Although the band was a thrash metal act, Slayer's music was more violent than their thrash contemporaries Metallica, Megadeth, and Anthrax.[14] Their breakneck speed and instrumental prowess combined with lyrics about death, violence, war, and Satanism won Slayer a rabid cult following.[15] According to Mike McPadden, _Hell Awaits_, Slayer's sophomore album, "largely invent[ed] much of the sound and fury that would evolve into death metal."[16] According to AllMusic, their third album _Reign in Blood_ inspired the entire death metal genre.[17] It had a big impact on genre leaders such as Death, Obituary, and Morbid Angel.[18]
 
-Possessed_-_Jalometalli_2008_-_02.JPG of Possessed]]
+of Possessed]]
 
 Possessed, a band that formed in the San Francisco Bay Area during 1983, is described by Allmusic as "connecting the dots" between thrash metal and death metal with their 1985 debut album, _Seven Churches_.[19] While attributed as having a Slayer influence,[20] current and former members of the band had actually cited Venom and Motörhead, as well as early work by Exodus, as the main influences on their sound. Although the group had released only two studio albums and an EP in their formative years, they have been described by music journalists and musicians as either being "monumental" in developing the death metal style, or as being the first death metal band.[21] Earache Records noted that "the likes of Trey Azagthoth and Morbid Angel based what they were doing in their formative years on the Possessed blueprint laid down on the legendary _Seven Churches_ recording. Possessed arguably did more to further the cause of 'Death Metal' than any of the early acts on the scene back in the mid-late 80's."[22]
 
-Chuck_Schuldiner.jpg (1967–2001) of Death, during a 1992 tour in Scotland in support of the album _Human_.]]
+(1967–2001) of Death, during a 1992 tour in Scotland in support of the album _Human_.]]
 
 During the same period as the dawn of Possessed, a second influential metal band was formed in Orlando, Florida: Death. Originally called Mantas, Death was formed in 1983 by Chuck Schuldiner, Kam Lee, and Rick Rozz. In 1984 they released their first demo entitled _Death by Metal_, followed by several more. The tapes circulated through the tape trader world, quickly establishing the band's name. With Death guitarist Schuldiner adopting vocal duties, the band made a major impact on the scene. The fast minor-key riffs and solos were complemented with fast drumming, creating a style that would catch on in tape trading circles. Schuldiner has been credited by Allmusic's Eduardo Rivadavia for being widely recognized as the "Father of Death Metal".[23] Death's 1987 debut release, _Scream Bloody Gore_, has been described by About.com's Chad Bowar as being the "evolution from thrash metal to death metal",[24] and "the first true death metal record" by the _San Francisco Chronicle_.[25] Along with Possessed and Death, other pioneers of death metal in the United States include Macabre, Master, Massacre, Immolation, Cannibal Corpse, Obituary, and Post Mortem.[26][27]
 
@@ -31,7 +31,7 @@ Earache Records, Relativity Records and Roadrunner Records became the genre's mo
 
 In September 1990, Death's manager Eric Greif held one of the first North American death metal festivals, _Day of Death_, in Milwaukee suburb Waukesha, Wisconsin, and featured 26 bands including Autopsy, Broken Hope, Hellwitch, Obliveon, Revenant, Viogression, Immolation, Atheist, and Cynic.[34]
 
-Jungle_Rot_performing_in_Chula_Vista,_CA_on_Mayhem_Fest_2015.jpg]]
+]]
 
 Later history
 
@@ -42,7 +42,7 @@ Characteristics
 
 Instrumentation
 
-Deicide_band_016.jpg]]
+]]
 
 The setup most frequently used within the death metal genre is two guitarists, a bass player, a vocalist and a drummer often using "hyper double-bass blast beats". Although this is the standard setup, bands have been known to occasionally incorporate other instruments such as electronic keyboards.[36] The genre is often identified by fast, heavily distorted and low tuned guitars, played with techniques such as palm muting and tremolo picking. The percussion is usually aggressive and powerful.
 
@@ -50,11 +50,11 @@ Death metal is known for its abrupt tempo, key, and time signature changes. Deat
 
 Vocals and lyrics
 
-CannibalCorpse@Innsbruck2009.jpg performing in 2009.]]
+performing in 2009.]]
 
 Death metal vocals are referred to as death growls; hoarse roars/snarls. Death growling is mistakenly thought to be a form of screaming using the lowest vocal register known as vocal fry, however vocal fry is actually a form of overtone screaming, and while growling can be performed this way by experienced vocalists who use the fry screaming technique, "true" death growling is in fact created by an altogether different technique.[37] The three major methods of harsh vocalization used in the genre are often mistaken for each other, encompassing vocal fry screaming, false chord screaming, and "true" death growls. Growling is sometimes also referred to as Cookie Monster vocals, tongue-in-cheek, due to the vocal similarity to the voice of the popular _Sesame Street_ character of the same name.[38] Although often criticized, death growls serve the aesthetic purpose of matching death metal's aggressive lyrical content.[39] High-pitched screaming is occasionally utilized in death metal, being heard in songs by Death, Aborted, Exhumed, Dying Fetus, Cannibal Corpse, and Deicide.
 
-12-08_Wacken_SFU_05.jpg]]
+]]
 
 The lyrical themes of death metal may invoke slasher film-stylised violence,[40] but may also extend to topics like Satanism, religion, occultism, Lovecraftian horror, nature, mysticism, philosophy, science fiction, and politics.[41] Although violence may be explored in various other genres as well, death metal may elaborate on the details of extreme acts, including mutilation, dissection, torture, rape, cannibalism, and necrophilia. Sociologist Keith Kahn-Harris commented this apparent glamorisation of violence may be attributed to a "fascination" with the human body that all people share to some degree, a fascination that mixes desire and disgust. Heavy metal author Gavin Baddeley also stated there does seem to be a connection between "how acquainted one is with their own mortality" and "how much they crave images of death and violence" via the media.[42] Additionally, contributing artists to the genre often defend death metal as little more than an extreme form of art and entertainment, similar to horror films in the motion picture industry.[43] This explanation has brought such musicians under fire from activists internationally, who claim that this is often lost on a large number of adolescents, who are left with the glamorisation of such violence without social context or awareness of why such imagery is stimulating.[44]
 
@@ -76,7 +76,7 @@ Blackened death-doom is a genre that combines the slow tempos and monolithic dru
 
 Blackened death metal
 
-Goatwhore_Party.San_Metal_Open_Air_2016_11.jpg.]] Blackened death metal is commonly death metal that incorporates musical, lyrical or ideological elements of black metal, such as an increased use of tremolo picking, anti-Christian or Satanic lyrical themes and chord progressions similar to those used in black metal.[58][59][60] Blackened death metal bands are also more likely to wear corpse paint and suits of armour, than bands from other styles of death metal.[61] Lower range guitar tunings, death growls and abrupt tempo changes are common in the genre.[62] Examples of blackened death metal bands are Belphegor,[63] Behemoth,[64] Akercocke,[65] and Sacramentum.[66]
+.]] Blackened death metal is commonly death metal that incorporates musical, lyrical or ideological elements of black metal, such as an increased use of tremolo picking, anti-Christian or Satanic lyrical themes and chord progressions similar to those used in black metal.[58][59][60] Blackened death metal bands are also more likely to wear corpse paint and suits of armour, than bands from other styles of death metal.[61] Lower range guitar tunings, death growls and abrupt tempo changes are common in the genre.[62] Examples of blackened death metal bands are Belphegor,[63] Behemoth,[64] Akercocke,[65] and Sacramentum.[66]
 
 Melodic black-death
 
@@ -92,7 +92,7 @@ Brutal death metal is a subgenre of death metal that privileges heaviness, speed
 
 Death-doom
 
-My_Dying_Bride_44.jpg at Frozen Rock Fest. 2007.]] Death-doom is a style that combines the slow tempos and pessimistic atmosphere of doom metal with the deep growling vocals and double-kick drumming of death metal.[135]"Doom Metal Special: Doom/Death", _Terrorizer #142_. Influenced mostly by the early work of Hellhammer and Celtic Frost, the style emerged during the late 1980s and gained a certain amount of popularity during the 1990s.[136] Death-doom was also pioneered by bands such as Winter,[137] Disembowelment,[138] Paradise Lost,[139] Autopsy, Anathema, and My Dying Bride.[140]
+at Frozen Rock Fest. 2007.]] Death-doom is a style that combines the slow tempos and pessimistic atmosphere of doom metal with the deep growling vocals and double-kick drumming of death metal.[135]"Doom Metal Special: Doom/Death", _Terrorizer #142_. Influenced mostly by the early work of Hellhammer and Celtic Frost, the style emerged during the late 1980s and gained a certain amount of popularity during the 1990s.[136] Death-doom was also pioneered by bands such as Winter,[137] Disembowelment,[138] Paradise Lost,[139] Autopsy, Anathema, and My Dying Bride.[140]
 
 Funeral doom
 
@@ -108,7 +108,7 @@ With the rise in popularity of metalcore, some of its traits have been combined 
 
 Deathgrind, goregrind and pornogrind
 
-Aborted_Coolness'tival_31107_06.jpg genres," according to AllMusic.[152]]] Goregrind, deathgrind and pornogrind[153] are styles that mix the intensity, speed, and brevity of grindcore with the complexity of death metal, with goregrind focused on themes like gore and forensic pathology,[154] and pornogrind dealing with sexual and pornographic themes.[155][156] Some notable examples of these genres are Brujeria, Cattle Decapitation,[157] Cephalic Carnage, Pig Destroyer,[158] Circle of Dead Children, Rotten Sound, Gut,[159] and Cock and Ball Torture.[160][161]
+genres," according to AllMusic.[152]]] Goregrind, deathgrind and pornogrind[153] are styles that mix the intensity, speed, and brevity of grindcore with the complexity of death metal, with goregrind focused on themes like gore and forensic pathology,[154] and pornogrind dealing with sexual and pornographic themes.[155][156] Some notable examples of these genres are Brujeria, Cattle Decapitation,[157] Cephalic Carnage, Pig Destroyer,[158] Circle of Dead Children, Rotten Sound, Gut,[159] and Cock and Ball Torture.[160][161]
 
 Deathrash
 
@@ -120,7 +120,7 @@ Industrial death metal is a genre of death metal that add elements of industrial
 
 Melodic death metal
 
-At_the_Gates_Sweden_Rock_2008.jpg Swedish death metal could be considered the forerunner of "melodic death metal". Melodic death metal, sometimes referred to as "melodeath", is heavy metal mixed with some death metal elements and is heavily influenced by the new wave of British heavy metal.<ref name='LiveAbout.com - What Is Melodic Death Metal?>https://www.liveabout.com/what-is-melodic-death-metal-1756186 Unlike most other death metal, melodeath usually features screams instead of growls, slower tempos, much more melody and even clean vocals are heard at rare times. Carcass is sometimes credited with releasing the first melodic death metal album with 1993's _Heartwork_, although Swedish bands In Flames, Dark Tranquillity, and At the Gates are usually mentioned as the main pioneers of the genre and of the Gothenburg metal sound.
+Swedish death metal could be considered the forerunner of "melodic death metal". Melodic death metal, sometimes referred to as "melodeath", is heavy metal mixed with some death metal elements and is heavily influenced by the new wave of British heavy metal.<ref name='LiveAbout.com - What Is Melodic Death Metal?>https://www.liveabout.com/what-is-melodic-death-metal-1756186 Unlike most other death metal, melodeath usually features screams instead of growls, slower tempos, much more melody and even clean vocals are heard at rare times. Carcass is sometimes credited with releasing the first melodic death metal album with 1993's _Heartwork_, although Swedish bands In Flames, Dark Tranquillity, and At the Gates are usually mentioned as the main pioneers of the genre and of the Gothenburg metal sound.
 
 Slam death metal
 
@@ -132,7 +132,7 @@ Symphonic death metal is a genre of death metal that add elements of classical m
 
 Technical death metal
 
-Nile_in_performance_(São_Paulo,_2010).jpg performing in 2010.]] Technical death metal (also known as tech-death, progressive death metal, or prog-death)[190] is a subgenre of death metal that employs dynamic song structures, uncommon time signatures, atypical rhythms and unusual harmonies and melodies. Bands described as technical death metal or progressive death metal usually fuse common death metal aesthetics with elements of progressive rock, jazz or classical music. While the term technical death metal is sometimes used to describe bands that focus on speed and extremity as well as complexity, the line between progressive and technical death metal is thin. _Tech death_ and _prog death_, for short, are terms commonly applied to such bands as Nile, Edge of Sanity, and Opeth. Necrophagist and Spawn of Possession are known for a classical music-influenced death metal style. Death metal pioneers Death also refined their style in a more progressive direction in their final years. Some albums for this subgenre are _Hallucinations_ (1990) by the German band Atrocity and Death's _Human_ (1991). This style has significantly influenced many bands, creating a stream that in Europe was carried out at first by bands such as Gory Blister and Electrocution.[191][192] The Polish band Decapitated gained recognition as one of Europe's primary modern technical death metal acts.[193][194]
+performing in 2010.]] Technical death metal (also known as tech-death, progressive death metal, or prog-death)[190] is a subgenre of death metal that employs dynamic song structures, uncommon time signatures, atypical rhythms and unusual harmonies and melodies. Bands described as technical death metal or progressive death metal usually fuse common death metal aesthetics with elements of progressive rock, jazz or classical music. While the term technical death metal is sometimes used to describe bands that focus on speed and extremity as well as complexity, the line between progressive and technical death metal is thin. _Tech death_ and _prog death_, for short, are terms commonly applied to such bands as Nile, Edge of Sanity, and Opeth. Necrophagist and Spawn of Possession are known for a classical music-influenced death metal style. Death metal pioneers Death also refined their style in a more progressive direction in their final years. Some albums for this subgenre are _Hallucinations_ (1990) by the German band Atrocity and Death's _Human_ (1991). This style has significantly influenced many bands, creating a stream that in Europe was carried out at first by bands such as Gory Blister and Electrocution.[191][192] The Polish band Decapitated gained recognition as one of Europe's primary modern technical death metal acts.[193][194]
 
 
 See also

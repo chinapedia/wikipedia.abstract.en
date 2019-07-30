@@ -5,14 +5,12 @@ Throughout most of its history, astrology was considered a scholarly tradition a
 
 Etymology
 
-Marcantonio_Raimondi_-_Two_Women_with_the_Signs_of_Libra_and_Scorpio.jpg engraving, 15th century]]
+engraving, 15th century]]
 
 The word _astrology_ comes from the early Latin word _astrologia_,[20] which derives from the Greek —from ἄστρον _astron_ ("star") and -λογία _-logia_, ("study of"—"account of the stars"). _Astrologia_ later passed into meaning 'star-divination' with _astronomia_ used for the scientific term.[21]
 
 
 History
-
-P._26_'The_Zodiac_Man'_a_diagram_of_a_human_body_and_astrological_symbols_with_instructions_explaining_the_importance_of_astrology_from_a_medical_perspective.jpg
 
 Many cultures have attached importance to astronomical events, and the Indians, Chinese, and Maya developed elaborate systems for predicting terrestrial events from celestial observations. In the West, astrology most often consists of a system of horoscopes purporting to explain aspects of a person's personality and predict future events in their life based on the positions of the sun, moon, and other celestial objects at the time of their birth. The majority of professional astrologers rely on such systems.[22]
 
@@ -30,7 +28,7 @@ The system of Chinese astrology was elaborated during the Zhou dynasty (1046–2
 
 Ancient objections
 
-Cicero_-_Musei_Capitolini.JPG objected to astrology]]
+objected to astrology]]
 
 Cicero stated the twins objection (that with close birth times, personal outcomes can be very different), later developed by Saint Augustine.[36] He argued that since the other planets are much more distant from the earth than the moon, they could have only very tiny influence compared to the moon's.[37] He also argued that if astrology explains everything about a person's fate, then it wrongly ignores the visible effect of inherited ability and parenting, changes in health worked by medicine, or the effects of the weather on people.[38]
 
@@ -40,7 +38,7 @@ Favorinus argued that it was absurd to imagine that stars and planets would affe
 
 Hellenistic Egypt
 
-Quadritpartitum.jpg _Tetrabiblos_, translated into Latin by Plato of Tivoli|alt=Ptolemy's _Tetrabiblos_, the Hellenistic text that founded Western astrology]] In 525 BCE, Egypt was conquered by the Persians. The 1st century BCE Egyptian Dendera Zodiac shares two signs – the Balance and the Scorpion – with Mesopotamian astrology.[43]
+_Tetrabiblos_, translated into Latin by Plato of Tivoli|alt=Ptolemy's _Tetrabiblos_, the Hellenistic text that founded Western astrology]] In 525 BCE, Egypt was conquered by the Persians. The 1st century BCE Egyptian Dendera Zodiac shares two signs – the Balance and the Scorpion – with Mesopotamian astrology.[43]
 
 With the occupation by Alexander the Great in 332 BCE, Egypt became Hellenistic. The city of Alexandria was founded by Alexander after the conquest, becoming the place where Babylonian astrology was mixed with Egyptian Decanic astrology to create Horoscopic astrology. This contained the Babylonian zodiac with its system of planetary exaltations, the triplicities of the signs and the importance of eclipses. It used the Egyptian concept of dividing the zodiac into thirty-six decans of ten degrees each, with an emphasis on the rising decan, and the Greek system of planetary Gods, sign rulership and four elements.[44] 2nd century BCE texts predict positions of planets in zodiac signs at the time of the rising of certain decans, particularly Sothis.[45] The astrologer and astronomer Ptolemy lived in Alexandria. Ptolemy's work the _Tetrabiblos_ formed the basis of Western astrology, and, "...enjoyed almost the authority of a Bible among the astrological writers of a thousand years or more."[46]
 

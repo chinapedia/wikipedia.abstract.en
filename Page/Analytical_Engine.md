@@ -1,4 +1,4 @@
-AnalyticalMachine_Babbage_London.jpg The ANALYTICAL ENGINE was a proposed mechanical general-purpose computer designed by English mathematician and computer pioneer Charles Babbage.[1][2] It was first described in 1837 as the successor to Babbage's difference engine, a design for a simpler mechanical computer.
+The ANALYTICAL ENGINE was a proposed mechanical general-purpose computer designed by English mathematician and computer pioneer Charles Babbage.[1][2] It was first described in 1837 as the successor to Babbage's difference engine, a design for a simpler mechanical computer.
 
 The Analytical Engine incorporated an arithmetic logic unit, control flow in the form of conditional branching and loops, and integrated memory, making it the first design for a general-purpose computer that could be described in modern terms as Turing-complete.[3][4] In other words, the logical structure of the Analytical Engine was essentially the same as that which has dominated computer design in the electronic era.[5]. The Analytical Engine is one of the most successful achievements of Charles Babbage.
 
@@ -7,7 +7,7 @@ Babbage was never able to complete construction of any of his machines due to co
 
 Design
 
-PunchedCardsAnalyticalEngine.jpgs used to program the machine. Foreground: 'operational cards', for inputting instructions; background: 'variable cards', for inputting data]]
+s used to program the machine. Foreground: 'operational cards', for inputting instructions; background: 'variable cards', for inputting data]]
 
 Babbage's first attempt at a mechanical computing device, the Difference Engine, was a special-purpose machine designed to tabulate logarithms and trigonometric functions by evaluating finite differences to create approximating polynomials. Construction of this machine was never completed; Babbage had conflicts with his chief engineer, Joseph Clement, and ultimately the British government withdrew its funding for the project.[9][10]
 
@@ -24,7 +24,7 @@ In 1842, the Italian mathematician Luigi Federico Menabrea published a descripti
 
 Construction
 
-Analytical_Engine_(2290032530).jpg ]]
+]]
 
 Late in his life, Babbage sought ways to build a simplified version of the machine, and assembled a small part of it before his death in 1871.[14][15][16]
 
@@ -39,7 +39,7 @@ In October 2010, John Graham-Cumming started a "Plan 28" campaign to raise funds
 
 Instruction set
 
-Babbage_Analytical_Engine_Plan_1840_CHM.agr.jpg Babbage is not known to have written down an explicit set of instructions for the engine in the manner of a modern processor manual. Instead he showed his programs as lists of states during their execution, showing what operator was run at each step with little indication of how the control flow would be guided.
+Babbage is not known to have written down an explicit set of instructions for the engine in the manner of a modern processor manual. Instead he showed his programs as lists of states during their execution, showing what operator was run at each step with little indication of how the control flow would be guided.
 
 Allan G. Bromley has assumed that the card deck could be read in forwards and backwards directions as a function of conditional branching after testing for conditions, which would make the engine Turing-complete:
 

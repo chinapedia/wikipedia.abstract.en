@@ -1,4 +1,4 @@
-Square_compasses.svg.
+.
 (_Found with or without the letter G_)]]
 
 FREEMASONRY or MASONRY consists of fraternal organisations that trace their origins to the local fraternities of stonemasons, which from the end of the fourteenth century regulated the qualifications of stonemasons and their interaction with authorities and clients. The degrees of Freemasonry retain the three grades of medieval craft guilds, those of Apprentice, Journeyman or fellow (now called Fellowcraft), and Master Mason. The candidate of these three degrees is progressively taught the meanings of the symbols of Freemasonry, and entrusted with grips, signs and words to signify to other members that he has been so initiated. The initiations are part allegorical morality play and part lecture. The three degrees are offered by Craft (or Blue Lodge) Freemasonry. Members of these organisations are known as FREEMASONS or MASONS. There are additional degrees, which vary with locality and jurisdiction, and are usually administered by their own bodies (separate from those who administer the craft degrees).
@@ -10,7 +10,7 @@ Modern Freemasonry broadly consists of two main recognition groups. Regular Free
 
 Masonic Lodge
 
-Palazzo_Roffia,_galleria_00.JPG, set out for French (Moderns) ritual]] The Masonic lodge is the basic organisational unit of Freemasonry.[1] The Lodge meets regularly to conduct the usual formal business of any small organisation (pay bills, organise social and charitable events, elect new members, etc.). In addition to business, the meeting may perform a ceremony to confer a Masonic degree[2] or receive a lecture, which is usually on some aspect of Masonic history or ritual.[3] At the conclusion of the meeting, the Lodge might adjourn for a formal dinner, or _festive board_, sometimes involving toasting and song.[4]
+, set out for French (Moderns) ritual]] The Masonic lodge is the basic organisational unit of Freemasonry.[1] The Lodge meets regularly to conduct the usual formal business of any small organisation (pay bills, organise social and charitable events, elect new members, etc.). In addition to business, the meeting may perform a ceremony to confer a Masonic degree[2] or receive a lecture, which is usually on some aspect of Masonic history or ritual.[3] At the conclusion of the meeting, the Lodge might adjourn for a formal dinner, or _festive board_, sometimes involving toasting and song.[4]
 
 The bulk of Masonic ritual consists of degree ceremonies. Candidates for Freemasonry are progressively _initiated_ into Freemasonry, first in the degree of Entered Apprentice. Some time later, in a separate ceremony, they will be _passed_ to the degree of Fellowcraft, and finally they will be _raised_ to the degree of MASTER MASON. In all of these ceremonies, the candidate is entrusted with passwords, signs and grips (secret handshakes) peculiar to his new rank.[5] Another ceremony is the annual installation of the Master and officers of the Lodge.[6] In some jurisdictions _Installed Master_ is valued as a separate rank, with its own secrets to distinguish its members.[7] In other jurisdictions, the grade is not recognised, and no inner ceremony conveys new secrets during the installation of a new Master of the Lodge.[8]
 
@@ -26,7 +26,7 @@ Each Masonic Lodge exists and operates according to a set of ancient principles 
 
 Joining a lodge
 
-Washington_Masonic_print.jpg as Master of his Lodge]]
+as Master of his Lodge]]
 
 Candidates for Freemasonry will have met most active members of the Lodge they are joining before they are initiated. The process varies between jurisdictions, but the candidate will typically have been introduced by a friend at a Lodge social function, or at some form of open evening in the Lodge. In modern times, interested people often track down a local Lodge through the Internet. The onus is on candidates to ask to join; while candidates may be encouraged to ask, they are never invited. Once the initial inquiry is made, an interview usually follows to determine the candidate's suitability. If the candidate decides to proceed from here, the Lodge ballots on the application before he (or she, depending on the Masonic Jurisdiction) can be accepted.[17]
 
@@ -41,7 +41,7 @@ Organisation
 
 Grand Lodges
 
-Freemasons'_Hall,_London.JPG, London, home of the United Grand Lodge of England]] Grand Lodges and Grand Orients are independent and sovereign bodies that govern Masonry in a given country, state, or geographical area (termed a _jurisdiction_). There is no single overarching governing body that presides over worldwide Freemasonry; connections between different jurisdictions depend solely on mutual recognition.[26][27]
+, London, home of the United Grand Lodge of England]] Grand Lodges and Grand Orients are independent and sovereign bodies that govern Masonry in a given country, state, or geographical area (termed a _jurisdiction_). There is no single overarching governing body that presides over worldwide Freemasonry; connections between different jurisdictions depend solely on mutual recognition.[26][27]
 
 Freemasonry, as it exists in various forms all over the world, has a membership estimated by the United Grand Lodge of England at around 6 million worldwide.[28] The fraternity is administratively organis ed into independent Grand Lodges (or sometimes Grand Orients), each of which governs its own Masonic jurisdiction, which consists of subordinate (or _constituent_) Lodges. The largest single jurisdiction, in terms of membership, is the United Grand Lodge of England (with a membership estimated at around a quarter million). The Grand Lodge of Scotland and Grand Lodge of Ireland (taken together) have approximately 150,000 members.[29] In the United States, total membership is just under 2 million.[30]
 
@@ -55,7 +55,7 @@ Exclusive Jurisdiction is a concept whereby only one Grand Lodge will be recogni
 
 Regularity
 
-Microcosm_of_London_Plate_038_-_Freemasons'_Hall_(tone).jpg Regularity is a concept based on adherence to Masonic Landmarks, the basic membership requirements, tenets and rituals of the craft. Each Grand Lodge sets its own definition of what these landmarks are, and thus what is Regular and what is Irregular (and the definitions do not necessarily agree between Grand Lodges). Essentially, every Grand Lodge will hold that _its_ landmarks (its requirements, tenets and rituals) are Regular, and judge other Grand Lodges based on those. If the differences are significant, one Grand Lodge may declare the other "Irregular" and withdraw or withhold recognition.[35][36]
+Regularity is a concept based on adherence to Masonic Landmarks, the basic membership requirements, tenets and rituals of the craft. Each Grand Lodge sets its own definition of what these landmarks are, and thus what is Regular and what is Irregular (and the definitions do not necessarily agree between Grand Lodges). Essentially, every Grand Lodge will hold that _its_ landmarks (its requirements, tenets and rituals) are Regular, and judge other Grand Lodges based on those. If the differences are significant, one Grand Lodge may declare the other "Irregular" and withdraw or withhold recognition.[35][36]
 
 The most commonly shared rules for Recognition (based on Regularity) are those given by the United Grand Lodge of England in 1929:
 
@@ -95,9 +95,9 @@ History
 
 Origins
 
-Goose_and_Gridiron.jpg was founded]] Since the middle of the 19th century, Masonic historians have sought the origins of the movement in a series of similar documents known as the Old Charges, dating from the Regius Poem in about 1425[47] to the beginning of the 18th century. Alluding to the membership of a lodge of operative masons, they relate it to a mythologised history of the craft, the duties of its grades, and the manner in which oaths of fidelity are to be taken on joining.[48] The 15th century also sees the first evidence of ceremonial regalia.[49]
+was founded]] Since the middle of the 19th century, Masonic historians have sought the origins of the movement in a series of similar documents known as the Old Charges, dating from the Regius Poem in about 1425[47] to the beginning of the 18th century. Alluding to the membership of a lodge of operative masons, they relate it to a mythologised history of the craft, the duties of its grades, and the manner in which oaths of fidelity are to be taken on joining.[48] The 15th century also sees the first evidence of ceremonial regalia.[49]
 
-There is no clear mechanism by which these local trade organisations became today's Masonic Lodges. The earliest rituals and passwords known, from operative lodges around the turn of the 17th–18th centuries, show continuity with the rituals developed in the later 18th century by accepted or speculative Masons, as those members who did not practice the physical craft gradually came to be known.[50] The minutes of the Lodge of Edinburgh (Mary's Chapel) No. 1 in Scotland show a continuity from an operative lodge in 1598 to a modern speculative Lodge.[51] It is reputed to be the oldest Masonic Lodge in the world.[52] Room_at_Masonic_Hall_Bury_St_Edmunds_Suffolk_England.jpg, Suffolk, England, early 20th century, set up for a Holy Royal Arch convocation]] Alternatively, Thomas De Quincey in his work titled; _Rosicrucians and Freemasonry_, put forward the theory which suggested that Freemasonry was possibly an outgrowth of Rosicrucianism. The theory had also been postulated in 1803 by German professor; J. G. Buhle.[53][54]
+There is no clear mechanism by which these local trade organisations became today's Masonic Lodges. The earliest rituals and passwords known, from operative lodges around the turn of the 17th–18th centuries, show continuity with the rituals developed in the later 18th century by accepted or speculative Masons, as those members who did not practice the physical craft gradually came to be known.[50] The minutes of the Lodge of Edinburgh (Mary's Chapel) No. 1 in Scotland show a continuity from an operative lodge in 1598 to a modern speculative Lodge.[51] It is reputed to be the oldest Masonic Lodge in the world.[52] , Suffolk, England, early 20th century, set up for a Holy Royal Arch convocation]] Alternatively, Thomas De Quincey in his work titled; _Rosicrucians and Freemasonry_, put forward the theory which suggested that Freemasonry was possibly an outgrowth of Rosicrucianism. The theory had also been postulated in 1803 by German professor; J. G. Buhle.[53][54]
 
 The first Grand Lodge, the Grand Lodge of London and Westminster (later called the Grand Lodge of England (GLE)), was founded on St John's Day, 24 June 1717,[55] when four existing London Lodges met for a joint dinner. Many English Lodges joined the new regulatory body, which itself entered a period of self-publicity and expansion. However, many Lodges could not endorse changes which some Lodges of the GLE made to the ritual (they came to be known as the Moderns), and a few of these formed a rival Grand Lodge on 17 July 1751, which they called the "Antient Grand Lodge of England." These two Grand Lodges vied for supremacy until the Moderns promised to return to the ancient ritual. They united on 27 December 1813 to form the United Grand Lodge of England (UGLE).[56][57]
 
@@ -105,7 +105,7 @@ The Grand Lodge of Ireland and the Grand Lodge of Scotland were formed in 1725 a
 
 North America
 
-Erasmus_James_Philipps,_Old_Burying_Ground,_Halifax,_Nova_Scotia.jpg, first Freemason in present-day Canada, Old Burying Ground (Halifax, Nova Scotia)]] The earliest known American lodges were in Pennsylvania. The Collector for the port of Pennsylvania, John Moore, wrote of attending lodges there in 1715, two years before the formation of the first Grand Lodge in London. The Premier Grand Lodge of England appointed a Provincial Grand Master for North America in 1731, based in Pennsylvania.[60]
+, first Freemason in present-day Canada, Old Burying Ground (Halifax, Nova Scotia)]] The earliest known American lodges were in Pennsylvania. The Collector for the port of Pennsylvania, John Moore, wrote of attending lodges there in 1715, two years before the formation of the first Grand Lodge in London. The Premier Grand Lodge of England appointed a Provincial Grand Master for North America in 1731, based in Pennsylvania.[60]
 
 In present-day Canada, Erasmus James Philipps became a Freemason while working on a commission to resolve boundaries in New England and, in 1739, became provincial grand master for Nova Scotia; Philipps founded the first Masonic lodge in Canada at Annapolis Royal, Nova Scotia.[61]
 
@@ -127,7 +127,7 @@ Widespread racial segregation in 19th- and early 20th-century North America made
 
 Emergence of Continental Freemasonry
 
-Freimaurer_Initiation.jpg English Freemasonry spread to France in the 1720s, first as lodges of expatriates and exiled Jacobites, and then as distinctively French lodges which still follow the ritual of the Moderns. From France and England, Freemasonry spread to most of Continental Europe during the course of the 18th century. The Grande Loge de France formed under the Grand Mastership of the Duke of Clermont, who exercised only nominal authority. His successor, the Duke of Orléans, reconstituted the central body as the Grand Orient de France in 1773. Briefly eclipsed during the French Revolution, French Freemasonry continued to grow in the next century,[76] at first under the leadership of Alexandre Francois Auguste de Grasse, Comte de Grassy-Tilly. A career Army officer, he had lived with his family in Charleston, South Carolina from 1793 to the early 1800s, after leaving Saint-Domingue (now Haiti) during the years of the Haitian Revolution.
+English Freemasonry spread to France in the 1720s, first as lodges of expatriates and exiled Jacobites, and then as distinctively French lodges which still follow the ritual of the Moderns. From France and England, Freemasonry spread to most of Continental Europe during the course of the 18th century. The Grande Loge de France formed under the Grand Mastership of the Duke of Clermont, who exercised only nominal authority. His successor, the Duke of Orléans, reconstituted the central body as the Grand Orient de France in 1773. Briefly eclipsed during the French Revolution, French Freemasonry continued to grow in the next century,[76] at first under the leadership of Alexandre Francois Auguste de Grasse, Comte de Grassy-Tilly. A career Army officer, he had lived with his family in Charleston, South Carolina from 1793 to the early 1800s, after leaving Saint-Domingue (now Haiti) during the years of the Haitian Revolution.
 
 Schism
 
@@ -166,7 +166,7 @@ In 2018 guidance was released by the United Grand Lodge of England stating that,
 
 Anti-Masonry
 
-Templo_masónico_histórico,_Santa_Cruz_de_Tenerife,_España,_2012-12-15,_DD_03.jpg, one of the few Masonic temples that survived the Franco dictatorship in Spain.]] _Anti-Masonry_ (alternatively called _Anti-Freemasonry_) has been defined as "opposition to Freemasonry",[104][105] but there is no homogeneous anti-Masonic movement. Anti-Masonry consists of widely differing criticisms from diverse (and often incompatible) groups who are hostile to Freemasonry in some form. Critics have included religious groups, political groups, and conspiracy theorists.
+, one of the few Masonic temples that survived the Franco dictatorship in Spain.]] _Anti-Masonry_ (alternatively called _Anti-Freemasonry_) has been defined as "opposition to Freemasonry",[104][105] but there is no homogeneous anti-Masonic movement. Anti-Masonry consists of widely differing criticisms from diverse (and often incompatible) groups who are hostile to Freemasonry in some form. Critics have included religious groups, political groups, and conspiracy theorists.
 
 There have been many disclosures and exposés dating as far back as the 18th century. These often lack context,[106] may be outdated for various reasons,[107] or could be outright hoaxes on the part of the author, as in the case of the Taxil hoax.[108]
 
@@ -214,7 +214,7 @@ The Grand Masters of both the Moderns and the Antients Grand Lodges called on Pr
 
 Freemasonry in the United States faced political pressure following the 1826 kidnapping of William Morgan by Freemasons and his subsequent disappearance. Reports of the "Morgan Affair", together with opposition to Jacksonian democracy (Andrew Jackson was a prominent Mason), helped fuel an Anti-Masonic movement. The short-lived Anti-Masonic Party was formed, which fielded candidates for the presidential elections of 1828 and 1832.[139]
 
-Bundesarchiv_Bild_183-W1028-507,_Erlangen,_Freimaurer_bei_Zeremonie.jpg In Italy, Freemasonry has become linked to a scandal concerning the Propaganda Due lodge (a.k.a. P2). This lodge was chartered by the Grande Oriente d'Italia in 1877, as a lodge for visiting Masons unable to attend their own lodges. Under Licio Gelli's leadership, in the late 1970s, P2 became involved in the financial scandals that nearly bankrupted the Vatican Bank. However, by this time the lodge was operating independently and irregularly, as the Grand Orient had revoked its charter and expelled Gelli in 1976.[140]
+In Italy, Freemasonry has become linked to a scandal concerning the Propaganda Due lodge (a.k.a. P2). This lodge was chartered by the Grande Oriente d'Italia in 1877, as a lodge for visiting Masons unable to attend their own lodges. Under Licio Gelli's leadership, in the late 1970s, P2 became involved in the financial scandals that nearly bankrupted the Vatican Bank. However, by this time the lodge was operating independently and irregularly, as the Grand Orient had revoked its charter and expelled Gelli in 1976.[140]
 
 Conspiracy theorists have long associated Freemasonry with the New World Order and the Illuminati, and state that Freemasonry as an organisation is either bent on world domination or already secretly in control of world politics. Historically, Freemasonry has attracted criticism—and suppression—from both the politically far right (e.g., Nazi Germany)[141][142] and the far left (e.g. the former Communist states in Eastern Europe).[143]
 
@@ -226,7 +226,7 @@ In some countries anti-Masonry is often related to antisemitism and anti-Zionism
 
 The Holocaust
 
-Forgetmenotflower.JPG|Forget-me-not]]
+|Forget-me-not]]
 
 The preserved records of the _Reichssicherheitshauptamt_ (the Reich Security Main Office) show the persecution of Freemasons during the Holocaust.[153] RSHA Amt VII (Written Records) was overseen by Professor Franz Six and was responsible for "ideological" tasks, by which was meant the creation of antisemitic and anti-Masonic propaganda. While the number of victims is not accurately known, historians estimate that between 80,000 and 200,000 Freemasons were killed under the Nazi regime.[154] Masonic concentration camp inmates were classified as political prisoners and wore an inverted red triangle.[155] Hitler believed Freemasons had succumbed to Jews conspiring against Germany.[156][157]
 

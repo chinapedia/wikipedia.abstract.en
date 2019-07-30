@@ -20,13 +20,11 @@ In 1972, Danner portrayed Martha Jefferson in the film version of _1776_. That s
 
 Her earliest starring film role was opposite Alan Alda in _To Kill a Clown_ (1972). Danner appeared in the episode of _M*A*S*H_ entitled "The More I See You", playing the love interest of Alda's character Hawkeye Pierce. She played lawyer Amanda Bonner in television's _Adam's Rib_, also opposite Ken Howard as Adam Bonner. She played Zelda Fitzgerald in _F. Scott Fitzgerald and 'The Last of the Belles'_ (1974). She was the eponymous heroine in the film _Lovin' Molly_ (1974) (directed by Sidney Lumet). She appeared in _Futureworld_, playing Tracy Ballard with co-star Peter Fonda (1976). In the 1982 TV movie _Inside the Third Reich_, she played the wife of Albert Speer. In the film version of Neil Simon's semi-autobiographical play _Brighton Beach Memoirs_ (1986), she portrayed a middle-aged Jewish mother. She has appeared in two films based on the novels of Pat Conroy, _The Great Santini_ (1979) and _The Prince of Tides_ (1991), as well as two television movies adapted from books by Anne Tyler, _Saint Maybe_ and _Back When We Were Grownups_, both for the Hallmark Hall of Fame.
 
-Blythe_Danner_at_Met_Opera.jpg Danner appeared opposite Robert De Niro in the 2000 comedy hit _Meet the Parents_, and its sequels, _Meet the Fockers_ (2004) and _Little Fockers_ (2010).
+Danner appeared opposite Robert De Niro in the 2000 comedy hit _Meet the Parents_, and its sequels, _Meet the Fockers_ (2004) and _Little Fockers_ (2010).
 
 From 2001 to 2006, she regularly appeared on NBC's sitcom _Will & Grace_ as Will Truman's mother Marilyn. From 2004 to 2006, she starred in the main cast of the comedy-drama series _Huff_. In 2005, she was nominated for three Primetime Emmy Awards for her work on _Will & Grace_, _Huff_, and the television film _Back When We Were Grownups_, winning for her role in _Huff_. The following year, she won a second consecutive Emmy Award for _Huff_. For 25 years, she has been a regular performer at the Williamstown Summer Theater Festival, where she also serves on the Board of Directors.[7]
 
 In 2006, Danner was awarded an inaugural Katharine Hepburn Medal by Bryn Mawr College's Katharine Houghton Hepburn Center.[8] In 2015, Danner was inducted into the American Theater Hall of Fame.[9]
-
-Blythe_Danner_2.jpg
 
 
 Environmental activism

@@ -1,4 +1,4 @@
-Durer_Revelation_Four_Riders.jpg, as depicted in the _Apocalypse_ work by Albrecht Dürer]]
+, as depicted in the _Apocalypse_ work by Albrecht Dürer]]
 
 ESCHATOLOGY is a part of theology concerned with the final events of history, or the ultimate destiny of humanity. This concept is commonly referred to as the "end of the world" or "end times".[1]
 
@@ -76,7 +76,7 @@ Researchers in futures studies and transhumanists investigate how the accelerati
 
 Astronomy
 
-Solar_Life_Cycle.svg]]
+]]
 
 Occasionally the term "physical eschatology" is applied to the long-term predictions of astrophysics.[21][22] The Sun will turn into a red giant in approximately 6 billion years. Life on Earth will become impossible due to a rise in temperature long before the planet is actually swallowed up by the Sun.[23] Even later, the Sun will become a white dwarf.
 

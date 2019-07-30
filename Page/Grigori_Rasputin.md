@@ -9,8 +9,6 @@ Historians often suggest that Rasputin's terrible reputation helped discredit th
 
 Early life
 
-Gorskii_04663u.jpg Raspoutine_et_ses_enfants.jpg
-
 Rasputin was born a peasant in the small village of Pokrovskoye, along the Tura River in the Tobolsk Governorate (now Tyumen Oblast) in Siberia. According to official records, he was born on and christened the following day. He was named for St. Gregory of Nyssa, whose feast was celebrated on 10 January.
 
 There are few records of Rasputin's parents. His father, Efim (sometimes spelled Yefim), was a peasant farmer and church elder who had been born in Pokrovskoye in 1842, and married Rasputin's mother, Anna Parshukova, in 1863. Efim also worked as a government courier, ferrying people and goods between Tobolsk and Tyumen The couple had seven other children, all of whom died in infancy and early childhood; there may have been a ninth child, Feodosiya. According to historian Joseph T. Fuhrmann, Rasputin was certainly close to Feodosiya and was godfather to her children, but "the records that have survived do not permit us to say more than that".
@@ -33,7 +31,7 @@ By the early 1900s, Rasputin had developed a small circle of acolytes, primarily
 
 Rise to prominence
 
-Makarij,_Theofan_of_Poltava_and_Rasputin,_1909_03.jpg and Rasputin]]
+and Rasputin]]
 
 Word of Rasputin's activity and charisma began to spread in Siberia during the early 1900s. Sometime between 1902 and 1904, he travelled to the city of Kazan on the Volga river, where he acquired a reputation as a wise and perceptive _starets,_ or holy man, who could help people resolve their spiritual crises and anxieties. Despite rumors that Rasputin was having sex with some of his female followers, he won over the father superior of the Seven Lakes Monastery outside Kazan, as well as a local church officials Archimandrite Andrei and Bishop Chrysthanos, who gave him a letter of recommendation to Bishop Sergei, the rector of the St. Petersburg Theological Seminary at the Alexander Nevsky Monastery, and arranged for him to travel to St. Petersburg, either in 1903 or in the winter of 1904–1905.
 
@@ -45,8 +43,6 @@ Rasputin first met the Tsar on 1 November 1905, at the Peterhof Palace. The tsar
 
 
 Healer to Alexei
-
-Ρασπούτιν.jpg
 
 Much of Rasputin's influence with the royal family stemmed from the belief by Alexandra and others that he had eased the pain and stopped the bleeding of the Tsarevich – who suffered from hemophilia – on several occasions. According to historian Marc Ferro, the Tsarina had a "passionate attachment" to Rasputin as a result of her belief that he could heal her son's affliction. Harold Shukman wrote that Rasputin became "an indispensable member of the royal entourage" as a result.
 
@@ -63,21 +59,17 @@ Some writers and historians, such as Ferro, have claimed that Rasputin stopped A
 
 Controversy
 
-Rasputin_Photo.jpg
-
 The royal family'sand especially Alexandra'sbelief that Rasputin possessed the power to heal Alexei brought him considerable status and power at court. The Tsar appointed Rasputin his _lampadnik,_ or lamplighter, who was charged with keeping the lamps that burned in front of religious icons in the palace lit and thus had regular access to the palace and royal family. By December 1906, Rasputin had become close enough to the royal family to ask a special favor of the Tsar – that he be permitted to change his surname to Rasputin-Novyi (Rasputin-New). Nicholas granted the request and the name change was speedily processed, suggesting that the Tsar viewed – and treated – Rasputin favorably at that time. Rasputin used his status and power to full effect, accepting bribes and sexual favors from admirers and working diligently to expand his influence. He soon became a controversial figure; he was accused by his enemies of religious heresy and rape, was suspected of exerting undue political influence over the tsar, and was even rumored to be having an affair with the Tsarina.
 
 Even before Rasputin's arrival in St. Petersburg in 1903, alternative religious movements such as spiritualism and theosophy had become increasingly popular among the city's aristocracy, and many of them were intensely curious about the occult and the supernatural more generally. While fascinated by him, the Saint Petersburg elite did not widely accept Rasputin. He did not fit in with the royal family, and he and the Russian Orthodox Church had a very strained relationship. The Holy Synod frequently attacked Rasputin, accusing him of a variety of immoral or evil practices. Because Rasputin was a court official, though, he and his apartment were under 24-hour surveillance, and, accordingly, there exists some credible evidence about his lifestyle in the form of the famous "staircase notes" – reports from police spies, which were not given only to the Tsar but also published in newspapers.
 
-Rasputindaughtercropped.jpg (Maria) in his St. Petersburg apartment in 1911]]
+(Maria) in his St. Petersburg apartment in 1911]]
 
 According to Rasputin's daughter, Maria, Rasputin did "look into" the Khlysty sect, but rejected it. One Khlyst practice was known as "rejoicing" (радение), a ritual which sought to overcome human sexual urges by engaging in group sexual activities so that, in consciously sinning together, the sin's power over the human was nullified. Rasputin is said to have been particularly appalled by the belief that grace is found through self-flagellation.
 
 Like many spiritually minded Russians, Rasputin spoke of salvation as depending less on the clergy and the church than on seeking the spirit of God within. He also maintained that sin and repentance were interdependent and necessary to salvation. Thus, he claimed that yielding to temptation (and, for him personally, this meant sex and alcohol), even for the purposes of humiliation (so as to dispel the sin of vanity), was needed to proceed to repentance and salvation. Rasputin was deeply opposed to war, both from a moral point of view and as something which was likely to lead to political catastrophe. During the years of World War I, Rasputin's increasing drunkenness, sexual promiscuity and willingness to accept bribes (in return for helping petitioners who flocked to his apartment), as well as his efforts to have his critics dismissed from their posts, made him appear increasingly cynical. Attaining divine grace through sin seems to have been one of the central secret doctrines which Rasputin preached to (and practiced with) his inner circle of society ladies.
 
 During World War I, Rasputin became the focus of accusations of unpatriotic influence at court. The unpopular Tsarina, meanwhile, who was of Anglo-German descent, was accused of acting as a spy in German employ. When Rasputin expressed an interest in going to the front to bless the troops early in the war, the Commander-in-Chief, Grand Duke Nicholas, promised to hang him if he dared to show up there. Rasputin then claimed that he had a revelation that the Russian armies would not be successful until the Tsar personally took command. With this, the ill-prepared Tsar Nicholas proceeded to take personal command of the Russian army, with dire consequences for himself as well as for Russia. While Tsar Nicholas II was away at war, Rasputin's influence over Tsarina Alexandra increased. He soon became her confidant and personal adviser, and he convinced her to fill some governmental offices with his own handpicked candidates. To advance his power further in the highest circles of Russian society, Rasputin cohabited with upper-class women in exchange for granting political favors.
-
-Rasputin_listovka.jpg
 
 World War I, the ossifying effects of feudalism, and a meddling government bureaucracy all contributed to Russia's declining economy at a very rapid rate. Many at the time laid the blame with Alexandra and with Rasputin, because of his influence over her. Here is an example:
 
@@ -97,7 +89,7 @@ According to his daughter Maria, Rasputin was very much changed by the experienc
 
 Death
 
-Prince_Felix_Yusupov.jpg (1914) married Irina Aleksandrovna Romanova, the Tsar's niece.]] BasementYusupovpalace.jpg
+(1914) married Irina Aleksandrovna Romanova, the Tsar's niece.]]
 
 Having decided that Rasputin's influence over the Tsarina had made him a threat to the empire, a group of nobles led by Prince Felix Yusupov, the Grand Duke Dmitri Pavlovich, and the right-wing politician Vladimir Purishkevich concocted a plan to kill Rasputin in December 1916, apparently by luring Rasputin to the Yusupovs' Moika Palace.
 
@@ -107,7 +99,7 @@ According to Yusupov, he invited Rasputin to his home shortly after midnight and
 
 News of Rasputin's murder spread quickly, even before his body was found. According to Douglas Smith, Purishkevich spoke openly about Rasputin's murder to two soldiers, and to a policeman who was investigating reports of shots shortly after the event, but urged them not to tell anyone else. An investigation was launched the next morning, as rumors that Rasputin had been killed were already circulating. One newspaper, the _Stock Exchange Gazette,_ even ran a report of Rasputin's death "after a party in one of the most aristocratic homes in the center of the city" on the afternoon of .
 
-PolshoiPetrovskyMost.jpg, from which Rasputin's body was thrown into the Malaya Nevka River]] Dead_Rasputin.jpg
+, from which Rasputin's body was thrown into the Malaya Nevka River]]
 
 When two workmen noticed blood on the railing of the Petrovsky Bridge and a boot was found on the ice below, river police began searching the area for Rasputin's body. His body was found under the river ice on 1 January [O.S. 19 December], approximately 200 meters downstream from the bridge. An autopsy was conducted by Dr. Dmitry Kosorotov, the city's senior autopsy surgeon. The report that Kosorotov wrote was later lost, but he later stated that Rasputin's body had shown signs of severe trauma, including three gunshot wounds – one of which had been sustained at close range, and to the forehead – a slice wound to his left side, and many other injuries, many of which Kosorotov felt had been sustained post-mortem. Kosorotov found a single bullet in Rasputin's body, but stated that it was too badly deformed and of a type too widely used to trace. He found no evidence that Rasputin had been poisoned. According to both Douglas Smith and Joseph Fuhrmann, Kosorotov found no water in Rasputin's lungs, and reports that Rasputin had been thrown into the water alive were incorrect. Contrary to some later accounts that claimed that Rasputin's penis had been severed, Kosorotov found his genitals intact.
 

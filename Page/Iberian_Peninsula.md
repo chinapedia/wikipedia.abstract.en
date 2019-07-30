@@ -3,8 +3,6 @@ The IBERIAN PENINSULA ,, simply known as IBERIA, is located in the southwest cor
 
 Name
 
-Iberia_Europe_satfoto_2014067.jpg
-
 Greek name
 
 The word _Iberia_ is a noun adapted from the Latin word "Hiberia" originated by the Ancient Greek word Ἰβηρία (__) by Greek geographers under the rule of the Roman Empire to refer to what is known today in English as the Iberian Peninsula.[2] At that time, the name did not describe a single political entity or a distinct population of people.[3] Strabo's 'Iberia' was delineated from Keltikē (Gaul) by the Pyrenees[4] and included the entire land mass southwest (he says "west") of there.[5] With the fall of the Roman Empire and the establishment of the new Castillian language in Spain, the word "Iberia" appeared for the first time in use as a direct 'descendant' of the Greek word "Ἰβηρία" and the Roman word "Hiberia".
@@ -24,7 +22,7 @@ Whatever language may generally have been spoken on the peninsula soon gave way 
 
 Etymology
 
-Sesars.svg.]]
+.]]
 
 The Iberian Peninsula has always been associated with the Ebro, Ibēros in ancient Greek and Ibērus or Hibērus in Latin. The association was so well known it was hardly necessary to state; for example, Ibēria was the country "this side of the Ibērus" in Strabo. Pliny goes so far as to assert that the Greeks had called "the whole of Spain" Hiberia because of the Hiberus River.[20] The river appears in the Ebro Treaty of 226 BC between Rome and Carthage, setting the limit of Carthaginian interest at the Ebro. The fullest description of the treaty, stated in Appian,[21] uses Ibērus. With reference to this border, Polybius[22] states that the "native name" is _Ibēr_, apparently the original word, stripped of its Greek or Latin _-os_ or _-us_ termination.
 
@@ -32,8 +30,6 @@ The early range of these natives, which geographers and historians place from to
 
 
 Prehistory
-
-Arte_esquemático-Cigüeña.png Iberia_Late_Bronze.svg
 
 Palaeolithic
 
@@ -62,7 +58,7 @@ Early in the first millennium BC, several waves of Pre-Celts and Celts migrated 
 
 Proto-history
 
-Celts_in_Europe.png expansion in Europe, 6th–3rd century BC]] By the Iron Age, starting in the 7th century BC, the Iberian Peninsula consisted of complex agrarian and urban civilizations, either Pre-Celtic or Celtic (such as the Lusitanians, Celtiberians, Gallaeci, Astures, Celtici and others), the cultures of the Iberians in the eastern and southern zones and the cultures of the Aquitanian in the western portion of the Pyrenees.
+expansion in Europe, 6th–3rd century BC]] By the Iron Age, starting in the 7th century BC, the Iberian Peninsula consisted of complex agrarian and urban civilizations, either Pre-Celtic or Celtic (such as the Lusitanians, Celtiberians, Gallaeci, Astures, Celtici and others), the cultures of the Iberians in the eastern and southern zones and the cultures of the Aquitanian in the western portion of the Pyrenees.
 
 The seafaring Phoenicians, Greeks and Carthaginians successively settled along the Mediterranean coast and founded trading colonies there over a period of several centuries. Around 1100 BC, Phoenician merchants founded the trading colony of Gadir or Gades (modern day Cádiz) near Tartessos. In the 8th century BC, the first Greek colonies, such as Emporion (modern Empúries), were founded along the Mediterranean coast on the east, leaving the south coast to the Phoenicians. The Greeks coined the name Iberia, after the river Iber (Ebro). In the sixth century BC, the Carthaginians arrived in the peninsula while struggling with the Greeks for control of the Western Mediterranean. Their most important colony was Carthago Nova (modern-day Cartagena, Spain).
 
@@ -71,7 +67,7 @@ History
 
 Roman rule
 
-Conquista_Hispania.svg: 220 BC - 19 BC]]
+: 220 BC - 19 BC]]
 
 In 218 BC, during the Second Punic War against the Carthaginians, the first Roman troops occupied the Iberian Peninsula; however, it was not until the reign of Augustus that it was annexed after 200 years of war with the Celts and Iberians. The result was the creation of the province of Hispania. It was divided into Hispania Ulterior and Hispania Citerior during the late Roman Republic, and during the Roman Empire, it was divided into Hispania Tarraconensis in the northeast, Hispania Baetica in the south and Lusitania in the southwest.
 
@@ -81,13 +77,11 @@ During their 600-year occupation of the Iberian Peninsula, the Romans introduced
 
 Germanic kingdoms
 
-Hispania_560_AD.PNG
-
 In the early fifth century, Germanic peoples occupied the peninsula, namely the Suebi, the Vandals (Silingi and Hasdingi) and their allies, the Alans. Only the kingdom of the Suebi (Quadi and Marcomanni) would endure after the arrival of another wave of Germanic invaders, the Visigoths, who occupied all of the Iberian Peninsula and expelled or partially integrated the Vandals and the Alans. The Visigoths eventually occupied the Suebi kingdom and its capital city, Bracara (modern day Braga), in 584–585. They would also occupy the province of the Byzantine Empire (552–624) of Spania in the south of the peninsula and the Balearic Islands.
 
 Islamic Caliphate
 
-Al_Andalus_&_Christian_Kingdoms.png  1000]]
+ 1000]]
 
 In 711, a Muslim army invaded the Visigothic Kingdom in Hispania. Under Tariq ibn Ziyad, the Islamic army landed at Gibraltar and, in an eight-year campaign, occupied all except the northern kingdoms of the Iberian Peninsula in the Umayyad conquest of Hispania. Al-Andalus (, tr. _al-ʾAndalūs_, possibly "Land of the Vandals"),[32][33] is the Arabic name given to what is today southern Spain by its Muslim Berber and Arab occupiers.
 
@@ -97,7 +91,7 @@ Reconquest
 
 Many of the ousted Gothic nobles took refuge in the unconquered north Kingdom of Asturias. From there, they aimed to reconquer "their" lands from the Moors; this war of reconquest is known as the Reconquista. Christian and Muslim kingdoms fought and allied among themselves. The fighting was characterised by raids into Islamic territory with the intent of destroying crops, orchards, and villages, and of killing and enslaving any Muslims they came across. Christian forces were usually better armoured than their Muslim counterparts, with noble and non-noble _milites_ and _cavallers_ wearing mail hauberks, separate mail coifs and metal helmets, and armed with maces, cavalry axes, sword and lances.[37]
 
-Enrique_of_Transtamare_kills_his_half-brother_Pedro_I,_king_of_Leon_and_Castile.jpg kills his predecessor as King of Castile and León, Peter the Cruel]]
+kills his predecessor as King of Castile and León, Peter the Cruel]]
 
 During the Middle Ages, the peninsula housed many small states including the Kingdom of Castile, Kingdom of Aragon, Kingdom of Navarre, Kingdom of León and the Kingdom of Portugal. The Muslims were driven out of Portugal by 1249. By the end of the 13th century, the Spanish Reconquista was largely completed.
 
@@ -105,11 +99,9 @@ The 14th century was a period of great internal changes in the Spanish kingdoms.
 
 During this period the Jews in Spain became very numerous and acquired great power;[39] they were not only the physicians, but also the treasurers of the kings. Don Jusaph de Ecija administered the revenues of Alfonso XI, and Samuel ha-Levi was chief favourite of Peter the Cruel. The Jews of Toledo then set on foot their migration in protest against the laws of Alfonso X (_Las Siete Partidas_), which prohibited the building of new synagogues.
 
-After the accession of Henry of Trastámara to the throne, the populace, exasperated by the preponderance of Jewish influence, perpetrated a massacre of Jews at Toledo. In 1391, mobs went from town to town throughout Castile and Aragon, killing an estimated 50,000–100,000 Jews.[40][41][42][43][44][45][46] Women and children were sold as slaves to Muslims, and many synagogues were converted into churches. According to Hasdai Crescas, about 70 Jewish communities were destroyed.[47] Iberian_Kingdoms_in_1400.svg The last Muslim stronghold, Granada, was conquered by a combined Castilian and Aragonese force in 1492. As many as 100,000 Moors died or were enslaved in the military campaign, while 200,000 fled to North Africa.[48] Muslims and Jews throughout the period were variously tolerated or shown intolerance in different Christian kingdoms. After the fall of Granada, all Muslims and Jews were ordered to convert to Christianity or face expulsion—as many as 200,000 Jews were expelled from Spain.[49][50][51][52] Historian Henry Kamen estimates that some 25,000 Jews died en route from Spain.[53] The Jews were also expelled from Sicily and Sardinia, which were under Aragonese rule, and an estimated 37,000 to 100,000 Jews left.[54]
+After the accession of Henry of Trastámara to the throne, the populace, exasperated by the preponderance of Jewish influence, perpetrated a massacre of Jews at Toledo. In 1391, mobs went from town to town throughout Castile and Aragon, killing an estimated 50,000–100,000 Jews.[40][41][42][43][44][45][46] Women and children were sold as slaves to Muslims, and many synagogues were converted into churches. According to Hasdai Crescas, about 70 Jewish communities were destroyed.[47] The last Muslim stronghold, Granada, was conquered by a combined Castilian and Aragonese force in 1492. As many as 100,000 Moors died or were enslaved in the military campaign, while 200,000 fled to North Africa.[48] Muslims and Jews throughout the period were variously tolerated or shown intolerance in different Christian kingdoms. After the fall of Granada, all Muslims and Jews were ordered to convert to Christianity or face expulsion—as many as 200,000 Jews were expelled from Spain.[49][50][51][52] Historian Henry Kamen estimates that some 25,000 Jews died en route from Spain.[53] The Jews were also expelled from Sicily and Sardinia, which were under Aragonese rule, and an estimated 37,000 to 100,000 Jews left.[54]
 
 In 1497, King Manuel I of Portugal forced all Jews in his kingdom to convert or leave. That same year he expelled all Muslims that were not slaves,[55] and in 1502 the Catholic Monarchs followed suit, imposing the choice of conversion to Christianity or exile and loss of property. Many Jews and Muslims fled to North Africa and the Ottoman Empire, while others publicly converted to Christianity and became known respectively as Marranos (Spanish for pig) and Moriscos (after the old term _Moors_).[56] However, many of these continued to practice their religion in secret. The Moriscos revolted several times and were ultimately forcibly expelled from Spain in the early 17th century. From 1609–14, over 300,000 Moriscos were sent on ships to North Africa and other locations, and, of this figure, around 50,000 died resisting the expulsion, and 60,000 died on the journey.[57][58][59]
-
-Carte_historique_des_Royaumes_d'Espagne_et_Portugal.jpg
 
 Post-reconquest
 
@@ -132,7 +124,7 @@ The submarine topography of the coastal waters of the Iberian Peninsula has been
 
 Rivers
 
-Rios_peninsula_Iberica-es.png, Duero / Douro, Tajo / Tejo, Guadiana, Guadalquivir, Segura, Júcar / Xúquer and Ebro / Ebre.]]
+, Duero / Douro, Tajo / Tejo, Guadiana, Guadalquivir, Segura, Júcar / Xúquer and Ebro / Ebre.]]
 
 The major rivers flow through the wide valleys between the mountain systems. These are the Ebro, Douro, Tagus, Guadiana and Guadalquivir.[66][67] All rivers in the Iberian Peninsula are subject to seasonal variations in flow.
 
@@ -156,7 +148,7 @@ The terrain of the Iberian Peninsula is largely mountainous.[68] The major mount
 
 Geology
 
-Geological_units_of_the_Iberian_Peninsula_EN.svg The Iberian Peninsula contains rocks of every geological period from the Ediacaran to the Recent, and almost every kind of rock is represented. World-class mineral deposits can also be found there. The core of the Iberian Peninsula consists of a Hercynian cratonic block known as the Iberian Massif. On the northeast, this is bounded by the Pyrenean fold belt, and on the southeast it is bounded by the Baetic System. These twofold chains are part of the Alpine belt. To the west, the peninsula is delimited by the continental boundary formed by the magma-poor opening of the Atlantic Ocean. The Hercynian Foldbelt is mostly buried by Mesozoic and Tertiary cover rocks to the east, but nevertheless outcrops through the Sistema Ibérico and the Catalan Mediterranean System.
+The Iberian Peninsula contains rocks of every geological period from the Ediacaran to the Recent, and almost every kind of rock is represented. World-class mineral deposits can also be found there. The core of the Iberian Peninsula consists of a Hercynian cratonic block known as the Iberian Massif. On the northeast, this is bounded by the Pyrenean fold belt, and on the southeast it is bounded by the Baetic System. These twofold chains are part of the Alpine belt. To the west, the peninsula is delimited by the continental boundary formed by the magma-poor opening of the Atlantic Ocean. The Hercynian Foldbelt is mostly buried by Mesozoic and Tertiary cover rocks to the east, but nevertheless outcrops through the Sistema Ibérico and the Catalan Mediterranean System.
 
 Climate
 
@@ -183,7 +175,7 @@ The Iberian peninsula has two dominant climate types. One of these is the oceani
 
 Major modern countries
 
-Political divisions of the Iberian Peninsula sorted by area: Iberian_Peninsula_at_Night_-_NASA_Earth_Observatory.jpg
+Political divisions of the Iberian Peninsula sorted by area:
 
 +-----------+-------------------------+-----+-------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+
 | Country/  | Mainland population[77] | km² | sq mi | %                                                                                                                                                                                                                                                                                                                                                                                                                                        | Share |

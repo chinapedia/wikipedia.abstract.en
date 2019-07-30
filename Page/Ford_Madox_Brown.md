@@ -3,7 +3,7 @@ FORD MADOX BROWN (16 April 1821 – 6 October 1893) was a French-born British p
 
 Early life
 
-Rossetti-10.jpg. Caricature by Max Beerbohm from _Rossetti and His Circle_.]] Brown was the grandson of the medical theorist John Brown, founder of the Brunonian system of medicine. His great grandfather was a Scottish labourer. His father Ford Brown served as a purser in the Royal Navy, including a period serving under Sir Isaac Coffin and a period on HMS _Arethusa_. He left the Navy after the end of the Napoleonic Wars.
+. Caricature by Max Beerbohm from _Rossetti and His Circle_.]] Brown was the grandson of the medical theorist John Brown, founder of the Brunonian system of medicine. His great grandfather was a Scottish labourer. His father Ford Brown served as a purser in the Royal Navy, including a period serving under Sir Isaac Coffin and a period on HMS _Arethusa_. He left the Navy after the end of the Napoleonic Wars.
 
 In 1818, Ford Brown married Caroline Madox, of an old Kentish family, from which his middle name was taken.[1] Brown's parents had limited financial resources, and they moved to Calais to seek cheaper lodgings, where their daughter Elizabeth Coffin was born in 1819 and their son Ford Madox Brown in 1821.
 
@@ -12,7 +12,7 @@ Brown's education was limited, as the family frequently moved between lodgings i
 
 Works
 
-Brown_last_of_england.jpg'' depicting an emigrating couple, 1855]] The Tate Gallery holds an early example of Brown's work, a portrait of his father.[2] He first exhibited at the Royal Academy in 1840, a work inspired by Lord Byron's poem _The Giaour_ (now lost) and then completed a version of _The Execution of Mary, Queen of Scots_, with his cousin and future wife Elisabeth Bromley as one of his models. He lived in Montmartre with his new wife and aging father in 1841. He painted _Manfred on the Jungfrau_, inspired by Lord Byron's poem _Manfred_ while he was in Paris.
+'' depicting an emigrating couple, 1855]] The Tate Gallery holds an early example of Brown's work, a portrait of his father.[2] He first exhibited at the Royal Academy in 1840, a work inspired by Lord Byron's poem _The Giaour_ (now lost) and then completed a version of _The Execution of Mary, Queen of Scots_, with his cousin and future wife Elisabeth Bromley as one of his models. He lived in Montmartre with his new wife and aging father in 1841. He painted _Manfred on the Jungfrau_, inspired by Lord Byron's poem _Manfred_ while he was in Paris.
 
 In 1843 he submitted work to the Westminster Cartoon Competition, for compositions to decorate the new Palace of Westminster. His entry, _The Body of Harold Brought before William_, was not successful. His early works were, however, greatly admired by the young Dante Gabriel Rossetti, who asked him to become his tutor. Through Rossetti, Brown came into contact with the artists who went on to form the Pre-Raphaelite Brotherhood. Though closely linked to them, he was never actually a member of the brotherhood itself, but adopted the bright colours and realistic style of William Holman Hunt and John Everett Millais. He was also influenced by the works of Holbein that he saw in Basel in 1845, and by Friedrich Overbeck and Peter Cornelius, whom he met in Rome in 1845-46.
 
@@ -20,7 +20,7 @@ Brown struggled to make his mark in the 1850s, with his paintings failing to fin
 
 One of his most famous images is _The Last of England_, painted from 1852 to 1855, which was sold in March 1859 for 325 Guineas[3] (_2010: £_). It depicts a pair of stricken emigrants as they sail away on the ship that will take them from England forever. It was inspired by the departure of the Pre-Raphaelite sculptor Thomas Woolner, who had left for Australia. In an unusual tondo format, the painting is structured with Brown's characteristic linear energy, and emphasis on apparently grotesque and banal details, such as the cabbages hanging from the ship's side. The husband and wife are portraits of Brown and his second wife Emma.
 
-Ford_Madox_Brown_-_The_Coat_of_Many_Colours_-_Google_Art_Project.jpg, Ponce, Puerto Rico]] Brown's most important painting was _Work_ (1852–1865), begun in Hampstead in 1852 and which he showed at his retrospective exhibition in 1865. Thomas Plint advanced funds to enable Brown to complete the work, in anticipation of obtaining the finished painting, but died in 1861 before the painting had been completed.[4] In this painting, Brown attempted to depict the totality of the mid-Victorian social experience in a single image, depicting 'navvies' digging up a road (Heath Street in Hampstead, north London) and disrupting the old social hierarchies as they did so. The image erupts into proliferating details from the dynamic centre of the action, as the workers tear a hole in the road – and, symbolically, in the social fabric. Each character represents a particular social class and role in the modern urban environment.
+, Ponce, Puerto Rico]] Brown's most important painting was _Work_ (1852–1865), begun in Hampstead in 1852 and which he showed at his retrospective exhibition in 1865. Thomas Plint advanced funds to enable Brown to complete the work, in anticipation of obtaining the finished painting, but died in 1861 before the painting had been completed.[4] In this painting, Brown attempted to depict the totality of the mid-Victorian social experience in a single image, depicting 'navvies' digging up a road (Heath Street in Hampstead, north London) and disrupting the old social hierarchies as they did so. The image erupts into proliferating details from the dynamic centre of the action, as the workers tear a hole in the road – and, symbolically, in the social fabric. Each character represents a particular social class and role in the modern urban environment.
 
 Brown wrote a catalogue to accompany the special exhibition of _Work_. This publication included an extensive explanation of _Work_ that nevertheless leaves many questions unanswered. Brown's concern with the social issues addressed in _Work_ prompted him to open a soup kitchen for Manchester's hungry, and to attempt to aid the city's unemployed to find work by founding a labour exchange.[5][6]
 
@@ -33,15 +33,13 @@ Brown's major achievement after _Work_ was _The Manchester Murals_, a cycle of t
 
 Family
 
-The_Bromley_Family.jpg
-
 Ford Madox Brown was married twice. His first wife Elizabeth Bromley was his first cousin, the daughter of his mother's sister Mary. They were married in Meopham in Kent in April 1841, shortly before his 20th birthday and less than a year after the sudden death of his sister Elizabeth. They lived in Montmartre in 1841 with Brown's invalid father who died the following summer.
 
 Their first child died young as an infant in November 1842. Their daughter Emma Lucy was born in 1843 and the family moved back to England in 1844. They travelled to Rome in 1845 to alleviate the illness of his wife, who was suffering from consumption (pulmonary tuberculosis). She died in Paris in June 1846, aged 27, on the journey back to England from Rome.
 
 Emma Hill became a frequent model for Brown from 1848; for example, she is the wife in _The Last of England_. She became his mistress, and they shared a house in London, but social convention made him unable to marry an illiterate daughter of a bricklayer. Their daughter Catherine Emily was born in 1850, and eventually they were married at St Dunstan-in-the-West in April 1853.
 
-Their son, OLIVER MADOX BROWN (1855–1874) (known as Nolly) showed promise both as an artist and poet, but died of blood poisoning before his maturity. The death of Nolly was a crushing blow for Brown, and he kept a room for his son's belongings as a shrine. Another son Arthur was born in September 1856. Brown used Arthur as the model for the baby held by a ragged girl in the foreground of _Work_, but he died aged only ten months old in July 1857. Ford_Madox_Brown_-_Pretty_Baa-Lambs_-_Google_Art_Project.jpg His daughters Lucy and Catherine were also competent artists. Lucy married William Michael Rossetti in 1874. Catherine, married Francis Hueffer; through Catherine, Brown was the grandfather of novelist Ford Madox Ford and great-grandfather of Labour Home Secretary Frank Soskice.
+Their son, OLIVER MADOX BROWN (1855–1874) (known as Nolly) showed promise both as an artist and poet, but died of blood poisoning before his maturity. The death of Nolly was a crushing blow for Brown, and he kept a room for his son's belongings as a shrine. Another son Arthur was born in September 1856. Brown used Arthur as the model for the baby held by a ragged girl in the foreground of _Work_, but he died aged only ten months old in July 1857. His daughters Lucy and Catherine were also competent artists. Lucy married William Michael Rossetti in 1874. Catherine, married Francis Hueffer; through Catherine, Brown was the grandfather of novelist Ford Madox Ford and great-grandfather of Labour Home Secretary Frank Soskice.
 
 
 Death
@@ -66,8 +64,6 @@ File:King Rene-s Honeymoon 1864.jpg|_King Rene's Honeymoon_, 1864, an imaginary 
 
 
 See also
-
-Ford_Madox_Brown_-_Work_-_artchive.com.jpg
 
 -   British art
 -   English art

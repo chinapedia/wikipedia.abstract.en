@@ -1,4 +1,4 @@
-Crookes_radiometer.jpg The CROOKES RADIOMETER (also known as a LIGHT MILL) consists of an airtight glass bulb containing a partial vacuum, with a set of vanes which are mounted on a spindle inside. The vanes rotate when exposed to light, with faster rotation for more intense light, providing a quantitative measurement of electromagnetic radiation intensity.
+The CROOKES RADIOMETER (also known as a LIGHT MILL) consists of an airtight glass bulb containing a partial vacuum, with a set of vanes which are mounted on a spindle inside. The vanes rotate when exposed to light, with faster rotation for more intense light, providing a quantitative measurement of electromagnetic radiation intensity.
 
 The reason for the rotation was a cause of much scientific debate in the ten years following the invention of the device,[1][2] but in 1879 the currently accepted explanation for the rotation was published.[3][4] Today the device is mainly used in physics education as a demonstration of a heat engine run by light energy.
 
@@ -9,7 +9,7 @@ It is still manufactured and sold as an educational aid or curiosity.
 
 General description
 
-Radiometer_9965_Nevit.gif The radiometer is made from a glass bulb from which much of the air has been removed to form a partial vacuum. Inside the bulb, on a low friction spindle, is a rotor with several (usually four) vertical lightweight vanes spaced equally around the axis. The vanes are polished or white on one side and black on the other.
+The radiometer is made from a glass bulb from which much of the air has been removed to form a partial vacuum. Inside the bulb, on a low friction spindle, is a rotor with several (usually four) vertical lightweight vanes spaced equally around the axis. The vanes are polished or white on one side and black on the other.
 
 When exposed to sunlight, artificial light, or infrared radiation (even the heat of a hand nearby can be enough), the vanes turn with no apparent motive power, the dark sides retreating from the radiation source and the light sides advancing.
 
@@ -27,8 +27,6 @@ Radiometers are now commonly sold worldwide as a novelty ornament; needing no ba
 
 
 Thermodynamic explanation
-
-24._Круксов_радиометар.ogv
 
 Movement with black-body absorption
 

@@ -27,7 +27,7 @@ Part II
 
     _Containing an Account of the Misfortunes and Disasters Which Befell Barry Lyndon_
 
-Marisa_Berenson_and_Ryan_O'Neal_in_Barry_Lyndon.jpg In 1773, Barry takes the Countess's name in marriage and settles at Castle Hackton, her estate in England. Lady Lyndon's son, Lord Bullingdon, despises Barry, who retaliates with beatings. Barry and the Countess have a son, Bryan Patrick, but Barry is openly unfaithful and lavishly spends his wife's money.
+In 1773, Barry takes the Countess's name in marriage and settles at Castle Hackton, her estate in England. Lady Lyndon's son, Lord Bullingdon, despises Barry, who retaliates with beatings. Barry and the Countess have a son, Bryan Patrick, but Barry is openly unfaithful and lavishly spends his wife's money.
 
 Barry's mother comes to live at the Lyndon estate. She warns him that Lord Bullingdon would be sole heir to his mother’s wealth and advises Barry to obtain a noble title. He spends more money ingratiating himself to high society. Lord Bullingdon crashes his mother’s birthday party and confronts Barry, who viciously assaults his stepson after he declared that he would leave the estate while Barry remained there married to his mother and Barry is cast out of polite society as a result.
 
@@ -43,8 +43,6 @@ Epilogue
 
 
 Cast
-
-Suits.BarryLyndon.jpgBarrylyndon.suits2.jpg
 
 -   Michael Hordern (_voice_) as Narrator
 -   Ryan O'Neal as Redmond Barry (later Redmond Barry Lyndon)
@@ -112,7 +110,7 @@ One day a phone call was received and Kubrick was given 24 hours to leave the co
 
 Cinematography
 
-Barry12.jpg were used for _Barry Lyndon_ to allow filming using only natural light.]] Marriage_A-la-Mode_2,_The_Tête_à_Tête_-_William_Hogarth.jpg'', _Shortly After the Marriage_ (scene two of six).]] William_Hogarth_035.jpg The film—as with "almost every Kubrick film"—is a "showcase for [a] major innovation in technique."[21] While _2001: A Space Odyssey_ had featured "revolutionary effects," and _The Shining_ would later feature heavy use of the Steadicam, _Barry Lyndon_ saw a considerable number of sequences shot "without recourse to electric light."[22] Cinematography was overseen by director of photography John Alcott (who won an Oscar for his work), and is particularly noted for the technical innovations that made some of its most spectacular images possible. To achieve photography without electric lighting "[f]or the many densely furnished interior scenes ... meant shooting by candlelight," which is known to be difficult in still photography, "let alone with moving images."[23]
+were used for _Barry Lyndon_ to allow filming using only natural light.]] '', _Shortly After the Marriage_ (scene two of six).]] The film—as with "almost every Kubrick film"—is a "showcase for [a] major innovation in technique."[21] While _2001: A Space Odyssey_ had featured "revolutionary effects," and _The Shining_ would later feature heavy use of the Steadicam, _Barry Lyndon_ saw a considerable number of sequences shot "without recourse to electric light."[22] Cinematography was overseen by director of photography John Alcott (who won an Oscar for his work), and is particularly noted for the technical innovations that made some of its most spectacular images possible. To achieve photography without electric lighting "[f]or the many densely furnished interior scenes ... meant shooting by candlelight," which is known to be difficult in still photography, "let alone with moving images."[23]
 
 Kubrick was "determined not to reproduce the set-bound, artificially lit look of other costume dramas from that time."[24] After "tinker[ing] with different combinations of lenses and film stock," the production obtained three super-fast 50mm lenses (Carl Zeiss Planar 50mm f/0.7) developed by Zeiss for use by NASA in the Apollo moon landings, which Kubrick had discovered.[25][26] These super-fast lenses "with their huge aperture (the film actually features the lowest f-stop in film history) and fixed focal length" were problematic to mount, and were extensively modified into three versions by Cinema Products Corp. for Kubrick so to gain a wider angle of view, with input from optics expert Richard Vetter of Todd-AO.[27][28] The rear element of the lens had to be 2.5 mm away from the film plane, requiring special modification to the rotating camera shutter.[29] This allowed Kubrick and Alcott to shoot scenes lit in candlelight to an average lighting volume of only three candela, "recreating the huddle and glow of a pre-electrical age."[30] In addition, Kubrick had the entire film push-developed by one stop.[31]
 

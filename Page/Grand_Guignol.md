@@ -1,4 +1,4 @@
-Grand_Guignol_poster_(crop).png _LE THÉÂTRE DU GRAND-GUIGNOL_ (: "The Theatre of the Great Puppet") – known as the GRAND GUIGNOL – was a theatre in the Pigalle district of Paris (at 20 bis, ). From its opening in 1897 until its closing in 1962, it specialised in naturalistic horror shows. Its name is often used as a general term for graphic, amoral horror entertainment, a genre popular from Elizabethan and Jacobean theatre (for instance Shakespeare's _Titus Andronicus_, and Webster's _The Duchess of Malfi_ and _The White Devil_), to today's splatter films.
+_LE THÉÂTRE DU GRAND-GUIGNOL_ (: "The Theatre of the Great Puppet") – known as the GRAND GUIGNOL – was a theatre in the Pigalle district of Paris (at 20 bis, ). From its opening in 1897 until its closing in 1962, it specialised in naturalistic horror shows. Its name is often used as a general term for graphic, amoral horror entertainment, a genre popular from Elizabethan and Jacobean theatre (for instance Shakespeare's _Titus Andronicus_, and Webster's _The Duchess of Malfi_ and _The White Devil_), to today's splatter films.
 
 
 Theatre
@@ -14,7 +14,7 @@ The theatre's peak was between World War I and World War II, when it was frequen
 
 Important people
 
-Metenier,_Oscar.jpg Oscar Méténier was the Grand Guignol's founder and original director. Under his direction, the theatre produced plays about a class of people who were not considered appropriate subjects in other venues: prostitutes, criminals, street urchins and others at the lower end of Paris's social echelon.
+Oscar Méténier was the Grand Guignol's founder and original director. Under his direction, the theatre produced plays about a class of people who were not considered appropriate subjects in other venues: prostitutes, criminals, street urchins and others at the lower end of Paris's social echelon.
 
 André Antoine was the founder of the Théâtre Libre and a collaborator of Metenier. His theatre gave Metenier a basic model to use for The Grand Guignol Theatre.
 
@@ -33,7 +33,7 @@ Charles Nonon was the theatre's last director.[8]
 
 Plays
 
-Grand-Guignol-Scène-1937_(2).jpg At the Grand Guignol, patrons would see five or six plays, all in a style that attempted to be brutally true to the theatre's naturalistic ideals. The plays were in a variety of styles. The plays were usually short and would alternate between comedy and horror and they referred to this as "Hot and Cold Showers". But, the most popular and best known were the horror plays, featuring a distinctly bleak worldview as well as notably gory special effects in their notoriously bloody climaxes. The horrors depicted at Grand Guignol were generally not supernatural; these plays often explored the altered states, like insanity, hypnosis, or panic, under which uncontrolled horror could happen. To heighten the effect, the horror plays were often alternated with comedies.[9][10]
+At the Grand Guignol, patrons would see five or six plays, all in a style that attempted to be brutally true to the theatre's naturalistic ideals. The plays were in a variety of styles. The plays were usually short and would alternate between comedy and horror and they referred to this as "Hot and Cold Showers". But, the most popular and best known were the horror plays, featuring a distinctly bleak worldview as well as notably gory special effects in their notoriously bloody climaxes. The horrors depicted at Grand Guignol were generally not supernatural; these plays often explored the altered states, like insanity, hypnosis, or panic, under which uncontrolled horror could happen. To heighten the effect, the horror plays were often alternated with comedies.[9][10]
 
 _Le Laboratoire des Hallucinations_, by André de Lorde: When a doctor finds his wife's lover in his operating room, he performs a graphic brain surgery, rendering the adulterer a hallucinating semi-zombie. Now insane, the lover/patient hammers a chisel into the doctor's brain.[11]
 

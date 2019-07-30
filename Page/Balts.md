@@ -1,4 +1,4 @@
-East_europe_3-4cc.png East_europe_5-6cc.png (5th-6th c. AD), new cultures appear with new trade networks.]] Slav-7-8-obrez.png can be culturally identified amidst the new Balto-Rus sphere of trade that swept over Eastern Europe.]]
+(5th-6th c. AD), new cultures appear with new trade networks.]] can be culturally identified amidst the new Balto-Rus sphere of trade that swept over Eastern Europe.]]
 
 The BALTS or BALTIC PEOPLE (, ) are an Indo-European ethno-linguistic group who speak the Baltic languages, a branch of the Indo-European language family, originally spoken by tribes of central Eastern Europe in the west to the Moscow, Oka and Volga river basins in the east. The Baltic languages form a part of the wider group of Balto-Slavic languages.
 
@@ -47,7 +47,7 @@ Old Prussian contained a few borrowings specifically from Gothic (e.g., Old Prus
 
 Baltic peoples
 
-Baltic_Tribes_c_1200.svg (ca. 1200 AD). The Eastern Balts are shown in brown hues while the Western Balts are shown in green. The boundaries are approximate. Baltic territory was extensive inland.]] MODERN BALTIC PEOPLES
+(ca. 1200 AD). The Eastern Balts are shown in brown hues while the Western Balts are shown in green. The boundaries are approximate. Baltic territory was extensive inland.]] MODERN BALTIC PEOPLES
 
 -   Eastern Baltic peoples
     -   Latvians

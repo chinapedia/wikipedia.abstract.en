@@ -9,7 +9,7 @@ AIX was the first operating system to have a journaling file system, and IBM has
 
 History
 
-IBM_RS6000_AIX_File_Servers_IBM.COM_1998.jpeg RS/6000 AIX file servers used for _ibm.com_ in the 1990s]] IBM_AIX_4_Login_Prompt.jpeg
+RS/6000 AIX file servers used for _ibm.com_ in the 1990s]]
 
 Unix started life at AT&T's Bell Labs research center in the early 1970s, running on DEC minicomputers. By 1976, the operating system was in use at various academic institutions, including Princeton, where Tom Lyon and others ported it to the S/370, to run as a guest OS under VM/370.[4] This port would later grow out to become UTS,[5] a mainframe Unix offering by IBM's competitor Amdahl Corporation.[6] IBM's own involvement in Unix can be dated to 1979, when it assisted Bell Labs in doing its own Unix port to the 370 (to be used as a build host for the 5ESS switch's software). In the process, IBM made modifications to the TSS/370 hypervisor to better support Unix.[7]
 
@@ -42,8 +42,6 @@ Much of the AIX v2 kernel was written in the PL/8 programming language, which pr
 
 IBM PS/2 series
 
-aixps2.gif
-
 AIX PS/2 (also known as AIX/386) was developed by Locus Computing Corporation under contract to IBM.[16] AIX PS/2, first released in October 1988,[17] ran on IBM PS/2 personal computers with Intel 386 and compatible processors.
 
 The product was announced in September 1988 with a baseline tag price of $595, although some utilities like uucp were included in a separate Extension package priced at $250. nroff and troff for AIX were also sold separately in a Text Formatting System package priced at $200. The TCP/IP stack for AIX PS/2 retailed for another $300. The X Window package was priced at $195, while the C and FORTRAN compilers each had a price tag of $275. Locus also made available their DOS Merge virtual machine environment for AIX, which could run MS DOS 3.3 applications inside AIX; DOS Merge was sold separately for another $250.[18] IBM also offered a $150 AIX PS/2 DOS Server Program, which provided file server and print server services for client computers running PC DOS 3.3.[19]
@@ -66,7 +64,7 @@ AIX was only compatible with the Network Servers and was not ported to standard 
 
 POWER ISA/PowerPC/Power ISA-based systems
 
-IBM_RS6000_AIX_Servers_IBM.COM_1998_(1).jpeg servers running _ibm.com_ in early 1998]] IBM_RS6000_AIX_Servers_IBM.COM_1998_(2).jpeg servers running _ibm.com_ in early 1998]]
+servers running _ibm.com_ in early 1998]] servers running _ibm.com_ in early 1998]]
 
 The release of AIX version 3 (sometimes called AIX/6000) coincided with the announcement of the first POWER1-based IBM RS/6000 models in 1990.
 
@@ -93,8 +91,6 @@ AIX 7.2 exploits POWER8 hardware features including accelerators and eight-way h
 
 
 Versions
-
-IBM_AIX_53.PNG
 
 Version history
 
@@ -251,7 +247,7 @@ IBM RT releases
 
 User interfaces
 
-CDE_2012_on_Linux.png, AIX's default graphical user interface ]]
+, AIX's default graphical user interface ]]
 
 The default shell was Bourne shell up to AIX version 3, but was changed to KornShell (ksh88) in version 4 in view of XPG4 and POSIX compliance.[40]
 
@@ -261,7 +257,7 @@ The Common Desktop Environment (CDE) is AIX's default graphical user interface. 
 
 System Management Interface Tool
 
-Screenshot_of_IBM_AIX_SMIT_Initial_Menu.png SMIT is the System Management Interface Tool for AIX. It allows a user to navigate a menu hierarchy of commands, rather than using the command line. Invocation is typically achieved with the command smit. Experienced system administrators make use of the F6 function key which generates the command line that SMIT will invoke to complete it. SMIT also generates a log of commands that are performed in the smit.script file. The smit.script file automatically records the commands with the command flags and parameters used. The smit.script file can be used as an executable shell script to rerun system configuration tasks. SMIT also creates the smit.log file, which contains additional detailed information that can be used by programmers in extending the SMIT system.
+SMIT is the System Management Interface Tool for AIX. It allows a user to navigate a menu hierarchy of commands, rather than using the command line. Invocation is typically achieved with the command smit. Experienced system administrators make use of the F6 function key which generates the command line that SMIT will invoke to complete it. SMIT also generates a log of commands that are performed in the smit.script file. The smit.script file automatically records the commands with the command flags and parameters used. The smit.script file can be used as an executable shell script to rerun system configuration tasks. SMIT also creates the smit.log file, which contains additional detailed information that can be used by programmers in extending the SMIT system.
 
 smit and smitty refer to the same program, though smitty invokes the text-based version, while smit will invoke an X Window System based interface if possible; however, if smit determines that X Window System capabilities are not present, it will present the text-based version instead of failing. Determination of X Window System capabilities is typically performed by checking for the existence of the DISPLAY variable.
 

@@ -1,4 +1,4 @@
-Hamburg-logo.svg Hamburg_by_Sentinel-2.jpg HAMBURG (; ; officially the FREE AND HANSEATIC CITY OF HAMBURG; ; Low German/Low Saxon: _Friee un Hansestadt Hamborg_)[1] is the second-largest city in Germany with a population of over 1.8 million, after the capital Berlin.
+HAMBURG (; ; officially the FREE AND HANSEATIC CITY OF HAMBURG; ; Low German/Low Saxon: _Friee un Hansestadt Hamborg_)[1] is the second-largest city in Germany with a population of over 1.8 million, after the capital Berlin.
 
 One of Germany's 16 federal states, it is surrounded by Schleswig-Holstein to the north and Lower Saxony to the south. The city's metropolitan region is home to more than five million people. Hamburg lies on the River Elbe and two of its tributaries, the River Alster and the River Bille.
 
@@ -28,7 +28,7 @@ The warmest months are June, July, and August, with high temperatures of . The c
 
 History
 
-Limes.saxoniae.wmt.png'' border between the Saxons and the Slavic Obotrites, established about 810.]] Hamburg_in_1150.jpg
+'' border between the Saxons and the Slavic Obotrites, established about 810.]]
 
 Origins
 
@@ -42,7 +42,7 @@ In 834, Hamburg was designated as the seat of a bishopric. The first bishop, Ans
 
 Hamburg was destroyed and occupied several times. In 845, 600 Viking ships sailed up the River Elbe and destroyed Hamburg, at that time a town of around 500 inhabitants.[15] In 1030, King Mieszko II Lambert of Poland burned down the city. Valdemar II of Denmark raided and occupied Hamburg in 1201 and in 1214. The Black Death killed at least 60% of the population in 1350.[16] Hamburg experienced several great fires in the medieval period.
 
-Seal_City_of_Hamburg_1241_replica.jpg Hamburg.Karte1320.rekonstruiert.Gaedechen.jpg Germany-Hamburg-1679-Half_Bankportugalöser-5_ducats_(cropped).jpgs)]] Hamburg_um_1600_Brook.jpg Jmdavid_hamburg.jpg
+s)]]
 
 In 1189, by imperial charter, Frederick I "Barbarossa" granted Hamburg the status of a Free Imperial City and tax-free access (or free-trade zone) up the Lower Elbe into the North Sea. In 1265, an allegedly forged letter was presented to or by the Rath of Hamburg.[17] This charter, along with Hamburg's proximity to the main trade routes of the North Sea and Baltic Sea, quickly made it a major port in Northern Europe. Its trade alliance with Lübeck in 1241 marks the origin and core of the powerful Hanseatic League of trading cities. On 8 November 1266, a contract between Henry III and Hamburg's traders allowed them to establish a _hanse_ in London. This was the first time in history that the word _hanse_ was used for the trading guild of the Hanseatic League.[18] In 1270, the solicitor of the senate of Hamburg, _Jordan von Boitzenburg_, wrote the first description of civil, criminal and procedural law for a city in Germany in the German language, the _Ordeelbook_ (_Ordeel_: sentence).[19] On 10 August 1410, civil unrest forced a compromise (German: _Rezeß_, literally meaning: withdrawal). This is considered the first constitution of Hamburg.[20]
 
@@ -62,7 +62,7 @@ A major outbreak of cholera in 1892 was badly handled by the city government, wh
 
 Second World War
 
-Royal_Air_Force_Bomber_Command,_1942-1945._CL3400.jpg]] Hamburg_Medienbunker_01_KMJ.jpg'' on the Heiligengeistfeld in Hamburg – one of four enormous fortress-like bunkers which were built of reinforced concrete between 1942 and 1944 and equipped with anti-aircraft artillery for air defense]]
+]] '' on the Heiligengeistfeld in Hamburg – one of four enormous fortress-like bunkers which were built of reinforced concrete between 1942 and 1944 and equipped with anti-aircraft artillery for air defense]]
 
 In Nazi Germany (1933–1945), Hamburg was a _Gau_ from 1934 until 1945. During the Second World War, Hamburg suffered a series of Allied air raids which devastated much of the city and the harbour. On 23 July 1943, Royal Air Force (RAF) firebombing created a firestorm which spread from the _Hauptbahnhof_ (main railway station) and quickly moved south-east, completely destroying entire boroughs such as Hammerbrook, Billbrook and Hamm South. Thousands of people perished in these densely populated working class boroughs. The raids, codenamed Operation Gomorrah by the RAF, killed at least 42,600 civilians; the precise number is not known. About one million civilians were evacuated in the aftermath of the raids. While some of the boroughs destroyed were rebuilt as residential districts after the war, others such as Hammerbrook were entirely developed into office, retail and limited residential or industrial districts.
 
@@ -172,17 +172,15 @@ Hamburg is seat of one of the three bishops of the Evangelical Lutheran Church i
 
 Government
 
-Hamburg_Rathausmarkt_und_Rathaus.jpg The city of Hamburg is one of 16 German states, therefore the Mayor of Hamburg's office corresponds more to the role of a minister-president than to the one of a city mayor. As a German state government, it is responsible for public education, correctional institutions and public safety; as a municipality, it is additionally responsible for libraries, recreational facilities, sanitation, water supply and welfare services.
+The city of Hamburg is one of 16 German states, therefore the Mayor of Hamburg's office corresponds more to the role of a minister-president than to the one of a city mayor. As a German state government, it is responsible for public education, correctional institutions and public safety; as a municipality, it is additionally responsible for libraries, recreational facilities, sanitation, water supply and welfare services.
 
 Since 1897, the seat of the government has been the Hamburg Rathaus (Hamburg City Hall), with the office of the mayor, the meeting room for the Senate and the floor for the Hamburg Parliament.[43] From 2001 until 2010, the mayor of Hamburg was Ole von Beust,[44] who governed in Germany's first statewide "black-green" coalition, consisting of the conservative CDU and the alternative GAL, which are Hamburg's regional wing of the Alliance 90/The Greens party.[45] Von Beust was briefly succeeded by Christoph Ahlhaus in 2010, but the coalition broke apart on November, 28. 2010.[46] On 7 March 2011 Olaf Scholz (SPD) became mayor. After the 2015 election the SPD and the Alliance 90/The Greens formed a coalition.
 
 Boroughs
 
-Hamburg_Subdivisions.svg
-
 Hamburg is made up of seven boroughs (German: _Bezirke_) and subdivided into 104 quarters (German: _Stadtteile_). There are 181 localities (German: _Ortsteile_). The urban organization is regulated by the Constitution of Hamburg and several laws.[47][48] Most of the quarters were former independent cities, towns or villages annexed into Hamburg proper. The last large annexation was done through the Greater Hamburg Act of 1937, when the cities Altona, Harburg and Wandsbek were merged into the state of Hamburg.[49] The _Act of the Constitution and Administration of Hanseatic city of Hamburg_ established Hamburg as a state and a municipality.[50] Some of the boroughs and quarters have been rearranged several times.
 
-Each borough is governed by a Borough Council (German: _Bezirksversammlung_) and administered by a Municipal Administrator (German: _Bezirksamtsleiter_). The boroughs are not independent municipalities: their power is limited and subordinate to the Senate of Hamburg. The borough administrator is elected by the Borough Council and thereafter requires confirmation and appointment by Hamburg's Senate.[51] The quarters have no governing bodies of their own. Germany_(2),_Neuwerk,_Scharhörn,_Nigehörn.jpg and belongs administratively to the borough of Hamburg-Mitte. Some 39 people live here on the island Neuwerk (visible just above the centre).]]
+Each borough is governed by a Borough Council (German: _Bezirksversammlung_) and administered by a Municipal Administrator (German: _Bezirksamtsleiter_). The boroughs are not independent municipalities: their power is limited and subordinate to the Senate of Hamburg. The borough administrator is elected by the Borough Council and thereafter requires confirmation and appointment by Hamburg's Senate.[51] The quarters have no governing bodies of their own. and belongs administratively to the borough of Hamburg-Mitte. Some 39 people live here on the island Neuwerk (visible just above the centre).]]
 
 In 2008, the boroughs were Hamburg-Mitte, Altona, Eimsbüttel, Hamburg-Nord, Wandsbek, Bergedorf and Harburg.[52]
 
@@ -205,11 +203,11 @@ Cityscape
 
 Architecture
 
-Palmaille_126_126b.JPG]] Marco-Polo-Center_und_Unilever_Haus_am_Strandhafen_der_Norderelbe_in_Hamburg_Foto_Wolfgang_Pehlemann_P1270870.jpg
+]]
 
 Hamburg has architecturally significant buildings in a wide range of styles and no skyscrapers (see List of tallest buildings in Hamburg). Churches are important landmarks, such as St Nicholas', which for a short time in the 19th century was the world's tallest building. The skyline features the tall spires of the most important churches (_Hauptkirchen_) St Michael's (nicknamed "Michel"), St Peter's, St James's (_St. Jacobi_) and St. Catherine's covered with copper plates, and the Heinrich-Hertz-Turm, the radio and television tower (no longer publicly accessible).
 
-Chilehaus_-_Hamburg.jpg with a typical brick expressionist façade.]]
+with a typical brick expressionist façade.]]
 
 The many streams, rivers and canals are crossed by some 2,500 bridges, more than London, Amsterdam and Venice put together.[60] Hamburg has more bridges inside its city limits than any other city in the world.[61] The Köhlbrandbrücke, Freihafen Elbbrücken, and Lombardsbrücke and Kennedybrücke dividing Binnenalster from Aussenalster are important roadways.
 
@@ -221,7 +219,7 @@ The many parks are distributed over the whole city, which makes Hamburg a very v
 
 Parks and gardens
 
-Wasserlichtkonzert_3.jpg'' park]] The lavish and spacious _Planten un Blomen_ park (Low German dialect for "plants and flowers") located in the centre of Hamburg is the green heart of the city. Within the park are various thematic gardens, the biggest Japanese garden in Germany, and the _Alter Botanischer Garten Hamburg_, which is a historic botanical garden that now consists primarily of greenhouses.
+'' park]] The lavish and spacious _Planten un Blomen_ park (Low German dialect for "plants and flowers") located in the centre of Hamburg is the green heart of the city. Within the park are various thematic gardens, the biggest Japanese garden in Germany, and the _Alter Botanischer Garten Hamburg_, which is a historic botanical garden that now consists primarily of greenhouses.
 
 The _Botanischer Garten Hamburg_ is a modern botanical garden maintained by the University of Hamburg. Besides these, there are many more parks of various sizes. In 2014 Hamburg celebrated a birthday of park culture, where many parks were reconstructed and cleaned up. Moreover, every year there are the famous water-light-concerts in the _Planten un Blomen_ park from May to early October.
 
@@ -232,7 +230,7 @@ Hamburg has more than 40 theatres, 60 museums and 100 music venues and clubs. In
 
 Theatres
 
-Hamburg_Deutsches_Schauspielhaus_01_KMJ.jpg in the St. Georg quarter]] Die_Elbphilharmonie_-_21.07.2015.jpg concert hall]]
+in the St. Georg quarter]] concert hall]]
 
 The state-owned _Deutsches Schauspielhaus_, the Thalia Theatre, Ohnsorg Theatre, "Schmidts Tivoli" and the _Kampnagel_ are well-known theatres.[66]
 
@@ -246,7 +244,7 @@ _BallinStadt (Emigration City)_ is dedicated to the millions of Europeans who em
 
 Music
 
-Hamburg-Elbphilharmonie.jpg in Hafen-City, seen from the Speicherstadt. ]] Hamburg State Opera is a leading opera company. Its orchestra is the Philharmoniker Hamburg. The city's other well-known orchestra is the NDR Elbphilharmonie Orchestra. The main concert venue is the new concert hall Elbphilharmonie. Before it was the Laeiszhalle, _Musikhalle Hamburg_. The Laeiszhalle also houses a third orchestra, the Hamburger Symphoniker. György Ligeti and Alfred Schnittke taught at the Hochschule für Musik und Theater Hamburg.[69][70]
+in Hafen-City, seen from the Speicherstadt. ]] Hamburg State Opera is a leading opera company. Its orchestra is the Philharmoniker Hamburg. The city's other well-known orchestra is the NDR Elbphilharmonie Orchestra. The main concert venue is the new concert hall Elbphilharmonie. Before it was the Laeiszhalle, _Musikhalle Hamburg_. The Laeiszhalle also houses a third orchestra, the Hamburger Symphoniker. György Ligeti and Alfred Schnittke taught at the Hochschule für Musik und Theater Hamburg.[69][70]
 
 Hamburg is the birthplace of Johannes Brahms, who spent his formative early years in the city, and the birthplace and home of the famous waltz composer Oscar Fetrás, who wrote the well-known "Mondnacht auf der Alster" waltz.
 
@@ -262,11 +260,11 @@ Hamburg has a vibrant psychedelic trance community, with record labels such as S
 
 Festivals and regular events
 
-Hamburger_Hafengeburtstag.jpg (Port Anniversary)]] Hamburg is noted for several festivals and regular events. Some of them are street festivals, such as the gay pride _Hamburg Pride_ festival[74] or the Alster fair (German: _Alstervergnügen_),[75] held at the _Binnenalster_. The _Hamburger DOM_ is northern Germany's biggest funfair, held three times a year.[76] _Hafengeburtstag_ is a funfair to honour the birthday of the port of Hamburg with a party and a ship parade.[77] The annual biker's service in Saint Michael's Church attracts tens of thousands of bikers.[78] Christmas markets in December are held at the Hamburg Rathaus square, among other places.[79] The _long night of museums_ (German: _Lange Nacht der Museen_) offers one entrance fee for about 40 museums until midnight.[80] The sixth _Festival of Cultures_ was held in September 2008, celebrating multi-cultural life.[81] The Filmfest Hamburg — a film festival originating from the 1950s _Film Days_ (German: _Film Tage_) — presents a wide range of films.[82] The _Hamburg Messe and Congress_ offers a venue for trade shows, such _hanseboot_, an international boat show, or _Du und deine Welt_, a large consumer products show.[83] Regular sports events—some open to pro and amateur participants—are the cycling competition EuroEyes Cyclassics, the Hamburg Marathon, the biggest marathon in Germany after Berlin,[84] the tennis tournament Hamburg Masters and equestrian events like the Deutsches Derby. Since 2007, Hamburg has the Dockville music and art festival. It takes place every year in summer in Wilhelmsburg.[85]
+(Port Anniversary)]] Hamburg is noted for several festivals and regular events. Some of them are street festivals, such as the gay pride _Hamburg Pride_ festival[74] or the Alster fair (German: _Alstervergnügen_),[75] held at the _Binnenalster_. The _Hamburger DOM_ is northern Germany's biggest funfair, held three times a year.[76] _Hafengeburtstag_ is a funfair to honour the birthday of the port of Hamburg with a party and a ship parade.[77] The annual biker's service in Saint Michael's Church attracts tens of thousands of bikers.[78] Christmas markets in December are held at the Hamburg Rathaus square, among other places.[79] The _long night of museums_ (German: _Lange Nacht der Museen_) offers one entrance fee for about 40 museums until midnight.[80] The sixth _Festival of Cultures_ was held in September 2008, celebrating multi-cultural life.[81] The Filmfest Hamburg — a film festival originating from the 1950s _Film Days_ (German: _Film Tage_) — presents a wide range of films.[82] The _Hamburg Messe and Congress_ offers a venue for trade shows, such _hanseboot_, an international boat show, or _Du und deine Welt_, a large consumer products show.[83] Regular sports events—some open to pro and amateur participants—are the cycling competition EuroEyes Cyclassics, the Hamburg Marathon, the biggest marathon in Germany after Berlin,[84] the tennis tournament Hamburg Masters and equestrian events like the Deutsches Derby. Since 2007, Hamburg has the Dockville music and art festival. It takes place every year in summer in Wilhelmsburg.[85]
 
 Cuisine
 
-2017-05-01_Scholle_Finkenwerder_Art.JPG, Finkenwerder style]]
+, Finkenwerder style]]
 
 Original Hamburg dishes are _Birnen, Bohnen und Speck_ (green beans cooked with pears and bacon),[86] _Aalsuppe_ (Hamburgisch _Oolsupp_) is often mistaken to be German for "eel soup" (_Aal_/_Ool_ translated ‘eel’), but the name probably comes from the Low Saxon _allns_ , meaning "all", "everything and the kitchen sink", not necessarily eel. Today eel is often included to meet the expectations of unsuspecting diners.[87] There is _Bratkartoffeln_ (pan-fried potato slices), _Finkenwerder Scholle_ (Low Saxon _Finkwarder Scholl_, pan-fried plaice), _Pannfisch_ (pan-fried fish with mustard sauce),[88] _Rote Grütze_ (Low Saxon _Rode Grütt_, related to Danish _rødgrød_, a type of summer pudding made mostly from berries and usually served with cream, like Danish _rødgrød med fløde_)[89] and _Labskaus_ (a mixture of corned beef, mashed potatoes and beetroot, a cousin of the Norwegian _lapskaus_ and Liverpool's lobscouse, all offshoots off an old-time one-pot meal that used to be the main component of the common sailor's humdrum diet on the high seas).[90]
 
@@ -282,7 +280,7 @@ Main sights
 
 File:Hamburg Elbphilharmonie 2016.jpg|Elbphilharmonie (_"Elphi"_) File:Hamburger Hafen-St. Michaelis.jpg|Port of Hamburg File:Freedom-of-the-Seas--in-Hamburg.jpg|St. Pauli Piers and cruise ship File:Speicherstadt abends.jpg|Speicherstadt (_Warehouse district_) File:Hamburg Rathaus.jpg|Hamburg Rathaus (City Hall) File:St. Michaelis.jpg|St. Michael's Church (_"Michel"_) File:Reeperbahn.jpg|Reeperbahn, nightlife district of St. Pauli File:Hamburg-St. Pauli Spielbudenplatz 01.jpg|Spielbudenplatz at Reeperbahn File:Grosse Freiheit Hamburg.jpg|Große Freiheit (_"Great Freedom"_) File:St. Nikolai Memorial Church.jpg|Nikolai Memorial File:Sandtorpark 2013-05-24 12-03-35 Germany Hamburg-HafenCity 2h.jpg|HafenCity File:Dockland by Night.jpg|Dockland at night File:Alstereisvergnügen 11-02-2012 09.jpg|View over frozen Alster towards Radisson Hotel and Hertz-Turm File:Hamburg Wallanlagen Brunnen.jpg|Planten un Blomen park File:DE Hamburg Centerview.JPG|Jungfernstieg Boulevard File:Hamburg-Blankenese(01).JPG%7CHills and mansions in Blankenese File:Laeisz-Halle (Hamburg-Neustadt).2.29179.ajb.jpg|Laeiszhalle concert venue File:2013-06-08 Projekt Heißluftballon - Highflyer DSCF7745.jpg|Hamburg Hauptbahnhof, busiest railway station in Germany File:Hamburg OLG 1.jpg|Hanseatisches Oberlandesgericht (_"HansOLG"_), upper court File:Neue Skyline Hamburg.JPG|Highrises in St. Pauli ("Hafenkrone") File:Köhlbrandbrücke 2010.jpg|Köhlbrand Bridge File:Heinrich-Hertz-Turm 2007-03-23.jpg|TV Tower File:HafenCity Traditionsschiffhafen Sandtorkai Hamburg 3943 v3.jpg|Traditional sailing ships at Sandtorkai in HafenCity File:RK 1009 9908 Alster.jpg|View over Hamburg and the Alster
 
-Rote_Flora_Sternschanze.jpg in the Sternschanze neighbourhood, Hamburg]]
+in the Sternschanze neighbourhood, Hamburg]]
 
 Alternative culture
 
@@ -296,7 +294,7 @@ After the summit, however, the Rote Flora issued a statement, in which it condem
 
 British culture
 
-Hammonia-Bad_01.jpg There are several English-speaking communities, such as the Caledonian Society of Hamburg, The British Club Hamburg, British and Commonwealth Luncheon Club, Anglo-German Club e.V.,[98] Professional Women's Forum,[99] The British Decorative and Fine Arts Society, The English Speaking Union of the Commonwealth, The Scottish Country Dancers of Hamburg, The Hamburg Players e.V. English Language Theatre Group, The Hamburg Exiles Rugby Club, several cricket clubs, and The Morris Minor Register of Hamburg. Furthermore, the Anglo-Hanseatic Lodge No. 850[100] within the Grand Lodge of British Freemasons of Germany[101] under the United Grand Lodges of Germany[102] works in Hamburg, and has a diverse expat membership. There is also a 400-year-old Anglican church community worshiping at _St Thomas Becket Church_.[103]
+There are several English-speaking communities, such as the Caledonian Society of Hamburg, The British Club Hamburg, British and Commonwealth Luncheon Club, Anglo-German Club e.V.,[98] Professional Women's Forum,[99] The British Decorative and Fine Arts Society, The English Speaking Union of the Commonwealth, The Scottish Country Dancers of Hamburg, The Hamburg Players e.V. English Language Theatre Group, The Hamburg Exiles Rugby Club, several cricket clubs, and The Morris Minor Register of Hamburg. Furthermore, the Anglo-Hanseatic Lodge No. 850[100] within the Grand Lodge of British Freemasons of Germany[101] under the United Grand Lodges of Germany[102] works in Hamburg, and has a diverse expat membership. There is also a 400-year-old Anglican church community worshiping at _St Thomas Becket Church_.[103]
 
 American and international English-speaking organisations include The American Club of Hamburg e.V.,[104] the American Women's Club of Hamburg,[105] the English Speaking Union, the German-American Women's Club,[106] and The International Women's Club of Hamburg e.V. _The American Chamber of Commerce_ handles matters related to business affairs.[107] The International School of Hamburg serves school children.
 
@@ -321,7 +319,7 @@ The unemployment rate stood at 6.1% in October 2018 and was higher than the Germ
   ------------------------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
   Unemployment rate in %   8.9    8.3    9.0    9.9    9.7    11.3   11.0   9.1    8.1    8.6    8.2    7.8    7.5    7.4    7.6    7.4    7.1    6.8
 
-Bundesarchiv_B_145_Bild-F078953-0003,_Hamburg,_Börse.jpg]]
+]]
 
 Banking
 
@@ -329,7 +327,7 @@ Hamburg has for centuries been a commercial centre of Northern Europe, and is th
 
 Port
 
-Ankunft_der_Queen_Mary_2_in_Hamburg_-_panoramio_-_Arnold_Schott_(3).jpg at the Port of Hamburg]] The most significant economic unit is the Port of Hamburg, which ranks third to Rotterdam and Antwerpen in Europe and 17th-largest worldwide with transshipments of of cargo and 138.2 million tons of goods in 2016.[113] International trade is also the reason for the large number of consulates in the city. Although situated up the Elbe, it is considered a sea port due to its ability to handle large ocean-going vessels.[114]
+at the Port of Hamburg]] The most significant economic unit is the Port of Hamburg, which ranks third to Rotterdam and Antwerpen in Europe and 17th-largest worldwide with transshipments of of cargo and 138.2 million tons of goods in 2016.[113] International trade is also the reason for the large number of consulates in the city. Although situated up the Elbe, it is considered a sea port due to its ability to handle large ocean-going vessels.[114]
 
 Industrial production
 
@@ -341,7 +339,7 @@ Hamburg, along with Seattle and Toulouse, is an important location of the civil 
 
 HafenCity
 
-Projekt_Heißluftballon_-_Highflyer_-IMG-1414.jpg (UNESCO World Heritage)]] The HafenCity is Europe's largest urban development project and is located in the Hamburg-Mitte district. It consists of the area of the Great Grasbrook, the northern part of the former Elbe island Grasbrook, and the warehouse district on the former Elbe island Kehrwieder and Wandrahm. It is bordered to the north, separated by the customs channel to Hamburg's city center, west and south by the Elbe and to the east, bounded by the upper harbor, Rothenburgsort. The district is full of rivers and streams and is surrounded by channels, and has a total area of about 2.2 square-kilometers.
+(UNESCO World Heritage)]] The HafenCity is Europe's largest urban development project and is located in the Hamburg-Mitte district. It consists of the area of the Great Grasbrook, the northern part of the former Elbe island Grasbrook, and the warehouse district on the former Elbe island Kehrwieder and Wandrahm. It is bordered to the north, separated by the customs channel to Hamburg's city center, west and south by the Elbe and to the east, bounded by the upper harbor, Rothenburgsort. The district is full of rivers and streams and is surrounded by channels, and has a total area of about 2.2 square-kilometers.
 
 HafenCity has 155 hectares in the area formerly belonging to the free port north of the Great Grasbrook. Residential units for up to 12,000 people are planned to be built on the site by around the mid-2020s, and jobs for up to 40,000 people, mainly in the office sector, should be created. It is the largest ongoing urban development project in Hamburg.
 
@@ -351,7 +349,7 @@ Many companies operating in E-Commerce have moved into HafenCity or started ther
 
 Tourism
 
-Hamburg_logo.jpg HH_Neuer_Wall_Dezember_2012.jpg, one of Europe's most luxurious shopping streets]] In 2017, more than 6,783,000 visitors with 13,822,000 overnight stays visited the city.[116] The tourism sector employs more than 175,000 people full-time and brings in revenue of almost €9 billion, making the tourism industry a major economic force in the Hamburg Metropolitan Region. Hamburg has one of the fastest-growing tourism industries in Germany. From 2001 to 2007, the overnight stays in the city increased by 55.2% (Berlin +52.7%, Mecklenburg-Vorpommern +33%).[117]
+, one of Europe's most luxurious shopping streets]] In 2017, more than 6,783,000 visitors with 13,822,000 overnight stays visited the city.[116] The tourism sector employs more than 175,000 people full-time and brings in revenue of almost €9 billion, making the tourism industry a major economic force in the Hamburg Metropolitan Region. Hamburg has one of the fastest-growing tourism industries in Germany. From 2001 to 2007, the overnight stays in the city increased by 55.2% (Berlin +52.7%, Mecklenburg-Vorpommern +33%).[117]
 
 A typical Hamburg visit includes a tour of the city hall and the grand church St. Michaelis (called the _Michel_), and visiting the old warehouse district (_Speicherstadt_) and the harbour promenade (_Landungsbrücken_). Sightseeing buses connect these points of interest. As Hamburg is one of the world's largest harbours many visitors take one of the harbour and/or canal boat tours (_Große Hafenrundfahrt_, _Fleetfahrt_) which start from the _Landungsbrücken_. Major destinations also include museums.
 
@@ -363,7 +361,7 @@ The _Queen Mary 2_ has docked regularly since 2004, and there were six departure
 
 Media
 
-Spiegel_building_Hamburg,_Ericusspitze,_at_night.jpg headquarters]] Media businesses employ over 70,000 people.[123] The Norddeutscher Rundfunk which includes the television station NDR Fernsehen is based in Hamburg, including the very popular news program _Tagesschau_, as are the commercial television station _Hamburg 1_, the Christian television station _Bibel TV_ and the civil media outlet _Tide TV_. There are regional radio stations such as Radio Hamburg. Some of Germany's largest publishing companies, Axel Springer AG, Gruner + Jahr, Bauer Media Group are located in the city. Many national newspapers and magazines such as _Der Spiegel_ and _Die Zeit_ are produced in Hamburg, as well as some special-interest newspapers such as _Financial Times Deutschland_. _Hamburger Abendblatt_ and _Hamburger Morgenpost_ are daily regional newspapers with a large circulation. There are music publishers, such as Warner Bros. Records Germany, and ICT firms such as Adobe Systems and Google Germany.
+headquarters]] Media businesses employ over 70,000 people.[123] The Norddeutscher Rundfunk which includes the television station NDR Fernsehen is based in Hamburg, including the very popular news program _Tagesschau_, as are the commercial television station _Hamburg 1_, the Christian television station _Bibel TV_ and the civil media outlet _Tide TV_. There are regional radio stations such as Radio Hamburg. Some of Germany's largest publishing companies, Axel Springer AG, Gruner + Jahr, Bauer Media Group are located in the city. Many national newspapers and magazines such as _Der Spiegel_ and _Die Zeit_ are produced in Hamburg, as well as some special-interest newspapers such as _Financial Times Deutschland_. _Hamburger Abendblatt_ and _Hamburger Morgenpost_ are daily regional newspapers with a large circulation. There are music publishers, such as Warner Bros. Records Germany, and ICT firms such as Adobe Systems and Google Germany.
 
 Hamburg was one of the locations for the James Bond series film _Tomorrow Never Dies_. The _Reeperbahn_ has been the location for many scenes, including the 1994 Beatles film _Backbeat_.[124] The film _A Most Wanted Man_ was set in and filmed in Hamburg. Hamburg was also shown in _An American Tail_ where Fievel Mousekewitz and his family immigrate to America in the hopes to escape cats.
 
@@ -376,7 +374,7 @@ Hamburg has 54 hospitals. The University Medical Center Hamburg-Eppendorf, with 
 
 Transport
 
-CTB-CTW_Port_of_Hamburg-Waltershof.jpg on the river Elbe]] U-Bahnhof_Baumwall_2015_01.jpg station of Hamburg U-Bahn]] Hamburg.NorderElbbrücken.2.wmt.jpg
+on the river Elbe]] station of Hamburg U-Bahn]]
 
 Hamburg is a major transportation hub, connected to four Autobahnen (motorways) and the most important railway junction on the route to Scandinavia.
 
@@ -396,7 +394,7 @@ Gaps in the rail network are filled by more than 669 bus routes, operated by sin
 
 There are eight ferry lines along the River Elbe, operated by _HADAG_, that fall under the aegis of the HVV. While mainly used by citizens and dock workers, they can also be used for sightseeing tours.[136]
 
-A321_final_assembly_(9351765668).jpg on final assembly line 3 in the Airbus plant at Hamburg Finkenwerder Airport.]]
+on final assembly line 3 in the Airbus plant at Hamburg Finkenwerder Airport.]]
 
 The international airport at Hamburg Fuhlsbüttel, official name Hamburg Airport „Helmut Schmidt“ (IATA: HAM, ICAO: EDDH) is the fifth biggest and oldest airport in Germany, having been established in 1912 and located about from the city centre. About 60 airlines provide service to 125 destination airports, including some long distance destinations like Newark, New Jersey on United Airlines, Dubai on Emirates, and Tehran on Iran Air; Lufthansa is the hub carrier, with the most flights and operates one of its biggest maintenance facilities at the Hamburg airport (Lufthansa Technik). The second airport is located in Hamburg-Finkenwerder, official name Hamburg Finkenwerder Airport (IATA: XFW, ICAO: EDHI). It is about from the city centre and is a nonpublic airport for the Airbus plant. It is the second biggest Airbus plant, after Toulouse, and the third biggest aviation manufacturing plant after Seattle and Toulouse; the plant houses the final assembly lines for A318, A319, A320, A321 and A380 aircraft.[137]
 
@@ -411,7 +409,7 @@ Electricity for Hamburg and Northern Germany is largely provided by _Vattenfall 
 
 Sport
 
-Hamburg_City_Man_2007.jpg Eishockey_O2_World_Hamburg.jpg]] RK_1009_9831_Volksparkstadion.jpg]] Hamburg is sometimes called Germany's capital of sport since no other city has more first-league teams and international sports events.
+]] ]] Hamburg is sometimes called Germany's capital of sport since no other city has more first-league teams and international sports events.
 
 Hamburger SV is a football team playing in the 2. Bundesliga (as of 2018). The HSV was the oldest team of the Bundesliga, playing in the league since its beginning in 1963 until a change of results saw them relegated from the Bundesliga in 2018. HSV is a six-time German champion, a three-time German cup winner and triumphed in the European Cup in 1983, and has played in the group stages of the Champions League twice: in 2000–01 and in 2006–07. They play at the Volksparkstadion (average attendance in the 12–13 season was 52,916). In addition, FC St. Pauli was a second division football club that came in second place in the 2009–10 season and qualified to play alongside Hamburger SV in the first division for the first time since the 2001–02 season. St. Pauli's home games take place at the Millerntor-Stadion.
 
@@ -427,7 +425,7 @@ The Hamburg Warriors are one of Germany's top lacrosse clubs.[140] The club has 
 
 There are also the Hamburg Dockers, an Australian rules football club.[142] The FC St. Pauli team dominates women's rugby in Germany. Other first-league teams include VT Aurubis Hamburg (Volleyball), Hamburger Polo Club, and Hamburg Blue Devils (American Football).[143] There are also several minority sports clubs, including four cricket clubs.
 
-Centre_Court_Am_Rothenbaum_Sliding_Roof.jpg is the main tennis stadium of the International German Open]]
+is the main tennis stadium of the International German Open]]
 
 The Centre Court of the Tennis Am Rothenbaum venue, with a capacity of 13,200 people, is the largest in Germany.[144]
 
@@ -440,7 +438,7 @@ Hamburg made a bid for the 2024 Olympic Games, but 51.7 percent of those city re
 
 Education
 
-2013-06-08_Projekt_Heißluftballon_DSCF0784.jpg main building]] Hh-budgepalais.jpg]] The school system is managed by the Ministry of Schools and Vocational Training (_Behörde für Schule und Berufsbildung_). The system had approximately 191,148 students in 221 primary schools and 188 secondary schools in 2016.[149] There are 32 public libraries in Hamburg.[150]
+main building]] ]] The school system is managed by the Ministry of Schools and Vocational Training (_Behörde für Schule und Berufsbildung_). The system had approximately 191,148 students in 221 primary schools and 188 secondary schools in 2016.[149] There are 32 public libraries in Hamburg.[150]
 
 Nineteen universities are located in Hamburg, with about 100,589 university students in total, including 9,000 resident students.[151] Six universities are public, including the largest, the University of Hamburg (Universität Hamburg) with the University Medical Center Hamburg-Eppendorf, the University of Music and Theatre, the Hamburg University of Applied Sciences, the HafenCity University Hamburg and the Hamburg University of Technology. Seven universities are private, like the Bucerius Law School and the HSBA Hamburg School of Business Administration. The city has also smaller private colleges and universities, including many religious and special-purpose institutions, such as the Helmut Schmidt University (formerly the University of the Federal Armed Forces Hamburg).[152] Hamburg is home to one of the oldest international schools in Germany, the International School of Hamburg.
 
@@ -760,7 +758,7 @@ Hamburg Category:City-states Category:German state capitals Category:Free imperi
 
 [137]
 
-[138]  CC-BY_icon.svg Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
+[138]  Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
 
 [139]
 

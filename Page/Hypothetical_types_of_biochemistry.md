@@ -1,4 +1,4 @@
-PIA10008_Seas_and_Lakes_on_Titan.jpg'' radar mosaic of Titan's north polar region; the blue areas are lakes of liquid hydrocarbons.
+'' radar mosaic of Titan's north polar region; the blue areas are lakes of liquid hydrocarbons.
 "The existence of lakes of liquid hydrocarbons on Titan opens up the possibility for solvents and energy sources that are alternatives to those in our biosphere and that might support novel life forms altogether different from those on Earth."—NASA Astrobiology Roadmap 2008[1]]]
 
 HYPOTHETICAL TYPES OF BIOCHEMISTRY are forms of biochemistry speculated to be scientifically viable but not proven to exist at this time.[2] The kinds of living organisms currently known on Earth all use carbon compounds for basic structural and metabolic functions, water as a solvent, and DNA or RNA to define and control their form. If life exists on other planets or moons, it may be chemically similar; it is also possible that there are organisms with quite different chemistries[3]—for instance, involving other classes of carbon compounds, compounds of another element, or another solvent in place of water.
@@ -10,7 +10,7 @@ The element silicon has been much discussed as a hypothetical alternative to car
 
 Shadow biosphere
 
-Arecibo_message.svg (1974) sent information into space about basic chemistry of Earth life.]] A shadow biosphere is a hypothetical microbial biosphere of Earth that uses radically different biochemical and molecular processes than currently known life.[4][5] Although life on Earth is relatively well-studied, the shadow biosphere may still remain unnoticed because the exploration of the microbial world targets primarily the biochemistry of the macro-organisms.
+(1974) sent information into space about basic chemistry of Earth life.]] A shadow biosphere is a hypothetical microbial biosphere of Earth that uses radically different biochemical and molecular processes than currently known life.[4][5] Although life on Earth is relatively well-studied, the shadow biosphere may still remain unnoticed because the exploration of the microbial world targets primarily the biochemistry of the macro-organisms.
 
 
 Alternative-chirality biomolecules
@@ -26,7 +26,7 @@ On Earth, all known living things have a carbon-based structure and system. Scie
 
 Silicon biochemistry
 
-Silane.png, analog of methane]] PDMS.svg (PDMS)]] Diatom2.jpg—carbon-based organisms that extract silicon from sea water, in the form of its oxide (silica) and incorporate it into their cell walls]] The silicon atom has been much discussed as the basis for an alternative biochemical system, because silicon has many chemical properties similar to those of carbon and is in the same group of the periodic table, the carbon group. Like carbon, silicon can create molecules that are sufficiently large to carry biological information.[11]
+, analog of methane]] (PDMS)]] —carbon-based organisms that extract silicon from sea water, in the form of its oxide (silica) and incorporate it into their cell walls]] The silicon atom has been much discussed as the basis for an alternative biochemical system, because silicon has many chemical properties similar to those of carbon and is in the same group of the periodic table, the carbon group. Like carbon, silicon can create molecules that are sufficiently large to carry biological information.[11]
 
 However, silicon has several drawbacks as an alternative to carbon. Silicon, unlike carbon, lacks the ability to form chemical bonds with diverse types of atoms as is necessary for the chemical versatility required for metabolism, and yet this precise inability is what makes silicon less susceptible to bond with all sorts of impurities from which carbon, in comparison, is not shielded. Elements creating organic functional groups with carbon include hydrogen, oxygen, nitrogen, phosphorus, sulfur, and metals such as iron, magnesium, and zinc. Silicon, on the other hand, interacts with very few other types of atoms.[12] Moreover, where it does interact with other atoms, silicon creates molecules that have been described as "monotonous compared with the combinatorial universe of organic macromolecules".[13] This is because silicon atoms are much bigger, having a larger mass and atomic radius, and so have difficulty forming double bonds (the double-bonded carbon is part of the carbonyl group, a fundamental motif of carbon-based bio-organic chemistry).
 
@@ -60,7 +60,7 @@ The authors of a 2010 geomicrobiology study, supported in part by NASA, have pos
 
 Non-water solvents
 
-Carl_Sagan_Viking.JPG speculated that alien life might use ammonia, hydrocarbons or hydrogen fluoride instead of water.]] In addition to carbon compounds, all currently known terrestrial life also requires water as a solvent. This has led to discussions about whether water is the only liquid capable of filling that role. The idea that an extraterrestrial life-form might be based on a solvent other than water has been taken seriously in recent scientific literature by the biochemist Steven Benner,[37] and by the astrobiological committee chaired by John A. Baross.[38] Solvents discussed by the Baross committee include ammonia,[39] sulfuric acid,[40] formamide,[41] hydrocarbons,[42] and (at temperatures much lower than Earth's) liquid nitrogen, or hydrogen in the form of a supercritical fluid.[43]
+speculated that alien life might use ammonia, hydrocarbons or hydrogen fluoride instead of water.]] In addition to carbon compounds, all currently known terrestrial life also requires water as a solvent. This has led to discussions about whether water is the only liquid capable of filling that role. The idea that an extraterrestrial life-form might be based on a solvent other than water has been taken seriously in recent scientific literature by the biochemist Steven Benner,[37] and by the astrobiological committee chaired by John A. Baross.[38] Solvents discussed by the Baross committee include ammonia,[39] sulfuric acid,[40] formamide,[41] hydrocarbons,[42] and (at temperatures much lower than Earth's) liquid nitrogen, or hydrogen in the form of a supercritical fluid.[43]
 
 Carl Sagan once described himself as both a carbon chauvinist and a water chauvinist;[44] however, on another occasion he said that he was a carbon chauvinist but "not that much of a water chauvinist".[45] He speculated on hydrocarbons,[46] hydrofluoric acid,[47] and ammonia[48][49] as possible alternatives to water.
 
@@ -86,7 +86,7 @@ There are some properties that make certain compounds and elements much more fav
 
 Ammonia
 
-Ammonia_World.jpg The ammonia molecule (NH₃), like the water molecule, is abundant in the universe, being a compound of hydrogen (the simplest and most common element) with another very common element, nitrogen.[53] The possible role of liquid ammonia as an alternative solvent for life is an idea that goes back at least to 1954, when J. B. S. Haldane raised the topic at a symposium about life's origin.[54]
+The ammonia molecule (NH₃), like the water molecule, is abundant in the universe, being a compound of hydrogen (the simplest and most common element) with another very common element, nitrogen.[53] The possible role of liquid ammonia as an alternative solvent for life is an idea that goes back at least to 1954, when J. B. S. Haldane raised the topic at a symposium about life's origin.[54]
 
 Numerous chemical reactions are possible in an ammonia solution, and liquid ammonia has chemical similarities with water.[55][56] Ammonia can dissolve most organic molecules at least as well as water does and, in addition, it is capable of dissolving many elemental metals. Haldane made the point that various common water-related organic compounds have ammonia-related analogs; for instance the ammonia-related amine group (−NH₂) is analogous to the water-related hydroxyl group (−OH).[57]
 
@@ -94,7 +94,7 @@ Ammonia, like water, can either accept or donate an H⁺ ion. When ammonia accep
 
 However, ammonia has some problems as a basis for life. The hydrogen bonds between ammonia molecules are weaker than those in water, causing ammonia's heat of vaporization to be half that of water, its surface tension to be a third, and reducing its ability to concentrate non-polar molecules through a hydrophobic effect. Gerald Feinberg and Robert Shapiro have questioned whether ammonia could hold prebiotic molecules together well enough to allow the emergence of a self-reproducing system.[62] Ammonia is also flammable in oxygen and could not exist sustainably in an environment suitable for aerobic metabolism.[63]
 
-Layers_of_titan.jpg A biosphere based on ammonia would likely exist at temperatures or air pressures that are extremely unusual in relation to life on Earth. Life on Earth usually exists within the melting point and boiling point of water at normal pressure, between 0 °C (273 K) and 100 °C (373 K); at normal pressure ammonia's melting and boiling points are between −78 °C (195 K) and −33 °C (240 K). Chemical reactions generally proceed more slowly at a lower temperature. Therefore, ammonia-based life, if it exists, might metabolize more slowly and evolve more slowly than life on Earth.[64] On the other hand, lower temperatures could also enable living systems to use chemical species that would be too unstable at Earth temperatures to be useful.[65]
+A biosphere based on ammonia would likely exist at temperatures or air pressures that are extremely unusual in relation to life on Earth. Life on Earth usually exists within the melting point and boiling point of water at normal pressure, between 0 °C (273 K) and 100 °C (373 K); at normal pressure ammonia's melting and boiling points are between −78 °C (195 K) and −33 °C (240 K). Chemical reactions generally proceed more slowly at a lower temperature. Therefore, ammonia-based life, if it exists, might metabolize more slowly and evolve more slowly than life on Earth.[64] On the other hand, lower temperatures could also enable living systems to use chemical species that would be too unstable at Earth temperatures to be useful.[65]
 
 Ammonia could be a liquid at Earth-like temperatures, but at much higher pressures; for example, at 60 atm, ammonia melts at −77 °C (196 K) and boils at 98 °C (371 K).[66]
 
@@ -130,7 +130,7 @@ Silicon dioxide, also known as silica and quartz, is very abundant in the univer
 
 Other solvents or cosolvents
 
-Sulfuric-acid-Givan-et-al-1999-3D-balls.png Other solvents sometimes proposed:
+Other solvents sometimes proposed:
 
 -   Supercritical fluids: supercritical carbon dioxide and supercritical hydrogen.[99]
 -   Simple hydrogen compounds: hydrogen chloride.[100]

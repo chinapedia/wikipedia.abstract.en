@@ -1,9 +1,9 @@
-Un-burkina-faso.png TRANSPORT IN BURKINA FASO consists primarily of road, air and rail transportation. The World Bank classified country's transportation as underdeveloped but noted that Burkina Faso is a natural geographic transportation hub for West Africa.
+TRANSPORT IN BURKINA FASO consists primarily of road, air and rail transportation. The World Bank classified country's transportation as underdeveloped but noted that Burkina Faso is a natural geographic transportation hub for West Africa.
 
 
 Highways
 
-Ouagadougou_road.jpg There are a total of of highway in Burkina Faso, of which are paved.
+There are a total of of highway in Burkina Faso, of which are paved.
 
 In 2000, the Government of Burkina Faso classified 15,000 kilometers of road as part of the national road network managed under the Ministry of Infrastructures Transport and Housing (MITH) through the Directorate of Roads (DGR). This network includes main inter-city roads and access roads for départments' capital cities. Only ten of the network's main roads are even partially paved, and the paved roads are plagued by dangerous potholes, missing signage, missing barriers and guardrails near roadside hazards, and no pavement markings to separate traffic moving in opposite directions.
 
@@ -12,7 +12,7 @@ As of May 2011 the country's road infrastructure was rated by the World Bank to 
 
 Air transport
 
-Plane_in_Ouagadougou.jpg There are international airports at Ouagadougou and Bobo-Dioulasso and numerous smaller airfields. In 2004, the number of airports totaled 23, only 2 of which had paved runways as of 2005.[4] Air Burkina, which began in 1967, is government-run and has a monopoly on domestic service but also flies to neighboring countries.
+There are international airports at Ouagadougou and Bobo-Dioulasso and numerous smaller airfields. In 2004, the number of airports totaled 23, only 2 of which had paved runways as of 2005.[4] Air Burkina, which began in 1967, is government-run and has a monopoly on domestic service but also flies to neighboring countries.
 
 Ouagadougou airport handles about 98% percent of all scheduled commercial air traffic in Burkina Faso. Air Burkina and Air France handle about 60% of all scheduled passenger traffic.[5] Between 2005 and 2011, air passenger traffic at Ouagadougou airport grew at an average annual rate of 7.0 percent per annum reaching about 404,726 passengers in 2011 and was estimated to reach 850,000 by 2025.[6] In 2007 Ouagadougou airport was the fifteenth busiest airport in West Africa in passenger volume, just ahead of Port Harcourt (Nigeria) and behind Banjul (Gambia).[7] The total air cargo at Ouagadougou airport grew 71% from 4,350 tons in 2005 to about 7,448 tons in 2009.[8]
 
@@ -21,7 +21,7 @@ The government plans to close the Ouagadougou airport upon construction of the n
 
 Railways
 
-Sitarail_train.jpg There are 622 kilometres of railway in Burkina Faso, of which 517 km run from Ouagadougou to Abidjan, Ivory Coast; and 105 km from Ouagadougou to Kaya. As of June 2014 _Sitarail_ operates a passenger train three times a week along the route from Ouagadougou to Abidjan via Banfora, Bobo-Dioulasso and Koudougou.[12]
+There are 622 kilometres of railway in Burkina Faso, of which 517 km run from Ouagadougou to Abidjan, Ivory Coast; and 105 km from Ouagadougou to Kaya. As of June 2014 _Sitarail_ operates a passenger train three times a week along the route from Ouagadougou to Abidjan via Banfora, Bobo-Dioulasso and Koudougou.[12]
 
 All of the railways in the country are of . Only Ivory Coast is connected to Burkina Faso by rail.
 

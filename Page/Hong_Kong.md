@@ -20,7 +20,7 @@ The region is first known to have been occupied by humans during the Neolithic p
 
 After the Qing conquest, maritime trade was banned under the _Haijin_ policies. The Kangxi Emperor lifted the prohibition, allowing foreigners to enter Chinese ports in 1684.[45] Qing authorities established the Canton System in 1757 to regulate trade more strictly, restricting non-Russian ships to the port of Canton.[46] Although European demand for Chinese commodities like tea, silk, and porcelain was high, Chinese interest in European manufactured goods was insignificant. To reduce the trade imbalance, the British sold large amounts of Indian opium to China. Faced with a drug crisis, Qing officials pursued ever-more-aggressive actions to halt the opium trade.[47] The Daoguang Emperor rejected proposals to legalise and tax opium, ordering imperial commissioner Lin Zexu to eradicate the opium trade in 1839. The commissioner destroyed opium stockpiles and halted all foreign trade,[48] triggering a British military response and the First Opium War. The Qing surrendered early in the war and ceded Hong Kong Island in the Convention of Chuenpi. However, both countries were dissatisfied and did not ratify the agreement.[49] After over a year of further hostilities, Hong Kong Island was formally ceded to the United Kingdom in the 1842 Treaty of Nanking.[50]
 
-Flag_of_Hong_Kong_1959.svg flag from 1959–1997]] Administrative infrastructure was quickly built up by early 1842, but piracy, disease, and hostile Qing policies towards Hong Kong prevented the government from attracting merchants. The Taiping Rebellion, when many wealthy Chinese fled mainland turbulence and settled in the colony, improved conditions on the island.[51] Further tensions between the British and Qing over the opium trade escalated into the Second Opium War. The defeated Qing were again forced to give up land, ceding Kowloon Peninsula and Stonecutter's Island in the Convention of Peking.[52] By the end of this war, Hong Kong had evolved from a transient colonial outpost into a major entrepôt. Rapid economic improvement during the 1850s attracted foreign investment, as potential stakeholders became more confident in Hong Kong's future.[53]
+flag from 1959–1997]] Administrative infrastructure was quickly built up by early 1842, but piracy, disease, and hostile Qing policies towards Hong Kong prevented the government from attracting merchants. The Taiping Rebellion, when many wealthy Chinese fled mainland turbulence and settled in the colony, improved conditions on the island.[51] Further tensions between the British and Qing over the opium trade escalated into the Second Opium War. The defeated Qing were again forced to give up land, ceding Kowloon Peninsula and Stonecutter's Island in the Convention of Peking.[52] By the end of this war, Hong Kong had evolved from a transient colonial outpost into a major entrepôt. Rapid economic improvement during the 1850s attracted foreign investment, as potential stakeholders became more confident in Hong Kong's future.[53]
 
 The colony was further expanded in 1898, when Britain obtained a 99-year lease of the New Territories.[54] The University of Hong Kong was established in 1911 as the territory's first higher-education institute.[55] Kai Tak Airport began operation in 1924, and the colony avoided a prolonged economic downturn after the 1925–26 Canton–Hong Kong strike.[56][57] At the start of the Second Sino-Japanese War in 1937, Governor Geoffry Northcote declared Hong Kong a neutral zone to safeguard its status as a free port.[58] The colonial government prepared for a possible attack, evacuating all British women and children in 1940.[59] The Imperial Japanese Army attacked Hong Kong on 8 December 1941, the same morning as its attack on Pearl Harbor.[60] Hong Kong was occupied by Japan for almost four years before Britain resumed control on 30 August 1945.[61]
 
@@ -35,7 +35,7 @@ Political debates after the transfer of sovereignty have centred around the regi
 
 Government and politics
 
-Legislative_Council_Complex_2011_Chamber.JPG in Tamar.]]
+in Tamar.]]
 
 Hong Kong is a special administrative region of China, with executive, legislative, and judicial powers devolved from the national government.[83] The Sino-British Joint Declaration provided for economic and administrative continuity through the transfer of sovereignty,[84] resulting in an executive-led governing system largely inherited from the territory's history as a British colony.[85] Under these terms and the "one country, two systems" principle, the Basic Law of Hong Kong is the regional constitution.[86]
 
@@ -51,11 +51,11 @@ The Legislative Council has 70 members, each serving a four-year term:[97] 35 di
 
 Twenty-two political parties had representatives elected to the Legislative Council in the 2016 election.[101] These parties have aligned themselves into three ideological groups: the pro-Beijing camp (the current government), the pro-democracy camp, and localist groups.[102] The Communist Party does not have an official political presence in Hong Kong, and its members do not run in local elections.[103] Hong Kong is represented in the National People's Congress by 36 deputies chosen through an electoral college, and 203 delegates in the Chinese People's Political Consultative Conference appointed by the central government.[104]
 
-HK_Chater_Road_LegCo_view.jpg formerly housed the Supreme Court and the Legislative Council.|alt=The grey dome and front gable of a granite neo-classical building, with a skyscraper in the background against a clear blue sky]]
+formerly housed the Supreme Court and the Legislative Council.|alt=The grey dome and front gable of a granite neo-classical building, with a skyscraper in the background against a clear blue sky]]
 
 Chinese national law does not generally apply in the region, and Hong Kong is treated as a separate jurisdiction.[105] Its judicial system is based on common law, continuing the legal tradition established during British rule.[106] Local courts may refer to precedents set in English law and overseas jurisprudence.[107] Interpretative and amending power over the Basic Law and jurisdiction over acts of state lie with the central authority, however, making regional courts ultimately subordinate to the mainland's socialist civil law system.[108] Decisions made by the Standing Committee of the National People's Congress can also override territorial judicial processes.[109].
 
-The territory's jurisdictional independence is most apparent in its immigration and taxation policies. The Immigration Department issues passports for permanent residents which differ from those of the mainland or Macau,[110] and the region maintains a regulated border with the rest of the country. All travellers between Hong Kong and China and Macau must pass border controls, regardless of nationality.[111] Chinese citizens resident in mainland China do not have the right of abode in Hong Kong, and are subject to immigration controls.[112] Public finances are handled separately from the national government, and taxes levied in Hong Kong do not fund the central authority.[113][114] 190616_HK_Protest_Incendo_03.jpg]]
+The territory's jurisdictional independence is most apparent in its immigration and taxation policies. The Immigration Department issues passports for permanent residents which differ from those of the mainland or Macau,[110] and the region maintains a regulated border with the rest of the country. All travellers between Hong Kong and China and Macau must pass border controls, regardless of nationality.[111] Chinese citizens resident in mainland China do not have the right of abode in Hong Kong, and are subject to immigration controls.[112] Public finances are handled separately from the national government, and taxes levied in Hong Kong do not fund the central authority.[113][114] ]]
 
 The Hong Kong Garrison is responsible for the region's defence.[115] Although the Chairman of the Central Military Commission is supreme commander of the armed forces,[116] the regional government may request assistance from the garrison.[117] Hong Kong residents are not required to perform military service and current law has no provision for local enlistment, so its defence is composed entirely of non-Hongkongers.[118]
 
@@ -67,8 +67,6 @@ The territory is divided into 18 districts. A 479-seat District Council, 452 of 
 
 Political reforms and sociopolitical issues
 
-2014_electoral_reform_first_consultation_report.jpg
-
 According to Basic Law Articles 45 and 68, the goal is universal suffrage for the election of the Chief Executive and all members of the Legislative Council.[126] Although the legislature is partially elected, the executive is not.[127] The government has been petitioned to introduce direct election of the Chief Executive and all Legislative Council members.[128] These efforts have been partially successful; the Election Committee no longer selects a portion of the Legislative Council.[129]
 
 Ethnic minorities (except those of European ancestry) have marginal representation in government, and often experience discrimination in housing, education, and employment.[130][131] Employment vacancies and public-service appointments frequently have language requirements which minority job seekers do not meet, and language-education resources remain inadequate for Chinese learners.[132][133] Foreign domestic helpers, predominantly women from the Philippines and Indonesia, have little protection under territorial law. Although they live and work in Hong Kong, these workers are not treated as ordinary residents and are ineligible for the right of abode.[134]
@@ -78,7 +76,7 @@ The Joint Declaration guarantees the Basic Law for 50 years after the transfer o
 
 Geography
 
-Hong_Kong,_China.jpg Hong Kong is on China's southern coast, east of Macau, on the east side of the mouth of the Pearl River estuary. It is surrounded by the South China Sea on all sides except the north, which neighbours the Guangdong city of Shenzhen along the Sham Chun River. The territory's area consists of Hong Kong Island, the Kowloon Peninsula, the New Territories, Lantau Island, and over 200 other islands. Of the total area, is land and is water.[138] The territory's highest point is Tai Mo Shan, above sea level.[139] Urban development is concentrated on the Kowloon Peninsula, Hong Kong Island, and in new towns throughout the New Territories.[140] Much of this is built on reclaimed land, due to the lack of developable flat land; (six per cent of the total land or about 25 per cent of developed space in the territory) is reclaimed from the sea.[141]
+Hong Kong is on China's southern coast, east of Macau, on the east side of the mouth of the Pearl River estuary. It is surrounded by the South China Sea on all sides except the north, which neighbours the Guangdong city of Shenzhen along the Sham Chun River. The territory's area consists of Hong Kong Island, the Kowloon Peninsula, the New Territories, Lantau Island, and over 200 other islands. Of the total area, is land and is water.[138] The territory's highest point is Tai Mo Shan, above sea level.[139] Urban development is concentrated on the Kowloon Peninsula, Hong Kong Island, and in new towns throughout the New Territories.[140] Much of this is built on reclaimed land, due to the lack of developable flat land; (six per cent of the total land or about 25 per cent of developed space in the territory) is reclaimed from the sea.[141]
 
 Undeveloped terrain is hilly to mountainous, with very little flat land, and consists mostly of grassland, woodland, shrubland, or farmland.[142][143] About 40 per cent of the remaining land area are country parks and nature reserves.[144] The territory has a diverse ecosystem; over 3,000 species of vascular plants occur in the region (300 of which are native to Hong Kong), and thousands of insect, avian, and marine species.[145][146]
 
@@ -88,7 +86,7 @@ Hong Kong has a humid subtropical climate (Köppen _Cwa_), characteristic of sou
 
 Architecture
 
-Montane_Mansion_Quarry_Bay.B.JPG's Montane Mansion, an example of architectural compression common in Hong Kong]]
+'s Montane Mansion, an example of architectural compression common in Hong Kong]]
 
 Hong Kong has the world's largest number of skyscrapers, with 317 towers taller than ,[151] and the third-largest number of high-rise buildings in the world.[152] The lack of available space restricted development to high-density residential tenements and commercial complexes packed closely together on buildable land.[153] Single-family detached homes are extremely rare, and generally only found in outlying areas.[154]
 
@@ -101,7 +99,7 @@ _Tong lau_, mixed-use tenement buildings constructed during the colonial era, bl
 
 Demographics
 
-Bevölkerungspyramide_Hongkong_2016.png]] The Census and Statistics Department estimated Hong Kong's population at 7,482,500 in mid-2019.[166] The overwhelming majority (92 per cent) is Han Chinese,[167] most of whom are Taishanese, Teochew, Hakka, and a number of other Cantonese peoples.[168][169][170] The remaining eight per cent are non-ethnic Chinese minorities, primarily Filipinos, Indonesians, and South Asians.[171][172] About half the population have some form of British nationality, a legacy of colonial rule; 3.4 million residents have British National (Overseas) status, and 260,000 British citizens live in the territory.[173] The vast majority also hold Chinese nationality, automatically granted to all ethnic Chinese residents at the transfer of sovereignty.[174]
+]] The Census and Statistics Department estimated Hong Kong's population at 7,482,500 in mid-2019.[166] The overwhelming majority (92 per cent) is Han Chinese,[167] most of whom are Taishanese, Teochew, Hakka, and a number of other Cantonese peoples.[168][169][170] The remaining eight per cent are non-ethnic Chinese minorities, primarily Filipinos, Indonesians, and South Asians.[171][172] About half the population have some form of British nationality, a legacy of colonial rule; 3.4 million residents have British National (Overseas) status, and 260,000 British citizens live in the territory.[173] The vast majority also hold Chinese nationality, automatically granted to all ethnic Chinese residents at the transfer of sovereignty.[174]
 
 The predominant language is Cantonese, a variety of Chinese originating in Guangdong. It is spoken by 94.6 per cent of the population, 88.9 per cent as a first language and 5.7 per cent as a second language.[175] Slightly over half the population (53.2 per cent) speaks English, the other official language;[176] 4.3 per cent are native speakers, and 48.9 per cent speak English as a second language.[177] Code-switching, mixing English and Cantonese in informal conversation, is common among the bilingual population.[178] Post-handover governments have promoted Mandarin, which is currently about as prevalent as English; 48.6 per cent of the population speaks Mandarin, with 1.9 per cent native speakers and 46.7 per cent speaking it as a second language.[179] Traditional Chinese characters are used in writing, rather than the simplified characters used on the mainland.[180]
 
@@ -114,7 +112,7 @@ Income inequality has risen since the transfer of sovereignty, as the region's a
 
 Economy
 
-Kwai_Tsing_Container_Terminals.jpg is one of the world's busiest container ports.]]
+is one of the world's busiest container ports.]]
 
 Hong Kong has a capitalist mixed service economy, characterised by low taxation, minimal government market intervention, and an established international financial market.[194] It is the world's 35th-largest economy, with a nominal GDP of approximately HK$2.74 trillion (US$381 billion).[195] Although Hong Kong's economy has ranked at the top of the Heritage Foundation's economic freedom index since 1995,[196][197] the territory has a relatively high level of income disparity.[198] The Hong Kong Stock Exchange is the seventh-largest in the world, with a market capitalisation of HK$30.4 trillion (US$3.87 trillion) .[199]
 
@@ -124,7 +122,7 @@ It has little arable land and few natural resources, importing most of its food 
 
 Although the territory had one of Asia's largest manufacturing economies during the latter half of the colonial era, Hong Kong's economy is now dominated by the service sector. The sector generates 92.7 per cent of economic output, with the public sector accounting for about 10 per cent.[208] Between 1961 and 1997 Hong Kong's gross domestic product increased by a factor of 180, and per capita GDP increased by a factor of 87.[209][210] The territory's GDP relative to mainland China's peaked at 27 per cent in 1993; it fell to less than three per cent in 2017, as the mainland developed and liberalised its economy.[211]
 
-Hong_Kong_Exchange_Trade_Lobby_2007.jpg]]
+]]
 
 Economic and infrastructure integration with China has increased significantly since the 1978 start of market liberalisation on the mainland. Since resumption of cross-boundary train service in 1979, many rail and road links have been improved and constructed (facilitating trade between regions).[212][213] The Closer Partnership Economic Arrangement formalised a policy of free trade between the two areas, with each jurisdiction pledging to remove remaining obstacles to trade and cross-boundary investment.[214] A similar economic partnership with Macau details the liberalisation of trade between the special administrative regions.[215] Chinese companies have expanded their economic presence in the territory since the transfer of sovereignty. Mainland firms represent over half of the Hang Seng Index value, up from five per cent in 1997.[216][217]
 
@@ -139,7 +137,7 @@ Infrastructure
 
 Transport
 
-Cross_Harbour_Tunnel_(1).JPG in Hung Hom, Kowloon]]
+in Hung Hom, Kowloon]]
 
 Hong Kong has a highly developed, sophisticated transport network. Over 90 per cent of daily trips are made on public transport, the highest percentage in the world.[229] The Octopus card, a contactless smart payment card, is widely accepted on railways, buses and ferries, and can be used for payment in most retail stores.[230]
 
@@ -147,7 +145,7 @@ The Mass Transit Railway (MTR) is an extensive passenger rail network, connectin
 
 Although public transport systems handle most passenger traffic, there are over 500,000 private vehicles registered in Hong Kong.[236] Automobiles drive on the left (unlike in mainland China), due to historical influence of the British Empire.[237] Vehicle traffic is extremely congested in urban areas, exacerbated by limited space to expand roads and an increasing number of vehicles.[238] More than 18,000 taxicabs, easily identifiable by their bright colour, are licensed to carry riders in the territory.[239] Bus services operate more than 700 routes across the territory,[240] with smaller public light buses (also known as minibuses) serving areas standard buses do not reach as frequently or directly.[241] Highways, organised with the Hong Kong Strategic Route and Exit Number System, connect all major areas of the territory.[242] The Hong Kong–Zhuhai–Macau Bridge provides a direct route to the western side of the Pearl River estuary.[243]
 
-HK_Tung_Chung_Line_Train.jpg]]
+]]
 
 Hong Kong International Airport is the territory's primary airport. Over 100 airlines operate flights from the airport, including locally based Cathay Pacific (flag carrier), Hong Kong Airlines, regional carrier Cathay Dragon, and cargo airline Air Hong Kong.[244] It is the eighth-busiest airport by passenger traffic,[245] and handles the most air-cargo traffic in the world.[246] Most private recreational aviation traffic flies through Shek Kong Airfield, under the supervision of the Hong Kong Aviation Club.[247]
 
@@ -176,7 +174,7 @@ Food in Hong Kong is based on Cantonese cuisine, despite the territory's exposur
 
 Cinema
 
-Hong_kong_bruce_lee_statue.jpg, a tribute to the city's film industry]]
+, a tribute to the city's film industry]]
 
 Hong Kong developed into a filmmaking hub during the late 1940s as a wave of Shanghai filmmakers migrated to the territory, and these movie veterans helped rebuild the colony's entertainment industry over the next decade.[285] By the 1960s, the city was well known to overseas audiences through films such as _The World of Suzie Wong_.[286] When Bruce Lee's _Way of the Dragon_ was released in 1972, local productions became popular outside Hong Kong. During the 1980s, films such as _A Better Tomorrow_, _As Tears Go By_, and _Zu Warriors from the Magic Mountain_ expanded global interest beyond martial arts films; locally made gangster films, romantic dramas, and supernatural fantasies became popular.[287] Hong Kong cinema continued to be internationally successful over the following decade with critically acclaimed dramas such as _Farewell My Concubine_, _To Live_, and _Chungking Express_. The city's martial arts film roots are evident in the roles of the most prolific Hong Kong actors. Jackie Chan, Donnie Yen, Jet Li, Chow Yun-fat, and Michelle Yeoh frequently play action-oriented roles in foreign films. At the height of the local movie industry in the early 1990s, over 400 films were produced each year; since then, industry momentum shifted to mainland China. The annual number of films produced has declined, to about 60 in 2017.[288]
 
@@ -188,7 +186,7 @@ Western classical music has historically had a strong presence in Hong Kong, and
 
 Sport and recreation
 
-Crowd_cheering,_Hong_Kong_Sevens_2009.jpg, considered the premier tournament of the World Rugby Sevens Series, is played each spring.]]
+, considered the premier tournament of the World Rugby Sevens Series, is played each spring.]]
 
 Despite its small area, the territory is home to a variety of sports and recreational facilities. The city has hosted a number of major sporting events, including the 2009 East Asian Games, the 2008 Summer Olympics equestrian events, and the 2007 Premier League Asia Trophy.[296] The territory regularly hosts the Hong Kong Sevens, Hong Kong Marathon, Hong Kong Tennis Classic and Lunar New Year Cup, and hosted the inaugural AFC Asian Cup and the 1995 Dynasty Cup.[297][298]
 
@@ -201,18 +199,18 @@ The Hong Kong Jockey Club, the territory's largest taxpayer,[303] has a monopoly
 
 Education
 
-Bishop's_House,_Anglican_Church,_Hong_Kong.JPG, the first school established in the colonial era]] Education in Hong Kong is largely modelled after that of the United Kingdom, particularly the English system.[306] Children are required to attend school from the age of six until completion of secondary education, generally at age 18.[307][308] At the end of secondary schooling, all students take a public examination and awarded the Hong Kong Diploma of Secondary Education on successful completion.[309] Of residents aged 15 and older, 81.3 per cent completed lower-secondary education, 66.4 per cent graduated from an upper secondary school, 31.6 per cent attended a non-degree tertiary program, and 24 per cent earned a bachelor's degree or higher.[310] Mandatory education has contributed to an adult literacy rate of 95.7 per cent.[311] Lower than that of other developed economies, the rate is due to the influx of refugees from mainland China during the post-war colonial era. Much of the elderly population were not formally educated due to war and poverty.[312][313]
+, the first school established in the colonial era]] Education in Hong Kong is largely modelled after that of the United Kingdom, particularly the English system.[306] Children are required to attend school from the age of six until completion of secondary education, generally at age 18.[307][308] At the end of secondary schooling, all students take a public examination and awarded the Hong Kong Diploma of Secondary Education on successful completion.[309] Of residents aged 15 and older, 81.3 per cent completed lower-secondary education, 66.4 per cent graduated from an upper secondary school, 31.6 per cent attended a non-degree tertiary program, and 24 per cent earned a bachelor's degree or higher.[310] Mandatory education has contributed to an adult literacy rate of 95.7 per cent.[311] Lower than that of other developed economies, the rate is due to the influx of refugees from mainland China during the post-war colonial era. Much of the elderly population were not formally educated due to war and poverty.[312][313]
 
 Comprehensive schools fall under three categories: public schools, which are fully government-run; subsidised schools, including government aid-and-grant schools; and private schools, often those run by religious organisations and that base admissions on academic merit. These schools are subject to the curriculum guidelines as provided by the Education Bureau. Private schools subsidised under the Direct Subsidy Scheme and international schools fall outside of this system and may elect to use differing curricula and teach based on other languages.[314]
 
-Main_Building_HKU_20100926_03.JPG main building]] The government maintains a policy of "mother tongue instruction"; schools use Cantonese as the medium of instruction, with written education in both Chinese and English. Secondary schools emphasise "bi-literacy and tri-lingualism", which has encouraged the proliferation of spoken Mandarin language education.[315]
+main building]] The government maintains a policy of "mother tongue instruction"; schools use Cantonese as the medium of instruction, with written education in both Chinese and English. Secondary schools emphasise "bi-literacy and tri-lingualism", which has encouraged the proliferation of spoken Mandarin language education.[315]
 
 Hong Kong has ten universities within its territory. The University of Hong Kong was founded as the city's first institute of higher education during the early colonial period in 1911.[316] The Chinese University of Hong Kong was established in 1963 to fill the need for a university that taught using Chinese as its primary language of instruction.[317] Along with the Hong Kong University of Science and Technology and City University of Hong Kong, these universities are ranked among the best in Asia.[318] The Hong Kong Polytechnic University,[319] Hong Kong Baptist University,[320] Lingnan University,[321] Education University of Hong Kong,[322] Open University of Hong Kong,[323] and Hong Kong Shue Yan University were all established in subsequent years.[324]
 
 
 Media
 
-Tvbcity-s1.png, headquarters of Hong Kong's first over-the-air television station]]
+, headquarters of Hong Kong's first over-the-air television station]]
 
 Hong Kong's major English-language newspaper is the _South China Morning Post_, with _The Standard_ a business-oriented alternative. A variety of Chinese-language newspapers are published daily; the most prominent are _Ming Pao_, _Oriental Daily News_, and _Apple Daily_. Local publications are often politically affiliated, with pro-Beijing or pro-democracy sympathies. The central government has a print-media presence in the territory through the state-owned _Ta Kung Pao_ and _Wen Wei Po_.[325] Several international publications have regional operations in Hong Kong, including _The Wall Street Journal_, _The Financial Times_, _The New York Times International Edition_, _USA Today_, _Yomiuri Shimbun_, and _The Nikkei_.[326]
 

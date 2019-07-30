@@ -7,7 +7,7 @@ In Mahayana Buddhism, a bodhisattva refers to anyone who has generated _bodhicit
 
 Early Buddhism and the Nikāya schools
 
-Gandhara,_rilievo_col_buddha_shakyamuni_che_medita_nella_grotta_indrashala_e_il_buddha_dipankara,_II-III_secolo.jpg depicting the bodhisatta (future Gautama Buddha) taking a vow at the foot of Dipankara Buddha, Art Institute of Chicago.]] DevoteeDetail.JPG, 50 CE).[4]]] Ascetic_Sumedha_and_Dipankara_Buddha.jpg.]]Bodhisattva_Avalokitesvara-BMA.jpg. Sri Lanka, ca. 750 CE. ]]
+depicting the bodhisatta (future Gautama Buddha) taking a vow at the foot of Dipankara Buddha, Art Institute of Chicago.]] , 50 CE).[4]]] .]]. Sri Lanka, ca. 750 CE. ]]
 
 In early Buddhism, the term _bodhisatta_ is used in the early texts to refer to Gautama Buddha in his previous lives[5] and as a young man in his current life in the period during which he was working towards his own liberation. During his discourses, to recount his experiences as a young aspirant he regularly uses the phrase "When I was an unenlightened bodhisatta..." The term therefore connotes a being who is "bound for enlightenment", in other words, a person whose aim is to become fully enlightened. In the Pāli canon, the bodhisatta is also described as someone who is still subject to birth, illness, death, sorrow, defilement, and delusion. Some of the previous lives of the Buddha as a bodhisattva are featured in the Jataka tales.
 
@@ -41,11 +41,11 @@ Jeffrey Samuels echoes this perspective, noting that while in Mahayana Buddhism 
 
 In Mahāyāna Buddhism
 
-Liao_Dynasty_Avalokitesvara_Statue_Clear.jpeg. Liao China, 907-1125]] Ajanta_Padmapani.jpg in Ajanta Caves. India, 5th century]] Bodhisattva_Ghorband_Musée_Guimet_2418.jpg, 7th century]]
+. Liao China, 907-1125]] in Ajanta Caves. India, 5th century]] , 7th century]]
 
 Early Mahāyāna
 
-Twenty-Five_Bodhisattvas_Descending_from_Heaven,_c._1300.jpg Mahāyāna Buddhism (often also called _Bodhisattvayāna_, or the "Bodhisattva Vehicle") is based principally upon the path of a bodhisattva.[23] This path was seen as nobler than becoming an arhat or a solitary Buddha. According to David Drewes, "Mahayana sutras unanimously depict the path beginning with the first arising of the thought of becoming a Buddha (_prathamacittotpāda_), or the initial arising of _bodhicitta_, typically aeons before one first receives a Buddha’s prediction, and apply the term bodhisattva from this point."[24]
+Mahāyāna Buddhism (often also called _Bodhisattvayāna_, or the "Bodhisattva Vehicle") is based principally upon the path of a bodhisattva.[23] This path was seen as nobler than becoming an arhat or a solitary Buddha. According to David Drewes, "Mahayana sutras unanimously depict the path beginning with the first arising of the thought of becoming a Buddha (_prathamacittotpāda_), or the initial arising of _bodhicitta_, typically aeons before one first receives a Buddha’s prediction, and apply the term bodhisattva from this point."[24]
 
 The __, one of the earliest known Mahayana texts, contains a simple and brief definition for the term _bodhisattva_, which is also the earliest known Mahāyāna definition.[25][26] This definition is given as the following: "Because he has bodhi as his aim, a bodhisattva-mahāsattva is so called."[27]
 

@@ -1,5 +1,3 @@
-Motorola_DragonBallEZ_XC60EZ328PU16V_top.jpg
-
 Motorola/Freescale Semiconductor's DRAGONBALL, or MC68328, is a microcontroller design based on the famous 68000 core, but implemented as an all-in-one low-power system for handheld computer use. It is supported by μClinux. It was designed by Motorola in Hong Kong and released in 1995.[1]
 
 The DragonBall's major design win was in earlier versions of the Palm Computing platform; however, from Palm OS 5 onwards it has been superseded by ARM-based processors from Texas Instruments and Intel. The processor is also used in some of the AlphaSmart line of portable word processors. Examples include the Dana and Dana Wireless.

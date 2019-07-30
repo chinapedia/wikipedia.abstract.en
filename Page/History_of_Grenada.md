@@ -7,7 +7,7 @@ Grenada achieved independence from Britain in 1974. Following a coup by the Marx
 
 Early history
 
-1632_Cardona_Descripcion_Indias_(27).jpg About 2 million years ago, Grenada was formed as an underwater volcano. Before the arrival of Europeans, Grenada was inhabited by Arawaks and, subsequently, Caribs. Christopher Columbus sighted Grenada in 1498 during his third voyage to the new world. He named the island "Concepción." The origin of the name "Grenada" is obscure, but it is likely that Spanish sailors renamed the island for the city of Granada.[1] By the beginning of the 18th century, the name "Grenada", or "la Grenade" in French, was in common use.[2] Partly because of the Caribs, Grenada remained uncolonized for more than one hundred years after being sighted by Columbus.
+About 2 million years ago, Grenada was formed as an underwater volcano. Before the arrival of Europeans, Grenada was inhabited by Arawaks and, subsequently, Caribs. Christopher Columbus sighted Grenada in 1498 during his third voyage to the new world. He named the island "Concepción." The origin of the name "Grenada" is obscure, but it is likely that Spanish sailors renamed the island for the city of Granada.[1] By the beginning of the 18th century, the name "Grenada", or "la Grenade" in French, was in common use.[2] Partly because of the Caribs, Grenada remained uncolonized for more than one hundred years after being sighted by Columbus.
 
 
 17th century
@@ -76,7 +76,7 @@ On 7 February 1974, Grenada became a fully independent state. Grenada continued 
 
 The 1979 coup and revolutionary government
 
-Bundesarchiv_Bild_183-1982-0610-101,_Berlin,_Besuch_Regierungsdelegation_Grenada,_Bootsfahrt.jpg visiting Germany, 1982.]]
+visiting Germany, 1982.]]
 
 On March 13, 1979, the New Jewel Movement launched an armed revolution which removed Gairy, suspended the constitution, and established a People's Revolutionary Government (PRG), headed by Maurice Bishop who declared himself prime minister. His Marxist-Leninist government established close ties with Cuba, Nicaragua, and other communist bloc countries. All political parties except for the New Jewel Movement were banned and no elections were held during the four years of PRG rule.
 

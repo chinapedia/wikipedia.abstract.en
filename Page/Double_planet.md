@@ -1,4 +1,4 @@
-Pluto_&_Charon,_Earth_size_comparison.jpg and the Moon (above right) and Pluto–Charon (below right)]] In astronomy, a DOUBLE PLANET (also BINARY PLANET) is a binary system where both objects are of planetary mass. The term is not recognized by the International Astronomical Union (IAU) and is therefore not an official classification. At its 2006 General Assembly, the International Astronomical Union considered a proposal that Pluto and Charon be reclassified as a double planet,[1] but the proposal was abandoned in favor of the current definition of planet. In promotional materials advertising the SMART-1 mission and pre-dating the IAU planet definition, the European Space Agency once referred to the Earth–Moon system as a double planet.[2]
+and the Moon (above right) and Pluto–Charon (below right)]] In astronomy, a DOUBLE PLANET (also BINARY PLANET) is a binary system where both objects are of planetary mass. The term is not recognized by the International Astronomical Union (IAU) and is therefore not an official classification. At its 2006 General Assembly, the International Astronomical Union considered a proposal that Pluto and Charon be reclassified as a double planet,[1] but the proposal was abandoned in favor of the current definition of planet. In promotional materials advertising the SMART-1 mission and pre-dating the IAU planet definition, the European Space Agency once referred to the Earth–Moon system as a double planet.[2]
 
 Some binary asteroids with components of roughly equal mass are sometimes informally referred to as double minor planets. These include binary asteroids 69230 Hermes and 90 Antiope and binary Kuiper belt objects (KBOs) 79360 Sila–Nunam and .
 
@@ -21,7 +21,7 @@ The Moon-to-Earth mass ratio of 0.01230 (≈ ) is also notably close to 1 when c
 
 The next criteria both attempt to answer the question "How close to 1 must the mass ratio be?"
 
-Pluto-Charon_system-new.gif–Charon system: the barycenter lies outside of Pluto.]]
+–Charon system: the barycenter lies outside of Pluto.]]
 
 Center-of-mass position
 

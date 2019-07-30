@@ -1,5 +1,3 @@
-Jewish_calendar,_showing_Adar_II_between_1927_and_1948.jpeg
-
 The HEBREW or JEWISH CALENDAR (, ) is a lunisolar calendar used today predominantly for Jewish religious observances. It determines the dates for Jewish holidays and the appropriate public reading of Torah portions, _yahrzeits_ (dates to commemorate the death of a relative), and daily Psalm readings, among many ceremonial uses. In Israel, it is used for religious purposes, provides a time frame for agriculture and is an official calendar for civil purposes, although the latter usage has been steadily declining in favor of the Gregorian calendar.
 
 The present Hebrew calendar is the product of evolution, including a Babylonian influence. Until the Tannaitic period (approximately 10–220 CE), the calendar employed a new crescent moon, with an additional month normally added every two or three years to correct for the difference between twelve lunar months and the solar year. The year in which it was added was based on observation of natural agriculture-related events in ancient Israel.[1] Through the Amoraic period (200–500 CE) and into the Geonic period, this system was gradually displaced by the mathematical rules used today. The principles and rules were fully codified by Maimonides in the in the 12th century. Maimonides' work also replaced counting "years since the destruction of the Temple" with the modern creation-era .
@@ -29,7 +27,7 @@ While calculations of days, months and years are based on fixed hours equal to �
 
 Weeks
 
-Maurice_Ascalon_Shabbat_Candle_Sticks.jpg in the 1940s.]]
+in the 1940s.]]
 
 The Hebrew week (שבוע, _Shavua_) is a cycle of seven days, mirroring the seven-day period of the Book of Genesis in which the world is created. Each day of the week runs from sunset to the following sunset and is figured locally. The weekly cycle, which runs concurrently with but independently of the monthly and annual cycles.
 
@@ -130,7 +128,7 @@ In Hebrew there are two common ways of writing the year number: with the thousan
 
 Anno Mundi
 
-Creation_of_Light_Detail_2.png of the world.]] In 1178 CE, Maimonides wrote in the Mishneh Torah[18] that he had chosen the epoch from which calculations of all dates should be as "the third day of Nisan in this present year ... which is the year 4938 of the creation of the world" (22 March 1178).[19] He included all the rules for the calculated calendar and their scriptural basis, including the modern epochal year in his work, and beginning formal usage of the _anno mundi_ era. From the eleventh century, _anno mundi_ dating became dominant throughout most of the world's Jewish communities.[20][21] Today, the rules detailed in Maimonides' calendrical code are those generally used by Jewish communities throughout the world.
+of the world.]] In 1178 CE, Maimonides wrote in the Mishneh Torah[18] that he had chosen the epoch from which calculations of all dates should be as "the third day of Nisan in this present year ... which is the year 4938 of the creation of the world" (22 March 1178).[19] He included all the rules for the calculated calendar and their scriptural basis, including the modern epochal year in his work, and beginning formal usage of the _anno mundi_ era. From the eleventh century, _anno mundi_ dating became dominant throughout most of the world's Jewish communities.[20][21] Today, the rules detailed in Maimonides' calendrical code are those generally used by Jewish communities throughout the world.
 
 Since the codification by Maimonides in 1178, the Jewish calendar has used the Anno Mundi epoch (Latin for "in the year of the world," abbreviated _AM_ or _A.M._, Hebrew ), sometimes referred to as the "Hebrew era", to distinguish it from other systems based on some computation of creation, such as the Byzantine calendar.
 
@@ -144,7 +142,7 @@ Occasionally, _Anno Mundi_ is styled as _Anno Hebraico (AH)_,[26] though this is
 
 New year
 
-Liten_askenasisk_sjofar_5380.jpg'' made from a ram's horn is traditionally blown in observance of Rosh Hashanah, the beginning of the Jewish civic year.]]
+'' made from a ram's horn is traditionally blown in observance of Rosh Hashanah, the beginning of the Jewish civic year.]]
 
 The Jewish calendar has several distinct new years, used for different purposes. The use of multiple starting dates for a year is comparable to different starting dates for civil "calendar years", "tax or fiscal years", "academic years", and so on. The _Mishnah_ (c. 200 CE) identifies four new-year dates:
 
@@ -306,7 +304,7 @@ Occasionally in Talmudic writings, reference was made to other starting points f
 
 Determining the new month in the Mishnaic period
 
-To_the_trumpeting_place.jpg, a stone (2.43×1 m) with Hebrew inscription "To the Trumpeting Place" is believed to be a part of the Second Temple.]] The Tanakh contains several commandments related to the keeping of the calendar and the lunar cycle, and records changes that have taken place to the Hebrew calendar. stresses the importance in Israelite religious observance of the new month (Hebrew: , Rosh Chodesh, "beginning of the month"): "... in your new moons, ye shall blow with the trumpets over your burnt-offerings..." Similarly in . "The beginning of the month" meant the appearance of a new moon, and in . "This month is to you".
+, a stone (2.43×1 m) with Hebrew inscription "To the Trumpeting Place" is believed to be a part of the Second Temple.]] The Tanakh contains several commandments related to the keeping of the calendar and the lunar cycle, and records changes that have taken place to the Hebrew calendar. stresses the importance in Israelite religious observance of the new month (Hebrew: , Rosh Chodesh, "beginning of the month"): "... in your new moons, ye shall blow with the trumpets over your burnt-offerings..." Similarly in . "The beginning of the month" meant the appearance of a new moon, and in . "This month is to you".
 
 According to the _Mishnah_ and Tosefta, in the Maccabean, Herodian, and Mishnaic periods, new months were determined by the sighting of a new crescent, with two eyewitnesses required to testify to the Sanhedrin to having seen the new lunar crescent at sunset.[81] The practice in the time of Gamaliel II (c. 100 CE) was for witnesses to select the appearance of the moon from a collection of drawings that depicted the crescent in a variety of orientations, only a few of which could be valid in any given month.[82] These observations were compared against calculations.[83]
 
@@ -408,7 +406,7 @@ The mean year of the current mathematically based Hebrew calendar is 365 days 5 
 
 Implications for Jewish ritual
 
-DetailOfMedievalHebrewCalendar.jpg (Lulav), the myrtle twigs, the willow branches, and the citron (Etrog) to be held in the hand and to be brought to the synagogue during the holiday of Sukkot, which occurs in autumn.]] Although the molad of Tishrei is the only molad moment that is not ritually announced, it is actually the only one that is relevant to the Hebrew calendar, for it determines the provisional date of Rosh Hashanah, subject to the Rosh Hashanah postponement rules. The other monthly molad moments are announced for mystical reasons. With the moladot on average almost 100 minutes late, this means that the molad of Tishrei lands one day later than it ought to in (100 minutes) ÷ (1440 minutes per day) = 5 of 72 years or nearly 7% of years.
+(Lulav), the myrtle twigs, the willow branches, and the citron (Etrog) to be held in the hand and to be brought to the synagogue during the holiday of Sukkot, which occurs in autumn.]] Although the molad of Tishrei is the only molad moment that is not ritually announced, it is actually the only one that is relevant to the Hebrew calendar, for it determines the provisional date of Rosh Hashanah, subject to the Rosh Hashanah postponement rules. The other monthly molad moments are announced for mystical reasons. With the moladot on average almost 100 minutes late, this means that the molad of Tishrei lands one day later than it ought to in (100 minutes) ÷ (1440 minutes per day) = 5 of 72 years or nearly 7% of years.
 
 Therefore, the seemingly small drift of the moladot is already significant enough to affect the date of Rosh Hashanah, which then cascades to many other dates in the calendar year and sometimes, due to the Rosh Hashanah postponement rules, also interacts with the dates of the prior or next year. The molad drift could be corrected by using a progressively shorter molad interval that corresponds to the actual mean lunar conjunction interval at the original molad reference meridian. Furthermore, the molad interval determines the calendar mean year, so using a progressively shorter molad interval would help correct the excessive length of the Hebrew calendar mean year, as well as helping it to "hold onto" the northward equinox for the maximum duration.
 

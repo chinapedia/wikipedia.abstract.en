@@ -5,7 +5,7 @@ The college is named after Harvey Seeley Mudd, one of the initial investors in t
 
 Academics
 
-Hmc-dartmouth_entrance.jpg HMC offers four-year degrees in chemistry, mathematics, physics, computer science, biology, and engineering, interdisciplinary degrees in mathematical biology, and joint majors in computer science and mathematics; or in biology and chemistry. Students may also elect an Individual Program of Study (IPS) or an off-campus major offered by any of the other Claremont Colleges, provided one also completes a minor in one of the technical fields that Harvey Mudd offers as a major.[2]
+HMC offers four-year degrees in chemistry, mathematics, physics, computer science, biology, and engineering, interdisciplinary degrees in mathematical biology, and joint majors in computer science and mathematics; or in biology and chemistry. Students may also elect an Individual Program of Study (IPS) or an off-campus major offered by any of the other Claremont Colleges, provided one also completes a minor in one of the technical fields that Harvey Mudd offers as a major.[2]
 
 In 2018, the _Chronicle of Higher Education_ reported that, in response to student " complaints first to mental-health counselors and then to outside evaluators" the college was " considering how to ease pressure on students without sacrificing rigor. " [3]
 
@@ -23,7 +23,7 @@ In 2016, Harvey Mudd was for the second year in a row the most expensive college
 
 Harvey Mudd College dormitories
 
-HMC_library_view.jpg The official names for the dormitories of Harvey Mudd College are (listed in order of construction):[9]
+The official names for the dormitories of Harvey Mudd College are (listed in order of construction):[9]
 
 -   Mildred E. Mudd Hall ("East")
 -   West Hall ("West")
@@ -39,7 +39,7 @@ Until the addition of the Linde and Sontag dorms, Atwood and Case dorms were occ
 
 During the construction of Case Dorm some students decided as a prank to move all of the survey stakes exactly six inches in one direction.[11]
 
-Hmc-hixon_court.jpgSouth Dorm is in the northwest corner of the quad. "East" was the first dorm, but it wasn't until "West" was built west of it that it was actually referred to as "East". Then "North" was built, directly north of "East". When the fourth dorm (Marks) was built, there was one corner of the quad available (the northwest) and one directional name, "South", remaining.[12] To this day "South" dorm is the northernmost HMC dorm.
+South Dorm is in the northwest corner of the quad. "East" was the first dorm, but it wasn't until "West" was built west of it that it was actually referred to as "East". Then "North" was built, directly north of "East". When the fourth dorm (Marks) was built, there was one corner of the quad available (the northwest) and one directional name, "South", remaining.[12] To this day "South" dorm is the northernmost HMC dorm.
 
 The fifth, sixth, seventh, eighth, and ninth dorms built are Atwood, Case, Linde, Sontag, and Drinkward, respectively. They were initially referred to as "the colonies" by some students, a reference to the fact that they were newer and at the farthest end of the campus; these dorms are now more commonly referred to as "the outer dorms." The college had initially purchased an apartment building adjacent to the newer dorms to house additional students, but it was demolished to make room for Sontag.
 
@@ -53,7 +53,7 @@ A student-led organization, "Increasing Harvey Mudd's Traditional Practices" (IH
 
 Athletics
 
-Axelrod_pool.jpg Athletes from Harvey Mudd compete alongside athletes from Claremont McKenna College and Scripps College as the Claremont-Mudd-Scripps Stags and Athenas.[15] The teams participate in NCAA Division III in the Southern California Intercollegiate Athletic Conference. The mascot for the men's teams is Stanley the Stag, and the women's teams are the Athenas. Their colors are cardinal and gold.
+Athletes from Harvey Mudd compete alongside athletes from Claremont McKenna College and Scripps College as the Claremont-Mudd-Scripps Stags and Athenas.[15] The teams participate in NCAA Division III in the Southern California Intercollegiate Athletic Conference. The mascot for the men's teams is Stanley the Stag, and the women's teams are the Athenas. Their colors are cardinal and gold.
 
 Athletics history
 
@@ -110,7 +110,7 @@ The other sports combination of the Claremont Colleges, and CMS' primary rival, 
 
 Architecture
 
-sprague.jpg The original buildings of campus, designed by Edward Durell Stone and completed in 1955, features "knobbly concrete squares that students of Harvey Mudd affectionately call “warts” and use as hooks for skateboards."[19] The school's unofficial mascot "Wally Wart" is an anthropomorphic concrete wart.[20]
+The original buildings of campus, designed by Edward Durell Stone and completed in 1955, features "knobbly concrete squares that students of Harvey Mudd affectionately call “warts” and use as hooks for skateboards."[19] The school's unofficial mascot "Wally Wart" is an anthropomorphic concrete wart.[20]
 
 In 2013, _Travel and Leisure_ named the college as one of "America's ugliest college campuses" and noted that while Stone regarded his design as a "Modernist masterpiece" the result was "layering drab, slab-sided buildings with Beaux-Arts decoration."[21]
 

@@ -1,4 +1,4 @@
-Hank_Aaron_1960.png, the all-time leader in total bases]] In baseball statistics, total bases (TB) is the number of bases a player has gained with hits. It is a weighted sum for which the weight value is 1 for a single, 2 for a double, 3 for a triple and 4 for a home run. Only bases attained from hits count toward this total. Reaching base by other means (such as a base on balls) or advancing further after the hit (such as when a subsequent batter gets a hit) does not increase the player's total bases.
+, the all-time leader in total bases]] In baseball statistics, total bases (TB) is the number of bases a player has gained with hits. It is a weighted sum for which the weight value is 1 for a single, 2 for a double, 3 for a triple and 4 for a home run. Only bases attained from hits count toward this total. Reaching base by other means (such as a base on balls) or advancing further after the hit (such as when a subsequent batter gets a hit) does not increase the player's total bases.
 
 The total bases divided by the number of at bats is the player's slugging average.
 
@@ -21,8 +21,6 @@ Key
 
 
 List
-
-Pujols_facing.JPG
 
 -   Stats updated as of July 18, 2019.
 

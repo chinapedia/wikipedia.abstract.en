@@ -11,7 +11,7 @@ The name was Latinized as _Arula_/_Arola_/_Araris_.[7]
 
 Course
 
-Aletschgebiet_aus_dem_Flugzeug.jpg]] Ausgang_Aareschlucht.jpg]] Aareschlucht_166_7.jpg
+]] ]]
 
 The Aare rises in the great Aargletschers (Aare Glaciers) of the Bernese Alps, in the canton of Bern and west of the Grimsel Pass.[8] The Finsteraargletscher and Lauteraargletscher come together to form the Unteraargletscher (Lower Aar Glacier), which is the main source of water for the Grimselsee (Lake of Grimsel).[9][10] The Oberaargletscher (Upper Aar Glacier) feeds the Oberaarsee, which also flows into the Grimselsee.[11] The Aare leaves the Grimselsee just to the east to the Grimsel Hospiz, below the Grimsel Pass, and then flows northwest through the Haslital, forming on the way the magnificent Handegg Waterfall, , past Guttannen.
 
@@ -24,7 +24,7 @@ From here the Aare flows northeast for a long distance, past the ambassador town
 
 Tributaries
 
-Aare_-_Limmat_(Limmatspitz)_IMG_6765.jpg Bern_2.jpg]] London2007zurich_img_5743.jpg
+]]
 
 -   Limmat (after and northeast of Brugg, and northwest of Baden)
     -   Reppisch

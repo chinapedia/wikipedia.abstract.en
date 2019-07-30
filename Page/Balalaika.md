@@ -12,10 +12,6 @@ The earliest mention of the term _balalaika_ dates back to a 1688 Russian docume
 
 Types
 
-Isfl_secunda_balalaika.png
-
-Contrabassbalalaika.jpg
-
 The most common solo instrument is the prima, which is tuned E₄–E₄–A₄ (thus the two lower strings are tuned to the same pitch). Sometimes the balalaika is tuned "guitar style" by folk musicians to G₃–B₃–D₄ (mimicking the three highest strings of the Russian guitar), whereby it is easier to play for Russian guitar players, although classically trained balalaika purists avoid this tuning. It can also be tuned to E₄–A₄–D₅, like its cousin, the domra, to make it easier for those trained on the domra to play the instrument, and still have a balalaika sound.[4] The folk (pre-Andreev) tunings D₄–F₄–A₄ and C₄–E₄–G₄ were very popular, as this makes it easier to play certain riffs.[5]
 
 The balalaika has been made the following sizes:[6]
@@ -41,8 +37,6 @@ Because of the large size of the contrabass's strings, it is not uncommon to see
 
 History
 
-Stamp-russia2014-musical-instruments-block.png
-
 Some theories say that it descended from the domra, an instrument from the East Slavs. It is also similar to the Kazakh dombra, which has two strings, and the Mongolian topshur. Findeizen, Nikolai. _History of Music in Russia from Antiquity to 1800._ Ed. Miloš Velimirović
 
 and Claudia Jensen. Vol. 1. Bloomington, IN: Indiana UP, 2008. P. 172.
@@ -51,7 +45,7 @@ The pre-Andreyev period
 
 Early representations of the balalaika show it with anywhere from two to six strings, which resembles certain Central Asian instruments. Similarly, frets on earlier balalaikas were made of animal gut and tied to the neck so that they could be moved around by the player at will (as is the case with the modern saz, which allows for the playing distinctive to Turkish and Central Asian music).
 
-The first known document mentioning the instrument dates back to 1688. A guard's logbook from the Moscow Kremlin records that two commoners were stopped from playing the Balalika whilst drunk.[10] Further documents from 1700 and 1714 also mention the instrument. In the early 18th century the term appeared in Ukrainian documents, where it sounded like "Balabaika". Balalaika appeared in "Elysei", a 1771 poem by V. Maikov.[11] In the 19th century, the balalaika evolved into a triangular instrument with a neck that was substantially shorter than that of its Asian counterparts. It was popular as a village instrument for centuries, particularly with the _skomorokhs_, sort of free-lance musical jesters whose tunes ridiculed the Tsar, the Russian Orthodox Church, and Russian society in general.[12] Balalaïka_"Москва_80".jpg in Moscow]]
+The first known document mentioning the instrument dates back to 1688. A guard's logbook from the Moscow Kremlin records that two commoners were stopped from playing the Balalika whilst drunk.[10] Further documents from 1700 and 1714 also mention the instrument. In the early 18th century the term appeared in Ukrainian documents, where it sounded like "Balabaika". Balalaika appeared in "Elysei", a 1771 poem by V. Maikov.[11] In the 19th century, the balalaika evolved into a triangular instrument with a neck that was substantially shorter than that of its Asian counterparts. It was popular as a village instrument for centuries, particularly with the _skomorokhs_, sort of free-lance musical jesters whose tunes ridiculed the Tsar, the Russian Orthodox Church, and Russian society in general.[12] in Moscow]]
 
 The Andreyev period
 
@@ -59,8 +53,6 @@ In the 1880s, Vasily Vasilievich Andreyev, who was then a professional violinist
 
 
 Balalaika orchestra
-
-Balalaika.jpg
 
 The end result of Andreyev's labours was the establishment of an orchestral folk tradition in Tsarist Russia, which later grew into a movement within the Soviet Union.Smith, Susannah L. "Folk Music." Encyclopedia of Russian History. Ed. James R. Millar.
 
@@ -70,7 +62,7 @@ With the establishment of the Soviet system and the entrenchment of a proletaria
 
 p. 495.
 
-Петров_Смотрины-невесты_1861.jpg in 1861. The scene portrays the old Russian tradition of the bride-show while a balalaika is played.]]
+in 1861. The scene portrays the old Russian tradition of the bride-show while a balalaika is played.]]
 
 
 Solo instrument
@@ -80,7 +72,7 @@ Often musicians perform solo on the balalaika. In particular, Alexey Arkhipovsky
 
 In popular culture
 
-Imperial_Russian_Balilika_Court_Orchestra.jpg]]
+]]
 
 Through the 20th century, interest in Russian folk instruments grew outside of Russia, likely as a result of western tours by Andreyev and other balalaika virtuosi early in the century. Significant balalaika associations are found in Washington, D.C.,[16] Los Angeles,[17] New York,[18] Atlanta[19] and Seattle.[20]
 

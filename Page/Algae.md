@@ -20,7 +20,7 @@ Accordingly, the modern study of marine and freshwater algae is called either ph
 
 Classification
 
-Gephyrocapsa_oceanica_color.jpg of the unicellular coccolithophore _Gephyrocapsa oceanica_]]
+of the unicellular coccolithophore _Gephyrocapsa oceanica_]]
 
 The algae contain chloroplasts that are similar in structure to cyanobacteria. Chloroplasts contain circular DNA like that in cyanobacteria and are interpreted as representing reduced endosymbiotic cyanobacteria. However, the exact origin of the chloroplasts is different among separate lineages of algae, reflecting their acquisition during different endosymbiotic events. The table below describes the composition of the three major groups of algae. Their lineage relationships are shown in the figure in the upper right. Many of these groups contain some members that are no longer photosynthetic. Some retain plastids, but not chloroplasts, while others have lost plastids entirely.
 
@@ -46,7 +46,7 @@ Phylogeny based on plastid[16] not nucleocytoplasmic genealogy:
 |                         |                         |               | The typical dinoflagellate chloroplast has three membranes, but considerable diversity exists in chloroplasts within the group, and a number of endosymbiotic events apparently occurred.[22] The Apicomplexa, a group of closely related parasites, also have plastids called apicoplasts, which are not photosynthetic, but appear to have a common origin with dinoflagellate chloroplasts.[23]                                                                                                                                                                                                |
 +-------------------------+-------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Gmelin_-_Historia_Fucorum_(Titelblatt).png _Historia Fucorum_, dated 1768]]
+_Historia Fucorum_, dated 1768]]
 
 Linnaeus, in _Species Plantarum_ (1753),[24] the starting point for modern botanical nomenclature, recognized 14 genera of algae, of which only four are currently considered among algae.[25] In _Systema Naturae_, Linnaeus described the genera _Volvox_ and _Corallina_, and a species of _Acetabularia_ (as _Madrepora_), among the animals.
 
@@ -72,7 +72,7 @@ The first land plants probably evolved from shallow freshwater charophyte algae 
 
 Morphology
 
-Kelp-forest-Monterey.jpg exhibit at the Monterey Bay Aquarium: A three-dimensional, multicellular thallus]]
+exhibit at the Monterey Bay Aquarium: A three-dimensional, multicellular thallus]]
 
 A range of algal morphologies is exhibited, and convergence of features in unrelated groups is common. The only groups to exhibit three-dimensional multicellular thalli are the reds and browns, and some chlorophytes.[38] Apical growth is constrained to subsets of these groups: the florideophyte reds, various browns, and the charophytes.[39] The form of charophytes is quite different from those of reds and browns, because they have distinct nodes, separated by internode 'stems'; whorls of branches reminiscent of the horsetails occur at the nodes.[40] Conceptacles are another polyphyletic trait; they appear in the coralline algae and the Hildenbrandiales, as well as the browns.[41]
 
@@ -101,13 +101,13 @@ Some species of algae form symbiotic relationships with other organisms. In thes
 
 Lichens
 
-Lichens_near_Clogher_Head_(stevefe).jpg Lichens are defined by the International Association for Lichenology to be "an association of a fungus and a photosynthetic symbiont resulting in a stable vegetative body having a specific structure."[48] The fungi, or mycobionts, are mainly from the Ascomycota with a few from the Basidiomycota. In nature they do not occur separate from lichens. It is unknown when they began to associate.[49] One mycobiont associates with the same phycobiont species, rarely two, from the green algae, except that alternatively, the mycobiont may associate with a species of cyanobacteria (hence "photobiont" is the more accurate term). A photobiont may be associated with many different mycobionts or may live independently; accordingly, lichens are named and classified as fungal species.[50] The association is termed a morphogenesis because the lichen has a form and capabilities not possessed by the symbiont species alone (they can be experimentally isolated). The photobiont possibly triggers otherwise latent genes in the mycobiont.[51]
+Lichens are defined by the International Association for Lichenology to be "an association of a fungus and a photosynthetic symbiont resulting in a stable vegetative body having a specific structure."[48] The fungi, or mycobionts, are mainly from the Ascomycota with a few from the Basidiomycota. In nature they do not occur separate from lichens. It is unknown when they began to associate.[49] One mycobiont associates with the same phycobiont species, rarely two, from the green algae, except that alternatively, the mycobiont may associate with a species of cyanobacteria (hence "photobiont" is the more accurate term). A photobiont may be associated with many different mycobionts or may live independently; accordingly, lichens are named and classified as fungal species.[50] The association is termed a morphogenesis because the lichen has a form and capabilities not possessed by the symbiont species alone (they can be experimentally isolated). The photobiont possibly triggers otherwise latent genes in the mycobiont.[51]
 
 Trentepohlia is an example of a common green alga genus worldwide that can grow on its own or be lichenised. Lichen thus share some of the habitat and often similar appearance with specialized species of algae (_aerophytes_) growing on exposed surfaces such as tree trunks and rocks and sometimes discoloring them.
 
 Coral reefs
 
-Coral_Reef.jpg Coral reefs are accumulated from the calcareous exoskeletons of marine invertebrates of the order Scleractinia (stony corals). These animals metabolize sugar and oxygen to obtain energy for their cell-building processes, including secretion of the exoskeleton, with water and carbon dioxide as byproducts. Dinoflagellates (algal protists) are often endosymbionts in the cells of the coral-forming marine invertebrates, where they accelerate host-cell metabolism by generating sugar and oxygen immediately available through photosynthesis using incident light and the carbon dioxide produced by the host. Reef-building stony corals (hermatypic corals) require endosymbiotic algae from the genus _Symbiodinium_ to be in a healthy condition.[52] The loss of _Symbiodinium_ from the host is known as coral bleaching, a condition which leads to the deterioration of a reef.
+Coral reefs are accumulated from the calcareous exoskeletons of marine invertebrates of the order Scleractinia (stony corals). These animals metabolize sugar and oxygen to obtain energy for their cell-building processes, including secretion of the exoskeleton, with water and carbon dioxide as byproducts. Dinoflagellates (algal protists) are often endosymbionts in the cells of the coral-forming marine invertebrates, where they accelerate host-cell metabolism by generating sugar and oxygen immediately available through photosynthesis using incident light and the carbon dioxide produced by the host. Reef-building stony corals (hermatypic corals) require endosymbiotic algae from the genus _Symbiodinium_ to be in a healthy condition.[52] The loss of _Symbiodinium_ from the host is known as coral bleaching, a condition which leads to the deterioration of a reef.
 
 Sea sponges
 
@@ -121,7 +121,7 @@ Rhodophyta, Chlorophyta, and Heterokontophyta, the three main algal divisions, h
 
 Numbers
 
-Taiwan_2009_East_Coast_ShihTiPing_Giant_Stone_Steps_Algae_FRD_6581.jpg in Taiwan]] The _Algal Collection of the US National Herbarium_ (located in the National Museum of Natural History) consists of approximately 320,500 dried specimens, which, although not exhaustive (no exhaustive collection exists), gives an idea of the order of magnitude of the number of algal species (that number remains unknown).[58] Estimates vary widely. For example, according to one standard textbook,[59] in the British Isles the _UK Biodiversity Steering Group Report_ estimated there to be 20,000 algal species in the UK. Another checklist reports only about 5,000 species. Regarding the difference of about 15,000 species, the text concludes: "It will require many detailed field surveys before it is possible to provide a reliable estimate of the total number of species ..."
+in Taiwan]] The _Algal Collection of the US National Herbarium_ (located in the National Museum of Natural History) consists of approximately 320,500 dried specimens, which, although not exhaustive (no exhaustive collection exists), gives an idea of the order of magnitude of the number of algal species (that number remains unknown).[58] Estimates vary widely. For example, according to one standard textbook,[59] in the British Isles the _UK Biodiversity Steering Group Report_ estimated there to be 20,000 algal species in the UK. Another checklist reports only about 5,000 species. Regarding the difference of about 15,000 species, the text concludes: "It will require many detailed field surveys before it is possible to provide a reliable estimate of the total number of species ..."
 
 Regional and group estimates have been made, as well:
 
@@ -149,7 +149,7 @@ Mapping is possible for select species only: "there are many valid examples of c
 
 Ecology
 
-Phytoplankton_Lake_Chuzenji.jpg]] Algae are prominent in bodies of water, common in terrestrial environments, and are found in unusual environments, such as on snow and ice. Seaweeds grow mostly in shallow marine waters, under deep; however, some such as Navicula pennata have been recorded to a depth of .[74]
+]] Algae are prominent in bodies of water, common in terrestrial environments, and are found in unusual environments, such as on snow and ice. Seaweeds grow mostly in shallow marine waters, under deep; however, some such as Navicula pennata have been recorded to a depth of .[74]
 
 The various sorts of algae play significant roles in aquatic ecology. Microscopic forms that live suspended in the water column (phytoplankton) provide the food base for most marine food chains. In very high densities (algal blooms), these algae may discolor the water and outcompete, poison, or asphyxiate other life forms.
 
@@ -164,8 +164,6 @@ In classical Chinese, the word is used both for "algae" and (in the modest tradi
 
 
 Uses
-
-Algae_Harvester.jpg
 
 Agar
 
@@ -183,7 +181,7 @@ To be competitive and independent from fluctuating support from (local) policy o
 
 Fertilizer
 
-Inisheer_landscape.jpg]] For centuries, seaweed has been used as a fertilizer; George Owen of Henllys writing in the 16th century referring to drift weed in South Wales:[87]
+]] For centuries, seaweed has been used as a fertilizer; George Owen of Henllys writing in the 16th century referring to drift weed in South Wales:[87]
 
   This kind of ore they often gather and lay on great heapes, where it heteth and rotteth, and will have a strong and loathsome smell; when being so rotten they cast on the land, as they do their muck, and thereof springeth good corn, especially barley ... After spring-tydes or great rigs of the sea, they fetch it in sacks on horse backes, and carie the same three, four, or five miles, and cast it on the lande, which doth very much better the ground for corn and grass.
 
@@ -191,7 +189,7 @@ Today, algae are used by humans in many ways; for example, as fertilizers, soil 
 
 Nutrition
 
-Dulse.JPG Naturally growing seaweeds are an important source of food, especially in Asia. They provide many vitamins including: A, B₁, B₂, B₆, niacin, and C, and are rich in iodine, potassium, iron, magnesium, and calcium.[89] In addition, commercially cultivated microalgae, including both algae and cyanobacteria, are marketed as nutritional supplements, such as spirulina,[90] _Chlorella_ and the vitamin-C supplement from _Dunaliella_, high in beta-carotene.
+Naturally growing seaweeds are an important source of food, especially in Asia. They provide many vitamins including: A, B₁, B₂, B₆, niacin, and C, and are rich in iodine, potassium, iron, magnesium, and calcium.[89] In addition, commercially cultivated microalgae, including both algae and cyanobacteria, are marketed as nutritional supplements, such as spirulina,[90] _Chlorella_ and the vitamin-C supplement from _Dunaliella_, high in beta-carotene.
 
 Algae are national foods of many nations: China consumes more than 70 species, including _fat choy_, a cyanobacterium considered a vegetable; Japan, over 20 species such as _nori_ and _aonori_;[91] Ireland, dulse; Chile, cochayuyo.[92] Laver is used to make "laver bread" in Wales, where it is known as _bara lawr_; in Korea, _gim_. It is also used along the west coast of North America from California to British Columbia, in Hawaii and by the Māori of New Zealand. Sea lettuce and badderlocks are salad ingredients in Scotland, Ireland, Greenland, and Iceland. Algae is being considered a potential solution for world hunger problem.[93][94][95]
 

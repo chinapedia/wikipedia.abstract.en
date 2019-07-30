@@ -1,5 +1,3 @@
-floppy_disk_2009_G1.jpg Floppy_Disk_Drives_8_5_3.jpg Image3,5''-Diskette_removed.jpg
-
 A FLOPPY DISK, also known as a FLOPPY, DISKETTE, or simply DISK, is a type of disk storage composed of a disk of thin and flexible magnetic storage medium, sealed in a rectangular plastic enclosure lined with fabric that removes dust particles. Floppy disks are read and written by a FLOPPY DISK DRIVE (FDD).
 
 Floppy disks, initially as media[1] and later in and inch (90 mm) sizes, were a ubiquitous form of data storage and exchange from the mid-1970s into the first years of the 21st century.[2] By 2006 computers were rarely manufactured with installed floppy disk drives; -inch floppy disks can be used with an external USB floppy disk drive, but USB drives for -inch, 8-inch, and non-standard diskettes are rare to non-existent. These formats are usually handled by older equipment.
@@ -8,8 +6,6 @@ The prevalence of floppy disks in late-twentieth century culture was such that m
 
 
 History
-
-Floppy_Disk_Drive_8_inch.jpg Floppy_disc.jpg
 
 The first commercial floppy disks, developed in the late 1960s, were in diameter;[3][4] they became commercially available in 1971 as a component of IBM products and then were sold separately beginning in 1972 by Memorex and others.[5] These disks and associated drives were produced and improved upon by IBM and other companies such as Memorex, Shugart Associates, and Burroughs Corporation.[6] The term "floppy disk" appeared in print as early as 1970,[7] and although IBM announced its first media as the "Type 1 Diskette" in 1973, the industry continued to use the terms "floppy disk" or "floppy".
 
@@ -23,7 +19,7 @@ By the end of the 1980s, -inch disks had been superseded by -inch disks. During 
 
 Prevalence
 
-Usb_floppy_drive.jpgFloppy disks became commonplace during the 1980s and 1990s in their use with personal computers to distribute software, transfer data, and create backups. Before hard disks became affordable to the general population,[14] floppy disks were often used to store a computer's operating system (OS). Most home computers from that period have an elementary OS and BASIC stored in ROM, with the option of loading a more advanced operating system from a floppy disk.
+Floppy disks became commonplace during the 1980s and 1990s in their use with personal computers to distribute software, transfer data, and create backups. Before hard disks became affordable to the general population,[14] floppy disks were often used to store a computer's operating system (OS). Most home computers from that period have an elementary OS and BASIC stored in ROM, with the option of loading a more advanced operating system from a floppy disk.
 
 By the early 1990s, the increasing software size meant large packages like Windows or Adobe Photoshop required a dozen disks or more. In 1996, there were an estimated five billion standard floppy disks in use.[15] Then, distribution of larger packages was gradually replaced by CD-ROMs, DVDs and online distribution.
 
@@ -31,7 +27,7 @@ An attempt to enhance the existing -inch designs was the SuperDisk in the late 1
 
 Gradual transition to other formats
 
-Disk-cleaning-kit-front-and-rear.jpg In the mid 1990s, mechanically incompatible higher-density floppy disks were introduced, like the Iomega Zip disk. Adoption was limited by the competition between proprietary formats and the need to buy expensive drives for computers where the disks would be used. In some cases, failure in market penetration was exacerbated by the release of higher-capacity versions of the drive and media being not backward-compatible with the original drives, dividing the users between new and old adopters. Consumers were wary of making costly investments into unproven and rapidly changing technologies, so none of the technologies became the established standard.
+In the mid 1990s, mechanically incompatible higher-density floppy disks were introduced, like the Iomega Zip disk. Adoption was limited by the competition between proprietary formats and the need to buy expensive drives for computers where the disks would be used. In some cases, failure in market penetration was exacerbated by the release of higher-capacity versions of the drive and media being not backward-compatible with the original drives, dividing the users between new and old adopters. Consumers were wary of making costly investments into unproven and rapidly changing technologies, so none of the technologies became the established standard.
 
 Apple introduced the iMac in 1998 with a CD-ROM drive but no floppy drive; this made USB-connected floppy drives popular accessories, as the iMac came without any writable removable media device.
 
@@ -39,11 +35,9 @@ Recordable CDs were touted as an alternative, because of the greater capacity, c
 
 Flash-based USB-thumb drives finally were a practical and popular replacement, that supported traditional file systems and all common usage scenarios of floppy disks. As opposed to other solutions, no new drive type or special software was required that impeded adoption, since all that was necessary was an already common USB-port.
 
-Different_types_of_storage_components.jpg
-
 Use in the early 21st century
 
-Floppy_hardware_emulator.jpg, same size as a -inch drive, provides a USB interface to the user]]By 2002, most manufacturers still provided floppy disk drives as standard equipment to meet user demand for file-transfer and an emergency boot device, as well as for the general secure feeling of having the familiar device.[17] By this time, the retail cost of a floppy drive had fallen to around $20, so there was little financial incentive to omit the device from a system. Subsequently, enabled by the widespread support for USB flash drives and BIOS boot, manufacturers and retailers progressively reduced the availability of floppy disk drives as standard equipment. In February 2003, Dell, a leading computer company at the time, announced that floppy drives would no longer be pre-installed on Dell Dimension home computers, although they were still available as a selectable option and purchasable as an aftermarket OEM add-on.[18] As of January 2007, only 2% of computers sold in stores contained built-in floppy disk drives.[19]
+, same size as a -inch drive, provides a USB interface to the user]]By 2002, most manufacturers still provided floppy disk drives as standard equipment to meet user demand for file-transfer and an emergency boot device, as well as for the general secure feeling of having the familiar device.[17] By this time, the retail cost of a floppy drive had fallen to around $20, so there was little financial incentive to omit the device from a system. Subsequently, enabled by the widespread support for USB flash drives and BIOS boot, manufacturers and retailers progressively reduced the availability of floppy disk drives as standard equipment. In February 2003, Dell, a leading computer company at the time, announced that floppy drives would no longer be pre-installed on Dell Dimension home computers, although they were still available as a selectable option and purchasable as an aftermarket OEM add-on.[18] As of January 2007, only 2% of computers sold in stores contained built-in floppy disk drives.[19]
 
 Floppy disks are used for emergency boots in aging systems lacking support for other bootable media and for BIOS updates, since most BIOS and firmware programs can still be executed from bootable floppy disks. If BIOS updates fail or become corrupt, floppy drives can sometimes be used to perform a recovery. The music and theatre industries still use equipment requiring standard floppy disks (e.g. synthesizers, samplers, drum machines, sequencers, and lighting consoles). Industrial automation equipment such as programmable machinery and industrial robots may not have a USB interface; data and programs are then loaded from disks, damageable in industrial environments. This equipment may not be replaced due to cost or requirement for continuous availability; existing software emulation and virtualization do not solve this problem because a customized operating system is used that has no drivers for USB devices. Hardware floppy disk emulators can be made to interface floppy-disk controllers to a USB port that can be used for flash drives.
 
@@ -55,7 +49,7 @@ External USB floppy drives function as a USB Mass Storage Device. They require n
 
 Legacy
 
-Save_Icon_in_Open_Office.pngFor more than two decades, the floppy disk was the primary external writable storage device used. Most computing environments before the 1990s were non-networked, and floppy disks were the primary means of transferring data between computers, a method known informally as sneakernet. Unlike hard disks, floppy disks are handled and seen; even a novice user can identify a floppy disk. Because of these factors, a picture of a -inch floppy disk has become an interface metaphor for saving data. The floppy disk symbol is still used by software on user-interface elements related to saving files, such as the release of Microsoft Office 2016, even though the physical floppy disks are largely obsolete.[25]
+For more than two decades, the floppy disk was the primary external writable storage device used. Most computing environments before the 1990s were non-networked, and floppy disks were the primary means of transferring data between computers, a method known informally as sneakernet. Unlike hard disks, floppy disks are handled and seen; even a novice user can identify a floppy disk. Because of these factors, a picture of a -inch floppy disk has become an interface metaphor for saving data. The floppy disk symbol is still used by software on user-interface elements related to saving files, such as the release of Microsoft Office 2016, even though the physical floppy disks are largely obsolete.[25]
 
 
 Design
@@ -64,7 +58,7 @@ Structure
 
 8-inch and -inch disks
 
-8-inch_floppy_disk_-_IZOT,_Bulgaria_-_inside.jpg Squareholepunch2.png.]] The 8-inch and -inch floppy disks contain a magnetically coated round plastic medium with a large circular hole in the center for a drive's spindle. The medium is contained in a square plastic cover that has a small oblong opening in both sides to allow the drive's heads to read and write data and a large hole in the center to allow the magnetic medium to spin by rotating it from its middle hole.
+.]] The 8-inch and -inch floppy disks contain a magnetically coated round plastic medium with a large circular hole in the center for a drive's spindle. The medium is contained in a square plastic cover that has a small oblong opening in both sides to allow the drive's heads to read and write data and a large hole in the center to allow the magnetic medium to spin by rotating it from its middle hole.
 
 Inside the cover are two layers of fabric with the magnetic medium sandwiched in the middle. The fabric is designed to reduce friction between the medium and the outer cover, and catch particles of debris abraded off the disk to keep them from accumulating on the heads. The cover is usually a one-part sheet, double-folded with flaps glued or spot-welded together.
 
@@ -84,11 +78,11 @@ Two holes at the bottom left and right indicate whether the disk is write-protec
 
 One of the chief usability problems of the floppy disk is its vulnerability; even inside a closed plastic housing, the disk medium is highly sensitive to dust, condensation and temperature extremes. As with all magnetic storage, it is vulnerable to magnetic fields. Blank disks have been distributed with an extensive set of warnings, cautioning the user not to expose it to dangerous conditions. Rough treatment or removing the disk from the drive while the magnetic media is still spinning is likely to cause damage to the disk, drive head, or stored data. On the other hand, the ‑inch floppy has been lauded for its mechanical usability by human–computer interaction expert Donald Norman:[28]
 
-Floppy_drive_spindle_motor_open.jpg Citizen_W1D-9364_-_read_write_head-4005.jpg from a ‑inch unit]]
+from a ‑inch unit]]
 
 Operation
 
-Lecteur_de_disquette_2.jpg Visualization_of_magnetic_information_on_a_Floppy_Disk_(CMOS-MagView).jpgA spindle motor in the drive rotates the magnetic medium at a certain speed, while a stepper motor-operated mechanism moves the magnetic read/write heads radially along the surface of the disk. Both read and write operations require the media to be rotating and the head to contact the disk media, an action originally accomplished by a disk-load solenoid.[29] Later drives held the heads out of contact until a front-panel lever was rotated (-inch) or disk insertion was complete (-inch). To write data, current is sent through a coil in the head as the media rotates. The head's magnetic field aligns the magnetization of the particles directly below the head on the media. When the current is reversed the magnetization aligns in the opposite direction, encoding one bit of data. To read data, the magnetization of the particles in the media induce a tiny voltage in the head coil as they pass under it. This small signal is amplified and sent to the floppy disk controller, which converts the streams of pulses from the media into data, checks it for errors, and sends it to the host computer system.
+A spindle motor in the drive rotates the magnetic medium at a certain speed, while a stepper motor-operated mechanism moves the magnetic read/write heads radially along the surface of the disk. Both read and write operations require the media to be rotating and the head to contact the disk media, an action originally accomplished by a disk-load solenoid.[29] Later drives held the heads out of contact until a front-panel lever was rotated (-inch) or disk insertion was complete (-inch). To write data, current is sent through a coil in the head as the media rotates. The head's magnetic field aligns the magnetization of the particles directly below the head on the media. When the current is reversed the magnetization aligns in the opposite direction, encoding one bit of data. To read data, the magnetization of the particles in the media induce a tiny voltage in the head coil as they pass under it. This small signal is amplified and sent to the floppy disk controller, which converts the streams of pulses from the media into data, checks it for errors, and sends it to the host computer system.
 
 A blank unformatted diskette has a coating of magnetic oxide with no magnetic order to the particles. During formatting, the magnetizations of the particles are aligned forming tracks, each broken up into sectors, enabling the controller to properly read and write data. The tracks are concentric rings around the center, with spaces between tracks where no data is written; gaps with padding bytes are provided between the sectors and at the end of the track to allow for slight speed variations in the disk drive, and to permit better interoperability with disk drives connected to other similar systems. Each sector of data has a header that identifies the sector location on the disk. A cyclic redundancy check (CRC) is written into the sector headers and at the end of the user data so that the disk controller can detect potential errors. Some errors are soft and can be resolved by automatically re-trying the read operation; other errors are permanent and the disk controller will signal a failure to the operating system if multiple attempts to read the data still fail.
 
@@ -105,8 +99,6 @@ Different sizes of floppy disks are mechanically incompatible, and disks can fit
 
 8-inch floppy disk
 
-8-inch_floppy_disk_-_IZOT,_Bulgaria.jpg
-
 The first floppy disk was 8 inches in diameter,[30] was protected by a flexible plastic jacket and was a read-only device used by IBM as a way of loading microcode.[31] Read/write floppy disks and their drives became available in 1972 but it was IBM's 1973 introduction of the 3740 data entry system[32] that began the establishment of floppy disks, called by IBM the "DISKETTE 1", as an industry standard for information interchange. The formatted diskette for this system stored 242,944 bytes.[33] Early microcomputers used for engineering, business, or word processing often used one or more 8-inch disk drives for removable storage; the CP/M operating system was developed for microcomputers with 8-inch drives.
 
 The family of 8-inch disks and drives increased over time and later versions could store up to 1.2  MB;[34] many microcomputer applications did not need that much capacity on one disk, so a smaller size disk with lower-cost media and drives was feasible. The -inch drive succeeded the 8-inch size in many applications, and developed to about the same storage capacity as the original 8-inch size, using higher-density media and recording techniques.
@@ -118,18 +110,6 @@ The head gap of an 80‑track high-density (1.2 MB in the MFM format) ‑inch d
 Single sided disks were coated on both sides, despite the availability of more expensive double sided disks. The reason usually given for the higher cost was that double sided disks were certified error-free on both sides of the media. Double-sided disks could be used in some drives for single-sided disks, as long as an index signal was not needed. This was done one side at a time, by turning them over (flippy disks); more expensive dual-head drives which could read both sides without turning over were later produced, and eventually became used universally.
 
 -inch floppy disk
-
-Internal parts of a ‑inch floppy disk.
-1) A hole that indicates a high-capacity disk.
-2) The hub that engages with the drive motor.
-3) A shutter that protects the surface when removed from the drive.
-4) The plastic housing.
-5) A polyester sheet reducing friction against the disk media as it rotates within the housing.
-6) The magnetic coated plastic disk.
-7) A schematic representation of one sector of data on the disk; the tracks and sectors are not visible on actual disks.
-8) The write protection tab (unlabeled) in upper left.
-
-Floppy_Disk_Drive_SDF-321B.jpg
 
 In the early 1980s, a number of manufacturers introduced smaller floppy drives and media in various formats. A consortium of 21 companies eventually settled on a -inch floppy disk (actually 90 mm wide) a.k.a. MICRO DISKETTE, MICRO DISK, or MICRO FLOPPY, similar to a Sony design but improved to support both single-sided and double-sided media, with formatted capacities generally of 360 KB and 720 KB respectively. Single-sided drives shipped in 1983,[36] and double sided in 1984. What became the most common format, the double-sided, high-density (HD) 1.44 MB disk drive, shipped in 1986.
 
@@ -230,7 +210,7 @@ Floppy disk size is often referred to in inches, even in countries using metric 
 
 : Historical sequence of floppy disk formats
 
-Box_of_floppy_disks_and_USB_memory_stick.jpg Data is generally written to floppy disks in sectors (angular blocks) and tracks (concentric rings at a constant radius). For example, the HD format of -inch floppy disks uses 512 bytes per sector, 18 sectors per track, 80 tracks per side and two sides, for a total of 1,474,560 bytes per disk.[77] Some disk controllers can vary these parameters at the user's request, increasing storage on the disk, although they may not be able to be read on machines with other controllers. For example, Microsoft applications were often distributed on -inch 1.68 MB DMF disks formatted with 21 sectors instead of 18; they could still be recognized by a standard controller. On the IBM PC, MSX and most other microcomputer platforms, disks were written using a constant angular velocity (CAV) format,[78] with the disk spinning at a constant speed and the sectors holding the same amount of information on each track regardless of radial location.
+Data is generally written to floppy disks in sectors (angular blocks) and tracks (concentric rings at a constant radius). For example, the HD format of -inch floppy disks uses 512 bytes per sector, 18 sectors per track, 80 tracks per side and two sides, for a total of 1,474,560 bytes per disk.[77] Some disk controllers can vary these parameters at the user's request, increasing storage on the disk, although they may not be able to be read on machines with other controllers. For example, Microsoft applications were often distributed on -inch 1.68 MB DMF disks formatted with 21 sectors instead of 18; they could still be recognized by a standard controller. On the IBM PC, MSX and most other microcomputer platforms, disks were written using a constant angular velocity (CAV) format,[78] with the disk spinning at a constant speed and the sectors holding the same amount of information on each track regardless of radial location.
 
 Because the sectors have constant angular size, the 512 bytes in each sector are compressed more near the disk's center. A more space-efficient technique would be to increase the number of sectors per track toward the outer edge of the disk, from 18 to 30 for instance, thereby keeping nearly constant the amount of physical disk space used for storing each sector; an example is zone bit recording. Apple implemented this in early Macintosh computers by spinning the disk more slowly when the head was at the edge, while maintaining the data rate, allowing 400 KB of storage per side and an extra 80 KB on a double-sided disk.[79] This higher capacity came with a disadvantage: the format used a unique drive mechanism and control circuitry, meaning that Mac disks could not be read on other computers. Apple eventually reverted to constant angular velocity on HD floppy disks with their later machines, still unique to Apple as they supported the older variable-speed formats.
 

@@ -5,7 +5,7 @@ While there is more than one tradition that calls itself Dianic,[4] the best kno
 
 Beliefs and practices
 
-Diana_with_a_Stag_and_a_Dog_LACMA_M.78.77.jpg Dianic Wiccans of the Budapest lineage worship the Goddess, who they see as containing all goddesses, from all cultures; she is seen as the source of all living things and containing all that is within her.[11] Dianic covens practice magic in the form of mediation and visualization in addition to spell work. They focus especially on healing themselves from the wounds of the patriarchy while affirming their own womanhood.
+Dianic Wiccans of the Budapest lineage worship the Goddess, who they see as containing all goddesses, from all cultures; she is seen as the source of all living things and containing all that is within her.[11] Dianic covens practice magic in the form of mediation and visualization in addition to spell work. They focus especially on healing themselves from the wounds of the patriarchy while affirming their own womanhood.
 
 Rituals can include reenacting religious and spiritual lore from a female-centered standpoint, celebrating the female body, and mourning society's abuses of women.[12] The practice of magic is rooted in the belief that energy or 'life force' can be directed to enact change.[13] However it is important to note that rituals are often improvised to suit individual or group needs and vary from coven to coven.[14] Some Dianic Wiccans eschew manipulative spellwork and hexing because it goes against the Wiccan Rede. However, many other Dianic witches (notably Budapest) do not consider hexing or binding of those who attack women to be wrong, and actively encourage the binding of rapists.[15]
 
@@ -24,7 +24,7 @@ Dianic Wicca developed from the Women's Liberation Movement and covens tradition
 
 History
 
-Triple-Goddess_Wiccan_Symbol_(modified).png Aradia, or The Gospel of the Witches claims that ancient Diana, Aphrodite, Aradia, and Herodius cults linked to the Sacred Mysteries are the origin of the all-female coven and many witch myths as we know them. Dianic Wicca began on the Winter Solstice of 1971, when Budapest led a ceremony in Hollywood, California.[28][29] Self-identifying as a "hereditary witch,"[30][31] and claiming to have learned folk magic from her mother,[32][33] Budapest is frequently considered the mother of modern Dianic Wiccan tradition.[34] Dianic Wicca itself is named after the Roman goddess of the same name.[35]
+Aradia, or The Gospel of the Witches claims that ancient Diana, Aphrodite, Aradia, and Herodius cults linked to the Sacred Mysteries are the origin of the all-female coven and many witch myths as we know them. Dianic Wicca began on the Winter Solstice of 1971, when Budapest led a ceremony in Hollywood, California.[28][29] Self-identifying as a "hereditary witch,"[30][31] and claiming to have learned folk magic from her mother,[32][33] Budapest is frequently considered the mother of modern Dianic Wiccan tradition.[34] Dianic Wicca itself is named after the Roman goddess of the same name.[35]
 
 
 Denominations and related traditions

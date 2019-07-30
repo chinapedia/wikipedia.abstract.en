@@ -1,4 +1,4 @@
-Origins_of_acid_rain.svg Cloud_formation_from_refinery_in_Curacao.jpg.]]
+.]]
 
 ACID RAIN is a rain or any other form of precipitation that is unusually acidic, meaning that it has elevated levels of hydrogen ions (low pH). It can have harmful effects on plants, aquatic animals and infrastructure. Acid rain is caused by emissions of sulfur dioxide and nitrogen oxide, which react with the water molecules in the atmosphere to produce acids. Some governments have made efforts since the 1970s to reduce the release of sulfur dioxide and nitrogen oxide into the atmosphere with positive results. Nitrogen oxides can also be produced naturally by lightning strikes, and sulfur dioxide is produced by volcanic eruptions. Acid rain has been shown to have adverse impacts on forests, freshwaters and soils, killing insect and aquatic life-forms, causing paint to peel, corrosion of steel structures such as bridges, and weathering of stone buildings and statues as well as having impacts on human health.
 
@@ -28,7 +28,7 @@ The problem of acid rain has not only increased with population and industrial g
 
 In the United States
 
-Bixi_stele_(wrapped),_Harvard_University,_Cambridge,_MA_-_IMG_4607.JPG wraps some of the bronze and marble statues on its campus, such as this "Chinese stele", with waterproof covers every winter, in order to protect them from corrosion caused by acid rain and acid snow[17]]] The earliest report about acid rain in the United States was from the chemical evidence from Hubbard Brook Valley. In 1972, a group of scientists including Gene Likens discovered the rain that was deposited at White Mountains of New Hampshire was acidic. The pH of the sample was measured to be 4.03 at Hubbard Brook.[18] The Hubbard Brook Ecosystem Study followed up with a series of research that analyzed the environmental effects of acid rain. Acid rain that mixed with stream water at Hubbard Brook was neutralized by the alumina from soils.[19] The result of this research indicates the chemical reaction between acid rain and aluminum leads to increasing rate of soil weathering. Experimental research was done to examine the effects of increased acidity in stream on ecological species. In 1980, a group of scientists modified the acidity of Norris Brook, New Hampshire, and observed the change in species' behaviors. There was a decrease in species diversity, an increase in community dominants, and a decrease in the food web complexity.[20]
+wraps some of the bronze and marble statues on its campus, such as this "Chinese stele", with waterproof covers every winter, in order to protect them from corrosion caused by acid rain and acid snow[17]]] The earliest report about acid rain in the United States was from the chemical evidence from Hubbard Brook Valley. In 1972, a group of scientists including Gene Likens discovered the rain that was deposited at White Mountains of New Hampshire was acidic. The pH of the sample was measured to be 4.03 at Hubbard Brook.[18] The Hubbard Brook Ecosystem Study followed up with a series of research that analyzed the environmental effects of acid rain. Acid rain that mixed with stream water at Hubbard Brook was neutralized by the alumina from soils.[19] The result of this research indicates the chemical reaction between acid rain and aluminum leads to increasing rate of soil weathering. Experimental research was done to examine the effects of increased acidity in stream on ecological species. In 1980, a group of scientists modified the acidity of Norris Brook, New Hampshire, and observed the change in species' behaviors. There was a decrease in species diversity, an increase in community dominants, and a decrease in the food web complexity.[20]
 
 In 1980, the US Congress passed an Acid Deposition Act.[21] This Act established an 18-year assessment and research program under the direction of the National Acidic Precipitation Assessment Program (NAPAP). NAPAP looked at the entire problem from a scientific perspective. It enlarged a network of monitoring sites to determine how acidic the precipitation actually was, and to determine long-term trends, and established a network for dry deposition. It looked at the effects of acid rain and funded research on the effects of acid precipitation on freshwater and terrestrial ecosystems, historical buildings, monuments, and building materials. It also funded extensive studies on atmospheric processes and potential control programs.
 
@@ -67,7 +67,7 @@ Soils of coniferous forests are naturally very acidic due to the shedding of nee
 
 Human activity
 
-Gavin_Power_Plant.jpg in Cheshire, Ohio]] The principal cause of acid rain is sulfur and nitrogen compounds from human sources, such as electricity generation, factories, and motor vehicles. Electrical power generation using coal is among the greatest contributors to gaseous pollution responsible for acidic rain. The gases can be carried hundreds of kilometers in the atmosphere before they are converted to acids and deposited. In the past, factories had short funnels to let out smoke but this caused many problems locally; thus, factories now have taller smoke funnels. However, dispersal from these taller stacks causes pollutants to be carried farther, causing widespread ecological damage.
+in Cheshire, Ohio]] The principal cause of acid rain is sulfur and nitrogen compounds from human sources, such as electricity generation, factories, and motor vehicles. Electrical power generation using coal is among the greatest contributors to gaseous pollution responsible for acidic rain. The gases can be carried hundreds of kilometers in the atmosphere before they are converted to acids and deposited. In the past, factories had short funnels to let out smoke but this caused many problems locally; thus, factories now have taller smoke funnels. However, dispersal from these taller stacks causes pollutants to be carried farther, causing widespread ecological damage.
 
 
 Chemical processes
@@ -88,7 +88,7 @@ In the presence of water, sulfur trioxide (SO₃) is converted rapidly to sulfur
 
     SO₃ (g) + H₂O (l) → H₂SO₄ (aq)
 
-Nitrogen dioxide reacts with OH to form nitric acid: Air_Pollution-Causes&Effects.svg
+Nitrogen dioxide reacts with OH to form nitric acid:
 
     NO₂ + OH· → HNO₃
 
@@ -126,7 +126,7 @@ Acid rain has been shown to have adverse impacts on forests, freshwaters and soi
 
 Surface waters and aquatic animals
 
-Waterspecies.gif Both the lower pH and higher aluminium concentrations in surface water that occur as a result of acid rain can cause damage to fish and other aquatic animals. At pH lower than 5 most fish eggs will not hatch and lower pH can kill adult fish. As lakes and rivers become more acidic biodiversity is reduced. Acid rain has eliminated insect life and some fish species, including the brook trout in some lakes, streams, and creeks in geographically sensitive areas, such as the Adirondack Mountains of the United States.[53] However, the extent to which acid rain contributes directly or indirectly via runoff from the catchment to lake and river acidity (i.e., depending on characteristics of the surrounding watershed) is variable. The United States Environmental Protection Agency's (EPA) website states: "Of the lakes and streams surveyed, acid rain caused acidity in 75% of the acidic lakes and about 50% of the acidic streams".[54] Lakes hosted by silicate basement rocks are more acidic than lakes within limestone or other basement rocks with a carbonate composition (i.e. marble) due to buffering effects by carbonate minerals, even with the same amount of acid rain.[55]
+Both the lower pH and higher aluminium concentrations in surface water that occur as a result of acid rain can cause damage to fish and other aquatic animals. At pH lower than 5 most fish eggs will not hatch and lower pH can kill adult fish. As lakes and rivers become more acidic biodiversity is reduced. Acid rain has eliminated insect life and some fish species, including the brook trout in some lakes, streams, and creeks in geographically sensitive areas, such as the Adirondack Mountains of the United States.[53] However, the extent to which acid rain contributes directly or indirectly via runoff from the catchment to lake and river acidity (i.e., depending on characteristics of the surrounding watershed) is variable. The United States Environmental Protection Agency's (EPA) website states: "Of the lakes and streams surveyed, acid rain caused acidity in 75% of the acidic lakes and about 50% of the acidic streams".[54] Lakes hosted by silicate basement rocks are more acidic than lakes within limestone or other basement rocks with a carbonate composition (i.e. marble) due to buffering effects by carbonate minerals, even with the same amount of acid rain.[55]
 
 Soils
 
@@ -138,7 +138,7 @@ Soil chemistry can be dramatically changed when base cations, such as calcium an
 
 Forests and other vegetation
 
-Acid_rain_woods1.JPG in Europe.]] Adverse effects may be indirectly related to acid rain, like the acid's effects on soil (see above) or high concentration of gaseous precursors to acid rain. High altitude forests are especially vulnerable as they are often surrounded by clouds and fog which are more acidic than rain.
+in Europe.]] Adverse effects may be indirectly related to acid rain, like the acid's effects on soil (see above) or high concentration of gaseous precursors to acid rain. High altitude forests are especially vulnerable as they are often surrounded by clouds and fog which are more acidic than rain.
 
 Other plants can also be damaged by acid rain, but the effect on food crops is minimized by the application of lime and fertilizers to replace lost nutrients. In cultivated areas, limestone may also be added to increase the ability of the soil to keep the pH stable, but this tactic is largely unusable in the case of wilderness lands. When calcium is leached from the needles of red spruce, these trees become less cold tolerant and exhibit winter injury and even death.[60][61]
 
@@ -154,7 +154,7 @@ Acid rain does not directly affect human health. The acid in the rainwater is to
 
 Other adverse effects
 
-Effect of acid rain on statues Acid rain and weathering Acid rain can damage buildings, historic monuments, and statues, especially those made of rocks, such as limestone and marble, that contain large amounts of calcium carbonate. Acids in the rain react with the calcium compounds in the stones to create gypsum, which then flakes off.
+Acid rain can damage buildings, historic monuments, and statues, especially those made of rocks, such as limestone and marble, that contain large amounts of calcium carbonate. Acids in the rain react with the calcium compounds in the stones to create gypsum, which then flakes off.
 
     CaCO₃ (s) + H₂SO₄ (aq) CaSO₄ (s) + CO₂ (g) + H₂O (l)
 

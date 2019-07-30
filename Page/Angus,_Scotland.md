@@ -28,7 +28,7 @@ Angus is marketed as the birthplace of Scotland. The signing of the Declaration 
 
 Geography
 
-Craigowl_hill.jpg, highest of the Sidlaws, in southern Angus]] Angus can be split into three geographic areas. To the north and west, the topography is mountainous. This is the area of the Grampian Mountains, Mounth hills and Five Glens of Angus, which is sparsely populated and where the main industry is hill farming. Glas Maol - the highest point in Angus at 1,068 m (3,504 ft) - can be found here, on the tripoint boundary with Perthshire and Aberdeenshire. To the south and east the topography consists of rolling hills (such as the Sidlaws) bordering the sea; this area is well populated, with the larger towns. In between lies Strathmore (_the Great Valley_), which is a fertile agricultural area noted for the growing of potatoes, soft fruit and the raising of Angus cattle. Montrose in the north east of the county is notable for its tidal basin. Angus's coast is fairly regular, the most prominent features being the headlands of Scurdie Ness and Buddon Ness. The main bodies of water in the county are Loch Lee, Loch Brandy, Carlochy, Loch Wharral, Den of Ogil Reservoir, Loch of Forfar, Loch Fithie, Rescobie Loch, Balgavies Loch, Crombie Reservoir, Monikie Reservoirs, Long Loch, Lundie Loch, Loch of Kinnordy, Loch of Lintrathen, Backwater Reservoir, Auchintaple Loch, Loch Shandra and Loch Esk.
+, highest of the Sidlaws, in southern Angus]] Angus can be split into three geographic areas. To the north and west, the topography is mountainous. This is the area of the Grampian Mountains, Mounth hills and Five Glens of Angus, which is sparsely populated and where the main industry is hill farming. Glas Maol - the highest point in Angus at 1,068 m (3,504 ft) - can be found here, on the tripoint boundary with Perthshire and Aberdeenshire. To the south and east the topography consists of rolling hills (such as the Sidlaws) bordering the sea; this area is well populated, with the larger towns. In between lies Strathmore (_the Great Valley_), which is a fertile agricultural area noted for the growing of potatoes, soft fruit and the raising of Angus cattle. Montrose in the north east of the county is notable for its tidal basin. Angus's coast is fairly regular, the most prominent features being the headlands of Scurdie Ness and Buddon Ness. The main bodies of water in the county are Loch Lee, Loch Brandy, Carlochy, Loch Wharral, Den of Ogil Reservoir, Loch of Forfar, Loch Fithie, Rescobie Loch, Balgavies Loch, Crombie Reservoir, Monikie Reservoirs, Long Loch, Lundie Loch, Loch of Kinnordy, Loch of Lintrathen, Backwater Reservoir, Auchintaple Loch, Loch Shandra and Loch Esk.
 
 
 Demography
@@ -100,18 +100,12 @@ In addition to the two constituency MSPs, Angus is also represented by MSPs from
 
 Transport
 
-Dundee_Railway_Station_and_Sleeperz_Hotel.jpg after its 2018 reopening]] The Edinburgh-Aberdeen railway line runs along the coast and through the towns of Dundee, Arbroath and Montrose.
+after its 2018 reopening]] The Edinburgh-Aberdeen railway line runs along the coast and through the towns of Dundee, Arbroath and Montrose.
 
 There is a small airport at Dundee, which at presents operates flights to London Stansted only.
 
 
 Towns and villages
-
-ANGUSSHIRE_(Forfarshire)._Civil_Parish_map.jpg
-
-Midsummer_night^_-_geograph.org.uk_-_9752.jpg
-
-Viewofmontrose.jpg
 
 Towns
 

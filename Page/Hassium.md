@@ -7,7 +7,7 @@ In the periodic table of the elements, it is a transactinide element. Hassium is
 
 Discovery
 
-Adenauerallee-2011-hessentag-099.jpg festival in 2011, celebrating the culture of the German state of Hesse, after which hassium is named]]
+festival in 2011, celebrating the culture of the German state of Hesse, after which hassium is named]]
 
 Reports
 
@@ -23,8 +23,6 @@ Arbitration
 
 In 1985, the International Union of Pure and Applied Chemistry (IUPAC) and the International Union of Pure and Applied Physics (IUPAP) formed a Joint Working Party (JWP) to assess discoveries and establish final names for the elements with atomic number greater than 100. The party held meetings with delegates from the three competing institutes; in 1990, they established criteria on recognition of an element, and in 1991, they finished the work on assessing discoveries and disbanded. These results were published in 1993.[8]
 
-Bohrium_hassium_meitnerium_ceremony.jpg
-
 According to the report, the 1984 works from JINR and GSI simultaneously independently established synthesis of element 108. Of the two 1984 works, the one from GSI was said to be sufficient as a discovery on its own. The JINR work, which preceded the GSI one, "very probably" displayed synthesis of element 108, but that was determined in retrospect given the work from Darmstadt. The report concluded that the major credit should be awarded to GSI.[9]
 
 Naming
@@ -36,7 +34,7 @@ The name _hassium_ was proposed by Peter Armbruster and his colleagues, the offi
 
 Natural occurrence
 
-Molybdenit_1.jpg]] Hassium is not known to occur naturally on Earth; the half-lives of all its known isotopes are short enough that no primordial hassium would have survived to the present day. This does not rule out the possibility of unknown longer-lived isotopes or nuclear isomers existing, some of which could still exist in trace quantities today if they are long-lived enough. In the early 1960s, it was predicted that long-lived deformed isomers of hassium might occur naturally on Earth in trace quantities. This was theorised in order to explain the extreme radiation damage in some minerals that could not have been caused by any known natural radioisotopes, but could have been caused by superheavy elements.[20]
+]] Hassium is not known to occur naturally on Earth; the half-lives of all its known isotopes are short enough that no primordial hassium would have survived to the present day. This does not rule out the possibility of unknown longer-lived isotopes or nuclear isomers existing, some of which could still exist in trace quantities today if they are long-lived enough. In the early 1960s, it was predicted that long-lived deformed isomers of hassium might occur naturally on Earth in trace quantities. This was theorised in order to explain the extreme radiation damage in some minerals that could not have been caused by any known natural radioisotopes, but could have been caused by superheavy elements.[20]
 
 In 1963, Soviet scientist Viktor Cherdyntsev, who had previously claimed the existence of primordial curium-247,[21] claimed to have discovered element 108 (specifically, the ²⁶⁷Hs isotope, which supposedly had a half-life of 400 to 500 million years) in natural molybdenite and suggested the provisional name _sergenium_ (symbol Sg; at the time, this symbol had not yet been taken by seaborgium) for it; this name takes its origin in the name for the Silk Road and was explained as "coming from Kazakhstan".[22] His rationale for claiming that sergenium was the heavier homologue to osmium was that minerals supposedly containing sergenium formed volatile oxides when boiled in nitric acid, similarly to osmium.
 

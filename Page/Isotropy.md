@@ -29,7 +29,7 @@ Cosmology:The Big Bang theory of the evolution of the observable universe assume
 
 Materials science
 
-LvMS-Lvv.jpg glass is isotropic, and thus, stays extinct when rotated between polarization filters on a petrographic microscope]] In the study of mechanical properties of materials, "isotropic" means having identical values of a property in all directions. This definition is also used in geology and mineralogy. Glass and metals are examples of isotropic materials.[4] Common anisotropic materials include wood, because its material properties are different parallel and perpendicular to the grain, and layered rocks such as slate.
+glass is isotropic, and thus, stays extinct when rotated between polarization filters on a petrographic microscope]] In the study of mechanical properties of materials, "isotropic" means having identical values of a property in all directions. This definition is also used in geology and mineralogy. Glass and metals are examples of isotropic materials.[4] Common anisotropic materials include wood, because its material properties are different parallel and perpendicular to the grain, and layered rocks such as slate.
 
 Isotropic materials are useful since they are easier to shape, and their behavior is easier to predict. Anisotropic materials can be tailored to the forces an object is expected to experience. For example, the fibers in carbon fiber materials and rebars in reinforced concrete are oriented to withstand tension.
 

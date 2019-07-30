@@ -20,7 +20,7 @@ During the Cuban Revolution in 1959, Bacardi fled to Puerto Rico. The following 
 
 Popularity and reception
 
-Cuba_Libre.jpg garnish]] The rum and Coke is very popular; Bacardi estimates that it is the world's second most popular alcoholic drink.[2] Its popularity derives from the ubiquity and low cost of the main ingredients, and the fact that it is very easy to make. As it can be made with any quantity or style of rum, it is simple to prepare and difficult to ruin.
+garnish]] The rum and Coke is very popular; Bacardi estimates that it is the world's second most popular alcoholic drink.[2] Its popularity derives from the ubiquity and low cost of the main ingredients, and the fact that it is very easy to make. As it can be made with any quantity or style of rum, it is simple to prepare and difficult to ruin.
 
 Drink critics often have a low opinion of the cocktail. Writer Wayne Curtis called it "a drink of inspired blandness", while Jason Wilson of _The Washington Post_ called it "a lazy person's drink".[3] Troy Patterson of _Slate_ called it "the classic mediocre Caribbean-American highball", which "became a classic despite not being especially good".[4]
 
@@ -29,7 +29,7 @@ Charles A. Coulombe considers the Cuba Libre a historically important drink, wri
 
 Recipe and variations
 
-Bundyrum24x6cans.JPG & Cola, 2006]]
+& Cola, 2006]]
 
 Recipes vary somewhat in measures and additional ingredients, but the main ingredients are always rum and cola. The International Bartenders Association recipe calls for 5 centiliters of light rum, 12 cl of cola, and 1 cl of fresh lime juice on ice.[5] However, any amount and proportion of rum and cola may be used. Additionally, while light rum is traditional, dark rums and other varieties are also common. Different colas are also often used; in fact in Cuba, as Coca-Cola has not been imported since the U.S. embargo of 1960, the domestic TuKola is used in Cuba Libres.[6][7]
 

@@ -17,7 +17,7 @@ Used in English and French
 
 A
 
-Aperitif_for_five.jpgs with amuse-gueules]] Striding_Edge.jpg]]
+s with amuse-gueules]] ]]
 
 à gogo: in abundance. In French this is colloquial.
 à la: short for _à la manière de_; in the manner of/in the style of[2]
@@ -56,7 +56,7 @@ avoirdupois: used in Middle English, _avoir de pois_ = commodities sold by weigh
 
 B
 
-Bric-à-brac_shop_at_Nantucket.jpg]] Brioche.jpg]]
+]] ]]
 
 baguette: a long, narrow loaf of bread with a crisp crust, often called "French bread" or "French stick" in the United Kingdom. In French, a _baguette_ is any long and narrow stick-like object; also, a rectangular diamond, cut to twenty-five facets.
 banquette: a long upholstered bench or a sofa.
@@ -82,7 +82,7 @@ bureau (pl. _bureaux_): government office; an agency for information exchange. A
 
 C
 
-Caffè_latte_as_being_served_at_Kaffebrenneriet_Torshov,_Oslo,_Norway_2_600x600_100KB.jpg]] Schäslong.png]] Japanese_chauffeur.jpg]] Chignon-jennadrudi.JPG]] The_Photographer.jpg]] Picswiss_BS-55-89.jpg]]
+]] ]] ]] ]] ]] ]]
 
 ça ne fait rien: "that doesn't matter"; rendered as _san fairy Ann_ in British World War I slang.[6][7]
 cache: a collection of items of the same type stored in a hidden or inaccessible place (such as in an oubliette)
@@ -159,7 +159,7 @@ crème de la crème: best of the best, "cream of the cream", used to describe hi
 crème fraîche: lit. "fresh cream", a heavy cream slightly soured with bacterial culture, but not as sour or as thick as sour cream and does not curdle.
 crêpe: a thin sweet or savoury pancake eaten as a light meal or dessert.
 
-Welwyn_Garden_City_cul-de-sac.jpg]]
+]]
 
 crêperie: a takeaway restaurant or stall, serving crêpes as a form of fast food or street food, or may be a more formal sit-down restaurant or café.
 critique: a critical analysis or evaluation of a work, or the art of criticizing. From Latin _criticus_, from Ancient Greek κριτικός (_kritikos_).
@@ -168,7 +168,7 @@ cul-de-sac: originally "bottom of sack"[13] and used in English in anatomy since
 
 D
 
-Hannoveraner_Dressur_Goethe_3_bestes.jpg]]
+]]
 
 de rigueur: required or expected, especially in fashion or etiquette.[15]
 de trop: unnecessary, unwanted, or more than is suitable.
@@ -197,7 +197,7 @@ du jour: lit. "of the day": said of something fashionable or hip for a day and q
 
 E
 
-1811-Rosoli-Flacon.jpg]] Eaudeviebottles.jpg]] Salatteller.JPG]] Plein_Air_Painters_at_Long_Pond,_Ringwood,_NJ.JPG Pointeshoe1.jpg]]
+]] ]] ]] ]]
 
 eau de Cologne: a type of perfume, originating in Cologne. Its Italian creator used a French name to commercialize it, Cologne at that time being under the control of France.
 eau de toilette: lit. "grooming water." It usually refers to an aromatic product that is less expensive than a perfume because it has less of the aromatic compounds and is more for an everyday use. Cannot be shortened to _eau_, which means something else altogether in French (water).
@@ -251,15 +251,15 @@ flambé: a cooking procedure in which alcohol (ethanol) is added to a hot pan to
 flambeau: a lit torch.
 flâneur: a gentleman stroller of city streets; an aimless idler.
 
-Fleur_de_Lis_wall.jpg]]
+]]
 
 fleur-de-lis: a stylized-flower heraldic device; the golden _fleur-de-lis_ on an azure background were the arms of the French Kingdom (often spelled with the old French style as "fleur-de-lys").
 
-FleurDeSel.JPG]]
+]]
 
 fleur de sel: lit. "flower of salt", hand-harvested sea salt collected by workers who scrape only the top layer of salt before it sinks to the bottom of large salt pans. Is one of the more expensive salts; traditional French fleur de sel is collected off the coast of Brittany most notably in the town of Guérande (_Fleur de Sel de Guérande_ being the most revered), but also in Noirmoutier, Île de Ré and Camargue.
 
-Foie_gras_en_cocotte.jpg]]
+]]
 
 foie gras: fatty liver; usually the liver of overfed goose, hence: _pâté de foie gras_, pâté made from goose liver.
 folie à deux: a simultaneous occurrence of delusions in two closely related people, often said of an unsuitable romance. In clinical psychology, the term is used to describe people who share schizophrenic delusions. The derived forms _folie à trois_, _folie à quatre_, _folie en famille_ or even _folie à plusieurs_ do not exist in French where "collective hysterics" is used.
@@ -269,7 +269,7 @@ froideur: coldness (for behavior and manners only).
 
 G
 
-French_Republican_Guard_cavalry_DSC03152.JPG Heidfeld_and_Rosberg_-_2008_Melb_GP.jpg.]] Grenadier-a-pied-de-la-Vieille-Garde.png
+.]]
 
 gaffe: blunder
 garçon: lit. "boy" or "male servant"; sometimes used by English speakers to summon the attention of a male waiter (has a playful connotation in English but is condescending and possibly offensive in French).
@@ -286,7 +286,7 @@ grenadier: a specialized soldier, first established for the throwing of grenades
 
 H
 
-Robe_lacroix_arles_2008.jpg]]
+]]
 
 habitué: one who regularly frequents a place.[27]
 haute couture: lit. "high sewing": Paris-based custom-fitted clothing; trend-setting fashion
@@ -299,8 +299,6 @@ hors concours: lit. "out of competition": not to be judged with others because o
 hors d'œuvre: lit. "outside the [main] work": appetizer.
 
 I
-
-MaryPickford13.jpg
 
 idée fixe: lit. "fixed idea": obsession; in music, a leitmotiv.
 impasse: a situation offering no escape, as a difficulty without solution, an argument where no agreement is possible, etc.; a deadlock.[29]
@@ -335,7 +333,7 @@ Louis Quinze: "Louis XV" (of France), associated with the rococo style of furnit
 
 M
 
-Keith_Russell_macrame_1.jpg]] Peultjes_peultjes_Pisum_sativum_mange-tout.jpg MGD08ToastPurpleGreenGoldDrums.jpg]]
+]] ]]
 
 macramé: coarse lace work made with knotted cords.
 madame : a woman brothel-keeper (Fowler's Modern English Usage, 3rd edition, p. 475).[33] In French, a title of respect for an older or married woman (literally "my lady").
@@ -385,7 +383,7 @@ outré: exceeding the lines of propriety; eccentric in behavior or appearance in
 
 P
 
-Pain_au_chocolat_Luc_Viatour.jpg]] Daniel_Ilabaca.jpg]] T_Roosevelt.jpg]]
+]] ]] ]]
 
 pain au chocolat: lit. "bread with chocolate." Despite the name, it is not made of bread but puff pastry with chocolate inside. The term _chocolatine_ is used in some Francophone areas (especially the South-West) and sometimes in English.
 pain aux raisins: raisin bread.
@@ -439,7 +437,7 @@ quelle surprise !: _What a surprising thing! (mostly used sarcastically)_
 
 R
 
-Thickening.jpg]]
+]]
 
 raconteur: a storyteller.[42]
 raison d'être: "reason for being": justification or purpose of existence.
@@ -475,7 +473,7 @@ succès d'estime: lit. "success of esteem; critical success"; sometimes used pej
 
 T
 
-Tropenmuseum_Royal_Tropical_Institute_Objectnumber_60006559_Tableau_vivant_voorstellende_de_Goudd.jpg]]
+]]
 
 tableau: chalkboard. The meaning is broader in French: all types of board (chalkboard, whiteboard, notice board ...). Refers also to a painting (see tableau vivant, below) or a table (chart).
 tableau vivant: lit. "living picture"; the term describes a striking group of suitably costumed actors or artist's models, carefully posed and often theatrically lit.
@@ -490,7 +488,7 @@ tout de suite: right now, immediately. Often mangled as "toot sweet".
 tranche: lit. "slice": one of several different classes of securities involved a single financial transaction.[52]
 triage:during a medical emergency or disaster, the process of determining the priority of medical treatment or transportation based on the severity of the patient's condition. In recent years, in British English usage, the term has also been used in the sense of _to screen_ or _address_ something at the point of contact, before it requires escalation.
 
-Trou-de-loup.png]]
+]]
 
 tricoteuse: a woman who knits and gossips; from the women who knitted and sewed while watching executions of prisoners of the French Revolution.
 trompe-l'œil: lit. "trick the eye"; photographic realism in fine-art painting or decorative painting in a home.
@@ -502,7 +500,7 @@ va-et-vient : lit. "goes and comes"; the continual coming and going of people to
 venu(e):an invited man/woman for a show, or "one who has come"; the term is unused in modern French, though it can still be heard in a few expressions like _bienvenu/e_ (literally "well come": welcome) or _le premier venu_ (anyone; literally, "the first who came"). Almost exclusively used in modern English as a noun meaning the location where a meeting or event is taking place.
 vin de pays: lit. "country wine"; wine of a lower designated quality than _appellation contrôlée_.
 
-Tomato_Cucumber_Salad.jpg dressing]]
+dressing]]
 
 vinaigrette: diminutive of _vinaigre_ (vinegar): salad dressing of oil and vinegar.
 vis-à-vis (also vis-a-vis): lit. "face to face [with]": in comparison with or in relation to; opposed to. From _vis_, an obsolete word for "face", replaced by _visage_ in contemporary French.[54] In French, this is also a real estate vocabulary word, meaning that your windows and your neighbours' are within sighting distance (more precisely, that you can see inside of their home).
@@ -593,7 +591,7 @@ vignette: a brief description; a short scene. In French, it is a small picture o
 
 Found only in English
 
-Lise_Thibault-flags.jpg]]
+]]
 
 aide-de-camp: "camp assistant"; in the army, a military assistant to a senior military officer (heads of State are considered military officers because of their status as head of the army). In Canada, it may also refer to the honorary position a person holds as a personal assistant to a high civil servant. It exists in French too but is written _aide de camp_ (without any hyphens).
 cinquefoil: five-petal, five-leaf flower of the genus Potentilla, family Rosaceae; also a circular 5-lobed ornamental design. Spelled _quintefeuille_ in French.

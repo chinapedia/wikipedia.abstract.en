@@ -1,4 +1,4 @@
-Index_braille_embosser.jpg A BRAILLE EMBOSSER is an impact printer that renders text as tactile braille cells. Using braille translation software, a document can be embossed with relative ease, making braille production efficient and cost-effective.
+A BRAILLE EMBOSSER is an impact printer that renders text as tactile braille cells. Using braille translation software, a document can be embossed with relative ease, making braille production efficient and cost-effective.
 
 Blind users tend to call other printers "ink printers," to distinguish them from their braille counterparts. This is often the case regardless of the type of printer being discussed (e.g., thermal printers being called "ink printers" even though they use no ink).
 

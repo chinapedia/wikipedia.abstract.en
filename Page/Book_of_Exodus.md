@@ -7,7 +7,7 @@ There is no historical evidence for the Exodus.[3][4][5] There is an almost univ
 
 Name
 
-1867_Edward_Poynter_-_Israel_in_Egypt.jpg)]] The English name _Exodus_ comes from the , _éxodos_, meaning "going out". In Hebrew the book's title is שְׁמוֹת, _shemot_, "Names", from the beginning words of the text: "These are the names of the sons of Israel" ().
+)]] The English name _Exodus_ comes from the , _éxodos_, meaning "going out". In Hebrew the book's title is שְׁמוֹת, _shemot_, "Names", from the beginning words of the text: "These are the names of the sons of Israel" ().
 
 
 Structure
@@ -17,11 +17,11 @@ There is no unanimous agreement among scholars on the structure of Exodus. One s
 
 Summary
 
-Dura_Europos_fresco_Moses_from_river.jpg'' in the Dura-Europos Synagogue, c. 244]] Jacob's sons and their families join their brother, Joseph, in Egypt. Once there, the Israelites begin to grow in number. Egypt's Pharaoh, fearful that the Israelites could be a fifth column, forces the Israelites into slavery and orders the throwing of all newborn boys into the Nile. A Levite woman (Jochebed, according to other sources) saves her baby by setting him adrift on the river Nile in an ark of bulrushes. The Pharaoh's daughter finds the child, names him Moses, and brings him up as her own. But Moses is aware of his origins, and one day, when grown, he kills an Egyptian overseer who is beating a Hebrew slave and has to flee into Midian. There he marries Zipporah, the daughter of Midianite priest Jethro, and encounters God in a burning bush. Moses asks God for his name: God replies: "I AM that I AM", the explanation of the name "Yahweh" as he is thereafter known. God tells Moses to return to Egypt and lead the Hebrews into Canaan, the land promised to Abraham.
+'' in the Dura-Europos Synagogue, c. 244]] Jacob's sons and their families join their brother, Joseph, in Egypt. Once there, the Israelites begin to grow in number. Egypt's Pharaoh, fearful that the Israelites could be a fifth column, forces the Israelites into slavery and orders the throwing of all newborn boys into the Nile. A Levite woman (Jochebed, according to other sources) saves her baby by setting him adrift on the river Nile in an ark of bulrushes. The Pharaoh's daughter finds the child, names him Moses, and brings him up as her own. But Moses is aware of his origins, and one day, when grown, he kills an Egyptian overseer who is beating a Hebrew slave and has to flee into Midian. There he marries Zipporah, the daughter of Midianite priest Jethro, and encounters God in a burning bush. Moses asks God for his name: God replies: "I AM that I AM", the explanation of the name "Yahweh" as he is thereafter known. God tells Moses to return to Egypt and lead the Hebrews into Canaan, the land promised to Abraham.
 
 Moses returns to Egypt and fails to convince the Pharaoh to release the Israelites. God smites the Egyptians with 10 terrible plagues (Plagues of Egypt) including a river of blood, many frogs, and the death of first-born sons. Moses leads the Israelites out of bondage after a final chase when the Pharaoh reneges on his coerced consent (Crossing the Red Sea and Yam Suph). The desert proves arduous, and the Israelites complain and long for Egypt, but God provides manna and miraculous water for them. The Israelites arrive at the mountain of God, where Moses's father-in-law Jethro visits Moses; at his suggestion Moses appoints judges over Israel. God asks whether they will agree to be his people. They accept. The people gather at the foot of the mountain, and with thunder and lightning, fire and clouds of smoke, and the sound of trumpets, and the trembling of the mountain, God appears on the peak, and the people see the cloud and hear the voice [or possibly "sound"] of God. God tells Moses to ascend the mountain. God pronounces the Ten Commandments (the Ethical Decalogue) in the hearing of all Israel. Moses goes up the mountain into the presence of God, who pronounces the Covenant Code (a detailed code of ritual and civil law), and promises Canaan to them if they obey. Moses comes down the mountain and writes down God's words and the people agree to keep them. God calls Moses up the mountain where he remains for 40 days and 40 nights. At the conclusion of the 40 days and 40 nights, Moses returns holding the set of stone tablets.
 
-God gives Moses instructions for the construction of the tabernacle so that God could dwell permanently among his chosen people, as well as instructions for the priestly vestments, the altar and its appurtenances, the procedure for ordaining the priests, and the daily sacrifice offerings. Aaron becomes the first hereditary high priest. God gives Moses the two tablets of stone containing the words of the ten commandments, written with the "finger of God".[17] Gerrit_de_Wet_-_The_Adoration_of_the_Golden_Calf_-_WGA25563.jpg, 17th-century]]
+God gives Moses instructions for the construction of the tabernacle so that God could dwell permanently among his chosen people, as well as instructions for the priestly vestments, the altar and its appurtenances, the procedure for ordaining the priests, and the daily sacrifice offerings. Aaron becomes the first hereditary high priest. God gives Moses the two tablets of stone containing the words of the ten commandments, written with the "finger of God".[17] , 17th-century]]
 
 While Moses is with God, Aaron makes a golden calf, which the people worship. God informs Moses of their apostasy and threatens to kill them all, but relents when Moses pleads for them. Moses comes down from the mountain, smashes the stone tablets in anger, and commands the Levites to massacre the unfaithful Israelites. God commands Moses to make two new tablets on which He will personally write the words that were on the first tablets. Moses ascends the mountain, God dictates the Ten Commandments (the Ritual Decalogue), and Moses writes them on the tablets.
 
@@ -30,7 +30,7 @@ Moses descends from the mountain with a transformed face; from that time onwards
 
 Composition
 
-Rembrandt_Harmensz._van_Rijn_079.jpg with the Ten Commandments, by Rembrandt (1659)]]
+with the Ten Commandments, by Rembrandt (1659)]]
 
 Authorship
 
@@ -45,7 +45,7 @@ Although mythical elements are not so prominent in Exodus as in Genesis, ancient
 
 Themes
 
-David_Roberts-IsraelitesLeavingEgypt_1828.jpg, 1829]]
+, 1829]]
 
 Salvation
 
@@ -68,7 +68,7 @@ God elects Israel for salvation because the "sons of Israel" are "the firstborn 
 
 Contents according to Judaism's weekly Torah portions
 
-The_Crossing_fo_The_Red_Sea.jpg]]
+]]
 
 :*Shemot, on Exodus 1–5: Affliction in Egypt, discovery of baby Moses, Pharaoh
 

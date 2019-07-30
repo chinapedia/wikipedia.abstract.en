@@ -1,5 +1,3 @@
-Anagram_Listen_=_Silent.gif
-
 An ANAGRAM is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.[1] For example, the word _anagram_ can be rearranged into _nag a ram_, or the word _binary_ into _brainy_ or the word _adobe_ into _abode_.
 
 The original word or phrase is known as the _subject_ of the anagram. Any word or phrase that exactly reproduces the letters in another order is an anagram. Someone who creates anagrams may be called an "anagrammatist",[2] and the goal of a serious or skilled anagrammatist is to produce anagrams that reflect or comment on their subject.
@@ -76,8 +74,6 @@ Natural philosophers (astronomers and others) of the 17th century transposed the
 Galileo used __ for __ (Latin: _I have observed the most distant planet to have a triple form_) for discovering the rings of Saturn in 1610.[28][29] Galileo announced his discovery that Venus had phases like the Moon in the form __ (Latin: _These immature ones have already been read in vain by me -oy_), that is, when rearranged, __ (Latin: _The Mother of Loves_ [= Venus] _imitates the figures of Cynthia_ [= the moon]). In both cases, Johannes Kepler had solved the anagrams incorrectly, assuming they were talking about the Moons of Mars (__) and a red spot on Jupiter (__), respectively.[30] By coincidence, he turned out to be right about the actual objects existing.
 
 In 1656, Christiaan Huygens, using a better telescope than those available to Galileo, figured that Galileo's earlier observations of Saturn actually meant it had a ring (Galileo's tools were only sufficient to see it as bumps) and, like Galileo, had published an anagram, __. Upon confirming his observations, three years later he revealed it to mean __ (Latin: _It [Saturn] is surrounded by a thin, flat, ring, nowhere touching, inclined to the ecliptic_).[31]
-
-Anagram_animation_-_Nessiteras_rhombopteryx=Monster_hoax_by_Sir_Peter_S.=Yes,_both_pix_are_monsters,_R.gif
 
 When Robert Hooke discovered Hooke's law in 1660, he first published it in anagram form, __, for __ (Latin: _as the tension, so the force_).[32]
 
@@ -165,7 +161,7 @@ The French king Louis XIII had a man named Thomas Billen appointed as his Royal 
 
 Anagram animation
 
-Animation_of_the_anagram_'Programmed_animation_=_In_time,_anagrams_do_romp!'.gif An animated anagram displays the letters of a word or phrase moving into their new positions. Animations can be created manually, or with software.[46]
+An animated anagram displays the letters of a word or phrase moving into their new positions. Animations can be created manually, or with software.[46]
 
 
 See also

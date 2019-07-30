@@ -13,7 +13,7 @@ In later years, Woody Boyd replaces Coach, who dies off-screen in season four (1
 
 Original main characters
 
-Cheers_original_cast_1982-86_(1983).jpg, Ted Danson; _(middle)_ Rhea Perlman, Nicholas Colasanto; _(bottom)_ George Wendt, John Ratzenberger |alt=Background is the bar setting. Top row has a business Woman and a handsome bartender. Middle row has a brunette perm waitress and an old bartender. Bottom row has a suit-dressed man and a mailman.]]
+, Ted Danson; _(middle)_ Rhea Perlman, Nicholas Colasanto; _(bottom)_ George Wendt, John Ratzenberger |alt=Background is the bar setting. Top row has a business Woman and a handsome bartender. Middle row has a brunette perm waitress and an old bartender. Bottom row has a suit-dressed man and a mailman.]]
 
 -   Ted Danson portrays SAM MALONE, a bartender of Cheers. Sam is also a lothario. Before the series began, he was a baseball relief pitcher for the Boston Red Sox nicknamed "Mayday Malone" until he became an alcoholic, harming his career. He has an on-again, off-again relationship with Diane Chambers, his class opposite, in the first five seasons (1982–1987). During their off-times, Sam has flings with many not-so-bright "sexy women",[8] yet fails to pursue a meaningful relationship[9] and fails to seduce other women, such as intellectuals. After Diane is written out of the series, he tries to pursue Rebecca Howe, with varying results. At the end of the series, he is still unmarried and faces sexual addiction with the help of Dr. Robert Sutton's (Gilbert Lewis) group meetings, advised by Frasier.
 -   Shelley Long portrays DIANE CHAMBERS, an academic, sophisticated graduate student attending Boston University.[10] In the pilot, Diane is abandoned by her fiancé, leaving her without a job, a man, or money. Therefore, she reluctantly becomes a Bar maid. Later, she becomes a close friend of Coach[11] and has an on-and-off relationship with bartender Sam Malone, her class opposite. During their off-relationship times, Diane dates men who fit her upper-class ideals, such as Frasier Crane. In 1987, she leaves Boston behind for a writing career and to live in Los Angeles, California. Diane returns to Cheers to cure Sam of his drinking. Diane's biggest enemy is Carla but Diane doesn't insult Carla the way Carla does Diane which annoys Carla even more.
@@ -23,8 +23,6 @@ Cheers_original_cast_1982-86_(1983).jpg, Ted Danson; _(middle)_ Rhea Perlman, Ni
 -   John Ratzenberger portrays CLIFF CLAVIN, a know-it-all bar regular and mail carrier. He lives with his mother Esther Clavin (Frances Sternhagen) in first the family house and later an apartment. In the bar, Cliff continuously spouts nonsensical and annoying trivia, making him an object of derision to the bar patrons. Ratzenberger auditioned for the role of a minor character George, but it went to Wendt, evolving the role into Norm Peterson.[19] The producers decided they wanted a resident bar know-it-all,[20] so the security guard Cliff Clavin was added for the pilot. The producers changed his occupation into a mail carrier as they thought such a man would have wider knowledge than a guard.[21]
 
 Subsequent main characters
-
-Cast of _Cheers_ since season six. _(left to right)_: _(top)_ Rhea Perlman, Woody Harrelson, Kelsey Grammer, Bebe Neuwirth; (bottom) Wendt, Kirstie Alley, Danson, Ratzenberger |thumb|upright=1.36|alt=Background is bar setting. Top row has a waitress, a young handsome bartender, and married opposite-sex psychiatrists. Bottom row has a suit-dressed man, a blonde, a middle-aged handsome bartender, and a mailman.
 
 -   Kelsey Grammer portrays FRASIER CRANE, a psychiatrist and bar regular. Frasier started out as Diane Chambers' love interest in the third season (1984–85). In the fourth season (1985–86), after Diane jilts him at the altar in Europe, Frasier ends up frequenting Cheers and becomes a regular. He later marries Lilith Sternin and has a son, Frederick. After the series ends the character becomes the focus of the spin-off _Frasier_, in which he is divorced from Lilith and living in Seattle.
 -   Woody Harrelson portrays WOODY BOYD, a not-so-bright[22] bartender. He arrives from his Midwest hometown of Hanover, Indiana to Boston, to see Coach, his "pen pal" (as referring to exchanging "pens", not letters). When Sam tells Woody that Coach died, Sam hires Woody in Coach's place. Later, he marries his girlfriend Kelly Gaines (Jackie Swanson), also not-so-bright but raised in a rich family. In the final season, he runs for political office, and surprisingly wins.
@@ -107,7 +105,7 @@ Addiction also plays a role in _Cheers_, almost exclusively through Sam. He is a
 
 Cheers owners
 
-Boston5808.JPG Cheers had several owners before Sam, as the bar was opened in 1889. The "Est. 1895" on the bar's sign is a made-up date chosen by Carla for numerological purposes, revealed in season 8, episode 6, "The Stork Brings a Crane", which also revealed the bar's address as 112 1/2 Beacon Street and that it originated under the name Mom's. In the series' second episode, "Sam's Women", Coach tells a customer looking for Gus, the owner of Cheers, that Gus was dead. In a later episode, Gus O'Mally comes back from Arizona for one night and helps run the bar.
+Cheers had several owners before Sam, as the bar was opened in 1889. The "Est. 1895" on the bar's sign is a made-up date chosen by Carla for numerological purposes, revealed in season 8, episode 6, "The Stork Brings a Crane", which also revealed the bar's address as 112 1/2 Beacon Street and that it originated under the name Mom's. In the series' second episode, "Sam's Women", Coach tells a customer looking for Gus, the owner of Cheers, that Gus was dead. In a later episode, Gus O'Mally comes back from Arizona for one night and helps run the bar.
 
 The biggest storyline surrounding the ownership of Cheers begins in the fifth-season finale, "I Do, Adieu", when Sam and Diane part ways, due to Shelley Long's departure from the series. In addition, Sam leaves on a trip to sail around the world. Before he leaves, Sam sells Cheers to the Lillian Corporation. He returns in the sixth-season premiere, "Home is the Sailor", having sunk his boat, to find the bar under the new management of Rebecca Howe. He begs for his job back and is hired by Rebecca as a bartender. In the seventh-season premiere, "How to Recede in Business", Rebecca is fired and Sam is promoted to manager. Rebecca is allowed to keep a job at Lillian vaguely similar to what she had before, but only after Sam had Rebecca (in absentia) "agree" to a long list of demands that the corporation had for her.
 
@@ -118,7 +116,7 @@ Sam had two main battles, one with Gary's Olde Towne Tavern, trying to beat them
 
 Production
 
-Cheers_Street_Boston_2005.jpg, formerly the Bull & Finch Pub, in Boston in 2005.]]
+, formerly the Bull & Finch Pub, in Boston in 2005.]]
 
 Creation and concept
 
@@ -142,7 +140,7 @@ The character of Sam Malone was originally intended to be a retired football pla
 
 Filming styles and locations
 
-Cheers_Beacon_Hill_interior_2.jpg Most _Cheers_ episodes were, as a voiceover stated at the start of each, "filmed before a live studio audience" on Paramount Stage 25 in Hollywood, generally on Tuesday nights. Scripts for a new episode were issued the Wednesday before for a read-through, Friday was rehearsal day, and final scripts were issued on Monday. Burrows, who directed most episodes, insisted on using film stock rather than videotape. He was also noted for using motion in his directorial style, trying to constantly keep characters moving rather than standing still.[54] During the first season when ratings were poor Paramount and NBC asked that the show use videotape to save money, but a poor test taping ended the experiment and _Cheers_ continued to use film.[55]
+Most _Cheers_ episodes were, as a voiceover stated at the start of each, "filmed before a live studio audience" on Paramount Stage 25 in Hollywood, generally on Tuesday nights. Scripts for a new episode were issued the Wednesday before for a read-through, Friday was rehearsal day, and final scripts were issued on Monday. Burrows, who directed most episodes, insisted on using film stock rather than videotape. He was also noted for using motion in his directorial style, trying to constantly keep characters moving rather than standing still.[54] During the first season when ratings were poor Paramount and NBC asked that the show use videotape to save money, but a poor test taping ended the experiment and _Cheers_ continued to use film.[55]
 
 Due to a decision by Glen and Les Charles, the cold open was often not connected to the rest of the episode, with the lowest-ranked writers assigned to create the jokes for them. Some cold opens were taken from episodes that ran too long.[56]
 
@@ -280,7 +278,7 @@ CBS currently holds the rights to the _Cheers_ franchise as the result of the 20
 
 Spin-offs, crossovers, and cultural references
 
-Cheers_on_the_simpsons.jpg Some of the actors and actresses from _Cheers_ brought their characters into other television shows, either in a guest appearance or in a new spin-off series. The most successful _Cheers_ spin-off was _Frasier_, which featured Frasier Crane following his relocation back to Seattle, Washington. Sam, Diane, and Woody all individually appeared in _Frasier_ episodes, with Lilith appearing as a guest on multiple episodes. In the season nine episode "Cheerful Goodbyes", Frasier returns to Boston and meets up with the Cheers gang, later attending Cliff's retirement party.
+Some of the actors and actresses from _Cheers_ brought their characters into other television shows, either in a guest appearance or in a new spin-off series. The most successful _Cheers_ spin-off was _Frasier_, which featured Frasier Crane following his relocation back to Seattle, Washington. Sam, Diane, and Woody all individually appeared in _Frasier_ episodes, with Lilith appearing as a guest on multiple episodes. In the season nine episode "Cheerful Goodbyes", Frasier returns to Boston and meets up with the Cheers gang, later attending Cliff's retirement party.
 
 Although _Frasier_ was more successful, _The Tortellis_ was the first series to spin-off from _Cheers_, premiering in 1987. The show featured Carla's ex-husband Nick Tortelli and his wife Loretta, but was canceled after 13 episodes and drew protests for its stereotypical depictions of Italian-Americans.
 

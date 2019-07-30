@@ -5,7 +5,7 @@ The electrode through which conventional current flows the other way, into the d
 
 Charge flow
 
-Copper_cathode_2.svg cathode in a galvanic cell (e.g., a battery). Positively charged cations move towards the cathode allowing a positive current _i_ to flow out of the cathode.]]
+cathode in a galvanic cell (e.g., a battery). Positively charged cations move towards the cathode allowing a positive current _i_ to flow out of the cathode.]]
 
 Conventional current flow is from cathode to anode outside of the cell or device (with electrons moving in the opposite direction), regardless of the cell or device type and operating mode.
 
@@ -44,7 +44,7 @@ In electronics
 
 Vacuum tubes
 
-4-1000A_linear_RF_deck_build_by_K5LAD.jpg tube in a radio transmitter. The cathode filament is not directly visible]]
+tube in a radio transmitter. The cathode filament is not directly visible]]
 
 In a vacuum tube or electronic vacuum system, the cathode is a metal surface which emits free electrons into the evacuated space. Since the electrons are attracted to the positive nuclei of the metal atoms, they normally stay inside the metal and require energy to leave it; this is called the _work function_ of the metal.[4] Cathodes are induced to emit electrons by several mechanisms:[5]
 
@@ -57,7 +57,7 @@ Cathodes can be divided into two types:
 
 Hot cathode
 
-Triode_schematic_labeled.svg used in circuit diagrams for vacuum tube, showing cathode]]
+used in circuit diagrams for vacuum tube, showing cathode]]
 
 A hot cathode is a cathode that is heated by a filament to produce electrons by thermionic emission.[12][13] The filament is a thin wire of a refractory metal like tungsten heated red-hot by an electric current passing through it. Before the advent of transistors in the 1960s, virtually all electronic equipment used hot-cathode vacuum tubes. Today hot cathodes are used in vacuum tubes in radio transmitters and microwave ovens, to produce the electron beams in older cathode ray tube (CRT) type televisions and computer monitors, in x-ray generators, electron microscopes, and fluorescent tubes.
 
@@ -68,7 +68,7 @@ There are two types of hot cathodes:[14]
 
 In order to improve electron emission, cathodes are treated with chemicals, usually compounds of metals with a low work function. Treated cathodes require less surface area, lower temperatures and less power to supply the same cathode current. The untreated tungsten filaments used in early tubes (called "bright emitters") had to be heated to 1400 °C (~2500 °F), white-hot, to produce sufficient thermionic emission for use, while modern coated cathodes produce far more electrons at a given temperature so they only have to be heated to 425–600 °C (~800–1100 °F) ()[16][17][18] There are two main types of treated cathodes:[19][20]
 
-Neon_lamp_on_DC.JPG ]]
+]]
 
 -   Coated cathode – In these the cathode is covered with a coating of alkali metal oxides, often barium and strontium oxide. These are used in low-power tubes.
 -   Thoriated tungsten – In high-power tubes, ion bombardment can destroy the coating on a coated cathode. In these tubes a directly heated cathode consisting of a filament made of tungsten incorporating a small amount of thorium is used. The layer of thorium on the surface which reduces the work function of the cathode is continually replenished as it is lost by diffusion of thorium from the interior of the metal.[21]
@@ -81,7 +81,7 @@ Cold cathodes may also emit electrons by photoelectric emission. These are often
 
 Diodes
 
-Diode_symbol.svg In a semiconductor diode, the cathode is the N–doped layer of the PN junction with a high density of free electrons due to doping, and an equal density of fixed positive charges, which are the dopants that have been thermally ionized. In the anode, the converse applies: It features a high density of free "holes" and consequently fixed negative dopants which have captured an electron (hence the origin of the holes).
+In a semiconductor diode, the cathode is the N–doped layer of the PN junction with a high density of free electrons due to doping, and an equal density of fixed positive charges, which are the dopants that have been thermally ionized. In the anode, the converse applies: It features a high density of free "holes" and consequently fixed negative dopants which have captured an electron (hence the origin of the holes).
 
 When P and N-doped layers are created adjacent to each other, diffusion ensures that electrons flow from high to low density areas: That is, from the N to the P side. They leave behind the fixed positively charged dopants near the junction. Similarly, holes diffuse from P to N leaving behind fixed negative ionised dopants near the junction. These layers of fixed positive and negative charges are collectively known as the depletion layer because they are depleted of free electrons and holes. The depletion layer at the junction is at the origin of the diode's rectifying properties. This is due to the resulting internal field and corresponding potential barrier which inhibit current flow in reverse applied bias which increases the internal depletion layer field. Conversely, they allow it in forwards applied bias where the applied bias reduces the built in potential barrier.
 

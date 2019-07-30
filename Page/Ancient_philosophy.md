@@ -86,7 +86,7 @@ Philosophers
 
 Ancient Greek and Roman philosophy
 
-Presocratic_graph.svgs and thinkers; red arrows indicate a relationship of opposition.]] "The_School_of_Athens"_by_Raffaello_Sanzio_da_Urbino.jpg's School of Athens, depicting an array of ancient Greek philosophers engaged in discussion.]]
+s and thinkers; red arrows indicate a relationship of opposition.]] 's School of Athens, depicting an array of ancient Greek philosophers engaged in discussion.]]
 
 Philosophers
 
@@ -197,8 +197,6 @@ See also: _Christian philosophy_
 
 Philosophers during Roman times
 
-Plotinos.jpg
-
 -   Cicero (106 – 43 BCE)
 -   Lucretius (94 – 55 BCE)
 -   Seneca (4 BCE – 65 CE)
@@ -231,7 +229,7 @@ The ANCIENT INDIAN PHILOSOPHY is a fusion of two ancient traditions: the Vedic t
 
 Vedic philosophy
 
-Indian philosophy begins with the _Vedas_ wherein questions pertaining to laws of nature, the origin of the universe and the place of man in it are asked. In the famous Rigvedic _Hymn of Creation_ (Nasadiya Sukta) the poet asks: Sanjayas's_Foreknowledge.jpg, at middle of the picture]]
+Indian philosophy begins with the _Vedas_ wherein questions pertaining to laws of nature, the origin of the universe and the place of man in it are asked. In the famous Rigvedic _Hymn of Creation_ (Nasadiya Sukta) the poet asks: , at middle of the picture]]
 
     "Whence all creation had its origin,
     he, whether he fashioned it or whether he did not,
@@ -290,8 +288,6 @@ Philosophers of Axial Age (600–185 BCE)
 -   Kanada (c. 600 BCE), founded the philosophical school of Vaisheshika, gave theory of atomism
 -   Mahavira (599–527 BCE) — heavily influenced Jainism, the 24th Tirthankara of Jainism.
 
-Sermon_in_the_Deer_Park_depicted_at_Wat_Chedi_Liem-KayEss-1.jpeg
-
 -   Pāṇini (520–460 BCE), grammarian, author of Ashtadhyayi
 -   Kapila (c. 500 BCE), proponent of the Samkhya system of philosophy.
 -   Badarayana (lived between 500 BCE and 400 BCE) — Author of Brahma Sutras.
@@ -318,7 +314,7 @@ Philosophers of Golden Age (184 BCE – 600 CE)
 
 Ancient Iranian philosophy
 
-Sanzio_01_Zoroaster_Ptolmey.jpg's The School of Athens beside Raphael who appears as the ancient painter Apelles of Kos.]] See also: _Dualism, Dualism (philosophy of mind)_
+'s The School of Athens beside Raphael who appears as the ancient painter Apelles of Kos.]] See also: _Dualism, Dualism (philosophy of mind)_
 
 While there are ancient relations between the Indian Vedas and the Iranian Avesta, the two main families of the Indo-Iranian philosophical traditions were characterized by fundamental differences in their implications for the human being's position in society and their view of man's role in the universe. The first charter of human rights by Cyrus the Great as understood in the Cyrus cylinder is often seen as a reflection of the questions and thoughts expressed by Zarathustra and developed in Zoroastrian schools of thought of the Achaemenid Era of Iranian history.[8][9]
 

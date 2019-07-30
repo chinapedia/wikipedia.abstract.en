@@ -9,7 +9,7 @@ In Islam, Elijah appears in the Quran as a prophet and messenger of God, where h
 
 Biblical accounts
 
-Kingdoms_of_Israel_and_Judah_map_830.svg as it was in the 9th century BC. BLUE is the Kingdom of Israel. GOLDEN YELLOW is the Kingdom of Judah.]]
+as it was in the 9th century BC. BLUE is the Kingdom of Israel. GOLDEN YELLOW is the Kingdom of Judah.]]
 
 According to the Bible, by the 9th century BC, the Kingdom of Israel, once united under Solomon, was divided into the northern Kingdom of Israel and southern Kingdom of Judah, which retained the historical capital of Jerusalem along with its Temple. However, scholars today are divided as to whether the united Kingdom under Solomon ever existed.[11] Omri, King of Israel, continued policies dating from the reign of Jeroboam, contrary to religious law, that were intended to reorient religious focus away from Jerusalem: encouraging the building of local temple altars for sacrifices, appointing priests from outside the family of the Levites, and allowing or encouraging temples dedicated to Baal, an important deity in ancient Canaanite religion.[12][13] Omri achieved domestic security with a marriage alliance between his son Ahab and princess Jezebel, a priestess of Baal and the daughter of the king of Sidon in Phoenicia.[14] These solutions brought security and economic prosperity to Israel for a time,[15] but did not bring peace with the Israelite prophets, who were interested in a strict deuteronomic interpretation of the religious law.
 
@@ -17,7 +17,7 @@ Under Ahab's kingship, these tensions were exacerbated. Ahab built a temple for 
 
 1st and 2nd Kings
 
-Washington_Allston_-_Elijah_in_the_Desert_-_Google_Art_Project.jpg]]
+]]
 
 No background for the person of Elijah is given except for his brief description as being a "Tishbite." His name in Hebrew means "My God is Yahweh", and may be a title applied to him because of his challenge to worship of Baal.[16][17][18][19][20]
 
@@ -25,11 +25,11 @@ As told in the Hebrew Bible, Elijah's challenge is bold and direct. Baal was the
 
 Widow of Zarephath
 
-ElijahByLouisHersent.JPG'' by Louis Hersent]] After Elijah's confrontation with Ahab, God tells him to flee out of Israel, to a hiding place by the brook Chorath, east of the Jordan, where he will be fed by ravens.[22] When the brook dries up, God sends him to a widow living in the town of Zarephath in Phoenicia. When Elijah finds her and asks to be fed, she says that she does not have sufficient food to keep her and her own son alive. Elijah tells her that God will not allow her supply of flour or oil to run out, saying, "Do not be afraid...For thus says the Lord the God of Israel: The jar of meal will not be emptied and the jug of oil will not fail until the day that the Lord sends rain on the earth."[23] She feeds him the last of their food, and Elijah's promise miraculously comes true. God gave her "manna" from heaven even while he was withholding food from his unfaithful people in the promised land. Some time later the widow's son dies and the widow cries, "You have come to me to bring my sin to remembrance, and to cause the death of my son!"[24] Elijah prays that God might restore her son so that the trustworthiness of God's word might be demonstrated. 1 Kings 17:22 relates how God "listened to the voice of Elijah; the life of the child came into him again, and he revived."[25] This is the first instance of raising the dead recorded in Scripture. This widow was granted the life of her son, the only hope for a widow in ancient society. The widow cried, "the word of the Lord in your mouth is truth."[26] After more than three years of drought and famine, God tells Elijah to return to Ahab and announce the end of the drought: not occasioned by repentance in Israel but by the command of the Lord, who had determined to reveal himself again to his people. While on his way, Elijah meets Obadiah, the head of Ahab's household, who had hidden a hundred Jewish prophets from Jezebel's violent purge. Obadiah fears that when he reports to Ahab about Elijah's whereabouts, Elijah would disappear, provoking Ahab to execute him. Elijah reassures Obadiah and sends him to Ahab.
+'' by Louis Hersent]] After Elijah's confrontation with Ahab, God tells him to flee out of Israel, to a hiding place by the brook Chorath, east of the Jordan, where he will be fed by ravens.[22] When the brook dries up, God sends him to a widow living in the town of Zarephath in Phoenicia. When Elijah finds her and asks to be fed, she says that she does not have sufficient food to keep her and her own son alive. Elijah tells her that God will not allow her supply of flour or oil to run out, saying, "Do not be afraid...For thus says the Lord the God of Israel: The jar of meal will not be emptied and the jug of oil will not fail until the day that the Lord sends rain on the earth."[23] She feeds him the last of their food, and Elijah's promise miraculously comes true. God gave her "manna" from heaven even while he was withholding food from his unfaithful people in the promised land. Some time later the widow's son dies and the widow cries, "You have come to me to bring my sin to remembrance, and to cause the death of my son!"[24] Elijah prays that God might restore her son so that the trustworthiness of God's word might be demonstrated. 1 Kings 17:22 relates how God "listened to the voice of Elijah; the life of the child came into him again, and he revived."[25] This is the first instance of raising the dead recorded in Scripture. This widow was granted the life of her son, the only hope for a widow in ancient society. The widow cried, "the word of the Lord in your mouth is truth."[26] After more than three years of drought and famine, God tells Elijah to return to Ahab and announce the end of the drought: not occasioned by repentance in Israel but by the command of the Lord, who had determined to reveal himself again to his people. While on his way, Elijah meets Obadiah, the head of Ahab's household, who had hidden a hundred Jewish prophets from Jezebel's violent purge. Obadiah fears that when he reports to Ahab about Elijah's whereabouts, Elijah would disappear, provoking Ahab to execute him. Elijah reassures Obadiah and sends him to Ahab.
 
 Challenge to Baal
 
-JPF-Cave_Of_Elijah.JPG, Israel]] Elijahwindow.jpg in Charleston, South Carolina.]]
+, Israel]] in Charleston, South Carolina.]]
 
 When Ahab confronts Elijah, he denounces him as being the "troubler of Israel" but Elijah takes notice of his hypocrisy and tells Ahab that he is the one who troubled Israel by allowing the worship of false gods. Elijah then berates both the people of Israel and Ahab for their acquiescence in Baal worship. "How long will you go limping with two different opinions? If the Lord is God, follow him; but if Baal, then follow him."[27] And the people were silent. The Hebrew for this word, "go limping" or "waver", is the same as that used for "danced" in 1 Kings 18, verse 26, where the prophets of Baal frantically dance. Elijah speaks with sharp irony about the religious ambivalence of Israel.
 
@@ -43,7 +43,7 @@ Jezebel, enraged that Elijah had ordered the deaths of her priests, threatens to
 
 Elijah travels for forty days and forty nights to Mount Horeb,[31] where Moses had received the Ten Commandments. Elijah is the only person described in the Bible as returning to Horeb, after Moses and his generation had left Horeb several centuries before. He seeks shelter in a cave. God again speaks to Elijah:[32] "What doest thou here, Elijah?". Elijah did not give a direct answer to the Lord's question but evades and equivocates, implying that the work the Lord had begun centuries earlier had now come to nothing, and that his own work was fruitless. Unlike Moses, who tried to defend Israel when they sinned with the golden calf, Elijah bitterly complains over the Israelites' unfaithfulness and says he is the "only one left". Up until this time Elijah has only the word of God to guide him, but now he is told to go outside the cave and "stand before the Lord." A terrible wind passes, but God is not in the wind. A great earthquake shakes the mountain, but God is not in the earthquake. Then a fire passes the mountain, but God is not in the fire. Then a "still small voice" comes to Elijah and asks again, "What doest thou here, Elijah?" Elijah again evades the question and his lament is unrevised, showing that he did not understand the importance of the divine revelation he had just witnessed. God then sends him out again, this time to Damascus to anoint Hazael as king of Aram, Jehu as king of Israel, and Elisha as his replacement.
 
-Elijah's_cave_P3160005.JPG, Israel]]
+, Israel]]
 
 Vineyard of Naboth
 
@@ -53,13 +53,13 @@ God again speaks to Elijah and sends him to confront Ahab with a question and a 
 
 Ahaziah
 
-094.Elijah_Destroys_the_Messengers_of_Ahaziah.jpg from the 1866 _La Sainte Bible_)]] Elijah's story continues now from Ahab to an encounter with Ahaziah. The scene opens with Ahaziah seriously injured in a fall. He sends to the priests of Baalzebub in Ekron, outside the kingdom of Israel, to know if he will recover. Elijah intercepts his messengers and sends them back to Ahaziah with a message "Is it because there is no God in Israel that you are sending to inquire of Baal-zebub, the god of Ekron?"[34][35] Ahaziah asks the messengers to describe the person who gave them this message. They tell him he was a hairy man with a leather belt around his waist and he instantly recognizes the description as Elijah the Tishbite.
+from the 1866 _La Sainte Bible_)]] Elijah's story continues now from Ahab to an encounter with Ahaziah. The scene opens with Ahaziah seriously injured in a fall. He sends to the priests of Baalzebub in Ekron, outside the kingdom of Israel, to know if he will recover. Elijah intercepts his messengers and sends them back to Ahaziah with a message "Is it because there is no God in Israel that you are sending to inquire of Baal-zebub, the god of Ekron?"[34][35] Ahaziah asks the messengers to describe the person who gave them this message. They tell him he was a hairy man with a leather belt around his waist and he instantly recognizes the description as Elijah the Tishbite.
 
 Ahaziah sends out three groups of soldiers to arrest Elijah. The first two are destroyed by fire which Elijah calls down from heaven. The leader of the third group asks for mercy for himself and his men. Elijah agrees to accompany this third group to Ahaziah, where he gives his prophecy in person. Ahaziah dies without recovering from his injuries in accordance with Elijah's word.[36]
 
 Departure
 
-Elijah_Departure_and_Elisha.jpg According to , Elisha (Eliseus) and "the sons of the prophets" knew beforehand that Elijah would one day be assumed into heaven. Elisha asked Elijah to "let a double portion" of Elijah's "spirit" be upon him. Elijah agreed, with the condition that Elisha would see him be "taken".
+According to , Elisha (Eliseus) and "the sons of the prophets" knew beforehand that Elijah would one day be assumed into heaven. Elisha asked Elijah to "let a double portion" of Elijah's "spirit" be upon him. Elijah agreed, with the condition that Elisha would see him be "taken".
 
 Elijah, in company with Elisha, approaches the Jordan. He rolls up his mantle and strikes the water.[37] The water immediately divides and Elijah and Elisha cross on dry land. Suddenly, a chariot of fire and horses of fire appear[38] and Elijah is lifted up in a whirlwind. As Elijah is lifted up, his mantle falls to the ground and Elisha picks it up.
 
@@ -69,7 +69,7 @@ Elijah is mentioned once more in , which will be his final mention in the Hebrew
 
 The Christian end of Elijah in Malachi
 
-SaintIliaFromRilaMonastery.jpg, Bulgaria, medieval Orthodox tradition, renovated 20th century]]
+, Bulgaria, medieval Orthodox tradition, renovated 20th century]]
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   "Lo, I will send you the prophet Elijah before the great and terrible day of the Lord comes. He will turn the hearts of parents to their children and the hearts of children to their parents, so that I will not come and strike the land with a curse."
@@ -103,7 +103,7 @@ The Talmud states "Said he [Rabbah] to him (Elijah): Art thou not a priest: why 
 
 Elijah's zeal for God
 
-Statue_of_Saint_Elijah_at_Saint_Elijah_Maronite_Cathedral,_Aleppo.jpg, Aleppo, Syria]]
+, Aleppo, Syria]]
 
 In spite of Elijah's many miracles, the mass of the Jewish people remained as godless as before. A midrash tells that they even abolished the sign of the covenant, and the prophet had to appear as Israel's accuser before God.[53]
 
@@ -133,7 +133,7 @@ Elijah in Judaism
 
 Elijah's chair
 
-Chair_of_Elijah.JPG (circumcision) ceremony. The Hebrew inscription reads "This is the chair of Elijah, remembered for Good."]]
+(circumcision) ceremony. The Hebrew inscription reads "This is the chair of Elijah, remembered for Good."]]
 
 At Jewish circumcision ceremonies, a chair is set aside for the use of the prophet Elijah. Elijah is said to be a witness at all circumcisions when the sign of the covenant is placed upon the body of the child. This custom stems from the incident at Mount Horeb (): Elijah had arrived at Mount Horeb after the demonstration of God's presence and power on Mount Carmel. () God asks Elijah to explain his arrival, and Elijah replies: "I have been very jealous for the Lord, the God of hosts; for the people of Israel have forsaken thy covenant, thrown down thy altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away" (). According to Rabbinic tradition, Elijah's words were patently untrue ( and ), and since Elijah accused Israel of failing to uphold the covenant, God would require Elijah to be present at every covenant of circumcision.[60][61]
 
@@ -183,8 +183,6 @@ Elijah in Christianity
 
 References in the New Testament
 
-Intesa_elijah.jpg
-
 In the New Testament, Jesus would say for those who believed, John the Baptist was Elijah, who would come before the "great and terrible day" as predicted by Malachi.
 
 Some English translations of the New Testament use Elias, a Latin form of the name. In the King James Version, "Elias" appears only in the texts translated from Greek.
@@ -197,7 +195,7 @@ In the Gospel of John, when John the Baptist was asked by a delegation of priest
 
 Jesus Christ
 
-Transfigurationbloch.jpg.]]
+.]]
 
 In the Gospel of Luke, Herod Antipas hears some of the stories surrounding Jesus Christ. Some tell Herod that Jesus is John the Baptist (whom Herod had executed) come back to life. Others tell him that Jesus is Elijah.[76] Later in the same gospel, Jesus asks his disciples who the people say that he is. The apostles' answer includes Elijah among others.[77]
 
@@ -233,7 +231,7 @@ In the 17th century the Bollandist Society, whose declared aim was to search out
 
 Liturgical commemorations
 
-Prophet-Elias-Grk-ikon.png, as depicted in a Greek Orthodox icon]]
+, as depicted in a Greek Orthodox icon]]
 
 Since most Eastern Churches either use Greek as their liturgical language or translated their liturgies from the Greek, _Elias_ (or its modern iotacized form _Ilias_) is the form of the prophet's name used among most members of the Eastern Orthodox Church and those Eastern Catholic Churches which follow the Byzantine Rite.
 
@@ -265,7 +263,7 @@ Elias is associated with pre-Christian lightning gods in many other European tra
 
 Among Albanians, pilgrimages are made to mountaintops to ask for rain during the summer. One such tradition that is gaining popularity is the 2 August pilgrimage to Ljuboten on the Sharr mountains. Muslims refer to this day as _Aligjyn_ ("Ali Day"), and it is believed that Ali becomes Elias at midday.[108]
 
-Ilia_chariot.jpg folklore among the Slavs incorporating pre-Christian motifs in the beliefs and rites regarding him in Slavic culture.]] As Elijah was described as ascending into heaven in a fiery chariot, the Christian missionaries who converted Slavic tribes likely found him an ideal analogy for Perun, the supreme Slavic god of storms, thunder and lightning bolts. In many Slavic countries Elijah is known as Elijah the Thunderer (_Ilija Gromovnik_), who drives the heavens in a chariot and administers rain and snow, thus actually taking the place of Perun in popular beliefs.[109][110][111] Perun is also sometimes conflated with the legendary hero Elijah of Murom.[112][113] The feast of St. Elias is known as _Ilinden_ in South Slavic, and was chosen as the day of the Ilinden-Preobrazhenie Uprising in 1903; it is now the holiday of Republic Day in North Macedonia.
+folklore among the Slavs incorporating pre-Christian motifs in the beliefs and rites regarding him in Slavic culture.]] As Elijah was described as ascending into heaven in a fiery chariot, the Christian missionaries who converted Slavic tribes likely found him an ideal analogy for Perun, the supreme Slavic god of storms, thunder and lightning bolts. In many Slavic countries Elijah is known as Elijah the Thunderer (_Ilija Gromovnik_), who drives the heavens in a chariot and administers rain and snow, thus actually taking the place of Perun in popular beliefs.[109][110][111] Perun is also sometimes conflated with the legendary hero Elijah of Murom.[112][113] The feast of St. Elias is known as _Ilinden_ in South Slavic, and was chosen as the day of the Ilinden-Preobrazhenie Uprising in 1903; it is now the holiday of Republic Day in North Macedonia.
 
 In Estonian folklore Elijah is considered to be the successor of Ukko, the lightning spirit.[114]
 
@@ -290,7 +288,7 @@ Detractors of Mormonism have often alleged that Smith, in whose time and place t
 
 Elijah in Islam
 
-Khidr_and_elijah.jpg and Elijah Praying in Mecca''; Persian miniature from an illuminated manuscript of _Stories of the Prophets_ (c. 427 AH/ 1036 AD)]] Mir_Sayyid_Ali_Ilia_prorok.jpg'', here imagined in a Persian miniature by Mir Sayyid Ali (c. 1550 AD)]]
+and Elijah Praying in Mecca''; Persian miniature from an illuminated manuscript of _Stories of the Prophets_ (c. 427 AH/ 1036 AD)]] '', here imagined in a Persian miniature by Mir Sayyid Ali (c. 1550 AD)]]
 
 ELIJAH ( or ; _Ilyas_ or _Ilya_) is also mentioned as a prophet in the Qur'an, al-An'am 85. Elijah's narrative in the Qur'an and later Muslim tradition resembles closely that in the Hebrew Bible and Muslim literature records Elijah's primary prophesying as taking place during the reign of Ahab and Jezebel as well as Ahaziah.[125] He is seen by Muslims to be the prophetic predecessor to Elisha. While neither the Bible nor the Qur'an mentions the genealogy of Elijah, some scholars of Islam believe he may have come from the priestly family of the prophet Aaron.[126] Elijah is rarely associated with Islamic eschatology and Islam views Jesus as the Messiah.[127] However, Elijah is expected to come back along with the mysterious figure known as Khidr during the Last Judgment.[128] Elijah's figure has been identified with a number of other prophets and saints, including Idris, which is believed by some scholars to have been another name for Elijah,[129] and Khidr.[130] Islamic legend later developed the figure of Elijah, greatly embellishing upon his attributes, and some apocryphal literature gave Elijah the status of a half-human, half-angel.[131] Elijah also appears in later works of literature, including the _Hamzanama_.[132]
 
@@ -328,7 +326,7 @@ Controversies
 
 Miracle of the ravens
 
-Lanfranco_Elie_nourri_par_le_corbeau.jpg, Musée des beaux-arts de Marseille]]
+, Musée des beaux-arts de Marseille]]
 
 That _ravens_ fed Elijah by the brook Chorath has been questioned. The Hebrew text at uses the word _`ōrvīm_, which means _ravens_, but with a different vocalization might equally mean _Arabs_. The Septuagint has , _ravens_, and other traditional translations followed.
 

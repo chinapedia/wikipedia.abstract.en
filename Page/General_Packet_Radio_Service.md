@@ -44,7 +44,7 @@ Class C: Are connected to either GPRS service or GSM service (voice, SMS) and mu
 
 Because a Class A device must service GPRS and GSM networks together, it effectively needs two radios. To avoid this hardware requirement, a GPRS mobile device may implement the dual transfer mode (DTM) feature. A DTM-capable mobile can handle both GSM packets and GPRS packets with network coordination to ensure both types are not transmitted at the same time. Such devices are considered pseudo-Class A, sometimes referred to as "simple class A". Some networks have supported DTM since 2007.
 
-Huawei_E220_(Three).jpg 3G/GPRS Modem]] USB 3G/GPRS modems have a terminal-like interface over USB with V.42bis, and RFC 1144 data formats. Some models include an external antenna connector. Modem cards for laptop PCs, or external USB modems are available, similar in shape and size to a computer mouse, or a pendrive.
+3G/GPRS Modem]] USB 3G/GPRS modems have a terminal-like interface over USB with V.42bis, and RFC 1144 data formats. Some models include an external antenna connector. Modem cards for laptop PCs, or external USB modems are available, similar in shape and size to a computer mouse, or a pendrive.
 
 Addressing
 

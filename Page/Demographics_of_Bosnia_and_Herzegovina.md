@@ -1,5 +1,3 @@
-BiH_population_density_map_2013_by_municipalities.png
-
 This article is about the demographic features of the population of Bosnia and Herzegovina, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
 
@@ -172,7 +170,7 @@ File:BosniaHerzegovina1879Census.tif%7CReligious structure of Bosnia and Herzego
 
 Demographic statistics
 
-Bevölkerungspyramide_Bosnien_2016.png The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.
+The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.
 
 Population
 

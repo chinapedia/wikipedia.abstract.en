@@ -1,4 +1,4 @@
-Pulluvan_pattu_in_Ashtamudi_temple1.JPG Srivani_veena.jpg player]] Vertical-Indian-drum.JPG
+player]]
 
 INDIAN MUSICAL INSTRUMENTS can be broadly classified according to the Hornbostel–Sachs system into four categories: chordophones (string instruments), aerophones (wind instruments), membranophones (drums) and idiophones (non-drum percussion instruments).
 
@@ -6,8 +6,6 @@ INDIAN MUSICAL INSTRUMENTS can be broadly classified according to the Hornbostel
 Chordophones
 
 Plucked strings
-
-Painting_of_a_woman_with_a_sitar.jpg
 
 +---------------------------------------+------------------------+
 | -   Bulbul Tarang                     | -   Tumbi              |
@@ -29,8 +27,6 @@ Painting_of_a_woman_with_a_sitar.jpg
 +---------------------------------------+------------------------+
 
 Bowed strings
-
-Dhodro_Banam.jpg
 
 -   Chikara
 -   Dilruba
@@ -65,7 +61,7 @@ Single reed
 -   Pepa
 -   Pungi or Been
 
-Amber_Fort-Jaipur-India0001.JPG T_S_Nandakumar_9985.jpg]] Banshri.jpg]] Dms7s5(1).jpg]]
+]] ]] ]]
 
 Double reed
 
@@ -109,29 +105,29 @@ Membranophones
 
 Hand drums
 
-+--------------------------------------+------------------------------------------------------+-------------------------------------------+
-| -   Dhad                             | -   Pakhavaj                                         | Learn_To_Play_Tabla.jpg]] Perc-tumbak.jpg |
-| -   Damru                            | -   Pakhavaj Jori - Sikh instrument similar to Tabla |                                           |
-| -   Dimadi                           | -   Panchamukha vadyam                               |                                           |
-| -   Dhol                             | -   Pung cholom                                      |                                           |
-| -   Dholak                           | -   Shuddha Madalam or Maddalam                      |                                           |
-| -   Dholki                           | -   Tabala / Tabl / Chameli - goblet drum            |                                           |
-| -   Duggi                            | -   Tabla                                            |                                           |
-| -   Ghat singhari or Gada Singari    | -   Tabla Tarang - set of Tablas                     |                                           |
-| -   Ghumot                           | -   Tamte                                            |                                           |
-| -   Gummeta                          | -   Thanthi Panai                                    |                                           |
-| -   Kanjira                          | -   Thimila                                          |                                           |
-| -   Khol                             | -   Tumbak, Tumbaknari, Tumbaknaer                   |                                           |
-| -   Kinpar and Dhopar (Tribal Drums) | -   Tumdak'                                          |                                           |
-| -   Madal                            | -   Udukku                                           |                                           |
-| -   Maddale                          |                                                      |                                           |
-| -   Maram                            |                                                      |                                           |
-| -   Mizhavu                          |                                                      |                                           |
-| -   Mridangam                        |                                                      |                                           |
-| -   Naal                             |                                                      |                                           |
-+--------------------------------------+------------------------------------------------------+-------------------------------------------+
++--------------------------------------+------------------------------------------------------+----+
+| -   Dhad                             | -   Pakhavaj                                         | ]] |
+| -   Damru                            | -   Pakhavaj Jori - Sikh instrument similar to Tabla |    |
+| -   Dimadi                           | -   Panchamukha vadyam                               |    |
+| -   Dhol                             | -   Pung cholom                                      |    |
+| -   Dholak                           | -   Shuddha Madalam or Maddalam                      |    |
+| -   Dholki                           | -   Tabala / Tabl / Chameli - goblet drum            |    |
+| -   Duggi                            | -   Tabla                                            |    |
+| -   Ghat singhari or Gada Singari    | -   Tabla Tarang - set of Tablas                     |    |
+| -   Ghumot                           | -   Tamte                                            |    |
+| -   Gummeta                          | -   Thanthi Panai                                    |    |
+| -   Kanjira                          | -   Thimila                                          |    |
+| -   Khol                             | -   Tumbak, Tumbaknari, Tumbaknaer                   |    |
+| -   Kinpar and Dhopar (Tribal Drums) | -   Tumdak'                                          |    |
+| -   Madal                            | -   Udukku                                           |    |
+| -   Maddale                          |                                                      |    |
+| -   Maram                            |                                                      |    |
+| -   Mizhavu                          |                                                      |    |
+| -   Mridangam                        |                                                      |    |
+| -   Naal                             |                                                      |    |
++--------------------------------------+------------------------------------------------------+----+
 
-Peruvanam_Kuttan_Marar_IMG_3074.JPG (top) and Chande (below) are different drums]] Chandeboy.jpg of Yakshagana ]]
+(top) and Chande (below) are different drums]] of Yakshagana ]]
 
 Hand frame drums
 
@@ -173,7 +169,7 @@ Stick drums
 
 Idiophones
 
-JalTarang_Omenad.jpg]]
+]]
 
 -   Chimta - fire tong with brass jingles
 -   Chengila - metal disc

@@ -1,4 +1,4 @@
-AMR DIAB (; born October 11, 1961) is an Egyptian vocalist and writer.[1] He has established himself as an acclaimed recording artist and author in most Mediterranean countries.[2] According to a research by Michael Frishkopf, he has created his style termed as "Mediterranean Music", a blend of Western and Egyptian rhythms.[3] By 1992, he became the first Egyptian and Middle Eastern artist to start making high-tech music videos.[4] Amr Diab with his 7 World Music Awards
+AMR DIAB (; born October 11, 1961) is an Egyptian vocalist and writer.[1] He has established himself as an acclaimed recording artist and author in most Mediterranean countries.[2] According to a research by Michael Frishkopf, he has created his style termed as "Mediterranean Music", a blend of Western and Egyptian rhythms.[3] By 1992, he became the first Egyptian and Middle Eastern artist to start making high-tech music videos.[4]
 
 
 Early life and personal life

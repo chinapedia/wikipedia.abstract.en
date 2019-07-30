@@ -21,15 +21,15 @@ Historical changes to the landscape
 
 The prehistory of the area that is now the Netherlands was largely shaped by its constantly shifting, low-lying geography.
 
-+-----------------------+------------------------+------------------------+
-| 5500vc_ex_leg.jpg     | 3850vc_ex_leg_copy.jpg | 2750vc_ex_leg_copy.jpg |
-+-----------------------+------------------------+------------------------+
-| 500vc_ex_leg_copy.jpg | 50nc_ex_leg_copy.jpg   |                        |
-+-----------------------+------------------------+------------------------+
++--+--+--+
+|  |  |  |
++--+--+--+
+|  |  |  |
++--+--+--+
 
 Earliest groups of hunter-gatherers (before 5000 BC)
 
-Mannetje_van_Willemstad.jpg in Leiden. Height: .]]
+in Leiden. Height: .]]
 
 The area that is now the Netherlands was inhabited by early humans at least 37,000 years ago, as attested by flint tools discovered in Woerden in 2010.[1] In 2009 a fragment of a 40,000-year-old Neanderthal skull was found in sand dredged from the North Sea floor off the coast of Zeeland.[2]
 
@@ -45,7 +45,7 @@ There is also some evidence of small settlements in the rest of the country. The
 
 Funnelbeaker and other cultures (around 4000–3000 BC)
 
-Grootste_hunebed_van_Nederl.jpg D27, the largest dolmen in the Netherlands, located near Borger in Drenthe.]]
+D27, the largest dolmen in the Netherlands, located near Borger in Drenthe.]]
 
 The Funnelbeaker culture was a farming culture extending from Denmark through northern Germany into the northern Netherlands. In this period of Dutch prehistory the first notable remains were erected: the dolmens, large stone grave monuments. They are found in Drenthe, and were probably built between 4100 BC and 3200 BC.
 
@@ -63,11 +63,11 @@ The first evidence of the use of the wheel dates from this period, about 2400 BC
 
 Bronze Age (around 2000–800 BC)
 
-Zwaard_van_Jutphaas.jpg.]]
+.]]
 
 The Bronze Age probably started somewhere around 2000 BC and lasted until around 800 BC. The earliest bronze tools have been found in the grave of a Bronze Age individual called "the smith of Wageningen". More Bronze Age objects from later periods have been found in Epe, Drouwen and elsewhere. Broken bronze objects found in Voorschoten were apparently destined for recycling. This indicates how valuable bronze was considered in the Bronze Age. Typical bronze objects from this period included knives, swords, axes, fibulae and bracelets.
 
-BronzAgeElp.png and Hilversum cultures in the Bronze Age.]] Most of the Bronze Age objects found in the Netherlands have been found in Drenthe. One item shows that trading networks during this period extended a far distance. Large bronze _situlae_ (buckets) found in Drenthe were manufactured somewhere in eastern France or in Switzerland. They were used for mixing wine with water (a Roman/Greek custom). The many finds in Drenthe of rare and valuable objects, such as tin-bead necklaces, suggest that Drenthe was a trading centre in the Netherlands in the Bronze Age.
+and Hilversum cultures in the Bronze Age.]] Most of the Bronze Age objects found in the Netherlands have been found in Drenthe. One item shows that trading networks during this period extended a far distance. Large bronze _situlae_ (buckets) found in Drenthe were manufactured somewhere in eastern France or in Switzerland. They were used for mixing wine with water (a Roman/Greek custom). The many finds in Drenthe of rare and valuable objects, such as tin-bead necklaces, suggest that Drenthe was a trading centre in the Netherlands in the Bronze Age.
 
 The Bell Beaker cultures (2700–2100) locally developed into the Bronze Age Barbed-Wire Beaker culture (2100–1800). In the second millennium BC, the region was the boundary between the Atlantic and Nordic horizons and was split into a northern and a southern region, roughly divided by the course of the Rhine.
 
@@ -78,7 +78,7 @@ The pre-Roman period (800 BC – 58 BC)
 
 Iron age
 
-Boerderij_IJzertijd_Reijntjesveld.jpg dwelling on the Reijntjesveld near Orvelte in Drenthe.]] Verbogen_Keltische_zwaard.jpg, Rijksmuseum van Oudheden.]]
+dwelling on the Reijntjesveld near Orvelte in Drenthe.]] , Rijksmuseum van Oudheden.]]
 
 The Iron Age brought a measure of prosperity to the people living in the area of the present-day Netherlands. Iron ore was available throughout the country, including bog iron extracted from the ore in peat bogs (_moeras ijzererts_) in the north, the natural iron-bearing balls found in the Veluwe and the red iron ore near the rivers in Brabant. Smiths travelled from small settlement to settlement with bronze and iron, fabricating tools on demand, including axes, knives, pins, arrowheads and swords. Some evidence even suggests the making of Damascus steel swords using an advanced method of forging that combined the flexibility of iron with the strength of steel.
 
@@ -87,8 +87,6 @@ In Oss, a grave dating from around 500 BC was found in a burial mound 52 metres 
 In the centuries just before the arrival of the Romans, northern areas formerly occupied by the Elp culture emerged as the probably Germanic Harpstedt culture[14] while the southern parts were influenced by the Hallstatt culture and assimilated into the Celtic La Tène culture. The contemporary southern and western migration of Germanic groups and the northern expansion of the Hallstatt culture drew these peoples into each other's sphere of influence.[15] This is consistent with Caesar's account of the Rhine forming the boundary between Celtic and Germanic tribes.
 
 Arrival of Germanic groups
-
-Germanic_tribes_(750BC-1AD).png
 
 The Germanic tribes originally inhabited southern Scandinavia, Schleswig-Holstein and Hamburg,[16] but subsequent Iron Age cultures of the same region, like Wessenstedt (800–600 BC) and Jastorf, may also have belonged to this grouping.[17] The climate deteriorating in Scandinavia around 850 BC to 760 BC and later and faster around 650 BC might have triggered migrations. Archaeological evidence suggests around 750 BC a relatively uniform Germanic people from the Netherlands to the Vistula and southern Scandinavia.[18] In the west, the newcomers settled the coastal floodplains for the first time, since in adjacent higher grounds the population had increased and the soil had become exhausted.[19]
 
@@ -99,8 +97,6 @@ One grouping - labelled the "North Sea Germanic" – inhabited the northern part
 A second grouping, which scholars subsequently dubbed the "Weser-Rhine Germanic" (or "Rhine-Weser Germanic"), extended along the middle Rhine and Weser and inhabited the southern part of the Netherlands (south of the great rivers). This group, also sometimes referred to as the "Istvaeones", consisted of tribes that would eventually develop into the Salian Franks.[23]
 
 Celts in the south
-
-Diachronic distribution of Celtic peoples, showing expansion into the southern Netherlands:
 
 The Celtic culture had its origins in the central European Hallstatt culture (c. 800–450 BC), named for the rich grave finds in Hallstatt, Austria.[24] By the later La Tène period (c. 450 BC up to the Roman conquest), this Celtic culture had, whether by diffusion or migration, expanded over a wide range, including into the southern area of the Netherlands. This would have been the northern reach of the Gauls.
 
@@ -147,7 +143,7 @@ Other Roman settlements, fortifications, temples and other structures have been 
 
 Batavian revolt
 
-"Batavians_defeating_Romans_on_the_Rhine"_by_Otto_van_Veen.jpg, the Batavians have been romantically portrayed as the heroic ancestors of the Dutch people. "The Batavians Defeating the Romans on the Rhine", c. 1613, by Otto van Veen.]] Bataafseeed.jpg, depicts a Batavian oath to Gaius Julius Civilis, the head of the Batavian rebellion against the Romans in 69 CE.]]
+, the Batavians have been romantically portrayed as the heroic ancestors of the Dutch people. "The Batavians Defeating the Romans on the Rhine", c. 1613, by Otto van Veen.]] , depicts a Batavian oath to Gaius Julius Civilis, the head of the Batavian rebellion against the Romans in 69 CE.]]
 
 The Batavians, Cananefates, and the other border tribes were held in high regard as soldiers throughout the empire, and traditionally served in the Roman cavalry.[40] The frontier culture was influenced by the Romans, Germanic people, and Gauls. In the first centuries after Rome's conquest of Gaul, trade flourished. And Roman, Gaulish and Germanic material culture are found combined in the region.
 
@@ -157,7 +153,7 @@ Dutch writers in the 17th and 18th centuries saw the rebellion of the independen
 
 Emergence of the Franks
 
-Frankischetalen.png (in green) and Ripuarian Franks (in red) at the end of the Roman period.]]
+(in green) and Ripuarian Franks (in red) at the end of the Roman period.]]
 
 Modern scholars of the Migration Period are in agreement that the Frankish identity emerged at the first half of the 3rd century out of various earlier, smaller Germanic groups, including the Salii, Sicambri, Chamavi, Bructeri, Chatti, Chattuarii, Ampsivarii, Tencteri, Ubii, Batavi and the Tungri, who inhabited the lower and middle Rhine valley between the Zuyder Zee and the river Lahn and extended eastwards as far as the Weser, but were the most densely settled around the IJssel and between the Lippe and the Sieg. The Frankish confederation probably began to coalesce in the 210s.[43]
 
@@ -167,22 +163,22 @@ Franks appear in Roman texts as both allies and enemies (_laeti_ and _dediticii_
 
 Disappearance of the Frisii
 
-North.Sea.Periphery.250.500.jpg Periphery c. 250-500 CE.]] Three factors contributed to the disappearance of the Frisii from the northern Netherlands. First, according to the _Panegyrici Latini_ (Manuscript VIII), the ancient Frisii were forced to resettle within Roman territory as _laeti_ (i.e., Roman-era serfs) in c. 296.[45] This is the last reference to the ancient Frisii in the historical record. What happened to them, however, is suggested in the archaeological record. The discovery of a type of earthenware unique to 4th-century Frisia, called _terp Tritzum_, shows that an unknown number of them were resettled in Flanders and Kent,[46] likely as _laeti_ under Roman coercion. Second, the environment in the low-lying coastal regions of northwestern Europe began to lower c. 250 and gradually receded over the next 200 years. Tectonic subsidence, a rising water table and storm surges combined to flood some areas with marine transgressions. This was accelerated by a shift to a cooler, wetter climate in the region. If there had been any Frisii left in Frisia, they would have drowned.[47][48][49][50] Third, after the collapse of the Roman Empire, there was a decline in population as Roman activity stopped and Roman institutions withdrew. As a result of these three factors, the Frisii and Frisiaevones disappeared from the area. The coastal lands remained largely unpopulated for the next two centuries.[51][52][53][54]
+Periphery c. 250-500 CE.]] Three factors contributed to the disappearance of the Frisii from the northern Netherlands. First, according to the _Panegyrici Latini_ (Manuscript VIII), the ancient Frisii were forced to resettle within Roman territory as _laeti_ (i.e., Roman-era serfs) in c. 296.[45] This is the last reference to the ancient Frisii in the historical record. What happened to them, however, is suggested in the archaeological record. The discovery of a type of earthenware unique to 4th-century Frisia, called _terp Tritzum_, shows that an unknown number of them were resettled in Flanders and Kent,[46] likely as _laeti_ under Roman coercion. Second, the environment in the low-lying coastal regions of northwestern Europe began to lower c. 250 and gradually receded over the next 200 years. Tectonic subsidence, a rising water table and storm surges combined to flood some areas with marine transgressions. This was accelerated by a shift to a cooler, wetter climate in the region. If there had been any Frisii left in Frisia, they would have drowned.[47][48][49][50] Third, after the collapse of the Roman Empire, there was a decline in population as Roman activity stopped and Roman institutions withdrew. As a result of these three factors, the Frisii and Frisiaevones disappeared from the area. The coastal lands remained largely unpopulated for the next two centuries.[51][52][53][54]
 
 
 Early Middle Ages (411–1000)
 
 Frisians
 
-Frisia_716-la.svg As climatic conditions improved, there was another mass migration of Germanic peoples into the area from the east. This is known as the "Migration Period" (_Volksverhuizingen_). The northern Netherlands received an influx of new migrants and settlers, mostly Saxons, but also Angles and Jutes. Many of these migrants did not stay in the northern Netherlands but moved on to England and are known today as the Anglo-Saxons. The newcomers who stayed in the northern Netherlands would eventually be referred to as "Frisians", although they were not descended from the ancient Frisii. These new Frisians settled in the northern Netherlands and would become the ancestors of the modern Frisians.[55][56] (Because the early Frisians and Anglo-Saxons were formed from largely identical tribal confederacies, their respective languages were very similar. Old Frisian is the most closely related language to Old English[57] and the modern Frisian dialects are in turn the closest related languages to contemporary English.) By the end of the 6th century, the Frisian territory in the northern Netherlands had expanded west to the North Sea coast and, by the 7th century, south to Dorestad. During this period most of the northern Netherlands was known as Frisia. This extended Frisian territory is sometimes referred to as _Frisia Magna_ (or Greater Frisia).
+As climatic conditions improved, there was another mass migration of Germanic peoples into the area from the east. This is known as the "Migration Period" (_Volksverhuizingen_). The northern Netherlands received an influx of new migrants and settlers, mostly Saxons, but also Angles and Jutes. Many of these migrants did not stay in the northern Netherlands but moved on to England and are known today as the Anglo-Saxons. The newcomers who stayed in the northern Netherlands would eventually be referred to as "Frisians", although they were not descended from the ancient Frisii. These new Frisians settled in the northern Netherlands and would become the ancestors of the modern Frisians.[55][56] (Because the early Frisians and Anglo-Saxons were formed from largely identical tribal confederacies, their respective languages were very similar. Old Frisian is the most closely related language to Old English[57] and the modern Frisian dialects are in turn the closest related languages to contemporary English.) By the end of the 6th century, the Frisian territory in the northern Netherlands had expanded west to the North Sea coast and, by the 7th century, south to Dorestad. During this period most of the northern Netherlands was known as Frisia. This extended Frisian territory is sometimes referred to as _Frisia Magna_ (or Greater Frisia).
 
-Dorestad_and_trade_routes.jpg and main traderoutes.]] In the 7th and 8th centuries, the Frankish chronologies mention this area as the kingdom of the Frisians. This kingdom comprised the coastal provinces of the Netherlands and the German North Sea coast. During this time, the Frisian language was spoken along the entire southern North Sea coast. The 7th-century Frisian Kingdom (650–734) under King Aldegisel and King Redbad, had its centre of power in Utrecht.
+and main traderoutes.]] In the 7th and 8th centuries, the Frankish chronologies mention this area as the kingdom of the Frisians. This kingdom comprised the coastal provinces of the Netherlands and the German North Sea coast. During this time, the Frisian language was spoken along the entire southern North Sea coast. The 7th-century Frisian Kingdom (650–734) under King Aldegisel and King Redbad, had its centre of power in Utrecht.
 
 Dorestad was the largest settlement (emporia) in northwestern Europe. It had grown around a former Roman fortress. It was a large, flourishing trading place, three kilometers long and situated where the rivers Rhine and Lek diverge southeast of Utrecht near the modern town of Wijk bij Duurstede.[58][59] Although inland, it was a North Sea trading centre that primarily handled goods from the Middle Rhineland.[60][61] Wine was among the major products traded at Dorestad, likely from vineyards south of Mainz.[62] It was also widely known because of its mint. Between 600 and around 719 Dorestad was often fought over between the Frisians and the Franks.
 
 Franks
 
-Franks_expansion.gif from 481 to 870 CE.]]
+from 481 to 870 CE.]]
 
 After Roman government in the area collapsed, the Franks expanded their territories until there were numerous small Frankish kingdoms, especially at Cologne, Tournai, Le Mans and Cambrai.[63][64] The kings of Tournai eventually came to subdue the other Frankish kings. By the 490s, Clovis I had conquered and united all the Frankish territories to the west of the Meuse, including those in the southern Netherlands. He continued his conquests into Gaul.
 
@@ -192,7 +188,7 @@ The Franks who expanded south into Gaul settled there and eventually adopted the
 
 Modern doubts about the traditional Frisian, Frank and Saxon distinction
 
-Willibrord_e.jpg, Anglo-Saxon missionary from Northumberland, Apostle to the Frisians, first bishop of Utrecht.]]
+, Anglo-Saxon missionary from Northumberland, Apostle to the Frisians, first bishop of Utrecht.]]
 
 In the late 19th century, Dutch historians believed that the Franks, Frisians, and Saxons were the original ancestors of the Dutch people. Some went further by ascribing certain attributes, values and strengths to these various groups and proposing that they reflected 19th-century nationalist and religious views. In particular, it was believed that this theory explained why Belgium and the southern Netherlands (i.e. the Franks) had become Catholic and the northern Netherlands (Frisians and Saxons) had become Protestant. The success of this theory was partly due to anthropological theories based on a tribal paradigm. Being politically and geographically inclusive, and yet accounting for diversity, this theory was in accordance with the need for nation-building and integration during the 1890–1914 period. The theory was taught in Dutch schools.
 
@@ -214,7 +210,7 @@ Hiberno-Scottish and Anglo-Saxon missionaries, particularly Willibrord, Wulfram 
 
 Frankish dominance and incorporation into the Holy Roman Empire
 
-Radboud_doopvont.jpg, who died in 719 CE.]]
+, who died in 719 CE.]]
 
 In the early 8th century the Frisians came increasingly into conflict with the Franks to the south, resulting in a series of wars in which the Frankish Empire eventually subjugated Frisia. In 734, at the Battle of the Boarn, the Frisians in the Netherlands were defeated by the Franks, who thereby conquered the area west of the Lauwers. The Franks then conquered the area east of the Lauwers in 785 when Charlemagne defeated Widukind.
 
@@ -230,7 +226,7 @@ Middle Francia fell to Lothair I, the eldest son and successor of Louis the Piou
 
 Viking raids
 
-Rorik_by_H._W._Koekkoek.jpg, Viking conqueror and ruler of Friesland, a romantic 1912 depiction by Johannes H. Koekkoek.]] In the 9th and 10th centuries, the Vikings raided the largely defenceless Frisian and Frankish towns lying on the coast and along the rivers of the Low Countries. Although Vikings never settled in large numbers in those areas, they did set up long-term bases and were even acknowledged as lords in a few cases. In Dutch and Frisian historical tradition, the trading centre of Dorestad declined after Viking raids from 834 to 863; however, since no convincing Viking archaeological evidence has been found at the site (as of 2007), doubts about this have grown in recent years.[82]
+, Viking conqueror and ruler of Friesland, a romantic 1912 depiction by Johannes H. Koekkoek.]] In the 9th and 10th centuries, the Vikings raided the largely defenceless Frisian and Frankish towns lying on the coast and along the rivers of the Low Countries. Although Vikings never settled in large numbers in those areas, they did set up long-term bases and were even acknowledged as lords in a few cases. In Dutch and Frisian historical tradition, the trading centre of Dorestad declined after Viking raids from 834 to 863; however, since no convincing Viking archaeological evidence has been found at the site (as of 2007), doubts about this have grown in recent years.[82]
 
 One of the most important Viking families in the Low Countries was that of Rorik of Dorestad (based in Wieringen) and his brother the "younger Harald" (based in Walcheren), both thought to be nephews of Harald Klak.[83] Around 850, Lothair I acknowledged Rorik as ruler of most of Friesland. And again in 870, Rorik was received by Charles the Bald in Nijmegen, to whom he became a vassal. Viking raids continued during that period. Harald's son Rodulf and his men were killed by the people of Oostergo in 873. Rorik died sometime before 882.
 
@@ -251,7 +247,7 @@ The German kings and emperors ruled the Netherlands in the 10th and 11th century
 
 Political disunity
 
-Valkhofkapel.JPG, one of the oldest buildings in the Netherlands.]]
+, one of the oldest buildings in the Netherlands.]]
 
 The Holy Roman Empire was not able to maintain political unity. In addition to the growing independence of the towns, local rulers turned their counties and duchies into private kingdoms and felt little sense of obligation to the emperor who reigned over large parts of the nation in name only. Large parts of what now comprise the Netherlands were governed by the Count of Holland, the Duke of Gelre, the Duke of Brabant and the Bishop of Utrecht. Friesland and Groningen in the north maintained their independence and were governed by the lower nobility.
 
@@ -265,7 +261,7 @@ The rest of Friesland in the north continued to maintain its independence during
 
 The rise of Holland
 
-Rochussen_Egmond.jpg, 1114–1157, and his mother Petronella visiting the work on the Egmond Abbey, Charles Rochussen, 1881. The sculpture is the Egmond Tympanum, depicting the two visitors on either side of Saint Peter.]] Master_of_the_St_Elizabeth_Panels_001.jpg of 18–19 November 1421, with Dordrecht at the front left.]]
+, 1114–1157, and his mother Petronella visiting the work on the Egmond Abbey, Charles Rochussen, 1881. The sculpture is the Egmond Tympanum, depicting the two visitors on either side of Saint Peter.]] of 18–19 November 1421, with Dordrecht at the front left.]]
 
 The center of power in these emerging independent territories was in the County of Holland. Originally granted as a fief to the Danish chieftain Rorik in return for loyalty to the emperor in 862, the region of Kennemara (the region around modern Haarlem) rapidly grew under Rorik's descendants in size and importance. By the early 11th century, Dirk III, Count of Holland was levying tolls on the Meuse estuary and was able to resist military intervention from his overlord, the Duke of Lower Lorraine.
 
@@ -285,7 +281,7 @@ Cities arose and flourished, especially in Flanders and Brabant. As the cities g
 
 Hook and Cod Wars
 
-Jacoba_van_Beieren_(1401-1436),_gravin_van_Holland_en_Zeeland.jpg, 1401–1436, known to the Dutch as "Jacoba of Bavaria".]] The Hook and Cod Wars () were a series of wars and battles in the County of Holland between 1350 and 1490. Most of these wars were fought over the title of count of Holland, but some have argued that the underlying reason was because of the power struggle of the bourgeois in the cities against the ruling nobility.
+, 1401–1436, known to the Dutch as "Jacoba of Bavaria".]] The Hook and Cod Wars () were a series of wars and battles in the County of Holland between 1350 and 1490. Most of these wars were fought over the title of count of Holland, but some have argued that the underlying reason was because of the power struggle of the bourgeois in the cities against the ruling nobility.
 
 The Cod faction generally consisted of the more progressive cities of Holland. The Hook faction consisted for a large part of the conservative noblemen. Some of the main figures in this multi-generational conflict were William IV, Margaret, William V, William VI, Count of Holland and Hainaut, John and Philip the Good, Duke of Burgundy. But perhaps the most well known is Jacqueline, Countess of Hainaut.
 
@@ -293,8 +289,6 @@ The conquest of the county of Holland by the Duke Philip the Good of Burgundy wa
 
 
 Burgundian and Habsburg period (1433–1567)
-
-Political_map_of_the_Low_Countries_(1350)-NL.svg
 
 Burgundian period
 
@@ -304,9 +298,9 @@ Holland's trade developed rapidly, especially in the areas of shipping and trans
 
 Habsburg rule from Spain
 
-Hadrian_VI.jpg theologian Adriaan Florenszoon Boeyens, 1459–1523, was an advisor to Charles; in the last year of his life he became pope as Pope Adrian VI (1522–23).]] Charles V (1500–58) was born and raised in the Flemish city of Ghent; he spoke French. Charles extended the Burgundian territory with the annexation of Tournai, Artois, Utrecht, Groningen and Guelders. The Seventeen Provinces had been unified by Charles's Burgundian ancestors, but nominally were fiefs of either France or the Holy Roman Empire. When he was a minor, his aunt Margaret acted as regent until 1515. France relinquished its ancient claim on Flanders in 1528.[86]
+theologian Adriaan Florenszoon Boeyens, 1459–1523, was an advisor to Charles; in the last year of his life he became pope as Pope Adrian VI (1522–23).]] Charles V (1500–58) was born and raised in the Flemish city of Ghent; he spoke French. Charles extended the Burgundian territory with the annexation of Tournai, Artois, Utrecht, Groningen and Guelders. The Seventeen Provinces had been unified by Charles's Burgundian ancestors, but nominally were fiefs of either France or the Holy Roman Empire. When he was a minor, his aunt Margaret acted as regent until 1515. France relinquished its ancient claim on Flanders in 1528.[86]
 
-Hans_Holbein_d._J._-_Erasmus_-_Louvre.jpg, 1466–1536, Rotterdam Renaissance humanist, Catholic priest and theologian, by Hans Holbein the Younger, 1523.]] From 1515 to 1523, Charles's government in the Netherlands had to contend with the rebellion of Frisian peasants (led by Pier Gerlofs Donia and Wijard Jelckama). Gelre attempted to build up its own state in northeast Netherlands and northwest Germany. Lacking funds in the 16th century, Gelre had its soldiers provide for themselves by pillaging enemy terrain. These soldiers were a great menace to the Burgundian Netherlands, as when they pillaged The Hague.
+, 1466–1536, Rotterdam Renaissance humanist, Catholic priest and theologian, by Hans Holbein the Younger, 1523.]] From 1515 to 1523, Charles's government in the Netherlands had to contend with the rebellion of Frisian peasants (led by Pier Gerlofs Donia and Wijard Jelckama). Gelre attempted to build up its own state in northeast Netherlands and northwest Germany. Lacking funds in the 16th century, Gelre had its soldiers provide for themselves by pillaging enemy terrain. These soldiers were a great menace to the Burgundian Netherlands, as when they pillaged The Hague.
 
 The dukes of Burgundy over the years through astute marriages, purchases and wars, had taken control of the Seventeen Provinces that made up the Low Countries. They are now the Netherlands in the north, the Southern Netherlands (now Belgium) in the south, and Luxemburg in the southeast. Known as the "Burgundian Circle," these lands came under the control of the Habsburg family. Charles (1500–58) became the owner in 1506, but in 1515 he left to become king of Spain and later became the Holy Roman Emperor. Charles turned over control to regents (his close relatives), and in practice rule was exercised by Spaniards he controlled. The provinces each had their own governments and courts, controlled by the local nobility, and their own traditions and rights ("liberties") dating back centuries. Likewise the numerous cities had their own legal rights and local governments, usually controlled by the merchants, On top of this the Spanish had imposed an overall government, the Estates General of the Netherlands, with its own officials and courts.[87] The Spanish officials sent by Charles ignored traditions and the Dutch nobility as well as local officials, inciting an anti-Spanish sense of nationalism, and leading to the Dutch Revolt. With the emergence of the Protestant Reformation, Charles—now the Emperor—was determined to crush Protestantism and never compromise with it. Unrest began in the south, centered in the large rich metropolis of Antwerp. The Netherlands was an especially rich unit of the Spanish realm, especially after the Treaty of Cateau-Cambresis of 1559; it ended four decades of warfare between France and Spain and allowed Spain to reposition its army.[88]
 
@@ -314,7 +308,7 @@ In 1548, Charles granted the Netherlands status as an entity in which many of th
 
 The Reformation
 
-Statenvertaling_title_page.jpg, the first Bible translated from the original Hebrew and Greek into Dutch, commissioned by the Calvinist Synod of Dort, used well into the 20th century.]] During the 16th century, the Protestant Reformation rapidly gained ground in northern Europe, especially in its Lutheran and Calvinist forms.[91] Dutch Protestants, after initial repression, were tolerated by local authorities. By the 1560s, the Protestant community had become a significant influence in the Netherlands, although it clearly formed a minority then.[92] In a society dependent on trade, freedom and tolerance were considered essential. Nevertheless, the Catholic rulers Charles V, and later Philip II, made it their mission to defeat Protestantism, which was considered a heresy by the Catholic Church and a threat to the stability of the whole hierarchical political system. On the other hand, the intensely moralistic Dutch Protestants insisted their Biblical theology, sincere piety and humble lifestyle was morally superior to the luxurious habits and superficial religiosity of the ecclesiastical nobility.[93] The rulers' harsh punitive measures led to increasing grievances in the Netherlands, where the local governments had embarked on a course of peaceful coexistence. In the second half of the century, the situation escalated. Philip sent troops to crush the rebellion and make the Netherlands once more a Catholic region.[94]
+, the first Bible translated from the original Hebrew and Greek into Dutch, commissioned by the Calvinist Synod of Dort, used well into the 20th century.]] During the 16th century, the Protestant Reformation rapidly gained ground in northern Europe, especially in its Lutheran and Calvinist forms.[91] Dutch Protestants, after initial repression, were tolerated by local authorities. By the 1560s, the Protestant community had become a significant influence in the Netherlands, although it clearly formed a minority then.[92] In a society dependent on trade, freedom and tolerance were considered essential. Nevertheless, the Catholic rulers Charles V, and later Philip II, made it their mission to defeat Protestantism, which was considered a heresy by the Catholic Church and a threat to the stability of the whole hierarchical political system. On the other hand, the intensely moralistic Dutch Protestants insisted their Biblical theology, sincere piety and humble lifestyle was morally superior to the luxurious habits and superficial religiosity of the ecclesiastical nobility.[93] The rulers' harsh punitive measures led to increasing grievances in the Netherlands, where the local governments had embarked on a course of peaceful coexistence. In the second half of the century, the situation escalated. Philip sent troops to crush the rebellion and make the Netherlands once more a Catholic region.[94]
 
 In the first wave of the Reformation, Lutheranism won over the elites in Antwerp and the South. The Spanish successfully suppressed it there, and Lutheranism only flourished in east Friesland.[95]
 
@@ -335,7 +329,7 @@ The only opposition the Duke of Alba faced in his march across the Netherlands w
 
 The Eighty Years' War (1568–1648)
 
-Slag_bij_Nieuwpoort.jpg at the Battle of Nieuwpoort, 1600 CE, by Paulus van Hillegaert.]] Leo_belgicus.png, a map of the low countries drawn in the shape of a lion, by Claes Jansz. Visscher (II), 1609 CE.]] The Dutch War for Independence from Spain is frequently called the Eighty Years' War (1568–1648). The first fifty years (1568 through 1618) were uniquely a war between Spain and the Netherlands. During the last thirty years (1618–1648) the conflict between Spain and the Netherlands was submerged in the general European War that became known as the Thirty Years' War.[104] The seven rebellious provinces of the Netherlands were eventually united by the Union of Utrecht in 1579 and formed the Republic of the Seven United Netherlands (also known as the "United Provinces"). The Act of Abjuration or _Plakkaat van Verlatinghe_ was signed on 26 July 1581, and was the formal declaration of independence of the northern Low Countries from the Spanish king.
+at the Battle of Nieuwpoort, 1600 CE, by Paulus van Hillegaert.]] , a map of the low countries drawn in the shape of a lion, by Claes Jansz. Visscher (II), 1609 CE.]] The Dutch War for Independence from Spain is frequently called the Eighty Years' War (1568–1648). The first fifty years (1568 through 1618) were uniquely a war between Spain and the Netherlands. During the last thirty years (1618–1648) the conflict between Spain and the Netherlands was submerged in the general European War that became known as the Thirty Years' War.[104] The seven rebellious provinces of the Netherlands were eventually united by the Union of Utrecht in 1579 and formed the Republic of the Seven United Netherlands (also known as the "United Provinces"). The Act of Abjuration or _Plakkaat van Verlatinghe_ was signed on 26 July 1581, and was the formal declaration of independence of the northern Low Countries from the Spanish king.
 
 William of Orange (Slot Dillenburg, 24 April 1533 – Delft, 10 July 1584), the founder of the Dutch royal family, led the Dutch during the first part of the war, following the death of Egmont and Horn in 1568. The very first years were a success for the Spanish troops. However, the Dutch countered subsequent sieges in Holland. In November and December 1572, all the citizens of Zutphen and Naarden were slaughtered by the Spanish. From 11 December that year the city of Haarlem was besieged, holding out for seven months until 13 July 1573. Oudewater was conquered by the Spanish on 7 August 1575, and most of its inhabitants were killed. Maastricht was besieged, sacked and destroyed twice in succession (in 1576 and 1579) by the Spanish.
 
@@ -348,27 +342,27 @@ The Catholics in the Netherlands were an outlawed minority that had been suppres
 
 Golden Age
 
-Seven_United_Netherlands_Janssonius_1658.jpg During the Eighty Years' War the Dutch provinces became the most important trading centre of Northern Europe, replacing Flanders in this respect. During the Golden Age, there was a great flowering of trade, industry, the arts and the sciences in the Netherlands. In the 17th and 18th centuries, the Dutch were arguably the most economically wealthy and scientifically advanced of all European nations. This new, officially Calvinist nation flourished culturally and economically, creating what historian Simon Schama has called an "embarrassment of riches".[109] Speculation in the tulip trade led to a first stock market crash in 1637, but the economic crisis was soon overcome. Due to these developments the 17th century has been dubbed the Golden Age of the Netherlands.
+During the Eighty Years' War the Dutch provinces became the most important trading centre of Northern Europe, replacing Flanders in this respect. During the Golden Age, there was a great flowering of trade, industry, the arts and the sciences in the Netherlands. In the 17th and 18th centuries, the Dutch were arguably the most economically wealthy and scientifically advanced of all European nations. This new, officially Calvinist nation flourished culturally and economically, creating what historian Simon Schama has called an "embarrassment of riches".[109] Speculation in the tulip trade led to a first stock market crash in 1637, but the economic crisis was soon overcome. Due to these developments the 17th century has been dubbed the Golden Age of the Netherlands.
 
 The invention[110] of the sawmill enabled the construction of a massive fleet of ships for worldwide trading and for defence of the republic's economic interests by military means. National industries such as shipyards and sugar refineries expanded as well.
 
-Anatomie_Nicolaes_Tulp.jpg, by Rembrandt van Rijn, 1632 CE.]] The Dutch, traditionally able seafarers and keen mapmakers,[111] obtained an increasingly dominant position in world trade, a position which before had been occupied by the Portuguese and Spaniards. In 1602 the Dutch East India Company (Dutch: _Verenigde Oostindische Compagnie_ or _VOC_) was founded. It was the first-ever multinational corporation, financed by shares that established the first modern stock exchange. It became the world's largest commercial enterprise of the 17th century. To finance the growing trade within the region, the Bank of Amsterdam was established in 1609, the precursor to, if not the first true central bank.[112]
+, by Rembrandt van Rijn, 1632 CE.]] The Dutch, traditionally able seafarers and keen mapmakers,[111] obtained an increasingly dominant position in world trade, a position which before had been occupied by the Portuguese and Spaniards. In 1602 the Dutch East India Company (Dutch: _Verenigde Oostindische Compagnie_ or _VOC_) was founded. It was the first-ever multinational corporation, financed by shares that established the first modern stock exchange. It became the world's largest commercial enterprise of the 17th century. To finance the growing trade within the region, the Bank of Amsterdam was established in 1609, the precursor to, if not the first true central bank.[112]
 
 Dutch ships hunted whales off Svalbard, traded spices in India and Indonesia (via the Dutch East India Company) and founded colonies in New Amsterdam (now New York), South Africa and the West Indies. In addition some Portuguese colonies were conquered, namely in Northeastern Brazil, Angola, Indonesia and Ceylon. In 1640 by the Dutch East India Company began a trade monopoly with Japan through the trading post on Dejima.
 
 The Dutch also dominated trade between European countries. The Low Countries were favorably positioned on a crossing of east-west and north-south trade routes and connected to a large German hinterland through the Rhine river. Dutch traders shipped wine from France and Portugal to the Baltic lands and returned with grain destined for countries around the Mediterranean Sea. By the 1680s, an average of nearly 1000 Dutch ships entered the Baltic Sea each year.[113] The Dutch were able to gain control of much of the trade with the nascent English colonies in North America and following the end of war with Spain in 1648, Dutch trade with that country also flourished.
 
-Anthonie_van_Leeuwenhoek_(1632-1723)._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg was a businessman and scientist in the Golden Age of Dutch science and technology.]] Renaissance Humanism, of which Desiderius Erasmus (c. 1466–1536) was an important advocate, had also gained a firm foothold and was partially responsible for a climate of tolerance. Overall, levels of tolerance were sufficiently high to attract religious refugees from other countries, notably Jewish merchants from Portugal who brought much wealth with them. The revocation of the Edict of Nantes in France in 1685 resulted in the immigration of many French Huguenots, many of whom were shopkeepers or scientists. Still tolerance had its limits, as philosopher Baruch de Spinoza (1632–1677) would find out. Due to its climate of intellectual tolerance the Dutch Republic attracted scientists and other thinkers from all over Europe. Especially the renowned University of Leiden (established in 1575 by the Dutch stadtholder, William of Oranje, as a token of gratitude for Leiden's fierce resistance against Spain during the Eighty Years' War) became a gathering place for these people. For instance French philosopher René Descartes lived in Leiden from 1628 until 1649.
+was a businessman and scientist in the Golden Age of Dutch science and technology.]] Renaissance Humanism, of which Desiderius Erasmus (c. 1466–1536) was an important advocate, had also gained a firm foothold and was partially responsible for a climate of tolerance. Overall, levels of tolerance were sufficiently high to attract religious refugees from other countries, notably Jewish merchants from Portugal who brought much wealth with them. The revocation of the Edict of Nantes in France in 1685 resulted in the immigration of many French Huguenots, many of whom were shopkeepers or scientists. Still tolerance had its limits, as philosopher Baruch de Spinoza (1632–1677) would find out. Due to its climate of intellectual tolerance the Dutch Republic attracted scientists and other thinkers from all over Europe. Especially the renowned University of Leiden (established in 1575 by the Dutch stadtholder, William of Oranje, as a token of gratitude for Leiden's fierce resistance against Spain during the Eighty Years' War) became a gathering place for these people. For instance French philosopher René Descartes lived in Leiden from 1628 until 1649.
 
 Dutch lawyers were famous for their knowledge of international law of the sea and commercial law. Hugo Grotius (1583–1645) played a leading part in the foundation of international law. Again due to the Dutch climate of tolerance, book publishers flourished. Many books about religion, philosophy and science that might have been deemed controversial abroad were printed in the Netherlands and secretly exported to other countries. Thus during the 17th century the Dutch Republic became more and more Europe's publishing house.
 
-Meisje_met_de_parel.jpg's _Girl with a Pearl Earring_]]
+'s _Girl with a Pearl Earring_]]
 
 Christiaan Huygens (1629–1695) was a famous astronomer, physicist and mathematician. He invented the pendulum clock, which was a major step forward towards exact timekeeping. He contributed to the fields of optics. The most famous Dutch scientist in the area of optics is certainly Anton van Leeuwenhoek, who invented or greatly improved the microscope (opinions differ) and was the first to methodically study microscopic life, thus laying the foundations for the field of microbiology. Famous Dutch hydraulic engineer Jan Leeghwater (1575–1650) gained important victories in The Netherlands's eternal battle against the sea. Leeghwater added a considerable amount of land to the republic by converting several large lakes into polders, pumping all water out with windmills.
 
 Painting was the dominant art form in 17th-century Holland. Dutch Golden Age painting followed many of the tendencies that dominated Baroque art in other parts of Europe, as with the Utrecht Caravaggisti, but was the leader in developing the subjects of still life, landscape, and genre painting. Portraiture were also popular, but history painting – traditionally the most-elevated genre struggled to find buyers. Church art was virtually non-existent, and little sculpture of any kind produced. While art collecting and painting for the open market was also common elsewhere, art historians point to the growing number of wealthy Dutch middle-class and successful mercantile patrons as driving forces in the popularity of certain pictorial subjects.[114] Today, the best-known painters of the Dutch Golden Age are the period's most dominant figure Rembrandt, the Delft master of genre Johannes Vermeer, the innovative landscape painter Jacob van Ruisdael, and Frans Hals, who infused new life into portraiture. Some notable artistic styles and trends include Haarlem Mannerism, Utrecht Caravaggism, the School of Delft, the Leiden fijnschilders, and Dutch classicism.
 
-Den_Haag,_Mauritshuis_vanaf_Hofvijver_2006-05-29_16.12.JPG Mauritshuis, named after Prince Johan Maurits and built 1636–1641, was designed by Jacob van Campen and Pieter Post.]] Due to the thriving economy, cities expanded greatly. New town halls, weighhouses and storehouses were built. Merchants that had gained a fortune ordered a new house built along one of the many new canals that were dug out in and around many cities (for defence and transport purposes), a house with an ornamented façade that befitted their new status. In the countryside, many new castles and stately homes were built. Most of them have not survived. Starting at 1595 Reformed churches were commissioned, many of which are still landmarks today. The most famous Dutch architects of the 17th century were Jacob van Campen, Pieter Post, Pieter Vingbooms, Lieven de Key, Hendrick de Keyser. Overall, Dutch architecture, which generally combined traditional building styles with some foreign elements, did not develop to the level of painting.
+Mauritshuis, named after Prince Johan Maurits and built 1636–1641, was designed by Jacob van Campen and Pieter Post.]] Due to the thriving economy, cities expanded greatly. New town halls, weighhouses and storehouses were built. Merchants that had gained a fortune ordered a new house built along one of the many new canals that were dug out in and around many cities (for defence and transport purposes), a house with an ornamented façade that befitted their new status. In the countryside, many new castles and stately homes were built. Most of them have not survived. Starting at 1595 Reformed churches were commissioned, many of which are still landmarks today. The most famous Dutch architects of the 17th century were Jacob van Campen, Pieter Post, Pieter Vingbooms, Lieven de Key, Hendrick de Keyser. Overall, Dutch architecture, which generally combined traditional building styles with some foreign elements, did not develop to the level of painting.
 
 The Golden Age was also an important time for developments in literature. Some of the major figures of this period were Gerbrand Adriaenszoon Bredero, Jacob Cats, Pieter Corneliszoon Hooft and Joost van den Vondel. Since Latin was the lingua franca of education, relatively few men could speak, write, and read Dutch all at the same time.
 
@@ -379,11 +373,9 @@ Dutch Empire
 
 The Dutch in the Americas
 
-GezichtOpNieuwAmsterdam.jpg
-
 The _Dutch West India Company_ was a chartered company (known as the "GWC") of Dutch merchants. On 2 June 1621, it was granted a charter for a trade monopoly in the West Indies (meaning the Caribbean) by the Republic of the Seven United Netherlands and given jurisdiction over the African slave trade, Brazil, the Caribbean, and North America. Its area of operations stretched from West Africa to the Americas, and the Pacific islands. The company became instrumental in the Dutch colonization of the Americas. The first forts and settlements in Guyana and on the Amazon River date from the 1590s. Actual colonization, with Dutch settling in the new lands, was not as common as with England and France. Many of the Dutch settlements were lost or abandoned by the end of that century, but the Netherlands managed to retain possession of Suriname and a number of Dutch Caribbean islands.
 
-Peter_Stuyvesant.jpg, Director-General of New Netherland (New York). His provincial capital, New Amsterdam, was located at the southern tip of the island of Manhattan.]] The colony was a private business venture to exploit the fur trade in beaver pelts. New Netherland was slowly settled during its first decades, partially as a result of policy mismanagement by the Dutch West India Company (WIC), and conflicts with Native Americans. During the 1650s, the colony experienced dramatic growth and became a major port for trade in the Atlantic World, tolerating a highly diverse ethnic mix. The surrender of Fort Amsterdam to the British control in 1664 was formalized in 1667, contributing to the Second Anglo–Dutch War. In 1673 the Dutch re-took the area, but later relinquished it under the 1674 Treaty of Westminster ending the Third Anglo-Dutch War.
+, Director-General of New Netherland (New York). His provincial capital, New Amsterdam, was located at the southern tip of the island of Manhattan.]] The colony was a private business venture to exploit the fur trade in beaver pelts. New Netherland was slowly settled during its first decades, partially as a result of policy mismanagement by the Dutch West India Company (WIC), and conflicts with Native Americans. During the 1650s, the colony experienced dramatic growth and became a major port for trade in the Atlantic World, tolerating a highly diverse ethnic mix. The surrender of Fort Amsterdam to the British control in 1664 was formalized in 1667, contributing to the Second Anglo–Dutch War. In 1673 the Dutch re-took the area, but later relinquished it under the 1674 Treaty of Westminster ending the Third Anglo-Dutch War.
 
 Descendants of the original settlers played a prominent role in the History of the United States, as typified by the Roosevelt and Vanderbilt families. The Hudson Valley still boasts a Dutch heritage. The concepts of civil liberties and pluralism introduced in the province became mainstays of American political and social life.[115]
 
@@ -393,19 +385,19 @@ Although slavery was illegal inside the Netherlands it flourished in the Dutch E
 
 The Dutch in Asia: The Dutch East India Company
 
-De_handelsloge_van_de_VOC_in_Hougly_in_Bengalen_Rijksmuseum_SK-A-4282.jpeg factory in Hugli-Chuchura, Mughal Bengal. _Hendrik van Schuylenburgh, 1665_]] Andries_Beeckman_-_The_Castle_of_Batavia.jpg, by Andries Beeckman c. 1656 CE.]] The Dutch East India Company, called the VOC, began in 1602, when the government gave it a monopoly to trade with Asia, mainly to Mughal India. It had many world firsts—the first multinational corporation, the first company to issue stock, and was the first megacorporation, possessing quasi-governmental powers, including the ability to wage war, negotiate treaties, coin money, and establish colonial settlements.[119]
+factory in Hugli-Chuchura, Mughal Bengal. _Hendrik van Schuylenburgh, 1665_]] , by Andries Beeckman c. 1656 CE.]] The Dutch East India Company, called the VOC, began in 1602, when the government gave it a monopoly to trade with Asia, mainly to Mughal India. It had many world firsts—the first multinational corporation, the first company to issue stock, and was the first megacorporation, possessing quasi-governmental powers, including the ability to wage war, negotiate treaties, coin money, and establish colonial settlements.[119]
 
 England and France soon copied its model but could not match its record. Between 1602 and 1796 the VOC sent almost a million Europeans to work in the Asia trade on 4,785 ships. It returned over 2.5 million tons of Asian trade goods. The VOC enjoyed huge profits from its spice monopoly through most of the 17th century. The VOC was active chiefly in the Dutch East Indies, now Indonesia, where its base was Batavia (now Jakarta), which remained an important trading concern and paid an 18% annual dividend for almost 200 years; colonized parts of Taiwan between 1624–1662 and 1664–1667 and the only western trading post in Japan, Dejima.
 
 During the period of Proto-industrialization, the empire received 50% of textiles and 80% of silks import from the India's Mughal Empire, chiefly from its most developed region known as Bengal Subah.[120][121][122][123]
 
-De_Lannoy_Surrender.JPG of the Dutch East India Company surrenders to Maharaja Marthanda Varma of the Indian Kingdom of Travancore after the Battle of Colachel. (Depiction at Padmanabhapuram Palace)]] By the 17th century, the Dutch East India Company established their base in parts of Ceylon (modern-day Sri Lanka). Afterward, they established ports in Dutch occupied Malabar, leading to Dutch settlements and trading posts in India. However, their expansion into India was halted, after their defeat in the Battle of Colachel by the Kingdom of Travancore, during the Travancore-Dutch War. The Dutch never recovered from the defeat and no longer posed a large colonial threat to India.[124][125]
+of the Dutch East India Company surrenders to Maharaja Marthanda Varma of the Indian Kingdom of Travancore after the Battle of Colachel. (Depiction at Padmanabhapuram Palace)]] By the 17th century, the Dutch East India Company established their base in parts of Ceylon (modern-day Sri Lanka). Afterward, they established ports in Dutch occupied Malabar, leading to Dutch settlements and trading posts in India. However, their expansion into India was halted, after their defeat in the Battle of Colachel by the Kingdom of Travancore, during the Travancore-Dutch War. The Dutch never recovered from the defeat and no longer posed a large colonial threat to India.[124][125]
 
 Eventually, the Dutch East India Company was weighted down by corruption, the VOC went bankrupt in 1800. Its possessions were taken over by the government and turned into the Dutch East Indies.
 
 The Dutch in Africa
 
-Charles_Bell_-_Jan_van_Riebeeck_se_aankoms_aan_die_Kaap.jpg, by Charles Bell.]] In 1647, a Dutch vessel was wrecked in the present-day Table Bay at Cape Town. The marooned crew, the first Europeans to attempt settlement in the area, built a fort and stayed for a year until they were rescued. Shortly thereafter, the Dutch East India Company (in the Dutch of the day: _Vereenigde Oostindische Compagnie_, or VOC) decided to establish a permanent settlement. The VOC, one of the major European trading houses sailing the spice route to East Asia, had no intention of colonizing the area, instead wanting only to establish a secure base camp where passing ships could shelter, and where hungry sailors could stock up on fresh supplies of meat, fruit, and vegetables. To this end, a small VOC expedition under the command of Jan van Riebeeck reached Table Bay on 6 April 1652.[126]
+, by Charles Bell.]] In 1647, a Dutch vessel was wrecked in the present-day Table Bay at Cape Town. The marooned crew, the first Europeans to attempt settlement in the area, built a fort and stayed for a year until they were rescued. Shortly thereafter, the Dutch East India Company (in the Dutch of the day: _Vereenigde Oostindische Compagnie_, or VOC) decided to establish a permanent settlement. The VOC, one of the major European trading houses sailing the spice route to East Asia, had no intention of colonizing the area, instead wanting only to establish a secure base camp where passing ships could shelter, and where hungry sailors could stock up on fresh supplies of meat, fruit, and vegetables. To this end, a small VOC expedition under the command of Jan van Riebeeck reached Table Bay on 6 April 1652.[126]
 
 To remedy a labour shortage, the VOC released a small number of VOC employees from their contracts and permitted them to establish farms with which they would supply the VOC settlement from their harvests. This arrangement proved highly successful, producing abundant supplies of fruit, vegetables, wheat, and wine; they also later raised livestock. The small initial group of "free burghers", as these farmers were known, steadily increased in number and began to expand their farms further north and east.
 
@@ -413,11 +405,11 @@ The majority of burghers had Dutch ancestry and belonged to the Calvinist Reform
 
 From the beginning, the VOC used the cape as a place to supply ships travelling between the Netherlands and the Dutch East Indies. There was a close association between the cape and these Dutch possessions in the far east. Van Riebeeck and the VOC began to import large numbers of slaves, primarily from Madagascar and Indonesia. These slaves often married Dutch settlers, and their descendants became known as the Cape Coloureds and the Cape Malays.
 
-Aernout_Smit_Table_Bay,_1683_William_Fehr_Collection_Cape_Town.jpg by Aernout Smit, 1683.]] During the 18th century, the Dutch settlement in the area of the cape grew and prospered. By the late 1700s, the Cape Colony was one of the best developed European settlements outside Europe or the Americas.[127] The two bases of the Cape Colony's economy for almost the entirety of its history were shipping and agriculture. Its strategic position meant that almost every ship sailing between Europe and Asia stopped off at the colony's capital Cape Town. The supplying of these ships with fresh provisions, fruit, and wine provided a very large market for the surplus produce of the colony.[128]
+by Aernout Smit, 1683.]] During the 18th century, the Dutch settlement in the area of the cape grew and prospered. By the late 1700s, the Cape Colony was one of the best developed European settlements outside Europe or the Americas.[127] The two bases of the Cape Colony's economy for almost the entirety of its history were shipping and agriculture. Its strategic position meant that almost every ship sailing between Europe and Asia stopped off at the colony's capital Cape Town. The supplying of these ships with fresh provisions, fruit, and wine provided a very large market for the surplus produce of the colony.[128]
 
 Some free burghers continued to expand into the rugged hinterlands of the north and east, many began to take up a semi-nomadic pastoralist lifestyle, in some ways not far removed from that of the Khoikhoi they had displaced. In addition to its herds, a family might have a wagon, a tent, a Bible, and a few guns. As they became more settled, they would build a mud-walled cottage, frequently located, by choice, days of travel from the nearest European settlement. These were the first of the Trekboers (Wandering Farmers, later shortened to Boers), completely independent of official controls, extraordinarily self-sufficient, and isolated from the government and the main settlement in Cape Town.
 
-TrekBoers_crossing_the_Karoo.jpgs.]] Dutch was the official language, but a dialect had formed that was quite distinct from Dutch. The Afrikaans language originated mainly from 17th-century Dutch dialects.[129][130]
+s.]] Dutch was the official language, but a dialect had formed that was quite distinct from Dutch. The Afrikaans language originated mainly from 17th-century Dutch dialects.[129][130]
 
 This Dutch dialect sometimes referred to as the "kitchen language" (_kombuistaal_),[131] would eventually in the late 19th century be recognised as a distinct language called Afrikaans and replace Dutch as the official language of the Afrikaners.
 
@@ -428,7 +420,7 @@ Dutch interest in South Africa was mainly as a strategically located VOC port. Y
 
 Dutch Republic: Regents and Stadholders (1649–1784)
 
-Hendrick_Avercamp_-_A_Scene_on_the_Ice_-_WGA01076.jpg.]]
+.]]
 
 The Netherlands gained independence from Spain as a result of the Eighty Years' War, during which the Dutch Republic was founded. As the Netherlands was a republic, it was largely governed by an aristocracy of city-merchants called the regents, rather than by a king. Every city and province had its own government and laws, and a large degree of autonomy. After attempts to find a competent sovereign proved unsuccessful, it was decided that sovereignty would be vested in the various provincial Estates, the governing bodies of the provinces. The Estates-General, with its representatives from all the provinces, would decide on matters important to the Republic as a whole. However, at the head of each province was the stadtholder of that province, a position held by a descendant of the House of Orange. Usually the stadtholdership of several provinces was held by a single man.
 
@@ -436,7 +428,7 @@ After having gained its independence in 1648, the Netherlands tried in various c
 
 The economy, based on Amsterdam's role as the center of world trade, remained robust. In 1670 the Dutch merchant marine totalled 568,000 tons of shipping—about half the European total.[132] The province of Holland was highly commercial and dominated the country. Its nobility was small and closed and had little influence, for it was numerically small, politically weak, and formed a strictly closed caste. Most land in the province of Holland was commercialized for cash crops and was owned by urban capitalists, not nobles; there were few links between Holland's nobility and the merchants. By 1650 the burgher families which had grown wealthy through commerce and become influential in government controlled the province of Holland, and to a large extent shaped national policies. The other six provinces were more rural and traditional in life style, had an active nobility, and played a small role in commerce and national politics. Instead they concentrated on their flood protections and land reclamation projects.[133][134]
 
-Semper_Augustus_Tulip_17th_century.jpg.]]
+.]]
 
 Refugees
 
@@ -452,7 +444,7 @@ Rapid industrialization led to the rapid growth of the nonagricultural labor for
 
 Amsterdam
 
-AmsterdamDamsquar.jpg'' in the late 17th century: painting by Gerrit Adriaenszoon Berckheyde (Gemäldegalerie, Dresden).]] By the mid-1660s Amsterdam had reached the optimum population (about 200,000) for the level of trade, commerce and agriculture then available to support it. The city contributed the largest quota in taxes to the States of Holland which in turn contributed over half the quota to the States General. Amsterdam was also one of the most reliable in settling tax demands and therefore was able to use the threat to withhold such payments to good effect.[138]
+'' in the late 17th century: painting by Gerrit Adriaenszoon Berckheyde (Gemäldegalerie, Dresden).]] By the mid-1660s Amsterdam had reached the optimum population (about 200,000) for the level of trade, commerce and agriculture then available to support it. The city contributed the largest quota in taxes to the States of Holland which in turn contributed over half the quota to the States General. Amsterdam was also one of the most reliable in settling tax demands and therefore was able to use the threat to withhold such payments to good effect.[138]
 
 Amsterdam was governed by a body of regents, a large, but closed, oligarchy with control over all aspects of the city's life, and a dominant voice in the foreign affairs of Holland. Only men with sufficient wealth and a long enough residence within the city could join the ruling class. The first step for an ambitious and wealthy merchant family was to arrange a marriage with a long-established regent family. In the 1670s one such union, that of the Trip family (the Amsterdam branch of the Swedish arms makers) with the son of Burgomaster Valckenier, extended the influence and patronage available to the latter and strengthened his dominance of the council. The oligarchy in Amsterdam thus gained strength from its breadth and openness. In the smaller towns family interest could unite members on policy decisions but contraction through intermarriage could lead to the degeneration of the quality of the members.
 
@@ -464,13 +456,13 @@ Amsterdam's wealth was generated by its commerce, which was in turn sustained by
 
 First Stadtholderless Period and the Anglo-Dutch Wars (1650–1674)
 
-Grand_Pensionary_Johan_de_Witt.jpg (born 1625, died 1672), Grand Pensionary of Holland, painted between 1643–1700 after Jan de Baen.]]
+(born 1625, died 1672), Grand Pensionary of Holland, painted between 1643–1700 after Jan de Baen.]]
 
 During the wars a tension had arisen between the Orange-Nassau leaders and the patrician merchants. The former—the Orangists—were soldiers and centralizers who seldom spoke of compromise with the enemy and looked for military solutions. They included many rural gentry as well as ordinary folk attached to the banner of the House of Orange. The latter group were the Republicans, led by the Grand Pensionary (a sort of prime minister) and the regents stood for localism, municipal rights, commerce, and peace.[144] In 1650, the stadtholder William II, Prince of Orange suddenly died; his son was a baby and the Orangists were leaderless. The regents seized the opportunity: there would be no new stadtholder in Holland for 22 years. Johan de Witt, a brilliant politician and diplomat, emerged as the dominant figure. Princes of Orange became the stadtholder and an almost hereditary ruler in 1672 and 1748. The Dutch Republic of the United Provinces was a true republic from 1650–1672 and 1702–1748. These periods are called the First Stadtholderless Period and Second Stadtholderless Period.
 
 Anglo-Dutch wars
 
-Vonstetinaseconddayof4daybattleof1666.jpg The Republic and England were major rivals in world trade and naval power. Halfway through the 17th century the Republic's navy was the rival of Britain's Royal Navy as the most powerful navy in the world. The Republic fought a series of three naval wars against England in 1652–74.[145]
+The Republic and England were major rivals in world trade and naval power. Halfway through the 17th century the Republic's navy was the rival of Britain's Royal Navy as the most powerful navy in the world. The Republic fought a series of three naval wars against England in 1652–74.[145]
 
 In 1651, England imposed its first Navigation Act, which severely hurt Dutch trade interests. An incident at sea concerning the Act resulted in the First Anglo-Dutch War, which lasted from 1652 to 1654, ending in the Treaty of Westminster (1654), which left the Navigation Act in effect.
 
@@ -478,7 +470,7 @@ After the English Restoration in 1660, Charles II tried to serve his dynastic in
 
 Franco-Dutch War and Third Anglo-Dutch War (1672–1702)
 
-King_William_III_of_England,_(1650-1702).jpg from 1689 to 1702 after the Glorious Revolution.]]
+from 1689 to 1702 after the Glorious Revolution.]]
 
 The year 1672 is known in the Netherlands as the "Disaster Year" (_Rampjaar_). England declared war on the Republic, (the Third Anglo-Dutch War), followed by France, Münster and Cologne, which had all signed alliances against the Republic. France, Cologne and Münster invaded the Republic. Johan de Witt and his brother Cornelis, who had accomplished a diplomatic balancing act for a long time, were now the obvious scapegoats. They were lynched, and a new stadtholder, William III, was appointed.[148]
 
@@ -488,7 +480,7 @@ In 1688, the relations with England reached crisis level once again. Stadtholder
 
 Second Stadtholderless Period (1702–1747)
 
-Cornelis_Troost02.jpg, 1724. This period is known as the "Periwig Era".]]
+, 1724. This period is known as the "Periwig Era".]]
 
 The _Second Stadtholderless Period_ () is the designation in Dutch historiography of the period between the death of stadtholder William III on 19 March[149] 1702 and the appointment of William IV, Prince of Orange as stadtholder and captain general in all provinces of the Dutch Republic on 2 May 1747. During this period the office of stadtholder was left vacant in the provinces of Holland, Zeeland, and Utrecht, though in other provinces that office was filled by members of the House of Nassau-Dietz (later called Orange-Nassau) during various periods.
 
@@ -512,7 +504,7 @@ Religious life became more relaxed as well. Catholics grew from 18% to 23% of th
 
 The Orangist revolution (1747–1751)
 
-StadhouderWillemIV(4).jpg, stadholder from 1747–1751 CE.]] Willem_v_(2).jpg, stadholder from 1751–1806, and Wilhelmina of Prussia with three of their five children. From left to right: the future William I of the Netherlands, Frederick, and Frederica Louise Wilhelmina.]]
+, stadholder from 1747–1751 CE.]] , stadholder from 1751–1806, and Wilhelmina of Prussia with three of their five children. From left to right: the future William I of the Netherlands, Frederick, and Frederica Louise Wilhelmina.]]
 
 During the term of Anthonie van der Heim as Grand Pensionary from 1737 to 1746, the Republic slowly drifted into the War of Austrian Succession. This started as a Prusso-Austrian conflict, but eventually all the neighbours of the Dutch Republic became involved. On one side were Prussia, France and their allies and on the other Austria, Britain (after 1744) and their allies. At first the Republic strove to remain neutral in this European conflict, but it maintained garrisons in a number of fortresses in the Austrian Netherlands. French grievances and threats spurred the Republic into bring its army up to European standards (84,000 men in 1743).[154]
 
@@ -534,7 +526,7 @@ An English historian summed him up uncharitably as "a Prince of the profoundest 
 
 Fourth Anglo-Dutch War (1780–1784)
 
-The_Battle_of_the_Dogger_Bank_5_August_1781.jpg by Thomas Luny.]] The Fourth Anglo–Dutch War (1780–1784) was a conflict between the Kingdom of Great Britain and the Dutch Republic. The war, tangentially related to the American Revolutionary War, broke out over British and Dutch disagreements on the legality and conduct of Dutch trade with Britain's enemies in that war.
+by Thomas Luny.]] The Fourth Anglo–Dutch War (1780–1784) was a conflict between the Kingdom of Great Britain and the Dutch Republic. The war, tangentially related to the American Revolutionary War, broke out over British and Dutch disagreements on the legality and conduct of Dutch trade with Britain's enemies in that war.
 
 Although the Dutch Republic did not enter into a formal alliance with the United States and their allies, U.S. ambassador (and future President) John Adams managed to establish diplomatic relations with the Dutch Republic, making it the second European country to diplomatically recognize the Continental Congress in April 1782. In October 1782, a treaty of amity and commerce was concluded as well.
 
@@ -547,7 +539,7 @@ After the war with Great Britain ended disastrously in 1784, there was growing u
 
 Patriot rebellion and its suppression (1785–1795)
 
-Jonas_Zeuner_-_Vuurgevecht_aan_de_Vaartse_Rijn.jpg at Jutphaas on 9 May 1787. The pro-revolutionary Utrecht Patriots are on the right; the troops of stadholder William V, Prince of Orange on the left. (Painted by Jonas Zeuner, 1787)]]
+at Jutphaas on 9 May 1787. The pro-revolutionary Utrecht Patriots are on the right; the troops of stadholder William V, Prince of Orange on the left. (Painted by Jonas Zeuner, 1787)]]
 
 Influenced by the American Revolution, the Patriots sought a more democratic form of government. The opening shot of this revolution is often considered to be the 1781 publication of a manifesto called _Aan het Volk van Nederland_ ("To the People of the Netherlands") by Joan van der Capellen tot den Pol, who would become an influential leader of the Patriot movement. Their aim was to reduce corruption and the power held by the stadtholder, William V, Prince of Orange.
 
@@ -561,13 +553,13 @@ This severe military response overwhelmed the Patriots and put the stadholder fi
 
 Batavian Republic (1795–1806)
 
-Vrijheidsboom.jpg The French Revolution was popular, and numerous underground clubs were promoting it when in January 1795 the French army invaded. The underground rose up, overthrew the municipal and provincial governments, and proclaimed the Batavian Republic () in Amsterdam. Stadtholder William V fled to England and the States General dissolved itself. The new government was virtually a puppet of France.[164] The Batavian Republic enjoyed widespread support and sent soldiers to fight in the French armies. The 1799 Anglo-Russian invasion of Holland was repulsed by Batavian–French forces. Nevertheless, Napoleon replaced it because the regime of Grand Pensionary Rutger Jan Schimmelpenninck (1805–06) was insufficiently docile.[165]
+The French Revolution was popular, and numerous underground clubs were promoting it when in January 1795 the French army invaded. The underground rose up, overthrew the municipal and provincial governments, and proclaimed the Batavian Republic () in Amsterdam. Stadtholder William V fled to England and the States General dissolved itself. The new government was virtually a puppet of France.[164] The Batavian Republic enjoyed widespread support and sent soldiers to fight in the French armies. The 1799 Anglo-Russian invasion of Holland was repulsed by Batavian–French forces. Nevertheless, Napoleon replaced it because the regime of Grand Pensionary Rutger Jan Schimmelpenninck (1805–06) was insufficiently docile.[165]
 
 The confederal structure of the old Dutch Republic was permanently replaced by a unitary state. The 1798 constitution had a genuinely democratic character, though a coup d'état of 1801 put an authoritarian regime in power. Ministerial government was introduced for the first time in Dutch history and many of the current government departments date their history back to this period. Meanwhile, the exiled stadholder handed over the Dutch colonies in "safekeeping" to Great Britain and ordered the colonial governors to comply. This permanently ended the colonial empire in Guyana, Ceylon and the Cape Colony. The Dutch East Indies was returned to the Netherlands under the Anglo-Dutch Treaty of 1814.
 
 Kingdom of Holland to William I (1806–1815)
 
-France_L-2_(1812)-fr.svg in 1812, illustrating the incorporation of the Netherlands and its internal reorganisation.]]
+in 1812, illustrating the incorporation of the Netherlands and its internal reorganisation.]]
 
 In 1806 Napoleon restyled the Netherlands (along with a small part of what is now Germany) into the Kingdom of Holland, putting his brother Louis Bonaparte (1778–1846), on the throne. The new king was unpopular, but he was willing to cross his brother for the benefit of his new kingdom. Napoleon forced his abdication in 1810 and incorporated the Netherlands directly into the French empire, imposing economic controls and conscription of all young men as soldiers. When the French retreated from the northern provinces in 1813, a Triumvirate took over at the helm of a provisional government. Although most members of the provisional government had been among the men who had driven out William V 18 years earlier, the leaders of the provisional government knew that any new regime would have to be headed by his son, William Frederick. They also knew that it would be better in the long term if the Dutch people themselves installed the prince, rather than have him imposed on the country by the anti-French alliance. Accordingly, the Triumvirate called William Frederick back on 30 November and offered him the crown. He refused, but instead proclaimed himself "hereditary sovereign prince" on 6 December.
 
@@ -578,7 +570,7 @@ On 15 March 1815; with the encouragement of the powers gathered at the Congress 
 
 United Kingdom of the Netherlands (1815–1839)
 
-LandingWillemI.jpg at Scheveningen on 30 November 1813'' by Johan Willem Heyting (1915–1995).]] William I became king and also became the hereditary Grand Duke of Luxembourg, that was part of the Netherlands but at the same time part of the German Confederation. The newly created country had two capitals: Amsterdam and Brussels. The new nation had two equal parts. The north (Netherlands proper) had 2 million people. They spoke chiefly Dutch but were divided religiously between a Protestant majority and a large Catholic minority. The south (which would be known as "Belgium" after 1830) had a population of 3.4 million people. Nearly all were Catholic, but it was divided between French-speaking Walloons and Dutch-speaking Flemings. The upper and middle classes in the south were mostly French-speaking. About 60,000 Belgians were eligible to vote, compared to about 80,000 Dutchmen. Officially Amsterdam was the capital, but in a compromise the government met alternately in Brussels and The Hague.[166]
+at Scheveningen on 30 November 1813'' by Johan Willem Heyting (1915–1995).]] William I became king and also became the hereditary Grand Duke of Luxembourg, that was part of the Netherlands but at the same time part of the German Confederation. The newly created country had two capitals: Amsterdam and Brussels. The new nation had two equal parts. The north (Netherlands proper) had 2 million people. They spoke chiefly Dutch but were divided religiously between a Protestant majority and a large Catholic minority. The south (which would be known as "Belgium" after 1830) had a population of 3.4 million people. Nearly all were Catholic, but it was divided between French-speaking Walloons and Dutch-speaking Flemings. The upper and middle classes in the south were mostly French-speaking. About 60,000 Belgians were eligible to vote, compared to about 80,000 Dutchmen. Officially Amsterdam was the capital, but in a compromise the government met alternately in Brussels and The Hague.[166]
 
 Adolphe Quetelet (1796–1874), the great Belgian statistician, calculated that the new nation was significantly better off than other states. Mortality was low, the food supply was good, education was good, public awareness was high and the charity rate was the highest in the world. The best years were in the mid-1820s.[167]
 
@@ -586,7 +578,7 @@ The quality of schooling was dismal, however. According to Schama, about 1800 th
 
 Constitutional monarchy
 
-Vereinigteskoenigreich.png, Belgium, Luxembourg and Limburg in 1839
+, Belgium, Luxembourg and Limburg in 1839
 1''', 2 and 3 United Kingdom of the Netherlands (until 1830)
 1 and 2 Kingdom of the Netherlands (after 1830)
 2 Duchy of Limburg (1839–1867) (in the German Confederacy after 1839 as compensation for Waals-Luxemburg)
@@ -606,14 +598,14 @@ Belgium breaks away
 
 William was determined to create a united people, even though the north and south had drifted far apart in the past three centuries. Protestants were the largest denomination in the North (population 2 million), but formed a quarter of the population in the overwhelmingly Catholic South (population 3.5 million). Nevertheless, Protestants dominated William's government and army. The Catholics did not consider themselves an integral part of the United Netherlands, preferring instead to identify with mediaeval Dutch culture. Other factors that contributed to this feeling were economic (the South was industrialising, the North had always been a merchants' nation) and linguistic (French was spoken in Wallonia and a large part of the bourgeoisie in Flemish cities).
 
-After having been dominant for centuries, the French-speaking elite in the Southern Netherlands now felt like second-class citizens. In the Catholic South,[171] William's policies were unpopular. The French-speaking Walloons strenuously rejected his attempt to make Dutch the universal language of government, while the population of Flanders was divided. Flemings in the south spoke a Dutch dialect ("Flemish") and welcomed the encouragement of Dutch with a revival of literature and popular culture. Other Flemings, notably the educated bourgeoisie, preferred to speak French. Although Catholics possessed legal equality, they resented their subordination to a government that was fundamentally Protestant in spirit and membership after having been the state church for centuries in the south. Few Catholics held high office in state or army. Furthermore, political liberals in the south complained about the king's authoritarian methods. All southerners complained of underrepresentation in the national legislature. Although the south was industrializing and was more prosperous than the north the accumulated grievances allowed the multiple opposition forces to coalesce. Révolution_belge_de_1830_-_La_rue_de_Flandre_le_jeudi_23_septembre_1830.jpg in September 1830]] The outbreak of revolution in France in 1830 was a signal for action, at first on behalf of autonomy for Belgium, as the southern provinces were now called, and later on behalf of total independence. William dithered and his half-hearted efforts to reconquer Belgium were thwarted both by the efforts of the Belgians themselves and by the diplomatic opposition of the great powers.
+After having been dominant for centuries, the French-speaking elite in the Southern Netherlands now felt like second-class citizens. In the Catholic South,[171] William's policies were unpopular. The French-speaking Walloons strenuously rejected his attempt to make Dutch the universal language of government, while the population of Flanders was divided. Flemings in the south spoke a Dutch dialect ("Flemish") and welcomed the encouragement of Dutch with a revival of literature and popular culture. Other Flemings, notably the educated bourgeoisie, preferred to speak French. Although Catholics possessed legal equality, they resented their subordination to a government that was fundamentally Protestant in spirit and membership after having been the state church for centuries in the south. Few Catholics held high office in state or army. Furthermore, political liberals in the south complained about the king's authoritarian methods. All southerners complained of underrepresentation in the national legislature. Although the south was industrializing and was more prosperous than the north the accumulated grievances allowed the multiple opposition forces to coalesce. in September 1830]] The outbreak of revolution in France in 1830 was a signal for action, at first on behalf of autonomy for Belgium, as the southern provinces were now called, and later on behalf of total independence. William dithered and his half-hearted efforts to reconquer Belgium were thwarted both by the efforts of the Belgians themselves and by the diplomatic opposition of the great powers.
 
 At the London Conference of 1830, the chief powers of Europe ordered (in November 1830) an armistice between the Dutch and the Belgians. The first draft for a treaty of separation of Belgium and the Netherlands was rejected by the Belgians. A second draft (June 1831) was rejected by William I, who resumed hostilities. Franco-British intervention forced William to withdraw Dutch forces from Belgium late in 1831, and in 1833 an armistice of indefinite duration was concluded. Belgium was effectively independent but William's attempts to recover Luxembourg and Limburg led to renewed tension. The London Conference of 1838–39 prepared the final Dutch-Belgian separation treaty of 1839. It divided Luxembourg and Limburg between the Dutch and Belgian crowns. The Kingdom of the Netherlands thereafter was made up of the 11 northern provinces.[172]
 
 
 Democratic and Industrial Development (1840–1900)
 
-Anton_Mauve_-_Herderin_met_kudde_schapen.jpg (1838–1888), of the Hague School.]]
+(1838–1888), of the Hague School.]]
 
 The Netherlands did not industrialize as rapidly as Belgium after 1830, but it was prosperous enough. Griffiths argues that certain government policies facilitated the emergence of a national economy in the 19th century. They included the abolition of internal tariffs and guilds, a unified coinage system, modern methods of tax collection, standardized weights and measures, and the building of many roads, canals, and railroads. However, compared to Belgium, which was leading in industrialization on the Continent, the Netherlands moved slowly. Possible explanations for this difference are the higher costs due to geography and high wages, and the emphasis of entrepreneurs on trade rather than industry.[173] For example, in the Dutch coastal provinces agricultural productivity was relatively high. Hence, industrial growth arrived relatively late – after 1860 – because incentives to move to labour-intensive industry were quite weak.[174] However, the provinces of North Brabant and Overijssel did industrialize, and they became the most economically advanced areas of the country.[175][176]
 
@@ -621,7 +613,7 @@ As in the rest of Europe, the 19th century saw the gradual transformation of the
 
 1848 Constitutional reform and liberalism
 
-Van_Gogh_-_Bäuerin,_sitzend,_mit_weißer_Haube.jpeg (1853-1890). Born in Groot-Zundert, van Gogh was a Dutch post-Impressionist painter whose work, notable for its rough beauty, emotional honesty and bold color, had a far-reaching influence on 20th-century art.]]
+(1853-1890). Born in Groot-Zundert, van Gogh was a Dutch post-Impressionist painter whose work, notable for its rough beauty, emotional honesty and bold color, had a far-reaching influence on 20th-century art.]]
 
 In 1840 William I abdicated in favor of his son, William II, who attempted to carry on the policies of his father in the face of a powerful liberal movement. In 1848 unrest broke out all over Europe. Although there were no major events in the Netherlands, these foreign developments persuaded King William II to agree to liberal and democratic reform. That same year Johan Rudolf Thorbecke, a prominent liberal, was asked by the king to draft a constitution that would turn the Netherlands into a constitutional monarchy. The new constitution was proclaimed on 3 November 1848. It severely limited the king's powers (making the government accountable only to an elected parliament), and it protected civil liberties. The new liberal constitution, which put the government under the control of the States General, was accepted by the legislature in 1848. The relationship between monarch, government and parliament has remained essentially unchanged ever since.
 
@@ -629,13 +621,13 @@ William II was succeeded by William III in 1849. The new king reluctantly chose 
 
 Religion and pillarisation
 
-Religion in the Netherlands in 1849. Religion was a contentious issue with repeated struggles over the relations of church and state in the field of education. In 1816, the government took full control of the Dutch Reformed Church (_Nederlands Hervormde Kerk_). In 1857, all religious instruction was ended in public schools, but the various churches set up their own schools, and even universities. Dissident members broke away from the Dutch Reformed Church in the Secession of 1834. They were harassed by the government under an onerous Napoleonic law prohibiting gatherings of more than 20 members without a permit. After the harassment ended in the 1850s, a number of these dissidents eventually created the Christian Reformed Church in 1869; thousands migrated to Michigan, Illinois, and Iowa in the United States. By 1900, the dissidents represented about 10% of the population, compared to 45% of the population who were in the Dutch Reformed Church, which continued to be the only church to receive state money.[179]
+Religion was a contentious issue with repeated struggles over the relations of church and state in the field of education. In 1816, the government took full control of the Dutch Reformed Church (_Nederlands Hervormde Kerk_). In 1857, all religious instruction was ended in public schools, but the various churches set up their own schools, and even universities. Dissident members broke away from the Dutch Reformed Church in the Secession of 1834. They were harassed by the government under an onerous Napoleonic law prohibiting gatherings of more than 20 members without a permit. After the harassment ended in the 1850s, a number of these dissidents eventually created the Christian Reformed Church in 1869; thousands migrated to Michigan, Illinois, and Iowa in the United States. By 1900, the dissidents represented about 10% of the population, compared to 45% of the population who were in the Dutch Reformed Church, which continued to be the only church to receive state money.[179]
 
 At mid-century, most Dutch belonged either to the Dutch Reformed Church or dissenter groups that separated from it (around 55%), or the Roman Catholic Church (35% to 40%), together with smaller Protestant (for example, Lutheran) and Jewish groups. A large and powerful sector of nominal Protestants were in fact secular liberals seeking to minimize religious influence. In reaction a novel alliance developed with Catholics and devout Calvinists joining against secular liberals. The Catholics, who had been loosely allied with the liberals in earlier decades, turned against them on the issue of state support, which the liberals insisted should be granted only to public schools, and joined with Protestant political parties in demanding equal state support to schools maintained by religious groups.[180]
 
 The Netherlands remained one of the most tolerant countries in Europe towards religious belief, although conservative Protestants objected to the liberalization of the Dutch Reformed Church during the 19th century and faced opposition from the government when they tried to establish separate communities (Catholics and other non-Protestants were left unmolested by Dutch authorities). Some moved to the United States as a consequence, but as the century drew to a close, religious persecution had totally ceased.
 
-Old-Amsterdam_1891-street-1.jpg Dutch social and political life became divided by fairly clear-cut internal borders that were emerging as the society pillarized into three separate parts based on religion. The economy was not affected. One of the people most responsible for designing pillarization was Abraham Kuyper (1837–1920), a leading politician, neo-Calvinist theologian, and journalist. Kuyper established orthodox Calvinist organizations, and also provided a theoretical framework by developing such concepts as "sphere-sovereignty" that celebrated Dutch society as a society of organized minorities. _Verzuiling_ ("pillarization" or "pluralism") after 1850 became the solution to the danger of internal conflict. Everyone was part of one (and only one) pillar (_zuil_) based chiefly on religion (Protestant, Catholic, secular). The secular pillar eventually split into a socialist/working class pillar and a liberal (pro-business) secular pillar. Each pillar built a full set of its own social organizations, including churches (for the religious pillars), political parties, schools, universities,[181] labor unions, sport clubs, boy scout unions and other youth clubs, and newspapers. The members of different _zuilen_ lived in close proximity in cities and villages, spoke the same language, and did business with one another, but seldom interacted informally and rarely intermarried.[182] In politics Kuyper formed the Anti-Revolutionary Party (ARP) in 1879, and headed it until 1905.
+Dutch social and political life became divided by fairly clear-cut internal borders that were emerging as the society pillarized into three separate parts based on religion. The economy was not affected. One of the people most responsible for designing pillarization was Abraham Kuyper (1837–1920), a leading politician, neo-Calvinist theologian, and journalist. Kuyper established orthodox Calvinist organizations, and also provided a theoretical framework by developing such concepts as "sphere-sovereignty" that celebrated Dutch society as a society of organized minorities. _Verzuiling_ ("pillarization" or "pluralism") after 1850 became the solution to the danger of internal conflict. Everyone was part of one (and only one) pillar (_zuil_) based chiefly on religion (Protestant, Catholic, secular). The secular pillar eventually split into a socialist/working class pillar and a liberal (pro-business) secular pillar. Each pillar built a full set of its own social organizations, including churches (for the religious pillars), political parties, schools, universities,[181] labor unions, sport clubs, boy scout unions and other youth clubs, and newspapers. The members of different _zuilen_ lived in close proximity in cities and villages, spoke the same language, and did business with one another, but seldom interacted informally and rarely intermarried.[182] In politics Kuyper formed the Anti-Revolutionary Party (ARP) in 1879, and headed it until 1905.
 
 Pillarization was officially recognized in the Pacification of 1917, whereby socialists and liberals achieved their goal of universal male suffrage and the religious parties were guaranteed equal funding of all schools.[183] In 1930 radio was organized so that each pillar had full control of its own network. When television began in the late 1940s the pillars divided up time equally on the one station. In politics and civic affairs leaders of the pillar organizations cooperated and the acknowledged the right of the other pillars, so public life generally ran smoothly.[184][185]
 
@@ -646,7 +638,7 @@ The late 19th century saw a cultural revival. The Hague School brought a revival
 
 1900 to 1940
 
-Queen_Wilhelmina2.jpg, queen of the Netherlands from 1890 to 1948.]]
+, queen of the Netherlands from 1890 to 1948.]]
 
 In 1890, William III died after a long reign and was succeeded by his young daughter, Queen Wilhelmina (1880-1962). She would rule the Netherlands for 58 years. On her accession to the throne, the personal union between the Netherlands and Luxembourg ended because Luxembourg law excluded women from rule. Her remote cousin Adolphe became the Grand Duke of Luxembourg.
 
@@ -654,7 +646,7 @@ This was a time of further growth and colonial development, but it was marked by
 
 Colonial focus
 
-Evolution_of_the_Dutch_East_Indies.png showing its expansion from 1800 to 1942.]]
+showing its expansion from 1800 to 1942.]]
 
 The Dutch empire comprised the Dutch East Indies (Indonesia), as well as Surinam in South America and some minor possessions. It was smaller in 1945 than in 1815 because the Netherlands was the only colonial power that did not expand into Africa or anywhere else. The empire was run from Batavia (in Java), where the governor and his technical experts had almost complete authority with little oversight from the Hague. Successive governors improved their bureaucratic and military controls, and allowed very little voice to the locals until the 1920s.[190]
 
@@ -666,11 +658,11 @@ The Netherlands had not fought a major military campaign since the 1760s, and th
 
 Neutrality during the First World War
 
-Hochspannungszaun_Belgien-Holland_1.jpg along the border between the Netherlands and Belgium during the First World War.]]
+along the border between the Netherlands and Belgium during the First World War.]]
 
 The German war plan (the Schlieffen Plan) of 1905 was modified in 1908 to invade Belgium on the way to Paris but not the Netherlands. It supplied many essential raw materials to Germany such as rubber, tin, quinine, oil and food. The British used its blockade to limit supplies that the Dutch could pass on.[193] There were other factors that made it expedient for both the Allies and the Central Powers for the Netherlands to remain neutral. The Netherlands controlled the mouths of the Scheldt, the Rhine and the Meuse Rivers. Germany had an interest in the Rhine since it ran through the industrial areas of the Ruhr and connected it with the Dutch port of Rotterdam. Britain had an interest in the Scheldt River and the Meuse flowed from France. All countries had an interest in keeping the others out of the Netherlands so that no one's interests could be taken away or be changed. If one country were to have invaded the Netherlands, another would certainly have counterattacked to defend their own interest in the rivers. It was too big a risk for any of the belligerent nations and none wanted to risk fighting on another front.[194]
 
-Afsluitdijk_01.JPG, the dike closing off the Zuiderzee, was constructed between 1927 and 1933. Public works projects like this were one way to deal with high unemployment during the Great Depression.]] The Dutch were affected by the war, troops were mobilized and conscription was introduced in the face of harsh criticism from opposition parties. In 1918, mutinies broke out in the military. Food shortages were extensive, due to the control the belligerents exercised over the Dutch. Each wanted their share of Dutch produce. As a result, the price of potatoes rose sharply because Britain had demanded so much from the Dutch. Food riots even broke out in the country.[195] A big problem was smuggling. When Germany had conquered Belgium, the Allies saw it as enemy territory and stopped exporting to Belgium. Food became scarce for the Belgian people, since the Germans seized all food. This gave the Dutch the opportunity to start to smuggle. This, however, caused great problems in the Netherlands, including inflation and further food shortages. The Allies demanded that the Dutch stop the smuggling, and the government took measures to remain neutral. The government placed many cities under 'state of siege'. On 8 January 1916, a zone was created by the government along the border. In that zone, goods could be moved on main roads with a permit.[196] German authorities in Belgium had an electrified fence erected all along the Belgian–Dutch border that caused many refugees from Belgium to lose their lives. The fence was guarded by older German Landsturm soldiers.[197]
+, the dike closing off the Zuiderzee, was constructed between 1927 and 1933. Public works projects like this were one way to deal with high unemployment during the Great Depression.]] The Dutch were affected by the war, troops were mobilized and conscription was introduced in the face of harsh criticism from opposition parties. In 1918, mutinies broke out in the military. Food shortages were extensive, due to the control the belligerents exercised over the Dutch. Each wanted their share of Dutch produce. As a result, the price of potatoes rose sharply because Britain had demanded so much from the Dutch. Food riots even broke out in the country.[195] A big problem was smuggling. When Germany had conquered Belgium, the Allies saw it as enemy territory and stopped exporting to Belgium. Food became scarce for the Belgian people, since the Germans seized all food. This gave the Dutch the opportunity to start to smuggle. This, however, caused great problems in the Netherlands, including inflation and further food shortages. The Allies demanded that the Dutch stop the smuggling, and the government took measures to remain neutral. The government placed many cities under 'state of siege'. On 8 January 1916, a zone was created by the government along the border. In that zone, goods could be moved on main roads with a permit.[196] German authorities in Belgium had an electrified fence erected all along the Belgian–Dutch border that caused many refugees from Belgium to lose their lives. The fence was guarded by older German Landsturm soldiers.[197]
 
 Interwar period
 
@@ -689,7 +681,7 @@ The Second World War (1939–1945)
 
 Nazi invasion and occupation
 
-Rotterdam,_Laurenskerk,_na_bombardement_van_mei_1940.jpg.]]
+.]]
 
 At the outbreak of World War II in 1939, the Netherlands once again declared its neutrality. However, on 10 May 1940, Nazi Germany launched an attack on the Netherlands and Belgium and quickly overran most of the two countries. Fighting against the Dutch army proved to be more of a burden than foreseen; the northern attack was stopped dead, the one in the middle came to a grinding halt near the Grebbeberg and many airborne assault troops were killed and taken prisoner in the west of the country. Only in the south were defences broken, but the one passage over the River Maas at Rotterdam was held by the Dutch. By 14 May, fighting in many locations had ceased and the German army could make little or no headway, so the Luftwaffe bombed Rotterdam, the second-largest city of the Netherlands, killing about 900 people, destroying most of the inner city and leaving 78,000 people homeless.
 
@@ -715,7 +707,7 @@ Areas south of the Rhine river were liberated in the period September–December
 
 The rest of the country remained occupied until the spring of 1945. In the face of Dutch defiance, the Nazis deliberately cut off food supplies resulting in near-starvation in the cities during the _Hongerwinter_ (Hunger winter) of 1944–45. Soup kitchens were set up but many vulnerable people died.[200] A few days before the Allied victory, the Germans allowed emergency shipments of food.
 
-Crowd_of_Dutch_civilians_celebrating_the_liberation_of_Utrecht_by_the_Canadian_Army.jpg troops in Utrecht after the German surrender, 7 May 1945.]] The First Canadian Army launched Operation Veritable in early-February, cracking the Siegfried Line and reaching the banks of the Rhine in early-March. In the final weeks of the war in Europe, the First Canadian Army was charged with clearing the Netherlands of German forces.
+troops in Utrecht after the German surrender, 7 May 1945.]] The First Canadian Army launched Operation Veritable in early-February, cracking the Siegfried Line and reaching the banks of the Rhine in early-March. In the final weeks of the war in Europe, the First Canadian Army was charged with clearing the Netherlands of German forces.
 
 The Liberation of Arnhem began on 12 April 1945 and proceeded to plan, as the three infantry brigades of the 49th Division leapfrogged each other through the city. Within four days Arnhem, now a ruined city, was totally under Allied control.[201]
 
@@ -744,8 +736,6 @@ The 1948 elections led to a new coalition led by Labor's Willem Drees. He led fo
 
 Baby boom and economic reconstruction
 
-Population_of_the_Netherlands_1900-2000.png
-
 Despite the socio-economic problems, this was a period of optimism for many. A baby boom followed the war, as young Dutch couples started the families they couldn't previously due to the war. They had lived through the hardships of the Great Depression and the hell of war. They wanted to start afresh and live better lives without the poverty, starvation, terror, and extreme frugality they knew so well. They had little taste for a strictly imposed rule-oriented traditional system with its rigid hierarchies, sharp pillarised boundaries and strictly orthodox religious doctrines. The translation of _The Common Sense Book of Baby and Child Care_ (1946), by American pediatrician Benjamin Spock was a best-seller. His vision of family life as companionate, permissive, enjoyable and even as being fun took hold, and seemed the best way to achieve family happiness in a dawning age of freedom and prosperity.[210]
 
 Wages were kept low and the recovery of consumption to pre-war levels was delayed to permit rapid rebuilding of the infrastructure. In the years after the war, unemployment fell and the economy grew at an astonishing pace, despite the high birth rate. The shattered infrastructure and destroyed cities were rebuilt. A key contribution to the recovery in the post-war Netherlands came from the Marshall Plan, which provided the country with funds, goods, raw materials and produce.[211]
@@ -756,7 +746,7 @@ Across Western Europe, the period from 1973-81 marked the end of the booming eco
 
 Flood control
 
-Netherlands._Viewed_from_a_U.S._Army_helicopter,_a_Zuid_Beveland_town_gives_a_hint_of_the_tremendous_damage_wrought..._-_NARA_-_541705.tif inundated in 1953.]]
+inundated in 1953.]]
 
 The last major flood in the Netherlands took place in early-February 1953, when a huge storm caused the collapse of several dikes in the southwest of the Netherlands. More than 1,800 people drowned in the ensuing inundation.
 
@@ -772,7 +762,7 @@ The Netherlands is a founding member of the EU, NATO, OECD and WTO. Together wit
 
 Decolonisation and multiculturalism
 
-Arrivalrotterdam.jpg'' with "Indos" (Dutch-Indonesian Eurasians) on the Lloydkade in Rotterdam, The Netherlands, 20 May 1958.]]
+'' with "Indos" (Dutch-Indonesian Eurasians) on the Lloydkade in Rotterdam, The Netherlands, 20 May 1958.]]
 
 The Dutch East Indies had long been a valuable resource to the Netherlands, generating about 14% of the Dutch national income in the 1930s, and was home to thousands of Dutch people and officials, businessmen and missionaries.[221] By the first half of the twentieth century, new organisations and leadership had developed in the Dutch East Indies. Under its Ethical Policy, the government had helped create an educated Indonesian elite. These profound changes constituted the "Indonesian National Revival". Increased political activism and Japanese occupation undermining Dutch rule culminated in nationalists proclaiming independence on 17 August 1945, two days after the surrender of Japan.[222] The Dutch did not plan to let go, for they would be left as merely a minor second-class power ranking with Denmark perhaps. However, the Netherlands was much too weak to reconquer Indonesia. The Japanese had imprisoned all the Dutch residents, and turned the islands over to a native government, which was widely popular. The British military arrived to disarm the Japanese. The Dutch finally returned and attempted to eradicate the Indonesian National Revolution with force, (sometimes brutal in nature).[223]
 
@@ -798,7 +788,7 @@ Following the 1994 general election, in which the Christian democratic CDA lost 
 
 Recent politics
 
-Wim_Kok_1994.jpg served as Prime Minister of the Netherlands from 22 August 1994 until 22 July 2002.]]
+served as Prime Minister of the Netherlands from 22 August 1994 until 22 July 2002.]]
 
 At the 1998 general election, the Purple Coalition consisting of Social Democrats, and left and right-wing Liberals, increased its majority. Both the social democratic PvdA and the conservative liberal VVD grew at the cost of their junior partner in cabinet, the progressive liberal D66. The voters rewarded the Purple Coalition for its economic performance, which had included reduction of unemployment and the budget deficit, steady growth and job creation combined with wage freezes and trimming of the welfare state, together with a policy of fiscal restraint.[237] The result was the second Kok cabinet.[238]
 
@@ -811,7 +801,7 @@ Two events changed the political landscape:
 
 The Netherlands today
 
-President_Trump_Meets_with_the_Prime_Minister_of_the_Netherlands_(48318341326).jpg with U.S. President Donald Trump in July 2019]] By 2000, the population had increased to 15,900,000 people,[240] making the Netherlands one of the most densely-populated countries in the world. Urban development has led to the development of a conurbation called the _Randstad_ (), which includes the four largest cities (Amsterdam, Rotterdam, The Hague and Utrecht), and the surrounding areas. With a population of 7,100,000; it is one of the largest conurbations in Europe.
+with U.S. President Donald Trump in July 2019]] By 2000, the population had increased to 15,900,000 people,[240] making the Netherlands one of the most densely-populated countries in the world. Urban development has led to the development of a conurbation called the _Randstad_ (), which includes the four largest cities (Amsterdam, Rotterdam, The Hague and Utrecht), and the surrounding areas. With a population of 7,100,000; it is one of the largest conurbations in Europe.
 
 This small nation has successfully developed into one of the most open, dynamic and prosperous countries in the world. It had the tenth-highest per capita income in the world in 2011. It has an open, market-based mixed economy, ranking thirteenth out of 157 countries according to the Index of Economic Freedom.[241] In May 2011, the OECD ranked the Netherlands as the "happiest" country in the world.[242]
 

@@ -9,7 +9,7 @@ Harwich today is contiguous with Dovercourt and the two, along with Parkeston, a
 
 History
 
-Harwich_Harbour_1804.png The town's name means "military settlement", from Old English _here-wic_.[2]
+The town's name means "military settlement", from Old English _here-wic_.[2]
 
 The town received its charter in 1238, although there is evidence of earlier settlement – for example, a record of a chapel in 1177, and some indications of a possible Roman presence.
 
@@ -32,7 +32,7 @@ Harwich Dockyard was established as a Royal Navy Dockyard in 1652. It ceased to 
 
 Transport
 
-HarwichDocks.jpg The Royal Navy no longer has a presence in Harwich but Harwich International Port at nearby Parkeston continues to offer regular ferry services to the Hook of Holland (Hoek van Holland) in the Netherlands. Many operations of the Port of Felixstowe and of Trinity House, the lighthouse authority, are managed from Harwich.
+The Royal Navy no longer has a presence in Harwich but Harwich International Port at nearby Parkeston continues to offer regular ferry services to the Hook of Holland (Hoek van Holland) in the Netherlands. Many operations of the Port of Felixstowe and of Trinity House, the lighthouse authority, are managed from Harwich.
 
 The Mayflower railway line serves Harwich and there are three operational passenger stations: , and . The line also allows freight trains to access the Port.
 
@@ -52,19 +52,17 @@ Image:Harwich lighthouse by John Constable c1820.jpg|Painting of Harwich lightho
 
 Architecture
 
-The_Halfpenny_Pier_at_Harwich_-_geograph.org.uk_-_40531.jpg
-
 Despite, or perhaps because of, its small size Harwich is highly regarded in terms of architectural heritage, and the whole of the older part of the town, excluding Navyard Wharf, is a conservation area.[12]
 
 The regular street plan with principal thoroughfares connected by numerous small alleys indicates the town's medieval origins, although many buildings of this period are hidden behind 18th century facades.
 
-King's_Head_Street,_Harwich,_quay_end.jpg The extant medieval structures are largely private homes. The house featured in the image of Kings Head St to the left is unique in the town and is an example of a sailmaker's house, thought to have been built circa 1600. Notable public buildings include the parish church of St. Nicholas (1821)[13] in a restrained Gothic style, with many original furnishings, including a somewhat altered organ in the west end gallery. There is also the Guildhall of 1769, the only Grade I listed building in Harwich.[14]
+The extant medieval structures are largely private homes. The house featured in the image of Kings Head St to the left is unique in the town and is an example of a sailmaker's house, thought to have been built circa 1600. Notable public buildings include the parish church of St. Nicholas (1821)[13] in a restrained Gothic style, with many original furnishings, including a somewhat altered organ in the west end gallery. There is also the Guildhall of 1769, the only Grade I listed building in Harwich.[14]
 
-Pier_Hotel,_Harwich,_Essex_-_geograph.org.uk_-_118960.jpg The Pier Hotel of 1860 and the building that was the Great Eastern Hotel of 1864 can both been seen on the quayside, both reflecting the town's new importance to travellers following the arrival of the Great Eastern Main Line from Colchester in 1854. In 1923, The Great Eastern Hotel was closed[15] by the newly formed LNER, as the Great Eastern Railway had opened a new hotel with the same name at the new passenger port at Parkeston Quay, causing a decline in numbers. The hotel became the Harwich Town Hall, which included the Magistrates Court and, following changes in local government, was sold and divided into apartments.
+The Pier Hotel of 1860 and the building that was the Great Eastern Hotel of 1864 can both been seen on the quayside, both reflecting the town's new importance to travellers following the arrival of the Great Eastern Main Line from Colchester in 1854. In 1923, The Great Eastern Hotel was closed[15] by the newly formed LNER, as the Great Eastern Railway had opened a new hotel with the same name at the new passenger port at Parkeston Quay, causing a decline in numbers. The hotel became the Harwich Town Hall, which included the Magistrates Court and, following changes in local government, was sold and divided into apartments.
 
 Also of interest are the High Lighthouse (1818), the unusual Treadwheel Crane (late 17th century), the Old Custom Houses on West Street, a number of Victorian shopfronts and the Electric Palace Cinema (1911), one of the oldest purpose-built cinemas to survive complete with its ornamental frontage and original projection room still intact and operational.
 
-Trinity_House,_Harwich.jpg There is little notable building from the later parts of the 20th century, but major recent additions include the lifeboat station and two new structures for Trinity House. The Trinity House office building, next door to the Old Custom Houses, was completed in 2005. All three additions are influenced by the high-tech style.
+There is little notable building from the later parts of the 20th century, but major recent additions include the lifeboat station and two new structures for Trinity House. The Trinity House office building, next door to the Old Custom Houses, was completed in 2005. All three additions are influenced by the high-tech style.
 
 
 Notable residents

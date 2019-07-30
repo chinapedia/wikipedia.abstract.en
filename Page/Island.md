@@ -46,7 +46,7 @@ An atoll is an island formed from a coral reef that has grown on an eroded and s
 
 Tropical islands
 
-Landing_Runway_18_(2121588367).jpg, Hulhulé Island, Maldives]]
+, Hulhulé Island, Maldives]]
 
 Approximately 45,000 tropical islands with an area of at least exist.[11] Examples formed from coral reefs include Maldives, Tonga, Samoa, Nauru, and Polynesia.[12] Granite islands include Seychelles and Tioman and volcanic islands such as Saint Helena.
 

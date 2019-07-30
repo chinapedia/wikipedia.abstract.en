@@ -1,11 +1,9 @@
-Kroatien_Autobahnen_(aktueller_Stand).svg
-
 TRANSPORT IN CROATIA relies on several main modes, including transport by road, rail, water and air. Road transport incorporates a comprehensive network of state, county and local routes augmented by a network of highways for long-distance travelling. Water transport can be divided into sea, based on the ports of Rijeka, Ploče, Split and Zadar, and river transport, based on Sava, Danube and, to a lesser extent, Drava. Croatia has 68 airports, nine of which are international. The country also has several airlines, of which the most notable are Croatia Airlines and Trade Air. Rail transport is fairly developed, with dual track and electrification not very common, although high-speed tilting trains are used on some routes. However, bus still tends to be more common than rail as a mode of inter-city transport.
 
 
 Airports
 
-Croati_Airlines_A319.jpg taking off at Franjo Tuđman Airport ]] There are international airports in Zagreb, Split, Dubrovnik, Zadar, Pula, Rijeka (on the island of Krk), Osijek, Bol and Mali Lošinj.
+taking off at Franjo Tuđman Airport ]] There are international airports in Zagreb, Split, Dubrovnik, Zadar, Pula, Rijeka (on the island of Krk), Osijek, Bol and Mali Lošinj.
 
 Currently, the following low cost airlines are flying to Croatia: Jet2, EasyJet, Eurowings, TUIfly, Ryanair, Thomson, flydubai and Wizz Air. Major established companies that fly to Croatia include the domestic Croatia Airlines (member of the Star Alliance), Air France, Aeroflot, Lufthansa, Emirates, Finnair, Austrian Airlines, KLM, Qatar Airways, Swiss International Air Lines, British Airways and Turkish Airlines. Seasonal intercontinental flights also operate from and to Croatia.
 
@@ -39,7 +37,7 @@ Airports with unpaved runways (2004 est.):
 
 Heliports: 3 (2008)
 
-AIRPORTS: Aeropuertos_de_Croacia.svg
+AIRPORTS:
 
 -   Franjo Tuđman Airport
 -   Split Airport
@@ -54,13 +52,11 @@ AIRPORTS: Aeropuertos_de_Croacia.svg
 
 Rail transport
 
-Railway_map_of_Croatia_and_Bosnia_and_Herzegovina.png
-
 The Croatian railway network is classified into three groups: railways of international, regional and local significance.[2][3] The most important railway lines follow Pan-European corridors V (branch B) and X, they connect at Zagreb with each other. There are connections to the railway networks of Slovenia, Hungary, Bosnia and Herzegovina and Serbia.
 
 The railways need to be modernized because the lion's share of the railway infrastructure in Croatia dates back from the pre-WW2 period and more than half of the core routes were, in fact, built during the Habsburg Monarchy i.e. before the First World War. As a result, most of the routes are not electrified, are only single track traffic around 'bends' and lag significantly behind the West-European standards. Some limited improvements, however, have been made in recent times. A result of this has been an increase in the maximum speed on the railway line on the Pan-European Corridor X, from the Slovenian border via Zagreb, Novska, Vinkovci to the Serbian border (lines M101 through M105). In places the line's speed limit has been raised from to , and plans have been made to raise this further to on certain sections. The railway line of the Pan-European Corridor Vb, from the Hungarian border via Koprivnica, Zagreb, Karlovac to the Port of Rijeka (lines M201, M102 and M202) has a slow section through Gorski Kotar, which is planned to undergo a major overhaul. The railway line of the Pan-European Corridor Vc, from the Hungarian border via Beli Manastir, Osijek, Đakovo or Vinkovci, Slavonski Šamac, to the border of Bosnia and Herzegovina (lines M301, M302 and M303), is also being modernised, the aim is to allow speeds of up to 160 km/h along the entire length.
 
-The official rail speed record in Croatia is . Maximum speed reached in regular service is on parts of the Novska–Tovarnik line. Croatian_railways_tilting_and_regional.png trains pass on Zagreb-Split line]]
+The official rail speed record in Croatia is . Maximum speed reached in regular service is on parts of the Novska–Tovarnik line. trains pass on Zagreb-Split line]]
 
 Recently Croatian Railways introduced a series of modern tilting trains produced by the German branch of Bombardier Transportation. They usually deployed on the mountainous route between the two largest Croatian cities, Zagreb and Split. Although they can sometimes be found on other routes in the country. Contrary to regular overnight fast trains between Zagreb and Split with scheduled travelling time of circa 8 hours in total, tilting trains on the Zagreb–Split route (lines M202 and M604) offer passengers a faster journey with a journey time of about 6 hours.
 
@@ -87,7 +83,7 @@ Rail links with adjacent countries
 
 Road transport
 
-A1_tolls_Maslenica.jpg motorway near Maslenica]] From the time of Napoleon and building the Louisiana road, the road transport in Croatia has significantly improved, topping most European countries. Croatian highways are widely regarded as being one of the most modern and safe in Europe.[5][6] This is because the largest part of the Croatian motorway and expressway system (_autoceste_ and _brze ceste_, resp.) has been recently constructed (mainly in the 2000s), and further construction is continuing. The motorways in Croatia connect most major Croatian cities and all major seaports. The two longest routes, the A1 and the A3, span the better part of the country and the motorway network connects most major border crossings.
+motorway near Maslenica]] From the time of Napoleon and building the Louisiana road, the road transport in Croatia has significantly improved, topping most European countries. Croatian highways are widely regarded as being one of the most modern and safe in Europe.[5][6] This is because the largest part of the Croatian motorway and expressway system (_autoceste_ and _brze ceste_, resp.) has been recently constructed (mainly in the 2000s), and further construction is continuing. The motorways in Croatia connect most major Croatian cities and all major seaports. The two longest routes, the A1 and the A3, span the better part of the country and the motorway network connects most major border crossings.
 
 Tourism is of major importance for the Croatian economy, and as most tourists come to vacation in Croatia in their own cars, the highways serve to alleviate summer jams. They have also been used as a means of stimulating urgently needed economic growth, and for the sustainable development of this country. Croatia now has a considerable highway density for a country of its size, helping it cope with the consequences of being a transition economy and having suffered in the Croatian War of Independence.
 
@@ -188,7 +184,7 @@ Water transport
 
 Sea transport
 
-Rijeka_luka_pano_180909.jpg]] Croatia has several large seaports. The largest seaport with the deepest channel to a port in the Adriatic is Port of Rijeka on the northern Croatian coast, followed by Ploče in southern Dalmatia. The port of Ploče is of strategic importance for the industries of Bosnia and Herzegovina. The largest Croatian passenger port is Split in Dalmatia, also called _gateway to the islands_, followed by Zadar. There are 66 inhabited islands along the Croatian coast which means there is a large number of local ferry connections.
+]] Croatia has several large seaports. The largest seaport with the deepest channel to a port in the Adriatic is Port of Rijeka on the northern Croatian coast, followed by Ploče in southern Dalmatia. The port of Ploče is of strategic importance for the industries of Bosnia and Herzegovina. The largest Croatian passenger port is Split in Dalmatia, also called _gateway to the islands_, followed by Zadar. There are 66 inhabited islands along the Croatian coast which means there is a large number of local ferry connections.
 
 PORTS AND HARBORS:
 

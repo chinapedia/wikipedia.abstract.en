@@ -1,4 +1,4 @@
-Time_BsF_would_take_to_lose_90_percent_of_its_value.png represented by the time it would take for money to lose 90% of its value (301-day rolling average, inverted logarithmic scale).]] In economics, HYPERINFLATION is very high and typically accelerating inflation. It quickly erodes the real value of the local currency, as the prices of all goods increase. This causes people to minimize their holdings in that currency as they usually switch to more stable foreign currencies, often the US Dollar.[1] Prices typically remain stable in terms of other relatively stable currencies.
+represented by the time it would take for money to lose 90% of its value (301-day rolling average, inverted logarithmic scale).]] In economics, HYPERINFLATION is very high and typically accelerating inflation. It quickly erodes the real value of the local currency, as the prices of all goods increase. This causes people to minimize their holdings in that currency as they usually switch to more stable foreign currencies, often the US Dollar.[1] Prices typically remain stable in terms of other relatively stable currencies.
 
 Unlike low inflation, where the process of rising prices is protracted and not generally noticeable except by studying past market prices, hyperinflation sees a rapid and continuing increase in nominal prices, the nominal cost of goods, and in the supply of money.[2] Typically, however, the general price level rises even more rapidly than the money supply as people try ridding themselves of the devaluing currency as quickly as possible. As this happens, the real stock of money (i.e., the amount of circulating money divided by the price level) decreases considerably.[3]
 
@@ -38,7 +38,7 @@ Governments have sometimes resorted to excessively loose monetary policy, as it 
 
 Theories of hyperinflation generally look for a relationship between seigniorage and the inflation tax. In both Cagan's model and the neo-classical models, a tipping point occurs when the increase in money supply or the drop in the monetary base makes it impossible for a government to improve its financial position. Thus when fiat money is printed, government obligations that are not denominated in money increase in cost by more than the value of the money created.
 
-German_Hyperinflation.jpg).]]
+).]]
 
 From this, it might be wondered why any rational government would engage in actions that cause or continue hyperinflation. One reason for such actions is that often the alternative to hyperinflation is either depression or military defeat. The root cause is a matter of more dispute. In both classical economics and monetarism, it is always the result of the monetary authority irresponsibly borrowing money to pay all its expenses. These models focus on the unrestrained seigniorage of the monetary authority, and the gains from the inflation tax.
 
@@ -75,7 +75,7 @@ Nobel prize winner Milton Friedman said "We economists don't know much, but we d
 
 Effects
 
-Bundesarchiv_Bild_102-00104,_Inflation,_Tapezieren_mit_Geldscheinen.jpg: banknotes had lost so much value that they were used as wallpaper.]]
+: banknotes had lost so much value that they were used as wallpaper.]]
 
 Hyperinflation effectively wipes out the purchasing power of private and public savings; distorts the economy in favor of the hoarding of real assets; causes the monetary base, whether specie or hard currency, to flee the country; and makes the afflicted area anathema to investment.
 
@@ -120,7 +120,7 @@ During the Crisis of the Third Century, Rome underwent hyperinflation caused by 
 
 Austria
 
-The_Hanke_Krus_Hyperinflation_Table.pdf In 1922, inflation in Austria reached 1,426%, and from 1914 to January 1923, the consumer price index rose by a factor of 11,836, with the highest banknote in denominations of 500,000 Austrian krones.[29] After World War I, essentially all State enterprises ran at a loss, and the number of state employees in the capital, Vienna, was greater than in the earlier monarchy, even though the new republic was nearly one-eighth of the size.[30]
+In 1922, inflation in Austria reached 1,426%, and from 1914 to January 1923, the consumer price index rose by a factor of 11,836, with the highest banknote in denominations of 500,000 Austrian krones.[29] After World War I, essentially all State enterprises ran at a loss, and the number of state employees in the capital, Vienna, was greater than in the earlier monarchy, even though the new republic was nearly one-eighth of the size.[30]
 
 Observing the Austrian response to developing hyperinflation, which included the hoarding of food and the speculation in foreign currencies, Owen S. Phillpotts, the Commercial Secretary at the British Legation in Vienna wrote: "The Austrians are like men on a ship who cannot manage it, and are continually signalling for help. While waiting, however, most of them begin to cut rafts, each for himself, out of the sides and decks. The ship has not yet sunk despite the leaks so caused, and those who have acquired stores of wood in this way may use them to cook their food, while the more seamanlike look on cold and hungry. The population lack courage and energy as well as patriotism."[31]
 
@@ -160,7 +160,7 @@ During the French Revolution and first Republic, the National Assembly issued bo
 
 Germany (Weimar Republic)
 
-5milmkbk.jpg By November 1922, the value in gold of money in circulation had fallen from £300 million before World War I to £20 million. The Reichsbank responded by the unlimited printing of notes, thereby accelerating the devaluation of the mark. In his report to London, Lord D'Abernon wrote: "In the whole course of history, no dog has ever run after its own tail with the speed of the Reichsbank."[51][52] Germany went through its worst inflation in 1923. In 1922, the highest denomination was 50,000 Marks. By 1923, the highest denomination was 100,000,000,000,000 (10¹⁴) Marks. In December 1923 the exchange rate was 4,200,000,000,000 (4.2 × 10¹²) Marks to 1 US dollar.[53] In 1923, the rate of inflation hit 3.25 × 10⁶ percent per month (prices double every two days). Beginning on 20 November 1923, 1,000,000,000,000 old Marks were exchanged for 1 Rentenmark, so that 4.2 Rentenmarks were worth 1 US dollar, exactly the same rate the Mark had in 1914.[54]
+By November 1922, the value in gold of money in circulation had fallen from £300 million before World War I to £20 million. The Reichsbank responded by the unlimited printing of notes, thereby accelerating the devaluation of the mark. In his report to London, Lord D'Abernon wrote: "In the whole course of history, no dog has ever run after its own tail with the speed of the Reichsbank."[51][52] Germany went through its worst inflation in 1923. In 1922, the highest denomination was 50,000 Marks. By 1923, the highest denomination was 100,000,000,000,000 (10¹⁴) Marks. In December 1923 the exchange rate was 4,200,000,000,000 (4.2 × 10¹²) Marks to 1 US dollar.[53] In 1923, the rate of inflation hit 3.25 × 10⁶ percent per month (prices double every two days). Beginning on 20 November 1923, 1,000,000,000,000 old Marks were exchanged for 1 Rentenmark, so that 4.2 Rentenmarks were worth 1 US dollar, exactly the same rate the Mark had in 1914.[54]
 
 -   (1) Start and End Date: Jan. 1920 – Jan. 1920
 -   (1) Peak Month and Rate of Inflation: Jan. 1920, 56.9%
@@ -176,7 +176,7 @@ With the German invasion in April 1941, there was an abrupt increase in prices. 
 
 Hungary
 
-HUP_100MB_1946_obverse.jpg (1946). _B.-pengő_ was short for "billió pengő", i.e. 10¹² pengő.]] The Treaty of Trianon and political instability between 1919 and 1924 led to a major inflation of Hungary's currency. In 1921, in an attempt to stop inflation, the national assembly of Hungary passed the Hegedűs reforms, including a 20% levy on bank deposits. This action precipitated a mistrust of banks by the public, especially the peasants, and resulted in a reduction in savings and in the amount of currency in circulation.[57] Unable to tax adequately, the government resorted to printing money, and in 1923 inflation in Hungary reached 98% per month.
+(1946). _B.-pengő_ was short for "billió pengő", i.e. 10¹² pengő.]] The Treaty of Trianon and political instability between 1919 and 1924 led to a major inflation of Hungary's currency. In 1921, in an attempt to stop inflation, the national assembly of Hungary passed the Hegedűs reforms, including a 20% levy on bank deposits. This action precipitated a mistrust of banks by the public, especially the peasants, and resulted in a reduction in savings and in the amount of currency in circulation.[57] Unable to tax adequately, the government resorted to printing money, and in 1923 inflation in Hungary reached 98% per month.
 
 Between the end of 1945 and July 1946, Hungary went through the worst inflation ever recorded. In 1944, the highest nominal value was 1,000 pengő. By the end of 1945, it was 10,000,000 pengő. The highest nominal value in mid-1946 was 100,000,000,000,000,000,000 (10²⁰) pengő. A special currency, the adópengő – or tax pengő – was created for tax and postal payments.[58] The value of the adópengő was adjusted each day, by radio announcement. On 1 January 1946 one adópengő equaled one pengő. By late July, one adópengő equaled 2,000,000,000,000,000,000,000 or 2×10²¹ (2 sextillion) pengő. When the pengő was replaced in August 1946 by the forint, the total value of all Hungarian banknotes in circulation amounted to ¹/_(1,000) of one US cent.[59] This is the most severe known incident of inflation recorded, peaking at 1.3 × 10¹⁶ percent per month (prices double every 15 hours).[60] The overall impact of hyperinflation: On 18 August 1946, 400,000,000,000,000,000,000,000,000,000 or 4 (four hundred quadrilliard on the long scale used in Hungary; four hundred octillion on short scale) pengő became 1 forint.
 
@@ -210,7 +210,7 @@ In 1942, the highest denomination available was 10 pesos. Before the end of the 
 
 Japanese-occupied Malaya
 
-Notes_issued_by_the_Japanese_Government_during_the_occupation_of_Malaya,_North_Borneo,_Sarawak_and_Brunei,_used_in_Batu_Lintang_camp,_Sarawak_(1942–1945,_obverse).jpg of banana trees on the currency's 10 dollar banknote.]]
+of banana trees on the currency's 10 dollar banknote.]]
 
 Malaya and Singapore were under Japanese occupation from 1942 until 1945. The Japanese issued banana money as the official currency to replace the Straits currency issued by the British. During that time, the cost of basic necessities increased drastically. As the occupation proceeded, the Japanese authorities printed more money to fund their wartime activities, which resulted in hyperinflation and a severe depreciation in value of the banana note.
 
@@ -226,11 +226,9 @@ Between 1921 and 1922, inflation in the Soviet Union reached 213%.
 
 Venezuela
 
-Venezuela_inflation_on_the_black_market_(DolarToday)_on_a_logarithmic_scale.png
-
 Venezuela's hyperinflation began in November 2016.[70] Inflation of Venezuela's bolivar fuerte (VEF) in 2014 reached 69%[71] and was the highest in the world.[72][73] In 2015, inflation was 181%, the highest in the world and the highest in the country's history at that time,[74][75] 800% in 2016[76] over 4,000% in 2017,[77][78][79][80] and 1,698,488% in 2018.[81] with Venezuela spiraling into hyperinflation.[82] While the Venezuelan government "has essentially stopped" producing official inflation estimates as of early 2018, one estimate of the rate at that time was 5,220%, according to inflation economist Steve Hanke of Johns Hopkins University.[83]
 
-Venezuela_BsF_Hyperinflation_2007-2017_notes.jpg banknotes ranging from 2 bolivares to 100,000 bolivares printed within a 10-year period. The magnitude of the currency scalars signifies the extent of the hyperinflation. The banknotes were demonetized in 2018 following the introduction of the bolívar soberano, with 5 fewer zeros.]]
+banknotes ranging from 2 bolivares to 100,000 bolivares printed within a 10-year period. The magnitude of the currency scalars signifies the extent of the hyperinflation. The banknotes were demonetized in 2018 following the introduction of the bolívar soberano, with 5 fewer zeros.]]
 
 Inflation has affected Venezuelans so much that in 2017, some people became video game gold farmers and could be seen playing games such as _RuneScape_ to sell in-game currency or characters for real currency. In many cases, these gamers made more money than salaried workers in Venezuela even though they were earning just a few dollars per day.[84] During the Christmas season of 2017, some shops would no longer use price tags since prices would inflate so quickly, so customers were required to ask staff at stores how much each item was.[85]
 
@@ -247,8 +245,6 @@ In May 2019, the Central Bank of Venezuela released economic data for the first 
 
 Yugoslavia
 
-500000000000_dinars.jpg
-
 Yugoslavia went through a period of hyperinflation and subsequent currency reforms from 1989–1994. One of several regional conflicts accompanying the dissolution of Yugoslavia was the Bosnian War (1992–1995). The Belgrade government of Slobodan Milošević backed ethnic Serbian forces in the conflict, resulting in a United Nations boycott of Yugoslavia. The UN boycott collapsed an economy already weakened by regional war, with the projected monthly inflation rate accelerating to one million percent by December 1993 (prices double every 2.3 days).[97]
 
 The highest denomination in 1988 was 50,000 dinars. By 1989 it was 2,000,000 dinars. In the 1990 currency reform, 1 new dinar was exchanged for 10,000 old dinars. In the 1992 currency reform, 1 new dinar was exchanged for 10 old dinars. The highest denomination in 1992 was 50,000 dinars. By 1993, it was 10,000,000,000 dinars. In the 1993 currency reform, 1 new dinar was exchanged for 1,000,000 old dinars. Before the year was over, however, the highest denomination was 500,000,000,000 dinars. In the 1994 currency reform, 1 new dinar was exchanged for 1,000,000,000 old dinars. In another currency reform a month later, 1 novi dinar was exchanged for 13 million dinars (1 novi dinar = 1 German mark at the time of exchange). The overall impact of hyperinflation was that 1 novi dinar was equal to 1 × 10²⁷~1.3 × 10²⁷ pre-1990 dinars. Yugoslavia's rate of inflation hit 5 × 10¹⁵ percent cumulative inflation over the time period 1 October 1993 and 24 January 1994.
@@ -260,7 +256,7 @@ The highest denomination in 1988 was 50,000 dinars. By 1989 it was 2,000,000 din
 
 Zimbabwe
 
-Zimbabwe_$100_trillion_2009_Obverse.jpg banknote (10¹⁴ dollars), equal to 10²⁷ (1 octillion) pre-2006 dollars.]]
+banknote (10¹⁴ dollars), equal to 10²⁷ (1 octillion) pre-2006 dollars.]]
 
 Hyperinflation in Zimbabwe was one of the few instances that resulted in the abandonment of the local currency. At independence in 1980, the Zimbabwe dollar (ZWD) was worth about USD 1.25. Afterwards, however, rampant inflation and the collapse of the economy severely devalued the currency. Inflation was steady until British Prime Minister Tony Blair reneged on Land reform agreements arrived at between Margaret Thatcher and Robert Mugabe that continued land redistribution from the white farming community in 1998, resulting in reductions in food production and the decline of foreign investment. Several multinational companies began hoarding retail goods in warehouses in Zimbabwe and just south of the border, preventing commodities from becoming available on the market[99][100][101][102][103] The result was that to pay its expenditures Mugabe's government and Gideon Gono's Reserve Bank printed more and more notes with higher face values.
 

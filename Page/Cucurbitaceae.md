@@ -20,7 +20,7 @@ Classification
 
 Tribal classification
 
-Cucurbitaceae_2.jpg Cucurbits_(Cucurbitaceae).jpg 2016-11-10_Cucurbits_(Cucurbitaceae)_Madrid_Botanico.jpg, with the title "Variedades de calabaza"]] The most recent classification of Cucurbitaceae delineates 15 tribes:[5][6]
+, with the title "Variedades de calabaza"]] The most recent classification of Cucurbitaceae delineates 15 tribes:[5][6]
 
 -   TRIBE GOMPHOGYNEAE BENTH. & HOOK. F. 1867
     -   _Alsomitra_ (Blume) Spach 1838 (1 sp.)

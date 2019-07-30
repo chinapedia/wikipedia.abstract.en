@@ -1,5 +1,3 @@
-Guantanamo.jpg
-
 GUANTANAMO BAY NAVAL BASE (), officially known as NAVAL STATION GUANTANAMO BAY or NSGB (also called GTMO because of the abbreviation of _Guantanamo_ or GITMO because of the common pronunciation of this word by the U.S. military[1]), is a United States military base and detention camp located on 120 square kilometers (45 sq mi) of land and water at Guantánamo Bay, Cuba, which the U.S. leased for use as a coaling station and naval base in 1903. The lease was $2,000 in gold per year until 1934, when the payment was set to match the value in gold in dollars;[2] in 1974, the yearly lease was set to $4,085.[3] The base is on the shore of Guantánamo Bay at the southeastern end of Cuba. It is the oldest overseas U.S. Naval Base.[4] Since the Cuban Revolution of 1959, the Cuban government has consistently protested against the U.S. presence on Cuban soil and called it illegal under international law, alleging that the base was imposed on Cuba by force.
 
 Since 2002, the naval base has contained a military prison, the Guantanamo Bay detention camp, for alleged unlawful combatants captured in Afghanistan, Iraq, and other places during the War on Terror.[5] Cases of torture of prisoners,[6] and their denial of protection under the Geneva Conventions, have been condemned internationally.[7][8]
@@ -69,7 +67,7 @@ Ocean transportation is provided by Schuyler Line Navigation Company, a U.S. Fla
 
 History
 
-Guantanamo_Bay_Naval_Base,_Cuba,_1916_‧_1.jpg US_fleet_at_Guantanamo_Bay_1927.jpg USS_Monongahela,_1903.jpg Guantanamo_Bay_Navy_Exchange_and_BEQ.jpg U.S._Coast_Guard_Guantanamo_hospital_2010-01-13.jpg are unloaded at U.S. Naval Hospital Guantanamo Bay]]
+are unloaded at U.S. Naval Hospital Guantanamo Bay]]
 
 Spanish colonial era
 
@@ -114,7 +112,7 @@ During World War II, the base was set up to use a nondescript number for postal 
 
 1958–99
 
-USS_Lexington_(AVT-16)_leaving_Guantanamo_Bay_c1991.JPEG Until the 1953–59 revolution, thousands of Cubans commuted daily from outside the base to jobs within. In mid-1958, vehicular traffic was stopped; workers were required to walk through the base's several gates. Public Works Center buses were pressed into service almost overnight to carry the tides of workers to and from the gate.[56]
+Until the 1953–59 revolution, thousands of Cubans commuted daily from outside the base to jobs within. In mid-1958, vehicular traffic was stopped; workers were required to walk through the base's several gates. Public Works Center buses were pressed into service almost overnight to carry the tides of workers to and from the gate.[56]
 
 During the Cuban missile crisis in 1962, the families of military personnel were evacuated from the base. Notified of the evacuation on 22 October, evacuees were told to pack one suitcase per family member, to bring evacuation and immunization cards, to tie pets in the yard, to leave the keys to the house on the dining table, and to wait in front of the house for buses.[57] Dependents travelled to the airfield for flights to the United States, or to ports for passage aboard evacuation ships. After the crisis was resolved, family members were allowed to return to the base in December 1962.
 
@@ -144,7 +142,7 @@ Windward Point contains most of the activities at the Naval Station. There are n
 
 Cactus Curtain
 
-Marines_stack_mines_for_disposal.jpg in July 1997.]]
+in July 1997.]]
 
 "Cactus Curtain" is a term describing the line separating the naval base from Cuban-controlled territory. After the Cuban Revolution, some Cubans sought refuge on the Guantanamo Bay Naval Base. In the fall of 1961, Cuban troops planted an barrier of _Opuntia_ cactus along the northeastern section of the fence surrounding the base to stop Cubans from escaping Cuba to take refuge in the United States.[78] This was dubbed the _Cactus Curtain_, an allusion to Europe's Iron Curtain,[79] the Bamboo Curtain in East Asia or the similar Ice Curtain in the Bering Strait.
 
@@ -152,8 +150,6 @@ U.S. and Cuban troops placed some 55,000 land mines across the "no man's land" a
 
 
 Detention camp
-
-Camp_Delta,_Guantanamo_Bay,_Cuba.jpg Guantanamo_guard_tower.jpg
 
 In the last quarter of the 20th century, the base was used to house Cuban and Haitian refugees intercepted on the high seas. In the early 1990s, it held refugees who fled Haiti after military forces overthrew president Jean-Bertrand Aristide. These refugees were held in a detainment area called Camp Bulkeley until United States district court Judge Sterling Johnson, Jr. declared the camp unconstitutional on 8 June 1993. This decision was later vacated. The last Haitian migrants departed Guantanamo on 1 November 1995.
 
@@ -169,8 +165,6 @@ While mandating closure of the detention camp, the naval base as a whole is not 
 
 
 Represented businesses
-
-The_McDonalds_at_Guantanamo.jpg
 
 A Baskin-Robbins ice cream stand, which opened in the 1980s, was one of the first business franchises allowed on the base.[87] In early 1986, the base added the first and only McDonald's restaurant within Cuba.[88][89] A Subway restaurant was opened in 2002.[90] In 2004, a combined KFC & A&W restaurant was opened at the bowling alley and a Pizza Hut Express was added to the Windjammer Restaurant.[91] There is also a cafe that sells Baskin-Robbins ice cream and Starbucks coffee and there is a combined KFC & Taco Bell restaurant.[92]
 

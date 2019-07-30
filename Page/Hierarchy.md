@@ -60,7 +60,7 @@ Possibly the first use of the English word "hierarchy" cited by the _Oxford Engl
 
 Visually representing hierarchies
 
-Maslow's_hierarchy_of_needs.png. This is an example of a hierarchy visualized with a triangle diagram.]] A hierarchy is typically depicted as a pyramid, where the height of a level represents that level's status and width of a level represents the quantity of items at that level relative to the whole. For example, the few Directors of a company could be at the apex, and the base could be thousands of people who have no subordinates.
+. This is an example of a hierarchy visualized with a triangle diagram.]] A hierarchy is typically depicted as a pyramid, where the height of a level represents that level's status and width of a level represents the quantity of items at that level relative to the whole. For example, the few Directors of a company could be at the apex, and the base could be thousands of people who have no subordinates.
 
 These pyramids are typically diagrammed with a tree or triangle diagram (but note that not all triangle/pyramid diagrams are hierarchical; for example, the 1992 USDA food guide pyramid), both of which serve to emphasize the size differences between the levels. An example of a triangle diagram appears to the right. An organizational chart is the diagram of a hierarchy within an organization, and is depicted in tree form in , below.
 
@@ -97,7 +97,7 @@ Subtypes
 
 Nested hierarchy
 
-Russian-Matroshka_no_bg.jpgs, also known as _nesting dolls_ or _Russian dolls_. Each doll is encompassed inside another until the smallest one is reached. This is the concept of _nesting_. When the concept is applied to sets, the resulting ordering is a _nested hierarchy_.]] A nested hierarchy or _inclusion hierarchy_ is a hierarchical ordering of nested sets.[15] The concept of nesting is exemplified in Russian matryoshka dolls. Each doll is encompassed by another doll, all the way to the outer doll. The outer doll holds all of the inner dolls, the next outer doll holds all the remaining inner dolls, and so on. Matryoshkas represent a nested hierarchy where each level contains only one object, i.e., there is only one of each size of doll; a generalized nested hierarchy allows for multiple objects within levels but with each object having only one parent at each level. The general concept is both demonstrated and mathematically formulated in the following example:
+s, also known as _nesting dolls_ or _Russian dolls_. Each doll is encompassed inside another until the smallest one is reached. This is the concept of _nesting_. When the concept is applied to sets, the resulting ordering is a _nested hierarchy_.]] A nested hierarchy or _inclusion hierarchy_ is a hierarchical ordering of nested sets.[15] The concept of nesting is exemplified in Russian matryoshka dolls. Each doll is encompassed by another doll, all the way to the outer doll. The outer doll holds all of the inner dolls, the next outer doll holds all the remaining inner dolls, and so on. Matryoshkas represent a nested hierarchy where each level contains only one object, i.e., there is only one of each size of doll; a generalized nested hierarchy allows for multiple objects within levels but with each object having only one parent at each level. The general concept is both demonstrated and mathematically formulated in the following example:
 
     square ⊂ quadrilateral ⊂ polygon ⊂ shape 
 
@@ -142,7 +142,7 @@ According to Kulish, V. V. (2002), almost every system of organization applied t
 
 While the above examples are often clearly depicted in a hierarchical form and are classic examples, hierarchies exist in numerous systems where this branching structure is not immediately apparent. For example, most postal code systems are hierarchical. Using the Canadian postal code system as an example, the top level's binding concept is the "postal district", and consists of 18 objects (letters). The next level down is the "zone", where the objects are the digits 0–9. This is an example of an overlapping hierarchy, because each of these 10 objects has 18 parents. The hierarchy continues downward to generate, in theory, 7,200,000 unique codes of the format _A0A 0A0_ (the second and third letter position allow 20 objects each). Most library classification systems are also hierarchical. The Dewey Decimal System is regarded as infinitely hierarchical because there is no finite bound on the number of digits can be used after the decimal point.[30]
 
-Organizational_chart.svg depicted in the form of a tree. Diagrams like this are called organizational charts.]]
+depicted in the form of a tree. Diagrams like this are called organizational charts.]]
 
 Organizations
 
@@ -185,7 +185,7 @@ Hierarchy in ethics emerged in Western Europe, West Asia and North Africa around
 
 Ethics, behavioral psychology, philosophies of identity
 
-Hierarchy_Of_Purposes.jpg In ethics, various virtues are enumerated and sometimes organized hierarchically according to certain brands of virtue theory.
+In ethics, various virtues are enumerated and sometimes organized hierarchically according to certain brands of virtue theory.
 
 In some of these random examples, there is an asymmetry of 'compositional' significance between levels of structure, so that small parts of the whole hierarchical array depend, for their meaning, on their membership in larger parts.There is a hierarchy of activities in human life: productive activity serves or is guided by the moral life; the moral life is guided by practical reason; practical reason (used in moral and political life) serves contemplative reason (whereby we contemplate God). Practical reason sets aside time and resources for contemplative reason.
 

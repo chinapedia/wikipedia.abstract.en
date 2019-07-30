@@ -15,8 +15,6 @@ History
 
 Founding
 
-Bank_of_England_Charter_sealing_1694.jpg
-
 England's crushing defeat by France, the dominant naval power, in naval engagements culminating in the 1690 Battle of Beachy Head, became the catalyst for England rebuilding itself as a global power. England had no choice but to build a powerful navy. No public funds were available, and the credit of William III's government was so low in London that it was impossible for it to borrow the £1,200,000 (at 8% p.a.) that the government wanted.
 
 To induce subscription to the loan, the subscribers were to be incorporated by the name of the Governor and Company of the Bank of England. The Bank was given exclusive possession of the government's balances, and was the only limited-liability corporation allowed to issue bank notes.[13] The lenders would give the government cash (bullion) and issue notes against the government bonds, which can be lent again. The £1.2m was raised in 12 days; half of this was used to rebuild the navy.
@@ -27,7 +25,7 @@ The establishment of the bank was devised by Charles Montagu, 1st Earl of Halifa
 
 18th century
 
-The_Old_Lady_of_Threadneedle_St.png, 1797. The "Old Lady of Threadneedle St" (the Bank personified) is ravished by William Pitt the Younger.]]
+, 1797. The "Old Lady of Threadneedle St" (the Bank personified) is ravished by William Pitt the Younger.]]
 
 The Bank's original home was in Walbrook, a street in the City of London, where during reconstruction in 1954 archaeologists found the remains of a Roman temple of Mithras (Mithras is – rather fittingly – said to have been worshipped as, amongst other things, the God of Contracts);[19] the Mithraeum ruins are perhaps the most famous of all 20th-century Roman discoveries in the City of London and can be viewed by the public.
 
@@ -37,15 +35,13 @@ When the idea and reality of the national debt came about during the 18th centur
 
 19th century
 
-Bank_of_England_1876.JPG The 1844 Bank Charter Act tied the issue of notes to the gold reserves and gave the Bank sole rights with regard to the issue of banknotes. Private banks that had previously had that right retained it, provided that their headquarters were outside London and that they deposited security against the notes that they issued. A few English banks continued to issue their own notes until the last of them was taken over in the 1930s. Scottish and Northern Irish private banks still have that right.
+The 1844 Bank Charter Act tied the issue of notes to the gold reserves and gave the Bank sole rights with regard to the issue of banknotes. Private banks that had previously had that right retained it, provided that their headquarters were outside London and that they deposited security against the notes that they issued. A few English banks continued to issue their own notes until the last of them was taken over in the 1930s. Scottish and Northern Irish private banks still have that right.
 
 The bank acted as lender of last resort for the first time in the panic of 1866.[22]
 
 The last private bank in England to issue its own notes was Thomas Fox's Fox, Fowler and Company bank in Wellington, which rapidly expanded, until it merged with Lloyds Bank in 1927. They were legal tender until 1964. There are nine notes left in circulation; one is housed at Tone Dale House Wellington.
 
 20th century
-
-Bank_of_England_Building,_London,_UK_-_Diliff.jpg
 
 Britain remained on the gold standard until 1931, when the gold and foreign exchange reserves were transferred to the Treasury; however, they continued to be managed by the Bank.
 
@@ -74,7 +70,7 @@ BOEN was dissolved, following liquidation, in July 2017.[43]
 
 Functions
 
-There are two main areas which are tackled by the Bank to ensure it carries out these functions efficiently:[44] Bank_of_England.jpg.]]
+There are two main areas which are tackled by the Bank to ensure it carries out these functions efficiently:[44] .]]
 
 Monetary stability
 

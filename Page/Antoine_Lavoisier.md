@@ -7,7 +7,7 @@ Lavoisier was a powerful member of a number of aristocratic councils, and an adm
 
 Biography
 
-Institut_de_France,_Paris_13_June_2017.jpg'' in Paris]]
+'' in Paris]]
 
 Early life and education
 
@@ -18,8 +18,6 @@ Early scientific work
 Lavoisier's education was filled with the ideals of the French Enlightenment of the time, and he was fascinated by Pierre Macquer's dictionary of chemistry. He attended lectures in the natural sciences. Lavoisier's devotion and passion for chemistry were largely influenced by Étienne Condillac, a prominent French scholar of the 18th century. His first chemical publication appeared in 1764. From 1763 to 1767, he studied geology under Jean-Étienne Guettard. In collaboration with Guettard, Lavoisier worked on a geological survey of Alsace-Lorraine in June 1767. In 1764 he read his first paper to the French Academy of Sciences, France's most elite scientific society, on the chemical and physical properties of gypsum (hydrated calcium sulfate), and in 1766 he was awarded a gold medal by the King for an essay on the problems of urban street lighting. In 1768 Lavoisier received a provisional appointment to the Academy of Sciences.[9] In 1769, he worked on the first geological map of France.
 
 Lavoisier as a social reformer
-
-Lavoisier_humanexp.jpg
 
 Research benefitting the public good
 
@@ -45,8 +43,6 @@ He also pushed for public education in the sciences. He founded two organization
 
 Ferme générale and marriage
 
-Lavoisier_explaining_to_his_wife_the_result_of_his_experimen_Wellcome_V0018151.jpg
-
 At the age of 26, around the time he was elected to the Academy of Sciences, Lavoisier bought a share in the _Ferme générale_, a tax farming financial company which advanced the estimated tax revenue to the royal government in return for the right to collect the taxes. On behalf of the Ferme générale Lavoisier commissioned the building of a wall around Paris so that customs duties could be collected from those transporting goods into and out of the city.[31] His participation in the collection of its taxes did not help his reputation when the Reign of Terror began in France, as taxes and poor government reform were the primary motivators during the French Revolution.
 
 Lavoisier consolidated his social and economic position when, in 1771 at age 28, he married Marie-Anne Pierrette Paulze, the 13-year-old daughter of a senior member of the _Ferme générale_.[32] She was to play an important part in Lavoisier's scientific career—notably, she translated English documents for him, including Richard Kirwan's _Essay on Phlogiston_ and Joseph Priestley's research. In addition, she assisted him in the laboratory and created many sketches and carved engravings of the laboratory instruments used by Lavoisier and his colleagues for their scientific works. Madame Lavoisier edited and published Antoine's memoirs (whether any English translations of those memoirs have survived is unknown as of today) and hosted parties at which eminent scientists discussed ideas and problems related to chemistry.[33]
@@ -65,7 +61,7 @@ Lavoisier urged the establishment of a Royal Commission on Agriculture. He then 
 
 Gunpowder Commission
 
-Lavoisier_und_Nemours.png (right) and mentor Antoine Lavoisier]]
+(right) and mentor Antoine Lavoisier]]
 
 Lavoisier's researches on combustion were carried out in the midst of a very busy schedule of public and private duties, especially in connection with the _Ferme Générale_. There were also innumerable reports for and committees of the Academy of Sciences to investigate specific problems on order of the royal government. Lavoisier, whose organizing skills were outstanding, frequently landed the task of writing up such official reports. In 1775 he was made one of four commissioners of gunpowder appointed to replace a private company, similar to the Ferme Générale, which had proved unsatisfactory in supplying France with its munitions requirements. As a result of his efforts, both the quantity and quality of French gunpowder greatly improved, and it became a source of revenue for the government. His appointment to the Gunpowder Commission brought one great benefit to Lavoisier's scientific career as well. As a commissioner, he enjoyed both a house and a laboratory in the Royal Arsenal. Here he lived and worked between 1775 and 1792.
 
@@ -77,7 +73,7 @@ In June 1791 Lavoisier made a loan of 71,000 livres to Pierre Samuel du Pont de 
 
 Final days and execution
 
-Lavoisier_cour_Napoleon_Louvre.jpg, ca 1853, among culture heroes in the Louvre's _Cour Napoléon_]]
+, ca 1853, among culture heroes in the Louvre's _Cour Napoléon_]]
 
 As the French Revolution gained momentum, attacks mounted on the deeply unpopular _Ferme générale_, and it was eventually abolished in March 1791.[48] In 1792 Lavoisier was forced to resign from his post on the Gunpowder Commission and to move from his house and laboratory at the Royal Arsenal. On 8 August 1793, all the learned societies, including the Academy of Sciences, were suppressed at the request of Abbé Grégoire.[49]
 
@@ -98,7 +94,7 @@ Contributions to chemistry
 
 Oxygen theory of combustion
 
-Lavoisier_decomposition_air.png in the 1780s taken from _Traité élémentaire de chimie_ (Elementary treatise on chemistry)]]
+in the 1780s taken from _Traité élémentaire de chimie_ (Elementary treatise on chemistry)]]
 
 During late 1772 Lavoisier turned his attention to the phenomenon of combustion, the topic on which he was to make his most significant contribution to science. He reported the results of his first experiments on combustion in a note to the Academy on 20 October, in which he reported that when phosphorus burned, it combined with a large quantity of air to produce acid spirit of phosphorus, and that the phosphorus increased in weight on burning. In a second sealed note deposited with the Academy a few weeks later (1 November) Lavoisier extended his observations and conclusions to the burning of sulfur and went on to add that "what is observed in the combustion of sulfur and phosphorus may well take place in the case of all substances that gain in weight by combustion and calcination: and I am persuaded that the increase in weight of metallic calces is due to the same cause."
 
@@ -108,7 +104,7 @@ During 1773 Lavoisier determined to review thoroughly the literature on air, par
 
 Joseph Priestley
 
-Priestley.jpg, an English chemist known for isolating oxygen, which he termed "dephlogisticated air"]]
+, an English chemist known for isolating oxygen, which he termed "dephlogisticated air"]]
 
 In the spring of 1774 Lavoisier carried out experiments on the calcination of tin and lead in sealed vessels, the results of which conclusively confirmed that the increase in weight of metals in combustion was due to combination with air. But the question remained about whether it was combination with common atmospheric air or with only a part of atmospheric air. In October the English chemist Joseph Priestley visited Paris, where he met Lavoisier and told him of the air which he had produced by heating the red calx of mercury with a burning glass and which had supported combustion with extreme vigor. Priestley at this time was unsure of the nature of this gas, but he felt that it was an especially pure form of common air. Lavoisier carried out his own researches on this peculiar substance. The result was his memoir _On the Nature of the Principle Which Combines with Metals during Their Calcination and Increases Their Weight_, read to the Academy on 26 April 1775 (commonly referred to as the Easter Memoir). In the original memoir Lavoisier showed that the mercury calx was a true metallic calx in that it could be reduced with charcoal, giving off Black's fixed air in the process.[57] When reduced without charcoal, it gave off an air which supported respiration and combustion in an enhanced way. He concluded that this was just a pure form of common air, and that it was the air itself "undivided, without alteration, without decomposition" which combined with metals on calcination.
 
@@ -131,7 +127,7 @@ Antoine Lavoisier is commonly cited as a central contributor to the chemical rev
 
 Notable works
 
-Laboratoire-de-Lavoisier.jpg, Paris]]
+, Paris]]
 
 Easter memoir
 
@@ -145,13 +141,11 @@ Despite these experiments, Lavoisier's antiphlogistic approach remained unaccept
 
 _Elementary Treatise of Chemistry_
 
-Liebig_Company_Trading_Card_Ad_01.12.004_front.tif Trading Card, 1929]]
+Trading Card, 1929]]
 
 Lavoisier employed the new nomenclature in his _Traité élémentaire de chimie_ (_Elementary Treatise on Chemistry_), published in 1789. This work represents the synthesis of Lavoisier's contribution to chemistry and can be considered the first modern textbook on the subject. The core of the work was the oxygen theory, and the work became a most effective vehicle for the transmission of the new doctrines. It presented a unified view of new theories of chemistry, contained a clear statement of the law of conservation of mass, and denied the existence of phlogiston. This text clarified the concept of an element as a substance that could not be broken down by any known method of chemical analysis, and presented Lavoisier's theory of the formation of chemical compounds from elements. It remains a classic in the history of science. While many leading chemists of the time refused to accept Lavoisier's new ideas, demand for _Traité élémentaire_ as a textbook in Edinburgh was sufficient to merit translation into English within about a year of its French publication.[68] In any event, the _Traité élémentaire_ was sufficiently sound to convince the next generation.
 
 Physiological work
-
-Œuvres_de_Lavoisier_Paris,_Imprimerie_impériale,_1862-93_RGNb10341936.22.vol_III.plate_IX.tif
 
 The relationship between combustion and respiration had long been recognized from the essential role which air played in both processes. Lavoisier was almost obliged, therefore, to extend his new theory of combustion to include the area of respiration physiology. His first memoirs on this topic were read to the Academy of Sciences in 1777, but his most significant contribution to this field was made in the winter of 1782/1783 in association with Laplace. The result of this work was published in a memoir, "On Heat." Lavoisier and Laplace designed an ice calorimeter apparatus for measuring the amount of heat given off during combustion or respiration. The outer shell of the calorimeter was packed with snow, which melted to maintain a constant temperature of around an inner shell filled with ice. By measuring the quantity of carbon dioxide and heat produced by confining a live guinea pig in this apparatus, and by comparing the amount of heat produced when sufficient carbon was burned in the ice calorimeter to produce the same amount of carbon dioxide as that which the guinea pig exhaled, they concluded that respiration was in fact a slow combustion process. Lavoisier stated, _"la respiration est donc une combustion,"_ that is, respiratory gas exchange is a combustion, like that of a candle burning.[69]
 
@@ -160,7 +154,7 @@ This continuous slow combustion, which they supposed took place in the lungs, en
 
 Legacy
 
-Antoine-Laurent_Lavoisier_by_Jules_Dalou_1866,_NGS.JPG 1866]]
+1866]]
 
 Lavoisier's fundamental contributions to chemistry were a result of a conscious effort to fit all experiments into the framework of a single theory. He established the consistent use of the chemical balance, used oxygen to overthrow the phlogiston theory, and developed a new system of chemical nomenclature which held that oxygen was an essential constituent of all acids (which later turned out to be erroneous).
 
@@ -186,7 +180,7 @@ A number of Lavoisier Medals have been named and given in Lavoisier's honour, by
 
 Selected writings
 
-SeimiKaisouChemistry.jpg. Page from Udagawa Yōan's 1840 _Seimi Kaisō_]]
+. Page from Udagawa Yōan's 1840 _Seimi Kaisō_]]
 
 -   _Opuscules physiques et chimiques_ (Paris: Chez Durand, Didot, Esprit, 1774). (Second edition, 1801)
 -   _L'art de fabriquer le salin et la potasse, publié par ordre du Roi, par les régisseurs-généraux des Poudres & Salpêtres_ (Paris, 1779).

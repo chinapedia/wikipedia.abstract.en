@@ -16,7 +16,7 @@ Major works
 
 San Carlo alle Quattro Fontane (San Carlino)
 
-Roman_architecture.jpg.]] In 1634, Borromini received his first major independent commission to design the church, cloister and monastic buildings of San Carlo alle Quattro Fontane (also known as San Carlino). Situated on the Quirinal Hill in Rome, the complex was designed for the Spanish Trinitarians, a religious order. The monastic buildings and the cloister were completed first after which construction of the church took place during the period 1638-1641 and in 1646 it was dedicated to San Carlo Borromeo. The church is considered by many to be an exemplary masterpiece of Roman Baroque architecture. San Carlino is remarkably small given its significance to Baroque architecture; it has been noted that the whole building would fit into one of the dome piers of Saint Peter's.[8][9][10]
+.]] In 1634, Borromini received his first major independent commission to design the church, cloister and monastic buildings of San Carlo alle Quattro Fontane (also known as San Carlino). Situated on the Quirinal Hill in Rome, the complex was designed for the Spanish Trinitarians, a religious order. The monastic buildings and the cloister were completed first after which construction of the church took place during the period 1638-1641 and in 1646 it was dedicated to San Carlo Borromeo. The church is considered by many to be an exemplary masterpiece of Roman Baroque architecture. San Carlino is remarkably small given its significance to Baroque architecture; it has been noted that the whole building would fit into one of the dome piers of Saint Peter's.[8][9][10]
 
 The site was not an easy one; it was a corner site and the space was limited. Borromini positioned the church on the corner of two intersecting roads. Although the idea for the serpentine facade must have been conceived fairly early on, probably in the mid-1630s, it was only constructed towards the end of Borromini's life and the upper part was not completed until after the architect's death.
 
@@ -24,15 +24,13 @@ Borromini devised the complex ground plan of the church from interlocking geomet
 
 Oratory of Saint Phillip Neri (Oratorio dei Filippini)
 
-Oratorio_dei_Filippini_Rome.jpg In the late sixteenth century, the Congregation of the Filippini (also known as the Oratorians) rebuilt the church of Santa Maria in Vallicella (known as the Chiesa Nuova -new church) in central Rome. In the 1620s, on a site adjacent to the church, the Fathers commissioned designs for their own residence and for an oratory (or _oratorio_ in Italian) in which to hold their spiritual exercises. These exercises combined preaching and music in a form which became immensely popular and highly influential on the development of the musical oratorio.
+In the late sixteenth century, the Congregation of the Filippini (also known as the Oratorians) rebuilt the church of Santa Maria in Vallicella (known as the Chiesa Nuova -new church) in central Rome. In the 1620s, on a site adjacent to the church, the Fathers commissioned designs for their own residence and for an oratory (or _oratorio_ in Italian) in which to hold their spiritual exercises. These exercises combined preaching and music in a form which became immensely popular and highly influential on the development of the musical oratorio.
 
 The architect Paolo Maruscelli drew up plans for the site (which survive) and the sacristy was begun in 1629 and was in use by 1635. After a substantial benefaction in January 1637, however, Borromini was appointed as architect.[13] By 1640, the oratory was in use, a taller and richer clock tower was accepted, and by 1643, the relocated library was complete. The striking brick curved facade adjacent to the church entrance has an unusual pediment and does not entirely correspond to the oratory room behind it. The white oratory interior has a ribbed vault and a complex wall arrangement of engaged pilasters along with freestanding columns supporting first level balconies. The altar wall was substantially reworked at a later date.
 
 Borromini’s relations with the Oratorians were often fraught; there were heated arguments over the design and the selection of building materials. By 1650, the situation came to a head and in 1652 the Oratorians appointed another architect.
 
 However, with the help of his Oratorian friend and provost Virgilio Spada, Borromini documented his own account of the building of the oratory and the residence and an illustrated version was published in Italian in 1725 [14]
-
-Sant'Ivo_alla_Sapienza_-Rome.jpg
 
 Sant'Ivo alla Sapienza
 
@@ -89,7 +87,7 @@ The adjectiv "Ticinensis" used in the plaque is an anachronism, since the name, 
 
 Honours
 
-CHF100_6_front_horizontal.png note]]
+note]]
 
 -   Francesco Borromini was featured on the 6th series 100 Swiss Franc banknote, which was in circulation from 1976 until 2000.[22] This decision at that time caused polemics in Switzerland, started by the Swiss Italian art historian Piero Bianconi. According to him, since in 17th century the territories which in 1803 became the Canton Ticino were Italian possessions of some Swiss cantons (Condominiums of the Twelve Cantons), Borromini could neither be defined Ticinese nor Swiss.[23]
 

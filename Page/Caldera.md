@@ -1,4 +1,4 @@
-Mount_Mazama_eruption_timeline.PNG's eruption timeline, an example of caldera formation]]
+'s eruption timeline, an example of caldera formation]]
 
 A CALDERA is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber/reservoir in a volcanic eruption. When large volumes of magma are erupted over a short time, structural support for the rock above the magma chamber is lost. The ground surface then collapses downward into the emptied or partially emptied magma chamber, leaving a massive depression at the surface (from one to dozens of kilometers in diameter). Although sometimes described as a crater, the feature is actually a type of sinkhole, as it is formed through subsidence and collapse rather than an explosion or impact. Only seven caldera-forming collapses are known to have occurred since 1900, most recently at Bárðarbunga volcano, Iceland in 2014.[1]
 
@@ -10,14 +10,14 @@ The term _caldera_ comes from Spanish __, and Latin __, meaning "cooking pot". I
 
 Caldera formation
 
-Origin_of_volcanic_caldera_via_analogue_model.gif Toba_zoom.jpg image of Lake Toba, on the island of Sumatra, Indonesia (100 km/62 mi long and 30 km/19 mi wide, one of the world's largest calderas). A resurgent dome formed the island of Samosir.]]
+image of Lake Toba, on the island of Sumatra, Indonesia (100 km/62 mi long and 30 km/19 mi wide, one of the world's largest calderas). A resurgent dome formed the island of Samosir.]]
 
 A collapse is triggered by the emptying of the magma chamber beneath the volcano, sometimes as the result of a large explosive volcanic eruption (see Tambora in 1815), but also during effusive eruptions on the flanks of a volcano (see Piton de la Fournaise in 2007)[2] or in a connected fissure system (see Bárðarbunga in 2014–2015). If enough magma is ejected, the emptied chamber is unable to support the weight of the volcanic edifice above it. A roughly circular fracture, the "ring fault", develops around the edge of the chamber. Ring fractures serve as feeders for fault intrusions which are also known as ring dikes. Secondary volcanic vents may form above the ring fracture. As the magma chamber empties, the center of the volcano within the ring fracture begins to collapse. The collapse may occur as the result of a single cataclysmic eruption, or it may occur in stages as the result of a series of eruptions. The total area that collapses may be hundreds or thousands of square kilometers.
 
 
 Mineralization in calderas
 
-Caldera_formation.gif Some calderas are known to host rich ore deposits. Metal-rich fluids can circulate through the caldera, forming hydrothermal ore deposits of metals such as lead, silver, gold, mercury, lithium and uranium.[3] One of the world's best-preserved mineralized calderas is the Sturgeon Lake Caldera in northwestern Ontario, Canada, which formed during the Neoarchean era[4] about 2,700 million years ago.[5]
+Some calderas are known to host rich ore deposits. Metal-rich fluids can circulate through the caldera, forming hydrothermal ore deposits of metals such as lead, silver, gold, mercury, lithium and uranium.[3] One of the world's best-preserved mineralized calderas is the Sturgeon Lake Caldera in northwestern Ontario, Canada, which formed during the Neoarchean era[4] about 2,700 million years ago.[5]
 
 
 Types of caldera
@@ -40,11 +40,9 @@ Eruptions forming even larger calderas are known, especially La Garita Caldera i
 
 At some points in geological time, rhyolitic calderas have appeared in distinct clusters. The remnants of such clusters may be found in places such as the San Juan Mountains of Colorado (formed during the Oligocene, Miocene, and Pliocene epochs) or the Saint Francois Mountain Range of Missouri (erupted during the Proterozoic eon).[11]
 
-La_Cumbre_-_ISS.JPG in the Galápagos archipelago.]] Nemrut_Caldera_aerial.jpg
+in the Galápagos archipelago.]]
 
 Non-explosive calderas
-
-Iss038e012569,_Caldera_Sollipulli.jpg
 
 Some volcanoes, such as the large shield volcanoes Kīlauea and Mauna Loa on the island of Hawaii, form calderas in a different fashion. The magma feeding these volcanoes is basalt, which is silica poor. As a result, the magma is much less viscous than the magma of a rhyolitic volcano, and the magma chamber is drained by large lava flows rather than by explosive events. The resulting calderas are also known as subsidence calderas and can form more gradually than explosive calderas. For instance, the caldera atop Fernandina Island collapsed in 1968 when parts of the caldera floor dropped .[12]
 
@@ -88,7 +86,7 @@ List of volcanic calderas
         -   Aguas Calientes, Salta Province
         -   Caldera del Atuel, Mendoza Province
         -   Galán, Catamarca Province
-    -   United States Crater_lake_oregon.jpg, Oregon, formed around 5,680 BC]] MSH82_st_helens_plume_from_harrys_ridge_05-19-82.jpg-Caldera with the Lava dome]] Aniakchak-caldera_alaska.jpg-caldera, Alaska]]
+    -   United States , Oregon, formed around 5,680 BC]] -Caldera with the Lava dome]] -caldera, Alaska]]
         -   Mount Aniakchak (Aniakchak National Monument and Preserve) (Alaska)
         -   Crater Lake on Mount Mazama (Crater Lake National Park, Oregon)
         -   Mt. St. Helens (Washington)
@@ -135,7 +133,7 @@ List of volcanic calderas
         -   Quilotoa
         -   Fernandina Island, Galápagos Islands
         -   Sierra Negra (Galápagos)
-    -   El Salvador Teopan.jpg, El Salvador crater lake]]
+    -   El Salvador , El Salvador crater lake]]
         -   Lake Ilopango
         -   Lake Coatepeque
     -   Guatemala
@@ -161,7 +159,7 @@ List of volcanic calderas
         -   Hakone (Kanagawa Prefecture, Japan)
         -   Mount Halla (Jeju-do, South Korea)
         -   Heaven Lake (Baekdu Mountain, North Korea)
-    -   Southeast Asia Pinatubo92pinatubo_caldera_crater_lake.jpg, Philippines]]
+    -   Southeast Asia , Philippines]]
         -   Mount Pinatubo (Luzon, Philippines)
         -   Taal Volcano (Luzon, Philippines)
         -   Laguna de Bay (Luzon, Philippines)
@@ -176,7 +174,7 @@ List of volcanic calderas
     -   Southwest Asia
         -   Derik (Mardin, Turkey)
         -   Nemrut (volcano) (Turkey)
-    -   Russia Yankicha.jpg, Kuril Islands]]
+    -   Russia , Kuril Islands]]
         -   Akademia Nauk (Kamchatka Peninsula)
         -   Golovnin (Kuril Islands)
         -   Karymsky Caldera (Kamchatka Peninsula)
@@ -189,9 +187,9 @@ List of volcanic calderas
         -   Zavaritski Caldera (Kuril Islands)
         -   Yankicha/Ushishir (Kuril Islands)
         -   Chegem Caldera (Kabardino-Balkarian Republic, Northern Caucasus Region)
--   Europe Santorini_3D_version_1.gif aerial spinning view over Santorini, Greece.]]
+-   Europe aerial spinning view over Santorini, Greece.]]
 
-Laacher_See_-_Luftaufnahme.jpg, Germany.]]
+, Germany.]]
 
 -   -   Banská Štiavnica (Slovakia)
     -   Bakuriani/Didveli Caldera (Georgia)
@@ -212,7 +210,7 @@ Laacher_See_-_Luftaufnahme.jpg, Germany.]]
     -   Laacher See (Germany)
     -   Lagoa das Sete Cidades & Furnas (São Miguel, the Azores, Portugal)
 
--   Oceania Lake_taupo_landsat.jpg]]
+-   Oceania ]]
     -   Lake Rotorua (New Zealand)
     -   Lake Okataina (New Zealand)
     -   Kapenga (New Zealand)

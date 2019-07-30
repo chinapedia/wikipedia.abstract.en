@@ -16,7 +16,7 @@ History
 
 Antiquity
 
-Abdera_location.jpges, Clazomenae and Teos.]] Abderacoin.png.]] The Phoenicians apparently began the settlement of Abdera at some point before the mid-7th century and the town long maintained Phoenician standards in its coinage.
+es, Clazomenae and Teos.]] .]] The Phoenicians apparently began the settlement of Abdera at some point before the mid-7th century and the town long maintained Phoenician standards in its coinage.
 
 The Greek settlement was begun as a failed colony from Klazomenai, traditionally dated to 654. (Evidence in 7th-century- Greek pottery tends to support the traditional date but the exact timing remains uncertain.)[5] Herodotus reports that the leader of the colony had been Timesios but, within his generation, the Thracians had expelled the colonists. Timesios was subsequently honored as a local protective spirit by the later Abderans from Teos. Others recount various legends about this colony. Plutarch and Aelian relate that Timesios grew insufferable to his colonists because of his desire to do everything by himself; when one of their children let him know how they all really felt, he quit the settlement in disgust; modern scholars have tried to split the difference between the two accounts of early Abdera's failure by giving the latter as the reason for Timesios's having left Klazomenai.
 
@@ -33,8 +33,6 @@ Abdera was a wealthy city, the third richest in the League, due to its status as
 A valuable prize, the city was repeatedly sacked: by the Triballi in 376, Philip II of Macedon in 350; later by Lysimachos of Thrace,[14] the Seleucids, the Ptolemies, and again by the Macedonians. In 170 the Roman armies and those of Eumenes II of Pergamon besieged and sacked it.
 
 The town seems to have declined in importance after the middle of the 4th century.[15] Cicero ridicules the city as a byword for stupidity in his letters to Atticus, writing of a debate in the Senate, "Here was Abdera, but I wasn't silent" ("Hic, Abdera non tacente me").[16] Nevertheless, the city counted among its citizens the philosophers Democritus, Protagoras[17] and Anaxarchus, historian and philosopher Hecataeus of Abdera, and the lyric poet Anacreon. Pliny the Elder speaks of Abdera as being in his time a free city.[18]
-
-Abdera_West_gate.jpg
 
 Abdera had flourished especially in ancient times mainly for two reasons: because of the large area of their territory and their highly strategic position. The city controlled two great road passages (one of Nestos river and other through the mountains north of Xanthi). Furthermore, from their ports passed the sea road, which from Troas led to the Thracian and then the Macedonian coast.[19]
 

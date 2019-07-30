@@ -18,8 +18,6 @@ In 1991, Howard Lutnick was named president and CEO of Cantor Fitzgerald; he bec
 
 9/11 attacks
 
-World_Trade_Center,_New_York_City_-_aerial_view_(March_2001).jpg
-
 Cantor Fitzgerald's corporate headquarters and New York City office,[3][4] on the 101st to the 105th floors of One World Trade Center in Lower Manhattan (2 to 6 floors above the impact zone of a hijacked airliner), were destroyed during the September 11, 2001 attacks. At 8:46:46 a.m., six seconds after the tower was struck by the plane, a Goldman Sachs server issued an alert saying that its trading system had gone offline because it was unable to connect with the server.[5][6][7] Cantor Fitzgerald lost 658 of its New York employees, 68% of its workforce, which was considerably more than any of the other World Trade Center tenants or the New York City Police Department, the Port Authority of New York and New Jersey Police Department, the New York City Fire Department, or the United States Department of Defense. Lutnick's brother was among those killed as the stairwells below them were destroyed or blocked by the plane crash. Lutnick vowed to keep the company alive, and the company was able to bring its trading markets back online within a week.
 
 On September 19, Cantor Fitzgerald made a pledge to distribute 25% of the firm's profits for the next five years, and it committed to paying for ten years of health care for the benefit of the families of its 658 former Cantor Fitzgerald, eSpeed, and TradeSpark employees (profits that would otherwise have been distributed to the Cantor Fitzgerald partners).[8] In 2006, the company had completed its promise, having paid a total of $180 million (and an additional $17 million from a relief fund run by Lutnick's sister, Edie).[9]

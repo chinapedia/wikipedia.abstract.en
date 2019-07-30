@@ -9,7 +9,7 @@ History of the Bulgarian Army
 
 Medieval Period
 
-Mihail_ganchev_captain.JPGmen from the region of Western Bulgaria, ca. 1900]] The modern Bulgarian military dates back to 1878. On 22 July 1878 (10 July O.S.) a total of 12 battalions of _opalchentsi_ who participated in the Liberation war, formed the Bulgarian armed forces.[2] According to the Tarnovo Constitution, all men between 21 and 40 years of age were eligible for military service. In 1883 the military was reorganized in four infantry brigades (in Sofia, Pleven, Ruse and Shumen) and one cavalry brigade.
+men from the region of Western Bulgaria, ca. 1900]] The modern Bulgarian military dates back to 1878. On 22 July 1878 (10 July O.S.) a total of 12 battalions of _opalchentsi_ who participated in the Liberation war, formed the Bulgarian armed forces.[2] According to the Tarnovo Constitution, all men between 21 and 40 years of age were eligible for military service. In 1883 the military was reorganized in four infantry brigades (in Sofia, Pleven, Ruse and Shumen) and one cavalry brigade.
 
 Serbo-Bulgarian war
 
@@ -21,13 +21,13 @@ First Balkan War
 
 Instability in the Balkan region in the early 1900s quickly became a precondition for a new war. Serbia's aspirations towards Bosnia and Herzegovina were thwarted by the Austrian annexation of the province in October 1908, so the Serbs focused their attention onto their historic cradle, Kosovo, and to the south for expansion. Greek officers, revolting in August 1909, had secured the appointment of a progressive government under Eleftherios Venizelos, which they hoped would resolve the Cretan issue in Greece's favor and reverse their defeat of 1897 by the Ottomans. Bulgaria, which had secured Ottoman recognition of its independence in April 1909 and enjoyed the friendship of Russia, also looked to districts of Ottoman Thrace and Macedonia for expansion.
 
-Camels_on_the_way_to_Catalca,_1912.jpg caravan of the Bulgarian 17th Regiment carrying supplies for the Çatalca operation, 1912 ]]
+caravan of the Bulgarian 17th Regiment carrying supplies for the Çatalca operation, 1912 ]]
 
 In March 1910 an Albanian insurrection broke out in Kosovo. In August Montenegro followed Bulgaria's precedent by becoming a kingdom. In 1911 Italy launched an invasion of Tripolitania, which was quickly followed by the occupation of the Dodecanese Islands. The Italians' decisive military victories over the Ottoman Empire greatly influenced the Balkan states to prepare for war against Turkey. Thus, in the spring of 1912 consultations among the various Christian Balkan nations resulted in a network of military alliances that became known as the Balkan League. The Great Powers, most notably France and Austria-Hungary, reacted to this diplomatic sensation by trying to dissuade the League from going to war, but failed.
 
 In late September both the League and the Ottoman Empire mobilized their armies. Montenegro was the first to declare war, on 25 September (O.S.)/ 8 October. The other three states, after issuing an impossible ultimatum to the Porte on 13 October, declared war on Turkey on 17 October. The Balkan League relied on 700,000 troops, 370,000 of whom were Bulgarians. Bulgaria, often dubbed "the Prussia of the Balkans",[3] was militarily the most powerful of the four states, with a large, well-trained and well-equipped army.[4] The peacetime army of 60,000 troops was expanded during the war to 370,000,[5] with almost 600,000 men mobilized in total out of a population of 4,300,000.[6] The Bulgarian field army consisted of nine infantry divisions, one cavalry division and 1,116 artillery units.[7] Commander-in-Chief was Tsar Ferdinand, while the actual command was in the hands of his deputy, Gen. Mikhail Savov. The Bulgarians also possessed a small navy of six torpedo boats, which were restricted to operations along the country's Black Sea coast.[8]
 
-Bulgarian_army_adrinople.jpg, 1912]] Bulgaria's war aims were focused on Thrace and Macedonia. For the latter, Bulgaria had a secret agreement with Serbia to divide it between them, signed on 13 March 1912 during the negotiations that led to the establishment of the Balkan League. However, it was not a secret that Bulgaria's target was the fulfillment of the never-materialized Treaty of San Stefano, signed after the Russo-Turkish War, 1877–78. They deployed their main force in Thrace, forming three armies. The First Army, under Gen. Vasil Kutinchev with three infantry divisions, was deployed to the south of Yambol, with direction of operations along the Tundzha River. The Second Army, under Gen. Nikola Ivanov with two infantry divisions and one infantry brigade, was deployed west of the First and was assigned to capture the strong fortress of Adrianople (now Edirne). According to the plans, the Third Army, under Gen. Radko Dimitriev, was deployed east of and behind the First and was covered by the cavalry division hiding it from the Turkish view. The Third Army had three infantry divisions and was assigned to cross the Stranja mountain and to take the fortress of Lozengrad (Kirk Kilisse). The 2nd and 7th divisions were assigned independent roles, operating in western Thrace and eastern Macedonia, respectively.
+, 1912]] Bulgaria's war aims were focused on Thrace and Macedonia. For the latter, Bulgaria had a secret agreement with Serbia to divide it between them, signed on 13 March 1912 during the negotiations that led to the establishment of the Balkan League. However, it was not a secret that Bulgaria's target was the fulfillment of the never-materialized Treaty of San Stefano, signed after the Russo-Turkish War, 1877–78. They deployed their main force in Thrace, forming three armies. The First Army, under Gen. Vasil Kutinchev with three infantry divisions, was deployed to the south of Yambol, with direction of operations along the Tundzha River. The Second Army, under Gen. Nikola Ivanov with two infantry divisions and one infantry brigade, was deployed west of the First and was assigned to capture the strong fortress of Adrianople (now Edirne). According to the plans, the Third Army, under Gen. Radko Dimitriev, was deployed east of and behind the First and was covered by the cavalry division hiding it from the Turkish view. The Third Army had three infantry divisions and was assigned to cross the Stranja mountain and to take the fortress of Lozengrad (Kirk Kilisse). The 2nd and 7th divisions were assigned independent roles, operating in western Thrace and eastern Macedonia, respectively.
 
 The first great battles were at the Adrianople–Kirk Kilisse defensive line, where the Bulgarian 1st and 3rd Armies (together 110,000 men) defeated the Ottoman East Army (130,000 men) near Gechkenli, Seliolu and Petra. The fortress of Adrianople was besieged and Kirk Kilisse was taken without resistance under the pressure of the Bulgarian Third Army. The initial Bulgarian attack by First and Third Army defeated the Turkish forces, numbering some 130,000, and reached the Sea of Marmara. However, the Turks, with the aid of fresh reinforcements from the Asian provinces, established their third and strongest defensive position at the Chataldja Line, across the peninsula where Constantinople is located. New Turkish forces landed at Bulair and Şarköy, but after heavy fighting they were crushed by the newly formed 4th Bulgarian Army under the command of Gen Stiliyan Kovachev. The offensive at Chataldja failed, too. On 11 March the final Bulgarian assault on Adrianople began. Under the command of Gen. Georgi Vazov the Bulgarians, reinforced with two Serb divisions, conquered the "untakeable" city. On 17/30 May a peace treaty was signed between Turkey and the Balkan Alliance. The First Balkan War, which lasted from October 1912-May 1913, strengthened Bulgaria's position as a regional military power, significantly reduced Ottoman influence over the Balkans and resulted in the formation of an independent Albanian state.
 
@@ -39,7 +39,7 @@ On 16 June 1913, just a few months after the end of the first war, the Bulgarian
 
 First World War
 
-Nikola_Todorov_Zhekov.jpg, Commander-in-Chief of the Bulgarian Army during World War I]] The Kingdom of Bulgaria participated in World War I on the side of the Central Powers between 15 October 1915, when the country declared war on Serbia, and 29 September 1918, when the Armistice of Thessalonica was signed. In the aftermath of the Balkan Wars, Bulgarian opinion turned against Russia and the western powers, whom the Bulgarians felt had done nothing to help them. The government of Vasil Radoslavov aligned the country with Germany and Austria-Hungary, even though this meant also becoming an ally of the Ottomans, Bulgaria's traditional enemy. However, Bulgaria now had no claims against the Ottomans, whereas Serbia, Greece and Romania (allies of Britain and France) were all in possession of lands perceived in Bulgaria as its own.
+, Commander-in-Chief of the Bulgarian Army during World War I]] The Kingdom of Bulgaria participated in World War I on the side of the Central Powers between 15 October 1915, when the country declared war on Serbia, and 29 September 1918, when the Armistice of Thessalonica was signed. In the aftermath of the Balkan Wars, Bulgarian opinion turned against Russia and the western powers, whom the Bulgarians felt had done nothing to help them. The government of Vasil Radoslavov aligned the country with Germany and Austria-Hungary, even though this meant also becoming an ally of the Ottomans, Bulgaria's traditional enemy. However, Bulgaria now had no claims against the Ottomans, whereas Serbia, Greece and Romania (allies of Britain and France) were all in possession of lands perceived in Bulgaria as its own.
 
 In 1915 Germany promised to restore the boundaries according to the Treaty of San Stefano and Bulgaria, which had the largest army in the Balkans, declared war on Serbia in October of that year. In the First World War Bulgaria decisively asserted its military capabilities. The second Battle of Doiran, with Gen. Vladimir Vazov as commander, inflicted a heavy blow on the numerically superior British army, which suffered 12,000 casualties against 2,000 from the opposite side. One year later, during the third battle of Doiran, the United Kingdom, supported by Greece, once again suffered a humiliating defeat, losing 3,155 men against just about 500 on the Bulgarian side. The reputation of the French army also suffered badly. The Battle of the Red Wall was marked by the total defeat of the French forces, with 5,700 out of 6,000 men killed. The 261 Frenchmen who survived were captured by Bulgarian soldiers.
 
@@ -47,13 +47,13 @@ Despite the outstanding victories, Germany was near defeat, which meant that Bul
 
 The army between the World Wars
 
-Fiat_Ansaldo.jpg tankettes, early 1930s]] The Treaty of Neuilly-sur-Seine proved to be a severe blow to Bulgaria's military. According to the treaty, the country had no right to organize a conscription-based military. The professional army was to be no more than 20,000 men, including internal forces and border guards. Equipping the army with tanks, submarines, bombers and heavy artillery was strictly prohibited, although Bulgaria managed to get around some of these prohibitions. Nevertheless, on the eve of World War II the Bulgarian army was still well-trained and well-equipped.
+tankettes, early 1930s]] The Treaty of Neuilly-sur-Seine proved to be a severe blow to Bulgaria's military. According to the treaty, the country had no right to organize a conscription-based military. The professional army was to be no more than 20,000 men, including internal forces and border guards. Equipping the army with tanks, submarines, bombers and heavy artillery was strictly prohibited, although Bulgaria managed to get around some of these prohibitions. Nevertheless, on the eve of World War II the Bulgarian army was still well-trained and well-equipped.
 
 World War II
 
 The government of the Kingdom of Bulgaria under Prime Minister Bogdan Filov declared a position of neutrality upon the outbreak of World War II. Bulgaria was determined to observe it until the end of the war but it hoped for bloodless territorial gains, especially in the lands with a significant Bulgarian population occupied by neighboring countries after the Second Balkan War and World War I. However, it was clear that the central geopolitical position of Bulgaria in the Balkans would inevitably lead to strong external pressure by both World War II factions. Turkey had a non-aggression pact with Bulgaria. On 7 September 1940 Bulgaria succeeded in negotiating a recovery of Southern Dobruja with the Treaty of Craiova (see Second Vienna Award). Southern Dobruja had been part of Romania since 1913. This recovery of territory reinforced hopes for resolving other territorial problems without direct involvement in the war. The country joined the Axis Powers in 1941, when German troops preparing to invade Yugoslavia and Greece reached the Bulgarian borders and demanded permission to pass through its territory.
 
-376bombgroup-bulgaria-01-jun-1944.gif, 1944]]
+, 1944]]
 
 On 1 March 1941, Bulgaria signed the Tripartite Pact and Tsar Boris III officially joined the Axis bloc. After a short period of inaction, the army launched an operation against Yugoslavia and Greece. The goal of reaching the shores of the Aegean sea and completely occupying the region of Macedonia was successful. Even though Bulgaria did not send any troops to support the German invasion of the Soviet Union, its navy was involved in a number of skirmishes with the Soviet Black Sea Fleet, which attacked Bulgarian shipping. Besides this, Bulgarian armed forces garrisoned in the Balkans battled various resistance groups. The Bulgarian government declared a token war on the United Kingdom and the United States near the end of 1941, an act that resulted in the bombing of Sofia and other Bulgarian cities by Allied aircraft.
 
@@ -67,16 +67,12 @@ The army was involved in a number of border skirmishes from 1948 to 1952, repuls
 
 Modern era
 
-SF_-_dismounted_patrol.JPG
-
 With the collapse of the Warsaw Pact and the end of the Cold War, Bulgaria could no longer support a vast military. A rapid reduction in personnel and active equipment was to be carried out in parallel with a general re-alignment of strategic interests. In 1990, Bulgaria had a total of more than 2,400 tanks, 2,000 armored vehicles, 2,500 large caliber artillery systems,[12] 300 fighter and bomber aircraft, 100 trainer aircraft, more than 40 combat and 40 transport helicopters,[13] 4 submarines, 6 fast missile craft, 2 frigates, 5 corvettes, 6 torpedo boats, 9 patrol craft, 30 minesweepers and 21 transport vessels.[14] Due to the economic crisis that affected most former Eastern bloc countries, a steady reform in the military could not be carried out; much of the equipment fell into disrepair and some of it was smuggled and sold to the international black market. Inadequate payments, fuel and spare part shortages and the disbandment of many capable units led to an overall drop in combat readiness, morale and discipline.
 
 After partially recovering from the 1990s crisis, the Bulgarian military became a part of the collective defensive system of NATO. As a member, Bulgaria sent a total of 485 soldiers to Iraq (2003–2008) as a participant in the Iraq War, and currently maintains a 608-strong force in Afghanistan as part of ISAF. Bulgaria had a significant missile arsenal, including 67 SCUD-B, 50 FROG-7 and 24 SS-23 ballistic missiles.[15] In 2002, Bulgaria disbanded the Rocket Forces despite nationwide protests, and has disbanded its submarine component. Bulgaria is to have 27,000 standing troops by 2014, consisting of 14,310 troops in the land forces, 6,750 in the air force, 3,510 in the navy and 2,420 in the joint command.[16] In 2018, the Bulgarian Armed Forces numbers around 33,150 soldiers, 73 aircraft, 2234 vehicles including 531 tanks, and 29 naval assets.
 
 
 Organization
-
-Armed_Forces_Bulgaria.png
 
 Defence Staff
 
@@ -311,8 +307,6 @@ The 68TH SPECIAL FORCES BRIGADE left the Land Forces on February 1, 2017,[20] de
 
 Personnel and education
 
-Rakovski_Military_Academy.JPG
-
 Bulgaria's total military personnel as of 2014 is 37,100, of which 30,400 (80.1%) are active military personnel and 8,100 (11.9%) are civilian personnel. The Land Forces are the largest branch, with at least 18,000 men serving there. In terms of percentage, 53% of all Army personnel are in the Land Forces, 25% are in the Air Force, 13% are in the Navy and 9% are in the Joint Forces Command.[21] Annual spending per soldier amounts to 30,000 leva (~ 15,000 euro) and is scheduled to increase to 43,600 leva by 2014.[22]
 
 Unlike many former Soviet bloc militaries, discipline and morale problems are not common.[23][24] During the Communist era, the army members enjoyed extensive social privileges. After the fall of Communism and Bulgaria's transition to a market economy, wages fell severely. For almost a decade social benefits were virtually non-existent, and some of them have been restored but recently. Nikolai Tsonev, defence minister under the 2005–2009 cabinet, undertook steps to provide the members of the military and their families with certain privileges in terms of healthcare and education, and to improve living conditions.[25]
@@ -326,7 +320,7 @@ Military education in Bulgaria is provided in military universities and academie
 
 Training
 
-M2_Novo_Selo_2ndLIF.jpg .50 cal machine gun at the Novo Selo training range]] The Land Forces practice extensive year-round military training in various conditions. Cooperative drills with the United States are very common, the last series of them conducted in 2008. Bulgaria's most recent full-scale exercise simulating a foreign invasion was carried out in 2009. It was conducted at the Koren range, and included some 1,700 personnel with tanks, ATGMs, attack aircraft, AA guns and armored vehicles.[26] The combat skills of individual soldiers are on a very high level, on par with troops of the U.S. Army.[27]
+.50 cal machine gun at the Novo Selo training range]] The Land Forces practice extensive year-round military training in various conditions. Cooperative drills with the United States are very common, the last series of them conducted in 2008. Bulgaria's most recent full-scale exercise simulating a foreign invasion was carried out in 2009. It was conducted at the Koren range, and included some 1,700 personnel with tanks, ATGMs, attack aircraft, AA guns and armored vehicles.[26] The combat skills of individual soldiers are on a very high level, on par with troops of the U.S. Army.[27]
 
 Until recent years the Air Force suffered somewhat from fuel shortages; a problem which was overcome in 2008. Fighter pilots have year-round flights, but gunship pilots do not fly often due to the yet unfulfilled modernization of the Mi-24 gunships. Due to financial difficulties fighter pilots have 60 hours of flying time per year, only a third of the national norm of 180 hours.[28]
 
@@ -338,8 +332,6 @@ After the collapse of the Warsaw pact, Bulgaria lost the ability to acquire chea
 
 
 Land Forces
-
-Bulgarian_T-72_tanks.JPEG
 
 The Land Forces are functionally divided into DEPLOYABLE and RESERVE FORCES. Their main functions include deterrence, defence, peace support and crisis management, humanitarian and rescue missions, as well as social functions within Bulgarian society. Active troops in the land forces number about 18,000 men, and reserve troops number about 13,000.[29]
 
@@ -371,8 +363,6 @@ _Note_: This table represents active equipment only; there are large numbers of 
 
 Navy
 
-41daring.JPG
-
 The Navy has traditionally been the smallest component of the Bulgarian military. Established almost simultaneously with the Ground forces in 1879, initially it consisted of a small fleet of boats on the Danube river. Bulgaria has a coastline of about 354 kilometers – thus, naval warfare is not considered a priority.
 
 After the downturn in 1990, the Navy was largely overlooked and received almost no funding. No projects for modernization were carried out until 2005, when a Wielingen class frigate (F912 Wandelaar) was acquired from Belgium. By 2009, Bulgaria acquired two more frigates of the same class. The first of them was renamed _41 Drazki_ and took part in several operations and exercises, most notably the UNIFIL Maritime Patrol along the coast of Lebanon in 2006, and Operation Active Endeavour. It also participated in the enforcement of the naval blockade against Muammar Gaddafi's regime off the coast of Libya from 2011 until 2012.
@@ -384,7 +374,7 @@ The Bulgarian Navy is centered in two main bases – in Varna and in Burgas.
 
 Air Force
 
-Mig29_graf_ignatievo.jpg MiG-29 at Graf Ignatievo Air Base]]
+MiG-29 at Graf Ignatievo Air Base]]
 
 In the past decade Bulgaria has been trying actively to restructure its army as a whole and a lot of attention has been placed on keeping the aging Russian aircraft operational. Currently the attack and defence branches of the Bulgarian air force are mainly MiG-21s, MiG-29s and Su-25s. About 16 MiG-29 fighters have been modernized in order to meet NATO standards. The first aircraft arrived on 29 November 2007 and final delivery was due in 03/09. In 2006 the Bulgarian government signed a contract with Alenia Aeronautica for the delivery of five C-27J Spartan transport aircraft in order to replace the Soviet made An-24 and An-26, although the contract was later changed to only three aircraft. Modern EU-made transport helicopters were purchased in 2005 and a total of 12 Eurocopter Cougar have been delivered (8 transport and 4 CSAR).3 Eurocopter AS565 Panther for the Bulgarian navy in 2016.
 
@@ -399,7 +389,7 @@ With the exception of the Navy's small helicopter fleet, the Air Forces are resp
 
 Bulgarian-American cooperation
 
-Stryker_IFV_Novo_selo.jpg IFV on a training range near Novo Selo]] The Bulgarian-American Joint Military Facilities were established by a Defence Cooperation Agreement signed by the United States and Bulgaria in April 2006. Under the agreement, U.S. forces can conduct training at several bases in the country, which remain under Bulgarian command and under the Bulgarian flag. Under the agreement, no more than 2,500 U.S. military personnel can be located at the joint military facilities.
+IFV on a training range near Novo Selo]] The Bulgarian-American Joint Military Facilities were established by a Defence Cooperation Agreement signed by the United States and Bulgaria in April 2006. Under the agreement, U.S. forces can conduct training at several bases in the country, which remain under Bulgarian command and under the Bulgarian flag. Under the agreement, no more than 2,500 U.S. military personnel can be located at the joint military facilities.
 
 _Foreign Policy_ magazine lists Bezmer Air Base as one of the six most important overseas facilities used by the USAF.[32]
 

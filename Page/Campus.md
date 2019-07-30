@@ -1,4 +1,4 @@
-Joseph_Ramée_Union_College_USA.jpg's original plan for Union College in Schenectady, New York, the first comprehensively planned campus in the United States[1]]]
+'s original plan for Union College in Schenectady, New York, the first comprehensively planned campus in the United States[1]]]
 
 A CAMPUS is traditionally the land on which a college or university and related institutional buildings are situated. Usually a college campus includes libraries, lecture halls, residence halls, student centers or dining halls, and park-like settings.
 

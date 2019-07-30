@@ -21,7 +21,7 @@ Having failed to obtain a franchise via the expansion, the city, despite having 
 
 Return of football in Baltimore
 
-Enticed by Baltimore's available funds for a first-class stadium and a promised yearly operating subsidy of $25 million, Modell announced on November 6, 1995 his intention to relocate the team from Cleveland to Baltimore the following year. The resulting controversy ended when representatives of Cleveland and the NFL reached a settlement on February 8, 1996. Tagliabue promised the city of Cleveland that an NFL team would be located in Cleveland, either through relocation or expansion, "no later than 1999".[28] Additionally, the agreement stipulated that the Browns' name, colors, uniform design and franchise records would remain in Cleveland. The franchise history includes Browns club records and connections with Pro Football Hall of Fame players. Modell's Baltimore team, while retaining all current player contracts, would, for purposes of team history, appear as an expansion team, a new franchise.[29] Not all players, staff or front office would make the move to Baltimore, however. 1980-modell-browns.jpg moved the Browns to Baltimore and remained the owner of the Ravens through 2003.]] After relocation, Modell hired Ted Marchibroda as the head coach for his new team in Baltimore. Marchibroda was already well known because of his work as head coach of the Baltimore Colts during the 1970s and the Indianapolis Colts during the early 1990s. Ozzie Newsome, the Browns' tight end for many seasons, joined Modell in Baltimore as director of football operations. He was later promoted to vice-president/general manager.
+Enticed by Baltimore's available funds for a first-class stadium and a promised yearly operating subsidy of $25 million, Modell announced on November 6, 1995 his intention to relocate the team from Cleveland to Baltimore the following year. The resulting controversy ended when representatives of Cleveland and the NFL reached a settlement on February 8, 1996. Tagliabue promised the city of Cleveland that an NFL team would be located in Cleveland, either through relocation or expansion, "no later than 1999".[28] Additionally, the agreement stipulated that the Browns' name, colors, uniform design and franchise records would remain in Cleveland. The franchise history includes Browns club records and connections with Pro Football Hall of Fame players. Modell's Baltimore team, while retaining all current player contracts, would, for purposes of team history, appear as an expansion team, a new franchise.[29] Not all players, staff or front office would make the move to Baltimore, however. moved the Browns to Baltimore and remained the owner of the Ravens through 2003.]] After relocation, Modell hired Ted Marchibroda as the head coach for his new team in Baltimore. Marchibroda was already well known because of his work as head coach of the Baltimore Colts during the 1970s and the Indianapolis Colts during the early 1990s. Ozzie Newsome, the Browns' tight end for many seasons, joined Modell in Baltimore as director of football operations. He was later promoted to vice-president/general manager.
 
 The home stadium for the Ravens first two seasons was Baltimore's Memorial Stadium, home field of the Baltimore Colts and Baltimore Stallions years before. The Ravens moved to their own new stadium, now known as M&T Bank Stadium, next to Camden Yards in 1998.
 
@@ -31,7 +31,7 @@ The early years and Ted Marchibroda era (1996–1998)
 
 In the 1996 NFL Draft, the Ravens, with two picks in the first round, drafted offensive tackle Jonathan Ogden at No. 4 overall and linebacker Ray Lewis at No. 26 overall. Both Ogden and Lewis went on to play for the Ravens for their entire professional careers and were both inducted into the Pro Football Hall of Fame.
 
-Jonathan_Ogden.jpg at the 2006 Pro Bowl. Ogden played offensive tackle for the Ravens from 1996 through 2007 and was elected to the Pro Football Hall of Fame in 2013.]] The 1996 Ravens won their opening game against the Oakland Raiders, but finished the season 4–12 despite receiver Michael Jackson leading the league with 14 touchdown catches.
+at the 2006 Pro Bowl. Ogden played offensive tackle for the Ravens from 1996 through 2007 and was elected to the Pro Football Hall of Fame in 2013.]] The 1996 Ravens won their opening game against the Oakland Raiders, but finished the season 4–12 despite receiver Michael Jackson leading the league with 14 touchdown catches.
 
 1997
 
@@ -47,8 +47,6 @@ Brian Billick era and first Super Bowl victory (1999–2007)
 
 1999
 
-Baltimore_Ravens_B.png
-
 Three consecutive losing seasons under Marchibroda led to a change in the head coach. Brian Billick took over as head coach in 1999. Billick had been offensive coordinator for the record-setting Minnesota Vikings the season before. Quarterback Tony Banks came to Baltimore from the St. Louis Rams and had the best season of his career with 17 touchdown passes and an 81.2 pass rating. He was joined by receiver Qadry Ismail, who posted a 1,000-yard season. The Ravens initially struggled with a record of 4–7 but managed to finish with an 8–8 record.
 
 Due to continual financial hardships for the organization, the NFL took an unusual move and directed Modell to initiate the sale of his franchise. On March 27, 2000, NFL owners approved the sale of 49% of the Ravens to Steve Bisciotti. In the deal, Bisciotti had an option to purchase the remaining 51% for $325 million in 2004 from Art Modell. On April 9, 2004 the NFL approved Steve Bisciotti's purchase of the majority stake in the club.
@@ -59,7 +57,7 @@ Banks shared playing time in the 2000 regular season with Trent Dilfer. Both pla
 
 During the 2000 season, the Ravens defense broke two notable NFL records. They held opposing teams to 165 total points, surpassing the 1985 Chicago Bears mark of 198 points for a 16-game season as well as surpassing the 1986 Chicago Bears mark of 187 points for a 16-game season, which at that time was the current NFL record.
 
-Since the divisional rival Tennessee Titans had a record of 13–3, the Ravens had to play in the wild card round. They dominated the Denver Broncos 21–3 in their first game. In the divisional playoff, they went on the road to Tennessee. With the score tied 10–10 in the fourth quarter, an Al Del Greco field goal attempt was blocked and returned for a touchdown by Anthony Mitchell, and a Ray Lewis interception return for a score put the game squarely in Baltimore's favor. The 24–10 win put the Ravens in the AFC Championship against the Oakland Raiders. The game was rarely in doubt. Shannon Sharpe's 96-yard touchdown catch early in the second quarter followed by an injury to Raiders quarterback Rich Gannon were crucial as the Ravens won easily, 16–3. Geoge_W._Bush_meets_with_Baltimore_Ravens_20010607-4.jpg in 2001. Bush is at center. On the left is Rod Woodson, and on the right is Brian Billick.]] Baltimore then went to Tampa for Super Bowl XXXV against the New York Giants. The Ravens’ defense carried them to a win. They recorded four sacks and forced five turnovers, one of which was a Kerry Collins interception returned for a touchdown by Duane Starks. The Giants' only score was a Ron Dixon kickoff return for another touchdown; however, the Ravens immediately countered with a return by Jermaine Lewis. The Ravens became champions with a 34–7 win, becoming only the third wild card team to win a Super Bowl championship.
+Since the divisional rival Tennessee Titans had a record of 13–3, the Ravens had to play in the wild card round. They dominated the Denver Broncos 21–3 in their first game. In the divisional playoff, they went on the road to Tennessee. With the score tied 10–10 in the fourth quarter, an Al Del Greco field goal attempt was blocked and returned for a touchdown by Anthony Mitchell, and a Ray Lewis interception return for a score put the game squarely in Baltimore's favor. The 24–10 win put the Ravens in the AFC Championship against the Oakland Raiders. The game was rarely in doubt. Shannon Sharpe's 96-yard touchdown catch early in the second quarter followed by an injury to Raiders quarterback Rich Gannon were crucial as the Ravens won easily, 16–3. in 2001. Bush is at center. On the left is Rod Woodson, and on the right is Brian Billick.]] Baltimore then went to Tampa for Super Bowl XXXV against the New York Giants. The Ravens’ defense carried them to a win. They recorded four sacks and forced five turnovers, one of which was a Kerry Collins interception returned for a touchdown by Duane Starks. The Giants' only score was a Ron Dixon kickoff return for another touchdown; however, the Ravens immediately countered with a return by Jermaine Lewis. The Ravens became champions with a 34–7 win, becoming only the third wild card team to win a Super Bowl championship.
 
 2001
 
@@ -71,7 +69,7 @@ Baltimore ran into salary cap problems entering the 2002 season and was forced t
 
 2003
 
-Brian_Billick_&_Coach_Zauner.jpg (front) and Brian Billick with the Baltimore Ravens in 2003.]] In 2003, the Ravens drafted their new quarterback, Kyle Boller, but he was injured midway through the season and was replaced by Anthony Wright. Jamal Lewis ran for 2,066 yards (including a record 295 yards in one game against the Cleveland Browns on September 14). With a 10–6 record, Baltimore won their first AFC North division title. Their first playoff game, at home against the Tennessee Titans, went back and forth, with the Ravens being held to only 54 yards total rushing. The Titans won 20–17 on a late field goal, and Baltimore's season ended early.
+(front) and Brian Billick with the Baltimore Ravens in 2003.]] In 2003, the Ravens drafted their new quarterback, Kyle Boller, but he was injured midway through the season and was replaced by Anthony Wright. Jamal Lewis ran for 2,066 yards (including a record 295 yards in one game against the Cleveland Browns on September 14). With a 10–6 record, Baltimore won their first AFC North division title. Their first playoff game, at home against the Tennessee Titans, went back and forth, with the Ravens being held to only 54 yards total rushing. The Titans won 20–17 on a late field goal, and Baltimore's season ended early.
 
 Ray Lewis was also named Defensive Player of the year for the second time in his career.
 
@@ -87,7 +85,7 @@ In the 2005 offseason the Ravens looked to augment their receiving corps (which 
 
 2006
 
-DerrickMason.jpg played mainly as the Ravens No. 1 receiver from 2005 through 2010.]] The 2006 Baltimore Ravens season began with the team trying to improve on their 6–10 record of 2005. The Ravens, for the first time in franchise history, started 4–0, under the leadership of former Titans quarterback Steve McNair.
+played mainly as the Ravens No. 1 receiver from 2005 through 2010.]] The 2006 Baltimore Ravens season began with the team trying to improve on their 6–10 record of 2005. The Ravens, for the first time in franchise history, started 4–0, under the leadership of former Titans quarterback Steve McNair.
 
 The Ravens lost two straight games mid-season on offensive troubles, prompting coach Billick to drop their offensive coordinator Jim Fassel in their week seven bye. After the bye, and with Billick calling the offense, Baltimore would record a five-game win streak before losing to the Cincinnati Bengals in week 13.
 
@@ -97,17 +95,17 @@ The Ravens ended the regular season with a franchise-best 13–3 record. Baltimo
 
 2007
 
-Willis_McGahee_at_Andrews_AFB_070821-F-0000J-001_crop.jpg played four seasons as a running back for the Ravens.]] After a stellar 2006 season, the Ravens hoped to improve upon their 13–3 record but injuries and poor play plagued the team. The Ravens finished the 2007 season in the AFC North cellar with a disappointing 5–11 record. A humiliating 22–16 overtime loss to the previously winless Miami Dolphins on December 16 ultimately led to Billick's dismissal on New Year's Eve, one day after the end of the regular season. He was replaced by John Harbaugh, the special teams coach of the Philadelphia Eagles and the older brother of former Ravens quarterback Jim Harbaugh (1998).
+played four seasons as a running back for the Ravens.]] After a stellar 2006 season, the Ravens hoped to improve upon their 13–3 record but injuries and poor play plagued the team. The Ravens finished the 2007 season in the AFC North cellar with a disappointing 5–11 record. A humiliating 22–16 overtime loss to the previously winless Miami Dolphins on December 16 ultimately led to Billick's dismissal on New Year's Eve, one day after the end of the regular season. He was replaced by John Harbaugh, the special teams coach of the Philadelphia Eagles and the older brother of former Ravens quarterback Jim Harbaugh (1998).
 
 John Harbaugh/Joe Flacco era; second Super Bowl (2008–2018)
 
 2008: Arrival of John Harbaugh, Flacco, and Ray Rice
 
-7_Boller_5_Flacco.jpg (right) and Kyle Boller during 2008 Training Camp.]] With rookies at head coach (John Harbaugh) and quarterback (Joe Flacco), the Ravens entered the 2008 campaign with lots of uncertainty. Baltimore smartly recovered in 2008, winning eleven games and achieving a wild card spot in the postseason. On the strength of four interceptions, one resulting in an Ed Reed touchdown, the Ravens began its postseason run by winning a rematch over Miami 27–9 at Dolphin Stadium on January 4, 2009 in a wild-card game.[30] Six days later, they advanced to the AFC Championship Game by avenging a Week 5 loss to the Titans 13–10 at LP Field on a Matt Stover field goal with 53 seconds left in regulation time.[31] The Ravens fell one victory short of Super Bowl XLIII by losing to the Steelers 23–14 at Heinz Field on January 18, 2009.[32]
+(right) and Kyle Boller during 2008 Training Camp.]] With rookies at head coach (John Harbaugh) and quarterback (Joe Flacco), the Ravens entered the 2008 campaign with lots of uncertainty. Baltimore smartly recovered in 2008, winning eleven games and achieving a wild card spot in the postseason. On the strength of four interceptions, one resulting in an Ed Reed touchdown, the Ravens began its postseason run by winning a rematch over Miami 27–9 at Dolphin Stadium on January 4, 2009 in a wild-card game.[30] Six days later, they advanced to the AFC Championship Game by avenging a Week 5 loss to the Titans 13–10 at LP Field on a Matt Stover field goal with 53 seconds left in regulation time.[31] The Ravens fell one victory short of Super Bowl XLIII by losing to the Steelers 23–14 at Heinz Field on January 18, 2009.[32]
 
 2009
 
-Ray-Lewis-2008-Steelers-regseason-game.jpg during a 2008 regular season game.]] In 2009, the Ravens won their first three matches, then lost the next three, including a close match in Minnesota. The rest of the season was an uneven string of wins and losses, which included a home victory over Pittsburgh in overtime followed by a Monday Night loss in Green Bay. That game was notable for the huge number of penalties committed, costing a total of 310 yards, and almost tying with the record set by Tampa Bay and Seattle in 1976. Afterwards, the Ravens easily crushed the Lions and Bears, giving up less than ten points in both games. The next match was against the Steelers, where Baltimore lost a close one before beating the Raiders to end the season. With a record of 9–7, the team finished second in the division and gained another wild card. Moving into the playoffs, they overwhelmed the Patriots; nevertheless they did not reach the AFC Championship because they were routed 20–3 by the Colts in the divisional round a week later.
+during a 2008 regular season game.]] In 2009, the Ravens won their first three matches, then lost the next three, including a close match in Minnesota. The rest of the season was an uneven string of wins and losses, which included a home victory over Pittsburgh in overtime followed by a Monday Night loss in Green Bay. That game was notable for the huge number of penalties committed, costing a total of 310 yards, and almost tying with the record set by Tampa Bay and Seattle in 1976. Afterwards, the Ravens easily crushed the Lions and Bears, giving up less than ten points in both games. The next match was against the Steelers, where Baltimore lost a close one before beating the Raiders to end the season. With a record of 9–7, the team finished second in the division and gained another wild card. Moving into the playoffs, they overwhelmed the Patriots; nevertheless they did not reach the AFC Championship because they were routed 20–3 by the Colts in the divisional round a week later.
 
 2010
 
@@ -115,17 +113,17 @@ Baltimore managed to beat the Jets 10–9 on the 2010 opener, but then lost a po
 
 2011
 
-Terrell_Suggs_2011_stadium_practice.jpg during practice in 2011.]] The Ravens hosted their arch-enemy in Week 1 of the 2011 season. On a hot, humid day in M&T Bank Stadium, crowd noise and multiple Steelers mistakes allowed Baltimore to crush them with three touchdowns 35–7. The frustrated Pittsburgh players also committed several costly penalties. Thus, the Ravens had gained their first ever victory over the Steelers with Ben Roethlisberger playing and avenged themselves of repeated regular and postseason losses in the series.
+during practice in 2011.]] The Ravens hosted their arch-enemy in Week 1 of the 2011 season. On a hot, humid day in M&T Bank Stadium, crowd noise and multiple Steelers mistakes allowed Baltimore to crush them with three touchdowns 35–7. The frustrated Pittsburgh players also committed several costly penalties. Thus, the Ravens had gained their first ever victory over the Steelers with Ben Roethlisberger playing and avenged themselves of repeated regular and postseason losses in the series.
 
 But in Week 2, the Ravens collapsed in Tennessee and lost 26–13. They rebounded by routing the Rams in Week 3 and then overpowering the Jets 34–17 in Week 4. Week 5, the Ravens had a bye week, following a game against the Texans. But in Week 7, Baltimore had a stunning MNF upset loss in Jacksonville as they were held to one touchdown in a 12–7 loss. Their final scoring drive failed as Joe Flacco threw an interception in the closing seconds of the game.
 
-Jarret_Johnson.jpg spent nine seasons with the Ravens from 2003-2011.]] After beating the Cincinnati Bengals in Week 17 of the regular season, the Ravens advanced to the playoffs as the Number 2 seed in the AFC with a record of 12-4. They gained the distinction of AFC North Champions over Pittsburgh (12-4) due to a tie breaker.
+spent nine seasons with the Ravens from 2003-2011.]] After beating the Cincinnati Bengals in Week 17 of the regular season, the Ravens advanced to the playoffs as the Number 2 seed in the AFC with a record of 12-4. They gained the distinction of AFC North Champions over Pittsburgh (12-4) due to a tie breaker.
 
 Ravens' Lee Evans was stripped of a 14-yard touchdown pass by the Patriots Sterling Moore with 22 seconds left and Ravens kicker Billy Cundiff pushed a 32-yard field goal attempt wide left on fourth down as the Patriots held on to beat the Ravens 23-20 during the AFC championship game and advance to Super Bowl XLVI.
 
 2012: Ray Lewis' final season and 2nd Super Bowl
 
-Jacoby_Jones_Touchdown_Super_Bowl_XLVII.jpg Lombardi_Trophy_following_Super_Bowl_XLVII.jpg The Ravens' attempt to convert Joe Flacco into a pocket passer remained a work in progress as the 2012 season began. Terrell Suggs suffered a tendon injury during an off-season basketball game and was unable to play for at least several weeks. In the opener on September 10, Baltimore routed Cincinnati 44-13. After this easy win, the team headed to Philadelphia. The Eagles had struggled during their Week 1 match in Cleveland and were not expected to win, but a bizarre game ensued thanks to the NFL facing another lockout mess, this one involving the league's referees, who were replaced by ex-college officials. The replacement officials were widely criticized throughout the league. This game featured multiple questionable calls that went against the Ravens, perhaps costing them the game 24-23.
+The Ravens' attempt to convert Joe Flacco into a pocket passer remained a work in progress as the 2012 season began. Terrell Suggs suffered a tendon injury during an off-season basketball game and was unable to play for at least several weeks. In the opener on September 10, Baltimore routed Cincinnati 44-13. After this easy win, the team headed to Philadelphia. The Eagles had struggled during their Week 1 match in Cleveland and were not expected to win, but a bizarre game ensued thanks to the NFL facing another lockout mess, this one involving the league's referees, who were replaced by ex-college officials. The replacement officials were widely criticized throughout the league. This game featured multiple questionable calls that went against the Ravens, perhaps costing them the game 24-23.
 
 Returning home for a primetime rematch of the AFC Championship, another bizarre game ensued. New England picked apart the Baltimore defense (which was considerably weakened without Terrell Suggs and some other players lost over the off-season) for the first half. Trouble began early in the game when a streaker ran out onto the field and had to be tackled by security, and accelerated when, at 2:18 in the 4th quarter, the referees made a holding call on RG Marshal Yanda. Enraged fans repeatedly chanted an obscenity at this penalty. The Ravens finally drove downfield and on the last play of the game, Justin Tucker kicked a 27-yard field goal to win the game 31-30, capping off a second intense and controversially-officiated game in a row for the Ravens.
 
@@ -174,7 +172,7 @@ On February 13, 2019, the Ravens agreed to trade longtime starting quarterback J
 
 Rivalries
 
-Roethlisberger_being_sacked.jpg sacked by Bart Scott and Jarret Johnson. Terrell Suggs looks on.]]
+sacked by Bart Scott and Jarret Johnson. Terrell Suggs looks on.]]
 
 Pittsburgh Steelers
 
@@ -182,7 +180,7 @@ By far the team's biggest rival is the Pittsburgh Steelers. Pittsburgh and Balti
 
 Other AFC North rivals
 
-BJ_Sams.jpg (36) and Musa Smith (32) playing against the Cincinnati Bengals in November 2006.]]
+(36) and Musa Smith (32) playing against the Cincinnati Bengals in November 2006.]]
 
 The Ravens also have divisional rivalries with the Cleveland Browns and Cincinnati Bengals. The rivalry with the Browns has been very one-sided; Baltimore holds an advantage of 27–10 against Cleveland. The rivalry with Cincinnati has been closer, with the Ravens and Bengals tying the all-time series 23–23 as of the end of the 2018 NFL Season.
 
@@ -271,7 +269,7 @@ The Ravens do not officially have retired numbers. However, the number 19 has no
 
 Ring of Honor
 
-Matt_Stover_2006-11-05.jpg]]
+]]
 
 The Ravens have a "Ring of Honor" which is on permanent display encircling the field of M&T Bank Stadium. The ring currently honors the following, including 8 former members of the Baltimore Colts.[48] It was announced in May 2019 that Brian Billick will be inducted into the Ring of Honor during the 2019 season, while Haloti Ngata will join the Ring of Honor in 2020. Bold Numbers are those whose numbers have not been issued or reissued after a player's time in Baltimore:
 
@@ -617,8 +615,6 @@ The team's flagship station is WIYY/WBAL sister station WBAL-TV, which broadcast
 Ravens regular season games are typically broadcast by WJZ-TV as part of CBS's rights to the AFC, but games may occasionally be broadcast on WBAL (_Sunday Night Football_ and simulcasts of games on cable) or WBFF-TV (also _Thursday Night Football_).
 
 Radio
-
-Baltimore_Ravens_radio_affiliates.png
 
   style="|Market     style="|Frequency         style="|Call sign
   ------------------ ------------------------- ----------------------

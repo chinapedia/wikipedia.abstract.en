@@ -28,7 +28,7 @@ From 1984 on, he lived in Palatine, Illinois, a suburb of Chicago. He was previo
 
 Career
 
-Wollheim_Pohl_&_Michel_c._1938.jpg and John Michel in 1938]]
+and John Michel in 1938]]
 
 Early career
 

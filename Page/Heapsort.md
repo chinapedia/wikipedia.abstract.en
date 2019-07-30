@@ -89,7 +89,7 @@ procedure siftDown(a, start, end) is
 
 The heapify procedure can be thought of as building a heap from the bottom up by successively sifting downward to establish the heap property. An alternative version (shown below) that builds the heap top-down and sifts upward may be simpler to understand. This siftUp version can be visualized as starting with an empty heap and successively inserting elements, whereas the siftDown version given above treats the entire input array as a full but "broken" heap and "repairs" it starting from the last non-trivial sub-heap (that is, the last parent node).
 
-Binary_heap_bottomup_vs_topdown.svg Also, the siftDown version of heapify [[Binary_heap#Building_a_heap|has
+Also, the siftDown version of heapify [[Binary_heap#Building_a_heap|has
 
 function leafSearch(a, i, end) is
     j ← i
@@ -154,7 +154,7 @@ Introsort is an alternative to heapsort that combines quicksort and heapsort to 
 
 Example
 
-Let { 6, 5, 3, 1, 8, 7, 2, 4 } be the list that we want to sort from the smallest to the largest. (NOTE, for 'Building the Heap' step: Larger nodes don't stay below smaller node parents. They are swapped with parents, and then recursively checked if another swap is needed, to keep larger numbers above smaller numbers on the heap binary tree.) Heapsort-example.gif
+Let { 6, 5, 3, 1, 8, 7, 2, 4 } be the list that we want to sort from the smallest to the largest. (NOTE, for 'Building the Heap' step: Larger nodes don't stay below smaller node parents. They are swapped with parents, and then recursively checked if another swap is needed, to keep larger numbers above smaller numbers on the heap binary tree.)
 
   Heap                     newly added element   swap elements
   ------------------------ --------------------- ---------------

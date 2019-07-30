@@ -48,7 +48,7 @@ The Amen break was synonymous with early drum and bass productions but other sam
 
 Synthesis
 
-Roland_TR-808_drum_machine.jpg, produced 1980–1984, had a bass drum sound which became very important in drum and bass.]] Of equal importance is the TR-808 kick drum, an artificially pitch-downed or elongated bass drum sound sampled from Roland's classic TR-808 drum machine, and a sound which has been subject to an enormous amount of experimentation over the years.[37]
+, produced 1980–1984, had a bass drum sound which became very important in drum and bass.]] Of equal importance is the TR-808 kick drum, an artificially pitch-downed or elongated bass drum sound sampled from Roland's classic TR-808 drum machine, and a sound which has been subject to an enormous amount of experimentation over the years.[37]
 
 Rhythm composition
 
@@ -83,7 +83,7 @@ Many mixing points begin or end with a "drop". The drop is the point in a track 
 
 Live performance
 
-Pendulumsamuelnordstrom.JPG performing live in 2010]]
+performing live in 2010]]
 
 Drum and bass exhibits a full frequency response which can sometimes only be fully appreciated on sound systems which can handle very low frequencies, including sub-bass frequencies that are often felt more than heard. As befits its name, the bass element of the music is particularly pronounced, with the comparatively sparse arrangements of drum and bass tracks allowing room for basslines that are deeper than most other forms of dance music. Consequently, drum and bass parties are often advertised as featuring uncommonly loud and bass-heavy sound systems.
 
@@ -97,7 +97,7 @@ MCs do not generally receive the same level of recognition as producer/DJs, and 
 
 Live instrument performance
 
-Pirate_station_moscow_2009.jpg, the world's largest drum and bass festival at that time, in Moscow.]] Many musicians have adapted drum and bass to live performances, which feature instruments such as drums (acoustic or electronic), samplers, synthesizers, turntables, bass (either upright or electric) and guitars (acoustic or electric). Samplers have also been used live by assigning samples to a specific drum pad or key on drum pads or synthesizers. MCs are frequently featured in live performances.
+, the world's largest drum and bass festival at that time, in Moscow.]] Many musicians have adapted drum and bass to live performances, which feature instruments such as drums (acoustic or electronic), samplers, synthesizers, turntables, bass (either upright or electric) and guitars (acoustic or electric). Samplers have also been used live by assigning samples to a specific drum pad or key on drum pads or synthesizers. MCs are frequently featured in live performances.
 
 Drum and bass artists who perform using live instruments include:
 
@@ -133,7 +133,7 @@ Drum and bass artists who perform using live instruments include:
 
 Subgenres
 
-Congo_Natty_2.jpg Smaller scenes within the drum and bass community have developed and the scene as a whole has become much more fractured into specific subgenres, which have been grouped[48] into "light" (influenced by ambient, jazz, and world music) and "heavy" (influenced by industrial music, sci-fi, and anxiety) styles, including:
+Smaller scenes within the drum and bass community have developed and the scene as a whole has become much more fractured into specific subgenres, which have been grouped[48] into "light" (influenced by ambient, jazz, and world music) and "heavy" (influenced by industrial music, sci-fi, and anxiety) styles, including:
 
 Mainline drum and bass
 

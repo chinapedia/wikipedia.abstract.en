@@ -9,7 +9,7 @@ The Commonwealth period is better remembered for the military success of Thomas 
 
 1649–1653
 
-Protectorate (Commonwealth of England, Scotland and Ireland) | image_s1 = Coat_of_arms_of_the_Commonwealth_of_England.svg | capital = London | title_leader = | leader1 = | year_leader1 = | legislature = Parliament | house1 = | house2 = | stat_year1 = | stat_area1 = | stat_pop1 = | today = | footnotes = | symbol_type_article= Royal coat of arms of the United Kingdom#Union of the Crowns and the Commonwealth
+Protectorate (Commonwealth of England, Scotland and Ireland) | image_s1 = | capital = London | title_leader = | leader1 = | year_leader1 = | legislature = Parliament | house1 = | house2 = | stat_year1 = | stat_area1 = | stat_pop1 = | today = | footnotes = | symbol_type_article= Royal coat of arms of the United Kingdom#Union of the Crowns and the Commonwealth
 
 }}
 
@@ -24,8 +24,6 @@ In Pride's Purge, all members of parliament (including most of the political Pre
 Most Rumpers were gentry, though there was a higher proportion of lesser gentry and lawyers than in previous parliaments. Less than one-quarter of them were regicides. This left the Rump as basically a conservative body whose vested interests in the existing land ownership and legal systems made it unlikely to want to reform them.
 
 Issues and achievements
-
-An_Act_Declaring_and_Constituting_the_People_of_England_to_be_a_Commonwealth_and_Free-State_(1649).pdf
 
 For the first two years of the Commonwealth, the Rump faced economic depression and the risk of invasion from Scotland and Ireland. By 1653 Cromwell and the Army had largely eliminated these threats.
 
@@ -47,7 +45,7 @@ Cromwell, aided by Thomas Harrison, forcibly dismissed the Rump on 20 April 1653
 
 Barebone's Parliament, July–December 1653
 
-Commonwealth_Unite_1653_692157.jpg from 1653]]
+from 1653]]
 
 The dissolution of the Rump was followed by a short period in which Cromwell and the Army ruled alone. Nobody had the constitutional authority to call an election, but Cromwell did not want to impose a military dictatorship. Instead, he ruled through a 'nominated assembly' which he believed would be easy for the Army to control since Army officers did the nominating.
 
@@ -61,8 +59,6 @@ Cromwell seems to have expected this group of 'amateurs' to produce reform witho
 
 
 The Protectorate, 1653–1659
-
-Arms_of_the_Protectorate_(1653–1659).svg
 
 Throughout 1653, Cromwell and the Army slowly dismantled the machinery of the Commonwealth state. The English Council of State, which had assumed the executive function formerly held by the King and his Privy Council, was forcibly dissolved by Cromwell on 20 April, and in its place a new council, filled with Cromwell's own chosen men, was installed. Three days after Barebone's Parliament dissolved itself, the Instrument of Government was adopted by Cromwell's council and a new state structure, now known historically as The Protectorate, was given its shape. This new constitution granted Cromwell sweeping powers as Lord Protector, an office which ironically had much the same role and powers as the King had under the monarchy, a fact not lost on Cromwell's critics.
 
@@ -87,7 +83,7 @@ On the death of Oliver Cromwell in 1658, his son, Richard Cromwell, inherited th
 
 1659–1660
 
-Protectorate (Commonwealth of England, Scotland and Ireland) | image_p1 = Arms_of_the_Protectorate_(1653–1659).svg | capital = London | title_leader = | leader1 = | year_leader1 = | legislature = Parliament | house1 = | house2 = | stat_year1 = | stat_area1 = | stat_pop1 = | today = | footnotes = | symbol_type_article= Royal coat of arms of the United Kingdom#Union of the Crowns and the Commonwealth
+Protectorate (Commonwealth of England, Scotland and Ireland) | image_p1 = | capital = London | title_leader = | leader1 = | year_leader1 = | legislature = Parliament | house1 = | house2 = | stat_year1 = | stat_area1 = | stat_pop1 = | today = | footnotes = | symbol_type_article= Royal coat of arms of the United Kingdom#Union of the Crowns and the Commonwealth
 
 }} After the Grandees in the New Model Army removed Richard, they reinstalled the Rump Parliament on May 1659. Charles Fleetwood was appointed a member of the Committee of Safety and of the Council of State, and one of the seven commissioners for the army. On 9 June he was nominated lord-general (commander-in-chief) of the army. However, his power was undermined in parliament, which chose to disregard the army's authority in a similar fashion to the pre–Civil War parliament. On 12 October 1659 the Commons cashiered General John Lambert and other officers, and installed Fleetwood as chief of a military council under the authority of the Speaker. The next day Lambert ordered that the doors of the House be shut and the members kept out. On 26 October a "Committee of Safety" was appointed, of which Fleetwood and Lambert were members. Lambert was appointed major-general of all the forces in England and Scotland, Fleetwood being general. Lambert was now sent, by the Committee of Safety, with a large force to meet George Monck, who was in command of the English forces in Scotland, and either negotiate with him or force him to come to terms.
 

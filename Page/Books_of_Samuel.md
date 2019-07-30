@@ -5,7 +5,7 @@ Samuel begins with the prophet Samuel's birth[2] and God's call to him as a boy.
 
 Summary
 
-Ernst_Josephson._-_David_och_Saul.JPG, _David and Saul_, 1878.]]
+, _David and Saul_, 1878.]]
 
 The childless Hannah vows to Yahweh of hosts that if she has a son, he will be dedicated to him. Eli, the priest of Shiloh (where the Ark of the Covenant is located), blesses her, and a child named Samuel is born. Samuel is dedicated to the Lord as a Nazirite – the only one besides Samson to be identified in the Bible. Eli's sons, Hophni and Phinehas, sin against God's laws and the people, of the priesthood and are killed in battle during the Battle of Aphek, but the child Samuel grows up "in the presence of the Lord."
 
@@ -24,7 +24,7 @@ The four supplementary[4] chapters cover a great famine during David's reign,[5]
 
 Composition
 
-David_and_Bathsheba_by_Artemisia_Gentileschi.jpg. David is seen in the background, standing on a balcony.]]
+. David is seen in the background, standing on a balcony.]]
 
 Versions
 
@@ -56,7 +56,7 @@ The sources used to construct 1 and 2 Samuel are believed to include the followi
 
 Themes
 
-Hannah_VICTORS,_Jan.jpg presenting Samuel to Eli, by Jan Victors, 1645.]]
+presenting Samuel to Eli, by Jan Victors, 1645.]]
 
 The Book of Samuel is a theological evaluation of kingship in general and of dynastic kingship and David in particular. The main themes of the book are introduced in the opening poem (the "Song of Hannah"): (1) the sovereignty of Yahweh, God of Israel; (2) the reversal of human fortunes; and (3) kingship. These themes are played out in the stories of the three main characters, Samuel, Saul and David.
 

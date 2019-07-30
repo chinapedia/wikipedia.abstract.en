@@ -115,7 +115,7 @@ In the Republic of China the recently enacted _Constitutional Procedure Act_ (�
 
 Sweden
 
-Riddarholmen_2009f.jpg]]
+]]
 
 In Sweden, there is a system of administrative courts that considers only administrative law cases, and is completely separate from the system of general courts.[30] This system has three tiers, with 12 county administrative courts (_förvaltningsrätt_) as the first tier, four administrative courts of appeal (_kammarrätt_) as the second tier, and the Supreme Administrative Court of Sweden (_Högsta Förvaltningsdomstolen_) as the third tier.
 
@@ -150,7 +150,7 @@ United Kingdom
 
 United States
 
-FTC_headquarters.jpg, whose headquarters is shown above.]]
+, whose headquarters is shown above.]]
 
 In the United States, many government agencies are organized under the executive branch of government, although a few are part of the judicial or legislative branches.
 

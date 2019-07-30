@@ -68,7 +68,7 @@ In 1964, Jacques-Louis Mahé produced the first full-length feature film in Espe
 
 Internacia Televido, an internet television channel, began broadcasting in November 2005. Australia is the hotspot of much of the organization behind Esperanto television.
 
-Several short films have been produced, and at times plays have been recorded "for television". , the Esperanto-language Wikipedia lists 14 films and 3 short films. 2008-07-24_uk_pilipovicx_02.JPG, Rotterdam 2008]]
+Several short films have been produced, and at times plays have been recorded "for television". , the Esperanto-language Wikipedia lists 14 films and 3 short films. , Rotterdam 2008]]
 
 In 2011, Academy Award-nominated director Sam Green (_The Weather Underground_), released a new documentary about Esperanto titled The Universal Language (La Universala Lingvo.) This 30-minute film traces the history of Esperanto.[8] It's known for having extremely good camera quality and filming sense, as well as being a good "absolute introduction" to what Esperanto is, but is criticized for being too short.
 
@@ -86,7 +86,7 @@ Some Esperanto periodicals, such as _MONATO_ include recipes from time to time.
 
 Zamenhof Day
 
-Kastelo_Grezijono_1.jpg, an Esperantist cultural center in France]]
+, an Esperantist cultural center in France]]
 
 On December 15 (L. L. Zamenhof's birthday), Esperanto speakers around the world celebrate Zamenhof Day, sometimes called Book Day. It's a common goal to have a book written in Esperanto published on or by that day, as Zamenhof was a strong advocate of the idea that in order to spread Esperanto around the world, its speakers need to create a large body of literature.
 

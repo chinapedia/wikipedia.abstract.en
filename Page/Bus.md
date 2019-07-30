@@ -1,4 +1,4 @@
-LT_471_(LTZ_1471)_Arriva_London_New_Routemaster_(19522859218).jpg double-decker bus, operating for Arriva London on London Buses route 73]] Toronto_Flyer_E700A_trolleybus_in_1987.jpg trolleybus in Toronto]] Scott_Omnibus.jpg's depiction of the interior of an early 19th Century omnibus]] A BUS (contracted from OMNIBUS,[1] with variants MULTIBUS, MOTORBUS, AUTOBUS, etc.) is a road vehicle designed to carry many passengers. Buses can have a capacity as high as 300 passengers.[2] The most common type of bus is the single-deck rigid bus, with larger loads carried by double-decker and articulated buses, and smaller loads carried by midibuses and minibuses; coaches are used for longer-distance services. Many types of buses, such as city transit buses and inter-city coaches, charge a fare. Other types, such as elementary or secondary school buses or shuttle buses within a post-secondary education campus do not charge a fare. In many jurisdictions, bus drivers require a special licence above and beyond a regular driver's licence.
+double-decker bus, operating for Arriva London on London Buses route 73]] trolleybus in Toronto]] 's depiction of the interior of an early 19th Century omnibus]] A BUS (contracted from OMNIBUS,[1] with variants MULTIBUS, MOTORBUS, AUTOBUS, etc.) is a road vehicle designed to carry many passengers. Buses can have a capacity as high as 300 passengers.[2] The most common type of bus is the single-deck rigid bus, with larger loads carried by double-decker and articulated buses, and smaller loads carried by midibuses and minibuses; coaches are used for longer-distance services. Many types of buses, such as city transit buses and inter-city coaches, charge a fare. Other types, such as elementary or secondary school buses or shuttle buses within a post-secondary education campus do not charge a fare. In many jurisdictions, bus drivers require a special licence above and beyond a regular driver's licence.
 
 Buses may be used for scheduled bus transport, scheduled coach transport, school transport, private hire, or tourism; promotional buses may be used for political campaigns and others are privately operated for a wide range of purposes, including rock and pop band tour vehicles.
 
@@ -7,8 +7,6 @@ Horse-drawn buses were used from the 1820s, followed by steam buses in the 1830s
 
 Name
 
-Omnibus_-_Project_Gutenberg_eText_16943.jpg
-
 Bus is a clipped form of the Latin adjectival form _omnibus_ ("for all"), the dative plural of _omnis-e_ ("all").[4] The theoretical full name is in French _voiture omnibus_[5] ("vehicle for all"). The name originates from a mass-transport service started in 1823 by a French corn-mill owner named in Richebourg, a suburb of Nantes. A by-product of his mill was hot water, and thus next to it he established a spa business. In order to encourage customers he started a horse-drawn transport service from the city centre of Nantes to his establishment. The first vehicles stopped in front of the shop of a hatter named Omnés, which displayed a large sign inscribed "Omnes Omnibus", a pun on his Latin-sounding surname, _omnes_ being the male and female nominative, vocative and accusative form of the Latin adjective _omnis-e_ ("all"),[6] combined with _omnibus_, the dative plural form meaning "for all", thus giving his shop the name "Omnés for all", or "everything for everyone". His transport scheme was a huge success, although not as he had intended as most of his passengers did not visit his spa. He turned the transport service into his principal lucrative business venture and closed the mill and spa.[7] Nantes citizens soon gave the nickname "omnibus" to the vehicle.[8] Having invented the successful concept Baudry moved to Paris and launched the first omnibus service there in April 1828.[9] A similar service was introduced in London in 1829.[10] [11]
 
 
@@ -16,7 +14,7 @@ History
 
 Steam buses
 
-Obeissante.jpg's _L'Obéissante_ (1875)]]
+'s _L'Obéissante_ (1875)]]
 
 Regular intercity bus services by steam-powered buses were pioneered in England in the 1830s by Walter Hancock and by associates of Sir Goldsworthy Gurney, among others, running reliable services over road conditions which were too hazardous for horse-drawn transportation.
 
@@ -26,8 +24,6 @@ However, the heavy road tolls imposed by the turnpike trusts discouraged steam r
 
 Trolleybuses
 
-First_Trolleybuss_of_Siemens_in_Berlin_1882.gif
-
 In parallel to the development of the bus was the invention of the electric trolleybus, typically fed through trolley poles by overhead wires. The Siemens brothers, William in England and Ernst Werner in Germany, collaborated on the development of the trolleybus concept. Sir William first proposed the idea in an article to the _Journal of the Society of Arts_ in 1881 as an "...arrangement by which an ordinary omnibus...would have a suspender thrown at intervals from one side of the street to the other, and two wires hanging from these suspenders; allowing contact rollers to run on these two wires, the current could be conveyed to the tram-car, and back again to the dynamo machine at the station, without the necessity of running upon rails at all."[15]
 
 The first such vehicle, the Electromote, was made by his brother Dr. Ernst Werner von Siemens and presented to the public in 1882 in Halensee, Germany.[16] Although this experimental vehicle fulfilled all the technical criteria of a typical trolleybus, it was dismantled in the same year after the demonstration.[17]
@@ -36,17 +32,15 @@ Max Schiemann opened a passenger-carrying trolleybus in 1901 near Dresden, in Ge
 
 Motor buses
 
-Erste_Benzin-Omnibus_der_Welt.jpg to Netphen)]]
+to Netphen)]]
 
 In Siegerland, Germany, two passenger bus lines ran briefly, but unprofitably, in 1895 using a six-passenger motor carriage developed from the 1893 Benz Viktoria.[18] Another commercial bus line using the same model Benz omnibuses ran for a short time in 1898 in the rural area around Llandudno, Wales.[19]
 
 Daimler also produced one of the earliest motor-bus models in 1898, selling a double-decker bus to the Motor Traction Company which was first used on the streets of London on 23 April 1898.[20] The vehicle had a maximum speed of and accommodated up to 20 passengers, in an enclosed area below and on an open-air platform above. With the success and popularity of this bus, Daimler expanded production, selling more buses to companies in London and, in 1899, to Stockholm and Speyer.[21] Daimler also entered into a partnership with the British company Milnes and developed a new double-decker in 1902 that became the market standard.
 
-B43OleBillatIWMLondon.jpg]]
+]]
 
 The first mass-produced bus model was the B-type double-decker bus, designed by Frank Searle and operated by the London General Omnibus Company – it entered service in 1910, and almost 3,000 had been built by the end of the decade. Hundreds saw military service on the Western Front during the First World War.[22]
-
-Daimler_CC_Bus_(1912).jpg
 
 The Yellow Coach Manufacturing Company, which rapidly became a major manufacturer of buses in the US, was founded in Chicago in 1923 by John D. Hertz. General Motors purchased a majority stake in 1925 and changed its name to the Yellow Truck and Coach Manufacturing Company. They then purchased the balance of the shares in 1943 to form the GM Truck and Coach Division.
 
@@ -55,8 +49,6 @@ Models expanded in the 20th century, leading to the widespread introduction of t
 
 Types
 
-Athens_bus_interior_in_2013.jpg
-
 Formats include single-decker bus, double-decker bus (both usually with a rigid chassis) and articulated bus (or 'bendy-bus') the prevalence of which varies from country to country. High-capacity bi-articulated buses are also manufactured, and passenger-carrying trailers—either towed behind a rigid bus (a bus trailer) or hauled as a trailer by a truck (a trailer bus). Smaller midibuses have a lower capacity and open-top buses are typically used for leisure purposes. In many new fleets, particularly in local transit systems, a shift to low-floor buses is occurring, primarily for easier accessibility. Coaches are designed for longer-distance travel and are typically fitted with individual high-backed reclining seats, seat belts, toilets, and audio-visual entertainment systems, and can operate at higher speeds with more capacity for luggage. Coaches may be single- or double-deckers, articulated, and often include a separate luggage compartment under the passenger floor. Guided buses are fitted with technology to allow them to run in designated guideways, allowing the controlled alignment at bus stops and less space taken up by guided lanes than conventional roads or bus lanes.
 
 Bus manufacturing may be by a single company (an integral manufacturer), or by one manufacturer's building a bus body over a chassis produced by another manufacturer.
@@ -64,11 +56,9 @@ Bus manufacturing may be by a single company (an integral manufacturer), or by o
 
 Design
 
-Inside_Bus_W.jpg
-
 Accessibility
 
-Praha,_DOD_2006_Hostivař,_Plošina_autobusu_Karosa_pro_invalidy.JPG extended]]
+extended]]
 
 Transit buses used to be mainly high-floor vehicles. However, they are now increasingly of low-floor design and optionally also 'kneel' air suspension and have electrically or hydraulically extended under-floor ramps to provide level access for wheelchair users and people with baby carriages. Prior to more general use of such technology, these wheelchair users could only use specialist paratransit mobility buses.
 
@@ -88,7 +78,7 @@ Transit buses are normally painted to identify the operator or a route, function
 
 Propulsion
 
-Ride_On_5312_at_Glenmont.jpg hybrid electric bus with appropriate livery]] ASEAG_999_Seite.jpg]]
+hybrid electric bus with appropriate livery]] ]]
 
 The most common power source since the 1920s has been the diesel engine. Early buses, known as trolleybuses, were powered by electricity supplied from overhead lines. Nowadays, electric buses often carry their own battery, which is sometimes recharged on stops/stations to keep the size of the battery small/lightweight. Currently, interest exists in hybrid electric buses, fuel cell buses, electric buses, and ones powered by compressed natural gas or biodiesel. Gyrobuses, which are powered by the momentum stored by a flywheel, were tried in the 1940s.
 
@@ -118,15 +108,13 @@ Uses
 
 Public transport
 
-Sydney_Buses_(mo_1298)_Custom_Coaches_'Citaro'_bodied_Mercedes-Benz_O405NH_CNG_on_Loftus_Street_in_Circular_Quay_(cropped).jpg public transit bus in Sydney, Australia]]
+public transit bus in Sydney, Australia]]
 
 Transit buses, used on public transport bus services, have utilitarian fittings designed for efficient movement of large numbers of people, and often have multiple doors. Coaches are used for longer-distance routes. High-capacity bus rapid transit services may use the bi-articulated bus or tram-style buses such as the Wright StreetCar and the Irisbus Civis.
 
 Buses and coach services often operate to a predetermined published public transport timetable defining the route and the timing, but smaller vehicles may be used on more flexible demand responsive transport services.
 
 Tourism
-
-Foxity_à_Louvre-Rivoli_par_Cramos_(cropped).JPG
 
 Buses play a major part in the tourism industry. Tour buses around the world allow tourists to view local attractions or scenery. These are often open-top buses, but can also be regular buses or coaches.
 
@@ -142,7 +130,7 @@ In many tourist or travel destinations, a bus is part of the tourist attraction,
 
 Student transport
 
-HCS_bus49.JPG]]
+]]
 
 In some countries, particularly the US and Canada, buses used to transport schoolchildren have evolved into a specific design with specified mandatory features. American states have also adopted laws regarding motorist conduct around school buses, including large fines and possibly prison for passing a stopped school bus in the process of loading or offloading children passengers. These school buses may have school bus yellow livery and crossing guards. Other countries may mandate the use of seat belts. As a minimum, many countries require a bus carrying students to display a sign, and may also adopt yellow liveries. Student transport often uses older buses cascaded from service use, retrofitted with more seats or seatbelts. Student transport may be operated by local authorities or private contractors. Schools may also own and operate their own buses for other transport needs, such as class field trips, or transport to associated sports, music, or other school events.
 
@@ -150,13 +138,11 @@ Private charter
 
 Due to the costs involved in owning, operating, and driving buses and coaches, many bus and coach use a private hire of vehicles from charter bus companies, either for a day or two or a longer contract basis, where the charter company provides the vehicles and qualified drivers.
 
-BCI_bodied_Mercedes-Benz_OC_500_RF_BusWest_01.jpg]]
+]]
 
 Charter bus operators may be completely independent businesses, or charter hire may be a subsidiary business of a public transport operator that might maintain a separate fleet or use surplus buses, coaches, and dual-purpose coach-seated buses. Many private taxicab companies also operate larger minibus vehicles to cater for group fares. Companies, private groups, and social clubs may hire buses or coaches as a cost-effective method of transporting a group to an event or site, such as a group meeting, racing event, or organised recreational activity such as a summer camp. Schools often hire charter bus services on regular basis for transportation of children to and from their homes. Chartered buses are also used by education institutes for transport to conventions, exhibitions, and field trips. Entertainment or event companies may also hire temporary shuttles buses for transport at events such as festivals or conferences. Party buses are used by companies in a similar manner to limousine hire, for luxury private transport to social events or as a touring experience. Sleeper buses are used by bands or other organisations that tour between entertainment venues and require mobile rest and recreation facilities. Some couples hire preserved buses for their wedding transport, instead of the traditional car. Buses are often hired for parades or processions. Victory parades are often held for triumphant sports teams, who often tour their home town or city in an open-top bus. Sports teams may also contract out their transport to a team bus, for travel to away games, to a competition or to a final event. These buses are often specially decorated in a livery matching the team colours. Private companies often contract out private shuttle bus services, for transport of their customers or patrons, such as hotels, amusement parks, university campuses, or private airport transfer services. This shuttle usage can be as transport between locations, or to and from parking lots. High specification luxury coaches are often chartered by companies for executive or VIP transport. Charter buses may also be used in tourism and for promotion (See Tourism and Promotion sections).
 
 Private ownership
-
-Taipei_Taiwan_Police-bus-01.jpg
 
 Many organisations, including the police, not for profit, social or charitable groups with a regular need for group transport may find it practical or cost-effective to own and operate a bus for their own needs. These are often minibuses for practical, tax and driver licensing reasons, although they can also be full-size buses. Cadet or scout groups or other youth organizations may also own buses. Specific charities may exist to fund and operate bus transport, usually using specially modified mobility buses or otherwise accessible buses (See Accessibility section). Some use their contributions to buy vehicles and provide volunteer drivers.
 
@@ -165,8 +151,6 @@ Airport operators make use of special airside airport buses for crew and passeng
 Promotion
 
 Buses are often used for advertising, political campaigning, public information campaigns, public relations, or promotional purposes. These may take the form of temporary charter hire of service buses, or the temporary or permanent conversion and operation of buses, usually of second-hand buses. Extreme examples include converting the bus with displays and decorations or awnings and fittings. Interiors may be fitted out for exhibition or information purposes with special equipment or audio visual devices.
-
-AVBWU237_641(KMB)_14-09-2018.jpg
 
 Bus advertising takes many forms, often as interior and exterior adverts and all-over advertising liveries. The practice often extends into the exclusive private hire and use of a bus to promote a brand or product, appearing at large public events, or touring busy streets. The bus is sometimes staffed by promotions personnel, giving out free gifts. Campaign buses are often specially decorated for a political campaign or other social awareness information campaign, designed to bring a specific message to different areas, or used to transport campaign personnel to local areas/meetings. Exhibition buses are often sent to public events such as fairs and festivals for purposes such as recruitment campaigns, for example by private companies or the armed forces. Complex urban planning proposals may be organised into a mobile exhibition bus for the purposes of public consultation.
 
@@ -181,8 +165,6 @@ Diesel powered buses are predicted to lose almost all their market share during 
 
 
 Around the world
-
-CamelitoLaHavane_01.jpg
 
 Historically, the types and features of buses have developed according to local needs. Buses were fitted with technology appropriate to the local climate or passenger needs, such as air conditioning in Asia, or cycle mounts on North American buses. The bus types in use around the world where there was little mass production were often sourced second hand from other countries, such as the Malta bus, and buses in use in Africa. Other countries such as Cuba required novel solutions to import restrictions, with the creation of the "camellos" (camel bus), a specially manufactured trailer bus.
 
@@ -199,7 +181,7 @@ Busworld Kortrijk in Kortrijk, Belgium, is the leading bus trade fair in Europe.
 
 Use of retired buses
 
-GMBus.jpg bus]] EM-leyland-tow-truck-1.jpg
+bus]]
 
 Most public or private buses and coaches, once they have reached the end of their service with one or more operators, are sent to the wrecking yard for breaking up for scrap and spare parts. Some buses which are not economical to keep running as service buses are often converted for use other than revenue-earning transport. Much like old cars and trucks, buses often pass through a dealership where they can be bought privately or at auction.
 
@@ -212,8 +194,6 @@ Some organisations adapt and operate playbuses or learning buses to provide a pl
 Some buses meet a destructive end by being entered in banger races or at demolition derbys. A larger number of old retired buses have also been converted into mobile holiday homes and campers.
 
 Bus preservation
-
-MTT-AECRegalVI-BPSWA.JPG
 
 Rather than being scrapped or converted for other uses, sometimes retired buses are saved for preservation. This can be done by individuals, volunteer preservation groups or charitable trusts, museums, or sometimes by the operators themselves as part of a heritage fleet. These buses often need to be restored to their original condition and will have their livery and other details such as internal notices and rollsigns restored to be authentic to a specific time in the bus's history. Some buses that undergo preservation are rescued from a state of great disrepair, but others enter preservation with very little wrong with them. As with other historic vehicles, many preserved buses either in a working or static state form part of the collections of transport museums. Working buses will often be exhibited at rallies and events, and they are also used as charter buses. While many preserved buses are quite old or even vintage, in some cases relatively new examples of a bus type can enter restoration. In-service examples are still in use by other operators. This often happens when a change in design or operating practice, such as the switch to one person operation or low floor technology, renders some buses redundant while still relatively new.
 

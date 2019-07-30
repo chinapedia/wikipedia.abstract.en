@@ -46,7 +46,7 @@ Traditionally, there are also the 6 sýslur (Norðoyar, Eysturoy, Streymoy, Vág
 
 International affairs
 
-The nation continues to be intimately tied with the Nordic countries of Europe and the European Union. Embassy_of_Canada_and_Faroe_Islands_Mission_in_Reykjavik.jpg Along with diplomatic missions to Iceland, the Court of St. James's (United Kingdom), Russia and the European Union,[6] the Faroe Islands participate in the Nordic Council, NIB, International Maritime Organization, International Whaling Commission (Complete list of participation of the Faroe Islands in international organisations).
+The nation continues to be intimately tied with the Nordic countries of Europe and the European Union. Along with diplomatic missions to Iceland, the Court of St. James's (United Kingdom), Russia and the European Union,[6] the Faroe Islands participate in the Nordic Council, NIB, International Maritime Organization, International Whaling Commission (Complete list of participation of the Faroe Islands in international organisations).
 
 
 Further reading

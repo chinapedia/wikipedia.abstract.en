@@ -1,7 +1,3 @@
-Bass_Guitar_Time_Signal_of_open_string_A_note_(55_Hz).png
-
-Fourier_Transform_of_bass_guitar_time_signal.png
-
 In mathematics, FOURIER ANALYSIS ()[1] is the study of the way general functions may be represented or approximated by sums of simpler trigonometric functions. Fourier analysis grew from the study of Fourier series, and is named after Joseph Fourier, who showed that representing a function as a sum of trigonometric functions greatly simplifies the study of heat transfer.
 
 Today, the subject of Fourier analysis encompasses a vast spectrum of mathematics. In the sciences and engineering, the process of decomposing a function into oscillatory components is often called Fourier analysis, while the operation of rebuilding the function from these pieces is known as FOURIER SYNTHESIS. For example, determining what component frequencies are present in a musical note would involve computing the Fourier transform of a sampled musical note. One could then re-synthesize the same sound by including the frequency components as revealed in the Fourier analysis. In mathematics, the term _Fourier analysis_ often refers to the study of both operations.
@@ -43,8 +39,6 @@ Some examples include:
 
 
 Variants of Fourier analysis
-
-Fourier_transform,_Fourier_series,_DTFT,_DFT.svg
 
 (Continuous) Fourier transform
 

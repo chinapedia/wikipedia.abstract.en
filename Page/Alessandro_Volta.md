@@ -20,7 +20,7 @@ In 1779 he became a professor of experimental physics at the University of Pavia
 
 Volta and Galvani
 
-Luigi_Galvani,_oil-painting.jpg, Volta's rival]] Luigi Galvani, an Italian physicist, discovered something he named, "animal electricity" when two different metals were connected in series with a frog's leg and to one another. Volta realised that the frog's leg served as both a conductor of electricity (what we would now call an electrolyte) and as a detector of electricity. He replaced the frog's leg with brine-soaked paper, and detected the flow of electricity by other means familiar to him from his previous studies.
+, Volta's rival]] Luigi Galvani, an Italian physicist, discovered something he named, "animal electricity" when two different metals were connected in series with a frog's leg and to one another. Volta realised that the frog's leg served as both a conductor of electricity (what we would now call an electrolyte) and as a detector of electricity. He replaced the frog's leg with brine-soaked paper, and detected the flow of electricity by other means familiar to him from his previous studies.
 
 In this way he discovered the electrochemical series, and the law that the electromotive force (emf) of a galvanic cell, consisting of a pair of metal electrodes separated by electrolyte, is the difference between their two electrode potentials (thus, two identical electrodes and a common electrolyte give zero net emf). This may be called Volta's Law of the electrochemical series.
 
@@ -29,7 +29,7 @@ In 1800, as the result of a professional disagreement over the galvanic response
 
 Early battery
 
-Voltaic_pile.svg]] In announcing his discovery of the voltaic pile, Volta paid tribute to the influences of William Nicholson, Tiberius Cavallo, and Abraham Bennet.[19]
+]] In announcing his discovery of the voltaic pile, Volta paid tribute to the influences of William Nicholson, Tiberius Cavallo, and Abraham Bennet.[19]
 
 The battery made by Volta is credited as one of the first electrochemical cells. It consists of two electrodes: one made of zinc, the other of copper. The electrolyte is either sulfuric acid mixed with water or a form of saltwater brine. The electrolyte exists in the form 2H⁺ and SO₄^(2−). The zinc, which is higher in the electrochemical series than both copper and hydrogen, reacts with the negatively charged sulfate (SO₄^(2−)). The positively charged hydrogen ions (protons) capture electrons from the copper, forming bubbles of hydrogen gas, H₂. This makes the zinc rod the negative electrode and the copper rod the positive electrode.
 
@@ -50,7 +50,7 @@ However, this cell also has some disadvantages. It is unsafe to handle, since su
 
 Last years and retirement
 
-Painting_of_Volta_by_Bertini_(photo).jpeg in 1801]]
+in 1801]]
 
 In 1809 Volta became associated member of the Royal Institute of the Netherlands.[20] In honour of his work, Volta was made a count by Napoleon Bonaparte in 1810.[21]
 

@@ -101,57 +101,57 @@ Taxonomy and distribution
 Ocean dolphins
 
   Name                              Repartition                            Image
-  --------------------------------- -------------------------------------- --------------------------------------------------------------------
-  La Plata dolphin                  South America (east)                   PontoporiaBlainvillei.jpg
-  Long-beaked common dolphin        cosmopolitan                           Delphinus_capensis.JPG
-  Short-beaked common dolphin       cosmopolitan                           Delphinus_delphis_with_calf.jpg
-  Common bottlenose dolphin''       cosmopolitan                           Dolphin_(5967696041).jpg
-  Indo-Pacific bottlenose dolphin   Indo-Pacific                           Tursiops_aduncus,_Port_River,_Adelaide,_Australia_-_2003.jpg
-  Burrunan dolphin                  Australia (south-east)                 Dauphin_australie.jpg
-  Northern right whale dolphin      Pacific (north)                        Anim1749_-_Flickr_-_NOAA_Photo_Library.jpg
-  Southern right whale dolphin      Southern Ocean                         Anim0796_-_Flickr_-_NOAA_Photo_Library.jpg
-  Guiana dolphin                    South America (north & east)           Descrição_in%C3%ADcio_ou_comportamento.jpg
-  Indo-Pacific humpbacked dolphin   Indo-Pacific                           Chinese_white_dolphin.jpg
-  Atlantic humpback dolphin         Africa (west)                          Sousa_teuszii1.jpg
-  Australian humpback dolphin       Australia (north) & New Guinea         Australian_humpback_dolphins,_Tin_Can_Bay,_2016.jpg
-  Atlantic spotted dolphin          Atlantic                               Atlantic_spotted_dolphin_(Stenella_frontalis)_NOAA.jpg
-  Clymene dolphin                   Atlantic                               Clymenes.jpg
-  Pantropical spotted dolphin       pantropical                            Schlankdelfin.jpg
-  Spinner dolphin                   pantropical                            Stenella_longirostris.JPG
-  Striped dolphin                   cosmopolitan                           Stenella_coeruleoalba.jpg
-  Rough-toothed dolphin''           cosmopolitan                           Rough_toothed_dolphin.jpg
-  Chilean dolphin                   South America (south-west)             Tonino.jpg
-  Commerson's dolphin               South America (south-east)             CommersondolphinArgentina.jpg
-  Haviside's dolphin                Africa (south-west)                    Dolphins_at_Lüderitz,_Namibia_(3144863196).jpg
-  Hector's dolphin                  New-Zealand (South Island)             Hectors_Dolphin_near_Akaroa.jpg
-  Risso's dolphin                   cosmopolitan                           Risso%27s_Dolphin.jpg
-  Fraser's dolphin                  pantropical                            Frazer´s_dolphin_group.jpg
-  Atlantic white-sided dolphin      Atlantic (north), North & Baltic Sea   Atlantic_white-sided_dolphin.jpg
-  Dusky dolphin                     southern hemisphere                    DuskyDolphin.jpg
-  Hourglass dolphin                 Southern Ocean                         Hourglas_dolphin.jpg
-  Pacific white-sided dolphin       Pacific (north)                        Pacific_white-sided_dolphins_(Lagenorhynchus_obliquidens)_NOAA.jpg
-  Peale's dolphin                   South America (south)                  Lagenorhynchus_australis.jpg
-  White-beaked dolphin              Atlantic (north), North & Baltic Sea   Witsnuitdolfijn_-_Lagenorhynchus_albirostris.jpg
-  Australian snubfin dolphin        Australia (north)                      Snubfin-3.jpg
-  Irrawaddy dolphin                 Indo-Pacific                           Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg
-  Melon-headed whale                pantropical                            Peponocephala_electra_Mayotte.jpg
-  Killer whale                      cosmopolitan                           Killerwhales_jumping.jpg
-  Pygmy killer whale                pantropical                            Feresa_attenuata_by_OpenCage.jpg
-  False killer whale                cosmopolitan                           False_killer_whale_890002.jpg
-  Short-finned pilot whale          cosmopolitan                           Globicephala_macrorhynchus_Tenerife_2012_(cropped).jpg
-  Long-finned pilot whale           Atlantic (north) & Southern Ocean      Pilot_whale_spyhop.jpg
+  --------------------------------- -------------------------------------- -------
+  La Plata dolphin                  South America (east)
+  Long-beaked common dolphin        cosmopolitan
+  Short-beaked common dolphin       cosmopolitan
+  Common bottlenose dolphin''       cosmopolitan
+  Indo-Pacific bottlenose dolphin   Indo-Pacific
+  Burrunan dolphin                  Australia (south-east)
+  Northern right whale dolphin      Pacific (north)
+  Southern right whale dolphin      Southern Ocean
+  Guiana dolphin                    South America (north & east)
+  Indo-Pacific humpbacked dolphin   Indo-Pacific
+  Atlantic humpback dolphin         Africa (west)
+  Australian humpback dolphin       Australia (north) & New Guinea
+  Atlantic spotted dolphin          Atlantic
+  Clymene dolphin                   Atlantic
+  Pantropical spotted dolphin       pantropical
+  Spinner dolphin                   pantropical
+  Striped dolphin                   cosmopolitan
+  Rough-toothed dolphin''           cosmopolitan
+  Chilean dolphin                   South America (south-west)
+  Commerson's dolphin               South America (south-east)
+  Haviside's dolphin                Africa (south-west)
+  Hector's dolphin                  New-Zealand (South Island)
+  Risso's dolphin                   cosmopolitan
+  Fraser's dolphin                  pantropical
+  Atlantic white-sided dolphin      Atlantic (north), North & Baltic Sea
+  Dusky dolphin                     southern hemisphere
+  Hourglass dolphin                 Southern Ocean
+  Pacific white-sided dolphin       Pacific (north)
+  Peale's dolphin                   South America (south)
+  White-beaked dolphin              Atlantic (north), North & Baltic Sea
+  Australian snubfin dolphin        Australia (north)
+  Irrawaddy dolphin                 Indo-Pacific
+  Melon-headed whale                pantropical
+  Killer whale                      cosmopolitan
+  Pygmy killer whale                pantropical
+  False killer whale                cosmopolitan
+  Short-finned pilot whale          cosmopolitan
+  Long-finned pilot whale           Atlantic (north) & Southern Ocean
 
 
 River dolphins
 
   Name                        Repartition        Image
-  --------------------------- ------------------ -----------------------------------------------------
-  Baiji                       Yangtze River      Lipotes_vexillifer.png
-  South Asian river dolphin   Asia (south)       GangeticDolphin.jpg
-  Amazon river dolphin        Amazon Basin       Inia_geoffrensis_Putumayo,_Sucumbios,_Ecuador_1.jpg
-  Araguaian river dolphin     Amazon (east)      Inia_araguaiensis.jpg
-  Bolivian river dolphin      Amazon (Bolivia)   Dauphinrose_bolivie.jpg
-  Tucuxi                      Amazon Basin       Caracter%C3%ADsticas_f%C3%ADsicas.jpg
+  --------------------------- ------------------ -------
+  Baiji                       Yangtze River
+  South Asian river dolphin   Asia (south)
+  Amazon river dolphin        Amazon Basin
+  Araguaian river dolphin     Amazon (east)
+  Bolivian river dolphin      Amazon (Bolivia)
+  Tucuxi                      Amazon Basin
 
 
 Hybridization
@@ -161,7 +161,7 @@ In 1933, three strange dolphins beached off the Irish coast; they appeared to be
 
 Evolution
 
-Ichthyosaur_vs_dolphin.svg with fish and aquatic reptiles]]
+with fish and aquatic reptiles]]
 
 Dolphins are descendants of land-dwelling mammals of the artiodactyl order (even-toed ungulates). They are related to the _Indohyus_, an extinct chevrotain-like ungulate, from which they split approximately 48 million years ago.[23][24]
 
@@ -174,7 +174,7 @@ Today, the closest living relatives of cetaceans are the hippopotamuses; these s
 
 Anatomy
 
-Dolphin_Anatomy.svg Dolphins have torpedo-shaped bodies with generally non-flexible necks, limbs modified into flippers, non-existent external ear flaps, a tail fin, and bulbous heads. Dolphin skulls have small eye orbits, long snouts, and eyes placed on the sides of its head. Dolphins range in size from the long and Maui's dolphin to the and killer whale. Overall, however, they tend to be dwarfed by other Cetartiodactyls. Several species have female-biased sexual dimorphism, with the females being larger than the males.[37][38]
+Dolphins have torpedo-shaped bodies with generally non-flexible necks, limbs modified into flippers, non-existent external ear flaps, a tail fin, and bulbous heads. Dolphin skulls have small eye orbits, long snouts, and eyes placed on the sides of its head. Dolphins range in size from the long and Maui's dolphin to the and killer whale. Overall, however, they tend to be dwarfed by other Cetartiodactyls. Several species have female-biased sexual dimorphism, with the females being larger than the males.[37][38]
 
 Dolphins have conical teeth, as opposed to porpoises' spade-shaped teeth. These conical teeth are used to catch swift prey such as fish, squid or large mammals, such as seal.[39]
 
@@ -194,7 +194,7 @@ Some dolphins are adapted for diving to great depths. In addition to their strea
 
 Sensory
 
-Delfinekko.gif by cetaceans]] upright=1.35
+by cetaceans]] upright=1.35
 
 The dolphin ear has specific adaptations to the marine environment. In humans, the middle ear works as an impedance equalizer between the outside air's low impedance and the cochlear fluid's high impedance. In dolphins, and other marine mammals, there is no great difference between the outer and inner environments. Instead of sound passing through the outer ear to the middle ear, dolphins receive sound through the throat, from which it passes through a low-impedance fat-filled cavity to the inner ear. The dolphin ear is acoustically isolated from the skull by air-filled sinus pockets, which allow for greater directional hearing underwater.[55] Dolphins send out high frequency clicks from an organ known as a melon. This melon consists of fat, and the skull of any such creature containing a melon will have a large depression. This allows dolphins to produce biosonar for orientation.[56][57][58][59][60] Though most dolphins do not have hair, they do have hair follicles that may perform some sensory function.[61] Beyond locating an object, echolocation also provides the animal with an idea on an object's shape and size, though how exactly this works is not yet understood.[62] The small hairs on the rostrum of the boto are believed to function as a tactile sense, possibly to compensate for the boto's poor eyesight.[63]
 
@@ -207,11 +207,11 @@ Dolphins are not thought to have a good sense of taste, as their taste buds are 
 
 Behavior
 
-Dolphins_gesture_language.jpg]] Dolphins are often regarded as one of Earth's most intelligent animals, though it is hard to say just how intelligent. Comparing species' relative intelligence is complicated by differences in sensory apparatus, response modes, and nature of cognition. Furthermore, the difficulty and expense of experimental work with large aquatic animals has so far prevented some tests and limited sample size and rigor in others. Compared to many other species, however, dolphin behavior has been studied extensively, both in captivity and in the wild. See cetacean intelligence for more details.
+]] Dolphins are often regarded as one of Earth's most intelligent animals, though it is hard to say just how intelligent. Comparing species' relative intelligence is complicated by differences in sensory apparatus, response modes, and nature of cognition. Furthermore, the difficulty and expense of experimental work with large aquatic animals has so far prevented some tests and limited sample size and rigor in others. Compared to many other species, however, dolphin behavior has been studied extensively, both in captivity and in the wild. See cetacean intelligence for more details.
 
 Socialization
 
-Dolphinsurfresize.jpg, Queensland, Australia]] Dolphins are highly social animals, often living in pods of up to a dozen individuals, though pod sizes and structures vary greatly between species and locations. In places with a high abundance of food, pods can merge temporarily, forming a _superpod_; such groupings may exceed 1,000 dolphins. Membership in pods is not rigid; interchange is common. Dolphins can, however, establish strong social bonds; they will stay with injured or ill individuals, even helping them to breathe by bringing them to the surface if needed.[68] This altruism does not appear to be limited to their own species. The dolphin _Moko_ in New Zealand has been observed guiding a female Pygmy Sperm Whale together with her calf out of shallow water where they had stranded several times.[69] They have also been seen protecting swimmers from sharks by swimming circles around the swimmers[70][71] or charging the sharks to make them go away.
+, Queensland, Australia]] Dolphins are highly social animals, often living in pods of up to a dozen individuals, though pod sizes and structures vary greatly between species and locations. In places with a high abundance of food, pods can merge temporarily, forming a _superpod_; such groupings may exceed 1,000 dolphins. Membership in pods is not rigid; interchange is common. Dolphins can, however, establish strong social bonds; they will stay with injured or ill individuals, even helping them to breathe by bringing them to the surface if needed.[68] This altruism does not appear to be limited to their own species. The dolphin _Moko_ in New Zealand has been observed guiding a female Pygmy Sperm Whale together with her calf out of shallow water where they had stranded several times.[69] They have also been seen protecting swimmers from sharks by swimming circles around the swimmers[70][71] or charging the sharks to make them go away.
 
 Dolphins communicate using a variety of clicks, whistle-like sounds and other vocalizations. Dolphins also use nonverbal communication by means of touch and posturing.[72]
 
@@ -224,8 +224,6 @@ Dolphins engage in acts of aggression towards each other. The older a male dolph
 Male bottlenose dolphins have been known to engage in infanticide. Dolphins have also been known to kill porpoises for reasons which are not fully understood, as porpoises generally do not share the same diet as dolphins and are therefore not competitors for food supplies.[77] The Cornwall Wildlife Trust records about one such death a year. Possible explanations include misdirected infanticide, misdirected sexual aggression or play behaviour.[78]
 
 Reproduction and sexuality
-
-cmglee_Horniman_dolphin_skin_skeleton.jpg
 
 Dolphin copulation happens belly to belly; though many species engage in lengthy foreplay, the actual act is usually brief, but may be repeated several times within a short timespan.[79] The gestation period varies with species; for the small Tucuxi dolphin, this period is around 11 to 12 months,[80] while for the orca, the gestation period is around 17 months.[81] Typically dolphins give birth to a single calf, which is, unlike most other mammals, born tail first in most cases.[82] They usually become sexually active at a young age, even before reaching sexual maturity.[83] The age of sexual maturity varies by species and gender.[84]
 
@@ -243,7 +241,7 @@ Reports of cooperative human-dolphin fishing date back to the ancient Roman auth
 
 Vocalization
 
-Dolphin1.jpg of dolphin vocalizations. Whistles, whines, and clicks are visible as upside down V's, horizontal striations, and vertical lines, respectively.]]
+of dolphin vocalizations. Whistles, whines, and clicks are visible as upside down V's, horizontal striations, and vertical lines, respectively.]]
 
 Dolphins are capable of making a broad range of sounds using nasal airsacs located just below the blowhole. Roughly three categories of sounds can be identified: frequency modulated whistles, burst-pulsed sounds and clicks. Dolphins communicate with whistle-like sounds produced by vibrating connective tissue, similar to the way human vocal cords function,[101] and through burst-pulsed sounds, though the nature and extent of that ability is not known. The clicks are directional and are for echolocation, often occurring in a short series called a click train. The click rate increases when approaching an object of interest. Dolphin echolocation clicks are amongst the loudest sounds made by marine animals.[102]
 
@@ -253,7 +251,7 @@ Because dolphins are generally associated in groups, communication is necessary.
 
 Jumping and playing
 
-PacificWhiteSidedDolphine.jpg Dolphins frequently leap above the water surface, this being done for various reasons. When travelling, jumping can save the dolphin energy as there is less friction while in the air.[112] This type of travel is known as porpoising.[113] Other reasons include orientation, social displays, fighting, non-verbal communication, entertainment and attempting to dislodge parasites.[114][115]
+Dolphins frequently leap above the water surface, this being done for various reasons. When travelling, jumping can save the dolphin energy as there is less friction while in the air.[112] This type of travel is known as porpoising.[113] Other reasons include orientation, social displays, fighting, non-verbal communication, entertainment and attempting to dislodge parasites.[114][115]
 
 Dolphins show various types of playful behavior, often including objects, self-made bubble rings, other dolphins or other animals.[116][117][118] When playing with objects or small animals, common behavior includes carrying the object or animal along using various parts of the body, passing it along to other members of the group or taking it from another member, or throwing it out of the water.[119] Dolphins have also been observed harassing animals in other ways, for example by dragging birds underwater without showing any intent to eat them.[120] Playful behaviour that involves another animal species with active participation of the other animal can also be observed however. Playful human interaction with dolphins being the most obvious example, however playful interactions have been observed in the wild with a number of other species as well, such as humpback whales and dogs.[121][122]
 
@@ -273,12 +271,12 @@ In 1995, Marten and Psarakos used television to test dolphin self-awareness.[136
 
 Sleeping
 
-דולפין_ישן.svg Generally, dolphins sleep with only one brain hemisphere in slow-wave sleep at a time, thus maintaining enough consciousness to breathe and to watch for possible predators and other threats. Earlier sleep stages can occur simultaneously in both hemispheres.[138][139][140] In captivity, dolphins seemingly enter a fully asleep state where both eyes are closed and there is no response to mild external stimuli. In this case, respiration is automatic; a tail kick reflex keeps the blowhole above the water if necessary. Anesthetized dolphins initially show a tail kick reflex.[141] Though a similar state has been observed with wild sperm whales, it is not known if dolphins in the wild reach this state.[142] The Indus river dolphin has a sleep method that is different from that of other dolphin species. Living in water with strong currents and potentially dangerous floating debris, it must swim continuously to avoid injury. As a result, this species sleeps in very short bursts which last between 4 and 60 seconds.[143]
+Generally, dolphins sleep with only one brain hemisphere in slow-wave sleep at a time, thus maintaining enough consciousness to breathe and to watch for possible predators and other threats. Earlier sleep stages can occur simultaneously in both hemispheres.[138][139][140] In captivity, dolphins seemingly enter a fully asleep state where both eyes are closed and there is no response to mild external stimuli. In this case, respiration is automatic; a tail kick reflex keeps the blowhole above the water if necessary. Anesthetized dolphins initially show a tail kick reflex.[141] Though a similar state has been observed with wild sperm whales, it is not known if dolphins in the wild reach this state.[142] The Indus river dolphin has a sleep method that is different from that of other dolphin species. Living in water with strong currents and potentially dangerous floating debris, it must swim continuously to avoid injury. As a result, this species sleeps in very short bursts which last between 4 and 60 seconds.[143]
 
 
 Threats
 
-Bottle-nosed-dolphin-Lobomycosis-disease.jpg fin of a bottlenose dolphin caused by lobomycosis, a fungal infection of the skin]]
+fin of a bottlenose dolphin caused by lobomycosis, a fungal infection of the skin]]
 
 Dolphins have few marine enemies. Some species or specific populations have none, making them apex predators. For most of the smaller species of dolphins, only a few of the larger sharks, such as the bull shark, dusky shark, tiger shark and great white shark, are a potential risk, especially for calves.[144] Some of the larger dolphin species, especially orcas (killer whales), may also prey on smaller dolphins, but this seems rare.[145] Dolphins also suffer from a wide variety of diseases and parasites.[146][147] The Cetacean morbillivirus in particular has been known to cause regional epizootics often leaving hundreds of animals of various species dead.[148][149] Symptoms of infection are often a severe combination of pneumonia, encephalitis and damage to the immune system, which greatly impair the cetacean's ability to swim and stay afloat unassisted.[150][151] A study at the U.S. National Marine Mammal Foundation revealed that dolphins, like humans, develop a natural form of type 2 diabetes which may lead to a better understanding of the disease and new treatments for both humans and dolphins.[152]
 
@@ -288,7 +286,7 @@ The study, published in the journal Marine Mammal Science, suggests that at leas
 
 Humans
 
-Whaling_in_the_Faroe_Islands.jpg on the Faroe Islands, killed in a drive hunt|alt=Rows of dead dolphin lying on concrete]] Some dolphin species are at risk of extinction, especially some river dolphin species such as the Amazon river dolphin, and the Ganges and Yangtze river dolphin, which are critically or seriously endangered. A 2006 survey found no individuals of the Yangtze river dolphin, which now appears to be functionally extinct.[157]
+on the Faroe Islands, killed in a drive hunt|alt=Rows of dead dolphin lying on concrete]] Some dolphin species are at risk of extinction, especially some river dolphin species such as the Amazon river dolphin, and the Ganges and Yangtze river dolphin, which are critically or seriously endangered. A 2006 survey found no individuals of the Yangtze river dolphin, which now appears to be functionally extinct.[157]
 
 Pesticides, heavy metals, plastics, and other industrial and agricultural pollutants that do not disintegrate rapidly in the environment concentrate in predators such as dolphins.[158] Injuries or deaths due to collisions with boats, especially their propellers, are also common.
 
@@ -305,7 +303,7 @@ Relationships with humans
 
  and religion
 
-Akrotiri_dolphins.jpg, Crete.]] Vessel_in_form_of_killer_whale_-_Nazca_pottery_in_the_American_Museum_of_Natural_History_-_DSC06105.JPG, Nazca culture, circa 200 AD. American Museum of Natural History collections.]] Dolphins have long played a role in human culture. Dolphins are sometimes used as symbols, for instance in heraldry.
+, Crete.]] , Nazca culture, circa 200 AD. American Museum of Natural History collections.]] Dolphins have long played a role in human culture. Dolphins are sometimes used as symbols, for instance in heraldry.
 
 In Greek myths, dolphins were seen invariably as helpers of humankind. Dolphins also seem to have been important to the Minoans, judging by artistic evidence from the ruined palace at Knossos. During the 2009 excavations of a major Mycenaean city at Iklaina, a striking fragment of a wall-paintings came to light, depicting a ship with three human figures and dolphins. Dolphins are common in Greek mythology, and many coins from ancient Greece have been found which feature a man, a boy or a deity riding on the back of a dolphin.[173] The Ancient Greeks welcomed dolphins; spotting dolphins riding in a ship's wake was considered a good omen.[174] In both ancient and later art, Cupid is often shown riding a dolphin. A dolphin rescued the poet Arion from drowning and carried him safe to land, at Cape Matapan, a promontory forming the southernmost point of the Peloponnesus. There was a temple to Poseidon and a statue of Arion riding the dolphin.[175]
 
@@ -331,19 +329,15 @@ In captivity
 
 Species
 
-Sea_World1.jpg
-
 The renewed popularity of dolphins in the 1960s resulted in the appearance of many dolphinaria around the world, making dolphins accessible to the public. Criticism and animal welfare laws forced many to close, although hundreds still exist around the world. In the United States, the best known are the SeaWorld marine mammal parks. In the Middle East the best known are Dolphin Bay at Atlantis, The Palm[181] and the Dubai Dolphinarium.[182]
 
-Long-finned_Pilot_Whale_(8793172995).jpg Various species of dolphins are kept in captivity. These small cetaceans are more often than not kept in theme parks, such as SeaWorld, commonly known as a dolphinarium. Bottlenose dolphins are the most common species of dolphin kept in dolphinariums as they are relatively easy to train, have a long lifespan in captivity and have a friendly appearance. Hundreds if not thousands of bottlenose dolphins live in captivity across the world, though exact numbers are hard to determine. Other species kept in captivity are spotted dolphins, false killer whales and common dolphins, Commerson's dolphins, as well as Rough-toothed Dolphins, but all in much lower numbers than the bottlenose dolphin. There are also fewer than ten pilot whales, Amazon river dolphins, Risso's dolphins, spinner dolphins, or tucuxi in captivity.[183] An unusual and very rare hybrid dolphin, known as a wolphin, is kept at the Sea Life Park in Hawaii, which is a cross between a bottlenose dolphin and a False Killer Whale.[184]
+Various species of dolphins are kept in captivity. These small cetaceans are more often than not kept in theme parks, such as SeaWorld, commonly known as a dolphinarium. Bottlenose dolphins are the most common species of dolphin kept in dolphinariums as they are relatively easy to train, have a long lifespan in captivity and have a friendly appearance. Hundreds if not thousands of bottlenose dolphins live in captivity across the world, though exact numbers are hard to determine. Other species kept in captivity are spotted dolphins, false killer whales and common dolphins, Commerson's dolphins, as well as Rough-toothed Dolphins, but all in much lower numbers than the bottlenose dolphin. There are also fewer than ten pilot whales, Amazon river dolphins, Risso's dolphins, spinner dolphins, or tucuxi in captivity.[183] An unusual and very rare hybrid dolphin, known as a wolphin, is kept at the Sea Life Park in Hawaii, which is a cross between a bottlenose dolphin and a False Killer Whale.[184]
 
 The number of killer whales kept in captivity is very small, especially when compared to the number of bottlenose dolphins, with 60 captive killer whales being held in aquaria .[185] The killer whale's intelligence, trainability, striking appearance, playfulness in captivity and sheer size have made it a popular exhibit at aquaria and aquatic theme parks. From 1976 to 1997, 55 whales were taken from the wild in Iceland, 19 from Japan, and three from Argentina. These figures exclude animals that died during capture. Live captures fell dramatically in the 1990s, and by 1999, about 40% of the 48 animals on display in the world were captive-born.[186]
 
 Organizations such as the Mote Marine Laboratory rescue and rehabilitate sick, wounded, stranded or orphaned dolphins while others, such as the Whale and Dolphin Conservation and Hong Kong Dolphin Conservation Society, work on dolphin conservation and welfare. India has declared the dolphin as its national aquatic animal in an attempt to protect the endangered Ganges River Dolphin. The Vikramshila Gangetic Dolphin Sanctuary has been created in the Ganges river for the protection of the animals.[187]
 
 Controversy
-
-2009-Seaworld-Shamu.jpg
 
 There is debate over the welfare of cetaceans in captivity, and often welfare can vary greatly dependent on the levels of care being provided at a particular facility. In the United States, facilities are regularly inspected by federal agencies to ensure that a high standard of welfare is maintained. Additionally, facilities can apply to become accredited by the Association of Zoos and Aquariums(AZA), which (for accreditation) requires "the highest standards of animal care and welfare in the world" to be achieved. Facilities such as SeaWorld and the Georgia Aquarium are accredited by the AZA. Organizations such as World Animal Protection and the Whale and Dolphin Conservation campaign against the practice of keeping them in captivity. In captivity, they often develop pathologies, such as the dorsal fin collapse seen in 60–90% of male killer whales. Captives have vastly reduced life expectancies, on average only living into their 20s, although there are examples of killer whales living longer, including several over 30 years old, and two captive orcas, Corky II and Lolita, are in their mid-40s. In the wild, females who survive infancy live 46 years on average, and up to 70–80 years in rare cases. Wild males who survive infancy live 31 years on average, and up to 50–60 years.[188] Captivity usually bears little resemblance to wild habitat, and captive whales' social groups are foreign to those found in the wild. Critics claim captive life is stressful due to these factors and the requirement to perform circus tricks that are not part of wild killer whale behavior. Wild killer whales may travel up to in a day, and critics say the animals are too big and intelligent to be suitable for captivity.[189] Captives occasionally act aggressively towards themselves, their tankmates, or humans, which critics say is a result of stress.[190]
 
@@ -357,8 +351,6 @@ Several scientists who have researched dolphin behaviour have proposed that dolp
 
 Military
 
-NMMP_dolphin_with_locator.jpeg
-
 A military dolphin is a dolphin trained for military uses. A number of militaries have employed dolphins for various purposes from finding mines to rescuing lost or trapped humans. The military use of dolphins, however, drew scrutiny during the Vietnam War when rumors circulated that the United States Navy was training dolphins to kill Vietnamese divers.[205] The United States Navy denies that at any point dolphins were trained for combat. Dolphins are still being trained by the United States Navy for other tasks as part of the U.S. Navy Marine Mammal Program. The Russian military is believed to have closed its marine mammal program in the early 1990s. In 2000 the press reported that dolphins trained to kill by the Soviet Navy had been sold to Iran.[206]
 
 Therapy
@@ -369,7 +361,7 @@ Consumption
 
 Cuisine
 
-Dolphin_Sashimi.jpg]] In some parts of the world, such as Taiji, Japan and the Faroe Islands, dolphins are traditionally considered as food, and are killed in harpoon or drive hunts.[210] Dolphin meat is consumed in a small number of countries worldwide, which include Japan[211] and Peru (where it is referred to as _chancho marino_, or "sea pork").[212] While Japan may be the best-known and most controversial example, only a very small minority of the population has ever sampled it.
+]] In some parts of the world, such as Taiji, Japan and the Faroe Islands, dolphins are traditionally considered as food, and are killed in harpoon or drive hunts.[210] Dolphin meat is consumed in a small number of countries worldwide, which include Japan[211] and Peru (where it is referred to as _chancho marino_, or "sea pork").[212] While Japan may be the best-known and most controversial example, only a very small minority of the population has ever sampled it.
 
 Dolphin meat is dense and such a dark shade of red as to appear black. Fat is located in a layer of blubber between the meat and the skin. When dolphin meat is eaten in Japan, it is often cut into thin strips and eaten raw as _sashimi_, garnished with onion and either horseradish or grated garlic, much as with _sashimi_ of whale or horse meat (_basashi_). When cooked, dolphin meat is cut into bite-size cubes and then batter-fried or simmered in a _miso_ sauce with vegetables. Cooked dolphin meat has a flavor very similar to beef liver.[213]
 

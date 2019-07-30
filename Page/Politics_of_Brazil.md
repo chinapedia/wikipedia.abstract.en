@@ -11,7 +11,7 @@ Due to a mix of proportional voting (the only first-past-the-post elections are 
 
 Constitution
 
-Supremo_Brasil.jpg.]] Brazil has had seven constitutions:
+.]] Brazil has had seven constitutions:
 
 -   Constitution of 1824 – the first Brazilian constitution, enacted by Emperor Pedro I. It was monarchic, hereditary, and highly centralized, permitting suffrage only to property-holders.
 -   Constitution of 1891 – the republic was proclaimed in 1889, but a new constitution was not promulgated until 1891. This federalist, democratic constitution was heavily influenced by the U.S. model. However, women and illiterates were not permitted to vote.
@@ -24,7 +24,7 @@ Supremo_Brasil.jpg.]] Brazil has had seven constitutions:
 
 Political parties and elections
 
-Congresso_brasileiro.jpg, the national legislature and the only in bicameral format.]] Palacio_do_Planalto.JPG, the seat of the executive power.]] According to sociologist Marcelo Ridenti, Brazilian politics is divided between internationalist liberals and statist nationalists.[3] The first group consists of politicians arguing that internationalization of the economy is essential for the development of the country, while the latter rely on interventionism, and protection of state enterprises.[4] According to Ridenti, who cites the Fernando Henrique Cardoso administration as an example of the first group and the Luiz Inácio Lula da Silva administration as an example of the second, "we have it cyclically".[5]
+, the national legislature and the only in bicameral format.]] , the seat of the executive power.]] According to sociologist Marcelo Ridenti, Brazilian politics is divided between internationalist liberals and statist nationalists.[3] The first group consists of politicians arguing that internationalization of the economy is essential for the development of the country, while the latter rely on interventionism, and protection of state enterprises.[4] According to Ridenti, who cites the Fernando Henrique Cardoso administration as an example of the first group and the Luiz Inácio Lula da Silva administration as an example of the second, "we have it cyclically".[5]
 
 Lula's Workers' Party tended to the statist nationalist side, although there are privatizing forces within his party and government, while Cardoso's Social Democratic Party tended to favor the international private market side by taking neoliberal policies.[6] Lula compares himself with Getúlio Vargas, Juscelino Kubitscheck and João Goulart, presidents seen as statist nationalists.[7]
 
@@ -69,13 +69,13 @@ Government
 
 Federal government
 
-Chamber_of_Deputies_of_Brazil_2.jpg, the lower house.]] 2030JC012.jpg, the upper house.]]
+, the lower house.]] , the upper house.]]
 
 Brazil is a federal presidential constitutional republic, based on representative democracy. The federal government has three independent branches: executive, legislative, and judicial. Executive power is exercised by the executive branch, headed by the President, advised by a Cabinet. The President is both the head of state and the head of government. Legislative power is vested upon the National Congress, a two-chamber legislature comprising the Federal Senate and the Chamber of Deputies. Judicial power is exercised by the judiciary, consisting of the Supreme Federal Court, the Superior Court of Justice and other Superior Courts, the National Justice Council and the Regional Federal Courts.
 
 States
 
-Rio-PalacioTiradentes.jpg holds the legislature of Rio de Janeiro state.]] Cidade_Administrativa_MG_1.jpg holds the executive power of Minas Gerais state.]]
+holds the legislature of Rio de Janeiro state.]] holds the executive power of Minas Gerais state.]]
 
 The 26 Brazilian _states_ are semi-autonomous self-governing entities organized with complete administration branches, relative financial independence and their own set of symbols, similar to those owned by the country itself. Despite their relative autonomy they all have the same model of administration, as set by the Federal Constitution.
 
@@ -87,7 +87,7 @@ Each of the 26 state governors must achieve more than 50% of the vote, including
 
 Municipalities
 
-Vista_do_Palácio_Anchieta.JPG, the municipal legislature of São Paulo city.]] Palácio_do_Anhangabaú_(Ed._Matarazzo)_01.JPG holds the municipal executive power of São Paulo.]] Brazil has no clear distinction between _towns_ and _cities_ (in effect, the Portuguese word _cidade_ means both). The only possible difference is regarding the municipalities that have a court of first instance and those that do not. The former are called _Sedes de Comarca_ (seats of a _comarca_, which is the territory under the rule of that court). Other than that, only size and importance differs one from another.
+, the municipal legislature of São Paulo city.]] holds the municipal executive power of São Paulo.]] Brazil has no clear distinction between _towns_ and _cities_ (in effect, the Portuguese word _cidade_ means both). The only possible difference is regarding the municipalities that have a court of first instance and those that do not. The former are called _Sedes de Comarca_ (seats of a _comarca_, which is the territory under the rule of that court). Other than that, only size and importance differs one from another.
 
 The municipality (_município_) is a territory comprising one urban area, the _sede_ (seat), from which it takes the name, and several other minor urban or rural areas, the _distritos_ (districts). The seat of a municipality must be the most populous urban area within it; when another urban area grows too much it usually splits from the original municipality to form another one.
 
@@ -101,7 +101,7 @@ Until 1974 Brazil had one state-level municipality, the State of Guanabara, now 
 
 The Federal District
 
-Câmara_Legislativa_do_Distrito_Federal_2012.jpg.]] The Federal District is an anomalous unit of the federation, as it is not organized in the same manner as a municipality, does not possess the same autonomy as a state (though usually ranked among them), and is closely related to the central power.
+.]] The Federal District is an anomalous unit of the federation, as it is not organized in the same manner as a municipality, does not possess the same autonomy as a state (though usually ranked among them), and is closely related to the central power.
 
 It is considered a single and indivisible entity, constituted by the seat, Brasília and some of the satellite cities. Brasília and the satellite cities are governed by the Regional Administrators individually and as a whole are governed by the Governor of the Federal District.
 
@@ -165,8 +165,6 @@ Cardoso's term was marked by other major changes in Brazilian politics and econo
 In two terms, Cardoso more than doubled the Brazilian public debt in comparison with all the previous Brazilian history, and his legacy has traumatized the people, who after more than years have never elected the Brazilian Social Democracy Party for national elections.
 
 Lula government (2003–2011)
-
-Brazilian_cabinet_meeting.jpg
 
 In 2002, at his fourth attempt, Lula was elected president. In part his victory was derived from the considerable unpopularity of Cardoso's second term, which failed to decrease the economic inequality, and in part from a softening of his and the party's radical stance, including a vice-presidential candidate from the Liberal Party, acceptance of an International Monetary Fund (IMF) accord agreed to by the previous government and a line of discourse friendly to the financial markets.
 

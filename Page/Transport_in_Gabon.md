@@ -3,7 +3,7 @@ Modes of transport in Gabon include rail, road, water, and air. The one rail lin
 
 Railways in Gabon
 
-Railways_in_Gabon.svg Until the 1970s, Gabon had no railroads. A 936 km railroad construction program, the Trans-Gabon Railway, began in October 1974. In its first stage, completed in 1983, the project linked the port of Owendo with the interior city of Booué (332 km). The second stage, completed in December 1986, linked Booué with Franceville (357 km) via Moanda, thus facilitating exports of manganese from the southeast and forestry exploitation in the same region. A proposed third stage would continue the line from Booué to Belinga in the northeast, where there are iron ore deposits.
+Until the 1970s, Gabon had no railroads. A 936 km railroad construction program, the Trans-Gabon Railway, began in October 1974. In its first stage, completed in 1983, the project linked the port of Owendo with the interior city of Booué (332 km). The second stage, completed in December 1986, linked Booué with Franceville (357 km) via Moanda, thus facilitating exports of manganese from the southeast and forestry exploitation in the same region. A proposed third stage would continue the line from Booué to Belinga in the northeast, where there are iron ore deposits.
 
 In 2003, the railway began the process of installing a satellite based telecommunications system.[1] As of 2004, Gabon State Railways totalled 814 km of standard-gauge track.
 

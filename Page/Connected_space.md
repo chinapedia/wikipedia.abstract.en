@@ -57,8 +57,6 @@ An example of a space that is not connected is a plane with an infinite line del
 
 Path connectedness
 
-Path-connected_space.svg
-
 A PATH-CONNECTED SPACE is a stronger notion of connectedness, requiring the structure of a path. A PATH from a point _x_ to a point _y_ in a topological space _X_ is a continuous function _ƒ_ from the unit interval [0,1] to _X_ with _ƒ_(0) = _x_ and _ƒ_(1) = _y_. A PATH-COMPONENT of _X_ is an equivalence class of _X_ under the equivalence relation which makes _x_ equivalent to _y_ if there is a path from _x_ to _y_. The space _X_ is said to be PATH-CONNECTED (or PATHWISE CONNECTED or 0-CONNECTED) if there is exactly one path-component, i.e. if there is a path joining any two points in _X_. Again, many authors exclude the empty space.
 
 Every path-connected space is connected. The converse is not always true: examples of connected spaces that are not path-connected include the extended long line _L_* and the _topologist's sine curve_.
@@ -75,14 +73,14 @@ Local connectedness
 
 A topological space is said to be LOCALLY CONNECTED AT A POINT _x_ if every neighbourhood of _x_ contains a connected open neighbourhood. It is LOCALLY CONNECTED if it has a base of connected sets. It can be shown that a space _X_ is locally connected if and only if every component of every open set of _X_ is open.
 
-Similarly, a topological space is said to be if it has a base of path-connected sets. An open subset of a locally path-connected space is connected if and only if it is path-connected. This generalizes the earlier statement about R^(_n_) and C^(_n_), each of which is locally path-connected. More generally, any topological manifold is locally path-connected. Topologists_(warsaw)_sine_curve.png Locally connected does not imply connected, nor does locally path-connected imply path connected. A simple example of a locally connected (and locally path-connected) space that is not connected (or path-connected) is the union of two separated intervals in $\R$, such as (0, 1) ∪ (2, 3).
+Similarly, a topological space is said to be if it has a base of path-connected sets. An open subset of a locally path-connected space is connected if and only if it is path-connected. This generalizes the earlier statement about R^(_n_) and C^(_n_), each of which is locally path-connected. More generally, any topological manifold is locally path-connected. Locally connected does not imply connected, nor does locally path-connected imply path connected. A simple example of a locally connected (and locally path-connected) space that is not connected (or path-connected) is the union of two separated intervals in $\R$, such as (0, 1) ∪ (2, 3).
 
 A classical example of a connected space that is not locally connected is the so called topologist's sine curve, defined as $T = \{(0,0)\} \cup \{(x,\sin\left(\tfrac{1}{x}\right):x \in (0,1] \}$, with the Euclidean topology induced by inclusion in $\R^2$.
 
 
 Set operations
 
-Union_et_intersection_d'ensembles.svgThe INTERSECTION of connected sets is not necessarily connected.
+The INTERSECTION of connected sets is not necessarily connected.
 
 The UNION of connected sets is not necessarily connected. Consider a collection {X_(i)} of connected sets whose union is X = ⋃_(i)X_(i). If is disconnected and U ∪ V is a separation of (with U, V disjoint and open in ), then each X_(i) must be entirely contained in either or , since otherwise, X_(i) ∩ U and X_(i) ∩ V (which are disjoint and open in X_(i)) would be a separation of X_(i), contradicting the assumption that it is connected.
 
@@ -94,8 +92,6 @@ This means that, if the union is disconnected, then the collection {X_(i)} can b
 2.  If the intersection of each pair of sets is not empty (∀i, j : X_(i) ∩ X_(j) ≠ ∅) then again they cannot be partitioned to collections with disjoint unions, so their union must be connected.
 3.  If the sets can be ordered as a "linked chain", i.e. indexed by integer indices and ∀i : X_(i) ∩ X_(i + 1) ≠ ∅, then again their union must be connected.
 4.  If the sets are pairwise-disjoint and the quotient space X/{X_(i)} is connected, then must be connected. Otherwise, if U ∪ V is a separation of then q(U) ∪ q(V) is a separation of the quotient space (since q(U), q(V) are disjoint and open in the quotient space).[3]
-
-Connectedness-of-set-difference.png
 
 The set difference of connected sets is not necessarily connected. However, if X ⊇ Y and their difference is disconnected (and thus can be written as a union of two open sets _X_ and _X_), then the union of _Y_ with each such component is connected (i.e. Y ∪ X_(i) is connected for all _i_).
 

@@ -7,22 +7,22 @@ Popular brands of premixed gelatin include: Aeroplane Jelly in Australia, Hartle
 
 History
 
-Eliza_Acton_Orange_Jellies_1845.jpg leaves, in Eliza Acton's _Modern Cookery for Private Families_, 1845]]
+leaves, in Eliza Acton's _Modern Cookery for Private Families_, 1845]]
 
-Before gelatin became widely available as a commercial product, the most typical jelly was "calf's foot jelly". As the name indicates, this was made by extracting and purifying gelatin from the foot of a calf. This gelatin was used for savory dishes in aspic, or was mixed with fruit juice and sugar for a dessert.[1] Puddingsbhm.jpg's _Book of Household Management_, 1861. Top left, "jelly of two colours", top right, "raspberry cream" flavour]] In the eighteenth century, gelatin from calf's feet, isinglass and hartshorn was colored blue with violet juice, yellow with saffron, red with cochineal and green with spinach and allowed to set in layers in small, narrow glasses. It was flavored with sugar, lemon juice and mixed spices. This preparation was called _jelly_; English cookery writer Hannah Glasse was the first to record the use of this jelly in trifle in her book _The Art of Cookery_, first published in 1747.[2] Preparations on making jelly (including illustrations) appear in the best selling cookbooks of English writers Eliza Acton and Isabella Beeton in the 19th century.
+Before gelatin became widely available as a commercial product, the most typical jelly was "calf's foot jelly". As the name indicates, this was made by extracting and purifying gelatin from the foot of a calf. This gelatin was used for savory dishes in aspic, or was mixed with fruit juice and sugar for a dessert.[1] 's _Book of Household Management_, 1861. Top left, "jelly of two colours", top right, "raspberry cream" flavour]] In the eighteenth century, gelatin from calf's feet, isinglass and hartshorn was colored blue with violet juice, yellow with saffron, red with cochineal and green with spinach and allowed to set in layers in small, narrow glasses. It was flavored with sugar, lemon juice and mixed spices. This preparation was called _jelly_; English cookery writer Hannah Glasse was the first to record the use of this jelly in trifle in her book _The Art of Cookery_, first published in 1747.[2] Preparations on making jelly (including illustrations) appear in the best selling cookbooks of English writers Eliza Acton and Isabella Beeton in the 19th century.
 
 
 Preparation
 
 To make a jelly, gelatin is dissolved in hot liquid with the desired flavors and other additives. These latter ingredients usually include sugar, fruit juice, or sugar substitutes; they may be added and varied during preparation, or pre-mixed with the gelatin in a commercial product which merely requires the addition of hot water.
 
-In addition to sweeteners, the prepared commercial blends generally contain flavoring agents and other additives, such as adipic acid, fumaric acid, sodium citrate, and artificial flavorings and food colors. Because the collagen is processed extensively, the final product is not categorized as a meat or animal product by the US federal government. 00505_Weihnachtsgelee_Sanok_2012.JPG Prepared commercial blends may be sold as a powder or as a concentrated gelatinous block, divided into small squares. Either type is mixed with sufficient hot water to completely dissolve it, and then mixed with enough cold water to make the volume of liquid specified on the packet.
+In addition to sweeteners, the prepared commercial blends generally contain flavoring agents and other additives, such as adipic acid, fumaric acid, sodium citrate, and artificial flavorings and food colors. Because the collagen is processed extensively, the final product is not categorized as a meat or animal product by the US federal government. Prepared commercial blends may be sold as a powder or as a concentrated gelatinous block, divided into small squares. Either type is mixed with sufficient hot water to completely dissolve it, and then mixed with enough cold water to make the volume of liquid specified on the packet.
 
 The solubility of powdered gelatin can be enhanced by sprinkling it into the liquid several minutes before heating, "blooming" the individual granules.[3] The fully dissolved mixture is then refrigerated, slowly forming a colloidal gel as it cools.
 
 Jelly may be enhanced in many ways, such as using decorative molds, creating multicolored layers by adding a new layer of slightly cooled liquid over the previously-solidified one, or suspending non-soluble edible elements such as marshmallows or fruit. Some types of fresh fruit and their unprocessed juices are incompatible with jelly; see the Chemistry section below.
 
-When fully chilled, the most common ratios of gelatin to liquid (as instructed on commercial packaging) usually result in a custard-like texture which can retain detailed shapes when cold but melts back to a viscous liquid when warm. A recipe calling for the addition of additional gelatin to regular jelly gives a rubbery product that can be cut into shapes with cookie cutters and eaten with fingers (called "Knox Blox" by the Knox company, makers of unflavored gelatin). Higher gelatin ratios can be used to increase the stability of the gel, culminating in gummy candies which remain rubbery solids at room temperature (see Bloom (test)).Jelly.jpg jelly cubes, now manufactured by Hartley's]]
+When fully chilled, the most common ratios of gelatin to liquid (as instructed on commercial packaging) usually result in a custard-like texture which can retain detailed shapes when cold but melts back to a viscous liquid when warm. A recipe calling for the addition of additional gelatin to regular jelly gives a rubbery product that can be cut into shapes with cookie cutters and eaten with fingers (called "Knox Blox" by the Knox company, makers of unflavored gelatin). Higher gelatin ratios can be used to increase the stability of the gel, culminating in gummy candies which remain rubbery solids at room temperature (see Bloom (test)). jelly cubes, now manufactured by Hartley's]]
 
 The Bloom Strength of a gelatin mixture is the measure of how strong it is. It is defined by the force in grams required to press a 12.5 mm diameter plunger 4 mm into 112 g of a standard 6.67% w/v gelatin gel at 10 °C. The Bloom Strength of a gel is useful to know when determining the possibility of substituting a gelatin of one Bloom Strength for a gelatin of another. One can use the following equation:
 
@@ -34,9 +34,9 @@ Where C = concentration, B = Bloom strength and k = constant. For example, when 
 
 Jelly shots
 
-Tray_of_jello_shots.jpg prior to refrigeration]] A jelly shot (usually called a JELL-O SHOT in North America and VODKA JELLY or JELLY SHOT in the UK and Australia) is a shooter in which liquor, usually vodka, rum, tequila, or neutral grain spirit, replaces some of the water or fruit juice that is used to congeal the gel.
+prior to refrigeration]] A jelly shot (usually called a JELL-O SHOT in North America and VODKA JELLY or JELLY SHOT in the UK and Australia) is a shooter in which liquor, usually vodka, rum, tequila, or neutral grain spirit, replaces some of the water or fruit juice that is used to congeal the gel.
 
-The American satirist and mathematician Tom Lehrer claims to have invented the jelly shot in the 1950s while working for the National Security Agency, where he developed vodka jelly as a way to circumvent a restriction of alcoholic beverages on base.[5] An early published recipe for an alcoholic jelly drink dates from 1862, found in _How to Mix Drinks, or The Bon Vivant's Companion_ by Jerry Thomas: his recipe for "Punch Jelly" calls for the addition of isinglass or other gelatin to a punch made from cognac, rum, and lemon juice.[6][7] Gelatin_Art_Dessert.jpg
+The American satirist and mathematician Tom Lehrer claims to have invented the jelly shot in the 1950s while working for the National Security Agency, where he developed vodka jelly as a way to circumvent a restriction of alcoholic beverages on base.[5] An early published recipe for an alcoholic jelly drink dates from 1862, found in _How to Mix Drinks, or The Bon Vivant's Companion_ by Jerry Thomas: his recipe for "Punch Jelly" calls for the addition of isinglass or other gelatin to a punch made from cognac, rum, and lemon juice.[6][7]
 
 Gelatin art desserts
 
@@ -94,7 +94,7 @@ Although eating tainted beef can lead to New Variant Creutzfeldt–Jakob disease
 
 Regional names
 
-500px_photo_(49967732).jpeg Gelatin desserts are called gelatin or by the trademarked name Jello in the USA. In Great Britain, Ireland, Canada, Australia, New Zealand and other British Commonwealth countries, Gelatin desserts are called jelly.
+Gelatin desserts are called gelatin or by the trademarked name Jello in the USA. In Great Britain, Ireland, Canada, Australia, New Zealand and other British Commonwealth countries, Gelatin desserts are called jelly.
 
 
 See also

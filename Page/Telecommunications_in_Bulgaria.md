@@ -1,4 +1,4 @@
-Vakareltower.JPG]]
+]]
 
 TELECOMMUNICATIONS IN BULGARIA include radio, television, fixed and mobile telephones, and the Internet.
 

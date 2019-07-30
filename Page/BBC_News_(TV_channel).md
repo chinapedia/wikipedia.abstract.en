@@ -34,14 +34,14 @@ The channel relocated, along with the remaining BBC News services at Television 
 
 BBC News HD
 
-BBC_News_HD_Logo.svg On 16 July 2013, the BBC announced that a high-definition (HD) simulcast of BBC News would be launched by early 2014.[14][15] The channel broadcasts on the BBC's new HD multiplex on Freeview. HD output from BBC News has been simulcast on BBC One HD and BBC Two HD since the move to Broadcasting House in March 2013. The channel launched on 10 December 2013 (at an early date), though will roll-out nationwide up to June 2014 (as will BBC Four HD and CBeebies HD).[16]
+On 16 July 2013, the BBC announced that a high-definition (HD) simulcast of BBC News would be launched by early 2014.[14][15] The channel broadcasts on the BBC's new HD multiplex on Freeview. HD output from BBC News has been simulcast on BBC One HD and BBC Two HD since the move to Broadcasting House in March 2013. The channel launched on 10 December 2013 (at an early date), though will roll-out nationwide up to June 2014 (as will BBC Four HD and CBeebies HD).[16]
 
 
 Programming
 
 News
 
-BBC_News_(UK)_channel,_new_look_19_March_2013.jpg Each hour consists of headlines on each quarter-hour, extended at the top of the hour to form the main part of the daily schedule though these are interspaced with other programmes, generally at weekends. This will be often be displaced by rolling news coverage including reports and live interviews. This channel also provides half-hourly weather summaries by forecasters from the BBC Weather centre and the sports news from the BBC Sport centre at MediaCityUK. At 21:25 a global weather forecast is broadcast and 21:55 _Weather for the Week Ahead_ is broadcast.
+Each hour consists of headlines on each quarter-hour, extended at the top of the hour to form the main part of the daily schedule though these are interspaced with other programmes, generally at weekends. This will be often be displaced by rolling news coverage including reports and live interviews. This channel also provides half-hourly weather summaries by forecasters from the BBC Weather centre and the sports news from the BBC Sport centre at MediaCityUK. At 21:25 a global weather forecast is broadcast and 21:55 _Weather for the Week Ahead_ is broadcast.
 
 Breaking news
 
@@ -241,8 +241,6 @@ The Lambert Report into the channel's performance in 2002 called upon News 24 to
 Bulletins on BBC One moved into a new set in January 2003 although retained the previous ivory Lambie-Nairn titles until February 2004. News 24 updated the title colours slightly to match those of BBC One bulletins in time for the 50th anniversary of BBC television news on 5 July 2004.[30]
 
 Countdown sequence
-
-BBC_News_channel_countdown.png
 
 An important part of the channel's presentation since launch has been the top of the hour countdown sequence, since there is no presentation system with continuity announcers so the countdown provides a link to the beginning of the next hour. A similar musical device is used on BBC Radio 5 Live, and mirrors the pips on BBC Radio 4.
 

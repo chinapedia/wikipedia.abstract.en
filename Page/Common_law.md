@@ -2,8 +2,6 @@ COMMON LAW is the body of law derived from judicial decisions of courts and simi
 
 Common lawso named because it was "common" to all the king's courts across Englandoriginated in the practices of the courts of the English kings in the centuries following the Norman Conquest in 1066. The British Empire spread the English legal system to its historical colonies, many of which retain common law systems today,[11][12][13][14] [15] including Australia,[16][17][18] Canada (except Quebec), India, Ireland, Israel, New Zealand, Nigeria, Pakistan, Singapore, South Africa, and the United States.
 
-Map_of_the_Legal_systems_of_the_world_(en).png
-
 
 Definitions
 
@@ -83,7 +81,7 @@ One example of the gradual change that typifies evolution of the common law is t
 
 A first exception to this rule arose in 1852, in the case of _Thomas v. Winchester_,[85] when New York's highest court held that mislabeling a poison as an innocuous herb, and then selling the mislabeled poison through a dealer who would be expected to resell it, put "human life in imminent danger". _Thomas_ relied on this reason to create an exception to the "privity" rule. In, 1909, New York held in _Statler v. Ray Mfg. Co._[86] that a coffee urn manufacturer was liable to a person injured when the urn exploded, because the urn "was of such a character inherently that, when applied to the purposes for which it was designed, it was liable to become a source of great danger to many people if not carefully and properly constructed".
 
-Yet the privity rule survived. In _Cadillac Motor Car Co. v. Johnson_,[87] (decided in 1915 by the federal appeals court for New York and several neighboring states), the court held that a car owner could not recover for injuries from a defective wheel, when the automobile owner had a contract only with the automobile dealer and not with the manufacturer, even though there was "no question that the wheel was made of dead and ‘dozy‘ wood, quite insufficient for its purposes." The _Cadillac_ court was willing to acknowledge that the case law supported exceptions for "an article dangerous in its nature or likely to become so in the course of the ordinary usage to be contemplated by the vendor". However, held the _Cadillac_ court, "one who manufactures articles dangerous only if defectively made, or installed, e.g., tables, chairs, pictures or mirrors hung on the walls, carriages, automobiles, and so on, is not liable to third parties for injuries caused by them, except in case of willful injury or fraud," Cardozo_Nomination.JPG Finally, in the famous case of _MacPherson v. Buick Motor Co._,[88] in 1916, Judge Benjamin Cardozo for New York's highest court pulled a broader principle out of these predecessor cases. The facts were almost identical to _Cadillac_ a year earlier: a wheel from a wheel manufacturer was sold to Buick, to a dealer, to MacPherson, and the wheel failed, injuring MacPherson. Judge Cardozo held:
+Yet the privity rule survived. In _Cadillac Motor Car Co. v. Johnson_,[87] (decided in 1915 by the federal appeals court for New York and several neighboring states), the court held that a car owner could not recover for injuries from a defective wheel, when the automobile owner had a contract only with the automobile dealer and not with the manufacturer, even though there was "no question that the wheel was made of dead and ‘dozy‘ wood, quite insufficient for its purposes." The _Cadillac_ court was willing to acknowledge that the case law supported exceptions for "an article dangerous in its nature or likely to become so in the course of the ordinary usage to be contemplated by the vendor". However, held the _Cadillac_ court, "one who manufactures articles dangerous only if defectively made, or installed, e.g., tables, chairs, pictures or mirrors hung on the walls, carriages, automobiles, and so on, is not liable to third parties for injuries caused by them, except in case of willful injury or fraud," Finally, in the famous case of _MacPherson v. Buick Motor Co._,[88] in 1916, Judge Benjamin Cardozo for New York's highest court pulled a broader principle out of these predecessor cases. The facts were almost identical to _Cadillac_ a year earlier: a wheel from a wheel manufacturer was sold to Buick, to a dealer, to MacPherson, and the wheel failed, injuring MacPherson. Judge Cardozo held:
 
 Cardozo's new "rule" exists in no prior case, but is inferrable as a synthesis of the "thing of danger" principle stated in them, merely extending it to "foreseeable danger" even if "the purposes for which it was designed" were not themselves "a source of great danger". _MacPherson_ takes some care to present itself as foreseeable progression, not a wild departure. Cardozo continues to adhere to the original principle of _Winterbottom_, that "absurd and outrageous consequences" must be avoided, and he does so by drawing a new line in the last sentence quoted above: "There must be knowledge of a danger, not merely possible, but probable." But while adhering to the underlying principle that _some_ boundary is necessary, _MacPherson_ overruled the prior common law by rendering the formerly dominant factor in the boundary, that is, the privity formality arising out of a contractual relationship between persons, totally irrelevant. Rather, the most important factor in the boundary would be the nature of the thing sold and the foreseeable uses that downstream purchasers would make of the thing.
 
@@ -158,7 +156,7 @@ The form of reasoning used in common law is known as casuistry or case-based rea
 
 Medieval English common law
 
-The early development of case-law in the thirteenth century has been traced to Bracton's _On the Laws and Customs of England_ and led to the yearly compilations of court cases known as Year Books, of which the first extant was published in 1268, the same year that Bracton died.[115] The Year Books are known as the law reports of medieval England, and are a principal source for knowledge of the developing legal doctrines, concepts, and methods in the period from the 13th to the 16th centuries, when the common law developed into recognizable form.[116][117] Westminster_Hall_edited.jpg in the Palace of Westminster, London, early 19th century.]]
+The early development of case-law in the thirteenth century has been traced to Bracton's _On the Laws and Customs of England_ and led to the yearly compilations of court cases known as Year Books, of which the first extant was published in 1268, the same year that Bracton died.[115] The Year Books are known as the law reports of medieval England, and are a principal source for knowledge of the developing legal doctrines, concepts, and methods in the period from the 13th to the 16th centuries, when the common law developed into recognizable form.[116][117] in the Palace of Westminster, London, early 19th century.]]
 
 In 1154, Henry II became the first Plantagenet king. Among many achievements, Henry institutionalized common law by creating a unified system of law "common" to the country through incorporating and elevating local custom to the national, ending local control and peculiarities, eliminating arbitrary remedies and reinstating a jury system—citizens sworn on oath to investigate reliable criminal accusations and civil claims. The jury reached its verdict through evaluating common local knowledge, not necessarily through the presentation of evidence, a distinguishing factor from today's civil and criminal court systems.
 
@@ -226,8 +224,6 @@ One of the major reforms of the late 19th century and early 20th century was the
 Alternatives to common law systems
 
 Civil law systems--comparisons and contrasts to common law
-
-Corpus_Iuris_Civilis_02.jpg
 
 The main alternative to the common law system is the civil law system, which is used in Continental Europe, and most of Central and South America.
 
@@ -345,7 +341,7 @@ The U.S. state of California has a system based on common law, but it has codifi
 
 United States federal courts (1789 and 1938)
 
-Uscatitle11.jpg and codification of federal statutes.]]
+and codification of federal statutes.]]
 
 The United States federal government (as opposed to the states) has a variant on a common law system. United States federal courts only act as interpreters of statutes and the constitution by elaborating and precisely defining broad statutory language (connotation 1(b) above), but, unlike state courts, do not act as an independent source of common law.
 
@@ -371,7 +367,7 @@ When India became part of the British Empire, there was a break in tradition, an
 
 Post-partition India (1948)
 
-Constitution_of_India.jpg is the longest written constitution for a country, containing 395 articles, 12 schedules, numerous amendments and 117,369 words.]]
+is the longest written constitution for a country, containing 395 articles, 12 schedules, numerous amendments and 117,369 words.]]
 
 Post-partition, India retained its common law system.[170] Much of contemporary Indian law shows substantial European and American influence. Legislation first introduced by the British is still in effect in modified form today. During the drafting of the Indian Constitution, laws from Ireland, the United States, Britain, and France were all synthesized to produce a refined set of Indian laws. Indian laws also adhere to the United Nations guidelines on human rights law and environmental law. Certain international trade laws, such as those on intellectual property, are also enforced in India.
 
@@ -426,7 +422,7 @@ South Korea is undergoing a transition of its legal system to common law due to 
 
 Scholarly works
 
-WilliamBlackstone.jpg as illustrated in his _Commentaries on the Laws of England_.]] Edward Coke, a 17th-century Lord Chief Justice of the English Court of Common Pleas and a Member of Parliament, wrote several legal texts that collected and integrated centuries of case law. Lawyers in both England and America learned the law from his _Institutes_ and _Reports_ until the end of the 18th century. His works are still cited by common law courts around the world.
+as illustrated in his _Commentaries on the Laws of England_.]] Edward Coke, a 17th-century Lord Chief Justice of the English Court of Common Pleas and a Member of Parliament, wrote several legal texts that collected and integrated centuries of case law. Lawyers in both England and America learned the law from his _Institutes_ and _Reports_ until the end of the 18th century. His works are still cited by common law courts around the world.
 
 The next definitive historical treatise on the common law is _Commentaries on the Laws of England_, written by Sir William Blackstone and first published in 1765–1769. Since 1979, a facsimile edition of that first edition has been available in four paper-bound volumes. Today it has been superseded in the English part of the United Kingdom by Halsbury's Laws of England that covers both common and statutory English law.
 

@@ -11,7 +11,7 @@ BMW has significant motorsport history, especially in touring cars, Formula 1, s
 
 History
 
-BMW AG originated with three other manufacturing companies, Rapp Motorenwerke and Bayerische Flugzeugwerke (BFw) in Bavaria, and Fahrzeugfabrik Eisenach in Thuringia. The company is now known as BMW or Bayerische Motoren Werke. Aircraft engine manufacturer Rapp Motorenwerke became Bayerische Motorenwerke in 1916. The engine manufacturer, which built proprietary industrial engines after World War I, was then bought by the owner of BFw who then merged BFw into BMW and moved the engine works onto BFw's premises. BFw's motorcycle sideline was improved upon by BMW and became an integral part of their business. Souvenirs_from_BMW_Museum_Munich.jpg Museum souvenirs]] The initial products were exhibited in 1922 in Munich plant. These souvenirs were not intended for sale. It was resulted with the historical exhibition which was organized in 1966.[2] BMW became an automobile manufacturer in 1929 when it purchased Fahrzeugfabrik Eisenach, which, at the time, built Austin Sevens under licence under the Dixi marque.[3] BMW's team of engineers progressively developed their cars from small Seven-based cars into six-cylinder luxury cars and, in 1936, began production of the BMW 328 sports car. Aircraft engines, motorcycles, and automobiles would be BMW's main products until World War II. During the war, against the wishes of its director Franz Josef Popp, BMW concentrated on aircraft engine production, with motorcycles as a side line and automobile manufacture stopped altogether.
+BMW AG originated with three other manufacturing companies, Rapp Motorenwerke and Bayerische Flugzeugwerke (BFw) in Bavaria, and Fahrzeugfabrik Eisenach in Thuringia. The company is now known as BMW or Bayerische Motoren Werke. Aircraft engine manufacturer Rapp Motorenwerke became Bayerische Motorenwerke in 1916. The engine manufacturer, which built proprietary industrial engines after World War I, was then bought by the owner of BFw who then merged BFw into BMW and moved the engine works onto BFw's premises. BFw's motorcycle sideline was improved upon by BMW and became an integral part of their business. Museum souvenirs]] The initial products were exhibited in 1922 in Munich plant. These souvenirs were not intended for sale. It was resulted with the historical exhibition which was organized in 1966.[2] BMW became an automobile manufacturer in 1929 when it purchased Fahrzeugfabrik Eisenach, which, at the time, built Austin Sevens under licence under the Dixi marque.[3] BMW's team of engineers progressively developed their cars from small Seven-based cars into six-cylinder luxury cars and, in 1936, began production of the BMW 328 sports car. Aircraft engines, motorcycles, and automobiles would be BMW's main products until World War II. During the war, against the wishes of its director Franz Josef Popp, BMW concentrated on aircraft engine production, with motorcycles as a side line and automobile manufacture stopped altogether.
 
 After the war, BMW survived by making pots, pans, and bicycles until 1948, when it restarted motorcycle production. Meanwhile, BMW's factory in Eisenach fell in the Soviet occupation zone and the Soviets restarted production of pre-war BMW motorcycles and automobiles there. This continued until 1955, after which they concentrated on cars based on pre-war DKW designs. BMW began building cars in Bavaria in 1952 with the BMW 501 luxury saloon. Sales of their luxury saloons were too small to be profitable, so BMW supplemented this with building Isettas under licence. Slow sales of luxury cars and small profit margins from microcars caused the BMW board to consider selling the operation to Daimler-Benz. However, Herbert Quandt was convinced to purchase a controlling interest in BMW and to invest in its future.
 
@@ -63,7 +63,7 @@ For the fiscal year 2017, BMW reported earnings of EUR 8.620 billion, with an an
 
 Motorcycles
 
-R32-pn.jpg motorcycle, the first BMW motor vehicle.]] 2015_R1200RT_right.jpg]] BMW began production of motorcycle engines and then motorcycles after World War I.[21] Its motorcycle brand is now known as BMW Motorrad. Their first successful motorcycle after the failed Helios and Flink, was the "R32" in 1923, though production originally began in 1921.[22] This had a "boxer" twin engine, in which a cylinder projects into the air-flow from each side of the machine. Apart from their single-cylinder models (basically to the same pattern), all their motorcycles used this distinctive layout until the early 1980s. Many BMW's are still produced in this layout, which is designated the R Series.
+motorcycle, the first BMW motor vehicle.]] ]] BMW began production of motorcycle engines and then motorcycles after World War I.[21] Its motorcycle brand is now known as BMW Motorrad. Their first successful motorcycle after the failed Helios and Flink, was the "R32" in 1923, though production originally began in 1921.[22] This had a "boxer" twin engine, in which a cylinder projects into the air-flow from each side of the machine. Apart from their single-cylinder models (basically to the same pattern), all their motorcycles used this distinctive layout until the early 1980s. Many BMW's are still produced in this layout, which is designated the R Series.
 
 The entire BMW Motorcycle production has, since 1969, been located at the company's Berlin-Spandau factory.
 
@@ -128,7 +128,7 @@ File:2019 BMW Z4 sDrive20i M Sport Automatic 2.0.jpg|G29 Z4
 
 i models
 
-2018_BMW_i3_facelift_(1).jpg electric car]] 2016_BMW_i8.jpg plug-in hybrid|alt=]] 2018_I8_Roadster.jpg
+electric car]] plug-in hybrid|alt=]]
 
 The BMW i is a sub-brand of BMW founded in 2011 to design and manufacture plug-in electric vehicles.[26][27] The sub-brand initial plans called for the release of two vehicles; series production of the BMW i3 all-electric car began in September 2013,[28] and the market launch took place in November 2013 with the first retail deliveries in Germany.[29] The BMW i8 sports plug-in hybrid car was launched in Germany in June 2014.[30]
 
@@ -181,7 +181,7 @@ File:Calder CSL.jpg|1975 3.0 CSL Art Car by Alexander Calder File:Warhol1.JPG%7C
 
 Architecture
 
-4_cilindros_y_museo_BMW,_Múnich,_Alemania_2012-04-28,_DD_02.JPG The global BMW Headquarters in Munich represents the cylinder head of a 4-cylinder engine. It was designed by Karl Schwanzer and was completed in 1972. The building has become a European icon[50] and was declared a protected historic building in 1999. The main tower consists of four vertical cylinders standing next to and across from each other. Each cylinder is divided horizontally in its center by a mold in the facade. Notably, these cylinders do not stand on the ground; they are suspended on a central support tower.
+The global BMW Headquarters in Munich represents the cylinder head of a 4-cylinder engine. It was designed by Karl Schwanzer and was completed in 1972. The building has become a European icon[50] and was declared a protected historic building in 1999. The main tower consists of four vertical cylinders standing next to and across from each other. Each cylinder is divided horizontally in its center by a mold in the facade. Notably, these cylinders do not stand on the ground; they are suspended on a central support tower.
 
 BMW Museum is a futuristic cauldron-shaped building, which was also designed by Karl Schwanzer and opened in 1972.[51] The interior has a spiral theme and the roof is a 40-metre diameter BMW logo.
 
@@ -204,7 +204,7 @@ In 2012, BMW began sponsoring Independent Collectors production of the _BMW Art 
 
 Production and Sales
 
-BMW_Leipzig_MEDIA_050719_Download_Karosseriebau_max.jpg 3 Series bodies in Leipzig, Germany]]
+3 Series bodies in Leipzig, Germany]]
 
 BMW produces complete automobiles in the following countries:
 
@@ -287,7 +287,7 @@ BMW has collaborated with other car manufacturers on the following occasions:
 
 Sponsorships
 
-London_2012_Olympic_BMW.jpg BMW made a six-year sponsorship deal with the United States Olympic Committee in July 2010.[86][87]
+BMW made a six-year sponsorship deal with the United States Olympic Committee in July 2010.[86][87]
 
 In golf, BMW has sponsored various events,[88] including the PGA Championship since 2007,[89][90] the Italian Open form 2009-2012, the BMW Masters in China from 2012-2015[91][92] and the BMW International Open in Munich since 1989.[93]
 
@@ -344,7 +344,7 @@ BMWs with a VIN starting with "NC0" are manufactured in South Africa.
 
 United States
 
-BMW_Zentrum_Spartanburg.jpg, South Carolina]]
+, South Carolina]]
 
 BMW cars have been officially sold in the United States since 1956[120] and manufactured in the United States since 1994.[121] The first BMW dealership in the United States opened in 1975.[122] In 2016, BMW was the twelfth highest selling brand in the United States.[123]
 

@@ -34,7 +34,7 @@ The Republic of Ireland had a population of 4,761,865 at the 2016 census.[1]
 
 Demographic history
 
-Population_of_Ireland_and_Europe_1750_to_2005.svg The island of Ireland, throughout most of its history, had a small population, comparable to that of other regions of similar area in Europe. In the 18th and early 19th centuries, Ireland experienced a major population boom as a result of the Agricultural and Industrial Revolutions. In the 50-year period 1790-1840, the population of the island doubled from 4 million to 8 million. At its peak, Ireland's population density was similar to that of England and continental Europe.
+The island of Ireland, throughout most of its history, had a small population, comparable to that of other regions of similar area in Europe. In the 18th and early 19th centuries, Ireland experienced a major population boom as a result of the Agricultural and Industrial Revolutions. In the 50-year period 1790-1840, the population of the island doubled from 4 million to 8 million. At its peak, Ireland's population density was similar to that of England and continental Europe.
 
 This changed dramatically with the Great Famine of the mid-19th century, which led to mass starvation and consequent mass emigration. In the area covering the present day Republic of Ireland, the population reached about 6.5 million in the mid 1840s. Ten years later it was down to 5 million. The population continued a slow decline well into the 20th century, with the Republic recording a low of 2.8 million in the 1961 census.[2]
 
@@ -257,7 +257,7 @@ The following demographic statistics are from the Republic of Ireland's Central 
 
 Population[23]:
 
-Pyramidireland.gif showing the Republic of Ireland's age and gender structure, from the CSO.]]
+showing the Republic of Ireland's age and gender structure, from the CSO.]]
 
     Population: 5,068,050 (July 2018 est.)[24]
 
@@ -267,15 +267,13 @@ Irish 82.2%, Irish travelers 0.7%, other white 9.5%, Asian 2.1%, black 1.4%, oth
 
 Age structure[26]:
 
-Irelandpop.svg
-
     _0-14 years:_ 21.37% (male 554,110 /female 529,067)
     _15-24 years:_ 11.92% (male 306,052 /female 297,890)
     _25-54 years:_ 42.86% (male 1,091,495 /female 1,080,594)
     _55-64 years:_ 10.53% (male 267,255 /female 266,438)
     _65 years and over:_ 13.32% (male 312,694 /female 362,455) (2018 est.)
 
-NonnationalsIreland2006.png of 10,000 or more in 2006. Non-European Union nationals are shown exploded.]]
+of 10,000 or more in 2006. Non-European Union nationals are shown exploded.]]
 
 Median age:
     total: 37.1 years Country comparison to the world: 70th

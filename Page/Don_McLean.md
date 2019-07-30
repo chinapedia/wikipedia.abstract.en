@@ -46,7 +46,7 @@ On April 7, 2015, McLean’s original working manuscript for "American Pie" sold
 
 Subsequent recordings
 
-Don_McLean_1976.JPG Personnel from the _American Pie_ album sessions were retained for his third album _Don McLean_, including the producer, Ed Freeman, Rob Rothstein on bass, and Warren Bernhardt on piano. The song "The Pride Parade" provides an insight into McLean's immediate reaction to stardom. McLean told _Melody Maker_ in 1973 that _Tapestry_ was an album by someone previously concerned with external situations. _American Pie_ combines externals with internals, and the resultant success of that album makes the third one (_Don McLean_) entirely introspective."
+Personnel from the _American Pie_ album sessions were retained for his third album _Don McLean_, including the producer, Ed Freeman, Rob Rothstein on bass, and Warren Bernhardt on piano. The song "The Pride Parade" provides an insight into McLean's immediate reaction to stardom. McLean told _Melody Maker_ in 1973 that _Tapestry_ was an album by someone previously concerned with external situations. _American Pie_ combines externals with internals, and the resultant success of that album makes the third one (_Don McLean_) entirely introspective."
 
 Other songs written by McLean for the album include "Dreidel" (number 21 on the Billboard chart) and "If We Try" (number 58), which was recorded by Olivia Newton-John.[23] "On the Amazon" from the 1920s musical Mr Cinders was an unusual choice but became an audience favorite in concerts and featured in _Till Tomorrow_, a documentary film about McLean produced by Bob Elfstrom (Elfstrom held the role of Jesus Christ in Johnny and June Cash's _Gospel Road)_. The film shows McLean in concert at Columbia University as he was interrupted by a bomb scare. He left the stage while the audience stood up and checked under their seats for anything that resembled a bomb. After the all-clear, McLean re-appeared and sang "On the Amazon" from exactly where he had left off. Don Heckman reported the bomb scare in his review for _The New York Times_ titled "Don McLean Survives Two Obstacles."[24]
 
@@ -96,13 +96,11 @@ In an April 5, 1973, article in the _New York Daily News_, Norman Gimbel was quo
 
 Concerts
 
-Don_McLean_at_the_NYCB_Theatre_at_Westbury_2013-07-13_3.jpg in July 2013]] McLean's albums did not match the commercial success of _American Pie_, but he became a major concert attraction in the United States and overseas.[48] His repertoire included old concert hall numbers and the catalogues of singers such as Buddy Holly and Frank Sinatra. The years spent playing gigs in small clubs and coffee houses in the 1960s transformed into well-paced performances. McLean's first concerts at Carnegie Hall in New York and the Albert Hall in London in 1972 were critically acclaimed.[49]
+in July 2013]] McLean's albums did not match the commercial success of _American Pie_, but he became a major concert attraction in the United States and overseas.[48] His repertoire included old concert hall numbers and the catalogues of singers such as Buddy Holly and Frank Sinatra. The years spent playing gigs in small clubs and coffee houses in the 1960s transformed into well-paced performances. McLean's first concerts at Carnegie Hall in New York and the Albert Hall in London in 1972 were critically acclaimed.[49]
 
 In recent years, McLean continued to tour the United States, Canada and Europe (2011, 2012) and Australia (2013).[50] In June 2011, McLean appeared at the Glastonbury Festival[51] in Pilton, UK, and in 2014 at California's Stagecoach Country Music Festival.[52]
 
 During 2018, McLean embarked on a world tour with concerts in North America, UK, Ireland, Belgium, Switzerland, Germany, Israel, Norway and Finland. His concert at the London Palladium was reviewed positively by _The Times_:[53] The _Jerusalem Post_ noted that "McLean was the consummate professional in presenting his master class of the Great American Songbook" in their review of his Tel Aviv concert, June 2018[54]
-
-McLean_Concert_Brochure.jpg
 
 
 Later work and honors

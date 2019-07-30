@@ -28,7 +28,7 @@ During Hertz's studies in 1879 Helmholtz suggested that Hertz's doctoral dissert
 
 After Hertz received his professorship at Karlsruhe he was experimenting with a pair of Riess spirals in the autumn of 1886 when he noticed that discharging a Leyden jar into one of these coils would produce a spark in the other coil. With an idea on how to build an apparatus, Hertz now had a way to proceed with the "Berlin Prize" problem of 1879 on proving Maxwell's theory (although the actual prize had expired uncollected in 1882).[14][15] He used a Ruhmkorff coil-driven spark gap and one-meter wire pair as a radiator. Capacity spheres were present at the ends for circuit resonance adjustments. His receiver was a simple half-wave dipole antenna with a micrometer spark gap between the elements. This experiment produced and received what are now called radio waves in the very high frequency range.
 
-Hertz_first_oscillator.png consisting of a pair of one meter copper wires with a 7.5 mm spark gap between them, ending in 30 cm zinc spheres.[16] When an induction coil applied a high voltage between the two sides, sparks across the spark gap created standing waves of radio frequency current in the wires, which radiated radio waves. The frequency of the waves was roughly 50 MHz, about that used in modern television transmitters. ]]
+consisting of a pair of one meter copper wires with a 7.5 mm spark gap between them, ending in 30 cm zinc spheres.[16] When an induction coil applied a high voltage between the two sides, sparks across the spark gap created standing waves of radio frequency current in the wires, which radiated radio waves. The frequency of the waves was roughly 50 MHz, about that used in modern television transmitters. ]]
 
 Between 1886 and 1889 Hertz would conduct a series of experiments that would prove the effects he was observing were results of Maxwell's predicted electromagnetic waves. Starting in November 1887 with his paper "On Electromagnetic Effects Produced by Electrical Disturbances in Insulators", Hertz would send a series of papers to Helmholtz at the Berlin Academy, including papers in 1888 that showed transverse free space electromagnetic waves traveling at a finite speed over a distance.[17][18] In the apparatus Hertz used, the electric and magnetic fields would radiate away from the wires as transverse waves. Hertz had positioned the oscillator about 12 meters from a zinc reflecting plate to produce standing waves. Each wave was about 4 meters long. Using the ring detector, he recorded how the wave's magnitude and component direction varied. Hertz measured Maxwell's waves and demonstrated that the velocity of these waves was equal to the velocity of light. The electric field intensity, polarization and reflection of the waves were also measured by Hertz. These experiments established that light and these waves were both a form of electromagnetic radiation obeying the Maxwell equations.
 
@@ -52,7 +52,7 @@ Hertz helped establish the photoelectric effect (which was later explained by Al
 
 Contact mechanics
 
-Büste_von_Heinrich_Hertz_in_Karlsruhe.jpg, which translates as _At this site, Heinrich Hertz discovered electromagnetic waves in the years 1885–1889._]]
+, which translates as _At this site, Heinrich Hertz discovered electromagnetic waves in the years 1885–1889._]]
 
 In 1886–1889, Hertz published two articles on what was to become known as the field of contact mechanics, which proved to be an important basis for later theories in the field. Joseph Valentin Boussinesq published some critically important observations on Hertz's work, nevertheless establishing this work on contact mechanics to be of immense importance. His work basically summarises how two axi-symmetric objects placed in contact will behave under loading, he obtained results based upon the classical theory of elasticity and continuum mechanics. The most significant failure of his theory was the neglect of any nature of adhesion between the two solids, which proves to be important as the materials composing the solids start to assume high elasticity. It was natural to neglect adhesion in that age as there were no experimental methods of testing for it.
 
@@ -75,8 +75,6 @@ Hertz's widow and daughters left Germany in the 1930s and went to England.
 
 
 Legacy and honors
-
-Heinrich_Hertz_Deutsche-200-1Kcs.jpg
 
 Heinrich Hertz's nephew Gustav Ludwig Hertz was a Nobel Prize winner, and Gustav's son Carl Helmut Hertz invented medical ultrasonography. His daughter Mathilde Carmen Hertz was a well-known biologist and comparative psychologist. Hertz's grandnephew Hermann Gerhard Hertz, professor at the University of Karlsruhe, was a pioneer of NMR-spectroscopy and in 1995 published Hertz's laboratory notes.[31]
 

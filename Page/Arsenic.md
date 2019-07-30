@@ -11,7 +11,7 @@ Characteristics
 
 Physical characteristics
 
-SbAs_lattice.png, AsSb and gray As]]
+, AsSb and gray As]]
 
 The three most common arsenic allotropes are gray, yellow, and black arsenic, with gray being the most common.[8] Gray arsenic (α-As, space group Rm No. 166) adopts a double-layered structure consisting of many interlocked, ruffled, six-membered rings. Because of weak bonding between the layers, gray arsenic is brittle and has a relatively low Mohs hardness of 3.5. Nearest and next-nearest neighbors form a distorted octahedral complex, with the three atoms in the same double-layer being slightly closer than the three atoms in the next.[9] This relatively close packing leads to a high density of 5.73 g/cm³.[10] Gray arsenic is a semimetal, but becomes a semiconductor with a bandgap of 1.2–1.4 eV if amorphized.[11] Gray arsenic is also the most stable form. Yellow arsenic is soft and waxy, and somewhat similar to tetraphosphorus ().[12] Both have four atoms arranged in a tetrahedral structure in which each atom is bound to each of the other three atoms by a single bond. This unstable allotrope, being molecular, is the most volatile, least dense, and most toxic. Solid yellow arsenic is produced by rapid cooling of arsenic vapor, . It is rapidly transformed into gray arsenic by light. The yellow form has a density of 1.97 g/cm³.[13] Black arsenic is similar in structure to black phosphorus.[14] Black arsenic can also be formed by cooling vapor at around 100–220 °C. It is glassy and brittle. It is also a poor electrical conductor.[15]
 
@@ -48,8 +48,6 @@ Arsenic is used as the group 5 element in the III-V semiconductors gallium arsen
 
 Organoarsenic compounds
 
-Trimethylarsine-2D.png
-
 A large variety of organoarsenic compounds are known. Several were developed as chemical warfare agents during World War I, including vesicants such as lewisite and vomiting agents such as adamsite.[41][42][43] Cacodylic acid, which is of historic and practical interest, arises from the methylation of arsenic trioxide, a reaction that has no analogy in phosphorus chemistry. Indeed, cacodyl was the first organometallic compound known (even though arsenic is not a true metal) and was named from the Greek _κακωδἰα_ "stink" for its offensive odor; it is very poisonous.[44]
 
 
@@ -60,8 +58,6 @@ upright=0.9
 Arsenic comprises about 1.5 ppm (0.00015%) of the Earth's crust, and is the 53rd most abundant element. Typical background concentrations of arsenic do not exceed 3 ng/m³ in the atmosphere; 100 mg/kg in soil; and 10 μg/L in freshwater.
 
 Minerals with the formula MAsS and MAs₂ (M = Fe, Ni, Co) are the dominant commercial sources of arsenic, together with realgar (an arsenic sulfide mineral) and native (elemental) arsenic. An illustrative mineral is arsenopyrite (FeAsS), which is structurally related to iron pyrite. Many minor As-containing minerals are known. Arsenic also occurs in various organic forms in the environment.[45]
-
-World_Arsenic_Production_2006.svg
 
 In 2014, China was the top producer of white arsenic with almost 70% world share, followed by Morocco, Russia, and Belgium, according to the British Geological Survey and the United States Geological Survey.[46] Most arsenic refinement operations in the US and Europe have closed over environmental concerns. Arsenic is found in the smelter dust from copper, gold, and lead smelters, and is recovered primarily from copper refinement dust.[47]
 
@@ -88,17 +84,17 @@ On roasting arsenopyrite in air, arsenic sublimes as arsenic(III) oxide leaving 
 
 History
 
-Mineraly.sk_-_realgar.jpg upright=0.35 for arsenic]]
+upright=0.35 for arsenic]]
 
 The word _arsenic_ has its origin in the Syriac word _(al) zarniqa_,[51] from the Persian word _zarnikh_, meaning "yellow" (literally "gold-colored") and hence "(yellow) orpiment". It was adopted into Greek as _arsenikon_ (), a form that is folk etymology, being the neuter form of the Greek word _arsenikos_ (), meaning "male", "virile". The Greek word was adopted in Latin as _arsenicum_, which in French became _arsenic_, from which the English word arsenic is taken.[52] Arsenic sulfides (orpiment, realgar) and oxides have been known and used since ancient times.[53] Zosimos (circa 300 AD) describes roasting _sandarach_ (realgar) to obtain _cloud of arsenic_ (arsenic trioxide), which he then reduces to gray arsenic.[54] As the symptoms of arsenic poisoning are not very specific, it was frequently used for murder until the advent of the Marsh test, a sensitive chemical test for its presence. (Another less sensitive but more general test is the Reinsch test.) Owing to its use by the ruling class to murder one another and its potency and discreetness, arsenic has been called the "poison of kings" and the "king of poisons".[55]
 
-The_Arsenic_Labyrinth_at_Botallack_Mine_-_geograph.org.uk_-_490315.jpg, Cornwall.]]
+, Cornwall.]]
 
 During the Bronze Age, arsenic was often included in bronze, which made the alloy harder (so-called "arsenical bronze").[56][57] The isolation of arsenic was described by Jabir ibn Hayyan before 815 AD.[58] Albertus Magnus (Albert the Great, 1193–1280) later isolated the element from a compound in 1250, by heating soap together with arsenic trisulfide.[59] In 1649, Johann Schröder published two ways of preparing arsenic.[60] Crystals of elemental (native) arsenic are found in nature, although rare.
 
 Cadet's fuming liquid (impure cacodyl), often claimed as the first synthetic organometallic compound, was synthesized in 1760 by Louis Claude Cadet de Gassicourt by the reaction of potassium acetate with arsenic trioxide.[61]
 
-A_chemist_gives_a_demonstration_involving_arsenic_Wellcome_V0011761.jpg of a chemist giving a public demonstration of arsenic, 1841]]
+of a chemist giving a public demonstration of arsenic, 1841]]
 
 In the Victorian era, "arsenic" ("white arsenic" or arsenic trioxide) was mixed with vinegar and chalk and eaten by women to improve the complexion of their faces, making their skin paler to show they did not work in the fields.[62] Arsenic was also rubbed into the faces and arms of women to "improve their complexion". The accidental use of arsenic in the adulteration of foodstuffs led to the Bradford sweet poisoning in 1858, which resulted in around 20 deaths.[63] Wallpaper production also began to use dyes made from arsenic, which was thought to increase the pigment’s brightness.[64]
 
@@ -109,7 +105,7 @@ Applications
 
 Agricultural
 
-Roxarsone.png is a controversial arsenic compound used as a feed ingredient for chickens.]]
+is a controversial arsenic compound used as a feed ingredient for chickens.]]
 
 The toxicity of arsenic to insects, bacteria, and fungi led to its use as a wood preservative.[71] In the 1930s, a process of treating wood with chromated copper arsenate (also known as CCA or Tanalith) was invented, and for decades, this treatment was the most extensive industrial use of arsenic. An increased appreciation of the toxicity of arsenic led to a ban of CCA in consumer products in 2004, initiated by the European Union and United States.[72][73] However, CCA remains in heavy use in other countries (such as on Malaysian rubber plantations).[74]
 
@@ -155,7 +151,7 @@ Biological role
 
 Bacteria
 
-ArsenobetainePIC.svg]]
+]]
 
 Some species of bacteria obtain their energy by oxidizing various fuels while reducing arsenate to arsenite. Under oxidative environmental conditions some bacteria oxidize arsenite to arsenate as fuel for their metabolism.[104] The enzymes involved are known as arsenate reductases (Arr).[105]
 

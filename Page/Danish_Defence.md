@@ -7,8 +7,6 @@ Today, Danish Defence consists of: the Royal Danish Army, Denmark's principal la
 
 History
 
-Chr_4_ved_højen_mast_crop.jpg
-
 Origins
 
 The modern Danish military can be traced back to 1510, with the creation of the Royal Danish Navy. During this time, the Danish Kingdom held considerable territories, including Schleswig-Holstein, Norway, and colonies in Africa and the Americans.[3]
@@ -26,7 +24,7 @@ With the September 11 attacks, Denmark joined US forces in the War on terror, pa
 
 Purpose and task
 
-Combined_Resolve_III_141103-A-SG416-011.jpg The purpose and task of the armed forces of Denmark is defined in Law no. 122 of February 27, 2001 and in force since March 1, 2001. It defines three purposes and six tasks.
+The purpose and task of the armed forces of Denmark is defined in Law no. 122 of February 27, 2001 and in force since March 1, 2001. It defines three purposes and six tasks.
 
 Its primary purpose is to prevent conflicts and war, preserve the sovereignty of Denmark, secure the continuing existence and integrity of the independent Kingdom of Denmark and further a peaceful development in the world with respect to human rights.
 
@@ -78,19 +76,19 @@ Branches
 
 Royal Army
 
-Jydske_Dragonregiment_(8108898747).jpg main battle tank]] The Danish Royal Army () consists of 2 brigades, organised into 3 regiments, and a number of support centres, all commanded through the Army Staff. The army is a mixture of Mechanized infantry and Armoured cavalry with a limited capabilities in Armoured warfare.
+main battle tank]] The Danish Royal Army () consists of 2 brigades, organised into 3 regiments, and a number of support centres, all commanded through the Army Staff. The army is a mixture of Mechanized infantry and Armoured cavalry with a limited capabilities in Armoured warfare.
 
 The army also provides protection for the Danish royal family, in the form of the Royal Guard Company and the Guard Hussar Regiment Mounted Squadron.
 
 Royal Navy
 
-HDMS_Vaedderen_(F359).jpg The Royal Danish Navy () consists of frigates, patrol vessels, mine-countermeasure vessels, and other miscellaneous vessels, many of which are issued with the modular mission payload system StanFlex. The navy's chief responsibility is maritime defence and maintaining the sovereignty of Danish, Greenlandic and Faroese territorial waters.
+The Royal Danish Navy () consists of frigates, patrol vessels, mine-countermeasure vessels, and other miscellaneous vessels, many of which are issued with the modular mission payload system StanFlex. The navy's chief responsibility is maritime defence and maintaining the sovereignty of Danish, Greenlandic and Faroese territorial waters.
 
 A submarine service existed within the Royal Danish Navy for 95 years.
 
 Royal Air Force
 
-F16_-_RIAT_2014_(14684934212).jpg]] The Royal Danish Air Force () consists of both fixed-wing and rotary aircraft.
+]] The Royal Danish Air Force () consists of both fixed-wing and rotary aircraft.
 
 Home Guard
 
@@ -133,7 +131,7 @@ Special forces
 
 Operations
 
-Current_Danish_Deployments.png Danish_deployments.jpg Current deployment of Danish forces, per 10-03-2016:[26]
+Current deployment of Danish forces, per 10-03-2016:[26]
 
 NATO
 
@@ -166,8 +164,6 @@ Coalitions
 
 Women in the military
 
-First_Danish_Female_Fighter_Pilot_Lt._Line_Bonde_with_her_T-38_Talon_at_Sheppard_AFB,_Texas.jpg
-
 Women in the military can be traced back to 1946, with the creation of _Lottekorpset_. This corps allowed women to serve, however, without entering with the normal armed forces, and they were not allowed to carry weapons. In 1962, women were allowed in the military.[29]
 
 Currently 1,122 or 7.3% of all personnel in the armed forces are women.[30] Women do not have to serve conscription in Denmark, since 1998, it is however possible to serve under "_conscription like circumstances_". 17% of those serve conscription or conscription like circumstances are women.[31] Between 1991 and 31 December 2017, 1,965 women have been deployed to different international missions.[32] Of those 3 women have lost their lives.[33] In 1998, Police Constable Gitte Larsen, was killed in Hebron on the West Bank. In 2003, _Overkonstabel_ Susanne Lauritzen was killed in a traffic accident in Kosovo. In 2010, the first woman was killed in a combat situation, when _Konstabel_ Sophia Bruun was killed by an IED in Afghanistan.[34]
@@ -177,7 +173,7 @@ In 2005, Line Bonde, became the first fighter pilot in Denmark.[35] In 2016, Lon
 
 Conscription
 
-Vakt,_Rosenborgs_slott.jpg standing guard at Rosenborg Castle]] Technically all Danish 18-year-old males are conscripts (37,897 in 2010, of whom 53% were considered suitable for duty).[39] Due to the large number of volunteers, 96-99% of the number required in the past three years,[40] the number of men actually called up is relatively low (4200 in 2012). There were additionally 567 female volunteers in 2010, who pass training on "conscript-like" conditions.[41]
+standing guard at Rosenborg Castle]] Technically all Danish 18-year-old males are conscripts (37,897 in 2010, of whom 53% were considered suitable for duty).[39] Due to the large number of volunteers, 96-99% of the number required in the past three years,[40] the number of men actually called up is relatively low (4200 in 2012). There were additionally 567 female volunteers in 2010, who pass training on "conscript-like" conditions.[41]
 
 Conscripts to Danish Defence (army, navy and air force) generally serve four months,[42][43] except:
 

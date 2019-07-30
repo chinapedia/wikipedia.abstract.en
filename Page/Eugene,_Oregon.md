@@ -9,13 +9,13 @@ History
 
 Indigenous presence
 
-The first people to settle in the Eugene area were known as the Kalapuyans, also written Calapooia or Calapooya. They made "seasonal rounds," moving around the countryside to collect and preserve local foods, including acorns, the bulbs of the wapato and camas plants, and berries. They stored these foods in their permanent winter village. When crop activities waned, they returned to their winter villages and took up hunting, fishing, and trading.[12][13] They were known as the Chifin Kalapuyans and called the Eugene area where they lived "Chifin", sometimes recorded as "Chafin" or "Chiffin".[14][15] Honey_bee_on_camas_3.jpg Other Kalapuyan tribes occupied villages that are also now within Eugene city limits. Pee-you or Mohawk Calapooians, Winefelly or Pleasant Hill Calapooians, and the Lungtum or Long Tom. They were close-neighbors to the Chifin, intermarried, and were political allies. Some authorities suggest the Brownsville Kalapuyans (Calapooia Kalapuyans) were related to the Pee-you. It is likely that since the Santiam had an alliance with the Brownsville Kalapuyans that the Santiam influence also went as far at Eugene.[16]
+The first people to settle in the Eugene area were known as the Kalapuyans, also written Calapooia or Calapooya. They made "seasonal rounds," moving around the countryside to collect and preserve local foods, including acorns, the bulbs of the wapato and camas plants, and berries. They stored these foods in their permanent winter village. When crop activities waned, they returned to their winter villages and took up hunting, fishing, and trading.[12][13] They were known as the Chifin Kalapuyans and called the Eugene area where they lived "Chifin", sometimes recorded as "Chafin" or "Chiffin".[14][15] Other Kalapuyan tribes occupied villages that are also now within Eugene city limits. Pee-you or Mohawk Calapooians, Winefelly or Pleasant Hill Calapooians, and the Lungtum or Long Tom. They were close-neighbors to the Chifin, intermarried, and were political allies. Some authorities suggest the Brownsville Kalapuyans (Calapooia Kalapuyans) were related to the Pee-you. It is likely that since the Santiam had an alliance with the Brownsville Kalapuyans that the Santiam influence also went as far at Eugene.[16]
 
 According to archeological evidence, the ancestors of the Kalapuyans may have been in Eugene for as long as 10,000 years.[17] In the 1800s their traditional way of life faced significant changes due to devastating epidemics and settlement, first by French fur traders and later by an overwhelming number of United States colonists.[18]
 
 Colonial arrival and impact
 
-Kalapuya-Man.jpg French fur traders had settled seasonally in the Willamette Valley by the beginning of the 19th century. Their settlements were concentrated in the "French Prairie" community in Northern Marion County but may have extended south to the Eugene area. Having already developed relationships with Native communities through intermarriage and trade, they negotiated for land from the Kalapuyans. By 1828 to 1830 they and their Native wives began year-round occupation of the land, raising crops and tending animals. In this process, the mixed race families began to impact Native access to land, food supply, and traditional materials for trade and religious practices.[19]
+French fur traders had settled seasonally in the Willamette Valley by the beginning of the 19th century. Their settlements were concentrated in the "French Prairie" community in Northern Marion County but may have extended south to the Eugene area. Having already developed relationships with Native communities through intermarriage and trade, they negotiated for land from the Kalapuyans. By 1828 to 1830 they and their Native wives began year-round occupation of the land, raising crops and tending animals. In this process, the mixed race families began to impact Native access to land, food supply, and traditional materials for trade and religious practices.[19]
 
 In July 1830, "intermittent fever" struck the lower Columbia region and a year later, the Willamette Valley. Natives traced the arrival of the disease, then new to the Northwest, to the U.S. ship, Owyhee, captained by John Dominis. "Intermittent fever" is thought by researchers now to be malaria.[20] According to Robert T. Boyd, an anthropologist at Portland State University, the first three years of the epidemic, "probably constitute the single most important epidemiological event in the recorded history of what would eventually become the state of Oregon". In his book _The Coming of the Spirit Pestilence_ Boyd reports there was a 92% population loss for the Kalapuyans between 1830 and 1841.[21] This catastrophic event shattered the social fabric of Kalapuyan society and altered the demographic balance in the Valley. This balance was further altered over the next few years by the arrival of Anglo-American settlers, beginning in 1840 with 13 people and growing steadily each year until within 20 years more than 11,000 US colonists, including Eugene Skinner, had arrived.[22]
 
@@ -23,7 +23,7 @@ As the demographic pressure from the colonists grew, the remaining Kalapuyans we
 
 Eugene Skinner
 
-Skinner_Cabin_Plaque.jpg Eugene Franklin Skinner, after whom Eugene is named, arrived in the Willamette Valley in 1846 with 1200 other colonists that year. Advised by the Kalapuyans to build on high ground to avoid flooding, he erected the first Anglo cabin[26] on south or west slope of what the Kalapuyans called Ya-po-ah. The "isolated hill" is now known as Skinner's Butte.[27] The cabin was used as a trading post and was registered as an official post office on January 8, 1850.
+Eugene Franklin Skinner, after whom Eugene is named, arrived in the Willamette Valley in 1846 with 1200 other colonists that year. Advised by the Kalapuyans to build on high ground to avoid flooding, he erected the first Anglo cabin[26] on south or west slope of what the Kalapuyans called Ya-po-ah. The "isolated hill" is now known as Skinner's Butte.[27] The cabin was used as a trading post and was registered as an official post office on January 8, 1850.
 
 At this time the settlement was known by Anglos as Skinner's Mudhole. It was relocated in 1853 and named Eugene City in 1853.[28] Formally incorporated as a city in 1862, it was named simply Eugene in 1889.[29][30] Skinner ran a ferry service across the Willamette River where the Ferry Street Bridge now stands.
 
@@ -44,7 +44,7 @@ Geography and climate
 
 Geography
 
-Eugene_skyline_crop.jpg can be seen from much of the city.]] According to the United States Census Bureau, the city has a total area of , of which is land and is water.[31] Eugene is at an elevation of .
+can be seen from much of the city.]] According to the United States Census Bureau, the city has a total area of , of which is land and is water.[31] Eugene is at an elevation of .
 
 To the north of downtown is Skinner Butte. Northeast of the city is the Coburg Hills. Spencer Butte is a prominent landmark south of the city. Mount Pisgah is southeast of Eugene and includes Mount Pisgah Arboretum and Howard Buford Recreation Area, a Lane County Park. Eugene is surrounded by foothills and forests to the south, east, and west, while to the north the land levels out into the Willamette Valley and consists of mostly farmland.
 
@@ -84,8 +84,6 @@ Climate
 Like the rest of the Willamette Valley, Eugene lies in the Marine West Coast climate zone, with Mediterranean characteristics. Under the Köppen climate classification scheme, Eugene has a cool-summer Mediterranean climate (Köppen _Csb_). Temperatures can vary from cool to warm, with warm, dry summers and cool, wet winters. Spring and fall are also moist seasons, with light rain falling for long periods. Winter snowfall does occur, but it is sporadic and rarely accumulates in large amounts: the normal seasonal amount is , and the median is 0.[34] The record snowfall was of accumulation due to a pineapple express on January 25–29, 1969.[35] Ice storms, like snowfall, are rare, but occur sporadically.
 
 The hottest months are July and August, with a normal monthly mean temperature of , with an average of 16 days per year reaching . The coolest month is December, with a mean temperature of , and there are 53 nights per year with a low at or below freezing, and 2.7 days with highs not exceeding the freezing mark.[36]
-
-Snow_in_Eugene.JPG
 
 Eugene's average annual temperature is , and annual precipitation at .[37] Eugene is more wet and slightly cooler on average than Portland. Despite being about south and having only a slightly higher elevation, Eugene has a more continental climate, less subject to the maritime air that blows inland from the Pacific Ocean via the Columbia River. Eugene's normal annual mean minimum is ,[38] compared to in Portland;[39] in August, the gap in the normal mean minimum widens to and for Eugene and Portland, respectively.[40] Average winter temperatures (and summer high temperatures) are similar for the two cities. This disparity may be additionally caused by Portland's urban heat island, where the combination of black pavement and urban energy use raises nighttime temperatures.
 
@@ -153,7 +151,7 @@ Eugene's largest employers are PeaceHealth Medical Group, the University of Oreg
 
 Luckey's Club Cigar Store is one of the oldest bars in Oregon. Tad Luckey, Sr., purchased it in 1911, making it one of the oldest businesses in Eugene. The "Club Cigar", as it was called in the late 19th century, was for many years a men-only salon. It survived both the Great Depression and Prohibition, partly because Eugene was a dry town before the end of Prohibition.[79]
 
-Corporate headquarters for the employee-owned Bi-Mart corporation and family-owned supermarket Market of Choice remain in Eugene. Sarver-winery-by-colin_Morton-2017-_31.jpg Eugene has quickly made a name for itself as a culinary hub in Oregon. The city has over 25 breweries, offers a variety of fine dining options with a local focus; the city is surrounded by award-winning wineries. The most notable fungi here is the truffle; Eugene hosts the annual Oregon Truffle Festival in January.[80]
+Corporate headquarters for the employee-owned Bi-Mart corporation and family-owned supermarket Market of Choice remain in Eugene. Eugene has quickly made a name for itself as a culinary hub in Oregon. The city has over 25 breweries, offers a variety of fine dining options with a local focus; the city is surrounded by award-winning wineries. The most notable fungi here is the truffle; Eugene hosts the annual Oregon Truffle Festival in January.[80]
 
 Organically Grown Company, the largest distributor of organic fruits and vegetables in the northwest, started in Eugene in 1978 as a non-profit co-op for organic farmers. Notable local food processors, many of whom manufacture certified organic products, include Golden Temple (Yogi Tea), Merry Hempsters and Springfield Creamery (Nancy's Yogurt & owned by the Kesey Family), and Mountain Rose Herbs.
 
@@ -189,7 +187,7 @@ According to Eugene's 2017 Comprehensive Annual Financial Report,[88] the city's
 
 Arts and culture
 
-Eugene_Saturday_Market_craft_booth.jpg]] Eugene has a significant population of people in pursuit of alternative ideas and a large original hippie population.[89] Beginning in the 1960s, the countercultural ideas and viewpoints espoused by Ken Kesey became established as the seminal elements of the vibrant social tapestry that continue to define Eugene.[90] The Merry Prankster, as Kesey was known, has arguably left the most indelible imprint of any cultural icon in his hometown. He is best known as the author of _One Flew Over the Cuckoo's Nest_ and as the male protagonist in Tom Wolfe's _The Electric Kool-Aid Acid Test_.[91]
+]] Eugene has a significant population of people in pursuit of alternative ideas and a large original hippie population.[89] Beginning in the 1960s, the countercultural ideas and viewpoints espoused by Ken Kesey became established as the seminal elements of the vibrant social tapestry that continue to define Eugene.[90] The Merry Prankster, as Kesey was known, has arguably left the most indelible imprint of any cultural icon in his hometown. He is best known as the author of _One Flew Over the Cuckoo's Nest_ and as the male protagonist in Tom Wolfe's _The Electric Kool-Aid Acid Test_.[91]
 
 In 2005, the city council unanimously approved a new slogan for the city: "World's Greatest City for the Arts & Outdoors". While Eugene has a vibrant arts community for a city its size, and is well situated near many outdoor opportunities, this slogan was frequently criticized by locals as embarrassing and ludicrous.[92] In early 2010, the slogan was changed to "A Great City for the Arts & Outdoors."
 
@@ -224,7 +222,7 @@ Eugene museums include the University of Oregon's Jordan Schnitzer Museum of Art
 
 Performing arts
 
-HultCenterPerformingArts.jpg]] Eugene is home to numerous cultural organizations, including the Eugene Symphony, the Eugene Ballet, the Eugene Opera, the Eugene Concert Choir, the Northwest Christian University Community Choir, the Oregon Mozart Players, the Oregon Bach Festival, the Oregon Children's Choir, the Eugene-Springfield Youth Orchestras, Ballet Fantastique and Oregon Festival of American Music. Principal performing arts venues include the Hult Center for the Performing Arts, The John G. Shedd Institute for the Arts ("The Shedd"), Matthew Knight Arena, Beall Concert Hall and the Erb Memorial Union ballroom on the University of Oregon campus, the McDonald Theatre, and W.O.W. Hall.
+]] Eugene is home to numerous cultural organizations, including the Eugene Symphony, the Eugene Ballet, the Eugene Opera, the Eugene Concert Choir, the Northwest Christian University Community Choir, the Oregon Mozart Players, the Oregon Bach Festival, the Oregon Children's Choir, the Eugene-Springfield Youth Orchestras, Ballet Fantastique and Oregon Festival of American Music. Principal performing arts venues include the Hult Center for the Performing Arts, The John G. Shedd Institute for the Arts ("The Shedd"), Matthew Knight Arena, Beall Concert Hall and the Erb Memorial Union ballroom on the University of Oregon campus, the McDonald Theatre, and W.O.W. Hall.
 
 A number of live theater groups are based in Eugene, including Free Shakespeare in the Park, Oregon Contemporary Theatre, The Very Little Theatre, Actors Cabaret, LCC Theatre, Rose Children's Theatre, and University Theatre.[119] Each has its own performance venue.
 
@@ -261,7 +259,7 @@ _Stealing Time_, a 2003 independent film, was partially filmed in Eugene. When t
 
 Sports
 
-Welcome_to_Track_Town_USA.jpg Eugene's Oregon Ducks are part of the Pac-12 Conference (Pac-12). American football is especially popular, with intense rivalries between the Ducks and both the Oregon State University Beavers and the University of Washington Huskies.[130] Autzen Stadium is home to Duck football, with a seating capacity of 54,000 but has had over 60,000 with standing room only.[131]
+Eugene's Oregon Ducks are part of the Pac-12 Conference (Pac-12). American football is especially popular, with intense rivalries between the Ducks and both the Oregon State University Beavers and the University of Washington Huskies.[130] Autzen Stadium is home to Duck football, with a seating capacity of 54,000 but has had over 60,000 with standing room only.[131]
 
 The basketball arena, McArthur Court, was built in 1926.[132] The arena was replaced by the Matthew Knight Arena in late 2010.[133]
 
@@ -296,7 +294,7 @@ The following table lists some sports clubs in Eugene and their usual home venue
 
 Parks and recreation
 
-Hendricks_Park.jpg]] Spencer Butte Park at the southern edge of town provides access to Spencer Butte, a dominant feature of Eugene's skyline. Hendricks Park, situated on a knoll to the east of downtown, is known for its rhododendron garden and nearby memorial to Steve Prefontaine, known as Pre's Rock, where the legendary University of Oregon runner was killed in an auto accident. Alton Baker Park, next to the Willamette River, contains Pre's Trail. Also next to the Willamette are Skinner Butte Park[136] and the Owen Memorial Rose Garden, which is home to more than 4,500 roses of over 400 varieties,[137] as well as the 150-year-old Black Tartarian Cherry tree,[138] an Oregon Heritage Tree.[139]
+]] Spencer Butte Park at the southern edge of town provides access to Spencer Butte, a dominant feature of Eugene's skyline. Hendricks Park, situated on a knoll to the east of downtown, is known for its rhododendron garden and nearby memorial to Steve Prefontaine, known as Pre's Rock, where the legendary University of Oregon runner was killed in an auto accident. Alton Baker Park, next to the Willamette River, contains Pre's Trail. Also next to the Willamette are Skinner Butte Park[136] and the Owen Memorial Rose Garden, which is home to more than 4,500 roses of over 400 varieties,[137] as well as the 150-year-old Black Tartarian Cherry tree,[138] an Oregon Heritage Tree.[139]
 
 The city of Eugene maintains an urban forest. The University of Oregon campus is an arboretum, with over 500 species of trees. The city operates and maintains scenic hiking trails that pass through and across the ridges of a cluster of hills in the southern portion of the city, on the fringe of residential neighborhoods. Some trails allow biking, and others are for hikers and runners only.
 
@@ -333,7 +331,7 @@ Eugene City Hall was abandoned in 2012 for reasons of structural integrity, ener
 
 Education
 
-JohnsonHallUO.JPG]] Eugene is home to the University of Oregon. Other institutions of higher learning include Northwest Christian University, Lane Community College, New Hope Christian College, Gutenberg College, and Pacific University's Eugene campus.
+]] Eugene is home to the University of Oregon. Other institutions of higher learning include Northwest Christian University, Lane Community College, New Hope Christian College, Gutenberg College, and Pacific University's Eugene campus.
 
 Schools
 
@@ -347,14 +345,14 @@ Parochial schools in Eugene include Marist Catholic High School, O'Hara Catholic
 
 Libraries
 
-EugenePublicLibrary.jpg The largest library in Oregon is the University of Oregon's Knight Library, with collections totaling more than 3 million volumes and over 100,000 audio and video items.[155] The Eugene Public Library[156] moved into a new, larger building downtown in 2002. The four-story library is an increase from .[157] There are also two branches of the Eugene Public Library, the Sheldon Branch Library in the neighborhood of Cal Young/Sheldon, and the Bethel Branch Library, in the neighborhood of Bethel. Eugene also has the Lane County Law Library.
+The largest library in Oregon is the University of Oregon's Knight Library, with collections totaling more than 3 million volumes and over 100,000 audio and video items.[155] The Eugene Public Library[156] moved into a new, larger building downtown in 2002. The four-story library is an increase from .[157] There are also two branches of the Eugene Public Library, the Sheldon Branch Library in the neighborhood of Cal Young/Sheldon, and the Bethel Branch Library, in the neighborhood of Bethel. Eugene also has the Lane County Law Library.
 
 
 Media
 
 Print
 
-Register-Guard_building_-_Eugene_Oregon.jpg building]] The largest newspaper serving the area is _The Register-Guard_, a daily newspaper with a circulation of about 70,000, published independently by the Baker family of Eugene until 2018, before being acquired by GateHouse Media.[158] Other newspapers serving the area include the _Eugene Weekly_, the _Emerald_, the student-run independent newspaper at the University of Oregon, now published on Mondays and Thursdays;_The Torch_, the student-run newspaper at Lane Community College, the _Ignite_, the newspaper at New Hope Christian College and _The Beacon Bolt,_ the student-run newspaper at Northwest Christian University. _Eugene Magazine_, _Lifestyle Quarterly_, _Eugene Living_, and _Sustainable Home and Garden_ magazines also serve the area. _Adelante Latino_ is a Spanish language newspaper in Eugene that serves all of Lane County.
+building]] The largest newspaper serving the area is _The Register-Guard_, a daily newspaper with a circulation of about 70,000, published independently by the Baker family of Eugene until 2018, before being acquired by GateHouse Media.[158] Other newspapers serving the area include the _Eugene Weekly_, the _Emerald_, the student-run independent newspaper at the University of Oregon, now published on Mondays and Thursdays;_The Torch_, the student-run newspaper at Lane Community College, the _Ignite_, the newspaper at New Hope Christian College and _The Beacon Bolt,_ the student-run newspaper at Northwest Christian University. _Eugene Magazine_, _Lifestyle Quarterly_, _Eugene Living_, and _Sustainable Home and Garden_ magazines also serve the area. _Adelante Latino_ is a Spanish language newspaper in Eugene that serves all of Lane County.
 
 Television
 
@@ -420,15 +418,13 @@ Transportation
 
 Bus
 
-Eugenestationclipdude.jpg's Eugene Station]]
+'s Eugene Station]]
 
 Lane Transit District (LTD), a public transportation agency formed in 1970, covers of Lane County, including Creswell, Cottage Grove, Junction City, Veneta, and Blue River. Operating more than 90 buses during peak hours, LTD carries riders on 3.7 million trips every year. LTD also operates a bus rapid transit line that runs between Eugene and Springfield—Emerald Express (EmX)—much of which runs in its own lane, with stations providing for off-board fare payment. LTD's main terminus in Eugene is at the Eugene Station. LTD also offers paratransit.
 
 Cycling
 
 Cycling is popular in Eugene and many people commute via bicycle. Summertime events and festivals frequently have bike parking "corrals" that are often filled to capacity by three hundred or more bikes. Many people commute to work by bicycle every month of the year. Bike trails take commuting and recreational bikers along the Willamette River past a scenic rose garden, along Amazon Creek, through the downtown, and through the University of Oregon campus.
-
-NorthBankTrails.jpg
 
 In 2009, the League of American Bicyclists cited Eugene as 1 of 10 "Gold-level" cities in the U.S. because of its "remarkable commitments to bicycling."[159][160][161] In 2010, _Bicycling_ magazine named Eugene the 5th most bike-friendly city in America.[162][163][164] The U.S. Census Bureau's annual American Community Survey reported that Eugene had a bicycle commuting mode share of 7.3% in 2011, the fifth highest percentage nationwide among U.S. cities with 65,000 people or more, and 13 times higher than the national average of 0.56%.[165]
 

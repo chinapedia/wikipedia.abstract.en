@@ -45,7 +45,7 @@ The fragmented manuscript differentiated the world into seventy-two languages an
 
 The first undisputed mention of Albanians in the historical record is attested in Byzantine source for the first time in 1079–1080, in a work titled _History_ by Byzantine historian Michael Attaliates, who referred to the _Albanoi_ as having taken part in a revolt against Constantinople in 1043 and to the _Arbanitai_ as subjects of the duke of Dyrrachium. It is disputed, however, whether the "Albanoi" of the events of 1043 refers to Albanians in an ethnic sense or whether "Albanoi" is a reference to Normans from Sicily under an archaic name (there was also a tribe in Italy by the name of "Albanoi").[55] However a later reference to Albanians from the same Attaleiates, regarding the participation of Albanians in a rebellion around 1078, is undisputed.[56] At this point, they are already fully Christianized, although Albanian mythology and folklore are part of the Paleo-Balkan pagan mythology,[57] in particular showing Greek influence.[58]
 
-Krujë-KrujaAlbania_2016.jpg served as the royal seat of the Principality of Arbanon.]]
+served as the royal seat of the Principality of Arbanon.]]
 
 From the late 11th century the Albanians were called Arbën/Arbër and their country as Arbanon,[59] a mountainous area to the west of Lake Ochrida and the upper valley of the river Shkumbin.[60] It was in 1190, when the rulers of Arbanon (local Albanian noble called Progon and his sons Dhimitër and Gjin) created their principality with its capital at Krujë.[61] After the fall of Progon Dynasty in 1216, the principality came under Grigor Kamona and Gulam of Albania. Finally the Principality was dissolved in 1255. Around 1230 the two main centers of Albanian settlements, one around Devoll river in what is now central Albania,[62] and the other around the region which was known with the name Arbanon.[63]
 
@@ -57,15 +57,13 @@ File:Arbanon_in_1210,_unknown_French_source.png%7CThe Principality of Arbanon in
 
 At the dawn of the establishment of the Ottoman Empire in Southeast Europe, the geopolitical landscape was marked by scattered kingdoms of small principalities. The Ottomans erected their garrisons throughout southern Albania by 1415 and established formal jurisdiction over most of Albania by 1431.[67] However, in 1443 a great and longstanding revolt broke under the lead of the Albanian national hero Gjergj Kastrioti Skanderbeg, which lasted until 1479, many times defeating major Ottoman armies led by sultans Murad II and Mehmed II. Skanderbeg united initially the Albanian princes and later established a centralized authority over most of the non-conquered territories, becoming Lord of Albania. He also tried relentlessly but rather unsuccessfully to create a European coalition against the Ottomans. He frustrated every attempt by the Turks to regain Albania, which they envisioned as a springboard for the invasion of Italy and western Europe. His unequal fight against the mightiest power of the time won the esteem of Europe as well as some support in the form of money and military aid from Naples, the papacy, Venice, and Ragusa.[68] Finally after decades of resistance, Ottomans captured Shkodër in 1479 and Durrës in 1501.[69] Skanderbeg's long struggle to keep Albania free became highly significant to the Albanian people, as it strengthened their solidarity, made them more conscious of their national identity, and served later as a great source of inspiration in their struggle for national unity, freedom, and independence.[70][71] The invasion triggered a several waves of migration of Albanians from Albania, Epirus and Peloponnese to the south of Italy, constituting an Arbereshe community. Albanians were recruited all over Europe as a light cavalry known as stratioti. The stratioti were pioneers of light cavalry tactics during this era. In the early 16th century heavy cavalry in the European armies was principally remodeled after Albanian stradioti of the Venetian army, Hungarian hussars and German mercenary cavalry units (Schwarzreitern).[72] By the 16th century, Ottoman rule over Southeast Europe was largely secure. The Ottomans proceeded in stages, first appointing a qadi along with governors and then military retainers in the cities. Timar holders, not necessarily converts to Islam, would occasionally rebel, the most famous case of which is Skanderbeg. His figure would be used later in the 19th century as a central component of Albanian national identity. Ottoman control over the Albanian territories was secured in 1571 when Ulcinj, presently in Montenegro, was captured.
 
-16th_century_Albanian_costumes.jpg
-
 The most significant impact on the Albanians was the gradual Islamization process of a large majority of the population, although such a process only became widespread in the 17th century.[73] Mainly Catholics converted in the 17th century, while the Orthodox Albanians became Muslim mainly in the following century. Initially confined to the main city centres of Elbasan and Shkodër, by this time the countryside was also embracing the new religion.[74] In Elbasan Muslims made up just over half the population in 1569–70 whereas in Shkodër this was almost 90% and in Berat closer to 60%. In the 17th century, however, Catholic conversion to Islam increased, even in the countryside. The motives for conversion according to scholars were diverse, depending on the context. The lack of source-material does not help when investigating such issues.[75] Reasons in various different contexts included the incentive to escape high taxes levied on Christian subjects, ecclesiastical decay,[76] coercion by Ottoman authorities in times of war,[77][78][79] and the privileged legal and social position Muslims had over that of Christians within the empire.[80][81][82]
 
 Areas such as Albania, Western Macedonia, Southern Serbia, Kosovo, parts of northern Greece and southern Montenegro in Ottoman sources were referred to as _Arnavudluk_ or Albania.[83][84][85] The Ottoman period that followed in Albania after the end of Skanderbeg's resistance was characterized by other changes. Many Albanians gained prominent positions in the Ottoman government such as: Iljaz Hoxha, Hamza Kastrioti, Koca Davud Pasha, Zağanos Pasha, Köprülü Mehmed Pasha (head of the Köprülü family of Grand Viziers), the Bushati family, Sulejman Pasha, Edhem Pasha, Nezim Frakulla, Haxhi Shekreti, Hasan Zyko Kamberi, Ali Pasha of Gucia, Muhammad Ali of Egypt and Ali Pasha of Tepelena who rose to become one of the most powerful Muslim Albanian rulers in western Rumelia. During the Ottoman era Albanians involved in imperial service could also be found across the empire in Egypt, Algeria and across the Maghreb as vital military and administrative retainers.[86]
 
 Albanian Renaissance
 
-NaumVeqilharxhi.jpg was one of the earliest figures to devote himself to the early Albanian Renaissance.[87]]]
+was one of the earliest figures to devote himself to the early Albanian Renaissance.[87]]]
 
 The Albanian Renaissance characterised a period when the Albanian people gathered spiritual and intellectual strength to establish their right for an independent political and social life as well as for own culture and education. Its foundation arose in the Albanian diaspora in Italy and Romania in the late 18th and early 19th centuries and often linked to the influence of Romanticism and Enlightenment principles.[88]
 
@@ -78,7 +76,7 @@ Distribution
 
 Balkans
 
-MotherTeresa_090.jpg was born to Albanian parents in Macedonia.]]
+was born to Albanian parents in Macedonia.]]
 
 Approximately 5 million Albanians are geographically distributed across the Balkan Peninsula with about half this number living in Albania, Kosovo, North Macedonia and Montenegro as well as to a much smaller extent in Croatia and Serbia. There are also significant Albanian populations in Greece while much smaller communities are available in nearby Bulgaria and Romania.
 
@@ -90,7 +88,7 @@ In Romania, the Albanians are recognized as a minority group and are hence repre
 
 An estimated 2.2 million Albanians live in the territory of Former Yugoslavia, the greater part, which is close to two million, in Kosovo. Rights to use the Albanian language in education and government were given and guaranteed by the 1974 Constitution of SFRY and were widely utilized in Macedonia and in Montenegro before the Dissolution of Yugoslavia.[102]
 
-Ndertesat_Fetare.jpg of Kosovo are traditionally Sunni Muslims and Roman Catholics.]]
+of Kosovo are traditionally Sunni Muslims and Roman Catholics.]]
 
 The presence of Albanians in Kosovo as well as in the adjacent regions of Toplica and Morava is recorded since the Middle Ages.[103] As the Serbs expelled many Albanians from the wider Toplica and Morava regions in Southern Serbia, which the 1878 Congress of Berlin had given to the Principality of Serbia, many of them settled in Kosovo.[104] In Kosovo, they and their descendants are known as _Muhaxher_ (meaning _the exiled_, from the Arabic muhajir).[105][106]
 
@@ -102,11 +100,11 @@ The second known as the _Албанці_ (Albantsi) are located in scattered com
 
 Italy
 
-Clement_XI.jpg served as the Pope from 1700 to 1721.]]
+served as the Pope from 1700 to 1721.]]
 
 The Albanian migration to Italy can be broadly categorised into several migration cycles that occurred throughout history which in turn can be attributed to factors such as political or religious difficulties that emerged in the Balkan Peninsula. It dates back between the 15th and 17th centuries as once numerous Albanian and other Balkan soldiers, known as the Stratioti, were recruited to the Italian Peninsula as prominent mercenaries by the Neapolitans, Sicilians and Venetians.[110][111] The Stratiotis, composed of Christians and Muslims, served initially for the Republic of Venice in their campaigns, among others, against the Ottoman Empire.[112]
 
-Francesco_Crispi.jpg served as Prime Minister of Italy.]]
+served as Prime Minister of Italy.]]
 
 The Arbëreshës are the traditional Albanian population of Italy and started to settle Southern Italy following the Ottoman conquest of the Balkans and Constantinople between the 14th and 16th centuries.[113] Today, the Albanian community constitute one of the largest ethnolinguistic minority in Italy which is protected by law.[114][115][116]
 
@@ -118,11 +116,11 @@ Between 2015 and 2016, the number of Albanians regularly residing in Italy was n
 
 Croatia
 
-Gospe_Loretske_church,_Croatia.jpg and located in Arbanasi, Zadar.]]
+and located in Arbanasi, Zadar.]]
 
 In Croatia, the Albanian language is one of the officially recognized minority languages of the country and is primarily spoken by the Albanians and Arbanasis.[123] As defined in the 2011 census, the number of Albanians in the country was estimated to be 17,513.[124] They are mostly concentrated in the coastal cities of Croatia and the capital city of Zagreb.
 
-Vestibule_of_Cathedral_of_St._Lawrence_in_Trogir.jpg of Trogir worked by Andrea Nikollë Aleksi.]]
+of Trogir worked by Andrea Nikollë Aleksi.]]
 
 The history of Albanian presence in Croatia can be traced back to the Middle Ages.[125] In this period, there was a significant Albanian community in Ragusa with numerous families of Albanian origin inclusively the Sorgo family who came from the Cape of Rodon in central Albania, across Kotor in eastern Montenegro, to Dalmatia.[126]
 
@@ -143,7 +141,7 @@ Diaspora
 
 Europe
 
-Zürich.jpg, Albanians live predominantly in Zürich and other parts of German-speaking Switzerland.[138]]]
+, Albanians live predominantly in Zürich and other parts of German-speaking Switzerland.[138]]]
 
 During the end of the 20th and the beginning of the 21st centuries, the conflicts in the Balkans and the Kosovo War set in motion large population movements of Albanians to Central, Western and Northern Europe.[139] The collapse of communism in Albania triggered as well a new wave of migration and led to the emergence of a new diaspora, mainly in Southern Europe, in such countries as Greece and Italy.[140][141][142]
 
@@ -161,7 +159,7 @@ In Egypt there are 18,000 Albanians, mostly Tosk speakers.[167] Many are descend
 
 Americas and Oceania
 
-Toronto_skyline-02.jpg is home to around 17,000 Albanians.[173]]]
+is home to around 17,000 Albanians.[173]]]
 
 The first immigration of Albanians to Canada began already in the 19th and 20th centuries though the largest wave of migration from the Balkan Peninsula to Canada was in 1999, when 7,000 people mostly Albanians from Kosovo, arrived in that country. They primarily settled in Canada's industrial cities, mostly Toronto, Montreal and Edmonton, which was besides the United States a major centre of Albanian migration to North America.
 
@@ -171,7 +169,7 @@ The largest population of Albanians in the Americas is predominantly to be found
 
 The descendants of the Arbëreshës from Italy were the first ethnic Albanians to arrive in the United States.[176] The immigration of the Arbëreshës to the country occurred at the end of the 19th century and the beginning of the 20th century.[177] Having a strong sense of identity, the Arbëreshë Americans are often distinguishable from other Albanian Americans with regard to their italianized names and a common religion. They are often indistinguishable from Italian Americans because of being assimilated into the Italian American community.[178]
 
-Brisbane_May_2013.jpg.[179]]]
+.[179]]]
 
 Albanian immigration to Australia took place in the late 19th century and much of the 20th century.[180] Following the introduction of migration quotas by the United States, people who had planned to immigrate to the States were forced to choose Australia instead. The majority of them had Muslim and Orthodox backgrounds and tended to live in Victoria and Queensland but also in Western and Northern Australia.[181]
 
@@ -186,7 +184,7 @@ Culture
 
 Language
 
-Albanian_dialects.svg of the Albanian language in Southern Europe.]]
+of the Albanian language in Southern Europe.]]
 
 The majority of the Albanian people speak the Albanian language which comprise an independent branch within the Indo-European languages. It is a language isolate to any other known living language in Europe and indeed no other language in the world has been conclusively associated to its branch.
 
@@ -204,13 +202,13 @@ Arbëreshë and Arvanitika are both varieties of the Albanian language spoken by
 
 Cuisine
 
-Bukë_kollomoqe,_bukë_misri.JPG is a traditional welcoming custom as symbols of hospitality in Albanian culture which can be traced to the medieval Albanian law.[198] The Albanian code of honour, called _Besa_, resulted to look after guests and foreigners as an act of recognition and gratitude towards them.[199]]]
+is a traditional welcoming custom as symbols of hospitality in Albanian culture which can be traced to the medieval Albanian law.[198] The Albanian code of honour, called _Besa_, resulted to look after guests and foreigners as an act of recognition and gratitude towards them.[199]]]
 
 The cuisine of the Albanians is diverse and has been widely influenced by their traditions, their varied environment in the Balkans and turbulent history throughout the course of the centuries.[200] The enjoyment of food had and has a high priority in the lives of the Albanians especially when it comes to celebrating religious festivals such as Christmas, Easter, Hanukkah or Ramadan.
 
 In general, Albanian cuisine is different from region to another and each Albanian-speaking territory preserves a distinctive regional cuisine characterised by local specialties and different styles within Albanian cuisine. Therefore, there is a considerable diversity between the Italian and Greek-influenced cuisines of the Arbëreshës and Chams as well as of the Mediterranean and Balkan-influenced cuisines of the Albanians in the western Balkans.
 
-Cannolo_siciliano_with_chocolate_squares.jpg]]
+]]
 
 Among the main characteristic in traditional Albanian cuisine is undoubtedly the generous use of a wide range of ingredients and spices specific to their locations. It includes many varieties of fruits such as lemons, oranges, figs and most notably olives. Spices and other herbs such as basil, lavender, mint, oregano, rosemary and thyme are widely used, as are vegetables such as garlics, onions, peppers, potatoes and tomatoes.
 
@@ -220,7 +218,7 @@ In Albania, Tavë Kosi is a national dish consisting of garlicky lamb and rice b
 
 Literature
 
-Meshari.jpg is currently the earliest published book in the Albanian language written by Gjon Buzuku.]]
+is currently the earliest published book in the Albanian language written by Gjon Buzuku.]]
 
 The roots of literature of the Albanians can be traced to the late Middle Ages with surviving works about history, theology and philosophy dating from the Renaissance period.[201] The earliest known use of written Albanian is a baptismal formula (1462) written by the Archbishop of Durrës Paulus Angelus.[202] In 1555, a Catholic clergyman Gjon Buzuku from the Shestan region published the earliest known book written in Albanian titled _Meshari_ (The Missal) regarding Catholic prayers and rites containing archaic medieval language, lexemes and expressions obsolete in contemporary Albanian.[203] Other Christian clergy such as Luca Matranga in the Arbëresh diaspora published (1592) in the Tosk dialect while other notable authors were from northern Albanian lands and included Pjetër Budi, Frang Bardhi, and Pjetër Bogdani.[204]
 
@@ -234,19 +232,19 @@ Albania, post World War Two emerged as a communist state and Socialist realism b
 
 Religion
 
-Ardenica_Monastery_Lushnjë.jpg in Fier, Albania.]]
+in Fier, Albania.]]
 
 Many different spiritual traditions, religious faiths and beliefs are practised by the Albanian people who historically have succeeded to coexist peacefully through the centuries in Southeast Europe.[217] They are traditionally both Christians and Muslims, Catholic and Orthodox, Bektashi and Sunni as well as Evangelists, Protestants and Jews.[218]
 
 In the medieval era, prior to the arrival of Islam into the Albanian inhabited lands, Christianity was the predominant religion among the Albanians. They were mostly following Orthodox traditions and practices until the middle of the 13th century as Gheg Albanians began to convert to Catholicism as a mean to resist the oppression of the Slavs. During the Ottoman conquest of the Balkans, Christianity began to be overtaken by Islam, and Catholicism and Orthodoxy continued to be practiced with less frequency.
 
-34_Prishtënë_-_Katedralja.jpg in Pristina, Kosovo]]
+in Pristina, Kosovo]]
 
 During the modern era, the monarchy and communism in Albania as well as the socialism in Kosovo, historically part of Yugoslavia, followed a systematic secularisation of its people. This policy was chiefly applied within the borders of both territories and produced a secular majority of its population.
 
 All forms of Christianity, Islam and other religious practices were prohibited except for old non-institutional pagan practices in the rural areas, which were seen as identifying with the national culture. The current Albanian state has revived some pagan festivals, such as the Spring festival () held yearly on 14 March in the city of Elbasan. It is a national holiday.[219]
 
-Arabati_Baba_Tekke.jpg in Tetovo, North Macedonia.]]
+in Tetovo, North Macedonia.]]
 
 The communist regime which ruled Albania after World War II persecuted and suppressed religious observance and institutions, and entirely banned religion to the point where Albania was officially declared to be the world's first atheist state. Religious freedom returned to Albania following the regime's change in 1992. Albanian Sunni Muslims are found throughout the country, Albanian Orthodox Christians as well as Bektashis are concentrated in the south, while Roman Catholics are found primarily in the north of the country.[220]
 
@@ -274,7 +272,7 @@ For part of its history, Albania has also had a Jewish community. Members of the
 
 Performing arts
 
-Dua_Lipa_2017_press_(Cropped).jpg is the first Albanian to ever win a Grammy Award.]]
+is the first Albanian to ever win a Grammy Award.]]
 
 For Albanians, music is a vital component to their culture and characterised by its own peculiar features and diverse melodic pattern. Albanian music differ from region to region with two essential stylistic differences between the music of the Ghegs and Tosks that are contrasted by the heroic tone of the Ghegs and the relaxed sounds of the Tosks.
 
@@ -284,7 +282,7 @@ In international competitions, Albania participated in the Eurovision Song Conte
 
 Visual arts
 
-Kole_Idromeno,_Motra_tone.jpg by Kolë Idromeno.]]
+by Kolë Idromeno.]]
 
 The oldest preserved relics of visual arts of the Albanians are sacred in nature and represented by numerous frescoes, murals and icons created with an admirable use of color and gold. They reveal a wealth of various influences and traditions that converged in the historical region of medieval Albanian lands throughout the course of the centuries.[246]
 

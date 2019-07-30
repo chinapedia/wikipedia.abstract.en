@@ -86,8 +86,6 @@ Society and culture
 
 Recreational and illegal uses
 
-Hypnodorm.jpg rohypnol2.jpg
-
 Recreational use
 
 A 1989 article in the _European Journal of Clinical Pharmacology_ reports that benzodiazepines accounted for 52% of prescription forgeries, suggesting that benzodiazepines was a major prescription drug class of abuse. Nitrazepam accounted for 13% of forged prescriptions.[35]

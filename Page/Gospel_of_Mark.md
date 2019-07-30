@@ -7,7 +7,7 @@ Mark was traditionally placed second, and sometimes fourth, in the Christian can
 
 Composition, genre, and setting
 
-Andrea_Mantegna_087.jpg's St. Mark]] Synoptic_problem,_two-source_hypothesis.svg when composing their own gospels. The blue sections indicate material original to Luke and Matthew.]]
+'s St. Mark]] when composing their own gospels. The blue sections indicate material original to Luke and Matthew.]]
 
 Authorship and genre
 
@@ -15,7 +15,7 @@ The Gospel of Mark is anonymous. It was written in Greek for a gentile audience,
 
 Synoptic problem and historicity
 
-MarkEvangelist.jpg The gospels of Matthew, Mark and Luke bear a striking resemblance to each other, so much so that their contents can easily be set side by side in parallel columns. The fact that they share so much material verbatim and yet also exhibit important differences has led to a number of hypotheses explaining their interdependence, a phenomenon termed the Synoptic Problem. It is widely accepted that this was the first gospel (Marcan Priority) and was used as a source by both Matthew and Luke, who agree with each other in their sequence of stories and events only when they also agree with Mark.
+The gospels of Matthew, Mark and Luke bear a striking resemblance to each other, so much so that their contents can easily be set side by side in parallel columns. The fact that they share so much material verbatim and yet also exhibit important differences has led to a number of hypotheses explaining their interdependence, a phenomenon termed the Synoptic Problem. It is widely accepted that this was the first gospel (Marcan Priority) and was used as a source by both Matthew and Luke, who agree with each other in their sequence of stories and events only when they also agree with Mark.
 
 In the 19th century the acceptance of Mark's status as the earliest gospel led to the belief that it must therefore be the most reliable. This conclusion was shaken by two works published in the early decades of the 20th century: in 1901 William Wrede argued strongly that the "Messianic secret" motif in Mark was a creation of the early church rather than a reflection of the historical Jesus; and in 1919 Karl Ludwig Schmidt showed how the links between the episodes are the invention of the writer, thus undermining the claim that the gospel is a reliable guide to the chronology of Jesus' mission. The gospel is nevertheless still seen as the most reliable of the four in terms of its overall description of Jesus's life and ministry.
 
@@ -27,8 +27,6 @@ The gospels were written for an audience already Christian – their purpose wa
 
 
 Structure and content
-
-Mark_Bib_Lat_1486_c.2_Bodleian_Library.jpg
 
 There is no agreement on the structure of Mark. There is, however, a widely recognised break at : before 8:26 there are numerous miracle stories, the action is in Galilee, and Jesus preaches to the crowds, while after 8:31 there are hardly any miracles, the action shifts from Galilee to gentile areas or hostile Judea, and Jesus teaches the disciples. Peter's confession at Mark 8:27–30 that Jesus is the messiah thus forms the watershed to the whole gospel. A further generally recognised turning point comes at the end of chapter 10, when Jesus and his followers arrive in Jerusalem and the foreseen confrontation with the Temple authorities begins, leading R.T. France to characterise Mark as a three-act drama. James Edwards in his 2002 commentary points out that the gospel can be seen as a series of questions asking first who Jesus is (the answer being that he is the messiah), then what form his mission takes (a mission of suffering culminating in the crucifixion and resurrection, events only to be understood when the questions are answered), while another scholar, C. Myers, has made what Edwards calls a "compelling case" for recognising the incidents of Jesus' baptism, transfiguration and crucifixion, at the beginning, middle and end of the gospel, as three key moments, each with common elements, and each portrayed in an apocalyptic light. Stephen H. Smith has made the point that the structure of Mark is similar to the structure of a Greek tragedy
 
@@ -50,7 +48,7 @@ Modern scholars have proposed many explanations for the abrupt original ending, 
 
 Theology
 
-Sargis_Pitsak.jpg (14th century)]] Archaic_mark_session.jpg – "Archaic Mark"]]
+(14th century)]]  – "Archaic Mark"]]
 
 Gospel
 
@@ -92,7 +90,7 @@ The term "Son of God" likewise had a specific Jewish meaning, or range of meanin
 
 Comparison with other writings
 
-PericopesHenryIIFol117rAngelOnTomb.jpg)]]
+)]]
 
 Mark and the New Testament
 

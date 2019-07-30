@@ -9,7 +9,7 @@ History
 
 19th century
 
-The Lewis and Clark Expedition spent the winter of 1805–1806 at Fort Clatsop, a small log structure southwest of modern-day Astoria. The expedition had hoped a ship would come by to take them back east, but instead they endured a torturous winter of rain and cold, later returning the way they came.[3] Today the fort has been recreated and is now a historical park.[4] Franchere_fort_astoria_1813.jpg's 1813 sketch of Fort Astoria.]]
+The Lewis and Clark Expedition spent the winter of 1805–1806 at Fort Clatsop, a small log structure southwest of modern-day Astoria. The expedition had hoped a ship would come by to take them back east, but instead they endured a torturous winter of rain and cold, later returning the way they came.[3] Today the fort has been recreated and is now a historical park.[4] 's 1813 sketch of Fort Astoria.]]
 
 In 1811, British explorer David Thompson, the first person known to have navigated the entire length of the Columbia River, reached the partially constructed Fort Astoria near the mouth of the river. He arrived just two months after the Pacific Fur Company's ship, the _Tonquin_. The fort constructed by the Tonquin party established Astoria as a U.S., rather than a British, settlement, became a vital post for American exploration of the continent and was later used as an American claim in the Oregon boundary dispute with European nations.
 
@@ -27,21 +27,21 @@ Astoria attracted a host of immigrants beginning in the late 19th century: Nord
 
 In 1883, and again in 1922, downtown Astoria was devastated by fire, partly because it was mostly wood and entirely raised off the marshy ground on pilings. Even after the first fire, the same format was used, and the second time around the flames spread quickly again, as collapsing streets took out the water system. Frantic citizens resorted to dynamite, blowing up entire buildings to stop the fire from going further.[13][14]
 
-+---------------------------------------------------------------------------------+
-| Astoria,_Oregon,_looking_out_the_mouth_of_the_Columbia_River_LCCN2007662739.tif |
-+=================================================================================+
-|                                                                                 |
-+---------------------------------------------------------------------------------+
-|                                                                                 |
-+---------------------------------------------------------------------------------+
-|                                                                                 |
-+---------------------------------------------------------------------------------+
++--+
+|   |
++==+
+|  |
++--+
+|  |
++--+
+|  |
++--+
 
-Port_of_Astoria_Oregon_Signs.jpg Astoria has served as a port of entry for over a century and remains the trading center for the lower Columbia basin, although it has long since been eclipsed by Portland, Oregon, and Seattle, Washington, as an economic hub on the coast of the Pacific Northwest. Astoria's economy centered on fishing, fish processing, and lumber. In 1945, about 30 canneries could be found along the Columbia; however, in 1974, the Bumble Bee Seafoods corporation moved its headquarters out of Astoria and gradually reduced its presence until closing its last Astoria cannery in 1980.[15] The lumber industry likewise declined; Astoria Plywood Mill, the city's largest employer, closed in 1989, and the Burlington Northern and Santa Fe Railway discontinued service to Astoria in 1996.[16] Astoria_bridge.jpg From 1921 to 1966, a ferry route across the Columbia River connected Astoria with Pacific County, Washington. In 1966, the Astoria–Megler Bridge was opened. The bridge completed U.S. Route 101 and linked Astoria with Washington on the opposite shore of the Columbia, replacing the ferry service.
+Astoria has served as a port of entry for over a century and remains the trading center for the lower Columbia basin, although it has long since been eclipsed by Portland, Oregon, and Seattle, Washington, as an economic hub on the coast of the Pacific Northwest. Astoria's economy centered on fishing, fish processing, and lumber. In 1945, about 30 canneries could be found along the Columbia; however, in 1974, the Bumble Bee Seafoods corporation moved its headquarters out of Astoria and gradually reduced its presence until closing its last Astoria cannery in 1980.[15] The lumber industry likewise declined; Astoria Plywood Mill, the city's largest employer, closed in 1989, and the Burlington Northern and Santa Fe Railway discontinued service to Astoria in 1996.[16] From 1921 to 1966, a ferry route across the Columbia River connected Astoria with Pacific County, Washington. In 1966, the Astoria–Megler Bridge was opened. The bridge completed U.S. Route 101 and linked Astoria with Washington on the opposite shore of the Columbia, replacing the ferry service.
 
 Today, tourism, Astoria's growing art scene, and light manufacturing are the main economic activities of the city. Logging and fishing persist, but at a fraction of their former levels.[17] It is a port of call for cruise ships since 1982, after $10 million in pier improvements to accommodate these larger ships. To avoid Mexican ports of call during the Swine Flu outbreak of 2009, many cruises were re-routed to include Astoria. The floating residential community MS _The World_ visited Astoria in June 2009.[18] The town's seasonal sport fishing tourism has been active for several decades[19] [20] [21] and has now been supplanted with visitors coming for the historic elements of the city. The more recent microbrewery/brewpub scene[22] and a weekly street market[23] have helped popularized the area as a destination.
 
-Astoria_Column_e.jpg In addition to the replicated Fort Clatsop, another point of interest is the Astoria Column, a tower high, built atop Coxcomb Hill above the town, with an inner circular staircase allowing visitors to climb to see a panoramic view of the town, the surrounding lands, and the Columbia flowing into the Pacific. The tower was built in 1926 with financing by the Great Northern Railway and Vincent Astor of the Astor family, the great-grandson of John Jacob Astor, in commemoration of the city's role in the family's business history and the region's early history.[24][25]
+In addition to the replicated Fort Clatsop, another point of interest is the Astoria Column, a tower high, built atop Coxcomb Hill above the town, with an inner circular staircase allowing visitors to climb to see a panoramic view of the town, the surrounding lands, and the Columbia flowing into the Pacific. The tower was built in 1926 with financing by the Great Northern Railway and Vincent Astor of the Astor family, the great-grandson of John Jacob Astor, in commemoration of the city's role in the family's business history and the region's early history.[24][25]
 
 Since 1998, artistically-inclined fishermen and women from Alaska and the Pacific Northwest have traveled to Astoria for the Fisher Poets Gathering, where poets and singers tell their tales to honor the fishing industry and lifestyle.[26]
 
@@ -62,7 +62,7 @@ Astoria lies within the Mediterranean climate zone (Köppen _Csb_), with cool wi
 
 Astoria is tied with Lake Charles, Louisiana, and Port Arthur, Texas, as the city with the highest average relative humidity in the contiguous United States. The average relative humidity in Astoria is 89% in the morning and 73% in the afternoon.[32]
 
-Astoria_aerial_from_Youngs_Bay_-_panoramio.jpg Annually, there are an average of only 4.2 afternoons with temperatures reaching or higher, and readings are rare. Normally there are only one or two nights per year when the temperature remains at or above .[33] There are an average of 31 mornings with minimum temperatures at or below the freezing mark. The record high temperature was on July 1, 1942. The record low temperature was on December 8, 1972, and on December 21, 1990.
+Annually, there are an average of only 4.2 afternoons with temperatures reaching or higher, and readings are rare. Normally there are only one or two nights per year when the temperature remains at or above .[33] There are an average of 31 mornings with minimum temperatures at or below the freezing mark. The record high temperature was on July 1, 1942. The record low temperature was on December 8, 1972, and on December 21, 1990.
 
 There are an average of 191 days with measurable precipitation. The wettest "water year", defined as October 1 through September 30 of the next year, was from 1915–16 with and the driest from 2000–2001 with . The most rainfall in one month was in December 1933, and the most in 24 hours was on November 25, 1998.[34] The most snowfall in one month was in January 1950,[35][36] and the most snow in 24 hours was on December 11, 1922.[37]
 
@@ -127,7 +127,7 @@ _The Daily Astorian_ is the main newspaper serving Astoria, it was established n
 
 In popular culture and entertainment
 
-Old_Clatsop_County_jail_-_Astoria_Oregon.jpg. The site is now home to the Oregon Film Museum.]] _Shanghaied in Astoria_ is a musical about Astoria's history that has been performed in Astoria every year since 1984.[45]
+. The site is now home to the Oregon Film Museum.]] _Shanghaied in Astoria_ is a musical about Astoria's history that has been performed in Astoria every year since 1984.[45]
 
 Astoria was the setting of the 1985 film _The Goonies_, which was filmed on location. Other notable movies filmed in Astoria include _Short Circuit_, _The Black Stallion_, _Kindergarten Cop_, _Free Willy_, _Free Willy 2: The Adventure Home_, _Teenage Mutant Ninja Turtles III_, _Benji the Hunted_, _Come See the Paradise,_ _The Ring Two_, _Into the Wild_, The Guardian_,_ and _Green Room._[46][47][48][49]
 
@@ -149,7 +149,7 @@ Two U.S. Navy cruisers were named USS _Astoria_: A New Orleans-class heavy cruis
 
 Museums and other points of interest
 
-Flavel_House_from_steps.jpg.]]
+.]]
 
 -   Columbia River Maritime Museum
 -   Astoria Riverfront Trolley

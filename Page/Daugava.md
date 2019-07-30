@@ -10,7 +10,7 @@ The total catchment area of the river is , of which are within Belarus.[2]
 
 Etymology
 
-Riga_Dom_Bruecke_Daugava.jpg in Latvia]] According to the Max Vasmer's _Etymological Dictionary_, the toponym Dvina clearly cannot stem from a Uralic language, and it possibly comes from Indo-European word which used to mean _river_ or _stream_.[3]
+in Latvia]] According to the Max Vasmer's _Etymological Dictionary_, the toponym Dvina clearly cannot stem from a Uralic language, and it possibly comes from Indo-European word which used to mean _river_ or _stream_.[3]
 
 
 Environment
@@ -35,7 +35,7 @@ Krāslava, Daugavpils, Līvāni, Jēkabpils, Pļaviņas, Aizkraukle, Jaunjelgava
 
 History
 
-Riga,_Daugava_River.JPG.]] Ustdvinsk.jpg at the Daugava's estuary in Latvia.]] Humans have settled at the mouth of the Daugava and around the other shores of the Gulf of Riga for millennia, initially participating in a hunter-gatherer economy and utilizing the waters of the Daugava estuary as fishing and gathering areas for aquatic biota. Beginning around the sixth century AD, Viking explorers crossed the Baltic Sea and entered the Daugava River, navigating upriver into the Baltic interior.[5]
+.]] at the Daugava's estuary in Latvia.]] Humans have settled at the mouth of the Daugava and around the other shores of the Gulf of Riga for millennia, initially participating in a hunter-gatherer economy and utilizing the waters of the Daugava estuary as fishing and gathering areas for aquatic biota. Beginning around the sixth century AD, Viking explorers crossed the Baltic Sea and entered the Daugava River, navigating upriver into the Baltic interior.[5]
 
 In medieval times the Daugava was an important area of trading and navigation - part of the trade route from the Varangians to the Greeks - for transport of furs from the north and of Byzantine silver from the south. The Riga area, inhabited by the Finnic-speaking Livs, became a key element of settlement and defence of the mouth of the Daugava at least as early as the Middle Ages, as evidenced by the now destroyed fort at Torņakalns on the west bank of the Daugava at present day Riga. Since the Late Middle Ages the western part of the Daugava basin has come under the rule of various peoples and states; for example the Latvian town of Daugavpils, located on the western Daugava, variously came under papal rule as well as Slavonic, Polish, German and Russian sway until restoration of the Latvian independence in 1990 at the end of the Cold War.
 

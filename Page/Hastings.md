@@ -11,7 +11,7 @@ History
 
 Early history
 
-Hastings-_Boats_making_the_Shore_in_a_Breeze,_by_John_James_Chalon,_1819.JPG, 1819]] The first mention of Hastings is found in the late 8th century in the form _Hastingas_. This is derived from the Old English tribal name _Hæstingas_, meaning `the constituency (followers) of Hæsta'. Symeon of Durham records the victory of Offa in 771 over the _Hestingorum gens_, that is, "the people of the Hastings tribe." Hastingleigh in Kent was named after that tribe. The place name _Hæstingaceaster_ is found in the _Anglo-Saxon Chronicle_ entry for 1050,[3][4] and may be an alternative name for Hastings. However, the absence of any archaeological remains of or documentary evidence for a Roman fort at Hastings suggest that _Hæstingaceaster_ may refer to a different settlement, most likely that based on the Roman remains at Pevensey.[5]
+, 1819]] The first mention of Hastings is found in the late 8th century in the form _Hastingas_. This is derived from the Old English tribal name _Hæstingas_, meaning `the constituency (followers) of Hæsta'. Symeon of Durham records the victory of Offa in 771 over the _Hestingorum gens_, that is, "the people of the Hastings tribe." Hastingleigh in Kent was named after that tribe. The place name _Hæstingaceaster_ is found in the _Anglo-Saxon Chronicle_ entry for 1050,[3][4] and may be an alternative name for Hastings. However, the absence of any archaeological remains of or documentary evidence for a Roman fort at Hastings suggest that _Hæstingaceaster_ may refer to a different settlement, most likely that based on the Roman remains at Pevensey.[5]
 
 Evidence of prehistoric settlements have been found at the town site: flint arrowheads and Bronze Age artefacts have been found. Iron Age forts have been excavated on both the East and West Hills. This suggests that the inhabitants moved early to the safety of the valley in between the forts. The settlement was already based on the port when the Romans arrived in Britain for the first time in 55 BC. At this time, they began to exploit the iron (Wealden rocks provide a plentiful supply of the ore), and shipped it out by boat. Iron was worked locally at Beauport Park, to the north of the town. It employed up to one thousand men and is considered to have been the third-largest mine in the Roman Empire.[6]
 
@@ -29,7 +29,7 @@ During the reign of Athelstan, he established a royal mint in Hastings in AD 928
 
 Medieval Hastings
 
-Manuscript_of_XIII_BC_Battle_of_Hastings.jpg The start of the Norman Conquest was the Battle of Hastings, fought on 14 October 1066, although the battle itself took place to the north at Senlac Hill, and William had landed on the coast between Hastings and Eastbourne at Pevensey. It is thought that the Norman encampment was on the town's outskirts, where there was open ground; a new town was already being built in the valley to the east. That "New Burgh" was founded in 1069 and is mentioned in the Domesday Book as such. William defeated and killed Harold Godwinson, the last Saxon King of England, and destroyed his army, thus opening England to the Norman conquest.
+The start of the Norman Conquest was the Battle of Hastings, fought on 14 October 1066, although the battle itself took place to the north at Senlac Hill, and William had landed on the coast between Hastings and Eastbourne at Pevensey. It is thought that the Norman encampment was on the town's outskirts, where there was open ground; a new town was already being built in the valley to the east. That "New Burgh" was founded in 1069 and is mentioned in the Domesday Book as such. William defeated and killed Harold Godwinson, the last Saxon King of England, and destroyed his army, thus opening England to the Norman conquest.
 
 William caused a castle to be built at Hastings probably using the earthworks of the existing Saxon castle.
 
@@ -39,7 +39,7 @@ Muslim scholar Muhammad al-Idrisi, writing c.1153, described Hastings as "a town
 
 Hastings and the sea
 
-Joseph_Mallord_William_Turner_-_The_Fish_Market_at_Hastings_Beach_-_Google_Art_Project.jpg (1810)]]
+(1810)]]
 
 By the end of the Saxon period, the port of Hastings had moved eastward near the present town centre in the Priory Stream valley, whose entrance was protected by the White Rock headland (since demolished). It was to be a short stay: Danish attacks and huge floods in 1011 and 1014 motivated the townspeople to relocate to the New Burgh.
 
@@ -47,43 +47,41 @@ In the Middle Ages Hastings became one of the Cinque Ports; Sandwich, Dover and 
 
 In the 13th century, much of the town and half of Hastings Castle was washed away in the South England flood of February 1287. During a naval campaign of 1339, and again in 1377, the town was raided and burnt by the French, and seems then to have gone into a decline. As a port, Hastings' days were finished.
 
-Hastings_town_centre_postcard.jpg Hastings had suffered over the years from the lack of a natural harbour, and there have been attempts to create a sheltered harbour. Attempts were made to build a stone harbour during the reign of Elizabeth I, but the foundations were destroyed by the sea in terrible storms. The fishing boats are still stored on and launched from the beach.
+Hastings had suffered over the years from the lack of a natural harbour, and there have been attempts to create a sheltered harbour. Attempts were made to build a stone harbour during the reign of Elizabeth I, but the foundations were destroyed by the sea in terrible storms. The fishing boats are still stored on and launched from the beach.
 
 Hastings was then just a small fishing settlement, but it was soon discovered that the new taxes on luxury goods could be made profitable by smuggling; the town was ideally located for that purpose.[16] Near the castle ruins, on the West Hill, are "St Clement's Caves", partly natural, but mainly excavated by hand by smugglers from the soft sandstone. Their trade was to come to an end with the period following the Napoleonic Wars, for the town became one of the most fashionable resorts in Britain, brought about by the so-called health-giving properties of seawater, as well as the local springs and Roman baths. Once this came about the expansion of the town took place, to the west, since there was little space left in the valley.
 
-Bottle_Alley_Hastings.jpg]] It was at this time that the elegant Pelham Crescent and Wellington Square were built: other building followed. In the Crescent (designed by architect Joseph Kay) is the classical style church of St Mary in the Castle (its name recalling the old chapel in the castle above) now in use as an arts centre. The building of the crescent and the church necessitated further cutting away of the castle hill cliffs. Once that move away from the old town had begun, it led to the further expansion along the coast, eventually linking up with the new St Leonards.
+]] It was at this time that the elegant Pelham Crescent and Wellington Square were built: other building followed. In the Crescent (designed by architect Joseph Kay) is the classical style church of St Mary in the Castle (its name recalling the old chapel in the castle above) now in use as an arts centre. The building of the crescent and the church necessitated further cutting away of the castle hill cliffs. Once that move away from the old town had begun, it led to the further expansion along the coast, eventually linking up with the new St Leonards.
 
-Historische_Altstadt-Hastings.JPG Like many coastal towns, the population of Hastings grew significantly as a result of the construction of railway links and the fashionable growth of seaside holidays during the Victorian era. In 1801, its population was a mere 3,175; by 1831, it had reached over ten thousand; by 1891, it was almost sixty thousand.
+Like many coastal towns, the population of Hastings grew significantly as a result of the construction of railway links and the fashionable growth of seaside holidays during the Victorian era. In 1801, its population was a mere 3,175; by 1831, it had reached over ten thousand; by 1891, it was almost sixty thousand.
 
 The last harbour project began in 1896, but this also failed when structural problems and rising costs exhausted all the available funds. Today a fractured seawall is all that remains of what might have become a magnificent harbour. In 1897, the foundation stone was laid on a large concrete structure, but there was insufficient money to complete the work and the "Harbour arm" remains uncompleted. It was later partially blown up to discourage possible use by German invasion forces during World War II.
 
 Between 1903 and 1919 Fred Judge FRPS photographed many of the towns events and disasters. These included storms, the first tram, visit of the Lord Mayor of London, Hastings Marathon Race and the pier fire of 1917. Many of these images were produced as picture postcards by the British Postcard manufacturer he founded now known as Judges Postcards.
 
-In the 1930s, the town underwent some rejuvenation. Seaside resorts were starting to go out of fashion: Hastings perhaps more than most. The town council set about a huge rebuilding project, among which the promenade was rebuilt, and an Olympic-size bathing pool was erected. The latter, regarded in its day as one of the best open-air swimming and diving complexes in Europe, later became a holiday camp before closing in 1986. It was demolished, but the area is still known by locals as "The Bathing Pool".[17] Hastings_Old_Town_July_1965.jpg The 2001 census reported over 85,000 inhabitants.
+In the 1930s, the town underwent some rejuvenation. Seaside resorts were starting to go out of fashion: Hastings perhaps more than most. The town council set about a huge rebuilding project, among which the promenade was rebuilt, and an Olympic-size bathing pool was erected. The latter, regarded in its day as one of the best open-air swimming and diving complexes in Europe, later became a holiday camp before closing in 1986. It was demolished, but the area is still known by locals as "The Bathing Pool".[17] The 2001 census reported over 85,000 inhabitants.
 
 
 Government
-
-EastSussexHastings.png
 
 Hastings returned two Members of Parliament from the 14th century until 1885, since when it has returned one. Since 1983, it has been part of the parliamentary constituency of Hastings and Rye; the current MP, since 2010, is Amber Rudd of the Conservative Party. Prior to 1983, the town formed the Hastings parliamentary constituency by itself.
 
 Hastings, it is thought, was a Saxon town before the arrival of the Normans: the Domesday Book refers to a _new Borough_: as a borough, Hastings had a corporation consisting of a "bailiff, jurats, and commonalty".[18] Its importance was such that it also gave its name to one of the six Rapes or administrative districts of Sussex.
 
-Hastings_Town_Hall_-_geograph.org.uk_-_1197481.jpg By a Charter of Elizabeth I in 1589 the bailiff was replaced by a mayor, by which time the town's importance was dwindling. In the Georgian era, patronage of such seaside places (such as nearby Brighton) gave it a new lease of life so that, when the time came with the reform of English local government in 1888, Hastings became a County Borough, responsible for all its local services, independent of the surrounding county, then Sussex (East); less than one hundred years later, in 1974, that status was abolished.
+By a Charter of Elizabeth I in 1589 the bailiff was replaced by a mayor, by which time the town's importance was dwindling. In the Georgian era, patronage of such seaside places (such as nearby Brighton) gave it a new lease of life so that, when the time came with the reform of English local government in 1888, Hastings became a County Borough, responsible for all its local services, independent of the surrounding county, then Sussex (East); less than one hundred years later, in 1974, that status was abolished.
 
 Hastings Borough Council is now in the second tier of local government, below East Sussex County Council. The Labour Party has an overall control of the council with 23 seats, whilst the Conservative Party holds 9 seats and one is held by an independent. The Borough is divided into sixteen electoral wards; Ashdown, Baird, Braybrooke, Castle, Central St Leonards, Conquest, Gensing, Hollington, Maze Hill, Old Hastings, Ore, St Helens, Silverhill, Tressell, West St Leonards and Wishing Tree.[19] The council leader is Peter Chowney, who stood against Rudd as a Labour candidate in the 2017 election.[20]
 
 
 Geography and climate
 
-East_Cliff_Lift_Re-opening_-_geograph.org.uk_-_1773330.jpg Hastings_East_Cliff.jpg Hastings is situated where the sandstone beds, at the heart of the Weald, known geologically as the Hastings Sands, meet the English Channel, forming tall cliffs to the east of the town. Hastings Old Town is in a sheltered valley between the East Hill and West Hill (on which the remains of the Castle stand). In Victorian times and later the town has spread westwards and northwards, and now forms a single urban centre with the more suburban area of St Leonards-on-Sea to the west. Roads from the Old Town valley lead towards the Victorian area of Clive Vale and the former village of Ore, from which "The Ridge", marking the effective boundary of Hastings, extends north-westwards towards Battle. Beyond Bulverhythe, the western end of Hastings is marked by low-lying land known as Glyne Gap, separating it from Bexhill-on-Sea.
+Hastings is situated where the sandstone beds, at the heart of the Weald, known geologically as the Hastings Sands, meet the English Channel, forming tall cliffs to the east of the town. Hastings Old Town is in a sheltered valley between the East Hill and West Hill (on which the remains of the Castle stand). In Victorian times and later the town has spread westwards and northwards, and now forms a single urban centre with the more suburban area of St Leonards-on-Sea to the west. Roads from the Old Town valley lead towards the Victorian area of Clive Vale and the former village of Ore, from which "The Ridge", marking the effective boundary of Hastings, extends north-westwards towards Battle. Beyond Bulverhythe, the western end of Hastings is marked by low-lying land known as Glyne Gap, separating it from Bexhill-on-Sea.
 
 The sandstone cliffs have been the subject of considerable erosion in relatively recent times: much of the Castle was lost to the sea before the present sea defences and promenade were built, and a number of cliff-top houses are in danger of disappearing around the nearby village of Fairlight.
 
 The beach is mainly shingle, although wide areas of sand are uncovered at low tide. The town is generally built upon a series of low hills rising to above sea level at "The Ridge" before falling back in the river valley further to the north.
 
-Fossilised_dinosaur_footprint_fairlght_cliffs_2007.JPG There are three Sites of Special Scientific Interest within the borough; Marline Valley Woods, Combe Haven and Hastings Cliffs To Pett Beach. Marline Valley Woods lies within the Ashdown ward of Hastings. It is an ancient woodland of Pedunculate oak—hornbeam which is uncommon nationally. Sussex Wildlife Trust own part of the site.[21] Combe Haven is another site of biological interest, with alluvial meadows, and the largest reed bed in the county, providing habitat for breeding birds. It is in the West St Leonards ward, stretching into the parish of Crowhurst.[22] The final SSSI, Hastings Cliffs to Pett Beach, is within the Ore ward of Hastings, extending into the neighbouring Fairlight and Pett parishes. The site runs along the coast and is of both biological and geological interest. The cliffs hold many fossils and the site has many habitats, including ancient woodland and shingle beaches.[23]
+There are three Sites of Special Scientific Interest within the borough; Marline Valley Woods, Combe Haven and Hastings Cliffs To Pett Beach. Marline Valley Woods lies within the Ashdown ward of Hastings. It is an ancient woodland of Pedunculate oak—hornbeam which is uncommon nationally. Sussex Wildlife Trust own part of the site.[21] Combe Haven is another site of biological interest, with alluvial meadows, and the largest reed bed in the county, providing habitat for breeding birds. It is in the West St Leonards ward, stretching into the parish of Crowhurst.[22] The final SSSI, Hastings Cliffs to Pett Beach, is within the Ore ward of Hastings, extending into the neighbouring Fairlight and Pett parishes. The site runs along the coast and is of both biological and geological interest. The cliffs hold many fossils and the site has many habitats, including ancient woodland and shingle beaches.[23]
 
 Climate
 
@@ -124,17 +122,15 @@ Ethnicity in 2001[32]
 
 Economy
 
-hastings-wyrdlight-1201.jpg
-
 Until the development of tourism, fishing was Hastings' major industry. The fishing fleet, based at the Stade, remains Europe's largest beach-launched fishing fleet and has recently won accreditation for its sustainable methods. The fleet has been based on the same beach, below the cliffs at Hastings, for at least 400, possibly 600, years. Its longevity is attributed to the prolific fishing ground of Rye Bay nearby.[33] Hastings fishing vessels are registered at Rye, and thus bear the letters "RX" (Rye, SusseX).
 
 There are now various industrial estates that lie around the town, mostly on the outskirts, which include engineering, catering, motoring and construction; however, most of the jobs within the Borough are concentrated on health, public services, retail and education. 85% of the firms (in 2005) employed fewer than 10 people; as a consequence the unemployment rate was 3.3% (_cf._ East Sussex 1.7%). However, qualification levels are similar to the national average: 8.2% of the working-age population have no qualifications while 28% hold degree-level qualifications or higher, compared with 11% and 31% respectively across England.
 
 Shopping and retail
 
-Entrance_to_Kings_Walk,_Priory_Meadow_Shopping_Centre,_Hastings_-_geograph.org.uk_-_1197474.jpg Hastings main shopping centre is Priory Meadow Shopping Centre, which was built on the site of the old Central Recreation Ground which played host to some Sussex CCC first-class fixtures, and cricketing royalty such as Dr. W. G. Grace and Sir Don Bradman. The centre houses 56 stores and covers around 420,000 ft². Further retail areas in the town centre include Queens Road, Wellington Place and Robertson Street.
+Hastings main shopping centre is Priory Meadow Shopping Centre, which was built on the site of the old Central Recreation Ground which played host to some Sussex CCC first-class fixtures, and cricketing royalty such as Dr. W. G. Grace and Sir Don Bradman. The centre houses 56 stores and covers around 420,000 ft². Further retail areas in the town centre include Queens Road, Wellington Place and Robertson Street.
 
-Lacuna_Place_on_Havelock_Rd,_Hastings,_East_Sussex.jpg |date=24 September 2008 |accessdate=28 January 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20140202225721/http://www.hastingsobserver.co.uk/news/local/opening-of-lacuna-place-set-to-create-jobs-for-hastings-1-1450744 |archivedate=2 February 2014 |df=dmy-all }} where the SAGA offices are based]] There are plans to expand the retail area in Hastings, which includes expanding Priory Meadow and creating more retail space as part of the Priory Quarter development. Priory was intended to have a second floor added to part of the retail area, which has not happened yet and so far only office space has been created as part of the Priory Quarter.[34]
+|date=24 September 2008 |accessdate=28 January 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20140202225721/http://www.hastingsobserver.co.uk/news/local/opening-of-lacuna-place-set-to-create-jobs-for-hastings-1-1450744 |archivedate=2 February 2014 |df=dmy-all }} where the SAGA offices are based]] There are plans to expand the retail area in Hastings, which includes expanding Priory Meadow and creating more retail space as part of the Priory Quarter development. Priory was intended to have a second floor added to part of the retail area, which has not happened yet and so far only office space has been created as part of the Priory Quarter.[34]
 
 Regeneration
 
@@ -149,7 +145,7 @@ Hastings has an Army Cadet Force (ACF) detachment which is part of Sussex ACF. T
 
 Events
 
-Hastings_Borough_Bonfire_Society,_Old_Town_Carnival_2010.jpg A_Giant_Mermaid^_Jack_in_the_Green_Festival_-_geograph.org.uk_-_1297677.jpg Throughout the year many annual events take place in Hastings, the largest of which being the May Day bank holiday weekend, which features a Jack-in-the-Green festival (revived since 1983),[40] and the culmination of the Maydayrun—tens of thousands of motorcyclists having ridden the A21 to Hastings. The yearly carnival during Old Town Week takes place every August, which includes a week of events around Hastings Old Town, including a Seaboot race, bike race, street party and pram race. In September, there is a month-long arts festival 'Coastal Currents' and a Seafood and Wine Festival. During Hastings Week held each year around 14 October the Hastings Bonfire Society[41] stages a traditional Sussex Bonfire which includes a torchlight procession through the streets, a beach bonfire and firework display. Hastings Pirate Day takes place in July every year. Hastings, as of November 2017, still holds the Guinness World Record for the most pirates in one place.
+Throughout the year many annual events take place in Hastings, the largest of which being the May Day bank holiday weekend, which features a Jack-in-the-Green festival (revived since 1983),[40] and the culmination of the Maydayrun—tens of thousands of motorcyclists having ridden the A21 to Hastings. The yearly carnival during Old Town Week takes place every August, which includes a week of events around Hastings Old Town, including a Seaboot race, bike race, street party and pram race. In September, there is a month-long arts festival 'Coastal Currents' and a Seafood and Wine Festival. During Hastings Week held each year around 14 October the Hastings Bonfire Society[41] stages a traditional Sussex Bonfire which includes a torchlight procession through the streets, a beach bonfire and firework display. Hastings Pirate Day takes place in July every year. Hastings, as of November 2017, still holds the Guinness World Record for the most pirates in one place.
 
 Other smaller events include the Hastings Beer and Music Festival, held every July in Alexandra Park, the Hastings Musical Festival held every March in the White Rock Theatre and the Hastings International Chess Congress.
 
@@ -161,7 +157,7 @@ There is a small four screen Odeon cinema in the town, located opposite the town
 
 Museums and art galleries
 
-Former_St_Nicholas'_Church_(Fishermen's_Church),_Old_Town,_Hastings_(IoE_Code_294063).JPG There are three museums in Hastings; the Hastings Museum and Art Gallery, the Hastings Fishermen's Museum and the Shipwreck Museum. The former two mentioned are open for the whole year while the Shipwreck Museum is open only weekends during the winter, but daily for the rest of the year.
+There are three museums in Hastings; the Hastings Museum and Art Gallery, the Hastings Fishermen's Museum and the Shipwreck Museum. The former two mentioned are open for the whole year while the Shipwreck Museum is open only weekends during the winter, but daily for the rest of the year.
 
 The Hastings Museum and Art gallery concentrates mostly on local history and contains exhibits on Grey Owl and John Logie Baird. It also features a Durbar Hall, donated by Lord Brassey; the hall contains displays focusing on the Indian subcontinent and the Brassey Family. The Fishermen's Museum, housed in the former fishermen's church, is dedicated to the fishing industry and maritime history of Hastings. The Shipwreck Museum displays artifacts from wrecks around the area.
 
@@ -174,11 +170,11 @@ There are many parks and open spaces located throughout the town, one of the mos
 
 Landmarks
 
-Hastings_Castle.jpg Hastings Castle was built in 1070 by the Normans, four years after the Norman invasion. It is located on the West Hill, overlooking the town centre and is a Grade I listed building. Little remains of the castle apart from the arch left from the chapel, part of the walls and dungeons. The nearby St. Clements Caves are home to the Smugglers Adventure, which features interactive displays relating to the history of smuggling on the south coast of England.
+Hastings Castle was built in 1070 by the Normans, four years after the Norman invasion. It is located on the West Hill, overlooking the town centre and is a Grade I listed building. Little remains of the castle apart from the arch left from the chapel, part of the walls and dungeons. The nearby St. Clements Caves are home to the Smugglers Adventure, which features interactive displays relating to the history of smuggling on the south coast of England.
 
 Hastings Pier can be seen from any part of the seafront in the town. The pier was closed in 2006 following safety concerns from the council. In October 2010, a serious fire burned down most of the buildings on the pier and caused further damage to the structure.[44] However, the pier reopened on 27 April 2016 after a £14.2m refurbishment.[45]
 
-Marinecourtday.jpg Many church buildings throughout the town are Grade II listed including; Church in the Wood, Blacklands Parish Church, Ebenezer Particular Baptist Chapel, Fishermen's Museum and St Mary Magdalene's Church.
+Many church buildings throughout the town are Grade II listed including; Church in the Wood, Blacklands Parish Church, Ebenezer Particular Baptist Chapel, Fishermen's Museum and St Mary Magdalene's Church.
 
 On the seafront at St Leonards is Marine Court, a 1938 block of flats in the Art Deco style that was originally called 'The Ship' due to its style being based on the ocean liner RMS _Queen Mary_. This block of flats can be seen up to away on a clear day, from Holywell, in the Meads area of Eastbourne.
 
@@ -197,7 +193,7 @@ National Express Coaches run service 023 to London.
 
 National rail
 
-Hastings_&_St_Leonards_RJD_100_-_excerpt.jpg of Hastings area lines and stations; the Bexhill West branch and the West Marina station have since closed.]] Hastings has four rail links: two to London, one to Brighton and one to Ashford. Of the London lines, the shorter is the Hastings Line, the former South Eastern Railway (SER) route to Charing Cross via Battle and Tunbridge Wells, which opened in 1852; and the longer is the East Coastway Line, the former London, Brighton and South Coast Railway (LBSCR) route to Victoria via Bexhill, Eastbourne and Lewes. Trains to Brighton also use the East Coastway Line. The Marshlink Line runs via Rye to Ashford where a connection can be made with Eurostar services, and is unelectrified except for the Hastings-Ore segment.
+of Hastings area lines and stations; the Bexhill West branch and the West Marina station have since closed.]] Hastings has four rail links: two to London, one to Brighton and one to Ashford. Of the London lines, the shorter is the Hastings Line, the former South Eastern Railway (SER) route to Charing Cross via Battle and Tunbridge Wells, which opened in 1852; and the longer is the East Coastway Line, the former London, Brighton and South Coast Railway (LBSCR) route to Victoria via Bexhill, Eastbourne and Lewes. Trains to Brighton also use the East Coastway Line. The Marshlink Line runs via Rye to Ashford where a connection can be made with Eurostar services, and is unelectrified except for the Hastings-Ore segment.
 
 A historic British Rail Class 201 "Thumper" can sometimes been seen (and heard) on historic runs to and from Hastings.[47]
 
@@ -207,7 +203,7 @@ The town currently has four railway stations: from west to east they are West St
 
 Local rail
 
-Hastings_funicular_railway.jpg There are two funicular railways, known locally as the West Hill and East Hill Lifts respectively.
+There are two funicular railways, known locally as the West Hill and East Hill Lifts respectively.
 
 The Hastings Miniature Railway operates along the beach from Rock-a-Nore to Marine Parade, and has provided tourist transport since 1948. The railway was considerably restored and re-opened in 2010.
 
@@ -225,7 +221,7 @@ Hastings became part of the Turnpike road system in 1837, when builder James Bur
 
 Trams and trolleybuses
 
-Hastings_and_District_Electric_Tramways.jpg Hastings had a network of trams from 1905 to 1929. The trams ran as far as Bexhill, and were worked by overhead electric wires, except for the stretch along the seafront from Bo-Peep to the Memorial, which was initially worked by the Dolter stud contact system. The Dolter system was replaced by petrol electric trams in 1914, but overhead electrification was extended to this section in 1921. Trolleybuses rather than trams were used in the section that included the very narrow High Street, and the entire tram network was replaced by the Hastings trolleybus system in 1928–1929.[51]
+Hastings had a network of trams from 1905 to 1929. The trams ran as far as Bexhill, and were worked by overhead electric wires, except for the stretch along the seafront from Bo-Peep to the Memorial, which was initially worked by the Dolter stud contact system. The Dolter system was replaced by petrol electric trams in 1914, but overhead electrification was extended to this section in 1921. Trolleybuses rather than trams were used in the section that included the very narrow High Street, and the entire tram network was replaced by the Hastings trolleybus system in 1928–1929.[51]
 
 Maidstone & District bought the Hastings Tramway Company in 1935, but the trolleybuses still carried the "Hastings Tramways" logo until shortly before they were replaced by diesel buses in 1959, following the failure of the "Save our trolleys" campaign.
 
@@ -236,7 +232,7 @@ Hastings has 18 primary schools, four secondary schools, one further education c
 
 The University of Brighton in Hastings offers higher education courses in a range of subjects and currently attracts over 800 students. The university's Hastings campus doubled in size in 2012, with the addition of the new Priory Square building designed by Proctor and Matthews Architects.[52] This is located in the town centre a short distance from the railway station.
 
-SCCH_plaze_building_across_station_forecourt.JPG Sussex Coast College, formerly called Hastings College, is the town's further education college; it is located at Station Plaza, next to the railway station.
+Sussex Coast College, formerly called Hastings College, is the town's further education college; it is located at Station Plaza, next to the railway station.
 
 The secondary schools in the town include Ark Helenswood Academy, Ark William Parker Academy, Hastings Academy and The St Leonards Academy. East Sussex County Council closed three mixed comprehensive schools: Filsham Valley, The Grove and Hillcrest, replacing them with two academy schools, The St Leonards Academy, and The Hastings Academy. The sponsors for the academies are University of Brighton (lead sponsor), British Telecom and East Sussex County Council itself. East Sussex County Council provisionally approved the closure of Hillcrest, The Grove and Filsham Valley. The academies were opened in September 2011.
 
@@ -248,7 +244,7 @@ The most important buildings from the late medieval period are the two churches 
 
 Sport
 
-Hastings_Half_Marathon,_Marina,_St_Leonards_-_geograph.org.uk_-_1204815.jpg Every year the Hastings Half Marathon is held in the town. The 13.1 mi (21.1 km) race first took place in 1984 and attracts entrants from all over the country, taking runners on a route encircling the town, starting and finishing by the West Marina Gardens in St Leonards.
+Every year the Hastings Half Marathon is held in the town. The 13.1 mi (21.1 km) race first took place in 1984 and attracts entrants from all over the country, taking runners on a route encircling the town, starting and finishing by the West Marina Gardens in St Leonards.
 
 Hastings United is the town's most senior football team, playing in the Premier Division of the Isthmian League. It was founded in 1894 and plays its home games at The Pilot Field, which ground used to be home to two other senior clubs; St Leonards and the original Hastings United which folded in 1985. There are football clubs in Hastings that compete in the East Sussex League, such as Hollington United, St Leonards Social and Rock-a-Nore, playing at local parks and recreation grounds about the town. United attracted sports media headlines, when in 2012 they made it to the third round of the FA Cup for the first time in their history, being the lowest ranked team left in the contest before going out - losing 4-1 to Middlesbrough.
 

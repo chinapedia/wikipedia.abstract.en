@@ -7,7 +7,7 @@ In North America, autumn traditionally starts on September 21 and ends on Decemb
 
 Etymology
 
-Dülmen,_Wildpark_--_2014_--_3808_color_balanced.jpg The word _autumn_ comes from the ancient Etruscan root _autu-_ and has within it connotations of the passing of the year.[13] It was borrowed by the neighbouring Romans, and became the Latin word __.[14] After the Roman era, the word continued to be used as the Old French word __ (__ in modern French) or __ in Middle English,[15] and was later normalised to the original Latin. In the Medieval period, there are rare examples of its use as early as the 12th century, but by the 16th century, it was in common use.
+The word _autumn_ comes from the ancient Etruscan root _autu-_ and has within it connotations of the passing of the year.[13] It was borrowed by the neighbouring Romans, and became the Latin word __.[14] After the Roman era, the word continued to be used as the Old French word __ (__ in modern French) or __ in Middle English,[15] and was later normalised to the original Latin. In the Medieval period, there are rare examples of its use as early as the 12th century, but by the 16th century, it was in common use.
 
 Before the 16th century, _harvest_ was the term usually used to refer to the season, as it is common in other West Germanic languages to this day (cf. Dutch __, German __ and Scots __). However, as more people gradually moved from working the land to living in towns, the word _harvest_ lost its reference to the time of year and came to refer only to the actual activity of reaping, and _autumn_, as well as _fall_, began to replace it as a reference to the season.[16][17]
 
@@ -22,7 +22,7 @@ Associations
 
 Harvest
 
-Harvest_Straw_Bales_in_Schleswig-Holstein.jpg straw bales in a field of Schleswig-Holstein, Germany]] Association with the transition from warm to cold weather, and its related status as the season of the primary harvest, has dominated its themes and popular images. In Western cultures, personifications of autumn are usually pretty, well-fed females adorned with fruits, vegetables and grains that ripen at this time. Many cultures feature autumnal harvest festivals, often the most important on their calendars. Still extant echoes of these celebrations are found in the autumn Thanksgiving holiday of the United States and Canada, and the Jewish Sukkot holiday with its roots as a full-moon harvest festival of "tabernacles" (living in outdoor huts around the time of harvest). There are also the many North American Indian festivals tied to harvest of ripe foods gathered in the wild, the Chinese Mid-Autumn or Moon festival, and many others. The predominant mood of these autumnal celebrations is a gladness for the fruits of the earth mixed with a certain melancholy linked to the imminent arrival of harsh weather.
+straw bales in a field of Schleswig-Holstein, Germany]] Association with the transition from warm to cold weather, and its related status as the season of the primary harvest, has dominated its themes and popular images. In Western cultures, personifications of autumn are usually pretty, well-fed females adorned with fruits, vegetables and grains that ripen at this time. Many cultures feature autumnal harvest festivals, often the most important on their calendars. Still extant echoes of these celebrations are found in the autumn Thanksgiving holiday of the United States and Canada, and the Jewish Sukkot holiday with its roots as a full-moon harvest festival of "tabernacles" (living in outdoor huts around the time of harvest). There are also the many North American Indian festivals tied to harvest of ripe foods gathered in the wild, the Chinese Mid-Autumn or Moon festival, and many others. The predominant mood of these autumnal celebrations is a gladness for the fruits of the earth mixed with a certain melancholy linked to the imminent arrival of harsh weather.
 
 This view is presented in English poet John Keats' poem _To Autumn_, where he describes the season as a time of bounteous fecundity, a time of 'mellow fruitfulness'.
 
@@ -36,11 +36,11 @@ Similar examples may be found in Irish poet William Butler Yeats' poem _The Wild
 
 Halloween
 
-Pumpkins-2009.jpg pumpkins]] Halloween_pumpkins.jpg Autumn is associated with Halloween (influenced by Samhain, a Celtic autumn festival),[23] and with it a widespread marketing campaign that promotes it. Halloween is in autumn in the northern hemisphere. The television, film, book, costume, home decoration, and confectionery industries use this time of year to promote products closely associated with such a holiday, with promotions going from early September to 31 October, since their themes rapidly lose strength once the holiday ends, and advertising starts concentrating on Christmas.
+pumpkins]] Autumn is associated with Halloween (influenced by Samhain, a Celtic autumn festival),[23] and with it a widespread marketing campaign that promotes it. Halloween is in autumn in the northern hemisphere. The television, film, book, costume, home decoration, and confectionery industries use this time of year to promote products closely associated with such a holiday, with promotions going from early September to 31 October, since their themes rapidly lose strength once the holiday ends, and advertising starts concentrating on Christmas.
 
 Other associations
 
-Pumpkin-Pie-Whole-Slice.jpg is commonly served on and around Thanksgiving in North America]] 01259_All_Saints_Day_Sanok,_2011.jpg at a cemetery in Sanok – flowers and lit candles are placed to honor the memory of deceased relatives. Poland, 1 November 2011]] In some parts of the northern hemisphere, autumn has a strong association with the end of summer holiday and the start of a new school year, particularly for children in primary and secondary education. "Back to School" advertising and preparations usually occurs in the weeks leading to the beginning of autumn.
+is commonly served on and around Thanksgiving in North America]] at a cemetery in Sanok – flowers and lit candles are placed to honor the memory of deceased relatives. Poland, 1 November 2011]] In some parts of the northern hemisphere, autumn has a strong association with the end of summer holiday and the start of a new school year, particularly for children in primary and secondary education. "Back to School" advertising and preparations usually occurs in the weeks leading to the beginning of autumn.
 
 Easter falls in autumn in the southern hemisphere.
 
@@ -61,7 +61,7 @@ In Asian mysticism, Autumn is associated with the element of metal, and subseque
 
 Tourism
 
-Maple_Trees_by_Creek.jpg Although colour change in leaves occurs wherever deciduous trees are found, coloured autumn foliage is noted in various regions of the world: most of North America, Eastern Asia (including China, Korea, and Japan), Europe, the forest of Patagonia, eastern Australia and New Zealand's South Island.
+Although colour change in leaves occurs wherever deciduous trees are found, coloured autumn foliage is noted in various regions of the world: most of North America, Eastern Asia (including China, Korea, and Japan), Europe, the forest of Patagonia, eastern Australia and New Zealand's South Island.
 
 Eastern Canada and New England are famous for their autumnal foliage,[26][27] and this attracts major tourism (worth billions of US dollars) for the regions.[28][29]
 

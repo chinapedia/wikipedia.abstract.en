@@ -315,8 +315,6 @@ Consider the case of a thin, solid, parallel-sided rotating disc of axial thickn
     demand/capacity = _ρR_²_ω_²/_S_
     thickness/radius or aspect ratio = _t_/_R_
 
-Dimensional_analysis_01.jpg
-
 Through the use of numerical experiments using, for example, the finite element method, the nature of the relationship between the two non-dimensional groups can be obtained as shown in the figure. As this problem only involves two non-dimensional groups, the complete picture is provided in a single plot and this can be used as a design/assessment chart for rotating discs[14]
 
 

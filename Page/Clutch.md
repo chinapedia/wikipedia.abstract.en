@@ -1,4 +1,4 @@
-Clutchdisc.jpg hub is attached to the disc with springs to damp chatter.]]
+hub is attached to the disc with springs to damp chatter.]]
 
 A CLUTCH is a mechanical device which engages and disengages power transmission especially from driving shaft to driven shaft.
 
@@ -9,7 +9,7 @@ In a torque-controlled drill, for instance, one shaft is driven by a motor and t
 
 Friction clutches
 
-Car_clutch.png The vast majority of clutches ultimately rely on frictional forces for their operation. The purpose of friction clutches is to connect a moving member to another that is moving at a different speed or stationary, often to synchronize the speeds, and/or to transmit power. Usually, as little slippage (difference in speeds) as possible between the two members is desired.
+The vast majority of clutches ultimately rely on frictional forces for their operation. The purpose of friction clutches is to connect a moving member to another that is moving at a different speed or stationary, often to synchronize the speeds, and/or to transmit power. Usually, as little slippage (difference in speeds) as possible between the two members is desired.
 
 Materials
 
@@ -74,8 +74,6 @@ There are multiple designs of vehicle clutch, but most are based on one or more 
 
 Automobile powertrain
 
-PilotShaftGuideTool.jpg
-
 In a modern car with a manual transmission the clutch is operated by the left-most pedal using a hydraulic or cable connection from the pedal to the clutch mechanism. On older cars the clutch might be operated by a mechanical linkage. Even though the clutch may physically be located very close to the pedal, such remote means of actuation are necessary to eliminate the effect of vibrations and slight engine movement, engine mountings being flexible by design. With a rigid mechanical linkage, smooth engagement would be near-impossible because engine movement inevitably occurs as the drive is "taken up."
 
 The default state of the clutch is _engaged_ - that is the connection between engine and gearbox is always "on" unless the driver presses the pedal and disengages it. If the engine is running with the clutch engaged and the transmission in neutral, the engine spins the input shaft of the transmission but power is not transmitted to the wheels.
@@ -88,7 +86,7 @@ A few cars, notably the Alfa Romeo Alfetta and 75, Porsche 924, and Chevrolet Co
 
 Motorcycles
 
-Basket_clutch.png Motorcycles typically employ a wet clutch with the clutch riding in the same oil as the transmission. These clutches are usually made up of a stack of alternating friction plates and steel plates. The friction plates have lugs on their outer diameters that lock them to a basket that is turned by the crankshaft. The steel plates have lugs on their inner diameters that lock them to the transmission input shaft. A set of coil springs or a diaphragm spring plate force the plates together when the clutch is engaged.
+Motorcycles typically employ a wet clutch with the clutch riding in the same oil as the transmission. These clutches are usually made up of a stack of alternating friction plates and steel plates. The friction plates have lugs on their outer diameters that lock them to a basket that is turned by the crankshaft. The steel plates have lugs on their inner diameters that lock them to the transmission input shaft. A set of coil springs or a diaphragm spring plate force the plates together when the clutch is engaged.
 
 On motorcycles the clutch is operated by a hand lever on the left handlebar. No pressure on the lever means that the clutch plates are engaged (driving), while pulling the lever back towards the rider disengages the clutch plates through cable or hydraulic actuation, allowing the rider to shift gears or coast. Racing motorcycles often use slipper clutches to eliminate the effects of engine braking, which, being applied only to the rear wheel, can cause instability.
 
@@ -125,7 +123,7 @@ In 1928, Frederick G. Creed developed a single-turn spring clutch (see above) th
 
 _Cascaded-pawl_ single-revolution clutches
 
-TTY-ASR-33-Clutch.jpg cluster in a Teletype Model 33 that performs fully mechanical conversion of incoming asynchronous serial data to parallel form. The clutch drum, lower left, has been removed to expose the pawls and trip projection.]] These superseded wrap-spring single-revolution clutches in page printers, such as teleprinters, including the Teletype Model 28 and its successors, using the same design principles. IBM Selectric typewriters also used them. These are typically disc-shaped assemblies mounted on the driven shaft. Inside the hollow disc-shaped drive drum are two or three freely floating pawls arranged so that when the clutch is tripped, the pawls spring outward much like the shoes in a drum brake. When engaged, the load torque on each pawl transfers to the others to keep them engaged. These clutches do not slip once locked up, and they engage very quickly, on the order of milliseconds. A trip projection extends out from the assembly. If the trip lever engaged this projection, the clutch was disengaged. When the trip lever releases this projection, internal springs and friction engage the clutch. The clutch then rotates one or more turns, stopping when the trip lever again engages the trip projection.
+cluster in a Teletype Model 33 that performs fully mechanical conversion of incoming asynchronous serial data to parallel form. The clutch drum, lower left, has been removed to expose the pawls and trip projection.]] These superseded wrap-spring single-revolution clutches in page printers, such as teleprinters, including the Teletype Model 28 and its successors, using the same design principles. IBM Selectric typewriters also used them. These are typically disc-shaped assemblies mounted on the driven shaft. Inside the hollow disc-shaped drive drum are two or three freely floating pawls arranged so that when the clutch is tripped, the pawls spring outward much like the shoes in a drum brake. When engaged, the load torque on each pawl transfers to the others to keep them engaged. These clutches do not slip once locked up, and they engage very quickly, on the order of milliseconds. A trip projection extends out from the assembly. If the trip lever engaged this projection, the clutch was disengaged. When the trip lever releases this projection, internal springs and friction engage the clutch. The clutch then rotates one or more turns, stopping when the trip lever again engages the trip projection.
 
 _Kickback_ clutch-brakes
 

@@ -1,4 +1,4 @@
-Pieter_Brueghel_the_Younger_-_Proverbs_(detail)_-_WGA03627.jpg (Both spread gossip) by Pieter Bruegel the Elder]]
+(Both spread gossip) by Pieter Bruegel the Elder]]
 
 GOSSIP is idle talk or rumor, especially about the personal or private affairs of others; the act is also known as DISHING or TATTLING.[1]
 
@@ -16,7 +16,7 @@ Others say that gossip comes from the same root as "gospel" — it is a contract
 
 Functions
 
-No_chat.jpg conveys the message: "Don't chatter! Gossiping borders on treason" (1941).]]
+conveys the message: "Don't chatter! Gossiping borders on treason" (1941).]]
 
 Gossip can:[7]
 

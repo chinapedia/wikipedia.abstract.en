@@ -11,7 +11,7 @@ History
 
 Roman Cologne
 
-Wall_painting_with_Dionysian_scenes_from_a_luxurious_Roman_villa_excavated_to_the_south_of_the_cathedral,_Romisch-Germanisches_Museum,_Cologne_(8119154487).jpg from a Roman villa of Cologne, Germany (site of the ancient city Colonia Claudia Ara Agrippinensium), 3rd century AD, Romano-Germanic Museum]] The first urban settlement on the grounds of modern-day Cologne was _Oppidum Ubiorum_, founded in 38 BC by the Ubii, a Cisrhenian Germanic tribe. In 50 AD, the Romans founded _Colonia Claudia Ara Agrippinensium_ (Cologne) on the river Rhine[5][6] and the city became the provincial capital of Germania Inferior in 85 AD.[7] Considerable Roman remains can be found in present-day Cologne, especially near the wharf area, where a 1,900-year-old Roman boat was discovered in late 2007.[8] From 260 to 271 Cologne was the capital of the Gallic Empire under Postumus, Marius, and Victorinus. In 310 under emperor Constantine I a bridge was built over the Rhine at Cologne. Roman imperial governors resided in the city and it became one of the most important trade and production centres in the Roman Empire north of the Alps.[9] Cologne is shown on the 4th century Peutinger Map.
+from a Roman villa of Cologne, Germany (site of the ancient city Colonia Claudia Ara Agrippinensium), 3rd century AD, Romano-Germanic Museum]] The first urban settlement on the grounds of modern-day Cologne was _Oppidum Ubiorum_, founded in 38 BC by the Ubii, a Cisrhenian Germanic tribe. In 50 AD, the Romans founded _Colonia Claudia Ara Agrippinensium_ (Cologne) on the river Rhine[5][6] and the city became the provincial capital of Germania Inferior in 85 AD.[7] Considerable Roman remains can be found in present-day Cologne, especially near the wharf area, where a 1,900-year-old Roman boat was discovered in late 2007.[8] From 260 to 271 Cologne was the capital of the Gallic Empire under Postumus, Marius, and Victorinus. In 310 under emperor Constantine I a bridge was built over the Rhine at Cologne. Roman imperial governors resided in the city and it became one of the most important trade and production centres in the Roman Empire north of the Alps.[9] Cologne is shown on the 4th century Peutinger Map.
 
 Maternus, who was elected as bishop in 313, was the first known bishop of Cologne. The city was the capital of a Roman province until it was occupied by the Ripuarian Franks in 462. Parts of the original Roman sewers are preserved underneath the city, with the new sewerage system having opened in 1890.
 
@@ -25,7 +25,7 @@ Following the Battle of Worringen in 1288, Cologne gained its independence from 
 
 Besides its economic and political significance Cologne also became an important centre of medieval pilgrimage, when Cologne's Archbishop Rainald of Dassel gave the relics of the Three Wise Men to Cologne's cathedral in 1164 (after they, in fact, had been taken from Milan). Besides the three magi Cologne preserves the relics of Saint Ursula and Albertus Magnus.[12]
 
-Cologne's location on the river Rhine placed it at the intersection of the major trade routes between east and west as well as the main Western Europe trade route, South – North Northern Italy-Flanders. These two trade routes were the basis of Cologne's growth. By 1300 the city population was 50,000-55,000.[13] Cologne was a member of the Hanseatic League in 1475, when Frederick III confirmed the city's imperial immediacy.[14] Cologn1411.jpg
+Cologne's location on the river Rhine placed it at the intersection of the major trade routes between east and west as well as the main Western Europe trade route, South – North Northern Italy-Flanders. These two trade routes were the basis of Cologne's growth. By 1300 the city population was 50,000-55,000.[13] Cologne was a member of the Hanseatic League in 1475, when Frederick III confirmed the city's imperial immediacy.[14]
 
 Early modern history
 
@@ -37,7 +37,7 @@ The free city of Cologne must not be confused with the Archbishopric of Cologne 
 
 From the 19th century until World War II
 
-Hängebrücke_-_Köln_(1).tif Cologne lost its status as a free city during the French period. According to the Peace Treaty of Lunéville (1801) all the territories of the Holy Roman Empire on the left bank of the Rhine were officially incorporated into the French Republic (which had already occupied Cologne in 1794). Thus this region later became part of Napoleon's Empire. Cologne was part of the French Département Roer (named after the river Roer, German: Rur) with Aachen (French: Aix-la-Chapelle) as its capital. The French modernised public life, for example by introducing the Napoleonic code and removing the old elites from power. The Napoleonic code remained in use on the left bank of the Rhine until 1900, when a unified civil code (the _Bürgerliches Gesetzbuch_) was introduced in the German Empire. In 1815 at the Congress of Vienna, Cologne was made part of the Kingdom of Prussia, first in the Jülich-Cleves-Berg province and then the Rhine province.
+Cologne lost its status as a free city during the French period. According to the Peace Treaty of Lunéville (1801) all the territories of the Holy Roman Empire on the left bank of the Rhine were officially incorporated into the French Republic (which had already occupied Cologne in 1794). Thus this region later became part of Napoleon's Empire. Cologne was part of the French Département Roer (named after the river Roer, German: Rur) with Aachen (French: Aix-la-Chapelle) as its capital. The French modernised public life, for example by introducing the Napoleonic code and removing the old elites from power. The Napoleonic code remained in use on the left bank of the Rhine until 1900, when a unified civil code (the _Bürgerliches Gesetzbuch_) was introduced in the German Empire. In 1815 at the Congress of Vienna, Cologne was made part of the Kingdom of Prussia, first in the Jülich-Cleves-Berg province and then the Rhine province.
 
 The permanent tensions between the Roman Catholic Rhineland and the overwhelmingly Protestant Prussian state repeatedly escalated with Cologne being in the focus of the conflict. In 1837 the archbishop of Cologne, Clemens August von Droste-Vischering, was arrested and imprisoned for two years after a dispute over the legal status of marriages between Protestants and Roman Catholics (_Mischehenstreit_). In 1874, during the Kulturkampf, Archbishop Paul Melchers was imprisoned before taking asylum in the Netherlands. These conflicts alienated the Catholic population from Berlin and contributed to a deeply felt anti-Prussian resentment, which was still significant after World War II, when the former mayor of Cologne, Konrad Adenauer, became the first West German chancellor.
 
@@ -53,7 +53,7 @@ The democratic parties lost the local elections in Cologne in March 1933 to the 
 
 World War II
 
-Koeln_1945.jpg During World War II, Cologne was a Military Area Command Headquarters (_Militärbereichshauptkommandoquartier_) for the Military District (_Wehrkreis_) VI of Münster. Cologne was under the command of Lieutenant-General Freiherr Roeder von Diersburg, who was responsible for military operations in Bonn, Siegburg, Aachen, Jülich, Düren, and Monschau. Cologne was home to the 211th Infantry Regiment and the 26th Artillery Regiment.
+During World War II, Cologne was a Military Area Command Headquarters (_Militärbereichshauptkommandoquartier_) for the Military District (_Wehrkreis_) VI of Münster. Cologne was under the command of Lieutenant-General Freiherr Roeder von Diersburg, who was responsible for military operations in Bonn, Siegburg, Aachen, Jülich, Düren, and Monschau. Cologne was home to the 211th Infantry Regiment and the 26th Artillery Regiment.
 
 The Allies dropped 44,923.2 tons of bombs on the city during World War II, destroying 61% of its built up area. During the Bombing of Cologne in World War II, Cologne endured 262 air raids[21] by the Western Allies, which caused approximately 20,000 civilian casualties and almost completely wiped out the central part of the city. During the night of 31 May 1942, Cologne was the target of "Operation Millennium", the first 1,000 bomber raid by the Royal Air Force in World War II. 1,046 heavy bombers attacked their target with 1,455 tons of explosives, approximately two-thirds of which were incendiary.[22] This raid lasted about 75 minutes, destroyed of built-up area (61%),[23] killed 486 civilians and made 59,000 people homeless. The devastation was recorded by Hermann Claasen from 1942 until the end of the war, and presented in his exhibition and book of 1947 _Singing in the furnace. Cologne - Remains of an old city_ [24]
 
@@ -69,11 +69,11 @@ In 1945 architect and urban planner Rudolf Schwarz called Cologne the "world's g
 
 The destruction of 95% of the city centre, including the famous Twelve Romanesque churches such as St. Gereon, Great St. Martin, St. Maria im Kapitol and several other monuments in World War II, meant a tremendous loss of cultural treasures. The rebuilding of those churches and other landmarks such as the Gürzenich event hall was not undisputed among leading architects and art historians at that time, but in most cases, civil intention prevailed. The reconstruction lasted until the 1990s, when the Romanesque church of St. Kunibert was finished.
 
-In 1959, the city's population reached pre-war numbers again. It then grew steadily, exceeding 1 million for about one year from 1975. It remained just below that until mid-2010, when it exceeded 1 million again. 2013-08-10_07-18-55_Ballonfahrt_über_Köln_EH_0626.jpg
+In 1959, the city's population reached pre-war numbers again. It then grew steadily, exceeding 1 million for about one year from 1975. It remained just below that until mid-2010, when it exceeded 1 million again.
 
 Post-reunification
 
-1983_09_15_to_23_Envelope_of_the_Letter_from_Odessa_to_Cuba.jpg In the 1980s and 1990s Cologne's economy prospered for two main reasons. The first was the growth in the number of media companies, both in the private and public sectors; they are especially catered for in the newly developed Media Park, which creates a strongly visual focal point in Cologne city centre and includes the _KölnTurm_, one of Cologne's most prominent high-rise buildings. The second was the permanent improvement of the diverse traffic infrastructure, which made Cologne one of the most easily accessible metropolitan areas in Central Europe.
+In the 1980s and 1990s Cologne's economy prospered for two main reasons. The first was the growth in the number of media companies, both in the private and public sectors; they are especially catered for in the newly developed Media Park, which creates a strongly visual focal point in Cologne city centre and includes the _KölnTurm_, one of Cologne's most prominent high-rise buildings. The second was the permanent improvement of the diverse traffic infrastructure, which made Cologne one of the most easily accessible metropolitan areas in Central Europe.
 
 Due to the economic success of the Cologne Trade Fair, the city arranged a large extension to the fair site in 2005. At the same time the original buildings, which date back to the 1920s, were rented out to RTL, Germany's largest private broadcaster, as their new corporate headquarters.
 
@@ -88,22 +88,22 @@ Districts
 
 Cologne is divided into 9 boroughs (_Stadtbezirke_) and 85 districts (_Stadtteile_):[31]
 
-+-----------------------------------------------------------------------------------------------------------------------------------------+--------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Innenstadt (Stadtbezirk 1)                                                                                                              | Koeln_bezirke1.png | Chorweiler (Stadtbezirk 6)                                                                                                                                  |
-|     Altstadt-Nord, Altstadt-Süd, Neustadt-Nord, Neustadt-Süd, Deutz                                                                     |                    |     Blumenberg, Chorweiler, Esch/Auweiler, Fühlingen, Heimersdorf, Lindweiler, Merkenich, Pesch, Roggendorf/Thenhoven, Seeberg, Volkhoven/Weiler, Worringen |
-|                                                                                                                                         |                    |                                                                                                                                                             |
-| Rodenkirchen (Stadtbezirk 2)                                                                                                            |                    | Porz (Stadtbezirk 7)                                                                                                                                        |
-|     Bayenthal, Godorf, Hahnwald, Immendorf, Marienburg, Meschenich, Raderberg, Raderthal, Rodenkirchen, Rondorf, Sürth, Weiß, Zollstock |                    |     Eil, Elsdorf, Ensen, Finkenberg, Gremberghoven, Grengel, Langel, Libur, Lind, Poll, Porz, Urbach, Wahn, Wahnheide, Westhoven, Zündorf                   |
-|                                                                                                                                         |                    |                                                                                                                                                             |
-| Lindenthal (Stadtbezirk 3)                                                                                                              |                    | Kalk (Stadtbezirk 8)                                                                                                                                        |
-|     Braunsfeld, Junkersdorf, Klettenberg, Lindenthal, Lövenich, Müngersdorf, Sülz, Weiden, Widdersdorf                                  |                    |     Brück, Höhenberg, Humboldt/Gremberg, Kalk, Merheim, Neubrück, Ostheim, Rath/Heumar, Vingst                                                              |
-|                                                                                                                                         |                    |                                                                                                                                                             |
-| Ehrenfeld (Stadtbezirk 4)                                                                                                               |                    | Mülheim (Stadtbezirk 9)                                                                                                                                     |
-|     Bickendorf, Bocklemünd/Mengenich, Ehrenfeld, Neuehrenfeld, Ossendorf, Vogelsang                                                     |                    |     Buchforst, Buchheim, Dellbrück, Dünnwald, Flittard, Höhenhaus, Holweide, Mülheim, Stammheim                                                             |
-|                                                                                                                                         |                    |                                                                                                                                                             |
-| Nippes (Stadtbezirk 5)                                                                                                                  |                    |                                                                                                                                                             |
-|     Bilderstöckchen, Longerich, Mauenheim, Niehl, Nippes, Riehl, Weidenpesch                                                            |                    |                                                                                                                                                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------+--------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-----------------------------------------------------------------------------------------------------------------------------------------+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Innenstadt (Stadtbezirk 1)                                                                                                              |  | Chorweiler (Stadtbezirk 6)                                                                                                                                  |
+|     Altstadt-Nord, Altstadt-Süd, Neustadt-Nord, Neustadt-Süd, Deutz                                                                     |  |     Blumenberg, Chorweiler, Esch/Auweiler, Fühlingen, Heimersdorf, Lindweiler, Merkenich, Pesch, Roggendorf/Thenhoven, Seeberg, Volkhoven/Weiler, Worringen |
+|                                                                                                                                         |  |                                                                                                                                                             |
+| Rodenkirchen (Stadtbezirk 2)                                                                                                            |  | Porz (Stadtbezirk 7)                                                                                                                                        |
+|     Bayenthal, Godorf, Hahnwald, Immendorf, Marienburg, Meschenich, Raderberg, Raderthal, Rodenkirchen, Rondorf, Sürth, Weiß, Zollstock |  |     Eil, Elsdorf, Ensen, Finkenberg, Gremberghoven, Grengel, Langel, Libur, Lind, Poll, Porz, Urbach, Wahn, Wahnheide, Westhoven, Zündorf                   |
+|                                                                                                                                         |  |                                                                                                                                                             |
+| Lindenthal (Stadtbezirk 3)                                                                                                              |  | Kalk (Stadtbezirk 8)                                                                                                                                        |
+|     Braunsfeld, Junkersdorf, Klettenberg, Lindenthal, Lövenich, Müngersdorf, Sülz, Weiden, Widdersdorf                                  |  |     Brück, Höhenberg, Humboldt/Gremberg, Kalk, Merheim, Neubrück, Ostheim, Rath/Heumar, Vingst                                                              |
+|                                                                                                                                         |  |                                                                                                                                                             |
+| Ehrenfeld (Stadtbezirk 4)                                                                                                               |  | Mülheim (Stadtbezirk 9)                                                                                                                                     |
+|     Bickendorf, Bocklemünd/Mengenich, Ehrenfeld, Neuehrenfeld, Ossendorf, Vogelsang                                                     |  |     Buchforst, Buchheim, Dellbrück, Dünnwald, Flittard, Höhenhaus, Holweide, Mülheim, Stammheim                                                             |
+|                                                                                                                                         |  |                                                                                                                                                             |
+| Nippes (Stadtbezirk 5)                                                                                                                  |  |                                                                                                                                                             |
+|     Bilderstöckchen, Longerich, Mauenheim, Niehl, Nippes, Riehl, Weidenpesch                                                            |  |                                                                                                                                                             |
++-----------------------------------------------------------------------------------------------------------------------------------------+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Climate
 
@@ -111,7 +111,7 @@ Located in the Rhine-Ruhr area, Cologne is one of the warmest cities in Germany.
 
 Flood protection
 
-Bundesarchiv_Bild_102-10776,_Köln,_Hochwasser.jpg Cologne is regularly affected by flooding from the Rhine and is considered the most flood-prone European city.[32] A city agency (_Stadtentwässerungsbetriebe Köln_,[33] "Cologne Urban Drainage Operations") manages an extensive flood control system which includes both permanent and mobile flood walls, protection from rising waters for buildings close to the river banks, monitoring and forecasting systems, pumping stations and programmes to create or protect floodplains, and river embankments.[34][35] The system was redesigned after a 1993 flood, which resulted in heavy damage.[36]
+Cologne is regularly affected by flooding from the Rhine and is considered the most flood-prone European city.[32] A city agency (_Stadtentwässerungsbetriebe Köln_,[33] "Cologne Urban Drainage Operations") manages an extensive flood control system which includes both permanent and mobile flood walls, protection from rising waters for buildings close to the river banks, monitoring and forecasting systems, pumping stations and programmes to create or protect floodplains, and river embankments.[34][35] The system was redesigned after a 1993 flood, which resulted in heavy damage.[36]
 
 
 Demographics
@@ -263,11 +263,11 @@ File:Keoln Maerz 2009 PD 20090327 028.JPG|Cologne City Hall File:Köln gürzenic
 
 Medieval city gates
 
-A_Plan_of_the_City_of_Cologne,_1800,_John_Stockdale-9832.jpg Of the twelve medieval city gates that once existed, only the Eigelsteintorburg at Ebertplatz, the Hahnentor at Rudolfplatz and the Severinstorburg at Chlodwigplatz still stand today.
+Of the twelve medieval city gates that once existed, only the Eigelsteintorburg at Ebertplatz, the Hahnentor at Rudolfplatz and the Severinstorburg at Chlodwigplatz still stand today.
 
 File:Köln eigelsteintorburg.jpg|Eigelsteintor File:Hahnentorburg.jpg%7CHahnentor File:Severinstorburg Köln-0410.jpg|Severinstor
 
-{{^|Dropped_cone_Cologne.jpg}}
+{{^|}}
 
 Streets
 
@@ -278,33 +278,33 @@ Streets
 
 Bridges
 
-Bridge_in_Cologne_over_the_Rhine_River.jpgRhine_River_at_Cologne,_Germany.jpgSeveral bridges cross the Rhine in Cologne. They are (from south to north): the Cologne Rodenkirchen Bridge, South Bridge (railway), Severin Bridge, Deutz Bridge, Hohenzollern Bridge (railway), Zoo Bridge (_Zoobrücke_) and Cologne Mülheim Bridge. In particular the iron tied arch Hohenzollern Bridge (_Hohenzollernbrücke_) is a dominant landmark along the river embankment. A Rhine crossing of a special kind is provided by the Cologne Cable Car (German: _Kölner Seilbahn_), a cableway that runs across the Rhine between the Cologne Zoological Garden in Riehl and the Rheinpark in Deutz.
+Several bridges cross the Rhine in Cologne. They are (from south to north): the Cologne Rodenkirchen Bridge, South Bridge (railway), Severin Bridge, Deutz Bridge, Hohenzollern Bridge (railway), Zoo Bridge (_Zoobrücke_) and Cologne Mülheim Bridge. In particular the iron tied arch Hohenzollern Bridge (_Hohenzollernbrücke_) is a dominant landmark along the river embankment. A Rhine crossing of a special kind is provided by the Cologne Cable Car (German: _Kölner Seilbahn_), a cableway that runs across the Rhine between the Cologne Zoological Garden in Riehl and the Rheinpark in Deutz.
 
 High-rise structures
 
 Cologne's tallest structure is the Colonius telecommunication tower at . The observation deck has been closed since 1992. A selection of the tallest buildings in Cologne is listed below. Other tall structures include the Hansahochhaus (designed by architect Jacob Koerfer and completed in 1925—it was at one time Europe's tallest office building), the Kranhaus buildings at Rheinauhafen, and the Messeturm Köln ("trade fair tower").
 
-  Skyscraper             Image                                                      Height in metres   Floors   Year   Address                       Notes
-  ---------------------- ---------------------------------------------------------- ------------------ -------- ------ ----------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  KölnTurm               Koeln-Turm_001.jpg                                         148.5              43       2001   MediaPark 8, Neustadt-Nord    (literally: _Cologne Tower_), Cologne's second tallest building at in height, second only to the Colonius telecommunication tower. The 30th floor of the building has a restaurant and a terrace with 360° views of the city.
-  Colonia-Hochhaus       Colonia-Haus.jpg                                           147                45       1973   An der Schanz 2, Riehl        tallest building in Germany from 1973 to 1976. Today, it is still the country's tallest residential building.
-  Rheintower             Hochhaus_Deutsche_Welle_Köln-3588.jpg                      138                34       1980   Raderberggürtel, Marienburg   former headquarters of Deutsche Welle, since 2007 under renovation with the new name _Rheintower Köln-Marienburg_.
-  Uni-Center[63]         Uni-Center-Koeln.jpg                                       133                45       1973   Luxemburger Straße, Sülz
-  TÜV Rheinland          TÜV_Rheinland,_Köln-Poll.jpg                               112                22       1974   Am Grauen Stein, Poll
-  Ringturm               Grünanlage_Theodor-Heuss-Ring_Köln_mit_Ringturm-8184.jpg   109                26       1973   Ebertplatz, Neustadt-Nord
-  Justizzentrum Köln     Ballonfahrt_über_Köln_-_Justizzentrum-RS-4013.jpg          105                25       1981   Luxemburger Straße, Sülz
-  KölnTriangle           KölnTriangle_(0684).jpg                                    103                29       2006   Ottoplatz 1, Deutz            opposite to the cathedral with a high viewing platform and a view of the cathedral over the Rhine.
-  Herkules-Hochhaus      Herkulesbuilding.jpg                                       102                31       1969   Graeffstraße 1, Ehrenfeld
-  Deutschlandfunk-Turm   Dlf2.jpg                                                   102                19       1975   Raderberggürtel, Marienburg
+  Skyscraper             Image   Height in metres   Floors   Year   Address                       Notes
+  ---------------------- ------- ------------------ -------- ------ ----------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  KölnTurm                       148.5              43       2001   MediaPark 8, Neustadt-Nord    (literally: _Cologne Tower_), Cologne's second tallest building at in height, second only to the Colonius telecommunication tower. The 30th floor of the building has a restaurant and a terrace with 360° views of the city.
+  Colonia-Hochhaus               147                45       1973   An der Schanz 2, Riehl        tallest building in Germany from 1973 to 1976. Today, it is still the country's tallest residential building.
+  Rheintower                     138                34       1980   Raderberggürtel, Marienburg   former headquarters of Deutsche Welle, since 2007 under renovation with the new name _Rheintower Köln-Marienburg_.
+  Uni-Center[63]                 133                45       1973   Luxemburger Straße, Sülz
+  TÜV Rheinland                  112                22       1974   Am Grauen Stein, Poll
+  Ringturm                       109                26       1973   Ebertplatz, Neustadt-Nord
+  Justizzentrum Köln             105                25       1981   Luxemburger Straße, Sülz
+  KölnTriangle                   103                29       2006   Ottoplatz 1, Deutz            opposite to the cathedral with a high viewing platform and a view of the cathedral over the Rhine.
+  Herkules-Hochhaus              102                31       1969   Graeffstraße 1, Ehrenfeld
+  Deutschlandfunk-Turm           102                19       1975   Raderberggürtel, Marienburg
 
 
 Culture
 
-Kolumba_Köln_-_Innenhof.jpg museum in 2007, designed by Peter Zumthor]] Cologne has several museums. The famous Roman-Germanic Museum features art and architecture from the city's distant past; the Museum Ludwig houses one of the most important collections of modern art in Europe, including a Picasso collection matched only by the museums in Barcelona and Paris. The Museum Schnütgen of religious art is partly housed in St. Cecilia, one of Cologne's Twelve Romanesque churches. Many art galleries in Cologne enjoy a worldwide reputation like e.g. Galerie Karsten Greve, one of the leading galleries for postwar and contemporary art.
+museum in 2007, designed by Peter Zumthor]] Cologne has several museums. The famous Roman-Germanic Museum features art and architecture from the city's distant past; the Museum Ludwig houses one of the most important collections of modern art in Europe, including a Picasso collection matched only by the museums in Barcelona and Paris. The Museum Schnütgen of religious art is partly housed in St. Cecilia, one of Cologne's Twelve Romanesque churches. Many art galleries in Cologne enjoy a worldwide reputation like e.g. Galerie Karsten Greve, one of the leading galleries for postwar and contemporary art.
 
 Several orchestras are active in the city, among them the Gürzenich Orchestra, which is also the orchestra of the Cologne Opera and the WDR Symphony Orchestra Cologne (_German State Radio Orchestra_), both based at the Cologne Philharmonic Orchestra Building (Kölner Philharmonie).[64] Other orchestras are the Musica Antiqua Köln and the WDR Rundfunkorchester Köln, and several choirs, including the WDR Rundfunkchor Köln. Cologne was also an important hotbed for electronic music in the 1950s (Studio für elektronische Musik, Karlheinz Stockhausen) and again from the 1990s onward. The public radio and TV station WDR was involved in promoting musical movements such as Krautrock in the 1970s; the influential Can was formed there in 1968. There are several centres of nightlife, among them the _Kwartier Latäng_ (the student quarter around the Zülpicher Straße) and the nightclub-studded areas around Hohenzollernring, Friesenplatz and Rudolfplatz.
 
-Water_feature_in_Cologne,_Germany.jpgThe large annual literary festival Lit. Cologne features regional and international authors. The main literary figure connected with Cologne is the writer Heinrich Böll, winner of the Nobel Prize for Literature.
+The large annual literary festival Lit. Cologne features regional and international authors. The main literary figure connected with Cologne is the writer Heinrich Böll, winner of the Nobel Prize for Literature.
 
 Cologne is well known for its beer, called Kölsch. Kölsch is also the name of the local dialect. This has led to the common joke of Kölsch being the only language one can drink.
 
@@ -320,7 +320,7 @@ Cologne and Düsseldorf have a "fierce regional rivalry",[66] which includes car
 
 Museums
 
-Museum_Ludwig_Köln_-_Südeingang_-_Schriftzug.jpg houses one of the most important collections of modern art.]] Dionysusmozaïek_17-02-2009_10-51-23.JPG in Cologne: Dionysus Mosaic on display at Römisch-Germanisches Museum]]
+houses one of the most important collections of modern art.]] in Cologne: Dionysus Mosaic on display at Römisch-Germanisches Museum]]
 
 -   Farina Fragrance Museum – birthplace of Eau de Cologne
 -   Römisch-Germanisches Museum (Roman-Germanic Museum) – ancient Roman and Germanic culture
@@ -347,7 +347,7 @@ In addition, Cologne enjoys a thriving Christmas Market (_Weihnachtsmarkt_) pres
 
 Economy
 
-Koelnmesse_Nordeingang.jpg, 2008]] Rheinauhafen_-_The_Bench_-_Rheinseite_(1828-30).jpg]] As the largest city in the Rhine-Ruhr metropolitan region, Cologne benefits from a large market structure.[72] In competition with Düsseldorf, the economy of Cologne is primarily based on insurance and media industries,[73] while the city is also an important cultural and research centre and home to a number of corporate headquarters.
+, 2008]] ]] As the largest city in the Rhine-Ruhr metropolitan region, Cologne benefits from a large market structure.[72] In competition with Düsseldorf, the economy of Cologne is primarily based on insurance and media industries,[73] while the city is also an important cultural and research centre and home to a number of corporate headquarters.
 
 Among the largest media companies based in Cologne are Westdeutscher Rundfunk, RTL Television (with subsidiaries), n-tv, Deutschlandradio, Brainpool TV and publishing houses like J. P. Bachem, Taschen, Tandem Verlag, and M. DuMont Schauberg. Several clusters of media, arts and communications agencies, TV production studios, and state agencies work partly with private and government-funded cultural institutions. Among the insurance companies based in Cologne are Central, DEVK, DKV, Generali Deutschland, Gen Re, Gothaer, HDI Gerling and national headquarters of AXA Insurance, Mitsui Sumitomo Insurance Group and Zurich Financial Services.
 
@@ -370,13 +370,13 @@ Transport
 
 Road transport
 
-Koelner_Ring.png]] Road building had been a major issue in the 1920s under the leadership of mayor Konrad Adenauer. The first German limited-access road was constructed after 1929 between Cologne and Bonn. Today, this is the Bundesautobahn 555. In 1965, Cologne became the first German city to be fully encircled by a motorway ring road. Roughly at the same time, a city centre bypass (_Stadtautobahn_) was planned, but only partially put into effect, due to opposition by environmental groups. The completed section became _Bundesstraße ("Federal Road") B 55a_, which begins at the _Zoobrücke_ ("Zoo Bridge") and meets with A 4 and A 3 at the interchange Cologne East. Nevertheless, it is referred to as _Stadtautobahn_ by most locals. In contrast to this, the _Nord-Süd-Fahrt_ ("North-South-Drive") was actually completed, a new four/six-lane city centre through-route, which had already been anticipated by planners such as Fritz Schumacher in the 1920s. The last section south of _Ebertplatz_ was completed in 1972.
+]] Road building had been a major issue in the 1920s under the leadership of mayor Konrad Adenauer. The first German limited-access road was constructed after 1929 between Cologne and Bonn. Today, this is the Bundesautobahn 555. In 1965, Cologne became the first German city to be fully encircled by a motorway ring road. Roughly at the same time, a city centre bypass (_Stadtautobahn_) was planned, but only partially put into effect, due to opposition by environmental groups. The completed section became _Bundesstraße ("Federal Road") B 55a_, which begins at the _Zoobrücke_ ("Zoo Bridge") and meets with A 4 and A 3 at the interchange Cologne East. Nevertheless, it is referred to as _Stadtautobahn_ by most locals. In contrast to this, the _Nord-Süd-Fahrt_ ("North-South-Drive") was actually completed, a new four/six-lane city centre through-route, which had already been anticipated by planners such as Fritz Schumacher in the 1920s. The last section south of _Ebertplatz_ was completed in 1972.
 
 In 2005, the first stretch of an eight-lane motorway in North Rhine-Westphalia was opened to traffic on Bundesautobahn 3, part of the eastern section of the Cologne Beltway between the interchanges Cologne East and Heumar.
 
 Cycling
 
-4517Bensberg.jpg at Bensberg station]] 146_019-5_Rheinexpressinkoelnhbf.jpg]]
+at Bensberg station]] ]]
 
 Compared to other German cities, Cologne has a traffic layout that is not very bicycle-friendly. It has repeatedly ranked among the worst in an independent evaluation[84] conducted by the Allgemeiner Deutscher Fahrrad-Club. In 2014 it ranked 36th out of 39 German cities with a population greater than 200,000.
 
@@ -428,7 +428,7 @@ Within Germany, Cologne is known as an important media centre. Several radio and
 
 Sports
 
-FIFA_WM06_Stadion_Koeln.jpg is the stadium of 1. Bundesliga club 1. FC Köln.]] Cologne hosts 1. FC Köln,[97] who play in the 1. Bundesliga. They play their home matches in RheinEnergieStadion which also hosted 5 matches of the 2006 FIFA World Cup.[98] The International Olympic Committee and Internationale Vereinigung Sport- und Freizeiteinrichtungen e.V. gave RheinEnergieStadion a bronze medal for "being one of the best sporting venues in the world".[99] Cologne also hosts FC Viktoria Köln 1904 and SC Fortuna Köln, who play in the Regionalliga West (fourth division) respectively the 3. Liga (third division).
+is the stadium of 1. Bundesliga club 1. FC Köln.]] Cologne hosts 1. FC Köln,[97] who play in the 1. Bundesliga. They play their home matches in RheinEnergieStadion which also hosted 5 matches of the 2006 FIFA World Cup.[98] The International Olympic Committee and Internationale Vereinigung Sport- und Freizeiteinrichtungen e.V. gave RheinEnergieStadion a bronze medal for "being one of the best sporting venues in the world".[99] Cologne also hosts FC Viktoria Köln 1904 and SC Fortuna Köln, who play in the Regionalliga West (fourth division) respectively the 3. Liga (third division).
 
 The city is also home of the ice hockey team Kölner Haie, in the highest ice hockey league in Germany, the Deutsche Eishockey Liga.[100] They are based at Lanxess Arena.[101]
 

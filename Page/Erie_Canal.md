@@ -20,7 +20,7 @@ At the time, it was called the Barge Canal. With the disappearance of commercial
 
 Background
 
-Erie-canal_1840_map.jpg From the first days of the expansion of the British colonies from the coast of North America into the heartland of the continent, a recurring problem was that of transportation between the coastal ports and the interior. This was not unique to the Americas, and the problem still exists in those parts of the world where muscle power provides a primary means of transportation within a region. An equally ancient solution was implemented in many cultures — floating vessels move more easily than land vehicles since friction becomes significantly less. Close to the seacoast, rivers often provided adequate waterways, but the Appalachian Mountains, inland, running over long as a barrier range with just five places where mule trains or wagon roads could be routed,The five east–west crossings of the Appalachians are:
+From the first days of the expansion of the British colonies from the coast of North America into the heartland of the continent, a recurring problem was that of transportation between the coastal ports and the interior. This was not unique to the Americas, and the problem still exists in those parts of the world where muscle power provides a primary means of transportation within a region. An equally ancient solution was implemented in many cultures — floating vessels move more easily than land vehicles since friction becomes significantly less. Close to the seacoast, rivers often provided adequate waterways, but the Appalachian Mountains, inland, running over long as a barrier range with just five places where mule trains or wagon roads could be routed,The five east–west crossings of the Appalachians are:
 Plains of Georgia, Alabama, and Mississippi (around the bottom),
 the Cumberland Gap pass connecting North Carolina/Southern Virginia with Kentucky/Tennessee,
 the Cumberland Narrows pass connecting Cumberland, Maryland (in Western Maryland) and Northern Virginia with West Virginia and Western Pennsylvania via Brownsville, Pennsylvania and the Monongahela River or the Youghiogheny River valley (both of the Ohio & Mississippi river system),
@@ -36,7 +36,7 @@ Proposals and logistics
 
 Proposals
 
-New_York_Relief_1.jpg, running east and west, cuts a natural pathway (water gap) between the Catskill Mountains to the south and the Adirondack Mountains to the north|alt=Relief map of New York State.]] NYmohawk-ErieCanalRexford.JPG at Rexford, one of 32 navigable aqueducts on the Erie Canal|alt=Black-and-white photo of aqueduct over curve in canal]]
+, running east and west, cuts a natural pathway (water gap) between the Catskill Mountains to the south and the Adirondack Mountains to the north|alt=Relief map of New York State.]] at Rexford, one of 32 navigable aqueducts on the Erie Canal|alt=Black-and-white photo of aqueduct over curve in canal]]
 
 The successes of the Canal du Midi in France (1681), Bridgewater Canal in Britain (1769), and Eider Canal in Denmark (1784) spurred on what was called in Britain "canal mania". The idea of a canal to tie the East Coast to the new western settlements was discussed as early as 1724: New York provincial official Cadwallader Colden made a passing reference (in a report on fur trading) to improving the natural waterways of western New York.
 
@@ -52,11 +52,11 @@ The problem was that the land rises about from the Hudson to Lake Erie. Locks at
 
 The original canal was long, from Albany on the Hudson to Buffalo on Lake Erie. The channel was cut wide and deep, with removed soil piled on the downhill side to form a walkway known as a towpath.[17]
 
-Its construction, through limestone and mountains, proved a daunting task. In 1823 construction reached the Niagara Escarpment, necessitating the building of five locks along a corridor to carry the canal over the escarpment. To move earth, animals pulled a "slip scraper" (similar to a bulldozer). The sides of the canal were lined with stone set in clay, and the bottom was also lined with clay. The stonework required hundreds of German masons, who later built many of New York's buildings. All labor on the canal depended upon human (and animal) power or the force of water. Engineering techniques developed during its construction included the building of aqueducts to redirect water; one aqueduct was long to span of river. As the canal progressed, the crews and engineers working on the project developed expertise and became a skilled labor force. 1832_Erie_Canal.jpg
+Its construction, through limestone and mountains, proved a daunting task. In 1823 construction reached the Niagara Escarpment, necessitating the building of five locks along a corridor to carry the canal over the escarpment. To move earth, animals pulled a "slip scraper" (similar to a bulldozer). The sides of the canal were lined with stone set in clay, and the bottom was also lined with clay. The stonework required hundreds of German masons, who later built many of New York's buildings. All labor on the canal depended upon human (and animal) power or the force of water. Engineering techniques developed during its construction included the building of aqueducts to redirect water; one aqueduct was long to span of river. As the canal progressed, the crews and engineers working on the project developed expertise and became a skilled labor force.
 
 Freight boats
 
-Lockport_bartlett_color_crop.jpg in 1839]]
+in 1839]]
 
 Canal boats up to in draft were pulled by horses and mules walking on the towpath. The canal had one towpath, generally on the north side. When canal boats met, the boat with the right of way remained on the towpath side of the canal. The other boat steered toward the berm (or heelpath) side of the canal. The driver (or "hoggee", pronounced HO-gee) of the privileged boat kept his towpath team by the canalside edge of the towpath, while the hoggee of the other boat moved to the outside of the towpath and stopped his team. His towline would be unhitched from the horses, go slack, fall into the water and sink to the bottom, while his boat coasted with its remaining momentum. The privileged boat's team would step over the other boat's towline, with its horses pulling the boat over the sunken towline without stopping. Once clear, the other boat's team would continue on its way.
 
@@ -71,7 +71,7 @@ Men and women boarded barges to venture west, to visit relatives, or just for a 
 
 Construction
 
-Erie_Lock4083.jpg]] ErieCanalAtNiagaraEscarp.jpg at Lockport, now without gates and used as a cascade for excess water]] Erie_Canal_lock_Lockport_New_York.jpg The men who planned and oversaw construction were novices as surveyors and as engineers. There were no civil engineers in the United States.[21] James Geddes and Benjamin Wright, who laid out the route, were judges whose experience in surveying was in settling boundary disputes. Geddes had only used a surveying instrument for a few hours before his work on the Canal.[22] Canvass White was a 27-year-old amateur engineer who persuaded Clinton to let him go to Britain at his own expense to study the canal system there. Nathan Roberts was a mathematics teacher and land speculator. Yet these men "carried the Erie Canal up the Niagara escarpment at Lockport, maneuvered it onto a towering embankment to cross over Irondequoit Creek, spanned the Genesee River on an awesome aqueduct, and carved a route for it out of the solid rock between Little Falls and Schenectady—and all of those venturesome designs worked precisely as planned". (Bernstein, p. 381)
+]] at Lockport, now without gates and used as a cascade for excess water]] The men who planned and oversaw construction were novices as surveyors and as engineers. There were no civil engineers in the United States.[21] James Geddes and Benjamin Wright, who laid out the route, were judges whose experience in surveying was in settling boundary disputes. Geddes had only used a surveying instrument for a few hours before his work on the Canal.[22] Canvass White was a 27-year-old amateur engineer who persuaded Clinton to let him go to Britain at his own expense to study the canal system there. Nathan Roberts was a mathematics teacher and land speculator. Yet these men "carried the Erie Canal up the Niagara escarpment at Lockport, maneuvered it onto a towering embankment to cross over Irondequoit Creek, spanned the Genesee River on an awesome aqueduct, and carved a route for it out of the solid rock between Little Falls and Schenectady—and all of those venturesome designs worked precisely as planned". (Bernstein, p. 381)
 
 Construction began July 4, 1817, at Rome, New York. The first , from Rome to Utica, opened in 1819. At that rate, the canal would not be finished for 30 years. The main delays were caused by felling trees to clear a path through virgin forest and moving excavated soil, which took longer than expected, but the builders devised ways to solve these problems. To fell a tree, they threw rope over the top branches and winched it down. They pulled out the stumps with an innovative stump puller. Two huge wheels were mounted loose on the ends of an axle. A third wheel, slightly smaller than the others, was fixed to the center of the axle. A chain was wrapped around the axle and hooked to the stump. A rope was wrapped around the center wheel and hooked to a team of oxen. The mechanical advantage (torque) obtained ripped the stumps out of the soil. Soil to be moved was shoveled into large wheelbarrows that were dumped into mule-pulled carts. Using a scraper and a plow, a three-man team with oxen, horses and mules could build a mile in a year.[23]
 
@@ -98,8 +98,6 @@ The Erie Canal was thus completed in eight years at a cost of $7,143,000[29] ().
 
 Route
 
-Erie_Canal_Map_1853.jpg Erie_canal_lockport_c1855.jpg
-
 The canal began on the west side of the Hudson River at Albany, and ran north to Watervliet, where the Champlain Canal branched off. At Cohoes, it climbed the escarpment on the west side of the Hudson River—16 locks rising —and then turned west along the south shore of the Mohawk River, crossing to the north side at Crescent and again to the south at Rexford. The canal continued west near the south shore of the Mohawk River all the way to Rome, where the Mohawk turns north.[31]
 
 At Rome, the canal continued west parallel to Wood Creek, which flows westward into Oneida Lake, and turned southwest and west cross-country to avoid the lake. From Canastota west, it ran roughly along the north (lower) edge of the Onondaga Escarpment, passing through Syracuse, Onondaga Lake, and Rochester. Before reaching Rochester, the canal uses a series of natural ridges to cross the deep valley of Irondequoit Creek. At Lockport the canal turned southwest to rise to the top of the Niagara Escarpment, using the ravine of Eighteen Mile Creek.[32]
@@ -111,7 +109,7 @@ The Erie made use of the favorable conditions of New York's unique topography, w
 
 Enlargements and improvements
 
-Camillus-aqueduct1.JPG north of Camillus, New York built in 1841 and abandoned c. 1918; one of 32 navigable aqueducts on the Erie Canal, it has since been restored.]]
+north of Camillus, New York built in 1841 and abandoned c. 1918; one of 32 navigable aqueducts on the Erie Canal, it has since been restored.]]
 
 Problems developed but were quickly solved. Leaks developed along the entire length of the canal, but these were sealed using cement that hardened underwater (hydraulic cement). Erosion on the clay bottom proved to be a problem and the speed was limited to .
 
@@ -119,7 +117,7 @@ The original design planned for an annual tonnage of 1.5 million tons (1.36 mil
 
 Today, the reconfiguration of the canal created during the First Enlargement is commonly referred to as the "Improved Erie Canal" or the "Old Erie Canal", to distinguish it from the canal's modern-day course. Existing remains of the 1825 canal abandoned during the Enlargement are officially referred to today as "Clinton's Ditch" (which was also the popular nickname for the entire Erie Canal project during its original 1817–1825 construction)[36].
 
-Erie_Canal,_Lock_32.jpg.]]
+.]]
 
 Additional feeder canals soon extended the Erie Canal into a system. These included the Cayuga-Seneca Canal south to the Finger Lakes, the Oswego Canal from Three Rivers north to Lake Ontario at Oswego, and the Champlain Canal from Troy north to Lake Champlain. From 1833 to 1877, the short Crooked Lake Canal connected Keuka Lake and Seneca Lake. The Chemung Canal connected the south end of Seneca Lake to Elmira in 1833, and was an important route for Pennsylvania coal and timber into the canal system. The Chenango Canal in 1836 connected the Erie Canal at Utica to Binghamton and caused a business boom in the Chenango River valley. The Chenango and Chemung canals linked the Erie with the Susquehanna River system. The Black River Canal connected the Black River to the Erie Canal at Rome and remained in operation until the 1920s. The Genesee Valley Canal was run along the Genesee River to connect with the Allegheny River at Olean, but the Allegheny section, which would have connected to the Ohio and Mississippi rivers, was never built. The Genesee Valley Canal was later abandoned and became the route of the Genesee Valley Canal Railroad.
 
@@ -128,7 +126,7 @@ In 1903 the New York State legislature authorized construction of the New York S
 
 Competition
 
-Water_Level_Route_on_US_map_cropped.png (purple), West Shore Railroad (red) and Erie Canal (blue).]]
+(purple), West Shore Railroad (red) and Erie Canal (blue).]]
 
 As the canal brought travelers to New York City, it took business away from other ports such as Philadelphia and Baltimore. Those cities and their states started projects to compete with the Erie Canal. In Pennsylvania, the Main Line of Public Works was a combined canal and railroad running west from Philadelphia to Pittsburgh on the Ohio River, opened in 1834. In Maryland, the Baltimore and Ohio Railroad ran west to Wheeling, West Virginia, also on the Ohio River, and was completed in 1853.
 
@@ -141,7 +139,7 @@ The New York, West Shore and Buffalo Railway was completed in 1884, as a route r
 
 Impact
 
-Rochester_erie_canal_aqueduct_circa_1890.jpg aqueduct circa 1890]] The Erie Canal greatly lowered the cost of shipping between the Midwest and the Northeast, bringing much lower food costs to Eastern cities and allowing the East to economically ship machinery and manufactured goods to the Midwest. The canal also made an immense contribution to the wealth and importance of New York City, Buffalo and New York State. Its impact went much further, increasing trade throughout the nation by opening eastern and overseas markets to Midwestern farm products and by enabling migration to the West.[40][41]
+aqueduct circa 1890]] The Erie Canal greatly lowered the cost of shipping between the Midwest and the Northeast, bringing much lower food costs to Eastern cities and allowing the East to economically ship machinery and manufactured goods to the Midwest. The canal also made an immense contribution to the wealth and importance of New York City, Buffalo and New York State. Its impact went much further, increasing trade throughout the nation by opening eastern and overseas markets to Midwestern farm products and by enabling migration to the West.[40][41]
 
 The Erie Canal was an immediate success. Tolls collected on freight had already exceeded the state's construction debt in its first year of official operation.[42] By 1828, import duties collected at the New York Customs House supported federal government operations and provided funds for all the expenses in Washington except the interest on the national debt.[43] Additionally, New York State's initial loan for the original canal had been paid by 1837.[44] Although it had been envisioned as primarily a commercial channel for freight boats, passengers also traveled on the canal's packet boats. In 1825 more than 40,000 passengers took advantage of the convenience and beauty of canal travel.[45] The canal's steady flow of tourists, businessmen and settlers lent it to uses never imagined by its initial sponsors. Evangelical preachers made their circuits of the upstate region, and the canal served as the last leg of the Underground Railroad ferrying runaway slaves to Buffalo near the Canada–US border.[46] Aspiring merchants found that tourists were reliable customers. Vendors moved from boat to boat peddling items such as books, watches and fruit, while less scrupulous "confidence men" sold remedies for foot corns or passed off counterfeit bills.[47] Tourists were carried along the "northern tour," which ultimately led to the popular honeymoon destination Niagara Falls, just north of Buffalo.
 
@@ -157,7 +155,7 @@ Its success also prompted imitation: a rash of canal-building followed. Also, th
 
 Concern that erosion caused by logging in the Adirondacks could silt up the canal contributed to the creation in 1885 of another New York National Historic Landmark, the Adirondack Park.
 
-Erie_Canal_Lift_Bridge_Lockport_July_2010.JPG July 2010.]] Many notable authors wrote about the canal, including Herman Melville, Frances Trollope, Nathaniel Hawthorne, Harriet Beecher Stowe, Mark Twain, Samuel Hopkins Adams and the Marquis de Lafayette, and many tales and songs were written about life on the canal. The popular song "Low Bridge" by Thomas S. Allen was written in 1905 to memorialize the canal's early heyday, when barges were pulled by mules rather than engines.
+July 2010.]] Many notable authors wrote about the canal, including Herman Melville, Frances Trollope, Nathaniel Hawthorne, Harriet Beecher Stowe, Mark Twain, Samuel Hopkins Adams and the Marquis de Lafayette, and many tales and songs were written about life on the canal. The popular song "Low Bridge" by Thomas S. Allen was written in 1905 to memorialize the canal's early heyday, when barges were pulled by mules rather than engines.
 
 
 Sunday closing debate
@@ -167,11 +165,9 @@ The New York State Legislature debated closing the locks of the Erie Canal on Su
 
 20th century
 
-BaldwinsvilleLock24.jpg.]] In 1918, the Canal was replaced by the larger New York State Barge Canal. This new canal replaced much of the original route, leaving many abandoned sections (most notably between Syracuse and Rome). New digging and flood control technologies allowed engineers to canalize rivers that the original canal had sought to avoid, such as the Mohawk, Seneca, and Clyde rivers, and Oneida Lake. In sections that did not consist of canalized rivers (particularly between Rochester and Buffalo), the original Erie Canal channel was enlarged to wide and deep. The expansion allowed barges up to to use the Canal. This expensive project was politically unpopular in parts of the state not served by the canal, and failed to save it from becoming obsolete for commercial shipping.
+.]] In 1918, the Canal was replaced by the larger New York State Barge Canal. This new canal replaced much of the original route, leaving many abandoned sections (most notably between Syracuse and Rome). New digging and flood control technologies allowed engineers to canalize rivers that the original canal had sought to avoid, such as the Mohawk, Seneca, and Clyde rivers, and Oneida Lake. In sections that did not consist of canalized rivers (particularly between Rochester and Buffalo), the original Erie Canal channel was enlarged to wide and deep. The expansion allowed barges up to to use the Canal. This expensive project was politically unpopular in parts of the state not served by the canal, and failed to save it from becoming obsolete for commercial shipping.
 
 The new alignment began on the Hudson River at the border between Cohoes and Waterford, where it ran northwest with five locks (the so-called "Waterford Flight"), running into the Mohawk River east of Crescent. The Waterford Flight is claimed to be one of the steepest series of locks in the world.[50] [51][52]
-
-Sunset_over_the_Erie_Canal_in_North_Tonawanda,_NY..jpg
 
 While the old Canal ran next to the Mohawk all the way to Rome, the new canal ran through the river, which was straightened or widened where necessary.[53] At Ilion, the new canal left the river for good, but continued to run on a new alignment parallel to both the river and the old canal to Rome. From Rome, the new route continued almost due west, merging with Fish Creek just east of its entry into Oneida Lake.
 
@@ -198,9 +194,9 @@ Travel on the canal's middle section (particularly in the Mohawk Valley) was sev
 
 There were some 42 commercial shipments on the canal in 2008, compared to 15 such shipments in 2007 and more than 33,000 shipments in 1855, the canal's peak year. The new growth in commercial traffic is due to the rising cost of diesel fuel. Canal barges can carry a short ton of cargo on one gallon of diesel fuel, while a gallon allows a train to haul the same amount of cargo and a truck . Canal barges can carry loads up to , and are used to transport objects that would be too large for road or rail shipment.[54] Today, the system is served by several commercial towing companies.[55] In 2012, the New York State Canal System (which consists of the Erie Canal and a few smaller canals) was used to ship 42,000 tons of cargo.[56]
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------
-  Erie_Canal_over_Genesee_River_RochNY.jpg in Rochester, New York. Broad Street now runs atop it. A proposed rewatering project of the Erie Canal Aqueduct to connect to a round lock on the Genesee River is under review. This revitalization project will also facilitate boating.]]   Rochester_Downtown_-_Late_1930s.jpg The Aqueduct is divided by the concrete support for the Broad Street Bridge above. In the former bed ran the Rochester Subway]]   Canal_tour_boat.jpg Lock 24.]]
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------- ------------
+  in Rochester, New York. Broad Street now runs atop it. A proposed rewatering project of the Erie Canal Aqueduct to connect to a round lock on the Genesee River is under review. This revitalization project will also facilitate boating.]]   The Aqueduct is divided by the concrete support for the Broad Street Bridge above. In the former bed ran the Rochester Subway]]   Lock 24.]]
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------- ------------
 
 Aside from transportation, numerous businesses, farms, factories and communities alongside its banks still utilize the canal's waters for other purposes such as irrigation for farmland, hydroelectricity, research, industry, and even drinking. Use of the canal system has an estimated total economic impact of $6.2 billion annually.[57]
 
@@ -209,7 +205,7 @@ In 2017, the New York State Canal Corporation was transferred from the New York 
 
 Old Erie Canal
 
-Kirkville-olderie1.JPG, within Old Erie Canal State Historic Park]] Sections of the old Erie Canal not used after 1918 are owned by New York State, or have been ceded to or purchased by counties or municipalities. Many stretches of the old canal have been filled in to create roads such as Erie Boulevard in Syracuse and Schenectady, and Broad Street and the Rochester Subway in Rochester. A 36‑mile (58 km) stretch of the old canal from the town of DeWitt, New York, east of Syracuse, to just outside Rome, New York, is preserved as the Old Erie Canal State Historic Park. In 1960 the Schoharie Crossing State Historic Site, a section of the canal in Montgomery County, was one of the first sites recognized as a National Historic Landmark.[59]
+, within Old Erie Canal State Historic Park]] Sections of the old Erie Canal not used after 1918 are owned by New York State, or have been ceded to or purchased by counties or municipalities. Many stretches of the old canal have been filled in to create roads such as Erie Boulevard in Syracuse and Schenectady, and Broad Street and the Rochester Subway in Rochester. A 36‑mile (58 km) stretch of the old canal from the town of DeWitt, New York, east of Syracuse, to just outside Rome, New York, is preserved as the Old Erie Canal State Historic Park. In 1960 the Schoharie Crossing State Historic Site, a section of the canal in Montgomery County, was one of the first sites recognized as a National Historic Landmark.[59]
 
 Some municipalities have preserved sections as town or county canal parks, or have plans to do so. Camillus Erie Canal Park preserves a stretch and has restored Nine Mile Creek Aqueduct, built in 1841 as part of the First Enlargement of the canal.[60] In some communities, the old canal has refilled with overgrowth and debris. Proposals have been made to rehydrate the old canal through downtown Rochester or Syracuse as a tourist attraction. In Syracuse, the location of the old canal is represented by a reflecting pool in downtown's Clinton Square and the downtown hosts a canal barge and weigh lock structure, now dry. Buffalo's Commercial Slip is the restored and re-watered segment of the canal which formed its "Western Terminus".
 
@@ -217,7 +213,7 @@ The Erie Canal is a destination for tourists from all over the world, and has in
 
 In 2004, the administration of New York Governor George Pataki was criticized when officials of New York State Canal Corporation attempted to sell private development rights to large stretches of the Old Erie Canal to a single developer for $30,000, far less than the land was worth on the open market. After an investigation by the _Syracuse Post-Standard_ newspaper, the Pataki administration nullified the deal.[63]
 
-Erie_Canal_Harbor_redevelopment_project.jpg Erie Canal Commercial Slip in Spring 2008.]] Records of the planning, design, construction, and administration of the Erie Canal are vast and can be found in the New York State Archives. Except for two years (1827–1829), the State of New York did not require canal boat operators to maintain or submit passenger lists.[64]
+Erie Canal Commercial Slip in Spring 2008.]] Records of the planning, design, construction, and administration of the Erie Canal are vast and can be found in the New York State Archives. Except for two years (1827–1829), the State of New York did not require canal boat operators to maintain or submit passenger lists.[64]
 
 Parks and museums
 
@@ -227,13 +223,9 @@ Parks and museums related to the old Erie Canal include (listed from East to Wes
 -   Watervliet Side Cut Locks, located at Watervliet and listed on the National Register of Historic Places in 1971[65]
 -   Enlarged Erie Canal Historic District (Discontiguous), a national historic district located at Cohoes, New York listed on the National Register of Historic Places in 2004[66]
 
-Enlarged_Erie_Canal_Lock_18.jpg
-
 -   Cohoes Falls Park, 231 N. Mohawk St., Cohoes, New York, offers, looking away from the river, a dramatic view of abandoned and dry Erie Canal lock 18, high above.
 -   Enlarged Double Lock No. 23, Old Erie Canal, Rotterdam
 -   Schoharie Crossing State Historic Site at Fort Hunter
-
-Old_Erie_Canal_State_Park.jpg
 
 -   Old Erie Canal State Historic Park, 36-mile linear park from Rome to DeWitt
     -   Erie Canal Village, near Rome
@@ -261,7 +253,7 @@ Erie Canalway Trail
 
 Locks
 
-ErieCanalLock03679.jpg]] The following list of locks is provided for the current canal, from east to west. There are a total of 36 (35 numbered) locks on the Erie Canal.
+]] The following list of locks is provided for the current canal, from east to west. There are a total of 36 (35 numbered) locks on the Erie Canal.
 
 All locks on the New York State Canal System are single-chamber; the dimensions are long and wide with a minimum depth of water over the miter sills at the upstream gates upon lift. They can accommodate a vessel up to long and wide.[70][71][72] Overall sidewall height will vary by lock, ranging between depending on the lift and navigable stages. Lock E17 at Little Falls has the tallest sidewall height at .[73]
 

@@ -9,15 +9,13 @@ History
 
 War of Independence
 
-Santo_domingo_1850.jpg in Santo Domingo circa 1850.]]
+in Santo Domingo circa 1850.]]
 
 Haiti under their president Jean-Pierre Boyer had invaded and occupied Dominican Republic from 1822 to 1844. The military forces of the First Republic's army comprised about 4,000 soldiers organized into seven line infantry regiments, several loose battalions, 6 escudrones cavalry and 3 artillery brigades with 2/2 brigades; This army was supplemented with national civic guard militia composed of the provinces, the National Naval Armada, original name of the Navy today; It composed of 10 ships, seven owned and 3 taken in requición and armed by the government: the Cibao frigate with 20 cannons; the brigantine schooner San Jose, five guns; the schooner La Libertad, five guns; General schooner Santana 7 guns; the schooner La Merced, five guns; Separation schooner, 3 guns; the schooner February 27, five guns. The requisition taken: the schooner Maria Luisa, 3 guns; the schooner March 30, 3 guns; and the schooner Hope, 3 guns. 674 operated by a man. In addition to the aforementioned military corps expeditionary southern army recruited by Pedro and Ramon Santana in Hato Mayor and El Seibo, with a permit issued by the Central Governing Board with the rank of commander in chief of the army existed. These men were skilled in handling machete and spear. His deputy commander was Brigadier General Antonio Duvergé. The other expeditionary army was the Northern Borders created to defend these borders: its commander was Major General Francisco A. Salcedo.
 
 The Dominican forces would reach levels of organization and efficiency of considerable notoriety. As an example of this, it would suffice to highlight the fact of the achievement and preservation of National Independence, with the Dominican victory over repeated Haitian military invasions in the 12-year period that followed the proclamation of Independence; In addition, 55 percent of the National Budget was allocated to it.
 
 20th century
-
-Dominician_Anti_Terrorism_Commandos_coming_out_of_helicopter.jpg
 
 The events that led to the United States military intervention of 1916, brought about the disappearance of any vestige of military structure in the Dominican Republic, setting the intervening forces a military government headed by Captain William Knapp, who make an interim police force called "Constabulary "equivalent to an" armed police force as a military unit "and he had the task of maintaining internal order and enforce the implementing provisions of the US government. This body, purely police function disappears in 1917, leading to the creation of a National Guard. As a result of this historic event of our recent past, the country inherited a hierarchical and organizational akin to the US Marine Corps structure, which served as a platform to the transformations that later gave rise to the armed forces we know today, made up of three components, terrestrial one, one naval and one air.
 

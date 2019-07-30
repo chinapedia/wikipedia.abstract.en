@@ -12,7 +12,7 @@ Loch Ard, about west of Aberfoyle, lies 40 metres above the sea. It is long (inc
 
 Toponym
 
-Aberfoyle supposedly originates from the Brittonic Celtic, _aber poll_ or _aber phuill_ (Scottish Gaelic, ), meaning (place at the) mouth of the Phuill Burn (the Pow Burn enters the River Forth at Aberfoyle). Historically, alternative spellings such as _Abirfull_, _Aberfule_, _Aberfoill_ and _Aberfoil_ have been recorded before the current spelling became accepted by the 20th century.[2] Milepost_on_A81_-_geograph.org.uk_-_988577.jpg
+Aberfoyle supposedly originates from the Brittonic Celtic, _aber poll_ or _aber phuill_ (Scottish Gaelic, ), meaning (place at the) mouth of the Phuill Burn (the Pow Burn enters the River Forth at Aberfoyle). Historically, alternative spellings such as _Abirfull_, _Aberfule_, _Aberfoill_ and _Aberfoil_ have been recorded before the current spelling became accepted by the 20th century.[2]
 
 
 Industry
@@ -33,7 +33,7 @@ Aberfoyle is also home to the largest Go Ape adventure course in the UK, featuri
 
 Historical figures
 
-The_Old_Kirk_Graveyard_in_Aberfoyle.jpg Aberfoyle has connections to many historical figures such as Rob Roy and Mary, Queen of Scots. Robert Roy MacGregor was born at the head of nearby Loch Katrine, and his well-known cattle stealing exploits took him all around the area surrounding Aberfoyle. It is recorded, for example, that in 1691, the MacGregors raided every barn in the village of Kippen and stole all the villagers' livestock![5] There currently stands a tree in the village that MacGregor was reputed to have climbed and hid in to escape the clutches of the law. Also, Mary, Queen of Scots, visited nearby Inchmahome Priory often as a child, and during her short reign. She also used the priory during her short reign, particularly in 1547, where she felt safe from the English Army.
+Aberfoyle has connections to many historical figures such as Rob Roy and Mary, Queen of Scots. Robert Roy MacGregor was born at the head of nearby Loch Katrine, and his well-known cattle stealing exploits took him all around the area surrounding Aberfoyle. It is recorded, for example, that in 1691, the MacGregors raided every barn in the village of Kippen and stole all the villagers' livestock![5] There currently stands a tree in the village that MacGregor was reputed to have climbed and hid in to escape the clutches of the law. Also, Mary, Queen of Scots, visited nearby Inchmahome Priory often as a child, and during her short reign. She also used the priory during her short reign, particularly in 1547, where she felt safe from the English Army.
 
 However, the most local historical figure is the Reverend Robert Kirk, born in 1644. It was the Rev. Kirk who provided the first translation into Gaidhlig of the Book of Psalms,[6] however, he is better remembered for the publication of his book _"The Secret Commonwealth of Elves, Fauns, and Fairies"_ in 1691.[7][8] Kirk had long been researching fairies, and the book collected several personal accounts and stories of folk who claimed to have encountered them. It was after this, while Kirk was minister of Aberfoyle parish, that he died in unusual circumstances.
 

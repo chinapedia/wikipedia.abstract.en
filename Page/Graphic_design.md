@@ -1,11 +1,11 @@
-National_Park_Service_sample_pictographs.svg and anonymous,[1] as these pictographs from the US National Park Service illustrate.]]
+and anonymous,[1] as these pictographs from the US National Park Service illustrate.]]
 
 GRAPHIC DESIGN is the process of visual communication and problem-solving through the use of typography, photography, and illustration. The field is considered a subset of visual communication and communication design, but sometimes the term "graphic design" is used synonymously. Graphic designers create and combine symbols, images and text to form visual representations of ideas and messages. They use typography, visual arts, and page layout techniques to create visual compositions. Common uses of graphic design include corporate design (logos and branding), editorial design (magazines, newspapers and books), wayfinding or environmental design, advertising, web design, communication design, product packaging, and signage.
 
 
 History
 
-KellsFol114vTuncDicit.gif: Folio 114v, Decorated text. _Tunc dicit illis_]]The term graphic design was coined by William Addison Dwiggins in 1922.[2] However, the origins of graphic design can be traced from the origins of human existence, from the caves of Lascaux, to Rome's Trajan's Column to the illuminated manuscripts of the Middle Ages, to the neon lights of Ginza, Tokyo. In "Babylon, artisans pressed cuneiform inscriptions into clay bricks or tablets which were used for construction. The bricks gave information such as the name of the reigning monarch, the builder, or some other dignitary".[3] This was the first known road sign announcing the name of the governor of a state or mayor of the city. The Egyptians developed communication by hieroglyphics that used picture symbols dating as far back as 136 B.C. found on the Rosetta Stone. "The Rosetta stone, found by one of Napoleon's engineers was an advertisement for the Egyptian ruler, Ptolemy as the "true Son of the Sun, the Father of the Moon, and the Keeper of the Happiness of Men"" [4] The Egyptians also invented papyrus, paper made from reeds found along the Nile, on which they transcribed advertisements more common among their people at the time. During the "Dark Ages", from 500 AD to 1450 AD, monks created elaborate, illustrated manuscripts.
+: Folio 114v, Decorated text. _Tunc dicit illis_]]The term graphic design was coined by William Addison Dwiggins in 1922.[2] However, the origins of graphic design can be traced from the origins of human existence, from the caves of Lascaux, to Rome's Trajan's Column to the illuminated manuscripts of the Middle Ages, to the neon lights of Ginza, Tokyo. In "Babylon, artisans pressed cuneiform inscriptions into clay bricks or tablets which were used for construction. The bricks gave information such as the name of the reigning monarch, the builder, or some other dignitary".[3] This was the first known road sign announcing the name of the governor of a state or mayor of the city. The Egyptians developed communication by hieroglyphics that used picture symbols dating as far back as 136 B.C. found on the Rosetta Stone. "The Rosetta stone, found by one of Napoleon's engineers was an advertisement for the Egyptian ruler, Ptolemy as the "true Son of the Sun, the Father of the Moon, and the Keeper of the Happiness of Men"" [4] The Egyptians also invented papyrus, paper made from reeds found along the Nile, on which they transcribed advertisements more common among their people at the time. During the "Dark Ages", from 500 AD to 1450 AD, monks created elaborate, illustrated manuscripts.
 
 In both its lengthy history and in the relatively recent explosion of visual communication in the 20th and 21st centuries, the distinction between advertising, art, graphic design and fine art has disappeared. They share many elements, theories, principles, practices, languages and sometimes the same benefactor or client. In advertising, the ultimate objective is the sale of goods and services. In graphic design, "the essence is to give order to information, form to ideas, expression, and feeling to artifacts that document human experience."[5]
 
@@ -37,7 +37,7 @@ From 1891 to 1896, William Morris' Kelmscott Press published some of the most si
 
 Twentieth century design
 
-VC-25(040616-F-5677R-002).jpg designating it as Air Force One. The cyan forms, the US flag, presidential seal and the Caslon lettering, were all designed at different times, by different designers, for different purposes, and combined by designer Raymond Loewy in this one single aircraft exterior design.]]
+designating it as Air Force One. The cyan forms, the US flag, presidential seal and the Caslon lettering, were all designed at different times, by different designers, for different purposes, and combined by designer Raymond Loewy in this one single aircraft exterior design.]]
 
 The term "graphic design" first appeared in print in the 1922 essay "New Kind of Printing Calls for New Design" by William Addison Dwiggins, an American book designer in the early 20th century.[10] Raffe's _Graphic Design_, published in 1927, was the first book to use "Graphic Design" in its title.[11]
 
@@ -52,7 +52,7 @@ The professional graphic design industry grew in parallel with consumerism. This
 
 Applications
 
-Secretary.jpg]] Graphic design is applied to everything visual, from road signs to technical schematics, from interoffice memorandums to reference manuals.
+]] Graphic design is applied to everything visual, from road signs to technical schematics, from interoffice memorandums to reference manuals.
 
 Design can aid in selling a product or idea. It is applied to products and elements of company identity such as logos, colors, packaging and text as part of branding (see also advertising). Branding has become increasingly more important in the range of services offered by graphic designers. Graphic designers often form part of a branding team.
 
@@ -75,11 +75,11 @@ Typography is performed by typesetters, compositors, typographers, graphic artis
 
 Page layout
 
-Golden_section_in_book_design.svg Page layout deals with the arrangement of elements (content) on a page, such as image placement, text layout and style. Page design has always been a consideration in printed material and more recently extended to displays such as web pages. Elements typically consist of type (text), images (pictures), and (with print media) occasionally place-holder graphics such as a dieline for elements that are not printed with ink such as die/laser cutting, foil stamping or blind embossing.
+Page layout deals with the arrangement of elements (content) on a page, such as image placement, text layout and style. Page design has always been a consideration in printed material and more recently extended to displays such as web pages. Elements typically consist of type (text), images (pictures), and (with print media) occasionally place-holder graphics such as a dieline for elements that are not printed with ink such as die/laser cutting, foil stamping or blind embossing.
 
 Printmaking
 
-Printmaking is the process of making artworks by printing on paper and other materials or surfaces. The process is capable of producing multiples of the same work, each called a print. Each print is an original, technically known as an impression. Prints are created from a single original surface, technically a matrix. Common types of matrices include: plates of metal, usually copper or zinc for engraving or etching; stone, used for lithography; blocks of wood for woodcuts, linoleum for linocuts and fabric plates for screen-printing. Works printed from a single plate create an edition, in modern times usually each signed and numbered to form a limited edition. Prints may be published in book form, as artist's books. A single print could be the product of one or multiple techniques.Pencils_hb.jpg is one of the most basic graphic design tools.]]
+Printmaking is the process of making artworks by printing on paper and other materials or surfaces. The process is capable of producing multiples of the same work, each called a print. Each print is an original, technically known as an impression. Prints are created from a single original surface, technically a matrix. Common types of matrices include: plates of metal, usually copper or zinc for engraving or etching; stone, used for lithography; blocks of wood for woodcuts, linoleum for linocuts and fabric plates for screen-printing. Works printed from a single plate create an edition, in modern times usually each signed and numbered to form a limited edition. Prints may be published in book form, as artist's books. A single print could be the product of one or multiple techniques. is one of the most basic graphic design tools.]]
 
 Aside from technology, graphic design requires judgment and creativity. Critical, observational, quantitative and analytic thinking are required for design layouts and rendering. If the executor is merely following a solution (e.g. sketch, script or instructions) provided by another designer (such as an art director), then the executor is not usually considered the designer.
 

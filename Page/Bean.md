@@ -1,4 +1,4 @@
-Painted_Pony_Bean.JPG'')]] Bean-lubia.jpg Beans_and_plantain.jpg
+'')]]
 
 A BEAN is a seed of one of several genera of the flowering plant family Fabaceae, which are used for human or animal food.
 
@@ -12,14 +12,14 @@ Seeds called "beans" are often included among the crops called "pulses" (legumes
 
 Cultivation
 
-Field_beans_near_Pendomer_-_geograph.org.uk_-_1463701.jpg''), ready for harvest]] Unlike the closely related pea, beans are a summer crop that need warm temperatures to grow. Maturity is typically 55–60 days from planting to harvest.[9] As the bean pods mature, they turn yellow and dry up, and the beans inside change from green to their mature colour. As a vine, bean plants need external support, which may be provided in the form of special "bean cages" or poles. Native Americans customarily grew them along with corn and squash (the so-called Three Sisters)[10], with the tall cornstalks acting as support for the beans.
+''), ready for harvest]] Unlike the closely related pea, beans are a summer crop that need warm temperatures to grow. Maturity is typically 55–60 days from planting to harvest.[9] As the bean pods mature, they turn yellow and dry up, and the beans inside change from green to their mature colour. As a vine, bean plants need external support, which may be provided in the form of special "bean cages" or poles. Native Americans customarily grew them along with corn and squash (the so-called Three Sisters)[10], with the tall cornstalks acting as support for the beans.
 
-In more recent times, the so-called "bush bean" has been developed which does not require support and has all its pods develop simultaneously (as opposed to pole beans which develop gradually).[11] This makes the bush bean more practical for commercial production. Bean_creeper.jpg
+In more recent times, the so-called "bush bean" has been developed which does not require support and has all its pods develop simultaneously (as opposed to pole beans which develop gradually).[11] This makes the bush bean more practical for commercial production.
 
 
 History
 
-Annibale_Carracci_The_Beaneater.jpg'' (1580–90) by Annibale Carracci]] BakedBeansAndEggOnToast.jpg Beans are one of the longest-cultivated plants. Broad beans, also called fava beans, in their wild state the size of a small fingernail, were gathered in Afghanistan and the Himalayan foothills.[12] In a form improved from naturally occurring types, they were grown in Thailand since the early seventh millennium BCE, predating ceramics.[13] They were deposited with the dead in ancient Egypt. Not until the second millennium BCE did cultivated, large-seeded broad beans appear in the Aegean, Iberia and transalpine Europe.[14] In the _Iliad_ (8th century BCE) is a passing mention of beans and chickpeas cast on the threshing floor.[15]
+'' (1580–90) by Annibale Carracci]] Beans are one of the longest-cultivated plants. Broad beans, also called fava beans, in their wild state the size of a small fingernail, were gathered in Afghanistan and the Himalayan foothills.[12] In a form improved from naturally occurring types, they were grown in Thailand since the early seventh millennium BCE, predating ceramics.[13] They were deposited with the dead in ancient Egypt. Not until the second millennium BCE did cultivated, large-seeded broad beans appear in the Aegean, Iberia and transalpine Europe.[14] In the _Iliad_ (8th century BCE) is a passing mention of beans and chickpeas cast on the threshing floor.[15]
 
 Beans were an important source of protein throughout Old and New World history, and still are today.
 
@@ -47,8 +47,6 @@ Some bean types include:
 -   _Vicia_
     -   _Vicia faba_ (broad bean or fava bean)
 
-Fava_beans_1.jpg
-
 -   _Phaseolus_
     -   _Phaseolus acutifolius_ (tepary bean)
     -   _Phaseolus coccineus_ (runner bean)
@@ -70,19 +68,15 @@ Fava_beans_1.jpg
 -   ''Lathyrus
     -   _Lathyrus sativus_ (Indian pea)
     -   _Lathyrus tuberosus_ (tuberous pea)
--   _Lens_ 3_types_of_lentil.jpg
+-   _Lens_
     -   _Lens culinaris_ (lentil)
 -   _Lablab_
     -   _Lablab purpureus_ (hyacinth bean)
-
-Val_Beans.jpg
 
 -   _Glycine_
     -   _Glycine max_ (soybean)
 -   _Psophocarpus_
     -   _Psophocarpus tetragonolobus_ (winged bean)
-
-Japanese_Psophocarpus_tetragonolobus.jpg
 
 -   _Cajanus_
     -   _Cajanus cajan_ (pigeon pea)
@@ -127,7 +121,7 @@ Nutrition
 
 Beans are high in protein, complex carbohydrates, folate, and iron.[31] Beans also have significant amounts of fiber and soluble fiber, with one cup of cooked beans providing between nine and 13 grams of fiber.[32] Soluble fiber can help lower blood cholesterol.[33]
 
-Bean_Nutrition.png Consuming beans adds significant amounts of fiber and soluble fiber to a diet, with one cup of cooked beans providing between nine and thirteen grams of fiber.[34] Soluble fiber can help lower blood cholesterol.[35] Adults are recommended to have up to two (female), and three (male) servings. 3/4 cup of cooked beans provide one serving.[36]
+Consuming beans adds significant amounts of fiber and soluble fiber to a diet, with one cup of cooked beans providing between nine and thirteen grams of fiber.[34] Soluble fiber can help lower blood cholesterol.[35] Adults are recommended to have up to two (female), and three (male) servings. 3/4 cup of cooked beans provide one serving.[36]
 
 
 Flatulence
@@ -143,7 +137,7 @@ Fermented beans will usually not produce most of the intestinal problems that un
 
 Production
 
-Lablab_bean_and_bean_flowers.JPG bean and bean flower cultivated in West Bengal, India]] The production data of legume are published by FAO in three category. 1 Pulses dry: all mature and dry seeds of leguminous plants except soybeans and groundnuts. 2 Oil crops: soybeans and groundnuts. 3 Fresh vegetable: immature green fresh fruits of leguminous plants. Following are summary of FAO data.[40] {{-}}
+bean and bean flower cultivated in West Bengal, India]] The production data of legume are published by FAO in three category. 1 Pulses dry: all mature and dry seeds of leguminous plants except soybeans and groundnuts. 2 Oil crops: soybeans and groundnuts. 3 Fresh vegetable: immature green fresh fruits of leguminous plants. Following are summary of FAO data.[40] {{-}}
 
 +----------------------------------+-------+-------+--------+--------+--------+------------+-----------------------------------------------------------------+
 | crops                            | 1961  | 1981  | 2001   | 2015   | 2016   | 2016 /1961 | remark                                                          |
@@ -168,7 +162,7 @@ Lablab_bean_and_bean_flowers.JPG bean and bean flower cultivated in West Bengal,
 
 "Pulses,Total [1726] (dry)" is total of all dry legume mainly consumed as food. The production results of 2016 was 81.80 million tons. The production result of Pulses dry in 2016 was increased to 2.0 times from 1961 result, meanwhile population increase was 2.4 times.
 
-Main crops of "Pulses,Total [1726] (dry)" are "Beans, dry [176]" 26.83 million tons, "Peas, dry [187]" 14.36 million tons, "Chick peas [191]" 12.09 million tons, "Cow peas [195]" 6.99 million tons, "Lentils [201]" 6.32 million tons, "Pigeon peas [197]" 4.49 million tons, "Broad beans, horse beans [181]" 4.46 million tons. In general, the consumption of pulses per capita is decreasing since 1961. Exception are Lentil and Cowpea. Bean_Flower_in_Bangladesh.jpg
+Main crops of "Pulses,Total [1726] (dry)" are "Beans, dry [176]" 26.83 million tons, "Peas, dry [187]" 14.36 million tons, "Chick peas [191]" 12.09 million tons, "Cow peas [195]" 6.99 million tons, "Lentils [201]" 6.32 million tons, "Pigeon peas [197]" 4.49 million tons, "Broad beans, horse beans [181]" 4.46 million tons. In general, the consumption of pulses per capita is decreasing since 1961. Exception are Lentil and Cowpea.
 
        country     2016    share    remark
   ---- ----------- ------- -------- --------

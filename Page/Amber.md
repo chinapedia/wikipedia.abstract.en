@@ -1,4 +1,4 @@
-amber.pendants.800pix.050203.jpg is .]] Amber2.jpg Bernsteinzimmer01.jpg in the Catherine Palace, Saint Petersburg was reconstructed using new amber from Kaliningrad ]] Amber_Bernstein_many_stones.jpg Amber_miners2.jpg
+is .]] in the Catherine Palace, Saint Petersburg was reconstructed using new amber from Kaliningrad ]]
 
 AMBER is fossilized tree resin, which has been appreciated for its color and natural beauty since Neolithic times.[1] Much valued from antiquity to the present as a gemstone, amber is made into a variety of decorative objects.[2] Amber is used in jewelry. It has also been used as a healing agent in folk medicine.
 
@@ -18,11 +18,11 @@ History
 
 Theophrastus discussed amber in the 4th century BC, as did Pytheas (c. 330 BC), whose work "On the Ocean" is lost, but was referenced by Pliny the Elder (23 to 79 AD), according to whose _The Natural History_ (in what is also the earliest known mention of the name _Germania_):[13]
 
-Amber_Fisher.jpg Earlier[14] Pliny says that Pytheas refers to a large island - three days' sail from the Scythian coast and called Balcia by Xenophon of Lampsacus (author of a fanciful travel book in Greek) - as _Basilia_ - a name generally equated with _Abalus_. Given the presence of amber, the island could have been Heligoland, Zealand, the shores of Bay of Gdansk, the Sambia Peninsula or the Curonian Lagoon, which were historically the richest sources of amber in northern Europe. It is assumed that there were well-established trade routes for amber connecting the Baltic with the Mediterranean (known as the "Amber Road"). Pliny states explicitly that the Germans exported amber to Pannonia, from where the Veneti distributed it onwards.
+Earlier[14] Pliny says that Pytheas refers to a large island - three days' sail from the Scythian coast and called Balcia by Xenophon of Lampsacus (author of a fanciful travel book in Greek) - as _Basilia_ - a name generally equated with _Abalus_. Given the presence of amber, the island could have been Heligoland, Zealand, the shores of Bay of Gdansk, the Sambia Peninsula or the Curonian Lagoon, which were historically the richest sources of amber in northern Europe. It is assumed that there were well-established trade routes for amber connecting the Baltic with the Mediterranean (known as the "Amber Road"). Pliny states explicitly that the Germans exported amber to Pannonia, from where the Veneti distributed it onwards.
 
 The ancient Italic peoples of southern Italy used to work amber; the National Archaeological Museum of Siritide (Museo Archeologico Nazionale della Siritide) at Policoro in the province of Matera (Basilicata) displays important surviving examples. Amber used in antiquity as at Mycenae and in the prehistory of the Mediterranean comes from deposits of Sicily.
 
-Gouttes-drops-resine-2.jpg, the source of amber]] Pliny also cites the opinion of Nicias ( 470–413 BC), according to whom amber Besides the fanciful explanations according to which amber is "produced by the Sun", Pliny cites opinions that are well aware of its origin in tree resin, citing the native Latin name of _succinum_ (_sūcinum_, from _sucus_ "juice").[15] In Book 37, section XI of _Natural History_, Pliny wrote:
+, the source of amber]] Pliny also cites the opinion of Nicias ( 470–413 BC), according to whom amber Besides the fanciful explanations according to which amber is "produced by the Sun", Pliny cites opinions that are well aware of its origin in tree resin, citing the native Latin name of _succinum_ (_sūcinum_, from _sucus_ "juice").[15] In Book 37, section XI of _Natural History_, Pliny wrote:
 
 He also states that amber is also found in Egypt and in India, and he even refers to the electrostatic properties of amber, by saying that "in Syria the women make the whorls of their spindles of this substance, and give it the name of _harpax_ [from ἁρπάζω, "to drag"] from the circumstance that it attracts leaves towards it, chaff, and the light fringe of tissues".
 
@@ -47,7 +47,7 @@ For this to happen, the resin must be resistant to decay. Many trees produce res
 
 Botanical origin
 
-Bernstein_Bitterfeld,_Gedanit,_Bruchstücke_5658.jpg Fossil resins from Europe fall into two categories, the famous Baltic ambers and another that resembles the _Agathis_ group. Fossil resins from the Americas and Africa are closely related to the modern genus _Hymenaea_,[22] while Baltic ambers are thought to be fossil resins from Sciadopityaceae family plants that used to live in north Europe.[23]
+Fossil resins from Europe fall into two categories, the famous Baltic ambers and another that resembles the _Agathis_ group. Fossil resins from the Americas and Africa are closely related to the modern genus _Hymenaea_,[22] while Baltic ambers are thought to be fossil resins from Sciadopityaceae family plants that used to live in north Europe.[23]
 
 Physical attributes
 
@@ -55,7 +55,7 @@ Most amber has a hardness between 2.0 and 2.5 on the Mohs scale, a refractive in
 
 Inclusions
 
-Baltic-amber-fossils-inclusions.jpg The abnormal development of resin in living trees (_succinosis_) can result in the formation of amber.[25] Impurities are quite often present, especially when the resin dropped onto the ground, so the material may be useless except for varnish-making. Such impure amber is called _firniss_.
+The abnormal development of resin in living trees (_succinosis_) can result in the formation of amber.[25] Impurities are quite often present, especially when the resin dropped onto the ground, so the material may be useless except for varnish-making. Such impure amber is called _firniss_.
 
 Such inclusion of other substances can cause amber to have an unexpected color. Pyrites may give a bluish color. _Bony amber_ owes its cloudy opacity to numerous tiny bubbles inside the resin. However, so-called _black amber_ is really only a kind of jet.
 
@@ -66,7 +66,7 @@ Extraction and processing
 
 Distribution and mining
 
-Baltic-amber-deposit-Yantarny.jpg amber mine "Primorskoje" in Jantarny, Kaliningrad Oblast, Russia]]
+amber mine "Primorskoje" in Jantarny, Kaliningrad Oblast, Russia]]
 
 Amber is globally distributed, mainly in rocks of Cretaceous age or younger. Historically, the Samland coast west of Königsberg in Prussia was the world's leading source of amber. The first mentions of amber deposits here date back to the 12th century.[27] About 90% of the world's extractable amber is still located in that area, which became the Kaliningrad Oblast of Russia in 1946.[28]
 
@@ -87,13 +87,11 @@ Amber has often been imitated by other resins like copal and kauri gum, as well 
 
 Appearance
 
-Colours_of_Baltic_Amber.jpg
-
 Amber occurs in a range of different colors. As well as the usual yellow-orange-brown that is associated with the color "amber", amber itself can range from a whitish color through a pale lemon yellow, to brown and almost black. Other uncommon colors include red amber (sometimes known as "cherry amber"), green amber, and even blue amber, which is rare and highly sought after.[30]
 
 Yellow amber is a hard fossil resin from evergreen trees, and despite the name it can be translucent, yellow, orange, or brown colored. Known to the Iranians by the Pahlavi compound word kah-ruba (from kah "straw" plus rubay "attract, snatch", referring to its electrical properties), which entered Arabic as kahraba' or kahraba (which later became the Arabic word for electricity, كهرباء _kahrabā'_), it too was called amber in Europe (Old French and Middle English ambre). Found along the southern shore of the Baltic Sea, yellow amber reached the Middle East and western Europe via trade. Its coastal acquisition may have been one reason yellow amber came to be designated by the same term as ambergris. Moreover, like ambergris, the resin could be burned as an incense. The resin's most popular use was, however, for ornamentation—easily cut and polished, it could be transformed into beautiful jewelry. Much of the most highly prized amber is transparent, in contrast to the very common cloudy amber and opaque amber. Opaque amber contains numerous minute bubbles. This kind of amber is known as "bony amber".[31]
 
-Ambre_bleu_dominicain_21207.jpg from Dominican Republic]] Although all Dominican amber is fluorescent, the rarest Dominican amber is blue amber. It turns blue in natural sunlight and any other partially or wholly ultraviolet light source. In long-wave UV light it has a very strong reflection, almost white. Only about is found per year, which makes it valuable and expensive.[32]
+from Dominican Republic]] Although all Dominican amber is fluorescent, the rarest Dominican amber is blue amber. It turns blue in natural sunlight and any other partially or wholly ultraviolet light source. In long-wave UV light it has a very strong reflection, almost white. Only about is found per year, which makes it valuable and expensive.[32]
 
 Sometimes amber retains the form of drops and stalactites, just as it exuded from the ducts and receptacles of the injured trees. It is thought that, in addition to exuding onto the surface of the tree, amber resin also originally flowed into hollow cavities or cracks within trees, thereby leading to the development of large lumps of amber of irregular form.
 
@@ -141,7 +139,7 @@ Class V resins are considered to be produced by a pine or pine relative. They co
 
 Geological record
 
-HALAMB48.JPG The oldest amber recovered dates to the Upper Carboniferous period ().[52][53] Its chemical composition makes it difficult to match the amber to its producers – it is most similar to the resins produced by flowering plants; however, there are no flowering plant fossils known from before the Cretaceous, and they were not common until the Late Cretaceous. Amber becomes abundant long after the Carboniferous, in the Early Cretaceous, ,[54] when it is found in association with insects. The oldest amber with arthropod inclusions comes from the Levant, from Lebanon and Jordan. This amber, roughly 125–135 million years old, is considered of high scientific value, providing evidence of some of the oldest sampled ecosystems.[55]
+The oldest amber recovered dates to the Upper Carboniferous period ().[52][53] Its chemical composition makes it difficult to match the amber to its producers – it is most similar to the resins produced by flowering plants; however, there are no flowering plant fossils known from before the Cretaceous, and they were not common until the Late Cretaceous. Amber becomes abundant long after the Carboniferous, in the Early Cretaceous, ,[54] when it is found in association with insects. The oldest amber with arthropod inclusions comes from the Levant, from Lebanon and Jordan. This amber, roughly 125–135 million years old, is considered of high scientific value, providing evidence of some of the oldest sampled ecosystems.[55]
 
 In Lebanon, more than 450 outcrops of Lower Cretaceous amber were discovered by Dany Azar,[56] a Lebanese paleontologist and entomologist. Among these outcrops, 20 have yielded biological inclusions comprising the oldest representatives of several recent families of terrestrial arthropods. Even older, Jurassic amber has been found recently in Lebanon as well. Many remarkable insects and spiders were recently discovered in the amber of Jordan including the oldest zorapterans, clerid beetles, umenocoleid roaches, and achiliid planthoppers.[57]
 
@@ -160,11 +158,11 @@ The preservation of prehistoric organisms in amber forms a key plot point in Mic
 
 Use
 
-Altamira_Ambre_MHNT.PRE.2012.0.615.jpg amber from Altamira in the Muséum de Toulouse]] Amber has been used since prehistory (Solutrean) in the manufacture of jewelry and ornaments, and also in folk medicine.
+amber from Altamira in the Muséum de Toulouse]] Amber has been used since prehistory (Solutrean) in the manufacture of jewelry and ornaments, and also in folk medicine.
 
 Jewelry
 
-Halssnoer_van_barnstenen_kralen.png Amber has been used as jewelry since the Stone Age, from 13,000 years ago.[71] Amber ornaments have been found in Mycenaean tombs and elsewhere across Europe.[72] To this day it is used in the manufacture of smoking and glassblowing mouthpieces.[73][74] Amber's place in culture and tradition lends it a tourism value; Palanga Amber Museum is dedicated to the fossilized resin.
+Amber has been used as jewelry since the Stone Age, from 13,000 years ago.[71] Amber ornaments have been found in Mycenaean tombs and elsewhere across Europe.[72] To this day it is used in the manufacture of smoking and glassblowing mouthpieces.[73][74] Amber's place in culture and tradition lends it a tourism value; Palanga Amber Museum is dedicated to the fossilized resin.
 
 Historic medicinal uses
 

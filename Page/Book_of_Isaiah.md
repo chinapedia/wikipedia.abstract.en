@@ -7,7 +7,7 @@ Isaiah was one of the most popular works among Jews in the Second Temple period 
 
 Structure
 
-Great_Isaiah_Scroll.jpg, the oldest surviving manuscript of Isaiah: found among the Dead Sea Scrolls and dating from about 150 to 100 BCE, it contains almost the whole Book of Isaiah and is substantially identical with the modern Masoretic text.]] The scholarly consensus which held sway through most of the 20th century saw three separate collections of oracles in the book of Isaiah. A typical outline based on this understanding of the book sees its underlying structure in terms of the identification of historical figures who might have been their authors:
+, the oldest surviving manuscript of Isaiah: found among the Dead Sea Scrolls and dating from about 150 to 100 BCE, it contains almost the whole Book of Isaiah and is substantially identical with the modern Masoretic text.]] The scholarly consensus which held sway through most of the 20th century saw three separate collections of oracles in the book of Isaiah. A typical outline based on this understanding of the book sees its underlying structure in terms of the identification of historical figures who might have been their authors:
 
 -   1–39: Proto-Isaiah, containing the words of the original Isaiah;
 -   40–55: Deutero-Isaiah, the work of an anonymous Exilic author;
@@ -21,7 +21,7 @@ While one part of the consensus still holds – virtually no contemporary schola
 
 Summary
 
-Michelangelo,_profeti,_Isaiah_01.jpg (c. 1508–12), _Isaiah_, Vatican City: Sistine Chapel ceiling]] 30_Rockefeller.JPG, New York]] Seeing Isaiah as a two-part book (chapters 1–33 and 34–66) with an overarching theme leads to a summary of its contents like the following:
+(c. 1508–12), _Isaiah_, Vatican City: Sistine Chapel ceiling]] , New York]] Seeing Isaiah as a two-part book (chapters 1–33 and 34–66) with an overarching theme leads to a summary of its contents like the following:
 
 -   The book opens by setting out the themes of judgment and subsequent restoration for the righteous. God has a plan which will be realised on the "Day of Yahweh", when Jerusalem will become the centre of his worldwide rule. On that day all the nations of the world will come to Zion (Jerusalem) for instruction, but first the city must be punished and cleansed of evil. Israel is invited to join in this plan. Chapters 5–12 explain the significance of the Assyrian judgment against Israel: righteous rule by the Davidic king will follow after the arrogant Assyrian monarch is brought down. Chapters 13–27 announce the preparation of the nations for Yahweh's world rule; chapters 28–33 announce that a royal saviour (a messiah) will emerge in the aftermath of Jerusalem's punishment and the destruction of her oppressor.
 -   The oppressor (now identified as Babylon rather than Assyria) is about to fall. Chapters 34–35 tell how Yahweh will return the redeemed exiles to Jerusalem. Chapters 36–39 tell of the faithfulness of king Hezekiah to Yahweh during the Assyrian siege as a model for the restored community. Chapters 40–54 state that the restoration of Zion is taking place because Yahweh, the creator of the universe, has designated the Persian king Cyrus the Great as the promised messiah and temple-builder. Chapters 55–66 are an exhortation to Israel to keep the covenant. God's eternal promise to David is now made to the people of Israel/Judah at large. The book ends by enjoining righteousness as the final stages of God's plan come to pass, including the pilgrimage of the nations to Zion and the realisation of Yahweh's kingship.
@@ -48,8 +48,6 @@ The older understanding of this book as three fairly discrete sections attributa
 
 Composition
 
-Isaiah_scroll.PNG
-
 Authorship
 
 While it is widely accepted that the book of Isaiah is rooted in a historic prophet called Isaiah, who lived in the Kingdom of Judah during the 8th century BCE, it is also widely accepted that this prophet did not write the entire book of Isaiah. The observations which have led to this are as follows:
@@ -71,7 +69,7 @@ The Persians ended the Jewish exile, and by 515 BCE the exiles, or at least some
 
 Themes
 
-Isaiah_Wall.jpg is taken as an unofficial mission statement by the United Nations. (Isaiah Wall in Ralph Bunche Park, a New York City park near UN headquarters)]]
+is taken as an unofficial mission statement by the United Nations. (Isaiah Wall in Ralph Bunche Park, a New York City park near UN headquarters)]]
 
 Overview
 
@@ -96,7 +94,7 @@ A central theme in Second Isaiah is that of a new Exodus – the return of the e
 
 Later interpretation and influence
 
-William_Strutt_Peace_1896.jpg, based upon Isaiah 11:6,7]]
+, based upon Isaiah 11:6,7]]
 
 2nd Temple Judaism (515 BCE – 70 CE)
 
@@ -104,7 +102,7 @@ Isaiah was one of the most popular works in the period between the foundation of
 
 Christianity
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_139.png]] The Book of Isaiah has been immensely influential in the formation of Christianity, from the devotion to the Virgin Mary to anti-Jewish polemic, medieval passion iconography, and modern Christian feminism and liberation theology. The regard in which Isaiah was held was so high that the book was frequently called "the Fifth Gospel", the prophet who spoke more clearly of Christ and the Church than any others. Its influence extends beyond the Church and Christianity to English literature and to Western culture in general, from the libretto of Handel's Messiah to a host of such everyday phrases as "swords into ploughshares" and "voice in the wilderness".
+]] The Book of Isaiah has been immensely influential in the formation of Christianity, from the devotion to the Virgin Mary to anti-Jewish polemic, medieval passion iconography, and modern Christian feminism and liberation theology. The regard in which Isaiah was held was so high that the book was frequently called "the Fifth Gospel", the prophet who spoke more clearly of Christ and the Church than any others. Its influence extends beyond the Church and Christianity to English literature and to Western culture in general, from the libretto of Handel's Messiah to a host of such everyday phrases as "swords into ploughshares" and "voice in the wilderness".
 
 The Gospel of John quotes and states that "Isaiah said this because he saw Jesus’ glory and spoke about him."[1] Isaiah makes up 27 of the 37 quotations from the prophets in the Pauline epistles, and takes pride of place in the Gospels and in Acts of the Apostles. Isaiah 7:14, where the prophet is assuring king Ahaz that God will save Judah from the invading armies of Israel and Syria, forms the basis for Matthew 1:23's doctrine of the virgin birth, while Isaiah 40:3–5's image of the exiled Israel led by God and proceeding home to Jerusalem on a newly constructed road through the wilderness was taken up by all four Gospels and applied to John the Baptist and Jesus.
 

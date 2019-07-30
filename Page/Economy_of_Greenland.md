@@ -20,7 +20,7 @@ Following the closure of the Maarmorilik lead and zinc mine in 1990 and the coll
 
 Sectors of the economy
 
-Greenland_Export_Treemap.jpg The Greenland economy is extremely dependent on exports of fish and on support from the Danish Government, which supplies about half of government revenues.[11] The public sector, including publicly owned enterprises and the municipalities, plays the dominant role in the economy.
+The Greenland economy is extremely dependent on exports of fish and on support from the Danish Government, which supplies about half of government revenues.[11] The public sector, including publicly owned enterprises and the municipalities, plays the dominant role in the economy.
 
 Governance
 

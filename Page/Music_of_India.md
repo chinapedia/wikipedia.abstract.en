@@ -3,7 +3,7 @@ The MUSIC OF INDIA includes multiple varieties of Punjabi Music, classical music
 
 History
 
-Dancing_girl.jpg'' sculpture from the Indus Valley Civilization (c. 4,500 years ago)]] The 30,000 years old paleolithic and neolithic cave paintings at the UNESCO world heritage site at Bhimbetka rock shelters in Madhya Pradesh shows music instruments and dance.[1] Mesolithic and chalcolithic cave art of Bhimbhetka illustrates various musical instruments such as harp, drums, gongs, daf etc.[2]
+'' sculpture from the Indus Valley Civilization (c. 4,500 years ago)]] The 30,000 years old paleolithic and neolithic cave paintings at the UNESCO world heritage site at Bhimbetka rock shelters in Madhya Pradesh shows music instruments and dance.[1] Mesolithic and chalcolithic cave art of Bhimbhetka illustrates various musical instruments such as harp, drums, gongs, daf etc.[2]
 
 Dancing Girl sculpture (2500 BCE) was found from the Indus Valley Civilization (IVC) site.[3][4][5][6] There are IVC-era paintings on pottery of a man with a dhol hanging from his neck and a woman holding a drum under her left arm.[7]
 
@@ -38,7 +38,7 @@ There are many types of music which comes under the category of light classical 
 
 Folk music
 
-Hira_Devi_Waiba.jpg Jodhpur_RIFF.jpgians performing in Mehrangarh Fort, Jodhpur, India]]
+ians performing in Mehrangarh Fort, Jodhpur, India]]
 
 Bhangra and Giddha
 
@@ -46,7 +46,7 @@ Bhangra (Punjabi: ਭੰਗੜਾ) is a form of dance-oriented folk music of Pun
 
 Bihu of Assam
 
-Bihu_dancers_at_Rongali_Bihu_celebration_in_Bangalore_(photo_-_Jim_Ankan_Deka).jpg Bihu () is the festival of New Year of Assam falling on mid-April. This is a festival of nature and mother earth where the first day is for the cows and buffaloes. The second day of the festival is for the man. Bihu dances and songs accompanied by traditional drums and wind instruments are an essential part of this festival. Bihu songs are energetic and with beats to welcome the festive spring. Assamese drums (dhol), Pepa(usually made from buffalo horn), Gogona are major instruments used.[23][24]
+Bihu () is the festival of New Year of Assam falling on mid-April. This is a festival of nature and mother earth where the first day is for the cows and buffaloes. The second day of the festival is for the man. Bihu dances and songs accompanied by traditional drums and wind instruments are an essential part of this festival. Bihu songs are energetic and with beats to welcome the festive spring. Assamese drums (dhol), Pepa(usually made from buffalo horn), Gogona are major instruments used.[23][24]
 
 Dandiya
 
@@ -68,7 +68,7 @@ Rajasthani music is derived from a combination of string instruments, percussion
 
 Rabindra Sangeet (music of Bengal)
 
-Rabindranath_Tagore_Ra-Tha_seal_initials.jpg Dance accompanied by Rabindra Sangeet Rabindra Sangeet ( _Robindro Shonggit_, ), also known as Tagore songs, are songs written and composed by Rabindranath Tagore. They have distinctive characteristics in the music of Bengal, popular in India and Bangladesh.[27] "Sangeet" means music, "Rabindra Sangeet" means music (or more aptly songs) of Rabindra. N. Ramani and N Rajam accompanied by T S Nandakumar|thumb
+Rabindra Sangeet ( _Robindro Shonggit_, ), also known as Tagore songs, are songs written and composed by Rabindranath Tagore. They have distinctive characteristics in the music of Bengal, popular in India and Bangladesh.[27] "Sangeet" means music, "Rabindra Sangeet" means music (or more aptly songs) of Rabindra.
 
 Tagore wrote some 2,230 songs in Bengali, now known as _Rabindra Sangeet_, using classical music and traditional folk music as sources.[28][29]
 
@@ -91,7 +91,7 @@ Popular music
 
 Filmi music
 
-Basi_Basistha_Jabali_Bamadeba.ogg The biggest form of Indian popular music is filmi, or songs from Indian films, it makes up 72% of the music sales in India.[36] The film industry of India supported music by according reverence to classical music while utilising the western orchestration to support Indian melodies. Music composers, like R. D. Burman, Shankar Jaikishan, S. D. Burman, Madan Mohan, Bhupen Hazarika, Naushad Ali, O. P. Nayyar, Hemant Kumar, C. Ramchandra, Salil Chowdhury, Kalyanji Anandji, Ilaiyaraaja, A. R. Rahman, Jatin Lalit, Anu Malik, Nadeem-Shravan, Harris Jayaraj, Himesh Reshammiya, Vidyasagar, Shankar Ehsaan Loy, Salim-Sulaiman, Pritam, M.S. Viswanathan, K. V. Mahadevan, Ghantasala and S. D. Batish employed the principles of harmony while retaining classical and folk flavor. Reputed names in the domain of Indian classical music like Ravi Shankar, Vilayat Khan, Ali Akbar Khan and Ram Narayan have also composed music for films. Traditionally, in Indian films, the voice for the songs is not provided by the actors, they are provided by the professional playback singers, to sound more developed, melodious and soulful, while actors lipsynch on the screen. In the past, only a handful of singers provided the voice in Hindi films. These include Kishore Kumar, K. J. Yesudas, Mohammed Rafi, Mukesh, S.P. Balasubrahmanyam, T.M. Soundararajan, Hemant Kumar, Manna Dey, P. Susheela, Lata Mangeshkar, Asha Bhonsle, K.S. Chitra, Geeta Dutt, S. Janaki, Shamshad Begum, Suraiya, Noorjahan and Suman Kalyanpur. Recent playback singers include Udit Narayan, Kumar Sanu, Kailash Kher, Alisha Chinai, KK, Shaan, Madhushree, Shreya Ghoshal, Nihira Joshi, Kavita Krishnamurthy, Hariharan (singer), Ilaiyaraaja, A.R. Rahman, Sonu Nigam, Sukhwinder Singh, Kunal Ganjawala, Anu Malik, Sunidhi Chauhan, Anushka Manchanda, Raja Hasan, Arijit Singh and Alka Yagnik. Rock bands like Indus Creed, Indian Ocean, Silk Route and Euphoria have gained mass appeal with the advent of cable music television.
+The biggest form of Indian popular music is filmi, or songs from Indian films, it makes up 72% of the music sales in India.[36] The film industry of India supported music by according reverence to classical music while utilising the western orchestration to support Indian melodies. Music composers, like R. D. Burman, Shankar Jaikishan, S. D. Burman, Madan Mohan, Bhupen Hazarika, Naushad Ali, O. P. Nayyar, Hemant Kumar, C. Ramchandra, Salil Chowdhury, Kalyanji Anandji, Ilaiyaraaja, A. R. Rahman, Jatin Lalit, Anu Malik, Nadeem-Shravan, Harris Jayaraj, Himesh Reshammiya, Vidyasagar, Shankar Ehsaan Loy, Salim-Sulaiman, Pritam, M.S. Viswanathan, K. V. Mahadevan, Ghantasala and S. D. Batish employed the principles of harmony while retaining classical and folk flavor. Reputed names in the domain of Indian classical music like Ravi Shankar, Vilayat Khan, Ali Akbar Khan and Ram Narayan have also composed music for films. Traditionally, in Indian films, the voice for the songs is not provided by the actors, they are provided by the professional playback singers, to sound more developed, melodious and soulful, while actors lipsynch on the screen. In the past, only a handful of singers provided the voice in Hindi films. These include Kishore Kumar, K. J. Yesudas, Mohammed Rafi, Mukesh, S.P. Balasubrahmanyam, T.M. Soundararajan, Hemant Kumar, Manna Dey, P. Susheela, Lata Mangeshkar, Asha Bhonsle, K.S. Chitra, Geeta Dutt, S. Janaki, Shamshad Begum, Suraiya, Noorjahan and Suman Kalyanpur. Recent playback singers include Udit Narayan, Kumar Sanu, Kailash Kher, Alisha Chinai, KK, Shaan, Madhushree, Shreya Ghoshal, Nihira Joshi, Kavita Krishnamurthy, Hariharan (singer), Ilaiyaraaja, A.R. Rahman, Sonu Nigam, Sukhwinder Singh, Kunal Ganjawala, Anu Malik, Sunidhi Chauhan, Anushka Manchanda, Raja Hasan, Arijit Singh and Alka Yagnik. Rock bands like Indus Creed, Indian Ocean, Silk Route and Euphoria have gained mass appeal with the advent of cable music television.
 
 Interaction with non-Indian music
 
@@ -127,7 +127,7 @@ Raga rock is rock or pop music with a heavy Indian influence, either in its cons
 
 Indian rock
 
-Nicotine_Metal_Band_Indore.jpg playing at 'Pedal To The Metal', TDS, Indore, India in 2014. The band is known for being the pioneer of metal music in Central India.]]
+playing at 'Pedal To The Metal', TDS, Indore, India in 2014. The band is known for being the pioneer of metal music in Central India.]]
 
 The rock music "scene" in India is small compared to the filmi or fusion musicality "scenes" but as of recent years has come into its own, achieving a cult status of sorts. Rock music in India has its origins in the 1960s when international stars such as the Beatles visited India and brought their music with them. These artists' collaboration with Indian musicians such as Ravi Shankar and Zakir Hussain have led to the development of raga rock. International shortwave radio stations such as The Voice of America, BBC, and Radio Ceylon played a major part in bringing Western pop, folk, and rock music to the masses. Indian rock bands began to gain prominence only much later, around the late 1980s.
 

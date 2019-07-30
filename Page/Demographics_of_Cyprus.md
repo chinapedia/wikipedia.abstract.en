@@ -1,5 +1,3 @@
-Ethnographic_distribution_in_Cyprus_1960.jpg
-
 The people of Cyprus are broadly divided into two main ethnic communities, Greek Cypriots and Turkish Cypriots, who share many cultural traits but maintain distinct identities based on ethnicity, religion, language, and close ties with their respective motherlands. Before the dispute started in 1964 the peoples of Cyprus (then 78% Greeks, 17% Turks, 5% other communities, including Armenians and Maronites)[1] were dispersed over the entire island.
 
 The Turkish invasion of Cyprus in 1974 de facto partitioned the island into two political areas: 99.5% of Greek Cypriots now live in the Republic of Cyprus while 98.7% of Turkish Cypriots live in Northern Cyprus (of other nationalities, 99.2% live in the Greek Cypriot area in the south).[2] Greek is predominantly spoken in the South, where the majority are Greek Cypriots, and Turkish in the north, where the majority are Turkish Cypriots . English is widely used throughout the island, as a common language.
@@ -9,7 +7,7 @@ The total population of Cyprus as of the end of 2006 is slightly over 1 million,
 
 Population
 
-Nicosia_new_skyline_from_the_hills_of_Nicosia_Cyprus.jpg]]
+]]
 
     838,897 in Republic of Cyprus controlled area (October 2011 census preliminary result)[6]
     294.906 in Northern Cyprus (2011 population census).[7]
@@ -31,8 +29,6 @@ _Northern Cyprus_:[11]
 Vital statistics
 
 Cyprus (1901–1990)
-
-Cyp_Population.svg
 
 Historical data about main demographic indicators from 1901 to 1990, for the entire island:[12][13][14]
 
@@ -132,7 +128,7 @@ Historical data about main demographic indicators from 1901 to 1990, for the ent
 
 Area under the effective control of the Republic of Cyprus
 
-Population_map_of_Cyprus.jpg Cyprus_density.jpg Historical data about main demographic indicators from 1990 to 2013, for the southern part of the island:[15]
+Historical data about main demographic indicators from 1990 to 2013, for the southern part of the island:[15]
 
          Average population (x 1000)   Live births   Deaths   Natural change   Crude birth rate (per 1000)   Crude death rate (per 1000)   Natural change (per 1000)   Total fertility rate   Infant mortality rate
   ------ ----------------------------- ------------- -------- ---------------- ----------------------------- ----------------------------- --------------------------- ---------------------- -----------------------
@@ -343,8 +339,6 @@ The following demographic statistics are from the CIA World Factbook, unless oth
 _The data in subsections AGE STRUCTURE through DIVORCE RATE are for the area controlled by the Republic of Cyprus government only._ The estimates are for 2007 from the Republic of Cyprus _Statistical Abstract 2007_ (pp. 63–88)[39] unless indicated otherwise.''
 
 Age structure
-
-Pyramide_Chypre.PNG
 
     0–14 years: 17.47% or 137,900 ( 70,700 males/67,200 females)
     15–64 years: 70.07% or 553,100 ( 274,300 males/278,800 females)

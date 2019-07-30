@@ -1,4 +1,4 @@
-0_Le_Prophète_Ézéchiel_-_P.P._Rubens_-_Louvre_(IN_V_20231).JPG (1609–1610) in the Louvre]] EZEKIEL (; _Y'ḥezqēl_ ) is the central protagonist of the Book of Ezekiel in the Hebrew Bible.
+(1609–1610) in the Louvre]] EZEKIEL (; _Y'ḥezqēl_ ) is the central protagonist of the Book of Ezekiel in the Hebrew Bible.
 
 In Judaism, Christianity, and Islam, Ezekiel is acknowledged as a Hebrew prophet. In Judaism and Christianity, he is also viewed as the 6th-century BCE author of the Book of Ezekiel, which reveals prophecies regarding the destruction of Jerusalem, the restoration to the land of Israel, and what some call the _Millennial Temple_ (or Third Temple) visions.
 
@@ -23,7 +23,7 @@ World views
 
 Jewish tradition
 
-Yad_Vashem_Memorial_to_survivors_by_David_Shankbone.jpg at Yad Vashem in Jerusalem. The quote is Ezekiel 37:14.]] Ezekiel, like Jeremiah, is said by Talmud[12] and Midrash[13] to have been a descendant of Joshua by his marriage with the proselyte and former prostitute Rahab. Some statements found in rabbinic literature posit that Ezekiel was the son of Jeremiah, who was (also) called "Buzi" because he was despised by the Jews.[14]
+at Yad Vashem in Jerusalem. The quote is Ezekiel 37:14.]] Ezekiel, like Jeremiah, is said by Talmud[12] and Midrash[13] to have been a descendant of Joshua by his marriage with the proselyte and former prostitute Rahab. Some statements found in rabbinic literature posit that Ezekiel was the son of Jeremiah, who was (also) called "Buzi" because he was despised by the Jews.[14]
 
 Ezekiel was said to be already active as a prophet while in the Land of Israel, and he retained this gift when he was exiled with Jehoiachin and the nobles of the country to Babylon.[15]
 
@@ -33,7 +33,7 @@ According to the midrash _Canticles Rabbah_, it was Ezekiel whom the three pious
 
 Christianity
 
-Ezekiel-icon.jpg of the Prophet Ezekiel holding a scroll with his prophecy and pointing to the "closed gate" (18th century, Iconostasis of Kizhi monastery, Russia)]]
+of the Prophet Ezekiel holding a scroll with his prophecy and pointing to the "closed gate" (18th century, Iconostasis of Kizhi monastery, Russia)]]
 
 Ezekiel is commemorated as a saint in the liturgical calendar of the Eastern Orthodox Church—and those Eastern Catholic Churches which follow the Byzantine Rite—on July 23 (for those churches which use the traditional Julian Calendar, July 23 falls on August 5 of the modern Gregorian Calendar).[19] Ezekiel is commemorated on August 28 on the Calendar of Saints of the Armenian Apostolic Church, and on April 10 in the Roman Martyrology.
 
@@ -51,7 +51,7 @@ The Qur'an mentions a prophet called Zul-Kifl. This prophet is sometimes identif
 
 Bibliography
 
--   Ibn Kutayba, _K. al-Ma'arif_ ed. S. Ukasha, 51Ezekiel's_vision.jpg and chariot vision, based on the description by Ezekiel.]]
+-   Ibn Kutayba, _K. al-Ma'arif_ ed. S. Ukasha, 51 and chariot vision, based on the description by Ezekiel.]]
 -   Tabari, History of the Prophets and Kings, 2, 53–54
 -   Tabari, _Tafsir_, V, 266 (old ed. ii, 365)
 -   Masudi, _Murudj_, i, 103ff.

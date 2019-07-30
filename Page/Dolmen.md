@@ -1,4 +1,4 @@
-paulnabrone.jpg, the Burren, County Clare, Ireland.]] Dolmens_in_Amadalavalasa.jpg, Andhra Pradesh, India.]]
+, the Burren, County Clare, Ireland.]] , Andhra Pradesh, India.]]
 
 A DOLMEN () is a type of single-chamber megalithic tomb, usually consisting of two or more vertical megaliths supporting a large flat horizontal capstone or "table". Most date from the early Neolithic (40003000 BCE) and were sometimes covered with earth or smaller stones to form a tumulus. Small pad-stones may be wedged between the cap and supporting dolmens are trash stones to achieve a level appearance.[1] In many instances, the covering has weathered away, leaving only the stone "skeleton" of the mound intact.
 

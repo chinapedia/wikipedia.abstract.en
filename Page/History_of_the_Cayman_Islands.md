@@ -1,4 +1,4 @@
-Turtlehuntingpirate.jpgs attracted ships and settlers to the islands]]
+s attracted ships and settlers to the islands]]
 
 The CAYMAN ISLANDS are a British overseas territory located in the Caribbean that have been under various governments since their discovery by Europeans. Christopher Columbus sighted the Cayman Islands on May 10, 1503 and named them _Las Tortugas_ after the numerous sea turtles seen swimming in the surrounding waters. Columbus had found the two smaller sister islands (Cayman Brac and Little Cayman) and it was these two islands that he named "Las Tortugas".
 
@@ -22,7 +22,7 @@ Those living on the islands often partook in what is called wrecking. Caymanians
 
 British control
 
-Pedro_St._James_Castle_Restored.jpg on Grand Cayman Island]]
+on Grand Cayman Island]]
 
 England took formal control of Cayman, along with Jamaica, under the Treaty of Madrid in 1670[11] after the first settlers came from Jamaica in 1661-71 to Little Cayman and Cayman Brac. These first settlements were abandoned after attacks by Spanish privateers, but English privateers often used the Cayman Islands as a base and in the 18th century they became an increasingly popular hideout for pirates, even after the end of legitimate privateering in 1713. Following several unsuccessful attempts, permanent settlement of the islands began in the 1730s. The Cayman Islands historically have been popular as a tax haven. In the early morning hours of February 8, 1794, ten vessels which were part of a convoy escorted by HMS Convert, were wrecked on the reef in Gun Bay, on the East end of Grand Cayman. Despite the darkness and pounding surf on the reef, local settlers braved the conditions attempting to rescue the passengers and crew of the fledgling fleet. There are conflicting reports, but it is believed that between six, and eight lives were lost that night, among them, the Captain of the Britannia. However, the overwhelming majority, more than 450 people, were successfully rescued. The incident is now remembered as The Wreck of the Ten Sail. Legend has it that among the fleet, there was a member of the British Royal Family on board. Most believe it to be a nephew of King George III. To reward the bravery of the island's local inhabitants, King George III reportedly issued a decreed that Caymanians should never be conscripted for war service, and shall never be subject to taxation. However, no official documentation of this decree has been found. All evidence for this being the origin of their tax-free status is purely anecdotal. Regardless, the Cayman Islands' status as a tax-free British overseas territory remains to this day.
 
@@ -62,7 +62,7 @@ Although all administrative links with Jamaica were broken in 1962, the Cayman I
 
 Hurricane Ivan
 
-Cayman_-_Ivan_damage.jpg damage in the Cayman Islands]]
+damage in the Cayman Islands]]
 
 In September 2004, The Cayman Islands were hit by Hurricane Ivan, causing mass devastation, loss of human and animal life (both wild and domestic/livestock) and flooding, with some accounts reporting that the majority of Grand Cayman had been underwater and with the lower floors of buildings being completely flooded in excess of 8 ft. An Ivan Flood Map is available from the Lands & Survey Dept. of The Cayman Islands indicating afflicted areas and their corresponding flood levels.[19] This natural disaster also led to the bankruptcy of a heavily invested insurance company called Doyle. The company had re-leased estimates covering 20% damage to be re-insured at minimal fees when in fact the damage was over 65% and every claim was in the millions. The company simply could not keep paying out and the adjusters could not help lower the payments due to the high building code the Islands adhere to.
 

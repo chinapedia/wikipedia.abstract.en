@@ -1,4 +1,4 @@
-Nucleosome_structure.png In biology, HISTONES are highly alkaline proteins found in eukaryotic cell nuclei that package and order the DNA into structural units called nucleosomes.[1][2] They are the chief protein components of chromatin, acting as spools around which DNA winds, and playing a role in gene regulation. Without histones, the unwound DNA in chromosomes would be very long (a length to width ratio of more than 10 million to 1 in human DNA). For example, each human diploid cell (containing 23 pairs of chromosomes) has about 1.8 meters of DNA; wound on the histones, the diploid cell has about 90 micrometers (0.09 mm) of chromatin. When the diploid cells are duplicated and condensed during mitosis, the result is about 120 micrometers of chromosomes.[3]
+In biology, HISTONES are highly alkaline proteins found in eukaryotic cell nuclei that package and order the DNA into structural units called nucleosomes.[1][2] They are the chief protein components of chromatin, acting as spools around which DNA winds, and playing a role in gene regulation. Without histones, the unwound DNA in chromosomes would be very long (a length to width ratio of more than 10 million to 1 in human DNA). For example, each human diploid cell (containing 23 pairs of chromosomes) has about 1.8 meters of DNA; wound on the histones, the diploid cell has about 90 micrometers (0.09 mm) of chromatin. When the diploid cells are duplicated and condensed during mitosis, the result is about 120 micrometers of chromosomes.[3]
 
 
 Classes and histone variants
@@ -114,15 +114,11 @@ So H3K4me1 denotes the monomethylation of the 4th residue (a lysine) from the st
 
 Functions of histone modifications
 
-Histone_modifications.png
-
 A huge catalogue of histone modifications have been described, but a functional understanding of most is still lacking. Collectively, it is thought that histone modifications may underlie a histone code, whereby combinations of histone modifications have specific meanings. However, most functional data concerns individual prominent histone modifications that are biochemically amenable to detailed study.
 
 Chemistry of histone modifications
 
 Lysine methylation
-
-methyl_lysine.svg
 
 The addition of one, two, or many methyl groups to lysine has little effect on the chemistry of the histone; methylation leaves the charge of the lysine intact and adds a minimal number of atoms so steric interactions are mostly unaffected. However, proteins containing Tudor, chromo or PHD domains, amongst others, can recognise lysine methylation with exquisite sensitivity and differentiate mono, di and tri-methyl lysine, to the extent that, for some lysines (e.g.: H4K20) mono, di and tri-methylation appear to have different meanings. Because of this, lysine methylation tends to be a very informative mark and dominates the known histone modification functions.
 
@@ -132,8 +128,6 @@ Recently it has been shown, that the addition of a serotonin group to the positi
 
 Arginine methylation
 
-methyl_arginine.svg
-
 What was said above of the chemistry of lysine methylation also applies to arginine methylation, and some protein domains—e.g., Tudor domains—can be specific for methyl arginine instead of methyl lysine. Arginine is known to be mono- or di-methylated, and methylation can be symmetric or asymmetric, potentially with different meanings.
 
 Arginine citrullination
@@ -142,13 +136,9 @@ Enzymes called peptidylarginine deiminases (PADs) hydrolyze the imine group of a
 
 Lysine acetylation
 
-acetyl_lysine.tif
-
 Addition of an acetyl group has a major chemical effect on lysine as it neutralises the positive charge. This reduces electrostatic attraction between the histone and the negatively charged DNA backbone, loosening the chromatin structure; highly acetylated histones form more accessible chromatin and tend to be associated with active transcription. Lysine acetylation appears to be less precise in meaning than methylation, in that histone acetyltransferases tend to act on more than one lysine; presumably this reflects the need to alter multiple lysines to have a significant effect on chromatin structure. The modification includes H3K27ac.
 
 Serine/threonine/tyrosine phosphorylation
-
-amino_acid_phosphorylations.tif
 
 Addition of a negatively charged phosphate group can lead to major changes in protein structure, leading to the well-characterised role of phosphorylation in controlling protein function. It is not clear what structural implications histone phosphorylation has, but histone phosphorylation has clear functions as a post-translational modification, and binding domains such as BRCT have been characterised.
 

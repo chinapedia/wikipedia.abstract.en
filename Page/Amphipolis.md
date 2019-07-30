@@ -13,8 +13,6 @@ Origins
 
 Throughout the 5th century BC, Athens sought to consolidate its control over Thrace, which was strategically important because of its primary materials (the gold and silver of the Pangaion hills and the dense forests essential for naval construction), and the sea routes vital for Athens' supply of grain from Scythia. After a first unsuccessful attempt at colonisation in 497 BC by the Milesian Tyrant Histiaeus, the Athenians founded a first colony at Ennea-Hodoi (‘Nine Ways’) in 465 BC, but these first ten thousand colonists were massacred by the Thracians.[4] A second attempt took place in 437 BC on the same site under the guidance of Hagnon, son of Nicias, which was successful. The city and its first walls date from this time.
 
-Plan_Amphipolis-en.svg Kasta_tumulus_and_Lion_of_Amphipolis_location_map_en.jpg
-
 The new settlement took the name of Amphipolis (literally, "around the city"), a name which is the subject of much debate about its etymology. Thucydides claims the name comes from the fact that the Strymon River flows "around the city" on two sides;[5] however a note in the _Suda_ (also given in the lexicon of Photius) offers a different explanation apparently given by Marsyas, son of Periander: that a large proportion of the population lived "around the city". However, a more probable explanation is the one given by Julius Pollux: that the name indicates the vicinity of an isthmus.
 
 Amphipolis became the main power base of the Athenians in Thrace and, consequently, a target of choice for their Spartan adversaries. The Athenian population remained very much in the minority in the city.[6] For this reason Amphipolis remained an independent city and an ally of the Athenians, rather than a colony or member of the Athens-led Delian League. However, in 424 BC the Spartan general Brasidas easily took control of the city.
@@ -23,7 +21,7 @@ A rescue expedition led by the Athenian general, and later historian, Thucydides
 
 Macedonian rule
 
-Amphipolis_fortifications.jpgs and bridge of Amphipolis.]] Lion_of_Amphipolis_BW_2017-10-05_09-38-25.jpg".]]
+s and bridge of Amphipolis.]] ".]]
 
 The city itself kept its independence until the reign of king Philip II () despite several Athenian attacks, notably because of the government of Callistratus of Aphidnae. In 357 BC, Philip succeeded where the Athenians had failed and conquered the city, thereby removing the obstacle which Amphipolis presented to Macedonian control over Thrace. According to the historian Theopompus, this conquest came to be the object of a secret accord between Athens and Philip II, who would return the city in exchange for the fortified town of Pydna, but the Macedonian king betrayed the accord, refusing to cede Amphipolis and laying siege to Pydna as well.[10]
 
@@ -39,7 +37,7 @@ After the final victory of Rome over Macedonia in the Battle of Pydna in 168 BC
 
 Revival in Late Antiquity
 
-Plan_and_neighbourhood_of_Amphipolis.jpg.]] During the period of Late Antiquity, Amphipolis benefited from the increasing economic prosperity of Macedonia, as is evidenced by the large number of Christian churches that were built. Significantly however, these churches were built within a restricted area of the town, sheltered by the walls of the acropolis. This has been taken as evidence that the large fortified perimeter of the ancient town was no longer defendable, and that the population of the city had considerably diminished.
+.]] During the period of Late Antiquity, Amphipolis benefited from the increasing economic prosperity of Macedonia, as is evidenced by the large number of Christian churches that were built. Significantly however, these churches were built within a restricted area of the town, sheltered by the walls of the acropolis. This has been taken as evidence that the large fortified perimeter of the ancient town was no longer defendable, and that the population of the city had considerably diminished.
 
 Nevertheless, the number, size and quality of the churches constructed between the 5th and 6th centuries are impressive. Four basilicas adorned with rich mosaic floors and elaborate architectural sculptures (such as the ram-headed column capitals – see picture) have been excavated, as well as a church with a hexagonal central plan which evokes that of the basilica of St Vitalis in Ravenna. It is difficult to find reasons for such municipal extravagance in such a small town. One possible explanation provided by the historian André Boulanger is that an increasing ‘willingness’ on the part of the wealthy upper classes in the late Roman period to spend money on local gentrification projects (which he terms _euergetism_, from the Greek verb ; meaning 'I do good') was exploited by the local church to its advantage, which led to a mass gentrification of the urban centre and of the agricultural riches of the city's territory. Amphipolis was also a diocese under the metropolitan see of Thessalonica – the Bishop of Amphipolis is first mentioned in 533. The bishopric is today listed by the Catholic Church as a titular see.[14]
 
@@ -52,7 +50,7 @@ The city was probably abandoned in the eighth century, as the last bishop was at
 
 Archaeology
 
-Amphipolis_frescoes.jpg from a house (Hellenistic period).]] Silver_ossuary_and_gold_crown_of_Brasidas.jpg]]
+from a house (Hellenistic period).]] ]]
 
 The site was discovered and described by many travellers and archaeologists during the 19th century, including E. Cousinéry (1831) (engraver), Leon Heuzey (1861), and P. Perdrizet (1894–1899). However, excavations did not truly begin until after the Second World War. The Greek Archaeological Society under D. Lazaridis excavated in 1972 and 1985, uncovering a necropolis, the city wall (see photograph), the basilicas, and the acropolis. Further excavations have since uncovered the river bridge, the gymnasium, Greek and Roman villas and numerous tombs etc.
 
@@ -62,7 +60,7 @@ The silver ossuary containing the cremated remains of Brasidas [16] and a gold c
 
 The Tomb of Amphipolis
 
-The_Abduction_of_Persephone_by_Pluto,_Amphipolis.jpg mosaic depicting the abduction of Persephone by Pluto, Amphipolis, 4th century BC]]
+mosaic depicting the abduction of Persephone by Pluto, Amphipolis, 4th century BC]]
 
 In 2012[17] Greek archaeologists unearthed a large tomb within the Kasta Hill, the biggest burial mound in Greece, northeast of Amphipolis. The large size of the tumulus indicates the prominence of the burials made there. The perimeter wall of the tumulus is long, and is made of limestone covered with marble.
 

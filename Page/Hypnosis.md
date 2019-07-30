@@ -1,4 +1,4 @@
-Hypnotic_Séance_(Richard_Bergh)_-_Nationalmuseum_-_18855.tif]] Photographic_Studies_in_Hypnosis,_Abnormal_Psychology_(1938).ogv
+]]
 
 HYPNOSIS is a human condition involving focused attention, reduced peripheral awareness, and an enhanced capacity to respond to suggestion.[1]
 
@@ -111,7 +111,7 @@ In writing the majority opinion, Franklin said: "This fellow Mesmer is not flowi
 
 James Braid
 
-James_Braid,_portrait.jpg]]Following the French committee's findings, Dugald Stewart, an influential academic philosopher of the "Scottish School of Common Sense", encouraged physicians in his _Elements of the Philosophy of the Human Mind_ (1818)[56] to salvage elements of Mesmerism by replacing the supernatural theory of "animal magnetism" with a new interpretation based upon "common sense" laws of physiology and psychology. Braid quotes the following passage from Stewart:[57]
+]]Following the French committee's findings, Dugald Stewart, an influential academic philosopher of the "Scottish School of Common Sense", encouraged physicians in his _Elements of the Philosophy of the Human Mind_ (1818)[56] to salvage elements of Mesmerism by replacing the supernatural theory of "animal magnetism" with a new interpretation based upon "common sense" laws of physiology and psychology. Braid quotes the following passage from Stewart:[57]
 
   It appears to me, that the general conclusions established by Mesmer's practice, with respect to the physical effects of the principle of imagination (more particularly in cases where they co-operated together), are incomparably more curious than if he had actually demonstrated the existence of his boasted science [of "animal magnetism"]: nor can I see any good reason why a physician, who admits the efficacy of the moral [i.e., psychological] agents employed by Mesmer, should, in the exercise of his profession, scruple to copy whatever processes are necessary for subjecting them to his command, any more than that he should hesitate about employing a new physical agent, such as electricity or galvanism.[58]
 
@@ -151,7 +151,7 @@ Only a handful of Freud's followers, however, were sufficiently qualified in hyp
 
 Émile Coué
 
-Émile_Coué_3.jpg developed autosuggestion as a psychological technique.]]
+developed autosuggestion as a psychological technique.]]
 
 Émile Coué (1857–1926) assisted Ambroise-Auguste Liébeault for around two years at Nancy. After practising for several months employing the "hypnosis" of Liébeault and Bernheim's Nancy School, he abandoned their approach altogether. Later, Coué developed a new approach (c.1901) based on Braid-style "hypnotism", direct hypnotic suggestion, and ego-strengthening which eventually became known as _La méthode Coué_.[66] According to Charles Baudouin, Coué founded what became known as the New Nancy School, a loose collaboration of practitioners who taught and promoted his views.[67][68] Coué's method did not emphasise "sleep" or deep relaxation, but instead focused upon autosuggestion involving a specific series of suggestion tests. Although Coué argued that he was no longer using hypnosis, followers such as Charles Baudouin viewed his approach as a form of light self-hypnosis. Coué's method became a renowned self-help and psychotherapy technique, which contrasted with psychoanalysis and prefigured self-hypnosis and cognitive therapy.
 

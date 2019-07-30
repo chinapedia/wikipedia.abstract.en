@@ -52,7 +52,7 @@ The known history of Aegina is almost exclusively a history of its relations wit
 
 The Epidaurians had been accustomed to make annual offerings to the Athenian deities Athena and Erechtheus in payment for the Athenian olive-wood of which the statues were made. Upon the refusal of the Aeginetes to continue these offerings, the Athenians endeavoured to carry away the images. Their design was frustrated miraculously – according to the Aeginetan version, the statues fell upon their knees – and only a single survivor returned to Athens. There he became victim to the fury of his comrades' widows who pierced him with their brooch-pins. No date is assigned by Herodotus for this "old feud"; recent writers, such as J. B. Bury and R. W. Macan, suggest the period between Solon and Peisistratus, . It is possible that the whole episode is mythical. A critical analysis of the narrative seems to reveal little else than a series of aetiological traditions (explanatory of cults and customs), such as of the kneeling posture of the images of Damia and Auxesia, of the use of native ware instead of Athenian in their worship, and of the change in women's dress at Athens from the Dorian to the Ionian style.
 
-Blouet_Trézel_Egine.JPG, sacred to a mother goddess, particularly worshiped on Aegina.]] Temple_of_Aphaia_in_February_2005_14.jpg
+, sacred to a mother goddess, particularly worshiped on Aegina.]]
 
 The account which Herodotus gives of the hostilities between the two states during the early years of the 5th century BC is to the following effect. The Thebans, after the defeat by Athens about 507 BC, appealed to Aegina for assistance. The Aeginetans at first contented themselves with sending the images of the Aeacidae, the tutelary heroes of their island. Subsequently, however, they contracted an alliance, and ravaged the seaboard of Attica. The Athenians were preparing to make reprisals, in spite of the advice of the Delphic oracle that they should desist from attacking Aegina for thirty years, and content themselves meanwhile with dedicating a precinct to Aeacus, when their projects were interrupted by the Spartan intrigues for the restoration of Hippias.
 
@@ -68,8 +68,6 @@ There are difficulties with this story, of which the following are the principal
 -   It is only for two years (491 and 490 BC) out of the twenty-five that any details are given. It is the more remarkable that no incidents are recorded in the period between the battles of Marathon and Salamis, since at the time of the Isthmian Congress the war was described as the most important one then being waged in Greece,[17]
 -   It is improbable that Athens would have sent twenty vessels to the aid of the Ionians in 499 BC if at the time it was at war with Aegina.
 -   There is an incidental indication of time, which indicates the period after Marathon as the true date for the events which are referred by Herodotus to the year before Marathon, viz. the thirty years that were to elapse between the dedication of the precinct to Aeacus and the final victory of Athens.[18]
-
-Temple_of_Apollo_Aegina_Greece.jpg
 
 As the final victory of Athens over Aegina was in 458 BC, the thirty years of the oracle would carry us back to the year 488 BC as the date of the dedication of the precinct and the beginning of hostilities. This inference is supported by the date of the building of the 200 triremes "for the war against Aegina" on the advice of Themistocles, which is given in the _Constitution of Athens_ as 483–482 BC.[19] It is probable, therefore, that Herodotus is in error both in tracing back the beginning of hostilities to an alliance between Thebes and Aegina () and in claiming the episode of Nicodromus occurred prior to the battle of Marathon.
 
@@ -93,7 +91,7 @@ Aegina with the rest of Greece became dominated successively by the Macedonians 
 
 Byzantine period
 
-"Eisodia_tis_Theotokou"_church_-_panoramio.jpg Aegina belonged to the East Roman (Byzantine) Empire after the division of the Roman Empire in 395. It remained Eastern Roman during the period of crisis of the 7th–8th centuries, when most of the Balkans and the Greek mainland were overrun by Slavic invasions. Indeed, according to the _Chronicle of Monemvasia_, the island served as a refuge for the Corinthians fleeing these incursions.[31] The island flourished during the early 9th century, as evidenced by church construction activity, but suffered greatly from Arab raids originating from Crete. Various hagiographies record a large-scale raid , that resulted in the flight of much of the population to the Greek mainland. During that time, some of the population sought refuge in the island's hinterland, establishing the settlement of Palaia Chora.[32][33]
+Aegina belonged to the East Roman (Byzantine) Empire after the division of the Roman Empire in 395. It remained Eastern Roman during the period of crisis of the 7th–8th centuries, when most of the Balkans and the Greek mainland were overrun by Slavic invasions. Indeed, according to the _Chronicle of Monemvasia_, the island served as a refuge for the Corinthians fleeing these incursions.[31] The island flourished during the early 9th century, as evidenced by church construction activity, but suffered greatly from Arab raids originating from Crete. Various hagiographies record a large-scale raid , that resulted in the flight of much of the population to the Greek mainland. During that time, some of the population sought refuge in the island's hinterland, establishing the settlement of Palaia Chora.[32][33]
 
 According to the 12th-century bishop of Athens, Michael Choniates, by his time the island had become a base for pirates.[34] This is corroborated by Benedict of Peterborough's graphic account of Greece, as it was in 1191; he states that many of the islands were uninhabited for fear of pirates and that Aegina, along with Salamis and Makronisos, were their strongholds.
 
@@ -102,8 +100,6 @@ Frankish rule after 1204
 After the dissolution and partition of the Byzantine Empire by the Fourth Crusade in 1204, Aegina was accorded to the Republic of Venice. In the event, it became controlled by the Duchy of Athens. The Catalan Company seized control of Athens, and with it Aegina, in 1317, and in 1425 the island became controlled by the Venetians,[35] when Alioto Caopena, at that time ruler of Aegina, placed himself by treaty under the Republic's protection to escape the danger of a Turkish raid. The island must then have been fruitful, for one of the conditions by which Venice accorded him protection was that he should supply grain to Venetian colonies. He agreed to surrender the island to Venice if his family became extinct. Antonio II Acciaioli opposed the treaty for one of his adopted daughters had married the future lord of Aegina, Antonello Caopena.
 
 Venetians in Aegina (1451–1537)
-
-Markellos_tower_Aegina_Greece.jpg
 
 In 1451, Aegina became Venetian. The islanders welcomed Venetian rule; the claims of Antonello's uncle Arnà, who had lands in Argolis, were satisfied by a pension. A Venetian governor (_rettore_) was appointed, who was dependent on the authorities of Nauplia. After Arnà's death, his son Alioto renewed his claim to the island but was told that the republic was resolved to keep it. He and his family were pensioned and one of them aided in the defence of Aegina against the Turks in 1537, was captured with his family, and died in a Turkish dungeon.
 
@@ -121,7 +117,7 @@ Aegina had always been exposed to the raids of corsairs and had oppressive gover
 
 16th century
 
-Aegina_-_view_05.jpg After the end of the Duchy of Athens and the principality of Achaia, the only Latin possessions left on the mainland of Greece were the papal city of Monemvasia, the fortress of Vonitsa, the Messenian stations Coron and Modon, Lepanto, Pteleon, Navarino, and the castles of Argos and Nauplia, to which the island of Aegina was subordinate.
+After the end of the Duchy of Athens and the principality of Achaia, the only Latin possessions left on the mainland of Greece were the papal city of Monemvasia, the fortress of Vonitsa, the Messenian stations Coron and Modon, Lepanto, Pteleon, Navarino, and the castles of Argos and Nauplia, to which the island of Aegina was subordinate.
 
 In 1502–03, the new peace treaty left Venice with nothing but Cephalonia, Monemvasia and Nauplia, with their appurtenances in the Morea. And against the sack of Megara, it had to endure the temporary capture of the castle of Aegina by Kemal Reis and the abduction of 2000 inhabitants. This treaty was renewed in 1513 and 1521. All supplies of grain from Nauplia and Monemvasia had to be imported from Turkish possessions, while corsairs rendered dangerous all traffic by sea.
 
@@ -135,7 +131,7 @@ The island was attacked and left desolate by Francesco Morosini during the Creta
 
 Second Venetian period (1687–1715)
 
-Rottmann_-_Landschaft_auf_der_Insel_Aegina_-_1845.jpeg.]]
+.]]
 
 In 1684, the beginning of the Morean War between Venice and the Ottoman Empire resulted in the temporary reconquest of a large part of the country by the Republic. In 1687 the Venetian army arrived in Piraeus and captured Attica. The number of the Athenians at that time exceeded 6,000, the Albanians from the villages of Attica excluded, whilst in 1674 the population of Aegina did not seem to exceed 3,000 inhabitants, two thirds of which were women. The Aeginetans had been reduced to poverty to pay their taxes. The most significant plague epidemic began in Attica during 1688, an occasion that caused the massive migration of Athenians toward the south; most of them settled in Aegina. In 1693 Morosini resumed command, but his only acts were to refortify the castle of Aegina, which he had demolished during the Cretan war in 1655, the cost of upkeep being paid as long as the war lasted by the Athenians, and to place it and Salamis under Malipiero as Governor. This caused the Athenians to send him a request for the renewal of Venetian protection and an offer of an annual tribute. He died in 1694 and Zeno was appointed at his place.
 
@@ -152,7 +148,7 @@ During the Greek War of Independence, Aegina became an administrative centre for
 
 Landmarks
 
-Aegina_port.jpg Aegina_harbour_1.jpg Agios-nectarios-aegina.jpg.]] Εμπορικό_Καλντερίμι_στην_Αίγινα.jpg Aigina.JPG Ioannis_Capodistrias_bust_Karakatsanis_1887_Aegina_Greece.jpg
+.]]
 
 -   TEMPLE OF APHAEA, dedicated to its namesake, a goddess who was later associated with Athena; the temple was part of a pre-Christian, equilateral holy triangle of temples including the Athenian Parthenon and the temple of Poseidon at Sounion.
 -   MONASTERY OF AGIOS NECTARIOS, dedicated to Nectarios of Aegina, a recent saint of the Greek Orthodox Church.

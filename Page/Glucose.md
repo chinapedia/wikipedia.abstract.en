@@ -25,19 +25,18 @@ Glucose is a monosaccharide with formula C₆H₁₂O₆ or H-(C=O)-(CHOH)₅-H,
 +================================================================================================================+
 | Natta projection                                                                                               |
 +----------------------------------------------------------------------------------------------------------------+
-| D-Glucose_Keilstrich.svg                                                                                       |
+|                                                                                                                |
 +----------------------------------------------------------------------------------------------------------------+
-| Alpha-D-Glucopyranose.svg                                                                                      |
 | α--glucopyranose                                                                                               |
 +----------------------------------------------------------------------------------------------------------------+
 | α--Glucopyranose in (1) Tollens/Fischer- (2) Haworth-projection (3) chair conformation (4) stereochemical view |
 +----------------------------------------------------------------------------------------------------------------+
-| Alpha_glucose_views.svg                                                                                        |
+|                                                                                                                |
 +----------------------------------------------------------------------------------------------------------------+
 
 Open-chain form
 
-Glucose_Fisher_to_Haworth.gif In its fleeting open-chain form, the glucose molecule has an open (as opposed to cyclic) and unbranched backbone of six carbon atoms, C-1 through C-6; where C-1 is part of an aldehyde group H(C=O)-, and each of the other five carbons bears one hydroxyl group -OH. The remaining bonds of the backbone carbons are satisfied by hydrogen atoms -H. Therefore, glucose is both a hexose and an aldose, or an aldohexose. The aldehyde group makes glucose a reducing sugar giving a positive reaction with the Fehling test.
+In its fleeting open-chain form, the glucose molecule has an open (as opposed to cyclic) and unbranched backbone of six carbon atoms, C-1 through C-6; where C-1 is part of an aldehyde group H(C=O)-, and each of the other five carbons bears one hydroxyl group -OH. The remaining bonds of the backbone carbons are satisfied by hydrogen atoms -H. Therefore, glucose is both a hexose and an aldose, or an aldohexose. The aldehyde group makes glucose a reducing sugar giving a positive reaction with the Fehling test.
 
 Each of the four carbons C-2 through C-5 is a stereocenter, meaning that its four bonds connect to four different substituents. (Carbon C-2, for example, connects to -(C=O)H, -OH, -H, and -(CHOH)₄H.) In -glucose, these four parts must be in a specific three-dimensional arrangement. Namely, when the molecule is drawn in the Fischer projection, the hydroxyls on C-2, C-4, and C-5 must be on the right side, while that on C-3 must be on the left side.
 
@@ -53,7 +52,7 @@ The reaction between C-1 and C-5 yields a six-membered heterocyclic system calle
 
 The ring-closing reaction makes carbon C-1 chiral, too, since its four bonds lead to -H, to -OH, to carbon C-2, and to the ring oxygen. These four parts of the molecule may be arranged around C-1 (the anomeric carbon) in two distinct ways, designated by the prefixes "α-" and "β-". When a glucopyranose molecule is drawn in the Haworth projection, the designation "α-" means that the hydroxyl group attached to C-1 and the -CH₂OH group at C-5 lies on opposite sides of the ring's plane (a _trans_ arrangement), while "β-" means that they are on the same side of the plane (a _cis_ arrangement). Therefore, the open-chain isomer -glucose gives rise to four distinct cyclic isomers: α--glucopyranose, β--glucopyranose, α--glucofuranose, and β--glucofuranose. These five structures exist in equilibrium and interconvert, and the interconversion is much more rapid with acid catalysis.
 
-centres of D-glucopyranose]] The other open-chain isomer -glucose similarly gives rise to four distinct cyclic forms of -glucose, each the mirror image of the corresponding -glucose.
+s of D-glucopyranose]] The other open-chain isomer -glucose similarly gives rise to four distinct cyclic forms of -glucose, each the mirror image of the corresponding -glucose.
 
 The rings are not planar, but are twisted in three dimensions. The glucopyranose ring (α or β) can assume several non-planar shapes, analogous to the "chair" and "boat" conformations of cyclohexane. Similarly, the glucofuranose ring may assume several shapes, analogous to the "envelope" conformations of cyclopentane.
 
@@ -65,7 +64,7 @@ Each glucose isomer is subject to rotational isomerism. Within the cyclic form o
 
 Mutarotation
 
-Mutarotation_D-Glucose_V.1.png Mutarotation consists of a temporary reversal of the ring-forming reaction, resulting in the open-chain form, followed by a reforming of the ring. The ring closure step may use a different -OH group than the one recreated by the opening step (thus switching between pyranose and furanose forms), or the new hemiacetal group created on C-1 may have the same or opposite handedness as the original one (thus switching between the α and β forms). Thus, though the open-chain form is barely detectable in solution, it is an essential component of the equilibrium.
+Mutarotation consists of a temporary reversal of the ring-forming reaction, resulting in the open-chain form, followed by a reforming of the ring. The ring closure step may use a different -OH group than the one recreated by the opening step (thus switching between pyranose and furanose forms), or the new hemiacetal group created on C-1 may have the same or opposite handedness as the original one (thus switching between the α and β forms). Thus, though the open-chain form is barely detectable in solution, it is an essential component of the equilibrium.
 
 The open-chain form is thermodynamically unstable, and it spontaneously isomerizes to the cyclic forms. (Although the ring closure reaction could in theory create four- or three-atom rings, these would be highly strained, and are not observed in practice.) In solutions at room temperature, the four cyclic isomers interconvert over a time scale of hours, in a process called mutarotation.[24] Starting from any proportions, the mixture converges to a stable ratio of α:β 36:64. The ratio would be α:β 11:89 if it were not for the influence of the anomeric effect.[25] Mutarotation is considerably slower at temperatures close to .
 
@@ -81,14 +80,11 @@ Isomerisation
 
 In dilute sodium hydroxide or other dilute bases, the monosaccharides mannose, glucose and fructose interconvert (via a Lobry de Bruyn–Alberda–van Ekenstein transformation), so that a balance between these isomers is formed. This reaction proceeds via an enediol:
 
-Glucose_Fructose_Mannose_Gleichgewicht.png
-
 
 Biochemical properties
 
   Metabolism of common monosaccharides and some biochemical reactions of glucose
   --------------------------------------------------------------------------------
-  Metabolism_of_common_monosaccharides,_and_related_reactions.png
 
 Glucose is the most abundant monosaccharide. Glucose is also the most widely used aldohexose in most living organisms. One possible explanation for this is that glucose has a lower tendency than other aldohexoses to react nonspecifically with the amine groups of proteins.[28] This reaction—glycation—impairs or destroys the function of many proteins,[29] e.g. in glycated hemoglobin. Glucose's low rate of glycation can be attributed to its having a more stable cyclic form compared to other aldohexoses, which means it spends less time than they do in its reactive open-chain form.[30] The reason for glucose having the most stable cyclic form of all the aldohexoses is that its hydroxy groups (with the exception of the hydroxy group on the anomeric carbon of -glucose) are in the equatorial position. Presumably, glucose is the most abundant natural monosaccharide because it is less glycated with proteins than other monosaccharides.[31][32] Another hypothesis is that glucose, being the only D-aldohexose that has all five hydroxy substituents in the equatorial position in the form of β-D-glucose, is more readily accessible to chemical reactions,[33] for example, for esterification[34] or acetal formation.[35] For this reason, D-glucose is also a highly preferred building block in natural polysaccharides (glycans). Polysaccharides that are composed solely of Glucose are termed glucans.
 
@@ -112,7 +108,7 @@ The metabolic pathway that begins with molecules containing two to four carbon a
 
 Glucose degradation
 
-Glucose_metabolism.svgic forms are digested and taken up by the body in the intestines, including starch, glycogen, disaccharides and monosaccharides.
+ic forms are digested and taken up by the body in the intestines, including starch, glycogen, disaccharides and monosaccharides.
 Glucose is stored in mainly the liver and muscles as glycogen. It is distributed and used in tissues as free glucose.]] In humans, glucose is metabolised by glycolysis[63] and the pentose phosphate pathway.[64] Glycolysis is used by all living organisms,[65][66] with small variations, and all organisms generate energy from the breakdown of monosaccharides.[67] In the further course of the metabolism, it can be completely degraded via oxidative decarboxylation, the Krebs cycle (synonym _citric acid cycle_) and the respiratory chain to water and carbon dioxide. If there is not enough oxygen available for this, the glucose degradation in animals occurs anaerobic to lactate via lactic acid fermentation and releases less energy. Muscular lactate enters the liver through the bloodstream in mammals, where gluconeogenesis occurs (Cori cycle). With a high supply of glucose, the metabolite acetyl-CoA from the Krebs cycle can also be used for fatty acid synthesis.[68] Glucose is also used to replenish the body's glycogen stores, which are mainly found in liver and skeletal muscle. These processes are hormonally regulated.
 
 In other living organisms, other forms of fermentation can occur. The bacterium _Escherichia coli_ can grow on nutrient media containing glucose as the sole carbon source.[69] In some bacteria and, in modified form, also in archaea, glucose is degraded via the Entner-Doudoroff pathway.[70]
@@ -127,7 +123,7 @@ In yeast, ethanol is fermented at high glucose concentrations, even in the prese
 
 Energy source
 
-Glucose_catabolism_intermediates_de.png Glucose is a ubiquitous fuel in biology. It is used as an energy source in organisms, from bacteria to humans, through either aerobic respiration, anaerobic respiration (in bacteria), or fermentation. Glucose is the human body's key source of energy, through aerobic respiration, providing about 3.75 kilocalories (16 kilojoules) of food energy per gram.[77] Breakdown of carbohydrates (e.g., starch) yields mono- and disaccharides, most of which is glucose. Through glycolysis and later in the reactions of the citric acid cycle and oxidative phosphorylation, glucose is oxidized to eventually form carbon dioxide and water, yielding energy mostly in the form of ATP. The insulin reaction, and other mechanisms, regulate the concentration of glucose in the blood. The physiological caloric value of glucose, depending on the source, is 16.2 kilojoules per gram[78] and 15.7 kJ/g (3.74 kcal/g), respectively.[79] The high availability of carbohydrates from plant biomass has led to a variety of methods during evolution, especially in microorganisms, to utilize the energy and carbon storage glucose. Differences exist in which end product can no longer be used for energy production. The presence of individual genes, and their gene products, the enzymes, determine which reactions are possible. The metabolic pathway of glycolysis is used by almost all living beings. An essential difference in the use of glycolysis is the recovery of NADPH as a reductant for anabolism that would otherwise have to be generated indirectly.[80]
+Glucose is a ubiquitous fuel in biology. It is used as an energy source in organisms, from bacteria to humans, through either aerobic respiration, anaerobic respiration (in bacteria), or fermentation. Glucose is the human body's key source of energy, through aerobic respiration, providing about 3.75 kilocalories (16 kilojoules) of food energy per gram.[77] Breakdown of carbohydrates (e.g., starch) yields mono- and disaccharides, most of which is glucose. Through glycolysis and later in the reactions of the citric acid cycle and oxidative phosphorylation, glucose is oxidized to eventually form carbon dioxide and water, yielding energy mostly in the form of ATP. The insulin reaction, and other mechanisms, regulate the concentration of glucose in the blood. The physiological caloric value of glucose, depending on the source, is 16.2 kilojoules per gram[78] and 15.7 kJ/g (3.74 kcal/g), respectively.[79] The high availability of carbohydrates from plant biomass has led to a variety of methods during evolution, especially in microorganisms, to utilize the energy and carbon storage glucose. Differences exist in which end product can no longer be used for energy production. The presence of individual genes, and their gene products, the enzymes, determine which reactions are possible. The metabolic pathway of glycolysis is used by almost all living beings. An essential difference in the use of glycolysis is the recovery of NADPH as a reductant for anabolism that would otherwise have to be generated indirectly.[80]
 
 Glucose supplies almost all the energy for the brain,[81] so its availability influences psychological processes. When glucose is low, psychological processes requiring mental effort (e.g., self-control, effortful decision-making) are impaired.[82][83][84][85] In the brain, which is dependent on glucose as the major source of energy, the glucose concentration is usually 4 to 6 mM (5 mM equals 90 mg / dL),[86] but decreases to 2 to 3 mM when fasting.[87] Confusion occurs below 1 mM and coma at lower levels.[88]
 
@@ -162,12 +158,12 @@ An increased intake of glucose leads to obesity and, in consequence, partly to t
 
 Hypoglycemia management
 
-Soluţie_glucoză_5%.jpgs]] Individuals with diabetes or other conditions that result in low blood sugar often carry small amounts of sugar in various forms. One sugar commonly used is glucose, often in the form of glucose tablets (glucose pressed into a tablet shape sometimes with one or more other ingredients as a binder), hard candy, or sugar packet.
+s]] Individuals with diabetes or other conditions that result in low blood sugar often carry small amounts of sugar in various forms. One sugar commonly used is glucose, often in the form of glucose tablets (glucose pressed into a tablet shape sometimes with one or more other ingredients as a binder), hard candy, or sugar packet.
 
 
 Sources
 
-Glucose_2.jpg Most dietary carbohydrates contain glucose, either as their only building block (as in the polysaccharides starch and glycogen), or together with another monosaccharide (as in the hetero-polysaccharides sucrose and lactose).[116] Unbounded glucose is one of the main ingredients of honey.
+Most dietary carbohydrates contain glucose, either as their only building block (as in the polysaccharides starch and glycogen), or together with another monosaccharide (as in the hetero-polysaccharides sucrose and lactose).[116] Unbounded glucose is one of the main ingredients of honey.
 
 +-------------------+-----------------+--------+-----------+-----------+---------+-----------+--------------+
 | Food Item         | Total           | Total  | Free      | Free      | Sucrose | Fructose/ | Sucrose      |
@@ -240,7 +236,7 @@ In the USA almost exclusively corn (more precisely: corn syrup) is used as gluco
 
 Commercial usage
 
-Relativesweetness.png: Sugar, accessed 28 June 2018.]] Glucose is mainly used for the production of fructose and in the production of glucose-containing foods. In foods, it is used as a sweetener, humectant, to increase the volume and to create a softer mouthfeel.[139] Various sources of glucose, such as grape juice (for wine) or malt (for beer), are used for fermentation to ethanol during the production of alcoholic beverages. Most soft drinks in the US use HFCS-55 (with a fructose content of 55% in the dry mass), while most other HFCS-sweetened foods in the US use HFCS-42 (with a fructose content of 42% in the dry mass).[140] In the neighboring country Mexico, on the other hand, cane sugar is used in the soft drink as a sweetener, which has a higher sweetening power.[141] In addition, glucose syrup is used, inter alia, in the production of confectionery such as candies, toffee and fondant.[142] Typical chemical reactions of glucose when heated under water-free conditions are the caramelization and, in presence of amino acids, the maillard reaction.
+: Sugar, accessed 28 June 2018.]] Glucose is mainly used for the production of fructose and in the production of glucose-containing foods. In foods, it is used as a sweetener, humectant, to increase the volume and to create a softer mouthfeel.[139] Various sources of glucose, such as grape juice (for wine) or malt (for beer), are used for fermentation to ethanol during the production of alcoholic beverages. Most soft drinks in the US use HFCS-55 (with a fructose content of 55% in the dry mass), while most other HFCS-sweetened foods in the US use HFCS-42 (with a fructose content of 42% in the dry mass).[140] In the neighboring country Mexico, on the other hand, cane sugar is used in the soft drink as a sweetener, which has a higher sweetening power.[141] In addition, glucose syrup is used, inter alia, in the production of confectionery such as candies, toffee and fondant.[142] Typical chemical reactions of glucose when heated under water-free conditions are the caramelization and, in presence of amino acids, the maillard reaction.
 
 In addition, various organic acids can be biotechnologically produced from glucose, for example by fermentation with _Clostridium thermoaceticum_ to produce acetic acid, with _Penicilium notatum_ for the production of araboascorbic acid, with _Rhizopus delemar_ for the production of fumaric acid, with _Aspergillus niger_ for the production of gluconic acid, with _Candida brumptii_ to produce isocitric acid, with _Aspergillus terreus_ for the production of itaconic acid, with _Pseudomonas fluorescens_ for the production of 2-ketogluconic acid, with _Gluconobacter suboxydans_ for the production of 5-ketogluconic acid, with _Aspergillus oryzae_ for the production of kojic acid, with _Lactobacillus delbrueckii_ for the production of lactic acid, with _Lactobacillus brevis_ for the production of malic acid, with _Propionibacter shermanii_ for the production of propionic acid, with _Pseudomonas aeruginosa_ for the production of pyruvic acid and with _Gluconobacter suboxydans_ for the production of tartaric acid.[143]
 

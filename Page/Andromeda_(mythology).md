@@ -1,4 +1,4 @@
-Frederic,_Lord_Leighton_-_Perseus_and_Andromeda_-_Google_Art_Project.jpg on the winged horse Pegasus flies above), by Frederic Leighton]]
+on the winged horse Pegasus flies above), by Frederic Leighton]]
 
 In Greek mythology, ANDROMEDA (; Greek: Ἀνδρομέδα, _Androméda_ or Ἀνδρομέδη, _Andromédē_) is the daughter of the Aethiopian king Cepheus and his wife Cassiopeia. When Cassiopeia's hubris leads her to boast that Andromeda is more beautiful than the Nereids, Poseidon sends the sea monster Cetus to ravage Andromeda as divine punishment.[1] Andromeda is chained to a rock as a sacrifice to sate the monster, but is saved from death by Perseus.
 
@@ -9,7 +9,7 @@ As a subject, Andromeda has been popular in art since classical times; it is one
 
 Mythology
 
-Museo_Nazionale_Napoli_Perseus_And_Andromeda.jpg]]
+]]
 
 In Greek mythology, Andromeda was the daughter of Cepheus and Cassiopeia, king and queen of the African kingdom of Aethiopia.
 
@@ -53,7 +53,7 @@ Cultural references
 
 Constellations
 
-1869_Edward_Poynter_-_Andromeda.jpg]] Andromeda is represented in the northern sky by the constellation Andromeda, which contains the Andromeda Galaxy.
+]] Andromeda is represented in the northern sky by the constellation Andromeda, which contains the Andromeda Galaxy.
 
 The advancement of science and technology allowed the emergence of astrophotography which allowed more concrete observation of the Andromeda constellation and led to the discovery that the galaxy lies within the Andromeda constellation.[13]
 
@@ -72,7 +72,7 @@ Other constellations related to the story are:
 
 In art
 
-1596_dArpino_Perseus_and_Andromeda_anagoria.JPG]] Sophocles and Euripides (and in more modern times, Corneille) made the story the subject of tragedies, and its incidents were represented in numerous ancient works of art, including Greek vases. Jean-Baptiste Lully's opera, _Persée_, also dramatizes the myth.
+]] Sophocles and Euripides (and in more modern times, Corneille) made the story the subject of tragedies, and its incidents were represented in numerous ancient works of art, including Greek vases. Jean-Baptiste Lully's opera, _Persée_, also dramatizes the myth.
 
 Andromeda has been the subject of numerous ancient and modern works of art, which typically show the moment of rescue, with Andromeda usually still chained, and often naked or nearly so. Examples include: one of Titian's _poesies_ (Wallace Collection), and compositions by Joachim Wtewael (Louvre), Veronese (Rennes), many versions by Rubens, Ingres, and Gustave Moreau. From the Renaissance onward the chained nude figure of Andromeda typically was the centre of interest. Rembrandt's _Andromeda Chained to the Rocks_ is unusual in showing her alone, fearfully awaiting the monster.
 

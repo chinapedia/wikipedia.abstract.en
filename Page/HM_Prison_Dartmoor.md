@@ -1,4 +1,4 @@
-HM_Dartmoor_Prison.jpg HM PRISON DARTMOOR is a Category C men's prison, located in Princetown, high on Dartmoor in the English county of Devon. Its high granite walls dominate this area of the moor. The prison is owned by the Duchy of Cornwall, and is operated by Her Majesty's Prison Service.
+HM PRISON DARTMOOR is a Category C men's prison, located in Princetown, high on Dartmoor in the English county of Devon. Its high granite walls dominate this area of the moor. The prison is owned by the Duchy of Cornwall, and is operated by Her Majesty's Prison Service.
 
 
 History
@@ -23,7 +23,7 @@ Dartmoor was reopened in 1851 as a civilian prison, but was closed again in 1917
 
 Dartmoor mutiny
 
-Dartmoor_Prison_entrance.jpg On 24 January 1932, there was a major disturbance at the prison. The cause of the riots is generally attributed to the food, not generally but just on specific days when it was suspected it had been tampered with prior to the disturbance.[7] There had also been other instances of disobedience prior to this, according to the official Du Parcq report into the incident such as a model prisoner attacking a popular guard with a razor blade and rough treatment of a prisoner being removed to solitary.[8] At the parade later that day, 50 prisoners refused orders, and the rest were marched back to their cells but refused to enter. At this point, the prison governor and his staff fled to an unused part of the prison and secured themselves in there. The prisoners then released those held in solitary. There was extensive damage to property and a prisoner was shot by one of the staff but no prison staff were injured.[9] According to Fitzgerald (1977) "Reinforcements arrived, and within fifteen minutes these 'vicious brutes', who for some two hours had terrorized well-armed prison staff, and effectively controlled the prison, had surrendered and been locked up again".[10]
+On 24 January 1932, there was a major disturbance at the prison. The cause of the riots is generally attributed to the food, not generally but just on specific days when it was suspected it had been tampered with prior to the disturbance.[7] There had also been other instances of disobedience prior to this, according to the official Du Parcq report into the incident such as a model prisoner attacking a popular guard with a razor blade and rough treatment of a prisoner being removed to solitary.[8] At the parade later that day, 50 prisoners refused orders, and the rest were marched back to their cells but refused to enter. At this point, the prison governor and his staff fled to an unused part of the prison and secured themselves in there. The prisoners then released those held in solitary. There was extensive damage to property and a prisoner was shot by one of the staff but no prison staff were injured.[9] According to Fitzgerald (1977) "Reinforcements arrived, and within fifteen minutes these 'vicious brutes', who for some two hours had terrorized well-armed prison staff, and effectively controlled the prison, had surrendered and been locked up again".[10]
 
 Post-2000 history
 
@@ -38,7 +38,7 @@ The previous governor, Tony Corcoran, took up the post of governor of HMP Haveri
 
 The prison today
 
-Princetown_-_HM_Prison_Dartmoor_(geograph_5487986).jpg Dartmoor still has a misplaced reputation for being a high-security prison that is escape-proof. Now a Category C prison, Dartmoor houses mainly non-violent offenders and white-collar criminals. It also holds sex offenders and offers sex offender treatment programmes intended to make the offender realise their behaviour is unacceptable.[16] Some subsequently volunteer for behaviour-changing treatment with medication under a scheme being piloted at HMP Whatton, which has had encouraging results.[17]
+Dartmoor still has a misplaced reputation for being a high-security prison that is escape-proof. Now a Category C prison, Dartmoor houses mainly non-violent offenders and white-collar criminals. It also holds sex offenders and offers sex offender treatment programmes intended to make the offender realise their behaviour is unacceptable.[16] Some subsequently volunteer for behaviour-changing treatment with medication under a scheme being piloted at HMP Whatton, which has had encouraging results.[17]
 
 Dartmoor offers cell accommodation on six wings. Education is available at the prison (full and part-time), and ranges from basic educational skills to Open University courses. Vocational training includes electronics, brickwork and carpentry courses up to City & Guilds and NVQ level, Painting and Decorating courses, industrial cleaning and desktop publishing. Full-time employment is also available in catering, farming, gardening, laundry, textiles, Braille, contract services, furniture manufacturing and polishing. Employment is supported with NVQ or City & Guilds vocational qualifications. All courses and qualifications at Dartmoor are operated by South Gloucestershire and Stroud College and Cornwall College.
 
@@ -58,8 +58,6 @@ There are also displays and information on less well known aspects of the prison
 
 
 Notable former inmates
-
-Eamon_de_Valera_c_1922-30.jpg
 
 -   Michael Davitt
 -   Peter Hammond, founder of Hammond, Louisiana, USA

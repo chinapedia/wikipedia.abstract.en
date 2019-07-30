@@ -1,4 +1,4 @@
-Henrik_Ibsen_Vanity_Fair_1901-12-12.jpg'', 1901]]
+'', 1901]]
 
 HENRIK JOHAN IBSEN (;[1] ; 20 March 1828 – 23 May 1906) was a Norwegian playwright, theatre director, and poet. As one of the founders of modernism in theatre, Ibsen is often referred to as "the father of realism" and one of the most influential playwrights of his time.[2] His major works include _Brand_, _Peer Gynt_, _An Enemy of the People_, _Emperor and Galilean_, _A Doll's House_, _Hedda Gabler_, _Ghosts_, _The Wild Duck_, _When We Dead Awaken_, and _The Master Builder_. He is the most frequently performed dramatist in the world after Shakespeare,[3][4] and by the early 20th century _A Doll's House_ became the world's most performed play.[5]
 
@@ -11,11 +11,11 @@ Ibsen wrote his plays in Danish (the common written language of Denmark and Norw
 
 Early life and family
 
-Altenburg2.png of the Altenburg/Paus family, members of the Skien patriciate, shortly after the Napoleonic Wars. To the right Ibsen's mother Marichen Altenburg, her parents Hedevig Christine Paus and ship-owner Johan Andreas Altenburg in the centre, to the left of Hedevig her nephew Henrik Johan Paus, who was not only Marichen Altenburg's cousin, but also the half brother of Knud Ibsen, and who grew up with his uncle and aunt]]
+of the Altenburg/Paus family, members of the Skien patriciate, shortly after the Napoleonic Wars. To the right Ibsen's mother Marichen Altenburg, her parents Hedevig Christine Paus and ship-owner Johan Andreas Altenburg in the centre, to the left of Hedevig her nephew Henrik Johan Paus, who was not only Marichen Altenburg's cousin, but also the half brother of Knud Ibsen, and who grew up with his uncle and aunt]]
 
 Ibsen was born to Knud Ibsen (1797–1877) and Marichen Altenburg (1799–1869), into a well-to-do merchant family, in the small port town of Skien in Telemark county, a city which was noted for shipping timber. As he wrote in an 1882 letter to critic and scholar Georg Brandes, "my parents were members on both sides of the most respected families in Skien", explaining that he was closely related with "just about all the patrician families who then dominated the place and its surroundings", mentioning the families Paus, Plesner, von der Lippe, Cappelen and Blom.[13][14] Ibsen's grandfather, ship captain Henrich Ibsen (1765–1797), had died at sea in 1797, and Knud Ibsen was raised on the estate of ship-owner Ole Paus (1766–1855), after his mother Johanne, Plesner (1770–1847), remarried. Knud Ibsen's half-brothers included lawyer and politician Christian Cornelius Paus, banker and ship-owner Christopher Blom Paus, and lawyer Henrik Johan Paus, who grew up with Ibsen's mother in the Altenburg home and after whom Henrik (Johan) Ibsen was named.
 
-Hedvig_C_Paus2.jpg (cf. the character Hedvig in _The Wild Duck_)]] Knud Ibsen's paternal ancestors were ship captains of Danish origin, but he decided to become a merchant, and had some initial success. His marriage to Marichen Altenburg, a daughter of ship-owner Johan Andreas Altenburg (1763–1824) and Hedevig Christine Paus (1763–1848), was a successful match.[15] Theodore Jorgenson points out that "Henrik's ancestry [thus] reached back into the important Telemark family of Paus both on the father's and on the mother's side. Hedvig Paus must have been well known to the young dramatist, for she lived until 1848."[16] Henrik Ibsen was fascinated by his parents' "strange, almost incestuous marriage," and would treat the subject of incestuous relationships in several plays, notably his masterpiece _Rosmersholm_.[17]
+(cf. the character Hedvig in _The Wild Duck_)]] Knud Ibsen's paternal ancestors were ship captains of Danish origin, but he decided to become a merchant, and had some initial success. His marriage to Marichen Altenburg, a daughter of ship-owner Johan Andreas Altenburg (1763–1824) and Hedevig Christine Paus (1763–1848), was a successful match.[15] Theodore Jorgenson points out that "Henrik's ancestry [thus] reached back into the important Telemark family of Paus both on the father's and on the mother's side. Hedvig Paus must have been well known to the young dramatist, for she lived until 1848."[16] Henrik Ibsen was fascinated by his parents' "strange, almost incestuous marriage," and would treat the subject of incestuous relationships in several plays, notably his masterpiece _Rosmersholm_.[17]
 
 When Henrik Ibsen was around seven years old, however, his father's fortunes took a significant turn for the worse, and the family was eventually forced to sell the major Altenburg building in central Skien and move permanently to their small summer house, _Venstøp_, outside of the city.[18] Henrik's sister Hedvig would write about their mother: "She was a quiet, lovable woman, the soul of the house, everything to her husband and children. She sacrificed herself time and time again. There was no bitterness or reproach in her."[19][20] The Ibsen family eventually moved to a city house, Snipetorp, owned by Knud Ibsen's half-brother, wealthy banker and ship-owner Christopher Blom Paus.[21]
 
@@ -34,8 +34,6 @@ His next play, _Brand_ (1865), brought him the critical acclaim he sought, along
 
 With success, Ibsen became more confident and began to introduce more and more of his own beliefs and judgements into the drama, exploring what he termed the "drama of ideas". His next series of plays are often considered his Golden Age, when he entered the height of his power and influence, becoming the center of dramatic controversy across Europe.
 
-Ibsen-Dresden01.jpg
-
 Ibsen moved from Italy to Dresden, Germany, in 1868, where he spent years writing the play he regarded as his main work, _Emperor and Galilean_ (1873), dramatizing the life and times of the Roman emperor Julian the Apostate. Although Ibsen himself always looked back on this play as the cornerstone of his entire works, very few shared his opinion, and his next works would be much more acclaimed. Ibsen moved to Munich in 1875 and began work on his first contemporary realist drama _The Pillars of Society_, first published and performed in 1877.[26] _A Doll's House_ followed in 1879. This play is a scathing criticism of the marital roles accepted by men and women which characterized Ibsen's society.
 
 _Ghosts_ followed in 1881, another scathing commentary on the morality of Ibsen's society, in which a widow reveals to her pastor that she had hidden the evils of her marriage for its duration. The pastor had advised her to marry her fiancé despite his philandering, and she did so in the belief that her love would reform him. But his philandering continued right up until his death, and his vices are passed on to their son in the form of syphilis. The mention of venereal disease alone was scandalous, but to show how it could poison a respectable family was considered intolerable.
@@ -48,7 +46,7 @@ _The Wild Duck_ (1884) is by many considered Ibsen's finest work, and it is cert
 
 Ibsen displays masterful use of irony: despite his dogmatic insistence on truth, Gregers never says what he thinks but only insinuates, and is never understood until the play reaches its climax. Gregers hammers away at Hjalmar through innuendo and coded phrases until he realizes the truth; Gina's daughter, Hedvig, is not his child. Blinded by Gregers' insistence on absolute truth, he disavows the child. Seeing the damage he has wrought, Gregers determines to repair things, and suggests to Hedvig that she sacrifice the wild duck, her wounded pet, to prove her love for Hjalmar. Hedvig, alone among the characters, recognizes that Gregers always speaks in code, and looking for the deeper meaning in the first important statement Gregers makes which does not contain one, kills herself rather than the duck in order to prove her love for him in the ultimate act of self-sacrifice. Only too late do Hjalmar and Gregers realize that the absolute truth of the "ideal" is sometimes too much for the human heart to bear.
 
-Handwriting2.jpg: "30.8.[18]99. Dear Mr. Edmund Gosse! It was to me a hearty joy to receive your letter. So I will finally personally meet you and your wife. I am at home every day in the morning until 1 o'clock. I am happy and surprised at your excellent Norwegian! Your amicably obliged Henrik Ibsen."]]
+: "30.8.[18]99. Dear Mr. Edmund Gosse! It was to me a hearty joy to receive your letter. So I will finally personally meet you and your wife. I am at home every day in the morning until 1 o'clock. I am happy and surprised at your excellent Norwegian! Your amicably obliged Henrik Ibsen."]]
 
 Late in his career, Ibsen turned to a more introspective drama that had much less to do with denunciations of society's moral values and more to do with the problems of individuals. In such later plays as _Hedda Gabler_ (1890) and _The Master Builder_ (1892), Ibsen explored psychological conflicts that transcended a simple rejection of current conventions. Many modern readers, who might regard anti-Victorian didacticism as dated, simplistic or hackneyed, have found these later works to be of absorbing interest for their hard-edged, objective consideration of interpersonal confrontation. _Hedda Gabler_ is probably Ibsen's most performed play, with the title role regarded as one of the most challenging and rewarding for an actress even in the present day. _Hedda Gabler_ and _A Doll's House_ center on female protagonists whose almost demonic energy proves both attractive and destructive for those around them, and while Hedda has a few similarities with the character of Nora in _A Doll's House_, many of today's audiences and theatre critics feel that Hedda's intensity and drive are much more complex and much less comfortably explained than what they view as rather routine feminism on the part of Nora.
 
@@ -59,7 +57,7 @@ Ibsen intentionally obscured his influences. However, asked later what he had re
 
 Death
 
-Henrik_Ibsen_portrait.jpg On 23 May 1906, Ibsen died in his home at Arbins gade 1 in Kristiania (now Oslo)[27] after a series of strokes in March 1900. When, on 22 May, his nurse assured a visitor that he was a little better, Ibsen spluttered his last words "On the contrary" ("Tvertimod!"). He died the following day at 2:30 pm.[28]
+On 23 May 1906, Ibsen died in his home at Arbins gade 1 in Kristiania (now Oslo)[27] after a series of strokes in March 1900. When, on 22 May, his nurse assured a visitor that he was a little better, Ibsen spluttered his last words "On the contrary" ("Tvertimod!"). He died the following day at 2:30 pm.[28]
 
 Ibsen was buried in Vår Frelsers gravlund ("The Graveyard of Our Savior") in central Oslo.
 
@@ -72,7 +70,7 @@ On 23 May 2006, The Ibsen Museum in Oslo reopened to the public the house where 
 
 Legacy
 
-Plaque_to_Ibsen,_Oslo.jpg On the occasion of the 100th anniversary of Ibsen's death in 2006, the Norwegian government organised the Ibsen Year, which included celebrations around the world. The NRK produced a miniseries on Ibsen's childhood and youth in 2006, _An Immortal Man_. Several prizes are awarded in the name of Henrik Ibsen, among them the International Ibsen Award, the Norwegian Ibsen Award and the Ibsen Centennial Commemoration Award.
+On the occasion of the 100th anniversary of Ibsen's death in 2006, the Norwegian government organised the Ibsen Year, which included celebrations around the world. The NRK produced a miniseries on Ibsen's childhood and youth in 2006, _An Immortal Man_. Several prizes are awarded in the name of Henrik Ibsen, among them the International Ibsen Award, the Norwegian Ibsen Award and the Ibsen Centennial Commemoration Award.
 
 Every year, since 2008, the annual "Delhi Ibsen Festival", is held in Delhi, India, organized by the Dramatic Art and Design Academy (DADA) in collaboration with The Royal Norwegian Embassy in India. It features plays by Ibsen, performed by artists from various parts of the world in varied languages and styles.[34][35]
 
@@ -81,7 +79,7 @@ The Ibsen Society of America (ISA) was founded in 1978 at the close of the Ibsen
 
 Ancestry
 
-Ibsen_monogram.svg of Henrik Ibsen]]
+of Henrik Ibsen]]
 
 Ibsen's ancestry has been a much studied subject, due to his perceived foreignness[37] and due to the influence of his biography and family on his plays. Ibsen often made references to his family in his plays, sometimes by name, or by modelling characters after them.
 

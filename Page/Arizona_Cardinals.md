@@ -46,8 +46,6 @@ The next year, the Cardinals set a franchise-best 13–3 record, and clinched th
 
 Logos and uniforms
 
-NFCW-Throwback2-Uniform-ARI.PNG NFC-Throwback-Uniform-ARI.PNG Chicago_cardinals.png
-
 Starting in , the team had a logo of a cardinal bird perched on the stitches of a football.
 
 The Cardinals moved to Arizona in , and the flag of Arizona was added to the sleeves the following year. In , the team began wearing red pants with their white jerseys, as new coach Joe Bugel wanted to emulate his former employer, the Washington Redskins, who at the time wore burgundy pants with their white jerseys (the Redskins later returned to their 1970s gold pants with all their jerseys).
@@ -186,7 +184,7 @@ Dierdorf, Smith, Wehrli and Wilson were members of the St. Louis Football Ring o
 
 Ring of Honor
 
-Tillman_-_portrait.JPG's portrait – Faces of the Fallen gallery – Arlington National Cemetery.]] The Cardinals' Ring of Honor was started in to mark the opening of State Farm Stadium. It honors former Cardinal greats from all eras of the franchise's history. Following is a list of inductees and the dates that they were inducted.
+'s portrait – Faces of the Fallen gallery – Arlington National Cemetery.]] The Cardinals' Ring of Honor was started in to mark the opening of State Farm Stadium. It honors former Cardinal greats from all eras of the franchise's history. Following is a list of inductees and the dates that they were inducted.
 
   colspan="5" style= "" | Arizona Cardinals Ring of Honor
   ---------------------------------------------------------

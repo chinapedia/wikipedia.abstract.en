@@ -1,4 +1,4 @@
-Columbus_landing_on_Hispaniola_adj.jpg landing on the island of Hispaniola in 1492.]]
+landing on the island of Hispaniola in 1492.]]
 
 The recorded written HISTORY OF HAITI began on 5 December 1492 when the European navigator Christopher Columbus happened upon a large island in the region of the western Atlantic Ocean that later came to be known as the Caribbean. It was inhabited by the Taíno, and Arawakan people, who variously called their island _Ayiti_, _Bohio_, or _Kiskeya_ _(Quisqueya)_. Columbus promptly claimed the island for the Spanish Crown, naming it _La Isla Española_ ("the Spanish Island"), later Latinized to _Hispaniola_. French influence began in 1625, and French control of what was called Saint-Domingue—modern-day Haiti—began in 1660. From 1697 on, the western part of the island was French and the eastern part was Spanish. Haiti became one of the wealthiest of France's colonies, producing vast quantities of sugar and coffee and depended on a brutal slave system for the necessary labor. Inspired by the message of the French Revolution, Haitian slaves rose up in revolt in 1791 and after decades of struggle the independent republic of Haiti was officially proclaimed in 1804.
 
@@ -25,7 +25,7 @@ French Saint-Domingue (1625–1789)
 
 The Pearl of the Antilles (1711–89)
 
-D072-_une_sucrerie_à_saint-domingue_-_Liv3-Ch16.png in Haiti (_L’Homme et la Terre_ by Élisée Reclus, 1830–1905)]] Cap_Français_-_Gravure_ancienne_-_1728.jpg in 1728]]
+in Haiti (_L’Homme et la Terre_ by Élisée Reclus, 1830–1905)]] in 1728]]
 
 In 1711, the city of Cap-Français was formally established by Louis XIV and took over as capital of the colony from Port-de-Paix. In 1726, the city of Les Cayes was founded on the Southern coast which became the biggest settlement in the south. In 1749, the city of Port-au-Prince was established on the West coast, which in 1770 took over as the capital of the colony from Cap-Français, however that same year the 1770 Port-au-Prince earthquake and tsunami destroyed the city killing 200 people immediately, and 30,000 later from famine and disease brought on by the natural disaster. This was the second major earthquake to hit Saint-Domingue as it followed the 1751 Port-au-Prince earthquake which had left only a single stone built building standing in the town.
 
@@ -33,7 +33,7 @@ Prior to the Seven Years' War (1756–63), the economy of Saint-Domingue gradual
 
 In the second half of the 1780s, Saint-Domingue accounted for a third of the entire Atlantic slave trade. The population of the African slaves imported for these plantations is estimated to have been 790,000. Between 1764 and 1771, the average importation of slaves varied between 10,000–15,000, by 1786 about 28,000, and, from 1787 onward, the colony received more than 40,000 slaves a year. However, the inability to maintain slave numbers without constant resupply from Africa meant the slave population, by 1789, totaled 500,000, ruled over by a white population that, by 1789, numbered only 32,000.[9] At all times, a majority of slaves in the colony were African-born, as the brutal conditions of slavery prevented the population from experiencing growth through natural increase 1. African culture thus remained strong among slaves to the end of French rule, in particular the folk-religion of Vodou, which commingled Catholic liturgy and ritual with the beliefs and practices of Guinea, Congo, and Dahomey.[10] Slave traders scoured the Atlantic coast of Africa, and the slaves who arrived came from hundreds of different tribes, their languages often mutually incomprehensible.
 
-Citadelle_Laferrière_Aerial_View.jpg, built by Henri Christophe, is the largest fortress in the Americas.]] To regularize slavery, in 1685 Louis XIV enacted the _Code Noir_, which accorded certain human rights to slaves and responsibilities to the master, who was obliged to feed, clothe, and provide for the general well-being of their slaves. The _code noir_ also sanctioned corporal punishment, allowing masters to employ brutal methods to instill in their slaves the necessary docility, while ignoring provisions intended to regulate the administration of punishments. A passage from Henri Christophe's personal secretary, who lived more than half his life as a slave, describes the crimes perpetrated against the slaves of Saint-Domingue by their French masters:
+, built by Henri Christophe, is the largest fortress in the Americas.]] To regularize slavery, in 1685 Louis XIV enacted the _Code Noir_, which accorded certain human rights to slaves and responsibilities to the master, who was obliged to feed, clothe, and provide for the general well-being of their slaves. The _code noir_ also sanctioned corporal punishment, allowing masters to employ brutal methods to instill in their slaves the necessary docility, while ignoring provisions intended to regulate the administration of punishments. A passage from Henri Christophe's personal secretary, who lived more than half his life as a slave, describes the crimes perpetrated against the slaves of Saint-Domingue by their French masters:
 
 Thousands of slaves found freedom by fleeing from their masters, forming communities of maroons and raiding isolated plantations. The most famous was Mackandal, a one-armed slave, originally from Guinea, who escaped in 1751. A Vodou Houngan (priest), he united many of the different maroon bands. He spent the next six years staging successful raids and evading capture by the French, reputedly killing over 6,000 people, while preaching a fanatic vision of the destruction of white civilization in St. Domingue. In 1758, after a failed plot to poison the drinking water of the plantation owners, he was captured and burned alive at the public square in Cap-Français.
 
@@ -44,7 +44,7 @@ As numbers of _gens de couleur_ grew, the French rulers enacted discriminatory l
 
 Revolutionary period (1789–1804)
 
-Toussaint_L'Ouverture.jpg is considered the father of Haiti.]]
+is considered the father of Haiti.]]
 
 Ogé's revolt (1789–91)
 
@@ -52,13 +52,13 @@ The outbreak of revolution in France in the summer of 1789 had a powerful effect
 
 The rising of the slaves (1791–93)
 
-Incendie_de_la_Plaine_du_Cap._-_Massacre_des_Blancs_par_les_Noirs._FRANCE_MILITAIRE._-_Martinet_del._-_Masson_Sculp_-_33.jpg On 14 August 1791, slaves in the northern region of the colony staged a revolt that began the Haitian Revolution. Tradition marks the beginning of the revolution at a vodou ceremony at Bois Caïman (Alligator Woods) near Cap-Français. The call to arms was issued by a Houngan (Vodou priest) named Dutty Boukman. Within hours, the northern plantations were in flames. The rebellion spread through the entire colony. Boukman was captured and executed, but the rebellion continued to spread rapidly.
+On 14 August 1791, slaves in the northern region of the colony staged a revolt that began the Haitian Revolution. Tradition marks the beginning of the revolution at a vodou ceremony at Bois Caïman (Alligator Woods) near Cap-Français. The call to arms was issued by a Houngan (Vodou priest) named Dutty Boukman. Within hours, the northern plantations were in flames. The rebellion spread through the entire colony. Boukman was captured and executed, but the rebellion continued to spread rapidly.
 
 In 1792, Léger-Félicité Sonthonax was sent to the colony by the French Legislative Assembly as part of the Revolutionary Commission. His main goal was to maintain French control of Saint-Domingue, stabilize the colony, and enforce the social equality recently granted to free people of color by the National Convention of France.
 
 Toussaint Louverture ascendant (1793–1802)
 
-Vue_de_l%27incendie_de_la_ville_du_cap_français_f1.highres.jpg, 21 June 1793]] André_Rigaud.gif
+, 21 June 1793]]
 
 On 29 August 1793, Sonthonax took the radical step of proclaiming the freedom of the slaves in the north province (with severe limits on their freedom). In September and October, emancipation was extended throughout the colony. The French National Convention, the first elected Assembly of the First Republic (1792–1804), on 4 February 1794, under the leadership of Maximilien de Robespierre, abolished slavery by law in France and all its colonies. The constitution of 1793, which was never applied, and the constitution of 1795, which was put into effect, did both contain an explicit ban on slavery.
 
@@ -74,7 +74,7 @@ By 1801, Toussaint was in control of all of Hispaniola, after conquering French 
 
 Napoleon defeated (1802–04)
 
-Prise_du_Cap_Français_par_Général_Le_Clerc_15_et_20_Pluviose,_An_10_(Nuevo).jpg (1802)]] Haitian_revolution.jpg (Snake Gully) in 1802.]] Battle_for_Palm_Tree_Hill.jpg (1845)]] The_Mode_of_exterminating_the_Black_Army,_as_practised_by_the_French.png, 1805]] Revenge_taken_by_the_Black_Army_for_the_Cruelties_practised_on_them_by_the_French.png, 1805]]
+(1802)]] (Snake Gully) in 1802.]] (1845)]] , 1805]] , 1805]]
 
 Toussaint, however, asserted so much independence that in 1802, Napoleon sent a massive invasion force, under his brother-in-law Charles Leclerc, to increase French control. For a time, Leclerc met with some success; he also brought the eastern part of the island of Hispaniola under the direct control of France in accordance with the terms of the 1795 Treaties of Bâle with Spain. With a large expedition that eventually included 40,000 European troops, and receiving help from white colonists and mulatto forces commanded by Alexandre Pétion, a former lieutenant of Rigaud, the French won several victories after severe fighting. Two of Toussaint's chief lieutenants, Dessalines and Christophe, recognizing their untenable situation, held separate parleys with the invaders, and agreed to transfer their allegiance. At this point, Leclerc invited Toussaint to negotiate a settlement. It was a deception; Toussaint was seized and deported to France, where he died of pneumonia while imprisoned at Fort de Joux in the Jura Mountains in April 1803.
 
@@ -93,7 +93,7 @@ Despite the Haitian victory, France refused to recognize the newly independent c
 
 Independence: The early years (1804–43)
 
-Vue_de_Port-au-Prince_et_ses_environs_ca1800_BPL_m8805.png and surroundings at the start of the 19th century]] Jean-Jaques_Dessalines_(Fondateur_de_l'Independance_d'Haiti).jpg]]
+and surroundings at the start of the 19th century]] ]]
 
 Black Republic (1804)
 
@@ -113,25 +113,25 @@ The state created under Dessalines was the opposite of what the Haitian mass or 
 
 The struggle for unity (1806–20)
 
-Duckworth's_Action_off_San_Domingo,_6_February_1806.jpg (1806) painted by Nicholas Pocock in 1808]]
+(1806) painted by Nicholas Pocock in 1808]]
 
 After the Dessalines coup d'état, the two main conspirators divided the country in two rival regimes. Christophe created the authoritarian State of Haiti in the north, and the Gens de couleur Pétion helped establish the Republic of Haiti in the south. Christophe attempted to maintain a strict system of labor and agricultural production akin to the former plantations. Although, strictly speaking, he did not establish slavery, he imposed a semi-feudal system, fumage, in which every able man was required to work in plantations (similar to latifundios) to produce goods for the fledgling country. His method, though undoubtedly oppressive, produced the most revenues of the two governments.
 
 By contrast, Pétion broke up the former colonial estates and parceled out the land into small holdings. In Pétion's south, the gens de couleur minority led the government and feared losing popular support, and thus, sought to assuage class tensions with land redistribution. Because of the weak international position and its labor policies (most peasants lived through a subsistence economy), Pétion's government was perpetually on the brink of bankruptcy. Yet, for most of its time, it produced one of the most liberal and tolerant Haitian governments ever. In 1815, at a key period of Bolívar's fight for Venezuelan independence, he gave the Venezuelan leader asylum and provided him soldiers and substantial material support. It also had the least of internal military skirmishes, despite its continuous conflicts with Christophe's northern kingdom. In 1816, however, after finding the burden of the Senate intolerable, he suspended the legislature and turned his post into President for Life. Not long after, he died of yellow fever, and his assistant Jean-Pierre Boyer replaced him.
 
-Kingdom_of_Haiti.jpg In this period, the eastern part of the island rose against the new powers following general Juan Sánchez Ramírez's claims of independence from France, which broke the Treaties of Bâle attacking Spain and prohibited commerce with Haiti. In the Palo Hincado battle (7 November 1808), all the remaining French forces were defeated by Spanish-creole insurrectionists. On 9 July 1809, Santo Domingo was born. The government put itself under the control of Spain, earning it the nickname of "España Boba" (meaning "The Idiot Spain").
+In this period, the eastern part of the island rose against the new powers following general Juan Sánchez Ramírez's claims of independence from France, which broke the Treaties of Bâle attacking Spain and prohibited commerce with Haiti. In the Palo Hincado battle (7 November 1808), all the remaining French forces were defeated by Spanish-creole insurrectionists. On 9 July 1809, Santo Domingo was born. The government put itself under the control of Spain, earning it the nickname of "España Boba" (meaning "The Idiot Spain").
 
 In 1811, Christophe proclaimed himself King Henri I in the North and commissioned several extraordinary buildings. He even created a nobility class in the fashion of European monarchies. Yet in 1820, weakened by illness and with a decreasing support for his authoritarian regime, he killed himself with a silver bullet rather than face a coup d'état. Immediately after, Pétion's successor, Boyer, reunited Haiti through diplomatic tactics, and ruled as president until his overthrow in 1843.
 
 Boyer's domination of Hispaniola (1820–43)
 
-President_Jean-Pierre_Boyer_of_Haiti_(Hispaniola_Unification_Regime)_Portrait.jpg]]
+]]
 
 Almost two years after Boyer had consolidated power in the west, in 1821, Santo Domingo declared independence from Spain and requested from Simón Bolívar inclusion in the Gran Colombia. Boyer, however, responding to a party on the east that preferred Haiti over Colombia, occupied the ex-Spanish colony in January 1822, encountering no military resistance. In this way he accomplished the unity of the island, which was only carried out for a short period of time by Toussaint Louverture in 1801. Boyer's occupation of the Spanish side also responded to internal struggles among Christophe's generals, to which Boyer gave extensive powers and lands in the east. This occupation, however, pitted the Spanish white elite against the iron fisted Haitian administration, and stimulated the emigration of many white wealthy families. The entire island remained under Haitian rule until 1844, when in the east a nationalist group called La Trinitaria led a revolt that partitioned the island into Haiti on the west and Dominican Republic on the east, based on what would appear to be a riverine territorial 'divide' from the pre-contact period.
 
 From 1824 to 1826, while the island was under one government, Boyer promoted the largest single free-Black immigration from the United States in which more than 6,000 immigrants settled in different parts of the island. Today remnants of these immigrants live throughout the island, but the larger number reside in Samaná, a peninsula on the Dominican side of the island. From the government's perspective, the intention of the immigration was to help establish commercial and diplomatic relationships with the US, and to increase the number of skilled and agricultural workers in Haiti.
 
-Sans_Souci_Palace.jpg, severely damaged in the 1842 earthquake and never rebuilt]] In exchange for diplomatic recognition from France, Boyer was forced to pay a huge indemnity for the loss of French property during the revolution. To pay for this, he had to float loans in France, putting Haiti into a state of debt. Boyer attempted to enforce production through the _Code Rural_, enacted in 1826, but peasant freeholders, mostly former revolutionary soldiers, had no intention of returning to the forced labor they fought to escape. By 1840, Haiti had ceased to export sugar entirely, although large amounts continued to be grown for local consumption as _taffia_-a raw rum. However, Haiti continued to export coffee, which required little cultivation and grew semi-wild.
+, severely damaged in the 1842 earthquake and never rebuilt]] In exchange for diplomatic recognition from France, Boyer was forced to pay a huge indemnity for the loss of French property during the revolution. To pay for this, he had to float loans in France, putting Haiti into a state of debt. Boyer attempted to enforce production through the _Code Rural_, enacted in 1826, but peasant freeholders, mostly former revolutionary soldiers, had no intention of returning to the forced labor they fought to escape. By 1840, Haiti had ceased to export sugar entirely, although large amounts continued to be grown for local consumption as _taffia_-a raw rum. However, Haiti continued to export coffee, which required little cultivation and grew semi-wild.
 
 The 1842 Cap-Haïtien earthquake destroyed the city, and the Sans-Souci Palace, killing 10,000 people. This was the third major earthquake to hit Western Hispaniola following the 1751 and 1770 Port-au-Prince earthquakes, and the last until the devastating earthquake of 2010.
 
@@ -140,13 +140,9 @@ Haiti went through a long period of oppression and instability following the pre
 
 Political struggles (1843–1915)
 
-Sacre_de_l'empereur_Faustin_Soulouque.jpg in 1849]]
+in 1849]]
 
-Palais-National_incendié_par_Salnave.jpg
-
-Haiti_German_legation_1900.jpg
-
-Bishop's_House,_Cap-Haitien_-_Haiti,_her_history_and_her_detractors.jpg, 1907]]
+, 1907]]
 
 In 1843, a revolt, led by Charles Rivière-Hérard, overthrew Boyer and established a brief parliamentary rule under the Constitution of 1843. Revolts soon broke out and the country descended into near chaos, with a series of transient presidents until March 1847, when General Faustin Soulouque, a former slave who had fought in the rebellion of 1791, became president. He purged the military high command, established a secret police, and eliminated mulatto opponents. In August 1849, he grandiosely proclaimed himself as Haiti's second emperor, Faustin I. Soulouque's expansive ambitions led him to mount several invasions of the Dominican Republic. The new emperor had been called a _rey de farsa_ by the Dominicans. The white and mulatto rulers of the Dominican Republic he considered as his "natural" enemies, and he could never consolidate his rule without this conquest, for his reign had been founded on domination and would stand only by it.[38] When in 1849 Soulouque led his first invasion into the Dominican Republic, President Buenaventura Báez declared war on Haiti. The invasion included two marine campaigns.[39] Soulouque launched his last campaign in December 1855. In January of the following year, a Haitian contingent of 6,000 soldiers was terribly defeated in the border town of Ouanaminthe. More than 1,000 men were killed, and many were wounded and declared missing on the way back to the capital.[40] The failure of that expedition hurt Soulouque's image at home. When he rode into Port-au-Prince with what remained of his army he was loudly cursed by women who had lost their sons, brothers, and husbands in the war.[41] Four years later, he was deposed by General Fabre Geffrard, styled the Duke of Tabara.
 
@@ -171,8 +167,6 @@ File:Fabre Geffrard (President d'Haiti 1859-1867).jpg|Fabre Geffrard File:Charle
 
 United States occupation (1915–34)
 
-Occupation_of_Haiti.jpg American_Marines_In_1915_defending_the_entrance_gate_in_Cap-Haitian_-_34510.jpg Marines'_base_in_Cap-Haïtien.jpg Inauguration_du_Mausolée_de_Pétion_et_de_Dessalines.jpg Bread_market,_St._Michel_(Haiti)_(15629128676).jpg
-
 In 1915 the United States, responding to complaints to President Woodrow Wilson from American banks to which Haiti was deeply in debt, occupied the country. The occupation of Haiti lasted until 1934. The US occupation was resented by Haitians as a loss of sovereignty and there were revolts against US forces. Reforms were carried out despite this.
 
 Under the supervision of the United States Marines, the Haitian National Assembly elected Philippe Sudré Dartiguenave president. He signed a treaty that made Haiti a _de jure_ US protectorate, with American officials assuming control over the Financial Advisory, Customs Receivership, the Constabulary, the Public Works Service, and the Public Health Service for a period of ten years. The principal instrument of American authority was the newly created _Gendarmerie d'Haïti_, commanded by American officers. In 1917, at the demand of US officials, the National Assembly was dissolved, and officials were designated to write a new constitution, which was largely dictated by officials in the US State Department and US Navy Department. Franklin D. Roosevelt, Under-Secretary for the Navy in the Wilson administration, claimed to have personally written the new constitution. This document abolished the prohibition on foreign ownership of land – the most essential component of Haitian law. When the newly elected National Assembly refused to pass this document and drafted one of its own preserving this prohibition, it was forcibly dissolved by _Gendarmerie_ commandant Smedley Butler. This constitution was approved by a plebiscite in 1919, in which less than 5% of the population voted. The US State Department authorized this plebiscite presuming that "the people casting ballots would be 97% illiterate, ignorant in most cases of what they were voting for."[43]
@@ -190,7 +184,7 @@ The transition government was left with a better infrastructure, public health, 
 
 Elections and coups (1934–57)
 
-Stenio_Vincent_portrait.jpg]]
+]]
 
 Vincent's presidency (1934–41)
 
@@ -200,7 +194,7 @@ Under Calixte the majority of Garde personnel had adhered to the doctrine of pol
 
 Lescot's presidency (1941–46)
 
-Elie_Lescot_portrait.jpg]]
+]]
 
 In 1941 Vincent showed every intention of standing for a third term as president, but after almost a decade of disengagement, the United States made it known that it would oppose such an extension. Vincent accommodated the Roosevelt administration and handed power over to Elie Lescot.[56]
 
@@ -212,15 +206,13 @@ In January 1946, events came to a head when Lescot jailed the Marxist editors of
 
 Revolution of 1946
 
-"TOGETHER_AGAIN_FOR_FREEDOM^"_-_NARA_-_535669.tif
-
 The Revolution of 1946 was a novel development in Haiti's history, as the Garde assumed power as an institution, not as the instrument of a particular commander. The members of the junta, known as the Military Executive Committee (Comité Exécutif Militaire), were Garde commander Colonel Franck Lavaud, Major Antoine Levelt, and Major Paul E. Magloire, commander of the Presidential Guard. All three understood Haiti's traditional way of exercising power, but they lacked a thorough understanding of what would be required to make the transition to an elected civilian government. Upon taking power, the junta pledged to hold free elections. The junta also explored other options, but public clamor, which included public demonstrations in support of potential candidates, eventually forced the officers to make good on their promise.[60]
 
 Haiti elected its National Assembly in May 1946. The Assembly set 16 August 1946, as the date on which it would select a president. The leading candidates for the office—all of whom were black—were Dumarsais Estimé, a former school teacher, assembly member, and cabinet minister under Vincent; Félix d'Orléans Juste Constant, leader of the Haitian Communist Party (Parti Communiste d'Haïti—PCH); and former Garde commander Démosthènes Pétrus Calixte, who stood as the candidate of a progressive coalition that included the Worker Peasant Movement (Mouvement Ouvrier Paysan—MOP). MOP chose to endorse Calixte, instead of a candidate from its own ranks, because the party's leader, Daniel Fignolé, was only thirty-three years old—too young to stand for the nation's highest office. Estimé, politically the most moderate of the three, drew support from the black population in the north, as well as from the emerging black middle class. The leaders of the military, who would not countenance the election of Juste Constant and who reacted warily to the populist Fignolé, also considered Estimé the safest candidate. After two rounds of polling, legislators gave Estimé the presidency.[61]
 
 Estimé's presidency (1946–50)
 
-Dumarsais_estime_portrait.jpg ]] Estimé's election represented a break with Haiti's political tradition. Although he was reputed to have received support from commanders of the Garde, Estimé was a civilian. Of humble origins, he was passionately anti-elitist and therefore generally antimulatto. He demonstrated, at least initially, a genuine concern for the welfare of the people. Operating under a new constitution that went into effect in November 1946, Estimé proposed, but never secured passage of, Haiti's first social- security legislation. He did, however, expand the school system, encourage the establishment of rural cooperatives, raise the salaries of civil servants, and increase the representation of middle-class and lower-class blacks in the public sector. He also attempted to gain the favor of the Garde—renamed the Haitian Army (Armée d'Haïti) in March 1947—by promoting Lavaud to brigadier general and by seeking United States military assistance.[62]
+]] Estimé's election represented a break with Haiti's political tradition. Although he was reputed to have received support from commanders of the Garde, Estimé was a civilian. Of humble origins, he was passionately anti-elitist and therefore generally antimulatto. He demonstrated, at least initially, a genuine concern for the welfare of the people. Operating under a new constitution that went into effect in November 1946, Estimé proposed, but never secured passage of, Haiti's first social- security legislation. He did, however, expand the school system, encourage the establishment of rural cooperatives, raise the salaries of civil servants, and increase the representation of middle-class and lower-class blacks in the public sector. He also attempted to gain the favor of the Garde—renamed the Haitian Army (Armée d'Haïti) in March 1947—by promoting Lavaud to brigadier general and by seeking United States military assistance.[62]
 
 Estimé eventually fell victim to two of the time-honored pitfalls of Haitian rule: elite intrigue and personal ambition. The elite had a number of grievances against Estimé. Not only had he largely excluded them from the often lucrative levers of government, but he also enacted the country's first income tax, fostered the growth of labor unions, and suggested that vodou be considered as a religion equivalent to Roman Catholicism—a notion that the Europeanized elite abhorred. Lacking direct influence in Haitian affairs, the elite resorted to clandestine lobbying among the officer corps. Their efforts, in combination with deteriorating domestic conditions, led to a coup in May 1950.[63]
 
@@ -228,7 +220,7 @@ To be sure, Estimé had hastened his own demise in several ways. His nationaliza
 
 Magloire's presidency (1950–56)
 
-Paul_Magloire_portrait.jpg ]]
+]]
 
 The power balance within the junta shifted between 1946 and 1950. Lavaud was the preeminent member at the time of the first coup, but Magloire, now a colonel, dominated after Estimé's overthrow. When Haiti announced that its first direct elections (all men twenty-one or over were allowed to vote) would be held on 8 October 1950, Magloire resigned from the junta and declared himself a candidate for president. In contrast to the chaotic political climate of 1946, the campaign of 1950 proceeded under the implicit understanding that only a strong candidate backed by both the army and the elite would be able to take power. Facing only token opposition, Magloire won the election and assumed office on 6 December.[65]
 
@@ -241,7 +233,7 @@ The period between the fall of Magloire and the election of Duvalier in Septembe
 
 The Duvalier era (1957–86)
 
-Duvalier_(cropped).jpg in 1968 ]]
+in 1968 ]]
 
 'Papa Doc' (1957–71)
 
@@ -255,14 +247,10 @@ In 1971, Papa Doc entered into a 99-year contract with Don Pierson representing 
 
 'Baby Doc' (1971–86)
 
-Fleeing_Duvaliers.jpg
-
 On Duvalier's death in April 1971, power passed to his 19-year-old son Jean-Claude Duvalier (known as _"Baby Doc"_). Under Jean-Claude Duvalier, Haiti's economic and political condition continued to decline, although some of the more fearsome elements of his father's regime were abolished. Foreign officials and observers also seemed more tolerant toward Baby Doc, in areas such as human-rights monitoring, and foreign countries were more generous to him with economic assistance. The United States restored its aid program in 1971. In 1974, Baby Doc expropriated the Freeport Tortuga project and this caused the venture to collapse. Content to leave administrative matters in the hands of his mother, Simone Ovid Duvalier, while living as a playboy, Jean-Claude enriched himself through a series of fraudulent schemes. Much of the Duvaliers' wealth, amounting to hundreds of millions of dollars over the years, came from the Régie du Tabac (Tobacco Administration), a tobacco monopoly established by Estimé, which expanded to include the proceeds from all government enterprises and served as a slush fund for which no balance sheets were ever kept.[70] His marriage, in 1980, to a beautiful mulatto divorcée, Michèle Bennett, in a $3 million ceremony, provoked widespread opposition, as it was seen as a betrayal of his father's antipathy towards the mulatto elite. At the request of Michèle, Papa Doc's widow Simone was expelled from Haiti. Baby Doc's kleptocracy left the regime vulnerable to unanticipated crises, exacerbated by endemic poverty, most notably the epidemic of African swine fever virus—which, at the insistence of USAID officials, led to the slaughter of the creole pigs, the principal source of income for most Haitians; and the widely publicized outbreak of AIDS in the early 1980s. Widespread discontent in Haiti began in 1983, when Pope John Paul II condemned the regime during a visit, finally provoking a rebellion, and in February 1986, after months of disorder, the army forced Duvalier to resign and go into exile.
 
 
 The struggle for democracy (1986–present day)
-
-Fishing_village_in_Haiti.jpg Shopping_streetin_Haiti.jpg
 
 Transitional government (1986–90)
 
@@ -276,15 +264,11 @@ In December 1990, Jean-Bertrand Aristide, a liberation theology Roman Catholic (
 
 Military rule (1991–94)
 
-Port-au-Prince_airfield_seizure.jpg
-
 An estimated 3,000–5,000 Haitians were killed during the period of military rule. The coup created a large-scale exodus of refugees to the United States. The United States Coast Guard interdicted (in many cases, rescued) a total of 41,342 Haitians during 1991 and 1992. Most were denied entry to the United States and repatriated back to Haiti. Aristide has accused the United States of backing the 1991 coup.[75] In response to the coup, the United Nations Security Council passed Resolution 841 imposing international sanctions and an arms embargo on Haiti.
 
 On 16 February 1993, the ferry _Neptune_ sank, drowning an estimated 700 passengers. This was the worst ferry disaster in Haitian history.[76][77][78]
 
 The military regime governed Haiti until 1994, and according to some sources included drug trafficking led by Chief of National Police Michel François. Various initiatives to end the political crisis through the peaceful restoration of the constitutionally elected government failed. In July 1994, as repression mounted in Haiti and a civilian human rights monitoring mission was expelled from the country, the United Nations Security Council adopted United Nations Security Council Resolution 940, which authorized member states to use all necessary means to facilitate the departure of Haiti's military leadership and to restore Haiti's constitutionally elected government to power.
-
-DD-SD-99-03743.jpg
 
 The return of Aristide (1994–96)
 
@@ -292,9 +276,7 @@ In mid-September 1994, with U.S. troops prepared to enter Haiti by force for Ope
 
 Preval's first Presidency (1996–2001)
 
-U.S._Coast_Guard_intercepting_Haitian_refugees.GIF
-
-René_Préval_on_March_31,_2010.jpg]]
+]]
 
 In late 1996, Aristide broke with Préval and formed a new political party, the Lavalas Family (Fanmi Lavalas, FL), which won elections in April 1997 for one-third of the Senate and local assemblies, but these results were not accepted by the government. The split between Aristide and Préval produced a dangerous political deadlock, and the government was unable to organize the local and parliamentary elections due in late 1998. In January 1999, Préval dismissed legislators whose terms had expired – the entire Chamber of Deputies and all but nine members of the Senate, and Préval then ruled by decree.
 
@@ -308,7 +290,7 @@ Aristide spent years negotiating with the Convergence Démocratique on new elect
 
 The 2004 coup d'état
 
-Anti-Aristide protests in January 2004 led to violent clashes in Port-au-Prince, causing several deaths. In February, a revolt broke out in the city of Gonaïves, which was soon under rebel control. The rebellion then began to spread, and Cap-Haïtien, Haiti's second-largest city, was captured. A mediation team of diplomats presented a plan to reduce Aristide's power while allowing him to remain in office until the end of his constitutional term. Although Aristide accepted the plan, it was rejected by the opposition, which mostly consisted of Haitian businessmen and former members of the army (who sought to reinstate the military following Aristide's disbandment of it). Port-au-Prince_med.jpg On 29 February 2004, with rebel contingents marching towards Port-au-Prince, Aristide departed from Haiti. Aristide insists that he was essentially kidnapped by the U.S., while the U.S. State Department maintains that he resigned from office. Aristide and his wife left Haiti on an American airplane, escorted by American diplomats and military personnel, and were flown directly to Bangui, capital of the Central African Republic, where he stayed for the following two weeks, before seeking asylum in a less remote location. This event was later characterized by Aristide as a kidnapping.
+Anti-Aristide protests in January 2004 led to violent clashes in Port-au-Prince, causing several deaths. In February, a revolt broke out in the city of Gonaïves, which was soon under rebel control. The rebellion then began to spread, and Cap-Haïtien, Haiti's second-largest city, was captured. A mediation team of diplomats presented a plan to reduce Aristide's power while allowing him to remain in office until the end of his constitutional term. Although Aristide accepted the plan, it was rejected by the opposition, which mostly consisted of Haitian businessmen and former members of the army (who sought to reinstate the military following Aristide's disbandment of it). On 29 February 2004, with rebel contingents marching towards Port-au-Prince, Aristide departed from Haiti. Aristide insists that he was essentially kidnapped by the U.S., while the U.S. State Department maintains that he resigned from office. Aristide and his wife left Haiti on an American airplane, escorted by American diplomats and military personnel, and were flown directly to Bangui, capital of the Central African Republic, where he stayed for the following two weeks, before seeking asylum in a less remote location. This event was later characterized by Aristide as a kidnapping.
 
 Though this has never been proven, many observers in the press and academia believe that the US has not provided convincing answers to several of the more suspicious details surrounding the coup, such as the circumstances under which the US obtained Aristide's purported letter of "resignation" (as presented by the US) which, translated from Kreyòl, may not have actually read as a resignation.[81]
 
@@ -340,17 +322,17 @@ In the spring of 2008, Haitians demonstrated against rising food prices. In some
 
 Earthquake 2010
 
-Haitian_national_palace_earthquake.jpg collapsed]] On 12 January 2010, Haiti suffered a devastating earthquake, magnitude 7.0 with a death toll estimated by the Haitian government at over 300,000, and by non-Haitian sources from 50,000 to 220,000. Aftershocks followed, including one of magnitude 5.9. The capital city, Port-au-Prince, was effectively leveled. A million Haitians were left homeless, and hundreds of thousands starved. The earthquake caused massive devastation, with most buildings crumbled, including Haiti's presidential palace. The enormous death toll made it necessary to bury the dead in mass graves. Most bodies were unidentified and few pictures were taken, making it impossible for families to identify their loved ones. The spread of disease was a major secondary disaster. Many survivors were treated for injuries in emergency makeshift hospitals, but many more died of gangrene, malnutrition, and infectious diseases.[100]
+collapsed]] On 12 January 2010, Haiti suffered a devastating earthquake, magnitude 7.0 with a death toll estimated by the Haitian government at over 300,000, and by non-Haitian sources from 50,000 to 220,000. Aftershocks followed, including one of magnitude 5.9. The capital city, Port-au-Prince, was effectively leveled. A million Haitians were left homeless, and hundreds of thousands starved. The earthquake caused massive devastation, with most buildings crumbled, including Haiti's presidential palace. The enormous death toll made it necessary to bury the dead in mass graves. Most bodies were unidentified and few pictures were taken, making it impossible for families to identify their loved ones. The spread of disease was a major secondary disaster. Many survivors were treated for injuries in emergency makeshift hospitals, but many more died of gangrene, malnutrition, and infectious diseases.[100]
 
 The Martelly presidency (2011–2016)
 
-Michel_Martelly_on_April_20,_2011.jpg ]]
+]]
 
 On 4 April 2011, a senior Haitian official announced that Michel Martelly had won the second round of the election against candidate Mirlande Manigat.[101] Michel Martelly also known by his stage name "Sweet Micky" is a former musician and businessman. Martelly's administration was met with both anger and acclaim. On one hand, he and his associates were accused of being involved in money laundering and various other crimes resulting in countless demonstrations (which on many occasions would become violent). Many criticized him for the slow progression of the reconstruction phase following the recent quake, or for taking credit for projects started in previous administrations. Some disliked him for his vulgar language and risque past which didn't seem to completely go away upon taking presidency. On the other hand, many believe that he was the most productive Haitian president since the Duvalier era. Under his administration, the majority of those left homeless following the quake were given new housing. He offered free education programs to large portions of the Haitian youth as well as an income program for Haitian mothers and students. The administration launched a massive reconstruction program involving principle administration district, Champs-de-Mars, that would modernize and rehabilitate various government buildings, public places, and parks. Michel Martelly put emphasis on foreign investment and business with his slogan "Haiti is Open for Business". Perhaps one of the more major contributions made for the revitalization of the Haitian economy was their push for tourists. Minister of Tourism, Stéphanie Villedrouin, embarked on various competitive tourist projects, including the development of Ile-a-Vache, Jacmel, the north, south-west, and Cotes-des-Arcadins. Tourism had risen significantly between 2012 and 2016.[102] On 8 February 2016, Michel Martelly stepped down at the end of his term without a successor in place.[103]
 
 The Moise presidency (2017– )
 
-Jovenel_Moise.jpg ]] After the 2016 elections following Hurricane Mathew, Haitian voters re-visited the polls and elected Martelly's appointed successor, Jovenel Moise, as president. He was inaugurated on the grounds where the national palace had been on February 7, 2017. He went on to start the "Caravan de Changement" project, which aims to revitalize the industries and infrastructure of Haiti's less popular areas.
+]] After the 2016 elections following Hurricane Mathew, Haitian voters re-visited the polls and elected Martelly's appointed successor, Jovenel Moise, as president. He was inaugurated on the grounds where the national palace had been on February 7, 2017. He went on to start the "Caravan de Changement" project, which aims to revitalize the industries and infrastructure of Haiti's less popular areas.
 
 
 See also

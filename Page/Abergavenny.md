@@ -22,7 +22,7 @@ Remains of the walls of this fort were discovered west of the castle when excava
 
 11th century
 
-Abergaveny.jpg (Little Skirrid) from the castle ruins]] St_Mary's_Priory_Church,_Abergavenny_-_geograph.org.uk_-_1328170.jpg Abergavenny grew as a town in early Norman times under the protection of the Lords of Abergavenny. The first Baron was Hamelin de Balun, from Ballon, a small town and castle in Maine-Anjou called "Gateway to Maine", near Le Mans, today in the Sarthe département of France. He founded the Benedictine priory, now the Priory Church of St Mary, in the late 11th century. The Priory belonged originally to the Benedictine foundation of St. Vincent Abbaye at Le Mans. It was subsequently endowed by William de Braose, with a tithe of the profits of the castle and town.[14] The church contains some unique alabaster effigies, church monuments and unique medieval wood carving, such as the Tree of Jesse.[15]
+(Little Skirrid) from the castle ruins]] Abergavenny grew as a town in early Norman times under the protection of the Lords of Abergavenny. The first Baron was Hamelin de Balun, from Ballon, a small town and castle in Maine-Anjou called "Gateway to Maine", near Le Mans, today in the Sarthe département of France. He founded the Benedictine priory, now the Priory Church of St Mary, in the late 11th century. The Priory belonged originally to the Benedictine foundation of St. Vincent Abbaye at Le Mans. It was subsequently endowed by William de Braose, with a tithe of the profits of the castle and town.[14] The church contains some unique alabaster effigies, church monuments and unique medieval wood carving, such as the Tree of Jesse.[15]
 
 12th and 13th centuries
 
@@ -30,7 +30,7 @@ Owing to its geographical location, the town was frequently embroiled in the bor
 
 15th to 17th centuries
 
-Abergavenny_and_Holy_Mountain,_Wales,_1890-1900.jpg in the 1890s]] Owain Glyndŵr attacked Abergavenny in 1404. According to popular legend, his raiders gained access to the walled town with the aid of a local woman who sympathised with the rebellion, letting a small party in via the Market Street gate at midnight. They were able to open the gate and allow a much larger party who set fire to the town and plundered its churches and homes leaving Abergavenny Castle intact. Market Street has been referred to as "Traitors' Lane" thereafter. In 1404 Abergavenny was declared its own nation by Ieuan ab Owain Glyndŵr, illegitimate son of Owain Glyndŵr. The arrangement lasted approximately two weeks.
+in the 1890s]] Owain Glyndŵr attacked Abergavenny in 1404. According to popular legend, his raiders gained access to the walled town with the aid of a local woman who sympathised with the rebellion, letting a small party in via the Market Street gate at midnight. They were able to open the gate and allow a much larger party who set fire to the town and plundered its churches and homes leaving Abergavenny Castle intact. Market Street has been referred to as "Traitors' Lane" thereafter. In 1404 Abergavenny was declared its own nation by Ieuan ab Owain Glyndŵr, illegitimate son of Owain Glyndŵr. The arrangement lasted approximately two weeks.
 
 At the Dissolution of the Monasteries in 1541, the priory's endowment went towards the foundation of a free grammar school, King Henry VIII Grammar School, the site itself passing to the Gunter family.[18]
 
@@ -42,7 +42,7 @@ The right to hold two weekly markets and three yearly fairs, beginning in the 13
 
 19th and 20th centuries
 
-Abergavenny_boys_national_school_(3374847).jpg Abergavenny railway station, situated southeast of the town centre, opened on 2 January 1854 as part of the Newport, Abergavenny and Hereford Railway. The London North Western Railway sponsored the construction of the railway linking Newport station to Hereford station. The line was taken over by the West Midland Railway in 1860 before becoming part of the Great Western Railway in 1863. The station is on the Welsh Marches Line and is mostly served by Transport for Wales services. A railway line also ran up the valley towards Brynmawr and to Merthyr Tydfil. This line was closed following the Beeching cuts and the line to Clydach Gorge is now a cycle track and footpath.
+Abergavenny railway station, situated southeast of the town centre, opened on 2 January 1854 as part of the Newport, Abergavenny and Hereford Railway. The London North Western Railway sponsored the construction of the railway linking Newport station to Hereford station. The line was taken over by the West Midland Railway in 1860 before becoming part of the Great Western Railway in 1863. The station is on the Welsh Marches Line and is mostly served by Transport for Wales services. A railway line also ran up the valley towards Brynmawr and to Merthyr Tydfil. This line was closed following the Beeching cuts and the line to Clydach Gorge is now a cycle track and footpath.
 
 The Baker Street drill hall was completed in 1896.[23] Adolf Hitler's deputy Rudolf Hess was kept under escort at Maindiff Court Hospital during the Second World War, after his flight to Britain.[24]
 
@@ -78,8 +78,6 @@ Abergavenny is also the home of Abergavenny RFC, a rugby union club founded in 1
 
 
 Markets and fairs
-
-Abergavenny_Butter_Market_-_geograph.org.uk_-_1313202.jpg
 
 Cattle market
 
@@ -120,13 +118,13 @@ In popular culture
 
 Buildings of note
 
-Grade_II_listed_Church_of_the_Holy_Trinity,_Abergavenny_-_geograph.org.uk_-_2723503.jpg Abergavenny Castle is located strategically just south of the town centre overlooking the River Usk. It was built in about 1067 by the Norman baron Hamelin de Ballon to guard against incursions by the Welsh from the hills to the north and west.[53] All that remains is defensive ditches and the ruins of the stone keep, towers, and part of the curtain wall. It is a Grade I listed building.[54]
+Abergavenny Castle is located strategically just south of the town centre overlooking the River Usk. It was built in about 1067 by the Norman baron Hamelin de Ballon to guard against incursions by the Welsh from the hills to the north and west.[53] All that remains is defensive ditches and the ruins of the stone keep, towers, and part of the curtain wall. It is a Grade I listed building.[54]
 
 The Church in Wales church of the Holy Trinity is in the Diocese of Monmouth. Holy Trinity Church was consecrated by the Bishop of Llandaff on 6 November 1840. It was originally built as a chapel to serve the adjacent almshouses and the nearby school. It has been Grade II listed since January 1974.
 
 Other listed buildings in the town include the parish Church of St Mary, a medieval and Victorian building that was originally the church of the Benedictine priory founded in Abergavenny before 1100; the sixteenth century tithe barn near St Mary's; the Victorian Church of the Holy Trinity; the Grade II* listed St John's Masonic Lodge; the Museum; the Public Library; the Town Hall; and the remains of the town walls behind Neville Street.[55]
 
-From 1851, the Monmouthshire Lunatic Asylum, later Pen-y-Fal Hospital, a psychiatric hospital, stood on the outskirts of Abergavenny. Between 1851 and 1950, over 3,000 patients died at the hospital. A memorial plaque for the deceased has now been placed at the site. After closure in the 1990s, its buildings and grounds were redeveloped as a luxury housing development comprising houses as well as apartments.[56] Some psychiatric services are now administered from Maindiff Court Hospital on the outskirts of the town, close to the foot of the Skirrid mountain. The hospital is housed in historic buildings, and is known for Rudolf Hess who was incarcerated here during WW2. Abergavenny_panorama.jpg in the centre with its characteristic notched outline (2014)]]
+From 1851, the Monmouthshire Lunatic Asylum, later Pen-y-Fal Hospital, a psychiatric hospital, stood on the outskirts of Abergavenny. Between 1851 and 1950, over 3,000 patients died at the hospital. A memorial plaque for the deceased has now been placed at the site. After closure in the 1990s, its buildings and grounds were redeveloped as a luxury housing development comprising houses as well as apartments.[56] Some psychiatric services are now administered from Maindiff Court Hospital on the outskirts of the town, close to the foot of the Skirrid mountain. The hospital is housed in historic buildings, and is known for Rudolf Hess who was incarcerated here during WW2. in the centre with its characteristic notched outline (2014)]]
 
 
 Twinning

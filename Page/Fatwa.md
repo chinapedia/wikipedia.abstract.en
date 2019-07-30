@@ -23,8 +23,6 @@ In pre-modern Islam
 
 Process of _iftāʾ_
 
-Ein_Mufti,_oder_Türkischer_Pfaff.tif
-
 The legal theory of the fatwa was formulated in the classical texts of _usul al-fiqh_ (principles of jurisprudence), while more practical guidelines for muftis were found in manuals called _adab al-mufti_ or _adab al-fatwa_ (etiquette of the mufti/fatwa).
 
 Fatwas are issued in response to a query. They can range from a simple yes/no answer to a book-length treatise. A short fatwa may state a well-known point of law in response to a question from a lay person, while a "major" fatwa may give a judgment on an unprecedented case, detailing the legal reasoning behind the decision. Queries to muftis were supposed to address real and not hypothetical situations and be formulated in general terms, leaving out names of places and people. Since a mufti was not supposed to inquire into the situation beyond the information included in the query, queries regarding contentious matters were often carefully constructed to elicit the desired response. A mufti's understanding of the query commonly depended on their familiarity with local customs and colloquialisms. In theory, if the query was unclear or not sufficiently detailed for a ruling, the mufti was supposed to state these caveats in their response.
@@ -46,8 +44,6 @@ Fatwas have played three important roles in the classical legal system:
 -   elaborating substantive Islamic law, particularly though a genre of legal literature developed by author-jurists who collected fatwas of prominent muftis and integrated them into books.
 
 Before the rise of modern education, the study of law was a centerpiece of advanced education in the Islamic world. A relatively small class of legal scholars controlled the interpretation of sharia on a wide range of questions essential to the society, ranging from ritual to finance. It was considered a requirement for qualified jurists to communicate their knowledge through teaching or issuing fatwas. The ideal mufti was conceived as an individual of scholarly accomplishments and exemplary morals, and muftis were generally approached with the respect and deference corresponding to these expectations.
-
-Tazkarat_al-Fuqaha.jpg
 
 Judges generally sought an opinion from a mufti with higher scholarly authority than themselves for difficult cases or potentially controversial verdicts. Fatwas were routinely upheld in courts, and if a fatwa was disregarded, it was usually because another fatwa supporting a different position was judged to be more convincing. If a party in a dispute was not able to obtain a fatwa supporting their position, they would be unlikely to pursue their case in court, opting for informal mediation instead, or abandoning their claim altogether. Sometimes muftis could be petitioned for a fatwa relating to a court judgement that has already been passed, acting as an informal appeals process, but the extent of this practice and its mechanism varied across history. While in most of the Islamic world judges were not required to consult muftis by any political authority, in Muslim Spain this practice was mandatory, so that a judicial decision was considered invalid without prior approval by a legal specialist.
 
@@ -86,7 +82,7 @@ Institutions
 
 Before the 11th century CE, anyone who possessed scholarly recognition as an Islamic jurist could issue fatwas. Starting around that time, however, the public office of mufti began to appear alongside the private issuing of fatwas. In Khurasan, the rulers appointed a head of the local ulama, called _shaykh al-Islam_, who also functioned as the chief mufti. The Mamluks appointed four muftis, one for each of the four Sunni madhhabs, to appellate courts in provincial capitals. The Ottomans organized muftis into a hierarchical bureaucracy with a chief mufti of the empire called _shaykh al-islam_ at the top. The Ottoman _shaykh al-Islam_ (Turk. _şeyhülislam_), was among the most powerful state officials. Scribes reviewed queries directed to Ottoman muftis and rewrote them to facilitate issuing of fatwas. In Mughal India and Safavid Iran the chief mufti had the title of _sadr_.
 
-Samarkand,_Registan,_Ulugbek_Medressa_(6238565020).jpg (est. 1422)]]
+(est. 1422)]]
 
 For the first few centuries of Islam, muftis were educated in informal study circles, but beginning in the 11th and 12th centuries, the ruling elites began to establish institutions of higher religious learning known as madrasas in an effort to secure support and cooperation of the _ulema_ (religious scholars). Madrasas, which were primarily devoted to the study of law, soon multiplied throughout the Islamic world, helping to spread Islamic learning beyond urban centers and to unite diverse Islamic communities in a shared cultural project.
 
@@ -107,7 +103,7 @@ In the modern era
 
 Anti-colonial fatwas
 
-Tobacco_Protest_Fatwa_issued_by_Mirza_Mohammed_Hassan_Husseini_Shirazi_-_1890.jpg fatwa issued by Mirza Shirazi]]
+fatwa issued by Mirza Shirazi]]
 
 Early in the era of Western colonialism, several fatwas were issued drawing on the classical legal distinction between lands under Islamic rule (_dar al-Islam_) and lands of war (_dar al-harb_) or unbelief (_dar al-kufr_). These fatwas classified countries under European domination as lands of war or unbelief and invoked the legal theory obliging Muslims to wage war against the rulers of these lands or emigrate. A number of such fatwas were issued during the 19th century, including in 1803 by Shah Abdul Aziz in India and in 1804 by Usman dan Fodio in West Africa. The unrealistic nature of these fatwas was soon recognized and in 1870 the _ulama_ of northern India issued fatwas stating that Indian Muslims were not obliged to rebel or emigrate. A similar doctrinal controversy occurred in French-ruled Algeria. The fatwas solicited by the Algerian anti-colonial leader Abd al-Qadir differed in their technical detail, while the French authorities obtained fatwas from local muftis, stating that Muslims living under the rule of unbelievers were not obligated to fight or emigrate as long as they were granted religious freedom by the authorities.
 
@@ -132,8 +128,6 @@ The most notorious result of disregarding classical jurisprudence are the fatwas
 New forms of ijtihad have also given rise to fatwas that support such notions as gender equality and banking interest, which are at variance with classical jurisprudence. This is commonly accomplished by application of various traditional legal doctrines such as the _maqasid_ (objectives) of sharia, _maslaha_ (public interest) and _darura_ (necessity), in place of adhering to the letter of scriptural sources. The main argument for this approach is that Islamic law is meant to serve the interest of Muslims and make their lives easier (_taysīr_). This form of ijtihad is particularly prominent in _fiqh al-aqallīyāt_ (minority jurisprudence), a recently developed branch of Islamic jurisprudence that aims to address the needs of Muslims living in countries with a non-Muslim majority. Its opponents object that sharia is supposed to determine the interests of Muslims, and not the other way around.
 
 Political fatwas and controversies
-
-La_déclaration_de_la_Guerre_Sainte_à_Konstantinyé_en_novembre_1914-_Photo.jpg
 
 On November 14, 1914 the Ottoman sultan proclaimed a jihad to mark the official entry of the Ottoman Empire into World War I. The proclamation was supported by a fatwa issued by the Shaykh al-Islam. Contrary to the German hopes that the proclamation would trigger Muslim revolts in British and French colonies, it was either rejected or quietly ignored by their Muslim authorities. It also quickly gave rise to a heated academic debate in Europe. The controversy was sparked by an 1915 article by the prominent Dutch orientalist C. Snouck Hurgronje, titled _Heilige Oorlog [Holy War] Made in Germany_. In it Hurgronje denounced his German colleagues, who he felt instigated the jihad proclamation in an irresponsible appeal to an antiquated concept that threatened the project of modernizing the Muslim world. The article was widely circulated in an English translation and its accuracy continues to be debated by historians, who acknowledge both the German influence and the internal political calculations of the Ottoman government underlying the proclamation.
 

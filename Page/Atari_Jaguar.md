@@ -48,8 +48,6 @@ The filing also confirmed the theory that Atari had given up on the Jaguar in la
 
 Technical specifications
 
-Atari-Jaguar-Motherboard-L.jpg
-
 From the Jaguar Software Reference manual, page 1:[29]
 
   Jaguar is a custom chip set primarily intended to be the heart of a very high-performance games/leisure computer. It may also be used as a graphics accelerator in more complex systems, and applied to workstation and business uses. As well as a general purpose CPU, Jaguar contains four processing units. These are the Object Processor, Graphics Processor, Blitter, and Digital Sound Processor. Jaguar provides these blocks with a 64-bit data path to external memory devices, and is capable of a very high data transfer rate into external dynamic RAM.
@@ -77,7 +75,7 @@ Processors
 
 Other Jaguar features
 
-Atari-Jaguar-Console-Back.jpg Atari Jaguar]]
+Atari Jaguar]]
 
 -   RAM: 2 MB on a 64-bit bus using 4 16-bit fast page mode DRAMs (80 ns)[31]
 -   Storage: ROM cartridges – up to 6 MB
@@ -127,7 +125,7 @@ Game library
 
 Reception
 
-Atari-Jaguar-Controller.jpg Reviewing the Jaguar just a few weeks prior to its launch, _GamePro_ gave it a "thumbs sideways". They praised the power of the hardware but criticized the controller, and were dubious of how the software lineup would turn out, commenting that Atari's failure to secure support from key third party publishers such as Capcom was a bad sign. They concluded that "Like the 3DO, the Jaguar is a risky investment – just not quite as expensive."[62]
+Reviewing the Jaguar just a few weeks prior to its launch, _GamePro_ gave it a "thumbs sideways". They praised the power of the hardware but criticized the controller, and were dubious of how the software lineup would turn out, commenting that Atari's failure to secure support from key third party publishers such as Capcom was a bad sign. They concluded that "Like the 3DO, the Jaguar is a risky investment – just not quite as expensive."[62]
 
 The Jaguar won _GameFan_'s "Best New System" award for 1993.[63]
 
@@ -138,7 +136,7 @@ In 2006 IGN editor Craig Harris rated the standard Jaguar controller as the wors
 
 Legacy
 
-EB_Games_Expo_2015_-_Atari_Jaguar.JPG, with _Zool 2_ available to play.]] After the Atari Corporation properties were bought out by Hasbro Interactive in the late 1990s, Hasbro released the rights to the Jaguar, declaring the console an open platform and opening the doors for homebrew development.[76][77] A few developers, including Telegames[78] and Songbird Productions, released previously unfinished materials from the Jaguar's past and several brand new titles to satisfy the system's cult following.
+, with _Zool 2_ available to play.]] After the Atari Corporation properties were bought out by Hasbro Interactive in the late 1990s, Hasbro released the rights to the Jaguar, declaring the console an open platform and opening the doors for homebrew development.[76][77] A few developers, including Telegames[78] and Songbird Productions, released previously unfinished materials from the Jaguar's past and several brand new titles to satisfy the system's cult following.
 
 In the United Kingdom in 2001, a deal was struck between Telegames and retailer Game to bring the Jaguar to Game's retail outlets. The machine was initially sold for £29.99 brand new and software prices ranged between £9.99 for more common games such as _Doom_ and _Ruiner Pinball_, and £39.99 for more sought-after releases such as _Defender 2000_ and _Checkered Flag_. The machine had a presence in the stores until 2007 when remaining consoles were sold off for £9.99 and games were sold for as low as 97p.
 

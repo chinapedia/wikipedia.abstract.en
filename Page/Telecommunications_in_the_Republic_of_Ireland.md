@@ -16,7 +16,7 @@ Ireland's telecommunications network is a modern digital system connected by an 
 
 Several companies operate national fibre optic networks including Eir, BT Ireland, ESB Group and Virgin Media Ireland. Eir's fibre network is the most extensive covering most parts of the country with 12,000 km of fibre routes (>40,000 km of fibres)[4] Eir's Next Generation Network upgrade rolled out Dense Wavelength Division Multiplexing (DWDM) which is capable of delivering up to 320 Gbit/s along a single fibre route.[5] This upgrade also sees Eir's core infrastructure moving to an all-IP network. It has major aggregation nodes at 140 locations around Ireland and onward fibre connections to another 470 central office sites.
 
-Ireland also has major connections to multiple international fibre optic networks, an example of which is GTT Communications. Hibernia_Atlantic-Map.png submarine cable system]]
+Ireland also has major connections to multiple international fibre optic networks, an example of which is GTT Communications. submarine cable system]]
 
 94 Irish towns and cities also have access to publicly owned, carrier-neutral metropolitan fibre networks managed by e|net.[6] These networks can be used by any licensed Irish telecommunications operator to provide commercial or residential end users with products.
 
@@ -91,7 +91,7 @@ Established in 1998,[30] the Internet Service Providers Association of Ireland (
 
 Radio and television
 
-RTÉ_logo.svg logo]]
+logo]]
 
 Infrastructure
 

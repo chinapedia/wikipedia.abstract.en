@@ -11,7 +11,7 @@ It was invaded by the Moors and held until the 11th century, after which it beca
 
 Kingdom of Portugal
 
-Santa_Joana,_Princesa_de_Portugal.jpg, daughter of King Afonso V]]
+, daughter of King Afonso V]]
 
 Later, King João I, on the advice of his son Pedro, who was the donatary of Aveiro, requested the construction of fortification walls.
 
@@ -21,11 +21,9 @@ The Princess St. Joana, daughter of Afonso V lived in Aveiro, entering the conve
 
 The first charter (foral) was conceded by Manuel I of Portugal on 4 August 1515, as indicated in the _Livro de Leituras Novas de Forais da Estremadura_. Its geographic position along the Aveiro River had always helped it to subsist and grow, supported by salt market, fishing and maritime commercial development. By the beginning of the 15th century, there already existed a great wall around the historical centre, intonating the significance of the community and growth of the population.[7] This included the founding of many religious institutions and their supports, which assisted during the 17th and 18th century crises associated with silt in the waterway.[8] In the winter of 1575, a terrible storm closed the entrance to its port, ending a thriving trade in metals and tiles, and creating a reef barrier at the Atlantic Ocean. The walls were subsequently demolished and used to create the docks around the new sand bar.
 
-Execução_do_Duque_de_Aveiro_e_do_Marquês_de_Tavora.jpg]]
+]]
 
 Between the 16th and 17th centuries, the river's instability at the mouth (between the Ria and open ocean) resulted in the closure of the canal, impeding the use of the port of Aveiro, and creating stagnation in the waters of the lagoon. This blow to the economy created a social and economic crisis, and resulted in the decrease in the population and emigration. It was at this time that the Church of the Miserícordia was constructed, during the Philippine Dynastic union.
-
-Jose_Estevao_Magalhaes.jpg
 
 In 1759, King José I elevated the town to the status of city, a few months after condemning the Duke of Aveiro (a title established in 1547 by João III), José Mascarenhas, to death. As a result, Aveiro became known as Nova Bragança: it was later abandoned much later, and returned to Aveiro. In 1774, by request of King José, Pope Clement XIV instituted the Diocese of Aveiro.
 
@@ -36,7 +34,7 @@ The municipality was elevated to the status of town, centered on the its princip
 
 Geography
 
-Aveiro_bridge_over_canal.jpg Located on the shore of the Atlantic Ocean, Aveiro is an industrial city with an important seaport.
+Located on the shore of the Atlantic Ocean, Aveiro is an industrial city with an important seaport.
 
 The seat of the municipality is the city of Aveiro, comprising the five urban parishes with about 73,003 inhabitants. The city of Aveiro is also the capital of the District of Aveiro, and the largest city in the Baixo Vouga intermunicipal community subregion.
 
@@ -47,8 +45,6 @@ Climate
 Aveiro has a warm-summer mediterranean climate[11] influenced by its proximity to the Atlantic Ocean. The maritime influence causes a narrow temperature range resulting in summers averaging around in daytime temperatures, considerably lower than inland areas on the same parallel on the Iberian Peninsula. As typical of mediterranean climates, summers are dry and winters are wet. A coastal feature is that frosts are rare and never severe. The hottest temperature recorded was .[12] Temperatures above are extremely occasional, and averages only a couple of times per annum.[13]
 
 Demography
-
-Aveiro_freguesias_2013.svg
 
   Population of Aveiro Municipality (1801 – 2008)
   -------------------------------------------------
@@ -132,7 +128,7 @@ Regional gateways include air service through the Aeródromo de Aveiro/São Jaci
 
 Rail
 
-Aveiro_Train_station.jpg Rail service includes service by Alfa Pendular (between Lisbon and Braga; Lisbon and Oporto; Faro and Oporto) and Intercity (between Lisbon and Oporto as well as Lisbon and Guimarães) trains; suburban links through the Urbanos do Porto and, also, the Linha do Vouga, a narrow gauge railway to Águeda and Sernada do Vouga.
+Rail service includes service by Alfa Pendular (between Lisbon and Braga; Lisbon and Oporto; Faro and Oporto) and Intercity (between Lisbon and Oporto as well as Lisbon and Guimarães) trains; suburban links through the Urbanos do Porto and, also, the Linha do Vouga, a narrow gauge railway to Águeda and Sernada do Vouga.
 
 Road
 
@@ -147,7 +143,7 @@ _Moliceiros_ provide access along the Ria for tourist visits, in addition to tra
 
 Architecture
 
-Catedral_de_Aveiro.jpg]]
+]]
 
 The architecture of Aveiro is influenced by two phases: the pre-Kingdom era, with a number of historical monuments; and the modernist movements resulting from the expansion of economy during the 19th-20th centuries.
 
@@ -167,14 +163,14 @@ The municipal holiday is 12 May, the day of Joanna, Princess of Portugal (1452-1
 
 Education
 
-Depgeo.jpg The University of Aveiro was created in 1973 [24] and attracts thousands of students to the city. It is ranked as the 354th best university in the world in the _Times_ World University Rankings, and the 2nd best in Portugal.[25]
+The University of Aveiro was created in 1973 [24] and attracts thousands of students to the city. It is ranked as the 354th best university in the world in the _Times_ World University Rankings, and the 2nd best in Portugal.[25]
 
 The University has about 430 professors (with Ph.D. degrees), 11,000 undergraduate students, and 1,300 post-graduate students.
 
 
 Sport
 
-Estádio_Municipal_Aveiro.jpg used to host the football club S.C. Beira-Mar and was a venue at Euro 2004.]] Sport Clube Beira-Mar is an association football club. Founded in 1922, it has a sports academy with various youth levels in sports including basketball and futsal. The club used to play at Estádio Municipal de Aveiro, designed by Portuguese architect Tomás Taveira for Euro 2004, where it held two group matches.[26]
+used to host the football club S.C. Beira-Mar and was a venue at Euro 2004.]] Sport Clube Beira-Mar is an association football club. Founded in 1922, it has a sports academy with various youth levels in sports including basketball and futsal. The club used to play at Estádio Municipal de Aveiro, designed by Portuguese architect Tomás Taveira for Euro 2004, where it held two group matches.[26]
 
 The other long-established club in the city, Os Galitos, was founded in 1904 and houses a wide variety of sports. Its rowers have represented Portugal in international tournaments including the Olympic Games.
 

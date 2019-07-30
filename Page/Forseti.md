@@ -1,4 +1,4 @@
-AM_738_4to,_39v,_BW_Forseti.jpegForseti_zu_Gericht_sitzend.jpg]]
+]]
 
 FORSETI (Old Norse "the presiding one," actually "president" in modern Icelandic and Faroese) is the god of justice and reconciliation in Norse mythology. He is generally identified with FOSITE, a god of the Frisians. Jacob Grimm noted that if, as Adam of Bremen states, Fosite's sacred island was Heligoland, that would make him an ideal candidate for a deity known to both Frisians and Scandinavians, but that it is surprising he is never mentioned by Saxo Grammaticus.[1]
 

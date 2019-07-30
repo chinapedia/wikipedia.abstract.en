@@ -16,7 +16,7 @@ History
 
 Ancient
 
-Catedral_de_la_Asunción_de_Ceuta_(11).jpg]] Controlling access between the Atlantic Ocean and the Mediterranean Sea, the Strait of Gibraltar is an important military and commercial chokepoint. The Phoenicians realized the extremely narrow isthmus joining the Peninsula of Almina to the African mainland makes Ceuta eminently defensible and established an outpost there in the early 1st millennium. The Greek geographers record it by variations of "Abyla", the ancient name of nearby Jebel Musa. Beside Calpe, the other Pillar of Hercules now known as the Rock of Gibraltar, the Phoenicians established Kart at what is now San Roque, Spain. Other good anchorages nearby became Phoenician and then Carthaginian ports at what are now Tangiers and Cadiz.
+]] Controlling access between the Atlantic Ocean and the Mediterranean Sea, the Strait of Gibraltar is an important military and commercial chokepoint. The Phoenicians realized the extremely narrow isthmus joining the Peninsula of Almina to the African mainland makes Ceuta eminently defensible and established an outpost there in the early 1st millennium. The Greek geographers record it by variations of "Abyla", the ancient name of nearby Jebel Musa. Beside Calpe, the other Pillar of Hercules now known as the Rock of Gibraltar, the Phoenicians established Kart at what is now San Roque, Spain. Other good anchorages nearby became Phoenician and then Carthaginian ports at what are now Tangiers and Cadiz.
 
 After Carthage's destruction in the Punic Wars, most of northwest Africa was left to the Roman client states of Numidia andaround AbylaMauretania. Punic culture continued to thrive in what the Romans knew as "Septem". After Thapsus, Caesar and his heirs began annexing north Africa directly as Roman provinces but, as late as Augustus, most of Septem's Berber residents continued to speak and write in Punic.
 
@@ -24,7 +24,7 @@ Caligula assassinated the Mauretanian king Ptolemy in 40 and seized his kingdom,
 
 Medieval
 
-Interior_de_los_Baños_Árabes_de_Ceuta.jpg, built between the 11th and 13th centuries.]] Murallas_meriníes_de_Ceuta.jpg, built by Abu Sa'id Uthman II in 1328.]] Vandals, probably invited by Count Boniface as protection against the empress dowager, crossed the strait near Tingis around 425 and swiftly overran Roman North Africa. Their king Gaiseric focused his attention on the rich lands around Carthage; although the Romans eventually accepted his conquests and he continued to raid them anyway, he soon lost control of Tingis and Septem in a series of Berber revolts. When Justinian decided to reconquer the Vandal lands, his victorious general Belisarius continued along the coast, making Septem an outpost of the Byzantine Empire around 533. Unlike the Roman administration, however, the Byzantines did not push far into hinterland and made the more defensible Septem their regional capital in place of Tingis.
+, built between the 11th and 13th centuries.]] , built by Abu Sa'id Uthman II in 1328.]] Vandals, probably invited by Count Boniface as protection against the empress dowager, crossed the strait near Tingis around 425 and swiftly overran Roman North Africa. Their king Gaiseric focused his attention on the rich lands around Carthage; although the Romans eventually accepted his conquests and he continued to raid them anyway, he soon lost control of Tingis and Septem in a series of Berber revolts. When Justinian decided to reconquer the Vandal lands, his victorious general Belisarius continued along the coast, making Septem an outpost of the Byzantine Empire around 533. Unlike the Roman administration, however, the Byzantines did not push far into hinterland and made the more defensible Septem their regional capital in place of Tingis.
 
 Epidemics, less capable successors, and overstretched supply lines forced a retrenchment and left Septem isolated. It is likely that its count (__) was obliged to pay homage to the Visigoth Kingdom in Spain in the early 7th century. There are no reliable contemporary accounts of the end of the Islamic conquest of the Maghreb around 710. Instead, the rapid Muslim conquest of Spain produced romances concerning Count Julian of Septem and his betrayal of Christendom in revenge for the dishonor that befell his daughter at King Roderick's court. Allegedly with Julian's encouragement and instructions, the Berber convert and freedman Tariq ibn Ziyad took his garrison from Tangiers across the strait and overran the Spanish so swiftly that both he and his master Musa bin Nusayr fell afoul of a jealous caliph, who stripped them of their wealth and titles.
 
@@ -34,7 +34,7 @@ Chaos ensued with the fall of the Spanish Umayyads in 1031. Following this, Ceut
 
 Portuguese
 
-Portugal-Porto-Train_Station-P1180300_(25264859223).jpg during the Conquest of Ceuta]] Estatuta_de_Enrique_el_Navegante,_Ceuta.jpg Braun_Ceuta_UBHD.jpg Ceuta_Spain_crop.jpg, built from 962 to the 18th century, and navigable moats.]] On the morning of 21 August 1415, King John I of Portugal led his sons and their assembled forces in a surprise assault that would come to be known as the Conquest of Ceuta. The battle was almost anti-climactic, because the 45,000 men who traveled on 200 Portuguese ships caught the defenders of Ceuta off guard and only suffered eight casualties. By nightfall the town was captured. On the morning of August 22, Ceuta was in Portuguese hands. Álvaro Vaz de Almada, 1st Count of Avranches was asked to hoist what was to become the flag of Ceuta, which is identical to the flag of Lisbon, but in which the coat of arms of the Kingdom of Portugal was added to the center; the original Portuguese flag and coat of arms of Ceuta remained unchanged, and the modern-day Ceuta flag features the configuration of the Portuguese shield.
+during the Conquest of Ceuta]] , built from 962 to the 18th century, and navigable moats.]] On the morning of 21 August 1415, King John I of Portugal led his sons and their assembled forces in a surprise assault that would come to be known as the Conquest of Ceuta. The battle was almost anti-climactic, because the 45,000 men who traveled on 200 Portuguese ships caught the defenders of Ceuta off guard and only suffered eight casualties. By nightfall the town was captured. On the morning of August 22, Ceuta was in Portuguese hands. Álvaro Vaz de Almada, 1st Count of Avranches was asked to hoist what was to become the flag of Ceuta, which is identical to the flag of Lisbon, but in which the coat of arms of the Kingdom of Portugal was added to the center; the original Portuguese flag and coat of arms of Ceuta remained unchanged, and the modern-day Ceuta flag features the configuration of the Portuguese shield.
 
 John's son Henry the Navigator distinguished himself in the battle, being wounded during the conquest. The looting of the city proved to be less profitable than expected for John I; he decided to keep the city to pursue further enterprises in the area.[14]
 
@@ -62,11 +62,11 @@ During the Iberian Union 1580 to 1640, Ceuta attracted many residents of Spanish
 
 Spanish
 
-Fort_of_El_Desnarigado.jpg Baluarte_de_la_Coraza_Alta_y_catedral_de_Ceuta,_de_noche.jpg On 1 January 1668, King Afonso VI of Portugal recognized the formal allegiance of Ceuta to Spain and formally ceded Ceuta to King Carlos II of Spain by the Treaty of Lisbon.
+On 1 January 1668, King Afonso VI of Portugal recognized the formal allegiance of Ceuta to Spain and formally ceded Ceuta to King Carlos II of Spain by the Treaty of Lisbon.
 
 The city was attacked by Moroccan forces under Moulay Ismail during the Siege of Ceuta (1694-1727). During the longest siege in history, the city underwent changes leading to the loss of its Portuguese character. While most of the military operations took place around the Royal Walls of Ceuta, there were also small-scale penetrations by Spanish forces at various points on the Moroccan coast, and seizure of shipping in the Strait of Gibraltar.
 
-Disagreements regarding the border of Ceuta resulted in the Hispano-Moroccan War (1859–60), which ended at the Battle of Tetuán. Ceuta_Turn_of_the_century.jpg
+Disagreements regarding the border of Ceuta resulted in the Hispano-Moroccan War (1859–60), which ended at the Battle of Tetuán.
 
 In July 1936, General Francisco Franco took command of the Spanish Army of Africa and rebelled against the Spanish republican government; his military uprising led to the Spanish Civil War of 1936–1939. Franco transported troops to mainland Spain in an airlift using transport aircraft supplied by Germany and Italy. Ceuta became one of the first casualties of the uprising: General Franco's rebel nationalist forces seized Ceuta, while at the same time the city came under fire from the air and sea forces of the official republican government.[19]
 
@@ -94,7 +94,7 @@ Ceuta has a maritime-influenced Subtropical/Mediterranean climate, similar to ne
 
 Politics
 
-Town_hall_of_Ceuta.jpg.]]
+.]]
 
 Since 1995, Ceuta is, along with Melilla, one of the two autonomous cities of Spain.[29]
 
@@ -115,7 +115,7 @@ The government of Morocco has repeatedly called for Spain to transfer the sovere
 
 Economy
 
-Jebel_musa_from_benzu.jpg, as viewed from Benzú]] Bienvenidos_a_ceuta.jpg]] The official currency of Ceuta is the euro. It is part of a special low tax zone in Spain.[39] Ceuta is one of two Spanish port cities on the northern shore of Africa, along with Melilla. They are historically military strongholds, free ports, oil ports, and also fishing ports.[40] Today the economy of the city depends heavily on its port (now in expansion) and its industrial and retail centers.[41] Ceuta Heliport is now used to connect the city to mainland Spain by air. Lidl, Decathlon Group and El Corte Inglés (hardware) have branches in Ceuta. There is also a casino. Border trade between Ceuta and Morocco is active because of advantage of tax-free status. Thousands of Moroccan women are involved in porter trade daily. Moroccan dirham is actually used in such trade, despite the fact that prices are marked in euro.[42][43][44]
+, as viewed from Benzú]] ]] The official currency of Ceuta is the euro. It is part of a special low tax zone in Spain.[39] Ceuta is one of two Spanish port cities on the northern shore of Africa, along with Melilla. They are historically military strongholds, free ports, oil ports, and also fishing ports.[40] Today the economy of the city depends heavily on its port (now in expansion) and its industrial and retail centers.[41] Ceuta Heliport is now used to connect the city to mainland Spain by air. Lidl, Decathlon Group and El Corte Inglés (hardware) have branches in Ceuta. There is also a casino. Border trade between Ceuta and Morocco is active because of advantage of tax-free status. Thousands of Moroccan women are involved in porter trade daily. Moroccan dirham is actually used in such trade, despite the fact that prices are marked in euro.[42][43][44]
 
 Transport
 
@@ -134,7 +134,7 @@ Spanish is the primary and official language of the enclave.[47] Moroccan Arabic
 
 Religion
 
-Restos_de_la_Basílica_Tardorromana_de_Ceuta.jpg or the beginning of the 5th century CE.]] Catedral_de_Ceuta,_Ceuta,_España,_2015-12-10,_DD_04.JPG, completed in 1726.]] Mezquita_Muley_El_Mehdi,_Ceuta,_España,_2015-12-10,_DD_31-33_HDR.JPG
+or the beginning of the 5th century CE.]] , completed in 1726.]]
 
 Christianity has been present in Ceuta continuously from late antiquity, as evidenced by the ruins of a basilica in downtown Ceuta[50] and accounts of the martyrdom of StDaniel Fasanella and his Franciscans in 1227.
 
@@ -156,7 +156,7 @@ As in Melilla, Ceuta is attractive to migrants who try to use it as an entry to 
 
 Notable people from Ceuta
 
-Casa_de_los_Dragones,_Ceuta,_España,_2015-12-10,_DD_52.JPG, built in 1905.]]
+, built in 1905.]]
 
 1083 to 1700
 

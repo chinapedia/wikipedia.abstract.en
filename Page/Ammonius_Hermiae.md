@@ -8,7 +8,7 @@ Ammonius' father, Hermias, died when he was a child, and his mother, Aedesia, ra
 
 Writings
 
-Ammonios_Hermeiou.jpg Of his reputedly numerous writings, only his commentary on Aristotle's _De Interpretatione_ survives intact. A commentary on Porphyry's _Isagoge_ may also be his, but it is somewhat corrupt and contains later interpolations.
+Of his reputedly numerous writings, only his commentary on Aristotle's _De Interpretatione_ survives intact. A commentary on Porphyry's _Isagoge_ may also be his, but it is somewhat corrupt and contains later interpolations.
 
 In _De Interpretatione_, Ammonius contends that divine foreknowledge makes void the contingent. Like Boëthius in his second _Commentary_ and _The Consolation of Philosophy,_ this argument maintains the effectiveness of prayer. Ammonius cites Iamblichus who said "knowledge is intermediate between the knower and the known, since it is the activity of the knower concerning the known."[4]
 

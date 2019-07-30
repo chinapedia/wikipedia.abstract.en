@@ -19,7 +19,7 @@ This clade has been studied by examining the mitochondrial DNA.[11] Although thi
 
 Anatomy
 
-Bombus_muscorum1.jpg'' drinking nectar with its long proboscis]] Hymenopterans range in size from very small to large insects, and usually have two pairs of wings. Their mouthparts are adapted for chewing, with well-developed mandibles (ectognathous mouthparts). Many species have further developed the mouthparts into a lengthy proboscis, with which they can drink liquids, such as nectar. They have large compound eyes, and typically three simple eyes, ocelli.
+'' drinking nectar with its long proboscis]] Hymenopterans range in size from very small to large insects, and usually have two pairs of wings. Their mouthparts are adapted for chewing, with well-developed mandibles (ectognathous mouthparts). Many species have further developed the mouthparts into a lengthy proboscis, with which they can drink liquids, such as nectar. They have large compound eyes, and typically three simple eyes, ocelli.
 
 The forward margin of the hind wing bears a number of hooked bristles, or "hamuli", which lock onto the fore wing, keeping them held together. The smaller species may have only two or three hamuli on each side, but the largest wasps may have a considerable number, keeping the wings gripped together especially tightly. Hymenopteran wings have relatively few veins compared with many other insects, especially in the smaller species.
 
@@ -60,7 +60,7 @@ A huge number of species are parasitoids as larvae. The adults inject the eggs i
 
 Classification
 
-Large_rose_sawfly_(Arge_pagana_stephensii).jpg, without a waist: the sawfly _Arge pagana_]] AD2009Sep09_Vespula_germanica_01.jpg, with narrow waists: the wasp _Vespula germanica_]]
+, without a waist: the sawfly _Arge pagana_]] , with narrow waists: the wasp _Vespula germanica_]]
 
 The Hymenoptera are divided into two groups; the Symphyta which have no waist, and the Apocrita which have a narrow waist.[38]
 

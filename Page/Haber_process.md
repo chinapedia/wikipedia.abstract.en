@@ -1,4 +1,4 @@
-Fritz_Haber.png, 1918]] The HABER PROCESS,[1] also called the HABER–BOSCH PROCESS, is an artificial nitrogen fixation process and is the main industrial procedure for the production of ammonia today.[2][3] It is named after its inventors, the German chemists Fritz Haber and Carl Bosch, who developed it in the first decade of the 20th century. The process converts atmospheric nitrogen (N₂) to ammonia (NH₃) by a reaction with hydrogen (H₂) using a metal catalyst under high temperatures and pressures:
+, 1918]] The HABER PROCESS,[1] also called the HABER–BOSCH PROCESS, is an artificial nitrogen fixation process and is the main industrial procedure for the production of ammonia today.[2][3] It is named after its inventors, the German chemists Fritz Haber and Carl Bosch, who developed it in the first decade of the 20th century. The process converts atmospheric nitrogen (N₂) to ammonia (NH₃) by a reaction with hydrogen (H₂) using a metal catalyst under high temperatures and pressures:
 
     $\underbrace{\ce{N2 + 3H2}}_{\Delta H^\circ = 0\,\mathrm{kJ}} \ce{->} \underbrace{\ce{2NH3}}_{{\Delta H^\circ = -91.8\,\mathrm{kJ\cdot mol^{-1}}}}$
 
@@ -18,7 +18,7 @@ Ammonia was first manufactured using the Haber process on an industrial scale in
 
 Process
 
-Ammoniak_Reaktor_BASF.jpg, Germany.]] Ammoniakreaktor_MS.svg This conversion is typically conducted at and between , as the gases (nitrogen and hydrogen) are passed over four beds of catalyst, with cooling between each pass so as to maintain a reasonable equilibrium constant. On each pass only about 15% conversion occurs, but any unreacted gases are recycled, and eventually an overall conversion of 97% is achieved.[16]
+, Germany.]] This conversion is typically conducted at and between , as the gases (nitrogen and hydrogen) are passed over four beds of catalyst, with cooling between each pass so as to maintain a reasonable equilibrium constant. On each pass only about 15% conversion occurs, but any unreacted gases are recycled, and eventually an overall conversion of 97% is achieved.[16]
 
 The steam reforming, shift conversion, carbon dioxide removal, and methanation steps each operate at pressures of about , and the ammonia synthesis loop operates at pressures ranging from , depending upon which proprietary process is used.[17]
 
@@ -61,7 +61,7 @@ The most popular catalysts are based on iron promoted with K₂O, CaO, SiO₂, a
 
 In industrial practice, the iron catalyst is obtained from finely ground iron powder, which is usually obtained by reduction of high purity magnetite (Fe₃O₄). The pulverized iron metal is burnt (oxidized) to give magnetite of a defined particle size. The magnetite particles are then partially reduced, removing some of the oxygen in the process. The resulting catalyst particles consist of a core of magnetite, encased in a shell of wüstite (FeO, ferrous oxide), which in turn is surrounded by an outer shell of iron metal. The catalyst maintains most of its bulk volume during the reduction, resulting in a highly porous high surface area material, which enhances its effectiveness as a catalyst. Other minor components of the catalyst include calcium and aluminium oxides, which support the iron catalyst and help it maintain its surface area. These oxides of Ca, Al, K, and Si are unreactive to reduction by the hydrogen.[24]
 
-Potential_energy_diagram_for_ammonia_synthesis.svg The reaction mechanism, involving the heterogeneous catalyst, is believed to involve the following steps:[25]
+The reaction mechanism, involving the heterogeneous catalyst, is believed to involve the following steps:[25]
 
 1.  N₂ (g) → N₂ (adsorbed)
 2.  N₂ (adsorbed) → 2 N (adsorbed)
@@ -77,7 +77,7 @@ A major contributor to the elucidation of this mechanism is Gerhard Ertl.[26]
 
 Economic and environmental aspects
 
-Severnside_fertilizer_works_-_geograph.org.uk_-_189990.jpg When it was first invented, the Haber process needed to compete against another industrial process, the Cyanamide process. However, the Cyanamide process consumed large amounts of electrical power and was more labor-intensive than the Haber process.[27]
+When it was first invented, the Haber process needed to compete against another industrial process, the Cyanamide process. However, the Cyanamide process consumed large amounts of electrical power and was more labor-intensive than the Haber process.[27]
 
 The Haber process now produces 450 million tonnes of nitrogen fertilizer per year, mostly in the form of anhydrous ammonia, ammonium nitrate, and urea. Three to five percent of the world's natural gas production is consumed in the Haber process (around 1–2% of the world's energy supply).[28][29][30][31] In combination with advances in breeding, herbicides and pesticides, these fertilizers have helped to increase the productivity of agricultural land:
 

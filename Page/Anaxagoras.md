@@ -20,7 +20,7 @@ Anaxagoras wrote a book of philosophy, but only fragments of the first part of t
 
 Philosophy
 
-Anaxagoras_Nuremberg_Chronicle.jpg'']] According to Anaxagoras all things have existed in some way from the beginning, but originally they existed in infinitesimally small fragments of themselves, endless in number and inextricably combined throughout the universe. All things existed in this mass, but in a confused and indistinguishable form.[13] There was an infinite number of homogeneous parts () as well as heterogeneous ones.[14]
+'']] According to Anaxagoras all things have existed in some way from the beginning, but originally they existed in infinitesimally small fragments of themselves, endless in number and inextricably combined throughout the universe. All things existed in this mass, but in a confused and indistinguishable form.[13] There was an infinite number of homogeneous parts () as well as heterogeneous ones.[14]
 
 The work of arrangement, the segregation of like from unlike and the summation of the whole into totals of the same name, was the work of Mind or Reason (). Mind is no less unlimited than the chaotic mass, but it stood pure and independent, a thing of finer texture, alike in all its manifestations and everywhere the same. This subtle agent, possessed of all knowledge and power, is especially seen ruling in all the forms of life.[15] Its first appearance, and the only manifestation of it which Anaxagoras describes, is Motion. It gave distinctness and reality to the aggregates of like parts.[16]
 

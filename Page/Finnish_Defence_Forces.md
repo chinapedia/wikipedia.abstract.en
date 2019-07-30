@@ -11,7 +11,7 @@ History
 
 Civil War
 
-Establishment_of_the_Finnish_Defence_Forces_with_day_order_no_1.jpg After Finland's declaration of independence on 6 December 1917, the Civic Guards were proclaimed the troops of the government on 25 January 1918 and C.G.E Mannerheim was appointed as Commander-in-Chief of these forces the next day. Fighting between the White Guards (as the Civic Guards were commonly known) and the Red Guards had already broken out about a week before around Viipuri, in what became known as the Finnish Civil War.
+After Finland's declaration of independence on 6 December 1917, the Civic Guards were proclaimed the troops of the government on 25 January 1918 and C.G.E Mannerheim was appointed as Commander-in-Chief of these forces the next day. Fighting between the White Guards (as the Civic Guards were commonly known) and the Red Guards had already broken out about a week before around Viipuri, in what became known as the Finnish Civil War.
 
 In the war, the Whites were victorious in large part thanks to the leadership of Mannerheim and the lead by example offensive mindedness of 1,800 German-trained Finnish Jägers, who brought with them German tactical doctrine and military culture. The post-war years were characterized by the Volunteer Campaigns that came to an end in 1920 with the signing of the Treaty of Tartu, which ended the state of war between Finland and Soviet Russia and defined the internationally recognized borders of Finland.
 
@@ -23,11 +23,11 @@ The new government instituted conscription after the Civil War and also introduc
 
 World War II
 
-Lahti-Saloranta_M-26_in_position.jpg during the Winter War.]]
+during the Winter War.]]
 
 When the Soviets invaded in November 1939, the Finns defeated the Red Army on numerous occasions, including at the crucial Battle of Suomussalmi. These successes were in large part thanks to the application of motti tactics. While the Finns ultimately lost the war and were forced to agree to the Moscow Peace Treaty, the Soviet objective of conquering Finland failed, in part due to the threat of Allied intervention. During the war the Finns lost 25,904 men, while Soviet losses were 167,976 dead.[2]
 
-Tali-Ihantala.jpg antitank weapons walk past a destroyed Soviet T-34 tank during the Battle of Tali-Ihantala. The lead soldier is also armed with a Suomi KP/-31.]]
+antitank weapons walk past a destroyed Soviet T-34 tank during the Battle of Tali-Ihantala. The lead soldier is also armed with a Suomi KP/-31.]]
 
 Finland fought in the Continuation War alongside Germany from 1941 to 1944. Thanks to German aid, the army was now much better equipped, and the period of conscription had been increased to two years, making possible the formation of sixteen infantry divisions. Having initially deployed on the defensive, the Finns took advantage of the weakening of the Soviet positions as a consequence of Operation Barbarossa, swiftly recovering their lost territories and invading Soviet territory in Karelia, eventually settling into defensive positions from December 1941 onwards. The Soviet offensive of June 1944 undid these Finnish gains and, while failing in its objective of destroying the Finnish army and forcing Finland's unconditional surrender, forced Finland out of the war. The Finnish were able to preserve their independence with key defensive victories over the Red Army. The Battle of Tali-Ihantala being very significant.
 
@@ -44,7 +44,7 @@ The collapse of the Soviet Union in 1991 did not annihilate the military threat 
 
 Organization
 
-Suomalainen_sotilasvala.jpg.]] The Finnish Defence Forces are under the command of the Chief of Defence, who is directly subordinate to the President of the Republic in matters related to the military command. Decisions concerning military orders are made by the President of the Republic in consultation with the Prime Minister and the Minister of Defence.
+.]] The Finnish Defence Forces are under the command of the Chief of Defence, who is directly subordinate to the President of the Republic in matters related to the military command. Decisions concerning military orders are made by the President of the Republic in consultation with the Prime Minister and the Minister of Defence.
 
 Apart from the Defence Command (, ), the military branches are the Finnish Army (, ), the Finnish Navy (, ) and the Finnish Air Force (, ). The Border Guard (, ) (including the coast guard) is under the authority of the Ministry of the Interior, but can be incorporated fully or in part into the defence forces when required by defence readiness. All logistical duties of the Defence Forces are carried out by the Defence Forces Logistics Command (), which has three Logistics Regiment for each military province.[4]
 
@@ -59,8 +59,6 @@ The military training of the reservists is primarily the duty of the Defence For
 
 Military service
 
-Finnish_conscript_training.png
-
 The Finnish defence forces is based on universal male conscription. All men above 18 years of age are liable to serve either 6, 9 or 12 months. Some 27,000 conscripts are trained annually. 80% of Finnish men complete their service. The conscripts at first receive basic training, after which they are assigned to various units for special training. Privates who are trained for tasks not requiring special skills serve for 6 months. In technically demanding tasks the time of service is 9, or in some cases 12 months. Those selected for NCO (non-commissioned officer) or officer training serve 12 months. At the completion of the service, the conscripts receive a reserve military rank of private, lance corporal, corporal, sergeant or second lieutenant, depending on their training and accomplishments.[14] After their military service, the conscripts are placed in reserve until the end of their 50th or 60th living year, depending on their military rank. During their time in reserve, the reservists are liable to participate in military refresher exercises for a total of 40, 75 or 100 days, depending on their military rank. In addition, all reservists are liable for activation in a situation where the military threat against Finland has seriously increased, in full or partial mobilization or in a large-scale disaster or a virulent epidemic. The males who do not belong to the reserve may only be activated in case of full mobilization, and those rank-and-file personnel who have fulfilled 50 years of age only with a specific parliamentary decision.[15]
 
 Military service can be started after turning 18. The service can be delayed due to studies, work or other personal reasons until the 28th birthday, but these reasons do not result in exemptions. In addition to lodging, food, clothes and health care the conscripts receive between 5 and 11.70 euros per day, depending on the time they have served. The state also pays for any rental and electricity bills the conscripts incur during their service. If the conscripts have families, they are entitled to benefits as well. It is illegal to fire an employee due to military service or due to a refresher exercise or activation. Voluntary females in military service receive a small additional benefit, because they are expected to provide their own underwear and other personal items.
@@ -73,8 +71,6 @@ The inhabitants of the demilitarized Åland islands are exempt from military ser
 
 
 Military ranks
-
-Finnish_Navy_Sotilasmestari.jpg
 
 The Finnish military ranks follow the Western usage in the officer ranks. As a Finnish peculiarity, the rank of lieutenant has three grades: 2nd lieutenant, lieutenant and senior lieutenant.[17] The 2nd lieutenant is a reserve officer rank, active commissioned officers beginning their service as lieutenants.
 
@@ -92,7 +88,7 @@ The rank and file of the Finnish Defence Forces is composed of conscripts servin
 
 Equipment
 
-Finnish_Leopard_2.jpg main battle tank on parade, Riihimäki, Finland.]] Finnish_Air_Force_F-18C_RIAT.jpg.]]
+main battle tank on parade, Riihimäki, Finland.]] .]]
 
 +------------------------------------------+-------------------------------------------------------------------------+
 | Equipment                                | Numbers                                                                 |
@@ -130,7 +126,7 @@ Finland does not have attack helicopters, submarines, long-range ballistic missi
 
 Peacekeeping operations
 
-Suomalaisia_sotilaita_Kongon_vaaleissa_2006.jpg in 2006.]]
+in 2006.]]
 
 Finland has taken part in peacekeeping operations since 1956 (the number of Finnish peacekeepers who have served since 1956 amounts to 43,000). In 2003 over a thousand Finnish peacekeepers were involved in peacekeeping operations, including UN and NATO led missions. According to the Finnish law the maximum simultaneous strength of the peacekeeping forces is limited to 2,000 soldiers.
 
@@ -140,7 +136,7 @@ Since 1996 the Pori Brigade has trained parts of the Finnish Rapid Deployment Fo
 
 Since 2006, Finland has participated in the formation of European Union Battlegroups. Finland will be participating to two European Union Battlegroups in 2011.
 
-Sisu_XA-180-IFOR.jpg troops with their Sisu XA-180 Armored Personnel Carrier.]]
+troops with their Sisu XA-180 Armored Personnel Carrier.]]
 
 International operations Finland is participating in by deploying military units (personnel strength in parenthesis):[20][21]
 
@@ -179,8 +175,6 @@ The defence planning is organised to counteract three threat situations:
 -   A regional crisis that may have effects on Finland.
 -   Political, economic and military pressure, which may include a threat of using military force and its restricted use.
 -   Use of military force in the form of a strategic strike or an attack beginning with a strategic strike aimed at seizing territory.
-
-Finnish_defence_doctrine,_territorial_defence.png
 
 In all cases, the national objective is to keep the vital areas, especially the capital area in Finnish possession. In other areas, the size of the country is used to delay and wear down the invader, until the enemy may be defeated in an area of Finnish choosing. The Army carries most of the responsibility for this task.
 

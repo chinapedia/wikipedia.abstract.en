@@ -21,7 +21,7 @@ In Hellenistic times, especially during the 5th century BCE, as _Apollo Helios_ 
 
 Etymology
 
-MANNapoli_6281_Sitting_Apollo_Farnese.jpg. Porphyry and marble, 2nd century AD. Farnese collection, Naples, Italy.|alt=|373x373px]] Apollo (Attic, Ionic, and Homeric Greek: , _Apollōn_ ( ); Doric: , _Apellōn_; Arcadocypriot: , _Apeilōn_; Aeolic: , _Aploun_; )
+. Porphyry and marble, 2nd century AD. Farnese collection, Naples, Italy.|alt=|373x373px]] Apollo (Attic, Ionic, and Homeric Greek: , _Apollōn_ ( ); Doric: , _Apellōn_; Arcadocypriot: , _Apeilōn_; Aeolic: , _Aploun_; )
 
 The name _Apollo_—unlike the related older name _Paean_—is generally not found in the Linear B (Mycenean Greek) texts, although there is a possible attestation in the lacunose form _]pe-rjo-[_ (Linear B: ]-[) on the KN E 842 tablet.[4][5][6]
 
@@ -62,7 +62,7 @@ Apollo's birthplace was Mount Cynthus on the island of Delos.
 -   DELIUS ( ; Δήλιος, _Delios_), literally "Delian"
 -   DIDYMAEUS ( ; , _Didymaios_) from δίδυμος, "twin") as Artemis' twin
 
-Bassai_Temple_Of_Apollo_Detail.jpg in southern Greece]]
+in southern Greece]]
 
 Place of worship
 
@@ -75,7 +75,7 @@ Delphi and Actium were his primary places of worship.[29][30]
 -   PYTHIUS ( ; , _Puthios_, from Πυθώ, _Pythō_), from the region around Delphi
 -   SMINTHEUS ( ; , _Smintheus_), "Sminthian"—that is, "of the town of Sminthos or Sminthe"[33] near the Troad town of Hamaxitus[34]
 
-TempleDelos.jpg, dedicated to Apollo (478 BC). 19th-century pen-and-wash restoration.]] Chryse.jpg, Turkey]]
+, dedicated to Apollo (478 BC). 19th-century pen-and-wash restoration.]] , Turkey]]
 
 Healing and disease
 
@@ -143,7 +143,7 @@ Apollo was worshipped throughout the Roman Empire. In the traditionally Celtic l
 
 Origins
 
-Omphalos_museum.jpg in the Museum of Delphi]] The cult centers of Apollo in Greece, Delphi and Delos, date from the 8th century BCE. The Delos sanctuary was primarily dedicated to Artemis, Apollo's twin sister. At Delphi, Apollo was venerated as the slayer of Pytho. For the Greeks, Apollo was all the Gods in one and through the centuries he acquired different functions which could originate from different gods. In archaic Greece he was the prophet, the oracular god who in older times was connected with "healing". In classical Greece he was the god of light and of music, but in popular religion he had a strong function to keep away evil.[55] Walter Burkert[56] discerned three components in the prehistory of Apollo worship, which he termed "a Dorian-northwest Greek component, a Cretan-Minoan component, and a Syro-Hittite component."
+in the Museum of Delphi]] The cult centers of Apollo in Greece, Delphi and Delos, date from the 8th century BCE. The Delos sanctuary was primarily dedicated to Artemis, Apollo's twin sister. At Delphi, Apollo was venerated as the slayer of Pytho. For the Greeks, Apollo was all the Gods in one and through the centuries he acquired different functions which could originate from different gods. In archaic Greece he was the prophet, the oracular god who in older times was connected with "healing". In classical Greece he was the god of light and of music, but in popular religion he had a strong function to keep away evil.[55] Walter Burkert[56] discerned three components in the prehistory of Apollo worship, which he termed "a Dorian-northwest Greek component, a Cretan-Minoan component, and a Syro-Hittite component."
 
 From his eastern origin Apollo brought the art of inspection of "symbols and omina" (σημεῖα καὶ τέρατα : _sēmeia kai terata_), and of the observation of the omens of the days. The inspiration oracular-cult was probably introduced from Anatolia. The ritualism belonged to Apollo from the beginning. The Greeks created the legalism, the supervision of the orders of the gods, and the demand for moderation and harmony. Apollo became the god of shining youth, ideal beauty, fine arts, philosophy, moderation, spiritual-life, the protector of music, divine law and perceptible order. The improvement of the old Anatolian god, and his elevation to an intellectual sphere, may be considered an achievement of the Greek people.[57]
 
@@ -159,7 +159,7 @@ Homer illustrated Paeon the god, and the song both of apotropaic thanksgiving or
 
 Dorian origin
 
-Apollo-WaltersArt.jpg (dated 1591) depicting Apollo's first triumph, when he slew with his bow and arrows the serpent Python, which lies dead at his feet[70] (The Walters Art Museum).]] The connection with the Dorians and their initiation festival _apellai_ is reinforced by the month _Apellaios_ in northwest Greek calendars.[71] The family-festival was dedicated to Apollo (Doric: ).[72] _Apellaios_ is the month of these rites, and Apellon is the "megistos kouros" (the great Kouros).[73] However it can explain only the Doric type of the name, which is connected with the Ancient Macedonian word "pella" (Pella), _stone_. Stones played an important part in the cult of the god, especially in the oracular shrine of Delphi (Omphalos).[74][75]
+(dated 1591) depicting Apollo's first triumph, when he slew with his bow and arrows the serpent Python, which lies dead at his feet[70] (The Walters Art Museum).]] The connection with the Dorians and their initiation festival _apellai_ is reinforced by the month _Apellaios_ in northwest Greek calendars.[71] The family-festival was dedicated to Apollo (Doric: ).[72] _Apellaios_ is the month of these rites, and Apellon is the "megistos kouros" (the great Kouros).[73] However it can explain only the Doric type of the name, which is connected with the Ancient Macedonian word "pella" (Pella), _stone_. Stones played an important part in the cult of the god, especially in the oracular shrine of Delphi (Omphalos).[74][75]
 
 The "Homeric hymn" represents Apollo as a Northern intruder. His arrival must have occurred during the "Dark Ages" that followed the destruction of the Mycenaean civilization, and his conflict with Gaia (Mother Earth) was represented by the legend of his slaying her daughter the serpent Python.[76]
 
@@ -171,7 +171,7 @@ The Vedic Rudra has some similar functions with Apollo. The terrible god is call
 
 Minoan origin
 
-AMI_-_Goldene_Doppelaxt.jpg labrys]] It seems an oracular cult existed in Delphi from the Mycenaean age.[88] In historical times, the priests of Delphi were called Lab(r)yadai, "the double-axe men", which indicates Minoan origin. The double-axe, labrys, was the holy symbol of the Cretan labyrinth.[89][90] The Homeric hymn adds that Apollo appeared as a dolphin and carried Cretan priests to Delphi, where they evidently transferred their religious practices. _Apollo Delphinios_ or _Delphidios_ was a sea-god especially worshiped in Crete and in the islands.[91] Apollo's sister Artemis, who was the Greek goddess of hunting, is identified with Britomartis (Diktynna), the Minoan "Mistress of the animals". In her earliest depictions she is accompanied by the "Mister of the animals", a male god of hunting who had the bow as his attribute. His original name is unknown, but it seems that he was absorbed by the more popular Apollo, who stood by the virgin "Mistress of the Animals", becoming her brother.[92]
+labrys]] It seems an oracular cult existed in Delphi from the Mycenaean age.[88] In historical times, the priests of Delphi were called Lab(r)yadai, "the double-axe men", which indicates Minoan origin. The double-axe, labrys, was the holy symbol of the Cretan labyrinth.[89][90] The Homeric hymn adds that Apollo appeared as a dolphin and carried Cretan priests to Delphi, where they evidently transferred their religious practices. _Apollo Delphinios_ or _Delphidios_ was a sea-god especially worshiped in Crete and in the islands.[91] Apollo's sister Artemis, who was the Greek goddess of hunting, is identified with Britomartis (Diktynna), the Minoan "Mistress of the animals". In her earliest depictions she is accompanied by the "Mister of the animals", a male god of hunting who had the bow as his attribute. His original name is unknown, but it seems that he was absorbed by the more popular Apollo, who stood by the virgin "Mistress of the Animals", becoming her brother.[92]
 
 The old oracles in Delphi seem to be connected with a local tradition of the priesthood, and there is not clear evidence that a kind of inspiration-prophecy existed in the temple. This led some scholars to the conclusion that Pythia carried on the rituals in a consistent procedure through many centuries, according to the local tradition. In that regard, the mythical seeress Sibyl of Anatolian origin, with her ecstatic art, looks unrelated to the oracle itself.[93] However, the Greek tradition is referring to the existence of vapours and chewing of laurel-leaves, which seem to be confirmed by recent studies.[94]
 
@@ -179,7 +179,7 @@ Plato describes the priestesses of Delphi and Dodona as frenzied women, obsessed
 
 Anatolian origin
 
-Coin_of_Apollo_Agyieus.png]] A non-Greek origin of Apollo has long been assumed in scholarship.[99] The name of Apollo's mother Leto has Lydian origin, and she was worshipped on the coasts of Asia Minor. The inspiration oracular cult was probably introduced into Greece from Anatolia, which is the origin of Sibyl, and where existed some of the oldest oracular shrines. Omens, symbols, purifications, and exorcisms appear in old Assyro-Babylonian texts, and these rituals were spread into the empire of the Hittites. In a Hittite text is mentioned that the king invited a Babylonian priestess for a certain "purification".[100]
+]] A non-Greek origin of Apollo has long been assumed in scholarship.[99] The name of Apollo's mother Leto has Lydian origin, and she was worshipped on the coasts of Asia Minor. The inspiration oracular cult was probably introduced into Greece from Anatolia, which is the origin of Sibyl, and where existed some of the oldest oracular shrines. Omens, symbols, purifications, and exorcisms appear in old Assyro-Babylonian texts, and these rituals were spread into the empire of the Hittites. In a Hittite text is mentioned that the king invited a Babylonian priestess for a certain "purification".[100]
 
 A similar story is mentioned by Plutarch. He writes that the Cretan seer Epimenides purified Athens after the pollution brought by the Alcmeonidae, and that the seer's expertise in sacrifices and reform of funeral practices were of great help to Solon in his reform of the Athenian state.[101] The story indicates that Epimenides was probably heir to the shamanic religions of Asia, and proves, together with the Homeric hymn, that Crete had a resisting religion up to historical times. It seems that these rituals were dormant in Greece, and they were reinforced when the Greeks migrated to Anatolia.
 
@@ -192,11 +192,11 @@ The Late Bronze Age (from 1700 to 1200 BCE) Hittite and Hurrian _Aplu_ was a god
 
 Oracular cult
 
-Columns_of_the_Temple_of_Apollo_at_Delphi,_Greece.jpeg at Delphi, Greece]] Herakles_tripod_Louvre_F341.jpg Unusually among the Olympic deities, Apollo had two cult sites that had widespread influence: Delos and Delphi. In cult practice, Delian Apollo and Pythian Apollo (the Apollo of Delphi) were so distinct that they might both have shrines in the same locality.[113] Apollo's cult was already fully established when written sources commenced, about 650 BCE. Apollo became extremely important to the Greek world as an oracular deity in the archaic period, and the frequency of theophoric names such as _Apollodorus_ or _Apollonios_ and cities named _Apollonia_ testify to his popularity. Oracular sanctuaries to Apollo were established in other sites. In the 2nd and 3rd century CE, those at Didyma and Clarus pronounced the so-called "theological oracles", in which Apollo confirms that all deities are aspects or servants of an all-encompassing, highest deity. "In the 3rd century, Apollo fell silent. Julian the Apostate (359–361) tried to revive the Delphic oracle, but failed."[114]
+at Delphi, Greece]] Unusually among the Olympic deities, Apollo had two cult sites that had widespread influence: Delos and Delphi. In cult practice, Delian Apollo and Pythian Apollo (the Apollo of Delphi) were so distinct that they might both have shrines in the same locality.[113] Apollo's cult was already fully established when written sources commenced, about 650 BCE. Apollo became extremely important to the Greek world as an oracular deity in the archaic period, and the frequency of theophoric names such as _Apollodorus_ or _Apollonios_ and cities named _Apollonia_ testify to his popularity. Oracular sanctuaries to Apollo were established in other sites. In the 2nd and 3rd century CE, those at Didyma and Clarus pronounced the so-called "theological oracles", in which Apollo confirms that all deities are aspects or servants of an all-encompassing, highest deity. "In the 3rd century, Apollo fell silent. Julian the Apostate (359–361) tried to revive the Delphic oracle, but failed."[114]
 
 Oracular shrines
 
-Delos_lions.jpg Apollo had a famous oracle in Delphi, and other notable ones in Clarus and Branchidae. His oracular shrine in Abae in Phocis, where he bore the toponymic epithet _Abaeus_ (, _Apollon Abaios_), was important enough to be consulted by Croesus.[115] His oracular shrines include:
+Apollo had a famous oracle in Delphi, and other notable ones in Clarus and Branchidae. His oracular shrine in Abae in Phocis, where he bore the toponymic epithet _Abaeus_ (, _Apollon Abaios_), was important enough to be consulted by Croesus.[115] His oracular shrines include:
 
 -   Abae in Phocis.
 -   Bassae in the Peloponnese.
@@ -232,14 +232,10 @@ Greek temples
 -   Gortyn (Crete). A temple of _Pythian Apollo_, was built in the 7th century B.C. The plan measured 19,00 x 16,70 m and it was not peripteral. The walls were solid, made from limestone, and there was single door on the east side.
 -   Thermon (West Greece): The Doric temple of _Apollo Thermios_, was built in the middle of the 7th century B.C. It was built on an older curvilinear building dating perhaps from the 10th century B.C., on which a peristyle was added. The temple was narrow, and the number of pteron columns (probably wooden) was 5 x 15. There was a single row of inner columns. It measures 12.13 x 38.23 m at the stylobate, which was made from stones.[125]
 
-Apollotempel.gif
-
 -   Corinth: A Doric temple was built in the 6th century B.C. The temple's stylobate measures 21.36 x 53.30 m, and the number of pteron columns was 6 x 15. There was a double row of inner columns. The style is similar with the Temple of Alcmeonidae at Delphi.[126] The Corinthians were considered to be the inventors of the Doric order.[127]
 -   Napes (Lesbos): An Aeolic temple probably of _Apollo Napaios_ was built in the 7th century B.C. Some special capitals with floral ornament have been found, which are called Aeolic, and it seems that they were borrowed from the East.[128]
 -   Cyrene, Libya: The oldest Doric temple of Apollo was built in c. 600 B.C. The number of pteron columns was 6 x 11, and it measures 16.75 x 30.05 m at the stylobate. There was a double row of sixteen inner columns on stylobates. The capitals were made from stone.[129]
 -   Naukratis: An Ionic temple was built in the early 6th century B.C. Only some fragments have been found and the earlier, made from limestone, are identified among the oldest of the Ionic order.[130]
-
-Siracusa-Temple-of-Apoll-Plan-bjs.png
 
 -   Syracuse, Sicily: A Doric temple was built at the beginning of the 6th century B.C. The temple's stylobate measures 21.47 x 55.36 m and the number of pteron columns was 6 x 17. It was the first temple in Greek west built completely out of stone. A second row of columns were added, obtaining the effect of an inner porch.[131]
 -   Selinus (Sicily):The Doric Temple C dates from 550 B.C., and it was probably dedicated to Apollo. The temple's stylobate measures 10.48 x 41.63 m and the number of pteron columns was 6 x 17. There was portico with a second row of columns, which is also attested for the temple at Syracuse.[132]
@@ -247,13 +243,9 @@ Siracusa-Temple-of-Apoll-Plan-bjs.png
 -   Chios: An Ionic temple of _Apollo Phanaios_ was built at the end of the 6th century B.C. Only some small parts have been found and the capitals had floral ornament.[135]
 -   Abae (Phocis). The temple was destroyed by the Persians in the invasion of Xerxes in 480 B.C., and later by the Boeotians. It was rebuilt by Hadrian.[136] The oracle was in use from early Mycenaean times to the Roman period, and shows the continuity of Mycenaean and Classical Greek religion.[137]
 
-Bassai_Temple_of_Apollo_Plan.svg
-
 -   Bassae (Peloponnesus):A temple dedicated to _Apollo Epikourios_ ("Apollo the helper"), was built in 430 B.C. and it was designed by Iktinos.It combined Doric and Ionic elements, and the earliest use of column with a Corinthian capital in the middle.[138] The temple is of a relatively modest size, with the stylobate measuring 14.5 x 38.3 metres[139] containing a Doric peristyle of 6 x 15 columns. The roof left a central space open to admit light and air.
 -   Delos: A temple probably dedicated to Apollo and not peripteral, was built in the late 7th century B.C., with a plan measuring 10,00 x 15,60 m. The Doric Great temple of Apollo, was built in c. 475 B.C. The temple's stylobate measures 13.72 x 29.78 m, and the number of pteron columns as 6 x 13. Marble was extensively used.[140]
 -   Ambracia: A Doric peripteral temple dedicated to _Apollo Pythios Sotir_ was built in 500 B.C., and It is lying at the centre of the Greek city Arta. Only some parts have been found, and it seems that the temple was built on earlier sanctuaries dedicated to Apollo. The temple measures 20,75 x 44,00 m at the stylobate. The foundation which supported the statue of the god, still exists.[141]
-
-Tempel_des_Apollo_Didymaeos_in_Milet.png
 
 -   Didyma (near Miletus): The gigantic Ionic temple of _Apollo Didymaios_ started around 540 B.C. The construction ceased and then it was restarted in 330 B.C. The temple is dipteral, with an outer row of 10 x 21 columns, and it measures 28.90 x 80.75 m at the stylobate.[142]
 -   Clarus (near ancient Colophon): According to the legend, the famous seer Calchas, on his return from Troy, came to Clarus. He challenged the seer Mopsus, and died when he lost.[143] The Doric temple of _Apollo Clarius_ was probably built in the 3rd century B.C., and it was peripteral with 6 x 11 columns. It was reconstructed at the end of the Hellenistic period, and later from the emperor Hadrian but Pausanias claims that it was still incomplete in the 2nd century B.C.[144]
@@ -264,7 +256,7 @@ Etruscan and Roman temples
 -   Veii (Etruria): The temple of Apollo was built in the late 6th century B.C. and it indicates the spread of Apollo's culture (Aplu) in Etruria. There was a prostyle porch, which is called Tuscan, and a triple cella 18,50 m wide.[147]
 -   Falerii Veteres (Etruria): A temple of Apollo was built probably in the 4th-3rd century B.C. Parts of a teraccotta capital, and a teraccotta base have been found. It seems that the Etruscan columns were derived from the archaic Doric.[148] A cult of Apollo Soranus is attested by one inscription found near Falerii.[149]
 
-Pompeii_Regio_07_Insula_07_Temple_of_Apollo_plan_01.jpg]]
+]]
 
 -   Pompeii (Italy): The cult of Apollo was widespread in the region of Campania since the 6th century B.C. The temple was built in 120 B.V, but its beginnings lie in the 6th century B.C. It was reconstructed after an earthquake in A.D. 63. It demonstrates a mixing of styles which formed the basis of Roman architecture. The columns in front of the cella formed a Tuscan prostyle porch, and the cella is situated unusually far back. The peripteral colonnade of 48 Ionic columns was placed in such a way that the emphasis was given to the front side.[150]
 -   Rome: The temple of Apollo Sosianus and the _temple of Apollo Medicus_. The first temple building dates to 431 B.C., and was dedicated to Apollo Medicus (the doctor), after a plague of 433 B.C.[151] It was rebuilt by Gaius Sosius, probably in 34 B.C. Only three columns with Corinthian capitals exist today. It seems that the cult of Apollo had existed in this area since at least to the mid-5th century B.C.[152]
@@ -278,17 +270,13 @@ Apollo appears often in the myths, plays and hymns. As Zeus' favorite son, Apoll
 
 Birth
 
-Metropolitan_Richart_Latona.jpg
-
 Apollo was the son of Zeus and Leto, his previous wife,[155] or one of his mistresses. After his birth, Apollo was nursed by the nymphs Korythalia and Aletheia, the personification of truth.[156]
 
 When Zeus' wife Hera discovered that Leto was impregnated by Zeus, she banned Leto from giving birth on _terra firma_. In her wanderings, Leto sought shelter on many lands, only to be rejected by them. Finally, she saw Delos, a floating island, which was neither a real island nor a mainland. It is said that Apollo, still in Leto's womb, had informed his mother about Delos to put an end to her suffering.[157] Leto, when welcomed by Delos, gave birth there, clinging to a palm tree.
 
 It is also stated that Hera kidnapped Eileithyia, the goddess of childbirth, to prevent Leto from going into labor. The other gods tricked Hera into letting her go by offering her a necklace of amber 9 yards or 8.2 meters long.
 
-Latona_with_Her_Children_Apollo_and_Diana_LACMA_M.78.86.jpg When Apollo was born clutching a golden sword,[158] the swans circled Delos seven times and the nymphs sang in delight.[159] Soon after he was born, he was washed clean by the goddesses and was covered in white garment, with golden bands fastened around him. Since Leto was unable to feed the new born, Themis, the goddess of divine law, fed him the nectar, or ambrosia. Upon tasting the divine food, Apollo broke free of the bands fastened onto him and declared that he would be the master of lyre and archery, and interpret the will of Zeus to humankind.[160]
-
-Latona_with_the_infants_Apollo_and_Artemis,_by_Francesco_Pozzi,_1824,_marble_-_Sculpture_Gallery,_Chatsworth_House_-_Derbyshire,_England_-_DSC03504.jpg
+When Apollo was born clutching a golden sword,[158] the swans circled Delos seven times and the nymphs sang in delight.[159] Soon after he was born, he was washed clean by the goddesses and was covered in white garment, with golden bands fastened around him. Since Leto was unable to feed the new born, Themis, the goddess of divine law, fed him the nectar, or ambrosia. Upon tasting the divine food, Apollo broke free of the bands fastened onto him and declared that he would be the master of lyre and archery, and interpret the will of Zeus to humankind.[160]
 
 Apollo's birth fixed the floating Delos to the earth.[161] Leto was accepted by the people of Delos and she promised them that her son would be always favorable towards the city. According to some, Apollo secured Delos to the bottom of the ocean after some time.[162][163] This island later became sacred to Apollo.
 
@@ -308,13 +296,11 @@ As a child, Apollo is said to have built a foundation and an altar on Delos usin
 
 _Hyperboreans: Myth and History in Celtic-Hellenic Contacts_
 
-John_Flaxman_-_To_Phoebus_at_His_Birth,_From_Aeschylus,_Furies_-_Google_Art_Project.jpg gifts the oracular tripod to Apollo, by John Flaxman]]
+gifts the oracular tripod to Apollo, by John Flaxman]]
 
 In his young years when Apollo spent his time herding cows, he was reared by Thriae, the bee nymphs, who trained him and enhanced his prophetic skills.[174] Apollo is also said to have invented the lyre, and along with Artemis, the art of archery. He then taught to the humans the art of healing and archery.[175] Phoebe, his grandmother, gave the oracular shrine of Delphi to Apollo as a birthday gift. Themis inspired him to be the oracular voice of Delphi thereon.[176][177]
 
 Python
-
-Leto_(Latona)._-_Engravings_on_Wood.jpg
 
 Python, a chthonic serpent-dragon, was a child of Gaea and the guardian of the Delphic Oracle, whose death was foretold by Apollo when he was still in Leto's womb.[178] Python was the nurse of the giant Typhon.[179] In most of the traditions, Apollo was still a child when he killed Python.
 
@@ -330,25 +316,21 @@ A detailed account of Apollo's conflict with Gaea and Zeus' intervention on beha
 
 Apollo also demanded that all the other methods of divination be made inferior, and Zeus granted him that too. Because of this, Athena, who had been practicing divination by throwing pebbles, cast her pebbles away in displeasure.[183]
 
-Apollo_Killing_the_Python_LACMA_54.70.1i.jpg
-
 However, Apollo had committed a blood murder, and had to be purified. Because Python was a child of Gaea, Gaea wanted Apollo to be banished to Tartarus as a punishment.[184] Zeus didn't agree and instead exiled his son from Olympus, and instructed him to get purified. Apollo had to serve as a slave for nine years.[185] After the servitude was over, as per his father's order, Apollo travelled to the Vale of Tempe to bath in waters of Peneus.[186] There Zeus himself performed purification rites on Apollo. Purified, Apollo was escorted by his half sister Athena to Delphi where the oracular shrine was finally handed over to him by Gaea.[187] According to a variation, Apollo had also travelled to Crete, where Carmanor had to perform purification rites on him. Apollo later established the Pythian games to appropriate Gaea. Henceforth, Apollo became the god who cleansed himself from the sin of murder and, made men aware of their guilt and purified them.[188]
 
 Zeus sent Apollo to go to Delphi and establish his law and order there. But Apollo, disobeying his father, went to the land of Hyperborea and stayed there for a year.[189] When he returned, he ascended back to Olympus. Zeus, pleased with his son's integrity, gave Apollo the seat next to him on his right side. He also gifted to Apollo a golden tripod, a golden bow and arrows, a golden chariot and the land of Delphi.[190]
-
-7003.Apollo_mit_dem_getöteten_Python(1752)-François_Gaspard_Adam-Große_Fontäne-Sanssouci_Steffen_Heilfort.JPG
 
 Soon after his return, Apollo needed to recruit people to Delphi. So, when he spotted a ship sailing from Crete, he sprang aboard in the form of a dolphin. The crew was awed into submission and followed a course that led the ship to Delphi. There Apollo revealed himself as a god. Initiating them to his service, he instructed them to keep righteousness in their hearts. The Pythia was Apollo's high priestess and his mouthpiece through whom he gave prophecies. Pythia is arguably the constant favorite of Apollo among the mortals.
 
 Tityos
 
-Apollo_Tityos_Staatliche_Antikensammlungen_2689.jpg, Attic red-figure kylix, 460–450 BC]]
+, Attic red-figure kylix, 460–450 BC]]
 
 Hera once again sent another giant, Tityos to rape Leto. This time Apollo shot him with his arrows and attacked him with his golden sword. According to other version, Artemis also aided him in protecting their mother by attacking Tityos with her arrows.[191] After the battle Zeus finally relented his aid and hurled Tityos down to Tartarus. There, he was pegged to the rock floor, covering an area of , where a pair of vultures feasted daily on his liver.
 
 Admetus
 
-Drawing,_Apollo_Guards_the_Herds_(or_Flocks)_of_King_Admetus,_1780–1800_(CH_18122047).jpg, by Felice Gianni]]
+, by Felice Gianni]]
 
 King Admetus was the king of Pherae who was known for his hospitality. When Apollo was exiled from Olympus for killing Python, he served as a herdsman under Admetus who was still a young king. Apollo is said to have shared a romantic relationship with Admetus during his stay of 9 years.[192] After his servitude was over, Apollo went back to Olympus as a god.
 
@@ -360,7 +342,7 @@ The love between Apollo and Admetus was a favored topic of Roman poets like Ovid
 
 Niobe
 
-Pierre-Charles_Jombert_-_Les_enfants_de_Niobé_tués_par_Apollon_et_Diane.JPG]]
+]]
 
 The fate of Niobe was prophesied by Apollo while he was still in Leto's womb.[202] Niobe was the queen of Thebes and wife of Amphion. She displayed hubris when she boasted of her superiority to Leto because she had fourteen children (Niobids), seven male and seven female, while Leto had only two. She further mocked Apollo's effeminate appearance and Artemis' manly appearance. Leto, insulted by this, told her children to punish Niobe. Accordingly, Apollo killed Niobe's sons, and Artemis her daughters. Apollo and Artemis used poisoned arrows to kill them, though according to some versions of the myth, among the Niobids, Chloris and her brother Amyclas were not killed because they prayed to Leto. Amphion, at the sight of his dead sons, either killed himself or was killed by Apollo after swearing revenge.
 
@@ -372,7 +354,7 @@ Exile in Troy
 
 Once Apollo, along with Athena and Poseidon, participated in Hera's scheme to hold Zeus captive and demand a better rule from him. Though they were successful in trapping Zeus with nets, Zeus managed to get himself freed with the help of Thetis. Feeling betrayed and angry, he sent Apollo and Poseidon to serve as slaves under the Trojan king Laomedon. According to other version, both gods went there to test Laomedon. Apollo guarded the cattle of Laomedon in the valleys of mount Ida, while Poseidon built the walls of Troy. There, Apollo had a lover named Ourea, and sired a son Ileus by her.
 
-Sandrart_(attributed),_Troppa_(attr.)_-_Laomedon_Refusing_Payment_to_Poseidon_and_Apollo_-_17th_c.jpg]]
+]]
 
 Later, Apollo was also made to build the walls. Apollo obeyed, and by playing his lyre, he built the walls of Troy. However, the king refused to give them the wages he had promised. Angered, Apollo sent a pestilence to the city. To deliver the city from it, Laomedon had to sacrifice his daughter Hesione (who would later be saved by Heracles).
 
@@ -382,25 +364,23 @@ Apollo sided with the Trojans during the Trojan war, a war waged by the Greeks a
 
 During the war, Agamemnon, a Greek hero captured Chryseis, the daughter of Apollo's priest Chryses. Angered, Apollo shot arrows infected with the plague into the Greek encampment. He demanded to return the girl, and the Achaeans (Greeks) complied, indirectly causing the _anger of Achilles_, which is the theme of the _Iliad_.
 
-John_Flaxman_-_Apollo_Preceding_Hector_with_His_Aegis,_and_Dispersing_the_Greeks,_Fuseli's_Lectures_-_Google_Art_Project.jpg with his Aegis, and dispersing the Greeks, by John Flaxman]]
+with his Aegis, and dispersing the Greeks, by John Flaxman]]
 
 Receiving the aegis from Zeus, Apollo entered the battlefield as per his father's wish, causing great terror to the enemy with his war cry, pushing them back and destroying many of them. He is described as "the rouser of armies", because he rallied the Trojan army when they were falling apart.
 
 When Zeus allowed the other gods to get involved in the war, Apollo was provoked by Poseidon to a duel. However, Apollo declined to fight him, saying that he wouldn't fight his uncle for the sake of mortals.
 
-Diomedes_prevented_by_Apollo_from_pursuing_Aeneas_(?)_MET_80355.jpg from pursuing Aeneas]]
+from pursuing Aeneas]]
 
 When Diomedes, the Greek hero, injured Aeneas, a Trojan ally, Aphrodite tried to rescue him but Diomedes injured her as well. Apollo then enveloped Aeneas in a cloud to protect him. He repelled the attacks Diomedes made on him and gave the hero a stern warning to abstain himself from attacking a god. Aeneas was then taken to Pergamos, a sacred spot in Troy, where he was healed.
 
 After the death of Sarpedon, a son of Zeus, Apollo rescued the corpse from the battlefield as per his father's wish and cleaned it. He then gave it to Sleep (Hypnos) and Death (Thanatos). Apollo had also once convinced Athena to stop the war for that day, so that the warriors can relieve themselves for a while.
 
-Hector's_body_dragged_at_the_Chariot_of_Achilles.jpg
-
 The Trojan hero Hector was favored by Apollo, who, according to some, was the god's own son by Hecuba.[204] When he got injured, Apollo healed him and encouraged him to take up the arms. During a duel with Achilles, when Hector was about to lose, Apollo hid Hector in a cloud of mist to save him. At last, after Hector's fated death, Apollo protected his corpse from Achilles' attempt to mutilate it by creating a magical cloud over the corpse.
 
 The Greek warrior Patroclus tried to get into the fort of Troy and was stopped by Apollo. Encouraging Hector to attack Patroclus, Apollo stripped the armour of Patroclus and broke his weapons. Patroclus was eventually killed by Hector.
 
-Achilles_slaying_Troilus.PNG slaying Troilus]]
+slaying Troilus]]
 
 Apollo held anger towards Achilles throughout the war. The reason for this was the murder of his son Tenes before the war began, and brutal assassination of his another son Troilus in his own temple, both by Achilles. Not only did Apollo save Hector from Achilles, he also tricked Achilles by disguising himself as a Trojan warrior and driving him away from the gates. He foiled Achilles' attempt to mutilate Hector's dead body.
 
@@ -412,11 +392,7 @@ Heracles
 
 After Heracles (then named Alcides) was struck with madness and killed his family, he sought to purify himself and consulted the oracle of Apollo. Apollo, through the Pythia, commanded him to serve king Eurystheus for twelve years and complete the ten tasks the king would give him. Only then would Alcides be absolved of his sin. Apollo also renamed him as Heracles.[205]
 
-Corinthian_helmet_Cdm_Paris_BB2013_n2.jpg
-
 To complete his third task, Heracles had to capture the Ceryneian Hind, a hind sacred to Artemis, and bring it alive. He chased the hind for one year. When the animal eventually got tired and tried crossing the river Ladon, he captured it. While he was taking it back, he was confronted by Apollo and Artemis, who was angered at Heracles for this act. However, Heracles soothed the goddess, explained the situation and pleaded her. In the end, Artemis gave her consent.
-
-Herakles_tripod_Louvre_F341.jpg
 
 After he was freed from his servitude to Eurystheus, Heracles fell in conflict with Iphytus, a prince of Oechalia, and murdered him. Soon after, he contracted a terrible disease. He consulted the oracle of Apollo once again, in hopes to get rid of the disease. The Pythia, however, denied to give any prophesy. In anger, Heracles snatched the sacred tripod and started going away, intending to start his own Oracle. However, Apollo did not tolerate this and stopped Heracles. A duel ensued between Apollo and Heracles where Athena supported the latter. Soon, Zeus intervened between the fighting brothers by throwing his thunderbolt between them. He reprimanded Heracles for this act of violation, and asked Apollo to give a solution to Heracles. Apollo then ordered the hero to serve under Omphale, queen of Lydia for one year in order to purify himself.
 
@@ -454,7 +430,7 @@ God of music
 
 Apollo's music is soulful and enchanting. His music would deliver people from their pain, and hence, like Dionysus, he is also called the liberator.[211] Apollo often appears as the companion of the Muses and as _Musagetes_, he leads them into dance while he sang. He is found delighting the immortal gods with his songs and music on the lyre.[212] Apollo and the Muses are often seen on Parnassus, which is one of their favorite spots.
 
-Parnassus,_Andrea_Appiani_(1811).jpg]]
+]]
 
 Apollo was always invited to play music on weddings of the gods, like the marriage of Eros and Psyche, Peleus and Thetis. When Orpheus was still a child, Apollo gifted a lyre and taught him how to play it. Apollo also participated in musical contests when challenged by others. He was the victor in all those contests, but usually punished his opponents severely for their hubris.
 
@@ -464,23 +440,21 @@ The invention of lyre is attributed either to Hermes or to Apollo himself.[213] 
 
 Myths tell that the infant Hermes stole a number of Apollo's cows and took them to a cave in the woods near Pylos, covering their tracks. In the cave, he found a tortoise and killed it, then removed the insides. He used one of the cow's intestines and the tortoise shell and made his lyre.
 
-Noël_Coypel_-_Story_of_Apollo-Apollo_and_Mercury,_1688.jpg]]
+]]
 
 Upon discovering the theft, Apollo confronted Hermes and asked him to return his cattle. When Hermes acted innocent, Apollo took the matter to Zeus. Zeus, having seen the events, sided with Apollo, and ordered Hermes to return the cattle. Hermes then began to play music on the lyre he had invented. Apollo, a god of music, fell in love with the instrument and offered to allow exchange of the cattle for the lyre. Hence, Apollo then became a master of the lyre.
-
-Detail_of_the_statue_of_Apollo_holding_the_kithara,_from_the_Temple_of_Venus_(Casino_Fede)_at_Hadrian's_Villa,_Ny_Carlsberg_Glyptoteket_(12233881783).jpg
 
 According to other versions, Apollo had invented the lyre himself, whose strings he tore in repent to the excess punishment he had given to Marsyas. Hermes' lyre, therefore, is rather a reinvention.[215]
 
 Contest with Pan
 
-Laurits_Regner_Tuxen_The-Musical-Dual-Of-Pan-And-Apollo.jpg]] Once Pan had the audacity to compare his music with that of Apollo and to challenge Apollo, the god of music. The mountain-god Tmolus was chosen to umpire. Pan blew on his pipes, and with his rustic melody gave great satisfaction to himself and his faithful follower, Midas, who happened to be present. Then Apollo struck the strings of his lyre. It was so beautiful that Tmolus at once awarded the victory to Apollo, and everyone were pleased with the judgement. Only Midas dissented and questioned the justice of the award. Apollo would not suffer such a depraved pair of ears any longer, and caused them to become the ears of a donkey.
+]] Once Pan had the audacity to compare his music with that of Apollo and to challenge Apollo, the god of music. The mountain-god Tmolus was chosen to umpire. Pan blew on his pipes, and with his rustic melody gave great satisfaction to himself and his faithful follower, Midas, who happened to be present. Then Apollo struck the strings of his lyre. It was so beautiful that Tmolus at once awarded the victory to Apollo, and everyone were pleased with the judgement. Only Midas dissented and questioned the justice of the award. Apollo would not suffer such a depraved pair of ears any longer, and caused them to become the ears of a donkey.
 
 Contest with Marsyas
 
 Marsyas was a satyr who was punished by Apollo for his hubris. He had found an aulos on the ground, tossed away after being invented by Athena because it made her cheeks puffy. Athena had also placed a curse upon the instrument, that whoever would pick it up would be severely punished. When Marsyas played the flute, everyone became frenzied with joy. This led Marsyas to think that he was better than Apollo, and he challenged the god to a musical contest. The contest was judged by the Muses, or the nymphs of Nysa. Athena was also present to witness the contest.
 
-Athena_Marsyas.jpg and Marsyas]]
+and Marsyas]]
 
 Marsyas taunted Apollo for "wearing his hair long, for having a fair face and smooth body, for his skill in so many arts".[216] He also further said
 
@@ -488,13 +462,13 @@ Marsyas taunted Apollo for "wearing his hair long, for having a fair face and sm
 
 The Muses and Athena sniggered at this comment. The contestants agreed to take turns displaying their skills and the rule was that the victor can "do whatever he wanted" to the loser. Marsyas, since he was a satyr, expected to do something sexual in nature to Apollo when he would win the contest.
 
-05apol1.jpg by Palma il Giovane]]
+by Palma il Giovane]]
 
 According to one account, after they each had performed, both were deemed equal by the Nysiads. But in the next round, Apollo played and sang with his melodious voice at the same time. Marsyas argued against this, saying that Apollo would have an advantage and accused Apollo of cheating. But Apollo replied that since Marsyas played the flute, which needed air blown from the throat, it was almost the same as singing, and that either they both should get an equal chance to combine their skills or none of them should use their mouths at all. The nymphs decided that Apollo's arguement was just. Apollo again played his lyre and sang at the same time, mesmerising the audience. Marsyas could not do this. Apollo was declared the winner and angered with Marsyas' haughtiness and his accusation, he decided to flay the satyr.[218]
 
 According to another account, Marsyas played his flute out of tune at one point and accepted his defeat. Out of shame, he assigned to himself the punishment of being skinned for a wine sack.[219] Another variation is that Apollo played his instrument (the lyre) upside down. Marsyas could not do this with his instrument (the flute), and so the Muses who were the judges declared Apollo the winner, who hung Marsyas from a tree to flay him.[220]
 
-Marsyas_Flayed_by_the_Order_of_Apollo_-_Charles_André_van_Loo_(1735).jpg]]
+]]
 
 Apollo flayed the limbs of Marsyas alive in a cave near Celaenae in Phrygia for his hubris to challenge a god. He then gave the rest of his body for proper burial[221] and nailed Marsyas' flayed skin to a nearby pine-tree. Marsyas' blood turned into the river Marsyas. But, Apollo soon repented and being distressed at what he had done, he broke the strings of his lyre and threw it away. The lyre was later discovered by the Muses and Apollo's sons Linus and Orpheus. The Muses fixed the middle string, Linus the string struck with the forefinger, and Orpheus the lowest string and the one next to it. They took it back to Apollo, but the god laid away both the lyre and the pipes, and joined Cybele in her wanderings to as far as Hyperborea.[222][223]
 
@@ -502,7 +476,7 @@ Contest with Cinyras
 
 Cinyras was a ruler of Cyprus, who was a friend of Agamemnon. Cinyras promised to assist Agamemnon in the Trojan war, but did not keep his promise. Agamemnon cursed Cinyras. He invoked Apollo and asked the god to avenge the broken promise. Apollo then had a lyre-playing contest with Cinyras, and defeated him. Either Cinyras committed suicide when he lost, or was killed by Apollo.[224][225]
 
-Apollon_Raon_Versailles_MV5921.jpg]]
+]]
 
 Patron of sailors
 
@@ -527,8 +501,6 @@ Once Hera, out of spite, aroused the Titans to war against Zeus and take away hi
 Trojan war
 
 Apollo played a pivotal role in the entire Trojan war. He sided with the Trojans, and sent a terrible plague to the Greek camp, which indirectly led to the conflict between Achilles and Agamemnon. He killed the Greek heroes Patroclus, Achilles, and numerous Greek soldiers. He also helped many Trojan heroes, the most important one being Hector.
-
-Paris_armour_Pomarici_Santomasi.jpg
 
 Telegony war
 
@@ -560,7 +532,7 @@ Phorbas was a savage giant king of Phlegyas who was described as having swine li
 
 Other stories
 
-François_Boucher_-_The_Rising_of_the_Sun_-_WGA02916.jpg]]
+]]
 
 As a child, Apollo built an altar made of goat horns[242] which was considered as one of the wonders of the world.[243]
 
@@ -570,23 +542,23 @@ Apollo rescued Hemithea and Parthenos, sisters of Rhoeo from their drunk father 
 
 Apollo spoke to Zeus regarding Prometheus, the titan who was punished by Zeus for stealing fire. Apollo, with tears in his eyes, pleaded Zeus to release the kind Titan. Zeus, moved by Apollo's words and the tears of Artemis and Leto, sent Heracles to free Prometheus.[246]
 
-Nicolas-Guy_Brenet_-_Apollo_Crowning_the_Arts,_1771.jpg]]
+]]
 
 Apollo guided Aphrodite to his sanctuary when she was grief-stricken with Adonis' death. He helped her free herself from the heartbreak.
 
 Apollo divides months into summer and winter.[247] He rides on the back of a swan to the land of the Hyperboreans during the winter months,[248] and the absence of warmth in winters is due to his departure. During his absence, Delphi was under the care of Dionysus, and no prophecies were given during winters.
 
-François_Boucher_028.jpg]]
+]]
 
 Female lovers
 
 Love affairs ascribed to Apollo are a late development in Greek mythology.[249] Their vivid anecdotal qualities have made some of them favorites of painters since the Renaissance, the result being that they stand out more prominently in the modern imagination.
 
-Apollo_and_Daphne_(Bernini).jpg'' by Bernini in the Galleria Borghese]] Daphne was a nymph whose parentage varies. She scorned Apollo's advances and ran away from him. When Apollo chased her in order to persuade her, she changed herself into a laurel tree. According to other versions, she cried for help during the chase, and Gaea helped her by taking her in and placing a laurel tree in her place.[250] According to Roman poet Ovid, the chase was brought about by Cupid, who hit Apollo with golden arrow of love and Daphne with leaden arrow of hatred. The myth explains the origin of the laurel and connection of Apollo with the laurel and its leaves, which his priestess employed at Delphi. The leaves became the symbol of victory and laurel wreaths were given to the victors of the Pythian games.
+'' by Bernini in the Galleria Borghese]] Daphne was a nymph whose parentage varies. She scorned Apollo's advances and ran away from him. When Apollo chased her in order to persuade her, she changed herself into a laurel tree. According to other versions, she cried for help during the chase, and Gaea helped her by taking her in and placing a laurel tree in her place.[250] According to Roman poet Ovid, the chase was brought about by Cupid, who hit Apollo with golden arrow of love and Daphne with leaden arrow of hatred. The myth explains the origin of the laurel and connection of Apollo with the laurel and its leaves, which his priestess employed at Delphi. The leaves became the symbol of victory and laurel wreaths were given to the victors of the Pythian games.
 
-Robert_Sanderson_-_Apollo_and_the_Muses.jpg Apollo is said to have been the lover of all nine Muses, and not being able to choose one of them, decided to remain unwed.[251] He fathered the Corybantes by the Muse Thalia,[252] Orpheus by Calliope, Linus of Thrace by Calliope or Urania and Hymenaios(Hymen) by either Terpsichore or Clio or Calliope.[253]
+Apollo is said to have been the lover of all nine Muses, and not being able to choose one of them, decided to remain unwed.[251] He fathered the Corybantes by the Muse Thalia,[252] Orpheus by Calliope, Linus of Thrace by Calliope or Urania and Hymenaios(Hymen) by either Terpsichore or Clio or Calliope.[253]
 
-Cyrene_and_Cattle_-_Edward_Calvert.jpg]] Cyrene, was a Thessalian princess whom Apollo loved. In her honor, he built the city Cyrene and made her its ruler. She was later granted longevity by Apollo who turned her into a nymph. The couple had two sons, Aristaeus, and Idmon.
+]] Cyrene, was a Thessalian princess whom Apollo loved. In her honor, he built the city Cyrene and made her its ruler. She was later granted longevity by Apollo who turned her into a nymph. The couple had two sons, Aristaeus, and Idmon.
 
 Evadne was a nymph daughter of Poseidon and a lover of Apollo. She bore him a son, Iamos. During the time of the childbirth, Apollo sent Eileithyia, the goddess of childbirth to assist her.
 
@@ -606,13 +578,11 @@ In Euripides' play _Ion_, Apollo fathered Ion by Creusa, wife of Xuthus. He used
 
 Male lovers
 
-Cesio,_Carlo_1626_-_1686)_-_Apollo_e_Giacinto,_inc._da_Annibale_Carracci,_-1675-.jpg Hyacinth or Hyacinthus was one of Apollo's male lovers. He was a Spartan prince, beautiful and athletic. The pair was practicing throwing the discus when a discus thrown by Apollo was blown off course by the jealous Zephyrus and struck Hyacinthus in the head, killing him instantly. Apollo is said to be filled with grief: out of Hyacinthus' blood, Apollo created a flower named after him as a memorial to his death, and his tears stained the flower petals with the interjection , meaning _alas_.[258] He was later resurrected and taken to heaven. The festival Hyacinthia was a national celebration of Sparta, which commemorated the death and rebirth of Hyacinthus. Kiselev_Death_of_Hyacinth.jpg]]
+Hyacinth or Hyacinthus was one of Apollo's male lovers. He was a Spartan prince, beautiful and athletic. The pair was practicing throwing the discus when a discus thrown by Apollo was blown off course by the jealous Zephyrus and struck Hyacinthus in the head, killing him instantly. Apollo is said to be filled with grief: out of Hyacinthus' blood, Apollo created a flower named after him as a memorial to his death, and his tears stained the flower petals with the interjection , meaning _alas_.[258] He was later resurrected and taken to heaven. The festival Hyacinthia was a national celebration of Sparta, which commemorated the death and rebirth of Hyacinthus. ]]
 
 Another male lover was Cyparissus, a descendant of Heracles. Apollo gave him a tame deer as a companion but Cyparissus accidentally killed it with a javelin as it lay asleep in the undergrowth. Cyparissus was so saddened by its death that he asked Apollo to let his tears fall forever. Apollo granted the request by turning him into the Cypress named after him, which was said to be a sad tree because the sap forms droplets like tears on the trunk.
 
-Granger-Apollo.jpg
-
-Admetus, the king of Pherae, was also Apollo's lover.[259][260] During his exile, which lasted either for one year or nine years,[261] Apollo served Admetus as a herdsman. Developing a passion for the king there, he herded and fed the cattle, and caused the cows to give birth to twin calves. He would make cheese and serve it to Admetus and was often seen being domestic, causing embarrassment to his family. Nicolas-Antoine_Taunay_-_Apollo_visiting_Admetus,_cropped.jpeg]] When Admetus wanted to marry princess Alcestis, Apollo provided a chariot pulled by a lion and a boar he had tamed. This satisfied Alcestis' father and he let Admetus marry his daughter. Further, Apollo saved the king from Artemis' wrath and also convinced the Moirai to postpone Admetus' death once.
+Admetus, the king of Pherae, was also Apollo's lover.[259][260] During his exile, which lasted either for one year or nine years,[261] Apollo served Admetus as a herdsman. Developing a passion for the king there, he herded and fed the cattle, and caused the cows to give birth to twin calves. He would make cheese and serve it to Admetus and was often seen being domestic, causing embarrassment to his family. ]] When Admetus wanted to marry princess Alcestis, Apollo provided a chariot pulled by a lion and a boar he had tamed. This satisfied Alcestis' father and he let Admetus marry his daughter. Further, Apollo saved the king from Artemis' wrath and also convinced the Moirai to postpone Admetus' death once.
 
 Branchus, a shepherd, one day came across Apollo in the woods. Captivated by the god's beauty, he kissed Apollo. Apollo requited his affections and wanting to reward him, bestowed prophetic skills on him. His descendants, the Branchides, were an influential clan of prophets.[262]
 
@@ -630,7 +600,7 @@ Children
 
 Apollo sired many children, from mortal women and nymphs as well as the goddesses. His children grew up to be physicians, musicians, poets, seers or archers. Many of his sons founded new cities and became kings. They were all usually very beautiful.
 
-1590._Apollo_Entrusting_Chiron_with_the_Education_of_Aescalapius_-_etching_-_Washington_DC,_NGA.jpg with the Education of Aescalapius]]
+with the Education of Aescalapius]]
 
 Asclepius is the most famous son of Apollo. His skills as a physician surpassed that of Apollo's. Zeus killed him for bringing back the dead, but upon Apollo's request, he was resurrected as a god. Aristaeus was placed under the care of Chiron after his birth. He became the god of beekeeping, cheese making, animal husbandry and more. He was ultimately given immortality for the benefits he bestowed upon the humanity. The Corybantes were spear-clashing, dancing demigods.
 
@@ -711,11 +681,9 @@ Female counterparts
 
 Artemis
 
-Apollo_Artemis_Brygos_Louvre_G151.jpg. Brygos (potter signed), tondo of an Attic red-figure cup c. 470 BC, Musée du Louvre.]]
+. Brygos (potter signed), tondo of an Attic red-figure cup c. 470 BC, Musée du Louvre.]]
 
 Artemis as the sister of Apollo, is _thea apollousa_, that is, she as a female divinity represented the same idea that Apollo did as a male divinity. In the pre-Hellenic period, their relationship was described as the one between husband and wife, and there seems to have been a tradition which actually described Artemis as the wife of Apollo. However, this relationship was never sexual but spiritual,[323] which is why they both are seen being unmarried in the Hellenic period.[324]
-
-Gavin_Hamilton_-_Apollo_and_Artemis,_1770.jpg
 
 Artemis, like her brother, is armed with a bow and arrows. She is the cause of sudden deaths of women. She also is the protector of the young, especially girls. Though she has nothing to do with oracles, music or poetry, she sometimes led the female chorus on Olympus while Apollo sang.[325] The laurel was sacred to both. _Artemis Daphnaia_ had her temple among the Lacedemonians, at a place called Hypsoi.[326] In later times when Apollo was regarded as identical with the sun or Helios, Artemis was naturally regarded as Selene or the moon. The Laurel was sacred to both. _Apollo Daphnephoros_ had a temple in Eretria, a "place where the citizens are to take the oaths.[327]
 
@@ -723,9 +691,9 @@ Hecate
 
 Hecate, the goddess of witchcraft and magic, is the chthonic counterpart of Apollo. They both are cousins, since their mothers - Leto and Asteria - are sisters. One of Apollo's epithets, _Hecatos_, is the masculine form of Hecate, and both the names mean "working from afar". While Apollo presided over the prophetic powers and magic of light and heaven, Hecate presided over the prophetic powers and magic of night and chthonian darkness.[328] If Hecate is the "gate-keeper", Apollo _Agyieus_ is the "door-keeper". Hecate is the goddess of crossroads and Apollo is the god and protector of streets.[329]
 
-Jusepe_de_Ribera_-_Hecate,_Procession_to_a_Witches'_Sabbath.jpg]]
+]]
 
-Guido_Reni_008.jpg (hours) and Aurora, by Guido Reni]]
+(hours) and Aurora, by Guido Reni]]
 
 The oldest evidence found for Hecate's worship is at Apollo's temple in Miletos. There, Hecate was taken to be Apollo's sister counterpart in the absence of Artemis.[330] Hecate's lunar nature makes her the goddess of the waning moon and contrats and complements, at the same time, Apollo's solar nature.
 
@@ -733,7 +701,7 @@ Athena
 
 As a deity of knowledge and great power, Apollo was seen being the male counterpart of Athena. Being Zeus' favorite children, they were given more powers and duties. Apollo and Athena often took up the role as protectors of cities, and were patrons of some of the important cities. Athena was the principle goddess of Athens, Apollo was the principle god of Sparta.[331]
 
-Houbraken,_Arnold_-_Pallas_Athene_Visiting_Apollo_on_the_Parnassus_-_1703.jpeg]]
+]]
 
 As patrons of arts, Apollo and Athena were companions of the Muses, the former a much more frequent companion than the latter.[332] Apollo was sometimes called the son of Athena and Hephaestus due to his wise and artistic nature.[333]
 
@@ -763,11 +731,11 @@ Attributes and symbols
 
 Apollo's most common attributes were the bow and arrow. Other attributes of his included the kithara (an advanced version of the common lyre), the plectrum and the sword. Another common emblem was the sacrificial tripod, representing his prophetic powers. The Pythian Games were held in Apollo's honor every four years at Delphi. The bay laurel plant was used in expiatory sacrifices and in making the crown of victory at these games.
 
-Ai-Khanoum-gold_stater_of_Antiochos1.jpg king Antiochus I Soter (reigned 281–261 BCE) showing on the reverse a nude Apollo holding his key attributes: two arrows and a bow]]
+king Antiochus I Soter (reigned 281–261 BCE) showing on the reverse a nude Apollo holding his key attributes: two arrows and a bow]]
 
 The palm tree was also sacred to Apollo because he had been born under one in Delos. Animals sacred to Apollo included wolves, dolphins, roe deer, swans, cicadas (symbolizing music and song), hawks, ravens, crows, snakes (referencing Apollo's function as the god of prophecy), mice and griffins, mythical eagle–lion hybrids of Eastern origin.
 
-Apolocitaredo8.jpg'' ("Apollo with a kithara"), Musei Capitolini, Rome]] As god of colonization, Apollo gave oracular guidance on colonies, especially during the height of colonization, 750–550 BCE. According to Greek tradition, he helped Cretan or Arcadian colonists found the city of Troy. However, this story may reflect a cultural influence which had the reverse direction: Hittite cuneiform texts mention a Minor Asian god called _Appaliunas_ or _Apalunas_ in connection with the city of Wilusa attested in Hittite inscriptions, which is now generally regarded as being identical with the Greek Ilion by most scholars. In this interpretation, Apollo's title of _Lykegenes_ can simply be read as "born in Lycia", which effectively severs the god's supposed link with wolves (possibly a folk etymology).
+'' ("Apollo with a kithara"), Musei Capitolini, Rome]] As god of colonization, Apollo gave oracular guidance on colonies, especially during the height of colonization, 750–550 BCE. According to Greek tradition, he helped Cretan or Arcadian colonists found the city of Troy. However, this story may reflect a cultural influence which had the reverse direction: Hittite cuneiform texts mention a Minor Asian god called _Appaliunas_ or _Apalunas_ in connection with the city of Wilusa attested in Hittite inscriptions, which is now generally regarded as being identical with the Greek Ilion by most scholars. In this interpretation, Apollo's title of _Lykegenes_ can simply be read as "born in Lycia", which effectively severs the god's supposed link with wolves (possibly a folk etymology).
 
 In literary contexts, Apollo represents harmony, order, and reason—characteristics contrasted with those of Dionysus, god of wine, who represents ecstasy and disorder. The contrast between the roles of these gods is reflected in the adjectives Apollonian and Dionysian. However, the Greeks thought of the two qualities as complementary: the two gods are brothers, and when Apollo at winter left for Hyperborea, he would leave the Delphic oracle to Dionysus. This contrast appears to be shown on the two sides of the Borghese Vase.
 
@@ -776,7 +744,7 @@ Apollo is often associated with the Golden Mean. This is the Greek ideal of mode
 
 Apollo in the arts
 
-Apollo_Saurocton_Louvre.jpg (360 BC)]] Apollo is a common theme in Greek and Roman art and also in the art of the Renaissance. The earliest Greek word for a statue is "delight" (, _agalma_), and the sculptors tried to create forms which would inspire such guiding vision. Greek art puts into Apollo the highest degree of power and beauty that can be imagined. The sculptors derived this from observations on human beings, but they also embodied in concrete form, issues beyond the reach of ordinary thought.
+(360 BC)]] Apollo is a common theme in Greek and Roman art and also in the art of the Renaissance. The earliest Greek word for a statue is "delight" (, _agalma_), and the sculptors tried to create forms which would inspire such guiding vision. Greek art puts into Apollo the highest degree of power and beauty that can be imagined. The sculptors derived this from observations on human beings, but they also embodied in concrete form, issues beyond the reach of ordinary thought.
 
 The naked bodies of the statues are associated with the cult of the body that was essentially a religious activity. The muscular frames and limbs combined with slim waists indicate the Greek desire for health, and the physical capacity which was necessary in the hard Greek environment. The statues of Apollo embody beauty, balance and inspire awe before the beauty of the world.
 
@@ -792,19 +760,19 @@ In classical Greece, Anaxagoras asserted that a divine reason (mind) gave order 
 
 Archaic sculpture
 
-KAMA_Kouros_Porte_Sacrée.jpg]]
+]]
 
 Kouros (_male youth_) is the modern term given to those representations of standing male youths which first appear in the archaic period in Greece. This type served certain religious needs and was first proposed for what was previously thought to be depictions of _Apollo_.[350][351] The first statues are certainly still and formal. The formality of their stance seems to be related with the Egyptian precedent, but it was accepted for a good reason. The sculptors had a clear idea of what a young man is, and embodied the archaic smile of good manners, the firm and springy step, the balance of the body, dignity, and youthful happiness. When they tried to depict the most abiding qualities of men, it was because men had common roots with the unchanging gods.[352] The adoption of a standard recognizable type for a long time, is probably because nature gives preference in survival of a type which has long be adopted by the climatic conditions, and also due to the general Greek belief that nature expresses itself in _ideal forms_ that can be imagined and represented.[353] These forms expressed immortality. Apollo was the immortal god of _ideal balance and order_. His shrine in Delphi, that he shared in winter with Dionysius had the inscriptions: (gnōthi seautón="know thyself") and (_mēdén ágan_, "nothing in excess"), and (eggýa pára d'atē, "make a pledge and mischief is nigh").[354]
 
-WLA_metmuseum_Marble_statue_of_a_kouros_youth_2.jpg]] In the first large-scale depictions during the early archaic period (640–580 BC), the artists tried to draw one's attention to look into the interior of the face and the body which were not represented as lifeless masses, but as being full of life. The Greeks maintained, until late in their civilization, an almost animistic idea that the statues are in some sense alive. This embodies the belief that the image was somehow the god or man himself.[355] A fine example is the statue of the _Sacred Gate Kouros_ which was found at the cemetery of Dipylon in Athens (Dipylon Kouros). The statue is the "thing in itself", and his slender face with the deep eyes express an intellectual eternity. According to the Greek tradition the Dipylon master was named Daedalus, and in his statues the limbs were freed from the body, giving the impression that the statues could move. It is considered that he created also the _New York kouros_, which is the oldest fully preserved statue of _Kouros_ type, and seems to be the incarnation of the god himself.[356]
+]] In the first large-scale depictions during the early archaic period (640–580 BC), the artists tried to draw one's attention to look into the interior of the face and the body which were not represented as lifeless masses, but as being full of life. The Greeks maintained, until late in their civilization, an almost animistic idea that the statues are in some sense alive. This embodies the belief that the image was somehow the god or man himself.[355] A fine example is the statue of the _Sacred Gate Kouros_ which was found at the cemetery of Dipylon in Athens (Dipylon Kouros). The statue is the "thing in itself", and his slender face with the deep eyes express an intellectual eternity. According to the Greek tradition the Dipylon master was named Daedalus, and in his statues the limbs were freed from the body, giving the impression that the statues could move. It is considered that he created also the _New York kouros_, which is the oldest fully preserved statue of _Kouros_ type, and seems to be the incarnation of the god himself.[356]
 
-7262_-_Piraeus_Arch._Museum,_Athens_-_The_Piraeus_Apollo_-_Photo_by_Giovanni_Dall'Orto,_Nov_14_2009.jpg, archaic-style bronze, Archaeological Museum of Piraeus]] The animistic idea as the representation of the imaginative reality, is sanctified in the Homeric poems and in Greek myths, in stories of the god Hephaestus (Phaistos) and the mythic Daedalus (the builder of the labyrinth) that made images which moved of their own accord. This kind of art goes back to the Minoan period, when its main theme was the representation of motion in a specific moment.[357] These free-standing statues were usually marble, but also the form rendered in limestone, bronze, ivory and terracotta.
+, archaic-style bronze, Archaeological Museum of Piraeus]] The animistic idea as the representation of the imaginative reality, is sanctified in the Homeric poems and in Greek myths, in stories of the god Hephaestus (Phaistos) and the mythic Daedalus (the builder of the labyrinth) that made images which moved of their own accord. This kind of art goes back to the Minoan period, when its main theme was the representation of motion in a specific moment.[357] These free-standing statues were usually marble, but also the form rendered in limestone, bronze, ivory and terracotta.
 
 The earliest examples of life-sized statues of Apollo, may be two figures from the Ionic sanctuary on the island of Delos. Such statues were found across the Greek speaking world, the preponderance of these were found at the sanctuaries of Apollo with more than one hundred from the sanctuary of _Apollo Ptoios_, Boeotia alone.[358] The last stage in the development of the _Kouros type_ is the late archaic period (520–485 BC), in which the Greek sculpture attained a full knowledge of human anatomy and used to create a relative harmonious whole. Ranking from the very few bronzes survived to us is the masterpiece bronze Piraeus Apollo. It was found in Piraeus, the harbour of Athens. The statue originally held the bow in its left hand, and a cup of pouring libation in its right hand. It probably comes from north-eastern Peloponnesus. The emphasis is given in anatomy, and it is one of the first attempts to represent a kind of motion, and beauty relative to proportions, which appear mostly in post-Archaic art. The statue throws some light on an artistic centre which, with an independently developed harder, simpler and heavier style, restricts Ionian influence in Athens. Finally, this is the germ from which the art of Polykleitos was to grow two or three generations later.[359]
 
 Classical sculpture
 
-Apollon_de_Mantoue_Louvre_MA689.jpg, Musée du Louvre]]
+, Musée du Louvre]]
 
 At the beginning of the Classical period, it was considered that beauty in visible things as in everything else, consisted of symmetry and proportions. The artists tried also to represent motion in a specific moment (Myron), which may be considered as the reappearance of the dormant Minoan element.[360] Anatomy and geometry are fused in one, and each does something to the other. The Greek sculptors tried to clarify it by looking for mathematical proportions, just as they sought some reality behind appearances. Polykleitos in his _Canon_ wrote that beauty consists in the proportion not of the elements (materials), but of the parts, that is the interrelation of parts with one another and with the whole. It seems that he was influenced by the theories of Pythagoras.[361] The famous _Apollo of Mantua_ and its variants are early forms of the Apollo Citharoedus statue type, in which the god holds the cithara in his left arm. The type is represented by neo-Attic Imperial Roman copies of the late 1st or early 2nd century, modelled upon a supposed Greek bronze original made in the second quarter of the 5th century BCE, in a style similar to works of Polykleitos but more archaic. The Apollo held the _cythara_ against his extended left arm, of which in the Louvre example, a fragment of one twisting scrolling horn upright remains against his biceps.
 
@@ -812,13 +780,13 @@ Though the proportions were always important in Greek art, the appeal of the Gre
 
 Pediments and friezes
 
-Apollo_west_pediment_Olympia_copy_MFA_Munich.jpg, Olympia, Greece.]]
+, Olympia, Greece.]]
 
 In the archaic pediments and friezes of the temples, the artists had a problem to fit a group of figures into an isosceles triangle with acute angles at the base.
 
 The Siphnian Treasury in Delphi was one of the first Greek buildings utilizing the solution to put the dominating form in the middle, and to complete the descending scale of height with other figures sitting or kneeling. The pediment shows the story of Heracles stealing Apollo's tripod that was strongly associated with his oracular inspiration. Their two figures hold the centre. In the pediment of the temple of Zeus in Olympia, the single figure of Apollo is dominating the scene.[363]
 
-Belvedere_Apollo_Pio-Clementino_Inv1015_n3.jpg'']]
+'']]
 
 These representations rely on presenting scenes directly to the eye for their own visible sake. They care for the schematic arrangements of bodies in space, but only as parts in a larger whole. While each scene has its own character and completeness it must fit into the general sequence to which it belongs. In these archaic pediments the sculptors use empty intervals, to suggest a passage to and from a busy battlefield. The artists seem to have been dominated by geometrical pattern and order, and this was improved when classical art brought a greater freedom and economy.[364]
 
@@ -844,9 +812,9 @@ In spaceflight, the NASA program for landing astronauts on the Moon was named Ap
 
 Genealogy
 
-Bodh_Gaya_quadriga_relief_of_Surya_and_Classical_example_Phoebus_Apollo_on_quadriga.jpg on a quadriga, Bodh Gaya relief, India. _Right_: Classical example of Phoebus Apollo on quadriga.]]
+on a quadriga, Bodh Gaya relief, India. _Right_: Classical example of Phoebus Apollo on quadriga.]]
 
-Onthemorningthomas4.jpg (1809)]]
+(1809)]]
 
 
 See also

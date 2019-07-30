@@ -1,11 +1,9 @@
-Cmnational1.jpg
-
 A CASH REGISTER or TILL is a mechanical or electronic device for registering and calculating transactions at a point of sale. It is usually attached to a drawer for storing cash and other valuables. A modern cash register is usually attached to a printer that can print out receipts for record-keeping purposes.
 
 
 History
 
-NationalCashRegister.jpg]]
+]]
 
 An early mechanical cash register was invented by James Ritty and John Birch following the American Civil War. James was the owner of a saloon in Dayton, Ohio, USA, and wanted to stop employees from pilfering his profits.[1] The Ritty Model I was invented in 1879 after seeing a tool that counted the revolutions of the propeller on a steamship.[2] With the help of James' brother John Ritty, they patented it in 1883.[3][4] It was called _Ritty's Incorruptible Cashier_ and it was invented to stop cashiers from pilfering and eliminate employee theft and embezzlement.[5]
 
@@ -13,16 +11,16 @@ Early mechanical registers were entirely mechanical, without receipts. The emplo
 
 Since the registration is done with the process of returning change, according to Bill Bryson[6] odd pricing came about because by charging odd amounts like 49 and 99 cents (or 45 and 95 cents when nickels are more used than pennies), the cashier very probably had to open the till for the penny change and thus announce the sale.
 
-Cash_register,_built_1904_in_Ohio.jpg expressly built for a merchant in Nové Město nad Metují, Austro-Hungary, 1904]] Shortly after the patent, Ritty became overwhelmed with the responsibilities of running two businesses, so he sold all of his interests in the cash register business to Jacob H. Eckert of Cincinnati, a china and glassware salesman, who formed the National Manufacturing Company. In 1884 Eckert sold the company to John H. Patterson, who renamed the company the National Cash Register Company and improved the cash register by adding a paper roll to record sales transactions, thereby creating the journal for internal bookkeeping purposes, and the receipt for external bookkeeping purposes. The original purpose of the receipt was enhanced fraud protection. The business owner could read the receipts to ensure that cashiers charged customers the correct amount for each transaction and did not embezzle the cash drawer.[7] It also prevents a customer from defrauding the business by falsely claiming receipt of a lesser amount of change or a transaction that never happened in the first place. The first evidence of an actual cash register was used in Coalton, Ohio, at the old mining company.
+expressly built for a merchant in Nové Město nad Metují, Austro-Hungary, 1904]] Shortly after the patent, Ritty became overwhelmed with the responsibilities of running two businesses, so he sold all of his interests in the cash register business to Jacob H. Eckert of Cincinnati, a china and glassware salesman, who formed the National Manufacturing Company. In 1884 Eckert sold the company to John H. Patterson, who renamed the company the National Cash Register Company and improved the cash register by adding a paper roll to record sales transactions, thereby creating the journal for internal bookkeeping purposes, and the receipt for external bookkeeping purposes. The original purpose of the receipt was enhanced fraud protection. The business owner could read the receipts to ensure that cashiers charged customers the correct amount for each transaction and did not embezzle the cash drawer.[7] It also prevents a customer from defrauding the business by falsely claiming receipt of a lesser amount of change or a transaction that never happened in the first place. The first evidence of an actual cash register was used in Coalton, Ohio, at the old mining company.
 
 In 1906, while working at the National Cash Register company, inventor Charles F. Kettering designed a cash register with an electric motor.
 
-Moderncashregisters.jpg A leading designer, builder, manufacturer, seller and exporter of cash registers from the 1950s until the 1970s was London-based (and later Brighton-based[8]) Gross Cash Registers Ltd.,[9] founded by brothers Sam and Henry Gross. Their cash registers were particularly popular around the time of decimalisation in Britain in early 1971, Henry having designed one of the few known models of cash register which could switch currencies from £sd to £p so that retailers could easily change from one to the other on or after Decimal Day. Sweda also had decimal-ready registers where the retailer used a special key on Decimal Day for the conversion.
+A leading designer, builder, manufacturer, seller and exporter of cash registers from the 1950s until the 1970s was London-based (and later Brighton-based[8]) Gross Cash Registers Ltd.,[9] founded by brothers Sam and Henry Gross. Their cash registers were particularly popular around the time of decimalisation in Britain in early 1971, Henry having designed one of the few known models of cash register which could switch currencies from £sd to £p so that retailers could easily change from one to the other on or after Decimal Day. Sweda also had decimal-ready registers where the retailer used a special key on Decimal Day for the conversion.
 
 
 In current use
 
-Уголок_покупателя_в_магазине_(cropped).JPG, Russia, 2009]] In some jurisdictions the law also requires customers to collect the receipt and keep it at least for a short while after leaving the shop,[10][11] again to check that the shop records sales, so that it cannot evade sales taxes.
+, Russia, 2009]] In some jurisdictions the law also requires customers to collect the receipt and keep it at least for a short while after leaving the shop,[10][11] again to check that the shop records sales, so that it cannot evade sales taxes.
 
 Often cash registers are attached to scales, barcode scanners, checkstands, and debit card or credit card terminals. Increasingly, dedicated cash registers are being replaced with general purpose computers with POS software. Cash registers use bitmap characters for printing.[12]
 
@@ -32,7 +30,7 @@ Currently, many cash registers are individual computers. They may be running tra
 
 Cash drawer
 
-Old_Cdn_general_store_register.jpg Museum, British Columbia, Canada]]Cash registers include a key labeled "No Sale", abbreviated "NS" on many modern electronic cash registers. Its function is to open the drawer, printing a receipt stating "No Sale" and recording in the register log that the register was opened. Some cash registers require a numeric password or physical key to be used when attempting to open the till.
+Museum, British Columbia, Canada]]Cash registers include a key labeled "No Sale", abbreviated "NS" on many modern electronic cash registers. Its function is to open the drawer, printing a receipt stating "No Sale" and recording in the register log that the register was opened. Some cash registers require a numeric password or physical key to be used when attempting to open the till.
 
 A cash register's drawer can only be opened by an instruction from the cash register except when using special keys, generally held by the owner and some employees (e.g. manager). This reduces the amount of contact most employees have with cash and other valuables. It also reduces risks of an employee taking money from the drawer without a record and the owner's consent, such as when a customer does not expressly ask for a receipt but still has to be given change (cash is more easily checked against recorded sales than inventory).
 
@@ -48,7 +46,7 @@ An often used non-sale function is the aforementioned "no sale". In case of need
 
 Manual input
 
-ADMAS1.jpg Registers will typically feature a numerical pad, QWERTY or custom keyboard, touch screen interface, or a combination of these input methods for the cashier to enter products and fees by hand and access information necessary to complete the sale. For older registers as well as at restaurants and other establishments that do not sell barcoded items, the manual input may be the only method of interacting with the register. While customization was previously limited to larger chains that could afford to have physical keyboards custom-built for their needs, the customization of register inputs is now more widespread with the use of touch screens that can display a variety of point of sale software.
+Registers will typically feature a numerical pad, QWERTY or custom keyboard, touch screen interface, or a combination of these input methods for the cashier to enter products and fees by hand and access information necessary to complete the sale. For older registers as well as at restaurants and other establishments that do not sell barcoded items, the manual input may be the only method of interacting with the register. While customization was previously limited to larger chains that could afford to have physical keyboards custom-built for their needs, the customization of register inputs is now more widespread with the use of touch screens that can display a variety of point of sale software.
 
 Scanner
 
@@ -65,7 +63,7 @@ In stores that use electronic article surveillance, a pad or other surface will 
 
 Self-service cash register
 
-HomeDepotPinOakHoustonselfcheckout.jpg store, Pin Oak, Houston, Texas]] Some corporations and supermarkets have introduced self-checkout machines, where the customer is trusted to scan the barcodes (or manually identify uncoded items like fruit), and place the items into a bagging area.[15] The bag is weighed, and the machine halts the checkout when the weight of something in the bag does not match the weight in the inventory database. Normally, an employee is watching over several such checkouts to prevent theft or exploitation of the machines' weaknesses (for example, intentional misidentification of expensive produce or dry goods). Payment on these machines is accepted by debit card/credit card, or cash via coin slot and bank note scanner. Store employees are also needed to authorize "age-restricted" purchases, such as alcohol, solvents or knives, which can either be done remotely by the employee observing the self-checkout, or by means of a "store login" which the operator has to enter.
+store, Pin Oak, Houston, Texas]] Some corporations and supermarkets have introduced self-checkout machines, where the customer is trusted to scan the barcodes (or manually identify uncoded items like fruit), and place the items into a bagging area.[15] The bag is weighed, and the machine halts the checkout when the weight of something in the bag does not match the weight in the inventory database. Normally, an employee is watching over several such checkouts to prevent theft or exploitation of the machines' weaknesses (for example, intentional misidentification of expensive produce or dry goods). Payment on these machines is accepted by debit card/credit card, or cash via coin slot and bank note scanner. Store employees are also needed to authorize "age-restricted" purchases, such as alcohol, solvents or knives, which can either be done remotely by the employee observing the self-checkout, or by means of a "store login" which the operator has to enter.
 
 
 See also

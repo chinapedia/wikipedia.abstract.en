@@ -21,8 +21,6 @@ Emperor Yōmei's reign lasted only two years; and he died at the age of 69.[5]
 
 Because of the brevity of his reign, Emperor Yōmei was not responsible for any radical changes in policy, but his support of Buddhism created tension with supporters of Shintoism who opposed its introduction. According to Nihon Shoki, Emperor Yomei believed both in Buddhism and Shintoism. Moriya, the most influential supporter of Shintoism, conspired with Emperor Yōmei's brother, Prince Anahobe, and after Emperor Yomei's death they made an abortive attempt to seize the throne. Although Emperor Yōmei is reported to have died from illness, this incident and the brevity of his reign have led some to speculate that he was actually assassinated by Moriya and Prince Anahobe.
 
-Yomei_tenno-ryo3200.jpg
-
 The actual site of Yōmei's grave is known.[9] The Emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Osaka.
 
 The Imperial Household Agency designates this location as Yōmei's mausoleum. It is formally named _Kōchi no Shinaga no hara no misasagi_.[10]

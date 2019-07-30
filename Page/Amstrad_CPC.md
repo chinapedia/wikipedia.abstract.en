@@ -6,7 +6,7 @@ The CPC models' hardware is based on the Zilog Z80A CPU, complemented with eithe
 
 The CPC series was pitched against other home computers primarily used to play video games and enjoyed a strong supply of game software. The comparatively low price for a complete computer system with dedicated monitor, its high resolution monochrome text and graphic capabilities and the possibility to run CP/M software also rendered the system attractive for business users, which was reflected by a wide selection of application software.
 
-During its lifetime, the CPC series sold approximately three million units.[2] Schneider_CPC6128_white.jpg
+During its lifetime, the CPC series sold approximately three million units.[2]
 
 
 Models
@@ -15,7 +15,7 @@ The original range
 
 The philosophy behind the CPC series was twofold, firstly the concept was of an “all-in-one”, where the computer, keyboard and its data storage device were combined in a single unit, and sold with its own dedicated display monitor. Most home computers at that time such as Sinclair’s ZX series, the Commodore 64 and the BBC Micro relied on the use of the domestic television set and a separately connected tape recorder or disk drive. In itself, the all-in-one concept was not new, having been seen before on business-oriented machines and the Commodore PET, but in the home computer space, it predated the Apple Macintosh by almost a year.
 
-Secondly, Amstrad founder Alan Sugar wanted the machine to resemble a “real computer, similar to what someone would see being used to check them in at the airport for their holidays”,[3] and for the machine to not look like “a pregnant calculator”[4] – in reference presumably to the Sinclair ZX81 and ZX Spectrum with their low cost, membrane-type keyboards. Cpc464.computer.750pix.jpg'' on the CPC 464 in 1988]]
+Secondly, Amstrad founder Alan Sugar wanted the machine to resemble a “real computer, similar to what someone would see being used to check them in at the airport for their holidays”,[3] and for the machine to not look like “a pregnant calculator”[4] – in reference presumably to the Sinclair ZX81 and ZX Spectrum with their low cost, membrane-type keyboards. '' on the CPC 464 in 1988]]
 
 CPC 464
 
@@ -27,7 +27,7 @@ In 1990, the 464plus replaced the CPC 464 in the model line-up, and production o
 
 CPC664
 
-Schneider_664_en.jpg The CPC664 features 64 KB RAM and an internal 3-inch floppy disk drive. It was introduced in May 1985 in the UK. Initial suggested retail prices for the CPC664 were GBP£339.00/DM1198.00 with a green screen and GBP£449.00/DM1998.00 with a colour monitor.
+The CPC664 features 64 KB RAM and an internal 3-inch floppy disk drive. It was introduced in May 1985 in the UK. Initial suggested retail prices for the CPC664 were GBP£339.00/DM1198.00 with a green screen and GBP£449.00/DM1998.00 with a colour monitor.
 
 After the successful release of the CPC464, consumers were constantly asking for two improvements: more memory and an internal disk drive. For Amstrad, the latter was easier to realize. At the deliberately low-key introduction of the CPC664 in May 1985, the machine was positioned not only as the lowest-cost disk system but even the lowest-cost CP/M 2.2 machine. In the Amstrad CPC product range the CPC664 complemented the CPC464 which was neither discontinued nor reduced in price.[6]
 
@@ -39,7 +39,7 @@ The CPC664 was only produced for approximately six months. In late 1985, when th
 
 CPC6128
 
-Amstrad_CPC6128,_keyboard_removed.jpg The CPC6128 features 128 KB RAM and an internal 3-inch floppy disk drive. Aside from various hardware and firmware improvements, one of the CPC6128's most prominent features is the compatibility with the CP/M+ operating system that rendered it attractive for business uses.
+The CPC6128 features 128 KB RAM and an internal 3-inch floppy disk drive. Aside from various hardware and firmware improvements, one of the CPC6128's most prominent features is the compatibility with the CP/M+ operating system that rendered it attractive for business uses.
 
 The CPC6128 was released in August 1985 and initially only sold in the US. Imported and distributed by Indescomp, Inc. of Chicago, it was the first Amstrad product to be sold in the United States, a market that at the time was traditionally hostile towards European computer manufacturers.[8] By the end of 1985, it arrived in Europe and replaced the CPC664 in the CPC model line-up. Initial suggested retail prices for the CPC6128 were US$699.00/£299.00/DM1598.00 with a green screen and US$799.00/£399.00/DM2098.00 with a colour monitor.
 
@@ -57,7 +57,7 @@ Despite the significant hardware enhancements, many viewed it as outdated, being
 
 464plus, 6128plus
 
-6128plus_es.jpg The _464plus_ and _6128plus_ models were intended as "more sophisticated and stylish" replacements of the CPC464 and CPC6128. Based on the redesigned plus hardware platform, they share the same base characteristics as their predecessors: The 464plus is equipped with 64 KB RAM and a cassette tape drive, the 6128plus features 128 KB RAM and a 3" floppy disk drive. Both models share a common case layout with a keyboard taken over from the CPC6128 model, and the respective mass storage drive inserted in a case breakout.
+The _464plus_ and _6128plus_ models were intended as "more sophisticated and stylish" replacements of the CPC464 and CPC6128. Based on the redesigned plus hardware platform, they share the same base characteristics as their predecessors: The 464plus is equipped with 64 KB RAM and a cassette tape drive, the 6128plus features 128 KB RAM and a 3" floppy disk drive. Both models share a common case layout with a keyboard taken over from the CPC6128 model, and the respective mass storage drive inserted in a case breakout.
 
 In order to simplify the EMC screening process, the edge connectors of the previous models have been replaced with micro-ribbon connectors as previously used on the German Schneider CPC6128. As a result, a wide range of extensions for the original CPC range are connector-incompatible with the 464plus and 6128plus. In addition, the 6128plus does not have a tape socket for an external tape drive.
 
@@ -67,17 +67,17 @@ Both the 464plus and the 6128plus were introduced to the public in September 199
 
 GX4000
 
-Amstrad-GX4000-Console-Set.jpg Developed as part of the _plus range_, the GX4000 was Amstrad's short-lived attempt to enter the video game consoles market. Sharing the plus range's enhanced hardware characteristics, it represents the bare minimum variant of the range without a keyboard or support for mass storage devices.[13] It came bundled with 2 paddle controllers and the racing game Burning Rubber.
+Developed as part of the _plus range_, the GX4000 was Amstrad's short-lived attempt to enter the video game consoles market. Sharing the plus range's enhanced hardware characteristics, it represents the bare minimum variant of the range without a keyboard or support for mass storage devices.[13] It came bundled with 2 paddle controllers and the racing game Burning Rubber.
 
 Special models and clones
 
 CPC472
 
-472_es.jpg In 1985, Spain briefly introduced an import tax on computers without ñ letter key and containing 64KB or less of RAM. To circumvent this, Amstrad's Spanish distributor _Indescomp_ (later to become _Amstrad Spain_) created and distributed the _CPC472_, a modified version of the CPC464. Its main difference is a small additional daughter board containing a CPC664 ROM chip, and an 8 KB memory chip which is not electrically connected to the machine, and consequently rendered unusable. Its sole purpose was supposedly to increase the machine's total memory specs to 72 KB in order to circumvent the import tax. Only a month after the CPC472 had been released, Amstrad added the ñ key for the 464 so this tariff was not applied to 64k computers anymore and production of the CPC472 was discontinued.[14]
+In 1985, Spain briefly introduced an import tax on computers without ñ letter key and containing 64KB or less of RAM. To circumvent this, Amstrad's Spanish distributor _Indescomp_ (later to become _Amstrad Spain_) created and distributed the _CPC472_, a modified version of the CPC464. Its main difference is a small additional daughter board containing a CPC664 ROM chip, and an 8 KB memory chip which is not electrically connected to the machine, and consequently rendered unusable. Its sole purpose was supposedly to increase the machine's total memory specs to 72 KB in order to circumvent the import tax. Only a month after the CPC472 had been released, Amstrad added the ñ key for the 464 so this tariff was not applied to 64k computers anymore and production of the CPC472 was discontinued.[14]
 
 KC compact
 
-KC-compact-1.jpg The __ ("" - which means "small computer" - being a rather literal German translation of the English "microcomputer") is a clone of the Amstrad CPC built by East Germany's __ in October 1989. Although the machine included various substitutes and emulations of an Amstrad CPC's hardware, the machine is largely compatible with Amstrad CPC software. It is equipped with 64 KB memory and a CPC6128's firmware customized to the modified hardware, including an unmodified copy of Locomotive BASIC 1.1. The KC compact is the last 8-bit computer produced in East Germany.[15]
+The __ ("" - which means "small computer" - being a rather literal German translation of the English "microcomputer") is a clone of the Amstrad CPC built by East Germany's __ in October 1989. Although the machine included various substitutes and emulations of an Amstrad CPC's hardware, the machine is largely compatible with Amstrad CPC software. It is equipped with 64 KB memory and a CPC6128's firmware customized to the modified hardware, including an unmodified copy of Locomotive BASIC 1.1. The KC compact is the last 8-bit computer produced in East Germany.[15]
 
 Aleste 520EX
 
@@ -103,13 +103,13 @@ Amstrad CPCs are equipped with either 64 (CPC464, CPC664, 464plus, GX4000) or 12
 
 Video
 
-Schneider_CPC6128_with_green_monitor_GT65,_Wikipedia_logo.jpg Underlying a CPC's video output is the unusual pairing of a CRTC (Motorola 6845 or compatible) with a custom-designed gate array to generate a pixel display output. CPC6128s later in production as well as the models from the plus range integrate both the CRTC and the gate array's functions with the system's ASIC.
+Underlying a CPC's video output is the unusual pairing of a CRTC (Motorola 6845 or compatible) with a custom-designed gate array to generate a pixel display output. CPC6128s later in production as well as the models from the plus range integrate both the CRTC and the gate array's functions with the system's ASIC.
 
 Three built-in display resolutions are available: 160×200 pixels with 16 colours ("Mode 0", 20 text columns), 320×200 pixels with 4 colours ("Mode 1", 40 text columns), and 640×200 pixels with 2 colours ("Mode 2", 80 text columns).[25] Increased screen size can be achieved by reprogramming the CRTC.
 
 The original CPC video hardware supports a colour palette of 27 colours,[26] generated from RGB colour space with each colour component assigned as either off, half on, or on. The plus range extended the palette to 4096 colours, also generated from RGB with 4 bits each for red, green and blue.[27]
 
-Amstrad_MP-1.jpg With the exception of the GX4000, all CPC models lack an RF television or composite video output and instead shipped with a 6-pin RGB DIN connector, also used by Acorn computers, to connect the supplied Amstrad monitor.[28] This connector delivers a 1v p-p analogue RGB with a 50 Hz composite sync signal that, if wired correctly, can drive a 50 Hz SCART television. External adapters for RF television were available as a first-party hardware accessory.
+With the exception of the GX4000, all CPC models lack an RF television or composite video output and instead shipped with a 6-pin RGB DIN connector, also used by Acorn computers, to connect the supplied Amstrad monitor.[28] This connector delivers a 1v p-p analogue RGB with a 50 Hz composite sync signal that, if wired correctly, can drive a 50 Hz SCART television. External adapters for RF television were available as a first-party hardware accessory.
 
 Audio
 
@@ -121,7 +121,7 @@ It is possible to play back digital sound samples at a resolution of approximate
 
 Floppy disk drive
 
-Schneider_CPC6128_Diskettenlaufwerk.jpg 3_inch_floppy_disks.jpg Amstrad used Hitachi's 3" floppy disk drive.[30] The chosen drive (built-in for later models) is a single-sided 40-track unit that requires the user to physically remove and flip the disc to access the other side.[31] Each side has its own independent write-protect switch.[32] The sides are termed "A" and "B", with each one commonly formatted to 180 KB (in AMSDOS format, comprising 2 KB directory and 178 KB storage) for a total of 360 KB per disk.
+Amstrad used Hitachi's 3" floppy disk drive.[30] The chosen drive (built-in for later models) is a single-sided 40-track unit that requires the user to physically remove and flip the disc to access the other side.[31] Each side has its own independent write-protect switch.[32] The sides are termed "A" and "B", with each one commonly formatted to 180 KB (in AMSDOS format, comprising 2 KB directory and 178 KB storage) for a total of 360 KB per disk.
 
 The interface with the drives is a NEC 765 FDC, used for the same purpose in the IBM PC/XT, PC/AT and PS/2 machines. Its features are not fully used in order to cut costs, namely DMA transfers and support for single density disks; they were formatted as double density using modified frequency modulation.
 
@@ -135,7 +135,7 @@ The 3 inch disks themselves are usually known as "discs" on the CPC, following 
 
 Expansion
 
-Amstrad_CPC646-IMG_7196.jpg The hardware and firmware was designed to be able to access software provided on external ROMs. Each ROM has to be a 16 kB block and is switched in and out of the memory space shared with the video RAM. The Amstrad firmware is deliberately designed so that new software could be easily accessed from these ROMs with a minimum of fuss. Popular applications were marketed on ROM, particularly word processing and programming utility software (examples are Protext and Brunword of the former, and the MAXAM assembler of the latter type).
+The hardware and firmware was designed to be able to access software provided on external ROMs. Each ROM has to be a 16 kB block and is switched in and out of the memory space shared with the video RAM. The Amstrad firmware is deliberately designed so that new software could be easily accessed from these ROMs with a minimum of fuss. Popular applications were marketed on ROM, particularly word processing and programming utility software (examples are Protext and Brunword of the former, and the MAXAM assembler of the latter type).
 
 Such extra ROM chips do not plug directly into the CPC itself, but into extra plug-in "rom boxes" which contain sockets for the ROM chips and a minimal amount of decoding circuitry for the main machine to be able to switch between them. These boxes were either marketed commercially or could be built by competent hobbyists and they attached to the main expansion port at the back of the machine. Software on ROM loads much faster than from disc or tape and the machine's boot-up sequence was designed to evaluate ROMs it found and optionally hand over control of the machine to them. This allows significant customization of the functionality of the machine, something that enthusiasts exploited for various purposes.[33] However, the typical users would probably not be aware of this added ROM functionality unless they read the CPC press, as it is not described in the user manual and was hardly ever mentioned in marketing literature. It is, however, documented in the official Amstrad firmware manual.
 
@@ -157,7 +157,7 @@ Software
 
 BASIC and operating system
 
-Amstrad_CPC_screen_closeup.jpg Like most home computers at the time, the CPC has its OS and a BASIC interpreter built in as ROM. It uses Locomotive BASIC - an improved version of Locomotive Software's Z80 BASIC for the BBC Microcomputer co-processor board. It is particularly notable for providing easy access to the machine's video and audio resources in contrast to the POKE commands required on generic Microsoft implementations. Other unusual features include timed event handling with the AFTER and EVERY commands, and text-based windowing.
+Like most home computers at the time, the CPC has its OS and a BASIC interpreter built in as ROM. It uses Locomotive BASIC - an improved version of Locomotive Software's Z80 BASIC for the BBC Microcomputer co-processor board. It is particularly notable for providing easy access to the machine's video and audio resources in contrast to the POKE commands required on generic Microsoft implementations. Other unusual features include timed event handling with the AFTER and EVERY commands, and text-based windowing.
 
 CP/M
 
@@ -174,7 +174,7 @@ In an attempt to give the CPC a recognisable mascot, a number of games by Amstra
 
 Schneider Computer Division
 
-Schneider_Computer_Division_logo_(horizontal).svg Schneider_CPC6128_with_green_monitor_GT65,_keyboard.jpg Schneider_CPC_Demo_Tape_Präsentation_Compact_Cassette_IMG_8687.JPG came with the CPC464]] In order to market its computers in Germany, Austria, and Switzerland where Amstrad did not have any distribution structures, Amstrad entered a partnership with _Schneider Rundfunkwerke AG_, a German company that - very much like Amstrad itself - was previously only known for value-priced audio products. In 1984, Schneider's _Schneider Computer Division_ daughter company was created specifically for the task, and the complete Amstrad CPC line-up was branded and sold as _Schneider CPC_.
+came with the CPC464]] In order to market its computers in Germany, Austria, and Switzerland where Amstrad did not have any distribution structures, Amstrad entered a partnership with _Schneider Rundfunkwerke AG_, a German company that - very much like Amstrad itself - was previously only known for value-priced audio products. In 1984, Schneider's _Schneider Computer Division_ daughter company was created specifically for the task, and the complete Amstrad CPC line-up was branded and sold as _Schneider CPC_.
 
 Although they are based on the same hardware, the Schneider CPC models differ from the Amstrad CPC models in several details. Most prominently, the Schneider CPC464 and CPC664 keyboards featured grey instead of coloured keys, but still in the original British keyboard layout. To achieve a German "QWERTZ" keyboard layout, Schneider marketed a small software program to reassign the keys as well as sticker labels for the keys.[35] In order to conform with stricter German EMC regulations, the complete Schneider CPC line-up is equipped with an internal metal shielding. For the same reason, the Schneider CPC6128 features micro ribbon type connectors instead of edge connectors. Both the greyscale keyboard and the micro ribbon connectors found their way up into the design of later Amstrad CPC models.
 

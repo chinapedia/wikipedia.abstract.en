@@ -11,7 +11,7 @@ History
 
 Guinea-Bissau was once part of the kingdom of Gabu, part of the Mali Empire; parts of this kingdom persisted until the 18th century. Other parts of the territory in the current country were considered by the Portuguese as part of their empire.[1] Portuguese Guinea was known as the Slave Coast, as it was a major area for the exportation of African slaves by Europeans to the western hemisphere.
 
-Early reports of Europeans reaching this area include those of the Venetian Alvise Cadamosto's voyage of 1455,[2] the 1479–1480 voyage by Flemish-French trader Eustache de la Fosse,[3] and Diogo Cão. In the 1480s this Portuguese explorer reached the Congo River and the lands of Bakongo, setting up the foundations of modern Angola, some 4200 km down the African coast from Guinea-Bissau.[4] Portugueseguineacompanyflag.svg.]] Although the rivers and coast of this area were among the first places colonized by the Portuguese, who set up trading posts in the 16th century, they did not explore the interior until the 19th century. The local African rulers in Guinea, some of whom prospered greatly from the slave trade, controlled the inland trade and did not allow the Europeans into the interior. They kept them in the fortified coastal settlements where the trading took place.[5] African communities that fought back against slave traders also distrusted European adventurers and would-be settlers. The Portuguese in Guinea were largely restricted to the ports of Bissau and Cacheu. A small number of European settlers established isolated farms along Bissau's inland rivers.[6]
+Early reports of Europeans reaching this area include those of the Venetian Alvise Cadamosto's voyage of 1455,[2] the 1479–1480 voyage by Flemish-French trader Eustache de la Fosse,[3] and Diogo Cão. In the 1480s this Portuguese explorer reached the Congo River and the lands of Bakongo, setting up the foundations of modern Angola, some 4200 km down the African coast from Guinea-Bissau.[4] .]] Although the rivers and coast of this area were among the first places colonized by the Portuguese, who set up trading posts in the 16th century, they did not explore the interior until the 19th century. The local African rulers in Guinea, some of whom prospered greatly from the slave trade, controlled the inland trade and did not allow the Europeans into the interior. They kept them in the fortified coastal settlements where the trading took place.[5] African communities that fought back against slave traders also distrusted European adventurers and would-be settlers. The Portuguese in Guinea were largely restricted to the ports of Bissau and Cacheu. A small number of European settlers established isolated farms along Bissau's inland rivers.[6]
 
 For a brief period in the 1790s, the British tried to establish a rival foothold on an offshore island, at Bolama.[7] But by the 19th century the Portuguese were sufficiently secure in Bissau to regard the neighbouring coastline as their own special territory, also up north in part of present South Senegal.
 
@@ -19,7 +19,7 @@ An armed rebellion, begun in 1956 by the African Party for the Independence of G
 
 Independence (1973)
 
-Hastear_da_bandeira_da_Guiné_Bissau_após_o_arrear_da_de_Portugal.jpg forces raise the flag of Guinea-Bissau in 1974.]]
+forces raise the flag of Guinea-Bissau in 1974.]]
 
 Independence was unilaterally declared on 24 September 1973. Recognition became universal following 25 April 1974 socialist-inspired military coup in Portugal, which overthrew Lisbon's Estado Novo regime.[12]
 
@@ -44,8 +44,6 @@ On 9 January 2012, President Sanhá died of complications from diabetes, and Per
 
 Politics
 
-Palácio_Presidencial_em_Bissau_(2).jpg Fernanda_Nossa,_Guinea-Bissau,_photo_3.jpg
-
 Guinea-Bissau is a republic. In the past, the government had been highly centralized. Multi-party governance was not established until mid-1991. The president is the head of state and the prime minister is the head of government. Since 1974, no president has successfully served a full five-year term.[27]
 
 At the legislative level, a unicameral _Assembleia Nacional Popular_ (National People's Assembly) is made up of 100 members. They are popularly elected from multi-member constituencies to serve a four-year term. The judicial system is headed by a _Tribunal Supremo da Justiça_ (Supreme Court), made up of nine justices appointed by the president; they serve at the pleasure of the president.[28]
@@ -69,15 +67,13 @@ Guinea-Bissau is divided into eight regions () and one autonomous sector (). The
 
 Geography
 
-Lagoa_com_hipopótamos_01.jpges in Orango Island]] CaravelaIvybeach1p.jpg 20130611-DSC_9018_(9290631541)_(2).jpg Guinea-Bissau is bordered by Senegal to the north and Guinea to the south and east, with the Atlantic Ocean to its west. It lies mostly between latitudes 11° and 13°N (a small area is south of 11°), and longitudes 13° and 17°W.
+es in Orango Island]] Guinea-Bissau is bordered by Senegal to the north and Guinea to the south and east, with the Atlantic Ocean to its west. It lies mostly between latitudes 11° and 13°N (a small area is south of 11°), and longitudes 13° and 17°W.
 
 At , the country is larger in size than Taiwan or Belgium. It lies at a low altitude; its highest point is . The terrain of is mostly low coastal plain with swamps of Guinean mangroves rising to Guinean forest-savanna mosaic in the east.[30] Its monsoon-like rainy season alternates with periods of hot, dry harmattan winds blowing from the Sahara. The Bijagos Archipelago lies off of the mainland.[31]
 
 Climate
 
 Guinea-Bissau is warm all year around and there is little temperature fluctuation; it averages . The average rainfall for Bissau is although this is almost entirely accounted for during the rainy season which falls between June and September/October. From December through April, the country experiences drought.[32]
-
-centre
 
 Environmental problems
 
@@ -86,7 +82,7 @@ Severe environmental problems include deforestation; soil erosion; overgrazing a
 
 Economy
 
-Banco_Centra_Da_Guine_Bissau.JPG Posto_Galp_em_S%C3%A3o_Domingos,_Guin%C3%A9_(1).jpg]]
+]]
 
 Guinea-Bissau's GDP per capita is one of the lowest in the world, and its Human Development Index is one of the lowest on earth. More than two-thirds of the population lives below the poverty line.[34] The economy depends mainly on agriculture; fish, cashew nuts and ground nuts are its major exports.
 
@@ -109,7 +105,7 @@ According to , Guinea-Bissau's population was in , compared to 518,000 in 1950. 
 
 Ethnic groups
 
-Geographic_location_of_Guinea-Bissau_and_present-day_settlement_pattern_of_the_ethnic_groups.jpg The population of Guinea-Bissau is ethnically diverse and has many distinct languages, customs, and social structures.
+The population of Guinea-Bissau is ethnically diverse and has many distinct languages, customs, and social structures.
 
 Bissau-Guineans can be divided into the following ethnic groups:
 
@@ -123,7 +119,7 @@ Portuguese natives comprise a very small percentage of Bissau-Guineans. After Gu
 
 Major cities
 
-Gabumainstreet.jpg]] Porto_de_Bissau_02,_container_ship_Windhoek.jpg Guinea-bissau_20130609-DSC_8955-2.jpg, Cacheu]] Main cities in Guinea-Bissau include:[45]
+]] , Cacheu]] Main cities in Guinea-Bissau include:[45]
 
   Rank            City      Population
   --------------- --------- ------------
@@ -141,7 +137,7 @@ Gabumainstreet.jpg]] Porto_de_Bissau_02,_container_ship_Windhoek.jpg Guinea-biss
 
 Languages
 
-Voter_education_for_guinea_bissau_elections_2008.jpg for Guinea-Bissau legislative election, 2008, Biombo Region]] Despite being a small country Guinea-Bissau has several ethnic groups which are very distinct from each other, with their own cultures and languages. This is due that Guinea-Bissau was a refugee territory due to migrations within Africa. Colonization and miscegenation brought Portuguese and the Portuguese creole, the Kriol or _crioulo_.[46]
+for Guinea-Bissau legislative election, 2008, Biombo Region]] Despite being a small country Guinea-Bissau has several ethnic groups which are very distinct from each other, with their own cultures and languages. This is due that Guinea-Bissau was a refugee territory due to migrations within Africa. Colonization and miscegenation brought Portuguese and the Portuguese creole, the Kriol or _crioulo_.[46]
 
 Although perceived as one of the national languages of Guinea-Bissau since independence, Standard Portuguese is spoken mostly as a second language, with few native speakers and often confined to the intellectual and political elites. It is the language of government and national communication as a legacy of colonial rule. Portuguese is the only language with official status; schooling from primary to university levels is conducted in Portuguese although only 67% of children have access to any formal education. Data suggested the number of Portuguese speakers ranges from 11 to 15%. The Portuguese creole is spoken by 44% which is effectively the national language of communication among distinct groups for most of the population. The Creole is still expanding, and it is understood by the vast majority of the population. However, decreolization processes are occurring, due to undergoing interference from Standard Portuguese and the creole forms a continuum of varieties with the standard language, the most distant are basilects and the closer ones, acrolects. A post-creole continuum exists in Guinea-Bissau and Crioulo 'leve' ('soft' Creole) variety being closer to the Portuguese-language norm.[47]
 
@@ -149,7 +145,7 @@ The remaining rural population speaks a variety of native African languages uniq
 
 Religion
 
-Bafata1.jpg, Guinea-Bissau]]
+, Guinea-Bissau]]
 
 In 2010, a Pew Research survey found that Christianity is practiced by 62% of the country's population, with Muslims making up the remaining 38%.[52] Most of Guinea-Bissau's Muslims are of the Sunni denomination, while approximately 2% belong to the Ahmadiyya sect.[53]
 
@@ -161,7 +157,7 @@ Health
 
 Education
 
-Universidade_Lus%C3%B3fona,_Bissau.jpg Education is compulsory from the age of 7 to 13. Pre-school education for children between three and six years of age is optional and in its early stages. There are five levels of education: pre-school, elemental and complementary basic education, general and complementary secondary education, general secondary education, technical and professional teaching, and higher education (university and non-universities). Basic education is under reform, and now forms a single cycle, comprising 6 years of education. Secondary education is widely available and there are two cycles (7th to 9th _classe_ and 10th to 11th _classe_). Professional education in public institutions is nonoperational, however private school offerings opened, including the _Centro de Formação São João Bosco_ (since 2004) and the _Centro de Formação Luís Inácio Lula da Silva_ (since 2011).[57]
+Education is compulsory from the age of 7 to 13. Pre-school education for children between three and six years of age is optional and in its early stages. There are five levels of education: pre-school, elemental and complementary basic education, general and complementary secondary education, general secondary education, technical and professional teaching, and higher education (university and non-universities). Basic education is under reform, and now forms a single cycle, comprising 6 years of education. Secondary education is widely available and there are two cycles (7th to 9th _classe_ and 10th to 11th _classe_). Professional education in public institutions is nonoperational, however private school offerings opened, including the _Centro de Formação São João Bosco_ (since 2004) and the _Centro de Formação Luís Inácio Lula da Silva_ (since 2011).[57]
 
 Higher education is limited and most prefer to be educated abroad, with students preferring to enroll in Portugal.[58] A number of universities, to which an institutionally autonomous Faculty of Law as well as a Faculty of Medicine[59]
 
@@ -175,8 +171,6 @@ Usually, the many different ethnic groups in Guinea-Bissau coexist peacefully, b
 
 
 Culture
-
-Hotel_Ecolodge_Ponta_Anchaca_02.jpg Guinea-bissau-bissau-1.jpg Manecas_Costa3.jpg
 
 Media
 

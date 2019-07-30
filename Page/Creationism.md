@@ -39,7 +39,7 @@ The main general types are listed below.
 
 Young Earth creationism
 
-ICR_building.jpg (ICR) is a young-Earth creationist organization.]] Young Earth creationists such as Ken Ham and Doug Phillips believe that God created the Earth within the last ten thousand years, literally as described in the Genesis creation narrative, within the approximate time-frame of biblical genealogies (detailed for example in the Ussher chronology). Most young Earth creationists believe that the universe has a similar age as the Earth. A few assign a much older age to the universe than to Earth. Creationist cosmologies give the universe an age consistent with the Ussher chronology and other young Earth time frames. Other young Earth creationists believe that the Earth and the universe were created with the appearance of age, so that the world appears to be much older than it is, and that this appearance is what gives the geological findings and other methods of dating the Earth and the universe their much longer timelines.
+(ICR) is a young-Earth creationist organization.]] Young Earth creationists such as Ken Ham and Doug Phillips believe that God created the Earth within the last ten thousand years, literally as described in the Genesis creation narrative, within the approximate time-frame of biblical genealogies (detailed for example in the Ussher chronology). Most young Earth creationists believe that the universe has a similar age as the Earth. A few assign a much older age to the universe than to Earth. Creationist cosmologies give the universe an age consistent with the Ussher chronology and other young Earth time frames. Other young Earth creationists believe that the Earth and the universe were created with the appearance of age, so that the world appears to be much older than it is, and that this appearance is what gives the geological findings and other methods of dating the Earth and the universe their much longer timelines.
 
 The Christian organizations Institute for Creation Research (ICR) and the Creation Research Society (CRS) both promote young Earth creationism in the US. Another organization with similar views, Answers in Genesis (AiG)—based in both the U.S. and the United Kingdom—has opened the Creation Museum in Petersburg, Kentucky, to promote young Earth creationism. Creation Ministries International promotes young Earth views in Australia, Canada, South Africa, New Zealand, the US, and the UK. Among Roman Catholics, the Kolbe Center for the Study of Creation promotes similar ideas. In 2007, Ken Ham founded the Creation Museum and Ark Encounter in northern Kentucky.
 
@@ -198,7 +198,7 @@ Some contemporary writers such as Rabbi Gedalyah Nadel have sought to reconcile 
 
 Prevalence
 
-Views_on_Evolution.svg |volume=198 |issue=2652 |page=31 |doi=10.1016/S0262-4079(08)60984-7 |issn=0262-4079 |accessdate=2014-03-27}}[121]]] Most vocal literalist creationists are from the US, and strict creationist views are much less common in other developed countries. According to a study published in _Science_, a survey of the US, Turkey, Japan and Europe showed that public acceptance of evolution is most prevalent in Iceland, Denmark and Sweden at 80% of the population.[122] There seems to be no significant correlation between believing in evolution and understanding evolutionary science.[123][124]
+|volume=198 |issue=2652 |page=31 |doi=10.1016/S0262-4079(08)60984-7 |issn=0262-4079 |accessdate=2014-03-27}}[121]]] Most vocal literalist creationists are from the US, and strict creationist views are much less common in other developed countries. According to a study published in _Science_, a survey of the US, Turkey, Japan and Europe showed that public acceptance of evolution is most prevalent in Iceland, Denmark and Sweden at 80% of the population.[122] There seems to be no significant correlation between believing in evolution and understanding evolutionary science.[123][124]
 
 Australia
 
@@ -228,7 +228,7 @@ Poland saw a major controversy over creationism in 2006, when the Deputy Educati
 
 United States
 
-Creationist_car.jpg ]] A 2017 poll by Pew Research found that 62% of Americans believe humans have evolved over time and 34% of Americans believe humans and other living things have existed in their present form since the beginning of time.[141] Another 2017 Gallup creationism survey found that 38% of adults in the United States inclined to the view that "God created humans in their present form at one time within the last 10,000 years" when asked for their views on the origin and development of human beings, which Gallup noted was the lowest level in 35 years.[142]
+]] A 2017 poll by Pew Research found that 62% of Americans believe humans have evolved over time and 34% of Americans believe humans and other living things have existed in their present form since the beginning of time.[141] Another 2017 Gallup creationism survey found that 38% of adults in the United States inclined to the view that "God created humans in their present form at one time within the last 10,000 years" when asked for their views on the origin and development of human beings, which Gallup noted was the lowest level in 35 years.[142]
 
 According to a 2014 Gallup poll,[143] about 42% of Americans believe that "God created human beings pretty much in their present form at one time within the last 10,000 years or so."[144] Another 31% believe that "human beings have developed over millions of years from less advanced forms of life, but God guided this process,"and 19% believe that "human beings have developed over millions of years from less advanced forms of life, but God had no part in this process."[145]
 
@@ -244,7 +244,7 @@ In September 2012, educator and television personality Bill Nye spoke with the A
 
 Education controversies
 
-Truth_fish.jpg ]] In the US, creationism has become centered in the political controversy over creation and evolution in public education, and whether teaching creationism in science classes conflicts with the separation of church and state. Currently, the controversy comes in the form of whether advocates of the intelligent design movement who wish to "Teach the Controversy" in science classes have conflated science with religion.[160]
+]] In the US, creationism has become centered in the political controversy over creation and evolution in public education, and whether teaching creationism in science classes conflicts with the separation of church and state. Currently, the controversy comes in the form of whether advocates of the intelligent design movement who wish to "Teach the Controversy" in science classes have conflated science with religion.[160]
 
 People for the American Way polled 1500 North Americans about the teaching of evolution and creationism in November and December 1999. They found that most North Americans were not familiar with Creationism, and most North Americans had heard of evolution, but many did not fully understand the basics of the theory. The main findings were:
 

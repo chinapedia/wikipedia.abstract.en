@@ -14,7 +14,7 @@ Classification
 
 Previously, New World monkeys were divided between Callitrichidae and this family. For a few recent years, marmosets, tamarins, and lion tamarins were placed as a subfamily (Callitrichinae) in Cebidae, while moving other genera from Cebidae into the families Aotidae, Pitheciidae and Atelidae.[3] The most recent classification of New World monkeys again splits the callitrichids off, leaving only the capuchins and squirrel monkeys in this family.[4]
 
--   FAMILY CEBIDAE: capuchins and squirrel monkeysCebus_albifrons_edit.jpg (_Cebus albifrons_)]]
+-   FAMILY CEBIDAE: capuchins and squirrel monkeys (_Cebus albifrons_)]]
     -   Subfamily Cebinae
         -   Genus _Cebus_
             -   Kaapori capuchin, _Cebus kaapori_
@@ -26,7 +26,7 @@ Previously, New World monkeys were divided between Callitrichidae and this famil
             -   Black capuchin, _Sapajus nigritus_
             -   Blond capuchin, _Sapajus flavius_
             -   Golden-bellied capuchin, _Sapajus xanthosternos_
-            -   Tufted capuchin, _Sapajus apella_common.squirrel.monkey.arp.jpg (_Saimiri sciureus_)]]
+            -   Tufted capuchin, _Sapajus apella_ (_Saimiri sciureus_)]]
     -   Subfamily Saimiriinae
         -   Genus _Saimiri_
             -   Bare-eared squirrel monkey, _Saimiri ustus_

@@ -3,7 +3,7 @@ DELICATE ARCH is freestanding natural arch located in Arches National Park, near
 
 History
 
-Cloudy_Sunset_at_Delicate_Arch_(8520706358).jpg at sunset, February 2011]] Because of its distinctive shape, the arch was known as "the Chaps" and "the Schoolmarm's Bloomers" by local cowboys.[4] Many other names have been applied to this arch including "Bloomers Arch", "Marys Bloomers", "Old Maids Bloomers", "Pants Crotch", "Salt Wash Arch", and "School Marms Pants".[5] The arch was given its current name by Frank Beckwith, leader of the Arches National Monument Scientific Expedition, who explored the area in the winter of 1933–1934. Although there is a rumor that the names of Delicate Arch and Landscape Arch were inadvertently exchanged due to a signage mixup by the National Park Service (NPS), this is false.[6]
+at sunset, February 2011]] Because of its distinctive shape, the arch was known as "the Chaps" and "the Schoolmarm's Bloomers" by local cowboys.[4] Many other names have been applied to this arch including "Bloomers Arch", "Marys Bloomers", "Old Maids Bloomers", "Pants Crotch", "Salt Wash Arch", and "School Marms Pants".[5] The arch was given its current name by Frank Beckwith, leader of the Arches National Monument Scientific Expedition, who explored the area in the winter of 1933–1934. Although there is a rumor that the names of Delicate Arch and Landscape Arch were inadvertently exchanged due to a signage mixup by the National Park Service (NPS), this is false.[6]
 
 This arch played no part in the original designation of the area as a national monument (Arches National Monument) in 1929, and was not included within the original boundaries; it was added when the monument was enlarged in 1938.
 

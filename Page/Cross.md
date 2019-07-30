@@ -1,4 +1,4 @@
-Cross2.svg'', a cross whose limbs are slanted]] A CROSS is a geometrical figure consisting of two intersecting lines or bars, usually perpendicular to each other. The lines usually run vertically and horizontally. A cross of oblique lines, in the shape of the Latin letter X, is also termed a saltire in heraldic terminology.
+'', a cross whose limbs are slanted]] A CROSS is a geometrical figure consisting of two intersecting lines or bars, usually perpendicular to each other. The lines usually run vertically and horizontally. A cross of oblique lines, in the shape of the Latin letter X, is also termed a saltire in heraldic terminology.
 
 
 Name
@@ -14,11 +14,11 @@ History
 
 Pre-Christian
 
-Radanhaenger-edited.jpg" (Urnfield culture, 2nd millennium BC).]] Due to the simplicity of the design (two intersecting lines), cross-shaped incisions make their appearance from deep prehistory; as petroglyphs in European cult caves, dating back to the beginning of the Upper Paleolithic, and throughout prehistory to the Iron Age. Also of prehistoric age are numerous variants of the simple cross mark, including the _crux gammata_ with curving or angular lines, and the Egyptian _crux ansata_ with a loop.
+" (Urnfield culture, 2nd millennium BC).]] Due to the simplicity of the design (two intersecting lines), cross-shaped incisions make their appearance from deep prehistory; as petroglyphs in European cult caves, dating back to the beginning of the Upper Paleolithic, and throughout prehistory to the Iron Age. Also of prehistoric age are numerous variants of the simple cross mark, including the _crux gammata_ with curving or angular lines, and the Egyptian _crux ansata_ with a loop.
 
 Speculation has associated the cross symbol – even in the prehistoric period – with astronomical or cosmological symbology involving "four elements" (Chevalier, 1997) or the cardinal points, or the unity of a vertical axis mundi or celestial pole with the horizontal world (Koch, 1955). Speculation of this kind became especially popular in the mid- to late-19th century in the context of comparative mythology seeking to tie Christian mythology to ancient cosmological myths. Influential works in this vein included G. de Mortillet (1866),[8] L. Müller (1865),[9] W. W. Blake (1888),[10] Ansault (1891),[11] etc.
 
-LAK-617.png character LAK-617 (𒔁): a cruciform arrangement of five boxes; scribes could use the central, larger box as container for other characters.]]
+character LAK-617 (𒔁): a cruciform arrangement of five boxes; scribes could use the central, larger box as container for other characters.]]
 
 In the European Bronze Age the cross symbol appeared to carry a religious meaning, perhaps as a symbol of consecration, especially pertaining to burial.[12]
 
@@ -30,7 +30,7 @@ According to W. E. Vine's _Expository Dictionary of New Testament Words_, worshi
 
 Christian cross
 
-Solidus-Leontinus-sb1330.jpg on a solidus minted by Leontios (r. 695–698); on the obverse, a stepped cross in the shape of a Iota Eta monogram.]] The shape of the cross (_crux_, _stauros_ "stake, gibbet"), as represented by the letter T, came to be used as a "seal" or symbol of Early Christianity by the 2nd century.[16] Clement of Alexandria in the early 3rd century calls it ("the Lord's sign") he repeats the idea, current as early as the Epistle of Barnabas, that the number 318 (in Greek numerals, ΤΙΗ) in Genesis 14:14 was a foreshadowing (a "type") of the cross (the letter Tau) and of Jesus (the letters Iota Eta).[17] Clement's contemporary Tertullian rejects the accusation that Christians are _crucis religiosi_ (i.e. "adorers of the gibbet"), and returns the accusation by likening the worship of pagan idols to the worship of poles or stakes.[18] In his book _De Corona_, written in 204, Tertullian tells how it was already a tradition for Christians to trace repeatedly on their foreheads the sign of the cross.[19]
+on a solidus minted by Leontios (r. 695–698); on the obverse, a stepped cross in the shape of a Iota Eta monogram.]] The shape of the cross (_crux_, _stauros_ "stake, gibbet"), as represented by the letter T, came to be used as a "seal" or symbol of Early Christianity by the 2nd century.[16] Clement of Alexandria in the early 3rd century calls it ("the Lord's sign") he repeats the idea, current as early as the Epistle of Barnabas, that the number 318 (in Greek numerals, ΤΙΗ) in Genesis 14:14 was a foreshadowing (a "type") of the cross (the letter Tau) and of Jesus (the letters Iota Eta).[17] Clement's contemporary Tertullian rejects the accusation that Christians are _crucis religiosi_ (i.e. "adorers of the gibbet"), and returns the accusation by likening the worship of pagan idols to the worship of poles or stakes.[18] In his book _De Corona_, written in 204, Tertullian tells how it was already a tradition for Christians to trace repeatedly on their foreheads the sign of the cross.[19]
 
 While early Christians used the T-shape to represent the cross in writing and gesture, the use of the Greek cross and Latin cross, i.e. crosses with intersecting beams, appears in Christian art towards the end of Late Antiquity. An early example of the cruciform halo, used to identify Christ in paintings, is found in the _Miracles of the Loaves and Fishes_ mosaic of Sant'Apollinare Nuovo, Ravenna (6th century). The Patriarchal cross, a Latin cross with an additional horizontal bar, first appears in the 10th century. A wide variation of cross symbols is introduced for the purposes of heraldry beginning in the age of the Crusades.[20]
 
@@ -66,24 +66,24 @@ Cross-like emblems
 
 The following is a list of cross symbols, _except_ for variants of the Christian cross and Heraldic crosses, for which see the dedicated lists at Christian cross variants and Crosses in heraldry, respectively.
 
-  Picture                     Cross name        Description
-  --------------------------- ----------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Ankh.svg                    | ANKH            The _ankh_ or _crux ansata_, an Egyptian hieroglyph representing "life".
-  Lauburu.svg                 Basque cross      The Basque cross or _lauburu_.
-  Simple_crossed_circle.svg   | the Sun cross   The "sun cross" or "wheel cross" appears with some regularity in prehistoric European artefacts, usually interpreted as a solar symbol, perhaps representing the spoked wheel of the Sun chariot.
-  Swastika.png                | Swastika        The swastika or _crux gammata_ (in heraldry _fylfot_), historically used as a symbol in Buddhism, Jainism and Hinduism, and widely popular in the early 20th century as a symbol of good luck or prosperity before adopted as a symbol of Nazism in the 1920s and 30s.
+  Picture   Cross name        Description
+  --------- ----------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+            | ANKH            The _ankh_ or _crux ansata_, an Egyptian hieroglyph representing "life".
+            Basque cross      The Basque cross or _lauburu_.
+            | the Sun cross   The "sun cross" or "wheel cross" appears with some regularity in prehistoric European artefacts, usually interpreted as a solar symbol, perhaps representing the spoked wheel of the Sun chariot.
+            | Swastika        The swastika or _crux gammata_ (in heraldry _fylfot_), historically used as a symbol in Buddhism, Jainism and Hinduism, and widely popular in the early 20th century as a symbol of good luck or prosperity before adopted as a symbol of Nazism in the 1920s and 30s.
 
   : Crosses as emblems and symbols
 
 As a design element
 
-  Picture                                          Cross name               Description
-  ------------------------------------------------ ------------------------ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Windrose.svg                                     | COMPASS ROSE           A compass rose, sometimes called a windrose, is a figure on a compass, map, nautical chart or monument used to display the orientation of the cardinal directions and often appears as a cross tapering to triangular points.
-  Emblem_of_the_Papacy_SE.svg                      | CROSSED KEYS           Symbol of the Papacy used in various emblems representing the keys to heaven.
-  Cross_of_Independence_with_Swords_(Poland).PNG   | CROSSED SWORDS         The crossed swords symbol (⚔ at Unicode U+2694) is used to represent battlegrounds on maps. It is also used to show that person died in battle or that a war machine was lost in action. Two crossed swords also look like a Christian cross and the mixed symbolism has been used in military decorations. It is also a popular way to display swords on a wall often with a shield in the center
-  Tux_Paint_clover.svg                             | FOUR-LEAF CLOVER       Used as a symbol for luck as well as a stand in for a cross in various works.
-  Hazard_T.svg                                     | SKULL AND CROSSBONES   Traditionally used to mark Spanish cemeteries; the symbol evolved to represent death/danger, poison, and pirates.
+  Picture   Cross name               Description
+  --------- ------------------------ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+            | COMPASS ROSE           A compass rose, sometimes called a windrose, is a figure on a compass, map, nautical chart or monument used to display the orientation of the cardinal directions and often appears as a cross tapering to triangular points.
+            | CROSSED KEYS           Symbol of the Papacy used in various emblems representing the keys to heaven.
+            | CROSSED SWORDS         The crossed swords symbol (⚔ at Unicode U+2694) is used to represent battlegrounds on maps. It is also used to show that person died in battle or that a war machine was lost in action. Two crossed swords also look like a Christian cross and the mixed symbolism has been used in military decorations. It is also a popular way to display swords on a wall often with a shield in the center
+            | FOUR-LEAF CLOVER       Used as a symbol for luck as well as a stand in for a cross in various works.
+            | SKULL AND CROSSBONES   Traditionally used to mark Spanish cemeteries; the symbol evolved to represent death/danger, poison, and pirates.
 
 
 Physical gestures

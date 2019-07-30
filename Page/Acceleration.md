@@ -2,7 +2,7 @@
 
 Instantaneous acceleration
 
-FROM BOTTOM TO TOP: Instantaneous acceleration, meanwhile, is the limit of the average acceleration over an infinitesimal interval of time. In the terms of calculus, instantaneous acceleration is the derivative of the velocity vector with respect to time:
+Instantaneous acceleration, meanwhile, is the limit of the average acceleration over an infinitesimal interval of time. In the terms of calculus, instantaneous acceleration is the derivative of the velocity vector with respect to time:
 
 $$\mathbf{a} = \lim_{{\Delta t}\to 0} \frac{\Delta \mathbf{v}}{\Delta t} = \frac{d\mathbf{v}}{dt}$$
 
@@ -34,8 +34,6 @@ where F is the net force acting on the body, _m_ is the mass of the body, and A 
 
 Tangential and centripetal acceleration
 
-Oscillating_pendulum.gif Acceleration_components.JPG
-
 The velocity of a particle moving on a curved path as a function of time can be written as:
 
 $$\mathbf{v} (t) =v(t) \frac {\mathbf{v}(t)}{v(t)} = v(t) \mathbf{u}_\mathrm{t}(t) ,$$
@@ -61,7 +59,7 @@ Special cases
 
 Uniform acceleration
 
-Strecke_und_konstante_Beschleunigung.png _Uniform_ or _constant_ acceleration is a type of motion in which the velocity of an object changes by an equal amount in every equal time period.
+_Uniform_ or _constant_ acceleration is a type of motion in which the velocity of an object changes by an equal amount in every equal time period.
 
 A frequently cited example of uniform acceleration is that of an object in free fall in a uniform gravitational field. The acceleration of a falling body in the absence of resistances to motion is dependent only on the gravitational field strength _g_ (also called _acceleration due to gravity_). By Newton's Second Law the force F_(G) acting on a body is given by:
 

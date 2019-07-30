@@ -7,7 +7,7 @@ The current contract for the Grand Prix at the circuit concludes in 2023.[2] Tob
 
 Design
 
-Melbourne_Grand_Prix_Circuit,_March_22,_2018_SkySat_(cropped).jpg The circuit uses everyday sections of road that circle Albert Park Lake, a small man-altered lake (originally a large lagoon formed as part of the ancient Yarra River course) just south of the Central Business District of Melbourne. The road sections that are used were rebuilt prior to the inaugural event in 1996 to ensure consistency and smoothness. As a result, compared to other circuits that are held on public roads, the Albert Park track has quite a smooth surface. Before 2007 there existed only a few other places on the Formula 1 calendar with a body of water close to the track. Many of the new tracks, such as Valencia, Singapore and Abu Dhabi have imitated that feature.
+The circuit uses everyday sections of road that circle Albert Park Lake, a small man-altered lake (originally a large lagoon formed as part of the ancient Yarra River course) just south of the Central Business District of Melbourne. The road sections that are used were rebuilt prior to the inaugural event in 1996 to ensure consistency and smoothness. As a result, compared to other circuits that are held on public roads, the Albert Park track has quite a smooth surface. Before 2007 there existed only a few other places on the Formula 1 calendar with a body of water close to the track. Many of the new tracks, such as Valencia, Singapore and Abu Dhabi have imitated that feature.
 
 The course is considered to be quite fast and relatively easy to drive, drivers having commented that the consistent placement of corners allows them to easily learn the circuit and achieve competitive times. However, the flat terrain around the lake, coupled with a track design that features few true straights, means that the track is not conducive to overtaking or easy spectating unless in possession of a grandstand seat.
 
@@ -18,7 +18,7 @@ On 4 July 2008, the official F1 site (Formula1.com) reported that more than 300,
 
 Everyday access
 
-Melbourne_Grand_Prix_Circuit,_December_24,_2017_SkySat_(cropped).jpg During the nine months of the year when the track is not required for Grand Prix preparation or the race weekend, most of the track can be driven by ordinary street-registered vehicles either clockwise or anti-clockwise.
+During the nine months of the year when the track is not required for Grand Prix preparation or the race weekend, most of the track can be driven by ordinary street-registered vehicles either clockwise or anti-clockwise.
 
 Only the sections between turns 3, 4 and 5, then 5 and 6, differ significantly from the race track configuration. Turn 4 is replaced by a car park access road running directly from turns 3 to 5. Between turns 5 and 6, the road is blocked. It is possible to drive from turn 5 on to Albert Road and back on to the track at turn 7 though two sets of lights control the flow of this option. The only set of lights on the actual track is halfway between turns 12 and 13, where drivers using Queens Road are catered for. The chicanes at turns 11 and 12 are considerably more open than that used in the Grand Prix, using the escape roads. Turn 9 is also a car park and traffic is directed down another escape road.
 

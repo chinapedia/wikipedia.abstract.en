@@ -3,8 +3,6 @@ This article is about the demographic features of the population of the Dominica
 
 Population
 
-Dominican_Rep_demography.png
-
 According to the total population was in , compared to 2,380,000 in 1950. The proportion of the population aged below 15 in 2010 was 31.2%, 62.8% were aged between 15 and 65 years of age, while 6% were aged 65 years or older.[1]
 
 +------+------------------+------------+------------+------------+
@@ -176,8 +174,6 @@ Population:
     10,298,756 (July 2018 est.)
 
 Age structure:
-
-Dominican_Republicpop.svg
 
     _0-14 years:_ 27.56% (male 1,442,926 /female 1,395,809)
     _15-24 years:_ 18.52% (male 969,467 /female 937,765)

@@ -24,7 +24,7 @@ Yeager enlisted as a private in the U.S. Army Air Forces (USAAF) on , 1941, and 
 
 He received his wings and a promotion to flight officer at Luke Field, Arizona, where he graduated from class 43C on , 1943. Assigned to the 357th Fighter Group at Tonopah, Nevada, he initially trained as a fighter pilot, flying Bell P-39 Airacobras (being grounded for seven days for clipping a farmer's tree during a training flight),[8] and shipped overseas with the group on , 1943.
 
-P51-1_300.jpg, _Glamorous Glen III_, is the aircraft in which Yeager achieved most of his aerial victories.]] Stationed in the United Kingdom at RAF Leiston, Yeager flew P-51 Mustangs in combat with the 363d Fighter Squadron. He named his aircraft _Glamorous Glen_[9][10] after his girlfriend, Glennis Faye Dickhouse, who became his wife in February 1945. Yeager had gained one victory before he was shot down over France in his first aircraft (P-51B-5-NA s/n 43-6763) on , 1944 during his eighth mission.[11] He escaped to Spain on with the help of the _Maquis_ (French Resistance) and returned to England on , 1944. During his stay with the _Maquis_, Yeager assisted the guerrillas in duties that did not involve direct combat; he helped construct bombs for the group, a skill that he had learned from his father.[12] He was awarded the Bronze Star for helping a B-24 navigator, "Pat" Patterson, who was shot in the knee during the escape attempt, to cross the Pyrenees. Yeager cut off the tendon by which Patterson's leg was hanging below the knee, then tied off the leg with a spare shirt made of parachute silk.[13]
+, _Glamorous Glen III_, is the aircraft in which Yeager achieved most of his aerial victories.]] Stationed in the United Kingdom at RAF Leiston, Yeager flew P-51 Mustangs in combat with the 363d Fighter Squadron. He named his aircraft _Glamorous Glen_[9][10] after his girlfriend, Glennis Faye Dickhouse, who became his wife in February 1945. Yeager had gained one victory before he was shot down over France in his first aircraft (P-51B-5-NA s/n 43-6763) on , 1944 during his eighth mission.[11] He escaped to Spain on with the help of the _Maquis_ (French Resistance) and returned to England on , 1944. During his stay with the _Maquis_, Yeager assisted the guerrillas in duties that did not involve direct combat; he helped construct bombs for the group, a skill that he had learned from his father.[12] He was awarded the Bronze Star for helping a B-24 navigator, "Pat" Patterson, who was shot in the knee during the escape attempt, to cross the Pyrenees. Yeager cut off the tendon by which Patterson's leg was hanging below the knee, then tied off the leg with a spare shirt made of parachute silk.[13]
 
 Despite a regulation prohibiting "evaders" (escaped pilots) from flying over enemy territory again, the purpose of which was to prevent a second capture from compromising resistance groups, Yeager was reinstated to flying combat. He had joined another evader, fellow P-51 pilot 1st Lt Fred Glover,[14] in speaking directly to the Supreme Allied Commander, General Dwight D. Eisenhower, on , 1944. With Glover pleading their case, they argued that because the Allies had invaded France and the _Maquis_ were by then openly fighting the Nazis alongside Allied troops, if Yeager or Glover were shot down again, there was little about those who had previously helped them evade capture that could be revealed to the enemy.
 
@@ -40,9 +40,9 @@ Post-World War II
 
 Test pilot – breaking the sound barrier
 
-Yeager_supersonic_flight_1947.ogv Yeager remained in the Air Force after the war, becoming a test pilot at Muroc Army Air Field (now Edwards Air Force Base), following graduation from Air Materiel Command Flight Performance School (Class 46C).[24] After Bell Aircraft test pilot Chalmers "Slick" Goodlin demanded $150,000 ($1.6 million in 2015 dollars) to break the sound "barrier," the USAAF selected Yeager to fly the rocket-powered Bell XS-1 in a NACA program to research high-speed flight.[25][26]
+Yeager remained in the Air Force after the war, becoming a test pilot at Muroc Army Air Field (now Edwards Air Force Base), following graduation from Air Materiel Command Flight Performance School (Class 46C).[24] After Bell Aircraft test pilot Chalmers "Slick" Goodlin demanded $150,000 ($1.6 million in 2015 dollars) to break the sound "barrier," the USAAF selected Yeager to fly the rocket-powered Bell XS-1 in a NACA program to research high-speed flight.[25][26]
 
-Chuck_Yeager.jpg, which, as with all of the aircraft assigned to him, he named _Glamorous Glennis_ (or some variation thereof), after his wife.]] Chuck_Yeager_X-1_(color).jpg Such was the difficulty in this task that the answer to many of the inherent challenges was along the lines of "Yeager better have paid-up insurance."[27] Two nights before the scheduled date for the flight, Yeager broke two ribs when he fell from a horse. He was worried that the injury would remove him from the mission and reported that he went to a civilian doctor in nearby Rosamond, who taped his ribs.[28] Yeager told only his wife, as well as friend and fellow project pilot Jack Ridley, about the accident. On the day of the flight, Yeager was in such pain that he could not seal the X-1's hatch by himself. Ridley rigged up a device, using the end of a broom handle as an extra lever, to allow Yeager to seal the hatch.
+, which, as with all of the aircraft assigned to him, he named _Glamorous Glennis_ (or some variation thereof), after his wife.]] Such was the difficulty in this task that the answer to many of the inherent challenges was along the lines of "Yeager better have paid-up insurance."[27] Two nights before the scheduled date for the flight, Yeager broke two ribs when he fell from a horse. He was worried that the injury would remove him from the mission and reported that he went to a civilian doctor in nearby Rosamond, who taped his ribs.[28] Yeager told only his wife, as well as friend and fellow project pilot Jack Ridley, about the accident. On the day of the flight, Yeager was in such pain that he could not seal the X-1's hatch by himself. Ridley rigged up a device, using the end of a broom handle as an extra lever, to allow Yeager to seal the hatch.
 
 Yeager broke the sound barrier on , 1947, flying the X-1 _Glamorous Glennis_ at Mach 1.07 at an altitude of ().[29] over the Rogers Dry Lake in the Mojave Desert. The success of the mission was not announced to the public until June 1948.[30] Yeager was awarded the Mackay Trophy and the Collier Trophy in 1948 for his mach-transcending flight, and the Harmon International Trophy in 1954. The X-1 he flew that day was later put on permanent display at the Smithsonian Institution's National Air and Space Museum.
 
@@ -54,7 +54,7 @@ The new record flight, however, did not entirely go to plan, since shortly after
 
 Military command
 
-Charles_Yeager_photo_portrait_head_on_shoulders_left_side.jpg Yeager was foremost a fighter pilot and held several squadron and wing commands. From May 1955 to July 1957 he commanded the F-86H Sabre-equipped 417th Fighter-Bomber Squadron (50th Fighter-Bomber Wing) at Hahn AB, Germany, and Toul-Rosieres Air Base, France; and from 1957 to 1960 the F-100D Super Sabre-equipped 1st Fighter Day Squadron (later, while still under Yeager's command, re-designated the 306th Tactical Fighter Squadron) at George Air Force Base, California, and Morón Air Base, Spain.
+Yeager was foremost a fighter pilot and held several squadron and wing commands. From May 1955 to July 1957 he commanded the F-86H Sabre-equipped 417th Fighter-Bomber Squadron (50th Fighter-Bomber Wing) at Hahn AB, Germany, and Toul-Rosieres Air Base, France; and from 1957 to 1960 the F-100D Super Sabre-equipped 1st Fighter Day Squadron (later, while still under Yeager's command, re-designated the 306th Tactical Fighter Squadron) at George Air Force Base, California, and Morón Air Base, Spain.
 
 Now a full colonel[36] in 1962, after completion of a year's studies at the Air War College, Yeager became the first commandant of the USAF Aerospace Research Pilot School, which produced astronauts for NASA and the USAF, after its redesignation from the USAF Flight Test Pilot School. (Yeager himself had only a high school education, so he was not eligible to become an astronaut like those he trained.) Yeager blocked the advancement of the first Black trainee, Ed Dwight, into the astronaut corps, ordering the other trainees to ostracize him so he would quit.[37] Between December 1963 and January 1964,[38] Yeager completed five flights in the NASA M2-F1 lifting body. An accident during a December 1963 test flight in one of the school's NF-104s eventually put an end to his record attempts.
 
@@ -65,8 +65,6 @@ On , 1969, Yeager was promoted to brigadier general and was assigned in July as 
 From 1971 to 1973, at the behest of Ambassador Joe Farland, Yeager was assigned to Pakistan to advise the Pakistan Air Force.[39] In one of the numerous raids carried out by Indian pilots against Pakistani airfields, Yeager's plane was destroyed while it was parked at Islamabad airport.[40] Edward C. Ingraham, a U.S diplomat who had served as political counselor to Ambassador Farland in Islamabad recalled this incident in the _Washington Monthly_ of October, 1985: "After Yeager's Beechcraft was destroyed during an Indian air raid, he raged to his cowering colleagues that the Indian pilot had been specifically instructed by Indira Gandhi to blast his plane. 'It was,' he later wrote, 'the Indian way of giving Uncle Sam the finger.'" [41]
 
 Post-retirement career
-
-ChuckYeager.jpeg
 
 On , 1975, following assignments in Germany and Pakistan, Yeager retired from the Air Force at Norton Air Force Base after serving over 33 years on active duty, although he continued to occasionally fly for the USAF and NASA as a consulting test pilot at Edwards AFB.
 
@@ -87,7 +85,7 @@ On , 2012, on the 65th anniversary of breaking the sound barrier, Yeager did it 
 
 Awards and decorations
 
-Yeager_congressional_silver_medal.jpg In 1973, Yeager was inducted into the National Aviation Hall of Fame, arguably aviation's highest honor. In December 1975, the U.S. Congress awarded Yeager a silver medal "equivalent to a noncombat Medal of Honor ... for contributing immeasurably to aerospace science by risking his life in piloting the X-1 research airplane faster than the speed of sound on , 1947." President Gerald Ford presented the medal to Yeager in a ceremony at the White House on , 1976.[48]
+In 1973, Yeager was inducted into the National Aviation Hall of Fame, arguably aviation's highest honor. In December 1975, the U.S. Congress awarded Yeager a silver medal "equivalent to a noncombat Medal of Honor ... for contributing immeasurably to aerospace science by risking his life in piloting the X-1 research airplane faster than the speed of sound on , 1947." President Gerald Ford presented the medal to Yeager in a ceremony at the White House on , 1976.[48]
 
 Yeager, who never attended college and was often modest about his background, is considered by many, including _Flying Magazine_, the California Hall of Fame, the State of West Virginia, National Aviation Hall of Fame, a few U.S. presidents, and the United States Army Air Force, to be one of the greatest pilots of all time. Despite his lack of higher education, he has been honored in his home state. Marshall University has named its highest academic scholarship, the Society of Yeager Scholars, in his honor. Yeager was also the chairman of Experimental Aircraft Association's Young Eagle Program from 1994–2004, and has been named the program's chairman emeritus.[49]
 
@@ -99,67 +97,65 @@ Yeager is an honorary board member of the humanitarian organization Wings of Hop
 
 The Civil Air Patrol, the volunteer auxiliary of the USAF, awards the Charles E. "Chuck" Yeager Award to its Senior Members as part of its Aerospace Education program.[55] The General Chuck Yeager Cadet Squadron (SER-FL-237), associated with the Florida Wing, Civil Air Patrol, and based in Brandon, Florida, is also named in his honor.
 
-+--------------------------------------------------+
-| BADGES, PATCHES AND TABS                         |
-+--------------------------------------------------+
-| COMMAND_PILOT_WINGS.png                          |
-+--------------------------------------------------+
-| PERSONAL DECORATIONS                             |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-| UNIT AWARDS                                      |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-| CAMPAIGN AND SERVICE MEDALS                      |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-|                                                  |
-+--------------------------------------------------+
-| Vietnam_Campaign_Medal_ribbon_with_60-_clasp.svg |
-+--------------------------------------------------+
++-----------------------------+
+| BADGES, PATCHES AND TABS    |
++-----------------------------+
+|                             |
++-----------------------------+
+| PERSONAL DECORATIONS        |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+| UNIT AWARDS                 |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+| CAMPAIGN AND SERVICE MEDALS |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
+|                             |
++-----------------------------+
 
 Other achievements
-
-CAP_Yeager_Cadet_Sq_Emblem.gif
 
 
 Personal life

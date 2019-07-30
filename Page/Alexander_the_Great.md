@@ -11,9 +11,9 @@ Early life
 
 Lineage and childhood
 
-AlexanderTheGreat_Bust_Transparent.png, British Museum]] Aristotle_tutoring_Alexander.jpg Tutoring Alexander'', by Jean Leon Gerome Ferris]]
+, British Museum]] Tutoring Alexander'', by Jean Leon Gerome Ferris]]
 
-Alexander was born in Pella, the capital of the Kingdom of Macedon,[6] on the sixth day of the ancient Greek month of Hekatombaion, which probably corresponds to 20July 356 BC, although the exact date is uncertain.[7] He was the son of the king of Macedon, Philip II, and his fourth wife, Olympias, the daughter of Neoptolemus I, king of Epirus.[8] Although Philip had seven or eight wives, Olympias was his principal wife for some time, likely because she gave birth to Alexander. Θεσσαλονίκη_2014_(The_Statue_of_Alexander_the_Great)_-_panoramio.jpg, Macedonia, Greece]]
+Alexander was born in Pella, the capital of the Kingdom of Macedon,[6] on the sixth day of the ancient Greek month of Hekatombaion, which probably corresponds to 20July 356 BC, although the exact date is uncertain.[7] He was the son of the king of Macedon, Philip II, and his fourth wife, Olympias, the daughter of Neoptolemus I, king of Epirus.[8] Although Philip had seven or eight wives, Olympias was his principal wife for some time, likely because she gave birth to Alexander. , Macedonia, Greece]]
 
 Several legends surround Alexander's birth and childhood. According to the ancient Greek biographer Plutarch, on the eve of the consummation of her marriage to Philip, Olympias dreamed that her womb was struck by a thunder bolt that caused a flame to spread "far and wide" before dying away. Sometime after the wedding, Philip is said to have seen himself, in a dream, securing his wife's womb with a seal engraved with a lion's image.[9] Plutarch offered a variety of interpretations of these dreams: that Olympias was pregnant before her marriage, indicated by the sealing of her womb; or that Alexander's father was Zeus. Ancient commentators were divided about whether the ambitious Olympias promulgated the story of Alexander's divine parentage, variously claiming that she had told Alexander, or that she dismissed the suggestion as impious.[10]
 
@@ -36,7 +36,7 @@ Philip's heir
 
 Regency and ascent of Macedon
 
-Filip_II_Macedonia.jpg, Alexander's father]]
+, Alexander's father]]
 
 At age 16, Alexander's education under Aristotle ended. Philip waged war against Byzantion, leaving Alexander in charge as regent and heir apparent. During Philip's absence, the Thracian Maedi revolted against Macedonia. Alexander responded quickly, driving them from their territory. He colonized it with Greeks, and founded a city named Alexandropolis.[24]
 
@@ -44,7 +44,7 @@ Upon Philip's return, he dispatched Alexander with a small force to subdue revol
 
 Philip and his army joined his son in 338 BC, and they marched south through Thermopylae, taking it after stubborn resistance from its Theban garrison. They went on to occupy the city of Elatea, only a few days' march from both Athens and Thebes. The Athenians, led by Demosthenes, voted to seek alliance with Thebes against Macedonia. Both Athens and Philip sent embassies to win Thebes' favour, but Athens won the contest.[25] Philip marched on Amphissa (ostensibly acting on the request of the Amphictyonic League), capturing the mercenaries sent there by Demosthenes and accepting the city's surrender. Philip then returned to Elatea, sending a final offer of peace to Athens and Thebes, who both rejected it.[26]
 
-Alexander1256.jpg]] As Philip marched south, his opponents blocked him near Chaeronea, Boeotia. During the ensuing Battle of Chaeronea, Philip commanded the right wing and Alexander the left, accompanied by a group of Philip's trusted generals. According to the ancient sources, the two sides fought bitterly for some time. Philip deliberately commanded his troops to retreat, counting on the untested Athenian hoplites to follow, thus breaking their line. Alexander was the first to break the Theban lines, followed by Philip's generals. Having damaged the enemy's cohesion, Philip ordered his troops to press forward and quickly routed them. With the Athenians lost, the Thebans were surrounded. Left to fight alone, they were defeated.[27]
+]] As Philip marched south, his opponents blocked him near Chaeronea, Boeotia. During the ensuing Battle of Chaeronea, Philip commanded the right wing and Alexander the left, accompanied by a group of Philip's trusted generals. According to the ancient sources, the two sides fought bitterly for some time. Philip deliberately commanded his troops to retreat, counting on the untested Athenian hoplites to follow, thus breaking their line. Alexander was the first to break the Theban lines, followed by Philip's generals. Having damaged the enemy's cohesion, Philip ordered his troops to press forward and quickly routed them. With the Athenians lost, the Thebans were surrounded. Left to fight alone, they were defeated.[27]
 
 After the victory at Chaeronea, Philip and Alexander marched unopposed into the Peloponnese, welcomed by all cities; however, when they reached Sparta, they were refused, but did not resort to war.[28] At Corinth, Philip established a "Hellenic Alliance" (modelled on the old anti-Persian alliance of the Greco-Persian Wars), which included most Greek city-states except Sparta. Philip was then named _Hegemon_ (often translated as "Supreme Commander") of this league (known by modern scholars as the League of Corinth), and announced his plans to attack the Persian Empire.
 
@@ -61,7 +61,7 @@ King of Macedon
 
 Accession
 
-Map_Macedonia_336_BC-en.svg Deer_hunt_mosaic_from_Pella.jpg, , from Pella; the figure on the right is possibly Alexander the Great due to the date of the mosaic along with the depicted upsweep of his centrally-parted hair (_anastole_); the figure on the left wielding a double-edged axe (associated with Hephaistos) is perhaps Hephaestion, one of Alexander's loyal companions.[32]]] In summer 336 BC, while at Aegae attending the wedding of his daughter Cleopatra to Olympias's brother, Alexander I of Epirus, Philip was assassinated by the captain of his bodyguards, Pausanias. As Pausanias tried to escape, he tripped over a vine and was killed by his pursuers, including two of Alexander's companions, Perdiccas and Leonnatus. Alexander was proclaimed king on the spot by the nobles and army at the age of 20.[33][34]
+, , from Pella; the figure on the right is possibly Alexander the Great due to the date of the mosaic along with the depicted upsweep of his centrally-parted hair (_anastole_); the figure on the left wielding a double-edged axe (associated with Hephaistos) is perhaps Hephaestion, one of Alexander's loyal companions.[32]]] In summer 336 BC, while at Aegae attending the wedding of his daughter Cleopatra to Olympias's brother, Alexander I of Epirus, Philip was assassinated by the captain of his bodyguards, Pausanias. As Pausanias tried to escape, he tripped over a vine and was killed by his pursuers, including two of Alexander's companions, Perdiccas and Leonnatus. Alexander was proclaimed king on the spot by the nobles and army at the age of 20.[33][34]
 
 Consolidation of power
 
@@ -75,7 +75,7 @@ Alexander stopped at Thermopylae, where he was recognized as the leader of the A
 
 Balkan campaign
 
-The_Macedonian_phalanx_at_the_Battle_of_the_Carts_against_the_Thracians_in_335_BCE.jpg Before crossing to Asia, Alexander wanted to safeguard his northern borders. In the spring of 335 BC, he advanced to suppress several revolts. Starting from Amphipolis, he travelled east into the country of the "Independent Thracians"; and at Mount Haemus, the Macedonian army attacked and defeated the Thracian forces manning the heights.[41] The Macedonians marched into the country of the Triballi, and defeated their army near the Lyginus river[42] (a tributary of the Danube). Alexander then marched for three days to the Danube, encountering the Getae tribe on the opposite shore. Crossing the river at night, he surprised them and forced their army to retreat after the first cavalry skirmish.[43]
+Before crossing to Asia, Alexander wanted to safeguard his northern borders. In the spring of 335 BC, he advanced to suppress several revolts. Starting from Amphipolis, he travelled east into the country of the "Independent Thracians"; and at Mount Haemus, the Macedonian army attacked and defeated the Thracian forces manning the heights.[41] The Macedonians marched into the country of the Triballi, and defeated their army near the Lyginus river[42] (a tributary of the Danube). Alexander then marched for three days to the Danube, encountering the Getae tribe on the opposite shore. Crossing the river at night, he surprised them and forced their army to retreat after the first cavalry skirmish.[43]
 
 News then reached Alexander that Cleitus, King of Illyria, and King Glaukias of the Taulantii were in open revolt against his authority. Marching west into Illyria, Alexander defeated each in turn, forcing the two rulers to flee with their troops. With these victories, he secured his northern frontier.[44]
 
@@ -92,7 +92,7 @@ Conquest of the Persian Empire
 
 Asia Minor
 
-MacedonEmpire.jpg Alexander_cuts_the_Gordian_Knot.jpg'' (1767) by Jean-Simon Berthélemy]] In 336 BC Philip II had already sent Parmenion, with Amyntas, Andromenes and Attalus, and an army of 10,000 men into Anatolia to make preparations for an invasion to free the Greeks living on the western coast and islands from Achaemenid rule.[52][53] At first, all went well. The Greek cities on the western coast of Anatolia revolted until the news arrived that Philip had been murdered and had been succeeded by his young son Alexander. The Macedonians were demoralized by Philip's death and were subsequently defeated near Magnesia by the Achaemenids under the command of the mercenary Memnon of Rhodes.[54][55]
+'' (1767) by Jean-Simon Berthélemy]] In 336 BC Philip II had already sent Parmenion, with Amyntas, Andromenes and Attalus, and an army of 10,000 men into Anatolia to make preparations for an invasion to free the Greeks living on the western coast and islands from Achaemenid rule.[52][53] At first, all went well. The Greek cities on the western coast of Anatolia revolted until the news arrived that Philip had been murdered and had been succeeded by his young son Alexander. The Macedonians were demoralized by Philip's death and were subsequently defeated near Magnesia by the Achaemenids under the command of the mercenary Memnon of Rhodes.[54][55]
 
 Taking over the invasion project of Philip II, Alexander's army crossed the Hellespont in 334 BC with approximately 48,100 soldiers, 6,100 cavalry and a fleet of 120 ships with crews numbering 38,000, drawn from Macedon and various Greek city-states, mercenaries, and feudally raised soldiers from Thrace, Paionia, and Illyria.[56] He showed his intent to conquer the entirety of the Persian Empire by throwing a spear into Asian soil and saying he accepted Asia as a gift from the gods. This also showed Alexander's eagerness to fight, in contrast to his father's preference for diplomacy.
 
@@ -102,13 +102,13 @@ From Halicarnassus, Alexander proceeded into mountainous Lycia and the Pamphylia
 
 The Levant and Syria
 
-Issus_-_Alexander.jpg, from the House of the Faun, Pompeii]] Alexander_the_Great_mosaic.jpg (), ancient Roman floor mosaic from the House of the Faun in Pompeii showing Alexander fighting king Darius III of Persia in the Battle of Issus]]
+, from the House of the Faun, Pompeii]] (), ancient Roman floor mosaic from the House of the Faun in Pompeii showing Alexander fighting king Darius III of Persia in the Battle of Issus]]
 
 In spring 333 BC, Alexander crossed the Taurus into Cilicia. After a long pause due to an illness, he marched on towards Syria. Though outmanoeuvered by Darius' significantly larger army, he marched back to Cilicia, where he defeated Darius at Issus. Darius fled the battle, causing his army to collapse, and left behind his wife, his two daughters, his mother Sisygambis, and a fabulous treasure.[62] He offered a peace treaty that included the lands he had already lost, and a ransom of 10,000 talents for his family. Alexander replied that since he was now king of Asia, it was he alone who decided territorial divisions.[63] Alexander proceeded to take possession of Syria, and most of the coast of the Levant.[64] In the following year, 332 BC, he was forced to attack Tyre, which he captured after a long and difficult siege.[65][66] The men of military age were massacred and the women and children sold into slavery.[67]
 
 Egypt
 
-Name_of_Alexander_the_Great_in_Hieroglyphs_circa_330_BCE.jpg (written from right to left), , Egypt. Louvre Museum]]
+(written from right to left), , Egypt. Louvre Museum]]
 
 When Alexander destroyed Tyre, most of the towns on the route to Egypt quickly capitulated. However, Alexander met with resistance at Gaza. The stronghold was heavily fortified and built on a hill, requiring a siege. When "his engineers pointed out to him that because of the height of the mound it would be impossible... this encouraged Alexander all the more to make the attempt".[68] After three unsuccessful assaults, the stronghold fell, but not before Alexander had received a serious shoulder wound. As in Tyre, men of military age were put to the sword and the women and children were sold into slavery.[69]
 
@@ -120,7 +120,7 @@ Leaving Egypt in 331 BC, Alexander marched eastward into Mesopotamia (now north
 
 Persia
 
-2persian_gate_wall.JPG; the road was built in the 1990s.]]
+; the road was built in the 1990s.]]
 
 From Babylon, Alexander went to Susa, one of the Achaemenid capitals, and captured its treasury.[75] He sent the bulk of his army to the Persian ceremonial capital of Persepolis via the Persian Royal Road. Alexander himself took selected troops on the direct route to the city. He then stormed the pass of the Persian Gates (in the modern Zagros Mountains) which had been blocked by a Persian army under Ariobarzanes and then hurried to Persepolis before its garrison could loot the treasury.[76]
 
@@ -128,7 +128,7 @@ On entering Persepolis, Alexander allowed his troops to loot the city for severa
 
 Fall of the Empire and the East
 
-KINGS_of_MACEDON_Alexander_III_the_Great_336-323_BC.jpg or his successor Menes, both former _Somatophylakes_ (bodyguards) of Alexander, when they held the position of satrap of Cilicia in the lifetime of Alexander, circa 333-327 BC. The reverse shows a seated Zeus Aëtophoros.[84]]] Alexander then chased Darius, first into Media, and then Parthia. The Persian king no longer controlled his own destiny, and was taken prisoner by Bessus, his Bactrian satrap and kinsman. As Alexander approached, Bessus had his men fatally stab the Great King and then declared himself Darius' successor as Artaxerxes V, before retreating into Central Asia to launch a guerrilla campaign against Alexander. Alexander buried Darius' remains next to his Achaemenid predecessors in a regal funeral. He claimed that, while dying, Darius had named him as his successor to the Achaemenid throne. The Achaemenid Empire is normally considered to have fallen with Darius.[85]
+or his successor Menes, both former _Somatophylakes_ (bodyguards) of Alexander, when they held the position of satrap of Cilicia in the lifetime of Alexander, circa 333-327 BC. The reverse shows a seated Zeus Aëtophoros.[84]]] Alexander then chased Darius, first into Media, and then Parthia. The Persian king no longer controlled his own destiny, and was taken prisoner by Bessus, his Bactrian satrap and kinsman. As Alexander approached, Bessus had his men fatally stab the Great King and then declared himself Darius' successor as Artaxerxes V, before retreating into Central Asia to launch a guerrilla campaign against Alexander. Alexander buried Darius' remains next to his Achaemenid predecessors in a regal funeral. He claimed that, while dying, Darius had named him as his successor to the Achaemenid throne. The Achaemenid Empire is normally considered to have fallen with Darius.[85]
 
 Alexander viewed Bessus as a usurper and set out to defeat him. This campaign, initially against Bessus, turned into a grand tour of central Asia. Alexander founded a series of new cities, all called Alexandria, including modern Kandahar in Afghanistan, and Alexandria Eschate ("The Furthest") in modern Tajikistan. The campaign took Alexander through Media, Parthia, Aria (West Afghanistan), Drangiana, Arachosia (South and Central Afghanistan), Bactria (North and Central Afghanistan), and Scythia.
 
@@ -136,7 +136,7 @@ Spitamenes, who held an undefined position in the satrapy of Sogdiana, in 329 BC
 
 Problems and plots
 
-The_killing_of_Cleitus_by_Andre_Castaigne_(1898-1899)_reduced.jpg'', by André Castaigne (1898–1899)]]
+'', by André Castaigne (1898–1899)]]
 
 During this time, Alexander adopted some elements of Persian dress and customs at his court, notably the custom of _proskynesis_, either a symbolic kissing of the hand, or prostration on the ground, that Persians showed to their social superiors.[86] The Greeks regarded the gesture as the province of deities and believed that Alexander meant to deify himself by requiring it. This cost him the sympathies of many of his countrymen, and he eventually abandoned it.
 
@@ -155,9 +155,7 @@ Indian campaign
 
 Forays into the Indian subcontinent
 
-The_phalanx_attacking_the_centre_in_the_battle_of_the_Hydaspes_by_Andre_Castaigne_(1898-1899).jpg Attacking the Centre in the Battle of the Hydaspes'' by André Castaigne (1898–1899).]]
-
-AlexanderConquestsInIndia.jpg
+ Attacking the Centre in the Battle of the Hydaspes'' by André Castaigne (1898–1899).]]
 
 After the death of Spitamenes and his marriage to Roxana (Raoxshna in Old Iranian) to cement relations with his new satrapies, Alexander turned to the Indian subcontinent. He invited the chieftains of the former satrapy of Gandhara (a region presently straddling eastern Afghanistan and northern Pakistan), to come to him and submit to his authority. Omphis (Indian name Ambhi), the ruler of Taxila, whose kingdom extended from the Indus to the Hydaspes (Jhelum), complied, but the chieftains of some hill clans, including the Aspasioi and Assakenoi sections of the Kambojas (known in Indian texts also as Ashvayanas and Ashvakayanas), refused to submit. Ambhi hastened to relieve Alexander of his apprehension and met him with valuable presents, placing himself and all his forces at his disposal. Alexander not only returned Ambhi his title and the gifts but he also presented him with a wardrobe of "Persian robes, gold and silver ornaments, 30 horses and 1,000 talents in gold". Alexander was emboldened to divide his forces, and Ambhi assisted Hephaestion and Perdiccas in constructing a bridge over the Indus where it bends at Hund (Fox 1973), supplied their troops with provisions, and received Alexander himself, and his whole army, in his capital city of Taxila, with every demonstration of friendship and the most liberal hospitality.
 
@@ -171,7 +169,7 @@ After Aornos, Alexander crossed the Indus and fought and won an epic battle agai
 
 Revolt of the army
 
-Asia_323bc.jpg and the Gangaridai of the Indian subcontinent, in relation to Alexander's Empire and neighbours.]]
+and the Gangaridai of the Indian subcontinent, in relation to Alexander's Empire and neighbours.]]
 
 East of Porus' kingdom, near the Ganges River, was the Nanda Empire of Magadha, and further east, the Gangaridai Empire of Bengal region of the Indian subcontinent. Fearing the prospect of facing other large armies and exhausted by years of campaigning, Alexander's army mutinied at the Hyphasis River (Beas), refusing to march farther east. This river thus marks the easternmost extent of Alexander's conquests.
 
@@ -182,16 +180,16 @@ Alexander sent much of his army to Carmania (modern southern Iran) with general 
 
 Last years in Persia
 
-Alexander_and_Hephaestion.jpg, right]] Discovering that many of his satraps and military governors had misbehaved in his absence, Alexander executed several of them as examples on his way to Susa.[103][104] As a gesture of thanks, he paid off the debts of his soldiers, and announced that he would send over-aged and disabled veterans back to Macedon, led by Craterus. His troops misunderstood his intention and mutinied at the town of Opis. They refused to be sent away and criticized his adoption of Persian customs and dress and the introduction of Persian officers and soldiers into Macedonian units.[105]
+, right]] Discovering that many of his satraps and military governors had misbehaved in his absence, Alexander executed several of them as examples on his way to Susa.[103][104] As a gesture of thanks, he paid off the debts of his soldiers, and announced that he would send over-aged and disabled veterans back to Macedon, led by Craterus. His troops misunderstood his intention and mutinied at the town of Opis. They refused to be sent away and criticized his adoption of Persian customs and dress and the introduction of Persian officers and soldiers into Macedonian units.[105]
 
-Valenciennes,_Pierre-Henri_de_-_Alexander_at_the_Tomb_of_Cyrus_the_Great_-_1796.jpg'', by Pierre-Henri de Valenciennes (1796)]] After three days, unable to persuade his men to back down, Alexander gave Persians command posts in the army and conferred Macedonian military titles upon Persian units. The Macedonians quickly begged forgiveness, which Alexander accepted, and held a great banquet for several thousand of his men at which he and they ate together.[106] In an attempt to craft a lasting harmony between his Macedonian and Persian subjects, Alexander held a mass marriage of his senior officers to Persian and other noblewomen at Susa, but few of those marriages seem to have lasted much beyond a year.[107] Meanwhile, upon his return to Persia, Alexander learned that guards of the tomb of Cyrus the Great in Pasargadae had desecrated it, and swiftly executed them.[108] Alexander admired Cyrus the Great, from an early age reading Xenophon's _Cyropaedia_, which described Cyrus's heroism in battle and governance as a king and legislator.[109] During his visit to Pasargadae Alexander ordered his architect Aristobulus to decorate the interior of the sepulchral chamber of Cyrus' tomb.[110]
+'', by Pierre-Henri de Valenciennes (1796)]] After three days, unable to persuade his men to back down, Alexander gave Persians command posts in the army and conferred Macedonian military titles upon Persian units. The Macedonians quickly begged forgiveness, which Alexander accepted, and held a great banquet for several thousand of his men at which he and they ate together.[106] In an attempt to craft a lasting harmony between his Macedonian and Persian subjects, Alexander held a mass marriage of his senior officers to Persian and other noblewomen at Susa, but few of those marriages seem to have lasted much beyond a year.[107] Meanwhile, upon his return to Persia, Alexander learned that guards of the tomb of Cyrus the Great in Pasargadae had desecrated it, and swiftly executed them.[108] Alexander admired Cyrus the Great, from an early age reading Xenophon's _Cyropaedia_, which described Cyrus's heroism in battle and governance as a king and legislator.[109] During his visit to Pasargadae Alexander ordered his architect Aristobulus to decorate the interior of the sepulchral chamber of Cyrus' tomb.[110]
 
 Afterwards, Alexander travelled to Ecbatana to retrieve the bulk of the Persian treasure. There, his closest friend and possible lover, Hephaestion, died of illness or poisoning.[111][112] Hephaestion's death devastated Alexander, and he ordered the preparation of an expensive funeral pyre in Babylon, as well as a decree for public mourning.[113] Back in Babylon, Alexander planned a series of new campaigns, beginning with an invasion of Arabia, but he would not have a chance to realize them, as he died shortly after Hephaestion.[114]
 
 
 Death and succession
 
-Babylonian_astronomical_diary_recording_the_death_of_Alexander_the_Great_(British_Museum).jpg (c. 323–322 BC) recording the death of Alexander (British Museum, London)]] On either 10 or 11 June 323 BC, Alexander died in the palace of Nebuchadnezzar II, in Babylon, at age 32.[115] There are two different versions of Alexander's death and details of the death differ slightly in each. Plutarch's account is that roughly 14 days before his death, Alexander entertained admiral Nearchus, and spent the night and next day drinking with Medius of Larissa.[116] He developed a fever, which worsened until he was unable to speak. The common soldiers, anxious about his health, were granted the right to file past him as he silently waved at them. In the second account, Diodorus recounts that Alexander was struck with pain after downing a large bowl of unmixed wine in honour of Heracles, followed by 11 days of weakness; he did not develop a fever and died after some agony.[117] Arrian also mentioned this as an alternative, but Plutarch specifically denied this claim.[118]
+(c. 323–322 BC) recording the death of Alexander (British Museum, London)]] On either 10 or 11 June 323 BC, Alexander died in the palace of Nebuchadnezzar II, in Babylon, at age 32.[115] There are two different versions of Alexander's death and details of the death differ slightly in each. Plutarch's account is that roughly 14 days before his death, Alexander entertained admiral Nearchus, and spent the night and next day drinking with Medius of Larissa.[116] He developed a fever, which worsened until he was unable to speak. The common soldiers, anxious about his health, were granted the right to file past him as he silently waved at them. In the second account, Diodorus recounts that Alexander was struck with pain after downing a large bowl of unmixed wine in honour of Heracles, followed by 11 days of weakness; he did not develop a fever and died after some agony.[117] Arrian also mentioned this as an alternative, but Plutarch specifically denied this claim.[118]
 
 Given the propensity of the Macedonian aristocracy to assassination, foul play featured in multiple accounts of his death. Diodorus, Plutarch, Arrian and Justin all mentioned the theory that Alexander was poisoned. Justin stated that Alexander was the victim of a poisoning conspiracy, Plutarch dismissed it as a fabrication,[119] while both Diodorus and Arrian noted that they mentioned it only for the sake of completeness.[120][121] The accounts were nevertheless fairly consistent in designating Antipater, recently removed as Macedonian viceroy, and at odds with Olympias, as the head of the alleged plot. Perhaps taking his summons to Babylon as a death sentence, and having seen the fate of Parmenion and Philotas,[122] Antipater purportedly arranged for Alexander to be poisoned by his son Iollas, who was Alexander's wine-pourer.[123][124] There was even a suggestion that Aristotle may have participated.[125]
 
@@ -203,15 +201,15 @@ After death
 
 Alexander's body was laid in a gold anthropoid sarcophagus that was filled with honey, which was in turn placed in a gold casket.[137][138] According to Aelian, a seer called Aristander foretold that the land where Alexander was laid to rest "would be happy and unvanquishable forever".[139] Perhaps more likely, the successors may have seen possession of the body as a symbol of legitimacy, since burying the prior king was a royal prerogative.
 
-Mid-nineteenth_century_reconstruction_of_Alexander's_catafalque_based_on_the_description_by_Diodorus.jpg While Alexander's funeral cortege was on its way to Macedon, Ptolemy seized it and took it temporarily to Memphis.[140][141] His successor, Ptolemy II Philadelphus, transferred the sarcophagus to Alexandria, where it remained until at least late Antiquity. Ptolemy IX Lathyros, one of Ptolemy's final successors, replaced Alexander's sarcophagus with a glass one so he could convert the original to coinage.[142] The recent discovery of an enormous tomb in northern Greece, at Amphipolis, dating from the time of Alexander the Great[143] has given rise to speculation that its original intent was to be the burial place of Alexander. This would fit with the intended destination of Alexander's funeral cortege.
+While Alexander's funeral cortege was on its way to Macedon, Ptolemy seized it and took it temporarily to Memphis.[140][141] His successor, Ptolemy II Philadelphus, transferred the sarcophagus to Alexandria, where it remained until at least late Antiquity. Ptolemy IX Lathyros, one of Ptolemy's final successors, replaced Alexander's sarcophagus with a glass one so he could convert the original to coinage.[142] The recent discovery of an enormous tomb in northern Greece, at Amphipolis, dating from the time of Alexander the Great[143] has given rise to speculation that its original intent was to be the burial place of Alexander. This would fit with the intended destination of Alexander's funeral cortege.
 
-Alexander_Sarcophagus.jpg]] Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off. Caligula was said to have taken Alexander's breastplate from the tomb for his own use. Around AD 200, Emperor Septimius Severus closed Alexander's tomb to the public. His son and successor, Caracalla, a great admirer, visited the tomb during his own reign. After this, details on the fate of the tomb are hazy.[144]
+]] Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off. Caligula was said to have taken Alexander's breastplate from the tomb for his own use. Around AD 200, Emperor Septimius Severus closed Alexander's tomb to the public. His son and successor, Caracalla, a great admirer, visited the tomb during his own reign. After this, details on the fate of the tomb are hazy.[144]
 
 The so-called "Alexander Sarcophagus", discovered near Sidon and now in the Istanbul Archaeology Museum, is so named not because it was thought to have contained Alexander's remains, but because its bas-reliefs depict Alexander and his companions fighting the Persians and hunting. It was originally thought to have been the sarcophagus of Abdalonymus (died 311 BC), the king of Sidon appointed by Alexander immediately following the battle of Issus in 331.[145][146] However, more recently, it has been suggested that it may date from earlier than Abdalonymus' death.
 
 Division of the empire
 
-Diadochi_EN.png in 301 BC: the Ptolemaic Kingdom (dark blue), the Seleucid Empire (yellow), Kingdom of Pergamon (orange), and Kingdom of Macedon (green). Also shown are the Roman Republic (light blue), the Carthaginian Republic (purple), and the Kingdom of Epirus (red).]]
+in 301 BC: the Ptolemaic Kingdom (dark blue), the Seleucid Empire (yellow), Kingdom of Pergamon (orange), and Kingdom of Macedon (green). Also shown are the Roman Republic (light blue), the Carthaginian Republic (purple), and the Kingdom of Epirus (red).]]
 
 Alexander's death was so sudden that when reports of his death reached Greece, they were not immediately believed.[147] Alexander had no obvious or legitimate heir, his son Alexander IV by Roxane being born after Alexander's death. According to Diodorus, Alexander's companions asked him on his deathbed to whom he bequeathed his kingdom; his laconic reply was "tôi kratistôi"—"to the strongest".[148] Another theory is that his successors willfully or erroneously misheard "tôi Kraterôi"—"to Craterus", the general leading his Macedonian troops home and newly entrusted with the regency of Macedonia.[149]
 
@@ -223,7 +221,7 @@ Dissension and rivalry soon afflicted the Macedonians, however. The satrapies ha
 
 Will
 
-Agathokles_commemorative_coin_for_Alexander_the_Great.jpg (190–180 BC) for Alexander the Great]] Diodorus stated that Alexander had given detailed written instructions to Craterus some time before his death.[152] Craterus started to carry out Alexander's commands, but the successors chose not to further implement them, on the grounds they were impractical and extravagant.[153] Nevertheless, Perdiccas read Alexander's will to his troops.[154]
+(190–180 BC) for Alexander the Great]] Diodorus stated that Alexander had given detailed written instructions to Craterus some time before his death.[152] Craterus started to carry out Alexander's commands, but the successors chose not to further implement them, on the grounds they were impractical and extravagant.[153] Nevertheless, Perdiccas read Alexander's will to his troops.[154]
 
 Alexander's will called for military expansion into the southern and western Mediterranean, monumental constructions, and the intermixing of Eastern and Western populations. It included:
 
@@ -238,7 +236,7 @@ Character
 
 Generalship
 
-Battle_granicus.gif, 334 BC]] Battle_issus_decisive.gif, 333 BC]]
+, 334 BC]] , 333 BC]]
 
 Alexander earned the epithet "the Great" due to his unparalleled success as a military commander. He never lost a battle, despite typically being outnumbered. This was due to use of terrain, phalanx and cavalry tactics, bold strategy, and the fierce loyalty of his troops.[160] The Macedonian phalanx, armed with the sarissa, a spear long, had been developed and perfected by Philip II through rigorous training, and Alexander used its speed and maneuverability to great effect against larger but more disparate Persian forces. Alexander also recognized the potential for disunity among his diverse army, which employed various languages and weapons. He overcame this by being personally involved in battle, in the manner of a Macedonian king.[161]
 
@@ -262,11 +260,11 @@ Ancient authors recorded that Alexander was so pleased with portraits of himself
 
 Personality
 
-Lion_hunt_mosaic_from_Pella.jpg'' and fighting an Asiatic lion with his friend Craterus (detail); late 4th century BC mosaic,[165] Pella Museum]] Some of Alexander's strongest personality traits formed in response to his parents. His mother had huge ambitions, and encouraged him to believe it was his destiny to conquer the Persian Empire. Olympias' influence instilled a sense of destiny in him, and Plutarch tells how his ambition "kept his spirit serious and lofty in advance of his years".[166] However, his father Philip was Alexander's most immediate and influential role model, as the young Alexander watched him campaign practically every year, winning victory after victory while ignoring severe wounds. Alexander's relationship with his father forged the competitive side of his personality; he had a need to outdo his father, illustrated by his reckless behaviour in battle. While Alexander worried that his father would leave him "no great or brilliant achievement to be displayed to the world",[167] he also downplayed his father's achievements to his companions.
+'' and fighting an Asiatic lion with his friend Craterus (detail); late 4th century BC mosaic,[165] Pella Museum]] Some of Alexander's strongest personality traits formed in response to his parents. His mother had huge ambitions, and encouraged him to believe it was his destiny to conquer the Persian Empire. Olympias' influence instilled a sense of destiny in him, and Plutarch tells how his ambition "kept his spirit serious and lofty in advance of his years".[166] However, his father Philip was Alexander's most immediate and influential role model, as the young Alexander watched him campaign practically every year, winning victory after victory while ignoring severe wounds. Alexander's relationship with his father forged the competitive side of his personality; he had a need to outdo his father, illustrated by his reckless behaviour in battle. While Alexander worried that his father would leave him "no great or brilliant achievement to be displayed to the world",[167] he also downplayed his father's achievements to his companions.
 
 According to Plutarch, among Alexander's traits were a violent temper and rash, impulsive nature,[168] which undoubtedly contributed to some of his decisions. Although Alexander was stubborn and did not respond well to orders from his father, he was open to reasoned debate.[169] He had a calmer side—perceptive, logical, and calculating. He had a great desire for knowledge, a love for philosophy, and was an avid reader.[170] This was no doubt in part due to Aristotle's tutelage; Alexander was intelligent and quick to learn. His intelligent and rational side was amply demonstrated by his ability and success as a general.[171] He had great self-restraint in "pleasures of the body", in contrast with his lack of self-control with alcohol.[172]
 
-Aleksander-d-store.jpg of an original 3rd century BC Greek bust depicting Alexander the Great, Ny Carlsberg Glyptotek, Copenhagen]] Alexander was erudite and patronized both arts and sciences.[173][174] However, he had little interest in sports or the Olympic games (unlike his father), seeking only the Homeric ideals of honour (_timê_) and glory (_kudos_).[175] He had great charisma and force of personality, characteristics which made him a great leader.[176] His unique abilities were further demonstrated by the inability of any of his generals to unite Macedonia and retain the Empire after his death—only Alexander had the ability to do so.
+of an original 3rd century BC Greek bust depicting Alexander the Great, Ny Carlsberg Glyptotek, Copenhagen]] Alexander was erudite and patronized both arts and sciences.[173][174] However, he had little interest in sports or the Olympic games (unlike his father), seeking only the Homeric ideals of honour (_timê_) and glory (_kudos_).[175] He had great charisma and force of personality, characteristics which made him a great leader.[176] His unique abilities were further demonstrated by the inability of any of his generals to unite Macedonia and retain the Empire after his death—only Alexander had the ability to do so.
 
 During his final years, and especially after the death of Hephaestion, Alexander began to exhibit signs of megalomania and paranoia. His extraordinary achievements, coupled with his own ineffable sense of destiny and the flattery of his companions, may have combined to produce this effect. His delusions of grandeur are readily visible in his will and in his desire to conquer the world, in as much as he is by various sources described as having _boundless ambition_,[177][178] an epithet, the meaning of which has descended into an historical cliché.[179][180]
 
@@ -274,7 +272,7 @@ He appears to have believed himself a deity, or at least sought to deify himself
 
 Personal relationships
 
-Mosaica.jpg, depicting the marriage of Alexander to Barsine (Stateira) in 324 BC; the couple are apparently dressed as Ares and Aphrodite.]]
+, depicting the marriage of Alexander to Barsine (Stateira) in 324 BC; the couple are apparently dressed as Ares and Aphrodite.]]
 
 Alexander married three times: Roxana, daughter of the Sogdian nobleman Oxyartes of Bactria,[188][189][190] out of love; and the Persian princesses Stateira II and Parysatis II, the former a daughter of Darius III and latter a daughter of Artaxerxes III, for political reasons.[191] He apparently had two sons, Alexander IV of Macedon by Roxana and, possibly, Heracles of Macedon from his mistress Barsine. He lost another child when Roxana miscarried at Babylon.[192]
 
@@ -313,13 +311,11 @@ Battle record
 
 Legacy
 
-Mappa_di_Eratostene.jpg of Eratosthenes (276–194 BC), incorporating information from the campaigns of Alexander and his successors.[204]]]
+of Eratosthenes (276–194 BC), incorporating information from the campaigns of Alexander and his successors.[204]]]
 
 Alexander's legacy extended beyond his military conquests. His campaigns greatly increased contacts and trade between East and West, and vast areas to the east were significantly exposed to Greek civilization and influence. Some of the cities he founded became major cultural centers, many surviving into the 21st century. His chroniclers recorded valuable information about the areas through which he marched, while the Greeks themselves got a sense of belonging to a world beyond the Mediterranean.
 
 Hellenistic kingdoms
-
-Plan_of_Alexandria_c_30_BC_Otto_Puchstein_1890s_EN.svg
 
 Alexander's most immediate legacy was the introduction of Macedonian rule to huge new swathes of Asia. At the time of his death, Alexander's empire covered some ,[205] and was the largest state of its time. Many of these areas remained in Macedonian hands or under Greek influence for the next 200–300 years. The successor states that emerged were, at least initially, dominant forces, and these 300 years are often referred to as the Hellenistic period.
 
@@ -331,13 +327,11 @@ Over the course of his conquests, Alexander founded some twenty cities that bore
 
 Funding of temples
 
-Dedication_of_Alexander_the_Great_to_Athena_Polias_at_Priene.jpg at Priene, now housed in the British Museum[208]]]
+at Priene, now housed in the British Museum[208]]]
 
 In 334 BC, Alexander the Great donated funds for the completion of the new temple of Athena Polias in Priene.[209][210] An inscription from the temple, now housed in the British Museum, declares: "King Alexander dedicated [this temple] to Athena Polias."[211] This inscription is one of the few independent archaeological discoveries confirming an episode from Alexander's life.[212] The temple was designed by Pytheos, one of the architects of the Mausoleum at Halicarnassus.[213][214][215][216]
 
 Hellenization
-
-Alexander-Empire_323bc.jpg
 
 _Hellenization_ was coined by the German historian Johann Gustav Droysen to denote the spread of Greek language, culture, and population into the former Persian empire after Alexander's conquest. That this export took place is undoubted, and can be seen in the great Hellenistic cities of, for instance, Alexandria, Antioch and Seleucia (south of modern Baghdad).[217] Alexander sought to insert Greek elements into Persian culture and attempted to hybridize Greek and Persian culture. This culminated in his aspiration to homogenize the populations of Asia and Europe. However, his successors explicitly rejected such policies. Nevertheless, Hellenization occurred throughout the region, accompanied by a distinct and opposite 'Orientalization' of the successor states.
 
@@ -345,7 +339,7 @@ The core of the Hellenistic culture promulgated by the conquests was essentially
 
 Hellenization in Central Asia and India
 
-Gandhara_Sackler_03.jpg Gandhara_Buddha_(tnm).jpeg, in Greco-Buddhist style, 1st to 2nd century AD, Gandhara, northern Pakistan. Tokyo National Museum.]] Some of the most pronounced effects of Hellenization can be seen in Afghanistan and India, in the region of the relatively late-rising Greco-Bactrian Kingdom (250–125 BC) (in modern Afghanistan, Pakistan, and Tajikistan) and the Indo-Greek Kingdom (180 BC – 10 AD) in modern Afghanistan and India. On the Silk Road trade routes, Hellenistic culture hybridized with Iranian and Buddhist cultures. The cosmopolitan art and mythology of Gandhara (a region spanning the upper confluence of the Indus, Swat and Kabul rivers in modern Pakistan) of the ~3rd century BC to the ~5th century AD are most evident of the direct contact between Hellenistic civilization and South Asia, as are the Edicts of Ashoka, which directly mention the Greeks within Ashoka's dominion as converting to Buddhism and the reception of Buddhist emissaries by Ashoka's contemporaries in the Hellenistic world.[220] The resulting syncretism known as Greco-Buddhism influenced the development of Buddhism and created a culture of Greco-Buddhist art. These Greco-Buddhist kingdoms sent some of the first Buddhist missionaries to China, Sri Lanka and Hellenistic Asia and Europe (Greco-Buddhist monasticism).
+, in Greco-Buddhist style, 1st to 2nd century AD, Gandhara, northern Pakistan. Tokyo National Museum.]] Some of the most pronounced effects of Hellenization can be seen in Afghanistan and India, in the region of the relatively late-rising Greco-Bactrian Kingdom (250–125 BC) (in modern Afghanistan, Pakistan, and Tajikistan) and the Indo-Greek Kingdom (180 BC – 10 AD) in modern Afghanistan and India. On the Silk Road trade routes, Hellenistic culture hybridized with Iranian and Buddhist cultures. The cosmopolitan art and mythology of Gandhara (a region spanning the upper confluence of the Indus, Swat and Kabul rivers in modern Pakistan) of the ~3rd century BC to the ~5th century AD are most evident of the direct contact between Hellenistic civilization and South Asia, as are the Edicts of Ashoka, which directly mention the Greeks within Ashoka's dominion as converting to Buddhism and the reception of Buddhist emissaries by Ashoka's contemporaries in the Hellenistic world.[220] The resulting syncretism known as Greco-Buddhism influenced the development of Buddhism and created a culture of Greco-Buddhist art. These Greco-Buddhist kingdoms sent some of the first Buddhist missionaries to China, Sri Lanka and Hellenistic Asia and Europe (Greco-Buddhist monasticism).
 
 Some of the first and most influential figurative portrayals of the Buddha appeared at this time, perhaps modeled on Greek statues of Apollo in the Greco-Buddhist style. Several Buddhist traditions may have been influenced by the ancient Greek religion: the concept of Boddhisatvas is reminiscent of Greek divine heroes,[221] and some Mahayana ceremonial practices (burning incense, gifts of flowers, and food placed on altars) are similar to those practiced by the ancient Greeks; however, similar practices were also observed amongst the native Indic culture. One Greek king, Menander I, probably became Buddhist, and was immortalized in Buddhist literature as 'Milinda'. The process of Hellenization also spurred trade between the east and west.[222] For example, Greek astronomical instruments dating to the 3rd century BC were found in the Greco-Bactrian city of Ai Khanoum in modern-day Afghanistan,[223] while the Greek concept of a spherical earth surrounded by the spheres of planets eventually supplanted the long-standing Indian cosmological belief of a disc consisting of four continents grouped around a central mountain (Mount Meru) like the petals of a flower.[224][225][226] The Yavanajataka (lit. Greek astronomical treatise) and Paulisa Siddhanta texts depict the influence of Greek astronomical ideas on Indian astronomy.
 
@@ -353,9 +347,9 @@ Following the conquests of Alexander the Great in the east, Hellenistic influenc
 
 Influence on Rome
 
-Roman_-_Medallion_with_Alexander_the_Great_-_Walters_591_-_Obverse.jpg, demonstrating the influence of Alexander's memory. Walters Art Museum, Baltimore.]] Alexander and his exploits were admired by many Romans, especially generals, who wanted to associate themselves with his achievements.[228] Polybius began his _Histories_ by reminding Romans of Alexander's achievements, and thereafter Roman leaders saw him as a role model. Pompey the Great adopted the epithet "Magnus" and even Alexander's anastole-type haircut, and searched the conquered lands of the east for Alexander's 260-year-old cloak, which he then wore as a sign of greatness.[229] Julius Caesar dedicated a Lysippean equestrian bronze statue but replaced Alexander's head with his own, while Octavian visited Alexander's tomb in Alexandria and temporarily changed his seal from a sphinx to Alexander's profile.[230] The emperor Trajan also admired Alexander, as did Nero and Caracalla.[231] The Macriani, a Roman family that in the person of Macrinus briefly ascended to the imperial throne, kept images of Alexander on their persons, either on jewelry, or embroidered into their clothes.
+, demonstrating the influence of Alexander's memory. Walters Art Museum, Baltimore.]] Alexander and his exploits were admired by many Romans, especially generals, who wanted to associate themselves with his achievements.[228] Polybius began his _Histories_ by reminding Romans of Alexander's achievements, and thereafter Roman leaders saw him as a role model. Pompey the Great adopted the epithet "Magnus" and even Alexander's anastole-type haircut, and searched the conquered lands of the east for Alexander's 260-year-old cloak, which he then wore as a sign of greatness.[229] Julius Caesar dedicated a Lysippean equestrian bronze statue but replaced Alexander's head with his own, while Octavian visited Alexander's tomb in Alexandria and temporarily changed his seal from a sphinx to Alexander's profile.[230] The emperor Trajan also admired Alexander, as did Nero and Caracalla.[231] The Macriani, a Roman family that in the person of Macrinus briefly ascended to the imperial throne, kept images of Alexander on their persons, either on jewelry, or embroidered into their clothes.
 
-Demetrius_I_of_Bactria.jpg king Demetrius (reigned ), wearing an elephant scalp, took over Alexander's legacy in the east by again invading India, and establishing the Indo-Greek kingdom (180 BC–10 AD).]] The_coronation_of_Alexander.jpg'']]
+king Demetrius (reigned ), wearing an elephant scalp, took over Alexander's legacy in the east by again invading India, and establishing the Indo-Greek kingdom (180 BC–10 AD).]] '']]
 
 On the other hand, some Roman writers, particularly Republican figures, used Alexander as a cautionary tale of how autocratic tendencies can be kept in check by republican values.[232] Alexander was used by these writers as an example of ruler values such as (friendship) and (clemency), but also (anger) and (over-desire for glory).[233]
 
@@ -371,7 +365,7 @@ In the first centuries after Alexander's death, probably in Alexandria, a quanti
 
 In ancient and modern culture
 
-Byzantine_Greek_Alexander_Manuscript_Cataphract_(cropped).JPG Alexander_romance._Armenian_illuminated_manuscript_of_XIV_century_(Venice,_San_Lazzaro,_424)_(1).jpg Submerge2.JPG depicting Alexander the Great being lowered in a glass submersible.]]
+depicting Alexander the Great being lowered in a glass submersible.]]
 
 Alexander the Great's accomplishments and legacy have been depicted in many cultures. Alexander has figured in both high and popular culture beginning in his own era to the present day. The _Alexander Romance_, in particular, has had a significant impact on portrayals of Alexander in later cultures, from Persian to medieval European to modern Greek.
 

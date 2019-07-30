@@ -1,4 +1,4 @@
-Warsaw_Swieto_Niepodleglosci_(2007)2.jpg in the Polish Army.]] Edouard_Detaille_-_Vive_L'Empereur_-_Google_Art_Project.jpg at the Battle of Friedland, 1807]] CAVALRY (from the French _cavalerie_, cf. _cheval_ 'horse') or HORSEMEN are soldiers or warriors who fight mounted on horseback. Cavalry were historically the most mobile of the combat arms. An individual soldier in the cavalry is known by a number of designations such as CAVALRYMAN, HORSEMAN, DRAGOON, or TROOPER. The designation of cavalry was not usually given to any military forces that used other animals, such as camels, mules or elephants. Infantry who moved on horseback, but dismounted to fight on foot, were known in the 17th and early 18th centuries as dragoons, a class of mounted infantry which later evolved into cavalry proper while retaining their historic title.
+in the Polish Army.]] at the Battle of Friedland, 1807]] CAVALRY (from the French _cavalerie_, cf. _cheval_ 'horse') or HORSEMEN are soldiers or warriors who fight mounted on horseback. Cavalry were historically the most mobile of the combat arms. An individual soldier in the cavalry is known by a number of designations such as CAVALRYMAN, HORSEMAN, DRAGOON, or TROOPER. The designation of cavalry was not usually given to any military forces that used other animals, such as camels, mules or elephants. Infantry who moved on horseback, but dismounted to fight on foot, were known in the 17th and early 18th centuries as dragoons, a class of mounted infantry which later evolved into cavalry proper while retaining their historic title.
 
 Cavalry had the advantage of improved mobility, and a man fighting from horseback also had the advantages of greater height, speed, and inertial mass over an opponent on foot. Another element of horse mounted warfare is the psychological impact a mounted soldier can inflict on an opponent.
 
@@ -9,7 +9,7 @@ In the period between the World Wars, many cavalry units were converted into mot
 
 Role of cavalry
 
-Rytter_fra_Bagirmi.jpg in full padded armour suit]]
+in full padded armour suit]]
 
 In many modern armies, the term _cavalry_ is still often used to refer to units that are a combat arm of the armed forces which in the past filled the traditional horse-borne land combat light cavalry roles. These include scouting, skirmishing with enemy reconnaissance elements to deny them knowledge of own disposition of troops, forward security, offensive reconnaissance by combat, defensive screening of friendly forces during retrograde movement, retreat, restoration of command and control, deception, battle handover and passage of lines, relief in place, linkup, breakout operations, and raiding. The shock role, traditionally filled by heavy cavalry, is generally filled by units with the "armored" designation.
 
@@ -18,9 +18,9 @@ History
 
 Origins
 
-Assyriancavalry.JPG]] Before the Iron Age, the role of cavalry on the battlefield was largely performed by light chariots. The chariot originated with the Sintashta-Petrovka culture in Central Asia and spread by nomadic or semi-nomadic Indo-Iranians.[1] The chariot was quickly adopted by settled peoples both as a military technology and an object of ceremonial status, especially by the pharaohs of the New Kingdom of Egypt from 1550 BC as well as the Assyrian army and Babylonian royalty.[2]
+]] Before the Iron Age, the role of cavalry on the battlefield was largely performed by light chariots. The chariot originated with the Sintashta-Petrovka culture in Central Asia and spread by nomadic or semi-nomadic Indo-Iranians.[1] The chariot was quickly adopted by settled peoples both as a military technology and an object of ceremonial status, especially by the pharaohs of the New Kingdom of Egypt from 1550 BC as well as the Assyrian army and Babylonian royalty.[2]
 
-The power of mobility given by mounted units was recognized early on, but was offset by the difficulty of raising large forces and by the inability of horses (then mostly small) to carry heavy armor. Cavalry techniques were an innovation of equestrian nomads of the Central Asian and Iranian steppe and pastoralist tribes such as the Iranic Parthians and Sarmatians. ParthianHorseman.jpg.]]
+The power of mobility given by mounted units was recognized early on, but was offset by the difficulty of raising large forces and by the inability of horses (then mostly small) to carry heavy armor. Cavalry techniques were an innovation of equestrian nomads of the Central Asian and Iranian steppe and pastoralist tribes such as the Iranic Parthians and Sarmatians. .]]
 
 The photograph above left shows Assyrian cavalry from reliefs of 865–860 BC. At this time, the men had no spurs, saddles, saddle cloths, or stirrups. Fighting from the back of a horse was much more difficult than mere riding. The cavalry acted in pairs; the reins of the mounted archer were controlled by his neighbour's hand. Even at this early time, cavalry used swords, shields, and bows. The sculpture implies two types of cavalry, but this might be a simplification by the artist. Later images of Assyrian cavalry show saddle cloths as primitive saddles, allowing each archer to control his own horse.[3]
 
@@ -30,7 +30,7 @@ Outside of mainland Europe, the southern Britons met Julius Caesar with chariots
 
 Ancient Greece: city-states, Thebes, Thessaly and Macedonia
 
-Amphora_Louvre_F12.jpg amphora dated 550–540 BC.]]
+amphora dated 550–540 BC.]]
 
 During the classical Greek period cavalry were usually limited to those citizens who could afford expensive war-horses. Three types of cavalry became common: light cavalry, whose riders, armed with javelins, could harass and skirmish; heavy cavalry, whose troopers, using lances, had the ability to close in on their opponents; and finally those whose equipment allowed them to fight either on horseback or foot. The role of horsemen did however remain secondary to that of the hoplites or heavy infantry who comprised the main strength of the citizen levies of the various city states.[6]
 
@@ -40,7 +40,7 @@ The Macedonian Kingdom in the north, on the other hand, developed a strong caval
 
 Roman Republic and Early Empire
 
-Köln_Reitergrabmal.jpgry trooper from Cologne, Germany. Second half of the first century AD]] The cavalry in the early Roman Republic remained the preserve of the wealthy landed class known as the _equites_—men who could afford the expense of maintaining a horse in addition to arms and armor heavier than those of the common legions. Horses were provided by the Republic and could be withdrawn if neglected or misused, together with the status of being a cavalryman.[12]
+ry trooper from Cologne, Germany. Second half of the first century AD]] The cavalry in the early Roman Republic remained the preserve of the wealthy landed class known as the _equites_—men who could afford the expense of maintaining a horse in addition to arms and armor heavier than those of the common legions. Horses were provided by the Republic and could be withdrawn if neglected or misused, together with the status of being a cavalryman.[12]
 
 As the class grew to be more of a social elite instead of a functional property-based military grouping, the Romans began to employ Italian socii for filling the ranks of their cavalry. The weakness of Roman cavalry was demonstrated by Hannibal Barca during the Second Punic War where he used his superior mounted forces to win several battles. The most notable of these was the Battle of Cannae, where he inflicted a catastrophic defeat on the Romans. At about the same time the Romans began to recruit foreign auxiliary cavalry from among Gauls, Iberians, and Numidians, the last being highly valued as mounted skirmishers and scouts (see Numidian cavalry). Julius Caesar had a high opinion of his escort of Germanic mixed cavalry, giving rise to the _Cohortes Equitatae_. Early emperors maintained an ala of Batavian cavalry as their personal bodyguards until the unit was dismissed by Galba after the Batavian Rebellion.
 
@@ -48,7 +48,7 @@ For the most part, Roman cavalry during the early Republic functioned as an adju
 
 After defeats such as the Battle of Carrhae, the Romans learned the importance of large cavalry formations from the Parthians.[14] At the same time heavy spears and shields modelled on those favoured by the horsemen of the Greek city-states were adopted to replace the lighter weaponry of early Rome.[15] These improvements in tactics and equipment reflected those of a thousand years earlier when the first Iranians to reach the Iranian Plateau forced the Assyrians to undertake similar reform. Nonetheless, the Romans would continue to rely mainly on their heavy infantry supported by auxiliary cavalry.
 
-Roman_Cavalry_1.jpg cavalryman.]]
+cavalryman.]]
 
 Late Roman Empire and the Migration Period
 
@@ -64,7 +64,7 @@ Asia
 
 Central Asia
 
-MongolCavalry_crop.jpg Xiongnu, Tujue, Avars, Kipchaks, Mongols, Don Cossacks and the various Turkic peoples are also examples of the horse-mounted groups that managed to gain substantial successes in military conflicts with settled agrarian and urban societies, due to their strategic and tactical mobility. As European states began to assume the character of bureaucratic nation-states supporting professional standing armies, recruitment of these mounted warriors was undertaken in order to fill the strategic roles of scouts and raiders. DiezAlbumsArmedRiders_II.jpg
+Xiongnu, Tujue, Avars, Kipchaks, Mongols, Don Cossacks and the various Turkic peoples are also examples of the horse-mounted groups that managed to gain substantial successes in military conflicts with settled agrarian and urban societies, due to their strategic and tactical mobility. As European states began to assume the character of bureaucratic nation-states supporting professional standing armies, recruitment of these mounted warriors was undertaken in order to fill the strategic roles of scouts and raiders.
 
 The best known instance of the continued employment of mounted tribal auxiliaries were the Cossack cavalry regiments of the Russian Empire. In eastern Europe, Russia, and out onto the steppes, cavalry remained important much longer and dominated the scene of warfare until the early 17th century and even beyond, as the strategic mobility of cavalry was crucial for the semi-nomadic pastoralist lives that many steppe cultures led. Tibetans also had a tradition of cavalry warfare, in several military engagements with the Chinese Tang dynasty (618–907 AD).
 
@@ -78,15 +78,15 @@ Further east, the military history of China, specifically northern China, held a
 
 In 307 BC, King Wuling of Zhao, the ancient Chinese ruler of the former State of Jin territory, ordered his military commanders and troops to adopt the trousers of the nomads as well as practice the nomads' form of mounted archery to hone their new cavalry skills.[19]
 
-Emperor_Taizongs_horses_by_Yan_Liben.jpg of a soldier and horse with saddle and stirrups, from the tomb of Chinese Emperor Taizong of Tang (r 626–649), c 650]] The adoption of massed cavalry in China also broke the tradition of the chariot-riding Chinese aristocracy in battle, which had been in use since the ancient Shang Dynasty (c 1600–1050 BC).[20] By this time large Chinese infantry-based armies of 100,000 to 200,000 troops were now buttressed with several hundred thousand mounted cavalry in support or as an effective striking force.[21] The handheld pistol-and-trigger crossbow was invented in China in the fourth century BC;[22] it was written by the Song dynasty scholars Zeng Gongliang, Ding Du, and Yang Weide in their book _Wujing Zongyao_ (1044 AD) that massed missile fire by crossbowmen was the most effective defense against enemy cavalry charges.[23]
+of a soldier and horse with saddle and stirrups, from the tomb of Chinese Emperor Taizong of Tang (r 626–649), c 650]] The adoption of massed cavalry in China also broke the tradition of the chariot-riding Chinese aristocracy in battle, which had been in use since the ancient Shang Dynasty (c 1600–1050 BC).[20] By this time large Chinese infantry-based armies of 100,000 to 200,000 troops were now buttressed with several hundred thousand mounted cavalry in support or as an effective striking force.[21] The handheld pistol-and-trigger crossbow was invented in China in the fourth century BC;[22] it was written by the Song dynasty scholars Zeng Gongliang, Ding Du, and Yang Weide in their book _Wujing Zongyao_ (1044 AD) that massed missile fire by crossbowmen was the most effective defense against enemy cavalry charges.[23]
 
-The_Qianlong_Emperor_in_Ceremonial_Armour_on_Horseback.jpg in ceremonial armor on horseback, painted by Giuseppe Castiglione, dated 1739 or 1758]] On many occasions the Chinese studied nomadic cavalry tactics and applied the lessons in creating their own potent cavalry forces, while in others they simply recruited the tribal horsemen wholesale into their armies; and in yet other cases nomadic empires proved eager to enlist Chinese infantry and engineering, as in the case of the Mongol Empire and its sinicized part, the Yuan Dynasty (1279–1368). The Chinese recognized early on during the Han Dynasty (202 BC – 220 AD) that they were at a disadvantage in lacking the number of horses the northern nomadic peoples mustered in their armies. Emperor Wu of Han (r 141–87 BC) went to war with the Dayuan for this reason, since the Dayuan were hoarding a massive amount of tall, strong, Central Asian bred horses in the Hellenized–Greek region of Fergana (established slightly earlier by Alexander the Great). Although experiencing some defeats early on in the campaign, Emperor Wu's war from 104 BC to 102 BC succeeded in gathering the prized tribute of horses from Fergana.
+in ceremonial armor on horseback, painted by Giuseppe Castiglione, dated 1739 or 1758]] On many occasions the Chinese studied nomadic cavalry tactics and applied the lessons in creating their own potent cavalry forces, while in others they simply recruited the tribal horsemen wholesale into their armies; and in yet other cases nomadic empires proved eager to enlist Chinese infantry and engineering, as in the case of the Mongol Empire and its sinicized part, the Yuan Dynasty (1279–1368). The Chinese recognized early on during the Han Dynasty (202 BC – 220 AD) that they were at a disadvantage in lacking the number of horses the northern nomadic peoples mustered in their armies. Emperor Wu of Han (r 141–87 BC) went to war with the Dayuan for this reason, since the Dayuan were hoarding a massive amount of tall, strong, Central Asian bred horses in the Hellenized–Greek region of Fergana (established slightly earlier by Alexander the Great). Although experiencing some defeats early on in the campaign, Emperor Wu's war from 104 BC to 102 BC succeeded in gathering the prized tribute of horses from Fergana.
 
 Cavalry tactics in China were enhanced by the invention of the saddle-attached stirrup by at least the 4th century, as the oldest reliable depiction of a rider with paired stirrups was found in a Jin Dynasty tomb of the year 322 AD.[24][25][26] The Chinese invention of the horse collar by the 5th century was also a great improvement from the breast harness, allowing the horse to haul greater weight without heavy burden on its skeletal structure.[27][28]
 
-Sakaotosi.jpg, Japanese cavalry moving down a mountain-side]]
+, Japanese cavalry moving down a mountain-side]]
 
-The horse warfare of Korea was first started during the ancient Korean kingdom Gojoseon. Since at least the 3rd century BC, there was influence of northern nomadic peoples and Yemaek peoples on Korean warfare. By roughly the first century BC, the ancient kingdom of Buyeo also had mounted warriors.[29] The cavalry of Goguryeo, one of the Three Kingdoms of Korea, were called _Gaemamusa_ (개마무사, 鎧馬武士), and were renowned as a fearsome heavy cavalry force. King Gwanggaeto the Great often led expeditions into the Baekje, Gaya confederacy, Buyeo, Later Yan and against Japanese invaders with his cavalry.[30] In the 12th century, Jurchen tribes began to violate the Goryeo–Jurchen borders, and eventually invaded Goryeo Korea. After experiencing the invasion by the Jurchen, Korean general Yun Gwan realized that Goryeo lacked efficient cavalry units. He reorganized the Goryeo military into a professional army that would contain decent and well-trained cavalry units. In 1107, the Jurchen were ultimately defeated, and surrendered to Yun Gwan. To mark the victory, General Yun built nine fortresses to the northeast of the Goryeo–Jurchen borders (동북 9성, 東北 九城).Samurai_on_horseback.png with bow and arrows, wearing a horned helmet. Circa 1878.]]
+The horse warfare of Korea was first started during the ancient Korean kingdom Gojoseon. Since at least the 3rd century BC, there was influence of northern nomadic peoples and Yemaek peoples on Korean warfare. By roughly the first century BC, the ancient kingdom of Buyeo also had mounted warriors.[29] The cavalry of Goguryeo, one of the Three Kingdoms of Korea, were called _Gaemamusa_ (개마무사, 鎧馬武士), and were renowned as a fearsome heavy cavalry force. King Gwanggaeto the Great often led expeditions into the Baekje, Gaya confederacy, Buyeo, Later Yan and against Japanese invaders with his cavalry.[30] In the 12th century, Jurchen tribes began to violate the Goryeo–Jurchen borders, and eventually invaded Goryeo Korea. After experiencing the invasion by the Jurchen, Korean general Yun Gwan realized that Goryeo lacked efficient cavalry units. He reorganized the Goryeo military into a professional army that would contain decent and well-trained cavalry units. In 1107, the Jurchen were ultimately defeated, and surrendered to Yun Gwan. To mark the victory, General Yun built nine fortresses to the northeast of the Goryeo–Jurchen borders (동북 9성, 東北 九城). with bow and arrows, wearing a horned helmet. Circa 1878.]]
 
 The ancient Japanese of the Kofun period also adopted cavalry and equine culture by the 5th century AD. The emergence of the samurai aristocracy led to the development of armoured horse archers, themselves to develop into charging lancer cavalry as gunpowder weapons rendered bows obsolete.
 
@@ -102,11 +102,9 @@ In the Indian subcontinent, cavalry played a major role from the Gupta Dynasty (
 
 Indian literature contains numerous references to the cavalry forces of the Central Asian horse nomads like the Sakas, Kambojas, Yavanas, Pahlavas and Paradas. Numerous Puranic texts refer to a conflict in ancient India (16th century BC)[32] in which the cavalry forces of five nations, called five hordes (_pañca.ganan_) or Kṣatriya hordes (_Kṣatriya ganah_), attacked and captured the throne of Ayudhya by dethroning its Vedic King Bahu[33]
 
-Kurukshetra.jpg
-
 The Mahabharata, Ramayana, numerous Puranas and some foreign sources numerously attest that Kamboja cavalry was frequently requisitioned in ancient wars. V. R. Ramachandra Dikshitar writes: "Both the Puranas and the epics agree that the horses of the Sindhu and Kamboja regions were of the finest breed, and that the services of the Kambojas as cavalry troopers were requisitioned in ancient wars".[34] J.A.O.S. writes: "Most famous horses are said to come either from Sindhu or Kamboja; of the latter (i.e. the Kamboja), the Indian epic Mahabharata speaks among the finest horsemen".[35]
 
-ChandraguptaIIOnHorse.jpg or Vikramaditya, one of the most powerful emperors of the Gupta empire during times referred to as the Golden Age of India]] Rajput_warrior_on_horseback,_with_caption_in_Kayathi_and_Nagari..jpg
+or Vikramaditya, one of the most powerful emperors of the Gupta empire during times referred to as the Golden Age of India]]
 
 Mahabharata (c 950 BC)[36] speaks of the esteemed cavalry of the Kambojas, Sakas, Yavanas and Tusharas, all of whom had participated in the Kurukshetra war under the supreme command of Kamboja ruler Sudakshin Kamboj.[37]
 
@@ -131,13 +129,13 @@ Ancient Kambojas were constituted into military _Sanghas_ and Srenis (Corporatio
 
 European Middle Ages
 
-Bayeux_Tapestry_scene51_Battle_of_Hastings_Norman_knights_and_archers.jpg charging in the Bayeux Tapestry, 11th century.]] As the quality and availability of heavy infantry declined in Europe with the fall of the Roman Empire, heavy cavalry became more effective. Infantry that lack the cohesion and discipline of tight formations are more susceptible to being broken and scattered by shock combat—the main role of heavy cavalry, which rose to become the dominant force on the European battlefield.
+charging in the Bayeux Tapestry, 11th century.]] As the quality and availability of heavy infantry declined in Europe with the fall of the Roman Empire, heavy cavalry became more effective. Infantry that lack the cohesion and discipline of tight formations are more susceptible to being broken and scattered by shock combat—the main role of heavy cavalry, which rose to become the dominant force on the European battlefield.
 
 As heavy cavalry increased in importance, it became the main focus of military development. The arms and armour for heavy cavalry increased, the high-backed saddle developed, and stirrups and spurs were added, increasing the advantage of heavy cavalry even more.
 
 This shift in military importance was reflected in society as well; knights took centre stage both on and off the battlefield. These are considered the "ultimate" in heavy cavalry: well-equipped with the best weapons, state-of-the-art armour from head to foot, leading with the lance in battle in a full-gallop, close-formation "knightly charge" that might prove irresistible, winning the battle almost as soon as it begun.
 
-BritLibAddMS35166ApocalypseUnkFolio3SealBlackHorse.jpg.]] Husitsky_bojovy_vuz_replika.jpg But knights remained the minority of total available combat forces; the expense of arms, armour, and horses was only affordable to a select few. While mounted men-at-arms focused on a narrow combat role of shock combat, medieval armies relied on a large variety of foot troops to fulfill all the rest (skirmishing, flank guards, scouting, holding ground, etc.). Medieval chroniclers tended to pay undue attention to the knights at the expense of the common soldiers, which led early students of military history to suppose that heavy cavalry was the only force that mattered on medieval European battlefields. But well-trained and disciplined infantry could defeat knights.
+.]] But knights remained the minority of total available combat forces; the expense of arms, armour, and horses was only affordable to a select few. While mounted men-at-arms focused on a narrow combat role of shock combat, medieval armies relied on a large variety of foot troops to fulfill all the rest (skirmishing, flank guards, scouting, holding ground, etc.). Medieval chroniclers tended to pay undue attention to the knights at the expense of the common soldiers, which led early students of military history to suppose that heavy cavalry was the only force that mattered on medieval European battlefields. But well-trained and disciplined infantry could defeat knights.
 
 Massed English longbowmen triumphed over French cavalry at Crécy, Poitiers and Agincourt, while at Gisors (1188), Bannockburn (1314), and Laupen (1339),[55] foot-soldiers proved they could resist cavalry charges as long as they held their formation. Once the Swiss developed their pike squares for offensive as well as defensive use, infantry started to become the principal arm. This aggressive new doctrine gave the Swiss victory over a range of adversaries, and their enemies found that the only reliable way to defeat them was by the use of an even more comprehensive combined arms doctrine, as evidenced in the Battle of Marignano. The introduction of missile weapons that required less skill than the longbow, such as the crossbow and hand cannon, also helped remove the focus somewhat from cavalry elites to masses of cheap infantry equipped with easy-to-learn weapons. These missile weapons were very successfully used in the Hussite Wars, in combination with Wagenburg tactics.
 
@@ -146,8 +144,6 @@ This gradual rise in the dominance of infantry led to the adoption of dismounted
 Greater Middle East
 
 Arabs
-
-Ikhwan.jpg
 
 The Islamic Prophet Muhammad made use of cavalry in many of his military campaigns including the Expedition of Dhu Qarad,[56] and the expedition of Zaid ibn Haritha in al-Is which took place in September, 627 AD, fifth month of 6 AH of the Islamic calendar.[57]
 
@@ -191,11 +187,11 @@ File:Mughal Troops Chase the Armies of Da'ud.jpg|Akbar leads the Mughal Army dur
 
 Renaissance Europe
 
-Retable_de_l'Agneau_mystique_(8).jpg (c. 1390–1441).]] Ironically, the rise of infantry in the early 16th century coincided with the "golden age" of heavy cavalry; a French or Spanish army at the beginning of the century could have up to half its numbers made up of various kinds of light and heavy cavalry, whereas in earlier medieval and later 17th-century armies the proportion of cavalry was seldom more than a quarter.
+(c. 1390–1441).]] Ironically, the rise of infantry in the early 16th century coincided with the "golden age" of heavy cavalry; a French or Spanish army at the beginning of the century could have up to half its numbers made up of various kinds of light and heavy cavalry, whereas in earlier medieval and later 17th-century armies the proportion of cavalry was seldom more than a quarter.
 
 Knighthood largely lost its military functions and became more closely tied to social and economic prestige in an increasingly capitalistic Western society. With the rise of drilled and trained infantry, the mounted men-at-arms, now sometimes called _gendarmes_ and often part of the standing army themselves, adopted the same role as in the Hellenistic age, that of delivering a decisive blow once the battle was already engaged, either by charging the enemy in the flank or attacking their commander-in-chief.
 
-Husarz,_Józef_Brandt,_1890.jpg'' (Polish Hussar) by Józef Brandt.]]
+'' (Polish Hussar) by Józef Brandt.]]
 
 From the 1550s onwards, the use of gunpowder weapons solidified infantry's dominance of the battlefield and began to allow true mass armies to develop. This is closely related to the increase in the size of armies throughout the early modern period; heavily armored cavalrymen were expensive to raise and maintain and it took years to replace a skilled horseman or a trained horse, while arquebusiers and later musketeers could be trained and kept in the field at much lower cost, and were much easier to replace.
 
@@ -203,7 +199,7 @@ The Spanish tercio and later formations relegated cavalry to a supporting role. 
 
 18th-century Europe and Napoleonic Wars
 
-Battle_of_Eylau_1807_by_Jean-Antoine-Siméon.jpg, painted by Jean-Antoine-Siméon Fort.]]
+, painted by Jean-Antoine-Siméon Fort.]]
 
 Cavalry retained an important role in this age of regularization and standardization across European armies. First and foremost they remained the primary choice for confronting enemy cavalry. Attacking an unbroken infantry force head-on usually resulted in failure, but extended linear infantry formations were vulnerable to flank or rear attacks. Cavalry was important at Blenheim (1704), Rossbach (1757), Eylau and Friedland (1807), remaining significant throughout the Napoleonic Wars.
 
@@ -213,7 +209,7 @@ Massed infantry was deadly to cavalry, but offered an excellent target for artil
 
 19th century
 
-Batalla_de_Carabobo.JPG.]]
+.]]
 
 Europe
 
@@ -230,7 +226,7 @@ In the Crimean War, the Charge of the Light Brigade and the Thin Red Line at the
 
 United States
 
-Union_cavalry_charge_culpepper.jpg capture Confederate guns at Culpepper.]]
+capture Confederate guns at Culpepper.]]
 
 In the early American Civil War the regular United States Army mounted rifle, dragoon, and two existing cavalry regiments were reorganized and renamed cavalry regiments, of which there were six.[70] Over a hundred other federal and state cavalry regiments were organized, but the infantry played a much larger role in many battles due to its larger numbers, lower cost per rifle fielded, and much easier recruitment. However, cavalry saw a role as part of screening forces and in foraging and scouting. The later phases of the war saw the Federal army developing a truly effective cavalry force fighting as scouts, raiders, and, with repeating rifles, as mounted infantry. The distinguished 1st Virginia Cavalry ranks as one of the most effectual and successful cavalry units on the Confederate side. Noted cavalry commanders included Confederate general J.E.B. Stuart, Nathan Bedford Forrest, and John Singleton Mosby (a.k.a. "The Grey Ghost") and on the Union side, Philip Sheridan and George Armstrong Custer.[71] Post Civil War, as the volunteer armies disbanded, the regular army cavalry regiments increased in number from six to ten, among them Custer's U.S. 7th Cavalry Regiment of Little Bighorn fame, and the African-American U.S. 9th Cavalry Regiment and U.S. 10th Cavalry Regiment. The black units, along with others (both cavalry and infantry), collectively became known as the Buffalo Soldiers. According to Robert M. Utley:
 
@@ -240,7 +236,7 @@ These regiments, which rarely took the field as complete organizations, served t
 
 Franco-Prussian War
 
-Valladolid_-_Academia_de_Caballeria_3.jpg During the Franco-Prussian War, at the Battle of Mars-la-Tour in 1870, a Prussian cavalry brigade decisively smashed the centre of the French battle line, after skilfully concealing their approach. This event became known as VON BREDOW'S DEATH RIDE after the brigade commander Adalbert von Bredow; it would be used in the following decades to argue that massed cavalry charges still had a place on the modern battlefield.[74]
+During the Franco-Prussian War, at the Battle of Mars-la-Tour in 1870, a Prussian cavalry brigade decisively smashed the centre of the French battle line, after skilfully concealing their approach. This event became known as VON BREDOW'S DEATH RIDE after the brigade commander Adalbert von Bredow; it would be used in the following decades to argue that massed cavalry charges still had a place on the modern battlefield.[74]
 
 Imperial expansion
 
@@ -248,7 +244,7 @@ Cavalry found a new role in colonial campaigns (irregular warfare), where modern
 
 In 1903 the British Indian Army maintained forty regiments of cavalry, numbering about 25,000 Indian sowars (cavalrymen), with British and Indian officers.[75]
 
-Among the more famous regiments in the lineages of the modern Indian and Pakistani armies are:21lancers.JPG]]
+Among the more famous regiments in the lineages of the modern Indian and Pakistani armies are:]]
 
 -   Governor General's Bodyguard (now President's Bodyguard)
 -   Skinner's Horse (now India's 1st Horse (Skinner's Horse))
@@ -272,7 +268,7 @@ First World War
 
 Pre-war developments
 
-Italian_cavalry_drill.jpg At the beginning of the 20th century all armies still maintained substantial cavalry forces, although there was contention over whether their role should revert to that of mounted infantry (the historic dragoon function). Following the experience of the South African War of 1899–1902 (where mounted Boer citizen commandos fighting on foot from cover proved more effective than regular cavalry) the British Army withdrew lances for all but ceremonial purposes and placed a new emphasis on training for dismounted action. In 1908 however the six British lancer regiments in existence resumed use of this impressive but obsolete weapon for active service.[80]
+At the beginning of the 20th century all armies still maintained substantial cavalry forces, although there was contention over whether their role should revert to that of mounted infantry (the historic dragoon function). Following the experience of the South African War of 1899–1902 (where mounted Boer citizen commandos fighting on foot from cover proved more effective than regular cavalry) the British Army withdrew lances for all but ceremonial purposes and placed a new emphasis on training for dismounted action. In 1908 however the six British lancer regiments in existence resumed use of this impressive but obsolete weapon for active service.[80]
 
 In 1882 the Imperial Russian Army converted all its line hussar and lancer regiments to dragoons, with an emphasis on mounted infantry training. In 1910 these regiments reverted to their historic roles, designations and uniforms.[81]
 
@@ -282,7 +278,7 @@ In spite of significant experience in mounted warfare in Morocco during 1908-14,
 
 Opening stages
 
-KuK_Kavallerie_1898.jpg cavalry, 1898.]] Kavallerie_Wk_I.jpg.]]
+cavalry, 1898.]] .]]
 
 In August 1914 all combatant armies still retained substantial numbers of cavalry and the mobile nature of the opening battles on both Eastern and Western Fronts provided a number of instances of traditional cavalry actions, though on a smaller and more scattered scale than those of previous wars. The Imperial German cavalry, while as colourful and traditional as any in peacetime appearance, had adopted a practice of falling back on infantry support when any substantial opposition was encountered.[88] These cautious tactics aroused derision amongst their more conservative French and Russian opponents[89] but proved appropriate to the new nature of warfare. A single attempt by the German army, on 12 August 1914, to use six regiments of massed cavalry to cut off the Belgian field army from Antwerp foundered when they were driven back in disorder by rifle fire.[90] The two German cavalry brigades involved lost 492 men and 843 horses in repeated charges against dismounted Belgian lancers and infantry.[91] Once the front lines stabilised on the Western Front, a combination of barbed wire, machine guns and rapid fire rifles proved deadly to horse mounted troops.
 
@@ -290,9 +286,9 @@ On the Eastern Front a more fluid form of warfare arose from flat open terrain f
 
 Europe 1915–18
 
-The_British_Army_on_the_Home_Front,_1914-1918_Q30432.jpg For the remainder of the War on the Western Front cavalry had virtually no role to play. The British and French armies dismounted many of their cavalry regiments and used them in infantry and other roles: the Life Guards for example spent the last months of the War as a machine gun corps; and the Australian Light Horse served as light infantry during the Gallipoli campaign. In September 1914 cavalry comprised 9.28% of the total manpower of the British Expeditionary Force in France—by July 1918 this proportion had fallen to 1.65%.[96] As early as the first winter of the war most French cavalry regiments had dismounted a squadron each, for service in the trenches.[97] The French cavalry numbered 102,000 in May 1915 but had been reduced to 63,000 by October 1918.[98] The German Army dismounted nearly all their cavalry in the West, maintaining only one mounted division on that front by January 1917.
+For the remainder of the War on the Western Front cavalry had virtually no role to play. The British and French armies dismounted many of their cavalry regiments and used them in infantry and other roles: the Life Guards for example spent the last months of the War as a machine gun corps; and the Australian Light Horse served as light infantry during the Gallipoli campaign. In September 1914 cavalry comprised 9.28% of the total manpower of the British Expeditionary Force in France—by July 1918 this proportion had fallen to 1.65%.[96] As early as the first winter of the war most French cavalry regiments had dismounted a squadron each, for service in the trenches.[97] The French cavalry numbered 102,000 in May 1915 but had been reduced to 63,000 by October 1918.[98] The German Army dismounted nearly all their cavalry in the West, maintaining only one mounted division on that front by January 1917.
 
-Bundesarchiv_Bild_183-R42025,_Warschau,_Einmarsch_deutscher_Kavallerie.jpgs after the capture of Warsaw, August 1915]] Italy entered the war in 1915 with thirty regiments of line cavalry, lancers and light horse. While employed effectively against their Austro-Hungarian counterparts during the initial offensives across the Isonzo River, the Italian mounted forces ceased to have a significant role as the front shifted into mountainous terrain. By 1916 all cavalry machine-gun sections and two complete cavalry divisions had been dismounted and seconded to the infantry.[99]
+s after the capture of Warsaw, August 1915]] Italy entered the war in 1915 with thirty regiments of line cavalry, lancers and light horse. While employed effectively against their Austro-Hungarian counterparts during the initial offensives across the Isonzo River, the Italian mounted forces ceased to have a significant role as the front shifted into mountainous terrain. By 1916 all cavalry machine-gun sections and two complete cavalry divisions had been dismounted and seconded to the infantry.[99]
 
 Some cavalry were retained as mounted troops behind the lines in anticipation of a penetration of the opposing trenches that it seemed would never come. Tanks, introduced on the Western Front by the British in September 1916, had the capacity to achieve such breakthroughs but did not have the reliable range to exploit them. In their first major use at the Battle of Cambrai (1917), the plan was for a cavalry division to follow behind the tanks, however they were not able to cross a canal because a tank had broken the only bridge.[100] It was not until the German Army had been forced to retreat in the Hundred Days Offensive of 1918, that cavalry were again able to operate in their intended role. There was a successful charge by the British 7th Dragoon Guards on the last day of the war.[101]
 
@@ -314,7 +310,7 @@ Post–World War I
 
 A combination of military conservatism in almost all armies and post-war financial constraints prevented the lessons of 1914–1918 being acted on immediately. There was a general reduction in the number of cavalry regiments in the British, French, Italian and other Western armies but it was still argued with conviction (for example in the 1922 edition of the _Encyclopædia Britannica_) that mounted troops had a major role to play in future warfare. The 1920s saw an interim period during which cavalry remained as a proud and conspicuous element of all major armies, though much less so than prior to 1914.
 
-Cavalry was extensively used in the Russian Civil War and the Soviet-Polish War. The last major cavalry battle was the Battle of Komarów in 1920, between Poland and the Russian Bolsheviks. Colonial warfare in Morocco, Syria, the Middle East and the North West Frontier of India provided some opportunities for mounted action against enemies lacking advanced weaponry. Lietuvos_kavalerija.Lithuanian_cavalry.jpgn lancers training in the 1930s]] The post-war German Army (Reichsheer) was permitted a large proportion of cavalry (18 regiments or 16.4% of total manpower) under the conditions of the Treaty of Versailles.
+Cavalry was extensively used in the Russian Civil War and the Soviet-Polish War. The last major cavalry battle was the Battle of Komarów in 1920, between Poland and the Russian Bolsheviks. Colonial warfare in Morocco, Syria, the Middle East and the North West Frontier of India provided some opportunities for mounted action against enemies lacking advanced weaponry. n lancers training in the 1930s]] The post-war German Army (Reichsheer) was permitted a large proportion of cavalry (18 regiments or 16.4% of total manpower) under the conditions of the Treaty of Versailles.
 
 The British Army mechanised all cavalry regiments between 1929 and 1941, redefining their role from horse to armoured vehicles to form the Royal Armoured Corps together with the Royal Tank Regiment. The U.S. Cavalry abandoned its sabres in 1934 and commenced the conversion of its horsed regiments to mechanized cavalry, starting with the First Regiment of Cavalry in January 1933.
 
@@ -328,7 +324,7 @@ While most armies still maintained cavalry units at the outbreak of World War II
 
 Polish
 
-Polski_ułan_z_karabinem_przeciwpancernym_UR.jpg with wz. 35 anti-tank rifle. Military instruction published in Warsaw in 1938.]] A popular myth is that Polish cavalry armed with lances charged German tanks during the September 1939 campaign. This arose from misreporting of a single clash on 1 September near Krojanty, when two squadrons of the Polish 18th Lancers armed with sabres scattered German infantry before being caught in the open by German armoured cars.[108] Two examples illustrate how the myth developed. First, because motorised vehicles were in short supply, the Poles used horses to pull anti-tank weapons into position.[109] Second, there were a few incidents when Polish cavalry was trapped by German tanks, and attempted to fight free. However, this did not mean that the Polish army chose to attack tanks with horse cavalry.[110] Later, on the Eastern Front, the Red Army did deploy cavalry units effectively against the Germans.[111] Bundesarchiv_Bild_101I-054-1525-26,_Frankreich,_Kavallerie_am_Ausgang_eines_Dorfes.jpg.]] A more correct term would be "mounted infantry" instead of "cavalry", as horses were primarily used as a means of transportation, for which they were very suitable in view of the very poor road conditions in pre-war Poland. Another myth describes Polish cavalry as being armed with both sabres and lances; lances were used for peacetime ceremonial purposes only and the primary weapon of the Polish cavalryman in 1939 was a rifle. Individual equipment did include a sabre, probably because of well-established tradition, and in the case of a melee combat this secondary weapon would probably be more effective than a rifle and bayonet. Moreover, the Polish cavalry brigade order of battle in 1939 included, apart from the mounted soldiers themselves, light and heavy machine guns (wheeled), the Anti-tank rifle, model 35, anti-aircraft weapons, anti tank artillery such as the Bofors 37 mm, also light and scout tanks, etc. The last cavalry vs. cavalry mutual charge in Europe took place in Poland during the Battle of Krasnobród, when Polish and German cavalry units clashed with each other.
+with wz. 35 anti-tank rifle. Military instruction published in Warsaw in 1938.]] A popular myth is that Polish cavalry armed with lances charged German tanks during the September 1939 campaign. This arose from misreporting of a single clash on 1 September near Krojanty, when two squadrons of the Polish 18th Lancers armed with sabres scattered German infantry before being caught in the open by German armoured cars.[108] Two examples illustrate how the myth developed. First, because motorised vehicles were in short supply, the Poles used horses to pull anti-tank weapons into position.[109] Second, there were a few incidents when Polish cavalry was trapped by German tanks, and attempted to fight free. However, this did not mean that the Polish army chose to attack tanks with horse cavalry.[110] Later, on the Eastern Front, the Red Army did deploy cavalry units effectively against the Germans.[111] .]] A more correct term would be "mounted infantry" instead of "cavalry", as horses were primarily used as a means of transportation, for which they were very suitable in view of the very poor road conditions in pre-war Poland. Another myth describes Polish cavalry as being armed with both sabres and lances; lances were used for peacetime ceremonial purposes only and the primary weapon of the Polish cavalryman in 1939 was a rifle. Individual equipment did include a sabre, probably because of well-established tradition, and in the case of a melee combat this secondary weapon would probably be more effective than a rifle and bayonet. Moreover, the Polish cavalry brigade order of battle in 1939 included, apart from the mounted soldiers themselves, light and heavy machine guns (wheeled), the Anti-tank rifle, model 35, anti-aircraft weapons, anti tank artillery such as the Bofors 37 mm, also light and scout tanks, etc. The last cavalry vs. cavalry mutual charge in Europe took place in Poland during the Battle of Krasnobród, when Polish and German cavalry units clashed with each other.
 
 The last classical cavalry charge of the war took place on March 1, 1945 during the Battle of Schoenfeld by the 1st "Warsaw" Independent Cavalry Brigade. Infantry and tanks had been employed to little effect against the German position, both of which floundered in the open wetlands only to be dominated by infantry and antitank fire from the German fortifications on the forward slope of Hill 157, overlooking the wetlands. The Germans had not taken cavalry into consideration when fortifying their position which, combined with the "Warsaw"s swift assault, overran the German anti-tank guns and consolidated into an attack into the village itself, now supported by infantry and tanks.
 
@@ -362,13 +358,11 @@ All British Army cavalry regiments had been mechanised since 1 March 1942 when t
 
 Mongolia
 
-Battle_of_Khalkhin_Gol-Mongolian_cavalry.jpg
-
 In the early stages of World War II, mounted units of the Mongolian People's Army were involved in the Battle of Khalkhin Gol against invading Japanese forces. Soviet forces under the command of Georgy Zhukov, together with Mongolian forces, defeated the Japanese Sixth army and effectively ended the Soviet–Japanese Border Wars. After the Soviet–Japanese Neutrality Pact of 1941, Mongolia remained neutral throughout most of the war, but its geographical situation meant that the country served as a buffer between Japanese forces and the Soviet Union. In addition to keeping around 10% of the population under arms, Mongolia provided half a million trained horses for use by the Soviet Army. In 1945 a partially mounted Soviet-Mongolian Cavalry Mechanized Group played a supporting role on the western flank of the Soviet invasion of Manchuria. The last active service seen by cavalry units of the Mongolian Army occurred in 1946–1948, during border clashes between Mongolia and the Republic of China.
 
 Post–World War II to present day
 
-US_soldiers_on_horseback_1991_Afghanistan.jpg and Combat Controllers on horseback with the Northern Alliance of Afghanistan, which frequently used horses as military transport.]] While most modern "cavalry" units have some historic connection with formerly mounted troops this is not always the case. The modern Irish Defence Force (DF) includes a "Cavalry Corps" equipped with armoured cars and Scorpion tracked combat reconnaissance vehicles. The DF has never included horse cavalry since its establishment in 1922 (other than a small mounted escort of Blue Hussars drawn from the Artillery Corps when required for ceremonial occasions). However, the mystique of the cavalry is such that the name has been introduced for what was always a mechanised force.
+and Combat Controllers on horseback with the Northern Alliance of Afghanistan, which frequently used horses as military transport.]] While most modern "cavalry" units have some historic connection with formerly mounted troops this is not always the case. The modern Irish Defence Force (DF) includes a "Cavalry Corps" equipped with armoured cars and Scorpion tracked combat reconnaissance vehicles. The DF has never included horse cavalry since its establishment in 1922 (other than a small mounted escort of Blue Hussars drawn from the Artillery Corps when required for ceremonial occasions). However, the mystique of the cavalry is such that the name has been introduced for what was always a mechanised force.
 
 Some engagements in late 20th and early 21st century guerrilla wars involved mounted troops, particularly against partisan or guerrilla fighters in areas with poor transport infrastructure. Such units were not used as cavalry but rather as mounted infantry. Examples occurred in Afghanistan, Portuguese Africa and Rhodesia. The French Army used existing mounted squadrons of Spahis to a limited extent for patrol work during the Algerian War (1954–62). The Swiss Army maintained a mounted dragoon regiment for combat purposes until 1973. The Portuguese Army used horse mounted cavalry with some success in the wars of independence in Angola and Mozambique in the 1960s and 1970s. During the 1964–79 Rhodesian Bush War the Rhodesian Army created an elite mounted infantry unit called Grey's Scouts to fight unconventional actions against the rebel forces of Robert Mugabe and Joshua Nkomo. The horse mounted infantry of the Scouts were effective and reportedly feared by their opponents in the rebel African forces. In the 1978 to present Afghan Civil War period there have been several instances of horse mounted combat.
 
@@ -450,7 +444,7 @@ Other films that show cavalry actions include:
 
 Some cavalry forces
 
-USMC_07_Rose_Parade.jpg-mounted color guard from Marine Corps Logistics Base Barstow]]
+-mounted color guard from Marine Corps Logistics Base Barstow]]
 
 -   2nd Armored Cavalry Regiment
 -   Chinacos (Mexican irregular cavalry of the 19th century)

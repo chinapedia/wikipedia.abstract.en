@@ -1,4 +1,4 @@
-Estonia_1999_CIA_map.jpg Satellite_image_of_Estonia_in_April_2004.jpg Laelatu_puisniit.jpg Between 57.3 and 59.5 latitude and 21.5 and 28.1 longitude, Estonia lies on the eastern shores of the Baltic Sea on the level northwestern part of the rising East European Platform. It borders the Gulf of Finland, between Latvia and Russia. Average elevation reaches only .
+Between 57.3 and 59.5 latitude and 21.5 and 28.1 longitude, Estonia lies on the eastern shores of the Baltic Sea on the level northwestern part of the rising East European Platform. It borders the Gulf of Finland, between Latvia and Russia. Average elevation reaches only .
 
 The climate is maritime, wet, with moderate winters and cool summers. Oil shale and limestone deposits, along with forests which cover 47% of the land, play key economic roles in this generally resource-poor country. Estonia boasts over 1,500 lakes, numerous bogs, and 3,794 kilometers of coastline marked by numerous bays, straits, and inlets. Tallinn's Muuga port offers one of Europe's finest warm-water harbor facilities.
 
@@ -20,7 +20,7 @@ Estonia's land border with Latvia runs ; the Russian border runs . From 1920 to 
 
 Environmental issues
 
-Suur-Pakri_-_kaugpommitajate_polügoon.JPG as sites for aerial bombardment. The collection and destruction of thousands of Soviet explosive devices was mostly complete by 1997.]] One of the most burdensome legacies of the Soviet era is widespread environmental pollution.[1] The worst offender in this regard was the Soviet army. Across military installations covering more than 800 km² of Estonian territory, the army dumped hundreds of thousands of tons of jet fuel into the ground, improperly disposed of toxic chemicals, and discarded outdated explosives and weapons in coastal and inland waters. In the 1990s, during the army's withdrawal from Estonia, extensive damage was done to discarded buildings and equipment. In October 1993, the Estonian Ministry of Environment issued a preliminary report summing up part of the degradation it had surveyed thus far. The report described the worst damage as having been done to Estonia's topsoil and underground water supply by the systematic dumping of jet fuel at six Soviet army air bases. At the air base near Tapa, site of the worst damage, officials estimated that six square kilometers of land were covered by a layer of fuel; 11 square kilometers of underground water were said to be contaminated. The water in the surrounding area was undrinkable, and was sometimes set fire by locals to provide heat during the winter. With Danish help, Estonian crews began cleaning up the site, although they estimated the likely cost to be as much as 4 million EEK. The Ministry of Environment assigned a monetary cost of more than 10 billion EEK to the damage to the country's topsoil and water supply. However, the ministry was able to allocate only 5 million EEK in 1993 for cleanup operations.
+as sites for aerial bombardment. The collection and destruction of thousands of Soviet explosive devices was mostly complete by 1997.]] One of the most burdensome legacies of the Soviet era is widespread environmental pollution.[1] The worst offender in this regard was the Soviet army. Across military installations covering more than 800 km² of Estonian territory, the army dumped hundreds of thousands of tons of jet fuel into the ground, improperly disposed of toxic chemicals, and discarded outdated explosives and weapons in coastal and inland waters. In the 1990s, during the army's withdrawal from Estonia, extensive damage was done to discarded buildings and equipment. In October 1993, the Estonian Ministry of Environment issued a preliminary report summing up part of the degradation it had surveyed thus far. The report described the worst damage as having been done to Estonia's topsoil and underground water supply by the systematic dumping of jet fuel at six Soviet army air bases. At the air base near Tapa, site of the worst damage, officials estimated that six square kilometers of land were covered by a layer of fuel; 11 square kilometers of underground water were said to be contaminated. The water in the surrounding area was undrinkable, and was sometimes set fire by locals to provide heat during the winter. With Danish help, Estonian crews began cleaning up the site, although they estimated the likely cost to be as much as 4 million EEK. The Ministry of Environment assigned a monetary cost of more than 10 billion EEK to the damage to the country's topsoil and water supply. However, the ministry was able to allocate only 5 million EEK in 1993 for cleanup operations.
 
 In a 1992 government report to the United Nations Conference on the Environment and Development, Estonia detailed other major environmental concerns. For instance, for several consecutive years Estonia had led the world in the production of sulfur dioxide per capita. Nearly 75% of Estonia's air pollution was reported to come from two oil shale-based thermal power stations operating near Narva. The mining of oil shale in northeastern Estonia has also left large mounds of limestone tailings and ash dotting the region. Near the town of Sillamäe, site of a former uranium enrichment plant, about 1,200 tons of uranium and about 750 tons of thorium had been dumped into a reservoir on the shore of the Gulf of Finland. This was said to have caused severe health problems among area residents. In the coastal town of Paldiski, the removal of waste left by Soviet army nuclear reactors was also a major concern. The combined cost of environmental cleanup at both towns was put at more than EKR3.5 billion.
 
@@ -35,7 +35,7 @@ _signed, but not ratified:_ none
 
 Area and boundaries
 
-Hellamaa_panoraam.jpg.]] AREA:
+.]] AREA:
 _total:_ 45,228 km²
 _land:_ 42,288 km²
 _water:_ 2,840 km²
@@ -57,7 +57,7 @@ _highest point:_ Suur Munamägi 317 m[2]
 
 Resources and land use
 
-Pine_forest_in_Estonia.jpg NATURAL RESOURCES: oil shale (kukersite), peat, phosphorite, cambrian blue clay, limestone, sand, dolomite, arable land, forest
+NATURAL RESOURCES: oil shale (kukersite), peat, phosphorite, cambrian blue clay, limestone, sand, dolomite, arable land, forest
 
 LAND USE:
 _arable:_ 14.65%

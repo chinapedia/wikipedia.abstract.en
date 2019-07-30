@@ -1,4 +1,4 @@
-Pasadena_City_College,_Pasadena,_California_-_20040813.jpg (PCC)]]
+(PCC)]]
 
 A COMMUNITY COLLEGE is a type of educational institution. The term can have different meanings in different countries: many community colleges have an “open enrollment” for students who have graduated from high school (also known as senior secondary school). The term usually refers to a higher educational institution that provides workforce education and college transfer academic programs. Some institutions maintain athletic teams and dormitories similar to their university counterparts.
 
@@ -59,7 +59,7 @@ In the United Kingdom, except for Scotland, a community college is a school whic
 
 United States
 
-Joliet_Junior_College_Sign.JPG main campus, in Joliet, Illinois - Established in 1901 as the first community college in the US]] 6304-FullertonJrCollege-1.jpg, the oldest community college (originally "junior college") in continuous operation in California, established in 1913]] Monroe_Community_College_Brighton_Campus_Main.jpg main campus, in Rochester, New York]]
+main campus, in Joliet, Illinois - Established in 1901 as the first community college in the US]] , the oldest community college (originally "junior college") in continuous operation in California, established in 1913]] main campus, in Rochester, New York]]
 
 In the United States, community colleges, sometimes called junior colleges, technical colleges, two-year colleges, or city colleges, are primarily two-year public institutions providing lower-level tertiary education, also known as continuing education. They grant certificates, diplomas, and associate degrees. After graduating from a community college, most students transfer to a four-year liberal arts college or university for two to three years to complete a bachelor's degree.
 

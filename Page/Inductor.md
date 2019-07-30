@@ -99,7 +99,7 @@ Using a high permeability ferromagnetic core can greatly increase the inductance
 
 Applications
 
-InductorSignalFilter1.png InductorSignalFilter2.png DC current, while allowing AC current to pass.]] Inductors are used extensively in analog circuits and signal processing. Applications range from the use of large inductors in power supplies, which in conjunction with filter capacitors remove ripple which is a multiple of the mains frequency (or the switching frequency for switched-mode power supplies) from the direct current output, to the small inductance of the ferrite bead or torus installed around a cable to prevent radio frequency interference from being transmitted down the wire. Inductors are used as the energy storage device in many switched-mode power supplies to produce DC current. The inductor supplies energy to the circuit to keep current flowing during the "off" switching periods and enables topographies where the output voltage is higher than the input voltage.
+DC current, while allowing AC current to pass.]] Inductors are used extensively in analog circuits and signal processing. Applications range from the use of large inductors in power supplies, which in conjunction with filter capacitors remove ripple which is a multiple of the mains frequency (or the switching frequency for switched-mode power supplies) from the direct current output, to the small inductance of the ferrite bead or torus installed around a cable to prevent radio frequency interference from being transmitted down the wire. Inductors are used as the energy storage device in many switched-mode power supplies to produce DC current. The inductor supplies energy to the circuit to keep current flowing during the "off" switching periods and enables topographies where the output voltage is higher than the input voltage.
 
 A tuned circuit, consisting of an inductor connected to a capacitor, acts as a resonator for oscillating current. Tuned circuits are widely used in radio frequency equipment such as radio transmitters and receivers, as narrow bandpass filters to select a single frequency from a composite signal, and in electronic oscillators to generate sinusoidal signals.
 
@@ -125,13 +125,13 @@ Types
 
 Air-core inductor
 
-Antenna_tuning_coil_-_station_WOR.jpg coil at an AM radio station. It illustrates high power high Q construction: single layer winding with turns spaced apart to reduce proximity effect losses, made of silver-plated tubing to reduce skin effect losses, supported by narrow insulating strips to reduce dielectric losses. ]]
+coil at an AM radio station. It illustrates high power high Q construction: single layer winding with turns spaced apart to reduce proximity effect losses, made of silver-plated tubing to reduce skin effect losses, supported by narrow insulating strips to reduce dielectric losses. ]]
 
 The term _air core coil_ describes an inductor that does not use a magnetic core made of a ferromagnetic material. The term refers to coils wound on plastic, ceramic, or other nonmagnetic forms, as well as those that have only air inside the windings. Air core coils have lower inductance than ferromagnetic core coils, but are often used at high frequencies because they are free from energy losses called core losses that occur in ferromagnetic cores, which increase with frequency. A side effect that can occur in air core coils in which the winding is not rigidly supported on a form is 'microphony': mechanical vibration of the windings can cause variations in the inductance.
 
 Radio-frequency inductor
 
-Hf_spoler_og_transformatorer.jpg or rod antenna,[17][18][19][20] bottom, have basket windings.]]
+or rod antenna,[17][18][19][20] bottom, have basket windings.]]
 
 At high frequencies, particularly radio frequencies (RF), inductors have higher resistance and other losses. In addition to causing power loss, in resonant circuits this can reduce the Q factor of the circuit, broadening the bandwidth. In RF inductors, which are mostly air core types, specialized construction techniques are used to minimize these losses. The losses are due to these effects:
 
@@ -140,7 +140,7 @@ Proximity effect: Another similar effect that also increases the resistance of t
 Dielectric losses: The high frequency electric field near the conductors in a tank coil can cause the motion of polar molecules in nearby insulating materials, dissipating energy as heat. So coils used for tuned circuits are often not wound on coil forms but are suspended in air, supported by narrow plastic or ceramic strips.
 Parasitic capacitance: The capacitance between individual wire turns of the coil, called parasitic capacitance, does not cause energy losses but can change the behavior of the coil. Each turn of the coil is at a slightly different potential, so the electric field between neighboring turns stores charge on the wire, so the coil acts as if it has a capacitor in parallel with it. At a high enough frequency this capacitance can resonate with the inductance of the coil forming a tuned circuit, causing the coil to become self-resonant.
 
-Transmitter_tank_inductor.jpg To reduce parasitic capacitance and proximity effect, high Q RF coils are constructed to avoid having many turns lying close together, parallel to one another. The windings of RF coils are often limited to a single layer, and the turns are spaced apart. To reduce resistance due to skin effect, in high-power inductors such as those used in transmitters the windings are sometimes made of a metal strip or tubing which has a larger surface area, and the surface is silver-plated.
+To reduce parasitic capacitance and proximity effect, high Q RF coils are constructed to avoid having many turns lying close together, parallel to one another. The windings of RF coils are often limited to a single layer, and the turns are spaced apart. To reduce resistance due to skin effect, in high-power inductors such as those used in transmitters the windings are sometimes made of a metal strip or tubing which has a larger surface area, and the surface is silver-plated.
 
 Basket-weave coils: To reduce proximity effect and parasitic capacitance, multilayer RF coils are wound in patterns in which successive turns are not parallel but criss-crossed at an angle; these are often called _honeycomb_ or _basket-weave_ coils. These are occasionally wound on a vertical insulating supports with dowels or slots, with the wire weaving in and out through the slots.
 Spiderweb coils: Another construction technique with similar advantages is flat spiral coils.These are often wound on a flat insulating support with radial spokes or slots, with the wire weaving in and out through the slots; these are called _spiderweb_ coils. The form has an odd number of slots, so successive turns of the spiral lie on opposite sides of the form, increasing separation.
@@ -152,8 +152,6 @@ Small inductors for low current and low power are made in molded cases resemblin
 
 Ferromagnetic-core inductor
 
-Aplikimi_i_feriteve.png
-
 Ferromagnetic-core or iron-core inductors use a magnetic core made of a ferromagnetic or ferrimagnetic material such as iron or ferrite to increase the inductance. A magnetic core can increase the inductance of a coil by a factor of several thousand, by increasing the magnetic field due to its higher magnetic permeability. However the magnetic properties of the core material cause several side effects which alter the behavior of the inductor and require special construction:
 
  
@@ -161,7 +159,7 @@ Ferromagnetic-core or iron-core inductors use a magnetic core made of a ferromag
 
 Laminated-core inductor
 
-Vorschaltdrossel_Kvg.jpg inductor for a metal halide lamp ]] Low-frequency inductors are often made with laminated cores to prevent eddy currents, using construction similar to transformers. The core is made of stacks of thin steel sheets or laminations oriented parallel to the field, with an insulating coating on the surface. The insulation prevents eddy currents between the sheets, so any remaining currents must be within the cross sectional area of the individual laminations, reducing the area of the loop and thus reducing the energy losses greatly. The laminations are made of low-conductivity silicon steel to further reduce eddy current losses.
+inductor for a metal halide lamp ]] Low-frequency inductors are often made with laminated cores to prevent eddy currents, using construction similar to transformers. The core is made of stacks of thin steel sheets or laminations oriented parallel to the field, with an insulating coating on the surface. The insulation prevents eddy currents between the sheets, so any remaining currents must be within the cross sectional area of the individual laminations, reducing the area of the loop and thus reducing the energy losses greatly. The laminations are made of low-conductivity silicon steel to further reduce eddy current losses.
 
 Ferrite-core inductor
 
@@ -173,13 +171,11 @@ Another material is powdered iron cemented with a binder.
 
 Toroidal-core inductor
 
-3Com_OfficeConnect_ADSL_Wireless_11g_Firewall_Router_2012-10-28-0869.jpg
-
 In an inductor wound on a straight rod-shaped core, the magnetic field lines emerging from one end of the core must pass through the air to re-enter the core at the other end. This reduces the field, because much of the magnetic field path is in air rather than the higher permeability core material and is a source of electromagnetic interference. A higher magnetic field and inductance can be achieved by forming the core in a closed magnetic circuit. The magnetic field lines form closed loops within the core without leaving the core material. The shape often used is a toroidal or doughnut-shaped ferrite core. Because of their symmetry, toroidal cores allow a minimum of the magnetic flux to escape outside the core (called _leakage flux_), so they radiate less electromagnetic interference than other shapes. Toroidal core coils are manufactured of various materials, primarily ferrite, powdered iron and laminated cores.[21]
 
 Variable inductor
 
-Rollspule.jpgs of radio transmitters. One of the contacts to the coil is made by the small grooved wheel, which rides on the wire. Turning the shaft rotates the coil, moving the contact wheel up or down the coil, allowing more or fewer turns of the coil into the circuit, to change the inductance.]]
+s of radio transmitters. One of the contacts to the coil is made by the small grooved wheel, which rides on the wire. Turning the shaft rotates the coil, moving the contact wheel up or down the coil, allowing more or fewer turns of the coil into the circuit, to change the inductance.]]
 
 Probably the most common type of variable inductor today is one with a moveable ferrite magnetic core, which can be slid or screwed in or out of the coil. Moving the core farther into the coil increases the permeability, increasing the magnetic field and the inductance. Many inductors used in radio applications (usually less than 100 MHz) use adjustable cores in order to tune such inductors to their desired value, since manufacturing processes have certain tolerances (inaccuracy). Sometimes such cores for frequencies above 100 MHz are made from highly conductive non-magnetic material such as aluminum.[22] They decrease the inductance because the magnetic field must bypass them.
 
@@ -191,7 +187,7 @@ Another method to control the inductance without any moving parts requires an ad
 
 Choke
 
-Two_ferrite_beads.jpg A choke is an inductor designed specifically for blocking high-frequency alternating current (AC) in an electrical circuit, while allowing DC or low-frequency signals to pass. It usually consists of a coil of insulated wire wound on a magnetic core, although some consist of a donut-shaped "bead" of ferrite material strung on a wire. Like other inductors, chokes resist changes in current passing through them increasingly with frequency. The difference between chokes and other inductors is that chokes do not require the high Q factor construction techniques that are used to reduce the resistance in inductors used in tuned circuits.
+A choke is an inductor designed specifically for blocking high-frequency alternating current (AC) in an electrical circuit, while allowing DC or low-frequency signals to pass. It usually consists of a coil of insulated wire wound on a magnetic core, although some consist of a donut-shaped "bead" of ferrite material strung on a wire. Like other inductors, chokes resist changes in current passing through them increasingly with frequency. The difference between chokes and other inductors is that chokes do not require the high Q factor construction techniques that are used to reduce the resistance in inductors used in tuned circuits.
 
 
 Circuit analysis
@@ -251,13 +247,13 @@ Inductor networks
 
 Inductors in a parallel configuration each have the same potential difference (voltage). To find their total equivalent inductance (_L__(eq)):
 
-    A diagram of several inductors, side by side, both leads of each connected to the same wires
+
 
 $$\frac{1}{L_\mathrm{eq}} = \frac{1}{L_1} + \frac{1}{L_2} + \cdots + \frac{1}{L_n}$$
 
 The current through inductors in series stays the same, but the voltage across each inductor can be different. The sum of the potential differences (voltage) is equal to the total voltage. To find their total inductance:
 
-    A diagram of several inductors, connected end to end, with the same amount of current going through each
+
 
 _L__(_e__q_) = _L_₁ + _L_₂ + ⋯ + _L__(_n_) ​
 

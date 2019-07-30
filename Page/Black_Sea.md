@@ -1,4 +1,4 @@
-Black_Sea_coast_of_Georgia_(country),_with_skyline_of_Batumi_on_the_horizon.jpg, with the skyline of Batumi on the horizon]] Ласточкино_гнездо.jpg in Crimea]] Здание_санатория_«Орджоникидзе»_(Сочи,_курортный_пр.)102.jpg, Russia]]
+, with the skyline of Batumi on the horizon]] in Crimea]] , Russia]]
 
 The BLACK SEA is a body of water and marginal sea of the Atlantic Ocean between the Balkans, Eastern Europe, the Caucasus, and Western Asia.[1] It is supplied by a number of major rivers, such as the Danube, Dnieper, Southern Bug, Dniester, Don, and the Rioni. Areas of many countries drain into the Black Sea,[2] including Austria, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, the Czech Republic, Georgia, Germany, Hungary, Moldova, Poland, Romania, Russia, Serbia, Slovakia, Slovenia, Turkey and Ukraine.
 
@@ -32,9 +32,7 @@ Population
 | Most populous urban areas along the Black Sea coastline |
 +=========================================================+
 | rowspan=23 width:150|                                   |
-| Istanbul2010.jpg                                        |
 | Istanbul                                                |
-| Pantelejmonowski_Kirche_Odessa.jpg                      |
 | Odessa                                                  |
 +---------------------------------------------------------+
 | 1                                                       |
@@ -63,7 +61,7 @@ Population
 
 Name
 
-Crimea_Laspi_Sunset.jpg Veleka-sinemorets-mouth-dinev.jpg in the Black Sea. Longshore drift has deposited sediment along the shoreline which has led to the formation of a spit, Sinemorets, Bulgaria]] The_Black_Sea_near_Constanţa,_Romania.JPG, Romania]]
+in the Black Sea. Longshore drift has deposited sediment along the shoreline which has led to the formation of a spit, Sinemorets, Bulgaria]] , Romania]]
 
 Modern names
 
@@ -111,7 +109,7 @@ In the tenth-century geography book , which was written in Persian by an unknown
 
 Geology and bathymetry
 
-Судак.jpg, Crimea]] The geological origins of the basin can be traced back to two distinct relict back-arc basins which were initiated by the splitting of an Albian volcanic arc and the subduction of both the Paleo- and Neo-Tethys Oceans, but the timings of these events remain controversial.[11][12] Since its initiation, compressional tectonic environments led to subsidence in the basin, interspersed with extensional phases resulting in large-scale volcanism and numerous orogenies, causing the uplift of the Greater Caucasus, Pontides, Southern Crimean Peninsula and Balkanides mountain ranges.[13]
+, Crimea]] The geological origins of the basin can be traced back to two distinct relict back-arc basins which were initiated by the splitting of an Albian volcanic arc and the subduction of both the Paleo- and Neo-Tethys Oceans, but the timings of these events remain controversial.[11][12] Since its initiation, compressional tectonic environments led to subsidence in the basin, interspersed with extensional phases resulting in large-scale volcanism and numerous orogenies, causing the uplift of the Greater Caucasus, Pontides, Southern Crimean Peninsula and Balkanides mountain ranges.[13]
 
 The ongoing collision between the Eurasian and African plates and westward escape of the Anatolian block along the North Anatolian Fault and East Anatolian Faults dictates the current tectonic regime,[14] which features enhanced subsidence in the Black Sea basin and significant volcanic activity in the Anatolian region.[15] It is these geological mechanisms which, in the long term, have caused the periodic isolations of the Black Sea from the rest of the global ocean system.
 
@@ -124,7 +122,7 @@ The area surrounding the Black Sea is commonly referred to as the _Black Sea Reg
 
 Hydrology
 
-The_Danube_Spills_into_the_Black_Sea.jpg view reveals the colourful interplay of currents on the sea's surface]]
+view reveals the colourful interplay of currents on the sea's surface]]
 
 The Black Sea is a marginal sea[19] and is the world's largest body of water with a meromictic basin.[20] The deep waters do not mix with the upper layers of water that receive oxygen from the atmosphere. As a result, over 90% of the deeper Black Sea volume is anoxic water.[21] The Black Sea's circulation patterns are primarily controlled by basin topography and fluvial inputs, which result in a strongly stratified vertical structure. Because of the extreme stratification, it is classified as a salt wedge estuary.
 
@@ -154,7 +152,7 @@ Ecology
 
 Marine
 
-POTI.JPG, Georgia]]
+, Georgia]]
 
 The Black Sea supports an active and dynamic marine ecosystem, dominated by species suited to the brackish, nutrient-rich, conditions. As with all marine food webs, the Black Sea features a range of trophic groups, with autotrophic algae, including diatoms and dinoflagellates, acting as primary producers. The fluvial systems draining Eurasia and central Europe introduce large volumes of sediment and dissolved nutrients into the Black Sea, but distribution of these nutrients is controlled by the degree of physiochemical stratification, which is, in turn, dictated by seasonal physiographic development.[33]
 
@@ -164,7 +162,7 @@ In total, Black Sea's biodiversity contains around one-third of Mediterranean's,
 
 Phytoplankton
 
-Black_Sea_Nasa_May_25_2004.jpg blooms and plumes of sediment form the bright blue swirls that ring the Black Sea in this 2004 image]]
+blooms and plumes of sediment form the bright blue swirls that ring the Black Sea in this 2004 image]]
 
 The main phytoplankton groups present in the Black Sea are dinoflagellates, diatoms, coccolithophores and cyanobacteria. Generally, the annual cycle of phytoplankton development comprises significant diatom and dinoflagellate-dominated spring production, followed by a weaker mixed assemblage of community development below the seasonal thermocline during summer months and a surface-intensified autumn production.[38][39] This pattern of productivity is also augmented by an _Emiliania huxleyi_ bloom during the late spring and summer months.
 
@@ -209,7 +207,7 @@ Animal species
     Various species of pinnipeds, sea otter, and beluga whales[59][60] were introduced into the Black Sea by mankind and later escaped either by accidental or purported causes. Of these, grey seal[61] and beluga whales[62] have been recorded with successful, long-term occurrences.
     Great white sharks are known to reach into the Sea of Marmara and Bosphorus Strait and basking shark into Dardanelles although it is unclear whether or not these sharks may reach into the Black and Azov basins.[63][64]
 
-Dolphins_swim_near_ferry_in_port_of_Batumi_150505-A-PU919-7446.jpg with a ferry at Batumi port]]
+with a ferry at Batumi port]]
 
 Ecological effects of pollution
 
@@ -223,14 +221,14 @@ File:black sea fauna jelly 01.jpg|Jellyfish File:black sea fauna actinia 01.jpg|
 
 Terrestrial
 
-On_the_way_to_Akhun_mountain.JPG, on the way to Mount Akhun.]]
+, on the way to Mount Akhun.]]
 
 In the past, the range of the Asiatic lion extended from South Asia to the Balkans, possibly up to the Danube. Places like Turkey and the Trans-Caucasus were in this range. The Caspian tiger occurred in eastern Turkey and the Caucasus, at least. The _lyuti zver_ (Old East Slavic for "fierce animal") that was encountered by Vladimir II Monomakh, Velikiy Kniaz of Kievan Rus' (which ranged to the Black Sea in the south),[71] may have been a tiger or leopard, rather than a wolf or lynx, due to the way it behaved towards him and his horse.[72]
 
 
 Climate
 
-Ice_on_the_Gulf_of_Odessa.jpg]] Short-term climatic variation in the Black Sea region is significantly influenced by the operation of the North Atlantic oscillation, the climatic mechanisms resulting from the interaction between the north Atlantic and mid-latitude air masses.[73] While the exact mechanisms causing the North Atlantic Oscillation remain unclear,[74] it is thought the climate conditions established in western Europe mediate the heat and precipitation fluxes reaching Central Europe and Eurasia, regulating the formation of winter cyclones, which are largely responsible for regional precipitation inputs[75] and influence Mediterranean Sea Surface Temperatures (SST's).[76]
+]] Short-term climatic variation in the Black Sea region is significantly influenced by the operation of the North Atlantic oscillation, the climatic mechanisms resulting from the interaction between the north Atlantic and mid-latitude air masses.[73] While the exact mechanisms causing the North Atlantic Oscillation remain unclear,[74] it is thought the climate conditions established in western Europe mediate the heat and precipitation fluxes reaching Central Europe and Eurasia, regulating the formation of winter cyclones, which are largely responsible for regional precipitation inputs[75] and influence Mediterranean Sea Surface Temperatures (SST's).[76]
 
 The relative strength of these systems also limits the amount of cold air arriving from northern regions during winter.[77] Other influencing factors include the regional topography, as depressions and storms systems arriving from the Mediterranean are funneled through the low land around the Bosphorus, Pontic and Caucasus mountain ranges acting as wave guides, limiting the speed and paths of cyclones passing through the region.[78]
 
@@ -261,7 +259,7 @@ History
 
 Mediterranean connection during the Holocene
 
-Istanbul_and_Bosporus_big.jpg, taken from the International Space Station]] Dardanelles_map2.png]]
+, taken from the International Space Station]] ]]
 
 The Black Sea is connected to the World Ocean by a chain of two shallow straits, the Dardanelles and the Bosphorus. The Dardanelles is deep and the Bosphorus is as shallow as . By comparison, at the height of the last ice age, sea levels were more than lower than they are now.
 
@@ -275,7 +273,7 @@ The BLACK SEA DELUGE is a hypothesized catastrophic rise in the level of the Bla
 
 Recorded history
 
-Diego-homem-black-sea-ancient-map-1559.jpg.]] Greek_colonies_of_the_Euxine_Sea.svg The Black Sea was a busy waterway on the crossroads of the ancient world: the Balkans to the west, the Eurasian steppes to the north, Caucasus and Central Asia to the east, Asia Minor and Mesopotamia to the south, and Greece to the south-west.
+.]] The Black Sea was a busy waterway on the crossroads of the ancient world: the Balkans to the west, the Eurasian steppes to the north, Caucasus and Central Asia to the east, Asia Minor and Mesopotamia to the south, and Greece to the south-west.
 
 The oldest processed gold in the world was found in Varna, Bulgaria, and the Black Sea was supposedly sailed by the Argonauts. The land at the eastern end of the Black Sea, Colchis, (now Georgia), marked for the Greeks the edge of the known world.
 
@@ -287,14 +285,14 @@ The Black Sea was a significant naval theatre of World War I and saw both naval 
 
 Archaeology
 
-Aivazovsky_-_Black_Sea_Fleet_in_the_Bay_of_Theodosia.jpg. _Black Sea Fleet in the Bay of Theodosia_, just before the Crimean War]] Ancient trade routes in the region are currently being extensively studied by scientists, as the Black Sea was sailed by Hittites, Carians, Colchians, Thracians, Greeks, Persians, Cimmerians, Scythians, Romans, Byzantines, Goths, Huns, Avars, Slavs, Varangians, Crusaders, Venetians, Genoese, Georgians, Tatars and Ottomans.
+. _Black Sea Fleet in the Bay of Theodosia_, just before the Crimean War]] Ancient trade routes in the region are currently being extensively studied by scientists, as the Black Sea was sailed by Hittites, Carians, Colchians, Thracians, Greeks, Persians, Cimmerians, Scythians, Romans, Byzantines, Goths, Huns, Avars, Slavs, Varangians, Crusaders, Venetians, Genoese, Georgians, Tatars and Ottomans.
 
 Perhaps the most promising areas in deepwater archaeology are the quest for submerged prehistoric settlements in the continental shelf and for ancient shipwrecks in the anoxic zone, which are expected to be exceptionally well preserved due to the absence of oxygen. This concentration of historical powers, combined with the preservative qualities of the deep anoxic waters of the Black Sea, has attracted increased interest from marine archaeologists who have begun to discover a large number of ancient ships and organic remains in a high state of preservation.
 
 
 Modern use
 
-Widok_na_Jałtę_ze_statku_06.JPG, Crimea]] Amasra,_Bartın,_Turkey.jpg, Turkey, is located on a small island in the Black Sea]]
+, Crimea]] , Turkey, is located on a small island in the Black Sea]]
 
 Commercial and civic use
 
@@ -319,8 +317,6 @@ Hydrocarbons exploration
 Since the 1980s, the Soviet Union started offshore drilling for petroleum in the sea's western portion (adjoining Ukraine's coast). The independent Ukraine continued and intensified that effort within its exclusive economic zone, inviting major international oil companies for exploration. Discovery of the new, massive oilfields in the area stimulated an influx of foreign investments. It also provoked a short-term peaceful territorial dispute with Romania which was resolved in 2011 by an international court redefining the exclusive economic zones between the two countries.
 
 Holiday resorts and spas
-
-Cities_of_the_Black_Sea.png
 
 In the years following the end of the Cold War, the popularity of the Black Sea as a tourist destination steadily increased. Tourism at Black Sea resorts became one of the region's growth industries.[87] The following is a list of notable Black Sea resort towns:
 
@@ -399,7 +395,7 @@ In the years following the end of the Cold War, the popularity of the Black Sea 
 -   Yalta (Crimea, Ukraine/Russia (disputed))
 -   Zonguldak (Turkey)
 
-USS_Yorktown_collision.jpg'' (right) bumping the USS _Yorktown_ during the 1988 Black Sea bumping incident.]] Boat_U170_Skadovsk_2012_G1.jpg artillery boat U170 in the Bay of Sevastopol]]
+'' (right) bumping the USS _Yorktown_ during the 1988 Black Sea bumping incident.]] artillery boat U170 in the Bay of Sevastopol]]
 
 Modern military use
 

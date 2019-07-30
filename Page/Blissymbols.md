@@ -45,13 +45,10 @@ The grammar of Blissymbols is based on a certain interpretation of nature, divid
 
 Examples
 
-Blissymbolics.svg
-
 The symbol above represents the expression "world language", which was a first tentative name for Blissymbols. It combines the symbol for "writing tool" or "pen" (a line inclined, as a pen being used) with the symbol for "world", which in its turn combines "ground" or "earth" (a horizontal line below) and its counterpart derivate "sky" (a horizontal line above). Thus the world would be seen as "what is among the ground and the sky", and "Blissymbols" would be seen as "the writing tool to express the world". This is clearly distinct from the symbol of "language", which is a combination of "mouth" and "ear". Thus natural languages are mainly oral, while Blissymbols is just a writing system dealing with semantics, not phonetics.
 
 The 900 individual symbols of the system are called "Bliss-characters"; these may be "ideographic" – representing abstract concepts, "pictographic" – a direct representation of objects, or "composite" – in which two or more existing Bliss-characters have been superimposed to represent a new meaning. Size, orientation and relation to the "skyline" and "earthline" affects the meaning of each symbol.[19] A single concept is called a "Bliss-word", which can consist of one or more Bliss-characters. In the case of multiple character Bliss-words, the main character is called the "classifier" which "indicates the semantic or grammatical category to which the Bliss-word belongs". To this can be added Bliss-characters as prefixes or suffixes called "modifiers" which amend the meaning of the first symbol. A further symbol, called an "indicator" can be added adjacent to the Bliss-word; these are used as "grammatical and/or semantic markers."[20]
 
-"I want to go to the cinema." in blissymbols
 This sentence means "I want to go to the cinema." This example shows several features of Blissymbolics:
 
 -   The pronoun "I" is formed of the Bliss-character for "person" and the number 1 (the first person). Using the number 2 would give the symbol for singular "You"; adding the plural indicator (a small cross at the top) would produce the pronouns "We" and plural "You".

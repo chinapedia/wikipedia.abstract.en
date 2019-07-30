@@ -5,8 +5,6 @@ Offices
 
 |Lieutenant Governor |Vice Admiral Ian Corder CB | |2016 |- |Bailiff | Sir Richard Collas | |23 March 2012 |- |President of Policy and Resources Committee | Deputy Gavin St Pier | |4 May 2016[1] |}
 
-Lieutenant_Governor_and_Bailiff_of_Guernsey.jpg
-
 The Lieutenant Governor is the appointed unelected representative of "the Crown in right of the _république_ of the Bailiwick of Guernsey".[2] The official residence of the Lieutenant Governor is Government House, Queens Road, St Peter Port. From 15 April 2011, the incumbent had been Peter Walker until his death on 6 September 2015.
 
 The Bailiff is the first civil officer in the Bailiwick of Guernsey, serving as president of the legislature and the Royal Court. The Bailiff is appointed by the Crown, and generally holds office until retirement age (65). He presides at the Royal Court, and takes the opinions of the _Jurats_, elected lay judges; he also presides over States meetings, and represents the Crown in all civil matters.

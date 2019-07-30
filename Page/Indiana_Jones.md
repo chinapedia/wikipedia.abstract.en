@@ -30,7 +30,7 @@ In March 2016, Disney announced a fifth _Indiana Jones_ film in development, wit
 
 Attractions
 
-Hollywood_Studios_-_Indy_and_the_idol_-_by_hyku.jpg Indiana Jones is featured at several Walt Disney theme park attractions. The Indiana Jones Adventure attractions at Disneyland and Tokyo DisneySea ("Temple of the Forbidden Eye" and "Temple of the Crystal Skull," respectively) place Indy at the forefront of two similar archaeological discoveries. These two temples each contain a wrathful deity who threatens the guests who ride through in World War II troop transports. The attractions, some of the most expensive of their kind at the time,[13] opened in 1995[14] and 2001,[15][16] respectively, with sole design credit attributed to Walt Disney Imagineering. Disney did not originally license Harrison Ford's likeness for the American version; nonetheless, a differentiated Indiana Jones audio-animatronic character appears at three points in both attractions. However, the Indiana Jones featured in the DisneySea version does use Harrison Ford's likeness but uses Japanese audio for all of his speaking parts. In 2010, some of the Indy audio-animatronics at the Disneyland version were replaced with ones resembling Ford.[17]
+Indiana Jones is featured at several Walt Disney theme park attractions. The Indiana Jones Adventure attractions at Disneyland and Tokyo DisneySea ("Temple of the Forbidden Eye" and "Temple of the Crystal Skull," respectively) place Indy at the forefront of two similar archaeological discoveries. These two temples each contain a wrathful deity who threatens the guests who ride through in World War II troop transports. The attractions, some of the most expensive of their kind at the time,[13] opened in 1995[14] and 2001,[15][16] respectively, with sole design credit attributed to Walt Disney Imagineering. Disney did not originally license Harrison Ford's likeness for the American version; nonetheless, a differentiated Indiana Jones audio-animatronic character appears at three points in both attractions. However, the Indiana Jones featured in the DisneySea version does use Harrison Ford's likeness but uses Japanese audio for all of his speaking parts. In 2010, some of the Indy audio-animatronics at the Disneyland version were replaced with ones resembling Ford.[17]
 
 Disneyland Paris also features an Indiana Jones-titled ride where people speed off through ancient ruins in a runaway mine wagon similar to that found in _Indiana Jones and the Temple of Doom_. _Indiana Jones and the Temple of Peril_ is a looping roller coaster engineered by Intamin, designed by Walt Disney Imagineering, and opened in 1993.
 
@@ -70,7 +70,7 @@ From February 1991 through February 1999, twelve original Indiana Jones-themed a
 
 Television
 
-From 1992 to 1996, George Lucas executive-produced a television series named _The Young Indiana Jones Chronicles_, aimed mainly at teenagers and children, which showed many of the important events and historical figures of the early 20th century through the prism of Indiana Jones' life. Sean_Patrick_Flanery,_The_Young_Indiana_Jones_Chronicles.jpg
+From 1992 to 1996, George Lucas executive-produced a television series named _The Young Indiana Jones Chronicles_, aimed mainly at teenagers and children, which showed many of the important events and historical figures of the early 20th century through the prism of Indiana Jones' life.
 
 The show initially featured the formula of an elderly (93 to 94 years of age) Indiana Jones played by George Hall introducing a story from his youth by way of an anecdote: the main part of the episode then featured an adventure with either a young adult Indy (16 to 21 years of age) played by Sean Patrick Flanery or a child Indy (8 to 11 years) played by Corey Carrier. One episode, "Young Indiana Jones and the Mystery of the Blues", is bookended by Harrison Ford as Indiana Jones, rather than Hall. Later episodes and telemovies did not have this bookend format.
 
@@ -97,7 +97,7 @@ Social gaming company Zynga introduced Indiana Jones to their "Adventure World" 
 
 Character description and formation
 
-Indianajones4.jpg as the mature Jones in _Indiana Jones and the Kingdom of the Crystal Skull_ (2008).]]
+as the mature Jones in _Indiana Jones and the Kingdom of the Crystal Skull_ (2008).]]
 
 "Indiana" Jones's full name is Dr. Henry Walton Jones Jr.,[25] and his nickname is often shortened to "Indy".
 
@@ -184,7 +184,7 @@ Archeologist Anne Pyburn described the influence of Indiana Jones as elitist and
 
 Fandom
 
-Fan_Expo_Canada_2016_Indiana_Jones_IMG_0190.jpg 2016 in Toronto.]] While himself an homage to various prior adventurers, aspects of Indiana Jones also directly influenced some subsequent characterizations:
+2016 in Toronto.]] While himself an homage to various prior adventurers, aspects of Indiana Jones also directly influenced some subsequent characterizations:
 
 -   Lara Croft, the female archaeologist of the _Tomb Raider_ series, was originally designed as a man but was changed to a woman, partly because the developers felt the original design was too similar to Indiana Jones.[103] Paramount Pictures, which distributed the Indiana Jones film series, would later make two films based on the _Tomb Raider_ games.
 -   The producer of the _Prince of Persia_ (2008) video game, Ben Mattes, explained that its "inspiration was anything Harrison Ford has ever done: Indiana Jones, Han Solo."[104]

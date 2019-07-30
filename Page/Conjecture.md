@@ -1,4 +1,4 @@
-RiemannCriticalLine.svg, a famous conjecture, says that all non-trivial zeros of the zeta function lie along the critical line.]]
+, a famous conjecture, says that all non-trivial zeros of the zeta function lie along the critical line.]]
 
 In mathematics, a CONJECTURE is a conclusion or proposition based on incomplete information, for which no proof or disproof has yet been found.[1][2] Conjectures such as the Riemann hypothesis (still a conjecture) or Fermat's Last Theorem (which was a conjecture until proven in 1995 by Andrew Wiles) have shaped much of mathematical history as new areas of mathematics are developed in order to prove them.
 
@@ -12,8 +12,6 @@ In number theory, Fermat's Last Theorem (sometimes called FERMAT'S CONJECTURE, e
 This theorem was first conjectured by Pierre de Fermat in 1637 in the margin of a copy of _Arithmetica_ where he claimed he had a proof that was too large to fit in the margin.[3] The first successful proof was released in 1994 by Andrew Wiles, and formally published in 1995, after 358 years of effort by mathematicians. The unsolved problem stimulated the development of algebraic number theory in the 19th century and the proof of the modularity theorem in the 20th century. It is among the most notable theorems in the history of mathematics and prior to its proof it was in the _Guinness Book of World Records_ for "most difficult mathematical problems".
 
 Four color theorem
-
-Map_of_United_States_vivid_colors_shown.png
 
 In mathematics, the four color theorem, or the four color map theorem, states that, given any separation of a plane into contiguous regions, producing a figure called a _map_, no more than four colors are required to color the regions of the map so that no two adjacent regions have the same color. Two regions are called _adjacent_ if they share a common boundary that is not a corner, where corners are the points shared by three or more regions.[4] For example, in the map of the United States of America, Utah and Arizona are adjacent, but Utah and New Mexico, which only share a point that also belongs to Arizona and Colorado, are not.
 

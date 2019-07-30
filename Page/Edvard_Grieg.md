@@ -5,7 +5,7 @@ Grieg is the most celebrated person from the city of Bergen, with numerous statu
 
 Background
 
-Ingebrigt_Vik-Edvard_Grieg-Bergen.jpg in Bergen]] Eilif_Peterssen-Edvard_Grieg_1891.jpg]] Edvard Hagerup Grieg was born in Bergen, Norway. His parents were Alexander Grieg (1806–1875), a merchant and vice-consul in Bergen; and Gesine Judithe Hagerup (1814–1875), a music teacher and daughter of solicitor and politician Edvard Hagerup.[6][7] The family name, originally spelled Greig, is associated with the Scottish Clann Ghriogair (Clan Gregor). After the Battle of Culloden in 1746, Grieg's great-grandfather, Alexander Greig,[8] travelled widely, settling in Norway about 1770, and establishing business interests in Bergen.
+in Bergen]] ]] Edvard Hagerup Grieg was born in Bergen, Norway. His parents were Alexander Grieg (1806–1875), a merchant and vice-consul in Bergen; and Gesine Judithe Hagerup (1814–1875), a music teacher and daughter of solicitor and politician Edvard Hagerup.[6][7] The family name, originally spelled Greig, is associated with the Scottish Clann Ghriogair (Clan Gregor). After the Battle of Culloden in 1746, Grieg's great-grandfather, Alexander Greig,[8] travelled widely, settling in Norway about 1770, and establishing business interests in Bergen.
 
 Edvard Grieg was raised in a musical family. His mother was his first piano teacher and taught him to play at the age of six. Grieg studied in several schools, including Tanks Upper Secondary School.[9]
 
@@ -18,7 +18,7 @@ Career
 
 In 1861, Grieg made his debut as a concert pianist in Karlshamn, Sweden. In 1862, he finished his studies in Leipzig and held his first concert in his home town,[15] where his programme included Beethoven's _Pathétique_ sonata.
 
-Edvard_en_Nina_Grieg_1899.jpg (Grieg's wife and first cousin) in 1899]] In 1863, Grieg went to Copenhagen, Denmark, and stayed there for three years. He met the Danish composers J. P. E. Hartmann and Niels Gade. He also met his fellow Norwegian composer Rikard Nordraak (composer of the Norwegian national anthem), who became a good friend and source of inspiration. Nordraak died in 1866, and Grieg composed a funeral march in his honor.[16]
+(Grieg's wife and first cousin) in 1899]] In 1863, Grieg went to Copenhagen, Denmark, and stayed there for three years. He met the Danish composers J. P. E. Hartmann and Niels Gade. He also met his fellow Norwegian composer Rikard Nordraak (composer of the Norwegian national anthem), who became a good friend and source of inspiration. Nordraak died in 1866, and Grieg composed a funeral march in his honor.[16]
 
 On 11 June 1867, Grieg married his first cousin, Nina Hagerup (1845–1935), a lyric soprano. The next year, their only child, Alexandra, was born. Alexandra died in 1869 from meningitis. In the summer of 1868, Grieg wrote his Piano Concerto in A minor while on holiday in Denmark. Edmund Neupert gave the concerto its premiere performance on 3 April 1869 in the Casino Theatre in Copenhagen. Grieg himself was unable to be there due to conducting commitments in Christiania (now Oslo).[17]
 
@@ -34,7 +34,7 @@ Grieg was awarded two honorary doctorates, first by the University of Cambridge 
 
 Later years
 
-Troldhaugen_in_Bergen.jpg]] The Norwegian government provided Grieg with a pension as he reached retirement age. In the spring of 1903, Grieg made nine 78-rpm gramophone recordings of his piano music in Paris; all of these historic discs have been reissued on both LPs and CDs, despite limited fidelity. Grieg also made live-recording player piano music rolls for the Hupfeld Phonola piano-player system and Welte-Mignon reproducing system, all of which survive today and can be heard. He also worked with the Aeolian Company for its 'Autograph Metrostyle' piano roll series wherein he indicated the tempo mapping for many of his pieces.
+]] The Norwegian government provided Grieg with a pension as he reached retirement age. In the spring of 1903, Grieg made nine 78-rpm gramophone recordings of his piano music in Paris; all of these historic discs have been reissued on both LPs and CDs, despite limited fidelity. Grieg also made live-recording player piano music rolls for the Hupfeld Phonola piano-player system and Welte-Mignon reproducing system, all of which survive today and can be heard. He also worked with the Aeolian Company for its 'Autograph Metrostyle' piano roll series wherein he indicated the tempo mapping for many of his pieces.
 
 In 1899, Grieg cancelled his concerts in France in protest of the Dreyfus Affair, an anti-semitic scandal that was then roiling French politics. Regarding this scandal, Grieg had written that he hoped that the French might, "Soon return to the spirit of 1789, when the French republic declared that it would defend basic human rights." As a result of his position on the affair, he became the target of much French hate mail of that day.[23][24]
 

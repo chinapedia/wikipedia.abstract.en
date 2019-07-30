@@ -231,7 +231,7 @@ In any case, Trinley Gyatso died within three years of assuming power. In 1873, 
 
 13th Dalai Lama
 
-Throne_awaiting_Dalai_Lama's_return._Summer_residence_Nechung._1993.JPG, Tibet.]]
+, Tibet.]]
 
 The 13th Dalai Lama assumed ruling power from the monasteries, which previously had great influence on the Regent, in 1895. Due to his two periods of exile in 1904–1909 to escape the British invasion of 1904, and from 1910 to 1912 to escape a Chinese invasion, he became well aware of the complexities of international politics and was the first Dalai Lama to become aware of the importance of foreign relations. After his return from exile in India and Sikkim during January 1913, he assumed control of foreign relations and dealt directly with the Maharaja, with the British Political officer in Sikkim and with the king of Nepal – rather than letting the Kashag or parliament do it.
 
@@ -263,7 +263,7 @@ File:Potala.jpg|Potala Palace File:Norbulinka. August, 1993.JPG|Norbulingka
 
 Searching for the reincarnation
 
-DLHaus.jpg in Amdo]] Palden_Lhamo,_Tawang_Monastery.jpg, the female guardian spirit of the sacred lake, Lhamo La-tso, who promised Gendun Drup the 1st Dalai Lama in one of his visions that "she would protect the 'reincarnation' lineage of the Dalai Lamas"]]
+in Amdo]] , the female guardian spirit of the sacred lake, Lhamo La-tso, who promised Gendun Drup the 1st Dalai Lama in one of his visions that "she would protect the 'reincarnation' lineage of the Dalai Lamas"]]
 
 By the Himalayan tradition, _phowa_ is the discipline that is believed to transfer the mindstream to the intended body. Upon the death of the Dalai Lama and consultation with the Nechung Oracle, a search for the Lama's _yangsi_, or reincarnation, is conducted. Traditionally, it has been the responsibility of the High Lamas of the Gelugpa tradition and the Tibetan government to find a person accepted as his reincarnation. The process can take around two or three years to identify the Dalai Lama, and for the 14th, Tenzin Gyatso, it was four years before he was found. Historically, the search for the Dalai Lama has usually been limited to Tibet, though the third tulku was born in Mongolia. Tenzin Gyatso, however, has stated that he will not be reborn in the People's Republic of China, though he has also suggested he may not be reborn at all, suggesting the function of the Dalai Lama may be outdated.[347] The government of the People's Republic of China has stated its intention to be the ultimate authority on the selection of the next Dalai Lama.[348]
 
@@ -285,58 +285,58 @@ List of Dalai Lamas
 
 There have been 14 recognised incarnations of the Dalai Lama:
 
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-|    | Name                   | Picture                                | Lifespan  | Recognised | Enthronement         | Tibetan/Wylie               | Tibetan pinyin/Chinese | Alternative spellings        |
-+====+========================+========================================+===========+============+======================+=============================+========================+==============================+
-| 1  | Gendun Drup            | 1stDalaiLama.jpg                       | 1391–1474 | –          | N/A[359]             | _dge 'dun 'grub_            | Gêdün Chub             | Gedun Drub                   |
-|    |                        |                                        |           |            |                      |                             | 根敦朱巴               | Gedün Drup                   |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 2  | Gendun Gyatso          | 2ndDalaiLama.jpg                       | 1475–1542 | 1483       | 1487                 | _dge 'dun rgya mtsho_       | Gêdün Gyaco            | Gedün Gyatso                 |
-|    |                        |                                        |           |            |                      |                             | 根敦嘉措               | Gendün Gyatso                |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 3  | Sonam Gyatso           | 3rdDalaiLama2.jpg                      | 1543–1588 | 1546       | 1578                 | _bsod nams rgya mtsho_      | Soinam Gyaco           | Sönam Gyatso                 |
-|    |                        |                                        |           |            |                      |                             | 索南嘉措               |                              |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 4  | Yonten Gyatso          | 4thDalaiLama.jpg                       | 1589–1617 | 1601       | 1603                 | _yon tan rgya mtsho_        | Yoindain Gyaco         | Yontan Gyatso, Yönden Gyatso |
-|    |                        |                                        |           |            |                      |                             | 雲丹嘉措               |                              |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 5  | Ngawang Lobsang Gyatso | 5thDalaiLama.jpg                       | 1617–1682 | 1618       | 1622                 | _blo bzang rgya mtsho_      | Lobsang Gyaco          | Lobzang Gyatso               |
-|    |                        |                                        |           |            |                      |                             | 羅桑嘉措               | Lopsang Gyatso               |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 6  | Tsangyang Gyatso       | 6thDalaiLama.jpg                       | 1683–1706 | 1688       | 1697                 | _tshang dbyangs rgya mtsho_ | Cangyang Gyaco         | Tsañyang Gyatso              |
-|    |                        |                                        |           |            |                      |                             | 倉央嘉措               |                              |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 7  | Kelzang Gyatso         | 7thDalaiLama.jpg                       | 1707–1757 | 1712       | 1720                 | _bskal bzang rgya mtsho_    | Gaisang Gyaco          | Kelsang Gyatso               |
-|    |                        |                                        |           |            |                      |                             | 格桑嘉措               | Kalsang Gyatso               |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 8  | Jamphel Gyatso         | 8thDalaiLama.jpg                       | 1758–1804 | 1760       | 1762                 | _byams spel rgya mtsho_     | Qambê Gyaco            | Jampel Gyatso                |
-|    |                        |                                        |           |            |                      |                             | 強白嘉措               | Jampal Gyatso                |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 9  | Lungtok Gyatso         | 9thDalaiLama.jpg                       | 1805–1815 | 1807       | 1808                 | _lung rtogs rgya mtsho_     | Lungdog Gyaco          | Lungtog Gyatso               |
-|    |                        |                                        |           |            |                      |                             | 隆朵嘉措               |                              |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 10 | Tsultrim Gyatso        | 10thDalaiLama.jpg                      | 1816–1837 | 1822       | 1822                 | _tshul khrim rgya mtsho_    | Cüchim Gyaco           | Tshültrim Gyatso             |
-|    |                        |                                        |           |            |                      |                             | 楚臣嘉措               |                              |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 11 | Khendrup Gyatso        | 11thDalaiLama.jpg                      | 1838–1856 | 1841       | 1842                 | _mkhas grub rgya mtsho_     | Kaichub Gyaco          | Kedrub Gyatso                |
-|    |                        |                                        |           |            |                      |                             | 凱珠嘉措               |                              |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 12 | Trinley Gyatso         |                                        | 1857–1875 | 1858       | 1860                 | _'phrin las rgya mtsho_     | Chinlai Gyaco          | Trinle Gyatso                |
-|    |                        |                                        |           |            |                      |                             | 成烈嘉措               |                              |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 13 | Thubten Gyatso         | 13th_Dalai_Lama_Thubten_Gyatso.jpg     | 1876–1933 | 1878       | 1879                 | _thub bstan rgya mtsho_     | Tubdain Gyaco          | Thubtan Gyatso               |
-|    |                        |                                        |           |            |                      |                             | 土登嘉措               | Thupten Gyatso               |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
-| 14 | Tenzin Gyatso          | Dalai_Lama_at_WhiteHouse_(cropped).jpg | born 1935 | 1939[360]  | 1940[361]            | _bstan 'dzin rgya mtsho_    | Dainzin Gyaco          | Tenzin Gyatso                |
-|    |                        |                                        |           |            | (currently in exile) |                             | 丹增嘉措               |                              |
-+----+------------------------+----------------------------------------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+|    | Name                   | Picture | Lifespan  | Recognised | Enthronement         | Tibetan/Wylie               | Tibetan pinyin/Chinese | Alternative spellings        |
++====+========================+=========+===========+============+======================+=============================+========================+==============================+
+| 1  | Gendun Drup            |         | 1391–1474 | –          | N/A[359]             | _dge 'dun 'grub_            | Gêdün Chub             | Gedun Drub                   |
+|    |                        |         |           |            |                      |                             | 根敦朱巴               | Gedün Drup                   |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 2  | Gendun Gyatso          |         | 1475–1542 | 1483       | 1487                 | _dge 'dun rgya mtsho_       | Gêdün Gyaco            | Gedün Gyatso                 |
+|    |                        |         |           |            |                      |                             | 根敦嘉措               | Gendün Gyatso                |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 3  | Sonam Gyatso           |         | 1543–1588 | 1546       | 1578                 | _bsod nams rgya mtsho_      | Soinam Gyaco           | Sönam Gyatso                 |
+|    |                        |         |           |            |                      |                             | 索南嘉措               |                              |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 4  | Yonten Gyatso          |         | 1589–1617 | 1601       | 1603                 | _yon tan rgya mtsho_        | Yoindain Gyaco         | Yontan Gyatso, Yönden Gyatso |
+|    |                        |         |           |            |                      |                             | 雲丹嘉措               |                              |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 5  | Ngawang Lobsang Gyatso |         | 1617–1682 | 1618       | 1622                 | _blo bzang rgya mtsho_      | Lobsang Gyaco          | Lobzang Gyatso               |
+|    |                        |         |           |            |                      |                             | 羅桑嘉措               | Lopsang Gyatso               |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 6  | Tsangyang Gyatso       |         | 1683–1706 | 1688       | 1697                 | _tshang dbyangs rgya mtsho_ | Cangyang Gyaco         | Tsañyang Gyatso              |
+|    |                        |         |           |            |                      |                             | 倉央嘉措               |                              |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 7  | Kelzang Gyatso         |         | 1707–1757 | 1712       | 1720                 | _bskal bzang rgya mtsho_    | Gaisang Gyaco          | Kelsang Gyatso               |
+|    |                        |         |           |            |                      |                             | 格桑嘉措               | Kalsang Gyatso               |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 8  | Jamphel Gyatso         |         | 1758–1804 | 1760       | 1762                 | _byams spel rgya mtsho_     | Qambê Gyaco            | Jampel Gyatso                |
+|    |                        |         |           |            |                      |                             | 強白嘉措               | Jampal Gyatso                |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 9  | Lungtok Gyatso         |         | 1805–1815 | 1807       | 1808                 | _lung rtogs rgya mtsho_     | Lungdog Gyaco          | Lungtog Gyatso               |
+|    |                        |         |           |            |                      |                             | 隆朵嘉措               |                              |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 10 | Tsultrim Gyatso        |         | 1816–1837 | 1822       | 1822                 | _tshul khrim rgya mtsho_    | Cüchim Gyaco           | Tshültrim Gyatso             |
+|    |                        |         |           |            |                      |                             | 楚臣嘉措               |                              |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 11 | Khendrup Gyatso        |         | 1838–1856 | 1841       | 1842                 | _mkhas grub rgya mtsho_     | Kaichub Gyaco          | Kedrub Gyatso                |
+|    |                        |         |           |            |                      |                             | 凱珠嘉措               |                              |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 12 | Trinley Gyatso         |         | 1857–1875 | 1858       | 1860                 | _'phrin las rgya mtsho_     | Chinlai Gyaco          | Trinle Gyatso                |
+|    |                        |         |           |            |                      |                             | 成烈嘉措               |                              |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 13 | Thubten Gyatso         |         | 1876–1933 | 1878       | 1879                 | _thub bstan rgya mtsho_     | Tubdain Gyaco          | Thubtan Gyatso               |
+|    |                        |         |           |            |                      |                             | 土登嘉措               | Thupten Gyatso               |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
+| 14 | Tenzin Gyatso          |         | born 1935 | 1939[360]  | 1940[361]            | _bstan 'dzin rgya mtsho_    | Dainzin Gyaco          | Tenzin Gyatso                |
+|    |                        |         |           |            | (currently in exile) |                             | 丹增嘉措               |                              |
++----+------------------------+---------+-----------+------------+----------------------+-----------------------------+------------------------+------------------------------+
 
 There has also been one non-recognised Dalai Lama, Ngawang Yeshe Gyatso, declared 28 June 1707, when he was 25 years old, by Lha-bzang Khan as the "true" 6th Dalai Lama – however, he was never accepted as such by the majority of the population.[362][363][364]
 
 
 Future of the position
 
-Dalai_lama_teaching_room.jpg, India]] DalaiLama0054_tiny.jpg
+, India]]
 
 The government of the People's Republic of China (PRC) has claimed the power to approve the naming of "high" reincarnations in Tibet, based on a precedent set by the Qianlong Emperor of the Qing dynasty.[365] The Qianlong Emperor instituted a system of selecting the Dalai Lama and the Panchen Lama by a lottery that used a Golden Urn with names wrapped in clumps of barley. This method was used a few times for both positions during the 19th century, but eventually fell into disuse.[366][367] In 1995, the Dalai Lama chose to proceed with the selection of the 11th reincarnation of the Panchen Lama without the use of the Golden Urn, while the Chinese government insisted that it must be used. This has led to two rival Panchen Lamas: Gyaincain Norbu as chosen by the Chinese government's process, and Gedhun Choekyi Nyima as chosen by the Dalai Lama.
 

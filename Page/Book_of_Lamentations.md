@@ -5,7 +5,7 @@ The book is traditionally recited on the fast day of Tisha B'Av ("Ninth of Av"),
 
 Structure
 
-Rembrandt_Harmensz._van_Rijn_-_Jeremia_treurend_over_de_verwoesting_van_Jeruzalem_-_Google_Art_Project.jpg)]]
+)]]
 
 Lamentations consists of five distinct poems, corresponding to its five chapters. The first four are written as acrostics – chapters 1, 2, and 4 each have 22 verses, corresponding to the 22 letters of the Hebrew alphabet, the first lines beginning with the first letter of the alphabet, the second with the second letter, and so on. Chapter 3 has 66 verses, so that each letter begins three lines, and the fifth poem is not acrostic but still has 22 lines. The purpose or function of this form is unknown.
 
@@ -19,7 +19,7 @@ The book consists of five separate poems. In the first (chapter 1), the city sit
 
 Composition
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_141.png]] Lamentations has traditionally been ascribed to Jeremiah, probably on the grounds of the reference in 2 Chronicles 35:25 to the prophet composing a lament on the death of King Josiah, but there is no reference to Josiah in the book and no reason to connect it to Jeremiah. The language fits an Exilic date (586–520 BCE), and the poems probably originated from Judeans who remained in the land. Scholars are divided over whether they are the work of one or multiple authors. One clue pointing to multiple authors is that the gender and situation of the first-person witness changes – the narration is feminine in the first and second lamentation, and masculine in the third, while the fourth and fifth are eyewitness reports of Jerusalem's destruction; conversely, the similarities of style, vocabulary, and theological outlook, as well as the uniform historical setting, are arguments for one author.[1]
+]] Lamentations has traditionally been ascribed to Jeremiah, probably on the grounds of the reference in 2 Chronicles 35:25 to the prophet composing a lament on the death of King Josiah, but there is no reference to Josiah in the book and no reason to connect it to Jeremiah. The language fits an Exilic date (586–520 BCE), and the poems probably originated from Judeans who remained in the land. Scholars are divided over whether they are the work of one or multiple authors. One clue pointing to multiple authors is that the gender and situation of the first-person witness changes – the narration is feminine in the first and second lamentation, and masculine in the third, while the fourth and fifth are eyewitness reports of Jerusalem's destruction; conversely, the similarities of style, vocabulary, and theological outlook, as well as the uniform historical setting, are arguments for one author.[1]
 
 
 Themes

@@ -20,14 +20,12 @@ The word can be informally[10] shortened to "hetero".[11] The term _straight_ or
 
 Symbolism
 
-HeteroSym-pinkblue.svg
-
 Heterosexual symbolism dates back to the earliest artifacts of humanity, with gender symbols, ritual fertility carvings, and primitive art. This was later expressed in the symbolism of fertility rites and polytheistic worship, which often included images of human reproductive organs, such as lingam in Hinduism. Modern symbols of heterosexuality in societies derived from European traditions still reference symbols used in these ancient beliefs. One such image is a combination of the symbol for Mars, the Roman god of war, as the definitive male symbol of masculinity, and Venus, the Roman goddess of love and beauty, as the definitive female symbol of femininity. The unicode character for this combined symbol is ⚤ (U+26A4).
 
 
 History
 
-52-aspetti_di_vita_quotidiana,_amore,Taccuino_Sanitatis,_Cas.jpg'', a medieval handbook on wellness.]]
+'', a medieval handbook on wellness.]]
 
 
 Religious aspects
@@ -84,8 +82,6 @@ Reproductive sex does not necessarily require a heterosexual orientation, since 
 
 Behavioral studies
 
-Trash_the_dress_-_Wetlook_in_wedding_clothes_-_Heterosexual_couple_in_sea.jpg
-
 According to _Sexual Behavior in the Human Male_ by Alfred Kinsey and several other modern studies, significant minorities of humans have had both heterosexual and homosexual experiences or sensations.
 
 Other studies have disputed Kinsey's methodology. "His figures were undermined when it was revealed that he had disproportionately interviewed homosexuals and prisoners (many sex offenders)."[46][47]
@@ -122,7 +118,7 @@ No major mental health professional organization has sanctioned efforts to chang
 
 Social and historical
 
-Just_a_touch_is_all_I_need.jpg Since the 1960s and 1970s, a large body of research has provided evidence and analysis of the extent to which heterosexuality and homosexuality are socially organized and historically changing.[76] This work challenges the assumption that heterosexuality, homosexuality, and sexualities of all varieties, can be understood as primarily biological and psychological phenomena.
+Since the 1960s and 1970s, a large body of research has provided evidence and analysis of the extent to which heterosexuality and homosexuality are socially organized and historically changing.[76] This work challenges the assumption that heterosexuality, homosexuality, and sexualities of all varieties, can be understood as primarily biological and psychological phenomena.
 
 A heterosexual couple, a man and woman in an intimate relationship, form the core of a nuclear family.[77] Many societies throughout history have insisted that a marriage take place before the couple settle down, but enforcement of this rule or compliance with it has varied considerably. In some jurisdictions, when an unmarried man and woman live together long enough, they are deemed to have established a common-law marriage.
 
@@ -132,8 +128,6 @@ There was no real need to coin a term such as "heterosexual" until there was som
 
 
 Heteronormativity and heterosexism
-
-Man-and-woman-icon.svg
 
 Heteronormativity denotes or relates to a world view that promotes heterosexuality as the normal or preferred sexual orientation for people to have. It can assign strict gender roles to males and females. The term was popularized by Michael Warner in 1991.[83] Many gender and sexuality scholars argue that compulsory heterosexuality, a continual and repeating reassertion of heterosexual norms, is facet of heterosexism.[84] Compulsory heterosexuality is the idea that female heterosexuality is both assumed and enforced by a patriarchal society. Heterosexuality is then viewed as the natural inclination or obligation by both sexes. Consequently, anyone who differs from the normalcy of heterosexuality is deemed deviant or abhorrent.[85]
 

@@ -1,4 +1,4 @@
-Endosymbiosis.PNG]]
+]]
 
 An ENDOSYMBIONT or ENDOBIONT[1] is any organism that lives within the body or cells of another organism in a mutualistic relationship with the host body or cell, often but not always to mutual benefit. The term ENDOSYMBIOSIS is from the Greek: ἔνδον _endon_ "within", σύν _syn_ "together" and βίωσις _biosis_ "living"). Examples are nitrogen-fixing bacteria (called rhizobia), which live in root nodules on legume roots, single-cell algae inside reef-building corals, and bacterial endosymbionts that provide essential nutrients to about 10–15% of insects.
 
@@ -84,7 +84,7 @@ The human genome project found several thousand endogenous retroviruses, endogen
 
 Symbiogenesis and organelles
 
-Endosymbiotic_theory.svg Symbiogenesis explains the origins of eukaryotes, whose cells contain two major kinds of organelle, mitochondria and chloroplasts. The theory proposes that these organelles evolved from certain types of bacteria that eukaryotic cells engulfed through endophagocytosis. These cells and the bacteria trapped inside them entered an endosymbiotic relationship, meaning that the bacteria lived within the eukaryotic cells.[55]
+Symbiogenesis explains the origins of eukaryotes, whose cells contain two major kinds of organelle, mitochondria and chloroplasts. The theory proposes that these organelles evolved from certain types of bacteria that eukaryotic cells engulfed through endophagocytosis. These cells and the bacteria trapped inside them entered an endosymbiotic relationship, meaning that the bacteria lived within the eukaryotic cells.[55]
 
 
 See also

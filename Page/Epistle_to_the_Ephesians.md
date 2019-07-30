@@ -73,7 +73,7 @@ The following parallels between this epistle and the Milesian charge may be trac
 
 Purpose
 
-The purpose of the epistle, and to whom it was written, are matters of much speculation.[29] It was regarded by C.H. Dodd as the "crown of Paulinism."[30] In general, it is born out of its particular socio-historical context and the situational context of both the author and the audience. Originating in the circumstance of a multicultural church (primarily Jewish and Hellenistic), the author addressed issues appropriate to the diverse religious and cultural backgrounds present in the community. Ein_Herr_Ein_Glaube_Eine_Taufe.jpg
+The purpose of the epistle, and to whom it was written, are matters of much speculation.[29] It was regarded by C.H. Dodd as the "crown of Paulinism."[30] In general, it is born out of its particular socio-historical context and the situational context of both the author and the audience. Originating in the circumstance of a multicultural church (primarily Jewish and Hellenistic), the author addressed issues appropriate to the diverse religious and cultural backgrounds present in the community.
 
 The author exhorts the church repeatedly to embrace a specific view of salvation, which he then explicates. It seems most likely that the author's Christology of sacrifice is the manner in which he intends to effect an environment of peace within the church. In short: "If Christ was sacrificed for your sake, be like him and be in submission to one another." The author addresses hostility, division, and self-interest more than any other topic in the letter, leading many scholars to believe that his primary concern was not doctrinal, but behavioral.
 

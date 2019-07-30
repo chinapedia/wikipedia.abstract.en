@@ -1,4 +1,4 @@
-Covalent_bond_hydrogen.svgs share the two electrons]]
+s share the two electrons]]
 
 A COVALENT BOND, also called a MOLECULAR BOND, is a chemical bond that involves the sharing of electron pairs between atoms. These electron pairs are known as SHARED PAIRS or BONDING PAIRS, and the stable balance of attractive and repulsive forces between atoms, when they share electrons, is known as covalent bonding.[1][2] For many molecules, the sharing of electrons allows each atom to attain the equivalent of a full outer shell, corresponding to a stable electronic configuration. In organic chemistry covalent bonds are much more common than ionic bonds.[3]
 
@@ -9,7 +9,7 @@ In the molecule , the hydrogen atoms share the two electrons via covalent bondin
 
 History
 
-covalent.svg. Covalent bonding is implied in the Lewis structure by indicating electrons shared between atoms.]]
+. Covalent bonding is implied in the Lewis structure by indicating electrons shared between atoms.]]
 
 The term _covalence_ in regard to bonding was first used in 1919 by Irving Langmuir in a _Journal of the American Chemical Society_ article entitled "The Arrangement of Electrons in Atoms and Molecules". Langmuir wrote that "we shall denote by the term _covalence_ the number of pairs of electrons that a given atom shares with its neighbors."[8]
 
@@ -34,7 +34,7 @@ There are several types of structures for covalent substances, including individ
 
 One- and three-electron bonds
 
-Graphical_comparison_of_bonds.svg and MO diagrams of an individual 2e bond and 3e bond]] Bonds with one or three electrons can be found in radical species, which have an odd number of electrons. The simplest example of a 1-electron bond is found in the dihydrogen cation, . One-electron bonds often have about half the bond energy of a 2-electron bond, and are therefore called "half bonds". However, there are exceptions: in the case of dilithium, the bond is actually stronger for the 1-electron than for the 2-electron Li₂. This exception can be explained in terms of hybridization and inner-shell effects.[12]
+and MO diagrams of an individual 2e bond and 3e bond]] Bonds with one or three electrons can be found in radical species, which have an odd number of electrons. The simplest example of a 1-electron bond is found in the dihydrogen cation, . One-electron bonds often have about half the bond energy of a 2-electron bond, and are therefore called "half bonds". However, there are exceptions: in the case of dilithium, the bond is actually stronger for the 1-electron than for the 2-electron Li₂. This exception can be explained in terms of hybridization and inner-shell effects.[12]
 
 The simplest example of three-electron bonding can be found in the helium dimer cation, . It is considered a "half bond" because it consists of only one shared electron (rather than two);[13] in molecular orbital terms, the third electron is in an anti-bonding orbital which cancels out half of the bond formed by the other two electrons. Another example of a molecule containing a 3-electron bond, in addition to two 2-electron bonds, is nitric oxide, NO. The oxygen molecule, O₂ can also be regarded as having two 3-electron bonds and one 2-electron bond, which accounts for its paramagnetism and its formal bond order of 2.[14] Chlorine dioxide and its heavier analogues bromine dioxide and iodine dioxide also contain three-electron bonds.
 
@@ -44,8 +44,6 @@ Molecules with odd-electron bonds are usually highly reactive. These types of bo
 Resonance
 
 There are situations whereby a single Lewis structure is insufficient to explain the electron configuration in a molecule, hence a superposition of structures are needed. The same two atoms in such molecules can be bonded differently in different structures (a single bond in one, a double bond in another, or even none at all), resulting in a non-integer bond order. The nitrate ion is one such example with three equivalent structures. The bond between the nitrogen and each oxygen is a double bond in one structure and a single bond in the other two, so that the average bond order for each N–O interaction is = .
-
-Nitrate-ion-resonance-2D.png
 
 Aromaticity
 

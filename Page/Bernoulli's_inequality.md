@@ -1,5 +1,3 @@
-Bernoulli_inequality.svg
-
 In real analysis, BERNOULLI'S INEQUALITY (named after Jacob Bernoulli) is an inequality that approximates exponentiations of 1 + _x_.
 
 The inequality states that

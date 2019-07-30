@@ -1,4 +1,4 @@
-Dublin_1.jpg Diesel Multiple Unit on a western commuter service at Connolly Rail Station.]]
+Diesel Multiple Unit on a western commuter service at Connolly Rail Station.]]
 
 A DIESEL MULTIPLE UNIT or DMU is a multiple-unit train powered by on-board diesel engines. A DMU requires no separate locomotive, as the engines are incorporated into one or more of the carriages. Diesel-powered single-unit railcars are also generally classed as DMUs. Diesel-powered units may be further classified by their transmission type: diesel–electric (DEMU), diesel–mechanical (DMMU) or diesel–hydraulic (DHMU).
 
@@ -56,17 +56,17 @@ In the early 1990s, luxury DMU series 7021 (ordered for Yugoslav Railways in 197
 
 Ireland
 
-IE_DMU_2751.JPG DMU 2751 at Limerick Colbert station, 2006]]
+DMU 2751 at Limerick Colbert station, 2006]]
 
 In the Republic of Ireland the Córas Iompair Éireann (CIÉ), which controlled the republic's railways between 1945 and 1986, introduced DMUs in the mid-1950s and they were the first diesel trains on many main lines.[3]
 
 Romania
 
-Motor_coach_CFR_77-0906-6.jpg DMU in Campulung Est in 2006]] DMUs are used mostly on shorter and less frequently travelled routes in remote and often poorer areas like Banat and Bukovina. The national railway company CFR uses Malaxa class 77 and 78 DMUs locally built between the 1920s and 50s and refurbished in the 70s. It also uses a smaller number of other newer DMUs. Main DMU in use is the Class 96 Siemens Desiro aka Săgeata Albastră (Blue Arrow).
+DMU in Campulung Est in 2006]] DMUs are used mostly on shorter and less frequently travelled routes in remote and often poorer areas like Banat and Bukovina. The national railway company CFR uses Malaxa class 77 and 78 DMUs locally built between the 1920s and 50s and refurbished in the 70s. It also uses a smaller number of other newer DMUs. Main DMU in use is the Class 96 Siemens Desiro aka Săgeata Albastră (Blue Arrow).
 
 United Kingdom
 
-222009_at_St_Pancras.jpg Class 222 at London St Pancras]] 170518_at_Peterborough.JPG Class 170 at Peterborough station]] The_12_-_52_to_Londonderry_leaves_Yorkgate_station_-_geograph.org.uk_-_2359652.jpg C3K at Yorkgate station]]
+Class 222 at London St Pancras]] Class 170 at Peterborough station]] C3K at Yorkgate station]]
 
 The first significant use of DMUs in the United Kingdom was by the Great Western Railway, which introduced its small but successful series of diesel–mechanical GWR railcars in 1934. The London and North Eastern Railway[4] and London, Midland and Scottish Railway also experimented with DMUs in the 1930s, the LMS both on its own system, and on that of its Northern Irish subsidiary, but development was curtailed by World War II.
 
@@ -104,7 +104,7 @@ North America
 
 Canada
 
-otrain.jpg Talent low-floor DMUs on the O-Train Trillium Line in Ottawa, Canada]]
+Talent low-floor DMUs on the O-Train Trillium Line in Ottawa, Canada]]
 
 Canada generally follows similar buffer strength requirements to the USA,[21] but new services are evaluated on a case-by-case basis. As a result, several types of lightweight DMUs have been used:
 
@@ -116,11 +116,11 @@ Canada generally follows similar buffer strength requirements to the USA,[21] bu
 
 Costa Rica
 
-Tren_urbano_de_Costa_Rica.jpg Costa Rica has purchased several Apolo 2400 series DMU railcars from the former narrow gauge operator in Spain, which are run in commuter service. [23]
+Costa Rica has purchased several Apolo 2400 series DMU railcars from the former narrow gauge operator in Spain, which are run in commuter service. [23]
 
 United States
 
-Budd_RDC.png RDC-1 #407 of the Cape May Seashore Lines, New Jersey]] A type of diesel multiple units in the U.S. was the Budd Rail Diesel Car (RDC). The RDC was a single passenger car with two diesel engines and two sets of controls.
+RDC-1 #407 of the Cape May Seashore Lines, New Jersey]] A type of diesel multiple units in the U.S. was the Budd Rail Diesel Car (RDC). The RDC was a single passenger car with two diesel engines and two sets of controls.
 
 In the United States only FRA-compliant DMU systems are permitted on freight rail corridors. This is due to the Federal Railway Administration setting higher coupling strength requirements than European regulators, effectively prohibiting the use of lighter weight European-style inter-city rail DMUs on U.S. main line railways without timesharing with freight operations or special waivers from the FRA. This has greatly restricted the development of DMUs within the U.S. as no other country requires the much heavier FRA compliant vehicles, and no export market for them exists.
 
@@ -153,7 +153,7 @@ Asia/Australasia
 
 Australia
 
-AdelaideRail_2.jpg 3000 class railcars operating in Adelaide, South Australia]]
+3000 class railcars operating in Adelaide, South Australia]]
 
 DMUs were first introduced to Australia in the late mid-20th century for use on quiet branch lines that could not justify a locomotive hauled service. Today, DMUs are widely used throughout Australia's southern states:
 
@@ -172,17 +172,15 @@ India
 
 DMUs (DEMUs) are widely used in India. DEMUs in India are used in both the 8 coach format and the 4 coach format. These trains replaced many (upto 10 car) trains with a WDM-2 or WDM-3A locomotive in the middle. These old trains had the loco controls duplicated in the Driving Trailer coach and all the actuation information reaching the locomotive through thin communication lines. This was called 'push-pull train'. The longest running such push-pull service operated between Diva - Bhiwandi Road and Vasai Road and was recently converted into an MEMU train service in 2018.
 
-Push-pull_dmu.jpg Diva-vasai_memu.jpg
+First generation DMU: Rated power was 700 HP and had 3 or 6 coaches, made first by ICF. Transmission was Voith-hydraulic. Max speed 100 kmph.
 
-First generation DMU: Rated power was 700 HP and had 3 or 6 coaches, made first by ICF. Transmission was Voith-hydraulic. Max speed 100 kmph. Dhmu.jpg
+Second generation DMU: Rated power was 1400 HP and have 8 coaches. Max speed is 105 kmph. Transmission is DC electric. Made at HCF and RCF.
 
-Second generation DMU: Rated power was 1400 HP and have 8 coaches. Max speed is 105 kmph. Transmission is DC electric. Made at HCF and RCF. 1400_hp_demu.jpg
-
-Third generation DMU: Rated power is 1600 HP and have 10 coaches. Max speed is 110 kmph. Transmission is AC electric. Made at ICF. 1600_Hp.png
+Third generation DMU: Rated power is 1600 HP and have 10 coaches. Max speed is 110 kmph. Transmission is AC electric. Made at ICF.
 
 Indonesia
 
-Sri_Lelawangsa_101212-10262_mes.jpg.]] State-owned company P.T. INKA builds several type of DMU, some of which operate in urban and suburban areas:
+.]] State-owned company P.T. INKA builds several type of DMU, some of which operate in urban and suburban areas:
 
 -   Kualanamu Airport Rail Link - -Woojin DMU
 -   Minangkabau Airport Rail Link
@@ -196,21 +194,15 @@ Sri_Lelawangsa_101212-10262_mes.jpg.]] State-owned company P.T. INKA builds seve
 
 Japan
 
-DC283_hokuto_001.jpg tilting DMU on Hakodate Main Line]] In Japan, where gasoline-driven railbuses (on small private lines) and railmotors (Kihani 5000 of the national railways) had been built since the 1920s, the first two streamlined DMUs came in service in 1937 , class Kiha 43000 (キハ43000系).[35]
+tilting DMU on Hakodate Main Line]] In Japan, where gasoline-driven railbuses (on small private lines) and railmotors (Kihani 5000 of the national railways) had been built since the 1920s, the first two streamlined DMUs came in service in 1937 , class Kiha 43000 (キハ43000系).[35]
 
 The service of several hundreds (in sum even thousands) of diesel railcars and DMUs started in 1950s following the improvement of fuel supply that was critical during World War II.[36]
 
 Philippines
 
-Philippine_Railways_PNR_Ligao_Station.jpeg
-
-WTNaga_STAR_B47a.jpg
-
 The Southrail or the South Main Line of the Philippine National Railways which travels South of the Luzon island is one of the oldest rail lines in Asia and in the world.[37] The Southrail of Philippine National Railways uses Hyundai Rotem DMUs together with second-hand DMUs from East Japan Railway Company or JR East and Kanto Railway. These are Kiha 52, Kiha 59 which is also known as the "Kogane" and Kiha 350. Trains such as the Hyundai Rotem DMUs Kiha 350 and Kiha 52 are often used for Metro Commuter Line services, while Kiha 59 is mostly used for Bicol interprovincial services and sometimes also for the Metro Commuter services.
 
 South Korea
-
-PP-DHC.jpg
 
 Korail operates many DMUs. The DHC (Diesel Hydraulic Car), which made its debut for the 1988 Seoul Olympics, can reach speeds up to and serves Saemaul-ho trains.
 

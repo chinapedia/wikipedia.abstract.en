@@ -7,7 +7,7 @@ Anaximander was an early proponent of science and tried to observe and explain d
 
 Biography
 
-Anaximander.jpg's painting _The School of Athens_, 1510–1511. This could be a representation of Anaximander leaning towards Pythagoras on his left.[5]]]
+'s painting _The School of Athens_, 1510–1511. This could be a representation of Anaximander leaning towards Pythagoras on his left.[5]]]
 
 Anaximander, son of Praxiades, was born in the third year of the 42nd Olympiad (610 BC).[6] According to Apollodorus of Athens, Greek grammarian of the 2nd century BC, he was sixty-four years old during the second year of the 58th Olympiad (547–546 BC), and died shortly afterwards.[7]
 
@@ -75,15 +75,11 @@ Simplicius mentions that Anaximander said all these "in poetic terms", meaning t
 
 Cosmology
 
-Anaximander_cosmology-en.svg
-
 Anaximander's bold use of non-mythological explanatory hypotheses considerably distinguishes him from previous cosmology writers such as Hesiod. It confirms that pre-Socratic philosophers were making an early effort to demystify physical processes. His major contribution to history was writing the oldest prose document about the Universe and the origins of life; for this he is often called the "Father of Cosmology" and founder of astronomy. However, pseudo-Plutarch states that he still viewed celestial bodies as deities.[37]
 
 Anaximander was the first to conceive a mechanical model of the world. In his model, the Earth floats very still in the centre of the infinite, not supported by anything. It remains "in the same place because of its indifference", a point of view that Aristotle considered ingenious, but false, in _On the Heavens_.[38] Its curious shape is that of a cylinder[39] with a height one-third of its diameter. The flat top forms the inhabited world, which is surrounded by a circular oceanic mass.
 
 Anaximander's realization that the Earth floats free without falling and does not need to be resting on something has been indicated by many as the first cosmological revolution and the starting point of scientific thinking.[40][41] Karl Popper calls this idea "one of the boldest, most revolutionary, and most portentous ideas in the whole history of human thinking."[42] Such a model allowed the concept that celestial bodies could pass under the Earth, opening the way to Greek astronomy.
-
-Persectives_of_Anaximander's_universe.png
 
 At the origin, after the separation of hot and cold, a ball of flame appeared that surrounded Earth like bark on a tree. This ball broke apart to form the rest of the Universe. It resembled a system of hollow concentric wheels, filled with fire, with the rims pierced by holes like those of a flute. Consequently, the Sun was the fire that one could see through a hole the same size as the Earth on the farthest wheel, and an eclipse corresponded with the occlusion of that hole. The diameter of the solar wheel was twenty-seven times that of the Earth (or twenty-eight, depending on the sources)[43] and the lunar wheel, whose fire was less intense, eighteen (or nineteen) times. Its hole could change shape, thus explaining lunar phases. The stars and the planets, located closer,[44] followed the same model.Most of Anaximander's model of the Universe comes from pseudo-Plutarch (II, 20–28):
 
@@ -120,8 +116,6 @@ Anaximander put forward the idea that humans had to spend part of this transitio
 Other accomplishments
 
 Cartography
-
-Anaximander_world_map-en.svg
 
 Both Strabo and Agathemerus (later Greek geographers) claim that, according to the geographer Eratosthenes, Anaximander was the first to publish a map of the world. The map probably inspired the Greek historian Hecataeus of Miletus to draw a more accurate version. Strabo viewed both as the first geographers after Homer.
 

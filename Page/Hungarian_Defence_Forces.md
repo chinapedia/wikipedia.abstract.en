@@ -16,7 +16,7 @@ As of 2016 Global Peace Index shows, Hungary is one of the world's most peaceful
 
 Structure
 
-War_Flag_of_Hungary.svg Flag_of_the_President_of_Hungary.svg as commander-in-chief of the Hungarian Defence Force[12][13]]] Mil_Mi-171E_in_Afghanistan.jpg1E in Afghanistan in 2018]] Infantrymen_of_Light_Mixed_Battalion.JPG in 2012]] Gripen_-_RIAT_2009_(3763645282).jpg has 14 JAS 39 Gripens on lease, including two two-seaters (C/D versions).]] Husaren_Elsterwerda_Oktober_2007_1.jpgs]]
+as commander-in-chief of the Hungarian Defence Force[12][13]]] 1E in Afghanistan in 2018]] in 2012]] has 14 JAS 39 Gripens on lease, including two two-seaters (C/D versions).]] s]]
 
 Command structure
 
@@ -30,7 +30,7 @@ Logistic Support for the defense forces is managed by the Hungarian Defense Forc
 
 Order of Battle
 
-AM_21_Százhalombatta.jpg'' minesweeper in Budapest, other Yugoslav-made _Nestin MS-25_ minesweepers still used in Hungary]]
+'' minesweeper in Budapest, other Yugoslav-made _Nestin MS-25_ minesweepers still used in Hungary]]
 
 Hungarian Defense Forces Combat Command
 
@@ -195,24 +195,22 @@ Directly reporting units
     -   MILITARY NATIONAL SECURITY SERVICE (KNBSZ), in Budapest
     -   Signal, C4I and Information Security Group, in Budapest
 
-Hungarian_Armed_Forces.png
-
 Ceremonial Units
 
 HDF Central Band
 
-Katonazenekar_felvonulása_-_Kossuth_tér,_2014.03_(2).JPG The Hungarian Defense Forces Central Military Band (_Magyar Honvédség Központi Zenekar_) is the representative musical ensemble of the HDF. Although it was officially founded in 1962, its history goes back to 1896, when the first Hungarian military band of music was established in Budapest. Today, the Central Band maintains a fanfare unit as well as a drum corps. The primary task of the Central Band is to take part in national, military, and protocol events. Other activities include cultivation of Hungarian soldiers and wind-music traditions, the promotion and amateur brass bands. The Central Band is a regular participant in international and domestic festivals, and nearly a dozen CDs of performances by the Central Band have been published.[16][17]
+The Hungarian Defense Forces Central Military Band (_Magyar Honvédség Központi Zenekar_) is the representative musical ensemble of the HDF. Although it was officially founded in 1962, its history goes back to 1896, when the first Hungarian military band of music was established in Budapest. Today, the Central Band maintains a fanfare unit as well as a drum corps. The primary task of the Central Band is to take part in national, military, and protocol events. Other activities include cultivation of Hungarian soldiers and wind-music traditions, the promotion and amateur brass bands. The Central Band is a regular participant in international and domestic festivals, and nearly a dozen CDs of performances by the Central Band have been published.[16][17]
 
 32nd National Honor Guard Battalion
 
-Ceremonial_guard_at_Sándor_palace,_2013_Budapest_(172)_(13229176254).jpg in 2013.]] The 32ND NATIONAL HONOR GUARD BATTALION (_MH 32. Budapest Őr- és Díszezred_) is the official Guard of honour unit of the HDF. It was founded on 1 January 2011 in order for the regiment to take part in the welcoming of foreign dignitaries to Budapest and in the changing of the guard at Sándor Palace. The official ceremonial honour guard of the Hungarian People's Republic was the 7015th Ceremonial Regiment of the Hungarian People's Army ().[18][19]
+in 2013.]] The 32ND NATIONAL HONOR GUARD BATTALION (_MH 32. Budapest Őr- és Díszezred_) is the official Guard of honour unit of the HDF. It was founded on 1 January 2011 in order for the regiment to take part in the welcoming of foreign dignitaries to Budapest and in the changing of the guard at Sándor Palace. The official ceremonial honour guard of the Hungarian People's Republic was the 7015th Ceremonial Regiment of the Hungarian People's Army ().[18][19]
 
 
 History
 
 Ancient, medieval, and early modern military
 
-Hungarian_horse_archers.jpg]] The Hungarian tribes of _Árpád vezér_ who came to settle in the Carpathian Basin were noted for their fearsome light cavalry, which conducted frequent raids throughout much of Western Europe (as far as present-day Spain), maintaining their military supremacy with long range and rapid-firing reflex bows. Not until the introduction of well-regulated, plate-armored knight heavy cavalry could German emperors stop the Hungarian armies.
+]] The Hungarian tribes of _Árpád vezér_ who came to settle in the Carpathian Basin were noted for their fearsome light cavalry, which conducted frequent raids throughout much of Western Europe (as far as present-day Spain), maintaining their military supremacy with long range and rapid-firing reflex bows. Not until the introduction of well-regulated, plate-armored knight heavy cavalry could German emperors stop the Hungarian armies.
 
 During the Árpáds the light cavalry based army was transformed slowly into a western-style one. The light cavalry lost its privileged position, replaced by a feudal army formed mainly from heavy cavalry.
 
@@ -228,7 +226,7 @@ In the 1566 Battle of Szigetvár, Miklós Zrínyi defended Szigetvár for 30 day
 
 Habsburg Hungarian military
 
-Than_tapiobicskei_utközet2_1849_aprilis_4.jpg.]]
+.]]
 
 Under Habsburg rule, Hungarian Hussars rose to international fame and served as a model for light cavalry in many European countries. During the 18th and 19th centuries hundreds of thousands of forcibly enrolled Hungarian males served 12 years or more each as line infantry in the Austrian Imperial Army.
 
@@ -274,7 +272,7 @@ During 1943, the Hungarian Second Army was re-built. In late 1944, as part of _P
 
 To keep Hungary as an ally, the Germans launched Operation Margarethe and occupied Hungary in March 1944. However, during the Warsaw Uprising, Hungarian troops refused to participate.[23]
 
-Warsaw_Uprising_Hungarians.JPG captain and 6 of his men who fell, fighting on the Polish side in Warsaw uprising 1944]] On 15 October 1944, the Germans launched Operation Panzerfaust and forced Horthy to abdicate. Pro-Nazi Ferenc Szálasi was made Prime Minister by the Germans.
+captain and 6 of his men who fell, fighting on the Polish side in Warsaw uprising 1944]] On 15 October 1944, the Germans launched Operation Panzerfaust and forced Horthy to abdicate. Pro-Nazi Ferenc Szálasi was made Prime Minister by the Germans.
 
 On 28 December 1944, a provisional government under the control of the Soviet Union was formed in liberated Debrecen with Béla Miklós as its Prime Minister. Miklós was the commander of the Hungarian First Army, but most of the First Army sided with the Germans and most of what remained of it was destroyed about 200 kilometres north of Budapest between 1 January and 16 February. The pro-Communist government formed by Miklós competed with the pro-Nazi government of Ferenc Szálasi. The Germans, Szálasi, and pro-German Hungarian forces loyal to Szálasi fought on. On 20 January 1945, representatives of the provisional government of Béla Miklós signed an armistice in Moscow. But forces loyal to Szálasi still continued to fight on.
 
@@ -284,7 +282,7 @@ In early March 1945, the Germans launched the Lake Balaton Offensive with suppor
 
 After the failed offensive, the Germans in Hungary were defeated. Most of what remained of the Hungarian Third Army was destroyed about 50 kilometres west of Budapest between 16 March and 25 March 1945. Officially, Soviet operations in Hungary ended on 4 April 1945 when the last German troops were expelled.
 
-Some pro-fascist Hungarians like Szálasi retreated with the Germans into Austria and Czechoslovakia. During the very last phase of the war, Fascist Hungarian forces fought in Vienna, Breslau, Küstrin, and along the Oder River.[26] Hungarian_military_police_summer_uniform_(enlisted,_1965-2005).jpg On 7 May 1945, General Alfred Jodl, the German Chief of Staff, signed the document of unconditional surrender for all German forces. Jodl signed this document during a ceremony in France. On 8 May, in accordance with the wishes of the Soviet Union, the ceremony was repeated in Germany by Field Marshal Wilhelm Keitel. On 11 June, the Allies agreed to make 9 May 1945 the official "Victory in Europe" day.[27] Szálasi and many other pro-fascist Hungarians were captured and ultimately returned to Hungary's provisional government for trial.
+Some pro-fascist Hungarians like Szálasi retreated with the Germans into Austria and Czechoslovakia. During the very last phase of the war, Fascist Hungarian forces fought in Vienna, Breslau, Küstrin, and along the Oder River.[26] On 7 May 1945, General Alfred Jodl, the German Chief of Staff, signed the document of unconditional surrender for all German forces. Jodl signed this document during a ceremony in France. On 8 May, in accordance with the wishes of the Soviet Union, the ceremony was repeated in Germany by Field Marshal Wilhelm Keitel. On 11 June, the Allies agreed to make 9 May 1945 the official "Victory in Europe" day.[27] Szálasi and many other pro-fascist Hungarians were captured and ultimately returned to Hungary's provisional government for trial.
 
 Warsaw Pact
 

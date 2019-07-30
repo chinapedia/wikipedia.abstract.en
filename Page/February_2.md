@@ -268,7 +268,7 @@ Births
 
 Deaths
 
-Govaert_Flinck_Self_Portrait.jpg]] ClementXIII.jpeg]] JaapEden.jpg]] Bundesarchiv_Bild_146-1993-069-06,_Carl_Friedrich_Goerdeler.jpg]] Borris_Karloff_still.jpg]] Sid_Vicious.jpg]] Gene_kelly.jpg]] Philip_Seymour_Hoffman_2011.jpg]]
+]] ]] ]] ]] ]] ]] ]] ]]
 
 -   619 – Laurence of Canterbury, English archbishop and saint
 -   880 – Bruno, duke of Saxony

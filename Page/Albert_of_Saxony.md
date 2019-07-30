@@ -23,7 +23,7 @@ Albert's conduct in these engagements won for him the complete confidence of the
 
 King
 
-Alfred_of_Saxony_in_1878_by_Alfred_Diethe.jpg]] On the death of his father King John on 29 October 1873, the Crown Prince succeeded to the throne as King Albert. His reign proved uneventful, and he took little public part in politics, devoting himself to military affairs, in which his advice and experience were of the greatest value, not only to the Saxon corps but to the German army in general. During his reign, the Saxon monarchy became constitutional.
+]] On the death of his father King John on 29 October 1873, the Crown Prince succeeded to the throne as King Albert. His reign proved uneventful, and he took little public part in politics, devoting himself to military affairs, in which his advice and experience were of the greatest value, not only to the Saxon corps but to the German army in general. During his reign, the Saxon monarchy became constitutional.
 
 In the 1870s, Albert initiated the construction of a Dresden suburb, the Albertstadt. At that time it was the largest garrison in Germany. Near the former suburb other buildings and places still bear his name: the Albertbrücke, the Alberthafen, the Albertplatz and the Albertinum.
 

@@ -1,5 +1,3 @@
-Affection_LCCN2003670229.tif
-
 AFFECTION, ATTRACTION, INFATUATION, or FONDNESS is a "disposition or state of mind or body"[1] that is often associated with a feeling or type of love. It has given rise to a number of branches of philosophy and psychology concerning emotion, disease, influence, and state of being.[2] "Affection" is popularly used to denote a feeling or type of love, amounting to more than goodwill or friendship. Writers on ethics generally use the word to refer to distinct states of feeling, both lasting and spasmodic. Some contrast it with _passion_ as being free from the distinctively sensual element.[3]
 
 Even a very simple demonstration of affection can have a broad variety of emotional reactions, from embarrassment to disgust to pleasure and annoyance. It also has a different physical effect on the giver and the receiver.[4]
@@ -7,7 +5,7 @@ Even a very simple demonstration of affection can have a broad variety of emotio
 
 Restricted definition
 
-Smooches_(baby_and_child_kiss).jpg More specifically, the word has been restricted to emotional states, the object of which is a living thing such as a human or animal. Affection is compared with passion,[5] from the Greek "pathos". As such it appears in the writings of French philosopher René Descartes,[6] Dutch philosopher Baruch Spinoza,[7] and most of the writings of early British ethicists. However, on various grounds (e.g., that it does not involve anxiety or excitement and that it is comparatively inert and compatible with the entire absence of the sensuous element), it is generally and usefully distinguished from passion. In this narrower sense, the word has played a great part in ethical systems, which have spoken of the social or parental _affections_ as in some sense a part of moral obligations.[8] For a consideration of these and similar problems, which depend ultimately on the degree in which the affections are regarded as voluntary.[9]
+More specifically, the word has been restricted to emotional states, the object of which is a living thing such as a human or animal. Affection is compared with passion,[5] from the Greek "pathos". As such it appears in the writings of French philosopher René Descartes,[6] Dutch philosopher Baruch Spinoza,[7] and most of the writings of early British ethicists. However, on various grounds (e.g., that it does not involve anxiety or excitement and that it is comparatively inert and compatible with the entire absence of the sensuous element), it is generally and usefully distinguished from passion. In this narrower sense, the word has played a great part in ethical systems, which have spoken of the social or parental _affections_ as in some sense a part of moral obligations.[8] For a consideration of these and similar problems, which depend ultimately on the degree in which the affections are regarded as voluntary.[9]
 
 
 Expression

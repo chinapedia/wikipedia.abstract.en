@@ -5,15 +5,11 @@ The published artwork of Haeckel includes over 100 detailed, multi-colour illust
 
 Life
 
-Ernst_Haeckel_1860.jpg
-
 Ernst Haeckel was born on 16 February 1834, in Potsdam (then part of the Kingdom of Prussia).[8] In 1852 Haeckel completed studies at the _Domgymnasium_, the cathedral high-school of Merseburg.[9] He then studied medicine in Berlin and Würzburg, particularly with Albert von Kölliker, Franz Leydig, Rudolf Virchow (with whom he later worked briefly as assistant), and with the anatomist-physiologist Johannes Peter Müller (1801–1858).[10] Together with Hermann Steudner he attended botany lectures in Würzburg. In 1857 Haeckel attained a doctorate in medicine, and afterwards he received the license to practice medicine. The occupation of physician appeared less worthwhile to Haeckel after contact with suffering patients.[11]
 
 Haeckel studied under Karl Gegenbaur at the University of Jena for three years, earning a habilitation in comparative anatomy in 1861, before becoming a professor of zoology at Jena, where he remained for 47 years, from 1862 to 1909. Between 1859 and 1866 Haeckel worked on many phyla, such as radiolarians, poriferans (sponges) and annelids (segmented worms).[12] During a trip to the Mediterranean, Haeckel named nearly 150 new species of radiolarians.[13]
 
 From 1866 to 1867 Haeckel made an extended journey to the Canary Islands with Hermann Fol. During this period, he met with Charles Darwin (in 1866 at Down House in Kent), Thomas Huxley and Charles Lyell.[14] In 1867 he married Agnes Huschke. Their son Walter was born in 1868, their daughters Elizabeth in 1871 and Emma in 1873.[15] In 1869 he traveled as a researcher to Norway, in 1871 to Croatia (where he lived on the island of Hvar in a monastery),[16] and in 1873 to Egypt, Turkey, and Greece.[17] In 1907 he had a museum built in Jena to teach the public about evolution. Haeckel retired from teaching in 1909, and in 1910 he withdrew from the Evangelical Church of Prussia.[18]
-
-ErnstHaeckel.jpg
 
 On the occasion of his 80th birthday-celebration he was presented with a two-volume work entitled _Was wir Ernst Haeckel verdanken (What We Owe to Ernst Haeckel)_, edited at the request of the German Monistenbund by Heinrich Schmidt of Jena.[19][20]
 
@@ -28,17 +24,17 @@ Haeckel's affinity for the German Romantic movement, coupled with his acceptance
 
 Research
 
-Haeckel_Actiniae.jpg'' (Art forms of Nature) of 1904]]
+'' (Art forms of Nature) of 1904]]
 
 Haeckel was a zoologist, an accomplished artist and illustrator, and later a professor of comparative anatomy. Although Haeckel's ideas are important to the history of evolutionary theory, and although he was a competent invertebrate anatomist most famous for his work on radiolaria, many speculative concepts that he championed are now considered incorrect. For example, Haeckel described and named hypothetical ancestral microorganisms that have never been found.
 
 He was one of the first to consider psychology as a branch of physiology. He also proposed the kingdom _Protista_[27] in 1866. His chief interests lay in evolution and life development processes in general, including development of nonrandom form, which culminated in the beautifully illustrated _Kunstformen der Natur_ (_Art forms of nature_). Haeckel did not support natural selection, rather believing in Lamarckism.[28]
 
-Haeckel_vs_von_Baer.svg compared]]
+compared]]
 
 Haeckel advanced a version of the earlier recapitulation theory previously set out by Étienne Serres in the 1820s and supported by followers of Étienne Geoffroy Saint-Hilaire including Robert Edmond Grant.[29] It proposed a link between ontogeny (development of form) and phylogeny (evolutionary descent), summed up by Haeckel in the phrase "ontogeny recapitulates phylogeny". His concept of recapitulation has been refuted in the form he gave it (now called "strong recapitulation"), in favour of the ideas first advanced by Karl Ernst von Baer. The strong recapitulation hypothesis views ontogeny as repeating forms of adult ancestors, while weak recapitulation means that what is repeated (and built upon) is the ancestral embryonic development process.[30] Haeckel supported the theory with embryo drawings that have since been shown to be oversimplified and in part inaccurate, and the theory is now considered an oversimplification of quite complicated relationships, however comparison of embryos[31] remains a powerful way to demonstrate that all animals are related. Haeckel introduced the concept of heterochrony, the change in timing of embryonic development over the course of evolution.[32][33]
 
-Ernst_Haeckel_and_von_Miclucho-Maclay_1866.jpg, his assistant, in the Canaries, 1866]]
+, his assistant, in the Canaries, 1866]]
 
 Haeckel was a flamboyant figure, who sometimes took great, non-scientific leaps from available evidence. For example, at the time when Darwin published _On the Origin of Species by Means of Natural Selection_ (1859), Haeckel postulated that evidence of human evolution would be found in the Dutch East Indies (now Indonesia). At that time, no remains of human ancestors had yet been identified. He described these theoretical remains in great detail and even named the as-yet unfound species, _Pithecanthropus alalus_, and instructed his students such as Richard and Oskar Hertwig to go and find it.
 
@@ -74,8 +70,6 @@ In Haeckel’s book _The History of Creation_ (1884) he included migration route
 
 Embryology and recapitulation theory
 
-Haeckel-embryos-weeks4-6.jpg
-
 When Haeckel was a student in the 1850s he showed great interest in embryology, attending the rather unpopular lectures twice and in his notes sketched the visual aids: textbooks had few illustrations, and large format plates were used to show students how to see the tiny forms under a reflecting microscope, with the translucent tissues seen against a black background. Developmental series were used to show stages within a species, but inconsistent views and stages made it even more difficult to compare different species. It was agreed by all European evolutionists that all vertebrates looked very similar at an early stage, in what was thought of as a common ideal type, but there was a continuing debate from the 1820s between the Romantic recapitulation theory that human embryos developed through stages of the forms of all the major groups of adult animals, literally manifesting a sequence of organisms on a linear chain of being, and Karl Ernst von Baer's opposing view, stated in von Baer's laws of embryology, that the early general forms diverged into four major groups of specialised forms without ever resembling the adult of another species, showing affinity to an archetype but no relation to other types or any transmutation of species. By the time Haeckel was teaching he was able to use a textbook with woodcut illustrations written by his own teacher Albert von Kölliker, which purported to explain human development while also using other mammalian embryos to claim a coherent sequence. Despite the significance to ideas of transformism, this was not really polite enough for the new popular science writing, and was a matter for medical institutions and for experts who could make their own comparisons.[49][50]
 
 Darwin, Naturphilosophie and Lamarck
@@ -84,15 +78,13 @@ Darwin's _On the Origin of Species_, which made a powerful impression on Haeckel
 
 Embryological drawings
 
-Tree_of_life_by_Haeckel.jpg]]
+]]
 
 Haeckel's aim was a reformed morphology with evolution as the organising principle of a cosmic synthesis unifying science, religion, and art. He was giving successful "popular lectures" on his ideas to students and townspeople in Jena, in an approach pioneered by his teacher Rudolf Virchow. To meet his publisher's need for a popular work he used a student's transcript of his lectures as the basis of his _Natürliche Schöpfungsgeschichte_ of 1868, presenting a comprehensive presentation of evolution. In the Spring of that year he drew figures for the book, synthesising his views of specimens in Jena and published pictures to represent types. After publication he told a colleague that the images "are completely exact, partly copied from nature, partly assembled from all illustrations of these early stages that have hitherto become known." There were various styles of embryological drawings at that time, ranging from more schematic representations to "naturalistic" illustrations of specific specimens. Haeckel believed privately that his figures were both exact and synthetic, and in public asserted that they were schematic like most figures used in teaching. The images were reworked to match in size and orientation, and though displaying Haeckel's own views of essential features, they support von Baer's concept that vertebrate embryos begin similarly and then diverge. Relating different images on a grid conveyed a powerful evolutionary message. As a book for the general public, it followed the common practice of not citing sources.[53]
 
-Embryo_-_copies.jpg The book sold very well, and while some anatomical experts hostile to Haeckel's evolutionary views expressed some private concerns that certain figures had been drawn rather freely, the figures showed what they already knew about similarities in embryos. The first published concerns came from Ludwig Rütimeyer, a professor of zoology and comparative anatomy at the University of Basel who had placed fossil mammals in an evolutionary lineage early in the 1860s and had been sent a complimentary copy. At the end of 1868 his review in the _Archiv für Anthropologie_ wondered about the claim that the work was "popular and scholarly", doubting whether the second was true, and expressed horror about such public discussion of man's place in nature with illustrations such as the evolutionary trees being shown to non-experts. Though he made no suggestion that embryo illustrations should be directly based on specimens, to him the subject demanded the utmost "scrupulosity and conscientiousness" and an artist must "not arbitrarily model or generalise his originals for speculative purposes" which he considered proved by comparison with works by other authors. In particular, "one and the same, moreover incorrectly interpreted woodcut, is presented to the reader three times in a row and with three different captions as [the] embryo of the dog, the chick, [and] the turtle." He accused Haeckel of "playing fast and loose with the public and with science", and failing to live up to the obligation to the truth of every serious researcher. Haeckel responded with angry accusations of bowing to religious prejudice, but in the second (1870) edition changed the duplicated embryo images to a single image captioned "embryo of a mammal or bird". Duplication using galvanoplastic stereotypes (clichés) was a common technique in textbooks, but not on the same page to represent different eggs or embryos. In 1891 Haeckel made the excuse that this "extremely rash foolishness" had occurred in undue haste but was "bona fide", and since repetition of incidental details was obvious on close inspection, it is unlikely to have been intentional deception.[54]
+The book sold very well, and while some anatomical experts hostile to Haeckel's evolutionary views expressed some private concerns that certain figures had been drawn rather freely, the figures showed what they already knew about similarities in embryos. The first published concerns came from Ludwig Rütimeyer, a professor of zoology and comparative anatomy at the University of Basel who had placed fossil mammals in an evolutionary lineage early in the 1860s and had been sent a complimentary copy. At the end of 1868 his review in the _Archiv für Anthropologie_ wondered about the claim that the work was "popular and scholarly", doubting whether the second was true, and expressed horror about such public discussion of man's place in nature with illustrations such as the evolutionary trees being shown to non-experts. Though he made no suggestion that embryo illustrations should be directly based on specimens, to him the subject demanded the utmost "scrupulosity and conscientiousness" and an artist must "not arbitrarily model or generalise his originals for speculative purposes" which he considered proved by comparison with works by other authors. In particular, "one and the same, moreover incorrectly interpreted woodcut, is presented to the reader three times in a row and with three different captions as [the] embryo of the dog, the chick, [and] the turtle." He accused Haeckel of "playing fast and loose with the public and with science", and failing to live up to the obligation to the truth of every serious researcher. Haeckel responded with angry accusations of bowing to religious prejudice, but in the second (1870) edition changed the duplicated embryo images to a single image captioned "embryo of a mammal or bird". Duplication using galvanoplastic stereotypes (clichés) was a common technique in textbooks, but not on the same page to represent different eggs or embryos. In 1891 Haeckel made the excuse that this "extremely rash foolishness" had occurred in undue haste but was "bona fide", and since repetition of incidental details was obvious on close inspection, it is unlikely to have been intentional deception.[54]
 
 The revised 1870 second edition of 1,500 copies attracted more attention, being quickly followed by further revised editions with larger print runs as the book became a prominent part of the optimistic, nationalist, anticlerical "culture of progress" in Otto von Bismarck's new German Empire. The similarity of early vertebrate embryos became common knowledge, and the illustrations were praised by experts such as Michael Foster of the University of Cambridge. In the introduction to his 1871 _The Descent of Man, and Selection in Relation to Sex_, Darwin gave particular praise to Haeckel, writing that if _Natürliche Schöpfungsgeschichte_ "had appeared before my essay had been written, I should probably never have completed it." The first chapter included an illustration: "As some of my readers may never have seen a drawing of an embryo, I have given one of man and another of a dog, at about the same early stage of development, carefully copied from two works of undoubted accuracy" with a footnote citing the sources and noting that "Häckel has also given analogous drawings in his _Schöpfungsgeschichte._" The fifth edition of Haeckel's book appeared in 1874, with its frontispiece a heroic portrait of Haeckel himself, replacing the previous controversial image of the heads of apes and humans.[55][56]
-
-Haeckel_Anthropogenie_1874.jpg
 
 Controversy
 
@@ -110,7 +102,7 @@ In Jena he is remembered with a monument at Herrenberg (erected in 1969)[65], an
 
 Publications
 
-Haeckel_Muscinae.jpg]] Haeckel_Chaetopoda.jpg]] Aeginura_grimaldii_by_Haeckel.png of Aeginura grimaldii (bottom view)]]
+]] ]] of Aeginura grimaldii (bottom view)]]
 
 Darwin's 1859 book _On the Origin of Species_ had immense popular influence, but although its sales exceeded its publisher's hopes it was a technical book rather than a work of popular science: long, difficult and with few illustrations. One of Haeckel's books did a great deal to explain his version of "Darwinism" to the world. It was a bestselling, provocatively illustrated book in German, titled _Natürliche Schöpfungsgeschichte_, published in Berlin in 1868, and translated into English as _The History of Creation_ in 1876. It was frequently reprinted until 1926.
 
@@ -133,8 +125,6 @@ _Challenger_ reports
 -   _Radiolaria_ (1887)
 
 Books on biology and its philosophy
-
-Haeckel_arbol_bn.png
 
 -   _Generelle Morphologie der Organismen : allgemeine Grundzüge der organischen Formen-Wissenschaft, mechanisch begründet durch die von Charles Darwin reformirte Descendenz-Theorie._ (1866) Berlin
 -   _Natürliche Schöpfungsgeschichte (1868)_; in English _The History of Creation_ (1876; 6th ed.: New York, D. Appleton and Co., 1914, 2 volumes)

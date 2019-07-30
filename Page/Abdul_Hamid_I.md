@@ -14,7 +14,7 @@ Abdul Hamid's long imprisonment had left him indifferent to state affairs and ma
 
 Despite his pacific inclinations, the Ottoman Empire was forced to renew the ongoing war with Russia almost immediately. This led to complete Turkish defeat at Kozludzha and the humiliating Treaty of Küçük Kaynarca, signed on 21 July 1774. The Ottomans ceded territory to Russia, and also the right to intervene on behalf of the Orthodox Christians in the Empire.
 
-TurkischeHauptArmeeHochenleitterBGHistory.jpg advances from Sofia, its largest garrison in Rumelia, in the year 1788.]]
+advances from Sofia, its largest garrison in Rumelia, in the year 1788.]]
 
 Abdul Hamid now sought to reform the Empire's armed forces. He enumerated the Janissary corps and tried to renovate it, and also the navy. He established a new artillery corps. He was also credited with the creation of the Imperial Naval Engineering School.[5]
 
@@ -29,7 +29,7 @@ In 1789, Tipu Sultan, ruler of the Sultanate of Mysore sent an embassy to Abdul 
 
 Death
 
-MausoleumAbdulHamid_I.jpg in Eminönü quarter of Fatih, Istanbul.]] Abdul Hamid died on 7 April 1789, at the age of sixty-four, in Constantinople. He was buried in Bahcekapi, a tomb he had built for himself.
+in Eminönü quarter of Fatih, Istanbul.]] Abdul Hamid died on 7 April 1789, at the age of sixty-four, in Constantinople. He was buried in Bahcekapi, a tomb he had built for himself.
 
 He bred Arabian horses with great passion. One breed of Küheylan Arabians was named "Küheylan Abdülhamid" after him.
 
@@ -48,8 +48,6 @@ Abdul Hamid had nine wives:
 -   Mehtabe Kadın, Dördüncü Kadın;[23][24]
 -   Mutebere Kadın (died 16 May 1837,[25] buried in Abdul Hamid I Mausoleum, Istanbul),[26] Beşinci Kadın;[27]
 -   Şebsafa Kadın alias Fatma[28][29] (married 1781, died 1805, buried in Zeyrek Mosque, Eminönü, Istanbul), Altıncı Kadın;[30]
-
-Shep_Sefa_Hatun_Mosque_1317.jpg
 
 -   Nakşidil Sultan[31] (married 1782, died 17 August 1817, buried in Nakşidil Sultan Mausoleum, Fatih Mosque, Istanbul), Yedinci Kadın;[32] (A mythical legend claims her to have been Aimée du Buc de Rivéry, a distant cousin-in-law of Napoleon's wife, Empress Josephine.)[33]
 

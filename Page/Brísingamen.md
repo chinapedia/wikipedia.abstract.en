@@ -1,5 +1,3 @@
-Freya_and_Heimdall_by_Blommer.jpg
-
 In Norse mythology, _BRÍSINGAMEN_ (or _BRÍSINGA MEN_) is the torc or necklace of the goddess Freyja.[1] The name is an Old Norse compound _brísinga-men_ whose second element is _men_ "(ornamental) neck-ring (of precious metal), torc".[2] The etymology of the first element is uncertain. It has been derived from Old Norse _brísingr_, a poetic term for "fire" or "amber" mentioned in the anonymous versified word-lists (_þulur_) appended to many manuscripts of the Prose Edda,[3] making Brísingamen "gleaming torc", "sunny torc", or the like. However, _Brísingr_ can also be an ethnonym, in which case _Brísinga men_ is "torque of the Brísings"; the Old English parallel in _Beowulf_ supports this derivation, though who the Brísings (Old Norse _Brísingar_) may have been remains unknown.[4]
 
 
@@ -30,7 +28,7 @@ The battle of Högni and Heðinn is recorded in several medieval sources, includ
 
 Archaeological record
 
-Freyja_in_silver.jpg in Stockholm.]] Völva was buried with considerable splendour in Hagebyhöga in Östergötland. In addition to being buried with her wand, she had received great riches which included horses, a wagon and an Arabian bronze pitcher. There was also a silver pendant, which represents a woman with a broad necklace around her neck. This kind of necklace was only worn by the most prominent women during the Iron Age and some have interpreted it as Freyja's necklace Brísingamen. The pendant may represent Freyja herself.[9]
+in Stockholm.]] Völva was buried with considerable splendour in Hagebyhöga in Östergötland. In addition to being buried with her wand, she had received great riches which included horses, a wagon and an Arabian bronze pitcher. There was also a silver pendant, which represents a woman with a broad necklace around her neck. This kind of necklace was only worn by the most prominent women during the Iron Age and some have interpreted it as Freyja's necklace Brísingamen. The pendant may represent Freyja herself.[9]
 
 
 Modern influence

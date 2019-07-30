@@ -5,7 +5,7 @@ Henry was responsible for the early development of Portuguese exploration and ma
 
 Life
 
-Henry_the_Navigator_(Cronicas).jpg's _Crónicas dos Feitos de Guiné_ (Paris codex), with the phrase _talent de bien faire_ ("the talent of doing well" or "Hunger for good deeds") and the pyramids, of Prince Henry's _motto_. It has been argued that the image inserted portrays his brother, King Duarte, rather than Henry. The _empresa_ or _divisa_ placed below is Henry's motto. According to Friar Luis de Sousa, based on papers of Henry`s contemporary chronicler Gomes Eanes de Zurara, and other 15th-century documents, Henry's pyramids represented the pyramids of Egypt, at Giza, and at the top of his pyramids was a golden sun.]]
+'s _Crónicas dos Feitos de Guiné_ (Paris codex), with the phrase _talent de bien faire_ ("the talent of doing well" or "Hunger for good deeds") and the pyramids, of Prince Henry's _motto_. It has been argued that the image inserted portrays his brother, King Duarte, rather than Henry. The _empresa_ or _divisa_ placed below is Henry's motto. According to Friar Luis de Sousa, based on papers of Henry`s contemporary chronicler Gomes Eanes de Zurara, and other 15th-century documents, Henry's pyramids represented the pyramids of Egypt, at Giza, and at the top of his pyramids was a golden sun.]]
 
 Henry was the third surviving son of King John I and his wife Philippa,[2] sister of King Henry IV of England. He was baptized in Porto, and may have been born there, probably when the royal couple was living in the city's old mint, now called Casa do Infante (Prince's House), or in the region nearby. Another possibility is that he was born at the Monastery of Leça do Bailio, in Leça de Palmeira, during the same period of the royal couple's residence in the city of Porto.
 
@@ -35,7 +35,7 @@ For most of the latter part of his life, Henry concentrated on his maritime acti
 
 Vila do Infante and Portuguese exploration
 
-Alternative_Henry_the_Navigator_(St._Vincent_Panels).jpg by Nuno Gonçalves, c. 1470]] According to João de Barros, in the Algarve he repopulated a village that he called Terçanabal (from _terça nabal_ or _tercena nabal_).[7] This village was situated in a strategic position for his maritime enterprises and was later called Vila do Infante ("Estate or Town of the Prince").
+by Nuno Gonçalves, c. 1470]] According to João de Barros, in the Algarve he repopulated a village that he called Terçanabal (from _terça nabal_ or _tercena nabal_).[7] This village was situated in a strategic position for his maritime enterprises and was later called Vila do Infante ("Estate or Town of the Prince").
 
 It is traditionally suggested that Henry gathered at his villa on the Sagres peninsula a school of navigators and map-makers. However modern historians hold this to be a misconception. He did employ some cartographers to chart the coast of Mauritania after the voyages he sent there, but there was no center of navigation science or observatory in the modern sense of the word, nor was there an organized navigational center.[8]
 
@@ -48,7 +48,7 @@ The first contacts with the African slave market were made by expeditions to ran
 
 Henry's explorations
 
-HenryTomb-CCBY.jpg]]
+]]
 
 Henry sponsored voyages, collecting a 20% tax (_o quinto_) on the profits made by naval expeditions, which was the usual practice in the Iberian states of that time. The nearby port of Lagos provided a convenient harbor from which these expeditions left. The voyages were made in very small ships, mostly the caravel, a light and maneuverable vessel. The caravel used the lateen sail, the prevailing rig in Christian Mediterranean navigation since late antiquity.[15] Most of the voyages sent out by Henry consisted of one or two ships that navigated by following the coast, stopping at night to tie up along some shore.
 
@@ -70,7 +70,7 @@ West African coast
 
 Until Henry's time, Cape Bojador remained the most southerly point known to Europeans on the desert coast of Africa. Superstitious seafarers held that beyond the cape lay sea monsters and the edge of the world. In 1434, Gil Eanes, the commander of one of Henry's expeditions, became the first European known to pass Cape Bojador.
 
-External_Statues,_Palm_House,_Sefton_Park_(7).jpg (1899), outside the Palm House at Sefton Park, Liverpool (in appearance similar to the sculpture of the beginning of the 16th century, in the Jerónimos Monastery, Lisbon, possibly close to the true likeness of Prince Henry)]]
+(1899), outside the Palm House at Sefton Park, Liverpool (in appearance similar to the sculpture of the beginning of the 16th century, in the Jerónimos Monastery, Lisbon, possibly close to the true likeness of Prince Henry)]]
 
 Using the new ship type, the expeditions then pushed onwards. Nuno Tristão and Antão Gonçalves reached Cape Blanco in 1441. The Portuguese sighted the Bay of Arguin in 1443 and built an important fort there around the year 1448. Dinis Dias soon came across the Senegal River and rounded the peninsula of Cap-Vert in 1444. By this stage the explorers had passed the southern boundary of the desert, and from then on Henry had one of his wishes fulfilled: the Portuguese had circumvented the Muslim land-based trade routes across the western Sahara Desert, and slaves and gold began arriving in Portugal. This rerouting of trade devastated Algiers and Tunis, but made Portugal rich.[19] By 1452, the influx of gold permitted the minting of Portugal's first gold _cruzado_ coins. A cruzado was equal to 400 reis at the time. From 1444 to 1446, as many as forty vessels sailed from Lagos on Henry's behalf, and the first private mercantile expeditions began.
 

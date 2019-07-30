@@ -57,13 +57,13 @@ Mixed languages
 
 Classification
 
-Celtic_language_family_tree.svg IndoEuropeanTree.svg Celtic is divided into various branches:
+Celtic is divided into various branches:
 
 -   Lepontic, the oldest attested Celtic language (from the 6th century BC).[47] Anciently spoken in Switzerland and in Northern-Central Italy, from the Alps to Umbria. Coins with Lepontic inscriptions have been found in Noricum and Gallia Narbonensis.[48][49][50][51]
 
-Bronce_de_Botorrita_II.jpgs. The third plaque is the longest text discovered in any ancient Celtic language. This, the second plaque, is inscribed in Latin however.[52]]]
+s. The third plaque is the longest text discovered in any ancient Celtic language. This, the second plaque, is inscribed in Latin however.[52]]]
 
--   Northeastern Hispano-Celtic/Eastern Hispano-Celtic or Celtiberian, anciently spoken in the Iberian peninsula, Greek_and_Phoenician_Colonies_in_The_Iberian_Peninsula.png in the eastern part of Old Castile and south of Aragon. Modern provinces of Segovia, Burgos, Soria, Guadalajara, Cuenca, Zaragoza and Teruel. The relationship of Celtiberian with Gallaecian, in the northwest of the peninsula, is uncertain.[53][54]
+-   Northeastern Hispano-Celtic/Eastern Hispano-Celtic or Celtiberian, anciently spoken in the Iberian peninsula, in the eastern part of Old Castile and south of Aragon. Modern provinces of Segovia, Burgos, Soria, Guadalajara, Cuenca, Zaragoza and Teruel. The relationship of Celtiberian with Gallaecian, in the northwest of the peninsula, is uncertain.[53][54]
 -   Northwestern Hispano-Celtic/Western Hispano-Celtic, anciently spoken in the northwest of the peninsula (modern northern Portugal, Galicia, Asturias, Cantabria and parts of modern Old Castile).[55]
 -   Gaulish languages, including Galatian and possibly Noric. These languages were once spoken in a wide arc from Belgium to Turkey. They are now all extinct.
 -   Brittonic, including the living languages Breton, Cornish, and Welsh, and the extinct languages Cumbric, and Pictish though Pictish may be a sister language rather than a daughter of Common Brittonic.[56] Before the arrival of Scotti on the Isle of Man in the 9th century, there may have been a Brittonic language on the Isle of Man.
@@ -77,7 +77,7 @@ In the P/Q classification schema, the first language to split off from Proto-Cel
 
 The distinction of Celtic into these four sub-families most likely occurred about 900 BC according to Gray and Atkinson[59][60] but, because of estimation uncertainty, it could be any time between 1200 and 800 BC. However, they only considered Gaelic and Brythonic. The controversial paper by Forster and Toth[61] included Gaulish and put the break-up much earlier at 3200 BC ± 1500 years. They support the Insular Celtic hypothesis. The early Celts were commonly associated with the archaeological Urnfield culture, the Hallstatt culture, and the La Tène culture, though the earlier assumption of association between language and culture is now considered to be less strong.[62][63]
 
-Map_of_Celtic_Nations-flag_shades.svg, where Celtic languages are spoken today, or were spoken into the modern era: ]]
+, where Celtic languages are spoken today, or were spoken into the modern era: ]]
 
 There are legitimate scholarly arguments in favour of both the Insular Celtic hypothesis and the P-Celtic/Q-Celtic hypothesis. Proponents of each schema dispute the accuracy and usefulness of the other's categories. However, since the 1970s the division into Insular and Continental Celtic has become the more widely held view (Cowgill 1975; McCone 1991, 1992; Schrijver 1995), but in the middle of the 1980s, the P-Celtic/Q-Celtic hypothesis found new supporters (Lambert 1994), because of the inscription on the Larzac piece of lead (1983), the analysis of which reveals another common phonetical innovation _-nm-_ > _-nu_ (Gaelic _ainm_ / Gaulish _anuana_, Old Welsh _enuein_ "names"), that is less accidental than only one. The discovery of a third common innovation would allow the specialists to come to the conclusion of a Gallo-Brittonic dialect (Schmidt 1986; Fleuriot 1986).
 

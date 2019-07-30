@@ -1,5 +1,3 @@
-Compost_site_germany.JPG
-
 COMPOST ( or ) is organic matter that has been decomposed in a process called composting. This process recycles various organic materials otherwise regarded as waste products and produces a soil conditioner (the _compost_).
 
 Compost is rich in nutrients. It is used, for example, in gardens, landscaping, horticulture, urban agriculture and organic farming. The compost itself is beneficial for the land in many ways, including as a soil conditioner, a fertilizer, addition of vital humus or humic acids, and as a natural pesticide for soil. In ecosystems, compost is useful for erosion control, land and stream reclamation, wetland construction, and as landfill cover (see compost uses).
@@ -8,8 +6,6 @@ At the simplest level, the process of composting requires making a heap of wet o
 
 
 Fundamentals
-
-Composting_in_the_Escuela_Barreales.jpg Compost_pile.JPG Food-scraps-compost.jpg
 
 Composting is an aerobic method (meaning that it requires the presence of air) of decomposing organic solid wastes.[1] It can therefore be used to recycle organic material. The process involves decomposition of organic material into a humus-like material, known as compost, which is a good fertilizer for plants. Composting requires the following three components: human management, aerobic conditions, development of internal biological heat.
 
@@ -40,7 +36,7 @@ In addition, earthworms not only ingest partly composted material, but also cont
 
 Phases of composting
 
-Komposztáló.JPG Under ideal conditions, composting proceeds through three major phases:[11]
+Under ideal conditions, composting proceeds through three major phases:[11]
 
 -   An initial, mesophilic phase, in which the decomposition is carried out under moderate temperatures by mesophilic microorganisms.
 -   As the temperature rises, a second, thermophilic phase starts, in which the decomposition is carried out by various thermophilic bacteria under high temperatures.
@@ -67,7 +63,7 @@ Composting is a process used for resource recovery. It can recycle an unwanted b
 
 Organic solid waste (green waste)
 
-Spontaneous_combustion_of_compost_pile.jpg microorganisms.]]
+microorganisms.]]
 
 Composting is a process for converting decomposable organic materials into useful stable products. Therefore, valuable landfill space can be used for other wastes by composting these materials rather than dumping them on landfills. It may however be difficult to control inert and plastics contamination from municipal solid waste.
 
@@ -105,13 +101,13 @@ Industrial-scale composting can be carried out in the form of in-vessel composti
 
 Vermicomposting
 
-Worm.bin.jpg Vermicompost is the product or process of organic material degradation using various species of worms, usually red wigglers, white worms, and earthworms, to create a heterogeneous mixture of decomposing vegetable or food waste (excluding meat, dairy, fats, or oils), bedding materials, and vermicast. Vermicast, also known as worm castings, worm humus or worm manure, is the end-product of the breakdown of organic matter by species of earthworm.[22]
+Vermicompost is the product or process of organic material degradation using various species of worms, usually red wigglers, white worms, and earthworms, to create a heterogeneous mixture of decomposing vegetable or food waste (excluding meat, dairy, fats, or oils), bedding materials, and vermicast. Vermicast, also known as worm castings, worm humus or worm manure, is the end-product of the breakdown of organic matter by species of earthworm.[22]
 
 Vermicomposting can also be applied for treatment of sewage sludge.[23]
 
 Composting toilets
 
-TerraNova_Sitzdichtung_(6211343544).jpg with a seal in the lid in Germany]]
+with a seal in the lid in Germany]]
 
 A composting toilet collects human excreta. These are added to a compost heap that can be located in a chamber below the toilet seat. Sawdust and straw or other carbon rich materials are usually added as well. Some composting toilets do not require water or electricity; others may. If they do not use water for flushing they fall into the category of dry toilets. Some composting toilet designs use urine diversion, others do not. When properly managed, they do not smell. The composting process in these toilets destroys pathogens to some extent. The amount of pathogen destruction depends on the temperature (mesophilic or thermophilic conditions) and composting time.[24]
 
@@ -125,7 +121,7 @@ Bokashi
 
 Bokashi is not composting as defined earlier, rather an alternative technology. It ferments (rather than decomposes) the input organic matter and feeds the result to the soil food web (rather than producing a soil conditioner). The process involves adding _Lactobacilli_ to the input in an airtight container kept at normal room temperature. These bacteria ferment carbohydrates to lactic acid, which preserves the input. After this is complete the preserve is mixed into soil, converting the lactic acid to pyruvate, which enables soil life to consume the result.
 
-Bokashi is typically applied to food waste from households, workplaces and catering establishments, because such waste normally holds a good proportion of carbohydrates; it is also applied to other organic waste by supplementing carbohydrates. Household containers ("bokashi bins") typically give a batch size of 5-10 kilograms, accumulated over a few weeks. In horticultural settings batches can be orders of magnitude greater.Bokashi_bin_-_inside.JPG
+Bokashi is typically applied to food waste from households, workplaces and catering establishments, because such waste normally holds a good proportion of carbohydrates; it is also applied to other organic waste by supplementing carbohydrates. Household containers ("bokashi bins") typically give a batch size of 5-10 kilograms, accumulated over a few weeks. In horticultural settings batches can be orders of magnitude greater.
 
 Bokashi offers several advantages:
 
@@ -144,7 +140,7 @@ Other systems at household level
 
 Hügelkultur (raised garden beds or mounds)
 
-End_point_(4315712587).jpg The practice of making raised garden beds or mounds filled with rotting wood is also called _hügelkultur_ in German.[33][34] It is in effect creating a nurse log that is covered with soil.
+The practice of making raised garden beds or mounds filled with rotting wood is also called _hügelkultur_ in German.[33][34] It is in effect creating a nurse log that is covered with soil.
 
 Benefits of _hügelkultur_ garden beds include water retention and warming of soil.[35][36] Buried wood acts like a sponge as it decomposes, able to capture water and store it for later use by crops planted on top of the _hügelkultur_ bed.[37][38]
 
@@ -154,7 +150,7 @@ Compost teas are defined as water extracts leached from composted materials.[39]
 
 Worm Hotels
 
-Worm_Hotel.jpg Worm Hotels accommodate useful worm in ideal conditions.
+Worm Hotels accommodate useful worm in ideal conditions.
 
 Related technologies
 
@@ -174,7 +170,7 @@ Many countries such as Wales[47][48] and some individual cities such as Seattle 
 
 Examples
 
-MRF_Composter03.jpg Large-scale composting systems are used by many urban areas around the world.
+Large-scale composting systems are used by many urban areas around the world.
 
 -   The world's largest municipal co-composter for municipal solid waste (MSW) is the Edmonton Composting Facility in Edmonton, Alberta, Canada, which turns 220,000 tonnes of municipal solid waste and 22,500 dry tonnes of sewage sludge per year into 80,000 tonnes of compost. The facility is 38,690 m² (416,500 sq.ft.) in area, equivalent to 4½ Canadian football fields, and the operating structure is the largest stainless steel building in North America.
 -   In 2006, Qatar awarded Keppel Seghers Singapore, a subsidiary of Keppel Corporation, a contract to begin construction on a 275,000 tonne/year anaerobic digestion and composting plant licensed by Kompogas Switzerland. This plant, with 15 independent anaerobic digesters, will be the world's largest composting facility once fully operational in early 2011 and forms part of Qatar's Domestic Solid Waste Management Centre, the largest integrated waste management complex in the Middle East.
@@ -185,7 +181,7 @@ MRF_Composter03.jpg Large-scale composting systems are used by many urban areas 
 
 History
 
-Compost_Basket.jpg Composting as a recognized practice dates to at least the early Roman Empire, and was mentioned as early as Cato the Elder's 160 BCE piece _De Agri Cultura_.[52] Traditionally, composting involved piling organic materials until the next planting season, at which time the materials would have decayed enough to be ready for use in the soil. The advantage of this method is that little working time or effort is required from the composter and it fits in naturally with agricultural practices in temperate climates. Disadvantages (from the modern perspective) are that space is used for a whole year, some nutrients might be leached due to exposure to rainfall, and disease-producing organisms and insects may not be adequately controlled.
+Composting as a recognized practice dates to at least the early Roman Empire, and was mentioned as early as Cato the Elder's 160 BCE piece _De Agri Cultura_.[52] Traditionally, composting involved piling organic materials until the next planting season, at which time the materials would have decayed enough to be ready for use in the soil. The advantage of this method is that little working time or effort is required from the composter and it fits in naturally with agricultural practices in temperate climates. Disadvantages (from the modern perspective) are that space is used for a whole year, some nutrients might be leached due to exposure to rainfall, and disease-producing organisms and insects may not be adequately controlled.
 
 Composting was somewhat modernized beginning in the 1920s in Europe as a tool for organic farming.[53] The first industrial station for the transformation of urban organic materials into compost was set up in Wels, Austria in the year 1921.[54] Early frequent citations for propounding composting within farming are for the German-speaking world Rudolf Steiner, founder of a farming method called biodynamics, and Annie Francé-Harrar, who was appointed on behalf of the government in Mexico and supported the country 1950–1958 to set up a large humus organization in the fight against erosion and soil degradation.[55]
 

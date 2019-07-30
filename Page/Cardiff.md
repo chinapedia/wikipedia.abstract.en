@@ -29,11 +29,11 @@ In the 2001 census 18.8% of the city's population stated they had no religion, w
 
 Economy
 
-Callaghan_Square_Cardiff.jpg As the capital city of Wales, Cardiff is the main engine of growth in the Welsh economy. Though the population of Cardiff is about 10% of the Welsh population, the economy of Cardiff makes up nearly 20% of Welsh GDP and 40% of the city's workforce are daily in-commuters from the surrounding south Wales area.[24][25]
+As the capital city of Wales, Cardiff is the main engine of growth in the Welsh economy. Though the population of Cardiff is about 10% of the Welsh population, the economy of Cardiff makes up nearly 20% of Welsh GDP and 40% of the city's workforce are daily in-commuters from the surrounding south Wales area.[24][25]
 
 Industry has played a major part in Cardiff's development for many centuries. The main catalyst for its transformation from a small town into a big city was the demand for coal required in making iron and later steel, brought to the sea by packhorse from Merthyr Tydfil. This was first achieved by the construction of a long canal from Merthyr (510 feet above sea-level) to the Taff Estuary at Cardiff.[26] Eventually the Taff Vale Railway replaced the canal barges and massive marshalling yards sprang up as new docks were developed in Cardiff – all prompted by the soaring worldwide demand for coal from the South Wales valleys.
 
-The_Exchange,_Mount_Stuart_Square.jpg]]
+]]
 
 At its peak, Cardiff's port area, known as Tiger Bay, became the busiest port in the world and – for some time – the world's most important coal port.[27][28] In the years leading up to the First World War, more than 10 million tonnes of coal was exported annually from Cardiff Docks.[29] In 1907, Cardiff's Coal Exchange was the first host to a business deal for a million pounds Sterling.[30] After a period of decline, Cardiff's port has started to grow again – over 3 million tonnes of cargo passed through the docks in 2007.[31]
 
@@ -41,7 +41,7 @@ Today, Cardiff is the principal finance and business services centre in Wales, a
 
 Cardiff is one of the most popular tourist destination cities in the United Kingdom, receiving 18.3 million visitors in 2010 and generating £852 million for the city's economy.[34] One result of this is that one in five employees in Cardiff are based in the distribution, hotels and restaurants sector, highlighting the growing retail and tourism industries in the city.[35] There are a large number of hotels of varying sizes and standards in the city, providing almost 9,000 available bed spaces.[36]
 
-Broadcasting_House,_Cardiff.jpg]]
+]]
 
 Cardiff is home to the Welsh media and a large media sector with BBC Wales, S4C and ITV Wales all having studios in the city.[37] In particular, there is a large independent TV production industry sector of over 600 companies, employing around 6000 employees and with a turnover estimated at £350 m.[38] Just to the north west of the city, in Rhondda Cynon Taff, the first completely new film studios in the UK for 30 years are being built, named Valleywood. The studios are set to be the biggest in the UK. In 2011 the BBC completed the Roath Lock studios in Cardiff Bay to film dramas such as Casualty, Doctor Who, and Pobol y Cwm.[39]
 
@@ -51,14 +51,14 @@ According to the Welsh Rugby Union, the Principality Stadium has contributed £1
 
 Shopping
 
-St_David's_Centre_newly_opened.jpg is the largest shopping centre in Wales.]] The majority of Cardiff's shopping portfolio is in the city centre around Queen Street and St. Mary Street, with large suburban retail parks located in Cardiff Bay, Culverhouse Cross, Leckwith, Newport Road and Pontprennau, together with markets in the city centre and Splott. A major £675 million regeneration programme for Cardiff's St. David's Centre was completed in 2009, which has provided a total of of shopping space, making it one of the largest shopping centres in the United Kingdom.[41] The centre was named the international shopping centre of the year in 2010 by Retail Leisure International (RLI).[42]
+is the largest shopping centre in Wales.]] The majority of Cardiff's shopping portfolio is in the city centre around Queen Street and St. Mary Street, with large suburban retail parks located in Cardiff Bay, Culverhouse Cross, Leckwith, Newport Road and Pontprennau, together with markets in the city centre and Splott. A major £675 million regeneration programme for Cardiff's St. David's Centre was completed in 2009, which has provided a total of of shopping space, making it one of the largest shopping centres in the United Kingdom.[41] The centre was named the international shopping centre of the year in 2010 by Retail Leisure International (RLI).[42]
 
-Summer_on_Queen_Street_-_Cardiff_-_geograph.org.uk_-_1363923.jpg The Castle Quarter is a commercial area in the north of the city centre which includes some of Cardiff's Victorian and Edwardian arcades: Castle Arcade, High Street Arcade and Duke Street Arcade, and principal shopping streets: St Mary Street, High Street, Castle Street and Duke Street. Development of the area began in February 2010 and is expected to be completed by July 2011. Cardiff Council says that work to create the Castle Quarter as a pedestrian friendly environment for High Street and St Mary Street is designed to enhance the city centre.[43]
+The Castle Quarter is a commercial area in the north of the city centre which includes some of Cardiff's Victorian and Edwardian arcades: Castle Arcade, High Street Arcade and Duke Street Arcade, and principal shopping streets: St Mary Street, High Street, Castle Street and Duke Street. Development of the area began in February 2010 and is expected to be completed by July 2011. Cardiff Council says that work to create the Castle Quarter as a pedestrian friendly environment for High Street and St Mary Street is designed to enhance the city centre.[43]
 
 
 Transport
 
-Cardiff_Central_railway_station,_Cardiff,_Wales.jpg Gorsaf_Heol_y_Frenhines,_Caerdydd.JPG]]
+]]
 
 Rail
 
@@ -68,23 +68,23 @@ Cardiff Queen Street railway station is the second-busiest in Wales and is the h
 
 Air
 
-Cardiff_Airport_(Oct_2010).jpg]] Domestic and international air links to Cardiff and South & West Wales are provided from Cardiff Airport (CWL), the only international airport in Wales. The airport is situated in the village of Rhoose, west of the city. There are regular bus services linking the airport with the Cardiff Central bus station as well as a train service from Rhoose Cardiff International Airport railway station to Cardiff Central.
+]] Domestic and international air links to Cardiff and South & West Wales are provided from Cardiff Airport (CWL), the only international airport in Wales. The airport is situated in the village of Rhoose, west of the city. There are regular bus services linking the airport with the Cardiff Central bus station as well as a train service from Rhoose Cardiff International Airport railway station to Cardiff Central.
 
 Road and bus
 
-Cardiff_Bus_double_decker_(Central_Bus_Station).jpg has the most bus services operating in the Cardiff area.]] The M4 motorway connects Cardiff with Swansea to the west, and Newport and London to the east, with four junctions on the M4 including the one with the A48(M). The A470 provides an important link from the city to the Heads of the Valleys road. When completed, the A4232also known as the Peripheral Distributor Road will form part of the Cardiff ring-road system along with the M4 motorway between junctions 30 and 33.[47]
+has the most bus services operating in the Cardiff area.]] The M4 motorway connects Cardiff with Swansea to the west, and Newport and London to the east, with four junctions on the M4 including the one with the A48(M). The A470 provides an important link from the city to the Heads of the Valleys road. When completed, the A4232also known as the Peripheral Distributor Road will form part of the Cardiff ring-road system along with the M4 motorway between junctions 30 and 33.[47]
 
 Cardiff has a comprehensive bus network, with providers including municipal bus company Cardiff Bus (routes within the city and to Newport, Barry and Penarth), NAT Group (cross-city and to Cardiff Airport), Stagecoach South Wales (to the South Wales Valleys) and First Cymru (to Cowbridge and Bridgend). National Express and Megabus provides direct services to major cities such as Bristol, London, Newcastle upon Tyne and Manchester
 
 Cycle
 
-Cycle_lane_in_Excalibur_Drive,_Cardiff.jpg The Taff Trail is a walking and cycle path running for between Cardiff Bay and Brecon in the Brecon Beacons National Park. It runs through Bute Park, Sophia Gardens and many other green areas within Cardiff. It is possible to cycle the entire distance of the Trail almost completely off-road, as it largely follows the River Taff and many of the old disused railways of the Glamorganshire valleys. On Sundays in summer the Beacons Bike Bus enables cyclists to take their bikes into the Beacons and then ride back to Cardiff along the Trail.[48]
+The Taff Trail is a walking and cycle path running for between Cardiff Bay and Brecon in the Brecon Beacons National Park. It runs through Bute Park, Sophia Gardens and many other green areas within Cardiff. It is possible to cycle the entire distance of the Trail almost completely off-road, as it largely follows the River Taff and many of the old disused railways of the Glamorganshire valleys. On Sundays in summer the Beacons Bike Bus enables cyclists to take their bikes into the Beacons and then ride back to Cardiff along the Trail.[48]
 
 Nextbike have operated a public bike hire scheme in the city since March 2018.[49]
 
 Water
 
-Aquabushydro1.jpg The Aquabus water taxi runs every hour between the city centre (Taff Mead Embankment) and Cardiff Bay (Mermaid Quay), and between Cardiff Bay and Penarth Cardiff Bay Barrage. Throughout the year, Cardiff Waterbus [50] sail between the Pierhead on The Waterfront and the Penarth end of the Cardiff Bay Barrage with short sightseeing cruises.
+The Aquabus water taxi runs every hour between the city centre (Taff Mead Embankment) and Cardiff Bay (Mermaid Quay), and between Cardiff Bay and Penarth Cardiff Bay Barrage. Throughout the year, Cardiff Waterbus [50] sail between the Pierhead on The Waterfront and the Penarth end of the Cardiff Bay Barrage with short sightseeing cruises.
 
 Between March and October boats depart from Cardiff Bay to take visitors to Flat Holm Island. The _PS Waverley_ and _MV Balmoral_ sail from Britannia Quay (in Roath Basin) to various destinations in the Bristol Channel.
 
@@ -98,13 +98,13 @@ Prior to the Big Number Change on 22 April 2000 the area had shorter, six-digit 
 
 Education
 
-Cardiff_University_main_building.jpg's main building]]
+'s main building]]
 
 Cardiff is home to four major institutions of higher education: Cardiff University, Cardiff Metropolitan University, University of South Wales and the Royal Welsh College of Music & Drama.
 
 Cardiff University was founded by Royal Charter in 1883 as the University College of South Wales and Monmouthshire,[51] is a member of the Russell Group of leading research led universities, having most of its campus in Cathays and the city centre. Cardiff Metropolitan University (formerly UWIC) has campuses in the Llandaff, Cyncoed and city centre areas, and is part of the confederal University of Wales. The Royal Welsh College of Music & Drama is a conservatoire established in 1949 and is based in the grounds of Cardiff Castle. The University of South Wales's Cardiff campus, Atrium, is home to the Cardiff School of Creative & Cultural Industries and is located in the city centre.
 
-Royal_Welsh_College_of_Music_&_Drama.jpg]]
+]]
 
 The total number of higher education students in the city is around 43,900.[52][53] The city also has two further education colleges: Cardiff and Vale College and St David's College. The former is the result of a merger, completed in August 2011, between Coleg Glan Hafren and Barry College. Further education is also offered at most high schools in the city.
 
@@ -117,7 +117,7 @@ As well as academic institutions, Cardiff is also home to other educational and 
 
 Landmarks and attractions
 
-Adeilad_y_Pierhead,_Caerdydd.jpg]] Cardiff has many landmark buildings such as the Principality Stadium, Pierhead Building the Welsh National Museum and the Senedd, the home of the National Assembly for Wales. Cardiff is also famous for Cardiff Castle, St David's Hall, Llandaff Cathedral and the Wales Millennium Centre.
+]] Cardiff has many landmark buildings such as the Principality Stadium, Pierhead Building the Welsh National Museum and the Senedd, the home of the National Assembly for Wales. Cardiff is also famous for Cardiff Castle, St David's Hall, Llandaff Cathedral and the Wales Millennium Centre.
 
 Cardiff Castle is a major tourist attraction in the city and is situated in the heart of the city centre. The National History Museum at St Fagans in Cardiff is a large open-air museum housing dozens of buildings from throughout Welsh history that have been moved to the site in Cardiff. The Civic Centre in Cathays Park comprises a collection of Edwardian buildings such as the City Hall, National Museum and Gallery of Wales, Cardiff Crown Court, and buildings forming part of Cardiff University, together with more modern civic buildings. These buildings are laid out around the Queen Alexandra Gardens, a formal park which contains the Welsh National War Memorial and a number of other, smaller, memorials.
 
@@ -140,17 +140,17 @@ Cardiff has walks of special interest for tourists and ramblers alike, such as t
 
 Culture and recreation
 
-Cardiff_Bay_WMC.jpg]]
+]]
 
 Cardiff has many cultural sites varying from the historical Cardiff Castle and out of town Castell Coch to the more modern Wales Millennium Centre and Cardiff Bay. Cardiff was a finalist in the European Capital of Culture 2008.[63] In recent years Cardiff has grown in stature as a tourist destination, with recent accolades including Cardiff being voted the eighth favourite UK city by readers of the _Guardian_.[64] The city was also listed as one of the top 10 destinations in the UK on the official British tourist boards website Visit Britain,[65] and US travel guide Frommers have listed Cardiff as one of 13 top destinations worldwide for 2008.[66] Annual events in Cardiff that have become regular appearances in Cardiff's calendar include Sparks in the Park, The Great British Cheese Festival, Cardiff Mardi Gras, Cardiff Winter Wonderland, Cardiff Festival and Made in Roath.
 
 Music and performing arts
 
-Motorpoint_Arena_in_Cardiff.jpg]] A large number of concerts are held within the city, the larger ones being performed in St David's Hall, the Motorpoint Arena (previously known as the Cardiff International Arena) and occasionally the Principality Stadium. A number of festivals are also held in Cardiff—the largest of these is the Cardiff Big Weekend Festival, which is held annually in the city centre during the summer and plays host to free musical performances (from artists such as Ash, Jimmy Cliff, Cerys Matthews, the Fun Loving Criminals, Soul II Soul and the Magic Numbers), fairground rides and cultural events such as a Children's Festival that takes place in the grounds of Cardiff Castle. The annual festival claims to be the UK's largest free outdoor festival, attracting over 250,000 visitors in 2007.[67]
+]] A large number of concerts are held within the city, the larger ones being performed in St David's Hall, the Motorpoint Arena (previously known as the Cardiff International Arena) and occasionally the Principality Stadium. A number of festivals are also held in Cardiff—the largest of these is the Cardiff Big Weekend Festival, which is held annually in the city centre during the summer and plays host to free musical performances (from artists such as Ash, Jimmy Cliff, Cerys Matthews, the Fun Loving Criminals, Soul II Soul and the Magic Numbers), fairground rides and cultural events such as a Children's Festival that takes place in the grounds of Cardiff Castle. The annual festival claims to be the UK's largest free outdoor festival, attracting over 250,000 visitors in 2007.[67]
 
 Cardiff hosted the National Eisteddfod in 1883, 1899, 1938, 1960, 1978, 2008 and 2018. Cardiff is unique in Wales in having two permanent stone circles used by the Gorsedd of Bards during Eisteddfodau. The original circle stands in Gorsedd Gardens in front of the National Museum while its 1978 replacement is situated in Bute Park. Since 1983, Cardiff has hosted the BBC Cardiff Singer of the World competition, a world-renowned event on the opera calendar which is held every two years. The city also hosts smaller events.
 
-St_Davids_Hall_Interior.jpg]]
+]]
 
 A number of performing arts venues are located within the city. The largest and most prominent of these is the Wales Millennium Centre, which hosts performances of opera, ballet, dance, comedy and musicals, and (as of autumn 2008) is home to the BBC National Orchestra of Wales. St David's Hall (which hosts the Singer of the World competition) has regular performances of classical music and ballet as well as music of other genres. The largest of Cardiff's theatres is the New Theatre, situated in the city centre just off Queen Street. Other such venues include the Sherman Theatre, Chapter Arts Centre and the Gate Arts Centre.
 
@@ -162,9 +162,9 @@ Cardiff has held a photomarathon in the city each year since 2004, in which phot
 
 Recreation
 
-Bute_Park,_Cardiff.jpg]] Cardiff has a strong nightlife and is home to many bars, pubs and clubs. Most clubs and bars are situated in the city centre, especially St. Mary Street, and more recently Cardiff Bay has built up a strong night scene, with many modern bars & restaurants. The Brewery Quarter on St. Mary Street is a recently developed venue for bars and restaurant with a central courtyard. Charles Street is also a popular part of the city.
+]] Cardiff has a strong nightlife and is home to many bars, pubs and clubs. Most clubs and bars are situated in the city centre, especially St. Mary Street, and more recently Cardiff Bay has built up a strong night scene, with many modern bars & restaurants. The Brewery Quarter on St. Mary Street is a recently developed venue for bars and restaurant with a central courtyard. Charles Street is also a popular part of the city.
 
-Scott_Memorial,_Roath_Park_-_geograph.org.uk_-_27200.jpg, including the lighthouse erected as a memorial to Captain Scott|left]]
+, including the lighthouse erected as a memorial to Captain Scott|left]]
 
 Cardiff is known for its extensive parkland, with parks and other such green spaces covering around 10% of the city's total area.[74] Cardiff's main park, Bute Park (which was formerly the castle grounds) extends northwards from the top of one of Cardiff's main shopping street (Queen Street); when combined with the adjacent Llandaff Fields and Pontcanna Fields to the north west it produces a massive open space skirting the River Taff. Other popular parks include Roath Park in the north, donated to the city by the 3rd Marquess of Bute in 1887 and which includes a very popular boating lake; Victoria Park, Cardiff's first official park; and Thompson's Park, formerly home to an aviary removed in the 1970s. Wild open spaces include Howardian Local Nature Reserve, of the lower Rhymney valley in Penylan noted for its Orchids,[75] and Forest Farm Country Park, over along the river Taff in Whitchurch.
 
@@ -173,9 +173,9 @@ Cardiff is one of the top ten retail destinations in the UK,[76][77] with two ma
 
 Media
 
-Media_Wales,_Six_Park_Street,_Cardiff_001.jpg and Western Mail]]
+and Western Mail]]
 
-Roath_Lock_studios_in_Cardiff.jpg studios]]
+studios]]
 
 Cardiff is the Welsh base for the main national broadcasters (BBC Cymru Wales, ITV Wales and S4C). A locally based television station, _Made in Cardiff_, is also based in the city centre. Major filming studios in Cardiff include the BBC's Roath Lock Studios and Pinewood Studios Wales.
 
@@ -190,17 +190,15 @@ The Principality Stadium was one of the first six British landmarks to be fully 
 
 Sport
 
-Cardiff Arms Park Cardiff plays host to many high-profile sporting events at local, national and international level and in recognition of the city's commitment to sport for all Cardiff has been awarded the title of European Capital of Sport 2014.[82][83][84] Organised sports have been held in the city since the early 19th century.[85] national home sporting fixtures are nearly always played in the city. All Wales' multi-sports agencies and many of the country's sports governing bodies have their headquarters in Cardiff and the city's many top quality venues have attracted world-famous sports events, sometimes unrelated to Cardiff or to Wales. In 2008/09, 61% of Cardiff residents regularly participated in sport and active recreation, the highest percentage out of all 22 local authorities in Wales.[86]
+Cardiff plays host to many high-profile sporting events at local, national and international level and in recognition of the city's commitment to sport for all Cardiff has been awarded the title of European Capital of Sport 2014.[82][83][84] Organised sports have been held in the city since the early 19th century.[85] national home sporting fixtures are nearly always played in the city. All Wales' multi-sports agencies and many of the country's sports governing bodies have their headquarters in Cardiff and the city's many top quality venues have attracted world-famous sports events, sometimes unrelated to Cardiff or to Wales. In 2008/09, 61% of Cardiff residents regularly participated in sport and active recreation, the highest percentage out of all 22 local authorities in Wales.[86]
 
-Rugby union fans around the world have long been familiar with the old National Stadium, Cardiff Arms Park, and its successor the Principality Stadium, which hosted the FA Cup for six years (from 2001 to 2006) it took to rebuild Wembley Stadium. In 2009, Cardiff hosted the first Ashes cricket test, between England and Australia, to be held in Wales. Cardiff hosted eight football matches of the London 2012 Olympics.[87] MillenniumStadiumExterior.jpg]] Cardiff City F.C. (founded 1899 as Riverside FC) played their home games at Ninian Park from 1910 until the end of the 2008–09 season. The club's new home is the Cardiff City Stadium, which until 2012, they rented to the Cardiff Blues the cities professional rugby union team, the Blues returning to the Arms Park. Cardiff City have played in the English Football League since the 1920–21 season, climbing to Division 1 after one season.[88][89] Cardiff City are the only non-English team to have won the FA Cup, beating Arsenal in the 1927 final at Wembley Stadium.[90] They were runners up to Portsmouth in the 2008 final, losing 1–0 at the new Wembley Stadium.[91] In the 2013/14 and 2018/19 seasons Cardiff City played in the English Premier League.
+Rugby union fans around the world have long been familiar with the old National Stadium, Cardiff Arms Park, and its successor the Principality Stadium, which hosted the FA Cup for six years (from 2001 to 2006) it took to rebuild Wembley Stadium. In 2009, Cardiff hosted the first Ashes cricket test, between England and Australia, to be held in Wales. Cardiff hosted eight football matches of the London 2012 Olympics.[87] ]] Cardiff City F.C. (founded 1899 as Riverside FC) played their home games at Ninian Park from 1910 until the end of the 2008–09 season. The club's new home is the Cardiff City Stadium, which until 2012, they rented to the Cardiff Blues the cities professional rugby union team, the Blues returning to the Arms Park. Cardiff City have played in the English Football League since the 1920–21 season, climbing to Division 1 after one season.[88][89] Cardiff City are the only non-English team to have won the FA Cup, beating Arsenal in the 1927 final at Wembley Stadium.[90] They were runners up to Portsmouth in the 2008 final, losing 1–0 at the new Wembley Stadium.[91] In the 2013/14 and 2018/19 seasons Cardiff City played in the English Premier League.
 
-Cardiff Metropolitan University F.C. of the Athletic Union of Cardiff Metropolitan University, based in Cyncoed, play in the Welsh Premier League, having been promoted from Welsh League Division One in 2016. They were winners of the Welsh League Cup for the 2018-19 season. [92] Cardiff has numerous smaller clubs including Bridgend Street A.F.C., Caerau (Ely) A.F.C., Cardiff Corinthians F.C., Cardiff Grange Harlequins A.F.C., and Ely Rangers A.F.C. who all play in the Welsh football league system.[93] Welsh_Institute_of_Sport,_Cardiff_-_entrance.JPG, Cardiff, headquarters of Sport Wales, the Welsh Sports Association and the Federation of Disability Sport Wales]] In addition to men's football teams Cardiff City Ladies of the FA Women's Premier League Southern Division are based in the city. Teams in the Welsh Premier Women's Football League are Cardiff Met. Ladies, Cyncoed Ladies and Cardiff City.
+Cardiff Metropolitan University F.C. of the Athletic Union of Cardiff Metropolitan University, based in Cyncoed, play in the Welsh Premier League, having been promoted from Welsh League Division One in 2016. They were winners of the Welsh League Cup for the 2018-19 season. [92] Cardiff has numerous smaller clubs including Bridgend Street A.F.C., Caerau (Ely) A.F.C., Cardiff Corinthians F.C., Cardiff Grange Harlequins A.F.C., and Ely Rangers A.F.C. who all play in the Welsh football league system.[93] , Cardiff, headquarters of Sport Wales, the Welsh Sports Association and the Federation of Disability Sport Wales]] In addition to men's football teams Cardiff City Ladies of the FA Women's Premier League Southern Division are based in the city. Teams in the Welsh Premier Women's Football League are Cardiff Met. Ladies, Cyncoed Ladies and Cardiff City.
 
 During the 1990s, London-based football club Wimbledon FC expressed interest in relocating to Cardiff, having been without a home of their own since exiting Plough Lane stadium in 1991 and sharing with Crystal Palace FC at Selhurst Park. The relocation of the club to Cardiff did not happen; in 2003, the club moved to Milton Keynes and a year later rebranded as Milton Keynes Dons.[94]
 
 Cardiff Arms Park (), in central Cardiff, is among the world's most famous venues—being the scene of three Welsh Grand Slams in the 1970s (1971, 1976 and 1978) and six Five Nations titles in nine years—and was the venue for Wales' games in the 1991 Rugby World Cup.[95][96][97][98] The Arms Park has a sporting history dating back to at least the 1850s, when Cardiff Cricket Club (formed 1819) relocated to the site.[99] The ground was donated to Cardiff CC in 1867 by the Marquess of Bute. Cardiff Cricket Club shared the ground with Cardiff Rugby Football Club (founded 1876) —forming Cardiff Athletic Club between them—until 1966, when the cricket section moved to Sophia Gardens. Cardiff Athletic Club and the Welsh Rugby Union established two stadia on the site—Cardiff RFC played at their stadium at the northern end of the site, and the Wales national rugby union team played international matches at the National Stadium, Cardiff Arms Park, which opened in 1970. The National Stadium was replaced by the 74,500 capacity Millennium Stadium () in 1999—in time for the 1999 Rugby World Cup—and is home stadium to the Wales national rugby and football teams for international matches.[100][101][102][103] In addition to Wales' Six Nations Championship and other international games, the Principality Stadium held four matches in the 2007 Rugby World Cup and six FA Cup finals (from the 2001–02 to 2005–06 seasons) while Wembley Stadium was being rebuilt.[104]
-
-The_SWALEC_Stadium,_Cardiff.jpg
 
 Cardiff Cricket Club were formed in 1819, and Glamorgan County Cricket Club have competed as a first class county since 1921. Their headquarters and ground is the SWALEC Stadium, Sophia Gardens, since moving from Cardiff Arms Park in 1966. The Sophia Gardens stadium underwent a multimillion-pound improvement since being selected to host the first ‘England’ v Australia Test Match of the 2009 Ashes series.[105][106]
 
@@ -210,11 +208,11 @@ Cardiff's professional ice hockey team, the Cardiff Devils, play in the 3000-sea
 
 Cardiff's only American flag football team are the Hurricanes. They won the British Championship in 2014 after falling short by 2 points in a quarter final to eventual winners, the London Rebels the previous year. They are based out of Roath Recreational Ground.
 
-Cardiff_International_Pool_'09.jpg at the International Sports Village, Cardiff Bay]]
+at the International Sports Village, Cardiff Bay]]
 
 The 1958 Commonwealth Games were hosted by Cardiff. The Games involved 1,130 athletes from 35 national teams competing in 94 events.[108] One of the venues for those Games—The Wales Empire Swimming Pool—was demolished in 1998 to make way for the Principality Stadium. The GBP32m Cardiff International Pool in Cardiff Bay, opened to the public on 12 January 2008—part of the GBP1bn International Sports Village (ISV)—is the only Olympic-standard swimming pool in Wales. When complete, the ISV complex will provide Olympic standard facilities for sports including boxing and fencing, gymnastics, judo, white water events (including canoeing and kayaking) and wrestling as well as a snow dome with real snow for skiing and snowboarding, an arena for public ice skating and ice hockey and an hotel.[109][110] Some of the sports facilities at the ISV were to be used as training venues for the London 2012 Olympics.[111]
 
-GB_Rally_December_2006.jpg]] The Principality Stadium hosts motorsport events such as the World Rally Championship, as part of Wales Rally GB. The first ever indoor special stages of the World Rally Championship were held at the Principality Stadium in September 2005 and have been an annual event sincve then.[112] The British Speedway Grand Prix, one of the World Championship events, is held at the Millennium Stadium.[113] While the track—a temporary, purpose built, shale oval—is not universally loved, the venue is considered the best of the World Championship's 11 rounds.[114]
+]] The Principality Stadium hosts motorsport events such as the World Rally Championship, as part of Wales Rally GB. The first ever indoor special stages of the World Rally Championship were held at the Principality Stadium in September 2005 and have been an annual event sincve then.[112] The British Speedway Grand Prix, one of the World Championship events, is held at the Millennium Stadium.[113] While the track—a temporary, purpose built, shale oval—is not universally loved, the venue is considered the best of the World Championship's 11 rounds.[114]
 
 The Cardiff International Sports Stadium, opened 19 January 2009, replacing the Cardiff Athletics Stadium; demolished to make way for the Cardiff City Stadium was a 4,953 capacity, multi sport/special event venue, offering fully certificated international track and field athletics facilities, including an international standard external throws area.[115][116][117] The stadium houses the Headquarters of Welsh Athletics, the sport's governing body for Wales.[118] The city's indoor track and field athletics sports venue is the National Indoor Athletics Centre, an international athletics and multi sports centre at the University of Wales Institute, Cardiff Campus, Cyncoed.[119]
 

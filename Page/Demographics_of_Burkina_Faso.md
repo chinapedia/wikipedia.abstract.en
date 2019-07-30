@@ -1,12 +1,12 @@
 This article is about the demographic features of the population of Burkina Faso, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
-Burkina-Faso-Demography.png, year 2005 ; Number of inhabitants in thousands.]] Burkina Faso's {{#expr:/1e6 round 1}} million people belong to two major West African cultural groups—the Gur (Voltaic) and the Mandé. The Voltaic are far more numerous and include the Mossi, who make up about one-half of the population. The Mossi claim descent from warriors who migrated to present-day Burkina Faso and established an empire that lasted more than 800 years. Predominantly farmers, the Mossi are still bound by the traditions of the Mogho Naba, who hold court in Ouagadougou.
+, year 2005 ; Number of inhabitants in thousands.]] Burkina Faso's {{#expr:/1e6 round 1}} million people belong to two major West African cultural groups—the Gur (Voltaic) and the Mandé. The Voltaic are far more numerous and include the Mossi, who make up about one-half of the population. The Mossi claim descent from warriors who migrated to present-day Burkina Faso and established an empire that lasted more than 800 years. Predominantly farmers, the Mossi are still bound by the traditions of the Mogho Naba, who hold court in Ouagadougou.
 
 About 12,000 Europeans reside in Burkina Faso, the majority of whom are French.
 
 Most of Burkina Faso's population is concentrated in the south and center of the country, with a population density sometimes exceeding . This population density, high for Africa, causes annual migrations of hundreds of thousands of Burkinabé to Ivory Coast and Ghana for seasonal agricultural work. About a third of Burkinabé adhere to traditional African religions. The introduction of Islam to Burkina Faso was initially resisted by the Mossi rulers. Christians, predominantly Roman Catholics, are largely concentrated among the urban elite.
 
-Few Burkinabé have had formal education. Schooling is free but not compulsory, and only about 29% of Burkina's primary school-age children receive a basic education. The University of Ouagadougou, founded in 1974, was the country's first institution of higher education. The Polytechnic University of Bobo-Dioulasso in Bobo-Dioulasso was opened in 1995. Vendeuse_d'arachides.jpg seller in Ouagadougou]]
+Few Burkinabé have had formal education. Schooling is free but not compulsory, and only about 29% of Burkina's primary school-age children receive a basic education. The University of Ouagadougou, founded in 1974, was the country's first institution of higher education. The Polytechnic University of Bobo-Dioulasso in Bobo-Dioulasso was opened in 1995. seller in Ouagadougou]]
 
 
 Population
@@ -136,8 +136,6 @@ Population
 
 Age structure
 
-Burkina_Fasopop.svg
-
     _0-14 years:_ 44.28% (male 4,434,908 /female 4,307,438)
     _15-24 years:_ 20.19% (male 1,980,755 /female 2,004,763)
     _25-54 years:_ 28.82% (male 2,639,235 /female 3,051,333)
@@ -203,8 +201,6 @@ Sex ratio
     65 years and over: 0.65 male(s)/female
     Total population: 0.99 male(s)/female (2009 est.)
 
-Burkina_Faso_girl.jpg
-
 Life expectancy at birth
 
     total population: 61.8 years (2018 est.)
@@ -233,7 +229,7 @@ Nationality
 
 Ethnic groups
 
-Burkina_Faso_-_Bobo_Micro-enterprise_Group.jpg men in Bobo-Dioulasso]]
+men in Bobo-Dioulasso]]
 
     Mossi [12] 52.5%, Fulani [13] 8.4%, Gurma [14] 6.8%, Bobo [15] 4.8%, Gurunsi [16] 4.5%, Senufo [17] 4.4%, Bissa [18] 3.9%, Lobi [19] 2.5%, Dagara [20] 2.4%, Tuareg [21]/Ikelan [22] 1.9%, Dioula [23] 0.8%, Unspecified[24] /No answer [25] 0.1%, Other[26] 7% (2010 est.)
 

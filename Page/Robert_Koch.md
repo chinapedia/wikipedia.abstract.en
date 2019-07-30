@@ -35,7 +35,7 @@ Robert Koch is widely known for his work with anthrax, discovering the causative
 
 Tuberculosis
 
-Statue_of_Robert_Koch_in_Berlin.jpg During his time as the government advisor with the Imperial Department of Health in Berlin in the 1880s, Robert Koch became interested in tuberculosis research.[37] At the time, it was widely believed that tuberculosis was an inherited disease.[38] However, Koch was convinced that the disease was caused by a bacterium and was infectious, and tested his four postulates using guinea pigs.[39] Through these experiments, he found that his experiments with tuberculosis satisfied all four of his postulates.[40] In 1882, he published his findings on tuberculosis, in which he reported the causative agent of the disease to be the slow-growing _Mycobacterium tuberculosis_.[41] Later, Koch's attempt at developing a drug to treat tuberculosis, tuberculin, led to a scandalous failure: he did not divulge the exact composition, and the claimed treatment success did not materialize; the substance is today used for tuberculosis diagnosis.
+During his time as the government advisor with the Imperial Department of Health in Berlin in the 1880s, Robert Koch became interested in tuberculosis research.[37] At the time, it was widely believed that tuberculosis was an inherited disease.[38] However, Koch was convinced that the disease was caused by a bacterium and was infectious, and tested his four postulates using guinea pigs.[39] Through these experiments, he found that his experiments with tuberculosis satisfied all four of his postulates.[40] In 1882, he published his findings on tuberculosis, in which he reported the causative agent of the disease to be the slow-growing _Mycobacterium tuberculosis_.[41] Later, Koch's attempt at developing a drug to treat tuberculosis, tuberculin, led to a scandalous failure: he did not divulge the exact composition, and the claimed treatment success did not materialize; the substance is today used for tuberculosis diagnosis.
 
 Koch and his relationship to Paul Ehrlich, who developed a mechanism to diagnose TB, were portrayed in the 1940 movie _Dr. Ehrlich's Magic Bullet_.
 
@@ -53,7 +53,7 @@ Koch observed the phenomenon of acquired immunity. On December 26, 1900, he arri
 
 Awards and honors
 
-Robert_Koch's_name_on_the_Frieze_of_LSHTM_.jpg frieze in Keppel Street, Bloomsbury, London|right]] In 1897, Koch was elected a Foreign Member of the Royal Society (ForMemRS).[49] In 1905, Koch won the Nobel Prize in Physiology and Medicine for his work with tuberculosis.[50] In 1906, research on tuberculosis and tropical diseases won him the Prussian Order Pour le Merite and in 1908, the Robert Koch Medal, established to honour the greatest living physicians.[51]
+frieze in Keppel Street, Bloomsbury, London|right]] In 1897, Koch was elected a Foreign Member of the Royal Society (ForMemRS).[49] In 1905, Koch won the Nobel Prize in Physiology and Medicine for his work with tuberculosis.[50] In 1906, research on tuberculosis and tropical diseases won him the Prussian Order Pour le Merite and in 1908, the Robert Koch Medal, established to honour the greatest living physicians.[51]
 
 Koch's name is one of twenty-three, from the fields of hygiene and tropical medicine, featured on the frieze of the London School of Hygiene & Tropical Medicine building in Keppel Street, Bloomsbury.[52]
 

@@ -7,7 +7,7 @@ Geography
 
 Situation
 
-Aalen_Luftbild.JPG Aalen is situated on the upper reaches of the river Kocher, at the foot of the Swabian Jura which lies to the south and south-east, and close to the hilly landscapes of the Ellwangen Hills to the north and the _Welland_ to the north-west.
+Aalen is situated on the upper reaches of the river Kocher, at the foot of the Swabian Jura which lies to the south and south-east, and close to the hilly landscapes of the Ellwangen Hills to the north and the _Welland_ to the north-west.
 
 The west of Aalen's territory is on the foreland of the eastern Swabian Jura, and the north and north-west is on the Swabian-Franconian Forest, both being part of the Swabian Keuper-Lias Plains. The south-west is part of the Albuch, the east is part of the Härtsfeld, these two both being parts of the Swabian Jura.[2]
 
@@ -37,32 +37,32 @@ Oberkochen (), Essingen (), Heuchlingen (), Abtsgmünd (), Neuler (), Hüttlinge
 
 Boroughs
 
-Aalen_Stadtbezirke.png Aalen's territory consists of the town centre _(Kernstadt)_ and the municipalities merged from between 1938 (Unterrombach) and 1975 (Wasseralfingen, see mergings section). The municipalities merged in the course of the latest municipal reform of the 1970s are also called _Stadtbezirke_ (quarters or districts), and are _Ortschaften_ ("settlements") in terms of Baden-Württemberg's _Gemeindeordnung_ (municipal code), which means, each of them has its own council elected by its respective residents _(Ortschaftsrat)_ and is presided by a spokesperson _(Ortsvorsteher)_.
+Aalen's territory consists of the town centre _(Kernstadt)_ and the municipalities merged from between 1938 (Unterrombach) and 1975 (Wasseralfingen, see mergings section). The municipalities merged in the course of the latest municipal reform of the 1970s are also called _Stadtbezirke_ (quarters or districts), and are _Ortschaften_ ("settlements") in terms of Baden-Württemberg's _Gemeindeordnung_ (municipal code), which means, each of them has its own council elected by its respective residents _(Ortschaftsrat)_ and is presided by a spokesperson _(Ortsvorsteher)_.
 
 The town centre itself and the merged former municipalities consist of numerous villages _(Teilorte )_, mostly separated by open ground from each other and having their own independent and long-standing history. Some however have been created as planned communities, which were given proper names, but no well-defined borders.
 
 List of villages:[7]
 
-+----------------+-------------------------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Borough        | Coat of arms                  | Area in km² | Residents     | Villages                                                                                                                                                                                                                                                                                                                |
-|                |                               |             | (1 July 2011) |                                                                                                                                                                                                                                                                                                                         |
-+================+===============================+=============+===============+=========================================================================================================================================================================================================================================================================================================================+
-| Town centre    | Coa_Aalen.svg                 | 30,62       | 34.466[8][9]  | Hammerstadt, Hofherrnweiler, Mädle, Mantelhof, Neßlau, Oberrombach, Unterrombach, the latter also known as _Weststadt_ ("West Town")                                                                                                                                                                                    |
-+----------------+-------------------------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Dewangen       | Dewangen.svg                  | 16,53       | 3.183[10]     | Aushof, Bernhardsdorf, Bronnenhäusle, Degenhof, Dreherhof, Faulherrnhof, Freudenhöfle, Gobühl, Großdölzerhof, Haldenhaus, Hüttenhöfe, Kleindölzerhof, Kohlhöfle, Langenhalde, Lusthof, Neuhof, Rauburr, Reichenbach, Riegelhof, Rodamsdörfle, Rotsold, Schafhof, Schultheißenhöfle, Streithöfle, Tannenhof, Trübenreute |
-+----------------+-------------------------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Ebnat          | Aalen-Ebnat_CoA.svg           | 21,16       | 3.327[11]     | Affalterwang, Diepertsbuch, Niesitz                                                                                                                                                                                                                                                                                     |
-+----------------+-------------------------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Fachsenfeld    | Wappen_Fachsenfeld.png        | 3,95        | 3.605[12]     | Bodenbach, Hangendenbuch, Himmlingsweiler, Mühlhäusle, Scherrenmühle, Waiblingen                                                                                                                                                                                                                                        |
-+----------------+-------------------------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Hofen          | Wappen_Hofen_(Aalen).png      | 12,58       | 2.080[13]     | Attenhofen, Fürsitz, Goldshöfe, Heimatsmühle, Oberalfingen, Wagenrain                                                                                                                                                                                                                                                   |
-+----------------+-------------------------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Unterkochen    | Unterkochen.svg               | 21,44       | 4.927[14]     | Birkhöfe, Glashütte, Neukochen, Neuziegelhütte, Stefansweilermühle                                                                                                                                                                                                                                                      |
-+----------------+-------------------------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Waldhausen     | Wappen_Waldhausen_(Aalen).png | 24,38       | 2.335[15]     | Arlesberg, Bernlohe, Beuren, Brastelburg, Geiselwang, Hohenberg, Neubau, Simmisweiler                                                                                                                                                                                                                                   |
-+----------------+-------------------------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Wasseralfingen | Wappen_Wasseralfingen.png     | 15,97       | 11.767[16]    | Affalterried, Brausenried, Bürgle, Erzhäusle, Heisenberg, Mäderhof, Onatsfeld, Rötenberg, Röthardt, Salchenhof, Treppach, Weidenfeld                                                                                                                                                                                    |
-+----------------+-------------------------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++----------------+--------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Borough        | Coat of arms | Area in km² | Residents     | Villages                                                                                                                                                                                                                                                                                                                |
+|                |              |             | (1 July 2011) |                                                                                                                                                                                                                                                                                                                         |
++================+==============+=============+===============+=========================================================================================================================================================================================================================================================================================================================+
+| Town centre    |              | 30,62       | 34.466[8][9]  | Hammerstadt, Hofherrnweiler, Mädle, Mantelhof, Neßlau, Oberrombach, Unterrombach, the latter also known as _Weststadt_ ("West Town")                                                                                                                                                                                    |
++----------------+--------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Dewangen       |              | 16,53       | 3.183[10]     | Aushof, Bernhardsdorf, Bronnenhäusle, Degenhof, Dreherhof, Faulherrnhof, Freudenhöfle, Gobühl, Großdölzerhof, Haldenhaus, Hüttenhöfe, Kleindölzerhof, Kohlhöfle, Langenhalde, Lusthof, Neuhof, Rauburr, Reichenbach, Riegelhof, Rodamsdörfle, Rotsold, Schafhof, Schultheißenhöfle, Streithöfle, Tannenhof, Trübenreute |
++----------------+--------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Ebnat          |              | 21,16       | 3.327[11]     | Affalterwang, Diepertsbuch, Niesitz                                                                                                                                                                                                                                                                                     |
++----------------+--------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fachsenfeld    |              | 3,95        | 3.605[12]     | Bodenbach, Hangendenbuch, Himmlingsweiler, Mühlhäusle, Scherrenmühle, Waiblingen                                                                                                                                                                                                                                        |
++----------------+--------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hofen          |              | 12,58       | 2.080[13]     | Attenhofen, Fürsitz, Goldshöfe, Heimatsmühle, Oberalfingen, Wagenrain                                                                                                                                                                                                                                                   |
++----------------+--------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Unterkochen    |              | 21,44       | 4.927[14]     | Birkhöfe, Glashütte, Neukochen, Neuziegelhütte, Stefansweilermühle                                                                                                                                                                                                                                                      |
++----------------+--------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Waldhausen     |              | 24,38       | 2.335[15]     | Arlesberg, Bernlohe, Beuren, Brastelburg, Geiselwang, Hohenberg, Neubau, Simmisweiler                                                                                                                                                                                                                                   |
++----------------+--------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Wasseralfingen |              | 15,97       | 11.767[16]    | Affalterried, Brausenried, Bürgle, Erzhäusle, Heisenberg, Mäderhof, Onatsfeld, Rötenberg, Röthardt, Salchenhof, Treppach, Weidenfeld                                                                                                                                                                                    |
++----------------+--------------+-------------+---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Spatial planning
 
@@ -87,7 +87,7 @@ Numerous remains of early civilization have been found in the area. Tools made o
 
 Roman era
 
-Limesmuseum_Aalen_principia.jpg After abandoning the Alb Limes (a _limes_ generally following the ridgeline of the Swabian Jura) around 150 AD, Aalen's territory became part of the Roman Empire, in direct vicinity of the then newly erected Rhaetian Limes. The Romans erected a castrum to house the cavalry unit _Ala II Flavia milliaria_; its remains are known today as _Kastell Aalen_ ("Aalen Roman fort"). The site is west of today's town centre at the bottom of the _Schillerhöhe_ hill. With about 1,000 horsemen and nearly as many grooms, it was the greatest fort of auxiliaries along the Rhaetian Limes. There were Civilian settlements adjacent along the south and the east. Around 260 AD, the Romans gave up the fort as they withdrew their presence in unoccupied Germania back to the Rhine and Danube rivers, and the Alamanni took over the region.[19][20] Based on 3rd- and 4th-century coins found, the civilian settlement continued to exist for the time being. However, there is no evidence of continued civilization between the Roman era and the Middle Ages.[21]
+After abandoning the Alb Limes (a _limes_ generally following the ridgeline of the Swabian Jura) around 150 AD, Aalen's territory became part of the Roman Empire, in direct vicinity of the then newly erected Rhaetian Limes. The Romans erected a castrum to house the cavalry unit _Ala II Flavia milliaria_; its remains are known today as _Kastell Aalen_ ("Aalen Roman fort"). The site is west of today's town centre at the bottom of the _Schillerhöhe_ hill. With about 1,000 horsemen and nearly as many grooms, it was the greatest fort of auxiliaries along the Rhaetian Limes. There were Civilian settlements adjacent along the south and the east. Around 260 AD, the Romans gave up the fort as they withdrew their presence in unoccupied Germania back to the Rhine and Danube rivers, and the Alamanni took over the region.[19][20] Based on 3rd- and 4th-century coins found, the civilian settlement continued to exist for the time being. However, there is no evidence of continued civilization between the Roman era and the Middle Ages.[21]
 
 Foundation
 
@@ -101,7 +101,7 @@ Designation as Imperial City
 
 During the war against Württemberg, Emperor Charles IV took the town without a fight after a siege. On 3 December 1360, he declared Aalen an Imperial City, that is, a city or town responsible only to the emperor, a status that made it a quasi-sovereign city-state and that it kept until 1803.[24] In 1377, Aalen joined the Alliance of Swabian Cities, and in 1385, the term _civitas_ appears in the town's seal for the first time. In 1398, Aalen was granted the right to hold markets, and in 1401 Aalen obtained proper jurisdiction.
 
-Aalen_1528.jpg The oldest artistic representation of Aalen was made in 1528. It was made as the basis of a lawsuit between the town and the Counts of Oettingen at the Reichskammergericht in Speyer. It shows Aalen surrounded by walls, towers, and double moats. The layout of the moats, which had an embankment built between them, is recognizable by the present streets named _Nördlicher, Östlicher, Südlicher_ and _Westlicher Stadtgraben_ (Northern, Eastern, Southern and Western Moat respectively). The wall was about tall, 1518 single paces () long and enclosed an area of . During its early years, the town had two town gates: The _Upper_ or _Ellwangen Gate_ in the east, and St. Martin's gate in the south; however due to frequent floods, St. Martin's gate was bricked up in the 14th century and replaced by the _Lower_ or _Gmünd Gate_ built in the west before 1400. Later, several minor side gates were added. The central street market took place on the _Wettegasse_ (today called _Marktplatz_, "market square") and the _Reichsstädter Straße_. So the market district stretched from one gate to the other, however in Aalen it was not straight, but with a 90-degree curve between southern (St. Martin's) gate and eastern (Ellwangen) gate.
+The oldest artistic representation of Aalen was made in 1528. It was made as the basis of a lawsuit between the town and the Counts of Oettingen at the Reichskammergericht in Speyer. It shows Aalen surrounded by walls, towers, and double moats. The layout of the moats, which had an embankment built between them, is recognizable by the present streets named _Nördlicher, Östlicher, Südlicher_ and _Westlicher Stadtgraben_ (Northern, Eastern, Southern and Western Moat respectively). The wall was about tall, 1518 single paces () long and enclosed an area of . During its early years, the town had two town gates: The _Upper_ or _Ellwangen Gate_ in the east, and St. Martin's gate in the south; however due to frequent floods, St. Martin's gate was bricked up in the 14th century and replaced by the _Lower_ or _Gmünd Gate_ built in the west before 1400. Later, several minor side gates were added. The central street market took place on the _Wettegasse_ (today called _Marktplatz_, "market square") and the _Reichsstädter Straße_. So the market district stretched from one gate to the other, however in Aalen it was not straight, but with a 90-degree curve between southern (St. Martin's) gate and eastern (Ellwangen) gate.
 
 Around 1500, the civic graveyard was relocated from the town church to St. John's Church,[25] and in 1514, the _Vierundzwanziger_ ("Group of 24") was the first assembly constituted by the citizens.
 
@@ -113,8 +113,6 @@ Fire of 1634
 
 On the night of 5 September 1634,[27] two ensigns of the army of Bernard of Saxe-Weimar who were fighting with the Swedes and retreating after the Battle of Nördlingen set fire to two powder carriages, to prevent the war material to fall into Croatian hands and to prevent their advance. The result was a conflagration, that some say destroyed portions of the town. There are differing stories regarding this fire. According to 17th-century accounts, the church and all the buildings, except of the _Schwörturm_ tower, were casualties of the fire, and only nine families survived. 19th century research by Hermann Bauer, Lutheran pastor and local historian, discovered that the 17th-century account is exaggerated, but he does agree that the town church and buildings in a "rather large" semicircle around it were destroyed. The fire also destroyed the town archive housed in an addition to the church, with all of its documents.[28] After the fire, soldiers of both armies went through the town looting.[29] It took nearly 100 years for the town to reach its population of 2,000.
 
-Free_Imperial_City_of_Aalen.JPG
-
 French troops marched through Aalen in 1688 during the Nine Years' War; however, unlike other places, they left without leaving severe damages. The French came through again in 1702 during the War of the Spanish Succession and in 1741 during the War of the Austrian Succession,[30] the latter also caused imperial troops to move through in 1743.[31]
 
 The town church's tower collapsed in 1765, presumably because proper building techniques were not utilized during the reconstruction after the fire of 1634. The collapsing tower struck two children of the tower watchman who died of their injuries, and destroyed the nave, leaving only the altar cross intact. The remaining walls had to be knocked down due to the damage. Reconstruction began the same year, creating the building that exists today.[32]
@@ -123,7 +121,7 @@ On 22 November 1749, the so-called _Aalen protocol_ regulating the cohabitation 
 
 Napoleonic era and end of the Imperial City of Aalen
 
-Angriff_auf_Aalen_1796.jpg During the War of the First Coalition (1796), Aalen was looted.[33] The War of the Second Coalition concluded in 1801 with the signing of the Treaty of Lunéville, which led to the German Mediatisation of 1803 that assigned most Imperial Cities to the neighbouring principalities. Aalen was assigned to the electorate of Württemberg, which later became the Kingdom of Württemberg, and became seat of the District ("Oberamt") of Aalen. During the War of the Third Coalition, on 6 October 1805, Napoleon Bonaparte arrived in Aalen, with an army of 40,000. This event, along with Bavarian and Austrian troops moving in some days later, caused miseries that according to the town clerk "no feather could describe".[34]
+During the War of the First Coalition (1796), Aalen was looted.[33] The War of the Second Coalition concluded in 1801 with the signing of the Treaty of Lunéville, which led to the German Mediatisation of 1803 that assigned most Imperial Cities to the neighbouring principalities. Aalen was assigned to the electorate of Württemberg, which later became the Kingdom of Württemberg, and became seat of the District ("Oberamt") of Aalen. During the War of the Third Coalition, on 6 October 1805, Napoleon Bonaparte arrived in Aalen, with an army of 40,000. This event, along with Bavarian and Austrian troops moving in some days later, caused miseries that according to the town clerk "no feather could describe".[34]
 
 In 1811, the municipality of Unterrombach was formed out of some villages previously belonging to Aalen, some to the Barons of Wöllwarth, and the eastern villages were assigned to the municipality of Unterkochen.
 
@@ -131,11 +129,11 @@ In the age of the Napoleonic wars, the town walls were no longer of use, and in 
 
 Industrial revolution
 
-Aalen_nach_1861.jpg Before the industrial revolution, Aalen's economy was shaped by its rural setting. Many citizens were pursuing farming besides their craft, such as tanning. In the mid 19th century, there were twelve tanneries in Aalen, due to the proximity of Ulm, an important sales market. Other crafts that added to the economy were weaving mills, which produced linen and woolen goods, and baking of sweet pastry and gingerbread.[36][37]
+Before the industrial revolution, Aalen's economy was shaped by its rural setting. Many citizens were pursuing farming besides their craft, such as tanning. In the mid 19th century, there were twelve tanneries in Aalen, due to the proximity of Ulm, an important sales market. Other crafts that added to the economy were weaving mills, which produced linen and woolen goods, and baking of sweet pastry and gingerbread.[36][37]
 
 In Aalen, industrialisation was a slow process. The first major increase was in the 1840s, when three factories for nails and some other factories emerged.[38] It was the link with the railway network, by the opening of the Rems Railway from Cannstatt to Wasseralfingen in 1861, that brought more industry to Aalen, along with the royal steel mill (later _Schwäbische Hüttenwerke_) in Wasseralfingen. The Rems Railway's extension to Nördlingen in 1863, the opening of the Brenz Railway in 1864 and of the Upper Jagst Railway in 1866 turned Aalen into a railway hub. Furthermore, between 1901 and its shutdown in 1972, the Härtsfeld Railway connected Aalen with Dillingen an der Donau via Neresheim. Part of becoming a rail hub entailed more jobs based on the rail industry. These included, a maintenance facility, a roundhouse, an administrative office, two track maintenance shops, and a freight station with an industrial branch line. This helped shape Aalen into what today's historians call a "railwayman's town".[39] Starting in 1866, the utilities in town all began to be upgraded. Starting with the Aalen gasworks which were opened and gas lighting was introduced. Then in 1870, a modern water supply system was started and in 1912 the mains electricity. Finally, in 1935, the first electrically powered street lights were installed.[40]
 
-Aalen-um-1900.jpg To fight housing shortage during and immediately after World War I, the town set up barracks settlement areas at the _Schlauch_ and _Alter Turnplatz_ grounds. In spite of the industry being crippled by the Great Depression of 1929, the public baths at the Hirschbach creek where modernized, extended and re-opened in 1931.[41]
+To fight housing shortage during and immediately after World War I, the town set up barracks settlement areas at the _Schlauch_ and _Alter Turnplatz_ grounds. In spite of the industry being crippled by the Great Depression of 1929, the public baths at the Hirschbach creek where modernized, extended and re-opened in 1931.[41]
 
 Nazi era
 
@@ -173,11 +171,11 @@ As Aalen's population grew in the 20th century, more parishes were founded: St. 
 
 Catholicism
 
-Salvatorkirche_aalen.jpg The few Catholics of today's central district were covered by the parish of Unterkochen until the 19th century, a situation which continued for some years even after completion of St. Mary's Church in 1868, which was constructed by Georg Morlok.[52] However, in 1872 Aalen got its proper parish again, and in 1913, a second Catholic church, Salvator's Church, was completed, and in 1969 the Holy Cross Church was also finished. In 1963, a second parish was set up, and in 1972 it got a new Church, the new St. Mary's Church, which has been erected in place of the old St. Mary's church, which had been torn down in 1968. Another church of the second parish was St. Augustine's Church, which was completed in 1970. Finally, in 1976 and 1988, St. Elizabeth's Church and St. Thomas' Church were completed. Furthermore, in 1963, the St. Michael pastoral care office was built.
+The few Catholics of today's central district were covered by the parish of Unterkochen until the 19th century, a situation which continued for some years even after completion of St. Mary's Church in 1868, which was constructed by Georg Morlok.[52] However, in 1872 Aalen got its proper parish again, and in 1913, a second Catholic church, Salvator's Church, was completed, and in 1969 the Holy Cross Church was also finished. In 1963, a second parish was set up, and in 1972 it got a new Church, the new St. Mary's Church, which has been erected in place of the old St. Mary's church, which had been torn down in 1968. Another church of the second parish was St. Augustine's Church, which was completed in 1970. Finally, in 1976 and 1988, St. Elizabeth's Church and St. Thomas' Church were completed. Furthermore, in 1963, the St. Michael pastoral care office was built.
 
 Hofherrnweiler has its own Catholic church, St. Boniface's, since 1904. The villages of Dewangen, Ebnat, Hofen, Waldhausen and Wasseralfingen had remained Catholic after reformation, so old parishes and churches persist there. The _Assumption of Mary_ Church in Dewangen has an early Gothic tower and a newly built nave (1875). Mary's Immaculate Conception Church in Ebnat was constructed in 1723; however the church was first mentioned in 1298.
 
-Marienwallfahrtskirche_Unterkochen.jpg Hofen's Saint George's Church is a fortified church, whose current nave was built between 1762 and 1775.[53] Alongside the church, the Late Gothic St. Odile's Chapel is standing, whose entrance has the year 1462 engraved upon it. Foundations of prior buildings have been dated to the 11th and 13th century.[54]
+Hofen's Saint George's Church is a fortified church, whose current nave was built between 1762 and 1775.[53] Alongside the church, the Late Gothic St. Odile's Chapel is standing, whose entrance has the year 1462 engraved upon it. Foundations of prior buildings have been dated to the 11th and 13th century.[54]
 
 St. Mary's Church of Unterkochen was first mentioned in 1248, and has served the Catholics of Aalen for a long time. Waldhausen's parish church of St. Nicholas was built between 1699 and 1716. Wasseralfingen at first was a chapel of ease for Hofen, but has since had its own chapel, St. Stephen, built. It was presumably built in 1353 and remodeled in 1832. In 1834, a proper parish was established, which built a new St. Stephen's Church. This new building utilized the Romanesque Revival architecture style and was built between 1881 and 1883, and has since remained the parish's landmark. Also, Fachsenfeld received its own church, named Sacred Heart in 1895. All Catholic parishes within Aalen are today incorporated into four pastoral care units within the _Ostalb_ Deanery of the Diocese of Rottenburg-Stuttgart; however these units also comprise some parishes outside of Aalen. Pastoral Care Unit two comprises the parishes of Essingen, Dewangen and Fachsenfeld, unit four comprises Hofen and Wasseralfingen, unit five comprises both parishes of Aalen's centre and Hofherrnweiler, unit five comprises Waldhausen, Ebnat, Oberkochen and Unterkochen.
 
@@ -202,7 +200,7 @@ The present-day make up of Aalen was created on 21 June 1975 by the unification 
 
 Population’s progression and structure
 
-Population_development_Aalen.png During the Middle Ages and the early modern period, Aalen was just a small town with a few hundred inhabitants. The population grew slowly due to numerous wars, famines and epidemics. It was the beginning of the Industrial Revolution in the 19th century where Aalen's growth accelerated. Whereas in 1803, only 1,932 people inhabited the town, in 1905 it had already increased to 10,442. The number continued to rise and reached 15,890 in 1939.
+During the Middle Ages and the early modern period, Aalen was just a small town with a few hundred inhabitants. The population grew slowly due to numerous wars, famines and epidemics. It was the beginning of the Industrial Revolution in the 19th century where Aalen's growth accelerated. Whereas in 1803, only 1,932 people inhabited the town, in 1905 it had already increased to 10,442. The number continued to rise and reached 15,890 in 1939.
 
 The influx of refugees and ethnic Germans from Germany's former eastern territories after World War II pushed the population to 31,814 in 1961. The merger with Wasseralfingen on 21 June 1975 added 14,597 persons and resulted in a total population of 65,165 people. On 30 June 2005, the population, which was officially determined by the Statistical Office of Baden-Württemberg, was 67,125.
 
@@ -242,8 +240,6 @@ Council
 
 Since the local election of 25 May 2014, the town council consists of 51 representatives having a term of five years. The seats are distributed as follows on parties and groups (changes refer to the second last election of 2004):
 
-Gemeinderat_Aalen_2014.svg
-
   Parliamentary group                 Election result   ±           Strength   ±
   ----------------------------------- ----------------- ----------- ---------- ----
   CDU                                 37,4 %            +1,2 Pp.    19 Sitze   −2
@@ -258,7 +254,7 @@ Gemeinderat_Aalen_2014.svg
 
 Mayors
 
-Since 1374, the mayor and the council maintain the government of the town. In the 16th century, the town had two, sometimes three mayors, and in 1552, the council had 13 members. Later, the head of the administration was reorganized several times. In the Württemberg era, the mayor's title was initially called _Bürgermeister_, then from 1819 it was Schultheiß, and since 1947 it is _Oberbürgermeister_. The mayor is elected for a term of eight years, and he is chairman and a voting member of the council. He has one deputy with the official title of _Erster Bürgermeister_ ("first mayor") and one with the official title of _Bürgermeister_ ("mayor"). Aalen_Flag.svg HEADS OF TOWN IN AALEN SINCE 1802
+Since 1374, the mayor and the council maintain the government of the town. In the 16th century, the town had two, sometimes three mayors, and in 1552, the council had 13 members. Later, the head of the administration was reorganized several times. In the Württemberg era, the mayor's title was initially called _Bürgermeister_, then from 1819 it was Schultheiß, and since 1947 it is _Oberbürgermeister_. The mayor is elected for a term of eight years, and he is chairman and a voting member of the council. He has one deputy with the official title of _Erster Bürgermeister_ ("first mayor") and one with the official title of _Bürgermeister_ ("mayor"). HEADS OF TOWN IN AALEN SINCE 1802
 
 -   1802–: Theodor Betzler
 -   1812–1819: Ludwig Hölder
@@ -278,7 +274,7 @@ Since 1374, the mayor and the council maintain the government of the town. In th
 
 Coat of arms and flag
 
-Stadtwappen_Aalen_1766.JPG Aalen's coat of arms depicts a black eagle with a red tongue on golden background, having a red shield on its breast with a bent silver eel on it. Eagle and eel were first acknowledged as Aalen's heraldic animals in the seal of 1385, with the eagle representing the town's imperial immediacy.[64] After the territorial reform, it was bestowed again by the Administrative District of Stuttgart on 16 November 1976.
+Aalen's coat of arms depicts a black eagle with a red tongue on golden background, having a red shield on its breast with a bent silver eel on it. Eagle and eel were first acknowledged as Aalen's heraldic animals in the seal of 1385, with the eagle representing the town's imperial immediacy.[64] After the territorial reform, it was bestowed again by the Administrative District of Stuttgart on 16 November 1976.
 
 The coat of arms' blazon reads: “In gold, the black imperial eagle, with a red breast shield applied to it, therein a bent silver eel” _(In Gold der schwarze Reichsadler, belegt mit einem roten Brustschild, darin ein gekrümmter silberner Aal)_.
 
@@ -336,7 +332,7 @@ Museums and memorial sites
 
 Museums
 
-Limesmuseum_Aalen_Aussenansicht.jpg In the central district of Aalen, there are two museums: The “Aalen Limes Museum" _(Limesmuseum Aalen)_ is located at the place of the largest Roman cavalry fort north of the Alps until about 200 AD. It opened in 1964.[74] The museum exhibits numerous objects from the Roman era. The ruins of the cavalry fort located beside the museum is open to museum visitors. Every other year, a Roman festival is held in the area of the museum (see below).
+In the central district of Aalen, there are two museums: The “Aalen Limes Museum" _(Limesmuseum Aalen)_ is located at the place of the largest Roman cavalry fort north of the Alps until about 200 AD. It opened in 1964.[74] The museum exhibits numerous objects from the Roman era. The ruins of the cavalry fort located beside the museum is open to museum visitors. Every other year, a Roman festival is held in the area of the museum (see below).
 
 In the Geological-Paleontological Museum located in the historic town hall, there are more than 1500 fossils from the Swabian Jura, including ammonites, ichthyosaurs and corals, displayed.
 
@@ -346,7 +342,7 @@ In the Wasseralfingen district, there are two more museums: The _Museum Wasseral
 
 Memorial sites
 
-Gedenkstein_Schillerlinde_Wasseralfingen.jpg There is memorial stone at the _Schillerlinde_ tree above Wasseralfingen's ore pit dedicated to four prisoners of the subcamp of Natzweiler-Struthof concentration camp killed there. Also in Wasseralfingen, in the cemetery a memorial with the Polish inscription "To the victims of Hitler" which commemorates the deceased forced labourers buried there.[75]
+There is memorial stone at the _Schillerlinde_ tree above Wasseralfingen's ore pit dedicated to four prisoners of the subcamp of Natzweiler-Struthof concentration camp killed there. Also in Wasseralfingen, in the cemetery a memorial with the Polish inscription "To the victims of Hitler" which commemorates the deceased forced labourers buried there.[75]
 
 In 1954, on the _Schillerhöhe_ hill the town erected a bell tower as a memorial to Aalen's victims of both world wars and to the displacement of ethnic Germans. The tower was planned by Emil Leo, the bell was endowed by Carl Schneider. The tower is open on request. Every evening at 18:45 (before 2003: at 19:45), the memorial's bell rings.[76]
 
@@ -354,7 +350,7 @@ Buildings
 
 Churches
 
-Johanneskirche_Aalen.jpg St._Stephanus,_Wasseralfingen.jpg The town centre is dominated by the Evangelical-Lutheran St. Nicholas' Church in the heart of the pedestrian area. The church, in its present shape being built between 1765 and 1767, is the only major Late Baroque building in Aalen and is the main church of the Evangelical-Lutheran parish of Aalen.
+The town centre is dominated by the Evangelical-Lutheran St. Nicholas' Church in the heart of the pedestrian area. The church, in its present shape being built between 1765 and 1767, is the only major Late Baroque building in Aalen and is the main church of the Evangelical-Lutheran parish of Aalen.
 
 _St. John's Church_ is located inside of St. John's cemetery in the western centre. The building presumably is from the 9th century and thus is one of Württemberg's oldest existing churches. The interior features frescos from the early 13th century.
 
@@ -362,7 +358,7 @@ For other churches in Aalen, see the Religions section.
 
 Historic Town Hall with "Spy"
 
-Spionturm_Aalen.jpg The Historic Town Hall was originally built in the 14th century. After the fire of 1634, it was re-constructed in 1636. This building received a clock from Lauterburg,[77] and the Imperial City of Nuremberg donated a Carillon. It features a figurine of the "Spy of Aalen" and historically displayed other figurines, however the latter ones were lost by a fire in 1884. Since then, the Spy resides inside the reconstructed tower and has become a symbol of the town. The building was used as the town hall until 1907. Since 1977, the Geological-Paleontological Museum resides in the Historic Town Hall.[78]
+The Historic Town Hall was originally built in the 14th century. After the fire of 1634, it was re-constructed in 1636. This building received a clock from Lauterburg,[77] and the Imperial City of Nuremberg donated a Carillon. It features a figurine of the "Spy of Aalen" and historically displayed other figurines, however the latter ones were lost by a fire in 1884. Since then, the Spy resides inside the reconstructed tower and has become a symbol of the town. The building was used as the town hall until 1907. Since 1977, the Geological-Paleontological Museum resides in the Historic Town Hall.[78]
 
 According to legend, the citizens of Aalen owe the "Spy of Aalen" _(Spion von Aalen)_ their town having been spared from destruction by the emperor's army:
 
@@ -386,7 +382,7 @@ The market square is the historic hub of Aalen and runs along about from the tow
 
 Market fountain
 
-Marktbrunnen_Aalen.jpg at the market fountain]] In 1705, for the water supply of Aalen a well casing was erected at the northern point of the market square, in front of the Historic Town Hall. It was a present of duke Eberhard Louis. The fountain bore a statue of emperor Joseph I., who was enthroned in 1705 and in 1707 renewed Aalen's Imperial City privileges.[82] The fountain was supplied via a wooden pipe. Excessive water was dissipated through ditches branched from Kocher river. When in the early 1870s Aalen's water network was constructed, the fountain was replaced by a smaller fountain about distant. In 1975, the old market fountain was re-erected in baroque style. It bears a replica of the emperor's statue, with the original statue exhibited in the new town hall's lobby. The cast iron casing plates depict the 1718 coat of arms of the Duchy of Württemberg and the coats of arms of Aalen and of the merged municipalities.
+at the market fountain]] In 1705, for the water supply of Aalen a well casing was erected at the northern point of the market square, in front of the Historic Town Hall. It was a present of duke Eberhard Louis. The fountain bore a statue of emperor Joseph I., who was enthroned in 1705 and in 1707 renewed Aalen's Imperial City privileges.[82] The fountain was supplied via a wooden pipe. Excessive water was dissipated through ditches branched from Kocher river. When in the early 1870s Aalen's water network was constructed, the fountain was replaced by a smaller fountain about distant. In 1975, the old market fountain was re-erected in baroque style. It bears a replica of the emperor's statue, with the original statue exhibited in the new town hall's lobby. The cast iron casing plates depict the 1718 coat of arms of the Duchy of Württemberg and the coats of arms of Aalen and of the merged municipalities.
 
 Reichsstädter Brunnen
 
@@ -398,7 +394,7 @@ The _Radgasse_ ("Wheel Alley") features Aalen's oldest façade. Originally a sma
 
 Tiefer Stollen
 
-Eingang_Besucherbergwerk_Tiefer_Stollen_heute.JPG The former iron ore pit _Wilhelm_ at Braunenberg hill was converted into the _Tiefer Stollen_ tourist mine in order to remind of the old-day miners' efforts and to maintain it as a memorial of early industrialisation in the Aalen area. It has a mining museum open for visitors, and a mine railway takes visitors deep into the mountain. The Town of Aalen, a sponsorship association, and many citizens volunteered several thousand hours of labour to put the mine into its current state. As far as possible, things were left in the original state. In 1989, a sanitary gallery was established where respiratory diseases are treated within rest cures. Thus the Aalen village of Röthard, where the gallery is located, was awarded the title of "Place with sanitary gallery service" in 2004.[85]
+The former iron ore pit _Wilhelm_ at Braunenberg hill was converted into the _Tiefer Stollen_ tourist mine in order to remind of the old-day miners' efforts and to maintain it as a memorial of early industrialisation in the Aalen area. It has a mining museum open for visitors, and a mine railway takes visitors deep into the mountain. The Town of Aalen, a sponsorship association, and many citizens volunteered several thousand hours of labour to put the mine into its current state. As far as possible, things were left in the original state. In 1989, a sanitary gallery was established where respiratory diseases are treated within rest cures. Thus the Aalen village of Röthard, where the gallery is located, was awarded the title of "Place with sanitary gallery service" in 2004.[85]
 
 Observatory
 
@@ -406,11 +402,11 @@ The Aalen Observatory was built in 1969 as school observatory for the Schubart G
 
 Windpark Waldhausen
 
-Windrad_Waldhausen_02.JPG The _Windpark Waldhausen_ wind farm began operations in early 2007. It consists of seven REpower MM92 wind turbines with a nameplate capacity of 2 MW each.[86] The hub height of each wind turbine is , with a rotor diameter of .
+The _Windpark Waldhausen_ wind farm began operations in early 2007. It consists of seven REpower MM92 wind turbines with a nameplate capacity of 2 MW each.[86] The hub height of each wind turbine is , with a rotor diameter of .
 
 Aalbäumle observation tower
 
-Aalbäumle.jpg The tall _Aalbäumle_ observation tower is built atop _Langert_ mountain. This popular hiking destination was built in 1898 and was remodelled in 1992. It features a good view over Aalen and the Welland region, up to the Rosenstein mountain and Ellwangen. Beneath the tower, an adventure playground and a cabin is located. A flag on the tower signals whether the cabin's restaurant is open.
+The tall _Aalbäumle_ observation tower is built atop _Langert_ mountain. This popular hiking destination was built in 1898 and was remodelled in 1992. It features a good view over Aalen and the Welland region, up to the Rosenstein mountain and Ellwangen. Beneath the tower, an adventure playground and a cabin is located. A flag on the tower signals whether the cabin's restaurant is open.
 
 Natural monuments
 
@@ -422,7 +418,7 @@ The large _Goldshöfer Sande_ protected area was established in 2000 and is situ
 
 Sports
 
-WaldstadionAalen.jpg The football team, VfR Aalen, was founded in 1921 and played in the 2nd German League between 2012 and 2015, after which they were relegated to 3. Liga. Its playing venue is the Scholz-Arena situated in the west of the town, which bore the name _Städtisches Waldstadion Aalen_ ("Civic Forest Stadium of Aalen") until 2008. From 1939 until 1945, the VfR played in the Gauliga Württemberg, then one of several parallel top-ranking soccer leagues of Germany.
+The football team, VfR Aalen, was founded in 1921 and played in the 2nd German League between 2012 and 2015, after which they were relegated to 3. Liga. Its playing venue is the Scholz-Arena situated in the west of the town, which bore the name _Städtisches Waldstadion Aalen_ ("Civic Forest Stadium of Aalen") until 2008. From 1939 until 1945, the VfR played in the Gauliga Württemberg, then one of several parallel top-ranking soccer leagues of Germany.
 
 The KSV Aalen wrestles in the Wrestling Federal League. It was German champion in team wrestling in 2010. Its predecessor, the _KSV Germania Aalen_ disbanded in 2005, was German champion eight times and runner-up five times since 1976. Another Aalen club, the TSV Dewangen, wrestled in the Federal League until 2009.
 
@@ -456,8 +452,6 @@ In Aalen, metalworking is the predominant industry, along with machine-building.
 Notable enterprises include _SHW Automotive_ (originating from the former _Schwäbische Hüttenwerke_ steel mills and a mill of 1671 in Wasseralfingen), the _Alfing Kessler_ engineering works, the precision tools manufacturer _MAPAL Dr. Kress_, the snow chain manufacturer _RUD Ketten Rieger & Dietz_ and its subsidiary _Erlau_, the _Gesenkschmiede Schneider_ forging die smithery, the _SDZ Druck und Medien_ media company, the _Papierfabrik Palm_ paper mill, the alarm system manufacturer _Telenot_, the laser show provider _LOBO electronic_ and the textile finisher _Lindenfarb_, which all have their seat in Aalen. A branch in Aalen is maintained by optical systems manufacturer Carl Zeiss headquartered in nearby Oberkochen.[98]
 
 Transport
-
-Bahnhof_Aalen.jpg
 
 Rail
 
@@ -535,13 +529,9 @@ Honorary citizens
 
 Persons born in Aalen
 
-P_Sinner_-_Bischof_Karl_Joseph_Hefele_1869_(GPh43).jpg
-
 -   Johann Christoph von Westerstetten (1563-1637), Bishop of Eichstaett and counter-reformer
 -   Karl Joseph von Hefele (1809–1893), Roman Catholic theologian, clerical historian and bishop
 -   Karl Wahl (1892-1981), Gauleiter of Swabia, Obergruppenführer
-
-Kurt_Jooss.jpg
 
 -   Kurt Jooss (1901-1979), born in Wasseralfingen; dancer, choreographer and dance educator
 -   August Zehender (1903-1945), SS Brigade Commander and Major General of the Waffen-SS
@@ -562,8 +552,6 @@ Kurt_Jooss.jpg
 -   Cro (born 1990), Carlo Waibel), singer
 
 Other
-
-Christian_Friedrich_Daniel_Schubart.jpg
 
 -   Christian Friedrich Daniel Schubart (1739–1791), poet, organ player, composer and journalist; lived in Aalen as a child and adolescent
 -   Rudolf Duala Manga Bell (1873–1914), King of Duala and resistance leader in the German colony of Kamerun, lived in Aalen from 1891 until 1896.

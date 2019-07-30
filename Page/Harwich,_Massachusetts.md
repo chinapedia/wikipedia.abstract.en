@@ -37,7 +37,7 @@ The town of Harwich has a mild summer Humid continental climate (Dfb). The plant
 
 Demographics
 
-Harwich_MA_Congregational_Church.jpg As of the census[8] of 2000, there were 12,386 people, 5,471 households, and 3,545 families residing in the town. The population density was 588.6 people per square mile (227.3/km²). There were 9,450 housing units at an average density of 449.1 per square mile (173.4/km²). The racial makeup of the town was 95.41% White, 0.71% Black or African American, 0.19% Native American, 0.22% Asian, 0.05% Pacific Islander, 2.03% from other races, and 1.40% from two or more races. 0.96% of the population were Hispanic or Latino of any race.
+As of the census[8] of 2000, there were 12,386 people, 5,471 households, and 3,545 families residing in the town. The population density was 588.6 people per square mile (227.3/km²). There were 9,450 housing units at an average density of 449.1 per square mile (173.4/km²). The racial makeup of the town was 95.41% White, 0.71% Black or African American, 0.19% Native American, 0.22% Asian, 0.05% Pacific Islander, 2.03% from other races, and 1.40% from two or more races. 0.96% of the population were Hispanic or Latino of any race.
 
 There were 5,471 households out of which 21.3% had children under the age of 18 living with them, 53.4% were married couples living together, 9.0% had a female householder with no husband present, and 35.2% were non-families. 29.8% of all households were made up of individuals and 16.9% had someone living alone who was 65 years of age or older. The average household size was 2.20 and the average family size was 2.72.
 
@@ -79,7 +79,7 @@ Harwich is the site of Cape Cod Regional Technical High School, a grades 9–12 
 
 Transportation
 
-Cape_Cod_Rail_Trail_Rotary,_Harwich_MA.jpg Rotary
+Rotary
 
 ]]
 

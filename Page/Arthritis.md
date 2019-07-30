@@ -70,7 +70,7 @@ Pain, which can vary in severity, is a common symptom in virtually all types of 
 -   Tenderness
 -   Difficulty moving the joint
 
-It is common in advanced arthritis for significant secondary changes to occur. For example, arthritic symptoms might make it difficult for a person to move around and/or exercise, which can lead to secondary effects, such as: Gout_Signs_and_Symptoms.jpg
+It is common in advanced arthritis for significant secondary changes to occur. For example, arthritic symptoms might make it difficult for a person to move around and/or exercise, which can lead to secondary effects, such as:
 
 -   Muscle weakness
 -   Loss of flexibility
@@ -101,7 +101,7 @@ Osteoarthritis is the most common form of arthritis.[41] It can affect both the 
 
 Rheumatoid arthritis
 
-X-ray_of_right_fourth_PIP_joint_with_bone_erosions_by_rheumatoid_arthritis.jpgs by rheumatoid arthritis.[43]]] Rheumatoid arthritis (RA) is a disorder in which the body's own immune system starts to attack body tissues.[44] The attack is not only directed at the joint but to many other parts of the body. In rheumatoid arthritis, most damage occurs to the joint lining and cartilage which eventually results in erosion of two opposing bones. RA often affects joints in the fingers, wrists, knees and elbows, is symmetrical (appears on both sides of the body), and can lead to severe deformity in a few years if not treated. RA occurs mostly in people aged 20 and above. In children, the disorder can present with a skin rash, fever, pain, disability, and limitations in daily activities.[45] With earlier diagnosis and aggressive treatment, many individuals can lead a better quality of life than if going undiagnosed for long after RA's onset.[46] The drugs to treat RA range from corticosteroids to monoclonal antibodies given intravenously. Treatments also include analgesics such as NSAIDs and disease-modifying antirheumatic drugs (DMARDs), while in rare cases, surgery may be required to replace joints, but there is no cure for the disease.[47]
+s by rheumatoid arthritis.[43]]] Rheumatoid arthritis (RA) is a disorder in which the body's own immune system starts to attack body tissues.[44] The attack is not only directed at the joint but to many other parts of the body. In rheumatoid arthritis, most damage occurs to the joint lining and cartilage which eventually results in erosion of two opposing bones. RA often affects joints in the fingers, wrists, knees and elbows, is symmetrical (appears on both sides of the body), and can lead to severe deformity in a few years if not treated. RA occurs mostly in people aged 20 and above. In children, the disorder can present with a skin rash, fever, pain, disability, and limitations in daily activities.[45] With earlier diagnosis and aggressive treatment, many individuals can lead a better quality of life than if going undiagnosed for long after RA's onset.[46] The drugs to treat RA range from corticosteroids to monoclonal antibodies given intravenously. Treatments also include analgesics such as NSAIDs and disease-modifying antirheumatic drugs (DMARDs), while in rare cases, surgery may be required to replace joints, but there is no cure for the disease.[47]
 
 Treatment with DMARDs is designed to initiate an adaptive immune response, in part by CD4+ T helper (Th) cells, specifically Th17 cells.[48] Th17 cells are present in higher quantities at the site of bone destruction in joints and produce inflammatory cytokines associated with inflammation, such as interleukin-17 (IL-17).[49]
 

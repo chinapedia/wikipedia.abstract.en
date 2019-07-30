@@ -27,7 +27,7 @@ The House of Lords remained more powerful than the House of Commons, but the Low
 
 The House of Lords was reduced to a largely powerless body, with Cromwell and his supporters in the Commons dominating the Government. On 19 March 1649, the House of Lords was abolished by an Act of Parliament, which declared that "The Commons of England [find] by too long experience that the House of Lords is useless and dangerous to the people of England."[18] The House of Lords did not assemble again until the Convention Parliament met in 1660 and the monarchy was restored. It returned to its former position as the more powerful chamber of Parliament—a position it would occupy until the 19th century.
 
-Queen_Anne_in_the_House_of_Lords_by_Peter_Tillemans.jpeg addressing the House of Lords, c. 1708–14, by Peter Tillemans ]] House_of_lords_and_princes_chamber.jpg David_Lloyd_George_1902.jpg, proposed by David Lloyd George (above), precipitated a political crisis in 1909.]] Passing_of_the_Parliament_Bill,_1911_-_Project_Gutenberg_eText_19609.jpg ]]
+addressing the House of Lords, c. 1708–14, by Peter Tillemans ]] , proposed by David Lloyd George (above), precipitated a political crisis in 1909.]] ]]
 
 19th century
 
@@ -42,8 +42,6 @@ When the House of Commons passed a Reform Bill to correct some of these anomalie
 Before the new peers were created, however, the Lords who opposed the bill admitted defeat and abstained from the vote, allowing the passage of the bill. The crisis damaged the political influence of the House of Lords but did not altogether end it. A vital reform was effected by the Lords themselves in 1868, when they changed their standing orders to abolish proxy voting, preventing Lords from voting without taking the trouble to attend.[19] Over the course of the century the power of the Upper House were further reduced stepwise, culminating in the 20th century with the Parliament Act of 1911. Then the Commons gradually became the stronger House of Parliament.
 
 20th century
-
-1911-New-Perrs-UK-Punch.jpg
 
 The status of the House of Lords returned to the forefront of debate after the election of a Liberal Government in 1906. In 1909, the Chancellor of the Exchequer, David Lloyd George, introduced into the House of Commons the "People's Budget", which proposed a land tax targeting wealthy landowners. The popular measure, however, was defeated in the heavily Conservative House of Lords.[20]
 
@@ -150,7 +148,7 @@ Functions
 
 Legislative functions
 
-Palace_of_Westminster,_London_-_Feb_2007.jpg Legislation, with the exception of money bills, may be introduced in either House.
+Legislation, with the exception of money bills, may be introduced in either House.
 
 The House of Lords debates legislation, and has power to amend or reject bills. However, the power of the Lords to reject a bill passed by the House of Commons is severely restricted by the Parliament Acts. Under those Acts, certain types of bills may be presented for the Royal Assent without the consent of the House of Lords (i.e. the Commons can override the Lords' veto). The House of Lords cannot delay a money bill (a bill that, in the view of the Speaker of the House of Commons, solely concerns national taxation or public funds) for more than one month.
 
@@ -262,7 +260,7 @@ This reform of the post of Lord Chancellor was made due to the perceived constit
 
 The overlap of the legislative and executive roles is a characteristic of the Westminster system, as the entire cabinet consists of members of the House of Commons or the House of Lords; however, in June 2003, the Blair Government announced its intention to abolish the post of Lord Chancellor because of the office's mixed executive and judicial responsibilities. The abolition of the office was rejected by the House of Lords, and the Constitutional Reform Act 2005 was thus amended to preserve the office of Lord Chancellor. The Act no longer guarantees that the office holder of Lord Chancellor is the presiding officer of the House of Lords, and therefore allows the House of Lords to elect a speaker of their own.
 
-Charles_Pepys,_1st_Earl_of_Cottenham_by_Charles_Robert_Leslie.jpg as Lord Chancellor. The Lord Chancellor wore black and gold robes whilst presiding over the House of Lords.]] The Lord Speaker may be replaced as presiding officer by one of his or her deputies. The Chairman of Committees, the Principal Deputy Chairman of Committees, and several Chairmen are all deputies to the Lord Speaker, and are all appointed by the House of Lords itself at the beginning of each session. By custom, the Crown appoints each Chairman, Principal Deputy Chairman and Deputy Chairman to the additional office of Deputy Speaker of the House of Lords.[82] There was previously no legal requirement that the Lord Chancellor or a Deputy Speaker be a member of the House of Lords (though the same has long been customary).
+as Lord Chancellor. The Lord Chancellor wore black and gold robes whilst presiding over the House of Lords.]] The Lord Speaker may be replaced as presiding officer by one of his or her deputies. The Chairman of Committees, the Principal Deputy Chairman of Committees, and several Chairmen are all deputies to the Lord Speaker, and are all appointed by the House of Lords itself at the beginning of each session. By custom, the Crown appoints each Chairman, Principal Deputy Chairman and Deputy Chairman to the additional office of Deputy Speaker of the House of Lords.[82] There was previously no legal requirement that the Lord Chancellor or a Deputy Speaker be a member of the House of Lords (though the same has long been customary).
 
 Whilst presiding over the House of Lords, the Lord Chancellor traditionally wore ceremonial black and gold robes. Robes of black and gold are now worn by the Lord Chancellor and Secretary of State for Justice in the House of Commons, on ceremonial occasions. This is no longer a requirement for the Lord Speaker except for State occasions outside of the chamber. The Speaker or Deputy Speaker sits on the Woolsack, a large red seat stuffed with wool, at the front of the Lords Chamber.
 
@@ -278,8 +276,6 @@ The Gentleman Usher of the Black Rod is also an officer of the House; he takes h
 
 
 Procedure
-
-Chamber_of_the_House_of_Lords_benches.jpg Thrones_in_the_House_of_Lords_c1902.jpg
 
 The House of Lords and the House of Commons assemble in the Palace of Westminster. The Lords Chamber is lavishly decorated, in contrast with the more modestly furnished Commons Chamber. Benches in the Lords Chamber are coloured red. The Woolsack is at the front of the Chamber; the Government sit on benches on the right of the Woolsack, while members of the Opposition sit on the left. Crossbenchers, sit on the benches immediately opposite the Woolsack.[83]
 

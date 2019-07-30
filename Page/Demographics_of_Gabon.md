@@ -3,7 +3,7 @@ The DEMOGRAPHICS OF GABON is the makeup of the population of Gabon. As of , Gabo
 
 Population
 
-Gabon_population.svg According to the total population was in , compared to only 469,000 in 1950. The proportion of children below the age of 15 in 2010 was 35.5%, 60.2% was between 15 and 65 years of age, while 4.3% was 65 years or older .[1]
+According to the total population was in , compared to only 469,000 in 1950. The proportion of children below the age of 15 in 2010 was 35.5%, 60.2% was between 15 and 65 years of age, while 4.3% was 65 years or older .[1]
 
          Total population   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
   ------ ------------------ -------------------------- --------------------------- -------------------------
@@ -147,8 +147,6 @@ Population
     2,119,036 (July 2018 est.)
 
 Age structure
-
-Gabonpop.svg
 
     _0-14 years:_ 37.45% (male 405,676 /female 387,900)
     _15-24 years:_ 22.08% (male 245,490 /female 222,343)

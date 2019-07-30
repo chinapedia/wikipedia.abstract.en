@@ -3,12 +3,10 @@ CHAMAELEON () is a small constellation in the southern sky. It is named after th
 
 History
 
-Chameleon_Constellation.png's _Atlas Coelestis_, ca. 1742.]] Chamaeleon was one of twelve constellations created by Petrus Plancius from the observations of Pieter Dirkszoon Keyser and Frederick de Houtman. It first appeared on a 35-cm diameter celestial globe published in 1597 (or 1598) in Amsterdam by Plancius and Jodocus Hondius. Johann Bayer was the first uranographer to put Chamaeleon in a celestial atlas. It was one of many constellations created by European explorers in the 15th and 16th centuries out of unfamiliar Southern Hemisphere stars.
+'s _Atlas Coelestis_, ca. 1742.]] Chamaeleon was one of twelve constellations created by Petrus Plancius from the observations of Pieter Dirkszoon Keyser and Frederick de Houtman. It first appeared on a 35-cm diameter celestial globe published in 1597 (or 1598) in Amsterdam by Plancius and Jodocus Hondius. Johann Bayer was the first uranographer to put Chamaeleon in a celestial atlas. It was one of many constellations created by European explorers in the 15th and 16th centuries out of unfamiliar Southern Hemisphere stars.
 
 
 Features
-
-Constellation_Chamaeleon.jpg
 
 Stars
 

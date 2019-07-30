@@ -7,7 +7,7 @@ Today, he is well known for his achievements in algebra. He made the first syste
 
 Early life and education
 
-Cardano_-_De_propria_vita,_1821_-_698063_F.jpg He was born in Pavia, Lombardy, the illegitimate child of Fazio Cardano, a mathematically gifted jurist, lawyer, and close personal friend of Leonardo da Vinci. In his autobiography, Cardano wrote that his mother, Chiara Micheri, had taken "various abortive medicines" to terminate the pregnancy; he was "taken by violent means from my mother; I was almost dead." She was in labour for three days.[6] Shortly before his birth, his mother had to move from Milan to Pavia to escape the Plague; her three other children died from the disease.
+He was born in Pavia, Lombardy, the illegitimate child of Fazio Cardano, a mathematically gifted jurist, lawyer, and close personal friend of Leonardo da Vinci. In his autobiography, Cardano wrote that his mother, Chiara Micheri, had taken "various abortive medicines" to terminate the pregnancy; he was "taken by violent means from my mother; I was almost dead." She was in labour for three days.[6] Shortly before his birth, his mother had to move from Milan to Pavia to escape the Plague; her three other children died from the disease.
 
 After a depressing childhood, with frequent illnesses, including impotence, and the rough upbringing by his overbearing father, in 1520, Cardano entered the University of Pavia against his father's wish, who wanted his son to undertake studies of law, but Girolamo felt more attracted to philosophy and science. During the Italian War of 1521-6, however, the authorities in Pavia were forced to close the university in 1524.[7] Cardano resumed his studies at the University of Padua, where he graduated with a doctorate in medicine in 1525.[8] His eccentric and confrontational style did not earn him many friends and he had a difficult time finding work after his studies had ended. In 1525, Cardano repeatedly applied to the College of Physicians in Milan, but was not admitted owing to his combative reputation and illegitimate birth. However, he was consulted by many members of the College of Physicians due to his irrefutable intelligence.[9]
 
@@ -21,7 +21,7 @@ With the help of a few noblemen, Cardano obtained a teaching position in mathema
 
 Mathematics
 
-Gerolamo_Cardano_(colour).jpg.]]
+.]]
 
 Cardano was the first mathematician to make systematic use of negative numbers.[12] He published with attribution the solution of Scipione del Ferro to the cubic equation and the solution of his student Lodovico Ferrari to the quartic equation in his 1545 book _Ars Magna_. The solution to one particular case of the cubic equation ax³ + bx + c = 0[13] (in modern notation), had been communicated to him in 1539 by Niccolò Fontana Tartaglia (who later claimed that Cardano had sworn not to reveal it, and engaged Cardano in a decade-long dispute) in the form of a poem,[14] but Ferro's solution predated Fontana's.[15] In his exposition, he acknowledged the existence of what are now called imaginary numbers, although he did not understand their properties, described for the first time by his Italian contemporary Rafael Bombelli. In _Opus novum de proportionibus_ he introduced the binomial coefficients and the binomial theorem.
 
@@ -30,7 +30,7 @@ Cardano was notoriously short of money and kept himself solvent by being an acco
 
 Other contributions
 
-Leone_leoni_(attr.),_medaglia_di_girolamo_cardano,_verso_con_sogno_di_cardano,_1550-51.JPG, 1550-51.]] Cardano's work with hypocycloids led him to the Cardan's Movement or Cardan Gear mechanism, in which a pair of gears with the smaller being one-half the size of the larger gear is used converting rotational motion to linear motion with greater efficiency and precision than a Scotch yoke, for example.[20] He is also credited with the invention of the Cardan suspension or gimbal.
+, 1550-51.]] Cardano's work with hypocycloids led him to the Cardan's Movement or Cardan Gear mechanism, in which a pair of gears with the smaller being one-half the size of the larger gear is used converting rotational motion to linear motion with greater efficiency and precision than a Scotch yoke, for example.[20] He is also credited with the invention of the Cardan suspension or gimbal.
 
 Cardano made several contributions to hydrodynamics and held that perpetual motion is impossible, except in celestial bodies. He published two encyclopedias of natural science which contain a wide variety of inventions, facts, and occult superstitions. He also introduced the Cardan grille, a cryptographic writing tool, in 1550.
 
@@ -48,7 +48,7 @@ As quoted from Charles Lyell's _Principles of Geology_:
 
 Later years and death
 
-Leone_leoni,_medaglia_di_girolamo_cardano.JPG (1509-1590)]] Two of Cardano's children — Giovanni Battista and Aldo Urbano — came to ignoble ends. Giovanni Battista, Cardano's eldest and favorite son, was tried and beheaded in 1560 for poisoning his wife,[22] after he discovered that their three children were not his. Aldo Urbano was a gambler, who stole money from his father, and so Gerolamo disinherited him in 1569.
+(1509-1590)]] Two of Cardano's children — Giovanni Battista and Aldo Urbano — came to ignoble ends. Giovanni Battista, Cardano's eldest and favorite son, was tried and beheaded in 1560 for poisoning his wife,[22] after he discovered that their three children were not his. Aldo Urbano was a gambler, who stole money from his father, and so Gerolamo disinherited him in 1569.
 
 Cardano moved from Pavia to Bologna, in part because he believed that the decision to execute Giovanni was influenced by Gerolamo's battles with the academic establishment in Pavia, and his colleagues' jealousy at his scientific achievements and also because he was beset with allegations of sexual impropriety with his students.[23] Cardano was arrested by the Inquisition in 1570 for unknown reasons, and forced to spend several months in prison and abjure his professorship. He moved to Rome, and received a lifetime annuity from Pope Gregory XIII (after first having been rejected by Pope Pius V) and finished his autobiography. He was accepted in the Royal College of Physicians, and as well as practising medicine he continued his philosophical studies until his death in 1576.[24][25] Cardano is reported to have correctly predicted the exact date of his own death but it has been claimed that he achieved this by committing suicide.[26][27]
 

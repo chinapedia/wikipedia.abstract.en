@@ -1,4 +1,4 @@
-Spas_vsederzhitel_sinay.jpg'' – Saint Catherine's Monastery. The halo is a representation of the divine Logos of Christ, and the two different facial expressions on either side emphasize Christ's dual nature as both divine and human.[1][2]]]
+'' – Saint Catherine's Monastery. The halo is a representation of the divine Logos of Christ, and the two different facial expressions on either side emphasize Christ's dual nature as both divine and human.[1][2]]]
 
 In Christianity, _CHRIST_  is a title for the saviour and redeemer who would bring salvation to the whole House of Israel. Christians believe Jesus is the Israelite messiah foretold in both the Hebrew Bible and the Christian Old Testament. _Christ_, used by Christians as both a name and a title, is synonymous with Jesus.[3][4][5]
 
@@ -20,7 +20,7 @@ In the Old Testament, anointing was reserved to the Kings of Israel[25], to the 
 
 Usage
 
-Cavalier_d'Arpino_-_The_Mocking_of_Christ_-_WGA04701.jpg (1568–1640) ]]
+(1568–1640) ]]
 
 The word _Christ_ (and similar spellings) appears in English and in most European languages. English-speakers now often use "Christ" as if it were a name, one part of the name "Jesus Christ", though it was originally a title ("the Messiah"). Its usage in "Christ Jesus" emphasizes its nature as a title.[28][29] Compare the usage "the Christ".
 
@@ -35,7 +35,7 @@ In the Ancient Greek text of the deuterocanonical books, the term "Christ" (Χρ
 
 Background and New Testament references
 
-Sargis_Pitsak.jpg, by Sargis Pitsak (14th century): "_The beginning of the gospel of Jesus Christ, the Son of God_".]]
+, by Sargis Pitsak (14th century): "_The beginning of the gospel of Jesus Christ, the Son of God_".]]
 
 At the time of Jesus, there was no single form of Second Temple Judaism, and there were significant political, social, and religious differences among the various Jewish groups.[36] However, for centuries the Jews had used the term _moshiach_ ("anointed") to refer to their expected deliverer.[37] A large number of Old Testament passages were regarded as messianic by the Jews, many more than are commonly considered messianic by Christians, and different groups of Jews assigned varying degrees of significance to them.[38]
 
@@ -66,7 +66,7 @@ Christology
 
 Pre-existence, Incarnation and Nativity
 
-Sainte-marie_Madeleine2.jpg, c. 1450]]
+, c. 1450]]
 
 There are distinct, and differing, views among Christians regarding the existence of Christ before his conception. A key passage in the New Testament is where John 1:17 specifically mentions that "grace and truth came through Jesus Christ." Those who believe in the Trinity, consider Christ a pre-existent divine hypostasis called the Logos or the Word. Other, non-Trinitarian views, question the aspect of personal pre-existence or question the aspect of divinity, or both. An example is the Orthodox Gnomic view, which asserts that Christ was, in fact, not a pre-existent divine being.
 
@@ -76,7 +76,7 @@ In the 2nd century, with his theory of "recapitulation", Irenaeus connected "Chr
 
 Christ and salvation in Christianity
 
-Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg of Christ Pantocrator with the Christogram IC XC[64]]]
+of Christ Pantocrator with the Christogram IC XC[64]]]
 
 In Apostle Paul viewed the Nativity of Jesus as an event of cosmic significance which changed the nature of the world by paving the way for salvation.[65][66][67][68]
 
@@ -95,7 +95,7 @@ The focus on human history was an important element of the biblically grounded 1
 
 Symbols
 
-Simple_Labarum2.svg'']]
+'']]
 
 The use of "Χ", derived from Chi, the Greek alphabet initial, as an abbreviation for Christ (most commonly in the abbreviation "Χmas") is often misinterpreted as a modern secularization of the term. Thus understood, the centuries-old English word Χmas, is actually a shortened form of CHmas, which is, itself, a shortened form for Christmas. Christians are sometimes referred to as "Xians", with the 'X' replacing 'Christ.[85]
 

@@ -1,5 +1,3 @@
-Example of a modern free-software operating system running some representative applications. Shown are the Xfce desktop environment, the Firefox web browser, the Vim text editor, the GIMP image editor, and the VLC media player.
-
 FREE SOFTWARE or LIBRE SOFTWARE[1][2] is computer software distributed under terms that allow users to run the software for any purpose as well as to study, change, and distribute it and any adapted versions.[3][4][5][6][7] Free software is a matter of liberty, not price: users—individually or in cooperation with computer programmers—are free to do what they want with their copies of a free software (including profiting from them) regardless of how much is paid to obtain the program.[8][9] Computer programs are deemed free insofar as they give users (not just the developer) ultimate control over the first, thereby allowing them to control what their devices are programmed to do.[10][11]
 
 The right to study and modify a computer program entails that source code—the preferred format for making changes—be made available to users of that program. While this is often called 'access to source code' or 'public availability', the Free Software Foundation recommends against thinking in those terms,[12] because it might give the impression that users have an obligation (as opposed to a right) to give non-users a copy of the program.
@@ -9,7 +7,7 @@ Although the term _free software_ had already been used loosely in the past,[13]
 
 Context
 
-Open-source-vs-freeware.svg describes the typical relationship between freeware and free and open-source software (FOSS): According to David Rosen from Wolfire Games in 2010, open source / free software (orange) is most often gratis but not always. Freeware (green) seldom expose their source code.[16]]] Free software thus differs from:
+describes the typical relationship between freeware and free and open-source software (FOSS): According to David Rosen from Wolfire Games in 2010, open source / free software (orange) is most often gratis but not always. Freeware (green) seldom expose their source code.[16]]] Free software thus differs from:
 
 -   proprietary software, such as Microsoft Office, Google Docs, Sheets, and Slides or iWork from Apple. Users cannot study, change, and share their source code.
 -   freeware, which is a category of proprietary software that does not require payment for basic use.
@@ -29,7 +27,7 @@ The FSF also notes that "Open Source" has exactly one specific meaning in common
 
 Definition and the Four Freedoms
 
-Categories_of_free_and_nonfree_software.svg]]
+]]
 
 The first formal definition of free software was published by FSF in February 1986.[25] That definition, written by Richard Stallman, is still maintained today and states that software is free software if people who receive a copy of the software have the following four freedoms.[26][27] The numbering begins with zero, not only as a spoof on the common usage of zero-based numbering in programming languages, but also because "Freedom 0" was not initially included in the list, but later added first in the list as it was considered very important.
 
@@ -58,7 +56,7 @@ File:Kscreen-krunner.png|KDE Plasma desktop on Debian. File:Captura de pagina de
 
 History
 
-Rms_ifi_large.jpg, founder of the Free Software Movement (2009)]]
+, founder of the Free Software Movement (2009)]]
 
 From the 1950s up until the early 1970s, it was normal for computer users to have the _software freedoms_ associated with free software, which was typically public-domain software.[30] Software was commonly shared by individuals who used computers and by hardware manufacturers who welcomed the fact that people were making software that made their hardware useful. Organizations of users and suppliers, for example, SHARE, were formed to facilitate exchange of software. As software was often written in an interpreted language such as BASIC, the source code was distributed to use these programs. Software was also shared and distributed as printed source code (Type-in program) in computer magazines (like Creative Computing, SoftSide, Compute!, Byte etc) and books, like the bestseller _BASIC Computer Games_.[31] By the early 1970s, the picture changed: software costs were dramatically increasing, a growing software industry was competing with the hardware manufacturer's bundled software products (free in that the cost was included in the hardware cost), leased machines required software support while providing no revenue for software, and some customers able to better meet their own needs did not want the costs of "free" software bundled with hardware product costs. In _United States vs. IBM_, filed January 17, 1969, the government charged that bundled software was anti-competitive.[32] While some software might always be free, there would henceforth be a growing amount of software produced primarily for sale. In the 1970s and early 1980s, the software industry began using technical measures (such as only distributing binary copies of computer programs) to prevent computer users from being able to study or adapt the software applications as they saw fit. In 1980, copyright law was extended to computer programs.
 
@@ -75,7 +73,7 @@ The Linux kernel, started by Linus Torvalds, was released as freely modifiable s
 
 Licensing
 
-Cc-sa.svg, a novel use of copyright law to ensure that works remain unrestricted, originates in the world of free software.[35]]]
+, a novel use of copyright law to ensure that works remain unrestricted, originates in the world of free software.[35]]]
 
 All free-software licenses must grant users all the freedoms discussed above. However, unless the applications' licenses are compatible, combining programs by mixing source code or directly linking binaries is problematic, because of license technicalities. Programs indirectly connected together may avoid this problem.
 
@@ -110,7 +108,7 @@ There are different categories of free software.
 
 Security and reliability
 
-ClamTK3.08.jpg only affect Microsoft Windows,[43][44][45] antivirus software such as ClamTk (shown here) is still provided for Linux and other Unix-based systems, so that users can detect malware that might infect Windows hosts.]] There is debate over the security of free software in comparison to proprietary software, with a major issue being security through obscurity. A popular quantitative test in computer security is to use relative counting of known unpatched security flaws. Generally, users of this method advise avoiding products that lack fixes for known security flaws, at least until a fix is available.
+only affect Microsoft Windows,[43][44][45] antivirus software such as ClamTk (shown here) is still provided for Linux and other Unix-based systems, so that users can detect malware that might infect Windows hosts.]] There is debate over the security of free software in comparison to proprietary software, with a major issue being security through obscurity. A popular quantitative test in computer security is to use relative counting of known unpatched security flaws. Generally, users of this method advise avoiding products that lack fixes for known security flaws, at least until a fix is available.
 
 Free software advocates strongly believe that this methodology is biased by counting more vulnerabilities for the free software systems, since their source code is accessible and their community is more forthcoming about what problems exist,[46] (This is called "Security Through Disclosure"[47]) and proprietary software systems can have undisclosed societal drawbacks, such as disenfranchising less fortunate would-be users of free programs. As users can analyse and trace the source code, many more people with no commercial constraints can inspect the code and find bugs and loopholes than a corporation would find practicable. According to Richard Stallman, user access to the source code makes deploying free software with undesirable hidden spyware functionality far more difficult than for proprietary software.[48]
 

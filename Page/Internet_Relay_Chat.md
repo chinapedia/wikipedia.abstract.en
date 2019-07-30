@@ -50,7 +50,7 @@ As of 2016, a new standardization effort is under way under a working group call
 
 Technical information
 
-Screenshot_of_HexChat_in_Windows_8.png, an IRC client for GTK environments.]] Xaric_screen_shot.jpg. Shown are two IRC channels and a private conversation with the software author.]] IRC is an open protocol that uses TCP[34] and, optionally, TLS. An IRC server can connect to other IRC servers to expand the IRC network.[35] Users access IRC networks by connecting a client to a server.[36] There are many client implementations, such as mIRC, HexChat and irssi, and server implementations, e.g. the original IRCd. Most IRC servers do not require users to register an account but a nick (nickname) is required before being connected.[37]
+, an IRC client for GTK environments.]] . Shown are two IRC channels and a private conversation with the software author.]] IRC is an open protocol that uses TCP[34] and, optionally, TLS. An IRC server can connect to other IRC servers to expand the IRC network.[35] Users access IRC networks by connecting a client to a server.[36] There are many client implementations, such as mIRC, HexChat and irssi, and server implementations, e.g. the original IRCd. Most IRC servers do not require users to register an account but a nick (nickname) is required before being connected.[37]
 
 IRC was originally a plain text protocol[38] (although later extended), which on request was assigned port 194/TCP by IANA.[39] However, the _de facto_ standard has always been to run IRC on 6667/TCP[40] and nearby port numbers (for example TCP ports 6660–6669, 7000)[41] to avoid having to run the IRCd software with root privileges.
 
@@ -183,7 +183,7 @@ If two clients with the same nickname join from different sides of a netsplit ("
 
 Networks
 
-Tolsun_2.jpg server on display near the University of Oulu computer centre. (2001)]]
+server on display near the University of Oulu computer centre. (2001)]]
 
 There are thousands of running IRC networks in the world. They run various implementations of IRC servers, and are administered by various groups of IRC operators, but the protocol exposed to IRC users is very similar, and all IRC networks can be accessed by the same client software, although there might be slight incompatibilities and limited functionality due to the differing server software implementations.
 
@@ -233,7 +233,7 @@ Clients
 
 Client software
 
-Ircnetz-Schema.svg (green), bots (blue) and bouncers (orange)]]
+(green), bots (blue) and bouncers (orange)]]
 
 Client software exists for various operating systems or software packages, as well as web-based or inside games. Many different clients are available for the various operating systems, including Windows, Unix and Linux, Mac OS X and mobile operating systems (such as iOS and Android). On Windows, mIRC is one of the most popular clients.[103]
 

@@ -56,7 +56,7 @@ Harmonic mean of two or three numbers
 
 Two numbers
 
-MathematicalMeans.svg of two numbers, _a_ and _b_. The harmonic mean is denoted by _H_ in purple. _Q_ denotes a fourth mean, the quadratic mean. Since a hypotenuse is always longer than a leg of a right triangle, the diagram shows that _Q_ > _A_ > _G_ > _H_.]]
+of two numbers, _a_ and _b_. The harmonic mean is denoted by _H_ in purple. _Q_ denotes a fourth mean, the quadratic mean. Since a hypotenuse is always longer than a leg of a right triangle, the diagram shows that _Q_ > _A_ > _G_ > _H_.]]
 
 For the special case of just two numbers, x₁ and x₂, the harmonic mean can be written
 
@@ -149,7 +149,7 @@ Let _t_ and _s_ (_t_ > _s_) be the sides of the two inscribed squares in a right
 
 Let a trapezoid have vertices A, B, C, and D in sequence and have parallel sides AB and CD. Let E be the intersection of the diagonals, and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. Then FG is the harmonic mean of AB and DC. (This is provable using similar triangles.)
 
-CrossedLadders.png One application of this trapezoid result is in the crossed ladders problem, where two ladders lie oppositely across an alley, each with feet at the base of one sidewall, with one leaning against a wall at height _A_ and the other leaning against the opposite wall at height _B_, as shown. The ladders cross at a height of _h_ above the alley floor. Then _h_ is half the harmonic mean of _A_ and _B_. This result still holds if the walls are slanted but still parallel and the "heights" _A_, _B_, and _h_ are measured as distances from the floor along lines parallel to the walls. This can be proved easily using the area formula of a trapezoid and area addition formula.
+One application of this trapezoid result is in the crossed ladders problem, where two ladders lie oppositely across an alley, each with feet at the base of one sidewall, with one leaning against a wall at height _A_ and the other leaning against the opposite wall at height _B_, as shown. The ladders cross at a height of _h_ above the alley floor. Then _h_ is half the harmonic mean of _A_ and _B_. This result still holds if the walls are slanted but still parallel and the "heights" _A_, _B_, and _h_ are measured as distances from the floor along lines parallel to the walls. This can be proved easily using the area formula of a trapezoid and area addition formula.
 
 In an ellipse, the semi-latus rectum (the distance from a focus to the ellipse along a line parallel to the minor axis) is the harmonic mean of the maximum and minimum distances of the ellipse from a focus.
 
@@ -171,8 +171,6 @@ In chemistry and nuclear physics the average mass per particle of a mixture cons
 
 
 Beta distribution
-
-Harmonic_mean_for_Beta_distribution_for_alpha_and_beta_ranging_from_0_to_5_-_J._Rodal.jpg (Mean_-_HarmonicMean)_for_Beta_distribution_versus_alpha_and_beta_from_0_to_2_-_J._Rodal.jpg _Harmonic_Means_for_Beta_distribution_Purple=H(X),_Yellow=H(1-X),_smaller_values_alpha_and_beta_in_front_-_J._Rodal.jpg _Harmonic_Means_for_Beta_distribution_Purple=H(X),_Yellow=H(1-X),_larger_values_alpha_and_beta_in_front_-_J._Rodal.jpg
 
 The harmonic mean of a beta distribution with shape parameters _α_ and _β_ is:
 

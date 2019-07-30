@@ -4,8 +4,6 @@ These rules were altered and flagrantly ignored in the course of the last centur
 
 To have held each office at the youngest possible age (_suo anno_, "in his own year") was considered a great political success. For instance, to miss out on a praetorship at 39 meant that one could not become consul at 42. Cicero expressed extreme pride not only in being a _novus homo_ ("new man"; comparable to a "self-made man") who became consul even though none of his ancestors had ever served as a consul, but also in having become consul "in his year".[3]
 
-Cursus.png
-
 
 Military tribune
 
@@ -27,7 +25,7 @@ Aedile
 
 At 36 years of age, proquaestor could stand for election to one of the _aedile_ positions. Of these aediles, two were plebeian and two were patrician, with the patrician aediles called Curule Aediles. The plebeian aediles were elected by the Plebeian Council and the curule aediles were either elected by the Tribal Assembly or appointed by the reigning consul. The aediles had administrative responsibilities in Rome. They had to take care of the temples (whence their title, from the Latin _aedes_, "temple"), organize games, and be responsible for the maintenance of the public buildings in Rome. Moreover, they took charge of Rome's water and food supplies; in their capacity as market superintendents, they served sometimes as judges in mercantile affairs.
 
-The Aedile was the supervisor of public works; the words "edifice" and "edification" stem from the same root. He oversaw the public works, temples and markets. Therefore, the Aediles would have been in some cooperation with the current Censors, who had similar or related duties. Also they oversaw the organization of festivals and games (_ludi_), which made this a very sought-after office for a career minded politician of the late republic, as it was a good means of gaining popularity by staging spectacles. Cursus_Honorum.png Curule Aediles were added at a later date in the 4th century BC, and their duties do not differ substantially from plebeian aediles. However, unlike plebeian aediles, curule aediles were allowed certain symbols of rank—the _sella curulis_ or 'curule chair,' for example—and only patricians could stand for election to curule aedile. This later changed, and both Plebeians and Patricians could stand for Curule Aedileship.
+The Aedile was the supervisor of public works; the words "edifice" and "edification" stem from the same root. He oversaw the public works, temples and markets. Therefore, the Aediles would have been in some cooperation with the current Censors, who had similar or related duties. Also they oversaw the organization of festivals and games (_ludi_), which made this a very sought-after office for a career minded politician of the late republic, as it was a good means of gaining popularity by staging spectacles. Curule Aediles were added at a later date in the 4th century BC, and their duties do not differ substantially from plebeian aediles. However, unlike plebeian aediles, curule aediles were allowed certain symbols of rank—the _sella curulis_ or 'curule chair,' for example—and only patricians could stand for election to curule aedile. This later changed, and both Plebeians and Patricians could stand for Curule Aedileship.
 
 The elections for Curule Aedile were at first alternated between Patricians and Plebeians, until late in the 2nd century BC, when the practice was abandoned and both classes became free to run during all years.
 

@@ -21,7 +21,7 @@ The prose introduction to _Lokasenna_ and Snorri's list of kennings state that �
 
 Family
 
-Ægir,_ruler_of_the_ocean.jpg According to _Fundinn Noregr_, Ægir is a son of the giant Fornjótr, the king of _"Jotlandi, Kvænlandi and Finnlandi"_, and brother of Logi ("fire") and Kári ("wind").[7]
+According to _Fundinn Noregr_, Ægir is a son of the giant Fornjótr, the king of _"Jotlandi, Kvænlandi and Finnlandi"_, and brother of Logi ("fire") and Kári ("wind").[7]
 
 Ægir's wife is Rán. She is mother of the Nine Daughters of Ægir.
 

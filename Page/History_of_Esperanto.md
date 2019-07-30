@@ -36,7 +36,7 @@ In 1941, the Soviet Union started performing mass arrests, deportations, and kil
 
 Hitler wrote in _Mein Kampf_[6] that it was created as a universal language to unite the Jewish diaspora. The creation of a Jew-free National German Esperanto League was not enough to placate the Nazis. The teaching of Esperanto was not allowed in German prisoner-of-war camps during World War II. Esperantists sometimes were able to get around the ban by convincing guards that they were teaching Italian, the language of Germany's closest ally.
 
-Sixday.jpg In the early years of the Soviet Union, Esperanto was given a measure of government support, and an officially recognized Soviet Esperanto Association came into being.[7] However, in 1937, Stalin reversed this policy. He denounced Esperanto as "the language of spies" and had Esperantists exiled or executed. The use of Esperanto was effectively banned until 1956.[8] While Esperanto itself was not enough cause for execution, its use was extended among Jews or trade unionists and encouraged contacts with foreigners.
+In the early years of the Soviet Union, Esperanto was given a measure of government support, and an officially recognized Soviet Esperanto Association came into being.[7] However, in 1937, Stalin reversed this policy. He denounced Esperanto as "the language of spies" and had Esperantists exiled or executed. The use of Esperanto was effectively banned until 1956.[8] While Esperanto itself was not enough cause for execution, its use was extended among Jews or trade unionists and encouraged contacts with foreigners.
 
 Fascist Italy, on the other hand, made some efforts of promoting tourism in Italy through Esperanto leaflets and appreciated the similarities of Italian and Esperanto.
 

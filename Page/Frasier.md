@@ -37,7 +37,7 @@ Notes
 
 The main cast remained unchanged for all 11 years. When the series ended in 2004, Grammer had portrayed the character of Frasier Crane for a total of 20 years, including his nine seasons on _Cheers_ plus a one time performance as the character on the series _Wings_ which earned Grammer an Emmy nomination; at the time, he tied James Arness' portrayal of Matt Dillon on _Gunsmoke_ for the longest-running character on primetime television.[5] The record has since been surpassed in animation by the voice cast of _The Simpsons_, and in live action by Richard Belzer's portrayal of John Munch on the series _Homicide: Life on the Street_ and _Law & Order: Special Victims Unit_. Grammer was briefly the highest-paid television actor in the United States for his portrayal of Frasier, while Jane Leeves was the highest-paid British actress.[6][7]
 
-FrazierCap.theora.ogv, Hyde Pierce, and Mahoney advertising U.S. treasury bonds in 1996 on set.|alt=]] In addition to those of the ensemble, additional story lines included characters from Frasier's former incarnation on _Cheers_, such as his ex-wife Lilith Sternin, played by Bebe Neuwirth, and their son Frederick, played by Trevor Einhorn.
+, Hyde Pierce, and Mahoney advertising U.S. treasury bonds in 1996 on set.|alt=]] In addition to those of the ensemble, additional story lines included characters from Frasier's former incarnation on _Cheers_, such as his ex-wife Lilith Sternin, played by Bebe Neuwirth, and their son Frederick, played by Trevor Einhorn.
 
 Reunions
 

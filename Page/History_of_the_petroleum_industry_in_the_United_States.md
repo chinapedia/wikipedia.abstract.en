@@ -1,5 +1,3 @@
-McKittrick_Tar_Seep_North_of_Highway_58.jpg Drake_Well,_August_2006.jpg US_Crude_Oil_Prodxn,_1920_to_2014.tiff US_oil_exports.png U.S._oil_Imports_by_Country_of_Origin.png US_oil_field_production_vs_imports_and_exports.png
-
 The first successful oil well in North America was established in Oil Springs, Ontario, Canada in 1858. The field is still in production although quantities are low.
 
 The HISTORY OF THE PETROLEUM INDUSTRY IN THE UNITED STATES goes back to the early 19th century, although the indigenous peoples, like many ancient societies, have used petroleum seeps since prehistoric times; where found, these seeps signaled the growth of the industry from the earliest discoveries to the more recent.
@@ -20,8 +18,6 @@ Salt was a valuable commodity, and an industry developed near salt springs in th
 The US natural gas industry started in 1821 at Fredonia, Chautauqua County, New York, when William Hart dug a well to a depth of into gas-bearing shale, then drilled a borehole further, and piped the natural gas to a nearby inn where it was burned for illumination. Soon many gas wells were drilled in the area, and the gas-lit streets of Fredonia became a tourist attraction.
 
 Drake well, Titusville, Pennsylvania
-
-AdvertisementEmpireRefiningCoNYC1879.jpg
 
 On August 27, 1859, George Bissell and Edwin L. Drake made the first successful use of a drilling rig on a well drilled especially to produce oil, at a site on Oil Creek near Titusville, Pennsylvania. The Drake partners were encouraged by Benjamin Silliman (1779-1864), a chemistry professor at Yale, who tested a sample of the oil, and assured them that it could be distilled into useful products such as illuminating oil.
 
@@ -67,7 +63,7 @@ Other early petroleum discoveries in North Louisiana included the Bull Bayou Fie
 
 California
 
-LosAngelesCityOilField.jpg Native Americans had known of the tar seeps in southern California for thousands of years, and used the tar to waterproof their canoes. Spanish settlers also knew of the seeps, such as at Rancho La Brea (Spanish for _Tar Ranch_) in present-day Los Angeles, from which the priests obtained tar to waterproof the roofs of the Los Angeles and San Gabriel missions.[10]
+Native Americans had known of the tar seeps in southern California for thousands of years, and used the tar to waterproof their canoes. Spanish settlers also knew of the seeps, such as at Rancho La Brea (Spanish for _Tar Ranch_) in present-day Los Angeles, from which the priests obtained tar to waterproof the roofs of the Los Angeles and San Gabriel missions.[10]
 
 Despite the abundance of well-known seeps in southern California, the first commercial oil well in California was drilled in Humboldt County, northern California in 1865.[11]
 
@@ -105,7 +101,7 @@ Petroleum seeps on the North Slope have been known for many years, and in 1923, 
 
 Gulf Coast
 
-Lucas_gusher.jpg Capt. Anthony Francis Lucas, an experienced mining engineer and salt driller, drilled a well to find oil at Spindletop Hill. On the morning of January 10, 1901, the little hill south of Beaumont, Texas began to tremble and mud bubbled up over the rotary table. A low rumbling sound came from underground, and then, with a force that shot 6 tons of 4-inch (100 mm) diameter pipe out over the top of the derrick, knocking off the crown block, the Lucas Gusher roared in and the Spindletop oil field was born. Spindletop became the focus of frenzied drilling; oil production from the field peaked in 1902 at , but by 1905 production had declined 90% from the peak.[16]
+Capt. Anthony Francis Lucas, an experienced mining engineer and salt driller, drilled a well to find oil at Spindletop Hill. On the morning of January 10, 1901, the little hill south of Beaumont, Texas began to tremble and mud bubbled up over the rotary table. A low rumbling sound came from underground, and then, with a force that shot 6 tons of 4-inch (100 mm) diameter pipe out over the top of the derrick, knocking off the crown block, the Lucas Gusher roared in and the Spindletop oil field was born. Spindletop became the focus of frenzied drilling; oil production from the field peaked in 1902 at , but by 1905 production had declined 90% from the peak.[16]
 
 Spindletop Hill turned out to be the surface expression of an underground salt dome, around which the oil accumulated. The Spindletop gusher started serious oil exploration of the Gulf Coast in Texas and Louisiana, an area that had previously been dismissed by oil men. Other salt dome mounds were quickly drilled, resulting in discoveries at Sour Lake (1902), Batson (1904) and Humble (1905).[17]
 

@@ -1,4 +1,4 @@
-Election_MG_3455.JPG used in France]] An ELECTION is a formal group decision-making process by which a population chooses an individual to hold public office.[1] Elections have been the usual mechanism by which modern representative democracy has operated since the 17th century.[2] Elections may fill offices in the legislature, sometimes in the executive and judiciary, and for regional and local government. This process is also used in many other private and business organizations, from clubs to voluntary associations and corporations.[3]
+used in France]] An ELECTION is a formal group decision-making process by which a population chooses an individual to hold public office.[1] Elections have been the usual mechanism by which modern representative democracy has operated since the 17th century.[2] Elections may fill offices in the legislature, sometimes in the executive and judiciary, and for regional and local government. This process is also used in many other private and business organizations, from clubs to voluntary associations and corporations.[3]
 
 The universal use of elections as a tool for selecting representatives in modern representative democracies is in contrast with the practice in the democratic archetype, ancient Athens, where the Elections were not used were considered an oligarchic institution and most political offices were filled using sortition, also known as allotment, by which officeholders were chosen by lot.[4]
 
@@ -9,7 +9,7 @@ To _elect_ means "to choose or make a decision", and so sometimes other forms of
 
 History
 
-Roman_Election.jpg depicting election]] Cardiganshire_Election_ballot_paper_1880.jpg Elections were used as early in history as ancient Greece and ancient Rome, and throughout the Medieval period to select rulers such as the Holy Roman Emperor (see imperial election) and the pope (see papal election).[5]
+depicting election]] Elections were used as early in history as ancient Greece and ancient Rome, and throughout the Medieval period to select rulers such as the Holy Roman Emperor (see imperial election) and the pope (see papal election).[5]
 
 In Vedic period of India, the _Raja_ (chiefs) of a _gana_ (a tribal organization) was apparently elected by the _gana_. The R_aja_ belonged to the noble Kshatriya varna (warrior class), and was typically a son of the previous R_aja_. However, the _gana_ members had the final say in his elections.[6] Even during the Sangam Period people elected their representatives by casting their votes and the ballot boxes (Usually a pot) were tied by rope and sealed. After the election the votes were taken out and counted.[7] The Pala King Gopala (ruled c. 750s–770s CE) in early medieval Bengal was elected by a group of feudal chieftains. Such elections were quite common in contemporary societies of the region.[8][9] In the Chola Empire, around 920 CE, in Uthiramerur (in present-day Tamil Nadu), palm leaves were used for selecting the village committee members. The leaves, with candidate names written on them, were put inside a mud pot. To select the committee members, a young boy was asked to take out as many leaves as the number of positions available. This was known as the _Kudavolai_ system.[10][11]
 
@@ -28,7 +28,7 @@ In Australia, Aboriginal people were not given the right to vote until 1962 (see
 
 Suffrage is typically only for citizens of the country, though further limits may be imposed.
 
-However, in the European Union, one can vote in municipal elections if one lives in the municipality and is an EU citizen; the nationality of the country of residence is not required. ElezioneMilano.jpg, Italy, 2004]] In some countries, voting is required by law; if an eligible voter does not cast a vote, he or she may be subject to punitive measures such as a fine. In Western Australia, the penalty for a first time offender failing to vote is a $20.00 fine, which increases to $50.00 if the offender refused to vote prior.[17]
+However, in the European Union, one can vote in municipal elections if one lives in the municipality and is an EU citizen; the nationality of the country of residence is not required. , Italy, 2004]] In some countries, voting is required by law; if an eligible voter does not cast a vote, he or she may be subject to punitive measures such as a fine. In Western Australia, the penalty for a first time offender failing to vote is a $20.00 fine, which increases to $50.00 if the offender refused to vote prior.[17]
 
 Nomination of candidate
 
@@ -58,7 +58,7 @@ The most expensive election campaign included US$7 billion spent on the 2012 Uni
 
 Difficulties with elections
 
-Voting_under_the_military_protection_in_Buenos_Ayres.jpg: Voting under military protection (_The Illustrated London News_, 26 March 1892).]]
+: Voting under military protection (_The Illustrated London News_, 26 March 1892).]]
 
 In many of the countries with weak rule of law, the most common reason why elections do not meet international standards of being "free and fair" is interference from the incumbent government. Dictators may use the powers of the executive (police, martial law, censorship, physical implementation of the election mechanism, etc.) to remain in power despite popular opinion in favor of removal. Members of a particular faction in a legislature may use the power of the majority or supermajority (passing criminal laws, defining the electoral mechanisms including eligibility and district boundaries) to prevent the balance of power in the body from shifting to a rival faction due to an election.[20]
 
@@ -70,7 +70,7 @@ The electorate may be poorly informed about issues or candidates due to lack of 
 
 Unfair rules
 
-The_Presidential_Election_in_Argentina,_the_Polling-Station_at_the_Church_of_La_Merced,_Buenos_Ayres.jpg, the Polling Station at the Church of La Merced, Buenos Aires. "The rival voters were kept back by an armed force of police out of sight to others. Only batches of two or three were allowed to enter the polling-office at a time. Armed sentries guarded the gates and the doors leading to the office, and were also posted on the roofs of adjoining houses and in the belfry and tower of the church." (Godefroy Durand, _The Graphic_, 21 May 1892).]]
+, the Polling Station at the Church of La Merced, Buenos Aires. "The rival voters were kept back by an armed force of police out of sight to others. Only batches of two or three were allowed to enter the polling-office at a time. Armed sentries guarded the gates and the doors leading to the office, and were also posted on the roofs of adjoining houses and in the belfry and tower of the church." (Godefroy Durand, _The Graphic_, 21 May 1892).]]
 
 Gerrymandering, exclusion of opposition candidates from eligibility for office, needlessly high restrictions on who may be a candidate, like ballot access rules, and manipulating thresholds for electoral success are some of the ways the structure of an election can be changed to favor a specific faction or candidate.
 
@@ -93,7 +93,7 @@ Sometimes only one government approved candidate is allowed to run in sham elect
 
 Examples
 
-Wahlzettel-3.-Reich.jpg.]] Examples of sham elections are the elections held in Fascist Italy in 1929 and 1934, elections in Nazi Germany, the 1958 Portuguese presidential election, most communist and socialist states (East Germany, the Soviet Union, China, North Korea, etc.), and Ba'athist Iraq.
+.]] Examples of sham elections are the elections held in Fascist Italy in 1929 and 1934, elections in Nazi Germany, the 1958 Portuguese presidential election, most communist and socialist states (East Germany, the Soviet Union, China, North Korea, etc.), and Ba'athist Iraq.
 
 A predetermined conclusion is always established by the regime through suppression of the opposition, coercion of voters, vote rigging, a forged number of "votes received" (e.g. the 1955 State of Vietnam referendum), outright lying, or some combination.
 
@@ -101,7 +101,7 @@ In an extreme example, Charles D. B. King of Liberia claimed he won by 234,000 v
 
 Coercion
 
-Stimmzettel-Anschluss.jpg asking voters to approve the new Reichstag and the Anschluss. The size of the "no" box was made singnificantly smaller than the "yes" box.]] Ballots in a show election may contain only one "yes" option. In the case of a simple "yes or no" question, people who pick "no" are often persecuted, thus encouraging them to pick the "yes" option. An example of this is the elections of the People's Parliaments in Estonia, Latvia, and Lithuania in 1940 shortly after the Soviet occupation of the Baltic states; where those who voted received stamps in their passport for voting and those who did not vote did not receive stamps and were persecuted as enemies of the people. Another example is in contemporary North Korea.[28][29]
+asking voters to approve the new Reichstag and the Anschluss. The size of the "no" box was made singnificantly smaller than the "yes" box.]] Ballots in a show election may contain only one "yes" option. In the case of a simple "yes or no" question, people who pick "no" are often persecuted, thus encouraging them to pick the "yes" option. An example of this is the elections of the People's Parliaments in Estonia, Latvia, and Lithuania in 1940 shortly after the Soviet occupation of the Baltic states; where those who voted received stamps in their passport for voting and those who did not vote did not receive stamps and were persecuted as enemies of the people. Another example is in contemporary North Korea.[28][29]
 
 In some cases, show elections can backfire against the party in power, especially if the regime believes they are popular enough to win without coercion or fraud. The most famous example of this was the 1990 Myanmar general election.[30]
 

@@ -22,7 +22,7 @@ The name of the town probably derives from the Cornish "Bod-meneghy", meaning "d
 
 An inscription on a stone built into the wall of a summer house in Lancarffe furnishes proof of a settlement in Bodmin in the early Middle Ages. It is a memorial to one "Duno[.]atus son of Me[.]cagnus" and has been dated from the 6th to 8th centuries.[12]
 
-Ancient_Stone_Cross_on_Old_Callywith_Road_-_geograph.org.uk_-_757140.jpg Arthur Langdon (1896) records three Cornish crosses at Bodmin; one was near the Berry Tower, one was outside Bodmin Gaol and another was in a field near Castle Street Hill.[13] There is also Carminow Cross at a road junction southeast of the town.
+Arthur Langdon (1896) records three Cornish crosses at Bodmin; one was near the Berry Tower, one was outside Bodmin Gaol and another was in a field near Castle Street Hill.[13] There is also Carminow Cross at a road junction southeast of the town.
 
 The Black Death killed half of Bodmin's population in the mid 14th century (1,500 people).[14]
 
@@ -43,7 +43,7 @@ Churches
 
 Parish church of St Petroc
 
-St_Petroc's_Church,_Bodmin_-_geograph.org.uk_-_51028.jpg The existing church building is dated 1469–72 and was until the building of Truro Cathedral the largest church in Cornwall. The tower which remains from the original Norman church and stands on the north side of the church (the upper part is 15th century) was, until the loss of its spire in 1699, 150 ft high. The building underwent two Victorian restorations and another in 1930. It is now listed Grade I. There are a number of interesting monuments, most notably that of Prior Vivian which was formerly in the Priory Church (Thomas Vivian's effigy lying on a chest: black Catacleuse stone and grey marble). The font of a type common in Cornwall is of the 12th century: large and finely carved.[17][18]
+The existing church building is dated 1469–72 and was until the building of Truro Cathedral the largest church in Cornwall. The tower which remains from the original Norman church and stands on the north side of the church (the upper part is 15th century) was, until the loss of its spire in 1699, 150 ft high. The building underwent two Victorian restorations and another in 1930. It is now listed Grade I. There are a number of interesting monuments, most notably that of Prior Vivian which was formerly in the Priory Church (Thomas Vivian's effigy lying on a chest: black Catacleuse stone and grey marble). The font of a type common in Cornwall is of the 12th century: large and finely carved.[17][18]
 
 Other churches
 
@@ -57,8 +57,6 @@ Sites of interest
 Institutions
 
 Bodmin Jail, operational for over 150 years but now a semi-ruin, was built in the late 18th century, and was the first British prison to hold prisoners in separate cells (though often up to ten at a time) rather than communally. Over fifty prisoners condemned at the Bodmin Assize Court were hanged at the prison. It was also used for temporarily holding prisoners sentenced to transportation, awaiting transfer to the prison hulks lying in the highest navigable reaches of the River Fowey. Also, during the First World War the prison held some of Britain's priceless national treasures including the Domesday Book, the ring and the Crown Jewels of the United Kingdom.
-
-The Shire Hall Berry_Tower_-_geograph.org.uk_-_754952.jpg Bodmin_Library_-_geograph.org.uk_-_754652.jpg
 
 Other buildings of interest include the former Shire Hall, now a tourist information centre, and Victoria Barracks, formerly depot of the now defunct Duke of Cornwall's Light Infantry and now the site of the regimental museum. It includes the history of the regiment from 1702, plus a military library. The original barracks house the regimental museum which was founded in 1925. There is a fine collection of small arms and machine guns, plus maps, uniforms and paintings on display. The Honey Street drill hall was the mobilisation point for reservists being deployed to serve on the Western Front.[23]
 

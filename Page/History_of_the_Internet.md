@@ -51,8 +51,6 @@ ARPANET
 
 Robert Taylor was promoted to the head of the information processing office at Defense Advanced Research Projects Agency (DARPA) in June 1966. He intended to realize Licklider's ideas of an interconnected networking system. Bringing in Larry Roberts from MIT, he initiated a project to build such a network. The first ARPANET link was established between the University of California, Los Angeles (UCLA) and the Stanford Research Institute at 22:30 hours on October 29, 1969.[31]
 
-Stamps_of_Azerbaijan,_2004-683.jpg
-
 By December 5, 1969, a 4-node network was connected by adding the University of Utah and the University of California, Santa Barbara. Building on ideas developed in ALOHAnet, the ARPANET grew rapidly. By 1981, the number of hosts had grown to 213, with a new host being added approximately every twenty days.[32][33]
 
 ARPANET development was centered around the Request for Comments (RFC) process, still used today for proposing and distributing Internet Protocols and Systems. RFC 1, entitled "Host Software", was written by Steve Crocker from the University of California, Los Angeles, and published on April 7, 1969. These early years were documented in the 1972 film Computer Networks: The Heralds of Resource Sharing.
@@ -71,7 +69,7 @@ The CYCLADES packet switching network was a French research network designed and
 
 X.25 and public data networks
 
-ABC_Clarke_predicts_internet_and_PC.ogv interview with Arthur C. Clarke, in which he describes a future of ubiquitous networked personal computers.]] Based on ARPA's research, packet switching network standards were developed by the International Telecommunication Union (ITU) in the form of X.25 and related standards. While using packet switching, X.25 is built on the concept of virtual circuits emulating traditional telephone connections. In 1974, X.25 formed the basis for the SERCnet network between British academic and research sites, which later became JANET. The initial ITU Standard on X.25 was approved in March 1976.[43]
+interview with Arthur C. Clarke, in which he describes a future of ubiquitous networked personal computers.]] Based on ARPA's research, packet switching network standards were developed by the International Telecommunication Union (ITU) in the form of X.25 and related standards. While using packet switching, X.25 is built on the concept of virtual circuits emulating traditional telephone connections. In 1974, X.25 formed the basis for the SERCnet network between British academic and research sites, which later became JANET. The initial ITU Standard on X.25 was approved in March 1976.[43]
 
 The British Post Office, Western Union International and Tymnet collaborated to create the first international packet switched network, referred to as the International Packet Switched Service (IPSS), in 1978. This network grew from Europe and the US to cover Canada, Hong Kong, and Australia by 1981. By the 1990s it provided a worldwide networking infrastructure.[44]
 
@@ -85,11 +83,11 @@ In 1979, two students at Duke University, Tom Truscott and Jim Ellis, originated
 
 Merging the networks and creating the Internet (1973–95)
 
-Internet_map_in_February_82.png test network in February 1982]]
+test network in February 1982]]
 
 TCP/IP
 
-First_Internet_Demonstration,_1977.jpg, PRNET, and SATNET on November 22, 1977]]With so many different network methods, something was needed to unify them. Robert E. Kahn of DARPA and ARPANET recruited Vinton Cerf of Stanford University to work with him on the problem. By 1973, they had worked out a fundamental reformulation, where the differences between network protocols were hidden by using a common internetwork protocol, and instead of the network being responsible for reliability, as in the ARPANET, the hosts became responsible. Cerf credits Hubert Zimmermann, Gerard LeLann and Louis Pouzin (designer of the CYCLADES network) with important work on this design.[46]
+, PRNET, and SATNET on November 22, 1977]]With so many different network methods, something was needed to unify them. Robert E. Kahn of DARPA and ARPANET recruited Vinton Cerf of Stanford University to work with him on the problem. By 1973, they had worked out a fundamental reformulation, where the differences between network protocols were hidden by using a common internetwork protocol, and instead of the network being responsible for reliability, as in the ARPANET, the hosts became responsible. Cerf credits Hubert Zimmermann, Gerard LeLann and Louis Pouzin (designer of the CYCLADES network) with important work on this design.[46]
 
 The specification of the resulting protocol, _RFC 675 – Specification of Internet Transmission Control Program_, by Vinton Cerf, Yogen Dalal and Carl Sunshine, Network Working Group, December 1974, contains the first attested use of the term _internet_, as a shorthand for _internetworking_; later RFCs repeat this use, so the word started out as an adjective rather than the noun it is today.
 
@@ -97,13 +95,13 @@ With the role of the network reduced to the bare minimum, it became possible to 
 
 Stemming from the first specifications of TCP in 1974, TCP/IP emerged in mid-late 1978 in nearly its final form, as used for the first decades of the Internet, known as "IPv4".[49] which is described in IETF publication RFC 791 (September 1981).
 
-Ipv4_address.svg value]] IPv4 uses 32-bit addresses which limits the address space to 2³² addresses, i.e. addresses.[50] The last available IPv4 address was assigned in January 2011.[51] IPv4 is being replaced by its successor, called "IPv6", which uses 128 bit addresses, providing 2¹²⁸ addresses, i.e. .[52] This is a vastly increased address space. The shift to IPv6 is expected to take many years, decades, or perhaps longer, to complete, since there were four billion machines with IPv4 when the shift began.[53]
+value]] IPv4 uses 32-bit addresses which limits the address space to 2³² addresses, i.e. addresses.[50] The last available IPv4 address was assigned in January 2011.[51] IPv4 is being replaced by its successor, called "IPv6", which uses 128 bit addresses, providing 2¹²⁸ addresses, i.e. .[52] This is a vastly increased address space. The shift to IPv6 is expected to take many years, decades, or perhaps longer, to complete, since there were four billion machines with IPv4 when the shift began.[53]
 
 The associated standards for IPv4 were published by 1981 as RFCs 791, 792 and 793, and adopted for use. DARPA sponsored or encouraged the development of TCP/IP implementations for many operating systems and then scheduled a migration of all hosts on all of its packet networks to TCP/IP. On January 1, 1983, known as flag day, TCP/IP protocols became the only approved protocol on the ARPANET, replacing the earlier NCP protocol.[54]
 
 From ARPANET to NSFNET
 
-InetCirca85.jpg TCP/IP Internet map of early 1986.]]
+TCP/IP Internet map of early 1986.]]
 
 After the ARPANET had been up and running for several years, ARPA looked for another agency to hand off the network to; ARPA's primary mission was funding cutting edge research and development, not running a communications utility. Eventually, in July 1975, the network had been turned over to the Defense Communications Agency, also part of the Department of Defense. In 1983, the U.S. military portion of the ARPANET was broken off as a separate network, the MILNET. MILNET subsequently became the unclassified but military-only NIPRNET, in parallel with the SECRET-level SIPRNET and JWICS for TOP SECRET and above. NIPRNET does have controlled security gateways to the public Internet.
 
@@ -111,7 +109,7 @@ The networks based on the ARPANET were government funded and therefore restricte
 
 Several other branches of the U.S. government, the National Aeronautics and Space Administration (NASA), the National Science Foundation (NSF), and the Department of Energy (DOE) became heavily involved in Internet research and started development of a successor to ARPANET. In the mid-1980s, all three of these branches developed the first Wide Area Networks based on TCP/IP. NASA developed the NASA Science Network, NSF developed CSNET and DOE evolved the Energy Sciences Network or ESNet.
 
-NSFNET-backbone-T3.png NASA developed the TCP/IP based NASA Science Network (NSN) in the mid-1980s, connecting space scientists to data and information stored anywhere in the world. In 1989, the DECnet-based Space Physics Analysis Network (SPAN) and the TCP/IP-based NASA Science Network (NSN) were brought together at NASA Ames Research Center creating the first multiprotocol wide area network called the NASA Science Internet, or NSI. NSI was established to provide a totally integrated communications infrastructure to the NASA scientific community for the advancement of earth, space and life sciences. As a high-speed, multiprotocol, international network, NSI provided connectivity to over 20,000 scientists across all seven continents.
+NASA developed the TCP/IP based NASA Science Network (NSN) in the mid-1980s, connecting space scientists to data and information stored anywhere in the world. In 1989, the DECnet-based Space Physics Analysis Network (SPAN) and the TCP/IP-based NASA Science Network (NSN) were brought together at NASA Ames Research Center creating the first multiprotocol wide area network called the NASA Science Internet, or NSI. NSI was established to provide a totally integrated communications infrastructure to the NASA scientific community for the advancement of earth, space and life sciences. As a high-speed, multiprotocol, international network, NSI provided connectivity to over 20,000 scientists across all seven continents.
 
 In 1981 NSF supported the development of the Computer Science Network (CSNET). CSNET connected with ARPANET using TCP/IP, and ran TCP/IP over X.25, but it also supported departments without sophisticated network connections, using automated dial-up mail exchange.
 
@@ -141,16 +139,14 @@ The Internet began to penetrate Asia in the 1980s. In May 1982 South Korea becam
 
 The early global "digital divide" emerges
 
-InternetPenetrationWorldMap.svg'''
+'''
 
 Source: International Telecommunications Union.[66]]]
 
-FixedBroadbandInternetPenetrationWorldMap.svg
 as a percentage of a country's population'''
 
 Source: International Telecommunications Union.[67]]]
 
-MobileBroadbandInternetPenetrationWorldMap.svg
 as a percentage of a country's population'''
 
 Source: International Telecommunications Union.[68]]]
@@ -187,7 +183,7 @@ Initially, as with its predecessor networks, the system that would evolve into t
 
 However, interest in commercial use of the Internet quickly became a commonly debated topic. Although commercial use was forbidden, the exact definition of commercial use was unclear and subjective. UUCPNet and the X.25 IPSS had no such restrictions, which would eventually see the official barring of UUCPNet use of ARPANET and NSFNET connections. (Some UUCP links still remained connecting to these networks however, as administrators cast a blind eye to their operation.)
 
-Internet_Hosts_Count_log.svg.[74]]] As a result, during the late 1980s, the first Internet service provider (ISP) companies were formed. Companies like PSINet, UUNET, Netcom, and Portal Software were formed to provide service to the regional research networks and provide alternate network access, UUCP-based email and Usenet News to the public. The first commercial dialup ISP in the United States was The World, which opened in 1989.[75]
+.[74]]] As a result, during the late 1980s, the first Internet service provider (ISP) companies were formed. Companies like PSINet, UUNET, Netcom, and Portal Software were formed to provide service to the regional research networks and provide alternate network access, UUCP-based email and Usenet News to the public. The first commercial dialup ISP in the United States was The World, which opened in 1989.[75]
 
 In 1992, the U.S. Congress passed the Scientific and Advanced-Technology Act, , which allowed NSF to support access by the research and education communities to computer networks which were not used exclusively for research and education purposes, thus permitting NSFNET to interconnect with commercial networks.[76][77] This caused controversy within the research and education community, who were concerned commercial use of the network might lead to an Internet that was less responsive to their needs, and within the community of commercial network providers, who felt that government subsidies were giving an unfair advantage to some organizations.[78]
 
@@ -354,7 +350,7 @@ As the Internet grew through the 1980s and early 1990s, many people realized the
 
 One of the most promising user interface paradigms during this period was hypertext. The technology had been inspired by Vannevar Bush's "Memex"[183] and developed through Ted Nelson's research on Project Xanadu, Douglas Engelbart's research on NLS and Augment[184], and Andries van Dam's research from HES in 1968, through FRESS, Intermedia, and others. Many small self-contained hypertext systems had been created as well, such as Apple Computer's HyperCard (1987). Gopher became the first commonly used hypertext interface to the Internet. While Gopher menu items were examples of hypertext, they were not commonly perceived in that way.
 
-First_Web_Server.jpg was used by Sir Tim Berners-Lee at CERN and became the world's first Web server.]] In 1989, while working at CERN, Tim Berners-Lee invented a network-based implementation of the hypertext concept. By releasing his invention to public use, he encouraged widespread use.[185] For his work in developing the World Wide Web, Berners-Lee received the Millennium technology prize in 2004.[186] One early popular web browser, modeled after HyperCard, was ViolaWWW.
+was used by Sir Tim Berners-Lee at CERN and became the world's first Web server.]] In 1989, while working at CERN, Tim Berners-Lee invented a network-based implementation of the hypertext concept. By releasing his invention to public use, he encouraged widespread use.[185] For his work in developing the World Wide Web, Berners-Lee received the Millennium technology prize in 2004.[186] One early popular web browser, modeled after HyperCard, was ViolaWWW.
 
 A turning point for the World Wide Web began with the introduction[187] of the Mosaic web browser[188] in 1993, a graphical browser developed by a team at the National Center for Supercomputing Applications at the University of Illinois at Urbana–Champaign (NCSA-UIUC), led by Marc Andreessen. Funding for Mosaic came from the High-Performance Computing and Communications Initiative, a funding program initiated by the High Performance Computing and Communication Act of 1991, also known as the "Gore Bill".[189] Mosaic's graphical interface soon became more popular than Gopher, which at the time was primarily text-based, and the WWW became the preferred interface for accessing the Internet. (Gore's reference to his role in "creating the Internet", however, was ridiculed in his presidential election campaign. See the full article Al Gore and information technology).
 

@@ -217,7 +217,7 @@ The only official language of Greenland is Greenlandic.[6] The number of speaker
 
 Religion
 
-Nanortalik_church.jpg, have their own church.]]
+, have their own church.]]
 
 The nomadic Inuit people were traditionally shamanistic, with a well-developed mythology primarily concerned with propitiating a vengeful and fingerless sea goddess who controlled the success of the seal and whale hunts.
 

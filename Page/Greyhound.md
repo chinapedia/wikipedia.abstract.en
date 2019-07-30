@@ -4,7 +4,7 @@ According to Merriam-Webster, a Greyhound is "any of a breed of tall slender gra
 
 It is a gentle and intelligent breed whose combination of long, powerful legs, deep chest, flexible spine and slim build allows it to reach average race speeds exceeding .[2][3][4] The Greyhound can reach a full speed of within , or six strides from the boxes, traveling at almost for the first of a race.[5][6]
 
-Greyhound...JPG Greyhound_Sleeping.jpg Gray-Hound.jpg MargaretGormanPetDogApr1925Retouched.jpg with her pet Greyhound, "Long Goodie", in April 1925]] Greyhound_Racing_amk.jpg Greyhound_Racing_4_amk.jpg
+with her pet Greyhound, "Long Goodie", in April 1925]]
 
 
 Appearance
@@ -49,12 +49,12 @@ In the United States, aside from professional racing, many Greyhounds enjoy succ
 
 Companion
 
-Blue_greyhound.JPG Historically, the Greyhound has, since its first appearance as a hunting type and breed, enjoyed a specific degree of fame and definition in Western literature, heraldry and art as the most elegant or noble companion and hunter of the canine world. In modern times, the professional racing industry, with its large numbers of track-bred greyhounds, as well as international adoption programs aimed at re-homing dogs has redefined the breed as a sporting dog that will supply friendly companionship in its retirement. This has been prevalent in recent years due to track closures in the United States.[36][37][38] Outside the racing industry and coursing community, the Kennel Clubs' registered breed still enjoys a modest following as a show dog and pet.
+Historically, the Greyhound has, since its first appearance as a hunting type and breed, enjoyed a specific degree of fame and definition in Western literature, heraldry and art as the most elegant or noble companion and hunter of the canine world. In modern times, the professional racing industry, with its large numbers of track-bred greyhounds, as well as international adoption programs aimed at re-homing dogs has redefined the breed as a sporting dog that will supply friendly companionship in its retirement. This has been prevalent in recent years due to track closures in the United States.[36][37][38] Outside the racing industry and coursing community, the Kennel Clubs' registered breed still enjoys a modest following as a show dog and pet.
 
 
 Health and physiology
 
-Ghundskeleton.jpg Greyhounds are typically a healthy and long-lived breed, and hereditary illness is rare. Some Greyhounds have been known to develop esophageal achalasia, gastric dilatation volvulus (also known as bloat), and osteosarcoma. If exposed to _E. coli_, they may develop Alabama rot. Because the Greyhound's lean physique makes it ill-suited to sleeping on hard surfaces, owners of both racing and companion Greyhounds generally provide soft bedding; without bedding, Greyhounds are prone to develop painful skin sores. The average lifespan of a Greyhound is 10 to 14 years.[39][40]
+Greyhounds are typically a healthy and long-lived breed, and hereditary illness is rare. Some Greyhounds have been known to develop esophageal achalasia, gastric dilatation volvulus (also known as bloat), and osteosarcoma. If exposed to _E. coli_, they may develop Alabama rot. Because the Greyhound's lean physique makes it ill-suited to sleeping on hard surfaces, owners of both racing and companion Greyhounds generally provide soft bedding; without bedding, Greyhounds are prone to develop painful skin sores. The average lifespan of a Greyhound is 10 to 14 years.[39][40]
 
 Due to the Greyhound's unique physiology and anatomy, a veterinarian who understands the issues relevant to the breed is generally needed when the dogs need treatment, particularly when anesthesia is required. Greyhounds cannot metabolize barbiturate-based anesthesia in the same way that other breeds can because their livers have lower amounts of oxidative enzymes.[41] Greyhounds demonstrate unusual blood chemistry 1, which can be misread by veterinarians not familiar with the breed and can result in an incorrect diagnosis.[42]
 
@@ -69,7 +69,7 @@ The key to the speed of a Greyhound can be found in its light but muscular build
 
 History
 
-Bronzen_beeldje_hazewindhond_ForumHadriani_015501_RMO_Leiden.jpg Paolo_Uccello_054.jpg's _Night Hunt_ (Ashmolean Museum)]]
+'s _Night Hunt_ (Ashmolean Museum)]]
 
 While similar in appearance to Saluki or Sloughi, DNA sequencing indicates that the greyhound is more closely related to herding dogs.[53][54] This suggests that Greyhounds are either progenitors to or descendants of herding types.[55] Historical literature by Arrian on the _vertragus_,[56] the first recorded sighthound in Europe and possible antecedent of the Greyhound, suggested that its origin lies with the Celts from Eastern Europe or Eurasia. Systematic archaeozoology of the British Isles, 1974 [57] ruled out the existence of a true greyhound-type in Britain prior to the Roman occupation, confirmed in 2000[58]. Written evidence of the historic time, the Vindolanda tablets (No 594), from the early period of Roman occupation demonstrates that the occupying troops from Continental Europe either had with them in the North of England, or certainly knew of the vertragus and its hunting use.[59]
 

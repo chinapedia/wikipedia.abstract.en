@@ -7,7 +7,7 @@ Being at the center of a major wine-growing and wine-producing region, Bordeaux 
 
 History
 
-Bituriges_Vivisci.jpg, 5th–1st century BC, derived from the coin designs of Greeks in pre-Roman Gaul. Cabinet des Médailles.]]
+, 5th–1st century BC, derived from the coin designs of Greeks in pre-Roman Gaul. Cabinet des Médailles.]]
 
 Around 567 BC the region was the settlement of a Celtic tribe, the Bituriges Vivisci, who named the town BURDIGALA, probably of Aquitanian origin.
 
@@ -15,7 +15,7 @@ In 107 BC the Battle of Burdigala was fought by the Romans who were defending th
 
 The city came under Roman rule around 60 BC, and it became an important commercial centre for tin and lead. It continued to flourish, especially during the Severan dynasty (3rd century), and acquired the status of capital of Roman Aquitaine. In 276 it was sacked by the Vandals. The Vandals attacked again in 409, followed by the Visigoths in 414, and the Franks in 498, and afterwards the city fell into a period of relative obscurity.
 
-Merovingian_tremisses_minted_in_Bordeaux_by_the_Church_of_Saint_Etienne_late_6th_century.jpg tremisses minted in Bordeaux by the Church of Saint-Étienne, late 6th century. British Museum.]] In the late 6th century the city re-emerged as the seat of a county and an archdiocese within the Merovingian kingdom of the Franks, but royal Frankish power was never strong. The city started to play a regional role as a major urban center on the fringes of the newly founded Frankish Duchy of Vasconia. Around 585 Gallactorius was made count of Bordeaux and fought the Basques.
+tremisses minted in Bordeaux by the Church of Saint-Étienne, late 6th century. British Museum.]] In the late 6th century the city re-emerged as the seat of a county and an archdiocese within the Merovingian kingdom of the Franks, but royal Frankish power was never strong. The city started to play a regional role as a major urban center on the fringes of the newly founded Frankish Duchy of Vasconia. Around 585 Gallactorius was made count of Bordeaux and fought the Basques.
 
 In 732 the city was plundered by the troops of Abd er Rahman who stormed the fortifications and overwhelmed the Aquitanian garrison. Duke Eudes mustered a force to engage the Umayyads, eventually engaging them in the Battle of the River Garonne somewhere near the river Dordogne. The battle had a high death toll, and although Eudes was defeated he had enough troops to engage in the Battle of Poitiers and so retain his grip on Aquitaine.
 
@@ -29,7 +29,7 @@ From the 12th to the 15th century Bordeaux regained importance following the mar
 
 In 1462 Bordeaux created a local parliament. However, it only regained its importance during the 16th century when it became a major trading centre for sugar and slaves from the West Indies, along with its traditional wine exports.[4]
 
-Bordeaux adhered to the Fronde, being effectively annexed to the Kingdom of France only in 1653, when the army of Louis XIV entered the city. Edouard_Manet_026.jpg: _Harbour at Bordeaux_, 1871]] Bordeaux_rue_Sainte-Catherine_avril_1905.jpg
+Bordeaux adhered to the Fronde, being effectively annexed to the Kingdom of France only in 1653, when the army of Louis XIV entered the city. : _Harbour at Bordeaux_, 1871]]
 
 The 18th century saw the golden age of Bordeaux. Many downtown buildings (about 5,000), including those on the quays, are from this period. Victor Hugo found the town so beautiful he said: "Take Versailles, add Antwerp, and you have Bordeaux". Baron Haussmann, a long-time prefect of Bordeaux, used Bordeaux's 18th-century large-scale rebuilding as a model when he was asked by Emperor Napoleon III to transform a then still quasi-medieval Paris into a "modern" capital that would make France proud.
 
@@ -58,8 +58,6 @@ Bordeaux is a major centre for business in France as it has the sixth largest me
 , the GDP of Bordeaux is €32.7 Billion.
 
 Wine
-
-Sauternes_04.jpg
 
 The vine was introduced to the Bordeaux region by the Romans, probably in the mid-first century, to provide wine for local consumption, and wine production has been continuous in the region since.[6]
 
@@ -268,7 +266,7 @@ The _École Compleméntaire Japonaise de Bordeaux_ (ボルドー日本語補習�
 
 Main sights
 
-Bordeaux_-_Juillet_2012_(71).JPG Bordeaux_foire_quinconces.jpg Bordeaux_Saint_Pierre.jpg FacadeSainteCroixBordeauxsoir.jpg Bordeaux_place_de_la_bourse_with_tram.JPG and tram]] Rue_Sainte-Catherine_(Bordeaux)_2005.JPG]] Bordeaux_-_Eglise_Notre-Dame_1.jpg
+and tram]] ]]
 
 Bordeaux is classified "City of Art and History". The city is home to 362 _monuments historiques_ (only Paris has more in France) with some buildings dating back to Roman times. Bordeaux has been inscribed on UNESCO World Heritage List as _"an outstanding urban and architectural ensemble"_.
 
@@ -352,7 +350,7 @@ Bordeaux has many shopping options. In the heart of Bordeaux is _Rue Sainte-Cath
 
 Culture
 
-GrandTheatreBordeaux2.jpg]]
+]]
 
 Bordeaux is also the first city in France to have created, in the 1980s, an architecture exhibition and research centre, _Arc en rêve_. Bordeaux offers a large number of cinemas, theatres, and is the home of the Opéra national de Bordeaux. There are many music venues of varying capacity. The city also offers several festivals throughout the year.
 
@@ -362,8 +360,6 @@ Transport
 Road
 
 Bordeaux is an important road and motorway junction. The city is connected to Paris by the A10 motorway, with Lyon by the A89, with Toulouse by the A62, and with Spain by the A63. There is a ring road called the "Rocade" which is often very busy. Another ring road is under consideration.
-
-Bordeaux_Pont_de_Pierre.jpg
 
 Bordeaux has five road bridges that cross the Garonne, the Pont de pierre built in the 1820s and three modern bridges built after 1960: the Pont Saint Jean, just south of the Pont de pierre (both located downtown), the Pont d'Aquitaine, a suspended bridge downstream from downtown, and the Pont François Mitterrand, located upstream of downtown. These two bridges are part of the ring road around Bordeaux. A fifth bridge, the Pont Jacques-Chaban-Delmas, was constructed in 2009–2012 and opened to traffic in March 2013. Located halfway between the Pont de pierre and the Pont d'Aquitaine and serving downtown rather than highway traffic, it is a vertical-lift bridge with a height comparable to the Pont de pierre in closed position, and to the Pont d'Aquitaine in open position. All five road bridges, including the two highway bridges, are open to cyclists and pedestrians as well. Another bridge, the Pont Jean-Jacques Bosc, is to be built in 2018.[18]
 
@@ -383,11 +379,11 @@ Air
 
 Bordeaux is served by Bordeaux–Mérignac Airport, located from the city center in the suburban city of Mérignac.
 
-Aéroport_Bx_Mérignac.JPG]]
+]]
 
 Trams, buses and boats
 
-Bordeaux-lawn-track-&-vines1.jpg Bordeaux has an important public transport system called Transports Bordeaux Métropole (TBM). This company is run by the Keolis group. The network consists of:
+Bordeaux has an important public transport system called Transports Bordeaux Métropole (TBM). This company is run by the Keolis group. The network consists of:
 
 -   3 tram lines (A, B and C)
 -   75 bus routes, all connected to the tramway network (from 1 to 96)
@@ -412,8 +408,6 @@ The average amount of time people spend commuting with public transit in Bordeau
 
 Sport
 
-Bordeaux_Stade_Lescure_entrée.JPG
-
 The 41,458-capacity Nouveau Stade de Bordeaux is the largest stadium in Bordeaux. The stadium was opened in 2015 and replaced the Stade Chaban-Delmas, which was a venue for the FIFA World Cup in 1938 and 1998, as well as the 2007 Rugby World Cup. In the 1938 FIFA World Cup, it hosted a violent quarter-final known as the Battle of Bordeaux. The ground was formerly known as the _Stade du Parc Lescure_ until 2001, when it was renamed in honour of the city's long-time mayor, Jacques Chaban-Delmas.
 
 There are two major sport teams in Bordeaux, Girondins de Bordeaux is the football team, playing in Ligue 1 in the French football championship. Union Bordeaux Bègles is a rugby team in the Top 14 in the Ligue Nationale de Rugby. Skateboarding, rollerblading, and BMX biking are activities enjoyed by many young inhabitants of the city. Bordeaux is home to a beautiful quay which runs along the Garonne river. On the quay there is a skate-park divided into three sections. One section is for Vert tricks, one for street style tricks, and one for little action sports athletes with easier features and softer materials. The skate-park is very well maintained by the municipality.
@@ -427,7 +421,7 @@ The 2015 Trophee Eric Bompard was in Bordeaux. But the Free Skate was cancelled 
 
 Notable people
 
-Michel-eyquem-de-montaigne_1.jpg]]
+]]
 
 -   Jean Alaux (1786–1864), painter
 -   Bertrand Andrieu (1761–1822), engraver
@@ -495,7 +489,7 @@ Michel-eyquem-de-montaigne_1.jpg]]
 
 International relationship
 
-Alain_Juppé,_Parc_Bordeaux_Ashdod,_Israel.jpg, Mayor of Bordeaux, visiting the twin town of Ashdod.]]
+, Mayor of Bordeaux, visiting the twin town of Ashdod.]]
 
 Twin towns and sister cities
 
@@ -621,7 +615,7 @@ Bordeaux Category:Communes of Gironde Category:Port cities and towns on the Fren
 
 [20]
 
-[21]  CC-BY_icon.svg Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
+[21]  Material was copied from this source, which is available under a Creative Commons Attribution 4.0 International License.
 
 [22]
 

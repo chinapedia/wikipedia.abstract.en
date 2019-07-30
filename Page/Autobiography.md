@@ -1,6 +1,6 @@
     _See also: List of autobiographies and :Category:Autobiographies for examples._
 
-Saint_Augustine_by_Philippe_de_Champaigne.jpg wrote _Confessions_, the first Western autobiography ever written, around 400. Portrait by Philippe de Champaigne, 17th century.]]
+wrote _Confessions_, the first Western autobiography ever written, around 400. Portrait by Philippe de Champaigne, 17th century.]]
 
 An AUTOBIOGRAPHY (from the Greek, αὐτός-_autos_ self + βίος-_bios_ life + γράφειν-_graphein_ to write) is a self-written account of the life of oneself. The word "autobiography" was first used deprecatingly by William Taylor in 1797 in the English periodical _The Monthly Review_, when he suggested the word as a hybrid, but condemned it as "pedantic". However, its next recorded use was in its present sense, by Robert Southey in 1809.[1] Despite only being named early in the nineteenth century, first-person autobiographical writing originates in antiquity. Roy Pascal differentiates autobiography from the periodic self-reflective mode of journal or diary writing by noting that "[autobiography] is a review of a life from a particular moment in time, while the diary, however reflective it may be, moves through a series of moments in time".[2] Autobiography thus takes stock of the autobiographer's life from the moment of composition. While biographers generally rely on a wide variety of documents and viewpoints, autobiography may be based entirely on the writer's memory. The memoir form is closely associated with autobiography but it tends, as Pascal claims, to focus less on the self and more on others during the autobiographer's review of his or her life.[3]
 
@@ -42,7 +42,7 @@ In the spirit of Augustine's _Confessions_ is the 12th-century _Historia Calamit
 
 Early autobiographies
 
-Baburnama.jpg'']]
+'']]
 
 In the 15th century, Leonor López de Córdoba, a Spanish noblewoman, wrote her _Memorias_, which may be the first autobiography in Castillian.
 
@@ -62,7 +62,7 @@ Jarena Lee (1783–1864) was the first African American woman to have a publishe
 
 18th and 19th centuries
 
-Memoirs_of_Franklin.jpg's autobiography, 1793]]
+'s autobiography, 1793]]
 
 Following the trend of Romanticism, which greatly emphasized the role and the nature of the individual, and in the footsteps of Jean-Jacques Rousseau's _Confessions_, a more intimate form of autobiography, exploring the subject's emotions, came into fashion. Stendhal's autobiographical writings of the 1830s, _The Life of Henry Brulard_ and _Memoirs of an Egotist_, are both avowedly influenced by Rousseau.[11] An English example is William Hazlitt's _Liber Amoris_ (1823), a painful examination of the writer's love-life.
 

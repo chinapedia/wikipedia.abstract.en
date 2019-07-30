@@ -1,4 +1,4 @@
-8.8.17_1_Pendolino_Praha_1_(36321409942).jpg 680 in Prague Main railway station]] TRANSPORT IN THE CZECH REPUBLIC relies on several main modes, including transport by road, rail, water and air.
+680 in Prague Main railway station]] TRANSPORT IN THE CZECH REPUBLIC relies on several main modes, including transport by road, rail, water and air.
 
 
 Railways
@@ -7,8 +7,6 @@ The Czech Republic has a total railway length of . The vast majority () is stand
 
 
 Roads
-
-MotorwaysCZmap.svg Dálnice_D8_u_Lovosic.jpg
 
 The Czech Republic has, in total, [1] of roads. It has [2] of motorways. In the 1980s and 1990s there was a significant increase in passenger transport on the roads in the Czech Republic, which was associated with a sharp increase in the accident rate. Between 2007 and 2013, the death rate fell in every year, with a record low of 583 deaths in 2013, compared with the 1994 high of 1,473 casualties.[3] Despite this however, the fatality rate per head of population is moderately high, comparable to the United States.[4]
 
@@ -33,7 +31,7 @@ Děčín, Mělník, Prague, Ústí nad Labem, Moldauhafen in Hamburg (no longer 
 
 Airports
 
-LKPR_sever_2003.jpg]] LKTB_dep_front.jpg]] In 2006, the Czech Republic had a total 121 airports. 46 of these airports had paved runways while 75 had unpaved runways. The largest and busiest airport in the Czech Republic is Václav Havel Airport Prague, opened in 1937. Other international airports include Brno–Tuřany Airport, Karlovy Vary Airport, Ostrava Leoš Janáček Airport, Pardubice Airport, Kunovice Airport and Public domestic and private international airport is for example Hradec Králové Airport.
+]] ]] In 2006, the Czech Republic had a total 121 airports. 46 of these airports had paved runways while 75 had unpaved runways. The largest and busiest airport in the Czech Republic is Václav Havel Airport Prague, opened in 1937. Other international airports include Brno–Tuřany Airport, Karlovy Vary Airport, Ostrava Leoš Janáček Airport, Pardubice Airport, Kunovice Airport and Public domestic and private international airport is for example Hradec Králové Airport.
 
 Airports with paved runways
 

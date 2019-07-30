@@ -9,7 +9,7 @@ Arianism is also used to refer to other nontrinitarian theological systems of th
 
 Origin
 
-Ariusz.JPG icon depicting the First Council of Nicaea.]]
+icon depicting the First Council of Nicaea.]]
 
 Arius had been a pupil of Lucian of Antioch at Lucian's private academy in Antioch and inherited from him a modified form of the teachings of Paul of Samosata.[27] He taught that God the Father and the Son of God did not always exist together eternally.[28]
 
@@ -55,7 +55,7 @@ Struggles with orthodoxy
 
 First Council of Nicaea
 
-Constantine_burning_Arian_books.jpg burning Arian books, illustration from a compendium of canon law, _c_. 825.]]
+burning Arian books, illustration from a compendium of canon law, _c_. 825.]]
 
 In 321, Arius was denounced by a synod at Alexandria for teaching a heterodox view of the relationship of Jesus to God the Father. Because Arius and his followers had great influence in the schools of Alexandria—counterparts to modern universities or seminaries—their theological views spread, especially in the eastern Mediterranean.
 
@@ -106,15 +106,15 @@ Although much of the church hierarchy in the East had opposed the Nicene Creed i
 
 Among medieval Germanic tribes
 
-Arian_Baptistry_ceiling_mosaic_-_Ravenna.jpg, built in Ravenna by the Ostrogothic King Theodoric the Great.]]
+, built in Ravenna by the Ostrogothic King Theodoric the Great.]]
 
-During the time of Arianism's flowering in Constantinople, the Gothic convert and Arian bishop Ulfilas (later the subject of the letter of Auxentius cited above) was sent as a missionary to the Gothic tribes across the Danube, a mission favored for political reasons by the Emperor Constantius II. Ulfilas' translation of the Bible in Gothic language and his initial success in converting the Goths to Arianism was strengthened by later events; the conversion of Goths led to a widespread diffusion of Arianism among other Germanic tribes as well (Vandals, Longobards, Svevi and Burgundians).[59] When the Germanic peoples entered the provinces of the Western Roman Empire and began founding their own kingdoms there, most of them were Arian Christians.[60] CodexArgenteus06.jpg'', a 6th century illuminated manuscript of the Gothic Bible]]
+During the time of Arianism's flowering in Constantinople, the Gothic convert and Arian bishop Ulfilas (later the subject of the letter of Auxentius cited above) was sent as a missionary to the Gothic tribes across the Danube, a mission favored for political reasons by the Emperor Constantius II. Ulfilas' translation of the Bible in Gothic language and his initial success in converting the Goths to Arianism was strengthened by later events; the conversion of Goths led to a widespread diffusion of Arianism among other Germanic tribes as well (Vandals, Longobards, Svevi and Burgundians).[59] When the Germanic peoples entered the provinces of the Western Roman Empire and began founding their own kingdoms there, most of them were Arian Christians.[60] '', a 6th century illuminated manuscript of the Gothic Bible]]
 
 The conflict in the 4th century had seen Arian and Nicene factions struggling for control of Western Europe. In contrast, among the Arian German kingdoms established in the collapsing Western Empire in the 5th century were entirely separate Arian and Nicene Churches with parallel hierarchies, each serving different sets of believers. The Germanic elites were Arians, and the Romance majority population was Nicene. The Arian Germanic tribes were generally tolerant towards Nicene Christians and other religious minorities, including the Jews.[61] However, the Vandals tried for several decades to force their Arian beliefs on their North African Nicene subjects, exiling Nicene clergy, dissolving monasteries, and exercising heavy pressure on non-conforming Nicene Christians.
 
-Christian_states_495_AD_(en).svg kingdoms in 495]] The apparent resurgence of Arianism after Nicaea was more an anti-Nicene reaction exploited by Arian sympathizers than a pro-Arian development.[62] By the end of the 4th century it had surrendered its remaining ground to Trinitarianism.[63] In Western Europe, Arianism, which had been taught by Ulfilas, the Arian missionary to the Germanic tribes, was dominant among the Goths, Longobards and Vandals. By the 8th century, it had ceased to be the tribes' mainstream belief as the tribal rulers gradually came to adopt Nicene orthodoxy. This trend began in 496 with Clovis I of the Franks, then Reccared I of the Visigoths in 587 and Aripert I of the Lombards in 653.
+kingdoms in 495]] The apparent resurgence of Arianism after Nicaea was more an anti-Nicene reaction exploited by Arian sympathizers than a pro-Arian development.[62] By the end of the 4th century it had surrendered its remaining ground to Trinitarianism.[63] In Western Europe, Arianism, which had been taught by Ulfilas, the Arian missionary to the Germanic tribes, was dominant among the Goths, Longobards and Vandals. By the 8th century, it had ceased to be the tribes' mainstream belief as the tribal rulers gradually came to adopt Nicene orthodoxy. This trend began in 496 with Clovis I of the Franks, then Reccared I of the Visigoths in 587 and Aripert I of the Lombards in 653.
 
-The Franks and the Anglo-Saxons were unlike the other Germanic peoples in that they entered the Western Roman Empire as Pagans and were forcibly converted to Chalcedonian Christianity by their kings, Clovis I[64] and Æthelberht of Kent (see also Christianity in Gaul and Christianisation of Anglo-Saxon England). The remaining tribes – the Vandals and the Ostrogoths – did not convert as a people nor did they maintain territorial cohesion. Having been militarily defeated by the armies of Emperor Justinian I, the remnants were dispersed to the fringes of the empire and became lost to history. The Vandalic War of 533–534 dispersed the defeated Vandals.[65] Following their final defeat at the Battle of Mons Lactarius in 553, the Ostrogoths went back north and (re)settled in south Austria. PalatiumTheodoricMosaicDetail.jpg any signs that the perceived heresy left behind. This mosaic in Basilica of Sant'Apollinare Nuovo in Ravenna has had images of the Arian king, Theoderic, and his court removed. On some columns their hands remain.]]
+The Franks and the Anglo-Saxons were unlike the other Germanic peoples in that they entered the Western Roman Empire as Pagans and were forcibly converted to Chalcedonian Christianity by their kings, Clovis I[64] and Æthelberht of Kent (see also Christianity in Gaul and Christianisation of Anglo-Saxon England). The remaining tribes – the Vandals and the Ostrogoths – did not convert as a people nor did they maintain territorial cohesion. Having been militarily defeated by the armies of Emperor Justinian I, the remnants were dispersed to the fringes of the empire and became lost to history. The Vandalic War of 533–534 dispersed the defeated Vandals.[65] Following their final defeat at the Battle of Mons Lactarius in 553, the Ostrogoths went back north and (re)settled in south Austria. any signs that the perceived heresy left behind. This mosaic in Basilica of Sant'Apollinare Nuovo in Ravenna has had images of the Arian king, Theoderic, and his court removed. On some columns their hands remain.]]
 
 
 From the 5th to the 7th century

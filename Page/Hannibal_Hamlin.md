@@ -11,7 +11,7 @@ In 1869, Hamlin was elected again to the U.S. Senate, and he served two terms. A
 
 Early life
 
-Younger_Hannibal_Hamlin.jpg Hamlin was born to Cyrus Hamlin and his wife Anna, née Livermore, in Paris (now in Maine, then a part of Massachusetts). He was a descendant in the sixth generation of English colonist James Hamlin, who had settled in the Massachusetts Bay Colony in 1639. He was a grandnephew of U.S. Senator Samuel Livermore II[1] of New Hampshire.
+Hamlin was born to Cyrus Hamlin and his wife Anna, née Livermore, in Paris (now in Maine, then a part of Massachusetts). He was a descendant in the sixth generation of English colonist James Hamlin, who had settled in the Massachusetts Bay Colony in 1639. He was a grandnephew of U.S. Senator Samuel Livermore II[1] of New Hampshire.
 
 Hamlin attended the district schools and Hebron Academy and later managed his father's farm. From 1827 to 1830 he published the _Oxford Jeffersonian_ newspaper in partnership with Horatio King.[2]
 
@@ -38,7 +38,7 @@ The Republicans nominated Hamlin for Governor of Maine in the same year. He carr
 
 Vice presidency
 
-Hamlin_button_1860.jpg and Hannibal Hamlin. The other side of the button has Lincoln's portrait.]] Hamlin was nominated by the Republican Party to serve as Vice President of the United States in the 1860 presidential election on a ticket with former Representative Abraham Lincoln.[7] Given that Lincoln was from Illinois, a vice presidential nominee from Maine made sense in terms of regional balance. As a former Democrat, Hamlin could persuade other anti-slavery Democrats that joining the Republican Party was the only way to ensure slavery's demise.
+and Hannibal Hamlin. The other side of the button has Lincoln's portrait.]] Hamlin was nominated by the Republican Party to serve as Vice President of the United States in the 1860 presidential election on a ticket with former Representative Abraham Lincoln.[7] Given that Lincoln was from Illinois, a vice presidential nominee from Maine made sense in terms of regional balance. As a former Democrat, Hamlin could persuade other anti-slavery Democrats that joining the Republican Party was the only way to ensure slavery's demise.
 
 Hamlin and Lincoln were not close personally but had a good working relationship. At the time, the Vice President was part of the legislative branch in his role as President of the Senate and did not attend cabinet meetings; Hamlin did not regularly visit the White House. Mary Todd Lincoln and Hamlin disliked each other. For his part, Hamlin complained, "I am only a fifth wheel of a coach and can do little for my friends."[8]
 
@@ -82,7 +82,7 @@ Hannibal's first cousin Cyrus Hamlin, who was a graduate of the Bangor Theologic
 
 Honors
 
-Hannibal_Hamlin_statue,_Bangor,_ME_IMG_2073.JPG of Brewer, Maine, created this bronze statue of Hannibal Hamlin, which was dedicated in 1927 in downtown Bangor.]]
+of Brewer, Maine, created this bronze statue of Hannibal Hamlin, which was dedicated in 1927 in downtown Bangor.]]
 
 Hamlin County, South Dakota is named in his honor, as are Hamlin, Kansas; Hamlin, New York; Hamlin, West Virginia; Hamlin Township; Hamlin Lake in Mason County, Michigan; and, Hamlin, a small Maine village that is a U.S.–Canada border crossing with Grand Falls, New Brunswick. There are statues in Hamlin's likeness in the United States Capitol and in a public park (Norumbega Mall) in Bangor, Maine.
 

@@ -1,4 +1,4 @@
-Territories_of_Dynasties_in_China.gif and states throughout the history of China]] Timeline_of_Chinese_History.jpg The earliest known written records of the HISTORY OF CHINA date from as early as 1250 BC, from the Shang dynasty (c. 1600–1046 BC), during the king Wu Ding's reign,[1][2] who was mentioned as the twenty-first Shang king by the same.[3][4] Ancient historical texts such as the _Records of the Grand Historian_ (c. 100 BC) and the _Bamboo Annals_ (296 BC) describe a Xia dynasty (c. 2070–1600 BC) before the Shang, but no writing is known from the period, and Shang writings do not indicate the existence of the Xia.[5] The Shang ruled in the Yellow River valley, which is commonly held to be the cradle of Chinese civilization. However, Neolithic civilizations originated at various cultural centers along both the Yellow River and Yangtze River. These Yellow River and Yangtze civilizations arose millennia before the Shang. With thousands of years of continuous history, China is one of the world's oldest civilizations,[6] and is regarded as one of the cradles of civilization.[7]
+and states throughout the history of China]] The earliest known written records of the HISTORY OF CHINA date from as early as 1250 BC, from the Shang dynasty (c. 1600–1046 BC), during the king Wu Ding's reign,[1][2] who was mentioned as the twenty-first Shang king by the same.[3][4] Ancient historical texts such as the _Records of the Grand Historian_ (c. 100 BC) and the _Bamboo Annals_ (296 BC) describe a Xia dynasty (c. 2070–1600 BC) before the Shang, but no writing is known from the period, and Shang writings do not indicate the existence of the Xia.[5] The Shang ruled in the Yellow River valley, which is commonly held to be the cradle of Chinese civilization. However, Neolithic civilizations originated at various cultural centers along both the Yellow River and Yangtze River. These Yellow River and Yangtze civilizations arose millennia before the Shang. With thousands of years of continuous history, China is one of the world's oldest civilizations,[6] and is regarded as one of the cradles of civilization.[7]
 
 The Zhou dynasty (1046–256 BC) supplanted the Shang, and introduced the concept of the Mandate of Heaven to justify their rule. The central Zhou government began to weaken due to external and internal pressures in the 8th century BC, and the country eventually splintered into smaller states during the Spring and Autumn period. These states became independent and warred with one another in the following Warring States period. Much of traditional Chinese culture, literature and philosophy first developed during those troubled times.
 
@@ -85,7 +85,7 @@ Qin dynasty (221–207 BC)
 
 Historians often refer to the period from the Qin dynasty to the end of the Qing dynasty as Imperial China. Though the unified reign of the First Qin Emperor lasted only 12 years, he managed to subdue great parts of what constitutes the core of the Han Chinese homeland and to unite them under a tightly centralized Legalist government seated at Xianyang (close to modern Xi'an). The doctrine of Legalism that guided the Qin emphasized strict adherence to a legal code and the absolute power of the emperor. This philosophy, while effective for expanding the empire in a military fashion, proved unworkable for governing it in peacetime. The Qin Emperor presided over the brutal silencing of political opposition, including the event known as the burning of books and burying of scholars. This would be the impetus behind the later Han synthesis incorporating the more moderate schools of political governance.
 
-CMOC_Treasures_of_Ancient_China_exhibit_-_stone_slab_with_twelve_small_seal_characters.jpg (221–206 BC)]]
+(221–206 BC)]]
 
 Major contributions of the Qin include the concept of a centralized government, and the unification and development of the legal code, the written language, measurement, and currency of China after the tribulations of the Spring and Autumn and Warring States periods. Even something as basic as the length of axles for carts—which need to match ruts in the roads—had to be made uniform to ensure a viable trading system throughout the empire. Also as part of its centralization, the Qin connected the northern border walls of the states it defeated, making the first Great Wall of China.
 
@@ -100,8 +100,6 @@ After Emperor Qin Shi Huang's unnatural death due to the consumption of mercury 
 Han dynasty (202 BC – AD 220)
 
 Western Han
-
-Han_Expansion.png
 
 The Han dynasty was founded by Liu Bang, who emerged victorious in the Chu–Han Contention that followed the fall of the Qin dynasty. A golden age in Chinese history, the Han dynasty's long period of stability and prosperity consolidated the foundation of China as a unified state under a central imperial bureaucracy, which was to last intermittently for most of the next two millennia. During the Han dynasty, territory of China was extended to most of the China proper and to areas far west. Confucianism was officially elevated to orthodox status and was to shape the subsequent Chinese civilization. Art, culture and science all advanced to unprecedented heights. With the profound and lasting impacts of this period of Chinese history, the dynasty name "Han" had been taken as the name of the Chinese people, now the dominant ethnic group in modern China, and had been commonly used to refer to Chinese language and written characters. The Han dynasty also saw many mathematical innovations being invented such as the method of Gaussian elimination which appeared in the Chinese mathematical text Chapter Eight _Rectangular Arrays_ of _The Nine Chapters on the Mathematical Art_. Its use is illustrated in eighteen problems, with two to five equations. The first reference to the book by this title is dated to 179 AD, but parts of it were written as early as approximately 150 BC, more than 1500 years before the Europeans came up with the method in the 18th century.[47][48]
 
@@ -118,8 +116,6 @@ Xin dynasty
 In AD 9, the usurper Wang Mang claimed that the Mandate of Heaven called for the end of the Han dynasty and the rise of his own, and he founded the short-lived Xin ("New") dynasty. Wang Mang started an extensive program of land and other economic reforms, including the outlawing of slavery and land nationalization and redistribution. These programs, however, were never supported by the landholding families, because they favored the peasants. The instability of power brought about chaos, uprisings, and loss of territories. This was compounded by mass flooding of the Yellow River; silt buildup caused it to split into two channels and displaced large numbers of farmers. Wang Mang was eventually killed in Weiyang Palace by an enraged peasant mob in AD 23.
 
 Eastern Han
-
-东汉铜卡尺.jpg
 
 Emperor Guangwu reinstated the Han dynasty with the support of landholding and merchant families at Luoyang, _east_ of the former capital Xi'an. Thus, this new era is termed the Eastern Han dynasty. With the capable administrations of Emperors Ming and Zhang, former glories of the dynasty was reclaimed, with brilliant military and cultural achievements. The Xiongnu Empire was decisively defeated. The diplomat and general Ban Chao further expanded the conquests across the Pamirs to the shores of the Caspian Sea,[52] thus reopening the Silk Road, and bringing trade, foreign cultures, along with the arrival of Buddhism. With extensive connections with the west, the first of several Roman embassies to China were recorded in Chinese sources, coming from the sea route in AD 166, and a second one in AD 284.
 
@@ -154,8 +150,6 @@ The short-lived Sui dynasty was a pivotal period in Chinese history. Founded by 
 Tang dynasty (AD 618–907)
 
 The Tang dynasty was founded by Emperor Gaozu on 18 June 618. It was a golden age of Chinese civilization and considered to be the most prosperous period of China with significant developments in culture, art, literature, particularly poetry, and technology. Buddhism became the predominant religion for the common people. Chang'an (modern Xi'an), the national capital, was the largest city in the world during its time.[53]
-
-Tang_Protectorates.png
 
 The second emperor, Taizong, is widely regarded as one of the greatest emperors in Chinese history, who had laid the foundation for the dynasty to flourish for centuries beyond his reign. Combined military conquests and diplomatic maneuvers were implemented to eliminate threats from nomadic tribes, extend the border, and submit neighboring states into a tributary system. Military victories in the Tarim Basin kept the Silk Road open, connecting Chang'an to Central Asia and areas far to the west. In the south, lucrative maritime trade routes began from port cities such as Guangzhou. There was extensive trade with distant foreign countries, and many foreign merchants settled in China, encouraging a cosmopolitan culture. The Tang culture and social systems were observed and imitated by neighboring countries, most notably, Japan. Internally the Grand Canal linked the political heartland in Chang'an to the agricultural and economic centers in the eastern and southern parts of the empire. Xuanzang, a Chinese Buddhist monk, scholar, traveller, and translator who travelled to India on his own, and returned with, "over six hundred Mahayana and Hinayana texts, seven statues of the Buddha and more than a hundred sarira relics."
 
@@ -199,8 +193,6 @@ The advances in civilization during the Song dynasty came to an abrupt end follo
 
 Yuan dynasty (AD 1271–1368)
 
-MongolMap.jpg
-
 The Yuan dynasty was formally proclaimed in 1271, when the Great Khan of Mongol, Kublai Khan, one of the grandsons of Genghis Khan, assumed the additional title of Emperor of China, and considered his inherited part of the Mongol Empire as a Chinese dynasty. In the preceding decades, the Mongols had conquered the Jin dynasty in Northern China, and the Southern Song dynasty fell in 1279 after a protracted and bloody war. The Mongol Yuan dynasty became the first conquest dynasty in Chinese history to rule the entire China proper and its population as an ethnic minority. The dynasty also directly controlled the Mongolian heartland and other regions, inheriting the largest share of territory of the divided Mongol Empire, which roughly coincided with the modern area of China and nearby regions in East Asia. Further expansion of the empire was halted after defeats in the invasions of Japan and Vietnam. Following the previous Jin dynasty, the capital of Yuan dynasty was established at Khanbaliq (also known as Dadu, modern-day Beijing). The Grand Canal was reconstructed to connect the remote capital city to economic hubs in southern part of China, setting the precedence and foundation where Beijing would largely remain as the capital of the successive regimes that unified China mainland.
 
 After the peace treaty in 1304 that ended a series of Mongol civil wars, the emperors of the Yuan dynasty were upheld as the nominal Great Khan (Khagan) of the greater Mongol Empire over other Mongol Khanates, which nonetheless remained de facto autonomous. The era was known as _Pax Mongolica_, when much of the Asian continent was ruled by the Mongols. For the first and only time in history, the silk road was controlled entirely by a single state, facilitating the flow of people, trade, and cultural exchange. Network of roads and a postal system were established to connect the vast empire. Lucrative maritime trade, developed from the previous Song dynasty, continued to flourish, with Quanzhou and Hangzhou emerging as the largest ports in the world. Adventurous travelers from the far west, most notably the Venetian, Marco Polo, would have settled in China for decades. Upon his return, his detail travel record inspired generations of medieval Europeans with the splendors of the far East. The Yuan dynasty was the first ancient economy, where paper currency, known at the time as Chao, was used as the predominant medium of exchange. Its unrestricted issuance in the late Yuan dynasty inflicted hyperinflation, which eventually brought the downfall of the dynasty.
@@ -215,7 +207,7 @@ Ming dynasty (AD 1368–1644)
 
 The Ming dynasty was founded by Zhu Yuanzhang in 1368, who proclaimed himself as the Hongwu Emperor. The capital was initially set at Nanjing, and was later moved to Beijing from Yongle Emperor's reign onward.
 
-Nieuhof-Ambassade-vers-la-Chine-1665_0789.tif, from _An embassy from the East-India Company_ (1665) by Johan Nieuhof . It was first discovered by the Western world when travelers like Johan Nieuhof visited it, sometimes listing it as one of the Seven Wonders of the World.]]
+, from _An embassy from the East-India Company_ (1665) by Johan Nieuhof . It was first discovered by the Western world when travelers like Johan Nieuhof visited it, sometimes listing it as one of the Seven Wonders of the World.]]
 
 Urbanization increased as the population grew and as the division of labor grew more complex. Large urban centers, such as Nanjing and Beijing, also contributed to the growth of private industry. In particular, small-scale industries grew up, often specializing in paper, silk, cotton, and porcelain goods. For the most part, however, relatively small urban centers with markets proliferated around the country. Town markets mainly traded food, with some necessary manufactures such as pins or oil.
 
@@ -243,11 +235,11 @@ The Manchus enforced a 'queue order,' forcing Han Chinese men to adopt the Manch
 
 Over the next half-century, all areas previously under the Ming dynasty were consolidated under the Qing. conquests in Central Asia in the eighteenth century extended territorial control. Between 1673 and 1681, the Kangxi Emperor suppressed the Revolt of the Three Feudatories, an uprising of three generals in Southern China who had been denied hereditary rule of large fiefdoms granted by the previous emperor. In 1683, the Qing staged an amphibious assault on southern Taiwan, bringing down the rebel Kingdom of Tungning, which was founded by the Ming loyalist Koxinga (Zheng Chenggong) in 1662 after the fall of the Southern Ming, and had served as a base for continued Ming resistance in Southern China. The Qing defeated the Russians at Albazin, resulting in the Treaty of Nerchinsk.
 
-Portrait_of_the_Qianlong_Emperor_in_Court_Dress.jpg]]
+]]
 
 By the end of Qianlong Emperor's long reign in 1796, the Qing Empire was at its zenith. The Qing ruled more than one-third of the world's population, and had the largest economy in the world. By area it was one of the largest empires ever.
 
-Li_Hung_Chang_in_1896.jpg, a Chinese politician, general and diplomat of the late Qing dynasty.]]
+, a Chinese politician, general and diplomat of the late Qing dynasty.]]
 
 In the 19th century the empire was internally restive and externally threatened by western powers. The defeat by the British Empire in the First Opium War (1840) led to the Treaty of Nanking (1842), under which Hong Kong was ceded to Britain and importation of opium (produced by British Empire territories) was allowed. Opium usage continued to grow in China, adversely affecting societal stability. Subsequent military defeats and unequal treaties with other western powers continued even after the fall of the Qing dynasty.
 
@@ -262,17 +254,17 @@ Modern China
 
 Republic of China (since 1912)
 
-Xinhai_Revolution_in_Shanghai.jpg during Xinhai Revolution, 1911.]] Frustrated by the Qing court's resistance to reform and by China's and their perception of China's weakness, young officials, military officers, and students began to advocate the overthrow of the Qing dynasty and the creation of a republic. They were inspired by the revolutionary ideas of Sun Yat-sen. A revolutionary military uprising, the Wuchang Uprising, began on 10 October 1911, in Wuchang (Today part of Wuhan). The provisional government of the Republic of China was formed in Nanking on 12 March 1912. The Xinhai Revolution ended 2,000 years of dynasty rule in China.
+during Xinhai Revolution, 1911.]] Frustrated by the Qing court's resistance to reform and by China's and their perception of China's weakness, young officials, military officers, and students began to advocate the overthrow of the Qing dynasty and the creation of a republic. They were inspired by the revolutionary ideas of Sun Yat-sen. A revolutionary military uprising, the Wuchang Uprising, began on 10 October 1911, in Wuchang (Today part of Wuhan). The provisional government of the Republic of China was formed in Nanking on 12 March 1912. The Xinhai Revolution ended 2,000 years of dynasty rule in China.
 
 After the success of the overthrow of the Qing dynasty, Sun Yat-sen was declared President, but Sun was forced to turn power over to Yuan Shikai, who commanded the New Army and was the Prime Minister under the Qing government, as part of the agreement to let the last Qing monarch abdicate and declare the sovereignty inherit (a decision Sun would later regret). Over the next few years, Yuan proceeded to abolish the national and provincial assemblies and declared himself as the emperor of Empire of China in late 1915. Yuan's imperial ambitions were fiercely opposed by his subordinates; faced with the prospect of rebellion, he abdicated in March 1916 and died in June of that year.
 
 Yuan's death in 1916 left a power vacuum in China; the republican government was all but shattered. This ushered in the Warlord Era, during which much of the country was ruled by shifting coalitions of competing provincial military leaders.
 
-Beijing_students_protesting_the_Treaty_of_Versailles_(May_4,_1919).jpg, dissatisfied with Article 156 of the Treaty of Versailles for China (Shandong Problem).]]
+, dissatisfied with Article 156 of the Treaty of Versailles for China (Shandong Problem).]]
 
 In 1919, the May Fourth Movement began as a response to the terms imposed on China by the Treaty of Versailles ending World War I, but quickly became a nationwide protest movement about the domestic situation in China. The protests were a moral success as the cabinet fell and China refused to sign the Treaty of Versailles, which had awarded German holdings of Shandong to Japan. The New Culture Movement stimulated by the May Fourth Movement waxed strong throughout the 1920s and 1930s. According to Ebrey:
 
-    "Nationalism, patriotism, progress, science, democracy, and freedom were the goals; imperialism, feudalism, warlordism, autocracy, patriarchy, and blind adherence to tradition were the enemies. Intellectuals struggled with how to be strong and modern and yet Chinese, how to preserve China as a political entity in the world of competing nations."[64]Flag_of_the_Republic_of_China.svg
+    "Nationalism, patriotism, progress, science, democracy, and freedom were the goals; imperialism, feudalism, warlordism, autocracy, patriarchy, and blind adherence to tradition were the enemies. Intellectuals struggled with how to be strong and modern and yet Chinese, how to preserve China as a political entity in the world of competing nations."[64]
 
 The discrediting of liberal Western philosophy amongst leftist Chinese intellectuals led to more radical lines of thought inspired by the Russian Revolution and supported by agents of the Comintern sent to China by Moscow. This created the seeds for the irreconcilable conflict between the left and right in China that would dominate Chinese history for the rest of the century.
 
@@ -284,19 +276,17 @@ Following the defeat of Japan in 1945, the war between the Nationalist governmen
 
 People's Republic of China (since 1949)
 
-PLA_Enters_Peking.jpg enters Beijing in the Pingjin Campaign]]
+enters Beijing in the Pingjin Campaign]]
 
 Major combat in the Chinese Civil War ended in 1949 with Kuomintang (KMT) pulling out of the mainland, with the government relocating to Taipei and maintaining control only over a few islands. The Communist Party of China was left in control of mainland China. On 1 October 1949, Mao Zedong proclaimed the People's Republic of China.[70] "Communist China" and "Red China" were two common names for the PRC.[71]
 
-Mao_proclaiming_the_establishment_of_the_PRC_in_1949.jpg proclaiming the establishment of the People's Republic of China in 1949.]]
-
-China_10th_Anniversary_Parade_in_Beijing_01.jpg
+proclaiming the establishment of the People's Republic of China in 1949.]]
 
 The PRC was shaped by a series of campaigns and five-year plans. The economic and social plan known as the Great Leap Forward caused an estimated 45 million deaths.[72] Mao's government carried out mass executions of landowners, instituted collectivisation and implemented the Laogai camp system. Execution, deaths from forced labor and other atrocities resulted in millions of deaths under Mao. In 1966 Mao and his allies launched the Cultural Revolution, which continued until Mao's death a decade later. The Cultural Revolution, motivated by power struggles within the Party and a fear of the Soviet Union, led to a major upheaval in Chinese society.
 
 In 1972, at the peak of the Sino-Soviet split, Mao and Zhou Enlai met US president Richard Nixon in Beijing to establish relations with the United States. In the same year, the PRC was admitted to the United Nations in place of the Republic of China, with permanent membership of the Security Council.
 
-Flag_of_the_People's_Republic_of_China.svg A power struggle followed Mao's death in 1976. The Gang of Four were arrested and blamed for the excesses of the Cultural Revolution, marking the end of a turbulent political era in China. Deng Xiaoping outmaneuvered Mao's anointed successor chairman Hua Guofeng, and gradually emerged as the _de facto_ leader over the next few years.
+A power struggle followed Mao's death in 1976. The Gang of Four were arrested and blamed for the excesses of the Cultural Revolution, marking the end of a turbulent political era in China. Deng Xiaoping outmaneuvered Mao's anointed successor chairman Hua Guofeng, and gradually emerged as the _de facto_ leader over the next few years.
 
 Deng Xiaoping was the Paramount Leader of China from 1978 to 1992, although he never became the head of the party or state, and his influence within the Party led the country to significant economic reforms. The Communist Party subsequently loosened governmental control over citizens' personal lives and the communes were disbanded with many peasants receiving multiple land leases, which greatly increased incentives and agricultural production. In addition, there were many free market areas opened. The most successful free market areas was Shenzhen. It is located in Guangdong and the property tax free area still exists today. This turn of events marked China's transition from a planned economy to a mixed economy with an increasingly open market environment, a system termed by some[73] as "market socialism", and officially by the Communist Party of China as "Socialism with Chinese characteristics". The PRC adopted its current constitution on 4 December 1982.
 

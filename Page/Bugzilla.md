@@ -440,8 +440,6 @@ Currently supported database systems are MySQL, PostgreSQL, Oracle, and SQLite. 
 
 Design
 
-Bugzilla_Lifecycle_color-aqua.svg
-
 While the potential exists in the code to turn Bugzilla into a technical support ticket system, task management tool, or project management tool, Bugzilla's developers have chosen to focus on the task of designing a system to track software defects. Mandated design requirements include:[7]
 
 -   The ability to run on freely available, open-source tools. While Bugzilla development includes work to support commercial databases, tools, and operating systems.

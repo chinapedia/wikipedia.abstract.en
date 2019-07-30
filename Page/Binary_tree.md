@@ -1,5 +1,3 @@
-binary_tree.svg
-
 In computer science, a BINARY TREE is a tree data structure in which each node has at most two children, which are referred to as the __ and the __. A recursive definition using just set theory notions is that a (non-empty) binary tree is a tuple (_L_, _S_, _R_), where _L_ and _R_ are binary trees or the empty set and _S_ is a singleton set.[1] Some authors allow the binary tree to be the empty set as well.[2]
 
 From a graph theory perspective, binary (and K-ary) trees as defined here are actually arborescences.[3] A binary tree may thus be also called a BIFURCATING ARBORESCENCE[4]—a term which appears in some very old programming books,[5] before the modern computer science terminology prevailed. It is also possible to interpret a binary tree as an undirected, rather than a directed graph, in which case a binary tree is an ordered, rooted tree.[6] Some authors use ROOTED BINARY TREE instead of _binary tree_ to emphasize the fact that the tree is rooted, but as defined above, a binary tree is always rooted.[7] A binary tree is a special case of an ordered K-ary tree, where _k_ is 2.
@@ -37,14 +35,12 @@ Tree terminology is not well-standardized and so varies in the literature.
 
 -   A binary tree has a root node and every node has at most two children.
 
-Full_binary.svg Waldburg_Ahnentafel.jpg which maps to a perfect depth-4 binary tree.]]
+which maps to a perfect depth-4 binary tree.]]
 
 -   A binary tree (sometimes referred to as a PROPER[17] or PLANE binary tree)[18][19] is a tree in which every node has either 0 or 2 children. Another way of defining a full binary tree is a recursive definition. A full binary tree is either:[20]
     -   A single vertex.
     -   A tree whose root node has two subtrees, both of which are full binary trees.
 -   In a binary tree every level, _except possibly the last_, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and 2^(_h_) nodes at the last level _h_.[21] An alternative definition is a perfect tree whose rightmost leaves (perhaps all) have been removed. Some authors use the term COMPLETE to refer instead to a perfect binary tree as defined below, in which case they call this type of tree (with a possibly not filled last level) an ALMOST COMPLETE binary tree or NEARLY COMPLETE binary tree.[22][23] A complete binary tree can be efficiently represented using an array.[24]
-
-Complete_binary.svg
 
 -   A binary tree is a binary tree in which all interior nodes have two children _and_ all leaves have the same _depth_ or same _level_.[25] An example of a perfect binary tree is the (non-incestuous) ancestry chart of a person to a given depth, as each person has exactly two biological parents (one mother and one father). Provided the ancestry chart always displays the mother and the father on the same side for a given node, their sex can be seen as an analogy of left and right children, _children_ being understood here as an algorithmic term. A perfect tree is therefore always complete but a complete tree is not necessarily perfect.
 -   In the INFINITE COMPLETE binary tree, every node has two children (and so the set of levels is countably infinite). The set of all nodes is countably infinite, but the set of all infinite paths from the root is uncountable, having the cardinality of the continuum. These paths correspond by an order-preserving bijection to the points of the Cantor set, or (using the example of a Stern–Brocot tree) to the set of positive irrational numbers.
@@ -105,8 +101,6 @@ Binary trees can also be stored in breadth-first order as an implicit data struc
 
 This method of storage is often used for binary heaps. No space is wasted because nodes are added in breadth-first order.
 
-Binary_tree_in_array.svg
-
 
 Encodings
 
@@ -150,8 +144,6 @@ One way of thinking about this is that each node's children are in a linked list
 
 For example, in the tree on the left, A has the 6 children {B,C,D,E,F,G}. It can be converted into the binary tree on the right.
 
-N-ary_to_binary.svg
-
 The binary tree can be thought of as the original tree tilted sideways, with the black left edges representing _first child_ and the blue right edges representing _next sibling_. The leaves of the tree on the left would be written in Lisp as:
 
     (((N O) I J) C D ((P) (Q)) F (M))
@@ -161,7 +153,7 @@ which would be implemented in memory as the binary tree on the right, without an
 
 Common operations
 
-BinaryTreeRotations.svgs are very common internal operations on self-balancing binary trees.]] There are a variety of different operations that can be performed on binary trees. Some are mutator operations, while others simply return useful information about the tree.
+s are very common internal operations on self-balancing binary trees.]] There are a variety of different operations that can be performed on binary trees. Some are mutator operations, while others simply return useful information about the tree.
 
 Insertion
 
@@ -173,7 +165,7 @@ To add a new node after leaf node A, A assigns the new node as one of its childr
 
 Internal nodes
 
-Insertion_of_binary_tree_node.svg Insertion on internal nodes is slightly more complex than on leaf nodes. Say that the internal node is node A and that node B is the child of A. (If the insertion is to insert a right child, then B is the right child of A, and similarly with a left child insertion.) A assigns its child to the new node and the new node assigns its parent to A. Then the new node assigns its child to B and B assigns its parent as the new node.
+Insertion on internal nodes is slightly more complex than on leaf nodes. Say that the internal node is node A and that node B is the child of A. (If the insertion is to insert a right child, then B is the right child of A, and similarly with a left child insertion.) A assigns its child to the new node and the new node assigns its parent to A. Then the new node assigns its child to B and B assigns its parent as the new node.
 
 Deletion
 
@@ -181,7 +173,7 @@ Deletion is the process whereby a node is removed from the tree. Only certain no
 
 Node with zero or one children
 
-Deletion_of_internal_binary_tree_node.svg Suppose that the node to delete is node A. If A has no children, deletion is accomplished by setting the child of A's parent to null. If A has one child, set the parent of A's child to A's parent and set the child of A's parent to A's child.
+Suppose that the node to delete is node A. If A has no children, deletion is accomplished by setting the child of A's parent to null. If A has one child, set the parent of A's child to A's parent and set the child of A's parent to A's child.
 
 Node with two children
 

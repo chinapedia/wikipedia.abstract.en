@@ -1,4 +1,4 @@
-Western-Ghats-Matheran.jpg at Matheran in Maharashtra]] Deccan_Traps_Maharashtra_India_22Mar2018_SkySat.jpg The DECCAN TRAPS are a large igneous province located on the Deccan Plateau of west-central India (17°–24°N, 73°–74°E). They are one of the largest volcanic features on Earth. They consist of multiple layers of solidified flood basalt that together are more than thick, cover an area of ,[1] and have a volume of .[2] Originally, the Deccan Traps may have covered ,[3] with a correspondingly larger original volume.
+at Matheran in Maharashtra]] The DECCAN TRAPS are a large igneous province located on the Deccan Plateau of west-central India (17°–24°N, 73°–74°E). They are one of the largest volcanic features on Earth. They consist of multiple layers of solidified flood basalt that together are more than thick, cover an area of ,[1] and have a volume of .[2] Originally, the Deccan Traps may have covered ,[3] with a correspondingly larger original volume.
 
 
 Etymology
@@ -8,7 +8,7 @@ The term "trap" has been used in geology since 1785–1795 for such rock formati
 
 History
 
-Ajanta_caves_1.JPG]] The Deccan Traps began forming 66.25 million years ago,[5] at the end of the Cretaceous period. The bulk of the volcanic eruption occurred at the Western Ghats some 66 million years ago. This series of eruptions may have lasted fewer than 30,000 years.[6]
+]] The Deccan Traps began forming 66.25 million years ago,[5] at the end of the Cretaceous period. The bulk of the volcanic eruption occurred at the Western Ghats some 66 million years ago. This series of eruptions may have lasted fewer than 30,000 years.[6]
 
 The original area covered by the lava flows is estimated to have been as large as , approximately half the size of modern India. The Deccan Traps region was reduced to its current size by erosion and plate tectonics; the present area of directly observable lava flows is around .
 
@@ -24,7 +24,7 @@ Work published in 2014 by geologist Gerta Keller and others on the timing of the
 
 Petrology
 
-World_geologic_provinces.jpg Epistilbite-Calcite-170550.jpg and calcite in a vug in Deccan Traps basalt lava from Jalgaon District, Maharashtra]]Within the Deccan Traps at least 95% of the lavas are tholeiitic basalts.[15] Other rock types present include: alkali basalt, nephelinite, lamprophyre and carbonatite.
+and calcite in a vug in Deccan Traps basalt lava from Jalgaon District, Maharashtra]]Within the Deccan Traps at least 95% of the lavas are tholeiitic basalts.[15] Other rock types present include: alkali basalt, nephelinite, lamprophyre and carbonatite.
 
 Mantle xenoliths have been described from Kachchh (northwestern India) and elsewhere in the western Deccan.[16]
 

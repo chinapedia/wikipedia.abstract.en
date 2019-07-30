@@ -1,8 +1,6 @@
-Cshaft.gif
-
 A CRANKSHAFT—related to _crank_—is a mechanical part able to perform a conversion between reciprocating motion and rotational motion. In a reciprocating engine, it translates reciprocating motion of the piston into rotational motion; whereas in a reciprocating compressor, it converts the rotational motion into reciprocating motion. In order to do the conversion between two motions, the crankshaft has "crank throws" or "crankpins", additional bearing surfaces whose axis is offset from that of the crank, to which the "big ends" of the connecting rods from each cylinder attach.
 
-It is typically connected to a flywheel to reduce the pulsation characteristic of the four-stroke cycle, and sometimes a torsional or vibrational damper at the opposite end, to reduce the torsional vibrations often caused along the length of the crankshaft by the cylinders farthest from the output end acting on the torsional elasticity of the metal. Crank_operation.png
+It is typically connected to a flywheel to reduce the pulsation characteristic of the four-stroke cycle, and sometimes a torsional or vibrational damper at the opposite end, to reduce the torsional vibrations often caused along the length of the crankshaft by the cylinders farthest from the output end acting on the torsional elasticity of the metal.
 
 
 History
@@ -11,7 +9,7 @@ Crank
 
 Han China
 
-Bundesarchiv_Bild_135-BB-152-11,_Tibetexpedition,_Tibeter_mit_Handmühle.jpg operating a quern (1938). The upright handle of such rotary handmills, set at a distance from the centre of rotation, works as a crank.[1][2]]]
+operating a quern (1938). The upright handle of such rotary handmills, set at a distance from the centre of rotation, works as a crank.[1][2]]]
 
 The earliest hand-operated cranks appeared in China during the Han Dynasty (202 BC-220 AD). They were used for silk-reeling, hemp-spinning, for the agricultural winnowing fan, in the water-powered flour-sifter, for hydraulic-powered metallurgic bellows, and in the well windlass.[3] The rotary winnowing fan greatly increased the efficiency of separating grain from husks and stalks.[4][5] However, the potential of the crank of converting circular motion into reciprocal motion never seems to have been fully realized in China, and the crank was typically absent from such machines until the turn of the 20th century.[6]
 
@@ -19,7 +17,7 @@ Roman Empire
 
 A crank in the form of an eccentrically-mounted handle of the rotary handmill appeared in 5th century BC Celtiberian Spain and ultimately spread across the Roman Empire.[7][8][9] A Roman iron crank dating to the 2nd century AD was excavated in Augusta Raurica, Switzerland.[10][11] The crank-operated Roman mill is dated to the late 2nd century.[12]
 
-Römische_Sägemühle.svg in Asia Minor (3rd century), a machine that combines a crank with a connecting rod.[13]]]
+in Asia Minor (3rd century), a machine that combines a crank with a connecting rod.[13]]]
 
 Evidence for the crank combined with a connecting rod appears in the Hierapolis mill, dating to the 3rd century; they are also found in stone sawmills in Roman Syria and Ephesus dating to the 6th century.[14] The pediment of the Hierapolis mill shows a waterwheel fed by a mill race powering via a gear train two frame saws which cut blocks by the way of some kind of connecting rods and cranks.[15] The crank and connecting rod mechanisms of the other two archaeologically-attested sawmills worked without a gear train.[16][17] Water-powered marble saws in Germany were mentioned by the late 4th century poet Ausonius;[18] about the same time, these mill types seem also to be indicated by Gregory of Nyssa from Anatolia.[19][20][21]
 
@@ -45,11 +43,11 @@ Al-Jazari (1136–1206) described a crank and connecting rod system in a rotatin
 
 Renaissance Europe
 
-Anonymous_of_the_Hussite_Wars._Clm_197,_Part_1,_Folio_17v_Supra.jpg)]]
+)]]
 
 The Italian physician Guido da Vigevano (c. 1280−1349), planning for a new crusade, made illustrations for a paddle boat and war carriages that were propelled by manually turned compound cranks and gear wheels,[43] identified as an early crankshaft prototype by Lynn Townsend White.[44] The _Luttrell Psalter_, dating to around 1340, describes a grindstone which was rotated by two cranks, one at each end of its axle; the geared hand-mill, operated either with one or two cranks, appeared later in the 15th century.[45]
 
-Fotothek_df_tg_0006690_Mechanik_^_Wasserförderung_^_Pumpe.jpg, 1661)]]
+, 1661)]]
 
 Around 1480, the early medieval rotary grindstone was improved with a treadle and crank mechanism. Cranks mounted on push-carts first appear in a German engraving of 1589.[46] Crankshafts were also described by Leonardo da Vinci (1452–1519)[47] and a Dutch farmer and windmill owner by the name Cornelis Corneliszoon van Uitgeest in 1592. His wind-powered sawmill used a crankshaft to convert a windmill's circular motion into a back-and-forward motion powering the saw. Corneliszoon was granted a patent for his crankshaft in 1597.
 
@@ -67,7 +65,7 @@ From the 16th century onwards, evidence of cranks and connecting rods integrated
 
 Internal combustion engines
 
-Cad_crank.jpgs and connecting rods for a typical internal combustion engine]] MAN_ship_crankshaft.JPG marine crankshaft for 6cyl marine diesel applications. Note locomotive on left for size reference]] Large engines are usually multicylinder to reduce pulsations from individual firing strokes, with more than one piston attached to a complex crankshaft. Many small engines, such as those found in mopeds or garden machinery, are single cylinder and use only a single piston, simplifying crankshaft design.
+s and connecting rods for a typical internal combustion engine]] marine crankshaft for 6cyl marine diesel applications. Note locomotive on left for size reference]] Large engines are usually multicylinder to reduce pulsations from individual firing strokes, with more than one piston attached to a complex crankshaft. Many small engines, such as those found in mopeds or garden machinery, are single cylinder and use only a single piston, simplifying crankshaft design.
 
 A crankshaft is subjected to enormous stresses, potentially equivalent of several tonnes of force. The crankshaft is connected to the fly-wheel (used to smooth out shock and convert energy to torque), the engine block, using bearings on the main journals, and to the pistons via their respective con-rods. An engine loses up to 75% of its generated energy in the form of friction, noise and vibration in the crankcase and piston area. The remaining losses occur in the valvetrain (timing chains, belts, pulleys, camshafts, lobes, valves, seals etc.) heat and blow by.
 
@@ -89,7 +87,7 @@ For some engines it is necessary to provide counterweights for the reciprocating
 
 Flying arms
 
-Crankshaft_jap_grayscale.jpg In some engine configurations, the crankshaft contains direct links between adjacent crank pins, without the usual intermediate main bearing. These links are called _flying arms_. This arrangement is sometimes used in V6 and V8 engines, as it enables the engine to be designed with different V angles than what would otherwise be required to create an even firing interval, while still using fewer main bearings than would normally be required with a single piston per crankthrow. This arrangement reduces weight and engine length at the expense of less crankshaft rigidity.
+In some engine configurations, the crankshaft contains direct links between adjacent crank pins, without the usual intermediate main bearing. These links are called _flying arms_. This arrangement is sometimes used in V6 and V8 engines, as it enables the engine to be designed with different V angles than what would otherwise be required to create an even firing interval, while still using fewer main bearings than would normally be required with a single piston per crankthrow. This arrangement reduces weight and engine length at the expense of less crankshaft rigidity.
 
 Rotary aircraft engines
 
@@ -102,13 +100,13 @@ The radial engine is a reciprocating type internal combustion engine configurati
 
 Construction
 
-Marine_Crankshafts_8b03602r.jpg marine crankshafts, 1942]]
+marine crankshafts, 1942]]
 
 Crankshafts can be monolithic (made in a single piece) or assembled from several pieces. Monolithic crankshafts are most common, but some smaller and larger engines use assembled crankshafts.
 
 Forging and casting
 
-IPH_Kurbelwelle.jpg Crankshafts can be forged from a steel bar usually through roll forging or cast in ductile steel. Today more and more manufacturers tend to favor the use of forged crankshafts due to their lighter weight, more compact dimensions and better inherent damping. With forged crankshafts, vanadium microalloyed steels are mostly used as these steels can be air cooled after reaching high strengths without additional heat treatment, with exception to the surface hardening of the bearing surfaces. The low alloy content also makes the material cheaper than high alloy steels. Carbon steels are also used, but these require additional heat treatment to reach the desired properties. Cast iron crankshafts are today mostly found in cheaper production engines (such as those found in the Ford Focus diesel engines) where the loads are lower. Some engines also use cast iron crankshafts for low output versions while the more expensive high output version use forged steel.
+Crankshafts can be forged from a steel bar usually through roll forging or cast in ductile steel. Today more and more manufacturers tend to favor the use of forged crankshafts due to their lighter weight, more compact dimensions and better inherent damping. With forged crankshafts, vanadium microalloyed steels are mostly used as these steels can be air cooled after reaching high strengths without additional heat treatment, with exception to the surface hardening of the bearing surfaces. The low alloy content also makes the material cheaper than high alloy steels. Carbon steels are also used, but these require additional heat treatment to reach the desired properties. Cast iron crankshafts are today mostly found in cheaper production engines (such as those found in the Ford Focus diesel engines) where the loads are lower. Some engines also use cast iron crankshafts for low output versions while the more expensive high output version use forged steel.
 
 Machining
 

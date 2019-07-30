@@ -49,7 +49,7 @@ The standard _Cities & Knights_ game comes with 24 knights, 6 of each color. The
 
 Barbarian attacks
 
-Deskohraní_08-10-05_077.jpg _Cities & Knights_ introduces a third die, known as the event die, which serves two functions. The first applies to the concept of barbarians, a periodic foe that all players must work together to defend against. Three of the sides of the event die have a picture of a ship on them. The other three sides have a symbol of a city gate, allowing players who have sufficiently built up a city to obtain progress cards (see below).
+_Cities & Knights_ introduces a third die, known as the event die, which serves two functions. The first applies to the concept of barbarians, a periodic foe that all players must work together to defend against. Three of the sides of the event die have a picture of a ship on them. The other three sides have a symbol of a city gate, allowing players who have sufficiently built up a city to obtain progress cards (see below).
 
 The barbarians are represented by a ship positioned on a track representing the distance between the ship and Catan (i.e. the board). Each time the event die shows a black ship, the barbarian ship takes one step closer to Catan. When the barbarians arrive at Catan, a special phase is immediately performed before all other actions (including collecting resources). In this special phase, the barbarians' attack strength, corresponding to the combined number of cities and metropolises held by all players, is compared to Catan's defense strength, corresponding to the combined levels (i.e. 1 point for each basic, 2 for each strong, and 3 for each mighty) of all activated knights in play.
 

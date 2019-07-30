@@ -5,13 +5,13 @@ The Arctic fox preys on many small creatures such as lemmings, voles, ringed sea
 
 Behavior
 
-Alopex_lagopus_IMG_9019.JPG Arctic foxes must endure a temperature difference of up to 90-100 °C between the external environment and their internal core temperature.[9] To prevent heat loss, the Arctic fox curls up tightly tucking its legs and head under its body and behind its furry tail. This position gives the fox the smallest surface area to volume ratio and protects the least insulated areas. Arctic foxes also stay warm by getting out of the wind and residing in their dens.[10][11] Although the Arctic foxes are active year-round and do not hibernate, they attempt to preserve fat by reducing their locomotor activity.[12][13] They build up their fat reserves in the autumn, sometimes increasing their body weight by more than 50%. This provides greater insulation during the winter and a source of energy when food is scarce .[14]
+Arctic foxes must endure a temperature difference of up to 90-100 °C between the external environment and their internal core temperature.[9] To prevent heat loss, the Arctic fox curls up tightly tucking its legs and head under its body and behind its furry tail. This position gives the fox the smallest surface area to volume ratio and protects the least insulated areas. Arctic foxes also stay warm by getting out of the wind and residing in their dens.[10][11] Although the Arctic foxes are active year-round and do not hibernate, they attempt to preserve fat by reducing their locomotor activity.[12][13] They build up their fat reserves in the autumn, sometimes increasing their body weight by more than 50%. This provides greater insulation during the winter and a source of energy when food is scarce .[14]
 
 Reproduction
 
 In the spring, the Arctic fox's attention switches to reproduction and a home for their potential offspring. They live in large dens in frost-free, slightly raised ground. These are complex systems of tunnels covering as much as and are often in eskers, long ridges of sedimentary material deposited in formerly glaciated regions. These dens may be in existence for many decades and are used by many generations of foxes.[15]
 
-Fox_pups_animals.jpg Arctic foxes tend to select dens that are easily accessible with many entrances, and that are clear from snow and ice making it easier to burrow in. The Arctic fox builds and chooses dens that face southward towards the sun, which makes the den warmer. Arctic foxes prefer large, maze-like dens for predator evasion and a quick escape especially when red foxes are in the area. Natal dens are typically found in rugged terrain, which may provide more protection for the pups. But, the parents will also relocate litters to nearby dens to avoid predators. When red foxes are not in the region, Arctic foxes will use dens that the red fox previously occupied. Shelter quality is more important to the Arctic fox than the proximity of spring prey to a den.[16]
+Arctic foxes tend to select dens that are easily accessible with many entrances, and that are clear from snow and ice making it easier to burrow in. The Arctic fox builds and chooses dens that face southward towards the sun, which makes the den warmer. Arctic foxes prefer large, maze-like dens for predator evasion and a quick escape especially when red foxes are in the area. Natal dens are typically found in rugged terrain, which may provide more protection for the pups. But, the parents will also relocate litters to nearby dens to avoid predators. When red foxes are not in the region, Arctic foxes will use dens that the red fox previously occupied. Shelter quality is more important to the Arctic fox than the proximity of spring prey to a den.[16]
 
 The main prey in the tundra is lemmings, which is why the white fox is often called the “lemming fox.” The white fox's reproduction rates reflect the lemming population density, which cyclically fluctuates every 3–5 years.[17][18] When lemmings are abundant, the white fox can give birth to 18 pups, but they often do not reproduce when food is scarce. The “coastal fox” or blue fox lives in an environment where food availability is relatively consistent, and they will have up to 5 pups every year.[19]
 
@@ -21,7 +21,7 @@ Arctic foxes are primarily monogamous and both parents will care for the offspri
 
 Diet
 
-Fox_with_fish.jpg Arctic foxes generally eat any small animal they can find, including lemmings, voles, other rodents, hares, birds, eggs, fish, and carrion. They scavenge on carcasses left by larger predators such as wolves and polar bears, and in times of scarcity also eat their feces. In areas where they are present, lemmings are their most common prey,[23] and a family of foxes can eat dozens of lemmings each day. In some locations in northern Canada, a high seasonal abundance of migrating birds that breed in the area may provide an important food source. On the coast of Iceland and other islands, their diet consists predominantly of birds. During April and May, the Arctic fox also preys on ringed seal pups when the young animals are confined to a snow den and are relatively helpless. They also consume berries and seaweed, so they may be considered omnivores.[24] This fox is a significant bird-egg predator, consuming eggs of all except the largest tundra bird species.[25] When food is overabundant, the Arctic fox buries (caches) the surplus as a reserve.
+Arctic foxes generally eat any small animal they can find, including lemmings, voles, other rodents, hares, birds, eggs, fish, and carrion. They scavenge on carcasses left by larger predators such as wolves and polar bears, and in times of scarcity also eat their feces. In areas where they are present, lemmings are their most common prey,[23] and a family of foxes can eat dozens of lemmings each day. In some locations in northern Canada, a high seasonal abundance of migrating birds that breed in the area may provide an important food source. On the coast of Iceland and other islands, their diet consists predominantly of birds. During April and May, the Arctic fox also preys on ringed seal pups when the young animals are confined to a snow den and are relatively helpless. They also consume berries and seaweed, so they may be considered omnivores.[24] This fox is a significant bird-egg predator, consuming eggs of all except the largest tundra bird species.[25] When food is overabundant, the Arctic fox buries (caches) the surplus as a reserve.
 
 Arctic foxes survive harsh winters and food scarcity by either hoarding food or storing body fat. Fat is deposited subcutaneously and viscerally in Arctic foxes. At the beginning of winter, the foxes have approximately 14740 kJ of energy storage from fat alone. Using the lowest BMR value measured in Arctic foxes, an average sized fox (3.5 kg) would need 471 kJ/day during the winter to survive. Arctic foxes can acquire goose eggs (from greater snow geese in Canada) at a rate of 2.7–7.3 eggs/h, and they store 80–97% of them. Scats provide evidence that they eat the eggs during the winter after caching. Isotope analysis shows that eggs can still be eaten after a year, and the metabolizable energy of a stored goose egg only decreases by 11% after 60 days (a fresh egg has about 816 kJ). Researchers have also noted that some eggs stored in the summer are accessed later the following spring prior to reproduction.[26]
 
@@ -68,7 +68,7 @@ The origins of the Arctic fox have been described by the “out of Tibet” hypo
 
 Subspecies
 
-Blue_fox_on_St_Paul_Island_by_Ryan_Mong_USFWS.jpg Besides the nominate subspecies, the common Arctic fox, _V. l. lagopus_, four other subspecies of this fox have been described:
+Besides the nominate subspecies, the common Arctic fox, _V. l. lagopus_, four other subspecies of this fox have been described:
 
 -   Bering Islands Arctic fox, _V. l. beringensis_
 -   Greenland Arctic fox, _V. l. foragoapusis_
@@ -77,8 +77,6 @@ Blue_fox_on_St_Paul_Island_by_Ryan_Mong_USFWS.jpg Besides the nominate subspecie
 
 
 Distribution and habitat
-
-ArcticFoxesLyd.jpg
 
 The Arctic fox has a circumpolar distribution and occurs in Arctic tundra habitats in northern Europe, northern Asia, and North America. Its range includes Greenland, Iceland, Fennoscandia, Svalbard, Jan Mayen (where it was hunted to extinction)[56] and other islands in the Barents Sea, northern Russia, islands in the Bering Sea, Alaska, and Canada as far south as Hudson Bay. In the late 19th century, it was introduced into the Aleutian Islands southwest of Alaska. However, the population on the Aleutian Islands is currently being eradicated in conservation efforts to preserve the local bird population.[57] It mostly inhabits tundra and pack ice, but is also present in Canadian boreal forests (northeastern Alberta, northern Saskatchewan, northern Manitoba, Northern Ontario, Northern Quebec, and Newfoundland and Labrador)[58] and the Kenai Peninsula in Alaska. They are found at elevations up to above sea level and have been seen on sea ice close to the North Pole.[59]
 
@@ -99,13 +97,11 @@ In July 2019, the Norwegian Polar Institute reported the story of a yearling fem
 
 Conservation status
 
-Lagopusskull.jpg, 1890]]
+, 1890]]
 
 The conservation status of the species is in general good and several hundred thousand individuals are estimated to remain in total. The IUCN has assessed it as being of "least concern".[67] However, the Scandinavian mainland population is acutely endangered, despite being legally protected from hunting and persecution for several decades. The estimate of the adult population in all of Norway, Sweden, and Finland is fewer than 200 individuals.[68] As a result, the populations of arctic fox have been carefully studied and inventoried in places such as the Vindelfjällens Nature Reserve (Sweden), which has the arctic fox as its symbol.
 
 The abundance of the Arctic fox tends to fluctuate in a cycle along with the population of lemmings and voles (a 3- to 4-year cycle).[69] The populations are especially vulnerable during the years when the prey population crashes, and uncontrolled trapping has almost eradicated two subpopulations.[70]
-
-Alopex_lagopus_05_MWNH_289.JPG
 
 The pelts of Arctic foxes with a slate-blue coloration were especially valuable. They were transported to various previously fox-free Aleutian Islands during the 1920s. The program was successful in terms of increasing the population of blue foxes, but their predation of Aleutian Canada geese conflicted with the goal of preserving that species.[71]
 

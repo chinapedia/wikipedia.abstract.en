@@ -1,4 +1,4 @@
-Armborst,_1500-tal_-_Livrustkammaren_-_106745.tif Crossbow_TenPoint_Stealth_SS.png A CROSSBOW is a type of elastic ranged weapon in similar principle to a bow, consisting of a bow-like assembly called a _prod_, mounted horizontally on a main frame called a _tiller_, which is handheld in a similar fashion to the stock of a long gun. It shoots arrow-like projectiles called bolts or quarrels. The medieval European crossbow was called by many other names including crossbow itself, most of which were derived from the word _ballista_, an ancient Greek torsion siege engine similar in appearance.[1]
+A CROSSBOW is a type of elastic ranged weapon in similar principle to a bow, consisting of a bow-like assembly called a _prod_, mounted horizontally on a main frame called a _tiller_, which is handheld in a similar fashion to the stock of a long gun. It shoots arrow-like projectiles called bolts or quarrels. The medieval European crossbow was called by many other names including crossbow itself, most of which were derived from the word _ballista_, an ancient Greek torsion siege engine similar in appearance.[1]
 
 Although having the same launch principle, crossbows differ from bows in that a bow's draw must be maintained manually by the archer pulling the bowstring with fingers, arm and back muscles and holding that same form in order to aim (which demands significant physical strength and stamina), while a crossbow uses a locking mechanism to maintain the draw, limiting the shooter's exertion to only pulling the string into lock and then releasing the shot via depressing a lever/trigger. This not only enables a crossbowman to handle stronger draw weight, but also hold for longer with significant less physical strain, thus capable of better precision.
 
@@ -22,7 +22,7 @@ The _lock_ refers to the release mechanism, including the string, sears, trigger
 
 Construction
 
-Han_crossbow_trigger_mechanism.jpg Noix_corde_carreau_arbalette.svg Nuss_Armbrust.jpg A crossbow is essentially a bow mounted on an elongated frame (called a TILLER or STOCK) with a built-in mechanism that holds the drawn bow string, as well as a trigger mechanism that allows the string to be released.
+A crossbow is essentially a bow mounted on an elongated frame (called a TILLER or STOCK) with a built-in mechanism that holds the drawn bow string, as well as a trigger mechanism that allows the string to be released.
 
 Chinese vertical trigger lock
 
@@ -54,8 +54,6 @@ File:Han winch.png|Han dynasty crossbowman using what may be a winch drawn cross
 
 Variants
 
-Recurve_crossbow_with_bolts.jpg Horton_Hunter_Supreme_by_IvE.jpg HJRK_A_108_-_Wallarmbrust_c._1460-70.jpg
-
 The smallest crossbows are pistol crossbows. Others are simple long stocks with the crossbow mounted on them. These could be shot from under the arm. The next step in development was stocks of the shape that would later be used for firearms, which allowed better aiming. The arbalest was a heavy crossbow that required special systems for pulling the sinew via windlasses. For siege warfare, the size of crossbows was further increased to hurl large projectiles, such as rocks, at fortifications. The required crossbows needed a massive base frame and powerful windlass devices.[6]
 
 File:Zhugenu-springautumn.jpg%7CDouble shot repeating crossbow, also known as the Chu state repeating crossbow (_chuguo nu_) File:Repeating crossbow WBZ.jpg|Ming dynasty repeating crossbow trigger mechanism File:Two-bow crossbow wjzy.jpg|Mounted double bow crossbow File:Connected double bed crossbow wbz.jpg|Two connected double bow crossbows File:Chuangzi Nu1.jpg|Mounted triple bow crossbow File:Liannu.jpg%7CMulti-bolt crossbow without a visible nut or cocking aid File:Gastraphetes - catapult ancestor - antica catapulta.jpg|Cocking of a Greek _gastraphetes_ File:Roman crossbow. Pic 02.jpg|Gallo-Roman crossbow (arcuballista?) File:B Osma 85v.jpg|Earliest European depiction of cavalry using crossbows, from the Catalan manuscript _Four Horsemen of the Apocalypse_, 1086. File:Martyrium of Saint Sebastian. Pic 03.jpg|Late medieval crossbowman from ca. 1480 File:FrenchCrossbowMan.JPG%7C15th-century French soldier carrying an arbalest and a pavise File:Ballista-quadrirotis.jpeg%7CEarly modern four-wheeled ballista drawn by armored horses (1552) File:FrenchMountedCrossbowman.JPG%7C16th-century French mounted crossbowman (_cranequinier_). His crossbow is drawn with a rack-and-pinion _cranequin_, so it can be used while riding. File:Crossbow pistol IMG 3841.jpg|Pistol crossbow for home recreational shooting. Made by Frédéric Siber in Morges, early 19th century. On display at Morges military museum. File:French cross-bow grenade thrower Arbalète sauterelle type A d'Imphy circa 1915.jpg|French cross-bow grenade thrower Arbalète sauterelle type A d'Imphy circa 1915
@@ -68,7 +66,7 @@ Even relatively small differences in arrow weight can have a considerable impact
 
 Accessories
 
-Crossbow_telescopic_sight_reticle.JPG allows the shooter to adjust for different ranges]]
+allows the shooter to adjust for different ranges]]
 
 The ancient Chinese crossbow often included a metal (i.e. bronze or steel) grid serving as iron sights. Modern crossbow sights often use similar technology to modern firearm sights, such as red dot sights and telescopic sights. Many crossbow scopes feature multiple crosshairs to compensate for the significant effects of gravity over different ranges. In most cases, a newly bought crossbow will need to be sighted for accurate shooting.[8]
 
@@ -79,7 +77,7 @@ History
 
 East Asia
 
-Warring_States_or_Western_Han_crossbow.jpg (475-221 BC)]] Earthenware_architecture_models,_Eastern_Han_Dynasty,_5.JPG (25–220 AD) of China, from the Metropolitan Museum of Art.]] In terms of archaeological evidence, crossbow locks made of cast bronze have been found in China dating to around 650 BC. They have also been found in Tombs 3 and 12 at Qufu, Shandong, previously the capital of Lu, and date to 6th century BC.[10][11] Bronze crossbow bolts dating from the mid-5th century BC have been found at a Chu burial site in Yutaishan, Jiangling County, Hubei Province.[12] Other early finds of crossbows were discovered in Tomb 138 at Saobatang, Hunan Province, and date to mid-4th century BC.[13][14] It's possible that these early crossbows used spherical pellets for ammunition. A Western-Han mathematician and music theorist, Jing Fang (78-37 BC), compared the moon to the shape of a round crossbow bullet.[15] _Zhuangzi_ also mentions crossbow bullets.
+(475-221 BC)]] (25–220 AD) of China, from the Metropolitan Museum of Art.]] In terms of archaeological evidence, crossbow locks made of cast bronze have been found in China dating to around 650 BC. They have also been found in Tombs 3 and 12 at Qufu, Shandong, previously the capital of Lu, and date to 6th century BC.[10][11] Bronze crossbow bolts dating from the mid-5th century BC have been found at a Chu burial site in Yutaishan, Jiangling County, Hubei Province.[12] Other early finds of crossbows were discovered in Tomb 138 at Saobatang, Hunan Province, and date to mid-4th century BC.[13][14] It's possible that these early crossbows used spherical pellets for ammunition. A Western-Han mathematician and music theorist, Jing Fang (78-37 BC), compared the moon to the shape of a round crossbow bullet.[15] _Zhuangzi_ also mentions crossbow bullets.
 
 The earliest textual evidence of the _handheld_ crossbow used in battle dates to the 4th century BC.[16] Handheld crossbows with complex bronze trigger mechanisms have also been found with the Terracotta Army in the tomb of Qin Shihuang (r. 221–210 BC) that are similar to specimens from the subsequent Han Dynasty (202 BC–220 AD), while crossbowmen described in the Qin and Han Dynasty learned drill formations, some were even mounted as charioteers and cavalry units, and Han Dynasty writers attributed the success of numerous battles against the Xiongnu and Western Regions states to massed crossbow volleys.[17][18] The bronze triggers were designed in such a way that they were able to store a large amount of energy within the bow when drawn, but was easily shot with little resistance and recoil when the trigger were pulled. The trigger nut also have a long vertical spine that can be used like a primitive rear sight for elevation adjustment, which allowed precision shooting over longer distances. The metal portions of the crossbow were also mass-produced with precision, with the bronze mechanisms being interchangeable and can be installed by simply dropped into a slot on the tiller frame. Finally, the Qin and Han Dynasties also developed crossbow shooting lines, with alternating rows of crossbowmen shooting and reloading in a manner similar to a musket firing line.
 
@@ -99,7 +97,7 @@ Other sorts of crossbows also existed, such as the repeating crossbow, multi-sho
 
 Southeast Asia
 
-Ref-chamballista.jpg kingdom.]]
+kingdom.]]
 
 In Vietnamese historical legend, general Thục Phán, who ruled over the ancient kingdom of Âu Lạc from 257 to 207 BC, is said to have owed his power to a magic crossbow, capable of shooting thousands of bolts at once.
 
@@ -109,15 +107,13 @@ Crossbow technology for multi-proded crossbows was transferred from the Chinese 
 
 Ancient Greece
 
-Gastraphetes_Rekonstruktion_Saalburg.jpg'']]
+'']]
 
 The earliest crossbow-like weapons in Europe probably emerged around the late 5th century BC when the _gastraphetes_, an ancient Greek crossbow, appeared. The device was described by the Greek author Heron of Alexandria in his _Belopoeica_ ("On Catapult-making"), which draws on an earlier account of his compatriot engineer Ctesibius (fl. 285–222 BC). According to Heron, the gastraphetes was the forerunner of the later catapult, which places its invention some unknown time prior to 399 BC.[28] The gastraphetes was a crossbow mounted on a stock divided into a lower and upper section. The lower was a case fixed to the bow while the upper was a slider which had the same dimensions as the case.[29] Meaning "belly-bow",[30] it was called as such because the concave withdrawal rest at one end of the stock was placed against the stomach of the operator, which he could press to withdraw the slider before attaching a string to the trigger and loading the bolt; this could thus store more energy than regular Greek bows.[31] It was used in the Siege of Motya in 397 BC. This was a key Carthaginian stronghold in Sicily, as described in the 1st century AD by Heron of Alexandria in his book _Belopoeica_.[32]
 
 Other arrow shooting machines such as the larger ballista and smaller _Scorpio_ also existed starting from around 338 BC, but these are torsion catapults and not considered crossbows.[33][34][35] Arrow-shooting machines (_katapeltai_) are briefly mentioned by Aeneas Tacticus in his treatise on siegecraft written around 350 BC.[36] An Athenian inventory from 330–329 BC includes catapults bolts with heads and flights.[37] Arrow-shooting machines in action are reported from Philip II's siege of Perinthos in Thrace in 340 BC.[38] At the same time, Greek fortifications began to feature high towers with shuttered windows in the top, presumably to house anti-personnel arrow shooters, as in Aigosthena.[39]
 
 Ancient Rome
-
-Roman_crossbow.jpg
 
 The late 4th century author Vegetius provides the only contemporary account of ancient Roman crossbows. In his _De Re Militaris_, he describes _arcubalistarii_ (crossbowmen) working together with archers and artillerymen. However it is disputed if arcuballistas were even crossbows or just more torsion powered weapons. The idea that the arcuballista was a crossbow is based on the fact that Vegetius refers to it and the _manuballista_, which was torsion powered, separately. Therefore if the arcuballista was not like the manuballista, it may have been a crossbow. Some suggest it was the other way around and manuballistas were crossbows.[40] The etymology is not clear and their definitions obscure. According to Vegetius, these were well known devices, and as such didn't make the effort to describe them in depth.
 
@@ -127,7 +123,7 @@ The only pictorial evidence of Roman arcuballistas comes from sculptural reliefs
 
 Medieval Europe
 
-Balestriere1.jpg drawing his bow behind his pavise. A hook on the end of a strap on his belt engages the bowstring. Holding the crossbow down by putting his foot through the stirrup, he draws the bow by straightening his legs]]DaVinci_Crossbow.JPG, c. 1500]]References to the crossbow are basically nonexistent in Europe from the 5th century until the 10th century. There is however a depiction of a crossbow as a hunting weapon on four Pictish stones from early medieval Scotland (6th to 9th centuries): St. Vigeans no. 1, Glenferness, Shandwick, and Meigle.[41]
+drawing his bow behind his pavise. A hook on the end of a strap on his belt engages the bowstring. Holding the crossbow down by putting his foot through the stirrup, he draws the bow by straightening his legs]], c. 1500]]References to the crossbow are basically nonexistent in Europe from the 5th century until the 10th century. There is however a depiction of a crossbow as a hunting weapon on four Pictish stones from early medieval Scotland (6th to 9th centuries): St. Vigeans no. 1, Glenferness, Shandwick, and Meigle.[41]
 
 The crossbow reappeared again in 947 as a French weapon during the siege of Senlis and again in 984 at the siege of Verdun. They were used at the battle of Hastings in 1066 and by the 12th century it had become a common battlefield weapon.[42] The earliest extant European crossbow remains to date were found at Lake Paladru and has been dated to the 11th century.
 
@@ -154,13 +150,13 @@ Modern use
 
 Hunting, leisure and science
 
-Crossbow_Hunting.jpg Fish0293_-_Flickr_-_NOAA_Photo_Library.jpg ship (2010).|alt=]] Blubber_biopsy_sample.jpg biopsy sample.]]
+ship (2010).|alt=]] biopsy sample.]]
 
 Crossbows are used for shooting sports and bowhunting in modern archery and for blubber biopsy samples in scientific research. In some countries such as Canada or the United Kingdom, they may be less heavily regulated than firearms, and thus more popular for hunting; some jurisdictions have bow and/or crossbow only seasons.[53]
 
 Modern military and paramilitary use
 
-In modern times, crossbows are no longer used for assassinations, but there are still some applications. For example, in the Americas, the Peruvian army (Ejército) equips some soldiers with crossbows and rope, to establish a zip-line in difficult terrain.[54] In Brazil the CIGS (Jungle Warfare Training Center) also trains soldiers in the use of crossbows.[55][56] In the United States of America, SAA International Ltd manufacture a 150 ft·lb crossbow-launched version of the U.S. Army type classified Launched Grapnel Hook (LGH), among other mine countermeasure solutions designed for the middle-eastern theatre. It has been successfully evaluated in Cambodia and Bosnia.[57] It is used to probe for and detonate tripwire initiated mines and booby traps at up to 50 meters. The concept is similar to the LGH device originally only fired from a rifle, as a plastic retrieval line is attached.[58] Reusable up to 20 times, the line can be reeled back in without exposing oneself. The device is of particular use in tactical situations where noise discipline is important.[59] PistolCrossbow122.jpg
+In modern times, crossbows are no longer used for assassinations, but there are still some applications. For example, in the Americas, the Peruvian army (Ejército) equips some soldiers with crossbows and rope, to establish a zip-line in difficult terrain.[54] In Brazil the CIGS (Jungle Warfare Training Center) also trains soldiers in the use of crossbows.[55][56] In the United States of America, SAA International Ltd manufacture a 150 ft·lb crossbow-launched version of the U.S. Army type classified Launched Grapnel Hook (LGH), among other mine countermeasure solutions designed for the middle-eastern theatre. It has been successfully evaluated in Cambodia and Bosnia.[57] It is used to probe for and detonate tripwire initiated mines and booby traps at up to 50 meters. The concept is similar to the LGH device originally only fired from a rifle, as a plastic retrieval line is attached.[58] Reusable up to 20 times, the line can be reeled back in without exposing oneself. The device is of particular use in tactical situations where noise discipline is important.[59]
 
 In Europe, British-based Barnett International supplied crossbows to Serbian forces which according to _The Guardian_ were later used "in ambushes and as a counter-sniper weapon", against the Kosovo Liberation Army during the Kosovo War in the areas of Pec and Djakovica, south west of Kosovo.[60] Whitehall launched an investigation, though the department of trade and industry established that not being "on the military list" crossbows were not covered by such export regulations. Paul Beaver of Jane's defence publications commented that, "They are not only a silent killer, they also have a psychological effect". On 15 February 2008, Serbian Minister of Defence Dragan Sutanovac was pictured testing a Barnett crossbow during a public exercise of the Serbian army's Special Forces in Nis, 200 km south of capital Belgrade.[61] Special forces in both Greece and Turkey also continue to employ the crossbow.[62][63] Spain's Green Berets still use the crossbow as well.[64]
 
@@ -178,7 +174,7 @@ A direct comparison between a fast hand-drawn replica crossbow and a longbow sho
 
 Legal issues
 
-Armbrustschiessen.jpg Can. 29 of the Second Lateran Council under Pope Innocent II in 1139 banned the use of crossbows, as well as slings and bows, against Christians.[71]
+Can. 29 of the Second Lateran Council under Pope Innocent II in 1139 banned the use of crossbows, as well as slings and bows, against Christians.[71]
 
 Today, the crossbow often has a complicated legal status due to the possibility of lethal use and its similarities to both firearms and archery weapons. While some jurisdictions regard crossbows the same as firearms, many others do not require any sort of license to own a crossbow. The legality of using a crossbow for hunting varies widely around the world, and even within different jurisdictions of some federal countries.
 

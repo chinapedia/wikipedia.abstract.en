@@ -2,7 +2,7 @@ A BATTLE is a combat in warfare between two or more armed forces. A war usually 
 
 Wars and military campaigns are guided by strategy, whereas battles take place on a level of planning and execution known as operational mobility.[2] German strategist Carl von Clausewitz stated that "the employment of battles ... to achieve the object of war"[3] was the essence of strategy.
 
-Battle_of_Waterloo_1815.PNG'' by William Sadler II]]
+'' by William Sadler II]]
 
 
 Etymology
@@ -47,11 +47,11 @@ Generals and commanders also play a decisive role during combat. Hannibal, Juliu
 
 Types
 
-Marten's_Poltava.jpg between Russia and Sweden, by Denis Martens the Younger ]]
+between Russia and Sweden, by Denis Martens the Younger ]]
 
 Battles can be fought on land, at sea and, in the modern age, in the air. Naval battles have occurred since before the 5th century BC. Air battles have been far less common, due to their late conception, the most prominent being the Battle of Britain in 1940. However, since the Second World War land or sea battles have come to rely on air support. Indeed, during the Battle of Midway, five aircraft carriers were sunk without either fleet coming into direct contact.
 
-Battle_Scene.jpg There are numerous types of battles:
+There are numerous types of battles:
 
 -   A _battle of encounter_ (or _encounter battle_) is a meeting engagement where the opposing sides collide in the field without either having prepared their attack or defence.
 -   A _battle of attrition_ aims to inflict losses on an enemy that are less sustainable compared to one's own losses. These need not be greater numerical losses – if one side is much more numerous than the other then pursuing a strategy based on attrition can work even if casualties on both sides are about equal. Many battles of the Western Front in the First World War were intentionally (Verdun) or unintentionally (Somme) attrition battles.
@@ -80,7 +80,7 @@ Maneuver warfare was employed to a masterful degree by Napoleon Bonaparte, who i
 
 Naval
 
-De_slag_bij_Terheide_-_The_Battle_of_Schevening_-_August_10_1653_(Willem_van_de_Velde_I,_1657).jpg'' of 1653: episode from the First Anglo-Dutch War.]] One significant difference of modern naval battles as opposed to earlier forms of combat is the use of marines, which introduced amphibious warfare. Today, a marine is actually an infantry regiment that sometimes fights solely on land and is no longer tied to the navy. A good example of an old naval battle is the Battle of Salamis.
+'' of 1653: episode from the First Anglo-Dutch War.]] One significant difference of modern naval battles as opposed to earlier forms of combat is the use of marines, which introduced amphibious warfare. Today, a marine is actually an infantry regiment that sometimes fights solely on land and is no longer tied to the navy. A good example of an old naval battle is the Battle of Salamis.
 
 Most ancient naval battles were fought by fast ships using the battering ram to sink opposing fleets or steer close enough for boarding in hand-to-hand combat. Troops were often used to storm enemy ships as used by Romans and pirates. This tactic was usually used by civilizations that could not beat the enemy with ranged weaponry.
 
@@ -101,7 +101,7 @@ Today, direct engagements between aircraft are rare – the most modern fighter-
 
 Naming
 
-Battle_of_Gibraltar_1607.jpg'' of 1607 by Hendrick Cornelisz Vroom.]]
+'' of 1607 by Hendrick Cornelisz Vroom.]]
 
 Battles are usually named after some feature of the battlefield geography, such as the name of a town, forest or river, commonly prefixed "Battle of...". Occasionally battles are named after the date on which they took place, such as The Glorious First of June.
 

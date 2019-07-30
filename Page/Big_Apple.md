@@ -1,4 +1,4 @@
-Big-apple-corner.jpg and Broadway, in Manhattan's Theater District]]
+and Broadway, in Manhattan's Theater District]]
 
 "BIG APPLE" is a nickname for New York City. It was first popularized in the 1920s by John J. Fitz Gerald, a sports writer for the _New York Morning Telegraph_. Its popularity since the 1970s is due in part to a promotional campaign by the New York tourist authorities.
 
@@ -27,7 +27,7 @@ Tucker had also earlier used "big apple" as a reference to Los Angeles. It is po
 
 Popularity
 
-Citi_Field_Home_Run_Apple_2012.jpg Home Run Apple located in Citi Field.]] By the late 1920s, New York writers other than Fitz Gerald were starting to use "Big Apple" and were using it in contexts other than horse-racing.[12] "The Big Apple" was a popular song[13] and dance[14][15] in the 1930s. Walter Winchell and other writers continued to use the term in the 1940s and 1950s,[16] but by the 1960s it had generally come to be known as an old name for New York.[17]
+Home Run Apple located in Citi Field.]] By the late 1920s, New York writers other than Fitz Gerald were starting to use "Big Apple" and were using it in contexts other than horse-racing.[12] "The Big Apple" was a popular song[13] and dance[14][15] in the 1930s. Walter Winchell and other writers continued to use the term in the 1940s and 1950s,[16] but by the 1960s it had generally come to be known as an old name for New York.[17]
 
 In the early 1970s, however, the New York Convention and Visitors Bureau (now NYC & Company, New York City's official marketing and tourism organization) began to promote the city's "Big Apple" nickname[18] under the leadership of its president, Charles Gillett.[19] It has remained popular since then.[20]
 

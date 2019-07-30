@@ -33,7 +33,7 @@ Composition
 
 Regional Council of Guiana
 
-Salle_de_délibération_du_conseil_régional_(Cayenne).jpg The Regional Council of French Guiana is the elected assembly or regional council and is composed of 31 members who are elected by popular vote to serve six-year terms.
+The Regional Council of French Guiana is the elected assembly or regional council and is composed of 31 members who are elected by popular vote to serve six-year terms.
 
 Composition
 

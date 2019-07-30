@@ -29,8 +29,6 @@ On August 20, 2015, amid the Google Summer of Code, it was announced that GNU Gu
 
 Architecture
 
-OS-structure2.svg
-
 Unlike most Unix-like kernels, the Hurd uses a server–client architecture, built on a microkernel that is responsible for providing the most basic kernel services – coordinating access to the hardware: the CPU (through process management and scheduling), RAM (via memory management), and other various input/output devices (via I/O scheduling) for sound, graphics, mass storage, etc. In theory the microkernel design would allow for all device drivers to be built as servers working in user space, but today most drivers of this kind are still contained in the GNU Mach kernel space.[21]
 
 According to Hurd developers, the main advantage of microkernel-based design is the ability to extend the system: developing a new module would not require in depth knowledge of the rest of the kernel, and a bug in one module would not crash the entire system. Hurd provides a concept of _translators_, a framework of modules used to extend a file system functionality.[22]
@@ -116,7 +114,7 @@ Computer bought the farm
 
 GNU distributions running Hurd
 
-Gnu_hurd_debian_1.png with Xfce4 and web browser Midori]]
+with Xfce4 and web browser Midori]]
 
 Hurd-based GNU distributions include:
 

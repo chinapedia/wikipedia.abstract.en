@@ -19,7 +19,7 @@ In the 19th century, pioneers heading West needed a hardy, willing horse. On the
 
 Development as a distinct breed
 
-Petermccuewithcaudell.jpg Early foundation sires of Quarter horse type included Steel Dust, foaled 1843; Shiloh (or Old Shiloh), foaled 1844; Old Cold Deck (1862); Lock's Rondo, one of many "Rondo" horses, foaled in 1880; Old Billy—again, one of many "Billy" horses—foaled circa 1880; Traveler, a stallion of unknown breeding, known to have been in Texas by 1889;[13] and Peter McCue, foaled 1895, registered as a Thoroughbred but of disputed pedigree.[14][15][16]
+Early foundation sires of Quarter horse type included Steel Dust, foaled 1843; Shiloh (or Old Shiloh), foaled 1844; Old Cold Deck (1862); Lock's Rondo, one of many "Rondo" horses, foaled in 1880; Old Billy—again, one of many "Billy" horses—foaled circa 1880; Traveler, a stallion of unknown breeding, known to have been in Texas by 1889;[13] and Peter McCue, foaled 1895, registered as a Thoroughbred but of disputed pedigree.[14][15][16]
 
 The main duty of the ranch horse in the American West was working cattle. Even after the invention of the automobile, horses were still irreplaceable for handling livestock on the range. Thus, major Texas cattle ranches, such as the King Ranch, the 6666 (Four Sixes) Ranch, and the Waggoner Ranch played a significant role in the development of the modern Quarter Horse. The skills needed by cowboys and their horses became the foundation of the rodeo, a contest which began with informal competition between cowboys and expanded to become a major competitive event throughout the west. To this day, the Quarter Horse dominates the sport both in speed events and in competition that emphasizes the handling of live cattle.[17]
 
@@ -37,7 +37,7 @@ Since Quarter Horse/Thoroughbred crosses continue to enter the official registry
 
 American Quarter Horses today
 
-Barrel_racing.jpg The American Quarter Horse is best known today as a show horse, race horse, reining and cutting horse, rodeo competitor, ranch horse, and all-around family horse. Quarter Horses compete well in rodeo events such as barrel racing, calf roping and team roping;[28][29] and gymkhana or O-Mok-See.[30] Other stock horse events such as cutting and reining are open to all breeds but also dominated by American Quarter Horse. Large purses allow top competitors to earn over a million dollars in these events.
+The American Quarter Horse is best known today as a show horse, race horse, reining and cutting horse, rodeo competitor, ranch horse, and all-around family horse. Quarter Horses compete well in rodeo events such as barrel racing, calf roping and team roping;[28][29] and gymkhana or O-Mok-See.[30] Other stock horse events such as cutting and reining are open to all breeds but also dominated by American Quarter Horse. Large purses allow top competitors to earn over a million dollars in these events.
 
 The breed is not only well-suited for western riding and cattle work. Many race tracks offer Quarter Horses a wide assortment of pari-mutuel horse racing with purses in the millions.[31] Quarter Horses have also been trained to compete in dressage and can be good jumpers. They are also used for recreational trail riding and in mounted police units.[32]
 
@@ -46,7 +46,7 @@ The American Quarter Horse has also been exported worldwide. European nations su
 
 Breed characteristics
 
-Brauner.JPG The Quarter Horse has a small, short, refined head with a straight profile, and a strong, well-muscled body, featuring a broad chest and powerful, rounded hindquarters. They usually stand between high, although some Halter-type and English hunter-type horses may grow as tall as .
+The Quarter Horse has a small, short, refined head with a straight profile, and a strong, well-muscled body, featuring a broad chest and powerful, rounded hindquarters. They usually stand between high, although some Halter-type and English hunter-type horses may grow as tall as .
 
 There are two main body types: the stock type and the hunter or racing type. The stock horse type is shorter, more compact, stocky and well-muscled, yet agile. The racing and hunter type Quarter Horses are somewhat taller and smoother muscled than the stock type, more closely resembling the Thoroughbred.[35]
 
@@ -62,7 +62,7 @@ Horses shown in-hand in Halter competition are larger yet, with a very heavily m
 
 Racing and hunter type
 
-Flexion-at-poll.jpg Quarter Horse race horses are bred to sprint short distances ranging from 220 to 870 yards. Thus, they have long legs and are leaner than their stock type counterparts, but are still characterized by muscular hindquarters and powerful legs. Quarter Horses race primarily against other Quarter Horses, and their sprinting ability has earned them the nickname, "the world's fastest athlete."[38] The show hunter type is slimmer, even more closely resembling a Thoroughbred, usually reflecting a higher percentage of appendix breeding. They are shown in hunter/jumper classes at both breed shows and in open USEF-rated horse show competition.[39]
+Quarter Horse race horses are bred to sprint short distances ranging from 220 to 870 yards. Thus, they have long legs and are leaner than their stock type counterparts, but are still characterized by muscular hindquarters and powerful legs. Quarter Horses race primarily against other Quarter Horses, and their sprinting ability has earned them the nickname, "the world's fastest athlete."[38] The show hunter type is slimmer, even more closely resembling a Thoroughbred, usually reflecting a higher percentage of appendix breeding. They are shown in hunter/jumper classes at both breed shows and in open USEF-rated horse show competition.[39]
 
 
 Genetic diseases

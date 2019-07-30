@@ -1,4 +1,4 @@
-Hydroxyl3D.png hydroxy group, where R represents a hydrocarbon or other organic moiety, the red and grey spheres represent oxygen and hydrogen atoms respectively, and the rod-like connections between these, covalent chemical bonds.]]
+hydroxy group, where R represents a hydrocarbon or other organic moiety, the red and grey spheres represent oxygen and hydrogen atoms respectively, and the rod-like connections between these, covalent chemical bonds.]]
 
 A HYDROXY or HYDROXYL GROUP is the entity with the formula OH. It contains oxygen bonded to hydrogen. In organic chemistry, alcohol and carboxylic acids contain hydroxy groups. The anion [OH^(−)], called hydroxide, consists of a hydroxyl group.
 
@@ -7,7 +7,7 @@ According to IUPAC rules, the term hydroxyl refers to the radical OH only, while
 
 Properties
 
-Water, alcohols, carboxylic acids, and many other hydroxy-containing compounds can be deprotonated readily. This behavior is rationalized by the disparate electronegativities of oxygen and hydrogen. Hydroxy-containing compounds engage in hydrogen bonding, which causes them to stick together, leading to higher boiling and melting points than found for compounds that lack this functional group. Organic compounds, which are often poorly soluble in water, become water-soluble when they contain two or more hydroxy groups, as illustrated by sugars and amino acid. Sulfuric-acid-2D-dimensions.svg contains two hydroxyl groups.]]
+Water, alcohols, carboxylic acids, and many other hydroxy-containing compounds can be deprotonated readily. This behavior is rationalized by the disparate electronegativities of oxygen and hydrogen. Hydroxy-containing compounds engage in hydrogen bonding, which causes them to stick together, leading to higher boiling and melting points than found for compounds that lack this functional group. Organic compounds, which are often poorly soluble in water, become water-soluble when they contain two or more hydroxy groups, as illustrated by sugars and amino acid. contains two hydroxyl groups.]]
 
 
 Occurrence

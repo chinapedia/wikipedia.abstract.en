@@ -1,4 +1,4 @@
-Cumulative_Current_Account_Balance.png current account balance 1980–2008 based on International Monetary Fund data.]] Cumulative_Current_Account_Balance_per_capita.png data.]]
+current account balance 1980–2008 based on International Monetary Fund data.]] data.]]
 
 The BALANCE OF TRADE, COMMERCIAL BALANCE, or NET EXPORTS (sometimes symbolized as NX), is the difference between the monetary value of a nation's exports and imports over a certain time period.[1] Sometimes a distinction is made between a balance of trade for goods versus one for services. The balance of trade measures a flow of exports and imports over a given period of time. The notion of the balance of trade does not mean that exports and imports are "in balance" with each other.
 
@@ -7,7 +7,7 @@ If a country exports a greater value than it imports, it has a TRADE SURPLUS or 
 
 Explanation
 
-Balance_of_trade_in_goods_and_services_(Eurozone_countries).png US_Trade_Balance_from_1960.svg U.S._Trade_Balance_(1895–2015)_and_Trade_Policies.png U.S._trade_deficit_in_2017.jpg U.K._balance_of_trade_in_goods_(since_1870).png The balance of trade forms part of the current account, which includes other transactions such as income from the net international investment position as well as international aid. If the current account is in surplus, the country's net international asset position increases correspondingly. Equally, a deficit decreases the net international asset position.
+The balance of trade forms part of the current account, which includes other transactions such as income from the net international investment position as well as international aid. If the current account is in surplus, the country's net international asset position increases correspondingly. Equally, a deficit decreases the net international asset position.
 
 The trade balance is identical to the difference between a country's output and its domestic demand (the difference between what goods a country produces and how many goods it buys from abroad; this does not include money re-spent on foreign stock, nor does it factor in the concept of importing goods to produce for the domestic market).
 
@@ -32,7 +32,7 @@ Examples
 
 Historical Example
 
-Many countries in early modern Europe adopted a policy of mercantilism, which theorized that a trade surplus was beneficial to a country, among other elements such as colonialism and trade barriers with other countries and their colonies. (Bullionism was an early philosophy supporting mercantilism.) Merchandise_exports_(1870-1992).png Trade_policy,_exports_and_growth_in_selected_European_countries.png
+Many countries in early modern Europe adopted a policy of mercantilism, which theorized that a trade surplus was beneficial to a country, among other elements such as colonialism and trade barriers with other countries and their colonies. (Bullionism was an early philosophy supporting mercantilism.)
 
 The practices and abuses of mercantilism led the natural resources and cash crops of British North America to be exported in exchange for finished goods from Great Britain, a factor leading to the American Revolution. An early statement appeared in _Discourse of the Common Wealth of this Realm of England_, 1549: "We must always take heed that we buy no more from strangers than we sell them, for so should we impoverish ourselves and enrich them."[8] Similarly a systematic and coherent explanation of balance of trade was made public through Thomas Mun's 1630 "England's treasure by foreign trade, or, The balance of our foreign trade is the rule of our treasure"[9]
 

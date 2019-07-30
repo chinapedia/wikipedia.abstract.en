@@ -1,4 +1,4 @@
-Lemnia_torso04_pushkin.jpg, represented by a cast at the Pushkin Museum]] The AEGIS ( ;[1] _aigis_), as stated in the _Iliad_, is carried by Athena and Zeus, but its nature is uncertain. It had been interpreted as an animal skin or a shield, sometimes bearing the head of a Gorgon. There may be a connection with a deity named Aex _or Aix_, a daughter of Helios and a nurse of Zeus or alternatively a mistress of Zeus (Hyginus, _Astronomica_ 2. 13). The aegis of Athena is referred to in several places in the _Iliad_. "It produced a sound as from a myriad roaring dragons (_Iliad_, 4.17) and was borne by Athena in battle ... and among them went bright-eyed Athene, holding the precious aegis which is ageless and immortal: a hundred tassels of pure gold hang fluttering from it, tight-woven each of them, and each the worth of a hundred oxen."[2]
+, represented by a cast at the Pushkin Museum]] The AEGIS ( ;[1] _aigis_), as stated in the _Iliad_, is carried by Athena and Zeus, but its nature is uncertain. It had been interpreted as an animal skin or a shield, sometimes bearing the head of a Gorgon. There may be a connection with a deity named Aex _or Aix_, a daughter of Helios and a nurse of Zeus or alternatively a mistress of Zeus (Hyginus, _Astronomica_ 2. 13). The aegis of Athena is referred to in several places in the _Iliad_. "It produced a sound as from a myriad roaring dragons (_Iliad_, 4.17) and was borne by Athena in battle ... and among them went bright-eyed Athene, holding the precious aegis which is ageless and immortal: a hundred tassels of pure gold hang fluttering from it, tight-woven each of them, and each the worth of a hundred oxen."[2]
 
 The modern concept of doing something "under someone's _aegis_" means doing something under the protection of a powerful, knowledgeable, or benevolent source. The word _aegis_ is identified with protection by a strong force with its roots in Greek mythology and adopted by the Romans; there are parallels in Norse mythology and in Egyptian mythology as well, where the Greek word _aegis_ is applied by extension.
 
@@ -12,7 +12,7 @@ When the Olympian shakes the aegis, Mount Ida is wrapped in clouds, the thunder 
 
 In classical poetry and art
 
-Douriscup_83d40m_Athene_aegisWingedLionessOwl_pythonVomitsJason_fleeceInTree_Vatican.jpg]]
+]]
 
 Classical Greece interpreted the Homeric aegis usually as a cover of some kind borne by Athena. It was supposed by Euripides (_Ion_, 995) that the aegis borne by Athena was the skin of the slain Gorgon,[6] yet the usual understanding[7] is that the _Gorgoneion_ was _added_ to the aegis, a votive offering from a grateful Perseus.
 
@@ -22,7 +22,7 @@ John Tzetzes says[9] that aegis was the skin of the monstrous giant Pallas whom 
 
 In a late rendering by Gaius Julius Hyginus (_Poetical Astronomy_ ii. 13), Zeus is said to have used the skin of a pet goat owned by his nurse Amalthea (_aigis_ "goat-skin") which suckled him in Crete, as a shield when he went forth to do battle against the Titans.[10]
 
-Napoli_BW_2013-05-16_16-24-01.jpg of Alexander the Great wearing the aegis on the Alexander Mosaic, Pompeii (Naples National Archaeological Museum)]] The aegis appears in works of art sometimes as an animal's skin thrown over Athena's shoulders and arms, occasionally with a border of snakes, usually also bearing the Gorgon head, the _gorgoneion_. In some pottery it appears as a tasselled cover over Athena's dress. It is sometimes represented on the statues of Roman emperors, heroes, and warriors, and on cameos and vases.[11] A vestige of that appears in a portrait of Alexander the Great in a fresco from Pompeii dated to the first century BC, which shows the image of the head of a woman on his armor that resembles the Gorgon.
+of Alexander the Great wearing the aegis on the Alexander Mosaic, Pompeii (Naples National Archaeological Museum)]] The aegis appears in works of art sometimes as an animal's skin thrown over Athena's shoulders and arms, occasionally with a border of snakes, usually also bearing the Gorgon head, the _gorgoneion_. In some pottery it appears as a tasselled cover over Athena's dress. It is sometimes represented on the statues of Roman emperors, heroes, and warriors, and on cameos and vases.[11] A vestige of that appears in a portrait of Alexander the Great in a fresco from Pompeii dated to the first century BC, which shows the image of the head of a woman on his armor that resembles the Gorgon.
 
 
 Origins
@@ -31,7 +31,7 @@ Herodotus thought he had identified the source of the ægis in ancient Libya, wh
 
 Robert Graves in _The Greek Myths_ (1955; 1960) asserts that the ægis in its Libyan sense had been a shamanic pouch containing various ritual objects, bearing the device of a monstrous serpent-haired visage with tusk-like teeth and a protruding tongue which was meant to frighten away the uninitiated. In this context, Graves identifies the aegis as clearly belonging first to Athena.
 
-Cameo_August_BM_Gem3577.jpg is shown with an _aegis_ thrown over his shoulder as a divine attribute in the Blacas Cameo; the hole for the head appears at the point of his shoulder.[13]]]
+is shown with an _aegis_ thrown over his shoulder as a divine attribute in the Blacas Cameo; the hole for the head appears at the point of his shoulder.[13]]]
 
 One current interpretation is that the Hittite sacral hieratic hunting bag (_kursas_), a rough and shaggy goatskin that has been firmly established in literary texts and iconography by H.G. Güterbock,[14] was a source of the aegis.[15]
 

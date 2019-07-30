@@ -1,4 +1,4 @@
-Cis-2-butene.svg Trans-2-butene.svg _CIS_–_TRANS_ ISOMERISM, also known as GEOMETRIC ISOMERISM or CONFIGURATIONAL ISOMERISM, is a term used in organic chemistry. The prefixes "_cis_" and "_trans_" are from Latin: "this side of" and "the other side of", respectively. In the context of chemistry, _cis_ indicates that the functional groups are on the same side of the carbon chain[1] while _trans_ conveys that functional groups are on opposing sides of the carbon chain. Cis-trans isomers are stereoisomers, that is, pairs of molecules which have the same formula but whose functional groups are rotated into a different orientation in three-dimensional space. It is not to be confused with _E_–_Z_ isomerism, which is an _absolute_ stereochemical description. In general, stereoisomers contain double bonds that do not rotate, or they may contain ring structures, where the rotation of bonds is restricted or prevented.[2] _Cis_ and _trans_ isomers occur both in organic molecules and in inorganic coordination complexes. _Cis_ and _trans_ descriptors are not used for cases of conformational isomerism where the two geometric forms easily interconvert, such as most open-chain single-bonded structures; instead, the terms "_syn_" and "_anti_" are used.
+_CIS_–_TRANS_ ISOMERISM, also known as GEOMETRIC ISOMERISM or CONFIGURATIONAL ISOMERISM, is a term used in organic chemistry. The prefixes "_cis_" and "_trans_" are from Latin: "this side of" and "the other side of", respectively. In the context of chemistry, _cis_ indicates that the functional groups are on the same side of the carbon chain[1] while _trans_ conveys that functional groups are on opposing sides of the carbon chain. Cis-trans isomers are stereoisomers, that is, pairs of molecules which have the same formula but whose functional groups are rotated into a different orientation in three-dimensional space. It is not to be confused with _E_–_Z_ isomerism, which is an _absolute_ stereochemical description. In general, stereoisomers contain double bonds that do not rotate, or they may contain ring structures, where the rotation of bonds is restricted or prevented.[2] _Cis_ and _trans_ isomers occur both in organic molecules and in inorganic coordination complexes. _Cis_ and _trans_ descriptors are not used for cases of conformational isomerism where the two geometric forms easily interconvert, such as most open-chain single-bonded structures; instead, the terms "_syn_" and "_anti_" are used.
 
 The term "geometric isomerism" is considered by IUPAC to be an obsolete synonym of "_cis_–_trans_ isomerism".[3]
 
@@ -9,33 +9,33 @@ When the substituent groups are oriented in the same direction, the diastereomer
 
 Alicyclic compounds can also display _cis_–_trans_ isomerism. As an example of a geometric isomer due to a ring structure, consider 1,2-dichlorocyclohexane:
 
-  ------------------------------------------------------------------------------------------ --------------------------------------------------------------------------------------
-  Trans-1,2-dichlorocyclohexane-2D-skeletal.png Trans-1,2-dichlorocyclohexane-3D-balls.png   Cis-1,2-dichlorocyclohexane-2D-skeletal.png Cis-1,2-dichlorocyclohexane-3D-balls.png
-  _trans_-1,2-dichlorocyclohexane                                                            _cis_-1,2-dichlorocyclohexane
-  ------------------------------------------------------------------------------------------ --------------------------------------------------------------------------------------
+  --------------------------------- -------------------------------
+
+  _trans_-1,2-dichlorocyclohexane   _cis_-1,2-dichlorocyclohexane
+  --------------------------------- -------------------------------
 
 Comparison of physical properties
 
 _Cis_ and _trans_ isomers often have different physical properties. Differences between isomers, in general, arise from the differences in the shape of the molecule or the overall dipole moment.
 
-+----------------------------+------------------------------+
-| Cis-2-pentene.svg          | Trans-2-pentene.svg          |
-+----------------------------+------------------------------+
-| _cis_-2-pentene            | _trans_-2-pentene            |
-+----------------------------+------------------------------+
-| Cis-1,2-dichloroethene.png | Trans-1,2-dichloroethene.png |
-+----------------------------+------------------------------+
-| _cis_-1,2-dichloroethene   | _trans_-1,2-dichloroethene   |
-+----------------------------+------------------------------+
-| Maleic-acid-3D-balls-A.png | Fumaric-acid-3D-balls.png    |
-+----------------------------+------------------------------+
-| _cis_-butenedioic acid     | _trans_-butenedioic acid     |
-| (maleic acid)              | (fumaric acid)               |
-+----------------------------+------------------------------+
-| Oleic-acid-3D-vdW.png      | Elaidic-acid-3D-vdW.png      |
-+----------------------------+------------------------------+
-| Oleic acid                 | Elaidic acid                 |
-+----------------------------+------------------------------+
++--------------------------+----------------------------+
+|                          |                            |
++--------------------------+----------------------------+
+| _cis_-2-pentene          | _trans_-2-pentene          |
++--------------------------+----------------------------+
+|                          |                            |
++--------------------------+----------------------------+
+| _cis_-1,2-dichloroethene | _trans_-1,2-dichloroethene |
++--------------------------+----------------------------+
+|                          |                            |
++--------------------------+----------------------------+
+| _cis_-butenedioic acid   | _trans_-butenedioic acid   |
+| (maleic acid)            | (fumaric acid)             |
++--------------------------+----------------------------+
+|                          |                            |
++--------------------------+----------------------------+
+| Oleic acid               | Elaidic acid               |
++--------------------------+----------------------------+
 
 These differences can be very small, as in the case of the boiling point of straight-chain alkenes, such as pent-2-ene, which is 37 °C in the _cis_ isomer and 36 °C in the _trans_ isomer.[4] The differences between _cis_ and _trans_ isomers can be larger if polar bonds are present, as in the 1,2-dichloroethenes. The _cis_ isomer in this case has a boiling point of 60.3 °C, while the _trans_ isomer has a boiling point of 47.5 °C.[5] In the _cis_ isomer the two polar C-Cl bond dipole moments combine to give an overall molecular dipole, so that there are intermolecular dipole–dipole forces (or Keesom forces), which add to the London dispersion forces and raise the boiling point. In the _trans_ isomer on the other hand, this does not occur because the two C−Cl bond moments cancel and the molecule has a net zero dipole (it does however have a non-zero quadrupole).
 
@@ -55,7 +55,7 @@ Usually for acyclic systems _trans_ isomers are more stable than _cis_ isomers. 
 
 E/Z notation
 
-(Z)-1-Bromo-1,2-dichloroethene.svg than chlorine, so this alkene is the _Z_ isomer]]
+than chlorine, so this alkene is the _Z_ isomer]]
 
 The _cis_–_trans_ system for naming alkene isomers should generally only be used when there are only two different substituents on the double bond, so there is no confusion about which substituents are being described relative to each other. For more complex cases, the cis/trans designation is generally based on the longest carbon chain as reflected in the root name of the molecule (i.e. an extension of standard organic nomenclature for the parent structure). The IUPAC standard designations _E_–_Z_ are unambiguous in all cases, and therefore are especially useful for tri- and tetrasubstituted alkenes to avoid any confusion about which groups are being identified as _cis_ or _trans_ to each other.
 
@@ -72,16 +72,14 @@ Diazenes
 
 Diazenes (and the related diphosphenes) can also exhibit cis/trans isomerism. As with organic compounds, the _cis_ isomer is generally the more reactive of the two, being the only isomer that can reduce alkenes and alkynes to alkanes, but for a different reason: the _trans_ isomer cannot line its hydrogens up suitably to reduce the alkene, but the _cis_ isomer, being shaped differently, can.
 
-  ------------------------------------------------- ---------------------------------------------
-  Trans-diazene-3D-balls.png Trans-diazene-2D.png   Cis-diazene-3D-balls.png Cis-diazene-2D.png
-  _trans_-diazene                                   _cis_-diazene
-  ------------------------------------------------- ---------------------------------------------
+  ----------------- ---------------
+
+  _trans_-diazene   _cis_-diazene
+  ----------------- ---------------
 
 Coordination complexes
 
 In inorganic coordination complexes with octahedral or square planar geometries, there are also _cis_ isomers in which similar ligands are closer together and _trans_ isomers in which they are further apart.
-
-Cisplatin_and_transplatin.svg
 
 For example, there are two isomers of square planar Pt(NH₃)₂Cl₂, as explained by Alfred Werner in 1893. The _cis_ isomer, whose full name is _cis_-diamminedichloroplatinum(II), was shown in 1969 by Barnett Rosenberg to have antitumor activity, and is now a chemotherapy drug known by the short name cisplatin. In contrast, the _trans_ isomer (transplatin) has no useful anticancer activity. Each isomer can be synthesized using the trans effect to control which isomer is produced.
 

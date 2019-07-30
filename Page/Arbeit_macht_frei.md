@@ -1,4 +1,4 @@
-Entrance_Auschwitz_I.jpg]] Czech-2013-Theresienstadt-Arbeit_Macht_Frei_(detail).jpg in the Czech Republic]] () is a German phrase meaning "work sets you free". The slogan is known for appearing on the entrance of Auschwitz and other Nazi concentration camps.[1]
+]] in the Czech Republic]] () is a German phrase meaning "work sets you free". The slogan is known for appearing on the entrance of Auschwitz and other Nazi concentration camps.[1]
 
 
 Origin
@@ -8,7 +8,7 @@ The expression comes from the title of an 1873 novel by German philologist Loren
 
 Use by the Nazis
 
-Camp_ArbeitMachtFrei.JPG]] Arbeit_Macht_Frei_Dachau_20180125-PR6A9314.jpg]] The slogan was placed at the entrances to a number of Nazi concentration camps. The slogan's use was implemented by SS officer Theodor Eicke at Dachau concentration camp[5] and then copied by Rudolf Höss at Auschwitz.[6]
+]] ]] The slogan was placed at the entrances to a number of Nazi concentration camps. The slogan's use was implemented by SS officer Theodor Eicke at Dachau concentration camp[5] and then copied by Rudolf Höss at Auschwitz.[6]
 
 The slogan can still be seen at several sites, including over the entrance to Auschwitz I where the sign was erected by order of commandant Rudolf Höss.[7]The Auschwitz I sign was made by prisoner-labourers including master blacksmith Jan Liwacz, and features an upside-down _B_, which has been interpreted as an act of defiance by the prisoners who made it.[8][9] An example of ridiculing the falsity of the slogan was a popular saying used among Auschwitz prisoners:
 

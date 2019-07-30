@@ -15,7 +15,7 @@ Physiocracy (from the Greek for "government of nature") is an economic theory de
 
 Classical
 
-Sabah_Sarawak_labour_advert_Kuala_Lumpur.JPG The classical economics of Adam Smith, David Ricardo, and their followers focus on physical resources in defining its factors of production and discuss the distribution of cost and value among these factors. Adam Smith and David Ricardo referred to the "component parts of price"[6] as the costs of using:
+The classical economics of Adam Smith, David Ricardo, and their followers focus on physical resources in defining its factors of production and discuss the distribution of cost and value among these factors. Adam Smith and David Ricardo referred to the "component parts of price"[6] as the costs of using:
 
 -   Land or natural resource — naturally occurring goods like water, air, soil, minerals, flora, fauna and climate that are used in the creation of products. The payment given to a landowner is rent, loyalties, commission and goodwill.
 -   Labor — human effort used in production which also includes technical and marketing expertise. The payment for someone else's labor and all income received from one's own labor is wages. Labor can also be classified as the physical and mental contribution of an employee to the production of the good(s).

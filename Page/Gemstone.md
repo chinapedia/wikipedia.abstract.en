@@ -1,4 +1,4 @@
-Cardinal_gems.png, uncut synthetic sapphire, ruby, uncut emerald, and amethyst crystal cluster.]]
+, uncut synthetic sapphire, ruby, uncut emerald, and amethyst crystal cluster.]]
 
 A GEMSTONE (also called a GEM, FINE GEM, JEWEL, PRECIOUS STONE, or SEMI-PRECIOUS STONE) is a piece of mineral crystal which is in cut and polished form, it is used to make jewelry or other adornments.[1][2] However, certain rocks (such as lapis lazuli and opal) and occasionally organic materials that are not minerals (such as amber, jet, and pearl) are also used for jewelry and are therefore often considered to be gemstones as well. Most gemstones are hard, but some soft minerals are used in jewelry because of their luster or other physical properties that have aesthetic value. Rarity is another characteristic that lends value to a gemstone.
 
@@ -6,8 +6,6 @@ Apart from jewelry, from earliest antiquity engraved gems and hardstone carvings
 
 
 Characteristics and classification
-
-Gem.pebbles.800pix.labelled.jpg
 
 The traditional classification in the West, which goes back to the ancient Greeks, begins with a distinction between _precious_ and _semi-precious_; similar distinctions are made in other cultures. In modern use the precious stones are diamond, ruby, sapphire and emerald, with all other gemstones being semi-precious.[3] This distinction reflects the rarity of the respective stones in ancient times, as well as their quality: all are translucent with fine color in their purest forms, except for the colorless diamond, and very hard, with hardnesses of 8 to 10 on the Mohs scale. Other stones are classified by their color, translucency and hardness. The traditional distinction does not necessarily reflect modern values, for example, while garnets are relatively inexpensive, a green garnet called tsavorite can be far more valuable than a mid-quality emerald.[4] Another unscientific term for semi-precious gemstones used in art history and archaeology is hardstone. Use of the terms 'precious' and 'semi-precious' in a commercial context is, arguably, misleading in that it deceptively implies certain stones are intrinsically more valuable than others, which is not necessarily the case.
 
@@ -24,7 +22,7 @@ Gemstones may also be classified in terms of their "water". This is a recognized
 
 Value
 
-Spanish_jewellery-Gold_and_emerald_pendant_at_VAM-01.jpg]] Pendant.jpg There is no universally accepted grading system for gemstones. Diamonds are graded using a system developed by the Gemological Institute of America (GIA) in the early 1950s. Historically, all gemstones were graded using the naked eye. The GIA system included a major innovation: the introduction of 10x magnification as the standard for grading clarity. Other gemstones are still graded using the naked eye (assuming 20/20 vision).[8]
+]] There is no universally accepted grading system for gemstones. Diamonds are graded using a system developed by the Gemological Institute of America (GIA) in the early 1950s. Historically, all gemstones were graded using the naked eye. The GIA system included a major innovation: the introduction of 10x magnification as the standard for grading clarity. Other gemstones are still graded using the naked eye (assuming 20/20 vision).[8]
 
 A mnemonic device, the "four Cs" (color, cut, clarity, and carats), has been introduced to help the consumer understand the factors used to grade a diamond.[9] With modification, these categories can be useful in understanding the grading of all gemstones. The four criteria carry different weight depending upon whether they are applied to colored gemstones or to colorless diamonds. In diamonds, cut is the primary determinant of value, followed by clarity and color. Diamonds are meant to sparkle, to break down light into its constituent rainbow colors (dispersion), chop it up into bright little pieces (scintillation), and deliver it to the eye (brilliance). In its rough crystalline form, a diamond will do none of these things; it requires proper fashioning and this is called "cut". In gemstones that have color, including colored diamonds, it is the purity and beauty of that color that is the primary determinant of quality.
 
@@ -65,7 +63,7 @@ Gem dealers are aware of the differences between gem laboratories and will make 
 
 Cutting and polishing
 
-Gemstones_raw.JPG Diamond_cutter._Amsterdam._2012.jpg in the Netherlands in 2012]]
+in the Netherlands in 2012]]
 
 A few gemstones are used as gems in the crystal or other form in which they are found. Most however, are cut and polished for usage as jewelry. The picture to the left is of a rural, commercial cutting operation in Thailand. This small factory cuts thousands of carats of sapphire annually. The two main classifications are stones cut as smooth, dome shaped stones called cabochons, and stones which are cut with a faceting machine by polishing small flat windows called facets at regular intervals at exact angles.
 
@@ -76,7 +74,7 @@ Gems which are transparent are normally faceted, a method which shows the optica
 
 Colors
 
-Aurora_Pyramid_of_Hope.jpg at the Natural History Museum in London.]] The color of any material is due to the nature of light itself. Daylight, often called white light, is all of the colors of the spectrum combined. When light strikes a material, most of the light is absorbed while a smaller amount of a particular frequency or wavelength is reflected. The part that is reflected reaches the eye as the perceived color. A ruby appears red because it absorbs all the other colors of white light, while reflecting the red.
+at the Natural History Museum in London.]] The color of any material is due to the nature of light itself. Daylight, often called white light, is all of the colors of the spectrum combined. When light strikes a material, most of the light is absorbed while a smaller amount of a particular frequency or wavelength is reflected. The part that is reflected reaches the eye as the perceived color. A ruby appears red because it absorbs all the other colors of white light, while reflecting the red.
 
 A material which is mostly the same can exhibit different colors. For example, ruby and sapphire have the same primary chemical composition (both are corundum) but exhibit different colors because of impurities. Even the same named gemstone can occur in many different colors: sapphires show different shades of blue and pink and "fancy sapphires" exhibit a whole range of other colors from yellow to orange-pink, the latter called "padparadscha sapphire".[23]
 

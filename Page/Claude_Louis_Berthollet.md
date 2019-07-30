@@ -1,4 +1,4 @@
-Liebig_Company_Trading_Card_Ad_01.12.004_front.tif Trading Card, 1929]] Claude_Louis_Berthollet_statue_in_Annecy,_France.jpg
+Trading Card, 1929]]
 
 CLAUDE LOUIS BERTHOLLET (9 December 1748 in Talloires, France – 6 November 1822 in Arcueil, France) was a Savoyard-French chemist who became vice president of the French Senate in 1804.[1] He is known for his scientific contributions to theory of chemical equilibria via the mechanism of reverse chemical reactions, and for his contribution to modern chemical nomenclature. On a practical basis, Berthollet was the first to demonstrate the bleaching action of chlorine gas, and was first to develop a solution of sodium hypochlorite as a modern bleaching agent.
 

@@ -20,7 +20,7 @@ Hondurans are often referred to as _Catracho_ or _Catracha_ (fem) in Spanish. Th
 
 History
 
-CPN_ST_B_01.jpg, an emblematic symbol of the Honduran Mayan civilization at Copan.]]
+, an emblematic symbol of the Honduran Mayan civilization at Copan.]]
 
 Pre-colonial period
 
@@ -30,7 +30,7 @@ Remnants of other Pre-Columbian cultures are found throughout the country. Archa
 
 Spanish conquest (1524–1539)
 
-Cortes-Hernan-LOC.jpg, one of the conquerors of Honduras]] On his fourth and the final voyage to the New World in 1502, Christopher Columbus landed near the modern town of Trujillo, near Guaimoreto Lagoon, becoming the first European to visit the Bay Islands on the coast of Honduras.[19] On 30 July 1502, Columbus sent his brother Bartholomew to explore the islands and Bartholomew encountered a Mayan trading vessel from Yucatán, carrying well-dressed Maya and a rich cargo. Bartholomew's men stole the cargo they wanted and kidnapped the ship's elderly captain to serve as an interpreter in the first recorded encounter between the Spanish and the Maya.
+, one of the conquerors of Honduras]] On his fourth and the final voyage to the New World in 1502, Christopher Columbus landed near the modern town of Trujillo, near Guaimoreto Lagoon, becoming the first European to visit the Bay Islands on the coast of Honduras.[19] On 30 July 1502, Columbus sent his brother Bartholomew to explore the islands and Bartholomew encountered a Mayan trading vessel from Yucatán, carrying well-dressed Maya and a rich cargo. Bartholomew's men stole the cargo they wanted and kidnapped the ship's elderly captain to serve as an interpreter in the first recorded encounter between the Spanish and the Maya.
 
 In March 1524, Gil González Dávila became the first Spaniard to enter Honduras as a conquistador.[20][21] followed by Hernán Cortés, who had brought forces down from Mexico. Much of the conquest took place in the following two decades, first by groups loyal to Cristóbal de Olid, and then by those loyal to Francisco de Montejo but most particularly by those following Alvarado. In addition to Spanish resources, the conquerors relied heavily on armed forces from Mexico—Tlaxcalans and Mexica armies of thousands who remained garrisoned in the region.
 
@@ -44,7 +44,7 @@ Silver mining was a key factor in the Spanish conquest and settlement of Hondura
 
 Although the Spanish conquered the southern or Pacific portion of Honduras fairly quickly, they were less successful on the northern, or Atlantic side. They managed to found a few towns along the coast, at Puerto Caballos and Trujillo in particular, but failed to conquer the eastern portion of the region and many pockets of independent indigenous people as well. The Miskito Kingdom in the northeast was particularly effective at resisting conquest. The Miskito Kingdom found support from northern European privateers, pirates and especially the British formerly English colony of Jamaica, which placed much of the area under its protection after 1740.
 
-Exterior_Fuerte_de_Omoa_Honduras.jpg was built by the Spanish to protect the coast of Honduras from English pirates.]]
+was built by the Spanish to protect the coast of Honduras from English pirates.]]
 
 Independence (1821)
 
@@ -70,7 +70,7 @@ Tensions escalated and on 14 July 1969, the Salvadoran army launched an attack o
 
 Hurricane Fifi caused severe damage when it skimmed the northern coast of Honduras on 18 and 19 September 1974. Melgar Castro (1975–78) and Paz Garcia (1978–82) largely built the current physical infrastructure and telecommunications system of Honduras.[36]
 
-Mitch-Tegucigalpa_Damage.JPG in Tegucigalpa, 1998]] In 1979, the country returned to civilian rule . A constituent assembly was popularly elected in April 1980 to write a new constitution, and general elections were held in November 1981. The constitution was approved in 1982 and the PLH government of Roberto Suazo won the election with a promise to carry out an ambitious program of economic and social development to tackle the recession in which Honduras found itself. He launched ambitious social and economic development projects sponsored by American development aid. Honduras became host to the largest Peace Corps mission in the world, and nongovernmental and international voluntary agencies proliferated. The Peace Corps withdrew its volunteers in 2012, citing safety concerns.[37]
+in Tegucigalpa, 1998]] In 1979, the country returned to civilian rule . A constituent assembly was popularly elected in April 1980 to write a new constitution, and general elections were held in November 1981. The constitution was approved in 1982 and the PLH government of Roberto Suazo won the election with a promise to carry out an ambitious program of economic and social development to tackle the recession in which Honduras found itself. He launched ambitious social and economic development projects sponsored by American development aid. Honduras became host to the largest Peace Corps mission in the world, and nongovernmental and international voluntary agencies proliferated. The Peace Corps withdrew its volunteers in 2012, citing safety concerns.[37]
 
 During the early 1980s, the United States established a continuing military presence in Honduras to support El Salvador, the Contra guerrillas fighting the Nicaraguan government, and also develop an airstrip and modern port in Honduras. Though spared the bloody civil wars wracking its neighbors, the Honduran army quietly waged campaigns against Marxist–Leninist militias such as the Cinchoneros Popular Liberation Movement, notorious for kidnappings and bombings,[38] and against many non-militants as well. The operation included a CIA-backed campaign of extrajudicial killings by government-backed units, most notably Battalion 316.[39]
 
@@ -78,20 +78,18 @@ In 1998, Hurricane Mitch caused massive and widespread destruction. Honduran Pre
 
 21st century
 
-Defense.gov_News_Photo_0308020-F-2828D-168.jpg with U.S. Secretary of Defense Donald Rumsfeld in August 2003]] In 2007, President of Honduras Manuel Zelaya and President of the United States George W. Bush began talks on US assistance to Honduras to tackle the latter's growing drug cartels in Mosquito, Eastern Honduras using US Special Forces. This marked the beginning of a new foothold for the US Military's continued presence in Central America.[41]
+with U.S. Secretary of Defense Donald Rumsfeld in August 2003]] In 2007, President of Honduras Manuel Zelaya and President of the United States George W. Bush began talks on US assistance to Honduras to tackle the latter's growing drug cartels in Mosquito, Eastern Honduras using US Special Forces. This marked the beginning of a new foothold for the US Military's continued presence in Central America.[41]
 
-2009_Honduras_political_crisis_11.jpg]] Under Zelaya, Honduras joined ALBA in 2008, but withdrew in 2010 after the 2009 Honduran coup d'état. In 2009, a constitutional crisis resulted when power transferred in a coup from the president to the head of Congress. The OAS suspended Honduras because it did not regard its government as legitimate.[42][43]
+]] Under Zelaya, Honduras joined ALBA in 2008, but withdrew in 2010 after the 2009 Honduran coup d'état. In 2009, a constitutional crisis resulted when power transferred in a coup from the president to the head of Congress. The OAS suspended Honduras because it did not regard its government as legitimate.[42][43]
 
 Countries around the world, the OAS, and the United Nations[44] formally and unanimously condemned the action as a coup d'état, refusing to recognize the _de facto_ government, even though the lawyers consulted by the Library of Congress submitted to the United States Congress an opinion that declared the coup legal.[45][46][47] The Honduran Supreme Court also ruled that the proceedings had been legal. The government that followed the _de facto government_ established a truth and reconciliation commission, _Comisión de la Verdad y Reconciliación_, which after more than a year of research and debate concluded that the ousting had been a coup d'état, and illegal in the commission's opinion.[48][49][50]
 
 
 Geography
 
-Un-honduras.png
-
 The north coast of Honduras borders the Caribbean Sea and the Pacific Ocean lies south through the Gulf of Fonseca. Honduras consists mainly of mountains, with narrow plains along the coasts. A large undeveloped lowland jungle, _La Mosquitia_ lies in the northeast, and the heavily populated lowland Sula valley in the northwest. In La Mosquitia lies the UNESCO world-heritage site Río Plátano Biosphere Reserve, with the Coco River which divides Honduras from Nicaragua.
 
-The Islas de la Bahía and the Swan Islands are off the north coast. Misteriosa Bank and Rosario Bank, north of the Swan Islands, fall within the Exclusive Economic Zone (EEZ) of Honduras. MontanasdelaSierradeAgalta_Honduras.jpg Natural resources include timber, gold, silver, copper, lead, zinc, iron ore, antimony, coal, fish, shrimp, and hydropower.
+The Islas de la Bahía and the Swan Islands are off the north coast. Misteriosa Bank and Rosario Bank, north of the Swan Islands, fall within the Exclusive Economic Zone (EEZ) of Honduras. Natural resources include timber, gold, silver, copper, lead, zinc, iron ore, antimony, coal, fish, shrimp, and hydropower.
 
 Climate
 
@@ -120,9 +118,9 @@ The National Congress of Honduras (_Congreso Nacional_) has 128 members (_diputa
 
 Political culture
 
-Honduran_President_Hernandez_Signs_Secretary_Pompeo's_Guestbook_(42167632814).jpg]] In 1963, a military coup removed the democratically elected president, Ramón Villeda Morales. A string of authoritarian military governments held power uninterrupted until 1981, when Roberto Suazo Córdova was elected president.
+]] In 1963, a military coup removed the democratically elected president, Ramón Villeda Morales. A string of authoritarian military governments held power uninterrupted until 1981, when Roberto Suazo Córdova was elected president.
 
-The party system was dominated by the conservative National Party of Honduras (Partido Nacional de Honduras: PNH) and the liberal Liberal Party of Honduras (Partido Liberal de Honduras: PLH) until the 2009 Honduran coup d'état removed Manuel Zelaya from office and put Roberto Micheletti in his place. Zelaya_con_sombrero.jpg.]] In late 2012, 1540 persons were interviewed by ERIC in collaboration with the Jesuit university, as reported by Associated Press. This survey found that 60.3% believed the police were involved in crime, 44.9% had "no confidence" in the Supreme Court, and 72% thought there was electoral fraud in the primary elections of November 2012. Also, 56% expected the presidential, legislative and municipal elections of 2013 to be fraudulent.[55]
+The party system was dominated by the conservative National Party of Honduras (Partido Nacional de Honduras: PNH) and the liberal Liberal Party of Honduras (Partido Liberal de Honduras: PLH) until the 2009 Honduran coup d'état removed Manuel Zelaya from office and put Roberto Micheletti in his place. .]] In late 2012, 1540 persons were interviewed by ERIC in collaboration with the Jesuit university, as reported by Associated Press. This survey found that 60.3% believed the police were involved in crime, 44.9% had "no confidence" in the Supreme Court, and 72% thought there was electoral fraud in the primary elections of November 2012. Also, 56% expected the presidential, legislative and municipal elections of 2013 to be fraudulent.[55]
 
 Current Honduran president Juan Orlando Hernández took office on 27 January 2014. After managing to stand for a second term,[56] a very close election in 2017 left uncertainty as to whether Hernandez or his main challenger, television personality Salvador Nasralla, had prevailed.[57]
 
@@ -141,8 +139,6 @@ Military
 Honduras has a military with the Honduran Army, Honduran Navy and Honduran Air Force.
 
 Administrative divisions
-
-HondurasDivisions.png
 
 Honduras is divided into 18 departments. The capital city is Tegucigalpa in the Central District within the department of Francisco Morazán.
 
@@ -169,8 +165,6 @@ A new administrative division called ZEDE (_Zonas de empleo y desarrollo económ
 
 
 Economy
-
-Honduran_Children_Eating.jpg Honduras_Export_Treemap.jpg Banco_Central_de_Honduras_(Edificio_anexo)_Tegucigalpa.jpg
 
 Poverty
 
@@ -202,7 +196,7 @@ The World Bank Group Executive Board approved a plan known as the new Country Pa
 
 Economic inequality
 
-Tegucigalpa,_Honduras_-_Riverside_Houses.jpg in Tegucigalpa]] Levels of income inequality in Honduras are higher than in any other Latin American country.[119] Unlike other Latin American countries, inequality steadily increased in Honduras between 1991 and 2005.[120] Between 2006 and 2010 inequality saw a decrease but increased again in 2010.[121]
+in Tegucigalpa]] Levels of income inequality in Honduras are higher than in any other Latin American country.[119] Unlike other Latin American countries, inequality steadily increased in Honduras between 1991 and 2005.[120] Between 2006 and 2010 inequality saw a decrease but increased again in 2010.[121]
 
 When Honduras' Human Development Index is adjusted for inequality (known as the IHDI) Honduras' development index is reduced to .443.[122] The levels of inequality in each aspect of development can also be assessed.[123] In 2015 inequality of life expectancy at birth was 19.6%, inequality in education was 24.4% and inequality in income was 41.5% [124] The overall loss in human development due to inequality was 29.2.[125]
 
@@ -212,7 +206,7 @@ Inequality also exists between rural and urban areas as it relates to the distri
 
 The lower class predominantly consists of rural subsistence farmers and landless peasants.[134] Since 1965 there has been an increase in the number of landless peasants in Honduras which has led to a growing class of urban poor individuals.[135] These individuals often migrate to urban centers in search of work in the service sector, manufacturing, or construction.[136] Demographers believe that without social and economic reform, rural to urban migration will increase, resulting in the expansion of urban centers.[137] Within the lower class, underemployment is a major issue.[138] Individuals that are underemployed often only work as part-time laborers on seasonal farms meaning their annual income remains low.[139] In the 1980s peasant organizations and labor unions such as the National Federation of Honduran Peasants, The National Association of Honduran Peasants and the National Union of Peasants formed.[140]
 
-Honduras_house_copan.jpg It is not uncommon for rural individuals to voluntarily enlist in the military, however this often does not offer stable or promising career opportunities.[141] The majority of high-ranking officials in the Honduran army are recruited from elite military academies.[142] Additionally, the majority of enlistment in the military is forced.[143] Forced recruitment largely relies on an alliance between the Honduran government, military and upper class Honduran society.[144] In urban areas males are often sought out from secondary schools while in rural areas roadblocks aided the military in handpicking recruits.[145] Higher socio-economic status enables individuals to more easily evade the draft.[146]
+It is not uncommon for rural individuals to voluntarily enlist in the military, however this often does not offer stable or promising career opportunities.[141] The majority of high-ranking officials in the Honduran army are recruited from elite military academies.[142] Additionally, the majority of enlistment in the military is forced.[143] Forced recruitment largely relies on an alliance between the Honduran government, military and upper class Honduran society.[144] In urban areas males are often sought out from secondary schools while in rural areas roadblocks aided the military in handpicking recruits.[145] Higher socio-economic status enables individuals to more easily evade the draft.[146]
 
 Middle class Honduras is a small group defines by relatively low membership and income levels.[147] Movement from lower to middle class is typically facilitated by higher education.[148] Professionals, students, farmers, merchants, business employees, and civil servants are all considered a part of the Honduran middle class.[149] Opportunities for employment and the industrial and commercial sectors are slow growing, limiting middle class membership.[150]
 
@@ -220,15 +214,13 @@ The Honduran upper class has much higher income levels than the rest of the Hond
 
 Trade
 
-Panoramica_san_pedro_sula.jpg is a major center of business and commerce in Honduras, and is home to many large manufacturers and companies. It is often referred to as "La Capital Industrial".[154]]]
+is a major center of business and commerce in Honduras, and is home to many large manufacturers and companies. It is often referred to as "La Capital Industrial".[154]]]
 
 The currency is the Honduran lempira.
 
 The government operates both the electrical grid, Empresa Nacional de Energía Eléctrica (ENEE) and the land-line telephone service, Hondutel. ENEE receives heavy subsidies to counter its chronic financial problems, but Hondutel is no longer a monopoly. The telecommunication sector was opened to private investment on 25 December 2005, as required under CAFTA. The price of petroleum is regulated, and the Congress often ratifies temporary price regulation for basic commodities.
 
 Gold, silver, lead and zinc are mined.[155]
-
-Cafta_countries.png
 
 In 2005 Honduras signed CAFTA, a free trade agreement with the United States. In December 2005, Puerto Cortés, the primary seaport of Honduras, was included in the U.S. Container Security Initiative.[156]
 
@@ -256,7 +248,7 @@ About half of the electricity sector in Honduras is privately owned. The remaini
 
 Transportation
 
-Carretera37.jpg Infrastructure for transportation in Honduras consists of: of railways; of roadways;[160] seven ports and harbors; and 112 airports altogether (12 Paved, 100 unpaved).[161] The Ministry of Public Works, Transport and Housing (SOPRTRAVI in Spanish acronym) is responsible for transport sector policy.
+Infrastructure for transportation in Honduras consists of: of railways; of roadways;[160] seven ports and harbors; and 112 airports altogether (12 Paved, 100 unpaved).[161] The Ministry of Public Works, Transport and Housing (SOPRTRAVI in Spanish acronym) is responsible for transport sector policy.
 
 Water supply and sanitation
 
@@ -293,7 +285,7 @@ The ethnic breakdown of Honduran society was 90% Mestizo, 7% American Indian, 2%
 
 John Gillin considers Honduras to be one of thirteen "Mestizo countries" (Mexico, Guatemala, El Salvador, Nicaragua, Panama, Colombia, Venezuela, Cuba, Ecuador, Peru, Bolivia, Paraguay).[170] He claims that in much as Spanish America little attention is paid to race and race mixture resulting in social status having little reliance on one's physical features.[171] However, in "Mestizo countries" such as Honduras, this is not the case.[172] Social stratification from Spain was able to develop in these countries through colonization.[173]
 
-San_Francisco_Lempira_people_and_chopper2.jpg During colonization the majority of Honduras' indigenous population died of diseases like smallpox and measles resulting in a more homogenous indigenous population compared to other colonies.[174] Nine indigenous and African American groups are recognized by the government in Honduras.[175] The majority of Amerindians in Honduras are Lenca, followed by the Miskito, Cho'rti', Tolupan, Pech and Sumo.[176] Around 50,000 Lenca individuals live in the west and western interior of Honduras while the other small native groups are located throughout the country.[177]
+During colonization the majority of Honduras' indigenous population died of diseases like smallpox and measles resulting in a more homogenous indigenous population compared to other colonies.[174] Nine indigenous and African American groups are recognized by the government in Honduras.[175] The majority of Amerindians in Honduras are Lenca, followed by the Miskito, Cho'rti', Tolupan, Pech and Sumo.[176] Around 50,000 Lenca individuals live in the west and western interior of Honduras while the other small native groups are located throughout the country.[177]
 
 The majority of blacks in Honduran are culturally ladino, meaning they are culturally Hispanic.[178] Non-ladino groups in Honduras include the Black Carib, Miskito, Arab immigrants and the black population of the Islas de la Bahía[179] The Black Carib population descended from freed slaves from Saint Vincent.[180] The Miskito population (about 10,000 individuals) are the descendants of African and British immigrants and are extremely racially diverse.[181] While the Black Carib and Miskito populations have similar origins, Black Caribs are considered black while Miskitos are considered indigenous.[182] This is largely a reflection of cultural differences, as Black Caribs have retained much of their original African culture.[183] The majority of Arab Hondurans are of Palestinian and Lebanese descent.[184] They are known as "turcos" in Honduras because of migration during the rule of the Ottoman Empire.[185] They have maintained cultural distinctiveness and prospered economically.[186]
 
@@ -336,7 +328,7 @@ Largest cities
 
 Religion
 
-OscarKardinalRodriguez.jpg is Archbishop of Tegucigalpa and a figure of national and international note]] Although most Hondurans are nominally Roman Catholic (which would be considered the main religion), membership in the Roman Catholic Church is declining while membership in Protestant churches is increasing. The International Religious Freedom Report, 2008, notes that a CID Gallup poll reported that 51.4% of the population identified themselves as Catholic, 36.2% as evangelical Protestant, 1.3% claiming to be from other religions, including Muslims, Buddhists, Jews, Rastafarians, etc. and 11.1% do not belong to any religion or unresponsive. 8% reported as being either atheistic or agnostic. Customary Catholic church tallies and membership estimates 81% Catholic where the priest (in more than 185 parishes) is required to fill out a pastoral account of the parish each year.[235][236]
+is Archbishop of Tegucigalpa and a figure of national and international note]] Although most Hondurans are nominally Roman Catholic (which would be considered the main religion), membership in the Roman Catholic Church is declining while membership in Protestant churches is increasing. The International Religious Freedom Report, 2008, notes that a CID Gallup poll reported that 51.4% of the population identified themselves as Catholic, 36.2% as evangelical Protestant, 1.3% claiming to be from other religions, including Muslims, Buddhists, Jews, Rastafarians, etc. and 11.1% do not belong to any religion or unresponsive. 8% reported as being either atheistic or agnostic. Customary Catholic church tallies and membership estimates 81% Catholic where the priest (in more than 185 parishes) is required to fill out a pastoral account of the parish each year.[235][236]
 
 The CIA Factbook lists Honduras as 97% Catholic and 3% Protestant.[237] Commenting on statistical variations everywhere, John Green of Pew Forum on Religion and Public Life notes that: "It isn't that ... numbers are more right than [someone else's] numbers ... but how one conceptualizes the group."[238] Often people attend one church without giving up their "home" church. Many who attend evangelical megachurches in the US, for example, attend more than one church.[239] This shifting and fluidity is common in Brazil where two-fifths of those who were raised evangelical are no longer evangelical and Catholics seem to shift in and out of various churches, often while still remaining Catholic.[240]
 
@@ -367,13 +359,13 @@ Culture
 
 Art
 
-CatedraldeComayagua.jpg]] The most renowned Honduran painter is . Other important painters include Carlos Garay, and Roque Zelaya. Some of Honduras' most notable writers are Lucila Gamero de Medina, Froylán Turcios, Ramón Amaya Amador and Juan Pablo Suazo Euceda, Marco Antonio Rosa,[249] Roberto Sosa, Eduardo Bähr, Amanda Castro, Javier Abril Espinoza, Teófilo Trejo, and Roberto Quesada.
+]] The most renowned Honduran painter is . Other important painters include Carlos Garay, and Roque Zelaya. Some of Honduras' most notable writers are Lucila Gamero de Medina, Froylán Turcios, Ramón Amaya Amador and Juan Pablo Suazo Euceda, Marco Antonio Rosa,[249] Roberto Sosa, Eduardo Bähr, Amanda Castro, Javier Abril Espinoza, Teófilo Trejo, and Roberto Quesada.
 
 The José Francisco Saybe theater in San Pedro Sula is home to the Círculo Teatral Sampedrano (Theatrical Circle of San Pedro Sula)
 
 Cuisine
 
-SopadeOlla.jpg Honduran cuisine is a fusion of indigenous Lenca cuisine, Spanish cuisine, Caribbean cuisine and African cuisine. There are also dishes from the Garifuna people. Coconut and coconut milk are featured in both sweet and savory dishes. Regional specialties include fried fish, tamales, carne asada and baleadas.
+Honduran cuisine is a fusion of indigenous Lenca cuisine, Spanish cuisine, Caribbean cuisine and African cuisine. There are also dishes from the Garifuna people. Coconut and coconut milk are featured in both sweet and savory dishes. Regional specialties include fried fish, tamales, carne asada and baleadas.
 
 Other popular dishes include: meat roasted with chismol and carne asada, chicken with rice and corn, and fried fish with pickled onions and jalapeños. Some of the ways seafood and some meats are prepared in coastal areas and in the Bay Islands involve coconut milk.
 
@@ -391,7 +383,7 @@ Punta is the main music of Honduras, with other sounds such as Caribbean salsa, 
 
 Celebrations
 
-Saw_dust_carpet_Comayagua_Honduras_(1).jpgs of Comayagua during Easter celebrations]] Some of Honduras' national holidays include Honduras Independence Day on 15 September and Children's Day or Día del Niño, which is celebrated in homes, schools and churches on 10 September; on this day, children receive presents and have parties similar to Christmas or birthday celebrations. Some neighborhoods have piñatas on the street. Other holidays are Easter, Maundy Thursday, Good Friday, Day of the Soldier (3 October to celebrate the birth of Francisco Morazán), Christmas, El Dia de Lempira on 20 July,[250] and New Year's Eve.
+s of Comayagua during Easter celebrations]] Some of Honduras' national holidays include Honduras Independence Day on 15 September and Children's Day or Día del Niño, which is celebrated in homes, schools and churches on 10 September; on this day, children receive presents and have parties similar to Christmas or birthday celebrations. Some neighborhoods have piñatas on the street. Other holidays are Easter, Maundy Thursday, Good Friday, Day of the Soldier (3 October to celebrate the birth of Francisco Morazán), Christmas, El Dia de Lempira on 20 July,[250] and New Year's Eve.
 
 Honduras Independence Day festivities start early in the morning with marching bands. Each band wears different colors and features cheerleaders. Fiesta Catracha takes place this same day: typical Honduran foods such as beans, tamales, baleadas, cassava with chicharrón, and tortillas are offered.
 
@@ -401,7 +393,7 @@ La Ceiba Carnival is celebrated in La Ceiba, a city located in the north coast, 
 
 National symbols
 
-Ara_macao_-_two_at_Lowry_Park_Zoo.jpg'']] The flag of Honduras is composed of three equal horizontal stripes. The blue upper and lower stripes represent the Pacific Ocean and the Caribbean Sea. The central stripe is white. It contains five blue stars representing the five states of the Central American Union. The middle star represents Honduras, located in the center of the Central American Union.
+'']] The flag of Honduras is composed of three equal horizontal stripes. The blue upper and lower stripes represent the Pacific Ocean and the Caribbean Sea. The central stripe is white. It contains five blue stars representing the five states of the Central American Union. The middle star represents Honduras, located in the center of the Central American Union.
 
 The coat of arms was established in 1945. It is an equilateral triangle, at the base is a volcano between three castles, over which is a rainbow and the sun shining. The triangle is placed on an area that symbolizes being bathed by both seas. Around all of this an oval containing in golden lettering: "Republic of Honduras, Free, Sovereign and Independent".
 
@@ -419,7 +411,7 @@ Legends and fairy tales are paramount in Honduran culture. Lluvia de Peces (Rain
 
 Sports
 
-Estadio_Olimpico_Metropolitano_de_San_Pedro_Sula_2017_04.jpg in San Pedro Sula.]] The major sports in Honduras are football, basketball, rugby, volleyball and cycling, with smaller followings for athletics, softball and handball. Information about some of the sports organisations in Honduras are listed below:
+in San Pedro Sula.]] The major sports in Honduras are football, basketball, rugby, volleyball and cycling, with smaller followings for athletics, softball and handball. Information about some of the sports organisations in Honduras are listed below:
 
 -   Football in Honduras
 -   Honduran Football Federation

@@ -1,5 +1,3 @@
-Carbon_cycle.jpg CO2_pump_hg.svg
-
 A CARBON SINK is a natural reservoir that stores carbon-containing chemical compounds accumulated over an indefinite period of time. The process by which carbon sinks remove carbon dioxide () from the atmosphere is known as carbon sequestration. Public awareness of the significance of CO₂ sinks has grown since passage of the Kyoto Protocol, which promotes their use as a form of carbon offset. There are also different strategies used to enhance this process.[1]
 
 

@@ -1,15 +1,13 @@
-Entry_for_827_in_the_Anglo-Saxon_Chronicle,_which_lists_the_eight_bretwaldas.gif _BRETWALDA_ (also _BRYTENWALDA_ and _BRETENANWEALDA_, sometimes capitalised) is an Old English word. The first record comes from the late 9th-century _Anglo-Saxon Chronicle_. It is given to some of the rulers of Anglo-Saxon kingdoms from the 5th century onwards who had achieved overlordship of some or all of the other Anglo-Saxon kingdoms. It is unclear whether the word dates back to the 5th century and was used by the kings themselves or whether it is a later, 9th-century, invention. The term _bretwalda_ also appears in a 10th-century charter of Æthelstan. The literal meaning of the word is disputed and may translate to either 'wide-ruler' or 'Britain-ruler'.
+_BRETWALDA_ (also _BRYTENWALDA_ and _BRETENANWEALDA_, sometimes capitalised) is an Old English word. The first record comes from the late 9th-century _Anglo-Saxon Chronicle_. It is given to some of the rulers of Anglo-Saxon kingdoms from the 5th century onwards who had achieved overlordship of some or all of the other Anglo-Saxon kingdoms. It is unclear whether the word dates back to the 5th century and was used by the kings themselves or whether it is a later, 9th-century, invention. The term _bretwalda_ also appears in a 10th-century charter of Æthelstan. The literal meaning of the word is disputed and may translate to either 'wide-ruler' or 'Britain-ruler'.
 
 The rulers of Mercia were generally the most powerful of the Anglo-Saxon kings from the mid 7th century to the early 9th century but are not accorded the title of _bretwalda_ by the _Chronicle_, which had an anti-Mercian bias. The _Annals of Wales_ continued to recognise the kings of Northumbria as "Kings of the Saxons" until the death of Osred I of Northumbria in 716.
 
 
 Bretwaldas
 
-Anglo-Saxon_England_2.svg
-
 Listed by Bede and the _Anglo-Saxon Chronicle_
 
-Edwin_-_John_Speed.JPG _Saxon Heptarchy_ (1611)]]
+_Saxon Heptarchy_ (1611)]]
 
 -   Ælle of Sussex (488–c. 514)
 -   Ceawlin of Wessex (560–592, died 593)

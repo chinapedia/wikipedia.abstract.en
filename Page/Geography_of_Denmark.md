@@ -9,7 +9,7 @@ Denmark experiences a temperate climate. This means that the winters are mild an
 
 Environment
 
-Vor_Frelsers_Kirke-view10.jpg. Here Greater Copenhagen in the capital region.]] Kattegat_coast_of_Skagen.jpg and sandy coasts.]] Maj_i_Riis_Skov_04.JPG is a common tree throughout Denmark's sparse woodlands.]]
+. Here Greater Copenhagen in the capital region.]] and sandy coasts.]] is a common tree throughout Denmark's sparse woodlands.]]
 
 Climate
 
@@ -57,7 +57,7 @@ Transnational issues
 
 Maritime claims
 
-arctic.svg and Greenland (pdf), collectively known as The Danish Realm.]]
+and Greenland (pdf), collectively known as The Danish Realm.]]
 
     CONTIGUOUS ZONE: CONTINENTAL SHELF: 200-m depth or to the depth of exploitation EXCLUSIVE ECONOMIC ZONE: TERRITORIAL SEA:
 

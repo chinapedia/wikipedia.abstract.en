@@ -179,8 +179,6 @@ Population
 
 Age structure
 
-Equatorial_Guineapop.svg
-
     _0-14 years:_ 39.46% (male 159,814 /female 154,860)
     _15-24 years:_ 19.8% (male 80,368 /female 77,515)
     _25-54 years:_ 32.34% (male 129,248 /female 128,664)

@@ -37,7 +37,7 @@ Yōzei was succeeded by his father's uncle, Emperor Kōkō; and in the reign of 
 
 Yōzei lived in retirement until the age of 80.[19]
 
-Tomb_of_Emperor_Yosei.jpg The actual site of Yōzei's grave is known.[20] This emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Kyoto.
+The actual site of Yōzei's grave is known.[20] This emperor is traditionally venerated at a memorial Shinto shrine (_misasagi_) at Kyoto.
 
 The Imperial Household Agency designates this location as Yōzei's mausoleum. It is formally named _Kaguragaoka no Higashi no misasagi_.[21]
 
@@ -104,7 +104,7 @@ Ancestry
 
 Notes
 
-Imperial_Seal_of_Japan.svg — a stylized chrysanthemum blossom]]
+— a stylized chrysanthemum blossom]]
 
 
 References

@@ -1,5 +1,3 @@
-Cubo_desarrollo.gif
-
 In geometry, a CUBE[1] is a three-dimensional solid object bounded by six square faces, facets or sides, with three meeting at each vertex.
 
 The cube is the only regular hexahedron and is one of the five Platonic solids. It has 6 faces, 12 edges, and 8 vertices.
@@ -15,17 +13,16 @@ Orthogonal projections
 
 The _cube_ has four special orthogonal projections, centered, on a vertex, edges, face and normal to its vertex figure. The first and third correspond to the A₂ and B₂ Coxeter planes.
 
-+----------------+---------------+----------------+
-| Centered by    | Face          | Vertex         |
-+================+===============+================+
-| Coxeter planes | B₂            | A₂             |
-|                | 2-cube.svg    | 3-cube_t0.svg  |
-+----------------+---------------+----------------+
-| Projective     | [4]           | [6]            |
-| symmetry       |               |                |
-+----------------+---------------+----------------+
-| Tilted views   | Cube_t0_e.png | Cube_t0_fb.png |
-+----------------+---------------+----------------+
++----------------+------+--------+
+| Centered by    | Face | Vertex |
++================+======+========+
+| Coxeter planes | B₂   | A₂     |
++----------------+------+--------+
+| Projective     | [4]  | [6]    |
+| symmetry       |      |        |
++----------------+------+--------+
+| Tilted views   |      |        |
++----------------+------+--------+
 
 : Orthogonal projections
 
@@ -34,10 +31,10 @@ Spherical tiling
 
 The cube can also be represented as a spherical tiling, and projected onto the plane via a stereographic projection. This projection is conformal, preserving angles but not areas or lengths. Straight lines on the sphere are projected as circular arcs on the plane.
 
-  --------------------------- -----------------------------------
-  Uniform_tiling_432-t0.png   Cube_stereographic_projection.svg
-  Orthographic projection     Stereographic projection
-  --------------------------- -----------------------------------
+  ------------------------- --------------------------
+
+  Orthographic projection   Stereographic projection
+  ------------------------- --------------------------
 
 
 Cartesian coordinates
@@ -85,39 +82,39 @@ Doubling the cube, or the _Delian problem_, was the problem posed by ancient Gre
 
 Uniform colorings and symmetry
 
-Octahedral_subgroup_tree.png tree]] The cube has three uniform colorings, named by the colors of the square faces around each vertex: 111, 112, 123.
+tree]] The cube has three uniform colorings, named by the colors of the square faces around each vertex: 111, 112, 123.
 
 The cube has three classes of symmetry, which can be represented by vertex-transitive coloring the faces. The highest octahedral symmetry O_(h) has all the faces the same color. The dihedral symmetry D_(4h) comes from the cube being a prism, with all four sides being the same color. The lowest symmetry D_(2h) is also a prismatic symmetry, with sides alternating colors, so there are three colors, paired by opposite sides. Each symmetry form has a different Wythoff symbol.
 
-+-----------+----------------+----------------------+----------------------------------+---------------------------------+---------------------------+
-| Name      | Regular        | Square               | Rectangular                      | Rhombic                         | Trigonal                  |
-|           | hexahedron     | prism                | cuboid                           | prism                           | trapezohedron             |
-+===========+================+======================+==================================+=================================+===========================+
-| Coxeter   |                |                      |                                  |                                 |                           |
-| diagram   |                |                      |                                  |                                 |                           |
-+-----------+----------------+----------------------+----------------------------------+---------------------------------+---------------------------+
-| Schläfli  | {4,3}          | {4}×{ }              | s₂{2,4}                          | { }³                            | { }×2{ }                  |
-| symbol    |                | rr{4,2}              |                                  | tr{2,2}                         |                           |
-+-----------+----------------+----------------------+----------------------------------+---------------------------------+---------------------------+
-| Wythoff   | 3 | 4 2        | 4 2 | 2              |                                  | 2 2 2 |                         |                           |
-| symbol    |                |                      |                                  |                                 |                           |
-+-----------+----------------+----------------------+----------------------------------+---------------------------------+---------------------------+
-| Symmetry  | O_(h)          | D_(4h)               | D_(2d)                           | D_(2h)                          | D_(3d)                    |
-|           | [4,3]          | [4,2]                | [4,2⁺]                           | [2,2]                           | [6,2⁺]                    |
-|           | (*432)         | (*422)               | (2*2)                            | (*222)                          | (2*3)                     |
-+-----------+----------------+----------------------+----------------------------------+---------------------------------+---------------------------+
-| Symmetry  | 24             | 16                   | 8                                | 8                               | 12                        |
-| order     |                |                      |                                  |                                 |                           |
-+-----------+----------------+----------------------+----------------------------------+---------------------------------+---------------------------+
-| Image     | Hexahedron.png | Tetragonal_prism.png | Cube_rotorotational_symmetry.png | Uniform_polyhedron_222-t012.png | Cube_rhombic_symmetry.png |
-| (uniform  | (111)          | (112)                | (112)                            | (123)                           | (112)                     |
-| coloring) |                |                      |                                  |                                 |                           |
-+-----------+----------------+----------------------+----------------------------------+---------------------------------+---------------------------+
++-----------+------------+---------+-------------+---------+---------------+
+| Name      | Regular    | Square  | Rectangular | Rhombic | Trigonal      |
+|           | hexahedron | prism   | cuboid      | prism   | trapezohedron |
++===========+============+=========+=============+=========+===============+
+| Coxeter   |            |         |             |         |               |
+| diagram   |            |         |             |         |               |
++-----------+------------+---------+-------------+---------+---------------+
+| Schläfli  | {4,3}      | {4}×{ } | s₂{2,4}     | { }³    | { }×2{ }      |
+| symbol    |            | rr{4,2} |             | tr{2,2} |               |
++-----------+------------+---------+-------------+---------+---------------+
+| Wythoff   | 3 | 4 2    | 4 2 | 2 |             | 2 2 2 | |               |
+| symbol    |            |         |             |         |               |
++-----------+------------+---------+-------------+---------+---------------+
+| Symmetry  | O_(h)      | D_(4h)  | D_(2d)      | D_(2h)  | D_(3d)        |
+|           | [4,3]      | [4,2]   | [4,2⁺]      | [2,2]   | [6,2⁺]        |
+|           | (*432)     | (*422)  | (2*2)       | (*222)  | (2*3)         |
++-----------+------------+---------+-------------+---------+---------------+
+| Symmetry  | 24         | 16      | 8           | 8       | 12            |
+| order     |            |         |             |         |               |
++-----------+------------+---------+-------------+---------+---------------+
+| Image     | (111)      | (112)   | (112)       | (123)   | (112)         |
+| (uniform  |            |         |             |         |               |
+| coloring) |            |         |             |         |               |
++-----------+------------+---------+-------------+---------+---------------+
 
 
 Geometric relations
 
-The_11_cubic_nets.svg Stone_Dice_17.JPG are cube-shaped.]] A cube has eleven nets (one shown above): that is, there are eleven ways to flatten a hollow cube by cutting seven edges.[3] To color the cube so that no two adjacent faces have the same color, one would need at least three colors.
+are cube-shaped.]] A cube has eleven nets (one shown above): that is, there are eleven ways to flatten a hollow cube by cutting seven edges.[3] To color the cube so that no two adjacent faces have the same color, one would need at least three colors.
 
 The cube is the cell of the only regular tiling of three-dimensional Euclidean space. It is also unique among the Platonic solids in having faces with an even number of sides and, consequently, it is the only member of that group that is a zonohedron (every face has point symmetry).
 
@@ -133,7 +130,7 @@ There are analogues of the cube in lower dimensions too: a point in dimension 0,
 
 Related polyhedra
 
-Dual_Cube-Octahedron.svg, seen here with vertices at the center of the cube's square faces.]] Hemicube.svg is the 2-to-1 quotient of the cube.]] The quotient of the cube by the antipodal map yields a projective polyhedron, the hemicube.
+, seen here with vertices at the center of the cube's square faces.]] is the 2-to-1 quotient of the cube.]] The quotient of the cube by the antipodal map yields a projective polyhedron, the hemicube.
 
 If the original cube has edge length 1, its dual polyhedron (an octahedron) has edge length $\scriptstyle \sqrt{2}/2$.
 
@@ -173,10 +170,9 @@ The cube is a square prism:
 
 As a trigonal trapezohedron, the cube is related to the hexagonal dihedral symmetry family.
 
-+-------------------------+----------------------------+
-| UC08-3_cubes.png        | Compound_of_five_cubes.png |
-| Compound of three cubes | Compound of five cubes     |
-+-------------------------+----------------------------+
++-------------------------+------------------------+
+| Compound of three cubes | Compound of five cubes |
++-------------------------+------------------------+
 
 : Regular and uniform compounds of cubes
 
@@ -184,23 +180,23 @@ In uniform honeycombs and polychora
 
 It is an element of 9 of 28 convex uniform honeycombs:
 
-+-----------------------------+------------------------------------------+-------------------------------------+----------------------------------------------+--------------------------------------------------+
-| Cubic honeycomb             | Truncated square prismatic honeycomb     | Snub square prismatic honeycomb     | Elongated triangular prismatic honeycomb     | Gyroelongated triangular prismatic honeycomb     |
-+-----------------------------+------------------------------------------+-------------------------------------+----------------------------------------------+--------------------------------------------------+
-| Partial_cubic_honeycomb.png | Truncated_square_prismatic_honeycomb.png | Snub_square_prismatic_honeycomb.png | Elongated_triangular_prismatic_honeycomb.png | Gyroelongated_triangular_prismatic_honeycomb.png |
-+-----------------------------+------------------------------------------+-------------------------------------+----------------------------------------------+--------------------------------------------------+
-| Cantellated cubic honeycomb | Cantitruncated cubic honeycomb           | Runcitruncated cubic honeycomb      | Runcinated alternated cubic honeycomb        |                                                  |
-+-----------------------------+------------------------------------------+-------------------------------------+----------------------------------------------+--------------------------------------------------+
-| HC_A5-A3-P2.png             | HC_A6-A4-P2.png                          | HC_A5-A2-P2-Pr8.png                 | HC_A5-P2-P1.png                              |                                                  |
-+-----------------------------+------------------------------------------+-------------------------------------+----------------------------------------------+--------------------------------------------------+
++-----------------------------+--------------------------------------+---------------------------------+------------------------------------------+----------------------------------------------+
+| Cubic honeycomb             | Truncated square prismatic honeycomb | Snub square prismatic honeycomb | Elongated triangular prismatic honeycomb | Gyroelongated triangular prismatic honeycomb |
++-----------------------------+--------------------------------------+---------------------------------+------------------------------------------+----------------------------------------------+
+|                             |                                      |                                 |                                          |                                              |
++-----------------------------+--------------------------------------+---------------------------------+------------------------------------------+----------------------------------------------+
+| Cantellated cubic honeycomb | Cantitruncated cubic honeycomb       | Runcitruncated cubic honeycomb  | Runcinated alternated cubic honeycomb    |                                              |
++-----------------------------+--------------------------------------+---------------------------------+------------------------------------------+----------------------------------------------+
+|                             |                                      |                                 |                                          |                                              |
++-----------------------------+--------------------------------------+---------------------------------+------------------------------------------+----------------------------------------------+
 
 It is also an element of five four-dimensional uniform polychora:
 
-+---------------+---------------------+----------------------+------------------------+------------------------+
-| Tesseract     | Cantellated 16-cell | Runcinated tesseract | Cantitruncated 16-cell | Runcitruncated 16-cell |
-+---------------+---------------------+----------------------+------------------------+------------------------+
-| 4-cube_t0.svg | 24-cell_t1_B4.svg   | 4-cube_t03.svg       | 4-cube_t123.svg        | 4-cube_t023.svg        |
-+---------------+---------------------+----------------------+------------------------+------------------------+
++-----------+---------------------+----------------------+------------------------+------------------------+
+| Tesseract | Cantellated 16-cell | Runcinated tesseract | Cantitruncated 16-cell | Runcitruncated 16-cell |
++-----------+---------------------+----------------------+------------------------+------------------------+
+|           |                     |                      |                        |                        |
++-----------+---------------------+----------------------+------------------------+------------------------+
 
 
 Cubical graph

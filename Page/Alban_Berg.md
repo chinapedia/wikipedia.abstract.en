@@ -1,4 +1,4 @@
-WP_Alban_Berg.jpg|244x244px]]
+|244x244px]]
 
 ALBAN MARIA JOHANNES BERG (;[1] ; February 9, 1885 – December 24, 1935) was an Austrian composer of the Second Viennese School. His compositional style combined Romantic lyricism with twelve-tone technique.[2]
 
@@ -7,7 +7,7 @@ Biography
 
 Early life
 
-Berg was born in Vienna, the third of four children of Johanna and Konrad Berg. His family lived comfortably until the death of his father in 1900. Berg was more interested in literature than music as a child and did not begin to compose until he was fifteen, when he started to teach himself music. With Marie Scheuchl, a maid fifteen years his senior in the Berg family household, he fathered a daughter, Albine, born December 4, 1902.[3]Alban_Berg_(1885–1935)_1909_(Detail)_©_Madame_d’Ora_(1881–1963)_Albertina_FotoGLV2000-7689.png
+Berg was born in Vienna, the third of four children of Johanna and Konrad Berg. His family lived comfortably until the death of his father in 1900. Berg was more interested in literature than music as a child and did not begin to compose until he was fifteen, when he started to teach himself music. With Marie Scheuchl, a maid fifteen years his senior in the Berg family household, he fathered a daughter, Albine, born December 4, 1902.[3]
 
 Berg had little formal music education before he became a student of Arnold Schoenberg in October 1904. With Schoenberg, he studied counterpoint, music theory, and harmony.[4] By 1906 he was studying music full-time; by 1907 he began composition lessons. His student compositions included five drafts for piano sonatas. He also wrote songs, including his _Seven Early Songs_ (_Sieben Frühe Lieder_), three of which were Berg's first publicly performed work in a concert that featured the music of Schoenberg's pupils in Vienna that year.
 
@@ -17,7 +17,7 @@ Innovation
 
 Berg was a part of Vienna's cultural elite during the heady _fin de siècle_ period. His circle included the musicians Alexander von Zemlinsky and Franz Schreker, the painter Gustav Klimt, the writer and satirist Karl Kraus, the architect Adolf Loos, and the poet Peter Altenberg.
 
-In 1906 Berg met the singer Helene Nahowski (de) (1885-1976), daughter of a wealthy family (said by some to be in fact the illegitimate daughter of Emperor Franz Joseph I of Austria from his liaison with Anna Nahowski).[8] Despite the outward hostility of her family, the two were married on May 3, 1911. Watschenkonzert_Karikatur_in_Die_Zeit_vom_6._April_1913.jpg In 1913 two of Berg's _Altenberg Lieder_ (1912) were premièred in Vienna, conducted by Schoenberg in the infamous _Skandalkonzert_. Settings of aphoristic poetic utterances, the songs are accompanied by a very large orchestra. The performance caused a riot, and had to be halted. He effectively withdrew the work, and it was not performed in full until 1952. The full score remained unpublished until 1966.[9]
+In 1906 Berg met the singer Helene Nahowski (de) (1885-1976), daughter of a wealthy family (said by some to be in fact the illegitimate daughter of Emperor Franz Joseph I of Austria from his liaison with Anna Nahowski).[8] Despite the outward hostility of her family, the two were married on May 3, 1911. In 1913 two of Berg's _Altenberg Lieder_ (1912) were premièred in Vienna, conducted by Schoenberg in the infamous _Skandalkonzert_. Settings of aphoristic poetic utterances, the songs are accompanied by a very large orchestra. The performance caused a riot, and had to be halted. He effectively withdrew the work, and it was not performed in full until 1952. The full score remained unpublished until 1966.[9]
 
 From 1915–18, Berg served in the Austro-Hungarian Army and during a period of leave in 1917, he accelerated work on his first opera, _Wozzeck_. After the end of World War I, he settled again in Vienna, where he taught private pupils. He also helped Schoenberg run his Society for Private Musical Performances, which sought to create the ideal environment for the exploration and appreciation of unfamiliar new music by means of open rehearsals, repeat performances, and the exclusion of professional critics.
 
@@ -48,7 +48,7 @@ Before he died, Berg had completed the orchestration of only the first two of th
 
 Legacy
 
-Alban_Berg_Bueste_Schiefling_01.jpg, Carinthia, Austria]] Berg is remembered as one of the most important composers of the 20th century and the most widely performed opera composer among the Second Viennese School.[16] He is said to have brought more "human values" to the twelve-tone system, his works seen as more "emotional" than Schoenberg's.[17] Critically, he is seen as having preserved the Viennese tradition in his music.[18]
+, Carinthia, Austria]] Berg is remembered as one of the most important composers of the 20th century and the most widely performed opera composer among the Second Viennese School.[16] He is said to have brought more "human values" to the twelve-tone system, his works seen as more "emotional" than Schoenberg's.[17] Critically, he is seen as having preserved the Viennese tradition in his music.[18]
 
 Berg scholar Douglas Jarman writes in the _New Grove Dictionary of Music and Musicians_ that "[as] the 20th century closed, the 'backward-looking' Berg suddenly came as [George] Perle remarked, to look like its most forward-looking composer."[19]
 

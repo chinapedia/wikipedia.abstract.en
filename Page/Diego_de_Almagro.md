@@ -3,7 +3,7 @@ DIEGO DE ALMAGRO (; [1] – July 8, 1538), also known as EL ADELANTADO and EL VI
 
 Early years
 
-Escudo_de_Diego_de_Almagro.svg The origins of Diego de Almagro remain obscure. He was born in 1475 in the village of Almagro, 1 in Ciudad Real, where he took the surname for being the illegitimate son of Juan de Montenegro and Elvira Gutiérrez. In order to save the honor of the mother, her relatives took her infant and moved him to the nearby town of Bolaños de Calatrava, being raised in this town and in Aldea del Rey, run by Sancha López del Peral.
+The origins of Diego de Almagro remain obscure. He was born in 1475 in the village of Almagro, 1 in Ciudad Real, where he took the surname for being the illegitimate son of Juan de Montenegro and Elvira Gutiérrez. In order to save the honor of the mother, her relatives took her infant and moved him to the nearby town of Bolaños de Calatrava, being raised in this town and in Aldea del Rey, run by Sancha López del Peral.
 
 When he turned 4 he returned to Almagro, being under the tutelage of an uncle named Hernán Gutiérrez until he was 15 years old, when due to his uncle's hardness he ran away from home. He went to the home of his mother, who was now living with her new husband, to tell her what had happened and that he was going to travel the world, asking for some bread to help her live in her misery. His mother, anguished, gave him a piece of bread and some coins and said: _"Take, son, and do not give me more pressure, and go, and God help in your adventure."_
 
@@ -14,7 +14,7 @@ Being wanted for justice, Don Luis de Polanco, making use of his influence, got 
 
 Arrival in America
 
-Conquest_of_Colombia.png Diego de Almagro arrived in the New World on June 30, 1514, under the expedition that Ferdinand II of Aragon had sent under the guidance of Pedrarias Dávila. The expedition had landed in the city of Santa María la Antigua del Darién, Panama, where many other future conquistadors had already arrived, among them Francisco Pizarro.
+Diego de Almagro arrived in the New World on June 30, 1514, under the expedition that Ferdinand II of Aragon had sent under the guidance of Pedrarias Dávila. The expedition had landed in the city of Santa María la Antigua del Darién, Panama, where many other future conquistadors had already arrived, among them Francisco Pizarro.
 
 There are not many details of Almagro's activities during this period, but it is known that he accompanied various sailors who departed from the city of Darien between 1514 and 1515. De Almagro eventually returned and settled in Darien, where he was granted an encomienda. He built a house and made a living from agriculture.
 
@@ -40,7 +40,7 @@ In an attempt to claim Quito ahead of Belalcázar, in August 1534 De Almagro fou
 
 Conflict with Pizarro
 
-Diego_de_Almagro_y_Francisco_Pizarro_en_Castilla.jpg After splitting the treasure of Inca emperor Atahualpa, both Pizarro and Almagro left towards Cuzco and took the city in 1533. However, De Almagro's friendship with Pizarro showed signs of deterioration in 1526 when Pizarro, in the name of the rest of the conquistadors, called forth the "Capitulacion de Toledo" law in which King Charles I of Spain had laid out his authorization for the conquest of Peru and the awards every conquistador would receive from it. Long before, however, each conquistador had promised to equally split the benefits. Pizarro managed to have a larger stake and awards for himself. Despite this, De Almagro still obtained an important fortune for his services, and the King awarded him in November 1532 the noble title of "Don" and he was assigned a personal coat of arms.
+After splitting the treasure of Inca emperor Atahualpa, both Pizarro and Almagro left towards Cuzco and took the city in 1533. However, De Almagro's friendship with Pizarro showed signs of deterioration in 1526 when Pizarro, in the name of the rest of the conquistadors, called forth the "Capitulacion de Toledo" law in which King Charles I of Spain had laid out his authorization for the conquest of Peru and the awards every conquistador would receive from it. Long before, however, each conquistador had promised to equally split the benefits. Pizarro managed to have a larger stake and awards for himself. Despite this, De Almagro still obtained an important fortune for his services, and the King awarded him in November 1532 the noble title of "Don" and he was assigned a personal coat of arms.
 
 Although by this time Diego de Almagro had already acquired sufficient wealth in the conquest of Peru and was living a luxurious life in Cuzco, the prospect of conquering the lands further south was very attractive to him. Given that the dispute with Pizarro over Cuzco had kept intensifying, Almagro spent a great deal of time and money equipping a company of 500 men for a new exploration south of Peru.
 
@@ -48,8 +48,6 @@ By 1534 the Spanish crown had determined to split the region in two parallel lin
 
 
 Discovery of Chile
-
-Descubrimiento_de_Chile_por_Diego_de_Almagro.jpg
 
 The preparations
 
@@ -70,7 +68,7 @@ By luck, these men found the Valley of Copiapó, where Gonzalo Calvo Barrientos,
 
 Dismayed in Chile
 
-Estatua_de_Diego_de_Almagro_en_Almagro_(España).jpg De Almagro promptly initiated the exploration of the new territory, starting up the valley the Aconcagua River, where he was well received by the natives. However, the intrigues of his interpreter, Felipillo, who had previously helped Pizarro in dealing with _Atahualpa_, almost thwarted De Almagro's efforts. Felipillo had secretly urged the local natives to attack the Spanish, but they desisted, not understanding the dangers that they posed. De Almagro directed Gómez de Alvarado along with 100 horsemen and 100 foot to continue the exploration, which ended in the confluence of the Ñuble and Itata rivers. The Battle of Reinohuelén between the Spanish and hostile Mapuche Indians forced the explorers to return to the north.
+De Almagro promptly initiated the exploration of the new territory, starting up the valley the Aconcagua River, where he was well received by the natives. However, the intrigues of his interpreter, Felipillo, who had previously helped Pizarro in dealing with _Atahualpa_, almost thwarted De Almagro's efforts. Felipillo had secretly urged the local natives to attack the Spanish, but they desisted, not understanding the dangers that they posed. De Almagro directed Gómez de Alvarado along with 100 horsemen and 100 foot to continue the exploration, which ended in the confluence of the Ñuble and Itata rivers. The Battle of Reinohuelén between the Spanish and hostile Mapuche Indians forced the explorers to return to the north.
 
 De Almagro's own reconnaissance of the land and the bad news of Gómez de Alvarado's encounter with the fierce Mapuche, along with the bitter cold winter that settled ferociously upon them, only served to confirm that everything had failed. He never found gold or the cities which Incan scouts had told him lay ahead, only communities of the indigenous population who lived from subsistence agriculture. Local tribes put up fierce resistance to the Spanish forces. The exploration of the territories of Nueva Toledo, which lasted 2 years, was marked by a complete failure for De Almagro. Despite this, at first he thought staying and founding a city would serve well for his honor. The initial optimism that led Almagro to bring his son he had with the indigenous Panamanian Ana Martínez to Chile had faded.
 
@@ -81,7 +79,7 @@ The withdrawal of the Spanish from valleys of Chile was violent: Almagro authori
 
 Return to Peru
 
-Diego-de-Almagro.png After the exhausting crossing of the Atacama Desert, mainly due to the weather conditions, Almagro finally reached Cuzco, Peru, in 1537.[13] According to some authors, it was during this time that the Spanish term _"roto"_ (torn), used by Peruvians to refer to Chileans, was first coined. De Almagro's disappointed troops returned to Cuzco with their "torn clothes" due to the extensive and laborious passage on foot by the Atacama Desert.
+After the exhausting crossing of the Atacama Desert, mainly due to the weather conditions, Almagro finally reached Cuzco, Peru, in 1537.[13] According to some authors, it was during this time that the Spanish term _"roto"_ (torn), used by Peruvians to refer to Chileans, was first coined. De Almagro's disappointed troops returned to Cuzco with their "torn clothes" due to the extensive and laborious passage on foot by the Atacama Desert.
 
 After his return, De Almagro was surprised to learn of the Inca Manco's rebellion. Diego de Almagro sent an embassy to the Inca, but they mistrusted all of the Spaniards by this time. Hernando Pizarro's men formed an uneasy truce with De Almagro's men, surveying to determine the boundaries of their leaders' royal grants. They needed to determine in which portion the city of Cuzco was located. However, De Almagro's troops quickly took the city and imprisoned the Pizarro brothers, Hernando and Gonzalo, on the night of 8 April 1537.[14]
 

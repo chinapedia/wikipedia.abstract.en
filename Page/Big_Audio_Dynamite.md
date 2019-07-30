@@ -27,7 +27,7 @@ In 1993, Greg Roberts formed the electronic band Dreadzone with Tim Bran, with t
 
 Big Audio (1994)
 
-Big_Audio_Dynamite.jpg The band later recruited keyboardist Andre Shapps (co-producer of _The Globe_ and Mick Jones's cousin) and Michael "DJ Zonka" Custance as DJ and vocalist. Both appeared on the band's 1994 album _Higher Power_, which was released under the shortened name "Big Audio".
+The band later recruited keyboardist Andre Shapps (co-producer of _The Globe_ and Mick Jones's cousin) and Michael "DJ Zonka" Custance as DJ and vocalist. Both appeared on the band's 1994 album _Higher Power_, which was released under the shortened name "Big Audio".
 
 Final years and subsequent activities (1995–2010)
 

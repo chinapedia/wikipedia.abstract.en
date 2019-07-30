@@ -9,14 +9,14 @@ Argon is produced industrially by the fractional distillation of liquid air. Arg
 
 Characteristics
 
-Argon_ice_1.jpg Argon has approximately the same solubility in water as oxygen and is 2.5 times more soluble in water than nitrogen. Argon is colorless, odorless, nonflammable and nontoxic as a solid, liquid or gas.[2] Argon is chemically inert under most conditions and forms no confirmed stable compounds at room temperature.
+Argon has approximately the same solubility in water as oxygen and is 2.5 times more soluble in water than nitrogen. Argon is colorless, odorless, nonflammable and nontoxic as a solid, liquid or gas.[2] Argon is chemically inert under most conditions and forms no confirmed stable compounds at room temperature.
 
 Although argon is a noble gas, it can form some compounds under various extreme conditions. Argon fluorohydride (HArF), a compound of argon with fluorine and hydrogen that is stable below , has been demonstrated.[3][4] Although the neutral ground-state chemical compounds of argon are presently limited to HArF, argon can form clathrates with water when atoms of argon are trapped in a lattice of water molecules.[5] Ions, such as , and excited-state complexes, such as ArF, have been demonstrated. Theoretical calculation predicts several more argon compounds that should be stable[6] but have not yet been synthesized.
 
 
 History
 
-Isolation_of_Argon.png's method for the isolation of argon, based on an experiment of Henry Cavendish's. The gases are contained in a test-tube (A) standing over a large quantity of weak alkali (B), and the current is conveyed in wires insulated by U-shaped glass tubes (CC) passing through the liquid and round the mouth of the test-tube. The inner platinum ends (DD) of the wire receive a current from a battery of five Grove cells and a Ruhmkorff coil of medium size.]] _Argon_ (Greek , neuter singular form of meaning "lazy" or "inactive"), is named in reference to its chemical inactivity. This chemical property of this first noble gas to be discovered impressed the namers.[7][8] An unreactive gas was suspected to be a component of air by Henry Cavendish in 1785. Argon was first isolated from air in 1894 by Lord Rayleigh and Sir William Ramsay at University College London by removing oxygen, carbon dioxide, water, and nitrogen from a sample of clean air.[9][10][11] They had determined that nitrogen produced from chemical compounds was 0.5% lighter than nitrogen from the atmosphere. The difference was slight, but it was important enough to attract their attention for many months. They concluded that there was another gas in the air mixed in with the nitrogen.[12] Argon was also encountered in 1882 through independent research of H. F. Newall and W. N. Hartley. Each observed new lines in the emission spectrum of air that did not match known elements.
+'s method for the isolation of argon, based on an experiment of Henry Cavendish's. The gases are contained in a test-tube (A) standing over a large quantity of weak alkali (B), and the current is conveyed in wires insulated by U-shaped glass tubes (CC) passing through the liquid and round the mouth of the test-tube. The inner platinum ends (DD) of the wire receive a current from a battery of five Grove cells and a Ruhmkorff coil of medium size.]] _Argon_ (Greek , neuter singular form of meaning "lazy" or "inactive"), is named in reference to its chemical inactivity. This chemical property of this first noble gas to be discovered impressed the namers.[7][8] An unreactive gas was suspected to be a component of air by Henry Cavendish in 1785. Argon was first isolated from air in 1894 by Lord Rayleigh and Sir William Ramsay at University College London by removing oxygen, carbon dioxide, water, and nitrogen from a sample of clean air.[9][10][11] They had determined that nitrogen produced from chemical compounds was 0.5% lighter than nitrogen from the atmosphere. The difference was slight, but it was important enough to attract their attention for many months. They concluded that there was another gas in the air mixed in with the nitrogen.[12] Argon was also encountered in 1882 through independent research of H. F. Newall and W. N. Hartley. Each observed new lines in the emission spectrum of air that did not match known elements.
 
 Until 1957, the symbol for argon was "A", but now it is "Ar".[13]
 
@@ -41,7 +41,7 @@ The predominance of radiogenic is the reason the standard atomic weight of terre
 
 Compounds
 
-Argon-fluorohydride-3D-vdW.png of argon fluorohydride]] Argon's complete octet of electrons indicates full s and p subshells. This full valence shell makes argon very stable and extremely resistant to bonding with other elements. Before 1962, argon and the other noble gases were considered to be chemically inert and unable to form compounds; however, compounds of the heavier noble gases have since been synthesized. The first argon compound with tungsten pentacarbonyl, W(CO)₅Ar, was isolated in 1975. However it was not widely recognised at that time.[23] In August 2000, another argon compound, argon fluorohydride (HArF), was formed by researchers at the University of Helsinki, by shining ultraviolet light onto frozen argon containing a small amount of hydrogen fluoride with caesium iodide. This discovery caused the recognition that argon could form weakly bound compounds, even though it was not the first.[24][25][26] It is stable up to 17 kelvins (−256 °C). The metastable dication, which is valence-isoelectronic with carbonyl fluoride and phosgene, was observed in 2010.[27] Argon-36, in the form of argon hydride (argonium) ions, has been detected in interstellar medium associated with the Crab Nebula supernova; this was the first noble-gas molecule detected in outer space.[28][29]
+of argon fluorohydride]] Argon's complete octet of electrons indicates full s and p subshells. This full valence shell makes argon very stable and extremely resistant to bonding with other elements. Before 1962, argon and the other noble gases were considered to be chemically inert and unable to form compounds; however, compounds of the heavier noble gases have since been synthesized. The first argon compound with tungsten pentacarbonyl, W(CO)₅Ar, was isolated in 1975. However it was not widely recognised at that time.[23] In August 2000, another argon compound, argon fluorohydride (HArF), was formed by researchers at the University of Helsinki, by shining ultraviolet light onto frozen argon containing a small amount of hydrogen fluoride with caesium iodide. This discovery caused the recognition that argon could form weakly bound compounds, even though it was not the first.[24][25][26] It is stable up to 17 kelvins (−256 °C). The metastable dication, which is valence-isoelectronic with carbonyl fluoride and phosgene, was observed in 2010.[27] Argon-36, in the form of argon hydride (argonium) ions, has been detected in interstellar medium associated with the Crab Nebula supernova; this was the first noble-gas molecule detected in outer space.[28][29]
 
 Solid argon hydride (Ar(H₂)₂) has the same crystal structure as the MgZn₂ Laves phase. It forms at pressures between 4.3 and 220 GPa, though Raman measurements suggest that the H₂ molecules in Ar(H₂)₂ dissociate above 175 GPa.[30]
 
@@ -58,8 +58,6 @@ In radioactive decays
 
 
 Applications
-
-Argon.jpg
 
 Argon has several desirable properties:
 
@@ -86,7 +84,7 @@ Liquid argon is used as the target for neutrino experiments and direct dark matt
 
 Preservative
 
-CsCrystals.JPG is packed under argon to avoid reactions with air]] Argon is used to displace oxygen- and moisture-containing air in packaging material to extend the shelf-lives of the contents (argon has the European food additive code E938). Aerial oxidation, hydrolysis, and other chemical reactions that degrade the products are retarded or prevented entirely. High-purity chemicals and pharmaceuticals are sometimes packed and sealed in argon.
+is packed under argon to avoid reactions with air]] Argon is used to displace oxygen- and moisture-containing air in packaging material to extend the shelf-lives of the contents (argon has the European food additive code E938). Aerial oxidation, hydrolysis, and other chemical reactions that degrade the products are retarded or prevented entirely. High-purity chemicals and pharmaceuticals are sometimes packed and sealed in argon.
 
 In winemaking, argon is used in a variety of activities to provide a barrier against oxygen at the liquid surface, which can spoil wine by fueling both microbial metabolism (as with acetic acid bacteria) and standard redox chemistry.
 
@@ -96,7 +94,7 @@ Since 2002, the American National Archives stores important national documents s
 
 Laboratory equipment
 
-Glovebox.jpges are often filled with argon, which recirculates over scrubbers to maintain an oxygen-, nitrogen-, and moisture-free atmosphere]]
+es are often filled with argon, which recirculates over scrubbers to maintain an oxygen-, nitrogen-, and moisture-free atmosphere]]
 
 Argon may be used as the inert gas within Schlenk lines and gloveboxes. Argon is preferred to less expensive nitrogen in cases where nitrogen may react with the reagents or apparatus.
 
@@ -112,7 +110,7 @@ Argon has also been used experimentally to replace nitrogen in the breathing or 
 
 Lighting
 
-ArTube.jpg forming the symbol for argon "Ar"]]
+forming the symbol for argon "Ar"]]
 
 Incandescent lights are filled with argon, to preserve the filaments at high temperature from oxidation. It is used for the specific way it ionizes and emits light, such as in plasma globes and calorimetry in experimental particle physics. Gas-discharge lamps filled with pure argon provide lilac/violet light; with argon and some mercury, blue light. Argon is also used for blue and green argon-ion lasers.
 

@@ -1,5 +1,3 @@
-Burkina_Faso_Map.jpg LocationBurkinaFaso.svg Burkina_Faso_Topography.png
-
 Burkina Faso (formerly Upper Volta) is a landlocked Sahel country that shares borders with six nations. It lies between the Sahara desert and the Gulf of Guinea, south of the loop of the Niger River, mostly between latitudes 9° and 15°N (a small area is north of 15°), and longitudes 6°W and 3°E. The land is green in the south, with forests and fruit trees, and desert in the north. Most of central Burkina Faso lies on a savanna plateau, above sea level, with fields, brush, and scattered trees. Burkina Faso's game preserves—the most important of which are Arly, Nazinga, and W National Park—contain lions, elephants, hippopotamus, monkeys, common warthogs, and antelopes. Previously the endangered painted hunting dog, _Lycaon pictus_ occurred in Burkina Faso, but, although the last sightings were made in Arli National Park,[1] the species is considered extirpated from Burkina Faso.
 
 
@@ -24,7 +22,7 @@ It is made up of two major types of countryside. The larger part of the country 
 
 Administrative divisions
 
-Burkina_Faso_Provinces.png Burkina_Faso_departments.png The country is divided into 13 administrative regions. These regions encompass 45 provinces and 351 departments.
+The country is divided into 13 administrative regions. These regions encompass 45 provinces and 351 departments.
 
 
 Hydrography
@@ -36,7 +34,7 @@ The Niger's tributaries – the Béli, the Gorouol, the Goudébo and the Dargol 
 
 Climate
 
-Koppen-Geiger_Map_BFA_present.svg Burkina Faso has a primarily tropical climate with two very distinct seasons. In the rainy season, the country receives between 600 and 900 millimetres (23.6 and 35.4 in) of rainfall; in the dry season, the harmattan – a hot dry wind from the Sahara – blows. The rainy season lasts approximately four months, May/June to September, and is shorter in the north of the country. Three climatic zones can be defined: the Sahel, the Sudan-Sahel, and the Sudan-Guinea. The Sahel in the north typically receives less than of rainfall per year and has high temperatures, .
+Burkina Faso has a primarily tropical climate with two very distinct seasons. In the rainy season, the country receives between 600 and 900 millimetres (23.6 and 35.4 in) of rainfall; in the dry season, the harmattan – a hot dry wind from the Sahara – blows. The rainy season lasts approximately four months, May/June to September, and is shorter in the north of the country. Three climatic zones can be defined: the Sahel, the Sudan-Sahel, and the Sudan-Guinea. The Sahel in the north typically receives less than of rainfall per year and has high temperatures, .
 
 A relatively dry tropical savanna, the Sahel extends beyond the borders of Burkina Faso, from the Horn of Africa to the Atlantic Ocean, and borders the Sahara to its north and the fertile region of the Sudan to the South. Situated between 11°3' and 13°5' north latitude, the Sudan-Sahel region is a transitional zone with regards to rainfall and temperature. Further to the south, the Sudan-Guinea zone receives more than of rain each year and has cooler average temperatures.
 

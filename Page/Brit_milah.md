@@ -3,7 +3,7 @@ The _BRIT MILAH_ (, ; Ashkenazi pronunciation: , "covenant of circumcision"; Yid
 
 Biblical references
 
-Isaac's_circumcision,_Regensburg_c1300.jpg According to the Hebrew Bible () God commanded the Biblical patriarch Abraham to be circumcised, an act to be followed by his descendants:
+According to the Hebrew Bible () God commanded the Biblical patriarch Abraham to be circumcised, an act to be followed by his descendants:
 
 Also, provides: "And in the eighth day the flesh of his foreskin shall be circumcised."
 
@@ -28,7 +28,7 @@ Significantly, the tradition of baptism universally replaced circumcision among 
 
 Ceremony
 
-Une_circoncision,_Marco_Marcuola,_Venise,_vers_1870_-_Musée_d'Art_et_d'Histoire_du_Judaïsme.jpg]]
+]]
 
 Mohel
 
@@ -36,11 +36,11 @@ A mohel is a Jew trained in the practice of _brit milah_, the "covenant of circu
 
 Time and place
 
-Fauteuil_de_circoncision_("Fauteuil_d'Elie").jpg]] It is customary for the brit to be held in a synagogue, but it can also be held at home or any other suitable location. The brit is performed on the eighth day from the baby's birth, taking into consideration that according to the Jewish calendar, the day begins at the sunset of the day before. If the baby is born on Sunday before sunset, the Brit will be held the following Sunday. However, if the baby is born on Sunday night after sunset, the Brit is on the following Monday. The brit takes place on the eighth day following birth even if that day is Shabbat or a holiday. A brit is traditionally performed in the morning, but it may be performed any time during daylight hours.[11]
+]] It is customary for the brit to be held in a synagogue, but it can also be held at home or any other suitable location. The brit is performed on the eighth day from the baby's birth, taking into consideration that according to the Jewish calendar, the day begins at the sunset of the day before. If the baby is born on Sunday before sunset, the Brit will be held the following Sunday. However, if the baby is born on Sunday night after sunset, the Brit is on the following Monday. The brit takes place on the eighth day following birth even if that day is Shabbat or a holiday. A brit is traditionally performed in the morning, but it may be performed any time during daylight hours.[11]
 
 Postponement for health reasons
 
-Circumcision_set.jpg The Talmud explicitly instructs that a boy must not be circumcised if he had two brothers who died due to complications arising from their circumcisions,[12] and Maimonides says that this excluded paternal half-brothers. This may be due to a concern about hemophilia.[13]
+The Talmud explicitly instructs that a boy must not be circumcised if he had two brothers who died due to complications arising from their circumcisions,[12] and Maimonides says that this excluded paternal half-brothers. This may be due to a concern about hemophilia.[13]
 
 An Israeli study found a high rate of urinary tract infections if the bandage is left on too long.[14]
 
@@ -80,7 +80,7 @@ Ritual components
 
 Uncovering, _priah_
 
-Britmila2.jpg At the neonatal stage, the inner preputial epithelium is still linked with the surface of the glans.[24] The _mitzvah_ is executed only when this epithelium is either removed, or permanently peeled back to uncover the glans.[25] On medical circumcisions performed by surgeons, the epithelium is removed along with the foreskin,[26] to prevent post operative penile adhesion and its complications.[27] However, on ritual circumcisions performed by a mohel, the epithelium is most commonly peeled off only after the foreskin has been amputated. This procedure is called _priah_ (), which means: 'uncovering'. The main goal of "priah" (also known as "bris periah"), is to remove as much of the inner layer of the foreskin as possible and prevent the movement of the shaft skin, what creates the look and function of what is known as a "low and tight" circumcision.[28]
+At the neonatal stage, the inner preputial epithelium is still linked with the surface of the glans.[24] The _mitzvah_ is executed only when this epithelium is either removed, or permanently peeled back to uncover the glans.[25] On medical circumcisions performed by surgeons, the epithelium is removed along with the foreskin,[26] to prevent post operative penile adhesion and its complications.[27] However, on ritual circumcisions performed by a mohel, the epithelium is most commonly peeled off only after the foreskin has been amputated. This procedure is called _priah_ (), which means: 'uncovering'. The main goal of "priah" (also known as "bris periah"), is to remove as much of the inner layer of the foreskin as possible and prevent the movement of the shaft skin, what creates the look and function of what is known as a "low and tight" circumcision.[28]
 
 According to Rabbinic interpretation of traditional Jewish sources,[29] the 'priah' has been performed as part of the Jewish circumcision since the Israelites first inhabited the Land of Israel.[30] However, the _Oxford Dictionary of the Jewish Religion_, states that many Hellenistic Jews attempted to restore their foreskins, and that similar action was taken during the Hadrianic persecution, a period in which a prohibition against circumcision was issued. Thus, the writers of the dictionary hypothesize that the more severe method practiced today was probably begun in order to prevent the possibility of restoring the foreskin after circumcision, and therefore the rabbis added the requirement of cutting the foreskin in periah.[31] The frenulum may also be cut away at the same time, in a procedure called frenectomy.[32] According to Shaye J. D. Cohen, in Why Aren't Jewish Women Circumcised?: Gender and Covenant in Judaism, pg 25, the Torah only commands circumcision (milah.)[33] David Gollaher has written that the rabbis added the procedure of priah to discourage men from trying to restore their foreskins: ‘Once established, priah was deemed essential to circumcision; if the mohel failed to cut away enough tissue, the operation was deemed insufficient to comply with God's covenant’ and ‘Depending on the strictness of individual rabbis, boys (or men thought to have been inadequately cut) were subjected to additional operations.’[34]
 
@@ -123,7 +123,7 @@ A brit milah is more than circumcision, it is a sacred ritual in Judaism, as dis
 
 _Milah l'shem giur_
 
-Göttingen-Beschneidungswerkzeuge.02.JPG city museum]] A _Milah L'shem giur_ is a "Circumcision for the purpose of conversion". In Orthodox Judaism, this procedure is usually done by adoptive parents for adopted boys who are being converted as part of the adoption or by families with young children converting together. It is also required for adult converts who were not previously circumcised, e.g. those born in countries where circumcision at birth is not common. The conversion of a minor is valid in both Orthodox and Conservative Judaism until a child reaches the age of majority (13 for a boy, 12 for a girl); at that time the child has the option of renouncing his conversion and Judaism, and the conversion will then be considered retroactively invalid. He must be informed of his right to renounce his conversion if he wishes. If he does not make such a statement, it is accepted that the boy is halakhically Jewish. Orthodox rabbis will generally not convert a non-Jewish child raised by a mother who has not converted to Judaism.[96]
+city museum]] A _Milah L'shem giur_ is a "Circumcision for the purpose of conversion". In Orthodox Judaism, this procedure is usually done by adoptive parents for adopted boys who are being converted as part of the adoption or by families with young children converting together. It is also required for adult converts who were not previously circumcised, e.g. those born in countries where circumcision at birth is not common. The conversion of a minor is valid in both Orthodox and Conservative Judaism until a child reaches the age of majority (13 for a boy, 12 for a girl); at that time the child has the option of renouncing his conversion and Judaism, and the conversion will then be considered retroactively invalid. He must be informed of his right to renounce his conversion if he wishes. If he does not make such a statement, it is accepted that the boy is halakhically Jewish. Orthodox rabbis will generally not convert a non-Jewish child raised by a mother who has not converted to Judaism.[96]
 
 The laws of conversion and conversion-related circumcision in Orthodox Judaism have numerous complications, and authorities recommend that a rabbi be consulted well in advance.
 
@@ -172,7 +172,7 @@ The Reform societies established in Frankfurt and Berlin regarded circumcision a
 
 The anti-circumcision movement and _Brit shalom_
 
-A growing number[109][110][111][112] of contemporary Jews and Intactivist Jewish groups in the United States, United Kingdom, and Israel, both religious and secular, choose not to circumcise their sons.[113][114][115][116][117][118] Among the reasons for their choice are the claims that circumcision is a form of child abuse that involves genital mutilation forced on men and violence against helpless infants,[119][120][121] a violation of children's rights,[122][123][124][125] and their opinion that circumcision is a dangerous,[126][127] unnecessary,[128][129][130] painful,[131][132][133] traumatic and stressful event for the child,[134][135][136] which can cause even further psychophysical complications down the road, including serious disability and even death.[137][138] They are assisted by a small number of Reform, Liberal, and Reconstructionist rabbis, and have developed a welcoming ceremony that they call the _Brit shalom_ ("Covenant [of] Peace") for such children,[139][140][141] also accepted by Humanistic Judaism.[142][143] הפגנת_פעילים_נגד_ברית-מילה.jpg (_Hilonim_) protest against ritual circumcision (brit milah) in Tel Aviv]]
+A growing number[109][110][111][112] of contemporary Jews and Intactivist Jewish groups in the United States, United Kingdom, and Israel, both religious and secular, choose not to circumcise their sons.[113][114][115][116][117][118] Among the reasons for their choice are the claims that circumcision is a form of child abuse that involves genital mutilation forced on men and violence against helpless infants,[119][120][121] a violation of children's rights,[122][123][124][125] and their opinion that circumcision is a dangerous,[126][127] unnecessary,[128][129][130] painful,[131][132][133] traumatic and stressful event for the child,[134][135][136] which can cause even further psychophysical complications down the road, including serious disability and even death.[137][138] They are assisted by a small number of Reform, Liberal, and Reconstructionist rabbis, and have developed a welcoming ceremony that they call the _Brit shalom_ ("Covenant [of] Peace") for such children,[139][140][141] also accepted by Humanistic Judaism.[142][143] (_Hilonim_) protest against ritual circumcision (brit milah) in Tel Aviv]]
 
 The ceremony of _Brit shalom_ is not officially approved of by the Reform or Reconstructionist rabbinical organizations, who make the recommendation that male infants should be circumcised, though the issue of converts remains controversial[144][145] and circumcision of converts is not mandatory in either movement.[146]
 

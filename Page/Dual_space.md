@@ -312,7 +312,7 @@ The topology of _V_ and the topology of real or complex numbers can be used to i
 
 Double dual
 
-Double_dual_nature.svg of vector addition from a vector space to its double dual. denotes the ordered pair of two vectors. The addition + sends _x_₁ and _x_₂ to . The addition +′ induced by the transformation can be defined as for any _φ_ in the dual space.]] In analogy with the case of the algebraic double dual, there is always a naturally defined continuous linear operator from a normed space _V_ into its continuous double dual , defined by
+of vector addition from a vector space to its double dual. denotes the ordered pair of two vectors. The addition + sends _x_₁ and _x_₂ to . The addition +′ induced by the transformation can be defined as for any _φ_ in the dual space.]] In analogy with the case of the algebraic double dual, there is always a naturally defined continuous linear operator from a normed space _V_ into its continuous double dual , defined by
 
 _Ψ_(_x_)(_φ_) = _φ_(_x_), _x_ ∈ _V_, _φ_ ∈ _V_′.
 

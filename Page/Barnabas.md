@@ -18,7 +18,7 @@ His Hellenic Jewish parents called him Joseph (although the Byzantine text-type 
 
 Biblical narrative
 
-St-barnabé-veronese-rouen.jpg, Musée des Beaux-Arts de Rouen.]] Barnabas appears mainly in Acts, a history of the early Christian church. He also appears in several of Paul's epistles.
+, Musée des Beaux-Arts de Rouen.]] Barnabas appears mainly in Acts, a history of the early Christian church. He also appears in several of Paul's epistles.
 
 Barnabas, a native of Cyprus and a Levite, is first mentioned in the Acts of the Apostles as a member of the early Christian community in Jerusalem, who sold some land that he owned and gave the proceeds to the community (). When the future Paul the Apostle returned to Jerusalem after his conversion, Barnabas introduced him to the apostles (). Easton, in his Bible Dictionary, supposes that they had been fellow students in the school of Gamaliel.[4]
 
@@ -26,7 +26,7 @@ The successful preaching of Christianity at Antioch to non-Jews led the church a
 
 They returned to Antioch taking John Mark with them, the cousin or nephew of Barnabas. Later, they went to Cyprus and some of the principal cities of Pamphylia, Pisidia, and Lycaonia (). After recounting what the governor of Cyprus Sergius Paulus believed, speaks of Barnabas's companion no longer as Saul, but as Paul, his Roman name, and generally refers to the two no longer as "Barnabas and Saul" as heretofore (), but as "Paul and Barnabas" (). Only in and does Barnabas again occupy the first place, in the first passage with recollection of , in the last 2, because Barnabas stood in closer relation to the Jerusalem church than Paul. Paul appears as the more eloquent missionary (), whence the Lystrans regarded him as Hermes and Barnabas as Zeus. The King James Version renders the Greek name "Zeus" by the Latin name "Jupiter" ().
 
-Breenbergh,_Bartholomeus,_Saints_Paul_and_Barnabas_at_Lystra_(Sacrifice_at_Lystra),_1637.jpg, 1637, Princeton University Art Museum]]
+, 1637, Princeton University Art Museum]]
 
 Returning from this first missionary journey to Antioch, they were again sent up to Jerusalem to consult with the church there regarding the relation of Gentiles to the church (; ). According to , Barnabas was included with Paul in the agreement made between them, on the one hand, and James, Peter, and John, on the other, that the two former should in the future preach to the pagans, not forgetting the poor at Jerusalem. This matter having been settled, they returned again to Antioch, bringing the agreement of the council that Gentiles were to be admitted into the church without having to adopt Jewish practices.
 

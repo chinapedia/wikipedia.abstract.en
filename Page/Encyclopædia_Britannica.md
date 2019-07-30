@@ -23,7 +23,7 @@ Present status
 
 Print version
 
-Encyclopaedia_Britannica_15_with_2002.jpg}}; the red-spined and black-spined volumes are the and the , respectively. The last three volumes are the 2002 Book of the Year (black spine) and the two-volume index (cyan spine).]] Since 1985, the _Britannica_ has had four parts: the , the , the , and a two-volume index. The _Britannica_{{'s}} articles are found in the and , which encompass 12 and 17 volumes, respectively, each volume having roughly one thousand pages. The 2007 has 699 in-depth articles, ranging in length from 2 to 310 pages and having references and named contributors. In contrast, the 2007 has roughly 65,000 articles, the vast majority (about 97%) of which contain fewer than 750 words, no references, and no named contributors.[5] The articles are intended for quick fact-checking and to help in finding more thorough information in the . The articles are meant both as authoritative, well-written articles on their subjects and as storehouses of information not covered elsewhere.[6] The longest article (310 pages) is on the United States, and resulted from the merger of the articles on the individual states. The 2013 edition of _Britannica_ contained approximately forty thousand articles.[7]
+}}; the red-spined and black-spined volumes are the and the , respectively. The last three volumes are the 2002 Book of the Year (black spine) and the two-volume index (cyan spine).]] Since 1985, the _Britannica_ has had four parts: the , the , the , and a two-volume index. The _Britannica_{{'s}} articles are found in the and , which encompass 12 and 17 volumes, respectively, each volume having roughly one thousand pages. The 2007 has 699 in-depth articles, ranging in length from 2 to 310 pages and having references and named contributors. In contrast, the 2007 has roughly 65,000 articles, the vast majority (about 97%) of which contain fewer than 750 words, no references, and no named contributors.[5] The articles are intended for quick fact-checking and to help in finding more thorough information in the . The articles are meant both as authoritative, well-written articles on their subjects and as storehouses of information not covered elsewhere.[6] The longest article (310 pages) is on the United States, and resulted from the merger of the articles on the individual states. The 2013 edition of _Britannica_ contained approximately forty thousand articles.[7]
 
 Information can be found in the _Britannica_ by following the cross-references in the and ; however, these are sparse, averaging one cross-reference per page.[8] Hence, readers are recommended to consult instead the alphabetical index or the , which organizes the _Britannica_{{'s}} contents by topic.[9]
 
@@ -39,7 +39,7 @@ In March 2012, the company announced that the 2010 edition would be the last pri
 
 Related printed material
 
-_Britannica Junior_ was first published in 1934 as 12 volumes. It was expanded to 15 volumes in 1947, and renamed _Britannica Junior Encyclopædia_ in 1963.[27] It was taken off the market after the 1984 printing. Children's_Britannica.jpg A British _Children's Britannica_ edited by John Armitage was issued in London in 1960.[28] Its contents were determined largely by the eleven-plus standardized tests given in Britain.[29] Britannica introduced the _Children's Britannica_ to the US market in 1988, aimed at ages seven to 14.
+_Britannica Junior_ was first published in 1934 as 12 volumes. It was expanded to 15 volumes in 1947, and renamed _Britannica Junior Encyclopædia_ in 1963.[27] It was taken off the market after the 1984 printing. A British _Children's Britannica_ edited by John Armitage was issued in London in 1960.[28] Its contents were determined largely by the eleven-plus standardized tests given in Britain.[29] Britannica introduced the _Children's Britannica_ to the US market in 1988, aimed at ages seven to 14.
 
 In 1961 a 16 volume _Young Children's Encyclopaedia_ was issued for children just learning to read.[30]
 
@@ -78,7 +78,7 @@ While _Britannica_{{'s}} authors have included writers such as Albert Einstein,[
 
 Staff
 
-Thomas_Spencer_Baynes.jpg, editor of the 9th edition. Painted in 1888, it now hangs in the Senate Room of the University of St Andrews in Scotland.]]
+, editor of the 9th edition. Painted in 1888, it now hangs in the Senate Room of the University of St Andrews in Scotland.]]
 
 in the fifteenth edition of _Britannica_, Dale Hoiberg, a sinologist, was listed as _Britannica's_ Senior Vice President and editor-in-chief.[70] Among his predecessors as editors-in-chief were Hugh Chisholm (1902–1924), James Louis Garvin (1926–1932), Franklin Henry Hooper (1932–1938),[71] Walter Yust (1938–1960), Harry Ashmore (1960–1963), Warren E. Preece (1964–1968, 1969–1975), Sir William Haley (1968–1969), Philip W. Goetz (1979–1991),[72] and Robert McHenry (1992–1997).[73] Anita Wolff was listed as the Deputy Editor and Theodore Pappas as Executive Editor.[74] Prior Executive Editors include John V. Dodge (1950–1964) and Philip W. Goetz.
 
@@ -157,7 +157,7 @@ Critical and popular assessments
 
 Reputation
 
-EB1_Plate_003_lark_flower.gif by Andrew Bell from the 1st edition.]]
+by Andrew Bell from the 1st edition.]]
 
 Since the 3rd edition, the _Britannica_ has enjoyed a popular and critical reputation for general excellence.[126][127][128] The 3rd and the 9th editions were pirated for sale in the United States,[129] beginning with _Dobson's Encyclopaedia_.[130] On the release of the 14th edition, _Time_ magazine dubbed the _Britannica_ the "Patriarch of the Library".[131] In a related advertisement, naturalist William Beebe was quoted as saying that the _Britannica_ was "beyond comparison because there is no competitor."[132] References to the _Britannica_ can be found throughout English literature, most notably in one of Sir Arthur Conan Doyle's favourite Sherlock Holmes stories, "The Red-Headed League". The tale was highlighted by the Lord Mayor of London, Gilbert Inglefield, at the bicentennial of the _Britannica_.[133]
 
@@ -192,7 +192,7 @@ However, Jorge Cauz (president of Encyclopædia Britannica Inc.) asserted in 201
 
 History
 
-Houghton_Typ_705.71.363_Encyclopaedia_Britannica,_1771_-_title_page.jpg Past owners have included, in chronological order, the Edinburgh, Scotland printers Colin Macfarquhar and Andrew Bell, Scottish bookseller Archibald Constable, Scottish publisher A & C Black, Horace Everett Hooper, Sears Roebuck and William Benton.
+Past owners have included, in chronological order, the Edinburgh, Scotland printers Colin Macfarquhar and Andrew Bell, Scottish bookseller Archibald Constable, Scottish publisher A & C Black, Horace Everett Hooper, Sears Roebuck and William Benton.
 
 The present owner of Encyclopædia Britannica Inc. is Jacqui Safra, a Swiss billionaire and actor. Recent advances in information technology and the rise of electronic encyclopaedias such as Encyclopædia Britannica Ultimate Reference Suite, _Encarta_ and Wikipedia have reduced the demand for print encyclopaedias.[170] To remain competitive, Encyclopædia Britannica, Inc. has stressed the reputation of the _Britannica_, reduced its price and production costs, and developed electronic versions on CD-ROM, DVD, and the World Wide Web. Since the early 1930s, the company has promoted spin-off reference works.[171]
 
@@ -204,7 +204,7 @@ Throughout history, the _Britannica_ has had two aims: to be an excellent refere
 
 1768–1826
 
-Rosetta_Stone.jpg article on Egypt, which included the translation of the hieroglyphs on the Rosetta Stone (pictured).]] In the first era (1st–6th editions, 1768–1826), the _Britannica_ was managed and published by its founders, Colin Macfarquhar and Andrew Bell, by Archibald Constable, and by others. The _Britannica_ was first published between December 1768[174] and 1771 in Edinburgh as the _Encyclopædia Britannica, or, A Dictionary of Arts and Sciences, compiled upon a New Plan_. In part, it was conceived in reaction to the French _Encyclopédie_ of Denis Diderot and Jean le Rond d'Alembert (published 1751–72), which had been inspired by Chambers's _Cyclopaedia_ (first edition 1728). It went on sale December 10.[175]
+article on Egypt, which included the translation of the hieroglyphs on the Rosetta Stone (pictured).]] In the first era (1st–6th editions, 1768–1826), the _Britannica_ was managed and published by its founders, Colin Macfarquhar and Andrew Bell, by Archibald Constable, and by others. The _Britannica_ was first published between December 1768[174] and 1771 in Edinburgh as the _Encyclopædia Britannica, or, A Dictionary of Arts and Sciences, compiled upon a New Plan_. In part, it was conceived in reaction to the French _Encyclopédie_ of Denis Diderot and Jean le Rond d'Alembert (published 1751–72), which had been inspired by Chambers's _Cyclopaedia_ (first edition 1728). It went on sale December 10.[175]
 
 The _Britannica_ of this period was primarily a Scottish enterprise, and it is one of the most enduring legacies of the Scottish Enlightenment.[176] In this era, the _Britannica_ moved from being a three-volume set (1st edition) compiled by one young editor—William Smellie[177]—to a 20-volume set written by numerous authorities.[178] Several other encyclopaedias competed throughout this period, among them editions of Abraham Rees's _Cyclopædia_ and Coleridge's _Encyclopædia Metropolitana_ and David Brewster's _Edinburgh Encyclopædia_.
 
@@ -216,13 +216,11 @@ Production of the 9th edition was overseen by Thomas Spencer Baynes, the first E
 
 1901–1973
 
-EncycBrit1913.jpg'']]
+'']]
 
 In the third era (10th–14th editions, 1901–1973), the _Britannica_ was managed by American businessmen who introduced direct marketing and door-to-door sales. The American owners gradually simplified articles, making them less scholarly for a mass market. The 10th edition was a nine-volume supplement to the 9th, but the 11th edition was a completely new work, and is still praised for excellence; its owner, Horace Hooper, lavished enormous effort on its perfection.[184]
 
 When Hooper fell into financial difficulties, the _Britannica_ was managed by Sears Roebuck for 18 years (1920–1923, 1928–1943). In 1932, the vice-president of Sears, Elkan Harrison Powell, assumed presidency of the _Britannica_; in 1936, he began the policy of continuous revision. This was a departure from earlier practice, in which the articles were not changed until a new edition was produced, at roughly 25-year intervals, some articles unchanged from earlier editions.[185] Powell developed new educational products that built upon the _Britannica_{{'}}s reputation.
-
-Shipping_box_for_the_encyclopedia_Britannica_2013-04-13_12-24.jpg
 
 In 1943, Sears donated the to the University of Chicago. William Benton, then a vice president of the University, provided the working capital for its operation. The stock was divided between Benton and the University, with the University holding an option on the stock.[186] Benton became Chairman of the Board and managed the _Britannica_ until his death in 1973.[187] Benton set up the Benton Foundation, which managed the _Britannica_ until 1996. In 1968, near the end of this era, the _Britannica_ celebrated its bicentennial.
 
@@ -236,7 +234,7 @@ On 9 March 1976 the US Federal Trade Commission entered an opinion and order enj
 
 1994–present
 
-Eb_advert_1898.jpg In the fifth era (1994–present), digital versions have been developed and released on optical media and online. In 1996, the _Britannica_ was bought by Jacqui Safra at well below its estimated value, owing to the company's financial difficulties. Encyclopædia Britannica, Inc. split in 1999. One part retained the company name and developed the print version, and the other, Britannica.com Inc., developed digital versions. Since 2001, the two companies have shared a CEO, Ilan Yeshua, who has continued Powell's strategy of introducing new products with the _Britannica_ name. In March 2012, Britannica's president, Jorge Cauz, announced that it would not produce any new print editions of the encyclopaedia, with the 2010 15th edition being the last. The company will focus only on the online edition and other educational tools.[192][193]
+In the fifth era (1994–present), digital versions have been developed and released on optical media and online. In 1996, the _Britannica_ was bought by Jacqui Safra at well below its estimated value, owing to the company's financial difficulties. Encyclopædia Britannica, Inc. split in 1999. One part retained the company name and developed the print version, and the other, Britannica.com Inc., developed digital versions. Since 2001, the two companies have shared a CEO, Ilan Yeshua, who has continued Powell's strategy of introducing new products with the _Britannica_ name. In March 2012, Britannica's president, Jorge Cauz, announced that it would not produce any new print editions of the encyclopaedia, with the 2010 15th edition being the last. The company will focus only on the online edition and other educational tools.[192][193]
 
 _Britannica_{{'}}s final print edition was in 2010, a 32-volume set.[194] _Britannica Global Edition_ was also printed in 2010. It contained 30 volumes and 18,251 pages, with 8,500 photographs, maps, flags, and illustrations in smaller "compact" volumes. It contained over 40,000 articles written by scholars from across the world, including Nobel Prize winners. Unlike the 15th edition, it did not contain and sections, but ran A through Z as all editions up to the 14th had. The following is _Britannica_{{'}}s description of the work:[195]
 

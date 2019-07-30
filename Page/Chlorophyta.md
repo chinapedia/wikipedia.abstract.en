@@ -1,4 +1,4 @@
-Taiwan_2009_East_Coast_ShihTiPing_Giant_Stone_Steps_Algae_FRD_6581.jpg in Taiwan]]
+in Taiwan]]
 
 CHLOROPHYTA or PRASINOPHYTA is a taxon of green algae informally called CHLOROPHYTES.[1] The name is used in two very different senses, so care is needed to determine the use by a particular author. In older classification systems, it refers to a highly paraphyletic group of _all_ the green algae within the green plants (Viridiplantae) and thus includes about 7,000 species[2][3] of mostly aquatic photosynthetic eukaryotic organisms. In newer classifications, it refers to the sister of the streptophytes/charophytes. The clade Streptophyta consists of the Charophyta in which the Embryophyta emerged.[4][5] In this sense the Chlorophyta includes only about 4,300 species.[6] About 90% of all known species live in freshwater.[7] Like the land plants (bryophytes and tracheophytes), green algae contain chlorophyll a and chlorophyll b and store food as starch[8] in their plastids.
 
@@ -12,7 +12,7 @@ Species of Chlorophyta (treated as what is now considered one of the two main cl
 
 Classifications
 
-Haeckel_Siphoneae.jpg's _Kunstformen der Natur_, 1904]]
+'s _Kunstformen der Natur_, 1904]]
 
 Characteristics used for the classification of Chlorophyta are: type of zoid, mitosis (karyokynesis), cytokinesis, organization level, life cycle, type of gametes, cell wall polysaccharides[22] and more recently genetic data.
 

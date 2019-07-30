@@ -17,8 +17,6 @@ The equilibrium constant for this reaction, defined as
 
 has a value close to 10^(−14) at 25 °C, so the concentration of hydroxide ions in pure water is close to 10^(−7) mol∙dm^(−3), in order to satisfy the equal charge constraint. The pH of a solution is equal to the decimal cologarithm of the hydrogen cation concentration;[3] the pH of pure water is close to 7 at ambient temperatures. The concentration of hydroxide ions can be expressed in terms of pOH, which is close to (14 − pH),[4] so the pOH of pure water is also close to 7. Addition of a base to water will reduce the hydrogen cation concentration and therefore increase the hydroxide ion concentration (increase pH, decrease pOH) even if the base does not itself contain hydroxide. For example, ammonia solutions have a pH greater than 7 due to the reaction NH₃ + H⁺ , which decreases the hydrogen cation concentration, which increases the hydroxide ion concentration. pOH can be kept at a nearly constant value with various buffer solutions.
 
-Bihydoxide.png
-
 In aqueous solution[5] the hydroxide ion is a base in the Brønsted–Lowry sense as it can accept a proton[6] from a Brønsted–Lowry acid to form a water molecule. It can also act as a Lewis base by donating a pair of electrons to a Lewis acid. In aqueous solution both hydrogen and hydroxide ions are strongly solvated, with hydrogen bonds between oxygen and hydrogen atoms. Indeed, the bihydroxide ion has been characterized in the solid state. This compound is centrosymmetric and has a very short hydrogen bond (114.5 pm) that is similar to the length in the bifluoride ion (114 pm).[7] In aqueous solution the hydroxide ion forms strong hydrogen bonds with water molecules. A consequence of this is that concentrated solutions of sodium hydroxide have high viscosity due to the formation of an extended network of hydrogen bonds as in hydrogen fluoride solutions.
 
 In solution, exposed to air, the hydroxide ion reacts rapidly with atmospheric carbon dioxide, acting as an acid, to form, initially, the bicarbonate ion.
@@ -69,17 +67,17 @@ The hydroxide of lithium is preferred to that of sodium because of its lower mas
 
 Alkaline earth metals
 
-Beryllium_trimer.png BeHydrolysis.png Beryllium hydroxide Be(OH)₂ is amphoteric.[20] The hydroxide itself is insoluble in water, with a solubility product log _K_*_(sp) of −11.7. Addition of acid gives soluble hydrolysis products, including the trimeric ion [Be₃(OH)₃(H₂O)₆]³⁺, which has OH groups bridging between pairs of beryllium ions making a 6-membered ring.[21] At very low pH the aqua ion [Be(H₂O)₄]²⁺ is formed. Addition of hydroxide to Be(OH)₂ gives the soluble tetrahydroxoberyllate/tetrahydroxidoberyllate anion, [Be(OH)₄]^(2−).
+Beryllium hydroxide Be(OH)₂ is amphoteric.[20] The hydroxide itself is insoluble in water, with a solubility product log _K_*_(sp) of −11.7. Addition of acid gives soluble hydrolysis products, including the trimeric ion [Be₃(OH)₃(H₂O)₆]³⁺, which has OH groups bridging between pairs of beryllium ions making a 6-membered ring.[21] At very low pH the aqua ion [Be(H₂O)₄]²⁺ is formed. Addition of hydroxide to Be(OH)₂ gives the soluble tetrahydroxoberyllate/tetrahydroxidoberyllate anion, [Be(OH)₄]^(2−).
 
 The solubility in water of the other hydroxides in this group increases with increasing atomic number.[22] Magnesium hydroxide Mg(OH)₂ is a strong base (up to the limit of its solubility, which is very low in pure water), as are the hydroxides of the heavier alkaline earths: calcium hydroxide, strontium hydroxide, and barium hydroxide. A solution or suspension of calcium hydroxide is known as limewater and can be used to test for the weak acid carbon dioxide. The reaction Ca(OH)₂ + CO₂ Ca²⁺ + + OH^(−) illustrates the basicity of calcium hydroxide. Soda lime, which is a mixture of the strong bases NaOH and KOH with Ca(OH)₂, is used as a CO₂ absorbent.
 
 Boron group elements
 
-AlHydrolysis.png The simplest hydroxide of boron B(OH)₃, known as boric acid, is an acid. Unlike the hydroxides of the alkali and alkaline earth hydroxides, it does not dissociate in aqueous solution. Instead, it reacts with water molecules acting as a Lewis acid, releasing protons.
+The simplest hydroxide of boron B(OH)₃, known as boric acid, is an acid. Unlike the hydroxides of the alkali and alkaline earth hydroxides, it does not dissociate in aqueous solution. Instead, it reacts with water molecules acting as a Lewis acid, releasing protons.
 
     B(OH)₃ + H₂O {{chem + H⁺
 
-A variety of oxyanions of boron are known, which, in the protonated form, contain hydroxide groups.[23] Tetrahydroxoaluminate_ion.svg Aluminium hydroxide Al(OH)₃ is amphoteric and dissolves in alkaline solution.[24]
+A variety of oxyanions of boron are known, which, in the protonated form, contain hydroxide groups.[23] Aluminium hydroxide Al(OH)₃ is amphoteric and dissolves in alkaline solution.[24]
 
     Al(OH)₃ (solid) + OH^(−) (aq) {{chem (aq)
 
@@ -104,10 +102,10 @@ Hydrolysis of Pb²⁺ in aqueous solution is accompanied by the formation of var
 
 Other main-group elements
 
-  ----------------------------------- ----------------------------------- --------------------------------- ------------------- ----------------------- ----------------
-  Phosphonic-acid-2D-dimensions.png   Phosphoric-acid-2D-dimensions.png   Sulfuric-acid-2D-dimensions.svg   Telluric_acid.svg   Ortho-Periodsäure.svg   Xenic_acid.png
-  Phosphorous acid                    Phosphoric acid                     Sulfuric acid                     Telluric acid       _Ortho_-periodic acid   Xenic acid
-  ----------------------------------- ----------------------------------- --------------------------------- ------------------- ----------------------- ----------------
+  ------------------ ----------------- --------------- --------------- ----------------------- ------------
+
+  Phosphorous acid   Phosphoric acid   Sulfuric acid   Telluric acid   _Ortho_-periodic acid   Xenic acid
+  ------------------ ----------------- --------------- --------------- ----------------------- ------------
 
 In the higher oxidation states of the pnictogens, chalcogens, halogens, and noble gases there are oxoacids in which the central atom is attached to oxide ions and hydroxide ions. Examples include phosphoric acid H₃PO₄, and sulfuric acid H₂SO₄. In these compounds one or more hydroxide groups can dissociate with the liberation of hydrogen cations as in a standard Brønsted–Lowry acid. Many oxoacids of sulfur are known and all feature OH groups that can dissociate.[35]
 
@@ -168,7 +166,7 @@ to produce the ethoxide ion. The pK_(a) for self-dissociation of ethanol is abou
 
 As a nucleophilic reagent
 
-AcylSubstitution.svg (Nu) and leaving group (L)]] The hydroxide ion is intermediate in nucleophilicity between the fluoride ion F^(−), and the amide ion .[65] The hydrolysis of an ester
+(Nu) and leaving group (L)]] The hydroxide ion is intermediate in nucleophilicity between the fluoride ion F^(−), and the amide ion .[65] The hydrolysis of an ester
 
     R¹C(O)OR² + H₂O R¹C(O)OH + HOR²
 

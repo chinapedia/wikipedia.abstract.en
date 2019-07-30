@@ -1,4 +1,4 @@
-DiffusionMicroMacro.gif molecules on the left side of a barrier (purple line) and none on the right. The barrier is removed, and the solute diffuses to fill the whole container. Top: A single molecule moves around randomly. Middle: With more molecules, there is a clear trend where the solute fills the container more and more uniformly. Bottom: With an enormous number of solute molecules, all randomness is gone: The solute appears to move smoothly and systematically from high-concentration areas to low-concentration areas, following Fick's laws.]]
+molecules on the left side of a barrier (purple line) and none on the right. The barrier is removed, and the solute diffuses to fill the whole container. Top: A single molecule moves around randomly. Middle: With more molecules, there is a clear trend where the solute fills the container more and more uniformly. Bottom: With an enormous number of solute molecules, all randomness is gone: The solute appears to move smoothly and systematically from high-concentration areas to low-concentration areas, following Fick's laws.]]
 
 MOLECULAR DIFFUSION, often simply called DIFFUSION, is the thermal motion of all (liquid or gas) particles at temperatures above absolute zero. The rate of this movement is a function of temperature, viscosity of the fluid and the size (mass) of the particles. Diffusion explains the net flux of molecules from a region of higher concentration to one of lower concentration. Once the concentrations are equal the molecules continue to move, but since there is no concentration gradient the process of molecular diffusion has ceased and is instead governed by the process of self-diffusion, originating from the random motion of the molecules. The result of diffusion is a gradual mixing of material such that the distribution of molecules is uniform. Since the molecules are still in motion, but an equilibrium has been established, the end result of molecular diffusion is called a "dynamic equilibrium". In a phase with uniform temperature, absent external net forces acting on the particles, the diffusion process will eventually result in complete mixing.
 
@@ -20,7 +20,7 @@ Diffusion is of fundamental importance in many disciplines of physics, chemistry
 
 Significance
 
-Diffusion_(1).png Diffusion is part of the transport phenomena. Of mass transport mechanisms, molecular diffusion is known as a slower one.
+Diffusion is part of the transport phenomena. Of mass transport mechanisms, molecular diffusion is known as a slower one.
 
 Biology
 
@@ -31,7 +31,7 @@ Metabolism and respiration rely in part upon diffusion in addition to bulk or ac
 
 Tracer, self- and chemical diffusion
 
-Diffusion_self1.svg Diffusion4.svg Fundamentally, two types of diffusion are distinguished:
+Fundamentally, two types of diffusion are distinguished:
 
 -   _Tracer diffusion_ and _Self-diffusion_, which is a spontaneous mixing of molecules taking place in the absence of concentration (or chemical potential) gradient. This type of diffusion can be followed using isotopic tracers, hence the name. The tracer diffusion is usually assumed to be identical to self-diffusion (assuming no significant isotopic effect). This diffusion can take place under equilibrium. An excellent method for the measurement of self-diffusion coefficients is pulsed field gradient (PFG) NMR, where no isotopic tracers are needed. In a so-called NMR spin echo experiment this technique uses the nuclear spin precession phase, allowing to distinguish chemically and physically completely identical species e.g. in the liquid phase, as for example water molecules within liquid water. The self-diffusion coefficient of water has been experimentally determined with high accuracy and thus serves often as a reference value for measurements on other liquids. The self-diffusion coefficient of neat water is: 2.299·10^(−9) m²·s^(−1) at 25 °C and 1.261·10^(−9) m²·s^(−1) at 4 °C.[2]
 -   _Chemical diffusion_ occurs in a presence of concentration (or chemical potential) gradient and it results in net transport of mass. This is the process described by the diffusion equation. This diffusion is always a non-equilibrium process, increases the system entropy, and brings the system closer to equilibrium.
@@ -41,7 +41,7 @@ The diffusion coefficients for these two types of diffusion are generally differ
 
 Non-equilibrium system
 
-entropie.svg Because chemical diffusion is a net transport process, the system in which it takes place is not an equilibrium system (i.e. it is not at rest yet). Many results in classical thermodynamics are not easily applied to non-equilibrium systems. However, there sometimes occur so-called quasi-steady states, where the diffusion process does not change in time, where classical results may locally apply. As the name suggests, this process is a not a true equilibrium since the system is still evolving.
+Because chemical diffusion is a net transport process, the system in which it takes place is not an equilibrium system (i.e. it is not at rest yet). Many results in classical thermodynamics are not easily applied to non-equilibrium systems. However, there sometimes occur so-called quasi-steady states, where the diffusion process does not change in time, where classical results may locally apply. As the name suggests, this process is a not a true equilibrium since the system is still evolving.
 
 Non-equilibrium fluid systems can be successfully modeled with Landau-Lifshitz fluctuating hydrodynamics. In this theoretical framework, diffusion is due to fluctuations whose dimensions range from the molecular scale to the macroscopic scale.[3]
 

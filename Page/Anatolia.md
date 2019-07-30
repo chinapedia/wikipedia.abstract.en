@@ -7,7 +7,7 @@ The ancient inhabitants of Anatolia spoke the now-extinct Anatolian languages, w
 
 Geography
 
-Modern-day_Turkey_and_Europe_NASA_modified.png (within the rectangle) in reference to the European continent. Anatolia roughly corresponds to the Asian part of Turkey]] 1907_map_of_Asia_Minor-Atlas_of_Ancient_and_Classical_Geography_by_Samuel_Butler.jpg and the island of Cyprus to Anatolia's continental shelf.]]
+(within the rectangle) in reference to the European continent. Anatolia roughly corresponds to the Asian part of Turkey]] and the island of Cyprus to Anatolia's continental shelf.]]
 
 Traditionally, Anatolia is considered to extend in the east to an indefinite line running from the Gulf of Alexandretta to the Black Sea,[5] coterminous with the Anatolian Plateau. This traditional geographical definition is used, for example, in the latest edition of _Merriam-Webster's Geographical Dictionary_,[6] Under this definition, Anatolia is bounded to the east by the Armenian Highlands, and the Euphrates before that river bends to the southeast to enter Mesopotamia.[7] To the southeast, it is bounded by the ranges that separate it from the Orontes valley in Syria (region) and the Mesopotamian plain.[8]
 
@@ -40,7 +40,7 @@ History
 
 Prehistory
 
-Museum_of_Anatolian_Civilizations003.jpg, a deer, and humans in Çatalhöyük, which is the largest and best-preserved Neolithic site found to date. It was registered as a UNESCO World Heritage Site in 2012.[26]]]
+, a deer, and humans in Çatalhöyük, which is the largest and best-preserved Neolithic site found to date. It was registered as a UNESCO World Heritage Site in 2012.[26]]]
 
 Human habitation in Anatolia dates back to the Paleolithic.[27] Neolithic Anatolia has been proposed as the homeland of the Indo-European language family, although linguists tend to favour a later origin in the steppes north of the Black Sea. However, it is clear that the Anatolian languages, the earliest attested branch of Indo-European, have been spoken in Anatolia since at least the 19th century BC.
 
@@ -56,7 +56,7 @@ After the fall of the Akkadian Empire in the mid-21st century BC, the Assyrians,
 
 Hittite Kingdom and Empire (17th–12th centuries BC)
 
-Lion_Gate,_Hattusa_01.jpg, capital of the Hittite Empire. The city's history dates to before 2000 BC.]] Unlike the Akkadians and their descendants, the Assyrians, whose Anatolian possessions were peripheral to their core lands in Mesopotamia, the Hittites were centred at Hattusa (modern Boğazkale) in north-central Anatolia by the 17th century BC. They were speakers of an Indo-European language, the Hittite language, or _nesili_ (the language of Nesa) in Hittite. The Hittites originated of local ancient cultures that grew in Anatolia, in addition to the arrival of Indo-European languages. Attested for the first time in the Assyrian tablets of Nesa around 2000BC, they conquered Hattusa in the 18th century BC, imposing themselves over Hattian- and Hurrian-speaking populations. According to the widely accepted Kurgan theory on the Proto-Indo-European homeland, however, the Hittites (along with the other Indo-European ancient Anatolians) were themselves relatively recent immigrants to Anatolia from the north. However, they did not necessarily displace the population genetically, they would rather assimilate into the former peoples' culture, preserving the Hittite language however.
+, capital of the Hittite Empire. The city's history dates to before 2000 BC.]] Unlike the Akkadians and their descendants, the Assyrians, whose Anatolian possessions were peripheral to their core lands in Mesopotamia, the Hittites were centred at Hattusa (modern Boğazkale) in north-central Anatolia by the 17th century BC. They were speakers of an Indo-European language, the Hittite language, or _nesili_ (the language of Nesa) in Hittite. The Hittites originated of local ancient cultures that grew in Anatolia, in addition to the arrival of Indo-European languages. Attested for the first time in the Assyrian tablets of Nesa around 2000BC, they conquered Hattusa in the 18th century BC, imposing themselves over Hattian- and Hurrian-speaking populations. According to the widely accepted Kurgan theory on the Proto-Indo-European homeland, however, the Hittites (along with the other Indo-European ancient Anatolians) were themselves relatively recent immigrants to Anatolia from the north. However, they did not necessarily displace the population genetically, they would rather assimilate into the former peoples' culture, preserving the Hittite language however.
 
 The Hittites adopted the cuneiform script, invented in Mesopotamia. During the Late Bronze Age circa 1650 BC, they created a kingdom, the Hittite New Kingdom, which became an empire in the 14th century BC after the conquest of Kizzuwatna in the south-east and the defeat of the Assuwa league in western Anatolia. The empire reached its height in the 13th century BC, controlling much of Asia Minor, northwestern Syria and northwest upper Mesopotamia. They failed to reach the Anatolian coasts of the Black Sea, however, as a non-Indo-European people, the semi-nomadic pastoralist and tribal Kaskians, had established themselves there, displacing earlier Palaic-speaking Indo-Europeans.[31] Much of the history of the Hittite Empire concerned war with the rival empires of Egypt, Assyria and the Mitanni.[32]
 
@@ -72,7 +72,7 @@ ARAMEANS encroached over the borders of south central Anatolia in the century or
 
     LUWIANS
 
-Dalyan_-_Caunos2.JPG (Dalyan)]] Another Indo-European people, the Luwians, rose to prominence in central and western Anatolia circa 2000 BC. Their language belonged to the same linguistic branch as Hittite.[36] The general consensus amongst scholars is that Luwian was spoken across a large area of western Anatolia, including (possibly) Wilusa (Troy), the Seha River Land (to be identified with the Hermos and/or Kaikos valley), and the kingdom of Mira-Kuwaliya with its core territory of the Maeander valley.[37] From the 9th century BC, Luwian regions coalesced into a number of states such as Lydia, Caria and Lycia, all of which had Hellenic influence.
+(Dalyan)]] Another Indo-European people, the Luwians, rose to prominence in central and western Anatolia circa 2000 BC. Their language belonged to the same linguistic branch as Hittite.[36] The general consensus amongst scholars is that Luwian was spoken across a large area of western Anatolia, including (possibly) Wilusa (Troy), the Seha River Land (to be identified with the Hermos and/or Kaikos valley), and the kingdom of Mira-Kuwaliya with its core territory of the Maeander valley.[37] From the 9th century BC, Luwian regions coalesced into a number of states such as Lydia, Caria and Lycia, all of which had Hellenic influence.
 
 Neo-Assyrian Empire (10th–7th centuries BC)
 
@@ -86,13 +86,13 @@ From the late 8th century BC, a new wave of Indo-European-speaking raiders enter
 
 Greek West
 
-Achaemenid_Satrap_Asia_Minor_end_of_6th_century_BCE.jpg Satrap of Asia Minor (Heraclea, in Bithynia), end of 6th century BCE, probably under Darius I.[38]]] The north-western coast of Anatolia was inhabited by Greeks of the Achaean/Mycenaean culture from the 20th century BC, related to the Greeks of south eastern Europe and the Aegean.[39] Beginning with the Bronze Age collapse at the end of the 2nd millennium BC, the west coast of Anatolia was settled by Ionian Greeks, usurping the area of the related but earlier Mycenaean Greeks. Over several centuries, numerous Ancient Greek city-states were established on the coasts of Anatolia. Greeks started Western philosophy on the western coast of Anatolia (Pre-Socratic philosophy).[40]
+Satrap of Asia Minor (Heraclea, in Bithynia), end of 6th century BCE, probably under Darius I.[38]]] The north-western coast of Anatolia was inhabited by Greeks of the Achaean/Mycenaean culture from the 20th century BC, related to the Greeks of south eastern Europe and the Aegean.[39] Beginning with the Bronze Age collapse at the end of the 2nd millennium BC, the west coast of Anatolia was settled by Ionian Greeks, usurping the area of the related but earlier Mycenaean Greeks. Over several centuries, numerous Ancient Greek city-states were established on the coasts of Anatolia. Greeks started Western philosophy on the western coast of Anatolia (Pre-Socratic philosophy).[40]
 
 Classical Antiquity
 
-Asia_Minor_in_the_Greco-Roman_period_-_general_map_-_regions_and_main_settlements.jpg Asia_Minor_in_the_2nd_century_AD_-_general_map_-_Roman_provinces_under_Trajan_-_bleached_-_English_legend.jpg Templeofathenaprienemay2007.jpg (funded by Alexander the Great) in the ancient Greek city of Priene]] In classical antiquity, Anatolia was described by Herodotus and later historians as divided into regions that were diverse in culture, language and religious practices.[41] The northern regions included Bithynia, Paphlagonia and Pontus; to the west were Mysia, Lydia and Caria; and Lycia, Pamphylia and Cilicia belonged to the southern shore. There were also several inland regions: Phrygia, Cappadocia, Pisidia and Galatia.[42]
+(funded by Alexander the Great) in the ancient Greek city of Priene]] In classical antiquity, Anatolia was described by Herodotus and later historians as divided into regions that were diverse in culture, language and religious practices.[41] The northern regions included Bithynia, Paphlagonia and Pontus; to the west were Mysia, Lydia and Caria; and Lycia, Pamphylia and Cilicia belonged to the southern shore. There were also several inland regions: Phrygia, Cappadocia, Pisidia and Galatia.[42]
 
-Dying_gaul.jpg'' was a famous statue commissioned some time between 230–220 BC by King Attalos I of Pergamon to honor his victory over the Celtic Galatians in Anatolia.]]
+'' was a famous statue commissioned some time between 230–220 BC by King Attalos I of Pergamon to honor his victory over the Celtic Galatians in Anatolia.]]
 
 Anatolia is known as the birthplace of minted coinage (as opposed to unminted coinage, which first appears in Mesopotamia at a much earlier date) as a medium of exchange, some time in the 7th century BC in Lydia. The use of minted coins continued to flourish during the Greek and Roman eras.[43][44]
 
@@ -100,7 +100,7 @@ During the 6th century BC, all of Anatolia was conquered by the Persian Achaemen
 
 In 334 BC, the Macedonian Greek king Alexander the Great conquered the peninsula from the Achaemenid Persian Empire.[47] Alexander's conquest opened up the interior of Asia Minor to Greek settlement and influence.
 
-Nemrut_Dağı_12.jpg Kings on Mount Nemrut (1st century BC)]] Following the death of Alexander and the breakup of his empire, Anatolia was ruled by a series of Hellenistic kingdoms, such as the Attalids of Pergamum and the Seleucids, the latter controlling most of Anatolia. A period of peaceful Hellenization followed, such that the local Anatolian languages had been supplanted by Greek by the 1st century BC. In 133 BC the last Attalid king bequeathed his kingdom to the Roman Republic, and western and central Anatolia came under Roman control, but Hellenistic culture remained predominant. Further annexations by Rome, in particular of the Kingdom of Pontus by Pompey, brought all of Anatolia under Roman control, except for the eastern frontier with the Parthian Empire, which remained unstable for centuries, causing a series of wars, culminating in the Roman-Parthian Wars.
+Kings on Mount Nemrut (1st century BC)]] Following the death of Alexander and the breakup of his empire, Anatolia was ruled by a series of Hellenistic kingdoms, such as the Attalids of Pergamum and the Seleucids, the latter controlling most of Anatolia. A period of peaceful Hellenization followed, such that the local Anatolian languages had been supplanted by Greek by the 1st century BC. In 133 BC the last Attalid king bequeathed his kingdom to the Roman Republic, and western and central Anatolia came under Roman control, but Hellenistic culture remained predominant. Further annexations by Rome, in particular of the Kingdom of Pontus by Pompey, brought all of Anatolia under Roman control, except for the eastern frontier with the Parthian Empire, which remained unstable for centuries, causing a series of wars, culminating in the Roman-Parthian Wars.
 
 Early Christian Period
 
@@ -112,7 +112,7 @@ In the ninth and tenth century a resurgent Byzantine Empire regained its lost te
 
 Late Medieval Period
 
-Asia_Minor_ca_842_AD.svg and the Byzantine-Arab frontier zone in the mid-9th century]] Anatolia1300.png
+and the Byzantine-Arab frontier zone in the mid-9th century]]
 
 In the 10 years following the Battle of Manzikert in 1071, the Seljuk Turks from Central Asia migrated over large areas of Anatolia, with particular concentrations around the northwestern rim.[49] The Turkish language and the Islamic religion were gradually introduced as a result of the Seljuk conquest, and this period marks the start of Anatolia's slow transition from predominantly Christian and Greek-speaking, to predominantly Muslim and Turkish-speaking (although ethnic groups such as Armenians, Greeks, and Assyrians remained numerous and retained Christianity and their native languages). In the following century, the Byzantines managed to reassert their control in western and northern Anatolia. Control of Anatolia was then split between the Byzantine Empire and the Seljuk Sultanate of Rûm, with the Byzantine holdings gradually being reduced.[50]
 
@@ -125,8 +125,6 @@ Ottoman Empire
 Among the Turkish leaders, the Ottomans emerged as great power under Osman I and his son Orhan I.[59][60] The Anatolian beyliks were successively absorbed into the rising Ottoman Empire during the 15th century.[61] It is not well understood how the Osmanlı, or Ottoman Turks, came to dominate their neighbours, as the history of medieval Anatolia is still little known.[62] The Ottomans completed the conquest of the peninsula in 1517 with the taking of Halicarnassus (modern Bodrum) from the Knights of Saint John.[63]
 
 Modern times
-
-Ethnicturkey1911.jpg
 
 With the acceleration of the decline of the Ottoman Empire in the early 19th century, and as a result of the expansionist policies of the Russian Empire in the Caucasus, many Muslim nations and groups in that region, mainly Circassians, Tatars, Azeris, Lezgis, Chechens and several Turkic groups left their homelands and settled in Anatolia. As the Ottoman Empire further shrank in the Balkan regions and then fragmented during the Balkan Wars, much of the non-Christian populations of its former possessions, mainly Balkan Muslims (Bosnian Muslims, Albanians, Turks, Muslim Bulgarians and Greek Muslims such as the Vallahades from Greek Macedonia), were resettled in various parts of Anatolia, mostly in formerly Christian villages throughout Anatolia.
 

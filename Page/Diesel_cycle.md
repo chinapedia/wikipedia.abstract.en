@@ -5,7 +5,7 @@ The Diesel cycle is assumed to have constant pressure during the initial part of
 
 Idealized Diesel cycle
 
-DieselCycle_PV.svg for the ideal DIESEL CYCLE. The cycle follows the numbers 1-4 in clockwise direction.]]
+for the ideal DIESEL CYCLE. The cycle follows the numbers 1-4 in clockwise direction.]]
 
 The image shows a p-V diagram for the ideal Diesel cycle; where p is pressure and V the volume or v the specific volume if the process is placed on a unit mass basis. The _idealized_ Diesel cycle assumes an ideal gas and ignores combustion chemistry, exhaust- and recharge procedures and simply follows four distinct processes:
 

@@ -18,7 +18,7 @@ Host's welcoming speech
 
 The host says a few words welcoming everyone to the supper and perhaps stating the reason for it.[5]
 
-All the guests are seated and grace is said, usually using the _Selkirk Grace_, a well-known thanksgiving said before meals that uses the Scots language. Although attributed to Burns, the Selkirk Grace was already known in the 17th century as the "Galloway Grace" or the "Covenanters' Grace". It came to be called the Selkirk Grace because Burns was said to have delivered it at a dinner given by the Earl of Selkirk. RCMP_Pipe_Band_piping_in_the_Haggus.JPG]]
+All the guests are seated and grace is said, usually using the _Selkirk Grace_, a well-known thanksgiving said before meals that uses the Scots language. Although attributed to Burns, the Selkirk Grace was already known in the 17th century as the "Galloway Grace" or the "Covenanters' Grace". It came to be called the Selkirk Grace because Burns was said to have delivered it at a dinner given by the Earl of Selkirk. ]]
 
 Selkirk Grace
 
@@ -35,7 +35,7 @@ Haggis
 
 Piping of haggis
 
-Everyone stands as the haggis is brought in. It is usually brought in by the cook on a large dish, generally while a bagpiper leads the way to the host's table, where the haggis is laid down. "A Man's A Man for A' That", "Robbie Burns Medley" or "The Star O' Robbie Burns" might be played.[7] The host, or perhaps a guest, then recites the '' Address to a Haggis''. Great_chieftain_o'_the_puddin-race.JPG Bob_Purdie_addressing_haggis_20040124.jpg]]
+Everyone stands as the haggis is brought in. It is usually brought in by the cook on a large dish, generally while a bagpiper leads the way to the host's table, where the haggis is laid down. "A Man's A Man for A' That", "Robbie Burns Medley" or "The Star O' Robbie Burns" might be played.[7] The host, or perhaps a guest, then recites the '' Address to a Haggis''. ]]
 
 _Address to a Haggis_
 
@@ -103,7 +103,7 @@ At the line _His knife see rustic Labour dicht_, the speaker normally draws and 
 
 Main course
 
-Haggis.JPG A_haggis_serving.JPG At the end of the poem, a whisky toast will be proposed to the haggis, and the company will sit down to the meal. The haggis is traditionally served with mashed potatoes (tatties) and mashed swede (neeps).[8]
+At the end of the poem, a whisky toast will be proposed to the haggis, and the company will sit down to the meal. The haggis is traditionally served with mashed potatoes (tatties) and mashed swede (neeps).[8]
 
 Other courses
 

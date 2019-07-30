@@ -28,7 +28,7 @@ Career and later life
 
 Early screenplays (1940–1943)
 
-Federico_Fellini.jpg Retained on business in Rimini, Urbano sent wife and family to Rome in 1940 to share an apartment with his son. Fellini and Ruggero Maccari, also on the staff of _Marc’Aurelio_, began writing radio sketches and gags for films.
+Retained on business in Rimini, Urbano sent wife and family to Rome in 1940 to share an apartment with his son. Fellini and Ruggero Maccari, also on the staff of _Marc’Aurelio_, began writing radio sketches and gags for films.
 
 Not yet twenty and with Fabrizi's help, Fellini obtained his first screen credit as a comedy writer on Mario Mattoli’s _Il pirata sono io_ (_The Pirate's Dream_). Progressing rapidly to numerous collaborations on films at Cinecittà, his circle of professional acquaintances widened to include novelist Vitaliano Brancati and scriptwriter Piero Tellini. In the wake of Mussolini’s declaration of war against France and Britain on 10 June 1940, Fellini discovered Kafka’s _The Metamorphosis_, Gogol, John Steinbeck and William Faulkner along with French films by Marcel Carné, René Clair, and Julien Duvivier.[14] In 1941 he published _Il mio amico Pasqualino_, a 74-page booklet in ten chapters describing the absurd adventures of Pasqualino, an alter ego.[15]
 
@@ -46,7 +46,7 @@ Working as both screenwriter and assistant director on Rossellini's _Paisà_ (_P
 
 Early films (1950–1953)
 
-Fellini_masina_delpoggio_lattuada_1952.jpg In 1950 Fellini co-produced and co-directed with Alberto Lattuada _Variety Lights_ (_Luci del varietà_), his first feature film. A backstage comedy set among the world of small-time travelling performers, it featured Giulietta Masina and Lattuada's wife, Carla del Poggio. Its release to poor reviews and limited distribution proved disastrous for all concerned. The production company went bankrupt, leaving both Fellini and Lattuada with debts to pay for over a decade.[23] In February 1950, _Paisà_ received an Oscar nomination for the screenplay by Rossellini, Sergio Amidei, and Fellini.
+In 1950 Fellini co-produced and co-directed with Alberto Lattuada _Variety Lights_ (_Luci del varietà_), his first feature film. A backstage comedy set among the world of small-time travelling performers, it featured Giulietta Masina and Lattuada's wife, Carla del Poggio. Its release to poor reviews and limited distribution proved disastrous for all concerned. The production company went bankrupt, leaving both Fellini and Lattuada with debts to pay for over a decade.[23] In February 1950, _Paisà_ received an Oscar nomination for the screenplay by Rossellini, Sergio Amidei, and Fellini.
 
 After travelling to Paris for a script conference with Rossellini on _Europa '51_, Fellini began production on _The White Sheik_ in September 1951, his first solo-directed feature. Starring Alberto Sordi in the title role, the film is a revised version of a treatment first written by Michelangelo Antonioni in 1949 and based on the _fotoromanzi_, the photographed cartoon strip romances popular in Italy at the time. Producer Carlo Ponti commissioned Fellini and Tullio Pinelli to write the script but Antonioni rejected the story they developed. With Ennio Flaiano, they re-worked the material into a light-hearted satire about newlywed couple Ivan and Wanda Cavalli (Leopoldo Trieste, Brunella Bovo) in Rome to visit the Pope. Ivan's prissy mask of respectability is soon demolished by his wife's obsession with the White Sheik. Highlighting the music of Nino Rota, the film was selected at Cannes (among the films in competition was Orson Welles’s _Othello_) and then retracted. Screened at the 13th Venice International Film Festival, it was razzed by critics in "the atmosphere of a soccer match”.[24] One reviewer declared that Fellini had “not the slightest aptitude for cinema direction".
 
@@ -54,7 +54,7 @@ In 1953, _I Vitelloni_ found favour with the critics and public. Winning the Sil
 
 Beyond neorealism (1954–1960)
 
-Cinecittà_-_Teatro_5.jpg - Teatro 5, Fellini's favorite studio[25]]]
+- Teatro 5, Fellini's favorite studio[25]]]
 
 Fellini directed _La Strada_ based on a script completed in 1952 with Pinelli and Flaiano. During the last three weeks of shooting, Fellini experienced the first signs of severe clinical depression.[26] Aided by his wife, he undertook a brief period of therapy with Freudian psychoanalyst Emilio Servadio.[27]
 
@@ -74,7 +74,7 @@ _La Dolce Vita_ broke all box office records. Despite scalpers selling tickets a
 
 Art films and dreams (1961–1969)
 
-Federico_Fellini_in_the_Seventies.jpg A major discovery for Fellini after his Italian neorealism period (1950–1959) was the work of Carl Jung. After meeting Jungian psychoanalyst Dr. Ernst Bernhard in early 1960, he read Jung's autobiography, _Memories, Dreams, Reflections_ (1963) and experimented with LSD.[38] Bernhard also recommended that Fellini consult the _I Ching_ and keep a record of his dreams. What Fellini formerly accepted as "his extrasensory perceptions"[39] were now interpreted as psychic manifestations of the unconscious. Bernhard's focus on Jungian depth psychology proved to be the single greatest influence on Fellini's mature style and marked the turning point in his work from neorealism to filmmaking that was "primarily oneiric".[40] As a consequence, Jung's seminal ideas on the _anima_ and the _animus_, the role of archetypes and the collective unconscious directly influenced such films as _8½_ (1963), _Juliet of the Spirits_ (1965), _Fellini Satyricon_ (1969), _Casanova_ (1976), and _City of Women_ (1980).[41] Other key influences on his work include Luis Buñuel,[42] Charlie Chaplin,[43] Sergei Eisenstein,[44] Buster Keaton,[45] Laurel and Hardy,[46] the Marx Brothers,[47] and Roberto Rossellini.[48]
+A major discovery for Fellini after his Italian neorealism period (1950–1959) was the work of Carl Jung. After meeting Jungian psychoanalyst Dr. Ernst Bernhard in early 1960, he read Jung's autobiography, _Memories, Dreams, Reflections_ (1963) and experimented with LSD.[38] Bernhard also recommended that Fellini consult the _I Ching_ and keep a record of his dreams. What Fellini formerly accepted as "his extrasensory perceptions"[39] were now interpreted as psychic manifestations of the unconscious. Bernhard's focus on Jungian depth psychology proved to be the single greatest influence on Fellini's mature style and marked the turning point in his work from neorealism to filmmaking that was "primarily oneiric".[40] As a consequence, Jung's seminal ideas on the _anima_ and the _animus_, the role of archetypes and the collective unconscious directly influenced such films as _8½_ (1963), _Juliet of the Spirits_ (1965), _Fellini Satyricon_ (1969), _Casanova_ (1976), and _City of Women_ (1980).[41] Other key influences on his work include Luis Buñuel,[42] Charlie Chaplin,[43] Sergei Eisenstein,[44] Buster Keaton,[45] Laurel and Hardy,[46] the Marx Brothers,[47] and Roberto Rossellini.[48]
 
 Exploiting _La Dolce Vita_’s success, financier Angelo Rizzoli set up Federiz in 1960, an independent film company, for Fellini and production manager Clemente Fracassi to discover and produce new talent. Despite the best intentions, their overcautious editorial and business skills forced the company to close down soon after cancelling Pasolini’s project, _Accattone_ (1961).[49]
 
@@ -94,7 +94,7 @@ Fellini's hallucinatory insights were given full flower in his first colour feat
 
 Nostalgia, sexuality, and politics (1970–1980)
 
-Bruno_Zanin_&Fellini.JPG on the set of _Amarcord_ in 1973]] To help promote _Satyricon_ in the United States, Fellini flew to Los Angeles in January 1970 for interviews with Dick Cavett and David Frost. He also met with film director Paul Mazursky who wanted to star him alongside Donald Sutherland in his new film, _Alex in Wonderland_.[61] In February, Fellini scouted locations in Paris for _The Clowns_, a docufiction both for cinema and television, based on his childhood memories of the circus and a "coherent theory of clowning."[62] As he saw it, the clown "was always the caricature of a well-established, ordered, peaceful society. But today all is temporary, disordered, grotesque. Who can still laugh at clowns?... All the world plays a clown now."[63]
+on the set of _Amarcord_ in 1973]] To help promote _Satyricon_ in the United States, Fellini flew to Los Angeles in January 1970 for interviews with Dick Cavett and David Frost. He also met with film director Paul Mazursky who wanted to star him alongside Donald Sutherland in his new film, _Alex in Wonderland_.[61] In February, Fellini scouted locations in Paris for _The Clowns_, a docufiction both for cinema and television, based on his childhood memories of the circus and a "coherent theory of clowning."[62] As he saw it, the clown "was always the caricature of a well-established, ordered, peaceful society. But today all is temporary, disordered, grotesque. Who can still laugh at clowns?... All the world plays a clown now."[63]
 
 In March 1971, Fellini began production on _Roma_, a seemingly random collection of episodes informed by the director's memories and impressions of Rome. The "diverse sequences," writes Fellini scholar Peter Bondanella, "are held together only by the fact that they all ultimately originate from the director’s fertile imagination."[64] The film's opening scene anticipates _Amarcord_ while its most surreal sequence involves an ecclesiastical fashion show in which nuns and priests roller skate past shipwrecks of cobwebbed skeletons.
 
@@ -102,11 +102,11 @@ Over a period of six months between January and June 1973, Fellini shot the Osca
 
 Late films and projects (1981–1990)
 
-Sandro_Pertini_David_Donatello.jpg receiving a David di Donatello Award from Fellini in 1985]] Organized by his publisher Diogenes Verlag in 1982, the first major exhibition of 63 drawings by Fellini was held in Paris, Brussels, and the Pierre Matisse Gallery in New York.[69] A gifted caricaturist, much of the inspiration for his sketches was derived from his own dreams while the films-in-progress both originated from and stimulated drawings for characters, decor, costumes and set designs. Under the title, _I disegni di Fellini_ (Fellini's Designs), he published 350 drawings executed in pencil, watercolours, and felt pens.[70]
+receiving a David di Donatello Award from Fellini in 1985]] Organized by his publisher Diogenes Verlag in 1982, the first major exhibition of 63 drawings by Fellini was held in Paris, Brussels, and the Pierre Matisse Gallery in New York.[69] A gifted caricaturist, much of the inspiration for his sketches was derived from his own dreams while the films-in-progress both originated from and stimulated drawings for characters, decor, costumes and set designs. Under the title, _I disegni di Fellini_ (Fellini's Designs), he published 350 drawings executed in pencil, watercolours, and felt pens.[70]
 
 On 6 September 1985 Fellini was awarded the Golden Lion for lifetime achievement at the 42nd Venice Film Festival. That same year, he became the first non-American to receive the Film Society of Lincoln Center’s annual award for cinematic achievement.
 
-Fellini_Mastroianni_1990_Venice_Film_Festival_02.jpg with the Golden Lion Honorary Award at the 47th Venice International Film Festival]]
+with the Golden Lion Honorary Award at the 47th Venice International Film Festival]]
 
 Long fascinated by Carlos Castaneda’s _The Teachings of Don Juan: A Yaqui Way of Knowledge_, Fellini accompanied the Peruvian author on a journey to the Yucatán to assess the feasibility of a film. After first meeting Castaneda in Rome in October 1984, Fellini drafted a treatment with Pinelli titled _Viaggio a Tulun_. Producer Alberto Grimaldi, prepared to buy film rights to all of Castaneda's work, then paid for pre-production research taking Fellini and his entourage from Rome to Los Angeles and the jungles of Mexico in October 1985.[71] When Castaneda inexplicably disappeared and the project fell through, Fellini's mystico-shamanic adventures were scripted with Pinelli and serialized in _Corriere della Sera_ in May 1986. A barely veiled satirical interpretation of Castaneda's work,[72] _Viaggio a Tulun_ was published in 1989 as a graphic novel with artwork by Milo Manara and as _Trip to Tulum_ in America in 1990.
 
@@ -146,7 +146,7 @@ Apart from satirizing Silvio Berlusconi and mainstream television in _Ginger and
 
 Influence and legacy
 
-Fellini_plaque,_Via_Veneto.jpg, Rome:
+, Rome:
 ''To Federico Fellini, who made _Via Veneto_ the stage for the "Sweet Life" - SPQR - January 20, 1995'']]
 
 Personal and highly idiosyncratic visions of society, Fellini's films are a unique combination of memory, dreams, fantasy and desire. The adjectives "Fellinian" and "Felliniesque" are "synonymous with any kind of extravagant, fanciful, even baroque image in the cinema and in art in general".[93] _La Dolce Vita_ contributed the term _paparazzi_ to the English language, derived from Paparazzo, the photographer friend of journalist Marcello Rubini (Marcello Mastroianni).[94]

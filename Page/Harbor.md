@@ -1,4 +1,4 @@
-Lower_Manhattan_Areal_April_2013b.jpg and the Hudson River in the foreground; the East River in the background.]] Capri_harbour_from_Anacapri_2013.jpg harbor, Italy seen from Anacapri.]] A HARBOR (American English) or HARBOUR (British English; see spelling differences) (synonyms: WHARVES, HAVEN) is a sheltered body of water where ships, boats, and barges can be docked. The term _harbor_ is often used interchangeably with _port_, which is a man-made facility built for loading and unloading vessels and dropping off and picking up passengers. Ports usually include one or more harbors. Alexandria Port in Egypt is an example of a port with two harbors.
+and the Hudson River in the foreground; the East River in the background.]] harbor, Italy seen from Anacapri.]] A HARBOR (American English) or HARBOUR (British English; see spelling differences) (synonyms: WHARVES, HAVEN) is a sheltered body of water where ships, boats, and barges can be docked. The term _harbor_ is often used interchangeably with _port_, which is a man-made facility built for loading and unloading vessels and dropping off and picking up passengers. Ports usually include one or more harbors. Alexandria Port in Egypt is an example of a port with two harbors.
 
 Harbors may be natural or artificial. An artificial harbor can have deliberately constructed breakwaters, sea walls, or jettys or they can be constructed by dredging, which requires maintenance by further periodic dredging. An example of an artificial harbor is Long Beach Harbor, California, United States, which was an array of salt marshes and tidal flats too shallow for modern merchant ships before it was first dredged in the early 20th century.[1] In contrast, a natural harbor is surrounded on several sides by prominences of land. Examples of natural harbors include Sydney Harbour, Australia and Trincomalee Harbour in Sri Lanka.
 
@@ -18,7 +18,7 @@ The Ancient Carthaginians constructed fortified, artificial harbors called cotho
 
 Natural harbors
 
-ANTARA_FOTO-Eric_Ireng_TERMINAL_PETIKEMAS_SURABAYA.jpg is famous example of natural harbor in Indonesia. The harbor location in Madura Strait.]] A natural harbor is a landform where a part of a body of water is protected and deep enough to furnish anchorage. Many such harbors are rias. Natural harbors have long been of great strategic naval and economic importance, and many great cities of the world are located on them. Having a protected harbor reduces or eliminates the need for breakwaters as it will result in calmer waves inside the harbor. Some examples are:
+is famous example of natural harbor in Indonesia. The harbor location in Madura Strait.]] A natural harbor is a landform where a part of a body of water is protected and deep enough to furnish anchorage. Many such harbors are rias. Natural harbors have long been of great strategic naval and economic importance, and many great cities of the world are located on them. Having a protected harbor reduces or eliminates the need for breakwaters as it will result in calmer waves inside the harbor. Some examples are:
 
 -   Port Hercules in Principality of Monaco;
 -   Pago Pago Harbor in American Samoa;
@@ -68,7 +68,7 @@ The world's southmost harbor, located at Antarctica's Winter Quarters Bay (77° 
 
 Important harbors
 
-harbour.clovelly.arp.750pix.jpg, Devon, England]] Skillshare,_Alter_Hafen_Lüneburg.jpg, Germany.]] Port_of_Piraeus_Panoramic_View.JPG in Greece.]] PortJackson_2004_SeanMcClean.jpg Gorey_Harbour_at_low_tide.JPG falls dry at low tide.]] Punta_del_este3.jpg's harbor – nicknamed the Monte Carlo of South America[4][5][6]]] Kaohsiung_Tuntex_Sky_Tower_Innen_Bild_2_(2).jpg]] Aberystwith_Harbour.jpeg, painted 1850]]
+, Devon, England]] , Germany.]] in Greece.]] falls dry at low tide.]] 's harbor – nicknamed the Monte Carlo of South America[4][5][6]]] ]] , painted 1850]]
 
 Although the world's busiest port is a hotly contested title, in 2006 the world's busiest harbor by cargo tonnage was the Port of Shanghai.[7]
 
@@ -157,7 +157,7 @@ The following are large natural harbors:
 -   Yevpatoria, Russia
 -   Zaporozhe, Ukraine
 
-Mk_Stettin_Hafen2.jpg, Poland]] Puerto_Valpo_nublado.jpg, Chile.]]
+, Poland]] , Chile.]]
 
 
 See also

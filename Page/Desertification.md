@@ -1,4 +1,4 @@
-Desertification_map.png ShrinkingLakeChad-1973-1997-EO.jpg in a 2001 satellite image, with the actual lake in blue. The lake has shrunk by 94% since the 1960s.[1]]]
+in a 2001 satellite image, with the actual lake in blue. The lake has shrunk by 94% since the 1960s.[1]]]
 
 DESERTIFICATION is a type of land degradation in which a relatively dry area of land becomes a desert, typically losing its bodies of water as well as vegetation and wildlife.[2] It is caused by a variety of factors, such as through climate change (particularly the current global warming)[3] and through the overexploitation of soil through human activity.[4] When deserts appear automatically over the natural course of a planet's life cycle, then it can be called a natural phenomenon; however, when deserts emerge due to the rampant and unchecked depletion of nutrients in soil that are essential for it to remain arable, then a virtual "soil death" can be spoken of,[5] which traces its cause back to human overexploitation. Desertification is a significant global ecological and environmental problem with far reaching consequences on socio-economic and political conditions.[6]
 
@@ -22,13 +22,13 @@ Desertification has played a significant role in human history, contributing to 
 
 Areas affected
 
-Sun,_Moon_and_Telescopes_above_the_Desert_(ESO).jpg above Chile’s Atacama Desert[20] ]]
+above Chile’s Atacama Desert[20] ]]
 
 Drylands occupy approximately 40–41% of Earth’s land area[21][22] and are home to more than 2 billion people.[23] It has been estimated that some 10–20% of drylands are already degraded, the total area affected by desertification being between 6 and 12 million square kilometres, that about 1–6% of the inhabitants of drylands live in desertified areas, and that a billion people are under threat from further desertification.[24][25]
 
 As of 1998, the then-current degree of southward expansion of the Sahara was not well known, due to a lack of recent, measurable expansion of the desert into the Sahel at the time.[26]
 
-The impact of global warming and human activities are presented in the Sahel. In this area, the level of desertification is very high compared to other areas in the world. All areas situated in the eastern part of Africa (i.e. in the Sahel region) are characterized by a dry climate, hot temperatures, and low rainfall (300–750 mm rainfall per year). So, droughts are the rule in the Sahel region.[27] Some studies have shown that Africa has lost approximately 650,000 km² of its productive agricultural land over the past 50 years. The propagation of desertification in this area is considerable.[28] Village_Telly_in_Mali.jpg region of Mali]] Some statistics have shown that since 1900 the Sahara has expanded by 250 km to the south over a stretch of land from west to east 6,000 km long.[29][30][31] The survey, done by the research institute for development, had demonstrated that this means dryness is spreading fast in the Sahelian countries. 70% of the arid area has deteriorated and water resources have disappeared, leading to soil degradation. The loss of topsoil means that plants cannot take root firmly and can be uprooted by torrential water or strong winds.[32][33]
+The impact of global warming and human activities are presented in the Sahel. In this area, the level of desertification is very high compared to other areas in the world. All areas situated in the eastern part of Africa (i.e. in the Sahel region) are characterized by a dry climate, hot temperatures, and low rainfall (300–750 mm rainfall per year). So, droughts are the rule in the Sahel region.[27] Some studies have shown that Africa has lost approximately 650,000 km² of its productive agricultural land over the past 50 years. The propagation of desertification in this area is considerable.[28] region of Mali]] Some statistics have shown that since 1900 the Sahara has expanded by 250 km to the south over a stretch of land from west to east 6,000 km long.[29][30][31] The survey, done by the research institute for development, had demonstrated that this means dryness is spreading fast in the Sahelian countries. 70% of the arid area has deteriorated and water resources have disappeared, leading to soil degradation. The loss of topsoil means that plants cannot take root firmly and can be uprooted by torrential water or strong winds.[32][33]
 
 The United Nations Convention (UNC) says that about six million Sahelian citizens would have to give up the desertified zones of sub-Saharan Africa for North Africa and Europe between 1997 and 2020.[34][35]
 
@@ -44,7 +44,7 @@ Causes by loss
 
 The immediate cause is the loss of most vegetation. This is driven by a number of factors, alone or in combination, such as drought, climatic shifts, tillage for agriculture, overgrazing and deforestation for fuel or construction materials. Vegetation plays a major role in determining the biological composition of the soil. Studies have shown that, in many environments, the rate of erosion and runoff decreases exponentially with increased vegetation cover.[40] Unprotected, dry soil surfaces blow away with the wind or are washed away by flash floods, leaving infertile lower soil layers that bake in the sun and become an unproductive hardpan.
 
-Many scientists think that one of the most common causes is overgrazing, too much consumption of vegetation by cattle. Controversially, Allan Savory has claimed that the controlled movement of herds of livestock, mimicking herds of grazing wildlife, can reverse desertification.[41][42][43][44][45] Morroco-arid-climate.jpg, Morocco]]
+Many scientists think that one of the most common causes is overgrazing, too much consumption of vegetation by cattle. Controversially, Allan Savory has claimed that the controlled movement of herds of livestock, mimicking herds of grazing wildlife, can reverse desertification.[41][42][43][44][45] , Morocco]]
 
 Scientists agree that the existence of a desert in the place where the Sahara desert is now located is due to a natural climate cycle; this cycle often causes a lack of water in the area from time to time. There is a suggestion that the last time that the Sahara was converted from savanna to desert it was partially due to overgrazing by the cattle of the local population.[46]
 
@@ -64,7 +64,7 @@ Agriculture is a main source of income for many desert communities. The increase
 
 Countermeasures
 
-North_Sahara._Anti-sand_shields.jpg, Tunisia]] GreeningdesertTharIndia.jpg plantations, such as those shown, have played a role in combating edge effects of desertification in the Thar Desert, India.[54]]]
+, Tunisia]] plantations, such as those shown, have played a role in combating edge effects of desertification in the Thar Desert, India.[54]]]
 
 Techniques and countermeasures exist for mitigating or reversing the effects of desertification, and some possess varying levels of difficulty. For some, there are numerous barriers to their implementation. Yet for others, the solution simply requires the exercise of human reason.
 
@@ -94,7 +94,7 @@ Managed grazing
 
 Restoring grasslands store CO₂ from the air as plant material. Grazing livestock, usually not left to wander, would eat the grass and would minimize any grass growth while grass left alone would eventually grow to cover its own growing buds, preventing them from photosynthesizing and killing the plant.[72] A method proposed to restore grasslands uses fences with many small paddocks and moving herds from one paddock to another after a day or two in order to mimic natural grazers and allowing the grass to grow optimally.[73][74][75] It is estimated that increasing the carbon content of the soils in the world’s 3.5 billion hectares of agricultural grassland would offset nearly 12 years of CO₂ emissions.[76] Allan Savory, as part of holistic management, claims that while large herds are often blamed for desertification, prehistoric lands used to support large or larger herds and areas where herds were removed in the United States are still desertifying;[77] range scientists have however not been able to experimentally confirm his claims.[78][79]
 
-Soil_erosion,_Southfield_-_geograph.org.uk_-_367917.jpg outside Leuchars]]
+outside Leuchars]]
 
 
 See also

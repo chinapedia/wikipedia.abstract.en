@@ -7,13 +7,13 @@ The full story survives in the manuscript known as the Nowell Codex. It has no t
 
 Historical background
 
-Beowulf_geography_names.png in Angeln. See Scandza for details of Scandinavia's political fragmentation in the 6th century.]] The events in the poem take place over most of the sixth century, after the Anglo-Saxons had started migrating to England and before the beginning of the seventh century, a time when the Anglo-Saxons were either newly arrived or were still in close contact with their Germanic kinsmen in Northern Germany and southern Scandinavia. The stories in the poem may have been brought to England by people of Geatish origins.[3] Some suggest that _Beowulf_ was first composed in the 7th century at Rendlesham in East Anglia, as the Sutton Hoo ship-burial shows close connections with Scandinavia, and the East Anglian royal dynasty, the Wuffingas, may have been descendants of the Geatish Wulfings.[4][5] Others have associated this poem with the court of King Alfred the Great or with the court of King Cnut the Great.[6]
+in Angeln. See Scandza for details of Scandinavia's political fragmentation in the 6th century.]] The events in the poem take place over most of the sixth century, after the Anglo-Saxons had started migrating to England and before the beginning of the seventh century, a time when the Anglo-Saxons were either newly arrived or were still in close contact with their Germanic kinsmen in Northern Germany and southern Scandinavia. The stories in the poem may have been brought to England by people of Geatish origins.[3] Some suggest that _Beowulf_ was first composed in the 7th century at Rendlesham in East Anglia, as the Sutton Hoo ship-burial shows close connections with Scandinavia, and the East Anglian royal dynasty, the Wuffingas, may have been descendants of the Geatish Wulfings.[4][5] Others have associated this poem with the court of King Alfred the Great or with the court of King Cnut the Great.[6]
 
 The poem blends fictional, legendary and historic elements. Although Beowulf himself is not mentioned in any other Anglo-Saxon manuscript,[7] scholars generally agree that many of the other figures referred to in _Beowulf_ also appear in Scandinavian sources. (Specific works are designated in the following section).[8] This concerns not only individuals (e.g., Healfdene, Hroðgar, Halga, Hroðulf, Eadgils and Ohthere), but also clans (e.g., Scyldings, Scylfings and Wulfings) and certain events (e.g., the battle between Eadgils and Onela). The raid by King Hygelac into Frisia is mentioned by Gregory of Tours in his _History of the Franks_ and can be dated to around 521.[9]
 
 In Denmark, recent archaeological excavations at Lejre, where Scandinavian tradition located the seat of the Scyldings, i.e., Heorot, have revealed that a hall was built in the mid-6th century, exactly the time period of _Beowulf_.[10] Three halls, each about long, were found during the excavation.[11]
 
-The majority view appears to be that people such as King Hroðgar and the Scyldings in _Beowulf_ are based on historical people from 6th-century Scandinavia.[12] Like the _Finnesburg Fragment_ and several shorter surviving poems, _Beowulf_ has consequently been used as a source of information about Scandinavian figures such as Eadgils and Hygelac, and about continental Germanic figures such as Offa, king of the continental Angles. Eadgil's_barrow.PNG
+The majority view appears to be that people such as King Hroðgar and the Scyldings in _Beowulf_ are based on historical people from 6th-century Scandinavia.[12] Like the _Finnesburg Fragment_ and several shorter surviving poems, _Beowulf_ has consequently been used as a source of information about Scandinavian figures such as Eadgils and Hygelac, and about continental Germanic figures such as Offa, king of the continental Angles.
 
 19th-century archaeological evidence may confirm elements of the _Beowulf_ story. Eadgils was buried at Uppsala (Gamla Uppsala, Sweden) according to Snorri Sturluson. When the western mound (to the left in the photo) was excavated in 1874, the finds showed that a powerful man was buried in a large barrow, c. 575, on a bear skin with two dogs and rich grave offerings. The eastern mound was excavated in 1854, and contained the remains of a woman, or a woman and a young man. The middle barrow has not been excavated.[13][14]
 
@@ -44,7 +44,7 @@ At first, Grendel's mother appears to prevail, and Hrunting proves incapable of 
 
 Third battle: The dragon
 
-Beowulf_face_to_face_with_fire-breathing_Dragon.jpg Beowulf returns home and eventually becomes king of his own people. One day, fifty years after Beowulf's battle with Grendel's mother, a slave steals a golden cup from the lair of a dragon at Earnanæs. When the dragon sees that the cup has been stolen, it leaves its cave in a rage, burning everything in sight. Beowulf and his warriors come to fight the dragon, but Beowulf tells his men that he will fight the dragon alone and that they should wait on the barrow. Beowulf descends to do battle with the dragon, but finds himself outmatched. His men, upon seeing this and fearing for their lives, retreat into the woods. One of his men, Wiglaf, however, in great distress at Beowulf's plight, comes to his aid. The two slay the dragon, but Beowulf is mortally wounded. After Beowulf dies, Wiglaf remains by his side, grief-stricken. When the rest of the men finally return, Wiglaf bitterly admonishes them, blaming their cowardice for Beowulf's death. Afterward, Beowulf is ritually burned on a great pyre in Geatland while his people wail and mourn him, fearing that without him, the Geats are defenceless against attacks from surrounding tribes. Afterwards, a barrow, visible from the sea, is built in his memory (_Beowulf_ lines 2712–3182).[25]
+Beowulf returns home and eventually becomes king of his own people. One day, fifty years after Beowulf's battle with Grendel's mother, a slave steals a golden cup from the lair of a dragon at Earnanæs. When the dragon sees that the cup has been stolen, it leaves its cave in a rage, burning everything in sight. Beowulf and his warriors come to fight the dragon, but Beowulf tells his men that he will fight the dragon alone and that they should wait on the barrow. Beowulf descends to do battle with the dragon, but finds himself outmatched. His men, upon seeing this and fearing for their lives, retreat into the woods. One of his men, Wiglaf, however, in great distress at Beowulf's plight, comes to his aid. The two slay the dragon, but Beowulf is mortally wounded. After Beowulf dies, Wiglaf remains by his side, grief-stricken. When the rest of the men finally return, Wiglaf bitterly admonishes them, blaming their cowardice for Beowulf's death. Afterward, Beowulf is ritually burned on a great pyre in Geatland while his people wail and mourn him, fearing that without him, the Geats are defenceless against attacks from surrounding tribes. Afterwards, a barrow, visible from the sea, is built in his memory (_Beowulf_ lines 2712–3182).[25]
 
 
 Authorship and date
@@ -56,7 +56,7 @@ The claim to an early 11th-century date depends in part on scholars who argue th
 
 Manuscript
 
-BLBeowulf.jpg Cotton Vitellius A.XV]] _Beowulf_ survives in a single manuscript dated on palaeographical grounds to the late 10th or early 11th century. The manuscript measures 245 × 185 mm.[40]
+Cotton Vitellius A.XV]] _Beowulf_ survives in a single manuscript dated on palaeographical grounds to the late 10th or early 11th century. The manuscript measures 245 × 185 mm.[40]
 
 Provenance
 
@@ -215,7 +215,7 @@ Stanley B. Greenfield has suggested that references to the human body throughout
 
 Daniel Podgorski has argued that the work is best understood as an examination of inter-generational vengeance-based conflict, or feuding.[98] In this context, the poem operates as an indictment of feuding conflicts as a function of its conspicuous, circuitous, and lengthy depiction of the Geatish-Swedish wars—coming into contrast with the poem's depiction of the protagonist Beowulf as being disassociated from the ongoing feuds in every way.[99]
 
-_David_Woodard_Exploding_Beowulf.jpg appears as both Beowulf and Grendel in the stage production _Exploding Beowulf_ (Berlin, 2010)]]
+appears as both Beowulf and Grendel in the stage production _Exploding Beowulf_ (Berlin, 2010)]]
 
 
 See also

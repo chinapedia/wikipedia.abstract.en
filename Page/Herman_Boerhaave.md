@@ -3,7 +3,7 @@ HERMAN BOERHAAVE (, 31 December 1668 – 23 September 1738)[1] was a Dutch botan
 
 Biography
 
-Oud_Poelgeest_Oegstgeest.jpg Castle, Herman Boerhaave's home in Oegstgeest, near Leiden. This was the site of his outdoor botanical garden that was renowned during his lifetime and rivalled Hortus Cliffortianus, the garden of his friend and sponsor to Linnaeus. He traveled back and forth to his friend's garden and to the Leiden University by trekschuit.]] Boerhaave was born at Voorhout near Leiden. The son of a Protestant pastor,[3] in his youth Boerhaave studied for a divinity degree and wanted to become a preacher.[4] After the death of his father, however, he was offered a scholarship and he entered the University of Leiden, where he took his degree in philosophy in 1689, with a dissertation _De distinctione mentis a corpore_ (on the difference of the mind from the body).[5] There he attacked the doctrines of Epicurus, Thomas Hobbes and Spinoza. He then turned to the study of medicine, in which he graduated in 1693 at Harderwijk in present-day Gelderland.
+Castle, Herman Boerhaave's home in Oegstgeest, near Leiden. This was the site of his outdoor botanical garden that was renowned during his lifetime and rivalled Hortus Cliffortianus, the garden of his friend and sponsor to Linnaeus. He traveled back and forth to his friend's garden and to the Leiden University by trekschuit.]] Boerhaave was born at Voorhout near Leiden. The son of a Protestant pastor,[3] in his youth Boerhaave studied for a divinity degree and wanted to become a preacher.[4] After the death of his father, however, he was offered a scholarship and he entered the University of Leiden, where he took his degree in philosophy in 1689, with a dissertation _De distinctione mentis a corpore_ (on the difference of the mind from the body).[5] There he attacked the doctrines of Epicurus, Thomas Hobbes and Spinoza. He then turned to the study of medicine, in which he graduated in 1693 at Harderwijk in present-day Gelderland.
 
 In 1701 he was appointed lecturer on the institutes of medicine at Leiden; in his inaugural discourse, _De commendando Hippocratis studio_, he recommended to his pupils that great physician as their model. In 1709 he became professor of botany and medicine, and in that capacity he did good service, not only to his own university, but also to botanical science, by his improvements and additions to the botanic garden of Leiden, and by the publication of numerous works descriptive of new species of plants.
 
@@ -14,7 +14,7 @@ In 1714, when he was appointed rector of the university, he succeeded Govert Bid
 
 Legacy
 
-His reputation so increased the fame of the University of Leiden, especially as a school of medicine, that it became popular with visitors from every part of Europe. All the princes of Europe sent him pupils, who found in this skilful professor not only an indefatigable teacher, but an affectionate guardian. When Peter the Great went to Holland in 1716 (he was in Holland before in 1697 to instruct himself in maritime affairs), he also took lessons from Boerhaave. Voltaire travelled to see him, as did Carl Linnaeus, who became a close friend. His reputation was not confined to Europe; a Chinese mandarin sent him a letter addressed to "the illustrious Boerhaave, physician in Europe," and it reached him in due course. ErfgoedLeiden_LEI001019039_Herman_Boerhaave,_bronzen_standbeeld_van_J.Stracke_(1817-1891).jpeg The operating theatre of the University of Leiden in which he once worked as an anatomist is now at the centre of a museum named after him; the Boerhaave Museum. Asteroid 8175 Boerhaave is named after Boerhaave. From 1955 to 1961 Boerhaave's image was printed on Dutch 20-guilder banknotes. The Leiden University Medical Centre organises medical trainings called _Boerhaave-courses_.
+His reputation so increased the fame of the University of Leiden, especially as a school of medicine, that it became popular with visitors from every part of Europe. All the princes of Europe sent him pupils, who found in this skilful professor not only an indefatigable teacher, but an affectionate guardian. When Peter the Great went to Holland in 1716 (he was in Holland before in 1697 to instruct himself in maritime affairs), he also took lessons from Boerhaave. Voltaire travelled to see him, as did Carl Linnaeus, who became a close friend. His reputation was not confined to Europe; a Chinese mandarin sent him a letter addressed to "the illustrious Boerhaave, physician in Europe," and it reached him in due course. The operating theatre of the University of Leiden in which he once worked as an anatomist is now at the centre of a museum named after him; the Boerhaave Museum. Asteroid 8175 Boerhaave is named after Boerhaave. From 1955 to 1961 Boerhaave's image was printed on Dutch 20-guilder banknotes. The Leiden University Medical Centre organises medical trainings called _Boerhaave-courses_.
 
 He had a prodigious influence on the development of medicine and chemistry in Scotland. British medical schools credit Boerhaave for developing the system of medical education upon which their current institutions are based.[7] Every founding member of the Edinburgh Medical School had studied at Leyden and attended Boerhaave's lectures on chemistry including John Rutherford and Francis Home. Boerhaave's _Elementa Chemiae (1732)_ is recognised as the first text on chemistry.[8]
 
@@ -36,13 +36,11 @@ Viewing the body as a mechanism deviated from the path that Galen and Aristotle 
 
 Publications
 
-Boerhaave_-_Aphorismi_de_cognoscendis_et_curandis_morbis,_1728_-_3032194.tif
-
 -   _Het Nut der Mechanistische Methode in de Geneeskunde_ (Leiden, 1703)
 -   _Institutiones medicae_ (Leiden, 1708) (Digital edition from 1746 by the University and State Library Düsseldorf)
 -   _Aphorismi de cognoscendis et curandis morbis_ (Leiden, 1709), on which his pupil and assistant, Gerard van Swieten (1700–1772) published a commentary in 5 vols.
 -   _Institutiones et Experimenta chemiae_ (Paris, 1724) (unauthorised). (Digital edition by the University and State Library Düsseldorf)
--   _Elementa chemiae_ (Leiden, 1732).Elementa_Chemiae-Boerhaave.jpg
+-   _Elementa chemiae_ (Leiden, 1732).
 
 
 Notes

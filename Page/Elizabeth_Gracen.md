@@ -22,7 +22,7 @@ On television, Gracen has appeared in Shelley Duvall's _Strange Case of Dr. Jeky
 
 Gracen's best-known acting role has been as the recurring character, the Immortal Amanda, in the series _Highlander: The Series_ and its spin-off series _Highlander: The Raven_.
 
-Elizabeth_Gracen_by_Gage_Skidmore.jpg 43 in Tucson, Arizona]] In December 1999,[4] Gracen filed for bankruptcy protection.[5] Afterward, Gracen was given a few television guest roles, and a supporting role in the made-for-television movie _Interceptor Force 2_, before taking a long leave of absence from her acting career in 2002. Gracen began doing voiceover work for Blue Hours Productions, which has revived the classic radio anthology _Suspense_, which airs on Sirius XM. In 2012, Gracen did a character voice-over in the Malaysian animated science fiction film _War of the Worlds: Goliath_.
+43 in Tucson, Arizona]] In December 1999,[4] Gracen filed for bankruptcy protection.[5] Afterward, Gracen was given a few television guest roles, and a supporting role in the made-for-television movie _Interceptor Force 2_, before taking a long leave of absence from her acting career in 2002. Gracen began doing voiceover work for Blue Hours Productions, which has revived the classic radio anthology _Suspense_, which airs on Sirius XM. In 2012, Gracen did a character voice-over in the Malaysian animated science fiction film _War of the Worlds: Goliath_.
 
 Directing, producing and writing
 

@@ -13,7 +13,7 @@ _Chapters 1–6 (documents included in the text in italics)_
 -   2. 42,360 exiles, with men servants, women servants and "singing men and women", return from Babylon to Jerusalem and Judah under the leadership of Zerubbabel and Jeshua the High Priest.
 -   3. Jeshua the High Priest and Zerubbabel build the altar and celebrate the Feast of Tabernacles. In the second year the foundations of the Temple are laid and the dedication takes place with great rejoicing.
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_126.png]]
+]]
 
 -   4. _Letter of the Samaritans to Artaxerxes, and reply of Artaxerxes_: The "enemies of Judah and Benjamin" offer to help with the rebuilding, but are rebuffed; they then work to frustrate the builders "down to the reign of Darius." The officials of Samaria write to king Artaxerxes warning him that Jerusalem is being rebuilt, and the king orders the work to stop. "Thus the work on the house of God in Jerusalem came to a standstill until the second year of the reign of Darius king of Persia."
 -   5. _Tattenai's letter to Darius_: Through the exhortations of the prophets Haggai and Zechariah, Zerubbabel and Joshua recommence the building of the Temple. Tattenai, satrap over both Judah and Samaria, writes to Darius warning him that Jerusalem is being rebuilt and advising that the archives be searched to discover the decree of Cyrus.
@@ -22,8 +22,6 @@ Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_126.png]]
 _Chapters 7–10_
 
 -   7. _Letter of Artaxerxes to Ezra (Artaxerxes' rescript)_: King Artaxerxes is moved by God to commission Ezra "to inquire about Judah and Jerusalem with regard to the Law of your God" and to "appoint magistrates and judges to administer justice to all the people of Trans-Euphrates—all who know the laws of your God." Artaxerxes gives Ezra much gold and directs all Persian officials to aid him.
-
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_128.png
 
 -   8. Ezra gathers a large body of returnees and much gold and silver and precious vessels for the Temple and camps by a canal outside Babylon. There he discovers he has no Levites, and so sends messengers to gather some. The exiles then return to Jerusalem, where they distribute the gold and silver and offer sacrifices to God.
 -   9. Ezra is informed that some of the Jews already in Jerusalem have married non-Jewish women. Ezra is appalled at this proof of sin, and prays to God: "O God of Israel, you are righteous! We are left this day as a remnant. Here we are before you in our guilt, though because of it not one of us can stand in your presence."

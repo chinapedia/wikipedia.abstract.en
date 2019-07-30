@@ -364,7 +364,7 @@ The above is, however, only a simplified analysis.[25][26]
 
 Japanese
 
-Ja_da_ya.png Japanese has copulae that are most often translated as the "to be" verb of English.
+Japanese has copulae that are most often translated as the "to be" verb of English.
 
 The JAPANESE COPULA has many forms. The words _da_ and _desu_ are used to predicate sentences, while _na_ and _de_ are particles used within sentences to modify or connect.
 

@@ -171,7 +171,7 @@ In 2014, Maryam Mirzakhani became the first woman as well as the first Iranian t
 
 Medal
 
-FieldsMedalBack.jpg The medal was designed by Canadian sculptor R. Tait McKenzie.[138]
+The medal was designed by Canadian sculptor R. Tait McKenzie.[138]
 
 -   On the obverse is Archimedes and a quote attributed to him which reads in Latin: "Transire suum pectus mundoque potiri" ("Rise above oneself and grasp the world"). The date is written in Roman numerals and contains an error ("MCNXXXIII" rather than "MCMXXXIII").[139] In capital Greek letters the word ΑΡXIMHΔΟΥΣ, or "of Archimedes".
 -   On the reverse is the inscription (in Latin):

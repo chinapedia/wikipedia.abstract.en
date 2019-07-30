@@ -47,7 +47,7 @@ In 1894, he married Cecilie Simonette Nathalie Geisenheimer, with whom he had th
 
 Death
 
-Alzheimer-ffm001.jpg In August 1912, Alzheimer fell ill on the train on his way to the University of Breslau, where he had been appointed professor of psychiatry in July 1912. Most probably he had a streptococcal infection and subsequent rheumatic fever leading to valvular heart disease, heart failure and kidney failure. He never recovered completely from this illness.
+In August 1912, Alzheimer fell ill on the train on his way to the University of Breslau, where he had been appointed professor of psychiatry in July 1912. Most probably he had a streptococcal infection and subsequent rheumatic fever leading to valvular heart disease, heart failure and kidney failure. He never recovered completely from this illness.
 
 He died of heart failure on December 19, 1915 at age 51, in Breslau, Silesia (present-day Wrocław, Poland). He was buried on December 23, 1915 next to his wife in the Hauptfriedhof in Frankfurt am Main.[22]
 

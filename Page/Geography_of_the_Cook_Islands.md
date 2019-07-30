@@ -1,4 +1,4 @@
-Cook-Islands-map.gif The COOK ISLANDS can be divided into two groups: the Southern Cook Islands and the Northern Cook Islands. The country is located in Oceania, in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand.
+The COOK ISLANDS can be divided into two groups: the Southern Cook Islands and the Northern Cook Islands. The country is located in Oceania, in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand.
 
 
 Southern Cook Islands

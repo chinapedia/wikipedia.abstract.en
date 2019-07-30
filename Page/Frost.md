@@ -1,5 +1,3 @@
-Saint-Amant_16_Gelée_blanche_2008.jpg
-
 FROST is a thin layer of ice on a solid surface, which forms from water vapor in an above freezing atmosphere coming in contact with a solid surface whose temperature is below freezing,[1][2] and resulting in a phase change from water vapor (a gas) to ice (a solid) as the water vapor reaches the freezing point. In temperate climates, it most commonly appears on surfaces near the ground as fragile white crystals; in cold climates, it occurs in a greater variety of forms.[3] The propagation of crystal formation occurs by the process of nucleation.
 
 The ice crystals of frost form as the result of fractal process development. The depth of frost crystals varies depending on the amount of time they have been accumulating, and the concentration of the water vapor (humidity). Frost crystals may be invisible (black), clear (translucent), or white; if a mass of frost crystals scatters light in all directions, the coating of frost appears white.
@@ -11,7 +9,7 @@ Plants that have evolved in warmer climates suffer damage when the temperature f
 
 Formation
 
-Nevada-Apartadero-Merida-Venezuela.jpg, Apartaderos. Because of its location in an alpine tundra ecosystem called páramo, there exists a daily freeze-and-thaw cycle, sometimes described as "summer every day and winter every night."]] If a solid surface is chilled below the dew point of the surrounding humid air and the surface itself is colder than freezing, ice will form on it. If the water deposits as a liquid that then freezes, it forms a coating that may look glassy, opaque, or crystalline, depending on its type. Depending on context, that process also may be called atmospheric icing. The ice it produces differs in some ways from crystalline frost, which consists of spicules of ice that typically project from the solid surface on which they grow.
+, Apartaderos. Because of its location in an alpine tundra ecosystem called páramo, there exists a daily freeze-and-thaw cycle, sometimes described as "summer every day and winter every night."]] If a solid surface is chilled below the dew point of the surrounding humid air and the surface itself is colder than freezing, ice will form on it. If the water deposits as a liquid that then freezes, it forms a coating that may look glassy, opaque, or crystalline, depending on its type. Depending on context, that process also may be called atmospheric icing. The ice it produces differs in some ways from crystalline frost, which consists of spicules of ice that typically project from the solid surface on which they grow.
 
 The main difference between the ice coatings and frost spicules arises from the fact that the crystalline spicules grow directly from desublimation of water vapour from air, and desublimation is not a factor in icing of freezing surfaces. For desublimation to proceed the surface must be below the frost point of the air, meaning that it is sufficiently cold for ice to form without passing through the liquid phase. The air must be humid, but not sufficiently humid to permit the condensation of liquid water, or icing will result instead of desublimation. The size of the crystals depends largely on the temperature, the amount of water vapor available, and how long they have been growing undisturbed.
 
@@ -24,7 +22,7 @@ Types
 
 Hoar frost
 
-Frostweb.jpg covered in air hoar frost]] HoarFrost.jpg LightLTSEM.jpg with optical (left) and scanning electron (right) microscopy]]
+covered in air hoar frost]] with optical (left) and scanning electron (right) microscopy]]
 
 HOAR FROST, also HOARFROST, RADIATION FROST, or PRUINA, refers to white ice crystals deposited on the ground or loosely attached to exposed objects, such as wires or leaves.[5] They form on cold, clear nights when conditions are such that heat radiates out to the open air faster than it can be replaced from nearby sources, such as wind or warm objects. Under suitable circumstances, objects cool to below the frost point[6] of the surrounding air, well below the freezing point of water. Such freezing may be promoted by effects such as FLOOD FROST or FROST POCKET.[7] These occur when ground-level radiation losses cool air until it flows downhill and accumulates in pockets of very cold air in valleys and hollows. Hoar frost may freeze in such low-lying cold air even when the air temperature a few feet above ground is well above freezing.
 
@@ -39,7 +37,7 @@ Hoar frost may have different names depending on where it forms:
 
 When surface hoar covers sloping snowbanks, the layer of frost crystals may create an avalanche risk; when heavy layers of new snow cover the frosty surface, furry crystals standing out from the old snow hold off the falling flakes, forming a layer of voids that prevent the new snow layers from bonding strongly to the old snow beneath. Ideal conditions for hoarfrost to form on snow are cold clear nights, with very light, cold air currents conveying humidity at the right rate for growth of frost crystals. Wind that is too strong or warm destroys the furry crystals, and thereby may permit a stronger bond between the old and new snow layers. However, if the winds are strong enough and cold enough to lay the crystals flat and dry, carpeting the snow with cold, loose crystals without removing or destroying them or letting them warm up and become sticky, then the frost interface between the snow layers may still present an avalanche danger, because the texture of the frost crystals differs from the snow texture and the dry crystals will not stick to fresh snow. Such conditions still prevent a strong bond between the snow layers.[8]
 
-In very low temperatures where fluffy surface hoar crystals form without subsequently being covered with snow, strong winds may break them off, forming a dust of ice particles and blowing them over the surface. The ice dust then may form yukimarimo, as has been observed in parts of Antarctica, in a process similar to the formation of dust bunnies and similar structures. Frosted_Flower.jpg Hoar frost and white frost also occurs in man-made environments such as in freezers or industrial cold storage facilities. If such cold spaces or the pipes serving them are not well insulated and are exposed to ambient humidity, the moisture will freeze instantly depending on the freezer temperature. The frost may coat pipes thickly, partly insulating them, but such inefficient insulation still is a source of heat loss.
+In very low temperatures where fluffy surface hoar crystals form without subsequently being covered with snow, strong winds may break them off, forming a dust of ice particles and blowing them over the surface. The ice dust then may form yukimarimo, as has been observed in parts of Antarctica, in a process similar to the formation of dust bunnies and similar structures. Hoar frost and white frost also occurs in man-made environments such as in freezers or industrial cold storage facilities. If such cold spaces or the pipes serving them are not well insulated and are exposed to ambient humidity, the moisture will freeze instantly depending on the freezer temperature. The frost may coat pipes thickly, partly insulating them, but such inefficient insulation still is a source of heat loss.
 
 Advection frost
 
@@ -74,7 +72,7 @@ Effect on plants
 
 Damage
 
-Feuilles-avec-glace-leaves-with-ice-1.jpg Many plants can be damaged or killed by freezing temperatures or frost. This varies with the type of plant, the tissue exposed, and how low temperatures get: a "light frost" of will damage fewer types of plants than a "hard frost" below .[11]
+Many plants can be damaged or killed by freezing temperatures or frost. This varies with the type of plant, the tissue exposed, and how low temperatures get: a "light frost" of will damage fewer types of plants than a "hard frost" below .[11]
 
 Plants likely to be damaged even by a light frost include vines—such as beans, grapes, squashes, melons—along with nightshades such as tomatoes, eggplants and peppers. Plants that may tolerate (or even benefit) from frosts include:[12]
 
@@ -90,7 +88,7 @@ Certain bacteria, notably _Pseudomonas syringae_, are particularly effective at 
 
 Protection methods
 
-Winterschutz.jpg with protection against frost - Volksgarten, Vienna]] CuritibaFrostGeada.jpg (Southern Brazil) is the coldest of Brazil's state capitals; the greenhouse of the Botanical Garden of Curitiba protects sensitive plants.]] Typical measures to prevent frost or reduce its severity include one or more of:
+with protection against frost - Volksgarten, Vienna]] (Southern Brazil) is the coldest of Brazil's state capitals; the greenhouse of the Botanical Garden of Curitiba protects sensitive plants.]] Typical measures to prevent frost or reduce its severity include one or more of:
 
 -   deploying powerful blowers to simulate wind, thereby preventing the formation of accumulations of cold air. There are variations on this theme. One of them is the selective inverted sink[17] prevents frost by drawing cold air from the ground and blowing it up through a chimney. It was originally developed to prevent frost damage to citrus fruits in Uruguay. In New Zealand, helicopters are used in a similar function, especially in the vineyard regions like Marlborough. By dragging down warmer air from the inversion layers, and preventing the ponding of colder air on the ground, the low-flying helicopters prevent damage to the fruit buds. As the operations are conducted at night, and have in the past involved up to 130 aircraft per night in one region, safety rules are strict.[18] Although not a dedicated method, wind turbines have similar (small) effect of vertically mixing air layers of different temperature.[19][20][21]
 -   for high-value crops, farmers may wrap trees and cover crops.

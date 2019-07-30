@@ -1,4 +1,4 @@
-Dante_Gabriel_Rossetti_-_The_Damsel_of_the_Sanct_Grael_(1874).jpg (1874)]]
+(1874)]]
 
 The HOLY GRAIL is a treasure that serves as an important motif in Arthurian literature. Different traditions describe it as a cup, dish or stone with miraculous powers that provide happiness, eternal youth or sustenance in infinite abundance, often in the custody of the Fisher King. The term "holy grail" is often used to denote an elusive object or goal that is sought after for its great significance.[1]
 
@@ -7,7 +7,7 @@ A "grail", wondrous but not explicitly holy, first appears in _Perceval, le Cont
 
 Etymology
 
-Galahad_grail.jpg, Bors and Percival achieve the Grail. Tapestry woven by Morris & Co. (19th century)|alt=]] Grail literature divides into two classes. The first concerns King Arthur's knights visiting the Grail castle or questing after the object. The second concerns the Grail's history in the time of Joseph of Arimathea.
+, Bors and Percival achieve the Grail. Tapestry woven by Morris & Co. (19th century)|alt=]] Grail literature divides into two classes. The first concerns King Arthur's knights visiting the Grail castle or questing after the object. The second concerns the Grail's history in the time of Joseph of Arimathea.
 
 The word , as it is earliest spelled, comes from Old French or , cognate with Old Provençal and Old Catalan _gresal_, meaning "a cup or bowl of earth, wood, or metal" (or other various types of vessels in different Occitan dialects).[3] The most commonly accepted etymology derives it from Latin or via an earlier form, , a derivative of or , which was, in turn, borrowed from Greek (, a large wine-mixing vessel).[4][5][6][7][8] Alternative suggestions include a derivative of , a name for a type of woven basket that came to refer to a dish,[9] or a derivative of Latin meaning "'by degree', 'by stages', applied to a dish brought to the table in different stages or services during a meal".[10]
 
@@ -16,7 +16,7 @@ In the 15th century, English writer John Hardyng invented a fanciful new etymolo
 
 Medieval literature
 
-RENNES,_Bibliothèque_Municipale,_MS_255,_Estoire_del_saint_Graal.jpg (c. 1220)|alt=]]
+(c. 1220)|alt=]]
 
 The nine works from the first group are:
 
@@ -50,7 +50,7 @@ Though Chrétien's account is the earliest and most influential of all Grail tex
 
 Lancelot-Grail
 
-Arthur_Hughes_-_Sir_Galahad.jpg (1870)]]
+(1870)]]
 
 The authors of the Vulgate Cycle used the Grail as a symbol of divine grace; Galahad, illegitimate son of Lancelot and Elaine, the world's greatest knight and the Grail Bearer at the castle of Corbenic, is destined to achieve the Grail, his spiritual purity making him a greater warrior than even his illustrious father.[23] Galahad and the interpretation of the Grail involving him were picked up in the 15th century by Thomas Malory in _Le Morte d'Arthur_ and remain popular today.[24]
 
@@ -75,7 +75,7 @@ Later traditions
 
 Relics
 
-Quimper_-_Cathédrale_Saint-Corentin_-_PA00090326_-_159.jpg]]
+]]
 
 In the wake of the Arthurian romances, several artifacts came to be identified as the Holy Grail in medieval relic veneration. These artifacts are said to have been the vessel used at the Last Supper, but other details vary. Despite the prominence of the Grail literature, traditions about a Last Supper relic remained rare in contrast to other items associated with Jesus' last days, such as the True Cross and Holy Lance.[39]
 
@@ -89,7 +89,7 @@ Several objects were identified with the Holy Grail in the 17th century.[51] In 
 
 Locations associated with the Holy Grail
 
-Hans_Thoma_-_Die_Gralsburg.jpg (1899)]]
+(1899)]]
 
 In the modern era, a number of places have become associated with the Holy Grail. One of the most prominent is Glastonbury in Somerset, England. Glastonbury was associated with King Arthur and his resting place of Avalon by the 12th century.[53] In the 13th century, a legend arose that Joseph of Arimathea was the founder of Glastonbury Abbey. Early accounts of Joseph at Glastonbury focus on his role as the evangelist of Britain rather than as the custodian of the Holy Grail, but from the 15th century, the Grail became a more prominent part of the legends surrounding Glastonbury.[54] Interest in Glastonbury resurged in the late 19th century, inspired by renewed interest in the Arthurian legend and contemporary spiritual movements centered on ancient sacred sites.[55] In the late 19th century, John Goodchild hid a glass bowl near Glastonbury; a group of his friends, including Wellesley Tudor Pole, retrieved the cup in 1906 and promoted it as the original Holy Grail.[56] Glastonbury and its Holy Grail legend have since become a point of focus for various New Age and Neopagan groups.[57]
 
@@ -104,15 +104,13 @@ Since the 19th century, the Holy Grail has been linked to various conspiracy the
 
 Starting in the early 20th century, writers, particularly in France, further connected the Templars and Grail to the Cathars. In 1906, French esoteric writer Joséphin Péladan identified the Cathar castle of Montségur with Munsalväsche or Montsalvat, the Grail castle in Wolfram's _Parzival_. This identification has inspired a wider legend asserting that the Cathars possessed the Holy Grail.[60] According to these stories, the Cathars guarded the Grail at Montségur, and smuggled it out when the castle fell in 1244.[61]
 
-Parsifal1933.jpg
-
 Beginning in 1933, German writer Otto Rahn published a series of books tying the Grail, Templars, and Cathars to modern German nationalist mythology. According to Rahn, the Grail was a symbol of a pure Germanic religion repressed by Christianity. Rahn's books inspired interest in the Grail in Nazi occultism and led to Heinrich Himmler's abortive sponsorship of Rahn's search for the Grail, as well as many subsequent conspiracy theories and fictional works about the Nazis searching for the Grail.[62]
 
 In the late 20th century, British writers Michael Baigent, Richard Leigh and Henry Lincoln created one of the most widely known conspiracy theories about the Holy Grail. The theory first appeared in the BBC documentary series _Chronicle_ in the 1970s, and was elaborated upon in the bestselling 1982 book _Holy Blood, Holy Grail_.[63] The theory combines myths about the Templars and Cathars with various other legends and a prominent hoax about a secret order called the Priory of Sion. According to this theory, the Holy Grail is not a physical object, but a symbol of the bloodline of Jesus. The blood connection is based on the etymology reading _san greal_ (holy grail) as _sang real_ (royal blood), which dates to the 15th century.[64] The narrative developed here is that Jesus was not divine, and had children with Mary Magdalene, who took the family to France where their descendants became the Merovingians dynasty. While the Catholic Church worked to destroy the dynasty, they were protected by the Priory of Sion and their associates, including the Templars, Cathars, and other secret societies.[65] The book, its arguments, and its evidence have been widely criticized by scholars, but it has had a vast influence on conspiracy and alternate history books. It has also inspired fiction, most notably Dan Brown's 2003 novel _The Da Vinci Code_ and its 2006 film adaptation.[66]
 
 Music and painting
 
-Frederick_Sandys_-_King_Pelles_Daughter.jpg (1861)|alt=]]
+(1861)|alt=]]
 
 The combination of hushed reverence, chromatic harmonies and sexualized imagery in Richard Wagner's final music drama _Parsifal_, premiered in 1882, developed this theme, associating the grail – now periodically producing blood – directly with female fertility.[67] The high seriousness of the subject was also epitomized in Dante Gabriel Rossetti's painting in which a woman modeled by Alexa Wilding holds the Grail with one hand, while adopting a gesture of blessing with the other.[68]
 
@@ -138,7 +136,7 @@ The story of the Grail and of the quest to find it became increasingly popular i
 
 Film and other media
 
-Hollywood_Museum_-_Indiana_Jones'_Grail_Diary_(7659583966).jpg from the film _Indiana Jones and the Last Crusade_ at the Hollywood Museum]]
+from the film _Indiana Jones and the Last Crusade_ at the Hollywood Museum]]
 
 In the cinema, the Holy Grail debuted in the 1904 silent film _Parsifal_, an adaptation of Wagner's opera by Edwin S. Porter. More recent cinematic adaptations include Costain's _The Silver Chalice_ made into a 1954 film by Victor Saville and Brown's _The Da Vinci Code_ turned into a 2006 film by Ron Howard.
 

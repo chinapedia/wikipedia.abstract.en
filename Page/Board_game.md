@@ -1,4 +1,4 @@
-US_Navy_110713-N-NT881-124_Personnel_Specialist_2nd_Class_James_Vail,_left,_and_Boatswain's_Mate_2nd_Class_Nathaniel_Eaton_play_board_games_with_ch.jpg'' is licensed in 103 countries and printed in 37 languages.]] Men_Playing_Board_Games.jpg
+'' is licensed in 103 countries and printed in 37 languages.]]
 
 A BOARD GAME is a tabletop game that involves counters or moved or placed on a pre-marked surface or "board", according to a set of rules. Some games are based on pure strategy, but many contain an element of chance; and some are purely chance, with no element of skill.
 
@@ -19,15 +19,15 @@ Hounds and Jackals another ancient Egyptean board game appeared around 2000 BC.[
 
 Backgammon originated in ancient Mesopotamia over 5,000 years ago. Chess, Pachisi and Chaupar originated in India. Go and Liubo originated in China. Patolli originated in Mesoamerica played by the ancient Aztec and The Royal Game of Ur was found in the Royal Tombs of Ur, dating to Mesopotamia 4,600 years ago.[10] The earliest known games list is the Buddha games list.
 
-  ----------------------------------------------------------------------------------- ---------------------------------------------------------------------
-  Maler_der_Grabkammer_der_Nefertari_003.jpg, one of the oldest known board games]]   Game_of_Hounds_and_Jackals_MET_DP264105.jpg (Egypt, 13th Dynasty)]]
-  ----------------------------------------------------------------------------------- ---------------------------------------------------------------------
+  ----------------------------------------- -------------------------
+  , one of the oldest known board games]]   (Egypt, 13th Dynasty)]]
+  ----------------------------------------- -------------------------
 
 Europe
 
-  ---------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------
-  German_-_Box_for_Board_Games_-_Walters_7193_-_Bottom.jpg   Gaming_table_with_chessboard.jpg/draughts (_left_) and Nine Men's Morris (_right_), Cleveland Museum of Art]]
-  ---------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------
+  -- -------------------------------------------------------------------------------
+     /draughts (_left_) and Nine Men's Morris (_right_), Cleveland Museum of Art]]
+  -- -------------------------------------------------------------------------------
 
 United States
 
@@ -41,13 +41,13 @@ The board game _Traveller's Tour Through the United States_ and its sister game 
 
 As the U.S. shifted from agrarian to urban living in the 19th century, greater leisure time and a rise in income became available to the middle class. The American home, once the center of economic production, became the locus of entertainment, enlightenment, and education under the supervision of mothers. Children were encouraged to play board games that developed literacy skills and provided moral instruction.[12]
 
-FirstAmericanPrintrunOfThe_MansionOfHappiness.jpg The earliest board games published in the United States were based upon Christian morality. _The Mansion of Happiness_ (1843), for example, sent players along a path of virtues and vices that led to the Mansion of Happiness (Heaven).[13] _The Game of Pope and Pagan, or The Siege of the Stronghold of Satan by the Christian Army_ (1844) pitted an image on its board of a Hindu woman committing _suttee_ against missionaries landing on a foreign shore. The missionaries are cast in white as "the symbol of innocence, temperance, and hope" while the pope and pagan are cast in black, the color of "gloom of error, and ... grief at the daily loss of empire".[14]
+The earliest board games published in the United States were based upon Christian morality. _The Mansion of Happiness_ (1843), for example, sent players along a path of virtues and vices that led to the Mansion of Happiness (Heaven).[13] _The Game of Pope and Pagan, or The Siege of the Stronghold of Satan by the Christian Army_ (1844) pitted an image on its board of a Hindu woman committing _suttee_ against missionaries landing on a foreign shore. The missionaries are cast in white as "the symbol of innocence, temperance, and hope" while the pope and pagan are cast in black, the color of "gloom of error, and ... grief at the daily loss of empire".[14]
 
 Commercially produced board games in the mid-19th century were monochrome prints laboriously hand-colored by teams of low-paid young factory women. Advances in paper making and printmaking during the period enabled the commercial production of relatively inexpensive board games. The most significant advance was the development of chromolithography, a technological achievement that made bold, richly colored images available at affordable prices. Games cost as little as US$.25 for a small boxed card game to $3.00 for more elaborate games.
 
 American Protestants believed a virtuous life led to success, but the belief was challenged mid-century when the country embraced materialism and capitalism. In 1860, _The Checkered Game of Life_ rewarded players for mundane activities such as attending college, marrying, and getting rich. Daily life rather than eternal life became the focus of board games. The game was the first to focus on secular virtues rather than religious virtues,[15] and sold 40,000 copies its first year.[16]
 
-District_Messenger_Boy_Box_Cover_1886.jpg'' (1886)]] _Game of the District Messenger Boy, or Merit Rewarded_, published in 1886 by the New York City firm of McLoughlin Brothers, was one of the first board games based on materialism and capitalism published in the United States. The game is a typical roll-and-move track board game. Players move their tokens along the track at the spin of the arrow toward the goal at the track's end. Some spaces on the track will advance the player while others will send him back.
+'' (1886)]] _Game of the District Messenger Boy, or Merit Rewarded_, published in 1886 by the New York City firm of McLoughlin Brothers, was one of the first board games based on materialism and capitalism published in the United States. The game is a typical roll-and-move track board game. Players move their tokens along the track at the spin of the arrow toward the goal at the track's end. Some spaces on the track will advance the player while others will send him back.
 
 In the affluent 1880s, Americans witnessed the publication of Algeresque rags to riches games that permitted players to emulate the capitalist heroes of the age. One of the first such games, _The Game of the District Messenger Boy_, encouraged the idea that the lowliest messenger boy could ascend the corporate ladder to its topmost rung. Such games insinuated that the accumulation of wealth brought increased social status.[17] Competitive capitalistic games culminated in 1935 with _Monopoly_, the most commercially successful board game in U.S. history.[18]
 
@@ -57,14 +57,14 @@ Margaret Hofer described the period of 1880s–1920s as "The Golden Age" of boar
 
 21st century
 
-Board_games_with_expansions_1944-2017.svg. Expansion sets for existing games are marked in orange.]] The late 1990s onwards have seen substantial growth in the reach and market of board games. This has been attributed to, among other factors, the Internet, which has made it easier for people to find out about games and to find opponents to play against.[23] Around the year 2000 the board gaming industry began significant growth with companies producing a rising number of new games to be sold to a growing worldwide audience.[24] In the 2010s, a number of publications referred to the board games as having a new Golden Age.[25][26] Board game venues are also growing in popularity; for example board game cafes are reported to be very popular in China.[27]
+. Expansion sets for existing games are marked in orange.]] The late 1990s onwards have seen substantial growth in the reach and market of board games. This has been attributed to, among other factors, the Internet, which has made it easier for people to find out about games and to find opponents to play against.[23] Around the year 2000 the board gaming industry began significant growth with companies producing a rising number of new games to be sold to a growing worldwide audience.[24] In the 2010s, a number of publications referred to the board games as having a new Golden Age.[25][26] Board game venues are also growing in popularity; for example board game cafes are reported to be very popular in China.[27]
 
 
 Luck, strategy, and diplomacy
 
 Some games, such as chess, depend completely on player skill, while many children's games such as _Candy Land_ and _Snakes and Ladders_ require no decisions by the players and are decided purely by luck.[28]
 
-Board_game_damah_at_Souq_Waqif.jpg Many games require some level of both skill and luck. A player may be hampered by bad luck in backgammon, _Monopoly_, _Risk_; but over many games a skilled player will win more often,[29] and the elements of luck can make for more excitement, and more diverse and multifaceted strategies, as concepts such as expected value and risk management must be considered.
+Many games require some level of both skill and luck. A player may be hampered by bad luck in backgammon, _Monopoly_, _Risk_; but over many games a skilled player will win more often,[29] and the elements of luck can make for more excitement, and more diverse and multifaceted strategies, as concepts such as expected value and risk management must be considered.
 
 Luck may be introduced into a game by a number of methods. The use of dice of various sorts goes back to the earliest board games. These can decide everything from how many steps a player moves their token, as in _Monopoly_, to how their forces fare in battle, as in _Risk_, or which resources a player gains, as in _The Settlers of Catan_. Other games such as _Sorry!_ use a deck of special cards that, when shuffled, create randomness. _Scrabble_ does something similar with randomly picked letters. Other games use spinners, timers of random length, or other sources of randomness. German-style board games are notable for often having less luck element than many North American board games.
 
@@ -82,7 +82,7 @@ There are also virtual tabletop programs that allow online players to play a var
 
 Market
 
-Nepomuk_280_-_Osadníci_z_Katanu.jpg'' is printed in 30 languages and sold 15 million by 2009.]] While the board gaming market is estimated to be smaller than that for video games, it has also experienced significant growth from the late 1990s.[40] A 2012 article in _The Guardian_ described board games as "making a comeback".[41] Another from 2014 gave an estimate that put the growth of the board game market at "between 25% and 40% annually" since 2010, and described the current time as the "golden era for board games".[42] The rise in board game popularity has been attributed to quality improvement (more elegant mechanics, , artwork, and graphics) as well as increased availability thanks to sales through the Internet.[43]
+'' is printed in 30 languages and sold 15 million by 2009.]] While the board gaming market is estimated to be smaller than that for video games, it has also experienced significant growth from the late 1990s.[40] A 2012 article in _The Guardian_ described board games as "making a comeback".[41] Another from 2014 gave an estimate that put the growth of the board game market at "between 25% and 40% annually" since 2010, and described the current time as the "golden era for board games".[42] The rise in board game popularity has been attributed to quality improvement (more elegant mechanics, , artwork, and graphics) as well as increased availability thanks to sales through the Internet.[43]
 
 A 1991 estimate for the global board game market was over $1.2 billion.[44] A 2001 estimate for the United States "board games and puzzle" market gave a value of under $400 million, and for United Kingdom, of about £50 million.[45] A 2009 estimate for the Korean market was put at 800 million won,[46] and another estimate for the American board game market for the same year was at about $800 million.[47] A 2011 estimate for the Chinese board game market was at over 10 billion yuan.[48] (Some estimates may split board games from collectible card, miniature and role-playing games; for example another 2014 estimate distinguishing board games from other types of hobby games gave the estimate for the U.S. and Canada market at only $75 million, with the total size of what it defined as the hobby game market at over $700 million,[49] with a 2015 estimate suggesting a value of almost $900 million[50]) A 2013 estimate put the size of the German toy market at 2.7 billion euros (out of which, the board games and puzzle market is worth about 375 million euros), and Polish markets, at 2 billion and 280 million złoties, respectively.[51] Per capita, in 2009 Germany was considered to be the best market, with the highest number of games sold per individual.[52]
 

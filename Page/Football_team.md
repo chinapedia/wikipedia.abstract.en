@@ -1,4 +1,4 @@
-Chelsea_Team_1905.jpg's football squad in 1905 pictured with support staff]] A FOOTBALL TEAM is a group of players selected to play together in the various team sports known as football. Such teams could be selected to play in a match against an opposing team, to represent a FOOTBALL CLUB, group, state or nation, an all-star team or even selected as a hypothetical team (such as a Dream Team or Team of the Century) and never play an actual match.
+'s football squad in 1905 pictured with support staff]] A FOOTBALL TEAM is a group of players selected to play together in the various team sports known as football. Such teams could be selected to play in a match against an opposing team, to represent a FOOTBALL CLUB, group, state or nation, an all-star team or even selected as a hypothetical team (such as a Dream Team or Team of the Century) and never play an actual match.
 
 
 Summary
@@ -10,7 +10,7 @@ The term football club is the most commonly used for a sports club which is an o
 
 Variation of player numbers among football codes
 
-PortAdelaide1914.jpg's 1914 Champions of Australia team]] The number of players that take part in the sport simultaneously, thus forming the team are:
+'s 1914 Champions of Australia team]] The number of players that take part in the sport simultaneously, thus forming the team are:
 
 -   Association football: 11[1]
     -   Indoor soccer: 6

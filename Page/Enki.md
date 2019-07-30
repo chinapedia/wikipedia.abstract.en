@@ -12,7 +12,7 @@ The main temple to Enki was called _E-abzu_, meaning "abzu temple" (also _E-en-g
 
 Iconography
 
-Ea_(Babilonian)_-_EnKi_(Sumerian).jpg, Utu, Enki, and Isimud (circa 2300 BC)]]
+, Utu, Enki, and Isimud (circa 2300 BC)]]
 
 Enki was the keeper of the divine powers called _Me_, the gifts of civilization. He is often shown with the horned crown of divinity .
 
@@ -25,7 +25,7 @@ Early royal inscriptions from the third millennium BCE mention "the reeds of Enk
 
 Mythology
 
-Impression_of_an_Akkadian_cylinder_seal_with_inscription_The_Divine_Sharkalisharri_Prince_of_Akkad_Ibni-Sharrum_the_Scribe_his_servant.jpg (c.2200 BC), with central inscription: "The Divine Sharkalisharri Prince of Akkad, Ibni-Sharrum the Scribe his servant". Depiction of Ea with long-horned water buffalo. Circa 2217-2193 BC. Louvre Museum.[17][18][19]]]
+(c.2200 BC), with central inscription: "The Divine Sharkalisharri Prince of Akkad, Ibni-Sharrum the Scribe his servant". Depiction of Ea with long-horned water buffalo. Circa 2217-2193 BC. Louvre Museum.[17][18][19]]]
 
 The creation of life and sickness
 

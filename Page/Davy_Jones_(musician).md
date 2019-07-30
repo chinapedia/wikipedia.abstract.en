@@ -21,7 +21,7 @@ The Monkees
 
 From 1966 to 1971, Jones was a member of the Monkees, a pop-rock group formed expressly for a television show of the same name. With Screen Gems producing the series, Jones was shortlisted for auditions, as he was the only Monkee who was signed to a deal with the studio, but still had to meet producers Bob Rafelson's and Bert Schneider's standards.[15] Jones sang lead vocals on many of the Monkees' recordings, including "I Wanna Be Free" and "Daydream Believer".[16] The DVD release of the first season of the show contained commentary from the various bandmates. In Peter Tork's commentary, he stated that Jones was a good drummer and had the live performance lineups been based solely on playing ability, it should have been Tork on guitar, Mike Nesmith on bass, and Jones on drums, with Micky Dolenz taking the fronting role, rather than as it was done (with Nesmith on guitar, Tork on bass, and Dolenz on drums). Mostly playing tambourine or maracas, Jones filled in briefly for Tork on bass when he played keyboards.
 
-The_Monkees_May_1967.jpg Davy_Jones_2011.jpg The NBC television series the Monkees was popular, and remained in syndication. After the group disbanded in 1971, Jones reunited with Micky Dolenz as well as Monkees songwriters Tommy Boyce and Bobby Hart in 1974 as a short-lived group called Dolenz, Jones, Boyce & Hart.[17]
+The NBC television series the Monkees was popular, and remained in syndication. After the group disbanded in 1971, Jones reunited with Micky Dolenz as well as Monkees songwriters Tommy Boyce and Bobby Hart in 1974 as a short-lived group called Dolenz, Jones, Boyce & Hart.[17]
 
 A Monkees television show marathon ("Pleasant Valley Sunday") broadcast on 23 February 1986 by MTV resulted in a wave of Monkeemania not seen since the group's heyday. Jones reunited with Dolenz and Peter Tork from 1986 to 1989 to celebrate the band's renewed success and promote the 20th anniversary of the group. A new top 20 hit, "That Was Then, This Is Now" was released (though Jones did not perform on the song) as well as an album, _Pool It!_.[18]
 
@@ -34,7 +34,7 @@ Jones is the next closest member of the Monkees (to Micky Dolenz) who had worked
 
 Post-Monkees career
 
-Davy_Jones_and_Ilene_1972.JPG In 1967, Jones opened his first store, called Zilch, at 217 Thompson Street in the Greenwich Village section of New York City. The store sold "hip" clothing and accessories and also allowed customers to design their own clothes.
+In 1967, Jones opened his first store, called Zilch, at 217 Thompson Street in the Greenwich Village section of New York City. The store sold "hip" clothing and accessories and also allowed customers to design their own clothes.
 
 After the Monkees officially disbanded in 1971, Jones kept himself busy by establishing a New York City-style street market in Los Angeles, called "The Street" which cost approximately $40,000.[22] He also collaborated with musical director Doug Trevor on a one-hour ABC television special entitled _Pop Goes Davy Jones_, which featured new artists The Jackson 5 and the Osmonds.[23]
 
@@ -52,7 +52,7 @@ Mike Nesmith had not been interested in a reunion (due largely to his dislike of
 
 Further stage and screen appearances
 
-Davy_Jones_Maureen_McCormick_Brady_Bunch_1971.JPG in the 1971 _The Brady Bunch_ episode "Getting Davy Jones", in which he was a guest star]]
+in the 1971 _The Brady Bunch_ episode "Getting Davy Jones", in which he was a guest star]]
 
 Jones also continued his acting career after the Monkees, either as himself or another character.
 

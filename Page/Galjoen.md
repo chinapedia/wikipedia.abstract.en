@@ -3,7 +3,7 @@ The GALJOEN, BLACK BREAM, or BLACKFISH (_Dichistius capensis_) is a species of m
 
 Distribution and habitat
 
-Galjoen_at_Rocky_Bay_DSC00471.JPG The galjoen is indigenous to the coasts of southern Africa from Angola to South Africa, and is generally found around reefs at shallow depths around , often near the shore.
+The galjoen is indigenous to the coasts of southern Africa from Angola to South Africa, and is generally found around reefs at shallow depths around , often near the shore.
 
 
 Description

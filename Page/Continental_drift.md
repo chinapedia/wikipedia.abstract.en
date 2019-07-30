@@ -1,5 +1,3 @@
-Pangea_animation_03.gif Antonio_Snider-Pellegrini_Opening_of_the_Atlantic.jpg
-
 CONTINENTAL DRIFT is the theory that the Earth's continents have moved over geologic time relative to each other, thus appearing to have "drifted" across the ocean bed.[1] The speculation that continents might have 'drifted' was first put forward by Abraham Ortelius in 1596. The concept was independently and more fully developed by Alfred Wegener in 1912, but his theory was rejected by many for lack of any motive mechanism. Arthur Holmes later proposed mantle convection for that mechanism. The idea of continental drift has since been subsumed by the theory of plate tectonics, which explains that the continents move by riding on plates of the Earth's lithosphere.[2]
 
 
@@ -17,7 +15,7 @@ This appeared to be confirmed by the exploration of the deep sea beds conducted 
 
 Wegener and his predecessors
 
-Alfred_Wegener_1910.jpg Apart from the earlier speculations mentioned in the previous section, the idea that the American continents had once formed a single landmass together with Europe and Asia before assuming their present shapes and positions was speculated by several scientists before Alfred Wegener's 1912 paper.[13] Although Wegener's theory was formed independently and was more complete than those of his predecessors, Wegener later credited a number of past authors with similar ideas:[14][15] Franklin Coxworthy (between 1848 and 1890),[16] Roberto Mantovani (between 1889 and 1909), William Henry Pickering (1907)[17] and Frank Bursley Taylor (1908).[18] In addition, Eduard Suess had proposed a supercontinent Gondwana in 1885[19] and the Tethys Ocean in 1893,[20] assuming a land-bridge between the present continents submerged in the form of a geosyncline, and John Perry had written an 1895 paper proposing that the earth's interior was fluid, and disagreeing with Lord Kelvin on the age of the earth.[21]
+Apart from the earlier speculations mentioned in the previous section, the idea that the American continents had once formed a single landmass together with Europe and Asia before assuming their present shapes and positions was speculated by several scientists before Alfred Wegener's 1912 paper.[13] Although Wegener's theory was formed independently and was more complete than those of his predecessors, Wegener later credited a number of past authors with similar ideas:[14][15] Franklin Coxworthy (between 1848 and 1890),[16] Roberto Mantovani (between 1889 and 1909), William Henry Pickering (1907)[17] and Frank Bursley Taylor (1908).[18] In addition, Eduard Suess had proposed a supercontinent Gondwana in 1885[19] and the Tethys Ocean in 1893,[20] assuming a land-bridge between the present continents submerged in the form of a geosyncline, and John Perry had written an 1895 paper proposing that the earth's interior was fluid, and disagreeing with Lord Kelvin on the age of the earth.[21]
 
 For example: the similarity of southern continent geological formations had led Roberto Mantovani to conjecture in 1889 and 1909 that all the continents had once been joined into a supercontinent; Wegener noted the similarity of Mantovani's and his own maps of the former positions of the southern continents. In Mantovani's conjecture, this continent broke due to volcanic activity caused by thermal expansion, and the new continents drifted away from each other because of further expansion of the rip-zones, where the oceans now lie. This led Mantovani to propose an Expanding Earth theory which has since been shown to be incorrect.[22][23][24]
 
@@ -66,7 +64,7 @@ In addition, Marie Tharp, in collaboration with Bruce Heezen, who initially ridi
 
 Modern evidence
 
-Snider-Pellegrini_Wegener_fossil_map.svg).]] Mesosaurus.png
+).]]
 
 Evidence for the movement of continents on tectonic plates is now extensive. Similar plant and animal fossils are found around the shores of different continents, suggesting that they were once joined. The fossils of _Mesosaurus_, a freshwater reptile rather like a small crocodile, found both in Brazil and South Africa, are one example; another is the discovery of fossils of the land reptile _Lystrosaurus_ in rocks of the same age at locations in Africa, India, and Antarctica.[80] There is also living evidence, with the same animals being found on two continents. Some earthworm families (such as Ocnerodrilidae, Acanthodrilidae, Octochaetidae) are found in South America and Africa.
 

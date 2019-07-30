@@ -1,4 +1,4 @@
-Escalda_en_Fitz_Roy,_Chaltén_-_Argentina.jpg, Argentina.]] Valkyrie_(The_Roaches).jpg in Staffordshire, England.]] Rope_Climbing.jpg event, at Lyon's Part-Dieu shopping centre.]] Eisklettern_kl_engstligenfall.jpg using ice axes and crampons.]]
+, Argentina.]] in Staffordshire, England.]] event, at Lyon's Part-Dieu shopping centre.]] using ice axes and crampons.]]
 
 CLIMBING is the activity of using one's hands, feet, or any other part of the body to ascend a steep topographical object. It is done for locomotion, recreation and competition, and within trades that rely on ascension; such as emergency rescue and military operations. It is done indoors and out, on natural and man-made structures.
 

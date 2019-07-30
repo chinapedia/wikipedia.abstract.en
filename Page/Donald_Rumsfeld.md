@@ -9,7 +9,7 @@ Early life
 
 Donald Henry Rumsfeld was born on July 9, 1932, in Chicago, Illinois, the son of Jeannette Kearsley (née Husted) and George Donald Rumsfeld.[6] His father came from a German-American family that had emigrated in the 1870s from Weyhe in Lower Saxony,[7][8][9] but young Donald was sometimes ribbed about looking like a "tough German".[10] Growing up in Winnetka, Illinois, Rumsfeld became an Eagle Scout in 1949 and is the recipient of both the Distinguished Eagle Scout Award from the Boy Scouts of America[11] and its Silver Buffalo Award in 2006. Living in Winnetka, his family attended a Congregational Church.[12] From 1943–1945, Rumsfeld lived in Coronado, California while his father was stationed on an aircraft carrier in the Pacific in World War II.[13] He was a ranger at Philmont Scout Ranch in 1949.[14]
 
-Rumsfeld1954_princeton_yearbook.jpg]]
+]]
 
 Rumsfeld attended Baker Demonstration School,[15] and later graduated[16] from New Trier High School. He attended Princeton University on academic and NROTC partial scholarships. He graduated in 1954 with an A.B. in political science. During his time at Princeton, he was an accomplished amateur wrestler, becoming captain of the varsity wrestling team, and captain of the Lightweight Football team playing defensive back. His Princeton University senior thesis was titled "The Steel Seizure Case of 1952 and Its Effects on Presidential Powers".[17] While at Princeton he was friends with another future Secretary of Defense, Frank Carlucci.
 
@@ -22,7 +22,7 @@ Career in government (1962–1977)
 
 Member of Congress
 
-Donald_Rumsfeld_congress.jpg In 1957, during the Dwight D. Eisenhower administration, Rumsfeld served as Administrative Assistant to David S. Dennison Jr., a Congressman representing the 11th district of Ohio. In 1959, he moved on to become a staff assistant to Congressman Robert P. Griffin of Michigan.[21] Engaging in a two-year stint with an investment banking firm, A. G. Becker & Co., from 1960 to 1962,[22] Rumsfeld would instead set his sights on becoming a member of Congress.
+In 1957, during the Dwight D. Eisenhower administration, Rumsfeld served as Administrative Assistant to David S. Dennison Jr., a Congressman representing the 11th district of Ohio. In 1959, he moved on to become a staff assistant to Congressman Robert P. Griffin of Michigan.[21] Engaging in a two-year stint with an investment banking firm, A. G. Becker & Co., from 1960 to 1962,[22] Rumsfeld would instead set his sights on becoming a member of Congress.
 
 He was elected to the United States House of Representatives for Illinois's 13th congressional district in 1962, at the age of 30, and was re-elected by large majorities in 1964, 1966, and 1968.[23] While in Congress, he served on the Joint Economic Committee, the Committee on Science and Aeronautics, and the Government Operations Committee, as well as on the Subcommittees on Military and Foreign Operations. He was also a co-founder of the Japanese-American Inter-Parliamentary Council[24] in addition to being a leading cosponsor of the Freedom of Information Act.[25]
 
@@ -32,7 +32,7 @@ During his years in Congress, Rumsfeld supported civil rights legislation such a
 
 Nixon Administration
 
-Richard_Nixon_and_Donald_Rumsfeld_with_son_Nick.jpg Rumsfeld resigned from Congress in 1969his fourth termto serve President Richard Nixon in his administration, and he would serve in a variety of executive branch positions throughout the Nixon presidency. In 1969, Nixon sought to reform and reorganize the United States Office of Economic Opportunity, an organization created during the Kennedy administration and greatly expanded as a part of Lyndon Johnson's Great Society programs, rather than eliminate it outright. He appointed Rumsfeld Director of the organization with Cabinet rank.[29] Rumsfeld had voted against the creation of OEO when he was in Congress, and initially rejected Nixon's offer, citing his own inherent belief that the OEO did more harm than good, and he felt that he was not the right person for the job.[30] He only accepted after personal pleas from the president.
+Rumsfeld resigned from Congress in 1969his fourth termto serve President Richard Nixon in his administration, and he would serve in a variety of executive branch positions throughout the Nixon presidency. In 1969, Nixon sought to reform and reorganize the United States Office of Economic Opportunity, an organization created during the Kennedy administration and greatly expanded as a part of Lyndon Johnson's Great Society programs, rather than eliminate it outright. He appointed Rumsfeld Director of the organization with Cabinet rank.[29] Rumsfeld had voted against the creation of OEO when he was in Congress, and initially rejected Nixon's offer, citing his own inherent belief that the OEO did more harm than good, and he felt that he was not the right person for the job.[30] He only accepted after personal pleas from the president.
 
 As Director, Rumsfeld sought to reorganize the Office to serve as "a laboratory for experimental programs".[31] Several beneficial anti-poverty programs were saved by allocating funds to them from other less-successful government programs. During this time, he hired Frank Carlucci and Dick Cheney to serve under him.
 
@@ -44,11 +44,9 @@ In February 1973, Rumsfeld left Washington to serve as U.S. Ambassador to the No
 
 Ford Administration
 
-Ford_meets_with_Rumsfeld_and_Cheney,_April_28,_1975.jpg (right) meet with President Ford, April 1975]]
+(right) meet with President Ford, April 1975]]
 
 In August 1974, after Nixon resigned as president in the aftermath of the Watergate scandal, Rumsfeld was called back to Washington to serve as transition chairman for the new president, Gerald Ford. He had been Ford's confidant since their days in the House, before Ford was House minority leader. As the new president became settled in, Ford appointed Rumsfeld White House Chief of Staff, where he served from 1974 to 1975.
-
-Ford-rumsfeld.jpg
 
 In October 1975, Ford reshuffled his cabinet in the Halloween Massacre. He named Rumsfeld to become the 13th U.S. Secretary of Defense; George H. W. Bush became Director of Central Intelligence. According to Bob Woodward's 2002 book _Bush at War_, a rivalry developed between the two men and "Bush senior was convinced that Rumsfeld was pushing him out to the CIA to end his political career."[40]
 
@@ -71,7 +69,7 @@ Part-time public service
 
 During his business career, Rumsfeld continued part-time public service in various posts. In November 1983, Rumsfeld was appointed Special Envoy to the Middle East by President Ronald Reagan, at a turbulent time in modern Middle Eastern history when Iraq was fighting Iran in the Iran–Iraq War. The United States wished for the conflict to end, and Rumsfeld was sent to the Middle East to serve as a mediator on behalf of the President.
 
-Saddam_rumsfeld.jpg, Rumsfeld met with Saddam Hussein during a visit to Baghdad in December 1983, during the Iran–Iraq War (see video here).]]
+, Rumsfeld met with Saddam Hussein during a visit to Baghdad in December 1983, during the Iran–Iraq War (see video here).]]
 
 When Rumsfeld visited Baghdad on December 20, 1983, he met Saddam Hussein at Saddam's palace and had a 90-minute discussion. They largely agreed on opposing Syria's occupation of Lebanon; preventing Syrian and Iranian expansion; and preventing arms sales to Iran. Rumsfeld suggested that if U.S.-Iraq relations could improve the U.S. might support a new oil pipeline across Jordan, which Iraq had opposed but was now willing to reconsider. Rumsfeld also informed Iraqi Deputy Prime Minister and Foreign Minister Tariq Aziz that "Our efforts to assist were inhibited by certain things that made it difficult for us ... citing the use of chemical weapons."[50]
 
@@ -90,7 +88,7 @@ Rumsfeld briefly sought the Presidential nomination in 1988, but withdrew from t
 
 Return to government (2001–2006)
 
-Rumsfeld_is_sworn-in_as_Secretary_of_Defense,_January_20,_2001.jpg David O. Cooke (left), as Joyce Rumsfeld holds the Bible in a ceremony at the Eisenhower Executive Office Building]] Rumsfeld was named Secretary of Defense soon after President George W. Bush took office in 2001 despite Rumsfeld's past rivalry with the previous President Bush. Bush's first choice, FedEx founder Fred Smith, was unavailable and Vice President-elect Cheney recommended Rumsfeld for the job.[59]
+David O. Cooke (left), as Joyce Rumsfeld holds the Bible in a ceremony at the Eisenhower Executive Office Building]] Rumsfeld was named Secretary of Defense soon after President George W. Bush took office in 2001 despite Rumsfeld's past rivalry with the previous President Bush. Bush's first choice, FedEx founder Fred Smith, was unavailable and Vice President-elect Cheney recommended Rumsfeld for the job.[59]
 
 Rumsfeld's second tenure as Secretary of Defense cemented him as the most powerful Pentagon chief since Robert McNamara and one of the most influential Cabinet members in the Bush administration.[60] His tenure would prove to be a pivotal and rocky one which led the United States military into the 21st century. Following the September 11 attacks, Rumsfeld led the military planning and execution of the U.S. invasion of Afghanistan and the subsequent 2003 invasion of Iraq. He pushed hard to send as small a force as soon as possible to both conflicts, a concept codified as the Rumsfeld Doctrine.
 
@@ -98,25 +96,23 @@ Throughout his time as Defense Secretary, Rumsfeld was noted for his candor and 
 
 September 11, 2001
 
-The_Pentagon_is_functioning.jpg Tom White, Chairman of the Joint Chiefs of Staff General Hugh Shelton, and Senators John Warner (R-VA), and Carl Levin (D-MI), the Ranking Member and Chairman of the Senate Armed Services Committee.]]
+Tom White, Chairman of the Joint Chiefs of Staff General Hugh Shelton, and Senators John Warner (R-VA), and Carl Levin (D-MI), the Ranking Member and Chairman of the Senate Armed Services Committee.]]
 
 The United States was attacked on September 11, 2001 by al Qaeda terrorists who hijacked commercial airliners and crashed them in coordinated strikes into both towers of the World Trade Center in Lower Manhattan, New York City and the Pentagon in Washington, D.C. The fourth plane crashed into a field in Shanksville, Pennsylvania, and its target was likely a prominent building in Washington, D.C., most probably either the Capitol Building or the White House.[63] Within three hours of the start of the first hijacking and two hours after American Airlines Flight 11 struck the World Trade Center, Rumsfeld raised the defense condition signaling of the United States offensive readiness to DEFCON 3, the highest it had been since the Arab-Israeli war in 1973.[64]
 
 Military decisions in the wake of 9/11
 
-Rumsfeld_and_Giuliani_at_Ground_Zero.jpg Mayor Rudy Giuliani speak at the site of the World Trade Center attacks in Lower Manhattan on November 14, 2001]]
+Mayor Rudy Giuliani speak at the site of the World Trade Center attacks in Lower Manhattan on November 14, 2001]]
 
 On the afternoon of September 11, Rumsfeld issued rapid orders to his aides to look for evidence of possible Iraqi involvement in regard to what had just occurred, according to notes taken by senior policy official Stephen Cambone. "Best info fast. Judge whether good enough hit S.H."meaning Saddam Hussein"at same time. Not only UBL" (Osama bin Laden), Cambone's notes quoted Rumsfeld as saying. "Need to move swiftlyNear term target needsgo massivesweep it all up. Things related and not."[65][66]
 
 Rumsfeld wrote in _Known and Unknown_, "Much has been written about the Bush administration's focus on Iraq after 9/11. Commentators have suggested that it was strange or obsessive for the President and his advisers to have raised questions about whether Saddam Hussein was somehow behind the attack. I have never understood the controversy. I had no idea if Iraq was or was not involved, but it would have been irresponsible for any administration not to have asked the question."[67]
 
-Rumsfeld-Memo-HowStart
-
 A memo written by Sec. Rumsfeld dated November 27, 2001 considers an Iraq war. One section of the memo questions "How start?", listing multiple possible justifications for a US-Iraq War.[68][69]
 
 Iraq War
 
-Donald_Rumsfeld_Tommy_Franks.jpg General Tommy Franks, listen to a question at the close of a Pentagon press conference on March 5, 2003. Rumsfeld and Franks gave reporters an operational update and fielded questions on the possible conflict in Iraq.]]
+General Tommy Franks, listen to a question at the close of a Pentagon press conference on March 5, 2003. Rumsfeld and Franks gave reporters an operational update and fielded questions on the possible conflict in Iraq.]]
 
 Before and during the Iraq War, Rumsfeld claimed that Iraq had an active weapons of mass destruction program; no stockpiles were ever found.[70][71] Bush administration officials also claimed that there was an operational relationship between Al Qaeda and Saddam Hussein. A Pentagon Inspector General report found that Rumsfeld's top policy aide, Douglas J. Feith, "developed, produced, and then disseminated alternative intelligence assessments on the Iraq and al Qaida relationship, which included some conclusions that were inconsistent with the consensus of the Intelligence Community, to senior decision-makers."[72]
 
@@ -128,11 +124,11 @@ As a result, Rumsfeld stirred controversy as to whether the forces that did inva
 
 In 2006, Rumsfeld responded to a question by Brit Hume of Fox News as to whether he pressed General Tommy Franks to lower his request for 400,000 troops for the war:
 
-Rumsfeld told Hume that Franks ultimately decided against such a troop level.[76] Defense.gov_News_Photo_020313-D-2987S-016.jpg on March 13, 2002. Russia actively supported the American war against terrorism.]] Secretary_Rumsfeld_is_greeted_by_Ambassador_Purnell_and_Minister_of_Defense_Kodir_Ghulomov_as_he_arrives_in_Uzbekistan.jpg. Uzbekistan was a key ally in the War on Terror.]] There was also controversy between Rumsfeld at the Pentagon and the CIA over who had the authority to fire Hellfire missiles from Predator drones.[77] Even though the drones were not ready for deployment until 2002,[78] Daniel Benjamin and Steven Simon have argued that "these quarrels kept the Predator from being used against al Qaeda ... One anonymous individual who was at the center of the action called this episode 'typical' and complained that 'Rumsfeld never missed an opportunity to fail to cooperate. The fact is, the Secretary of Defense is an obstacle. He has helped the terrorists.'[79]
+Rumsfeld told Hume that Franks ultimately decided against such a troop level.[76] on March 13, 2002. Russia actively supported the American war against terrorism.]] . Uzbekistan was a key ally in the War on Terror.]] There was also controversy between Rumsfeld at the Pentagon and the CIA over who had the authority to fire Hellfire missiles from Predator drones.[77] Even though the drones were not ready for deployment until 2002,[78] Daniel Benjamin and Steven Simon have argued that "these quarrels kept the Predator from being used against al Qaeda ... One anonymous individual who was at the center of the action called this episode 'typical' and complained that 'Rumsfeld never missed an opportunity to fail to cooperate. The fact is, the Secretary of Defense is an obstacle. He has helped the terrorists.'[79]
 
 After the Iraq invasion, U.S. troops were criticized for not protecting the historical artifacts and treasures located at the National Museum of Iraq. When asked at the time why U.S. troops did not actively seek to stop the lawlessness, Rumsfeld replied, "Stuff happens ... and it's untidy and freedom's untidy, and free people are free to make mistakes and commit crimes and do bad things. They're also free to live their lives and do wonderful things. And that's what's going to happen here."[80] He further commented that, "The images you are seeing on television you are seeing over, and over, and over, and it's the same picture of some person walking out of some building with a vase, and you see it 20 times, and you think, "My goodness, were there that many vases?"[81]
 
-US_Navy_031002-F-2828D-227_Secretary_of_Defense,_Donald_H._Rumsfeld_responds_to_a_reporter's_question_during_a_Pentagon_press_briefing.jpg, Chairman of the Joint Chiefs of Staff, gave reporters an operational update on Operation Iraqi Freedom on October 2, 2003.]] Throughout his tenure, Rumsfeld sought to remind the American people of the 9/11 attacks and threats against Americans, noting at one time in a 2006 memo to "[m]ake the American people realize they are surrounded in the world by violent extremists".[82][83]
+, Chairman of the Joint Chiefs of Staff, gave reporters an operational update on Operation Iraqi Freedom on October 2, 2003.]] Throughout his tenure, Rumsfeld sought to remind the American people of the 9/11 attacks and threats against Americans, noting at one time in a 2006 memo to "[m]ake the American people realize they are surrounded in the world by violent extremists".[82][83]
 
 As Secretary of Defense, Rumsfeld was deliberate in crafting the public message from the Department of Defense. People will "rally" to the word "sacrifice", Rumsfeld noted after a meeting. "They are looking for leadership. Sacrifice = Victory." In May 2004, Rumsfeld considered whether to redefine the war on terrorism as a fight against "worldwide insurgency". He advised aides "to test what the results could be" if the war on terrorism were renamed.[84] Rumsfeld also ordered specific public Pentagon attacks on and responses to U.S. newspaper columns that reported the negative aspects of the war.
 
@@ -146,9 +142,9 @@ In December 2004, Rumsfeld was heavily criticized for using a signing machine in
 
 Prisoner abuse and torture concerns
 
-Rumsfeld-4_hours_a_day.png The Department of Defense's preliminary concerns for holding, housing, and interrogating captured prisoners on the battlefield were raised during the military build-up prior to the Iraq War. Because Saddam Hussein's military forces surrendered when faced with military action, many within the DOD, including Rumsfeld and United States Central Command General Tommy Franks, decided it was in the best interest of all to hand these prisoners over to their respective countries. Additionally, it was determined that maintaining a large holding facility was, at the time, unrealistic. Instead, the use of many facilities such as Abu Ghraib would be utilized to house prisoners of interest prior to handing them over, and Rumsfeld defended the Bush administration's decision to detain enemy combatants. Because of this, critics, including members of the U.S. Senate Armed Services Committee, would hold Rumsfeld responsible for the ensuing Abu Ghraib torture and prisoner abuse scandal. Rumsfeld himself said: "These events occurred on my watch as Secretary of Defense. I am accountable for them."[88] He offered his resignation to President Bush in the wake of the scandal, but it was not accepted.[89]
+The Department of Defense's preliminary concerns for holding, housing, and interrogating captured prisoners on the battlefield were raised during the military build-up prior to the Iraq War. Because Saddam Hussein's military forces surrendered when faced with military action, many within the DOD, including Rumsfeld and United States Central Command General Tommy Franks, decided it was in the best interest of all to hand these prisoners over to their respective countries. Additionally, it was determined that maintaining a large holding facility was, at the time, unrealistic. Instead, the use of many facilities such as Abu Ghraib would be utilized to house prisoners of interest prior to handing them over, and Rumsfeld defended the Bush administration's decision to detain enemy combatants. Because of this, critics, including members of the U.S. Senate Armed Services Committee, would hold Rumsfeld responsible for the ensuing Abu Ghraib torture and prisoner abuse scandal. Rumsfeld himself said: "These events occurred on my watch as Secretary of Defense. I am accountable for them."[88] He offered his resignation to President Bush in the wake of the scandal, but it was not accepted.[89]
 
-US_Navy_041224-M-8096K-064_Secretary_of_Defense_(SECDEF),_Donald_Rumsfeld_takes_a_photo_with_some_Marines_at_Camp_Fallujah,_Iraq.jpg, Iraq, on Christmas Eve 2004.]]
+, Iraq, on Christmas Eve 2004.]]
 
 In a memo read by Rumsfeld detailing how Guantanamo interrogators would induce stress in prisoners by forcing them to remain standing in one position for a maximum of four hours, Rumsfeld scrawled a handwritten note on the memo reading: "I stand for 8–10 hours a day. Why is standing [by prisoners] limited to 4 hours? D.R.".[90]
 
@@ -156,20 +152,20 @@ Various organizations, such as Human Rights Watch, have called for investigation
 
 Resignation
 
-Margaret_Thatcher_060912-F-0193C-006.jpg Margaret Thatcher alongside the Chairman of the Joint Chiefs of Staff General Peter Pace, 2006]]
+Margaret Thatcher alongside the Chairman of the Joint Chiefs of Staff General Peter Pace, 2006]]
 
 Eight retired generals and admirals called for Rumsfeld to resign in early 2006 in what was called the "Generals Revolt", accusing him of "abysmal" military planning and lack of strategic competence.[104][105][106] Commentator Pat Buchanan reported at the time that _Washington Post_ columnist David Ignatius, who traveled often to Iraq and supported the war, said the generals "mirror the views of 75 percent of the officers in the field, and probably more".[107] Rumsfeld rebuffed these criticisms, stating that "out of thousands and thousands of admirals and generals, if every time two or three people disagreed we changed the secretary of defense of the United States, it would be like a merry-go-round."[108] Bush defended his secretary throughout, and responded by stating that Rumsfeld is "exactly what is needed".[109]
 
-Bush_and_Rumsfeld_shakes_hands,_November_8,_2006.jpg On November 1, 2006, Bush stated he would stand by Rumsfeld as defense secretary for the length of his term as president.[110] Rumsfeld wrote a resignation letter dated November 6, and, per the stamp on the letter, Bush saw it on Election Day, November 7.[111] In the elections, the House and the Senate shifted to Democratic control. After the elections, on November 8, Bush announced Rumsfeld would resign his position as Secretary of Defense. Many Republicans were unhappy with the delay, believing they would have won more votes if voters had known Rumsfeld was resigning.[112]
+On November 1, 2006, Bush stated he would stand by Rumsfeld as defense secretary for the length of his term as president.[110] Rumsfeld wrote a resignation letter dated November 6, and, per the stamp on the letter, Bush saw it on Election Day, November 7.[111] In the elections, the House and the Senate shifted to Democratic control. After the elections, on November 8, Bush announced Rumsfeld would resign his position as Secretary of Defense. Many Republicans were unhappy with the delay, believing they would have won more votes if voters had known Rumsfeld was resigning.[112]
 
 Bush nominated Robert Gates to succeed Rumsfeld.[113][114][115] On December 18, 2006, Rumsfeld's resignation took effect.
 
 
 Retirement and later life (2006–present)
 
-Donald_Rumsfeld_shares_a_laugh_with_Robert_Gates.jpg, at a ceremony to unveil his official portrait as Secretary of Defense, June 25, 2010]]
+, at a ceremony to unveil his official portrait as Secretary of Defense, June 25, 2010]]
 
-Pentagon_Memorial_dedication_2008_1st_bench.jpg in 2008]]
+in 2008]]
 
 In the months after his resignation, Rumsfeld toured the New York publishing houses in preparation for a potential memoir.[116] After receiving what one industry source labeled "big bids", he reached an agreement with the Penguin Group to publish the book under its Sentinel HC imprint.
 
@@ -192,12 +188,12 @@ In January 2016, in partnership with the literary and creative agency Javelin wh
 
 Electoral history
 
-Defense.gov_News_Photo_050702-F-7203T-593.jpg, which he served as the grand marshal[131]]] During the four elections during which he ran to represent Illinois's 13th congressional district, Rumsfeld received shares of the popular vote that ranged from 58% (in 1964) to 76% (in 1966). In 1975 and 2001, Rumsfeld was overwhelmingly confirmed by the U.S. Senate after Presidents Gerald Ford and George W. Bush, respectively, appointed him as U.S. Secretary of Defense.
+, which he served as the grand marshal[131]]] During the four elections during which he ran to represent Illinois's 13th congressional district, Rumsfeld received shares of the popular vote that ranged from 58% (in 1964) to 76% (in 1966). In 1975 and 2001, Rumsfeld was overwhelmingly confirmed by the U.S. Senate after Presidents Gerald Ford and George W. Bush, respectively, appointed him as U.S. Secretary of Defense.
 
 
 Awards and reputation
 
-Donald_H._Rumsfeld.jpg Rumsfeld has been awarded 11 honorary degrees.[132] Following his years as CEO, president, and later chairman of G. D. Searle & Company, he was recognized as Outstanding CEO in the pharmaceutical industry by the Wall Street Transcript (1980) and Financial World (1981).[133]
+Rumsfeld has been awarded 11 honorary degrees.[132] Following his years as CEO, president, and later chairman of G. D. Searle & Company, he was recognized as Outstanding CEO in the pharmaceutical industry by the Wall Street Transcript (1980) and Financial World (1981).[133]
 
 Some of his other awards include:
 
@@ -220,7 +216,7 @@ Some of his other awards include:
 -   Order of Anthony Wayne from Valley Forge Military Academy
 -   Special Grand Cordon of the Order of Brilliant Star (2011, Republic of China)[147]
 -   National Flag award from Albania's President Bujar Nishani (2013)[148]
--   JPN_Kyokujitsu-sho_1Class_BAR.svg Grand Cordon of the Order of the Rising Sun (2015)
+-   Grand Cordon of the Order of the Rising Sun (2015)
 
 Secretary of State Henry Kissinger described Rumsfeld as "the most ruthless man" he knew.[149]
 
@@ -243,7 +239,7 @@ Institutional affiliations
 
 Government posts, panels, and commissions
 
-President_Ford_and_Soviet_General_Secretary_Leonid_I._Brezhnev_-_NARA_-_7162534_(crop).jpg, President Ford and Rumsfeld in Vladivostok, Soviet Union, November 1974]] Defense.gov_News_Photo_051024-F-5586B-016.jpg at the NATO-Ukraine consultations in Vilnius, Lithuania, on October 24, 2005]]
+, President Ford and Rumsfeld in Vladivostok, Soviet Union, November 1974]] at the NATO-Ukraine consultations in Vilnius, Lithuania, on October 24, 2005]]
 
 -   Secretary of Defense (2001–06)
 -   U.S. Commission to Assess National Security Space Management and Organization: Chairman (2000)[153]

@@ -17,7 +17,7 @@ It is difficult to discern any structure in Jeremiah, probably because the book 
 
 Summary
 
-Rembrandt_Harmensz._van_Rijn_-_Jeremia_treurend_over_de_verwoesting_van_Jeruzalem_-_Google_Art_Project.jpg, "Jeremiah Lamenting the Destruction of Jerusalem", c. 1630]]
+, "Jeremiah Lamenting the Destruction of Jerusalem", c. 1630]]
 
 Historical background
 
@@ -29,8 +29,6 @@ The book can be conveniently divided into biographical, prose and poetic strands
 
 
 Composition
-
-Aleppo-HighRes2-Neviim6-Jeremiah.pdf
 
 Texts and manuscripts
 
@@ -83,7 +81,7 @@ The following is a list – not exhaustive – of noteworthy sign-acts found in 
 
 Later interpretation and influence
 
-Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_140.png]]
+]]
 
 Judaism
 

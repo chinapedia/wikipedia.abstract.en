@@ -1,11 +1,11 @@
-Naxos_Taverna.jpg, an integral part of Greek culture and cuisine]]
+, an integral part of Greek culture and cuisine]]
 
 GREEK CUISINE () is a Mediterranean cuisine.[1] Contemporary Greek cookery makes wide use of vegetables, olive oil, grains, fish, wine (white and red), and meat (including lamb, poultry, veal, beef, rabbit, and pork). Other important ingredients include olives, pasta (especially hyllopites, a kind of pasta similar to tagliatelle), cheese, lemon juice, herbs, bread, and yogurt. The most commonly used grain is wheat; barley is also used. Common dessert ingredients include nuts, honey, fruits, and filo pastries. It is strongly influenced by Ottoman cuisine and thus, especially cuisine of Anatolian Greeks shares foods such as baklava, tzatziki, gyro, moussaka, dolmades, yuvarlakia, and keftethes with the neighboring countries. To an even greater extent it is influenced by Italian cuisine and cuisines from other neighboring south European countries, and thus, especially in southern regions and the islands it includes several kinds of pasta, like hyllopites, gogkes, and tziolia.
 
 
 History
 
-Fish_plate_Louvre_K588.jpg]]
+]]
 
 Greek cuisine has a culinary tradition of some 4,000 years and is a part of the history and the culture of Greece. Its flavors change with the season and its geography.[2] Greek cookery, historically a forerunner of Western cuisine, spread its culinary influence, via ancient Rome, throughout Europe and beyond.[3] It has influences from the different people's cuisine the Greeks have interacted with over the centuries, as evidenced by several types of sweets and cooked foods.
 
@@ -16,7 +16,7 @@ Byzantine cuisine was similar to the classical cuisine, with the addition of new
 
 Overview
 
-Cloudy_olive_oil1.jpg]] Oregano-spice.jpg for culinary use]]
+]] for culinary use]]
 
 The most characteristic and ancient element of Greek cuisine is olive oil, which is used in most dishes. It is produced from the olive trees prominent throughout the region, and adds to the distinctive taste of Greek food. The olives themselves are also widely eaten. The basic grain in Greece is wheat, though barley is also grown. Important vegetables include tomato, aubergine (eggplant), potato, green beans, okra, green peppers, and onions. Honey in Greece is mainly honey from the nectar of fruit trees and citrus trees: lemon, orange, bigarade (bitter orange) trees, thyme honey, and pine honey. _Mastic_ (aromatic, ivory-coloured resin) is grown on the Aegean island of Chios.
 
@@ -31,7 +31,7 @@ Dining out is common in Greece, and has been for quite some time. The _Taverna_ 
 
 Origins
 
-Kalamataolives.jpgs]] Thymus_vulgaris.jpg, one of the most traditional Greek herbs, was mentioned in the Odyssey.]]
+s]] , one of the most traditional Greek herbs, was mentioned in the Odyssey.]]
 
 Greece has an ancient culinary tradition dating back several millennia, and over the centuries Greek cuisine has evolved and absorbed numerous influences and influenced many cuisines itself.
 
@@ -64,8 +64,6 @@ Greek cuisine is very diverse and although there are many common characteristics
 The list will present some of the most representative Greek dishes that can be found throughout the country and the most famous of the local ones:
 
 Breads
-
-Lagana_(λαγάνα)_(cropped).jpg
 
 -   _Daktyla_
 -   _Eliopsomo_, bread with olives
@@ -121,7 +119,7 @@ File:Greek Salad Choriatiki.jpg|Classic Greek salad with feta File:Spanikopita G
 
 Soups
 
-Fasolada.JPG]]
+]]
 
 -   _Bourou-bourou_, a vegetable and pasta soup from the island of Corfu
 -   _Fakes_, a lentil soup, usually served with vinegar and olive oil.
@@ -137,8 +135,6 @@ Fasolada.JPG]]
 -   _Trahana_ soup, made from a dried grain-dairy substance and chicken fat.
 
 Vegetarian main dishes
-
-Vrasta_horta.jpg Greek_grocery_vegetables.JPG
 
 Very popular during fasting periods, such as the Great Lent:
 
@@ -209,7 +205,7 @@ Meals easily available with inexpensive ingredients and little preparation invol
 
 Desserts and sweets
 
-Melomakarona.jpg]] Greek_diples.jpg are made on an iron mould dipped in batter and cooked in oil.]] Πασχαλινά_Μελιτίνια_(Melitinia).jpg BougatsaAthens.webm in an Athens cafe.]]
+]] are made on an iron mould dipped in batter and cooked in oil.]] in an Athens cafe.]]
 
 -   _Amygdalopita_: pie with almonds
 -   _Amygdalotá_ or '' pastéli'' exist in many varieties throughout Greece and Cyprus, and are especially popular in the islands. They consist of powdered blanched almonds, confectioner's sugar and rose water, molded in various shapes and sizes. They are snow-white and are considered wedding and baptismal desserts.
@@ -245,7 +241,7 @@ Melomakarona.jpg]] Greek_diples.jpg are made on an iron mould dipped in batter a
 
 Cheeses
 
-Cheese_14_bg_050306.jpg cheese]] Homemade_Mizithra.jpg]]
+cheese]] ]]
 
 There is a wide variety of cheeses made in various regions across Greece. The vast majority of them remain unknown outside the Greek borders due to the lack of knowledge and the highly localized distinctive features. Many artisanal, hand made cheeses, both common varieties and local specialties, are produced by small family farms throughout Greece and offer distinct flavors atypical of the mass-produced varieties found commercially in Greece and abroad. A good list of some of the varieties of cheese produced and consumed in Greece can be found here. These are some of the more popular throughout Greece:
 
@@ -277,7 +273,7 @@ Visinada (cherryade) is made from dark cherry syrup (which was originally homema
 
 Coffee
 
-Frappe_(4547117210).jpg]]
+]]
 
 The traditional coffeehouses in Greece are called _kafenia_, and they offer coffee, refreshments, alcoholic beverages and snacks or meze. In recent years, especially in the large urban centres, _kafenia_ are gradually being replaced by modern "cafeterias". Preferred types of coffee are, among others, Greek coffee, frappé (a foam-covered iced coffee drink), and iced cappuccino and espresso, named Freddo Cappuccino and Freddo Espresso, respectively.[16] Iced coffee-based drinks, such as _freddoccino_ or _freddito_, are also popular in the summer.
 
@@ -301,7 +297,7 @@ File:ASSYRTIKO.jpg|Assyrtiko grapes File:Agiorgitiko nemea wine.jpeg|A Nemea win
 
 Beer
 
-Karolos_fix.jpg, late 19th century]]
+, late 19th century]]
 
 Archaeological and archaeochemical finds suggest that the Minoans fermented barley and other substances, and consumed some form of beer.[27] The beer tradition of the Minoans was discontinued by the Mycenaeans; beverages from fermented cereals may have remained only in Crete during their rule.[28] In Archaic and Classical Greece, beer is mentioned as a foreign beverage, while, when Alexander the Great conquered in 332 BC Egypt, a civilization with a long brewing tradition, the Greeks continued to disdain beer seeing it as the drink of their rivals.[29] In Modern Greece, a limited number of brands—owned by breweries from northern Europe in most cases (e.g. Heineken or Amstel)—dominated for many years the local market, while a stringent Bavarian-influenced beer purity law was in force.[30] Gradually, the provisions of this law loosened, and, since the late 1990s, new local brands emerged (in 1997 Mythos made a breakthrough) or re-emerged (e.g. Fix Hellas), reviving competition. In recent years, in parallel with the large breweries, local microbreweries operate throughout Greece.[31]
 

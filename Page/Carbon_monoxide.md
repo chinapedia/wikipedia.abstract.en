@@ -31,7 +31,7 @@ Bonding and dipole moment
 
 The carbon monoxide has a very high bond-dissociation energy, the strongest of any neutral molecule, 11.65 eV. Carbon and oxygen together have a total of 10 electrons in the valence shell. Following the octet rule for both carbon and oxygen, the two atoms form a triple bond, with six shared electrons in three bonding molecular orbitals, rather than the usual double bond found in organic carbonyl compounds. Since four of the shared electrons come from the oxygen atom and only two from carbon, one bonding orbital is occupied by two electrons from oxygen, forming a dative or dipolar bond. This causes a C←O polarization of the molecule, with a small negative charge on carbon and a small positive charge on oxygen. The other two bonding orbitals are each occupied by one electron from carbon and one from oxygen, forming (polar) covalent bonds with a reverse C→O polarization, since oxygen is more electronegative than carbon. In the free carbon monoxide, a net negative charge δ^(–) remains at the carbon end and the molecule has a small dipole moment of 0.122 D.[23]
 
-The molecule is therefore asymmetric: oxygen has more electron density than carbon, and is also slightly positively charged compared to carbon being negative. By contrast, the isoelectronic dinitrogen molecule has no dipole moment. Carbon_Monoxide-2.png Carbon monoxide has a computed fractional bond order of 2.6, indicating that the "third" bond is important but constitutes somewhat less than a full bond.[24] Thus, in valence bond terms, ^(–)C≡O⁺ is the most important structure, while :C=O is non-octet, but has a neutral formal charge on each atom and represents the second most important resonance contributor. Because of the lone pair and divalence of carbon in this resonance structure, carbon monoxide is often considered to be an extraordinarily stabilized carbene.[25] Isocyanides are compounds in which the O is replaced by an NR (R = alkyl or aryl) group and have a similar bonding scheme.
+The molecule is therefore asymmetric: oxygen has more electron density than carbon, and is also slightly positively charged compared to carbon being negative. By contrast, the isoelectronic dinitrogen molecule has no dipole moment. Carbon monoxide has a computed fractional bond order of 2.6, indicating that the "third" bond is important but constitutes somewhat less than a full bond.[24] Thus, in valence bond terms, ^(–)C≡O⁺ is the most important structure, while :C=O is non-octet, but has a neutral formal charge on each atom and represents the second most important resonance contributor. Because of the lone pair and divalence of carbon in this resonance structure, carbon monoxide is often considered to be an extraordinarily stabilized carbene.[25] Isocyanides are compounds in which the O is replaced by an NR (R = alkyl or aryl) group and have a similar bonding scheme.
 
 If carbon monoxide acts as a ligand, the polarity of the dipole may reverse with a net negative charge on the oxygen end, depending on the structure of the coordination complex.[26] See also the section _"Coordination chemistry"_ below.
 
@@ -73,7 +73,7 @@ CooA is a carbon monoxide sensor protein.[50] The scope of its biological role i
 
 Occurrence
 
-MOP_CO_M.ogv Carbon monoxide occurs in various natural and artificial environments. Typical concentrations in parts per million are as follows:
+Carbon monoxide occurs in various natural and artificial environments. Typical concentrations in parts per million are as follows:
 
   ---------------------------------------------------------------------------------------------------------------------------------------
   _ppmv: parts per million by volume (note: volume fraction is equal to mole fraction for ideal gas only, see volume (thermodynamics))_
@@ -93,7 +93,7 @@ MOP_CO_M.ogv Carbon monoxide occurs in various natural and artificial environmen
 
 Atmospheric presence
 
-Carbon_Monoxide.ogv, Africa, and the Atlantic Ocean in this animation points to high levels of carbon monoxide on September 30, 2005.]] Carbon_Monoxide_concentrations_in_spring..jpg
+, Africa, and the Atlantic Ocean in this animation points to high levels of carbon monoxide on September 30, 2005.]]
 
 Carbon monoxide (CO) is present in small amounts (about 80 ppb) in the Earth's atmosphere. About half of the carbon monoxide in Earth's atmosphere is from the burning of fossil fuels and biomass (such as forest and bushfires).[52] Most of the rest of carbon monoxide comes from chemical reactions with organic compounds emitted by human activities and plants. Small amounts are also emitted from the ocean, and from geological activity because carbon monoxide occurs dissolved in molten volcanic rock at high pressures in the Earth's mantle.[53] Because natural sources of carbon monoxide are so variable from year to year, it is difficult to accurately measure natural emissions of the gas.
 
@@ -197,7 +197,7 @@ Finally, metal oxalate salts release CO upon heating, leaving a carbonate as byp
 
 Coordination chemistry
 
-MO_COeng.svg Carbon-monoxide-HOMO-phase-3D-balls.png of CO is a σ MO.]] Carbon-monoxide-LUMO-phase-3D-balls.png of CO is a π* antibonding MO.]]
+of CO is a σ MO.]] of CO is a π* antibonding MO.]]
 
 Most metals form coordination complexes containing covalently attached carbon monoxide. Only metals in lower oxidation states will complex with carbon monoxide ligands. This is because there must be sufficient electron density to facilitate back-donation from the metal d_(xz)-orbital, to the π* molecular orbital from CO. The lone pair on the carbon atom in CO, also donates electron density to the d_(x²−y²) on the metal to form a sigma bond. This electron donation is also exhibited with the cis effect, or the labilization of CO ligands in the cis position. Nickel carbonyl, for example, forms by the direct combination of carbon monoxide and nickel metal:
 
@@ -206,8 +206,6 @@ Most metals form coordination complexes containing covalently attached carbon mo
 For this reason, nickel in any tubing or part must not come into prolonged contact with carbon monoxide. Nickel carbonyl decomposes readily back to Ni and CO upon contact with hot surfaces, and this method is used for the industrial purification of nickel in the Mond process.[83]
 
 In nickel carbonyl and other carbonyls, the electron pair on the carbon interacts with the metal; the carbon monoxide donates the electron pair to the metal. In these situations, carbon monoxide is called the CARBONYL ligand. One of the most important metal carbonyls is iron pentacarbonyl, Fe(CO)₅:
-
-IronPentacarbonylStructure.png Iron-pentacarbonyl-3D-balls.png
 
 Many metal-CO complexes are prepared by decarbonylation of organic solvents, not from CO. For instance, iridium trichloride and triphenylphosphine react in boiling 2-methoxyethanol or DMF to afford IrCl(CO)(PPh₃)₂.
 

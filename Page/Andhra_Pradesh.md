@@ -17,7 +17,7 @@ A group of people named Andhras was mentioned in Sanskrit texts such as Aitareya
 
 Early and medieval history
 
-Telugu_talli_bomma.JPG Archaeological evidence from places such as Amaravati, Dharanikota, and Vaddamanu suggests that the Andhra region was part of the Mauryan Empire. Amaravati might have been a regional centre for the Mauryan rule. After the death of Emperor Ashoka, Mauryan rule weakened around 200 BCE and was replaced by several smaller kingdoms in the Andhra region.[23]
+Archaeological evidence from places such as Amaravati, Dharanikota, and Vaddamanu suggests that the Andhra region was part of the Mauryan Empire. Amaravati might have been a regional centre for the Mauryan rule. After the death of Emperor Ashoka, Mauryan rule weakened around 200 BCE and was replaced by several smaller kingdoms in the Andhra region.[23]
 
 The Satavahana dynasty dominated the Deccan region from the 1st century BC to the 3rd century.[24] The later Satavahanas made Dharanikota and Amaravathi their capital, which according to the Buddhists is the place where Nagarjuna, the philosopher of Mahayana lived in the 2nd and 3rd centuries.[25] The Andhra Ikshvakus, with their capital at Vijayapuri, succeeded the Satavahanas in the Krishna River valley in the latter half of the 2nd century.[26] Pallavas, who were originally executive officers under the Satavahana kings, were not a recognised political power before the 2nd century AD and were swept away by the Western Chalukyan invasion, led by Pulakesin II in the first quarter of the 7th century CE.[27] After the downfall of the Ikshvakus, the Vishnukundinas were the first great dynasty in the 5th and 6th centuries, and held sway over the entire Andhra country, including Kalinga and parts of Telangana. They played an important role in the history of Deccan during the 5th and 6th century CE, with Eluru, Amaravathi and Puranisangam.[28]
 
@@ -25,7 +25,7 @@ The Salankayanas were an ancient dynasty that ruled the Andhra region between Go
 
 Kakatiyas ruled Andhra Pradesh state for nearly two hundred years and constructed several forts. They were succeeded by the Musunuri Nayaks.
 
-The Reddy dynasty (1325–1448 CE) was established by Prolaya Vema Reddi in the early 14th century, who ruled from present day Kondaveedu. Prolaya Vema Reddi was part of the confederation of states that started a movement against the invading Turkic Muslim armies of the Delhi Sultanate in 1323 CE and succeeded in repulsing them from Warangal.[33] They constructed Kondaveedu Fort which they ruled between 1328–1428, before it was taken over by the Gajpathis of Orissa, and later ravaged by the Muslim rulers of the Bahmani kingdom in 1458. The Vijayanagara emperor Krishnadevaraya captured it in 1516. The Golconda Sultans fought for the fort in 1531, 1536 and 1579, and Sultan Quli Qutb Shah captured it in 1579, renaming it _Murtuzanagar_. Again it was reconquered by Vijayanagarans who overthrew sultanate rule across the entirety of modern-day Andhra Pradesh (excluding Telangana). After this rebellion, the Bahmani sultans launched no further military campaigns outside their kingdoms, because the Marathas soon emerged as the strongest power in India.[34][35][36] Efforts are in progress to classify Kondaveedu Fort as a UNESCO World Heritage Site.[37][38] Pemmasani Nayaks, the greatest kings during Vijayanagara times ruled parts of Andhra Pradesh state with Gandikota as capital for nearly three hundred years.[39] Raaja_mahal_1.JPG Fort]] The Vijayanagara Empire originated in the Deccan Plateau region in the early 14th century. It was established in 1336 by Harihara Raya I and his brother Bukka Raya I of the Sangama Dynasty.[40][41] The empire's patronage enabled fine arts and literature to reach new heights in Kannada, Telugu, Tamil, and Sanskrit, while Carnatic music evolved into its current form.[42] The Lepakshi group of monuments are culturally and archaeologically significant as it is the location of shrines dedicated to Shiva, Vishnu, and Veerabhadra which were built during the Vijayanagara Kings' period (1336–1646). The temples are the location of mural paintings of the Vijayanagara kings, Dravidian art, and inscriptions. Near the temple complex is a large granite Nandi bull. On a hillock known as _Kurma Saila_ ('tortoise-shaped hill') are other temples to Papanatheswara, Raghunatha, Srirama, and Durga.[43][44]
+The Reddy dynasty (1325–1448 CE) was established by Prolaya Vema Reddi in the early 14th century, who ruled from present day Kondaveedu. Prolaya Vema Reddi was part of the confederation of states that started a movement against the invading Turkic Muslim armies of the Delhi Sultanate in 1323 CE and succeeded in repulsing them from Warangal.[33] They constructed Kondaveedu Fort which they ruled between 1328–1428, before it was taken over by the Gajpathis of Orissa, and later ravaged by the Muslim rulers of the Bahmani kingdom in 1458. The Vijayanagara emperor Krishnadevaraya captured it in 1516. The Golconda Sultans fought for the fort in 1531, 1536 and 1579, and Sultan Quli Qutb Shah captured it in 1579, renaming it _Murtuzanagar_. Again it was reconquered by Vijayanagarans who overthrew sultanate rule across the entirety of modern-day Andhra Pradesh (excluding Telangana). After this rebellion, the Bahmani sultans launched no further military campaigns outside their kingdoms, because the Marathas soon emerged as the strongest power in India.[34][35][36] Efforts are in progress to classify Kondaveedu Fort as a UNESCO World Heritage Site.[37][38] Pemmasani Nayaks, the greatest kings during Vijayanagara times ruled parts of Andhra Pradesh state with Gandikota as capital for nearly three hundred years.[39] Fort]] The Vijayanagara Empire originated in the Deccan Plateau region in the early 14th century. It was established in 1336 by Harihara Raya I and his brother Bukka Raya I of the Sangama Dynasty.[40][41] The empire's patronage enabled fine arts and literature to reach new heights in Kannada, Telugu, Tamil, and Sanskrit, while Carnatic music evolved into its current form.[42] The Lepakshi group of monuments are culturally and archaeologically significant as it is the location of shrines dedicated to Shiva, Vishnu, and Veerabhadra which were built during the Vijayanagara Kings' period (1336–1646). The temples are the location of mural paintings of the Vijayanagara kings, Dravidian art, and inscriptions. Near the temple complex is a large granite Nandi bull. On a hillock known as _Kurma Saila_ ('tortoise-shaped hill') are other temples to Papanatheswara, Raghunatha, Srirama, and Durga.[43][44]
 
 The Government of Andhra Pradesh has taken the initiative for including the "Lepakshi Group of Monuments" among the UNESCO World Heritage sites in India.[45][46]
 
@@ -39,7 +39,7 @@ India became independent from the United Kingdom in 1947. The Nizam wanted to re
 
 Post-independence
 
-Archaeological_Museums_map_of_Andhra_Pradesh.png In an effort to gain an independent state based on linguistic identity, and to protect the interests of the Telugu-speaking people of Madras State, Potti Sreeramulu fasted to death in 1952. As Madras became a bone of contention, in 1949 a JVP committee report stated: "Andhra Province could be formed provided the Andhras give up their claim on the city of Madras (now Chennai)". After Potti Sreeramulu's death, the Telugu-speaking area of Andhra State was carved out of Madras State on 1 October 1953, with Kurnool as its capital city.[51] On the basis of the gentlemen's agreement of 1 November 1956, the States Reorganisation Act formed Andhra Pradesh by merging Andhra State with the Telugu-speaking areas of the already existing Hyderabad State.[52] Hyderabad was made the capital of the new state. The Marathi-speaking areas of Hyderabad State merged with Bombay State and the Kannada-speaking areas were merged with Mysore State.
+In an effort to gain an independent state based on linguistic identity, and to protect the interests of the Telugu-speaking people of Madras State, Potti Sreeramulu fasted to death in 1952. As Madras became a bone of contention, in 1949 a JVP committee report stated: "Andhra Province could be formed provided the Andhras give up their claim on the city of Madras (now Chennai)". After Potti Sreeramulu's death, the Telugu-speaking area of Andhra State was carved out of Madras State on 1 October 1953, with Kurnool as its capital city.[51] On the basis of the gentlemen's agreement of 1 November 1956, the States Reorganisation Act formed Andhra Pradesh by merging Andhra State with the Telugu-speaking areas of the already existing Hyderabad State.[52] Hyderabad was made the capital of the new state. The Marathi-speaking areas of Hyderabad State merged with Bombay State and the Kannada-speaking areas were merged with Mysore State.
 
 In February 2014, the Andhra Pradesh Reorganisation Act, 2014 bill was passed by the Parliament of India for the formation of the Telangana state comprising ten districts. Hyderabad will remain as a joint capital for not exceeding ten years.[53] The new state of Telangana came into existence on 2 June 2014 after approval from the President of India.[54] Number of petitions questioning the validity of Andhra Pradesh Reorganisation Act, 2014 is long pending for the verdict since April 2014 before the supreme court constitutional bench.[55]
 
@@ -52,7 +52,7 @@ The state has varied topography ranging from the hills of Eastern Ghats and Nall
 
 Natural vegetation and conservation
 
-Pichavaram_Mangrove_Forest.jpg The Andhra Pradesh Forest Department deals with protection, conservation and management of forests. The total forest cover of the state after the bifurcation is left with an area of 22,862 km².[58] The forest in the state can be broadly divided into four major biotic provinces.[59] They are:
+The Andhra Pradesh Forest Department deals with protection, conservation and management of forests. The total forest cover of the state after the bifurcation is left with an area of 22,862 km².[58] The forest in the state can be broadly divided into four major biotic provinces.[59] They are:
 
 1.  Deccan Plateau
 2.  Central Plateau
@@ -82,7 +82,7 @@ There are male and female citizens—a sex ratio of 996 females per 1000 males, 
 
 Andhra Pradesh ranks tenth of all Indian States in the Human Development Index scores[69] with a score of 0.416. The National Council of Applied Economic Research district analysis in 2001 reveals that Krishna, West Godavari and Chittoor are the three districts in rural AP with the highest Human Development Index scores in ascending order.
 
-Vizag_View_from_Kailasagiri.jpg is the most populous city in Andhra Pradesh, and the 14th-largest city in India.
+is the most populous city in Andhra Pradesh, and the 14th-largest city in India.
 
 ]] District
 
@@ -166,7 +166,7 @@ There are a total of 31 cities which include, 16 municipal corporations and 14 m
 
 Government and politics
 
-Guntur_District_Court,_India.jpg Eluru_District_Collector_Office.jpg Legislative Assembly of Andhra Pradesh is the lower house of the state and legislative council of andhra pradesh is the upper house with 58 members. In the Parliament of India, Andhra Pradesh has 11 seats in the Rajya Sabha, and 25 seats in the Lok Sabha.[87] There are a total of 175 Assembly constituencies in the state. East Godavari district has the most number of constituencies with 19 and Vizianagaram district has the least with 9 assembly seats.[88] Whereas, the legislative council of the state has 58 seats, which is one-third of total assembly seats.[89]
+Legislative Assembly of Andhra Pradesh is the lower house of the state and legislative council of andhra pradesh is the upper house with 58 members. In the Parliament of India, Andhra Pradesh has 11 seats in the Rajya Sabha, and 25 seats in the Lok Sabha.[87] There are a total of 175 Assembly constituencies in the state. East Godavari district has the most number of constituencies with 19 and Vizianagaram district has the least with 9 assembly seats.[88] Whereas, the legislative council of the state has 58 seats, which is one-third of total assembly seats.[89]
 
 Until 1962, the CPI, along with socialist parties namely Praja Socialist Party and Krishi Lok Party played an important role in the 1950s. In the 1967 state assembly elections, all socialist parties were eliminated and CPI lost opposition party status. The first Chief Minister of Andhra Pradesh was Neelam Sanjiva Reddy who later served as President of India.[90][91]
 
@@ -179,7 +179,7 @@ In what would be the last elections held in the unified state, Telugu Desam Part
 
 Economy
 
-vizagcity.jpg is an important commercial hub of the state]] Visakhapatnam_view_from_Vizag_seaport.JPG Andhra Pradesh was ranked eighth among other Indian states in terms of GSDP for the financial year 2014–2015. The GSDP at current prices was and at constant prices was .[94] The domestic product of agriculture sector accounts for and Industrial sector for . The service sector of the state accounts more percentage of the GSDP with a total of .[95] In the 2010 list by _Forbes_ magazine, there were several from Andhra Pradesh among the top 100 richest Indians.[96]
+is an important commercial hub of the state]] Andhra Pradesh was ranked eighth among other Indian states in terms of GSDP for the financial year 2014–2015. The GSDP at current prices was and at constant prices was .[94] The domestic product of agriculture sector accounts for and Industrial sector for . The service sector of the state accounts more percentage of the GSDP with a total of .[95] In the 2010 list by _Forbes_ magazine, there were several from Andhra Pradesh among the top 100 richest Indians.[96]
 
 Agriculture
 
@@ -199,7 +199,7 @@ Andhra Pradesh is investing in building infrastructure in the state such as high
 
 Industrial sector
 
-Satyam_campus_in_Visakhapatnam.jpg Development Centre, Visakhapatnam|alt=Front of large round building, with street and trees in front]] The industrial sector of the state includes some of the key sectors like Pharma, Automobile, Textiles etc. Sricity located in Chittoor district is an integrated business city which is home to firms including PepsiCo, Isuzu Motors, Cadbury India, Kellogg's, Colgate-Palmolive, Kobelco etc.[107] The PepsiCo firm has its largest plant in India at Sri City.[108] The state is also emerging as destination for Automobile industry which already hosts companies including Ashok Leyland in Krishna district, Hero Motors in Chittoor district, Kia Motors in Anantapur district.
+Development Centre, Visakhapatnam|alt=Front of large round building, with street and trees in front]] The industrial sector of the state includes some of the key sectors like Pharma, Automobile, Textiles etc. Sricity located in Chittoor district is an integrated business city which is home to firms including PepsiCo, Isuzu Motors, Cadbury India, Kellogg's, Colgate-Palmolive, Kobelco etc.[107] The PepsiCo firm has its largest plant in India at Sri City.[108] The state is also emerging as destination for Automobile industry which already hosts companies including Ashok Leyland in Krishna district, Hero Motors in Chittoor district, Kia Motors in Anantapur district.
 
 The state is also emerging in information technology and biotechnology. The IT/ITES revenues of Visakhapatnam is at in 2012–2013. The development of IT in Tier-II and Tier-III cities like Vijayawada, Kakinada and Tirupati is also improving. In the fiscal year 2012–2013, Vijayawada's IT/ITeS revenues were crore. Tirupati with and Kakinada with stand next.[109] For the benefit of state i.e., After separating Telangana from andhra, people of andhra protested for special status during the month of January in 2017
 
@@ -217,7 +217,7 @@ Reliance Industries Limited struck nine trillion cubic feet of gas reserves in t
 
 Power plants
 
-Rayalaseema_Thermal_Power_Station.jpg The state is a pioneer nationwide in solar power generation. APGENCO is the power generating company owned by the state.[114] The state has become power surplus with excess power generation being exported to other states.[115]
+The state is a pioneer nationwide in solar power generation. APGENCO is the power generating company owned by the state.[114] The state has become power surplus with excess power generation being exported to other states.[115]
 
 Thermal (natural gas and coal based) and renewable power plants totalling to 21,000 MW were installed in the state by the year 2015. Local power plants of 9,600 MW capacity only are supplying electricity in the state which includes Simhadri Super Thermal Power Plant (2000 MW) of NTPC, Vizag Thermal Power Station (1040 MW), Rayalaseema Thermal Power Station (1650 MW), Sri Damodaram Sanjeevaiah Thermal Power Station (1600 MW), Vijayawada Thermal Power Plant (1760 MW), etc. Hydel power plants are having a capacity of 1671 MW.[116]
 
@@ -228,7 +228,7 @@ Andhra Pradesh has rich culture and heritage.[117] Kuchipudi, the state dance or
 
 Arts, crafts and artifacts
 
-Kondapalli_toys_at_a_house_in_Vijayawada.jpg at a house in Vijayawada]] Machilipatnam and Srikalahasti Kalamkari are the two unique textile art forms practised in India.[123] There are also other notable handicrafts present in the state, like the soft limestone idol carvings of Durgi.[124] Etikoppaka in Visakhapatnam district is notable for its Lac industry, producing lacquered wooden.[125][126]
+at a house in Vijayawada]] Machilipatnam and Srikalahasti Kalamkari are the two unique textile art forms practised in India.[123] There are also other notable handicrafts present in the state, like the soft limestone idol carvings of Durgi.[124] Etikoppaka in Visakhapatnam district is notable for its Lac industry, producing lacquered wooden.[125][126]
 
 The state has many museums, which features a varied collection of ancient sculptures, paintings, idols, weapons, cutlery and inscriptions, and religious artifacts such as the Amaravati Archaeological Museum,[127] Visakha Museum and Telugu Cultural Museum in Visakhapatnam displays the history of the pre-Independence and the Victoria Jubilee Museum in Vijayawada with large collection of artifacts.
 
@@ -238,7 +238,7 @@ Nannayya, Tikkana and Yerrapragada form the trinity who translated the Sanskrit 
 
 Art and cinema
 
-Prathiksha_Kashi.jpg dance]]
+dance]]
 
 Many composers of Carnatic music like Annamacharya, Kshetrayya, and Bhadrachala Ramadas were of Telugu descent. Modern Carnatic music composers and singers like Ghantasala, Sujatha Puligella and M. Balamuralikrishna are also of Telugu descent. The Telugu film industry hosts many music composers and playback singers such as S. P. Balasubrahmanyam, P. Susheela, S. Janaki and P. B. Sreenivas. Folk songs are very important and popular in the many rural areas of the state. Forms such as the _Burra katha_ and _Poli_ are still performed today.[130] _Harikathaa Kalakshepam (or Harikatha)_ involves the narration of a story, intermingled with various songs relating to the story. Harikatha was originated in Andhra.[131] _Burra katha_ is an oral storytelling technique with the topic be either a Hindu mythological story or a contemporary social issue.[132] _Rangasthalam_ is an Indian theatre in the Telugu language, based predominantly in Andhra Pradesh.[133] Gurazada Apparao wrote the play _Kanyasulkam_ in 1892, often considered the greatest play in the Telugu language.[134] C. Pullaiah is cited as the father of Telugu theatre movement.[135][136]
 
@@ -246,11 +246,11 @@ The Telugu film industry is largely based in Hyderabad and Visakhapatnam. The Te
 
 Cuisine
 
-Vegetarian_Andhra_Meal.jpg Telugu people's traditional sweet Pootharekulu originated from Atreyapuram village, Andhra Pradesh.
+Telugu people's traditional sweet Pootharekulu originated from Atreyapuram village, Andhra Pradesh.
 
 Tourism
 
-Ananta_Padmanabha_Swami_Temple.jpg, is a monolithic example of Indian rock-cut architecture and one of the finest testimonials to ancient _viswakarma sthapathis_.|alt=]] The state has several beaches in its coastal districts such as, Rushikonda, Mypadu, Suryalanka etc.;[142] caves such as, Borra Caves,[143] Indian rock-cut architecture depicting Undavalli caves[144] and the country's second longest caves named as Belum Caves.[145] The valleys and hills include, Araku Valley, Horsley Hills, Papi Hills etc.[146] Arma Konda peak located in Visakhapatnam district is the highest peak in Eastern Ghats.
+, is a monolithic example of Indian rock-cut architecture and one of the finest testimonials to ancient _viswakarma sthapathis_.|alt=]] The state has several beaches in its coastal districts such as, Rushikonda, Mypadu, Suryalanka etc.;[142] caves such as, Borra Caves,[143] Indian rock-cut architecture depicting Undavalli caves[144] and the country's second longest caves named as Belum Caves.[145] The valleys and hills include, Araku Valley, Horsley Hills, Papi Hills etc.[146] Arma Konda peak located in Visakhapatnam district is the highest peak in Eastern Ghats.
 
 The state is home to various religious pilgrim destinations such as, Tirumala Temple, Simhachalam Temple, Annavaram, Srisailam temple, Kanaka Durga Temple, Amaravati, Srikalahasti, Shahi jamia masjid in Adoni, Gunadala Church in Vijayawada, _Buddhist centres_ at Amaravati, Nagarjuna Konda etc.,[147] and many more as well.
 
@@ -261,7 +261,7 @@ The state is well connected to other states through road and rail networks. It i
 
 Roads
 
-Rps20160709_141628.jpg-Guntur Expressway section of NH-16]]
+-Guntur Expressway section of NH-16]]
 
 The state has a total road network of , of which of National highways, of state highways and of district roads.[148] NH 16, with a highway network of around in the state, is a part of Golden Quadrilateral Project undertaken by National Highways Development Project. It also forms part of AH 45 which comes under the Asian Highway Network.
 
@@ -269,7 +269,7 @@ The state government owned Andhra Pradesh State Road Transport Corporation (APSR
 
 Railways
 
-VijayawadaRailwayStation.jpg]]Andhra Pradesh [151] has a total broad gauge railway route of 3703.25 km and has no metre gauge railway.[152] The rail density of the state is 16.59 per , compared to an all India average of 20.[153] The Howrah–Chennai main line which runs through the state is proposed to be upgraded into a high-speed rail corridor through the Diamond Quadrilateral project of the Indian Railways.[154][155]
+]]Andhra Pradesh [151] has a total broad gauge railway route of 3703.25 km and has no metre gauge railway.[152] The rail density of the state is 16.59 per , compared to an all India average of 20.[153] The Howrah–Chennai main line which runs through the state is proposed to be upgraded into a high-speed rail corridor through the Diamond Quadrilateral project of the Indian Railways.[154][155]
 
 The railway network spans two zones, further subdivided into divisions – Vijayawada, Guntur and Guntakal railway divisions of South Central Railway zone.,[156] and Waltair railway division of East Coast Railway zone.[157] There is a demand for creating a unified zone for the state based out of Visakhapatnam.
 
@@ -277,7 +277,7 @@ There are three A1 and twenty three A-category railway stations in the state.[15
 
 Airports
 
-Map_of_Airports_and_airstrips_of_Andhra_Pradesh.png Visakhapatnam Airport, is the only airport in the state with operating international flights while Vijayawada Airport at Gannavaram has launched an international flight to Singapore, recently.[161] The state has four other domestic airports, Rajamahendravaram Airport at Madhurapudi, Cuddapah Airport, a privately owned, public use airport at Puttaparthi, and Tirupati Airport located in the city of Tirupati. There are also 16 small air strips located in the state.[162]Seaports_Map_of_Andhra_Pradesh.png
+Visakhapatnam Airport, is the only airport in the state with operating international flights while Vijayawada Airport at Gannavaram has launched an international flight to Singapore, recently.[161] The state has four other domestic airports, Rajamahendravaram Airport at Madhurapudi, Cuddapah Airport, a privately owned, public use airport at Puttaparthi, and Tirupati Airport located in the city of Tirupati. There are also 16 small air strips located in the state.[162]
 
 Sea ports
 
@@ -286,7 +286,7 @@ Andhra Pradesh has one of the country's largest port at Visakhapatnam in terms o
 
 Education and research
 
-Universities_Map_of_Andhra_Pradesh.png Guntur-Agri-University.jpg]]
+]]
 
 Andhra Pradesh has an overall literacy rate of 67.41% as per the 2011 Indian census.[167] The primary and secondary school education is imparted by government, aided and private schools, manged and regulated by the School Education Department of the state.[168][169] There are urban, rural and residential schools.[170][171] As per the child info and school information report (2018–19), there were a total of students,[172] enrolled in schools respectively.[173] The Directorate of Government Examinations of the state administers and conduct the Secondary School Certificate (SSC) examination.[174] More than students have appeared for the 2019 SSC exam and recorded an overall pass percentage of 94.88% with a 100% pass percentage in 5,464 schools.[175] The mediums of instruction are primarily Telugu and English with a very few opting for Urdu, Hindi, Kannada, Odia and Tamil.[176]
 

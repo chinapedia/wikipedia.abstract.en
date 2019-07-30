@@ -22,7 +22,7 @@ Belarus has 3 GSM/UMTS operators - Velcom, MTS, life. For 4G data operators use 
 
 Radio and television
 
-Belarus-Minsk-Mass_Media_in_Belarus-For_Diaspora.jpg in Belarus" exhibition. "Mass Media for Diaspora" booth. 5 May 2005]]
+in Belarus" exhibition. "Mass Media for Diaspora" booth. 5 May 2005]]
 
 -   Television broadcast stations: 100 of which 59 are privately owned.[5]
 

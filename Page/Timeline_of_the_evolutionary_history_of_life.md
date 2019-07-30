@@ -5,7 +5,7 @@ While the dates given in this article are estimates based on scientific evidence
 
 Extinction
 
-Geological_time_spiral.png Species go extinct constantly as environments change, as organisms compete for environmental niches, and as genetic mutation leads to the rise of new species from older ones. Occasionally biodiversity on Earth takes a hit in the form of a mass extinction in which the extinction rate is much higher than usual.[9] A large extinction-event often represents an accumulation of smaller extinction- events that take place in a relatively brief period of time.[10]
+Species go extinct constantly as environments change, as organisms compete for environmental niches, and as genetic mutation leads to the rise of new species from older ones. Occasionally biodiversity on Earth takes a hit in the form of a mass extinction in which the extinction rate is much higher than usual.[9] A large extinction-event often represents an accumulation of smaller extinction- events that take place in a relatively brief period of time.[10]
 
 The first known mass extinction in earth's history was the Great Oxygenation Event 2.4 billion years ago. That event led to the loss of most of the planet's obligate anaerobes. Researchers have identified five major extinction events in earth's history since:[11]
 
@@ -28,7 +28,7 @@ In this timeline, MA (for _megaannum_) means "million years ago," KA (for _kiloa
 
 Hadean Eon
 
-FullMoon2010.jpg ]] 4000 Ma and earlier.
+]] 4000 Ma and earlier.
 
   Date                             Event
   -------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -39,7 +39,7 @@ FullMoon2010.jpg ]] 4000 Ma and earlier.
 
 Archean Eon
 
-Acasta_gneiss.jpg exhibited at the Museum of Natural History in Vienna]] Cyanobacterial-algal_mat.jpgl-algal mat, salty lake on the White Sea seaside]] Halobacteria.jpg'' sp. strain NRC-1]]
+exhibited at the Museum of Natural History in Vienna]] l-algal mat, salty lake on the White Sea seaside]] '' sp. strain NRC-1]]
 
 4000 Ma – 2500 Ma
 
@@ -67,7 +67,7 @@ Acasta_gneiss.jpg exhibited at the Museum of Natural History in Vienna]] Cyanoba
 
 Proterozoic Eon
 
-Endomembrane_system_diagram_en_(edit).svg endomembrane system and its components]] Ceratium_furca.jpg_]] Mikrofoto.de-Blepharisma_japonicum_15.jpg_, a free-living ciliated protozoan]] DickinsoniaCostata.jpg'', an iconic Ediacaran organism, displays the characteristic quilted appearance of Ediacaran enigmata.]] 2500 Ma – 542 Ma. Contains the Palaeoproterozoic, Mesoproterozoic and Neoproterozoic eras.
+endomembrane system and its components]] _]] _, a free-living ciliated protozoan]] '', an iconic Ediacaran organism, displays the characteristic quilted appearance of Ediacaran enigmata.]] 2500 Ma – 542 Ma. Contains the Palaeoproterozoic, Mesoproterozoic and Neoproterozoic eras.
 
   Date                                Event
   ----------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -91,7 +91,7 @@ The Phanerozoic Eon, literally the "period of well-displayed life," marks the ap
 
 Palaeozoic Era
 
-542 Ma – 251.0 Ma and contains the Cambrian, Ordovician, Silurian, Devonian, Carboniferous and Permian periods. Nautilus_profile.jpgs flourished during the early Paleozoic era, from the Late Cambrian, where they constituted the main predatory animals.[63]]] Haikouichthys_3d.png, a jawless fish, is popularized as one of the earliest fishes and probably a basal chordate or a basal craniate.[64] ]] Sa-fern.jpg first appear in the fossil record about 360 million years ago in the late Devonian period.[65]]]
+542 Ma – 251.0 Ma and contains the Cambrian, Ordovician, Silurian, Devonian, Carboniferous and Permian periods. s flourished during the early Paleozoic era, from the Late Cambrian, where they constituted the main predatory animals.[63]]] , a jawless fish, is popularized as one of the earliest fishes and probably a basal chordate or a basal craniate.[64] ]] first appear in the fossil record about 360 million years ago in the late Devonian period.[65]]]
 
   Date                              Event
   --------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -119,7 +119,7 @@ Palaeozoic Era
 
 Mesozoic Era
 
-Utatsusaurus_BW.jpg'' is the earliest-known form of an ichthyopterygian.]] Plateosaurus_panorama.jpg_]] Cycas_circinalis.jpg_]] From 251.4 Ma to 66 Ma and containing the Triassic, Jurassic and Cretaceous periods.
+'' is the earliest-known form of an ichthyopterygian.]] _]] _]] From 251.4 Ma to 66 Ma and containing the Triassic, Jurassic and Cretaceous periods.
 
   Date                                          Event
   --------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -153,7 +153,7 @@ Utatsusaurus_BW.jpg'' is the earliest-known form of an ichthyopterygian.]] Plate
 
 Cenozoic Era
 
-66 Ma – present Patriofelis-mount.jpg'' from the American Museum of Natural History ]] Icaronycteris_index.jpg'' appeared 52.2 million years ago]] Grassflowers.jpg
+66 Ma – present '' from the American Museum of Natural History ]] '' appeared 52.2 million years ago]]
 
   Date                                Event
   ----------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -201,7 +201,7 @@ Cenozoic Era
 
 Historical extinctions
 
-Cms-newyorkzoologicalsociety1910.jpg ]] Lipotes_vexillifer.png, declared functionally extinct by the Baiji.org Foundation in 2006.[78][79]]] Diceros_bicornis_longipes.jpg, holotype specimen of a female shot in 1911]] Thylacine_Stuffed_specimen.jpg shot in 1936]]
+]] , declared functionally extinct by the Baiji.org Foundation in 2006.[78][79]]] , holotype specimen of a female shot in 1911]] shot in 1936]]
 
   Date                                          Event
   --------------------------------------------- --------------------------------------------------------------------------------------------------------

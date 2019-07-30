@@ -1,4 +1,4 @@
-Hash tree}} Hash_table_3_1_1_0_1_0_0_SP.svg
+Hash tree}}
 
 In computing, a HASH TABLE (HASH MAP) is a data structure that implements an associative array abstract data type, a structure that can map keys to values. A hash table uses a hash function to compute an _index_ into an array of _buckets_ or _slots_, from which the desired value can be found.
 
@@ -77,8 +77,6 @@ Therefore, almost all hash table implementations have some collision resolution 
 
 Separate chaining
 
-Hash_table_5_0_1_1_1_1_1_LL.svg
-
 In the method known as _separate chaining_, each bucket is independent, and has some sort of list of entries with the same index. The time for hash table operations is the time to find the bucket (which is constant) plus the time for the list operation.
 
 In a good hash table, each bucket has zero or one entries, and sometimes two or three, but rarely more than that. Therefore, structures that are efficient in time and space for these cases are preferred. Structures that are efficient for a fairly large number of entries per bucket are not needed or desirable. If these cases happen often, the hashing function needs to be fixed.
@@ -98,8 +96,6 @@ The bucket chains are often searched sequentially using the order the entries we
 Chained hash tables also inherit the disadvantages of linked lists. When storing small keys and values, the space overhead of the next pointer in each entry record can be significant. An additional disadvantage is that traversing a linked list has poor cache performance, making the processor cache ineffective.
 
 Separate chaining with list head cells
-
-Hash_table_5_0_1_1_1_1_0_LL.svg
 
 Some chaining implementations store the first record of each chain in the slot array itself.[9] The number of pointer traversals is decreased by one for most cases. The purpose is to increase cache efficiency of hash table access.
 
@@ -123,7 +119,7 @@ An elaboration on this approach is the so-called dynamic perfect hashing,[13] wh
 
 Open addressing
 
-Hash_table_5_0_1_1_1_1_0_SP.svg In another strategy, called open addressing, all entry records are stored in the bucket array itself. When a new entry has to be inserted, the buckets are examined, starting with the hashed-to slot and proceeding in some _probe sequence_, until an unoccupied slot is found. When searching for an entry, the buckets are scanned in the same sequence, until either the target record is found, or an unused array slot is found, which indicates that there is no such key in the table.
+In another strategy, called open addressing, all entry records are stored in the bucket array itself. When a new entry has to be inserted, the buckets are examined, starting with the hashed-to slot and proceeding in some _probe sequence_, until an unoccupied slot is found. When searching for an entry, the buckets are scanned in the same sequence, until either the target record is found, or an unused array slot is found, which indicates that there is no such key in the table.
 
  
 
@@ -140,8 +136,6 @@ A drawback of all these open addressing schemes is that the number of stored ent
 Open addressing schemes also put more stringent requirements on the hash function: besides distributing the keys more uniformly over the buckets, the function must also minimize the clustering of hash values that are consecutive in the probe order. Using separate chaining, the only concern is that too many objects map to the _same_ hash value; whether they are adjacent or nearby is completely irrelevant.
 
 Open addressing only saves memory if the entries are small (less than four times the size of a pointer) and the load factor is not too small. If the load factor is close to zero (that is, there are far more buckets than stored entries), open addressing is wasteful even if each entry is just two words.
-
-Hash_table_average_insertion_time.png
 
 Open addressing avoids the time overhead of allocating each new entry record, and can be implemented even in the absence of a memory allocator. It also avoids the extra indirection required to access the first entry of each bucket (that is, usually the only one). It also has better locality of reference, particularly with linear probing. With small record sizes, these factors can yield better performance than chaining, particularly for lookups. Hash tables with open addressing are also easier to serialize, because they do not use pointers.
 

@@ -1,4 +1,4 @@
-AT_DNA_base_pair.png–thymine Watson–Crick base pair]] A BASE PAIR (BP) is a unit consisting of two nucleobases bound to each other by hydrogen bonds. They form the building blocks of the DNA double helix and contribute to the folded structure of both DNA and RNA. Dictated by specific hydrogen bonding patterns, Watson–Crick base pairs (guanine–cytosine and adenine–thymine) allow the DNA helix to maintain a regular helical structure that is subtly dependent on its nucleotide sequence.[1] The complementary nature of this based-paired structure provides a redundant copy of the genetic information encoded within each strand of DNA. The regular structure and data redundancy provided by the DNA double helix make DNA well suited to the storage of genetic information, while base-pairing between DNA and incoming nucleotides provides the mechanism through which DNA polymerase replicates DNA and RNA polymerase transcribes DNA into RNA. Many DNA-binding proteins can recognize specific base-pairing patterns that identify particular regulatory regions of genes.
+–thymine Watson–Crick base pair]] A BASE PAIR (BP) is a unit consisting of two nucleobases bound to each other by hydrogen bonds. They form the building blocks of the DNA double helix and contribute to the folded structure of both DNA and RNA. Dictated by specific hydrogen bonding patterns, Watson–Crick base pairs (guanine–cytosine and adenine–thymine) allow the DNA helix to maintain a regular helical structure that is subtly dependent on its nucleotide sequence.[1] The complementary nature of this based-paired structure provides a redundant copy of the genetic information encoded within each strand of DNA. The regular structure and data redundancy provided by the DNA double helix make DNA well suited to the storage of genetic information, while base-pairing between DNA and incoming nucleotides provides the mechanism through which DNA polymerase replicates DNA and RNA polymerase transcribes DNA into RNA. Many DNA-binding proteins can recognize specific base-pairing patterns that identify particular regulatory regions of genes.
 
 Intramolecular base pairs can occur within single-stranded nucleic acids. This is particularly important in RNA molecules (e.g., transfer RNA), where Watson–Crick base pairs (guanine–cytosine and adenine–uracil) permit the formation of short double-stranded helices, and a wide variety of non-Watson–Crick interactions (e.g., G–U or A–A) allow RNAs to fold into a vast range of specific three-dimensional structures. In addition, base-pairing between transfer RNA (tRNA) and messenger RNA (mRNA) forms the basis for the molecular recognition events that result in the nucleotide sequence of mRNA becoming translated into the amino acid sequence of proteins via the genetic code.
 
@@ -7,13 +7,11 @@ The size of an individual gene or an organism's entire genome is often measured 
 
 Hydrogen bonding and stability
 
-  ------------------
-  Base_pair_GC.svg
-  ------------------
+  --
+  --
 
-  ------------------
-  Base_pair_AT.svg
-  ------------------
+  --
+  --
 
 Top, a G.C base pair with three hydrogen bonds. Bottom, an A.T base pair with two hydrogen bonds. Non-covalent hydrogen bonds between the bases are shown as dashed lines. The wiggly lines stand for the connection to the pentose sugar and point in the direction of the minor groove.
 

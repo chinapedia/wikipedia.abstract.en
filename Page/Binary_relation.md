@@ -53,8 +53,6 @@ The following example shows that the choice of codomain is important. Suppose th
 
 Special types of binary relations
 
-Example relations over the real numbers.
-
 Some important types of binary relations _R_ over two sets _X_ and _Y_ are listed below.
 
 Uniqueness properties:

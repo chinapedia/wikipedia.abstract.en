@@ -1,4 +1,4 @@
-Gulf_of_oman_location_map_without_border.svg Khorfakkan_Port.jpg, a city in the Emirate of Sharjah, has one of the major container ports in the eastern seaboard of the United Arab Emirates.]] Carriers_Charles_de_Gaulle_(R91)_-_Harry_S._Truman_(CVN-75)_and_Cavour_(550)_underway_in_2013.JPG, French Navy, and Italian Navy aircraft carriers conduct operations in the U.S. 5th Fleet area of responsibility in the Gulf of Oman.]]
+, a city in the Emirate of Sharjah, has one of the major container ports in the eastern seaboard of the United Arab Emirates.]] , French Navy, and Italian Navy aircraft carriers conduct operations in the U.S. 5th Fleet area of responsibility in the Gulf of Oman.]]
 
 The GULF OF OMAN or SEA OF OMAN ( _khalīj ʿumān_; _daryâ-ye omân_) is a gulf that connects the Arabian Sea with the Strait of Hormuz, which then runs to the Persian Gulf. It borders Iran and Pakistan on the north, Oman on the south, and the United Arab Emirates on the west.
 

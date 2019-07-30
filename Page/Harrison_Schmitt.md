@@ -29,7 +29,7 @@ File:Astronaut Harrison 'Jack' Schmitt, American Flag, and Earth (Apollo 17 EVA-
 
 1976 Senate campaign
 
-Ronald_Reagan_and_Apollo_Astronaut_Harrison_Schmitt_1.jpg in Roswell, New Mexico, October 1982]] Jack_Schmidt_at_NASA's_Goddard_Space_Flight_Center_(June_3_2009).jpg On August 30, 1975, Schmitt resigned from NASA to seek election as a Republican to the United States Senate representing New Mexico in the 1976 election.[15][16] Schmitt campaigned for fourteen months, and his campaign focused on the future.[17]
+in Roswell, New Mexico, October 1982]] On August 30, 1975, Schmitt resigned from NASA to seek election as a Republican to the United States Senate representing New Mexico in the 1976 election.[15][16] Schmitt campaigned for fourteen months, and his campaign focused on the future.[17]
 
 In the Republican primary, held on June 1, 1976, Schmitt defeated Eugene Peirce.[18] In the election, Schmitt opposed two-term Democratic incumbent Joseph Montoya.[19] He defeated Montoya 57% to 42%.[20]
 
@@ -47,7 +47,7 @@ Following his Senate term, Schmitt has been a consultant in business, geology, s
 
 Schmitt is an adjunct professor of engineering physics at the University of Wisconsin–Madison,[24] and has long been a proponent of lunar resource utilization.[25][26] In 1997 he proposed the Interlune InterMars Initiative, listing among its goals the advancement of private-sector acquisition and use of lunar resources, particularly lunar helium-3 as a fuel for notional nuclear fusion reactors.[27]
 
-Presidential_Space_Directive_-_1_Signing_(NHQ201712110001).jpg's signing of Space Policy Directive-1, directing NASA to resume human flight to the Moon and beyond]]
+'s signing of Space Policy Directive-1, directing NASA to resume human flight to the Moon and beyond]]
 
 Schmitt was chair of the NASA Advisory Council, whose mandate is to provide technical advice to the NASA Administrator, from November 2005 until his abrupt resignation on October 16, 2008.[28] In November 2008, he quit the Planetary Society over policy advocacy differences, citing the organization's statements on "focusing on Mars as the driving goal of human spaceflight" (Schmitt said that going back to the Moon would speed progress toward a manned Mars mission), on "accelerating research into global climate change through more comprehensive Earth observations" (Schmitt voiced objections to the notion of a present "scientific consensus" on climate change as any policy guide), and on international cooperation (which he felt would retard rather than accelerate progress), among other points of divergence.[29]
 
@@ -81,7 +81,7 @@ In popular culture
 
 Awards and honors
 
-Harrison-Schmitt-President-Olafur-Ragnar-Grimsson-Leif-Erikson-Awards.jpg from Ólafur Ragnar Grímsson (L), President of Iceland.]]
+from Ólafur Ragnar Grímsson (L), President of Iceland.]]
 
 -   NASA Distinguished Service Medal (1973)[43]
 -   He was made an honorary fellow of the Geological Society of America for his efforts in geoscience in 1984.[44]

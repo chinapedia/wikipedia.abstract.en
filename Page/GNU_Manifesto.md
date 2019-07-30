@@ -1,4 +1,4 @@
-Heckert_GNU_white.svg __NOTOC__ Richard_Matthew_Stallman.jpeg's book _Free as in Freedom_)]] The _GNU MANIFESTO_ was written by Richard Stallman and published in March 1985 in _Dr. Dobb's Journal of Software Tools_[1] as an explanation of goals of the GNU Project, and as a call for support and participation in developing GNU, a free software computer operating system. It is held in high regard within the free software movement as a fundamental philosophical source.
+__NOTOC__ 's book _Free as in Freedom_)]] The _GNU MANIFESTO_ was written by Richard Stallman and published in March 1985 in _Dr. Dobb's Journal of Software Tools_[1] as an explanation of goals of the GNU Project, and as a call for support and participation in developing GNU, a free software computer operating system. It is held in high regard within the free software movement as a fundamental philosophical source.
 
 The full text is included with GNU software such as Emacs, and is publicly available.[2]
 

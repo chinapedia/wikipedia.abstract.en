@@ -33,7 +33,7 @@ Following the World Cup defeat, Baresi made one more appearance for Italy, in an
 
 Style of play
 
-Jerseys_of_Franco_Baresi_&_Paolo_Maldini.jpg's jersey in the San Siro museum]] Baresi is regarded as one of the greatest defenders of all-time.[31] He played his entire 20-year career with Milan, becoming a club legend.[32] At Milan, he formed one of the most formidable defensive units of all time, alongside Paolo Maldini, Alessandro Costacurta, Mauro Tassotti, Filippo Galli and later Christian Panucci.[33][34] He was a complete and consistent defender who combined power with elegance and was gifted with outstanding physical and mental attributes, such as pace, strength, tenacity, concentration and stamina, which made him effective in the air, despite of his lack of notable height for a centre-back.[35][36][37]
+'s jersey in the San Siro museum]] Baresi is regarded as one of the greatest defenders of all-time.[31] He played his entire 20-year career with Milan, becoming a club legend.[32] At Milan, he formed one of the most formidable defensive units of all time, alongside Paolo Maldini, Alessandro Costacurta, Mauro Tassotti, Filippo Galli and later Christian Panucci.[33][34] He was a complete and consistent defender who combined power with elegance and was gifted with outstanding physical and mental attributes, such as pace, strength, tenacity, concentration and stamina, which made him effective in the air, despite of his lack of notable height for a centre-back.[35][36][37]
 
 Although Baresi was capable of playing anywhere along the backline, he primarily excelled as a centreback and as sweeper, where he combined his defensive attributes, and his ability to read the game, with his excellent vision, technique, distribution and ball skills.[38] His passing range, technical ability and ball control allowed him to advance forward into the midfield to start attacking plays from the back, enabling him to function as a secondary playmaker for his team, and also play as a defensive or central midfielder when necessary.[39][40] Despite being a defender, he was also an accurate penalty kick taker. Baresi was known for being a strong and accurate tackler, who was very good at winning back possession, and at anticipating and intercepting plays, due to his acute tactical intelligence, speed of thought, marking ability and positional sense.[41][42][43] A precocious talent in his youth,[44] throughout the course of his career, he was also stood out for his professionalism, athleticism, longevity, and discipline in training, as well as his outstanding leadership, commanding presence on the pitch and his organisational skills; indeed, he captained both Milan and the Italy national team.[45][46]
 
@@ -47,7 +47,7 @@ He was appointed head coach of Milan's _Primavera_ Under-20 squad. In 2006, he w
 
 Personal life
 
-Serie_A_1979-80_-_AC_Milan_v_Inter_Milan_-_Giuseppe_and_Franco_Baresi.jpg.]] Franco Baresi is the younger brother of Internazionale legendary defender Giuseppe Baresi. As youngsters, both players had tryouts for Inter, but Franco was rejected, and purchased by local rivals Milan. As he was the younger player, Franco was initially known as "Baresi 2".[48] However, due to Franco's eventual great success and popularity throughout his career, which surpassed even that of his older brother's, Giuseppe later became known as "the other Baresi", despite also achieving notable success.[49]
+.]] Franco Baresi is the younger brother of Internazionale legendary defender Giuseppe Baresi. As youngsters, both players had tryouts for Inter, but Franco was rejected, and purchased by local rivals Milan. As he was the younger player, Franco was initially known as "Baresi 2".[48] However, due to Franco's eventual great success and popularity throughout his career, which surpassed even that of his older brother's, Giuseppe later became known as "the other Baresi", despite also achieving notable success.[49]
 
 
 Media
@@ -151,7 +151,7 @@ Individual
 
 Orders
 
-    Ufficiale_OMRI_BAR.svg _Order of Merit of the Italian Republic_ (30 September 1991).[68]
+    _Order of Merit of the Italian Republic_ (30 September 1991).[68]
 
 
 See also

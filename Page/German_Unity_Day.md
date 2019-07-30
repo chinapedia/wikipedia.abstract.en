@@ -47,7 +47,7 @@ On 3 November 2004, the Federal Chancellor, Gerhard Schröder, suggested that th
 
 Celebrations
 
-2014-10-03_Tag_der_Deutschen_Einheit,_(108)_Luftballons_vom_Freundeskreis_Hannover_für_Angela_Merkel_und_Joachim_Gauck,,_(01).jpg and President Joachim Gauck at the _Bürgerfest_ (German Unity Day festivities) in Hannover in 2014]] The Day of German Unity is celebrated each year with a ceremonial act and a citizens' festival (__).
+and President Joachim Gauck at the _Bürgerfest_ (German Unity Day festivities) in Hannover in 2014]] The Day of German Unity is celebrated each year with a ceremonial act and a citizens' festival (__).
 
 The celebrations are hosted by a major city, usually the state capital, in the German state presiding over the Bundesrat in the respective year (a sequence determined by the Königstein Agreement[14]). After Bonn in 2011, Frankfurt am Main was the second non-state capital to host the celebrations in 2015; however, both cities bear a significance for German history (Bonn as former capital of West Germany and Frankfurt Parliament of 1848/49).
 

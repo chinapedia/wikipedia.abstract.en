@@ -1,4 +1,4 @@
-66a3aDTMFpad.jpg systems used all 16 DTMF signals. The red keys in the fourth column produce the A, B, C, and D DTMF events.]] DUAL-TONE MULTI-FREQUENCY SIGNALING (DTMF) is a telecommunication signaling system using the voice-frequency band over telephone lines between telephone equipment and other communications devices and switching centers.[1] DTMF was first developed in the Bell System in the United States, and became known under the trademark TOUCH-TONE for use in push-button telephones supplied to telephone customers, starting in 1963. DTMF is standardized as ITU-T Recommendation Q.23.[2] It is also known in the UK as _MF4_.
+systems used all 16 DTMF signals. The red keys in the fourth column produce the A, B, C, and D DTMF events.]] DUAL-TONE MULTI-FREQUENCY SIGNALING (DTMF) is a telecommunication signaling system using the voice-frequency band over telephone lines between telephone equipment and other communications devices and switching centers.[1] DTMF was first developed in the Bell System in the United States, and became known under the trademark TOUCH-TONE for use in push-button telephones supplied to telephone customers, starting in 1963. DTMF is standardized as ITU-T Recommendation Q.23.[2] It is also known in the UK as _MF4_.
 
 The Touch-Tone system using a telephone keypad gradually replaced the use of rotary dial and has become the industry standard for landline and mobile service. Other multi-frequency systems are used for internal signaling within the telephone network.
 
@@ -20,7 +20,7 @@ As a method of in-band signaling, DTMF signals were also used by cable televisio
 
 #, *, A, B, C, and D
 
-DTMF_keypad_layout.svg The engineers had envisioned telephones being used to access computers and automated response systems.[6] They consulted with companies to determine the requirements. This led to the addition of the number sign (#, ''pound'' or "diamond" in this context, "hash", "square" or "gate" in the UK, and "octothorpe'' by the original engineers) and asterisk or "star" (*) keys as well as a group of keys for menu selection: A, B, C and D. In the end, the lettered keys were dropped from most phones, and it was many years before the two symbol keys became widely used for vertical service codes such as *67 in the United States of America and Canada to suppress caller ID.
+The engineers had envisioned telephones being used to access computers and automated response systems.[6] They consulted with companies to determine the requirements. This led to the addition of the number sign (#, ''pound'' or "diamond" in this context, "hash", "square" or "gate" in the UK, and "octothorpe'' by the original engineers) and asterisk or "star" (*) keys as well as a group of keys for menu selection: A, B, C and D. In the end, the lettered keys were dropped from most phones, and it was many years before the two symbol keys became widely used for vertical service codes such as *67 in the United States of America and Canada to suppress caller ID.
 
 Public payphones that accept credit cards use these additional codes to send the information from the magnetic strip.
 
@@ -37,7 +37,7 @@ DTMF tones are used in some caller ID systems to transfer the caller ID informat
 
 Keypad
 
-MultiTone1.png The DTMF telephone keypad is laid out as a matrix of push buttons in which each row represents the low frequency component and each column represents the high frequency component of the DTMF signal. The commonly used keypad has four rows and three columns, but a fourth column is present for some applications. Pressing a key sends a combination of the row and column frequencies. For example, the _1_ key produces a superimposition of a 697 Hz low tone and a 1209 Hz high tone. Initial pushbutton designs employed levers, enabling each button to activate one row and one column contact. The tones are decoded by the switching center to determine the keys pressed by the user.
+The DTMF telephone keypad is laid out as a matrix of push buttons in which each row represents the low frequency component and each column represents the high frequency component of the DTMF signal. The commonly used keypad has four rows and three columns, but a fourth column is present for some applications. Pressing a key sends a combination of the row and column frequencies. For example, the _1_ key produces a superimposition of a 697 Hz low tone and a 1209 Hz high tone. Initial pushbutton designs employed levers, enabling each button to activate one row and one column contact. The tones are decoded by the switching center to determine the keys pressed by the user.
 
             1209 Hz   1336 Hz   1477 Hz   1633 Hz
   -------- --------- --------- --------- ---------
@@ -51,7 +51,7 @@ MultiTone1.png The DTMF telephone keypad is laid out as a matrix of push buttons
 
 Decoding
 
-1&1_NetXXL_powered_by_FRITZ!_-_CMD_CM8870CSI_on_mainboard-1833.jpg DTMF was originally decoded by tuned filter banks. By the end of the 20th century, digital signal processing became the predominant technology for decoding. DTMF decoding algorithms typically use the Goertzel algorithm. As DTMF signaling is often transmitted in-band with voice or other audio signals present simultaneously, the DTMF signal definition includes strict limits for timing (minimum duration and interdigit spacing), frequency deviations, harmonics, and amplitude relation of the two components with respect to each other (_twist_).[8]
+DTMF was originally decoded by tuned filter banks. By the end of the 20th century, digital signal processing became the predominant technology for decoding. DTMF decoding algorithms typically use the Goertzel algorithm. As DTMF signaling is often transmitted in-band with voice or other audio signals present simultaneously, the DTMF signal definition includes strict limits for timing (minimum duration and interdigit spacing), frequency deviations, harmonics, and amplitude relation of the two components with respect to each other (_twist_).[8]
 
 
 Other multiple frequency signals

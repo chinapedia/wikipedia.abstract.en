@@ -1,4 +1,4 @@
-Gundestrupkedlen-_00054_(cropped).jpged figure or "horned god", on the Gundestrup Cauldron, on display, at the National Museum of Denmark in Copenhagen]]
+ed figure or "horned god", on the Gundestrup Cauldron, on display, at the National Museum of Denmark in Copenhagen]]
 
 CERNUNNOS is the conventional name given in Celtic studies to depictions of the "horned god" of Celtic polytheism. Cernunnos was a Celtic god of fertility, life, animals, wealth, and the underworld. The name itself is only attested once, on the 1st-century Pillar of the Boatmen, but he appears all over Gaul, and among the Celtiberians. Cernunnos is depicted with the antlers of a stag, seated cross-legged, associated with animals, and holding or wearing torcs. This deity is known from over 50 examples in the Gallo-Roman period, mostly in north-eastern Gaul.[1]
 
@@ -7,7 +7,7 @@ Not much is known about the god from literary sources, and details about his nam
 
 Name
 
-Cernunnos.jpg, from the Musée national du Moyen Âge (Museum of the Middle Ages), in Paris, France]] The theonym _[C]ernunnos_ appears on the Pillar of the Boatmen, a Gallo-Roman monument dating to the early 1st century CE, to label a god depicted with stag's antlers in their early stage of annual growth.[3] Both antlers have torcs hanging from them.[4]
+, from the Musée national du Moyen Âge (Museum of the Middle Ages), in Paris, France]] The theonym _[C]ernunnos_ appears on the Pillar of the Boatmen, a Gallo-Roman monument dating to the early 1st century CE, to label a god depicted with stag's antlers in their early stage of annual growth.[3] Both antlers have torcs hanging from them.[4]
 
 The name has been compared to a divine epithet _Carnonos_ in a Celtic inscription written in Greek characters at Montagnac, Hérault (as καρνονου, _karnonou_, in the dative case).[5] A Gallo-Latin adjective _carnuātus_, "horned," is also found.[6]
 
@@ -25,7 +25,7 @@ Additional evidence is given by one inscription on a metal plaque from Steinsel-
 
 Iconography
 
-God_of_Etang_sur_Arroux_possible_depiction_of_Cernunnos.jpg, a possible depiction of Cernunnos. He wears a torc at the neck and on the chest. Two snakes with ram heads encircle him at the waist. Two cavities at the top of his head are probably designed to receive deer antlers. Two small human faces at the back of his head indicate that he is tricephalic. Musée d'Archéologie Nationale (National Archaeological Museum), in France.]] Cernunnos_-_Parco_di_Naquane_R_70_-_Capo_di_Ponte_(Foto_Luca_Giarelli).jpg, Italy.[19]]]
+, a possible depiction of Cernunnos. He wears a torc at the neck and on the chest. Two snakes with ram heads encircle him at the waist. Two cavities at the top of his head are probably designed to receive deer antlers. Two small human faces at the back of his head indicate that he is tricephalic. Musée d'Archéologie Nationale (National Archaeological Museum), in France.]] , Italy.[19]]]
 
 The god labelled _[C]ernunnos_ on the Pillar of the Boatmen is depicted with stag's antlers in their early stage of annual growth.[20] Both antlers have torcs hanging from them. The lower part of the relief is lost, but the dimensions suggest that the god was sitting cross-legged, providing a direct parallel to the antlered figure on the Gundestrup cauldron.[21]
 

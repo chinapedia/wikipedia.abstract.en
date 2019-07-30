@@ -1,5 +1,3 @@
-Physio-al.jpg AlaCounties.png
-
 The GEOGRAPHY OF ALABAMA describes a state in the Southeastern United States in North America. Alabama is 30th in size and borders four U.S. states: Mississippi, Tennessee, Georgia, and Florida. It also borders the Gulf of Mexico.
 
 

@@ -30,17 +30,17 @@ Systematic names
 
 IUPAC nomenclature is used in scientific publications and where precise identification of the substance is important, especially in cases where the relative complexity of the molecule does not make such a systematic name unwieldy. In naming simple alcohols, the name of the alkane chain loses the terminal _e_ and adds the suffix _-ol_, _e.g._, as in "ethanol" from the alkane chain name "ethane".[18] When necessary, the position of the hydroxyl group is indicated by a number between the alkane name and the _-ol_: propan-1-ol for , propan-2-ol for . If a higher priority group is present (such as an aldehyde, ketone, or carboxylic acid), then the prefix _hydroxy-_is used,[19] e.g., as in 1-hydroxy-2-propanone ().[20]
 
-+---------------------+---------------------------+----------------------------+-----------------------------------+-------------------------------------------+
-| CH₃–CH₂–CH₂–OH      | Propan-2-ol_displayed.svg | Cyclohexanol_displayed.svg | 2-methylpropan-1-ol_displayed.svg | 2-methylbutan-2-ol_displayed.svg          |
-+---------------------+---------------------------+----------------------------+-----------------------------------+-------------------------------------------+
-| Propan-1-ol.svg     | 2-Propanol.svg            | Cyclohexanol_acsv.svg      | Isobutanol.svg                    | 2-Methyl-2-butanol_FormulaV1-Seite001.svg |
-+---------------------+---------------------------+----------------------------+-----------------------------------+-------------------------------------------+
-| _n_-propyl alcohol, | isopropyl alcohol,        | cyclohexanol               | isobutyl alcohol,                 | _tert_-amyl alcohol,                      |
-| propan-1-ol, or     | propan-2-ol, or           |                            | 2-methylpropan-1-ol, or           | 2-methylbutan-2-ol, or                    |
-| 1-propanol          | 2-propanol                |                            | 2-methyl-1-propanol               | 2-methyl-2-butanol                        |
-+---------------------+---------------------------+----------------------------+-----------------------------------+-------------------------------------------+
-| A primary alcohol   | A secondary alcohol       | A secondary alcohol        | A primary alcohol                 | A tertiary alcohol                        |
-+---------------------+---------------------------+----------------------------+-----------------------------------+-------------------------------------------+
++---------------------+---------------------+---------------------+-------------------------+------------------------+
+| CH₃–CH₂–CH₂–OH      |                     |                     |                         |                        |
++---------------------+---------------------+---------------------+-------------------------+------------------------+
+|                     |                     |                     |                         |                        |
++---------------------+---------------------+---------------------+-------------------------+------------------------+
+| _n_-propyl alcohol, | isopropyl alcohol,  | cyclohexanol        | isobutyl alcohol,       | _tert_-amyl alcohol,   |
+| propan-1-ol, or     | propan-2-ol, or     |                     | 2-methylpropan-1-ol, or | 2-methylbutan-2-ol, or |
+| 1-propanol          | 2-propanol          |                     | 2-methyl-1-propanol     | 2-methyl-2-butanol     |
++---------------------+---------------------+---------------------+-------------------------+------------------------+
+| A primary alcohol   | A secondary alcohol | A secondary alcohol | A primary alcohol       | A tertiary alcohol     |
++---------------------+---------------------+---------------------+-------------------------+------------------------+
 
 : Some examples of simple alcohols and how to name them
 
@@ -107,7 +107,7 @@ In archaic nomenclature, alcohols can be named as derivatives of methanol using 
 
 Applications
 
-Alcohol_by_Country.png (15+), in litres of pure ethanol[24]]]
+(15+), in litres of pure ethanol[24]]]
 
 Alcohols have a long history of myriad uses. For simple mono-alcohols, which is the focus on this article, the following are most important industrial alcohols:[25]
 
@@ -185,7 +185,7 @@ Alkenes engage in an acid catalysed hydration reaction using concentrated sulfur
 
 The formation of a secondary alcohol via reduction and hydration is shown:
 
-    Secondary_alcohol_formation-diagram.svg
+
 
 
 Reactions
@@ -203,8 +203,6 @@ Nucleophilic substitution
 
 The OH group is not a good leaving group in nucleophilic substitution reactions, so neutral alcohols do not react in such reactions. However, if the oxygen is first protonated to give R−OH₂⁺, the leaving group (water) is much more stable, and the nucleophilic substitution can take place. For instance, tertiary alcohols react with hydrochloric acid to produce tertiary alkyl halides, where the hydroxyl group is replaced by a chlorine atom by unimolecular nucleophilic substitution. If primary or secondary alcohols are to be reacted with hydrochloric acid, an activator such as zinc chloride is needed. In alternative fashion, the conversion may be performed directly using thionyl chloride.^([1])
 
-Alcohol_reaction_examples.gif
-
 Alcohols may, likewise, be converted to alkyl bromides using hydrobromic acid or phosphorus tribromide, for example:
 
     3 R-OH + PBr₃ → 3 RBr + H₃PO₃
@@ -215,13 +213,9 @@ Dehydration
 
 Meanwhile, the oxygen atom has lone pairs of nonbonded electrons that render it weakly basic in the presence of strong acids such as sulfuric acid. For example, with methanol:
 
-Methanol_acid_base.svg
-
 Upon treatment with strong acids, alcohols undergo the E1 elimination reaction to produce alkenes. The reaction, in general, obeys Zaitsev's Rule, which states that the most stable (usually the most substituted) alkene is formed. Tertiary alcohols eliminate easily at just above room temperature, but primary alcohols require a higher temperature.
 
 This is a diagram of acid catalysed dehydration of ethanol to produce ethylene:
-
-DehydrationOfAlcoholWithH-.png
 
 A more controlled elimination reaction is the with carbon disulfide and iodomethane.
 

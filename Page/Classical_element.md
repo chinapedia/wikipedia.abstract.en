@@ -1,4 +1,4 @@
-Fotothek_df_tg_0006472_Theosophie_^_Philosophie_^_Sonifikation_^_Musik.jpg, 1617]]
+, 1617]]
 
 CLASSICAL ELEMENTS typically refer to the concepts in ancient Greece of earth, water, air, fire, and (later) aether, which were proposed to explain the nature and complexity of all matter in terms of simpler substances.[1][2] Ancient cultures in Persia, Greece, Babylonia, Japan, Tibet, and India had similar lists , sometimes referring in local languages to "air" as "wind" and the fifth element as "void". The Chinese Wu Xing system lists Wood (木 _mù_), Fire (火 _huǒ_), Earth (土 _tǔ_), Metal (金 _jīn_), and Water (水 _shuǐ_), though these are described more as energies or transitions rather than as types of material.
 
@@ -73,16 +73,16 @@ There are also two cycles of imbalance, an overacting cycle (cheng) and an insul
 
 Greece
 
-+------------------------------------------------------------------------------------------------------------------------------+
-| Aristotelian elements and qualities                                                                                          |
-+------------------------------------------------------------------------------------------------------------------------------+
-| Four_elements_representation.svg _Empedoclean elements_ Alchemy_fire_symbol.svg    fire {{·}} Alchemy_air_symbol.svg air     |
-| Alchemy_water_symbol.svg water {{·}} Alchemy_earth_symbol.svg earth                                                          |
-+------------------------------------------------------------------------------------------------------------------------------+
++----------------------------------------------+
+| Aristotelian elements and qualities          |
++----------------------------------------------+
+| _Empedoclean elements_    fire {{·}} air     |
+| water {{·}} earth                            |
++----------------------------------------------+
 
 The ancient Greek concept of five basic elements, these being earth (γῆ _ge_), water (ὕδωρ _hudor_), air (ἀήρ _aer_), fire (πῦρ _pur_) and aether (αἰθήρ _aither_), dates from pre-Socratic times and persisted throughout the Middle Ages and into the Renaissance, deeply influencing European thought and culture. These five elements have been associated since Plato's _Timaeus_ with the five platonic solids.
 
-Four_Classical_Elements_in_Burning_Log.svg and Aristotle illustrated with a burning log. The log releases all four elements as it is destroyed.]]
+and Aristotle illustrated with a burning log. The log releases all four elements as it is destroyed.]]
 
 Sicilian philosopher Empedocles (ca. 450 BC) proved (at least to his satisfaction) that air was a separate substance by observing that a bucket inverted in water did not become filled with water, a pocket of air remaining trapped inside.[15] Prior to Empedocles, Greek philosophers had debated which substance was the primordial element from which everything else was made; Heraclitus championed fire, Thales supported water, and Anaximenes plumped for air.[16] Anaximander argued that the primordial substance was not any of the known substances, but could be transformed into them, and they into each other.[17] Empedocles was the first to propose four elements, fire, earth, air, and water.[18] He called them the four "roots" (ῥιζώματα, rhizōmata).
 
@@ -128,7 +128,7 @@ Post-classical history
 
 Alchemy
 
-Fotothek_df_tg_0007129_Theosophie_^_Alchemie.jpg The elemental system used in Medieval alchemy was developed primarily by the Arab alchemist Jābir ibn Hayyān (Geber).[25] His system consisted of the four classical elements of air, earth, fire, and water, in addition to two philosophical elements: sulphur, characterizing the principle of combustibility, "the stone which burns"; and mercury, characterizing the principle of metallic properties. They were seen by early alchemists as idealized expressions of irreducibile components of the universe[26] and are of larger consideration within philosophical alchemy.
+The elemental system used in Medieval alchemy was developed primarily by the Arab alchemist Jābir ibn Hayyān (Geber).[25] His system consisted of the four classical elements of air, earth, fire, and water, in addition to two philosophical elements: sulphur, characterizing the principle of combustibility, "the stone which burns"; and mercury, characterizing the principle of metallic properties. They were seen by early alchemists as idealized expressions of irreducibile components of the universe[26] and are of larger consideration within philosophical alchemy.
 
 The three metallic principles—sulphur to flammability or combustion, mercury to volatility and stability, and salt to solidity—became the _tria prima_ of the Swiss alchemist Paracelsus. He reasoned that Aristotle’s four element theory appeared in bodies as three principles. Paracelsus saw these principles as fundamental and justified them by recourse to the description of how wood burns in fire. Mercury included the cohesive principle, so that when it left in smoke the wood fell apart. Smoke described the volatility (the mercurial principle), the heat-giving flames described flammability (sulphur), and the remnant ash described solidity (salt).[27]
 
@@ -149,7 +149,7 @@ Japanese traditions use a set of elements called the (_godai_, literally "five g
 
 Modern history
 
-The_Elements,_Chelsea_Porcelain_Manufactory_-_Indianapolis_Museum_of_Art_-_DSC00573.JPGs in Chelsea porcelain, 1760s]]
+s in Chelsea porcelain, 1760s]]
 
 Chemical element
 

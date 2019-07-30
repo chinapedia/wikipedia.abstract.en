@@ -22,8 +22,6 @@ Toothed whales have well-developed senses – their eyesight and hearing are ada
 
 Anatomy
 
-Dolphin_Anatomy.svg
-
 Cetacean bodies are generally similar to that of fish, which can be attributed to their lifestyle and the habitat conditions. Their body is well-adapted to their habitat, although they share essential characteristics with other higher mammals (Eutheria).[4]
 
 They have a streamlined shape, and their forelimbs are flippers. Almost all have a dorsal fin on their backs that can take on many forms depending on the species. A few species, such as the beluga whale, lack them. Both the flipper and the fin are for stabilization and steering in the water.
@@ -62,7 +60,7 @@ The front limbs are paddle-shaped with shortened arms and elongated finger bones
 
 Fluke
 
-Humpback_whale_fluke_(2).jpg They have a cartilaginous fluke at the end of their tails that is used for propulsion. The fluke is set horizontally on the body, unlike fish, which have vertical tails.
+They have a cartilaginous fluke at the end of their tails that is used for propulsion. The fluke is set horizontally on the body, unlike fish, which have vertical tails.
 
 
 Physiology
@@ -91,7 +89,7 @@ At least one species, the tucuxi or Guiana dolphin, is able to use electrorecept
 
 Ears
 
-Delfinekko.gif]] The external ear has lost the pinna (visible ear), but still retains a narrow external auditory meatus. To register sounds, instead, the posterior part of the mandible has a thin lateral wall (the pan bone) fronting a concavity that houses a fat pad. The pad passes anteriorly into the greatly enlarged mandibular foramen to reach in under the teeth and posteriorly to reach the thin lateral wall of the ectotympanic. The ectotympanic offers a reduced attachment area for the tympanic membrane. The connection between this auditory complex and the rest of the skull is reduced—to a single, small cartilage in oceanic dolphins.
+]] The external ear has lost the pinna (visible ear), but still retains a narrow external auditory meatus. To register sounds, instead, the posterior part of the mandible has a thin lateral wall (the pan bone) fronting a concavity that houses a fat pad. The pad passes anteriorly into the greatly enlarged mandibular foramen to reach in under the teeth and posteriorly to reach the thin lateral wall of the ectotympanic. The ectotympanic offers a reduced attachment area for the tympanic membrane. The connection between this auditory complex and the rest of the skull is reduced—to a single, small cartilage in oceanic dolphins.
 
 In odontocetes, the complex is surrounded by spongy tissue filled with air spaces, while in mysticetes, it is integrated into the skull as with land mammals. In odontocetes, the tympanic membrane (or ligament) has the shape of a folded-in umbrella that stretches from the ectotympanic ring and narrows off to the malleus (quite unlike the flat, circular membrane found in land mammals.) In mysticetes, it also forms a large protrusion (known as the "glove finger"), which stretches into the external meatus and the stapes are larger than in odontocetes. In some small sperm whales, the malleus is fused with the ectotympanic.
 
@@ -153,13 +151,11 @@ Pod groups also hunt, often with other species. Many species of dolphins accompa
 
 Intelligence
 
-Whales_Bubble_Net_Feeding-edit1.jpg
-
 Cetacea are known to teach, learn, cooperate, scheme and grieve.[39]
 
 Smaller cetaceans, such as dolphins and porpoises, engage in complex play behavior, including such things as producing stable underwater toroidal air-core vortex rings or "bubble rings". The two main methods of bubble ring production are rapid puffing of air into the water and allowing it to rise to the surface, forming a ring, or swimming repeatedly in a circle and then stopping to inject air into the helical vortex currents thus formed. They also appear to enjoy biting the vortex rings, so that they burst into many separate bubbles and then rise quickly to the surface. Whales produce bubble nets to aid in herding prey.[40]
 
-Orca_porpoising.jpg]]
+]]
 
 Larger whales are also thought to engage in play. The southern right whale elevates its tail fluke above the water, remaining in the same position for a considerable time. This is known as "sailing". It appears to be a form of play and is most commonly seen off the coast of Argentina and South Africa.[41] Humpback whales also display this behaviour.
 
@@ -212,7 +208,7 @@ Evolution
 
 Phylogenetics
 
-dorudon_atrox_and_Maiacetus_inuus.jpg'', extinct for 40 million years, and _Maiacetus inuus_, extinct for 47.5 years, in the swimming position for comparison.[54]]]
+'', extinct for 40 million years, and _Maiacetus inuus_, extinct for 47.5 years, in the swimming position for comparison.[54]]]
 
 Molecular biology and immunology show that cetaceans are phylogenetically closely related with the even-toed ungulates (Artiodactyla). Whales direct lineage began in the early Eocene, more than 50 million years ago, with early artiodactyls.[55] Fossil discoveries at the beginning of the 21st century confirmed this.
 
@@ -227,7 +223,7 @@ Most molecular biological evidence suggests that hippos are the closest living r
 |         |                         |           |                       |               |           |                                            | }}            |
 +---------+-------------------------+-----------+-----------------------+---------------+-----------+--------------------------------------------+---------------+
 
-Ichthyosaur_vs_dolphin.svg with fish and aquatic reptiles]]
+with fish and aquatic reptiles]]
 
 Mysticetes evolved baleen around 25 million years ago and lost their teeth.
 
@@ -239,7 +235,7 @@ The direct ancestors of today's cetaceans are probably found within the Dorudont
 
 Transition from land to sea
 
-Adult_female_and_fetal_Maiacetus.jpg The fossil record traces the gradual transition from terrestrial to aquatic life. The regression of the hind limbs allowed greater flexibility of the spine. This made it possible for whales to move around with the vertical tail hitting the water. The front legs transformed into flippers, costing them their mobility on land.
+The fossil record traces the gradual transition from terrestrial to aquatic life. The regression of the hind limbs allowed greater flexibility of the spine. This made it possible for whales to move around with the vertical tail hitting the water. The front legs transformed into flippers, costing them their mobility on land.
 
 One of the oldest members of ancient cetaceans (Archaeoceti) is _Pakicetus_ from the Middle Eocene. This is an animal the size of a wolf, whose skeleton is known only partially. It had functioning legs and lived near the shore. This suggests the animal could still move on land. The long snout had carnivorous dentition.[61]
 
@@ -437,8 +433,6 @@ The primary threats to cetaceans come from people, both directly from whaling or
 
 Whaling
 
-Whales_caught_recently.png
-
 Whaling is the practice of hunting whales, mainly baleen and sperm whales. This activity has gone on since the Stone Age.
 
 In the Middle Ages, reasons for whaling included their meat, oil usable as fuel and the jawbone, which was used in house construction. At the end of the Middle Ages, early whaling fleets aimed at baleen whales, such as bowheads. In the 16th and 17th centuries, the Dutch fleet had about 300 whaling ships with 18,000 crewmen.
@@ -459,7 +453,7 @@ Dolphins and other smaller cetaceans are sometimes hunted in an activity known a
 
 Fishing
 
-Domino_whale-bone_hg.jpg made of baleen]] Dolphin pods often reside near large tuna shoals. This is known to fishermen, who look for dolphins to catch tuna. Dolphins are much easier to spot from a distance than tuna, since they regularly breathe. The fishermen pull their nets hundreds of meters wide in a circle around the dolphin groups, in the expectation that they will net a tuna shoal. When the nets are pulled together, the dolphins become entangled under water and drown. Line fisheries in larger rivers are threats to river dolphins.
+made of baleen]] Dolphin pods often reside near large tuna shoals. This is known to fishermen, who look for dolphins to catch tuna. Dolphins are much easier to spot from a distance than tuna, since they regularly breathe. The fishermen pull their nets hundreds of meters wide in a circle around the dolphin groups, in the expectation that they will net a tuna shoal. When the nets are pulled together, the dolphins become entangled under water and drown. Line fisheries in larger rivers are threats to river dolphins.
 
 A greater threat than by-catch for small cetaceans is targeted hunting. In Southeast Asia, they are sold as fish-replacement to locals, since the region's edible fish promise higher revenues from exports. In the Mediterranean, small cetaceans are targeted to ease pressure on edible fish.[71]
 
@@ -497,7 +491,7 @@ Relationship to humans
 
 Research history
 
-Trolual_(Gessner).jpg In Aristotle's time, the 4th century BCE, whales were regarded as fish due to their superficial similarity. Aristotle, however, observed many physiological and anatomical similarities with the terrestrial vertebrates, such as blood (circulation), lungs, uterus and fin anatomy.[79] His detailed descriptions were assimilated by the Romans, but mixed with a more accurate knowledge of the dolphins, as mentioned by Pliny the Elder in his _Natural history_. In the art of this and subsequent periods, dolphins are portrayed with a high-arched head (typical of porpoises) and a long snout. The harbour porpoise was one of the most accessible species for early cetologists; because it could be seen close to land, inhabiting shallow coastal areas of Europe. Much of the findings that apply to all cetaceans were first discovered in porpoises.[80] One of the first anatomical descriptions of the airways of a harbor porpoise dates from 1671 by John Ray. It nevertheless referred to the porpoise as a fish.[81][82]
+In Aristotle's time, the 4th century BCE, whales were regarded as fish due to their superficial similarity. Aristotle, however, observed many physiological and anatomical similarities with the terrestrial vertebrates, such as blood (circulation), lungs, uterus and fin anatomy.[79] His detailed descriptions were assimilated by the Romans, but mixed with a more accurate knowledge of the dolphins, as mentioned by Pliny the Elder in his _Natural history_. In the art of this and subsequent periods, dolphins are portrayed with a high-arched head (typical of porpoises) and a long snout. The harbour porpoise was one of the most accessible species for early cetologists; because it could be seen close to land, inhabiting shallow coastal areas of Europe. Much of the findings that apply to all cetaceans were first discovered in porpoises.[80] One of the first anatomical descriptions of the airways of a harbor porpoise dates from 1671 by John Ray. It nevertheless referred to the porpoise as a fish.[81][82]
 
 In the 10th edition of Systema Naturae (1758), Swedish biologist and taxonomist Carl Linnaeus asserted that cetaceans were mammals and not fish. His groundbreaking binomial system formed the basis of modern whale classification.
 
@@ -511,7 +505,7 @@ Stone Age petroglyphs, such as those in Roddoy and Reppa (Norway), and the Bangu
 
 Antiquity
 
-Destruction_of_Leviathan.png Tarentum.jpg The whale was first mentioned in ancient Greece by Homer. There, it is called Ketos, a term that initially included all large marine animals. From this was derived the Roman word for whale, Cetus. Other names were phálaina (Aristotle, Latin form of ballaena) for the female and, with an ironic characteristic style, musculus (Mouse) for the male. North Sea whales were called Physeter, which was meant for the sperm whale _Physter macrocephalus_. Whales are described in particular by Aristotle, Pliny and Ambrose. All mention both live birth and suckling. Pliny describes the problems associated with the lungs with spray tubes and Ambrose claimed that large whales would take their young into their mouth to protect them.
+The whale was first mentioned in ancient Greece by Homer. There, it is called Ketos, a term that initially included all large marine animals. From this was derived the Roman word for whale, Cetus. Other names were phálaina (Aristotle, Latin form of ballaena) for the female and, with an ironic characteristic style, musculus (Mouse) for the male. North Sea whales were called Physeter, which was meant for the sperm whale _Physter macrocephalus_. Whales are described in particular by Aristotle, Pliny and Ambrose. All mention both live birth and suckling. Pliny describes the problems associated with the lungs with spray tubes and Ambrose claimed that large whales would take their young into their mouth to protect them.
 
 In the Bible especially, the leviathan plays a role as a sea monster. The essence, which features a giant crocodile or a dragon and a whale, was created according to the Bible by God[85] and should again be destroyed by him.[86][87] In the Book of Job, the leviathan is described in more detail.[88][89]
 
@@ -521,7 +515,7 @@ Dolphins are mentioned far more often than whales. Aristotle discusses the sacre
 
 River dolphins are known from the Ganges and – erroneously – the Nile. In the latter case it was equated with sharks and catfish. Supposedly they attacked even crocodiles.
 
-Dolphins appear in Greek mythology. Because of their intelligence, they rescued multiple people from drowning. They were said to love music – probably not least because of their own song – they saved, in the legends, famous musicians such as Arion of Lesbos from Methymna or Kairanos from Miletus. Because of their mental faculties, dolphins were considered for the god Dionysus. Cetus_constellation_map.png Dolphins belong to the domain of Poseidon and led him to his wife Amphitrite. Dolphins are associated with other gods, such as Apollo, Dionysus and Aphrodite. The Greeks paid tribute to both whales and dolphins with their own constellation. The constellation of the Whale (Ketos, lat. Cetus) is located south of the Dolphin (Delphi, lat. Delphinus) north of the zodiac.
+Dolphins appear in Greek mythology. Because of their intelligence, they rescued multiple people from drowning. They were said to love music – probably not least because of their own song – they saved, in the legends, famous musicians such as Arion of Lesbos from Methymna or Kairanos from Miletus. Because of their mental faculties, dolphins were considered for the god Dionysus. Dolphins belong to the domain of Poseidon and led him to his wife Amphitrite. Dolphins are associated with other gods, such as Apollo, Dionysus and Aphrodite. The Greeks paid tribute to both whales and dolphins with their own constellation. The constellation of the Whale (Ketos, lat. Cetus) is located south of the Dolphin (Delphi, lat. Delphinus) north of the zodiac.
 
 Ancient art often included dolphin representations, including the Cretan Minoans. Later they appeared on reliefs, gems, lamps, coins, mosaics and gravestones. A particularly popular representation is that of Arion or the Taras (mythology) riding on a dolphin. In early Christian art, the dolphin is a popular motif, at times used as a symbol of Christ.
 
@@ -529,7 +523,7 @@ Middle Ages to the 19th century
 
 St. Brendan described in his travel story _Navigatio Sancti Brendani_ an encounter with a whale, between the years 565–573. He described how he and his companions entered a treeless island, which turned out to be a giant whale, which he called Jasconicus. He met this whale seven years later and rested on his back.
 
-Most descriptions of large whales from this time until the whaling era, beginning in the 17th century, were of beached whales, which resembled no other animal. This was particularly true for the sperm whale, the most frequently stranded in larger groups. Raymond Gilmore documented seventeen sperm whales in the estuary of the Elbe from 1723 to 1959 and thirty-one animals on the coast of Great Britain in 1784. In 1827, a blue whale beached itself off the coast of Ostend. Whales were used as attractions in museums and traveling exhibitions. La_Baleine.jpg Im_Februar_1598_an_der_holländischen_Küste_gestrandeter_Walfisch.jpg Whalers in the 17–19th centuries depicted whales in drawings and recounted tales of their occupation. Although they knew that whales were harmless giants, they described battles with harpooned animals. These included descriptions of sea monsters, including huge whales, sharks, sea snakes, giant squid and octopuses.
+Most descriptions of large whales from this time until the whaling era, beginning in the 17th century, were of beached whales, which resembled no other animal. This was particularly true for the sperm whale, the most frequently stranded in larger groups. Raymond Gilmore documented seventeen sperm whales in the estuary of the Elbe from 1723 to 1959 and thirty-one animals on the coast of Great Britain in 1784. In 1827, a blue whale beached itself off the coast of Ostend. Whales were used as attractions in museums and traveling exhibitions. Whalers in the 17–19th centuries depicted whales in drawings and recounted tales of their occupation. Although they knew that whales were harmless giants, they described battles with harpooned animals. These included descriptions of sea monsters, including huge whales, sharks, sea snakes, giant squid and octopuses.
 
 Among the first whalers who described their experiences on whaling trips was Captain William Scoresby from Great Britain, who published the book _Northern Whale Fishery_, describing the hunt for northern baleen whales. This was followed by Thomas Beale, a British surgeon, in his book _Some observations on the natural history of the sperm whale_ in 1835; and Frederick Debell Bennett's _The tale of a whale hunt_ in 1840. Whales were described in narrative literature and paintings, most famously in the novels _Moby Dick_ by Herman Melville and _20,000 Leagues Under the Sea_ by Jules Verne.
 
@@ -539,7 +533,7 @@ In the Canadian Arctic (east coast) in Punuk and Thule culture (1000–1600 C.E.
 
 Modern culture
 
-Sea_World1.jpgs and false killer whales]] In the 20th century perceptions of cetaceans changed. They transformed from monsters into creatures of wonder, as science revealed them to be intelligent and peaceful animals. Hunting was replaced by whale and dolphin tourism. This change is reflected in films and novels. For example, the protagonist of the series Flipper was a bottle-nose dolphin. The TV series SeaQuest DSV (1993–1996), the movies Free Willy, Star Trek IV: The Voyage Home and the book series The Hitchhiker's Guide to the Galaxy by Douglas Adams are examples.[92]
+s and false killer whales]] In the 20th century perceptions of cetaceans changed. They transformed from monsters into creatures of wonder, as science revealed them to be intelligent and peaceful animals. Hunting was replaced by whale and dolphin tourism. This change is reflected in films and novels. For example, the protagonist of the series Flipper was a bottle-nose dolphin. The TV series SeaQuest DSV (1993–1996), the movies Free Willy, Star Trek IV: The Voyage Home and the book series The Hitchhiker's Guide to the Galaxy by Douglas Adams are examples.[92]
 
 The study of whale song also produced a popular album, Songs of the Humpback Whale.
 
@@ -555,7 +549,7 @@ As of 2006, 30 belugas lived in Canada and 28 in the United States. 42 deaths in
 
 Killer whales
 
-2009-Seaworld-Shamu.jpg The killer whale's intelligence, trainability, striking appearance, playfulness in captivity and sheer size have made it a popular exhibit at aquaria and aquatic theme parks. From 1976 to 1997, fifty-five whales were taken from the wild in Iceland, nineteen from Japan and three from Argentina. These figures exclude animals that died during capture. Live captures fell dramatically in the 1990s and by 1999, about 40% of the forty-eight animals on display in the world were captive-born.
+The killer whale's intelligence, trainability, striking appearance, playfulness in captivity and sheer size have made it a popular exhibit at aquaria and aquatic theme parks. From 1976 to 1997, fifty-five whales were taken from the wild in Iceland, nineteen from Japan and three from Argentina. These figures exclude animals that died during capture. Live captures fell dramatically in the 1990s and by 1999, about 40% of the forty-eight animals on display in the world were captive-born.
 
 Organizations such as World Animal Protection and the Whale and Dolphin Conservation campaign against the practice of keeping them in captivity.
 
@@ -565,11 +559,11 @@ Captivity usually bears little resemblance to wild habitat and captive whales' s
 
 Each country has its own tank requirements; in the US, the minimum enclosure size is set by the Code of Federal Regulations, 9 CFR E § 3.104, under the _Specifications for the Humane Handling, Care, Treatment and Transportation of Marine Mammals_.[105]
 
-Dawn_Brancheau_-_Riders_on_the_Storm.jpg]] Aggression among captive killer whales is common. They attack each other and their trainers as well. In 2013, SeaWorld's treatment of killer whales in captivity was the basis of the movie _Blackfish_, which documents the history of Tilikum, a killer whale at SeaWorld Orlando, who had been involved in the deaths of three people.[106] The film led to proposals by some lawmakers to ban captivity of cetaceans, and lead SeaWorld to announce in 2016 that it would phase out its killer whale program after various unsuccessful attempts to restore its revenues, reputation, and stock price.[107]
+]] Aggression among captive killer whales is common. They attack each other and their trainers as well. In 2013, SeaWorld's treatment of killer whales in captivity was the basis of the movie _Blackfish_, which documents the history of Tilikum, a killer whale at SeaWorld Orlando, who had been involved in the deaths of three people.[106] The film led to proposals by some lawmakers to ban captivity of cetaceans, and lead SeaWorld to announce in 2016 that it would phase out its killer whale program after various unsuccessful attempts to restore its revenues, reputation, and stock price.[107]
 
 Others
 
-Long-finned_Pilot_Whale_(8793172995).jpg pilot whale with trainers]] Dolphins and porpoises are kept in captivity. Bottlenose dolphins are the most common, as they are relatively easy to train, have a long lifespan in captivity and have a friendly appearance. Bottlenose dolphins live in captivity across the world, though exact numbers are hard to determine. Other species kept in captivity are spotted dolphins, false killer whales and common dolphins, Commerson's dolphins, as well as rough-toothed dolphins, but all in much lower numbers. There are also fewer than ten pilot whales, Amazon river dolphins, Risso's dolphins, spinner dolphins, or tucuxi in captivity. Two unusual and rare hybrid dolphins, known as wolphins, are kept at Sea Life Park in Hawaii, which is a cross between a bottlenose dolphin and a false killer whale. Also, two common/bottlenose hybrids reside in captivity at Discovery Cove and SeaWorld San Diego.
+pilot whale with trainers]] Dolphins and porpoises are kept in captivity. Bottlenose dolphins are the most common, as they are relatively easy to train, have a long lifespan in captivity and have a friendly appearance. Bottlenose dolphins live in captivity across the world, though exact numbers are hard to determine. Other species kept in captivity are spotted dolphins, false killer whales and common dolphins, Commerson's dolphins, as well as rough-toothed dolphins, but all in much lower numbers. There are also fewer than ten pilot whales, Amazon river dolphins, Risso's dolphins, spinner dolphins, or tucuxi in captivity. Two unusual and rare hybrid dolphins, known as wolphins, are kept at Sea Life Park in Hawaii, which is a cross between a bottlenose dolphin and a false killer whale. Also, two common/bottlenose hybrids reside in captivity at Discovery Cove and SeaWorld San Diego.
 
 In repeated attempts in the 1960s and 1970s, narwhals kept in captivity died within months. A breeding pair of pygmy right whales were retained in a netted area. They were eventually released in South Africa. In 1971, SeaWorld captured a California gray whale calf in Mexico at Scammon's Lagoon. The calf, later named Gigi, was separated from her mother using a form of lasso attached to her flukes. Gigi was displayed at SeaWorld San Diego for a year. She was then released with a radio beacon affixed to her back; however, contact was lost after three weeks. Gigi was the first captive baleen whale. JJ, another gray whale calf, was kept at SeaWorld San Diego. JJ was an orphaned calf that beached itself in April 1997 and was transported two miles to SeaWorld. The calf was a popular attraction and behaved normally, despite separation from his mother. A year later, the then whale though smaller than average, was too big to keep in captivity, and was released on April 1, 1998. A captive Amazon river dolphin housed at Acuario de Valencia is the only trained river dolphin in captivity.[108][109]
 

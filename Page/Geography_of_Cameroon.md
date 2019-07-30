@@ -1,5 +1,3 @@
-Cameroon_Map.jpg LocationCameroon.svg Koppen-Geiger_Map_CMR_present.svg
-
 At , Cameroon is the world's 53rd largest country. It is slightly larger than the nation of Sweden and US state of California. It is comparable in size to Papua New Guinea. Cameroon's landmass is , with of water.
 
 The country is located in Central and West Africa, bordering the Bight of Biafra, between Equatorial Guinea and Nigeria.
@@ -9,7 +7,7 @@ Cameroon is sometimes described as "Africa in miniature" because it exhibits all
 
 Natural regions
 
-Cameroon_Topography.png Cameroon's coastal plain extends inland from the Gulf of Guinea (part of the Atlantic Ocean) to the edge of a plateau. In the former western state, however, the mass of Mount Cameroon reaches almost to the sea. The plain is densely forested including areas of Central African mangroves especially around Douala and in the estuary of the Cross River on the border with Nigeria.
+Cameroon's coastal plain extends inland from the Gulf of Guinea (part of the Atlantic Ocean) to the edge of a plateau. In the former western state, however, the mass of Mount Cameroon reaches almost to the sea. The plain is densely forested including areas of Central African mangroves especially around Douala and in the estuary of the Cross River on the border with Nigeria.
 
 The low South Cameroon Plateau, rising from the coastal plain and dominated by tropical rain forest, has an average elevation of . It is less humid than the coast.
 
@@ -18,8 +16,6 @@ In western Cameroon is an irregular chain of mountains, hills, and plateaus that
 From the forested southern plateau the land rises northward to the grassy, rugged Adamaoua (Adamawa) highlands. Stretching across Cameroon from the western mountain area, the Adamaoua forms a barrier between the north and south. Its average elevation is .
 
 The southern savanna plain extends from the edge of the Adamaoua to Lake Chad. Its characteristic vegetation is scrub and grass. This is region of sparse rainfall and high median temperatures has been included as part of the East Sudanian savanna ecoregion.
-
-Mount_Cameroon_craters.jpg
 
 
 Climate
@@ -73,7 +69,7 @@ _other:_ 83.61% (2012)
 
 IRRIGATED LAND: 256.5 km² (2003)
 
-Rhumsiki_Peak.jpg Peak in Cameroon's Far North Province.]]
+Peak in Cameroon's Far North Province.]]
 
 TOTAL RENEWABLE WATER RESOURCES: 285.5 km³ (2011)
 

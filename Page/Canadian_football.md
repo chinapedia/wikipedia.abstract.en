@@ -1,5 +1,3 @@
-Canadian_football_field.png
-
 CANADIAN FOOTBALL () is a sport played in Canada in which two teams of 12 players each compete for territorial control of a field of play long and wide attempting to advance a pointed oval-shaped ball into the opposing team's scoring area (end zone).
 
 In Canada, the term "FOOTBALL" may refer to Canadian football and American football collectively, or to either sport specifically, depending on context. The two sports have shared origins and are closely related but have some key differences.
@@ -36,7 +34,7 @@ File:Ottawa and Hamilton Tigers football game 5.jpg|A game between the Hamilton 
 
 League play
 
-CFL_footballs_and_helmet.jpg (CFL) team practice]] Canadian football is played at several levels in Canada; the top league is the professional nine-team Canadian Football League (CFL). The CFL regular season begins in June, and playoffs for the Grey Cup are completed by late November.[15] In cities with outdoor stadiums such as Edmonton, Winnipeg, Calgary, and Regina, low temperatures and icy field conditions can seriously affect the outcome of a game.
+(CFL) team practice]] Canadian football is played at several levels in Canada; the top league is the professional nine-team Canadian Football League (CFL). The CFL regular season begins in June, and playoffs for the Grey Cup are completed by late November.[15] In cities with outdoor stadiums such as Edmonton, Winnipeg, Calgary, and Regina, low temperatures and icy field conditions can seriously affect the outcome of a game.
 
 Amateur football is governed by Football Canada. At the university level, 27 teams play in four conferences under the auspices of U Sports (known from 2001–2016 as Canadian Interuniversity Sport); the U Sports champion is awarded the Vanier Cup.[16] Junior football is played by many after high school before joining the university ranks. There are 18 junior teams in three divisions in the Canadian Junior Football League competing for the Canadian Bowl[17]. The Quebec Junior Football League includes teams from Ontario and Quebec who battle for the Manson Cup.
 
@@ -47,7 +45,7 @@ Women's football has gained attention in recent years in Canada. The first Canad
 
 The field
 
-Commonwealth_Stadium,_Edmonton,_August_2005.jpg, in 2005. A Canadian Football League venue.]] The Canadian football field is long and wide, within which the goal areas are deep, and the goal lines are apart. Weighted pylons are placed on the inside corner of the intersections of the goal lines and end lines. Including the endzones, the total area of the field is .
+, in 2005. A Canadian Football League venue.]] The Canadian football field is long and wide, within which the goal areas are deep, and the goal lines are apart. Weighted pylons are placed on the inside corner of the intersections of the goal lines and end lines. Including the endzones, the total area of the field is .
 
 At each goal line is a set of goalposts, which consist of two _uprights_ joined by an crossbar which is above the goal line. The goalposts may be H-shaped (both posts fixed in the ground) although in the higher-calibre competitions the tuning-fork design (supported by a single curved post behind the goal line, so that each post starts above the ground) is preferred.
 
@@ -74,7 +72,7 @@ Scrimmage
 
 Before scrimmage, an official places the ball at the spot it was at the stop of clock, but no nearer than 24 yards from the sideline or 1 yard from the goal line. The line parallel to the goal line passing through the ball (line from sideline to sideline for the length of the ball) is referred to as the line of scrimmage. This line is similar to "no-man's land"; players must stay on their respective sides of this line until the play has begun again. For a scrimmage to be valid the team in possession of the football must have seven players, excluding the quarterback, within one yard of the line of scrimmage. The defending team must stay a yard or more back from the line of scrimmage.
 
-Anthony_Calvillo_game_action,_93rd_Grey_Cup.jpg quarterback Anthony Calvillo looks down field with the ball during the 93rd Grey Cup game at BC Place.]] On the field at the beginning of a play are two teams of 12 (and not 11 as in American football). The team in possession of the ball is the offence and the team defending is referred to as the defence. Play begins with a backwards pass through the legs (the snap) by a member of the offensive team, to another member of the offensive team. This is usually the quarterback or punter, but a "direct snap" to a running back is also not uncommon. If the quarterback or punter receives the ball, he may then do any of the following:
+quarterback Anthony Calvillo looks down field with the ball during the 93rd Grey Cup game at BC Place.]] On the field at the beginning of a play are two teams of 12 (and not 11 as in American football). The team in possession of the ball is the offence and the team defending is referred to as the defence. Play begins with a backwards pass through the legs (the snap) by a member of the offensive team, to another member of the offensive team. This is usually the quarterback or punter, but a "direct snap" to a running back is also not uncommon. If the quarterback or punter receives the ball, he may then do any of the following:
 
 -   run with the ball, attempting to run farther down field (gaining yardage). The ball-carrier may run in any direction he sees fit (including backwards).
 -   _drop-kick_ the ball, dropping it onto the ground and kicking it on the bounce. (This play is now quite rare in both Canadian and American football.)

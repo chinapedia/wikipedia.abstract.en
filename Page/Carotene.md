@@ -1,4 +1,4 @@
-BetaCarotene-3d.png]] CarrotDiversityLg.jpgs and the colours of many other fruits and vegetables and even some animals.]] Lesser-flamingos.jpg Crater, Tanzania. The pink colour of wild flamingos is due to astaxanthin (a carotenoid) they absorb from their diet of brine shrimp. If fed a carotene-free diet they become white.]]
+]] s and the colours of many other fruits and vegetables and even some animals.]] Crater, Tanzania. The pink colour of wild flamingos is due to astaxanthin (a carotenoid) they absorb from their diet of brine shrimp. If fed a carotene-free diet they become white.]]
 
 The term CAROTENE (also CAROTIN, from the Latin _carota_, "carrot"[1][2]) is used for many related unsaturated hydrocarbon substances having the formula C₄₀H_(x), which are synthesized by plants but in general cannot be made by animals (with the exception of some aphids and spider mites which acquired the synthesizing genes from fungi).[3] Carotenes are photosynthetic pigments important for photosynthesis. Carotenes contain no oxygen atoms. They absorb ultraviolet, violet, and blue light and scatter orange or red light, and (in low concentrations) yellow light.
 
@@ -54,7 +54,7 @@ Absorption from these foods is enhanced if eaten with fats, as carotenes are fat
 
 Forms of carotene
 
-Alpha-carotene.svg Beta-Carotin.svg Gamma-carotene.svg Delta-carotene.svg The two primary isomers of carotene, α-carotene and β-carotene, differ in the position of a double bond (and thus a hydrogen) in the cyclic group at one end (the right end in the diagram at right).
+The two primary isomers of carotene, α-carotene and β-carotene, differ in the position of a double bond (and thus a hydrogen) in the cyclic group at one end (the right end in the diagram at right).
 
 β-Carotene is the more common form and can be found in yellow, orange, and green leafy fruits and vegetables. As a rule of thumb, the greater the intensity of the orange colour of the fruit or vegetable, the more β-carotene it contains.
 
@@ -93,7 +93,7 @@ Carotenemia or hypercarotenemia is excess carotene, but unlike excess vitamin A,
 
 Production
 
-Algaefarm.jpg, South Australia, used to produce β-carotene.]] Most of the world's synthetic supply of carotene comes from a manufacturing complex located in Freeport, Texas and owned by DSM. The other major supplier BASF also uses a chemical process to produce β-carotene. Together these suppliers account for about 85% of the β-carotene on the market. In Spain Vitatene produces natural β-carotene from fungus Blakeslea trispora, as does DSM but at much lower amount when compared to its synthetic β-carotene operation. In Australia, organic β-carotene is produced by Aquacarotene Limited from dried marine algae _Dunaliella salina_ grown in harvesting ponds situated in Karratha, Western Australia. BASF Australia is also producing β-carotene from microalgae grown in two sites in Australia that are the world's largest algae farms. In Portugal, the industrial biotechnology company Biotrend is producing natural all-_trans_-β-carotene from a non-genetically-modified bacteria of the genus _Sphingomonas_ isolated from soil.
+, South Australia, used to produce β-carotene.]] Most of the world's synthetic supply of carotene comes from a manufacturing complex located in Freeport, Texas and owned by DSM. The other major supplier BASF also uses a chemical process to produce β-carotene. Together these suppliers account for about 85% of the β-carotene on the market. In Spain Vitatene produces natural β-carotene from fungus Blakeslea trispora, as does DSM but at much lower amount when compared to its synthetic β-carotene operation. In Australia, organic β-carotene is produced by Aquacarotene Limited from dried marine algae _Dunaliella salina_ grown in harvesting ponds situated in Karratha, Western Australia. BASF Australia is also producing β-carotene from microalgae grown in two sites in Australia that are the world's largest algae farms. In Portugal, the industrial biotechnology company Biotrend is producing natural all-_trans_-β-carotene from a non-genetically-modified bacteria of the genus _Sphingomonas_ isolated from soil.
 
 Carotenes are also found in palm oil, corn, and in the milk of dairy cows, causing cow's milk to be light yellow, depending on the feed of the cattle, and the amount of fat in the milk (high-fat milks, such as those produced by Guernsey cows, tend to be yellower because their fat content causes them to contain more carotene).
 
@@ -103,7 +103,7 @@ Total synthesis
 
 There are currently two commonly used methods of total synthesis of β-carotene. The first was developed by BASF and is based on the Wittig reaction with Wittig himself as patent holder:[50][51]
 
-    Carotene synthesis by Wittig
+
 
 The second is a Grignard reaction,[52] elaborated by Hoffman-La Roche from the original synthesis of Inhoffen et al. They are both symmetrical; the BASF synthesis is C20 + C20, and the Hoffman-La Roche synthesis is C19 + C2 + C19.
 

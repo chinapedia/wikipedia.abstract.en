@@ -1,5 +1,3 @@
-cranberries20101210.jpg
-
 CRANBERRIES are a group of evergreen dwarf shrubs or trailing vines in the subgenus _OXYCOCCUS_ of the genus _Vaccinium_. In Britain, cranberry may refer to the native species _Vaccinium oxycoccos_,[1] while in North America, cranberry may refer to _Vaccinium macrocarpon_.[2] _Vaccinium oxycoccos_ is cultivated in central and northern Europe, while _Vaccinium macrocarpon_ is cultivated throughout the northern United States, Canada and Chile.[3] In some methods of classification, _Oxycoccus_ is regarded as a genus in its own right.[4] They can be found in acidic bogs throughout the cooler regions of the Northern Hemisphere.
 
 Cranberries are low, creeping shrubs or vines up to long and in height;[5] they have slender, wiry stems that are not thickly woody and have small evergreen leaves. The flowers are dark pink, with very distinct _reflexed_ petals, leaving the style and stamens fully exposed and pointing forward. They are pollinated by bees. The fruit is a berry that is larger than the leaves of the plant; it is initially light green, turning red when ripe. It is edible, but with an acidic taste that usually overwhelms its sweetness.
@@ -9,7 +7,7 @@ In 2016, 98% of world production of cranberries resulted from the United States,
 
 Species and description
 
-There are three to four species of cranberry, classified into two sections: Cranberrymap.jpg
+There are three to four species of cranberry, classified into two sections:
 
 Subgenus _Oxycoccus_, sect. _Oxycoccus_
 
@@ -30,12 +28,12 @@ Cranberries are susceptible to false blossom, a harmful but controllable phytopl
 
 Etymology
 
-Vaccinum_oxycoccos_120604.jpg The name, _cranberry_, derives from the German, _kraanbere_ (English translation, _craneberry_), first named as _cranberry_ in English by the missionary John Eliot in 1647.[9] Around 1694, German and Dutch colonists in New England used the word, cranberry, to represent the expanding flower, stem, calyx, and petals resembling the neck, head, and bill of a crane.[10][11] The traditional English name for the plant more common in Europe, _Vaccinium oxycoccos_, FENBERRY, originated from plants with small red berries found growing in fen (marsh) lands of England.[12]
+The name, _cranberry_, derives from the German, _kraanbere_ (English translation, _craneberry_), first named as _cranberry_ in English by the missionary John Eliot in 1647.[9] Around 1694, German and Dutch colonists in New England used the word, cranberry, to represent the expanding flower, stem, calyx, and petals resembling the neck, head, and bill of a crane.[10][11] The traditional English name for the plant more common in Europe, _Vaccinium oxycoccos_, FENBERRY, originated from plants with small red berries found growing in fen (marsh) lands of England.[12]
 
 
 History
 
-Jonathan_eastman_johnson_cranberry_harvest.jpg'', Eastman Johnson, 1880.]]
+'', Eastman Johnson, 1880.]]
 
 In North America, the Narragansett people of the Algonquian nation in the regions of New England appeared to be using cranberries in pemmican for food and for dye.[13] Calling the red berries, _sasemineash_, the Narragansett people may have introduced cranberries to colonists in Massachusetts.[14] In 1550, James White Norwood made reference to Native Americans using cranberries, and it was the first reference to American cranberries up until this point.[15] In James Rosier's book _The Land of Virginia_ there is an account of Europeans coming ashore and being met with Native Americans bearing bark cups full of cranberries. In Plymouth, Massachusetts, there is a 1633 account of the husband of Mary Ring auctioning her cranberry-dyed petticoat for 16 shillings. In 1643, Roger Williams's book _A Key Into the Language of America_ described cranberries, referring to them as "bearberries" because bears ate them. In 1648, preacher John Elliott was quoted in Thomas Shepard's book _Clear Sunshine of the Gospel_ with an account of the difficulties the Pilgrims were having in using the Indians to harvest cranberries as they preferred to hunt and fish. In 1663, the Pilgrim cookbook appears with a recipe for cranberry sauce. In 1667, New Englanders sent to King Charles ten barrels of cranberries, three barrels of codfish and some Indian corn as a means of appeasement for his anger over their local coining of the Pine-tree shilling. In 1669, Captain Richard Cobb had a banquet in his house (to celebrate both his marriage to Mary Gorham and his election to the Convention of Assistance), serving wild turkey with sauce made from wild cranberries. In the 1672 book _New England Rarities Discovered_ author John Josselyn described cranberries, writing:
 
@@ -52,7 +50,7 @@ Cultivation
 
 Geography and bog method
 
-Cranberrys_beim_Ernten.jpeg]]
+]]
 
 Historically, cranberry beds were constructed in wetlands. Today's cranberry beds are constructed in upland areas with a shallow water table. The topsoil is scraped off to form dykes around the bed perimeter. Clean sand is hauled in and spread to a depth of four to eight inches (10 to 20 centimeters). The surface is laser leveled flat to provide even drainage. Beds are frequently drained with socked tile in addition to the perimeter ditch. In addition to making it possible to hold water, the dykes allow equipment to service the beds without driving on the vines. Irrigation equipment is installed in the bed to provide irrigation for vine growth and for spring and autumn frost protection.
 
@@ -64,7 +62,7 @@ Cranberry vines are propagated by moving vines from an established bed. The vine
 
 Ripening and harvest
 
-Arthur_Rothstein_(American,_1915-1985)._Child_Labor,_Cranberry_Bog,_1939.jpg, _Child Labor, Cranberry Bog_, 1939. Brooklyn Museum]] Harvesting_cranberries_2.jpg Cranberries are harvested in the fall when the fruit takes on its distinctive deep red color. Berries that receive sun turn a deep red when fully ripe, while those that do not fully mature are a pale pink or white color. This is usually in September through the first part of November. To harvest cranberries, the beds are flooded with six to eight inches (15 to 20 centimeters) of water above the vines. A harvester is driven through the beds to remove the fruit from the vines. For the past 50 years, water reel type harvesters have been used. Harvested cranberries float in the water and can be corralled into a corner of the bed and conveyed or pumped from the bed. From the farm, cranberries are taken to receiving stations where they are cleaned, sorted, and stored prior to packaging or processing. While cranberries are harvested when they take on their deep red color, they can also be harvested beforehand when they are still white, which is how white cranberry juice is made.[24] Yields are lower on beds harvested early and the early flooding tends to damage vines, but not severely. Vines can also be trained through dry picking to help avoid damage in subsequent harvests.[25]
+, _Child Labor, Cranberry Bog_, 1939. Brooklyn Museum]] Cranberries are harvested in the fall when the fruit takes on its distinctive deep red color. Berries that receive sun turn a deep red when fully ripe, while those that do not fully mature are a pale pink or white color. This is usually in September through the first part of November. To harvest cranberries, the beds are flooded with six to eight inches (15 to 20 centimeters) of water above the vines. A harvester is driven through the beds to remove the fruit from the vines. For the past 50 years, water reel type harvesters have been used. Harvested cranberries float in the water and can be corralled into a corner of the bed and conveyed or pumped from the bed. From the farm, cranberries are taken to receiving stations where they are cleaned, sorted, and stored prior to packaging or processing. While cranberries are harvested when they take on their deep red color, they can also be harvested beforehand when they are still white, which is how white cranberry juice is made.[24] Yields are lower on beds harvested early and the early flooding tends to damage vines, but not severely. Vines can also be trained through dry picking to help avoid damage in subsequent harvests.[25]
 
 Although most cranberries are wet-picked as described above, 5–10% of the US crop is still dry-picked. This entails higher labor costs and lower yield, but dry-picked berries are less bruised and can be sold as fresh fruit instead of having to be immediately frozen or processed. Originally performed with two-handed comb scoops, dry picking is today accomplished by motorized, walk-behind harvesters which must be small enough to traverse beds without damaging the vines.
 
@@ -96,7 +94,7 @@ Food uses
 
 Products
 
-Dried-Cranberries.png As fresh cranberries are hard, sour, and bitter, about 95% of cranberries are processed and used to make cranberry juice and sauce. They are also sold dried and sweetened.[30][31] Cranberry juice is usually sweetened or blended with other fruit juices to reduce its natural tartness. At one teaspoon of sugar per ounce, cranberry juice cocktail is more highly sweetened than even soda drinks that have been linked to obesity.[32]
+As fresh cranberries are hard, sour, and bitter, about 95% of cranberries are processed and used to make cranberry juice and sauce. They are also sold dried and sweetened.[30][31] Cranberry juice is usually sweetened or blended with other fruit juices to reduce its natural tartness. At one teaspoon of sugar per ounce, cranberry juice cocktail is more highly sweetened than even soda drinks that have been linked to obesity.[32]
 
 Usually cranberries as fruit are cooked into a compote or jelly, known as cranberry sauce. Such preparations are traditionally served with roast turkey, as a staple of English Christmas dinners, and Thanksgiving (both in Canada and in the United States). The berry is also used in baking (muffins, scones, cakes and breads). In baking it is often combined with orange or orange zest. Less commonly, cranberries are used to add tartness to savory dishes such as soups and stews.[33]
 
@@ -136,7 +134,7 @@ Marketing and economics
 
 United States
 
-Cranberry sales in the United States have traditionally been associated with holidays of Thanksgiving and Christmas. Annual_Crops_of_Cranberries,_1907_to_1935,_American_Cranberry_Exchange.png In the U.S., large-scale cranberry cultivation has been developed as opposed to other countries. American cranberry growers have a long history of cooperative marketing. As early as 1904, John Gaynor, a Wisconsin grower, and A.U. Chaney, a fruit broker from Des Moines, Iowa, organized Wisconsin growers into a cooperative called the Wisconsin Cranberry Sales Company to receive a uniform price from buyers. Growers in New Jersey and Massachusetts were also organized into cooperatives, creating the National Fruit Exchange that marketed fruit under the Eatmor brand. The success of cooperative marketing almost led to its failure. With consistent and high prices, area and production doubled between 1903 and 1917 and prices fell.
+Cranberry sales in the United States have traditionally been associated with holidays of Thanksgiving and Christmas. In the U.S., large-scale cranberry cultivation has been developed as opposed to other countries. American cranberry growers have a long history of cooperative marketing. As early as 1904, John Gaynor, a Wisconsin grower, and A.U. Chaney, a fruit broker from Des Moines, Iowa, organized Wisconsin growers into a cooperative called the Wisconsin Cranberry Sales Company to receive a uniform price from buyers. Growers in New Jersey and Massachusetts were also organized into cooperatives, creating the National Fruit Exchange that marketed fruit under the Eatmor brand. The success of cooperative marketing almost led to its failure. With consistent and high prices, area and production doubled between 1903 and 1917 and prices fell.
 
 With surplus cranberries and changing American households some enterprising growers began canning cranberries that were below-grade for fresh market. Competition between canners was fierce because profits were thin. The Ocean Spray cooperative was established in 1930 through a merger of three primary processing companies: Ocean Spray Preserving company, Makepeace Preserving Co, and Cranberry Products Co. The new company was called Cranberry Canners, Inc. and used the Ocean Spray label on their products. Since the new company represented over 90% of the market, it would have been illegal (cf. antitrust) had attorney John Quarles not found an exemption for agricultural cooperatives. Morris April Brothers were the producers of Eatmor brand cranberry sauce, in Tuckahoe, New Jersey; Morris April Brothers brought an action against Ocean Spray for violation of the Sherman Antitrust Act and won $200,000 in real damages plus triple damages, in 1958, just in time for the Great Cranberry Scare of 1959. , about 65% of the North American industry belongs to the Ocean Spray cooperative. (The percentage may be slightly higher in Canada than in the U.S.)
 

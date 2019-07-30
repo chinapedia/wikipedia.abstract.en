@@ -5,7 +5,7 @@ Biography
 
 The first major role of Bayezid was as governor of Kütahya, a city that was conquered from the Germiyanids. He was an impetuous soldier, earning the nickname Lightning in a battle against the Karamanids.
 
-Bayezid ascended to the throne following the death of his father Murad I, who was killed by Serbian knight Miloš Obilić during (15 June), or immediately after (16 June), the Battle of Kosovo in 1389, by which Serbia became a vassal of the Ottoman Sultanate. Immediately after obtaining the throne, he had his younger brother strangled to avoid a plot. In 1390, Bayezid took as a wife Princess Olivera Despina, the daughter of Prince Lazar of Serbia,[5] who also lost his life in Kosovo. Bayezid recognized Stefan Lazarević, the son of Lazar, as the new Serbian leader (later despot), with considerable autonomy. Qur'anic_Manuscript_-_Mid_to_Late_15th_Century,_Turkey.jpg from the reign of Bayezid I.]] The upper Serbia resisted the Ottomans until general Pasha Yiğit Bey captured the city of Skopje in 1391, converting the city to an important base of operations.
+Bayezid ascended to the throne following the death of his father Murad I, who was killed by Serbian knight Miloš Obilić during (15 June), or immediately after (16 June), the Battle of Kosovo in 1389, by which Serbia became a vassal of the Ottoman Sultanate. Immediately after obtaining the throne, he had his younger brother strangled to avoid a plot. In 1390, Bayezid took as a wife Princess Olivera Despina, the daughter of Prince Lazar of Serbia,[5] who also lost his life in Kosovo. Bayezid recognized Stefan Lazarević, the son of Lazar, as the new Serbian leader (later despot), with considerable autonomy. from the reign of Bayezid I.]] The upper Serbia resisted the Ottomans until general Pasha Yiğit Bey captured the city of Skopje in 1391, converting the city to an important base of operations.
 
 Meanwhile, the sultan began unifying Anatolia under his rule. Forcible expansion into Muslim territories could endanger the Ottoman relationship with the gazis, who were an important source of warriors for this ruling house on the European frontier. So Bayezid began the practice to first secure _fatwa_s, or legal rulings from Islamic scholars, justifying their wars against these Muslim states. However he suspected the loyalty of his Muslim Turkoman followers, for Bayezid relied heavily on his Serbian and Byzantine vassal troops to perform these conquests.[6]
 
@@ -15,7 +15,7 @@ From 1389 to 1395 he conquered Bulgaria and northern Greece. In 1394 Bayezid cro
 
 In 1394, Bayezid laid siege to Constantinople,[9] the capital of the Byzantine Empire. Anadoluhisarı fortress was built between 1393 and 1394 as part of preparations for the Second Ottoman Siege of Constantinople, which took place in 1395. On the urgings of the Byzantine emperor Manuel II Palaeologus a new crusade was organized to defeat him. This proved unsuccessful: in 1396 the Christian allies, under the leadership of the King of Hungary and future Holy Roman Emperor (in 1433) Sigismund, were defeated in the Battle of Nicopolis. Bayezid built the magnificent Ulu Cami in Bursa, to celebrate this victory.
 
-Chlebowski-Bajazyt_w_niewoli.jpg, painting by Stanisław Chlebowski (oil on canvas, 1878).]]
+, painting by Stanisław Chlebowski (oil on canvas, 1878).]]
 
 Thus the siege of Constantinople continued, lasting until 1402.[10] The beleaguered Byzantines had their reprieve when Bayezid fought the Timurid Empire in the East.[11] At this time, the empire of Bayezid included Thrace (except Constantinople), Macedonia, Bulgaria, and parts of Serbia in Europe. In Asia, his domains extended to the Taurus Mountains. His army was considered one of the best in the Islamic world.
 
@@ -62,7 +62,7 @@ Daughters
 
 In fiction
 
-1396-Battle_of_Nicopolis.jpg, as depicted by Turkish miniaturist in 1588.[28]]]
+, as depicted by Turkish miniaturist in 1588.[28]]]
 
 The defeat of Bayezid became a popular subject for later Western writers, composers, and painters. They embellished the legend that he was taken by Timur to Samarkand with a cast of characters to create an oriental fantasy that has maintained its appeal. Christopher Marlowe's play _Tamburlaine the Great_ was first performed in London in 1587, three years after the formal opening of English-Ottoman trade relations when William Harborne sailed for Constantinople as an agent of the Levant Company.
 

@@ -226,7 +226,7 @@ Television
 
 Video games
 
-Postal_2_E3_2003.jpg, California on May 15, 2003]] Coleman portrayed a fictional version of himself in _Postal 2_, providing the voice and motion capture. He also portrayed Kenny Falmouth in _The Curse of Monkey Island_.
+, California on May 15, 2003]] Coleman portrayed a fictional version of himself in _Postal 2_, providing the voice and motion capture. He also portrayed Kenny Falmouth in _The Curse of Monkey Island_.
 
 Music videos
 

@@ -5,7 +5,7 @@ Elizabeth I awarded Drake a knighthood in 1581 which he received on the _Golden 
 
 Birth and early years
 
-sfdrake42.jpg by Nicholas Hilliard, 1581, reverse of "Drake Jewel", inscribed _Aetatis suae 42, An(n)o D(omi)ni 1581_ ("42 years of his age, 1581 AD")]]
+by Nicholas Hilliard, 1581, reverse of "Drake Jewel", inscribed _Aetatis suae 42, An(n)o D(omi)ni 1581_ ("42 years of his age, 1581 AD")]]
 
 Francis Drake was born in Tavistock, Devon, England. Although his birth date is not formally recorded, it is known that he was born while the Six Articles were in force. His birth date is estimated from contemporary sources such as: "Drake was two and twenty when he obtained the command of the _Judith_"[8] (1566). This would date his birth to 1544. A date of c.1540 is suggested from two portraits: one a miniature painted by Nicholas Hilliard in 1581 when he was allegedly 42, so born circa 1539, while the other, painted in 1594 when he was said to be 53,[9] would give a birth year of around 1541.
 
@@ -21,7 +21,7 @@ Francis Drake married Mary Newman at St. Budeaux church, Plymouth, in July 1569.
 
 Career at sea
 
-Drake_Juwel.JPG, London]]
+, London]]
 
 At the age of eighteen he was purser of a ship which sailed to the Bay of Biscay. At twenty he made a voyage to the coast of Guinea.[19] In 1563, Drake, aged 23, made his first voyage to the Americas, sailing with his second cousin, Sir John Hawkins, on one of a fleet of ships owned by his relatives, the Hawkins family of Plymouth. He made three voyages with this fleet, attacking Portuguese towns and ships on the coast of West Africa.[20] They then sailed to the Americas and sold the captured cargoes of slaves to Spanish plantations.[21] John Hawkins is considered to have been the first English slave-trader.[22] Hawkins made three such expeditions, the first in 1563, second in 1564 and the third expedition ending in the ill-fated 1568 incident at San Juan de Ulúa.[23][24][25]
 
@@ -49,7 +49,7 @@ Drake was present at the Rathlin Island massacre in 1575. Acting on the instruct
 
 Circumnavigation of the Earth (1577–1580)
 
-DRAKE_1577-1580.png is south of Cape Mendocino.]]
+is south of Cape Mendocino.]]
 
 With the success of the Panama isthmus raid in 1577, Elizabeth I of England sent Drake to start an expedition against the Spanish along the Pacific coast of the Americas. Drake used the plans that Sir Richard Grenville had received the patent for in 1574 from Elizabeth, which was rescinded a year later after protests from Philip of Spain. He set out from Plymouth on 15 November 1577, but bad weather threatened him and his fleet. They were forced to take refuge in Falmouth, Cornwall, from where they returned to Plymouth for repair.
 
@@ -59,7 +59,7 @@ Drake's fleet suffered great attrition; he scuttled both _Christopher_ and the f
 
 Execution of Thomas Doughty
 
-DrakeStatueTavistock.jpg, 1883.]]
+, 1883.]]
 
 On his voyage to interfere with Spanish treasure fleets, Drake had several quarrels with his co-commander Thomas Doughty and on 3 June 1578, accused him of witchcraft and charged him with mutiny and treason in a shipboard trial.[34] Drake claimed to have a (never presented) commission from the Queen to carry out such acts and denied Doughty a trial in England. The main pieces of evidence against Doughty were the testimony of the ship's carpenter, Edward Bright, who after the trial was promoted to master of the ship _Marigold_, and Doughty's admission of telling Lord Burghley, a vocal opponent of agitating the Spanish, of the intent of the voyage. Drake consented to his request of Communion and dined with him, of which Francis Fletcher had this strange account:
 
@@ -67,7 +67,7 @@ Drake had Thomas Doughty beheaded on 2 July 1578. When the ship's chaplain Franc
 
 Entering the Pacific (1578)
 
-Sfec_goldenhind02crop.jpg'']]
+'']]
 
 The three remaining ships of his convoy departed for the Magellan Strait at the southern tip of South America. A few weeks later (September 1578) Drake made it to the Pacific, but violent storms destroyed one of the three ships, the _Marigold_ (captained by John Thomas) in the strait and caused another, the _Elizabeth_ captained by John Wynter, to return to England, leaving only the _Pelican_. After this passage, the _Pelican_ was pushed south and discovered an island that Drake called Elizabeth Island. Drake, like navigators before him, probably reached a latitude of 55°S (according to astronomical data quoted in Hakluyt's _The Principall Navigations, Voiages and Discoveries of the English Nation_ of 1589) along the Chilean coast.[35] In the Magellan Strait Francis and his men engaged in skirmish with local indigenous people, becoming the first Europeans to kill indigenous peoples in southern Patagonia.[36] During the stay in the strait, crew members discovered that an infusion made of the bark of _Drimys winteri_ could be used as remedy against scurvy. Captain Wynter ordered the collection of great amounts of bark – hence the scientific name.[37]
 
@@ -83,7 +83,7 @@ Aboard _Nuestra Señora de la Concepción_, Drake found of gold, a golden crucif
 
 Coast of California: Nova Albion (1579)
 
-Drake_CA_1590.jpg]]
+]]
 
 After looting the Cacafuego, Drake turned north, hoping to meet another Spanish treasure ship coming south on its return from Manila to Acapulco. Although he failed to find a treasure ship, Drake reputedly sailed as far north as the 38th parallel, landing on the coast of California on 17 June 1579. He found a good port, landed, repaired and restocked his vessels, then stayed for a time, keeping friendly relations with the Coast Miwok natives. He claimed the land in the name of the Holy Trinity for the English Crown, called _Nova Albion_—Latin for "New Britain". Assertions that he left some of his men behind as an embryo "colony" are founded on the reduced number who were with him in the Moluccas.[41]
 
@@ -103,7 +103,7 @@ For her part, the Queen gave Drake a jewel with her portrait, an unusual gift to
 
 Award of knighthood
 
-DrakeKnightedTavistockMonument.jpg, 1883, base of Drake statue, Tavistock.]] Sir_Francis_Drake_And_His_Coat_Of_Arms.gif, with motto: _Sic Parvis Magna_, translated literally: "Thus great things from small things (come)". The hand out of the clouds is labelled _Auxilio Divino_, or "With Divine Help"[46]]]
+, 1883, base of Drake statue, Tavistock.]] , with motto: _Sic Parvis Magna_, translated literally: "Thus great things from small things (come)". The hand out of the clouds is labelled _Auxilio Divino_, or "With Divine Help"[46]]]
 
 Queen Elizabeth awarded Drake a knighthood aboard _Golden Hind_ in Deptford on 4 April 1581; the dubbing being performed by a French diplomat, Monsieur de Marchaumont, who was negotiating for Elizabeth to marry the King of France's brother, Francis, Duke of Anjou.[47][48] By getting the French diplomat involved in the knighting, Elizabeth was gaining the implicit political support of the French for Drake's actions.[49][50] During the Victorian era, in a spirit of nationalism, the story was promoted that Elizabeth I had done the knighting.[51][52]
 
@@ -134,7 +134,7 @@ In 1580, Drake purchased Buckland Abbey, a large manor house near Yelverton in D
 
 Great Expedition to America
 
-Boazio-Sir_Francis_Drakes_West_Indian_Voyage.jpg]]
+]]
 
 War had already been declared by Phillip II after the Treaty of Nonsuch, so the Queen through Francis Walsingham ordered Sir Francis Drake to lead an expedition to attack the Spanish colonies in a kind of preemptive strike. An expedition left Plymouth in September 1585 with Drake in command of twenty-one ships with 1,800 soldiers under Christopher Carleill. He first attacked Vigo in Spain and held the place for two weeks ransoming supplies. He then plundered Santiago in the Cape Verde islands after which the fleet then sailed across the Atlantic, sacked the port of Santo Domingo, and captured the city of Cartagena de Indias in present-day Colombia. On 6 June 1586, during the return leg of the voyage, he raided the Spanish fort of San Augustín in Spanish Florida.
 
@@ -153,7 +153,7 @@ Over the next month, Drake patrolled the Iberian coasts between Lisbon and Cape 
 
 Defeat of the Spanish Armada
 
-DrakeMonumentTavistock.jpg, 1883, base of Drake statue, Tavistock]] Loutherbourg-Spanish_Armada.jpg.]]
+, 1883, base of Drake statue, Tavistock]] .]]
 
 Drake was vice admiral in command of the English fleet (under Lord Howard of Effingham,) when it overcame the Spanish Armada that was attempting to invade England in 1588. As the English fleet pursued the Armada up the English Channel in closing darkness, Drake broke off and captured the Spanish galleon _Nuestra Señora del Rosario_, along with Admiral Pedro de Valdés and all his crew. The Spanish ship was known to be carrying substantial funds to pay the Spanish Army in the Low Countries. Drake's ship had been leading the English pursuit of the Armada by means of a lantern. By extinguishing this for the capture, Drake put the fleet into disarray overnight.
 
@@ -170,7 +170,7 @@ In 1589, the year after defeating the Armada, Drake and Sir John Norreys were gi
 
 Defeats and death
 
-BurialOfDrakeTavistockMonument.jpg. Bronze plaque by Joseph Boehm, 1883, base of Drake statue, Tavistock.]]
+. Bronze plaque by Joseph Boehm, 1883, base of Drake statue, Tavistock.]]
 
 Drake's seafaring career continued into his mid-fifties. In 1595, he failed to conquer the port of Las Palmas, and following a disastrous campaign against Spanish America, where he suffered a number of defeats, he unsuccessfully attacked San Juan de Puerto Rico, eventually losing the Battle of San Juan.
 
@@ -181,7 +181,7 @@ Before dying, he asked to be dressed in his full armour. He was buried at sea in
 
 Cultural impact
 
-Francis_Drake,_por_un_artista_anónimo.jpg miniature—note the similar shirt—and the somewhat oddly-proportioned body, added by an artist who did not have access to Drake. National Portrait Gallery, London. ]] Gheeraerts_Francis_Drake_1591.jpg
+miniature—note the similar shirt—and the somewhat oddly-proportioned body, added by an artist who did not have access to Drake. National Portrait Gallery, London. ]]
 
 In the UK there are various places named after him, especially in Plymouth, Devon. Places there carrying his name include the naval base HMS Drake, Drake's Island, and a shopping centre and roundabout named Drake Circus. Plymouth Hoe is also home to a statue of Drake.
 
